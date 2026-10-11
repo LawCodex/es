@@ -1,0 +1,667 @@
+---
+title: "Ley 16/2015, de 21 de julio, de simplificación de la actividad administrativa de la Administración de la Generalidad y de los gobiernos locales de Cataluña y de impulso de la actividad económica"
+identifier: "BOE-A-2015-9208"
+eli: "https://www.boe.es/eli/es-ct/l/2015/07/21/16"
+type: act
+rank: "Ley"
+jurisdiction: es-cataluna
+language: es
+department: "Comunidad Autónoma de Cataluña"
+date: 2015-07-21
+published: 2015-08-15
+in_force_from: 2015-08-13
+last_amended: 2026-05-06
+consolidated: 2026-07-07
+gazette: "Boletín Oficial del Estado núm. 195"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-9208"
+retrieved: 2026-10-11
+---
+
+# Ley 16/2015, de 21 de julio, de simplificación de la actividad administrativa de la Administración de la Generalidad y de los gobiernos locales de Cataluña y de impulso de la actividad económica
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 65 del Estatuto de autonomía de Cataluña, promulgo la siguiente Ley 16/2015, de 21 de julio, de simplificación de la actividad administrativa de la Administración de la Generalidad y de los gobiernos locales de Cataluña y de impulso de la actividad económica.
+
+Preámbulo.
+
+El artículo 45.5 del Estatuto de autonomía, dentro de los principios rectores que deben orientar las políticas públicas, establece que la Generalidad debe favorecer el desarrollo de la actividad empresarial y el espíritu emprendedor teniendo en cuenta la responsabilidad social de la empresa, la libre iniciativa y las condiciones de competencia, y que debe proteger especialmente la economía productiva, la actividad de los emprendedores autónomos y la de las pequeñas y medianas empresas.
+
+Asimismo, el artículo 160.1 del Estatuto atribuye a la Generalidad la competencia exclusiva en materia de régimen local, que, respetando el principio de autonomía local, incluye las relaciones entre las instituciones de la Generalidad y los entes locales, así como las técnicas de organización y de relación para la cooperación y colaboración entre los entes locales y entre estos y la Administración de la Generalidad.
+
+Una administración moderna y eficiente debe simplificar las estructuras administrativas, eliminar duplicidades de actuación y garantizar el principio de estabilidad presupuestaria y sostenibilidad financiera de las administraciones públicas, sin perjuicio de que la intervención administrativa de la actividad de los ciudadanos y de las empresas debe seguir velando por el interés general.
+
+El principal objetivo de la presente ley es establecer una serie de criterios con la voluntad de clarificar y simplificar las obligaciones que la normativa vigente impone a las administraciones públicas de Cataluña y, por consiguiente, a los ciudadanos y a las empresas.
+
+Las empresas deben cumplir múltiples requerimientos a la hora de iniciar y mantener su actividad empresarial. La existencia de procedimientos de autorización muy complejos y poco pautados provoca que la posibilidad de iniciar una actividad se alargue en el tiempo mucho más de lo que sería recomendable para garantizar la necesaria competitividad empresarial. Es prioridad del Gobierno impulsar un cambio de modelo de relación entre las empresas y la Administración que facilite la actividad económica, deposite la confianza en el empresariado y, a la vez, reduzca el exceso de cargas y trámites burocráticos.
+
+Buena parte de la actividad económica que ejercen los ciudadanos y las empresas requiere la intervención de los ayuntamientos. Ello significa que los entes locales tengan un papel esencial, como Administración responsable, en los procedimientos establecidos, por una parte, por el texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, y, por otra, por las leyes sectoriales dictadas en cada ámbito de actuación.
+
+La Ley 26/2010, de 3 de agosto, de régimen jurídico y de procedimiento de las administraciones públicas de Cataluña, es el marco general de actuación de todas las administraciones públicas de Cataluña, y en su articulado incluye una clara voluntad simplificadora. Sin embargo, es necesario dar un paso adelante y configurar la simplificación administrativa no como una obligación de las administraciones públicas, sino como un verdadero derecho subjetivo de la ciudadanía, las empresas y los profesionales.
+
+La simplificación de la actividad administrativa debe servir para mejorar los procedimientos regulados por las normativas local y sectorial de los ámbitos competenciales de la Generalidad, de forma que, sin renunciar a la protección del interés general, la reducción de plazos y el aumento de la eficiencia de recursos en los procedimientos de autorización y control de las actividades económicas repercuta de forma directa en la reducción de costes para las empresas para reactivar la actividad económica y el empleo.
+
+Esta ley incide expresamente en los trámites para poner en funcionamiento los negocios, así como para realizar cambios y modificaciones posteriores en los mismos, que afectan a un conjunto de actividades consideradas inocuas o de bajo riesgo y que tienen una repercusión especial en sectores empresariales que actualmente representan un 74 % de la actividad económica de Cataluña y afectan a más de un 51 % de la población empleada. En concreto, las actuaciones normativas establecidas por la presente ley pretenden clarificar los regímenes de intervención de las administraciones, relacionados con la ubicación del negocio o el establecimiento empresarial introduciendo una importante reducción de las cargas administrativas bajo el principio de la mínima intervención posible y la reducción de plazos.
+
+El camino de la modificación normativa para la supresión de barreras para la actividad económica se inició con la aprobación del Plan de racionalización normativa, que comportó la derogación de 246 disposiciones. Posteriormente tuvo una importancia relevante la aprobación, a finales de 2011, de las leyes conocidas como ómnibus como primer paso en el objetivo que persigue esta ley de profundizar en el proceso de simplificación administrativa reduciendo las cargas, con el fin de buscar la reactivación de la actividad económica.
+
+Sin embargo, será necesario seguir avanzando en la simplificación administrativa de todas las actividades económicas y no renunciar a futuras modificaciones de leyes sectoriales que permitan adecuar sus preceptos a los principios establecidos por la presente ley, con el objetivo de agilizar y simplificar la actividad administrativa en el resto de actividades económicas.
+
+La presente ley consta de veintitrés artículos agrupados en tres títulos, y de nueve disposiciones adicionales, tres disposiciones transitorias, una disposición derogatoria, cuatro disposiciones finales y dos anexos.
+
+El título I regula el objeto, el ámbito de aplicación y las finalidades de la Ley.
+
+El título II regula la simplificación administrativa en el ejercicio de las actividades económicas, recoge una serie de principios de actuación y regula el procedimiento administrativo que debe aplicarse en caso de que no se formule la comunicación previa o la declaración responsable necesarias para llevar a cabo una actividad, o bien en caso de que sea falsa o inexacta. Además, pasar a un régimen de control posterior basado en la confianza legítima comporta la necesidad de establecer un régimen sancionador para los casos en que se incumpla la norma. También se impulsa el establecimiento de mecanismos alternativos a la intervención administrativa y de planificación sectorial y se regula la resolución de consultas en la aplicación y la interpretación de las normas sectoriales.
+
+Tiene especial interés la regulación del régimen de intervención aplicable a las actividades inocuas y a las actividades de bajo riesgo. Mientras estas se someten a comunicación previa, por razón de su incidencia sobre el medio ambiente, la seguridad de las personas o los bienes, la declaración responsable se mantiene para las actividades en que la intervención administrativa se justifica por razón de la protección de los consumidores, los destinatarios de los servicios y los trabajadores. Finalmente, se establecen instrumentos para facilitar la relación de las empresas y los profesionales con las administraciones públicas. Concretamente, se determina que la ventanilla única empresarial permita a las empresas y los profesionales realizar desde un único punto, con independencia de la Administración responsable, todos los trámites necesarios con relación a su actividad. Para que estos trámites puedan realizarse por varios canales se regula el portal único para las empresas como canal electrónico de la ventanilla única empresarial. También se regula la Comisión para la Facilitación de la Actividad Económica, que es una comisión entre la Administración de la Generalidad, la Administración local, las cámaras de comercio, industria, servicios y navegación de Cataluña, y las organizaciones empresariales más representativas. El objetivo de dicha comisión es realizar un seguimiento de la implantación de las medidas establecidas por esta norma que permitan una tutela efectiva de los derechos que se pretenden proteger.
+
+El título III modifica varias normas con rango de ley y se distribuye en cuatro capítulos.
+
+En el capítulo I se modifica la Ley 26/2010, de 3 de agosto, de régimen jurídico y procedimiento de las administraciones públicas de Cataluña. Esta modificación pretende, por una parte, que las cartas de servicios, como compromiso de servicio de la Administración, se generalicen y, por otra, que la declaración responsable y la comunicación previa se configuren como el mecanismo de control ordinario que ejercen las administraciones públicas de Cataluña. Además, se establecen una serie de disposiciones para los casos en que la resolución del procedimiento requiere la emisión de varios informes: la reducción a diez días del plazo para emitirlos; la obligación de solicitar la emisión de todos los informes de forma simultánea, y el derecho de la persona interesada a pedir la continuación del procedimiento si el informe no ha sido evacuado dentro de plazo. Finalmente, al efecto de evitar que la demora en el desarrollo reglamentario atrase la aplicación efectiva de las leyes, se establece un límite temporal para dicho desarrollo.
+
+En el capítulo II se modifica el texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril. Se introduce la posibilidad de que los entes locales puedan suspender temporalmente la prestación de los servicios que no tienen la condición de mínimos, en caso de que se produzca una situación de insuficiencia de recursos en términos de capacidad fiscal; se modifica y se simplifica la intervención del departamento de la Generalidad competente en materia de Administración local en determinados procedimientos, y se singulariza la excepcionalidad del régimen de control preventivo por parte de los entes locales.
+
+En el capítulo III se modifican parcialmente varias leyes de carácter sectorial que tienen especial incidencia en la legalización de las actividades económicas, como la Ley 20/2009, de 4 de diciembre, de prevención y control ambiental de las actividades, y más concretamente, el régimen de licencia ambiental, de forma que se amplían las actividades que están sometidas al régimen de comunicación en vez del de licencia, y se excluyen del ámbito de aplicación de la normativa ambiental un conjunto de actividades que hasta ahora estaban sujetas a comunicación.
+
+También se modifica la Ley 3/2010, de 18 de febrero, de prevención y seguridad en materia de incendios en establecimientos, actividades, infraestructuras y edificios, para desarrollar el régimen de intervención administrativa por parte de los entes locales y dar cabida a la declaración responsable y a la comunicación previa. Además, se tipifican los diversos supuestos que pueden darse: que la actividad requiera licencia de obras, que la actividad esté incluida en los anexos I y II de la Ley, que la actividad esté sujeta al régimen de licencia municipal para establecimientos abiertos al público, o que la actividad esté incluida en el anexo I de la Ley 3/2010. También se añade un nuevo artículo, el 22 bis, para recoger el informe preceptivo por riesgo de incendios que se aplica a las actividades del anexo I de la Ley 3/2010 consideradas de importante riesgo que no son objeto de ninguna otra modalidad de intervención pero que deben ser reguladas por razón del bien jurídico a proteger.
+
+Finalmente, se modifica el texto refundido de la Ley de urbanismo, aprobado por el Decreto legislativo 1/2010, de 3 de agosto. Se establece que el planeamiento urbanístico y las ordenanzas municipales sobre edificación y uso del suelo no pueden establecer limitaciones al acceso de la actividad económica o al ejercicio de las actividades que vulneran la Directiva de servicios y su normativa de transposición; también se elimina la necesidad de licencia urbanística de un conjunto de actuaciones, como las construcciones e instalaciones de nueva planta; las obras de ampliación, reformas y otras que no requieren proyecto; el cambio de uso de edificios e instalaciones, excepto si el cambio es hacia un uso residencial; la construcción de muros o vallas o la instalación de carteles o vallas, entre otros.
+
+En el capítulo IV se modifica la Ley 6/1988, de 3 de marzo, forestal de Cataluña. Se le añade un artículo relativo al régimen de intervención de la Administración en el ámbito forestal agrícola.
+
+Por otra parte, en el marco del objetivo de impulsar la actividad económica, y dado que, de conformidad con el artículo 45 del Estatuto de autonomía, los poderes públicos deben adoptar las medidas necesarias para promover el progreso económico y social de Cataluña y de sus ciudadanos y que, de acuerdo con el artículo 139 del Estatuto, corresponde a la Generalidad la ordenación de los sectores y los procesos industriales en Cataluña, esta ley también favorece los procesos de transformación sectorial y de reconversión industrial de ámbitos en que históricamente haya predominado un único tipo de industria o explotación y que estén en fase de disminución de su actividad, o en fase de transformación o cierre, de forma que sea posible declararlos proyectos de interés general para que queden sujetos a los principios de esta ley, de cara a la potenciación de la colaboración entre las administraciones públicas y los particulares.
+
+## TÍTULO I — Disposiciones generales
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+#### Artículos 1 a 3.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+## TÍTULO II — Simplificación administrativa en el ejercicio de la actividad económica
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+#### Artículos 4 a 17.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+## TÍTULO III — Modificación de normas con rango de ley
+
+### CAPÍTULO I — Modificación en materia de régimen jurídico y de procedimiento administrativo
+
+#### Artículo 18. Modificación de la Ley 26/2010.
+
+1\. Se modifica el apartado 3 del artículo 23 de la Ley 26/2010, de 3 de agosto, de régimen jurídico y de procedimiento de las administraciones públicas de Cataluña, que queda redactado del siguiente modo:
+
+«3. Las administraciones públicas de Cataluña deben tener cartas de servicios a disposición de los ciudadanos, empresas y profesionales, como instrumentos para la mejora de la calidad de los servicios, en los términos establecidos por la normativa vigente.»
+
+2\. Se añade un nuevo apartado, el 4, al artículo 23 de la Ley 26/2010, de 3 de agosto, de régimen jurídico y de procedimiento de las administraciones públicas de Cataluña, con el siguiente texto:
+
+«4. Las unidades orgánicas de la Administración de la Generalidad con un rango mínimo de dirección general deben disponer de una carta de servicios por cada uno de los servicios finalistas que prestan. Las cartas pueden ser individualizadas por cada servicio o bien agrupadas, deben evaluarse cada dos años y deben actualizarse, como mínimo, cada cinco años.»
+
+3\. Se añade un nuevo artículo, el 50 bis, a la Ley 26/2010, de 3 de agosto, de régimen jurídico y de procedimiento de las administraciones públicas de Cataluña, con el siguiente texto:
+
+«Artículo 50 bis. Informes.
+
+«1. Los informes deben ser facultativos y no vinculantes, sin perjuicio de lo que establezca la legislación sectorial.
+
+2\. El envío de informes entre las administraciones públicas de Cataluña debe realizarse electrónicamente, mediante las plataformas habilitadas a tal efecto.
+
+3\. En la instrucción del procedimiento, deben solicitarse los informes que sean preceptivos de acuerdo con la normativa reguladora del procedimiento. En el caso de los informes facultativos, el órgano peticionario debe justificar de forma expresa la necesidad de su emisión.
+
+4\. Los informes deben emitirse en el plazo de diez días, salvo que una disposición con rango de ley establezca un plazo superior.
+
+5\. Si es necesario solicitar más de un informe en un mismo procedimiento, el órgano peticionario debe solicitarlos todos de forma simultánea, salvo que de acuerdo con la normativa sectorial aplicable la emisión de un informe preceptivo requiera el conocimiento de un informe previo también preceptivo.
+
+6\. Si un informe no se ha emitido en el plazo establecido, debe continuarse la tramitación del procedimiento, sin perjuicio de lo establecido por la normativa de procedimiento administrativo en el supuesto de informes preceptivos.
+
+7\. No obstante lo establecido por el apartado 6, el procedimiento debe continuar necesariamente y en todo caso si la persona interesada lo solicita expresamente, excepto cuando se trate de informes preceptivos que sean determinantes para la resolución del procedimiento, supuesto en que puede interrumpirse el plazo de los trámites sucesivos. La continuación del procedimiento produce efectos una vez transcurridos diez días desde la recepción de la solicitud por el órgano competente para tramitarla, la cual debe ser comunicada al interesado.»
+
+4\. Se modifica el apartado 3 del artículo 110 de la Ley 26/2010, de 3 de agosto, de régimen jurídico y de procedimiento de las administraciones públicas de Cataluña, que queda redactado del siguiente modo:
+
+«3. Los convenios y los protocolos deben publicarse en el Diari Oficial de la Generalitat de Catalunya y en la web del Registro de convenios de colaboración y cooperación de la Generalidad, que es accesible desde el Portal de la Transparencia.»
+
+5\. Se añade una nueva disposición adicional, la decimosexta, a la Ley 26/2010, de 3 de agosto, de régimen jurídico y de procedimiento de las administraciones públicas de Cataluña, con el siguiente texto:
+
+«Disposición adicional decimosexta. Identificación y autentificación de los ciudadanos para acceder a la firma electrónica no avanzada.
+
+1\. Las administraciones públicas de Cataluña, en el plazo de un año desde la entrada en vigor de la presente ley, deben establecer una solución de interoperabilidad o compatibilidad de los sistemas de identificación, autentificación y firma electrónica no avanzada a partir de la utilización de claves concertadas en un registro previo como usuario, la aportación de información conocida por ambas partes u otros sistemas no criptográficos, en los términos y condiciones establecidos por reglamento.
+
+2\. Las claves concertadas en un registro previo, la información conocida por los ciudadanos y por las administraciones públicas, y los datos y códigos alfanuméricos que figuren impresos en tarjetas identificativas o de acceso a servicios públicos expedidas por las administraciones públicas, incluida la tarjeta de identificación sanitaria, pueden ser utilizados para verificar la identificación y autentificación de los ciudadanos y realizar el registro electrónico de su identidad sin certificado digital. En todo caso, la persona interesada debe ser informada y requerida a consentir, por el mismo canal electrónico, que el proceso de validación de dichos datos requiere la consulta de sus datos en el correspondiente fichero.
+
+3\. El sistema de identificación, autentificación y firma electrónica no avanzada es válido en el ámbito de la Administración de la Generalidad y aplicable en sus relaciones y actuaciones con los ciudadanos, las entidades, fundaciones y asociaciones inscritas en los registros públicos, las empresas y otros organismos públicos. Los términos, condiciones y supuestos de utilización de este sistema de firma electrónica y su ámbito subjetivo de aplicación deben ser determinados por orden del consejero competente en materia de atención ciudadana.»
+
+6\. Se añade una nueva disposición adicional, la decimoséptima, a la Ley 26/2010, de 3 de agosto, de régimen jurídico y de procedimiento de las administraciones públicas de Cataluña, con el siguiente texto:
+
+«Disposición adicional decimoséptima. Desarrollo reglamentario de las leyes.
+
+En caso de que sea necesario desarrollar las leyes por reglamento y de que no se haya establecido en qué plazo, este debe ser de seis meses.»
+
+### CAPÍTULO II — Modificación en materia de régimen local
+
+#### Artículo 19. Modificación del texto refundido de la Ley municipal y de régimen local de Cataluña.
+
+1\. Se añade un nuevo artículo, el 69 bis, al texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, con el siguiente texto:
+
+«Artículo 69 bis. Procedimiento voluntario para la suspensión temporal de la prestación de determinados servicios por parte de los municipios.
+
+1\. Los municipios deben prestar las actividades y los servicios establecidos por las leyes sectoriales que les son aplicables, en ejercicio de las competencias que estas les atribuyen.
+
+2\. Los municipios pueden suspender, excepcionalmente y de forma temporal, la prestación de actividades y servicios públicos que les atribuye una ley sectorial de Cataluña si se encuentran en una situación de insuficiencia de recursos en términos de capacidad fiscal. La suspensión en ningún caso puede afectar los servicios mínimos establecidos por el artículo 67.
+
+3\. El procedimiento para suspender la prestación de los servicios públicos a los que se refiere el presente artículo tiene carácter voluntario y solamente se puede adoptar a iniciativa de la entidad local. La suspensión debe justificarse por razones de interés general, y debe basarse en la acreditación de la situación de insuficiencia de recursos en términos de capacidad fiscal, de acuerdo con lo establecido por reglamento.
+
+4\. La tramitación del expediente, en los términos establecidos por reglamento, requiere un trámite de información pública en el municipio y el informe preceptivo de los departamentos de la Administración de la Generalidad competentes por razón de la materia, y debe resolverse por resolución del consejero o consejera competente en materia de Administración local, previo informe de la Comisión de Gobierno Local de Cataluña. En caso de que existan informes desfavorables, debe resolver el Gobierno, a propuesta del consejero o consejera competente en materia de Administración local.
+
+5\. La suspensión temporal del servicio no puede ser superior a dos años. No obstante, puede prorrogarse por períodos sucesivos, en los términos establecidos por reglamento, si persisten las causas que la motivaron. El levantamiento de la suspensión y la recuperación por parte del ayuntamiento, a iniciativa propia, de la prestación del servicio se producen en los términos establecidos por reglamento.
+
+6\. La Comisión de Gobierno Local de Cataluña, de oficio o a iniciativa de un municipio, puede identificar medidas de suspensión temporal de la prestación de actividades y servicios públicos atribuidos por una ley sectorial de Cataluña y proponer las acciones necesarias para iniciar el procedimiento de suspensión.»
+
+2\. Se modifican las letras a) y b) del apartado 1 del artículo 17 del texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, que quedan redactadas del siguiente modo:
+
+«a) El expediente se inicia por acuerdo del ayuntamiento o ayuntamientos interesados o del consejo o consejos comarcales interesados, o bien lo inicia de oficio el departamento competente en materia de Administración local. Puede iniciarse también a petición de los vecinos, en una mayoría del 50 %, como mínimo, del último censo electoral del municipio o de la parte o partes del mismo en el supuesto de segregación. En este último caso, el ayuntamiento debe adoptar el acuerdo en el plazo de un mes, a contar desde la presentación de la petición en el registro municipal.
+
+b) Los acuerdos municipales o comarcales sobre alteración de términos requieren el voto favorable de la mayoría absoluta del número legal de miembros de la corporación y deben someterse a información pública por un período de un mes. Las corporaciones deben enviar los acuerdos al departamento competente en materia de Administración local junto con la resolución de las reclamaciones y alegaciones presentadas, que debe ser adoptada con el mismo quórum requerido para el acuerdo inicial. También debe realizarse el envío cuando el expediente se ha iniciado a instancia de los vecinos para la segregación de parte del municipio, aunque el acuerdo o acuerdos municipales no sean favorables.»
+
+3\. Se modifica el apartado 1 del artículo 18 del texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, que queda redactado del siguiente modo:
+
+«1. Corresponde al Gobierno la aprobación de todos los expedientes de alteración de los términos municipales promovidos de acuerdo con lo dispuesto por el artículo 17, mediante decreto adoptado a propuesta del consejero o consejera del departamento competente en materia de Administración local. El Gobierno debe aprobar la alteración de los términos municipales promovida a iniciativa del municipio o de los vecinos si se produce el acuerdo favorable de los municipios interesados y no formulan objeciones los organismos consultivos a los que se refiere el presente artículo.»
+
+4\. Se modifica el artículo 19 del texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, que queda redactado del siguiente modo:
+
+«Artículo 19. Contenido del decreto o la ley de aprobación.
+
+El decreto o la ley deben determinar la delimitación de los términos municipales, el reparto del patrimonio, la asignación del personal, la forma en que deben liquidarse las deudas o los créditos contraídos por los municipios y la fijación de la capitalidad, si procede. Estas determinaciones deben ajustarse a los pactos intermunicipales que pueden establecerse entre los municipios interesados.»
+
+5\. Se modifican los apartados 1, 2 y 3 del artículo 31 del texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, que quedan redactados del siguiente modo:
+
+«1. El acuerdo de cambio de denominación de un municipio debe ser adoptado por el pleno del ayuntamiento y requiere el voto favorable de la mayoría absoluta del número legal de miembros de la corporación. Antes de la adopción del acuerdo municipal, debe abrirse información pública por un plazo mínimo de treinta días.
+
+2\. El acuerdo municipal debe ser remitido al departamento competente en materia de Administración local.
+
+3\. Si la nueva denominación acordada por el ayuntamiento es susceptible de ser confundida con la de otro municipio o contiene incorrecciones lingüísticas o no se ajusta a la toponimia catalana, corresponde al Gobierno, a propuesta del departamento competente en materia de Administración local, la resolución definitiva sobre el cambio de nombre, previa audiencia del municipio interesado. A tales efectos, el departamento puede solicitar el informe del Instituto de Estudios Catalanes.»
+
+6\. Se modifican las letras b) y c) del apartado 1 del artículo 79 del texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, que quedan redactadas del siguiente modo:
+
+«b) En el primer caso, el ayuntamiento debe adoptar el acuerdo en el plazo de un mes a contar desde la presentación de la petición en el registro municipal.
+
+c) El acuerdo municipal sobre constitución de la entidad municipal **descentralizada**debe determinar las competencias que, de acuerdo con el artículo 82, tiene que asumir la entidad, y el sistema de participación en los ingresos del ayuntamiento. El acuerdo debe someterse al trámite de información pública por un plazo de un mes; una vez transcurrido este plazo, debe remitirse al departamento competente en materia de Administración local, junto con la resolución de las alegaciones presentadas, la cual debe adoptarse con el voto favorable de la mayoría absoluta del número legal de los miembros de la corporación. También debe realizarse la remisión cuando el expediente se ha iniciado a instancia de los vecinos, aunque el acuerdo municipal no sea favorable.»
+
+> Téngase en cuenta que se declara la inconstitucionalidad y nulidad del inciso destacado en el apartado 6.c), con el alcance establecido en el fundamento jurídico 6, por Sentencia del TC de 2 de febrero de 2017. [Ref. BOE-A-2017-2620](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2620).
+
+7\. Se modifican los apartados 1 y 3 del artículo 119 del texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, que quedan redactados del siguiente modo:
+
+«1. El proyecto de estatutos debe someterse a información pública, por un plazo de treinta días, mediante la inserción de anuncios en los tablones de edictos de los ayuntamientos y la publicación en el Diari Oficial de la Generalitat de Catalunya.»
+
+«3. El proyecto definitivo de estatutos debe remitirse al departamento competente en materia de Administración local para que, en el plazo de un mes, emita informe de acuerdo con la legalidad vigente, una vez escuchado el consejo comarcal.»
+
+8\. Se modifica la letra b) del artículo 121 del texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, que queda redactada del siguiente modo:
+
+«b) El informe preceptivo y no vinculante del departamento competente en materia de Administración local.»
+
+9\. Se añade un nuevo apartado, el 4, al artículo 145 del texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, con el siguiente texto:
+
+«4. Los entes locales deben remitir los actos y los acuerdos a los que se refiere el apartado 1 por medios electrónicos. A tales efectos, deben respetar las condiciones y los instrumentos establecidos por reglamento de acuerdo con la normativa de régimen jurídico y procedimiento de las administraciones públicas de Cataluña y, en todo caso, los principios de responsabilidad, calidad, seguridad, disponibilidad, accesibilidad, neutralidad e interoperabilidad.»
+
+10\. Se modifica el apartado 3 del artículo 206 del texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, que queda redactado del siguiente modo:
+
+«3. La adquisición de bienes y derechos patrimoniales a título oneroso requiere:
+
+a) El cumplimiento de las normas sobre contratación de bienes y derechos de patrimonio local.
+
+b) En el caso de los bienes inmuebles o de derechos sobre estos bienes, la valoración pericial de un técnico o técnica local. Puede realizarse la adquisición directa de bienes inmuebles si lo requieren las peculiaridades de los bienes, las necesidades del servicio a satisfacer o las limitaciones del mercado inmobiliario. En tales casos, se requiere el informe previo del departamento competente en materia de Administración local si el valor de los bienes excede los 100.000 euros. El informe debe emitirse en un plazo de veinte días. En los demás casos, debe incorporarse el informe previo del secretario o secretaria de la entidad local. En los municipios de gran población y en el municipio de Barcelona solamente requieren el informe previo del departamento si el valor del bien excede del 25 % de los recursos ordinarios del presupuesto consolidado de la corporación. Puede realizarse la adquisición directa en el supuesto de extrema urgencia, previo informe del secretario o secretaria de la entidad local, con la acreditación de dicha situación.
+
+c) En el caso de valores mobiliarios, el informe previo del departamento competente en materia de economía y finanzas. El informe debe emitirse en un plazo de veinte días.»
+
+11\. Se modifica el artículo 209 del texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, que queda redactado del siguiente modo:
+
+«Artículo 209. Enajenación y gravamen.
+
+1\. La enajenación de bienes y derechos patrimoniales a título oneroso requiere el cumplimiento de las normas sobre contratación de bienes y derechos de patrimonio local.
+
+2\. Para enajenar o grabar bienes inmuebles patrimoniales, deben tenerse en cuenta las siguientes reglas:
+
+a) La enajenación de bienes inmuebles patrimoniales puede realizarse por concurso, subasta pública o adjudicación directa. El procedimiento ordinario para la enajenación de inmuebles es el concurso.
+
+b) Puede acordarse la subasta de bienes que, por su ubicación, naturaleza y características, sean inadecuados para atender las directrices derivadas de políticas públicas de vivienda.
+
+c) Puede acordarse la adjudicación directa si lo requieren las particularidades del bien, las necesidades a satisfacer o las limitaciones del mercado inmobiliario.
+
+d) Es necesario el informe previo del departamento competente en materia de Administración local si el valor del bien o del gravamen excede los 100.000 euros. Si no se excede este valor debe incorporarse un informe previo del secretario o secretaria de la entidad local. El informe del departamento debe emitirse en un plazo de veinte días. Si el informe del departamento no es favorable, el pleno debe adoptar el acuerdo de enajenación con los requisitos establecidos por el artículo 47.2 de la Ley del Estado 7/1985, de 2 de abril, reguladora de las bases del régimen local. En los municipios de gran población y en el municipio de Barcelona solamente se requiere el informe previo del departamento si el valor del bien o del gravamen excede del 25 % de los recursos ordinarios del presupuesto consolidado de la corporación.
+
+e) Es necesaria la valoración pericial del técnico o técnica local que acredite la valoración de los bienes o del gravamen.
+
+f) La constitución de cargas y gravámenes sobre bienes patrimoniales debe respetar, en su caso, los requisitos establecidos para la enajenación.
+
+3\. Para enajenar valores mobiliarios, es necesario el informe previo del departamento competente en materia de economía y finanzas, que debe emitirse en un plazo de veinte días.
+
+4\. En ningún caso pueden enajenarse bienes inmuebles patrimoniales para financiar gastos corrientes, salvo que se trate de parcelas sobrantes de vías públicas no edificables o de bienes no utilizables en servicios públicos locales.»
+
+12\. Se añade un nuevo artículo, el 216 bis, al texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, que queda redactado del siguiente modo:
+
+«Artículo 216 bis. Mutación demanial entre administraciones públicas.
+
+1\. Las mutaciones demaniales, entendidas como cambios de sujeto o de destino de los bienes de dominio público sin perder su naturaleza jurídica, pueden producirse:
+
+a) Por razón de nuevos fines públicos tomados en consideración.
+
+b) Por el cambio del sujeto titular del bien en las alteraciones de términos municipales o en la atribución de competencias a otro ente local o a otra administración.
+
+c) Por la imposición de afectaciones secundarias, al ser compatible el bien con dos o más fines.
+
+2\. También se produce una mutación demanial si los bienes de dominio público de los entes locales y sus organismos públicos pueden afectarse a servicios de otras administraciones públicas para destinarlos a un uso público o servicio público de su competencia. La mutación demanial entre administraciones públicas no altera el carácter demanial de los bienes.
+
+3\. Las mutaciones demaniales requieren el acuerdo del ente local en el que se acredite la oportunidad del cambio.
+
+4\. El procedimiento para realizar la mutación demanial debe cumplir los requisitos establecidos por reglamento.»
+
+13\. Se modifica el artículo 236 del texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, que queda redactado del siguiente modo:
+
+«Artículo 236. Modalidades de intervención.
+
+1\. Los entes locales pueden intervenir la actividad de los ciudadanos por los siguientes medios:
+
+a) La aprobación de ordenanzas y bandos.
+
+b) El sometimiento a licencia y a otros actos de control preventivo. Si se trata del acceso y del ejercicio de actividades, el régimen de intervención debe establecerse de conformidad con la normativa reguladora del libre acceso a las actividades de servicios y al ejercicio de dichas actividades.
+
+c) El sometimiento a comunicación previa o a declaración responsable, de conformidad con la normativa reguladora del procedimiento administrativo.
+
+d) Órdenes individuales de mandato.
+
+2\. La actividad de intervención debe ajustarse, en todo caso, a los principios de legalidad, de no discriminación, de necesidad y proporcionalidad con el objetivo que se persigue, y de respeto a la libertad individual.
+
+3\. El ejercicio de actividades no debe someterse a intervención administrativa previa mediante autorización u otros actos de control preventivo. Excepcionalmente, pueden exigirse actos de control preventivo:
+
+a) Si alguna de las imperiosas razones de interés general reconocidas por el derecho comunitario justifica la intervención pública, mediante el mecanismo de la autorización, a fin de preservar determinados bienes e intereses generales.
+
+b) Si el número de operadores económicos del mercado es limitado como consecuencia de la escasez de recursos naturales, la utilización de dominio público, la existencia de impedimentos técnicos o la existencia de servicios públicos sometidos a tarifas reguladas.
+
+4\. En caso de que concurran autorizaciones de una entidad local y de otra administración, la entidad local debe motivar expresamente la necesidad de la autorización y el interés general concreto a proteger, y justificar que este interés no esté ya cubierto mediante otra autorización ya existente.
+
+5\. En caso de que el ejercicio de actividades no requiera autorización habilitante y previa, las entidades locales deben establecer y planificar los procedimientos de comunicación necesarios y los de verificación posterior del cumplimiento de los requisitos para el ejercicio de la actividad por parte de los interesados, establecidos por la legislación sectorial.
+
+6\. Debe elegirse siempre el medio de control menos intenso, entre los que permitan proteger el interés general del que se trate.»
+
+14\. Se modifica el artículo 249 del texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, que queda redactado del siguiente modo:
+
+«Artículo 249. Gestión del servicio público.
+
+1\. La facultad de establecer el sistema de gestión de los servicios públicos corresponde a la potestad de autoorganización de los entes locales.
+
+2\. Los servicios públicos de competencia local deben gestionarse, de la forma más sostenible y eficiente, directa o indirectamente.
+
+3\. La gestión directa de los servicios públicos puede realizarse mediante las siguientes formas:
+
+a) Gestión del propio ente local.
+
+b) Organismo autónomo local.
+
+c) Entidad pública empresarial local.
+
+d) Sociedad mercantil local con capital social íntegramente público.
+
+4\. Solamente puede hacerse uso de las formas a las que se refieren las letras c y d del apartado 3 si queda acreditado, con una memoria justificativa elaborada a tal efecto, que son más sostenibles y eficientes que las formas establecidas por las letras a y b, teniendo en cuenta los criterios de rentabilidad económica y recuperación de la inversión, en los términos de la normativa de régimen local.
+
+5\. La gestión indirecta de los servicios públicos puede realizarse mediante cualquiera de las formas establecidas por la normativa de contratos del sector público para el contrato de gestión de servicios públicos.
+
+6\. Los servicios públicos locales que implican el ejercicio de potestades públicas o la salvaguardia de los intereses generales de las entidades locales no pueden prestarse por gestión indirecta ni tampoco mediante una sociedad mercantil con capital íntegramente público.»
+
+> Se declara la inconstitucionalidad y nulidad del inciso destacado en el apartado 6.c), con el alcance establecido en el fundamento jurídico 6, por Sentencia del TC de 2 de febrero de 2017. [Ref. BOE-A-2017-2620](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2620).
+
+> Se levanta la suspensión de la vigencia y aplicación del apartado 6 de este artículo, por auto del TC de 20 de septiembre de 2016. [Ref. BOE-A-2016-8872](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8872).
+
+> Se suspende la vigencia y aplicación del apartado 6 de este artículo desde el 25 de abril de 2016 para las partes del proceso y desde el 5 de mayo de 2016 para los terceros, por Providencia del Tribunal Constitucional de 28 de abril de 2016 que admite a trámite el recurso de inconstitucionalidad nº 2256-2016. [Ref. BOE-A-2016-4314](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4314).
+
+### CAPÍTULO III — Adaptación de la normativa sectorial a los regímenes de intervención introducidos en el capítulo I
+
+#### Artículo 20. Modificación de la Ley 20/2009.
+
+1\. Se añade un nuevo epígrafe, el 12.59, al anexo II de la Ley 20/2009, de 4 de diciembre, de prevención y control ambiental de las actividades, con el siguiente texto:
+
+«12.59. Almacenaje o manipulación de biomasa de origen vegetal (aprovechamientos forestales, tratamientos silvícolas, restos de jardinería, cultivos energéticos, serrín...) o de productos de esta (leña, pella, astilla, briqueta...) con una capacidad superior a 10.000 m<sup>3</sup>.»
+
+2\. Se suprimen los epígrafes 6.9, 11.8, 12.27, 12.28, 12.29, 12.30, 12.40 y 12.58 del anexo III de la Ley 20/2009, de 4 de diciembre, de prevención y control ambiental de las actividades.
+
+3\. Se añade un nuevo epígrafe, el 12.59, al anexo III de la Ley 20/2009, de 4 de diciembre, de prevención y control ambiental de las actividades, con el siguiente texto:
+
+«12.59. Almacenaje o manipulación de biomasa de origen vegetal (aprovechamientos forestales, tratamientos silvícolas, restos de jardinería, cultivos energéticos, serrín...) o de productos de esta biomasa (leña, pella, astilla, briquetas...) con una capacidad inferior a 10.000 m<sup>3</sup>.»
+
+#### Artículo 21. Modificación de la Ley 3/2010.
+
+1\. **(Derogado).**
+
+2\. Se añade un nuevo artículo, el 22 bis, a la Ley 3/2010, de 18 de febrero, de prevención y seguridad en materia de incendios en establecimientos, actividades, infraestructuras y edificios, con el siguiente texto:
+
+«Artículo 22 bis. Informe preceptivo por riesgo de incendio.
+
+1\. Para el ejercicio de actividades sujetas a control preventivo de la Generalidad, de acuerdo con la presente ley, que no requieren licencia de obras ni licencia por establecimientos abiertos al público, es necesaria la obtención de un informe preceptivo por riesgo de incendio.
+
+2\. El interesado debe solicitar la emisión del informe previo presentando el documento de solicitud, acompañado de la documentación establecida por el artículo 22, al ayuntamiento donde debe ejercerse la actividad donde se encontrará la instalación o el establecimiento.
+
+3\. Los servicios municipales deben remitir la documentación a la dirección general competente en materia de prevención y extinción de incendios, la cual debe analizar la documentación presentada y emitir el informe, que tiene carácter vinculante. La dirección general competente en materia de prevención y extinción de incendios, una vez emitido el informe, debe remitirlo al ayuntamiento correspondiente, para que lo notifique al interesado.»
+
+3\. Se suprimen los epígrafes 12, 13 y 14 del anexo 1 de la Ley 3/2010, de 18 de febrero, de prevención y seguridad en materia de incendios en establecimientos, actividades, infraestructuras y edificios.
+
+> Se deroga el apartado 1 por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+#### Artículo 22. Modificación del texto refundido de la Ley de urbanismo
+
+1\. Se añade un nuevo apartado, el 8, al artículo 9 del texto refundido de la Ley de urbanismo, aprobado por el Decreto legislativo 1/2010, de 3 de agosto, con el siguiente texto:
+
+«8. El planeamiento urbanístico y las ordenanzas sobre edificación y uso del suelo no pueden establecer condicionantes en los usos del suelo que comporten restricciones al acceso o al ejercicio de las actividades económicas que vulneren los principios y requisitos establecidos por la Directiva de servicios. Por reglamento deben regularse las razones imperiosas de interés general que, de acuerdo con la propia Directiva de servicios, permitan excepcionar su aplicación. Estas restricciones deben ajustarse a los principios de necesidad, proporcionalidad y no discriminación i quedar convenientemente justificada en la memoria del plan en ponderación con el resto de intereses generales considerados en el planeamiento.»
+
+2\. Se modifica el artículo 187 del texto refundido de la Ley de urbanismo, aprobado por el Decreto legislativo 1/2010, de 3 de agosto, que queda redactado del siguiente modo:
+
+«Artículo 187. Actos sujetos a licencia urbanística.
+
+1\. Están sujetos a licencia urbanística previa, con las excepciones establecidas por el artículo 187 ter, los siguientes actos:
+
+a) Los movimientos de tierra y las explanaciones de los terrenos.
+
+b) Las parcelaciones urbanísticas.
+
+c) La construcción de edificios de nueva planta y la intervención en los edificios ya existentes que, de acuerdo con la legislación sobre ordenación de la edificación, requieren la elaboración de un proyecto técnico y la demolición total o parcial.
+
+d) La primera utilización y ocupación parcial de los edificios.
+
+e) El cambio de los edificios a un uso residencial.
+
+f) La extracción de áridos y la explotación de canteras.
+
+g) La acumulación de residuos y el depósito de materiales que alteren las características del paisaje.
+
+h) La instalación de invernaderos o instalaciones similares, salvo que los muros perimetrales de estas instalaciones sean inferiores a un metro de altura.
+
+i) La tala de masas arbóreas o de vegetación arbustiva.
+
+j) La apertura, pavimentación y modificación de caminos rurales.
+
+k) La constitución o modificación de un régimen de propiedad horizontal, simple o compleja.
+
+l) Las obras puntuales de urbanización no incluidas en un proyecto de urbanización.
+
+m) La instalación de casas prefabricadas o instalaciones similares, sean provisionales o permanentes.
+
+n) La instalación de infraestructuras de servicios de suministro de energía, de agua, de saneamiento, de telefonía u otros servicios similares, y la colocación de antenas o dispositivos de telecomunicaciones, excepto las infraestructuras relativas a las redes públicas de comunicaciones electrónicas que, de acuerdo con la legislación sobre telecomunicaciones, estén sujetos al régimen de declaración responsable establecida.»
+
+2\. También están sujetas a licencia urbanística previa, con las excepciones establecidas por el artículo 187 ter:
+
+a) La intervención en los bienes sometidos a un régimen de protección patrimonial cultural o urbanística.
+
+b) Los usos y las obras provisionales.
+
+c) Los actos relacionados en el artículo 187 bis, salvo los de la letra g, que se realicen en suelo no urbanizable y urbanizable no delimitado.»
+
+3\. Se añade un nuevo artículo, el 187 bis, al texto refundido de la Ley de urbanismo, aprobado por el Decreto legislativo 1/2010, de 3 de agosto, con el siguiente texto:
+
+«Artículo 187 bis. Actos sujetos a comunicación previa.
+
+Están sujetos a comunicación previa, con las excepciones establecidas por los artículos 187.2 y 187 ter, los siguientes actos:
+
+a) Las construcciones e instalaciones de nueva planta, y las obras de ampliación, reforma, modificación, rehabilitación o demolición total o parcial de construcciones e instalaciones existentes que, de acuerdo con la legislación sobre ordenación de la edificación, no requieren la elaboración de un proyecto técnico.
+
+b) La primera utilización y ocupación de los edificios.
+
+c) El cambio de uso de los edificios y las instalaciones, salvo a uso residencial.
+
+d) La construcción o la instalación de muros y vallas.
+
+e) La colocación de carteles y vallas de propaganda visibles desde la vía pública.
+
+f) La formalización de operaciones jurídicas que, sin constituir o modificar un régimen de propiedad horizontal, simple o compleja, significan un incremento del número de viviendas, establecimientos u otros elementos susceptibles de aprovechamiento privativo independiente respecto a los autorizados en una licencia urbanística anterior.
+
+g) Los actos sujetos a intervención que se realicen en suelo no urbanizable y urbanizable no delimitado y que estén amparados en un proyecto de actuación específica o en un plan urbanístico que ordene con el mismo detalle los terrenos afectados, siempre que no requieran la elaboración de un proyecto técnico de acuerdo con la legislación sobre ordenación de la edificación.»
+
+4\. Se añade un nuevo artículo, el 187 ter, al texto refundido de la Ley de urbanismo, aprobado por el Decreto legislativo 1/2010, de 3 de agosto, con el siguiente texto:
+
+«Artículo 187 ter. Actos no sujetos a intervención mediante licencia urbanística o comunicación previa.
+
+No están sujetos a intervención mediante licencia urbanística o comunicación previa los siguientes actos:
+
+a) Las obras de urbanización incluidas en los planes o los proyectos de urbanización.
+
+b) Las parcelaciones urbanísticas incluidas en los proyectos de reparcelación.
+
+c) Los actos y obras que deben realizarse en cumplimiento de una orden de ejecución o de restauración, si no requieren proyecto técnico o si la propia orden o el acto que ordena su ejecución subsidiaria incorpora el proyecto técnico requerido.
+
+d) En suelo no urbanizable y urbanizable no delimitado:
+
+Primero.–Los movimientos de tierra, la explanación de terrenos, la apertura, la pavimentación y la modificación de caminos rurales y la tala de masas arbóreas o de vegetación arbustiva que se ejecuten al amparo de un instrumento de ordenación forestal o bajo la intervención de la administración forestal y de la administración competente en materia de medio ambiente.
+
+Segundo.–La tala de masas arbóreas o de vegetación arbustiva que se ejecute bajo la intervención de una administración competente en materia de protección del dominio público y de la administración competente en materia de medio ambiente.»
+
+### CAPÍTULO IV — Modificación en materia forestal
+
+#### Artículo 23. Modificación de la Ley 6/1988.
+
+Se añade un nuevo artículo, el 23 bis, a la Ley 6/1988, de 3 de marzo, forestal de Cataluña, con el siguiente texto:
+
+«Artículo 23 bis.
+
+1\. No obstante lo establecido por el artículo 23.2, en caso de superficies que en los últimos veinte años se han convertido en forestales por abandono de la actividad agrícola, el cambio de la actividad forestal a la actividad agrícola está sujeto a régimen de comunicación si la superficie es de hasta dos hectáreas y la recuperación de la actividad agrícola se realiza sin alterar la topografía del terreno.
+
+2\. Lo establecido por el apartado 1 no es aplicable en superficies que afectan espacios naturales de especial protección, espacios de la Red Naturaleza 2000 o forestas catalogadas de utilidad pública. En este caso, el cambio de la actividad forestal a la actividad agrícola está sujeto a régimen de autorización.»
+
+#### Disposición adicional primera. Adopción por la Administración del modelo de ventanilla única empresarial.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+> Se modifica el apartado 1 por el art. 236 de la por Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Disposición adicional segunda. Medidas de simplificación documental en los procedimientos administrativos.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+#### Disposición adicional tercera. Sustitución de referencias y remisiones en el texto refundido de la Ley de urbanismo.
+
+1\. Las referencias a la licencia urbanística realizadas por el texto refundido de la Ley de urbanismo, aprobado por el Decreto legislativo 1/2010, de 3 de agosto, deben entenderse realizadas a la comunicación previa en caso de que, de acuerdo con el artículo 22 de la presente ley, este régimen de intervención sustituya al de la licencia urbanística.
+
+2\. Se modifican las siguientes remisiones del texto refundido de la Ley de urbanismo, aprobado por el Decreto legislativo 1/2010, de 3 de agosto:
+
+a) En el artículo 190.1, donde dice «artículo 187.1» debe decir «artículo 187».
+
+b) En el artículo 218.1, donde dice «artículo 187.2.r» debe decir «artículo 187.1.k.».
+
+3\. Se añade un nuevo apartado, el 1 bis, al artículo 53 del texto refundido de la Ley de urbanismo, aprobado por el Decreto legislativo 1/2010, de 3 de agosto, con el siguiente texto:
+
+«1 bis. En caso de que en los terrenos a los que se refiere el apartado 1 esté prevista la gestión del planeamiento por el sistema de actuación urbanística de reparcelación, pueden autorizarse nuevos usos de carácter provisional a partir de la inscripción en el Registro de la propiedad del proyecto de reparcelación. Los usos autorizados no pueden tener un plazo de vigencia superior a los siete años a contar desde la fecha de inscripción del proyecto de reparcelación, y solamente pueden autorizarse en las fincas edificadas previamente al inicio del proyecto de reparcelación, de conformidad con el planeamiento que se ejecuta, y siempre que no impidan la futura ejecución de sus previsiones. Las obras necesarias para el desarrollo de los usos autorizados con carácter provisional se someten al régimen establecido para las construcciones e instalaciones que están fuera de ordenación.»
+
+4\. Se modifica el apartado 2 del artículo 53 del texto refundido de la Ley de urbanismo, aprobado por el Decreto legislativo 1/2010, de 3 de agosto, que queda redactado del siguiente modo:
+
+«2. Los usos provisionales autorizados deben cesar y las obras provisionales autorizadas deben desmontarse o derribarse cuando lo acuerde la administración actuante, o cuando haya transcurrido el plazo de vigencia establecido en el acuerdo de autorización, sin que en ningún caso los afectados tengan derecho a percibir indemnización.»
+
+#### Disposición adicional cuarta. Impulso e implantación de la ventanilla única empresarial.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+#### Disposición adicional quinta. Medidas para la aplicación efectiva de la presente ley.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+#### Disposición adicional sexta. Contenido del certificado técnico.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+#### Disposición adicional séptima. Documentación necesaria para el inicio de actividades que requieren informe preceptivo favorable por riesgo de incendio.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+> Se modifica por el art. 237 de la por Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Disposición adicional octava. Reglas aplicables hasta que la Ley 6/2009 se adapte a la Ley del Estado 21/2013.
+
+1\. Mientras no se realiza la adaptación de la Ley 6/2009, de 28 de abril, de evaluación ambiental de planes y programas, a la normativa básica contenida en la Ley del Estado 21/2013, de 9 de diciembre, de evaluación ambiental, deben aplicarse las prescripciones de la Ley 6/2009 que no contradigan dicha normativa básica, de acuerdo con las reglas contenidas en la presente disposición.
+
+2\. En cuanto a la denominación de procedimientos, documentos y actos administrativos derivados de los mismos, se establecen las siguientes reglas:
+
+a) El procedimiento que en la Ley 6/2009 se denomina procedimiento de evaluación ambiental pasa a denominarse procedimiento de evaluación ambiental estratégica ordinaria, y el procedimiento que en la Ley 6/2009 se denomina procedimiento de decisión previa de evaluación ambiental pasa a denominarse procedimiento de evaluación ambiental estratégica simplificada.
+
+b) El informe de sostenibilidad ambiental preliminar al que hace mención la Ley 6/2009 pasa a denominarse documento inicial estratégico; el documento de referencia al que hace mención la Ley 6/2009 pasa a denominarse documento de alcance del estudio ambiental estratégico, y el informe de sostenibilidad ambiental al que hace mención la Ley 6/2009 pasa a denominarse estudio ambiental estratégico.
+
+c) La documentación ambiental que hay que presentar para iniciar el procedimiento de evaluación ambiental estratégica simplificada, además del borrador del plan o programa, se denomina documento ambiental estratégico.
+
+d) El acuerdo sobre la memoria ambiental establecido por la Ley 6/2009, que pone fin al procedimiento de evaluación ambiental, queda sustituido por la declaración ambiental estratégica. La decisión previa de evaluación ambiental establecida por dicha ley pasa a denominarse informe ambiental estratégico.
+
+3\. En cuanto a plazos, se establecen las siguientes reglas:
+
+a) El plazo de consultas a las administraciones públicas afectadas y a las personas interesadas que realiza el órgano ambiental en el procedimiento de evaluación ambiental estratégica ordinaria y en el procedimiento de evaluación ambiental estratégica simplificada es de un mes.
+
+b) El plazo para formular el informe ambiental estratégico en el procedimiento de evaluación ambiental estratégica simplificada es de un mes, una vez transcurrido el plazo de las consultas a las administraciones públicas afectadas y a las personas interesadas.
+
+c) El plazo para formular la declaración ambiental estratégica en el procedimiento de evaluación ambiental estratégica ordinaria es de tres meses, a contar desde la recepción del expediente de evaluación ambiental estratégica completo.
+
+4\. En lo referente a resolución de discrepancias, corresponde al consejero del departamento competente en materia de medio ambiente resolver las discrepancias entre el órgano competente para aprobar un plan o programa y el órgano ambiental sobre el contenido del informe ambiental estratégico o de la declaración ambiental estratégica, si el plan o programa se refiere a materias que son competencia del mismo departamento, y al Gobierno si se refiere a materias que son competencia de un departamento distinto.
+
+5\. En lo referente a la evaluación ambiental estratégica simplificada, en caso de que el promotor de un plan o programa, o de la modificación de un plan o programa, sujeto a evaluación ambiental estratégica simplificada considere, sin necesidad de ningún estudio o trabajo adicional, que no tiene efectos significativos sobre el medio ambiente, la información del documento ambiental estratégico debe consistir en la justificación de dicha circunstancia. Si el órgano ambiental constata que el plan o programa, o la modificación del plan o programa, no tiene efectos significativos sobre el medio ambiente ni hay ninguna administración pública afectada, puede determinar directamente en el informe ambiental estratégico que el plan o programa, o la modificación del plan o programa, no tiene efectos significativos sobre el medio ambiente, sin necesidad de realizar consulta previa alguna.
+
+6\. En lo referente a la evaluación ambiental estratégica del planeamiento urbanístico, se establecen las siguientes reglas:
+
+a) Son objeto de evaluación ambiental estratégica ordinaria:
+
+Primero. Los planes de ordenación urbanística municipal.
+
+Segundo. Los planes parciales urbanísticos de delimitación.
+
+Tercero. El planeamiento urbanístico que establezca el marco para la futura autorización de proyectos y actividades sometidos a evaluación de impacto ambiental o que pueda tener efectos apreciables en espacios de la Red Natura 2000 en los términos establecidos por la Ley 42/2007, de 13 de diciembre, del patrimonio natural y de la biodiversidad, o en otros espacios del Plan de espacios de interés natural.
+
+Cuarto. Las modificaciones de los planes urbanísticos que establezcan el marco para la futura autorización de proyectos y actividades sometidos a evaluación de impacto ambiental o que puedan tener efectos apreciables en espacios de la Red Natura 2000 en los términos establecidos por la Ley 42/2007 o en otros espacios del Plan de espacios de interés natural.
+
+Quinto. Las modificaciones de los planes urbanísticos que son objeto de evaluación ambiental estratégica ordinaria que constituyan variaciones fundamentales de las estrategias, directrices y propuestas o de la cronología del plan que produzcan diferencias en los efectos previstos o en la zona de influencia.
+
+Sexto. Los instrumentos de planeamiento urbanístico incluidos en el apartado b, si así lo determina el órgano ambiental en el informe ambiental estratégico o a solicitud del promotor.
+
+b) Son objeto de evaluación ambiental estratégica simplificada:
+
+Primero. Los planes directores urbanísticos y las normas de planeamiento urbanístico.
+
+Segundo. Los planes parciales urbanísticos y los planes especiales urbanísticos en suelo no urbanizable no incluidos en el apartado tercero de la letra a en el caso de que desarrollen planeamiento urbanístico general no evaluado ambientalmente o planeamiento urbanístico general evaluado ambientalmente si este lo determina.
+
+Tercero. Las modificaciones de los planes urbanísticos de los apartados primero y segundo que constituyan variaciones fundamentales de las estrategias, directrices y propuestas o de la cronología del plan que produzcan diferencias en los efectos previstos o en la zona de influencia.
+
+Cuarto. Las modificaciones de los planes urbanísticos que son objeto de evaluación ambiental estratégica ordinaria que no constituyan variaciones fundamentales de las estrategias, directrices y propuestas o de la cronología del plan, pero que produzcan diferencias en los efectos previstos o en la zona de influencia.
+
+Quinto. Los planes de ordenación urbanística municipal rural, así como sus modificaciones.
+
+c) No deben ser objeto de evaluación ambiental estratégica, por la falta de efectos significativos que producen sobre el medio ambiente, o porque los efectos ya han sido evaluados en el planeamiento urbanístico general:
+
+Primero. El planeamiento urbanístico derivado no incluido en el apartado tercero de la letra a que se refiere solamente a suelo urbano o que desarrolla planeamiento urbanístico general evaluado ambientalmente.
+
+Segundo. Las modificaciones de planeamiento urbanístico no incluidas en el apartado cuarto de la letra a que se refieren solamente a suelo urbano.
+
+d) En el caso de planes especiales urbanísticos en suelo no urbanizable que no califiquen suelo, si su contenido se restringe al establecimiento de actuaciones ejecutables directamente sin requerir el desarrollo de proyectos de obras posteriores, no se aplica ningún procedimiento de evaluación ambiental estratégica. Estos planes deben seguir el procedimiento de evaluación de impacto ambiental ordinaria o simplificada, en su caso.
+
+e) El órgano ambiental puede determinar que no tienen efectos significativos sobre el medio ambiente las modificaciones de los planes urbanísticos que no constituyen variaciones fundamentales de sus estrategias, directrices y propuestas o su cronología y que no producen diferencias en los efectos previstos o en su zona de influencia. Para obtener esta declaración, el promotor, en la fase preliminar de la elaboración de la modificación, debe presentar una solicitud en la que justifique las circunstancias descritas. El plazo para adoptar y notificar la declaración es de un mes desde la presentación de la solicitud. La falta de resolución expresa tiene efectos desestimatorios.
+
+7\. Las prescripciones contenidas en el apartado 6 comportan la no aplicación de los siguientes preceptos de la Ley 6/2009: las letras c y d del apartado 1 y el apartado 2 del artículo 7; las letras c y d, y la letra e en cuanto a su referencia a las letras c y d, del apartado 1 y el apartado 2 del artículo 8; y el apartado 2 del anexo 1.
+
+8\. Los procedimientos de evaluación ambiental estratégica iniciados a partir de la entrada en vigor de la presente ley se rigen por las prescripciones de la Ley 6/2009 en lo que no contradiga la normativa básica contenida en la Ley del Estado 21/2013 y en el resto, por las prescripciones de esta normativa básica.
+
+> Se añade el punto quinto a la letra b) del apartado 6 por el art. 20 del Decreto-ley 6/2026, de 5 de mayo. [Ref. BOE-A-2026-14658](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14658)
+
+#### Disposición adicional novena. Presentación al Gobierno de proyectos para el impulso de la actividad económica.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+#### Disposición transitoria primera. Régimen de los procedimientos iniciados antes de la entrada en vigor de la presente ley.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+#### Disposición transitoria segunda. Adaptación reglamentaria.
+
+Mientras el Reglamento sobre protección de la legalidad urbanística, aprobado por el Decreto 64/2014, de 13 de mayo, no se adapte al artículo 22 de la presente ley:
+
+a) Las remisiones internas del Reglamento a los artículos 5, 6 y 71 deben entenderse realizadas al régimen de intervención que resulta del artículo 22 de la presente ley.
+
+b) Los artículos 33 a 36 del Reglamento deben seguir aplicándose a los supuestos de obras que, de acuerdo con el artículo 22 de la presente ley, pasan a sujetarse al régimen de comunicación previa.
+
+#### Disposición transitoria tercera. Envío de comunicaciones relativas al inicio de actividades empresariales antes de la adhesión de los ayuntamientos a la ventanilla única empresarial.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+#### Disposición derogatoria.
+
+1\. Se derogan los apartados 1 y 2 del artículo 5 y los artículos 6 y 71 del Reglamento sobre protección de la legalidad urbanística, aprobado por el Decreto 64/2014, de 13 de mayo.
+
+2\. Se deroga la disposición adicional segunda del Decreto legislativo 3/2010, de 5 de octubre, para la adecuación de normas con rango de ley a la Directiva 2006/123/CE, del Parlamento y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior.
+
+3\. Se derogan el apartado 2 del artículo 18, los artículos 258 a 268 y los artículos 272 a 281 del texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril.
+
+4\. Se derogan todos los preceptos de disposiciones de igual o inferior rango que sean contrarios a la presente ley.
+
+#### Disposición final primera. Adecuación normativa.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+#### Disposición final segunda. Simplificación y racionalización de los registros administrativos.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+#### Disposición final tercera. Obligación de los planes urbanísticos y las ordenanzas de evaluar el cumplimiento de la Directiva de servicios y la normativa de transposición.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+#### Disposición final cuarta. Entrada en vigor.
+
+1\. La presente ley entra en vigor a los veinte días de su publicación en el Diari Oficial de la Generalitat de Catalunya.
+
+2\. Los apartados 2, 3 y 8 de la disposición adicional octava son aplicables desde la entrada en vigor en Cataluña de la Ley del Estado 21/2013, de 9 de diciembre, de evaluación ambiental, es decir, desde el 12 de diciembre de 2014. El resto de reglas de dicha disposición adicional entran en vigor al día siguiente de la publicación de la presente ley en el Diari Oficial de la Generalitat de Catalunya.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir
+
+Palacio de la Generalidad, 21 de julio de 2015.
+
+| El Presidente de la Generalidad de Cataluña | La Consejera de Gobernación y Relaciones Institucionales |
+|---|---|
+| Artur Mas i Gavarró | Meritxell Borràs i Solé |
+
+## ANEXO I — Actividades sometidas a régimen de declaración responsable
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+> Se modifica por el art. 238 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+## ANEXO II — Actividades sometidas a régimen de comunicación
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 18/2020, de 28 de diciembre. [Ref. BOE-A-2021-1662](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1662)
+
+> Se modifica por el art. 239 por Ley 5/2017, de 28 de marzo [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Información relacionada
+
+> Téngase en cuenta la habilitación al consejero competente en materia de empresa para la refundición de los anexos I y II de esta ley mediante orden, publicada únicamente en el DOC, según establece la disposición final 3 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)

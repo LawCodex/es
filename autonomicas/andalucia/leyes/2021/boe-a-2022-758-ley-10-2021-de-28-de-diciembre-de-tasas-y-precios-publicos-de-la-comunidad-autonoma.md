@@ -1,0 +1,8063 @@
+---
+title: "Ley 10/2021, de 28 de diciembre, de tasas y precios públicos de la Comunidad Autónoma de Andalucía"
+identifier: "BOE-A-2022-758"
+eli: "https://www.boe.es/eli/es-an/l/2021/12/28/10"
+type: act
+rank: "Ley"
+jurisdiction: es-andalucia
+language: es
+department: "Comunidad Autónoma de Andalucía"
+date: 2021-12-28
+published: 2022-01-18
+in_force_from: 2022-01-01
+last_amended: 2026-03-20
+consolidated: 2026-04-06
+gazette: "Boletín Oficial del Estado núm. 15"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-758"
+retrieved: 2026-10-11
+---
+
+# Ley 10/2021, de 28 de diciembre, de tasas y precios públicos de la Comunidad Autónoma de Andalucía
+
+Incluye las correcciones de errores publicadas en los BOJA núm. 28, de 10 de febrero de 2022. [Ref. BOE-A-2022-2623](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2623) y núm. 32, de 16 de febrero de 2022. [Ref. BOE-A-2022-3416](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3416)
+
+Téngase en cuenta que las cuantías de las tasas y precios públicos se actualizan con carácter general en las leyes de presupuestos generales de cada año y que, según establece la disposición adicional 2 de la presente Ley, la Consejería competente por razón de la materia, así como la Consejería competente en materia de Hacienda, publicarán en la Sección de Transparencia del Portal de la Junta de Andalucía, las tarifas actualizadas.
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
+
+A todos los que la presente vieren, sabed: Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley de tasas y precios públicos de la Comunidad Autónoma de Andalucía.
+
+EXPOSICIÓN DE MOTIVOS
+
+I. Contexto, objeto y finalidad
+
+Los artículos 156 y 157.1 de la Constitución española proclaman la autonomía financiera de las Comunidades Autónomas y establecen los recursos propios de las mismas. Estos recursos constituyen parte de la Hacienda Pública de la Comunidad Autónoma de Andalucía en virtud de lo dispuesto en el artículo 176 del Estatuto de Autonomía para Andalucía y del artículo 4.1 de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas.
+
+La Comunidad Autónoma de Andalucía, a tenor de lo dispuesto en los artículos anteriores, aprobó la Ley 4/1988, de 5 de julio, de Tasas y Precios Públicos de la Comunidad Autónoma de Andalucía, estableciendo el régimen jurídico general aplicable a las tasas y precios públicos, conceptos ambos que nacen de un mismo supuesto de hecho, cual es la entrega de bienes o prestación de servicios por un ente público, pero cuya naturaleza es distinta, dado que, mientras la tasa es exigible con la coactividad propia del tributo y constituye por ello un ingreso público de carácter tributario, el precio público deriva de una relación de naturaleza contractual y voluntaria y, por tanto, constituye un ingreso público de carácter no tributario.
+
+Por otra parte, la cuantía de las tasas está genéricamente limitada, al no poder superar su total rendimiento el valor de la utilización del dominio público o los costes del servicio prestado, incluidas las amortizaciones y gastos de mantenimiento y de desarrollo de la actividad, aun cuando, para armonizar los principios de equivalencia y capacidad económica, el establecimiento de cierta progresividad para hacer efectivo dicho principio constitucional rompa, en algún caso, la exacta aplicación de aquel principio de equivalencia. Por contra, en los precios públicos no existe tal límite, si bien los costes deberán ser cubiertos por los ingresos.
+
+Después de más de tres décadas de vigencia de la citada norma, los objetivos de esta Ley se concretan de la siguiente manera:
+
+En primer lugar, acabar con el desfase entre el contenido de la Ley de Tasas y Precios Públicos hasta ahora en vigor y la realidad de una normativa en constante mutación, dado que, con posterioridad a ella, se ha producido una sobrevenida creación y supresión de servicios públicos, así como un modo cambiante en el tiempo de los que se venían prestando, lo que ha dado lugar a importantes modificaciones normativas, tanto en la configuración de los supuestos de hecho que llevan a la exigibilidad de las citadas tasas y precios públicos, como en su modo de gestión.
+
+En coherencia con ello, la presente Ley tiene como objetivo la racionalización y simplificación de las tasas reguladas, adecuándolas a los servicios públicos realmente prestados, suprimiendo aquellas que gravaban prestaciones de servicios actualmente inexistentes o susceptibles de ser gravadas por un precio público y creando otras como consecuencia de la prestación de nuevos servicios públicos por la Administración de la Junta de Andalucía.
+
+En segundo lugar, terminar con la dispersión de preceptos normativos reguladores de tasas con una pretensión integradora, que es la de refundir en un solo texto legal la regulación completa, sistemática y armonizada de todas las tasas y precios públicos de la Comunidad Autónoma de Andalucía.
+
+Por ello, la presente Ley incorpora, debidamente armonizadas, las múltiples modificaciones introducidas en las sucesivas leyes del presupuesto, leyes de medidas fiscales y otras leyes especiales; lleva a cabo la creación de nuevas tasas y la modificación de algunas de las ya existentes en el ámbito de la Comunidad Autónoma de Andalucía, y se adapta al paulatino traspaso de funciones y competencias del Estado a la Comunidad Autónoma de Andalucía que ha tenido lugar en los últimos años.
+
+La racionalización redundará en una mayor seguridad jurídica, al permitir contar, en un solo texto normativo, con toda la regulación legal en materia de tasas, así como en la mejora tanto de la tarea aplicativa por parte de la Administración como de la comprensión de la norma por los contribuyentes, permitiendo al administrado conocer mejor los servicios y actividades que se le prestan y el coste exigido.
+
+En tercer lugar, publicar el importe actualizado de las tasas en moneda euro, dado que no existe una ley autonómica que publique la relación de las tasas de la Comunidad Autónoma de Andalucía con sus importes convertidos a euros. Las cuantías se entendieron automáticamente redenominadas a la entrada en vigor de la moneda única europea, aplicando para ello las reglas contenidas en la Ley 46/1998, de 17 de diciembre, sobre introducción del euro. En el año 2001, mediante Resolución de 19 de noviembre de la Dirección General de Tributos e Inspección Tributaria, se hizo pública la redenominación a euros de las tasas de la Comunidad Autónoma de Andalucía, actualizadas a 2001. Tras esa publicación no ha existido ninguna otra con los importes actualizados de las tasas, sino que se han venido actualizando anualmente con carácter general las tasas de cuantía fija mediante las leyes del Presupuesto.
+
+Por último, como novedad se consagra, entre otros, el principio de no afectación de los ingresos para las tasas y precios públicos, frente a lo que disponía la Ley 4/1988, de 5 de julio. Este principio implica que los ingresos por tasas y precios públicos se destinarán a satisfacer el conjunto de sus obligaciones, salvo que a título excepcional y mediante una Ley se establezca su afectación a fines determinados. Se adapta así la Ley a lo dispuesto en el artículo 9 del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, aprobado por Decreto Legislativo 1/2010, de 2 de marzo.
+
+En este contexto se aprueba esta nueva Ley de Tasas y Precios Públicos de la Comunidad Autónoma de Andalucía, que constituye un texto armónico y sistemático, dotado de vocación de permanencia, en el que se ha primado el principio de seguridad jurídica que debe informar toda norma.
+
+II. Nuevas tasas por materias
+
+Merece especial mención la incorporación de nuevas tasas por materias a la presente Ley, según lo siguiente:
+
+Son especialmente reseñables los cambios introducidos en las tasas por la prestación de servicios administrativos relativos a las materias de industria, energía y minas. La progresiva liberalización en materia de industria ha desplazado el control previo que realizaba la Administración hacia un control posterior, lo que ha implicado que se hayan implantado numerosos planes de inspección que antes no existían. Asimismo, la Directiva 2006/123/CE, del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, y el desarrollo e implantación de procedimientos de tramitación electrónica que facilitan el acceso de la ciudadanía a los servicios públicos, así como los cambios competenciales y normativos que se han producido desde la Ley 4/1988, de 5 de julio, hasta la fecha, han conllevado que se creen nuevas tasas en materia de industria, energía y minas, y que se supriman aquellas tasas correspondientes a servicios que ya no son prestados por la Consejería competente en la materia. Esta labor ya se inició con el Decreto-ley 10/2013, de 17 de diciembre, de ayudas financieras a las pequeñas y medianas empresas industriales de Andalucía y de ayudas para la reconstitución del potencial de producción agrario como consecuencia de adversidades naturales, que suprimió las tasas correspondientes a los servicios de metrología, y ahora se culmina con la nueva Ley de Tasas y Precios Públicos de la Comunidad Autónoma de Andalucía.
+
+En el ámbito cultural, la regulación establecida para archivos, bibliotecas, centros de documentación, museos y espacios culturales, recogida en la Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía; la Ley 16/2003, de 22 de diciembre, del Sistema Andaluz de Bibliotecas y Centros de Documentación; la Ley 8/2007, de 5 de octubre, de Museos y Colecciones Museográficas de Andalucía, y la Ley 7/2011, de 3 de noviembre, de Documentos, Archivos y Patrimonio Documental de Andalucía, permite completar los servicios ofertados por estas instituciones culturales, para dar respuesta a la creciente demanda de sectores sociales y económicos –como el audiovisual o el publicitario–, sin perjuicio del itinerario de los visitantes habituales y del normal funcionamiento de la propia institución, salvaguardando su especial protección y custodia. Pero estas actividades extraordinarias suponen un coste en suministros, materiales, vigilancia y limpieza, entre otros, que deben ser retribuidos por los organizadores de la actividad en cuestión, mediante el pago de la tasa.
+
+En materia medioambiental, tras el Real Decreto 62/2011, de 21 de enero, sobre traspaso de funciones y servicios de la Administración del Estado a la Comunidad Autónoma de Andalucía en materia de ordenación y gestión del litoral, corresponde a la Administración autonómica la gestión y la percepción de la totalidad de las tasas en materia medioambiental.
+
+Por otra parte, en materia de prevención y calidad ambiental, la aprobación de la Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental, supone la creación de nuevos tipos de autorizaciones, inscripciones y prestación de servicios facultativos que conllevan unos costes que hacen necesario en este ámbito el establecimiento de nuevas tasas que los cubran.
+
+En materia de flora y fauna, la Ley 8/2003, de 28 de octubre, de la flora y la fauna silvestres, y el Decreto 126/2017, de 25 de julio, por el que se aprueba el Reglamento de Ordenación de la Caza en Andalucía, establecen importantes cambios en las actuaciones administrativas relacionadas con la emisión, gestión y control de las licencias de caza y pesca, con sus medios o artes, así como con los parámetros de clasificación de los cotos para garantizar la seguridad en la práctica de dichas actividades, y que exigen una modificación sustancial en las tasas que las gravan.
+
+Asimismo, el Decreto 23/2012, de 14 de febrero, por el que se regula la conservación y el uso sostenible de la flora y la fauna silvestres y sus hábitats, contempla la necesidad de autorizaciones, entre otras, para la práctica de pruebas deportivas en el medio natural; para la fotografía, filmación, grabación, observación o el seguimiento de especies silvestres cuando afecte a especies amenazadas de aves y mamíferos en época de reproducción o se usen puestos fijos durante más de una jornada; para las excepciones al régimen general de protección de especies silvestres y sus hábitats, así como para la apertura de parques zoológicos. Los trabajos técnicos, facultativos y administrativos, imprescindibles para garantizar la satisfacción de las personas usuarias y el cumplimiento escrupuloso de las medidas de seguridad requeridas, conllevan unos costes que hacen necesario el establecimiento de nuevas tasas en este ámbito que los cubran.
+
+En materia de ocupación y aprovechamiento de bienes de dominio público se modifica sustancialmente la tasa por la utilización privativa o el aprovechamiento especial de bienes de dominio público que se haga por concesiones, autorizaciones y otros títulos de habilitación por los órganos competentes de la Administración autonómica, permitiendo dar cabida a nuevas posibilidades de utilización de los edificios administrativos, como la ocupación de la superficie de bienes de dominio público destinados a oficinas o servicios administrativos, a través de instalaciones desmontables o bienes muebles, como las instalaciones fotovoltaicas, lo que contribuirá a materializar el compromiso adoptado por la Junta de Andalucía en los instrumentos estratégicos de planificación energética.
+
+La modificación de esta tasa se justifica también desde el punto de vista patrimonial por la conveniencia de que, en general, las tasas por el uso o aprovechamiento privativo de bienes de dominio público propiedad de la Comunidad Autónoma tengan cierta uniformidad tanto en su objeto como en su cálculo –con las especialidades que sean necesarias–, con independencia del Departamento o entidad competente para su autorización o concesión, que, de acuerdo con la normativa patrimonial aplicable, es aquel que tenga los bienes adscritos o cedidos. En esta línea, con independencia de esta tasa de aplicación general, también se regulan aquellas otras ocupaciones o usos que por sus peculiaridades requieren una regulación específica, como es el caso de las vías pecuarias, los montes públicos o las instituciones culturales.
+
+En materia de juego, desde la aprobación de la Ley 2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía, y de los sucesivos Reglamentos que la han desarrollado, se han producido diferentes modificaciones normativas, en determinados supuestos introduciendo nuevos procedimientos administrativos, que, al no estar contemplados ni recogidos en la anterior Ley de Tasas y Precios Públicos de la Comunidad Autónoma de Andalucía, se han tramitado sin coste alguno para las empresas peticionarias, por lo que es preciso establecer las correspondientes tasas ajustadas al coste de la prestación de dichos servicios. En este sentido, se pueden citar los procedimientos concernientes a la autorización de laboratorios de ensayo de máquinas y demás elementos y material de juego; los procedimientos que atañen a la homologación e inscripción de los mismos en el Registro de Modelos de la Comunidad Autónoma de Andalucía, así como los procedimientos de autorizaciones de rifas y tómbolas. Lo mismo cabría señalar en relación con la autorización de hipódromos y apuestas hípicas en la Comunidad Autónoma de Andalucía.
+
+Por otro lado, a lo largo de estos años también se ha comprobado que diferentes conceptos de servicios administrativos en realidad se pueden subsumir en uno solo, dado que o bien esa casuística no se ha producido a lo largo del tiempo de la existencia legal de la tasa, o bien el trabajo administrativo es idéntico o similar entre los diversos conceptos. A título de ejemplo, se pueden señalar las autorizaciones de explotación de máquinas de juego de tipo B y C, así como la inscripción y modificación de estas en el Registro de Empresas de Juego de la Comunidad Autónoma de Andalucía para las empresas titulares y de servicios de salas de bingo. Igualmente, cabe señalar que las tasas que se aplicaban a la diligenciación de libros y hojas de estos, como son los de actas de salas de bingo y los de contabilidad de mesas de casinos, hoy en día pierden la razón de ser, ya que todo ese proceso de datos se lleva en la actualidad por las empresas a través de sistemas informáticos, eliminándose de este modo el soporte papel y, como consecuencia, la necesidad de diligenciar sus hojas.
+
+Además, cabe señalar que la reciente regulación en la Comunidad Autónoma de Andalucía de las apuestas mediante el Decreto 144/2017, de 5 de septiembre, por el que se aprueba el Reglamento de Apuestas de la Comunidad Autónoma de Andalucía, ha demandado la creación e inclusión de las correspondientes tasas por la prestación de servicios administrativos, relativas a la gestión de las diferentes autorizaciones que se incluyen en la norma reglamentaria que las regula.
+
+III. Beneficios fiscales
+
+Asimismo, con objeto de tener en cuenta a las personas que se encuentren en situación de especial vulnerabilidad económica, se usarán entre los criterios para extender el beneficio fiscal el ingreso mínimo vital y la Renta Mínima de Inserción Social en Andalucía. Entre dichos colectivos se encuentran, entre otros, los mayores de sesenta y cinco años; víctimas de terrorismo y sus familiares hasta el segundo grado de consanguinidad; personas con discapacidad en un grado igual o superior al 33%; víctimas de violencia de género, doméstica o de ambas, personas beneficiarias de la prestación del ingreso mínimo vital y la renta mínima de inserción social.
+
+De igual modo, en lo que respecta a las tasas que gravan las distintas formas de ocupación del dominio público, se ha considerado necesario establecer beneficios fiscales que fomenten el despliegue de infraestructuras de telecomunicaciones, con el objetivo de solventar las dificultades que puedan obstaculizar la disponibilidad de servicios de conectividad de alta velocidad para la totalidad de la población y para el desarrollo socioeconómico de Andalucía, y en particular de las zonas más despobladas.
+
+Asimismo, para fomentar la llamada Administración Electrónica, interconectada y transparente, que facilita y simplifica los procesos, en relación con el modelo «Administración papel cero», se incentiva mediante un beneficio fiscal esta forma de presentación y pago de las tasas, con la pretensión, por un lado, de conseguir un control más eficaz de la gestión tributaria y, de otro, de facilitar el cumplimiento de las obligaciones tributarias de los contribuyentes.
+
+Por último, se ha establecido una bonificación temporal en la tasa por servicios agronómicos para apoyar al sector agrario andaluz especialmente afectado por la subida de los costes de producción, en especial por el encarecimiento de los productos fitosanitarios.
+
+IV. Antecedentes normativos relevantes en esta materia
+
+Son varios los antecedentes normativos con incidencia relevante en esta Ley, siendo los más destacables los siguientes:
+
+Con respecto al derecho propio de Andalucía, el artículo 181.2 del Estatuto de Autonomía para Andalucía dispone que por ley se creará una Agencia Tributaria a la que se encomendará la gestión, liquidación, recaudación e inspección de todos los tributos propios y, por tanto, de las tasas. La Ley 23/2007, de 18 de diciembre, por la que se crea la Agencia Tributaria de Andalucía y se aprueban medidas fiscales, da cumplimiento a lo dispuesto en el referido precepto. Sin perjuicio de lo anterior, y de acuerdo con lo dispuesto en la disposición adicional quinta de dicha Ley, por razones de eficacia, agilidad y, en general, de mejora en la prestación del servicio a la ciudadanía, la Agencia podrá delegar la gestión, liquidación y recaudación en vía voluntaria de las tasas en las Consejerías y entidades vinculadas o dependientes de la Administración de la Junta de Andalucía que presten los respectivos servicios y actividades.
+
+En cuanto a las normas de ámbito estatal, hay que destacar la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, que ha tenido especial incidencia en el desarrollo de las nuevas tecnologías de la información y comunicación, afectando a la forma y al contenido de las relaciones de la Administración con la ciudadanía y las empresas, y en cuya virtud, en materia tributaria se ha modificado, mediante el Real Decreto 1070/2017, de 29 de diciembre, el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, adaptándolo a la utilización de medios electrónicos en los diferentes supuestos de relación entre las Administraciones tributarias y la ciudadanía, ya sea, entre otros aspectos, en la presentación de consultas tributarias o en la emisión y notificación de comunicaciones, diligencias y actas durante la tramitación de los procedimientos tributarios.
+
+De otro lado, la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, mediante la modificación de la disposición adicional primera de la Ley 58/2003, de 17 de diciembre, General Tributaria, ha suprimido la regulación de «exacción parafiscal» y regulado el concepto de «prestación patrimonial de carácter público no tributaria».
+
+Con ello, frente a las tasas, contribuciones especiales e impuestos, todas ellas «prestaciones patrimoniales de carácter público tributarias», se configuran aquellas otras prestaciones que, además de ser establecidas por ley, exigidas coactivamente, y en interés general, responden a la prestación de un servicio público gestionado de forma directa mediante personificación privada o mediante gestión indirecta, y no tienen, por ende, naturaleza tributaria.
+
+Asimismo, la citada Ley 9/2017, de 8 de noviembre, mediante la modificación del artículo 2.c) de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, excluye expresamente del ámbito de aplicación de la misma a las prestaciones patrimoniales de carácter público no tributarias.
+
+En coherencia con lo anterior y por motivos de claridad y seguridad jurídica, se excluye expresamente del ámbito de aplicación de la presente Ley a las prestaciones patrimoniales de carácter público no tributarias.
+
+Del mismo modo, han tenido especial incidencia en la normativa reguladora de las tasas, entre otras normas estatales, la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio; la Ley 2/2011, de 4 de marzo, de Economía Sostenible, y la Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado.
+
+En el contexto del Derecho de la Unión Europea, se procedió a la adaptación de nuestra normativa a la Directiva 93/118/CE del Consejo, de 22 de diciembre de 1993, por la que se modifica la Directiva 85/73/CEE, relativa a la financiación de las inspecciones y controles sanitarios de carnes frescas y carnes de aves de corral. Dicha adaptación se llevó a cabo mediante la aprobación de la Ley 9/1996, de 26 de diciembre, por la que se aprueban Medidas Fiscales en materia de Hacienda Pública, Contratación Administrativa, Patrimonio, Función Pública y Asistencia Jurídica a Entidades de Derecho Público, que creó la tasa por inspecciones y controles sanitarios oficiales de carnes frescas y carnes de aves de corral.
+
+Posteriormente, la Directiva del Consejo de la Unión Europea 96/43/CE, que modifica y codifica la Directiva 85/73/CEE, con el fin de establecer la financiación de las inspecciones y controles veterinarios de animales vivos y ciertos productos de origen animal, y modifica las Directivas 90/675/CEE y 91/496/CEE, obligó a establecer una nueva regulación completa de la tasa. Dicha modificación fue efectuada por la Ley 8/1997, de 23 de diciembre, por la que se aprueban medidas en materia tributaria, presupuestaria, de empresas de la Junta de Andalucía y otras entidades, de recaudación, de contratación, de función pública y de fianzas de arrendamientos y suministros, estableciendo una nueva regulación completa que deroga la establecida por la citada Ley 9/1996, de 26 de diciembre, recogiéndose las nuevas directrices comunitarias que alcanzan a la misma denominación de esta tasa. Más adelante, esta tasa fue redefinida por la Ley 23/2007, de 18 de diciembre, por la que se crea la Agencia Tributaria de Andalucía y se aprueban medidas fiscales y por el Decreto-ley 1/2008, de 3 de junio, de medidas tributarias y financieras de impulso a la actividad económica de Andalucía, entre otras normas. En la presente Ley, pasa a denominarse tasa por controles oficiales a animales sacrificados en mataderos, establecimientos de manipulación de caza, salas de despiece y salas de tratamiento de reses de lidia, establecimientos de producción e introducción en el mercado de productos de la pesca y la acuicultura y por controles e inspecciones sanitarias en buques factoría, congeladores y de transporte de productos de la pesca en puertos de países terceros.
+
+En cuanto a la tasa en materia de guías de turismo, los operadores de otros Estados miembros se encuentran bajo el amparo legal de la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, y la Directiva 2005/36/CE del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, relativa al reconocimiento de cualificaciones profesionales, mediante su transposición por la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, y la Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado, respectivamente. Asimismo, esta materia ha sido desarrollada por el Decreto 8/2015, de 20 de enero, regulador de guías de turismo de Andalucía, cuya ampliación de medios para la obtención de la habilitación obliga a la modificación de la referida tasa.
+
+En materia medioambiental, una novedad importante de la Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental, es que establece un marco para la protección global de las aguas continentales, litorales, costeras y de transición, siguiendo los criterios empleados en la Directiva 2000/60/CE, del Parlamento Europeo y del Consejo, de 23 de octubre de 2000, por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas. La referida Ley fue desarrollada por el Decreto 109/2015, de 17 de marzo, por el que se aprueba el Reglamento de Vertidos al Dominio Público Hidráulico y al Dominio Público Marítimo-Terrestre de Andalucía. Esta novedad hace necesaria la modificación de la tasa para la prevención y control de la contaminación.
+
+Por otra parte, el Real Decreto 234/2013, de 5 de abril, por el que se establecen normas para la aplicación del Reglamento (CE) n.º 66/2010 del Parlamento Europeo y del Consejo, de 25 de noviembre de 2009, relativo a la etiqueta ecológica de la Unión Europea, prevé el establecimiento del correspondiente tributo.
+
+Por último, el Reglamento (UE) n.º 660/2014, del Parlamento Europeo y del Consejo, de 15 de mayo de 2014, por el que se modifica el Reglamento (CE) n.º 1013/2006, relativo a los traslados de residuos, en lo tocante a la organización y regulación de la vigilancia y control de los traslados transfronterizos de residuos entre los Estados Europeos, y entre estos y terceros países, exige una modificación tributaria en esa materia.
+
+V. Estructura de la norma
+
+Esta Ley contiene doscientos sesenta y nueve artículos, distribuidos en diecinueve títulos, que se completan en su parte final con tres disposiciones adicionales, tres disposiciones transitorias, una disposición derogatoria y cinco disposiciones finales.
+
+Los títulos, a su vez, están integrados por capítulos y artículos. Los principales contenidos de esta estructura son los siguientes:
+
+El título preliminar contiene las disposiciones de carácter general, que delimitan el objeto, ámbito de aplicación de las tasas y precios públicos, sus definiciones, el régimen presupuestario y de tesorería y el de responsabilidad.
+
+El título I contiene las disposiciones generales relativas a las tasas, y se relacionan de manera singular los elementos de la relación jurídico tributaria y procedimentales, incidiendo en la necesidad de que todo proyecto normativo en el que se proponga el establecimiento o modificación de una tasa se acompañe de una memoria económico-financiera sobre el coste o valor del recurso, servicio o actividad de que se trate.
+
+El título II contiene las disposiciones generales relativas a los precios públicos, partiendo de sus elementos esenciales, regulando también la gestión y administración de tales ingresos públicos y de su revisión.
+
+En ambos títulos de la ley, se deja patente que la necesaria y lógica tendencia a la relación electrónica de la ciudadanía con la Junta de Andalucía debe hacerse garantizando que los obligados al pago tengan a su disposición los canales de acceso que sean necesarios, así como los sistemas y aplicaciones que en cada caso se determinen.
+
+Del título III al XIX de la Ley se ha optado por la clasificación por materias, de forma que las tasas no quedan relacionadas con una Consejería sino con un ámbito de actuación concreto. Esta nueva sistemática permite un mejor seguimiento de los servicios públicos prestados por las distintas Consejerías susceptibles de financiarse por la vía de las tasas; se logra también una mayor facilidad para la localización de los distintos servicios financiados mediante este recurso tributario, y. por último, se aprecia así la necesaria conexión entre los servicios prestados y su instrumento de financiación.
+
+Entre las disposiciones adicionales merece por su importancia destacar que, en cumplimiento de lo previsto en la Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía, la disposición adicional segunda obliga a dar publicidad en el Portal de la Junta de Andalucía, a través de la sección de Transparencia y de las secciones correspondientes de la Consejería competente por razón de la materia, así como en la de la Consejería competente en materia de Hacienda, a las tasas y precios públicos actualizados, tanto a los contemplados en esta Ley como a aquellos otros que se establezcan o regulen en el futuro.
+
+Asimismo, incluye un índice de su contenido, cuyo objeto es facilitar la utilización de la norma por las personas destinatarias mediante una rápida localización y ubicación sistemática de sus preceptos.
+
+VI. Competencia normativa
+
+Por último, con observancia de lo establecido en los artículos 156 y 157.1.b) de la Constitución española y del artículo 4.1.b) e i) de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, debe indicarse que la Comunidad Autónoma de Andalucía tiene competencia para establecer y regular las tasas y precios públicos de conformidad con los artículos 108 y 180 del Estatuto de Autonomía para Andalucía.
+
+Según lo expuesto, la presente Ley se ajusta a los principios de buena regulación, establecidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Así, la norma es respetuosa con los principios de necesidad, eficacia y proporcionalidad, en tanto que con ella se consigue el fin perseguido, que consiste en establecer un marco normativo estable, sencillo, claro y nada disperso, que facilite el conocimiento y la comprensión de las tasas y precios públicos aprobados por la Comunidad Autónoma de Andalucía. Asimismo, es acorde con el resto del ordenamiento jurídico autonómico, nacional y de la Unión Europea, y sus objetivos se encuentran claramente definidos, cumpliendo con ello con los principios de seguridad jurídica, transparencia y eficiencia.
+
+## TÍTULO PRELIMINAR — Disposiciones generales
+
+#### Artículo 1. Objeto.
+
+1\. Esta Ley tiene por objeto establecer el régimen jurídico de las tasas y de los precios públicos de la Comunidad Autónoma de Andalucía.
+
+2\. Son tasas de la Comunidad Autónoma de Andalucía:
+
+a) Las reguladas en esta Ley.
+
+b) Las que se establezcan por ley de la Comunidad Autónoma de Andalucía.
+
+c) Las transferidas por el Estado o por las Corporaciones Locales, de conformidad con el artículo 7.2 de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas.
+
+3\. Son precios públicos de la Comunidad Autónoma de Andalucía los que se establezcan por el Consejo de Gobierno, con sujeción a lo dispuesto en esta Ley.
+
+#### Artículo 2. Ámbito de aplicación.
+
+1\. Esta Ley será de aplicación a las tasas y precios públicos de la Administración de la Junta de Andalucía, sus agencias y, en su caso, consorcios, con independencia del lugar de realización del hecho imponible.
+
+2\. No serán de aplicación los preceptos de esta Ley a:
+
+a) Las contraprestaciones por las actividades y los servicios prestados por los organismos y entidades públicas en régimen de Derecho Privado.
+
+b) Las contraprestaciones económicas establecidas coactivamente que se perciban por la prestación de servicios públicos realizados de forma directa mediante las entidades instrumentales privadas reguladas en el artículo 52.1.b) de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía o mediante gestión indirecta, que tendrán la condición de prestaciones patrimoniales de carácter público no tributario, de conformidad con la disposición adicional primera de la Ley 58/2003, de 17 de diciembre, General Tributaria, y la disposición adicional cuadragésima tercera de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
+
+#### Artículo 3. Fuentes normativas.
+
+1\. Las tasas y precios públicos de la Comunidad Autónoma de Andalucía se regirán:
+
+a) Por los tratados y convenios internacionales publicados oficialmente en España y la normativa de la Unión Europea.
+
+b) Por esta Ley, por la Ley 58/2003, de 17 de diciembre, General Tributaria, y por el texto refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, aprobado por el Decreto Legislativo 1/2010, de 2 de marzo.
+
+c) Por las leyes reguladoras de las distintas tasas y por las disposiciones de establecimiento, revisión y fijación de la cuantía de los precios públicos.
+
+d) Por la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+e) Por las disposiciones reglamentarias dictadas en desarrollo de las normas anteriores.
+
+2\. En lo no previsto por las mismas, tendrá carácter supletorio la legislación estatal en materia de tasas y precios públicos.
+
+3\. Las tasas cuya titularidad asuma la Comunidad Autónoma de Andalucía, derivadas de transferencias de competencias, se regirán por esta Ley y por la normativa del Estado o de las corporaciones locales que les venían siendo aplicables, en tanto no se regulen de manera específica.
+
+> Se modifica por la disposición final 10.1 de la Ley 8/2025, de 22 de diciembre. [Ref. BOE-A-2026-945](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-945)
+
+#### Artículo 4. Concepto de tasa.
+
+Son tasas de la Comunidad Autónoma de Andalucía los tributos cuyo hecho imponible consiste en la utilización privativa o el aprovechamiento especial de su dominio público, la prestación de servicios o la realización de actividades de su competencia en régimen de Derecho Público que se refieran, afecten o beneficien de modo particular al obligado tributario, cuando los servicios o actividades no sean de solicitud o recepción voluntaria para los obligados tributarios o no se presten o realicen por el sector privado.
+
+#### Artículo 5. Concepto de precio público.
+
+Son precios públicos de la Comunidad Autónoma de Andalucía las contraprestaciones pecuniarias que se satisfagan por la prestación de servicios, la realización de actividades o, en su caso, la entrega de bienes, efectuadas en régimen de Derecho Público en el ámbito de su competencia, cuando, prestándose también tales servicios, actividades o entrega de bienes por el sector privado, sean de solicitud voluntaria por parte de los administrados.
+
+#### Artículo 6. Régimen presupuestario y de tesorería: principios de unidad de caja, de intervención y de no afectación de los ingresos.
+
+1\. La previsión de ingresos por tasas y precios públicos deberá figurar con la debida individualización en el Presupuesto de la Comunidad Autónoma de Andalucía.
+
+2\. El importe de la recaudación derivada de las tasas y precios públicos se ingresará en la Tesorería General de la Junta de Andalucía, en aplicación del principio de unidad de caja.
+
+3\. Las tasas y los precios públicos de la Comunidad Autónoma están sometidos al régimen de contabilidad pública y al control interno que corresponde a la Intervención General de la Junta de Andalucía.
+
+4\. Los ingresos obtenidos por tasas y precios públicos se destinarán a satisfacer el conjunto de gastos generales de la Comunidad Autónoma de Andalucía, salvo que, a título excepcional y mediante ley, se establezca una afectación concreta.
+
+#### Artículo 7. Responsabilidades disciplinaria y patrimonial de las autoridades y del personal de la Administración de la Junta de Andalucía, agencias y consorcios.
+
+1\. De acuerdo con el régimen disciplinario propio, incurrirán en falta disciplinaria las autoridades y demás personal al servicio de la Administración de la Junta de Andalucía y de sus agencias y sus consorcios que exijan indebidamente una tasa o un precio público o lo hagan en cuantía superior a la establecida, sin perjuicio de las responsabilidades de otro orden que pudieran derivarse de tal actuación.
+
+2\. Sin perjuicio de lo establecido en el apartado anterior, los daños y perjuicios causados a la Hacienda Pública de la Comunidad Autónoma de Andalucía por las referidas actuaciones, así como por las resoluciones, actuaciones u omisiones que infrinjan esta Ley y demás normas que regulen esta materia, darán lugar a las correspondientes indemnizaciones a cargo de quienes los hubieren causado, de conformidad con el artículo 36 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+## TÍTULO I — Tasas: disposiciones generales
+
+#### Artículo 8. Establecimiento y regulación.
+
+1\. Solo serán exigibles las tasas establecidas por ley, la cual deberá regular, en todo caso, la delimitación del hecho imponible, el devengo, la base imponible, los elementos directamente determinantes de la cuantía de la deuda tributaria, la revisión de su importe, en su caso, los beneficios fiscales, así como los demás elementos esenciales de las tasas, de conformidad con lo establecido en el artículo 8 de la Ley General Tributaria.
+
+No obstante, la fijación de la cuantía exigible para cada tasa se podrá diferir a su desarrollo reglamentario cuando se autorice por ley, con subordinación a los criterios, parámetros o elementos de cuantificación que determine la misma.
+
+2\. La Ley del Presupuesto de la Comunidad Autónoma no podrá crear tasas, pero sí modificarlas, revisar y actualizar su cuantía y suprimirlas en el ámbito de las competencias atribuidas por el Estatuto de Autonomía para Andalucía.
+
+#### Artículo 9. Principio de equivalencia y determinación de la cuantía.
+
+1\. La cuantificación de las tasas se efectuará de manera que el rendimiento estimado por su aplicación tienda a cubrir, en su conjunto, sin exceder de él, el coste real o previsible del servicio o actividad de que se trate y, en su defecto, el valor de la prestación recibida.
+
+Para la determinación de dicho importe se tendrán en cuenta los costes directos e indirectos, inclusive los de carácter financiero, amortización de inmovilizado y, en su caso, los necesarios para garantizar el mantenimiento y el desarrollo razonable del servicio o actividad por cuya prestación o realización se exige la tasa.
+
+2\. El importe de las tasas por utilización privativa o aprovechamiento especial del dominio público se fijará tomando como referencia el valor de mercado de los bienes entregados o de la utilidad derivada de aquellos.
+
+Cuando la utilización privativa o el aprovechamiento especial del dominio público lleve aparejada una destrucción o deterioro del mismo no previstos en la memoria económico-financiera a que se refiere el artículo 24, el sujeto pasivo estará obligado, sin perjuicio del pago de la tasa y las demás responsabilidades legales que puedan corresponderle por el daño ocasionado, al reintegro del coste total de los respectivos gastos de reconstrucción o reparación. Si los daños fueran irreparables, la indemnización consistirá en una cuantía igual al valor de los bienes destruidos o al importe correspondiente al deterioro de los dañados, de conformidad con la legislación sobre Hacienda Pública y patrimonial aplicable.
+
+#### Artículo 10. Hecho imponible.
+
+Constituye el hecho imponible de las tasas de la Comunidad Autónoma de Andalucía la utilización privativa o el aprovechamiento especial de su dominio público, la prestación de servicios o la realización de actividades a que se refiere el artículo 4 de esta Ley, fijados por la ley para configurar cada tasa.
+
+#### Artículo 11. Devengo.
+
+Las tasas se devengarán de acuerdo con la naturaleza de su hecho imponible, y sin perjuicio de lo dispuesto en su regulación específica, según lo siguiente:
+
+a) Cuando se conceda la utilización privativa o el aprovechamiento especial del dominio público, se inicie la prestación del servicio o la realización de la actividad administrativa, sin perjuicio de poder exigir su pago anticipado o depósito previo.
+
+b) Cuando se presente la solicitud que inicie la actuación o el procedimiento, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.
+
+c) Cuando se utilicen o aprovechen bienes de dominio público o se presten servicios o se realicen actividades de manera continuada e ininterrumpida sin que se requiera la adopción de nuevas resoluciones administrativas, la tasa se devengará el primer o el último día del periodo impositivo, según se establezca en cada caso.
+
+#### Artículo 12. Beneficios fiscales.
+
+1\. La Administración de la Junta de Andalucía y sus agencias administrativas y de régimen especial, y las agencias públicas empresariales a que se refiere el artículo 68.1.b) de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, estarán exentas de las tasas reguladas en esta Ley, sin perjuicio de las exenciones específicas establecidas mediante ley para cada tasa.
+
+2\. Los sujetos pasivos a título de contribuyentes de las tasas de la Comunidad Autónoma de Andalucía que presenten las correspondientes autoliquidaciones y realicen el pago de su importe por medios electrónicos tendrán derecho a una bonificación del 10% sobre la cuota a ingresar por cada autoliquidación presentada, con un límite mínimo de bonificación de tres euros y máximo de setenta euros, sin que pueda resultar una cuota tributaria negativa como consecuencia de dicha bonificación.
+
+#### Artículo 13. Sujetos pasivos.
+
+1\. De conformidad con el artículo 4, serán sujetos pasivos de la tasa, a título de contribuyentes, las personas físicas o jurídicas, así como las herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado susceptibles de imposición a las que se refiere el artículo 35.4 de la Ley General Tributaria cuando:
+
+a) Sean beneficiarias de la utilización privativa o del aprovechamiento especial del dominio público.
+
+b) Soliciten o resulten afectadas o beneficiadas de modo particular por prestaciones de servicios o actividades que constituyen su hecho imponible.
+
+2\. La ley específica de cada tasa podrá establecer sustitutos para que en lugar del contribuyente realicen las obligaciones materiales o formales derivadas de la realización del hecho imponible.
+
+3\. La concurrencia de dos o más titulares en la realización del hecho imponible determinará que queden solidariamente obligados, salvo que la ley específica de cada tasa establezca lo contrario.
+
+#### Artículo 14. Responsables tributarios.
+
+1\. La ley específica de cada tasa podrá declarar responsables solidarios o subsidiarios de la deuda tributaria, junto a los sujetos pasivos, a otras personas o entidades.
+
+2\. Las entidades o sociedades aseguradoras de riesgos que motiven actuaciones o servicios administrativos que constituyan el hecho imponible de una tasa responderán solidariamente de ella.
+
+#### Artículo 15. Cuota tributaria.
+
+1\. La cuota tributaria podrá consistir:
+
+a) En una cantidad fija.
+
+b) En una cantidad resultante de aplicar un determinado tipo de gravamen a la base imponible.
+
+c) En la cantidad que se establezca conjuntamente por ambos métodos.
+
+2\. Cuando la naturaleza de la tasa lo permita, en la fijación de la cuota tributaria se tendrá en cuenta la capacidad económica de los obligados al pago, y en concreto de aquellas personas que se encuentren en situación de vulnerabilidad económica, así como el carácter cultural, social, benéfico o de interés público de la actividad o servicio correspondiente.
+
+#### Artículo 16. Órganos competentes para la gestión, liquidación, recaudación, inspección e imposición de sanciones en materia de tasas.
+
+En materia de tasas, corresponde a la Agencia Tributaria de Andalucía la gestión, liquidación, recaudación e inspección, así como el ejercicio de la potestad sancionadora, sin perjuicio de las delegaciones de competencias que se realicen, en cuyo caso corresponde a los órganos en que se hayan delegado las mismas.
+
+#### Artículo 17. Autoliquidación y liquidación por la Administración.
+
+1\. Con carácter general y siempre que su configuración permita la determinación previa de la deuda, las tasas serán objeto de autoliquidación en el momento de la presentación de la solicitud de prestación del servicio, realización de la actividad, utilización privativa o aprovechamiento especial del dominio público.
+
+2\. No obstante, las tasas cuya configuración no permita la autoliquidación previa, y cuando así lo establezca su normativa específica, serán objeto de liquidación por la Administración.
+
+Las liquidaciones tendrán los requisitos y se notificarán en la forma establecida en la normativa tributaria.
+
+3\. De acuerdo con lo establecido en el artículo 14.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, por Decreto del Consejo de Gobierno se podrán determinar los supuestos y condiciones en los que los obligados al pago de tasas y precios públicos deberán presentar por medios electrónicos sus declaraciones, autoliquidaciones, comunicaciones, solicitudes y cualquier otro documento.
+
+Asimismo, en cumplimiento del artículo 12 de la Ley 39/2015, de 1 de octubre, la Administración deberá garantizar que los obligados al pago puedan relacionarse con la Administración a través de medios electrónicos, para lo que pondrán a su disposición los canales de acceso que sean necesarios, los sistemas y aplicaciones que en cada caso se determinen, así como cualquier otro programa de asistencia y ayuda.
+
+#### Artículo 18. Extinción de la deuda tributaria.
+
+Las deudas tributarias derivadas de las tasas podrán extinguirse, total o parcialmente, por cualquiera de las formas y con los requisitos previstos en la normativa tributaria.
+
+#### Artículo 19. Pago.
+
+1\. El pago de las tasas se realizará por los medios establecidos en el artículo 76.3 del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, en la forma, en el lugar y con los efectos liberatorios que se determinen reglamentariamente.
+
+La normativa autonómica regulará los requisitos y condiciones para el pago por medios electrónicos.
+
+2\. Las tasas que sean objeto de autoliquidación por el sujeto pasivo deberán ingresarse en los plazos específicos señalados por su normativa reguladora. En su defecto, la autoliquidación e ingreso se efectuarán en el momento de la presentación de la solicitud de prestación del servicio, realización de la actividad, utilización o aprovechamiento del dominio público.
+
+3\. Cuando las tasas sean objeto de liquidación practicada por la Administración, los plazos de ingreso en período voluntario serán los establecidos por el artículo 62 de la Ley General Tributaria y por el artículo 22 del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía.
+
+4\. Las tasas objeto de notificación colectiva y periódica se ingresarán en los plazos o fechas señalados en su normativa reguladora que, en todo caso, no será inferior a dos meses.
+
+5\. Una vez transcurrido el plazo para el pago en período voluntario sin que este se haya llevado a efecto, la recaudación de las tasas se realizará en periodo ejecutivo, mediante el pago o cumplimiento espontáneo de la persona o entidad obligada al pago o, en su defecto, a través del procedimiento administrativo de apremio.
+
+#### Artículo 20. Aplazamiento y fraccionamiento del pago.
+
+1\. Las deudas procedentes de las tasas que se encuentren en período voluntario podrán aplazarse o fraccionarse por la Agencia Tributaria de Andalucía, sin perjuicio de las delegaciones o atribuciones de competencias realizadas, o que se realicen, en cuyo caso corresponde a los órganos en que se hayan delegado o atribuido dichas competencias.
+
+2\. Las deudas procedentes de las tasas que se encuentren en período ejecutivo podrán aplazarse o fraccionarse por la Agencia Tributaria de Andalucía.
+
+3\. El aplazamiento o fraccionamiento se efectuará previa solicitud del sujeto pasivo en la forma, con los requisitos y garantías establecidos en la Ley 58/2003, de 17 de diciembre, General Tributaria, en el Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio, y en la normativa propia de la Comunidad Autónoma que sea de aplicación.
+
+#### Artículo 21. Devolución.
+
+1\. El procedimiento para el reconocimiento del derecho a la devolución de un ingreso indebido efectuado en pago de tasas se iniciará de oficio o a instancia del interesado, en los siguientes supuestos:
+
+a) Cuando por causas no imputables al sujeto pasivo no se realice su hecho imponible.
+
+b) En los supuestos previstos en el artículo 221 de la Ley General Tributaria.
+
+2\. La devolución se efectuará de conformidad con los procedimientos y órganos competentes previstos en la normativa tributaria y en las disposiciones autonómicas de aplicación.
+
+#### Artículo 22. Recursos y reclamaciones.
+
+1\. El órgano u organismo que hubiera dictado el acto de aplicación de las tasas o el acto de imposición de sanciones derivadas de las mismas rectificará en cualquier momento, de oficio o a instancia del interesado, los errores materiales, de hecho o aritméticos, siempre que no hubiera transcurrido el plazo de prescripción.
+
+2\. Los actos dictados por la Administración tributaria susceptibles de reclamación económico-administrativa podrán ser objeto de recurso potestativo de reposición con carácter previo a la reclamación económico-administrativa ante el órgano que dictó el acto impugnable.
+
+Si el interesado interpusiera el recurso de reposición no podrá promover la reclamación económico-administrativa hasta que el recurso se haya resuelto de forma expresa o hasta que pueda considerarlo desestimado por silencio administrativo.
+
+Tratándose de actos dictados por delegación y salvo que en esta se disponga otra cosa, el recurso de reposición que, en su caso, se interponga contra dichos actos se resolverá por el órgano delegado.
+
+3\. Contra los actos de aplicación de las tasas, así como contra las sanciones derivadas de aquellos, podrá interponerse reclamación económico-administrativa ante el órgano que dictó el acto reclamable, el cual lo remitirá al órgano económico-administrativo competente de la Comunidad Autónoma de Andalucía, de conformidad con lo dispuesto en su normativa reguladora.
+
+4\. Las resoluciones de los órganos económico-administrativos autonómicos podrán ser objeto de recurso contencioso-administrativo.
+
+#### Artículo 23. Infracciones y sanciones.
+
+La calificación de las infracciones, la cuantificación y la graduación de las sanciones que corresponda aplicar en materia de tasas se realizará de conformidad con lo dispuesto en la normativa tributaria.
+
+#### Artículo 24. Memoria económico-financiera.
+
+Toda propuesta de establecimiento de una nueva tasa o de modificación de la cuantía de una ya existente deberá incluir una memoria económico-financiera que elaborará la Consejería o entidad que preste el servicio o realice la actividad de que se trate y que contendrá, al menos, lo siguiente:
+
+a) La identificación y características del servicio o actividad, la programación del gasto del órgano gestor, así como una previsión de los ingresos a recaudar.
+
+b) Un estudio analítico de los costes directos e indirectos que contribuyen a la formación del coste total del servicio o actividad.
+
+c) Un estudio sobre el impacto en la capacidad económica de las personas físicas o jurídicas a las que les afectará el pago de la tasa.
+
+d) Fundamentación del establecimiento del recurso y del nivel de cobertura del coste.
+
+e) En su caso, de conformidad con lo previsto en el artículo 15.2, la justificación del carácter cultural, social, benéfico o de interés público de la actividad o servicio correspondiente o de las circunstancias de capacidad económica que se han tenido en cuenta para la fijación de la cuota tributaria.
+
+f) En cuanto a las tasas que gravan la utilización privativa o el aprovechamiento especial del dominio público, los criterios y parámetros que permitan definir el valor de mercado de la utilidad derivada de la utilización privativa o del aprovechamiento especial.
+
+## TÍTULO II — Precios públicos: disposiciones generales
+
+#### Artículo 25. Establecimiento y regulación.
+
+1\. La determinación de los servicios, actividades y bienes susceptibles de ser retribuidos mediante precios públicos, conforme al artículo 5, se efectuará por Acuerdo del Consejo de Gobierno de la Junta de Andalucía, a propuesta de la consejería que los preste o entregue o de la que dependa la entidad correspondiente, previo informe preceptivo de la Consejería competente en materia tributaria.
+
+Excepcionalmente, el Acuerdo del Consejo de Gobierno de la Junta de Andalucía por el que se determinen los servicios y actividades de carácter sanitario susceptibles de ser retribuidos mediante precios públicos podrá realizar una remisión a la normativa vigente por la que se establece la Cartera de Servicios Comunes del Sistema Nacional de Salud, siempre que dicha remisión esté debidamente justificada por la Consejería competente en materia de salud.
+
+2\. Una vez determinados los servicios o actividades retribuibles, la regulación de los elementos sustantivos y la fijación o revisión de la cuantía de los precios públicos se efectuará:
+
+a) Con carácter general, por Orden de la Consejería que efectúe la prestación o entrega o de la que dependa la entidad correspondiente, previo informe preceptivo de la Consejería competente en materia tributaria y preceptivo y vinculante de la Consejería competente en materia presupuestaria, que deberá ser favorable.
+
+b) Excepcionalmente, cuando la cuantía del precio público sea inferior al coste del bien vendido o servicio o actividad prestados, por Acuerdo del Consejo de Gobierno de la Junta de Andalucía, a propuesta de la Consejería que efectúe la prestación o entrega o de la que dependa la entidad correspondiente, previo informe preceptivo de la Consejería competente en materia tributaria y preceptivo y vinculante de la Consejería competente en materia presupuestaria, que deberá ser favorable. Para ello, deberán concurrir los siguientes requisitos:
+
+1.º Que existan razones sociales, de capacidad económica, benéficas, culturales o de interés general que así lo aconsejen y estén debidamente justificadas.
+
+2.º Que existan consignadas en el Presupuesto de la Comunidad Autónoma de Andalucía dotaciones suficientes para cubrir la parte subvencionada.
+
+De no existir tales dotaciones, deberá realizarse la modificación presupuestaria correspondiente por el importe de la subvención que se pretenda otorgar en el ejercicio.
+
+Para mantener la subvención durante ejercicios siguientes, se consignarán en el Presupuesto de la Comunidad Autónoma de Andalucía las dotaciones suficientes para cubrir la parte subvencionada.
+
+3\. La Consejería competente en materia de salud podrá autorizar al Servicio Andaluz de Salud para revisar la cuantía de los precios públicos de los servicios y actividades sanitarias del Sistema Sanitario Público de Andalucía, mediante Resolución de la Dirección Gerencia, previo informe preceptivo de la Consejería competente en materia tributaria y preceptivo y vinculante de la Consejería competente en materia presupuestaria, debiendo ser favorable para que pueda tener lugar la revisión; siempre que la cuantía de los mismos no sea inferior al coste del bien vendido o servicio o actividad prestado, en cuyo caso se efectuará conforme a lo establecido en el párrafo b) del apartado anterior.
+
+De manera excepcional, podrá seguirse el procedimiento establecido en el párrafo anterior para la fijación provisional de los precios públicos correspondientes a los nuevos servicios y actividades que se hayan determinado conforme a lo dispuesto en el párrafo segundo del apartado 1 de este artículo, en tanto dichos precios públicos no se fijen de forma definitiva de conformidad con lo dispuesto en el apartado 2.
+
+> Se modifican los apartados 1 y 3 por la disposición final 6.1 de la Ley 7/2024, de 23 de diciembre. [Ref. BOE-A-2025-413](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-413)
+
+#### Artículo 26. Determinación y revisión de la cuantía.
+
+1\. Con carácter general, el importe de los precios públicos deberá establecerse a un nivel que, como mínimo, cubra el coste total de la prestación del servicio, la realización de la actividad o la entrega del bien, debiendo tenerse además en cuenta la utilidad derivada de la prestación administrativa para la persona interesada.
+
+Para la determinación de dicho importe se tendrán en cuenta los costes directos e indirectos del bien, servicio o actividad, inclusive los de carácter financiero, amortización de inmovilizado y, en su caso, los necesarios para garantizar el mantenimiento y el desarrollo razonable del citado servicio o actividad por cuya prestación o realización se exige el precio público.
+
+2\. Excepcionalmente, el Consejo de Gobierno de la Junta de Andalucía podrá establecer precios públicos con importes inferiores al coste, así como la no exigencia y reducciones de los mismos, en los supuestos, con los requisitos y previos los informes previstos en el artículo 25.2.b).
+
+3\. Los precios públicos podrán determinarse en una cuantía fija o en función de un porcentaje sobre parámetros cuantitativos ciertos.
+
+4\. El importe de los precios públicos podrá ser objeto de revisión cuando varíen los costes del servicio, actividad o la entrega del bien, sin perjuicio de que pueda efectuarse la actualización anual de su cuantía por los órganos competentes para ello, según lo establecido en el artículo 25.
+
+#### Artículo 27. Presupuesto de hecho.
+
+Constituye el presupuesto de hecho de los precios públicos de la Comunidad Autónoma de Andalucía la prestación de servicios, la realización de actividades o, en su caso, la entrega de bienes, en los supuestos a que se refiere el artículo 5 de esta Ley, fijados por la norma para configurar cada precio público.
+
+#### Artículo 28. Exigibilidad.
+
+1\. Los precios públicos son exigibles en el momento de la entrega del bien, la prestación del servicio o la realización de la actividad administrativa que constituyan su presupuesto de hecho.
+
+2\. No obstante, la disposición de establecimiento de cada precio público podrá exigir el pago anticipado, el depósito previo de su importe total o parcial o la constitución de garantía.
+
+#### Artículo 29. Obligados al pago.
+
+Estarán obligados al pago del precio público las personas físicas o jurídicas, así como las herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado susceptibles de imposición a las que se refiere el artículo 35.4 de la Ley General Tributaria que, de conformidad con el artículo 5 de esta Ley, reciban los bienes o se beneficien de los servicios o actividades que constituyen su presupuesto de hecho.
+
+#### Artículo 30. Órganos competentes para la gestión, liquidación, recaudación e imposición de sanciones en materia de precios públicos.
+
+En materia de precios públicos corresponde:
+
+a) La gestión, liquidación y recaudación en periodo voluntario, así como el ejercicio de la potestad sancionadora, a las Consejerías o entidades que deban prestar el servicio, realizar la actividad o efectuar la entrega de bienes que constituya su presupuesto de hecho, sin perjuicio de lo establecido en el artículo 33 en materia de aplazamientos y fraccionamientos del pago.
+
+b) La recaudación en periodo ejecutivo a la Agencia Tributaria de Andalucía.
+
+#### Artículo 31. Autoliquidación, liquidación por la Administración y pago.
+
+El régimen de autoliquidación, de liquidación por la Administración y de pago de los precios públicos será el establecido en los artículos 17 y 19.
+
+#### Artículo 32. Extinción de la deuda.
+
+Las deudas derivadas de los precios públicos podrán extinguirse, total o parcialmente, por cualquiera de las formas y con los requisitos previstos en el Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía y sus normas de desarrollo, así como en el Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio.
+
+#### Artículo 33. Aplazamiento y fraccionamiento del pago.
+
+1\. Las deudas procedentes de los precios públicos que se encuentren en período voluntario podrán aplazarse o fraccionarse por:
+
+a) La Agencia Tributaria de Andalucía, respecto a las deudas procedentes de los precios públicos cuya gestión y recaudación estén atribuidas a la Administración de la Junta de Andalucía o a sus agencias administrativas, sin perjuicio de las delegaciones de competencias realizadas, o que se realicen, en cuyo caso corresponde a los órganos en que se hayan delegado dichas competencias.
+
+b) Las agencias de régimen especial o las agencias públicas empresariales, a través de los órganos que se establezcan en sus estatutos, respecto a los precios públicos cuya gestión recaudatoria tengan atribuida, salvo que expresamente, mediante norma de carácter reglamentario, se atribuya la competencia para la resolución de la solicitud de aplazamiento o fraccionamiento a la Agencia Tributaria de Andalucía.
+
+2\. Las deudas procedentes de los precios públicos que se encuentren en período ejecutivo podrán aplazarse o fraccionarse por la Agencia Tributaria de Andalucía.
+
+3\. El aplazamiento o fraccionamiento se efectuará previa solicitud del obligado al pago en la forma, con los requisitos y garantías establecidos en la Ley 58/2003, de 17 de diciembre, General Tributaria; en el Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio, y en la normativa propia de la Comunidad Autónoma que sea de aplicación.
+
+#### Artículo 34. Devolución.
+
+1\. El procedimiento para el reconocimiento del derecho a la devolución de un ingreso indebido efectuado en pago de precios públicos se iniciará de oficio o a instancia del interesado, en los siguientes supuestos:
+
+a) Cuando por causas no imputables al obligado al pago no se realice su presupuesto de hecho.
+
+b) En los supuestos previstos en el Reglamento que regula la organización y funcionamiento de la Tesorería General de la Junta de Andalucía y la gestión recaudatoria.
+
+2\. La devolución se efectuará de conformidad con los procedimientos y órganos competentes establecidos en el Reglamento que regula la organización y funcionamiento de la Tesorería General de la Junta de Andalucía y la gestión recaudatoria y en las demás disposiciones autonómicas de aplicación.
+
+#### Artículo 35. Recursos.
+
+Contra los actos de gestión, liquidación, recaudación e imposición de sanciones en materia de precios públicos podrán interponerse los recursos que correspondan conforme a lo establecido en la Ley 39/2015, de 1 de octubre.
+
+> Se modifica por la disposición final 10.2 de la Ley 8/2025, de 22 de diciembre. [Ref. BOE-A-2026-945](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-945)
+
+#### Artículo 36. Memoria económico-financiera.
+
+Toda propuesta de establecimiento de un nuevo precio público o de modificación de la cuantía de uno ya existente deberá incluir una memoria económico-financiera que elaborará la Consejería o entidad que preste el servicio, realice la actividad o entregue el bien de que se trate, que contendrá lo siguiente:
+
+a) La identificación y características del bien, servicio o actividad; la programación del gasto del órgano gestor; así como una previsión de los ingresos a recaudar.
+
+b) Un estudio analítico de los costes directos e indirectos que se derivan de la entrega del bien, prestación del servicio o actividad.
+
+c) Justificación del importe del precio público propuesto que, como mínimo, habrá de ser suficiente para cubrir los costes totales, sin perjuicio de lo dispuesto en el párrafo d).
+
+d) En su caso, las razones sociales, de capacidad económica, benéficas, culturales o de interés general que justifican fijar un precio por debajo de la utilidad derivada de la prestación administrativa, o del precio de coste del servicio o actividad prestada, así como una estimación del coste del beneficio aplicado, en términos anuales.
+
+## TÍTULO III — Tasa en materia de publicidad oficial
+
+### CAPÍTULO ÚNICO — Tasa del «Boletín Oficial de la Junta de Andalucía»
+
+#### Artículo 37. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la inserción en el «Boletín Oficial de la Junta de Andalucía» (en adelante, BOJA) de disposiciones, actos, notificaciones, requerimientos, anuncios o cualquier otro tipo de textos.
+
+#### Artículo 38. Sujetos pasivos.
+
+1\. Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la inserción en el BOJA de disposiciones, actos, notificaciones, requerimientos, anuncios o cualquier otro tipo de textos.
+
+2\. No obstante lo anterior, cuando las inserciones sean ordenadas por los órganos de la Administración de la Junta de Andalucía, sus entidades instrumentales y demás entidades de Derecho Público, así como por el Parlamento de Andalucía y demás instituciones de autogobierno previstas en el Título IV del Estatuto de Autonomía para Andalucía y por la Administración de Justicia de Andalucía, será sujeto pasivo de la tasa la persona física o jurídica, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que se especifican en los siguientes párrafos:
+
+a) En las inserciones relativas a la aprobación de tarifas por prestación de servicios, aquella que gestione el servicio público.
+
+b) En las inserciones relativas a concesiones administrativas, la concesionaria.
+
+c) En las inserciones relativas a licencias, la persona titular de la licencia.
+
+d) En las inserciones relativas a autorizaciones y permisos, aquella a la que le haya sido otorgada la autorización o el permiso.
+
+e) En las inserciones de los Juzgados y Tribunales, aquella que resulte condenada u obligada judicialmente al cumplimiento de la obligación principal.
+
+#### Artículo 39. Cuota tributaria.
+
+1\. El importe de la cuota tributaria es:
+
+a) Por inserción de textos: 0,05 euros por carácter tanto del sumario como del texto de disposiciones, actos, notificaciones, requerimientos, anuncios o cualquier otro tipo de texto, incluyendo, a estos efectos, los espacios en blanco como carácter.
+
+b) Por inserción de tablas, gráficos, mapas y fotos que no puedan contabilizarse como caracteres: 1,20 euros por centímetro lineal de altura ocupado por cada tabla, gráfico, mapa o foto trasladados a un formato de página de tamaño DIN A4.
+
+2\. Para el cálculo de la tasa final, se sumarán a cada texto los caracteres correspondientes al título de sección, subsección y procedencia como elementos a computar.
+
+#### Artículo 40. Devengo.
+
+1\. La tasa se devengará cuando se presente la solicitud de inserción.
+
+2\. El pago será previo a la prestación del servicio, debiendo acreditarse documentalmente, excepto cuando el sujeto pasivo sea indeterminado o incierto en el momento de solicitar la inserción, en cuyo caso el pago se efectuará cuando el mismo sea cierto.
+
+3\. En las inserciones ordenadas por los Juzgados y Tribunales, el pago se efectuará cuando se hagan efectivas las costas sobre bienes de cualesquiera de las partes.
+
+#### Artículo 41. Beneficios fiscales.
+
+Estará exenta del pago de la tasa la inserción de los siguientes textos:
+
+a) Las siguientes disposiciones estatales cuando tengan incidencia directa en la Comunidad Autónoma de Andalucía: leyes, normas con rango de ley y disposiciones generales de la Administración General del Estado y de los organismos públicos dependientes o vinculados a ella, así como las disposiciones emanadas de los órganos constitucionales del Estado.
+
+b) Disposiciones de la Junta de Andalucía: leyes, normas con rango de ley y disposiciones generales de la Administración de la Junta de Andalucía.
+
+c) Resoluciones, actos administrativos, anuncios oficiales y escritos de toda clase de las instituciones, entidades y órganos a que se refiere el artículo 38.2, siempre que concurra alguno de los siguientes supuestos:
+
+1.º Que sean de interés general.
+
+2.º Que su publicación sea obligatoria en virtud de precepto legal y no estén incluidos en alguno de los supuestos previstos en los párrafos a), b), c), d) y e) del citado precepto.
+
+d) Actuaciones en procedimientos penales.
+
+e) Las publicaciones promovidas por órganos jurisdiccionales en aplicación de leyes procesales, y las relativas a justicia gratuita.
+
+f) Las publicaciones de cualquier dependencia de la Junta de Andalucía concernientes a Servicios Sociales.
+
+g) Las publicaciones promovidas por las mancomunidades de municipios y consorcios locales en lo concerniente a su creación, disolución, liquidación o cualquier otro acto que conlleve modificación de sus estatutos cuando su inserción en el BOJA se establezca con carácter obligatorio por normas de la Comunidad Autónoma de Andalucía.
+
+h) Las correcciones de erratas o modificaciones en inserciones, por causas no imputables al sujeto pasivo.
+
+i) Los anuncios de acuerdos de información pública en los procedimientos de autorización y/o modificación sustancial de los instrumentos de prevención y control ambiental de autorización ambiental integrada y autorización ambiental unificada, regulados en la Ley 7/2007, de 9 de julio, de gestión integrada de la calidad ambiental, o norma que lo sustituya.
+
+j) Los anuncios de acuerdos de información pública relativos a los procedimientos de autorizaciones administrativas de las instalaciones de energía eléctrica, competencia de la Comunidad Autónoma de Andalucía, sujetos a tramitación conjunta entre las Consejerías con competencias en autorización ambiental y en energía, que se encuentren sometidos a autorización ambiental unificada.
+
+k) Los anuncios de acuerdos de información pública en los procedimientos administrativos regulados en la Ley 22/1973, de 21 de julio, de Minas, así como en los reglamentos que la desarrollan, y en el Real Decreto 975/2009, de 12 de junio, sobre gestión de los residuos de las industrias extractivas y de protección y rehabilitación del espacio afectado por actividades mineras, o normas que las sustituyan.
+
+> Se añaden las letras i), j) y k) por el art. 81.1 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030)
+
+## TÍTULO IV — Tasa en materia de industria, energía y minas
+
+### CAPÍTULO ÚNICO — Tasa por servicios administrativos en materia de industria, energía y minas
+
+#### Artículo 42. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de servicios y la realización de actividades administrativas en materia de ordenación de actividades industriales, energéticas y mineras, que se enumeran en el artículo 44.
+
+#### Artículo 43. Sujetos pasivos.
+
+1\. Serán sujetos pasivos de la tasa, a título de contribuyentes, las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten, resulten afectadas o beneficiadas por la prestación de los servicios o la realización de actividades administrativas que constituyen el hecho imponible.
+
+2\. En la tarifa por anotación en el sistema informático del resultado de las actuaciones de los organismos de control sobre productos e instalaciones industriales (tarifa 19.1.) serán sujetos pasivos, como sustitutos del contribuyente, los organismos de control que realicen la actuación. Estos sujetos pasivos sustitutos repercutirán íntegramente el importe de la tasa sobre el contribuyente, quedando éste obligado a soportarlo.
+
+#### Artículo 44. Cuota tributaria.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Metrología:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">1.1.</td>
+<td class="cuerpo_tabla_izq">Tramitación de la declaración responsable para inicio de actividad como persona o entidad reparadora de instrumentos sometidos a control metrológico e inscripción en el Registro de Control Metrológico. Por cada sector de actividad.</td>
+<td class="cuerpo_tabla_izq">41,53 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">1.2.</td>
+<td class="cuerpo_tabla_izq">Tramitación de la comunicación de la actividad de fabricación, importación, comercialización o cesión en arrendamiento de instrumentos sometidos a control metrológico e inscripción en el Registro de Control Metrológico. Por cada sector de actividad.</td>
+<td class="cuerpo_tabla_izq">36,11 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">1.3.</td>
+<td class="cuerpo_tabla_izq">Autorización de organismos designados en materia de control metrológico del Estado: organismos notificados, organismos de control metrológico y organismos autorizados de verificación metrológica.</td>
+<td class="cuerpo_tabla_izq">296,28 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Metales preciosos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.1.</td>
+<td class="cuerpo_tabla_izq">Autorización de laboratorios de ensayo y contrastación de objetos fabricados con metales preciosos.</td>
+<td class="cuerpo_tabla_izq">1.113,47 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.2.</td>
+<td class="cuerpo_tabla_izq">Tramitación de la comunicación de la actividad de fabricación o importación de objetos fabricados con metales preciosos.</td>
+<td class="cuerpo_tabla_izq">44,90 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="7%">
+<col width="70%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">3.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Vehículos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">3.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Acreditación de laboratorio de vehículos históricos y su renovación:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3.1.1.</td>
+<td class="cuerpo_tabla_izq">Acreditación.</td>
+<td class="cuerpo_tabla_izq">225,48 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3.1.2.</td>
+<td class="cuerpo_tabla_izq">Renovación.</td>
+<td class="cuerpo_tabla_izq">112,74 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">3.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Concesión de certificado de conformidad al Acuerdo sobre transportes internacionales de mercancías perecederas y sobre vehículos especiales utilizados en esos transportes (ATP) y al Acuerdo europeo sobre transporte internacional de mercancías peligrosas por carretera (ADR) de vehículos trasladados desde otro país parte contratante del ATP/ADR.</td>
+<td class="cuerpo_tabla_izq">113,54 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">3.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Asignación de contraseña de tipo ATP/ADR.</td>
+<td class="cuerpo_tabla_izq">72,16 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">3.4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización de centros técnicos de tacógrafos digitales.</td>
+<td class="cuerpo_tabla_izq">47,54 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">3.5.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización de entidades y talleres que realizan instalaciones y comprobaciones del funcionamiento de dispositivos de limitación de velocidad, así como la ampliación de la autorización a otras marcas de esos dispositivos.</td>
+<td class="cuerpo_tabla_izq">47,54 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Servicios continuados de intervención administración en materia de industria, energía y minas <sup>(1)</sup>:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">4.1.</td>
+<td class="cuerpo_tabla_izq">Intervención administrativa de estación de inspección técnica de vehículos.</td>
+<td class="cuerpo_tabla_izq">2.692,91 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">4.2.</td>
+<td class="cuerpo_tabla_izq">Intervención administrativa de laboratorio de ensayo y contrastación de objetos fabricados con metales preciosos.</td>
+<td class="cuerpo_tabla_izq">4.004,40 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq" colspan="3">
+<p class="cita"><sup>(1)</sup> En caso de ejercer la entidad la actividad objeto de intervención durante un periodo inferior al año natural, se liquidará la parte proporcional de la tasa correspondiente a dicho periodo.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="7%">
+<col width="70%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">5.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Minas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Tramitación de derechos mineros de la sección A:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.1.1.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Autorización de explotación de recursos mineros de la sección A. Modificación de proyecto y ampliación de extensión superficial.</p>
+<p class="cuerpo_tabla_izq">Se liquidará en función del presupuesto de la actuación de que se trate conforme a la escala de gravamen de la tarifa 5.4.</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.1.2.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Prórrogas de autorización de explotación de recursos mineros de la sección A.</p>
+<p class="cuerpo_tabla_izq">Se liquidará en función del presupuesto de la actuación de que se trate conforme a la escala de gravamen de la tarifa 5.4.</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Tramitación de derechos mineros de la sección B:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.2.1.</td>
+<td class="cuerpo_tabla_izq">Declaración de agua minero-medicinal con fines terapéuticos.</td>
+<td class="cuerpo_tabla_izq">932,72 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.2.2.</td>
+<td class="cuerpo_tabla_izq">Declaración de agua mineral natural.</td>
+<td class="cuerpo_tabla_izq">2.585,18 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.2.3.</td>
+<td class="cuerpo_tabla_izq">Declaración de agua de manantial.</td>
+<td class="cuerpo_tabla_izq">2.585,18 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.2.4.</td>
+<td class="cuerpo_tabla_izq">Declaración de agua termal.</td>
+<td class="cuerpo_tabla_izq">932,72 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.2.5.</td>
+<td class="cuerpo_tabla_izq">Declaración de agua minero industrial.</td>
+<td class="cuerpo_tabla_izq">932,72 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.2.6.</td>
+<td class="cuerpo_tabla_izq">Declaración de yacimientos de origen no natural.</td>
+<td class="cuerpo_tabla_izq">932,72 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.2.7.</td>
+<td class="cuerpo_tabla_izq">Calificación de estructura subterránea.</td>
+<td class="cuerpo_tabla_izq">932,72 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.2.8.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Autorización de aprovechamiento o concesión de recursos de la sección B. Aguas minerales y/o termales.</p>
+<p class="cuerpo_tabla_izq">Se liquidará en función del presupuesto de la actuación de que se trate conforme a la escala de gravamen de la tarifa 5.4</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.2.9.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Autorización de aprovechamiento de recursos de la sección B. Yacimientos de origen no natural.</p>
+<p class="cuerpo_tabla_izq">Se liquidará en función del presupuesto de la actuación de que se trate conforme a la escala de gravamen de la tarifa 5.4</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.2.10.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Autorización de exploración, investigación o utilización de estructuras subterráneas.</p>
+<p class="cuerpo_tabla_izq">Se liquidará según el caso, conforme a la tarifa 5.3.1 (permiso de exploración), tarifa 5.3.2 (permiso de investigación) o tarifa 5.3.3 (concesión derivada de permisos de investigación).</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.2.11.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Tramitación de solicitudes de perímetro de protección para recursos de la sección B.</p>
+<p class="cuerpo_tabla_izq">Únicamente se liquidará si el aprovechamiento ya se encuentra autorizado.</p>
+</td>
+<td class="cuerpo_tabla_izq">3.227,69 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Tramitación de derechos mineros de las secciones C y D:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5.3.1.</td>
+<td class="cuerpo_tabla_izq">Tramitación del permiso de exploración.</td>
+<td class="cuerpo_tabla_izq">2.730,40 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5.3.2.</td>
+<td class="cuerpo_tabla_izq">Tramitación del permiso de investigación.</td>
+<td class="cuerpo_tabla_izq">3.227,69 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5.3.3.</td>
+<td class="cuerpo_tabla_izq">Tramitación de concesión derivada de permisos de investigación.</td>
+<td class="cuerpo_tabla_izq">3.432,77 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5.3.4.</td>
+<td class="cuerpo_tabla_izq">Tramitación de concesión explotación directa.</td>
+<td class="cuerpo_tabla_izq">3.432,77 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5.3.5.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Prórrogas de derechos mineros de las secciones C y D.</p>
+<p class="cuerpo_tabla_izq">Se liquidará conforme a la tarifa 5.3.1 (permiso de exploración), tarifa 5.3.2 (permiso de investigación) o tarifa 5.3.3 (concesión derivada de permisos de investigación).</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5.3.6.</td>
+<td class="cuerpo_tabla_izq">Tramitación de demasías.</td>
+<td class="cuerpo_tabla_izq">3.432,77 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5.3.7.</td>
+<td class="cuerpo_tabla_izq">Reclasificación de recursos de la sección A a la C.</td>
+<td class="cuerpo_tabla_izq">3.432,77 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">
+<p class="cuerpo_tabla_izq">Tramitación y autorización de proyectos con presupuesto (para todos los recursos). Sin incluir la repetición de pruebas en caso de ser necesario:</p>
+<p class="cuerpo_tabla_izq">Tramitación y confrontación de planes de labores anuales de explotaciones mineras.</p>
+<p class="cuerpo_tabla_izq">Autorización de establecimientos de preparación, concentración o beneficio de recursos mineros.</p>
+<p class="cuerpo_tabla_izq">Autorización de sondeos y trabajos en pozos.</p>
+<p class="cuerpo_tabla_izq">Tramitación de proyectos de voladura.</p>
+<p class="cuerpo_tabla_izq">Tramitación de suspensión temporal, abandono y/o cierre de labores mineras.</p>
+<p class="cuerpo_tabla_izq">Confrontación e informes de transportes mineros o líneas eléctricas.</p>
+<p class="cuerpo_tabla_izq">Tramitación de proyectos de explotación o restauración mineras tramitados con posterioridad al otorgamiento del derecho minero sin ser parte de una solicitud de prórroga.</p>
+<p class="cuerpo_tabla_izq">Tramitación de otros proyectos mineros no estipulados en epígrafes anteriores y que requieran actuación de la Administración minera.</p>
+<p class="cuerpo_tabla_izq">Se liquidará en función del presupuesto de actuación de que se trate conforme a la siguiente escala de gravamen</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.4.1.</td>
+<td class="cuerpo_tabla_izq">Presupuesto hasta 100.000 euros.</td>
+<td class="cuerpo_tabla_izq">453,50 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.4.2.</td>
+<td class="cuerpo_tabla_izq">Presupuesto de 100.001 hasta 500.000 euros.</td>
+<td class="cuerpo_tabla_izq">813,78 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.4.3.</td>
+<td class="cuerpo_tabla_izq">Presupuesto desde 500.001 euros.</td>
+<td class="cuerpo_tabla_izq">1.595,59 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.4.4.</td>
+<td class="cuerpo_tabla_izq">Autorización de obras e instalaciones de pozos y sondeos de aguas subterráneas no regulados por la Ley de Minas.</td>
+<td class="cuerpo_tabla_izq">167,76 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.5.</td>
+<td class="cuerpo_tabla_izq" colspan="2">
+<p class="cuerpo_tabla_izq">Autorización de puesta en servicio de instalaciones mineras. Sin incluir la repetición de pruebas en caso de ser necesario.</p>
+<p class="cuerpo_tabla_izq">Se liquidará en función del presupuesto de actuación de que se trate conforme a la escala de gravamen 5.4.</p>
+<p class="cuerpo_tabla_izq">No obstante, a los proyectos incluidos en la tarifa 5.4.4., que requieran la puesta en servicio de instalaciones elevadoras eléctricas, se les aplicará la tarifa 7.2.1.1.</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.6.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Repetición de pruebas para la autorización de proyectos y puesta en servicio de instalaciones mineras. Por cada día de trabajo.</td>
+<td class="cuerpo_tabla_izq">115,14 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.7.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Rectificación de perímetros de demarcación o de protección, intrusión de labores, deslindes y superposiciones.</td>
+<td class="cuerpo_tabla_izq">838,55 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.8.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Copias de planos de demarcación.</td>
+<td class="cuerpo_tabla_izq">156,46 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.9.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Transmisión de derechos mineros:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.9.1.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Transmisiones que conlleven la presentación de proyecto.</p>
+<p class="cuerpo_tabla_izq">Se liquidará conforme a la escala de gravamen 5.4.</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.9.2.</td>
+<td class="cuerpo_tabla_izq">Transmisiones que no conlleven la presentación de proyecto.</td>
+<td class="cuerpo_tabla_izq">369,49 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.10.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Tramitación de solicitudes de autorización de concentración de labores o de formación de cotos mineros.</td>
+<td class="cuerpo_tabla_izq">265,38 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.11.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Tramitación de la conformidad para la contratación de terceras personas para la realización de trabajos de exploración, investigación o explotación.</td>
+<td class="cuerpo_tabla_izq">265,38 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.12.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Informes e inspecciones, dispuestos por exigencias normativas relativas a los recursos de las secciones A, B, C y D, así como lo establecido en el Reglamento General de Normas Básicas de Seguridad Minera, aprobado por el Real Decreto 863/1985, de 2 de abril.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.12.1.</td>
+<td class="cuerpo_tabla_izq">Inspecciones de accidentes.</td>
+<td class="cuerpo_tabla_izq">404,58 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.12.2.</td>
+<td class="cuerpo_tabla_izq">Inspecciones de seguridad en voladuras.</td>
+<td class="cuerpo_tabla_izq">165,04 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.13.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización de entidades de control ambiental (ECA) en el ámbito del Reglamento General de Normas Básicas de Seguridad Minera.</td>
+<td class="cuerpo_tabla_izq">242,03 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.14.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización de organismos de control en el ámbito del Real Decreto 975/2009, de 12 de junio, sobre gestión de los residuos de las industrias extractivas y de protección y rehabilitación del espacio afectado por actividades mineras.</td>
+<td class="cuerpo_tabla_izq">242,03 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.15.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Tramitación de permisos de investigación para almacenamientos geológicos de dióxido de carbono (CO<sub>2</sub>):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.15.1.</td>
+<td class="cuerpo_tabla_izq">Permiso de investigación de almacenamiento de dióxido de carbono (CO<sub>2)</sub>.</td>
+<td class="cuerpo_tabla_izq">3.686,74 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.15.2.</td>
+<td class="cuerpo_tabla_izq">Prórroga del permiso de investigación de almacenamiento de dióxido de carbono (CO<sub>2</sub>).</td>
+<td class="cuerpo_tabla_izq">3.686,74 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.16.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Tramitación de permisos de investigación para hidrocarburos.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.16.1.</td>
+<td class="cuerpo_tabla_izq">Permiso de investigación de hidrocarburos.</td>
+<td class="cuerpo_tabla_izq">3.686,74 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.16.2.</td>
+<td class="cuerpo_tabla_izq">Prórroga de permiso de investigación de hidrocarburos.</td>
+<td class="cuerpo_tabla_izq">3.686,74 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="7%">
+<col width="70%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">6.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Otros servicios administrativos de carácter general en materia de industria, energía y minas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">6.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Emisión de informes y dictámenes a instancia de parte no contemplados en otras tarifas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6.1.1.</td>
+<td class="cuerpo_tabla_izq">Con visita de reconocimiento o inspección.</td>
+<td class="cuerpo_tabla_izq">197,52 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6.1.2.</td>
+<td class="cuerpo_tabla_izq">Sin visita de reconocimiento o inspección.</td>
+<td class="cuerpo_tabla_izq">77,05 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">6.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Tramitación de solicitudes para participar en pruebas para la obtención de habilitaciones profesionales. Por cada modalidad o categoría de examen que se solicite.</td>
+<td class="cuerpo_tabla_izq">34,47 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">6.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Cambios de titularidad de expedientes.</td>
+<td class="cuerpo_tabla_izq">59,69 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">6.4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Expedición de certificaciones de datos y hechos que consten en los registros y archivos administrativos.</td>
+<td class="cuerpo_tabla_izq">12,40 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">6.5</td>
+<td class="cuerpo_tabla_izq" colspan="2">Expedición de duplicados de certificados, resoluciones o cualquier otro documento administrativo.</td>
+<td class="cuerpo_tabla_izq">12,40 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="7%">
+<col width="8%">
+<col width="62%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">7.</td>
+<td class="cuerpo_tabla_izq" colspan="4">Autorización y puesta en funcionamiento de establecimientos e instalaciones industriales y energéticas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.1.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Establecimientos e instalaciones industriales y energéticas sometidas a autorización administrativa (Grupo I):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.1.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de producción, transporte y distribución de energía eléctrica:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.1.1.1.</td>
+<td class="cuerpo_tabla_izq">Autorización administrativa previa. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
+<td class="cuerpo_tabla_izq">302,16 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">14 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
+<td class="cuerpo_tabla_izq">1.000 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.1.1.2.</td>
+<td class="cuerpo_tabla_izq">Autorización administrativa de construcción. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
+<td class="cuerpo_tabla_izq">256,81 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">15 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
+<td class="cuerpo_tabla_izq">1.000 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">En caso de que sea solicitada conjuntamente la autorización administrativa previa y la autorización administrativa de construcción se liquidará esta tasa incrementada en un 10%.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.1.1.3.</td>
+<td class="cuerpo_tabla_izq">Autorización de explotación. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
+<td class="cuerpo_tabla_izq">238,99 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">15,30 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
+<td class="cuerpo_tabla_izq">1.000 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.1.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de almacenamiento, transporte y distribución de gas canalizado:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.1.2.1.</td>
+<td class="cuerpo_tabla_izq">Participación en el procedimiento de concurrencia para la distribución de gas combustible canalizado.</td>
+<td class="cuerpo_tabla_izq">295,49 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.1.2.2.</td>
+<td class="cuerpo_tabla_izq">Autorización administrativa previa. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
+<td class="cuerpo_tabla_izq">179,09 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">16,50 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
+<td class="cuerpo_tabla_izq">1.000 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.1.2.3.</td>
+<td class="cuerpo_tabla_izq">Aprobación del proyecto de ejecución. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
+<td class="cuerpo_tabla_izq">261,33 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">14,90 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
+<td class="cuerpo_tabla_izq">1.000 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">En caso de que sea solicitada conjuntamente la autorización administrativa y la aprobación del proyecto de ejecución se liquidará esta tasa incrementada en un 10%.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.1.2.4.</td>
+<td class="cuerpo_tabla_izq">Autorización de explotación. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
+<td class="cuerpo_tabla_izq">234,31 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">15,40 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
+<td class="cuerpo_tabla_izq">1.000 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.1.2.5.</td>
+<td class="cuerpo_tabla_izq">Autorización de memoria para extensiones de red.</td>
+<td class="cuerpo_tabla_izq">141,39 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.1.2.6.</td>
+<td class="cuerpo_tabla_izq">Autorización de acometidas.</td>
+<td class="cuerpo_tabla_izq">106,69 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.1.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de transporte o almacenamiento de productos petrolíferos líquidos (PPL).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.1.3.1.</td>
+<td class="cuerpo_tabla_izq">Autorización administrativa de construcción. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
+<td class="cuerpo_tabla_izq">261,33 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">14,90 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
+<td class="cuerpo_tabla_izq">1.000 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.1.3.2.</td>
+<td class="cuerpo_tabla_izq">Autorización de explotación. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
+<td class="cuerpo_tabla_izq">234,31 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">15,40 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
+<td class="cuerpo_tabla_izq">1.000 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.1.4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Transmisión de instalaciones.</td>
+<td class="cuerpo_tabla_izq">114,32 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.1.5.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Cierre de instalaciones (temporal o definitiva).</td>
+<td class="cuerpo_tabla_izq">166,53 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Puesta en funcionamiento de establecimientos e instalaciones industriales y energéticos no sometidos a autorización administrativa (Grupo II), así como de sus ampliaciones:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Instalaciones eléctricas de baja tensión:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.2.1.1.</td>
+<td class="cuerpo_tabla_izq">Instalaciones con memoria técnica de diseño:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Viviendas individuales.</td>
+<td class="cuerpo_tabla_izq">12,60 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Otros usos.</td>
+<td class="cuerpo_tabla_izq">36,19 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.2.1.2.</td>
+<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 6.000 euros.</td>
+<td class="cuerpo_tabla_izq">58,66 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">16,90 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Más de 60.000 euros.</td>
+<td class="cuerpo_tabla_izq">150 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Instalaciones eléctricas de alta tensión. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 10.000 euros.</td>
+<td class="cuerpo_tabla_izq">66,53 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">14,90 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">– Más de 300.000 euros.</td>
+<td class="cuerpo_tabla_izq">500 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.3</td>
+<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de calefacción, climatización y agua caliente sanitaria:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.2.3.1.</td>
+<td class="cuerpo_tabla_izq">Instalaciones con memoria técnica de diseño:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Instalaciones individuales.</td>
+<td class="cuerpo_tabla_izq">20,67 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Otros usos.</td>
+<td class="cuerpo_tabla_izq">43,13 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.2.3.2.</td>
+<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
+<td class="cuerpo_tabla_izq">62,60 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">11,40 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Más de 300.000 euros.</td>
+<td class="cuerpo_tabla_izq">400 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de productos petrolíferos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.4.1.</td>
+<td class="cuerpo_tabla_izq">Instalaciones sin proyecto.</td>
+<td class="cuerpo_tabla_izq">40,13 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.4.2.</td>
+<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 2.000 euros.</td>
+<td class="cuerpo_tabla_izq">60,63 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">29 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Más de 50.000 euros.</td>
+<td class="cuerpo_tabla_izq">200 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.5.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Grúas torre.</td>
+<td class="cuerpo_tabla_izq">40,94 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.6.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Grúas móviles.</td>
+<td class="cuerpo_tabla_izq">18,15 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.7.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Ascensores.</td>
+<td class="cuerpo_tabla_izq">50,79 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.8.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de gas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.2.8.1.</td>
+<td class="cuerpo_tabla_izq">Instalaciones sin proyecto.</td>
+<td class="cuerpo_tabla_izq">40,13 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.2.8.2.</td>
+<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 2.000 euros.</td>
+<td class="cuerpo_tabla_izq">58,66 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">29,40 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Más de 50.000 euros.</td>
+<td class="cuerpo_tabla_izq">200 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.9.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Instalaciones frigoríficas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.2.9.1.</td>
+<td class="cuerpo_tabla_izq">Instalaciones sin proyecto.</td>
+<td class="cuerpo_tabla_izq">40,13 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.2.9.2.</td>
+<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
+<td class="cuerpo_tabla_izq">58,66 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">14,80 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Más de 100.000 euros.</td>
+<td class="cuerpo_tabla_izq">200 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.10.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de protección contra incendios:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.10.1.</td>
+<td class="cuerpo_tabla_izq">Instalaciones en establecimientos regulados por el Código Técnico de la Edificación (CTE).</td>
+<td class="cuerpo_tabla_izq">18,15 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.10.2.</td>
+<td class="cuerpo_tabla_izq">Instalaciones sin proyecto.</td>
+<td class="cuerpo_tabla_izq">40,13 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.10.3.</td>
+<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 2.000 euros.</td>
+<td class="cuerpo_tabla_izq">62,60 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">14 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Más de 100.000 euros.</td>
+<td class="cuerpo_tabla_izq">200 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.11.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de almacenamiento de productos químicos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.2.11.1.</td>
+<td class="cuerpo_tabla_izq">Instalaciones sin proyecto.</td>
+<td class="cuerpo_tabla_izq">40,13 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.2.11.2.</td>
+<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 2.000 euros.</td>
+<td class="cuerpo_tabla_izq">62,60 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">14 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Más de 100.000 euros.</td>
+<td class="cuerpo_tabla_izq">200 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.12.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de equipos a presión.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.2.12.1.</td>
+<td class="cuerpo_tabla_izq">Instalaciones sin proyecto.</td>
+<td class="cuerpo_tabla_izq">40,13 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.2.12.2.</td>
+<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Inversión hasta 2.000 euros.</td>
+<td class="cuerpo_tabla_izq">62,60 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
+<td class="cuerpo_tabla_izq">14 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">– Más de 100.000 euros.</td>
+<td class="cuerpo_tabla_izq">200 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.2.12.3.</td>
+<td class="cuerpo_tabla_izq">Obtención de placa de instalación e inspecciones periódicas.</td>
+<td class="cuerpo_tabla_izq">3,85 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.2.13.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Suministro provisional para pruebas.</td>
+<td class="cuerpo_tabla_izq">111,75 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.3.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Solicitud de suministro provisional para obras.</td>
+<td class="cuerpo_tabla_izq">111,75 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.4.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Regularización de instalaciones antiguas: se liquidará por el doble del importe de la tasa correspondiente a la autorización o puesta en funcionamiento según corresponda.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7.5.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Tramitación de la inscripción de oficio en el Registro Integrado Industrial de Andalucía derivada de la autorización o puesta en funcionamiento de instalaciones.</td>
+<td class="cuerpo_tabla_izq">23,64 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="7%">
+<col width="70%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">8.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Tramitación administrativa de acceso a determinadas actividades de servicios en materia de industria y energía:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">8.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Tramitación de declaraciones responsables y la correspondiente inscripción en el Registro Integrado Industrial de Andalucía <sup>(1)</sup>:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq" colspan="3">
+<p class="cita"><sup>(1)</sup> Para el caso de la adición de nuevas modalidades, categorías o especialidades dentro de una misma habilitación se liquidará el 50% de esta tasa.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">8.1.1.</td>
+<td class="cuerpo_tabla_izq">Declaración responsable de empresa de servicios en materia de seguridad industrial para empresas establecidas en Andalucía.</td>
+<td class="cuerpo_tabla_izq">46,65 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">8.1.2.</td>
+<td class="cuerpo_tabla_izq">Declaración responsable de empresa de servicios en materia de seguridad industrial para empresas establecidas en otro Estado miembro de la Unión Europea, que vayan a ejercer por primera vez la libre prestación de servicios en España, en Andalucía.</td>
+<td class="cuerpo_tabla_izq">46,65 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">8.1.3.</td>
+<td class="cuerpo_tabla_izq">Declaración responsable de talleres de reparación de vehículos automóviles.</td>
+<td class="cuerpo_tabla_izq">50,47 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">8.1.4.</td>
+<td class="cuerpo_tabla_izq">Declaración responsable de Organismos de Control.</td>
+<td class="cuerpo_tabla_izq">188,44 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">8.1.5.</td>
+<td class="cuerpo_tabla_izq">Declaración responsable de aquellas actividades industriales no contempladas en los apartados anteriores que se encuentran sujetas a esta modalidad para el acceso a la actividad.</td>
+<td class="cuerpo_tabla_izq">76,45 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">8.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Acreditación, reconocimiento, certificación y autorización de empresas y entidades de formación:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">8.2.1.</td>
+<td class="cuerpo_tabla_izq">Autorización de entidades de formación para la impartición de cursos de instalaciones térmicas en los edificios (RITE) <sup>(2)</sup>.</td>
+<td class="cuerpo_tabla_izq">190,80 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">8.2.2.</td>
+<td class="cuerpo_tabla_izq">Autorización de centros formativos y evaluadores en materia de gases fluorados de efecto invernadero <sup>(2)</sup>.</td>
+<td class="cuerpo_tabla_izq">190,80 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">8.2.3.</td>
+<td class="cuerpo_tabla_izq">Certificación de empresas que instalan, mantienen, revisan o manipulan equipos o sistemas que contienen determinados gases fluorados de efecto invernadero.</td>
+<td class="cuerpo_tabla_izq">28,20 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq" colspan="2">
+<p class="cita"><sup>(2)</sup> Para los casos de renovación o ampliación de nuevos cursos dentro de un mismo reglamento técnico se liquidará el 50% de esta tasa.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">9.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Habilitaciones y certificados profesionales en materia de industria, energía y minas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">9.1.</td>
+<td class="cuerpo_tabla_izq">Expedición de habilitaciones profesionales <sup>(1)</sup>.</td>
+<td class="cuerpo_tabla_izq">32,69 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">9.2.</td>
+<td class="cuerpo_tabla_izq">Renovación de habilitaciones profesionales.</td>
+<td class="cuerpo_tabla_izq">16,34 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">9.3.</td>
+<td class="cuerpo_tabla_izq">Certificación de profesionales que instalan, mantienen, revisan o manipulan equipos o sistemas que contienen determinados gases fluorados de efecto invernadero <sup>(1)</sup>.</td>
+<td class="cuerpo_tabla_izq">28,75 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq" colspan="2">
+<p class="cita"><sup>(1)</sup> Para el caso de la adición de nuevas modalidades, categorías o especialidades dentro de una misma habilitación se liquidará el 50% de esta tasa.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">10.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro Integrado Industrial de Andalucía a instancia de parte:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">10.1.</td>
+<td class="cuerpo_tabla_izq">Nuevas empresas y establecimientos industriales.</td>
+<td class="cuerpo_tabla_izq">22,32 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">10.2.</td>
+<td class="cuerpo_tabla_izq">Ampliación, modificación, traslado o cambio de titularidad de empresas y establecimientos industriales.</td>
+<td class="cuerpo_tabla_izq">11,16 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Las presentes tarifas no se liquidarán para aquellas inscripciones que se realicen de oficio mediante la liquidación de las tarifas 7.5 y 8.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">11.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro de instalaciones de producción de energía eléctrica (PRETOR) o en el Registro de Autoconsumo:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">11.1.</td>
+<td class="cuerpo_tabla_izq">Inscripción previa y/o definitiva en el registro de producción de energía eléctrica.</td>
+<td class="cuerpo_tabla_izq">35,36 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">11.2.</td>
+<td class="cuerpo_tabla_izq">Inscripción en el registro de autoconsumo, a excepción de las instalaciones de baja tensión y potencia instalada de generación menor a 100 kW.</td>
+<td class="cuerpo_tabla_izq">20,53 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">12.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Instalaciones radiactivas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">12.1.</td>
+<td class="cuerpo_tabla_izq">Por cada declaración e inscripción en el Registro de instalaciones de rayos X de diagnóstico médico.</td>
+<td class="cuerpo_tabla_izq">29,80 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">12.2.</td>
+<td class="cuerpo_tabla_izq">Autorización de empresas o entidades para la venta, asistencia técnica o importación de equipos e instalaciones de rayos X de diagnóstico médico.</td>
+<td class="cuerpo_tabla_izq">91,50 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">12.3.</td>
+<td class="cuerpo_tabla_izq">Tramitación de la declaración de actividad laboral con fuentes naturales de radiación y registro de la misma.</td>
+<td class="cuerpo_tabla_izq">40,22 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="7%">
+<col width="70%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">13.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Inscripción en el Registro de Certificados Energéticos Andaluces:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">13.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Inscripción, actualización y renovación de certificados energéticos de los edificios, tanto en fase de proyecto como en fase de edificio terminado:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">13.1.1.</td>
+<td class="cuerpo_tabla_izq">Instalaciones de edificación con potencia térmica nominal instalada inferior o igual a 70 Kw.</td>
+<td class="cuerpo_tabla_izq">14,40 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">13.1.2.</td>
+<td class="cuerpo_tabla_izq">Instalaciones de edificación con potencia térmica nominal instalada superior a 70 Kw.</td>
+<td class="cuerpo_tabla_izq">78,06 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">13.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Inscripción, actualización y renovación de certificados energéticos de los edificios existentes:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">13.2.1.</td>
+<td class="cuerpo_tabla_izq">Instalaciones de edificación con superficie inferior o igual a 250 m².</td>
+<td class="cuerpo_tabla_izq">14,40 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">13.2.2.</td>
+<td class="cuerpo_tabla_izq">Instalaciones de edificación con superficie superior a 250 m².</td>
+<td class="cuerpo_tabla_izq">55,21 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">14.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización de técnicas de seguridad equivalentes, reconocimiento de la excepción del cumplimiento de determinadas prescripciones reglamentarias en materia de industria y energía:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">14.1.</td>
+<td class="cuerpo_tabla_izq">Autorización de técnicas de seguridad equivalentes.</td>
+<td class="cuerpo_tabla_izq">187,90 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">14.2.</td>
+<td class="cuerpo_tabla_izq">Reconocimiento de la excepción del cumplimento de prescripciones reglamentarias.</td>
+<td class="cuerpo_tabla_izq">131,59 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">15.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización de uso de equipos no sometidos a control metrológico y de los verificadores de medidas eléctricas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">15.1.</td>
+<td class="cuerpo_tabla_izq">Autorización de equipos no sometidos a control metrológico.</td>
+<td class="cuerpo_tabla_izq">129,23 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">15.2.</td>
+<td class="cuerpo_tabla_izq">Autorización de verificadores de medidas eléctricas.</td>
+<td class="cuerpo_tabla_izq">203,57 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">16.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Tramitación de las comunicaciones efectuadas por una gran empresa relativas a la realización de una auditoría energética de las instalaciones radicadas en la Comunidad Autónoma de Andalucía y declaraciones responsables de los proveedores de servicios energéticos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">16.1.</td>
+<td class="cuerpo_tabla_izq">Tramitación de la comunicación de realización de auditorías energéticas al órgano de la Comunidad Autónoma competente en materia de eficiencia energética donde se encuentren las instalaciones que han sido objeto de la auditoría.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">− Por cada instalación auditada radicada en una misma provincia que ha sido objeto de la auditoría y que sea comunicada al órgano competente provincial.</td>
+<td class="cuerpo_tabla_izq">24,05 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">− A partir de 5 instalaciones auditadas radicadas en una misma provincia, que sean comunicadas en el mismo año natural al órgano competente donde se encuentren las instalaciones que han sido objeto de la auditoría.</p>
+<p class="cuerpo_tabla_izq">Por el total de instalaciones comunicadas.</p>
+</td>
+<td class="cuerpo_tabla_izq">102,00 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">16.2.</td>
+<td class="cuerpo_tabla_izq">Proveedores de servicios energéticos.</td>
+<td class="cuerpo_tabla_izq">20,13 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">17.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Actividades y servicios administrativos en materia de control de riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">17.1.</td>
+<td class="cuerpo_tabla_izq">Recepción, revisión y gestión de la notificación.</td>
+<td class="cuerpo_tabla_izq">77,05 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">17.2.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Recepción, revisión y gestión del Plan de Emergencia Interior o de autoprotección.</p>
+<p class="cuerpo_tabla_izq">En el caso de revisiones periódicas, se liquidará el 20% de la tasa.</p>
+</td>
+<td class="cuerpo_tabla_izq">218,39 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">17.3.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Recepción, revisión, evaluación y pronunciamiento del Informe de Seguridad.</p>
+<p class="cuerpo_tabla_izq">En el caso de revisiones periódicas, se liquidará el 20% de la tasa.</p>
+</td>
+<td class="cuerpo_tabla_izq">834,65 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="7%">
+<col width="70%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">18.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Declaración de utilidad pública, ocupación forzosa, ocupación temporal y servidumbre de paso en materia de energía y minas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">18.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Declaración de utilidad pública.</td>
+<td class="cuerpo_tabla_izq">607,97 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">18.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Declaración de urgente ocupación.</td>
+<td class="cuerpo_tabla_izq">1.319,98 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">18.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Expropiación forzosa, ocupación temporal y servidumbre de paso:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">18.3.1.</td>
+<td class="cuerpo_tabla_izq">Inicio de expediente.</td>
+<td class="cuerpo_tabla_izq">643,13 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">18.3.2.</td>
+<td class="cuerpo_tabla_izq">Acta previa de ocupación por parcela.</td>
+<td class="cuerpo_tabla_izq">65,41 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">18.3.3.</td>
+<td class="cuerpo_tabla_izq">Acta de ocupación por parcela.</td>
+<td class="cuerpo_tabla_izq">42,80 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">19.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Anotación en el sistema informático del resultado de las actuaciones de los organismos de control en el ámbito de la seguridad industrial:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">19.1.</td>
+<td class="cuerpo_tabla_izq">Anotación en el sistema informático del resultado de las actuaciones de los organismos de control sobre productos e instalaciones industriales.</td>
+<td class="cuerpo_tabla_izq">1,20 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">20.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Anotación de comunicaciones reglamentarias en el ámbito de la seguridad industrial:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">20.1.</td>
+<td class="cuerpo_tabla_izq">Anotación del cambio (alta y baja) de empresa conservadora de ascensores.</td>
+<td class="cuerpo_tabla_izq">2,90 euros.</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifican las tarifas 6.4, 6.5, 11.2, 16 por el art. 81.2 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030)
+
+> Se modifican las tarifas 6.2 y 12.1 por la disposición final 12.1 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+#### Artículo 45. Devengo.
+
+1\. La tasa se devengará cuando se presente la solicitud, comunicación o declaración que inicie o de la que se derive el servicio o actuación administrativa, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.
+
+En virtud del artículo 21.1.a) de esta ley, si por causa de la Administración no se realizase el hecho imponible tasado, se procederá a la devolución de oficio de la tasa en un plazo no superior a seis meses.
+
+En el caso de actuaciones realizadas de oficio, salvo que se trate de una actuación derivada de una solicitud, comunicación o declaración, por estar así previsto en la normativa aplicable, la tasa se devengará en el momento en el que se realice el servicio o la actuación administrativa.
+
+2\. La tasa por el servicio continuado de intervención administrativa de las estaciones de inspección técnica de vehículos y de laboratorios de ensayo y contrastación de objetos fabricados con metales preciosos se devengará el 31 de diciembre de cada año o el día del cese de la actividad, en su caso.
+
+> Redactado el apartado 1, párrafo segundo, conforme al punto 1 de la corrección de errores publicada en el BOJA núm. 28, de 10 de febrero de 2022. [Ref. BOE-A-2022-2623](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2623)
+
+#### Artículo 46. Autoliquidación, presentación y pago.*
+
+1\. Esta tasa será objeto de autoliquidación conforme a las normas generales.
+
+2\. No obstante, mediante Orden conjunta de las personas titulares de las Consejerías competentes en materia Tributaria e Industrial se regulará el régimen de presentación y pago de la autoliquidación de las siguientes tarifas:
+
+a) La tarifa por anotación en el sistema informático del resultado de las actuaciones de los organismos de control sobre productos e instalaciones industriales (tarifa 19.1).
+
+b) La tarifa por anotación del cambio (alta y baja) de empresa conservadora de ascensores (tarifa 20.1).
+
+3\. El pago de la tarifa por el servicio continuado de intervención administrativa de las estaciones de inspección técnica de vehículos y de laboratorios de ensayo y contrastación de objetos fabricados con metales preciosos (tarifas 4.1 y 4.2) se realizará dentro de los veinte primeros días naturales del mes de enero del año siguiente al del devengo de la tasa.
+
+*Véase, en cuanto a la aplicación de este precepto a determinadas tarifas, lo establecido en la disposición final 5.a) de la presente norma.
+
+## TÍTULO V — Tasas en materia de fomento
+
+### CAPÍTULO I — Tasas portuarias
+
+#### Artículo 47. Régimen jurídico.
+
+Las tasas portuarias se regirán por las disposiciones de la Ley 21/2007, de 18 de diciembre, de Régimen Jurídico y Económico de los Puertos de Andalucía, con aplicación supletoria de la presente Ley.
+
+### CAPÍTULO II — Tasa por ordenación de transportes mecánicos por carretera
+
+#### Artículo 48. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de servicios y la realización de actividades administrativas en materia de ordenación del transporte, por la Comunidad Autónoma de Andalucía, que se relacionan a continuación:
+
+a) El otorgamiento, rehabilitación, visado o modificación de las autorizaciones de transporte, para la realización de transportes discrecionales públicos o privados de mercancías o viajeros, transportes regulares de viajeros de uso especial o actividades auxiliares y complementarias del transporte por carretera.
+
+b) La comprobación, reconocimiento y acreditación del cumplimiento de los requisitos de capacitación o cualificación profesional exigibles, de conformidad con la normativa reguladora de los transportes por carretera y ferrocarril.
+
+c) Los servicios administrativos generales inherentes a la prestación y realización de ordenación de los transportes por carretera y de sus actividades auxiliares y complementarias.
+
+d) La tramitación de solicitudes de expedición de tarjetas vinculadas al sistema de tacógrafo digital para conductores, empresas de transporte y talleres.
+
+#### Artículo 49. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la prestación de los servicios o actividades administrativas que constituyen el hecho imponible.
+
+#### Artículo 50. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+1\. Autorizaciones de transporte.
+
+| 1.1. | Otorgamiento, rehabilitación, visado o modificación de autorizaciones para la realización de transportes discrecionales públicos o privados de mercancías o viajeros y de actividades auxiliares y complementarias del transporte por carretera. | 26,83 euros. |
+|---|---|---|
+| 1.2. | Otorgamiento, rehabilitación, visado o modificación de autorización de operador de transporte. | 53,53 euros. |
+| 1.3. | Autorización de transporte público regular de viajeros de uso especial. | 26,83 euros. |
+
+Esta cantidad se multiplicará, en su caso, por el número de cursos escolares o años para los que se haya contratado el servicio. A estos efectos, las fracciones de tiempo que excedan del año de duración se computarán como años completos.
+
+2\. Servicios para la cualificación inicial y la formación continua de los conductores de determinados vehículos destinados al transporte de mercancías y de viajeros por carretera, de acuerdo con lo previsto en la Directiva 2003/59/CE, del Parlamento Europeo y del Consejo, de 15 de julio de 2003, relativa a la cualificación inicial y la formación continua de los conductores de determinados vehículos destinados al transporte de mercancías o de viajeros por carretera, por la que se modifican el Reglamento (CEE) núm. 3820/85, del Consejo y la Directiva; 91/439/CEE, del Consejo, y se deroga la Directiva 76/914/CEE, del Consejo, y normativa de desarrollo.
+
+| 2.1. | Por autorización de centros de formación. | 344,65 euros. |
+|---|---|---|
+| 2.2. | Por visado o modificación de la autorización de centros de formación, a excepción de las modificaciones relativas al profesorado. | 29,35 euros. |
+| 2.3. | Por homologación de cursos de formación. | 69,18 euros. |
+| 2.4. | Por modificación del contenido de un curso o de sus fechas de inicio, desarrollo o finalización, o por sustitución de alguno de los profesores. | 19,89 euros. |
+
+3\. Derechos de participación en cualquier prueba de capacitación o cualificación profesional exigida en la legislación ordenadora del transporte por carretera o ferrocarril.
+
+Por cada prueba: 21,19 euros.
+
+4\. Expedición de cualquier certificado o tarjeta, según modelo normalizado, de conductor de terceros países, y de capacitación, consejero de seguridad o cualificación profesional exigida en la legislación ordenadora del transporte por carretera o ferrocarril.
+
+Por cada certificado o tarjeta: 21,19 euros.
+
+5\. Expedición de tarjetas vinculadas al sistema de tacógrafo digital para conductores, empresas de transporte y talleres.
+
+| 5.1. | Expedición de tarjeta de tacógrafo digital de conductor y de empresa. Por cada tarjeta. | 37,30 euros. |
+|---|---|---|
+| 5.2. | Expedición de tarjeta de tacógrafo digital de centro de ensayo. Por cada tarjeta. | 37,30 euros. |
+
+#### Artículo 51. Devengo.
+
+La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+#### Artículo 52. Beneficios fiscales.
+
+1\. Estarán exentas del pago de la tasa las personas beneficiarias de la prestación del ingreso mínimo vital a quienes se reconozca dicha condición de conformidad con lo dispuesto en la Ley 19/2021, de 20 de diciembre, por la que se establece el ingreso mínimo vital, o norma que la sustituya, las beneficiarias de la Renta Mínima de Inserción Social en Andalucía, a quienes se reconozca dicha condición de acuerdo con lo dispuesto en el Decreto-ley 3/2017, de 19 de diciembre, por el que se regula la Renta Mínima de Inserción Social en Andalucía, o norma que lo sustituya, o las beneficiarias de ambas prestaciones.
+
+2\. Las condiciones establecidas en el apartado 1 deberán concurrir a la fecha del devengo de la tasa. La presentación de la solicitud conllevará la autorización al órgano gestor para que pueda recabar dicha información.
+
+## TÍTULO VI — Tasas en materia de agricultura, ganadería y pesca marítima
+
+### CAPÍTULO I — Tasa por servicios facultativos agronómicos
+
+#### Artículo 53. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de servicios en materia de fomento, defensa y mejora de la producción agrícola y que se enumeran en el artículo 55.
+
+#### Artículo 54. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la prestación de los servicios o la realización de las actividades administrativas que constituyen el hecho imponible.
+
+#### Artículo 55. Cuota tributaria.
+
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Inspección fitosanitaria y expedición del correspondiente certificado fitosanitario de origen.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.</td>
+<td class="cuerpo_tabla_izq">Sin desplazamiento y visita.</td>
+<td class="cuerpo_tabla_izq">51,82 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.2.</td>
+<td class="cuerpo_tabla_izq">Con desplazamiento y visita.</td>
+<td class="cuerpo_tabla_izq">104,68 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Toma de muestras, levantamiento de acta y remisión de las mismas a los laboratorios oficiales, a petición de parte. Por muestra.</td>
+<td class="cuerpo_tabla_izq">5,18 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Inscripción y renovación de la inscripción en el Registro Oficial de Productores y Operadores de medios de defensa fitosanitaria (ROPO).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3.1.</td>
+<td class="cuerpo_tabla_izq">En el sector suministrador y en el sector tratamientos fitosanitarios.</td>
+<td class="cuerpo_tabla_izq">41,46 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3.2.</td>
+<td class="cuerpo_tabla_izq">En el sector de asesoramiento fitosanitario.</td>
+<td class="cuerpo_tabla_izq">16,84 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3.3.</td>
+<td class="cuerpo_tabla_izq">En el sector usuarios profesionales (incluye la expedición y renovación del carné de usuario profesional de productos fitosanitarios).</td>
+<td class="cuerpo_tabla_izq">16,94 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización de las estaciones de Inspección Técnica de equipos de aplicación de productos fitosanitarios.</td>
+<td class="cuerpo_tabla_izq">186,48 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">5.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización para replantación de viñedo destinado a vinificación.</td>
+<td class="cuerpo_tabla_izq">186,48 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6.</td>
+<td class="cuerpo_tabla_izq" colspan="2">
+<p class="cuerpo_tabla_izq">Inscripción y renovación de la inscripción en el Registro Oficial de Productores, Comerciantes e Importadores de Vegetales y Productos Vegetales (ROPCIV).</p>
+<p class="cuerpo_tabla_izq">Incluye la posterior autorización del pasaporte fitosanitario.</p>
+</td>
+<td class="cuerpo_tabla_izq">94,32 euros.</td>
+</tr>
+</tbody>
+</table>
+
+#### Artículo 56. Devengo.
+
+La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+#### Artículo 57. Beneficios fiscales.
+
+1\. Tendrán derecho a una bonificación del 50% de la cuota tributaria las personas que soliciten por vía electrónica la autorización de las estaciones de Inspección Técnica de equipos de aplicación de productos fitosanitarios y la autorización para replantación de viñedo destinado a vinificación.
+
+2\. Tendrán derecho a una bonificación del 50% las personas titulares de explotaciones que incorporen y desarrollen políticas de responsabilidad social y medioambiental que atiendan a cualquiera de los objetivos señalados en el artículo 39.2 de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, siempre que lo acrediten mediante la certificación o calificación de responsabilidad social corporativa otorgada por una entidad independiente pública o privada debidamente acreditada. Esta bonificación será compatible con la establecida en el apartado anterior.
+
+### CAPÍTULO II — Tasa por servicios facultativos veterinarios
+
+#### Artículo 58. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de servicios y la realización de actividades para la defensa, conservación y mejora de la ganadería que se enumeran en el artículo 60, tanto si son solicitados por las personas interesadas como si se prestan de oficio.
+
+#### Artículo 59. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten o a quienes se presten los servicios que constituyen el hecho imponible. En ningún caso tendrán la consideración de sujetos pasivos de la tasa aquellos profesionales de los que se valga la Administración para prestar el servicio que se grave.
+
+#### Artículo 60. Cuota tributaria.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por la expedición de la certificación oficial para el movimiento de animales vivos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">1.1.</td>
+<td class="cuerpo_tabla_izq">Por las 10 primeras unidades de ganado mayor (UGM).</td>
+<td class="cuerpo_tabla_izq">4,50 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">1.2.</td>
+<td class="cuerpo_tabla_izq">Por cada 10 UGM o fracción adicional.</td>
+<td class="cuerpo_tabla_izq">0,45 euros.</td>
+</tr>
+</tbody>
+</table>
+
+| 2. | Por la expedición del certificado sanitario para movimientos intracomunitarios o a terceros países. | 65,59 euros. |
+|---|---|---|
+
+| 3. | Por los servicios facultativos correspondientes a la inspección obligatoria y vigilancia de la desinfección y desinsectación de los locales destinados a ferias, mercados, concursos, exposiciones y demás lugares públicos donde se albergue ganado para los fines anteriores. Por cada local. | 86,32 euros |
+|---|---|---|
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro de explotaciones ganaderas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">4.1.</td>
+<td class="cuerpo_tabla_izq">Explotaciones con menos de 10 unidades de ganado mayor (UGM).</td>
+<td class="cuerpo_tabla_izq">28,28 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">4.2.</td>
+<td class="cuerpo_tabla_izq">Explotaciones con más de 10 UGM.</td>
+<td class="cuerpo_tabla_izq">165,09 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">5.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro de establecimientos de alimentación animal y, en su caso, autorización de establecimientos de alimentación animal:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.1.</td>
+<td class="cuerpo_tabla_izq">Registro (sin implicar visita de inspección).</td>
+<td class="cuerpo_tabla_izq">63,84 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.2.</td>
+<td class="cuerpo_tabla_izq">Autorización y Registro (incluyendo visita de inspección).</td>
+<td class="cuerpo_tabla_izq">165,09 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">6.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro de transportistas y medios de transporte de animales:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">6.1.</td>
+<td class="cuerpo_tabla_izq">Registro (sin implicar visita de inspección).</td>
+<td class="cuerpo_tabla_izq">63,84 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">6.2.</td>
+<td class="cuerpo_tabla_izq">Autorización y Registro (incluyendo visita de inspección).</td>
+<td class="cuerpo_tabla_izq">165,09 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">7.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro de centros de limpieza y desinfección de los vehículos dedicados al transporte por carretera en el sector ganadero:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">7.1.</td>
+<td class="cuerpo_tabla_izq">Registro (sin implicar visita de inspección).</td>
+<td class="cuerpo_tabla_izq">63,84 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">7.2.</td>
+<td class="cuerpo_tabla_izq">Autorización y Registro (incluyendo visita de inspección).</td>
+<td class="cuerpo_tabla_izq">165,09 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">8.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro de establecimientos de medicamentos veterinarios de Andalucía:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">8.1.</td>
+<td class="cuerpo_tabla_izq">Registro (sin implicar visita de inspección).</td>
+<td class="cuerpo_tabla_izq">63,84 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">8.2.</td>
+<td class="cuerpo_tabla_izq">Autorización y Registro (incluyendo visita de inspección).</td>
+<td class="cuerpo_tabla_izq">165,09 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">9.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro de establecimientos y operadores en el sector de los productos y subproductos de origen animal no destinados a consumo humano (SANDACH).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">9.1.</td>
+<td class="cuerpo_tabla_izq">Registro (sin implicar visita de inspección).</td>
+<td class="cuerpo_tabla_izq">63,84 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">9.2.</td>
+<td class="cuerpo_tabla_izq">Autorización y Registro (incluyendo visita de inspección).</td>
+<td class="cuerpo_tabla_izq">165,09 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">10.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por expedición de informes y certificados oficiales preceptivos a petición de parte, no gravados en las tarifas anteriores:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">10.1.</td>
+<td class="cuerpo_tabla_izq">Sin desplazamiento o visita al establecimiento.</td>
+<td class="cuerpo_tabla_izq">28,19 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">10.2.</td>
+<td class="cuerpo_tabla_izq">Con desplazamiento y visita al establecimiento.</td>
+<td class="cuerpo_tabla_izq">65,59 euros.</td>
+</tr>
+</tbody>
+</table>
+
+#### Artículo 61. Devengo.
+
+1\. La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+2\. En el caso de actuaciones realizadas de oficio, la tasa se devengará en el momento en el que se realice el servicio o la actuación administrativa.
+
+#### Artículo 62. Beneficios fiscales.
+
+1\. Estarán exentos del pago de la tasa correspondiente a la expedición del certificado oficial de movimiento de animales vivos los sujetos pasivos que tramiten por vía electrónica, a través de la aplicación informática establecida al efecto por la Junta de Andalucía, la documentación necesaria para el transporte y circulación de animales, así como los certificados oficiales de movimiento de animales vivos que expidan las asociaciones de defensa sanitaria ganadera para las explotaciones asociadas.
+
+2\. Tendrán derecho a una bonificación del 50 % las personas titulares de explotaciones que incorporen y desarrollen políticas de responsabilidad social y medioambiental que atiendan a cualquiera de los objetivos señalados en el artículo 39.2 de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, siempre que lo acrediten mediante la certificación o calificación de responsabilidad social corporativa otorgada por una entidad independiente pública o privada debidamente acreditada.
+
+3\. Tendrán derecho a una bonificación del 50 % de la cuota tributaria correspondiente a la tarifa 4 por ''Inscripción en el Registro de explotaciones ganaderas'' las personas que cumplan con el requisito de edad exigido para tener la consideración de joven agricultor conforme a lo dispuesto en la Política Agraria Común (PAC).
+
+4\. Tendrán derecho a una bonificación del 50 % las personas titulares de explotaciones de producción ecológica que se encuentren inscritas en el Sistema de Información de Producción Ecológica de Andalucía, de conformidad con el Reglamento (UE) 2018/848, del Parlamento Europeo y del Consejo, de 30 de mayo de 2018, sobre producción ecológica y etiquetado de productos ecológicos y por el que se deroga el Reglamento (CE) 834/2007 del Consejo.
+
+> Se añade el apartado 4 por la disposición final 1.1 de la Ley 2/2025, de 12 de diciembre. [Ref. BOE-A-2025-26848](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26848)
+
+> Se modifica por la disposición final 12.2 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+### CAPÍTULO III — Tasa por servicios de diagnóstico, análisis y dictámenes prestados por los laboratorios agroganaderos, agroalimentarios y de control de calidad de los recursos pesqueros
+
+#### Artículo 63. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación, de oficio o a instancia de parte, de servicios de diagnóstico, análisis y dictámenes por los laboratorios agroganaderos, agroalimentarios y de control de calidad de los recursos pesqueros adscritos a la Consejería con competencias en materia agroganadera, agroalimentaria y de control de calidad de los recursos pesqueros o entidades de ella dependientes, para el fomento, conservación, defensa y mejora del sector primario y agroalimentario, cuando su realización venga impuesta por las disposiciones normativas vigentes o de cualquier otro modo resulten obligatorias, y que se enumeran en el artículo 65.
+
+#### Artículo 64. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten o a quienes se presten los servicios que constituyen el hecho imponible.
+
+#### Artículo 65. Cuota tributaria.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+| 1. Análisis consistentes en mediciones directas con instrumental sencillo, reacciones cualitativas, cálculos aritméticos y determinaciones físicas. Por muestra: | 6,77 euros |
+|---|---|
+| 1.1 Coeficientes reductores por la solicitud simultánea de varias muestras: |  |
+| 1-50 muestras. | 1 |
+| 51-100 muestras. | 0,90 |
+| más de 100 muestras. | 0,80 |
+| 2. Análisis de fibra de algodón y algodón bruto. Por muestra: | 7,00 euros |
+| 2.1 Coeficientes reductores por la solicitud simultánea de varias muestras: |  |
+| 1-50 muestras. | 1 |
+| 51-100 muestras. | 0,90 |
+| más de 100 muestras. | 0,80 |
+| 3. Análisis de neps de fibra de algodón, impurezas y semillas de algodón bruto y arroz. Por muestra: | 19,48 euros |
+| 3.1 Coeficientes reductores por la solicitud simultánea de varias muestras: |  |
+| 1-50 muestras. | 1 |
+| 51-100 muestras. | 0,90 |
+| más de 100 muestras. | 0,80 |
+| 4. Análisis consistentes en mediciones directas con instrumental sencillo o basados en una reacción cualitativa que requieran operaciones convencionales previas (extracción, destilación, mineralización, volumetría, etc.). Por muestra: | 9,14 euros |
+| 4.1 Coeficientes reductores por la solicitud simultánea de varias muestras: |  |
+| 1-50 muestras. | 1 |
+| 51-100 muestras. | 0,90 |
+| más de 100 muestras. | 0,80 |
+| 5. Determinación de una sustancia con instrumental químico complejo y/o automatizado. Por cada determinación: | 14,59 euros |
+| 5.1 Coeficientes reductores por la solicitud simultánea de varias muestras: |  |
+| 1-50 muestras. | 1 |
+| 51-100 muestras. | 0,90 |
+| más de 100 muestras. | 0,80 |
+| 6. Determinación de una sustancia mediante kits específicos para análisis enzimático y técnicas espectrofotométricas (ultravioleta visible e infrarrojo) sin preparación de muestras. Por cada determinación: | 9,92 euros |
+| 6.1 Coeficientes reductores por la solicitud simultánea de varias muestras: |  |
+| 1-50 muestras. | 1 |
+| 51-100 muestras. | 0,90 |
+| más de 100 muestras. | 0,80 |
+| 7. Determinación de una sustancia mediante kits específicos para análisis enzimático y técnicas espectrofotométricas (ultravioleta visible, infrarrojos) con preparación de muestras. | 28,57 euros |
+| 8. Determinaciones fisicoquímicas en leche por infrarrojos y células somáticas, en lotes de muestras. Por muestra. | 1,18 euros |
+| Para solicitudes superiores a 200 muestras. Por muestra. | 0,73 euros |
+| 9. Determinación espectrofotométrica por absorción atómica. Por elemento: | 15,60 euros |
+| 9.1 Coeficientes reductores por la solicitud simultánea de varias muestras: |  |
+| 1-50 muestras. | 1 |
+| 51-100 muestras. | 0,90 |
+| más de 100 muestras. | 0,80 |
+| 10. Determinación espectrofotométrica por absorción atómica en productos pesqueros. Por elemento. | 58,95 euros |
+| 11. Determinación de sustancia o grupo de sustancias por resonancia magnética nuclear. Por cada muestra. | 10,34 euros |
+| 12. Identificación y/o cuantificación de sustancia mediante técnicas instrumentales separativas (cromatografía de gases, cromatografía de líquidos, etc.): | 51,90 euros |
+| 12.1 En caso de solicitud simultánea de varias sustancias, se aplicarán las siguientes tarifas por muestra: |  |
+| 1-10 sustancias. Por muestra. | 51,90 euros |
+| más de 10 sustancias. Por muestra. | 64,59 euros |
+| 12.2 Una vez calculado el coste de una muestra, se aplicarán los siguientes coeficientes reductores por la solicitud simultánea de varias muestras. Coeficiente reductor. |  |
+| 1-50 muestras. | 1 |
+| 51-100 muestras. | 0,90 |
+| más de 100 muestras. | 0,80 |
+| 13. Identificación y/o cuantificación de sustancia/s mediante técnicas instrumentales separativas (cromatografía de gases, cromatografía de líquidos, etc.) con empleo de kits específicos de derivatización. | 135,86 euros |
+| 14. Análisis de contenido y emisiones de cigarrillos. Por muestra. | 77,67 euros |
+| 14.1 Coeficientes reductores por la solicitud simultánea de varias muestras: |  |
+| 1-50 muestras. | 1 |
+| 51-100 muestras. | 0,90 |
+| más de 100 muestras. | 0,80 |
+| 15. Identificación y/o cuantificación de sustancia/s mediante cromatografía de gases/espectrometría de masas y/o cromatografía de líquidos/espectrometría de masas. Por muestra: | 75,32 euros |
+| 15.1 Coeficientes reductores por la solicitud simultánea de varias muestras: |  |
+| 1-50 muestras. | 1 |
+| 51-100 muestras. | 0,90 |
+| más de 100 muestras. | 0,80 |
+| 16. Identificación y/o cuantificación de toxinas lipofílicas mediante cromatografía de líquidos/espectrometría de masas. | 248,23 euros |
+| 17. Identificación y/o cuantificación de sustancia mediante cromatografía de gases/espectrometría de masas y/o cromatografía de líquidos/espectrometría de masas (productos zoosanitarios): |  |
+| De 1-15 sustancias. Por muestra. | 400,31 euros |
+| más de 15 sustancias. Por muestra. | 508,20 euros |
+| 18. Identificación de residuos de plaguicidas mediante cromatografía de gases/líquidos con detector de tiempo de vuelo o técnicas de barrido. | 37,69 euros |
+| 19. Ensayo multirresiduos de plaguicidas por cromatografía de gases con detector de espectrometría de masas y/o cromatografía de líquidos con detector de espectrometría de masas.<br>Multirresiduos reducido (solo gases, o solo líquidos, o bien conjunto pero limitado a menos de 100 materias activas). | 91,35 euros |
+| 20. Ensayo multirresiduos de plaguicidas por cromatografía de gases con detector de espectrometría de masas y/o cromatografía de líquidos con detector de espectrometría de masas.<br>Multirresiduos normal (materias activas a determinar 100-180). | 147,42 euros |
+| 21. Ensayo multirresiduos de plaguicidas por cromatografía de gases con detector de espectrometría de masas y/o cromatografía de líquidos con detector de espectrometría de masas.<br>Multirresiduos completo (materias activas a determinar >180). | 160,01 euros |
+| 22. Ensayo monorresiduos (plaguicida individual de los incluidos en los multirresiduos o minimétodo según la oferta analítica del laboratorio). | 86,99 euros |
+| 23. Medidas isotópicas por espectrometría de masas por cada isótopo o relación isotópica y muestra. | 104,53 euros |
+| 24. Medidas por centelleo líquido de carbono 14 en alcohol. | 71,55 euros |
+| 25. Medidas por centelleo líquido de carbono 14 en vinagre. | 105,64 euros |
+| 26. Análisis micrográfico. Identificación y/o cuantificación de sustancias, impurezas, patógenos, etc., mediante observación directa (incluido el uso de lupa). | 59,48 euros |
+| 27. Análisis micrográfico. Identificación y cuantificación de fitoplacton tóxico en aguas marinas. | 124,54 euros |
+| 28. Análisis micrográficos de presencia de material animal o vegetal en piensos. | 67,09 euros |
+| 29. Inmunoensayos en placa de microtitulación. Por muestra. | 2,88 euros |
+| 29.1 Reducciones por la solicitud simultánea de varias muestras: |  |
+| 1-30 muestras (precio muestra). | 2,88 euros |
+| 31-80 muestras (precio total). | 94,95 euros |
+| En el caso de un número de muestras igual o superior a 81, se aplicarán sucesivamente estos intervalos, sumándose la tarifa de los intervalos necesarios para completar el número de muestras total. |  |
+| 30. Otros inmunoensayos. | 11,15 euros |
+| 31. Análisis fitopatológico simple: | 59,48 euros |
+| 31.1 En caso de solicitud simultánea de varios organismos, se aplicarán las siguientes tarifas por muestra: |  |
+| 1 organismo. | 59,48 euros |
+| 2 organismos. | 73,85 euros |
+| De 3 a 6 organismos. | 94,95 euros |
+| 32. Análisis fitopatológico complejo. | 104,71 euros |
+| 33. Detección cualitativa de organismos modificados genéticamente (OGM) por reacción en cadena de la polimerasa a tiempo real (por gen analizado). | 89,96 euros |
+| 34. Identificación del evento presente de organismos modificados genéticamente (OGM) por reacción en cadena de la polimerasa a tiempo real (por evento analizado). | 20,93 euros |
+| 35. Análisis cuantitativo de organismos modificados genéticamente (OGM) por reacción en cadena de la polimerasa a tiempo real (por evento analizado). | 81,81 euros |
+| 36. Análisis microbiológico por reacción en cadena de la polimerasa. | 19,01 euros |
+| 37. Aislamiento e identificación de microorganismos. | 67,32 euros |
+| 37.1 Coeficientes reductores por la solicitud simultánea de varias muestras: |  |
+| 1-50 muestras. | 1,00 |
+| 51-100 muestras. | 0,90 |
+| más de 100 muestras. | 0,80 |
+| 38. Aislamiento e identificación de salmonella en productos pesqueros. | 96,52 euros |
+| 39. Recuento de una especie de microorganismos. | 45,50 euros |
+| 39.1 Coeficientes reductores por la solicitud simultánea de varias muestras: |  |
+| 1-50 muestras. | 1,00 |
+| 51-100 muestras. | 0,90 |
+| más de 100 muestras. | 0,80 |
+| 40. Recuento de gérmenes totales a 30°C. | 5,87 euros |
+| 41. Inhibidores en leche. | 3,47 euros |
+| 42. Serotipado de una especie. | 85,49 euro |
+| 43. Análisis de toxinas marinas mediante bioensayo. | 167,50 euros |
+| 44. Determinación de otras semillas en número (alfalfa y trébol). | 63,73 euros |
+| 45. Determinación de otras semillas en número (otras especies). | 24,05 euros |
+| 46. Pureza específica (semillas de pratenses). | 77,60 euros |
+| 47. Pureza específica (otras especies). | 42,84 euros |
+| 48. Pureza específica (mezcla de especies). | 162,67 euros |
+| 49. Germinación. | 74,51 euros |
+| 50. Peso de 1000 semillas. | 39,25 euros |
+| 51. Viabilidad de semillas. | 126,35 euros |
+| 52. Determinación del contenido en humedad de semillas. | 26,30 euros |
+| 53. Análisis de pureza varietal mediante técnicas electroforéticas (Acid-PAGE, SDS-PAGE). Por cada muestra (análisis de 50 semillas). | 240,35 euros |
+| 54. Análisis de pureza de especies mediante técnicas electroforéticas en alimentos. | 55,01 euros |
+| 55. Identificación varietal por marcadores microsatélite. | 82,34 euros |
+| 56. Análisis polínicos en mieles. | 63,89 euros |
+| 57. Análisis sensorial cuyo dictamen se obtenga mediante panel de cata, por muestra. | 90,44 euros |
+| 58. Emisión de informe técnico adicional o certificado sobre un análisis practicado. | 57,73 euros |
+
+En las tarifas en que se apliquen reducciones por la solicitud simultánea de varias muestras, el importe final debe calcularse mediante la suma de los importes parciales que resulten de multiplicar el número de muestras de cada tramo por la tarifa unitaria minorada con el coeficiente reductor asignado a cada uno de ellos.
+
+> Se modifica por el art. 81.3 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030)
+
+> Redactado conforme a la corrección de errores publicada en el BOJA núm. 86, de 6 de mayo de 2024. [Ref. BOJA-b-2024-90085](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90085)
+
+#### Artículo 66. Devengo.
+
+1\. La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+2\. En el caso de actuaciones realizadas de oficio, la tasa se devengará en el momento en el que se realice el servicio o la actuación administrativa.
+
+#### Artículo 66 bis. Beneficios fiscales.
+
+Estarán exentas del pago de la tasa por servicios de diagnóstico, análisis y dictámenes prestados por los laboratorios agroganaderos, en aplicación de los programas nacionales o autonómicos de control, vigilancia o erradicación de enfermedades animales, las personas que, a fecha de devengo de la tasa, sean propietarias o titulares de explotaciones ganaderas que pertenezcan a una asociación de defensa sanitaria ganadera.
+
+> Se añade por la disposición final 12.3 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+### CAPÍTULO IV — Tasa por solicitud de licencias de pesca marítima recreativa
+
+#### Artículo 67. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de la solicitud de expedición y renovación de las licencias que, conforme a la legislación vigente, son necesarias para practicar la pesca marítima de recreo.
+
+#### Artículo 68. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas que soliciten la expedición o renovación de la licencia.
+
+#### Artículo 69. Cuota tributaria.
+
+El importe de la cuota tributaria por la expedición o renovación de la licencia es:
+
+| Licencia de pesca recreativa para aguas interiores con duración 1 día | 6,35 euros |
+|---|---|
+| Licencia de pesca recreativa para aguas interiores con duración 3 días | 6,54 euros |
+| Licencia de pesca recreativa para aguas interiores con duración 1 mes | 8,25 euros |
+| Licencia de pesca recreativa para aguas interiores con duración 1 año | 9,52 euros |
+| Licencia de pesca recreativa para aguas interiores con duración 2 años | 12,70 euros |
+| Licencia de pesca recreativa para aguas interiores con duración 3 años | 15,87 euros. |
+
+> Se modifica por la disposición final 6.2 de la Ley 7/2024, de 23 de diciembre. [Ref. BOE-A-2025-413](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-413)
+
+#### Artículo 70. Devengo.
+
+La tasa se devengará cuando se presente la solicitud de expedición o renovación de la licencia, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+#### Artículo 71. Beneficios fiscales.
+
+1\. Estarán exentos del pago de esta tasa:
+
+a) Los sujetos pasivos que sean mayores de sesenta y cinco años.
+
+b) Las personas beneficiarias de la prestación del ingreso mínimo vital a quienes se reconozca dicha condición de conformidad con lo dispuesto en la Ley 19/2021, de 20 de diciembre, por la que se establece el ingreso mínimo vital, o norma que la sustituya, las beneficiarias de la Renta Mínima de Inserción Social en Andalucía, a quienes se reconozca dicha condición de acuerdo con lo dispuesto en el Decreto-ley 3/2017, de 19 de diciembre, por el que se regula la Renta Mínima de Inserción Social en Andalucía, o norma que lo sustituya, o las beneficiarias de ambas prestaciones.
+
+2\. Las condiciones establecidas en el apartado 1 deberán concurrir a la fecha del devengo de la tasa. La presentación de la solicitud conllevará la autorización al órgano gestor para que pueda recabar dicha información.
+
+### CAPÍTULO V — Tasa en materia de enseñanza profesional marítimo-pesquera y de formación en materia de bienestar animal
+
+#### Artículo 72. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios en materia de formación profesional marítimo-pesquera y de formación en materia de bienestar animal que se enumeran a continuación:
+
+A) Formación profesional marítimo-pesquera:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="10%">
+<col width="10%">
+<col width="80%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por derechos de matriculación, examen, expedición y duplicado de certificado y/o diploma acreditativo de la formación en los siguientes cursos:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.</td>
+<td class="cuerpo_tabla_izq">Patrón Costero Polivalente.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.2.</td>
+<td class="cuerpo_tabla_izq">Patrón Local de Pesca.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.3.</td>
+<td class="cuerpo_tabla_izq">Certificado de especialidad de Formación Básica en seguridad.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.4.</td>
+<td class="cuerpo_tabla_izq">Operador Restringido del Sistema Mundial de Socorro y Seguridad Marítima (ORSMSSM).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.5.</td>
+<td class="cuerpo_tabla_izq">Marinero pescador.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.6.</td>
+<td class="cuerpo_tabla_izq">Formación sanitaria inicial en las titulaciones profesionales marítimas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.7.</td>
+<td class="cuerpo_tabla_izq">Certificado de especialidad de avanzado en lucha contra incendios.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.8.</td>
+<td class="cuerpo_tabla_izq">Patrón portuario.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.9.</td>
+<td class="cuerpo_tabla_izq">Marinero de Puente.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.10.</td>
+<td class="cuerpo_tabla_izq">Marinero de Máquinas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.11.</td>
+<td class="cuerpo_tabla_izq">Buceador de pequeña profundidad.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.12.</td>
+<td class="cuerpo_tabla_izq">Instructor Buceador profesional.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.13.</td>
+<td class="cuerpo_tabla_izq">Cualquier otro curso que se imparta necesario para desarrollar actividades profesionales marítimo-pesqueras.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.14.</td>
+<td class="cuerpo_tabla_izq">Duplicado de certificado y/o diploma acreditativo de la formación.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por expedición, renovación y duplicados de documentos de acreditación profesional náutico-pesquera y de actividades subacuáticas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por convalidación de módulos y asignaturas.</td>
+</tr>
+</tbody>
+</table>
+
+B) Formación en materia de bienestar animal:
+
+| 1. | Derechos de examen y expedición de títulos, diplomas y certificados de competencia, incluyendo los que se expidan por exención o convalidación de formación. |
+|---|---|
+| 2. | Por expedición de duplicados de diplomas y certificados de competencia. |
+
+#### Artículo 73. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas que soliciten la inscripción en los cursos o exámenes, así como la prestación de los servicios que constituyen el hecho imponible.
+
+#### Artículo 74. Cuota tributaria.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+A) Formación profesional marítimo-pesquera:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Derechos de matriculación, examen, expedición y duplicado de certificado y/o diploma acreditativo de la formación:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">1.1.</td>
+<td class="cuerpo_tabla_izq">Acciones formativas de hasta 50 horas inclusive.</td>
+<td class="cuerpo_tabla_izq">10,20 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">1.2.</td>
+<td class="cuerpo_tabla_izq">Acciones formativas de 51 horas hasta 100 horas.</td>
+<td class="cuerpo_tabla_izq">16,50 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">1.3.</td>
+<td class="cuerpo_tabla_izq">Acciones formativas de 101 horas hasta 250 horas.</td>
+<td class="cuerpo_tabla_izq">30,20 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">1.4.</td>
+<td class="cuerpo_tabla_izq">Acciones formativas de 251 horas hasta 400 horas.</td>
+<td class="cuerpo_tabla_izq">40 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">1.5.</td>
+<td class="cuerpo_tabla_izq">Acciones formativas superiores a 400 horas.</td>
+<td class="cuerpo_tabla_izq">50 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">1.6.</td>
+<td class="cuerpo_tabla_izq">Duplicado de certificado y/o diploma acreditativo de la formación.</td>
+<td class="cuerpo_tabla_izq">7,08 euros.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Expedición, renovación y duplicados de documentos de acreditación profesional náutico-pesquera y de actividades subacuáticas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">2.1.</td>
+<td class="cuerpo_tabla_izq">Tarjetas de identidad profesional marítimo-pesqueras.</td>
+<td class="cuerpo_tabla_izq">32,04 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">2.2.</td>
+<td class="cuerpo_tabla_izq">Libreta de actividades subacuáticas.</td>
+<td class="cuerpo_tabla_izq">33,03 euros.</td>
+</tr>
+</tbody>
+</table>
+
+| 3. | Convalidación de módulos y asignaturas. | 6 euros. |
+|---|---|---|
+
+B) Formación en materia de bienestar animal:
+
+| 1. | Derechos de examen y expedición de títulos, diplomas y certificados de competencia, incluyendo los que se expidan por exención o convalidación de formación. | 10 euros. |
+|---|---|---|
+| 2. | Por expedición de duplicados de diplomas y certificados de competencia. | 15 euros. |
+
+#### Artículo 75. Devengo.
+
+La tasa se devengará cuando se presente la solicitud de inscripción para el correspondiente examen o curso o la solicitud de prestación de los demás servicios administrativos, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+#### Artículo 76. Beneficios fiscales.
+
+1\. Estarán exentos del pago de la tasa los siguientes solicitantes que tengan reconocida su condición, siempre que quede acreditado de conformidad con la normativa aplicable:
+
+a) El alumnado miembro de familias numerosas de la categoría especial.
+
+b) Las personas beneficiarias de la prestación del ingreso mínimo vital a quienes se reconozca dicha condición de conformidad con lo dispuesto en la Ley 19/2021, de 20 de diciembre, por la que se establece el ingreso mínimo vital, o norma que la sustituya, las beneficiarias de la Renta Mínima de Inserción Social en Andalucía, a quienes se reconozca dicha condición de acuerdo con lo dispuesto en el Decreto-ley 3/2017, de 19 de diciembre, por el que se regula la Renta Mínima de Inserción Social en Andalucía, o norma que lo sustituya, o las beneficiarias de ambas prestaciones.
+
+2\. Tendrá derecho a una bonificación del 50% el alumnado miembro de familias numerosas de la categoría general que tenga reconocida su condición, siempre que quede acreditado de conformidad con la normativa aplicable.
+
+3\. Las condiciones exigidas en los apartados 1 y 2 deberán concurrir a la fecha del devengo de la tasa.
+
+La presentación de la solicitud conllevará la autorización al órgano gestor para que pueda recabar dicha información.
+
+## TÍTULO VII — Tasas en materia de salud
+
+### CAPÍTULO I — Tasa por servicios sanitarios
+
+#### Artículo 77. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de autorizaciones, la emisión de informes, la realización de inspecciones y la prestación de los servicios sanitarios que se enumeran en el artículo 79, por la Consejería con competencias en materia de salud, directamente, por medio de sus órganos o servicios centrales o periféricos, o por organismos que de ella dependan, tanto de oficio como a instancia de las personas interesadas.
+
+#### Artículo 78. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten, o a quienes se presten, los servicios que constituyen el hecho imponible.
+
+#### Artículo 79. Cuota tributaria.
+
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="3%">
+<col>
+<col>
+<col>
+<col width="15%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Actuaciones de los agentes de Salud Pública y otras actuaciones sanitarias:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">1.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por todas las actuaciones que comprende la observación veterinaria de un animal agresor susceptible de transmitir la rabia que haya lesionado a una persona:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.1.1.</td>
+<td class="cuerpo_tabla_izq">Cuando las actuaciones se realicen en un centro zoosanitario.</td>
+<td class="cuerpo_tabla_centro">20,69 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.1.2.</td>
+<td class="cuerpo_tabla_izq">Cuando se realicen a domicilio.</td>
+<td class="cuerpo_tabla_centro">82,73 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">1.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por la emisión de informes, atestados o certificados que requieran inspección de instalaciones o productos, estudios o exámenes de proyectos, excepto aquellos que constituyan trámites necesarios para las autorizaciones gravadas en esta ley y aquellos otros que se graven de forma específica.</td>
+<td class="cuerpo_tabla_centro">103,42 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">1.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Certificados, atestados, visados, registros, autorizaciones y demás documentos no gravados de forma específica a instancia de parte.</td>
+<td class="cuerpo_tabla_centro">25,86 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">1.4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Auditorías o supervisiones de sistemas de autocontrol realizados a petición de parte que requieran emitir, o no, algún tipo de certificación sobre el resultado:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.4.1.</td>
+<td class="cuerpo_tabla_izq">Por auditoria o supervisión del sistema de autocontrol completo llevada a cabo por dos agentes de control oficial.</td>
+<td class="cuerpo_tabla_centro">2.585,39 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.4.2.</td>
+<td class="cuerpo_tabla_izq">Por auditoria o supervisión del sistema de autocontrol completo llevada a cabo por un agente de control oficial.</td>
+<td class="cuerpo_tabla_centro">1.809,78 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.4.3.</td>
+<td class="cuerpo_tabla_izq">Por auditoria o supervisión parcial del sistema de autocontrol llevada a cabo por dos agentes de control oficial.</td>
+<td class="cuerpo_tabla_centro">1.551,24 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.4.4.</td>
+<td class="cuerpo_tabla_izq">Por auditoria o supervisión parcial del sistema de autocontrol llevada a cabo por un agente de control oficial.</td>
+<td class="cuerpo_tabla_centro">1.292,70 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">1.5.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Controles oficiales adicionales, motivados por incumplimiento en establecimientos sujetos a control oficial en el ámbito de la seguridad alimentaria y de la salud ambiental:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.5.1.</td>
+<td class="cuerpo_tabla_izq">Por cada control oficial adicional en establecimientos alimentarios que requieran su inscripción en el Registro General Sanitario de Empresas Alimentarias y Alimentos, así como a los operadores de abastecimiento de agua de consumo público, a los establecimientos con instalaciones de riesgo de transmisión de la legionelosis, y a los establecimientos y servicios biocidas:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Dentro de la jornada laboral normal en horario diurno, entendida esta como el trabajo realizado entre las 08:00 y las 22:00 horas en días laborables.</td>
+<td class="cuerpo_tabla_centro">129,27 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Dentro de la jornada laboral en horario nocturno, entendida esta como el trabajo realizado entre las 22:00 y las 08:00 horas en días laborables.</td>
+<td class="cuerpo_tabla_centro">137,14 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Fuera de la jornada laboral normal.</td>
+<td class="cuerpo_tabla_centro">213,61 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.5.2.</td>
+<td class="cuerpo_tabla_izq">Por cada control oficial adicional en establecimientos alimentarios que no requieran su inscripción en el Registro General Sanitario de Empresas Alimentarias y Alimentos, así como al resto de establecimientos, actividades y servicios:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Dentro de la jornada laboral normal diurna, entendida esta como el trabajo realizado entre las 08:00 y las 22:00 horas en días laborables.</td>
+<td class="cuerpo_tabla_centro">103,42 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Dentro de la jornada laboral nocturna, entendida esta como el trabajo realizado entre las 22:00 y las 08:00 horas en días laborables.</td>
+<td class="cuerpo_tabla_centro">109,70 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Fuera de la jornada laboral normal.</td>
+<td class="cuerpo_tabla_centro">170,87 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">1.6.</td>
+<td class="cuerpo_tabla_izq" colspan="2">
+<p class="cuerpo_tabla_izq">Por inspecciones o controles sanitarios oficiales a petición de parte de:</p>
+<p class="cuerpo_tabla_izq">– Mataderos, salas de despiece, establecimientos de manipulación de caza y salas de tratamiento de reses de lidia, industrias de producción e introducción en el mercado de productos de pesca y de acuicultura, distintos de los controles cubiertos por su tasa específica establecida en el capítulo II.</p>
+<p class="cuerpo_tabla_izq">– Resto de empresas alimentarias.</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.6.1.</td>
+<td class="cuerpo_tabla_izq">Dentro de la jornada laboral normal (días laborables de 8:00 a 22:00 horas).</td>
+<td class="cuerpo_tabla_centro">129,27 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.6.2.</td>
+<td class="cuerpo_tabla_izq">Dentro de la jornada laboral en horario nocturno, entendida esta como el trabajo realizado entre las 22:00 y las 08:00 horas en días laborables.</td>
+<td class="cuerpo_tabla_centro">137,14 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.6.3.</td>
+<td class="cuerpo_tabla_izq">Fuera de la jornada laboral normal.</td>
+<td class="cuerpo_tabla_centro">213,61 euros.</td>
+</tr>
+</tbody>
+</table>
+
+(*) Importes actualizados a 2025.
+
+> Se modifica por la disposición final 6.3 de la Ley 7/2024, de 23 de diciembre. [Ref. BOE-A-2025-413](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-413)
+
+#### Artículo 80. Devengo.
+
+1\. La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+2\. En el caso de actuaciones realizadas de oficio, la tasa se devengará en el momento en el que se realice el servicio o la actuación administrativa.
+
+#### Artículo 81. Beneficios fiscales.
+
+1\. Estarán exentas del pago de la tasa las personas beneficiarias de la prestación del ingreso mínimo vital a quienes se reconozca dicha condición de conformidad con lo dispuesto en la Ley 19/2021, de 20 de diciembre, por la que se establece el ingreso mínimo vital, o norma que la sustituya, las beneficiarias de la Renta Mínima de Inserción Social en Andalucía, a quienes se reconozca dicha condición de acuerdo con lo dispuesto en el Decreto-ley 3/2017, de 19 de diciembre, por el que se regula la Renta Mínima de Inserción Social en Andalucía, o norma que lo sustituya, o las beneficiarias de ambas prestaciones.
+
+2\. Las condiciones establecidas en el apartado 1 deberán concurrir a la fecha del devengo de la tasa. La presentación de la solicitud conllevará la autorización al órgano gestor para que pueda recabar dicha información.
+
+### CAPÍTULO II — Tasa por controles oficiales a animales sacrificados en mataderos, establecimientos de manipulación de caza, salas de despiece y salas de tratamiento de reses de lidia, establecimientos de producción e introducción en el mercado de productos de la pesca y la acuicultura y por controles e inspecciones sanitarias en buques factoría, congeladores y de transporte de productos de la pesca en puertos de países terceros
+
+#### Artículo 82. Hecho imponible.
+
+Constituye el hecho imponible de la tasa:
+
+1\. La práctica por el personal facultativo de los servicios correspondientes de la Administración de la Junta de Andalucía, de los controles sanitarios oficiales necesarios para preservar la salud pública sobre:
+
+a) Los animales sacrificados en mataderos.
+
+b) Los animales faenados en establecimientos de manipulación de caza y salas de tratamiento de reses de lidia.
+
+c) Las canales faenadas en las salas de despiece.
+
+d) Las actividades de los establecimientos de producción e introducción en el mercado de productos de la pesca y de la acuicultura.
+
+El hecho imponible se producirá siempre que dichos locales, salas y establecimientos estén situados en el territorio de la Comunidad Autónoma de Andalucía.
+
+2\. La práctica por el personal de los servicios correspondientes de la Administración de la Junta de Andalucía, de controles e inspecciones sanitarias necesarios para preservar la salud pública en buques factoría, congeladores y de transporte de productos de la pesca sitos en puertos de países terceros.
+
+#### Artículo 83. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que sean operadores o explotadores responsables de las actividades de matadero, salas de despiece, establecimientos de manipulación de la caza, salas de tratamiento de reses de lidia, establecimientos de producción e introducción en el mercado de productos de la pesca y la acuicultura, así como de buques factoría, congeladores y de transporte de productos de la pesca sitos en puertos de países terceros.
+
+#### Artículo 84. Responsables subsidiarios.
+
+Las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, propietarias de los inmuebles o instalaciones utilizados como mataderos, salas de despiece, establecimientos de manipulación de la caza, salas de tratamiento de reses de lidia, establecimientos de producción e introducción en el mercado de productos de la pesca y la acuicultura así como de buques factoría, congeladores y de transporte de productos de la pesca sitos en puertos de países terceros, que no ejerzan por sí mismas la actividad comercial, serán responsables subsidiarias de la deuda tributaria generada por esta tasa.
+
+#### Artículo 85. Cuota tributaria.
+
+1\. La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="7%">
+<col width="70%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Mataderos:</td>
+<td class="cuerpo_tabla_centro">Por animal</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Carne de vacuno:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.1.</td>
+<td class="cuerpo_tabla_izq">Vacuno pesado.</td>
+<td class="cuerpo_tabla_izq">5 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.2.</td>
+<td class="cuerpo_tabla_izq">Vacuno joven.</td>
+<td class="cuerpo_tabla_izq">2 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Carne de solípedos/équidos.</td>
+<td class="cuerpo_tabla_izq">3 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Carne de porcino:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.3.1.</td>
+<td class="cuerpo_tabla_izq">Animales de menos de 25 kg en canal.</td>
+<td class="cuerpo_tabla_izq">0,50 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.3.2.</td>
+<td class="cuerpo_tabla_izq">Animales de 25 kg en canal o superior.</td>
+<td class="cuerpo_tabla_izq">1 euro.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Carne de ovino y caprino:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.4.1.</td>
+<td class="cuerpo_tabla_izq">De menos de 12 kg en canal.</td>
+<td class="cuerpo_tabla_izq">0,15 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.4.2.</td>
+<td class="cuerpo_tabla_izq">Superior o igual a 12 kg en canal.</td>
+<td class="cuerpo_tabla_izq">0,25 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.5.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Carne de aves y conejo:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.5.1.</td>
+<td class="cuerpo_tabla_izq">Aves del género gallus y pintadas.</td>
+<td class="cuerpo_tabla_izq">0,005 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.5.2.</td>
+<td class="cuerpo_tabla_izq">Patos y ocas.</td>
+<td class="cuerpo_tabla_izq">0,01 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.5.3.</td>
+<td class="cuerpo_tabla_izq">Pavos.</td>
+<td class="cuerpo_tabla_izq">0,025 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.5.4.</td>
+<td class="cuerpo_tabla_izq">Carne de conejo de granja.</td>
+<td class="cuerpo_tabla_izq">0,005 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Establecimientos de transformación de la caza y salas de tratamiento de reses de lidia:</td>
+<td class="cuerpo_tabla_centro">Por animal</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Caza menor de pluma.</td>
+<td class="cuerpo_tabla_izq">0,005 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Caza menor de pelo.</td>
+<td class="cuerpo_tabla_izq">0,01 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Ratites.</td>
+<td class="cuerpo_tabla_izq">0,50 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Mamíferos terrestres:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.4.1.</td>
+<td class="cuerpo_tabla_izq">Jabalíes.</td>
+<td class="cuerpo_tabla_izq">1,50 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.4.2.</td>
+<td class="cuerpo_tabla_izq">Vacuno pesado.</td>
+<td class="cuerpo_tabla_izq">5 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.4.3.</td>
+<td class="cuerpo_tabla_izq">Vacuno joven.</td>
+<td class="cuerpo_tabla_izq">2 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.5.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Otros rumiantes.</td>
+<td class="cuerpo_tabla_izq">0,50 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Buques factoría, buques congeladores y buques de transporte de productos de la pesca por parte de agentes de control oficial de la Junta de Andalucía, por cada buque que se inspeccione:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">3.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">En el puerto de Dakar (Senegal).</td>
+<td class="cuerpo_tabla_izq">3.491,77 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">3.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">En otros puertos de África distintos del anterior.</td>
+<td class="cuerpo_tabla_izq">6.582,66 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">3.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">En el resto de puertos de países terceros.</td>
+<td class="cuerpo_tabla_izq">9.127,36 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Salas de despiece:</td>
+<td class="cuerpo_tabla_centro">Por tonelada de carne</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">De vacuno, porcino, solípedos/équidos, ovino y caprino.</td>
+<td class="cuerpo_tabla_izq">2 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">De aves de corral y de conejos de granja.</td>
+<td class="cuerpo_tabla_izq">1,5 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">De caza, silvestre y de cría.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.3.1.</td>
+<td class="cuerpo_tabla_izq">De caza menor de pluma y de pelo.</td>
+<td class="cuerpo_tabla_izq">1,5 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.3.2.</td>
+<td class="cuerpo_tabla_izq">De ratites (avestruz, emú, ñandú).</td>
+<td class="cuerpo_tabla_izq">3 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.3.3.</td>
+<td class="cuerpo_tabla_izq">De caza mayor.</td>
+<td class="cuerpo_tabla_izq">2 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">5.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Lonjas pesqueras:</td>
+<td class="cuerpo_tabla_centro">Por tonelada de pescado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Primera venta en la lonja.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">1 euro primeras 50 toneladas de cada mes.</p>
+<p class="cuerpo_tabla_izq">0,25 euros por las siguientes.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">5.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Primera venta en la lonja en caso de falta o gradación insuficiente de frescura o tamaño.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">1 euro primeras 50 toneladas de cada mes.</p>
+<p class="cuerpo_tabla_izq">0,5 euros por las siguientes.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+2\. Sobre la cuota íntegra, calculada de conformidad con lo dispuesto en el apartado 1 anterior, se podrán aplicar, si procede, las siguientes deducciones o, en su caso, los siguientes coeficientes:
+
+2.1 Los sujetos pasivos responsables de las actividades de matadero podrán aplicarse las siguientes deducciones, que serán compatibles entre sí en cada liquidación:
+
+a) Deducción por sistemas de autocontrol evaluados y certificados, que podrá aplicarse cuando el establecimiento disponga de un sistema de autocontrol basado en el análisis de peligros y puntos de control críticos (APPCC) que haya sido evaluado oficialmente por la autoridad competente y que esta evaluación haya dado un resultado favorable, lo que tendrá lugar cuando implique, con respecto al control oficial, algún tipo de ventaja frente a los tradicionalmente aprobados, y además el APPCC se integre en un sistema de gestión de la calidad.
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 10% sobre la cuota mencionada.
+
+b) Deducción por actividad planificada y estable, que podrá aplicarse cuando los sujetos pasivos que llevan a cabo la actividad dispongan y lleven a la práctica de manera efectiva, después de mantener un histórico de al menos cinco meses de forma continuada, un sistema de planificación y programación que permita a los servicios de inspección conocer el servicio que hay que prestar con una antelación mínima de siete días.
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 30% sobre la cuota mencionada.
+
+c) Deducción por horario regular diurno, que podrá aplicarse cuando en el período impositivo el sujeto pasivo haya llevado a cabo la actividad entre las 8:00 h y las 22:00 h, de lunes a viernes laborables.
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 10% sobre la cuota mencionada.
+
+d) Deducción por personal que preste la asistencia en la realización de las tareas relacionadas con los controles oficiales de acuerdo con lo establecido en el Reglamento (UE) 2017/625 del Parlamento Europeo y del Consejo, de 15 de marzo de 2017, relativo a los controles y otras actividades oficiales realizados para garantizar la aplicación de la legislación sobre alimentos y piensos, y de las normas sobre salud y bienestar de los animales, sanidad vegetal y productos fitosanitarios, y por el que se modifican los Reglamentos (CE) n.° 999/2001, (CE) n.° 396/2005, (CE) n.° 1069/2009, (CE) n.° 1107/2009, (UE) n.° 1151/2012, (UE) n.° 652/2014, (UE) 2016/429 y (UE) 2016/2031 del Parlamento Europeo y del Consejo; los Reglamentos (CE) n.° 1/2005 y (CE) n.° 1099/2009 del Consejo, y las Directivas 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE y 2008/120/CE del Consejo, y por el que se derogan los Reglamentos (CE) n.° 854/2004 y (CE) n.° 882/2004 del Parlamento Europeo y del Consejo; las Directivas 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE y 97/78/CE del Consejo, y la Decisión 92/438/CEE del Consejo (Reglamento sobre controles oficiales).
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 10% sobre la cuota mencionada.
+
+e) Deducción por el control e inspección ante mortem en explotación, que podrá aplicarse siempre que concurran los siguientes requisitos:
+
+1.º Cuando las operaciones de inspección ante mortem se hayan practicado en la explotación de origen en más del 75% de las partidas de ganado recibidas y no sea necesario repetirlas en el matadero.
+
+2.º Y, además, se hayan realizado conforme a los criterios establecidos en el artículo 5 del Reglamento Delegado (UE) 2019/624 de la Comisión, de 8 de febrero de 2019, relativo a normas específicas respecto a la realización de controles oficiales sobre la producción de carne y respecto a las zonas de producción y reinstalación de moluscos bivalvos vivos de conformidad con el Reglamento (UE) 2017/625 del Parlamento Europeo y del Consejo.
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 10% sobre la cuota mencionada.
+
+f) Deducción por apoyo instrumental al control oficial, que podrá aplicarse cuando el establecimiento ponga a disposición de los servicios de inspección el material y los equipamientos apropiados para llevar a cabo las actividades de control específicas en las propias instalaciones. Esta dotación instrumental se concreta en equipos de protección individual adecuados, espacio de trabajo debidamente equipado y con condiciones, herramientas, servicio informático, material de oficina y comunicaciones adecuados.
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 15% sobre la cuota mencionada.
+
+g) Deducción por control de triquinas en laboratorios acreditados, que podrá aplicarse cuando el establecimiento lleve a cabo los ensayos para la detección de la presencia de triquina establecidos en el Reglamento de Ejecución (UE) 2015/1375 de la Comisión, de 10 de agosto de 2015, por el que se establecen normas específicas para los controles oficiales de la presencia de triquinas en la carne, en un laboratorio designado por la autoridad competente en materia de seguridad alimentaria, a propuesta del sujeto pasivo de la tasa, y que cumpla con alguna de las siguientes condiciones:
+
+1.ª Se encuentre acreditado de acuerdo con lo establecido en el artículo 37 del Reglamento (UE) 2017/625 del Parlamento Europeo y del Consejo, de 15 de marzo de 2017.
+
+2.ª No se encuentre acreditado, pero esté incluido entre las excepciones previstas en el artículo 40 del Reglamento (UE) 2017/625 del Parlamento Europeo y del Consejo, de 15 de marzo de 2017.
+
+Esta deducción consistirá en la aplicación del porcentaje del 15% sobre la cuota mencionada.
+
+h) Deducción por volumen de negocio reducido, que podrá aplicarse siempre que el matadero se encuentre, sobre la base de cálculo del sacrificio anual del periodo impositivo inmediatamente anterior al que pretenda aplicar la deducción, en alguno de los siguientes tramos:
+
+Tramo 1: Mataderos de ungulados: menos de 1000 U.G.M.
+
+Mataderos de aves o lagomorfos: menos de 15000 aves/lagomorfos.
+
+Esta deducción consistirá en la aplicación del 25 % sobre la cuota aplicada a cada animal sacrificado.
+
+Tramo 2: Mataderos de ungulados: desde 1000 U.G.M. a 1999,99 U.G.M.
+
+Mataderos de aves o lagomorfos: desde 15.001 aves/lagomorfos a 150.000 aves/lagomorfos.
+
+Esta deducción consistirá en la aplicación del 20 % sobre la cuota aplicada a cada animal sacrificado.
+
+Tramo 3: Mataderos de ungulados: desde 2000 U.G.M. a 3999,99 U.G.M.
+
+Esta deducción consistirá en la aplicación del 15 % sobre la cuota aplicada a cada animal sacrificado.
+
+Tramo 4: Mataderos de ungulados: desde 4000 U.G.M. a 7999,99 U.G.M.
+
+Esta deducción consistirá en la aplicación del 10 % sobre la cuota aplicada a cada animal sacrificado.
+
+i) Deducción por nivel de cumplimiento en materia de bienestar animal, que podrá aplicarse cuando concurran los siguientes requisitos:
+
+1.º Que el bienestar animal en el matadero haya sido evaluado oficialmente por la autoridad competente y que esta evaluación haya dado un resultado favorable.
+
+2.º Y que no existan sanciones en firme sobre esa materia sobre sujeto pasivo o responsable subsidiario en los últimos dos años.
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 10% sobre la cuota mencionada.
+
+Esta cuantía podrá incrementarse un 5% adicional si el matadero cuenta con certificación externa relativa a bienestar animal en base a una norma nacional o internacional.
+
+2.2 Los sujetos pasivos responsables de establecimientos de manipulación de caza, salas de tratamiento de reses de lidia y salas de despiece podrán aplicarse las siguientes deducciones, que serán compatibles entre sí en cada liquidación:
+
+a) Deducción por sistemas de autocontrol evaluados, que podrá aplicarse cuando el establecimiento disponga de un sistema de autocontrol basado en el análisis de peligros y puntos de control críticos (APPCC), que hayan sido evaluados oficialmente por la autoridad competente y que esta evaluación haya dado un resultado favorable, lo que tendrá lugar cuando impliquen, con respecto al control oficial, algún tipo de ventaja frente a los tradicionalmente aprobados y el APPCC además se integre en un sistema de gestión de la calidad.
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 20% sobre la cuota mencionada.
+
+b) Deducción por actividad planificada y estable, que podrá aplicarse cuando los sujetos pasivos que llevan a cabo la actividad de manipulación de la caza, del tratamiento de reses de lidia, o de ambas, dispongan y lleven a la práctica de manera efectiva, después de mantener un histórico de al menos cinco meses de forma continuada, un sistema de planificación y programación que permita a los servicios de inspección conocer el servicio que hay que prestar con una antelación mínima de siete días.
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 30% sobre la cuota mencionada.
+
+c) Deducción por horario regular diurno, que podrá aplicarse cuando en el período impositivo el sujeto pasivo haya llevado a cabo la actividad entre las 8:00 h y las 22:00 h, de lunes a viernes laborables.
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 25% sobre la cuota mencionada.
+
+d) Deducción por personal que preste la asistencia en la realización de las tareas relacionadas con los controles oficiales de acuerdo con lo establecido en el Reglamento (UE) 2017/625 del Parlamento Europeo y del Consejo, de 15 de marzo de 2017.
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 10% sobre la cuota mencionada.
+
+e) Deducción por apoyo instrumental al control oficial, que podrá aplicarse cuando el establecimiento ponga a disposición de los servicios de inspección el material y los equipamientos apropiados para llevar a cabo las actividades de control específicas en las propias instalaciones. Esta dotación instrumental se concreta en equipos de protección individual adecuados, espacio de trabajo debidamente equipado y con condiciones, herramientas, servicio informático, material de oficina y comunicaciones adecuados.
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 10% sobre la cuota mencionada.
+
+f) Deducción por volumen de negocios reducido.
+
+En el caso de establecimientos de manipulación de caza, será aplicable a aquellos que manipulen menos de 1.500 unidades de ganado al año, utilizando como elementos de conversión los siguientes coeficientes:
+
+0,2 UGM/pieza de caza mayor.
+
+0,6 UGM/ratite.
+
+0,012 UGM/pieza de caza menor de pelo.
+
+0,006 UGM/pieza de caza menor de pluma o pelo.
+
+En el caso de salas de despiece, será aplicable a aquellas que no manipulen más de 26 tm/año de carne.
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 16% sobre la cuota mencionada.
+
+g) Deducción por control de triquinas en laboratorios acreditados, que podrá aplicarse cuando el establecimiento lleve a cabo los ensayos para la detección de la presencia de triquina establecidos en el Reglamento de Ejecución (UE) 2015/1375 de la Comisión, de 10 de agosto de 2015, en un laboratorio designado por la autoridad competente en materia de seguridad alimentaria, a propuesta del sujeto pasivo de la tasa, y que cumpla con alguna de las siguientes condiciones:
+
+1.ª Se encuentre acreditado de acuerdo con lo establecido en el artículo 37 del Reglamento (UE) 2017/625 del Parlamento Europeo y del Consejo, de 15 de marzo de 2017.
+
+2.ª No se encuentre acreditado, pero esté incluido entre las excepciones previstas en el artículo 40 del Reglamento (UE) 2017/625 del Parlamento Europeo y del Consejo, de 15 de marzo de 2017.
+
+Esta deducción consistirá en la aplicación del porcentaje del 15% sobre la cuota mencionada.
+
+2.3 Los sujetos pasivos responsables de establecimientos de producción e introducción en el mercado de productos de la pesca y la acuicultura podrán aplicarse las siguientes deducciones, que serán compatibles entre sí en cada liquidación:
+
+a) Deducción por sistemas de autocontrol evaluados, que podrá aplicarse cuando el establecimiento disponga de un sistema de autocontrol basado en el análisis de peligros y puntos de control críticos (APPCC), que hayan sido evaluados oficialmente por la autoridad competente y que esta evaluación haya dado un resultado favorable, lo que tendrá lugar cuando impliquen, con respecto al control oficial, algún tipo de ventaja frente a los tradicionalmente aprobados.
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 25% sobre la cuota.
+
+b) Deducción por horario regular diurno, que podrá aplicarse cuando en el periodo impositivo el sujeto pasivo haya llevado a cabo la actividad entre las 8:00 h y las 22:00 h, de lunes a viernes laborables.
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 25% sobre la cuota mencionada.
+
+c) Deducción por apoyo instrumental al control oficial, que podrá aplicarse cuando el establecimiento ponga a disposición de los servicios de inspección el material y los equipamientos apropiados para llevar a cabo las actividades de control específicas en las propias instalaciones. Esta dotación instrumental se concreta en equipos de protección individual adecuados, y espacio de trabajo debidamente equipado y con condiciones, herramientas, servicio informático, material de oficina y comunicaciones adecuados.
+
+El importe de la deducción consistirá en la aplicación del porcentaje del 10% sobre la cuota mencionada.
+
+d) Deducción por volumen de negocio reducido, que podrá aplicarse siempre que el establecimiento se encuentre, sobre la base de cálculo de la comercialización anual del periodo impositivo inmediatamente anterior al que pretenda aplicar la deducción, en alguno de los siguientes tramos:
+
+Tramo 1: Establecimientos de producción e introducción en el mercado de productos de la pesca y la acuicultura cuyo volumen comercializado en lonjas sea de hasta 499.99 Tm/año.
+
+Esta deducción consistirá en la aplicación del 25 % sobre la cuota aplicada por Tm.
+
+Tramo 2: Establecimientos de producción e introducción en el mercado de productos de la pesca y la acuicultura cuyo volumen comercializado en lonjas sea desde 500 Tm/año hasta 999,99 Tm/año.
+
+Esta deducción consistirá en la aplicación del 15% sobre la cuota aplicada por Tm.
+
+Tramo 3: Establecimientos de producción e introducción en el mercado de productos de la pesca y la acuicultura cuyo volumen comercializado en lonjas sea desde 1.000 Tm/año hasta 1.999,99 Tm/año.
+
+Esta deducción consistirá en la aplicación del 10% sobre la cuota aplicada por Tm.
+
+2.4 Las deducciones anteriores exigirán para su aplicación el previo reconocimiento mediante resolución de la Consejería competente en materia de salud, que ha de notificarse en el plazo de tres meses, contados desde la fecha en que la solicitud haya tenido entrada en el registro del órgano competente para su tramitación. Transcurrido el plazo sin que se notifique la resolución, se entenderá que el interesado tiene derecho a la deducción, que habrá que aplicar en la primera autoliquidación que practique a partir de la finalización de ese plazo.
+
+El derecho a practicar las deducciones quedará condicionado a que se mantengan las circunstancias que motivaron su reconocimiento.
+
+2.5 Los mataderos, los establecimientos de manipulación de la caza, las salas de tratamiento de reses de lidia, las salas de despiece y establecimientos de producción e introducción en el mercado de productos de la pesca y la acuicultura podrán aplicarse cuantas deducciones tengan autorizadas, sin que, en ningún caso, la cantidad total a deducir supere el 75% de la cuota íntegra.
+
+2.6 En el caso de inspecciones sanitarias en buques factoría, congeladores y de transporte de productos de la pesca, la cuota íntegra se podrá reducir aplicando los siguientes coeficientes, cuando las inspecciones sanitarias se realicen conjuntamente a varios buques, coincidiendo en fechas y puerto, acreditando tal condición mediante certificación de la autoridad competente:
+
+| Coeficientes | (Senegal) Dakar | Resto África | Resto mundo |
+|---|---|---|---|
+| Coeficiente por Misión con 1 buque. | 0,0% | 0,0% | 0,0% |
+| Coeficiente por Misión con 2 buques. | 39,3% | 43,8% | 45,6% |
+| Coeficiente por Misión con 3 buques. | 59,5% | 62,5% | 63,7% |
+| Coeficiente por Misión con 4 buques. | 64,3% | 68,8% | 70,6% |
+| Coeficiente por Misión con 5 o más buques. | 71,4% | 75,0% | 76,5% |
+
+3\. Si en un mismo establecimiento se realizan de modo integrado las actividades de sacrificio y despiece, solamente se percibirá la tasa por la actividad que tenga un importe superior.
+
+A estos efectos, se entiende por un mismo establecimiento el que esté integrado por distintas instalaciones anexas, dedicadas a las actividades de sacrificio y despiece.
+
+#### Artículo 86. Devengo.
+
+1\. La tasa se devengará cuando se realicen las actividades de inspección y control.
+
+2\. En el caso de la tasa por inspecciones sanitarias en buques factoría, congeladores y de transporte de productos de la pesca, la tasa se devengará cuando se confirme la fecha y puerto de la misión de inspección del o de los buques.
+
+#### Artículo 87. Autoliquidación, liquidación por la Administración y pago.
+
+1\. Los obligados al pago de la tasa deberán presentar una autoliquidación trimestral correspondiente a los hechos imponibles devengados durante el trimestre natural anterior, dentro del plazo de los veinte primeros días de los meses de abril, julio, octubre y enero siguientes. Dicha autoliquidación comprenderá todos los datos necesarios para la determinación de las cuotas tributarias.
+
+2\. No obstante lo anterior, los obligados al pago de la tasa establecida por inspecciones sanitarias en buques factoría, congeladores y de transporte de productos de la pesca presentarán la autoliquidación antes de quince días desde el devengo y, en todo caso, antes de que comiencen las actividades de inspección y control cuya realización constituye el hecho imponible.
+
+3\. Simultáneamente a la presentación de la autoliquidación se deberá efectuar el ingreso de las cuotas resultantes en el lugar y forma establecidos por la Consejería competente en materia tributaria.
+
+4\. En caso de que el sujeto pasivo no presente autoliquidación de la tasa en el plazo establecido en este artículo, los órganos competentes practicarán liquidación provisional de oficio, sin perjuicio de la incoación, en su caso, del correspondiente procedimiento sancionador.
+
+5\. En los supuestos contemplados en el artículo 82.1, los obligados al pago de la tasa deberán repercutir íntegramente su importe, una vez efectuadas, en su caso, las deducciones correspondientes, sobre aquella persona para la que se efectúe la actividad cuya realización es objeto de control e inspección, quedando este obligado a soportar dicha repercusión. La repercusión deberá realizarse mediante factura o documento sustitutivo y se entenderá hecha al tiempo de expedir y entregar tal factura o documento.
+
+6\. Los sujetos pasivos deberán llevar un registro de todas las operaciones que sean objeto de la tasa, en un libro oficial habilitado al efecto y autorizado por la autoridad sanitaria correspondiente. La omisión de este requisito dará origen a la imposición de las sanciones que correspondan.
+
+#### Artículo 88. Afectación.
+
+La tasa regulada en este capítulo tiene carácter finalista, por lo que los ingresos derivados de la misma quedan afectados a la financiación del coste del control sanitario prestado por la Consejería con competencias en materia de salud o entidad competente.
+
+### CAPÍTULO III — Tasa por tramitación de autorizaciones de centros, servicios y establecimientos sanitarios, y de almacenes de distribución de medicamentos
+
+#### Artículo 89. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de los expedientes de autorización administrativa de centros, servicios y establecimientos sanitarios, así como de los almacenes de distribución de medicamentos, por la Consejería competente en materia de salud.
+
+#### Artículo 90. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la tramitación de las autorizaciones que constituyen el hecho imponible, o aquellas a favor de las cuales se tramiten los procedimientos.
+
+#### Artículo 91. Cuota tributaria.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="7%">
+<col width="70%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Hospitales:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">1.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización sanitaria de instalación:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.1.</td>
+<td class="cuerpo_tabla_izq">Cantidad base.</td>
+<td class="cuerpo_tabla_izq">60 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.2.</td>
+<td class="cuerpo_tabla_izq">Cantidad variable según el número de unidades asistenciales:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Hasta 15 unidades.</td>
+<td class="cuerpo_tabla_izq">100 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">De 16 a 30 unidades.</td>
+<td class="cuerpo_tabla_izq">200 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Más de 30 unidades.</td>
+<td class="cuerpo_tabla_izq">300 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">1.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización sanitaria de funcionamiento:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.2.1.</td>
+<td class="cuerpo_tabla_izq">Cantidad base.</td>
+<td class="cuerpo_tabla_izq">300 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.2.2.</td>
+<td class="cuerpo_tabla_izq">Por cada unidad asistencial.</td>
+<td class="cuerpo_tabla_izq">20 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">1.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización sanitaria de modificación:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.3.1.</td>
+<td class="cuerpo_tabla_izq">Por cambios en la estructura del hospital.</td>
+<td class="cuerpo_tabla_izq">150 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.3.2.</td>
+<td class="cuerpo_tabla_izq">Por cambios en los servicios que constituyen la oferta asistencial del hospital:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Cantidad base.</td>
+<td class="cuerpo_tabla_izq">150 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Por cada unidad asistencial.</td>
+<td class="cuerpo_tabla_izq">10 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.3.3.</td>
+<td class="cuerpo_tabla_izq">Por cambios en la estructura del hospital y en los servicios que constituyen la oferta asistencial del hospital:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Cantidad base.</td>
+<td class="cuerpo_tabla_izq">300 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Por cada unidad asistencial.</td>
+<td class="cuerpo_tabla_izq">20 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">1.4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Renovación de la autorización sanitaria de funcionamiento. Según el número de unidades asistenciales:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.4.1.</td>
+<td class="cuerpo_tabla_izq">Hasta 15 unidades.</td>
+<td class="cuerpo_tabla_izq">200 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.4.2.</td>
+<td class="cuerpo_tabla_izq">De 16 a 30 unidades.</td>
+<td class="cuerpo_tabla_izq">400 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.4.3.</td>
+<td class="cuerpo_tabla_izq">Más de 30 unidades.</td>
+<td class="cuerpo_tabla_izq">600 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Centros y servicios extrahospitalarios (excepto centros de transporte sanitario):</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">2.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización sanitaria de instalación:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.1.1.</td>
+<td class="cuerpo_tabla_izq">Cantidad base.</td>
+<td class="cuerpo_tabla_izq">60 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.1.2.</td>
+<td class="cuerpo_tabla_izq">Por cada unidad asistencial.</td>
+<td class="cuerpo_tabla_izq">10 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">2.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización sanitaria de funcionamiento:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.2.1.</td>
+<td class="cuerpo_tabla_izq">Cantidad base.</td>
+<td class="cuerpo_tabla_izq">100 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.2.2.</td>
+<td class="cuerpo_tabla_izq">Por cada unidad asistencial.</td>
+<td class="cuerpo_tabla_izq">20 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">2.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización sanitaria de modificación:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.3.1.</td>
+<td class="cuerpo_tabla_izq">Por cambios en la estructura del centro o servicio extrahospitalario.</td>
+<td class="cuerpo_tabla_izq">50 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.3.2.</td>
+<td class="cuerpo_tabla_izq">Por cambios en los servicios que constituyen la oferta asistencial del centro o servicio:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Cantidad base.</td>
+<td class="cuerpo_tabla_izq">50 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Por cada unidad asistencial.</td>
+<td class="cuerpo_tabla_izq">10 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.3.3.</td>
+<td class="cuerpo_tabla_izq">Por cambios en la estructura del centro o servicio extrahospitalario y en los servicios que constituyen la oferta asistencial del centro o servicio:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Cantidad base.</td>
+<td class="cuerpo_tabla_izq">100 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Por cada unidad asistencial.</td>
+<td class="cuerpo_tabla_izq">20 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">2.4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Renovación de la autorización sanitaria de funcionamiento. Según el número de unidades asistenciales:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.4.1.</td>
+<td class="cuerpo_tabla_izq">Hasta 5 unidades.</td>
+<td class="cuerpo_tabla_izq">100 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.4.2.</td>
+<td class="cuerpo_tabla_izq">6 o más. Por cada unidad.</td>
+<td class="cuerpo_tabla_izq">20 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Centros de transporte sanitario:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización sanitaria de funcionamiento:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3.1.1.</td>
+<td class="cuerpo_tabla_izq">Ambulancia no asistida (cuidados mínimos).</td>
+<td class="cuerpo_tabla_izq">57 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3.1.2.</td>
+<td class="cuerpo_tabla_izq">Ambulancia asistencial soporte vital básico (medicalizables).</td>
+<td class="cuerpo_tabla_izq">70 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3.1.3.</td>
+<td class="cuerpo_tabla_izq">Ambulancia asistencial soporte vital avanzado (medicalizada).</td>
+<td class="cuerpo_tabla_izq">100 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3.1.4.</td>
+<td class="cuerpo_tabla_izq">Transporte sanitario colectivo.</td>
+<td class="cuerpo_tabla_izq">40 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3.1.5.</td>
+<td class="cuerpo_tabla_izq">Helicóptero.</td>
+<td class="cuerpo_tabla_izq">150 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Establecimientos sanitarios de óptica, ortopedia y audioprótesis:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización de instalación.</td>
+<td class="cuerpo_tabla_izq">60 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización de funcionamiento.</td>
+<td class="cuerpo_tabla_izq">150 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización de modificación.</td>
+<td class="cuerpo_tabla_izq">70 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Renovación.</td>
+<td class="cuerpo_tabla_izq">100 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">5.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Establecimientos sanitarios de botiquín farmacéutico y oficina de farmacia:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización de instalación y traslado.</td>
+<td class="cuerpo_tabla_izq">60 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización de funcionamiento.</td>
+<td class="cuerpo_tabla_izq">150 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización de modificación de local.</td>
+<td class="cuerpo_tabla_izq">70 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Almacenes de distribución de medicamentos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización o modificación de la misma.</td>
+<td class="cuerpo_tabla_izq">150 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Certificado de buenas prácticas de distribución.</td>
+<td class="cuerpo_tabla_izq">150 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">7.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Bancos de tejidos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización específica por cada uno de los tejidos objeto de sus actividades.</td>
+<td class="cuerpo_tabla_izq">150 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">8.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Cambio de titularidad en todos los centros y establecimientos anteriores.</td>
+<td class="cuerpo_tabla_izq">30 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">9.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Otras autorizaciones específicas de los centros y establecimientos anteriores, no comprendidas en apartados anteriores.</td>
+<td class="cuerpo_tabla_izq">60 euros.</td>
+</tr>
+</tbody>
+</table>
+
+#### Artículo 92. Devengo.
+
+La tasa se devengará cuando se presente la solicitud de las actuaciones a las que se refiere el hecho imponible, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+### CAPÍTULO IV — Tasa por solicitud de adjudicación de nuevas oficinas de farmacia
+
+#### Artículo 93. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de la solicitud de participación en la convocatoria de concurso público para la adjudicación de nuevas oficinas de farmacia.
+
+#### Artículo 94. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa quienes participen como solicitantes en las convocatorias de concurso público para la adjudicación de nuevas oficinas de farmacia.
+
+#### Artículo 95. Cuota tributaria.
+
+El importe de la cuota tributaria es de 370 euros por cada instancia de participación en la convocatoria de concurso público para la adjudicación de nuevas oficinas de farmacia.
+
+#### Artículo 96. Devengo.
+
+La tasa se devengará cuando se presente la solicitud de participación en la convocatoria de concurso público para la adjudicación de nuevas oficinas de farmacia, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+### CAPÍTULO V — Tasa por solicitud de licencia de funcionamiento para la fabricación de productos sanitarios a medida
+
+#### Artículo 97. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de la solicitud de licencia de funcionamiento para la fabricación de productos sanitarios a medida, así como de las solicitudes de modificación y de revalidación de la licencia.
+
+#### Artículo 98. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la prestación de los servicios o actividades administrativas que constituyen el hecho imponible.
+
+#### Artículo 99. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+| 1. | Solicitud de concesión de la licencia de funcionamiento. | 150 euros. |
+|---|---|---|
+| 2. | Solicitud de modificación de las instalaciones. | 150 euros. |
+| 3. | Solicitud de revalidación de la licencia de funcionamiento. | 60 euros. |
+| 4. | Solicitud de restantes modificaciones. | 60 euros. |
+
+#### Artículo 100. Devengo.
+
+La tasa se devengará cuando se presente la solicitud de las actuaciones administrativas, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+### CAPÍTULO VI — Tasa por evaluación de ensayos clínicos y estudios de postautorización observacionales
+
+#### Artículo 101. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la evaluación de ensayos clínicos y de estudios postautorización observacionales para medicamentos de uso humano y de productos sanitarios, así como la tramitación de las solicitudes de ampliación de centros y modificaciones mayores de los protocolos ya evaluados de los citados ensayos y estudios.
+
+#### Artículo 102. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la prestación de los servicios o actividades administrativas que constituyen el hecho imponible.
+
+#### Artículo 103. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+| 1. | Evaluación de ensayos clínicos. | 1.982,86 euros. |
+|---|---|---|
+| 2. | Evaluación de estudios postautorización observacionales. | 1.487,14 euros. |
+| 3. | Solicitud de ampliación de centros, tanto para ensayos clínicos como para estudios postautorización. | 688,73 euros. |
+| 4. | Solicitud de modificaciones mayores de los protocolos ya evaluados. | 1.033,09 euros. |
+
+#### Artículo 104. Devengo.
+
+La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+#### Artículo 105. Beneficios fiscales.
+
+Estarán exentos del pago de la tasa los entes sin ánimo de lucro cuyos centros, servicios y establecimientos sanitarios integren el Sistema Sanitario Público de Andalucía conforme al artículo 45 de la Ley 2/1998, de 15 de junio, de Salud de Andalucía, y las entidades que realicen investigación clínica sin ánimo comercial, siendo necesario en ambos casos el informe favorable del Comité Coordinador de Ética de la Investigación Biomédica de Andalucía.
+
+### CAPÍTULO VII — Tasa por acreditación de actividades de formación continuada de las profesiones sanitarias
+
+#### Artículo 106. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de las solicitudes de acreditación de las actividades de formación continuada de las profesiones sanitarias.
+
+#### Artículo 107. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, organizadoras de las actividades de formación continuada de las profesiones sanitarias, que soliciten la acreditación de las mismas.
+
+#### Artículo 108. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+| 1. | Por actividad formativa de tipo presencial. | 132,58 euros. |
+|---|---|---|
+| 2. | Por actividad formativa de tipo semipresencial. | 170,04 euros. |
+| 3. | Por actividad formativa a distancia. | 185,78 euros. |
+
+#### Artículo 109. Devengo.
+
+La tasa se devengará cuando se presente la solicitud de acreditación de las actividades formativas, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+#### Artículo 110. Beneficios fiscales.
+
+Estarán exentos del pago de la tasa los entes cuyos centros, servicios y establecimientos sanitarios integren el Sistema Sanitario Público de Andalucía, conforme a lo dispuesto en el artículo 45 de la Ley 2/1998, de 15 de junio, de Salud de Andalucía.
+
+### CAPÍTULO VIII — Tasa por las pruebas realizadas por la red de laboratorios de salud pública
+
+#### Artículo 111. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la realización, de oficio o a instancia de parte, de servicios de diagnóstico, análisis y dictámenes por los laboratorios de salud pública adscritos a la Consejería con competencias en materia de salud o entidades de ella dependientes, cuando su realización venga impuesta por las disposiciones normativas vigentes o de cualquier otro modo resulten obligatorias, y que se enumeran en el artículo 113.
+
+#### Artículo 112. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, a las que se presten los servicios objeto de esta tasa.
+
+#### Artículo 113. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Análisis físico-químico:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.</td>
+<td class="cuerpo_tabla_izq">Análisis de residuos por cromatografía de gases o similar.</td>
+<td class="cuerpo_tabla_izq">430,78 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.2.</td>
+<td class="cuerpo_tabla_izq">Análisis de residuos por cromatografía líquida o similar.</td>
+<td class="cuerpo_tabla_izq">527,95 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.3.</td>
+<td class="cuerpo_tabla_izq">Análisis de alérgeno en alimentos (por alérgeno).</td>
+<td class="cuerpo_tabla_izq">123,08 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.4.</td>
+<td class="cuerpo_tabla_izq">Análisis de micotoxinas (por micotoxinas).</td>
+<td class="cuerpo_tabla_izq">123,08 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.5.</td>
+<td class="cuerpo_tabla_izq">Análisis de histamina por HPLC.</td>
+<td class="cuerpo_tabla_izq">181,38 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.6.</td>
+<td class="cuerpo_tabla_izq">Análisis de gluten en alimentos.</td>
+<td class="cuerpo_tabla_izq">172,63 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.7.</td>
+<td class="cuerpo_tabla_izq">Metales pesados en alimentos.</td>
+<td class="cuerpo_tabla_izq">177,17 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.8.</td>
+<td class="cuerpo_tabla_izq">Aditivos en alimentos mediante cromatografía.</td>
+<td class="cuerpo_tabla_izq">181,38 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.9.</td>
+<td class="cuerpo_tabla_izq">Análisis por cromatografía líquida con detector de fluorescencia.</td>
+<td class="cuerpo_tabla_izq">430,78 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.10.</td>
+<td class="cuerpo_tabla_izq">Análisis de residuos de sustancias prohibidas (PNIR) por cromatografía.</td>
+<td class="cuerpo_tabla_izq">177,17 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.11.</td>
+<td class="cuerpo_tabla_izq">Detección de nitratos/nitritos por cromatografía iónica.</td>
+<td class="cuerpo_tabla_izq">181,38 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Análisis microbiológico:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.1.</td>
+<td class="cuerpo_tabla_izq">Detección de germen en alimento.</td>
+<td class="cuerpo_tabla_izq">54,09 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.2.</td>
+<td class="cuerpo_tabla_izq">Recuento de germen en alimento.</td>
+<td class="cuerpo_tabla_izq">54,09 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.3.</td>
+<td class="cuerpo_tabla_izq">Determinación de inhibidores del crecimiento bacteriano en leche.</td>
+<td class="cuerpo_tabla_izq">107,85 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.4.</td>
+<td class="cuerpo_tabla_izq">Recuento de legionella.</td>
+<td class="cuerpo_tabla_izq">159,68 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.5.</td>
+<td class="cuerpo_tabla_izq">Recuento de germen en agua de consumo.</td>
+<td class="cuerpo_tabla_izq">54,09 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.6.</td>
+<td class="cuerpo_tabla_izq">Recuento de germen en agua de baño.</td>
+<td class="cuerpo_tabla_izq">54,09 euros.</td>
+</tr>
+</tbody>
+</table>
+
+#### Artículo 114. Devengo.
+
+La tasa se devengará cuando se presente la solicitud para la prestación del servicio o cuando este se realice, si se ejecuta de oficio por la Administración.
+
+## TÍTULO VIII — Tasas en materia de educación
+
+### CAPÍTULO I — Tasa por expedición de títulos académicos y profesionales no universitarios en materia de educación
+
+#### Artículo 115. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la expedición de los títulos, académicos y profesionales, así como de sus duplicados, que se enumeran en el artículo 117.
+
+#### Artículo 116. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas que soliciten la expedición de los títulos, así como sus duplicados.
+
+#### Artículo 117. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="3%">
+<col>
+<col>
+<col>
+<col width="15%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Bachillerato:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">1.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Título de Bachiller.</td>
+<td class="cuerpo_tabla_centro">57,19 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Formación Profesional Específica:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">2.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Título de técnico/a.</td>
+<td class="cuerpo_tabla_centro">23,29 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">2.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Título de técnico/a superior.</td>
+<td class="cuerpo_tabla_centro">57,19 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">2.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Título de especialista</td>
+<td class="cuerpo_tabla_centro">21,00 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">2.4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Título de Máster de Formación Profesional</td>
+<td class="cuerpo_tabla_centro">42,00 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Enseñanzas Artísticas:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">3.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Música y Danza:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">3.1.1.</td>
+<td class="cuerpo_tabla_izq">Título Elemental.</td>
+<td class="cuerpo_tabla_centro">22,77 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">3.1.2.</td>
+<td class="cuerpo_tabla_izq">Título Profesional.</td>
+<td class="cuerpo_tabla_centro">27,46 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">3.1.3.</td>
+<td class="cuerpo_tabla_izq">Título Superior.</td>
+<td class="cuerpo_tabla_centro">125,84 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">3.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Artes Plásticas y Diseño:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">3.2.1.</td>
+<td class="cuerpo_tabla_izq">Título de técnico/a.</td>
+<td class="cuerpo_tabla_centro">23,53 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">3.2.2.</td>
+<td class="cuerpo_tabla_izq">Título de técnico/a superior.</td>
+<td class="cuerpo_tabla_centro">62,95 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">3.2.3.</td>
+<td class="cuerpo_tabla_izq">Título Superior.</td>
+<td class="cuerpo_tabla_centro">125,84 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">3.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Arte Dramático:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">3.3.1.</td>
+<td class="cuerpo_tabla_izq">Título Superior.</td>
+<td class="cuerpo_tabla_centro">125,84 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">3.4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Conservación y restauración de bienes culturales:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">3.4.1.</td>
+<td class="cuerpo_tabla_izq">Título Superior.</td>
+<td class="cuerpo_tabla_centro">125,84 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">3.5.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Título de Máster en Enseñanzas Artísticas.</td>
+<td class="cuerpo_tabla_centro">134,21 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Enseñanzas de Deporte:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">4.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Título de técnico/a deportivo.</td>
+<td class="cuerpo_tabla_centro">23,29 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">4.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Título de técnico/a deportivo superior.</td>
+<td class="cuerpo_tabla_centro">56,07 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">5.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Enseñanzas de Idiomas:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">5.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Certificado de nivel básico (A1 y A2).</td>
+<td class="cuerpo_tabla_centro">27,46 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">5.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Certificado de nivel intermedio (B1 y B2).</td>
+<td class="cuerpo_tabla_centro">27,46 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">5.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Certificado de nivel avanzado (C1 y C2).</td>
+<td class="cuerpo_tabla_centro">27,46 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Duplicados de los títulos.</td>
+<td class="cuerpo_tabla_centro">Igual que los originales.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">7.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Títulos correspondientes a normativas anteriores del sistema educativo.</td>
+<td class="cuerpo_tabla_centro">Igual que los correspondientes al actual Sistema Educativo.</td>
+</tr>
+</tbody>
+</table>
+
+\* Importes actualizados a 2025.
+
+> Se modifica por la disposición final 6.4 de la Ley 7/2024, de 23 de diciembre. [Ref. BOE-A-2025-413](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-413)
+
+#### Artículo 118. Devengo.
+
+La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+#### Artículo 119. Beneficios fiscales.
+
+1\. Estarán exentos del pago de la tasa los siguientes solicitantes que tengan reconocida su condición, siempre que quede acreditado de conformidad con la normativa aplicable:
+
+a) El alumnado miembro de familias numerosas de la categoría especial.
+
+b) El alumnado que, como consecuencia de actos terroristas, haya sufrido daños personales que sean de especial trascendencia, o que lo inhabiliten para el ejercicio de su profesión habitual, o cuyos familiares hasta segundo grado de consanguinidad, tutores o guardadores, hayan sufrido dichos daños.
+
+c) Las víctimas de violencia de género, doméstica o de ambas.
+
+A estos efectos, tendrán la consideración de víctima de violencia doméstica las personas a que se refiere el artículo 173.2 de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, que cuenten con orden de protección en vigor e inscrita en el Registro Central para la Protección de las Víctimas de la Violencia Doméstica, o con sentencia judicial firme por tal motivo en los últimos diez años.
+
+d) Las personas con discapacidad, en un grado igual o superior al 33%.
+
+e) Las personas beneficiarias de la prestación del ingreso mínimo vital a quienes se reconozca dicha condición de conformidad con lo dispuesto en la Ley 19/2021, de 20 de diciembre, por la que se establece el ingreso mínimo vital, o norma que la sustituya, las beneficiarias de la Renta Mínima de Inserción Social en Andalucía, a quienes se reconozca dicha condición de acuerdo con lo dispuesto en el Decreto-ley 3/2017, de 19 de diciembre, por el que se regula la Renta Mínima de Inserción Social en Andalucía, o norma que lo sustituya, o las beneficiarias de ambas prestaciones.
+
+2\. Tendrá derecho a una bonificación del 50% el alumnado miembro de familias numerosas de la categoría general que tenga reconocida su condición, siempre que quede acreditado de conformidad con la normativa aplicable.
+
+3\. Las condiciones exigidas en los apartados 1 y 2 deberán concurrir a la fecha del devengo de la tasa. La presentación de la solicitud conllevará la autorización al órgano gestor para que pueda recabar dicha información.
+
+### CAPÍTULO II — Tasa por los servicios académicos y administrativos de las Escuelas Oficiales de Idiomas
+
+#### Artículo 120. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de servicios académicos con motivo de la actividad docente desarrollada por las Escuelas Oficiales de Idiomas, la apertura de expediente, así como la prestación de servicios generales, que son aquellos servicios administrativos distintos a la apertura de expediente que se prestan al alumnado matriculado en una Escuela Oficial de Idiomas durante el curso académico.
+
+#### Artículo 121. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas que soliciten la prestación de los servicios.
+
+#### Artículo 122. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Alumnado matriculado en régimen de enseñanza oficial:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.</td>
+<td class="cuerpo_tabla_izq">Apertura de expediente.</td>
+<td class="cuerpo_tabla_izq">21,08 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.2.</td>
+<td class="cuerpo_tabla_izq">Matrícula por idioma.</td>
+<td class="cuerpo_tabla_izq">47,20 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.3.</td>
+<td class="cuerpo_tabla_izq">Servicios generales.</td>
+<td class="cuerpo_tabla_izq">8,43 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Alumnado matriculado en régimen de enseñanza libre:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.1.</td>
+<td class="cuerpo_tabla_izq">Apertura de expediente.</td>
+<td class="cuerpo_tabla_izq">21,08 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.2.</td>
+<td class="cuerpo_tabla_izq">Derechos de examen. Por cada idioma.</td>
+<td class="cuerpo_tabla_izq">47,20 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.3.</td>
+<td class="cuerpo_tabla_izq">Servicios generales.</td>
+<td class="cuerpo_tabla_izq">8,43 euros.</td>
+</tr>
+</tbody>
+</table>
+
+#### Artículo 123. Devengo.
+
+La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.
+
+La cuota correspondiente a la apertura de expediente se devengará la primera vez que se efectúe la matrícula en una Escuela Oficial de Idiomas de la Comunidad Autónoma de Andalucía.
+
+La cuota correspondiente a los servicios generales se devengará una vez por curso académico, con independencia del número de matrículas que se formalicen para cursar diferentes idiomas o cursos de actualización, perfeccionamiento y especialización. No obstante, se producirá el devengo de la cuota por cada régimen, oficial o libre, en que se matricule el alumnado durante el curso académico.
+
+#### Artículo 124. Beneficios fiscales.
+
+1\. Estarán exentos del pago de la tasa los siguientes solicitantes que tengan reconocida su condición, siempre que quede acreditado de conformidad con la normativa aplicable:
+
+a) El alumnado miembro de familias numerosas de la categoría especial.
+
+b) El alumnado que, como consecuencia de actos terroristas, haya sufrido daños personales que sean de especial trascendencia, o que lo inhabiliten para el ejercicio de su profesión habitual, o cuyos familiares hasta segundo grado de consanguinidad, tutores o guardadores, hayan sufrido dichos daños.
+
+c) Las víctimas de violencia de género, doméstica o de ambas.
+
+A estos efectos, tendrán la consideración de víctima de violencia doméstica o intrafamiliar las personas a que se refiere el artículo 173.2 de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, que cuenten con orden de protección en vigor e inscrita en el Registro Central para la Protección de las Víctimas de la Violencia Doméstica, o con sentencia judicial firme por tal motivo en los últimos diez años.
+
+d) El alumnado que resulte beneficiario de las becas incluidas en la convocatoria general de becas y ayudas al estudio que se realice cada curso escolar.
+
+El alumnado solicitante de dichas becas y ayudas podrá formalizar la matrícula condicionalmente sin el previo pago de las tasas establecidas, acreditando esta circunstancia con la documentación justificativa. Una vez resuelta la convocatoria de becas o ayudas, quienes hayan resultado beneficiarios de las mismas deberán presentar la resolución de concesión en la Secretaría del centro. Si la solicitud resultase denegada o, una vez concedida la beca, fuese revocada, habrán de satisfacer las tasas establecidas en el plazo de treinta días a partir de la notificación de la resolución denegatoria o de revocación, sin que sea necesario requerimiento previo de la Administración, lo que se advertirá en el formulario de la matrícula, en el que se hará constar también que el impago de las tasas supondrá el desistimiento de la matrícula solicitada para todas las materias, asignaturas o disciplinas, en los términos previstos por la legislación vigente.
+
+En el caso de que, una vez finalizado el curso escolar, no se hubiese notificado la concesión de la beca, se deberán abonar las tasas correspondientes, sin perjuicio de la devolución del importe de las mismas a partir de la fecha en que se acreditase la condición de beneficiario de la beca.
+
+e) Las personas con discapacidad, en un grado igual o superior al 33%.
+
+2\. Tendrá derecho a una bonificación del 50% el alumnado miembro de familias numerosas de la categoría general que tenga reconocida su condición, siempre que quede acreditado de conformidad con la normativa aplicable.
+
+3\. Las condiciones exigidas en los apartados 1 y 2 deberán concurrir a la fecha del devengo de la tasa. La presentación de la solicitud conllevará la autorización al órgano gestor para que pueda recabar dicha información.
+
+## TÍTULO IX — Tasas en materia de cultura
+
+### CAPÍTULO I — Tasa por servicios prestados por el Registro Territorial de la Propiedad Intelectual de la Comunidad Autónoma de Andalucía
+
+#### Artículo 125. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación, por los órganos correspondientes de la Consejería competente en materia de cultura, de los siguientes servicios:
+
+a) La tramitación de la solicitud de inscripción de obras solicitada por el autor como titular de los derechos.
+
+b) La tramitación de la solicitud de inscripción de obras colectivas.
+
+c) La tramitación de la solicitud de inscripción de la transmisión «inter vivos» y «mortis causa» de la titularidad de los derechos de explotación, de la transmisión de los derechos del autor asalariado y de la transmisión de los derechos de autor en los casos previstos en la normativa aplicable en materia publicitaria.
+
+d) La expedición de certificados, de notas simples y de copias certificadas de documentos.
+
+e) La tramitación de la solicitud de anotaciones preventivas y de cancelaciones.
+
+f) La tramitación de la solicitud de traslado de asientos.
+
+#### Artículo 126. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la prestación de los servicios o la realización de las actividades administrativas que constituyen el hecho imponible.
+
+#### Artículo 127. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por la tramitación de la solicitud de inscripción, siendo autor y titular de los derechos la misma persona, por cada creación original.</td>
+<td class="cuerpo_tabla_izq">15 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por la tramitación de la solicitud de inscripción de obras colectivas.</td>
+<td class="cuerpo_tabla_izq">185 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por la tramitación de la solicitud de inscripción de la transmisión «inter vivos» de la titularidad de los derechos de explotación.</td>
+<td class="cuerpo_tabla_izq">185 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por la tramitación de la solicitud de inscripción de la transmisión de derechos de autor de trabajadores asalariados y de la transmisión de derechos de autor en los casos previstos en la normativa aplicable en materia publicitaria.</td>
+<td class="cuerpo_tabla_izq">108 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">5.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por la tramitación de la solicitud de inscripción de la transmisión «mortis causa» de la titularidad de los derechos de explotación.</td>
+<td class="cuerpo_tabla_izq">73 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por expedición de certificados.</td>
+<td class="cuerpo_tabla_izq">12 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">7.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por expedición de notas simples.</td>
+<td class="cuerpo_tabla_izq">7 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">8.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por expedición de copia certificada de documentos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">8.1.</td>
+<td class="cuerpo_tabla_izq">En soporte papel, cada página.</td>
+<td class="cuerpo_tabla_izq">7 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">8.2.</td>
+<td class="cuerpo_tabla_izq">En soporte distinto al papel (cada página y soporte).</td>
+<td class="cuerpo_tabla_izq">5 euros/página 2 euros/soporte.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">9.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por la tramitación de la solicitud de anotaciones preventivas y cancelaciones.</td>
+<td class="cuerpo_tabla_izq">37 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">10.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por la tramitación de solicitud de traslado de asientos. Por cada asiento.</td>
+<td class="cuerpo_tabla_izq">37 euros.</td>
+</tr>
+</tbody>
+</table>
+
+#### Artículo 128. Devengo.
+
+La tasa se devengará cuando se presente la solicitud de inscripción, anotación preventiva, cancelación o traslado de asientos, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+### CAPÍTULO II — Tasa por utilización o usos especiales de espacios en instituciones culturales gestionadas por la Comunidad Autónoma de Andalucía*
+
+*Véase, en cuanto a la aplicación de esta tasa, arts. 129-133, lo establecido en la disposición final 5.b) de la presente norma.
+
+#### Artículo 129. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la utilización o el uso especial destinado a la realización de actividades culturales, institucionales, sociales o similares en instituciones culturales gestionadas por la Comunidad Autónoma de Andalucía que se hallen adscritas a la Consejería competente en materia de cultura o a las entidades dependientes de la misma.
+
+#### Artículo 130. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la utilización o uso especial que constituye el hecho imponible.
+
+#### Artículo 131. Cuota tributaria.
+
+1\. El importe de la tasa se calculará multiplicando la cuantía base por los coeficientes correctores que sean aplicables.
+
+2\. La cuantía base vendrá determinada por el valor de la hora o fracción asignado a la cesión de los espacios en función de la relevancia de la institución, del espacio efectivamente ocupado del mismo y de la duración del acto o actividad.
+
+3\. Los coeficientes correctores aplicables serán los correspondientes a los siguientes elementos de ponderación:
+
+a) El predominio de los fines culturales del acto sobre cualquier otro que pudiera concurrir.
+
+b) El predominio de los fines lucrativos o comerciales del acto sobre cualquier otro que pudiera concurrir.
+
+c) La incidencia en la difusión pública de los valores culturales de la institución y la conexión del acto o actividad con los fines propios de la institución.
+
+d) La incidencia en el desarrollo de la actividad ordinaria del centro y en los costes directos o indirectos de mantenimiento y funcionamiento del mismo.
+
+4\. El establecimiento y modificación del valor de la hora o fracción de uso y del valor de los coeficientes correctores a que se refieren los apartados anteriores, respectivamente, así como las condiciones de liquidación, se establecerán mediante Orden conjunta de las personas titulares de las Consejerías competentes en materia tributaria y cultural.
+
+5\. En ningún caso los actos o actividades solicitados podrán afectar a la conservación y seguridad de los bienes muebles e inmuebles patrimoniales que conforman la institución, así como interferir en el desarrollo de las funciones que le son propias.
+
+#### Artículo 132. Devengo.
+
+La tasa se devengará cuando el órgano gestor notifique la resolución de aceptación de la solicitud de utilización de los espacios, en la que se indicará el plazo y forma en que deberá satisfacerse el pago. Los efectos de la resolución quedarán condicionados al pago efectivo de la tasa, que, en todo caso, deberá ser previo al uso o utilización del espacio.
+
+#### Artículo 133. Beneficios fiscales.
+
+1\. Estarán exentas del pago de la tasa:
+
+a) Las actividades organizadas o promovidas por la Administración de la Junta de Andalucía, sus agencias administrativas y de régimen especial, y las agencias públicas empresariales a que se refiere el artículo 68.1 b) de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, bien de manera directa o en colaboración con otras administraciones públicas, instituciones o entidades públicas o privadas.
+
+b) Las actividades culturales, científicas o de investigación, organizadas o promovidas por las universidades de Andalucía, por las academias integradas en el Instituto de Academias de Andalucía y por las asociaciones de amigos de los museos, siempre que, en este último supuesto, se realicen en sus respectivos museos de referencia.
+
+c) Las actividades de rodajes o filmaciones que lleven a cabo las entidades, tanto públicas como privadas, en los siguientes supuestos:
+
+1.º Las realizadas por los medios de comunicación social, con la finalidad exclusiva de ofrecer una información general al público.
+
+2.º Aquellas en las que una parte significativa de su metraje discurra en la localidad donde radique la institución cultural, de forma que tanto la localidad como la institución resulten promocionadas en el exterior por sus valores culturales, patrimoniales o etnológicos.
+
+3.º Documentales con finalidad exclusivamente informativa o benéfica.
+
+4.º Cortometrajes realizados por el alumnado de escuelas o academias de cine andaluzas, siempre que contribuyan a la difusión pública de los valores culturales de la institución y estén relacionados con los fines propios de la misma.
+
+d) Aquellas actividades que no lleven aparejada utilidad económica ni tengan un fin comercial y cuyos objetivos sean coherentes con los fines propios de la institución, siempre que conlleven una inequívoca promoción y difusión exterior de los valores culturales, patrimoniales o etnológicos de la institución en cuestión.
+
+2\. Las exenciones se concederán a solicitud de la entidad interesada, que deberá acreditar los requisitos indicados anteriormente, dentro del procedimiento que, para la autorización de la utilización o usos especiales de espacios en instituciones culturales gestionadas por la Comunidad Autónoma de Andalucía, se regulará en la Orden conjunta contemplada en el artículo 131.4.
+
+## TÍTULO X — Tasa en materia de ordenación del territorio
+
+### CAPÍTULO ÚNICO — Tasa por expedición de copias y certificaciones de documentos depositados en los registros previstos en la Ley de Impulso para la Sostenibilidad del Territorio de Andalucía
+
+#### Artículo 134. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la expedición de copias autenticadas o certificaciones de documentos depositados en los registros públicos de la Junta de Andalucía previstos en la Ley 7/2021, de 1 de diciembre, de Impulso para la Sostenibilidad del Territorio de Andalucía, o norma que la sustituya.
+
+#### Artículo 135. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la expedición de copias autenticadas o certificaciones de los documentos depositados en los registros públicos de la Junta de Andalucía previstos en la Ley 7/2021, de 1 de diciembre, o norma que la sustituya.
+
+#### Artículo 136. Cuota tributaria.
+
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+| Por cada fotocopia en b/n (DIN A4). | 0,08 euros/página. |
+|---|---|
+| Por cada fotocopia en b/n (DIN A3). | 0,10 euros/página. |
+| Por cada fotocopia en color (DIN A4). | 0,30 euros/página. |
+| Por cada fotocopia en color (DIN A3). | 0,63 euros/página. |
+| Por cada m² de plano en b/n. | 1,05 euros. |
+| Por cada m² de plano en color. | 2,75 euros. |
+| Por cada DVD-R o DVD+R. | 1,54 euros. |
+| Por cada DVD RW. | 2,19 euros. |
+| Por cada envío local. | 5,86 euros de tarifa adicional. |
+| Por cada envío nacional. | 11,02 euros de tarifa adicional. |
+| Por cada envío internacional. | 16,22 euros de tarifa adicional. |
+
+#### Artículo 137. Devengo.
+
+La tasa se devengará en el momento de la solicitud de la expedición de las copias autenticadas o certificaciones. No obstante, el ingreso de su importe será previo a la presentación de la solicitud, no pudiendo tramitarse la misma sin que se haya efectuado el pago de la tasa.
+
+#### Artículo 138. Beneficios fiscales.
+
+1\. Estarán exentas del pago de la tasa las personas beneficiarias de la prestación del ingreso mínimo vital a quienes se reconozca dicha condición de conformidad con lo dispuesto en la Ley 19/2021, de 20 de diciembre, por la que se establece el ingreso mínimo vital, o norma que la sustituya, las beneficiarias de la Renta Mínima de Inserción Social en Andalucía, a quienes se reconozca dicha condición de acuerdo con lo dispuesto en el Decreto-ley 3/2017, de 19 de diciembre, por el que se regula la Renta Mínima de Inserción Social en Andalucía, o norma que lo sustituya, o las beneficiarias de ambas prestaciones.
+
+2\. Las condiciones establecidas en el apartado 1 deberán concurrir a la fecha del devengo de la tasa. La presentación de la solicitud conllevará la autorización al órgano gestor para que pueda recabar dicha información.
+
+## TÍTULO XI — Tasas en materia de vías pecuarias
+
+### CAPÍTULO I — Tasa por ocupación en vías pecuarias
+
+#### Artículo 139. Hecho imponible.
+
+Constituyen el hecho imponible de la tasa las nuevas ocupaciones de terrenos de vías pecuarias que se realicen por autorizaciones y concesiones, de acuerdo con las disposiciones específicas de aplicación.
+
+#### Artículo 140. Sujetos pasivos.
+
+Son sujetos pasivos de la tasa las personas titulares de las autorizaciones o concesiones antes mencionadas o personas que se subroguen.
+
+#### Artículo 141. Cuota tributaria.
+
+1\. La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="83%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Ocupaciones de terrenos para actividades agrícolas, industriales y de servicios:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq">Ocupaciones hasta 1 hectárea (por m² y año).</td>
+<td class="cuerpo_tabla_izq">0,0384 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq">Ocupaciones entre 1 y 10 hectáreas (por m² y año).</td>
+<td class="cuerpo_tabla_izq">0,384 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3.</td>
+<td class="cuerpo_tabla_izq">Ocupaciones de más de 10 hectáreas (por m² y año).</td>
+<td class="cuerpo_tabla_izq">3,84 euros.</td>
+</tr>
+</tbody>
+</table>
+
+2\. Cuando el importe de la tasa en un período de ocupación de diez años sea inferior a 15 euros, se podrá tramitar anticipadamente el cobro de la misma en una única cuota.
+
+3\. En todos los casos la cuota se exigirá en proporción al período temporal de la ocupación.
+
+4\. En las ocupaciones y aprovechamientos de bienes del dominio público para el despliegue de infraestructuras lineales de telecomunicaciones, la superficie para el cálculo de la tasa, cuando corresponda, vendrá determinada por el ancho y longitud efectivos del trazado.
+
+#### Artículo 142. Devengo.
+
+1\. La tasa se devengará en el momento de la notificación de la resolución de autorización o concesión a que se refiere el hecho imponible con respecto a la anualidad en curso, efectuándose el pago en el plazo que establezca la misma.
+
+2\. En las sucesivas anualidades de vigencia de la autorización o concesión, el devengo de la tasa se producirá el 1 de enero de cada año, siendo exigible en la cuantía que sea procedente y en los plazos y en las condiciones que se señalen en la autorización o concesión.
+
+#### Artículo 143. Beneficios fiscales.
+
+1\. Estarán exentas del pago de la tasa las ocupaciones para el despliegue de infraestructuras de telecomunicaciones que permitan ofrecer servicios de conectividad de al menos 100 Mbps por usuario en las zonas blancas y grises definidas en el mapa de cobertura que publique anualmente la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales o, en su defecto, el órgano competente de la Junta de Andalucía durante los cinco primeros años desde el momento del devengo.
+
+2\. Tendrán derecho a una bonificación del 80% de la cuota tributaria las siguientes ocupaciones de terrenos:
+
+a) Aquellas con fines no empresariales y que no tengan el carácter de onerosas.
+
+b) Las solicitadas por explotaciones agrarias familiares. A estos efectos, se entiende por explotación agraria familiar aquella en la que los bienes y derechos que constituyen la explotación agraria son aportados en régimen de propiedad, arrendamiento o bajo cualquier título de uso o disfrute por uno o varios miembros de la unidad familiar que, además, gestionan y administran las decisiones y que además reúna las siguientes condiciones:
+
+1.º Que el titular desarrolle la actividad empresarial agraria como principal, asumiendo directamente el riesgo inherente a la misma.
+
+2.º Que los trabajos en la explotación sean realizados personalmente por el titular y su familia, sin que la aportación de mano de obra asalariada fija, en su caso, supere en cómputo anual a la familiar en jornadas efectivas.
+
+3.º Tendrán derecho a una bonificación del 50% los sujetos pasivos que incorporen y desarrollen en sus explotaciones políticas de responsabilidad social y medioambiental que atiendan a cualquiera de los objetivos señalados en el artículo 39.2 de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, siempre que lo acrediten mediante la certificación o calificación de responsabilidad social corporativa otorgada por una entidad independiente pública o privada debidamente acreditada. Esta bonificación será compatible con la establecida en el apartado anterior.
+
+### CAPÍTULO II — Tasa por servicios facultativos en materia de deslinde y modificación de trazados de vías pecuarias
+
+#### Artículo 144. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la realización de actividades administrativas en materia de deslindes y modificaciones de trazado previstas en la Ley 3/1995, de 23 de marzo, de Vías Pecuarias, cuando estas se realicen a solicitud de persona interesada y por interés particular.
+
+#### Artículo 145. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten el deslinde o modificación del trazado.
+
+#### Artículo 146. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+1\. Por deslinde: 3.926,71 euros/kilómetro o parte proporcional de vía pecuaria deslindada.
+
+2\. Por modificación del trazado: 1.627,84 euros/kilómetro o parte proporcional de vía pecuaria del nuevo trazado resultante.
+
+#### Artículo 147. Devengo.
+
+La tasa se devengará cuando se realice el deslinde o modificación del trazado solicitado. No obstante, el ingreso de su importe se efectuará con carácter previo al inicio del deslinde o modificación.
+
+#### Artículo 148. Beneficios fiscales.
+
+1\. Estarán exentas del pago de la tasa las corporaciones locales y las mancomunidades de municipios.
+
+2\. Tendrán derecho a una bonificación del 50 % las personas titulares de explotaciones que incorporen y desarrollen políticas de responsabilidad social y medioambiental que atiendan a cualquiera de los objetivos señalados en el artículo 39.2 de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, siempre que lo acrediten mediante la certificación o calificación de responsabilidad social corporativa otorgada por una entidad independiente pública o privada debidamente acreditada.
+
+> Se modifica el apartado 2 por la disposición final 12.4 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+### CAPÍTULO III — Tasa por suministro de información ambiental de vías pecuarias
+
+#### Artículo 149. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la reproducción y envío de documentos por la Administración de la Junta de Andalucía o sus entidades instrumentales, en cualquier soporte material, con información sobre vías pecuarias, disponibles en fondos documentales de la Administración de la Junta de Andalucía.
+
+2\. No estarán sujetos a la tasa el examen in situ de la información solicitada y el acceso a cualquier registro o lista que obre en poder de las autoridades públicas o en puntos de información.
+
+#### Artículo 150. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten el suministro de la información ambiental que constituye el hecho imponible.
+
+#### Artículo 151. Cuota tributaria.
+
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+| 1. | Por cada fotocopia en b/n (DIN A4). | 0,08 euros/página. |
+|---|---|---|
+| 2. | Por cada fotocopia en b/n (DIN A3). | 0,10 euros/página. |
+| 3. | Por cada fotocopia en color (DIN A4). | 0,30 euros/página. |
+| 4. | Por cada fotocopia en color (DIN A3). | 0,63 euros/página. |
+| 5. | Por cada m² de plano en b/n. | 1,05 euros. |
+| 6. | Por cada m² de plano en color. | 2,75 euros. |
+| 7. | Por cada DVD-R o DVD+R. | 1,53 euros. |
+| 8. | Por cada DVD RW. | 2,18 euros. |
+| 9. | Por cada envío local. | 5,75 euros de tarifa adicional. |
+| 10. | Por cada envío nacional. | 10,83 euros de tarifa adicional. |
+| 11. | Por cada envío internacional. | 15,93 euros de tarifa adicional. |
+
+#### Artículo 152. Devengo.
+
+La tasa se devengará cuando se presente la solicitud del suministro de información ambiental, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+#### Artículo 153. Beneficios fiscales.
+
+1\. Estarán exentos del pago de la tasa los suministros de información ambiental realizados entre entidades y órganos pertenecientes a la Administración de la Junta de Andalucía y sus agencias, así como los efectuados a entidades y órganos de otras Administraciones Públicas.
+
+2\. Tendrán derecho a una bonificación del 50 % las personas titulares de explotaciones que incorporen y desarrollen políticas de responsabilidad social y medioambiental que atiendan a cualquiera de los objetivos señalados en el artículo 39.2 de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, siempre que lo acrediten mediante la certificación o calificación de responsabilidad social corporativa otorgada por una entidad independiente pública o privada debidamente acreditada. Esta bonificación no será de aplicación a las tarifas adicionales por cada envío.
+
+> Se modifica el apartado 2 por la disposición final 12.5 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+## TÍTULO XII — Tasas en materia de medio ambiente
+
+### CAPÍTULO I — Tasa por servicios administrativos en materia de gestión del litoral
+
+#### Artículo 154. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la prestación de servicios o la realización de actividades administrativas, en materia de gestión del litoral, que se indican a continuación:
+
+a) La tramitación de solicitudes de autorizaciones, concesiones y sus correspondientes modificaciones o prórrogas.
+
+b) Trabajos facultativos de replanteo, comprobación, inspección y reconocimiento final en las obras que se realicen sobre el dominio público marítimo-terrestre.
+
+2\. Esta tasa será exigible con independencia de las que se devenguen por otras autorizaciones en materia ambiental.
+
+#### Artículo 155. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten, o a quienes se presten o realicen, los servicios y las actividades administrativas que constituyen el hecho imponible.
+
+#### Artículo 156. Cuota tributaria.
+
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+a) Por la tramitación de las solicitudes, la cuota se calculará según el siguiente método:
+
+1.º Para autorización de uso en zona de servidumbre de protección o su correspondiente modificación: 296,21 euros.
+
+2.º Para concesión, o su correspondiente modificación o prórroga, así como el resto de solicitudes de autorización de uso u ocupación del dominio público marítimo terrestre o su correspondiente modificación, la determinación de la cuantía de la tasa se obtendrá en función del presupuesto de ejecución material del proyecto de acuerdo con la siguiente fórmula y límites:
+
+Tasa tramitación =0,2 *P ⅔ (donde P es el presupuesto de ejecución material del proyecto en euros), siendo los valores mínimo y máximo de esta los siguientes:
+
+– Tasa mínima de tramitación: 296,21 euros.
+
+– Tasa máxima de tramitación: 2.495,44 euros.
+
+Según el caso, se entiende por «presupuesto de ejecución material del proyecto» lo siguiente:
+
+En el caso de que la solicitud tenga asociada la ejecución de unas obras o instalaciones fijas el «presupuesto de ejecución material del proyecto» será el indicado en el proyecto básico o constructivo.
+
+En el caso de que la solicitud lleve asociadas instalaciones desmontables o bienes muebles, el «presupuesto de ejecución material del proyecto» se calculará en base a los gastos de montaje y desmontaje de las mismas, sumado a su coste de amortización durante el periodo de ocupación solicitado.
+
+En el caso de que la solicitud no lleve asociada la ejecución de obras ni el montaje de instalaciones, y por tanto no lleve aparejado un presupuesto de ejecución real o un proyecto propiamente dicho, no será aplicable la fórmula anterior. En estos casos será exigible la tasa mínima de tramitación antes indicada.
+
+b) Por replanteo y comprobación de las obras que se realicen sobre el dominio público marítimo- terrestre, la cuota será el 50% de la que resulte por la tramitación de las solicitudes previstas en el apartado a).2.º de este artículo, siendo los valores mínimo y máximo de esta los siguientes:
+
+1.º Tasa mínima por replanteo y comprobación: 296,21 euros.
+
+2.º Tasa máxima por replanteo y comprobación: 1.247,72 euros.
+
+c) Por la inspección de obras que se realicen sobre el dominio público marítimo-terrestre, la cuota será el 20% de la que resulte por la tramitación de las solicitudes previstas en el apartado a). 2.º de este artículo, siendo los valores mínimo y máximo de esta los siguientes:
+
+1.º Tasa mínima por inspección: 296,21 euros.
+
+2.º Tasa máxima por inspección: 499,09 euros.
+
+d) Por el reconocimiento final de obras que se realicen sobre el dominio público marítimo-terrestre, la cuota será el 50% de la que resulte por la tramitación de las solicitudes previstas en el apartado a).2.º de este artículo, siendo los valores mínimo y máximo de esta los siguientes:
+
+1.º Tasa mínima por reconocimiento final: 296,21 euros.
+
+2.º Tasa máxima por reconocimiento final: 1.247,72 euros.
+
+#### Artículo 157. Devengo.
+
+1\. La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+2\. En los procedimientos iniciados de oficio, la tasa se devengará cuando se inicie la prestación del servicio o la realización de la actividad administrativa.
+
+#### Artículo 157 bis. Beneficios fiscales.
+
+1\. Estarán exentos del pago los sujetos pasivos que hayan solicitado las autorizaciones, así como sus correspondientes modificaciones o prórrogas, a que se refiere el artículo 154.1.a), que se encuentren integradas en la tramitación de una autorización ambiental integrada o autorización ambiental unificada.
+
+En dichos casos, se liquidará solo la tasa correspondiente, según proceda, por la tramitación o modificación de la correspondiente autorización ambiental integrada o autorización ambiental unificada.
+
+2\. Tendrán derecho a una bonificación del 50% de la cuota tributaria resultante, incluso cuando se trate de la tasa mínima, las solicitudes y trabajos facultativos realizados por personas físicas cuando:
+
+a) Ejerzan una actividad con fines no lucrativos o que no tenga el carácter de onerosa.
+
+b) Ejerzan una actividad económica o profesional a título lucrativo, de forma individual, sin trabajadores por cuenta ajena a su cargo.
+
+> Se modifica por el art. 81.4 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030)
+
+> Se añade por la disposición final 4.1 del Decreto-ley 2/2022, de 29 de marzo de 2022. [Ref. BOJA-b-2022-90095](https://www.boe.es/buscar/doc.php?id=BOJA-b-2022-90095)
+
+### CAPÍTULO II — Tasa por servicios administrativos de concesión de la etiqueta ecológica de la Unión Europea
+
+#### Artículo 158. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de la concesión de la etiqueta ecológica para un producto o servicio determinado.
+
+#### Artículo 159. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la prestación de los servicios o la realización de las actividades administrativas que constituyen el hecho imponible.
+
+#### Artículo 160. Cuota tributaria.
+
+1\. La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+| 1. | Por cada solicitud de concesión de la etiqueta ecológica solicitada por pequeñas y medianas empresas, y para los operadores en los países en desarrollo. | 330,98 euros. |
+|---|---|---|
+| 2. | Por cada solicitud de concesión de la etiqueta ecológica solicitada por microempresas. | 220,65 euros. |
+| 3. | Por solicitud no incluida en los apartados 1 o 2. | 441,31 euros. |
+
+2\. Los costes generados por las pruebas que pueden resultar necesarias en relación con los productos o servicios sujetos a solicitud de la etiqueta ecológica serán satisfechos por los solicitantes o titulares.
+
+A estos efectos se estará a la definición de microempresas, pequeñas y medianas empresas prevista en el artículo 2 del anexo I del Reglamento (UE) n.º 651/2014 de la Comisión, de 17 de junio de 2014, por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea.
+
+#### Artículo 161. Devengo.
+
+La tasa se devengará cuando se presente la solicitud que inicia la tramitación del procedimiento administrativo para la concesión de la etiqueta ecológica, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+#### Artículo 162. Beneficios fiscales.
+
+1\. La tasa por solicitud de concesión de la etiqueta ecológica será objeto de las siguientes reducciones:
+
+a) Reducción del 30%, para los solicitantes registrados en el sistema comunitario de gestión y auditoría medioambientales (EMAS), siempre que su alcance comprenda la fabricación de los productos o prestación del servicio para el/los que se solicita la etiqueta ecológica de la UE (EU Ecolabel).
+
+b) Reducción del 15%, para los solicitantes que dispongan de certificación conforme a la norma ISO 14001, siempre que su alcance comprenda la fabricación de los productos o prestación del servicio para los que se solicita la etiqueta ecológica de la UE.
+
+2\. Las reducciones estarán sujetas a la condición de que el solicitante se comprometa expresamente a mantener el registro en el sistema comunitario de gestión y auditoría medioambientales (EMAS) o la certificación conforme a la norma ISO 14001 durante el período de validez del contrato Ecolabel.
+
+3\. Las reducciones no serán acumulativas. Cuando se satisfagan ambos sistemas solo se aplicará la reducción más elevada.
+
+### CAPÍTULO III — Tasa por servicios administrativos de inscripción en el Registro de Entidades Colaboradoras de la Administración en materia de calidad ambiental
+
+#### Artículo 163. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de la declaración responsable para la habilitación de quienes deseen ejercer su actividad como entidades colaboradoras en materia de calidad ambiental en la Comunidad Autónoma de Andalucía, así como la ampliación de los ámbitos y/o actividades habilitadas.
+
+> Se modifica por la disposición final 12.6 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+#### Artículo 164. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la prestación de los servicios o la realización de las actividades administrativas que constituyen el hecho imponible.
+
+#### Artículo 165. Cuota tributaria.
+
+1\. El importe de la cuota tributaria para la habilitación e inscripción como entidad colaboradora mediante la presentación de la correspondiente declaración responsable es de 112,18 euros.
+
+2\. Cuando se solicite la ampliación de los ámbitos o actividades habilitadas, el importe de la cuota tributaria será de 55,98 euros por cada ámbito o actividad adicional.
+
+> Se modifica por la disposición final 12.7 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+#### Artículo 166. Devengo.
+
+La tasa se devengará cuando se presente la declaración responsable que inicie la actuación administrativa, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+> Se modifica por el art. 81.5 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030)
+
+### CAPÍTULO IV — Tasa por la prevención y control de la contaminación
+
+#### Artículo 167. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de las autorizaciones y la realización de actividades administrativas en relación con los servicios de inspección y facultativos, en materia de prevención y control de la contaminación.
+
+#### Artículo 168. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten o a quienes se presten los servicios o actividades administrativas que constituyen el hecho imponible.
+
+> Se modifica por el art. 81.6 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030)
+
+#### Artículo 169. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+<table class="tabla_ancha">
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">1.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Autorizaciones:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.1</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización ambiental integrada:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.1.1</td>
+<td class="cuerpo_tabla_izq">Tramitación de solicitudes de autorización.</td>
+<td class="cuerpo_tabla_izq">2.091,05 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.1.2</td>
+<td class="cuerpo_tabla_izq">Tramitación de solicitudes de modificación sustancial de la autorización.</td>
+<td class="cuerpo_tabla_izq">1.403,98 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq" colspan="2">Para las instalaciones encuadradas en la categoría 9.3 del Anejo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación, la cuota aplicable en cada caso será el 50% de la reflejada en los apartados anteriores.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.2</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización ambiental unificada:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.2.1</td>
+<td class="cuerpo_tabla_izq">Tramitación de solicitudes de autorización.</td>
+<td class="cuerpo_tabla_izq">1.672,98 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.2.2</td>
+<td class="cuerpo_tabla_izq">Tramitación de solicitudes de modificación sustancial de la autorización.</td>
+<td class="cuerpo_tabla_izq">1.115,50 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Para las instalaciones encuadradas en el grupo 1, epígrafe a), del Anexo I de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, la cuota aplicable en cada caso será el 50% de la reflejada en los apartados anteriores.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.2.bis</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización ambiental unificada simplificada:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.2.bis.1</td>
+<td class="cuerpo_tabla_izq" colspan="2">Tramitación de solicitudes de autorización simplificada.</td>
+<td class="cuerpo_tabla_izq">1.331,25 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.2.bis.2</td>
+<td class="cuerpo_tabla_izq" colspan="2">Tramitación de solicitudes de modificación sustancial de la autorización</td>
+<td class="cuerpo_tabla_izq">881,81 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq" colspan="2">Para las instalaciones encuadradas en el grupo 1, epígrafe f), del Anexo II de la Ley 21/2013, de 9 de diciembre, la cuota aplicable en cada caso será el 50% de la reflejada en los apartados anteriores.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.3</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorizaciones en materia de residuos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.3.1</td>
+<td class="cuerpo_tabla_izq">Instalaciones de gestión de residuos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Por tramitación de solicitudes de autorización de residuos peligrosos y/o no peligrosos.</td>
+<td class="cuerpo_tabla_izq">972,19 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Por tramitación de solicitudes de modificación de la autorización de residuos peligrosos y/o no peligrosos.</td>
+<td class="cuerpo_tabla_izq">177,84 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Se exime del abono de dichas tasas a las entidades locales o a sus entes instrumentales que sean titulares de instalaciones ubicadas íntegramente en su propio municipio y dedicadas exclusivamente a la gestión de los residuos cuya competencia tiene atribuida la Administración Local conforme al artículo 9.1 del Reglamento de Residuos de Andalucía, aprobado por Decreto 73/2012, de 20 de marzo, en lo relativo a la autorización o modificación de las mismas.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.3.2</td>
+<td class="cuerpo_tabla_izq">Gestión de residuos mediante plantas o medios no vinculados a instalación fija.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Por tramitación de solicitudes de autorización de residuos peligrosos y/o no peligrosos.</td>
+<td class="cuerpo_tabla_izq">543,97 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Por tramitación de solicitudes de modificación de la autorización de residuos peligrosos y/o no peligrosos.</td>
+<td class="cuerpo_tabla_izq">177,84 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.3.3</td>
+<td class="cuerpo_tabla_izq">Sistemas colectivos de responsabilidad ampliada de productor:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Por tramitación de solicitudes de autorización.</td>
+<td class="cuerpo_tabla_izq">1.939,07 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Por renovación de la autorización.</td>
+<td class="cuerpo_tabla_izq">1.077,41 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Por modificación de la autorización.</td>
+<td class="cuerpo_tabla_izq">538,70 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.3.4</td>
+<td class="cuerpo_tabla_izq">Tratamiento de residuos distintos a los establecidos en el Catálogo de Residuos de Andalucía: por tramitación de solicitudes de autorización.</td>
+<td class="cuerpo_tabla_izq">538,70 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.3.5</td>
+<td class="cuerpo_tabla_izq">Depósito directo de residuos en vertederos, que no hayan sido sometidos previamente a una operación de valorización: por tramitación de solicitudes de autorización.</td>
+<td class="cuerpo_tabla_izq">538,70 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.3.6</td>
+<td class="cuerpo_tabla_izq">Autorización de traslados de residuos desde o hacia otros países de la Unión Europea: por tramitación de solicitudes de autorización.</td>
+<td class="cuerpo_tabla_izq">539,70 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.4</td>
+<td class="cuerpo_tabla_izq" colspan="2">Autorización de emisiones a la atmósfera:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.4.1</td>
+<td class="cuerpo_tabla_izq">Tramitación de solicitudes de autorización.</td>
+<td class="cuerpo_tabla_izq">441,31 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">1.4.2</td>
+<td class="cuerpo_tabla_izq">Por modificación sustancial de la autorización.</td>
+<td class="cuerpo_tabla_izq">441,31 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td class="cuerpo_tabla_izq">Quedan excluidas de esta tasa las autorizaciones de emisión de gases efecto invernadero.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="89%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Servicios de inspección y facultativos:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2.1.</td>
+<td class="cuerpo_tabla_izq">Inspecciones en materia de protección ambiental:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">La siguiente fórmula será aplicable a todas las inspecciones realizadas a instalaciones sometidas a las autorizaciones ambientales a las que hacen referencia los artículos 20, 27, y 56 de la Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental o las ejecutadas en función de la legislación vigente.</p>
+<p class="cuerpo_tabla_izq">Cuota (euros) = K<sub>i</sub> + M<sub>em</sub>+ M<sub>inm</sub> + M<sub>rui</sub> + M<sub>aguas</sub> + M<sub>suelos</sub> +M<sub>res</sub> </p>
+<p class="cuerpo_tabla_izq">Donde: </p>
+<p class="cuerpo_tabla_izq">K<sub>i</sub> = valor de la tabla 1 del Anexo final de este artículo, incluye la preparación de listas de chequeo, requerimientos documentales, análisis de datos, elaboración de informe y en su caso visita a la instalación.</p>
+<p class="cuerpo_tabla_izq">Para las actuaciones encuadradas en las categorías 1.2, 1.4, 2.1, 4.1, 4.2, 5.2, 5.5, 5.7 y 14.1 del Anejo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, el valor de K<sub>i </sub>será el 150 % del valor indicado en la tabla.</p>
+<p class="cuerpo_tabla_izq">Para las actuaciones encuadradas en la categoría 9.3 del Anejo I Real Decreto Legislativo 1/2016, de 16 de diciembre; en el grupo 1, epígrafe a) del Anexo I de la Ley 21/2013, de 9 de diciembre y en el grupo 1, epígrafe f), del Anexo II de la Ley 21/2013, de 9 de diciembre, el valor de K<sub>i</sub> será el 50 % del valor indicado en la tabla.</p>
+<p class="cuerpo_tabla_izq">
+<img class="frame" height="121" src="/datos/imagenes/disp/2024/34/90030_14100742_image1.png" width="354">
+</p>
+<p class="cuerpo_tabla_izq">C1<sub>i</sub> = 0,35·n + 0,65; siendo n el número de focos inspeccionados (conforme a M<sub>em i</sub>) para n≥1; C1<sub>i</sub> = 0 para n=0.</p>
+<p class="cuerpo_tabla_izq">M<sub>inm</sub>= C2·M<sub>i</sub>.</p>
+<p class="cuerpo_tabla_izq">C2 = Número de actuaciones realizadas del tipo M<sub>i</sub>.</p>
+<p class="cuerpo_tabla_izq">M<sub>rui</sub>= C3·M<sub>r</sub>.</p>
+<p class="cuerpo_tabla_izq">C3 = Número de actuaciones realizadas del tipo M<sub>r</sub>.</p>
+<p class="cuerpo_tabla_izq">
+<img class="frame" height="126" src="/datos/imagenes/disp/2024/34/90030_14100742_image2.png" width="411">
+</p>
+<p class="cuerpo_tabla_izq">C4<sub>i</sub> = 0,35·m + 0,65; siendo m el número de actuaciones (conforme a M<sub>ag i</sub>) para m≥1; C4<sub>i</sub> = 0 para m=0.</p>
+<p class="cuerpo_tabla_izq">
+<img class="frame" height="120" src="/datos/imagenes/disp/2024/34/90030_14100742_image3.png" width="368">
+</p>
+<p class="cuerpo_tabla_izq">C5<sub>i</sub> = 0,35·s + 0,65; siendo s el número de actuaciones (conforme a M<sub>s i</sub>) para s≥1; C5<sub>i</sub> = 0 para s=0.</p>
+<p class="cuerpo_tabla_izq">
+<img class="frame" height="126" src="/datos/imagenes/disp/2024/34/90030_14100742_image4.png" width="369">
+</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">C6<sub>i</sub> = 0,35·r + 0,65; siendo r el número de actuaciones (conforme a M<sub>res i</sub>) para r≥1; C6<sub>i</sub> = 0 para r=0.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">La descripción de los tipos de inspecciones y de trabajos de muestreo y análisis M<sub>emi</sub>, M<sub>i</sub>, M<sub>r,</sub> M<sub>agi</sub>, M<sub>si</sub>, M<sub>resi</sub>, y su valoración, figura en las tablas 1 y 2 del Anexo final de este artículo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Se liquidarán aquellos trabajos ejecutados y que además sean necesarios para evaluar el cumplimiento de la normativa y autorizaciones correspondientes.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">La tasa se exigirá por cada inspección realizada en función de la normativa vigente. Como máximo se exigirá una vez por cada año natural, que corresponderá a la primera inspección realizada en dicho periodo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Para aquellas instalaciones que no estén en funcionamiento y hayan notificado a la Consejería competente en materia de medio ambiente el cese temporal o definitivo de su actividad, o ejecutado proyecto de desmantelamiento, se reducirá la tasa al 25 %.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Cuando en la inspección de la autorización ambiental se constate que no se han construido las instalaciones que darán lugar a la explotación de la actividad por la cual era necesaria dicha autorización ambiental, no se liquidará dicha tasa. La exención no será de aplicación si la instalación estuviera en funcionamiento, a pesar de no llegar a la capacidad que se haya autorizado en el instrumento de prevención ambiental.</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3"> </td>
+</tr>
+</tfoot>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="7%">
+<col width="70%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">2.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por servicios facultativos en materia de residuos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.2.1.</td>
+<td class="cuerpo_tabla_izq">Declaración anual de personas o entidades productoras de residuos peligrosos que generen cantidades iguales o superiores a 10 t/a.</td>
+<td class="cuerpo_tabla_izq">51,37 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.2.2.</td>
+<td class="cuerpo_tabla_izq">Declaración anual de personas o entidades productoras de residuos no peligrosos que generen cantidades iguales o superiores a 1000 t/a.</td>
+<td class="cuerpo_tabla_izq">51,37 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.2.3.</td>
+<td class="cuerpo_tabla_izq">Memoria anual gestores de residuos peligrosos y no peligrosos.</td>
+<td class="cuerpo_tabla_izq">51,37 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.2.4.</td>
+<td class="cuerpo_tabla_izq">Informe anual sobre actividades de los sistemas de responsabilidad ampliada en el ámbito de la Comunidad Autónoma de Andalucía.</td>
+<td class="cuerpo_tabla_izq">51,37 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq" colspan="2">Dichas tasas se reducirán en un 30% para los solicitantes registrados en el sistema comunitario de gestión y auditorías medioambientales (EMAS) siempre que su alcance incluya el de dicha autorización ambiental.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">2.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por servicios facultativos en materia de fiscalidad ambiental:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq" colspan="2">Certificación acreditativa de la idoneidad medioambiental de la inversión realizada.</td>
+<td class="cuerpo_tabla_izq">440,68 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq" colspan="2">Dichas tasas se reducirán en un 30% para los solicitantes registrados en el sistema comunitario de gestión y auditorías medioambientales (EMAS) siempre que su alcance incluya el de dicha autorización ambiental.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">2.4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por servicios facultativos para verificar la coherencia de la información requerida en el Reglamento (CE) n.º 166/2006 del Parlamento Europeo y del Consejo, de 18 de enero de 2006, relativo al establecimiento de un registro europeo de emisiones y transferencias de contaminantes y por el que se modifican las Directivas 91/689/CEE y 96/61/CE del Consejo (Reglamento EPRTR):</td>
+<td class="cuerpo_tabla_izq">278,24 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq" colspan="2">Validación de la información requerida.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq" colspan="2">
+<p class="cuerpo_tabla_izq">Para verificar la coherencia de los datos notificados correspondientes a las instalaciones o actividades encuadradas en las categorías 1.2, 1.4, 2.1, 4.1, 4.2, 5.2, 5.5, 5.7 y 14.1 del Anejo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, el valor de la tasa será del 150% debido a su complejidad en cuanto a número de focos de emisión, puntos de vertido o transferencia de residuos fuera de la instalación.</p>
+<p class="cuerpo_tabla_izq">Así como para verificar la coherencia de los datos notificados en actuaciones de la categoría del 9.3 del Anejo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, el valor de la tasa será el 50%.</p>
+<p class="cuerpo_tabla_izq">En el caso de que la instalación esté sin actividad, se notifique así en el Registro del Reglamento E- PRTR y declare que no haya tenido ningún tipo de emisión a la atmósfera, vertido al agua y/o transferencia de residuos peligrosos y no peligrosos, se exime el pago de esta tasa.</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">2.5.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Inspecciones a las entidades colaboradoras en materia de calidad ambiental en la Comunidad Autónoma de Andalucía.</td>
+<td class="cuerpo_tabla_izq">551,01 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">2.6.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Inspecciones a los operadores que realizan traslado transfronterizo de residuos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq" colspan="2">Inspección a instalaciones andaluzas que importan o exportan residuos a cualquier país de la Unión Europea.</td>
+<td class="cuerpo_tabla_izq">549,31 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq" colspan="2">Si durante la inspección fuese necesario realizar una toma de muestras, a la tasa anterior se le añadiría el valor asociado a los muestreos correspondientes que se incluyen en la tabla 2, del Anexo final del presente artículo. El cálculo de la tasa resultante se realizará conforme a la fórmula expuesta en el punto 2.1, Inspecciones en materia de protección ambiental, siendo en este caso el valor de Ki igual a 549,31 euros e independiente de la actividad de la Ley 7/2007, de 9 de julio, desarrollada.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">2.7.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Inspecciones a actividades en materia de contaminación acústica por inactividad o a petición de los Ayuntamientos.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq" colspan="2">Dicha tasa será exigible a los Ayuntamientos por las inspecciones realizadas a actividades sujetas a calificación ambiental, declaración responsable a los efectos ambientales y a las no incluidas en el anexo de la Ley 7/2007, de 9 de julio, en aplicación de los artículos 51 y 52 del Decreto 6/2012, de 17 de enero, por el que se aprueba el Reglamento de Protección contra la Contaminación Acústica en Andalucía, y se modifica el Decreto 357/2010, de 3 de agosto, por el que se aprueba el Reglamento para la Protección de la Calidad del Cielo Nocturno frente a la contaminación lumínica y el establecimiento de medidas de ahorro y eficiencia energética.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq" colspan="3">La tasa se exigirá por cada solicitud de inspección, que irá asociada a una única actividad, obteniéndose la cuota de acuerdo con la tabla 3 del Anexo final del presente artículo.</td>
+</tr>
+</tbody>
+</table>
+
+TABLAS ANEXAS DE LA TASA PARA LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN
+
+Tabla 1. Descripción del parámetro K
+
+|  |  | Valoración |
+|---|---|---|
+| K<sub>1</sub> | Instalaciones en las que se desarrollen actuaciones sometidas a autorización ambiental integrada. | 1.120,64 euros |
+| K<sub>2</sub> | Instalaciones en las que se desarrollen actuaciones sometidas a autorización ambiental unificada. | 895,58 euros |
+| K<sub>3</sub> | Instalaciones en las que se desarrollen actuaciones sometidas a autorización de emisiones a la atmósfera y/o autorización ambiental unificada simplificada | 670,51 euros |
+
+<table class="tabla_ancha">
+<caption>
+<p class="centro_cursiva">Tabla 2. Descripción de los tipos de trabajos de muestreo y análisis</p>
+</caption>
+</table>
+
+|  | Código | Valoración |
+|---|---|---|
+| Muestreo emisión tipo 3.<br>Inspección reglamentaria en foco de emisión conforme a la normativa vigente, que requiera muestreo con determinación de hasta dos de los siguientes parámetros: SO<sub>2</sub> (manual), HCl, HF, H<sub>2</sub>SO<sub>4</sub>/SO<sub>3</sub> o NH<sub>3</sub>. Puede incluir también la determinación de los parámetros de los muestreos tipo 1 y 2. | M<sub>em 3</sub> (tipo 3) | 1.200 euros. |
+| Muestreo emisión tipo 4.<br>Inspección reglamentaria en foco de emisión conforme a la normativa vigente, que requiera el análisis de uno o varios de los siguientes parámetros: COVs, HAP, Dioxinas o Metales. Puede incluir también la determinación de los parámetros de los muestreos tipo 1 y 2. | M<sub>em 4</sub> (tipo 4) | 2.000 euros. |
+| Muestreo emisión tipo 5.<br>Inspección reglamentaria en foco de emisión conforme a la normativa vigente, que requiera el análisis de más de dos de los siguientes parámetros: SO<sub>2</sub> (manual), HCl, HF, H<sub>2</sub>SO<sub>4</sub>/SO<sub>3</sub> o NH<sub>3</sub>. Puede incluir también la determinación de los parámetros de los muestreos tipo 1 y 2. | M<sub>em 5</sub> (tipo 5) | 2.150 euros. |
+| Muestreo emisión tipo 6.<br>Inspección reglamentaria en foco de emisión conforme a la normativa vigente, que requiera el análisis de uno o varios de los siguientes parámetros: COVs, HAP, Dioxinas o Metales, y hasta dos de los siguientes parámetros: SO<sub>2</sub> (manual), HCl, HF, H<sub>2</sub>SO<sub>4</sub>/SO<sub>3</sub> o NH<sub>3</sub>. Puede incluir también la determinación de los parámetros de los muestreos tipo 1 y 2. | M<sub>em 6</sub> (tipo 6) | 2.900 euros. |
+| Muestreo emisión tipo 7.<br>Inspección reglamentaria en foco de emisión conforme a la normativa vigente, que requiera el análisis de uno o varios de los siguientes parámetros: COVs, HAP, Dioxinas o Metales, y más de dos de los siguientes parámetros: SO<sub>2</sub> (manual), HCl, HF, H<sub>2</sub>SO<sub>4</sub>/SO<sub>3</sub> o NH<sub>3</sub>. Puede incluir también la determinación de los parámetros de los muestreos tipo 1 y 2. | M<sub>em 7</sub> (tipo 7) | 4.850 euros. |
+| Muestreo inmisión.<br>Inspección reglamentaria conforme a la normativa vigente. | Mi | 700 euros. |
+| Muestreo ruido.<br>Inspección reglamentaria conforme a la normativa vigente. | M<sub>r</sub> | 900 euros. |
+| Muestreo aguas tipo 1.<br>1.1. Inspección reglamentaria de aguas con toma de muestra puntual, medida de parámetros in situ y análisis, que no incluya ninguno de los parámetros especificados en los muestreos de aguas de tipo 3 y 4.<br>1.2. Con medidas en el medio receptor. En este caso se considerarán como una sola actuación las que sean necesarias para determinar la afección de un vertido. | M<sub>ag</sub> 1.1 (tipo 1.1)<br>M<sub>ag</sub> 1.2 (tipo 1.2) | 400 euros.<br>1.500 euros. |
+| Muestreo aguas tipo 2.<br>2.1. Inspección reglamentaria de aguas con toma de muestra compuesta, medida de parámetros in situ y análisis, que no incluya ninguno de los parámetros especificados en los muestreos de aguas de tipo 3 y 4.<br>2.2. Con medidas en el medio receptor. En este caso se considerarán como una sola actuación las que sean necesarias para determinar la afección de un vertido. | M<sub>ag</sub> 2.1 (tipo 2.1)<br>M<sub>ag</sub> 2.2 (tipo 2.2) | 600 euros.<br>1.500 euros. |
+| Muestreo aguas tipo 3.<br>3.1. Inspección reglamentaria de aguas con toma de muestra puntual, medida de parámetros in situ y análisis, que incluya la determinación de uno o más de los siguientes parámetros: compuestos orgánicos o metales.<br>3.2. Con medidas en el medio receptor. En este caso se considerarán como una sola actuación las que sean necesarias para determinar la afección de un vertido. | M<sub>ag</sub> 3.1 (tipo 3.1)<br>M<sub>ag</sub> 3.2 (tipo 3.2) | 700 euros.<br>2.300 euros. |
+
+|  | Código | Valoración |
+|---|---|---|
+| Inspección tipo 1. Inspecciones que requieran la realización de uno de los siguientes ensayos: |  |  |
+| A. Ensayo de inmisión de ruido al exterior y/o transmisión de ruido a locales acústicamente colindantes. | Mr1A | 500 euros. |
+| B. Ensayo de aislamiento a ruido aéreo entre recintos. | Mr1B | 500 euros. |
+| C. Ensayo de aislamiento a ruido aéreo respecto al ambiente exterior a través de las fachadas. | Mr1C | 600 euros. |
+| D. Ensayo de aislamiento por ruido de impacto. | Mr1D | 400 euros. |
+| Inspección tipo 2. Inspecciones que requieran dos o más ensayos: |  |  |
+| E. Cualquier combinación entre los anteriores de dos o más ensayos. | Mr2 | 900 euros. |
+
+> Se modifica los epígrafes 1.1, 1.2, 2.1, 2.4, tabla 1, descripción del parámetro K y se añade un epígrafe 1.2 bis por el art. 81.7 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030)
+
+> Se modifican los cuadros 1 y 2.4 y 2.6 por la disposición final 12.8 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+> Redactada la tabla 2 conforme a la corrección de errores publicada en el BOJA núm. 32, de 16 de febrero de 2022. [Ref. BOE-A-2022-3416](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3416)
+
+> Redactado el apartado 2.1 conforme al punto 2 de la corrección de errores publicada en el BOJA núm. 28, de 10 de febrero de 2022. [Ref. BOE-A-2022-2623](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2623)
+
+#### Artículo 170. Devengo.
+
+La tasa se devengará en el momento en el que se presente la solicitud, declaración responsable o comunicación de la que resulte el hecho imponible, si el inicio del procedimiento se realiza a petición de persona interesada, o en el momento en que se inicie la actuación administrativa que constituye el hecho imponible si el procedimiento se inicia de oficio.
+
+En el caso de los servicios de inspección la tasa se devengará en el momento en el que finalice la prestación del servicio de inspección que constituye dicho hecho imponible.
+
+> Se modifica por la disposición final 12.9 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+#### Artículo 170 bis. Beneficios fiscales.
+
+La tasa por la prevención y control de la contaminación será objeto de las siguientes reducciones:
+
+a) Reducción del 30 % para los solicitantes registrados en el sistema comunitario de gestión y auditorías medioambientales (EMAS) y para las empresas que se encuentren inscritas en el Registro del Sistema Andaluz de Compensación de Emisiones (SACE). Ambos beneficios fiscales no son acumulables.
+
+b) Reducción del 20 % para los solicitantes que sean microempresas, pequeñas y medianas empresas (pymes), de acuerdo con la definición recogida en el artículo 2 del anexo I del Reglamento (UE) número 651/2014 de la Comisión, de 17 de junio de 2014, por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea.
+
+> Se añade por la disposición final 12.10 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+### CAPÍTULO V — Tasa por la tramitación de autorización de vertidos al dominio público hidráulico y al dominio público marítimo-terrestre
+
+#### Artículo 171. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de las autorizaciones de vertidos que se realicen directa o indirectamente al dominio público hidráulico o al dominio público marítimo-terrestre cuya competencia corresponda a la Comunidad Autónoma de Andalucía y estén comprendidos en el ámbito de aplicación del artículo 2 del Reglamento de Vertidos al Dominio Público Hidráulico y al Dominio Público Marítimo-Terrestre de Andalucía, aprobado por Decreto 109/2015, de 17 de marzo.
+
+#### Artículo 172. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, titulares de los vertidos, de conformidad con lo establecido en el artículo 8 del Reglamento de Vertidos al Dominio Público Hidráulico y al Dominio Público Marítimo-Terrestre de Andalucía.
+
+#### Artículo 173. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+| 1. | Tramitación de solicitudes de autorizaciones mediante procedimiento general. | 382,69 euros. |
+|---|---|---|
+| 2. | Tramitación de solicitudes de autorizaciones mediante procedimiento simplificado. | 103,43 euros. |
+| 3. | Tramitación de modificaciones sustanciales de autorizaciones mediante procedimiento general. | 382,69 euros. |
+
+#### Artículo 174. Devengo.
+
+La tasa se devengará cuando se presente la solicitud de la autorización de vertido, o de la modificación sustancial, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+#### Artículo 175. Beneficios fiscales.
+
+Estarán exentos del pago de la tasa aquellos sujetos pasivos que hayan solicitado las autorizaciones ambientales integradas o unificadas de las instalaciones asociadas al vertido.
+
+### CAPÍTULO VI — Tasa por servicios de inspección y facultativos en vertidos al dominio público hidráulico y al dominio público marítimo-terrestre
+
+#### Artículo 176. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios de inspección y facultativos sobre vertidos que se realicen directa o indirectamente al dominio público hidráulico o al dominio público marítimo-terrestre cuya competencia corresponda a la Comunidad Autónoma de Andalucía y estén comprendidos en el ámbito de aplicación del artículo 2 del Reglamento de Vertidos al Dominio Público Hidráulico y al Dominio Público Marítimo-Terrestre de Andalucía.
+
+La tasa será aplicable a todas las inspecciones sectoriales realizadas a instalaciones cuyos vertidos se recogen en el artículo 84.1 de la Ley 7/2007, de 9 de julio, o las ejecutadas en función de la legislación vigente y cuya finalización se materialice en un informe.
+
+#### Artículo 177. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, titulares de los vertidos, de conformidad con lo establecido en el artículo 8 del Reglamento de Vertidos al Dominio Público Hidráulico y al Dominio Público Marítimo-Terrestre de Andalucía.
+
+#### Artículo 178. Cuota tributaria.
+
+1\. Por cada inspección sectorial en materia de autorización de vertidos al dominio público hidráulico o al dominio público marítimo-terrestre conforme a los siguientes criterios de población y volumen:
+
+<table class="tabla">
+<caption>
+<p class="centro_cursiva">Vertidos urbanos</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Población (habitantes equivalentes)</th>
+<th class="cabeza_tabla" colspan="3">Importe</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">&gt; 50.000</td>
+<td class="cuerpo_tabla_centro" colspan="3">394,69 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">&gt; 10.000-50.000</td>
+<td class="cuerpo_tabla_centro" colspan="3">297,61 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">&gt; 2.000-10.000</td>
+<td class="cuerpo_tabla_centro" colspan="3">200,52 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">&gt; 250-2.000</td>
+<td class="cuerpo_tabla_centro" colspan="3">103,43 euros</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="70%">
+<col width="15%">
+<col width="15%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">Vertidos Industriales</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Tipo de actividad</th>
+<th class="cabeza_tabla">Volumen (m<sup>3</sup>)</th>
+<th class="cabeza_tabla">Importe</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Industriales con sustancias peligrosas.</td>
+<td class="cuerpo_tabla_centro">Independiente</td>
+<td class="cuerpo_tabla_centro">588,87 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">
+<p class="cuerpo_tabla_izq">Grupo 1. Industrias de los sectores químicos, metales, maderas, papel, refinerías, extractoras y varios.</p>
+<p class="cuerpo_tabla_izq">Polígonos industriales.</p>
+</td>
+<td class="cuerpo_tabla_centro">&gt;100.000</td>
+<td class="cuerpo_tabla_centro">588,87 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">30.000 – 100.000</td>
+<td class="cuerpo_tabla_centro"> 491,78 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">&lt;30.000</td>
+<td class="cuerpo_tabla_centro"> 394,69 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">
+<p class="cuerpo_tabla_izq">Grupo 2. Industrias de los sectores agroalimentarios y afines (mataderos, lácteos, bodegas, comestibles-bebidas y resto de sectores).</p>
+<p class="cuerpo_tabla_izq">Desaladoras y piscifactorías.</p>
+<p class="cuerpo_tabla_izq">Estaciones de servicio.</p>
+</td>
+<td class="cuerpo_tabla_centro">&gt;100.000</td>
+<td class="cuerpo_tabla_centro">491,78 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">&gt;50.000 – 100.000</td>
+<td class="cuerpo_tabla_centro">394,69 euros </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">5.000 – 50.000</td>
+<td class="cuerpo_tabla_centro">297,61 euros </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">&lt;5.000</td>
+<td class="cuerpo_tabla_centro">200,52 euros</td>
+</tr>
+</tbody>
+</table>
+
+2\. La tasa se exigirá por cada inspección realizada en función de la normativa vigente y, como máximo, una vez por cada año natural.
+
+> Redactado el apartado 1 conforme al punto 3 de la corrección de errores publicada en el BOJA núm. 28, de 10 de febrero de 2022. Ref. BOE-A-2022-2623
+
+#### Artículo 179. Devengo.
+
+La tasa se devengará cuando se realice la inspección sectorial.
+
+#### Artículo 180. Beneficios fiscales.
+
+Estarán exentos del pago de la tasa aquellos sujetos pasivos que en ese mismo ejercicio hayan devengado una tasa por servicio de inspección en materia de autorizaciones ambientales integradas o unificadas de las instalaciones asociadas al vertido.
+
+### CAPÍTULO VII — Tasa por servicios facultativos en materia de deslinde del dominio público hidráulico
+
+#### Artículo 181. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios facultativos en materia de deslinde del dominio público hidráulico a solicitud de la persona interesada.
+
+#### Artículo 182. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la prestación de los servicios facultativos que constituyen el hecho imponible.
+
+#### Artículo 183. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+| 1. | Elaboración del presupuesto del coste de los trabajos necesarios hasta completar el apeo y deslinde del tramo (artículo 242.1 del Reglamento del Dominio Público Hidráulico, aprobado por Real Decreto 849/1986, de 11 de abril). | 155,52 euros por cada tramo a deslindar. |
+|---|---|---|
+| 2. | Delimitación técnica de la línea de deslinde (por kilómetro del tramo de cauce sobre el que se solicita la delimitación, calculándose el importe final por la regla proporcional sobre la longitud real solicitada). | 1.013,43 euros por kilómetro. |
+
+#### Artículo 184. Devengo.
+
+La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+### CAPÍTULO VIII — Tasa por ocupación de montes de dominio público
+
+> Se modifica por la disposición final 3.1 de la Ley 3/2026, de 13 de marzo. [Ref. BOE-A-2026-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7559)
+
+#### Artículo 185. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la ocupación de montes de dominio público de titularidad de la Comunidad Autónoma de Andalucía por parte de personas físicas o jurídicas, públicas o privadas, por razones de interés público o particular, en virtud de concesiones administrativas u otros títulos habilitantes, siempre que dicha ocupación resulte compatible con las funciones del monte.
+
+> Se modifica por la disposición final 3.1 de la Ley 3/2026, de 13 de marzo. [Ref. BOE-A-2026-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7559)
+
+> Se modifica por el art. 81.8 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030)
+
+#### Artículo 186. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que sean titulares de las concesiones administrativas u otros títulos que habiliten para la ocupación de montes de dominio público o, en su caso, quienes se subroguen en el lugar de las personas anteriores.
+
+> Se modifica por la disposición final 3.1 de la Ley 3/2026, de 13 de marzo. [Ref. BOE-A-2026-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7559)
+
+#### Artículo 187. Cuota tributaria.
+
+1\. Para el cálculo de la tasa se empleará la siguiente fórmula cuando no se utilice el precio mínimo fijado más adelante:
+
+Cuantía anual de la tasa = [VT(m<sup>2</sup>) × S (m<sup>2</sup>)] x [Fm × Car x Int] × 0,5
+
+Donde:
+
+1.1 VT = Valor del terreno en €/m<sup>2</sup>, calculado conforme a lo dispuesto en los apartados 1, 2, 3 y 4 del artículo 259 de la presente ley, para la determinación de la base de la tasa por ocupación y aprovechamiento de bienes de dominio público.
+
+1.2 S = Superficie de ocupación en m<sup>2</sup>, que se calculará teniendo en cuenta las consideraciones recogidas para ello en el apartado 2 de este artículo relativo a precios mínimos.
+
+1.3 Fm = Afección a las funciones del monte. Los siguientes valores son sumatorios: a)+b)+c), hasta un máximo de 6 puntos:
+
+a) Por estar incluidos en zonas especiales de conservación, espacios naturales protegidos, geoparques, o ser hábitats prioritarios en Red Natura 2000 o provocar interferencias en la conectividad ecológica: 1 punto.
+
+b) Por afección al paisaje hasta un máximo de 3 puntos:
+
+Antenas, postes y otros soportes de elementos de medida o para la emisión de señales en crestas, divisorias de montes o promontorios sobre el terreno: 1 punto.
+
+Líneas eléctricas aéreas de distribución y transporte: 1 punto.
+
+Parques eólicos en crestas, divisorias de montes o promontorios sobre el terreno: 3 puntos; otros parques eólicos: 2 puntos.
+
+c) Por la afección al uso común del monte, al impedir el uso público libre del monte, de acuerdo con la normativa forestal que resulte de aplicación: 2 puntos.
+
+1.4 Car = Carácter de la ocupación (no es un índice sumatorio, sino alternativo):
+
+a) Car = 0,5 en ocupaciones complementarias a la actividad forestal relacionadas con el lícito aprovechamiento de los recursos naturales del monte, incluida la ganadería.
+
+b) Car = 1 con carácter general.
+
+c) Car = 2 para ocupaciones que conlleven construcciones temporales que requieran proyecto de actuación o plan especial de acuerdo con las previsiones de la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía.
+
+1.5 Int = Intensidad del uso, depende de la afluencia de personas al monte que traerá consigo la actividad autorizada: se cuantifica en función del número de personas que pueden acudir de forma simultánea en un momento dado como consecuencia de la ocupación:
+
+Hasta 24 personas: 1.
+
+Desde 25 a 50 personas: 2.
+
+De 51 a 500 personas: 3.
+
+Más de 500 personas: 5.
+
+1.6 Coeficiente 0,5 = tipo de gravamen.
+
+2\. Precios mínimos:
+
+La tasa se calculará en aplicación de la fórmula anterior. No obstante, en los casos en los que el resultado obtenido de dicha aplicación sea inferior a los precios tipo que se indican a continuación, se aplicarán los precios mínimos abajo desarrollados, a excepción de las ocupaciones cuya instalación sea necesaria para el abastecimiento de agua, u otros suministros, a particulares con propiedades oficialmente reconocidas como enclavadas en monte público, a las que se aplicará la menor de las dos cuantías. También se aplicará la menor de las dos cuantías a las personas adjudicatarias de aprovechamientos de pastos en montes de dominio público que soliciten ocupaciones del monte para instalaciones complementarias a dichos aprovechamientos.
+
+Todas las valoraciones de la tasa se establecen por metro cuadrado y año o por unidad, cuando así venga definido en los precios tipo. Cuando puedan existir dudas de interpretación sobre las superficies o unidades, se utilizará como criterio la menor superficie posible de ocupación.
+
+2.1 Se establece una valoración anual de la tasa: 0,2 euros/m<sup>2</sup>/año para las siguientes ocupaciones:
+
+a) Instalación de tendidos aéreos de líneas eléctricas, telefónicas y otras líneas de naturaleza similar, con sobrevuelo de la línea: la tasa se establece en función de los metros cuadrados de sobrevuelo del conjunto de las instalaciones y servidumbres. A los efectos del cálculo de la cuota, en el caso de líneas eléctricas, la superficie se determina considerando tanto la anchura del corredor como la proyección continua sobre el suelo de los elementos aéreos sumada la anchura de las áreas cortafuegos a ambos lados del tendido que, para cada caso, se prevea en las instrucciones técnicas del sector eléctrico vigentes a la fecha de solicitud de la ocupación y que figuren en el proyecto de la instalación.
+
+b) Instalación de tendidos subterráneos de líneas eléctricas, tuberías soterradas de agua o gas y otras instalaciones subterráneas: la tasa se establece por metros cuadrados de superficie ocupada por el conjunto de instalaciones, también las auxiliares y las servidumbres generadas, con parte proporcional de ocupación de registros y elementos auxiliares.
+
+c) Depósito de materiales de construcción o de otro tipo y áreas de estacionamiento de vehículos o maquinaria sin vallado: la tasa se establece en función de los metros cuadrados ocupados. Las conexiones necesarias deben valorarse aparte, como líneas aéreas o soterradas.
+
+d) Usos recreativos sin vallado: la tasa se establece por metro cuadrado ocupado. A efectos del cálculo de la cuota, la superficie es el área directamente afectada por el uso recreativo privativo. Si existen edificaciones o infraestructuras añadidas, se valorarán según alguno de los restantes criterios que les correspondan.
+
+e) Infraestructuras vinculadas al aprovechamiento de recursos naturales en el monte y otros usos que, sin implicar cambios en la naturaleza forestal del suelo, puedan implicar limitaciones en el uso, excluyendo aquellos autorizados temporalmente en el desarrollo de aprovechamientos forestales, pastos o ganadería.
+
+2.2 Se establece una valoración anual de la tasa: 0,3 euros/m<sup>2</sup>/año para las siguientes ocupaciones:
+
+a) Construcción de accesos a fincas colindantes: la tasa se establece en función de los metros cuadrados ocupados. La tasa no incluye su construcción. A los efectos del cálculo de la cuota, la superficie es la proyección de toda el área afectada por las obras, incluidos los taludes de desmonte y terraplén.
+
+b) Usos recreativos u otros usos no descritos vallados: a los efectos del cálculo de la cuota, la superficie es el perímetro del recinto cerrado. Si existen edificaciones o infraestructuras añadidas, se valorarán según alguno de los restantes criterios que les correspondan.
+
+2.3 Se establece una valoración anual de la tasa: 2 euros/m<sup>2</sup>/año para las siguientes ocupaciones:
+
+a) Parques eólicos: la tasa se establece en función de los metros cuadrados de sobrevuelo del aerogenerador en todo su recorrido, soportes y otras instalaciones y/o servidumbres.
+
+2.4 Se establece una valoración anual de la tasa: 5 euros/m<sup>2</sup>/año para las siguientes ocupaciones:
+
+a) Balsas de regulación y de abastecimiento de agua: la tasa se establece en función de los metros cuadrados ocupados.
+
+b) Otras instalaciones con ocupación superficial, como depósitos, subestaciones eléctricas o similares: la tasa se establece en función de los metros cuadrados ocupados. Las conexiones necesarias, fuera del recinto ocupado, deben valorarse aparte, como líneas aéreas o soterradas, o tuberías, según los casos.
+
+2.5 Se establece una valoración anual de la tasa por unidad para las siguientes instalaciones:
+
+a) Carteles y señales informativos, indicativos y publicitarios: la tasa se establece con carácter anual, por unidad calculada en metros cuadrados del cartel. La superficie mínima de cómputo es de un metro cuadrado. 50 euros/m<sup>2</sup> de cartel/año.
+
+b) Antenas, postes y otros soportes de elementos de medida o para la reemisión de señales:
+
+1.º Torres anemométricas: la tasa se establece con carácter anual, por unidad de ocupación de torre con todos sus elementos incluidos, excepto las líneas eléctricas de suministro o acometidas, que deben valorarse aparte, tanto si son líneas aéreas como soterradas: 900 euros/ut/año.
+
+2.º Torres para antenas de reemisión de telefonía móvil: la tasa se establece con carácter anual, por unidad de ocupación de torre con su recinto. La conexión necesaria debe valorarse aparte, tanto si son líneas aéreas como soterradas: 4.000 euros/ut/año.
+
+3.º Antenas de reemisión de radio y televisión: la tasa se establece con carácter anual, por unidad de ocupación de torre con su recinto. Las conexiones necesarias deben valorarse aparte, tanto si son líneas aéreas como soterradas: 3.000 euros/ut/año.
+
+> Se modifica por la disposición final 3.1 de la Ley 3/2026, de 13 de marzo. [Ref. BOE-A-2026-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7559)
+
+> Se modifica el apartado 1 por la disposición final 12.11 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+#### Artículo 187 bis. Pago único de la cuota tributaria en ocupaciones derivadas de declaraciones de utilidad pública o de normativa sectorial.
+
+1\. En los supuestos de ocupación de montes de dominio público de titularidad de la Comunidad Autónoma de Andalucía, derivada de la declaración de utilidad pública de instalaciones o infraestructuras, o impuesta con carácter obligatorio por la legislación sectorial vigente en materia de hidrocarburos, electricidad, telecomunicaciones u otras leyes especiales análogas, la tasa podrá liquidarse, previa solicitud de la persona interesada, mediante un pago único que abarque todo el periodo de duración de la ocupación. En estos casos, el cálculo de la cuota a ingresar se efectuará de conformidad con lo dispuesto en los apartados siguientes.
+
+2\. Con carácter general, la cuota a ingresar mediante un pago único se determinará conforme a la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/82/7559_16831894_1.png)
+
+Donde:
+
+C: cuota anual que se calculará conforme al artículo 187.1 o, en su caso, aplicando los precios mínimos del artículo 187.2.
+
+*n*: número de años de duración de la ocupación.
+
+*r*: interés legal del dinero vigente en la fecha del devengo más un punto porcentual.
+
+3\. En los supuestos de exención previstos en el artículo 189.2, la cuota a ingresar mediante un pago único se determinará conforme a la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/82/7559_16831894_2.png)
+
+Donde:
+
+C: cuota anual que se calculará conforme al artículo 187.1 o, en su caso, aplicando los precios mínimos del artículo 187.2.
+
+*n*: número de años de duración de la ocupación.
+
+*r*: interés legal del dinero vigente en la fecha del devengo más un punto porcentual.
+
+4\. En ningún caso la cuota a ingresar mediante un pago único podrá ser inferior al importe resultante de capitalizar los precios mínimos anuales previstos en el artículo 187.2, aplicando el mismo tipo de capitalización *r*.
+
+5\. En los supuestos de ampliación de superficie, incremento de intensidad del uso o modificación sustancial del título habilitante, se practicará liquidación complementaria, calculada conforme a los valores y al tipo de capitalización vigentes en la fecha de la modificación.
+
+> Se añade por la disposición final 3.1 de la Ley 3/2026, de 13 de marzo. [Ref. BOE-A-2026-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7559)
+
+#### Artículo 188. Devengo de la tasa y exigibilidad de la cuota tributaria.
+
+1\. La tasa se devengará en el momento del otorgamiento de los títulos habilitantes a que se refiere el hecho imponible.
+
+2\. Respecto a la anualidad en curso, la cuota tributaria será exigible con carácter previo al inicio de las actuaciones de ocupación.
+
+Cuando la duración de la ocupación sea superior a un año, la cuota tributaria se exigirá anualmente durante toda la vigencia del título habilitante, en la cuantía que sea procedente y en los plazos y en las condiciones que se señalen en dicho título.
+
+3\. Sin perjuicio de lo dispuesto en los apartados anteriores, en los supuestos de pago único de la cuota tributaria previstos en el artículo 187 bis, esta deberá abonarse con carácter previo a la entrada en vigor del título habilitante de la ocupación.
+
+> Se modifica por la disposición final 3.1 de la Ley 3/2026, de 13 de marzo. [Ref. BOE-A-2026-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7559)
+
+#### Artículo 189. Beneficios fiscales.
+
+Estarán exentas del pago de la tasa:
+
+1\. Las ocupaciones de monte de interés general promovidas por Administraciones públicas para el cumplimiento de sus fines, previa solicitud motivada por parte del órgano competente en la actuación de que se trate.
+
+2\. Las ocupaciones para el despliegue de infraestructuras de telecomunicaciones que permitan ofrecer servicios de conectividad de al menos 100 Mbps por usuario en las zonas blancas y grises definidas en el mapa de cobertura que publique anualmente la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales o, en su defecto, el órgano competente de la Junta de Andalucía durante los cinco primeros años desde el momento del devengo.
+
+> Se modifica por la disposición final 3.1 de la Ley 3/2026, de 13 de marzo. [Ref. BOE-A-2026-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7559)
+
+### CAPÍTULO IX — Tasa por servicios facultativos en materia de deslinde y amojonamiento de monte público a instancia de parte
+
+#### Artículo 190. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la realización de actividades administrativas en materia de deslinde y amojonamiento de montes públicos previstas en la Ley 2/1992, de 15 de junio, Forestal de Andalucía, que se realicen a solicitud de personas interesadas en definir la línea o líneas de colindancia de sus terrenos con montes públicos.
+
+#### Artículo 191. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten el deslinde y/o amojonamiento que constituyen el hecho imponible.
+
+#### Artículo 192. Cuota tributaria.
+
+1\. La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+<table class="tabla">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Deslindes y amojonamientos</th>
+<th class="cabeza_tabla">Precio fijo por expediente</th>
+<th class="cabeza_tabla">Precio variable por km</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">1.</td>
+<td class="cuerpo_tabla_izq">Deslinde de dificultad normal.</td>
+<td class="cuerpo_tabla_centro">4.779,48 euros</td>
+<td class="cuerpo_tabla_centro">2.049,66 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.</td>
+<td class="cuerpo_tabla_izq">Deslinde de dificultad alta.</td>
+<td class="cuerpo_tabla_centro">4.779,48 euros</td>
+<td class="cuerpo_tabla_centro">2.217,24 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.</td>
+<td class="cuerpo_tabla_izq">Amojonamiento de montes de dificultad normal.</td>
+<td class="cuerpo_tabla_centro">3.070,49 euros</td>
+<td class="cuerpo_tabla_centro">2.310,58 euros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4.</td>
+<td class="cuerpo_tabla_izq">Amojonamiento de montes de dificultad alta.</td>
+<td class="cuerpo_tabla_centro">3.070,49 euros</td>
+<td class="cuerpo_tabla_centro">2.507,22 euros</td>
+</tr>
+</tbody>
+</table>
+
+2\. El grado de dificultad para deslindar o amojonar un monte se establecerá en base a los parámetros establecidos más abajo. En el caso de que el monte presentara parámetros correspondientes a dificultad normal y alta, se optará siempre por el de dificultad alta.
+
+Dificultad normal:
+
+Monte con 10 colindantes o menos.
+
+Monte con una pendiente media igual o inferior al 20%.
+
+Dificultad alta:
+
+Monte con más de 10 colindantes.
+
+Monte con una pendiente media superior al 20%.
+
+#### Artículo 193. Devengo.
+
+La tasa se devengará cuando se realice el deslinde de montes y/o amojonamiento solicitados, no obstante, el ingreso se efectuará con carácter previo al inicio de las actuaciones que constituyen el hecho imponible.
+
+#### Artículo 194. Beneficios fiscales.
+
+Estarán exentas de pago de la tasa las corporaciones locales y otras entidades públicas que dispongan de consorcio o convenio de cooperación con la Administración Forestal para la gestión de sus montes.
+
+### CAPÍTULO X — Tasa por autorización de cambio de uso forestal
+
+> Se modifica por la disposición final 3.2 de la Ley 3/2026, de 13 de marzo. [Ref. BOE-A-2026-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7559)
+
+#### Artículo 195. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación del expediente para la autorización del cambio excepcional del uso forestal a cualquier otro uso en montes de titularidad privada.
+
+> Se modifica por la disposición final 3.2 de la Ley 3/2026, de 13 de marzo. [Ref. BOE-A-2026-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7559)
+
+#### Artículo 196. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten el cambio de uso que constituye el hecho imponible.
+
+> Se modifica por la disposición final 3.2 de la Ley 3/2026, de 13 de marzo. [Ref. BOE-A-2026-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7559)
+
+#### Artículo 197. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+<table class="tabla" data-omitir-repetir-tfoot="true">
+<colgroup>
+<col width="10%">
+<col width="76%">
+<col width="14%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2"> </th>
+<th class="cabeza_tabla">Euros</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie igual o inferior a 10 hectáreas.</td>
+<td class="cuerpo_tabla_coma">305,37</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 10 hectáreas e igual o inferior a 20 hectáreas.</td>
+<td class="cuerpo_tabla_coma">839,78</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 20 hectáreas e igual o inferior a 30 hectáreas.</td>
+<td class="cuerpo_tabla_coma">1.679,55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 30 hectáreas e igual o inferior a 50 hectáreas.</td>
+<td class="cuerpo_tabla_coma">2.519,33</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 50 hectáreas e igual o inferior a 80 hectáreas.</td>
+<td class="cuerpo_tabla_coma">3.359,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 80 hectáreas.</td>
+<td class="cuerpo_tabla_coma">4.198,88</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+<p class="cita">(*) Importes actualizados a 2026.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+> Se modifica por la disposición final 3.2 de la Ley 3/2026, de 13 de marzo. [Ref. BOE-A-2026-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7559)
+
+#### Artículo 198. Devengo.
+
+La tasa se devengará cuando se presente la solicitud del cambio de uso, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+> Se modifica por la disposición final 3.2 de la Ley 3/2026, de 13 de marzo. [Ref. BOE-A-2026-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7559)
+
+#### Artículo 199. Beneficios fiscales.
+
+Estarán exentas del pago de esta tasa las solicitudes de cambio de uso forestal a cualquier otro uso cuando la superficie afectada esté incluida en un área cuya transformación haya sido declarada de interés general por la Administración competente y se derive de la aplicación de un plan que concrete las zonas a transformar como consecuencia de dicha declaración.
+
+> Se modifica por la disposición final 3.2 de la Ley 3/2026, de 13 de marzo. [Ref. BOE-A-2026-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7559)
+
+> Se modifica por el art. 81.9 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030)
+
+### CAPÍTULO XI — Tasa por servicios administrativos y facultativos en materia de aprovechamientos forestales en montes particulares carentes de proyecto o plan técnico de ordenación forestal aprobado y vigente
+
+#### Artículo 200. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de las autorizaciones de aprovechamientos forestales de madera, biomasa, corcho o piña en montes particulares sin proyecto o plan técnico de ordenación forestal aprobado y vigente.
+
+La tasa no se aplicará a los aprovechamientos de leñas procedentes de podas y resalveos.
+
+> Se modifica por la disposición final 4.1 de la Ley 3/2023, de 30 de marzo. [Ref. BOE-A-2023-9957](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-9957)
+
+#### Artículo 201. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten los aprovechamientos que constituyen el hecho imponible.
+
+#### Artículo 202. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+Por las actuaciones derivadas de cada solicitud de autorización de aprovechamiento forestal: 119,90 euros.
+
+#### Artículo 203. Devengo.
+
+La tasa se devengará cuando se presente la solicitud del aprovechamiento, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+#### Artículo 204. Beneficios fiscales.
+
+Estarán exentos del pago de la tasa:
+
+a) Los montes particulares cuya superficie sea inferior a 400 hectáreas.
+
+b) Las personas que sean solicitantes de las subvenciones previstas en la normativa forestal para la realización de los aprovechamientos forestales objeto de la tasa, siempre que acrediten previamente esta circunstancia con la documentación justificativa.
+
+> Se modifica por la disposición final 4.1 de la Ley 3/2023, de 30 de marzo. [Ref. BOE-A-2023-9957](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-9957)
+
+### CAPÍTULO XII — Tasa por autorización para pruebas deportivas en el medio natural
+
+#### Artículo 205. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la tramitación de las autorizaciones para la realización de pruebas deportivas en el medio natural. Se entiende por pruebas deportivas en el medio natural las relacionadas con turismo activo referidas en el artículo 10.3 de la Orden de 20 de marzo de 2003, conjunta de las Consejerías de Turismo y Deporte y de Medio Ambiente, por la que se establecen obligaciones y condiciones medioambientales para la práctica de las actividades integrantes del turismo activo, así como las pruebas deportivas referidas en el artículo 2.g del Decreto 195/2007, de 26 de junio, por el que se establecen las condiciones generales para la celebración de espectáculos públicos y actividades recreativas de carácter ocasional y extraordinario, sometidas a evaluación de la Consejería competente en medio ambiente cuando el evento se desarrolle, en todo o en parte, en espacios naturales protegidos, terrenos forestales o vías pecuarias.
+
+2\. No estarán sujetas a esta tasa las actividades realizadas a nivel individual o colectivamente al margen de una entidad organizadora.
+
+> Se modifica por la disposición final 4.2 de la Ley 3/2023, de 30 de marzo. [Ref. BOE-A-2023-9957](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-9957)
+
+#### Artículo 206. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la expedición de la autorización para la realización de pruebas deportivas en el medio natural.
+
+#### Artículo 207. Cuota tributaria.
+
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+| Número de participantes: | Euros/día |
+|---|---|
+| Hasta 50 participantes. | 66,30 |
+| De 51 hasta 75 participantes. | 120,39 |
+| De 76 hasta 100 participantes. | 186,69 |
+| De 101 hasta 150 participantes. | 321,41 |
+| De 151 hasta 200 participantes. | 477,29 |
+| De 201 hasta 300 participantes. | 800,82 |
+| De 301 hasta 500 participantes. | 1.470,31 |
+| De más de 500 participantes. | 2.669,67 |
+
+#### Artículo 208. Devengo.
+
+La tasa se devengará cuando se presente la solicitud que inicie la prestación de los servicios administrativos, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+> Se modifica por el art. 81.10 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030)
+
+#### Artículo 209. Beneficios fiscales.
+
+1\. Estarán exentas del pago de la tasa:
+
+a) Las pruebas y competiciones deportivas en el medio natural organizadas exclusivamente por la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las entidades que integran la Administración Local y el sector público institucional, cuando actúen en interés propio y directo para cumplir sus fines.
+
+b) Las pruebas y las competiciones deportivas oficiales en el medio natural organizadas por federaciones deportivas.
+
+2\. Tendrán derecho a una bonificación del 50% las entidades organizadoras sin ánimo de lucro.
+
+3\. Las bonificaciones y las exenciones se concederán a solicitud de la entidad interesada, que deberá acreditar los requisitos indicados anteriormente.
+
+> Se modifica la letra b) del apartado 1 por la disposición final 4.2 del Decreto-ley 2/2022, de 29 de marzo de 2022. [Ref. BOJA-b-2022-90095](https://www.boe.es/buscar/doc.php?id=BOJA-b-2022-90095)
+
+### CAPÍTULO XIII — Tasa por autorización de excepciones al régimen general de protección de las especies silvestres y sus hábitats
+
+#### Artículo 210. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de las autorizaciones para las excepciones al régimen general de protección de las especies silvestres y sus hábitats y para la fotografía, filmación, grabación, observación o seguimiento de especies silvestres de conformidad con lo establecido en el Decreto 23/2012, de 14 de febrero, por el que se regula la conservación y el uso sostenible de la flora y la fauna silvestres y sus hábitats.
+
+#### Artículo 211. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la expedición de la autorización que constituyen el hecho imponible.
+
+#### Artículo 212. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+| 1. | Por autorizaciones para las excepciones al régimen general de protección de las especies silvestres y sus hábitats (por autorización). | 31,54 euros. |
+|---|---|---|
+| 2. | Por autorización de fotografía, filmación, grabación, observación o seguimiento de especies silvestres (por autorización). | 73,23 euros. |
+
+#### Artículo 213. Devengo.
+
+La tasa se devengará cuando se presente la solicitud que inicie la prestación de los servicios administrativos. No obstante, el ingreso de su importe se efectuará con carácter previo a la concesión de la autorización.
+
+#### Artículo 214. Beneficios fiscales.
+
+Estarán exentas del pago de la tasa por autorizaciones para las excepciones al régimen general de protección de las especies silvestres y sus hábitats, las Universidades Públicas, la Administración General del Estado, las Administraciones de las Comunidades Autónomas y las Entidades que integran la Administración Local, así como los organismos públicos dependientes de cualquiera de las anteriores, y las entidades colaboradoras y las entidades de custodia a que se refieren los artículos 5 y 6 del Decreto 23/2012, de 14 de febrero.
+
+> Se modifica por el art. 81.11 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030)
+
+### CAPÍTULO XIV — Tasa por autorización para la apertura, modificación sustancial y ampliación de parques zoológicos
+
+#### Artículo 215. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de las autorizaciones para la apertura, modificación sustancial y ampliación de parques zoológicos.
+
+#### Artículo 216. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la expedición de la autorización que constituye el hecho imponible.
+
+#### Artículo 217. Cuota tributaria.
+
+El importe de la cuota tributaria es de 238,59 euros por autorización.
+
+#### Artículo 218. Devengo.
+
+La tasa se devengará cuando se presente la solicitud que inicie la prestación de los servicios administrativos. No obstante, el ingreso de su importe se efectuará con carácter previo a la concesión de la autorización.
+
+### CAPÍTULO XV — Tasa por extinción de incendios forestales
+
+#### Artículo 219. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de servicios de extinción de incendios forestales a través de medios y personal de la Administración de la Junta de Andalucía.
+
+#### Artículo 220. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, cuyas propiedades o en su caso posesiones, cualquiera que sea el título que legitime el derecho de uso u ocupación, sean beneficiarias de la prestación de los servicios que constituyen el hecho imponible.
+
+#### Artículo 221. Cuota tributaria.
+
+1\. La tasa se exigirá de acuerdo con las siguientes tarifas e importes máximos:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="75%">
+<col width="14%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Personal y medios terrestres:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.</td>
+<td class="cuerpo_tabla_izq">Grupo de especialista.</td>
+<td class="cuerpo_tabla_izq">137,52 euros/hora.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.2.</td>
+<td class="cuerpo_tabla_izq">Grupo de apoyo.</td>
+<td class="cuerpo_tabla_izq">46,24 euros/hora.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.3.</td>
+<td class="cuerpo_tabla_izq">Vehículo autobomba.</td>
+<td class="cuerpo_tabla_izq">80,45 euros/hora.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Medios aéreos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.1.</td>
+<td class="cuerpo_tabla_izq">Helicóptero.</td>
+<td class="cuerpo_tabla_izq">450 euros/hora.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.2.</td>
+<td class="cuerpo_tabla_izq">Avión de carga igual o superior a 3.000 litros.</td>
+<td class="cuerpo_tabla_izq">375 euros/hora.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.3.</td>
+<td class="cuerpo_tabla_izq">Avión de carga inferior a 3.000 litros.</td>
+<td class="cuerpo_tabla_izq">100 euros/hora.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Importes máximos aplicables a la tasa de extinción de incendios forestales para cada sujeto pasivo, por superficie forestal afectada:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3.1.</td>
+<td class="cuerpo_tabla_izq">Mayor de 10 ha y menor de 3.000 ha.</td>
+<td class="cuerpo_tabla_izq">6 euros/ha forestal afectada.</td>
+</tr>
+</tbody>
+</table>
+
+2\. En el supuesto en que el incendio afecte a terrenos pertenecientes a diversos titulares, el importe de la tasa a satisfacer por cada partícipe será proporcional a su respectiva participación en el dominio o derecho sobre la superficie afectada.
+
+#### Artículo 222. Devengo.
+
+El devengo de la tasa se producirá en el momento de prestarse el servicio que da origen a la misma.
+
+#### Artículo 223. Beneficios fiscales.
+
+1\. Estarán exentas del pago de la tasa:
+
+a) Las Entidades Locales.
+
+b) Los sujetos pasivos cuando el incendio forestal afecte a una superficie:
+
+1.º Igual o inferior a 10 hectáreas.
+
+2.º Igual o superior a 3.000 hectáreas.
+
+2\. Tendrán derecho a una bonificación del 100% de la cuota tributaria los sujetos pasivos en el caso de cumplimiento de la totalidad de las actuaciones de prevención de incendios a que se refiere el artículo 25.a) de la Ley 5/1999, de 29 de junio, de prevención y lucha contra los incendios forestales.
+
+### CAPÍTULO XVI — Tasa por servicios administrativos y facultativos en materia de pesca continental en Andalucía
+
+#### Artículo 224. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de servicios administrativos y facultativos en materia de pesca continental de Andalucía, que se enumeran en el artículo 226.
+
+#### Artículo 225. Sujetos pasivos.
+
+1\. Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la prestación de los servicios o actividades administrativas que constituyen el hecho imponible.
+
+2\. En las tarifas por expedición de licencia de pesca continental 1.1.1, 1.1.2 y 1.1.5, cuando el solicitante de la licencia sea un extranjero en situación de estancia, de conformidad con lo dispuesto en el artículo 30.1 de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, o norma que la sustituya, que opte por la tramitación de la solicitud de licencia a través de otra persona o entidad, serán sujetos pasivos, como sustitutos del contribuyente, quienes tramiten la solicitud.
+
+El sustituto deberá repercutir íntegramente el importe de la tasa sobre el contribuyente, que queda obligado a soportarlo.
+
+> Se añade el apartado 2 por el art. 81.12 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030)
+
+#### Artículo 226. Cuota tributaria.
+
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col width="5%">
+<col width="5%">
+<col width="8%">
+<col>
+<col width="35%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="4"> </th>
+<th class="cabeza_tabla">Importe</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Por expedición de licencias de pesca continental en Andalucía.</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Tipos de licencia de pesca y recargos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.1.</td>
+<td class="cuerpo_tabla_izq">Básica.</td>
+<td class="cuerpo_tabla_izq">8,14 euros/año.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.2.</td>
+<td class="cuerpo_tabla_izq">Recargo pesca de trucha.</td>
+<td class="cuerpo_tabla_izq">4,08 euros/año.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.3.</td>
+<td class="cuerpo_tabla_izq">Recargo medio auxiliar con motor.</td>
+<td class="cuerpo_tabla_izq">15,61 euros/año.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.4.</td>
+<td class="cuerpo_tabla_izq">Recargo medio auxiliar sin motor.</td>
+<td class="cuerpo_tabla_izq">11,37 euros/año.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.5.</td>
+<td class="cuerpo_tabla_izq">Licencia de pesca temporal.</td>
+<td class="cuerpo_tabla_izq">15,61 euros/periodo autorizado.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.6.</td>
+<td class="cuerpo_tabla_izq">Licencia interautonómica de pesca.</td>
+<td class="cuerpo_tabla_izq">25 euros/año.</td>
+</tr>
+</tbody>
+</table>
+
+Las licencias podrán expedirse por 1, 3 y 5 años, salvo la licencia interautonómica de pesca, que solo podrá expedirse por un año.
+
+Para la expedición de la modalidad de recargo es obligatoria la licencia básica.
+
+La licencia de pesca temporal tendrá una vigencia máxima de 15 días.
+
+La licencia interautonómica de pesca incluirá la licencia de pesca básica y los recargos de pesca de trucha, medio auxiliar con motor y medio auxiliar sin motor, sin que por ello sea exigible pago adicional alguno.
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col width="5%">
+<col width="5%">
+<col>
+<col>
+<col width="35%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="4"> </th>
+<th class="cabeza_tabla">Importe</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Por expedición de permisos de pesca en cotos gestionados por la Consejería con competencias en materia de pesca continental en Andalucía.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Coto trucha común sin muerte.</td>
+<td class="cuerpo_tabla_izq">5,77 euros/permiso.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Por aprovechamientos piscícolas en acotados de titularidad pública en régimen de concesión en Andalucía:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3.1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Acotados de pesca de salmónidos sin muerte.</td>
+<td class="cuerpo_tabla_izq">12,73 euros/(*)/año.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3.2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Acotados de pesca de salmónidos con muerte.</td>
+<td class="cuerpo_tabla_izq">24,41 euros/(*)/año.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3.3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Otros acotados de pesca.</td>
+<td class="cuerpo_tabla_izq">10,61 euros/(*)/año.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="5">(*) Hectárea/Metro/Decámetro/Kilómetro según sea la naturaleza física del acotado (tramo fluvial de montaña, tramo fluvial bajo, embalse o cola de embalse).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Derechos de examen para la acreditación de la aptitud y conocimientos para el ejercicio de la pesca continental en Andalucía.</td>
+<td class="cuerpo_tabla_izq">34,29 euros/examen.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col width="5%">
+<col width="5%">
+<col>
+<col width="35%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3"> </th>
+<th class="cabeza_tabla">Importe</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">5.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por precintado de redes, artes y otros medios de pesca continental en Andalucía:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.1.</td>
+<td class="cuerpo_tabla_izq">Precinto de arte de captura.</td>
+<td class="cuerpo_tabla_izq">4,08 euros/precinto.</td>
+</tr>
+</tbody>
+</table>
+
+\* Importes actualizados a 2026.
+
+> Se modifica por el art. 2.1 del Decreto-ley 2/2026, de 11 de marzo. [Ref. BOJA-b-2026-90049](https://www.boe.es/buscar/doc.php?id=BOJA-b-2026-90049)
+
+#### Artículo 227. Devengo.
+
+La tasa se devengará cuando se presente la solicitud que inicie la prestación de los servicios administrativos. No obstante, el ingreso de su importe se efectuará con carácter previo a la concesión de la autorización, licencia o prestación del servicio de que se trate.
+
+#### Artículo 228. Beneficios fiscales.
+
+1\. Estarán exentas del pago de la tasa por expedición de licencia de pesca continental las personas que a la fecha del devengo de la tasa sean:
+
+a) Mayores de sesenta y cinco años.
+
+b) Beneficiarias de la prestación del ingreso mínimo vital a quienes se reconozca dicha condición de conformidad con lo dispuesto en la Ley 19/2021, de 20 de diciembre, por la que se establece el ingreso mínimo vital, o norma que la sustituya, las beneficiarias de la Renta Mínima de Inserción Social en Andalucía, a quienes se reconozca dicha condición de acuerdo con lo dispuesto en el Decreto-ley 3/2017, de 19 de diciembre, por el que se regula la Renta Mínima de Inserción Social en Andalucía, o norma que lo sustituya, o las beneficiarias de ambas prestaciones.
+
+2\. Tendrán derecho a una bonificación del 50% de la cuota tributaria de la tasa por expedición de licencia básica de pesca continental las personas que a la fecha del devengo de la tasa sean menores de dieciséis años.
+
+3\. Dichos beneficios fiscales no eximirán a las personas beneficiarias de la obligación de solicitar tales licencias.
+
+4\. Los recargos y licencias de pesca temporal no serán objeto de bonificación.
+
+5\. Las personas integrantes, socias o asociadas de las entidades colaboradoras de la Consejería con competencia en materia de pesca continental en Andalucía, declaradas como tales según el Decreto 23/2012, de 14 de febrero, por el que se regula la conservación y el uso sostenible de la flora y la fauna silvestres y sus hábitats, tendrán derecho a una bonificación del 50% de la cuota tributaria por expedición de permisos de pesca en cotos gestionados por la Consejería con competencias en materia de pesca continental en Andalucía.
+
+6\. Cuando se superen los 50 precintos o medios autorizados para un mismo solicitante, el importe de cada precinto tendrá derecho a una bonificación del 70% de la cuota tributaria de la tasa por precintado de redes, artes y otros medios de pesca continental en Andalucía.
+
+7\. Los beneficios fiscales establecidos en los apartados anteriores de este artículo, así como los previstos en el artículo 12.2, no serán aplicables a la tarifa por la expedición de licencia interautonómica de pesca.
+
+> Se añade el apartado 7 por el art. 2.2 del Decreto-ley 2/2026, de 11 de marzo. [Ref. BOJA-b-2026-90049](https://www.boe.es/buscar/doc.php?id=BOJA-b-2026-90049)
+
+### CAPÍTULO XVII — Tasa por servicios administrativos y facultativos en materia de caza en Andalucía
+
+#### Artículo 229. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de servicios administrativos y facultativos en materia de caza en Andalucía, que se enumeran en el artículo 231.
+
+#### Artículo 230. Sujetos pasivos.
+
+1\. Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la prestación de los servicios o actividades administrativas que constituyen el hecho imponible.
+
+2\. Cuando el solicitante de la licencia sea un extranjero en situación de estancia, de conformidad con lo dispuesto en el artículo 30.1 de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, o norma que la sustituya, que opte por la tramitación de la solicitud de licencia a través de otra persona o entidad, serán sujetos pasivos, como sustitutos del contribuyente, quienes tramiten la solicitud.
+
+El sustituto deberá repercutir íntegramente el importe de la tasa sobre el contribuyente, que queda obligado a soportarlo.
+
+> Se añade el apartado 2 por el art. 81.13 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030)
+
+#### Artículo 231. Cuota tributaria.
+
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+1\. Por expedición de licencias de caza en Andalucía:
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2"> </th>
+<th class="cabeza_tabla">Importe</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">Licencias básicas.</td>
+<td class="cuerpo_tabla_izq">Sin arma.</td>
+<td class="cuerpo_tabla_izq">10,18 €/año.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Con armas de fuego-Menor solo.</td>
+<td class="cuerpo_tabla_izq">17,98 €/año.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Con armas de fuego-Mayor y menor.</td>
+<td class="cuerpo_tabla_izq">28,29 €/año.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Reclamo de perdiz-Menor solo.</td>
+<td class="cuerpo_tabla_izq">56,82 €/año.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Reclamo de perdiz-Mayor y menor.</td>
+<td class="cuerpo_tabla_izq">62,41 €/año.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cetrería.</td>
+<td class="cuerpo_tabla_izq">45,45 €/año.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Licencia de rehala.</td>
+<td class="cuerpo_tabla_izq">45,45 €/año.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Licencia de caza temporal.</td>
+<td class="cuerpo_tabla_izq">28,29 €/por periodo autorizado.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Licencia interautonómica de caza.</td>
+<td class="cuerpo_tabla_izq">70,00 €/año.</td>
+</tr>
+</tbody>
+</table>
+
+– Las licencias podrán expedirse por 1, 3 o 5 años, excepto la licencia de rehala y la licencia interautonómica de caza, que solo podrán expedirse por 1 año.
+
+– La licencia de caza temporal será válida por un periodo máximo de 15 días consecutivos.
+
+– La licencia interautonómica de caza incluirá la licencia básica de caza en todas sus modalidades, así como la licencia de rehala, sin que por ello sea exigible pago adicional alguno.
+
+2\. Por expedición de la matrícula anual para el mantenimiento de la condición de coto de caza en Andalucía:
+
+| Aprovechamiento principal | Aprovechamiento secundario | Importe (€/ha) |
+|---|---|---|
+| Mayor. | Menor. | 0,30 |
+| Mayor. | Ninguno. | 0,25 |
+| Menor. | Mayor. | 0,23 |
+| Menor. | Ninguno. | 0,16 |
+
+3\. Por autorización de uso del distintivo de calidad cinegética de Andalucía: 45,43 €/autorización.
+
+4\. Por expedición del certificado de inscripción de aves de cetrería en Registro en Andalucía: 12,88 €/certificado y ave.
+
+5\. Por expedición de la autorización de taller de taxidermia en Andalucía: 44,08 €/ autorización.
+
+6\. Por derechos de examen para la acreditación de la aptitud y conocimientos para el ejercicio de la caza en Andalucía: 34,29 €/examen.
+
+7\. Por autorización para el establecimiento de granjas cinegéticas en Andalucía: 89,91 €/autorización.
+
+8\. Por servicio de precintado de redes, artes y otros medios en caza en Andalucía: 4,08 €/precinto.
+
+\* Importes actualizados a 2026.
+
+> Se modifica el apartado 1 por el art. 2.3 del Decreto-ley 2/2026, de 11 de marzo. [Ref. BOJA-b-2026-90049](https://www.boe.es/buscar/doc.php?id=BOJA-b-2026-90049)
+
+> Se modifica por la disposición final 10.3 de la Ley 8/2025, de 22 de diciembre. [Ref. BOE-A-2026-945](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-945)
+
+> Redactado conforme a la corrección de errores publicada en el BOJA núm. 18, de 28 de enero de 2026. [Ref. BOE-A-2026-2887](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-2887)
+
+#### Artículo 232. Devengo.
+
+La tasa se devengará cuando se presente la solicitud que inicie la prestación de los servicios administrativos. No obstante, el ingreso de su importe se efectuará con carácter previo a la concesión de la autorización, licencia o prestación del servicio de que se trate.
+
+#### Artículo 233. Beneficios fiscales.
+
+1\. En relación con la tasa por expedición de licencias de caza en Andalucía, se establecen los siguientes beneficios fiscales:
+
+a) Estarán exentas del pago las personas que, a la fecha del devengo de la tasa, sean mayores de sesenta y cinco años, respecto a la expedición de licencia para la práctica de la actividad cinegética en Andalucía o la dedicación de medios auxiliares de caza a la actividad, conforme a la legislación vigente.
+
+b) Tendrán derecho a una bonificación del 50% las personas que, a la fecha del devengo de la tasa, sean menores de dieciocho años, excepto para las licencias de rehala y las licencias de caza temporal, las cuales no gozarán de bonificación alguna.
+
+c) Tendrán derecho a una bonificación del 50% las personas cazadoras federadas en la Federación Andaluza de Caza que tramiten su licencia a través de la propia Federación Andaluza de Caza. Esta bonificación es acumulativa a la de menores de dieciocho años prevista en el párrafo anterior.
+
+Dichos beneficios fiscales no eximirán a los beneficiarios de la obligación de solicitar las licencias procedentes.
+
+2\. Tendrán derecho a una bonificación en la cuota por matrícula anual para el mantenimiento de la condición de coto de caza en Andalucía del 50% los cotos deportivos, respecto del importe de la matrícula que resulte de aplicar el importe del aprovechamiento por la superficie del coto.
+
+3\. Tendrán derecho a una bonificación del 70% por el precintado de redes, artes y otros medios de caza en Andalucía, cuando se superen los 50 precintos o medios autorizados para un mismo solicitante.
+
+4\. Los beneficios fiscales establecidos en los apartados anteriores de este artículo, así como los previstos en el artículo 12.2, no serán aplicables a la tarifa por la expedición de licencia interautonómica de caza.
+
+> Se añade el apartado 4 por el art. 2.4 del Decreto-ley 2/2026, de 11 de marzo. [Ref. BOJA-b-2026-90049](https://www.boe.es/buscar/doc.php?id=BOJA-b-2026-90049)
+
+## TÍTULO XIII — Tasas en materia de turismo
+
+### CAPÍTULO I — Tasa por servicios administrativos de habilitación para el ejercicio de la actividad de guía de turismo de Andalucía y por la expedición, renovación y duplicado de carné o credencial
+
+#### Artículo 234. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de la solicitud para la obtención de la habilitación de guía de turismo de Andalucía, mediante los procedimientos de acceso general tras la acreditación de requisitos de cualificación profesional y competencias lingüísticas, reconocimiento de las cualificaciones profesionales obtenidas en otros Estados miembros de la Unión Europea, y mediante pruebas de aptitud, cuya superación o estimación conlleva la expedición de la correspondiente credencial y la solicitud de su renovación o duplicado.
+
+#### Artículo 235. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas que soliciten la acreditación de requisitos, el reconocimiento de cualificación profesional, o la inscripción en las convocatorias de pruebas para la obtención de la habilitación como guía de turismo en Andalucía, así como la expedición, la renovación o el duplicado de credencial.
+
+#### Artículo 236. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+| 1. | Por acreditación de requisitos de cualificación profesional y competencias lingüísticas en idioma castellano y en dos idiomas extranjeros y por reconocimiento de las cualificaciones profesionales obtenidas en otros Estados miembros de la Unión Europea y la expedición de credencial. | 16,09 euros. |
+|---|---|---|
+| 2. | Por incorporación de nuevos idiomas extranjeros a la habilitación para personas que ya dispongan de dicha habilitación como guía de turismo de Andalucía y expedición de credencial. | 16,09 euros. |
+| 3. | Por inscripción en las pruebas de aptitud para la obtención de la habilitación y la expedición de credencial. | 73,68 euros. |
+| 4. | Por expedición, renovación o duplicado de credencial. | 11,18 euros. |
+
+#### Artículo 237. Devengo.
+
+La tasa se devengará cuando se presente la solicitud de acreditación de requisitos, de reconocimiento o de inscripción en las pruebas, así como la de renovación o duplicado de credencial, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+#### Artículo 238. Beneficios fiscales.
+
+1\. Estarán exentas del pago de la tasa por inscripción en las pruebas de aptitud para la obtención de la habilitación y la expedición de credencial prevista en el punto 3 del artículo 236:
+
+a) Las personas con discapacidad en un grado igual o superior al 33% que tengan reconocida su condición, siempre que quede acreditado de conformidad con la normativa aplicable.
+
+b) Las personas beneficiarias de la prestación del ingreso mínimo vital a quienes se reconozca dicha condición de conformidad con lo dispuesto en la Ley 19/2021, de 20 de diciembre, por la que se establece el ingreso mínimo vital, o norma que la sustituya, las beneficiarias de la Renta Mínima de Inserción Social en Andalucía, a quienes se reconozca dicha condición de acuerdo con lo dispuesto en el Decreto-ley 3/2017, de 19 de diciembre, por el que se regula la Renta Mínima de Inserción Social en Andalucía, o norma que lo sustituya, o las beneficiarias de ambas prestaciones.
+
+2\. Tendrán derecho a una bonificación del 50% de la cuota tributaria por inscripción en las pruebas de aptitud para la obtención de la habilitación y la expedición de credencial prevista en el punto 3 del artículo 236 las personas demandantes de empleo no ocupadas que figuren debidamente inscritas como tales en los servicios públicos de empleo.
+
+3\. Las condiciones exigidas en los apartados 1 y 2 deberán concurrir a la fecha del devengo de la tasa.
+
+La presentación de la solicitud conllevará la autorización al órgano gestor para que pueda recabar dicha información.
+
+### CAPÍTULO II — Tasa por servicios administrativos de expedición del título oficial de Técnico de Empresas y Actividades Turísticas y de emisión de certificaciones
+
+#### Artículo 239. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de la solicitud de expedición del título oficial de Técnico de Empresas y Actividades Turísticas, y de emisión de certificaciones.
+
+#### Artículo 240. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas que soliciten la expedición del título oficial de Técnico de Empresas y Actividades Turísticas, así como la emisión de certificaciones.
+
+#### Artículo 241. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+| 1. | Por expedición de título oficial de Técnico de Empresas y Actividades Turísticas. | 55,43 euros. |
+|---|---|---|
+| 2. | Por emisión de certificaciones. | 20,40 euros. |
+
+#### Artículo 242. Devengo.
+
+La tasa se devengará cuando se presente la solicitud de expedición del título oficial de Técnico de Empresas y Actividades Turísticas, y de emisión de certificaciones, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+## TÍTULO XIV — Tasa en materia de deporte
+
+### CAPÍTULO ÚNICO — Tasa en materia de enseñanza náutico deportiva
+
+#### Artículo 243. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de la solicitud de inscripción en los exámenes necesarios para la obtención de los títulos y autorizaciones náutico deportivas para el gobierno de embarcaciones de recreo, la prestación de los servicios de convalidación de los títulos náuticos profesionales y académicos por los títulos de recreo actualmente vigentes, así como la expedición, renovación y emisión de duplicados de títulos y tarjetas de identidad marítima.
+
+#### Artículo 244. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas que soliciten la inscripción en las convocatorias de los exámenes, o la prestación de los servicios que constituyen el hecho imponible.
+
+#### Artículo 245. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por derechos de examen teórico para la obtención del:</td>
+<td class="cuerpo_tabla_centro">Importe</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.</td>
+<td class="cuerpo_tabla_izq">Título de Patrón de embarcación de recreo (PER).</td>
+<td class="cuerpo_tabla_izq">50,54 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.2.</td>
+<td class="cuerpo_tabla_izq">Título de Patrón de navegación básica (PNB).</td>
+<td class="cuerpo_tabla_izq">50,54 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.3.</td>
+<td class="cuerpo_tabla_izq">Título de Patrón de yate (PY).</td>
+<td class="cuerpo_tabla_izq">68,44 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.4.</td>
+<td class="cuerpo_tabla_izq">Título de Capitán de yate (CY).</td>
+<td class="cuerpo_tabla_izq">85,39 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por expedición o convalidación de cualquier título o tarjeta.</td>
+<td class="cuerpo_tabla_izq">47,62 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Por renovación o duplicado de título.</td>
+<td class="cuerpo_tabla_izq">6,75 euros.</td>
+</tr>
+</tbody>
+</table>
+
+#### Artículo 246. Devengo.
+
+La tasa se devengará en el momento de la solicitud de inscripción para el examen, la autorización o el servicio de que se trate, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+#### Artículo 247. Beneficios fiscales.
+
+Tendrán derecho a una bonificación del 50% de la cuota tributaria, las personas con discapacidad en un grado igual o superior al 33% que tengan reconocida su condición, siempre que quede acreditado de conformidad con la normativa aplicable.
+
+Dicha condición deberá concurrir a la fecha del devengo de la tasa. La presentación de la solicitud conllevará la autorización al órgano gestor para que pueda recabar dicha información.
+
+## TÍTULO XV — Tasa en materia de juegos y apuestas
+
+### CAPÍTULO ÚNICO — Tasa por servicios administrativos en materia de juegos y apuestas
+
+#### Artículo 248. Hecho imponible.
+
+Constituye el hecho imponible de la tasa las actividades administrativas de tramitación de autorizaciones, modificaciones, diligenciaciones y expedición de documentos, tanto en materia de juegos de suerte, envite o azar, como respecto de los establecimientos que legal y reglamentariamente se establecen para la práctica de aquéllos.
+
+#### Artículo 249. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la prestación de los servicios o actividades administrativas que constituyen el hecho imponible.
+
+#### Artículo 250. Cuota tributaria.
+
+El importe de la cuota tributaria es:
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="5%">
+<col width="6%">
+<col width="77%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Máquinas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.1.</td>
+<td class="cuerpo_tabla_izq">Autorizaciones de explotación.</td>
+<td class="cuerpo_tabla_izq">125,78 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.2.</td>
+<td class="cuerpo_tabla_izq">Altas, bajas, definitivas o temporales, canjes, cambio de titularidad y cualquier otra circunstancia que altere el contenido de la autorización.</td>
+<td class="cuerpo_tabla_izq">54,74 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.3.</td>
+<td class="cuerpo_tabla_izq">Autorización de instalación, cambios, prórrogas y bajas.</td>
+<td class="cuerpo_tabla_izq">54,74 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.4.</td>
+<td class="cuerpo_tabla_izq">Trámite de cambio de provincia.</td>
+<td class="cuerpo_tabla_izq">65,26 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.5.</td>
+<td class="cuerpo_tabla_izq">Altas de máquinas procedentes de provincias no andaluzas.</td>
+<td class="cuerpo_tabla_izq">150,04 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1.6.</td>
+<td class="cuerpo_tabla_izq">Petición de duplicado de documentos.</td>
+<td class="cuerpo_tabla_izq">5,89 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Empresas de servicios técnicos y comercializadoras:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.1.</td>
+<td class="cuerpo_tabla_izq">Autorizaciones.</td>
+<td class="cuerpo_tabla_izq">69,65 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2.2.</td>
+<td class="cuerpo_tabla_izq">Modificaciones.</td>
+<td class="cuerpo_tabla_izq">32,05 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Empresas de juego y apuestas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3.1.</td>
+<td class="cuerpo_tabla_izq">Inscripción en registro de empresas.</td>
+<td class="cuerpo_tabla_izq">251,94 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3.2.</td>
+<td class="cuerpo_tabla_izq">Modificaciones.</td>
+<td class="cuerpo_tabla_izq">32,05 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Homologaciones:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.1.</td>
+<td class="cuerpo_tabla_izq">Homologación e inscripción en el Registro de modelos de máquinas tipo B de un juego y homologación e inscripción de sus modificaciones sustanciales.</td>
+<td class="cuerpo_tabla_izq">209,93 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.2.</td>
+<td class="cuerpo_tabla_izq">Homologación e inscripción en el Registro de modelos de máquinas tipo B multijuegos y homologación e inscripción de sus modificaciones sustanciales.</td>
+<td class="cuerpo_tabla_izq">466,29 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.3.</td>
+<td class="cuerpo_tabla_izq">Homologación e inscripción en el Registro de modelos de máquinas tipo C de un juego y homologación e inscripción de sus modificaciones sustanciales.</td>
+<td class="cuerpo_tabla_izq">256,36 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.4.</td>
+<td class="cuerpo_tabla_izq">Homologación e inscripción en el Registro de modelos de máquinas tipo C multijuegos y homologación e inscripción de sus modificaciones sustanciales.</td>
+<td class="cuerpo_tabla_izq">466,29 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.5.</td>
+<td class="cuerpo_tabla_izq">Modificación no sustancial de modelos de máquinas tipo B o C.</td>
+<td class="cuerpo_tabla_izq">81,75 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.6.</td>
+<td class="cuerpo_tabla_izq">Homologación de sistemas de interconexión de máquinas y de sistemas de pago y de cobro.</td>
+<td class="cuerpo_tabla_izq">81,75 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.7.</td>
+<td class="cuerpo_tabla_izq">Modificación de la homologación de sistemas de interconexión de máquinas y de sistemas de pago y de cobro.</td>
+<td class="cuerpo_tabla_izq">46,43 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.8.</td>
+<td class="cuerpo_tabla_izq">Homologación de otros materiales de juego de soporte físico no electrónicos.</td>
+<td class="cuerpo_tabla_izq">64,09 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.9.</td>
+<td class="cuerpo_tabla_izq">Homologación de sistemas de bingo electrónico.</td>
+<td class="cuerpo_tabla_izq">318,46 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.10.</td>
+<td class="cuerpo_tabla_izq">Autorización de prueba de prototipo de modelos de máquinas B o C, así como de otros elementos de juego o apuestas.</td>
+<td class="cuerpo_tabla_izq">110,52 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4.11.</td>
+<td class="cuerpo_tabla_izq">Autorización de laboratorios o entidades de ensayo e inspección del material de juego o de apuestas.</td>
+<td class="cuerpo_tabla_izq">366,92 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">5.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Salones de juego:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.1.</td>
+<td class="cuerpo_tabla_izq">Autorizaciones de instalación.</td>
+<td class="cuerpo_tabla_izq">152,48 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.2.</td>
+<td class="cuerpo_tabla_izq">Autorizaciones de funcionamiento.</td>
+<td class="cuerpo_tabla_izq">645,24 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.3.</td>
+<td class="cuerpo_tabla_izq">Modificaciones de las autorizaciones.</td>
+<td class="cuerpo_tabla_izq">71,29 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5.4.</td>
+<td class="cuerpo_tabla_izq">Autorización de publicidad.</td>
+<td class="cuerpo_tabla_izq">15,48 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Bingos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6.1.</td>
+<td class="cuerpo_tabla_izq">Autorizaciones de instalación.</td>
+<td class="cuerpo_tabla_izq">152,48 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6.2.</td>
+<td class="cuerpo_tabla_izq">Autorizaciones de funcionamiento.</td>
+<td class="cuerpo_tabla_izq">758,81 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6.3.</td>
+<td class="cuerpo_tabla_izq">Modificaciones de las autorizaciones.</td>
+<td class="cuerpo_tabla_izq">131,23 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6.4.</td>
+<td class="cuerpo_tabla_izq">Autorización de publicidad.</td>
+<td class="cuerpo_tabla_izq">23,22 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">7.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Casinos:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">7.1.</td>
+<td class="cuerpo_tabla_izq">Autorizaciones de instalación.</td>
+<td class="cuerpo_tabla_izq">1.473,77 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">7.2.</td>
+<td class="cuerpo_tabla_izq">Autorizaciones de funcionamiento.</td>
+<td class="cuerpo_tabla_izq">6.460,20 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">7.3.</td>
+<td class="cuerpo_tabla_izq">Modificaciones de las autorizaciones.</td>
+<td class="cuerpo_tabla_izq">346,70 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">7.4.</td>
+<td class="cuerpo_tabla_izq">Autorización de publicidad.</td>
+<td class="cuerpo_tabla_izq">69,65 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der">8.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Hipódromos y apuestas hípicas:</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">8.1.</td>
+<td class="cuerpo_tabla_izq">Autorizaciones de instalación de hipódromos.</td>
+<td class="cuerpo_tabla_izq">1.473,77 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">8.2.</td>
+<td class="cuerpo_tabla_izq">Autorizaciones de funcionamiento de hipódromos.</td>
+<td class="cuerpo_tabla_izq">6.460,20 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">8.3.</td>
+<td class="cuerpo_tabla_izq">Modificaciones de las autorizaciones de funcionamiento de hipódromos.</td>
+<td class="cuerpo_tabla_izq">346,70 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">8.4.</td>
+<td class="cuerpo_tabla_izq">Autorización de publicidad.</td>
+<td class="cuerpo_tabla_izq">69,65 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">8.5.</td>
+<td class="cuerpo_tabla_izq">Autorización de locales de apuestas hípicas.</td>
+<td class="cuerpo_tabla_izq">152,48 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">8.6.</td>
+<td class="cuerpo_tabla_izq">Autorización de instalación de terminales de apuestas hípicas.</td>
+<td class="cuerpo_tabla_izq">59,50 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der">9.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Rifas y tómbolas.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">9.1.</td>
+<td class="cuerpo_tabla_izq">Autorización de ámbito local o provincial.</td>
+<td class="cuerpo_tabla_izq">83,85 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">9.2.</td>
+<td class="cuerpo_tabla_izq">Autorización de ámbito autonómico.</td>
+<td class="cuerpo_tabla_izq">148,07 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der">10.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Apuestas sobre eventos deportivos o de otra naturaleza.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">10.1.</td>
+<td class="cuerpo_tabla_izq">Autorización del sistema de apuestas.</td>
+<td class="cuerpo_tabla_izq">587,86 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">10.2.</td>
+<td class="cuerpo_tabla_izq">Modificación de la autorización del sistema de apuestas.</td>
+<td class="cuerpo_tabla_izq">335,92 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">10.3.</td>
+<td class="cuerpo_tabla_izq">Autorización y baja de instalación de terminales o de máquinas auxiliares.</td>
+<td class="cuerpo_tabla_izq">59,50 euros.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_centro">10.4.</td>
+<td class="cuerpo_tabla_izq">Autorización de publicidad.</td>
+<td class="cuerpo_tabla_izq">69,65 euros.</td>
+</tr>
+</tbody>
+</table>
+
+#### Artículo 251. Devengo.
+
+La tasa se devengará cuando se presente la solicitud que inicie el servicio administrativo. Cuando no se hubiera solicitado la autorización de instalación, al solicitar la de funcionamiento se devengará también la tasa correspondiente a la autorización de instalación.
+
+#### Artículo 251 bis. Beneficios fiscales.
+
+Estarán exentos del pago de la tasa por servicios administrativos en materia de rifas y tómbolas prevista en el epígrafe 9.1 y 9.2 del artículo 250 quienes soliciten la autorización de las rifas o tómbolas por entidades con fines benéficos, religiosos, culturales, turísticos, deportivos o ambientales legalmente autorizadas e inscritas en el registro correspondiente, siempre que el valor total de los premios ofrecidos no exceda de 5.000 euros.
+
+> Se añade por la disposición final 12.12 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+## TÍTULO XVI — Tasa en materia de selección de personal
+
+### CAPÍTULO ÚNICO — Tasa por inscripción en las convocatorias que realicen la Administración de la Junta de Andalucía, sus agencias y consorcios, para la selección de personal
+
+> Se modifica por la disposición final 12.13 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+#### Artículo 252. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la actividad administrativa derivada de la inscripción en las convocatorias para la selección del personal que realicen la Administración de la Junta de Andalucía, sus agencias y, en su caso, consorcios, tanto de personal funcionario y estatutario como laboral.
+
+> Se modifica por la disposición adicional 12.14 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+#### Artículo 253. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas que soliciten la inscripción en las convocatorias que realicen la Administración de la Junta de Andalucía, sus agencias y consorcios, para la selección del personal.
+
+> Se modifica por la disposición adicional 12.15 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+#### Artículo 254. Cuota tributaria.
+
+1\. La tasa se exigirá, con carácter general, de acuerdo con la siguiente tarifa:
+
+a) Para convocatorias de acceso a cuerpos de personal funcionario, estatutario y laboral que se realicen por la Administración de la Junta de Andalucía, sus agencias y consorcios:
+
+1.º Para acceso a cuerpos del Grupo A, Subgrupo A1, y Grupo I de personal laboral: 47,39 euros.
+
+2.º Para acceso a cuerpos del Grupo A, Subgrupo A2 y Grupo II de personal laboral: 31,30 euros.
+
+3.º Para acceso a cuerpos del Grupo B: 23,70 euros.
+
+4.º Para acceso a cuerpos del Grupo C, Subgrupo C1 y Grupo III de personal laboral: 16,08 euros.
+
+5.º Para acceso a cuerpos del Grupo C, Subgrupo C2 y Grupo IV de personal laboral: 13,41 euros.
+
+6.º Para acceso a otras agrupaciones profesionales y Grupo V de personal laboral: 13,41 euros.
+
+b) Para las convocatorias de acceso a los cuerpos de personal docente no universitario que realice la Consejería competente en materia de educación:
+
+1.º Para acceso a cuerpos docentes del Grupo A, Subgrupo A1: 57,76 euros.
+
+2.º Para acceso a cuerpos docentes del Grupo A, Subgrupo A2: 45,54 euros.
+
+c) Para las convocatorias de acceso a la categoría de policía, Grupo C, Subgrupo C1, de los cuerpos de la Policía Local de Andalucía realizadas por la Consejería con competencias sobre las policías locales, al amparo de la convocatoria unificada establecida en el artículo 43.4 de la Ley 6/2023, de 7 de julio, de Policías Locales de Andalucía: 100 euros.
+
+2\. En relación con el personal laboral no incluido en el VI Convenio Colectivo del Personal Laboral de la Administración de la Junta de Andalucía, la tasa se exigirá en función del Grupo del personal del VI Convenio Colectivo con el que guarde la debida equivalencia, con aplicación de las cuantías establecidas en los párrafos a) y b) del apartado anterior que correspondan.
+
+\* Importes actualizados a 2026.
+
+> Se modifica por la disposición final 10.4 de la Ley 8/2025, de 22 de diciembre. [Ref. BOE-A-2026-945](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-945)
+
+> Se modifica por la disposición final 6.1 de la Ley 12/2023, de 26 de diciembre. [Ref. BOE-A-2024-447](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-447)
+
+> Se modifica por la disposición adicional 12.16 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+#### Artículo 255. Devengo.
+
+La tasa se devengará cuando se presente la solicitud de inscripción en las pruebas, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+#### Artículo 256. Beneficios fiscales.
+
+1\. Estarán exentos del pago de la tasa los siguientes solicitantes que tengan reconocida su condición, siempre que quede acreditado de conformidad con la normativa aplicable:
+
+a) Los miembros de familias numerosas de la categoría especial y general.
+
+b) Las víctimas del terrorismo, así como las demás personas físicas a que se refiere el artículo 3.a) de la Ley 10/2010, de 15 de noviembre, relativa a medidas para la asistencia y atención a las víctimas del terrorismo de la Comunidad Autónoma de Andalucía.
+
+c) Las víctimas de violencia de género, doméstica o de ambas.
+
+A estos efectos, tendrán la consideración de víctima de violencia doméstica las personas a que se refiere el artículo 173.2 de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, que cuenten con orden de protección en vigor e inscrita en el Registro Central para la Protección de las Víctimas de la Violencia Doméstica, o con sentencia judicial firme por tal motivo en los últimos diez años.
+
+d) Las personas con discapacidad en un grado igual o superior al 33%.
+
+e) Las personas beneficiarias de la prestación del ingreso mínimo vital a quienes se reconozca dicha condición de conformidad con lo dispuesto en la Ley 19/2021, de 20 de diciembre, por la que se establece el ingreso mínimo vital, o norma que la sustituya, las beneficiarias de la Renta Mínima de Inserción Social en Andalucía, a quienes se reconozca dicha condición de acuerdo con lo dispuesto en el Decreto-ley 3/2017, de 19 de diciembre, por el que se regula la Renta Mínima de Inserción Social en Andalucía, o norma que lo sustituya, o las beneficiarias de ambas prestaciones.
+
+2\. Las condiciones establecidas en el apartado 1 deberán concurrir a la fecha del devengo de la tasa. La presentación de la solicitud conllevará la autorización al órgano gestor para que pueda recabar dicha información.
+
+## TÍTULO XVII — Tasa en materia de ocupación y aprovechamiento de bienes de dominio público
+
+### CAPÍTULO ÚNICO — Tasa por ocupación y aprovechamiento de bienes de dominio público
+
+#### Artículo 257. Hecho imponible.
+
+1\. Constituye el hecho imponible de esta tasa la utilización privativa o el aprovechamiento especial de bienes de dominio público que se hagan por concesiones, autorizaciones u otros títulos de habilitación por los órganos competentes de la Administración de la Comunidad Autónoma, de acuerdo con las disposiciones específicas que las regulen y la normativa patrimonial de aplicación.
+
+2\. No quedará sujeta a la presente tasa la utilización privativa o aprovechamiento especial de bienes de dominio público cuando ya estuvieran gravados por una tasa específica.
+
+3\. No se exigirá el pago de la tasa cuando la utilización privativa o el aprovechamiento especial de bienes de dominio público no lleve aparejada una utilidad económica para la persona titular de la concesión, autorización o persona adjudicataria o, aun existiendo dicha utilidad, la utilización o aprovechamiento comporte condiciones o contraprestaciones para la persona beneficiaria que anulen o hagan irrelevante aquella.
+
+Tales circunstancias se harán constar en los pliegos de condiciones o clausulado de la concesión, autorización o adjudicación.
+
+#### Artículo 258. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, titulares de las concesiones, autorizaciones o personas adjudicatarias, o en su caso, quienes se subroguen en el lugar de las personas anteriores.
+
+#### Artículo 259. Cuota tributaria.
+
+1\. Se establecen las siguientes bases en relación con los distintos supuestos de utilización del dominio público:
+
+a) En caso de utilización privativa de bienes de dominio público, la base de la tasa será el valor de la parte del bien efectivamente ocupado y, en su caso, de las instalaciones ocupadas, tomando como referencia el valor de mercado de los inmuebles próximos de naturaleza análoga, o cuando no puedan ser valorados en función del valor de mercado de los inmuebles próximos de naturaleza análoga, la utilidad que reporte el uso durante el correspondiente período, tomando como referencia la utilidad de bienes de naturaleza análoga.
+
+b) En el caso de aprovechamiento especial de bienes de dominio público, la base de la tasa tomará como referencia el valor de mercado de la utilidad derivada del aprovechamiento. Cuando dicha utilidad no pueda ser valorada en función de su valor de mercado, se podrá tomar como referencia el valor de mercado de la utilidad derivada del aprovechamiento de bienes de naturaleza análoga.
+
+En el aprovechamiento especial que se haga mediante la ocupación de la superficie de bienes de dominio público de la Comunidad Autónoma de Andalucía que estén destinados a oficinas o servicios administrativos, a través de instalaciones desmontables o bienes muebles, en virtud de licencia o autorización otorgada por los órganos competentes de la Administración de la Junta de Andalucía, de acuerdo con las disposiciones específicas que la regulen y la normativa patrimonial de aplicación, la base imponible será el valor del terreno ocupado, teniendo en cuenta la proporción de la superficie ocupada y su ubicación en el inmueble, y la utilidad que reporte el aprovechamiento.
+
+En las ocupaciones y aprovechamientos de bienes del dominio público para el despliegue de infraestructuras lineales de telecomunicaciones, la superficie para el cálculo de la tasa, cuando corresponda, vendrá determinada por el ancho y longitud efectivos del trazado.
+
+2\. El valor que se tome como base de la tasa en cada caso, se justificará mediante un informe técnico-económico o memoria económico-financiera en el que se pongan de manifiesto los criterios y parámetros adoptados para justificar las cuantías propuestas.
+
+3\. Cuando se utilicen procedimientos de licitación o concurrencia pública, la base de la tasa vendrá determinada por el valor económico de la proposición sobre la que recaiga la concesión, autorización o adjudicación.
+
+De no concurrir tales procedimientos, la base se determinará por el órgano competente en cada caso, para el otorgamiento de la autorización, concesión u otra forma de adjudicación, conforme a los criterios señalados en los párrafos a) y b) del apartado 1.
+
+4\. Cuando en los pliegos de condiciones o clausulado de la concesión, autorización o adjudicación se impusieren determinadas obligaciones o contraprestaciones a la persona beneficiaria que minoraran su utilidad económica, la base de la tasa habrá de ser reducida en la misma proporción, sin perjuicio de lo previsto en el artículo 257.3.
+
+5\. En el primer año del otorgamiento de la concesión, autorización o adjudicación, la determinación de la cuantía de la tasa exigible será proporcional al período en vigor durante dicho año, aplicándose el prorrateo correspondiente al importe obtenido según los párrafos anteriores. Asimismo, este criterio de prorrateo se aplicará en el último año de vigencia de la concesión o autorización.
+
+6\. El tipo del gravamen anual será del 5 % sobre el valor de la base resultante en los dos casos previstos en los párrafos a) y b) del apartado 1.
+
+No obstante, cuando se utilicen procedimientos de licitación o concurrencia pública, el tipo de gravamen anual será del 100 % sobre el valor de la base determinada conforme a lo dispuesto en el apartado 3.
+
+> Se modifican los apartados 1.b), 3 y 6 por la disposición final 6.5 de la Ley 7/2024, de 23 de diciembre. [Ref. BOE-A-2025-413](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-413)
+
+> Véase, en cuanto a la aplicación del apartado 1.b), lo establecido en la disposición transitoria 5 de la citada Ley.
+
+#### Artículo 260. Devengo.
+
+La tasa se devengará en el momento del otorgamiento de los títulos a que se refiere el hecho imponible con respecto a la anualidad en curso.
+
+En las sucesivas anualidades de vigencia de la concesión, autorización o adjudicación, el devengo de la tasa se producirá el 1 de enero de cada año, siendo exigible en la cuantía que sea procedente y en los plazos y en las condiciones que se señalen en la concesión, autorización o adjudicación.
+
+#### Artículo 261. Beneficios fiscales.
+
+Estarán exentos del pago de la tasa las ocupaciones y aprovechamientos de bienes del dominio público para el despliegue de infraestructuras de telecomunicaciones que permitan ofrecer servicios de conectividad de al menos 100 Mbps por usuario durante el primer año desde el devengo. No obstante, cuando dicha actividad se realice con el objetivo de ofrecer servicios de conectividad de al menos 100 Mbps en las zonas blancas y grises definidas en el mapa de cobertura que publique anualmente la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales o, en su defecto, el órgano competente de la Junta de Andalucía, la exención se extenderá durante los cinco primeros años desde el momento del devengo.
+
+## TÍTULO XVIII — Tasa en materia de estadística y cartografía
+
+### CAPÍTULO ÚNICO — Tasa por certificación del Instituto de Estadística y Cartografía de Andalucía
+
+#### Artículo 262. Hecho imponible.
+
+Constituye el hecho imponible de la tasa:
+
+a) La expedición de certificaciones de datos o de resultados estadísticos o geoespaciales obtenidos por el Instituto de Estadística y Cartografía de Andalucía.
+
+b) La expedición de certificaciones de las fechas de vuelos de fotografías aéreas pertenecientes al fondo documental de fotografías aéreas del Instituto de Estadística y Cartografía de Andalucía.
+
+#### Artículo 263. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la expedición de las certificaciones a que se refiere el hecho imponible.
+
+#### Artículo 264. Cuota tributaria.
+
+La tasa se exigirá según la siguiente tarifa:
+
+| 1. | Por cada certificación de datos o de resultados estadísticos o geoespaciales obtenidos por el Instituto de Estadística y Cartografía de Andalucía. | 5 euros. |
+|---|---|---|
+| 2. | Por cada impresión en papel fotográfico en A4 y certificación de fecha de vuelo de fotografía aérea. | 19,59 euros. |
+| 3. | Por cada impresión en papel fotográfico en A3 y certificación de fecha de vuelo de fotografía aérea. | 21,29 euros. |
+| 4. | Por cada escaneo en blanco y negro, impresión en papel fotográfico en A4 y certificación de fecha de vuelo de fotografía aérea. | 40,50 euros. |
+| 5. | Por cada escaneo en blanco y negro, impresión en papel fotográfico en A3 y certificación de fecha de vuelo de fotografía aérea. | 42,20 euros. |
+| 6. | Por cada escaneo en color, impresión en papel fotográfico en A4 y certificación de fecha de vuelo de fotografía aérea. | 46,88 euros. |
+| 7. | Por cada escaneo en color, impresión en papel fotográfico en A3 y certificación de fecha de vuelo de fotografía aérea. | 48,58 euros. |
+
+#### Artículo 265. Devengo.
+
+La tasa se devengará cuando se presente la solicitud de la expedición de la certificación, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+## TÍTULO XIX — Tasa en materia de comunicaciones
+
+### CAPÍTULO ÚNICO — Tasa por autorización de negocios jurídicos sobre licencias de comunicación audiovisual
+
+#### Artículo 266. Hecho imponible.
+
+Constituye el hecho imponible de esta tasa la autorización administrativa previa a la celebración de negocios jurídicos cuyo objeto sean licencias para la prestación de servicios de comunicación audiovisual, ya sean de radio o de televisión.
+
+#### Artículo 267. Sujetos pasivos.
+
+Serán sujetos pasivos las personas físicas o jurídicas que a través del negocio jurídico vayan a subrogarse en las obligaciones de la actual persona licenciataria.
+
+#### Artículo 268. Cuota tributaria.
+
+El importe de la cuota tributaria es de 609,14 euros por autorización.
+
+#### Artículo 269. Devengo.
+
+La tasa se devengará cuando se apruebe dicha autorización, sin que surta efecto el negocio jurídico hasta que la tasa sea abonada.
+
+#### Disposición adicional primera. Determinación de los precios públicos de las Universidades públicas andaluzas.
+
+Los precios públicos de las Universidades públicas andaluzas por servicios administrativos y académicos referentes a estudios conducentes a la obtención de títulos universitarios de carácter oficial y validez en todo el territorio nacional se determinarán mediante Decreto del Consejo de Gobierno, que elevará a su aprobación la Consejería con competencia en materia de enseñanzas universitarias, previo informe del Consejo Andaluz de Universidades.
+
+#### Disposición adicional segunda. Publicidad activa de las tasas y precios públicos.
+
+1\. La Consejería competente por razón de la materia y la Consejería competente en materia de Hacienda, en cumplimiento de la obligación de publicidad activa definida en el artículo 2.b) de la Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía, publicarán las tasas y precios públicos actualizados de la Junta de Andalucía contemplados en esta Ley y aquellos otros que se establezcan o regulen en el futuro en la Sección de Transparencia del Portal de la Junta de Andalucía.
+
+2\. Asimismo, se dará publicidad adicional en el Portal de la Junta de Andalucía, a través de la sección correspondiente de la Consejería competente por razón de la materia, así como en la de la Consejería competente en materia de Hacienda, a las tasas y precios públicos actualizados de la Junta de Andalucía contemplados en el apartado anterior. En su caso, se realizarán las campañas informativas dirigidas a la ciudadanía, con el fin de que pueda conocer sus obligaciones y sus derechos en esta importante materia, así como la forma de poder ejercerlos.
+
+> Redactado el apartado 2 conforme al punto 4 de la corrección de errores publicada en el BOJA núm. 28, de 10 de febrero de 2022. Ref. BOE-A-2022-2623
+
+#### Disposición adicional tercera. Ingresos relativos a tasas y precios públicos del Patronato de la Alhambra y Generalife.
+
+En cumplimiento de lo establecido en el artículo 52.5 del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, y sin perjuicio del artículo 6 de la presente Ley, la previsión anual por los ingresos correspondientes a las tasas del Patronato de la Alhambra y Generalife reguladas en el capítulo II del título IX de la presente Ley y a los precios públicos correspondientes al mismo, solo se incluirán en el proyecto de Ley del Presupuesto de la Comunidad Autónoma de Andalucía en el estado de ingresos de dicha agencia administrativa, con el objeto de financiar la completa cobertura de las necesidades de inversión y gasto de dicha entidad.
+
+#### Disposición adicional cuarta. Aplicación efectiva de la bonificación de la tasa por servicios facultativos veterinarios para titulares de explotaciones de producción ecológica.
+
+La aplicación efectiva de lo establecido en el apartado 4 del artículo 62 quedará condicionada a su compatibilidad con el ordenamiento comunitario.
+
+> Se añade por la disposición final 1.2 de la Ley 2/2025, de 12 de diciembre. [Ref. BOE-A-2025-26848](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26848)
+
+#### Disposición adicional quinta. Normas comunes a las tarifas por la expedición de licencias interautonómicas de caza y pesca.
+
+1\. El importe y periodicidad de las tarifas por la expedición de licencias interautonómicas de caza y pesca continental fijados en los artículos 226 y 231 se corresponden con lo establecido en el Convenio suscrito entre el Ministerio de Agricultura, Pesca y Alimentación y las Administraciones de las Comunidades Autónomas de Andalucía, Aragón, Castilla-La Mancha, Castilla y León, Madrid, la Comunitat Valenciana, Extremadura, Galicia, el Principado de Asturias y la Región de Murcia para el establecimiento de las licencias interautonómicas de caza y de pesca en aguas continentales, de fecha 18 de febrero de 2026.
+
+2\. Los importes de las tasas por la expedición de licencias interautonómicas de caza y pesca continental no serán objeto de actualización anual por la Ley del Presupuesto de la Comunidad Autónoma de Andalucía.
+
+> Se añade por el art. 2.5 del Decreto-ley 2/2026, de 11 de marzo. [Ref. BOJA-b-2026-90049](https://www.boe.es/buscar/doc.php?id=BOJA-b-2026-90049)
+
+#### Disposición transitoria primera. Delegaciones de competencias en relación con la aplicación de las tasas.
+
+Las delegaciones de competencias realizadas para la aplicación de las tasas antes de la entrada en vigor de la presente Ley, seguirán siendo válidas, sin perjuicio de la posibilidad de dejar sin efectos cualquiera de dichas delegaciones.
+
+#### Disposición transitoria segunda. Exención temporal de la tasa por servicios facultativos agronómicos.
+
+Se establece una exención del pago de la tasa por servicios facultativos agronómicos para quienes soliciten hasta el 31 de diciembre de 2024 la prestación de los servicios o la realización de las actividades administrativas que constituyen el hecho imponible de esta tasa regulado en el artículo 53.
+
+> Se modifica por la disposición final 6.2 de la Ley 12/2023, de 26 de diciembre. [Ref. BOE-A-2024-447](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-447)
+
+> Se modifica por la disposición final 12.17 de la Ley 1/2022, de 27 de diciembre. [Ref. BOE-A-2023-1604](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1604)
+
+> Se modifica por la disposición final 4.3 del Decreto-ley 2/2022, de 29 de marzo de 2022. [Ref. BOJA-b-2022-90095](https://www.boe.es/buscar/doc.php?id=BOJA-b-2022-90095)
+
+#### Disposición transitoria tercera. Bonificación temporal para determinadas tarifas de la tasa por servicios administrativos y facultativos en materia de caza en Andalucía.
+
+Se establece una bonificación del 25% del importe de las cuotas correspondientes a las siguientes tarifas de la tasa por servicios administrativos y facultativos en materia de caza en Andalucía para los servicios o actividades administrativas que constituyen el hecho imponible de esta tasa a que se refiere el artículo 229, cuya solicitud se efectúe desde la entrada en vigor de la presente Ley hasta el día 31 de diciembre de 2022:
+
+a) Por expedición de la autorización de taller de taxidermia en Andalucía.
+
+b) Por derechos de examen para la acreditación de la aptitud y conocimientos para el ejercicio de la caza en Andalucía.
+
+c) Por autorización para el establecimiento de granjas cinegéticas en Andalucía».
+
+#### Disposición transitoria cuarta Aplicación del pago único de la cuota tributaria en ocupaciones derivadas de declaraciones de utilidad pública o de normativa sectorial.
+
+La opción del pago único de la cuota tributaria de la tasa en ocupaciones derivadas de declaraciones de utilidad pública o de normativa sectorial prevista en el artículo 187 bis solo será aplicable a los procedimientos de concesiones administrativas u otros títulos habilitantes para la ocupación de montes de dominio público de titularidad de la Comunidad Autónoma de Andalucía cuya tramitación se inicie a partir de la entrada en vigor de dicho artículo.
+
+> Se añade por la disposición final 3.3 de la Ley 3/2026, de 13 de marzo. [Ref. BOE-A-2026-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7559)
+
+#### Disposición transitoria quinta. Aplicación de los nuevos parámetros para la determinación de la cuota tributaria de la tasa de ocupación de montes de dominio público conforme a la redacción dada al artículo 187.1 por la Ley de Montes de Andalucía.
+
+Los sujetos pasivos de la tasa por ocupación de montes de dominio público, titulares de concesiones u otros títulos habilitantes otorgados o prorrogados desde la entrada en vigor de esta ley, cuya cuota tributaria hubiera sido calculada conforme al artículo 187.1, en su redacción vigente con anterioridad a la establecida por la disposición final tercera de la Ley de Montes de Andalucía, podrán solicitar la revisión de la cuota tributaria vigente mediante la aplicación de los nuevos parámetros previstos en el citado artículo, con efectos a partir de la siguiente cuota anual que resulte exigible, según lo dispuesto en el artículo 188.
+
+> Se añade por la disposición final 3.3 de la Ley 3/2026, de 13 de marzo. [Ref. BOE-A-2026-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7559)
+
+#### Disposición derogatoria única. Derogación normativa.
+
+1\. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan o contradigan a esta Ley y, expresamente:
+
+a) La Ley 4/1988, de 5 de julio, de Tasas y Precios Públicos de la Comunidad Autónoma de Andalucía, sin perjuicio de lo dispuesto en la disposición final segunda respecto al Capítulo I del Título VIII y al Anexo VII de dicha Ley.
+
+b) El Anexo a la Ley 10/1988, de 29 de diciembre, de Presupuesto de la Comunidad Autónoma de Andalucía para 1989.
+
+c) El artículo 33 de la Ley 4/1989, de 12 de diciembre, de Estadística de la Comunidad Autónoma de Andalucía.
+
+d) Los artículos 1 a 12 de la Ley 9/1996, de 26 de diciembre, por la que se aprueban Medidas Fiscales en materia de Hacienda Pública, Contratación Administrativa, Patrimonio, Función Pública y Asistencia Jurídica a Entidades de Derecho Público.
+
+e) Los artículos 1 a 47 de la Ley 8/1997, de 23 de diciembre, por la que se aprueban medidas en materia tributaria, presupuestaria, de empresas de la Junta de Andalucía y otras entidades, de recaudación, de contratación, de función pública y de fianzas de arrendamientos y suministros.
+
+f) Los artículos 55 a 60 y los Anexos 1 y 2 de la Ley 5/1999, de 29 de junio, de prevención y lucha contra los incendios forestales.
+
+g) Los artículos 3 a 8 de la Ley 15/2001, de 26 de diciembre, por la que se aprueban medidas fiscales, presupuestarias, de control y administrativas.
+
+h) Los artículos 32 a 42 de la Ley 10/2002, de 21 de diciembre, por la que se aprueban normas en materia de tributos cedidos y otras medidas tributarias, administrativas y financieras.
+
+i) Los artículos 78 a 100 y 109 a 113, así como el Anexo III de la Ley 18/2003, de 29 de diciembre, por la que se aprueban medidas fiscales y administrativas.
+
+j) Los artículos 15 a 24 de la Ley 3/2004, de 28 de diciembre, de Medidas Tributarias, Administrativas y Financieras.
+
+k) La Orden de la Consejería de Agricultura y Pesca, de 8 de junio de 2006, por la que se establecen los valores de determinadas semillas que han de servir de base para la exacción de la tasa por control y certificación de semillas y plantas de vivero.
+
+l) La disposición transitoria tercera de la Ley 1/2008, de 27 de noviembre, de medidas tributarias y financieras de impulso a la actividad económica de Andalucía, y de agilización de procedimientos administrativos.
+
+2\. Queda sin efectos la Resolución de 19 de noviembre de 2001, de la Dirección General de Tributos e Inspección Tributaria, por la que se procede a hacer pública la redenominación a euros de las tasas de la Comunidad Autónoma de Andalucía.
+
+#### Disposición final primera. Modificación de la Ley 21/2007, de 18 de diciembre, de Régimen Jurídico y Económico de los Puertos de Andalucía.
+
+Se modifica el párrafo primero del artículo 56.V.I.1 de la Ley 21/2007, de 18 de diciembre, de Régimen Jurídico y Económico de los Puertos de Andalucía, quedando redactado como sigue:
+
+> «I.1. Embarcaciones en atraques predefinidos, entendiendo por tales los de dimensiones fijas, identificados unívocamente, ubicados en instalaciones deportivas dotadas de aseos o duchas para las personas usuarias y de marinería permanente o servicios análogos: el importe de la tasa será el resultante de aplicar un coeficiente de 0,5274275 euros por metro cuadrado de superficie computable de atraque y día o fracción.»
+
+#### Disposición final segunda. Aplicación de la tasa por servicios académicos.
+
+En tanto no produzca efectos el Acuerdo de Consejo de Gobierno que determine los precios públicos por la prestación de los servicios académicos en las enseñanzas elementales y profesionales de música y danza y en las enseñanzas de arte dramático, mantendrá su aplicación la tasa por servicios académicos regulada en el Capítulo I del Título VIII y en el Anexo VII de la Ley 4/1988, de 5 de julio, de Tasas y Precios Públicos de la Comunidad Autónoma de Andalucía.
+
+#### Disposición final tercera. Desarrollo reglamentario.
+
+1\. Corresponde al Consejo de Gobierno de la Junta de Andalucía el ejercicio de la potestad reglamentaria en materia de tasas, a iniciativa conjunta de la Consejería competente en materia tributaria y de la Consejería que preste el servicio o actividad o de la que dependa la entidad correspondiente, sin perjuicio de las exigencias de la reserva de ley a la que están sometidas las tasas.
+
+2\. Se habilita a la persona titular de la Consejería que preste el servicio o actividad o de la que dependa la entidad correspondiente, previo informe preceptivo de la Consejería competente en materia tributaria, para dictar órdenes en materia de tasas en el ámbito de sus competencias.
+
+3\. Se habilita a la persona titular de la Consejería competente en materia de Hacienda para aprobar los modelos de declaración y autoliquidación de las tasas y precios públicos de la Comunidad Autónoma de Andalucía.
+
+#### Disposición final cuarta. Actualización de la norma.
+
+El texto normativo se actualizará una vez finalizado el período de ejecución de los fondos provenientes del programa europeo vinculado a los Fondos Next Generation, que implicarán una profunda digitalización de los procesos administrativos de la Junta de Andalucía y que, por tanto, tendrán un fuerte impacto en la gestión de las tasas y precios públicos.
+
+#### Disposición final quinta. Entrada en vigor.
+
+Esta Ley entrará en vigor el 1 de enero de 2022, excepto las siguientes disposiciones:
+
+a) El artículo 46, en lo referente a las tarifas 1.1, 3.3, 7.2, 7.5 (únicamente cuando la inscripción derive de una comunicación de puesta en funcionamiento, gravada con la tarifa 7.2), 8.1 (excepto las 8.1.4 y 8.1.5), 9.1, 9.2 y 13, de la tasa por servicios administrativos en materia de industria, energía y minas, no será aplicable hasta que produzca efectos la orden de las personas titulares de las Consejerías competentes en materia de industria, energía y minas, que declare operativas las herramientas informáticas necesarias para su gestión, y que deberá ser publicada en el “Boletín Oficial de la Junta de Andalucía”.
+
+El artículo 46, en lo referente a las tarifas 19.1 y 20.1 de la tasa por servicios administrativos en materia de industria, energía y minas, no será aplicable hasta que no se produzca la entrada en vigor de la orden a la que se refiere dicho artículo.
+
+b) Los artículos 129 a 133, relativos a la tasa por utilización o usos especiales de espacios en instituciones culturales gestionadas por la Comunidad Autónoma de Andalucía, no serán aplicables hasta que no se produzca la entrada en vigor de la Orden a que se refiere el artículo 131.4 de esta ley, y que deberá ser publicada en el «Boletín Oficial de la Junta de Andalucía.
+
+> Se modifica la letra a) por la disposición final 4.4 del Decreto-ley 2/2022, de 29 de marzo de 2022. [Ref. BOJA-b-2022-90095](https://www.boe.es/buscar/doc.php?id=BOJA-b-2022-90095)
+
+Sevilla, 28 de diciembre de 2021.–El Presidente de la Junta de Andalucía, Juan Manuel Moreno Bonilla.

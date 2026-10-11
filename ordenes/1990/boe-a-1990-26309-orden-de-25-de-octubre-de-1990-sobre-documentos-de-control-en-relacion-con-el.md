@@ -1,0 +1,589 @@
+---
+title: "Orden de 25 de octubre de 1990 sobre documentos de control en relación con el transporte de viajeros y las actividades auxiliares y complementarios del mismo"
+identifier: "BOE-A-1990-26309"
+eli: "https://www.boe.es/eli/es/o/1990/10/25/(3)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Transportes, Turismo y Comunicaciones"
+date: 1990-10-25
+published: 1990-10-30
+in_force_from: 1990-10-28
+last_amended: 2003-01-09
+consolidated: 2026-05-27
+gazette: "Boletín Oficial del Estado núm. 260"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-26309"
+retrieved: 2026-10-11
+---
+
+# Orden de 25 de octubre de 1990 sobre documentos de control en relación con el transporte de viajeros y las actividades auxiliares y complementarios del mismo
+
+Desde la publicación del Reglamento de 22 de junio de 1929, una abundante y dispersa legislación ha venido reiterando la obligación de los titulares de los servicios públicos de transporte por carretera de cumplimentar determinados documentos, como el libro de ruta, y cumplir otras formalidades en relación con el servicio, tales como las referidas a billetes y al libro de reclamaciones.
+
+Tras los cambios normativos introducidos por la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres y su Reglamento General, aprobado por Real Decreto 1211/1990, de 28 de septiembre, es necesario actualizar las reglas aplicables en relación con la documentación citada, a fin de adecuarlas a los referidos cambios y de posibilitar un mejor cumplimiento de los fines estadísticos y de control perseguidos.
+
+En este sentido se hace preciso tener en cuenta la nueva concepción implantada por dichas normas en cuestiones tales como la colaboración entre transportistas, la titularidad de los vehículos, las distintas formas de transporte regular y la adscripción de los vehículos al mismo, la comercialiación del transporte, etc.
+
+Junto a ello resulta conveniente eliminar la duplicidad de formalidades y unificar, en lo posible, la documentación exigida para los distintos servicios. A tal efcto se opta por extender la obligatoriedad del libro de ruta a todos los autobuses destinados al transprote público interurbano, tanto si circulan provistos de tarjeta VD como VR, y por eliminar la obligación de formalizar la hoja de ruta en los servicios de carácter regular, modificando, en consecuencia el sistema de comunicación de datos estadísticos desde las empresas a la Administración.
+
+Todo ello unido a la conveniencia, expresamente señalada en la exposición de motivos de la Ley de Ordenación de los Transportes Terrestres de corregir en lo posible la proliferación asistemática y dispersa de las normas de carácter reglamentario que afectan al sector del transprote, llevó a la decisión de incluir en la tabla de derogaciones de su Reglamento General la totalidad de las normas que regulaban los documentos de control exigidos en el transporte de viajeros, desarrollando las previsiones del artículo 222 del citado Reglamento en tal materia mediante un único texto legal.
+
+En su virtud, he tenido a bien disponer:
+
+CAPÍTULO I
+
+## Del libro de ruta
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+### Art. 1.º
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+### Art. 2.º
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+### Art. 3.º
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+### Art. 4.º
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+### Art. 5.º
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+## CAPÍTULO II — Del control estadístico de los servicios
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+### Art. 6.º
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+## CAPÍTULO III — De los billetes
+
+### Art. 7.º
+
+1\. Conforme se previene en el segundo párrafo del punto 4 del artículo 222 del Reglamento General de la Ley de Ordenación de los Transportes Terrestres en todos los servicos interurbanos de transporte de viajeros por carretera contratados por plaza con pago individual, la empresa deberá proveer al usuario del correspondiente título de transporte o billete que deberá ser conservado por este hasta la finalización del viaje.
+
+Los niños menores de cuatro años que no ocupen plaza no necesitan billete.
+
+2\. En el billete figurarán claramente legibles, sin enmiendas ni tachaduras, al menos las siguientes inscripciones o indicaciones:
+
+a) Nombre de la empresa titular de la concesión o autorización.
+
+b) Origen y destino del viaje.
+
+c) Fecha de emisión del billete.
+
+d) Precio del billete, incluida aquella parte del mismo que corresponda a la aplicación del Impuesto sobre el Valor Añadido, seguida de la indicación «IVA incluido».
+
+e) Fecha de realización del servicio.
+
+3\. En los servicios de cercanías con venta de billetes en ruta no será preciso determinar en los mismos la indicación e), del punto anterior.
+
+Tampoco se realizará tal mención en los billetes adquiridos anticipadamente con fecha abierta, ni en los de ida y vuelta o conjuntos en que haya quedado abierta la fecha de regreso o de continuación de viaje, que habrá de ser formalizados con posterioridad una vez que se haya determinado su fecha de utilización.
+
+### Art. 8.º
+
+Los billetes podrán ser despachados en los siguientes puntos de venta:
+
+a) En los locales a tal efecto establecidos por las empresas titulares de los servicios regulares de transporte de viajeros de uso general; y, en todo caso, en las estaciones de viajeros.
+
+b) En las agencias de viaje y, en su caso, en los locales u oficinas de aquellas personas que estén autorizadas por los titulares de servicios regulares de transporte de viajeros de uso general para hacerlo en su nombre, conforme a lo previsto en el artículo 165 del Reglamento General de la Ley de Ordenación de los Transportes Terrestres.
+
+c) En ruta, por el conductor del vehículo u otro empleado a tal efecto designado por la empresa.
+
+### Art. 9.º
+
+1\. El despacho de billetes para su utilización inmediata se abrirá, al menos, treinta minutos antes de la salida de cada servicio y no podrá cerrarse hasta diez minutos antes de la misma.
+
+2\. Se reservará, en todo caso, para esta modalidad de venta, al menos, el 20 por 100 del total de plazas útiles del vehículo o de los vehículos que realicen simultáneamente el servicio.
+
+### Art. 10.
+
+1\. En cualquiera de los puntos previstos en los apartados a) y b) del artículo 8.º podrán procederse a la venta anticipada de billetes para los servicios a que se refiere este capítulo, ya sea con reserva de plaza para un servicio concreto o con fecha de utilización abierta en un servicio futuro.
+
+2\. En los billetes despachados con reserva de plaza se hará constar la indicación señalada en el apartado e) del punto 2 del artículo 7.º, referida a la fecha en que los mismos van a ser utilizados, quedando ese día reservada plaza al portador del billete.
+
+La reserva de plaza no dará lugar en ningún caso a percepción complementaria o recargo alguno sobre el precio del billete.
+
+### Art. 11.
+
+Asimismo, en cualquiera de los puntos previstos en el artículo 8.º podrán despacharse billetes de ida y vuelta que, por cuanto se refiere al viaje de vuelta, seguirán idéntico régimen al previsto en el artículo anterior para los de venta anticipada.
+
+### Art. 12.
+
+1\. Conforme a lo previsto en el artículo 27 del Reglamento General de la Ley de Ordenación de los Transportes Terrestres, cuando los horarios de distintos servicios de transporte de viajeros por carretera o de estos y el ferrocarril u otro modo de transporte se hallen establecidos en forma que permita facilitar la continuidad de los viajes o transportes a traves de los respectivos itinerarios, las empresas titulares de los mismos podrán, en cualquiera de los puntos previstos en el artículo 8.º, proceder a la expedición conjunta de billetes sin alteración de sus respectivas tarifas.
+
+2\. Los billetes conjuntos no autorizan modificación alguna en las condiciones de explotación de los servicios afectados; por tanto, cuando se trate de distintos servicios por carretera, cada uno de los mismos deberá ser realizado con los vehículos de que disponga la empresa titular del mismo y deberá efectuarse transbordo en el punto de contacto, salvo que, expresamente, la prestación de aquellos sin solución de continuidad con un mismo vehículo hubiera sido autorizada por el órgano competente conforme al procedimiento reglamentariamente previsto.
+
+En los billetes conjuntos deberán figurar por separado los precios correspondientes a cada uno de los trayectos de las distintas concesiones afectadas.
+
+3\. Por cuanto se refiere al segundo o ulteriores trayectos, los billetes conjuntos seguirán idéntico régimen al previsto en el artículo 10 para los de venta anticipada.
+
+### Art. 13.
+
+La expedición de billetes para servicios de cercanías se efectuará, en general, sin interrupción durante el transcurso de la prestación de los mismos en cualquiera de los puntos previstos en el artículo 8.º
+
+### Art. 14.
+
+Previa autorización del órgano competente los billetes podrán ser sustituidos por tarjetas de abono o documentos similares valederos, en un mismo o distintos trayectos, para un número limitado de viajes o para un determinado período de tiempo con o sin límite en cuanto al número de viajes.
+
+## CAPÍTULO IV — Del libro de reclamaciones
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+### Art. 15.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+### Art. 16.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+### Art. 17.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+### Art. 18.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+### Art. 19.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+### Art. 20.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+### Art. 21.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+## CAPÍTULO V — Del régimen sancionador
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+### Art. 22.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden FOM/3398/2002, de 20 de diciembre. [Ref. BOE-A-2003-538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-538).
+
+## DISPOSICIONES ADICIONALES
+
+### Primera.
+
+1\. Lo dispuesto en la presente Orden se entenderá, en todo caso, sin perjuicio de las competencias que puedan tener atribuidas las Comunidades Autónomas en las distintas materias reguladas en la misma.
+
+2\. A los efecto de la presente Orden se entenderá por órgano competente:
+
+a) Respecto de los libros que deban ser adscritos a vehículos y de la información estadística relativa a los servicios, el órgano al que corresponda expedir la autorización en que se ampara el vehículo o, en su caso, que ostente la competencia administrativa sobre el servicio regular al que el vehículo se encuentra adscrito.
+
+b) Respecto a los libros que deban ser adscritos a locales, el órgano competente en materia de transportes en el lugar en que se ubiquen dichos locales.
+
+### Segunda.
+
+Se faculta a la dirección general de transportes terrestres para dictar las disposiciones que resulten precisas para el debido cumplimiento de lo dispuesto en esta Orden.
+
+## DISPOSICIÓN FINAL
+
+La presente Orden entrará en vigor el mismo día que el Reglamento General de la Ley de Ordenación de los Transportes Terrestres. No obstante el modelo de libro de ruta contenido en el anexo I de la misma sólo será exigible a partir de 1 de enero de 1991, fecha hasta la cual los vehículos podrán utilizar cualquer otro. Asimismo hasta dicha fecha los vehículos documentados mediante tarjetas de la clase VR podrán circular sin llevar a bordo libro de ruta.
+
+Madrid, 25 de octubre de 1990.
+
+BARRIONUEVO PEÑA
+
+Ilmo. Sr. Director general de Transportes Terrestres.
+
+## ANEXO I — MODELO OFICIAL DE LIBRO DE RUTA
+
+(Tamaño mínimo 30×20 centímetros y capacidad mínima de 50 hojas correlativamente numeradas)
+
+En la portada:
+
+MINISTERIO DE TRANSPORTES, TURISMO Y COMUNICACIONES
+
+**Dirección General de Transportes Terrestres**
+
+LIBRO DE RUTA
+
+Matrícula del vehículo .......................................................................................................
+
+Empresa titular .....................................................................................................................
+
+Domicilio ...............................................................................................................................
+
+Tarjeta de transporte clase .............................. Número ......................................................
+
+Al dorso de la portada:
+
+Se transcribirá el contenido del artículo 3.º de la presente Orden con su fecha y «Boletín Oficial del Estado» en que se haya publicado.
+
+En la primera hoja:
+
+**Dirección General de Transportes Terrestres**
+
+LIBRO DE RUTA
+
+Matrícula del vehículo ..........................................................................................................
+
+Empresa titular ....................................................................................................................
+
+Domicilio ...............................................................................................................................
+
+Tarjeta de transporte clase .............................. Número ......................................................
+
+DILIGENCIA: Para hacer constar que este libro se compone de ................... hojas, selladas y numeradas.
+
+................. de ....................................... de 19.......
+
+(Firma y sello del órgano que diligencia)
+
+En la segunda y siguientes hojas:
+
+<table class="tabla_ancha">
+<tr>
+<td rowspan="2">
+<p class="cabeza_tabla">Fecha</p>
+</td>
+<td rowspan="2">
+<p class="cabeza_tabla">Origen</p>
+</td>
+<td rowspan="2">
+<p class="cabeza_tabla">Destino</p>
+</td>
+<td colspan="5">
+<p class="cabeza_tabla">Tipo de servicio</p>
+</td>
+<td rowspan="2">
+<p class="cabeza_tabla">Contratante</p>
+</td>
+<td rowspan="2">
+<p class="cabeza_tabla">Expediciones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cabeza_tabla">a</p>
+</td>
+<td>
+<p class="cabeza_tabla">b</p>
+</td>
+<td>
+<p class="cabeza_tabla">c</p>
+</td>
+<td>
+<p class="cabeza_tabla">d</p>
+</td>
+<td>
+<p class="cabeza_tabla">e</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+</table>
+
+## ANEXO II — MODELO OFICIAL DE JUSTIFICANTE DE LA PRESTACIÓN DE SERVICIOS REGULARES DE VIAJEROS DE USO GENERAL EN CONCEPTO DE COLABORACIÓN
+
+En ................................, a .......... de ....................................... de 19...............
+
+Don ..............................................................................................................................., mayor de edad, con domicilio a efectos de notificaciones en ............................................., calle .................................................................................................., número ..................., en nombre y representación de la Empresa ......................................................................, domiciliada en ....................................................................................................................., actuando con carácter de titular de la concesión/autorización (1) de transporte regular permanente/temporal (1) de viajeros de uso general .........................................................., entre ........................................................ y ........................................................................,
+
+DECLARA: Que el vehículo con matrícula .......................... adscrito a la autorización de transporte de la clase VD número ................................... de la titularidad de la Empresa ........................................... realiza el servicio entre ............................................................. y ........................................................................................................................... con salida a las .......................... horas del día ....................................... de ..................... de 19............. en concepto de colaboración, con arreglo al régimen previsto en el capítulo II del título III de la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres y en su normativa de desarrollo.
+
+(Firma y sello del titular del servicio o sus representantes)
+
+(1) Táchese lo que no proceda.
+
+## ANEXO III — MODELO OFICIAL DE LIBRO DE RECLAMACIONES
+
+(Tamaño mínimo 14×20 centímetros)
+
+En la portada:
+
+MINISTERIO DE TRANSPORTES, TURISMO Y COMUNICACIONES
+
+**Dirección General de Transportes Terrestre**
+
+LIBRO DE RECLAMACIONES
+
+Empresa titular .....................................................................................................................
+
+Domicilio de la Empresa .....................................................................................................
+
+Servicio o actividad .............................................................................................................
+
+Matrícula del vehículo .........................................................................................................
+
+Local adscrito .......................................................................................................................
+
+Libro número ........................................................................................................................
+
+Al dorso de la portada:
+
+Se transcribirá el contenido de los artículos 16, 17, 18 y 19 de la presente Orden con su fecha y «Boletín Oficial del Estado» en que se haya publicado.
+
+En la primera hoja:
+
+**Dirección General de Transportes Terrestres**
+
+Unidad Provincial de Transportes .........................................................................................
+
+Domicilio ...............................................................................................................................
+
+LIBRO DE RECLAMACIONES
+
+Empresa titular ......................................................................................................................
+
+Domicilio de la Empresa ......................................................................................................
+
+Servicio o actividad .............................................................................................................
+
+Matrícula del vehículo ..........................................................................................................
+
+Local adscrito ......................................................................................................................
+
+Libro número ........................................................................................................................
+
+Número de inscripción en el Registro de Empresa ..............................................................
+
+Tarjeta de transporte clase .......................................... Número ..........................................
+
+DILIGENCIA: Para hacer constar que este Libro se compone de .............. juegos de hojas de reclamaciones cuadruplicadas, selladas y numeradas, destinado a reclamaciones contra la Empresa titular del vehículo, actividad o servicio designado.
+
+................................... de ....................................... de 19.......
+
+(Firma y sello de la Unidad Provincial de Transporte.)
+
+En la segunda y siguientes hojas:
+
+Libro número ........................................................................................................................
+
+Hoja número .........................................................................................................................
+
+**Dirección General de Transportes Terrestres**
+
+Unidad Provincial de Transportes de ....................................................................................
+
+Domicilio ..............................................................................................................................
+
+Nombre y apellidos del reclamante .....................................................................................
+
+Documento nacional de identidad .......................................................................................
+
+Domicilio, calle o plaza ........................................................................................................
+
+Municipio ....................................................... Provincia ......................................................
+
+Teléfono ...............................................................................................................................
+
+Teléfono ................................................................................................................................
+
+Motivo de la reclamación .......................................................................................................................................
+
+.............................................................................................................................................
+
+.............................................................................................................................................
+
+(Fecha y firma.)

@@ -1,0 +1,3594 @@
+---
+title: "Orden PCI/978/2018, de 20 de septiembre, por la que se regulan los currículos de la enseñanza de formación para la incorporación a la Escala de Oficiales del Cuerpo de la Guardia Civil mediante las formas de ingreso por acceso directo sin titulación universitaria y por promoción profesional; se dictan las normas de evaluación, y de progreso y permanencia en el centro docente de formación; y se regulan las titulaciones que permiten el ingreso"
+identifier: "BOE-A-2018-12939"
+eli: "https://www.boe.es/eli/es/o/2018/09/20/pci978"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia, Relaciones con las Cortes e Igualdad"
+date: 2018-09-20
+published: 2018-09-25
+in_force_from: 2018-09-26
+last_amended: 2024-09-27
+consolidated: 2026-05-25
+gazette: "Boletín Oficial del Estado núm. 232"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-12939"
+retrieved: 2026-10-11
+---
+
+# Orden PCI/978/2018, de 20 de septiembre, por la que se regulan los currículos de la enseñanza de formación para la incorporación a la Escala de Oficiales del Cuerpo de la Guardia Civil mediante las formas de ingreso por acceso directo sin titulación universitaria y por promoción profesional; se dictan las normas de evaluación, y de progreso y permanencia en el centro docente de formación; y se regulan las titulaciones que permiten el ingreso
+
+Incluye la corrección de errores publicada en BOE núm. 25, de 29 de enero de 2019. [Ref. BOE-A-2019-1061](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1061)
+
+La Ley 39/2007, de 19 de noviembre, de la carrera militar, establecía que el régimen del personal del Cuerpo de la Guardia Civil se había de regir por su ley específica, debiendo actualizarlo con una nueva estructura de escalas y determinando que la formación para el acceso a la nueva Escala de Oficiales debía comprender, por una parte, la formación militar y la de cuerpo de seguridad del Estado y, por otra, la correspondiente a un título de Grado universitario del sistema educativo general.
+
+Este mandato encuentra cumplimiento en la Ley 29/2014, de 28 de noviembre, de Régimen del Personal de la Guardia Civil, donde se crea una única Escala de Oficiales con el propósito de dar mayor cohesión y homogeneidad al modelo de carrera de todos los oficiales de la Guardia Civil. Asimismo, se establece la enseñanza como un elemento fundamental en el régimen de personal que se pretende establecer, experimentando en esta norma una importante reforma. Las modificaciones introducidas suponen respecto a la normativa anterior un avance en la integración del sistema de enseñanza de la Guardia Civil en el Sistema Educativo Español y una adaptación de la formación de los oficiales a la reordenación de los títulos universitarios que tienen su base en la conformación del Espacio Europeo de Educación Superior. Dichas modificaciones son de tal calado, que hacen necesario establecer una ordenación de la enseñanza de formación en la Guardia Civil, lo que se recoge en el Reglamento de Ordenación de la Enseñanza en la Guardia Civil, aprobado por el Real Decreto 131/2018, de 16 de marzo.
+
+Por otro lado, el artículo 16 de la Ley 29/2014, de 28 de noviembre, establece que el personal de la Guardia Civil se agrupa en escalas, en función de las facultades profesionales asignadas al conjunto de los empleos de cada una de ellas y a los requisitos educativos exigidos para la incorporación a las mismas.
+
+De conformidad con los artículos 28 y 29 de la citada Ley, entre las finalidades del sistema de enseñanza de la Guardia Civil, la enseñanza de formación tiene como finalidad la capacitación profesional para la incorporación a las escalas del Cuerpo de la Guardia Civil, entre la que se encuentra la Escala de Oficiales. Comprenderá la formación militar, la de cuerpo de seguridad y la técnica necesaria para el correcto desempeño de los cometidos asignados a los miembros de cada escala y, en su caso, la correspondiente a un título del Sistema Educativo Español.
+
+Esta Ley 29/2014, de 28 de noviembre, establece los diferentes sistemas de ingreso en la enseñanza de formación de la Guardia Civil, acceso directo y promoción profesional, en este caso en las modalidades de cambio de escala y promoción interna, contemplándose la posibilidad de ingreso en la Escala de Oficiales por acceso directo o por cambio de escala con las titulaciones de grado, licenciado, arquitecto, ingeniero o posgrado universitario que para tal efecto se establezcan.
+
+Asimismo, en el artículo 45.2 de la Ley se establece que a los Ministros de Defensa y del Interior les corresponde conjuntamente la aprobación de los planes de estudios de la enseñanza de formación militar, de cuerpo de seguridad y técnica de la Escala de Oficiales, determinando las titulaciones de Grado que hayan de cursarse en la enseñanza de la Guardia Civil.
+
+Como consecuencia de ello, en el capítulo III del Reglamento de Ordenación de la Enseñanza en la Guardia Civil se recoge la estructura de la enseñanza de formación para incorporarse a la Escala de Oficiales, en función de los requisitos de titulación que se exijan para el ingreso, estableciendo que los planes de estudios de la formación militar, de cuerpo de seguridad y técnica de la enseñanza de formación para la incorporación a la Escala de Oficiales, serán aprobados conjuntamente por los Ministros de Defensa y del Interior, debiendo determinar las normas de progreso y de permanencia en los centros docentes de formación, en las que se dispondrán los plazos para superar los planes de estudios y los criterios objetivos para ajustar, cuando así sea preciso, el número de alumnos al de plazas de acceso a la Escala que se determine en la provisión anual.
+
+En esta orden se pretende integrar en un único currículo los planes de estudios correspondientes a la formación militar y de cuerpo de seguridad, y los correspondientes a la titulación de Grado universitario del Sistema Educativo Español exigida para el ingreso en la Escala, en el caso del sistema de acceso directo sin titulación previa y en el de promoción profesional, en la modalidad de promoción interna.
+
+Así, esta orden regula la ordenación de la enseñanza de formación para la incorporación a la Escala de Oficiales del Cuerpo de la Guardia Civil mediante la aprobación de los currículos de la enseñanza de formación, las normas de evaluación, progreso y permanencia en el centro docente de formación para la incorporación a dicha Escala y los títulos del Sistema Educativo Español que permiten ingresar en el centro docente de formación, así como se recogen las denominaciones específicas del empleo de alférez, con carácter eventual, para los alumnos que hubieren ingresado, tanto por acceso directo sin titulación universitaria previa, como por promoción profesional en las modalidades de cambio de escala o promoción interna, según determinaba el Reglamento de Ordenación de la Enseñanza en la Guardia Civil.
+
+En el título I se regulan los currículos de la enseñanza de formación para la incorporación a la Escala de Oficiales de la Guardia Civil, integrando en cada uno de ellos el plan de estudios de la formación militar y de cuerpo de seguridad con el plan de estudios correspondiente a la titulación de Grado, en el caso del acceso directo sin titulación, y de la promoción profesional en la modalidad de promoción interna, así como la que complemente a la previamente exigida para el ingreso, en la modalidad de cambio de escala por promoción profesional, al mismo tiempo que se establece una duración de cinco años académicos para el sistema de acceso sin titulación previa y dos cursos académicos para el sistema de acceso por promoción profesional.
+
+Asimismo, se establece la planificación temporal de los currículos por cursos indicando, los créditos ECTS («European Credit Transfer System») de cada asignatura, la materia a la que pertenece y el módulo en que está inmersa, así como una breve descripción de su contenido, en su correspondiente anexo.
+
+También quedan determinadas en el anexo IV las materias y asignaturas susceptibles de ser impartidas, parcial o totalmente, mediante enseñanza a distancia, a las alumnas en situación de embarazo, parto o posparto y a aquellos alumnos que por circunstancias especiales no puedan desarrollar la enseñanza de forma presencial.
+
+En el título II se establecen los criterios y normas de evaluación de los alumnos, de progreso en los currículos y de permanencia en la Academia de Oficiales de la Guardia Civil, todo ello con la finalidad de que cursen su correspondiente currículo en los plazos previstos, recogiendo los plazos para su superación, así como, en el caso del acceso directo sin titulación universitaria previa, los criterios objetivos para ajustar, cuando así sea preciso, el número de alumnos al de plazas de acceso a la Escala que se determine en la provisión anual.
+
+Finalmente, el título III establece los títulos o créditos del Sistema Educativo Español, con los que se puede ingresar en el centro docente de formación para la incorporación a la Escala de Oficiales del Cuerpo de la Guardia Civil, por promoción profesional, en las modalidades de cambio de escala y promoción interna.
+
+Así, esta orden viene a sustituir a la Orden PRE/2207/2013, de 22 de noviembre, por la que se aprueba el plan de estudios de la enseñanza formación para la incorporación a la Escala Superior de Oficiales del Cuerpo de la Guardia Civil y se dictan las normas de evaluación y de progreso y permanencia en el centro docente de formación, y a la Orden PRE/1479/2006, de 5 de mayo, por la que se aprueba el plan de estudios de la enseñanza de formación para la incorporación a la Escala de Oficiales de la Guardia Civil.
+
+Para la redacción de esta orden se ha tenido en cuenta el Real Decreto 1393/2007, de 29 de octubre, por el que establece la ordenación de las enseñanzas universitarias oficiales, dado el componente de enseñanza universitaria. Asimismo, se solicitó informe del Ministerio de Educación, Cultura y Deporte.
+
+La norma se adecúa a los principios de buena regulación de conformidad con el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Por último, en cumplimiento de lo dispuesto en el artículo 54 de la Ley Orgánica 11/2007, de 22 de octubre, reguladora de los derechos y deberes de los miembros de la Guardia Civil, esta orden ha sido sometida al informe del Consejo de la Guardia Civil.
+
+En su virtud, a propuesta conjunta de los Ministros del Interior y de Defensa, con la aprobación previa prevista en el artículo 26.5 quinto párrafo de la Ley 50/1997, de 27 de noviembre, del Gobierno, dispongo:
+
+## TÍTULO PRELIMINAR — Disposiciones generales
+
+#### Artículo 1. Objeto.
+
+Esta orden tiene por objeto:
+
+a) Regular los currículos de la enseñanza de formación para la incorporación a la Escala de Oficiales del Cuerpo de la Guardia Civil mediante las formas de ingreso por acceso directo sin titulación universitaria y por promoción profesional, en las modalidades de promoción interna y cambio de escala.
+
+b) Dictar las normas de evaluación, progreso y permanencia en el centro docente de formación para la incorporación a la Escala de Oficiales.
+
+c) Regular los títulos o créditos de la titulación de Grado del Sistema Educativo Español con los que se puede ingresar en el centro docente de formación para la incorporación a la Escala de Oficiales del Cuerpo de la Guardia Civil, por promoción profesional, en las modalidades de cambio de escala y promoción interna.
+
+#### Artículo 2. Ámbito de aplicación.
+
+1\. Será de aplicación a todos los alumnos que cursen los diferentes currículos de la enseñanza de formación para la incorporación a la Escala de Oficiales del Cuerpo de la Guardia Civil, durante los períodos que se desarrollen en la Academia de Oficiales de la Guardia Civil y en el Centro Universitario de la Guardia Civil.
+
+2\. Para los alumnos del currículo en el que está establecido que cursen enseñanzas en la Academia General Militar y en el Centro Universitario de la Defensa allí ubicado, les serán de aplicación las normas de evaluación y de progreso y permanencia en los centros docentes militares de formación para la incorporación a las escalas de oficiales de los Cuerpos Generales de las Fuerzas Armadas.
+
+#### Artículo 3. Definiciones.
+
+En el ámbito de esta orden se entenderá por:
+
+a) Conocimiento: información asimilada en el proceso de aprendizaje.
+
+b) Capacidad: interpretación y entendimiento de un conocimiento aplicado a un contexto de realidad.
+
+c) Destreza o habilidad: aplicación del conocimiento para transformar una realidad específica.
+
+d) Competencias: facultades que debe adquirir el alumno, demostradas en el empleo del conocimiento, de las capacidades y de las destrezas o habilidades necesarias para su aplicación en el campo de actividad en el que desempeñará sus cometidos, fundamentalmente las correspondientes al primer empleo de la Escala de Oficiales a la que accederá.
+
+e) Currículo: puede contener uno o más planes de estudios.
+
+f) Plan de estudios: diseño curricular que se estructura en módulos y puede referirse a la formación militar, de cuerpo de seguridad, y a las titulaciones de Grado universitario del Sistema Educativo Español.
+
+g) Módulo: conjunto de contenidos temáticos relativos a un ámbito de conocimiento determinado. Se compone de materias y asignaturas.
+
+h) Materias: áreas del conocimiento caracterizadas por la homogeneidad de su objeto, con criterios de evaluación explícitos. Se componen de una o más asignaturas.
+
+i) Asignaturas: conjunto de unidades de aprendizaje, actividades y evaluaciones en las que se divide una materia. Dentro de la estructura de las asignaturas deberán distinguirse, al menos, actividades formativas de tipo teórico y práctico, conferencias y otras actividades de carácter individual.
+
+## TÍTULO I — Currículos de la enseñanza de formación para la incorporación a la escala de oficiales del Cuerpo de la Guardia Civil
+
+### CAPÍTULO I — Disposiciones generales
+
+#### Artículo 4. Perfil profesional a alcanzar en el primer empleo.
+
+Según se establece en la Ley 29/2014, de 28 de noviembre, del Régimen del Personal de la Guardia Civil, la enseñanza de formación tiene como finalidad la capacitación profesional para la incorporación a las escalas del Cuerpo de la Guardia Civil.
+
+Debido a su formación multidisciplinar, el oficial, desde su primer empleo como teniente, puede ejercer los cometidos de la Escala de Oficiales mediante su capacidad de desarrollar acciones directivas, que incluyen las de mando, y acciones de gestión y ejecutivas, ya sea en la estructura orgánica de los Ministerios de Defensa o del Interior, en organizaciones internacionales o en misiones en el exterior.
+
+Además, debe estar en condiciones de desempeñar tareas de coordinación, inspección y gestión de los servicios y de las operaciones militares y de los recursos humanos, materiales y financieros; será capaz de desarrollar aquellas relacionadas con funciones operativas, técnicas, logísticas, administrativas y docentes. Asimismo, estará capacitado para ejercer el liderazgo con iniciativa, capacidad para asumir responsabilidades y decisión para resolver e imbuido de los valores tradicionales propios del Cuerpo de la Guardia Civil.
+
+Una formación integral del oficial, como técnico y como gestor le permitirá tener una visión global de la Guardia Civil y su entorno, imprescindible para su correcta ubicación en la sociedad a la que sirve, por lo que se ha de buscar interrelacionar la formación que proporciona la titulación universitaria que se curse en el correspondiente currículo o que se acredite en el ingreso, con los conocimientos propios de la profesión de guardia civil, de modo que proporcione todo el conjunto de competencias profesionales necesarias para el correcto desempeño de las funciones asignadas.
+
+En definitiva, durante el periodo de formación, al oficial se le deben proporcionar y deberá perfeccionar las competencias que le permitan desempeñar los cometidos de su escala.
+
+#### Artículo 5. Fines de los currículos de la enseñanza de formación.
+
+Los currículos de la enseñanza de formación para la incorporación a la Escala de Oficiales del Cuerpo de la Guardia Civil tienen los siguientes fines:
+
+a) Proporcionar al alumno los conocimientos teórico-prácticos necesarios para el adecuado desempeño de su profesión y posibilitar el desarrollo de las aptitudes precisas para realizar con eficacia los cometidos que en el futuro le puedan ser encomendados, todo ello desde las perspectivas profesional y militar.
+
+b) Integrar los conocimientos y aptitudes en formación humana al servicio de la función que el Cuerpo de la Guardia Civil desempeña y adecuar esos conocimientos a las misiones a éste encomendadas, inspirándose en los principios básicos de actuación contenidos en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.
+
+c) Conformar la enseñanza de formación de los oficiales de la Guardia Civil, teniendo en cuenta la formación militar, la de cuerpo de seguridad, y la correspondiente a un título de Grado o aquella que complemente a la previamente exigida para el ingreso, en su caso.
+
+#### Artículo 6. Estructura de la enseñanza de formación de oficiales.
+
+1\. La enseñanza de formación para la incorporación a la Escala de Oficiales por acceso directo sin titulación universitaria previa comprende el plan de estudios de la formación militar y de Cuerpo de Seguridad y el plan de estudios correspondiente a la titulación de Grado en Ciencias de la Seguridad Pública. El total de la enseñanza de formación se integra en un currículo único.
+
+2\. La enseñanza de formación para la incorporación a la Escala de Oficiales por promoción profesional, modalidad de cambio de escala, comprende el plan de estudios correspondiente a la formación militar y de cuerpo de seguridad que completa a la previamente exigida para el ingreso, y teniendo en cuenta las titulaciones y requisitos que sean de aplicación se integrará en un currículo único.
+
+3\. La enseñanza de formación para la incorporación a la Escala de Oficiales por promoción profesional, modalidad de promoción interna, comprende el plan de estudios de la formación militar y de cuerpo de seguridad y el plan de estudios correspondiente a la titulación de Grado en Gestión de Seguridad Pública. El total de la enseñanza de formación se integra en un currículo único.
+
+> Se modifica el apartado 1 por el art. único.1 de la Orden PJC/1030/2024, de 25 de septiembre. [Ref. BOE-A-2024-19389](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19389)
+
+#### Artículo 7. Centros docentes de formación de oficiales.
+
+1\. La formación para la incorporación a la Escala de Oficiales se impartirá en la Academia de Oficiales de la Guardia Civil y en el Centro Universitario de la Guardia Civil allí ubicado.
+
+2\. Los alumnos que ingresen en esta enseñanza por el sistema de acceso directo sin titulación universitaria previa cursarán los dos primeros cursos del currículo en la Academia General Militar del Ejército de Tierra y en el Centro Universitario de la Defensa en ella ubicado.
+
+3\. Determinadas materias o asignaturas del currículo de la formación de oficiales se podrán impartir en universidades o en instituciones educativas, civiles o militares, nacionales o extranjeras, con las que se haya suscrito el correspondiente convenio de colaboración.
+
+#### Artículo 8. Duración de la enseñanza de formación de oficiales.
+
+La enseñanza de formación para la incorporación a la Escala de Oficiales tendrá la siguiente duración:
+
+a) Para los alumnos que ingresen en esta enseñanza por el sistema de acceso directo sin titulación universitaria: un total de cinco cursos académicos.
+
+b) Para los alumnos que ingresen en esta enseñanza por promoción profesional: un total de dos cursos académicos.
+
+#### Artículo 9. Créditos ECTS del currículo y de las asignaturas.
+
+1\. La carga lectiva de cada currículo, para cada forma de ingreso, será la incluida en los capítulos II, III y IV de este título.
+
+2\. Para la distribución interna de los créditos ECTS asignados a cada asignatura, se tendrá en cuenta que por cada hora de clase lectiva presencial del alumno se consignarán, con carácter general, 1,5 horas de estudio.
+
+#### Artículo 10. Distribución de la carga lectiva y distribución temporal de las asignaturas de los currículos.
+
+1\. En cada semana se considerarán lectivos los días lunes a viernes, ambos inclusive. Excepcionalmente, cuando así lo requiera la programación del curso, se podrán habilitar como lectivos los sábados, domingos y festivos.
+
+2\. En la enseñanza de formación para el acceso a la Escala de Oficiales la carga lectiva que representa la ejecución de los planes de estudios que conforman el currículo único, se distribuirá conforme a los criterios siguientes:
+
+a) La duración de los cursos académicos será como máximo de 44 semanas, incluyendo los períodos lectivos, los destinados a la evaluación, así como los dedicados a instrucción y adiestramiento, que podrán incluir un periodo de prácticas en unidades. El número de semanas dedicadas a instrucción y adiestramiento serán las indicadas a continuación:
+
+1.º Acceso directo sin titulación universitaria previa: un mínimo de 30 semanas, en el total de semanas del plan de estudios.
+
+2.º Acceso por promoción profesional: no será inferior a 6 semanas por curso académico.
+
+b) La carga lectiva impartida en el módulo de instrucción y adiestramiento se computará en días y semanas o, en su caso, en horas, conforme a lo siguiente:
+
+1.º En días y semanas, cuando se imparta con carácter exclusivo, entendiendo éste como aquel periodo de tiempo en el que esta actividad es única y prioritaria en la enseñanza de formación.
+
+2.º En horas, en aquellos casos en que se imparta de forma discontinua en diferentes días; en este caso, seis horas equivaldrán a un día.
+
+3.º La carga lectiva de este módulo no se computará dentro de la carga lectiva de los diferentes currículos.
+
+3\. La distribución temporal de las asignaturas que conforman los currículos de formación para la incorporación a la Escala de Oficiales se establece, para cada forma de ingreso, en los capítulos II, III y IV de este título.
+
+#### Artículo 11. Módulos de la formación de oficiales.
+
+1\. La enseñanza de formación se configurará de la siguiente forma:
+
+a) Formación militar, que contendrá el módulo de formación militar general: proporciona los conocimientos relativos a la organización de la Defensa Nacional, a las Fuerzas Armadas, a las organizaciones internacionales militares a las que pertenece España, así como los necesarios que permitan prestar los servicios y guardias que garanticen el funcionamiento y seguridad de las unidades, centros y organismos. Para el alumnado que ingrese en esta enseñanza por el sistema de acceso directo sin titulación universitaria, se impartirá en la Academia General Militar durante los dos primeros cursos en los que se estructura el currículo, complementándose en la Academia de Oficiales de la Guardia Civil.
+
+b) Formación de cuerpo de seguridad que comprende los módulos de Formación de Cuerpo de Seguridad, Técnicas de Mando, Ciencias Sociales y Jurídicas y el módulo Técnico-profesional. A través de materias como procedimientos aplicados a la seguridad pública, procedimientos operativos y psicología se proporcionan, según la forma de ingreso y los requisitos de titulación exigidos, la formación para que quienes sean oficiales de la Guardia Civil dispongan de unas competencias que les permitan el correcto ejercicio de la profesión en los campos de la prevención de ilícitos, protección de personas y bienes e investigación de sucesos, así como el conocimiento de otras instituciones de similares características, tanto nacionales como extranjeras, con las que quienes sean oficiales desempeñarán los cometidos propios de su cuerpo, para su desempeño profesional en la Guardia Civil.
+
+c) Formación de grado: proporcionan los contenidos básicos en los que se fundamentan, respectivamente, los grados en Ciencias de la Seguridad Pública, y el de Gestión de Seguridad Pública, sobre la base de que suponen un conjunto coherente de conocimientos que permitan la adquisición posterior de otros de mayor complejidad. Los módulos del Grado en Ciencias de la Seguridad Pública serán los siguientes: Técnicas de Mando, Científico-Tecnológico, Ciencias Sociales y Jurídicas, Ciencias Humanísticas, Procedimientos y Tecnologías aplicadas a la defensa, Técnico Profesional, Idiomas y Trabajo Fin de Grado. Los módulos del Grado en Gestión de Seguridad Pública serán los siguientes: Introductorio, Fundamentos jurídicos, Organización y prevención, Investigación y tecnología y Trabajo Fin de Grado.
+
+d) Formación en Lengua Inglesa: se imparte a través del módulo del mismo nombre y proporciona las destrezas discursivas en el idioma inglés, debiendo adquirir, al menos, las competencias propias del nivel B2 del Consejo de Europa, según se define en el Marco Común Europeo de Referencia para las Lenguas. Esta formación se integra en su totalidad en el currículo de formación del Grado en Ciencias de la Seguridad Pública a través del módulo de Formación en Lengua Inglesa y parcialmente en el Grado en Gestión de Seguridad Pública a través del módulo Introductorio.
+
+e) Instrucción y adiestramiento: se imparte a través del módulo del mismo nombre, proporciona la práctica y habilidades profesionales, conducentes a completar la formación militar y la de cuerpo de seguridad de la escala, así como la adecuada preparación física para desempeñar con eficacia sus cometidos, e instruye en las posiciones y movimientos individuales, que permitan participar en los actos y ceremonias militares, contribuyendo a la formación física e integral del alumnado. Las actividades de instrucción y adiestramiento podrán incluir, entre otros, ejercicios, maniobras, actos y ceremonias militares y prácticas en Unidades. En el primer curso académico de la enseñanza de formación por acceso directo se establecerá una fase de acogida, orientación y adaptación a la vida militar con una duración de dos semanas.
+
+2\. Con independencia a lo dispuesto en el apartado anterior, los alumnos que ingresen en esta enseñanza por el sistema de acceso directo sin titulación universitaria, durante su estancia en la Academia General Militar, cursaran las materias o asignaturas de los distintos módulos establecidas en el capítulo II.
+
+> Se modifica el apartado 1 por el art. único.2 de la Orden PJC/1030/2024, de 25 de septiembre. [Ref. BOE-A-2024-19389](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19389)
+
+#### Artículo 12. Programas de estudios y calendario de actividades.
+
+Anualmente, el Jefe de la Jefatura de Enseñanza de la Guardia Civil aprobará los programas de estudios que desarrollen los correspondientes planes de estudios que integran el currículo de formación para la incorporación a la Escala de Oficiales, debiendo incluir el calendario de actividades.
+
+#### Artículo 13. Relación de materias y asignaturas susceptibles de ser impartidas en la modalidad virtual.
+
+1\. En casos de embarazo, acreditado mediante informe médico; de disfrute de permiso por lactancia de un hijo o hija menor de doce meses; permiso por nacimiento para la madre biológica; permiso por adopción, por guarda con fines de adopción, o acogimiento, tanto temporal como permanente; permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo o hija; o alumnado en el que concurran circunstancias especiales que le impidan desarrollar la enseñanza de formación de manera presencial, podrán solicitar que les sean impartidas en la modalidad virtual las asignaturas, o parte de ellas, que figuran en el anexo IV.
+
+2\. La Junta Docente a la que se hace referencia en el artículo 22, facilitará cursar las materias y asignaturas mediante la enseñanza en la modalidad virtual al alumnado en las situaciones señaladas en el apartado anterior y valorará las solicitudes efectuadas por el alumnado basadas en la concurrencia de circunstancias especiales, con la finalidad de informar en ambos casos que asignaturas, o partes de ellas, serán impartidas en la modalidad virtual, elevando informe motivado a la Dirección del centro.
+
+3\. De igual modo, cuando se presenten circunstancias extraordinarias objetivas, y sea preciso a fin de garantizar la seguridad y protección de la salud u otros aspectos análogos, la persona titular de la Jefatura de Enseñanza podrá disponer que sean impartidas en la modalidad virtual las asignaturas, o parte de ellas, que figuran en el anexo IV.
+
+4\. En todo caso, la impartición de materias y asignaturas en la modalidad virtual durante el periodo de formación del alumnado en la Academia General Militar, y en el Centro Universitario en ella ubicado, se regirá por las normas que la regulen para el alumnado que curse la enseñanza de formación de oficiales para la integración en el Cuerpo General del Ejército de Tierra mediante las modalidades de ingreso con y sin titulación previa.
+
+> Se modifica por el art. único.3 de la Orden PJC/1030/2024, de 25 de septiembre. [Ref. BOE-A-2024-19389](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19389)
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 25, de 29 de enero de 2019. [Ref. BOE-A-2019-1061](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1061)
+
+#### Artículo 14. Actividades extraescolares.
+
+1\. Se entiende por actividad extraescolar la dirigida a enriquecer el bagaje de conocimientos y experiencias culturales del alumno que, estando o no relacionada con las materias de enseñanza que integran el plan de estudios, no es objeto de evaluación, se puede desarrollar en períodos de tiempo distintos de los previstos para las actividades docentes y contribuye de manera efectiva a los fines formativos de estos currículos y a la formación integral del alumno. Entre estas actividades podrá incluirse el conocimiento de un segundo idioma extranjero considerado de interés para la Guardia Civil, para aquellos alumnos que hubieran alcanzado un nivel mínimo de referencia en Lengua Inglesa.
+
+2\. La Academia de Oficiales de la Guardia Civil y, en su caso, el Centro Universitario de la Guardia Civil establecerán actividades extraescolares orientadas a ampliar la propuesta académica y cultural de estos currículos.
+
+### CAPÍTULO II — Ingreso directo sin titulación universitaria previa
+
+#### Artículo 15. Ingreso directo sin titulación universitaria previa.
+
+1\. Carga lectiva total: este currículo atribuye a las enseñanzas teórico-prácticas un total de 300 créditos ECTS y 57 semanas de instrucción y adiestramiento.
+
+2\. La distribución temporal de asignaturas por cursos es la siguiente:
+
+| Asignatura | ECTS | Asignatura | ECTS |
+|---|---|---|---|
+| Matemáticas I. | 6 | Historia. | 6 |
+| Fundamentos de mecánica. | 6 | Psicología. | 6 |
+| Informática. | 6 | Procedimientos aplicados a la Defensa I. | 6 |
+| Derecho I. | 6 | Tecnologías aplicadas a la Defensa I. | 6 |
+| Economía. | 6 | Lengua Inglesa I. | 6 |
+
+Fase de acogida, orientación y adaptación a la vida militar: 2 semanas.
+
+Instrucción y adiestramiento I: 7 semanas.
+
+Formación física I: 3 semanas.
+
+Orden cerrado I: 0,5 semanas.
+
+Además, el alumnado cursará el módulo de Formación Militar General contenido en el curso 1.º del currículo de la enseñanza de formación de oficiales para la integración en el Cuerpo General del Ejército de Tierra, mediante las formas de ingreso sin exigencia de titulación universitaria.
+
+| Asignatura | ECTS | Asignatura | ECTS |
+|---|---|---|---|
+| Matemáticas II. | 6 | Liderazgo I. | 6 |
+| Estadística. | 6 | Liderazgo II. | 6 |
+| Tecnología. | 6 | Procedimientos aplicados a la Defensa II. | 6 |
+| Derecho II. | 6 | Tecnologías aplicadas a la Defensa II. | 6 |
+| Preparación psicofísica. | 6 | Lengua Inglesa II. | 6 |
+
+Instrucción y adiestramiento II: 6 semanas.
+
+Formación física II: 3 semanas.
+
+Orden cerrado II: 0,5 semanas.
+
+| Asignatura | ECTS | Asignatura | ECTS |
+|---|---|---|---|
+| Ciencias Forenses. | 6 | Historia de la Guardia Civil y Deontología Profesional. | 3 |
+| Análisis Estadístico del Delito. | 3 | Liderazgo III. | 3 |
+| Tecnologías aplicadas a la Seguridad I. | 3 | Derecho Penal II. | 6 |
+| Digitalización I. | 3 | Seguridad Ciudadana I. | 6 |
+| Teoría de las Telecomunicaciones aplicada a la Seguridad. | 3 | Sistemas de Gestión y Documentación en la Guardia Civil. | 6 |
+| Instituciones y Regímenes Internacionales. | 3 | Estatuto de la Guardia Civil y Gestión de los RRHH I. | 6 |
+| Derecho Penal I. | 3 | Lengua Inglesa III. | 6 |
+
+Instrucción y adiestramiento III: 9 semanas.
+
+Formación física III: 3 semanas.
+
+| Asignatura | ECTS | Asignatura | ECTS |
+|---|---|---|---|
+| Tecnologías aplicadas a la Seguridad II. | 6 | Derecho Procesal Penal. | 6 |
+| Digitalización II. | 3 | Gestión de recursos materiales y financieros en la Guardia Civil. | 6 |
+| Derecho Administrativo. | 3 | Lengua Inglesa IV. | 6 |
+| Seguridad Ciudadana II. | 6 | Especialidades en la Guardia Civil. | 3 |
+| Estatuto de la Guardia Civil y Gestión de los RRHH II. | 6 | Estatuto de la Guardia Civil y Gestión de los RRHH III. | 3 |
+| Fiscal y Fronteras. | 3 | Trabajo Fin de Grado. | 6 |
+| Administración Pública de la Seguridad. | 3 |  |  |
+
+Instrucción y adiestramiento IV: 9 semanas.
+
+Formación física IV: 3 semanas.
+
+| Asignatura | ECTS | Asignatura | ECTS |
+|---|---|---|---|
+| Cooperación Policial. | 6 | Policía Judicial II. Investigación de delitos. Delincuencia organizada y Cibercrimen. | 6 |
+| Inteligencia Policial. | 3 | Psicología Criminal. | 3 |
+| Policía Judicial I. | 6 | Psicología Social y de las Organizaciones. | 3 |
+| Dirección de las Unidades de la Guardia Civil. | 6 | Geopolítica. | 5 |
+| Amenazas. | 6 | Trabajo Fin de Estudios. | 6 |
+| Técnicas de Mando. | 3 | Sistema de Seguridad Nacional y Gestión de Crisis. | 3 |
+| Prácticas Externas. | 4 |  |  |
+
+Instrucción y adiestramiento V: 9 semanas.
+
+Formación física V: 3 semanas.
+
+3\. La relación de materias de enseñanza se recogen en el anexo I.
+
+> Se modifica por el art. único.4 de la Orden PJC/1030/2024, de 25 de septiembre. [Ref. BOE-A-2024-19389](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19389)
+
+### CAPÍTULO III — Promoción profesional, modalidad cambio de escala
+
+#### Artículo 16. Promoción profesional, modalidad cambio de escala.
+
+1\. Carga lectiva total: este currículo atribuye a las enseñanzas teórico-prácticas un total de 141 ECTS y 18 semanas de instrucción y adiestramiento.
+
+2\. La distribución temporal de asignaturas por cursos es la siguiente:
+
+| Asignatura | ECTS | Asignatura | ECTS |
+|---|---|---|---|
+| Derecho Penal I. | 6 | Riesgos y amenazas globales a la seguridad nacional e internacional | 6 |
+| Análisis estadístico del delito. | 6 | Gestión de seguridad pública de la información. | 6 |
+| Dirección y gestión de unidades de la GC I. | 3 | Fiscal, Fronteras e Inmigración. | 3 |
+| Derechos fundamentales y seguridad | 6 | Tecnologías aplicadas a la Investigación I. | 3 |
+| Derecho Penal II. | 6 | Ciencias Forenses I. | 3 |
+| Cooperación policial internacional | 6 | Sistemas de gestión y documentación I. | 3 |
+| Derecho Administrativo I. | 3 | Lengua Inglesa I. | 4 |
+| Derecho Administrativo II. | 3 | Policía judicial I. | 2 |
+| Deontología Profesional. | 2 |  |  |
+
+Instrucción y adiestramiento I: 6,5 semanas.
+
+Formación física I: 2,5 semanas.
+
+| Asignatura | ECTS | Asignatura | ECTS |
+|---|---|---|---|
+| Tecnologías aplicadas a la Investigación II. | 3 | Estatuto de Fuerzas y Cuerpos de Seguridad II. | 3 |
+| Vulnerabilidades, amenazas y protocolos de seguridad informática. | 6 | Tecnologías para la seguridad física. | 6 |
+| Situaciones de emergencia en el ámbito de la seguridad. | 3 | Sistemas de gestión y documentación II. | 2 |
+| Inteligencia policial. | 3 | Dirección y liderazgo. | 6 |
+| Dirección y Gestión de Unidades de la GC II. | 4 | Derecho Procesal Penal. | 6 |
+| Policía judicial II. | 6 | Policía Judicial III. | 3 |
+| Ciencias forenses II. | 6 | Lengua Inglesa II. | 6 |
+| Gestión de la seguridad física. | 3 | Derecho Administrativo de la Seguridad. | 3 |
+| Estatuto de Fuerzas y Cuerpos de Seguridad I. | 3 |  |  |
+
+Instrucción y adiestramiento II: 6,5 semanas.
+
+Formación física II: 2,5 semanas.
+
+3\. La relación de materias de enseñanza se recogen en el anexo II.
+
+> Se modifica el apartado 2 por la disposición final 3.1 de la Orden PJC/849/2024, de 8 de agosto. [Ref. BOE-A-2024-16600](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-16600)
+
+### CAPÍTULO IV — Promoción profesional, modalidad promoción interna
+
+#### Artículo 17. Promoción profesional, modalidad promoción interna.
+
+1\. Carga lectiva total: este currículo atribuye a las enseñanzas teórico-prácticas un total de 148 ECTS y 18 semanas de instrucción y adiestramiento.
+
+2\. La distribución temporal de asignaturas por cursos es la siguiente:
+
+| Asignatura | ECTS | Asignatura | ECTS |
+|---|---|---|---|
+| Derecho Penal I. | 6 | Inteligencia Policial. | 3 |
+| Derechos fundamentales y seguridad. | 6 | Tecnologías aplicadas a la Investigación I. | 3 |
+| Derecho Penal II. | 6 | Fiscal, Fronteras e Inmigración. | 3 |
+| Cooperación policial internacional. | 6 | Sistemas de gestión y documentación. | 2 |
+| Derecho Administrativo I. | 3 | Lengua Inglesa I. | 2 |
+| Riesgos y amenazas globales a la seguridad nacional e internacional. | 6 | Análisis estadístico del delito. | 6 |
+| Técnicas de expresión oral, escrita y documentación digital. | 3 | Gestión de Seguridad Pública de la información. | 6 |
+| Ciencias Forenses I. | 3 | Lengua Inglesa II. | 3 |
+| Derecho Administrativo II. | 3 | Policía judicial I. | 2 |
+| Deontología Profesional. | 2 |  |  |
+
+Instrucción y adiestramiento I: 6,5 semanas.
+
+Formación física I: 2,5 semanas.
+
+| Asignatura | ECTS | Asignatura | ECTS |
+|---|---|---|---|
+| Situaciones de emergencia en el ámbito de la seguridad. | 3 | Gestión de la seguridad física. | 3 |
+| Estatuto de Fuerzas y Cuerpos de Seguridad I. | 3 | Derecho Procesal Penal. | 6 |
+| Ciencias Forenses II. | 6 | Policía Judicial III. | 3 |
+| Vulnerabilidades, amenazas y protocolos de seguridad informática. | 6 | Trabajo fin de grado | 12 |
+| Policía Judicial II. | 6 | Lengua Inglesa III. | 3 |
+| Dirección y Liderazgo. | 6 | Estatuto de Fuerzas y Cuerpos de Seguridad II. | 3 |
+| Derecho administrativo de la seguridad. | 3 | Tecnologías para la seguridad física. | 6 |
+| Dirección y Gestión de Unidades de la Guardia Civil. | 4 | Tecnologías aplicadas a la investigación II. | 3 |
+
+Instrucción y adiestramiento II: 6,5 semanas.
+
+Formación física II: 2,5 semanas.
+
+3\. La relación de materias de enseñanza se recogen en el anexo III.
+
+> Se modifica el apartado 2 por la disposición final 3.2 de la Orden PJC/849/2024, de 8 de agosto. [Ref. BOE-A-2024-16600](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-16600)
+
+### CAPÍTULO V — Formación transversal
+
+#### Artículo 18. Idiomas.
+
+1\. Para la superación del correspondiente currículo, en la materia Inglés, los alumnos deberán adquirir, al menos, las competencias propias del nivel B2, o equivalente, del Consejo de Europa según se define en el Marco Común Europeo de Referencia para las Lenguas.
+
+2\. Con el fin de promover la formación en el idioma inglés, con independencia de su enseñanza a través de los créditos asignados, se podrá incorporar su aprendizaje mediante la impartición, en dicho idioma, de la totalidad o parte de alguna de las materias o asignaturas que integran los diferentes currículos de la enseñanza de formación para el acceso a la Escala de Oficiales.
+
+#### Artículo 19. Instrucción y adiestramiento.
+
+1\. La materia de instrucción y adiestramiento constituye el conjunto de las prácticas integradas y convergentes de las materias específicas a lo largo de todo el desarrollo del correspondiente plan de estudios.
+
+2\. Normas generales:
+
+a) Se establecerán periodos en los que instrucción y adiestramiento tenga carácter exclusivo sobre el resto de materias del currículo.
+
+b) Se impartirá a lo largo de todos los cursos académicos, y será calificada como una materia más. Los programas de estudios que desarrollen anualmente los distintos currículos detallarán la distribución temporal y contenido tomando como referencia el Manual de Intervención Operativa.
+
+c) Se concretará principalmente en ejercicios y prácticas, realizadas por grupos de entidad variable, relacionados con el desempeño profesional. También comprenderá, en su caso, períodos de prácticas, intercambios o visitas a unidades de la Guardia Civil u otros organismos nacionales o internacionales siempre que estén relacionados con el futuro desarrollo profesional.
+
+d) El módulo de instrucción y adiestramiento que se desarrolle en los cursos 1.º y 2.º del currículo correspondiente al acceso directo sin titulación universitaria previa, así como el periodo de formación que se desarrolle en la Academia General Militar del Ejército de Tierra durante el curso 1.º de acceso directo con titulación universitaria previa, se regirán por lo establecido en el Plan de estudios de la enseñanza de formación para la integración en el Cuerpo General del Ejército de Tierra mediante las formas de ingreso sin y con titulación universitaria previa respectivamente, teniendo en cuenta lo dispuesto en el artículo siguiente.
+
+3\. La superación de la materia de instrucción y adiestramiento habilitará para estar en disposición de realizar la planificación y dirección de la instrucción de una unidad tipo comandancia o similar de acuerdo con el Sistema de Intervención Operativa de la Guardia Civil.
+
+4\. El alumnado, una vez superada esta materia, obtendrán las competencias básicas sobre técnicas de intervención operativa que debe conocer todo componente del Cuerpo, pudiendo obtener, tras la superación de la formación complementaria que se determine, la titulación de Profesor del Sistema de Intervención Operativa de la Guardia Civil.
+
+> Se modifica por el art. único.5 de la Orden PJC/1030/2024, de 25 de septiembre. [Ref. BOE-A-2024-19389](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19389)
+
+#### Artículo 20. Formación física.
+
+1\. La formación física abarcará la adquisición de conocimientos aplicados y la práctica de ejercicios dirigidos a:
+
+a) Acreditar un grado de aptitud física adecuado para el cumplimiento de los cometidos propios del futuro oficial de la Guardia Civil.
+
+b) Aplicar técnicas de defensa personal policial.
+
+c) Ser capaz de orientar adecuadamente al personal del cuerpo en estos ámbitos.
+
+d) Sentar las bases que contribuyan al mantenimiento durante la carrera profesional de las condiciones físicas personales adecuadas.
+
+2\. Las pruebas físicas y marcas que los alumnos deberán superar para progresar en los distintos cursos de la enseñanza de formación serán las fijadas por parte de los Ministros del Interior y de Defensa en la normativa que regule la realización de las pruebas físicas en la Guardia Civil.
+
+> Se modifica la letra c) del apartado 1 por el art. único.6 de la Orden PJC/1030/2024, de 25 de septiembre. [Ref. BOE-A-2024-19389](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19389)
+
+## TÍTULO II — Normas de evaluación, progreso y permanencia en el centro docente de formación para la incorporación a la Escala de Oficiales del Cuerpo de la Guardia Civil
+
+#### Artículo 21. Finalidad.
+
+Se regula el tránsito a lo largo del currículo de formación de tal manera que los alumnos lo cursen en los plazos previstos.
+
+#### Artículo 22. La Junta Docente.
+
+1\. Se crea, en la Academia de Oficiales de la Guardia Civil, un órgano colegiado denominado Junta Docente (en adelante la Junta).
+
+2\. La Junta, en el ámbito de la Academia de Oficiales de la Guardia Civil, estará integrada por el personal siguiente:
+
+a) Presidente de la Junta: el Subdirector Jefe de Estudios.
+
+b) Secretario de la Junta: el jefe del órgano auxiliar, en el ámbito de formación, de la Jefatura de Estudios.
+
+c) Vocales: los jefes de departamentos y secciones departamentales y el resto de los subdirectores docentes del Centro.
+
+3\. Cuando en las cuestiones a dilucidar se encuentre implicado el Centro Universitario de la Guardia Civil, serán también integrantes de la Junta:
+
+a) Como Vicepresidente de la Junta: El Subdirector o Secretario del Centro Universitario de la Guardia Civil en caso de ausencia del anterior.
+
+b) Como vocales: Los directores de las áreas departamentales del Centro Universitario de la Guardia Civil convocados.
+
+4\. El Presidente de la Junta podrá convocar a los profesores cuya presencia estime necesaria en las sesiones que mantenga.
+
+5\. Corresponde a la Junta el diseño del plan de matrícula de los alumnos; asimismo, le corresponde la supervisión de la aplicación correcta de las presentes normas, proponer la resolución de las posibles reclamaciones de carácter académico de los alumnos, valorar los casos en los que haya que considerar determinadas situaciones especiales de los mismos y analizar tanto las causas para la dispensa de convocatoria como todos aquellos aspectos que pudieran afectar a la actividad docente del centro docente de formación. Asimismo, podrá proponer aquellos otros aspectos relacionados con el régimen docente que se estimen de interés.
+
+La citada aplicación no se verá limitada por los parámetros marcados en las siguientes normas, sino que estos serán tomados como referencia, atendiendo a las condiciones del alumno. En las propuestas que emitan, expondrán los motivos que las justifiquen.
+
+6\. Las propuestas de la Junta deberán ser elevadas al Director de la Academia de Oficiales para su resolución.
+
+#### Artículo 23. Reconocimiento de créditos.
+
+1\. A los alumnos que accedan a la enseñanza de formación para la incorporación a la escala de oficiales se les podrán reconocer, previa solicitud por el interesado y una vez efectuada su presentación en la Academia de Oficiales, los créditos o semanas correspondientes a los módulos, materias y asignaturas en función de los cursos, títulos y planes de estudios que acrediten, y que, a juicio de la Junta Docente, tengan similar duración, contenido y número de créditos, en su caso. La Jefatura de Estudios gestionará el reconocimiento de dichos créditos.
+
+2\. El reconocimiento de créditos de las diferentes asignaturas del título de Grado correspondiente será llevado a cabo, según la normativa universitaria, por el Centro Universitario de la Guardia Civil.
+
+#### Artículo 24. Plan de matrícula.
+
+1\. Se entiende por plan de matrícula, la determinación de las asignaturas de las que deberá matricularse el alumno en cada curso escolar. Será el resultado de tener en cuenta, entre otros factores, la carga de trabajo mínima y máxima del alumno.
+
+2\. El alumno estará encuadrado en aquel curso en el que se encuentre matriculado de la correspondiente materia de instrucción y adiestramiento.
+
+3\. La carga de trabajo máxima del alumno en cada curso escolar se establece para asegurar que el reparto del esfuerzo del alumno sea racional, de modo que le permita afrontar cada curso con suficientes garantías de éxito. A su vez, la carga mínima permite que todos los alumnos lleven a cabo sus estudios en condiciones de equidad.
+
+4\. La Junta seleccionará, cuando corresponda, las asignaturas del título de Grado de las que el alumno puede matricularse del curso siguiente al que se encuentre encuadrado, pudiendo alcanzar hasta un máximo de créditos igual a los previstos para ese curso de la titulación de Grado.
+
+Además, se les podrá matricular de hasta un treinta por ciento (30%) de créditos adicionales.
+
+#### Artículo 25. Instrucción y adiestramiento.
+
+1\. La materia de instrucción y adiestramiento será evaluada exclusivamente por el sistema de evaluación continua. Una falta de asistencia del treinta por ciento (30%) de los periodos dedicados a ella comportará su no superación por evaluación continua.
+
+2\. Mediante la observación sistemática de los alumnos y la realización de las pruebas prácticas necesarias se valorarán las aptitudes alcanzadas por cada uno de ellos y se les calificará.
+
+3\. La evaluación contará, como instrumento básico, con las informaciones y calificaciones que, sobre cada alumno y sobre el grupo, aporten los profesores de esta materia, y, como elemento orientador y de contraste, con las calificaciones de las asignaturas que tengan relación con ella.
+
+4\. La superación de esta materia será condición necesaria para el progreso en el correspondiente currículo.
+
+#### Artículo 26. Formación física.
+
+1\. Para superar la asignatura será necesario alcanzar las marcas mínimas establecidas por parte de los Ministros del Interior y de Defensa en la normativa que regule la realización de las pruebas físicas en la Guardia Civil, de acuerdo con el artículo 20. No obstante, la calificación final vendrá determinada por las marcas que vaya obteniendo el alumno, así como por la calificación de aquellos otros parámetros que conformen la asignatura.
+
+2\. Se celebrarán, al menos, tres evaluaciones y calificaciones por cada curso académico.
+
+Si por cualquier circunstancia un alumno no pudiese ser evaluado tres veces, para determinar las notas del curso y finales de la asignatura se considerarán aquellas en las que el alumno hubiera sido calificado.
+
+El resultado de estas evaluaciones tendrá la consideración de primera convocatoria.
+
+3\. En el caso de no superar la asignatura se dará opción a una sola prueba extraordinaria que tendrá lugar antes del comienzo del curso siguiente con la consideración de segunda convocatoria. Si en esta prueba no se superase la evaluación, el alumno deberá permanecer en el mismo curso.
+
+No obstante, tanto las evaluaciones ordinarias como la prueba extraordinaria podrán realizarse durante el curso siguiente cuando concurran circunstancias debidamente justificadas así valoradas por la Junta, previa solicitud de dispensa de convocatoria por parte del interesado conforme a lo dispuesto en estas normas.
+
+4\. Las calificaciones serán el resultado de transformar a puntuaciones, comprendidas entre cero y diez puntos y conforme a criterios predeterminados, los objetivos didácticos que sucesivamente se alcancen. La puntuación final correspondiente al nivel mínimo exigido será la de cinco puntos.
+
+#### Artículo 27. Convocatorias.
+
+1\. Se entiende por convocatoria la oportunidad que se le ofrece al alumno para superar una asignatura determinada.
+
+2\. El número máximo de convocatorias para cada una de las asignaturas será de cuatro, sin que ello excluya la aplicación de la normativa universitaria para los estudios de Grado, a excepción de lo señalado para las pruebas físicas, la materia de instrucción y adiestramiento y el Trabajo de Fin de Grado.
+
+Sin perjuicio de cuanto se disponga en la normativa universitaria para los estudios de Grado, la forma de superar las asignaturas será alguna de las siguientes:
+
+a) A lo largo del curso mediante el proceso de evaluación continua y en el caso de no superarla por evaluación continua, mediante un examen al acabar la asignatura (primera convocatoria).
+
+b) En el caso de no superarla en la primera convocatoria, antes del comienzo del siguiente curso académico, mediante un examen (segunda convocatoria).
+
+c) En el caso de no superar el examen de la segunda convocatoria, dicha asignatura se podrá superar repitiendo el proceso indicado en los párrafos a) y b) (tercera y cuarta convocatorias) hasta completar como máximo el número de convocatorias establecido anteriormente.
+
+3\. Una convocatoria se considera consumida cuando el alumno se ha presentado a ella, no comparece habiendo sido convocado o cuando no haya sido dispensada conforme a lo dispuesto en estas normas.
+
+4\. El alumno podrá solicitar ser examinado en la última convocatoria por un tribunal nombrado por el director del centro responsable de la asignatura. En el caso de que la asignatura corresponda a la formación de Grado, dicho tribunal, a juicio de la dirección del Centro Universitario, podrá contar con el asesoramiento de un representante de la Jefatura de Estudios de la Academia de Oficiales.
+
+5\. La no superación de alguna asignatura, tras agotar las cuatro convocatorias y, en su caso, la extraordinaria supondrá la baja en el centro docente de formación.
+
+> Se modifica el apartado 2 por el art. único.7 de la Orden PJC/1030/2024, de 25 de septiembre. [Ref. BOE-A-2024-19389](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19389)
+
+#### Artículo 28. Dispensa de convocatoria.
+
+1\. La Junta otorgará dispensa justificada de convocatoria de una asignatura determinada por alguna de las causas siguientes:
+
+a) Enfermedad o lesión que impida su presentación a la convocatoria según informe en el que dicha circunstancia quede expresada explícitamente en certificado médico oficial.
+
+b) Circunstancias familiares o personales excepcionales, debidamente acreditadas, que justifiquen la dispensa.
+
+c) Cualquier otra circunstancia que a juicio de la Junta haya de tenerse en cuenta.
+
+2\. En todo caso, la dispensa deberá ser solicitada con anterioridad a la celebración de la convocatoria.
+
+> Se modifica por el art. único.8 de la Orden PJC/1030/2024, de 25 de septiembre. [Ref. BOE-A-2024-19389](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19389)
+
+#### Artículo 29. Convocatorias extraordinarias.
+
+1\. Una vez consumidas las cuatro convocatorias a las que se hace referencia el artículo 27.2 sin haber superado la asignatura, el alumno podrá solicitar una convocatoria extraordinaria.
+
+2\. La concesión de dicha convocatoria tendrá carácter extraordinario y se ajustará a los criterios siguientes:
+
+a) Se podrá conceder a los alumnos de cualquier curso y para un máximo de dos asignaturas pudiendo realizarse una sola petición por curso.
+
+b) La Junta informará por escrito sobre la conveniencia de su concesión en función del expediente académico y aquellas otras circunstancias de carácter personal que pudieran haber influido en el solicitante.
+
+3\. Corresponde al Director de la Academia de Oficiales de la Guardia Civil o de la Academia General Militar del Ejército de Tierra, según el caso, a la vista de las sugerencias y propuestas que eleve la Junta, la concesión de la convocatoria extraordinaria.
+
+4\. El alumno podrá solicitar ser examinado por un tribunal nombrado por el director del centro responsable de la asignatura. En el caso de que la asignatura corresponda a la formación del título de Grado, dicho tribunal, a juicio de la dirección del Centro Universitario de la Defensa o de la Guardia Civil, podrá contar con el asesoramiento de un representante de la jefatura de estudios de la Academia de Oficiales de la Guardia Civil o de la Academia General Militar del Ejército de Tierra, anteriormente citadas.
+
+#### Artículo 30. Evaluación y calificación.
+
+1\. La evaluación, en el ámbito de la enseñanza de formación, para aquellas asignaturas no comprendidas en el título de Grado, presenta los siguientes rasgos definitorios:
+
+a) Tiene carácter continuo.
+
+b) Contribuye al proceso de enseñanza y aprendizaje.
+
+2\. En el proceso de formación se verificarán, con criterios objetivos, los conocimientos adquiridos por los alumnos, el desarrollo de su formación, su aptitud para el servicio y su rendimiento escolar mediante las correspondientes evaluaciones, calificaciones e informes personales del alumno.
+
+3\. El método, características y condiciones para la evaluación de cada materia o asignatura figurará en el correspondiente programa de estudios aprobado por el Jefe de la Jefatura de Enseñanza.
+
+4\. La superación de una materia o asignatura comportará la obtención de los créditos correspondientes a la misma.
+
+#### Artículo 31. Calificación académica, calificación ponderada y ordenación de los alumnos.
+
+1\. La calificación académica será la nota resultante de valorar el aprendizaje del alumno en cada una de las materias y asignaturas que componen la enseñanza de formación.
+
+2\. De la calificación académica se deducirá la calificación ponderada, que es el resultado de valorar la primera en función de la convocatoria en la que se ha superado la asignatura. Asimismo, para el cálculo de la calificación final de cada curso académico y del conjunto del currículo de formación se aplicarán unos coeficientes a las materias o asignaturas, que tendrán en cuenta los créditos ECTS de las mismas.
+
+3\. La calificación final obtenida del conjunto de materias y asignaturas del currículo tras concluir el periodo formativo servirá de base para la ordenación de los alumnos; en caso de igualdad de puntuación, se dará prioridad al alumno que tenga la mejor calificación en la materia de instrucción y adiestramiento; a igualdad de ésta, al de mayor calificación en idioma Inglés; y de persistir la igualdad, al de mayor edad.
+
+4\. La ponderación de las calificaciones de las asignaturas en función de la convocatoria en que se hayan superado es la siguiente:
+
+| Convocatoria | 1.ª | 2.ª | 3.ª | 4.ª | Extraordinaria | No superada<br>(a efectos de cálculo) |
+|---|---|---|---|---|---|---|
+| Coeficiente de Convocatoria. | 1 | 0,90 | 0,80 | 0,70 | 0,50 | 0 |
+
+5\. El Director General de la Guardia Civil, a propuesta del Jefe del Mando de Personal, desarrollará las normas para la evaluación, calificación y clasificación de los alumnos a los que se refiere esta orden.
+
+6\. La calificación de las asignaturas cuyos créditos hubieran sido reconocidos, será de 5 o, en su caso, de apto.
+
+> Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 25, de 29 de enero de 2019. [Ref. BOE-A-2019-1061](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1061)
+
+#### Artículo 32. Revisión de calificaciones.
+
+1\. Todo alumno podrá solicitar la revisión de examen. Esta solicitud se dirigirá, en primera instancia, al profesor de la asignatura, que actuará de acuerdo con las normas establecidas por la Jefatura de Estudios de la Academia de Oficiales de la Guardia Civil.
+
+2\. En el supuesto de que la materia o asignatura fuese de la titulación de Grado, el procedimiento de revisión será el establecido por las normas del Centro Universitario de la Guardia Civil.
+
+3\. El profesor atenderá, durante los tres días hábiles siguientes a la notificación de las notas de cada materia o asignatura y en el horario que se determine en las normas antes referidas, las solicitudes que se formulen por parte de los alumnos para la revisión de exámenes.
+
+4\. Cuando el examen sea el correspondiente a la última convocatoria, el alumno podrá solicitar la revisión por un tribunal constituido a tal efecto. En el caso de que la materia o asignatura sea del título de Grado, a juicio de la dirección del Centro Universitario, se podrá contar con el asesoramiento de un representante de la Jefatura de Estudios de la Academia de Oficiales.
+
+5\. Si una vez realizada la revisión a que se refieren los dos apartados anteriores, siguiera sin estar de acuerdo con la decisión adoptada, el alumno podrá formular recurso ante el Director de la Academia de Oficiales de la Guardia Civil, en los plazos y condiciones que a tal efecto se establezcan.
+
+#### Artículo 33. Opciones de mejora.
+
+1\. A la vista de la calificación obtenida por evaluación continua, en cualquier materia o asignatura excepto en instrucción y adiestramiento y formación física, todo alumno que la haya superado, podrá solicitar ser sometido a una prueba, para la mejora de la calificación, sobre la totalidad de dicha materia o asignatura.
+
+2\. La prueba a realizar será la misma que la que hayan de superar los que, en la evaluación continua, no hayan obtenido al menos la calificación de cinco.
+
+3\. La calificación definitiva será la mejor de las obtenidas por evaluación continua o mediante la citada prueba de mejora.
+
+4\. Esta mejora no será aplicable en aquellas asignaturas en las que se haya obtenido reconocimiento de créditos o no se haya realizado evaluación continua.
+
+#### Artículo 34. Progreso en los currículos de formación.
+
+1\. Se estará en condiciones de pasar de curso progresando en los correspondientes currículos cuando se haya superado, al menos, el setenta por ciento (70%) de los créditos de las asignaturas establecidas en el curso en que esté encuadrado.
+
+2\. Cuando se declare selectivo un determinado curso, el alumno no podrá progresar si no tiene superadas todas las materias y asignaturas de su currículo de formación correspondientes a dicho curso y los anteriores.
+
+#### Artículo 35. Permanencia en un curso.
+
+1\. Un alumno no progresará y, por tanto, permanecerá en un curso, cuando como resultado de sus evaluaciones, y sin causar baja en el centro docente de formación, no reúna todas las condiciones para pasar al curso siguiente.
+
+2\. Los alumnos que permanezcan en un curso participarán en las actividades de las materias de instrucción y adiestramiento, formación física y Lengua Inglesa, aun cuando las tuvieran superadas, siendo evaluados nuevamente manteniendo en el expediente académico la nota más alta alcanzada.
+
+3\. Los alumnos permanecerán en un curso cuando no puedan asistir al treinta por ciento (30 %) de los periodos dedicados a la materia de instrucción y adiestramiento.
+
+#### Artículo 36. Permanencia y baja en el centro docente de formación.
+
+1\. Un alumno permanecerá en el centro docente de formación siempre que progrese en los correspondientes currículos o permanezca en un curso por no reunir las condiciones para pasar al curso siguiente.
+
+2\. La baja como alumno en el centro docente de formación conllevará la baja en el Centro Universitario de la Guardia Civil.
+
+3\. Además de lo dispuesto en el artículo 48 de la Ley 29/2014, de 28 de noviembre, el alumno causará baja en el centro docente de formación, en cualquier curso, cuando se dé alguna de las siguientes condiciones:
+
+a) No superar por segunda vez, la materia «instrucción y adiestramiento» o «formación física» correspondiente a ese curso, excepto cuando sea por causa de lesión o enfermedad, en cuyo caso permanecerá en el curso.
+
+b) Para los alumnos que hubieran accedido por acceso directo sin titulación universitaria previa, encuadrados en primer y segundo curso, no superar en cada uno de ellos, como mínimo, el treinta por ciento (30%) de los créditos de las asignaturas del currículo del curso en que esté matriculado, y que correspondan al curso en que se encuentre encuadrado.
+
+c) Agotar el número máximo de convocatorias y, en su caso, la extraordinaria, de cualquier asignatura sin haberla superado, o exceder los plazos máximos previstos para finalizar el correspondiente currículo conforme se establece en el artículo 38.
+
+d) Asimismo, un alumno podrá causar baja en el centro docente de formación como consecuencia de la aplicación del ajuste de plazas.
+
+> Se modifica la letra c) del apartado 3 por el art. único.9 de la Orden PJC/1030/2024, de 25 de septiembre. [Ref. BOE-A-2024-19389](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19389)
+
+#### Artículo 37. Ajuste de plazas.
+
+1\. El ajuste de plazas consiste en igualar el número de alumnos que vayan a progresar en el currículo de formación con el número de plazas fijadas en la provisión de plazas correspondiente.
+
+2\. Se aplicará, en todo caso, antes del inicio del último curso, cuando así lo determine el Director General de la Guardia Civil, a propuesta del Jefe del Mando de Personal.
+
+3\. Este procedimiento afectará exclusivamente a los alumnos que hubieren ingresado por acceso directo sin titulación universitaria previa, priorizando, en primer lugar, a aquéllos que hayan superado todas las materias y asignaturas del currículo de formación realizado hasta ese momento y, a continuación, el resto en función de la ordenación provisional obtenida tras la segunda convocatoria, antes del inicio del curso siguiente.
+
+4\. Los alumnos que, reuniendo las condiciones de progresar en el currículo, no puedan hacerlo como consecuencia del ajuste de plazas podrán permanecer en el mismo curso, siempre y cuando no suponga sobrepasar los plazos máximos establecidos.
+
+5\. En el caso del apartado anterior, el plan de matrícula podrá incluir hasta el máximo de créditos del curso siguiente de la titulación de Grado.
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 25, de 29 de enero de 2019. [Ref. BOE-A-2019-1061](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1061)
+
+#### Artículo 38. Plazos para superar el currículo de formación.
+
+1\. Los alumnos que ingresen por acceso directo sin titulación universitaria previa, deberán superar el proceso de formación en un plazo máximo de ocho cursos académicos.
+
+2\. En caso del alumnado que ingrese por acceso directo con titulación universitaria previa y por promoción profesional, deberá superar el proceso de formación en un plazo máximo de tres cursos académicos, excepto cuando no supere por segunda vez, la materia de instrucción y adiestramiento o de formación física correspondiente a ese curso por lesión o enfermedad, en cuyo caso podrá incrementarse dicho plazo en un curso más.
+
+3\. Los plazos establecidos en los apartados anteriores no excluyen la aplicación de la normativa universitaria para la formación de grado correspondiente.
+
+4\. En caso de no superar el correspondiente currículo de formación en los plazos fijados, el alumno causará baja en el centro docente de formación.
+
+> Se modifica el apartado 2 por el art. único.10 de la Orden PJC/1030/2024, de 25 de septiembre. [Ref. BOE-A-2024-19389](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19389)
+
+#### Artículo 39. Trabajo de fin de Grado.
+
+1\. El tema del trabajo de fin de Grado, cuando sea necesaria su realización, además de tener relación con el contenido del título de Grado, en su caso, deberá, en la medida de lo posible, estar orientado al campo de actividad de la Guardia Civil, en función de las misiones asignadas por el ordenamiento jurídico vigente.
+
+2\. La defensa pública del trabajo se realizará durante el cuarto curso para el sistema de ingreso por acceso directo sin titulación universitaria previa y durante el segundo curso para el sistema de ingreso por promoción profesional en la modalidad de promoción interna.
+
+3\. Para la superación del Trabajo Fin de Grado, el alumnado dispondrá de dos convocatorias, sin perjuicio de la posibilidad de solicitar una convocatoria extraordinaria que se realizaría durante el curso siguiente, en el caso de ser concedida.
+
+A efectos de reordenación del alumnado, a quienes superen el trabajo en su segunda defensa o, en su caso, en la convocatoria extraordinaria, se les aplicará el coeficiente de convocatoria de 0,50.
+
+> Se modifica el apartado 3 por el art. único.11 de la Orden PJC/1030/2024, de 25 de septiembre. [Ref. BOE-A-2024-19389](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19389)
+
+#### Artículo 40. Sistemas de integración en una única clasificación final.
+
+1\. El personal que finalice el correspondiente currículo se ordenará de forma descendente conforme a la ordenación final resultante de superar la enseñanza de formación.
+
+2\. Al objeto de integrar en una única clasificación final al personal que se incorpore a una escala en su primer empleo, procedente de los distintos sistemas de acceso a la enseñanza de formación de la Guardia Civil, se ordenará de forma descendente según la puntuación típica de cada uno, obtenida como resultado de dividir la diferencia de cada nota final con respecto a la media, por su desviación típica.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/232/12939_formula_texto.png)
+
+3\. En caso de igualdad, se resolverá a favor del de mayor nota final obtenida en el currículo que hubiere cursado, y si persiste la igualdad, a favor del de mayor edad.
+
+4\. La citada clasificación final se publicará en una única resolución con idéntica fecha de incorporación a la escala correspondiente.
+
+#### Artículo 40 bis. Superación del currículo y egreso.
+
+1\. La superación del currículo, con independencia de que esta se produzca a la finalización del último curso académico o una vez iniciado el siguiente, tras haber permanecido por no reunir las condiciones para finalizar el currículo correspondiente, supondrá el egreso del centro docente de formación y conllevará la incorporación a la Escala de Oficiales y la atribución del empleo de Teniente, así como, en su caso, la obtención de la titulación de grado universitario correspondiente.
+
+2\. El alumnado que supere el currículo, tras la publicación de la resolución recogida en el apartado 4 del artículo anterior, pero con anterioridad al comienzo del curso siguiente, se integrará en la clasificación final publicada en dicha resolución.
+
+3\. El alumnado que supere el currículo, una vez iniciado el curso siguiente, tras haber permanecido en el último curso por no haber reunido las condiciones para finalizar el currículo correspondiente, se incorporará en la escala con la antigüedad correspondiente a dicha superación.
+
+> Se añade por el art. único.12 de la Orden PJC/1030/2024, de 25 de septiembre. [Ref. BOE-A-2024-19389](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19389)
+
+## TÍTULO III — Títulos o créditos del sistema educativo español que habilitan para la incorporación a la Escala de Oficiales del Cuerpo de la Guardia Civil
+
+#### Artículo 41. Determinación de las titulaciones universitarias oficiales que se exigirán para el ingreso por promoción profesional en la modalidad de cambio de escala.
+
+Podrán acceder a la enseñanza de formación para la incorporación a la Escala de Oficiales, por promoción profesional en la modalidad de cambio de escala, quienes acrediten la posesión de un título universitario oficial de Grado, Licenciado, Arquitecto o Ingeniero, obtenidos de conformidad con lo previsto en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales.
+
+#### Artículo 42. Determinación de los créditos de las titulaciones universitarias oficiales que se exigirán para el ingreso por promoción profesional en la modalidad de promoción interna.
+
+Podrán acceder a la enseñanza de formación para la incorporación a la Escala de Oficiales, por promoción profesional en la modalidad de promoción interna, quienes tengan reconocidos 120 créditos ECTS del título de Grado en Gestión de Seguridad Pública de conformidad con lo previsto en el Real Decreto 1393/2007, de 29 de octubre.
+
+Para efectuar dicho reconocimiento se valorará el expediente académico de los alumnos que accedan por esta modalidad, de acuerdo con los procedimientos establecidos por la Universidad de adscripción, teniendo en cuenta la adecuación entre las competencias y los conocimientos asociados a las materias cursadas por el estudiante y los créditos previstos en el correspondiente currículo.
+
+#### Disposición adicional primera. Medidas de conciliación y corresponsabilidad.
+
+1\. En lo que se refiere a esta orden y respecto a las medidas de conciliación y corresponsabilidad se atenderá a lo dispuesto en el Reglamento de ordenación de la enseñanza en la Guardia Civil aprobado por el Real Decreto 131/2018, de 16 de marzo.
+
+2\. En lo no dispuesto en dicho Reglamento y respecto a la protección de la maternidad, se atenderá a cuanto se dispone en el Real Decreto 293/2009, de 6 de marzo, por el que se aprueban las medidas de protección de la maternidad en el ámbito de la enseñanza en las Fuerzas Armadas.
+
+> Se modifica por el art. único.13 de la Orden PJC/1030/2024, de 25 de septiembre. [Ref. BOE-A-2024-19389](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19389)
+
+#### Disposición adicional segunda. Aplicación del estatuto del Estudiante Universitario.
+
+Los alumnos de la enseñanza de formación para la incorporación a la escala de oficiales del Cuerpo de la Guardia Civil que cursen estudios en centros universitarios de la Defensa o de la Guardia Civil, unen a su condición de universitarios la de militares, por lo que, en el ejercicio de los derechos y deberes recogidos en el Estatuto del Estudiante Universitario, aprobado por el Real Decreto 1791/2010, de 30 de diciembre, se atenderá, respectivamente, al régimen jurídico que rige para las Fuerzas Armadas y para la Guardia Civil que les sea de aplicación, así como, en su caso, a los correspondientes convenios de adscripción firmados con universidades públicas en virtud de lo establecido en el Real Decreto 1723/2008, de 24 de octubre, por el que se crea el sistema de Centros Universitarios de la Defensa, y en el Real Decreto 1959/2009, de 18 de diciembre, por el que se crea el Centro Universitario de la Guardia Civil.
+
+#### Disposición adicional tercera. Empleos eventuales.
+
+1\. A los alumnos que hubieren ingresado por acceso directo sin titulación universitaria previa, una vez sean nombrados alumnos de la Academia de Oficiales de la Guardia Civil se les concederá, con carácter eventual y a efectos académicos, de prácticas y retributivos, el empleo de Alférez, con la denominación de Caballero o Dama Alférez Cadete.
+
+2\. A los alumnos que hubieren ingresado por promoción profesional en las modalidades de cambio de escala o promoción interna, una vez realicen su incorporación a la Academia de Oficiales de la Guardia Civil, y únicamente en los periodos presenciales en el centro docente de formación y en el periodo de prácticas en unidades de la Guardia Civil, en su caso, se les concederá, con carácter eventual y a efectos académicos, de prácticas y retributivos, el empleo de Alférez con la denominación de Caballero o Dama Alférez Alumno o Alumna, respectivamente.
+
+#### Disposición adicional cuarta. Acceso directo con titulación.
+
+El artículo 19.3 no será de aplicación al alumnado que proceda de acceso directo con titulación universitaria previa.
+
+> Se añade por el art. único.14 de la Orden PJC/1030/2024, de 25 de septiembre. [Ref. BOE-A-2024-19389](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19389)
+
+#### Disposición transitoria primera. Aplicación de los currículos de formación.
+
+Los currículos de formación objeto de esta orden ministerial serán de aplicación a los alumnos ingresados desde el inicio del curso académico 2017/2018.
+
+#### Disposición transitoria segunda. Repetición de curso.
+
+Los alumnos que, cursando el plan de estudios aprobado por la Orden PRE/2207/2013, de 22 de noviembre, por la que se aprueba el plan de estudios de la enseñanza de formación para la incorporación a la Escala Superior de Oficiales del Cuerpo de la Guardia Civil y se dictan las normas de evaluación y de progreso y permanencia en el centro docente de formación, no progresen y permanezcan en un curso en el que ya se encuentre implantado el currículo de la enseñanza de formación de acceso directo sin titulación universitaria previa, a que se refiere esta orden, se integrarán en la promoción siguiente, siéndoles de aplicación cuanto se dispone en esta orden.
+
+#### Disposición transitoria tercera. Extinción de los planes de estudios.
+
+Una vez que entren en vigor los nuevos currículos, los planes de estudios de la enseñanza de formación para la incorporación a la Escala Superior de Oficiales del Cuerpo de la Guardia Civil y de la enseñanza de formación para la incorporación a la Escala de Oficiales de la Guardia Civil, aprobados mediante Orden PRE/2207/2013, de 22 de noviembre, y Orden PRE/1479/2006, de 5 de mayo, respectivamente, se extinguirán curso por curso académico.
+
+#### Disposición transitoria cuarta. Pruebas y marcas a superar para progresar en la enseñanza de formación.
+
+Hasta tanto no se apruebe, por parte de los Ministros del Interior y de Defensa, la normativa que regule la realización de las pruebas físicas en la Guardia Civil, las pruebas físicas y marcas que los alumnos deberán superar para progresar en los distintos cursos de la enseñanza de formación serán las fijadas en el anexo V.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+1\. Quedan derogadas la Orden PRE/2207/2013 de 22 de noviembre, así como la Orden PRE/1479/2006, de 5 de mayo.
+
+2\. Así mismo, quedan derogadas las disposiciones de igual o inferior rango que se opongan a lo dispuesto en esta orden.
+
+#### Disposición final primera. Facultad de desarrollo.
+
+Se autoriza al Director General de la Guardia Civil, en el ámbito de sus competencias, para el desarrollo y ejecución de esta orden.
+
+#### Disposición final segunda. Entrada en vigor.
+
+Esta orden entrará en vigor el día siguiente al de su publicación en el *«*Boletín Oficial del Estado».
+
+Madrid, 20 de septiembre de 2018.–La Vicepresidenta del Gobierno y Ministra de la Presidencia, Relaciones con las Cortes e Igualdad, Carmen Calvo Poyato.
+
+## ANEXO I — Currículo del alumnado que hubiera ingresado por acceso directo sin titulación universitaria previa
+
+A continuación, se relacionan, por cursos y módulos, las materias de enseñanza que, distribuidas por asignaturas, componen el currículo del alumnado que hubiera ingresado por acceso directo sin titulación universitaria previa:
+
+Curso: 1.º
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_redonda">Formación militar</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo</th>
+<th class="cabeza_tabla">Materia</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">Semanas/Horas</th>
+<th class="cabeza_tabla">Asignatura</th>
+<th class="cabeza_tabla">Breve descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">INSTRUCCIÓN Y ADIESTRAMIENTO.</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Instrucción y Adiestramiento de carácter general.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2 semanas</td>
+<td class="cuerpo_tabla_izq">Fase de acogida, Orientación y adaptación a la vida militar.</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7 semanas</td>
+<td class="cuerpo_tabla_izq">Instrucción y adiestramiento I.</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Formación física.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3 semanas</td>
+<td class="cuerpo_tabla_izq">Formación física I.</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Orden cerrado.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">0,5 semanas</td>
+<td class="cuerpo_tabla_izq">Orden cerrado I.</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr data-partir-fila="true">
+<td class="cuerpo_tabla_izq" rowspan="5">FORMACIÓN MILITAR GENERAL.</td>
+<td class="cuerpo_tabla_izq" rowspan="2">FORMACIÓN BÁSICA.</td>
+<td class="cuerpo_tabla_centro">1,5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Formación militar básica I.</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">1,5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Formación militar básica II.</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">FORMACIÓN MILITAR.</td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Formación militar I.</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2,5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Formación militar II.</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2,5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Formación militar III.</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
+<td class="cuerpo_tabla_centro">10<sup>1</sup></td>
+<td class="cuerpo_tabla_centro">12,5</td>
+<td class="cuerpo_tabla_izq" colspan="2"> </td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6">
+<p class="cita">(1) La carga de trabajo correspondiente al módulo «Formación Militar General» está repartida en diferentes asignaturas que se imparten en el currículo de la enseñanza de formación de oficiales para la integración en el Cuerpo General del Ejército de Tierra mediante las formas de ingreso sin titulación previa, aprobado por Orden DEF/287/2024, de 18 de marzo. Por tanto, el total de 10 ECTS especificados en este módulo no computan en la carga de trabajo total del curso 1.º.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_redonda">Formación en Grado en Ciencias de la Seguridad Pública</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo</th>
+<th class="cabeza_tabla">Materia</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">Asignatura</th>
+<th class="cabeza_tabla">Breve descripción<sup>(2)</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">TÉCNICAS DE MANDO.</td>
+<td class="cuerpo_tabla_izq">Psicología.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Psicología.</td>
+<td class="cuerpo_tabla_izq">Cambio y Liderazgo. Modelos y teorías del Liderazgo. Reales Ordenanzas de las FAS. Procesos psicosociales. Normas de Comportamiento. Protocolo y comportamiento social. Autoliderazgo. Inteligencia emocional.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PROCEDIMIENTOS Y TECNOLOGÍAS APLICADAS A LA DEFENSA.</td>
+<td class="cuerpo_tabla_izq">Tecnología aplicada a la Defensa.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Defensa I.</td>
+<td class="cuerpo_tabla_izq">"Tecnología energética y de materiales Sistemas individuales y colectivos de uso en el ET. Municiones y explosivos. Helicópteros y Drones. Medios de Transmisión y ópticos.".</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Procedimientos aplicados a la Defensa.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Procedimientos aplicados a la Defensa I.</td>
+<td class="cuerpo_tabla_izq">Conceptos básicos de topografía y NBQ. Doctrina, Entorno operativo, Fundamentos de Táctica.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">CIENTÍFICO- TECNOLÓGICO.</td>
+<td class="cuerpo_tabla_izq">Matemáticas.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Matemáticas I.</td>
+<td class="cuerpo_tabla_izq">Cálculo diferencial. Cálculo integral.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Física.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Fundamentos de mecánica.</td>
+<td class="cuerpo_tabla_izq">Estática, cinemática y dinámica y sólido rígido.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Informática.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Informática.</td>
+<td class="cuerpo_tabla_izq">Nociones de Estructura de computadores, nociones de software, programación básica.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">CIENCIAS SOCIALES Y JURÍDICAS.</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Ciencias Sociales.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Historia.</td>
+<td class="cuerpo_tabla_izq">Historia de las Fuerzas Armadas en el contexto de la evolución de la sociedad, la Defensa y la acción exterior de la España contemporánea. Historia de la Guardia Civil.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Economía.</td>
+<td class="cuerpo_tabla_izq">Introducción a la economía (conceptos básicos: familias, empresas y sector público), Presupuesto y gasto público (PGE y defensa), Gestión económica y financiera en el entorno de la Defensa, Toma de decisiones.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciencias Jurídicas.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Derecho I.</td>
+<td class="cuerpo_tabla_izq">Teoría General del Derecho. Derecho Constitucional. Derecho Administrativo General (Principios Generales, Procedimiento Administrativo, Nociones sobre Régimen Disciplinario Militar). Introducción al Derecho Penal.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">FORMACIÓN EN LENGUA INGLESA.</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa I.</td>
+<td class="cuerpo_tabla_izq">Habilidades comunicativas que capaciten para describir y narrar usando el inglés. Descriptores correspondientes a los niveles B1/B2 del CEFR (Marco Común Europeo de Referencia) y niveles SLP 2 del STANAG 6001. Conocimiento y uso de la terminología especifica militar especifica de la formación militar recibida en primer curso.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+Curso: 2.º
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_redonda">Formación militar</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo</p>
+</th>
+<th class="cabeza_tabla">Materia</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">Semanas/Horas</th>
+<th class="cabeza_tabla">Asignatura</th>
+<th class="cabeza_tabla">Breve descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">INSTRUCCIÓN Y ADIESTRAMIENTO.</td>
+<td class="cuerpo_tabla_izq">Instrucción y adiestramiento de carácter general.</td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_centro">6 semanas</td>
+<td class="cuerpo_tabla_izq">Instrucción y adiestramiento II.</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Formación física.</td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_centro">3 semanas</td>
+<td class="cuerpo_tabla_izq">Formación física II.</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Orden cerrado.</td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_centro">0,5 semanas</td>
+<td class="cuerpo_tabla_izq">Orden cerrado II.</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_centro">9,5</td>
+<td class="cuerpo_tabla_izq" colspan="2"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_redonda">Formación en Grado en Ciencias de la Seguridad Pública</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo</th>
+<th class="cabeza_tabla">Materia</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">Asignatura</th>
+<th class="cabeza_tabla">Breve descripción<sup>(2)</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">TÉCNICAS DE MANDO.</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Liderazgo.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Liderazgo I.</td>
+<td class="cuerpo_tabla_izq">Gestión de equipos. Mediación y negociación. Delegación. Gestión del Tiempo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Liderazgo II.</td>
+<td class="cuerpo_tabla_izq">Comunicación oral y escrita, comunicación organizacional, comunicación pública, comunicación digital. Técnicas pedagógicas. Orientación y tutoría. Metodología de la investigación.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Preparación psicofísica.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Preparación psicofísica.</td>
+<td class="cuerpo_tabla_izq">Preparación psicofísica, Actividad física y salud, Entrenamiento físico y rendimiento, Condición física.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PROCEDIMIENTOS Y TECNOLOGÍAS APLICADAS A LA DEFENSA.</td>
+<td class="cuerpo_tabla_izq">Tecnología aplicada a la Defensa.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Defensa II.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Tecnología Eléctrica y electrónica.</p>
+<p class="cuerpo_tabla_izq">Requerimientos energéticos sostenibles de instalaciones.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Procedimientos aplicados a la Defensa.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Procedimientos aplicados a la Defensa II.</td>
+<td class="cuerpo_tabla_izq">Capacidades de Unidades orgánicas, Acciones Tácticas, Planeamiento de las operaciones.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">CIENTÍFICO- TECNOLÓGICO.</td>
+<td class="cuerpo_tabla_izq">Matemáticas.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Matemáticas II.</td>
+<td class="cuerpo_tabla_izq">Álgebra lineal.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Digitalización.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Tecnología.</td>
+<td class="cuerpo_tabla_izq">Tecnología de sensores y sistemas de procesamiento de la información sensorial (GPS, GNSS, visión artificial) Sistemas de Información Geográfica y Teledetección.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Estadística.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Estadística.</td>
+<td class="cuerpo_tabla_izq">Estadística descriptiva. Espacios de probabilidad. Variables y vectores aleatorios. Inferencia estadística.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciencias jurídicas.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Derecho II.</td>
+<td class="cuerpo_tabla_izq">Derecho Penal Militar, Derecho Internacional de los Conflictos Armados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">FORMACIÓN EN LENGUA INGLESA.</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa II.</td>
+<td class="cuerpo_tabla_izq">Habilidades comunicativas que capaciten para opinar y argumentar. Descriptores correspondientes a los niveles B1/B2 del CEFR y niveles SLP 2 del STANAG 6001.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_izq" colspan="2"> </td>
+</tr>
+</tbody>
+</table>
+
+(2) En todo caso, la descripción de los contenidos de las asignaturas de 1er y 2.º Curso impartidas en la Academia General Militar serán las que se corresponda con los correspondientes descriptores de las asignaturas contenidas en el Orden DEF/287/2024, de 18 de marzo, por la que se aprueba el currículo de la enseñanza de formación de oficiales para la integración en el Cuerpo General del Ejército de Tierra mediante las formas de ingreso sin titulación previa.
+
+Curso: 3.º
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_redonda">Formación militar</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo</th>
+<th class="cabeza_tabla">Materia</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">Semanas</th>
+<th class="cabeza_tabla">Asignatura</th>
+<th class="cabeza_tabla">Breve descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">INSTRUCCIÓN Y ADIESTRAMIENTO.</td>
+<td class="cuerpo_tabla_izq">Instrucción y adiestramiento.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">9 semanas</td>
+<td class="cuerpo_tabla_izq">Instrucción y adiestramiento III.</td>
+<td class="cuerpo_tabla_izq">Ejercicios y prácticas integradas. Orden Cerrado.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Formación física.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3 semanas</td>
+<td class="cuerpo_tabla_izq">Formación física III.</td>
+<td class="cuerpo_tabla_izq">Formación física. Defensa personal policial.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq" colspan="2"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_redonda">Formación en Grado en Ciencias de la Seguridad Pública</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo</th>
+<th class="cabeza_tabla">Materia</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">Asignatura</th>
+<th class="cabeza_tabla">Breve descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">TÉCNICAS DE MANDO.</td>
+<td class="cuerpo_tabla_izq">Liderazgo.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Liderazgo III.</td>
+<td class="cuerpo_tabla_izq">Habilidades directivas. Organización, Planificación, Motivación, Mando, Control. Destrezas comunicativas para el liderazgo: comunicación interpersonal, organizacional y corporativa; oratoria y relaciones con los medios, comunicación de crisis y técnicas pedagógicas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">TÉCNICO- PROFESIONAL.</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Procedimientos aplicados a la seguridad pública.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Seguridad Ciudadana I.</td>
+<td class="cuerpo_tabla_izq">Derechos y libertades fundamentales, policía de seguridad, potestades generales y especiales, régimen sancionador de la seguridad.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Sistemas de Gestión y Documentación en la Guardia Civil.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Sistemas de información aplicables en la gestión profesional.</p>
+<p class="cuerpo_tabla_izq">Aplicación en la Guardia Civil. Sistemas SIGO, NERHU, ALFIL, INVES.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Recursos Humanos.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Estatuto de la Guardia Civil y Gestión de los RRHH I.</td>
+<td class="cuerpo_tabla_izq">Régimen de Personal. Régimen de derechos y deberes. Igualdad.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">CIENCIAS HUMANÍSTICAS.</td>
+<td class="cuerpo_tabla_izq">Humanidades.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Historia de la Guardia Civil y Deontología Profesional.</td>
+<td class="cuerpo_tabla_izq">Historia de la Guardia Civil. Código de conducta. Principios básicos de actuación.</td>
+</tr>
+<tr data-partir-fila="true">
+<td class="cuerpo_tabla_izq" rowspan="5">CIENTÍFICO TECNOLÓGICO.</td>
+<td class="cuerpo_tabla_izq">Criminalística.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Ciencias Forenses.</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la obtención de datos y vestigios. Conceptos básicos de la Biomedicina. Identificación de personas. Sistemas de investigación. Muestras biológicas. Identificación de documentos y objetos. Balística y trazas instrumentales. Infografía forense. Metodología y procedimientos basados en sistemas de calidad. Inteligencia científica. Pericias. Acústica forense.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Estadística.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Análisis Estadístico del Delito.</td>
+<td class="cuerpo_tabla_izq">Introducción a la probabilidad y la estadística: concepto de probabilidad y reglas básicas, distribuciones, estadística descriptiva para una y varias variables. Introducción a la inferencia estadística: intervalos de confianza y contrastes de hipótesis para la media y la varianza; comparaciones de medias entre dos poblaciones. Relaciones entre variables: introducción a los modelos lineales, estimación de parámetros del modelo e inferencia sobre dichos parámetros. Aplicaciones a la gestión de la seguridad y a la criminología.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad I.</td>
+<td class="cuerpo_tabla_izq">Gestión de la seguridad Física. Planes de Seguridad de infraestructuras.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Digitalización.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Digitalización I.</td>
+<td class="cuerpo_tabla_izq">Introducción a la Transformación Digital, Introducción a los Sistemas de Información, Modelos de da tos. Definición, manipulación y recuperación en BD: Introducción a SQL.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Telecomunicaciones.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Teoría de las Telecomunicaciones aplicada a la Seguridad.</td>
+<td class="cuerpo_tabla_izq">Fundamentos de los sistemas de comunicaciones. Técnicas y sistemas de transmisión. Teoría de la comunicación. Radiocomunicación. Radiación, propagación y procesado de señales. Redes de comunicaciones (red celular, tetra, tetrapol, GSM, UMTS, móviles terrenas y satelitales).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">CIENCIAS SOCIALES Y JURÍDICAS.</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Ciencias Jurídicas.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Derecho Penal I.</td>
+<td class="cuerpo_tabla_izq">Teoría jurídica del delito. Teoría jurídica de la pena y de las medidas de seguridad. Responsabilidad penal y civil. Fundamentos básicos de Derecho Civil. Casos prácticos y análisis jurisprudencial.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Derecho Penal II.</td>
+<td class="cuerpo_tabla_izq">Análisis jurídico de las tipologías delictivas. Delitos contra las personas. Delitos contra el patrimonio y el orden socioeconómico. Delitos de los funcionarios y contra la colectividad. Casos prácticos y análisis jurisprudencial.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Instituciones y Regímenes Internacionales.</td>
+<td class="cuerpo_tabla_izq">El Derecho internacional. Las Organizaciones internacionales. La Unión Europea. España en las organizaciones internacionales. Las competencias de los Estados sobre las personas. Régimen de los espacios bajo jurisdicción estatal. Régimen de los espacios internacionales y patrimonio de la humanidad. La protección internacional del medio ambiente. Principios y reglas de derecho internacional económico.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">FORMACIÓN EN LENGUA INGLESA.</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa III.</td>
+<td class="cuerpo_tabla_izq">Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_izq" colspan="2"> </td>
+</tr>
+</tbody>
+</table>
+
+Curso: 4.º
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_redonda">Formación militar</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo</th>
+<th class="cabeza_tabla">Materia</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">Semanas</th>
+<th class="cabeza_tabla">Asignatura</th>
+<th class="cabeza_tabla">Breve descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">INSTRUCCIÓN Y ADIESTRAMIENTO.</td>
+<td class="cuerpo_tabla_izq">Instrucción y adiestramiento.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">9 semanas</td>
+<td class="cuerpo_tabla_izq">Instrucción y adiestramiento IV.</td>
+<td class="cuerpo_tabla_izq">Ejercicios y prácticas integradas. Orden cerrado.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Formación física.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3 semanas</td>
+<td class="cuerpo_tabla_izq">Formación física IV.</td>
+<td class="cuerpo_tabla_izq">Formación física. Defensa personal policial.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq" colspan="2"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_redonda">Formación en Grado en Ciencias de la Seguridad Pública</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo</th>
+<th class="cabeza_tabla">Materia</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">Asignatura</th>
+<th class="cabeza_tabla">Breve descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">CIENTÍFICO TECNOLÓGICO.</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad II.</td>
+<td class="cuerpo_tabla_izq">Introducción a la ciberseguridad. Mecanismos y protocolos criptográficos. Autenticación. Control de accesos. Seguridad en redes. Seguridad en el s oftware. Vulnerabilidades. Malware. Regulación en privacidad y ciberseguridad.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Digitalización.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Digitalización II.</td>
+<td class="cuerpo_tabla_izq">Introducción a la inteligencia artificial y Bigdata, Aprendizaje automático (Aprendizaje supervisado, No supervisado), Clasificación, Regresión y Clustering. Series temporales.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">TÉCNICO- PROFESIONAL.</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Procedimientos aplicados a la seguridad pública.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Seguridad Ciudadana II.</td>
+<td class="cuerpo_tabla_izq">Seguridad vial. Armas y Explosivos. Actuación operativa. Prevención delincuencia.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Fiscal y Fronteras.</td>
+<td class="cuerpo_tabla_izq">Sistema fiscal europeo y español. Organismos intervinientes. Fraude fiscal. Contrabando. Blanqueo de capitales. Resguardo fiscal. Sistema de fronteras en la Unión Europea. Schengen. Inmigración irregular.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Especialidades en la Guardia Civil.</td>
+<td class="cuerpo_tabla_izq">La especialización de las funciones policiales en el ámbito nacional e internacional y su aplicación en la Guardia Civil.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">Recursos Humanos.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Estatuto de la Guardia Civil y Gestión de los RRHH II.</td>
+<td class="cuerpo_tabla_izq">Régimen de Personal: Régimen profesional y derecho disciplinario.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Estatuto de la Guardia Civil y Gestión de los RRHH III.</td>
+<td class="cuerpo_tabla_izq">Prevención de Riesgos Laborales. Calidad. Conciliación.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Recursos materiales y financieros.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Gestión de recursos materiales y financieros en la Guardia Civil.</td>
+<td class="cuerpo_tabla_izq">Modalidades de gestión de recursos materiales y financieros. Tendencias e innovación y su aplicación en la Guardia Civil.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">TRABAJO FIN DE GRADO.</td>
+<td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+<td class="cuerpo_tabla_izq">Desarrollo y defensa pública de un Trabajo Fin de Grado sobre materias de seguridad pública de nivel nacional e internacional aplicando metodología académica de acuerdo a las Directrices del Trabajo Fin de Grado aprobadas anualmente en la Comisión de Investigación CUGC-UC3M.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">CIENCIAS SOCIALES Y JURÍDICAS.</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Ciencias jurídicas.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Derecho Administrativo.</td>
+<td class="cuerpo_tabla_izq">El Derecho administrativo. La Administración Pública. El régimen jurídico de las Administraciones públicas. El procedimiento administrativo. Actos administrativos. Control de la actuación administrativa. El reglamento. La autotutela administrativa. El interés general. La expropiación forzosa. La potestad sancionadora de las Administraciones Públicas. La responsabilidad patrimonial de las Administraciones Públicas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Derecho Procesal Penal.</td>
+<td class="cuerpo_tabla_izq">Ordenamiento procesal español. Sistema judicial español. Procesos penales ordinarios y especiales. Presupuestos y objeto del proceso penal.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Organización y Geopolítica.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Administración pública de la seguridad.</td>
+<td class="cuerpo_tabla_izq">Organización constitucional y territorial del Estado. Organización del Ministerio del Interior, Secretaría de Estado de Seguridad y Guardia Civil. Organización de las Fuerzas Armadas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">FORMACIÓN EN LENGUA INGLESA.</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa IV.</td>
+<td class="cuerpo_tabla_izq">Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+Curso: 5.º
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_redonda">Formación militar</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo</th>
+<th class="cabeza_tabla">Materia</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">Semanas</th>
+<th class="cabeza_tabla">Asignatura</th>
+<th class="cabeza_tabla">Breve descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">INSTRUCCIÓN Y ADIESTRAMIENTO.</td>
+<td class="cuerpo_tabla_izq">Instrucción y Adiestramiento.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">9 semanas</td>
+<td class="cuerpo_tabla_izq">Instrucción y adiestramiento V.</td>
+<td class="cuerpo_tabla_izq">Ejercicios y prácticas integradas. Orden cerrado.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Formación Física.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3 semanas</td>
+<td class="cuerpo_tabla_izq">Formación física V.</td>
+<td class="cuerpo_tabla_izq">Formación física. Defensa personal policial.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq" colspan="2"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_redonda">Formación de Cuerpo de Seguridad</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo</th>
+<th class="cabeza_tabla">Materia</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">Asignatura</th>
+<th class="cabeza_tabla">Breve descripción.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">TÉCNICAS DE MANDO.</td>
+<td class="cuerpo_tabla_izq">Liderazgo.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Técnicas de Mando.</td>
+<td class="cuerpo_tabla_izq">Técnicas avanzadas de mando y resolución de conflictos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="9">
+<p class="cuerpo_tabla_izq">TÉCNICO-PROFESIONAL.</p>
+</td>
+<td class="cuerpo_tabla_izq">Procedimientos aplicados a la seguridad pública.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Dirección de Unidades de la Guardia Civil.</td>
+<td class="cuerpo_tabla_izq">Servicio en puertos, aeropuertos, centros penitenciarios y conducción de detenidos, presos y penados. Protección de personas y bienes. El ejercicio del Mando en las Unidades de la Guardia Civil. Planeamiento operativo. Planificación y dirección de los distintos tipos de servicios.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">Procedimientos Operativos.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Inteligencia Policial.</td>
+<td class="cuerpo_tabla_izq">Aplicación de la inteligencia a la acción policial. Ciclo de Inteligencia Metodología, técnicas y procedimientos Materias clasificadas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Amenazas.</td>
+<td class="cuerpo_tabla_izq">Teoría general de la amenaza del terrorismo y lucha contra el terrorismo. Amenazas terroristas contra España y contra la comunidad internacional. El SIGC.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Cooperación Policial.</td>
+<td class="cuerpo_tabla_izq">Instrumentos de cooperación policial y judicial de la Unión Europea. Otros ámbitos de cooperación policial. Participación de la Guardia Civil en esta materia.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Policía Judicial I.</td>
+<td class="cuerpo_tabla_izq">Policía Judicial. Incluye los cursos de Medicina Legal y de Policía Judicial.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Policía Judicial II. Investigación de delitos. Delincuencia organizada y Cibercrimen.</td>
+<td class="cuerpo_tabla_izq">Investigación de delitos. Delincuencia organizada y Cibercrimen.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Sistema de Seguridad Nacional y Gestión de Crisis.</td>
+<td class="cuerpo_tabla_izq">Defensa y seguridad nacional. Gestión de crisis nacional e internacional. La Guardia Civil en misiones internacionales. Sistema nacional de protección civil. Gestión civil de crisis.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Prácticas externas.</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Trabajo Fin de Estudios.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Trabajo Fin de Estudios.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">CIENCIAS SOCIALES Y JURÍDICAS.</td>
+<td class="cuerpo_tabla_izq">Organización y Geopolítica.</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_izq">Geopolítica.</td>
+<td class="cuerpo_tabla_izq">Actualidad nacional e internacional (Mundo Actual). Orígenes, evolución y características del orden mundial actual. Análisis de regiones geopolíticas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">Psicología.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Psicología Criminal.</td>
+<td class="cuerpo_tabla_izq">Psicología criminal. Patrones y procesos delictivos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Psicología Social y de las Organizaciones.</td>
+<td class="cuerpo_tabla_izq">Psicología social y de las organizaciones.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_der"> </td>
+</tr>
+</tbody>
+</table>
+
+> Ref. BOE-A-2024-19389
+
+## ANEXO II — Currículo de los alumnos que hubieran ingresado por promoción profesional, mediante la modalidad de cambio de escala
+
+A continuación se relacionan, por cursos y módulos, las materias de enseñanza que, distribuidas por asignaturas, componen el currículo de los alumnos que hubieran ingresado por promoción profesional, mediante la modalidad de cambio de escala:
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="6">Curso: 1º</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="6">FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">MÓDULO</th>
+<th class="cabeza_tabla">MATERIA</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">SEMANAS</th>
+<th class="cabeza_tabla">ASIGNATURA</th>
+<th class="cabeza_tabla">BREVE DESCRIPCIÓN</th>
+</tr>
+</thead>
+<tbody>
+<tr> </tr>
+<tr data-partir-fila="true">
+<td class="cuerpo_tabla_izq" rowspan="16">Formación de Cuerpo de Seguridad.</td>
+<td class="cuerpo_tabla_izq">Estadística.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Análisis estadístico del delito.</td>
+<td class="cuerpo_tabla_izq">Introducción a la probabilidad y la estadística: concepto de probabilidad y reglas básicas, distribuciones, estadística descriptiva para una y varias variables. Introducción a la inferencia estadística: intervalos de confianza y contrastes de hipótesis para la media y la varianza; comparaciones de medias entre dos poblaciones. Relaciones entre variables: introducción a los modelos lineales, estimación de parámetros del modelo e inferencia sobre dichos parámetros. Aplicaciones a la gestión de la seguridad y a la criminología.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="7">Ciencias Sociales y Jurídicas.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Derechos fundamentales y seguridad.</td>
+<td class="cuerpo_tabla_izq">Derechos fundamentales y seguridad en la Constitución Española de 1978. Las garantías de los derechos fundamentales. Suspensión de derechos. Análisis de ciertos derechos fundamentales con particular proyección sobre el orden público: Igualdad; Derechos de la esfera personal; Derechos de libertad personal y movilidad; Libertades públicas de reunión y asociación; Derechos de ámbito laboral.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Derecho Penal I.</td>
+<td class="cuerpo_tabla_izq">Introducción al Derecho Penal. Teoría jurídica del delito. Teoría jurídica de la pena y de las medidas de seguridad. Responsabilidad penal y civil. Casos prácticos y análisis jurisprudencial. Prácticas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Derecho Penal II.</td>
+<td class="cuerpo_tabla_izq">Delitos contra las personas. Delitos contra el patrimonio y el orden socioeconómico. Delitos contra la colectividad y de los funcionarios. Nuevas formas de delincuencia. Casos prácticos y análisis jurisprudencial. Prácticas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Derecho Administrativo I.</td>
+<td class="cuerpo_tabla_izq">El Derecho administrativo. La Administración Pública. El régimen jurídico de las Administraciones públicas. El procedimiento administrativo. Actos Administrativos. Control de la actuación administrativa Pública. El principio de legalidad en la actuación de las Administraciones Públicas. El reglamento. La autotutela administrativa. Aproximación al interés general y su composición con los derechos e intereses de los particulares.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Derecho Administrativo II.</td>
+<td class="cuerpo_tabla_izq">La expropiación forzosa. La potestad sancionadora de las Administraciones Públicas. La responsabilidad patrimonial de las Administraciones Públicas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Cooperación policial internacional.</td>
+<td class="cuerpo_tabla_izq">La sociedad internacional y su ordenamiento jurídico. Aplicación del derecho internacional. El derecho de los conflictos armados y las organizaciones internacionales. Cooperación de interés policial a nivel internacional. Instrumento de cooperación policial internacional. Instituciones internacionales y cooperación en la Unión Europea.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Deontología profesional.</td>
+<td class="cuerpo_tabla_izq">Código de Conducta y reglas de comportamiento del Oficial de la Guardia Civil.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="7">Técnica Profesional e Investigación.</td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Policía Judicial I.</td>
+<td class="cuerpo_tabla_izq">La Policía Judicial en el proceso penal. Normas de organización y empleo de Unidades de Policía Judicial.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Sistemas de gestión y documentación I.</td>
+<td class="cuerpo_tabla_izq">Iniciación en los sistemas informáticos de gestión de la Guardia Civil.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Dirección y gestión de Unidades de la GC I.</td>
+<td class="cuerpo_tabla_izq">Prevención de delincuencia. Servicio en puertos, aeropuertos, centros penitenciarios y conducción de detenidos, presos y penados. Protección de personas y bienes. Control de masas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Fiscal, fronteras e inmigración.</td>
+<td class="cuerpo_tabla_izq">Fraude fiscal. Contrabando. Blanqueo de capitales. Resguardo fiscal. Fronteras UE. Schengen. Inmigración irregular.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Riesgos y amenazas globales a la seguridad nacional e internacional.</td>
+<td class="cuerpo_tabla_izq">Concepto de seguridad y estrategia. Desafíos, riesgos y amenazas que pueden afectar a la estabilidad, en el ámbito de las organizaciones de seguridad y defensa. Estrategias de seguridad de países y organizaciones. Líneas de acción. Teoría general de la amenaza del terrorismo y lucha contra el terrorismo. Amenazas terroristas contra España y contra la comunidad internacional. El SIGC.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Ciencias forenses I.</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la obtención de datos y vestigios. Conceptos básicos de la Biomedicina. Identificación de personas: Sistemas de investigación, muestras biológicas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la investigación I.</td>
+<td class="cuerpo_tabla_izq">Necesidades de captura de datos en el entorno de la seguridad. Sistemas de captura de imágenes estáticas, dinámicas y otros dispositivos. Aplicaciones en el ámbito de la seguridad.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Seguridad Informática.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Gestión de Seguridad Pública de la Información.</td>
+<td class="cuerpo_tabla_izq">La Organización y su sistema de información. Normalización, homologación, evaluación, certificación y acreditación. Marco legal. Organismos internacionales y nacionales. El Plan integral de seguridad de los sistemas de información. Clasificación de la información.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Formación en Lengua Inglesa.</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa I.</td>
+<td class="cuerpo_tabla_izq">Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Aspectos prácticos del uso de la lengua inglesa en el entorno profesional. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">Instrucción y Adiestramiento.</td>
+<td class="cuerpo_tabla_izq">Instrucción y Adiestramiento.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6,5 semanas</td>
+<td class="cuerpo_tabla_izq">Instrucción y adiestramiento I.</td>
+<td class="cuerpo_tabla_izq">Ejercicios y prácticas integradas. Orden Cerrado.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Formación Física.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2,5 semanas</td>
+<td class="cuerpo_tabla_izq">Formación física I.</td>
+<td class="cuerpo_tabla_izq">Formación física. Defensa personal policial.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">
+<strong> Totales.</strong>
+</td>
+<td class="cuerpo_tabla_centro">
+<strong>71</strong>
+</td>
+<td class="cuerpo_tabla_centro">
+<strong>9</strong>
+</td>
+<td class="cuerpo_tabla_izq" colspan="2"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="6">Curso: 2º</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="6">FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">MÓDULO</th>
+<th class="cabeza_tabla">MATERIA</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">SEMANAS</th>
+<th class="cabeza_tabla">ASIGNATURA</th>
+<th class="cabeza_tabla">BREVE DESCRIPCIÓN</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="16">
+<strong>FORMACIÓN DE CUERPO DE SEGURIDAD </strong>
+</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Ciencias sociales y jurídicas.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Derecho Procesal Penal.</td>
+<td class="cuerpo_tabla_izq">Aproximación al proceso penal: fines y características. La jurisdicción y competencia en materia penal. Las partes en el proceso penal. El objeto del proceso penal. La instrucción. Las medidas cautelares y de protección. La fase intermedia. El juicio oral. Finalización del juicio y cosa juzgada. Los recursos. La rescisión de sentencias firmes. Los diferentes procesos de enjuiciamiento. La ejecución penal.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Derecho Administrativo de la Seguridad.</td>
+<td class="cuerpo_tabla_izq">Concepto de seguridad ciudadana y Orden público. Sistema organizativo; distribución de competencias. Principios básicos de la actuación policial. Instituciones fundamentales del Derecho de la Seguridad y el Orden Público. La intimidad personal y el derecho a la protección de datos; video vigilancia. Seguridad privada.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Dirección y liderazgo.</td>
+<td class="cuerpo_tabla_izq">El ciclo directivo. Planificación estratégica. Fundamentos del ejercicio del liderazgo. El individuo y el grupo. Estilos de dirección. Habilidades directivas en la Guardia Civil: Inteligencia emocional; Comunicación; Motivación. Herramientas para el desarrollo de habilidades de liderazgo y toma de decisiones. Gestión del tiempo y de conocimiento. Estrés. Conflicto, cambio y aspectos multiculturales. Técnicas de Negociación y manejo de reuniones.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="10">Técnica profesional e investigación.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad I.</td>
+<td class="cuerpo_tabla_izq">Función Pública. Régimen de personal y normas de desarrollo. Derechos y deberes. Prevención de riesgos laborales en la Guardia Civil.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad II.</td>
+<td class="cuerpo_tabla_izq">Estudio y prácticas avanzadas sobre régimen disciplinario. Normativa penal y procesal militar.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Sistemas de gestión y documentación II.</td>
+<td class="cuerpo_tabla_izq">Estudio y prácticas avanzadas de los sistemas informáticos de gestión de la Guardia Civil. Gestión de documentación.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Dirección y gestión de Unidades de la Guardia Civil II.</td>
+<td>
+<p class="cuerpo_tabla_izq">El ejercicio del Mando en las Unidades de la Guardia Civil. Planeamiento operativo.</p>
+<p class="cuerpo_tabla_izq">Planificación y dirección del servicio. Sistemas de gestión de calidad. Aplicación a las Fuerzas y Cuerpos de Seguridad. Certificación.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Inteligencia policial.</td>
+<td class="cuerpo_tabla_izq">Aplicación de la inteligencia a la acción policial. Ciclo de inteligencia metodología, técnicas y procedimientos. Materias clasificadas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Ciencias forenses II.</td>
+<td>
+<p class="cuerpo_tabla_izq">Tecnologías aplicadas a la obtención de datos y vestigios. Identificación de documentos y objetos. Balística y trazas instrumentales. Infografía forense. Metodología y Procedimientos basados en sistemas de calidad. Inteligencia científica.</p>
+<p class="cuerpo_tabla_izq">Pericias. Acústica forense.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Policía Judicial II.</td>
+<td class="cuerpo_tabla_izq">Curso de Policía Judicial. Curso de Medicina Legal.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Policía Judicial III.</td>
+<td class="cuerpo_tabla_izq">Práctica de diligencias policiales.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la investigación II.</td>
+<td class="cuerpo_tabla_izq">Introducción a las bases de datos y sistemas de gestión de bases de datos. Modelo de datos relacional. Lenguaje de datos SQL: definición y manipulación. Diseño de BD en el modelo Relacional. Minería de datos y gestión del conocimiento. Técnicas de clasificación y agrupamiento de datos. Algunos dominios de aplicación de minería de datos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Situaciones de emergencia en el ámbito de la seguridad.</td>
+<td class="cuerpo_tabla_izq">Defensa y seguridad nacional. Resolución de conflictos y situaciones de emergencia. Estados de emergencia, alarma, excepción y sitio. Gestión de crisis nacional e internacional. Misiones civiles y militares de las Fuerzas y Cuerpos de Seguridad en el ámbito internacional. La Guardia civil en misiones internacionales. Sistema nacional de protección civil. Gestión civil de crisis.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Seguridad informática.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Vulnerabilidades, amenazas y protocolos de seguridad informática.</td>
+<td class="cuerpo_tabla_izq">Protocolos básicos de interconexión de sistemas. Situación de la seguridad de los sistemas y productos informáticos. Vulnerabilidades intrínsecas y extrínsecas. Análisis y clasificación de los ataques informáticos. Valoración de sus consecuencias. Medidas y servicios de seguridad. Mecanismos y protocolos de seguridad. Ataques específicos a los mismos. Sistemas de autenticación de varios factores y basados en infraestructuras de clave pública. Protocolos IP y TCP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">Seguridad física.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Gestión de la seguridad física.</td>
+<td class="cuerpo_tabla_izq">Identificación de amenazas potenciales para las personas. Vulnerabilidades. Elementos de seguridad físicos. Dispositivos electrónicos para la seguridad física. Planificación de instalaciones de seguridad en infraestructuras. Integración de sistemas de protección física. Planes de seguridad física. Centralización sistemas de control y vigilancia. Diagnóstico de protección física.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Tecnologías para seguridad física.</td>
+<td class="cuerpo_tabla_izq">Tecnologías de protección integral para personas e infraestructuras. Análisis de protecciones personales destinadas a la seguridad. Principios básicos del comportamiento dinámico de los materiales destinados a las protecciones. Conceptos básicos de balística y explosión así como las principales metodologías y protocolos de ensayo y fabricación de dichas protecciones personales. Protecciones de vehículos e infraestructuras. Tecnologías electrónicas y de comunicación (sistemas de detección, sistemas de control de accesos, vigilancia, comunicación y transmisión).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<strong>FORMACIÓN EN LENGUA INGLESA</strong>
+</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa II.</td>
+<td class="cuerpo_tabla_izq">Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional. Prácticas avanzadas de uso de la lengua en entornos profesionales específicos (grupos de trabajo, cooperación policial).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">
+<strong>INSTRUCCIÓN Y ADIESTRAMIENTO </strong>
+</td>
+<td class="cuerpo_tabla_izq">Instrucción y adiestramiento.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6,5 semanas</td>
+<td class="cuerpo_tabla_izq">Instrucción y adiestramiento II</td>
+<td class="cuerpo_tabla_izq">Ejercicios y prácticas integradas. Orden cerrado.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Formación física.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2,5 semanas</td>
+<td class="cuerpo_tabla_izq">Formación física II.</td>
+<td class="cuerpo_tabla_izq">Formación física. Defensa personal policial.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der" colspan="2">
+<strong>TOTALES </strong>
+</td>
+<td class="cuerpo_tabla_centro">
+<strong>69 </strong>
+</td>
+<td class="cuerpo_tabla_centro">
+<strong>9 </strong>
+</td>
+<td class="cuerpo_tabla_izq" colspan="2"> </td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica el curso 1º por la disposición final 3.3 de la Orden PJC/849/2024, de 8 de agosto. [Ref. BOE-A-2024-16600](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-16600)
+
+## ANEXO III — Currículo de los alumnos que hubieran ingresado por promoción profesional, mediante la modalidad promoción interna
+
+A continuación se relacionan, por cursos y módulos, las materias de enseñanza que, distribuidas por asignaturas, componen el currículo de los alumnos que hubieran ingresado por promoción profesional, mediante la modalidad de promoción interna:
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="6">Curso: 1º</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="6">FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">MÓDULO</th>
+<th class="cabeza_tabla">MATERIA</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">SEMANAS</th>
+<th class="cabeza_tabla">ASIGNATURA</th>
+<th class="cabeza_tabla">BREVE DESCRIPCIÓN</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">Formación de Cuerpo de Seguridad.</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Técnica profesional e investigación.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Fiscal, fronteras e inmigración.</td>
+<td class="cuerpo_tabla_izq">Fraude fiscal. Contrabando. Blanqueo de capitales. Resguardo fiscal. Fronteras Unión Europea. Schengen. Inmigración irregular.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Inteligencia Policial.</td>
+<td class="cuerpo_tabla_izq">Aplicación de la inteligencia a la acción policial. Ciclo de inteligencia metodología, técnicas y procedimientos. Materias clasificadas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Sistemas de gestión y documentación.</td>
+<td class="cuerpo_tabla_izq">Estudio y prácticas avanzadas de los sistemas informáticos de gestión de la Guardia Civil. Gestión de documentación.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Policía Judicial I.</td>
+<td class="cuerpo_tabla_izq">La Policía Judicial en el proceso penal. Normas de organización y empleo de Unidades de Policía Judicial.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Deontología profesional.</td>
+<td class="cuerpo_tabla_izq">Código de Conducta y reglas de comportamiento del Oficial de la Guardia Civil.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Formación en Lengua Inglesa.</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa I.</td>
+<td class="cuerpo_tabla_izq">Contenidos específicos adecuados al nivel B1 del marco europeo de referencia. Aspectos prácticos del uso de la lengua inglesa en el entorno profesional. Práctica de las habilidades comunicativas correspondientes a los niveles B1 y STANAG 6001 nivel funcional.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">Instrucción y Adiestramiento.</td>
+<td class="cuerpo_tabla_izq">Instrucción y adiestramiento.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6,5 semanas</td>
+<td class="cuerpo_tabla_izq">Instrucción y adiestramiento I.</td>
+<td class="cuerpo_tabla_izq">Ejercicios y prácticas integradas. Orden cerrado.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Formación física.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2,5 semanas</td>
+<td class="cuerpo_tabla_izq">Formación física I.</td>
+<td class="cuerpo_tabla_izq">Formación física. Defensa personal policial.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">
+<strong> Totales.</strong>
+</td>
+<td class="cuerpo_tabla_centro">
+<strong>14</strong>
+</td>
+<td class="cuerpo_tabla_centro">
+<strong>9</strong>
+</td>
+<td class="cuerpo_tabla_izq" colspan="2"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="6">Curso: 2º</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="6">FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">MÓDULO</th>
+<th class="cabeza_tabla">MATERIA</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">SEMANAS</th>
+<th class="cabeza_tabla">ASIGNATURA</th>
+<th class="cabeza_tabla">BREVE DESCRIPCIÓN</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="4">
+<strong>FORMACIÓN DE CUERPO DE SEGURIDAD </strong>
+</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Técnica profesional e investigación.</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Dirección y gestión de Unidades de la Guardia Civil.</td>
+<td>
+<p class="cuerpo_tabla_izq">El ejercicio del Mando en las Unidades de la Guardia Civil. Planeamiento operativo. Planificación y dirección del servicio. Sistemas de gestión de calidad. Aplicación a las Fuerzas y Cuerpos de Seguridad.</p>
+<p class="cuerpo_tabla_izq">Certificación.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Policía Judicial II.</td>
+<td class="cuerpo_tabla_izq">Curso de Policía Judicial. Curso de Medicina Legal.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Policía Judicial III.</td>
+<td class="cuerpo_tabla_izq">Práctica de diligencias policiales.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad II.</td>
+<td class="cuerpo_tabla_izq">Estudio y prácticas avanzadas sobre Régimen disciplinario. Normativa penal y procesal militar.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">
+<strong>INSTRUCCIÓN Y ADIESTRAMIENTO </strong>
+</td>
+<td class="cuerpo_tabla_izq">Instrucción y adiestramiento.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6,5 semanas</td>
+<td class="cuerpo_tabla_izq">Instrucción y adiestramiento II.</td>
+<td class="cuerpo_tabla_izq">Ejercicios y prácticas integradas. Orden cerrado.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Formación física.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2,5 semanas</td>
+<td class="cuerpo_tabla_izq">Formación física II.</td>
+<td class="cuerpo_tabla_izq">Formación física. Defensa personal policial.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der" colspan="2">
+<strong>TOTALES </strong>
+</td>
+<td class="cuerpo_tabla_centro">
+<strong>14 </strong>
+</td>
+<td class="cuerpo_tabla_centro">
+<strong>9 </strong>
+</td>
+<td class="cuerpo_tabla_izq" colspan="2"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="5">GRADO EN GESTIÓN DE SEGURIDAD PÚBLICA</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">MÓDULO</th>
+<th class="cabeza_tabla">MATERIA</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">ASIGNATURA</th>
+<th class="cabeza_tabla">BREVE DESCRIPCIÓN</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">
+<strong>FUNDAMENTOS JURÍDICOS </strong>
+</td>
+<td class="cuerpo_tabla_izq">Derecho Penal y Procesal Penal.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Derecho Procesal Penal.</td>
+<td class="cuerpo_tabla_izq">Aproximación al proceso penal: fines y características. La jurisdicción y competencia en materia penal. Las partes en el proceso penal. El objeto del proceso penal. La instrucción. Las medidas cautelares y de protección. La fase intermedia. El juicio oral. Finalización del juicio y cosa juzgada. Los recursos. La rescisión de sentencias firmes. Los diferentes procesos de enjuiciamiento. La ejecución penal.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Derecho de la Seguridad.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Derecho Administrativo de la Seguridad.</td>
+<td class="cuerpo_tabla_izq">Concepto de Seguridad ciudadana y orden público. Sistema organizativo; distribución de competencias. Principios básicos de la actuación policial. Instituciones fundamentales del Derecho de la Seguridad y el Orden Público. La intimidad personal y el derecho a la protección de datos; video vigilancia. Seguridad privada.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="4">
+<strong>ORGANIZACIÓN Y PREVENCIÓN </strong>
+</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Servicios de seguridad.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad I.</td>
+<td class="cuerpo_tabla_izq">Función pública. Régimen de Personal y normas de desarrollo. Derechos y deberes. Prevención de riesgos laborales en la Guardia Civil.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Dirección y liderazgo.</td>
+<td class="cuerpo_tabla_izq">El ciclo directivo. Planificación estratégica. Fundamentos del ejercicio del liderazgo. El individuo y el grupo. Estilos de dirección. Habilidades directivas en la Guardia Civil: Inteligencia emocional; Comunicación; Motivación. Herramientas para el desarrollo de habilidades de liderazgo y toma de decisiones. Gestión del tiempo y de conocimiento. Estrés. Conflicto, cambio y aspectos multiculturales. Técnicas de negociación y manejo de reuniones.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">Prevención y metodología de actuación policial.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Gestión de la seguridad física.</td>
+<td>
+<p class="cuerpo_tabla_izq">Identificación de amenazas potenciales para las personas. Vulnerabilidades. Elementos de seguridad físicos. Dispositivos electrónicos para la seguridad física. Planificación de instalaciones de seguridad en infraestructuras. Integración de sistemas de protección física. Planes de seguridad física.</p>
+<p class="cuerpo_tabla_izq">Centralización sistemas de control y vigilancia. Diagnóstico de protección física.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Situaciones de emergencia en el ámbito de la seguridad.</td>
+<td class="cuerpo_tabla_izq">Defensa y seguridad nacional. Resolución de conflictos y situaciones de emergencia. Estados de emergencia, alarma, excepción y sitio. Gestión de crisis nacional e internacional. Misiones civiles y militares de las Fuerzas y Cuerpos de Seguridad en el ámbito internacional. La Guardia Civil en misiones internacionales. Sistema nacional de protección civil. Gestión civil de crisis.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="4">
+<strong>INVESTIGACIÓN Y TECNOLOGÍA</strong>
+</td>
+<td class="cuerpo_tabla_izq">Investigación y Ciencias Forenses.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Ciencias Forenses II.</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la obtención de datos y vestigios. Identificación de documentos y objetos. Balística y trazas instrumentales. Infografía forense. Metodología y Procedimientos basados en sistemas de calidad. Inteligencia científica. Pericias. Acústica forense.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Tecnologías aplicadas a la investigación.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la investigación II.</td>
+<td class="cuerpo_tabla_izq">Introducción a las bases de datos y sistemas de gestión de bases de datos. Modelo de datos relacional. Lenguaje de datos SQL: definición y manipulación. Diseño de BD en el modelo Relacional. Minería de datos y gestión del conocimiento. Técnicas de clasificación y agrupamiento de datos. Algunos dominios de aplicación de minería de datos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Tecnologías para la seguridad física.</td>
+<td class="cuerpo_tabla_izq">Tecnologías de protección integral para personas e infraestructuras. Análisis de protecciones personales destinadas a la seguridad. Principios básicos del comportamiento dinámico de los materiales destinados a las protecciones. Conceptos básicos de balística y explosión así como las principales metodologías y protocolos de ensayo y fabricación de dichas protecciones personales. Protecciones de vehículos e infraestructuras. Tecnologías electrónicas y de comunicación (sistemas de detección, sistemas de control de accesos, vigilancia, comunicación y transmisión).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Vulnerabilidades amenazas y protocolos de seguridad informáticos.</td>
+<td class="cuerpo_tabla_izq">Protocolos básicos de interconexión de sistemas. Situación de la seguridad de los sistemas y productos informáticos. Vulnerabilidades intrínsecas y extrínsecas. Análisis y clasificación de los ataques informáticos. Valoración de sus consecuencias. Medidas y servicios de seguridad. Mecanismos y protocolos de seguridad. Ataques específicos a los mismos. Sistemas de autenticación de varios factores y basados en infraestructuras de clave pública. Protocolos IP y TCP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<strong>TRABAJO FIN DE GRADO </strong>
+</td>
+<td class="cuerpo_tabla_izq">Trabajo fin de Grado.</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq">Trabajo fin de Grado.</td>
+<td class="cuerpo_tabla_izq">Trabajo original a presentar y defender ante un tribunal universitario, consistente en un proyecto integral del ámbito de la seguridad, de naturaleza profesional, en el que se sinteticen las competencias adquiridas en las enseñanzas, o en un trabajo de carácter innovador de desarrollo de una idea, un prototipo, o el modelo de un equipo o sistema, en alguno de los ámbitos de competencia de la seguridad.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<strong>INTRODUCTORIO </strong>
+</td>
+<td class="cuerpo_tabla_izq">Idiomas.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa III.</td>
+<td class="cuerpo_tabla_izq">Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional. Prácticas avanzadas de uso de la lengua en entornos profesionales específicos (grupos de trabajo, cooperación policial).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der" colspan="2">
+<strong>TOTALES </strong>
+</td>
+<td class="cuerpo_tabla_centro">
+<strong>60 </strong>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica el curso 1º por la disposición final 3.4 de la Orden PJC/849/2024, de 8 de agosto. [Ref. BOE-A-2024-16600](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-16600)
+
+## ANEXO IV — Materias y asignaturas susceptibles de ser impartidas en la modalidad a distancia
+
+A continuación se relacionan las materias y asignaturas susceptibles de ser impartidas en la modalidad a distancia, con indicación del carácter total (T) o parcial (P), según lo dispuesto en el artículo 13:
+
+a) Acceso por ingreso directo sin titulación universitaria previa:
+
+El carácter total (T) o parcial (P) de las asignaturas impartidas en los cursos 1.º y 2.º será el establecido para las correspondientes asignaturas contenidas en el currículo de la enseñanza de formación de oficiales para la integración en el Cuerpo General del Ejército de Tierra mediante las formas de ingreso sin titulación previa, aprobado por Orden DEF/287/2024, de 18 de marzo.
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_cursiva">Curso: 3.º</p>
+</caption>
+<colgroup>
+<col width="27%">
+<col width="27%">
+<col width="10%">
+<col width="28%">
+<col width="8%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo</th>
+<th class="cabeza_tabla">Materia</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">Asignatura</th>
+<th class="cabeza_tabla">Carácter</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">TÉCNICAS DE MANDO.</td>
+<td class="cuerpo_tabla_izq">Liderazgo.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Liderazgo III.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">CIENTÍFICO-TECNOLÓGICO.</td>
+<td class="cuerpo_tabla_izq">Criminalística.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Ciencias Forenses.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Estadística.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Análisis Estadístico del Delito.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad I.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Digitalización.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Digitalización I.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Telecomunicaciones.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Teoría de las Telecomunicaciones aplicada a la Seguridad.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">CIENCIAS SOCIALES Y JURÍDICAS.</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Ciencias jurídicas.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Derecho Penal I.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Derecho Penal II.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">TÉCNICO-PROFESIONAL.</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Procedimientos aplicados a la Seguridad Pública.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Seguridad Ciudadana I.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Sistemas de Gestión y Documentación en la Guardia Civil.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Recursos humanos.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Estatuto de la Guardia Civil y Gestión de los RRHH I.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">CIENCIAS HUMANÍSTICAS.</td>
+<td class="cuerpo_tabla_izq">Humanidades.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Historia de la Guardia Civil y Deontología Profesional.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">FORMACIÓN EN LENGUA INGLESA.</td>
+<td class="cuerpo_tabla_izq">Lengua inglesa.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa III.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_cursiva">Curso: 4.º</p>
+</caption>
+<colgroup>
+<col width="27%">
+<col width="27%">
+<col width="10%">
+<col width="28%">
+<col width="8%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo</th>
+<th class="cabeza_tabla">Materia</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">Asignatura</th>
+<th class="cabeza_tabla">Carácter</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">CIENTÍFICO-TECNOLÓGICO.</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad II.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Digitalización.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Digitalización II.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">CIENCIAS SOCIALES Y JURÍDICAS.</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Ciencias jurídicas.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Derecho Administrativo.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Derecho Procesal Penal.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Instituciones y Regímenes Internacionales.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Organización y Geopolítica.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Administración pública de la Seguridad.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">TÉCNICO-PROFESIONAL.</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Procedimientos aplicados a la Seguridad Pública.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Seguridad Ciudadana II.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Fiscal y Fronteras.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Especialidades en la Guardia Civil.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">Recursos humanos.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Estatuto de la Guardia Civil y Gestión de los RRHH II.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Estatuto de la Guardia Civil y Gestión de los RRHH III.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Recursos materiales y financieros.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Gestión de recursos materiales y financieros en la Guardia Civil.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">TRABAJO FIN DE GRADO.</td>
+<td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">FORMACIÓN EN LENGUA INGLESA.</td>
+<td class="cuerpo_tabla_izq">Lengua inglesa.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa IV.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_cursiva">Curso: 5.º</p>
+</caption>
+<colgroup>
+<col width="27%">
+<col width="27%">
+<col width="10%">
+<col width="28%">
+<col width="8%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo</th>
+<th class="cabeza_tabla">Materia</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">Asignatura</th>
+<th class="cabeza_tabla">Carácter</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">TÉCNICAS DE MANDO.</td>
+<td class="cuerpo_tabla_izq">Liderazgo.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Técnicas de Mando.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">CIENCIAS SOCIALES Y JURÍDICAS.</td>
+<td class="cuerpo_tabla_izq">Organización y Geopolítica.</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_izq">Geopolítica.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">Psicología.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Psicología Criminal.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Psicología social y de las Organizaciones.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="9">TÉCNICO-PROFESIONAL.</td>
+<td class="cuerpo_tabla_izq">Procedimientos aplicados a la Seguridad Pública.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Dirección de Unidades de la Guardia Civil.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">Procedimientos Operativos.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Inteligencia Policial.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Amenazas.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Cooperación Policial.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Policía Judicial I.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Policía Judicial II. Investigación de delitos. Delincuencia organizada y Cibercrimen.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Sistema de Seguridad Nacional y Gestión de Crisis.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Prácticas Externas.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Trabajo Fin de Estudios.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Trabajo Fin de Estudios.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+</tbody>
+</table>
+
+b) Acceso por promoción profesional en la modalidad de cambio de escala.
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="5">Curso: 1º</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">MÓDULO</th>
+<th class="cabeza_tabla">MATERIA</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">ASIGNATURA</th>
+<th class="cabeza_tabla">CARÁCTER</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="16">Formación de Cuerpo de Seguridad.</td>
+<td class="cuerpo_tabla_izq">Humanidades.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Derechos fundamentales y seguridad.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Estadística.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Análisis estadístico del delito.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">Ciencias jurídicas y sociales.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Derecho Penal I.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Derecho Penal II.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Derecho Administrativo I.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Derecho Administrativo II.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Cooperación policial internacional.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">Deontología profesional.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="7">Técnica profesional e investigación.</td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">Policía Judicial I.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Sistemas de gestión y documentación I.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Dirección y gestión de Unidades de la Guardia Civil I.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Fiscal, fronteras e inmigración.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Riesgos y amenazas globales a la seguridad nacional e internacional.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Ciencias forenses I.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la investigación I.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Seguridad Informática.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Gestión de seguridad pública de la información.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Formación en Lengua Inglesa.</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa I.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="5">Curso: 2º</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">MÓDULO</th>
+<th class="cabeza_tabla">MATERIA</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">ASIGNATURA</th>
+<th class="cabeza_tabla">CARÁCTER</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="16">
+<strong>FORMACIÓN DE CUERPO DE SEGURIDAD </strong>
+</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Ciencias jurídicas y sociales.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Derecho Procesal Penal.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Derecho Administrativo de la Seguridad.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Dirección y liderazgo.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="10">Técnica profesional e investigación.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad I.</td>
+<td class="cuerpo_tabla_centro">p</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad II.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">Sistemas de gestión y documentación II.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Dirección y gestión de Unidades de la Guardia Civil II.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Inteligencia policial.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Ciencias Forenses II.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Policía Judicial II.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Policía Judicial III.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la investigación II.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Situaciones de emergencia en el ámbito de la seguridad.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Seguridad informática.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Vulnerabilidades, amenazas y protocolos de seguridad informática.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">Seguridad física.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Gestión de la seguridad física</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Tecnologías para la seguridad física.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<strong>FORMACIÓN EN LENGUA INGLESA </strong>
+</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa II.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+</tbody>
+</table>
+
+c) Acceso por promoción profesional en la modalidad de promoción interna.
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="5">Curso: 1º</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">MÓDULO</th>
+<th class="cabeza_tabla">MATERIA</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">ASIGNATURA</th>
+<th class="cabeza_tabla">CARÁCTER</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="5">
+<strong>FORMACIÓN DE CUERPO DE SEGURIDAD </strong>
+</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Técnica profesional e investigación.</td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">Sistemas de gestión y documentación.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Fiscal, fronteras e inmigración.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Inteligencia policial.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">Policía Judicial I.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas</td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">Deóntología profesional</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<strong>FORMACIÓN EN LENGUA INGLESA </strong>
+</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa I.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="5">
+<strong>FUNDAMENTOS JURÍDICOS </strong>
+</td>
+<td class="cuerpo_tabla_izq">Derecho de la Seguridad.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Derechos fundamentales y seguridad.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">Derecho Penal y Procesal Penal.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Derecho Penal I.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Derecho Penal II.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">Derecho Administrativo.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Derecho Administrativo I.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Derecho Administrativo II.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">
+<strong>ORGANIZACIÓN Y PREVENCIÓN</strong>
+</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Prevención y metodología de actuación policial.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Cooperación policial internacional.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Riesgos y amenazas globales a la seguridad nacional e internacional.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="5">
+<strong>INVESTIGACIÓN Y TECNOLOGÍA</strong>
+</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Investigación y Ciencias Forenses.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Ciencias forenses I.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Técnicas de expresión oral, escrita y documentación digital.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Tecnologías aplicadas a la investigación.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la investigación I.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Gestión de seguridad pública de la información.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Análisis estadístico del delito.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<strong>INTRODUCTORIO</strong>
+</td>
+<td class="cuerpo_tabla_izq">Idiomas.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa II.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="5">Curso: 2º</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">MÓDULO</th>
+<th class="cabeza_tabla">MATERIA</th>
+<th class="cabeza_tabla">ECTS</th>
+<th class="cabeza_tabla">ASIGNATURA</th>
+<th class="cabeza_tabla">CARÁCTER</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="4">
+<strong>FORMACIÓN DE CUERPO DE SEGURIDAD </strong>
+</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Técnica profesional e investigación.</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Dirección y gestión de Unidades de la Guardia Civil.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Policía Judicial II.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Policía Judicial III.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad II.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">
+<strong>FUNDAMENTOS JURÍDICOS </strong>
+</td>
+<td class="cuerpo_tabla_izq">Derecho Penal y Procesal Penal.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Derecho Procesal Penal.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Derecho de la Seguridad.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Derecho Administrativo de la Seguridad.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="4">
+<strong>ORGANIZACIÓN Y PREVENCIÓN </strong>
+</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Servicios de seguridad.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad I.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Dirección y liderazgo.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">Prevención y metodología de actuación policial.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Gestión de la seguridad física.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Situaciones de emergencia en el ámbito de la seguridad.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="4">
+<strong>INVESTIGACIÓN Y TECNOLOGÍA </strong>
+</td>
+<td class="cuerpo_tabla_izq">Investigación y Ciencias Forenses.</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Ciencias Forenses II.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Tecnologías aplicadas a la investigación.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la investigación II.</td>
+<td class="cuerpo_tabla_centro">T</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Vulnerabilidades, amenazas y protocolos de seguridad informática.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Tecnologías para la seguridad física.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<strong>TRABAJO FIN DE GRADO </strong>
+</td>
+<td class="cuerpo_tabla_izq">Trabajo fin de Grado.</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq">Trabajo fin de Grado.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<strong>INTRODUCTORIO </strong>
+</td>
+<td class="cuerpo_tabla_izq">Idiomas.</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Lengua Inglesa III.</td>
+<td class="cuerpo_tabla_centro">P</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica el apartado a) por el art. único.16 de la Orden PJC/1030/2024, de 25 de septiembre. [Ref. BOE-A-2024-19389](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19389)
+
+> Se modifica el curso 1º de los apartados b) y c) por la disposición final 3.5 y 6 de la Orden PJC/849/2024, de 8 de agosto. [Ref. BOE-A-2024-16600](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-16600)
+
+## ANEXO V — Pruebas físicas y marcas a superar para progresar en la enseñanza de formación
+
+1\. Las pruebas físicas y marcas que los alumnos deberán superar para progresar en los distintos cursos de la enseñanza de formación, en la forma de ingreso por acceso directo sin titulación universitaria previa son las siguientes:
+
+<table class="tabla">
+<colgroup>
+<col class="row_column_35">
+<col class="row_column_36">
+<col class="row_column_36">
+<col class="row_column_36">
+<col class="row_column_36">
+<col class="row_column_36">
+<col class="row_column_36">
+</colgroup>
+<thead>
+<tr class="row_column_5">
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Prueba</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Sexo</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Curso 1.º</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Curso 2.º</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Curso 3.º</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Curso 4.º</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Curso 5.º</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row_column_6">
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Potencia tren inferior (1).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">H</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">44</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">46</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">48</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">48</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">48</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td>
+<p class="cuerpo_tabla_centro">M</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">38</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">40</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">42</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">42</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">42</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Potencia tren superior (2).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">H</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">20</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">22</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">25</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">25</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">25</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td>
+<p class="cuerpo_tabla_centro">M</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">14</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">16</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">19</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">19</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">19</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Velocidad (3).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">H</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">7,9’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">7,8’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">7,6’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">7,6’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">7,6’’</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td>
+<p class="cuerpo_tabla_centro">M</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">8,7’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">8,6’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">8,4’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">8,4’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">8,4’’</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Resistencia (4).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">H</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3’50’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3’45’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3’35’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3’35’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3’35’’</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td>
+<p class="cuerpo_tabla_centro">M</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4’20’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4’15’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4’05’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4’05’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4’05’’</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Soltura acuática (5).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">H</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">59’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">58’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">55’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">55’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">55’’</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td>
+<p class="cuerpo_tabla_centro">M</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1’07’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1’06’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1’03’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1’03’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1’03’’</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Complementaria de resistencia (6).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">H</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">34’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">33’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">31’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">31’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">31’</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td>
+<p class="cuerpo_tabla_centro">M</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">38’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">37’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">35’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">35’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">35’</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Las pruebas físicas y marcas correspondientes a los cursos 1.º y 2.º, se regirán, en todo caso, por las establecidas para superar el currículo de la enseñanza de formación de los oficiales del Cuerpo General del Ejército de Tierra mediante la forma de ingreso sin titulación previa.
+
+2\. En lo que se refiere a las pruebas físicas y marcas en la forma de ingreso por promoción profesional, en las modalidades de promoción interna y de cambio de escala, los alumnos para progresar en cada uno de los distintos cursos de la enseñanza de formación deberán superar las siguientes:
+
+<table class="tabla">
+<colgroup>
+<col class="row_column_35">
+<col class="row_column_37">
+<col class="row_column_38">
+<col class="row_column_38">
+<col class="row_column_38">
+<col class="row_column_38">
+<col class="row_column_38">
+</colgroup>
+<thead>
+<tr class="row_column_39">
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Prueba</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Sexo</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Menor de 35 años</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Igual o mayor de 35 y menor de 40 años</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Igual o mayor de 40 y menor de 45 años</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Igual o mayor de 45 y menor de 50 años</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Igual o mayor de 50 años</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row_column_6">
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Potencia tren superior (2).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">H</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">16</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">16</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">14</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">13</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">13</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td>
+<p class="cuerpo_tabla_centro">M</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">11</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">11</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">8</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">7</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Soltura acuática (5).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">H</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1’10’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1’11’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1’13’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1’17’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1’20’’</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td>
+<p class="cuerpo_tabla_centro">M</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1’21’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1’23’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1’28’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1’29’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1’31’’</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Velocidad (7).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">H</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">10,1’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">10,4’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">10,9’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">11,3’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">11,6’’</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td>
+<p class="cuerpo_tabla_centro">M</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">11,1’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">11,4’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12,4’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12,7’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">13,3’’</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Resistencia (8).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">H</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">10’23’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">10’48’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">11’38’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">11’56’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12’21’’</p>
+</td>
+</tr>
+<tr class="row_column_6">
+<td>
+<p class="cuerpo_tabla_centro">M</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12’24’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12’46’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">14’08’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">14’45’’</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">15’07’’</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+3\. Descripción de las pruebas:
+
+a) Potencia de tren inferior (1). Consistirá en la ejecución de un salto vertical, con los pies juntos desde la posición de parado, en el que se calculará la diferencia en centímetros entre la marca obtenida con el brazo levantado y la realizada en el salto.
+
+b) Potencia tren superior (2). Consistirá en la realización de extensiones de brazos desde la posición de tierra inclinada. La puntuación de la prueba será el número de repeticiones válidas realizadas.
+
+c) Velocidad (3). Consistirá en la ejecución de una carrera de 50 metros lisos, realizada en pista de atletismo o, en su caso, en un pasillo de 50 metros de longitud, marcado sobre una superficie plana y consistente.
+
+d) Resistencia (4). Consistirá en la ejecución de una carrera de 1.000 metros lisos realizada preferentemente en pista de atletismo o, en su caso, sobre una superficie plana y consistente, con señales que permitan al alumno el cálculo de la distancia pendiente de completar.
+
+e) Soltura acuática (5). Consistirá en completar 50 metros de natación estilo libre, en una piscina de longitud suficiente que permita la realización de la prueba.
+
+f) Complementaria de resistencia (6). Consistirá en la ejecución de una carrera de 6.000 metros lisos, se podrá realizar en pista de atletismo o sobre otra superficie de suficiente consistencia y en terreno sensiblemente llano, con señales que permitan al alumno el cálculo de la distancia pendiente de completar.
+
+g) Velocidad (7). Consistirá en la ejecución de una carrera de 60 metros lisos, realizada en pista de atletismo o, en su caso, en un pasillo de 60 metros de longitud, marcado sobre una superficie plana y consistente.
+
+h) Resistencia (8). Consistirá en la ejecución de una carrera de 2.000 metros lisos realizada preferentemente en pista de atletismo o, en su caso, sobre una superficie plana y consistente, con señales que permitan al alumno el cálculo de la distancia pendiente de completar.

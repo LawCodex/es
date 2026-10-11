@@ -1,0 +1,1037 @@
+---
+title: "Orden TMD/101/2025, de 31 de enero, para la concesión directa de subvenciones a ayuntamientos y diputaciones provinciales para financiar obras de reparación, restitución o reconstrucción de infraestructuras, equipamientos o instalaciones y servicios de titularidad municipal y de la red viaria de titularidad provincial, de los daños causados por la Depresión Aislada en Niveles Altos (DANA) entre el 28 de octubre y el 4 de noviembre de 2024, al amparo del artículo 5 del Real Decreto-ley 6/2024, de 5 de noviembre"
+identifier: "BOE-A-2025-1942"
+eli: "https://www.boe.es/eli/es/o/2025/01/31/tmd101"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Política Territorial y Memoria Democrática"
+date: 2025-01-31
+published: 2025-02-03
+last_amended: 2026-01-10
+consolidated: 2026-03-05
+gazette: "Boletín Oficial del Estado núm. 29"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2025-1942"
+retrieved: 2026-10-11
+---
+
+# Orden TMD/101/2025, de 31 de enero, para la concesión directa de subvenciones a ayuntamientos y diputaciones provinciales para financiar obras de reparación, restitución o reconstrucción de infraestructuras, equipamientos o instalaciones y servicios de titularidad municipal y de la red viaria de titularidad provincial, de los daños causados por la Depresión Aislada en Niveles Altos (DANA) entre el 28 de octubre y el 4 de noviembre de 2024, al amparo del artículo 5 del Real Decreto-ley 6/2024, de 5 de noviembre
+
+Esta Orden pasa a denominarse **"Orden TMD/101/2025, de 31 de enero, para la concesión directa de subvenciones a ayuntamientos y diputaciones provinciales para financiar obras de reparación, restitución, reconstrucción, mejora y ampliación de infraestructuras, equipamientos o instalaciones y servicios de titularidad municipal y de la red viaria de titularidad provincial, de los daños causados por la Depresión Aislada en Niveles Altos (DANA) entre el 28 de octubre y el 4 de noviembre de 2024, al amparo del artículo 5 del Real Decreto-ley 6/2024, de 5 de noviembre"**, según establece el apartado segundo.1 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+La DANA (Depresión Aislada en Niveles Altos) acaecida entre el 28 de octubre y el 4 de noviembre de 2024 ha afectado gravemente a la Comunitat Valenciana, Castilla-La Mancha, Andalucía, Cataluña y, en menor medida, a las Illes Balears y Aragón. En algunos puntos, las lluvias han llegado a superar los 600 litros por metro cuadrado en pocas horas, provocando, entre otros, inundaciones en decenas de municipios, carreteras y vías cortadas, puentes destrozados por la violencia de las aguas y, lo que es peor, más de 220 víctimas mortales. Se trata del mayor desastre natural en la historia reciente de nuestro país y es ya la segunda inundación que más víctimas se ha cobrado en Europa en lo que va de siglo.
+
+Como consecuencia de estos sucesos se han producido graves daños personales y materiales que requerían de una respuesta inmediata. Así, de conformidad con lo dispuesto en el artículo 23 de la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil, el Consejo de Ministros, en su reunión del día 5 de noviembre de 2024, acordó declarar zona afectada gravemente por una emergencia de protección civil el territorio afectado como consecuencia de la citada DANA, en las Comunidades Autónomas de Comunitat Valenciana, Castilla-La Mancha, Andalucía, Illes Balears, Cataluña y Aragón.
+
+En dicho acuerdo, entre otras medidas, se articuló un régimen de ayudas para la recuperación de daños en infraestructuras municipales y red viaria provincial e insular.
+
+No obstante, considerando la naturaleza y magnitud de la catástrofe y de los daños descritos, también se apreció la concurrencia de circunstancias de extraordinaria y urgente necesidad que habilitaban al Gobierno, de conformidad con lo previsto en el artículo 86 de la Constitución Española, a adoptar las medidas urgentes que den respuesta a los daños causados por esta DANA.
+
+Así, mediante el Real Decreto-ley 6/2024, de 5 de noviembre, por el que se adoptan medidas urgentes de respuesta ante los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, se aprobaron un grupo de medidas urgentes de respuesta ante los daños causados dirigidas específicamente a 78 municipios, situados en las provincias de Valencia –75 municipios–, Málaga, Cuenca y Albacete, en los que residen más de un millón de personas. Tales medidas son complementarias a las adoptadas en el Acuerdo del Consejo de Ministros, de 5 de noviembre de 2024, antes citado.
+
+Entre las medidas adicionales adoptadas en el Real Decreto-ley 6/2024, de 5 de noviembre, el artículo 5 establece un régimen específico de ayudas a entidades locales para las obras de reparación, restitución o reconstrucción de infraestructuras, equipamientos o instalaciones y servicios de titularidad municipal o provincial.
+
+En dicho artículo se faculta al Ministerio de Política Territorial y Memoria Democrática a conceder subvenciones para ejecutar proyectos directamente relacionados con los daños causados por la DANA en los municipios incluidos en el anexo de dicha norma, que tengan por objeto la realización de obras de reparación, restitución o reconstrucción de infraestructuras, equipamientos o instalaciones y servicios de titularidad municipal o provincial o insular, incluyéndose en todo caso las obras de reparación, restitución o reconstrucción de la red viaria, de hasta el 100 por ciento del coste, en función de las condiciones que se establezcan.
+
+Asimismo, conforme el citado artículo, resultará financiable la reconstrucción de las infraestructuras, equipamientos o instalaciones y servicios en otro espacio físico distinto del de su ubicación preexistente, siendo el procedimiento de concesión establecido la concesión directa y quedando habilitado el Ministerio de Política Territorial y Memoria Democrática para establecer en la correspondiente resolución de concesión, previo informe del Ministerio de Hacienda, las condiciones y compromisos aplicables, todo ello, de conformidad con los artículos 22.2.b) y 28.1 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+Quedan excluidas de estas subvenciones aquellas actuaciones en materia de infraestructuras viarias que hayan sido objeto de reposición por el Ministerio de Transportes y Movilidad Sostenible al amparo de la habilitación prevista en el artículo 74 del Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan medidas urgentes para el impulso del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, ni por ADIF y ADIF-Alta Velocidad al amparo de la disposición adicional undécima del Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan medidas urgentes complementarias en el marco del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.
+
+Este Ministerio ha recabado una valoración técnica del coste estimado de las obras de reparación, restitución o reconstrucción de las infraestructuras, equipamientos o instalaciones y servicios locales afectados por la DANA en el ámbito territorial contemplado en el anexo del Real Decreto-ley 6/2024, de 5 de noviembre. El importe de dichas valoraciones ha sido la base sobre la que se han determinado los importes de subvención a conceder a las entidades locales afectadas.
+
+Por otro lado, a la hora de determinar las condiciones y compromisos aplicables a estas subvenciones se ha tenido en cuenta la magnitud de los daños y la importancia de que se alcance un pronto restablecimiento de los servicios esenciales para la población local, y muy en particular, de los servicios mínimos de competencia municipal previstos en el artículo 26 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local.
+
+En ese sentido, se han tenido en consideración los principios de autonomía local y de cooperación para garantizar la prestación de los servicios municipales; los presupuestos que deben concurrir para que las entidades beneficiarias puedan materializar la actividad subvencionada; la oportunidad y procedencia de que en la recuperación se tenga presente la prevención del riesgo de nuevas catástrofes; así como la condición de Administración Pública que tienen las entidades beneficiarias y la necesidad de efectuar un adecuado seguimiento y control de las subvenciones.
+
+De conformidad con lo previsto en el artículo 10.2 de la Ley 38/2003, de 17 de noviembre, el Consejo de Ministros, mediante Acuerdo de 28 de enero de 2025, ha autorizado la concesión de las subvenciones que superan los 12 millones de euros.
+
+Igualmente, se ha recabado el informe del Ministerio de Hacienda y de la Abogacía del Estado en el departamento.
+
+Por su parte, sin perjuicio de lo previsto en la disposición adicional novena del Real Decreto-ley 6/2024, de 5 de noviembre, las entidades locales objeto de esta resolución han aportado una declaración responsable de no estar incursas en ninguna otra de las prohibiciones previstas el artículo 13.2 de la Ley 38/2003, de 17 de noviembre, para obtener la condición de beneficiaria.
+
+Teniendo en cuenta lo expuesto y considerando las facultades atribuidas en el artículo 61.p) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en relación con los artículos 5.2 del Real Decreto-ley 6/2024, de 5 de noviembre, 28.1 de la Ley 38/2003, de 17 de noviembre y 1.1 del Real Decreto 273/2024, de 19 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Política Territorial y Memoria Democrática, mediante la presente orden, resuelvo:
+
+## Primero. Objeto y fundamento de la orden.
+
+1\. Esta orden tiene por objeto la concesión directa de subvenciones a entidades locales para financiar las obras de reparación, restitución, reconstrucción, mejora y ampliación de infraestructuras, equipamientos o instalaciones y servicios de titularidad municipal destinados o afectados al uso o servicio público y de la red viaria de titularidad provincial de los daños causados por la Depresión Aislada en Niveles Altos (DANA) acaecida entre el 28 de octubre y el 4 de noviembre de 2024, así como el establecimiento de las condiciones y compromisos aplicables.
+
+2\. La orden se adopta en virtud de lo dispuesto en los artículos 22.2.b) y 28.1 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones y al amparo del artículo 5 del Real Decreto-ley 6/2024, de 5 de noviembre, por el que se adoptan medidas urgentes de respuesta ante los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, norma de rango legal que habilita a la concesión directa de estas subvenciones.
+
+> Se modifica el punto 1 por el apartado segundo.2 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Segundo. Objeto de las subvenciones y régimen jurídico.
+
+1\. Las subvenciones tienen por objeto financiar, con el alcance y en las condiciones establecidas en esta orden, los proyectos directamente relacionados con la Depresión Aislada en Niveles Altos acaecida entre el 28 de octubre y el 4 de noviembre de 2024 (DANA), que tengan por objeto la realización de obras de reparación, restitución, reconstrucción, mejora y ampliación de infraestructuras, equipamientos o instalaciones y servicios de titularidad municipal y de la red viaria de titularidad provincial.
+
+También tendrán por objeto la adquisición de suelos y viviendas para la realización de actuaciones de prevención de inundaciones en zonas que tengan riesgo de las mismas, así como la financiación de proyectos para construir nuevas infraestructuras municipales para prevenir los daños por avenidas torrenciales e inundaciones. Por último, también se destinarán a cubrir gastos en concepto de asistencia técnica, en los términos recogidos en el artículo 5 del Real Decreto-ley 6/2024, de 5 de noviembre y el apartado quinto.bis de esta orden.
+
+2\. En defecto de regulación específica será de aplicación supletoria lo previsto en la Ley 38/2003, de 17 de noviembre, y en el Real Decreto 887/2006, de 21 de julio, por el que se aprueba el Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, salvo en lo que en una y otro afecte a la aplicación de los principios de publicidad y concurrencia.
+
+> Se modifica el punto 1 por el apartado segundo.3 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Tercero. Entidades beneficiarias.
+
+1\. Las entidades beneficiarias de estas subvenciones son los ayuntamientos y la diputación provincial que se relacionan en el anexo I de esta orden, a los que se concede una subvención por el importe que allí se indica.
+
+2\. El importe total de las subvenciones concedidas mediante esta orden es de 1.745.310.104,41 euros y se financiará con cargo a la aplicación 22.02.929D.760.01 de los Presupuestos Generales del Estado.
+
+## Cuarto. Obras financiables.
+
+1\. Las subvenciones se destinarán a financiar los proyectos que tengan por objeto la realización de:
+
+a) Obras de reparación, restitución o reconstrucción de las infraestructuras, equipamientos, instalaciones y servicios que hayan resultado dañados por la DANA.
+
+b) Obras de reparación, restitución, reconstrucción, mejora y ampliación de la red viaria de titularidad provincial dañada por la DANA.
+
+c) Obras de ampliación y mejora de las capacidades y funcionalidades de las infraestructuras, equipamientos o instalaciones y servicios dañados, incluyendo actuaciones de adaptación al cambio climático.
+
+d) Construcción de nuevas infraestructuras municipales para prevenir los daños por avenidas torrenciales e inundaciones.
+
+No podrán ser objeto de estas subvenciones aquellas actuaciones en materia de infraestructuras viarias que hayan sido objeto de reposición por el Ministerio de Transportes y Movilidad Sostenible al amparo de la habilitación prevista en el artículo 74 del Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan medidas urgentes para el impulso del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, ni por ADIF y ADIF-Alta Velocidad al amparo de la disposición adicional undécima del Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan medidas urgentes complementarias en el marco del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.
+
+2\. En los servicios públicos gestionados de forma indirecta, únicamente serán financiables las obras de reparación, restitución, reconstrucción, mejora y ampliación que la entidad beneficiaria tenga el deber jurídico de soportar.
+
+3\. Las obras a las que se refiere el apartado 1.a) podrán llevarse a cabo en otro espacio físico distinto del de su ubicación preexistente, cuando concurran circunstancias técnicas justificadas en la imposibilidad de acometer las obras de reparación o restitución en el mismo espacio físico, en la imposibilidad de prestar adecuadamente el servicio público sobre el bien de que se trate, o porque sea preciso su desplazamiento como medida de prevención de catástrofes naturales.
+
+Cuando sea preciso su desplazamiento como medida de prevención de catástrofes naturales, el Pleno del Ayuntamiento, previo informe de los técnicos municipales, podrá acordar la imposibilidad de que los bienes dañados se puedan volver a destinar a la prestación de un determinado servicio público en su actual ubicación si para la prestación de dicho servicio persiste la vulnerabilidad ante una situación catastrófica de lluvia o inundación, para sus usuarios y/o prestatarios, disponiendo la anotación de tal limitación de uso en el inventario de bienes de la entidad local, pudiendo destinarse a otro servicio público siempre que por sus características dicha ubicación lo permita.
+
+4\. Deberá justificarse la finalidad y conveniencia de ejecutar las obras a las que se refiere el apartado 1.c) mediante un informe de los técnicos de la entidad local que acredite, además, su compatibilidad con la normativa vigente. Adicionalmente, las ampliaciones deberán estar fundamentadas en necesidades efectivas municipales y cumplir con los criterios de establecidos en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, en relación con los principios de eficacia y economía. Este último extremo será acreditado mediante una certificación de la persona que ejerza la Alcaldía o Presidencia de la Diputación, según el caso.
+
+5\. A los efectos de lo previsto en el apartado 1.d), se considerarán infraestructuras municipales para prevenir los daños por avenidas torrenciales e inundaciones aquellas obras de infraestructura que actúen sobre los mecanismos de generación, acción y propagación de las avenidas alterando sus características hidrológicas o hidráulicas. Se incluyen aquellas destinadas a proteger zonas de riesgo, reduciendo los niveles de inundación o su duración, tales como, entre otras, diques, muros de contención, sistemas de drenaje urbano y control de aguas (red de alcantarillado, depuración, tanques de agua), o la creación de áreas inundables.
+
+En todo caso, la finalidad y conveniencia de la construcción de las nuevas infraestructuras municipales deberá estar justificada en un informe de los técnicos de la entidad local que acredite además su compatibilidad con la normativa vigente. Asimismo, dichas infraestructuras deberán quedar adscritas a los fines comprometidos durante un periodo mínimo de veinticinco años desde la aprobación de la justificación del proyecto.
+
+Finalmente, las citadas construcciones podrán llevarse a cabo en aquellos suelos que sean de dominio público hidráulico a solicitud de la entidad local y previo otorgamiento de la autorización correspondiente.
+
+6\. Cuando se trate de las obras a las que se refiere el apartado 1.d) únicamente se financiarán aquellas que cumplan con el Plan Nacional de Adaptación al Cambio Climático y demás normativa relacionada, extremo que se deberá justificar expresamente en el proyecto.
+
+7\. Las obras serán subvencionables con independencia del estado de ejecución en que se encuentren a la fecha de aprobación de esta orden o a la de la presentación del proyecto ante el Ministerio, siempre que quede acreditado el cumplimiento de todos los requisitos establecidos para ello.
+
+> Se modifica por el apartado segundo.4 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Quinto. Gastos subvencionables.
+
+1\. Se subvencionarán los gastos que se enumeran en este apartado, siempre que se correspondan de manera indubitada con el proyecto financiado, resulten necesarios para su ejecución, y se haya cumplido con las condiciones y plazos establecidos en esta orden.
+
+2\. Serán gastos subvencionables los de inversión relativos a la ejecución de un contrato de obras, con tal carácter definido en el artículo 13 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, siempre que respondan a la naturaleza de los fines subvencionados y que se realicen con posterioridad al 28 de octubre de 2024.
+
+Con iguales condiciones, serán también subvencionables los gastos de inversión relativos a la ejecución de un encargo a un medio propio personificado, formalizado en los términos previstos en el artículo 34 de la Ley 9/2017, de 8 de noviembre, cuyo objeto corresponda al previsto en el artículo 13 de dicha norma.
+
+En ambos casos, únicamente serán considerados gastos de inversión, los de inversión real, imputados al capítulo 6 del estado de gastos del presupuesto de la entidad beneficiaria.
+
+Igualmente, serán subvencionables los gastos de elaboración de proyectos de obras, dirección de obra y los gastos de coordinador en materia de seguridad y salud durante la ejecución de la obra, si han sido contratados específicamente para la obra objeto de subvención.
+
+3\. También serán subvencionables los gastos de la adquisición de suelos y viviendas para la realización de actuaciones de prevención de inundaciones en zonas que tengan riesgo de las mismas. A estos efectos, tendrán la consideración de zonas con riesgo de inundación las que así estuvieran calificadas en los planes sobre prevención del riesgo de inundación aplicables.
+
+Las adquisiciones de terrenos y viviendas serán subvencionables, con independencia del estado en que se encuentre el expediente de adquisición en la fecha de aprobación de esta orden o en la de presentación del proyecto ante el Ministerio, siempre que se acredite el cumplimiento de todos los requisitos establecidos y que la compraventa se haya formalizado con posterioridad al 28 de octubre de 2024.
+
+El importe subvencionable no podrá superar el valor de mercado de los terrenos y de los bienes inmuebles en el momento de la adquisición, lo que se acreditará mediante informe pericial de tasador independiente debidamente acreditado e inscrito en el correspondiente registro oficial o en un organismo público debidamente autorizado, o de informe pericial de técnico municipal sobre las características y valoración máxima del bien a adquirir. En todo caso se requerirá certificado del secretario de la corporación que acredite que se ha seguido el procedimiento establecido por la legislación vigente.
+
+4\. Solo será subvencionable el gasto si la entidad beneficiaria ha incurrido en él y lo ha abonado antes del vencimiento del plazo de justificación establecido en esta orden. A estos efectos, únicamente se entenderá abonado el gasto cuando se haya producido el desembolso efectivo.
+
+Igualmente, se requerirá que antes del vencimiento del plazo de justificación, las infraestructuras, equipamientos o instalaciones y servicios estén plenamente operativos y adscritos al uso o a la prestación de aquellos servicios acordes a su naturaleza.
+
+5\. No se consideran costes subvencionables los derivados de cualesquiera autorizaciones administrativas, licencias, permisos, tasas, impuestos o tributos. No obstante, el Impuesto sobre el Valor Añadido será considerado subvencionable siempre y cuando no pueda ser susceptible de recuperación o compensación total o parcial.
+
+6\. Tampoco serán subvencionables los pagos efectuados por el contratista a la Administración en concepto de tasa de dirección de obra, control de calidad o cualesquiera otros conceptos que supongan ingresos o descuentos que se deriven de la ejecución del contrato.
+
+7\. No son subvencionables los trabajos llevados a cabo con medios propios no personificados de la entidad local, ya sean materiales, maquinaria o personal.
+
+8\. Se considerarán igualmente gastos subvencionables aquellos en los que hayan incurrido las entidades beneficiarias en concepto de asistencia técnica de acuerdo con lo previsto en el apartado quinto bis.
+
+> Se modifica por el apartado segundo.5 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Quinto bis. Ayuda en concepto de asistencia técnica a las entidades beneficiarias.
+
+1\. De conformidad con las especialidades previstas en este apartado, se podrán financiar gastos en concepto de asistencia técnica, para el desempeño de las actividades de gestión, seguimiento y justificación de las subvenciones concedidas.
+
+2\. Se considerarán gastos subvencionables en concepto de asistencia técnica aquellos en los que la entidad beneficiaria hubiera incurrido a través de contratos del sector público o encargos a un medio propio personificado, celebrados de acuerdo con la Ley 9/2017, de 8 de noviembre, cuyo objeto fuera la prestación de apoyo y asistencia técnica en las actividades de gestión, seguimiento y justificación de estas subvenciones, siempre que se hubieran formalizado con posterioridad a la fecha de publicación de la Orden TMD/101/2025, de 31 de enero, para la concesión directa de subvenciones a ayuntamientos y diputaciones provinciales para financiar obras de reparación, restitución o reconstrucción de infraestructuras, equipamientos o instalaciones y servicios de titularidad municipal y de la red viaria de titularidad provincial, de los daños causados por la Depresión Aislada en Niveles Altos (DANA) entre el 28 de octubre y el 4 de noviembre de 2024, al amparo del artículo 5 del Real Decreto-ley 6/2024, de 5 de noviembre.
+
+Para ser subvencionables, tales gastos se deben haber ejecutado y pagado en el periodo comprendido entre la fecha de publicación de la resolución de otorgamiento de la subvención en el “Boletín Oficial del Estado” y los tres meses siguientes a la fecha en la que expire el plazo para que la entidad beneficiaria presente la última de las justificaciones de sus proyectos financiados.
+
+No tendrán la consideración de gastos subvencionables por este concepto, aquellos que la entidad beneficiaria hubiera justificado en virtud de lo dispuesto en el apartado quinto puntos 1 a 7.
+
+3\. Dentro del importe de subvención concedido a la entidad beneficiaria, el importe de la ayuda máxima a percibir en concepto de asistencia técnica se determinará a tanto alzado, mediante la aplicación de un porcentaje del 3,5 por ciento sobre los gastos subvencionables que hubieran sido debidamente justificados por las entidades locales beneficiarias recogidos en el apartado quinto, puntos 1 a 7.
+
+4\. La ayuda de asistencia técnica se gestionará a través de un proyecto específico. Dicho proyecto se creará previa solicitud de las entidades beneficiarias, que se deberá presentar dentro del plazo establecido en el apartado décimo.2, en el que se indicará la subvención máxima que se desea asignar a dicho proyecto, con el límite máximo del 3,5 por ciento de la subvención concedida, y se asumirán los compromisos de gestión previstos en el apartado undécimo.4.
+
+5\. El proyecto de asistencia técnica está exento de la comunicación prevista en el apartado decimoquinto. Su justificación se deberá presentar en los tres meses siguientes a la fecha en la que expire el plazo para que la entidad beneficiaria presente la última de las justificaciones de sus proyectos financiados. La justificación se presentará en los términos señalados en el apartado decimoséptimo, atendiendo a la naturaleza y características de su objeto.
+
+La entidad beneficiaria deberá conservar la pista de auditoría que permita acreditar la efectiva realización de los trabajos que han sido desarrollados en ejecución de los contratos o encargos objeto de financiación.
+
+> Se añade por el apartado segundo.6 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Sexto. Porcentaje de financiación y límites.
+
+1\. Los gastos subvencionables de los proyectos aceptados se financiarán con un porcentaje del 100 por cien.
+
+2\. El importe de las subvenciones en ningún caso podrá ser de tal cuantía que, aisladamente o en concurrencia con otras ayudas, subvenciones, ingresos o recursos recibidos por la entidad beneficiaria, procedentes de cualquier otra Administración, entes públicos o privados, nacionales o internacionales, supere el coste de la actividad subvencionada.
+
+La entidad beneficiaria deberá declarar cualquier ayuda, subvención, ingreso o recurso que hubiera solicitado u obtenido para costear las actuaciones a financiar en el marco de esta orden, tanto al presentar el respectivo proyecto, como en cualquier momento posterior en el que se produzca esta circunstancia. La superación del coste de la actividad subvencionada determinará el reintegro del exceso en los términos previstos en el artículo 37.3 de la Ley 38/2003, de 17 de noviembre.
+
+## Séptimo. Aceptación de las subvenciones.
+
+1\. Las entidades beneficiarias deberán comunicar en el plazo máximo de quince días, a contar desde la publicación de esta orden en el «Boletín Oficial del Estado», que aceptan sin reserva alguna todas las obligaciones recogidas en la misma, así como las restantes que le corresponden en su condición de entidad beneficiaria, en aplicación de la Ley 38/2003, de 17 de noviembre, y del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+La aceptación se remitirá a la Secretaría de Estado de Política Territorial (cód.: E05233001), a través del Registro Electrónico General, siguiendo el modelo establecido en el anexo II. La Secretaría de Estado de Política Territorial cotejará la validez de la aceptación y tomará razón de esta en el plazo máximo de cinco días.
+
+La falta de presentación de la aceptación en el plazo establecido será causa para declarar la pérdida del derecho al cobro total de la subvención concedida, en aplicación de los artículos 34.3 y artículo 37.1.i) de la Ley 38/2003, de 17 de noviembre.
+
+2\. Junto con la aceptación de las subvenciones, la entidad beneficiaria deberá designar la cuenta en la que desea percibir el pago de la subvención, mediante la presentación de una certificación que acredite que dicha cuenta es de su titularidad y se encuentra abierta a su nombre. Para poder recibir el pago, será necesario que previamente la entidad beneficiaria haya dado de alta dicha cuenta en el Fichero Central de Terceros del Tesoro Público.
+
+## Octavo. Comunicaciones electrónicas.
+
+1\. Las comunicaciones de todas las actuaciones que se realicen por los órganos competentes en los procedimientos de gestión de estas subvenciones, incluyendo las relativas al proceso de justificación y los eventuales procedimientos de reintegro que se puedan iniciar, se llevarán a cabo a través de medios electrónicos.
+
+2\. La utilización de los medios electrónicos establecidos será obligatoria también para la presentación de cualquier tipo de documentación y comunicaciones por las entidades beneficiarias, que deberán seguir los requisitos de presentación que se determinen en cada caso, por el órgano competente del Ministerio de Política Territorial y Memoria Democrática para cada una de las fases del procedimiento de gestión, seguimiento, justificación y control de estas subvenciones, tanto en los sistemas informáticos como en la forma.
+
+## Noveno. Definición de las obras.
+
+1\. Una vez aceptadas las subvenciones, se abrirá el plazo de presentación de proyectos, a través de los que las entidades beneficiarias detallarán las obras que plantean financiar con las subvenciones concedidas. Los proyectos contendrán la información y documentación que se indican en esta orden y se deberán presentar en el plazo y forma que se estipula en el apartado décimo.
+
+2\. Las subvenciones se vincularán a la financiación de los proyectos que presenten las entidades beneficiarias, en atención a los costes subvencionables y al porcentaje de financiación, y hasta el importe total máximo de ayuda concedido a la respectiva entidad. Agotado ese importe, no se aceptarán los restantes proyectos que la entidad beneficiaria hubiera podido presentar.
+
+3\. Culminado el proceso de aceptación de los proyectos procederá el reintegro de la subvención por el importe que no hubiera quedado asignado a la financiación de proyectos aceptados por el Comisionado especial para la reconstrucción y reparación de los daños provocados por la DANA en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024 (el Comisionado), en aplicación del artículo 37.1.f) de la Ley 38/2003, de 17 de noviembre.
+
+> Se modifica el punto 3 por el apartado segundo.7 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Décimo. Plazo y forma de presentación de los proyectos.
+
+1\. Las entidades beneficiarias deberán presentar sus proyectos ante el Comisionado, de forma electrónica, a través de la aplicación informática “ALBA-DANA2024”, accesible desde la sede electrónica del Ministerio de Política Territorial y Memoria Democrática https://sede.administracionespublicas.gob.es/ (Procedimientos–Subvenciones), para lo cual es preciso que los representantes legales de dichas entidades cumplan con los requisitos técnicos especificados en la mencionada aplicación.
+
+2\. Los proyectos se podrán presentar hasta las 15:00 horas del día 5 de julio de 2026.
+
+3\. Todo proyecto presentado fuera del plazo indicado será inadmitido a trámite.
+
+> Se modifica por el apartado segundo.8 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Undécimo. Contenido de los proyectos de reparación, restitución, reconstrucción, mejora y ampliación y efectos de su presentación.
+
+1\. A efectos de esta orden, cada proyecto de reparación, restitución, reconstrucción, mejora y ampliación en relación con las obras del apartado cuarto.1, a) a c), describirá las obras de este tipo que la entidad beneficiaria plantea ejecutar sobre las infraestructuras, equipamientos o instalaciones y servicios de su titularidad, justificando que cumplen el objeto de las subvenciones y con todas las condiciones para ser subvencionables.
+
+El proyecto podrá abarcar infraestructuras, equipamientos o instalaciones de naturaleza y destino análogo (ej. proyecto de reparación de vías públicas urbanas; proyecto de reparación de bibliotecas públicas, etc.), si bien, en tal caso, deberá identificar adecuadamente cada una de ellas.
+
+2\. El proyecto tendrá unos costes subvencionables de al menos 10.000 euros.
+
+3\. La entidad beneficiaria detallará, por cada proyecto, la información que requiera el sistema informático y aportará la documentación que se indica a continuación, utilizando los modelos normalizados aprobados por el Ministerio, sin perjuicio de aquella otra indicada en el apartado cuarto:
+
+a) Memoria valorada, suscrita por técnico/s competente/s, con información suficiente que permita definir y valorar las obras que se proponen. A tal efecto, la memoria valorada contendrá, como mínimo, los siguientes apartados:
+
+1.º Descripción de las características de la infraestructura, equipamiento o instalación y servicio preexistente.
+
+2.º Descripción de los daños ocasionados por la DANA sobre la infraestructura equipamiento o instalación y servicio preexistente.
+
+3.º Descripción de las obras que se proponen para recuperar, mejorar o ampliar la infraestructura, equipamiento o instalación y servicio a la situación preexistente, justificando técnicamente la solución adoptada y su conformidad con lo dispuesto en el apartado cuarto.
+
+4.º Presupuesto de las obras desglosado por capítulos, impuestos incluidos. En su caso, se indicarán los costes de elaboración de proyectos de obras, dirección de obra y coordinador en materia de seguridad y salud durante la ejecución de la obra en los que vaya a incurrir la entidad.
+
+5.º Planos de situación y del área/s de intervención.
+
+En los distintos apartados se incorporarán fotografías y representaciones gráficas que dejen constancia de la infraestructura, equipamiento o instalación y servicio preexistente, de los daños que le provocó la DANA y del alcance de las obras contempladas en la memoria, todo ello, con la salvedad de que, por las circunstancias en que se produjeron los daños, no hubiera sido posible obtenerlas.
+
+Si se proponen obras que alteren las características de la infraestructura, equipamiento o instalación preexistente, estas deberán estar expresamente identificadas en un apartado independiente de la memoria, detallando su coste por capítulos y justificando su finalidad, conveniencia y, en su caso, las necesidades que justifiquen las ampliaciones, de acuerdo con las reglas enunciadas en el apartado cuarto. Asimismo, siempre que exista alternativa técnica, se aportará a título comparativo un presupuesto de las obras de reparación o restitución a la realidad preexistente y otro presupuesto con las alteraciones propuestas.
+
+Igualmente, si se proyecta la reconstrucción de las infraestructuras, equipamientos o instalaciones y servicios en otro espacio físico distinto del de su ubicación preexistente, la memoria deberá anexar, en un apartado independiente, los informes técnicos oportunos que acrediten las circunstancias que justifican la imposibilidad de acometer las obras de reparación o restitución en el mismo espacio físico, la imposibilidad de prestar adecuadamente el servicio público sobre el bien de que se trate, o que sea preciso su desplazamiento como medida de prevención de catástrofes naturales.
+
+En tal caso, adicionalmente, se deberá aportar una declaración responsable, suscrita por el representante legal de la entidad local, en la que se manifieste el compromiso de la entidad local a adoptar las medidas contempladas en el apartado cuarto.3.
+
+En la redacción de las memorias será obligatorio utilizar una de las bases de precios determinadas por el Comisionado.
+
+b) Declaración responsable efectuada en nombre de la entidad beneficiaria por la persona titular del órgano competente para representarla en la que, siguiendo el modelo normalizado, se declare:
+
+1.º La efectiva relación de causalidad entre los daños provocados por la DANA y la reparación, restitución, reconstrucción, mejora y ampliación contemplada en el proyecto.
+
+2.º Que las obras propuestas en el proyecto cumplen el objeto de las subvenciones y con todas las condiciones para ser subvencionables.
+
+3.º El compromiso de habilitar crédito suficiente para financiar el proyecto, en el caso de que el mismo sea aceptado.
+
+4.º Las restantes ayudas, subvenciones, ingresos o recursos que se hubieran solicitado u obtenido de cualquier Administración, organismo o entidad pública o privada, nacional o internacional, para estas obras.
+
+c) Certificado expedido por quien ostente la función de fe pública de la entidad beneficiaria en el que, siguiendo el modelo normalizado, se certifique:
+
+1.º Si el bien sobre el que se proyecta ejecutar las obras de recuperación es de titularidad de la entidad beneficiaria. En caso de reconstrucción en otra ubicación, se certificará si el bien dañado es de titularidad de la entidad beneficiaria.
+
+2.º El uso o servicio público al que está destinada o afectada la infraestructura, equipamiento o instalación que se incluye en el proyecto.
+
+3.º La forma de gestión del servicio que se presta en la infraestructura, equipamiento o instalación que se incluye en el proyecto.
+
+En caso de que se viniera prestando un servicio gestionado indirectamente, se deberá certificar si, de acuerdo con el instrumento que regula la gestión, la entidad beneficiaria está obligada a ejecutar y financiar las obras contempladas en el proyecto.
+
+d) Fotografía representativa de los daños registrados en la infraestructura, equipamiento o instalación y servicio de que se trate, salvo que, por las circunstancias en que se produjeron los daños, no hubiera sido posible obtenerla.
+
+e) Si el servicio se está gestionando indirectamente, declaración responsable suscrita por el representante legal de la entidad gestora, acorde al modelo normalizado, con todas las ayudas, subvenciones, ingresos o recursos que hubiera solicitado u obtenido de cualquier Administración, organismo o entidad pública o privada, nacional o internacional, para la reparación, restitución o reconstrucción de las infraestructuras, equipamientos o instalaciones que gestione en ese municipio.
+
+4\. El proyecto será presentado por la persona titular del órgano competente para representar a la entidad beneficiaria. La presentación de un proyecto implica que la entidad beneficiaria asume los compromisos de:
+
+a) Llevar la contabilidad mediante una unidad de gasto perfectamente identificable, que permita el seguimiento y control individualizado del proyecto a lo largo de toda su vida, acorde a las previsiones de la Instrucción de contabilidad local aplicable.
+
+b) Suministrar toda la información que le sea solicitada por el Comisionado, sobre cualquier aspecto que le permita el seguimiento de los compromisos derivados de esta orden o en la normativa de aplicación.
+
+c) Informar al Comisionado proactivamente, sobre cualquier evento importante o imprevisto que pueda impactar en la consecución del objeto financiado.
+
+También deberá informar con inmediatez de la existencia de cualquier procedimiento judicial tendente a la determinación de conductas que puedan ser constitutivas de infracción penal y que afecten a las actuaciones financiadas con cargo a esta subvención.
+
+d) Cumplir con las restantes obligaciones establecidas en esta orden y las que se derivan del artículo 14 de la Ley 38/2003, de 17 de noviembre.
+
+> Se modifica por el apartado segundo.9 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Undécimo bis. Contenido de los proyectos de construcción de nuevas infraestructuras municipales para prevenir los daños por avenidas torrenciales e inundaciones.
+
+1\. A efectos de esta orden, los proyectos de construcción de nuevas infraestructuras municipales para prevenir los daños por avenidas torrenciales e inundaciones a los que se refiere el apartado cuatro.1.d) describirán el alcance de las obras que la entidad beneficiaria plantea desarrollar para construir este tipo de infraestructuras, justificando que cumplen el objeto de las subvenciones y con todas las condiciones para ser subvencionables.
+
+2\. El proyecto tendrá unos costes subvencionables de al menos 10.000 euros.
+
+3\. La entidad beneficiaria detallará, por cada proyecto, la información que requiera el sistema informático y aportará la documentación que se indica a continuación, utilizando los modelos normalizados aprobados por el Ministerio:
+
+a) Memoria valorada, suscrita por técnico/s competente/s, con información suficiente que permita definir y valorar las obras de construcción que se proponen. A tal efecto, la memoria valorada contendrá, como mínimo, los siguientes apartados:
+
+1.º Descripción de los daños que, en su caso, ocasionó la DANA sobre el área de intervención, detallando si se van a desarrollar en una zona inundable.
+
+2.º Descripción de las obras de construcción de nuevas infraestructuras municipales para prevenir los daños por avenidas torrenciales e inundaciones que se proponen, justificando la solución técnica adoptada y su conformidad con lo dispuesto en el apartado cuarto.
+
+3.º Presupuesto de las obras desglosado por capítulos, impuestos incluidos. En su caso, se indicarán los costes de adquisición de suelos y viviendas en zonas inundables, elaboración de proyectos de obras, dirección de obra y coordinador en materia de seguridad y salud durante la ejecución de la obra en los que vaya a incurrir la entidad.
+
+4.º Planos de situación y del área/s de intervención.
+
+En los distintos apartados se incorporarán fotografías y representaciones gráficas que dejen constancia de los daños que, en su caso, provocó la DANA sobre el área de intervención y del alcance de las obras contempladas en la memoria, todo ello, con la salvedad de que, por las circunstancias en que se produjeron los daños, no hubiera sido posible obtenerlas.
+
+Cuando el proyecto se desarrolle en una zona inundable, se deberá acreditar expresamente tal circunstancia, en los términos previstos en el apartado cuarto.
+
+En la redacción de las memorias será obligatorio utilizar una de las bases de precios determinadas por el órgano competente del Ministerio.
+
+b) Declaración responsable efectuada en nombre de la entidad beneficiaria por la persona titular del órgano competente para representarla en la que, siguiendo el modelo normalizado, se declare:
+
+1.º Que las obras propuestas en el proyecto cumplen el objeto de las subvenciones y con todas las condiciones para ser subvencionables.
+
+2.º El compromiso de habilitar crédito suficiente para financiar el proyecto, en el caso de que el mismo sea aceptado.
+
+3.º Las restantes ayudas, subvenciones, ingresos o recursos que se hubieran solicitado u obtenido de cualquier Administración, organismo o entidad pública o privada, nacional o internacional, para estas obras.
+
+c) Certificado expedido por quien ostente la función de fe pública de la entidad beneficiaria en el que, siguiendo el modelo normalizado, se certifique:
+
+1.º Si el bien sobre el que se proyecta ejecutar las obras es de titularidad de la entidad beneficiaria o va a ser objeto de adquisición.
+
+2.º El uso o servicio público al que estará destinada o afectada la nueva infraestructura que se incluye en el proyecto.
+
+3.º La forma de gestión prevista para el servicio que se prestará en la nueva infraestructura que se incluye en el proyecto.
+
+d) Si la nueva infraestructura se fuera a incorporar a un servicio que se está gestionando indirectamente, declaración responsable suscrita por el representante legal de la entidad gestora, acorde al modelo normalizado, con todas las ayudas, subvenciones, ingresos o recursos que hubiera solicitado u obtenido de cualquier Administración, organismo o entidad pública o privada, nacional o internacional, para la reparación, restitución o reconstrucción de las infraestructuras, equipamientos o instalaciones que gestione en ese municipio.
+
+4\. El proyecto será presentado por la persona titular del órgano competente para representar a la entidad beneficiaria. La presentación de un proyecto implica que la entidad beneficiaria asume los compromisos de:
+
+a) Llevar la contabilidad mediante una unidad de gasto perfectamente identificable, que permita el seguimiento y control individualizado del proyecto a lo largo de toda su vida, acorde a las previsiones de la Instrucción de contabilidad local aplicable.
+
+b) Suministrar toda la información que le sea solicitada por el Comisionado, sobre cualquier aspecto que le permita el seguimiento de los compromisos derivados de esta orden o en la normativa de aplicación.
+
+c) Informar al Comisionado, proactivamente, sobre cualquier evento importante o imprevisto que pueda impactar en la consecución del objeto financiado.
+
+También deberá informar con inmediatez de la existencia de cualquier procedimiento judicial tendente a la determinación de conductas que puedan ser constitutivas de infracción penal y que afecten a las actuaciones financiadas con cargo a esta subvención.
+
+d) Cumplir con las restantes obligaciones establecidas en esta orden y las que se derivan del artículo 14 de la Ley 38/2003, de 17 de noviembre.
+
+> Se añade por el apartado segundo.10 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Duodécimo. Análisis y aceptación de proyectos.
+
+1\. Presentado un proyecto, el Comisionado realizará de oficio cuantas actuaciones estime necesarias para la determinación, conocimiento y comprobación de la documentación e información presentada, verificando la adecuación de su contenido a las reglas establecidas en esta orden. A tal efecto, el Comisionado podrá requerir informe de la respectiva Subdelegación del Gobierno.
+
+2\. Si se observasen defectos u omisiones o si se precisa documentación complementaria para ampliar la información sobre la ya presentada, se requerirá a la entidad solicitante para que, en el plazo de 10 días, subsane las faltas o acompañe los documentos necesarios advirtiéndole que, en caso de no hacerlo, se le tendrá por desistida de su petición, previa resolución que deberá ser dictada por el Comisionado en los términos previstos en el artículo 21 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+3\. A la vista de lo actuado, el Comisionado, de forma motivada, aceptará o rechazará el proyecto, fijando para los proyectos aceptados el coste máximo total subvencionable y la subvención máxima asignada.
+
+No obstante, la subvencionalidad de los proyectos aceptados quedará supeditada al efectivo cumplimiento del objeto de las subvenciones y de las condiciones que la determinan.
+
+4\. Culminado el proceso de aceptación de los proyectos presentados por una entidad, la renuncia a uno de los proyectos aceptados implicará también la renuncia a la subvención que tuviera asignada el proyecto.
+
+> Se modifica por el apartado segundo.11 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Decimotercero. Ejecución de las obras.
+
+1\. Corresponde a las entidades beneficiarias la obligación de ejecutar las obras de forma acorde con el proyecto aceptado y con pleno respeto a las condiciones y plazos señalados en esta orden.
+
+En particular, tanto en la definición del objeto de los contratos o encargos, como en su ejecución, las entidades beneficiarias deberán tener presentes las reglas estipuladas en los apartados segundo, cuarto, quinto y quinto bis y velar por su estricto cumplimiento. El incumplimiento de estas reglas se considerará causa de reintegro a los efectos previstos en el artículo 37.1 de la Ley 38/2003, de 17 de noviembre.
+
+2\. A los efectos del artículo 29 de la Ley 38/2003, de 17 de noviembre, las entidades beneficiarias quedan plenamente autorizadas para formalizar encargos a medios propios personificados o contratos administrativos sujetos a la Ley 9/2017, de 8 de noviembre.
+
+3\. En el caso de que se establezcan mejoras como criterio de adjudicación del contrato, entendiendo como tales las prestaciones adicionales a las que figuraban definidas en el proyecto objeto de licitación, éstas se deberán cuantificar económicamente de forma expresa, no siendo financiables por estas subvenciones.
+
+4\. La entidad beneficiaria deberá tener plena disponibilidad de los terrenos precisos para la ejecución de las obras y disponer de todos los permisos, licencias y autorizaciones que resultasen necesarios para su correcta ejecución, asumiendo cualquier tipo de responsabilidad que se pudiera derivar del incumplimiento total o parcial de estas obligaciones.
+
+5\. En cualquier momento del plazo de ejecución, el Comisionado podrá solicitar la emisión de informes técnicos o periciales, o realizar las comprobaciones que sean procedentes a fin de evaluar el cumplimiento de las reglas establecidas en este apartado.
+
+> Se modifican los puntos 1 y 5 por el apartado segundo.12 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Decimocuarto. Pago de la subvención.
+
+1\. El libramiento de la subvención se realizará por anticipado. Una vez aceptadas las subvenciones se efectuará el pago anticipado del 100 por cien de la subvención concedida a la respectiva entidad beneficiaria.
+
+Dada la condición de Administración Pública de las entidades beneficiarias, no se establece régimen alguno de garantía. Los intereses que se pudieran devengar por la subvención recibida hasta el momento del gasto se deberán imputar al objeto de la subvención previsto en esta orden.
+
+Las entidades beneficiarias deberán aportar la correspondiente carta de pago en el plazo de los diez días siguientes al libramiento de la subvención efectuada en esta fase.
+
+2\. Las subvenciones se conceden con cargo a la aplicación 22.02.929D.760.01 de los Presupuestos Generales del Estado.
+
+## Decimoquinto. Adjudicación de las obras.
+
+1\. En el plazo máximo de los nueve meses siguientes a la aceptación del proyecto por el Comisionado, las entidades beneficiarias comunicarán a través de la aplicación “ALBA-DANA2024” la relación de los contratos o encargos de obra mediante los que van a ejecutar el proyecto. Dicha comunicación, se efectuará a través de una declaración responsable, emitida por la respectiva entidad beneficiaria en el sistema informático. En ella se especificarán, entre otros, los siguientes datos:
+
+a) Objeto del contrato o encargo.
+
+b) Valor estimado del contrato.
+
+c) Presupuesto base de licitación (con impuestos).
+
+d) CPV.
+
+e) Calificación del tipo.
+
+f) Órgano de contratación.
+
+g) Tipo de procedimiento.
+
+h) Tipo de tramitación.
+
+i) Fecha del acuerdo de adjudicación/encargo.
+
+j) Nombre del adjudicatario/medio propio.
+
+k) NIF del adjudicatario/medio propio.
+
+l) Importe de adjudicación (IVA incluido).
+
+m) Aplicación presupuestaria a la que se imputa el contrato/encargo.
+
+n) Fecha prevista de finalización del contrato/encargo.
+
+Si se presentasen gastos correspondientes a elaboración de proyectos de obras, dirección de obra o coordinación en materia de seguridad y salud durante la ejecución de la obra, se aportarán los datos relativos a los respectivos contratos o encargos.
+
+Igualmente, en la declaración responsable se informará sobre las fuentes de financiación del proyecto. De prestarse algún servicio gestionado indirectamente, se deberá aportar declaración responsable suscrita por el representante legal de la entidad gestora, con todas las ayudas, subvenciones, ingresos o recursos que hubiera solicitado u obtenido de cualquier Administración, organismo o entidad pública o privada, nacional o internacional, para la reparación, restitución o reconstrucción de las infraestructuras, equipamientos o instalaciones que gestione en ese municipio, detallando el objeto de las mismas.
+
+Asimismo, se aportará informe de la intervención de la entidad local, en el que se indicará el código único e invariable que tiene atribuido el proyecto de gasto a lo largo de su vida, en los términos establecidos en la Instrucción de contabilidad local de aplicación.
+
+2\. La falta de remisión de la declaración responsable de adjudicación en el plazo y forma señalados dará lugar al reintegro de la totalidad de la subvención asignada al proyecto del que se trate, en aplicación del artículo 37.1.f) de la Ley 38/2003, de 17 de noviembre.
+
+> Se modifica el párrafo primero del punto 1 por el apartado segundo.13 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Decimosexto. Plazo de ejecución de los proyectos.
+
+Las obras deberán quedar terminadas en el plazo máximo de veinticuatro meses a partir de la fecha en la que el Comisionado haya validado en la aplicación “ALBA-DANA2024” la integridad y congruencia de la comunicación de la adjudicación de las obras indicada en el apartado anterior.
+
+En el caso de los contratos menores, el plazo de ejecución no podrá exceder del plazo previsto en el artículo 29 de la Ley 9/2017, de 8 de noviembre.
+
+> Se modifica por el apartado segundo.14 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Decimoséptimo. Justificación.
+
+1\. En el plazo máximo de los tres meses siguientes a la finalización del plazo de ejecución del proyecto las entidades beneficiarias presentarán, a través de la aplicación «ALBA-DANA2024», la documentación justificativa del proyecto. A tal efecto aportarán:
+
+a) Certificación acreditativa de los siguientes extremos de cada uno de los contratos o encargos mediante los que han ejecutado el respectivo proyecto:
+
+1.º Fecha de finalización.
+
+2.º Fecha del acta de recepción.
+
+3.º Importe total certificado.
+
+4.º Importe materialmente pagado.
+
+5.º Fecha de realización del último pago.
+
+b) Informe emitido por la intervención de la entidad local beneficiaria, que acredite la veracidad y la regularidad de la documentación justificativa de la subvención.
+
+c) Declaración responsable suscrita por la persona titular del órgano competente para representar a la entidad local beneficiaria, en la que se acredite la realización de las obras contempladas en el proyecto y el cumplimiento de la finalidad de la subvención.
+
+d) Certificado de las fuentes de financiación, que acredite el cumplimiento de lo establecido en el artículo 19.3 de la Ley 38/2003, de 17 de noviembre.
+
+e) De prestarse algún servicio gestionado indirectamente, se deberá aportar declaración responsable suscrita por el representante legal de la entidad gestora, con todas las ayudas, subvenciones, ingresos o recursos que hubiera solicitado u obtenido de cualquier Administración, organismo o entidad pública o privada, nacional o internacional, para la reparación, restitución o reconstrucción de las infraestructuras, equipamientos o instalaciones que gestione en ese municipio, detallando el objeto de las mismas.
+
+f) Una fotografía representativa de la respectiva infraestructura, equipamiento o instalación y servicio, obtenida una vez recibidas las obras.
+
+El Comisionado, a través de la Oficina de Coordinación e Impulso de la Ejecución de las Ayudas, podrá requerir la presentación de la documentación adicional que fuera precisa en aras a determinar el cumplimiento de los requisitos estipulados en esta orden.
+
+2\. Comprobada la adecuada justificación de la subvención y el cumplimiento de su objeto, el órgano competente determinará el importe definitivo de subvención que corresponde al proyecto justificado, teniendo en cuenta el importe de los gastos elegibles que han resultado validados, la subvención máxima asignada al proyecto y los límites previstos en el apartado sexto de esta orden.
+
+Sin perjuicio de lo dispuesto en el apartado vigésimo, a efectos del artículo 37.1.c) de la Ley 38/2003, de 17 de noviembre, procederá el reintegro de la subvención percibida por el importe de la subvención asignada al proyecto que no hubiera sido adecuadamente justificado.
+
+3\. Transcurrido el plazo establecido de justificación sin haberse presentado la misma, el Comisionado requerirá a la entidad beneficiaria para que en el plazo improrrogable de quince días la presente. La falta de presentación en ese plazo llevará consigo las consecuencias a las que se refiere el artículo 70.3 del Reglamento de la Ley General de Subvenciones.
+
+> Se modifica el párrafo final del punto 1 y el punto 3 por el apartado segundo.15 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Decimoctavo. Ampliación de plazos.
+
+1\. El Comisionado podrá acordar, de oficio o a petición motivada de las entidades beneficiarias, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero, hasta dos ampliaciones del plazo establecido en el apartado décimo que no excedan, cada una de ellas, de seis meses.
+
+2\. El Comisionado podrá acordar, de oficio o a petición motivada de las entidades beneficiarias basada en las características de las obras a ejecutar o en la concurrencia de circunstancias excepcionales, una ampliación de los plazos establecidos en los apartados decimoquinto, decimosexto y decimoséptimo, que no exceda de:
+
+a) Apartado decimoquinto, adjudicación de las obras: nueve meses.
+
+b) Apartado decimosexto, plazo de ejecución de los proyectos: veinticuatro meses.
+
+c) Apartado decimoséptimo, justificación: dos meses.
+
+> Se modifica por el apartado segundo.16 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Decimonoveno. Actuaciones de comprobación y control.
+
+Las entidades beneficiarias de estas ayudas deberán someterse a las actuaciones de comprobación y control que puedan realizar los órganos de control competentes, aportando para ello cuanta información les sea requerida.
+
+Las entidades beneficiarias están obligadas a conservar los documentos justificativos de la aplicación de los fondos recibidos, incluidos los documentos electrónicos, en tanto puedan ser objeto de las actuaciones de comprobación y control.
+
+## Vigésimo. Reintegros.
+
+1\. Procederá el reintegro de las cantidades percibidas y la exigencia del interés de demora correspondiente desde el momento del pago, en caso de no aplicar la subvención a su objeto dentro de los plazos establecidos en esta orden, así como en los restantes supuestos que se contemplan en el artículo 37 de la Ley 38/2003, de 17 de noviembre, y en todos los que se enuncian en esta orden.
+
+2\. En caso de incumplimiento del plazo de ejecución, el reintegro se limitará al porcentaje de inversión no ejecutada en plazo, siempre que la entidad local acredite en la ejecución de la inversión subvencionada una actitud diligente e inequívocamente tendente a la satisfacción de los compromisos asumidos con motivo de la obtención de la ayuda económica. En todo caso, se considerará que ha actuado de manera diligente si, iniciado el procedimiento de reintegro correspondiente, acredita la finalización total de la obra.
+
+3\. Procederá el reintegro de la subvención por el importe de las facturas o certificaciones de obra que no hayan sido efectivamente pagadas dentro del plazo de justificación.
+
+4\. El incumplimiento de las medidas de publicidad de la subvención dará lugar al reintegro del cinco por ciento de la subvención que corresponda al respectivo proyecto.
+
+5\. El incumplimiento de las obligaciones de destino que se estipulan en el apartado cuarto será causa de reintegro.
+
+> Se añade el punto 5 por el apartado segundo.17 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Vigesimoprimero. Devolución a iniciativa del perceptor.
+
+La entidad beneficiaria podrá proceder, previa resolución de su representante legal, a la devolución voluntaria de la subvención percibida a favor del Tesoro Público.
+
+La devolución se deberá efectuar utilizando el documento de ingreso que les proporcionará la Oficina de Coordinación e Impulso de la Ejecución de las Ayudas.
+
+Cuando esta se produzca, la citada Oficina calculará los intereses de demora de acuerdo con lo previsto en el artículo 38 de la Ley 38/2003, de 17 de noviembre, y hasta el momento en que se produjo la devolución efectiva por parte de la entidad.
+
+> Se modifica por el apartado segundo.18 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Vigesimosegundo. Infracciones y sanciones.
+
+El régimen de infracciones y sanciones aplicable será el establecido en el título IV de la Ley 38/2003, de 17 de noviembre.
+
+## Vigesimotercero. Seguimiento de las subvenciones.
+
+1\. Se crea una comisión que verificará el cumplimiento de las previsiones contenidas en esta orden, a fin de impulsar y asegurar el desarrollo de las actuaciones hasta su total ejecución. La comisión estará integrada por las personas titulares de los siguientes órganos:
+
+Presidencia: Comisionado especial para la reconstrucción y reparación de los daños provocados por la DANA en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.
+
+Vocales:
+
+a) Oficina de Coordinación e Impulso de la Ejecución de las Ayudas.
+
+b) Oficina de Relaciones Institucionales.
+
+c) Alcaldía o Presidencia de las entidades beneficiarias.
+
+En el caso de ausencia o enfermedad y, en general, cuando concurra alguna causa justificada, serán suplidos por las personas designadas por aquellos. En estos supuestos, los representantes de la Administración local deberán tener, en todo caso, la condición de miembro de corporación local.
+
+2\. Una persona nombrada por la persona titular del Comisionado, entre el personal funcionario de la Oficina de Coordinación e Impulso de la Ejecución de las Ayudas, ejercerá las funciones de secretaría de la comisión, con voz y sin voto.
+
+3\. La persona que ejerza la presidencia podrá convocar a las sesiones de la comisión a otros representantes de la Administración General del Estado, comunidades autónomas, entidades locales y organismos o entidades públicas, cuando por la índole de los asuntos que se vayan a tratar resulte procedente. Todos ellos asistirán a las sesiones con voz, pero sin voto.
+
+4\. El régimen de funcionamiento de la comisión de seguimiento se regirá por lo previsto en el artículo 15 y siguientes de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+5\. La constitución y funcionamiento de la comisión no supondrá incremento del gasto público y será atendida con los medios materiales y personales de sus integrantes.
+
+> Se modifican los puntos 1 y 2 por el apartado segundo.19 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Vigesimocuarto. Publicidad de las subvenciones.
+
+1\. Las entidades beneficiarias reconocerán la financiación de la Administración General del Estado, a través del Ministerio de Política Territorial y Memoria Democrática, utilizando la imagen contenida en el Manual de Identidad Visual o de Imagen Institucional que se determine por parte del órgano competente de la Administración General del Estado en la adopción de las medidas de publicidad que se señalan en este apartado.
+
+2\. A partir de la aceptación de un proyecto por parte del Comisionado:
+
+a) En todas las medidas de publicidad o difusión que las administraciones locales interesadas pudieran realizar sobre el proyecto o sobre cualquier obra del mismo, harán constar que el proyecto está financiado por la Administración General del Estado, a través del Ministerio de Política Territorial y Memoria Democrática, y la aportación financiera asignada.
+
+b) Se deberá colocar un cartel a pie de obra o, en su caso, modificar el existente, en el que se informe que las obras están financiadas por la Administración General del Estado, a través del Ministerio de Política Territorial y Memoria Democrática, así como la aportación financiera asignada. Dicho cartel deberá permanecer a pie de obra hasta la justificación de la subvención.
+
+3\. A partir de la puesta en servicio de la obra objeto de financiación, la entidad beneficiaria deberá colocar en un lugar visible de la infraestructura, equipamiento o instalación una placa o elemento informativo permanente, en el que se informe que la obra ha sido financiada por la Administración General del Estado, a través del Ministerio de Política Territorial y Memoria Democrática, y la aportación financiera recibida. Dicha placa o elemento informativo deberá permanecer en la infraestructura durante un periodo no inferior a cinco años a partir de su colocación.
+
+4\. En todos los contratos o encargos relacionados con la ejecución del proyecto, las entidades beneficiarias deberán hacer constar que recibe financiación de la Administración General del Estado, a través del Ministerio de Política Territorial y Memoria Democrática. Tal mención también deberá ser incluida en todos los documentos que sustenten el procedimiento de contratación o encargo del proyecto, incluidas las facturas.
+
+5\. Las entidades beneficiarias habrán de prever mecanismos para asegurar que los contratistas o medios propios den efectivo cumplimiento a todas las obligaciones de publicidad contempladas en este apartado en la parte que les corresponda.
+
+Con el fin de asegurar una adecuada comunicación y transparencia, las entidades beneficiarias deberán proporcionar información, a través de los mecanismos que a tal efecto se establezcan por el Comisionado, sobre la publicación de cualquier anuncio, presentación o publicación en relación con las obras financiadas o que se prevea financiar con esta subvención.
+
+Las entidades que hayan sido beneficiarias de subvenciones designarán un responsable de comunicación a fin de asegurar el cumplimiento de los requerimientos establecidos en este apartado, sobre la base de las directrices que dé el Comisionado.
+
+Deberá comunicarse su nombre, apellidos, cargo y datos de contacto (correo electrónico y teléfono móvil).
+
+6\. Ante el incumplimiento de las medidas de publicidad de la subvención por parte del beneficiario, se procederá en los términos que se prevén en el artículo 31.3 del Reglamento de la Ley General de Subvenciones.
+
+7\. No desarrollar las medidas de difusión, se considerará causa de reintegro por incumplimiento de las obligaciones de la entidad beneficiaria, en los términos previstos en el artículo 37 de la Ley 38/2003, de 17 de noviembre, todo ello, sin perjuicio de las responsabilidades que pudieran corresponder por aplicación del régimen previsto en el título IV de la citada ley.
+
+> Se modifica el primer párrafo del punto 2 y el punto 5 por el apartado segundo.20 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Vigesimoquinto. Información sobre las subvenciones.
+
+El Ministerio de Política Territorial y Memoria Democrática habilitará un espacio específico en su portal de internet https://www.mpt.gob.es (Subvenciones a Entidades Locales) en el que se difundirá información sobre estas subvenciones.
+
+## Vigesimosexto. Publicación de la orden.
+
+Se ordena la publicación de esta orden en el «Boletín Oficial del Estado» y en el portal de internet del Ministerio de Política Territorial y Memoria Democrática https://www.mpt.gob.es/ *(vid.* Subvenciones a Entidades Locales).
+
+Igualmente, estas subvenciones serán objeto de publicidad en la Base de Datos Nacional de Subvenciones, de conformidad con lo establecido en el Real Decreto 130/2019, de 8 de marzo, por el que se regula la Base de Datos Nacional de Subvenciones y la publicidad de las subvenciones y demás ayudas públicas.
+
+## Vigesimoséptimo. Grupo TRAGSA.
+
+De acuerdo con la disposición adicional octava del Real Decreto-ley 6/2024, de 5 de noviembre, las entidades locales podrán formalizar encargos al Grupo TRAGSA para la ejecución de los proyectos financiados con cargo a estas subvenciones.
+
+## Vigesimoctavo. Instrucciones de cumplimiento.
+
+Se autoriza al Comisionado para, mediante resolución, aprobar cuantas instrucciones sean precisas para el cumplimiento de lo establecido en esta orden. Las instrucciones se publicarán en el portal de internet del Ministerio de Política Territorial y Memoria Democrática y, en su caso, en el “Boletín Oficial del Estado”, cuando se aprecie interés público en ello por el Comisionado.
+
+> Se modifica por el apartado segundo.21 de la Orden TMD/1586/2025, de 29 de diciembre. [Ref. BOE-A-2026-605](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-605)
+
+## Vigesimonoveno. Acreditación de los requisitos previstos en el artículo 34.5 de la Ley 38/2003, de 17 de noviembre.
+
+De acuerdo con la disposición adicional novena del Real Decreto-ley 6/2024, de 5 de noviembre, las entidades beneficiarias quedan exceptuadas del requisito de hallarse al corriente en el cumplimiento de las obligaciones tributarias o frente a la Seguridad Social establecido en el artículo 34.5 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+La acreditación del cumplimiento de obligaciones por reintegro de subvenciones se realizará mediante declaración responsable de la entidad beneficiaria.
+
+## Trigésimo. Fin a la vía administrativa y recursos.
+
+Esta orden pone fin a la vía administrativa.
+
+Contra ella se podrá formular, ante la persona titular del Ministerio de Política Territorial y Memoria Democrática, potestativamente y con carácter previo a la interposición de recurso contencioso-administrativo, requerimiento para su anulación o revocación, en los términos previstos en el artículo 44 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, en el plazo de dos meses contados a partir del día siguiente al de su publicación en el «Boletín Oficial del Estado». Dicho requerimiento se entenderá rechazado si, dentro del mes siguiente a su recepción, no fuera contestado.
+
+Asimismo, de conformidad con lo dispuesto en los artículos 11.1.a) y 46 de la Ley 29/1998, de 13 de julio, se podrá interponer directamente recurso contencioso-administrativo ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional, en el plazo de dos meses contados a partir del día siguiente a aquel en que tenga lugar la publicación de esta orden o, en caso de haber interpuesto el requerimiento indicado en el párrafo anterior, a aquél en que se reciba la comunicación del acuerdo expreso o se entienda presuntamente rechazado.
+
+Todo ello, sin perjuicio de que la entidad beneficiaria pueda ejercitar, en su caso, cualquier otro que estime procedente.
+
+Madrid, 31 de enero de 2025.–El Ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres Pérez.
+
+## ANEXO I — Relación de entidades beneficiarias de las subvenciones e importe concedido
+
+<table class="tabla">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Provincia</th>
+<th class="cabeza_tabla">Entidad beneficiaria</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Importe de subvención concedido</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Euros</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Albacete.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Letur.</td>
+<td class="cuerpo_tabla_coma">10.961.823,45</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cuenca.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Mira.</td>
+<td class="cuerpo_tabla_coma">11.761.602,33</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Málaga.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Alhaurín de la Torre.</td>
+<td class="cuerpo_tabla_coma">1.634.183,81</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Alaquàs.</td>
+<td class="cuerpo_tabla_coma">7.800.592,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Albal.</td>
+<td class="cuerpo_tabla_coma">29.989.044,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Albalat de la Ribera.</td>
+<td class="cuerpo_tabla_coma">1.874.466,47</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Alborache.</td>
+<td class="cuerpo_tabla_coma">6.936.661,57</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Alcàsser.</td>
+<td class="cuerpo_tabla_coma">2.111.831,24</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Alcúdia, l'.</td>
+<td class="cuerpo_tabla_coma">37.378.723,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Aldaia.</td>
+<td class="cuerpo_tabla_coma">39.545.627,94</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Alfafar.</td>
+<td class="cuerpo_tabla_coma">35.307.142,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Alfarb.</td>
+<td class="cuerpo_tabla_coma">6.786.085,06</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Algemesí.</td>
+<td class="cuerpo_tabla_coma">127.709.035,77</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Alginet.</td>
+<td class="cuerpo_tabla_coma">22.139.510,22</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Almussafes.</td>
+<td class="cuerpo_tabla_coma">75.722,63</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Alzira.</td>
+<td class="cuerpo_tabla_coma">20.907.189,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Benetússer.</td>
+<td class="cuerpo_tabla_coma">48.718.549,83</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Benicull de Xúquer.</td>
+<td class="cuerpo_tabla_coma">280.233,30</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Benifaió.</td>
+<td class="cuerpo_tabla_coma">597.589,56</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Beniparrell.</td>
+<td class="cuerpo_tabla_coma">5.353.301,15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Bugarra.</td>
+<td class="cuerpo_tabla_coma">7.560.899,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Buñol.</td>
+<td class="cuerpo_tabla_coma">14.528.552,14</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Calles.</td>
+<td class="cuerpo_tabla_coma">3.518.298,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Camporrobles.</td>
+<td class="cuerpo_tabla_coma">3.500.125,08</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Carlet.</td>
+<td class="cuerpo_tabla_coma">13.155.895,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Catadau.</td>
+<td class="cuerpo_tabla_coma">2.059.667,86</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Catarroja.</td>
+<td class="cuerpo_tabla_coma">138.097.936,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Caudete de las Fuentes.</td>
+<td class="cuerpo_tabla_coma">1.383.569,93</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Chera.</td>
+<td class="cuerpo_tabla_coma">4.372.298,12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Cheste.</td>
+<td class="cuerpo_tabla_coma">14.381.417,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Chiva.</td>
+<td class="cuerpo_tabla_coma">36.233.740,28</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Corbera.</td>
+<td class="cuerpo_tabla_coma">1.023.856,01</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Cullera.</td>
+<td class="cuerpo_tabla_coma">8.596.688,46</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Dos Aguas.</td>
+<td class="cuerpo_tabla_coma">1.897.224,46</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Favara.</td>
+<td class="cuerpo_tabla_coma">8.039.553,53</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Fortaleny.</td>
+<td class="cuerpo_tabla_coma">235.881,90</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Fuenterrobles.</td>
+<td class="cuerpo_tabla_coma">4.296.783,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Gestalgar.</td>
+<td class="cuerpo_tabla_coma">8.263.814,46</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Godelleta.</td>
+<td class="cuerpo_tabla_coma">16.791.184,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Guadassuar.</td>
+<td class="cuerpo_tabla_coma">5.960.317,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Llaurí.</td>
+<td class="cuerpo_tabla_coma">26.960,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Llíria.</td>
+<td class="cuerpo_tabla_coma">1.401.786,01</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Llocnou de la Corona.</td>
+<td class="cuerpo_tabla_coma">185.550,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Llombai.</td>
+<td class="cuerpo_tabla_coma">3.342.197,86</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Loriguilla.</td>
+<td class="cuerpo_tabla_coma">4.040.075,66</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Macastre.</td>
+<td class="cuerpo_tabla_coma">2.383.701,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Manises.</td>
+<td class="cuerpo_tabla_coma">23.240.617,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Massanassa.</td>
+<td class="cuerpo_tabla_coma">54.857.171,94</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Mislata.</td>
+<td class="cuerpo_tabla_coma">7.204.003,46</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Montroi.</td>
+<td class="cuerpo_tabla_coma">9.341.760,44</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Montserrat.</td>
+<td class="cuerpo_tabla_coma">27.163.203,42</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Paiporta.</td>
+<td class="cuerpo_tabla_coma">201.450.522,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Paterna.</td>
+<td class="cuerpo_tabla_coma">9.051.040,70</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Pedralba.</td>
+<td class="cuerpo_tabla_coma">5.136.366,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Picanya.</td>
+<td class="cuerpo_tabla_coma">71.108.466,53</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Picassent.</td>
+<td class="cuerpo_tabla_coma">15.726.307,41</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Polinyà de Xúquer.</td>
+<td class="cuerpo_tabla_coma">986.472,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Quart de Poblet.</td>
+<td class="cuerpo_tabla_coma">32.100.004,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Real.</td>
+<td class="cuerpo_tabla_coma">31.322.768,24</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Requena.</td>
+<td class="cuerpo_tabla_coma">35.072.742,23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Riba-roja de Túria.</td>
+<td class="cuerpo_tabla_coma">14.553.099,88</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Riola.</td>
+<td class="cuerpo_tabla_coma">2.453.070,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Sedaví.</td>
+<td class="cuerpo_tabla_coma">41.503.530,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Siete Aguas.</td>
+<td class="cuerpo_tabla_coma">7.600.727,94</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Silla.</td>
+<td class="cuerpo_tabla_coma">6.600.077,39</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Sinarcas.</td>
+<td class="cuerpo_tabla_coma">10.191.178,15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Sollana.</td>
+<td class="cuerpo_tabla_coma">10.696.578,43</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Sot de Chera.</td>
+<td class="cuerpo_tabla_coma">11.021.008,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Sueca.</td>
+<td class="cuerpo_tabla_coma">1.077.450,36</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Tavernes de la Valldigna.</td>
+<td class="cuerpo_tabla_coma">2.761.373,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Torrent.</td>
+<td class="cuerpo_tabla_coma">114.490.134,79</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Turís.</td>
+<td class="cuerpo_tabla_coma">9.450.788,35</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Utiel.</td>
+<td class="cuerpo_tabla_coma">46.385.969,71</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Valencia.</td>
+<td class="cuerpo_tabla_coma">137.235.467,22</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Vilamarxant.</td>
+<td class="cuerpo_tabla_coma">9.851.955,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Xirivella.</td>
+<td class="cuerpo_tabla_coma">10.475.400,22</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Ayuntamiento de Yátova.</td>
+<td class="cuerpo_tabla_coma">7.580.702,04</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valencia/València.</td>
+<td class="cuerpo_tabla_izq">Diputación Provincial de Valencia.</td>
+<td class="cuerpo_tabla_coma">54.473.250,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2"> Total.</td>
+<td class="cuerpo_tabla_coma" colspan="2">1.745.310.104,41</td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO II — Modelo de aceptación de la ayuda
+
+Don/Doña (nombre y apellidos) .................................................................................., en calidad de (órgano de la entidad local que ejerce)* .................................................... de (denominación oficial de la entidad local) ................................................., comparezco en nombre y representación de esta entidad local y
+
+<sup>* </sup>La presente aceptación deberá ser suscrita por la persona titular de la alcaldía o presidencia de la entidad local, o por un miembro de la corporación local (en tal caso, se deberá hacer referencia expresa al acuerdo de delegación de competencias).
+
+Considerando que mediante orden del Ministerio de Política Territorial y Memoria Democrática se ha concedido a esta entidad local una subvención para financiar las obras de reparación, restitución o reconstrucción de infraestructuras, equipamientos o instalaciones y servicios de titularidad municipal o de la red viaria provincial, de los daños causados por la Depresión Aislada en Niveles Altos (DANA) entre el 28 de octubre y el 4 de noviembre de 2024, al amparo del artículo 5 del Real Decreto-ley 6/2024, de 5 de noviembre.
+
+En ejercicio de las competencias que me corresponden en virtud de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local y a los efectos previstos en el apartado séptimo de la orden de concesión expresada, mediante la presente declaro que:
+
+Esta entidad local acepta sin reserva alguna todas las obligaciones recogidas en la orden de concesión de estas subvenciones y asume todas las condiciones y compromisos establecidos en la misma, así como los restantes que le correspondan en su condición de entidad beneficiaria, en aplicación de la Ley 38/2003, de 17 de noviembre, y del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, aprobado por Real Decreto 887/2006, de 21 de julio.
+
+Y para que conste expido la presente en .................................... (lugar, fecha y firma).
+
+● ● ●
+
+Diligencia de la Secretaría de Estado de Política Territorial: se acusa recibo de la aceptación de la subvención que formula la entidad beneficiaria y se toma razón a los efectos previstos en el apartado séptimo de la orden de concesión.
+
+En .......................................... (lugar, fecha y firma).

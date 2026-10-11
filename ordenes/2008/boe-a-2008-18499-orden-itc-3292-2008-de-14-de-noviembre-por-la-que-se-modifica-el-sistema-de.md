@@ -1,0 +1,117 @@
+---
+title: "Orden ITC/3292/2008, de 14 de noviembre, por la que se modifica el sistema de determinación automática de las tarifas de venta, antes de impuestos, de los gases licuados del petróleo por canalización"
+identifier: "BOE-A-2008-18499"
+eli: "https://www.boe.es/eli/es/o/2008/11/14/itc3292"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2008-11-14
+published: 2008-11-17
+in_force_from: 2008-11-18
+last_amended: 2015-03-09
+consolidated: 2026-09-14
+gazette: "Boletín Oficial del Estado núm. 277"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-18499"
+retrieved: 2026-10-11
+---
+
+# Orden ITC/3292/2008, de 14 de noviembre, por la que se modifica el sistema de determinación automática de las tarifas de venta, antes de impuestos, de los gases licuados del petróleo por canalización
+
+El artículo 94 de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, dispone que el Ministro de Industria, Turismo y Comercio, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, podrá dictar las disposiciones necesarias para el establecimiento de las tarifas de venta de los gases licuados del petróleo (GLP) por canalización para los consumidores finales, así como los precios de cesión de gases licuados de petróleo para los distribuidores de gases combustibles por canalización, estableciendo los valores concretos de dichas tarifas y precios o un sistema de determinación y actualización automática de las mismas.
+
+El Real Decreto 1085/1992, de 11 de septiembre, por el que se aprueba el reglamento de la actividad de distribución de gases licuados del petróleo, regula las actividades de comercialización al por mayor y al por menor de los GLP y las condiciones del suministro a consumidores finales.
+
+Al amparo de estas previsiones legales, está en vigor la Orden de 16 de julio de 1998, por la que se actualizan los costes de comercialización del sistema de determinación automática de precios máximos de venta, antes de impuestos, de los gases licuados del petróleo, y se liberalizan determinados suministros, modificada por la disposición adicional única de la Orden ITC/1968/2007, de 2 de julio, por la que se actualiza el sistema de determinación automática de precios máximos de venta, antes de impuestos, de los gases licuados del petróleo envasados y se modifican determinadas disposiciones en materia de hidrocarburos.
+
+Mediante la presente orden se actualiza el sistema de determinación de las tarifas de venta de los gases licuados del petróleo por canalización, modificando los fletes, y actualizando los costes de comercialización.
+
+Además, se establece una fórmula que se empleará para la revisión anual de los costes de comercialización en función de parámetros representativos de la evolución de estos costes y de las ganancias de productividad.
+
+De acuerdo con la disposición adicional undécima de la Ley 34/1998, de 7 de octubre, la Comisión Nacional de Energía ha participado en el proceso de elaboración de esta orden mediante las propuestas emitidas en su informe denominado «Estudio sobre los costes de comercialización del GLP canalizado», de fecha 22 de octubre de 2008.
+
+La Comisión Delegada del Gobierno para Asuntos Económicos ha autorizado al Ministro de Industria, Turismo y Comercio a dictar la presente orden en su reunión del día 13 de noviembre de 2008.
+
+En su virtud, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dispongo:
+
+## Primero. Modificación del sistema de determinación de las tarifas de venta para el GLP canalizado.
+
+1\. La cotización internacional y el flete a que hace referencia el apartado primero de la Orden del Ministerio de Industria y Energía de 16 de julio de 1998, por la que se actualizan los costes de comercialización del sistema de determinación automática de precios máximos de venta, antes de impuestos, de los gases licuados del petróleo y se liberalizan determinados suministros, se revisarán mensualmente utilizando la siguiente fórmula:
+
+![Imagen: /datos/imagenes/disp/2015/58/02495_6548.png](https://www.boe.es/datos/imagenes/disp/2015/58/02495_6548.png)
+
+En la que*:*
+
+• CMP<sub>n</sub> = Suma de los términos de cotización internacional y flete aplicables a los suministros de GLP canalizado, correspondientes al mes n, expresados en euros por kilogramo.
+
+• n = Cada uno de los meses del año.
+
+• C<sub>but,n</sub> = 20 % de la cotización del butano FOB Mar del Norte (Argus North Sea Index, publicado por Argus en el “Argus International LPG") y 80 % de la cotización del butano FOB Argelia (Algerian Postings-Butane FOB Argelia CP, publicado por Platt´s en el “LPGASWIRE"), correspondientes al mes n, en dólares por tonelada.
+
+• C<sub>pro,n</sub> = 20 % de la cotización del propano FOB Mar del Norte (Argus North Sea Index, publicado por Argus en el “Argus International LPG") y 80 % de la cotización del propano FOB Argelia (Algerian Postings-Propane FOB Bethouia CP, publicado por Platt´s en el “LPGASWIRE"), correspondientes al mes n, en dólares por tonelada.
+
+• F<sub>n</sub> = 80 % del flete medio de la ruta Algeria-Med y 20 % del flete medio de la ruta North Sea-Med, correspondientes al mes n, ambos publicados por Poten and Partners en el “LPG in World Markets", en dólares por tonelada.
+
+• e<sub>n</sub> = Media del cambio dólar/euro mensual publicado por el Banco Central Europeo correspondiente al mes n.
+
+En caso de no disponerse de alguna de las referencias internacionales citadas anteriormente, se utilizará el último valor disponible de la misma aplicándole el porcentaje de variación seguido, en el mismo periodo, por la cotización del butano o del propano FOB Arabia Saudí (Contract Price S. Arabia, publicado por Platts en el “LPGASWIRE") o el Flete medio de la ruta Arabian Gulf-Med para buques de 56.000-84.000 metros cúbicos, publicada por Poten and Partners en el LPG in World Markets, según corresponda.
+
+2\. Los costes de comercialización a que hace referencia la Orden de 16 de julio de 1998, se revisarán anualmente, en el mes de julio de cada año, utilizando la siguiente fórmula:
+
+∆CC<sub>a</sub> = 0,04· FE· ∆Pgasóleo,k
+
+ΔCC<sub>a</sub> = Variación de los costes de comercialización que se aplicará en el año “a" a los términos fijo y variable de los costes de comercialización a usuarios finales y al coste de comercialización a empresas distribuidoras de GLP por canalización.
+
+a = año natural de actualización de CC.
+
+FE = Factor de eficiencia que será igual a 0,85.
+
+ΔP<sub>gasóleo,k</sub> = Variación del precio del gasóleo de automoción medio de abril de cada año en relación al mismo mes del año anterior, de acuerdo con el Boletín Estadístico de Hidrocarburos publicado por la Corporación de Reservas Estratégicas de Productos Petrolíferos (CORES).
+
+> Se modifica por la disposición final 2.1 de la Orden IET/389/2015, de 5 de marzo. [Ref. BOE-A-2015-2495](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-2495).
+
+## Disposición transitoria primera. Determinación inicial del precio y de los costes de comercialización.
+
+1\. Desde las cero horas del día de entrada en vigor de esta orden, y en tanto no sean modificados por resolución del Director General de Política Energética y Minas, según lo dispuesto en la Orden de 16 de julio de 1998, por la que se actualizan los costes de comercialización del sistema de determinación automática de precios máximos de venta, antes de impuestos, de los gases licuados del petróleo y se liberalizan determinados suministros, los precios máximos de venta, antes de impuestos, serán los que se indican a continuación según modalidad de suministro:
+
+a) Precios aplicables a consumidores finales de GLP por canalización:
+
+Término fijo: 1,50 euros por cliente y mes.
+
+Término variable: 0,717370 euros por kilogramo.
+
+b) Precios aplicables a distribuidoras de GLP por canalización: 0,578801 euros por kilogramo.
+
+2\. Desde las cero horas del día de entrada en vigor de esta orden, y en tanto no sean modificados por resolución del Director General de Política Energética y Minas, los costes de comercialización que deberán considerarse para la determinación futura de los precios serán los que se indican a continuación según modalidad de suministro:
+
+a) Costes de comercialización aplicables a consumidores finales de GLP por canalización:
+
+Término fijo: 1,50 euros por cliente y mes.
+
+Término variable: 0,341603 euros por kilogramo.
+
+b) Coste de comercialización aplicable a distribuidoras de GLP por canalización: 0,203034 euros por kilogramo.
+
+> Se numera por la disposición final 2.2 de la Orden IET/389/2015, de 5 de marzo. [Ref. BOE-A-2015-2495](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-2495).
+
+> Su anterior denominación era disposición transitoria única.
+
+## Disposición transitoria segunda. Precio de los gases licuados del petróleo para empresas distribuidoras de gases manufacturados y/o aire propanado en territorios insulares.
+
+En los territorios insulares en los que la disposición transitoria vigésima de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, sea de aplicación, el precio de venta de los suministros de gases licuados del petróleo a granel a empresas distribuidoras de gases licuados del petróleo por canalización se aplicará también a los suministros con destino a empresas distribuidoras de gases manufacturados y/o aire propanado por canalización.»
+
+> Se añade por la disposición final 2.2 de la Orden IET/389/2015, de 5 de marzo. [Ref. BOE-A-2015-2495](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-2495).
+
+## Disposición derogatoria única. Derogación normativa.
+
+1\. Queda derogada la disposición adicional única de la Orden ITC/1968/2007, de 2 de julio, por la que se actualiza el sistema de determinación automática de precios máximos de venta, antes de impuestos, de los gases licuados del petróleo envasados y se modifican determinadas disposiciones en materia de hidrocarburos.
+
+2\. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente orden.
+
+## Disposición final única. Entrada en vigor.
+
+Esta orden entrará en vigor el día 18 de noviembre de 2008.
+
+Madrid, 14 de noviembre de 2008.-El Ministro de Industria, Turismo y Comercio, Miguel Sebastián Gascón.

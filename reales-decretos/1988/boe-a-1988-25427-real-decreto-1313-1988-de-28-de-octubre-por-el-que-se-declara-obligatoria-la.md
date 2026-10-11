@@ -1,0 +1,357 @@
+---
+title: "Real Decreto 1313/1988, de 28 de octubre, por el que se declara obligatoria la homologación de los cementos para la fabricación de hormigones y morteros para todo tipo de obras y productos prefabricados"
+identifier: "BOE-A-1988-25427"
+eli: "https://www.boe.es/eli/es/rd/1988/10/28/1313"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria y Energía"
+date: 1988-10-28
+published: 1988-11-04
+in_force_from: 1989-01-04
+last_amended: 2023-03-18
+consolidated: 2026-02-24
+gazette: "Boletín Oficial del Estado núm. 265"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1988-25427"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1313/1988, de 28 de octubre, por el que se declara obligatoria la homologación de los cementos para la fabricación de hormigones y morteros para todo tipo de obras y productos prefabricados
+
+El Reglamento General de Actuaciones del Ministerio de Industria y Energía en el campo de la normalización y homologación, aprobado por Real Decreto 2584/1981, de 18 de septiembre, modificado parcialmente por el Real Decreto 734/1985, de 20 de febrero, y por el Real Decreto 105/1988, de 12 de febrero, establece que la declaración de obligatoriedad de una normativa se considera justificada por razones de seguridad pública, protección de la salud de personas y animales, incluida la protección del medio ambiente y la defensa de los intereses del usuario o consumidor.
+
+Considerando que los productos de construcción deben presentar características tales que las obras a las que se incorporen puedan cumplir los requisitos esenciales exigidos a las mismas y que el cemento, como material fundamental de construcción, incide directamente en los niveles de seguridad y durabilidad de las obras que lo incorporan y en la seguridad de las personas que las utilizan, resulta necesario el establecimiento de la normativa obligatoria, así como la homologación de los cementos, de acuerdo con las disposiciones mencionadas, una vez cumplido el trámite establecido en la Directiva del Consejo 83/189/CEE, de 28 de marzo de 1983, por la que se establece un procedimiento de información en materia de normas y reglamentaciones técnicas,
+
+En su virtud, a propuesta del Ministro de Industria y Energía y previa deliberación del Consejo de Ministros en su reunión del día 28 de octubre de 1988,
+
+DISPONGO:
+
+## Artículo 1.
+
+Los cementos empleados para la fabricación de hormigones y morteros destinados a cualquier tipo de obra o producto prefabricado, cumplirán las especificaciones técnicas que figuran en el anexo a este Real Decreto.
+
+## Artículo 2.
+
+1\. Las especificaciones técnicas a las que se refiere el artículo anterior habrán de observarse en los diferentes tipos de cementos, tanto de fabricación nacional como importados, cuya preceptiva homologación se llevará a efecto de acuerdo con el Reglamento General de Actuaciones del Ministerio de Industria y Energía en el campo de la normalización y homologación aprobado por Real Decreto 2584/1981, de 18 de septiembre, modificado parcialmente por el Real Decreto 734/1985, de 20 de febrero, y por el Real Decreto 105/1988, de 12 de febrero.
+
+2\. Se prohíbe la fabricación o importación para comercialización en el mercado interior, así como la venta o utilización en cualquier parte del territorio nacional de los cementos a que se refiere el artículo 1.º del presente Real Decreto, que correspondan a tipos no homologados o que, aun correspondiendo a tipos homologados, carezcan del certificado de conformidad de la producción.
+
+## Artículo 3.
+
+1\. Quedan sometidos a la homologación de tipo y a la certificación de conformidad de la producción los cementos destinados al mercado interior, exigiéndose el cumplimiento de las especificaciones técnicas a las que se refiere el artículo 1.º del presente Real Decreto y la realización de los ensayos correspondientes a dichas especificaciones.
+
+2\. Las pruebas y análisis requeridos para demostrar que los cementos cumplen las especificaciones técnicas exigidas en el articulo 1.º, se llevarán a efecto según los métodos de ensayo y toma de muestras descritos en el anexo de este Real Decreto y se efectuarán en laboratorios oficialmente reconocidos.
+
+## Artículo 4.
+
+Las solicitudes de homologación se tramitarán siguiendo lo establecido por el Reglamento General de actuaciones del Ministerio de Industria y Energía en el campo de la normalización y homologación, en su capitulo 5.º, apartados 5.2.1 y 5.2.3. En la instancia se hará constar la identidad del peticionario así como cuanta información adicional estime conveniente aportar.
+
+## Artículo 5.
+
+1\. Al cumplirse un año desde la fecha de homologación de un cemento, será necesario que el fabricante, su representante o los importadores dispongan de un certificado de conformidad de la producción al modelo homologado que acredite que se siguen manteniendo las mismas condiciones que sirvieron de base a la homologación. Dicho certificado de conformidad de la producción deberá renovarse con periodicidad anual.
+
+2\. Las solicitudes de certificación de conformidad de la producción correspondientes a un cemento homologado deberán ir acompañadas de la documentación consignada en el capítulo 6.º, sección 1.ª del Reglamento General de actuaciones del Ministerio de Industria y Energía en el campo de la normalización y homologación.
+
+3\. La Administración podrá llevar a cabo, por sí misma o a través de laboratorios u organismos de control oficialmente reconocidos, comprobaciones de tipo técnico realizando los muestreos y ensayos que estime necesarios, dentro de los plazos de validez mencionados de los certificados de conformidad de la producción, a fin de verificar la adecuación del cemento a las condiciones iniciales. Si los resultados fueran negativos, se procederá a anular la homologación concedida.
+
+4\. El Ministerio de Industria y Energía podrá sustituir tanto la homologación de tipo como el certificado de conformidad de la producción por los certificados de conformidad a normas emitidos por una Asociación o Entidad de las previstas en el artículo 5.1 del Real Decreto 1614/1985, de 1 de agosto, y según el Real Decreto 800/1987, de 15 de mayo.
+
+## Artículo 6.
+
+1\. El Ministerio de Industria y Energía aceptará los certificados y protocolos de ensayos de los cementos legalmente fabricados y comercializados en un Estado miembro de la Comunidad Económica Europea, que hayan sido emitidos por una Entidad de control o laboratorio oficialmente reconocido, pertenecientes a un Estado miembro de la Comunidad Económica Europea, siempre que ofrezcan garantías técnicas, profesionales y de independencia equivalentes a las exigidas por la legislación española para las Entidades colaboradoras y laboratorios acreditados a los que se hace referencia en el Reglamente General de actuaciones del Ministerio de Industria y Energía en el campo de la normalización y homologación.
+
+2\. Los mencionados certificados y protocolos de ensayos deberán acreditar que los cementos legalmente fabricados y comercializados en un Estado miembro de la Comunidad Económica Europea cumplen las especificaciones técnicas que figuran en el anexo del presente Real Decreto y que han satisfecho los ensayos y controles, realizados en el Estado miembro de origen, efectuados según los métodos de ensayo que también figuran en dicho anexo.
+
+3\. No obstante lo dispuesto en el citado Reglamento General de actuaciones del Ministerio de Industria y Energía en el campo de la normalización y homologación, los cementos legalmente fabricados y comercializados en un Estado miembro de la Comunidad Económica Europea, que cumplan las normas nacionales de seguridad que les conciernen, o de otros países con las que existe un acuerdo en este sentido, siempre que éstas supongan un nivel de seguridad equivalente al que poseen las correspondientes reglas técnicas españolas, se considerará que cumplen la reglamentación que les es exigible si vienen acompañadas, en el momento de su primera comercialización en el mercado español, de un certificado emitido por la Dirección General competente del Ministerio de Industria y Energía, en el que se reconozca la mencionada equivalencia.
+
+## Artículo 7.
+
+La vigilancia e inspección de cuanto se establece en el presente Real Decreto y las posteriores normas que lo desarrollen, se llevará a efecto por los correspondientes órganos de las Administraciones Públicas en el ámbito de sus competencias, de oficio o a petición de parte.
+
+## Disposición transitoria.
+
+Lo dispuesto en este Real Decreto no será de aplicación a los cementos que se utilicen, a partir de la fecha de entrada en vigor del mismo, en la ejecución de obras contratadas con anterioridad a dicha fecha ni a los que figuren en proyectos que hayan sido aprobados por las Administraciones Públicas o visados por los Colegios Profesionales antes de la fecha mencionada, salvo acuerdo entre las partes contratantes y sin perjuicio de lo establecido en el artículo 6.º del presente Real Decreto.
+
+## Disposición final primera.
+
+Se faculta a los Ministros de Industria y Energía y de Obras Públicas y Urbanismo para modificar, conjuntamente, las referencias a las normas UNE que figuran en el anexo del presente Real Decreto.
+
+## Disposición final segunda.
+
+El presente Real Decreto entrará en vigor a los dos meses de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 28 de octubre de 1988.
+
+JUAN CARLOS R.
+
+El Ministro de Industria y Energía,
+
+JOSÉ CLAUDIO ARANZADI MARTÍNEZ
+
+## ANEXO — Especificaciones técnicas que deben cumplir, toma de muestras y métodos de ensayo a los que deben someterse los cementos
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">1. <em>Especificaciones técnicas y conformidad de la producción</em></td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE 80303-1:2017</td>
+<td class="cuerpo_tabla_izq">Cementos con características adicionales. Parte 1: Cementos resistentes a los sulfatos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE 80303-2:2017</td>
+<td class="cuerpo_tabla_izq">Cementos con características adicionales. Parte 2: Cementos resistentes al agua de mar.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE 80 304:2006</td>
+<td class="cuerpo_tabla_izq">Cementos. Cálculo de la composición potencial del clínker portland.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE 80 305:2012</td>
+<td class="cuerpo_tabla_izq">Cementos blancos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE 80 307:2001</td>
+<td class="cuerpo_tabla_izq">Cementos para usos especiales.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE-EN 197-2:2020</td>
+<td class="cuerpo_tabla_izq">Cementos. Parte 2: Evaluación de la conformidad.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE-EN 197-5:2021</td>
+<td class="cuerpo_tabla_izq">Cemento. Parte 5: Cemento Portland compuesto CEM II/C-M y cemento compuesto CEM VI.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">2. <em>Toma de muestras y métodos de ensayo</em></td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE-EN 196-1:2018</td>
+<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 1: Determinación de resistencias mecánicas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE-EN 196-2:2014</td>
+<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 2: Análisis químico de cementos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE-EN 196-3:2017</td>
+<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 3: Determinación del tiempo de fraguado y de la estabilidad del volumen.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE-EN 196-5:2011</td>
+<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 5: Ensayo de puzolanicidad para los cementos puzolánicos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE-EN 196-6:2019</td>
+<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 6: Determinación de la finura.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE-EN 196-7:2008</td>
+<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 7: Métodos de toma y preparación de muestras de cemento.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE-EN 196-8:2010</td>
+<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 8: Determinación del calor de hidratación. Método por disolución.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE-EN 196-9:2011</td>
+<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 9: Determinación del calor de hidratación. Método semiadiabático.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE-EN 196-10:2016</td>
+<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 10: Determinación del contenido de cromo (VI) soluble en agua en cementos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE 80117:2012</td>
+<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Ensayos físicos. Determinación del color en los cementos blancos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNE 80 220:2012</td>
+<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Análisis químico. Determinación de la humedad.</td>
+</tr>
+</tbody>
+</table>
+
+> Téngase en cuenta que esta última actualización por la disposición final 3 del Real Decreto 145/2023, de 28 de febrero. [Ref. BOE-A-2023-7056](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7056), entrará en vigor el 1 de julio de 2023, según se establece en su disposición final 5.
+
+> **Redacción anterior:**
+
+> Especificaciones técnicas que deben cumplir, toma de muestras y métodos de ensayo a los que deben someterse los cementos
+
+> <table border="0" class="tabla" summary="Tabla de formato">
+> <tbody>
+> <tr>
+> <td colspan="2">
+> <p class="cuerpo_tabla_izq">1. Especificaciones técnicas y conformidad de la producción</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE 80 303-1:2001 y 1M:2006</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Cementos con características adicionales. Parte 1: Cementos resistentes a los sulfatos.</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE 80 303-2:2001 y 1M:2006</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Cementos con características adicionales. Parte 2: Cementos resistentes al agua de mar.</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE 80 304:2006</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Cementos. Cálculo de la composición potencial del clínker portland.</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE 80 305:2001</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Cementos blancos.</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE 80 307:2001</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Cementos para usos especiales.</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE-EN 197-2:2000</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Cementos. Parte 2: Evaluación de la conformidad.</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE-EN 197-2:2002 ERRATUM</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Cementos. Parte 2: Evaluación de la conformidad.</p>
+> </td>
+> </tr>
+> <tr>
+> <td colspan="2">
+> <p class="cuerpo_tabla_izq">2. Toma de muestras y métodos de ensayo</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE-EN 196-1:2005</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 1: Determinación de resistencias mecánicas.</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE-EN 196-2:2006</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 2: Análisis químico de cementos.</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE-EN 196-3:2005</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 3: Determinación del tiempo de fraguado y de la estabilidad del volumen.</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE-EN 196-5:2006</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 5: Ensayo de puzolanicidad para los cementos puzolánicos.</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE-EN 196-8:2005</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 8: Determinación del calor de hidratación. Método por disolución.</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE-EN 196-9:2005</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 9: Determinación del calor de hidratación. Método semiadiabático.</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE 80117:2001</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Ensayos físicos. Determinación del color en los cementos blancos.</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE 80 220:2000</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Análisis químico. Determinación de la humedad.</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE 80 216:1991 EX</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Determinación cuantitativa de los componentes.</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p class="cuerpo_tabla_izq">UNE 80 401:1991</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Métodos de toma y preparación de muestras de cemento.</p>
+> </td>
+> </tr>
+> </tbody>
+> </table>
+
+> Se modifica por la disposición final 3 del Real Decreto 145/2023, de 28 de febrero. [Ref. BOE-A-2023-7056](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7056)
+
+> Téngase en cuenta para su aplicación la disposición transitoria 2 del citado Real Decreto.
+
+> Se modifica por el apartado único de la Orden PRE/2796/2006, de 11 de diciembre. [Ref. BOE-A-2006-21903](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-21903).
+
+> Téngase en cuenta para su aplicación la disposición transitoria única.
+
+> Redactado conforme la corrección de errores publicada en BOE núm. 32, de 6 de febrero de 2007. [Ref. BOE-A-2007-2481](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-2481)
+
+> Se modifica por el apartado 1 de la Orden PRE/2829/2002, de 11 de noviembre. [Ref. BOE-A-2002-22041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-22041).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 301, de 17 de diciembre de 2002. [Ref. BOE-A-2002-24531](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24531).
+
+> Se modifica por el apartado 1 de la Orden de 21 de mayo de 1997. [Ref. BOE-A-1997-11245](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-11245).
+
+> Se modifica por el apartado1 de la Orden de 4 de febrero de 1992. [Ref. BOE-A-1992-2983](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-2983).
+
+> Se modifica por el apartado 1 de la Orden de 28 de junio de 1989. [Ref. BOE-A-1989-15171](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-15171).

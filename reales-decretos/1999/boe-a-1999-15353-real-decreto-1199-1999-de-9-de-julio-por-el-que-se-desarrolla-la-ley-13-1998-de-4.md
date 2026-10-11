@@ -1,0 +1,1304 @@
+---
+title: "Real Decreto 1199/1999, de 9 de julio, por el que se desarrolla la Ley 13/1998, de 4 de mayo, de Ordenación del mercado de tabacos y normativa tributaria, y se regula el estatuto concesional de la red de expendedurías de tabaco y timbre"
+identifier: "BOE-A-1999-15353"
+eli: "https://www.boe.es/eli/es/rd/1999/07/09/1199"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1999-07-09
+published: 1999-07-13
+in_force_from: 1999-07-14
+last_amended: 2025-07-10
+consolidated: 2026-09-07
+gazette: "Boletín Oficial del Estado núm. 166"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-15353"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1199/1999, de 9 de julio, por el que se desarrolla la Ley 13/1998, de 4 de mayo, de Ordenación del mercado de tabacos y normativa tributaria, y se regula el estatuto concesional de la red de expendedurías de tabaco y timbre
+
+Incluye la corrección de errores publicada en BOE núm. 219, de 13 de septiembre de 1999. [Ref. BOE-A-1999-18706](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-18706).
+
+La Ley 13/1998, de 4 de mayo, de Ordenación del mercado de tabacos y normativa tributaria, introduce importantes novedades en la ordenación de este mercado hasta entonces regulado por la Ley 38/1985, de 22 de noviembre, manifestadas fundamentalmente en la recepción en nuestro ordenamiento de principios liberalizadores en relación con las fases de fabricación, importación y distribución mayorista de labores de tabaco y en la creación de un órgano, el Comisionado para el Mercado de Tabacos, que salvaguarde la aplicación de los criterios de neutralidad en dicho mercado y las condiciones de libre competencia efectiva, lo que, por otro lado, se promueve desde la Ley a través de la regulación que efectúa de las condiciones de actuación en el mercado minorista orientado a la consagración de dichos principios y los de carácter sanitario evitando presiones comerciales incompatibles con los mismos.
+
+Se ha optado en la aprobación del presente Reglamento por regular conjuntamente el desarrollo reglamentario de la Ley, con el estatuto concesional de los expendedores para evitar una multiplicidad de reiteraciones en dos normas distintas.
+
+En el Título I se regulan las obligaciones que incumben respectivamente a fabricantes, importadores y mayoristas, en especial las condiciones generales para ser operador en el mercado de tabacos.
+
+Asimismo, se hace mención del contenido de las actividades publicitarias y promocionales que en todo caso deberán garantizar el principio de neutralidad en la red minorista e igualdad de los expendedores.
+
+En el Título II se contiene el régimen jurídico del comercio al por menor de labores de tabaco. Se configura a los expendedores de tabaco y timbre como concesionarios del Estado. Se dispone su estatuto concesional, en el cual se recogen el elenco de los derechos y obligaciones de los mismos y las normas básicas para la obtención de una concesión administrativa, así como la clasificación de las expendedurías.
+
+También se establecen las condiciones y requisitos para obtener las autorizaciones de puntos de venta con recargo.
+
+Se regulan las facultades del Organismo autónomo Comisionado para el Mercado de Tabacos, en cuanto a la inspección y control de la red minorista.
+
+En el Título III se establecen las infracciones que pueden cometer los fabricantes, importadores, distribuidores y marquistas por un lado, y los expendedores de tabaco y timbre y los autorizados para la venta con recargo, por otro; separando las infracciones de carácter administrativo de las de carácter penal tipificadas como delito de contrabando.
+
+La disposición adicional segunda desarrolla las previsiones de la disposición adicional séptima de la Ley 13/1998, estableciendo el régimen jurídico especial que siguen manteniendo los establecimientos que hasta el 1 de julio de 1999 venían realizando sus ventas libres de impuestos, y que a partir de ese momento y para los desplazamientos intracomunitarios deben abonarlos.
+
+Consecuentemente con la importancia de las novedades introducidas por la Ley, y para conseguir la mayor eficacia y funcionamiento del nuevo mercado liberalizado, no conviene demorar su vigencia para aprobar su desarrollo reglamentario como aquélla ordenaba; en su virtud a tenor de la autorización contenida en la disposición final primera de la Ley anteriormente citada; a propuesta del Ministro de Economía y Hacienda, con la aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 9 de julio de 1999,
+
+##### DISPONGO:
+
+> Redactado el párrafo noveno conforme a la corrección de errores publicada en BOE núm. 219, de 13 de septiembre de 1999. [Ref. BOE-A-1999-18706](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-18706).
+
+## TÍTULO I — Fabricación, importación y comercio al por mayor de labores de tabaco
+
+### CAPÍTULO I — Disposiciones generales
+
+###### Artículo 1. Liberalización del mercado de tabacos.
+
+Uno. De acuerdo con lo previsto en el artículo 1 de la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria, cualquier persona física o jurídica, con capacidad legal para el ejercicio del comercio, podrá realizar las actividades de fabricación, importación y comercialización al por mayor de labores de tabaco manufacturado, cualquiera que fuera su procedencia, en las condiciones establecidas en el presente reglamento.
+
+Dos. Las condiciones establecidas en el presente reglamento en materia de habilitaciones para la fabricación, importación y distribución mayorista y concesiones y autorizaciones para el comercio minorista o sus condiciones para el ejercicio de la actividad, no serán de aplicación en las Islas Canarias
+
+Tres. Corresponde al Ministerio de Economía y Hacienda, a través del organismo autónomo Comisionado para el Mercado de Tabacos las facultades de inspección y control del cumplimiento, por parte de quienes realicen las actividades a que se refiere el apartado uno anterior, de lo establecido en el presente real decreto y sus normas de desarrollo.
+
+> Se modifica por el art. único.1 del Real Decreto 36/2010, de 15 de enero. [Ref. BOE-A-2010-1454](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1454).
+
+###### Artículo 2. Causas generales de incapacidad para ser operador.
+
+Uno. No podrán desarrollar las actividades mencionadas en el apartado uno del artículo anterior quienes estén incursos en alguna de las siguientes situaciones:
+
+a) Haber solicitado la declaración de concurso, haber sido declaradas insolventes en cualquier procedimiento, hallarse declaradas en concurso, estar sujetas a intervención judicial o haber sido inhabilitadas conforme a la Ley 22/2003, de 9 de julio, Concursal, sin que haya concluido el período de inhabilitación fijado en la sentencia de calificación del concurso, o incursos en procedimientos de apremio como deudor de cualquier Administración pública.
+
+b) Haber sido condenado o sancionado mediante sentencia firme o resolución administrativa de igual carácter por delito o infracción administrativa de contrabando o por delito contra la Hacienda Pública.
+
+c) Ser titular de una expendeduría de tabaco y timbre, de una autorización de punto de venta con recargo, o de una expendeduría de tabacos de régimen especial de las previstas en la disposición adicional séptima de la Ley 13/1998, de 4 de mayo. Esta limitación no regirá en el caso de introducción en el territorio de aplicación de la Ley 13/1998, de 4 de mayo, por los titulares de expendedurías de tabaco y timbre, de labores de tabaco que tengan la condición de mercancías comunitarias según el artículo 4.7 Reglamento (CEE) n.º 2913/1992, de 12 de octubre de 1992, por el que se aprueba el Código aduanero comunitario procedentes de otros Estados de la Unión Europea, sin perjuicio del cumplimiento de la normativa fiscal aplicable.
+
+Dos. La concurrencia de alguna de ellas determinará la inmediata extinción de la correspondiente habilitación. Igual norma será aplicable para el supuesto de que se acreditase la falsedad de los documentos y datos en virtud de los cuales se hubiera obtenido la habilitación. En ambos supuestos se requerirá la instrucción de expediente por parte del Comisionado para el Mercado de Tabacos y la audiencia del interesado.
+
+En los supuestos del párrafo b) del apartado uno anterior, como medida provisional y ponderadas las circunstancias del caso, el Comisionado podrá suspender provisionalmente y hasta la conclusión del expediente la actividad de fabricación, importación o distribución del operador inculpado.
+
+> Se modifica la letra c) del apartado 1 por el art. único.1 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifica por el art. único.2 del Real Decreto 36/2010, de 15 de enero. [Ref. BOE-A-2010-1454](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1454).
+
+> Se modifica el apartado 1.a) por el art. único.1 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 3. Régimen jurídico de la fabricación de labores de tabaco.
+
+Uno. La instalación de nuevos centros fabriles para la producción de labores de tabaco será libre, siempre que se cumplan los requisitos generales establecidos en las normas para la apertura de aquéllos y los demás exigidos por la legislación vigente.
+
+Dos. Además de lo anterior, el establecimiento de nuevos fabricantes requerirá la presentación de una declaración responsable ante el Comisionado para el Mercado de Tabacos, que, en el plazo máximo de 15 días desde su presentación, podrá acordar motivadamente la ineficacia de la misma, previa verificación de la idoneidad de las condiciones de almacenamiento de las labores producidas, que se acreditará mediante la aportación de:
+
+a) Los planos de los almacenes, con indicación, mediando el suficiente detalle, de las condiciones previstas de seguridad, recuento y movimiento de las labores, del cumplimiento de las medidas exigibles en relación con el almacenamiento no frigorífico de productos alimenticios y la indicación de las disposiciones previstas para el almacenamiento que permitan la fácil comprobación del producto depositado y de sus movimientos.
+
+b) Una memoria descriptiva de las labores a fabricar, incluyendo una previsión del volumen de fabricación.
+
+Junto a la citada declaración responsable, y como consecuencia de lo establecido en el Convenio Marco de la OMS para el Control del Tabaco y en el Protocolo sobre Comercio Ilícito de Productos del Tabaco, se aportará en cada caso la documentación justificativa establecida en el presente real decreto.
+
+El citado plazo de 15 días tendrá carácter suspensivo, no pudiendo iniciarse la actividad hasta que el Comisionado para el Mercado de Tabacos no haya finalizado en dicho plazo su labor de verificación.
+
+Tres. El modelo de declaración responsable a la que se hace mención en el apartado segundo de este artículo, aprobado por el Comisionado para el Mercado de Tabacos, contendrá, al menos, los datos identificativos del prestador, la manifestación de voluntad del interesado de desarrollar la actividad de fabricación al por mayor de labores de tabaco, incluyendo el compromiso expreso de cumplir con el régimen jurídico aplicable a dicha actividad, y en particular con las obligaciones fiscales relativas a los Impuestos Especiales, de disponer de la documentación que acredita dicho cumplimiento y de mantenerlo durante la vigencia de la actividad, de no estar incurso en las causas que inhabilitan para ser operador establecidas en el artículo 1.Dos de la Ley 13/1998, de 4 de mayo, y en el artículo 2 de este real decreto y de comunicar cualquier variación de los datos y documentos aportados en ese momento inicial al Comisionado para el Mercado de Tabacos.
+
+El trámite de la declaración responsable podrá realizarse a través de la ventanilla única regulada en la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
+
+Cuatro. Los fabricantes que, en su caso, deseen ejercer las actividades de importación y/o distribución mayorista de labores de tabaco, deberán formular la correspondiente declaración responsable sobre el cumplimiento de los requisitos que para el ejercicio de tales actividades establece el presente real decreto.
+
+> Se modifica el apartado 3 por el art. único.2 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifica por el art. único.3 del Real Decreto 36/2010, de 15 de enero. [Ref. BOE-A-2010-1454](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1454).
+
+###### Artículo 4. Régimen jurídico de la importación de labores de tabaco.
+
+Uno. La importación o introducción definitiva en territorio español de labores de tabaco elaborado será libre, previa presentación de una declaración responsable ante el Comisionado para el Mercado de Tabacos, que, en el plazo máximo de 15 días desde su presentación, podrá acordar motivadamente la ineficacia de la misma, tras verificar la disponibilidad de almacenes, propios o contratados, que permitan el correcto almacenamiento, y en condiciones de seguridad, de los productos, así como la fácil comprobación por la Administración de las labores almacenadas, su origen y sus movimientos; a tal fin el interesado habrá de aportar los planos de los almacenes con indicación de las condiciones de seguridad de los productos.
+
+De asegurar el importador la remisión directa del producto al almacén de cualquiera de los fabricantes o distribuidores mayoristas registrados en el Comisionado para el Mercado de Tabacos, el interesado deberá indicar el fabricante o distribuidor mayorista habilitado a cuyos almacenes se van a remitir directamente las labores importadas, así como una copia del contrato suscrito a tal fin y la aceptación del fabricante o distribuidor mayorista a la que hace referencia el apartado 2 del artículo 15 de este real decreto.
+
+El citado plazo de 15 días tendrá carácter suspensivo, no pudiendo iniciarse la actividad hasta que el Comisionado para el Mercado de Tabacos no haya finalizado en dicho plazo su labor de verificación.
+
+La declaración responsable, según modelo aprobado por el Comisionado para el Mercado de Tabacos, deberá contener al menos lo establecido en el apartado tres del artículo 3.
+
+Dos. Lo previsto en el apartado anterior no será aplicable a las importaciones de tabaco elaborado en régimen de viajeros, que se regulará por su normativa aduanera específica, ni a las importaciones ocasionales de dicho producto con fines de análisis, prospección de mercados y similares, que habrán de ser autorizados por el Comisionado, previa justificación suficiente de su necesidad.
+
+En cualquier caso la habilitación para ser importador de labores de tabaco no excluye el cumplimiento, para cada expedición en concreto, de los requisitos que pudieran ser exigibles conforme a la legislación aduanera o a la reguladora del comercio exterior.
+
+> Se modifica el último párrafo del apartado 1 por el art. único.3 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifica por el art. único.4 del Real Decreto 36/2010, de 15 de enero. [Ref. BOE-A-2010-1454](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1454).
+
+###### Artículo 5. Régimen jurídico del comercio mayorista de labores de tabaco.
+
+La habilitación para la comercialización o distribución mayorista de labores de tabaco requerirá la presentación de una declaración responsable ante el Comisionado para el Mercado de Tabacos, que, en el plazo máximo de 15 días desde su presentación, podrá acordar motivadamente la ineficacia de la misma, tras verificar la disponibilidad de almacenes, propios o contratados, que permitan el correcto almacenamiento, y en condiciones de seguridad, de los productos así como la fácil comprobación por la Administración de las labores almacenadas, su origen y sus movimientos.
+
+A tal fin, el interesado habrá de aportar los planos de las instalaciones y la justificación documental de la propiedad o el contrato de los mismos, con descripción de las condiciones de seguridad de los productos.
+
+El citado plazo de 15 días tendrá carácter suspensivo, no pudiendo iniciarse la actividad hasta que el Comisionado para el Mercado de Tabacos no haya finalizado en dicho plazo su labor de verificación.
+
+La declaración responsable, según modelo aprobado por el Comisionado para el Mercado de Tabacos, deberá contener al menos lo establecido en el apartado tres del artículo 3.
+
+> Se modifica el último párrafo por el art. único.4 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifica por el art. único.5 del Real Decreto 36/2010, de 15 de enero. [Ref. BOE-A-2010-1454](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1454).
+
+> Se modifica por el art. único.2 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 6. Registro de operadores.
+
+Uno. El Comisionado para el Mercado de Tabacos, previa verificación de los requisitos correspondientes o en todo caso tras el transcurso del plazo de 15 días desde la presentación de la declaración responsable, inscribirá de oficio a los habilitados en un Registro, en el que constarán los datos de las personas y entidades habilitadas, asignándoles un número de identificación que deberá figurar en todos los documentos referentes a las mismas.
+
+Dos. Las habilitaciones tendrán carácter permanente, sin perjuicio de su posible extinción por pérdida sobrevenida de los requisitos exigibles o como consecuencia de la comisión de una infracción muy grave. En ambos casos se requerirá la previa instrucción de un procedimiento por parte del Comisionado para el Mercado de Tabacos.
+
+Tres. A los efectos de la acreditación exigida por la normativa de Impuestos Especiales, el Comisionado para el Mercado de Tabacos informará de oficio al Departamento de Aduanas e Impuestos Especiales de toda inscripción practicada en el correspondiente Registro.
+
+> Se modifica por el art. único.6 del Real Decreto 36/2010, de 15 de enero. [Ref. BOE-A-2010-1454](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1454).
+
+### CAPÍTULO II — Obligaciones de fabricantes, importadores y mayoristas
+
+#### Sección 1.ª Disposiciones generales
+
+###### Artículo 7. Obligaciones materiales comunes de los operadores.
+
+Uno. En el desarrollo de su actividad, fabricantes, importadores y distribuidores mayoristas están obligados al cumplimiento de las disposiciones dictadas en general en relación con la instalación y funcionamiento de instalaciones fabriles y comerciales, en especial a las de carácter sanitario y las relativas a los Impuestos Especiales de fabricación, y en particular a las contenidas en el presente real decreto.
+
+Dos. Corresponde al Ministerio de Economía y Hacienda, a través del Organismo autónomo Comisionado para el Mercado de Tabacos, la inspección y control del cumplimiento por los fabricantes, importadores y distribuidores mayoristas de lo establecido en el presente real decreto y sus normas de desarrollo.
+
+Para ello deberá permitir el acceso a sus almacenes e instalaciones al personal al servicio del Comisionado y prestar la máxima colaboración para el cumplimiento de sus funciones. No obstante, cuando se requiera el acceso al domicilio efectivo de personas físicas o jurídicas, será necesario el consentimiento del interesado o la previa obtención del oportuno mandamiento judicial.
+
+Tres. Los fabricantes e importadores deberán garantizar el suministro de labores, realizando una adecuada gestión de existencias que permita mantener suficiente margen de seguridad sobre las ventas previstas para el periodo entre suministros a expendedurías.
+
+Cuatro. Se entenderá por marquistas, a los efectos del presente real decreto, los propietarios, licenciatarios, representantes o agentes en España de las distintas marcas de labores de tabaco.
+
+> Se modifica por el art. único.3 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 8. Obligaciones formales comunes de los operadores.
+
+Uno. Los fabricantes, importadores y distribuidores pondrán a disposición del Comisionado para el Mercado de Tabacos, cuando le sea requerido por éste y para el ejercicio de las competencias establecidas en el artículo 5 de la ley 13/1998, de 4 de mayo de Ordenación del Mercado de Tabacos y Normativa Tributaria y se regula el Estatuto Concesional de la Red de Expendedurías de Tabaco y Timbre, cuantos documentos, libros y registros lleven en cumplimiento de la normativa fiscal, así como la información pormenorizada sobre el origen y destino de los productos de su tráfico, incluyendo los documentos justificantes de las correspondientes operaciones.
+
+Dos. A los efectos anteriores el Comisionado para el Mercado de Tabacos podrá establecer el diseño de los sistemas para el intercambio de información, así como los mecanismos de seguridad a utilizar de acuerdo con lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común; en el Real Decreto 263/1996, de 16 de febrero, por el que se regula la utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado, y en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y en la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
+
+> Se modifica el apartado 2 por el art. único.5 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifica por el art. único.4 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 9. Precios de las labores.
+
+Los precios de venta al público de los distintos tipos, marcas y modalidades de las labores de tabaco definidas tanto en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, como en la Ley 28/2005, de 26 de diciembre, de Medidas sanitarias frente al tabaquismo y reguladora de la venta, el suministro, el consumo y la publicidad de los productos del tabaco, destinados a ser comercializados en España, con excepción de las islas Canarias, se determinarán por los fabricantes o, en su caso, sus representantes o mandatarios en la Unión Europea, en el caso de los producidos dentro de ella, de acuerdo con lo establecido en el artículo 15, apartado 1, de la Directiva 2011/64/UE, de 21 de junio. En el supuesto de los elaborados fuera de dicho territorio se determinarán por su importador. Los fabricantes e importadores pondrán los precios en conocimiento, tanto del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria a los efectos prevenidos en la normativa reguladora de los Impuestos Especiales, como del Organismo autónomo Comisionado para el Mercado de Tabacos a efectos de su publicación, en el plazo máximo de un mes, en el "Boletín Oficial del Estado" para su publicidad y eficacia general.
+
+> Se modifica por el art. único.6 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+###### Artículo 10. Publicidad y promoción de labores del tabaco.
+
+Uno. Los operadores en el mercado de tabacos sólo podrán desarrollar las actividades publicitarias y promocionales en los términos establecidos en el artículo 6.uno de la Ley 13/1998, de 4 de mayo, desarrollados por el presente Real Decreto, y con las limitaciones previstas en el capítulo III de la Ley 28/2005, de 26 de diciembre, de Medidas Sanitarias Frente al Tabaquismo y Reguladora de la Venta, el Suministro, el Consumo y la Publicidad de los Productos del Tabaco, y en las normas que desarrollen ésta.
+
+Dos. La promoción de marcas o productos del tabaco en las expendedurías, sólo podrá realizarse en su interior y en ningún caso podrá ser retribuida, ni discriminatoria entre productos, marcas o fabricantes, no pudiendo desarrollarse ninguna actividad publicitaria de labores de tabaco fuera de la promoción, tal como queda especificada en el artículo 11.
+
+Tres. No se podrán incluir en los establecimientos donde se encuentren los puntos de venta con recargo, ni en las máquinas expendedoras, logotipos, rótulos o elementos identificativos de fabricantes, marquistas o distribuidores así como la publicidad de sus marcas y productos, excepto la información que corresponda para la identificación de los canales en las máquinas expendedoras. Los pulsadores o botones de las máquinas expendedoras exhibirán una reproducción total de una cajetilla en la que se muestre la marca. Adicionalmente podrán mostrar su precio de venta al público con el recargo estipulado ya incluido. El tamaño de la información o identificación de los productos del tabaco en los pulsadores o botones de las máquinas expendedoras no podrá ser superior al de la mitad de una cajetilla estándar.
+
+Cuatro. Todas estas actividades no podrán tener como destinatarios a los menores de edad.
+
+> Se modifica por el art. único.5 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 11. Actividades promocionales.
+
+Uno. Se permitirá, en el interior de las expendedurías, previa comunicación al Comisionado para el Mercado de Tabacos, a tenor de lo establecido en el artículo 6 de la Ley 13/1998, y en el artículo 9.1.b) de la Ley 28/2005 de medidas sanitarias frente al tabaquismo y reguladora de la venta, el suministro, el consumo y la publicidad de los productos del tabaco, la actividad promocional de productos del tabaco, siempre que no sea retribuida y que no suponga la distribución gratuita de tabaco o de bienes y servicios exclusivamente relacionados con productos del tabaco o con el hábito de fumar o que lleven aparejados nombres, marcas, símbolos o cualesquiera otros signos distintivos que sean utilizados para los productos del tabaco. En todo caso, el valor o precio de los bienes o servicios citados no podrá ser superior al cinco por ciento del precio de los productos del tabaco que se pretenda promocionar.
+
+Dos. En particular, para preservar el principio de igualdad de los expendedores en la retribución establecida en la Ley y el principio de neutralidad en la red minorista, no se podrá realizar, en ningún caso, actividad promocional de labores de tabaco destinada a los expendedores y titulares de autorización de puntos de venta con recargo, ni utilizar a éstos o aquéllos como vía o instrumento para la entrega de incentivos dirigidos al público.
+
+Tres. No se considerarán que resultan afectados los principios de igualdad en la retribución y neutralidad por la entrega de simples elementos dignificadores de las ventas, considerándose como tales, exclusivamente, los útiles destinados al empaquetamiento de los productos vendidos y, en los puntos de venta con recargo que no utilicen máquina automática para la expendición, los dispensadores de productos.
+
+Cuatro. No se considerará que existe utilización positiva del expendedor para la entrega de incentivos dirigidos al público, cuando el elemento promocional esté incorporado de origen, esto es, desde fábrica o almacén distribuidor al producto, de forma tal que sea imposible la separación en el canal minorista del objeto de la promoción sin deterioro del producto al que va unida ni alteración de su apariencia externa. Cuando la promoción se ofreciese en relación con una agrupación de unidades comerciales de venta, cada una de éstas deberá llevar incorporada de manera fija la referencia a que constituye objeto parcial de una promoción con prohibición de venta unitaria. En cualquier caso la promoción a nivel local deberá ser neutral para los distintos expendedores.
+
+Excepcionalmente, el elemento promocional podrá incorporarse en la expendeduría, siempre que conste claramente en él, que su entrega es gratuita y que está prohibida su venta.
+
+Cinco. La información a la red comercial minorista será lícita siempre que respete los principios siguientes: Se podrá realizar siempre que no suponga dádiva o incentivo material alguno para el titular del establecimiento. No se considerará que existe tal incentivo en la entrega de los llamados 'kits' de presentación de productos, limitados a una unidad de producto y la documentación y utillaje accesorio a la presentación, siempre que no tengan valor venal, ni intrínsecamente apreciable.
+
+Seis. La información en la red comercial minorista de expendedurías será lícita siempre que se respeten los siguientes principios: Se podrá realizar información en la red, dirigida al consumidor, sea a través de carteles, catálogos y similares, como por medio de agentes de promoción, siempre que el titular de la expendeduría consienta en ello -no pudiendo su negativa ser parcial sólo contra determinadas marcas u operadores-, y la actividad informativa se distribuya de manera neutral entre las distintas expendedurías de la zona.
+
+En cualquier caso será de obligado acatamiento cualquier límite a la promoción impuesto por la normativa sanitaria. En particular, dichas actividades no podrán realizarse en los escaparates ni extenderse fuera de dichos establecimientos, ni dirigirse al exterior.
+
+> Se modifican los apartados 1 y 5 y se añade el apartado 6 por el art. único.6 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 12. Precintas de control.
+
+Uno. En el supuesto de labores de tabaco a las que no fuese de aplicación la incorporación de marcas fiscales o de reconocimiento previstas en la normativa reguladora de los Impuestos Especiales, podrá el Comisionado, previo informe favorable de la Secretaría de Estado de Hacienda, establecer la exigencia de precintas de control para las labores a distribuir dentro del territorio nacional sujeto al monopolio minorista.
+
+Dos. El Comisionado, en su caso, establecerá los modelos oficiales de precinta y regulará sus modalidades de aplicación.
+
+#### Sección 2.ª Fabricación de labores de tabaco
+
+###### Artículo 13. Obligaciones materiales de los fabricantes.
+
+Uno. Los fabricantes están obligados a la producción de las labores con absoluto respeto a las normas que les fueran aplicables y especialmente a las de índole sanitario, fiscal y las derivadas de la Ley 13/1998, de 4 de mayo, y el presente Real Decreto.
+
+Dos. En particular, deberán garantizar el adecuado almacenamiento y conservación de las labores de tabaco, así como facilitar el cumplimiento de la actividad de control de la Administración tanto en lo que se refiere al movimiento de las labores como a la actividad industrial.
+
+Tres. Los fabricantes deberán garantizar que sus productos lleguen al ámbito territorial a que se refiere el artículo 1, apartado uno, de la Ley 13/1998, siempre que exista demanda de los mismos.
+
+> Se añade el apartado 3 por el art. único.7 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 14. Obligaciones formales de los fabricantes.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. único.8 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+#### Sección 3.ª Importación de labores de tabaco
+
+###### Artículo 15. Obligaciones materiales de los importadores.
+
+Los importadores con habilitación, en el ejercicio de su actividad, vendrán obligados a:
+
+Uno. Permitir el acceso a sus almacenes e instalaciones al personal al servicio del Comisionado y prestar la máxima colaboración para el cumplimiento de sus funciones.
+
+Dos. Asegurar el correcto almacenamiento de los productos importados dentro del territorio aduanero español.
+
+En el supuesto de que el importador hiciese uso de la posibilidad de remitir directa e inmediatamente los productos a almacén de un fabricante o distribuidor mayorista, deberá, con carácter previo, presentar ante el Comisionado documento suscrito por el destinatario comprometiéndose a la recepción de los géneros, sea respecto de una expedición concreta, sea respecto de las que tengan lugar en un período de tiempo determinado y en cantidad máxima también determinada.
+
+Tres. Los importadores deberán garantizar que sus productos lleguen al ámbito territorial a que se refiere el artículo 1, apartado uno, de la Ley 13/1998, siempre que exista demanda de los mismos.
+
+> Se modifica por el art. único.7 del Real Decreto 36/2010, de 15 de enero. [Ref. BOE-A-2010-1454](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1454).
+
+> Se añade el apartado 3 por el art. único.8 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 16. Obligaciones formales de los importadores.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. único.10 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+#### Sección 4.ª Distribución al por mayor de labores de tabaco
+
+###### Artículo 17. Obligaciones materiales de los distribuidores mayoristas. Reglas generales.
+
+En el ejercicio de su actividad, los distribuidores al por mayor de labores de tabaco elaborado, están sujetos al cumplimiento de las siguientes obligaciones:
+
+1\. Suministrar labores de tabaco exclusivamente a las expendedurías de tabaco y timbre situadas en el ámbito territorial a que se extiende su habilitación, a los precios establecidos para la venta al público con deducción del margen del expendedor que corresponda de acuerdo con la normativa vigente, sin conceder ningún tipo de bonificaciones o incentivos.
+
+2\. Suministrar a los expendedores las labores de tabaco que les soliciten, en condiciones similares de servicio y de plazo de entrega y no discriminatorias entre los distintos expendedores.
+
+3\. Aplicar a todos los expendedores las mismas condiciones de crédito o aplazamiento de pago dentro de los límites fijados en el presente reglamento y previa comunicación al Comisionado de tales condiciones, que en el plazo de diez días desde su recepción podrá acordar motivadamente la no eficacia de la misma, previa verificación de su adecuación a los citados límites, sin perjuicio de las facultades de comprobación, control e inspección que tiene atribuidas
+
+4\. Ajustarse en la publicidad y promoción de las labores del tabaco a lo dispuesto en la ley y en el presente real decreto.
+
+5\. Asegurar, con ocasión de la distribución de pedidos, la comunicación a las expendedurías de las circulares que, a tal fin, le confíe el Comisionado, en particular las relativas a las modificaciones de precios de los productos o a la fijación de los precios de los de nueva comercialización.
+
+6\. Almacenar las labores de tabaco en adecuadas condiciones para su conservación y de forma aislada con respecto a otros productos no compatibles o que pudieran dificultar el control de sus movimientos.
+
+> Se modifica por el art. único.8 del Real Decreto 36/2010, de 15 de enero. [Ref. BOE-A-2010-1454](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1454).
+
+> Se modifica el apartado 1 por el art. único.11 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 18. Distribución de labores.
+
+Uno. El mayorista suministrará las labores cuya distribución realice con regularidad y garantía de cobertura de los suministros, en similares condiciones de servicio y plazos de entrega para todos los expendedores.
+
+Se entiende por regularidad el suministro con la periodicidad fijada en el apartado dos siguiente y, además, siempre que el pedido alcance el mínimo establecido en el apartado tres del presente artículo, aunque no hubiera transcurrido el período máximo de suministro.
+
+Dos. El pedido deberá atenderse en el lugar de ubicación de la expendeduría en el plazo máximo de seis días naturales desde su formulación. Se podrá complementar o sustituir este sistema abierto de suministro por un sistema de suministro de fecha predeterminada o de ruta fija con una periodicidad de quince días o inferior.
+
+Los gastos que origine el sistema de suministro de fecha predeterminada o de ruta fija, serán siempre a cargo del distribuidor. En el sistema de suministro abierto serán de su cargo los gastos correspondientes a los primeros veinticuatro pedidos del año.
+
+Excepcionalmente podrá autorizarse por el Comisionado, a petición del correspondiente distribuidor, la aplicación de plazos más dilatados de servicio para el caso de expendedurías con bajo nivel de volumen de operaciones.
+
+Tres. El importe mínimo del pedido de distribución obligatoria será el señalado en cada caso por el fabricante como unidad mínima de venta a expendedurías. Las discrepancias en este punto entre fabricantes y distribuidores o con los expendedores serán resueltas por el Comisionado combinando adecuadamente los criterios exigidos por el principio del servicio público y de economía en la distribución.
+
+Cuatro. Independientemente de lo consignado en los números anteriores del presente artículo, las condiciones generales de distribución a las expendedurías serán objeto, a petición del correspondiente distribuidor, de previa comunicación al Comisionado, que en el plazo de diez días desde su recepción podrá acordar motivadamente la no eficacia de la misma previa verificación de su adecuación a las condiciones de distribución establecidas en el presente artículo sin perjuicio de las facultades de comprobación, control e inspección que tiene atribuidas. Asimismo serán objeto de comunicación previa en los términos anteriormente previstos las modificaciones que en su caso se introduzcan en dichas condiciones generales, que serán admisibles siempre que mejoren las condiciones de servicio previstas en el presente artículo.
+
+Cinco. El expendedor dispondrá de quince días para comprobar la cantidad, calidad e identificación de los productos recibidos.
+
+En caso de que tuvieran cualquier defecto, no imputable a su actuación o a la de terceras personas de las que no deba responder, podrá proceder a su devolución.
+
+El distribuidor dispondrá de diez días para verificar la reclamación, reponiendo o abonando con carácter inmediato la mercancía al expendedor, si fuera procedente.
+
+> Se modifica por el art. único.9 del Real Decreto 36/2010, de 15 de enero. [Ref. BOE-A-2010-1454](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1454).
+
+> Se modifica el apartado 1 por el art. único.12 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 19. Condiciones de crédito y financiación en la distribución.
+
+Los plazos de pago y cualesquiera otras condiciones de crédito al expendedor se establecerán libremente por el mayorista, previa comunicación al Comisionado, que en el plazo de diez días desde su recepción podrá acordar motivadamente la no eficacia de la misma, previa verificación de su adecuación a los siguientes límites y sin perjuicio de las facultades de comprobación, control e inspección que tiene atribuidas:
+
+a) El período máximo susceptible de ser financiado coincidirá con el período máximo homologado entre suministros, en el caso de adaptarse el sistema de suministro de fecha predeterminada o ruta fija, y con el plazo de reposición del producto en el sistema abierto de suministro.
+
+b) En el caso de aplicación de plazos especiales el período máximo de financiación coincidirá con el plazo entre suministros autorizado.
+
+c) La existencia de impagos o evidencias razonables de tal posibilidad autorizarán al distribuidor a suspender la financiación del expendedor hasta la normalización de las circunstancias.
+
+d) No obstante lo dispuesto en los párrafos a) y b) anteriores, el Comisionado para el Mercado de Tabacos podrá autorizar plazos de financiación que excedan del de reposición de los productos, siempre que, teniendo en cuenta las condiciones del mercado, no se advierta por dicho organismo la posibilidad de existencia de supuestos de retribución indirecta para el expendedor por dicha vía.
+
+> Se modifica por el art. único.10 del Real Decreto 36/2010, de 15 de enero. [Ref. BOE-A-2010-1454](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1454).
+
+###### Artículo 20. Obligaciones formales de los distribuidores. Libros registros.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. único.13 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 21. Obligaciones formales de los distribuidores. Declaraciones.
+
+Uno. Los distribuidores al por mayor de labores de tabaco deberán formular obligatoriamente, en los diez primeros días de cada mes, declaración, ante el Comisionado para el Mercado de Tabacos, comprensiva de los resúmenes de operaciones, en la que se consignarán, debidamente detalladas en el ámbito provincial, por unidades físicas y valor, a precio de venta al público, las ventas de labores efectuadas en dicho período, así como los aprovisionamientos habidos en el mismo referidos al mes inmediato anterior.
+
+Dos. En el mes de enero de cada año los distribuidores presentarán una declaración resumen anual de los extremos a que se refiere el apartado anterior, así como un resumen anual de ventas en que, por cada expendeduría, se consignará su respectivo importe.
+
+> Se modifica por el art. único.14 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 22. Obligaciones formales de los distribuidores. Documentos de circulación.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. único.15 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+## TÍTULO II — Comercio al por menor de labores de tabaco
+
+### CAPÍTULO I — Disposiciones generales
+
+###### Artículo 23. Ámbito del monopolio.
+
+Uno. La venta al por menor de labores de tabaco en el territorio nacional, con la excepción de las islas Canarias, constituye un monopolio del Estado, de conformidad con lo dispuesto en el artículo 4.uno de la Ley 13/1998, de 4 de mayo, que se ejerce bajo la dependencia del Comisionado para el Mercado de Tabacos y la superior autoridad del Secretario de Estado de Hacienda, a través de la Red de Expendedurías de Tabaco y Timbre.
+
+Dos. La expendición de efectos timbrados en las islas Canarias se realizará mediante establecimientos al efecto integrados en la Red General de Expendedurías.
+
+###### Artículo 24. Estatuto concesional.
+
+Uno. Los expendedores de tabaco y timbre son concesionarios del Estado.
+
+Dos. La concesión habilita para la venta al por menor, en régimen de exclusividad, de labores de tabaco adquiridas de los correspondientes distribuidores mayoristas, así como para la expendición de efectos timbrados y signos de franqueo previa su adquisición del titular del monopolio de distribución de los indicados efectos.
+
+Tres. Los derechos y obligaciones de los expendedores se regirán por lo dispuesto en la Ley 13/1998, de 4 de mayo, y sus normas de desarrollo, especialmente el presente Real Decreto, el pliego de condiciones de la concesión, y, en su caso, por las normas de Derecho administrativo, civil o mercantil que resulten aplicables.
+
+Cuatro. Los titulares de expendedurías de tabaco y timbre podrán vender a distancia a personas residentes en otro Estado miembro de la Unión Europea labores de tabaco que tengan la condición de "mercancías comunitarias" según el artículo 4.7 Reglamento (CEE) n.º 2913/1992, de 12 de octubre de 1992, por el que se aprueba el Código aduanero comunitario, sin perjuicio del cumplimiento de la normativa fiscal aplicable.
+
+Para la determinación del concepto de ventas a distancia se estará a lo previsto en el artículo 4.33 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+
+Sin perjuicio de las obligaciones previstas en la normativa de impuestos especiales para las ventas a distancia, los expendedores que pretendan realizar ventas a distancia deberán comunicarlo al Comisionado para el Mercado de Tabacos.
+
+> Se añade el apartado 4 por el art. único.7 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+###### Artículo 25. Autorizaciones de venta con recargo.
+
+Uno. El Comisionado para el Mercado de Tabacos podrá autorizar la venta con recargo al por menor de tabaco a quienes sean titulares de un establecimiento mercantil que no se encuentre incurso en alguna de las prohibiciones establecidas en la normativa sanitaria, y que sea de alguna de estas categorías:
+
+a) Quioscos de prensa situados en la vía pública.
+
+b) Locales cuya actividad principal sea la venta de prensa con acceso directo a la vía pública.
+
+c) Tiendas de conveniencia previstas en el artículo 5.4 de la Ley 1/2004, de 21 de diciembre, de Horarios Comerciales, que estén ubicadas en estaciones de servicio o que aporten certificación acreditativa de esa condición, expedida por la autoridad competente en materia de comercio.
+
+d) Bares y restaurantes y demás establecimientos de restauración cerrados.
+
+e) Hoteles, hostales y establecimientos análogos.
+
+f) Salas de fiesta, establecimientos de juego o de uso público en general.
+
+Dos. La venta sólo podrá realizarse mediante el empleo de máquinas expendedoras. Estas deberán estar ubicadas en el interior de los locales, centros o establecimientos autorizados y en situación que permita la vigilancia directa y permanente de su uso por parte del titular del local o de sus trabajadores, debiendo éstos, en todo momento y de forma inmediata, disponer de los medios de apertura de la máquina expendedora que permita la inspección de la misma por los funcionarios del Comisionado y demás órganos competentes.
+
+Paralelamente, en dichos locales se permitirá la venta manual de cigarros y cigarritos provistos de capa natural.
+
+Se podrá realizar de forma exclusivamente manual la venta de cigarros y cigarritos provistos de capa natural, aun sin hacerlo de forma paralela a la venta por máquinas expendedoras, en todos los establecimientos autorizados.
+
+Tres. Esta venta se realizará con el recargo que sobre los precios de venta en expendeduría, establezca el Comisionado para el Mercado de Tabacos, previa consulta al Comité Consultivo. Dicho recargo se redondeará en múltiplos de cinco céntimos de euro y se publicará para su conocimiento general y eficacia.
+
+Se podrá presentar una única solicitud para todos los puntos de venta ubicados en el mismo establecimiento, sin perjuicio del abono de la tasa prevista en el punto 1.b) del anexo de la Ley 13/1998, de 4 de mayo, por cada punto de venta.
+
+La expendición manual de cigarros o cigarritos, cuando sea realizada por un titular de autorización para la venta con recargo mediante la utilización de máquina, estará comprendida en aquella autorización.
+
+Cuatro. La explotación y gestión de la autorización se hará a riesgo y ventura, de forma directa, por el autorizado.
+
+No obstante, el solicitante de la autorización podrá delegar dicha gestión en el expendedor de tabaco y timbre asignado en la correspondiente autorización. El expendedor, gestionará directamente la autorización, sin persona o empresa interpuesta, si bien podrá valerse de sus familiares vinculados al negocio, o de sus dependientes, unos y otros autorizados expresamente al efecto. A estos efectos, en el correspondiente modelo de declaración-liquidación de la tasa para la autorización de venta con recargo deberá consignarse expresamente su opción por tal modalidad delegada de gestión. La gestión en ningún momento será remunerada.
+
+Cinco. La gestión de máquinas expendedoras por parte de expendedores de tabaco y timbre sin la previa consignación de la modalidad de gestión delegada en el modelo de declaración-liquidación de la tasa será constitutiva de infracción conforme a lo previsto en el artículo 57.5.e), como realización de actividades que exceden del ámbito propio de la concesión.
+
+En estos supuestos el expendedor asignado seguirá estando obligado a emitir la correspondiente factura o vendí, que amparará la circulación de las labores de tabaco entre su expendeduría y el punto de venta con recargo.
+
+Con independencia de la modalidad de gestión elegida, el Comisionado para el Mercado de Tabacos, en caso de existir indicios de falta de correspondencia entre las ventas documentadas y la facturación real, podrá exigir la instalación de sistemas de control telemático en línea para el control de la máquina.
+
+El expendedor que asuma voluntariamente la gestión del punto de venta con recargo responderá de la misma personalmente ante el Comisionado para el Mercado de Tabacos. Especialmente será responsable de la presencia en las máquinas de las labores de tabaco más demandadas y de la adecuación de los precios de las mismas a los publicados por el Comisionado para el Mercado de Tabacos en cada momento, incurriendo, en su caso, en infracción grave conforme a lo establecido en el artículo 57.5.g).
+
+> Se modifican los apartados 2 y 3 y se añaden los apartados 4 y 5 por el art. único.8 a 10 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifica por el art. único.1 del Real Decreto 1676/2011, de 18 de noviembre. [Ref. BOE-A-2011-18782](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18782).
+
+> La posibilidad de obtener una única autorización del apartado 3 entra en vigor el 1 de enero de 2012, según establece la disposición final 2.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 298, de 12 de diciembre de 2011. [Ref. BOE-A-2011-19395](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19395).
+
+> Se modifica por el art. único.16 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 26. Condiciones para ser concesionario.
+
+Uno. Para obtener la titularidad de una concesión de punto de venta de la Red de Expendedurías de Tabaco y Timbre del Estado, será necesaria la concurrencia de los siguientes requisitos:
+
+a) Ser persona física, nacional de cualquiera de los Estados miembros de la Unión Europea y con capacidad para el ejercicio del comercio.
+
+b) Comprometerse a gestionar por sí mismo la expendeduría cuya concesión le haya sido otorgada, sin perjuicio de la ayuda que puedan prestar los auxiliares o dependientes que precise.
+
+c) No ser titular de una expendeduría de tabaco y timbre, de una autorización de punto de venta con recargo, ni tener vinculación profesional o laboral con cualquiera de los importadores, fabricantes y mayoristas de tabaco, salvo que se comprometa a cesar en las mencionadas situaciones supuesto en el cual la adjudicación no será definitiva hasta que el cese se haya producido. No obstante, los titulares de expendedurías de tabaco y timbre podrán mantener una vinculación laboral o profesional con otros operadores mayoristas a los exclusivos efectos de realizar la introducción de labores de tabaco prevista en el artículo 1.Dos.c) de la Ley 13/1998, de 4 de mayo.
+
+d) No estar incurso en alguna de las circunstancias enumeradas a continuación:
+
+1.º Las mencionadas en los párrafos a) a f) del artículo 60.1 y a) del artículo 60.2 del texto refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre.
+
+2.º Haber sido condenado o hallarse procesado por delito de contrabando o sancionado por infracción administrativa de contrabando conforme a la legislación vigente.
+
+3.º Haber dado lugar, por causa en que se le declare culpable, a la revocación de la concesión o autorización, en su caso, de un punto de venta.
+
+Dos. La concurrencia de alguna de las circunstancias inhabilitantes a que se refiere el apartado anterior, acaecida en el período a que se extiende la concesión, determinará la inmediata revocación de la misma salvo que, en supuestos de no estar al corriente en las obligaciones tributarias o de la Seguridad Social la Administración opte de forma fehaciente por el embargo de la concesión. Igual norma será aplicable para el supuesto de que se acreditase la falsedad de los documentos y datos en virtud de los cuales se hubiera obtenido la concesión. En ambos supuestos se requerirá la instrucción de expediente por parte del Comisionado para el Mercado de Tabacos y la audiencia del interesado.
+
+> Téngase en cuenta que se declara nulo el primer párrafo del apartado 2, con la extensión y alcance determinados en los fundamentos jurídicos indicados por la Sentencia del TS, de 8 de noviembre de 2012. [Ref. BOE-A-2013-580](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-580).
+
+En los supuestos del apartado segundo del párrafo d) del apartado uno anterior, una vez adoptado el acuerdo de iniciación del expediente y ponderadas las circunstancias del caso, el organismo gestor podrá suspender provisionalmente, y hasta la ultimación del mismo la actividad de venta de tabaco y de efectos timbrados y signos de franqueo en el establecimiento cuyo titular hubiese sido inculpado.
+
+> Se modifica el apartado 1 y el segundo párrafo del apartado 2 por el art. único.11 y 12 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se declara la nulidad del párrafo primero del apartado 2, con la extensión y alcance determinados en los fundamentos jurídicos indicados por la Sentencia del TS, de 8 de noviembre de 2012. [Ref. BOE-A-2013-580](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-580).
+
+> Se modifica el párrafo primero del apartado 2 por el art. único.17 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 27. Otorgamiento de las concesiones y autorizaciones.
+
+Uno. Las concesiones de expendedurías de tabaco y timbre del Estado se otorgarán por la Subsecretaría de Hacienda y Administraciones Públicas, a propuesta del Comisionado para el Mercado de Tabacos, y previo informe de su Comité Consultivo.
+
+La convocatoria de subastas, ubicación de las plazas a cubrir y constatación de las condiciones de los peticionarios, precisarán informe del Comité Consultivo del Comisionado, que deberá emitirlo en el plazo de quince días, entendiéndose informado favorablemente si no lo emitiese en dicho plazo. A tales efectos su Presidente incluirá las referidas cuestiones, según se vayan suscitando, en el orden del día de los temas a debatir por el Pleno del Comité, o sus Comisiones, según proceda. La copia del acta de la reunión en que se recoja el criterio del Comité al respecto se incorporará al correspondiente expediente de convocatoria o de adjudicación.
+
+Dos. Será competencia del Comisionado para el Mercado de Tabacos el conceder la autorización de los puntos de venta con recargo, a favor de las personas físicas y jurídicas que no están incursas en las situaciones a que se hace referencia en el artículo 26.Uno.e) 1.º, 2.º y 3.º Tampoco se podrán conceder autorizaciones de venta con recargo a favor de titulares de expendedurías o de personas que tengan vinculación profesional o laboral con cualquier operador del mercado de tabaco. Las autorizaciones tendrán una duración de tres años pudiendo ser renovadas por períodos iguales, a solicitud de su titular.
+
+Si se constatara la venta de tabaco a precios distintos de los establecidos para su venta con recargo o por establecimiento no autorizado al efecto el Comisionado para el Mercado de Tabacos podrá acordar como medida cautelar el precinto de la máquina, en su caso, y la inmovilización del producto hasta tanto se modifiquen los precios o se obtenga la correspondiente autorización. Igual medida cautelar se podrá adoptar cuando, en el transcurso de una inspección, no se aporten los medios de apertura de la máquina, con independencia de la modalidad de gestión de la máquina expendedora elegida. De forma inmediata se procederá a la incoación del procedimiento sancionador correspondiente.
+
+Tres. La concurrencia de alguna de las circunstancias inhabilitantes, acaecida en el período a que se extiende la autorización, determinará la inmediata revocación de la misma. Igual norma será aplicable para el supuesto de que se acreditase falsedad de los documentos y datos en virtud de los cuales se hubiera obtenido la autorización. En ambos supuestos se requerirá la instrucción del expediente por parte del Comisionado para el Mercado de Tabacos y la audiencia del interesado.
+
+Será igualmente aplicable en relación a los puntos de venta con recargo, lo previsto en el párrafo segundo del número dos del artículo anterior.
+
+> Se modifican los apartados 1 y 2 por el art. único.13 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+###### Artículo 28. Derechos de los expendedores.
+
+Los titulares de expendedurías tendrán los siguientes derechos:
+
+a) Gestionar y explotar, directamente y por su cuenta y riesgo, el punto de venta.
+
+b) Abastecer dentro del local de la expendeduría los puntos de venta con recargo que le hubieran sido asignados.
+
+c) Percibir los márgenes y comisiones correspondientes a la venta de tabaco y expendición de efectos timbrados y signos de franqueo.
+
+d) Transmitir la concesión, variar su emplazamiento o sus instalaciones.
+
+e) Servirse en el desempeño de sus funciones, de personas que le auxilien o en quienes, incluso, delegue funciones no primordiales, ni de forma permanente, de manera tal que existiese infracción a lo prevenido en el artículo 57, apartado 2.
+
+f) Obtener de la Administración, a través del Comisionado para el Mercado de Tabacos la tutela efectiva de los derechos reconocidos en la presente disposición.
+
+g) Conocer el estado de tramitación de los expedientes tramitados ante el Comisionado en que estuvieren interesados o fuesen parte.
+
+h) Estar representados a través de las organizaciones profesionales, en los órganos asesores del Comisionado.
+
+i) Gestionar los puntos de venta con recargo con las condiciones y alcance previstos en el artículo 25.
+
+j) Cualesquiera otros derechos reconocidos en la presente norma, en otras disposiciones legales o en el pliego de condiciones de la respectiva concesión.
+
+> Se modifica la letra i) y se añade la j) por el art. único.14 y 15 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+###### Artículo 29. Obligaciones de los expendedores.
+
+Los titulares de las expendedurías estarán sujetos al cumplimiento de los siguientes deberes:
+
+a) Tener a la venta en su establecimiento los productos que en cada momento comercialicen los distintos distribuidores y que el mercado demande, realizando una adecuada gestión de las existencias, que permita mantener suficiente margen de seguridad sobre las ventas previstas para el período entre suministros.
+
+b) Garantizar el adecuado almacenamiento y conservación de las labores de tabaco, rotándolo en forma tal que su envejecimiento no incida en su calidad o características, y manipulándolo de forma adecuada para que no se produzcan deterioros en el mismo.
+
+c) Exhibir los productos en forma adecuada y neutral respecto a marcas, fabricantes o distribuidores.
+
+d) Exponer, en lugar visible del establecimiento, el título de la concesión, así como cualesquiera otras noticias, rótulos o carteles que establezca el Comisionado.
+
+e) Mantener las instalaciones en adecuado estado de pulcritud y dignidad requeridas para la atención al consumidor.
+
+f) Dirigirse al cliente con la debida cortesía, facilitando su elección con la información que se requiera, sin inclinar capciosamente la elección hacia productos determinados. En particular deberá vigilar escrupulosamente el cumplimiento de la normativa establecida en relación con la venta a menores y demás disposiciones dictadas en materia sanitaria en relación con la venta de tabaco.
+
+g) Mantener unas adecuadas condiciones de servicio al público mediante la apertura del establecimiento durante un mínimo de ocho horas diarias de lunes a viernes, y cuatro horas los sábados por la mañana, excepto festivos, con respeto en todo caso de la legislación vigente en cada momento. Los horarios que restrinjan la apertura respecto de los mínimos indicados requerirán la autorización del Comisionado para el Mercado de Tabacos, previa justificación de su conveniencia. En todo caso el horario de apertura estará expuesto al público.
+
+h) Cumplir las obligaciones que respecto de la gestión personal de la expendeduría se establecen en el presente Real Decreto. A todos los efectos relacionados con los expedientes tramitados por el Comisionado, se entenderá que el domicilio es el lugar en que la expendeduría se encuentre ubicada.
+
+i) No realizar actos que afecten a la neutralidad del mercado ni supongan competencia desleal respecto de otras expendedurías.
+
+j) Tener a disposición del público una lista o tarifa de los precios de venta al público de las labores de tabaco que se comercialicen.
+
+k) Responder personalmente de las acciones u omisiones que supongan incumplimiento de la normativa concesional imputables a sus empleados o familiares afectos a la actividad.
+
+l) Abonar al distribuidor mayorista los pedidos suministrados en las condiciones y plazos correspondientes.
+
+m) Acreditar la superación de los cursos de formación para el ejercicio de la actividad de expendeduría que a tal efecto se homologuen por el Comisionado para el Mercado de Tabacos.
+
+n) Responder directamente de la gestión del punto de venta con recargo que le sea delegada en los términos previstos en el artículo 25.
+
+ñ) Igualmente están obligados al cumplimiento de cualesquiera otros deberes reconocidos en la presente norma, en otras disposiciones legales o en el pliego de condiciones de la respectiva concesión.
+
+> Se modifican las letras g), h) y n) y se añade la ñ) por el art. único.16 a 18 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Redactada la letra m) conforme a la corrección de errores publicada en BOE núm. 219, de 13 de septiembre de 1999. [Ref. BOE-A-1999-18706](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-18706).
+
+###### Artículo 30. Extinción de la relación concesional.
+
+La concesión administrativa de una expendeduría de tabaco y timbre se extinguirá por las siguientes causas:
+
+a) El fallecimiento del expendedor, sin perjuicio de los derechos sucesorios reconocidos por la legislación vigente.
+
+b) La gran invalidez, que inhabilite al titular de la expendeduría para el desempeño de las funciones y cumplimiento de las obligaciones establecidas en el presente Real Decreto, así como la incapacidad absoluta o relativa, acaecidas con posterioridad al inicio de la actividad, que imposibiliten al titular para gestionar el punto de venta, salvo que se constituya el órgano tutelar correspondiente y sin perjuicio de la posibilidad de transmisión de la expendeduría con arreglo a la normativa vigente.
+
+c) La renuncia expresa del titular de la expendeduría, formulada por escrito ante el Comisionado con una antelación mínima de noventa días a la fecha en que hubiera de surtir efecto. Si, al formular su renuncia el titular, se encontrara en tramitación un expediente sancionador incoado contra el mismo, el Comisionado podrá suspender la tramitación de aquélla y sus efectos hasta la definitiva resolución del expediente.
+
+d) La concurrencia de las circunstancias a que se refiere el apartado uno del artículo 26. Se entenderá incluida, a los efectos de lo previsto en el artículo 26.Uno.d), dentro de los casos de insolvencia, la declaración de insolvencia en cualquier procedimiento de recaudación ejecutiva.
+
+e) La revocación de la concesión, previa instrucción del expediente correspondiente.
+
+f) El vencimiento del plazo concesional.
+
+g) Las demás causas establecidas en Derecho.
+
+> Se modifica la letra d) por el art. único.19 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifica la letra e) y se añaden las letras f) y g) por el art. único.18 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 31. Productos comercializados, márgenes y comisiones.
+
+Uno. En la venta de labores de tabaco, los expendedores devengarán los márgenes comerciales establecidos en el artículo 4.7 de la Ley 13/1998, de 4 de mayo.
+
+Dos. En la distribución de efectos timbrados y signos de franqueo, los expendedores tendrán derecho a la comisión fijada en la disposición adicional sexta de dicha Ley.
+
+Tres. Si la actividad de venta se extendiera a otros documentos relativos a la recaudación de impuestos, tasas, exacciones o prestaciones de servicio el Comisionado para el Mercado de Tabacos, previa la comunicación de su importe y condiciones, autorizará dicha actividad ratificando los márgenes y comisiones a percibir estableciendo el carácter obligatorio o no para la red de expendedurías de vender dichos productos.
+
+Cuatro. Será libre la comercialización de otros productos o la prestación de servicios, sin más requisito que la presentación de una declaración responsable ante el Comisionado para el Mercado de Tabacos, sin perjuicio de las facultades de comprobación, control e inspección de dicho organismo que, en cualquier momento podrá acordar motivadamente su ineficacia, previa verificación de que dicha comercialización afecta a la debida conservación y comercialización del tabaco y timbre del Estado o a la seguridad de los usuarios. No será precisa la presentación de dicha declaración responsable para la comercialización de artículos de fumador, librería y papelería.
+
+> Se modifica el apartado 4 por el art. único.20 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+###### Artículo 32. Prohibiciones de venta en determinados lugares.
+
+Uno. No podrán existir expendedurías en los lugares donde exista prohibición de fumar.
+
+Dos. No podrán existir puntos de venta con recargo en los lugares donde exista prohibición de fumar salvo en los lugares previstos en el artículo 25, apartado uno, de este Real Decreto.
+
+> Se suprime el apartado 3 por el art. único.21 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifica el apartado 2 por el art. único.2 Real Decreto 1676/2011, de 18 de noviembre. [Ref. BOE-A-2011-18782](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18782).
+
+> Se modifica por el art. único.19 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+> Téngase en cuenta para su aplicación la disposición transitoria 1.
+
+> Se deroga por la disposición derogatoria única.e) de la Ley 28/2005, de 26 de diciembre. [Ref. BOE-A-2005-21261](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21261).
+
+### CAPÍTULO II — Clasificación y provisión de expendedurías y de autorizaciones de venta con recargo
+
+###### Artículo 33. Clasificación de expendedurías.
+
+Uno. Los puntos de venta que constituyen la Red de Expendedurías de Tabaco y Timbre del Estado se clasifican en: generales y de carácter complementario.
+
+Dos. Tienen consideración de expendedurías generales los establecimientos comerciales instalados en locales independientes, que tengan por objeto principal la venta al consumidor, a los precios de tarifa de los productos o documentos indicados en el artículo 31, apartados uno a tres.
+
+Tres. Se denominan expendedurías de carácter complementario a las que se autoricen en aquellas localidades o núcleos de población, en especial en zonas rurales, donde por su reducido número de habitantes, escasa rentabilidad prevista o cualquier otra causa, no resulte viable la instalación de una expendeduría general.
+
+Estas expendedurías se emplazarán necesariamente en un establecimiento mercantil de la localidad de que se trate, donde la venta de los productos monopolizados constituye una actividad complementaria de la comercial que, con carácter principal, aquél desarrolle.
+
+En todo caso será necesario que el establecimiento comercial no esté incurso en ninguna de las prohibiciones establecidas en la normativa vigente en materia sanitaria.
+
+La venta de labores de tabaco deberá realizarse de forma independiente, en el mismo local, no pudiendo perjudicar la conservación del tabaco.
+
+Cuatro. Cuando las circunstancias económicas o comerciales de la explotación de una expendeduría complementaria o las demográficas de la localidad en que esté situada lo aconsejaren, el Comisionado para el Mercado de Tabacos podrá proceder a su conversión en general, así como, en su caso, a convocar una nueva plaza de expendeduría general, o complementaria, con respeto en todo caso a los principios establecidos en el artículo 35 y siguientes.
+
+En dichos casos, para la conversión en general, el titular de la expendeduría dispondrá de tres meses para retirar los productos cuya comercialización no es propia de una expendeduría de carácter general.
+
+De igual forma, cuando las circunstancias económicas o comerciales de la explotación de una expendeduría general o las demográficas de la localidad en que esté situada lo aconsejaren, el Comisionado para el Mercado de Tabacos podrá proceder a su conversión en complementaria.
+
+Cinco. Las expendedurías situadas en establecimientos penitenciarios se regirán por lo dispuesto en el apartado dos de la disposición adicional séptima de la Ley 13/1998, de 4 de mayo.
+
+El organismo competente para la gestión del centro penitenciario solicitará del Comisionado para el Mercado de Tabacos la habilitación del punto de venta correspondiente indicando las condiciones de explotación y la identificación del funcionario a quien se responsabilice de su gestión y del cumplimiento de los deberes establecidos en el presente Real Decreto en relación con la expendición de tabacos, sin que, fuera de ello, el nombramiento de gestor determine vínculo concesional alguno entre el mismo y la Administración.
+
+No obstante lo anterior los citados establecimientos estarán sometidos a las siguientes limitaciones:
+
+a) Todos los beneficios de la venta redundarán en líneas de actuación que contribuyan a la reinserción de los internos de acuerdo con la normativa vigente.
+
+b) No podrán venderse labores de tabaco ni efectos timbrados fuera del recinto penitenciario c) No podrán efectuarse cambios de emplazamiento ni extensiones temporales fuera del edificio o recinto en el que operasen.
+
+d) El suministro de labores de tabaco y efectos timbrados deberá realizarse en el centro penitenciario.
+
+Seis. Las expendedurías de régimen especial declaradas subsistentes por la disposición transitoria primera del Real Decreto 2738/1986, de 12 de diciembre, y, consecuentemente, no comprendidas en la clasificación establecida en el capítulo II del Título II de dicho texto legal, o que, aun comprendidas en la misma, en su día hubieran sido adjudicadas en favor de personas jurídicas, se mantendrán subsistentes, sin que se admita su transmisión o novación de acuerdo con lo prevenido en la disposición adicional séptima de la Ley 13/1998, de 4 de mayo.
+
+> Se modifican los apartados 3 y 4 por el art. único.22 y 23 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifica por el art. único.20 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 34. Extensiones transitorias de expendedurías.
+
+Uno. Con objeto de posibilitar las ventas, a los precios de tarifa, de las labores de tabaco, timbre del Estado y signos de franqueo, en ferias, exposiciones, congresos y demás lugares de concurrencia masiva carentes de un punto de venta permanente, podrá el Comisionado para el Mercado de Tabacos autorizar a los titulares de expendedurías ubicadas dentro del mismo término municipal o de un término municipal limítrofe que lo soliciten, la instalación de un despacho al público por un período de tiempo no superior para cada expendedor a cuatro meses dentro del año natural.
+
+Dos. El Comisionado para el Mercado de Tabacos decidirá, para el caso de petición múltiple de extensión transitoria para una misma zona, el lugar concreto de ubicación que sea más adecuado a los efectos de cobertura del servicio público.
+
+Tres. Caso de constatarse la necesidad de atender el servicio de forma permanente en la zona cubierta por una extensión transitoria, se procederá a la convocatoria de expendeduría del tipo que corresponda, no pudiendo renovarse por más de seis meses la situación temporal.
+
+Cuatro. En el supuesto de que la cobertura provisional del servicio lo sea por un plazo inferior a quince días no será precisa la solicitud de extensión transitoria, pudiéndose conceder por el Comisionado para el Mercado de Tabacos una simple habilitación temporal en las condiciones establecidas en los apartados uno y dos del presente artículo.
+
+> Se modifica el apartado 1 por el art. único.24 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+###### Artículo 35. Reglas generales para la provisión de expendedurías.
+
+Uno. Las expendedurías se proveerán por subasta pública entre las personas que reúnan los requisitos y no estén incursas en las circunstancias que en este real decreto se mencionan. La convocatoria de la subasta que se aprobará mediante resolución de la Subsecretaría de Hacienda y Administraciones Públicas, publicada en el ''Boletín Oficial del Estado'', determinará las zonas o polígonos donde proceda la instalación de expendedurías. En la fijación de dichas zonas se tendrán en cuenta criterios comerciales, de rentabilidad, de servicio público, de distancias entre expendedurías y de población. Los pliegos de bases de la subasta se aprobarán con ocasión de cada convocatoria.
+
+Las bases de la subasta habrán de ser no discriminatorias, objetivas y transparentes, fundándose la adjudicación de las nuevas plazas en el mejor precio ofertado.
+
+Dos. La distancia mínima entre expendedurías será de 150 metros.
+
+En los pliegos de bases de las subastas de expendedurías podrán establecerse distancias mínimas inferiores a las señaladas en el párrafo anterior si las circunstancias de rentabilidad de la zona y las exigencias de servicio lo aconsejan. No obstante, no se podrán establecer distancias mínimas inferiores si las expendedurías ubicadas en la zona convocada, o cercanas a la misma, tienen un volumen de negocio de productos tabaqueros en el ejercicio precedente inferior a tres veces la media del municipio, o, alternativamente, a tres veces la media provincial de las expendedurías de su clase, debiéndose estar a lo dispuesto en el artículo 33 para la determinación de la clase de expendeduría de acuerdo con la tipología en el mismo establecida.
+
+Igualmente, el pliego de bases de la subasta podrá tener en cuenta, a la hora de determinar los criterios de exclusión en la convocatoria:
+
+1.º Distancia a las expendedurías más próximas.
+
+2.º Superficie útil del local propuesto.
+
+3.º Distancia a centros docentes.
+
+Para acceder a la subasta el solicitante deberá acreditar capacidad legal para ejercicio del comercio.
+
+En el pliego de bases de la subasta se hará constar expresamente que el nuevo concesionario se compromete a dedicar o adscribir los medios suficientes para desarrollar el servicio concedido. Este compromiso se integrará en el contrato, pudiendo el pliego atribuirle el carácter de obligación esencial.
+
+Tres. La valoración de las ofertas presentadas se realizará atendiendo al mejor precio ofertado partiendo del mínimo establecido para cada polígono en el pliego de condiciones de la convocatoria.
+
+Cuatro. La resolución de la subasta se aprobará mediante resolución de la Subsecretaría de Hacienda y Administraciones Públicas, y se publicará en el "Boletín Oficial del Estado".
+
+Cinco. Las nuevas concesiones tendrán una duración de veinticinco años. Vencido el plazo de vigencia, se convocará subasta para una nueva provisión de la expendeduría. Hasta la nueva adjudicación, el anterior concesionario podrá seguir prestando el servicio, previa autorización del Comisionado para el Mercado de Tabacos.
+
+> Se modifica por el art. único.25 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifica por el art. único.21 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 36. Reglas específicas para la provisión de expendedurías de carácter complementario.
+
+Uno. Las expendedurías de carácter complementario se proveerán por resolución de la Subsecretaría de Hacienda y Administraciones Públicas, previo informe y propuesta del Comisionado para el Mercado de Tabacos, mediante subasta en favor de comerciantes individuales que dispongan o que se comprometan a disponer de un establecimiento en la localidad de que se trate, siempre que se den en los peticionarios las circunstancias expresadas en los artículos 26.Uno y 33.Tres, que los establecimientos propuestos no se encuentren incursos en ninguna de las prohibiciones establecidas por la legislación sanitaria, y que los productos comercializados no perjudiquen la conservación de las labores de tabaco ni de los efectos timbrados; de acuerdo con las condiciones que se establezcan en el clausulado del pliego.
+
+A la convocatoria de la subasta se le dará publicidad exponiendo los oportunos anuncios por un período de treinta días naturales en los Ayuntamientos respectivos o en sus Alcaldías pedáneas, publicándose en el "Boletín Oficial del Estado".
+
+Dos. En cualquier caso será preciso, previamente a la adjudicación, informe del Comité Consultivo del Comisionado para el Mercado de Tabacos.
+
+La adjudicación se publicará en el "Boletín Oficial del Estado".
+
+Tres. Las nuevas concesiones tendrán una duración de veinticinco años. Vencido el plazo de vigencia, se convocará subasta para una nueva provisión de la expendeduría. Hasta la nueva adjudicación, el anterior concesionario podrá seguir prestando el servicio, previa autorización del Comisionado para el Mercado de Tabacos.
+
+> Se modifica por el art. único.26 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifica por el art. único.22 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 37. Reglas de provisión y funcionamiento de los puntos de venta con recargo.
+
+Uno. El titular de un establecimiento mercantil abierto al público, que desee obtener una autorización de venta con recargo para la expedición de los productos en dicho establecimiento, deberá solicitarlo al Organismo autónomo Comisionado para el Mercado de Tabacos, siguiendo el procedimiento que se establezca mediante resolución del citado organismo.
+
+Dos. El solicitante deberá seleccionar una expendeduría de entre las previstas en el artículo 42.dos del presente Real Decreto. La expendeduría seleccionada comprobará el cumplimiento del requisito establecido en el citado artículo, responsabilizándose bajo su firma y sello que es una de las tres más cercanas al punto de venta solicitado, conforme al mencionado artículo.
+
+Tres. Una vez sellada por el expendedor y devuelta la solicitud, se realizará el ingreso del importe de la tasa y se remitirá la documentación al Comisionado para el Mercado de Tabacos a través de los medios a que se refiere la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+La suscripción de la solicitud supone el reconocimiento expreso por parte del titular del establecimiento de no encontrarse incurso en ninguna de las prohibiciones en materia sanitaria establecidas por el ordenamiento jurídico, con independencia de la modalidad de gestión elegida.
+
+Cuatro. La negativa al suministro por parte del expendedor, o al sellado de la solicitud, así como la inclusión de datos falsos o inexactos constituirá infracción tipificada en los artículos 7.tres, 2 a) y d), de la Ley 13/1998, de Ordenación del Mercado de Tabacos y Normativa Tributaria, siendo sancionados como infracción grave.
+
+Cinco. Hasta tanto no haya sido otorgada la autorización pertinente, no se podrá suministrar por parte del expendedor designado, ni vender por parte del solicitante de la autorización productos del tabaco.
+
+Seis. En el caso de gestión delegada, el solicitante deberá hacer en el impreso de declaración-liquidación la consignación prevista en el artículo 25.Cuatro.
+
+Siete. El autorizado para la venta con recargo, o, en el caso de gestión de la gestión delegada prevista en el artículo 25, el concesionario de la expendeduría, deberá cumplir las siguientes normas de funcionamiento:
+
+1\. La venta y el suministro a través de máquinas expendedoras se realizará de acuerdo con las siguientes condiciones:
+
+Uso: Se prohíbe a los menores de dieciocho años el uso de máquinas expendedoras de productos del tabaco.
+
+Ubicación: Las máquinas expendedoras de productos del tabaco solo podrán ubicarse, siempre bajo vigilancia directa y permanente, en los establecimientos previstos en la Ley 28/2005, de 26 de diciembre.
+
+No se podrán ubicar en las áreas anexas o de acceso previo a los locales, como son las zonas de cortavientos, porches, pórticos, pasillos de centros comerciales, vestíbulos, distribuidores, escaleras, soportales o lugares similares que puedan ser parte de un inmueble pero no constituyen propiamente el interior de éste.
+
+2\. Paralelamente se permitirá la venta manual en los establecimientos autorizados respecto de los cigarros y cigarritos de capa natural.
+
+3\. Se podrá realizar de forma exclusivamente manual la venta de cigarros y cigarritos provistos de capa natural, aun sin hacerlo de forma paralela a la venta por máquinas expendedoras, en todos los establecimientos autorizados.
+
+> Se modifican los apartados 3, 6 y 7 por el art. único.27 y 28 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifica el apartado 7 por el art. único.3 del Real Decreto 1676/2011, de 18 de noviembre. [Ref. BOE-A-2011-18782](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18782).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 298, de 12 de diciembre de 2011. [Ref. BOE-A-2011-19395](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19395).
+
+> Se modifica por el art. único.23 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+### CAPÍTULO III — Normas de funcionamiento
+
+###### Artículo 38. Instalaciones.
+
+Uno. En el exterior de las expendedurías únicamente deberá figurar el rótulo identificativo reglamentario, carente de cualquier aspecto de promoción o publicidad.
+
+Los establecimientos deberán poseer adecuados locales para la conservación de los productos y mantenerse en las condiciones de decoro y limpieza que exige la atención al público. El rótulo identificativo no podrá ser utilizado por los establecimientos autorizados para la venta con recargo y los que se refieran a otros tipos de productos de comercialización autorizada en expendedurías se situarán con subordinación al reglamentario en tamaño y significación estética.
+
+Dos. El almacenamiento de los productos deberá realizarse en los lugares en que radiquen las correspondientes expendedurías o puntos de venta con recargo. Se admitirá, en el caso de las expendedurías de tabaco y timbre, la utilización de otros locales previa autorización del Comisionado para el Mercado de Tabacos, consideradas las circunstancias que concurran en cada caso, teniendo en cuenta el aumento de ventas del expendedor y la disponibilidad de locales dentro de la zona donde se ubica.
+
+En el caso de los puntos de venta con recargo sólo se podrá almacenar las labores de tabaco en el interior de las máquinas expendedoras, excepto en el supuesto de la venta manual de cigarros y cigarritos.
+
+Tres. Las instalaciones de las expendedurías y puntos de venta con recargo deberán reunir adecuadas condiciones de limpieza, salubridad, seguridad y comodidad de acceso, así como de conservación de los productos y fácil recuento de las existencias.
+
+Cuatro. Los titulares de autorizaciones de venta con recargo deberán conservar obligatoriamente en el lugar en que se ejerce la actividad y en sitio visible la documentación correspondiente a la autorización y las tarifas oficiales de precios. En particular, si la venta se realizase a través de máquina automática, la autorización, en formato adecuado, deberá fijarse en un panel visible de la máquina bajo una protección transparente. Igualmente se conservarán en el local en que se desarrolle la actividad los medios o elementos de apertura de las máquinas expendedoras, con objeto de permitir en todo momento las inspección de sus contenidos.
+
+No obstante, en los supuestos de gestión delegada, las llaves se encontrarán en la expendeduría asignada, debiendo facilitarse las mismas de forma inmediata ante cualquier actuación inspectora.
+
+> Se modifica el apartado 2 y se añade un último párrafo al apartado 4 por el art. único.29 y 30 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifica el apartado 2 y se suprime el apartado 5 por el art. único.24 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 38 bis. Régimen de las Máquinas Expendedoras.
+
+Uno. Máquina expendedora será todo dispositivo que realiza las funciones de entrega al consumidor de las labores y productos del tabaco de forma automática.
+
+Las máquinas expendedoras deberán cumplir los siguientes requisitos:
+
+1\. En la superficie frontal de las máquinas figurará, de forma clara y visible, en castellano y en las lenguas cooficiales de las Comunidades Autónomas, una advertencia sanitaria sobre los perjuicios para la salud derivados del uso del tabaco, especialmente para los menores, de acuerdo con las características que señalen las normas autonómicas en su respectivo ámbito territorial.
+
+2\. Para garantizar el uso correcto de estas máquinas, deberán incorporar los mecanismos técnicos adecuados que permitan impedir el acceso a los menores de edad.
+
+Los mecanismos técnicos adecuados deberán designarse previamente por el Comisionado para el Mercado de Tabacos.
+
+3\. En estas máquinas no podrán suministrarse otros productos distintos del tabaco.
+
+4\. Las máquinas expendedoras de productos del tabaco se inscribirán en un registro especial gestionado por el Comisionado para el Mercado de Tabacos.
+
+Los fabricantes e importadores de máquinas expendedoras de labores de tabaco pondrán en conocimiento del Comisionado la comercialización de nuevos modelos, con objeto de que por dicho organismo se compruebe el correcto funcionamiento del prototipo de acuerdo con sus especificaciones y que cumple con los requisitos establecidos por la normativa sanitaria y por este Real Decreto. Comprobados dichos datos, se procederá a autorizar la comercialización y se asignará un código estadístico para el registro de los correspondientes modelos.
+
+El solicitante de una autorización para la venta con recargo deberá solicitar la inscripción de la máquina si ésta no estuviera inscrita en el Registro.
+
+Dos. El Organismo Autónomo Comisionado para el Mercado de Tabacos llevará un Registro de Máquinas Expendedoras en el que se inscribirán a instancia de parte todas las máquinas expendedoras de tabaco que entren en funcionamiento en el mercado, así como los cambios autorizados que se produzcan en su titularidad o en sus características, mientras estén en funcionamiento.
+
+La organización y funcionamiento del Registro de Máquinas Expendedoras serán determinados por el Comisionado para el Mercado de Tabacos.
+
+Tres. La inscripción en el registro se realizará con ocasión de la primera solicitud de autorización de punto de venta con recargo, según el modelo de impreso aprobado por el Comisionado para el Mercado de Tabacos.
+
+Cuatro. El autorizado para la venta con recargo con máquina expendedora que cese en su explotación deberá comunicarlo al Comisionado con una antelación de 15 días.
+
+Dicha obligación también deberá ser cumplida en el caso de cualquier transmisión de titularidad de la máquina.
+
+> Se añade por el art. único.25 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 39. Cambio de emplazamiento de expendedurías.
+
+Uno. Los titulares de una expendeduría podrán variar su emplazamiento respetando, en todo momento, las limitaciones previstas en este Real Decreto, previa autorización del Comisionado.
+
+Dos. En los supuestos de cambio de emplazamiento el nuevo local en que se ubique la expendeduría habrá de guardar las distancias señaladas en el artículo 35. Excepcionalmente podrán ser autorizados, previo informe del Comité Consultivo, aquellos cambios de emplazamiento que, aunque no cumplan los requisitos establecidos en dicho artículo, mejoren sus instalaciones y aumenten distancias con respecto a la expendeduría más cercana.
+
+Tres. Los supuestos de cambio de emplazamiento procederán, incluso en el caso de que su autorización supusiera el cambio de clasificación de la expendeduría, pasando de uno de los tipos señalados en el artículo 33 del presente Real Decreto a otro distinto, salvo el caso de los incluidos en los números cinco y seis del mencionado artículo.
+
+Cuatro. El cambio de emplazamiento, no se podrá conceder hasta transcurridos tres años desde la toma de posesión de una nueva expendeduría adjudicada, salvo casos de fuerza mayor.
+
+Cinco. Se entenderá incluida en el área de actuación de cualquier expendeduría aquella nueva localización que se encuentre, respecto de la originaria, a una distancia inferior a 1.500 metros.
+
+> Se modifican los apartados 1 a 4 por el art. único.31 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se añade el apartado 5 por el art. único.26 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 40. Modificaciones en las autorizaciones de venta con recargo.
+
+Uno. La autorización para puntos de venta con recargo podrá ser modificada en los siguientes supuestos de cambio:
+
+1\. De emplazamiento del local.
+
+2\. De máquina expendedora.
+
+3\. De expendeduría de suministro.
+
+4\. De modalidad de gestión.
+
+Dos. En cualquiera de los casos a que se refiere el apartado anterior, las respectivas circunstancias habrán de notificarse al Comisionado para el Mercado de Tabacos antes de producirse. La comunicación se realizará directamente al Comisionado para el Mercado de Tabacos, que informará debidamente a la expendeduría anteriormente asignada para el suministro o a la que correspondiera si el cambio de emplazamiento supusiera obligatoriamente el cambio de aquélla.
+
+> Se añade el punto 4 al apartado 1 y se modifica el 2 por el art. único.32 y 33 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifica por el art. único.27 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 219, de 13 de septiembre de 1999. [Ref. BOE-A-1999-18706](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-18706).
+
+###### Artículo 41. Autorizaciones de obras.
+
+Los expendedores no podrán variar las condiciones esenciales de instalación de las expendedurías según aparecieran configuradas en el instante concesional, o con ocasión de ulteriores autorizaciones, sin perjuicio de la realización de las obras de reparación y obras menores de mejora que fuesen necesarias o convenientes.
+
+Esto no obstante podrán realizar obras que supongan modificación esencial de las instalaciones, de la superficie dedicada o de su distribución, o que implique suspensión de la actividad comercial durante un período superior a quince días si mediare autorización al efecto por parte del Comisionado para el Mercado de Tabacos, si la reforma, en su conjunto, resultase conveniente para la actividad comercial objeto de la concesión.
+
+###### Artículo 42. Abastecimiento de labores y efectos.
+
+Uno. Los titulares de expendedurías tendrán libertad para adquirir directamente de los distribuidores al por mayor, y únicamente de ellos, los tipos y cantidades de tabaco que consideren necesarios para atender su normal demanda sin discriminar por razón de su origen marcas ni productos. Todo ello sin perjuicio de lo previsto en el artículo 1.Dos.c) de la Ley 13/1998, de 4 de mayo, sobre la introducción por los titulares de expendedurías de tabaco y timbre de labores de tabaco que tengan la condición de mercancías comunitarias según el artículo 4.7 Reglamento (CEE) n.º 2913/1992, de 12 de octubre de 1992, por el que se aprueba el Código aduanero comunitario procedentes de otros Estados de la Unión Europea, sin perjuicio del cumplimiento de la normativa fiscal aplicable.
+
+Por lo que respecta a la adquisición de efectos timbrados y signos de franqueo, los expendedores se relacionarán directamente con los adjudicatarios del contrato de distribución al por mayor de efectos timbrados o signos de franqueo, según las previsiones de la disposición adicional sexta de la Ley 13/1998, de 4 de mayo.
+
+El Comisionado para el Mercado de Tabacos podrá establecer, atendidas las circunstancias de los diversos tipos de expendedurías, normas sobre surtidos mínimos.
+
+Dos. Los titulares de autorización para la venta con recargo deberán abastecerse necesariamente a los precios de tarifa en la expendeduría del término municipal asignada a petición del titular del punto de venta con recargo de entre las tres más próximas al local cuyo servicio se pretende atender. Tratándose de cigarros la elección podrá hacerse entre las tres expendedurías más próximas que dispongan de las instalaciones adecuadas para su conservación, con diversidad de vitolas, y que garanticen un suministro inmediato.
+
+Se entiende por suministro inmediato aquel que se realiza, de forma habitual, directamente del stock de la expendeduría.
+
+Tres. La venta y circulación de labores de tabaco deberán ir acompañadas de su correspondiente factura o vendí. Se exceptúa de este requisito la venta realizada directamente al consumidor por establecimientos de la red minorista en cantidades inferiores a 800 cigarrillos, 200 unidades si se trata de cigarros puros, 400 unidades en el caso de cigarritos, o 1 kilogramo de las demás labores de tabaco.
+
+Los vendís o facturas, que habrán de extenderse por duplicado, se conservarán por el autorizado para la venta con recargo y la expendeduría de suministro durante un período de uno y tres años, respectivamente.
+
+El vendí o la factura amparará la circulación del producto y su tenencia en el punto de venta con recargo, durante el plazo de quince días a contar desde la fecha de su expedición. Los productos contenidos en las máquinas expendedoras o expuestos para la venta en el punto de venta con recargo, unida a la posesión del correspondiente vendí o factura con antigüedad no superior a quince días, acreditará la procedencia del producto de la expendeduría oficialmente asignada para el suministro y su no procedencia en el caso contrario.
+
+El Comisionado para el Mercado de Tabacos establecerá los modelos oficiales de vendís. Hasta ese momento, será válido cualquier modelo de vendí siempre que contenga el siguiente contenido mínimo: el número de orden y en su caso serie, que será correlativo; la fecha de expedición; el nombre y apellidos, razón o denominación social completa, tanto del obligado a expedir factura como del destinatario de las operaciones; el NIF del obligado a expedir la factura; el domicilio, tanto del obligado a expedir factura como del destinatario de las operaciones; la descripción pormenorizada de las labores comercializadas (por cada labor: clase de labor, el precio unitario, el número de unidades, y la contraprestación total); y la firma y/o sello tanto del obligado a expedir factura como del destinatario de las operaciones.
+
+Cuatro. La adquisición y transporte de labores con destino a los puntos autorizados para la venta con recargo deberán realizarse con sujeción a las normas establecidas en el presente Real Decreto personalmente por el titular de la autorización o por sus familiares vinculados al negocio, o por sus dependientes, unos y otros autorizados expresamente al efecto; no obstante, el transporte de las labores podrá ser realizado por el titular de la expendeduría, por sus familiares vinculados al negocio o por sus dependientes, también autorizados expresamente al efecto. El autorizado para la venta con recargo responderá directamente de la gestión de las personas autorizadas para la adquisición y transporte del tabaco.
+
+Excepcionalmente, en los casos en que el abastecimiento de labores de tabaco a los puntos de venta con recargo autorizados no pueda realizarse por las personas citadas en el párrafo anterior, el expendedor podrá valerse de mandatarios para el transporte, apoderados expresamente por escrito, respondiendo de su gestión como si fuera realizada personalmente por el mandante. En dichos casos, el mandato, deberá estar corroborado por el titular del punto de venta con recargo, al objeto de acreditar su imposibilidad de realizar el transporte, conteniendo, en todo caso, la identidad de los mandatarios, el objeto del mandato y la declaración expresa de la imposibilidad de efectuar el abastecimiento por las personas citadas en el párrafo anterior con la firma o sello tanto del expendedor como del titular de la autorización de venta con recargo, y se comunicará al Comisionado para el Mercado de Tabacos con carácter previo al inicio del citado abastecimiento.
+
+Cinco. Con objeto de evitar situaciones de acaparamiento en los casos de elevaciones de precios y las consiguientes repercusiones en la recaudación fiscal y en los niveles de servicio podrá el Comisionado, en los momentos previos en que racionalmente puedan producirse tales circunstancias, adoptar las medidas de contingentación directa o indirecta de los suministros que sean necesarios.
+
+> Se modifican los apartados 1 a 4 por el art. único.34 a 37 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifican los apartados 1 a 4 por el art. único.28 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 43. Faltas y averías.
+
+Uno. Las relaciones entre los titulares de expendedurías y las empresas mayoristas, por razón de faltas y averías en las labores del tabaco comercializadas, se regirán por las condiciones de distribución aceptadas y por las normas de Derecho mercantil que resulten aplicables.
+
+Dos. Las faltas y averías en los efectos timbrados, signos de franqueo y documentos oficiales serán de cargo del expendedor, salvo que rehúse el recibo de los géneros mermados o averiados en las cuarenta y ocho horas siguientes al momento de su entrega. Si no mediare tal protesta, en dicho momento se liquidará el importe del valor facial de los indicados efectos o documentos minorado en el importe de la comisión a que el expendedor tuviese derecho.
+
+Tres. La devolución y canje de efectos timbrados se regirá por lo dispuesto al efecto en la normativa reguladora del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, así como la demás normativa que resulte aplicable.
+
+Cuatro. Las operaciones realizadas entre los titulares de expendedurías y los autorizados para la venta con recargo se regirán por las disposiciones del Comisionado para el Mercado de Tabacos, dictadas al amparo del presente Real Decreto, y, en su defecto por las normas del Derecho mercantil.
+
+###### Artículo 44. Inspección.
+
+Corresponde al Ministerio de Economía y Hacienda, a través del Organismo autónomo Comisionado para el Mercado de Tabacos, con el auxilio de otros organismos oficiales, las facultades de inspección y control del cumplimiento por los operadores del mercado de tabacos de lo establecido en el presente Real Decreto y sus normas de desarrollo.
+
+###### Artículo 45. Transmisión de expendedurías.
+
+Uno. La transmisión de la titularidad de las expendedurías podrá realizarse mortis causa o por actos inter vivos.
+
+Dos. Dentro del plazo de concesión, las expendedurías pueden ser transmitidas a cualquier persona física que reúna los requisitos exigidos para ser concesionario y no se halle incursa en las circunstancias que se mencionan en esta norma con carácter general.
+
+Tres. Las concesiones transmitidas desde la entrada en vigor de la Ley 24/2005 tendrán una vigencia temporal de veinticinco años, a contar desde la fecha de la primera transmisión que se produzca desde la entrada en vigor de dicha Ley, sin perjuicio de lo previsto en la disposición transitoria quinta de la Ley 13/1998, de 4 de mayo. Dentro de este plazo, y por el plazo que reste, las expendedurías pueden ser objeto de otras transmisiones a cualquier persona física que reúna los requisitos exigidos para ser concesionarios, previa autorización del Comisionado para el Mercado de Tabacos.
+
+Cuatro. Cuando se trate de sucesión mortis causa no será obstáculo para la designación del sucesor el hecho de no ostentar éste la plena capacidad de obrar, que deberá ser completada por quien ejerza la patria potestad o, en su caso, mediante la constitución del organismo tutelar correspondiente, que habrá de tener lugar con anterioridad a la toma de posesión del designado como sucesor.
+
+Cinco. Todos los supuestos de transmisión deberán ser objeto de autorización previa por el Comisionado para el Mercado de Tabacos, que podrá exigir la realización de obras de mejora y adaptación para el adecuado cumplimiento de las obligaciones establecidas en este Real Decreto.
+
+Seis. Los titulares que transmitan por actos ínter vivos una expendeduría no podrán tomar parte en las subastas que se convoquen para la provisión de nuevas durante un período de tres años.
+
+> Se modifican los apartados 3 a 6 por el art. único.38 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifican los apartados 2 y 3 por el art. único.29 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 46. Ejercicio del derecho a la transmisión de la expendeduría.
+
+Uno. La transmisión ínter vivos de la titularidad a favor de cualquier persona física que reúna los requisitos exigidos para ser concesionario, sólo podrá realizarse cuando el titular cedente la hubiera ejercido efectivamente durante un período mínimo de cinco años, salvo caso de incapacidad sobrevenida.
+
+Asimismo, no podrá transmitirse la concesión si el titular cedente hubiera sido sancionado por una infracción muy grave en los últimos cinco años, o dos graves, en los últimos tres años, siempre que sean firmes en vía administrativa. Tampoco podrá transmitirse si el titular estuviese incurso en un procedimiento sancionador por infracción a esta normativa, hasta la resolución y archivo del mismo.
+
+No obstante, en caso de transmisión mortis causa de la titularidad de la expendeduría no será exigible el periodo de cinco años para poder transmitir ínter vivos la misma.
+
+El titular deberá solicitar autorización para la transmisión al Comisionado para el Mercado de Tabacos especificando la identidad de la persona propuesta para sucederle. La designación obligatoriamente habrá de realizarse en documento público donde conste el valor del bien transmitido.
+
+Dos. En el supuesto de transmisión mortis causa el sucesor, que habrá de ser designado en testamento o documento público, deberá realizar idéntica solicitud a la prevista en el párrafo anterior en el plazo de seis meses siguientes al fallecimiento. En el supuesto de falta de previsión por el causante corresponderá a los coherederos por mayorías, dentro de cada grado y de acuerdo con la preferencia establecida por el Código Civil, la elección de la persona de entre ellas llamada a la titularidad de la expendeduría. Dicha designación y la correspondiente solicitud habrá de efectuarse necesariamente en el plazo de cuatro meses siguientes al fallecimiento del causante.
+
+Tres. El Comisionado para el Mercado de Tabacos, hasta tanto dicte resolución definitiva en el expediente de sucesión mortis causa, podrá autorizar, cuando lo estime conveniente para el servicio público, que el designado o propuesto como sucesor continúe atendiendo provisionalmente la expendeduría. Iguales medidas provisionales, en relación con uno de los coherederos, podrán ser adoptadas en el supuesto de existir contienda judicial sobre la persona del posible sucesor, y siempre a reserva de las medidas provisionales que pudiera dictar la autoridad judicial competente.
+
+Cuatro. La persona que conforme a lo prevenido en el apartado anterior continúe provisionalmente al frente de la expendeduría responderá de su actuación en el desempeño de tal actividad como si de un expendedor se tratase.
+
+Cinco. En el expediente de transmisión de la expendeduría el interesado deberá justificar el cumplimiento de todos los requisitos exigidos para una nueva concesión.
+
+Seis. La transmisión consecuencia de un embargo administrativo se regirá por las reglas previstas en este artículo, debiendo cumplir, en todo caso, los demás requisitos establecidos en este real decreto.
+
+> Téngase en cuenta que se declaran nulos los apartados 1, 2 y 6, en la redacción dada por el Real Decreto 1/2007, de 12 de enero, con la extensión y alcance determinados en los fundamentos jurídicos indicados por la Sentencia del TS, de 8 de noviembre de 2012. [Ref. BOE-A-2013-580](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-580).
+
+> Se modifica el primer párrafo del apartado 1 y el apartado 2 por el art. único.39 y 40 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se declara la nulidad de los apartados 1, 2 y 6 con la extensión y alcance determinados en los fundamentos jurídicos indicados por la Sentencia del TS, de 8 de noviembre de 2012. [Ref. BOE-A-2013-580](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-580).
+
+> Se añade el apartado 6 y se modifican los apartados 1 y 2 por el art. único.30 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 47. Cierres temporales de expendedurías.
+
+Uno. El Comisionado para el Mercado de Tabacos podrá autorizar el cierre temporal de expendedurías por causa suficientemente justificada y siempre que el servicio público no se vea afectado.
+
+La solicitud de cierre temporal deberá presentarse con quince días de antelación a la fecha en que hubiera de surtir efecto.
+
+Dos. Se entenderá que, transcurrido un año desde el cierre, podrá ser cubierta la zona inicialmente atendida por la expendeduría, sea mediante traslado o sea mediante convocatoria de una nueva expendeduría.
+
+Tres. Transcurridos dos años sin procederse a la reapertura del establecimiento, el Comisionado para el Mercado de Tabacos, previa audiencia al interesado, iniciará el procedimiento de revocación de la concesión.
+
+Cuatro. Los cierres por un plazo inferior a cinco días laborables no requerirán autorización previa, pero deberán comunicarse al Comisionado para el Mercado de Tabacos con una antelación de dos días, salvo en el caso de enfermedad, que podrá comunicarse a posteriori, dentro de los dos días siguientes al inicio del cierre.
+
+Cinco. El Comisionado para el Mercado de Tabacos autorizará, siempre que el servicio público no se vea afectado, los cierres solicitados por los expendedores por vacaciones que no excedan de treinta días naturales continuados o de quince días naturales en dos períodos discontinuos.
+
+> Se modifican los apartados 3 y 4 y se añade el 5 por el art. único.41 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+## TÍTULO III — Infracciones y sanciones
+
+### CAPÍTULO I — Disposiciones generales
+
+###### Artículo 48. Infracciones.
+
+Constituyen infracciones los actos u omisiones de los sujetos que intervengan en el mercado de tabacos tipificados en la Ley 13/1998, de 4 de mayo.
+
+###### Artículo 49. Competencia para la imposición de sanciones.
+
+La competencia para la instrucción de los expedientes de infracción y para la imposición de las sanciones correspondientes se regirá por las siguientes reglas:
+
+a) La iniciación de los expedientes sancionadores se realizará de oficio, por orden del Presidente del Organismo autónomo Comisionado para el Mercado de Tabacos, o a petición razonada de otros órganos, medie o no denuncia al respecto.
+
+b) La instrucción de los expedientes corresponderá igualmente a los servicios del Comisionado, dándose previa audiencia al interesado antes de formular la propuesta de resolución que proceda.
+
+b) La imposición de las correspondientes sanciones corresponderá al Presidente del Organismo autónomo Comisionado para el Mercado de Tabacos, excepto en los casos de sanciones por infracciones muy graves en que será competente el Secretario de Estado de Hacienda.
+
+###### Artículo 50. Procedimiento para la imposición de sanciones.
+
+El procedimiento sancionador de las infracciones a que se refiere el presente Real Decreto se regirá, en lo que no aparece modificado por el mismo, por lo dispuesto en el Real Decreto 1394/1993, de 4 de agosto, por el que se regula el procedimiento sancionador en el ámbito del monopolio de tabacos, y, supletoriamente, por lo dispuesto en el Real Decreto 1398/1993, de 4 de agosto, por el que se regula el procedimiento para el ejercicio de la potestad sancionadora.
+
+Con objeto de que el usuario pueda tener conocimiento de las razones de la interrupción del servicio de venta de tabacos y efectos timbrados, las resoluciones por las que se impongan sanciones consistentes en la suspensión temporal de la actividad serán objeto de exhibición al público en sitio visible y preferente del local de la expendeduría o del punto de venta con recargo durante todo el tiempo a que se extiende la suspensión acordada.
+
+Iniciado el procedimiento sancionador, si el infractor reconoce su responsabilidad ante el órgano instructor, se resolverá el procedimiento con la imposición de sanción que proceda.
+
+###### Artículo 51. Graduación de sanciones.
+
+Uno. Las sanciones se graduarán atendiendo a la transcendencia económica y social de las infracciones cometidas, al ánimo de prevalerse de ventajas competitivas frente a otro sujeto del sector, al lucro obtenido con la acción infractorayalaprevia comisión de una o más infracciones, todo ello de acuerdo con los criterios siguientes:
+
+a) Las sanciones se aplicarán, en principio, en su grado medio, reduciéndose a su grado mínimo si no se estimase por el órgano que resuelva el expediente la existencia de apreciable trascendencia económica y social de la actuación infractora.
+
+b) Si mediare la anterior circunstancia o alguna de las demás previstas en el primer párrafo del presente apartado uno, la sanción estará comprendida entre la mitad y los dos tercios del máximo previsto. La concurrencia de dos o más de las anteriores circunstancias determinará la imposición de la sanción en su grado máximo.
+
+Dos. No obstante la aplicación de lo dispuesto en el apartado uno anterior, y para guardar la debida proporcionalidad, en el caso de sanciones pecuniarias a imponer a titulares de expendedurías, éstas no superarán un importe equivalente al 50 o al 100 por 100 de los ingresos brutos de la expendeduría en el año anterior por márgenes de tabaco y comisiones de timbre, según se trate, respectivamente, de infracciones graves o muy graves, y siempre que se respete el mínimo legal establecido de 2.000.000 y 20.000.000 para cada caso. En el caso de falta de ejercicio de la actividad durante todo o parte del ejercicio anterior, el órgano que resuelva el expediente aplicará los criterios de graduación considerando los márgenes y comisiones de los últimos doce meses o, en su caso, elevando al año los indicados parámetros correspondientes a los meses anteriores de actividad si éstos fueran inferiores a doce.
+
+Tres. El pago voluntario por el imputado, en cualquier momento anterior a la resolución, implicará asimismo la terminación del procedimiento. En los casos en que exista conformidad con la propuesta de sanción, y en el plazo que se habilite en la notificación del inicio del expediente, podrá hacerse efectivo el importe de la sanción con una reducción del 25 por 100.
+
+> Se modifica el apartado 3 por el art. único.42 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+### CAPÍTULO II — Régimen sancionador aplicable a fabricantes, importadores, distribuidores y marquistas
+
+###### Artículo 52. Infracciones muy graves.
+
+Constituyen infracciones muy graves:
+
+1\. El ofrecimiento por los fabricantes, importadores, marquistas y distribuidores mayoristas, por sí o por medio de sus agentes o representantes, o por terceros, a los expendedores o a los puntos de venta con recargo de un margen directo o indirecto distinto al fijado legalmente.
+
+Se entenderá incluida en esta previsión el ofrecimiento o entrega de regalos promocionales prohibidos por el artículo 6.uno de la Ley 13/1998, de 4 de mayo, o de condiciones de crédito o financiación de los productos más favorables para el expendedor que los establecidos como límite por el presente Real Decreto.
+
+2\. El ofrecimiento por los fabricantes, importadores, marquistas o mayoristas, por sí o mediante sus agentes o representantes, a las organizaciones representativas de los expendedores o autorizados para la venta con recargo, de retribuciones, convenios o acuerdos, que pretendan influir en su obligada neutralidad.
+
+###### Artículo 53. Infracciones graves.
+
+Constituyen infracciones graves:
+
+1\. El falseamiento o la falta injustificada de comunicación, dentro de los plazos que fije el Presidente del Comisionado para el Mercado de Tabacos, de los documentos, datos o informaciones que deban proporcionar los operadores para los fines propios del Comisionado para el Mercado de Tabacos, o de los proyectos de campañas y planes de publicidad, o de la documentación y presupuestos de las promociones realizados.
+
+2\. No realizar los distribuidores mayoristas los suministros de labores de tabaco en las condiciones previstas en los apartados cuatro y cinco del artículo 3 de la Ley y correlativos de este reglamento o la negativa de suministro sin causa justificada. A estos efectos, se considera causa justificada, entre otras que pudieran acreditarse ante el Comisionado para el Mercado de Tabacos, la existencia reiterada de pagos pendientes al distribuidor por importe superior a la media mensual del total de las ventas realizadas por el expendedor en el año inmediatamente anterior.
+
+3\. La resistencia, negativa u obstrucción a la acción inspectora del Comisionado para el Mercado de Tabacos respecto al cumplimiento por los sujetos intervinientes en el sector de las obligaciones impuestas por la Ley.
+
+4\. La obtención por parte de fabricantes, importadores o distribuidores mayoristas de labores procedentes de proveedores distintos de los habilitados, así como el suministro en igual forma irregular, siempre que, en ambos casos, tales acciones no sean calificadas por los órganos competentes como delitos o infracciones de contrabando.
+
+> Se modifica por el art. único.11 del Real Decreto 36/2010, de 15 de enero. [Ref. BOE-A-2010-1454](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1454).
+
+###### Artículo 54. Infracciones leves.
+
+Constituye infracción leve cualquier infracción de lo previsto en la Ley 13/1998, de 4 de mayo, realizada por los fabricantes, importadores, marquistas y distribuidores mayoristas, no tipificada como infracción grave o muy grave.
+
+###### Artículo 55. Sanciones.
+
+Las infracciones a que se refieren los artículos 52 a 54 anteriores serán sancionadas en la forma siguiente:
+
+1\. Las infracciones muy graves con la extinción de la habilitación a los fabricantes, importadores o distribuidores mayoristas o con multa entre 120.202,42 y 300.506,05 euros.
+
+2\. Las infracciones graves con multa desde 12.020,24 hasta 120.202,42 euros.
+
+3\. Las infracciones leves con multa de hasta 12.020,24 euros.
+
+> Se modifica por el art. único.12 del Real Decreto 36/2010, de 15 de enero. [Ref. BOE-A-2010-1454](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1454).
+
+> Se convierten a euros las cuantías contempladas por la disposición adicional 2 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+### CAPÍTULO III — Régimen sancionador aplicable a los expendedores de tabaco y timbre
+
+###### Artículo 56. Infracciones muy graves.
+
+Constituyen infracciones muy graves:
+
+1\. El abandono de la actividad por parte del titular de la expendeduría.
+
+Se considerará abandono de la actividad el cierre de la expendeduría por período superior a un mes sin la debida autorización.
+
+2\. La cesión de la expendeduría en forma ilegal.
+
+Se considerará ilegal la cesión del aprovechamiento económico de la concesión, sea de forma total o parcial o asociando a otra u otras personas en tal aprovechamiento, prescindiendo del procedimiento establecido en los artículos 45 y 46 del presente Real Decreto.
+
+3\. La aceptación de retribuciones no autorizadas legalmente, así como de márgenes en la adquisición de productos, percibidos directa o indirectamente, que sean distintos a los fijados por la Ley.
+
+Se entenderá incluida en esta previsión la aceptación de regalos promocionales prohibidos por el artículo 6.uno de la Ley 13/1998, de 4 de mayo, del Mercado de Tabacos, así como la aceptación de condiciones de crédito o financiación de los productos más favorables que los establecidos como límite por el presente Real Decreto.
+
+4\. La venta a precios distintos de los fijados legalmente, incluyéndose en este supuesto la concesión de descuentos, bonificaciones o entrega de productos promocionales a clientes.
+
+5\. La comisión de dos o más infracciones graves por suministro o transporte por el expendedor a un punto de venta con recargo no asignado.
+
+6\. El traslado del lugar de venta prescindiendo del procedimiento establecido en el artículo 39 del presente Real Decreto.
+
+7\. El suministro por el expendedor a diez o más puntos de venta con recargo no asignados.
+
+> Se añade el apartado 7 por el art. único.43 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se modifica el apartado 5 por el art. único.31 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 57. Infracciones graves.
+
+Constituyen infracciones graves:
+
+1\. El incumplimiento por los expendedores de las obligaciones que el presente Real Decreto marca respecto a los días y horario de apertura del establecimiento y, en todo caso, el cierre de éste, por un período superior a cinco días e inferior a un mes, sin la debida autorización.
+
+2\. La falta de gestión personal y directa de la expendeduría, sin perjuicio de la colaboración que a su titular puedan prestar sus auxiliares o dependientes.
+
+3\. **(Sin contenido)**
+
+4\. El desabastecimiento por período de tiempo superior a quince días de labores o efectos normalmente reclamados por los consumidores, así como el incumplimiento de las normas sobre surtidos mínimos.
+
+5\. La inobservancia por parte del expendedor de las condiciones de suministro a particulares o a los puntos de venta con recargo, manifestada, entre otras, por las siguientes acciones u omisiones:
+
+a) Negativa sin causa justificada a la venta de labores o efectos.
+
+b) No extender, con ocasión de la venta de las mercancías, el correspondiente documento de circulación o vendí, en los supuestos en que sea preceptivo.
+
+c) Incumplir la normativa sobre la venta a menores.
+
+d) No conservar las copias de las hojas de pedidos, facturas y vendís correspondientes a los últimos tres años a disposición del Comisionado para el Mercado de Tabacos.
+
+e) El suministro o transporte a puntos de venta con recargo distintos de los que tuviera reglamentariamente adscritos, o que no dispusieran de autorización o que la misma se encontrase caducada, así como la realización de actividades comerciales que excedan del ámbito propio de la concesión como la venta a distancia o por medios telemáticos o mediante exportación, o a otras expendedurías, con excepción, de la venta a distancia a personas residentes en otro Estado miembro de la Unión de labores de tabaco que tengan la condición de "mercancías comunitarias" según el artículo 4.7 Reglamento (CEE) n.º 2913/1992, de 12 de octubre de 1992, por el que se aprueba el Código aduanero comunitario, sin perjuicio del cumplimiento de la normativa fiscal aplicable.
+
+f) La falta de presentación de la declaración responsable respecto a la venta de otros productos, o la venta de productos cuando la misma haya sido declarada ineficaz, así como el almacenamiento en los mismos locales de productos que pudieran perjudicar la buena conservación de las labores de tabaco.
+
+g) En los supuestos de gestión delegada, la desproporción de labores más demandadas y la no adecuación de los precios de las labores de tabaco existentes en las máquinas expendedoras a los publicados por el Comisionado para el Mercado de Tabacos.
+
+6\. El incumplimiento de las normas que regulan la publicidad y en concreto:
+
+a) La discriminación en vitrinas o escaparates de productos, marcas o fabricantes.
+
+b) La identificación externa mediante logotipos, rótulos o elementos identificativos de fabricantes, marquistas o distribuidores concretos.
+
+c) La publicidad en el exterior del establecimiento de marcas o productos de los sujetos mencionados en los párrafos a) y b), así como la identificación en el exterior del establecimiento en que se encuentre sito el punto de venta mediante logotipos, rótulos o elementos identificativos de fabricantes, marquistas o distribuidores.
+
+7\. El falseamiento o la falta injustificada de comunicación, dentro de los plazos que fije el Presidente del Comisionado para el Mercado de Tabacos, de los documentos, datos o informaciones que deban proporcionar los expendedores para los fines propios del Comisionado.
+
+8\. La resistencia, negativa u obstrucción a la acción inspectora del Comisionado, de sus agentes o mandatarios, respecto al cumplimiento de las obligaciones que a los expendedores les impone la legislación vigente.
+
+En particular se comprenderán en este supuesto la negativa, resistencia u obstrucción a la comprobación de la documentación de obligada llevanza, o al acceso a las instalaciones de la expendeduría y sus almacenes.
+
+9\. La obtención de labores de tabaco de proveedores distintos a los autorizados, cuando tales acciones no sean calificadas por los órganos competentes como delitos o infracciones de contrabando.
+
+> Se suprime el apartado 3 y se modifican las letras c), e) y f) del 5 y se añade la g) por el art. único.44 a 47 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Se declara la nulidad del apartado 5.e), con la extensión y alcance determinados en los fundamentos jurídicos indicados por la Sentencia del TS, de 8 de noviembre. [Ref. BOE-A-2013-580](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-580).
+
+> Se modifica el apartado 5.e) por el art. único.32 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Artículo 58. Infracciones leves.
+
+Constituyen infracciones leves:
+
+1\. El incumplimiento por los expendedores de las normas sobre atención al público establecidas en el presente Real Decreto.
+
+2\. La no disponibilidad de las tarifas oficiales de precios o de los documentos acreditativos de la concesión.
+
+3\. Cualquier otra infracción del régimen jurídico de la actividad de venta al por menor tipificada en el presente Real Decreto como actuación negligente en la prestación del servicio y no configurada como infracción muy grave o grave.
+
+4\. La venta de tabaco sin la debida autorización administrativa, cuando no constituya delito o infracción administrativa de contrabando según su legislación específica. Se entenderá también incluido en este supuesto el almacenamiento no autorizado de labores de tabaco con destino a su venta. Se presumirá que tal destino existe cuando las labores estuvieran situadas en un establecimiento mercantil abierto al público o de la actitud y conducta de su poseedor se dedujese patentemente el ofrecimiento al público para su venta.
+
+5\. En el supuesto de gestión delegada de puntos de venta con recargo por parte del expendedor, cualquier otra infracción de los requisitos exigibles a las máquinas expendedoras de tabaco salvo lo previsto en el artículo 57.Cinco.
+
+6\. Cualquier otra infracción de lo previsto en la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria, realizada por los expendedores, no tipificada como infracción grave o muy grave.
+
+> Se modifican los apartados 2 y 5 y se añade el 6 por el art. único.48 a 50 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+###### Artículo 59. Sanciones.
+
+Uno. Las infracciones a que se refieren los artículos 56 a 58 anteriores serán sancionadas en la forma siguiente:
+
+1\. Las infracciones muy graves, con la revocación de la concesión o con multa entre 120.202,42 y 300.506,05 euros.
+
+2\. Las infracciones graves, con suspensión temporal del ejercicio de la concesión de hasta seis meses o con multa desde 12.020,24 hasta 120.202,42 euros.
+
+3\. Las infracciones leves, con multa de hasta 12.020,24 euros.
+
+Dos. Las infracciones a que se refiere el apartado cuatro del artículo 58 anterior serán sancionadas con multa hasta 3.005,06 euros, respondiendo solidariamente, junto con el sujeto infractor, el titular del establecimiento en que la infracción se realizase si aquél fuese su empleado o dependiente o si se cometiese con su conocimiento.
+
+> Se convierten a euros las cuantías contempladas por la disposición adicional 2 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+### CAPÍTULO IV — Régimen sancionador aplicable a los autorizados para la venta con recargo
+
+###### Artículo 60. Infracciones muy graves.
+
+Constituyen infracciones muy graves:
+
+1\. **(Sin contenido)**
+
+2\. La adquisición de tabaco a precios distintos de los de tarifa o mediando cualquier tipo de descuento, incentivo o bonificación, directo o indirecto, en términos iguales a lo establecido en el artículo 56, apartado 3, del presente Real Decreto.
+
+> Se deja sin contenido el apartado 1 por el art. único.51 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+###### Artículo 61. Infracciones graves.
+
+Constituyen infracciones graves:
+
+1\. La ausencia reiterada, en los puntos de venta con recargo, de existencias de las labores más demandadas, así como la identificación en el exterior del establecimiento en que se encuentre sito el punto de venta mediante logotipos, rótulos o elementos identificativos de fabricantes, marquistas o distribuidores y la publicidad en el exterior del establecimiento de sus marcas o productos.
+
+2\. El falseamiento o la falta injustificada de comunicación, dentro de los plazos que fije el Presidente del Comisionado para el Mercado de Tabacos, de los documentos, datos o informaciones que deban proporcionar los autorizados para los fines propios del Comisionado.
+
+3\. La resistencia, negativa u obstrucción a la acción inspectora del Comisionado para el Mercado de Tabacos, de sus agentes o mandatarios, respecto al cumplimiento de las obligaciones que a los autorizados para la venta con recargo impone la legislación vigente.
+
+En particular se comprenderán en este supuesto la negativa, resistencia u obstrucción a la comprobación de la documentación de obligada llevanza, o al acceso a las instalaciones del punto de venta y sus almacenes.
+
+4\. La obtención de labores de tabaco de proveedor distinto a la expendeduría asignada al efecto cuando tal actuación no sea calificada por los órganos competentes como delito o infracción de contrabando.
+
+5\. La comercialización de productos a precios distintos de los establecidos para su venta con recargo.
+
+> Se añade el apartado 5 por el art. único.52 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+###### Artículo 62. Infracciones leves.
+
+Constituyen infracciones leves:
+
+1\. La ausencia de exhibición en sitio visible de las tarifas oficiales de venta con recargo o del documento acreditativo de la autorización.
+
+2\. La venta de tabaco sin la debida autorización administrativa, cuando no constituya delito o infracción administrativa de contrabando según su legislación específica. Se entenderá también incluido en este supuesto el almacenamiento no autorizado de labores de tabaco con destino a su venta. Se presumirá que tal destino existe cuando las labores estuvieran situadas en un establecimiento mercantil abierto al público o de la actitud y conducta de su poseedor se dedujese patentemente el ofrecimiento al público para su venta.
+
+3\. Cualquier otra infracción del régimen jurídico de la actividad previsto en la Ley realizada por un autorizado para la venta con recargo, y no configurada como infracción grave o muy grave y, en particular, la falta de acompañamiento a las mercancías del oportuno vendí expedido en el momento de su adquisición y la conservación de los correspondientes a las adquisiciones del último año.
+
+###### Artículo 63. Sanciones.
+
+Uno. Las infracciones a que se refieren los artículos 60 a 62 anteriores serán sancionados de la siguiente forma:
+
+1\. Las infracciones muy graves, con la revocación de la autorización o con multa entre 3.005,06 euros y hasta 12.020,24 euros.
+
+2\. Las infracciones graves, con suspensión de la autorización por plazo hasta seis meses o con multa entre 601,01 euros y 3.005,06 euros.
+
+3\. Las infracciones leves con multa hasta 601,01 euros.
+
+Dos. Las infracciones a que se refiere el apartado 2 del artículo 62 anterior serán sancionadas con multa hasta 3.005,06 euros, respondiendo solidariamente, junto con el sujeto infractor, el titular del establecimiento en que la infracción se realizase si aquél fuese su empleado o dependiente o si se cometiese con su conocimiento.
+
+> Se convierten a euros las cuantías contempladas por la disposición adicional 2 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+### CAPÍTULO V — Régimen sancionador aplicable a otros sujetos que intervengan en el mercado de tabacos
+
+###### Artículo 64. Infracciones leves de sujetos no autorizados.
+
+Constituirá infracción leve la venta de tabaco sin la debida autorización administrativa cuando no constituya delito o infracción administrativa de contrabando según su legislación específica. Se entenderá también incluido en este supuesto el almacenamiento no autorizado de labores de tabaco con destino a su venta. Se presumirá que tal destino existe cuando las labores estuvieran situadas en un establecimiento mercantil abierto al público o de la actitud y conducta de su poseedor se dedujese patentemente el ofrecimiento al público para su venta.
+
+###### Artículo 65. Sanciones.
+
+Las infracciones a que se refiere el artículo anterior serán sancionadas con multa de hasta 3.005,06 euros, respondiendo solidariamente, junto con el sujeto infractor, el titular del establecimiento en que la infracción se realizase si aquél fuese su empleado o dependiente o si se cometiese con su conocimiento.
+
+> Se convierte a euros la cuantía contemplada por la disposición adicional 2 del Real Decreto 1/2007, de 12 de enero. [Ref. BOE-A-2007-1220](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1220).
+
+###### Disposición adicional primera. Ingreso previo de tasas.
+
+De conformidad con lo dispuesto en el artículo 23 de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, el ingreso previo de las tasas establecidas en el artículo 5.8, a), de la Ley 13/1998, de Ordenación del mercado de tabacos y normativa tributaria, desarrolladas en el anexo de la citada norma, se realizará por el procedimiento de autoliquidación.
+
+El ingreso de las mismas se efectuará utilizando los impresos de declaración-liquidación según los modelos que se aprueben por Orden del Ministerio de Economía y Hacienda.
+
+###### Disposición adicional segunda. Ventas en establecimientos especiales comprendidos en la disposición adicional séptima de la Ley 13/1998, que hasta el 1 de julio de 1999 venían realizando sus ventas, en los desplazamientos intracomunitarios, libres de impuestos.
+
+En aplicación de las previsiones de la disposición adicional séptima de la Ley 13/1998, de 4 de mayo, los establecimientos que estuvieran autorizados o se autoricen para realizar las ventas reguladas en la misma podrán desarrollar su actividad en relación con las labores de tabacos con impuestos, y el recargo correspondiente, aunque sometidos a las siguientes limitaciones:
+
+a) No podrán suministrar labores de tabaco a las expendedurías de tabaco y timbre, puntos de venta con recargo, ni realizar la expendición por medio de máquinas automáticas.
+
+b) No podrán realizar ventas unitarias de labores por cuantía inferior a 200 cigarrillos o 5 cigarros, correspondientes a la misma referencia de producto.
+
+c) Sólo podrán vender las labores de tabaco con el recargo autorizado.
+
+d) No podrán efectuar cambios de emplazamiento, ni establecer extensiones temporales fuera del edificio o recinto en el que operasen, salvo en el supuesto de que el servicio prestado por dichos edificios o recintos fuese trasladado, total o parcialmente a otras instalaciones.
+
+Los cambios de emplazamiento efectuados dentro del mismo edificio o recinto, deberán ser autorizados por el Comisionado para el Mercado de Tabacos, por si pudieran causar un apreciable perjuicio económico a una expendeduría preexistente.
+
+e) No serán de aplicación las previsiones del apartado cinco del artículo 4 de la Ley 13/1998 referente a puntos de venta con recargo.
+
+Por el Ministro de Economía y Hacienda se establecerán las adaptaciones que resulten necesarias al régimen de funcionamiento de los establecimientos regulados en el presente apartado.
+
+f) En el caso de los establecimientos que estuvieran autorizados deberán poner en conocimiento del Comisionado para el Mercado de Tabacos el inicio de las operaciones de venta.
+
+> Se modifica el primer párrafo y se añade la letra f) por el art. único.53 y 54 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+> Redactado el título conforme a la corrección de errores publicada en BOE núm. 219, de 13 de septiembre de 1999. [Ref. BOE-A-1999-18706](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-18706).
+
+###### Disposición adicional tercera. Comercio al por menor de labores de tabaco.
+
+El régimen relativo al comercio al por menor de labores de tabaco, regulado en el título II, referente a la venta de tabaco, tanto en expendedurías, como en los puntos de venta con recargo, ya se realice de forma manual o mediante el empleo de máquina automática expendedora, se entenderá sin perjuicio de las obligaciones establecidas en la normativa sanitaria vigente.
+
+> Se modifica por el art. único.55 del Real Decreto 748/2014, de 5 de septiembre. [Ref. BOE-A-2014-9224](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9224).
+
+###### Disposición adicional cuarta. Relación por medios electrónicos.
+
+Los operadores deberán relacionarse exclusivamente por medios electrónicos en los trámites y procedimientos llevados a cabo con el Comisionado para el Mercado de Tabacos, de conformidad con la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, a partir del 2 de enero de 2026.
+
+> Se añade por el art. 2.1 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+###### Disposición adicional quinta. Plazo de resolución de los expedientes sancionadores del Comisionado para el Mercado de Tabacos.
+
+El plazo para resolver y notificar los expedientes sancionadores del Comisionado para el Mercado de Tabacos por infracciones de la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria, será de seis meses en aquellos procedimientos sancionadores que se inicien a partir de la entrada en vigor de esta disposición.
+
+> Se añade por el art. 2.2 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+###### Disposición transitoria primera. Distintivo institucional.
+
+El rótulo identificativo de los establecimientos de la Red de Expendedurías de Tabaco y Timbre del Estado será establecido por el Comisionado para el Mercado de Tabacos, manteniéndose en vigor, hasta que ello tenga lugar, el actual distintivo institucional del Monopolio de Tabacos, constituido por una letra T en color rojo sobre fondo de hoja de tabaco en amarillo cromo y rótulos con la indicación «Tabacos» y en Canarias «Timbre», en iguales colores. Si las disposiciones urbanísticas vigentes en cada localidad impidiesen la utilización de formas, grafismos, colores o dimensiones distintos a los reglamentarios, el Comisionado para el Mercado de Tabacos adoptará medidas adecuadas para la señalización de las expendedurías en tales circunstancias.
+
+###### Disposición transitoria segunda. Régimen aplicable a las infracciones anteriores.
+
+Las infracciones cometidas por los distintos operadores del mercado de tabacos con anterioridad a la entrada en vigor de la Ley 13/1998, de 4 de mayo, serán sancionadas de acuerdo con el principio de la normativa más favorable.
+
+###### Disposición transitoria tercera. Autorizaciones de puntos de venta con recargo.
+
+Las autorizaciones de puntos de venta con recargo otorgadas con anterioridad al 26 de mayo de 1998, fecha de entrada en vigor de la Ley 13/1998, de 4 de mayo, mantendrán su vigencia durante el plazo a que se refiere el artículo 27 del presente Real Decreto, contado a partir de la indicada fecha del 26 de mayo, salvo que, atendida la fecha en que la autorización se produjo, dichas autorizaciones tuvieran un plazo de validez que, según el Real Decreto 2738/1986, de 12 de diciembre, venciere antes del 26 de mayo de 2001, en cuyo caso deberán ser renovadas a partir de la fecha de su caducidad según la última norma indicada. Tal vigencia no se extenderá en relación con las autorizaciones otorgadas en favor de quienes, a tenor de lo prevenido en los artículos 1 dos c) y 4 tres de la Ley 13/1998, de 4 de mayo, no pueden ser titulares de autorización de venta con recargo.
+
+###### Disposición transitoria cuarta. Moratoria para simultanear el transporte del tabaco con otras mercancías.
+
+**(Derogada)**
+
+> Se deroga en la forma indicada por la disposición adicional 2 del Real Decreto-Ley 6/2000, de 23 de junio. [Ref. BOE-A-2000-11836](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-11836).
+
+###### Disposición derogatoria única. Derogación normativa.
+
+A la entrada en vigor del presente Real Decreto quedarán derogadas todas las disposiciones que se opongan a lo dispuesto en el mismo y, en particular, el Real Decreto 2738/1986, de 12 de diciembre, regulador de las actividades de importación y comercio mayorista y minorista de las labores de tabaco, sin perjuicio de la exigencia de las responsabilidades nacidas bajo su vigencia.
+
+Continuarán en vigor, en tanto no se opongan a la presente disposición el Real Decreto 1394/1993, de 4 de agosto, regulador del procedimiento sancionador, y el Real Decreto 1768/1994, de 5 de agosto, regulador de los procedimientos en materia de autorizaciones, concesiones y permisos en el ámbito del monopolio de tabacos, salvo el apartado 2 del artículo 3, y los artículos 4, 5 y 6 de este último, entendiéndose las referencias en las mismas relativas a la Delegación del Gobierno en el Monopolio de Tabacos como hechas al Organismo autónomo Comisionado para el Mercado de Tabacos.
+
+###### Disposición final primera. Facultad de desarrollo.
+
+Se faculta al Ministro de Economía y Hacienda, Secretario de Estado de Hacienda y Presidente del Organismo autónomo Comisionado para el Mercado de Tabacos, en el ámbito de sus competencias respectivas, para dictar las disposiciones necesarias para la aplicación del presente Real Decreto.
+
+###### Disposición final segunda. Zonas francas y áreas exentas.
+
+Las operaciones comerciales realizadas en zonas francas y demás áreas exentas, con labores de tabaco cuyo destino final sea la exportación o envío fuera del territorio de aplicación de la Ley 13/1998, de Ordenación del Mercado de Tabacos, no estarán afectadas por lo dispuesto en el presente Real Decreto.
+
+###### Disposición final tercera. Modificación del artículo 9.1 del Real Decreto 2668/1998, de 11 de diciembre,
+
+El último párrafo del artículo 9.1 del Real Decreto 2668/1998, de 11 de diciembre, por el que se aprueba el Estatuto del Organismo autónomo Comisionado para el Mercado de Tabacos tendrá la siguiente redacción:
+
+«s) Un secretario, representante del Organismo autónomo y designado por su Presidente, que actuará con voz pero sin voto.»
+
+###### Disposición final cuarta. Adición de un apartado 6 al artículo 9 del Real Decreto 2668/1998.
+
+Se añade un apartado 6 al artículo 9 del Real Decreto 2668/1998.
+
+«6) Los miembros del Comité Consultivo podrán asistir, con voz pero sin voto, a las reuniones de las Comisiones de la Producción y de Expendedurías de las que no sean miembros.»
+
+###### Disposición final quinta. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 9 de julio de 1999.
+
+JUAN CARLOS R.
+
+El Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda,
+
+RODRIGO DE RATO Y FIGAREDO
+
+## ANEXO — Modelo de declaración responsable para los fabricantes, importadores y distribuidores mayoristas de labores de tabaco
+
+DECLARACIÓN RESPONSABLE PARA LOS FABRICANTES, IMPORTADORES Y DISTRIBUIDORES MAYORISTAS DE LABORES DE TABACO
+
+| Nombre y apellidos/razón social: |
+|---|
+| NIF/CIF/NIE |
+| Domicilio de notificación: |
+| Representante: |
+| NIF/CIF/NIE |
+| Manifiesta bajo su responsabilidad<sup>*</sup>, su voluntad de desarrollar la actividad de fabricación/importación/distribución mayorista (táchese lo que no proceda) de labores de tabaco, comprometiéndose expresamente a cumplir con el régimen jurídico aplicable a dicha actividad, y en particular con las obligaciones fiscales relativas a los Impuestos Especiales, a disponer de la documentación que acredita dicho cumplimiento, a mantenerlo durante la vigencia de la actividad, a no estar incurso en las causas que inhabilitan para ser operador establecida en el artículo 1.dos de la Ley 13/1998 y en el artículo 2 del Real Decreto 1199/1999 y a comunicar cualquier variación de los datos y documentos aportados en este momento inicial al Comisionado para el Mercado de Tabacos. |
+| Junto a la presente declaración responsable, y conforme a lo establecido en los artículos 3, 4 y 5 del Real Decreto 1199/1999, se aporta la siguiente documentación justificativa: <br>1 Para fabricantes de labores de tabaco: <br>○ Los planos de los almacenes, con indicación, mediando el suficiente detalle, de las condiciones previstas de seguridad, recuento y movimiento de las labores, del cumplimiento de las medidas exigibles en relación con el almacenamiento no frigorífico de productos alimenticios y la indicación de las disposiciones previstas para el almacenamiento que permitan la fácil comprobación del producto depositado y de sus movimientos. <br>○ Una memoria descriptiva de las labores a fabricar, incluyendo una previsión del volumen de fabricación. <br>2 Para importadores de labores de tabaco: <br>○ De disponer de almacenes, propios o contratados, habrán de aportarse los planos de los almacenes con indicación de las condiciones de seguridad de los productos, que permitan el correcto almacenamiento, y en condiciones de seguridad, de los productos así como la fácil comprobación por la Administración de las labores almacenadas, su origen y sus movimientos. <br>○ De remitirse directamente el producto al almacén de cualquiera de los fabricantes o distribuidores mayoristas habilitados a tal fin, deberá indicar el fabricante o distribuidor mayorista a cuyos almacenes se van a remitir directamente las labores importadas, así como una copia del contrato suscrito al efecto y a la aceptación del fabricante o distribuidor mayorista a la que hace referencia el apartado 2 del artículo 15 del Real Decreto 1199/1999. <br>3. Para los distribuidores mayoristas de tabaco <br>○ Los planos de las instalaciones disponibles o contratadas, y la justificación documental de la propiedad o el contrato de los mismos, con descripción de las condiciones de seguridad de los productos, que permitan el correcto almacenamiento, y en condiciones de seguridad, de los productos así como la fácil comprobación por la Administración de las labores almacenadas, su origen y sus movimientos. |
+| Fecha y firma: |
+| <sup> *</sup>Mediante la presente declaración se manifiesta expresamente conocer que el incumplimiento de lo dispuesto en la presente declaración podrá dar lugar a las responsabilidades establecidas en el artículo 7 de la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria y demás normativa sectorial. |
+
+> Se añade por el Real Decreto 36/2010, de 15 de enero. [Ref. BOE-A-2010-1454](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1454).

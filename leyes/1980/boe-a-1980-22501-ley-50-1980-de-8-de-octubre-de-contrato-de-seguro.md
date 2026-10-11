@@ -88,12 +88,6 @@ La póliza del contrato deberá redactarse, a elección del tomador del seguro, 
 
 3\. Naturaleza del riesgo cubierto, describiendo, de forma clara y comprensible, las garantías y coberturas otorgadas en el contrato, así como respecto a cada una de ellas, las exclusiones y limitaciones que les afecten destacadas tipográficamente.
 
-> Téngase en cuenta que esta última actualización del apartado 3 establecida por la disposición final 1.1 de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897). entra en vigor el 1 de enero de 2016 según se indica en la disposición final 21.1.
-
-> Redacción anterior:
-
-> "3. Naturaleza del riesgo cubierto."
-
 4\. Designación de los objetos asegurados y de su situación.
 
 5\. Suma asegurada o alcance de la cobertura.
@@ -145,12 +139,6 @@ El tomador de un seguro sobre la vida no está obligado a declarar si él o el a
 1\. El tomador del seguro o el asegurado deberán durante la vigencia del contrato comunicar al asegurador, tan pronto como le sea posible, la alteración de los factores y las circunstancias declaradas en el cuestionario previsto en el artículo anterior que agraven el riesgo y sean de tal naturaleza que si hubieran sido conocidas por éste en el momento de la perfección del contrato no lo habría celebrado o lo habría concluido en condiciones más gravosas.
 
 2\. En los seguros de personas el tomador o el asegurado no tienen obligación de comunicar la variación de las circunstancias relativas al estado de salud del asegurado, que en ningún caso se considerarán agravación del riesgo.
-
-> Téngase en cuenta que la actualización de este artículo establecida por la disposición final 1.2 de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897). entra en vigor el 1 de enero de 2016 según se indica en la disposición final 21.1.
-
-> Redacción anterior:
-
-> "El tomador del seguro o el asegurado deberán, durante el curso del contrato, comunicar al asegurador, tan pronto como le sea posible, todas las circunstancias que agraven el riesgo y sean de tal naturaleza que si hubieran sido conocidas por éste en el momento de la perfección del contrato no lo habría celebrado o lo habría concluido en condiciones más gravosas."
 
 > Se modifica por la disposición final 1.2 de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897).
 
@@ -266,16 +254,6 @@ En todo caso se precisará el consentimiento expreso del tomador del seguro para
 
 5\. Lo dispuesto en los apartados precedentes no será de aplicación en cuanto sea incompatible con la regulación del seguro sobre la vida.
 
-> Téngase en cuenta que la última actualización de este artículo establecida por la disposición final 1.3 de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897). entra en vigor el 1 de enero de 2016 según se indica en la disposición final 21.1.
-
-> Redacción anterior:
-
-> "La duración del contrato será determinada en la póliza, la cual no podrá fijar un plazo superior a diez años. Sin embargo, podrá establecerse que se prorrogue una o más veces por un período no superior a un año cada vez.
-
-> Las partes pueden oponerse a la prórroga del contrato mediante una notificación escrita a la otra parte, efectuada con un plazo de dos meses de anticipación a la conclusión del período del seguro en curso.
-
-> Lo dispuesto en los párrafos precedentes no será de aplicación en cuanto sea incompatible con la regulación del seguro sobre la vida."
-
 > Se modifica por la disposición final 1.3 de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897).
 
 > Téngase en cuenta para su aplicación la disposición transitoria 13.
@@ -349,28 +327,6 @@ No obstante lo previsto en el párrafo anterior, si en el pacto de coaseguro exi
 #### Artículo treinta y tres a).
 
 **(Derogado).**
-
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria.a) Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897). tendrá efectos el 1 de enero de 2016, según se establece en su disposición final 21.
-
-> Redacción anterior:
-
-> "1. Un contrato de seguro tendrá la calificación de coaseguro comunitario a los efectos de esta Ley si reúne todas y cada una de las siguientes condiciones:
-
-> a) Que dé lugar a la cobertura de uno o más riesgos de los definidos en el artículo 107.2 de esta Ley.
-
-> b) Que participen en la cobertura del riesgo varias aseguradoras teniendo todas ellas su domicilio social en alguno de los Estados miembros del Espacio Económico Europeo, y siendo una de ellas abridora de la operación.
-
-> c) Que el coaseguro se haga mediante un único contrato, referente al mismo interés, riesgo y tiempo y con reparto de cuotas determinadas entre varias aseguradoras, sin que exista solidaridad entre ellas, de forma que cada una solamente estará obligada al pago de la indemnización en proporción a la cuota respectiva.
-
-> d) Que cubra riesgos situados en el Espacio Económico Europeo.
-
-> e) Que la aseguradora abridora, esté o no domiciliada en España, se encuentre habilitada para cubrir la totalidad del riesgo conforme a las disposiciones que le sean aplicables.
-
-> f) Que al menos uno de los coaseguradores participe en el contrato por medio de su domicilio social o de una sucursal establecida en un Estado miembro del Espacio Económico Europeo distinto del Estado de la aseguradora abridora.
-
-> g) Que la abridora asuma plenamente las funciones que le corresponden en la práctica del coaseguro, determinando, de acuerdo con el tomador y de conformidad con lo dispuesto en las leyes, la ley aplicable al contrato de seguro, las condiciones de éste y las de tarificación.
-
-> 2\. Las aseguradoras que participen en España en una operación de coaseguro comunitario en calidad de abridoras, así como sus actividades como tales coaseguradoras, se regirán por las disposiciones aplicables al contrato de seguro por grandes riesgos."
 
 > Se deroga por la disposición derogatoria.a) de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897).
 
@@ -684,12 +640,6 @@ No obstante lo dispuesto en el párrafo anterior, cuando quien reclame esté tam
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria.a) de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897). tendrá efectos el 1 de enero de 2016, según se establece en su disposición final 21.
-
-> Redacción anterior:
-
-> "Será obligatorio el seguro de responsabilidad civil para el ejercicio de aquellas actividades que por el Gobierno se determinen. La Administración no autorizará el ejercicio de tales actividades sin que previamente se acredite por el interesado la existencia del seguro. La falta de seguro, en los casos en que sea obligatorio, será sancionada administrativamente."
-
 > Se deroga por la disposición derogatoria.a) de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897).
 
 #### Artículo setenta y seis.
@@ -962,8 +912,6 @@ Los seguros de enfermedad y de asistencia sanitaria quedarán sometidos a las no
 
 ### Sección quinta. Seguros de decesos y dependencia
 
-> Téngase en cuenta que esta sección añadida por la disposición final 1.4 de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897). entra en vigor el 1 de enero de 2016 según se indica en la disposición final 21.1.
-
 > Se añade por la disposición final 1.4 de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897).
 
 #### Artículo ciento seis bis.
@@ -1021,26 +969,6 @@ a) Cuando se refiera a riesgos que estén localizados en territorio español y e
 b) Cuando el contrato se concluya en cumplimiento de una obligación de asegurarse impuesta por la ley española.
 
 2\. En los contratos de seguro por grandes riesgos las partes tendrán libre elección de la ley aplicable.
-
-> Téngase en cuenta que se deroga la definición de grandes riesgos establecida en el apartado 2 por la disposición derogatoria.a) de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897). con efectos de 1 de enero de 2016.
-
-> Redacción anterior:
-
-> "Se consideran grandes riesgos los siguientes:
-
-> a) Los de vehículos ferroviarios, vehículos aéreos, vehículos marítimos, lacustres y fluviales, mercancías transportadas (comprendidos los equipajes y demás bienes transportados), la responsabilidad civil en vehículos aéreos (comprendida la responsabilidad del transportista) y la responsabilidad civil de vehículos marítimos, lacustres y fluviales (comprendida la responsabilidad civil del transportista).
-
-> b) Los de crédito y de caución cuando el tomador ejerza a título profesional una actividad industrial, comercial o liberal y el riesgo se refiera a dicha actividad.
-
-> c) Los de vehículos terrestres (no ferroviarios), incendio y elementos naturales, otros daños a los bienes, responsabilidad civil en vehículos terrestres automóviles (comprendida la responsabilidad del transportista), responsabilidad civil en general, y pérdidas pecuniarias diversas, siempre que el tomador supere los límites de, al menos, dos de los tres criterios siguientes:
-
-> \- Total del balance: 6.200.000 ecus.
-
-> \- Importe neto del volumen de negocios: 12.800.000 ecus.
-
-> \- Número medio de empleados durante el ejercicio: 250 empleados.
-
-> Si el tomador del seguro formara parte de un conjunto de empresas cuyo balance consolidado se establezca con arreglo a lo dispuesto en los artículos 42 a 49 del Código de Comercio, los criterios mencionados anteriormente se aplicarán sobre la base del balance consolidado".
 
 3\. Fuera de los casos previstos en los dos números anteriores, regirán las siguientes normas para determinar la ley aplicable al contrato de seguro contra daños:
 

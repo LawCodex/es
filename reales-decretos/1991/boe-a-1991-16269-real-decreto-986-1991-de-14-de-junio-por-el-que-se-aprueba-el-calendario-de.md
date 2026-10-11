@@ -1,0 +1,868 @@
+---
+title: "Real Decreto 986/1991, de 14 de junio, por el que se aprueba el calendario de aplicación de la nueva ordenación del sistema educativo"
+identifier: "BOE-A-1991-16269"
+eli: "https://www.boe.es/eli/es/rd/1991/06/14/986"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación y Ciencia"
+date: 1991-06-14
+published: 1991-06-25
+in_force_from: 1991-06-26
+last_amended: 2003-06-28
+consolidated: 2026-03-04
+gazette: "Boletín Oficial del Estado núm. 151"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-16269"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 986/1991, de 14 de junio, por el que se aprueba el calendario de aplicación de la nueva ordenación del sistema educativo
+
+La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo establece en su disposición adicional primera que el Gobierno, previo informe de las Comunidades Autónomas aprobará el calendario de aplicación de la nueva ordenación del sistema educativo y que dicho calendario tendrá un ámbito temporal de diez años a partir de la publicación de la Ley. Según establece la misma disposición, el calendario deberá incluir la extinción gradual de los planes de estudios en vigor y la implantación de los nuevos currículos, así como las equivalencias, a efectos académicos, de los años cursados según los planes de estudios que se extinguen. El calendario de implantación del nuevo sistema educativo debe establecer, asimismo, el procedimiento de adecuación de los conciertos educativos vigentes a las nuevas enseñanzas en los términos previstos en la disposición transitoria tercera de la propia Ley.
+
+Por otra parte, la nueva ordenación del sistema supone adoptar determinadas medidas directamente vinculadas a la mejora de la calidad educativa, algunas de las cuales se explicitan en la disposición adicional tercera de la Ley y que deben ser incorporadas al calendario de aplicación del nuevo sistema.
+
+La necesaria prudencia en el establecimiento de plazos para la generalización del nuevo sistema no impide, sin embargo, un razonable margen de flexibilidad para permitir que las Administraciones educativas anticipen la implantación gradual de las nuevas enseñanzas, bajo determinadas condiciones, cuando se den los supuestos que posibiliten dicha implantación. Este proceso de transformación progresiva deberá contribuir a estimular en los Centros docentes el necesario clima de renovación y habrá de permitir que la oferta de educación secundaria y de formación profesional específica de grado superior se haga efectiva en un breve plazo.
+
+El calendario, en fin, tiene por objeto proporcionar a los diferentes sectores de la comunidad escolar y a las propias Administraciones educativas una referencia clara sobre la que orientar sus expectativas o planificar su gestión en el horizonte temporal de diez años en el que se plantea el calendario. En este contexto, la presente norma ha sido elaborada teniendo en cuenta los informes de las mencionadas Administraciones educativas.
+
+En su virtud, a propuesta del Ministro de Educación y Ciencia, previo informe de las Comunidades Autónomas que se hallen en el pleno ejercicio de su competencia en materia de educación y previo informe del Consejo Escolar del Estado, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 14 de junio de 1991,
+
+DISPONGO:
+
+## CAPÍTULO PRIMERO — Disposiciones generales
+
+#### Artículo 1.
+
+El calendario de aplicación de la nueva ordenación del sistema educativo establecida por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, se regirá por lo dispuesto en este Real Decreto.
+
+#### Artículo 2.
+
+La extinción gradual de los planes de estudios en vigor y la implantación de los nuevos currículos, así como las equivalencias, a efectos académicos, de los años cursados según los planes que se extinguen, se ajustarán al calendario que establece la presente norma.
+
+#### Artículo 3.
+
+La adecuación de los conciertos educativos vigentes a las nuevas enseñanzas, en los términos previstos en la disposición transitoria tercera de la Ley Orgánica 1/1990, de 3 de octubre, se regirá también por lo dispuesto en este Real Decreto.
+
+## CAPÍTULO II — Enseñanzas de régimen general
+
+### Sección 1.ª: Proceso de generalización del nuevo sistema y de extinción del sistema anterior
+
+#### Artículo 4.
+
+En el año académico 1990-91 quedarán fijadas, en relación con la Educación Infantil, la Educación Primaria y la Educación Secundaria Obligatoria, las enseñanzas mínimas a las que se refiere el apartado dos del artículo 4.º de la Ley Orgánica 1/1990, de 3 de octubre. A lo largo de los cursos siguientes, y con la antelación suficiente, se fijarán las enseñanzas mínimas distintas de las citadas y se adoptarán asimismo las medidas de ordenación académica que, junio con las enseñanzas mínimas, permitan la aplicación de lo que se dispone en los artículos siguientes del presente Real Decreto.
+
+#### Artículo 5.
+
+En el año académico 1991-92 las Administraciones educativas comenzarán la implantación gradual del segundo ciclo de la Educación Infantil. A lo largo de los años siguientes y en el marco temporal del calendario establecido por el presente Real Decreto se completará la ordenación del conjunto de la etapa y se extinguirán los cursos correspondientes a la Educación Preescolar.
+
+#### Artículo 6.
+
+En el año académico 1992-93 se implantará, con carácter general, el primer ciclo de la Educación Primaria y dejarán de impartirse las enseñanzas correspondientes a los cursos 1.º y 2.º de la Educación General Básica.
+
+#### Artículo 7.
+
+1\. En el año académico 1993-1994, se implantará, con carácter general, el segundo ciclo de la educación primaria y dejarán de impartirse las enseñanzas correspondientes a los cursos tercero y cuarto de la educación general básica.
+
+2\. En el año académico 1994-1995, se implantará, con carácter general, el quinto curso de la educación primaria y dejarán de impartirse las enseñanzas correspondientes al curso quinto de la educación general básica.
+
+3\. En el año académico 1995-1996, se implantará, con carácter general, el sexto curso de la educación primaria y dejarán de impartirse las enseñanzas correspondientes al curso sexto de la educación general básica.
+
+> Se modifica por el art. único.1 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.1 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 8.
+
+1\. En el año académico 1996-1997, se implantará, con carácter general, el primer curso de la educación secundaria obligatoria y dejarán de impartirse las enseñanzas correspondientes al curso séptimo de la educación general básica.
+
+2\. En el año académico 1997-1998, se implantará, con carácter general, el segundo curso de la educación secundaria obligatoria y dejarán de impartirse las enseñanzas correspondientes al curso octavo de la educación general básica.
+
+> Se modifica por el art. único.2 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.2 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 9.
+
+En el año académico 1998-1999 se implantará, con carácter general, el tercer curso de la educación secundaria obligatoria y dejarán de impartirse las enseñanzas correspondientes al primer curso de bachillerato unificado y polivalente y al primer curso de la formación profesional de primer grado.
+
+> Se modifica por el art. único.1 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.3 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.3 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 10.
+
+En el año académico 1999-2000, se implantará, con carácter general, el cuarto curso de la educación secundaria obligatoria y dejarán de impartirse las enseñanzas correspondientes al segundo curso del bachillerato unificado polivalente y al segundo curso de la formación profesional de primer grado.
+
+> Se modifica por el art. único.4 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.4 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 11.
+
+La formación profesional específica de grado medio se implantará progresivamente a lo largo del calendario de aplicación de la reforma, debiendo completarse su generalización en el año académico 2000-2001.
+
+> Se modifica por el art. único.2 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.5 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.5 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 12.
+
+1\. En el año académico 2000-2001 se implantará, con carácter general, el primer curso del bachillerato y dejarán de impartirse el tercer curso de bachillerato unificado y polivalente, el primero de formación profesional de segundo grado en régimen de enseñanzas especializadas y el curso de enseñanzas complementarias para el acceso del primero al segundo grado de formación profesional.
+
+2\. En el año académico 2001-2002 se implantará, con carácter general, el segundo curso de bachillerato y dejarán de impartirse el curso de orientación universitaria, el segundo curso de formación profesional de segundo grado en régimen de enseñanzas especializadas y el primero de formación profesional de segundo grado del régimen general.
+
+> Se modifica por el art. único.3 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.6 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.6 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 13.
+
+La formación profesional específica de grado superior se implantará progresivamente a lo largo del calendario a que se refiere el presente Real Decreto. En todo caso, en el año académico 2002-2003 dejarán de impartirse el tercer curso de formación profesional de segundo grado en régimen de enseñanzas especializadas y el segundo de formación profesional de segundo grado del régimen general.
+
+> Se modifica por el art. único.4 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.7 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.7 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 14.
+
+Las equivalencias, a efectos académicos, de los cursos realizados según los planes de estudios que se extiguen, en relación con los cursos de la nueva ordenación del sistema educativo, quedan establecidas como se detalla en el anexo I del presente Real Decreto.
+
+#### Artículo 15.
+
+En los dos años académicos siguientes a la extinción de las enseñanzas de Formación Profesional de primer grado, Bachillerato Unificado y Polivalente y Formación Profesional de segundo grado, respectivamente, los alumnos que, habiendo iniciado estas enseñanzas, no las hubieren finalizado, podrán realizar pruebas de evaluación para obtener los títulos correspondientes. Las Administraciones educativas arbitrarán las medidas oportunas a tales efectos y facilitarán la preparación de las pruebas por parte de los alumnos respectivos.
+
+> Se amplía en plazo en la forma indicada por la disposición transitoria 1.1 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+#### Artículo 16.
+
+1\. En aplicación de lo establecido en la disposición adicional cuarta, 1, de la Ley Orgánica 1/1990, de 3 de octubre, durante los cinco años siguientes a la extinción del octavo curso de educación general básica continuarán convocándose pruebas extraordinarias para la obtención del título de Graduado Escolar, en los términos previstos en el artículo 52.3 de la referida Ley Orgánica.
+
+2\. Hasta el término del año académico 2001-2002 se convocarán pruebas de evaluación de enseñanzas no escolarizadas para la obtención del título de Técnico Auxiliar.
+
+3\. A partir del año académico 2000-2001, las Administraciones educativas organizarán en las condiciones que al efecto se establezca, pruebas para la obtención del título de Graduado en educación secundaria por parte de personas mayores de dieciocho años. No obstante, las Administraciones educativas, en los casos de anticipación de la educación secundaria obligatoria, podrán organizar dichas pruebas con anterioridad para la citada población adulta.
+
+4\. **(Derogado)**
+
+5\. A partir del año académico 1998-1999, las Administraciones educativas podrán organizar pruebas para la obtención de los títulos de Técnico y Técnico superior, respectivamente, en las condiciones y supuestos que se determinen.
+
+6\. Las Administraciones educativas podrán convocar las pruebas a las que se refieren los apartados 3, 4 y 5 del presente artículo con anterioridad a las fechas que en cada uno de ellos se establecen.
+
+> Se deroga el apartado 4 por la disposición derogatoria única.1 del Real Decreto 827/2003, de 27 de junio. [Ref. BOE-A-2003-12866](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-12866).
+
+> Se modifica el apartado 4 por el art. 1.1 del Real Decreto 835/2002, de 2 de agosto. [Ref. BOE-A-2002-15764](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-15764).
+
+> Se modifica por el art. único.5 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.8 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.8 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 17.
+
+1\. A partir del año académico 1992-1993, para los centros sostenidos con fondos públicos, el número máximo de alumnos por aula en el primer curso de la educación primaria será de 25. Este compromiso se extenderá al segundo curso de la educación primaria a partir del año 1993-1994; al tercero a partir de 1994-1995; al cuarto a partir de 1995-1996; al quinto a partir de 1996-1997, y al sexto a partir de 1997-1998.
+
+2\. A partir del año académico 1996-1997, para los centros sostenidos con fondos públicos, el número máximo de alumnos por aula en el primer curso de la educación secundaria obligatoria será de 30. Este compromiso se extenderá al segundo curso de la educación secundaria obligatoria a partir del año 1997-1998; al tercero a partir de 1998-1999, y al cuarto a partir de 1999-2000. Lo dispuesto en este apartado se entenderá sin perjuicio de la garantía de continuidad de los alumnos ya escolarizados.
+
+3\. Las Administraciones educativas podrán adaptar los plazos citados en función de su propia planificación y dentro del ámbito temporal de doce años establecido por la Ley Orgánica 1/1990, de 3 de octubre, modificada por la disposición adicional vigésima séptima de la Ley 66/1997.
+
+4\. Los centros docentes distintos de los citados en los anteriores apartados 1 y 2 dispondrán, en todo caso, del plazo de doce años mencionado para alcanzar el número máximo de alumnos por aula a que se refiere este artículo.
+
+> Se modifica por el art. único.6 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.9 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.9 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 18.
+
+Las Administraciones educativas procederán a la creación progresiva de servicios especializados de orientación educativa, psicopedagógica y profesional que atiendan a los centros docentes, de manera que el proceso quede completado en el momento de la implantación total de los respectivos niveles y etapas del nuevo sistema.
+
+#### Artículo 19.
+
+1\. Dentro del ámbito temporal del calendario establecido por el presente Real Decreto, las Administraciones educativas dotarán progresivamente a los centros que lo requieran de profesorado y otro personal de apoyo para la adecuada atención de los alumnos con necesidades educativas especiales, de acuerdo con la diversa naturaleza de las necesidades y en el marco de lo previsto en los artículos 36 y 37 de la Ley Orgánica 1/1990.
+
+2\. El profesorado y el personal de apoyo a los que se refiere el apartado anterior se incorporarán a los centros desde el momento en que lo hagan los respectivos alumnos con necesidades educativas especiales.
+
+3\. Dentro del plazo de doce años para la aplicación de la nueva ordenación del sistema educativo, las Administraciones educativas deberán completar la supresión de barreras arquitectónicas en los centros educativos en los que se integren alumnos con deficiencias motóricas o visuales.
+
+> Se modifica por el art. único.7 del Real Decreto 986/1991, de 14 de junio. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+#### Artículo 20.
+
+En el proceso de transición del sistema que se extingue al nuevo sistema, las Administraciones educativas adoptarán medidas pedagógicas que faciliten a los alumnos su adaptación a las nuevas enseñanzas.
+
+### Sección 2.ª: Implantación anticipada del nuevo sistema
+
+#### Artículo 21.
+
+Con el fin de permitir la extensión de los ciclos formativos de formación profesional y la introducción progresiva del bachillerato, las Administraciones educativas podrán disponer la implantación de la educación secundaria obligatoria (segundo ciclo) en un número determinado de centros con anterioridad a los plazos previstos en el presente Real Decreto para llevar a cabo la generalización de la mencionada implantación.
+
+> Se modifica por el art. único.8 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.10 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.10 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 22.
+
+La implantación anticipada de enseñanzas de régimen general del nuevo sistema exigirá el cumplimiento de las condiciones que, en materia de ordenación académica y dotación de recursos personales, se vinculan en el presente Real Decreto a su implantación generalizada.
+
+#### Artículo 23.
+
+1\. Las Administraciones educativas adoptarán las medidas necesarias para que la estructura y el currículum de las enseñanzas organizadas con carácter experimental al amparo del Real Decreto 942/1986, de 9 de mayo, («Boletín Oficial del Estado» del 14), comiencen a ser adaptadas, en el curso 1992-93, a la nueva ordenación del sistema educativo.
+
+2\. No obstante lo dispuesto en el apartado anterior, en el caso de los módulos experimentales de Formación Profesional la adaptación a la que se refiere dicho apartado se producirá a lo largo del proceso de implantación de los Ciclos formativos de grado medio y de grado superior correspondientes a la nueva ordenación del sistema.
+
+3\. Las equivalencias, a efectos académicos, de las enseñanzas experimentales con las correspondientes a la nueva ordenación del sistema educativo quedan establecidas como se detalla en el anexo II del presente Real Decreto.
+
+## CAPÍTULO III — Enseñanzas de régimen especial
+
+### Sección 1.ª: De la «Música»
+
+#### Artículo 24.
+
+Las enseñanzas de «Música» correspondientes al nuevo sistema comenzarán a impartirse, de acuerdo con lo que previamente se determine respecto de su ordenación curricular y con arreglo al calendario que se establece a continuación.
+
+#### Artículo 25.
+
+En el año académico 1992-93 se implantarán los cursos 1.º y 2.º del Grado Elemental y dejarán de impartirse las enseñanzas establecidas según el Decreto 2618/1966, de 10 de septiembre («Boletín Oficial del Estado» del 24 de octubre), sobre Reglamentación general de los Conservatorios de Música correspondientes a los cursos siguientes:
+
+1.º y 2.º de «Solfeo» y «Teoría de la Música»;
+
+1.º de las especialidades de diez años;
+
+1.º de las especialidades de ocho años;
+
+1.° de las especialidades de siete años, y
+
+1.º de las especialidades de cinco años.
+
+> Téngase en cuenta para su aplicación la disposición transitoria 2.1 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 26.
+
+A partir del año académico 1993-1994 se implantarán progresivamente los restantes cursos del grado elemental correspondientes a la nueva ordenación del sistema educativo.
+
+> Se modifica por el art. único.11 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.11 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 27.
+
+1\. En el año académico 1995-1996 se implantará el primer curso del grado medio correspondiente a la nueva ordenación del sistema educativo.
+
+2\. En el año 1996-1997 se implantará el segundo curso del grado medio.
+
+3\. En el año 1997-1998 se implantará el tercer curso del grado medio.
+
+4\. En el año 1998-1999 se implantará el cuarto curso del grado medio.
+
+5\. En el año 1999-2000 se implantará el quinto curso del grado medio.
+
+6\. En el año 2000-2001 se implantará el sexto curso del grado medio, fecha a partir de la cual deberán cumplirse las condiciones establecidas en la disposición transitoria tercera, 2, del Real Decreto 389/1992, de 15 de abril.
+
+> Se modifica por el art. único.12 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.12 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 28.
+
+1\. A partir del año académico 2000-2001 se iniciará con carácter general la implantación de los cursos del grado superior de la nueva ordenación que las Administraciones educativas consideren oportuno.
+
+2\. No obstante lo establecido en el apartado anterior, las Administraciones educativas podrán anticipar al curso 1999-2000 la implantación de aquellos cursos de dicho grado que consideren oportunos.
+
+> Se modifica por el art. único.1 del Real Decreto 1112/1999, de 25 de junio. [Ref. BOE-A-1999-15031](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15031).
+
+> Se modifica por el art. único.9 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. 1 del Real Decreto 1468/1997, de 19 de septiembre. [Ref. BOE-A-1997-20176](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20176).
+
+> Se modifica por el art. único.13 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.13 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 29.
+
+1\. Los alumnos que en el año académico 1992-1993 tuvieran aprobado exclusivamente el primero de "Solfeo" y "Teoría de la Música", establecido en el Decreto 2618/1966, de 10 de septiembre, se incorporarán al segundo curso del grado elemental de la nueva ordenación.
+
+2\. Los alumnos que antes del año académico 1992-1993 tuvieran superados, como mínimo, los estudios correspondientes a los cursos segundo de "Solfeo" y "Teoría de la Música" y primero de "Instrumento", establecidos por el Decreto 2618/1966, de 10 de septiembre, podrán terminar dicho grado elemental de acuerdo con lo dispuesto en la citada norma.
+
+3\. No obstante lo dispuesto en el artículo 25 del presente Real Decreto, podrán iniciarse estudios de canto por el plan de estudios establecido en el Decreto 2618/1966, hasta el año académico 1995-1996, en que se implanta esta especialidad en la nueva ordenación del sistema educativo. En esta fecha se extinguirá el primer curso de canto del grado elemental, conforme al Decreto 2618/1966.
+
+4\. La posibilidad de continuar estudios de grado elemental, conforme al Decreto 2618/1966, de 10 de septiembre, de acuerdo con lo establecido en los apartados 2 y 3 del presente artículo, será efectiva dentro de los plazos establecidos en los apartados 3 y 4 del artículo 30 del presente Real Decreto.
+
+> Se modifica por el art. único.14 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.14 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+> Téngase en cuenta para la aplicación del apartado 1 la disposición transitoria 2.
+
+#### Artículo 30.
+
+1\. Los alumnos de especialidades instrumentales de diez años que hubieran iniciado los estudios de grado medio establecidos en el Decreto 2618/1966, de 10 de septiembre, con anterioridad al año 1996-1997, en que se inicia la implantación del segundo curso del grado medio de la nueva ordenación, podrán continuar los estudios de dicho grado de acuerdo con lo dispuesto en el Decreto 2618/1966, de 10 de septiembre.
+
+2\. Los alumnos de especialidades instrumentales de ocho años, canto, acordeón y percusión, que hubieran iniciado los estudios de grado medio establecidos en el Decreto 2618/1966, de 10 de septiembre, con anterioridad al año 1997-1998, en que se inicia la implantación del tercer curso del grado medio de la nueva ordenación, podrán continuar los estudios de dicho grado de acuerdo con lo dispuesto en el Decreto 2618/1966, de 10 de septiembre.
+
+3\. Los alumnos que hubieran superado los estudios conducentes al Diploma Elemental correspondiente al Decreto 2618/1966, de 10 de septiembre, de las especialidades de piano, violín y violoncello e inicien los estudios de grado medio a partir del curso 1996-1997, deberán realizarlos conforme a la nueva ordenación del sistema educativo, incorporándose al segundo curso de dicho grado. En dicho curso dejará de impartirse el grado elemental de estas especialidades, conforme a lo establecido en el Decreto 2618/1966, de 10 de septiembre.
+
+4\. Los alumnos que hubieran superado los estudios conducentes al Diploma Elemental correspondiente al Decreto 2618/1966, de 10 de septiembre, de las restantes especialidades, e inicien los estudios de grado medio a partir del curso 1997-1998, deberán realizarlos conforme a la nueva ordenación del sistema educativo, incorporándose al tercer curso de dicho grado. En dicho curso dejará de impartirse el grado elemental de estas especialidades, conforme a lo establecido en el Decreto 2618/1966, de 10 de septiembre.
+
+5\. No obstante lo establecido en el artículo 25 del presente Real Decreto, podrán iniciarse estudios de clave y órgano por el plan de estudios establecido en el Decreto 2618/1966, de 10 de septiembre, hasta el año académico 1995-1996, en el que se implanta el grado medio de la nueva ordenación del sistema educativo de estas especialidades. En esta fecha se extinguirá el primer curso de dichas especialidades conforme al Decreto 2618/1966, de 10 de septiembre.
+
+> Se modifica por el art. único.15 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.15 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 31.
+
+1\. A partir del curso en que se inicie la implantación del grado superior de la nueva ordenación del sistema educativo, los alumnos que hubieran iniciado los estudios del grado medio según lo establecido en el Decreto 2618/1966, de 10 de septiembre, podrán optar por continuar los estudios de grado superior, conforme a lo establecido en la citada norma o incorporarse al grado superior de la nueva ordenación. En todo caso, el curso 2000-2001 será el último en que se realizarán pruebas de acceso al primer curso del grado superior regulado en el Decreto 2618/1966, con independencia de la implantación anticipada que, de acuerdo con lo establecido en el artículo 28.2 de presente Real Decreto, procedan a realizar las Administraciones educativas.
+
+2\. A partir del curso en que se inicie la implantación del grado superior de la nueva ordenación del sistema educativo, los alumnos que hubieran iniciado los estudios conducentes al diploma de Cantante de Conjunto Coral de la Escuela Superior de Canto, establecido en la Orden de 23 de octubre de 1970, podrán optar por continuar los estudios conducentes al diploma de Cantante de Ópera establecido en la citada norma o incorporarse al grado superior de la nueva ordenación. En todo caso, el curso 2000-2001 será el último en que se podrán iniciar los estudios conducentes a dicho diploma de Cantante de Ópera, con independencia de la implantación anticipada que, de acuerdo con lo establecido en el artículo 28.2 del presente Real Decreto, procedan a realizar las Administraciones educativas.
+
+3\. A partir del curso en que se inicie la implantación del grado superior de la nueva ordenación del sistema educativo, los alumnos que hubieran iniciado los estudios conducentes al diploma de Cantante de Ópera de la Escuela Superior de Canto, establecido en la Orden de 23 de octubre de 1970, podrán optar por continuar los estudios conducentes al diploma superior de Especialización para Solistas, establecido en la citada norma, o incorporarse al grado superior de la nueva ordenación.
+
+En todo caso, el curso 2000-2001 será el último en que se podrán iniciar los estudios conducentes a dicho diploma superior de Especialización para Solistas, con independencia de la implantación anticipada que, de acuerdo con lo establecido en el artículo 28.2 del presente Real Decreto, procedan a realizar las Administraciones educativas.
+
+4\. En el caso de que los alumnos a los que se refieren los apartados anteriores optaran por continuar sus estudios conforme al grado superior de la nueva ordenación, de acuerdo con el nivel demostrado en la prueba de acceso y con las equivalencias académicas que a estos efectos se establezcan, podrán incorporarse a un curso distinto del primero, siempre que dicho curso haya sido implantado.
+
+5\. Los alumnos que no hubieran concluido los estudios a que se refieren los apartados 1 y 2 de este artículo o no estuvieran en posesión del título de Bachiller conforme a la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, concurrirán a la citada prueba de acceso en las condiciones previstas en el artículo 7.2 del Real Decreto 617/1995, de 21 de abril, por el que se establece los aspectos básicos del currículo del grado superior de las enseñanzas de Música y se regula la prueba de acceso a estos estudios.
+
+> Se modifica por el art. único.2 del Real Decreto 1112/1999, de 25 de junio. [Ref. BOE-A-1999-15031](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15031).
+
+> Se modifica por el art. único.10 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. 1 del Real Decreto 1468/1997, de 19 de septiembre. [Ref. BOE-A-1997-20176](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20176).
+
+> Se modifica por el art. único.16 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.16 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 32.
+
+1\. La posibilidad de continuar estudios de grado medio conforme al Decreto 2618/1966, de 10 de septiembre, de acuerdo con lo establecido en los artículos 30.1, 30.2 y 30.5 del presente Real Decreto, será efectiva hasta el final del año académico 2000-2001.
+
+2\. La posibilidad de continuar estudios de grado superior conforme al Decreto 2618/1966, de 10 de septiembre, de acuerdo con lo establecido en el artículo 31 del presente Real Decreto, será efectiva, hasta el final del año académico 2001-2002, excepto en el caso de las especialidades de Dirección de Orquesta, Dirección de Coro, Musicología, Música Sacra y Pedagogía Musical, en las que la posibilidad de continuar dichos estudios de grado superior se prolongará un curso más.
+
+3\. La posibilidad de continuar los estudios conducentes al diploma de Cantante de Conjunto Coral y al diploma superior de Especialización para Solistas impartidos por la Escuela Superior de Canto, establecidos en la Orden de 23 de octubre de 1970, será efectiva hasta el final del año académico 2000-2001.
+
+4\. La posibilidad de continuar los estudios conducentes al diploma de Cantante de Ópera impartidos por la Escuela Superior de Canto, establecidos en la Orden de 23 de octubre de 1970, será efectiva hasta el final del año académico 2001-2002.
+
+> Se modifica por el art. único.3 del Real Decreto 1112/1999, de 25 de junio. [Ref. BOE-A-1999-15031](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15031).
+
+> Se modifica por el art. único.11 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.17 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.17 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 33.
+
+En los dos años siguientes a las fechas de extinción de los distintos grados del anterior plan de estudios, se convocarán pruebas extraordinarias para la obtención del Diploma Elemental y los títulos de Profesor y Profesor Superior de las diferentes especialidades, en las condiciones que oportunamente se establezcan, para aquellos alumnos afectados por la extinción de los planes de estudio regulados por el Decreto 2618/1966, de 10 de septiembre. A tales efectos, las Administraciones educativas arbitrarán las medidas oportunas y, en su caso, podrán facilitar la preparación de las pruebas para la culminación de los estudios iniciados con arreglo a dicho plan por parte de aquellos alumnos que no se incorporen al nuevo plan de estudios.
+
+> Se modifica por el art. único.18 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.18 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 34.
+
+Las equivalencias, a efectos académicos, de los cursos o grados realizados según el plan de estudios que se extingue, en relación con los cursos de la nueva ordenación del sistema educativo, quedan establecidas como se detalla en el anexo III del presente Real Decreto.
+
+> Se modifica por el art. único.19 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.19 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+### Sección 2.ª: De la «Danza»
+
+#### Artículo 35.
+
+Las enseñanzas de «Danza» correspondientes al nuevo sistema comenzarán a impartirse de acuerdo con lo que previamente se determine respecto de su ordenación curricular y con arreglo al calendario que se establece en los artículos siguientes.
+
+#### Artículo 36.
+
+1\. En el año académico 1992-1993 se implantará el curso primero del grado elemental correspondiente a la nueva ordenación del sistema educativo.
+
+2\. A partir del año académico 1993-1994 se implantarán progresivamente los restantes cursos del grado elemental.
+
+3\. A partir del año 1992-1993, en que dejará de impartirse el curso primero de las enseñanzas anteriores a la nueva ordenación del sistema educativo, se realizará progresivamente la extinción de dichas enseñanzas.
+
+> Se modifica por el art. único.20 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.20 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+> Téngase en cuenta para la aplicación la disposición transitoria 2.2.
+
+#### Artículo 37.
+
+1\. En el año académico 1996-1997 se implantará el curso primero del grado medio correspondiente a la nueva ordenación del sistema educativo.
+
+2\. En el año académico 1997-1998 se implantará el curso segundo del grado medio.
+
+3\. En el año académico 1998-1999 se implantará el tercer curso del grado medio.
+
+4\. En el año académico 1999-2000 se implantará el cuarto curso del grado medio.
+
+5\. En el año académico 2000-2001 se implantará el quinto curso del grado medio.
+
+6\. En el año académico 2001-2002 se implantará el sexto curso del grado medio, fecha a partir de la cual deberán cumplirse las condiciones establecidas en la disposición transitoria tercera, 2, del Real Decreto 389/1992, de 15 de abril.
+
+> Se modifica por el art. único.12 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.21 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.21 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 38.
+
+1\. A partir del año académico 2000-2001 se iniciará con carácter general la implantación de los cursos del grado superior que, de acuerdo con la nueva ordenación, se establezcan.
+
+2\. No obstante lo establecido en el apartado anterior, las Administraciones educativas podrán anticipar al curso 1999-2000 la implantación de aquellos cursos de dicho grado que consideren oportuno.
+
+> Se modifica por el art. único.4 del Real Decreto 1112/1999, de 25 de junio. [Ref. BOE-A-1999-15031](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15031).
+
+> Se modifica por el art. único.13 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. 1del Real Decreto 1468/1997, de 19 de septiembre. [Ref. BOE-A-1997-20176](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20176).
+
+> Se modifica por el art. único.22 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.22 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 39.
+
+Las equivalencias, a efectos académicos, de los cursos realizados según los planes de estudios de «Danza Española» y «Ballet Clásico» que se extinguen, en relación con los cursos de la nueva ordenación del sistema educativo, quedan establecidas como se detalla en el anexo IV del presente Real Decreto.
+
+#### Artículo 40.
+
+En el año académico 2000-2001 dejarán de impartirse las enseñanzas de danza anteriores a la nueva ordenación del sistema educativo. En los dos años siguientes a dicha fecha de extinción, se convocarán pruebas extraordinarias para la conclusión de los estudios iniciados con arreglo a dicho plan. A tales efectos, las Administraciones educativas arbitrarán las medidas oportunas y, en su caso, podrán facilitar la preparación de las pruebas para la culminación de los estudios iniciados con arreglo a dicho plan por parte de aquellos alumnos que no se incorporen al nuevo plan de estudios.
+
+> Se modifica por el art. único.23 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.23 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+### Sección 3.ª: Del «Arte Dramático»
+
+#### Artículo 41.
+
+Las enseñanzas de «Arte Dramático» correspondientes al nuevo sistema comenzarán a impartirse de acuerdo con lo que previamente se determine respecto de su ordenación curricular y con arreglo al calendario que se establece en los artículos siguientes.
+
+#### Artículo 42.
+
+1\. En los años académicos 1992-93, 1993-94 y 1994-95 se implantarán, respectivamente los cursos 1.º, 2.º y 3.º correspondientes al nuevo sistema de enseñanzas de «Arte Dramático». Asimismo en dichos años dejarán de impartirse, respectivamente, los cursos 1.º, 2.º y 3.º del sistema que se extingue.
+
+2\. A partir del año académico 1995-96 se implantarán de forma progresiva los restantes cursos que resulten de la nueva ordenación de estas enseñanzas.
+
+#### Artículo 43.
+
+1\. Las equivalencias, a efectos académicos, de los cursos realizados según los planes de estudios que se extinguen, en relación con los cursos de la nueva ordenación del sistema educativo, quedan establecidas como se detalla en el anexo V del presente Real Decreto.
+
+2\. En el caso de los Centros que impartan cursos experimentales en las especialidades de «Dramaturgia» y «Dirección» o «Escenografía», se aplicará el criterio establecido en la tabla de equivalencias para la especialidad de «Interpretación».
+
+#### Artículo 44.
+
+En el año académico 1994-95, dejarán de impartirse oficialmente las enseñanzas de «Arte Dramático» según el plan vigente y se generalizará la implantación de las enseñanzas correspondientes al nuevo plan. A partir de dicho año y hasta el término del curso 1996-97, se establecerán convocatorias extraordinarias para posibilitar la conclusión de los estudios iniciados con arreglo al plan vigente.
+
+### Sección 4.ª: De las enseñanzas de «Artes Plásticas y Diseño»
+
+#### Artículo 45.
+
+1.En el año académico 2000-2001 se iniciará con carácter general la implantación de los estudios correspondientes a los ciclos formativos de grado medio y a los ciclos formativos de grado superior de rtes Plásticas y Diseño''.
+
+2\. A partir del año académico 1998-1999 se iniciará la extinción progresiva, curso a curso, de los planes de estudios de los cursos comunes de las enseñanzas de Artes Aplicadas y Oficios Artísticos, regulados, respectivamente, por Decreto 2127/1963, de 24 de julio, y por Real Decreto 799/1984, de 28 de marzo.
+
+3\. A partir del año académico 2001-2002 se iniciará la extinción progresiva, curso a curso, de los planes de estudios de las especialidades de las enseñanzas de Artes Aplicadas y Oficios Artísticos, reguladas por Decreto 2127/1963, de 24 de julio.
+
+4\. A partir del curso académico 2000-2001 se iniciará la extinción progresiva, curso a curso, de los planes de estudios de las especialidades de las enseñanzas de Artes Aplicadas y Oficios Artísticos, reguladas por Real Decreto 799/1984, de 28 de marzo, o por el Real Decreto 942/1986, de 9 de mayo.
+
+> Se modifica por el art. único.14 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. 1 del Real Decreto 1468/1997, de 19 de septiembre. [Ref. BOE-A-1997-20176](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20176).
+
+#### Artículo 46.
+
+1\. El primer curso de los Estudios Superiores de «Conservación y Restauración de Bienes Culturales» correspondientes a la nueva ordenación del sistema educativo comenzará a impartir en el año académico 1992-93.
+
+2\. En el año académico 1992-93 se dejará de impartir el curso 1.º de los estudios de «Conservación y Restauración de Bienes Culturales» regulados por Decreto 2415/1961, de 16 de noviembre, desarrollado por Orden de 14 de marzo de 1989.
+
+3\. La implantación y extinción respectivas de los restantes cursos de los estudios de «Conservación y Restauración de Bienes Culturales», mencionados en los apartados 1 y 2 de este artículo se efectuarán gradualmente en los años sucesivos.
+
+#### Artículo 47.
+
+En el curso académico 2000-2001 se iniciará la implantación de los estudios superiores de diseño, así como la de aquellos estudios superiores de Artes Plásticas y Diseño que resulten de la nueva ordenación.
+
+En los cursos sucesivos se continuará la implantación gradual de los restantes cursos que resulten de la nueva ordenación de estas enseñanzas.
+
+> Se modifica por el art. único.15 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. 1 del Real Decreto 1468/1997, de 19 de septiembre. [Ref. BOE-A-1997-20176](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20176).
+
+> Se modifica por el art. único.24 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.24 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 48.
+
+Las equivalencias, a efectos académicos, de los cursos realizados según los planes de estudios que se extinguen, en relación con los cursos de la nueva ordenación del sistema educativo, quedan establecidas como se detalla en el anexo VI del presente Real Decreto.
+
+#### Artículo 49.
+
+En los dos años académicos siguientes a la extinción de las enseñanzas de Artes Aplicadas y Oficios Artísticos, se convocarán pruebas extraordinarias para la obtención del título de Graduado en Artes Aplicadas en las condiciones que oportunamente se establezcan para aquellos alumnos afectados por la extinción de los planes de estudio a los que se refiere el artículo 45 del presente Real Decreto.
+
+> Se modifica por el art. único.16 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1997-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-3563).
+
+> Se modifica por el art. 1 del Real Decreto 1468/1997, de 19 de septiembre. [Ref. BOE-A-1997-20176](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20176).
+
+### Sección 5.ª: Implantación anticipada de las nuevas enseñanzas de régimen especial
+
+#### Artículo 50.
+
+Las Administraciones educativas podrán disponer la implantación de las enseñanzas de música y danza, ciclos formativos de artes plásticas y diseño, y enseñanzas superiores de artes plásticas y diseño, con anterioridad a lo establecido en el presente Real Decreto, en un número determinado de centros de sus respectivos ámbitos territoriales.
+
+> Se modifica por el art. único.17 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.25 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.25 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 51.
+
+La implantación anticipada de las enseñanzas del nuevo sistema, a la que se refiere el artículo anterior, exigirá el cumplimiento de las condiciones de ordenación académica que se vinculan en el presente Real Decreto a su implantación generalizada.
+
+## CAPÍTULO IV — Adecuación de los conciertos educativos vigentes y calendario de suscripción de los nuevos conciertos
+
+### Sección 1.ª: Centros de Educación General Básica
+
+#### Artículo 52.
+
+Los conciertos educativos vigentes suscritos con los Centros de Educación General Básica se modificarán, para el año académico 1992-93, en cuanto a las enseñanzas objeto del concierto. que serán las siguientes:
+
+Cursos 3.º, 4.º, 5.º, 6°, 7.º y 8.º de Educación General Básica.
+
+Cursos 1.º y 2.º de Educación Primaria.
+
+#### Artículo 53.
+
+1\. Los conciertos educativos que terminan su vigencia en el año académico 1992-1993 se renovarán para el año académico 1993-1994, según lo dispuesto en los artículos 42 y siguientes del Reglamento de Normas Básicas sobre Conciertos Educativos, aprobado por Real Decreto 2377/1985, de 18 de diciembre.
+
+2\. Los conciertos educativos de los centros de educación primaria renovados en el curso 1993-1994 se aplicarán a las enseñanzas que se especifican a continuación, según los distintos cursos académicos, teniendo en cuenta el plazo de vigencia de los conciertos educativos establecido en el artículo sexto del Reglamento de Normas Básicas sobre Conciertos Educativos o, en su caso, en la disposición adicional primera, 2, del citado Reglamento, modificado por Real Decreto 139/1989, de 10 de febrero:
+
+\- 1993-1994: primero, segundo, tercero y cuarto de educación primaria y cursos quinto, sexto, séptimo y octavo de educación general básica.
+
+\- 1994-19195: primero, segundo, tercero, cuarto y quinto de educación primera y cursos sexto, séptimo y octavo de educación general básica.
+
+\- 1995-1996: educación primaria completa y séptimo y octavo de educación general básica.
+
+\- 1996-1997: educación primaria completa y octavo curso de educación general básica.
+
+En el curso académico 1996-1997, los conciertos educativos suscritos quedarán modificados, con reducción de las unidades correspondiente al curso séptimo de educación general básica.
+
+> Se modifica por el art. único.26 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.26 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 54.
+
+Los centros privados concertados de educación primaria autorizados, a partir del curso 1996-1997, para impartir los dos ciclos de educación secundaria obligatoria suscribirán concierto, en las condiciones previstas en la legislación vigente, para las unidades correspondientes a los ciclos citados, a fin de garantizar que los alumnos puedan cursar toda la enseñanza obligatoria en el mismo centro. El concierto para la educación secundaria obligatoria entrará en vigor según lo dispuesto en los artículos 8, 9 y 10 o, en su caso, en el artículo 21 de este Real Decreto. Durante el primer año de vigencia, el concierto educativo se aplicará al primer curso de la educación secundaria obligatoria y al octavo de la educación general básica.
+
+> Se modifica por el art. único.18 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.27 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.27 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 55.
+
+1\. Los centros concertados de educación primera que, con arreglo a la disposición transitoria segunda, 1.a) de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, hayan obtenido autorización provisional para impartir el primer ciclo de la educación secundaria obligatoria suscribirán concierto para dicho ciclo. Este concierto entrará en vigor en el curso 1996-1997.
+
+2\. El concierto tendrá una duración de un año, prorrogable por períodos iguales, hasta finalizar el curso 1998-1999 siempre que se mantenga la autorización a que se refiere este artículo.
+
+3\. El concierto para el curso 1996-1997 se aplicará a las unidades del primer curso de educación secundaria obligatoria y octavo de educación general básica. En los cursos 1997-1998 y 1998-1999 el concierto abarcará las enseñanzas del primer ciclo completo de educación secundaria obligatoria.
+
+> Se modifica por el art. único.28 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.28 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+### Sección 2.ª: Centros de Formación Profesional de Primer Grado
+
+#### Artículo 56.
+
+1\. Los conciertos educativos suscritos con centros de formación profesional de primer grado, que terminen su vigencia en el año académico 1992-1993, se renovarán en el año 1993, según lo establecido en los artículos 42 y siguientes del Reglamento de Normas Básicas sobre Conciertos Educativos.
+
+2\. Los conciertos educativos de los centros citados, renovados en el curso 1993-1994, se aplicarán a las enseñanzas de formación profesional de primer grado durante los años de vigencia del concierto.
+
+3\. Los conciertos educativos de los centros de formación profesional de primer grado que se renueven en el curso 1997-1998 se aplicarán a las enseñanzas que se especifican a continuación, según los distintos cursos académicos y sin perjuicio de lo que se dispone en el artículo siguiente:
+
+\- Curso 1997-1998: primero y segundo de formación profesional de primer grado.
+
+\- Curso 1998-1999: segundo de formación profesional de primer grado.
+
+4\. Finalizado el año académico 1998-1999, el concierto se entenderá extinguido para las enseñanzas de formación profesional de primer grado. A partir de este curso el centro podrá suscribir concierto para las enseñanzas para las que esté autorizado, según lo previsto en los artículos siguientes.
+
+> Se modifica por el art. único.29 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.29 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 57.
+
+1\. Los centros concertados de formación profesional de primer grado que, con arreglo a la disposición transitoria segunda, 1.b), de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, hayan obtenido autorización provisional para impartir el segundo ciclo de la educación secundaria obligatoria suscribirán concierto para este ciclo educativo. Este concierto entrará en vigor en el curso 1998-1999, según lo dispuesto en los artículos 9 y 10 del presente Real Decreto, y tendrá una duración inicial de dos años, prorrogable por un año, siempre que se mantenga la autorización obtenida.
+
+2\. El concierto afectará a las enseñanzas que se especifican a continuación, según los distintos cursos académicos:
+
+a) Curso 1998-1999: segundo curso de formación profesional de primer y tercer curso de educación secundaria obligatoria.
+
+b) Curso 1999-2000: segundo ciclo completo de educación secundaria obligatoria.
+
+> Se modifica por el art. único.19 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.30 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.30 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+### Sección 3.ª: Centros de Formación Profesional de Segundo Grado
+
+#### Artículo 58.
+
+1\. Los conciertos educativos, suscritos con centros de formación profesional de segundo grado que terminen su vigencia en el curso 1992-1993, se renovarán para el curso 1993-1994, según lo dispuesto en los artículos 42 y siguientes del Reglamento de normas básicas sobre conciertos educativos.
+
+2\. La renovación de dichos conciertos educativos se efectuará para las enseñanzas que se indican a continuación, teniendo en cuenta el plazo de vigencia de los conciertos educativos establecidos en el artículo 6 del Reglamento citado en el apartado anterior:
+
+a) Cursos 1993-1994, 1994-1995, 1995-1996 y 1996-1997: se renovará concierto para las enseñanzas de formación profesional de segundo grado.
+
+b) A partir del curso 1997-1998, el concierto renovado se aplicará a las enseñanzas que se especifican a continuación, según los distintos cursos académicos:
+
+1.º Años 1997-1998, 1998-1999 y 1999-2000: formación profesional de segundo grado.
+
+2.º Año 2000-2001: cursos segundo y tercero de formación profesional de segundo grado en régimen de enseñanzas especializadas, y cursos primero y segundo de formación profesional de segundo grado de régimen general.
+
+3.º Año 2001-2002: curso tercero de formación profesional de segundo grado en régimen de enseñanzas especializadas, y curso segundo de formación profesional de segundo grado en régimen general.
+
+3\. Finalizado el curso 2001-2002, el concierto se entenderá extinguido para las enseñanzas de formación profesional de segundo grado, tanto en régimen de enseñanzas especializadas como de régimen general. A partir de este curso, el centro podrá suscribir concierto para las enseñanzas para las que esté autorizado, según lo previsto en los artículos siguientes.
+
+> Se modifica por el art. único.20 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.31 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.31 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 59.
+
+Los centros concertados de formación profesional de segundo grado que en el curso 2000-2001 estuviesen autorizados para impartir el nuevo bachillerato, modificarán el concierto suscrito, de acuerdo con lo dispuesto en los artículos 11 y 12 del presente Real Decreto y según lo que se especifica a continuación:
+
+a) Curso 2000-2001: primer curso de bachillerato, cursos segundo y tercero de formación profesional de segundo grado en régimen de enseñanzas especializadas y cursos primero y segundo de formación profesional de segundo grado en régimen general.
+
+b) Curso 2001-2002: cursos primero y segundo de bachillerato, curso tercero de formación profesional de segundo grado en régimen de enseñanzas especializadas y curso segundo de formación profesional de segundo grado en régimen general.
+
+c) Curso 2002-2003: bachillerato.
+
+> Se modifica por el art. único.21 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.32 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.32 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 60.
+
+1\. Los centros de formación profesional, que a la entrada en vigor de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, tuvieran concierto para el primero o el segundo grado de la actual formación profesional, podrán suscribir concierto para los ciclos formativos de grado medio o grado superior para los que hayan obtenido autorización.
+
+2\. Estos conciertos se regirán por las normas básicas que dicte el Gobierno, de acuerdo con las Comunidades Autónomas, con arreglo a lo establecido en la disposición transitoria tercera, apartado 6, de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+
+3\. Los conciertos a los que se refiere el presente artículo entrarán en vigor en los mismos años académicos en que se implanten los respectivos ciclos formativos de grado medio o de grado superior, siempre que los centros hubieran obtenido la autorización correspondiente.
+
+> Se modifica por el art. único.33 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.33 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 61.
+
+Los centros privados a los que se refiere esta Sección no podrán, en ningún caso, suscribir concierto por un número de unidades superior al que cada centro tuviera concertado a la entrada en vigor de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, salvo lo establecido en la disposición transitoria tercera, apartado 8, de la citada Ley, para las enseñanzas obligatorias.
+
+> Se modifica por el art. único.34 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.34 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+### Sección 4.ª: Centros de Bachillerato
+
+#### Artículo 62.
+
+1\. Los conciertos educativos suscritos con centros de bachillerato procedentes de antiguas sec ciones filiales, que terminen su vigencia en el curso 1992-1993, se renovarán para el curso 1993-1994, según lo dispuesto en los artículos 42 y siguientes del Reglamento de normas básicas sobre conciertos educativos.
+
+2\. Los conciertos educativos de los centros citados, renovados en el curso 1993-1994, se aplicarán a las enseñanzas de bachillerato unificado y polivalente y curso de orientación universitaria durante los cuatro años de vigencia del concierto.
+
+3\. Los conciertos educativos de los centros de bachillerato que se renueven en el curso 1997-1998 se aplicarán a las enseñanzas que se especifican a continuación, según los distintos cursos académicos y sin perjuicio de lo que se dispone en el artículo siguiente:
+
+a) Curso 1997-1998: bachillerato unificado y polivalente y curso de orientación universitaria.
+
+b) Curso 1998-1999: cursos segundo y tercero de bachillerato unificado y polivalente y curso de orientación universitaria.
+
+c) Curso 1999-2000: curso tercero de bachillerato unificado y polivalente y curso de orientación universitaria.
+
+d) Curso 2000-2001: curso de orientación universitaria y curso primero de bachillerato.
+
+e) Curso 2001-2002: bachillerato.
+
+> Se modifica por el art. único.22 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.35 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.35 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 63.
+
+1\. Los actuales centros de bachillerato procedentes de antiguas secciones filiales que, con arreglo a la disposición transitoria tercera, 7, de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, hayan obtenido autorización provisional para impartir el segundo ciclo de educación secundaria obligatoria, suscribirán concierto para este ciclo. Este concierto entrará en vigor a partir del curso 1998-1999, según lo dispuesto en los artículos 9 y 10 del presente Real Decreto, y tendrá una duración inicial de dos años, prorrogable por un año, siempre que se mantenga la autorización obtenida.
+
+2\. El concierto afectará a las enseñanzas que se especifican a continuación, según los distintos cursos académicos:
+
+a) Curso 1998-1999: cursos segundo y tercero de bachillerato unificado y polivalente, curso de orientación universitaria y curso tercero de educación secundaria obligatoria.
+
+b) Curso 1999-2000: curso tercero de bachillerato unificado y polivalente, curso de orientación universitaria y segundo ciclo completo de educación secundaria obligatoria.
+
+c) Curso 2000-2001: curso de orientación universitaria, segundo ciclo completo de educación secundaria obligatoria y curso primero de bachillerato.
+
+d) Curso 2001-2002: segundo ciclo completo de educación secundaria obligatoria y bachillerato completo.
+
+> Se modifica por el art. único.23 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.36 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.36 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Artículo 64.
+
+El conjunto de unidades concertadas no podrá exceder, en ningún caso, del número de unidades que cada centro tuviera concertadas a la entrada en vigor de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, sin perjuicio de la ampliación de unidades correspondientes a enseñanzas obligatorias, que se atendrá a lo dispuesto con carácter general en el Reglamento de Normas Básicas sobre Conciertos Educativos.
+
+#### Disposición adicional primera.
+
+1\. La implantación de las enseñanzas de régimen general o de régimen especial, tanto en el proceso de generalización como en el de implantación anticipada, exigirá que los Centros docentes respectivos cumplan la normativa que, en materia de requisitos mínimos y de autorización de Centros, se dicten en desarrollo de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
+
+2\. Las autorizaciones provisionales a las que se refiere la disposición transitoria segunda, 1, de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, se extinguirán, en todo caso, al concluir el plazo previsto en este Real Decreto para la total implantación del nuevo sistema educativo.
+
+> Se añade el apartado 2 por el art. único.24 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Téngase en cuenta que ya estaba añadido por el Real Decreto 1487/1994, de 1 de julio.
+
+> Se añade el apartado 2 por el art. único.37 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+#### Disposición adicional segunda.
+
+La adecuación de los conciertos educativos de los centros en los que se autorice la implantación anticipada de las enseñanzas de régimen general se realizará de acuerdo con lo que disponga la Orden que autorice la citada anticipación.
+
+> Se modifica por el art. único.38 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+#### Disposición adicional tercera.
+
+Las fechas previstas en el capítulo IV del presente Real Decreto para la renovación de los conciertos educativos, se entienden sin perjuicio del año en que, según la legislación vigente, deban ser renovados los conciertos educativos en el País Vasco y Cataluña.
+
+#### Disposición adicional cuarta.
+
+La acreditación de haber superado los estudios que en los distintos anexos de este Real Decreto se declaran equivalentes a cursos de la nueva ordenación del sistema educativo será suficiente para que los alumnos se incorporen al nuevo sistema, de acuerdo con los términos de las respectivas equivalencias, sin necesidad de trámite de convalidación alguno.
+
+#### Disposición adicional quinta.
+
+El Ministerio de Educación y Ciencia, previo informe de los Órganos correspondientes de las Comunidades Autónomas, regulará las condiciones de promoción desde un curso del sistema que se extingue, a otro del nuevo sistema, cuando aquél no hubiera sido superado en su totalidad, en el marco de las equivalencias establecidas en los anexos del presente Real Decreto.
+
+#### Disposición adicional sexta.
+
+Las Administraciones educativas planificarán las ofertas de puestos escolares en Centros públicos que impartan la Educación Secundaria Obligatoria, de tal manera que los grupos de alumnos continúen escolarizados a lo largo de la etapa, sin necesidad de nuevo trámite de admisión, en aquellos supuestos en que deban cambiar de centro al final del primer ciclo de la misma.
+
+#### Disposición adicional séptima.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 827/2003, de 27 de junio. [Ref. BOE-A-2003-12866](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-12866).
+
+> Se modifica por el art. 1.2 del Real Decreto 835/2002, de 2 de agosto. [Ref. BOE-A-2002-15764](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-15764).
+
+> Se modifica por el art. único.25 del Real Decreto 173/1998, de 16 de febrero. [Ref. BOE-A-1998-3563](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3563).
+
+> Se modifica por el art. único.39 del Real Decreto 1487/1994, de 1 de julio. [Ref. BOE-A-1994-17631](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-17631).
+
+> Se modifica por el art. único.37 del Real Decreto 535/1993, de 12 de abril. [Ref. BOE-A-1993-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-11247).
+
+#### Disposición final primera.
+
+El Ministro de Educación y Ciencia y la autoridad competente de las Comunidades Autónomas podrán dictar, en el ámbito de sus respectivas competencias, cuantas disposiciones sean precisas para la ejecución y desarrollo de lo establecido en este Real Decreto.
+
+#### Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 14 de junio de 1991.
+
+JUAN CARLOS R.
+
+El Ministro de Educación y Ciencia,
+
+JAVIER SOLANA MADARIAGA
+
+## ANEXO I — CUADRO DE EQUIVALENCIAS A EFECTOS ACADÉMICOS, DE LOS CURSOS DEL SISTEMA QUE SE EXTINGUE, CON LOS CORRESPONDIENTES A LA NUEVA ORDENACIÓN DEL SISTEMA EDUCATIVO (ENSEÑANZAS DE RÉGIMEN GENERAL)
+
+| Sistema anterior | Sistema nuevo |
+|---|---|
+| 1º de Educación General Básica | 1º de Educación Primaria |
+| 2º de Educación General Básica | 2º de Educación Primaria |
+| 3º de Educación General Básica | 3º de Educación Primaria |
+| 4º de Educación General Básica | 4º de Educación Primaria |
+| 5º de Educación General Básica | 5º de Educación Primaria |
+| 6º de Educación General Básica | 6º de Educación Primaria |
+| 7º de Educación General Básica | 1º de Educación Secundaria Obligatoria |
+| 8º de Educación General Básica y título de Graduado Escolar o Certificado de Escolaridad | 2º de Educación Secundaria Obligatoria |
+| 1º de Bachillerato Unificado Polivalente o 1º de Form. Prof. de Primer Grado | 3º de Educación Secundaria Obligatoria |
+| 2º de Bachillerato Unificado Polivalente o 2º de Form. Prof. de Primer Grado y título de técnico auxiliar | <br>4º de Educación Secundaria Obligatoria y título de Graduado en Educación Secundaria |
+| 3º de Bachillerato Unificado o Polivalente y título de bachiller, o 3º de Form. Prof. de Segundo Grado (Régimen de Enseñanzas Especializadas) o 2º de Form. Prof. de Segundo Grado (Régimen General) | 1º de Bachillerato |
+| Curso de Orientación Universitaria | 2º de Bachillerato y título de Bachiller |
+
+## ANEXO II — CUADRO DE EQUIVALENCIAS A EFECTOS ACADÉMICOS, DE LAS ENSEÑANZAS EXPERIMENTALES CON LAS CORRESPONDIENTES A LA NUEVA ORDENACIÓN DEL SISTEMA EDUCATIVO
+
+| Sistema experimental | Sistema nuevo |
+|---|---|
+| 1<sup>er</sup> curso del primer ciclo experimental de reforma de las enseñanzas medias | 3º de Educación Secundaria Obligatoria |
+| 2.º curso del primer ciclo experimental de reforma de las enseñanzas medias | <br>4º de Educación Secundaria Obligatoria y título Graduado en Educación Secundaria |
+| 1<sup>er</sup> curso de una modalidad de Bachillerato experimental | 1º de Bachillerato |
+| 2º curso de una modalidad de Bachillerato experimental | 4º de Bachillerato y título de Bachiller |
+| Módulo profesional de nivel 2 | Título de Graduado en Educación Secundaria |
+| Módulo profesional de nivel 3 | Ciclo Formativo de Grado Superior |
+
+## ANEXO III — CUADRO DE EQUIVALENCIAS A EFECTOS ACADÉMICOS, DE LOS CURSOS DEL PLAN DE MÚSICA QUE SE EXINGUE, CON LOS CORRESPONDIENTES A LA NUEVA ORDENACIÓN
+
+| Plan establecido por el Decreto 2618/1966, de 10 de septiembre | Nueva ordenación |
+|---|---|
+| 1º curso de Solfeo y Teoría de la Música | 1º de Grado Elemental |
+| Grado Elemental de las especialidades de diez años | Grado Elemental y 1er. curso de Grado Medio |
+| Grado Elemental de las especialidades de ocho años | Grado Elemental y primer ciclo de Grado medio |
+| Grado Elemental de las especialidades de Acordeón y Percusión | Grado Elemental y primer ciclo de Grado Medio |
+| Grado Medio de todas las especialidades que, según el Decreto 2618/1966, capacitan para la obtención del Título de Profesor | Los tres ciclos de Grado Medio |
+
+Hasta tanto no se fijen los nuevos contenidos curriculares correspondientes a las enseñanzas de la Música de Grado Superior, no se podrán establecer las equivalencias, a efectos académicos, de los estudios realizados según el Decreto 2618/1966 del mismo Grado.
+
+## ANEXO IV — CUADRO DE EQUIVALENCIAS A EFECTOS ACADÉMICOS, DE LOS CURSOS DEL PLAN DE DANZA QUE SE EXTINGUE CON LOS CORRESPONDIENTES A LA NUEVA ORDENACIÓN
+
+| Sistema anterior | Sistema nuevo |
+|---|---|
+| 1º, 2º, 3º, 4º y 5º de Danza española | Grado Elemental y los tres ciclos de Grado Medio |
+| 1º, 2º, 3º, 4º, 5º, 6º y 7º de Ballet Clásico | Grado Elemental y los tres ciclos de Grado Medio |
+
+## ANEXO V — CUADRO DE EQUIVALENCIAS A EFECTOS ACADÉMICOS, DE LOS CURSOS DEL PLAN DE ARTE DRAMÁTICO QUE SE EXTINGUE, CON LOS CORRESPONDIENTES A LA NUEVA ORDENACIÓN
+
+| Sistema anterior | Sistema nuevo |
+|---|---|
+| 1º de Arte Dramático | 1º de Interpretación |
+| 2º de Arte Dramático | 2º de Interpretación |
+| 3º de Arte Dramático | 3º de Interpretación |
+
+## ANEXO VI — CUADRO DE EQUIVALENCIAS A EFECTOS ACADÉMICOS, DE LOS CURSOS DE ARTES APLICADAS Y OFICIOS ARTÍSTICOS DEL SISTEMA QUE SE EXTINGUE, CON LOS CORRESPONDIENTES A LA NUEVA ORDENACIÓN
+
+| Sistema anterior | Sistema nuevo |
+|---|---|
+| 1º y 2º comunes plan 63 ó 1º comunes experimental | 3º de Educación Secundaria Obligatoria |
+| 3º comunes plan 63 ó 2º comunes experimental | 4º de Educación Secundaria Obligatoria y título de Graduado en Educación Secundaria |
+| 2º especialidad o Título de Graduado en Artes Aplicadas y Oficios Artísticos | 1º de Bachillerato |

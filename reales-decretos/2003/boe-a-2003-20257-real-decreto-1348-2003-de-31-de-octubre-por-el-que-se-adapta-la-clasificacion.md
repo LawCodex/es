@@ -1,0 +1,5819 @@
+---
+title: "Real Decreto 1348/2003, de 31 de octubre, por el que se adapta la clasificación anatómica de medicamentos al sistema de clasificación ATC"
+identifier: "BOE-A-2003-20257"
+eli: "https://www.boe.es/eli/es/rd/2003/10/31/1348"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Consumo"
+date: 2003-10-31
+published: 2003-11-04
+in_force_from: 2004-01-01
+last_amended: 2008-05-30
+consolidated: 2026-02-16
+gazette: "Boletín Oficial del Estado núm. 264"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20257"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1348/2003, de 31 de octubre, por el que se adapta la clasificación anatómica de medicamentos al sistema de clasificación ATC
+
+Incluye la corrección de errores publicada en BOE núm. 21, de 24 de enero de 2004.[Ref. BOE-A-2004-1441](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1441)
+
+La Orden del Ministro de Sanidad y Consumo, de 13 de mayo de 1985, actualizó la clasificación anatómica de medicamentos que había sido establecida por Resolución de la Dirección General de Sanidad del Ministerio de la Gobernación, de 25 de abril de 1977.
+
+La adecuada aplicación del Real Decreto 83/1993, de 22 de enero, por el que se regula la selección de los medicamentos a efectos de su financiación por el Sistema Nacional de Salud, hizo necesaria la determinación, mediante Orden del Ministro de Sanidad y Consumo de 6 de abril de 1993, de las especialidades farmacéuticas incluidas en cada uno de los grupos o subgrupos terapéuticos que, comprendidos en el anexo I del real decreto mencionado, estaban excluidos de la prestación farmacéutica de la Seguridad Social, o que, comprendidos en el anexo II, exigían una aportación reducida por parte del beneficiario. El Real Decreto 1663/1998, de 24 de julio, por el que se amplía la relación de medicamentos a efectos de su financiación con cargo a fondos de la Seguridad Social o a fondos estatales afectos a la sanidad, modificó el contenido de dichos anexos con base, precisamente, en la ampliación que constituía el objeto de la norma.
+
+Por otra parte, el citado Real Decreto 1663/1998, de 24 de julio, estableció en la disposición adicional tercera que, en el plazo de tres años desde su entrada en vigor, se procedería a la adaptación de la vigente clasificación anatómica de medicamentos al sistema de clasificación ATC *(Anatomical, Therapeutic, Chemical Classification System)*. Habida cuenta del plazo establecido, se considera necesario dar cumplimiento al mandato referido, cuya finalidad no es otra, a efectos de poder adoptar criterios y decisiones con carácter unitario, que homologar el actual sistema de clasificación utilizado en España con el que, en la actualidad, resulta de uso común en el resto de los países de nuestro entorno y, señaladamente, en los países miembros de la Unión Europea.
+
+La adaptación requerida supone la modificación de los anexos correspondientes del Real Decreto 1663/1998, de 24 de julio, así como los del Real Decreto 83/1993, de 22 de enero, y de la orden que lo desarrolla. Con ello se modifican, también, las prescripciones de dichas normas, ya que, al cambiar algunas especialidades de subgrupo o grupo terapéutico, se altera la determinación en la exclusión de financiación pública o en la exigencia de aportación reducida por parte del beneficiario. Por lo anterior, el cumplimiento del mandato del que trae causa esta norma se lleva a cabo mediante real decreto.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 31 de octubre de 2003,
+
+DISPONGO:
+
+## Artículo 1. Adaptación de la clasificación anatómica de medicamentos.
+
+Se aprueba la adaptación de la clasificación anatómica de medicamentos a la clasificación anatómica, terapéutica y química (ATC) que se incluye en el anexo I.
+
+## Artículo 2. Adecuación normativa.
+
+1\. Se adecuan a la clasificación contenida en el anexo I:
+
+a) Los anexos del Real Decreto 83/1993, de 22 de enero, por el que se regula la selección de los medicamentos a efectos de su financiación por el Sistema Nacional de Salud.
+
+b) Los anexos del Real Decreto 1663/1998, de 24 de julio, por el que se amplía la relación de medicamentos a efectos de su financiación con cargo a fondos de la Seguridad Social o a fondos estatales afectos a la sanidad.
+
+c) Los anexos de la Orden del Ministro de Sanidad y Consumo, de 6 de abril de 1993, por la que se desarrolla el Real Decreto 83/1993, de 22 de enero.
+
+2\. Como consecuencia de la adecuación prevista en el apartado anterior:
+
+a) Los grupos y subgrupos terapéuticos excluidos de la financiación pública son los que se relacionan en el anexo II.
+
+b) Los grupos y subgrupos terapéuticos de aportación reducida son los que se relacionan en el anexo III.
+
+3\. Por otra parte, la adecuación de la clasificación a que se refiere este real decreto modifica, en el sentido que se señala en el anexo IV, la financiación pública de las especialidades farmacéuticas que se relacionan en él.
+
+## Disposición adicional única. Financiación de nuevas especialidades.
+
+Podrán ser financiadas con cargo a fondos públicos aquellas especialidades farmacéuticas que, susceptibles de ser incluidas en los subgrupos terapéuticos del anexo I del Real Decreto 83/1993, de 22 de enero, y en el anexo I del Real Decreto 1663/1998, de 24 de julio, cumplan las condiciones exigidas por el artículo 94 de la Ley 25/1990, de 20 de diciembre, del Medicamento, así como por el artículo 3 del mencionado Real Decreto 83/1993, de 22 de enero, y cubran lagunas terapéuticas o sean medicamentos huérfanos o para enfermedades graves. La financiación podrá, en su caso, limitarse a determinadas indicaciones o a colectivos específicos.
+
+## Disposición final primera. Prescripción de uno a cuatro envases de especialidades farmacéuticas en tratamientos ordinarios.
+
+Se modifica el artículo 4.1 de la Orden del Ministerio de Sanidad y Consumo, de 23 de mayo de 1994, sobre modelos oficiales de receta médica para la prestación farmacéutica del Sistema Nacional de Salud, que queda redactado como sigue:
+
+> «1. Un solo envase de una especialidad farmacéutica a excepción de:
+
+> a) Grupo terapéutico J01 “Antibacterianos para uso sistémico”, excepto los subgrupos J01E, J01M y J01R, del que se podrán prescribir de uno a cuatro envases unidosis por vía parenteral y hasta dos envases del resto de las presentaciones.
+
+> b) Grupo terapéutico A10A “Insulinas y análogos” en viales multidosis, de las que se podrá prescribir de uno a cuatro envases (no se incluyen cartuchos multidosis).
+
+> c) Especialidades farmacéuticas clasificadas con el código H01AC01 “Somatotropina” (hormona de crecimiento), de la que se podrá prescribir de uno a cuatro viales de 4 UI.
+
+> d) Especialidades farmacéuticas calificadas de “Diagnóstico hospitalario”, de las que se podrá prescribir de uno a cuatro envases.
+
+> e) Especialidades farmacéuticas que requieran la receta oficial de estupefacientes, según la Orden de 25 de abril de 1994, de las que se podrán prescribir de uno a cuatro envases, sin superar la medicación precisa para treinta días de tratamiento.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 21, de 24 de enero de 2004.[Ref. BOE-A-2004-1441](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1441)
+
+## Disposición final segunda. Medicamentos prescritos que no pueden ser sustituidos en la dispensación.
+
+Se modifica el artículo 1 de la Orden del Ministro de Sanidad y Consumo, de 28 de mayo de 1986, por la que se establecen los medicamentos prescritos que no pueden ser sustituidos por otros en la dispensación, que queda redactado como sigue:
+
+> «Artículo 1.
+
+> En el acto de la dispensación no serán sustituibles sin la autorización expresa del médico prescriptor los medicamentos incluidos en los siguientes grupos o subgrupos terapéuticos y especialidades farmacéuticas:
+
+> A10A. Insulinas y análogos.
+
+> B01AA. Antagonistas de la vitamina K.
+
+> Especialidades farmacéuticas clasificadas con el código B02BD02 (Factor VIII de la coagulación) y B02BD04 (Factor IX de la coagulación).
+
+> C01A. Glucósidos cardíacos.
+
+> Medicamentos sometidos a especial control médico por la Orden de 13 de mayo de 1985.
+
+> Medicamentos utilizados en tratamientos de larga duración, cuando la situación clínica del paciente lo aconseje o esté sometido a monitorización de los niveles plasmáticos del fármaco.»
+
+## Disposición final tercera. Título competencial.
+
+Este real decreto se dicta en virtud de la competencia atribuida al Estado en el artículo 149.1.16.a de la Constitución.
+
+## Disposición final cuarta. Facultades de actualización, ejecución y desarrollo.
+
+1\. Se faculta al Ministro de Sanidad y Consumo para dictar las disposiciones necesarias para la ejecución y desarrollo de lo dispuesto en este real decreto, en concreto para la actualización de la clasificación anatómica, terapéutica y química de medicamentos, mediante orden del Ministro de Sanidad y Consumo, cuando dicha actualización no suponga modificación de la situación de financiación, con cargo a fondos públicos, de especialidades farmacéuticas.
+
+2\. Se faculta a la Dirección General de Farmacia y Productos Sanitarios para que, en los casos de medicamentos que cumplan las condiciones para ser considerados de aportación reducida, y en tanto en cuanto no se actualice el anexo III del Real Decreto 1348/2003, de 31 de octubre, por el que se adapta la clasificación anatómica de medicamentos al sistema de clasificación ATC, establezca motivadamente la aportación reducida de un determinado medicamento.
+
+> Se añade el apartado 2 por la disposición final 2 del Real Decreto 823/2008, de 16 de mayo. [Ref. BOE-A-2008-9291](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-9291)
+
+## Disposición final quinta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día 1 de enero de 2004.
+
+Dado en Madrid, a 31 de octubre de 2003.
+
+JUAN CARLOS R.
+
+La Ministra de Sanidad y Consumo,
+
+ANA MARÍA PASTOR JULIÁN
+
+## ANEXO I — Clasificación ATC
+
+A. Tracto alimentario y metabolismo.
+
+A01. Preparados estomatológicos.
+
+A01A. Preparados estomatológicos.
+
+A01A A. Agentes para la profilaxis de las caries.
+
+A01A B. Antiinfecciosos y antisépticos para tratamiento oral-local.
+
+A01A C. Corticosteroides para tratamiento oral-local.
+
+A01A D. Otros agentes para tratamiento oral-local.
+
+A02. Agentes para el tratamiento de alteraciones causadas por ácidos.
+
+A02A. Antiácidos.
+
+A02A A. Compuestos de magnesio.
+
+A02A B. Compuestos de aluminio.
+
+A02A C. Compuestos de calcio.
+
+A02A D. Combinaciones y complejos de compuestos de aluminio, calcio y magnesio.
+
+A02A F. Antiácidos con carminativos.
+
+A02A G. Antiácidos con antiespasmódicos.
+
+A02A H. Antiácidos con bicarbonato de sodio.
+
+A02A X. Otras combinaciones con antiácidos.
+
+A02B. Agentes contra la úlcera péptica y el reflujo gastroesofágico (RGE/GORD).
+
+A02B A. Antagonistas del receptor H-2.
+
+A02B B. Prostaglandinas.
+
+A02B C. Inhibidores de la bomba de protones.
+
+A02B D. Combinaciones para la erradicación del *Helicobacter pylori*.
+
+A02B X. Otros agentes contra la úlcera péptica y el reflujo gastroesofágico (RGE/GORD).
+
+A02X. Otros agentes contra alteraciones causadas por ácidos.
+
+A03. Agentes contra padecimientos funcionales del estómago e intestino.
+
+A03A. Agentes contra padecimientos funcionales del estómago.
+
+A03A A. Anticolinérgicos sintéticos, ésteres con grupo amino terciario.
+
+A03A B. Anticolinérgicos sintéticos, compuestos de amonio cuaternario.
+
+A03A C. Anticolinérgicos sintéticos, amidas con aminas terciarias.
+
+A03A D. Papaverina y derivados.
+
+A03A E. Agentes con efecto en los receptores de serotonina.
+
+A03A X. Otros agentes contra padecimientos funcionales del estómago.
+
+A03B. Belladona y derivados, monofármacos.
+
+A03B A. Alcaloides de la belladona, aminas terciarias.
+
+A03B B. Alcaloides semisintéticos de la belladona, compuestos de amonio cuaternario.
+
+A03C. Antiespasmódicos en combinación con psicolépticos.
+
+A03C A. Agentes anticolinérgicos sintéticos en combinación con psicolépticos.
+
+A03C B. Belladona y derivados en combinación con psicolépticos.
+
+A03C C. Otros antiespasmódicos en combinación con psicolépticos.
+
+A03D. Antiespasmódicos en combinación con analgésicos.
+
+A03D A. Agentes anticolinérgicos sintéticos en combinación con analgésicos.
+
+A03D B. Belladona y derivados en combinación con analgésicos.
+
+A03D C. Otros antiespasmódicos en combinación con analgésicos.
+
+A03E. Antiespasmódicos y anticolinérgicos en combinación con otros fármacos.
+
+A03E A. Antiespasmódicos, psicolépticos y analgésicos en combinación.
+
+A03E D. Antiespasmódicos en combinación con otros fármacos.
+
+A03F. Propulsivos.
+
+A03F A. Propulsivos.
+
+A04. Antieméticos y antinauseosos.
+
+A04A. Antieméticos y antinauseosos.
+
+A04A A. Antagonistas de receptores de serotonina (5HT-3).
+
+A04A D. Otros antieméticos.
+
+A05. Terapia biliar y hepática.
+
+A05A. Terapia biliar.
+
+A05A A. Preparados con ácidos biliares.
+
+A05A B. Preparados para la terapia del tracto biliar.
+
+A05A X. Otros fármacos para terapia biliar.
+
+A05B. Terapia hepática, lipotrópicos.
+
+A05B A. Terapia hepática.
+
+A05C. Fármacos para terapia biliar y lipotrópicos en combinación.
+
+A06. Laxantes.
+
+A06A. Laxantes.
+
+A06A A. Suavizantes, emolientes.
+
+A06A B. Laxantes de contacto.
+
+A06A C. Formadores de volumen.
+
+A06A D. Laxantes osmóticos.
+
+A064 G. Enemas.
+
+A06A X. Otros laxantes.
+
+A07. Antidiarreicos, agentes antiinflamatorios/antiinfecciosos intestinales.
+
+A07A. Antiinfecciosos intestinales.
+
+A07A A. Antibióticos.
+
+A07A B. Sulfonarnidas.
+
+A07A C Derivados imidazólicos.
+
+A07A X. Otros antiinfecciosos intestinales.
+
+A07B. Adsorbentes intestinales.
+
+A07B A. Preparados con carbón.
+
+A07B B. Preparados con bismuto.
+
+A07B C. Otros adsorbentes intestinales.
+
+A07C. Electrolitos con carbohidratos.
+
+A07C A. Formulaciones de sales de rehidratación oral.
+
+A07D. Antipropulsivos.
+
+A07D A. Antipropulsivos.
+
+A07E. Agentes antiinflamatorios intestinales.
+
+A07E A. Cortícosteroides de acción local.
+
+A07E B. Agentes antialérgicos, excluyendo corticosteroides.
+
+A07E C. Acido aminosalicilico y agentes similares.
+
+A07F. Microorganismos antidiarreicos.
+
+A07F A. Microorganismos antidiarreicos.
+
+A07X. Otros antidiarreicos.
+
+A07X A. Otros antidiarreicos.
+
+A08. Preparados contra la obesidad, excluyendo productos dietéticos.
+
+A08A. Preparados contra la obesidad, excluyendo productos dieteticos.
+
+A08A A. Productos contra la obesidad de acción central.
+
+A08A B. Productos contra la obesidad de acción periférica.
+
+A09. Digestivos, incluyendo enzimas.
+
+A09A. Digestivos, incluyendo enzimas.
+
+A09A A. Preparados enzimáticos.
+
+A09A B. Preparados de ácidos.
+
+A09A C. Preparados con enzimas y ácidos en combinación.
+
+A10. Fármacos usados en diabetes.
+
+A10A. Insulinas y análogos.
+
+A10A B. Insulinas y análogos de acción rápida para inyección.
+
+A10A C. Insulinas y análogos de acción intermedia para inyección.
+
+A10A D. Combinaciones de insulinas y análogos de acción intermedia y acción rápida para inyección.
+
+A10A E. Insulinas y análogos de acción prolongada para inyección.
+
+A10A F. Insulinas y análogos para inhalación.
+
+A10B. Fármacos hipoglucemiantes orales excluyendo insulinas.
+
+A10B. Biguanidas.
+
+A10B B. Derivados de las sulfonilureas.
+
+A10B C. Sulfonamidas (heterocíclicas).
+
+A10B D. Combinaciones de fármacos hipoglucemiantes orales.
+
+A10B F. Inhibidores de la alfa glucosidasa.
+
+A10B G. Tiazolinadionas.
+
+A10B X. Otros fármacos hipoglucemiantes orales excluyendo insulinas.
+
+A10X. Otros fármacos usados en diabetes.
+
+A10X A. Inhibidores de la aldosa reductasa.
+
+A11. Vitaminas.
+
+A11A. Multivitamínicos, combinaciones.
+
+A11A A. Multivitaminicos con minerales.
+
+A11A B. Otras combinaciones de multivitaminas.
+
+A11B. Multivitamínicos, solos.
+
+A11B A. Multivitaminicos solos.
+
+A11C. Vitaminas A y D, incluyendo combinaciones de las dos.
+
+A11C A. Vitamina A sola.
+
+A11C B. Vitaminas A y D en combinación.
+
+A11C C. Vitamina D y análogos.
+
+A11D. Vitamina B1, sola y en combinación con vitaminas B6 y B12.
+
+A11DA. Vitamina B1 sola.
+
+A11DB. Vitamina B1 en combinación, con vitamina B6 y/o vitamina B12.
+
+A11E. Vitaminas del complejo B, incluyendo combinaciones.
+
+A11E A. Vitaminas del complejo B solas.
+
+A11E B. Vitaminas del complejo B con vitamina C.
+
+A11E C. Vitamina del complejo B con minerales.
+
+A11E D. Vitaminas del complejo B con esteroides anabólicos.
+
+A11E X. Vitamina del complejo B, otras combinaciones.
+
+A11G. Acido ascórbico (vitamina C), incluyendo combinaciones.
+
+A11G A. Acido ascórbico (vitamina C), monofármaco.
+
+A11G B. Acido ascórbico (vitamina C), combinaciones.
+
+A11H. Otros preparados de vitaminas, monofármacos.
+
+A11H A. Otros preparados de vitaminas, monofármacos.
+
+A11J. Otros productos con vitaminas, combinaciones.
+
+A11J A. Combinaciones de vitaminas.
+
+A11J B. Vitaminas con minerales.
+
+A11J C. Vitaminas, otras combinaciones.
+
+A12. Suplementos minerales.
+
+A12A. Calcio.
+
+A12A A. Calcio.
+
+A12A X. Calcio, combinaciones con otros fármacos.
+
+A12B. Potasio.
+
+A12B A. Potasio.
+
+A12C. Otros suplementos minerales.
+
+A12C A. Sodio.
+
+A12C B. Zinc.
+
+A12C C. Magnesio.
+
+A12C D. Fluoruro.
+
+A12C E. Selenio.
+
+A12C X. Productos con otros minerales.
+
+A13. Tónicos.
+
+A13A. Tónicos.
+
+A14. Agentes anabólicos para uso sistémico.
+
+A14A. Esteroides anabólicos.
+
+A14A A. Derivados del androstano.
+
+A14A B. Derivados del estreno.
+
+A14B. Otros agentes anabólicos.
+
+A15. Estimulantes del apetito.
+
+A16. Otros productos para el tracto alimentario y metabolismo.
+
+A16A. Otros productos para el tracto alimentario y metabolismo.
+
+A16A A. Aminoácidos y derivados.
+
+A16A B. Enzimas.
+
+A16A X. Productos varios para el tracto alimentario y el metabolismo.
+
+B. Sangre y órganos hematopoyéticos.
+
+B01. Agentes antitrombóticos.
+
+B01A. Agentes antitrombóticos.
+
+B01A A. Antagonistas de la vitamina K.
+
+B01A B. Grupo de la heparina.
+
+B01A C. Inhibidores de la agregación plaquetaria, excluyendo heparina.
+
+B01A D. Enzimas.
+
+B01A E. Inhibidores directos de la trombina.
+
+B01A X. Otros agentes antitrombóticos.
+
+B02. Antihemorrágicos.
+
+B02A. Antifibrinolíticos.
+
+B02A A. Aminoácidos.
+
+B02A B. Inhibidores de la proteinasa.
+
+B02B. Vitamina K y otros hemostáticos.
+
+B02B A. Vitamina K.
+
+B02B B. Fibrinógeno.
+
+B02B C. Hemostáticos locales.
+
+B02B D. Factores de la coagulación sanguínea.
+
+B02B X. Otros hemostáticos sistémicos.
+
+B03. Preparados antianémicos.
+
+B03A. Preparados con hierro.
+
+B034 A. Hierro bivalente, preparados orales.
+
+B03A B. Hierro trivalente, preparados orales.
+
+B03A C. Hierro trivalente, preparados parenterales.
+
+B03A D. Hierro en combinación con ácido fálico.
+
+B03A E. Hierro en otras combinaciones.
+
+B03B. Vitamina B12 y ácido fólico.
+
+B03B A. Vitamina B12 (cianocobalamina y análogos).
+
+B03B B. Ácido fólico y derivados.
+
+B03X. Otros preparados antianémicos.
+
+B03X A. Otros preparados antianémicos.
+
+B05. Sustitutos de la sangre y soluciones para perfusión.
+
+B05A. Sangre y productos relacionados.
+
+B05A A. Sustitutos de la sangre y fracciones proteicas del plasma.
+
+B05B. Soluciones I.V.
+
+B05B A. Soluciones para nutrición parenteral.
+
+B05B B. Soluciones que afectan el balance electrolítico.
+
+B05B C. Soluciones que producen diuresis osmótica.
+
+B05C. Soluciones de irrigación.
+
+B05C A. Agentes antiinfecciosos.
+
+B05C B. Soluciones salinas.
+
+B05C X. Otras soluciones para irrigación.
+
+B05D. Soluciones para diálisis peritoneal.
+
+B05D A. Soluciones isotónicas.
+
+B05D B. Soluciones hipertónicas.
+
+B05X. Aditivos para soluciones I.V.
+
+B05X A. Soluciones electroliticas.
+
+B05X B. Aminoácidos.
+
+B05X C. Vitaminas.
+
+B05X X. Otros aditivos para soluciones i. v.
+
+B05Z. Soluciones para hemodiálisis y hemofiltración.
+
+B05Z A. Concentrados para hemodiálisis.
+
+B05Z B. Hemofiltrados.
+
+B06. Otros agentes hematológicos.
+
+B06A. Otros agentes hematológicos.
+
+B06A A. Enzimas.
+
+B06A B. Otros productos con grupo hemo.
+
+C. Sistema cardiovascular.
+
+C01. Terapia cardíaca.
+
+C01A. Glucósidos cardíacos.
+
+C01A A. Glucósidos digitálicos.
+
+C01A B. Glucósidos de la escila.
+
+C01A C. Glucósidos del estrofanto.
+
+C01A X. Otros glucósidos cardíacos.
+
+C01B. Antiarrítmicos de clase I y III.
+
+C01B A. Antiarrítmicos de clase Ia.
+
+C01B B. Antiarrirmicos de clase Ib.
+
+C01B C. Antiarritinicos de clase Ic.
+
+C01B D. Antiarritmicos de clase III.
+
+C01B G. Otros antiarritmicos de clase I.
+
+C01C. Estimulantes cardíacos, excluyendo glucósidos cardíacos.
+
+C01C A. Agentes adrenérgicos y dopaminérgicos.
+
+C01C E. Inhibidores de la fosfodiesterasa.
+
+C01C X. Otros estimulantes cardíacos.
+
+C01D. Vasodilatadores usados en enfermedades cardíacas.
+
+C01D A. Nitratos orgánicos.
+
+C01D B. Vasodilatadores de tipo quinolona.
+
+C01D X. Otros vasodilatadores usados en enfermedades cardíacas.
+
+C01E. Otros preparados para el corazón.
+
+C01E A. Prostaglandinas.
+
+C01E B. Otros preparados para el camón.
+
+C01E X. Combinaciones de otros productos para el corazón.
+
+C02. Antihipertensivos.
+
+C02A. Agentes antiadrenérgicos de acción central.
+
+C02A A. Alcaloides de la rauwolfia.
+
+C02A B. Metildopa.
+
+C02A C. Agonistas del receptor de imidazolidina.
+
+C02B. Agentes antiadrenérgicos por bloqueo ganglionar.
+
+C02B A. Derivados del sulfonio.
+
+C02B B. Aminas secundarias y terciarias.
+
+C02B C. Compuestos de amonio bicuaternario.
+
+C02C. Agentes antiadrenérgicos de acción periférica.
+
+C02C A. Antagonistas de receptores alfa-adrenérgicos.
+
+C02C C. Derivados de la guanidina.
+
+C02D. Agentes que actúan sobre el músculo liso arteriolar.
+
+C02D A. Derivados tiazídicos.
+
+C02D B. Derivados de la hidrazinoftalazina.
+
+C02D C. Derivados de la pirimidina.
+
+C02D D. Derivados del nitroferricianuro.
+
+C02D G. Derivados de la guanidina.
+
+C02K. Otros antihipertensivos.
+
+C02K A. Alcaloides, excluyendo los de la rauwolfia.
+
+C02K B. Inhibidores de la tirosina hidroxilasa.
+
+C02K C. Inhibidores de la MAO.
+
+C02K D. Antagonistas de la serotonina.
+
+C02K X. Otros antihipertensivos.
+
+C02L. Antihipertensivos y diuréticos en combinación.
+
+C02L A. Alcaloides de la rauwolfia y diuréticos en combinación.
+
+C02L B. Metildopa y diuréticos en combinación.
+
+C02L C. Agonistas del receptor de imidazolidina y diuréticos en combinación.
+
+C02L E. Antagonistas alfa-adrenérgicos y diuréticos.
+
+C02L F. Derivados de la guanidina y diuréticos.
+
+C02L G. Derivados de la hidrazinofurlazina y diuréticos.
+
+C02L K. Alcaloides, excluyendo los de la rauwolfia, en combinación con diuréticos.
+
+C02L L. Inhibidores de la MAO y diuréticos.
+
+C02L N. Antagonistas de serotonina y diuréticos.
+
+C02L X. Otros antihipertensivos y diuréticos.
+
+C02N. Combinaciones de antihipertensivos del grupo C02 de ATC.
+
+C03. Diuréticos.
+
+C03A. Diuréticos de techo bajo: Tiazidas.
+
+C03A A. Tiazidas, monofármacos.
+
+C03A B. Tiazidas y potasio en combinación.
+
+C03A H. Tiazidas, combinaciones con piscolépticos y/o analgésicos.
+
+C03A X. Tinadas, combinaciones con otros fármacos.
+
+C03B. Diuréticos de techo bajo, excluyendo tiazidas.
+
+C03B A. Sulfonamidas, monofármacos.
+
+C038 B. Sulfonamidas y potasio, en combinación.
+
+C03B C. Diuréticos mercuriales.
+
+C03B D. Derivados de la xantina.
+
+C03B K. Sulfonamidas combinadas con otros fármacos.
+
+C03B X. Otros diuréticos de techo bajo.
+
+C03C. Diuréticos de techo alto.
+
+C03C A. Sulfonamidas, monofármacos.
+
+C03C B. Sulfonamidas y potasio, en combinación.
+
+C03C C. Derivados del ácido ariloxiacético.
+
+C03C D. Derivados de la pirazolona.
+
+C03C X. Otros diuréticos de techo alto.
+
+C03D. Agentes ahorradores de potasio.
+
+C03D A. Antagonistas de la aldosterona.
+
+C03D B. Otros agentes ahorradores de potasio.
+
+C03E. Diuréticos y agentes ahorradores de potasio en combinación.
+
+C03E A. Diuréticos de techo bajo y agentes ahorradores de potasio.
+
+C03E B. Diuréticos de techo alto y agentes ahorradores de potasio.
+
+C04. Vasodilatadores periféricos.
+
+C04A. Vasodilatadores periféricos.
+
+C04A A. Derivados del 2-amino-1-feniletanol.
+
+C04A B. Derivados de la imidazolidina.
+
+C04A C. Acido nicotínico y derivados.
+
+C04A D. Derivados de la purina.
+
+C04A E. Alcaloides del ergot.
+
+C04A F. Enzimas.
+
+C04A X. Otros vasodilatadores periféricos.
+
+C05. Vasoprotectores.
+
+C05A. Antihemorroidales de uso tópico.
+
+C05A A. Productos que contienen corticosteroides.
+
+C05A B. Productos que contienen antibióticos.
+
+C05A D. Productos que contienen anestésicos locales.
+
+C05A X. Otros antihemorroidales para uso tópico.
+
+C05B. Terapia antivaricosa.
+
+C05B A. Heparinas o heparinoides para uso tópico.
+
+C05B B. Agentes esclerosantes para inyección local.
+
+C05B X. Otros agentes esclerosantes.
+
+C05C. Agentes estabilizadores de capilares.
+
+C05C A. Bioflavonoides.
+
+C05C X. Otros agentes estabilizadores de capilares.
+
+C07. Agentes beta-bloqueantes.
+
+C07A. Agentes beta-bloqueantes.
+
+C07A A. Agentes beta-bloqueantes no selectivos.
+
+C07A B. Agentes beta-bloqueantes selectivos.
+
+C07A G. Agentes bloqueantes alfa y beta.
+
+C07B. Agentes beta-bloqueantes y tiazidas.
+
+C07B A. Agentes beta-bloqueantes no selectivos y tiazidas.
+
+C07B B. Agentes beta-bloqueantes selectivos y tiazidas.
+
+C07B G. Agentes bloqueantes alfa y beta y tiazidas.
+
+C07C. Agentes beta-bloqueantes y otros diuréticos.
+
+C07C A. Agentes beta-bloqueantes no selectivos y otros diuréticos.
+
+C07C B. Agentes beta-bloqueantes selectivos y otros diuréticos.
+
+C07C G. Agentes bloqueantes alfa y beta y otros diuréticos.
+
+C07D. Agentes beta-bloqueantes, tiazidas y otros diuréticos.
+
+C07D A. Agentes beta-bloqueantes no selectivos, tiazidas y otros diuréticos.
+
+C07D B. Agentes beta-bloqueantes selectivos, tiazidas y otros diuréticos.
+
+C07E. Agentes beta-bloqueantes y vasodilatadores.
+
+C07E A. Agentes beta-bloqueantes no selectivos y vasodilatadores.
+
+C07E B. Agentes beta-bloqueantes selectivos y vasodilatadores.
+
+C07F. Agentes beta-bloqueantes y otros antihipertensivos.
+
+C07F A. Agentes beta-bloqueantes no selectivos y otros antihipertensivos.
+
+C07F B. Agentes beta-bloqueantes selectivos y otros antihipertensivos.
+
+C08. Bloqueantes de canales de calcio.
+
+C08C. Bloqueantes selectivos de canales de calcio con efectos principalmente vasculares.
+
+C08C A. Derivados de la dihidropiridina.
+
+C08CX. Otros bloqueantes selectivos de los canales de calcio con efectos principalmente vasculares.
+
+C08D. Bloqueantes selectivos de canales de calcio con efectos cardíacos directos.
+
+C08D A. Derivados de la fenilaquilamina.
+
+C08D B Derivados de la benzotiazepina.
+
+C08E. Bloqueantes no selectivos de canales de calcio.
+
+C08E A. Derivados de la fenilaquilamina.
+
+C08E X. Otros bloqueantes no selectivos de canales de calcio.
+
+C08G. Bloqueantes de canales de calcio y diuréticos.
+
+C08G A. Bloqueantes de los canales de calcio y diuréticos.
+
+C09. Agentes que actúan sobre el sistema renina-angiotensina.
+
+C09A. Inhibidores de la ECA, monofármacos.
+
+C09A A. Inhibidores de la ECA, monofármacos.
+
+C09B. Inhibidores de la ECA, combinaciones.
+
+C09B A. Inhibidores de la ECA y diuréticos.
+
+C09B B. Inhibidores de la ECA y bloqueantes de los canales de calcio.
+
+C09C. Antagonistas de angiotensina II, monofármacos.
+
+C09C A. Antagonistas de angiotensina 17, monofármacos.
+
+C09D. Antagonistas de angiotensina II, combinaciones.
+
+C09D A. Antagonistas de angiotensina II y diuréticos.
+
+C09D B. Antagonistas de angiotensina II y bloqueantes de canales de calcio.
+
+C09X. Otros agentes que actúan sobre el sistema renina-angiotensina.
+
+C09X A. Inhibidores de la renina.
+
+C10. Agentes modificadores de los lípidos.
+
+C10A. Agentes modificadores de los lípidos, monofármacos.
+
+C10A A. Inhibidores MAC CoA reductasa.
+
+C10A B. Fibratos.
+
+C10A C. Secuestradores de ácidos biliares.
+
+C10A D. Acido nicotinico y derivados.
+
+C10A X. Otros agentes modificadores de los lípidos.
+
+C10B. Agentes modificadores de los lípidos, combinaciones.
+
+C10B A. Inhibidores de la HMG CoA reductasa en combinación con otros agentes modificadores de los lípidos.
+
+C10B X. Inhibidores de la HMG CoA reductasa, otras combinaciones.
+
+D. Dermatológicos.
+
+D01. Antifúngicos para uso dermatológico.
+
+D01A. Antifúngicos para uso tópico.
+
+D01A A. Antibióticos.
+
+D01A C. Derivados imidazólicos y triazólicos.
+
+D01A E. Otros preparados antifúngicos para uso tópico.
+
+D01B. Antifúngicos para uso sistémico.
+
+D01B A. Antifúngicos para uso sistémico.
+
+D02. Emolientes y protectores.
+
+D02A. Emolientes y protectores.
+
+D02A A. Productos con siliconas.
+
+D02A B. Productos con zinc.
+
+D02A C. Parafina blanda y productos con grasas.
+
+D02A D. Emplastos líquidos.
+
+D02A E. Productos con urea.
+
+D02A F. Preparados con ácido salicílico.
+
+D02A X. Otros emolientes y protectores.
+
+D02B. Protectores contra la radiación UV.
+
+D02B A. Protectores contra la radiación UV para uso tópico.
+
+D02B B. Protectores contra la radiación UV para uso sistémico.
+
+D03. Preparados para el tratamiento de heridas y úlceras.
+
+D03A. Cicatrizantes.
+
+D03A A. Ungüentos con aceite de hígado de bacalao.
+
+D03A X. Otros cicatrizantes.
+
+D03B. Enzimas.
+
+D03B A. Enzimas proteolíticas.
+
+D04. Antipruriginosos, incluyendo antihistamínicos, anestésicos, etc.
+
+D04A. Antipruriginosos, incluyendo antihistamínicos, anestésicos, etc.
+
+D04A A. Antihistamínicos para uso tópico.
+
+D04A B. Anestésicos para uso tópico.
+
+D04A X. Otros antipruriginosos.
+
+D05. Antipsoriásicos.
+
+D05A. Antipsoriásicos para uso tópico.
+
+D05A A. Alquitranes.
+
+D05A C. Derivados del antraceno.
+
+D05A D. Psoralenos para uso tópico.
+
+D05A X. Otros antipsoriásicos para uso tópico.
+
+D05B. Antipsoriásicos para uso sistémico.
+
+D05B A. Psoralenos para uso sistémico.
+
+D05B B. Retinoides para el tratamiento de la psoriasis.
+
+D05B X. Otros antipsoriósicos para uso sistémico.
+
+D06. Antibióticos y quimioterápicos para uso dermatológico.
+
+D06A. Antibióticos para uso tópico.
+
+D06A A. Tetraciclina y derivados.
+
+D06A X. Otros antibióticos para uso tópico.
+
+D06B. Quimioterápicos para uso tópico.
+
+D06B A. Sulfonamidas.
+
+D06B B. Antivirales.
+
+D06B X. Otros quimioterápicos.
+
+D06C. Combinaciones de antibióticos y quimioterápicos.
+
+D07. Preparados dermatológicos con corticosteroides.
+
+D07. Corticosteroides, monofármacos.
+
+D07A A. Corticosteroides de baja potencia (grupo I).
+
+D07A B. Corticosteroides moderadamente potentes (grupo II).
+
+D07A C. Corticosteroides potentes (grupo III).
+
+D07A D. Corticosteroides muy potentes (grupo IV).
+
+D07B. Corticosteroides en combinación con antisépticos.
+
+D07B A. Corticosteroides de baja potencia en combinación con antisépticos.
+
+D07B B. Corticosteroides moderadamente potentes en combinación con antisépticos.
+
+D07B C. Corticosteroides potentes en combinación con antisépticos.
+
+D07B D. Corticosteroides muy potentes en combinación con antisépticos.
+
+D07C. Corticosteroides en combinación con antibióticos.
+
+D07C A. Corticosteroides de baja potencia en combinación con antibióticos.
+
+D07C B. Corticosteroides moderadamente potentes en combinación con antibióticos.
+
+D07C C. Corticosteroicles potentes en combinación con antibióticos.
+
+D07C D. Corticosteroides muy potentes en combinación con antibióticos.
+
+D07X. Corticosteroides, otras combinaciones.
+
+D07X A. Corticosteroides de baja potencia, otras combinaciones.
+
+D07X B. Corticosteroides moderadamente potentes, otras combinaciones.
+
+D07X C. Corticosteroides potentes, otras combinaciones.
+
+D07X D. Corticosteroides muy potentes, otras combinaciones.
+
+D08. Antisépticos y desinfectantes.
+
+D08A. Antisépticos y desinfectantes.
+
+D08A A. Derivados de la acridina.
+
+D08A B. Agentes con aluminio.
+
+D08A C. Biguanidas y amidinas.
+
+D08A D. Productos con ácido bórico.
+
+D08A E. Fenol y derivados.
+
+D08A F. Derivados del nitrofurano.
+
+D08A G. Productos con iodo.
+
+D08A H. Derivados de la quinolina.
+
+D08A J. Compuestos de amonio cuaternario.
+
+D08A K. Productos mercuriales.
+
+D08A L. Compuestos de plata.
+
+D08A X. Otros antisépticos y desinfectantes.
+
+D09. Apósitos con medicamentos.
+
+D09A. Apósitos con medicamentos.
+
+D09A A. Apósitos con pomada con antinfecciosos.
+
+D09A B. Vendajes con zinc.
+
+D09A X. Apósitos con parafina blanda.
+
+D10. Preparados anti-acné.
+
+D10A. Preparados anti-acné para uso tópico.
+
+D10A A. Combinaciones con corticosteroides para el tratamiento del acné.
+
+D10A B. Preparados que contienen azufre.
+
+D10A D. Retinoides para uso tópico en acné.
+
+D10A E. Peróxidos.
+
+D10A F. Antiinfecciosos para el tratamiento del acné.
+
+D10A X. Otros preparados anti-acné para uso tópico.
+
+D10B. Preparados anti-acné para uso sistémico.
+
+D10B A. Retinoides para el tratamiento del acné.
+
+D10B X. Otros preparados anti-acné para uso sistémico.
+
+D11. Otros preparados dermatológicos.
+
+D11A. Otros preparados dermatológicos.
+
+D114 A. Anhidróticos.
+
+D11A C. Champús medicinales.
+
+D11A E. Andrógenos para uso tópico.
+
+D11A F. Preparados anti-verrugas y callicidas.
+
+D11A X. Otros productos dermatológicos.
+
+G. Sistema genitourinario y hormonas sexuales.
+
+G01. Antiinfecciosos y antisépticos ginecológicos.
+
+G01A. Antiinfecciosos y antisépticos, excluyendo combinaciones con corticosteroides.
+
+G01A A. Antibióticos.
+
+G01A B. Compuestos de arsénico.
+
+G01A C. Derivados de la quinolina.
+
+G01A D. Acidos orgánicos.
+
+G01A E. Sulfonamidas.
+
+G01A F. Derivados imidazólicos.
+
+G01A G. Derivados triazólicos.
+
+G01A X. Otros antiinfecciosos y antisépticos.
+
+G01B. Antiinfecciosos y antisépticos en combinación corticosteroides.
+
+G01B A. Antibióticos con corticosteroides.
+
+G01B C. Derivados de la quinolina con corticosteroides.
+
+G01B D. Antisépticos con corticosteroides.
+
+G01B E. Sulfonamidas con corticosteroides.
+
+G01B F. Derivados imidazólicos con corticosteroides.
+
+G02. Otros productos ginecológicos.
+
+G02A. Oxitócicos.
+
+G02A B. Alcaloides del ergot.
+
+G02A C. Alcaloides del ergot y oxitocina, incluyendo análogos, en combinación.
+
+G02A D. Prostaglandinas.
+
+G02A X. Otros oxitócicos.
+
+G02B. Anticonceptivos para uso tópico.
+
+G02B A. Anticonceptivos intrauterinos.
+
+G02B B. Anticonceptivos intravaginales.
+
+G02C. Otros productos ginecológicos.
+
+G02C A. Simpaticomiméticos que inhiben el trabajo de parto.
+
+G02C B. Inhibidores de la prolactina.
+
+G02C C. Productos antiinflamatorios para administración vaginal.
+
+G02C X. Otros productos ginecológicos.
+
+G03. Hormonas sexuales y moduladores del sistema genital.
+
+G03A. Anticonceptivos hormonales para uso sistémico.
+
+G03A A. Progestágenos y estrógenos, preparados de dosis fijas.
+
+G03A B. Progestágenos y estrógenos, preparados secuenciales.
+
+G03A C. Progestágenos.
+
+G03B. Andrógenos.
+
+G03B A. Derivados del (4) 3-axoandrosteno.
+
+G03B B. Derivados de la 3-5 androstanona.
+
+G03C. Estrógenos.
+
+G03C A. Estrógenos naturales y semisintéticos, monofármacos.
+
+G03C B. Estrógenos sintéticos, monofármacos.
+
+G03C C. Estrógenos, combinaciones con otros fármacos.
+
+G03D. Progestágenos.
+
+G03D A. Derivados del (4) pregneno.
+
+G03D B. Derivados del pregnadieno.
+
+G03D C. Derivados del estreno.
+
+G03E. Andrógenos y hormonas sexuales femeninas en combinación.
+
+G03E A. Andrógenos y estrógenos.
+
+G03E B. Andrógenos, progestágenos y estrógenos en combinación.
+
+G03E K. Andrógenos y hormonas sexuales femeninas en combinación con otros fármacos.
+
+G03F. Progestágenos y estrógenos en combinación.
+
+G03F A. Progestágenos y estrógenos, combinaciones fijas.
+
+G03F B. Progestágenos y estrógenos, preparados secuenciales.
+
+G03G. Gonadotrofinas y otros estimulantes de la ovulación.
+
+G03G A. Gonadotrofinas.
+
+G03G B. Estimulantes sintéticos de la ovulación.
+
+G03H. Antiandrógenos.
+
+G03H A. Antiandrógenos, monofármacos.
+
+G03H B. Antiándrogenos y estrógenos.
+
+G03X. Otras hormonas sexuales y moduladores del sistema genital.
+
+G03X A. Antigonadotrofinas y agentes similares.
+
+G03X B. Antiprogestágenos.
+
+G03X C. Moduladores selectivos del receptor de estrógeno.
+
+G04. Productos de uso urológico.
+
+G04B. Otros productos de uso urológico, incluyendo antiespasmódicos.
+
+G04B A. Acidificantes.
+
+G04B C. Solventes de concreciones urinarias.
+
+G04B D. Antiespasmódicos urinarios.
+
+G04B E. Fármacos usados en disfunción eréctil.
+
+G04B X. Otros productos urológicos.
+
+G04C. Fármacos usados en la hipertrofia prostática benigna.
+
+G04C A. Antagonistas de los receptores alfa adrenérgicos.
+
+G04C B. Inhibidores de la testosterona 5-alfa reductasa.
+
+G04C X. Otros fármacos usados en la hipertrofia prostática benigna.
+
+H. Preparados hormonales sistémicos, excluyendo hormonas sexuales e insulinas.
+
+H01. Hormonas hipofisarias e hipotalámicas y sus análogos.
+
+H01A. Hormonas del lóbulo anterior de la hipófisis y sus análogos.
+
+H01A A. ACTH.
+
+H01A B. Tirotropina.
+
+H01A C. Somatropina y agonistas de la somatropina.
+
+H01A X. Otras hormonas del lóbulo anterior de la hipófisis y sus análogas.
+
+H01B. Hormonas del lóbulo posterior de la hipófisis.
+
+H01B A. Vasopresina y análogos.
+
+H01B B. Oxitocina y análogos.
+
+H01C. Hormonas hipotalámicas.
+
+H01C A. Hormonas liberadoras de gonadoirofiria.
+
+H01C B. Inhibidores de la hormona de crecimiento.
+
+H01C C. Hormonas liberadoras de antigonadotrofinas.
+
+H02. Corticosteroides para uso sistémico.
+
+H02A. Corticosteroides para uso sistémico, monofármacos.
+
+H02A A. Mineralocorticosteroides.
+
+H02A B. Glucocorticosteroides.
+
+H02B. Corticosteroides para uso sistémico, combinaciones.
+
+H02B X. Corticosteroides para uso sistémico, combinaciones.
+
+H02C. Preparados contra las hormonas adrenales.
+
+H02C A. Anticorticosteroides.
+
+H03. Terapia tiroidea.
+
+H03A. Preparados de hormona tiroidea.
+
+H03A A. Hormonas tiroideas.
+
+H03B. Preparados antitiroideos.
+
+H03B A. Tiouracilos.
+
+H03B B. Derivados imidazólicos que contienen azufre.
+
+H03B C. Percloratos.
+
+H03B X. Otros preparados antitiroideos.
+
+H03C. Terapia con iodo.
+
+H03C A. Terapia con iodo.
+
+H04. Hormonas pancreáticas.
+
+H04A. Hormonas glucogenolíticas.
+
+H04A A. Hormonas glucogenolíticas.
+
+H05. Homeostasis del calcio.
+
+H05A. Hormonas paratiroideas y análogos.
+
+H05A A. Hormonas paratiroideas y análogas.
+
+H05B. Agentes antiparatiroideos.
+
+H05B A. Preparados con calcitonina.
+
+H05B X. Otros agentes antiparatiroideos.
+
+J. Antiinfecciosos para uso sistémico.
+
+J01. Antibacterianos para uso sistémico.
+
+J01A. Tetraciclinas.
+
+J01A A. Tetraciclinas.
+
+J01B. Anfenicoles.
+
+J01B A. Anfenicoles.
+
+J01C. Antibacterianos betalactámicos, penicilinas.
+
+J01C A. Penicilinas con espectro ampliado.
+
+J01C E. Penicilinas sensibles a la betalactamasa.
+
+J01C F. Penicilinas resistentes a la betalactamasa.
+
+J01C G. Inhibidores de la betalactamasa.
+
+J01C R. Combinaciones de penicilinas, incluyendo inhibidores de la betalactamasa.
+
+J01D. Otros antibacterianos betalactámicos.
+
+J01D B. Cefalosporinas de primera generación.
+
+J01D C. Cefalosporinas de segunda generación.
+
+J01D D. Cefalosporinas de tercera generación.
+
+J01D E. Cefalosporinas de cuarta generación.
+
+J01D F. Monobactámicos.
+
+J01D H. Derivados del carbapenem.
+
+J01E. Sulfonamidas y trimetoprima.
+
+J01E A. Trimetoprima y derivados.
+
+J01E B. Sulfonamidas de acción corta.
+
+J0IE C. Sulfonamidas de acción intermedia.
+
+J01E D. Sulfonamidas de acción larga.
+
+J01E E. Combinaciones de sulfonamidas y trimetoprima, incluyendo derivados.
+
+J01F. Macrólidos, lincosamidas y estreptograminas.
+
+J01F A. Macrólidos.
+
+J01F F. Lincosamidas.
+
+J01F G. Estreptograminas.
+
+J01G. Aminoglucósidos antibacterianos.
+
+J01G A. Estreptomicinas.
+
+J01G B. Otros aminoglucósidos.
+
+J01M. Quinolonas antibacterianas.
+
+J01M A. Fluoroquinolonas.
+
+J01M B. Otras quinolonas.
+
+J01R. Combinaciones de antibacterianos.
+
+J01R A. Combinaciones de antibacterianos.
+
+J01X. Otros antibacterianos.
+
+J01X A. Glicopéptidos antibacterianos.
+
+J01X B. Polimixinoa.
+
+J01X C. Esteroides antibacterianos.
+
+J01X D. Derivados imidazólicos.
+
+J01X E. Drivados del nitrofurano.
+
+J01X X. Otros antibacterianos.
+
+J02. Antimicóticos para uso sistémico.
+
+J02A. Antimicóticos para uso sistémico.
+
+J02A A. Antibióticos.
+
+J02A B. Derivados imidazólicos.
+
+J024 C. Derivados triazólicos.
+
+J02A X. Otros antimicóticos para uso sistémico.
+
+J04. Antimicobacterias.
+
+J04A. Fármacos para el tratamiento de la tuberculosis.
+
+J04A A. Acido aminosalicílico y derivados.
+
+J04A B. Antibióticos.
+
+J04A C. Hidrazidas.
+
+J04A D. Derivados de la tiocarbamida.
+
+J04A K. Otros fármacos para el tratamiento de la tuberculosis.
+
+J04A M. Combinaciones de fármacos para el tratamiento de la tuberculosis.
+
+J04B. Fármacos para el tratamiento de la lepra.
+
+J04B A. Fármacos para el tratamiento de la lepra.
+
+J05. Antivirales de uso sistémico.
+
+J05A. Antivirales de acción directa.
+
+J05A A. Tiosemicarhazonas.
+
+J05A B. Nucleósidos y nucleótidos, excluyendo inhibidores de la transcriptasa reversa.
+
+J05A C. Aminas cíclicas.
+
+J05A D. Derivados del ácido fosfórico.
+
+J05A E. Inhibidores de la proteasa.
+
+J05A F. Nucleósidos y nucleótidos inhibidores de la transcriptasa reversa.
+
+J05A G. Inhibidores no nuceosidicos de la transcriptasa reversa.
+
+J05A H. Inhibidores de la neuratninidasa.
+
+J05A R. Antivirales para el tratamiento de infecciones por VIH y combinaciones.
+
+J05A X. Otros antivirales.
+
+J06. Sueros inmunes e inmunoglobulinas.
+
+J06A. Sueros inmunes.
+
+J06A A. Sueros inmunes.
+
+J06B. Inmunoglobulinas.
+
+J06B A. Inmunoglobulinas humanas normales.
+
+J06B B. Inmunoglobulinas humanas especificas.
+
+J06B C. Otras inmunoglobulinas.
+
+J07. Vacunas.
+
+J07A. Vacunas antibacterianas.
+
+J07A C. Vacunas contra el ántrax.
+
+J07A D. Vacunas contra la brucelosis.
+
+J07A E. Vacunas contra el cólera.
+
+J07A F. Vacunas antidifteria.
+
+J07A G. Vacunas contra el Haemophilus influenzae B.
+
+J07A H. Vacunas antimeningococo.
+
+J07A J. Vacunas antipertussis.
+
+J07A K. Vacunas contra la peste.
+
+J07A L. Vacunas antineumococo.
+
+J07A M. Vacunas antitetánicas.
+
+J07A N. Vacuna antituberculosa.
+
+J07A P. Vacunas antitifoideas.
+
+J07A R. Vacunas contra el tifus (exantemático).
+
+J07A X. Otras vacunas antibacterianas.
+
+J07B. Vacunas antivirales.
+
+J07B A. Vacunas contra las encefalitis.
+
+J07B B. Vacunas contra la gripe.
+
+J07B C. Vacunas contra la hepatitis.
+
+J07B D. Vacunas contra el sarampión.
+
+J07B E. Vacunas contra la parotiditis.
+
+J07B F. Vacunas contra la poliomielitis.
+
+J07B G. Vacunas contra la rabia.
+
+J07B H. Vacunas contra la diarrea por rotavirus.
+
+J07B J. Vacunas contra la rubéola.
+
+J07B K. Vacunas antivaricela zóster.
+
+J07B L. Vacunas contra la fiebre amarilla.
+
+J07B M. Vacuna contra papilomavirus.
+
+J07B X. Otras vacunas virales.
+
+J07C. Vacunas antibacterianas y antivirales combinadas.
+
+J07C A. Vacunas antibacterianas y antivirales combinadas.
+
+J07X. Otras vacunas.
+
+L. Agentes antineoplásicos e inmunomoduladores.
+
+L01. Agentes antineoplásicos.
+
+LO1A. Agentes alquilantes.
+
+L01A A. Análogos de la mostaza nitrogenada.
+
+L01A B. Alquilsulfonatos.
+
+L01A C. Etileniminas.
+
+L01A D. Nitrosoureas.
+
+L01A G. Epóxidos.
+
+L01A X. Otros agentes alquilantes.
+
+L01B. Antimetabolitos.
+
+L01B A. Análogos del ácido fálico.
+
+L01B B. Análogos de las purinas.
+
+L01B C. Análogos de las pirimidinas.
+
+L01C. Alcaloides de plantas y otros productos naturales.
+
+L01C A. Alcaloides de la Vinca y análogos.
+
+L01C B. Derivados de la podofilotoxina.
+
+L01C C. Derivados de la colchicina.
+
+L01C D. Taxanos.
+
+L01C X. Otros alcaloides de plantas y productos naturales.
+
+L01D. Antibióticos citotóxicos y sustancias relacionadas.
+
+L01D A. Actinomicinas.
+
+L01D B. Antraciclinas y sustancias relacionadas.
+
+L01D C. Otros antibióticos citotóxicos.
+
+L01X. Otros agentes antineoplásicos.
+
+L01X A. Compuestos del platino.
+
+L01X B. Metilhidrazinas.
+
+L01X C. Anticuerpos monoctonales.
+
+L01X D. Sensibilizadores usados en terapia fotodinámica y radiación.
+
+L01X E. Inhibidores directos de la protein-quinasa.
+
+L01X X. Otros agentes antineoplásicos.
+
+L01X Y. Combinaciones de agentes antineoplásicos.
+
+L02. Terapia endocrina.
+
+L02A. Hormonas y agentes relacionados.
+
+L02A A. Estrógenos.
+
+L02A B. Progestágenos.
+
+L02A E. Análogos de la hormona liberadora de gonadotrofinas.
+
+L02A X. Otros hormonas.
+
+L02B. Antagonistas de hormonas y agentes relacionados.
+
+L02B A. Antiestrógenos.
+
+L02B B. Antiandrógenos.
+
+L02B G. Inhibidores enzimáticos.
+
+L02B X. Otros antagonistas de hormonas y sustancias relacionadas.
+
+L03. Inmunoestimulantes.
+
+L03A. Citokinas e inmunomoduladores.
+
+L03A A. Factores estimulantes de colonias.
+
+L03A B. Interferones.
+
+L03A C. Interleukinas.
+
+L03A X. Otros citokinas e inmunomoduladores.
+
+L04. Agentes inmunosupresores.
+
+L04A. Agentes inmunosupresores.
+
+L04A A. Agentes inmunosupresores selectivos.
+
+L04A X. Otros agentes inmunosupresores.
+
+M. Sistema musculoesquelético.
+
+M01. Productos antiinflamatorios y antirreumáticos.
+
+M01A. Productos antiinflamatorios y antirreumáticos no esteroideos.
+
+M01A A. Butilpirazolidinas.
+
+M01A B. Derivados del ácido acético y sustancias relacionadas.
+
+M01A C. Oxicams.
+
+M01A E. Derivados del ácido propiónico.
+
+M01A G. Fenatnatos.
+
+M01A H. Caxibs.
+
+M01A X. Otros agentes antiinflamatorios y antirreumáticos no esteroideos.
+
+M01B. Agentes antiinflamatorios/antirreumáticos en combinación.
+
+M01B A. Agentes antiinflamatorios/antirreumáticos en combinaciones con corticosteroides.
+
+M01B X. Otros agentes antiinflamatorios en combinación con otros fármacos.
+
+M01C. Agentes antirreumáticos específicos.
+
+M01C A. Quinolinas.
+
+M01C B. Preparados de oro.
+
+M01C C. Penicilamina y agentes similares.
+
+M01C X. Otros agentes antirreumáticos específicos.
+
+M02. Productos tópicos para el dolor articular y muscular.
+
+M02A. Productos tópicos para el dolor articular y muscular.
+
+M02A A. Preparados con antiinflamatorios no esteroideos para uso tópico.
+
+M02A B. Preparados con cápsicum y agentes similares.
+
+M02A C. Preparados con ácido salicílico y derivados.
+
+M02A X. Otros productos tópicos para el dolor articular y muscular.
+
+M03. Relajantes musculares.
+
+M03A. Agentes relajantes musculares de acción periférica.
+
+M03A A. Alcaloides curares.
+
+M03A B. Derivados de la colina.
+
+M03A C. Otros compuestos de amonio cuaternario.
+
+M03A X. Otros agentes relajantes musculares de acción periférica.
+
+M03B. Agentes relajantes musculares de acción central.
+
+M03B A. Ésteres del ácido carbamico.
+
+M03B B. Derivados oxazólicos, tiazínicos y triazinicos.
+
+M03B C. Esteres químicamente relacionados con antihistamínicos.
+
+M03B X. Otros agentes de acción central.
+
+M03C. Agentes relajantes musculares de acción directa.
+
+M03C A. Dantroleno y derivados.
+
+M04. Preparados antigotosos.
+
+M04A. Preparados antigotosos.
+
+M04A A. Preparados que inhiben la producción del ácido úrico.
+
+M04A B. Preparados que aumentan la excreción de ácido úrico.
+
+M04A C. Preparados sin efecto sobre el metabolismo del ácido úrico.
+
+M04A X. Otros preparados antigotosos.
+
+M05. Fármacos para el tratamiento de enfermedades oseas.
+
+M05B. Agentes que afectan la estructura osea y la mineralización.
+
+M05B A. Bifosfonatos.
+
+M05B B. Bifosfonatos, combinaciones.
+
+M05B C. Proteínas morfogenéticas óseas.
+
+M05B X. Otros agentess que afectan la estructura ósea y la mineralización.
+
+M09. Otros fármacos para desórdenes del sistema musculoesquelético.
+
+M09A. Otros fármacos para desórdenes del sistema musculoesquelético.
+
+M09A A. Quinina y derivados.
+
+M09A B. Enzimas.
+
+M09A X. Otros fármacos para desórdenes del sistema musculoesquelético.
+
+N. Sistema nervioso.
+
+N01. Anestésicos.
+
+N01A. Anestésicos generales.
+
+N01A A. Eteres.
+
+N01A B. Hidrocarburos halogenados.
+
+N01A F. Barbitúricos, monofármacos.
+
+N01A G. Barbitúricos en combinación con otros fármacos.
+
+N01A H. Anestésicos opiodes.
+
+N01A X. Otros anestésicos generales.
+
+N01B. Anestésicos locales.
+
+N01B A. Esteres del ácido aminobenzoico.
+
+N01B B. Amidas.
+
+N01B C. Ésteres del ácido benzoico.
+
+N01B X. Otros anestésicos locales.
+
+N02. Analgésicos.
+
+N02A. Opioides.
+
+N02A A. Alcaloides naturales del opio.
+
+N02A B. Derivados de fenilpiperidina.
+
+N02A C. Derivados de la difenilpropilamina.
+
+N02A D. Derivados del benzomorfano.
+
+N02A E. Derivados de la oripavina.
+
+N02A F. Derivados del morfinano.
+
+N02A G. Opioides en combinación con antiespasmódicos.
+
+N02A X. Otros opioides.
+
+N02B. Otros analgésicos y antipiréticos.
+
+N02B A. Acido salicílico y derivados.
+
+N02B B. Pirazolonas.
+
+N02B E. Anilidas.
+
+N02B G. Otros analgésicos y antipiréticos.
+
+N02C. Preparados antimigrañosos.
+
+N02C A. Alcaloides del ergot.
+
+N02C B. Derivados corticosieroideos.
+
+N02C C. Agonistas selectivos del receptor 5HT-1.
+
+N02C X. Otros preparados antimigrañosos.
+
+N03. Antiepilépticos.
+
+N03A. Antiepilépticos.
+
+N03A A. Barbitúricos y derivados.
+
+N03A B. Derivados de la hidantoína.
+
+N03A C. Derivados de la oxazolidina.
+
+N03A D. Derivados de la succinimida.
+
+N03A E. Derivados de la benzodiazepina.
+
+N03A F. Derivados de la carboxamida.
+
+N03A G. Derivados de los ácidos grasos.
+
+N03A X. Otros antiepilépticos.
+
+N04. Antiparkinsonianos.
+
+N04A. Agentes anticolinergicos.
+
+N04A A. Aminas terciarias.
+
+N04A B. Esteres químicamente relacionados con antihistaminicos.
+
+N04A C. Esteres de tropina o derivados de la tropina.
+
+N04B. Agentes dopaminérgicos.
+
+N04B A. Dopa y derivados de la dopa.
+
+N04B B. Derivados del adamantano.
+
+N04B C. Agonistas dopaminérgicos.
+
+N04B D. Inhibidores de la monoaminoxidasa B.
+
+N04B X. Otros agentes dopaminérgicos.
+
+N05. Psicolépticos.
+
+N05A. Antipsicóticos.
+
+N05A A. Fenotiazinas con cadena lateral alifática.
+
+N05A B. Fenotiazinas con estructura piperazinica.
+
+N05A C. Fenotiazinas con estructura piperidínica.
+
+N05A D. Derivados de la butirofenona.
+
+N05A E. Derivados del indol.
+
+N05A F. Derivados del tioxanteno.
+
+N05A G. Derivados de la difenilbutilpiperidina.
+
+N05A H. Diazepinas, oxazepinas y tiazepinas.
+
+N05A K. Neurolépticos en discinesias tardías.
+
+N05A L. Benzamidas.
+
+N05A N. Litio.
+
+N05A X. Otros antipsicóticos.
+
+N05B. Ansiolíticos.
+
+N05B A. Derivados de la benzodiazepina.
+
+N05B B. Derivados del difenilmetano.
+
+N05B C. Carbamatos.
+
+N05B D. Derivados del dibenzo-biciclo-octadieno.
+
+N05B E. Derivados de la azaspirodecanediona.
+
+N05B X. Otros ansioliticos.
+
+N05C. Hipnóticos y sedantes.
+
+N05C A. Barbitúricos, monofármacos.
+
+N05C B. Barbitúricos, combinaciones.
+
+N05C C. Aldehídos y derivados.
+
+N05C D. Derivados de la benzodiazepina.
+
+N05C E. Derivados de la piperidinediona.
+
+N05C F. Fármacos relacionados con las benzodiazepinas.
+
+N05C M. Otros hipnóticos y sedantes.
+
+N05C X. Hipnóticos y sedantes en combinación, excluyendo barbitúricos.
+
+N06. Psicoanalépticos.
+
+N06A. Antidepresivos.
+
+N06A A. Inhibidores no selectivos de la recaptación de monoaminas.
+
+N06A B. Inhibidores selectivos de la recaptación de serotonina.
+
+N06A F. Inhibidores no selectivos de la monoarninooxidasa.
+
+N06A G. Inhibidores de la monomninooxidasa A.
+
+N064 X. Otros antidepresivos.
+
+N06B. Psicoestimulantes, agentes utilizados para el Síndrome de Déficit de Atención e Hiperactividad (SDAH) y nootrópicos.
+
+N06B A. Agentes simpaticomiméticos de acción central.
+
+N06B C. Derivados de la xantina.
+
+N06B X. Otros psicoestimulantes y nootrópicos.
+
+N06C. Psicolépticos y psicoanalépticos en combinación.
+
+N06C A. Antidepresivos en combinación con psicolépticos.
+
+N06C B. Psicoestimulantes en combinación con psicolépticos.
+
+N06D. Fármacos anti-demencia.
+
+N06D A. Anticolinesterasas.
+
+N06D X. Otros fármacos anti-demencia.
+
+N07. Otros fármacos que actúan sobre el sistema nervioso.
+
+N07A. Parasimpaticomiméticos.
+
+N07A A. Inhibidores de la acetilcolinesterasa.
+
+N07A B. Esteres de la colina.
+
+N07A X. Otros parasimpatícomiméticos.
+
+N07B. Fármacos usados en desórdenes adictivos.
+
+N07B A. Fármacos usados en la dependencia a nicotina.
+
+N07B B. Fármacos usados en la dependencia al alcohol.
+
+N07B C. Fármacos usados en la dependencia a opioides.
+
+N07C. Preparados contra el vértigo.
+
+N07C A. Preparados contra el vértigo.
+
+N07X. Otros fármacos que actúan sobre el sistema nervioso.
+
+N07X A. Gangliósidos y derivados de gangliósidos.
+
+N07X X. Otros fármacos que actúan sobre el sistema nervioso.
+
+P. Productos antiparasitarios, insecticidas y repelentes.
+
+P01. Antiprotozoarios.
+
+P01A. Agentes contra la amebiasis y otras enfermedades por protozoarios.
+
+P01A A. Derivados de la hidroxiquinolina.
+
+P01A B. Derivados del nitroimidazol.
+
+P01A C. Derivados de la dicloroacetamida.
+
+P01A R. Compuestos del arsénico.
+
+P01A X. Otros agentes contra la amebiasis y otras enfermedades por protozoarios.
+
+P01B. Antipalúdicos.
+
+P01B A. Atninoquinolinas.
+
+P01B B. Biguanidas.
+
+P01B C. Afetanolquinolinas.
+
+P01B D. Diaminopirimidinas.
+
+P01B E. Artemisinina y derivados.
+
+P01B X. Otros antipalúdicos.
+
+P01C. Agentes contra la leishmaniasis y otras tripanosomiasis.
+
+P01C A. Derivados del nitroimidazol.
+
+P01C B. Compuestos antimoniales.
+
+P01C C. Derivados del nitrofurano.
+
+P01C D. Compuestos del arsénico.
+
+P01C X. Otros agentes contra la leishmaniasis y tripanosomiasis.
+
+P02. Antihelmínticos.
+
+P02B. Antitrematodos.
+
+P02B A. Derivados de la quinolina y sustancias relacionadas.
+
+P02B B. Compuestos organofosforados.
+
+P028 X. Otros agentes antitrematodos.
+
+P02C. Antinematodos.
+
+P02C A. Derivados del benzimidazol.
+
+P02C B. Piperazina y derivados.
+
+P02C C. Derivados de la tetrahidropirimidina.
+
+P02C E. Derivados del imidazotiazol.
+
+P02C F. Avermectinas.
+
+P02C X. Otros antinematodos.
+
+P02D. Anticestodos.
+
+P02D A. Derivados del ácido salicilico.
+
+P02D X. Otros anticestodos.
+
+P03. Ectoparasiticidas, incluyendo escabicidas, insecticidas y repelentes.
+
+P03A. Ectoparasiticidas, incluyendo escabicidas.
+
+P03A A. Productos que contienen azufre.
+
+P03A B. Productos que contienen cloro.
+
+P03A C. Piretrinas, incluyendo compuestos sintéticos.
+
+P03A X. Otros ectoparasiticidas, incluyendo escabicidas.
+
+P03B. Insecticidas y repelentes.
+
+P03B A. Piretrinas.
+
+P03B X. Otros insecticidas y repelentes.
+
+R. Sistema respiratorio.
+
+R01. Preparados de uso nasal.
+
+R01A. Descongestivos y otros preparados nasales para uso tópico.
+
+R01A A. Simpaticomiméticos, monofármacos.
+
+R01A B. Simpaticomiméticos, combinaciones excluyendo corticosteroides.
+
+R01A C. Agentes antialérgicos, excluyendo corticosteroides.
+
+R01A D. Corticosteroides.
+
+R01A X. Otros preparados nasales.
+
+R01B. Descongestivos nasales para uso sistémico.
+
+R01B A. Simpaticomiméticos.
+
+R02. Preparados para la garganta.
+
+R02A. Preparados para la garganta.
+
+R02A A. Antisépticos.
+
+R02A B. Antibióticos.
+
+R02A D. Anestésicos locales.
+
+R03. Agentes contra padecimientos obstructivos de las vías respiratorias.
+
+R03A. Adrenérgicos, inhalatorios.
+
+R03A A. Agonistas de receptores adrenérgicos alfa y beta.
+
+R03A B. Agonistas de receptores beta-adrenérgicos no selectivos.
+
+R03A C. Agonistas selectivos de receptores beta-2 adrenérgicos.
+
+R03A H. Combinaciones de agentes adrenérgicos.
+
+R03A K. Adrenérgicos y otros agentes contra padecimientos obstructivos de las vías respiratorias.
+
+R03B. Otros agentes contra padecimientos obstructivos de las vías respiratorias, inhalatorios.
+
+R03B A. Glucocortocoides.
+
+R03B B. Anticolinérgicos.
+
+R03B C. Agentes antialérgicos, excluyendo corticosteroides.
+
+R03B X. Otros agentes contra padecimientos obstructivos de las vías respiratorias, inhalatorios.
+
+R03C. Adrenérgicos para uso sistémico.
+
+R03C A. Agonistas de receptores adrenérgicos alfa y beta.
+
+R03C B. Agonistas de receptores beta-adrenérgicos no selectivos.
+
+R03C C. Agonistas selectivos de receptores beta-2 adrenérgicos.
+
+R03C K. Adrenérgicos y otros agentes contra padecimientos obstructivos de las vías respiratorias.
+
+R03D. Otros agentes contra padecimientos obstructivos de las vías respiratorias, inhalatorios para uso sistémico.
+
+R03D A. Xantinas.
+
+R03D B. Xantinas y adrenérgicos.
+
+R03D C. Antagonistas del receptor de leucotrienos.
+
+R03D X. Otros agentes contra padecimientos obstructivos de las vías respiratorias, inhalatorios para uso sistémico.
+
+R05. Preparados para la tos y el resfriado.
+
+R05C. Expectorantes, excluyendo combinaciones con supresores de la tos.
+
+R05C A. Expectorantes.
+
+R05C B. Mucolíticos.
+
+R05C Z. Expectorantes y/o mucoliticos con antiinfecciosos.
+
+R05D. Supresores de la tos, excluyendo combinaciones con expectorantes.
+
+R05D A. Alcaloides del opio y derivados.
+
+R05D B. Otros supresores de la tos.
+
+R05F. Combinaciones de supresores de la tos y expectorantes.
+
+R05F A. Derivados del opio y expectorantes.
+
+R05F B. Otros supresores de la tos y expectorantes.
+
+R05X. Otros preparados combinados para el resfriado.
+
+R06. Antihistamínicos para uso sistémico.
+
+R06A. Antihistamínicos para uso sistémico.
+
+R06A A. Aminoalquil éteres.
+
+R06A B. Alquilaminas sustituidas.
+
+R06A C. Etilendiaminas sustituidas.
+
+R06A D. Derivados de la fenotiazina.
+
+R06A E. Derivados de la piperazina.
+
+R06A K. Combinaciones de antihistamínicos.
+
+R06A X. Otros antihistamínicos para uso sistémico.
+
+R07. Otros productos para el sistema respiratorio.
+
+R07A. Otros productos para el sistema respiratorio.
+
+R07A A. Sutfactantes pulmonares.
+
+R07A B. Estimulantes respiratorios.
+
+R07A X. Otros productos para el sistema respiratorio.
+
+S. Órganos de los sentidos.
+
+S01. Oftalmólogicos.
+
+S01A. Antiinfecciosos.
+
+S01A A. Antibióticos.
+
+S01A B. Sulfonamidas.
+
+S01A D. Antivirales.
+
+S01A X. Otros antiinfecciosos.
+
+S01B. Agentes antiinflamatorios.
+
+S01B A. Corticosteroides, monofármacos.
+
+S01B B. Corticosteroides y midriáticos en combinación.
+
+S01B C. Agentes antiinflamatorios no esteroideos.
+
+S01B Z. Corticosteroides asociados, excluyendo SOICA y SOICB.
+
+S01C. Agentes antiinflamatorios y antiinfecciosos en combinación.
+
+S01C A. Corticosteroides y antiinfecciosos en combinación.
+
+S01C B. Corticosteroides, antiinfecciosos y midriáticos en combinación.
+
+S01C C. Agentes antiinflamatorios no esteroideos y antiinfecciosos en combinación.
+
+S01E. Preparados contra el glaucoma y mióticos.
+
+S01E A. Simpaticomiméticos en la terapia del glaucoma.
+
+S01E B. Parasimpaticomiméticos.
+
+S01E C. Inhibidores de la anhidrasa carbónica.
+
+S01E D. Agentes beta-bloqueantes.
+
+S01E E. Análogos de prostaglandinas.
+
+S01E X. Otros preparados contra el glaucoma.
+
+S01F. Midiriaticos y ciclopléjicos.
+
+S01F A. Anticolinérgicos.
+
+S01F B. Simpaticomiméticos, excluyendo preparados contra el glaucoma.
+
+S01G. Descongestivos y antialérgicos.
+
+S01G A. Simpaticomiméticos usados corno descongestivos.
+
+S01G X. Otros antialérgicos.
+
+S01H. Anestésicos locales.
+
+S01H A. Anestésicos locales.
+
+S01J. Agentes de diagnóstico.
+
+S01J A. Agentes colorantes.
+
+S01J X. Otros agentes usados en diagnóstico oftalmológico.
+
+S01K. Auxiliares en cirugía.
+
+S01K A. Sustancias viscoelásticas.
+
+S01K X. Otros auxiliares en cirugía.
+
+S01L. Agentes contra desórdenes vasculares oculares.
+
+S01L A. Agentes antineovascularización.
+
+S01X. Otros oftalmológicos.
+
+S01X A. Otros oftalmológicos.
+
+S02. Otológicos.
+
+S02A. Antiinfecciosos.
+
+S02A A. Antiinfecciosos.
+
+S02B. Corticosteroides.
+
+S02B A. Corticosteroides.
+
+S02C. Corticosteroides y antiinfecciosos en combinación.
+
+S02C A. Corticosteroides y antiinfecciosos en combinación.
+
+S02D. Otros otológicos.
+
+S02D A. Analgésicos y anestésicos.
+
+S02D C. Preparados inertes.
+
+S03. Preparados oftalmológicos y otológicos.
+
+S03A. Antiinfecciosos.
+
+S03A A. Antiinfecciosos.
+
+S03B. Corticosteroides.
+
+S03B A. Corticosteroides.
+
+S03C. Corticosteroides y antiinfecciosos en combinación.
+
+S03C A. Corticosteroides y antiinfecciosos en combinación.
+
+S03D. Otros preparados oftalmológicos y otológicos.
+
+V. Varios.
+
+V01. Alergenos.
+
+V01A. Alergenos.
+
+V01A A. Extractos alergénicos.
+
+V03. Todo el resto de los productos terapéuticos.
+
+V03A. Todo el resto de los productos terapéuticos.
+
+V03A B. Antídotos.
+
+V03A C. Agentes quelantes del hierro.
+
+V03A E. Fármacos para el tratamiento de la hiperpotasemia e hiperfosfatemia.
+
+V03A F. Agentes detoxificantes para tratamientos antineoplásicos.
+
+V03A G. Fármacos para el tratamiento de la hipercalcemia.
+
+V03A H. Fármacos para el tratamiento de la hipoglucemia.
+
+V03A M. Fármacos para embolización.
+
+V03A N. Gases medicinales.
+
+V03A X. Otros productos terapéuticos.
+
+V03A Z. Depresores del nervio.
+
+V04. Agentes diagnósticos.
+
+V04B. Pruebas urinarias.
+
+V04C. Otros agentes diagnósticos.
+
+V04C A. Pruebas para diabetes.
+
+V04C B. Pruebas para absorción de grasas.
+
+V04C C. Pruebas de permeabilidad del conducto, biliar.
+
+V04C D. Pruebas de función hipofisaria.
+
+V04C E. Pruebas para evaluar capacidad funcional hepática.
+
+V04C F. Agentes para el diagnóstico de tuberculosis.
+
+V04C G. Pruebas de secreción gástrica.
+
+V04C H. Pruebas de función renal.
+
+V04C J. Pruebas de función tiroidea.
+
+V04C K. Pruebas de función pancreática.
+
+V04C L. Pruebas para enfermedades alérgicas.
+
+V04C M. Pruebas para alteraciones de la fertilidad.
+
+V04C X. Otros agentes diagnósticos.
+
+V06. Nutrientes generales.
+
+V06A. Formulaciones dietéticas para el tratamiento de la obesidad.
+
+V06A A. Dietas de baja energía.
+
+V06B. Suplementos proteicos.
+
+V06C. Fórmulas para infantes.
+
+V06C A. Nutrientes sin fenilalanina.
+
+V06D. Otros nutrientes.
+
+V06D A. Combinaciones de carbohidratos, proteínas, minerales y vitaminas.
+
+V06D B. Combinaciones de lípidos, carbohidratos, proteínas, minerales y vitaminas.
+
+V06D C. Carbohidratos.
+
+V06D D. Aminoácidos, incluyendo combinaciones con polipéptidos.
+
+V06D E. Combinaciones de aminoácidos, carbohidratos, minerales y vitaminas.
+
+V06D F. Sustitutos de la leche.
+
+V06D X. Otras combinaciones de nutrientes.
+
+V07. Todo el resto de los productos no terapéuticos.
+
+V07A. Todo el resto de los productos no terapéuticos.
+
+V07A A. Emplastos.
+
+V07A B. Agentes solventes y diluyentes, incluyendo soluciones para irrigación.
+
+V07A C. Productos auxiliares para transfusiones sanguíneas.
+
+V07A D. Productos auxiliares para pruebas sanguíneas.
+
+V07A N. Equipamiento para la incontinencia.
+
+V07A R. Discos y tabletas para pruebas de sensibilidad.
+
+V07A S. Equipamiento para estomas.
+
+V07A T. Cosméticos.
+
+V07A V. Desinfectantes de uso técnico.
+
+V07A X. Agentes para el lavado, etc.
+
+V07A Y. Otros productos auxiliares no terapéuticos.
+
+V07A Z. Productos químicos y reactivos para análisis.
+
+V08. Medios de contraste.
+
+V08A. Medios de contraste para rayos-X, iodados.
+
+V08A A. Medios de contraste para rayos-X de alta osmolaridad, hidrosolubles y nefrotrópicos.
+
+V08A B. Medios de contraste para rayos-X de baja osmolaridad, hidrosolubles y nefrotrópicos.
+
+V08A C. Medios de contraste para rayos-X hidrosolubles y hepatotrópicos.
+
+V08A D. Medios de contraste para rayos-X no hidrosolubles.
+
+V08B. Medios de contraste para rayos-X, no iodados.
+
+V08B A. Medios de contraste para rayos-X que contienen sulfato de bario.
+
+V08C. Medios de contraste para imágenes de resonancia magnética.
+
+V08C A. Medios de contraste paramagnéticos.
+
+V08C B. Medios de contraste superparamagnéticos.
+
+V08C X. Otros medios de contraste para imágenes de resonancia magnética.
+
+V08D. Medios de contraste para ultrasonido.
+
+V08D A. Medios de contraste para ultrasonido.
+
+V09. Productos radiofarmaceuticos para diagnóstico.
+
+V09A. Sistema nervioso central.
+
+V09A A. Compuestos con tecnecio (99 m TC).
+
+V09A B. Compuestos con lodo (123 1).
+
+V09A X. Otros productos radiofarmacéuticos para el diagnóstico del sistema nervioso central.
+
+V09B. Esqueleto.
+
+V09B A. Compuestos con tecnecio (99 m Tc).
+
+V09C. Sistema renal.
+
+V09C A. Compuestos con tecnecio (99 m Tc).
+
+V09C X. Otros productos radiofarmacéuticos para el diagnóstico del sistema renal.
+
+V09D. Hígado y sistema retículo-endotelial.
+
+V09D A. Compuestos con tecnecio (99m Tc).
+
+V09D B. Partículas y coloides con tecnecio (99m Tc).
+
+V09D X. Otros productos radiofarmacéuticos diagnósticos para el diagnóstico del hígado y el sistema retículo-endotelial.
+
+V09E. Aparato respiratorio.
+
+V09E A. Inhalantes con tecnecio (99 m Tc).
+
+V09E B. Partículas de tecnecio (99 m Tc) para inyección.
+
+V09E X. Otros productos radiofarmacéuticos para el diagnóstico del aparato respiratorio.
+
+V09F. Tiroides.
+
+V09F X. Productos radiofarmacéuticos para el diagnostico de la tiroides, varios.
+
+V09G. Sistema cardiovascular.
+
+V09G A. Compuestos con tecnecio (99mTc).
+
+V09G B. Compuesto con iodo (125 I).
+
+V09G X. Otros productos radiofarmacéuticos para el diagnóstico del sistema cardiovascular.
+
+V09H. Detección de inflamación e infecciones.
+
+V09H A. Compuestos con tecnecio (99mTc).
+
+V09H B. Compuestos con indio (111 In).
+
+V09H X. Otros productos radiofarmacéuticos para la detección de la inflamación y las infecciones.
+
+V09I. Detección de tumores.
+
+V09I A. Compuestos con Tecnecio (99m Tc).
+
+V09I B. Compuestos con Indio (111 In).
+
+V09I X. Otros productos radiofarmacéuticos para la detección de tumores.
+
+V09X. Otros productos radiofarmacéuticos para diagnóstico.
+
+V09X A. Compuestos con lodo (131 I).
+
+V09X X. Productos radiofarmacéuticos para diagnóstico, varios.
+
+V10. Productos radiofarmacéuticos terapéuticos.
+
+V10A. Agentes antiinflamatorios.
+
+V10A A. Compuestos con Itrio (99 Y).
+
+V10A X. Otros productos radiofarmacéuticos antiinflamatorios.
+
+V10B. Paliación del dolor (agentes con tropismo óseo).
+
+V10B X. Productos radiofarmacéuticos para la paliación del dolor, varios.
+
+V10X. Otros productos radiofarmacéuticos terapéuticos.
+
+V10X A. Compuestos con lodo (131 1).
+
+V10X X. Productos radiofarmacéuticos terapéuticos, varios.
+
+V20. Vendajes quirúrgicos.
+
+> Se modifica por el art. único.1 a 2 de la Orden SCO/78/2008, de 17 de enero. [Ref. BOE-A-2008-1468](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-1468)
+
+> Se modifica por el art. único.1 a 2 de la Orden SCO/2147/2006, de 26 de junio. [Ref. BOE-A-2006-12065](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-12065)
+
+> Se modifica por el art. único.1 a 3 de la Orden SCO/114/2006, de 20 de enero. [Ref. BOE-A-2006-1439](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-1439)
+
+## ANEXO II — Grupo ATC excluidos de la financiación
+
+|  | Comentarios |
+|---|---|
+| A. Aparato digestivo y metabólico. |  |
+| A01A. Preparados estomatológicos. | Excepto antifúngicos bucales y gastrointestinales. |
+| A01A A. Agentes para la profilaxis de las caries. |  |
+| A01A B. Antiinfecciosos y antisépticos para tratamiento oral-local. |  |
+| A01A C. Corticosteroides para tratamiento oral-local. |  |
+| A01A D. Otros agentes para tratamiento oral-local. |  |
+| A02A F. Antiácidos con carminativos. |  |
+| A02A G. Antiácidos con antiespasmódicos. |  |
+| A02A H. Antiácidos con bicarbonato de sodio. | Excepto las asociaciones con sales de calcio, magnesio y/o aluminio. |
+| A02A X. Otras combinaciones con antiácidos. |  |
+| A02X. Otros agentes contra alteraciones causadas por ácidos. |  |
+| A03C. Antiespasmódicos en combinación con psicolépticos. |  |
+| A03C A. Agentes anticolinérgicos sintéticos en combinación con psicolépticos. |  |
+| A03C B. Belladona y derivados en combinación con psicolépticos. |  |
+| A03C C. Otros antiespasmódicos en combinación con psicolépticos. |  |
+| A03D. Antiespasmódicos en combinación con analgésicos. |  |
+| A03D A. Agentes antiespasmódicos sintéticos en combinación con analgésicos. |  |
+| A03D B. Belladona y derivados en combinación con analgésicos. |  |
+| A03D C. Otros antiespasmódicos en combinación con analgésicos. |  |
+| A03E. Antiespasmódicos y anticolinérgicos en combinación con otros fármacos. |  |
+| A03E A. Antiespasmódicos, psicolépticos y analgésicos en combinación. |  |
+| A03E D. Antiespasmódicos en combinación con otros fármacos. |  |
+| A05A X. Otros fármacos para terapia biliar. |  |
+| A05B. Terapia hepática, lipotrópicos. |  |
+| A05B A. Terapia hepática. |  |
+| A05C. Fármacos para terapia biliar y lipotrópicos en combinación. |  |
+| A06A A. Suavizantes, emolientes, |  |
+| A06A B. Laxantes de contacto. | Excepto en pruebas diagnósticas, para lo que estarán disponibles en centros de salud y hospitales. |
+| A06A D. Laxantes osmóticos. | Excepto lactitol, lactulosa y similares monofármacos para la prevención y tratamiento de la encefalopatía portosistémica para mayores de 65 años y, en su caso, cuando estén contraindicados otros laxantes. |
+| A06A G. Enemas. | Excepto en pruebas diagnósticas, para lo que estarán disponibles en centros de salud y hospitales. |
+| A06A X. Otros laxantes. |  |
+| A07A. Antiinfecciosos intestinales. |  |
+| A07A A. Antibióticos. | Excepto monofármacos. |
+| A07A B. Sulfonamidas. |  |
+| A07A C. Derivados imidazólicos. |  |
+| A07A X. Otros antiinfecciosos intestinales. |  |
+| A07B. Adsorbentes intestinales. |  |
+| A07BA. Preparados con carbón. |  |
+| A07B B. Preparados con bismuto. |  |
+| A07B C. Otros adsorbentes intestinales. |  |
+| A07D. Antipropulsivos. | Excepto loperamida. |
+| A07D A. Antipropulsivos. |  |
+| A07F. Microorganismos antidiarreicos. |  |
+| A07F A. Microorganismos antidiarreicos. |  |
+| A07X. Otros antidiarreicos. |  |
+| A07X A. Otros antidiarreicos. | Excepto racecadotrilo. |
+| A08A. Preparados contra la obesidad, excluyendo productos dietéticos. |  |
+| A08A A. Productos contra la obesidad de acción central. |  |
+| A08A B. Productos contra la obesidad de acción periférica. |  |
+| A09A. Digestivos, incluyendo enzimas. | Excepto los concentrados de enzimas pancreáticas a altas dosis indicados en fibrosis quística y deficiencias pancreáticas exocrinas: pancreatitis crónica, postpancreotomía. |
+| A09A A. Preparados enzimáticos. |  |
+| A09A B. Preparados de ácidos. |  |
+| A09A C. Preparados con enzimas y ácidos en combinación. |  |
+| A11A. Multivitamínicos, combinaciones. |  |
+| A11A A. Multivitamínicos con minerales. |  |
+| A11A B. Otras combinaciones de multivitaminas. |  |
+| A11B. Multivitamínicos, solos. |  |
+| A11B A. Multivitamínicos solos. |  |
+| A11C B. Vitaminas A y D en combinación. |  |
+| A11D B. Vitamina B1 en conb, con vitamina B6 y vitamina B12. |  |
+| A11E. Vitaminas del complejo B, incluyendo combinaciones. |  |
+| A11E A. Vitaminas del complejo B solas. |  |
+| A11E B. Vitaminas del complejo B con vitamina C. |  |
+| A11E C. Vitaminas del complejo B con minerales. |  |
+| A11E D Vitaminas del complejo B con esteroides anabólicos. |  |
+| A11E X. Vitaminas del complejo B, otras combinaciones. |  |
+| A11G. Acido ascórbico (vitamina c), incluyendo combinaciones. |  |
+| A11G A. Acido ascórbico (Vitamina C), monofármaco. | Excepto los preparados inyectables de vitamina C. |
+| A11G B. Acido ascórbico (Vitamina C), combinaciones. |  |
+| A11J. Otros productos con vitaminas, combinaciones. |  |
+| A11J A. Combinaciones de vitaminas. |  |
+| A11J B. Vitaminas con minerales. |  |
+| A11J C. Vitaminas, otras combinaciones. |  |
+| A12A X. Calcio, combinaciones con otros fármacos. | Excepto las asociaciones de calcio con vitamina D. |
+| A12C. Otros suplementos minerales. |  |
+| A12C A. Sodio. |  |
+| A12C B. 7inc. |  |
+| A12C C. Magnesio. |  |
+| A12C D. Fluoruro. |  |
+| A12C E. Selenio. |  |
+| A12C X. Productos con otros minerales. |  |
+| A13A. Tónicos. |  |
+| A14. Agentes anabólicos para uso sistémico. |  |
+| A14A. Esteroides anabólicos. | Excepto monofármacos. |
+| A14A A. Derivados del androstano. |  |
+| A14A B. Derivados del estreno. |  |
+| A14B. Otros agentes anabólicos. |  |
+| A15. Estimulantes del apetito. |  |
+| A16A. Otros productos para el aparato digestivo y metabolismo. |  |
+| A16A A. Aminóacidos y derivados. | Excepto carnitina en sus déficit primarios y secundarios diagnosticados en atención especializada. |
+| A16A X. Productos varios para el tracto alimentario y el metabolismo. |  |
+| B. Sangre y órganos hematopéyicos. |  |
+| B03A E. Hierro en otras combinaciones. |  |
+| B03B B. Ácido fólico y derivados. | Excepto las indicadas en la prevención de deficiencias de embarazadas. |
+| C. Sistema cardiovascular. |  |
+| C05A. Antihemorroidales de uso tópico. | Excepto corticosteroides monofármacos de potencia y concentración adecuadas. |
+| C05A A. Productos que contienen corticosteroides. |  |
+| C05A B. Productos que contienen antibióticos. |  |
+| C05A D. Productos que contienen anestésicos locales. |  |
+| C05A X. Otros antihemorroidales para uso tópico. |  |
+| C05B. Terapia antivaricosa. |  |
+| C05B A. Heparinas o heparinoides para uso tópico. |  |
+| C05B X. Otros agentes esclerosantes. | Únicamente preparados tópicos. |
+| C05C. Agentes estabilizadores de capilares. | Únicamente preparados tópicos. |
+| C05C A. Bioflavonoides. |  |
+| C05C X. Otros agentes estabilizadores de capilares. |  |
+| D. Dermatológicos. |  |
+| D02A. Emolientes y protectores. |  |
+| D02A A. Productos con silicona. |  |
+| D02A B. Productos con zinc. |  |
+| D02A C. Parafina blanda y productos con grasas. |  |
+| D02A D. Emplastos líquidos. |  |
+| D02A E. Productos con urea. |  |
+| D02A F. Preparados con ácido salicílico. |  |
+| D02A X. Otros emolientes y protectores. |  |
+| D03A. Cicatrizantes. | Excepto enzimas debridantes. |
+| D03A A. Ungüentos con aceite de hígado de bacalao. |  |
+| D03A X. Otros cicatrizantes. | Excepto beclaperrmina. |
+| D04A. Antipruriginosos, incluyendo antihistamínicos, anestésicos, etc. |  |
+| D04A A. Antihistamínicos para uso tópico. |  |
+| D04A B. Anestésicos para uso tópico. |  |
+| D04A X. Otros antipruriginosos. |  |
+| D06C. Combinaciones de antibióticos y quimioterápicos. |  |
+| D07B. Corticosteroides en combinación con antisépticos. |  |
+| D07B A. Corticosteroides de baja potencia en combinación con antisépticos. |  |
+| D07B B. Corticosteroides moderadamente potentes en combinación con antisépticos. |  |
+| D07B C. Corticosteroides potentes en combinación con antisépticos. |  |
+| D07B D. Corticosteroides muy potentes en combinación con antisépticos. |  |
+| D07C. Corticosteroides en combinación con antibióticos. |  |
+| D07C A. Corticosteroides de baja potencia en combinación con antibióticos. |  |
+| D07C B. Corticosteroides moderadamente potentes en combinación con antibióticos. |  |
+| D07C C. Corticosteroides potentes en combinación con antibióticos. |  |
+| D07C D. Corticosteroides muy potentes en combinación con antibióticos. |  |
+| D07X. Corticosteroides, otras combinaciones. | Excepto los indicados en dermopatías crónicas hiperqueratósicas. |
+| D07X A. Corticosteroides de baja potencia, otras combinaciones. |  |
+| D07X B. Corticosteroides moderadamente potentes, otras combinaciones. |  |
+| D07X C. Corticosteroides potentes, otras combinaciones. |  |
+| D07X D. Corticosteroides muy potentes, otras combinaciones. |  |
+| D08. Antisépticos y desinfectantes. |  |
+| D08A. Antisépticos y desinfectantes. |  |
+| D08A A. Derivados de la acradina. |  |
+| D08A B. Agentes con aluminio. |  |
+| D08A C. Biguanidas y amidinas. |  |
+| D08A D. Productos con ácido bórico. |  |
+| D08A E. Fenol y derivados. |  |
+| D08A F. Derivados del nitrofurano. |  |
+| D08A G. Productos con yodo. |  |
+| D08A H. Derivados de la quinolina. |  |
+| D08A J. Compuestos de amonio cuaternario. |  |
+| D08A K. Productos mercuriales. |  |
+| D08A L. Compuestos de plata. |  |
+| D08A X. Otros antisépticos y desinfectantes. |  |
+| D09. Apósitos medicamentosos. |  |
+| D09A. Apósitos medicamentosos. |  |
+| D09A A. Apósitos con pomada con antiinfecciosos. |  |
+| D09A B. Vendajes con zinc. |  |
+| D09A X. Apósitos con parafina blanda. |  |
+| D10A A. Combinaciones con Corticosteroides para el tratamiento del acné. |  |
+| D10A B. Preparados que contienen azufre. |  |
+| D10A D. Retinoides para uso tópico en acné. |  |
+| D10A E. Peróxidos. |  |
+| D10A X. Otros preparados anti-acné para uso tópico. |  |
+| D10B X. Otros preparados anti-acné para uso sistémico. |  |
+| D11A C. Champúes medicinales. |  |
+| D11A F. Preparados anti-verrugas y callicidas. |  |
+| D11A X. Otros productos dermatológicos. | Excepto tacrolimus y pimecrolimus. |
+| G. Sistema genitourinario y hormonas sexuales. |  |
+| G01A C. Derivados de la quinolina. |  |
+| G01A D. Acidos orgánicos. |  |
+| G01A X. Otros antiinfecciosos y antisépticos. | Únicamente los antisépticos ginecológicos. |
+| G01B D. Antisépticos con corticosteroides. |  |
+| H. Preparados hormonales sistémicos, excluyendo hormonas sexuales e insulinas. |  |
+| H02B. Corticosteroides para uso sistémico, combinaciones. |  |
+| H02B X. Corticosteroides para uso sisténico, conhinaciones. |  |
+| J. Antiifecciosos para uso sistémico. |  |
+| J01E B. Sulfonanúdas de acción corta. | Excepto monofármacos. |
+| J01E C. Sulfonan idas de acción intermedia. | Excepto monofármacos. |
+| J01E D. Sulfonanudas de acción larga. | Excepto monofármacos. |
+| J01R. Combinaciones de antibacterianos. |  |
+| J01R A. Combinaciones de antibacterianos. |  |
+| J05A X. Otros antivirales. | Únicamente lisozima. |
+| L. Agentes antineoplásicos e inmunomoduladores. |  |
+| L03A X. Otros citokinas e inmunomoduladores. |  |
+| M. Sistema musculoesquelético. |  |
+| M01A B. Derivados de! ácido acético y sustancias relacionadas. | Excepto monofármacos. |
+| M01A E. Derivados del ácido propiónico. | Excepto monofármacos. |
+| M01A X. Otros agentes antiinflamatorios y antirreumáticos no esteroideos. | Excepto monofármacos. |
+| M01B. Agentes antiinflamatorios/antirreumáticos en combinación. |  |
+| M01B A. Agentes antiinflamatorios antirreumáticos en combinación con corticosteroides. |  |
+| M01B X. Otros agentes antiinflamatorios en combinación con otros fármacos. |  |
+| M03B. Agentes relajantes musculares de acción central. | Excepto monofármacos. |
+| M03B A. Ésteres del ácido carbámico. |  |
+| M03B B. Derivados oxazólicos, tiazínicos y triazínicos. |  |
+| M03B C. Esteres químicamente relacionados con antihistamínicos. |  |
+| M03B X. Otros agentes de acción central. |  |
+| M09A. Otros fármacos para desórdenes del sistema musculoesquelético. |  |
+| M09A A. Quinina y derivados. |  |
+| M09A B. Enzimas. |  |
+| M09A X. Otros fármacos para desórdenes del sistema musculoesquelético. |  |
+| N. Sistema nervioso. |  |
+| N05C B. Barbitúricos, combinaciones. |  |
+| N05C X. Hipnóticos y sedantes en combinación, excluyendo barbitúricos. |  |
+| N06C. Psicolépticos y psicoanalépticos en combinación. |  |
+| N06C A. Antidepresivos en combinación con psicolépticos. |  |
+| N06C B. Psicoestimulantes en combinación con psicolépticos. |  |
+| N07B A. Fármacos usados en la dependencia a la nicotina. |  |
+| R. Sistema respiratorio. |  |
+| R01A. Descongestivos y otros preparados nasales para uso tópico. |  |
+| R01A A. Simpaticomiméticos, monofármacos. |  |
+| R01A B. Simpaticomiméticos, combinaciones excluyendo corticoesteroides. |  |
+| R01A C. Agentes antialérgicos, excluyendo corticosteroides. | Excepto el ácido cromoglícico y levocabastina para inhalación nasal. |
+| R01A D. Corticosieroides. | Excepto monofármacos. |
+| R01A X. Otros preparados nasales. | Excepto el bromuro de ipatropio para inhalación nasal. |
+| R01B. Descongestivos nasales para uso sistémico. |  |
+| R01B A. Simpaticomiméticos. |  |
+| R02A. Preparados para la garganta. |  |
+| R02A A. Antisépticos. |  |
+| R02A B. Antibióticos. |  |
+| R02A D. Anestésicos locales. |  |
+| R03A H. Combinaciones de agentes adrenérgicos. |  |
+| R03C C. Agonistas selectivos de receptores beta-2 adrenérgicos. | Excepto monofármacos. |
+| R03C K. Adrenérgicos y otros agentes contra padecimientos obstructivos de fas utas respiratorias. | Excepto monofármacos. |
+| R03D A. Xantina. | Excepto monofármacos y combinaciones de xantinas. |
+| R03D B. Xantinas y adrenérgicos. |  |
+| R05C. Expectorantes, excluyendo combinaciones con supresores de la tos. |  |
+| R05C A. Expectorantes. | Excepto monofármacos para utilización en EPOC y enfermedades asociadas. |
+| R05C B. Mucolíticos. | Excepto monofármacos para utilización en EPOC y enfermedades asociadas. |
+| R05C Z. Expectorantes y/o mucolíticos con antiinfecciosos. |  |
+| R05D. Supresores de la tos, excluyendo combinaciones con expectorantes. | Excepto monofármacos. |
+| R05D A. Alcaloides del opio y derivados. |  |
+| R05D B. Otros supresores de la tos. |  |
+| R05F. Combinaciones de supresores de la tos y expectorantes. |  |
+| R05F A. Derivados del opio y expectorantes. |  |
+| R05F B. Otros supresores de la tos y expectorantes. |  |
+| R05X. Otros preparados combinados para el resfriado. |  |
+| R07A X. Otros productos para el sistema respiratorio. |  |
+| S. Organos de los sentidos. |  |
+| S01. Oftalmológicos. |  |
+| S01C. Agentes antiinflamatorios y antiinfecciosos en combinación. |  |
+| S01C A. Corticosteroides y antiinfecciosos en combinación. | Excepto asociaciones de corticosteroides con gentamicina, tobramicina y tetraciclina. |
+| S01C B. Corticosteroides, antiinfecciosos y midriáticos en combinación. | excepto asociaciones de corticosteroides con gentamicina, tobramicina y tetraciclina. |
+| S01C C. Agentes antinflamatorios no esteroideos y antiinfecciosos en combinación. |  |
+| S01G. Descongestivos y antialérgicos. |  |
+| S01G A. Simpaticomiméticos usados como descongestivos. |  |
+| S01G X. Otros antialérgicos. | Excepto monofármacos. |
+| S01K X. Otros auxiliares en cirugía. |  |
+| S01X. Otros oftalmológicos. |  |
+| S01X A. Otros oftalmológicos. | Excepto lágrimas artificiales. |
+| S02. Otológicos. |  |
+| S02D. Otros otológicos. |  |
+| S02D A. Anagésicos y anestésicos. |  |
+| S02D C. Preparados inertes. |  |
+| V. Varios. |  |
+| V06A. Formulaciones dietéticas para el tratamiento de la obesidad. |  |
+| V06A Dietas de baja energía. |  |
+| V06B. Suplementos proteicos. |  |
+| V06C. Fórmulas para infantes. |  |
+| V06C A. Nutrientes sin fenilalanina. |  |
+| V06D. Otros nutrientes. |  |
+| V06D A. Combinaciones de carbohidratos, proteínas, minerales y vitaminas. |  |
+| V06D B. Combinaciones de lípidos, carbohidratos, proteínas, minerales y vitaminas. |  |
+| V06D C. Carbohidratos. |  |
+| V06D D. Aminoácidos, incluyendo combinaciones con pofipéptidos. |  |
+| V06D E. Combinaciones de aminoácidos, carbohidratos, minerales y vitaminas. |  |
+| V06D F. Sustitutos de la leche. |  |
+| V06D X. Otras combinaciones de nutrientes. |  |
+
+## ANEXO III — Grupos ATC de aportación reducida
+
+|  | Comentarios |
+|---|---|
+| A. Aparato digestivo y metabolismo. |  |
+| A04A A. Antagonistas de receptores de serotonina (5H7-3). |  |
+| A07E. Agentes antiinflamatorios intestinales. | Únicamente los indicados en colitis ulcerosa y enfermedad de Crohn. |
+| A07E A. Corticosteroides para uso local. |  |
+| A07E B. Agentes antialérgicos, excluyendo corticosteroides. |  |
+| A07E C. Acido aminosalicílico y agentes similares. |  |
+| A09. Digestivos, incluyendo enzimas. | Únicamente los concentrados de enzimas pancreáticos a altas dosis indicados en fibrosis quística y deficiencias pancreáticas exocrinas: pancreatitis crónica, postpancreatectomía. |
+| A09A. Digestivos, incluyendo enzimas. |  |
+| A09A A. Preparados enzimáticos. |  |
+| A09A B. Preparados de ácidos. |  |
+| A09A C. Preparados con enzimas y ácidos en combinación. |  |
+| A10A. Insulinas y análogos. |  |
+| A10A B. lnsulinas y análogos de acción r pida. |  |
+| A10A C. lnsulinas y análogos de acción intermedia. |  |
+| A10A D. Combinaciones de insulinas y análogos de acción intermedia y acción rápida. |  |
+| A10A E. lnsulinas y análogos de acción prolongada. |  |
+| A10B. Fármacos hipoglucemiantes orales. |  |
+| A10B A. Biguanidas. |  |
+| A10B B. Derivados de las sulfonilureas. |  |
+| A10B C. Sulfonamidas (heterocíclicas). |  |
+| A10B D. Biguanidas y sulfonamidas en combinación. |  |
+| A10B F. Inhibidores de la alfa glucosiddasa. |  |
+| A10B G. Tiazolinadionas. |  |
+| A10B X. Otros fármacos hipoglucemiantes orales. |  |
+| A16A A. Aminoácidos y derivados. | Únicamente carnitina en sus déficit primarios y secundarios diagnosticados en atención especializada. |
+| B. Sangre y órganos hematopoyéticos. |  |
+| B01A A. Antagonistas de la vitamina K. |  |
+| B01A B. Grupo de la heparina. |  |
+| B01A D. Enzimas. |  |
+| B01A X. Otros agentes antitrombóticos. |  |
+| B02A. Antifibrinolíticos. |  |
+| B02A A. Aminoácidos. |  |
+| B02A B. lnhibidores de proteinasa. |  |
+| B02B. Vitamina K y otros hemostáticos. |  |
+| B02B A. Vitamina K. |  |
+| B02B B. Fibrinógeno. |  |
+| B02B C. Hemostáticos locales. |  |
+| B02B X. Otros hemostáticos sistémicos. |  |
+| C. Sistema cardiovascular. |  |
+| C01. Terapia cardiaca. |  |
+| C01A. Glucósidos cardíacos. |  |
+| C01A A. Glucósidos digitálicos. |  |
+| C01A B. Glucósidos de la escila. |  |
+| C01A C. Glucósidos del estrofanto. |  |
+| C01A X. Otros glucósidos cardiacos. |  |
+| C01B. Antiarrítmicos de clase I y III. |  |
+| C01B A. Antiarrítmicos de clase 1A. |  |
+| C01B B. Antiarrítmicos de clase 1B. |  |
+| C01B C. Antiarrítmicos de clase 1C. |  |
+| C01B D. Antiarrítmicos de clase III. |  |
+| C01B G. Otros Antiarrítmicos de clase 1. |  |
+| C01D A. Nitratos orgánicos. |  |
+| C01D X. Otros vasodilatadores usados en enfermedades cardiacas. |  |
+| C01E B. Otros preparados para el corazón únicamente trimetazidina. |  |
+| C02A. Agentes antiadrenérgicos de acción central. |  |
+| C02A A. Alcaloides de la rauwolfia. |  |
+| C02A B. Metildopa. |  |
+| C02A C. Agonistas de! receptor de imidazolidina. |  |
+| C02B. Agentes antiadrenérgicos por bloqueo ganglionar. |  |
+| C02B A. Derivados del sulfonio. |  |
+| C02B B. Aninas secundarias y terciarias. |  |
+| C02B C. Compuestos de amonio bicuaternario. |  |
+| C02C A. Antagonistas de receptores alfa-adrenérgicos. |  |
+| C02D. Agentes que actúan sobre el músculo liso-arteriolar. |  |
+| C02D A. Derivados tiazídicos. |  |
+| C02D B. Derivados de la hidrazinoftalazina. |  |
+| C02D C. Derivados de la pirimidina. |  |
+| C02D D. Derivados del nitroferricianuro. |  |
+| C02D G. Derivados de la guanidina. |  |
+| CO3. Diuréticos. |  |
+| C03A. Diuréticos de techo bajo: Tiazidas. |  |
+| C03A A. Tiazidas, monofármacos. |  |
+| C03A B. Tiazidas y potasio en combinación. |  |
+| C03A H. Tiazidas, combinaciones con piscolépticos y/o analgésicos. |  |
+| C03A X. Tiazidas, combinaciones con otros fármacos. |  |
+| C03B. Diuréticos de techo bajo, excluyendo tiazidas. |  |
+| C03B A. Sulfonamidas monofármacos. |  |
+| C03B B. Sulfonamidas y potasio, en combinación. |  |
+| C03B C. Diuréticos mercuriales. |  |
+| C03B D. Derivados de la xantina. |  |
+| C03B K. Sulfonamidas combinados con otros fármacos. |  |
+| C03B X. Otros diuréticos de techo bajo. |  |
+| C03C. Diuréticos de techo alto. |  |
+| C03C A. Sulfonamidas monofármacos. |  |
+| C03C B. Sulfonamidas y potasio, en combinación. |  |
+| C03C C. Derivados del ácido ariloxiacético. |  |
+| C03C D. Derivados de la pirazolona. |  |
+| C03C X. Otros diuréticos de techo alto. |  |
+| C03D. Agentes ahorradores de potasio. |  |
+| C03D A. Antagonistas de la aldosterona. |  |
+| C03D B. Otros agentes ahorradores de potasio. |  |
+| C03E. Diuréticos y agentes ahorradores de potasio en combinación. |  |
+| C03E A. Diuréticos de techo bajo y agentes ahorradores de potasio. |  |
+| C03E B. Diuréticos de techo alto y agentes ahorradores de potasio. |  |
+| C07A. Bloqueantes beta-adrenérgicos. |  |
+| C07A A. Agentes beta-bloqueantes no selectivos. |  |
+| C07A B. Agentes beta-bloqueantes selectivos. |  |
+| C07A G. Agentes bloqueantes alfa y beta. |  |
+| C07B. Bloqueantes beta-adrenérgicos y tiazidas. |  |
+| C07B A. Agentes beta-bloqueantes no selectivos y tiazidas. |  |
+| C07B B. Agentes beta-bloqueantes, selectivos y tiazidas. |  |
+| C07B G. Agentes bloqueantes alfa y beta y tiazidas. |  |
+| C07C. Bloqueantes beta-adrenérgicos y otros diuréticos. |  |
+| C07C A. Agentes beta-bloqueantes no selectivos y otros diuréticos. |  |
+| C07C B. Agentes beta-bloqueantes selectivos y otros diuréticos. |  |
+| C07C G. Agentes bloqueantes alfa y beta y otros diuréticos. |  |
+| C07D. Bloqueantes beta-adrenérgicos, tiazidas y otros diuréticos. |  |
+| C07D A. Agentes beta-bloqueantes no selectivos, tiazidas y otros diuréticos. |  |
+| C07D B. Agentes beta-bloqueantes selectivos, tiazidas y otros diuréticos. |  |
+| C08. Bloqueantes de canales de calcio. |  |
+| C08C. Bloqueantes selectivos de canales de calcio con efectos principalmente vasculares. |  |
+| C08C A. Derivados de la dihidropiridina. | Excepto nimodipino. |
+| C08C X. Otros bloqueantes selectivos de los canales de calcio con efectos principalmente vasculares. |  |
+| C08D. Bloqueantes selectivos de canales de calcio con efectos cardíacos directos. |  |
+| C08D A. Derivados de la fenilaquilamina. |  |
+| C08D B. Derivados de la benzotiazepina. |  |
+| C08E. Bloqueantes no selectivos de canales de calcio. |  |
+| C08E A. Derivados de la fenilaquilamina. |  |
+| C08E X. Otros bloqueantes no selectivos de canales de calcio. |  |
+| C08G. Bloqueantes de canales de calcio y diuréticos. |  |
+| C08G A. Bloqueantes de los canales de calcio y diuréticos. |  |
+| C09. Agentes que actúan sobre el sistema renina-angiotensina. |  |
+| C09A. Inhibidores de la ECA, monofármacos. |  |
+| C09A A. lnhibidores de la ECA, monofármacos. |  |
+| C09C. Antagonistas de angiotensina II, monofármacos. |  |
+| C09C A. Antagonistas angiotensina II, monofármacos. |  |
+| C10A A. lnhibidores de la HMG CoA reductasa. | Únicamente en hipercolesterolemia familiar heterocigota. |
+| D. Dermatológicos. |  |
+| D05. Antipsoriásicos. |  |
+| D05A. Antipsoriásicos para uso tópico. |  |
+| D05A A. Alquitranes. |  |
+| D05A C. Derivados del antraceno. |  |
+| D05A D. Psoralenos para uso tópico. |  |
+| D05A X. Otros antipsoriásicos para uso tópico. |  |
+| D05B. Antipsoriásicos para uso sistémico. |  |
+| D05B A. Psoralenos para uso sistémico. |  |
+| D05B B. Retinoides para el tratamiento de la psoriasis. |  |
+| D05B X. Otros antipsoriásicos para uso sistémico. |  |
+| G. Sistema genitourinario y hormonoas sexuales. |  |
+| G02C A. Simpaticomiméticos que inhiben el trabajo de parto. |  |
+| G02C B. Inhibidores de la prolactina. | Únicamente bromocriptina y lisurida. |
+| G03B. Andrógenos. |  |
+| G03B A. Derivados del (4) 3-oxoandrosteno. |  |
+| G03B B. Derivados de la 3-5 androstanona. |  |
+| G03C. Estrógenos. | Excepto preparados tópicos. |
+| G03C A. Estrógenos naturales y simesintéticos, monofármacos. |  |
+| G03C B. Estrógenos sintéticos, monofármacos. |  |
+| G03C C. Estrógenos, combinaciones con otros fármacos. |  |
+| G03D. Progestágenos. |  |
+| G03D A. Derivados del (4) pregneno. |  |
+| G03D B. Derivados del pregnadieno. |  |
+| G03D C. Derivados del estreno. | Excepto preparados tópicos. |
+| G03E. Andrógenos y hormonas sexuales femeninas en combinación. |  |
+| G03E A. Andrógenos y estrógenos. |  |
+| G03E B. Andrógenos, progestágenos y estrógenos en combinación. |  |
+| G03E K. Andrógenos y hormonas sexuales femeninas en combinación con otros fármacos. |  |
+| G03F. Progestágenos y estrógenos en combinación. |  |
+| G03F A. Progestágenos y estrógenos, combinaciones fijas. |  |
+| G03F B. Progestágenos y estrógenos, preparados secuenciales. |  |
+| G03G. Gonadotrofinas y otros estimulantes de la ovulación. |  |
+| G03G A. Gonadotrofinas. |  |
+| G03G B. Estipulantes sintéticos de la ovulación. |  |
+| G03H A. Antiandrógenos, monofármacos. |  |
+| G03H B. Antiandrógenos y estrógenos. |  |
+| G03X. Otras hormonas sexuales y moduladores del sistema genital. | Únicamente danazol y otros del subgrupo indicados en endometriosis. |
+| G03X A. Antigonadotrofinas y agentes similares. |  |
+| G03X B. Antiprogestágenos. |  |
+| H. Preparados hormonales sistémicos, excluyendo hormonas sexuales e insulinas. |  |
+| H01A. Hormonas del lóbulo anterior de la hipófisis y sus análogos. |  |
+| H01A A. ACTH. |  |
+| H01A B. Tirotropina. |  |
+| H01A C. Somatotropina y análogos. |  |
+| H01B. Hormonas del lóbulo posterior de la hipófisis. |  |
+| H01B A. Vasopresina y análogos. |  |
+| H01B B. Oxitocina y análogos. |  |
+| H01C. Hormonas hipotalámicas. |  |
+| H01C A. Hormonas liberadoras de gonadotrofina. |  |
+| H01C B. Inhibidores de la hormona de crecimiento. |  |
+| H01C C. Inhibidores de las hormonas liberadoras de antigonadotrofinas. |  |
+| H02A. Corticosteroides para uso sistémico, monofármacos. | Únicamente inyectables. |
+| H02A A. Mineralocorticoides. |  |
+| H02A B. Glucocorticoides. |  |
+| H03A. Preparados de hormona tiroidea. |  |
+| H03A A. Hormonas tiroideas. | Únicamente levotiroxina y liotironina. |
+| H03B. Preparados antitiroideos. |  |
+| H03B A. Tiouracilos. |  |
+| H03B B. Derivados imidazólicos que contienen azufre. |  |
+| H03B C. Percloratos. |  |
+| H03B X. Otros preparados antitiroideos. |  |
+| H04. Hormonas pancreáticas. |  |
+| H04A. Hormonas glucogenolíticas. |  |
+| H04A A. Hormonas glucogenolíticas. |  |
+| H05B. Hormonas contra la hormona paratiroidea. |  |
+| H05B A. Preparados con calcitonina. | Únicamente para enfermedad de Paget. |
+| J. Antiinfecciosos para usos sistémico. |  |
+| J01G A. Espectromicinas. | Únicamente para campañas sanitarias de lucha antituberculosa. |
+| J04A. Fármacos para el tratamiento de la tuberculosis. |  |
+| J04A A. Acido aminosalicílico y derivados. |  |
+| J04A B. Antibióticos. |  |
+| J04A C. Hidrazidas. |  |
+| J04A D. Derivados de la tiocarbamida. |  |
+| J04A K. Otros fármacos para el tratamiento de la tuberculosis. |  |
+| J04A M. Combinaciones de fármacos para el tratamiento de la tuberculosis. |  |
+| J04B. Fármacos para el tratamiento de la lepra. |  |
+| J04B A. Fármacos para el tratamiento de la lepra. |  |
+| J06B B. Inmunoglobulinas humanas específicas. | Únicamente inmunoglobulina anti-Rh (anti-D). |
+| L. Agentes antineoplásicos e inmunomoduladores. |  |
+| L01. Agentes antineoplásicos. |  |
+| L01A. Agentes alquilantes. |  |
+| L01A A. Análogos de la mostaza nitrogenada. |  |
+| L01A B. Alquilsulfonatos. |  |
+| L01A C. Etileniminas. |  |
+| L01A D. Nitrosoureas. |  |
+| L01A G. Epóxidos. |  |
+| L01A X. Otros agentes alquilantes. |  |
+| L01B. Antimetabolitos. |  |
+| L01B A. Análogos del ácido fólico. |  |
+| L01B B. Análogos de las purinas. |  |
+| L01B C. Análogos de las pirimidinas. |  |
+| L01C. Alcaloides de plantas y otros productos naturales. |  |
+| L01C A. Alcaloides de la Vinca y análogos. |  |
+| L01C B. Derivados de la podofilotoxina. |  |
+| L01C C. Derivados de la colchicina. |  |
+| L01C D. Taxanos. |  |
+| L01C X. Otros alcaloides de plantas y productos naturales. |  |
+| L01D. Antibióticos citotóxicos y sustancias relacionadas. |  |
+| L01D A. Actinomicinas. |  |
+| L01D B. Antraciclinas y sustancias relacionadas. |  |
+| L01D C. Otros antibióticos citotóxicos. |  |
+| L01X. Otros agentes antineoplásicos. |  |
+| L01X A. Compuestos del platino. |  |
+| L01X B. Metilhidrazinas. |  |
+| L01X X. Otros agentes antineoplásicos. |  |
+| L01X Y. Combinaciones de agentes antineoplásicos. |  |
+| L02. Terapia endocrina. |  |
+| L02A. Hormonas y agentes relacionados. |  |
+| L02A A. Estrógenos. |  |
+| L02A B. Progestágenos. |  |
+| L02A E. Análogos de la hormona liberadora de gonadotrofinas. |  |
+| L02A X. Otros hormonas. |  |
+| L02B. Antagonistas de hormonas y agentes relacionados. |  |
+| L02B A. Antiestrógenos. |  |
+| L02B B. Antiandrógenos. |  |
+| L02B G. Inhibidores enzimáticos. |  |
+| L03A B. Interferones. |  |
+| L04. Agentes inmunosupresores. |  |
+| L04A. Agentes inmunosupresores. |  |
+| L04A A. Agentes inmunosupresores selectivos. |  |
+| L04A X. Otros agentes inmunosupresores. |  |
+| M. Sistema musculoesquelético. |  |
+| M04. Preparados antigotosos. |  |
+| M04A. Preparados antigotosos. |  |
+| M04A A. Preparados que inhiben la producción del ácido úrico. |  |
+| M04A B. Preparados que aumentan la excreción de ácido úrico. |  |
+| M04A C. Preparados sin efecto sobre el metabolismo del ácido úrico. |  |
+| M04 X. Otros preparados antigotosos. |  |
+| N. Sistema nervioso. |  |
+| N02A A. Alcaloides naturales del opio. | Únicamente morfina por vía oral. |
+| N02A B. Derivados de la fenilpiperidina. | Únicamente fentanilo. |
+| N03. Antiepilépticos. |  |
+| N03A. Antiepilépticos. |  |
+| N03A A. Barbitúricos, derivados. |  |
+| N03A B. Derivados de la hidantoína. |  |
+| N03A C. Derivados de la oxazolidina. |  |
+| N03A D. Derivados de la succinimida. |  |
+| N03A E. Derivados de la benzodiazepina. |  |
+| N03A F. Derivados de la carboxamida. |  |
+| N03A G. Derivados de los ácidos grasos. |  |
+| N03A X. Otros antiepilépticos. |  |
+| N04. Antiparkinsonianos. |  |
+| N04A. Agentes anticolinérgicos. |  |
+| N04A A. A»Aminas terciarias. |  |
+| N04A B. Esteres químicamente relacionados con antihistamínicos. |  |
+| N04A C. Esteres de tropina o derivados de la propina. |  |
+| N04B. Agentes dopaminérgicos. |  |
+| N04B A. Dopa y derivados de la dopa. |  |
+| N04B B. Derivados del adamantano. |  |
+| N04B C. Agonistas dopaminérgicos. |  |
+| N04B D. Inhibidores de la monoaminoxidasa B. |  |
+| N04B X. Otros agentes dopaminérgicos. |  |
+| N05A. Antipsicóticos. |  |
+| N05A A. Fenotiazinas con cadena lateral alifática. |  |
+| N05A B. Fenotiazinas con estructura piperazínica. |  |
+| N05A C. Fenotiazinas con estructura piperazínica. |  |
+| N05A D. Derivados de la butirofenona. |  |
+| N05A E. Derivados del indol. |  |
+| N05A F. Derivados del tioxanteno. |  |
+| N05A G. Derivados de la difenilbutilpiperidina. |  |
+| N05A H. Diazepinas, oxazepinas y tiazepinas. |  |
+| N05A K. Neurolépticos en discinesias tardías. |  |
+| N05A L. Benzamidas, |  |
+| N05A N. Litio. |  |
+| N05A X. Otros antipsicóticos. |  |
+| N06. Psicoanalépticos. |  |
+| N06A. Antidepresivos. |  |
+| N06A A. Inhibidores no selectivos de la recaptación de monoaminas. |  |
+| N06A B. Inhibidores selectivos de la recaptación de serotonina. |  |
+| N06A F. Inhibidores no selectivos de la monoaminooxidasa. |  |
+| N06A G. Inhibidores de la monoaminooxidasa A. |  |
+| N06A X. Otros antidepresivos. |  |
+| N07A. Parasimpaticomiméticos. | Únicamente los indicados en la miastenia grave. |
+| N07A A. Inhibidores de la acetilcolinesterasa. |  |
+| N07A B. Esteres de la colina. |  |
+| N07A X. Otros parasimpaticomiméticos. |  |
+| N07B B. Fármacos usados en la la dependencia al alcohol. |  |
+| P. Productos antiparasitarios, insecticidas y repelentes. |  |
+| P01B. Antipalúdicos. |  |
+| P01B A. Aminoquinolinas. |  |
+| P01B B. Biguanidas. |  |
+| P01B C. Metanolquinolinas. |  |
+| P01B D. Diaminopirimidinas. |  |
+| P01B X. Otras antipalúdicos. |  |
+| R. Sistema respiratorio. |  |
+| R03A A. Agonistas de receptores adrenérgicos alfa y beta. |  |
+| R03A B. Agonistas de receptores beta-adrenérgicos no selectivos. |  |
+| R03A C. Agonistas selectivos de receptores beta-2 adrenérgicos. |  |
+| R03A K. Adrenérgicos y otras agentes contra padecimientos obstructivos de fas vías respiratorias. |  |
+| R03B. Otros agentes contra padecimientos obstructivos de las vías respiratorias, inhalatorios. |  |
+| R03B A. Glucocorticoides. |  |
+| R03B B. Anticolinérgicos. |  |
+| R03B C. Agentes antialérgicos, excluyendo corticosteroides. |  |
+| R03B X. Otros agentes contra padecimientos obstructivos de las vías respiratorias, inhalatorios. |  |
+| R03D C. Antagonistas del receptor de leucotrienos. |  |
+| V. Varios. |  |
+| V03A B. Antídotos. |  |
+| V03A C. Agentes quelantes del hierro. |  |
+| V03A E. Fármacos para el tratamiento de la hiperpotasemia e hiperfosfatemia. |  |
+| V03A F. Agentes detoxificantes para tratamientos antineoplásicos. |  |
+| V03A G. Fármacos para el tratamiento de la hipercalcemia. |  |
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 21, de 24 de enero de 2004.[Ref. BOE-A-2004-1441](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1441)
+
+## ANEXO IV — Especialidades farmacéuticas que cambian de situación a efectos de financiación
+
+## ANEXO IV.a — Especialidades farmacéuticas que cambian de aportación normal a reducida
+
+<table class="tabla">
+<colgroup>
+<col width="10%">
+<col width="10%">
+<col width="10%">
+<col width="70%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">ATC</th>
+<th class="cabeza_tabla">N.º Reg.</th>
+<th class="cabeza_tabla">Código</th>
+<th class="cabeza_tabla">Denominación</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">A04AA</td>
+<td class="cuerpo_tabla_izq" colspan="3">ANTAGONISTAS DE RECEPTORES DE SEROTONINA (5HT-3).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60400</td>
+<td class="cuerpo_tabla_coma">690974</td>
+<td class="cuerpo_tabla_izq">FIXCA 4MG 15 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">690982</td>
+<td class="cuerpo_tabla_izq">FIXCA 4MG 6 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60401</td>
+<td class="cuerpo_tabla_coma">690958</td>
+<td class="cuerpo_tabla_izq">FIXCA 8MG 15 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">690966</td>
+<td class="cuerpo_tabla_izq">FIXCA 8MG 6 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59065</td>
+<td class="cuerpo_tabla_coma">688937</td>
+<td class="cuerpo_tabla_izq">HELMINE 4MG 15 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">795302</td>
+<td class="cuerpo_tabla_izq">HELMINE 4MG 15 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">702274</td>
+<td class="cuerpo_tabla_izq">HELMINE 4MG 6 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">688945</td>
+<td class="cuerpo_tabla_izq">HELMINE 4MG 6 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59066</td>
+<td class="cuerpo_tabla_coma">688911</td>
+<td class="cuerpo_tabla_izq">HELMINE 8MG 15 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">702399</td>
+<td class="cuerpo_tabla_izq">HELMINE 8MG 6 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">688929</td>
+<td class="cuerpo_tabla_izq">HELMINE 8MG 6 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60204</td>
+<td class="cuerpo_tabla_coma">694554</td>
+<td class="cuerpo_tabla_izq">KYTRIL 1 MG 10 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59932</td>
+<td class="cuerpo_tabla_coma">726182</td>
+<td class="cuerpo_tabla_izq">NAVOBAN 5MG 5 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60404</td>
+<td class="cuerpo_tabla_coma">690917</td>
+<td class="cuerpo_tabla_izq">YATROX 4MG 15 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">690925</td>
+<td class="cuerpo_tabla_izq">YATROX 4MG 6 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60405</td>
+<td class="cuerpo_tabla_coma">690891</td>
+<td class="cuerpo_tabla_izq">YATROX 8MG 15 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">690909</td>
+<td class="cuerpo_tabla_izq">YATROX 8MG 6 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59069</td>
+<td class="cuerpo_tabla_coma">692038</td>
+<td class="cuerpo_tabla_izq">ZOFRAN 4MG 15 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">692020</td>
+<td class="cuerpo_tabla_izq">ZOFRAN 4MG 6 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59070</td>
+<td class="cuerpo_tabla_coma">692053</td>
+<td class="cuerpo_tabla_izq">ZOFRAN 8MG 15 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">692046</td>
+<td class="cuerpo_tabla_izq">ZOFRAN 8MG 6 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62944</td>
+<td class="cuerpo_tabla_coma">855288</td>
+<td class="cuerpo_tabla_izq">ZOFRAN ZYDIS 4MG/LIOFILIZAD 10 LIOFILIZADOS ORALES.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62945</td>
+<td class="cuerpo_tabla_coma">855296</td>
+<td class="cuerpo_tabla_izq">ZOFRAN ZYDIS 8MG/LIOFILIZAD 10 LIOFILIZADOS ORALES.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C08CA</td>
+<td class="cuerpo_tabla_izq" colspan="3">DERIVADOS DE LA DIHIDROPIRIDINA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">56303</td>
+<td class="cuerpo_tabla_coma">960310</td>
+<td class="cuerpo_tabla_izq">DAGAN 20MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">973974</td>
+<td class="cuerpo_tabla_izq">DAGAN 20MG 60 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58272</td>
+<td class="cuerpo_tabla_coma">988436</td>
+<td class="cuerpo_tabla_izq">FLUSEMIDE 2% 30ML SOLUCIÓN.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">988444</td>
+<td class="cuerpo_tabla_izq">FLUSEMIDE 2% 60ML SOLUCIÓN.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">56464</td>
+<td class="cuerpo_tabla_coma">962340</td>
+<td class="cuerpo_tabla_izq">FLUSEMIDE 20MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">973545</td>
+<td class="cuerpo_tabla_izq">FLUSEMIDE 20MG 60 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">56481</td>
+<td class="cuerpo_tabla_coma">962589</td>
+<td class="cuerpo_tabla_izq">LECIBRAL 20MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">973834</td>
+<td class="cuerpo_tabla_izq">LECIBRAL 20MG 60 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">56370</td>
+<td class="cuerpo_tabla_coma">961045</td>
+<td class="cuerpo_tabla_izq">LINCIL 20MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">972877</td>
+<td class="cuerpo_tabla_izq">LINCIL 20MG 60 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58311</td>
+<td class="cuerpo_tabla_coma">989079</td>
+<td class="cuerpo_tabla_izq">LINCIL 20MG/ML 30ML GOTAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58311</td>
+<td class="cuerpo_tabla_coma">989087</td>
+<td class="cuerpo_tabla_izq">LINCIL 20MG/ML 60ML GOTAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59130</td>
+<td class="cuerpo_tabla_coma">865758</td>
+<td class="cuerpo_tabla_izq">LINCIL 30MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">865766</td>
+<td class="cuerpo_tabla_izq">LINCIL 30MG 60 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">57823</td>
+<td class="cuerpo_tabla_coma">980359</td>
+<td class="cuerpo_tabla_izq">LUCENFAL 20MG 30 GRAGEAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">998633</td>
+<td class="cuerpo_tabla_izq">LUCENFAL 20MG 60 GRAGEAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58390</td>
+<td class="cuerpo_tabla_coma">990176</td>
+<td class="cuerpo_tabla_izq">NERDIPINA 2% 30ML SUSPENSIÓN.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">990184</td>
+<td class="cuerpo_tabla_izq">NERDIPINA 2% 60ML SUSPENSIÓN.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">56321</td>
+<td class="cuerpo_tabla_coma">960500</td>
+<td class="cuerpo_tabla_izq">NERDIPINA 20MG 30 GRAGEAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">972869</td>
+<td class="cuerpo_tabla_izq">NERDIPINA 20MG 60 GRAGEAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58325</td>
+<td class="cuerpo_tabla_coma">989269</td>
+<td class="cuerpo_tabla_izq">NERDIPINA 30MG 30 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">999003</td>
+<td class="cuerpo_tabla_izq">NERDIPINA 30MG 60 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60976</td>
+<td class="cuerpo_tabla_coma">681197</td>
+<td class="cuerpo_tabla_izq">NERDIPINA RETARD 40MG 60 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58447</td>
+<td class="cuerpo_tabla_coma">990879</td>
+<td class="cuerpo_tabla_izq">NICARDIPINO RATIOPHARM 20 20MG 30 COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">742874</td>
+<td class="cuerpo_tabla_izq">NICARDIPINO RATIOPHARM 20 20MG 60 COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">57614</td>
+<td class="cuerpo_tabla_coma">977645</td>
+<td class="cuerpo_tabla_izq">NICARDIPINO SEID 20MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">56305</td>
+<td class="cuerpo_tabla_coma">960336</td>
+<td class="cuerpo_tabla_izq">VASONASE 20MG 30 GRAGEAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">972901</td>
+<td class="cuerpo_tabla_izq">VASONASE 20MG 60 GRAGEAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58445</td>
+<td class="cuerpo_tabla_coma">990853</td>
+<td class="cuerpo_tabla_izq">VASONASE 20MG 60ML SOLUCIÓN GOTAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58330</td>
+<td class="cuerpo_tabla_coma">992818</td>
+<td class="cuerpo_tabla_izq">VASONASE 30MG 60 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60943</td>
+<td class="cuerpo_tabla_coma">681767</td>
+<td class="cuerpo_tabla_izq">VASONASE RETARD 40MG 60 CÁPSULAS LIB SOST.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">56472</td>
+<td class="cuerpo_tabla_coma">962480</td>
+<td class="cuerpo_tabla_izq">VATRASIN 20MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">993113</td>
+<td class="cuerpo_tabla_izq">VATRASIN 20MG 60 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C10AA</td>
+<td class="cuerpo_tabla_izq" colspan="3">INHIBIDORES DE LA HMG CoA REDUCTASA (únicamente en pacientes con hipercolesterolemia familiar heterocigota).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64579</td>
+<td class="cuerpo_tabla_coma">825737</td>
+<td class="cuerpo_tabla_izq">ARUDEL 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64580</td>
+<td class="cuerpo_tabla_coma">832832</td>
+<td class="cuerpo_tabla_izq">ARUDEL 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64581</td>
+<td class="cuerpo_tabla_coma">825760</td>
+<td class="cuerpo_tabla_izq">ARUDEL 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63378 </td>
+<td class="cuerpo_tabla_coma">916106</td>
+<td class="cuerpo_tabla_izq">ATERKEY 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64986</td>
+<td class="cuerpo_tabla_coma">822205</td>
+<td class="cuerpo_tabla_izq">ATERKEY 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64652</td>
+<td class="cuerpo_tabla_coma">862938</td>
+<td class="cuerpo_tabla_izq">BELMALIP 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64653</td>
+<td class="cuerpo_tabla_coma">866046</td>
+<td class="cuerpo_tabla_izq">BELMALIP 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64654</td>
+<td class="cuerpo_tabla_coma">866061</td>
+<td class="cuerpo_tabla_izq">BELMALIP 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61334</td>
+<td class="cuerpo_tabla_coma">675538</td>
+<td class="cuerpo_tabla_izq">BRISTACOL 10MG 28 COMPRIMIDOS RANURADOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60162</td>
+<td class="cuerpo_tabla_coma">695171</td>
+<td class="cuerpo_tabla_izq">BRISTACOL 20 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">748384</td>
+<td class="cuerpo_tabla_izq">BRISTACOL 20MG 28 COMPRIMIDOS RANURADOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62374</td>
+<td class="cuerpo_tabla_coma">727396</td>
+<td class="cuerpo_tabla_izq">BRISTACOL 40MG 28 COMPRIMIDOS RANURADOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61716</td>
+<td class="cuerpo_tabla_coma">667881</td>
+<td class="cuerpo_tabla_izq">CARDYL 10 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61716</td>
+<td class="cuerpo_tabla_coma">716886</td>
+<td class="cuerpo_tabla_izq">CARDYL 10 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61717</td>
+<td class="cuerpo_tabla_coma">667873</td>
+<td class="cuerpo_tabla_izq">CARDYL 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61718</td>
+<td class="cuerpo_tabla_coma">667865</td>
+<td class="cuerpo_tabla_izq">CARDYL 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64571</td>
+<td class="cuerpo_tabla_coma">823997</td>
+<td class="cuerpo_tabla_izq">CARDYL 80MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59181</td>
+<td class="cuerpo_tabla_coma">881011</td>
+<td class="cuerpo_tabla_izq">COLEMIN 10MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59180</td>
+<td class="cuerpo_tabla_coma">881003</td>
+<td class="cuerpo_tabla_izq">COLEMIN 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62329</td>
+<td class="cuerpo_tabla_coma">712042</td>
+<td class="cuerpo_tabla_izq">COLEMIN FORTE 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63361</td>
+<td class="cuerpo_tabla_coma">911727</td>
+<td class="cuerpo_tabla_izq">COLESVIR 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64034</td>
+<td class="cuerpo_tabla_coma">918847</td>
+<td class="cuerpo_tabla_izq">COLESVIR 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62793</td>
+<td class="cuerpo_tabla_coma">834416</td>
+<td class="cuerpo_tabla_izq">DIGARIL 20 MG 28 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62794</td>
+<td class="cuerpo_tabla_coma">834481</td>
+<td class="cuerpo_tabla_izq">DIGARIL 40 MG 28 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64692</td>
+<td class="cuerpo_tabla_coma">903971</td>
+<td class="cuerpo_tabla_izq">DIGARIL PROLIB 80MG 28 COMP DE LIBERAC PROLONGADA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64302</td>
+<td class="cuerpo_tabla_coma">989368</td>
+<td class="cuerpo_tabla_izq">GLUTASEY 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64300</td>
+<td class="cuerpo_tabla_coma">988626</td>
+<td class="cuerpo_tabla_izq">GLUTASEY 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64301</td>
+<td class="cuerpo_tabla_coma">989350</td>
+<td class="cuerpo_tabla_izq">GLUTASEY 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64294</td>
+<td class="cuerpo_tabla_coma">972828</td>
+<td class="cuerpo_tabla_izq">HISTOP 10MG 28 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64295</td>
+<td class="cuerpo_tabla_coma">973792</td>
+<td class="cuerpo_tabla_izq">HISTOP 20MG 28 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64296</td>
+<td class="cuerpo_tabla_coma">973800</td>
+<td class="cuerpo_tabla_izq">HISTOP 40MG 28 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60821</td>
+<td class="cuerpo_tabla_coma">683839</td>
+<td class="cuerpo_tabla_izq">LESCOL 20 20MG 28 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60822</td>
+<td class="cuerpo_tabla_coma">683821</td>
+<td class="cuerpo_tabla_izq">LESCOL 40 40MG 28 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64648</td>
+<td class="cuerpo_tabla_coma">857078</td>
+<td class="cuerpo_tabla_izq">LESCOL PROLIB 80MG 28 COMPRIMIDOS LIBERAC PROLONG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59027</td>
+<td class="cuerpo_tabla_coma">685495</td>
+<td class="cuerpo_tabla_izq">LIPEMOL 10MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59028</td>
+<td class="cuerpo_tabla_coma">694646</td>
+<td class="cuerpo_tabla_izq">LIPEMOL 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62376</td>
+<td class="cuerpo_tabla_coma">727602</td>
+<td class="cuerpo_tabla_izq">LIPEMOL 40MG 28 COMPRIMIDOS RANURADOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59029</td>
+<td class="cuerpo_tabla_coma">685180</td>
+<td class="cuerpo_tabla_izq">LIPLAT 10 10MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59030</td>
+<td class="cuerpo_tabla_coma">694596</td>
+<td class="cuerpo_tabla_izq">LIPLAT 20 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62375</td>
+<td class="cuerpo_tabla_coma">727537</td>
+<td class="cuerpo_tabla_izq">LIPLAT 40 40MG 28 COMPRIMIDOS RANURADOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64339</td>
+<td class="cuerpo_tabla_coma">773804</td>
+<td class="cuerpo_tabla_izq">LIPOCIDEN 10MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64340</td>
+<td class="cuerpo_tabla_coma">773846</td>
+<td class="cuerpo_tabla_izq">LIPOCIDEN 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64341</td>
+<td class="cuerpo_tabla_coma">773861</td>
+<td class="cuerpo_tabla_izq">LIPOCIDEN 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58563</td>
+<td class="cuerpo_tabla_coma">992693</td>
+<td class="cuerpo_tabla_izq">LIPOFREN 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61592</td>
+<td class="cuerpo_tabla_coma">670323</td>
+<td class="cuerpo_tabla_izq">LIPOSCLER 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63441</td>
+<td class="cuerpo_tabla_coma">935775</td>
+<td class="cuerpo_tabla_izq">LIPOSCLER 40MG 28 COMPRIMIDOS RANURADOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63988</td>
+<td class="cuerpo_tabla_coma">877910</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA ALACAN 20MG 28 COMPRIMIDOS RANUR EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63987</td>
+<td class="cuerpo_tabla_coma">877696</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA ALACAN 40MG 28 COMPRIMIDOS RANURADO EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64923</td>
+<td class="cuerpo_tabla_coma">789321</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA APHAR 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64922</td>
+<td class="cuerpo_tabla_coma">789297</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA APHAR 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63326</td>
+<td class="cuerpo_tabla_coma">901892</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA BEXAL 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63327</td>
+<td class="cuerpo_tabla_coma">901900</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA BEXAL 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63986</td>
+<td class="cuerpo_tabla_coma">728287</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA CENTRUM 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">875385</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA CENTRUM 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63985</td>
+<td class="cuerpo_tabla_coma">728832</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA CENTRUM 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">874636</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA CENTRUM 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63360</td>
+<td class="cuerpo_tabla_coma">911685</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA CINFA 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63359</td>
+<td class="cuerpo_tabla_coma">816918</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA CINFA 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">911677</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA CINFA 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64444</td>
+<td class="cuerpo_tabla_coma">714253</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA COMBINO PHARM 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64445</td>
+<td class="cuerpo_tabla_coma">714295</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA COMBINO PHARM 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64393</td>
+<td class="cuerpo_tabla_coma">703231</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA CUVE 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64392</td>
+<td class="cuerpo_tabla_coma">703199</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA CUVE 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63765</td>
+<td class="cuerpo_tabla_coma">704569</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA GEMINIS 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">858282</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA GEMINIS 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63766</td>
+<td class="cuerpo_tabla_coma">859223</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA GEMINIS 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63328</td>
+<td class="cuerpo_tabla_coma">901918</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA GRAPA 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63905</td>
+<td class="cuerpo_tabla_coma">764787</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA GRAPA 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63322</td>
+<td class="cuerpo_tabla_coma">715698</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA KERN 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">901843</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA KERN 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63323</td>
+<td class="cuerpo_tabla_coma">715680</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA KERN 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">901868</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA KERN 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63329</td>
+<td class="cuerpo_tabla_coma">901926</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA LAREQ 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63906</td>
+<td class="cuerpo_tabla_coma">764902</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA LAREQ 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63756</td>
+<td class="cuerpo_tabla_coma">851915</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA LASA 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">871954</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA LASA 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63757</td>
+<td class="cuerpo_tabla_coma">853044</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA LASA 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">858498</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA LASA 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">871970</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA LASA 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63324</td>
+<td class="cuerpo_tabla_coma">901884</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA MABO 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63325</td>
+<td class="cuerpo_tabla_coma">901454</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA MABO 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63762</td>
+<td class="cuerpo_tabla_coma">856393</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA MERCK 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63761</td>
+<td class="cuerpo_tabla_coma">856385</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA MERCK 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64386</td>
+<td class="cuerpo_tabla_coma">702548</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA MIDY 20MG28C.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64387</td>
+<td class="cuerpo_tabla_coma">702571</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA MIDY 40MG28C.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64437</td>
+<td class="cuerpo_tabla_coma">713255</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA NORMON 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64438</td>
+<td class="cuerpo_tabla_coma">713271</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA NORMON 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63806</td>
+<td class="cuerpo_tabla_coma">877464</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA PLIVA 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63805</td>
+<td class="cuerpo_tabla_coma">876490</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA PLIVA 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64043</td>
+<td class="cuerpo_tabla_coma">947143</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA TAMARANG 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64044</td>
+<td class="cuerpo_tabla_coma">949537</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA TAMARANG 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64383</td>
+<td class="cuerpo_tabla_coma">842641</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 100COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">839811</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 10COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">842757</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 112COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">841205</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 20COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">702100</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 28COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">841502</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 30COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">841528</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 50COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">841692</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 60COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">841767</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 84COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">841858</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 98COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64382</td>
+<td class="cuerpo_tabla_coma">845297</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 100COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">843078</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 10COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64382</td>
+<td class="cuerpo_tabla_coma">845313</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 112COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">843219</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 20COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">701862</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 28COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">844464</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 30COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">844514</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 50COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">844548</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 60COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">844571</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 84COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">845180</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 98COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64380</td>
+<td class="cuerpo_tabla_coma">701615</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL EUROPA 20MG 28COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64381</td>
+<td class="cuerpo_tabla_coma">701623</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL EUROPA 40MG 28COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64385</td>
+<td class="cuerpo_tabla_coma">702191</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL IBERICA 20MG 28COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64384</td>
+<td class="cuerpo_tabla_coma">702183</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL IBERICA 40MG 28COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63330</td>
+<td class="cuerpo_tabla_coma">901975</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA VIR 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63907</td>
+<td class="cuerpo_tabla_coma">765347</td>
+<td class="cuerpo_tabla_izq">LOVASTATINA VIR 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61099</td>
+<td class="cuerpo_tabla_coma">679266</td>
+<td class="cuerpo_tabla_izq">LYMETEL 20 20MG 28 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">746602</td>
+<td class="cuerpo_tabla_izq">LYMETEL 20 20MG 28 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61100</td>
+<td class="cuerpo_tabla_coma">679258</td>
+<td class="cuerpo_tabla_izq">LYMETEL 40 40MG 28 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">746610</td>
+<td class="cuerpo_tabla_izq">LYMETEL 40 40MG 28 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64651</td>
+<td class="cuerpo_tabla_coma">862409</td>
+<td class="cuerpo_tabla_izq">LYMETEL PROLIB 80MG 28 COMPRIMIDOS LIBERAC PROLONG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58517</td>
+<td class="cuerpo_tabla_coma">992156</td>
+<td class="cuerpo_tabla_izq">MEVACOR 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">805002</td>
+<td class="cuerpo_tabla_izq">MEVACOR 20MG 28 COMPRIMIDOS RANURADOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60281</td>
+<td class="cuerpo_tabla_coma">692871</td>
+<td class="cuerpo_tabla_izq">MEVACOR 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">805010</td>
+<td class="cuerpo_tabla_izq">MEVACOR 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63184</td>
+<td class="cuerpo_tabla_coma">817643</td>
+<td class="cuerpo_tabla_izq">MEVASTEROL 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63184</td>
+<td class="cuerpo_tabla_coma">887869</td>
+<td class="cuerpo_tabla_izq">MEVASTEROL 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64987</td>
+<td class="cuerpo_tabla_coma">822387</td>
+<td class="cuerpo_tabla_izq">MEVASTEROL 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58751</td>
+<td class="cuerpo_tabla_coma">995845</td>
+<td class="cuerpo_tabla_izq">NERGADAN 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60345</td>
+<td class="cuerpo_tabla_coma">691964</td>
+<td class="cuerpo_tabla_izq">NERGADAN 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59182</td>
+<td class="cuerpo_tabla_coma">881078</td>
+<td class="cuerpo_tabla_izq">PANTOK 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59183</td>
+<td class="cuerpo_tabla_coma">881086</td>
+<td class="cuerpo_tabla_izq">PANTOK 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62330</td>
+<td class="cuerpo_tabla_coma">712059</td>
+<td class="cuerpo_tabla_izq">PANTOK FORTE 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61092</td>
+<td class="cuerpo_tabla_coma">679340</td>
+<td class="cuerpo_tabla_izq">PRAREDUCT 10 10MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61112</td>
+<td class="cuerpo_tabla_coma">679126</td>
+<td class="cuerpo_tabla_izq">PRAREDUCT 20 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62688</td>
+<td class="cuerpo_tabla_coma">807131</td>
+<td class="cuerpo_tabla_izq">PRAREDUCT 40 40MG 28 COMPRIMIDOS RANURADOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61742</td>
+<td class="cuerpo_tabla_coma">667477</td>
+<td class="cuerpo_tabla_izq">PREVENCOR 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61742</td>
+<td class="cuerpo_tabla_coma">932822</td>
+<td class="cuerpo_tabla_izq">PREVENCOR 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61743</td>
+<td class="cuerpo_tabla_coma">667469</td>
+<td class="cuerpo_tabla_izq">PREVENCOR 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61744</td>
+<td class="cuerpo_tabla_coma">667451</td>
+<td class="cuerpo_tabla_izq">PREVENCOR 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64642</td>
+<td class="cuerpo_tabla_coma">851154</td>
+<td class="cuerpo_tabla_izq">PREVENCOR 80MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65235</td>
+<td class="cuerpo_tabla_coma">750430</td>
+<td class="cuerpo_tabla_izq">PRINCESS PROLIB 80MG 28 COMPRIMIDOS LIBERA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65210</td>
+<td class="cuerpo_tabla_coma">741082</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA ACOST 10MG 28 COMRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65208</td>
+<td class="cuerpo_tabla_coma">740811</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA ACOST 20MG 28 COMPRIMIDOS RECUB.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65209</td>
+<td class="cuerpo_tabla_coma">741041</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA ACOST 40MG 28 COMPRMIDOS RECUB.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64183</td>
+<td class="cuerpo_tabla_coma">930792</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA ALTER 10MG 28 COMP RECUBEIRTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64184</td>
+<td class="cuerpo_tabla_coma">987156</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA ALTER 20MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64185</td>
+<td class="cuerpo_tabla_coma">926451</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA ALTER 40MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64266</td>
+<td class="cuerpo_tabla_coma">926402</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA BAYVIT 10MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64267</td>
+<td class="cuerpo_tabla_coma">972240</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA BAYVIT 20MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64268</td>
+<td class="cuerpo_tabla_coma">975771</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA BAYVIT 40MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64168</td>
+<td class="cuerpo_tabla_coma">968461</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA BEXAL 10MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64169</td>
+<td class="cuerpo_tabla_coma">990986</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA BEXAL 20MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64170</td>
+<td class="cuerpo_tabla_coma">936443</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA BEXAL 40MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64519</td>
+<td class="cuerpo_tabla_coma">737288</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA CINFA 10MG 28COMP RECUB.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64520</td>
+<td class="cuerpo_tabla_coma">737304</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA CINFA 20MG 28COMP RECUB.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64415</td>
+<td class="cuerpo_tabla_coma">708800</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA CINFA 40MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64521</td>
+<td class="cuerpo_tabla_coma">737312</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA CINFAMED 10MG 28COMP RECUB.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64522</td>
+<td class="cuerpo_tabla_coma">737619</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA CINFAMED 20MG 28COMP RECUB.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64416</td>
+<td class="cuerpo_tabla_coma">708818</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA CINFAMED 40MG 28COMP RECUB.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64276</td>
+<td class="cuerpo_tabla_coma">919100</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA DAVUR 10MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">974691</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA DAVUR 10MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64275</td>
+<td class="cuerpo_tabla_coma">917880</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA DAVUR 20MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">971069</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA DAVUR 20MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64277</td>
+<td class="cuerpo_tabla_coma">917872</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA DAVUR 40MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">975789</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA DAVUR 40MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65196</td>
+<td class="cuerpo_tabla_coma">736850</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA DESGEN 10MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65194</td>
+<td class="cuerpo_tabla_coma">736785</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA DESGEN 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65195</td>
+<td class="cuerpo_tabla_coma">736835</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA DESGEN 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64488</td>
+<td class="cuerpo_tabla_coma">723445</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA EDIGEN 10MG 28COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64489</td>
+<td class="cuerpo_tabla_coma">723569</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA EDIGEN 20MG 28COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64490</td>
+<td class="cuerpo_tabla_coma">723668</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA EDIGEN 40MG 28COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64174</td>
+<td class="cuerpo_tabla_coma">969113</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA FARMABION 10MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64175</td>
+<td class="cuerpo_tabla_coma">917815</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA FARMABION 20MG 28 COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64176</td>
+<td class="cuerpo_tabla_coma">904474</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA FARMABION 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64177</td>
+<td class="cuerpo_tabla_coma">910927</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA GEMINIS 10MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64178</td>
+<td class="cuerpo_tabla_coma">910935</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA GEMINIS 20MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64179</td>
+<td class="cuerpo_tabla_coma">910943</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA GEMINIS 40MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65191</td>
+<td class="cuerpo_tabla_coma">736330</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA GRAPA 10MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65193</td>
+<td class="cuerpo_tabla_coma">736504</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA GRAPA 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65192</td>
+<td class="cuerpo_tabla_coma">736496</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA GRAPA 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65201</td>
+<td class="cuerpo_tabla_coma">739177</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA JUVENTUS 10MG 28 COMPRIMIDOS REC EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65202</td>
+<td class="cuerpo_tabla_coma">739649</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA JUVENTUS 20MG 28 COMPRIMIDOS REC EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65203</td>
+<td class="cuerpo_tabla_coma">739656</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA JUVENTUS 40MG 28 COMPRIMIDOS REC EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64248</td>
+<td class="cuerpo_tabla_coma">916049</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA KERN 10MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">717371</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA KERN 10MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64247</td>
+<td class="cuerpo_tabla_coma">716936</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA KERN 20MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">914184</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA KERN 20MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64246</td>
+<td class="cuerpo_tabla_coma">716902</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA KERN 40MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">914101</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA KERN 40MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64172</td>
+<td class="cuerpo_tabla_coma">984450</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA MABO 10MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64171</td>
+<td class="cuerpo_tabla_coma">956060</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA MABO 20MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64173</td>
+<td class="cuerpo_tabla_coma">984476</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA MABO 40MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64180</td>
+<td class="cuerpo_tabla_coma">910950</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA MERCK 10MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64181</td>
+<td class="cuerpo_tabla_coma">910968</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA MERCK 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64182</td>
+<td class="cuerpo_tabla_coma">910976</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA MERCK 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65144</td>
+<td class="cuerpo_tabla_coma">712612</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA MIDY 10MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65145</td>
+<td class="cuerpo_tabla_coma">713289</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA MIDY 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65146</td>
+<td class="cuerpo_tabla_coma">713321</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA MIDY 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65200</td>
+<td class="cuerpo_tabla_coma">739151</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA NORMON 10MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65198</td>
+<td class="cuerpo_tabla_coma">738310</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA NORMON 20MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65199</td>
+<td class="cuerpo_tabla_coma">739060</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA NORMON 40MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65077</td>
+<td class="cuerpo_tabla_coma">868919</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA PLIVA 10MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65078</td>
+<td class="cuerpo_tabla_coma">869057</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA PLIVA 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65079</td>
+<td class="cuerpo_tabla_coma">869511</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA PLIVA 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64237</td>
+<td class="cuerpo_tabla_coma">897447</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA RATIOPHARM 10MG 28 COMP RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64238</td>
+<td class="cuerpo_tabla_coma">897454</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA RATIOPHARM 20MG 28 COMP RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64239</td>
+<td class="cuerpo_tabla_coma">931568</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA RATIOPHARM 40MG 28 COMP RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64269</td>
+<td class="cuerpo_tabla_coma">998690</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA RIMAFAR 10MG 28 COMP RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">848143</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA RIMAFAR 10MG 28 COMPRIM RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64270</td>
+<td class="cuerpo_tabla_coma">687822</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA RIMAFAR 20MG 28 COMP RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">848234</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA RIMAFAR 20MG 28 COMPRIM RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64271</td>
+<td class="cuerpo_tabla_coma">896944</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA RIMAFAR 40MG 28 COMP RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">848283</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA RIMAFAR 40MG 28 COMPRIM RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64236</td>
+<td class="cuerpo_tabla_coma">885798</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA SUMOL 10MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64234</td>
+<td class="cuerpo_tabla_coma">878637</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA SUMOL 20MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64235</td>
+<td class="cuerpo_tabla_coma">878645</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA SUMOL 40MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64278</td>
+<td class="cuerpo_tabla_coma">982942</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA SYNTHON 10MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64279</td>
+<td class="cuerpo_tabla_coma">988527</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA SYNTHON 20MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64280</td>
+<td class="cuerpo_tabla_coma">990226</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA SYNTHON 40MG 28 COMPRIMIDOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64281</td>
+<td class="cuerpo_tabla_coma">748046</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA SYNTHON HISPANIA 10MG 28 COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64282</td>
+<td class="cuerpo_tabla_coma">832485</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA SYNTHON HISPANIA 20MG 28 COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64283</td>
+<td class="cuerpo_tabla_coma">861740</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA SYNTHON HISPANIA 40MG 28 COMP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64250</td>
+<td class="cuerpo_tabla_coma">725564</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA TARBIS 10MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64249</td>
+<td class="cuerpo_tabla_coma">902569</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA TARBIS 20MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64251</td>
+<td class="cuerpo_tabla_coma">736587</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA TARBIS 40MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64240</td>
+<td class="cuerpo_tabla_coma">962472</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA UR 10MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64241</td>
+<td class="cuerpo_tabla_coma">977595</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA UR 20MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64242</td>
+<td class="cuerpo_tabla_coma">884189</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA UR 40MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64320</td>
+<td class="cuerpo_tabla_coma">798033</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 10MG 28 COMPRIMIDOS RECUB.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">886382</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 10MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">769786</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 10MG 28 COMPRIMIDOS RECUBIERT EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64321</td>
+<td class="cuerpo_tabla_coma">798397</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 20MG 28 COMPRIMIDOS RECUB.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">769836</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 20MG 28 COMPRIMIDOS RECUBIERT EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">897231</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 20MG 28 COMPRIMIDOS RECUBIERT EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64322</td>
+<td class="cuerpo_tabla_coma">798645</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 40MG 28 COMPRIMIDOS RECUB.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">769844</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 40MG 28 COMPRIMIDOS RECUBIERT EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">897249</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 40MG 28 COMPRIMIDOS RECUBIERT EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65107</td>
+<td class="cuerpo_tabla_coma">937961</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA VEGAL 10MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65106</td>
+<td class="cuerpo_tabla_coma">937540</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA VEGAL 20MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65105</td>
+<td class="cuerpo_tabla_coma">936849</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA VEGAL 40MG 28 COMPRIMIDOS RECUB EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64272</td>
+<td class="cuerpo_tabla_coma">963769</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA VIR 10MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64273</td>
+<td class="cuerpo_tabla_coma">963777</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA VIR 20MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64274</td>
+<td class="cuerpo_tabla_coma">971051</td>
+<td class="cuerpo_tabla_izq">SIMVASTATINA VIR 40MG 28 COMP RECUBIERTOS EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65086</td>
+<td class="cuerpo_tabla_coma">872325</td>
+<td class="cuerpo_tabla_izq">SIMVASTUR 10MG 28 COMP RECUB.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65088</td>
+<td class="cuerpo_tabla_coma">872424</td>
+<td class="cuerpo_tabla_izq">SIMVASTUR 20MG 28 COMP RECUB.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65087</td>
+<td class="cuerpo_tabla_coma">872416</td>
+<td class="cuerpo_tabla_izq">SIMVASTUR 40MG 28 COMP RECUB.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58757</td>
+<td class="cuerpo_tabla_coma">821314</td>
+<td class="cuerpo_tabla_izq">TAUCOR 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">995902</td>
+<td class="cuerpo_tabla_izq">TAUCOR 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60835</td>
+<td class="cuerpo_tabla_coma">683540</td>
+<td class="cuerpo_tabla_izq">TAUCOR 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">821330</td>
+<td class="cuerpo_tabla_izq">TAUCOR 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64297</td>
+<td class="cuerpo_tabla_coma">982827</td>
+<td class="cuerpo_tabla_izq">TEYLOR 10MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64298</td>
+<td class="cuerpo_tabla_coma">982835</td>
+<td class="cuerpo_tabla_izq">TEYLOR 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64299</td>
+<td class="cuerpo_tabla_coma">988600</td>
+<td class="cuerpo_tabla_izq">TEYLOR 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62883</td>
+<td class="cuerpo_tabla_coma">850602</td>
+<td class="cuerpo_tabla_izq">VADITON 20 20MG 28 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62884</td>
+<td class="cuerpo_tabla_coma">850610</td>
+<td class="cuerpo_tabla_izq">VADITON 40 40MG 28 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64782</td>
+<td class="cuerpo_tabla_coma">745539</td>
+<td class="cuerpo_tabla_izq">VADITON PROLIB 80MG 28 COMPRIMIDOS LIBERAC PROLONG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61654</td>
+<td class="cuerpo_tabla_coma">669077</td>
+<td class="cuerpo_tabla_izq">ZARATOR 10 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61654</td>
+<td class="cuerpo_tabla_coma">715334</td>
+<td class="cuerpo_tabla_izq">ZARATOR 10 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61655</td>
+<td class="cuerpo_tabla_coma">669069</td>
+<td class="cuerpo_tabla_izq">ZARATOR 20 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61656</td>
+<td class="cuerpo_tabla_coma">669051</td>
+<td class="cuerpo_tabla_izq">ZARATOR 40 40MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64529</td>
+<td class="cuerpo_tabla_coma">742098</td>
+<td class="cuerpo_tabla_izq">ZARATOR 80 80MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58845</td>
+<td class="cuerpo_tabla_coma">997171</td>
+<td class="cuerpo_tabla_izq">ZOCOR 10MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58846</td>
+<td class="cuerpo_tabla_coma">997189</td>
+<td class="cuerpo_tabla_izq">ZOCOR 20MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61497</td>
+<td class="cuerpo_tabla_coma">672253</td>
+<td class="cuerpo_tabla_izq">ZOCOR FORTE 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D05AA</td>
+<td class="cuerpo_tabla_izq" colspan="3">ALQUITRANES.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">53936</td>
+<td class="cuerpo_tabla_coma">811992</td>
+<td class="cuerpo_tabla_izq">PSORIASDIN 3.9% 100G GEL.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">24820</td>
+<td class="cuerpo_tabla_coma">954842</td>
+<td class="cuerpo_tabla_izq">QUINORTAR 60G CREMA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D05AC</td>
+<td class="cuerpo_tabla_izq" colspan="3">DERIVADOS DEL ANTRACENO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59001</td>
+<td class="cuerpo_tabla_coma">738294</td>
+<td class="cuerpo_tabla_izq">ANTHRANOL 0.4% 50G POMADA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58998</td>
+<td class="cuerpo_tabla_coma">737817</td>
+<td class="cuerpo_tabla_izq">ANTHRANOL 2% 50G POMADA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61998</td>
+<td class="cuerpo_tabla_coma">661702</td>
+<td class="cuerpo_tabla_izq">MICANOL 1% 50G CREMA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61999</td>
+<td class="cuerpo_tabla_coma">661694</td>
+<td class="cuerpo_tabla_izq">MICANOL 3% 50G CREMA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58889</td>
+<td class="cuerpo_tabla_coma">997866</td>
+<td class="cuerpo_tabla_izq">PSORANTRAL 0.1 % 50G POMADA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D05BA</td>
+<td class="cuerpo_tabla_izq" colspan="3">PSORALENOS PARA USO SISTÉMICO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">29008</td>
+<td class="cuerpo_tabla_coma">680090</td>
+<td class="cuerpo_tabla_izq">OXSORALEN 10MG 25 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">49161</td>
+<td class="cuerpo_tabla_coma">796706</td>
+<td class="cuerpo_tabla_izq">NOVO MELADININA 5MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D05AX</td>
+<td class="cuerpo_tabla_izq" colspan="3">OTROS ANTIPSORIÁSICOS PARA USO TÓPICO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62312</td>
+<td class="cuerpo_tabla_coma">706655</td>
+<td class="cuerpo_tabla_izq">BONALFA 0.0004% POMADA 30 G.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">706903</td>
+<td class="cuerpo_tabla_izq">BONALFA 0.0004% POMADA 50 G.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64543</td>
+<td class="cuerpo_tabla_coma">748970</td>
+<td class="cuerpo_tabla_izq">DAIVOBET 60G POMADA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60944</td>
+<td class="cuerpo_tabla_coma">738260</td>
+<td class="cuerpo_tabla_izq">DAIVONEX 0,005% 100G CREMA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59770</td>
+<td class="cuerpo_tabla_coma">677518</td>
+<td class="cuerpo_tabla_izq">DAIVONEX 0,005% 100G POMADA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">738682</td>
+<td class="cuerpo_tabla_izq">DAIVONEX 0,005% 100G POMADA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60944</td>
+<td class="cuerpo_tabla_coma">681742</td>
+<td class="cuerpo_tabla_izq">DAIVONEX 0.005% 100G CREMA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59770</td>
+<td class="cuerpo_tabla_coma">806240</td>
+<td class="cuerpo_tabla_izq">DAIVONEX 0.005% 100G POMADA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60944</td>
+<td class="cuerpo_tabla_coma">681759</td>
+<td class="cuerpo_tabla_izq">DAIVONEX 0.005% 30G CREMA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">59770</td>
+<td class="cuerpo_tabla_coma">677500</td>
+<td class="cuerpo_tabla_izq">DAIVONEX 0.005% 30G POMADA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">806232</td>
+<td class="cuerpo_tabla_izq">DAIVONEX 0.005% 30G POMADA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61208</td>
+<td class="cuerpo_tabla_coma">677450</td>
+<td class="cuerpo_tabla_izq">DAIVONEX 0.005% LOCIÓN 30 ML.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">677443</td>
+<td class="cuerpo_tabla_izq">DAIVONEX 0.005% LOCIÓN 60 ML.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61862</td>
+<td class="cuerpo_tabla_coma">664243</td>
+<td class="cuerpo_tabla_izq">ZORAC 0,05% 15G GEL.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">664235</td>
+<td class="cuerpo_tabla_izq">ZORAC 0,05% 60G GEL.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61861</td>
+<td class="cuerpo_tabla_coma">664268</td>
+<td class="cuerpo_tabla_izq">ZORAC 0,1% 15G GEL.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">664250</td>
+<td class="cuerpo_tabla_izq">ZORAC 0,1% 60G GEL.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D058A</td>
+<td class="cuerpo_tabla_izq" colspan="3">PSORALENOS PARA USO SISTÉMICO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">49161</td>
+<td class="cuerpo_tabla_coma">796706</td>
+<td class="cuerpo_tabla_izq">NOVO MELADININA 5MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D0588</td>
+<td class="cuerpo_tabla_izq" colspan="3">RETINOIDES PARA EL TRATAMIENTO DE LA PSORIASIS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60303</td>
+<td class="cuerpo_tabla_coma">692616</td>
+<td class="cuerpo_tabla_izq">NEOTIGASON 10MG 30 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60302</td>
+<td class="cuerpo_tabla_coma">692624</td>
+<td class="cuerpo_tabla_izq">NEOTIGASON 25MG 30 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D058X</td>
+<td class="cuerpo_tabla_izq" colspan="3">OTROS ANTIPSORIÁSICOS PARA USO SISTÉMICO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">54809</td>
+<td class="cuerpo_tabla_coma">936229</td>
+<td class="cuerpo_tabla_izq">ARMAYA 40MG 30 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">55756</td>
+<td class="cuerpo_tabla_coma">952192</td>
+<td class="cuerpo_tabla_izq">ARMAYA FUERTE 120MG 24 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">724351</td>
+<td class="cuerpo_tabla_izq">ARMAYA FUERTE 120MG 96 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">55757</td>
+<td class="cuerpo_tabla_coma">952200</td>
+<td class="cuerpo_tabla_izq">DIFUR 120MG 24 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">762328</td>
+<td class="cuerpo_tabla_izq">DIFUR 120MG 96 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">55958</td>
+<td class="cuerpo_tabla_coma">955344</td>
+<td class="cuerpo_tabla_izq">REGENDER 120MG 24 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">724229</td>
+<td class="cuerpo_tabla_izq">REGENDER 120MG 96 CÁPSULAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G03DC</td>
+<td class="cuerpo_tabla_izq" colspan="3">DERIVADOS DEL ESTRENO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60100</td>
+<td class="cuerpo_tabla_coma">696294</td>
+<td class="cuerpo_tabla_izq">BOLTIN 2.5MG 28 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">N02AB</td>
+<td class="cuerpo_tabla_izq" colspan="3">DERIVADOS DE LA FENILPIPERIDINA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64056</td>
+<td class="cuerpo_tabla_coma">915371</td>
+<td class="cuerpo_tabla_izq">ACTIQ 0,2 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">711754</td>
+<td class="cuerpo_tabla_izq">ACTIQ 0,2 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64057</td>
+<td class="cuerpo_tabla_coma">900837</td>
+<td class="cuerpo_tabla_izq">ACTIQ 0,4 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">711374</td>
+<td class="cuerpo_tabla_izq">ACTIQ 0,4 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64058</td>
+<td class="cuerpo_tabla_coma">935411</td>
+<td class="cuerpo_tabla_izq">ACTIQ 0,6 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">711630</td>
+<td class="cuerpo_tabla_izq">ACTIQ 0,6 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64059</td>
+<td class="cuerpo_tabla_coma">935437</td>
+<td class="cuerpo_tabla_izq">ACTIQ 0,8 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">711531</td>
+<td class="cuerpo_tabla_izq">ACTIQ 0,8 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64060</td>
+<td class="cuerpo_tabla_coma">912485</td>
+<td class="cuerpo_tabla_izq">ACTIQ 1,2 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">711408</td>
+<td class="cuerpo_tabla_izq">ACTIQ 1,2 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">64061</td>
+<td class="cuerpo_tabla_coma">904359</td>
+<td class="cuerpo_tabla_izq">ACTIQ 1,6 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">711721</td>
+<td class="cuerpo_tabla_izq">ACTIQ 1,6 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61961</td>
+<td class="cuerpo_tabla_coma">662577</td>
+<td class="cuerpo_tabla_izq">DUROGESIC 100 10MG/PARCHE 5 PARCHES TRANSD.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61959</td>
+<td class="cuerpo_tabla_coma">662593</td>
+<td class="cuerpo_tabla_izq">DUROGESIC 25 2,5MG/PARCHE 5 PARCHES TRANSD.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61960</td>
+<td class="cuerpo_tabla_coma">662585</td>
+<td class="cuerpo_tabla_izq">DUROGESIC 50 5MG/PARCHE 5 PARCHES TRANSD.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65032</td>
+<td class="cuerpo_tabla_coma">848119</td>
+<td class="cuerpo_tabla_izq">DUROGESIC 75 7.5MG/PARCHE 5 PARCHES TRANSD.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">N07BB</td>
+<td class="cuerpo_tabla_izq" colspan="3">FÁRMACOS CONTRA LA DEPENDENCIA DEL ALCOHOL.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">912723</td>
+<td class="cuerpo_tabla_coma">651273</td>
+<td class="cuerpo_tabla_izq">ANTABUS 250MG 40 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">912723</td>
+<td class="cuerpo_tabla_coma">886176</td>
+<td class="cuerpo_tabla_izq">ANTABUS 250 MG 40 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61201</td>
+<td class="cuerpo_tabla_coma">677732</td>
+<td class="cuerpo_tabla_izq">CAMPRAL 333MG 84 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">49473</td>
+<td class="cuerpo_tabla_coma">735688</td>
+<td class="cuerpo_tabla_izq">COLME 6% 15ML SOLUCIÓN GOTAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">735696</td>
+<td class="cuerpo_tabla_izq">COLME 6% 60ML SOLUCIÓN GOTAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61694</td>
+<td class="cuerpo_tabla_coma">668368</td>
+<td class="cuerpo_tabla_izq">ZULEX 333MG 84 COMPRIMIDOS LAQUEADOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">R03DC</td>
+<td class="cuerpo_tabla_izq" colspan="3">ANTAGONISTAS DEL RECEPTOR DE LEUCOTRIENOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62443</td>
+<td class="cuerpo_tabla_coma">749416</td>
+<td class="cuerpo_tabla_izq">ACCOLATE 20 20MG 60 COMPRIMIDOS RECUBIERT.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62704</td>
+<td class="cuerpo_tabla_coma">809590</td>
+<td class="cuerpo_tabla_izq">AERONIX 20MG 60 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">62705</td>
+<td class="cuerpo_tabla_coma">809715</td>
+<td class="cuerpo_tabla_izq">OLMORAN 20MG 60 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63673</td>
+<td class="cuerpo_tabla_coma">709394</td>
+<td class="cuerpo_tabla_izq">SINGULAIR 4MG 28 COMPRIMIDOS MASTICAB.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">65429</td>
+<td class="cuerpo_tabla_coma">840645</td>
+<td class="cuerpo_tabla_izq">SINGULAIR 4MG GRANULADO 28 SOBRES.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61980</td>
+<td class="cuerpo_tabla_coma">662056</td>
+<td class="cuerpo_tabla_izq">SINGULAIR 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61979</td>
+<td class="cuerpo_tabla_coma">662064</td>
+<td class="cuerpo_tabla_izq">SINGULAIR 5MG PEDIATRIA 28 COMPRIMIDOS MASTICABLES.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">V03AF</td>
+<td class="cuerpo_tabla_izq" colspan="3">AGENTES DETOXIFICANTES PARA TRATAMIENTOS ANTINEOPLÁSICOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">42563</td>
+<td class="cuerpo_tabla_coma">699405</td>
+<td class="cuerpo_tabla_izq">CROMATONBIC FOLINICO 30 VIAL BEB 12ML+TAP.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60861</td>
+<td class="cuerpo_tabla_coma">683110</td>
+<td class="cuerpo_tabla_izq">FOLAXIN 1.5MG 6 AMPOLLAS 1 ML.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63807</td>
+<td class="cuerpo_tabla_coma">879957</td>
+<td class="cuerpo_tabla_izq">FOLAXIN 2,5MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63809</td>
+<td class="cuerpo_tabla_coma">880005</td>
+<td class="cuerpo_tabla_izq">FOLAXIN 12, 5MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60860</td>
+<td class="cuerpo_tabla_coma">683128</td>
+<td class="cuerpo_tabla_izq">FOLAXIN 25MG 1 VIAL LIOFILIZADO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60862</td>
+<td class="cuerpo_tabla_coma">654996</td>
+<td class="cuerpo_tabla_izq">FOLAXIN 7,5MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">683102</td>
+<td class="cuerpo_tabla_izq">FOLAXIN 7.5MG 10 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">651745</td>
+<td class="cuerpo_tabla_izq">FOLAXIN 7.5MG 20 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">57853</td>
+<td class="cuerpo_tabla_coma">980813</td>
+<td class="cuerpo_tabla_izq">FOLIDAN 50 50MG/VIAL 1 INYECTABLE.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">57882</td>
+<td class="cuerpo_tabla_coma">981183</td>
+<td class="cuerpo_tabla_izq">FOLIDAN 6MG 6 AMPOLLAS INYECTABLES.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">63900</td>
+<td class="cuerpo_tabla_coma">753467</td>
+<td class="cuerpo_tabla_izq">FOLINATO CALCICO FERRER FARMA 10MG/ML 5AMP 5ML EFG.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58995</td>
+<td class="cuerpo_tabla_coma">999573</td>
+<td class="cuerpo_tabla_izq">FOLINATO CALCICO WASSERMAN 3MG/AM 6 AM 1 ML.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61293</td>
+<td class="cuerpo_tabla_coma">676197</td>
+<td class="cuerpo_tabla_izq">ISOVORIN 12.5MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61290</td>
+<td class="cuerpo_tabla_coma">676221</td>
+<td class="cuerpo_tabla_izq">ISOVORIN 2,5MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60864</td>
+<td class="cuerpo_tabla_coma">683086</td>
+<td class="cuerpo_tabla_izq">ISOVORIN 25 MG 1 VIAL LIOF.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">60865</td>
+<td class="cuerpo_tabla_coma">683078</td>
+<td class="cuerpo_tabla_izq">ISOVORIN 50 MG 1 VIAL LIOF.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61291</td>
+<td class="cuerpo_tabla_coma">676213</td>
+<td class="cuerpo_tabla_izq">ISOVORIN 5MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">61292</td>
+<td class="cuerpo_tabla_coma">676205</td>
+<td class="cuerpo_tabla_izq">ISOVORIN 7.5MG 30 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">56543</td>
+<td class="cuerpo_tabla_coma">963470</td>
+<td class="cuerpo_tabla_izq">LEDERFOLIN 15MG 10 COMPRIMIDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">58778</td>
+<td class="cuerpo_tabla_coma">996165</td>
+<td class="cuerpo_tabla_izq">LEDERFOLIN 50MG 1 INYECTABLE 5ML.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">406978</td>
+<td class="cuerpo_tabla_coma">779355</td>
+<td class="cuerpo_tabla_izq">LEDERFOLIN 3MG 6 AMPOLLAS 1ML.</td>
+</tr>
+</tbody>
+</table>
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 21, de 24 de enero de 2004.[Ref. BOE-A-2004-1441](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1441)
+
+## ANEXO IV.b — Especialidades farmacéuticas que cambian de aportación reducida a normal
+
+<table class="tabla">
+<colgroup>
+<col width="10%">
+<col width="10%">
+<col width="10%">
+<col width="70%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">ATC</th>
+<th class="cabeza_tabla">N.° Reg.</th>
+<th class="cabeza_tabla">Código</th>
+<th class="cabeza_tabla">Denominación</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">C01EB</td>
+<td class="cuerpo_tabla_izq" colspan="3">OTROS PREPARADOS PARA EL CORAZÓN.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">920960</td>
+<td class="cuerpo_tabla_coma">737494</td>
+<td class="cuerpo_tabla_izq">CRATAEGUTT 20ML SOLUCIÓN GOTAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">737502</td>
+<td class="cuerpo_tabla_izq">CRATAEGUTT 50ML SOLUCIÓN GOTAS.</td>
+</tr>
+</tbody>
+</table>
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 21, de 24 de enero de 2004.[Ref. BOE-A-2004-1441](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1441)
+
+## ANEXO IV.c — Especialidades farmacéuticas que pasan de excluidas a incluidas en financiación
+
+<table class="tabla">
+<colgroup>
+<col width="10%">
+<col width="10%">
+<col width="10%">
+<col width="70%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">ATC</th>
+<th class="cabeza_tabla">N.° Reg.</th>
+<th class="cabeza_tabla">Código</th>
+<th class="cabeza_tabla">Denominación</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">A03BA</td>
+<td class="cuerpo_tabla_izq" colspan="3">ALCALOIDES DE LA BELLADONA, AMINAS TERCIARIAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_coma">48373</td>
+<td class="cuerpo_tabla_coma">848507</td>
+<td class="cuerpo_tabla_izq">VORIGENO 0.3MG 12 COMPRIMIDOS.</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,385 @@
+---
+title: "Real Decreto 464/2011, de 1 de abril, por el que se aprueba el Estatuto del Instituto Nacional de Administración Pública"
+identifier: "BOE-A-2011-6872"
+eli: "https://www.boe.es/eli/es/rd/2011/04/01/464"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Política Territorial y Administración Pública"
+date: 2011-04-01
+published: 2011-04-16
+in_force_from: 2011-04-17
+last_amended: 2026-06-12
+consolidated: 2026-06-15
+gazette: "Boletín Oficial del Estado núm. 91"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-6872"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 464/2011, de 1 de abril, por el que se aprueba el Estatuto del Instituto Nacional de Administración Pública
+
+Esta norma pasa a denominarse **«Real Decreto 464/2011, de 1 de abril, por el que se aprueba el Estatuto del organismo autónomo Instituto Nacional de Administración Pública****»**, según establece el art. 8.1 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+El Instituto Nacional de Administración Pública (INAP) es un organismo público dedicado a la selección, formación y perfeccionamiento de empleados públicos, así como a la realización de estudios y publicaciones en el ámbito de la Administración y de la Función Pública. Su ya dilatada trayectoria arranca formalmente en 1958, con la creación del Centro de Formación y Perfeccionamiento de Funcionarios. Sin embargo, en realidad sus actividades principian varios años antes, dado que en 1987 fue refundido con el Instituto de Estudios de Administración Local –que había sido creado por Ley en 1940– prosiguiendo las actividades y fines fundacionales de éste. A lo largo de estos más de setenta años de actividades de estudio y formación de funcionarios, el organismo ha pasado por varias etapas y formatos organizativos, estando hasta la fecha su estructura orgánica plasmada en el Real Decreto 1661/2000, de 29 de septiembre, por el que se aprueba el Estatuto del Instituto Nacional de Administración Pública.
+
+Desde su aprobación, esta norma reglamentaria ha sufrido numerosas modificaciones orgánicas de detalle, al tiempo que ha habido mudanza en el régimen de adscripción del organismo al órgano superior correspondiente de la Administración territorial matriz.
+
+En este sentido, la fuerza combinada del Real Decreto 1313/2010, de 20 de octubre, por el que se reestructuran los departamentos ministeriales, y del Real Decreto 1366/2010, de 29 de octubre, por el que se aprueba la estructura orgánica básica de los departamentos ministeriales, supuso la adscripción del Instituto al nuevo Ministerio de Política Territorial y Administración Pública.
+
+Las precitadas circunstancias aconsejaban la promulgación de una disposición reglamentaria que reflejara, de manera armónica y actualizada, la estructura orgánica del veterano organismo, al tiempo que se completaba su necesaria racionalización, simplificación y modernización.
+
+El resultado es una estructura organizativa más clara y sencilla, al tiempo que operativa y dinámica, con la que el Instituto podrá seguir desempeñando sus funciones y cometidos tradicionales con las más altas cotas de excelencia que exige un servicio público de calidad, en el contexto cambiante que suscitan los constantemente renovados retos de nuestro tiempo.
+
+En su virtud, a propuesta del Ministro de Política Territorial y Administración Pública, y previa deliberación del Consejo de Ministros en su reunión del día 1 de abril de 2011,
+
+DISPONGO:
+
+## Artículo único. Aprobación del Estatuto del INAP.
+
+Se aprueba el Estatuto del Instituto Nacional de Administración Pública (INAP), cuyo texto se inserta a continuación.
+
+## Disposición adicional primera. Supresión de órganos y unidades.
+
+1\. Quedan suprimidos los siguientes órganos del INAP con nivel orgánico de subdirección general:
+
+a) La Secretaría General.
+
+b) El Centro de Estudios Superiores de la Función Pública.
+
+c) La Escuela de Selección y Formación.
+
+d) El Centro de Estudios Locales y Territoriales.
+
+2\. Quedan suprimidas las siguientes unidades, con el nivel establecido en la relación de puestos de trabajo del Organismo:
+
+a) El Centro de Nuevas Estrategias de Gobernanza Pública (GOBERNA).
+
+b) El Centro de Cooperación Institucional.
+
+c) El Centro de Publicaciones.
+
+3\. Las referencias del ordenamiento jurídico a los órganos y unidades suprimidos por este real decreto se entenderán realizadas a los que por esta misma norma se crean, los sustituyen o asumen sus competencias.
+
+## Disposición adicional segunda. No incremento del gasto público.
+
+La aprobación del presente real decreto no supondrá, en ningún caso, aumento del gasto público.
+
+## Disposición transitoria única. Unidades y puestos de trabajo con nivel inferior a subdirección general.
+
+1\. Las actuales unidades y puestos de trabajo con nivel inferior a subdirección general continuarán subsistentes y los empleados que los desempeñen serán retribuidos con cargo a los mismos créditos presupuestarios, hasta que se apruebe la relación de puestos de trabajo del organismo, adaptada al estatuto que aprueba este real decreto. Dicha adaptación, en ningún caso, podrá suponer incremento del gasto público.
+
+2\. Las unidades y puestos de trabajo encuadrados en los órganos suprimidos por este real decreto se adscribirán, a través de la oportuna relación de puestos de trabajo, a los órganos que se crean en virtud de esta misma disposición reglamentaria.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente real decreto y, en particular, el Real Decreto 1661/2000, de 29 de septiembre, por el que se aprueba el Estatuto del Instituto Nacional de Administración Pública, con sus modificaciones posteriores.
+
+## Disposición final primera. Facultades de desarrollo.
+
+Se autoriza al Ministro de Política Territorial y Administración Pública a dictar las disposiciones necesarias para el desarrollo del presente real decreto.
+
+## Disposición final segunda. Adaptaciones presupuestarias.
+
+Para dar cumplimiento a lo previsto en este real decreto, se realizarán las modificaciones presupuestarias que sean necesarias de conformidad con lo previsto en la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 1 abril de 2011.
+
+JUAN CARLOS R.
+
+El Vicepresidente Tercero del Gobierno y Ministro de Política Territorial y Administración Pública,
+
+MANUEL CHAVES GONZÁLEZ
+
+## ESTATUTO DEL INSTITUTO NACIONAL DE ADMINISTRACIÓN PÚBLICA
+
+## Artículo 1. Naturaleza y régimen jurídico.
+
+1\. El Instituto Nacional de Administración Pública es un organismo autónomo de los previstos en el artículo 98 la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, adscrito al Ministerio para la Transformación Digital y de la Función Pública, a través de la Secretaría de Estado de Función Pública. Su denominación oficial será la de Instituto Nacional de Administración Pública, O. A.
+
+2\. Como organismo autónomo, el Instituto tiene personalidad jurídica propia, patrimonio y tesorería propios, así como autonomía de gestión, rigiéndose por lo establecido en la Ley 40/2015, de 1 de octubre, en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en la Ley 47/2003, de 26 de noviembre, General Presupuestaria y en las demás disposiciones aplicables a los organismos autónomos vinculados a la Administración General del Estado.
+
+3\. De conformidad con lo preceptuado por el artículo 85 de la Ley 40/2015, de 1 de octubre, y con el fin de evaluar el cumplimiento de sus objetivos y la utilización adecuada de recursos, el Instituto se somete al control de eficacia por parte de la Inspección de Servicios del Departamento de adscripción. De igual forma, se sujeta a la supervisión continua a cargo de la Intervención General de la Administración del Estado en los términos del apartado 3 del mencionado artículo.
+
+> Se modifica por el art. 8.2 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 2. Fines.
+
+Son fines esenciales del Instituto Nacional de Administración Pública, sin perjuicio de las competencias específicas que se reconozcan sobre estas materias a otros centros, institutos o escuelas de la Administración General del Estado, los siguientes:
+
+a) Desarrollar y ejecutar las políticas de selección y de formación de los empleados públicos en el ámbito de sus competencias.
+
+b) Promover y realizar estudios, publicaciones e investigaciones en materias relacionadas con la Administración Pública.
+
+c) Mantener relaciones de cooperación y colaboración con otras Administraciones y centros de formación de empleados públicos, nacionales e internacionales.
+
+## Artículo 3. Funciones.
+
+Son funciones del Instituto:
+
+a) La selección del personal funcionario de los cuerpos y escalas de la Administración General del Estado adscritos a la Secretaría de Estado de Función Pública, así como la participación en otros procesos de selección de cuerpos y escalas, salvo en los supuestos en que estas funciones se encomienden a otros centros especializados.
+
+b) La promoción del aprendizaje a lo largo de la vida profesional, la formación y el perfeccionamiento del personal empleado público de la Administración General del Estado y de sus organismos públicos, así como del resto de entidades del sector público estatal, salvo en los supuestos en que otras disposiciones encomienden estas funciones a otros centros especializados. La formación, en el marco de los planes de formación interadministrativa y en los términos previstos por las disposiciones vigentes, del personal de otras Administraciones. Los cursos selectivos del personal funcionario en prácticas de los cuerpos y escalas de la Administración General del Estado adscritos a la Secretaría de Estado de Función Pública, salvo en los supuestos en que estas funciones se encomienden a otros centros especializados.
+
+c) La formación para el ejercicio de la función directiva pública en la Administración General del Estado y en los organismos públicos de ella dependientes, en colaboración, en su caso, con otros centros de formación especializados. Esta función se realizará a través de la Escuela de Alta Dirección Pública del Estado, adscrita a la Subdirección de Aprendizaje.
+
+d) La selección del personal funcionario de la Escala de Administración Local con habilitación de carácter nacional y los cursos selectivos de dicha escala, de conformidad con lo dispuesto en el Real Decreto 128/2018, de 16 de marzo, por el que se regula el régimen jurídico de los funcionarios de Administración Local con habilitación de carácter nacional, así como la promoción del aprendizaje a lo largo de la vida profesional, la formación y el perfeccionamiento del personal empleado público de las entidades integrantes de la Administración Local, en el marco de los planes de formación interadministrativa y en los términos previstos por las disposiciones vigentes, prestando especial atención a los cursos de formación y perfeccionamiento del personal funcionario de Administración Local con habilitación de carácter nacional.
+
+e) El establecimiento de criterios para que las actividades formativas realizadas por otros centros de formación se homologuen con las acciones formativas del Instituto.
+
+f) La participación en la gestión del Programa de Formación para el Empleo de las Administraciones Públicas, en los términos resultantes de los Acuerdos de Formación para el Empleo de las Administraciones Públicas y de las demás disposiciones de pertinente aplicación.
+
+g) La gestión y ejecución del Programa de Formación para el Empleo de las Administraciones Públicas en la Administración General del Estado, especialmente en lo referente al Sistema Nacional de las Cualificaciones.
+
+h) La coordinación, colaboración y cooperación con los demás centros, institutos o escuelas de la Administración General del Estado o de sus organismos públicos que realicen tareas de selección, formación y perfeccionamiento de personal empleado público.
+
+i) La colaboración y la cooperación en actividades formativas con las escuelas, institutos y centros de formación de personal empleado público de las comunidades autónomas y de las entidades de la Administración Local, así como de sus asociaciones.
+
+j) La promoción y realización de estudios e investigaciones multidisciplinares sobre las instituciones del Estado, de las Administraciones Públicas y de la función pública. Esta función podrá realizarse mediante la colaboración con Universidades, fundaciones y demás instituciones públicas y privadas que puedan contribuir al desarrollo del conocimiento sobre este campo temático, así como a través del Laboratorio de Innovación Pública, un foro permanente de encuentro, debate, análisis, investigación, experimentación, intercambio y colaboración transversal en el ámbito de las políticas y los servicios públicos, adscrito al Centro de Estudios y Gestión del Conocimiento.
+
+k) La edición de publicaciones unitarias y periódicas, relacionadas con la Administración Pública.
+
+l) La concesión de becas, ayudas y premios a las actividades de investigación sobre materias de la Administración Pública en general, y con especial atención a las destinadas a estancias formativas en escuelas de administración pública e instituciones educativas extranjeras a personal empleado público de la Administración General del Estado y sus Organismos Públicos.
+
+m) La gestión de los instrumentos del conocimiento de los que dispone el instituto, incluida la difusión de contenidos, en coordinación con todas sus unidades.
+
+n) La gestión y el mantenimiento de los servicios de biblioteca y documentación propios del Instituto, así como la conservación y acrecentamiento de su patrimonio bibliográfico.
+
+ñ) La participación en la definición de los perfiles de los directivos públicos y el asesoramiento técnico en el desarrollo de las políticas de personal directivo de las Administraciones Públicas.
+
+o) La cooperación técnica internacional, en especial con los países de Iberoamérica, en materia de función pública, desarrollo institucional, políticas públicas, así como en el estudio e investigación de aspectos propios de la Administración Pública.
+
+p) La cooperación con las escuelas e institutos europeos de formación de personal empleado público.
+
+q) La formación de personal funcionario de otros países, especialmente los iberoamericanos, y de organismos internacionales.
+
+r) La adopción de medidas de apoyo al acceso a la función pública y a la promoción interna, en especial a los cuerpos y escalas de la Administración General del Estado adscritos a la Secretaría de Estado de Función Pública, así como al personal funcionario de la Escala de Administración Local con habilitación de carácter nacional, salvo en los supuestos en que otras disposiciones encomienden estas funciones a otros centros especializados.
+
+s) El impulso de la innovación pública en los distintos ámbitos de actuación del Instituto.
+
+> Se modifica por el art. 8.3 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica la letra d) por la disposición final 4.1 del Real Decreto 769/2017, de 28 de julio. [Ref. BOE-A-2017-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9012)
+
+## Artículo 4. Estructura organizativa.
+
+1\. Los órganos de gobierno del Instituto Nacional de Administración Pública son la Presidencia y el Consejo Rector.
+
+2\. El órgano ejecutivo del organismo autónomo es la Dirección.
+
+> Se modifica por el art. 8.4 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 4 bis. De la Presidencia.
+
+1\. La Presidencia del organismo autónomo Instituto Nacional de Administración Pública corresponde a la persona titular de la Secretaría de Estado de Función Pública.
+
+2\. Corresponde a la Presidencia:
+
+a) La alta dirección y la representación del organismo.
+
+b) Presidir el Consejo Rector, ordenando sus correspondientes convocatorias y fijando sus respectivos órdenes del día teniendo en cuenta las peticiones que formulen los miembros.
+
+c) Cualesquiera otras que le correspondan de acuerdo con la normativa vigente.
+
+> Se añade por el art. 8.5 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 5. Del Consejo Rector.
+
+1\. El Consejo Rector del Instituto Nacional de Administración Pública es el órgano colegiado de gobierno del Instituto. Su régimen de funcionamiento es el previsto en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre.
+
+2\. El Consejo Rector estará compuesto por los siguientes miembros:
+
+a) Presidencia: la persona titular la Secretaría de Estado de Función Pública.
+
+b) Vicepresidencia: La persona titular de la Dirección del Instituto Nacional de Administración Pública.
+
+C) Vocalías:
+
+a) La persona titular de la Subsecretaría para la Transformación Digital y de la Función Pública.
+
+b) La persona titular de la Secretaría General Técnica del Ministerio para la Transformación Digital y de la Función Pública.
+
+c) La persona titular de la Dirección General de la Función Pública.
+
+D) Secretaría: La persona titular de la unidad con nivel orgánico de Subdirección General del Instituto Nacional de Administración Pública que designe la persona titular de la Dirección del Organismo.
+
+A propuesta de la Presidencia o Vicepresidencia del Consejo Rector, podrán asistir a las reuniones del mismo, expertos y profesionales de reconocido prestigio en materias relevantes para los objetivos y funciones del Instituto. El número de expertos y profesionales no podrá ser superior al número de miembros del Consejo Rector que asistan a las correspondientes reuniones. Asimismo, no podrán percibir indemnizaciones por asistencia ni, en ningún caso, podrán participar en procesos de aprobación de actos administrativos u otros procesos decisorios.
+
+3\. El Consejo Rector deberá conocer y aprobar:
+
+a) Las directrices generales de actuación del Organismo.
+
+b) La propuesta del plan anual de actuación.
+
+c) La memoria de gestión del Instituto.
+
+d) Los restantes asuntos cuyo conocimiento y aprobación se estime oportunos por el propio Consejo o por la persona titular de la Dirección del Instituto.
+
+4\. Asimismo el Consejo Rector deberá ser informado acerca de:
+
+a) El anteproyecto de presupuesto del Instituto.
+
+b) La liquidación presupuestaria.
+
+c) Los convenios suscritos.
+
+5\. El Consejo se reunirá, con carácter ordinario, una vez al año. La asistencia a sus sesiones no será remunerada.
+
+> Se modifica por el art. 8.6 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica el apartado 2 por la disposición final 4.2 del Real Decreto 769/2017, de 28 de julio. [Ref. BOE-A-2017-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9012)
+
+## Artículo 6. De la Dirección.
+
+1\. La persona titular de la Dirección del Instituto, con nivel orgánico de Dirección General, será nombrada y separada por Real Decreto del Consejo de Ministros a propuesta del titular del Departamento en los términos previstos en el artículo 66 de la Ley 40/2015, de 1 de octubre.
+
+2\. Corresponden a la persona titular de la Dirección las siguientes atribuciones:
+
+a) Ejecutar las políticas del Departamento de adscripción en materia de formación de personal empleado público de la Administración General del Estado y de sus organismos públicos y, cuando proceda, de otras Administraciones públicas.
+
+b) Dirigir, impulsar y coordinar los servicios del Instituto.
+
+c) La representación ordinaria del Instituto en sus relaciones con los organismos públicos y privados.
+
+d) La disposición del gasto y la ordenación de pagos, correspondientes a la ejecución del presupuesto del Instituto.
+
+e) El ejercicio, como órgano de contratación, de las competencias y facultades previstas en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
+
+f) La celebración de convenios y acuerdos con entidades públicas y privadas que sean precisos para el cumplimiento de los fines del Instituto.
+
+g) El otorgamiento de las subvenciones y ayudas públicas que resulten de competencia del Organismo.
+
+h) Ejercer la dirección, gestión y régimen disciplinario del personal que preste servicios en el Instituto.
+
+i) El nombramiento del profesorado que imparta las acciones formativas que organice el Instituto, tanto en España como las que se inscriban en programas de organismos internacionales o de cooperación internacional en los que participe el Instituto.
+
+j) La expedición de diplomas y certificados acreditativos de las actividades docentes efectuadas por el Organismo.
+
+k) El asesoramiento y asistencia al Ministerio para la Transformación Digital y de la Función Pública en la elaboración de los programas ministeriales de actuación en las materias de su competencia.
+
+l) Elevar a la Secretaría de Estado de Función Pública, para su tramitación, el proyecto de presupuesto del organismo, así como las propuestas que estime convenientes para el desarrollo de las actividades del Instituto.
+
+m) Elevar, junto a la persona titular de la Dirección General de la Función Pública, a la Secretaría de Estado de Función Pública, la propuesta de nombramiento de las personas titulares de las vocalías de la Comisión Permanente de Selección.
+
+n) Nombrar y cesar al personal que colaborará temporalmente en el desarrollo de los procesos selectivos que tiene encomendados.
+
+ñ) Interesar y recibir de la Comisión Permanente de Selección la información relativa al desarrollo de las pruebas selectivas que le sean encomendadas.
+
+o) Adoptar, a propuesta de la Comisión Permanente de Selección, las actuaciones pertinentes para un mejor desarrollo de las pruebas selectivas encomendadas a aquella.
+
+p) Dictar las resoluciones e instrucciones de carácter organizativo y de régimen interior precisas para el buen funcionamiento del Instituto.
+
+q) Con carácter general, el ejercicio de las facultades y atribuciones legalmente atribuidas a la presidencia o dirección de los organismos autónomos por la legislación administrativa.
+
+3\. Dependen de la persona titular de la Dirección las siguientes unidades con el nivel determinado en la correspondiente relación de puestos de trabajo:
+
+a) La Unidad de apoyo, que prestará asistencia a la Dirección del Instituto y a la que corresponde la realización de las actividades y trabajos que aquella le encomiende, así como la coordinación en el desarrollo de la planificación estratégica del instituto. Esta unidad asistirá igualmente a la persona titular de la Dirección en la proyección en el exterior del Instituto, con independencia de las funciones técnicas que competen al Centro de Cooperación Internacional en esta materia.
+
+b) El Centro de Estudios y Gestión del Conocimiento, que desempeñará las atribuciones señaladas en los párrafos j), k), l), m), n) y s) del artículo 3.
+
+c) El Centro de Cooperación Internacional, que tiene las atribuciones que se recogen en los párrafos o), p), q) y s) del artículo 3.
+
+4\. Con observancia de los requisitos y límites establecidos en la legislación administrativa, la persona titular de la Dirección del Organismo podrá delegar el ejercicio de alguna de las competencias señaladas en el apartado segundo del presente artículo, en los órganos regulados en el artículo 7 y en las unidades descritas en el apartado anterior.
+
+> Se modifica por el art. 8.7 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifican los apartados 1 y 4 por la disposición final 4.3 del Real Decreto 769/2017, de 28 de julio. [Ref. BOE-A-2017-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9012)
+
+## Artículo 7. Estructura orgánica.
+
+1\. Dependen de la Dirección del Instituto los siguientes órganos con nivel orgánico de subdirección general:
+
+a) La Gerencia.
+
+b) La Subdirección de Aprendizaje.
+
+c) La Subdirección de Formación y Selección Locales.
+
+d) La Subdirección de Selección.
+
+2\. La Gerencia es el órgano al que corresponde la dirección y coordinación de los servicios comunes del Instituto. Su titular, con la denominación de Gerente, ejerce las siguientes atribuciones:
+
+a) La elaboración, seguimiento y ejecución del presupuesto del organismo.
+
+b) La gestión financiera de ingresos y gastos y de tesorería de los créditos presupuestarios del Instituto.
+
+c) La administración de sus bienes patrimoniales.
+
+d) La tramitación de los expedientes de adquisición de bienes y servicios y la habilitación de material.
+
+e) La seguridad, la prevención de riesgos laborales, el régimen interior, asuntos generales y la coordinación e inspección de las unidades y servicios del Instituto.
+
+f) La gestión de los recursos humanos del organismo.
+
+g) La gestión de la política de responsabilidad social de la institución.
+
+h) La gestión de los sistemas informáticos y de comunicaciones.
+
+i) En colaboración con la Subdirección de Aprendizaje y la Subdirección de Formación y Selección Locales, le corresponde el ejercicio de las atribuciones recogidas en los párrafos f) y g) del artículo 3 de este Estatuto, y en colaboración con el resto de centros directivos la atribución que se recoge en el párrafo s) del mismo artículo.
+
+La persona titular de la Gerencia suplirá temporalmente a la persona titular de la Dirección en caso de ausencia, vacante o enfermedad de ésta.
+
+3\. La Subdirección de Aprendizaje tiene las atribuciones que se recogen en los párrafos b), c), e), i), ñ), r) y s) del artículo 3. Asimismo, y en colaboración con la Gerencia del Instituto y la Subdirección de Formación y Selección Locales, le corresponde el ejercicio de las funciones previstas en los párrafos f) y g) del artículo 3. Del mismo modo, colaborará con el Centro de Estudios y Gestión del Conocimiento en el ejercicio de la función prevista en el párrafo j) del artículo 3 en lo relativo a sus competencias, pudiendo asesorar a otras entidades u organismos sobre cuestiones relativas a sus funciones de formación y perfeccionamiento de personal empleado público, en congruencia con lo dispuesto en los apartados b), h), i), p) y q). Asimismo, asistirá a la persona titular de la Dirección del Instituto en el diseño de programas de innovación, certificación y acreditación de la formación, y programas de evaluación.
+
+4\. La Subdirección de Formación y Selección Locales tiene las atribuciones que se recogen en los párrafos d), e), i), r) y s) del artículo 3. Asimismo, y en colaboración con la Gerencia del Instituto y la Subdirección de Aprendizaje, le corresponde el ejercicio de las funciones previstas en los párrafos f) y g) del artículo 3. Del mismo modo, colaborará con el Centro de Estudios y Gestión del Conocimiento en el ejercicio de la función prevista en el párrafo j) del artículo 3 en lo que se refiere a la Administración Local, pudiendo asesorar a otras entidades u organismos sobre cuestiones relativas a sus funciones de selección, formación y perfeccionamiento de personal empleado público local, en congruencia con lo dispuesto en los apartados b), h), i), p) y q).
+
+5\. La Subdirección de Selección tiene las atribuciones señaladas en los párrafos a) y r) del artículo 3 de este Estatuto, sin perjuicio de lo establecido en su artículo 8, así como la que se recoge en el párrafo s). Asimismo, colaborará con el Centro de Estudios y Gestión del Conocimiento en el ejercicio de la función prevista en el párrafo j) del artículo 3 en lo relativo a sus competencias. Del mismo modo, podrá asesorar a otras entidades u organismos sobre cuestiones relativas a sus funciones de selección de personal empleado público, en congruencia con lo dispuesto en los apartados b), h), i), p) y q).
+
+6\. El Instituto Nacional de Administración Pública actuará en coordinación con la Dirección General de Función Pública en el desarrollo de las competencias concurrentes en materia de selección y formación del personal empleado público.
+
+> Se modifica por el art. 8.8 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica por la disposición final 4.4 del Real Decreto 769/2017, de 28 de julio. [Ref. BOE-A-2017-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9012)
+
+## Artículo 8. De la Comisión Permanente de Selección.
+
+1\. La Comisión Permanente de Selección es el órgano colegiado encargado de la realización de los procesos selectivos para ingreso en los cuerpos y escalas de personal funcionario de la Administración General del Estado que se determinan en la Orden HFP/266/2023, de 12 de marzo, por la que se determina la composición y funcionamiento de la Comisión Permanente de Selección, y sus modificaciones posteriores. Está adscrita al Instituto Nacional de Administración Pública.
+
+2\. La Subdirección de Selección del Instituto Nacional de Administración Pública constituye el órgano de apoyo a la Comisión Permanente de Selección en la organización y ejecución de los procesos selectivos encomendados a la misma.
+
+> Se modifica por el art. 8.9 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 9. Régimen de personal.
+
+El personal funcionario o laboral del Instituto Nacional de Administración Pública se regirá por la normativa sobre función pública y legislación laboral aplicable al resto del personal de la Administración General del Estado.
+
+## Artículo 10. Recursos económicos y patrimonio.
+
+1\. Los bienes y medios económicos del Instituto son los siguientes:
+
+a) Los bienes y valores que constituyan su patrimonio, así como los productos y rentas del mismo.
+
+b) Las transferencias y subvenciones que anualmente se consignen en los Presupuestos Generales del Estado, o en los de otros organismos públicos.
+
+c) Los ingresos de derecho público o privado que le correspondan y, en particular, los que procedan del desarrollo de las actividades relacionadas con los fines del Instituto.
+
+d) Las subvenciones, aportaciones voluntarias o donaciones que se otorguen a su favor por personas públicas o privadas.
+
+e) Cualesquiera otros recursos económicos, ordinarios o extraordinarios que esté legalmente autorizado a percibir.
+
+2\. El régimen de sus bienes y derechos será el dispuesto en la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+
+## Artículo 11. Régimen de contratación y celebración de convenios interadministrativos.
+
+1\. El régimen jurídico aplicable para la contratación del organismo autónomo será el establecido en la Ley 9/2017, de 8 de noviembre, y demás normativa de desarrollo.
+
+2\. En el marco del ordenamiento administrativo, y en particular de los artículos 47 y siguientes de la Ley 40/2015, de 1 de octubre, el Instituto Nacional de Administración Pública podrá celebrar convenios con otras Administraciones, Organismos públicos y Entidades de derecho público, para la realización conjunta de actividades propias del Instituto, teniendo en cuenta lo previsto en la Ley 9/2017, de 8 de noviembre, y demás disposiciones aplicables.
+
+> Se modifica por el art. 8.10 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 12. Régimen económico-financiero.
+
+1\. El régimen presupuestario, económico-financiero, de intervención, control financiero y contabilidad del Instituto será el establecido en la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+2\. El Instituto Nacional de Administración Pública estará sometido al control interno de su gestión económico-financiera, que llevará a cabo la Intervención General de la Administración del Estado, a través de la Intervención Delegada que existirá en el citado Instituto.
+
+## Artículo 13. Actos que ponen fin a la vía administrativa y recursos frente a los mismos.
+
+Ponen fin a la vía administrativa todos los actos, acuerdos y resoluciones de la Presidencia, y de la Dirección del Instituto Nacional de Administración Pública, de conformidad con lo establecido en la Ley 40/2015, de 1 de octubre, contra los que cabrá interponer recurso contencioso-administrativo ante el órgano jurisdiccional contencioso-administrativo competente, sin perjuicio de la formulación del recurso potestativo de reposición previsto en la Ley 39/2015, de 1 de octubre.
+
+> Se modifica por el art. 8.11 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)

@@ -1,0 +1,843 @@
+---
+title: "Resolución de 13 de enero de 2021, de la Presidencia de la Agencia Estatal de Administración Tributaria, sobre organización y atribuciones de funciones en el Área de Aduanas e Impuestos Especiales"
+identifier: "BOE-A-2021-591"
+eli: "https://www.boe.es/eli/es/res/2021/01/13/(5)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda"
+date: 2021-01-13
+published: 2021-01-15
+in_force_from: 2021-01-16
+last_amended: 2026-07-03
+consolidated: 2026-07-03
+gazette: "Boletín Oficial del Estado núm. 13"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2021-591"
+retrieved: 2026-10-11
+---
+
+# Resolución de 13 de enero de 2021, de la Presidencia de la Agencia Estatal de Administración Tributaria, sobre organización y atribuciones de funciones en el Área de Aduanas e Impuestos Especiales
+
+La organización territorial y la atribución de funciones en el Área de Aduanas e Impuestos Especiales están reguladas por la Resolución de 28 de julio de 1998, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se estructuran los Servicios de Aduanas e Impuestos Especiales, Dependientes de las Delegaciones Especiales y Delegaciones de la Agencia Estatal de Administración Tributaria.
+
+Aunque el modelo derivado de la indicada Resolución ha sido eficiente hasta el presente, los cambios introducidos por el Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013, por el que se establece el código aduanero de la Unión, y los Reglamentos de la Unión que lo desarrollan y complementan, cuya aplicación efectiva corresponde al Área de Aduanas e Impuestos especiales, exigen una reorganización de la misma para poder seguir haciendo frente de forma eficiente a los retos que tales cambios exigirán a la administración aduanera.
+
+Estos cambios, en sus aspectos más importantes, suponen, por una parte, un incremento de las tareas que las autoridades aduaneras deberán desarrollar para conseguir una aplicación efectiva del sistema aduanero y, por otra, el establecimiento de procedimientos aduaneros en los que deben participar las autoridades de varios Estados miembros.
+
+En relación con el incremento de las tareas, cabe destacar la obligación de reexamen de todas las autorizaciones aduaneras concedidas por cada Estado, que supone la realización sobre cada operador económico que goce de tales autorizaciones de auditorías sobre los aspectos operativos, de solvencia y de competencia técnica en relación con las operaciones aduaneras. Estas auditorías deberán realizarse de forma periódica y con un plazo no superior a tres años.
+
+También se deben destacar, en relación con tal incremento, las tareas derivadas de las autorizaciones sobre garantías, en especial las garantías globales a las que se aplique una reducción o dispensa, ya que la responsabilidad financiera de los recursos propios de la Unión no recaudados corresponde al Estado miembro que las autoriza.
+
+En cuanto a la participación de autoridades de varios Estados miembros en las autorizaciones aduaneras, que es consecuencia de una de las finalidades que fundamentan la aprobación del Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013: la eficiencia del mercado interior de la Unión en relación con la aplicación de la legislación aduanera en el territorio aduanero de ésta, cabría destacar el proceso de implantación de un sistema informático único en el ámbito de la Unión para la gestión y tramitación de las autorizaciones aduaneras.
+
+Estas autorizaciones aduaneras, muchas de ellas ligadas a simplificaciones en los procedimientos aduaneros, exigen una aplicación uniforme de la legislación aduanera que evite posibles conductas anticompetitivas en los distintos puntos de entrada y salida de mercancías de la Unión, como se indica en el considerando 19 del Reglamento anteriormente citado.
+
+Además de los factores indicados, se debe destacar las nuevas cargas de trabajo del Área como consecuencia de la atribución a ésta de la gestión y control de los que podrían denominarse impuestos medioambientales.
+
+El nivel alcanzado por los medios tecnológicos utilizados para la aplicación efectiva del sistema tributario estatal y del aduanero, permite el desarrollo de nuevos modelos de control para hacer de forma más eficiente la aplicación efectiva del sistema aduanero y de los tributos estatales de competencia del área, al permitir potenciar la investigación para la mejora de la lucha contra el fraude y acumular en un solo órgano las tareas de comprobación distintas al procedimiento de declaración o despacho aduanero y que permite, al mismo tiempo, facilitar al operador económico el cumplimiento de sus obligaciones al contar con un único interlocutor.
+
+La ejecución eficiente de los procedimientos, en especial en la esfera territorial, exige establecer un modelo organizativo que estratifique la toma de decisiones en el marco del procedimiento administrativo en el que se desarrolla la aplicación efectiva del sistema tributario estatal y del aduanero en el ámbito competencial de esta Área.
+
+Todos estos factores exigen un cambio en el modelo organizativo del Área en su ámbito central y territorial, para lo cual es preciso su implementación a través de una nueva Resolución reguladora de la organización y atribuciones de funciones en el Área de Aduanas e Impuestos Especiales.
+
+Como una mejora de la regulación de la función inspectora, se integran en la resolución las disposiciones establecidas en la Resolución de 20 de julio de 1992, de la Agencia Estatal de Administración Tributaria, sobre organización y atribución de funciones a la Inspección de los Tributos en el ámbito de las competencias del Departamento de Aduanas e Impuestos Especiales.
+
+Los cambios organizativos más importantes que el nuevo modelo organizativo implementa respecto al vigente son los seguidamente indicados.
+
+En primer lugar, para asegurar una aplicación uniforme y eficiente de la legislación aduanera en materia de autorizaciones, se procede a atribuir la competencia en esta materia al Departamento de Aduanas e Impuestos Especiales cuando en su autorización tenga que intervenir otro u otros Estados miembros, mientras que esta competencia se atribuye a los órganos territoriales en los demás supuestos. Para ello, en la esfera central se constituye un órgano dependiente del titular del Departamento, con la denominación Oficina Nacional de Gestión de Aduanas e Impuestos Especiales, en el que se integran esta competencia y las previstas en relación con los Impuestos Especiales, lo que permite separar la función directiva, propia de todo Departamento, de las funciones gestoras que por eficiencia deben ser de su competencia.
+
+En segundo lugar, para fomentar la función investigadora basada en la utilización de las nuevas tecnologías y poder hacer frente al fraude complejo realizado a través de organizaciones, incluso internacionales, se cuenta con el órgano central Oficina Nacional de Investigación de Aduanas e Impuestos Especiales, dependiente del titular del Departamento de Aduanas e Impuestos Especiales, que aproveche las potencialidades de las nuevas tecnologías y articule de forma eficiente la cooperación internacional, en el ámbito de la Unión y con terceros países, en materia de aduanas y de los tributos de competencia del Departamento. Con este mismo fin, en la esfera territorial se fomenta la creación de unidades especializadas en los procedimientos de investigación. La coordinación de estas unidades a través del órgano central indicado permitirá aumentar la eficiencia en la función investigadora.
+
+En tercer lugar, se concentran bajo un único responsable, a través de un área funcional en el ámbito de las Dependencias Regionales de Aduanas e Impuestos Especiales, las competencias en materia de comprobación a posteriori de las declaraciones aduaneras. Esta concentración aumentará la eficiencia en el control a posteriori de las declaraciones en aduana y permitirá un mejor cumplimiento de las obligaciones de los operadores económicos al contar con un único interlocutor en esta materia. Con la misma finalidad, se han agrupado, en un área funcional de las Dependencias Regionales de Aduanas e Impuestos Especiales, las competencias en materia de intervención de los establecimientos en Impuestos Especiales y las de las Oficinas Gestoras en relación con tales impuestos y en materia de los impuestos denominados medioambientales. No obstante, se debe contemplar en este modelo organizativo la especificidad en el control a posteriori de determinados beneficios arancelarios concedidos a la importación de productos de las Islas Canarias y de las ayudas por la introducción de tales productos procedentes del resto del territorio aduanero de la Unión Europea. Así, el control a posteriori de las declaraciones en aduana, en el marco de las competencias del Área de Aduanas e Impuestos Especiales, de estos beneficios y ayudas corresponderá, con independencia del domicilio fiscal del beneficiario, a la Dependencia Regional de Aduanas e Impuestos Especiales de la Delegación Especial de la Agencia Estatal de Administración Tributaria de Canarias, por motivos de eficiencia.
+
+Frente a este proceso de regionalización de las funciones y competencias ligadas a la comprobación a posteriori de las declaraciones en aduana o de las autoliquidaciones de los tributos del sistema estatal de competencia del Departamento, se debe mantener una estructura local en materia de aduanas ligada al lugar de entrada y depósito temporal de las mercancías o de los lugares de carga de éstas para su exportación, con la finalidad de dar cumplimiento a las misiones ligadas a la protección y seguridad de los ciudadanos de la Unión y de su territorio y a la lucha contra el tráfico ilícito de mercancías y el fomento del comercio lícito. Estas misiones son impuestas a las autoridades aduaneras en el artículo 3 del Reglamento (UE) n.º 952/2013, de 9 de octubre de 2013. Por ello, se crean las sedes desconcentradas de las Dependencias Regionales de Aduanas e Impuestos Especiales, salvo en el supuesto de no existir Delegación de la Agencia en la provincia correspondiente, en cuyo caso tales funciones serán realizadas por los Inspectores Coordinadores y los Técnicos Jefes de Aduanas e Impuestos Especiales, y se mantienen las Administraciones de Aduanas e Impuestos Especiales, con la modificación de competencias indicada en los párrafos anteriores.
+
+En cuarto lugar, en un proceso gradual de mejora del control de las declaraciones en aduana en el momento del despacho aduanero, se atribuye a las sedes desconcentradas de las Dependencias Regionales y Administraciones de Aduanas e Impuestos Especiales una competencia en el ámbito nacional para, en un primer momento, el despacho documental de tales declaraciones, cuando su control no suponga modificación de los datos declarados por el interesado. No obstante, esta competencia no se extiende a las Islas Canarias y las Ciudades Autónomas de Ceuta y Melilla, por sus propias características.
+
+En quinto lugar, para hacer frente de forma eficiente a las nuevas cargas de trabajo que el código aduanero de la Unión y los nuevos impuestos relacionados con el medio ambiente han introducido, cuya aplicación efectiva corresponde al Departamento de Aduanas e Impuestos Especiales, y para mejorar el nivel de seguridad y control de las mercancías en el momento de su entrada en el territorio aduanero de la Unión y en el momento de su despacho aduanero, se hace necesaria una desconcentración de competencias en relación con las fases del procedimiento administrativo. Así, en el nuevo modelo organizativo se prevé que, en cada uno de los órganos constituidos por la Dependencia Regional, sus sedes desconcentradas y sus administraciones de Aduanas e Impuestos Especiales, puedan existir Equipos y Unidades, a los que se atribuyen funciones en relación con las fases del procedimiento administrativo, siendo competentes para la firma de los actos que correspondan, salvo en el procedimiento inspector al que le es de aplicación lo previsto en su normativa específica. Así, los Equipos serán competentes para el inicio, en su caso, la instrucción y la resolución de los procedimientos en relación con las materias que se encomienden, salvo en relación con la función inspectora. Las Unidades serán responsables del inicio, en su caso, de la instrucción, formulando la correspondiente propuesta de resolución. Los Equipos y Unidades tendrán las mismas competencias en relación con los procedimientos sancionadores que se puedan derivar de los procedimientos administrativos de los que entiendan.
+
+En sexto lugar, en el Área Regional de Vigilancia Aduanera se introduce un cambio, por motivos de eficiencia, para centralizar funciones de dirección y gestión de unidades y de medios del ámbito territorial por el Departamento de Aduanas de Impuestos Especiales, con base en la competencia prevista en el artículo 7.2.i) de la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias. Además, se actualiza la descripción de las funciones de este Área Regional, para clarificar el modelo organizativo.
+
+Por último, el modelo de organización del Área de Aduanas e Impuestos Especiales que se regula se aplicará en cada Delegación Especial de la Agencia Estatal de Administración Tributaria en función de la actividad de comercio exterior y del volumen de las actividades relacionadas con los tributos de competencia del Área. Así, las Áreas Regionales podrán integrarse bajo una misma dirección o, cuando no existan, sus competencias serán asumidas por la Dependencia Regional, sin perjuicio de que, en estos supuestos, pueda realizarse una distribución de las mismas entre las sedes desconcentradas de la Dependencia Regional de Aduanas e Impuestos Especiales que la integren o los Inspectores Coordinadores o Técnicos Jefes de Aduanas e Impuestos Especiales. Cuando no existan equipos en alguno de los órganos sus competencias serán asumidas por el titular del Área Regional o sede desconcentrada de la Dependencia Regional o Administración de Aduanas e Impuestos Especiales correspondiente. Por último, en el supuesto de inexistencia de órganos en una Dependencia Regional, en el ámbito de la función inspectora, los titulares de ésta desarrollarán las funciones de instrucción, correspondiendo dictar la liquidación al titular de otra Dependencia Regional.
+
+Realizados los cambios necesarios en el artículo 7 de la Orden PRE/3581/2007, de 10 de diciembre, para la implantación del nuevo modelo organizativo del Área de Aduanas e Impuestos Especiales, se precisa su desarrollo a través de la correspondiente disposición normativa.
+
+En virtud de lo expuesto y en uso de la habilitación conferida por el apartado decimoquinto de la Orden de 2 de junio de 1994, dictada en desarrollo del número 5 del apartado once del artículo 103 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, dispongo:
+
+## Primero. Órganos del Área de Aduanas e Impuestos Especiales.
+
+1\. Los órganos indicados en los apartados 2 y 3 son los competentes para la aplicación del sistema aduanero, para la recaudación en periodo voluntario de las deudas aduaneras y tributarias derivadas del procedimiento de declaración en materia aduanera y de la concesión de facilidades de pago previstas en los artículos 110 y 111 del Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013, por el que se establece el código aduanero de la Unión (en adelante, CAU), para el desarrollo de los procedimientos de gestión tributaria y de inspección tributaria en el ámbito de los tributos cuya competencia sea atribuida al Departamento de Aduanas e Impuestos Especiales; así como para el desarrollo de las misiones en materia de contrabando y de resguardo fiscal y aduanero y de la función estadística del comercio exterior, sin perjuicio de las competencias atribuidas en estas materias a la Delegación Central de Grandes Contribuyentes.
+
+2\. En la esfera central y respecto a todo el territorio español y a las aguas y espacio aéreo de jurisdicción, son órganos centrales del Área:
+
+a) El Departamento de Aduanas e Impuestos Especiales, como órgano directivo del Área.
+
+b) La Oficina Nacional de Gestión de Aduanas e Impuestos Especiales, y los Equipos y las Unidades en ella integrados, que dependerá directamente del titular del Departamento.
+
+c) La Oficina Nacional de Investigación de Aduanas e Impuestos Especiales, y los Equipos y las Unidades en ella integrados, que dependerá directamente del titular del Departamento.
+
+d) La Dependencia de Control Tributario y Aduanero de la Delegación Central de Grandes Contribuyentes.
+
+3\. Son órganos territoriales del Área de Aduanas e Impuestos Especiales las Dependencias Regionales y sus sedes desconcentradas en las respectivas Delegaciones, las Administraciones de Aduanas e Impuestos Especiales y los equipos y unidades que, en su caso, las integren y a quienes se le atribuyan competencias en la presente resolución. Sus competencias se extenderán, cualquiera que sea su sede, a todo el ámbito territorial de la Delegación Especial de la Agencia Estatal de Administración Tributaria (en adelante Delegación Especial de la Agencia) en que estén integradas, a las aguas marítimas de jurisdicción española que se encuentren frente a su costa y al espacio aéreo sobre el territorio indicado, sin perjuicio de lo que disponga la normativa específica que regula las materias de competencias del Área y lo previsto en la presente resolución.
+
+4\. Además de los órganos citados en el punto 2 anterior, existirá en el Departamento de Aduanas e Impuestos Especiales, dependiendo directamente de su titular, una Unidad de Coordinación y Apoyo, a cargo de un Inspector de Hacienda, que desempeñará las funciones de coordinación, apoyo, información, tramitación y asesoramiento que el titular del Departamento le encomiende, sin perjuicio de las funciones y competencias atribuidas a la Dirección Adjunta, Subdirecciones Generales y Oficinas Nacionales integradas en aquél.
+
+> Se modifica el punto 1 por el art. único.1 de la Resolución de 23 de junio de 2026. [Ref. BOE-A-2026-14430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14430)
+
+> Se añade el punto 4 por la disposición final 2.1 de la Resolución de 5 de febrero de 2024. [Ref. BOE-A-2024-2323](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2323)
+
+## Segundo. Órganos Centrales del Área de Aduanas e Impuestos Especiales.
+
+1\. Oficina Nacional de Gestión de Aduanas e Impuestos Especiales.
+
+a) Son competencia de la Oficina Nacional de Gestión de Aduanas e Impuestos Especiales:
+
+1.º Las previstas en el artículo 7.1.e) de la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias, salvo las indicadas en sus números 13.º, 16.º, 19.º, 30.º, 31.º y, en relación con los números anteriores, las previstas en el número 33.º
+
+2.º Las siguientes funciones en el ámbito de las atribuidas al Departamento de Aduanas e Impuestos Especiales, sin perjuicio de las funciones de coordinación atribuidas al Servicio de Planificación y Relaciones Institucionales:
+
+El diseño, especificación y propuesta de mejora de las herramientas de asistencia al contribuyente. Estas funciones se deberán ajustar a las pautas comunes establecidas por el Servicio de Planificación y Relaciones Institucionales en colaboración con el Departamento de Informática Tributaria.
+
+La remisión de las directrices y de los criterios de actuación en materia de información y asistencia de su competencia, a realizar por las Administraciones de asistencia Digital Integral y por el resto de servicios territoriales.
+
+La formación de los empleados públicos en materia de información y asistencia.
+
+La coordinación de la información y asistencia no presencial con los servicios de información y asistencia presencial que correspondan a las Dependencias Regionales de Aduanas e Impuestos Especiales.
+
+La difusión de información en materia de Aduanas, Impuestos Especiales y Medioambientales y la contestación de solicitudes de información formuladas por escrito.
+
+3.º La instrucción del procedimiento para la autorización previa de la exención temporal a que se refiere el artículo 5 del Reglamento (UE) 2026/261 del Parlamento Europeo y del Consejo, de 26 de enero de 2026, sobre la eliminación progresiva de las importaciones de gas natural ruso y la preparación de la eliminación progresiva de las importaciones de petróleo ruso, la mejora del seguimiento de las posibles dependencias energéticas y por el que se modifica el Reglamento (UE) 2017/1938.
+
+No se aplicará lo previsto en el párrafo anterior en el caso de que España designe, de conformidad con lo previsto en el artículo 7.1 del Reglamento (UE) 2026/261, de 26 de enero de 2026, a una autoridad distinta de la autoridad aduanera como autoridad encargada de la autorización.
+
+4.º La asignación del número de registro e identificación de los operadores económicos (en adelante, número EORI) a los operadores económicos no establecidos en el territorio aduanero de la Unión Europea cuando presenten por primera vez una solicitud de autorización de su competencia o una solicitud de intervención de marca.
+
+5.º La autorización para la presentación de la declaración-liquidación centralizada a que se refiere el artículo 73.3.c) del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre, por sujetos pasivos cuya base imponible de las operaciones asimiladas a las importaciones realizadas durante el año natural precedente no hubiera superado el importe señalado en el artículo octavo de la Orden EHA/1308/2005, de 11 de mayo, por la que se aprueba el modelo 380 de declaración-liquidación del Impuesto sobre el Valor Añadido, se determinan el lugar, forma y plazo de presentación, así como las condiciones generales y el procedimiento para su presentación por medios telemáticos.
+
+b) La Oficina Nacional de Gestión de Aduanas e Impuestos Especiales dirigida por su titular, asistido por un Adjunto(a), estará integrada por las Áreas que en cada caso se determinen por el titular del Departamento de Aduanas e Impuestos Especiales.
+
+Las Áreas, dirigidas por sus respectivos titulares, podrán estar integradas por los Equipos y Unidades de Aduanas e Impuestos Especiales que en cada caso se determinen, que podrán estar situados en alguna de las sedes de una Delegación Especial concreta o en la de una Administración de Aduanas e Impuestos Especiales.
+
+c) Los Equipos de Aduanas e Impuestos Especiales integrados en las Áreas podrán realizar las siguientes actuaciones:
+
+1.º Las de inicio, instrucción y resolución de las autorizaciones de su competencia.
+
+2.º Las propias de los procedimientos de revaluación o reexamen establecidos en la legislación aduanera de su competencia.
+
+3.º Las propias de los procedimientos de anulación, revocación o suspensión derivadas de las actuaciones del número anterior en materia aduanera.
+
+4.º Las de inicio e instrucción de los expedientes sancionadores que pudieran derivarse de las actuaciones a ellos encomendadas.
+
+d) Las Unidades de Aduanas e Impuestos Especiales integradas en las Áreas podrán realizar las siguientes actuaciones:
+
+1.º Las de inicio e instrucción de los procedimientos de las autorizaciones, incluida la propuesta de resolución.
+
+2.º Las de instrucción de los procedimientos de revaluación o reexamen, anulación, revocación o suspensión de las autorizaciones, incluida la propuesta de resolución.
+
+3.º Cualquier otra tarea de tramitación de un procedimiento que se les encomiende.
+
+e) En los casos de ausencia, vacante o enfermedad del titular de la Oficina Nacional de Gestión de Aduanas e Impuestos Especiales, éste será sustituido por su Adjunto y, en su defecto, por quién designe el titular del Departamento.
+
+2\. Oficina Nacional de Investigación de Aduanas e Impuestos Especiales.
+
+a) A la Oficina Nacional de Investigación de Aduanas e Impuestos Especiales le corresponden, de entre las atribuidas al Departamento de Aduanas e Impuestos Especiales en el artículo 7 de la Orden PRE/3581/2007, de 10 de diciembre, las siguientes competencias:
+
+1.º La investigación centralizada del fraude en materia de aplicación del sistema aduanero y de los tributos del ámbito de competencia del Departamento de Aduanas e Impuestos Especiales, incluyendo la coordinación con las Dependencias Regionales de Aduanas e Impuestos Especiales en actuaciones de esta naturaleza.
+
+2.º La realización directa de actuaciones inspectoras, así como la realización de actuaciones de control en relación con la Política Agrícola Común en el ámbito de las competencias del Departamento de Aduanas e Impuestos Especiales.
+
+3.º La realización de actuaciones de obtención de información.
+
+4.º La dirección, control, coordinación, impulso y, en su caso, ejecución de las investigaciones, del Área de Aduanas e Impuestos Especiales cuando trasciendan el ámbito de la respectiva Delegación Especial de la Agencia Tributaria o el territorio nacional, o bien deban coordinarse con otras Áreas de la Agencia Estatal de Administración Tributaria, unidades centrales de otros organismos nacionales o con organismos internacionales o agencias extranjeras, distintas de las investigaciones de competencia de Vigilancia Aduanera.
+
+5.º El ejercicio de las actuaciones derivadas del cumplimiento de la normativa de la Unión Europea referida a la asistencia mutua o de convenios en la materia suscritos por España o por la Unión Europea o que puedan derivarse de Acuerdos de política comercial firmados por la Unión Europea y los Estados miembros o por la primera en ejercicio de sus competencias exclusivas.
+
+6.º El inicio, instrucción y resolución de los procedimientos sancionadores que se deriven de las actuaciones y procedimientos desarrollados en el ejercicio de las competencias de los números anteriores, incluidos los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo. Esta última competencia se extenderá, en su caso, a todos los que hubiesen sido parte en la operación de pago.
+
+b) La Oficina Nacional de Investigación de Aduanas e Impuestos Especiales dirigida por su titular, asistido por un Adjunto(a), estará integrada por las Áreas que en cada caso se determinen por el titular del Departamento de Aduanas e Impuestos Especiales.
+
+Las Áreas, dirigidas por sus respectivos titulares, podrán estar integradas por Equipos y Unidades de Aduanas e Impuestos Especiales, que podrán estar situados en las sedes de una Delegación Especial concreta.
+
+c) Los Equipos de Aduanas e Impuestos Especiales integrados en las Áreas podrán realizar:
+
+1.º Las actuaciones propias del procedimiento de inspección, previo acuerdo de adscripción del obligado tributario o aduanero a la Oficina Nacional de Investigación de Aduanas e Impuestos Especiales dictado por el titular del Departamento de Aduanas e Impuestos Especiales a propuesta del titular de la Oficina, y oída a la Delegación Central de Grandes Contribuyentes o a la Delegación Especial de la Agencia Tributaria competentes en relación con dicho obligado.
+
+2.º Sobre cualquier obligado, las actuaciones de obtención de información que estén relacionadas con los tributos del ámbito de competencia del Departamento de Aduanas e Impuestos Especiales, con la aplicación del sistema aduanero o con la asistencia mutua internacional en la materia.
+
+3.º Las actuaciones de inicio e instrucción de los procedimientos sancionadores derivados de las actuaciones inspectoras y de obtención de información desarrolladas por los Equipos integrados en las distintas Áreas de la Oficina Nacional de Investigación.
+
+d) Las Unidades de Aduanas e Impuestos Especiales integradas en las Áreas podrán realizar:
+
+1.º Las tareas de instrucción de los procedimientos de inspección e investigación que se les encomiende.
+
+2.º Las tareas de instrucción de los procedimientos sancionadores, incluida la propuesta de resolución.
+
+3.º Cualquier otra tarea de tramitación de un procedimiento que se les encomiende.
+
+e) La Oficina Nacional de Investigación de Aduanas e Impuestos Especiales podrá requerir el apoyo de la Subdirección General de Operaciones para la realización de las actuaciones operativas y de investigación necesarias con el fin de coadyuvar al cumplimiento de los objetivos asignados y el buen fin de las investigaciones de la Oficina. Tal apoyo será realizado, con carácter estable y de forma preferente, por funcionarios especializados que serán designados por el titular de la indicada Subdirección para el desarrollo de tales misiones de apoyo y sin perjuicio de la incorporación de otros funcionarios a tal fin en función de las necesidades de cada investigación.
+
+f) En el desarrollo de las funciones de inspección e investigación, el titular de la Oficina Nacional de Investigación de Aduanas e Impuestos Especiales y su adjunto(a) tendrán la consideración de Inspector Jefe.
+
+g) En los casos de ausencia, vacante o enfermedad del titular de la Oficina Nacional de Investigación de Aduanas e Impuestos Especiales, éste será sustituido, por el Adjunto y, en su defecto, por quien designe el titular del Departamento.
+
+> Se modifica el punto 1.a) por el art. único.2 de la Resolución de 23 de junio de 2026. [Ref. BOE-A-2026-14430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14430)
+
+> Se modifica el punto 1.a).2º por la disposición final 2.2 de la Resolución de 5 de febrero de 2024. [Ref. BOE-A-2024-2323](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2323)
+
+> Se modifica el punto 1.c) por la disposición final 1.1 de la Resolución de 25 de febrero de 2021. [Ref. BOE-A-2021-3306](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-3306)
+
+## Tercero. Dependencias Regionales de Aduanas e Impuestos Especiales.
+
+1\. En todas las Delegaciones Especiales de la Agencia Tributaria, bajo la dependencia del titular de la Delegación Especial, existirá una Dependencia Regional de Aduanas e Impuestos Especiales, que tendrá a su cargo las siguientes funciones:
+
+a) Las actuaciones y procedimientos de gestión aduanera y tributaria necesarios para la aplicación del sistema aduanero, de los Impuestos Especiales y demás tributos de competencia del Departamento de Aduanas e Impuestos Especiales, así como las de coordinación, planificación y asistencia técnica a los órganos del Área de Aduanas e Impuestos Especiales situados en su ámbito territorial.
+
+b) La contracción y recaudación, en vía voluntaria, de la deuda aduanera y de otros tributos gestionados por el área de Aduanas e Impuestos Especiales notificadas con el levante en el supuesto previsto en el artículo 102.2 del CAU, así como la contracción de la deuda aduanera en cualquier otro supuesto, incluida la gestión y comprobación de las garantías aportadas en aquellos casos en que sea obligatoria su constitución, así como acordar, cuando sea procedente, su devolución o cancelación.
+
+c) Las actuaciones de vigilancia y control de las mercancías que entren en el territorio aduanero de la Unión, que estén en situación de depósito temporal o sujetas a vigilancia aduanera por estar vinculadas a un régimen aduanero o que se encuentren en los establecimientos aduaneros o fiscales sujetos a su control a los efectos de dar cumplimiento de las misiones de las autoridades aduaneras que se establecen en el artículo 3 del Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013.
+
+d) Las de autorización previstas en la legislación aduanera y que no están atribuidas a otros órganos por la normativa aplicable; así como su reevaluación o reexamen; tramitando, en su caso, los procedimientos para la suspensión, invalidación o revocación de aquéllas, así como de las autorizaciones de los regímenes fiscales.
+
+e) La inspección de los tributos, beneficios y restituciones cuya comprobación e investigación esté atribuida o se atribuya por la normativa vigente al Departamento de Aduanas e Impuestos Especiales. El ejercicio de esta función incluirá el desarrollo de los procedimientos de recuperación de ayudas de Estado en supuestos de regularización de los elementos de la obligación tributaria.
+
+f) La intervención de las actividades y locales, en los términos previstos por la normativa de los Impuestos Especiales.
+
+g) El desarrollo, en el ámbito regional, de las funciones de represión del fraude fiscal y aduanero.
+
+h) El desarrollo, en el ámbito regional, de las funciones que se encomienden a Vigilancia Aduanera en el ámbito de la persecución, investigación y descubrimiento del fraude.
+
+i) Las de investigación e información relacionadas con las funciones de la Dependencia.
+
+j) Las actuaciones y procedimientos para la gestión del Registro de Operadores de Tabaco Crudo y para el control a los efectos previstos en la disposición adicional primera de la Ley 11/2021 de 9 de julio, de medidas de prevención y lucha contra el fraude fiscal, de transposición de la Directiva (UE) 2016/1164, del Consejo, de 12 de julio de 2016, por la que se establecen normas contra las prácticas de elusión fiscal que inciden directamente en el funcionamiento del mercado interior, de modificación de diversas normas tributarias y en materia de regulación del juego.
+
+k) La iniciación, instrucción y resolución de los procedimientos derivados del ejercicio de las funciones anteriormente indicadas y de los procedimientos sancionadores que de tales actuaciones, así como de las actuaciones previstas en la letra m), se puedan derivar.
+
+l) La iniciación, instrucción y resolución de los expedientes sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo que se pongan de manifiesto como consecuencia de las actuaciones y procedimientos realizados por los órganos, equipos, unidades administrativas o funcionarios que integran los servicios territoriales de Aduanas e Impuestos Especiales en su ámbito territorial.
+
+La competencia se extenderá, en su caso, a todos los que hubieran sido parte en la operación de pago de efectivo, aunque no tuvieran esa condición en la actuación o procedimiento que la pone de manifiesto.
+
+m) La iniciación, tramitación y resolución del procedimiento para el reconocimiento del derecho a la devolución de ingresos indebidos en los supuestos del artículo 221.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria, de conformidad con lo dispuesto en los artículos 17 a 19 del Reglamento General de desarrollo de la Ley 58/2003, de 17 de diciembre, General Tributaria, en materia de revisión en vía administrativa, aprobado por el Real Decreto 520/2005, de 13 de mayo, cuando se trate de ingresos correspondientes a deudas para cuya recaudación sea competente un órgano de la Dependencia Regional de Aduanas e Impuestos Especiales.
+
+2\. Las Dependencias Regionales de Aduanas e Impuestos Especiales, que actuarán bajo la superior dirección del titular de la misma, podrán organizarse internamente, en atención a su dimensión y a las necesidades del servicio, conforme a las siguientes áreas funcionales de actividad:
+
+a) Área Regional de Control e Investigación.
+
+b) Área Regional de Gestión Aduanera.
+
+c) Área Regional de Gestión e Intervención de Impuestos Especiales.
+
+d) Área Regional de Vigilancia Aduanera.
+
+e) Área Regional Químico-Tecnológica.
+
+3\. En el ámbito territorial de la provincia y directamente dependientes de la Dependencia Regional, podrán existir sedes desconcentradas de dicha Dependencia y Administraciones de Aduanas e Impuestos Especiales para el desarrollo de las funciones previstas en el apartado décimo y undécimo.
+
+4\. Al frente de cada Área existirá un Adjunto al titular de la Dependencia Regional. No obstante, en función del volumen de tareas y de las necesidades del servicio, un Adjunto podrá ser el titular de varias Áreas.
+
+5\. Para el desarrollo de las funciones de su competencia, la Dependencia Regional podrá contar con Equipos y Unidades de Aduanas e Impuestos Especiales y unidades de Vigilancia Aduanera directamente dependientes de su titular o de los titulares de las Áreas o de los demás órganos en ella existentes.
+
+> Se modifica el punto 1 por el art. único.3 de la Resolución de 23 de junio de 2026. [Ref. BOE-A-2026-14430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14430)
+
+> Se modifica el punto 1 por el apartado único.1 de la Resolución de 21 de marzo de 2022. [Ref. BOE-A-2022-4742](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4742)
+
+## Cuarto. Jefatura de las Dependencias Regionales de Aduanas e Impuestos Especiales.
+
+1\. El titular de la Dependencia Regional de Aduanas e Impuestos Especiales, dependiendo directamente del respectivo Delegado Especial de la Agencia, asumirá las siguientes funciones y competencias:
+
+a) El desarrollo de todas las funciones inherentes a la dirección inmediata de la Dependencia Regional, incluidas las de coordinación, impulso, control y jefatura de su personal.
+
+b) La coordinación técnica y la distribución de tareas y funciones entre las Áreas, las sedes desconcentradas, los Inspectores Regionales adjuntos o los Técnicos Jefes de Aduanas e Impuestos Especiales del apartado décimo.3 y las Administraciones de Aduanas e Impuestos Especiales que integran la Dependencia Regional, en el marco de las competencias que se atribuyen a cada uno de tales órganos en la presente resolución.
+
+c) La relación, en materia de Aduanas e Impuestos Especiales, con los servicios y órganos centrales de inspección e investigación o responsables de las unidades operativas de investigación. Asimismo, tendrán atribuida la relación con las restantes Dependencias Regionales de Aduanas e Impuestos Especiales a los efectos de completar, suscitar o coordinar actuaciones en supuestos concretos. Igualmente, ejercerán la coordinación con otros servicios de la Administración competentes en materias afines a las que son de competencia de la Dependencia Regional.
+
+d) La iniciación, en su caso, la instrucción y la resolución de los procedimientos previstos en las letras k) y l) del apartado tercero.1, siempre que estas funciones no estuviesen atribuidas a un órgano inferior que exista en la correspondiente Dependencia Regional.
+
+En el caso de que la normativa reguladora del procedimiento establezca acuerdo de inicio, en éste se podrá indicar el órgano, equipo o unidad administrativa o funcionario que instruirá el procedimiento correspondiente.
+
+En el supuesto de inicio del procedimiento a instancia del interesado, la instrucción se desarrollará por el órgano que corresponda, en base a la distribución de tareas y funciones.
+
+e) El acuerdo de devolución de las garantías constituidas en la Caja General de Depósitos que se hubiesen constituido en aplicación de la legislación aduanera y de Impuestos Especiales o para la suspensión de actos en el marco del recurso de reposición.
+
+f) Las previstas en los apartados décimo o undécimo cuando los órganos en ellos previstos no estén constituidos en la Dependencia Regional.
+
+g) La relación con las restantes áreas de la Agencia Tributaria, en el ámbito de su respectiva Delegación Especial.
+
+h) La asistencia al titular de la Delegación Especial de la Agencia Tributaria y la representación del mismo, en los términos que éste ordene, ante las autoridades y organismos oficiales con competencias en materias relacionadas con los cometidos de la Dependencia Regional.
+
+2\. En los casos de ausencia, vacante o enfermedad de su titular, éste será sustituido:
+
+a) Por el titular de una de las tres primeras áreas del apartado tercero.2 y en el orden en él indicado.
+
+b) En defecto de lo dispuesto en la letra a), por quien designe el titular de la Delegación Especial entre funcionarios del Cuerpo Superior de Inspectores de Hacienda del Estado adscritos a la Dependencia Regional de Aduanas e Impuestos Especiales de que se trate.
+
+c) En defecto de lo dispuesto en las letras a) y b), la persona titular de la Dirección del Departamento de Aduanas e Impuestos Especiales podrá designar a un funcionario del Cuerpo Superior de Inspectores de Hacienda del Estado adscrito a otra Dependencia Regional de Aduanas e Impuestos Especiales. Dicha designación requerirá el informe favorable de las personas titulares de las Delegaciones Especiales afectadas.
+
+> Se modifica el punto 2 por el art. único.4 de la Resolución de 23 de junio de 2026. [Ref. BOE-A-2026-14430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14430)
+
+> Se modifica el punto 1.b) y d) por el apartado único.2 y 3 de la Resolución de 21 de marzo de 2022. [Ref. BOE-A-2022-4742](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4742)
+
+## Quinto. Área Regional de Control e Investigación.
+
+1\. Las Áreas Regionales de Control e Investigación realizarán las siguientes funciones:
+
+a) Las relativas a la comprobación a posteriori de los tributos sobre el comercio exterior, con independencia de que su ejercicio se realice en el marco de procedimientos de gestión o inspección de los tributos.
+
+b) Las funciones atribuidas a la inspección de los tributos no comprendidas en la letra a) anterior, cuya competencia corresponde al Departamento de Aduanas e Impuestos Especiales, salvo las desarrolladas en el marco de la intervención de los Impuestos Especiales.
+
+c) Las de investigación tendentes a determinar modalidades concretas de fraude fiscal y de contrabando y sus métodos de realización, evaluar el riesgo en relación con actividades o sectores económicos, así como la realización de estudios, análisis y demás actuaciones que permitan la detección de las distintas fórmulas de fraude fiscal y de contrabando, sin perjuicio de que puedan desarrollar otras actuaciones que se les encomienden.
+
+d) Las de investigación del cumplimiento de la normativa distinta de la aduanera, que deba aplicar la autoridad aduanera en el marco de las misiones previstas en el artículo 3 del CAU, incluida la normativa relativa a la imposición de sanciones internacionales en las que fuese competente la autoridad aduanera respecto de importación, exportación, tránsito y demás operaciones de comercio exterior de mercancías.
+
+e) Asimismo, se podrán realizar las actuaciones de colaboración y asistencia solicitadas por otras Dependencias Regionales de Aduanas e Impuestos Especiales o por el Departamento de Aduanas e Impuestos Especiales y el auxilio judicial que le encomiende el Delegado Especial de la Agencia Tributaria o dicho Departamento.
+
+f) Las relativas a los procedimientos sancionadores derivados de los procedimientos de comprobación y de investigación realizados en el marco de las competencias de las letras anteriores, sin perjuicio de lo establecido en el apartado décimo.1.k).
+
+g) La de liquidación de la deuda aduanera derivada del delito contra la Hacienda Pública y del delito de contrabando.
+
+h) La iniciación, tramitación y resolución de los procedimientos de condonación o devolución en los casos previstos en el artículo 116.1 del CAU, siempre que se refieran a deudas liquidadas por los órganos del Área Regional de Control e Investigación.
+
+2\. El Área de Control e Investigación podrá estar integrada por Equipos y Unidades de Control y por Equipos de Investigación, por la Oficina Técnica y por la Unidad de Planificación y Selección.
+
+a) Los Equipos de Control podrán realizar:
+
+1.º En relación con los tributos sobre el comercio exterior, las actuaciones propias de los procedimientos de comprobación, tanto en vía de gestión como en vía de inspección, en el marco de la comprobación a posteriori de las declaraciones en aduana.
+
+2.º En relación con los demás tributos cuya competencia corresponde al Departamento de Aduanas e Impuestos Especiales, no comprendidos en el número anterior, las funciones atribuidas a la inspección, salvo las de intervención en materia de Impuestos Especiales de Fabricación.
+
+3.º Los procedimientos sancionadores que se deriven de las actuaciones previstas en los números anteriores.
+
+b) Las Unidades de Control podrán realizar:
+
+1.º En relación con los tributos sobre el comercio exterior, las actuaciones propias de los procedimientos de comprobación en vía de gestión, en el marco de la comprobación a posteriori de las declaraciones en aduana.
+
+2.º En relación con los demás tributos cuya competencia corresponde al Departamento de Aduanas e Impuestos Especiales, no comprendidos en el número anterior, y en el marco del procedimiento inspector, las actuaciones propias del procedimiento de comprobación limitada en el marco de la función inspectora, las actuaciones de inspección de alcance parcial y aquéllas actuaciones de inspección de alcance general que se les encomiende, en función de los criterios definidos por el titular del Departamento de Aduanas e Impuestos Especiales.
+
+3.º Los procedimientos sancionadores que se deriven de las actuaciones previstas en los números anteriores.
+
+c) Los Equipos de Investigación podrán realizar:
+
+1.º Las funciones previstas en el apartado 1.c) anterior, que se corresponden con el desarrollo de actuaciones tendentes a determinar modalidades concretas de fraude fiscal y sus métodos de realización, evaluar el riesgo fiscal en relación con actividades o sectores económicos, así como la realización de estudios, análisis y demás actuaciones que permitan la detección de las distintas fórmulas de fraude fiscal, sin perjuicio de que puedan desarrollar otras actuaciones que se les encomienden.
+
+2.º Las actuaciones de investigación se coordinarán con la Oficina Nacional de Investigación del Departamento de Aduanas e Impuestos Especiales y, cuando proceda, con la Dependencia Regional de Inspección de la Delegación Especial en que esté integrada la Dependencia Regional de Aduanas e Impuestos Especiales.
+
+3\. Corresponde a la Oficina Técnica la asistencia y apoyo en todas aquellas cuestiones relativas a funciones de esta Área Regional. Además, le corresponde el análisis, estudio y propuesta de resolución de los expedientes administrativos que le sean encomendados por el titular del Área.
+
+La Oficina Técnica podrá estar integrada por su titular, los Inspectores de Hacienda, los Técnicos de Hacienda, y demás personal que en cada momento se determine por el Jefe de la Dependencia Regional.
+
+4\. Corresponde a la Unidad de Planificación y Selección la asistencia al titular del Área en la elaboración de los planes de control tributario en las materias de competencia del Área Regional, en el control de su cumplimiento y en la realización de estudios y estadísticas de apoyo a la planificación. Asimismo, le corresponde: la captación de datos; el análisis, contraste y verificación de la información obtenida por la Dependencia Regional por cualquier medio y la valoración de los resultados obtenidos en estas operaciones en orden a su trascendencia tributaria y aduanera; la determinación sectorial o individual de los obligados tributarios respecto de los que se considere conveniente el inicio de actuaciones de comprobación e investigación; y, en general, todas aquellas que sean necesarias para la adecuada planificación de las actuaciones, selección de contribuyentes y control del cumplimiento de planes y programas. Excepcionalmente, y por necesidades del servicio, esta Unidad podrá desarrollar actuaciones de comprobación e investigación.
+
+La Unidad de Planificación y Selección podrá estar integrada por su titular, los Inspectores de Hacienda, los Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal que en cada momento se determine por el titular de la Dependencia Regional.
+
+5\. Firma de actas:
+
+a) Las actas de Inspección serán firmadas, sin perjuicio de lo establecido en las letras siguientes, por el titular del Equipo o Unidad que haya realizado las actuaciones inspectoras, en función de los criterios definidos por el Departamento de Aduanas e Impuestos Especiales.
+
+b) Asignación de firma de las propuestas de regularización.
+
+La asignación de firma supone la autorización del titular del Equipo o de la Unidad para que el actuario que hubiera desarrollado la totalidad de las actuaciones previas a la formalización de las actas pueda firmarlas con el obligado o su representante. El otorgamiento de la asignación de firma implica que el titular del Equipo o de la Unidad expresa su conformidad con el contenido de las actas.
+
+El titular de un Equipo podrá asignar la firma de las propuestas de regularización resultantes de las actuaciones de comprobación e investigación a los Inspectores de Hacienda, así como a los Técnicos de Hacienda que no ocupen puestos de entrada siempre que, en ambos casos, hubieran realizado de manera efectiva la totalidad de las actuaciones previas a la formalización de las actas.
+
+Asimismo, los Jefes de Unidad podrán asignar la firma de las propuestas de regularización resultantes de las actuaciones de comprobación e investigación a los funcionarios de la Unidad que ocupen puestos de Técnico de Hacienda distintos de los de entrada y que hubieran realizado de manera efectiva la totalidad de las actuaciones previas a la formalización de las actas.
+
+No podrá asignarse la firma a los Técnicos de Hacienda cuando se aprecie en el expediente alguna circunstancia que determine una especial dificultad sobrevenida conforme a los criterios definidos por el Departamento de Aduanas e Impuestos Especiales.
+
+Sin perjuicio del ejercicio de las funciones de dirección y control que corresponden al titular del Equipo o de la Unidad durante el desarrollo de las actuaciones de comprobación e investigación, la asignación de firma sólo procederá tras efectuar un análisis detallado del contenido de la propuesta de regularización, los documentos, pruebas y alegaciones que obren en el expediente y las precisiones que, en su caso, requiera el Jefe de Equipo o de Unidad del actuario. Si el Jefe de Equipo o de Unidad no estuviera conforme con la propuesta de regularización sometida a su consideración por entender que no es correcta, asumirá él la firma de las actas en que se documente la propuesta de regularización que estime procedente, que serán redactadas de acuerdo con sus instrucciones.
+
+La asignación de firma debe ser anterior o simultánea a la suscripción del acta y se adjuntará a ésta.
+
+Cuando se haya encomendado a un Inspector de Hacienda o a un Técnico de Hacienda la realización de la totalidad de las actuaciones previas a la formalización de las actas sobre un determinado obligado tributario y no se haya asignado la firma, firmará las actas en todo caso el titular del Equipo o de la Unidad, pudiendo asimismo firmarlas el funcionario citado.
+
+6\. En aquellas Dependencias Regionales en las que no exista Equipo o Unidad de Control, será su titular el que realizará y suscribirá las propuestas de regularización aplicando los criterios indicados en el apartado anterior. Los actos derivados de dichas propuestas de regularización serán acordados por los Jefes de Dependencia Regional que se determinen por Resolución del titular del Departamento de Aduanas e Impuestos Especiales.
+
+7\. Cuando las investigaciones así lo requieran y durante el plazo que duren las mismas, podrá contarse con la colaboración de funcionarios de Vigilancia Aduanera.
+
+8\. Para una mayor eficiencia en el desarrollo de sus actividades y por razones de cercanía a los obligados tributarios o instalaciones comerciales o industriales, las Dependencias Regionales de Aduanas e Impuestos Especiales podrán contar con Equipos o Unidades de Control situadas en localidades diferentes a la de la sede principal de la Delegación Especial.
+
+9\. En los casos de ausencia, vacante o enfermedad del titular del Área, éste será sustituido por quién designe el titular de la Dependencia Regional.
+
+10\. En el desarrollo de las funciones de inspección o investigación, el titular del Área de Control e Investigación tendrá la consideración de Inspector Jefe.
+
+> Se modifica el punto 1 por el art. único.5 de la Resolución de 23 de junio de 2026. [Ref. BOE-A-2026-14430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14430)
+
+## Sexto. Área Regional de Gestión Aduanera.
+
+1\. Las Áreas Regionales de Gestión Aduanera desempeñarán las siguientes funciones:
+
+a) Las de autorización previstas en la legislación aduanera, o en otra normativa que atribuya la competencia para su concesión a las autoridades aduaneras, y que no estén atribuidas a otros órganos por la normativa aplicable; así como su reevaluación o reexamen y, en su caso, las relativas a su anulación, suspensión o revocación. También les corresponderá el ejercicio de la potestad sancionadora que de tales procedimientos se pudiese derivar, así como las autorizaciones de los regímenes fiscales en materia del Impuesto sobre el Valor Añadido en operaciones de comercio exterior o a ellas asimiladas.
+
+Cuando concurran razones de organización o planificación, de acuerdo con lo dispuesto en el artículo 59.4 del Reglamento general de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, la persona titular del Departamento de Aduanas e Impuestos Especiales podrá acordar que las competencias a que se refiere el párrafo anterior sean ejercidas por la Oficina Nacional de Gestión de Aduanas e Impuestos Especiales, oídas las personas titulares de la Dependencia Regional y de la Oficina Nacional.
+
+Dicho acuerdo deberá expresar las razones que lo justifican e informar con precisión de la modificación competencial adoptada. La Oficina Nacional de Gestión de Aduanas e Impuestos Especiales deberá notificar el acuerdo a los interesados que, por el ejercicio de las competencias atribuidas mediante el mismo, resulten afectados por la modificación competencial. Contra el acuerdo de la persona titular del Departamento de Aduanas e Impuestos Especiales no cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento.
+
+b) La coordinación de las actuaciones de gestión aduanera y de asistencia técnica a las sedes desconcentradas de la Dependencia Regional, a los Inspectores Regionales adjuntos o Técnicos Jefes del apartado decimo.3 y Administraciones de Aduanas e Impuestos Especiales, cuando así lo determine el titular de la Dependencia Regional.
+
+c) La coordinación, en el ámbito territorial de la Dependencia Regional, de aquellas tareas desarrolladas por los Resguardos Fiscal y Aduanero en el desempeño de sus funciones en materia aduanera.
+
+d) La asignación del número EORI a los operadores económicos establecidos en el territorio aduanero de la Unión Europea, así como a los no establecidos en dicho territorio, cuando presenten por primera vez una solicitud de decisión de acuerdo con el artículo 9.2 del CAU, salvo en los casos en que sea competencia de la Oficina Nacional de Gestión de Aduanas e Impuestos Especiales.
+
+2\. El Área de Gestión Aduanera podrá estar integrada por Equipos y Unidades de Aduanas e Impuestos Especiales para el desarrollo de las actividades del apartado 1.a), con las competencias previstas en el apartado duodécimo.
+
+3\. Para una mayor eficiencia en el desarrollo de sus actividades y por razones de cercanía a los contribuyentes, las Dependencias Regionales de Aduanas e Impuestos Especiales podrán contar con Equipos o Unidades de Aduanas e Impuestos Especiales situados en localidades diferentes a la de la sede principal de la Delegación Especial.
+
+4\. En los casos de ausencia, vacante o enfermedad del titular del Área, éste será sustituido por quién designe el titular de la Dependencia Regional.
+
+> Se modifica el punto 1 por el art. único.6 de la Resolución de 23 de junio de 2026. [Ref. BOE-A-2026-14430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14430)
+
+> Se modifica el punto 1.b) por el apartado único.4 de la Resolución de 21 de marzo de 2022. [Ref. BOE-A-2022-4742](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4742)
+
+## Séptimo. Área Regional de Gestión e Intervención de Impuestos Especiales.
+
+1\. Las Áreas Regionales de Gestión e Intervención de Impuestos Especiales realizarán las funciones seguidamente indicadas en relación con los tributos de competencia del Área de Aduanas e Impuestos Especiales distintos a los que graven operaciones de comercio exterior:
+
+a) Las propias de las Oficinas Gestoras de Impuestos Especiales radicadas en el ámbito territorial de la Dependencia Regional que no estuviesen atribuidas a la Oficina Nacional de Gestión de Aduanas e Impuestos Especiales.
+
+b) Las de gestión de los demás tributos atribuidos a esta Área Regional, así como la gestión del Registro de Operadores de Tabaco Crudo y las de control a los efectos previstos en la disposición adicional primera de la Ley 11/2021, de 9 de julio.
+
+c) Las interventoras en relación con las actividades y locales sujetos a este procedimiento de control, incluyendo las de liquidación tributaria en el marco del procedimiento de inspección tributaria.
+
+d) Las de liquidación tributaria en el marco del procedimiento de gestión tributaria que corresponda.
+
+e) El ejercicio de la potestad sancionadora que se pueda derivar de las actuaciones de los procedimientos de intervención, gestión y control de las letras anteriores, salvo en relación con los expedientes sancionadores que se deriven del régimen sancionador previsto en la Ley 11/2021, de 9 de julio, que se limita a su iniciación e instrucción.
+
+f) Las de informe que sean exigidas por la normativa vigente o solicitadas por otro órgano de la Administración en relación con los procedimientos de aplicación de los tributos de esta Área.
+
+g) La coordinación y asistencia técnica en relación con las actuaciones de gestión tributaria en materia de impuestos especiales o del resto de impuestos de esta Área Regional cuando fuesen encomendadas por el titular de la Dependencia Regional a las sedes desconcentradas de la misma o a los Inspectores Regionales adjuntos o a los Técnicos Jefes de Gestión de Aduanas e Impuestos Especiales del apartado décimo.3.
+
+h) La realización de las comprobaciones previstas en los apartados 3 y 6 del artículo 5 del Reglamento del Impuesto sobre los Gases de Efecto Invernadero, aprobado por el Real Decreto 712/2022, de 30 de agosto, así como cualesquiera otras comprobaciones o controles en materia de gestión del impuesto.
+
+2\. El Área de Gestión e Intervención de Impuestos Especiales podrá estar integrada por Equipos y Unidades de Aduanas e Impuestos Especiales, que ejercerán el control de las actividades y locales sometidos a intervención y las funciones de gestión de los tributos de competencia del Departamento de Aduanas e Impuestos Especiales distintos a los que graven operaciones de comercio exterior.
+
+3\. Los titulares de los Equipos y las Unidades de Aduanas e Impuestos Especiales ejercerán las competencias previstas en el apartado duodécimo.
+
+En la firma de las actas de inspección que se extiendan en el marco de la función interventora, se aplicará lo previsto en materia de firma de éstas en el apartado quinto.5 de esta resolución.
+
+La liquidación tributaria derivada de un procedimiento de gestión tributaria corresponderá al titular del Equipo de Aduanas e Impuestos Especiales, mientras que la derivada de un procedimiento de inspección al titular del Área. La resolución de los expedientes sancionadores le corresponde al órgano que dicte la liquidación.
+
+4\. El titular del Área tendrá la consideración de Inspector Jefe en relación con la función interventora y con las liquidaciones que de ella se deriven. En aquellas Dependencias Regionales en las que no exista Equipo o Unidad de Aduanas e Impuestos Especiales, será su titular el que realizará las actuaciones propias de esta función y suscribirá las propuestas de regularización aplicando los criterios indicados en el apartado quinto.5. En estos casos, resolverá el titular de la Dependencia Regional que se determine por Resolución del titular del Departamento de Aduanas e Impuestos Especiales.
+
+5\. Para una mayor eficiencia en el desarrollo de sus tareas y por razones de cercanía a las actividades o locales sujetos a intervención o al domicilio fiscal de los obligados sobre los que ejerza sus competencias de gestión tributaria, las Dependencias Regionales de Aduanas e Impuestos Especiales podrán contar con Equipos o Unidades de Aduanas e Impuestos Especiales situados en localidades diferentes a la de la sede principal de la Delegación Especial.
+
+6\. Las actividades de Equipos y Unidades de Aduanas e Impuestos Especiales, en el ejercicio de la función de Intervención de Impuestos Especiales, se sujetarán al principio de planificación, que determinará los objetivos concretos de su actuación según la naturaleza, importancia económica y riesgos previsibles en las actividades sometidas a este tipo de control.
+
+7\. En los casos de ausencia, vacante o enfermedad del titular del Área, éste será sustituido por quién designe el titular de la Dependencia Regional.
+
+> Se modifica la letra h) del punto 1 por el art. único.7 de la Resolución de 23 de junio de 2026. [Ref. BOE-A-2026-14430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14430)
+
+> Se añade la letra h) al punto 1 por la disposición final 2.3 de la Resolución de 5 de febrero de 2024. [Ref. BOE-A-2024-2323](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2323)
+
+> Se modifica el punto 1 por el apartado único.5 de la Resolución de 21 de marzo de 2022. [Ref. BOE-A-2022-4742](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4742)
+
+## Octavo. Área Regional de Vigilancia Aduanera.
+
+1\. Las Áreas Regionales de Vigilancia Aduanera, bajo la dependencia directa del titular de la Dependencia Regional, tienen atribuidas las siguientes funciones:
+
+a) Las actuaciones operativas y de inteligencia encaminadas al descubrimiento, persecución y represión del contrabando y el blanqueo de capitales, así como al aseguramiento de la cadena logística internacional que se desarrollen en el ámbito de la Dependencia Regional correspondiente.
+
+b) La ejecución de las actividades de investigación y control que le sean encomendadas por el titular de la Dependencia Regional de Aduanas e Impuestos Especiales.
+
+c) El desarrollo de las funciones que se encomienden a Vigilancia Aduanera en aplicación del artículo 56.trece.2 de Ley 66/1997, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
+
+d) La dirección de las operaciones aeronavales que se desarrollen en zonas marítimas del ámbito de la Dependencia Regional correspondiente. No obstante, cuando las operaciones se desarrollen en zonas marítimas que se extiendan al ámbito de más de una Dependencia Regional o cuando, con independencia del ámbito de las operaciones aeronavales, así lo acuerde el titular del Departamento de Aduanas e Impuestos Especiales por existir razones de eficiencia administrativa que lo aconsejen, la dirección de las operaciones aeronavales se realizará directamente por la Subdirección General de Operaciones, a cuyos efectos podrán destinarse funcionarios dependientes de dicha Subdirección en sedes de Delegaciones Especiales que tengan medios aeronavales asignados.
+
+e) La coordinación y gestión de los medios aéreos, navales, terrestres, de radiocomunicaciones y cualesquiera otros medios materiales asignados, así como el mantenimiento de su estado. No obstante, cuando así lo acuerde el titular del Departamento de Aduanas e Impuestos Especiales por existir razones de eficiencia administrativa que lo aconsejen, la Subdirección General de Logística podrá asumir directamente la gestión logística de los medios asignados a una o varias Dependencias Regionales, a cuyos efectos podrán destinarse funcionarios dependientes de dicha Subdirección en sedes de Delegaciones Especiales que tengan medios aeronavales asignados.
+
+f) La coordinación de las unidades combinadas, unidades operativas y bases marítimas de Vigilancia Aduanera radicadas en el ámbito territorial de la Delegación Especial. No obstante, cuando la dirección, coordinación y gestión de los medios asignados a una o varias Dependencias Regionales se lleven a cabo directamente por la Subdirección General de Logística o por la Subdirección General de Operaciones, conforme a las letras d) y e), serán éstas las que coordinen las unidades combinadas, unidades operativas y bases marítimas de las mismas.
+
+g) La colaboración con el Área Regional de Gestión e Intervención de Impuestos Especiales en el control de las obligaciones de los operadores y transportistas de tabaco crudo previstas en la disposición adicional primera de la Ley 11/2021, de 9 de julio.
+
+2\. En el ámbito de la función de investigación de Vigilancia Aduanera, ésta podrá desarrollarse, bajo la dependencia del Jefe del Área Regional de Vigilancia Aduanera, Jefe de la Unidad Regional Operativa, Jefe de Unidad Combinada o Jefe de Unidad Operativa, a través de unidades funcionales de rango inferior a las citadas.
+
+3\. Las Dependencias Regionales de Aduanas e Impuestos Especiales que tengan asignados medios navales dispondrán de bases marítimas para el estacionamiento y custodia de los mismos, así como de los equipos y pertrechos de las naves y de sus tripulaciones.
+
+4\. Para el desarrollo de las funciones previstas en el apartado 1.b) anterior en el ámbito de competencias de la Dependencia Regional de Aduanas e Impuestos Especiales, el titular de ésta podrá adoptar las medidas necesarias para procurar la adecuada colaboración del Área Regional de Vigilancia Aduanera con las demás Áreas de la Dependencia Regional de Aduanas e Impuestos Especiales. En particular, podrá:
+
+a) Acordar la realización de investigaciones conjuntas con el Área de Control e Investigación, cuando la complejidad de las mismas así lo requiera.
+
+b) Acordar la realización por el Área Regional de Vigilancia Aduanera de actuaciones concretas en el marco de los procedimientos de aplicación de los tributos que se lleven a cabo por el Área de Control e Investigación, por el Área de Gestión Aduanera o por el Área de Gestión e Intervención de Impuestos Especiales, en la medida en que existan razones justificadas que aconsejen dichas actuaciones.
+
+c) Acordar, con carácter indefinido o temporal, la colaboración de funcionarios del Área Regional de Vigilancia Aduanera para la realización de actuaciones de intervención de Impuestos Especiales de Fabricación.
+
+5\. Las Dependencias Regionales de Aduanas e Impuestos Especiales podrán contar con unidades de Vigilancia Aduanera situados en localidades diferentes a la de la sede principal de la Delegación Especial.
+
+6\. Cuando por motivos operativos sea aconsejable la realización de actuaciones de Vigilancia Aduanera fuera del ámbito territorial de la Dependencia Regional, la actuación deberá autorizarse por el Departamento de Aduanas e Impuestos Especiales.
+
+7\. Cuando las funciones anteriores se desarrollen en relación con mercancías sujetas a vigilancia aduanera o en establecimientos aduaneros cuyo control corresponde a una sede desconcentrada de la Dependencia Regional o Administración de Aduanas e Impuestos Especiales, aquéllas se realizarán bajo la dirección funcional de los titulares de tales órganos o del titular del equipo o unidad competente o del Inspector Regional adjunto o Técnico Jefe del apartado décimo.3 manteniendo, en todo caso, su dependencia orgánica del titular de este Área Regional, incluso aunque dichas funciones constituyan la actividad principal de los funcionarios de Vigilancia Aduanera que las lleven a cabo.
+
+8\. En los casos de ausencia, vacante o enfermedad del titular del Área Regional de Vigilancia Aduanera, será sustituido por el Jefe de la Unidad Regional Operativa o, en su defecto, por quién designe el titular de la Dependencia Regional.
+
+> Se modifica la letra b) del punto 4 por la disposición final 2.4 de la Resolución de 5 de febrero de 2024. [Ref. BOE-A-2024-2323](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2323)
+
+> Se añade la letra g) al punto 1 y se modifica el punto 7 por el apartado único.6 y 7 de la Resolución de 21 de marzo de 2022. [Ref. BOE-A-2022-4742](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4742)
+
+## Noveno. Área Regional Químico-Tecnológica.
+
+1\. Las Áreas Regionales Químico-Tecnológicas tendrán a su cargo los Laboratorios de Aduanas e Impuestos Especiales de aquellas Dependencias Regionales que dispongan de éstos y realizarán las siguientes funciones:
+
+a) Teniendo en cuenta las directrices dictadas por el Departamento de Aduanas e Impuestos Especiales, establecer los criterios para la toma de muestras en las actuaciones de control de la Dependencia Regional.
+
+b) La emisión de informes químico-tecnológicos sobre mercancías sujetas a la normativa de Comercio Exterior, Política Agrícola Común o Impuestos Especiales que le soliciten el resto de los órganos del Área de Aduanas e Impuestos Especiales.
+
+c) La emisión de informes en relación con las memorias técnicas o descriptivas presentadas por los operadores en las Oficinas Gestoras de Impuestos Especiales pertenecientes a la Dependencia Regional sobre procesos productivos y supuestos de no sujeción, exención, devolución y perfeccionamiento fiscal.
+
+d) La emisión de informes en relación con materias químico-tecnológicas relativas a autorizaciones de regímenes aduaneros especiales.
+
+e) El asesoramiento al resto de órganos de la Dependencia Regional en actuaciones de inspección, investigación e intervención relacionadas con la composición y características químico-tecnológicas de las mercancías o el control de las operaciones de fabricación.
+
+f) La emisión de los dictámenes producto de los análisis químico-tecnológicos relacionados con las actuaciones de control de las materias de competencia de este Departamento que se le encomienden.
+
+g) La realización, cuando así se le encomiende, de los análisis químico-tecnológicos que sirvan de base a los estudios o a los asesoramientos que se deban emitir en base a lo previsto en las letras anteriores.
+
+2\. En los casos de ausencia, vacante o enfermedad del titular del Área, éste será sustituido por el Director del Laboratorio de él dependiente y, en su defecto, por el Profesor Químico que designe el titular de la Dependencia Regional. En el supuesto del titular del laboratorio, éste será sustituido por el Profesor Químico que el titular de la Dependencia Regional designe.
+
+## Décimo. Sedes desconcentradas de las Dependencias Regionales de Aduanas e Impuestos Especiales.
+
+1\. Las sedes desconcentradas de las Dependencias Regionales de Aduanas e Impuestos Especiales, actuando bajo la jefatura de un Inspector Regional Adjunto o un Técnico Jefe de Gestión de Aduanas e Impuestos Especiales y en los términos que resulten de la distribución de tareas y funciones acordada por éstos, ejercerán las siguientes funciones:
+
+a) Las atribuidas por la presente resolución a las Administraciones de Aduanas e Impuestos Especiales en relación con los recintos y demás establecimientos aduaneros que, preferentemente, se encuentren en el ámbito territorial de la provincia en la que tenga su sede.
+
+A los efectos de esta resolución se entiende por recinto aduanero el lugar delimitado geográficamente y autorizado por el Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria para la presentación de mercancías, a los efectos de los artículos 135, 141 y 267.1 del CAU.
+
+b) El control del funcionamiento de los establecimientos autorizados conforme a la normativa aduanera y fiscal que, preferentemente, se encuentren en el ámbito territorial de la provincia en la que tenga su sede, realizando los procedimientos de comprobación que correspondan y el control de la mercancía bajo vigilancia y control aduanero en ellos existente.
+
+c) En el marco de las competencias de control de las zonas francas, la autorización de la construcción de inmuebles, el registro de las actividades de tipo industrial, comercial o de prestación de servicios prevista en el artículo 244.3 del CAU y la prohibición del ejercicio de una actividad a las personas en las que concurra el supuesto previsto en el citado artículo 244.3.
+
+d) Los controles aduaneros sobre las mercancías que, preferentemente, se encuentren en el ámbito territorial de la provincia en la que tengan su sede y que estén sujetas a vigilancia aduanera en el marco de un régimen aduanero especial o cuando existan indicios que puedan poner en duda el estatuto aduanero de la Unión de una mercancía.
+
+e) La supervisión, gestión y el control de la ultimación de los regímenes aduaneros especiales, salvo el régimen de tránsito.
+
+No obstante lo anterior, corresponderá a la Administración de Aduanas e Impuestos Especiales de La Línea de la Concepción la supervisión, la gestión y el control de la ultimación de los regímenes aduaneros especiales en relación con la entrada o salida de mercancías de Gibraltar, de conformidad con el Acuerdo relativo a Gibraltar entre la Unión Europea y la Comunidad Europea de la Energía Atómica, por un lado, y el Reino Unido de Gran Bretaña e Irlanda del Norte, por el otro.
+
+f) La gestión y control de la rectificación de las declaraciones siguientes:
+
+1.º Las declaraciones en aduana, incluida la tramitación y resolución de las devoluciones o condonaciones de derechos que pudieran derivarse de dicha rectificación, salvo en los supuestos previstos en el apartado undécimo.1.d).
+
+2.º La declaración mensual prevista en el artículo 167 bis.Cuatro de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
+
+3.º Las declaraciones-liquidaciones a las que se refiere el artículo 73.3 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
+
+g) La gestión de las declaraciones de Intrastat.
+
+h) Cualesquiera otras, con excepción de las previstas en las letras e) y f) del apartado tercero.1, que le asigne el titular de la Dependencia Regional de Aduanas e Impuestos Especiales, en especial las competencias relacionadas con las autorizaciones a las que se refiere el apartado sexto.1.a), las propias de la oficina gestora de los Impuestos Especiales o las de comprobación a posteriori de declaraciones en aduana por procedimientos distintos a los de inspección de los tributos, cuando en la Dependencia Regional no exista el Área Regional correspondiente.
+
+i) El desarrollo de los procedimientos de liquidación de deuda aduanera y de los demás tributos de competencia del Departamento de Aduanas e Impuestos Especiales que se puedan derivar de las letras anteriores.
+
+j) El inicio, instrucción y resolución de los procedimientos sancionadores de naturaleza administrativa o tributaria que se deriven de las actuaciones enumeradas en las letras anteriores, así como de los procedimientos a los que se refieren las letras ñ) y o), salvo atribución expresa por la normativa específica a otro órgano.
+
+k) El inicio, instrucción y resolución de los expedientes sancionadores por infracción administrativa de contrabando, tal y como se establece en las disposiciones de desarrollo de la Ley Orgánica de Represión del Contrabando, así como el procedimiento de gestión tributaria que proceda para la liquidación de la deuda aduanera y de los demás tributos que puedan derivarse de los hechos que constituyen o están relacionados con este tipo de expedientes sancionadores.
+
+l) Las funciones de impulso, planificación, coordinación y control en relación con el personal de las unidades integrados parcial o totalmente en un Área Regional, bajo la dirección del titular de ésta.
+
+m) La planificación y dirección de las actuaciones de los Resguardos Fiscal y Aduanero en el ámbito territorial de la provincia en la que tenga su sede.
+
+n) El asesoramiento y asistencia, en los términos que en cada caso se determine, al titular de la Delegación de la Agencia en materia de Aduanas e Impuestos Especiales.
+
+ñ) La iniciación, tramitación y resolución de los procedimientos de condonación o devolución en los casos previstos en el artículo 116.1 del CAU, siempre que se refieran a deudas liquidadas por las sedes desconcentradas.
+
+o) La iniciación, tramitación y resolución del procedimiento para el reconocimiento del derecho a la devolución de ingresos indebidos en los supuestos del artículo 221.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria, de conformidad con lo dispuesto en los artículos 17 a 19 del Reglamento General de desarrollo de la Ley 58/2003, de 17 de diciembre, General Tributaria, en materia de revisión en vía administrativa, aprobado por el Real Decreto 520/2005, de 13 de mayo, cuando se trate de ingresos correspondientes a deudas para cuya recaudación sea competente la sede desconcentrada.
+
+2\. En la sede de toda Delegación de la Agencia podrá existir una sede desconcentrada de la Dependencia Regional de Aduanas e Impuestos Especiales, salvo:
+
+a) En el caso de las Delegaciones de la Agencia de Girona, Lleida y Gipuzkoa en las que su sede estará en La Jonquera, La Farga de Moles e Irún, respectivamente.
+
+b) En la provincia de Cádiz, además de la sede en la Delegación de la Agencia Tributaria, existirá otra sede en Algeciras.
+
+3\. En Barcelona, Bizkaia, Las Palmas, Sevilla y Valencia, provincias en las que no existe Delegación de la Agencia, podrá existir un Inspector Regional Adjunto, integrado en la correspondiente Dependencia Regional, al que se atribuyen las funciones y competencias a las que se refiere este apartado. En Madrid, estas funciones y competencias serán asumidas por el Área Regional de Gestión Aduanera, cuyo titular podrá estar asistido por un Inspector Coordinador que tendrá la condición de Jefe de Equipo en relación con las funciones que se le encomienden.
+
+En A Coruña, Asturias, Badajoz, Cantabria, Illes Balears, Murcia, Navarra, Toledo, Valladolid y Zaragoza, donde tampoco existe Delegación de la Agencia, podrá existir un Técnico Jefe de Gestión de Aduanas e Impuestos Especiales, al que se atribuyen las funciones y competencias de este apartado.
+
+4\. Las funciones anteriormente indicadas serán desarrolladas por Equipos y Unidades de Aduanas e Impuestos Especiales en función de la distribución de tareas y funciones que realice el titular de la sede desconcentrada, el Inspector Regional Adjunto o el Técnico Jefe de Gestión de Aduanas e Impuestos Especiales; en su defecto, serán asumidas por éstos. Los Inspectores Regionales Adjuntos podrán estar asistidos por Inspectores Coordinadores que tendrán la condición de Jefe de Equipo en relación con las funciones que aquellos les encomienden.
+
+Para una mayor eficiencia en el desarrollo de sus actividades y por razones de cercanía a los contribuyentes, las sedes desconcentradas de las Dependencias Regionales de Aduanas e Impuestos Especiales podrán contar con Equipos o Unidades de Aduanas e Impuestos Especiales situados en los recintos aduaneros habilitados adscritos a dichas sedes desconcentradas de acuerdo con la resolución dictada al efecto.
+
+5\. En los casos de ausencia, vacante o enfermedad de su titular, este será sustituido por el funcionario que designe el titular de la Dependencia Regional.
+
+> Se modifica por el art. único.8 de la Resolución de 23 de junio de 2026. [Ref. BOE-A-2026-14430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14430)
+
+> Se modifica por el apartado único.8 de la Resolución de 21 de marzo de 2022. [Ref. BOE-A-2022-4742](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4742)
+
+## Undécimo. Administraciones de Aduanas e Impuestos Especiales.
+
+1\. Las Administraciones de Aduanas e Impuestos Especiales, actuando conforme a las directrices y criterios de actuación establecidos por el titular de la Dependencia Regional de Aduanas e Impuestos Especiales, y en los términos que resulten de la distribución de tareas y funciones acordada por éste, realizarán las siguientes funciones:
+
+a) La vigilancia y control de las mercancías introducidas en los establecimientos aduaneros a ella adscritos, así como las que se hallen dentro del recinto aduanero, hasta su salida de los mismos, incluyendo los equipajes que transporten los viajeros.
+
+b) La gestión y comprobación de las declaraciones sumarias de entrada y declaraciones de depósito temporal, declaración previa de salida o declaración sumaria de salida y notificación de reexportación, manifiestos de carga y prueba de estatuto aduanero de la mercancía, así como el inicio, instrucción y resolución de los procedimientos administrativos sancionadores que de ellas se deriven; realizando, en relación con las declaraciones indicadas, el control de seguridad de las mercancías y de los medios de transporte que las conducen, practicando, en su caso, los controles intrusivos o no intrusivos con base en el análisis de riesgo.
+
+c) La autorización del régimen solicitado en las declaraciones en aduana, incluyendo, en su caso, la autorización de los regímenes aduaneros especiales que puedan solicitarse por medio de declaración. La emisión de los certificados de origen que procedan y su rectificación, procediendo, en su caso, la rectificación de las declaraciones en aduana con base en la que se emitan aquellos.
+
+d) La tramitación y resolución del procedimiento iniciado por declaración, tanto en relación a la declaración en aduana como a la declaración de reexportación, y del procedimiento para la invalidación de las mismas, así como el relativo a su rectificación después del levante cuando la misma se refiera a los bultos, a la localización de la mercancía, al peso bruto, al peso neto, al documento precedente o previo, al documento de transporte o a la información relativa al contenedor o al medio de transporte o al número de matrícula o se trate de una declaración en aduanas de tránsito. En el supuesto de incluir la solicitud la rectificación de otros datos, la rectificación se tramitará por dos procedimientos separados, resolviendo la Administración de Aduanas e Impuestos Especiales la solicitud relativa a los datos anteriormente indicados.
+
+No obstante lo anterior, corresponderá a las Administraciones de Aduanas e Impuestos Especiales la rectificación después del levante, cualquiera que sea el dato a que se refiera dicha rectificación, de las declaraciones de importación de mercancías destinadas a Gibraltar que se hubieran presentado de conformidad con el Acuerdo relativo a Gibraltar entre la Unión Europea y la Comunidad Europea de la Energía Atómica, por un lado, y el Reino Unido de Gran Bretaña e Irlanda del Norte, por el otro.
+
+e) La contracción y recaudación, en vía voluntaria, de la deuda aduanera y de otros tributos gestionados por el área de Aduanas e Impuestos Especiales notificadas con el levante en el supuesto previsto en el artículo 102.2 del CAU, así como la contracción de la deuda aduanera en cualquier otro supuesto, sin perjuicio, en ambos casos, de las funciones previstas en el apartado anterior de esta resolución.
+
+f) La iniciación, tramitación y resolución del procedimiento para el reconocimiento del derecho a la devolución de ingresos indebidos en los supuestos del artículo 221.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria, de conformidad con lo dispuesto en los artículos 17 a 19 del Reglamento General de desarrollo de la Ley 58/2003, de 17 de diciembre, General Tributaria, en materia de revisión en vía administrativa, aprobado por el Real Decreto 520/2005, de 13 de mayo, cuando se trate de ingresos correspondientes a deudas para cuya recaudación sea competente la Administración de Aduanas e Impuestos Especiales.
+
+g) La realización de los controles destinados al descubrimiento del comercio desleal o ilegal en relación con los bienes y las mercancías que entren, salgan o se encuentren en los establecimientos bajo control o vigilancia aduanera de su competencia, así como los bienes y las mercancías que se hallen dentro del recinto aduanero hasta la salida de los mismos.
+
+h) El control de la ultimación del régimen de tránsito, así como el desarrollo de los procedimientos de liquidación de la deuda aduanera y de los demás tributos de competencia del Departamento de Aduanas e Impuestos Especiales derivados de dicho control.
+
+i) El inicio, instrucción y resolución de los expedientes sancionadores que se deriven de las actuaciones administrativas enumeradas en las letras anteriores, así como de los procedimientos a que se refiere la letra m), sin perjuicio de lo previsto en el apartado décimo de esta resolución.
+
+j) La formulación de denuncias y, en su caso, la instrucción de los atestados que procedan en el supuesto de presuntos delitos flagrantes puestos de manifiesto con ocasión de los controles anteriores, en especial el de contrabando previsto en la Ley Orgánica 12/1995, de 12 de diciembre, de Represión del Contrabando. La instrucción del correspondiente atestado se realizará preferentemente por medio de los funcionarios de los Cuerpos de Vigilancia Aduanera que desarrollen sus funciones en el recinto, sin perjuicio de las competencias reconocidas a las Fuerzas y Cuerpos de Seguridad en la normativa vigente.
+
+k) La dirección de las actuaciones que los Resguardos Fiscal y Aduanero lleven a cabo dentro de los establecimientos y recintos aduaneros en los que desempeñen sus funciones.
+
+l) La asignación del número EORI a los operadores económicos no establecidos en el territorio aduanero de la Unión cuando presenten por primera vez una declaración de acuerdo con el artículo 9.2 del CAU.
+
+m) La iniciación, tramitación y resolución de los procedimientos de condonación o devolución en los casos previstos en el artículo 116.1 del CAU, siempre que se refieran a deudas liquidadas por las Administraciones de Aduanas e Impuestos Especiales.
+
+2\. Las funciones anteriormente indicadas serán desarrolladas por Equipos y Unidades de Aduanas e Impuestos Especiales en función de la distribución de tareas y funciones que realice el titular de la Administración de Aduanas e Impuestos Especiales; en su defecto, serán asumidas por este. El Administrador de Aduanas e Impuestos Especiales podrá estar asistido por Inspectores Coordinadores que tendrán la condición de Jefe de Equipo de Aduanas e Impuestos Especiales en relación con las funciones que el titular de la Administración de Aduanas e Impuestos Especiales le encomiende.
+
+Para una mayor eficiencia en el desarrollo de sus actividades y por razones de cercanía a los contribuyentes, las Administraciones de Aduanas e Impuestos Especiales podrán contar con Equipos o Unidades de Aduanas e Impuestos Especiales situados en los recintos aduaneros habilitados adscritos a dichas Administraciones de Aduanas e Impuestos Especiales de acuerdo con la resolución dictada al efecto.
+
+3\. En los casos de ausencia, vacante o enfermedad del titular de la misma, éste será sustituido por el funcionario que designe el Delegado Especial de la Agencia Tributaria o Delegado Especial Adjunto de quien dependa la Administración, oído el titular de la Dependencia Regional de Aduanas e Impuestos Especiales.
+
+> Se modifican los puntos 1 y 2 por el art. único.9 de la Resolución de 23 de junio de 2026. [Ref. BOE-A-2026-14430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14430)
+
+> Se modifican las letras b), c) y d) del punto 1 y el punto 2 por el apartado único.9 y 10 de la Resolución de 21 de marzo de 2022. [Ref. BOE-A-2022-4742](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4742)
+
+> Se modifica el apartado 1.i) por la disposición final 1.2 de la Resolución de 25 de febrero de 2021. [Ref. BOE-A-2021-3306](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-3306)
+
+## Duodécimo. Competencias de los Equipos y Unidades de los apartados quinto, sexto, séptimo, décimo y undécimo.
+
+1\. Los Equipos son competentes para:
+
+a) En el ejercicio de funciones inspectoras o interventoras, el inicio e instrucción del procedimiento de inspección, finalizando con la firma de las actas; así como para el inicio e instrucción de los procedimientos sancionadores que de ellos se deriven.
+
+b) En el ejercicio de funciones relativas a actuaciones y procedimientos en vía de gestión, la práctica de las actuaciones de inicio, instrucción y resolución de tales procedimientos; así como para el inicio, la instrucción y la resolución de los procedimientos sancionadores que de ellos se deriven.
+
+c) En el ejercicio de funciones relativas a procedimientos de autorización, la admisión, en su caso, instrucción y resolución de tales procedimientos; así como para la realización de los procedimientos de revaluación o reexamen de las autorizaciones concedidas en el marco de la legislación aduanera de la Unión Europea y la emisión de la correspondiente decisión aduanera y para el inicio, instrucción y resolución de los procedimientos de anulación, revocación o suspensión de la autorización que puedan derivarse de la revaluación o reexamen.
+
+2\. Las Unidades son competentes para:
+
+a) En el ejercicio de funciones inspectoras o interventoras, las tareas que, en relación con el inicio e instrucción del procedimiento de inspección, le encomiende el titular del órgano en que estén integradas, finalizando, en su caso, con la firma de las actas, conforme a lo indicado en el apartado quinto.5 de la presente resolución. Las mismas competencias corresponderán con respecto a los procedimientos sancionadores que se deriven de tales actuaciones.
+
+b) En el ejercicio de funciones relativas a actuaciones y procedimientos en vía de gestión, las tareas que, en relación con el inicio e instrucción de los procedimientos, incluida la formalización de la propuesta de resolución, les encomiende el titular del órgano en que estén integradas.
+
+Las mismas competencias corresponderán con respecto a los procedimientos sancionadores que se deriven de tales actuaciones.
+
+Sin perjuicio de lo dispuesto en el párrafo primero, las Unidades que desempeñen funciones de servicio de viajeros dictarán las resoluciones que procedan en el ámbito de dichas funciones.
+
+c) Las tareas relacionadas con la instrucción de los procedimientos de autorización, de su revaluación, reexamen, revocación, suspensión o anulación, incluida la formalización de la propuesta de resolución, o aquellas otras que le encomiende el titular del órgano en que estén integradas.
+
+> Se modifica la letra b) del punto 2 por el art. único.10 de la Resolución de 23 de junio de 2026. [Ref. BOE-A-2026-14430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14430)
+
+> Se modifica por la disposición final 2.5 de la Resolución de 5 de febrero de 2024. [Ref. BOE-A-2024-2323](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2323)
+
+> Se modifica el título y se suprime la expresión «de Aduanas e Impuestos Especiales» de los puntos 1 y 2 por el apartado único.11 y 12 de la Resolución de 21 de marzo de 2022. [Ref. BOE-A-2022-4742](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4742)
+
+> Se modifica por la disposición final 1.3 de la Resolución de 25 de febrero de 2021. [Ref. BOE-A-2021-3306](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-3306)
+
+## Decimotercero. Criterios de atribución de la competencia territorial en el Área de Aduanas e Impuestos Especiales.
+
+1\. En el Área de Control e Investigación, la competencia territorial se determina en función de los siguientes criterios:
+
+a) La competencia territorial de la Inspección de los Tributos se extenderá a todos los obligados tributarios con domicilio fiscal en el ámbito de la respectiva Delegación Especial sobre los que la Delegación Central de Grandes Contribuyentes no ejerza su competencia. Cuando se trate de obligados tributarios con domicilio fiscal fuera del territorio común, la competencia corresponderá a la Delegación Especial en cuyo territorio se produzca el devengo del impuesto que corresponda al Estado, sin perjuicio de la competencia de la Delegación Central de Grandes Contribuyentes si el obligado tributario estuviera adscrito a la misma.
+
+b) La competencia territorial, en los procedimientos de gestión tributaria en comprobaciones a posteriori de declaraciones en aduana, se extenderá a los obligados tributarios con domicilio fiscal en el ámbito de la respectiva Delegación Especial, aun cuando estuviesen adscritos a la Delegación Central de Grandes Contribuyentes.
+
+c) La competencia para el control a posteriori de las declaraciones en aduana, con independencia del domicilio fiscal, en el marco de las competencias del Área de Aduanas e Impuestos Especiales, que incluyan beneficios arancelarios a la importación previstos en las normas que a continuación se indican, corresponderá a la Dependencia Regional de Aduanas e Impuestos Especiales de Canarias:
+
+1.º El Reglamento (UE) n.º 2021/2048 del Consejo, de 23 de noviembre de 2021, por el que se suspenden temporalmente los derechos autónomos del arancel aduanero común para las importaciones de determinados productos industriales a las Islas Canarias.
+
+2.º El Reglamento (UE) n.º 228/2013 del Parlamento Europeo y del Consejo, de 13 de marzo de 2013, por el que se establecen medidas específicas en el sector agrícola en favor de las regiones ultraperiféricas de la Unión y por el que se deroga el Reglamento (CE) n.º 247/2006 del Consejo.
+
+3.º El Reglamento (UE) 2020/1785 del Consejo de 16 de noviembre de 2020, relativo a la apertura y el modo de gestión de contingentes arancelarios autónomos de la Unión para las importaciones de determinados productos de la pesca en las islas Canarias desde 2021 hasta 2027.
+
+d) No obstante lo dispuesto en las letras anteriores, las Dependencias Regionales de Aduanas e Impuestos Especiales extenderán sus competencias sobre los siguientes obligados tributarios:
+
+1.º Los obligados tributarios que, sin estar domiciliados en el ámbito territorial de la respectiva Delegación Especial o, en su caso, estando adscritos a la Delegación Central de Grandes Contribuyentes, comparezcan en las actuaciones o procedimientos iniciados por la Dependencia Regional de Aduanas e Impuestos Especiales con relación a otro obligado sobre el que tenga competencia de acuerdo con lo establecido en las letras a) y b).
+
+2.º Los sucesores de personas físicas fallecidas y de las personas jurídicas y demás entidades disueltas o extinguidas que, sin estar domiciliados en el ámbito territorial de la respectiva Delegación Especial o, en su caso, estando adscritos a la Delegación Central de Grandes Contribuyentes, comparezcan en las actuaciones o procedimientos iniciados por la Dependencia Regional de Aduanas e Impuestos Especiales con relación a alguno o algunos de los sucesores sobre los que tenga competencia de acuerdo con lo establecido en las letras a) y b).
+
+3.º Los obligados tributarios con domicilio fiscal en el ámbito de otra Delegación, cuando así se haya acordado de conformidad con lo previsto en el artículo 7.2.j) de la Orden PRE/3581/2007, de 10 de diciembre.
+
+4.º Cuando el obligado tributario fuese un no residente la competencia corresponderá a la Dependencia Regional en la que se hubiese descubierto la infracción, salvo que tenga representante fiscal en España, que se estará al domicilio fiscal de éste.
+
+5.º En el supuesto de las liquidaciones previstas en el apartado quinto.1.g), la competencia estará determinada por la sede del órgano jurisdiccional que entiende del procedimiento penal.
+
+2\. En el Área de Gestión Aduanera, la competencia territorial se determina en función del domicilio fiscal del solicitante del número EORI o del solicitante de la autorización. El mismo criterio se seguirá para la supervisión o reexamen de las concedidas y para los procedimientos de anulación, suspensión o revocación de las concedidas. Lo anterior se entiende sin perjuicio de las competencias que ostente la Oficina Nacional de Gestión de Aduanas e Impuestos Especiales.
+
+En el supuesto de anulaciones, suspensiones o revocaciones derivado de una supervisión o reexamen, será en el momento del inicio de ésta cuando se determine la competencia territorial del órgano.
+
+3\. En el Área de Gestión e Intervención de Impuestos Especiales, la competencia territorial se determina en función de los siguientes criterios:
+
+a) La competencia territorial en los procedimientos de intervención de impuestos especiales se determinará en función de la ubicación del establecimiento sujeto a intervención.
+
+b) Salvo disposición expresa, la competencia territorial en los procedimientos de gestión tributaria se determinará en función del lugar en el que se encuentre situado el establecimiento o, en su defecto, en función del domicilio fiscal del obligado tributario.
+
+c) La competencia territorial en relación con el Registro de Operadores de Tabaco Crudo y las actuaciones relativas a los controles previstos en la disposición adicional primera de la Ley 11/2021, de 9 de julio, se determinará por el lugar donde radique el establecimiento o medio de transporte y, en su defecto, por el domicilio fiscal del obligado. Los procedimientos sancionadores que se deriven del régimen sancionador previsto en la disposición anteriormente citada se iniciarán, instruirán y resolverán por los órganos correspondientes al lugar del descubrimiento de las acciones u omisiones susceptibles de calificarse como infracción administrativa.
+
+d) La competencia territorial en relación a las comprobaciones previstas en los apartados 3 y 6 del artículo 5 del Reglamento del Impuesto sobre los Gases de Efecto Invernadero aprobado por el Real Decreto 712/2022, de 30 de agosto, así como en relación a cualesquiera otras comprobaciones o controles en materia de gestión del impuesto, se determinará en función del domicilio de la instalación objeto de solicitud o autorizada como almacenista.
+
+4\. En relación con las competencias de las sedes desconcentradas, de los Inspectores Regionales Adjuntos o de los Técnicos Jefes de Gestión Aduanera y de Impuestos Especiales, la competencia territorial se determinará en función del domicilio fiscal de los obligados en los procedimientos de su competencia, salvo en relación con:
+
+a) La vigilancia y el control sobre establecimientos aduaneros a los que se refiere el apartado décimo.1.a), b), c) y d) de esta resolución, que será en función del domicilio de estos.
+
+b) En los procedimientos sancionadores por infracción administrativa de contrabando, la competencia territorial se atribuirá en función del territorio donde se descubran las correspondientes infracciones administrativas de contrabando.
+
+Cuando, en el ejercicio de la función prevista en el apartado quinto, subapartado 1.c), un Área Regional de Control e Investigación descubra una pluralidad de infracciones administrativas de contrabando que guarden identidad sustancial o íntima conexión, se considerará que la totalidad de dichas infracciones se descubren en el ámbito geográfico de competencia de la citada Dependencia Regional, incluso cuando las conductas constitutivas de infracción se hubieran desarrollado en un ámbito territorial sobre el que el Área Regional de Control e Investigación no extienda su competencia.
+
+En los casos a que se refiere el segundo párrafo de esta letra b), la competencia territorial para el inicio, instrucción y resolución de los citados expedientes sancionadores por infracción administrativa de contrabando se atribuirá a la sede desconcentrada, al Inspector Regional Adjunto o al Técnico Jefe de Gestión Aduanera y de Impuestos Especiales correspondiente a aquella sede de la Dependencia Regional donde se integre el Área Regional de Control e Investigación que efectuó el descubrimiento.
+
+c) La supervisión, gestión y el control de la ultimación de los regímenes aduaneros especiales, que se determinará según lo indicado en la autorización.
+
+d) En el caso de rectificaciones de declaraciones de personas no establecidas en el territorio español y que no estén incluidas en el Censo de Obligados Tributarios, será en función del domicilio fiscal del representante aduanero que presente la declaración y, en ausencia de este último, corresponderá al Área Regional de Gestión Aduanera de la Dependencia Regional de la Delegación Especial de la Agencia Tributaria de Madrid, salvo que fuese de aplicación el criterio previsto en la letra f). No obstante, cuando la persona no establecida sí esté inscrita en el referido Censo, la competencia vendrá determinada por la demarcación territorial en la que figure efectuada dicha inscripción.
+
+La rectificación de declaraciones H-7, que será en función del domicilio fiscal del declarante.
+
+e) Las competencias de las Administraciones de Aduanas e Impuestos Especiales que correspondan al Inspector Regional Adjunto o al Técnico Jefe de Gestión Aduanera y de Impuestos Especiales, en función de lo indicado en el apartado siguiente.
+
+f) Las rectificaciones de declaraciones en aduanas o de declaraciones de reexportación presentadas ante órganos territoriales de la Dependencia Regional de Aduanas e Impuestos Especiales de Canarias o de las ciudades autónomas de Ceuta y Melilla, que corresponderá al órgano competente de tal Dependencia en función del lugar de presentación de la declaración o de tales ciudades autónomas, respectivamente.
+
+5\. En las Administraciones de Aduanas e Impuestos Especiales la competencia se determinará en función:
+
+a) En relación con lo previsto en las letras b), c) y d) del apartado undécimo.1, en función del lugar de presentación de las mercancías amparadas por dicha declaración sumaria de entrada o salida, por la declaración de depósito temporal, declaración en aduana, declaración de reexportación o notificación de reexportación, sin perjuicio de lo dispuesto en los apartados siguientes.
+
+No obstante, en el caso de las declaraciones en aduana sujetas a control documental sin modificación de los datos declarados y siempre que se pueda conceder el levante, la competencia se extenderá a todo el territorio español, salvo las que amparen mercancías presentadas a despacho aduanero en las ciudades autónomas de Ceuta y Melilla.
+
+En relación con lo previsto en la letra e) del apartado undécimo.1, la competencia se determinará en función del lugar donde se hayan tramitado las correspondientes declaraciones o, en su caso, en función del recinto o establecimiento donde se hayan descubierto los hechos.
+
+b) En el supuesto de despacho centralizado, tanto nacional como europeo, será la propia autorización la que determine el órgano competente en relación con el procedimiento de comprobación de las declaraciones, al que corresponderá también la emisión y la rectificación de los certificados de origen. No obstante, la comprobación material de las mercancías, el procedimiento de intervención de mercancías previsto en el Reglamento (UE) n.º 608/2013 del Parlamento Europeo y del Consejo, de 12 de junio de 2013, relativo a la vigilancia por parte de las autoridades aduaneras del respeto de los derechos de propiedad intelectual y por el que se deroga el Reglamento (CE) n.º 1383/2003 del Consejo, y el de rectificación de las declaraciones en aduana y de las declaraciones de reexportación en los supuestos previstos en el apartado undécimo.1.d), se realizará en función del lugar de ubicación de aquellas.
+
+c) La competencia para la vigilancia y control de las mercancías se determinará en función de la adscripción del establecimiento habilitado para su depósito o almacenamiento.
+
+d) La competencia para la comprobación de la ultimación del régimen de tránsito se determinará en función del lugar de presentación de la declaración en aduana de la vinculación de la mercancía a este régimen.
+
+e) La competencia para el desarrollo de los procedimientos de liquidación de la deuda aduanera y de los demás tributos de competencia del Departamento de Aduanas e Impuestos Especiales que se devenguen como consecuencia del incumplimiento del régimen de tránsito. Esta competencia se determinará en función del lugar donde se produzca el incumplimiento. Si no pudiera determinarse, la competencia le corresponderá a la aduana de partida.
+
+f) La competencia para el control del embarque de productos destinados al avituallamiento o equipamiento de buques y aeronaves corresponderá a la aduana donde se lleve a cabo dicho embarque.
+
+g) En relación con los procedimientos previstos en las letras f) y m) del apartado undécimo.1, la competencia le corresponderá a la Administración de Aduanas e Impuestos Especiales que hubiera recaudado o liquidado la deuda, respectivamente.
+
+> Se modifica por el art. único.11 de la Resolución de 23 de junio de 2026. [Ref. BOE-A-2026-14430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14430)
+
+> Se modifica el punto 1.d).3º y se añade el 3.d) por la disposición final 2.6 de la Resolución de 5 de febrero de 2024. [Ref. BOE-A-2024-2323](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2323)
+
+> Se modifican los puntos 3, 4 y 5.a) y b) por el apartado único.13 a 16 de la Resolución de 21 de marzo de 2022. [Ref. BOE-A-2022-4742](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4742)
+
+> Se modifica el punto 5.b) por la disposición final 1.4 de la Resolución de 25 de febrero de 2021. [Ref. BOE-A-2021-3306](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-3306)
+
+## Decimocuarto. Composición y organización de los Equipos y Unidades.
+
+1\. La composición de los Equipos y Unidades que se prevén en los apartados segundo, quinto, sexto, séptimo, décimo y decimoprimero se regirá por las siguientes reglas:
+
+a) Equipos. El titular del Equipo será un funcionario del Cuerpo Superior de Inspectores de Hacienda del Estado, pudiéndose integrar en el mismo Equipos, Unidades o funcionarios del mismo Cuerpo o del Cuerpo Técnico de Hacienda, con inclusión, en su caso, de Agentes de la Hacienda Pública y demás personal que en cada momento determine el titular de la Dependencia Regional.
+
+b) Unidades. El titular de la Unidad será un funcionario del Cuerpo Técnico de Hacienda, pudiéndose integrar en la misma Unidades u otros funcionarios del mismo Cuerpo, con inclusión, en su caso, de Agentes de la Hacienda Pública y demás personal que en cada momento determine el titular de la Dependencia Regional.
+
+2\. Las unidades funcionales que puedan organizarse, de conformidad con el apartado octavo en el ámbito de la función de investigación de Vigilancia Aduanera, podrán estar dirigidas por funcionarios de los Cuerpos de Vigilancia Aduanera que ostenten la especialidad de investigación, en atención al volumen y naturaleza de la carga de trabajo. La distribución de tareas entre las distintas unidades se realizará en función del puesto de trabajo que desempeñe el titular y teniendo en cuenta los criterios que se fijen en Instrucción del Departamento de Aduanas e Impuestos Especiales dictada a estos efectos.
+
+3\. Los Equipos y Unidades se organizarán por el titular del órgano en que estén integrados en función de la distribución que este realice del volumen y naturaleza de la carga de trabajo. Tal distribución se realizará en función del puesto de trabajo que desempeñe el titular del Equipo o Unidad, y teniendo en cuenta los criterios que se fijen en Instrucción del Departamento de Aduanas e Impuestos Especiales dictada a estos efectos.
+
+4\. Los titulares de los Equipos y Unidades distribuirán los expedientes, las funciones y tareas entre los funcionarios que las integren, con carácter general, con base en la experiencia, preparación y capacidad de cada funcionario y el grado de progresión alcanzado en su carrera profesional, de manera que la carga de trabajo, dificultad técnica y nivel de responsabilidad aumenten a medida que los puestos de trabajo ocupados supongan un mayor grado de progresión en dicha carrera, y siguiendo los criterios de la Instrucción del titular del Departamento de Aduanas e Impuestos Especiales dictada a estos efectos.
+
+5\. En los casos de ausencia, vacante o enfermedad del titular de un Equipo o de una Unidad, este será sustituido por el funcionario que designe el titular del órgano del que dependa de entre los funcionarios del mismo Cuerpo. En el supuesto de no existir en el órgano tales funcionarios, las competencias del Equipo o Unidad serán asumidas por el titular del órgano del que depende dicho Equipo o Unidad.
+
+> Se modifica por el apartado único.17 de la Resolución de 21 de marzo de 2022. [Ref. BOE-A-2022-4742](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4742)
+
+## Decimoquinto. Competencias de los Inspectores Jefes.
+
+1\. Corresponde a los Inspectores Jefes planificar, coordinar y controlar las actuaciones de los Equipos y Unidades de él dependientes, en orden a lograr una adecuada utilización de los medios disponibles para la mayor eficiencia de las actuaciones.
+
+2\. Además, ejercerán las siguientes competencias al amparo de lo previsto en el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio:
+
+a) Ordenar el inicio de las actuaciones de comprobación e investigación, así como su alcance y extensión.
+
+b) Acordar la modificación de la extensión de estas actuaciones, la ampliación o reducción de su alcance, así como la asignación del expediente a un funcionario, Equipo o Unidad distinto.
+
+c) Dictar las liquidaciones por las que se regularice la situación tributaria del obligado, así como los demás acuerdos que pongan término al procedimiento de inspección o al procedimiento de comprobación limitada.
+
+d) Realizar los requerimientos individualizados de obtención de información, así como el ejercicio de la correspondiente potestad sancionadora en caso de incumplimiento, respecto de cualquier obligado tributario con independencia de su adscripción y de su domicilio fiscal, cuando sea necesario para realizar las funciones que tiene atribuidas, excepto en aquellos casos en que la normativa vigente atribuya la competencia a otros órganos.
+
+e) Autorizar el inicio de los expedientes sancionadores en aquellos casos en los que la normativa reglamentaria exija dicha autorización, y dictar los actos de imposición de sanción.
+
+f) Realizar actuaciones de comprobación e investigación cuando así lo acuerde el titular del Departamento de Aduanas e Impuestos Especiales.
+
+g) Ordenar el inicio y resolver los procedimientos de recuperación de ayudas de Estado en supuestos de regularización de los elementos de la obligación tributaria.
+
+h) Dictar las liquidaciones de los elementos de la obligación tributaria vinculados con un posible delito contra la Hacienda Pública o con un posible delito de contrabando o, en su caso, dictar el acuerdo motivado que justifique la decisión administrativa de no proceder a la práctica de tales liquidaciones.
+
+En general, ejercerán cualesquiera otras competencias y funciones que les atribuya la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
+
+3\. En el ámbito territorial, tienen la consideración de Inspector Jefe las personas titulares de la Dependencia Regional de Aduanas e Impuestos Especiales, del Área de Control e Investigación, del Área de Gestión e Intervención de los Impuestos Especiales y de la Oficina Técnica.
+
+4\. En los casos en que, por necesidades fundamentadas del servicio, las actuaciones inspectoras deban ser o hayan sido realizadas directamente por los Jefes de Dependencia Regional, los acuerdos derivados de las actas y demás actos administrativos que procedan, deberán ser adoptados por los Inspectores Jefes de las Dependencias Regionales de Aduanas e Impuestos Especiales o quienes tengan dicha consideración según lo dispuesto en el punto 3, que designe la persona titular del Departamento de Aduanas e Impuestos Especiales.
+
+> Se modifica el punto 3 por el art. único.12 de la Resolución de 23 de junio de 2026. [Ref. BOE-A-2026-14430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14430)
+
+> Se añade el punto 4 por la disposición final 2.7 de la Resolución de 5 de febrero de 2024. [Ref. BOE-A-2024-2323](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2323)
+
+## Decimosexto. Acuerdos y actuaciones de colaboración.
+
+1\. El titular del Departamento de Aduanas e Impuestos Especiales autorizará la colaboración de funcionarios de la Oficina Nacional de Investigación de Aduanas e Impuestos Especiales y de la Oficina Nacional de Gestión de Aduanas e Impuestos Especiales en actuaciones propias de las Dependencias Regionales de Aduanas e Impuestos Especiales y de la Dependencia de Control Tributario y Aduanero de la Delegación Central de Grandes Contribuyentes, así como en las actuaciones de otros órganos distintos de los señalados en el apartado primero de esta resolución, de acuerdo con lo establecido en el artículo 7.2.f) de la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias.
+
+2\. El Delegado Especial autorizará:
+
+a) La colaboración de funcionarios de la Dependencia Regional de Aduanas e Impuestos Especiales en actuaciones propias de otras Dependencias de la misma Delegación Especial, o de otras Delegaciones, de la Oficina Nacional de Investigación de Aduanas e Impuestos Especiales, de la Oficina Nacional de Gestión de Aduanas e Impuestos Especiales, de la Dependencia de Control Tributario y Aduanero de la Delegación Central de Grandes Contribuyentes u órganos integrados en los Departamentos.
+
+Lo previsto en el párrafo anterior no será aplicable en los casos previstos en las letras d), e) y f) del apartado octavo.1.
+
+b) La colaboración de funcionarios de otras Dependencias de la Delegación Especial en las actuaciones de la Dependencia Regional de Aduanas e Impuestos Especiales de la misma o de otra Delegación Especial, así como en las actuaciones de la Oficina Nacional de Investigación de Aduanas e Impuestos Especiales, en las actuaciones de la Oficina Nacional de Gestión de Aduanas e Impuestos Especiales y en las actuaciones de la Dependencia de Control Tributario y Aduanero de la Delegación Central de Grandes Contribuyentes.
+
+3\. Podrá también acordarse la colaboración de funcionarios de órganos integrados en otros Departamentos para la realización de las funciones propias del Área de Aduanas e Impuestos Especiales. Dicho acuerdo se adoptará por el titular del Departamento competente de acuerdo con lo establecido en la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias, a solicitud del titular del Departamento de Aduanas e Impuestos Especiales.
+
+4\. Cuando la naturaleza de las actuaciones a desarrollar así lo aconseje, el Jefe de la Oficina Nacional de Investigación de Aduanas e Impuestos Especiales y el de la Oficina Nacional de Gestión de Aduanas e Impuestos Especiales podrá autorizar la colaboración de funcionarios de un Equipo de su Oficina en actuaciones de otro Equipo del mismo órgano. Asimismo, el titular de la Dependencia Regional de Aduanas e Impuestos Especiales podrá autorizar la colaboración de funcionarios de un Equipo o Unidad de la Dependencia Regional en las actuaciones de otro Equipo o Unidad distintos.
+
+Los acuerdos o autorizaciones a que se refiere este número deberán constar en el expediente y se exhibirán por el funcionario designado a petición del obligado tributario.
+
+> Se modifica por el art. único.13 de la Resolución de 23 de junio de 2026. [Ref. BOE-A-2026-14430](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14430)
+
+## Disposición adicional primera. Extensión de competencias en materia de inspección del Impuesto sobre el Valor Añadido.
+
+Los órganos con funciones de inspección de los tributos integrados en las Dependencias Regionales de Aduanas e Impuestos Especiales de las Delegaciones Especiales de la Agencia Estatal de Administración Tributaria tendrán competencia para la realización de actuaciones inspectoras y la correspondiente regularización de los incumplimientos detectados relativos a cualquiera de los hechos imponibles del Impuesto sobre el Valor Añadido que queden afectados por incumplimientos en los Impuestos Especiales o en los tributos que graven el comercio exterior y demás tributos de competencia del Departamento de Aduanas e Impuestos Especiales.
+
+## Disposición adicional segunda. Autorización de la colaboración de órganos centrales y territoriales del Área de Aduanas e Impuestos Especiales en el desarrollo de competencias de la Delegación Central de Grandes Contribuyentes.
+
+A petición del titular de la Delegación Central de Grandes Contribuyentes:
+
+a) El titular del Departamento de Aduanas e Impuestos Especiales de la Agencia Tributaria podrá autorizar la colaboración de funcionarios de la Oficina Nacional de Investigación de Aduanas e Impuestos Especiales en actuaciones propias de Equipos de la Dependencia de Control Tributario y Aduanero de la Delegación Central.
+
+b) El correspondiente Delegado Especial de la Agencia Tributaria podrá autorizar que los funcionarios del Área de Aduanas e Impuestos Especiales que fueran competentes por razón del domicilio realicen las funciones de la Dependencia de Control Tributario y Aduanero de la Delegación Central respecto a los obligados tributarios adscritos a ésta.
+
+Estas autorizaciones deberán constar en el correspondiente expediente y se exhibirán por los funcionarios autorizados a petición del obligado tributario.
+
+## Disposición adicional tercera. Competencia en materia de revisión de imposición de sanciones por incumplimiento de limitaciones de pago en efectivo.
+
+Los Delegados Especiales serán los competentes para resolver los recursos de alzada contra las resoluciones de los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo.
+
+## Disposición adicional cuarta. Requerimientos de información por Vigilancia Aduanera.
+
+Cuando se trate de actuaciones en materia de contrabando o blanqueo de capitales que deban desarrollarse por unidades centrales del área de Vigilancia Aduanera, los requerimientos individualizados de información a que se refiere el artículo 93 de la Ley 58/2003, de 17 de diciembre, General Tributaria, excepto los contemplados en el segundo párrafo de su apartado 3, y en el artículo 94, apartados 1 y 2, de la misma Ley, serán realizados por el titular de la Subdirección General de Operaciones.
+
+## Disposición transitoria primera. Adaptación orgánica.
+
+1\. La Dirección General de la Agencia adoptará las medidas oportunas para la aplicación, dentro del marco de organización actual y mientras éste no se complete mediante la modificación de las vigentes Relaciones de Puestos de Trabajo, de los criterios de actuación y de coordinación previstos en la presente resolución, así como para la adaptación de los procedimientos internos, adecuación de los medios materiales y formulación de las propuestas de normas necesarias para hacer efectiva la aplicación de lo dispuesto en la misma.
+
+2\. En tanto no se aprueben las nuevas Relaciones de Puestos de Trabajo, quedarán subsistentes a todos los efectos los puestos recogidos por las actualmente vigentes.
+
+3\. La competencia en todo el territorio español prevista en el apartado decimotercero.5.a) de esta resolución, se aplicará cuando existan las aplicaciones informáticas necesarias para su gestión y control.
+
+## Disposición transitoria segunda. Procedimientos en tramitación.
+
+A los procedimientos iniciados antes de la entrada en vigor de la presente resolución, incluidos los procedimientos relativos a las solicitudes de autorización y los de revaluación, anulación, revocación o suspensión de éstas, no les será de aplicación la distribución de competencias prevista en esta resolución.
+
+Dichos procedimientos serán tramitados y resueltos por los órganos competentes de acuerdo con la regulación vigente antes de la entrada en vigor de la presente resolución, incluyendo los supuestos en que el órgano ejerza la competencia por delegación.
+
+## Disposición derogatoria única.
+
+Quedan derogadas las siguientes disposiciones:
+
+1\. La Resolución de 28 de julio de 1998, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se estructuran los Servicios de Aduanas e Impuestos Especiales, Dependientes de las Delegaciones Especiales y Delegaciones de la Agencia Estatal de Administración Tributaria.
+
+2\. La Resolución de 20 de julio de 1992, de la Agencia Estatal de Administración Tributaria, sobre organización y atribución de funciones a la Inspección de los Tributos en el ámbito de las competencias del Departamento de Aduanas e Impuestos Especiales.
+
+## Disposición final única. Entrada en vigor.
+
+La presente resolución entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 13 de enero de 2021.–La Presidenta de la Agencia Estatal de Administración Tributaria, Inés María Bardón Rafael.

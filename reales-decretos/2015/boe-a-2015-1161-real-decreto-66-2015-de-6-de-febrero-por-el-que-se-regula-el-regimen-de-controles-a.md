@@ -1,0 +1,463 @@
+---
+title: "Real Decreto 66/2015, de 6 de febrero, por el que se regula el régimen de controles a aplicar por la Agencia de Información y Control Alimentarios, previstos en la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria"
+identifier: "BOE-A-2015-1161"
+eli: "https://www.boe.es/eli/es/rd/2015/02/06/66"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Alimentación y Medio Ambiente"
+date: 2015-02-06
+published: 2015-02-07
+in_force_from: 2015-02-08
+last_amended: 2026-03-13
+consolidated: 2026-03-13
+gazette: "Boletín Oficial del Estado núm. 33"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-1161"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 66/2015, de 6 de febrero, por el que se regula el régimen de controles a aplicar por la Agencia de Información y Control Alimentarios, previstos en la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria
+
+Téngase en cuenta que las referencias hechas a la "Agencia de Información y Control Alimentarios" se entenderán hechas a la "Agencia de Información y Control Alimentarios, O.A", según establece la disposición adicional única del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+La Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria, tiene como finalidad mejorar el funcionamiento y la vertebración de la cadena alimentaria, de manera que aumente la eficacia y competitividad del sector agroalimentario español y se reduzca el desequilibrio en las relaciones comerciales entre los diferentes operadores de la cadena de valor, en el marco de una competencia justa que redunde en beneficio no sólo del sector, sino también de los consumidores.
+
+En su disposición adicional primera, la Ley 12/2013, de 2 de agosto, procede a la modificación del organismo autónomo Agencia para el Aceite de Oliva, que ha pasado a denominarse Agencia de Información y Control Alimentarios, asumiendo además de las funciones que venía ejerciendo, aquellas nuevas relacionadas con el control del cumplimiento de lo dispuesto en la Ley 12/2013.
+
+La Agencia de Información y Control Alimentarios es un organismo autónomo de los previstos en el artículo 43.1.a) de la Ley 6/1997, de Organización y Funcionamiento de la Administración General del Estado con personalidad jurídica diferenciada, patrimonio y tesorería propios, así como autonomía de gestión, en los términos establecidos en dicha Ley y en su Estatuto, aprobado por el Real Decreto 227/2014, de 4 de abril.
+
+Con la nueva Agencia se establece un organismo autónomo encargado de llevar a cabo las funciones que tiene legalmente encomendadas, propiciando un control efectivo de la cadena alimentaria, produciéndose de una misma manera y con un mismo nivel de cumplimiento de objetivos en todo el territorio nacional.
+
+Los fines y funciones generales de la Agencia de Información y Control Alimentarios han quedado recogidos en su Estatuto, aprobado por Real Decreto 227/2014, de 4 de abril. En materia de controles, corresponde a la Agencia de Información y Control Alimentarios comprobar el cumplimiento de las obligaciones por parte de los operadores del sector oleícola, y lácteo así como la de aquellos otros sectores que reglamentariamente se determinen, así como establecer y desarrollar el régimen de control necesario para comprobar el cumplimiento de lo dispuesto en la Ley 12/2013, de 2 de agosto.
+
+Conforme a lo previsto en el artículo 3 de su Estatuto, los controles que lleve a cabo la Agencia se harán sin perjuicio de las funciones que tengan encomendadas otros organismos, como ocurre en el sector lácteo.
+
+Para llevar a cabo las tareas de inspección encomendadas a la Agencia de Información y Control Alimentarios es preciso establecer y desarrollar un régimen de control en el que se precisen los elementos sustanciales de la actividad inspectora, a fin de que el ejercicio de las funciones encomendadas al organismo autónomo se lleven a cabo con la seguridad y garantía precisas para todos los que intervienen en la cadena alimentaria y que serán sujetos de sus actividades inspectoras.
+
+En el capítulo I se recogen las cuestiones generales del real decreto, tratando del objeto del mismo, el ámbito y finalidad de los controles, la atribución de las funciones de control del cumplimiento de lo establecido en la Ley 12/2013, de 2 de agosto, a la Agencia de Información y Control Alimentarios, las relaciones con otras Administraciones Públicas y, finalmente, el régimen jurídico que será de aplicación a la Agencia.
+
+En el capítulo II, que lleva por título «Los Servicios de Inspección de la Agencia de Información y Control Alimentarios», se trata del personal acreditado por su Director para llevar a cabo las tareas de control, los derechos, prerrogativas y consideraciones del mismo, sus deberes, así como del uso de bases informáticas por la Agencia de Información y Control Alimentarios.
+
+En el capítulo III se trata de las actuaciones de la Agencia de Información y Control Alimentarios, comprendiendo aspectos referentes a las actuaciones inspectoras, la planificación de las actuaciones, el lugar y tiempo de las mismas, los obligados en el procedimiento de inspección, los derechos de los sujetos obligados, la asistencia de representantes y asesores a las inspecciones, la iniciación y el desarrollo de las actuaciones inspectoras, las facultades del personal inspector, la documentación de las actuaciones inspectoras, el valor probatorio de las actas levantadas por el personal acreditado, la firma de las actas de control, las actuaciones complementarias, el deber de auxilio y colaboración, los informes de las actuaciones de control, el registro de las actuaciones y, finalmente, el deber de secreto.
+
+Debido a que este real decreto transciende la mera regulación de la actividad de control e inspección y entra dentro de la actividad sancionadora reconocida a la Agencia de Información y Control Alimentarios, se ha incluido en el reglamento el capítulo IV, titulado «Consecuencias derivadas de la actuación inspectora», donde se contemplan las reglas generales de actuación, así como las consecuencias que tendrán las mismas en el ámbito de las obligaciones impuestas para el mantenimiento de los sistemas de información, seguimiento y análisis de los mercados; en los casos de incumplimientos de pago de las aportaciones obligatorias a las organizaciones interprofesionales; de denuncias por incumplimiento de lo dispuesto en la Ley 12/2013, de 2 de agosto; de irregularidades constatadas en el ejercicio de sus funciones y, finalmente, en los casos de infracción a la normativa sobre el comercio.
+
+No se procede al desarrollo mediante este real decreto de las funciones de gestión y mantenimiento de los sistemas de información, seguimiento y análisis y control de los mercados lácteos hasta en tanto no se proceda a su desarrollo por otra norma reglamentaria.
+
+La disposición derogatoria única deroga el Real Decreto 257/1999, de 12 de febrero, por el que se regula la supervisión de las ayudas comunitarias al aceite de oliva y la aceituna de mesa por la Agencia para el Aceite de Oliva.
+
+Este real decreto se dicta al amparo del artículo 149.1.13.ª de la Constitución, que reserva al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Alimentación y Medio Ambiente, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 6 de febrero de 2015,
+
+DISPONGO:
+
+## CAPÍTULO I — Objeto y ámbito de los controles de la Ley 12/2013, de 2 de agosto, por la Agencia de Información y Control Alimentarios
+
+### Artículo 1. Objeto.
+
+El presente real decreto tiene por objeto establecer el régimen de controles que será de aplicación por la Agencia de Información y Control Alimentarios para comprobar el cumplimiento de lo dispuesto en la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria. Así mismo, el real decreto desarrolla las previsiones de dicha Ley sobre la actividad sancionadora reconocida a la Agencia.
+
+### Artículo 2. Ámbito de los controles.
+
+1\. Los controles que lleve a cabo la Agencia de Información y Control Alimentarios, O.A., tendrán por finalidad el examen, la comprobación y la investigación de las obligaciones impuestas a los operadores de la cadena alimentaria en virtud de la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria, para controlar su cumplimiento; así como, en el caso de constatarse incumplimientos, determinar si se han cometido posibles infracciones en materia de contratación alimentaria tipificadas en la misma ley que den lugar al correspondiente procedimiento sancionador.
+
+2\. Para el caso de que la Agencia de Información y Control Alimentarios tuviera que llevar a cabo alguna actuación en la que las competencias inspectoras fueran concurrentes con la de cualquier otra entidad, se llevarán a cabo previamente los mecanismos de coordinación y colaboración que fueran necesarios para su realización, mediante los correspondientes Acuerdos de Colaboración.
+
+> Se modifica el apartado 1 por el art. 2.1 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+> Se añade la letra c) al apartado 1 por la disposición final 2.1 del Real Decreto 267/2017, de 17 de marzo. [Ref. BOE-A-2017-2991](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2991).
+
+### Artículo 3. Relaciones con otras Administraciones Públicas.
+
+1\. La Agencia de Información y Control Alimentarios, O.A., podrá solicitar de las demás Administraciones Públicas, especialmente de las comunidades autónomas, incluidas las Autoridades de Ejecución previstas en el artículo 28.4 de la Ley 12/2013, de 2 de agosto, la cooperación, asistencia activa e información que precise para el ejercicio de sus funciones de control. Por su parte, la Agencia, en el ejercicio de sus competencias, colaborará con otras Administraciones públicas cuando sea requerida al efecto en los términos del capítulo II del título III de la Ley 40/2015, de 1 de octubre.
+
+2\. Cuando una Administración pública conozca hechos o circunstancias que puedan suponer un incumplimiento de lo dispuesto en la Ley 12/2013, de 2 de agosto, por constituir una infracción tipificada en la misma lo pondrá en conocimiento de la Agencia de Información y Control Alimentarios con los elementos probatorios que procedan.
+
+> Se modifica el apartado 1 por el art. 2.2 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+### Artículo 4. Régimen jurídico.
+
+1\. Las funciones, facultades y actuaciones relacionadas con los controles para la comprobación del cumplimento de lo dispuesto en la Ley 12/2013, de 2 de agosto, se regirán:
+
+a) Por la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria y normas que la desarrollen.
+
+b) Por el Estatuto de la Agencia de Información y Control Alimentarios, aprobado por el Real Decreto 227/2014, de 4 de abril.
+
+c) Por el presente real decreto y por cuantas otras disposiciones integren el ordenamiento jurídico vigente y resulten de aplicación.
+
+2\. En todo caso, se aplicará supletoriamente la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público; la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; la Ley 58/2003, de 17 de diciembre, General Tributaria; la Ley 47/2003, General Presupuestaria, y las normas que las desarrollen.
+
+> Se modifica el apartado 2 por el art. 2.3 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+## CAPÍTULO II — Los Servicios de Inspección de la Agencia de Información y Control Alimentarios
+
+### Artículo 5. Personal inspector.
+
+1\. Las actuaciones derivadas de las funciones señaladas en el artículo 2 se realizarán por el personal funcionario de la Agencia de Información y Control Alimentarios, O.A. debidamente acreditado por el Director de la Agencia de Información y Control Alimentarios, O.A., mediante su tarjeta de identificación profesional.
+
+2\. En los casos en los que el Director lo considere oportuno, los funcionarios debidamente acreditados de la Agencia de Información y Control Alimentarios podrán auxiliarse de expertos, técnicos y especialistas que resulten de especial interés en las tareas de control. Los mismos no tendrán la consideración de agentes de la autoridad y su actividad únicamente se circunscribirá al auxilio y colaboración con el personal inspector, a las órdenes de los cuales ejercerá su labor.
+
+> Se modifica el apartado 1 por el art. 2.4 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+### Artículo 6. Situación del personal inspector.
+
+1\. Los funcionarios de la Agencia de Información y Control Alimentarios, debidamente acreditados por el Director para llevar a cabo las inspecciones, en el ejercicio de sus funciones, serán considerados como agentes de la autoridad, a los efectos de la responsabilidad administrativa y penal de quienes los intimiden o les hagan resistencia o acometan o empleen fuerza contra ellos, de hecho o de palabra, en actos de servicio o con motivo del mismo.
+
+2\. El desempeño de la función inspectora por el personal funcionario de la Agencia de Información y Control Alimentarios será incompatible con el ejercicio de cualquier cargo, profesión o actividad, público o privado, que pueda impedir o menoscabar el estricto cumplimiento de sus deberes o comprometer su imparcialidad o independencia.
+
+### Artículo 7. Principios de actuación.
+
+1\. En el ejercicio de sus funciones, los funcionarios de la Agencia de Información y Control Alimentarios informarán a los interesados, con motivo de las actuaciones inspectoras, de sus derechos y deberes, para facilitarles el cumplimiento de sus obligaciones.
+
+2\. El personal funcionario de la Agencia de Información y Control Alimentarios, O.A., debidamente acreditado por el Director de la Agencia deberá abstenerse de intervenir en las actuaciones, informando a su superior jerárquico, cuando concurra cualquiera de los motivos a que se refiere el artículo 23 de la Ley 40/2015, de 1 de octubre.
+
+3\. Deberán guardar secreto sobre los hechos y de cuantas informaciones de naturaleza confidencial hayan tenido conocimiento.
+
+4\. La infracción de cualquiera de los deberes de secreto o sigilo constituirá falta administrativa grave, sin perjuicio de que por su naturaleza la conducta pudiera ser constitutiva de delito, de acuerdo con lo previsto en el Reglamento de régimen disciplinario de los funcionarios de la Administración del Estado, aprobado por el Real Decreto 33/1986, de 10 de enero.
+
+5\. Los inspectores de la Agencia de Información y Control Alimentarios, O.A., realizarán sus funciones debidamente acreditados mediante su tarjeta de identificación profesional, iniciándose las inspecciones mediante la presentación de su tarjeta de identificación profesional a los inspeccionados, los apoderados o representantes de los operadores de la cadena alimentaria.
+
+> Se modifica el apartado 2 y se añade el apartado 5 por el art. 2.5 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+### Artículo 8. Uso de bases informáticas por la Agencia de Información y Control Alimentarios.
+
+1\. La Agencia de Información y Control Alimentarios, O.A., está facultada para utilizar, en sus tareas de control, las bases de datos propias, así como para precisar el auxilio de aquellas otras cuya titularidad o gestión corresponda a la Administración General del Estado, solicitando el suministro de la información que precise en los términos establecidos en la Ley 40/2015, de 1 de octubre, y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+2\. Los datos de carácter personal que figuren en dichos sistemas, así como los que figuren en los ficheros automatizados que pueda crear la Agencia de Información y Control Alimentarios, O.A., relacionados con sus actividades inspectoras, podrán usarse para finalidades distintas de aquéllas para las que los datos hubieran sido recogidos, siempre y cuando dichas finalidades se correspondan con las funciones atribuidas normativamente a la Agencia de Información y Control Alimentarios, O.A.
+
+3\. Quienes intervengan en cualquier fase del tratamiento de los datos de carácter personal de los ficheros automatizados que utilice la Agencia de Información y Control Alimentarios están obligados al secreto profesional respecto de los mismos y al deber de guardarlos.
+
+> Se modifican los apartados 1 y 2 por el art. 2.6 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+## CAPÍTULO III — Actuaciones de la Agencia de Información y Control Alimentarios
+
+### Artículo 9. Disposiciones generales.
+
+1\. Los resultados de cualquiera de las actuaciones inspectoras de la Agencia de Información y Control Alimentarios, debidamente documentados, serán utilizados en todo caso en orden al adecuado desempeño de las funciones que ésta tiene encomendadas.
+
+2\. La Agencia de Información y Control Alimentarios, O.A., cuando compruebe en el desarrollo de sus funciones el incumplimiento, por algún operador, de las obligaciones que le incumben, que pueda constituir una infracción administrativa contemplada en la Ley 12/2013, de 2 de agosto, llevará a cabo las correspondientes medidas que se recogen en el capítulo IV de este real decreto.
+
+3\. Los datos, informes o antecedentes obtenidos por la Agencia de Información y Control Alimentarios, O.A., en sus tareas de control sólo podrán utilizarse para los fines que tiene encomendados. Esta documentación no podrá ser retirada de las dependencias de la Agencia de Información y Control Alimentarios, O.A., sin la preceptiva autorización del Director.
+
+> Se modifican los apartados 2 y 3 por el art. 2.7 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+> Se modifica el apartado 2 por la disposición final 2.2 del Real Decreto 267/2017, de 17 de marzo. [Ref. BOE-A-2017-2991](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2991).
+
+### Artículo 10. Actuaciones Inspectoras.
+
+1\. Las actuaciones inspectoras se llevarán a cabo para la correcta aplicación de la Ley 12/2013, de 2 de agosto.
+
+2\. Las actuaciones de la Agencia de Información y Control Alimentarios podrán ser, entre otras, para:
+
+a) **(Suprimida)**
+
+b) Examinar la correspondencia entre los datos que figuren en las denuncias presentadas por las organizaciones de los sectores o mercados oleícolas (aceite de oliva y aceitunas de mesa), lácteos y vinícolas, y los que arrojen los sistemas de información de dichos mercados, que gestione la Agencia, a los efectos de iniciar e instruir los expedientes sancionadores por incumplimiento en el pago de las aportaciones obligatorias a dichas organizaciones interprofesionales.
+
+c) Comprobar que los operadores de la cadena alimentaria cumplen las obligaciones establecidas en la Ley 12/2013, de 2 de agosto; pudiendo llevar a cabo un procedimiento de toma de muestras en aquellos casos que estimen oportunos.
+
+d) Aquellos otros controles que sean solicitados por el Ministerio de Agricultura, Alimentación y Medio Ambiente en el ámbito de las funciones establecidas en el Estatuto de la Agencia de Información y Control Alimentarios.
+
+3\. Las actuaciones de obtención de información se dirigirán al conocimiento de los datos o antecedentes de cualquier naturaleza que obren en poder de una persona o entidad y tengan trascendencia en el buen funcionamiento de la cadena alimentaria.
+
+4\. Los funcionarios debidamente acreditados para proceder a una inspección ejercerá sus poderes previa presentación de una acreditación escrita del Director de la Agencia de Información y Control Alimentarios que indique el objeto y la finalidad de la inspección, así como la fecha en la que vaya a practicarse.
+
+5\. En los casos en los que se haya solicitado de la autoridad judicial la correspondiente autorización para llevar a cabo las actuaciones inspectoras, ésta será presentada a los interesados por parte de los inspectores designados por el Director de la Agencia de Información y Control Alimentarios.
+
+> Se suprime el apartado 6 y se modifica el apartado 2 por el art. 2.8 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+> Se añade la letra e) al apartado 2 por la disposición final 2.3 del Real Decreto 267/2017, de 17 de marzo. [Ref. BOE-A-2017-2991](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2991).
+
+### Artículo 11. Planificación de las actuaciones.
+
+1\. El ejercicio de las tareas de control encomendadas a la Agencia de Información y Control Alimentarios se adecuará al Plan de Control.
+
+2\. El Plan de Control incluirá los criterios que hayan de servir para seleccionar las actuaciones inspectoras de comprobación e investigación que hayan de efectuarse.
+
+3\. El Plan de Control será aprobado por el Director de la Agencia de Información y Control Alimentarios. Se comunicarán al Consejo Asesor de la Agencia, para su conocimiento, los Planes aprobados desde la última reunión, con el resultado de los mismos.
+
+4\. Cualquier adición o modificación del Plan de Control, durante su ejecución, deberá ser aprobado por el Director de la Agencia de Información y Control Alimentarios, justificándose su necesidad de forma motivada, acompañándose de las memorias o informes precisos.
+
+5\. El Plan de Control se desarrollará en Planes de Trabajo, en los que se establecerán las actuaciones inspectoras de la Agencia de Información y Control Alimentarios, que tendrán carácter reservado y no serán objeto de publicidad.
+
+6\. Se deberá velar especialmente para que a través de la actividad inspectora la Agencia de Información y Control Alimentarios:
+
+a) No se distorsione la libertad de mercado ni la libre competencia.
+
+b) Se guarde la confidencialidad de los operadores inspeccionados y, en su caso, sancionados, sin perjuicio de lo dispuesto en los artículos 24 bis y 29 de la Ley 12/2013, de 2 de agosto.
+
+> Se modifica la letra b) del apartado 6 por el art. 2.9 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+### Artículo 12. Lugar y tiempo de las actuaciones.
+
+1\. Las actuaciones de comprobación e investigación podrán desarrollarse, según los casos, en el lugar donde el inspeccionado tenga su domicilio social, despacho, oficina, almacén o industria; en el lugar donde radique la explotación; en las propias dependencias de la Agencia de Información y Control Alimentarios, o allí donde exista alguna prueba, al menos parcial, relativa a los hechos que puedan ser relevantes para determinar la existencia de infracciones a la Ley 12/2013, de 2 de agosto.
+
+2\. Las actividades de inspección de la Agencia de Información y Control Alimentarios que se desarrollen en sus dependencias tendrán lugar dentro de la jornada de trabajo vigente.
+
+3\. En el caso de que las actividades de control se desarrollen en los locales del inspeccionado, se observará, con carácter general, la jornada laboral de oficina o de la actividad que rija en los mismos, sin perjuicio de que pueda actuarse de común acuerdo en otras horas y días. En el caso de que, dada la naturaleza de las comprobaciones realizadas, la interrupción de la inspección pueda ocasionar graves perjuicios al resultado de los controles, aquélla podrá proseguir durante el tiempo estrictamente indispensable, una vez concluida la jornada laboral.
+
+4\. En el caso de que las actividades de control se desarrollen en los locales del inspeccionado, y éstos fueran una explotación ganadera de animales vivos, se observará, con carácter general, la normativa en materia de bienestar y sanidad animal, amoldando la actividad inspectora a la naturaleza de una explotación ganadera, con el fin de no crear perjuicio alguno a los animales presentes en la misma.
+
+5\. La Agencia de Información y Control Alimentarios podrá, además, efectuar controles sin previo aviso, incluso fuera de la jornada laboral de las empresas inspeccionadas, siempre que, en este último supuesto, tenga conocimiento de que se esté realizando alguna actividad en las instalaciones de los sujetos o entidades obligados contemplados en el ámbito de aplicación de la Ley 12/2013, de 2 de agosto.
+
+### Artículo 13. Los obligados en el procedimiento de inspección.
+
+1\. Están obligados a atender al personal de la Agencia de Información y Control Alimentarios debidamente acreditado por el Director para llevar a cabo inspecciones:
+
+a) **(Suprimida)**
+
+b) **(Suprimida)**
+
+c) Los operadores de la cadena alimentaria que estén incluidos en el ámbito de aplicación de la Ley 12/2013, de 2 de agosto.
+
+d) Toda persona física o jurídica que pueda proporcionar cualquier clase de datos e informaciones de que disponga sobre el objeto de la Ley 12/2013, de 2 de agosto, y que puedan resultar necesarios con el objeto y finalidad de la inspección.
+
+2\. Los funcionarios de la Agencia de Información y Control Alimentarios debidamente acreditados por el Director para llevar a cabo inspecciones podrán exigir que se acredite la identidad, carácter y facultades de la persona o personas con cuyo concurso y asistencia se vayan a realizar las actuaciones.
+
+> Se suprimen las letras a), b) y e) del apartado 1 por el art. 2.10 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+> Se añade la letra e) al apartado 1 por la disposición final 2.4 del Real Decreto 267/2017, de 17 de marzo. [Ref. BOE-A-2017-2991](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2991).
+
+### Artículo 14. Derechos de los sujetos obligados.
+
+Los sujetos obligados que deban soportar las actuaciones de comprobación, vigilancia e inspección por los servicios de inspección de la Agencia de Información y Control Alimentarios, O.A., tendrán los derechos que sean reconocidos por el artículo 13 y por las letras b), f), g), h) e i) del artículo 53.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y por la Ley 12/2013, de 2 de agosto, y en particular los siguientes:
+
+a) A ser notificados del inicio y del objeto de las actuaciones inspectoras. En los supuestos en los que la índole de la inspección así lo requiera, por tratarse de una actuación inopinada, la notificación de las actuaciones de control se efectuará en el momento de iniciarse las mismas.
+
+b) A un procedimiento sin dilaciones indebidas.
+
+c) A formular alegaciones y a aportar documentos en cualquier fase del procedimiento, que deberán ser tenidos en cuenta por el personal inspector al redactar el informe de propuesta de sanción.
+
+> Se modifica por el art. 2.11 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+### Artículo 15. Asistencia de representantes y asesores a las inspecciones.
+
+Los inspeccionados y los apoderados o representantes de los operadores de la cadena alimentaria podrán intervenir en aquellas actuaciones inspectoras que se realicen ante los mismos, asistidos por un asesor en los términos del artículo 85 de la Ley 30/1992, de 26 de noviembre, quien podrá aconsejar a su cliente. La presencia de los asesores en ningún caso se considerará necesaria para la realización de las actividades inspectoras, que se llevará a cabo, en todo caso, de conformidad con las instrucciones dictadas por el Director de la Agencia al respecto.
+
+### Artículo 16. Iniciación y desarrollo de las actuaciones inspectoras.
+
+1\. Las actuaciones de control que lleve a cabo la Agencia de Información y Control Alimentarios podrán llevarse a cabo:
+
+a) Por propia iniciativa, como consecuencia de las previsiones contenidas en el Plan de Control.
+
+b) Por la existencia de indicios razonables de incumplimiento de la Ley 12/2013, de 2 de agosto.
+
+c) En virtud de denuncia.
+
+2\. La Agencia de Información y Control Alimentarios podrá llevar a cabo, antes de proceder a la apertura de un expediente administrativo sancionador, una actuación preliminar, con objeto de conocer el alcance y las responsabilidades que puedan derivarse del contenido de la denuncia.
+
+3\. Cuando los funcionarios de la Agencia de Información y Control Alimentarios, O.A., debidamente acreditados por el Director del organismo autónomo para llevar a cabo inspecciones, actúen fuera de las dependencias de la Agencia, deberán identificarse mostrando su tarjeta de identidad profesional. Deberán, igualmente, al inicio de las actuaciones y en cualquier momento de las actuaciones inspectoras a solicitud del interesado, instruir a éste acerca del significado de las actuaciones, del procedimiento a seguir, de sus derechos y de las obligaciones y deberes que ha de observar para con la Agencia.
+
+4\. Iniciadas las actuaciones inspectoras, deberán proseguir hasta su terminación, de acuerdo con su naturaleza y carácter. Las actuaciones inspectoras se desarrollarán durante el tiempo que sea preciso en cada jornada, de acuerdo con las características propias de las comprobaciones en curso. Si duran varios días, al término de las actuaciones de cada día se suspenderán, fijando el inspector el lugar, el día y la hora para su reanudación, precintando en su caso las dependencias administrativas.
+
+5\. El plazo máximo de finalización de las actuaciones será de nueve meses a contar desde que la Agencia se encuentre en posesión de toda la información precisa, sin perjuicio de que, por circunstancias excepcionales o debido a la obstrucción de los controles por el inspeccionado, pueda prorrogarse este plazo por el Director de la Agencia a propuesta del inspector actuante, por un período no superior a tres meses improrrogables.
+
+6\. El personal de la Agencia de Información y Control Alimentarios debidamente acreditado por el Director para llevar a cabo inspecciones deberá practicar sus actuaciones procurando siempre perturbar en la menor medida posible el desarrollo normal de las actividades laborales, empresariales o profesionales del obligado.
+
+> Se modifican los apartados 3 y 5 por el art. 2.12 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+### Artículo 17. Facultades del personal inspector.
+
+1\. De acuerdo con lo establecido en la disposición adicional primera, apartados 8 y 9 de la Ley 12/2013 de 2 de agosto, los funcionarios de la Agencia de Información y Control Alimentarios debidamente acreditados por el Director para llevar a cabo inspecciones realizarán las actuaciones de inspección y control a las entidades y operadores que se les ordene, y en su actuación tendrán las siguientes facultades, que serán siempre proporcionadas al objeto de su actuación:
+
+a) Acceder a cualquier local, terreno, instalación o medio de transporte utilizados por las personas físicas o jurídicas sometidas a control.
+
+b) Verificar las existencias de sus almacenes, los productos obtenidos, los procesos que se aplican y las instalaciones, maquinaria y equipos utilizados.
+
+c) Acceder a los libros y documentos relativos a la actividad de la entidad, cualquiera que sea su soporte material, incluido el electrónico, así como obtener copias o extractos, en cualquier formato y soporte, incluido el electrónico, de dichos libros y documentos.
+
+d) Retener por un plazo máximo de cinco días los libros o documentos mencionados en la letra c) de este apartado. Excepcionalmente se entregarán los originales cuando no se pueda entregar copia autenticada de los mismos.
+
+e) Precintar almacenes, instalaciones, depósitos, equipos, vehículos, libros o documentos y demás bienes de la entidad durante el tiempo y en la medida que sea necesario para la inspección.
+
+f) Requerir a cualquier representante o miembro del personal al servicio de la persona objeto de control, las explicaciones que considere necesarias sobre las actividades, procesos, materiales o documentos relacionados con el objeto y finalidad de la inspección y guardar constancia de sus respuestas.
+
+g) Tomar muestras de materias primas, productos intermedios y terminados para determinar su composición y características, así como de los subproductos generados.
+
+h) Levantar acta en la que se reflejen las actuaciones realizadas, la información requerida y la obtenida y los hechos constatados.
+
+i) Acceder a los contratos efectuados en el ámbito de la Ley 12/2013, de 2 de agosto, por el sujeto obligado objeto de control en los cuatro años anteriores.
+
+j) Acceder al Registro de contratos alimentarios conforme al Real Decreto 1028/2022, de 20 de diciembre, por el que se desarrolla el Registro de Contratos Alimentarios.
+
+2\. El ejercicio de las facultades descritas en las letras a) y e) requerirá el previo consentimiento expreso del afectado o, en su defecto, la correspondiente autorización judicial.
+
+3\. En cualquier momento del procedimiento, se podrá ordenar, de oficio o a instancia de parte, que se mantengan secretos los datos o documentos que se consideren confidenciales, formando con ellos pieza separada.
+
+4\. Las actuaciones inspectoras se darán por concluidas cuando, a juicio de los inspectores, se hayan obtenido los datos y pruebas necesarios para fundamentar los actos que proceda dictar, bien considerando correcta la situación del inspeccionado, o bien por disponer de los elementos necesarios para regularizar la misma con arreglo a Derecho.
+
+> Se modifican las letras c) e i) del apartado 1 y se añade la letra j) por el art. 2.13 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+> Se añade la letra i) al apartado 1 por la disposición final 5 de la Ley 16/2021, de 14 de diciembre. [Ref. BOE-A-2021-20630](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20630)
+
+### Artículo 18. Documentación de las actuaciones inspectoras.
+
+1\. Las actuaciones de los servicios de inspección de la Agencia de Información y Control Alimentarios se documentarán en actas de inspección.
+
+2\. Son actas de inspección aquellos documentos que extienden los funcionarios inspectores de la Agencia de Información y Control Alimentarios con el fin de recoger los resultados de sus actuaciones de comprobación e investigación sobre el terreno.
+
+3\. En las actas de inspección se consignarán, al menos:
+
+a) El lugar y fecha de su formalización.
+
+b) La identificación personal de los inspectores que la suscriben.
+
+c) El nombre y apellidos, número de identificación fiscal y la firma de la persona con la que se extienden las actuaciones y el carácter o representación con que interviene en las mismas.
+
+d) Los hechos constatados en la actuación inspectora.
+
+e) El detalle de las actuaciones llevadas a cabo durante la inspección.
+
+4\. El personal inspector expedirá una copia del acta, así como una relación de documentos que se anexen a la misma, a los afectados.
+
+### Artículo 19. Valor probatorio de las actas levantadas por los funcionarios.
+
+De acuerdo con lo dispuesto en el apartado 7 de la disposición adicional primera de la Ley 12/2013, las actas levantadas por los inspectores de la Agencia de Información y Control Alimentarios tendrán el carácter de documento público y, salvo que se acredite lo contrario, harán prueba de los hechos que en ellas se recojan.
+
+### Artículo 20. Firma de las actas de inspección.
+
+1\. Las actas de inspección deberán ir firmadas por el inspector o inspectores de la Agencia de Información y Control Alimentarios que hayan realizado las correspondientes actuaciones, así como, en su caso, por la persona con la que se hubiera realizado el control, su representante o el encargado del local donde hubiese tenido lugar la inspección.
+
+2\. La negativa de los inspeccionados a firmar el acta no impedirá que ésta, una vez firmada por el inspector o inspectores de la Agencia de Información y Control Alimentarios acreditados para la inspección, tenga valor probatorio, debiendo hacer constar en la misma la negativa del inspeccionado a firmar el acta.
+
+3\. Al acta se adjuntará la relación de los documentos de los que se haya obtenido copia, así como un ejemplar de la misma, y, en su caso, la relación de aquellos documentos que hayan sido retenidos y trasladados temporalmente a la Agencia de Información y Control Alimentarios por el personal inspector, cualquiera que sea su soporte material.
+
+### Artículo 21. Actuaciones complementarias.
+
+Cuando la índole del asunto así lo requiera, los funcionarios de la Agencia de Información y Control Alimentarios, debidamente acreditados por su Director, podrán solicitar, en el curso de las inspecciones, datos complementarios para completar las actuaciones de inspección. Si el obligado a cumplir este requerimiento es el propio inspeccionado, se indicará en el acta la documentación de que se trate y el tiempo en que ésta deberá ser remitida a la Agencia de Información y Control Alimentarios o puesta a disposición de los inspectores actuantes.
+
+### Artículo 22. Toma de muestras.
+
+1\. La Agencia de Información y Control Alimentarios podrá tomar muestras, a los efectos previstos en la Ley 12/2013, de 2 de agosto, en cualquier fase de la cadena alimentaria, de los productos.
+
+2\. Si, a la vista del resultado de los análisis practicados sobre dichos productos, se detectara un posible incumplimiento de la legislación aplicable en materia agroalimentaria o sanitaria, la Agencia de Información y Control Alimentarios lo comunicará a la mayor brevedad posible a los organismos competentes.
+
+### Artículo 23. Auxilio y colaboración.
+
+1\. De acuerdo con lo establecido en la disposición adicional primera, apartado 10 de la Ley 12/2013 de 2 de agosto, toda persona física o jurídica queda sujeta al deber de colaboración con la Agencia de Información y Control Alimentarios y está obligada a proporcionar, a requerimiento de ésta y en plazo, toda clase de datos e informaciones de que disponga y que puedan resultar necesarios con el objeto y finalidad de la inspección. Dicho plazo será de diez días, salvo que por la naturaleza de lo solicitado y las circunstancias del caso se fije de forma motivada un plazo diferente.
+
+2\. El incumplimiento de la obligación de suministrar la información que le sea requerida en el plazo señalado o el suministro de información incompleta se considerará infracción administrativa, de acuerdo con lo dispuesto en el artículo 23 de la Ley 12/2013, de 2 de agosto.
+
+> Se modifica el apartado 2 por el art. 2.14 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+### Artículo 24. Informe de las actuaciones de control.
+
+El inspector o inspectores que han llevado a cabo las investigaciones emitirán, al finalizar el control, un informe en el que se recogerán todas las actuaciones llevadas a cabo.
+
+### Artículo 25. Registro de las actuaciones.
+
+La Agencia de información y Control Alimentarios relacionará, registrará y archivará sus actuaciones inspectoras en la forma que se determine por el Director del organismo y con el detalle preciso para el debido control, constancia y custodia de las mismas.
+
+### Artículo 26. Deber de secreto.
+
+Todos los que tomen parte en las actuaciones de control, inspección o tramitación de los expedientes sancionadores deberán guardar secreto sobre los hechos y de cuantas informaciones de naturaleza confidencial hayan tenido conocimiento. Asimismo, deberán guardar secreto sobre dichas actuaciones, los que las conociesen por razón de profesión, cargo o intervención como parte, incluso después de cesar en sus funciones.
+
+## CAPÍTULO IV — Consecuencias derivadas de la actuación inspectora
+
+### Artículo 27. Reglas generales de actuación.
+
+1\. A la vista de los resultados que figuren en los informes de control, la Agencia de Información y Control Alimentarios, finalizada la actividad comprobatoria inspectora, podrá:
+
+a) Advertir al sujeto responsable, cuando las circunstancias del caso así lo aconsejen, en los casos en los que de las comprobaciones efectuadas no resulte la comisión de una infracción administrativa, pero sí inobservancias o irregularidades que deban corregirse.
+
+b) Requerir al sujeto responsable para que, en el plazo que se le señale, adopte las medidas en orden al cumplimiento de la normativa, incluso con su justificación ante el funcionario actuante.
+
+c) Llevar a cabo, en los casos de infracción a la Ley 12/2013, de 2 de agosto, las actuaciones administrativas que correspondan, de acuerdo con lo dispuesto en las mismas y en los artículos siguientes.
+
+d) En los casos en que la Agencia de Información y Control Alimentarios tenga conocimiento de presuntas infracciones conforme a lo dispuesto en la normativa reguladora de defensa de la competencia, o en materia de comercio de productos agroalimentarios, remitirá las actuaciones los organismos competentes o a los interesados, de acuerdo con los dispuesto en los artículos siguientes.
+
+2\. En el ejercicio de las competencia que se han atribuido a la Agencia de Información y Control Alimentarios en materia de procedimiento sancionador y con el fin de salvaguardar los derechos de los posibles afectados, ésta actuará de conformidad con lo establecido al respecto por la Ley 30/1992, de 26 de noviembre, y el Reglamento del Procedimiento para el Ejercicio de la Potestad Sancionadora, aprobado por Real Decreto 1398/1993, de 4 de agosto.
+
+> Se modifica la letra c) del apartado 1 por el art. 2.15 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+> Se modifica la letra c) del apartado 1 por la disposición final 2.5 del Real Decreto 267/2017, de 17 de marzo. [Ref. BOE-A-2017-2991](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2991).
+
+### Artículo 28. Actuaciones en el ámbito de las obligaciones impuestas para el mantenimiento de los sistemas de información, seguimiento y análisis de los mercados.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.16 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+### Artículo 29. Actuaciones en los casos de incumplimientos de pago de las aportaciones obligatorias a las organizaciones interprofesionales o de productores.
+
+1\. La Agencia de Información y Control Alimentarios, O.A., iniciará e instruirá, de acuerdo a su propio régimen, los expedientes sancionadores por incumplimientos en el pago de las aportaciones obligatorias a las organizaciones interprofesionales o de productores, reconocidas por el Ministerio de Agricultura, Pesca y Alimentación en los productos o sectores oleícolas (aceite de oliva y aceitunas de mesa), lácteo y vinícola, y elevará a las autoridades competentes las propuestas de resolución que correspondan.
+
+2\. En las infracciones contempladas en el apartado anterior, el impago deberá ser denunciado por la organización interprofesional ante la autoridad competente, acompañando la documentación que acredite haber requerido el pago a los deudores, así como la admisión a trámite de la correspondiente demanda judicial o, en su caso, de la solicitud de laudo arbitral.
+
+3\. No obstante, cuando la aportación económica impagada o las cuotas en que se desglose se calculen sobre datos incluidos en declaraciones oficiales a la administración competente o constatados en sus actuaciones de control, no será necesario acreditar la presentación de la documentación mencionada en el párrafo anterior, siendo suficiente a estos efectos la aportación de una certificación extendida por el órgano administrativo encargado de la gestión de los datos incluidos en dichas declaraciones.
+
+4\. En el ámbito de las infracciones a la Ley 38/1994, de 30 de diciembre, reguladora de las organizaciones interprofesionales agroalimentarias, cuya instrucción corra a cargo de la Agencia de Información y Control Alimentarios, el plazo máximo para resolver el procedimiento sancionador y notificar la resolución expresa del mismo, será de seis meses.
+
+> Se modifica el apartado 1 por el art. 2.17 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+> Se añade el apartado 4 por la disposición final 2.6 del Real Decreto 267/2017, de 17 de marzo. [Ref. BOE-A-2017-2991](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2991).
+
+### Artículo 30. Actuaciones de la Agencia de Información y Control Alimentarios, O.A., en los casos de incumplimientos constatados de la Ley 12/2013, de 2 de agosto.
+
+1\. En el caso de que la Agencia de Información y Control Alimentarios, O.A., constate, en el ejercicio de sus funciones, incumplimientos de lo dispuesto en la Ley 12/2013, de 2 de agosto, iniciará e instruirá, en el caso de que la competencia para su resolución corresponda a la Administración General del Estado, el procedimiento sancionador que corresponda, proponiendo, en su caso, la resolución que proceda a la autoridad competente.
+
+2\. A los efectos de la iniciación de un procedimiento sancionador en virtud de denuncia, éstas deberán cumplir los requisitos establecidos en el artículo 62 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. La Agencia comunicará al denunciante la iniciación o no del procedimiento correspondiente.
+
+3\. Caducará la acción para perseguir las posibles infracciones detectadas, cuando hubieran transcurridos doce meses sin que la Agencia hubiera incoado el oportuno procedimiento sancionador desde la emisión del informe de actuaciones de control establecido en el artículo 24.
+
+4\. El plazo máximo para resolver el procedimiento sancionador y notificar la resolución expresa del mismo será de diez meses, conforme a lo dispuesto en el artículo 23.6 a) de la Ley 12/2013, de 2 de agosto.
+
+5\. Si de conformidad con lo establecido en al artículo 26 de la Ley 12/2013, de 2 de agosto, la competencia fuera de una comunidad autónoma, la Agencia trasladará la información que proceda al órgano competente de ésta.
+
+> Se modifica por el art. único.1 del Real Decreto 187/2026, de 11 de marzo. [Ref. BOE-A-2026-5873](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5873)
+
+> Se modifica el apartado 4 por el art. 2.18 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+> Se añade el apartado 4 por la disposición final 2.7 del Real Decreto 267/2017, de 17 de marzo. [Ref. BOE-A-2017-2991](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2991).
+
+### Artículo 31. Actuaciones en los casos de irregularidades constatadas en el ejercicio de sus funciones.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.2 del Real Decreto 187/2026, de 11 de marzo. [Ref. BOE-A-2026-5873](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5873)
+
+### Artículo 32. Actuaciones en los casos de infracción a la normativa sobre la defensa de la competencia o del comercio.
+
+1\. Cuando, de las comprobaciones efectuadas por la Agencia de Información y Control Alimentarios se deduzca que los hechos constatados en el curso de los controles efectuados, pueden ser constitutivos de alguna de las conductas recogidas en los artículos 1 al 3 de la Ley 15/2007, de 3 de julio, de Defensa de la Competencia, trasladará las actuaciones realizadas a la Comisión Nacional de los Mercados y la Competencia, a los efectos oportunos.
+
+2\. Cuando, de las comprobaciones efectuadas por la Agencia de Información y Control Alimentarios se deduzca que los hechos constatados en el curso de los controles efectuados, pueden ser constitutivos de alguna de las infracciones contempladas en la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, trasladará las actuaciones realizadas a la comunidad autónoma competente, a los efectos de la iniciación del procedimiento sancionador que corresponda.
+
+### Artículo 33. Actuaciones en los casos de infracciones previstas en la Ley 6/2015, de 12 de mayo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 110/2022, de 8 de febrero. [Ref. BOE-A-2022-3676](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3676)
+
+> Se añade por la disposición final 2.8 del Real Decreto 267/2017, de 17 de marzo. [Ref. BOE-A-2017-2991](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2991).
+
+### Disposición derogatoria única. Derogación del Real Decreto 257/1999.
+
+Queda derogado el Real Decreto 257/1999, de 12 de febrero, por el que se regula la supervisión de las ayudas comunitarias al aceite de oliva y la aceituna de mesa por la Agencia para el Aceite de Oliva.
+
+### Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo del artículo 149.1.13.ª de la Constitución, que reserva al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+### Disposición final segunda. Mercado lácteo.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.19 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+### Disposición final tercera. Facultad de desarrollo.
+
+Se faculta al Ministro de Agricultura, Alimentación y Medio Ambiente para dictar cuantas disposiciones sean necesarias para el desarrollo y aplicación del presente real decreto, y en particular para modificar lo dispuesto en los artículos 2, 10, 13 y 29 en aplicación de lo dispuesto en el apartado 6, letra a) de la disposición adicional primera de la Ley 12/2013, de 2 de agosto.
+
+### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 6 de febrero de 2015.
+
+FELIPE R.
+
+La Ministra de Agricultura, Alimentación y Medio Ambiente,
+
+ISABEL GARCÍA TEJERINA

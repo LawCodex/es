@@ -1,0 +1,303 @@
+---
+title: "Real Decreto 1816/1991, de 20 de diciembre, sobre Transacciones Económicas con el Exterior"
+identifier: "BOE-A-1991-30763"
+eli: "https://www.boe.es/eli/es/rd/1991/12/20/1816"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1991-12-20
+published: 1991-12-27
+in_force_from: 1992-02-01
+last_amended: 2011-10-08
+consolidated: 2026-03-05
+gazette: "Boletín Oficial del Estado núm. 310"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-30763"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1816/1991, de 20 de diciembre, sobre Transacciones Económicas con el Exterior
+
+La Ley 40/1979, de 10 de diciembre, sobre Régimen Jurídico de Control de Cambios, faculta al Gobierno para, en defensa de los intereses generales, regular, de acuerdo con lo dispuesto en dicha Ley, los actos, negocios, transacciones y operaciones de toda índole entre residentes y no residentes que supongan, o de cuyo cumplimiento se deriven o puedan derivarse, cobros o pagos exteriores.
+
+En ejercicio de dicha facultad, y en aplicación del artículo 2 de la Ley citada, el Real Decreto 2402/1980, de 10 de octubre, sometió a la exigencia de previa autorización administrativa un amplio conjunto de transacciones y transferencias con el exterior, articulando así un régimen de control de cambios basado en el intervencionismo administrativo.
+
+El establecimiento de un sistema generalizado de restricciones y controles a las transacciones exteriores, cuyos antecedentes mediatos se remontan a la Ley Penal y Procesal para Delitos Monetarios de 24 de noviembre de 1938, respondía a unas circunstancias históricas caracterizadas por un insuficiente nivel de desarrollo económico, una acusada precariedad de las estructuras financieras, un tradicional déficit de la balanza de pagos y una permanente debilidad del tipo de cambio de la peseta, circunstancias todas ellas que parecían aconsejar tal política de restricciones.
+
+A partir de los años ochenta, el desarrollo de la economía española y su creciente grado de integración en las estructuras económicas mundiales han favorecido una política de progresiva liberalización y eliminación de restricciones y trámites administrativos que, en el ámbito concreto del control de cambios, se ha materializado en una serie de disposiciones que han ido suprimiendo la exigencia de autorización previa para la mayor parte de las transacciones.
+
+La adhesión de España a la Comunidad Económica Europea ha favorecido la aceleración de este proceso liberalizador, que legalmente debe culminar con la plena aplicación por España de las disposiciones de la Directiva 88/361/CEE, de 24 de junio de 1988.
+
+El artículo 6 de dicha Directiva establece un periodo transitorio para España, aplicable a determinados tipos de transacciones, que expira el 31 de diciembre de 1992. La actual situación de la economía española permite y aconseja, sin embargo, llevar a cabo la plena liberalización de las transacciones y transferencias con el exterior en el momento presente, sin esperar a la terminación del plazo citado. Asimismo, el grado de interdependencia de la economía española con el exterior, y la creciente internacionalización de la actividad económica hacen conveniente extender la liberalización, no sólo a las transacciones con otros Estados miembros de la CEE, sino también a las realizadas con terceros países.
+
+La eliminación de las restricciones a las transacciones exteriores efectuada por el presente Real Decreto alcanza a la práctica totalidad de las operaciones, manteniéndose tan solo la exigencia de autorización previa para la exportación física de moneda metálica, billetes de banco, cheques bancarios al portador y oro amonedado o en barras a través de las fronteras nacionales por importe superior a 5.000.000 de pesetas, por considerar tal exigencia necesaria en el marco de la lucha contra las actividades delictivas, singularmente el narcotráfico. Tal restricción, por otra parte, no supone perturbación alguna para las transacciones económicas con el exterior al estar totalmente liberalizados los cobros, pagos y transferencias por vía bancaria.
+
+Consecuencia de la supresión de las restricciones y la eliminación de la exigencia de previa autorización administrativa para las transacciones exteriores, con excepción de la aludida en el anterior párrafo, es la desaparición, salvo en la excepción citada, de uno de los elementos integrantes del tipo penal especificados en el artículo 6 de la Ley 40/1979, modificada por la Ley Orgánica 10/1983, de 16 de agosto, con lo que desaparecen igualmente las posibilidades de aplicación de los artículos 7, 8 y 9 de la citada Ley 40/1979, en su redacción dada por la Ley Orgánica 10/1983, en tanto, en aplicación de una cláusula de salvaguardia de las previstas en el artículo 3.º del presente Real Decreto, no se restablezca la exigencia de autorización previa para determinadas transacciones.
+
+La plena y total liberalización de las transacciones exteriores no debe, sin embargo, entenderse sin el mantenimiento de mecanismos de información y comunicación que permitan el conocimiento estadístico de los cobros, pagos y transferencias con el exterior y aseguren la observancia del ordenamiento jurídico español, especialmente en lo que concierne al artículo 111 de la Ley General Tributaria, todo ello al amparo de lo dispuesto en el artículo 4 de la Directiva 88/361/CEE.
+
+Se establecen asimismo cláusulas de salvaguardia que permiten el establecimiento transitorio de restricciones ante determinadas situaciones que por su naturaleza y gravedad lo aconsejaran, siempre con respecto a las obligaciones internacionales asumidas por España, en especial en su carácter de miembro de la CEE.
+
+Por lo que se refiere a las inversiones extranjeras en España y españolas en el extranjero, la liberalización de los cobros, pagos y transferencias con el exterior establecida en el presente Real Decreto se entiende sin perjuicio de que las normas específicas sobre dichas inversiones permitan someter determinadas categorías de las mismas a la exigencia de autorización previa, verificación administrativa o a otras medidas de control, fundamentadas no ya en estrictas consideraciones de control de cambios, sino con razones de defensa de la soberanía económica nacional en el caso de las inversiones extranjeras en España, y de vigilancia del cumplimiento del ordenamiento jurídico, especialmente en materia fiscal, en el caso de las inversiones españolas en el extranjero.
+
+En su virtud, a propuesta del Ministro de Economía y Hacienda, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 20 de diciembre de 1991,
+
+DISPONGO:
+
+## Artículo 1.
+
+1\. Son libres los actos, negocios, transacciones y operaciones de toda índole que supongan, o de cuyo cumplimiento se deriven o puedan derivarse, cobros o pagos entre residentes y no residentes, o transferencias al o del exterior, a que se refieren los artículos 1 y 2 de la Ley 40/1979, de 10 de diciembre, sobre Régimen Jurídico de Control de Cambios, sin más excepciones que las que se deriven de la aplicación de lo dispuesto en los artículos 3.º 4.º y 5.º del presente Real Decreto y de lo que dispongan las Leyes específicamente aplicables.
+
+2\. La liberalización de los actos, negocios, transacciones y operaciones a que se refiere el párrafo anterior se extiende asimismo a los cobros y pagos exteriores, efectuados bien directamente, bien por compensación y a las transferencias del o al exterior derivados de los mismos, así como a la importación o exportación de los instrumentos de giro o crédito utilizados, sin perjuicio de las medidas indispensables de control que pudieran establecerse para impedir las infracciones al ordenamiento jurídico vigente.
+
+## Artículo 2.
+
+1\. A los efectos de lo dispuesto en el artículo 2.3 de la Ley 19/2003, de 4 de julio, sobre régimen jurídico de los movimientos de capitales y de las transacciones económicas con el exterior, la residencia o no residencia en España deberá acreditarse en la forma dispuesta en el presente artículo.
+
+2\. La condición de residente en España deberá acreditarse de la siguiente forma:
+
+a) Las personas físicas de nacionalidad extranjera, mediante la tarjeta o carné individual de autorización de residencia o cualquier otro documento público en el que conste la concesión de la autorización de residencia por la autoridad competente.
+
+Nada obstará a la condición de residente de la persona física extranjera, a efectos de la Ley 19/2003, y del presente real decreto mientras dure su autorización de residencia, el que tenga además domicilio en el extranjero. En tal caso se entenderá que tiene su residencia principal en España, salvo que hubiera hecho devolución del carné o tarjeta de autorización de residencia.
+
+Alternativamente, las personas físicas de nacionalidad extranjera podrán acreditar su condición de residente mediante certificación de residencia fiscal expedida por las autoridades fiscales españolas.
+
+b) Los establecimientos y sucursales en territorio español de personas jurídicas extranjeras o de personas físicas residentes en el extranjero, mediante cualquier documento público en el que consten los datos correspondientes a su constitución, de acuerdo con la legislación española, o certificado de inscripción en el Registro Mercantil.
+
+c) Las personas físicas de nacionalidad española y las personas jurídicas domiciliadas en España se presumirán residentes en España, salvo prueba en contrario.
+
+3\. La condición de no residente deberá acreditarse de la siguiente forma:
+
+a) Las personas físicas españolas, mediante certificación de la autoridad consular española expedida con una antelación máxima de dos meses, que acredite su inscripción en el Registro de Matrícula del Consulado o Sección Consular de la Embajada correspondiente.
+
+b) Las personas físicas extranjeras, mediante certificación negativa de residencia expedida por la autoridad competente con antelación máxima de dos meses.
+
+c) Alternativamente, las personas físicas españolas o extranjeras podrán acreditar su condición de no residentes mediante certificación expedida por las autoridades fiscales del país de residencia o bien mediante una declaración en la que manifiesten que son residentes fiscales en otro Estado y que no disponen de establecimiento permanente en España, y asuman el compromiso de comunicar cualquier alteración de dichas circunstancias.
+
+d) Las personas jurídicas domiciliadas en el extranjero, mediante documento fehaciente que acredite su naturaleza y domicilio.
+
+e) Las sucursales y establecimientos en el extranjero de personas jurídicas españolas o de personas físicas residentes en España, mediante certificación del Cónsul español correspondiente de que se hallan constituidos en el país de que se trate.
+
+f) Los diplomáticos extranjeros acreditados en España y el personal extranjero que preste servicios en Embajadas y Consulados extranjeros o en Organizaciones internacionales en España, mediante tarjeta de identidad expedida por el Ministerio de Asuntos Exteriores.
+
+> Se modifica por el art. único.1 del Real Decreto 1360/2011, de 7 de octubre. [Ref. BOE-A-2011-15813](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15813).
+
+## Artículo 3.
+
+1\. No obstante lo dispuesto en el artículo 1.º, por Real Decreto se podrá, excepcionalmente, a propuesta del Ministro de Economía y Hacienda, prohibir o limitar la realización de determinadas categorías de transacciones con el exterior o de las correspondientes operaciones de cobro, pago o transferencia, cuando éstas afecten gravemente a los intereses de España, o en aplicación de medidas adoptadas por organismos internacionales de los que España sea miembro.
+
+2\. Asimismo, en caso de que movimientos de capitales a corto plazo excepcionalmente amplios provoquen fuertes tensiones en el mercado de cambios u originen perturbaciones graves en la dirección de la política monetaria y de cambios española, el Gobierno, a propuesta del Ministro de Economía y Hacienda podrá adoptar las medidas de salvaguardia que resulten necesarias, sometiendo a un régimen de autorización administrativa determinados tipos de transacciones.
+
+3\. Si cualquiera de las medidas a que se refieren los dos párrafos anteriores afectase a residentes en Estados miembros de la Comunidad Económica Europea (CEE), la medida se adoptará, en su caso, de acuerdo con los procedimientos establecidos en la normativa de la CEE sobre movimientos de capital, así como con las disposiciones vigentes en la CEE que por la especialidad de la medida resultaren de aplicación.
+
+4\. En los supuestos señalados en este artículo, el Real Decreto correspondiente determinará la naturaleza del régimen de excepción que se establezca, su duración y los tipos de transacciones que queden prohibidos o restringidos mientras dicho régimen se encuentre en vigor, así como el procedimiento administrativo aplicable al supuesto de que se trate.
+
+5\. Las transacciones relativas a inversiones extranjeras en España e inversiones españolas en el extranjero se regirán por sus disposiciones específicas.
+
+## Artículo 4.
+
+1\. La salida del territorio nacional de moneda metálica, billetes de banco y cheques bancarios al portador, estén cifrados en pesetas o en moneda extranjera, es libre. No obstante lo anterior, dicha salida estará sometida a declaración cuando su importe sea superior a 1.000.000 de pesetas por persona y viaje.
+
+2\. La introducción en territorio nacional de moneda metálica, billetes de banco o cualesquiera otros medios de pago o instrumentos de giro o crédito, cifrados en pesetas o en moneda extranjera, es libre. No obstante, los no residentes que pretendan introducir en territorio español moneda metálica, billetes de banco o cheques bancarios al portador, cifrados en pesetas o en divisas, por importe superior a 1.000.000 de pesetas para efectuar con ellos alguna operación que, de acuerdo con las normas sobre transacciones con el exterior o sobre inversiones extranjeras en España, requieran la acreditación del origen de los citados medios de pago, tendrán obligación de declararlos en la forma que se determine.
+
+3\. Las normas que se dicten en ejecución del presente Real Decreto regularán el procedimiento aplicable a las declaraciones a las que se refieren los apartados anteriores.
+
+> Se modifica por el art. 1 del Real Decreto 1638/1996, de 5 de julio. [Ref. BOE-A-1996-15620](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-15620).
+
+> Se modifica por el art. 1 del Real Decreto 42/1993, de 15 de enero. [Ref. BOE-A-1993-2419](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-2419).
+
+## Artículo 5.
+
+1\. Los cobros y pagos entre residentes y no residentes, así como las transferencias al o del exterior, estén cifrados todos ellos en euros o en moneda extranjera, deberán efectuarse a través de un proveedor de servicios de pago inscrito en los Registros oficiales del Banco de España (en adelante, Entidades Registradas), con las excepciones señaladas en los artículos 6 y 7 del presente real decreto.
+
+2\. En el caso de los cobros y pagos transfronterizos ordenados o recibidos por residentes en los que intervenga un proveedor de servicios de pago de otro Estado Miembro de la Unión Europea a los que sea de aplicación el Reglamento (CE) 924/2009, de 16 de septiembre, relativo a los Pagos Transfronterizos en la Comunidad o, en los casos de abonos y adeudos en cuentas de clientes no residentes, las Entidades Registradas facilitarán, en la forma y con el alcance que determine el Ministro de Economía y Hacienda, y dentro de los treinta días siguientes a cada mes natural, la información relativa a los cobros, pagos o transferencias exteriores en que intervengan, a los efectos de seguimiento administrativo, fiscal y estadístico de las operaciones. Sólo se solicitará información que pueda recopilarse de manera automática, sin incidir en el tratamiento directo automatizado de los pagos.
+
+3\. En los restantes casos de cobros y pagos y transferencias previstos en el apartado 1, las Entidades Registradas facilitarán, en la forma y con el alcance que determine el Ministro de Economía y Hacienda, y dentro de los treinta días siguientes a cada mes natural, información relativa a los cobros, pagos o transferencias exteriores en que intervengan a los efectos de seguimiento administrativo, fiscal y estadístico de las operaciones.
+
+> Se modifica por el art. único.2 del Real Decreto 1360/2011, de 7 de octubre. [Ref. BOE-A-2011-15813](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15813).
+
+## Artículo 6.
+
+Es libre la apertura y mantenimiento por residentes de cuentas denominadas en euros o en divisas en oficinas operantes en el extranjero tanto de Entidades Registradas como de entidades bancarias o de crédito extranjeras, así como los cobros y pagos entre residentes y no residentes mediante abonos o adeudos en dichas cuentas.
+
+> Se modifica por el art. único.3 del Real Decreto 1360/2011, de 7 de octubre. [Ref. BOE-A-2011-15813](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15813).
+
+## Artículo 7.
+
+1\. Los cobros y pagos entre residentes y no residentes en moneda metálica, billetes de banco o cheques bancarios al portador, cifrados en pesetas o en divisas, efectuados tanto dentro como fuera del territorio español son libres, si bien quedan sujetos a la obligación de declaración en la forma y con el alcance que se determine.
+
+2\. Lo dispuesto en el párrafo anterior no obsta para el cumplimiento de lo establecido en el artículo 4 del presente Real Decreto, respecto de la obligación de declaración para la salida del territorio nacional portando tales medios de pago por importe superior al señalado.
+
+> Se modifica el apartado 2 por el art. 2 del Real Decreto 1638/1996, de 5 de julio. [Ref. BOE-A-1996-15620](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-15620).
+
+> Se modifica el apartado 2 por el art. 2 del Real Decreto 42/1993, de 15 de enero. [Ref. BOE-A-1993-2419](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-2419).
+
+## Artículo 8.
+
+No obstante lo dispuesto en el artículo 1.º del presente Real Decreto, el Ministro de Economía y Hacienda podrá excepcionalmente someter a un trámite de previa verificación o declaración las operaciones de cobro, pago o transferencia del o al exterior derivadas de los tipos de transacciones que se determinen, cuando dicho trámite resulte conveniente para el adecuado conocimiento por la Administración de las transacciones realizadas y, en particular, para el mantenimiento de los registros de activos o pasivos exteriores y la comprobación del cumplimiento de las obligaciones tributarias.
+
+## Artículo 9.
+
+Las Entidades Registradas, en el caso de operaciones, transacciones, actos o negocios con no residentes, así como en las variaciones en cuentas o posiciones financieras deudoras o acreedoras frente al exterior, y las personas físicas o jurídicas residentes que realicen operaciones de las señaladas en el artículo 1 del presente Real Decreto o mantengan activos o pasivos en el exterior, quedan sujetas a la obligación de facilitar a los órganos competentes de la Administración General del Estado y al Banco de España, en la forma que se establezca por orden de la Ministra de Economía y Hacienda, los datos que se les requieran para los fines de seguimiento administrativo, fiscal y estadístico de las operaciones.
+
+> Se modifica por el art. único.4 del Real Decreto 1360/2011, de 7 de octubre. [Ref. BOE-A-2011-15813](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15813).
+
+## Artículo 10.
+
+1\. El incumplimiento de las obligaciones de declaración a que se refieren los artículos 4, 5, 6, 7 y 9 del presente Real Decreto constituirá infracción a los efectos de lo dispuesto en la Ley 40/1979, de 10 de diciembre.
+
+2\. En aplicación de lo dispuesto en el artículo 15.2 de la Ley 40/1979, de 10 de diciembre, cuando por los Servicios de Aduanas se descubriera la salida del territorio nacional de moneda metálica, billetes de banco y cheques bancarios al portador por importe superior a 1.000.000 de pesetas, cifrados en pesetas o en moneda extranjera, sin haberse efectuado la preceptiva declaración, los funcionarios de Aduanas podrán intervenir cautelarmente los indicados medios de pago. En tales casos, el acuerdo de iniciación del procedimiento sancionador se pronunciará sobre las causas que justifiquen el levantamiento, total o parcial, de las medidas cautelares adoptadas o, en su caso, el mantenimiento de las mismas a los efectos previstos en el artículo 15.1 de la Ley 40/1979.
+
+Lo dispuesto en el presente apartado se entenderá sin perjuicio de las actuaciones que procedan en caso de apreciarse por los Servicios de Aduanas la presunta comisión de actividades delictivas.
+
+3\. Las disposiciones que regulen el deber de colaboración con la Administración de las «Entidades Registradas» se considerarán normas de ordenación y disciplina a los efectos previstos en el artículo 1 de la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito, y su infracción será sancionada en los términos establecidos en dicha Ley y por los órganos y autoridades competentes de acuerdo con la misma, sin perjuicio de la aplicación a las mismas de lo dispuesto en la Ley 40/1979, de 10 de diciembre.
+
+> Se modifica por el art. 3 del Real Decreto 1638/1996, de 5 de julio. [Ref. BOE-A-1996-15620](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-15620).
+
+## Artículo 11.
+
+1\. Las competencias en materia de movimientos de capitales y transacciones económicas con el exterior objeto del presente real decreto corresponden al Ministro de Economía y Hacienda.
+
+2\. Las citadas competencias serán ejercidas por el Ministerio de Economía y Hacienda a través de la Dirección General del Tesoro y Política Financiera, y del Banco de España, de acuerdo con lo establecido en el presente artículo.
+
+3\. Corresponderán a la Dirección General del Tesoro y Política Financiera las competencias para:
+
+a) Conceder las autorizaciones, efectuar las verificaciones o establecer los controles sobre las transacciones exteriores o los cobros, pagos o transferencias con el extranjero que, en virtud del ejercicio de una cláusula de salvaguardia de las previstas en el artículo 3 del presente real decreto, queden sujetas a prohibición o limitación.
+
+b) Establecer, el procedimiento y tramitación relativos a las operaciones a que se refieren los artículos 4, 7 y 8 del presente real decreto.
+
+c) Ejercer el control e inspección de las operaciones efectuadas a través de las Entidades Registradas.
+
+d) Ejercer las actuaciones de inspección e investigación que resulten necesarias para prevenir y, en su caso, corregir las actividades contrarias al presente real decreto.
+
+e) Resolver los expedientes administrativos sancionadores a que se refiere el artículo 8 de la Ley 19/2003, de 4 de julio, sobre régimen jurídico de los movimientos de capitales y de las transacciones económicas con el exterior, dentro de las atribuciones que le confiere el artículo 12.2 d), de esta misma ley.
+
+4\. Corresponderán al Banco de España las competencias para:
+
+a) Conceder a bancos, cajas de ahorros y otras entidades financieras autorización para actuar en el mercado de divisas, en los casos en que dicha autorización se requiera de conformidad con la legislación vigente, así como autorizar las actividades de cambio de moneda extranjera en establecimientos abiertos al público de acuerdo con su normativa reguladora.
+
+b) Dictar, en el ámbito de las competencias que le confiere la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito, las instrucciones relativas al contenido, procedimiento y frecuencia de las comunicaciones a que se refiere el artículo 5 del presente real decreto.
+
+c) Recibir, en los términos prevenidos en el presente real decreto, y según el procedimiento establecido de acuerdo con los apartados 3 b) y 4 b) anteriores, las declaraciones e información a que se refieren los apartados 2 y 3 del artículo 5.
+
+d) Ejercer el control e inspección de las operaciones efectuadas a través de las Entidades Registradas.
+
+e) Ejercer las actuaciones de inspección e investigación que resulten necesarias para prevenir y, en su caso, corregir las actividades contrarias al presente real decreto.
+
+> Se modifica por el art. único.5 del Real Decreto 1360/2011, de 7 de octubre. [Ref. BOE-A-2011-15813](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15813).
+
+> Se modifica el apartado 4.a) por la disposición final 1 del Real Decreto 2660/1998, de 14 de diciembre. [Ref. BOE-A-1998-28816](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28816).
+
+## Artículo 12.
+
+Para la imposición de las sanciones administrativas se aplicará lo dispuesto en el Real Decreto 1392/1993, de 4 de agosto, por el que se regula el procedimiento sancionador de las infracciones administrativas en materia de control de cambios.
+
+> Se modifica por el art. 4 del Real Decreto 1638/1996, de 5 de julio. [Ref. BOE-A-1996-15620](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-15620).
+
+## Artículo 13.
+
+1\. Una vez firme la resolución en vía administrativa, se procederá a su ejecución. A tal efecto, se requerirá al expedientado a fin de que haga efectivo el importe de la multa en papel de pagos al Estado o mediante ingreso en la Caja General de Depósitos en el plazo de quince días, prorrogables por otros quince por la Administración, con advertencia de que caso de no efectuarlo, se procederá a su exacción por el procedimiento administrativo de apremio.
+
+Vencido este plazo, se iniciará dicho procedimiento en el que la resolución sancionadora, junto con la certificación de no haberse hecho efectivo el pago de la multa, tendrá el valor y eficacia que el Reglamento General de Recaudación confiere a la certificación de descubierto.
+
+2\. La sanción principal o la accesoria a que se refiere el artículo 10 de la Ley 40/1979, de 10 de diciembre, podrán hacerse efectivas sobre las garantías que, en su caso, hubieran sido constituidas durante la tramitación del procedimiento administrativo, de conformidad con lo dispuesto en el artículo 15 de la misma Ley.
+
+3\. La resolución que ponga fin al procedimiento sancionador acordará lo procedente acerca de las garantías constituidas y de las medidas cautelares adoptadas.
+
+> Se modifica el apartado 3 por el art. 5 del Real Decreto 1638/1996, de 5 de julio. [Ref. BOE-A-1996-15620](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-15620).
+
+## Artículo 14.
+
+De conformidad con lo dispuesto en el artículo 17, punto 2 de la Ley 40/1979, los órganos competentes de la Administración llevarán a cabo, a petición de otros órganos de la Administración, de los órganos judiciales, o por propia iniciativa, actuaciones de investigación cerca de los particulares que directa o indirectamente conduzcan al esclarecimiento de los hechos que pudieran ser constitutivos de infracción o a la prevención de los mismos.
+
+## Artículo 15.
+
+Los libros y la documentación sometidos a investigación que tengan relación con la presunta infracción podrán ser examinados por los órganos inspectores de la Administración en la vivienda, local, escritorio, despacho u oficina de la persona poseedora de los mismos, en su presencia o en la de la persona que a tal efecto designe.
+
+## Artículo 16.
+
+1\. Las actuaciones de investigación se documentarán mediante acta en la que se consignarán:
+
+a) El nombre, apellidos y documento nacional de identidad de la persona con la que se entienda la diligencia, reflejando el carácter o representación con que comparece en la misma.
+
+b) Los elementos esenciales de las actuaciones, datos y documentos objeto de investigación.
+
+c) En su caso, el reconocimiento por parte del presunto infractor de la comisión del ilícito, que tendrá, si procede, los efectos previstos por el artículo 14 de la Ley 40/1979, de 10 de diciembre.
+
+2\. El acta de investigación será elevada al órgano competente al objeto de que, si hubiera lugar, se instruya el correspondiente expediente sancionador o, en su caso, se remita lo actuado a los órganos judiciales.
+
+## Artículo 17.
+
+1\. La liberalización de los pagos de residentes a no residentes y de las transferencias al exterior a que se refiere el artículo 1 del presente real decreto se entenderá sin perjuicio del necesario cumplimiento de las obligaciones fiscales que, en su caso, correspondan al acto, transacción o negocio jurídico principal del que dichos pagos o transferencias deriven, de conformidad con la normas vigentes aplicables.
+
+2\. El incumplimiento de las obligaciones establecidas en los apartados 2 y 3 del artículo 5 y en el artículo 8, será constitutivo de infracción, conforme a lo dispuesto en el artículo 8 de la Ley 19/2003, de 4 de julio, sobre régimen jurídico de los movimientos de capitales y de las transacciones económicas con el exterior.
+
+> Se modifica por el art. único.6 del Real Decreto 1360/2011, de 7 de octubre. [Ref. BOE-A-2011-15813](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15813).
+
+## Disposición adicional primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2660/1998, de 14 de diciembre. [Ref. BOE-A-1998-28816](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-28816).
+
+## Disposición adicional segunda.
+
+En relación con lo dispuesto en el artículo 5.º del presente Real Decreto, podrán también efectuarse cobros y pagos entre residentes y no residentes a través de aquellas otras Entidades de crédito y financieras inscritas en los Registros Oficiales correspondientes del Banco de España o de la Comisión Nacional del Mercado de Valores, siempre que tengan legalmente reconocida dicha posibilidad y, en todo caso, en el ámbito operativo propio de cada una de ellas. Tales Entidades quedarán asimismo sujetas a la obligación señalada en el artículo 9.º del presente Real Decreto.
+
+## Disposición adicional tercera.
+
+El Número de Identificación Fiscal a declarar por los residentes con arreglo al presente Real Decreto deberá acreditarse según lo dispuesto en los números 1 y 2 del artículo 14 del Real Decreto 338/1990, de 9 de marzo.
+
+## Disposición transitoria.
+
+El Fiscal informará a la Dirección General de Transacciones Exteriores del Ministerio de Economía y Hacienda de las resoluciones judiciales de sobreseimiento o archivo que se dicten respecto de aquellas conductas anteriores que carezcan de relevancia penal a tenor del presente Real Decreto, a los efectos de depurar, en su caso, las responsabilidades administrativas a que hubiere lugar.
+
+## Disposición final primera.
+
+Por el Ministro de Economía y Hacienda se dictarán las normas de desarrollo de este Real Decreto, y se establecerán los procedimientos de comunicación e información entre los órganos de la Administración del Estado competentes en materia de control de cambios, los órganos de la Administración Tributaria y el Banco de España.
+
+## Disposición final segunda.
+
+Quedan derogados el Real Decreto 2402/1980, de 10 de octubre, sobre Régimen Jurídico de Control de Cambios, el Real Decreto 1750/1987, de 18 de diciembre, por el que se liberaliza la transferencia de tecnología y la prestación de asistencia técnica extranjera a Empresas españolas y el Real Decreto 1723/1985, de 28 de agosto, simplificando y unificando el sistema de cuentas extranjeras en pesetas.
+
+Asimismo, quedan derogadas las siguientes Ordenes ministeriales:
+
+Orden de 25 de noviembre de 1959, sobre forma de pago de los billetes que expiden las Compañías de navegación aérea para líneas internacionales.
+
+Orden de 28 de julio de 1962 sobre oficinas para cambio de divisas.
+
+Orden de la Presidencia del Gobierno de 15 de septiembre de 1970, sobre exportación de billetes de banco y demás instrumentos de giro o crédito cifrados en divisas.
+
+Orden del Ministerio de Economía y Hacienda de 13 de marzo de 1987, sobre gastos de viaje y estancia en el extranjero y movimiento de divisas y pesetas por frontera.
+
+Orden del Ministerio de Economía y Hacienda de 26 de junio de 1987, sobre regulación de las cuentas extranjeras de pesetas convertibles.
+
+Orden del Ministerio de Economía y Hacienda de 10 de mayo de 1988, sobre cobros y pagos exteriores relacionados con exportaciones.
+
+Orden de 10 de abril de 1989, por la que se modifica parcialmente la de 26 de junio de 1987, sobre regulación de las cuentas extranjeras de pesetas convertibles.
+
+Orden del Ministerio de Economía y Hacienda de 29 de mayo de 1989, sobre pagos y cobros exteriores relacionados con importaciones.
+
+Orden de 29 de junio de 1989, por la que se modifica la de 10 de mayo de 1988, sobre cobros y pagos exteriores relacionados con exportaciones.
+
+Artículo 1.º de la Orden de 12 de marzo de 1990, sobre cuentas extranjeras de pesetas convertibles e inversiones extranjeras en Deuda del Estado.
+
+Orden del Ministerio de Economía y Hacienda de 19 de junio de 1990 sobre liberalización de garantías exteriores.
+
+Orden del Ministerio del Economía y Hacienda de 16 de abril de 1991, por la que se autorizan préstamos en pesetas otorgados por las Entidades delegadas a no residentes.
+
+Orden del Ministerio de Economía y Hacienda de 16 de abril de 1991, por la que se autorizan cuentas en divisas de residentes.
+
+Orden del Ministerio de Economía y Hacienda de 13 de junio de 1991, por la que se regulan las operaciones invisibles corrientes con el exterior.
+
+El presente Real Decreto entrará en vigor el 1 de febrero de 1992.
+
+Dado en Madrid a 20 de diciembre de 1991.
+
+JUAN CARLOS R.
+
+El Ministro de Economía y Hacienda,
+
+CARLOS SOLCHAGA CATALÁN

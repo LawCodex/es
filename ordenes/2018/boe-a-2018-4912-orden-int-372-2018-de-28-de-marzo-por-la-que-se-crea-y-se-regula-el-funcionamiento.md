@@ -1,0 +1,255 @@
+---
+title: "Orden INT/372/2018, de 28 de marzo, por la que se crea y se regula el funcionamiento de la Comisión Ministerial de Administración Digital del Ministerio del Interior"
+identifier: "BOE-A-2018-4912"
+eli: "https://www.boe.es/eli/es/o/2018/03/28/int372"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio del Interior"
+date: 2018-03-28
+published: 2018-04-11
+in_force_from: 2018-04-12
+last_amended: 2026-06-26
+consolidated: 2026-06-26
+gazette: "Boletín Oficial del Estado núm. 88"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-4912"
+retrieved: 2026-10-11
+---
+
+# Orden INT/372/2018, de 28 de marzo, por la que se crea y se regula el funcionamiento de la Comisión Ministerial de Administración Digital del Ministerio del Interior
+
+La Comisión para la Reforma de las Administraciones Públicas (CORA) fue creada mediante Acuerdo de Consejo de Ministros de 26 de octubre de 2012, con el objetivo de convertir nuestras Administraciones Públicas en un factor de competitividad de la economía española. Una de las actuaciones más significativas fue la implantación de un nuevo modelo de gobernanza de las tecnologías de la información y las comunicaciones (TIC) en la Administración General del Estado, desarrollada con la creación, mediante Real Decreto 695/2013, de 20 de septiembre, de una nueva figura directiva de alto nivel con competencias transversales para toda la Administración General del Estado y sus organismos públicos: la Dirección de Tecnologías de la Información y las Comunicaciones, con rango de Subsecretaría, en la actualidad denominada Secretaría General de Administración Digital.
+
+De igual manera, en el Real Decreto 806/2014, de 19 de septiembre, sobre organización e instrumentos operativos de las tecnologías de la información y las comunicaciones en la Administración General del Estado y sus organismos públicos, se definen una serie de órganos colegiados y de unidades que implementarán las políticas de racionalización y transformación de las TIC en el ámbito del sector público administrativo estatal, siendo las Comisiones Ministeriales de Administración Digital los órganos colegiados responsables de implantar, a nivel ministerial, las políticas comunes TIC previamente definidas por los órganos competentes, así como de la transformación digital de cada departamento ministerial y sus organismos públicos adscritos.
+
+Teniendo en cuenta la plena vigencia del Real Decreto 806/2014, de 19 de septiembre, ha de adecuarse el funcionamiento de la Comisión Ministerial de Administración Digital del Ministerio del Interior a la nueva estructura del Departamento establecida por el Real Decreto 770/2017, de 28 de julio.
+
+La regulación general para las Comisiones Ministeriales de Administración Digital que realiza el artículo 7 del Real Decreto 806/2014, de 19 de septiembre, se amplía en el caso del Ministerio del Interior para que quepan en ella los planes de acción que afecten a la consulta política, situaciones de crisis y seguridad del Estado y los que manejen información clasificada, así como los contratos comprendidos en el ámbito de aplicación de la Ley 24/2011, de 1 de agosto, de contratos del sector público en los ámbitos de la defensa y de la seguridad, y los tramitados de conformidad con el artículo 168.a).3.º de la Ley 9/2017, de 8 de noviembre, de contratos del sector público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, exceptuados del informe de la Secretaría General de Administración Digital en el citado Real Decreto 806/2014, de 19 de septiembre.
+
+La composición de la Comisión Ministerial de Administración Digital del Ministerio del Interior se adecua mediante esta orden a las competencias comunes a todas las Comisiones Ministeriales de Administración Digital y a sus competencias específicas.
+
+Por todo ello, con la aprobación previa del Ministro de Hacienda y Función Pública, dispongo,
+
+## Artículo 1. Objeto y adscripción.
+
+1\. La Comisión Ministerial de Administración Digital del Ministerio del Interior, cuya composición y funciones se regulan por esta orden, es el órgano colegiado responsable del impulso y de la coordinación interna del Departamento y sus organismos públicos en materia de administración digital, actuando asimismo como órgano de enlace con la Secretaría General de Administración Digital y con otros órganos o comisiones especializadas en la materia.
+
+2\. La Comisión Ministerial de Administración Digital se adscribe a la Subsecretaría y su ámbito de actuación abarcará a todos los órganos del Ministerio y sus organismos públicos adscritos. Las funciones de apoyo a la Comisión recaerán en la Subdirección General de Calidad de los Servicios e Innovación de la Subsecretaría.
+
+## Artículo 2. Composición.
+
+1\. El Pleno de la Comisión Ministerial de Administración Digital tendrá la siguiente composición:
+
+a) Presidencia: La persona titular de la Subsecretaría del Interior.
+
+En caso de vacante, ausencia, enfermedad, abstención, recusación u otra causa legal, la persona titular de la Presidencia será sustituida por la persona titular de la Vicepresidencia, y en su defecto, por el miembro del órgano colegiado de mayor jerarquía, antigüedad y edad, por este orden.
+
+b) Vicepresidencia: La persona titular de la Dirección General de Política Interior.
+
+c) Vocalías:
+
+1.º La persona titular del Gabinete del Ministro/a.
+
+2.º La persona titular de la Dirección General de la Policía.
+
+3.º La persona titular de la Dirección General de la Guardia Civil.
+
+4.º La persona titular de la Dirección General de Relaciones Internacionales y Extranjería.
+
+5.º La persona titular de la Dirección General de Coordinación y Estudios.
+
+6.º La persona titular de la Secretaría General de Instituciones Penitenciarias.
+
+7.º La persona titular de la Secretaría General de Protección Civil y Emergencias.
+
+8.º La persona titular de la Secretaría General Técnica.
+
+9.º La persona titular de la Dirección General de Tráfico.
+
+10.º La persona titular de la Dirección General de Apoyo a Víctimas del Terrorismo.
+
+11.º La persona titular de la Dirección General de Protección Internacional.
+
+12.º Un representante de la Secretaría de Estado de Seguridad, nombrado por la persona titular de la misma entre las personas titulares de las Subdirecciones Generales dependientes y con competencia en sistemas de información y comunicaciones.
+
+13.º La persona titular de la Gerencia de la entidad de Derecho público Trabajo Penitenciario y Formación para el Empleo.
+
+14.º La persona titular de la Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado (O.A.).
+
+15.º La persona titular del Centro de Inteligencia Contra el Terrorismo y el Crimen Organizado.
+
+Las personas designadas como vocales serán sustituidas por los correspondientes suplentes con rango mínimo de Subdirector/a General o asimilado/a.
+
+d) La persona titular de la División de coordinación de los servicios TIC comunes y transversales de la Agencia Estatal de Administración Digital que ejerza sus funciones en el ámbito del Ministerio del Interior, que asistirá con voz pero sin voto, según lo establecido en los artículos 4.4 y 5.3 del Real Decreto 1125/2024, de 5 de noviembre, por el que se regulan la organización y los instrumentos operativos para la Administración Digital de la Administración del Estado. En el supuesto de que la División se encuentre vacante, o en caso de ausencia o enfermedad de su titular, asistirá la persona designada por la persona titular de la Dirección de la Agencia Estatal de Administración Digital con rango, al menos, de Subdirector General o asimilado.
+
+e) La persona titular de la Subdirección General de Innovación, Calidad e Inspección de los Servicios ejercerá las funciones de Secretaría del Pleno, con voz pero sin voto. Actuará como suplente, la persona que ocupe el puesto de trabajo de Subdirector/a Adjunto/a en dicha Subdirección General.
+
+2\. La Comisión Permanente tendrá la siguiente composición:
+
+a) Presidencia: La persona titular de la Dirección General de Política Interior.
+
+En caso de vacante, ausencia, enfermedad, abstención, recusación u otra causa legal, la persona titular de la Presidencia será sustituida por la persona titular de la Vicepresidencia, y en su defecto, por el miembro del órgano colegiado de mayor jerarquía, antigüedad y edad, por este orden.
+
+b) Vicepresidencia: La persona titular de la Subdirección General de Innovación, Calidad e Inspección de los Servicios.
+
+c) Vocalías:
+
+1.º Un representante del Gabinete del Ministro/a.
+
+2.º Dos representantes de la Dirección General de la Policía.
+
+3.º Dos representantes de la Dirección General de la Guardia Civil.
+
+4.º Un representante de la Dirección General de Relaciones Internacionales y Extranjería.
+
+5.º Un representante de la Dirección General de Coordinación y Estudios.
+
+6.º Un representante de la Secretaría General de Instituciones Penitenciarias.
+
+7.º Un representante de la Secretaría General de Protección Civil y Emergencias.
+
+8.º Un representante de la Secretaría General Técnica.
+
+9.º Dos representantes de la Dirección General de Tráfico.
+
+10.º Un representante de la Dirección General de Apoyo a Víctimas del Terrorismo.
+
+11.º Un representante de la Dirección General de Protección Internacional.
+
+12.º Un representante del Centro de Inteligencia Contra el Terrorismo y el Crimen Organizado.
+
+13.º La persona titular de la Subdirección General de Sistemas de Información y Comunicaciones para la Seguridad.
+
+14.º La persona titular de la Gerencia de la entidad de Derecho Público Trabajo Penitenciario y Formación para el Empleo.
+
+15.º La persona titular de la Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado.
+
+16.º Un representante del Gabinete Técnico de la Subsecretaría del Interior.
+
+d) La persona titular de la División de coordinación de los servicios TIC comunes y transversales de la Agencia Estatal de Administración Digital que ejerza sus funciones en el ámbito del Ministerio del Interior, que asistirá con voz pero sin voto, según lo establecido en los artículos 4.4 y 5.3 del Real Decreto 1125/2024, de 5 de noviembre. En el supuesto de que la División se encuentre vacante, o en caso de ausencia o enfermedad de su titular, asistirá la persona designada por la persona titular de la Dirección de la Agencia Estatal de Administración Digital con rango, al menos, de Subdirector General o asimilado.
+
+e) Secretario/a: Un funcionario/a de carrera de la Subdirección General de Innovación, Calidad e Inspección de los Servicios, designado por la persona titular de la Subdirección General que asistirá a las reuniones con voz pero sin voto.
+
+Los miembros de la Comisión Permanente y sus suplentes serán designados por los órganos superiores y directivos del Ministerio, excepto en el caso del miembro previsto en el párrafo d), incluyendo a los responsables de las actividades más relevantes del Departamento en atención a las funciones atribuidas a la comisión, asegurando el necesario equilibrio entre las áreas funcionales y los responsables TIC, entre funcionarios de carrera del subgrupo A1 y de nivel 29 o 30. En las Unidades administrativas cuya relación de puestos de trabajo no prevea dichos niveles, el suplente será designado por el titular de la Unidad administrativa afectada.
+
+3\. El representante de cada uno de los centros directivos representará y coordinará al resto de Unidades dentro del ámbito de su centro directivo, pudiendo asistir a las reuniones acompañados de expertos en las materias que hayan de tratarse y que actuarán como asesores con voz, pero sin voto.
+
+> Se modifican los apartados 1 y 2 por el art. único de la Orden INT/644/2026, de 23 de junio. [Ref. BOE-A-2026-13891](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13891)
+
+> Se modifican los apartados 1 y 2 por el art. único.1 de la Orden INT/5/2025, de 13 de enero. [Ref. BOE-A-2025-641](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-641)
+
+> Se modifican los apartados 1 y 2 por el art. único.1 de la Orden INT/365/2019, de 27 de marzo. [Ref. BOE-A-2019-4673](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-4673)
+
+## Artículo 3. Funcionamiento.
+
+1\. La Comisión Ministerial de Administración Digital actúa en Pleno y en Comisión Permanente.
+
+2\. Tanto el Pleno como la Comisión Permanente se constituirán válidamente, en primera convocatoria, cuando asistan, presencialmente o a distancia, las personas que ocupan la Presidencia y la Secretaría, o quienes les sustituyan, en su caso y, además, la mitad de su número de miembros totales. En segunda convocatoria se seguirá el mismo criterio que en primera convocatoria, en lo que respecta a la Presidencia y la Secretaría, pero bastará con la asistencia de cinco Vocales en el caso del Pleno y tres Vocales en el caso de la Comisión Permanente.
+
+3\. La Comisión se reunirá en Pleno al menos una vez al año, mediante convocatoria de su Presidente, bien a iniciativa propia, a iniciativa del Vicepresidente, o bien cuando lo soliciten, al menos, la mitad de sus miembros.
+
+4\. La Comisión Permanente se reunirá con periodicidad trimestral, si bien la Presidencia de la misma podrá convocarla cuando resulte necesario.
+
+5\. La Comisión Permanente podrá ser presidida por el Presidente del Pleno, cuando a su juicio lo aconseje la importancia de los asuntos a tratar en el orden del día.
+
+6\. Como criterio general, las sesiones del Pleno se celebrarán ordinariamente de forma presencial, no obstante lo cual, cuando la índole de los asuntos a tratar lo permita, podrán celebrarse reuniones extraordinarias a distancia, en la forma prevista en el artículo 17.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+7\. Como criterio general, las sesiones de la Comisión Permanente serán reuniones a distancia, de carácter no presencial, en la forma prevista en el artículo 17.1 de la Ley 40/2015, de 1 de octubre.
+
+8\. Para las reuniones a distancia se asegurará la identidad de los miembros o personas que los suplan, de acuerdo con lo dispuesto en el citado artículo 17.1 de la Ley 40/2015, de 1 de octubre, y se utilizarán medios electrónicos como videoconferencia, audioconferencia o herramientas ofimáticas, incluido el correo electrónico. En este caso, se entenderán aprobados los asuntos incluidos en el orden del día de la reunión si, en el plazo establecido en la convocatoria, no se formulan observaciones o si las observaciones formuladas son aceptadas, por unanimidad, por los miembros de la Comisión.
+
+9\. En caso de ausencia, vacante, enfermedad u otra causa legal de la persona que ocupa la Presidencia, ejercerá esa función la persona que ocupe la Vicepresidencia y, en su defecto, el miembro del órgano colegiado de mayor jerarquía, antigüedad y edad, por este orden, de entre sus componentes.
+
+10\. La Comisión podrá convocar a las reuniones, en función de la relevancia de los asuntos a tratar, a expertos de la Secretaría General de Administración Digital o bien a otros expertos, todos los cuales asistirán con voz pero sin voto.
+
+11\. La Comisión Ministerial de Administración Digital se regirá por las normas de funcionamiento interno que pudiera aprobar y, en lo no contemplado en ellas, por las normas previstas para los órganos colegiados en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica el apartado 2 por el art. único.2 de la Orden INT/5/2025, de 13 de enero. [Ref. BOE-A-2025-641](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-641)
+
+> Se modifica el apartado 4 por el art. único.2 de la Orden INT/365/2019, de 27 de marzo. [Ref. BOE-A-2019-4673](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-4673)
+
+## Artículo 4. Funciones.
+
+1\. El Pleno de la Comisión Ministerial de Administración Digital desempeñará las siguientes funciones:
+
+a) Velar por el impulso y coordinación interna en materia de Administración Digital.
+
+b) Aprobar, en su caso, la propuesta del Plan de acción para la transformación digital del departamento elaborada por la Comisión permanente, y remitirla a la Agencia Estatal de Administración Digital para su estudio y valoración y posterior elevación a la Comisión de Estrategia Sobre Tecnologías de la Información y las Comunicaciones (CETIC), que la informará. Cumplidos dichos trámites, le corresponde la aprobación definitiva del Plan de acuerdo con lo previsto en el artículo 11 del Real Decreto 1125/2024, de 5 de noviembre.
+
+El Plan comprenderá, al menos, las actuaciones en materia de Administración digital y tecnologías de la información y comunicaciones a desarrollar en el conjunto del departamento y sus organismos públicos y entidades de derecho público vinculados o dependientes de acuerdo con lo previsto en el Real Decreto 1125/2024, de 5 de noviembre.
+
+c) Promover la transformación digital, en el marco de las directrices propuestas por la Agencia Estatal de Administración Digital y establecidas por la persona titular del Ministerio para la Transformación Digital y de la Función Pública.
+
+d) Impulsar la digitalización de los servicios y procedimientos del departamento con el fin de homogeneizarlos, simplificarlos, mejorar su calidad y facilidad de uso, así como las prestaciones ofrecidas a los ciudadanos y empresas, optimizando la utilización de los recursos TIC disponibles.
+
+e) Colaborar con la Agencia Estatal de Administración Digital en la identificación de los medios humanos, materiales y económicos que estén adscritos al departamento que pudieran ser susceptibles de participar en la consecución del objeto del Real Decreto 1125/2024, de 5 noviembre.
+
+f) Cualquiera otra que determine el titular del departamento, de acuerdo con el objetivo de impulso de la transformación digital del departamento y sus necesidades.
+
+2\. La Comisión Permanente tendrá las siguientes funciones:
+
+a) Actuar como órgano de relación entre el departamento y sus organismos y entidades de Derecho público vinculados o dependientes y la Agencia, para asegurar la coordinación con los criterios y políticas definidas por el Ministerio para la Transformación Digital y de la Función Pública.
+
+b) Impulsar, ejecutar y supervisar, en el ámbito del departamento, el cumplimiento de las directrices y el seguimiento de las pautas de actuación desarrolladas de acuerdo con lo previsto en el Real Decreto 1125/2024, de 5 de noviembre.
+
+c) Analizar e informar al Pleno de las necesidades funcionales de las unidades de gestión del departamento y sus organismos vinculados o dependientes y, evaluar las distintas alternativas de solución propuestas por las unidades TIC, identificando las oportunidades de mejora de eficiencia que pueden aportar las TIC, aplicando soluciones ya desarrolladas en el ámbito del Sector Público y estimando costes en recursos humanos y materiales que los desarrollos TIC asociados puedan suponer.
+
+d) Elaborar, para su aprobación por el Pleno, las instrucciones o directrices de organización o de funcionamiento que sean necesarias para la digitalización de los servicios y procedimientos del con el fin de homogeneizarlos, simplificarlos, y mejorar su calidad y facilidad de uso.
+
+e) Proponer al Pleno la relación de los medios humanos, materiales y económicos que estén adscritos al departamento, identificados en colaboración con la Agencia Estatal de Administración Digital, que pudieran ser susceptibles de participar en la consecución del objeto del Real Decreto 1125/2024, de 5 noviembre.
+
+f) Elaborar, en su caso, la propuesta del Plan de acción para la transformación digital del departamento para su aprobación por el Pleno, de acuerdo con las directrices de la Agencia Estatal y las líneas estratégicas establecidas por la CETIC, de acuerdo con lo previsto en el artículo 11 del Real Decreto 1125/2024, de 5 de noviembre.
+
+g) Conocer y, en su caso, informar todas las propuestas de contratación en materia de tecnologías de la información y comunicaciones antes de recabar el informe de la Agencia Estatal de Administración Digital, cuando este sea preceptivo de acuerdo con lo previsto en el artículo 13.4 del Real Decreto 1125/2024, de 5 de noviembre.
+
+h) Apoyar a las Unidades TIC, cuando éstas lo requieran, en la valoración del alineamiento de sus expedientes con el Plan de acción para la transformación Digital del Ministerio.
+
+i) Analizar los proyectos de disposiciones de carácter general, convenios, acuerdos de colaboración, instrucciones y circulares del departamento, que le sean sometidos por la unidad proponente, elaborando un informe sobre la oportunidad de la medida, los costes, la necesidad de recursos humanos y tiempos de desarrollo que se puedan derivar de la aprobación del proyecto, desde la perspectiva de la utilización de medios y servicios TIC.
+
+Se exceptúan de lo previsto en el párrafo anterior los relacionados con la organización de los procesos electorales y de consultas populares excluidos en el párrafo tercero del artículo 11.3 del Real Decreto 1125/2024, de 5 de noviembre, así como los excluidos del informe técnico perceptivo de la Agencia Estatal de Administración Digital en el artículo 13.5 de dicho real decreto.
+
+j) Analizar los proyectos normativos del Departamento que deban contar con una Memoria del Análisis de Impacto Normativo de acuerdo con lo previsto en el artículo 1 del Real Decreto 931/2017, de 27 de octubre, e informar, en lo relativo a lo dispuesto en sus artículos 2.1.d).2.º y 2.1.g) sobre el cálculo del impacto presupuestario en los gastos en medios o servicios de la Administración digital y en lo relativo al impacto que tendrá para la ciudadanía y para la Administración el desarrollo o uso de los medios y servicios de la Administración digital que conlleve la norma. De dicho informe se dará traslado a la Secretaría General Técnica del Departamento y a la unidad proponente del proyecto normativo.
+
+k) Realizar un seguimiento trimestral del Plan de Acción de Transformación Digital del Ministerio aprobado, y elaborar con periodicidad anual un informe de avance del mismo, que recoja el estado de las actuaciones previstas y las contrataciones efectuadas, para su presentación al Pleno.
+
+l) Mantener actualizado un inventario de servicios o recursos de sistemas de información y comunicaciones para la elaboración y traslado al Pleno de propuestas de declaración de servicios transversales en el ámbito de la Administración del Estado no excluidos de dicha declaración de acuerdo con lo previsto en la Disposición adicional segunda del Real Decreto 1125/2024, de 5 de noviembre, para su remisión al órgano competente.
+
+m) Recabar y remitir a la Agencia Estatal de Administración Digital el estado de ejecución de los presupuestos TIC del Departamento y sus organismos y entidades de derecho público vinculados o dependientes con la periodicidad y formato que esta determine, de acuerdo con lo previsto en el artículo 12 del Real Decreto 1125/2024, de 5 noviembre.
+
+n) Cualquiera otra que determine el Pleno, de acuerdo con el objetivo de impulso de la transformación digital del departamento y sus necesidades.
+
+> Se modifica por el art. único.3 de la Orden INT/5/2025, de 13 de enero. [Ref. BOE-A-2025-641](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-641)
+
+> Se modifica el apartado 2 por el art. único.3 de la Orden INT/365/2019, de 27 de marzo. [Ref. BOE-A-2019-4673](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-4673)
+
+## Artículo 5. Grupos de trabajo.
+
+1\. En el seno del Pleno y de la Comisión Permanente podrán crearse grupos de trabajo específicos, permanentes o no, cuya función sea la de apoyar a la Comisión en el ejercicio de sus funciones. Los grupos de trabajo tendrán la composición que, en cada caso, determine el mandato aprobado al efecto. En el acuerdo de creación de cada grupo de trabajo se incluirán las facultades, reglas de funcionamiento, composición y vigencia temporal.
+
+2\. Los grupos de trabajo se crearán y actuarán bajo la superior dirección del titular de la Presidencia del Pleno o, en su caso, de la Comisión Permanente, siendo éste debidamente apoyado por los especialistas de los centros directivos del Departamento en las áreas específicas que se traten en cada grupo de trabajo.
+
+> Se modifica por el art. único.4 de la Orden INT/5/2025, de 13 de enero. [Ref. BOE-A-2025-641](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-641)
+
+## Artículo 6. Petición de información.
+
+La Comisión Ministerial de Administración Digital, para el ejercicio de sus funciones, podrá recabar cuanta información estime precisa de todas las Unidades y organismos públicos del Ministerio, que vendrán obligados a facilitarla, de acuerdo con la legislación vigente.
+
+## Disposición adicional primera. Instrucciones de ejecución.
+
+La Subsecretaría del Departamento podrá dictar las instrucciones necesarias para el mejor cumplimiento de esta orden.
+
+## Disposición adicional segunda. No incremento del gasto público.
+
+El funcionamiento de la Comisión Ministerial de Administración Digital no supondrá incremento de gasto público y será atendida con los medios materiales y de personal existentes en el Ministerio del Interior.
+
+## Disposición derogatoria única. Derogación Normativa.
+
+Quedan sin efecto cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta orden y, en particular, la Orden INT/698/2015, de 17 de abril, por la que se crea y regula el funcionamiento de la Comisión Ministerial de Administración Digital del Ministerio del Interior.
+
+## Disposición final única. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 28 de marzo de 2018.–El Ministro del Interior, Juan Ignacio Zoido Álvarez.

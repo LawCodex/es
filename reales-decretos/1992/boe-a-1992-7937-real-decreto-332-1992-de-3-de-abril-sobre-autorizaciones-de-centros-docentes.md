@@ -1,0 +1,321 @@
+---
+title: "Real Decreto 332/1992, de 3 de abril, sobre autorizaciones de Centros docentes privados, para impartir enseñanzas de régimen general no universitarias"
+identifier: "BOE-A-1992-7937"
+eli: "https://www.boe.es/eli/es/rd/1992/04/03/332"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación y Ciencia"
+date: 1992-04-03
+published: 1992-04-09
+in_force_from: 1992-04-10
+last_amended: 2010-03-12
+consolidated: 2026-03-06
+gazette: "Boletín Oficial del Estado núm. 86"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1992-7937"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 332/1992, de 3 de abril, sobre autorizaciones de Centros docentes privados, para impartir enseñanzas de régimen general no universitarias
+
+La libertad de creación de centros docentes consagrada en el artículo 27.6 de la Constitución Española y concretada en el artículo 21 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación (LODE), necesariamente, ha de coordinarse con el deber de la Administración de asegurar que los centros docentes reúnen los requisitos mínimos establecidos con carácter general, así como otras garantías que la citada Ley Orgánica establece en relación con los titulares de dichos centros.
+
+A este respecto y en desarrollo del artículo 14 de la LODE, se dictó el Real Decreto 1004/1991, de 14 de junio, por el que se establecen los requisitos mínimos de los centros que impartan enseñanzas de régimen general no universitarias. Ahora es necesario regular el procedimiento que debe seguirse para garantizar que los centros privados, cuya apertura se solicita, reúnen tales requisitos y, por tanto, pueden ser autorizados, a tenor de lo dispuesto en el artículo 23 de la LODE. En el caso de que los centros cuya autorización se solicita vayan a impartir enseñanzas obligatorias y se pretenda su acceso al régimen de conciertos educativos es, además, necesario que, respetando la regulación sustantiva sobre la financiación con fondos públicos de centros privados, contenida en la LODE y en el Reglamento de Normas Básicas sobre Conciertos Educativos, aprobado por el Real Decreto 2377/1985, de 18 de diciembre, se defina el modo como se incardina, en el procedimiento general de autorización, la voluntad de acogerse al régimen de conciertos. En particular es preciso establecer la tramitación que permitirá enjuiciar la necesidad de suscribir el convenio a que se refiere la disposición adicional quinta de la LODE y las consecuencias, para el procedimiento de autorización, de la no suscripción del mencionado convenio. En la regulación de estas cuestiones se ha buscado, en todo momento, garantizar los derechos del promotor del centro, permitiendo que la Administración pueda pronunciarse sobre la posible financiación con fondos públicos del centro, antes de que hayan comenzado las obras de construcción.
+
+Asimismo, procede regular las modificaciones de que puede ser objeto la autorización de un centro docente y la extinción de la misma, bien a instancia del titular del centro, bien porque éste deje de reunir los requisitos mínimos que justificaron y dieron validez jurídica a su apertura, advirtiendo que, en este último caso, la extinción de la autorización no tiene connotaciones sancionadoras, sino que es la consecuencia lógica e inevitable de la desaparición de las condiciones a las que la Ley supedita la autorización de un centro docente privado.
+
+El presente Real Decreto pretende responder a las necesidades expuestas estableciendo, para los distintos supuestos, el cauce procedimental correspondiente con las características de simplicidad, economía procesal y garantía de los derechos del administrado que deben presidir la actuación administrativa.
+
+En su virtud, a propuesta del Ministro de Educación y Ciencia, con la aprobación del Ministerio para las Administraciones Públicas, previo informe del Consejo Escolar del Estado, de acuerdo con el Consejo de Estado y previa de liberación del Consejo de Ministros en su reunión del día 3 de abril de 1992,
+
+DISPONGO:
+
+## TÍTULO PRIMERO — Disposiciones de carácter general
+
+### Artículo 1.
+
+1\. La apertura y funcionamiento de los centros docentes privados que impartan enseñanzas de régimen general, de las reguladas en la Ley Orgánica 1/1990 de 3 de octubre, de Ordenación General del Sistema Educativo, se someterán al principio de autorización administrativa.
+
+2\. El régimen jurídico de las autorizaciones de los centros a los que se refiere el apartado anterior, se regulará por lo que se establece en el presente Real Decreto.
+
+3\. La autorización se concederá siempre que los centros reúnan los requisitos mínimos establecidos con carácter general por el Real Decreto 1004/1991, de 14 de junio, y se revocará cuando los centros dejen de reunir estos requisitos. Los centros autorizados gozarán de plenas facultades académicas y se inscribirán en el Registro de Centros.
+
+### Artículo 2.
+
+1\. Toda persona física o jurídica de carácter privado y de nacionalidad española o de cualquier otro Estado miembro de la Comunidad Europea podrá obtener autorización para la apertura y funcionamiento de centros docentes privados, si reúne los requisitos establecidos por la legislación vigente.
+
+2\. Podrán, igualmente, obtener dicha autorización las personas físicas o jurídicas, públicas o privadas, de nacionalidad extranjera, ajustándose a lo que resulte de la legislación vigente, de los acuerdos internacionales, o, en su caso, del principio de reciprocidad.
+
+### Artículo 3.
+
+No podrán ser titulares de centros docentes privados:
+
+a) Las personas que presten servicios en la Administración educativa estatal, autonómica o local.
+
+b) Quiénes tengan antecedentes penales por delitos dolosos.
+
+c) Las personas físicas o jurídicas expresamente privadas del ejercicio de este derecho por sentencia judicial firme.
+
+d) Las personas jurídicas en las que las personas incluidas en los apartados anteriores desempeñen cargos rectores o sean titulares del 20 por 100 o más del capital social.
+
+### Artículo 4.
+
+1\. Los centros autorizados tendrán como denominación genérica la correspondiente a las enseñanzas para las que estén autorizados.
+
+2\. Todos los centros privados tendrán una denominación específica, que figurará en la correspondiente inscripción registral. No podrán utilizarse, por parte de los centros, denominaciones diferentes de aquélla.
+
+### Artículo 4 bis.
+
+1\. Antes de la iniciación del procedimiento de autorización administrativa para la apertura y funcionamiento de un centro docente de enseñanzas de régimen general, será voluntaria una fase previa de consulta, mediante la presentación por parte del solicitante de una memoria resumen del proyecto, ante la correspondiente Dirección Provincial del Ministerio de Educación.
+
+En la memoria se hará constar las enseñanzas para las que se solicita autorización, el número de puestos escolares que pretende crearse y la ubicación del centro indicando, en su caso, las instalaciones existentes.
+
+2\. En el plazo de dos meses desde la presentación de la memoria-resumen, la correspondiente Dirección Provincial del Ministerio de Educación notificará el resultado de la consulta al solicitante o podrá mantener una reunión para dar a conocer su contenido.
+
+3\. El contenido de esta fase no condiciona el sentido de la autorización de apertura y funcionamiento del centro docente de enseñanzas de régimen general.
+
+> Se añade por el art. 2.1 del Real Decreto 131/2010, de 12 de febrero. [Ref. BOE-A-2010-4131](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4131).
+
+## TÍTULO II — Expedientes de autorización
+
+### Artículo 5.
+
+1\. El expediente de autorización administrativa para la apertura y funcionamiento de un centro docente privado, se iniciará a instancia de parte, mediante solicitud dirigida al Ministro de Educación, a través de la Dirección Provincial correspondiente.
+
+La solicitud podrá presentarse en la Dirección Provincial correspondiente o en cualquiera de los lugares determinados en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y Procedimiento Administrativo Común. De acuerdo con lo establecido en el artículo 17.4 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, todos los trámites podrán realizarse electrónicamente.
+
+2\. La solicitud a que se refiere el apartado anterior contendrá los siguientes datos:
+
+a) Persona física o jurídica que promueve el centro.
+
+b) Denominación que se propone.
+
+c) Localización geográfica del centro.
+
+d) Enseñanzas para las que se solicita autorización.
+
+e) Número de unidades y puestos escolares que pretenden crearse.
+
+f) Declaración o manifestación de que la persona promotora del centro no se encuentra incursa en ninguno de los supuestos previstos en el artículo 3 del presente real decreto.
+
+g) Proyecto de las obras que hayan de realizarse para la construcción del centro, que se ajustará a las instalaciones y condiciones mínimas establecidas en la legislación vigente. Si se trata de inmuebles ya existentes, deberán presentarse los planos de las instalaciones en su estado actual y, en su caso, el proyecto de las obras previstas para su acondicionamiento. En cualquier caso, se aportará el título jurídico que justifique la posibilidad de utilización de los inmuebles afectados.
+
+3\. En el supuesto de que los documentos requeridos se encontraran ya en poder de la Administración actuante, el interesado podrá ejercitar el derecho previsto en el artículo 35, párrafo f) de la Ley 30/1992, indicando el órgano administrativo al que fueron presentados o por el que fueron emitidos, la fecha de dicha presentación o emisión y el procedimiento al que correspondieran, siempre que no hubieran transcurrido más de cinco años desde la finalización de éste.
+
+En los supuestos de imposibilidad material de obtener el documento, el órgano competente podrá requerir al solicitante su presentación o, en su defecto, la acreditación por otros medios de los requisitos a que se refiere el documento, con anterioridad a la formulación de la propuesta de resolución.
+
+4\. Si la solicitud no reuniera los requisitos a que hacen referencia el apartado 2 de este artículo, la Dirección Provincial requerirá al interesado para que la subsane en el plazo de diez días, ampliable por cinco días más, indicándole que, si no lo hiciera, se le tendrá por desistido de su solicitud, archivándose ésta sin más trámite.
+
+> Se modifica por el art. 2.2 del Real Decreto 131/2010, de 12 de febrero. [Ref. BOE-A-2010-4131](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4131).
+
+### Artículo 6.
+
+1\. La solicitud, acompañada de la documentación indicada en el artículo anterior, será elevada a la Dirección General de Evaluación y Cooperación Territorial, que emitirá un informe preceptivo, que irá precedido del trámite de audiencia del interesado cuando éste proceda de acuerdo con el artículo 84 de la Ley 30/1992. En dicho informe, se evaluará la adecuación a los requisitos mínimos de instalaciones del proyecto de las obras para la construcción del centro al que hace referencia el artículo 5.2.g. Cuando se trate de instalaciones existentes, se evaluará la adecuación de las mismas, o en su caso, de las obras previstas para su acondicionamiento a los requisitos mínimos de instalaciones. El informe se evacuará en el plazo máximo de un mes desde la fecha en la que el promotor del centro presentó la solicitud, o en su caso, hubiese completado la documentación a la que se refiere el artículo anterior.
+
+2\. Este acto de trámite no pone fin a la vía administrativa y contra él se podrá interponer recurso de alzada de acuerdo con lo establecido en el artículo 107.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y Procedimiento Administrativo Común.
+
+> Se modifica por el art. 2.3 del Real Decreto 131/2010, de 12 de febrero. [Ref. BOE-A-2010-4131](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4131).
+
+### Artículo 7.
+
+1\. En el caso de que las instalaciones existentes recibieran el informe favorable al que hace mención el artículo anterior, el interesado presentará a la Dirección Provincial correspondiente del Ministerio de Educación, la relación del personal del que dispondrá el centro desde el momento del inicio de su actividad, con indicación de sus titulaciones respectivas. Esta relación podrá ser sustituida por el compromiso de aportarla antes del inicio de las actividades educativas.
+
+En el caso de que hubiera que realizar obras para la construcción del centro docente o para acondicionar las instalaciones existentes y dichas obras recibieron el informe favorable al que hace referencia el artículo anterior, el interesado, concluidas las mismas, comunicará su finalización a la Dirección Provincial correspondiente del Ministerio de Educación y presentará la relación del personal de que dispondrá el centro desde el momento del inicio de su actividad, con indicación de sus titulaciones respectivas. Esta relación podrá ser sustituida por el compromiso de aportarla antes del inicio de las actividades educativas.
+
+2\. La Dirección General de Evaluación y Cooperación Territorial, previas las verificaciones oportunas realizadas por la Dirección Provincial correspondiente, formulará propuesta de resolución al Ministro de Educación, previa cumplimentación del trámite de audiencia. Se podrá prescindir de este trámite cuando no figuren en el procedimiento ni sean tenidos en cuenta otros hechos ni otras alegaciones o pruebas que las aducidas por el interesado.
+
+3\. El Ministro de Educación concederá la autorización de apertura y funcionamiento del centro siempre que reúna los requisitos mínimos establecidos en la legislación vigente. La autorización de apertura y funcionamiento no podrá ser denegada, por insuficiencia de las instalaciones propuestas, si las obras han sido realizadas con arreglo al informe preceptivo evacuado por la Dirección General de Evaluación y Cooperación Territorial. En otro caso, denegará la autorización mediante resolución motivada, que pondrá fin a la vía administrativa.
+
+La resolución, íntegra, se notificará al titular del centro; su parte dispositiva será publicada en el “Boletín Oficial del Estado”.
+
+4\. La resolución se dictará en el plazo máximo de dos meses contados a partir del momento en que el interesado comunique lo recogido en el apartado 1 de este artículo. Si no recayera resolución expresa en dicho plazo, se estará a lo dispuesto en la disposición adicional vigésimo novena de la Ley 14/2000, de 29 de diciembre, de medidas fiscales, administrativas y del orden social.
+
+5\. En la resolución por la que se autorice la apertura y funcionamiento de un centro docente constarán los datos siguientes:
+
+a) Titular del centro.
+
+b) Domicilio, localidad, municipio y provincia.
+
+c) Denominación específica.
+
+d) Enseñanzas que se autorizan.
+
+e) Número de unidades o puestos escolares autorizados.
+
+La modificación de algunos de los datos señalados requerirá la previa autorización administrativa en los términos previstos en el título IV de este real decreto.
+
+> Se modifica por el art. 2.4 del Real Decreto 131/2010, de 12 de febrero. [Ref. BOE-A-2010-4131](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4131).
+
+### Artículo 8.
+
+1\. La autorización de apertura y funcionamiento de un centro docente surtirá efectos a partir del curso académico inmediatamente siguiente al de la fecha de la correspondiente resolución. No obstante, el titular del centro podrá solicitar que se aplace la puesta en funcionamiento de éste.
+
+2\. En el centro se impartirán las enseñanzas autorizadas con arreglo a la ordenación académica en vigor.
+
+Cualquier modificación, en las enseñanzas autorizadas, aun cuando se realice con carácter experimental, deberá ser aprobada por el Ministro de Educación y Ciencia, a propuesta de la Dirección General de Centros Escolares e inscribirse en el Registro de Centros.
+
+## TÍTULO III — Expedientes de autorización de los centros de enseñanzas obligatorias que deseen acceder al Régimen de conciertos
+
+### Artículo 9.
+
+Los expedientes de autorización de los centros en los que se vayan a impartir enseñanzas obligatorias y que deseen acceder, en su momento, al régimen de conciertos educativos, se tramitarán conforme a lo dispuesto en el título II del presente Real Decreto, con las particularidades que se establecen en los artículos siguientes.
+
+### Artículo 10.
+
+1\. La solicitud de iniciación del expediente de autorización deberá contener, además de los datos mencionados en el artículo 5.2 de este Real Decreto, manifestación expresa de la voluntad de acogerse al régimen de conciertos educativos.
+
+2\. A petición del promotor del centro, la presentación de los proyectos de obras o planos de las instalaciones podrá postergarse hasta el momento en que haya recaído la resolución a que se refiere el artículo 11 de este Real Decreto.
+
+### Artículo 11.
+
+1\. La Dirección provincial procederá según lo dispuesto en el artículo 6.1 de este Real Decreto y elevará a la Dirección General de Centros Escolares, junto con la solicitud de apertura y funcionamiento del centro, su informe sobre la concurrencia en el mismo de las siguientes circunstancias:
+
+a) Si el centro va a satisfacer necesidades de escolarización de la zona en que va a situarse.
+
+b) Si va a atender a poblaciones socioeconómicamente desfavorecidas.
+
+c) Si propone la realización de alguna experiencia de interés pedagógico para el sistema educativo.
+
+2\. Remitido el informe, la Dirección General de Centros Escolares resolverá sobre la procedencia de suscribir el convenio previsto en la legislación vigente, para los centros de nueva creación que deseen acceder al régimen de conciertos educativos. La resolución se dictará a la vista de la concurrencia en el centro proyectado de las circunstancias a que se refiere el apartado anterior y teniendo en cuenta, en todo caso, el carácter preferente de los centros en régimen de cooperativa.
+
+3\. La resolución de la Dirección General de Centros Escolares no pondrá fin a la vía administrativa.
+
+### Artículo 12.
+
+1\. La suscripción del convenio procederá cuando del expediente tramitado resulte que en el centro concurren las circunstancias de prioridad mencionadas en el artículo anterior, especialmente las referentes a la existencia de necesidades de escolarización en la zona en que se ubicará el centro, y siempre que sean suficientes los fondos públicos destinados al sostenimiento de centros concertados, establecidos en los Presupuestos Generales del Estado.
+
+2\. En el caso de que la suscripción del convenio no resultase procedente según lo establecido en el apartado anterior, el promotor del centro, podrá proseguir no obstante, la tramitación del expediente de autorización según lo previsto en el título II de este Real Decreto, y sin perjuicio de solicitar el acceso al régimen de conciertos con arreglo a lo dispuesto en el artículo 19 y siguientes del Reglamento de Normas Básicas sobre Conciertos Educativos, aprobado por Real Decreto 2377/1985 de 18 de diciembre.
+
+## TÍTULO IV — Modificaciones de la autorización
+
+### Artículo 13.
+
+1\. Se consideran circunstancias que dan lugar a la modificación de la autorización las siguientes:
+
+a) Cambio de denominación específica del centro.
+
+b) Modificación de las instalaciones que implique:
+
+Alteración de las dimensiones de los espacios que fueron tenidos en cuenta para otorgar la autorización.
+
+Cambio en el uso o destino de dichos espacios.
+
+c) Ampliación o reducción del número de unidades o puestos escolares.
+
+d) Modificación de las enseñanzas cuando se realice con carácter experimental, manteniéndose el mismo ciclo, etapa o nivel educativo para el que fue autorizado el centro.
+
+e) Ampliación, reducción o sustitución de enseñanzas, en el caso de centros que impartan formación profesional específica.
+
+f) Ampliación, reducción o sustitución de modalidades, en el caso de centros que impartan bachillerato.
+
+g) Cambio de titularidad del centro.
+
+2\. Se consideran circunstancias que dan lugar a una nueva autorización las siguientes:
+
+a) Cambio de domicilio del centro por traslado de instalaciones.
+
+b) Cambio en el ciclo, etapa o nivel educativo para la que fue autorizado el centro, salvo lo dispuesto en el apartado 1.d) y 1.e), anteriores.
+
+3\. No obstante lo dispuesto en el apartado anterior, el cambio de domicilio de un centro concertado se tramitará según lo dispuesto en el título II de este Real Decreto, si no se modifica el área de influencia del centro y se mantienen las condiciones de atención al mismo grupo de población escolarizable.
+
+### Artículo 14.
+
+1\. La modificación de la autorización deberá ser aprobada por la misma autoridad a quien corresponde la autorización para la apertura y funcionamiento de los centros, si se cumplen los requisitos establecidos en el presente Real Decreto.
+
+2\. Los interesados formularán la correspondiente solicitud, en la que se expresen las causas de la modificación, ante la Dirección provincial.
+
+3\. La Dirección provincial elevará la solicitud, acompañada de los informes pertinentes, a la Dirección General de Centros Escolares, que propondrá al Ministro de Educación y Ciencia la oportuna resolución, previo, en su caso, el trámite de vista y audiencia.
+
+4\. La resolución, que ponga fin al expediente, se dictará en un plazo máximo de tres meses, contados desde la presentación de la solicitud o, en su caso, desde la subsanación de los reparos que se hayan formulado. Esta resolución pondrá fin a la vía administrativa.
+
+La resolución que adopte será notificada y publicada, en los términos que se establecen en el artículo 7.3 de este Real Decreto.
+
+5\. La modificación que se apruebe dará lugar a la correspondiente modificación de la inscripción del centro en el Registro establecido al efecto.
+
+## TÍTULO V — Extinción de la autorización
+
+### Artículo 15.
+
+1\. La autorización se extingue por el cese en sus actividades del centro docente o por revocación expresa por la administración educativa, de acuerdo con lo que se dispone en los artículos siguientes.
+
+2\. La resolución correspondiente, que pondrá fin a la vía administrativa, se adoptará por Orden del Ministro de Educación y Ciencia.
+
+La resolución que se adopte será notificada y publicada en los términos establecidos en el artículo 7.º 3 de este Real Decreto.
+
+### Artículo 16.
+
+1\. La extinción de la autorización por cese de actividades de un centro docente se declarará de oficio por el Ministro de Educación y Ciencia, previa audiencia del interesado, cuando al centro haya cesado de hecho en sus actividades.
+
+Lo dispuesto en este apartado será de aplicación, en el caso de centros de formación profesional, respecto de las enseñanzas que hayan dejado de impartir. En este supuesto, el Ministro de Educación y Ciencia, de oficio, previa audiencia del interesado, procederá a modificar la autorización, excluyendo de la misma las enseñanzas no impartidas.
+
+2\. La extinción de la autorización podrá acordarse a instancia del titular del centro.
+
+En el supuesto de un centro acogido al régimen de conciertos educativos no procederá la extinción de la autorización, a instancia del titular del centro concertado, hasta la fecha de extinción del concierto, salvo acuerdo entre el Ministerio de Educación y Ciencia y el interesado.
+
+3\. En todo caso, la extinción de la autorización surtirá efectos desde el inicio del curso académico siguiente.
+
+### Artículo 17.
+
+1\. El expediente de extinción de la autorización por revocación expresa de la Administración, procederá, de acuerdo con lo dispuesto en el artículo 23 de la Ley Orgánica reguladora del Derecho a la Educación, cuando el centro deje de reunir alguno de los requisitos mínimos establecidos en el Real Decreto 1004/1991, de 14 de junio. Procederá también dicho expediente en el supuesto previsto en el apartado 2, del artículo 19 de este Real Decreto.
+
+2\. En todo caso, se pondrá de relieve al titular lo establecido en el apartado anterior para que subsane las deficiencias; en caso de no hacerlo en el plazo que se le conceda, se iniciará el oportuno expediente. La duración del plazo indicado se establecerá en función de la deficiencia a subsanar.
+
+3\. El expediente de revocación se iniciará por la Dirección General de Centros Escolares. Instruido el expediente se dará vista y audiencia al titular del centro. Cumplido este trámite, y a la vista de las actuaciones realizadas y de las alegaciones formuladas, en su caso, por el interesado, se formulará propuesta de resolución ante el Ministro de Educación y Ciencia.
+
+### Artículo 18.
+
+1\. En la orden por la que se autorice el cese de actividades de un centro y en la que acuerde la revocación de la autorización podrá aprobarse que los efectos de aquéllas sean progresivos, a fin de que los alumnos matriculados en el centro no sufran alteración en su trayectoria educativa.
+
+2\. Las órdenes, a las que se refiere el apartado anterior, darán lugar a la correspondiente inscripción de baja en el Registro de Centros docentes.
+
+### Artículo 19.
+
+1\. Los incumplimientos de normas de régimen académico se comunicarán al interesado para su subsanación.
+
+2\. Si el incumplimiento consistiera en no impartir las enseñanzas para las que se autorizó el centro, de acuerdo con los correspondientes programas y planes de estudio y con sujeción a las normas de ordenación académica, en vigor, se advertirá de ello al interesado para que subsane las deficiencias. De no hacerlo así, en el plazo que se señale, se iniciará el procedimiento de revocación de la autorización Todo ello según lo dispuesto en el artículo 17.2 del presente Real Decreto.
+
+### Disposición adicional primera.
+
+El presente Real Decreto será de aplicación en el ámbito territorial de gestión del Ministerio de Educación y Ciencia.
+
+### Disposición adicional segunda.
+
+Quedarán excluidos del procedimiento señalado en el título III los centros a que se refiere la disposición transitoria tercera número 2 de la Ley Orgánica 1/1990, de 3 de octubre de Ordenación General del Sistema Educativo.
+
+### Disposición adicional tercera.
+
+Si en los procedimientos regulados por este Real Decreto no recayera resolución expresa en los plazos señalados en cada caso se podrán entender desestimadas las solicitudes que los iniciaron.
+
+### Disposición transitoria primera.
+
+Las solicitudes de autorización de nuevos centros las de modificación o de extinción de Ia autorización, así como los expedientes de revocación, que se estén tramitando a la entrada en vigor del presente Real Decreto, continuarán tramitándose con arreglo a esta norma.
+
+### Disposición transitoria segunda.
+
+El Ministro de Educación y Ciencia adoptará lo dispuesto en este Real Decreto a los procedimientos de autorización, a que se refieren las disposiciones transitorias cuarta y séptima del Real Decreto 1004/1991, de 14 de junio, por el que se establecen los requisitos mínimos de los centros que impartan enseñanzas de régimen general no universitarias.
+
+### Disposición derogatoria.
+
+Queda derogado el Decreto 1855/1974, de 7 de junio, sobre Régimen Jurídico de las autorizaciones de centros no estatales de enseñanza y cuantas otras disposiciones de igual o inferior rango se opongan a lo dispuesto en este Real Decreto.
+
+### Disposición final primera.
+
+Por Orden del Ministro de Educación y Ciencia podrá delegarse en la Dirección General de Centros Escolares o en las Direcciones provinciales del Departamento, la resolución de las solicitudes de modificación de la autorización a que se refiere el artículo 14 de este Real Decreto.
+
+### Disposición final segunda.
+
+Se autoriza al Ministro de Educación y Ciencia para dictar las disposiciones necesarias para la ejecución y desarrollo de lo establecido en este Real Decreto.
+
+### Disposición final tercera.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 3 de abril de 1992.
+
+JUAN CARLOS R.
+
+El Ministro de Educación y Ciencia,
+
+JAVIER SOLANA MADARIAGA

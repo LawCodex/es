@@ -1,0 +1,1200 @@
+---
+title: "Real Decreto 1277/2003, de 10 de octubre, por el que se establecen las bases generales sobre autorización de centros, servicios y establecimientos sanitarios"
+identifier: "BOE-A-2003-19572"
+eli: "https://www.boe.es/eli/es/rd/2003/10/10/1277"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Consumo"
+date: 2003-10-10
+published: 2003-10-23
+in_force_from: 2003-10-24
+last_amended: 2026-03-26
+consolidated: 2026-07-01
+gazette: "Boletín Oficial del Estado núm. 254"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-19572"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1277/2003, de 10 de octubre, por el que se establecen las bases generales sobre autorización de centros, servicios y establecimientos sanitarios
+
+Incluye las correcciones de errata y de errores publicadas en BOE núms. 279, de 21 de noviembre de 2003. [Ref. BOE-A-2003-21190](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-21190), y 162, de 6 de julio de 2004. [Ref. BOE-A-2004-12572](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-12572)
+
+La Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, en su artículo 27.3, establece que mediante real decreto se determinarán, con carácter básico, las garantías mínimas de seguridad y calidad que, acordadas en el seno del Consejo Interterritorial del Sistema Nacional de Salud, deberán ser exigidas para la regulación y autorización por parte de las comunidades autónomas de la apertura y puesta en funcionamiento en su respectivo ámbito territorial de los centros, servicios y establecimientos sanitarios. En su artículo 26.2 dispone que el Registro general de centros, establecimientos y servicios sanitarios del Ministerio de Sanidad y Consumo será de carácter público y permitirá a los usuarios conocer los centros, establecimientos y servicios, de cualquier titularidad, autorizados por las comunidades autónomas.
+
+Asimismo, la Ley 14/1986, de 25 de abril, General de Sanidad, en su artículo 29.1, establece que los centros y establecimientos sanitarios, cualquiera que sea su nivel, categoría o titular, precisarán autorización administrativa previa para su instalación y funcionamiento, así como para las modificaciones que respecto de su estructura y régimen inicial puedan establecerse. El artículo 29.2 determina que la previa autorización administrativa se referirá también a las operaciones de calificación, acreditación y registro del establecimiento y que las bases generales sobre calificación, registro y autorización serán establecidas por real decreto. En el artículo 40.9 de la citada ley se prevé la existencia de un Catálogo y Registro general de centros, servicios y establecimientos sanitarios en el que se recogerán las decisiones, comunicaciones y autorizaciones de las comunidades autónomas, de acuerdo con sus competencias.
+
+La finalidad de este real decreto es regular las bases del procedimiento de autorización de centros, servicios y establecimientos sanitarios, establecer una clasificación, denominación y definición común para todos ellos, y crear un Registro y un Catálogo general de dichos centros, servicios y establecimientos, de conformidad con lo dispuesto en los artículos 29.1 y 2 y 40.9 de la Ley 14/1986, de 25 de abril, General de Sanidad, y en el artículo 26.2 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.
+
+La clasificación, las denominaciones y las definiciones contenidas en esta disposición constituyen los criterios generales para proceder posteriormente, en desarrollo del artículo 27.3 de la mencionada Ley 16/2003, a la determinación, con carácter básico, de las garantías mínimas y comunes de seguridad y calidad que deberán exigir las comunidades autónomas para autorizar la apertura y puesta en funcionamiento de los centros, servicios y establecimientos sanitarios.
+
+No es propósito de este real decreto ordenar las profesiones sanitarias, ni limitar las actividades de los profesionales, sino sentar las bases para las garantías de seguridad y calidad de la atención sanitaria.
+
+En el procedimiento de elaboración de la presente disposición general han emitido informe las organizaciones profesionales sanitarias, el Consejo de Consumidores y Usuarios y el Consejo Interterritorial del Sistema Nacional de Salud.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo, con la aprobación previa de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión de 10 de octubre de 2003,
+
+DISPONGO:
+
+### Artículo 1. Objeto y ámbito de aplicación.
+
+1\. Este real decreto tiene por objeto:
+
+a) Regular las bases generales del procedimiento de autorización de centros, servicios y establecimientos sanitarios por las comunidades autónomas.
+
+b) Establecer una clasificación, denominación y definición común para todos los centros, servicios y establecimientos sanitarios, públicos y privados, imprescindible para la creación de un Registro general.
+
+c) Establecer el Catálogo y Registro general de centros, servicios y establecimientos sanitarios.
+
+2\. Las disposiciones de este real decreto se aplicarán a todos los centros, servicios y establecimientos sanitarios, públicos y privados, de cualquier clase y naturaleza.
+
+3\. Las disposiciones de este real decreto no serán de aplicación, regulándose por su normativa especifica, a:
+
+a) Los establecimientos dedicados a la distribución, importación o elaboración de medicamentos o productos sanitarios.
+
+b) Los servicios y unidades técnicas de protección radiológica.
+
+4\. Las disposiciones de este real decreto serán de aplicación sin perjuicio de las funciones y competencias profesionales que para el ejercicio de las profesiones sanitarias y la realización de las actividades profesionales correspondientes vengan establecidas por la normativa vigente.
+
+### Artículo 2. Definiciones.
+
+1\. A los efectos de este real decreto, se entiende por:
+
+a) Centro sanitario: conjunto organizado de medios técnicos e instalaciones en el que profesionales capacitados, por su titulación oficial o habilitación profesional, realizan básicamente actividades sanitarias con el fin de mejorar la salud de las personas. Los centros sanitarios pueden estar integrados por uno o varios servicios sanitarios, que constituyen su oferta asistencial.
+
+b) Servicio sanitario: unidad asistencial, con organización diferenciada, dotada de los recursos técnicos y de los profesionales capacitados, por su titulación oficial o habilitación profesional, para realizar actividades sanitarias específicas. Puede estar integrado en una organización cuya actividad principal puede no ser sanitaria.
+
+c) Establecimiento sanitario: conjunto organizado de medios técnicos e instalaciones en el que profesionales capacitados, por su titulación oficial o habilitación profesional, realizan básicamente actividades sanitarias de dispensación de medicamentos o de adaptación individual de productos sanitarios.
+
+d) Actividad sanitaria: conjunto de acciones de promoción, prevención, diagnóstico, tratamiento o rehabilitación, dirigidas a fomentar, restaurar o mejorar la salud de las personas realizadas por profesionales sanitarios.
+
+e) Autorización sanitaria: resolución administrativa que, según los requerimientos que se establezcan, faculta a un centro, servicio o establecimiento sanitario para su instalación, su funcionamiento, la modificación de sus actividades sanitarias o, en su caso, su cierre.
+
+f) Requisitos para la autorización: requerimientos, expresados en términos cualitativos o cuantitativos, que deben cumplir los centros, servicios y establecimientos sanitarios para ser autorizados por la administración sanitaria, dirigidos a garantizar que cuentan con los medios técnicos, instalaciones y profesionales adecuados para llevar a cabo sus actividades sanitarias.
+
+g) Registro de centros, servicios y establecimientos sanitarios: conjunto de anotaciones de todas las autorizaciones de funcionamiento, modificación y, en su caso, instalación y cierre de los centros, servicios y establecimientos sanitarios concedidas por las respectivas Administraciones sanitarias.
+
+h) Catálogo de centros, servicios y establecimientos sanitarios: relación ordenada de publicación periódica de los centros, servicios y establecimientos sanitarios en funcionamiento que han recibido autorización por parte de las Administraciones sanitarias.
+
+2\. A los efectos de lo dispuesto en esta norma, se consideran centros, servicios y establecimientos sanitarios los que se recogen en la clasificación que figura como anexo I de este real decreto, figurando la definición de cada uno de ellos en el anexo II.
+
+### Artículo 3. Bases generales de autorización.
+
+1\. Las autoridades sanitarias de las comunidades autónomas autorizarán la instalación, el funcionamiento, la modificación y, en su caso, el cierre de todos los centros, servicios y establecimientos sanitarios ubicados en su ámbito territorial. No obstante, en el caso de los centros móviles de asistencia sanitaria, definidos en el anexo II, las comunidades autónomas podrán suscribir acuerdos o convenios por los que una autorización concedida a un centro móvil por una de ellas será válida en otra siempre que exista previa comunicación del centro del inicio de sus actividades en esa comunidad y presentación de la autorización de la otra comunidad autónoma.
+
+2\. La autorización sanitaria de funcionamiento es la que faculta a los centros, servicios y establecimientos sanitarios, públicos y privados, de cualquier clase y naturaleza, para realizar su actividad, y se exigirá con carácter preceptivo por las comunidades autónomas de modo previo al inicio de ésta. La autorización de funcionamiento será concedida para cada establecimiento y para cada centro sanitario, así como para cada uno de los servicios que constituyen su oferta asistencial, debiendo ser renovada, en su caso, con la periodicidad que determine cada comunidad autónoma.
+
+La autorización sanitaria de modificación es la que solicitarán los centros, servicios y establecimientos sanitarios que realicen cambios en su estructura, en su titularidad o en su oferta asistencial.
+
+Las autorizaciones de funcionamiento y de modificación serán concedidas por las autoridades sanitarias de las comunidades autónomas tras la comprobación de que los centros, servicios y establecimientos sanitarios cumplen los requisitos establecidos para la adecuada realización de sus funciones.
+
+La autorización de instalación podrá ser exigida por las comunidades autónomas para los centros, servicios y establecimientos sanitarios de nueva creación que impliquen realización de obra nueva o alteraciones sustanciales en su estructura o instalaciones, y la autorización de cierre, para aquellos que vayan a finalizar su actividad de modo definitivo.
+
+3\. Cuando la normativa vigente atribuya competencias para autorizar la puesta en marcha de un centro en el que se realizan actividades sanitarias a otras instituciones u órganos no sanitarios de la Administración, éstos tendrán que recabar que aquél cuente previamente con la autorización de funcionamiento de las autoridades sanitarias de la correspondiente comunidad autónoma.
+
+4\. Las comunidades autónomas regularán los procedimientos para la autorización de la instalación, el funcionamiento, la modificación o el cierre de los centros, servicios y establecimientos sanitarios ubicados en su ámbito territorial, los cuales deberán ajustarse a lo dispuesto por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Cada comunidad autónoma especificará respecto de cada tipo de procedimiento los trámites y la documentación que deberá ser aportada por los solicitantes para verificar el cumplimiento de los requisitos exigidos de acuerdo con la normativa vigente.
+
+### Artículo 4. Requisitos de los centros, servicios y establecimientos sanitarios.
+
+1\. La clasificación, las denominaciones y las definiciones de los centros, servicios y establecimientos sanitarios contempladas en los anexos I y II constituyen los criterios generales para la posterior definición de requisitos mínimos comunes de autorización, así como para el establecimiento del Registro general.
+
+2\. Los requisitos mínimos comunes para la autorización de instalación, funcionamiento o modificación de un centro, servicio o establecimiento sanitario serán determinados por real decreto para el conjunto y para cada tipo de centro, servicio y establecimiento sanitario. Se tratará de requisitos dirigidos a garantizar que el centro, servicio o establecimiento sanitario cuenta con los medios técnicos, instalaciones y profesionales mínimos necesarios para desarrollar las actividades a las que va destinado. Los establecimientos sanitarios y la oferta asistencial de los centros y servicios sanitarios se ajustarán a lo establecido en el anexo II.
+
+Los requisitos mínimos podrán ser complementados en cada comunidad autónoma por la Administración sanitaria correspondiente para los centros, servicios y establecimientos sanitarios de su ámbito.
+
+> Téngase en cuenta que la actualización del apartado 2, establecida por el art. único.1 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975), entra en vigor el 1 de julio de 2026, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "2. Los requisitos mínimos comunes para la autorización de instalación, funcionamiento o modificación de un centro, servicio o establecimiento sanitario serán determinados por real decreto para el conjunto y para cada tipo de centro, servicio y establecimiento sanitario. Se tratará de requisitos dirigidos a garantizar que el centro, servicio o establecimiento sanitario cuenta con los medios técnicos, instalaciones y profesionales mínimos necesarios para desarrollar las actividades a las que va destinado.
+
+> Los requisitos mínimos podrán ser complementados en cada comunidad autónoma por la Administración sanitaria correspondiente para los centros, servicios y establecimientos sanitarios de su ámbito."
+
+> Se modifica el apartado 2, con efectos desde el 1 de julio de 2026, por el art. único.1 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975)
+
+### Artículo 5. Catálogo y Registro general de centros, servicios y establecimientos sanitarios.
+
+1\. De acuerdo con lo establecido en el artículo 26.2 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, y en el artículo 40.9 de la Ley 14/1986, de 25 de abril, General de Sanidad, se crea en el Ministerio de Sanidad y Consumo un Registro general de centros, servicios y establecimientos sanitarios, en el que se recogerán las decisiones, comunicaciones y autorizaciones de las comunidades autónomas en materia de autorización sanitaria, con respecto a los indicados centros, servicios y establecimientos sanitarios.
+
+2\. El contenido y la estructura del Registro general se establecerán por orden del Ministro de Sanidad y Consumo, previo informe del Consejo Interterritorial del Sistema Nacional de Salud. Los datos de carácter personal que pudieran contenerse en este registro quedarán sometidos a lo previsto por la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+
+3\. Las comunidades autónomas se responsabilizarán de facilitar la información necesaria para mantener permanentemente actualizado el mencionado registro, que se gestionará bajo la responsabilidad del Ministerio de Sanidad y Consumo.
+
+4\. El Registro general de centros, servicios y establecimientos sanitarios tendrá carácter público e informativo.
+
+5\. Periódicamente podrá publicarse un catálogo que recoja la información procedente del Registro general relativa a los centros, servicios y establecimientos sanitarios en funcionamiento.
+
+### Artículo 6. Identificación de los centros, servicios y establecimientos sanitarios autorizados.
+
+1\. Los centros, servicios y establecimientos sanitarios autorizados por las comunidades autónomas para su funcionamiento tendrán en lugar visible un distintivo que permita a los usuarios conocer que han recibido dicha autorización y el tipo de centro, con su oferta asistencial, o establecimiento de que se trata, de acuerdo con la clasificación establecida en el anexo I.
+
+2\. Sólo los centros, servicios y establecimientos sanitarios autorizados podrán utilizar en su publicidad, sin que induzca a error, términos que sugieran la realización de cualquier tipo de actividad sanitaria, limitándose aquella a los servicios y actividades para los que cuenten con autorización, debiendo consignar en dicha publicidad el número de registro otorgado por la autoridad sanitaria de la correspondiente comunidad autónoma al concederle la autorización sanitaria de funcionamiento o la autorización específica de publicidad sanitaria.
+
+### Artículo 7. Garantías de atención sanitaria.
+
+1\. Los centros y servicios sanitarios garantizarán durante todo el tiempo que estén en funcionamiento, que la atención sanitaria a las personas sea realizada por profesionales sanitarios con la titulación oficial y las competencias y habilidades profesionales adecuadas a la asistencia que se presta, conforme a las definiciones de cada oferta asistencial incluidas en el anexo II y de acuerdo con el ámbito y competencias establecidas en el programa oficial de su especialidad en caso de existir, de forma que se garantice la seguridad de las y los pacientes. Igualmente, los establecimientos sanitarios garantizaran durante todo el tiempo que estén en funcionamiento, que la atención a las personas sea realizada por profesionales con la titulación oficial y las competencias y habilidades profesionales adecuadas a los servicios prestados, conforme a las definiciones establecidas en el anexo II.
+
+2\. Los centros, servicios y establecimientos sanitarios dispondrán de información actualizada de todo el personal sanitario que ejerza la actividad, cualquiera que sea su vinculación jurídica y la modalidad y el lugar de prestación de los servicios, sin perjuicio de la necesidad de comunicar y mantener actualizado los datos en el Registro Estatal de Profesionales Sanitarios en los términos establecidos en Real Decreto 640/2014, de 25 de julio, por el que se regula el Registro Estatal de Profesionales Sanitarios. Igualmente, dispondrán de un expediente personal actualizado con indicación de la titulación oficial y en su caso de la especialidad en ciencias de la salud oficial, de todo el personal sanitario que preste servicios bajo cualquier modalidad o vinculación.
+
+3\. Los centros, servicios y establecimientos sanitarios informarán a los profesionales de nueva incorporación sobre las actividades y/o prácticas seguras puestas en marcha en cada uno de ellos para garantizar la seguridad del paciente.
+
+> Téngase en cuenta que este artículo añadido por el art. único.2 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975), entra en vigor el 1 de julio de 2026, según determina su disposición final única.
+
+> Se añade, con efectos desde el 1 de julio de 2026, por el art. único.2 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975)
+
+### Disposición adicional única. Red sanitaria militar.
+
+1\. Con respecto a todos los centros, establecimientos y servicios integrados en la Red sanitaria militar, las competencias administrativas previstas en este real decreto en materia de autorizaciones sanitarias de instalación, funcionamiento, modificación y, en su caso, cierre serán ejercidas por la Inspección General de Sanidad de la Defensa.
+
+2\. La Inspección General de Sanidad de la Defensa facilitará al Ministerio de Sanidad y Consumo la información necesaria para mantener permanentemente actualizado el registro general de centros, establecimientos y servicios sanitarios, en lo que respecta a los integrados en la Red sanitaria militar.
+
+### Disposición transitoria única. Plazo de adaptación.
+
+Se concede un plazo de 18 meses desde la entrada en vigor de este real decreto para que las condiciones de autorización de los centros, servicios y establecimientos sanitarios, así como su clasificación y registro, se adapten a lo establecido en esta norma.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto y en particular el Real Decreto 2177/1978, de 1 de septiembre, sobre registro, catalogación e inspección de centros, servicios y establecimientos sanitarios.
+
+### Disposición final primera. Carácter básico.
+
+Este real decreto tiene carácter de norma básica en virtud de lo establecido en el artículo 149.1.16.ª de la Constitución.
+
+### Disposición final segunda. Habilitación normativa.
+
+Se faculta al Ministro de Sanidad y Consumo para dictar cuantas disposiciones requiera la aplicación de lo dispuesto en este real decreto, así como para la actualización de la clasificación y de las definiciones de los centros, servicios y establecimientos sanitarios y unidades asistenciales a las que se refieren sus anexos.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, a 10 de octubre de 2003.
+
+JUAN CARLOS R.
+
+La Ministra de Sanidad y Consumo,
+
+ANA MARÍA PASTOR JULIÁN
+
+## ANEXO I — Clasificación de centros, servicios y establecimientos sanitarios
+
+<table border="0" class="tabla_ancha">
+<tbody>
+<tr>
+<td>
+<p class="cabeza_tabla">Centros sanitarios</p>
+</td>
+<td>
+<p class="cabeza_tabla">Oferta asistencial</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">
+<em>C.1 Hospitales (centros con internamiento).</em>
+</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.1 Medicina general/de familia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.2 Enfermería.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.1.1 Hospitales generales.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.3 Enfermería obstétrico-ginecológica (matrona).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.1.2 Hospitales especializados.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.4 Podología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.1.3 Hospitales de media y larga estancia.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.5 Vacunación.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">C.1.4 Hospitales de salud mental y tratamiento de toxicomanías.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.6 Alergología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.7 Cardiología.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">C.1.90 Otros centros con internamiento.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.8 Dermatología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.9 Aparato digestivo.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">
+<em>C.2 Proveedores de asistencia sanitaria sin internamiento.</em>
+</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.10 Endrocrinología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.11 Nutrición y Dietética.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.12 Geriatría.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.1 Consultas médicas.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.13 Medicina interna.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.2 Consultas de otros profesionales sanitarios.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.14 Nefrología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.3 Centros de atención primaria.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.15 Diálisis.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.3.1 Centros de salud.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.16 Neumología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.3.2 Consultorios de atención primaria.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.17 Neurología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.4 Centros Polivalentes.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.18 Neurofisiología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.5 Centros Especializados.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.19 Oncología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.5.1 Clínicas dentales.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.20 Pediatría.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.5.2 Centros de reproducción humana asistida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.21 Cirugía pediátrica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.5.3 Centros de interrupción voluntaria del embarazo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.22 Cuidados intermedios neonatales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.5.4 Centros de cirugía mayor ambulatoria.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.23 Cuidados intensivos neonatales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.5.5 Centros de diálisis.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.24 Reumatología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.5.6 Centros de diagnóstico.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.25 Obstetricia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.5.7 Centros móviles de asistencia sanitaria.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.26 Ginecología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.5.8 Centros de transfusión.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.27 Inseminación artificial.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.5.9 Bancos de tejidos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.28 Fecundación in vitro.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.5.10 Centros de reconocimiento.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.29 Banco de semen.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.5.11 Centros de salud mental.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.30 Laboratorio de semen para capacitación espermática.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">C.2.5.90 Otros centros especializados.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">C.2.90 Otros proveedores de asistencia sanitaria sin Internamiento.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.31 Banco de embriones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.32 Recuperación de oocitos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.33 Planificación familiar.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">
+<em>C.3 Servicios sanitarios integrados en una organización no sanitaria.</em>
+</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.34 Interrupción voluntaria del embarazo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.35 Anestesia y Reanimación.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="74">
+<p class="cuerpo_tabla_izq"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">U.36 Tratamiento del dolor.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.37 Medicina intensiva.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.38 Quemados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.39 Angiología y Cirugía Vascular.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.40 Cirugía cardiaca.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.41 Hemodinámica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.42 Cirugía torácica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.43 Cirugía general y digestivo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.44 Odontología/Estomatología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.45 Cirugía maxilofacial .</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.46 Cirugía plástica y reparadora.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.47 Cirugía estética.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.48 Medicina estética.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.49 Neurocirugía.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.50 Oftalmología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.51 Cirugía refractiva.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.52 Otorrinolaringología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.53 Urología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.54 Litotricia renal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.55 Cirugía ortopédica y Traumatología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.56 Lesionados medulares.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.57 Rehabilitación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.58 Hidrología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.59 Fisioterapia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.60 Terapia ocupacional.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.61 Logopedia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.62 Foniatría.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.63 Cirugía mayor ambulatoria.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.64 Cirugía menor ambulatoria.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.65 Hospital de día.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.66 Atención sanitaria domiciliaria.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.67 Cuidados paliativos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.68 Atención continuada en Atención Primaria.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.69 Psiquiatría.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.70 Psicología clínica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.71 Atención sanitaria a drogodependientes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.72 Obtención de muestras.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.73 Laboratorio Clínico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.74 <strong>(Suprimida)</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.75 Inmunología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.76 Microbiología y Parasitología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.77 Anatomía patológica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.78 Genética.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.79 Hematología clínica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.80 Laboratorio de hematología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.81 Extracción de sangre para donación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.82 Servicio de transfusión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.83 Farmacia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.84 Depósito de medicamentos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.85 Farmacología clínica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.86 Radioterapia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.87 Medicina nuclear.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.88 Radiodiagnóstico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.89 Asistencia a lesionados y contaminados por elementos radiactivos y radiaciones ionizantes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.90 Medicina preventiva.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.91 Medicina de la educación física y el deporte.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.92 Medicina hiperbárica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.93 Extracción de órganos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.94 Trasplante de órganos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.95 Obtención de tejidos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.96 Implantación de tejidos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.97 Banco de tejidos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.98 Medicina aeronáutica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.99 Medicina del trabajo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.100 Transporte sanitario (carretera, aéreo, marítimo).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">U.101 Terapias no convencionales.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">U.102 Medicina Legal y Forense.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">U.103 Psiquiatría Infantil y de la Adolescencia.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">U.104 Banco de oocitos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">U.105 Urgencias y Emergencias.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">U.106 Radiofísica hospitalaria.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">U.107 Radiofarmacia.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">U.900 Otras unidades asistenciales.</td>
+</tr>
+</tbody>
+</table>
+
+> Téngase en cuenta que las referencias U.106 y U.107, añadidas por el art. único.3 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975), entra en vigor el 1 de julio de 2026, según determina su disposición final única.
+
+Establecimientos sanitarios:
+
+E.1 Oficinas de farmacia.
+
+E.2 Botiquines.
+
+E.3 Ópticas.
+
+E.4 Ortopedias.
+
+E.5 Establecimientos de audioprótesis.
+
+> Se añaden las referencias U.106 y U.107, con efectos desde el 1 de julio de 2026, por el art. único.3 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975)
+
+> Se modifica la referencia U.73 y se suprime la U.74, por la disposición final 1.1 del Real Decreto 101/2025, de 18 de febrero. [Ref. BOE-A-2025-3189](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-3189)
+
+> Téngase en cuenta que esta actualización produce efectos el 20 de febrero de 2026, según establece la disposición final 5 del citado Real Decreto.
+
+> Se modifica la referencia U.68 y se añade la referencia U.105 por la disposición final 1.1 del Real Decreto 610/2024, de 2 de julio. [Ref. BOE-A-2024-13418](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13418)
+
+> Téngase en cuenta que esta modificación produce efectos desde el 4 de julio de 2025, según establece la disposición final 6 del citado Real Decreto.
+
+> Se añade la referencia U.104 por el art. 2.1 de la Orden SND/1215/2021, de 5 de noviembre. [Ref. BOE-A-2021-18287](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18287)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 283, de 26 de noviembre de 2021. [Ref. BOE-A-2021-19521](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19521)
+
+> Se añade la referencia U.103, con efectos de 5 de agosto de 2022, por la disposición final 2.1 del Real Decreto 689/2021, de 3 de agosto. [Ref. BOE-A-2021-13266](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13266)
+
+> Se añade la referencia U.102 por la disposición final 2.1 del Real Decreto 704/2020, de 28 de julio. [Ref. BOE-A-2020-8682](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8682)
+
+> Se modifica la referencia C.2.5.10 por el art. único.1 de la Orden SCO/1741/2006, de 29 de mayo. [Ref. BOE-A-2006-9963](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9963).
+
+> Redactado conforme a las correcciones de errata y de errores publicadas en BOE núms. 279, de 21 de noviembre de 2003. [Ref. BOE-A-2003-21190](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-21190), y 162, de 6 de julio de 2004. [Ref. BOE-A-2004-12572](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-12572)
+
+## ANEXO II — Definiciones de centros, unidades asistenciales y establecimientos sanitarios
+
+## CENTROS SANITARIOS
+
+C.1 *Hospitales (centros con internamiento):*centros sanitarios destinados a la asistencia especializada y continuada de pacientes en régimen de internamiento (como mínimo una noche), cuya finalidad principal es el diagnóstico o tratamiento de los enfermos ingresados en éstos, sin perjuicio de que también presten atención de forma ambulatoria.
+
+C.1.1 Hospitales generales: hospitales destinados a la atención de pacientes afectos de diversa patología y que cuentan con las áreas de Medicina, Cirugía, Obstetricia y Ginecología y Pediatría. También se considera general cuando, aun faltando o estando escasamente desarrollada alguna de estas áreas, no se concentre la mayor parte de su actividad asistencial en una determinada.
+
+C.1.2 Hospitales especializados: hospitales dotados de servicios de diagnóstico y tratamiento especializados que dedican su actividad fundamental a la atención de determinadas patologías o de pacientes de determinado grupo de edad o con características comunes.
+
+C.1.3 Hospitales de media y larga estancia: hospitales destinados a la atención de pacientes que precisan cuidados sanitarios, en general de baja complejidad, por procesos crónicos o por tener reducido su grado de independencia funcional para la actividad cotidiana, pero que no pueden proporcionarse en su domicilio, y requieren un periodo prolongado de internamiento.
+
+C.1.4 Hospitales de salud mental y tratamiento de toxicomanías: hospitales destinados a proporcionar diagnóstico, tratamiento y seguimiento de su enfermedad a los pacientes que precisan ser ingresados y que sufren enfermedades mentales o trastornos derivados de las toxicomanías.
+
+C.1.90 Otros centros con internamiento: hospitales que no se ajustan a las características de ninguno de los grupos anteriores o reúnen las de más de uno de ellos.
+
+C.2 *Proveedores de asistencia sanitaria sin internamiento:*centros sanitarios en los que se prestan servicios de promoción de la salud, prevención, diagnóstico, tratamiento y rehabilitación por profesionales sanitarios a pacientes que no precisan ingreso.
+
+C.2.1 Consultas médicas: centros sanitarios donde un médico realiza actividades sanitarias. También se consideran consultas, aunque haya más de un profesional sanitario, cuando la atención se centra fundamentalmente en el médico y los restantes profesionales actúan de apoyo a éste.
+
+C.2.2 Consultas de otros profesionales sanitarios: centros sanitarios donde un profesional sanitario (diferente de médico u odontólogo) realiza actividades sanitarias. También se consideran consultas aunque haya más de un profesional sanitario cuando la atención se centra fundamentalmente en uno de ellos y los restantes actúan de apoyo a éste.
+
+C.2.3 Centros de atención primaria: centros sanitarios sin internamiento que atienden al individuo, la familia y la comunidad, desarrollando funciones de promoción de la salud, prevención, diagnóstico, curación y rehabilitación a través tanto de sus medios básicos como de los equipos de apoyo a la atención primaria.
+
+C.2.3.1 Centros de salud: son las estructuras físicas y funcionales que posibilitan el desarrollo de una atención primaria de salud coordinada globalmente, integral, permanente y continuada, y con base en el trabajo de equipo de los profesionales sanitarios y no sanitarios que actúan en ellos. En ellos desarrollan sus actividades y funciones los equipos de atención primaria.
+
+C.2.3.2 Consultorios de atención primaria: centros sanitarios que, sin tener la consideración de centros de salud, proporcionan atención sanitaria no especializada en el ámbito de la atención primaria de salud.
+
+C.2.4 Centros polivalentes: centros sanitarios donde profesionales sanitarios de diferentes especialidades ejercen su actividad atendiendo a pacientes con patologías diversas.
+
+C.2.5 Centros especializados: centros sanitarios donde diferentes profesionales sanitarios ejercen sus respectivas actividades sanitarias atendiendo a pacientes con unas determinadas patologías o de un determinado grupo de edad o con características comunes.
+
+C.2.5.1 Clínicas dentales: centros sanitarios en los que se realizan actividades sanitarias en el ámbito de la salud bucodental.
+
+C.2.5.2 Centros de reproducción humana asistida: centros sanitarios en los que equipos biomédicos especialmente cualificados realizan técnicas de reproducción asistida o sus derivaciones así como los bancos de recepción, conservación y distribución del material biológico o humano preciso.
+
+C.2.5.3 Centros de interrupción voluntaria del embarazo: centros sanitarios donde se lleva a cabo la práctica del aborto en los supuestos legalmente permitidos.
+
+C.2.5.4 Centros de cirugía mayor ambulatoria: centros sanitarios dedicados a la atención de procesos subsidiarios de cirugía realizada con anestesia general, local, regional o sedación, que requieren cuidados postoperatorios de corta duración, por lo que no necesitan ingreso hospitalario.
+
+C.2.5.5 Centros de diálisis: centros sanitarios donde se realiza tratamiento con diálisis a pacientes afectados de patología renal.
+
+C.2.5.6 Centros de diagnóstico: centros sanitarios dedicados a prestar servicios diagnósticos, analíticos o por imagen.
+
+C.2.5.7 Centros móviles de asistencia sanitaria: centros sanitarios que trasladan medios personales y técnicos con la finalidad de realizar actividades sanitarias.
+
+C.2.5.8 Centros de transfusión: centros sanitarios en los que se efectúan cualquiera de las actividades relacionadas con la extracción y verificación de la sangre humana o sus componentes, sea cual sea su destino, y de su tratamiento, almacenamiento y distribución cuando el destino sea la transfusión.
+
+C.2.5.9 Bancos de tejidos: centros sanitarios encargados de conservar y garantizar la calidad de los tejidos, después de su obtención y hasta su utilización como aloinjertos o autoinjertos.
+
+C.2.5.10 Centros de reconocimiento: centros sanitarios donde, de acuerdo con lo previsto en su normativa específica, se llevan a cabo reconocimientos médicos y psicológicos para determinar las condiciones físicas y psicológicas de los aspirantes o titulares de permisos o licencias, o para la realización de determinadas actividades y para su renovación.
+
+C.2.5.11 Centros de salud mental: centros sanitarios en los que se realiza el diagnóstico y tratamiento en régimen ambulatorio de las enfermedades y trastornos mentales, emocionales, relacionales y del comportamiento.
+
+C.2.5.90. Otros centros especializados: son aquellos centros especializados que no se ajustan a las características de ninguno de los grupos anteriores.
+
+C.2.90 Otros proveedores de asistencia sanitaria sin internamiento: prestadores de asistencia sanitaria a pacientes no ingresados que no se ajustan a las características de ninguno de los grupos anteriores.
+
+C.3 *Servicios sanitarios integrados en una organización no sanitaria:*servicios que realizan actividades sanitarias pero que están integrados en organizaciones cuya principal actividad no es sanitaria (prisión, empresa, balneario, residencia de tercera edad,...).
+
+## ESTABLECIMIENTOS SANITARIOS
+
+E.1 Oficinas de farmacia: establecimientos sanitarios privados de interés público, sujetos a la planificación sanitaria que establezcan las comunidades autónomas, en las que el farmacéutico titular-propietario de aquéllas, asistido, en su caso, de ayudantes o auxiliares, debe prestar a la población los servicios básicos recogidos en el artículo 1 de la Ley 16/1997, de 25 de abril, de regulación de los servicios de las oficinas de farmacia.
+
+E.2 Botiquines: establecimientos sanitarios autorizados para la tenencia, conservación y dispensación de medicamentos y productos sanitarios, por la existencia de dificultades especiales de accesibilidad a una oficina de farmacia.
+
+E.3 Ópticas: establecimientos sanitarios donde, bajo la dirección técnica de un diplomado en Óptica y Optometría, se realizan actividades de evaluación de las capacidades visuales mediante técnicas optométricas; tallado, montaje, adaptación, suministro, venta, verificación y control de los medios adecuados para la prevención, detección, protección, mejora de la agudeza visual; ayudas en baja visión y adaptación de prótesis oculares externas.
+
+E.4 Ortopedias: establecimientos sanitarios donde, bajo la dirección técnica de personal con la titulación oficial, cualificación profesional, o experiencia requeridas conforme a la legislación vigente, se lleva a cabo la dispensación, con adaptación individualizada al paciente, de productos sanitarios de ortopedia considerados como prótesis u ortesis, así como ayudas técnicas destinadas a paliar la pérdida de autonomía o funcionalidad o capacidad física de los usuarios.
+
+E.5 Establecimientos de audioprótesis: establecimientos sanitarios donde, bajo la dirección técnica de personal con la titulación oficial, cualificación profesional o experiencia requeridas conforme a la legislación vigente, se lleva a cabo la dispensación, con adaptación individualizada al paciente, de productos sanitarios dirigidos a la corrección de deficiencias auditivas.
+
+## OFERTA ASISTENCIAL
+
+La oferta asistencial de los centros sanitarios anteriormente indicados podrá estar integrada por uno o varios de los siguientes servicios o unidades asistenciales:
+
+U.1*Medicina general /de familia:*unidad asistencial en la que un médico/especialista en Medicina familiar y comunitaria es responsable de prestar servicios de prevención y promoción de la salud, diagnóstico o tratamiento básicos en régimen ambulatorio.
+
+U.2*Enfermería:*unidad asistencial en la que personal de Enfermería es responsable de desarrollar funciones y actividades propias de su titulación.
+
+U.3*Enfermería obstétrico-ginecológica (matrona):*unidad asistencial en la que una matrona es responsable de desarrollar funciones y actividades destinadas a prestar atención a las mujeres en el embarazo, parto y puerperio, y al recién nacido.
+
+U.4*Podología:*unidad asistencial en la que un podólogo es responsable de prestar cuidados específicos propios de su titulación relacionados con la patología de los pies.
+
+U.5*Vacunación:*unidad asistencial donde personal sanitario conserva y administra vacunas. Las funciones de custodia y conservación de éstas estarán bajo la responsabilidad de un farmacéutico.
+
+U.6*Alergología:*unidad asistencial en la que un médico especialista en Alergología es responsable de realizar el estudio, diagnóstico y tratamiento de la patología producida por mecanismos inmunológicos, especialmente de hipersensibilidad.
+
+U.7*Cardiología:*unidad asistencial en la que un médico especialista en Cardiología es responsable de realizar el estudio, diagnóstico y tratamiento de las enfermedades cardiovasculares.
+
+U.8*Dermatología:*unidad asistencial en la que un médico especialista en Dermatología médico-quirúrgica y Venereología es responsable de realizar el estudio, diagnóstico y tratamiento de pacientes afectados de patología relacionada con la piel y tejidos anejos.
+
+U.9*Aparato digestivo:*unidad asistencial en la que un médico especialista en Aparato digestivo es responsable de realizar el estudio, diagnóstico y tratamiento de pacientes afectados de patología digestiva.
+
+U.10*Endocrinología:*unidad asistencial en la que un médico especialista en Endocrinología y Nutrición es responsable de realizar el estudio, diagnóstico y tratamiento de pacientes afectados de patología relacionada con el sistema endocrino, así como del metabolismo y de las consecuencias patológicas derivadas de sus alteraciones.
+
+U.11 Nutrición y dietética: unidad asistencial que, bajo la responsabilidad de una persona graduada en Nutrición Humana y Dietética o una persona especialista en Endocrinología y Nutrición, se encarga de la adecuada nutrición de las personas en la atención sanitaria.
+
+> Téngase en cuenta que la modificación de la referencia U.11, establecida por el art. único.4 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975), entra en vigor el 1 de julio de 2026, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "U.11*Nutrición y dietética:*unidad asistencial que, bajo la responsabilidad de un facultativo, se encarga de la adecuada nutrición de los pacientes ingresados y de los que precisan continuar el tratamiento tras el ingreso."
+
+U.12*Geriatría:*unidad asistencial en la que un médico especialista en Geriatría es responsable de realizar el estudio, diagnóstico y tratamiento de la patología de la edad avanzada.
+
+U.13*Medicina interna:*unidad asistencial en la que un médico especialista en Medicina interna es responsable de realizar el estudio, diagnóstico y tratamiento médico de pacientes afectados de patología diversa.
+
+U.14*Nefrología:*unidad asistencial en la que un médico especialista en Nefrología es responsable de realizar el estudio, diagnóstico y tratamiento de pacientes con enfermedades del riñón y las vías urinarias, así como con procesos generales que pueden tener su origen en un mal funcionamiento renal.
+
+U.15*Diálisis:*unidad asistencial en la que un médico especialista en Nefrología es responsable de que se realice el tratamiento con diálisis a pacientes afectados de patología renal.
+
+U.16*Neumología:*unidad asistencial en la que un médico especialista en Neumología es responsable de realizar el estudio, diagnóstico y tratamiento de pacientes afectados de patología respiratoria.
+
+U.17*Neurología:*unidad asistencial en la que un médico especialista en Neurología es responsable de realizar el estudio, diagnóstico y tratamiento médico de pacientes afectados de patología relacionada con el sistema nervioso central y periférico.
+
+U.18*Neurofisiología:*unidad asistencial en la que un médico especialista en Neurofisiología clínica es responsable de realizar la exploración funcional del sistema nervioso central y periférico, con fines de diagnóstico, pronóstico u orientación terapéutica.
+
+U.19*Oncología:*unidad asistencial en la que un médico especialista en Oncología médica es responsable de realizar el estudio, diagnóstico, tratamiento y seguimiento de pacientes con neoplasias.
+
+U.20*Pediatría:*unidad asistencial en la que un médico especialista en Pediatría y sus áreas específicas es responsable de prestar cuidados específicos a pacientes en edad pediátrica, encargándose del estudio de su desarrollo, el diagnóstico y el tratamiento de sus enfermedades.
+
+U.21*Cirugía pediátrica:*unidad asistencial en la que un médico especialista en Cirugía pediátrica es responsable de realizar el estudio, diagnóstico y tratamiento en procesos quirúrgicos específicos de la edad infantil.
+
+U.22*Cuidados intermedios neonatales:*unidad asistencial en la que, bajo la responsabilidad de un médico especialista en Pediatría y sus áreas específicas, se realiza la atención del recién nacido de edad gestacional superior a 32 semanas o peso superior a 1.500 gramos con patología leve que necesita técnicas especiales de cuidados medios.
+
+U.23*Cuidados intensivos neonatales:*unidad asistencial en la que, bajo la responsabilidad de un médico especialista en Pediatría y sus áreas específicas, se realiza la atención del recién nacido con patología médico-quirúrgica, con compromiso vital, que precisa de medios y cuidados especiales de forma continuada.
+
+U.24*Reumatología:*unidad asistencial en la que un médico especialista en Reumatología es responsable de realizar el estudio, diagnóstico y tratamiento de pacientes afectados de patología reumática.
+
+U.25*Obstetricia:*unidad asistencial en la que un médico especialista en Obstetricia y Ginecología es responsable de prestar la atención del embarazo, parto y puerperio.
+
+U.26*Ginecología:*unidad asistencial en la que un médico especialista en Obstetricia y Ginecología es responsable de realizar el estudio, diagnóstico y tratamiento de patología inherente al aparato genital femenino y la mama.
+
+U.27*Inseminación artificial:*unidad asistencial que, bajo la responsabilidad de un médico especialista en Obstetricia y Ginecología, tiene como finalidad la fecundación humana mediante inseminación artificial con semen fresco, capacitado o crioconservado, procedente del varón de la pareja o de donante, según el caso.
+
+U.28*Fecundación in vitro:*unidad asistencial que, bajo la responsabilidad de un médico especialista en Obstetricia y Ginecología y un facultativo con formación y experiencia en biología de la reproducción, tiene por finalidad la fecundación mediante transferencia de embriones, transferencia intratubárica de gametos y otras técnicas afines previamente evaluadas.
+
+U.29*Banco de semen:*unidad asistencial que, bajo la responsabilidad de un facultativo, tiene como finalidad la obtención, evaluación, conservación y distribución de semen humano para su utilización en las técnicas de reproducción humana asistida y que desarrollan además las actividades precisas para la selección y control de los donantes.
+
+U.30*Laboratorio de semen para capacitación espermática:*unidad asistencial que, bajo la responsabilidad de un facultativo, lleva a cabo la adecuación de los espermatozoides para su función reproductora.
+
+U.31*Banco de embriones:*unidad asistencial que, bajo la responsabilidad de un facultativo, se encarga de la crioconservación de embriones para transferencias con fines procreadores o métodos de investigación/experimentación legalmente autorizados.
+
+U.32*Recuperación de oocitos:*unidad asistencial que, bajo la responsabilidad de un facultativo, se encarga de la realización de las actividades precisas para la obtención y el tratamiento de gametos con fines procreadores o métodos de investigación/experimentación legalmente autorizados.
+
+U.33*Planificación familiar:*unidad asistencial multidisciplinar en la que se prestan servicios de atención, información y asesoramiento relacionados con la reproducción, concepción y contracepción humana, bajo la responsabilidad de una persona especialista en Obstetricia y Ginecología o en Medicina Familiar y Comunitaria.
+
+U.34*Interrupción voluntaria del embarazo:*unidad asistencial en la que un médico especialista en Obstetricia y Ginecología es responsable de llevar a cabo la práctica del aborto terapéutico y eugenésico, en los supuestos legalmente permitidos.
+
+U.35*Anestesia y reanimación:*unidad asistencial en la que un médico especialista en Anestesiología y Reanimación es responsable de aplicar al paciente técnicas y métodos para hacerle insensible al dolor y protegerle de la agresión antes, durante y después de cualquier intervención quirúrgica u obstétrica, de exploraciones diagnósticas y de traumatismos, así como de mantener sus condiciones vitales en cualquiera de las situaciones citadas.
+
+U.36*Tratamiento del dolor:*unidad asistencial multidisciplinar en la que, bajo la responsabilidad de una persona especialista en Anestesiología y Reanimación, se aplican técnicas y métodos para eliminar o aliviar el dolor, de cualquier etiología, al paciente.
+
+> Téngase en cuenta que las modificaciones de las referencias U.33 y U.36, establecida por el art. único.4 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975), entra en vigor el 1 de julio de 2026, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "U.33*Planificación familiar:*unidad asistencial en la que un médico especialista en Obstetricia y Ginecología es responsable de prestar servicios de atención, información y asesoramiento relacionados con la reproducción, concepción y contracepción humana.
+
+> U.36*Tratamiento del dolor:*unidad asistencial en la que un médico especialista es responsable de aplicar técnicas y métodos para eliminar o aliviar el dolor, de cualquier etiología, al paciente."
+
+U.37*Medicina intensiva:*unidad asistencial en la que un médico especialista en Medicina intensiva es responsable de que se preste la atención sanitaria precisa, continua e inmediata, a pacientes con alteraciones fisiopatológicas que han alcanzado un nivel de severidad tal que representan una amenaza actual o potencial para su vida y, al mismo tiempo, son susceptibles de recuperación.
+
+U.38*Quemados:*unidad asistencial pluridisciplinar que, bajo la responsabilidad de un médico especialista, atiende a pacientes afectados por lesiones producidas por alteraciones térmicas en los tejidos y que por su extensión, profundidad o localización son consideradas graves o críticas.
+
+U.39*Angiología y cirugía vascular:*unidad asistencial en la que un médico especialista en Angiología y Cirugía vascular es responsable de realizar el estudio, diagnóstico y tratamiento, médico y quirúrgico, de las enfermedades vasculares, exceptuando las cardiacas e intracraneales.
+
+U.40*Cirugía cardiaca:*unidad asistencial en la que un médico especialista en Cirugía cardiovascular es responsable de realizar el estudio y tratamiento quirúrgico de patologías cardiacas.
+
+U.41*Hemodinámica:*unidad asistencial en la que, bajo la responsabilidad de un médico especialista con experiencia en Hemodinamia, se realizan procesos vasculares o cardiológicos intervencionistas con finalidad diagnóstica y/o terapéutica.
+
+U.42*Cirugía torácica:*unidad asistencial en la que un médico especialista en Cirugía torácica es responsable de realizar el estudio y tratamiento de los procesos específicos que afectan a la región anatómica del tórax, que incluye pared torácica, pleura, pulmón, mediastino, árbol traqueo-bronquial, esófago y diafragma.
+
+U.43*Cirugía general y digestivo:*unidad asistencial en la que un médico especialista en Cirugía general y del aparato digestivo es responsable de realizar las intervenciones en procesos quirúrgicos relativos a patología abdominal, del aparato digestivo, del sistema endocrino, de la cabeza y cuello (con exclusión de la patología específica de otras especialidades quirúrgicas), de la mama y de la piel y partes blandas.
+
+U.44*Odontología/estomatología:*unidad asistencial en la que un odontólogo o estomatólogo es responsable de realizar actividades profesionales encaminadas a la promoción de la salud bucodental, llevando a cabo la prevención, diagnóstico y tratamiento de las anomalías y enfermedades de los dientes, la boca, los maxilares y los tejidos anejos en el individuo y en la comunidad, así como la prescripción de medicamentos, prótesis y productos sanitarios en el ámbito de su ejercicio profesional.
+
+U.45*Cirugía maxilofacial:*unidad asistencial en la que un médico especialista en Cirugía oral y maxilofacial es responsable de realizar el estudio, diagnóstico y tratamiento de las enfermedades de la cavidad bucal y de la cara.
+
+U.46*Cirugía plástica y reparadora:*unidad asistencial en la que un médico especialista en Cirugía plástica, estética y reparadora es responsable de realizar la corrección quirúrgica de procesos congénitos, adquiridos, tumorales o involutivos que requieren reparación o reposición de estructuras superficiales que afectan a la forma y función corporal.
+
+U.47*Cirugía estética:* unidad asistencial en la que un médico con la especialidad en Cirugía plástica, estética y reparadora u otra especialidad quirúrgica o médico-quirúrgica en el ámbito y competencias indicadas en el programa oficial de su especialidad, es responsable de realizar tratamientos quirúrgicos, con finalidad de mejora estética corporal, facial o capilar.
+
+U.48*Medicina estética**:*unidad asistencial en la que un médico es responsable de realizar tratamientos no quirúrgicos, con finalidad de mejora estética corporal o facial.
+
+U.49*Neurocirugía:*unidad asistencial en la que un médico especialista en Neurocirugía es responsable de realizar intervenciones a pacientes con procesos quirúrgicos relativos al sistema nervioso.
+
+U.50*Oftalmología:*unidad asistencial en la que un médico especialista en Oftalmología es responsable de realizar el estudio, diagnóstico y tratamiento de los defectos y enfermedades de los órganos de la visión.
+
+U.51*Cirugía refractiva:*unidad asistencial en la que un médico especialista en Oftalmología es responsable de realizar toda una serie de técnicas quirúrgicas destinadas a modificar los defectos de refracción, bien mediante el uso del láser o mediante cirugía intraocular.
+
+U.52*Otorrinolaringología:*unidad asistencial en la que un médico especialista en Otorrinolaringología es responsable de realizar el estudio, diagnóstico y tratamiento de procesos patológicos del oído, fosas nasales y senos paranasales, faringe y laringe.
+
+U.53*Urología:*unidad asistencial en la que un médico especialista en Urología es responsable de realizar el estudio, diagnóstico y tratamiento de afecciones específicas del aparato urinario masculino y femenino y del aparato genital masculino.
+
+U.54*Litotricia renal:*unidad asistencial en la que un médico especialista en Urología es responsable de realizar tratamientos, mediante un litotritor, de fragmentación de cálculos renales.
+
+U.55*Cirugía ortopédica y traumatología:*unidad asistencial en la que un médico especialista en Cirugía ortopédica y traumatología es responsable de realizar el estudio, desarrollo, conservación y restablecimiento de la forma y de la función de las estructuras músculo-esqueléticas, por medios médicos, quirúrgicos y físicos.
+
+U.56*Lesionados medulares:*unidad asistencial pluridisciplinar en la que, bajo la supervisión de un médico especialista, se proporciona asistencia sanitaria especializada y rehabilitación integral a todas las personas afectadas por una lesión medular (paraplejia y tetraplejia) o cualquier otra gran discapacidad física, desde una perspectiva que contempla tanto los aspectos médico-quirúrgicos como los psicológicos y sociales.
+
+U.57*Rehabilitación:*unidad asistencial en la que un médico especialista en Medicina física y rehabilitación es responsable de realizar el diagnóstico, evaluación, prevención y tratamiento de la incapacidad encaminándolos a facilitar, mantener o devolver el mayor grado de capacidad funcional e independencia posible al paciente incapacitado, con el fin de integrarlo en su medio habitual.
+
+U.58*Hidrología:*unidad asistencial en la que un médico especialista en Hidrología médica es responsable de la utilización de aguas mineromedicinales y termales con fines terapéuticos y preventivos para la salud.
+
+U.59*Fisioterapia:*unidad asistencial en la que un fisioterapeuta es responsable de realizar funciones y actividades propias de su titulación, con finalidad preventiva, educativa o terapéutica, para el tratamiento de las enfermedades que cursan con discapacidades o la recuperación de la funcionalidad utilizando agentes físicos.
+
+U.60*Terapia ocupacional:*unidad asistencial en la que, bajo la responsabilidad de un terapeuta ocupacional, se utilizan con fines terapéuticos las actividades de autocuidado, trabajo y ocio para que los pacientes adquieran el conocimiento, las destrezas y actitudes necesarias para desarrollar las tareas cotidianas requeridas y consigan el máximo de autonomía e integración.
+
+U.61*Logopedia:*unidad asistencial en la que un logopeda es responsable de realizar la prevención, el estudio y la corrección de los trastornos del lenguaje.
+
+U.62*Foniatría:*unidad asistencial en la que un médico es responsable de estudiar y proporcionar tratamientos a pacientes afectados de alteraciones de la voz y su mecanismo.
+
+U.63*Cirugía mayor ambulatoria:*unidad asistencial que, bajo la responsabilidad de un médico especialista, se dedica a la realización de procedimientos quirúrgicos terapéuticos o diagnósticos, realizados con anestesia general, loco-regional o local, con o sin sedación, que requieren cuidados postoperatorios de corta duración, por lo que no necesitan ingreso hospitalario.
+
+U.64*Cirugía menor ambulatoria:*unidad asistencial donde, bajo la responsabilidad de un médico, se realizan procedimientos terapéuticos o diagnósticos de baja complejidad y mínimamente invasivos, con bajo riesgo de hemorragia, que se practican bajo anestesia local y que no requieren cuidados postoperatorios, en pacientes que no precisan ingreso.
+
+U.65*Hospital de día:*unidad asistencial donde, bajo la supervisión o indicación de un médico especialista, se lleva a cabo el tratamiento o los cuidados de enfermos que deben ser sometidos a métodos de diagnóstico o tratamiento que requieran durante unas horas atención continuada médica o de enfermería, pero no el internamiento en el hospital.
+
+U.66*Atención sanitaria domiciliaria:*unidad asistencial pluridisciplinar que, bajo la supervisión o indicación de un médico, desarrolla actividades para prestar atención sanitaria a personas enfermas en su propio domicilio.
+
+U.67*Cuidados paliativos:*unidad asistencial pluridisciplinar, con o sin equipos de cuidados domiciliarios, que bajo la responsabilidad de un médico, presta la atención a pacientes en situación terminal.
+
+U.68 Atención continuada en Atención Primaria: unidad asistencial que, bajo la responsabilidad de persona con título de especialista en Medicina Familiar y Comunitaria está destinada a la atención continuada de pacientes con problemas de etiología diversa y gravedad variable, en el ámbito de atención primaria.
+
+U.69. Psiquiatría: unidad asistencial en la que un médico especialista en Psiquiatría es responsable de realizar el estudio, diagnóstico, tratamiento y rehabilitación de los trastornos mentales y del comportamiento de los pacientes adultos.
+
+U.70 Psicología clínica: unidad asistencial en la que un psicólogo especialista en Psicología clínica es responsable de realizar el diagnóstico, evaluación, tratamiento y rehabilitación de los trastornos mentales, emocionales, relacionales y del comportamiento.
+
+U.71*Atención sanitaria a drogodependientes:*unidad asistencial pluridisciplinar en la que, bajo la supervisión de un facultativo sanitario, se prestan servicios de prevención, atención y rehabilitación al drogodependiente, mediante la aplicación de técnicas terapéuticas.
+
+U.72Obtención de muestras: Unidad asistencial, en la que personal sanitario con titulación adecuada realiza la obtención, recepción, identificación, preparación y conservación de los especímenes o muestras biológicas de origen humano, responsabilizándose de la muestra hasta su entrega al laboratorio vinculado correspondiente.
+
+U.73Laboratorio Clínico: Unidad asistencial que, bajo la responsabilidad de una persona con título de especialista en Laboratorio Clínico y los títulos de especialista en Análisis Clínicos y en Bioquímica Clínica, realiza pruebas diagnósticas analíticas y establece la correlación fisiopatológica necesaria para proporcionar apoyo en el diagnóstico, el pronóstico, la respuesta al tratamiento, el seguimiento clínico y la prevención de la enfermedad.
+
+U.74**(Suprimida).**
+
+U.75*Inmunología:*unidad asistencial que, bajo la responsabilidad de un facultativo especialista en Inmunología, está dedicada a obtener la información necesaria para el estudio, diagnóstico y tratamiento de pacientes con enfermedades causadas por alteraciones de los mecanismos inmunológicos y de las situaciones en las que las manipulaciones inmunológicas forman una parte importante del tratamiento o de la prevención.
+
+U.76*Microbiología y parasitología:*unidad asistencial que, bajo la responsabilidad de un facultativo especialista en Microbiología y Parasitología, está dedicada al estudio de los microorganismos relacionados con la especie humana, centrándose en el hombre enfermo o portador de enfermedades infecciosas para su diagnóstico, estudio epidemiológico y orientación terapéutica.
+
+U.77*Anatomía patológica:*unidad asistencial en la que, bajo la responsabilidad de un médico especialista en Anatomía patológica, se realizan estudios, por medio de técnicas morfológicas, de las causas, desarrollo y consecuencias de la enfermedad, siendo su finalidad el diagnóstico correcto de biopsias, piezas quirúrgicas, citologías y autopsias.
+
+U.78*Genética:*unidad asistencial que, bajo la responsabilidad de un facultativo con formación adecuada, está dedicada a la realización de pruebas genéticas y la emisión de los dictámenes correspondientes con fines diagnósticos.
+
+U.79*Hematología clínica:*unidad asistencial en la que un médico especialista en Hematología y Hemoterapia es responsable de realizar el estudio, diagnóstico y tratamiento de pacientes afectados de patología relacionada con la sangre y los órganos hematopoyéticos.
+
+U.80*Laboratorio de hematología:*unidad asistencial que, bajo la responsabilidad de un médico especialista en Hematología y Hemoterapia, está dedicada a la obtención de muestras de origen humano, a la realización de determinaciones hematológicas y la emisión de los dictámenes correspondientes con fines diagnósticos.
+
+U.81*Extracción de sangre para donación:*unidad asistencial, vinculada a un centro de transfusión, en la que, bajo la responsabilidad de un médico, se efectúan extracciones de sangre, por personal de enfermería debidamente entrenado, en un vehículo o en salas públicas o privadas adaptadas al efecto.
+
+U.82*Servicio de transfusión:*unidad asistencial de un centro hospitalario, vinculada a un centro de transfusión, en la que, bajo la responsabilidad de un médico especialista en Hematología y Hemoterapia, se almacena y distribuye sangre y componentes sanguíneos y en la que se pueden realizar pruebas de compatibilidad de sangre y componentes para uso exclusivo en sus instalaciones, incluidas las actividades de transfusión hospitalaria.
+
+U.83*Farmacia:*unidad asistencial que, bajo la responsabilidad de un farmacéutico, o farmacéutico especialista en Farmacia hospitalaria en el caso de hospitales, lleva a cabo la selección, adquisición, conservación, dispensación, preparación, seguimiento e información sobre los medicamentos a utilizar en el centro y aquellos que requieren una especial vigilancia, supervisión y control del equipo multidisciplinar de salud.
+
+U.84*Depósito de medicamentos:*unidad asistencial, dependiente de una oficina o servicio de farmacia, en la que se conservan y dispensan medicamentos a los pacientes atendidos en el centro en el que está ubicada.
+
+U.85*Farmacología clínica:*unidad asistencial en la que un médico especialista en Farmacología clínica es responsable de realizar el estudio del efecto de los medicamentos en el hombre, observando y cuantificando sus efectos farmacológicos, la evaluación de sus efectos terapéuticos y analizando las reacciones adversas.
+
+U.86*Radioterapia:*unidad asistencial en la que, bajo la responsabilidad de un médico especialista en Oncología radioterápica, se llevan a cabo tratamientos con radiaciones ionizantes y terapéuticas asociadas, fundamentalmente en el caso de pacientes oncológicos.
+
+U.87*Medicina nuclear:*unidad asistencial en la que, bajo la responsabilidad de un médico especialista en Medicina nuclear, se realizan procesos diagnósticos o terapéuticos mediante isótopos radiactivos, radiaciones nucleares, variaciones electromagnéticas del núcleo atómico y técnicas biofísicas similares.
+
+U.88*Radiodiagnóstico:*unidad asistencial que, bajo la responsabilidad de un médico especialista en Radiodiagnóstico, está dedicada al diagnóstico y tratamiento de las enfermedades utilizando como soporte técnico fundamental las imágenes y datos funcionales obtenidos por medio de radiaciones ionizantes o no ionizantes y otras fuentes de energía.
+
+U.89*Asistencia a lesionados y contaminados por elementos radiactivos y radiaciones ionizantes:*unidad asistencial que, bajo la responsabilidad de un médico, lleva a cabo el tratamiento de las secuelas radiactivas, profesionales o de origen fortuito que sean padecidas por personas o colectivos humanos.
+
+U.90*Medicina preventiva:*unidad asistencial que, bajo la responsabilidad de un médico especialista en Medicina preventiva y salud pública, lleva a cabo funciones de control interno para evitar y prevenir los riesgos para la salud de los pacientes derivados de las actividades del centro sanitario en el que esté ubicada.
+
+U.91*Medicina de la educación física y el deporte:*unidad asistencial en la que un médico especialista en Medicina de la educación física y el deporte es responsable de realizar estudios de las funciones orgánicas y realiza diagnósticos y tratamientos específicos para personas que se dedican a la práctica deportiva.
+
+U.92*Medicina hiperbárica:*unidad asistencial vinculada a un centro hospitalario, que bajo la responsabilidad de un médico, tiene como finalidad la administración de oxígeno puro al organismo, en un medio presurizado, con fines diagnósticos o terapéuticos.
+
+U.93*Extracción de órganos:*unidad asistencial, que bajo la responsabilidad de un médico especialista, se encarga de la obtención mediante extracción de órganos de donante vivo o fallecido para su implantación en un organismo receptor, de acuerdo con la legislación vigente sobre la materia.
+
+U.94*Trasplante de órganos:*unidad asistencial, que bajo la responsabilidad de un médico especialista, tiene como finalidad la utilización terapéutica de los órganos humanos, que consiste en sustituir un órgano enfermo, o su función, por otro sano procedente de un donante vivo o fallecido, de acuerdo con la legislación vigente sobre la materia.
+
+U.95*Obtención de tejidos:*unidad asistencial que, bajo la responsabilidad de un médico especialista, realiza cualquiera de las actividades destinadas a disponer de tejidos y células de origen humano o a posibilitar el uso de residuos quirúrgicos con las finalidades a que se refiere la normativa vigente sobre la materia.
+
+U.96*Implantación de tejidos:*unidad asistencial que, bajo la responsabilidad de un médico especialista, realiza cualquiera de las actividades que implican utilización terapéutica de tejidos humanos, y engloba las acciones de trasplantar, injertar o implantar.
+
+U.97*Banco de tejidos:*unidad técnica que, bajo la responsabilidad de un facultativo, tiene por misión conservar y garantizar la calidad de los tejidos, después de su obtención y hasta su utilización clínica como aloinjertos o autoinjertos.
+
+U.98*Medicina aeronáutica:*unidad asistencial en la que, bajo la responsabilidad de un médico examinador autorizado según establece la normativa vigente, se realizan los reconocimientos, informes y evaluaciones médicas requeridas para la emisión de los certificados médicos exigidos a los titulares de licencias y habilitaciones aeronáuticas, por las normas reguladoras de éstas.
+
+U.99*Medicina del trabajo:*unidad preventivo-asistencial que, bajo la responsabilidad de un médico especialista en Medicina del trabajo o diplomado en Medicina de empresa, desarrolla las funciones de vigilancia de la salud de los trabajadores reguladas por la Ley de Prevención de Riesgos Laborales y su normativa de desarrollo.
+
+U.100*Transporte sanitario (carretera, aéreo, marítimo):*unidad asistencial que tiene por objeto el desplazamiento de personas enfermas, accidentadas o por otra razón sanitaria, en vehículos terrestres, aéreos o marítimos, especialmente acondicionados al efecto.
+
+U.101*Terapias no convencionales:*unidad asistencial en la que un médico es responsable de realizar tratamientos de las enfermedades por medios de medicina naturista o con medicamentos homeopáticos o mediante técnicas de estimulación periférica con agujas u otros que demuestren su eficacia y su seguridad.
+
+U.102 *Medicina Legal y Forense:*Unidad asistencial en la que un médico/a especialista en Medicina Legal y Forense es responsable de poder realizar la asistencia técnica a los órganos de gestión y dirección de un centro sanitario, en todo lo relacionado con aspectos médico-legales, deontológicos y éticos del propio centro y del resto de administraciones sanitarias.
+
+U. 103. *Psiquiatría Infantil y de la Adolescencia:* unidad asistencial en la que un médico especialista en Psiquiatría Infantil y de la Adolescencia es responsable de realizar el estudio, diagnóstico, tratamiento y rehabilitación de los trastornos mentales incluidos los trastornos del neurodesarrollo y del comportamiento, que afectan a los niños, a los adolescentes y a sus familias.
+
+U.104*Banco de oocitos:*unidad asistencial que, bajo la responsabilidad de un facultativo integrado en el correspondiente equipo biomédico, tiene como finalidad conservar y garantizar la calidad de los oocitos para su posterior aplicación en las técnicas de reproducción humana asistida o su utilización en proyectos de investigación legalmente autorizados. Las actividades de procesamiento, preservación y almacenamiento, de oocitos propios y de donante, se entienden comprendidas en esta oferta. Cuando el banco además suministre oocitos a otros centros se autorizará de manera específica la distribución, y según corresponda, la importación o exportación. Además, desarrollan las actividades precisas para la captación, selección y evaluación de las donantes.
+
+U.105 Urgencias y Emergencias: unidad asistencial que bajo la responsabilidad de una persona especialista en Medicina de Urgencias y Emergencias, está destinada a la atención sanitaria de pacientes con problemas de etiología diversa y gravedad variable, que generan procesos agudos que necesitan de atención inmediata.
+
+U.106 Radiofísica hospitalaria: unidad asistencial en la que, bajo la responsabilidad de una persona especialista en radiofísica hospitalaria, se desarrollan las competencias correspondientes a su especialidad como la Protección Radiológica, aspectos técnicos del control de los equipos e investigación de las técnicas radiológicas implicadas en Medicina Nuclear, Radioterapia y Radiodiagnóstico, de acuerdo con el programa oficial de su especialidad.
+
+U.107 Radiofarmacia: unidad asistencial en la que bajo la responsabilidad de una persona especialista en Radiofarmacia, se lleva a cabo el diseño, la preparación, dispensación y control de calidad de los radiofármacos y otros productos sanitarios radiactivos, en el ámbito y competencias indicadas en el programa oficial de su especialidad.
+
+> Téngase en cuenta que la modificación de la referencia U.105 y las referencias U.106 y U.107 añadidas por el art. único.4 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975), entra en vigor el 1 de julio de 2026, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "U.105 Unidad asistencial que, bajo la responsabilidad de persona con título de especialista en Medicina de Urgencias y Emergencias está destinada a la atención sanitaria de pacientes con problemas de etiología diversa y gravedad variable, que generan procesos agudos que necesitan de atención inmediata."
+
+U.900 *Otras unidades asistenciales:*unidades bajo la responsabilidad de profesionales con titulación oficial o habilitación profesional que, aun cuando no tengan la consideración legal de «profesiones sanitarias tituladas y reguladas» en el sentido previsto en el artículo 2.1 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, llevan a cabo actividades sanitarias que no se ajustan a las características de ninguna de las unidades anteriormente definidas, por su naturaleza innovadora, por estar en fase de evaluación clínica, o por afectar a profesiones cuyo carácter polivalente permite desarrollar, con una formación adecuada, actividades sanitarias vinculadas con el bienestar y salud de las personas en centros que tengan la consideración de sanitarios.
+
+> Ref. BOE-B-2010-17345
+
+> Redacción anterior:
+
+> "U.900*Otras unidades asistenciales:*unidades que, bajo la responsabilidad de profesionales sanitarios, capacitados por su titulación oficial o habilitación profesional, no se ajustan a las características de ninguna de las anteriormente definidas por realizar actividades sanitarias innovadoras o en fase de evaluación clínica."
+
+> Se modifican las referencias U.11, U.33, U.36, U.105 y se añaden las referencias U.106 y U.107, con efectos desde el 1 de julio de 2026, por el art. único.4 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975)
+
+> Se modifican las referencias U.72, U.73 y se suprime la U.74, por la disposición final 1.2 del Real Decreto 101/2025, de 18 de febrero. [Ref. BOE-A-2025-3189](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-3189)
+
+> Téngase en cuenta que esta actualización produce efectos el 20 de febrero de 2026, según establece la disposición final 5 del citado Real Decreto.
+
+> Se modifica la referencia U.47 por el art. único de la Orden SND/1002/2024, de 18 de septiembre. [Ref. BOE-A-2024-18934](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18934)
+
+> Se modifica la referencia U.68 y se añade la referencia U.105 por la disposición final 1.2 del Real Decreto 610/2024, de 2 de julio. [Ref. BOE-A-2024-13418](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13418)
+
+> Téngase en cuenta que esta modificación produce efectos desde el 4 de julio de 2025, según establece la disposición final 6 del citado Real Decreto.
+
+> Se añade la referencia U.104 por el art. 2.2 de la Orden SND/1215/2021, de 5 de noviembre. [Ref. BOE-A-2021-18287](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18287)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 283, de 26 de noviembre de 2021. [Ref. BOE-A-2021-19521](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19521)
+
+> Se modifica la referencia U.69, y se añade la U.103, con efectos de 5 de agosto de 2022, por la disposición final 2.2 del Real Decreto 689/2021, de 3 de agosto. [Ref. BOE-A-2021-13266](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13266)
+
+> Se añade la referencia U.102 por la disposición final 2.2 del Real Decreto 704/2020, de 28 de julio. [Ref. BOE-A-2020-8682](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8682)
+
+> Se declara la nulidad de la "referencia U.900", en la redacción dada por el art. único.5 de la Orden SCO/1741/2006, de 29 de mayo, por Sentencia de la AN de 26 de septiembre de 2007.[Ref. BOE-B-2010-17345](https://www.boe.es/buscar/doc.php?id=BOE-B-2010-17345)
+
+> Se modifican los apartados "Centros sanitarios" y "Oferta asistencial" por el art. único.2 a 5 de la Orden SCO/1741/2006, de 29 de mayo. [Ref. BOE-A-2006-9963](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9963).
+
+> Redactado el apartado "Oferta asistencial" conforme a la corrección de errores publicada en BOE núm. 162, de 6 de julio de 2004. [Ref. BOE-A-2004-12572](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-12572)

@@ -1,0 +1,13518 @@
+---
+title: "Real Decreto 750/2010, de 4 de junio, por el que se regulan los procedimientos de homologación de vehículos de motor y sus remolques, máquinas autopropulsadas o remolcadas, vehículos agrícolas, así como de sistemas, partes y piezas de dichos vehículos"
+identifier: "BOE-A-2010-9994"
+eli: "https://www.boe.es/eli/es/rd/2010/06/04/750"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2010-06-04
+published: 2010-06-24
+in_force_from: 2010-07-24
+last_amended: 2026-05-29
+consolidated: 2026-05-29
+gazette: "Boletín Oficial del Estado núm. 153"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-9994"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 750/2010, de 4 de junio, por el que se regulan los procedimientos de homologación de vehículos de motor y sus remolques, máquinas autopropulsadas o remolcadas, vehículos agrícolas, así como de sistemas, partes y piezas de dichos vehículos
+
+El artículo 1 del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre, establece que la circulación de vehículos exigirá que éstos obtengan previamente la correspondiente autorización administrativa. También en dicho precepto se faculta al Ministerio de Industria, Turismo y Comercio para establecer excepciones al cumplimiento de alguna de las condiciones técnicas previstas en dicho Reglamento a determinados vehículos, equipos, repuestos y accesorios.
+
+La autorización administrativa a que se alude en el Reglamento General de Vehículos se sustancia en la homologación de tipo de los vehículos, sus partes y piezas que es otorgada por la autoridad de homologación, que en España es el Ministerio de Industria, Turismo y Comercio y en relación a la cual hay que partir de la distinción de dos clases de procedimientos principales: la homologación de tipo CE y la homologación de tipo nacional.
+
+La homologación de tipo CE de vehículos, sus partes y piezas, viene regulada por la Directiva 2002/24/CE, del Parlamento Europeo y del Consejo, de 18 de marzo de 2002, relativa a la homologación de los vehículos de motor de dos o tres ruedas y por la que se deroga la Directiva 92/61/CEE del Consejo; la Directiva 2003/37/CE, del Parlamento Europeo y del Consejo, de 26 de mayo de 2003, relativa a la homologación de los tractores agrícolas o forestales, de sus remolques y de su maquinaria intercambiable remolcada, así como de los sistemas, componentes y unidades técnicas de dichos vehículos y por la que se deroga la Directiva 74/150/CEE; y la Directiva 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre de 2007, por la que se crea una marco para la homologación de los vehículos de motor y de los remolques, sistemas, componentes y unidades técnicas independientes destinados a dichos vehículos.
+
+En las citadas directivas marco se establece el procedimiento administrativo relativo a la homologación de tipo de vehículos, partes y piezas incluidas en el ámbito de aplicación de las directivas. Es importante reseñar que, al tratarse de homologaciones CE, gozan del reconocimiento recíproco entre los Estados miembros del Espacio Económico Europeo (EEE).
+
+Estas directivas han sido incorporadas al ordenamiento jurídico español mediante la sucesivas órdenes ministeriales de actualización de los anexos del Real Decreto 2028/1986, de 6 de junio, sobre las normas para la aplicación de determinadas directivas de la CE, relativas a la homologación de tipo de vehículos automóviles, remolques, semirremolques, motocicletas, ciclomotores y vehículos agrícolas así como de partes y piezas de dichos vehículos.
+
+Por otra parte, la homologación de tipo nacional está regulada en el Real Decreto 2140/1985, de 9 de octubre, por el que se dictan normas para la homologación de vehículos automóviles, remolques y semirremolques, así como de partes y piezas de dichos vehículos. Dicho real decreto se aplicaba hasta el momento a los vehículos no incluidos en el ámbito de aplicación de las directivas comunitarias anteriormente citadas y a los vehículos para los que tales directivas no hubieran entrado en vigor.
+
+El ámbito de la homologación de tipo CE experimentó una importante ampliación a partir de la aprobación de la ya mencionada Directiva 2007/46/CE del Parlamento Europeo y del Consejo, de 5 de septiembre de 2007. Esta directiva sustituyó a la Directiva 70/156/CEE, del Consejo, de 6 de febrero de 1970, relativa a la aproximación de las legislaciones de los Estados miembros sobre la homologación de los vehículos de motor y de sus remolques, modificada después en varias ocasiones, que obligaba tan sólo la homologación de tipo CE de una categoría de vehículos (M1). La Directiva 2007/46/CE del Parlamento Europeo y del Consejo, de 5 de septiembre de 2007 va más allá, y regula la homologación de tipo CE para las categorías de vehículos M, N y O.
+
+La incorporación al ordenamiento jurídico español de la Directiva 2007/46/CE, efectuada por la Orden ITC/1620/2008, de 5 de junio, por la que se actualizan los anexos I y II del Real Decreto 2028/1986, de 6 de junio, ha puesto de manifiesto la necesidad de derogar el antes citado Real Decreto 2140/1985, de 9 de octubre, por el que se dictan normas sobre homologación de tipos de vehículos automóviles, remolques y semirremolques, así como de partes y piezas de dichos vehículos.
+
+Este real decreto cumple precisamente esta finalidad, puesto que constituye su objeto la derogación del mencionado Real Decreto 2140/1985, de 9 de octubre y el establecimiento de una nueva regulación armonizada con las previsiones de las Directivas 2002/24/CE, del Parlamento Europeo y del Consejo, de 18 de marzo de 2002; 2003/37/CE, del Parlamento Europeo y del Consejo, de 26 de mayo de 2003, 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre de 2007 y del Real Decreto 2028/1986, de 6 de junio.
+
+No obstante, materialmente, lo importante es que en el mismo se regulan los requisitos documentales y administrativos que deben cumplirse para diversas clases de procedimientos de homologación. En primer lugar, para la homologación de tipo CE que se aplica a los vehículos incluidos dentro del ámbito de aplicación de las directivas comunitarias.
+
+En segundo, para la homologación de tipo nacional, que se aplica a los vehículos no incluidos dentro del ámbito de aplicación de las directivas comunitarias.; si bien, además, para los vehículos incluidos en el ámbito de aplicación de dichas directivas, se podrán continuar concediendo homologaciones de tipo nacionales conforme a lo dispuesto en el presente real decreto hasta las fechas límite establecidas en las directivas, a partir de las cuales será obligatoria la homologación CE.
+
+En tercero, para la homologación individual, que es aquella que se refiere, no a un tipo de vehículo, sino a un vehículo en particular, Este real decreto, además de prever la documentación que deberá presentarse para solicitar una homologación individual, establece, de acuerdo con la Directiva 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre de 2007, que la autoridad de homologación podrá eximir a un vehículo concreto del cumplimiento de actos reglamentarios siempre que cumpla los requisitos alternativos establecidos en el propio real decreto.
+
+En cuarto, para la homologación de series cortas nacionales, procedimiento que se emplea en el caso de vehículos producidos dentro de determinados límites cuantitativos. Al igual que en el caso anterior y de acuerdo con la Directiva 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre de 2007, se prevé que la autoridad de homologación pueda eximir a un vehículo concreto del cumplimiento de actos reglamentarios siempre que cumpla los requisitos alternativos establecidos en el propio real decreto.
+
+Finalmente, junto a los requisitos administrativos y documentales que deben cumplirse para cada clase de homologación, el real decreto recoge los aspectos técnicos aplicables a cada categoría de vehículos para la homologación de tipo nacional, para la homologación individual y para la homologación de series cortas nacionales.
+
+Este real decreto encuentra su fundamento legal en los artículos 61.1 y 2 y en la disposición final única del texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, aprobado por Real Decreto Legislativo 339/1990, de 2 de marzo, que faculta al Gobierno para dictar las disposiciones necesarias para desarrollar dicha ley.
+
+De acuerdo con lo previsto en el artículo 24.1.c) de la Ley 50/1997, de 27 de noviembre, del Gobierno, el proyecto ha sido objeto del preceptivo trámite de audiencia a las comunidades autónomas, órganos administrativos, organismos, asociaciones y sectores industriales interesados, de los que se han recibido numerosas observaciones que, en su mayoría, han sido aceptadas.
+
+Asimismo, esta disposición ha sido sometida al procedimiento de información de normas reglamentarias técnicas y de reglamentos relativos a los servicios de la sociedad de la información, previsto en la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio, modificada por la Directiva 98/48/CE, de 20 de junio, así como el Real Decreto 1337/1999, de 31 de julio, que incorpora estas directivas al ordenamiento jurídico español.
+
+Esta disposición se dicta al amparo del artículo 149.1.21.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de tráfico y circulación de vehículos a motor, que incluye la competencia para la determinación de las condiciones o prescripciones técnicas de los vehículos para que sea admitida su circulación.
+
+En su virtud, a propuesta del Ministro de Industria, Turismo y Comercio, con la aprobación previa de la Ministra de la Presidencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de junio de 2010,
+
+DISPONGO:
+
+### CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Objeto.
+
+Constituye el 7objeto de este real decreto la regulación de los procedimientos administrativos para que los vehículos incluidos en su ámbito de aplicación puedan recibir la homologación de tipo como condición previa a su matriculación o puesta en circulación en España, así como de los procedimientos administrativos para que las partes y piezas, en su caso, destinadas a dichos vehículos, matriculados o no, y que requieran una homologación, puedan ser comercializadas en el mercado español.
+
+A los efectos de este real decreto, la homologación de tipo de vehículos, sus partes y piezas se entenderá como la autorización administrativa previa a la que se hace referencia en el artículo 1 del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1988, de 23 de diciembre.
+
+#### Artículo 2. Definiciones.
+
+A los efectos de este real decreto se entenderá por:
+
+1\. Homologación de tipo: el procedimiento mediante el cual un Estado miembro del Espacio Económico Europeo (EEE) certifica que un tipo de vehículo, sistema, componente o unidad técnica independiente cumple las correspondientes disposiciones administrativas y requisitos técnicos pertinentes.
+
+2\. Homologación de tipo CE: procedimiento mediante el cual un Estado miembro del EEE certifica que un tipo de vehículo, sistema, componente o unidad técnica independiente cumple las correspondientes disposiciones administrativas y requisitos técnicos de las Directivas 2002/24/CE del Parlamento Europeo y del Consejo, de 18 de marzo de 2002, relativa a la homologación de los vehículos de motor de dos o tres ruedas y por la que se deroga la Directiva 92/61/CEE del Consejo; 2003/37/CE, del Parlamento Europeo y del Consejo, de 26 de mayo de 2003, relativa a la homologación de los tractores agrícolas o forestales, de sus remolques y de su maquinaria intercambiable remolcada, así como de los sistemas, componentes y unidades técnicas de dichos vehículos y por la que se deroga la Directiva 74/150/CEE y la Directiva 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre de 2007, por la que se crea una marco para la homologación de los vehículos de motor y de los remolques, sistemas, componentes y unidades técnicas independientes destinados a dichos vehículos, y de los actos reglamentarios enumerados en sus anexos.
+
+3\. Homologación de tipo nacional: procedimiento de homologación de tipo establecido por la legislación nacional de un Estado miembro del EEE; quedando la validez de dicha homologación limitada al territorio de ese Estado miembro.
+
+4\. Homologación individual: procedimiento por el cual se certifica que un vehículo en particular, ya sea singular o no, cumple las disposiciones administrativas y requisitos técnicos del presente real decreto.
+
+5\. Homologación de tipo multifásica: procedimiento mediante el cual se certifica que, dependiendo del grado de acabado, un tipo de vehículo incompleto o completado cumple las correspondientes disposiciones administrativas y requisitos técnicos de este real decreto.
+
+6\. Vehículo de base: todo vehículo que se utiliza en la fase inicial de un proceso de homologación de tipo multifásico.
+
+7\. Vehículo incompleto: todo vehículo que deba pasar por lo menos por una fase más para ser completado y cumplir los requisitos técnicos pertinentes de este real decreto.
+
+8\. Vehículo completado: el vehículo, producto del procedimiento de homologación de tipo multifásico, que cumpla los requisitos técnicos de este real decreto.
+
+9\. Vehículo completo: todo vehículo que no necesita ser completado para satisfacer los requisitos técnicos pertinentes de este real decreto.
+
+10\. Actos reglamentarios: se entenderá una directiva particular, un reglamento (CE) o un reglamento CEPE/ONU anexo al Acuerdo de 20 marzo de 1958, relativo a la adopción de prescripciones técnicas uniformes para vehículos de ruedas, equipos y repuestos que puedan montarse y/o utilizarse en estos vehículos y las condiciones para el reconocimiento recíproco de las homologaciones concedidas sobre la base de estas prescripciones, o un reglamento (RTM) anexo al Acuerdo mundial de 1998, sobre el establecimiento de normas técnicas mundiales aplicables a los vehículos de ruedas y a los equipos o repuestos que puedan montarse o utilizarse en estos vehículos.
+
+11\. Requisitos alternativos: se entenderán las disposiciones administrativas o requisitos técnicos cuya finalidad sea garantizar un nivel de protección medioambiental y de seguridad vial equivalente en la máxima medida de lo posible al nivel previsto en las disposiciones del Real Decreto 2028/1986, de 6 de junio, por el que se dictan normas para la aplicación de determinadas directivas de la CEE, relativas a la homologación de tipos de vehículos automóviles, remolques y semirremolques, así como de partes y piezas de dichos vehículos.
+
+12\. Fabricante: la persona u organismo responsable ante la autoridad de homologación de todos los aspectos del proceso de homologación o de autorización, y de garantizar la conformidad de la producción. No es esencial que la persona u organismo participen directamente en todas las fases de la fabricación de un vehículo, sistema, componente o unidad técnica independiente sujeta al proceso de homologación.
+
+13\. Representante del fabricante: toda persona física o jurídica establecida en la Unión Europea, debidamente designada por el fabricante para que le represente ante las autoridades competentes y para que actúe en su nombre. Cuando se hace referencia al término «fabricante» ha de entenderse que se indica tanto el fabricante como a su representante.
+
+14\. Autoridad de homologación: la autoridad con competencias en todos los aspectos de la homologación de un tipo de vehículo, sistema, componente o unidad técnica independiente o de la homologación individual de un vehículo, del proceso de autorización, de la emisión y, en su caso, retirada de certificados de homologación, así como para actuar como punto de contacto con las autoridades de homologación de los demás Estados miembros del EEE, para designar los servicios técnicos y garantizar que el fabricante cumple sus obligaciones sobre conformidad de la producción. De acuerdo con lo dispuesto en el artículo 3 de la Ley 21/1992, de 16 de julio, de Industria, en el ámbito de las competencias de la Administración del Estado, corresponden al actual Ministerio de Industria, Turismo y Comercio las actuaciones como autoridad de homologación.
+
+15\. Servicio técnico: la organización o entidad designada por la autoridad de homologación para llevar a cabo ensayos de homologación o como entidad de evaluación de la conformidad para llevar a cabo la inspección inicial y otros ensayos o inspecciones en nombre de la autoridad de homologación, siendo posible que la propia autoridad de homologación lleve a cabo esas funciones.
+
+16\. Estación de Inspección Técnica de Vehículos (ITV): las instalaciones que tienen por objeto la ejecución material de las inspecciones técnicas que, de acuerdo con el Reglamento General de Vehículos, aprobado por Real Decreto 2822/1998, de 23 de diciembre, y demás normas aplicables, deban hacerse en los vehículos y sus componentes y accesorios, y que estén habilitadas por el órgano competente de la comunidad autónoma del territorio donde estén radicadas.
+
+17\. Vehículos del mismo tipo: aquellos que no presenten entre sí ninguna de las diferencias señaladas en los apéndices 1 de los anexos correspondientes de este real decreto o en las Directivas 2002/24/CE, del Parlamento Europeo y del Consejo, de 18 de marzo, 2003/37/CE, del Parlamento Europeo y del Consejo, de 26 de mayo, o 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre, cuando éstas le sean de aplicación.
+
+18\. Sistema: conjunto de dispositivos combinados para llevar a cabo una o varias funciones específicas en un vehículo y que está sujeto a los requisitos de cualquier acto reglamentario.
+
+19\. Componente: el dispositivo, sujeto a los requisitos de un acto reglamentario, destinado a formar parte de un vehículo, que podrá homologarse independientemente de dicho vehículo cuando el acto reglamentario así lo disponga explícitamente.
+
+20\. Unidad técnica independiente: el dispositivo, sujeto a los requisitos de un acto reglamentario, destinado a formar parte de un vehículo y que podrá homologarse independientemente, pero solo en relación con uno o varios tipos específicos de vehículos cuando el acto reglamentario así lo disponga explícitamente.
+
+21\. En el caso de que se necesite recurrir a una definición no incluida anteriormente, se adoptarán, en su caso, las definiciones contenidas en las Directivas 2002/24/CE, del Parlamento Europeo y del Consejo, de 18 de marzo, 2003/37/CE, del Parlamento Europeo y del Consejo, de 26 de mayo, y 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre.
+
+#### Artículo 3. Ámbito de aplicación.
+
+1\. Con carácter general lo dispuesto en este real decreto será de aplicación:
+
+a) A todos los vehículos, sistemas, partes y piezas que se encuentren incluidos en el ámbito de aplicación de la Directiva 2002/24/CE, del Parlamento Europeo y del Consejo, de 18 de marzo de 2002; Directiva 2003/37/CE, del Parlamento Europeo y del Consejo, de 26 de mayo de 2003; y Directiva 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 septiembre de 2007; así como a los no incluidos en dichas directivas pero que se incluyen en los anexos del presente real decreto.
+
+b) A todos los vehículos de motor y sus remolques a los que no sea de aplicación obligatoria la homologación de tipo.
+
+Asimismo lo establecido para la homologación de tipo u homologación individual será de aplicación a los vehículos completos, incompletos y completados, sin perjuicio del cumplimiento de los actos reglamentarios que les sean de aplicación y que se describen en este real decreto y en el anexo I del Real Decreto 2028/1986, de 6 de junio.
+
+No obstante, en el caso de homologación de tipo de los vehículos especiales que se definen en las Directivas 2002/24/CE, del Parlamento Europeo y del Consejo, de 18 de marzo; 2003/37/CE, del Parlamento Europeo y del Consejo, de 26 de mayo, o 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre, se aplicarán las exenciones previstas en dichas directivas marco en los anexos correspondientes a cada categoría de vehículo.
+
+Por otra parte, lo dispuesto para la homologación individual también se podrá aplicar a la última fase de un proceso de homologación multifásico.
+
+### CAPÍTULO II — Homologación de vehículos, sus sistemas, partes y piezas
+
+#### Artículo 4. Procedimiento de obtención de la homologación de tipo de vehículos, sus sistemas, partes y piezas.
+
+1\. Requisitos previos.
+
+A efectos de la obtención de la homologación de tipo de vehículos, sus sistemas, partes y piezas deberán cumplirse los siguientes requisitos previos:
+
+a) El fabricante que desee homologar de tipo uno de los vehículos, sistemas, componentes y unidades técnicas independientes a los que se refiere esta disposición, deberá solicitarlo a la autoridad de homologación así como inscribirse en el Registro de fabricantes y firmas autorizadas de la autoridad de homologación.
+
+1.º Los fabricantes radicados en el EEE, podrán designar un representante, radicado en el EEE, por cada número de homologación de tipo solicitado.
+
+2.º Los fabricantes no radicados en el EEE, deberán designar un representante, radicado en el EEE, por cada número de homologación de tipo solicitado.
+
+b) Para poder firmar tarjetas de ITV de los tipos B, C y D y fichas reducidas, el fabricante deberá solicitar su inscripción en el Registro de fabricantes y firmas autorizadas de la autoridad de homologación.
+
+1.º Los fabricantes radicados en el EEE, deberán designar personas físicas o jurídicas, radicadas en el EEE, que firmen estos documentos.
+
+2.º Los fabricantes no radicados en el EEE, deberán designar un representante radicado en el EEE, para cada número de homologación, quien deberá designar personas físicas o jurídicas que firmen estos documentos.
+
+c) La solicitud de alta en el Registro de fabricantes y firmas autorizadas, será dirigida a la autoridad de homologación. Los modelos de solicitud podrán ser descargados de la sede electrónica del Ministerio de Industria, Turismo y Comercio, asimismo en dicha sede electrónica se indicarán los documentos que es necesario aportar para la inscripción, ya sea como fabricante o como representante.
+
+2\. Homologación de tipo nacional.
+
+A efectos de la homologación de tipo nacional serán exigibles los siguientes requisitos:
+
+Una vez realizados los trámites administrativos descritos en el apartado 1, el fabricante que desee homologar de tipo un vehículo incluido en el ámbito de aplicación de este real decreto, deberá presentar ante la autoridad de homologación la documentación siguiente:
+
+a) Ficha de características, sellada por el servicio técnico de acuerdo con el modelo que figura en el apéndice 2 parte II del anexo correspondiente a la categoría del vehículo.
+
+b) Ficha de características reducida, en lo sucesivo ficha reducida, sellada por el servicio técnico, de acuerdo con el modelo que figura en el apéndice 2 parte III del anexo correspondiente a la categoría del vehículo.
+
+c) Acta de ensayo de homologación de tipo expedida por el servicio técnico, según lo dispuesto en el artículo 7 de este real decreto.
+
+d) En el caso de vehículos no fabricados en España, relación de todos los locales en los que pueda efectuarse la selección de muestras de vehículos para la conformidad de la producción prevista en el artículo 9.
+
+e) Si se cumplen los requisitos del apartado 1 y de los párrafos a), b), c), d) anteriores y de los actos reglamentarios incluidos en el Real Decreto 2028/1986, de 6 de junio, la autoridad de homologación concederá la homologación de tipo en España, asignando un número de homologación conforme a los anexos de este real decreto.
+
+3\. Homologación de series cortas nacionales.
+
+A la homologación de series cortas nacionales le será de aplicación lo siguiente:
+
+a) La autoridad de homologación podrá eximir de la aplicación de una o varias disposiciones o de uno o varios actos reglamentarios incluidos en el Real Decreto 2028/1986, de 6 de junio, siempre que dichos vehículos cumplan con los requisitos alternativos determinados por este real decreto, pudiendo otorgar una homologación de tipo nacional en series cortas. Los límites cuantitativos para series cortas serán los establecidos en las directivas marco correspondientes o, en su defecto, los que se establecen en los apéndices aplicables de este real decreto.
+
+La autoridad de homologación podrá homologar en series cortas nacionales a los vehículos incluidos en el ámbito de aplicación de este presente real decreto siguiendo el procedimiento establecido en el mismo.
+
+b) El fabricante, deberá presentar ante la autoridad de homologación la documentación especificada en los apartados 1 y 2 de este artículo.
+
+c) Si se cumplen los requisitos descritos en los párrafos a) y b), la autoridad de homologación concederá la homologación de series cortas nacionales, asignando un número de homologación de acuerdo con el anexo VII de la Directiva 2007/46/CE, de 5 de septiembre, para los vehículos incluidos en el ámbito de aplicación de la directiva o en el apéndice 1 de los anexos correspondientes de este real decreto para el resto de los casos.
+
+4\. Homologación individual.
+
+A la homologación individual le será de aplicación lo siguiente:
+
+El procedimiento de homologación individual de vehículos, previsto en el artículo 1 de la Directiva 2007/46/CE, de 5 de septiembre, deberá cumplir los requisitos establecidos en este real decreto y con las fechas de obligatoriedad que para cada acto reglamentario se establecen en el Real Decreto 2028/1986,de 6 de junio. El procedimiento de homologación individual será aplicable a los vehículos a los que se hace referencia en este real decreto y en las Directivas 2002/24/CE, del Parlamento Europeo y del Consejo, de 18 de marzo, 2003/37/CE, del Parlamento Europeo y del Consejo, de 26 de mayo o 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre. La autoridad de homologación podrá eximir a un vehículo concreto, ya sea singular o no, del cumplimiento de actos reglamentarios siempre que el mismo cumpla los requisitos alternativos determinados por este real decreto.
+
+El interesado deberá presentar ante la autoridad de homologación la documentación siguiente:
+
+a) Solicitud de homologación individual del vehículo.
+
+b) Inscripción en el Registro de fabricantes y firmas autorizadas descrita en el apartado 1 de este artículo. En el caso de que la solicitud de homologación individual se formule por el titular del vehículo o persona física o jurídica que le represente, podrá omitirse el cumplimiento de esa exigencia.
+
+c) Ficha reducida, sellada por el servicio técnico, de acuerdo con el modelo que figura en el apéndice 2 parte III del anexo correspondiente a la categoría del vehículo.
+
+d) Acta de ensayo de homologación individual expedida por el servicio técnico, donde se incluirán los requisitos establecidos en los apéndices de los anexos correspondientes de este real decreto.
+
+e) Si se cumplen los requisitos señalados en los apartados anteriores, la autoridad de homologación concederá la homologación individual para la unidad en cuestión asignando un número de homologación de acuerdo con el anexo correspondiente.
+
+5\. Homologación CE de tipo de vehículos y de los actos reglamentarios incluidos en el Real Decreto 2028/1986, de 6 de junio.
+
+En el caso de la homologación CE de tipo de vehículos y de los actos reglamentarios incluidos en el Real Decreto 2028/1986, de 6 de junio, se habrán de cumplir los siguientes requisitos:
+
+a) Las solicitudes serán dirigidas a la autoridad de homologación y deberán ir acompañadas de los siguientes documentos:
+
+1.º Documento acreditativo de la identidad del solicitante.
+
+2.º Acta de los ensayos realizados conforme a las prescripciones reglamentarias, que deberá haber sido expedida por un servicio técnico designado por la autoridad de homologación.
+
+3.º Certificado del cumplimiento de los requisitos de la evaluación inicial establecido en el apartado 1 del artículo 9 de este real decreto.
+
+b) La autoridad de homologación concederá o no la homologación, según proceda, comunicando la resolución al interesado.
+
+c) La conformidad de la producción con el tipo homologado que se detalla en cada acto reglamentario, se efectuará, por el procedimiento indicado en el artículo 9 de este real decreto o en los artículos correspondientes de los actos reglamentarios y de las directivas marco que le sean de aplicación.
+
+d) Los gastos derivados de la evaluación inicial y de la conformidad de la producción, serán por cuenta del titular de la homologación.
+
+#### Artículo 5. Aplicaciones particulares.
+
+En el caso de los vehículos a los que no sea de aplicación obligatoria la homologación de tipo CE ni estén incluidos en los anexos de este real decreto o que por su configuración sólo puedan recibir una homologación conforme al presente real decreto en virtud de determinadas exenciones, pudiendo la autoridad de homologación eximir de algunos actos reglamentarios, como condición previa a su matriculación o puesta en circulación, se deberá cumplir lo siguiente:
+
+1\. Con carácter general:
+
+a) El solicitante deberá obtener una autorización expresa de la autoridad de homologación, en la que conste la relación de vehículos con sus números de identificación acompañada de petición justificada que incluirá una memoria explicativa de los actos reglamentarios aplicables cuyo cumplimiento, en su caso, no es posible satisfacer, las razones para dicho incumplimiento, y las medidas sustitutivas adoptadas, aportando los certificados de aquellos actos reglamentarios que cumplan. La autoridad de homologación podrá determinar los actos reglamentarios que deben cumplir aun cuando dichos vehículos no se encuentren incluidos en el ámbito de aplicación de dichos actos reglamentarios.
+
+b) Estos vehículos serán sometidos a la inspección técnica unitaria previa a la matriculación en la que verificará la identidad de los vehículos con la documentación aportada así como su estado en lo que concierne a la seguridad vial y protección del medio ambiente.
+
+c) El solicitante presentará la solicitud de inspección técnica unitaria al organismo competente en inspección técnica de vehículos, acompañada de:
+
+1.º Ficha reducida particularizada para el vehículo a inspeccionar según modelos que figuran en los anexos de este real decreto con la relación de los números de identificación del o los vehículos afectados. Podrá ser emitida por el fabricante, por la autoridad de homologación de vehículos o por un servicio técnico competente en materia de homologaciones en un país del EEE. También podrá ser extendida por técnico competente; en este caso, la ficha reducida se realizará basándose en la revisión física del vehículo. Si se tratara de un vehículo homologado separadamente como incompleto y con una carrocería homologada independientemente, se presentarán las fichas reducidas de las dos homologaciones. En cualquiera de los casos deberá ir sellada por el servicio técnico que realice el informe favorable.
+
+2.º Informe favorable del servicio técnico, o copia autentificada del mismo.
+
+3.º Ficha de características técnicas indicada en el anexo correspondiente a cada categoría de vehículo adecuada, en su caso, a la singularidad del vehículo.
+
+4.º Resolución de la autorización emitida por la autoridad de homologación o copia autentificada de la misma.
+
+d) En caso de inspección favorable, el organismo que realice la inspección técnica unitaria emitirá la correspondiente tarjeta de ITV.
+
+2\. Para los prototipos o preseries que pertenezcan a los proyectos en fase de desarrollo por parte de los fabricantes:
+
+a) El solicitante será el fabricante del vehículo.
+
+b) El fabricante del o de los vehículos presentará la solicitud de inspección técnica unitaria al organismo competente en inspección técnica de vehículos, acompañada de:
+
+1.º Ficha reducida, firmada por persona legalmente autorizada por el fabricante, con indicación de los números de identificación de los vehículos afectados.
+
+2.º Copia de la resolución de la autorización emitida por la autoridad de homologación.
+
+c) En caso de inspección favorable, el organismo que realice la inspección técnica unitaria emitirá la correspondiente tarjeta de ITV.
+
+d) Estos vehículos sólo podrán ser matriculados, de forma ordinaria o temporal, a nombre del fabricante que ha desarrollado el prototipo, anotándose esta condición en la tarjeta de ITV.
+
+3\. En particular, para los vehículos procedentes de Estados miembros del EEE se diferenciará entre:
+
+a) Vehículos no matriculados:
+
+1.º Los vehículos deberán disponer bien de una homologación de tipo CE, o una homologación de tipo española, o una serie corta española, o una homologación individual española o, en el caso de estar homologado por una serie corta u homologación individual concedida por otro Estado miembro del EEE, éstas deben haber sido aceptadas previamente por la autoridad de homologación española. En todos los casos se deberá cumplir con los requisitos incluidos en este real decreto y derivados de los actos reglamentarios indicados en la columna de nuevas matrículas del anexo I del Real Decreto 2028/1986, de 6 de junio.
+
+2.º El interesado deberá solicitar una inspección técnica unitaria del vehículo, presentando la ficha reducida particularizada para el vehículo a inspeccionar.
+
+i) En el caso de que el vehículo disponga de un certificado de conformidad CE (CoC), este documento se aceptará como sustitutivo de la ficha reducida.
+
+ii) En el caso de que disponga de una homologación de tipo española o de una serie corta española, certificado emitido por el fabricante o por el servicio técnico designado por la autoridad de homologación que acredite la correspondencia del vehículo con un número de homologación española.
+
+iii) En el caso de homologación individual española, resolución de la autoridad de homologación española. En el caso de homologación individual o serie corta concedida por un Estado miembro del EEE, autorización de equivalencia otorgada por la autoridad de homologación española.
+
+b) Vehículos ya matriculados:
+
+1.º Se entiende por vehículo matriculado aquel que dispone de una de matrícula definitiva otorgada por las autoridades competentes de un Estado miembro del EEE.
+
+2.º El vehículo completo o completado deberá disponer bien de una homologación CE, o una homologación de tipo española, o una serie corta española, o una homologación individual española o, en el caso de estar homologado por una serie corta u homologación individual concedida por otro Estado miembro del EEE, éstas deben haber sido aceptadas previamente por la autoridad de homologación española. En este caso deberán cumplir con los requisitos alternativos incluidos en este real decreto derivado de los actos reglamentarios indicados en la columna de nuevas matrículas del anexo I del Real Decreto 2028/1986, de 6 de junio, en la fecha de la primera matriculación en un Estado miembro del EEE.
+
+En los demás casos, deberán cumplir con los requisitos incluidos en este real decreto derivado de los actos reglamentarios indicados en la columna de nuevas matrículas del anexo I del Real Decreto 2028/1986, de 6 de junio.
+
+3.º El interesado deberá solicitar una inspección técnica unitaria del vehículo presentando:
+
+i) Ficha reducida particularizada para el vehículo a inspeccionar. En el caso que el vehículo disponga de una homologación de tipo CE y del certificado de conformidad CE (CoC), este documento se aceptará como sustitutivo de la ficha reducida.
+
+ii) En el caso de que disponga de una homologación de tipo española o serie corta española, certificado emitido por el fabricante o servicio técnico designado por la autoridad de homologación española, que acredite la correspondencia del vehículo con un número de homologación española.
+
+iii) En el caso de una serie corta concedida por un Estado miembro del EEE, autorización de equivalencia otorgada por la autoridad de homologación española.
+
+iv) En el caso de homologación individual española, resolución de la autoridad de homologación española. En el caso de una homologación individual concedida por un Estado miembro del EEE, autorización de equivalencia otorgada por la autoridad de homologación española.
+
+v) Original del permiso de circulación o documento equivalente del país de procedencia.
+
+vi) Original de la tarjeta de inspección técnica del vehículo o documento equivalente del país de procedencia.
+
+4.º Si el órgano administrativo competente del país de procedencia del vehículo retirara tanto el original del permiso de circulación como la tarjeta de inspección técnica al tramitar la baja del vehículo, ambos documentos podrán ser sustituidos por fotocopias debidamente cotejadas por dicho órgano administrativo o, en su caso, por el Ministerio de Asuntos Exteriores u organismo equivalente del país de procedencia o de su representación diplomática en España.
+
+En todos los casos se hará constar la fecha de la primera matriculación del vehículo en la tarjeta ITV que se expida, a efectos de su inclusión en el permiso de circulación y para computar su antigüedad a los efectos de asignarles las frecuencias de inspección técnica periódica de los vehículos en España.
+
+5.º Los vehículos de motor y sus remolques destinados al uso particular de su titular y que hayan estado matriculados en un Estado miembro del EEE, a nombre de personas físicas que trasladen su residencia a España, podrán solicitar la matriculación en España a nombre de esa misma persona física. El interesado deberá solicitar una inspección técnica unitaria del vehículo presentando:
+
+i) Ficha reducida.
+
+ii) En el caso de que el vehículo disponga de una homologación de tipo CEE y del certificado de conformidad CE (CoC), este documento se aceptará como sustitutivo de la ficha reducida.
+
+iii) Documentación original del vehículo, en el que conste como titular el mismo que solicita la inspección técnica unitaria del vehículo.
+
+Estos vehículos, excepcionalmente, podrán carecer de un número de homologación.
+
+4\. Para el caso de vehículos procedentes de terceros países se diferenciará entre:
+
+a) Vehículos no matriculados:
+
+1.º Los vehículos deberán disponer bien de una homologación de tipo CE, o una homologación de tipo española, o una serie corta española, o una homologación individual española o, en el caso de estar homologado por una serie corta u homologación individual concedida por otro Estado miembro del EEE, éstas deben haber sido aceptadas previamente por la autoridad de homologación española. En todos los casos se deberá cumplir con los requisitos incluidos en el presente real decreto y derivados de los actos reglamentarios indicados en la columna de nuevas matrículas del anexo I del Real Decreto 2028/1986, de 6 de junio.
+
+2.º El interesado deberá solicitar una inspección técnica unitaria del vehículo, presentando la ficha reducida particularizada para el vehículo a inspeccionar.
+
+En el caso que el vehículo disponga de una homologación de tipo CE y del certificado de conformidad CE (CoC), este documento se aceptará como sustitutivo de la ficha reducida.
+
+En el caso de que disponga de una homologación de tipo española, certificado emitido por el fabricante o por el servicio técnico designado por la autoridad de homologación que acredite la correspondencia del vehículo con un número de homologación española.
+
+En el caso de serie corta española, certificado de homologación de tipo. En el caso de serie corta concedida por un Estado miembro del EEE, autorización de equivalencia otorgada por la autoridad de homologación española.
+
+En el caso de homologación individual española, resolución de la autoridad de homologación española. En el caso de homologación individual concedida por un Estado miembro del EEE, autorización de equivalencia otorgada por la autoridad de homologación española.
+
+b) Vehículos ya matriculados:
+
+1.º Se entiende por vehículo matriculado aquel que dispone de una de matrícula definitiva otorgada por las autoridades competentes del país en cuestión.
+
+2.º El vehículo completo o completado deberá disponer bien de una homologación CE, o una homologación de tipo española, o una serie corta española, o una homologación individual española o, en el caso de estar homologado por una serie corta u homologación individual concedida por otro Estado miembro del EEE, éstas deben haber sido aceptadas previamente por la autoridad de homologación española. En este caso deberán cumplir con los requisitos alternativos incluidos en este real decreto derivado de los actos reglamentarios indicados en la columna de nuevas matrículas del anexo I del Real Decreto 2028/1986, de 6 de junio, en la fecha de la primera matriculación en un Estado miembro del EEE.
+
+En los demás casos, deberán cumplir con los requisitos incluidos en este real decreto derivado de los actos reglamentarios indicados en la columna de nuevas matrículas del anexo I del Real Decreto 2028/1986, de 6 de junio.
+
+3.º El interesado deberá solicitar una inspección técnica unitaria del vehículo presentando:
+
+i) Ficha reducida particularizada para el vehículo a inspeccionar. En el caso que el vehículo disponga de una homologación de tipo CE y del certificado de conformidad CE (CoC), este documento se aceptará como sustitutivo de la ficha reducida.
+
+ii) En el caso de que disponga de una homologación de tipo española, certificado emitido por el fabricante o servicio técnico designado por la autoridad de homologación española, que acredite la correspondencia del vehículo con un número de homologación española.
+
+iii) En el caso de serie corta española, certificado de homologación de tipo. En el caso de una serie corta concedida por un Estado miembro del EEE, autorización de equivalencia otorgada por la autoridad de homologación española.
+
+iv) En el caso de homologación individual española, resolución de la autoridad de homologación española. En el caso de una homologación individual concedida por un Estado miembro del EEE, autorización de equivalencia otorgada por la autoridad de homologación española.
+
+v) Original del permiso de circulación o documento equivalente del país de procedencia.
+
+vi) Original de la tarjeta de inspección técnica del vehículo o documento equivalente del país de procedencia.
+
+4.º Si el órgano administrativo competente del país de procedencia del vehículo retirara tanto el original del permiso de circulación como la tarjeta de inspección técnica al tramitar la baja del vehículo, ambos documentos podrán ser sustituidos por fotocopias debidamente cotejadas por dicho órgano administrativo o, en su caso, por el Ministerio de Asuntos Exteriores u organismo equivalente del país de procedencia o de su representación diplomática en España.
+
+En todos los casos se hará constar la fecha de la primera matriculación del vehículo en la tarjeta ITV que se expida, a efectos de su inclusión en el permiso de circulación y para computar su antigüedad a los efectos de asignarles las frecuencias de inspección técnica periódica de los vehículos en España.
+
+5.º Los vehículos de motor y sus remolques destinados al uso particular de su titular y que hayan estado matriculados en terceros países, a nombre de personas físicas que trasladen su residencia a España, podrán solicitar la matriculación en España a nombre de esa misma persona física. El interesado deberá solicitar una inspección técnica unitaria del vehículo presentando:
+
+i) Ficha reducida.
+
+ii) Documentación original del vehículo, en el que conste como titular el mismo que solicita la inspección técnica unitaria del vehículo.
+
+Estos vehículos, excepcionalmente, podrán carecer de un número de homologación.
+
+5\. En el supuesto de vehículos del Cuerpo Diplomático español acreditado en otros países y del Cuerpo Diplomático extranjero acreditado en España:
+
+a) Los vehículos pertenecientes al personal del Cuerpo Diplomático español acreditado en otros países y del cuerpo diplomático extranjero acreditado en España, al término de la misión de su titular, podrán ser objeto de la autorización administrativa previa a la matriculación ordinaria, siempre que exista la certificación correspondiente por parte del Ministerio de Asuntos Exteriores y de Cooperación.
+
+b) El interesado deberá solicitar una inspección técnica unitaria presentando:
+
+i) Certificado de conformidad (CoC). En caso debidamente justificado, la autoridad competente podrá eximir de este requisito.
+
+ii) Ficha reducida. En el caso de que el vehículo disponga de una homologación CE y del certificado de conformidad CE (CoC), este documento se aceptará como sustitutivo de la ficha reducida.
+
+iii) Original del permiso de circulación o documento equivalente del país de procedencia.
+
+iv) Original de la tarjeta de inspección técnica del vehículo o documento equivalente del país de procedencia.
+
+c) Si el órgano administrativo competente del país de procedencia del vehículo retirara tanto el original del permiso de circulación como la tarjeta de inspección técnica al tramitar la baja del vehículo, ambos documentos podrán ser sustituidos por fotocopias debidamente cotejadas por dicho órgano administrativo o, en su caso, por el Ministerio de Asuntos Exteriores u organismo equivalente del país de procedencia o de su representación diplomática en España.
+
+d) En todos los casos se hará constar la fecha de la primera matriculación del vehículo en la tarjeta ITV que se expida, a efectos de su inclusión en el permiso de circulación y para computar su antigüedad a los efectos de asignarles las frecuencias de inspección técnica periódica de los vehículos en España.
+
+6\. Para los vehículos procedentes de subastas oficiales realizadas en España y que deben ser objeto de matriculación ordinaria:
+
+a) El vehículo deberá disponer de un número de homologación valido en España.
+
+b) El adjudicatario en subasta oficial realizada en España de vehículos, anteriormente matriculados con matrícula especial española o de otros países (Fuerzas Armadas, Parque Móvil del Estado y otros organismos públicos), deberá solicitar que en el acta de adjudicación se identifique inequívocamente el vehículo, indicando la marca, número de homologación válida en España, el modelo, año de fabricación y número de identificación, indicando a su vez que el vehículo es apto para una nueva matriculación ordinaria.
+
+c) Los vehículos deberán someterse a la inspección técnica unitaria aportando la documentación siguiente:
+
+i) Copia de la documentación de la matriculación especial.
+
+ii) Acta de adjudicación del organismo oficial.
+
+iii) Ficha reducida.
+
+#### Artículo 6. Requisitos sobre la tramitación.
+
+1\. La solicitud y la documentación señalada en los apartados anteriores podrá presentarse de acuerdo con lo previsto en el artículo 38 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Las solicitudes también podrán tramitarse por medios electrónicos, de conformidad con la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos.
+
+2\. La autoridad de homologación deberá resolver y notificar en el plazo de seis meses desde la entrada en el registro de toda la documentación que, para cada caso, se establezca en este real decreto. Transcurrido el plazo máximo sin haberse notificado resolución expresa la solicitud se entenderá denegada.
+
+3\. En el caso de resolución denegatoria, la autoridad de homologación deberá indicar los motivos de la denegación.
+
+4\. Quien desee comercializar, matricular o poner en servicio un vehículo con homologación individual u homologación de tipo de serie corta nacional de otro Estado miembro del EEE, deberá solicitarlo a la autoridad de homologación, proporcionando una declaración sobre las disposiciones técnicas mediante las que obtuvo dicha homologación individual o la homologación de tipo de serie corta nacional en el mencionado Estado. La autoridad de homologación evaluará la correspondencia de dichas disposiciones técnicas con los requisitos establecidos en los anexos de este real decreto y, en su caso, en los establecidos en el anexo I del Real Decreto 2028/1986, de 6 de junio.
+
+5\. En los casos de homologación de tipo y homologación de tipo de series cortas nacionales realizados en proceso multifásico, además de los requisitos exigidos en los apartados anteriores, deberá existir entre los fabricantes de las distintas fases un acuerdo de colaboración. La autoridad de homologación verificará que existe dicho acuerdo.
+
+En el caso de homologación individual de la última fase de un proceso de homologación multifásico, se verificará que se cumple, o bien el acuerdo de colaboración antes citado, o que existe un informe sustitutivo emitido por el fabricante de la primera fase y una memoria técnica del vehículo completado o transformado realizada por el fabricante de la última fase.
+
+6\. El certificado de homologación del presente real decreto emitido por la autoridad de homologación estará inspirado en los modelos que se establecen en las Directivas 2002/24/CE, del Parlamento Europeo y del Consejo, de 18 de marzo, 2003/37/CE, del Parlamento Europeo y del Consejo, de 26 de mayo o 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre.
+
+### CAPÍTULO III — Ensayos de homologación
+
+#### Artículo 7. Actas de ensayo.
+
+1\. El modelo de acta de ensayo de homologación de tipo española, homologación de series cortas nacionales u homologación individual o autorizaciones de aplicaciones particulares se emitirá por el servicio técnico se basará en el modelo que figura en el anexo I de este real decreto y deberá incluir, al menos, las informaciones recogidas en dicho anexo. Para su emisión, el servicio técnico deberá realizar las comprobaciones, mediciones y ensayos requeridos para verificar que el vehículo se corresponde con el expediente de homologación.
+
+2\. Acta de ensayo de homologación de tipo española y homologación de series cortas nacionales.
+
+a) El acta de ensayo de homologación de un tipo de vehículo u homologación de series cortas nacionales incluirá el tipo básico y las variantes del mismo que se señalen en la documentación presentada al efecto debidamente identificados por el fabricante. La definición de tipo y variantes del mismo es la que figura en los anexos correspondientes de este real decreto y, en su defecto, en los anexos de las Directivas 2002/24/CE, del Parlamento Europeo y del Consejo, de 18 de marzo, 2003/37/CE, del Parlamento Europeo y del Consejo, de 26 de mayo, o 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre, cuando éstas le sean de aplicación.
+
+b) Para la obtención del acta de ensayo de homologación de tipo u homologación de tipo de serie corta nacional, el interesado deberá poner a disposición del servicio técnico lo siguiente:
+
+1.º Un número suficiente de vehículos del mismo tipo, cuya homologación se solicita, a determinar por el servicio técnico.
+
+2.º Ficha de características.
+
+3.º Ficha reducida.
+
+4.º Los certificados oficiales de homologación y sus documentos anexos, correspondientes a los actos reglamentarios en vigor o requisitos alternativos, y que sean de aplicación para el vehículo.
+
+c) Si con posterioridad a la homologación del tipo y sus variantes, se incorpora al tipo homologado cualquier nueva variante, deberá solicitarse la extensión de homologación correspondiente a la autoridad de homologación. Para ello se presentará al servicio técnico la documentación que corresponda únicamente a las diferencias que presente la nueva variante con el modelo básico, acompañada de los certificados de homologación de los actos reglamentarios afectados por las diferencias que presentan las nuevas variantes, y, en su caso, vehículo representativo de la/s nueva/s variante/s.
+
+El servicio técnico procederá a emitir un acta de ensayo de extensión de homologación de tipo, previa verificación de los datos presentados por el fabricante, y comprobación de que las documentaciones de los actos reglamentarios se corresponden con la nueva variante del vehículo, y previa realización, en su caso, de los ensayos necesarios.
+
+d) Por otra parte, si con posterioridad a la homologación del tipo de base se hubieran producido modificaciones de alguno de los datos que figuran en la ficha de características, que no signifiquen nuevo tipo o variante, el fabricante deberá presentar al servicio técnico la documentación que corresponda a los cambios efectuados, así como las documentaciones relativas a los actos reglamentarios afectados para obtener la revisión de la homologación de tipo.
+
+Las hojas en que se relacionan estas modificaciones, debidamente comprobadas y selladas por el servicio técnico, se anexarán a la documentación de homologación anterior y serán remitidas por el servicio técnico a la autoridad de homologación. Esta comprobación se limitará a verificar que el cambio no supone nuevo tipo o variante, según las definiciones de los apéndices 1 de los anexos de este real decreto o de los actos reglamentarios a los que se hace referencia en el artículo 2.10 de este real decreto.
+
+3\. Acta de ensayo para la homologación individual.
+
+Para la obtención del acta de ensayo de homologación individual, el interesado deberá poner a disposición de un servicio técnico designado en España lo siguiente:
+
+a) Ficha reducida, según el modelo que figura en el apéndice 2 del anexo correspondiente a la categoría del vehículo.
+
+b) En su caso, copia de los certificados de homologación o requisitos alternativos de los actos reglamentarios aplicables al vehículo y que sean exigibles para su homologación individual.
+
+c) El vehículo objeto de la homologación individual.
+
+#### Artículo 8. Vehículos destinados a la realización de los ensayos necesarios para la obtención de la homologación de tipo de vehículos o de los actos reglamentarios.
+
+Los vehículos destinados a la realización de los ensayos necesarios para la obtención de la homologación de tipo o de actos reglamentarios quedan eximidos de dicha homologación, mientras estén destinados a este propósito y deberán circular con permisos y placas de matrícula temporales para uso de empresas.
+
+### CAPÍTULO IV — Conformidad de la producción
+
+#### Artículo 9. Procedimiento de conformidad de la producción.
+
+El procedimiento de conformidad de la producción está destinado a garantizar que cada vehículo, sistema, componente y unidad técnica independiente fabricados sean conformes con el tipo homologado de acuerdo con cualquiera de las posibles alternativas que ofrece este real decreto.
+
+El procedimiento incluye, de manera inseparable, la evaluación de los sistemas de gestión de calidad, citados más adelante como evaluación Inicial y verificación del objeto de la homologación y los controles relacionados con el producto, citados como disposiciones de conformidad del producto.
+
+El procedimiento de conformidad de la producción es responsabilidad de la autoridad de homologación quien podrá efectuar los controles previstos en este artículo por sí o por servicio/s técnico/s designados al efecto.
+
+1\. En la evaluación inicial, la autoridad de homologación:
+
+a) Comprobará, antes de conceder la homologación de tipo, que los procedimientos que dispone el fabricante son satisfactorios para garantizar un control eficaz de la conformidad con el tipo homologado de los componentes, sistemas, unidades técnicas independientes y vehículos de que se trate, pudiendo servir como guía la Norma ISO 19011:2002: Directrices para la auditoría de los sistemas de gestión de la calidad y/o ambientales.
+
+El fabricante deberá demostrar a satisfacción de la autoridad de homologación el cumplimiento de los requisitos exigidos.
+
+b) Podrá tomar en consideración el cumplimiento de la norma armonizada UNE: EN ISO 9001:2008: Sistemas de gestión de la calidad, o de una norma armonizada equivalente al cumplimiento de los requisitos de la evaluación inicial. El fabricante proporcionará todas las informaciones necesarias sobre la certificación y se comprometerá a informar a la autoridad de homologación sobre cualquier cambio en la validez o en el ámbito de aplicación.
+
+2\. En la conformidad de la producción:
+
+a) Todo vehículo, sistema, componente o unidad técnica independiente, homologado según este real decreto, será fabricado de forma que se ajuste al tipo homologado, cumpliendo los requisitos de este real decreto o de un acto reglamentario de los incluidos en el anexo I del Real Decreto 2028/1986, de 6 de junio.
+
+b) Cuando conceda una homologación, la autoridad de homologación comprobará la existencia de disposiciones adecuadas y planes de control documentados, que contarán con el acuerdo del fabricante para cada homologación, para poder realizar a intervalos determinados los ensayos y controles necesarios para comprobar la conformidad con el tipo homologado, incluidos, en su caso, los ensayos previstos en actos reglamentarios citados en el párrafo a).
+
+3\. En las disposiciones de verificación continua:
+
+a) La autoridad de homologación podrá verificar en cualquier momento los métodos de control de la conformidad aplicados en cada planta de producción o en los locales previstos en el artículo 4.2 d) de este real decreto.
+
+1.º Lo normal será verificar la eficacia permanente de los procedimientos establecidos en el apartado 1 (evaluación inicial) y del apartado 2 (conformidad de la producción).
+
+2.º La frecuencia normal de las verificaciones realizadas por la autoridad de homologación garantizará que los controles pertinentes efectuados con arreglo a los apartados 1 y 2 del presente artículo son revisados durante un periodo adecuado a la fiabilidad establecida por la autoridad de homologación.
+
+b) En cada revisión, se pondrán a disposición del inspector las actas de los ensayos y verificaciones y los registros de la producción; en particular, las actas de los ensayos o verificaciones documentadas como se exige en el apartado 2.b) del presente artículo.
+
+c) Cuando se obtengan resultados insatisfactorios en una inspección o en la revisión de seguimiento, la autoridad de homologación velará por que se tomen las medidas necesarias para restablecer la conformidad de la producción a la mayor brevedad.
+
+d) Aquellos vehículos, sistemas, componentes y unidades técnicas independientes, incluidos en el ámbito de aplicación de este real decreto no homologados en España, acompañados de un certificado de conformidad o que llevan grabada la marca de homologación, estarán sujetos a los requisitos de verificación que aseguren que se ajusten al tipo homologado en aplicación de lo establecido al efecto en las Directivas 2002/24/CE, del Parlamento Europeo y del Consejo, de 18 de marzo, 2003/37/CE, del Parlamento Europeo y del Consejo, de 26 de mayo o 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre. A este efecto, la autoridad de homologación española podrá verificar en todo momento su correspondencia con el tipo homologado.
+
+e) Los gastos que se deriven del aseguramiento de los requisitos anteriores serán sufragados por el solicitante o el titular de la homologación.
+
+#### Artículo 10. Número de homologación.
+
+Cada vehículo que corresponda a un tipo homologado llevará en la placa del fabricante el número que le haya sido asignado por la autoridad de homologación, en aplicación del artículo 4 y, en su caso, en el artículo 5. En el caso de homologación de tipo multifásico se seguirá lo establecido en el anexo XVII de la Directiva 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre de 2007.
+
+### CAPÍTULO V — Designación de los servicios técnicos e inspección técnica de vehículos
+
+#### Artículo 11. Servicios técnicos.
+
+1\. La autoridad de homologación designará los servicios técnicos en la forma establecida en el artículo 13.4 de la Ley 21/1992, de 16 de julio, de Industria.
+
+2\. La designación de dichos servicios técnicos se basará en un informe de evaluación de las aptitudes que establezca la autoridad de homologación.
+
+#### Artículo 12. Tarjetas de inspección técnica de vehículos.
+
+1\. El formato y contenido de la tarjeta de inspección técnica de vehículos, serán, en cada caso, los especificados en el anexo XI de este real decreto, sin que pueda ser objeto de cesión a un tercero ni firmada por persona no autorizada. Las firmas de las personas autorizadas a tal fin serán las recogidas en el registro que se menciona en el artículo 4.1 realizándose su tramitación de acuerdo a lo especificado en el párrafo 1.4 del anexo XII.
+
+En el anexo XII se detallan las instrucciones para la cumplimentación de dichas tarjetas.
+
+2\. La validez de la tarjeta de inspección técnica de vehículos expirará cuando nuevos requisitos que figuren en cualquier acto reglamentario aplicable al vehículo homologado sean obligatorios para la matriculación.
+
+### CAPÍTULO VI — Régimen sancionador
+
+#### Artículo 13. Infracciones y sanciones.
+
+1\. El incumplimiento de las disposiciones de este real decreto se sancionará con arreglo al régimen de infracciones y sanciones previsto en el título V de la Ley 21/1992, de 16 de julio, de Industria, sin perjuicio de lo que se establece en el apartado siguiente.
+
+2\. Cuando el incumplimiento de lo dispuesto en este real decreto constituya una infracción tipificada en el texto refundido de la Ley General de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre, así como en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agro-alimentaria, será sancionado de conformidad con lo prescrito en dicho texto refundido y en el referido real decreto.
+
+#### Disposición adicional única. Reformas de importancia antes de la matriculación.
+
+A partir de la fecha de entrada en vigor de este real decreto, las reformas de importancia previstas en el Real Decreto 736/1988, de 8 de julio, por el que se regula la tramitación de las reformas de importancia de vehículos de carretera y se modifica el artículo 252 del Código de la Circulación, que se realicen en los vehículos antes de la matriculación no podrán ser realizadas, salvo en los casos que se especifique en la legislación aplicable en las reformas de vehículos. Este tipo de reformas deberán ser realizadas de conformidad con los procedimientos pertinentes de homologación.
+
+#### Disposición transitoria primera. Carrozado inicial de vehículos.
+
+El carrozado inicial de vehículos al que hace referencia el anexo 11 del Real Decreto 2140/1985, de 9 de octubre, por el que se dictan normas de homologación de tipos de vehículos automóviles, remolques y semirremolques, así como de partes y piezas de dichos vehículos, podrá seguir realizándose según el Real Decreto 736/1988, de 8 de julio, por el que se regula la tramitación de las reformas de importancia de vehículos de carretera y se modifica el artículo 252 del Código de la Circulación hasta las fechas de la obligatoriedad de homologación de tipo para los tipos de vehículos ya existentes determinadas en la última columna del anexo XIX de la Directiva 2007/46/CE, de 5 de septiembre.
+
+#### Disposición transitoria segunda. Homologaciones de tipo nacionales.
+
+Se podrán conceder homologaciones de tipo nacionales según este real decreto para las categorías de vehículos incluidas en las Directivas 2002/24/CE, del Parlamento Europeo y del Consejo, de 18 de marzo, 2003/37/CE, del Parlamento Europeo y del Consejo, de 26 de marzo, 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre, hasta las fechas de homologación CE obligatorias establecidas en dichas directivas.
+
+#### Disposición transitoria tercera. Extensiones de homologaciones de tipo nacionales.
+
+Las extensiones de homologación de tipo nacionales se podrán seguir concediendo según el presente real decreto o según el Real Decreto 2140/1985, de 9 de octubre, por el que se dictan normas de homologación de tipos de vehículos automóviles, remolques y semirremolques, así como de partes y piezas de dichos vehículos y tendrán validez para nuevas matriculaciones hasta las fechas de homologación CE obligatorias definidas en las Directivas 2002/24/CE, del Parlamento Europeo y del Consejo, de 18 de marzo, 2003/37/CE, del Parlamento Europeo y del Consejo, de 26 de marzo, y 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre.
+
+#### Disposición transitoria cuarta. Tarjetas de ITV o certificados para carrozado para vehículos homologados según el Real Decreto 2140/85, de 9 de octubre.
+
+Durante un periodo de dos años a partir de la entrada en vigor del presente real decreto, se podrán seguir emitiendo tarjetas de ITV de acuerdo con el Real Decreto 2140/1985, de 9 de octubre.
+
+Los certificados para carrozado de los vehículos homologados según el Real Decreto 2140/1985, de 9 de octubre, seguirán siendo válidos hasta la fecha de obligatoriedad establecida en la Directiva 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre, para matriculación de vehículos.
+
+#### Disposición transitoria quinta. Registro de fabricantes y firmas autorizadas.
+
+Los fabricantes y representantes del fabricante inscritos en el actual Registro de fabricantes y firmas autorizadas de la autoridad de homologación deberán actualizar su inscripción según los requisitos de este real decreto en un plazo de seis meses después de la fecha de entrada en vigor del presente real decreto. No obstante, si con anterioridad a esta fecha tuvieran que actualizar o modificar alguno de los datos de su expediente, deberán actualizar el mismo según lo dispuesto en el artículo 4 de este real decreto.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto y, en particular, sin perjuicio de lo dispuesto en la disposición transitoria primera, el Real Decreto 2140/85, de 9 de octubre, por el que se dictan normas sobre la homologación de tipos de vehículos automóviles, remolques y semirremolques, así como de partes y piezas de dichos vehículos.
+
+#### Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.21.ª de la Constitución, que atribuye al Estado la competencia sobre tráfico y circulación de vehículos a motor.
+
+#### Disposición final segunda. Habilitación para la modificación de los anexos de este real decreto.
+
+1\. Se faculta al Ministro de Industria, Turismo y Comercio para modificar mediante orden los anexos de este real decreto.
+
+2\. En particular, la modificación de los anexos XI y XII de este real decreto exigirá el previo informe del Ministerio del Interior.
+
+#### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor al mes de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 4 de junio de 2010.
+
+JUAN CARLOS R.
+
+El Ministro de Industria, Turismo y Comercio,
+
+MIGUEL SEBASTIÁN GASCÓN
+
+## ANEXO I
+
+### Requisitos mínimos del acta de ensayo de homologación (extendida por el servicio técnico)
+
+Acta para la emisión del certificado de homologación de tipo de vehículos, exenciones, homologación Individual homologación serie corta nacional
+
+Referencia:
+
+Número
+
+1\. Marca del vehículo
+
+2\. Tipo del vehículo:
+
+3\. Nombre y dirección del constructor:
+
+4\. En caso necesario, nombre y dirección del representante del fabricante
+
+5\. Variantes:
+
+6\. Vehículo presentado para la homologación:
+
+7\. Servicio técnico encargado de la homologación:
+
+8\. Fecha de la comunicación entregada por este servicio:
+
+9\. Número de la comunicación entregada por este servicio:
+
+10\. El vehículo cumple/no cumple la normativa de homologación (*):
+
+11\. Emplazamiento en el vehículo de la marca de homologación:
+
+12\. Lugar:
+
+13\. Fecha:
+
+14\. Firma:
+
+El vehículo cuyas características se reseñan, cumple en esta fecha las prescripciones de homologación que le son aplicables.
+
+(*) Tachar lo que no proceda
+
+### Requisitos mínimos del acta de ensayo para la extensión de la homologación (extendida por el servicio técnico)
+
+Extensión de homologación de tipo de vehículos, exenciones, homologación Individual, homologación serie corta nacional
+
+Referencia:
+
+Número del vehículo base
+
+1\. Marca del vehículo
+
+2\. Tipo del vehículo:
+
+3\. Nombre y dirección del constructor:
+
+4\. En caso necesario, nombre y dirección del representante del fabricante
+
+5\. Variantes para las que se solicita la extensión:
+
+6\. Vehículo presentado para la extensión:
+
+7\. Servicio técnico encargado de la extensión:
+
+8\. Fecha de la comunicación entregada por este servicio:
+
+9\. Número de la comunicación entregada por este servicio:
+
+10\. El vehículo cumple/no cumple la normativa de homologación (*):
+
+11\. Emplazamiento en el vehículo de la marca de homologación:
+
+12\. Lugar:
+
+13\. Fecha:
+
+14\. Firma:
+
+El vehículo cuyas características se reseñan, cumple en esta fecha las prescripciones de homologación que le son aplicables.
+
+(*) Tachar lo que no proceda
+
+## ANEXO II — Homologación Nacional de Vehículos
+
+Anexo Técnico sobre Homologación Nacional de vehículos de la categoría L
+
+(Incluye: aplicaciones particulares, serie corta nacional y Homologación Individual)
+
+Índice
+
+Apéndice 1: Generalidades.
+
+Parte I: Definición según categorías de: tipo, variante y versión.
+
+Parte II: Modelos de números de homologación.
+
+Apéndice 2: Aplicaciones particulares.
+
+Parte I: Campo de aplicación.
+
+Parte II: Ficha de características.
+
+Parte III: Modelos de fichas reducidas.
+
+Parte IV: Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV).
+
+Parte V: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 3: Serie Corta Nacional.
+
+Parte I: Campo de aplicación.
+
+Parte II: Ficha de características.
+
+Parte III: Modelos de fichas reducidas.
+
+Parte IV: Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV).
+
+Parte V: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 4: Homologación Individual.
+
+Parte I: Campo de aplicación.
+
+Parte II: Modelo fichas reducidas.
+
+Parte III: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 5: Lista de actos reglamentarios para la homologación de vehículos.
+
+Parte I: Aplicaciones particulares, Series Cortas Nacionales y Homologación Individual.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 1 — Generalidades
+
+**PARTE I**
+
+**Definición de tipos de vehículos**
+
+Para los fines de la categoría L:
+
+Serán de aplicación los criterios para los tipos, variantes y versiones establecidos en el Reglamento de la Unión Europea vigente en la materia.
+
+**PARTE II**
+
+**Modelos de números de homologación**
+
+Aplicaciones particulares
+
+Número de Autorización del Ministerio de Industria, Comercio y Turismo con la nomenclatura siguiente:
+
+Constará de dos secciones separadas por un asterisco:
+
+Primera sección: «IH» seguido del Año de emisión de la autorización y un número secuencial.
+
+Segunda sección: Una secuencia numérica de dos dígitos (con un cero delante si es necesario) que indique la extensión.
+
+En los casos de extensiones en años posteriores a la emisión de la autorización básica, se mantendrá la primera sección.
+
+Serie Corta Nacional:
+
+Todas las categorías:
+
+e9*NKS168/2013*xxxxx*xx (Vehículos incompletos, completos, y completados y las diferentes fases de completados). Constará de cuatro secciones separadas por un asterisco,
+
+Primera sección: «e9».
+
+Segunda sección: «NKS168/2013»
+
+Tercera sección: Una secuencia numérica de al menos cinco dígitos que indica el número de homologación de base.
+
+Cuarta sección: Una secuencia numérica de dos dígitos (con un cero delante si es necesario) que indique la extensión. La secuencia empezará a partir de 00 para cada número de homologación de base.
+
+En los casos de corrección que no implican extensión, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+Homologación individual:
+
+HIA-XXXXX (vehículos categoría L completos y completados)
+
+Constará de los caracteres «HIA» seguidos de una secuencia numérica de al menos cinco dígitos, que indicará el número de aprobación individual. En los casos de corrección, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 2 — Aplicaciones particulares
+
+**PARTE I**
+
+**Campo de aplicación**
+
+Vehículos que no entran dentro del campo de aplicación del Reglamentos de la Unión Europea pero que están asimilados a la categoría L (L6e y L7e).
+
+La definición de tipo de vehículos deberá cumplir con la parte I del Apéndice 1.
+
+**PARTE II**
+
+**Ficha de características**
+
+Se aportará la información que figura a continuación, se presentará e irá acompañada de una lista de los elementos incluidos. Los planos y fotografías, en su caso, se presentarán a la escala adecuada, suficientemente detallados.
+
+En los epígrafes que corresponda a vehículos completos, completados o incompletos, se indicará lo que proceda.
+
+En el caso de vehículos completados, se cumplimentarán todos los epígrafes, incluidos los correspondientes al vehículo de la fase anterior, mencionando la correspondencia entre ambas fases.
+
+(Se rellenarán todos los epígrafes a excepción los campos que no procedan en función de la categoría del vehículo, en los que se indicará N.A.).
+
+**PARTE III**
+
+**Modelos de fichas reducidas**
+
+Los modelos de ficha reducida son los establecidos en este apéndice.
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Según lo establecido en este apéndice.
+
+**PARTE V**
+
+**Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en este apéndice.
+
+**PARTE II**
+
+**Ficha de características**
+
+| N.º | Sub-Cat. | Información detallada. Categoría L |
+|---|---|---|
+| 0. |  | INFORMACIÓN GENERAL |
+| A. |  | Información general relativa a los vehículos |
+| 0.1. | Todas | Marca (nombre comercial del fabricante): |
+| 0.2. | Todas | Tipo (17): |
+| 0.2.1. | Todas | Variantes (17): |
+| 0.2.2. | Todas | Versiones (17): |
+| 0.2.3. | L1e — L7e | Denominaciones comerciales (de haberlas): |
+| 0.3. | L1e — L7e | Categoría, subcategoría y subsubcategoría del vehículo (2): |
+| 0.4. | L1e — L7e | Razón social y dirección del fabricante del vehículo de base y del fabricante de última fase o / fabricante del vehículo transformado (si procede) |
+| 0.4.1. | L1e — L7e | Nombre y dirección de las plantas de montaje: |
+| 0.4.2. | L1e — L7e | En su caso, nombre y dirección del representante autorizado del fabricante: |
+| 0.5. | L1e — L7e | Placas reglamentarias del fabricante / transformador: |
+| 0.5.1. | L1e — L7e | Ubicación de la placa/s reglamentaria/s (15) (18): |
+| 0.5.2. | L1e — L7e | Método de fijación de las placas reglamentarias: |
+| 0.5.3. | L1e — L7e | Fotografías o dibujos de la placa(s) reglamentaria(s) (ejemplo completo con dimensiones): |
+| 0.6. | L1e — L7e | Ubicación del número de identificación del vehículo (15): |
+| 0.6.1. | L1e — L7e | Fotografías o dibujos de la ubicación del número de identificación del vehículo (ejemplo completo con dimensiones): |
+| 0.6.1.1. | L1e — L7e | El número de serie del tipo empieza en el n.º / En el caso de aplicación particular según artículo 5,<br>Listado de nos de bastidor afectados |
+| C. |  | Información general sobre la conformidad de la producción y el acceso a la información sobre la reparación y el mantenimiento. |
+| 0.12. |  | Conformidad de la producción |
+| 0.12.1. | L1e — L7e | Descripción de los sistemas globales de gestión del aseguramiento de la calidad |
+| 1. |  | Características de fabricación generales |
+| 1.1. | L1e — L7e | Fotografías o dibujos de un vehículo representativo: |
+| 1.2. | L1e — L7e | Esquema acotado de los vehículos representativos (diferentes variantes y versiones): |
+| 1.3. | L1e — L7e | Número de ejes y de ruedas: |
+| 1.3.1. | L1e — L7e | Ejes con ruedas gemelas (23): |
+| 1.3.2. | L1e — L7e | Ejes motores (23): |
+| 1.4. | L1e — L7e | Bastidor (en su caso) (Esquema general descriptivo): Indicar el material de construcción |
+| 1.5. | L1e — L7e | Material utilizado para la carrocería y descripción: |
+| 1.7. | L4e, L5e-B, L6e-B, L7eA2, L7e-B2 y L7e-C | Ubicación de la pieza de dirección: izquierda/derecha/centro(4): |
+| 1.8. | L1e — L7e | Rendimiento de la unidad de propulsión |
+| 1.8.1. | L1e — L7e | Velocidad máxima del vehículo declarada: km/h |
+| 1.8.2. | L1e — L7e | Velocidad máxima del vehículo por construcción verificada por el servicio técnico (22): …. km/h y marcha en la que se alcanza:……. (solo categorías afectadas) |
+| 1.8.3. | L1e — L7e | Potencia máxima neta del motor de combustión:...... kW a...... min<sup>–1</sup> con una relación aire-combustible: ...... |
+| 1.8.4. | L1e — L7e | Par máximo neto del motor de combustión:...... Nm a...... min<sup>–1</sup> con una relación aire-combustible:...... |
+| 1.8.5. | L1e — L7e | Potencia nominal continua máxima del motor eléctrico (potencia (27) durante 15/30(4) minutos):...... kW a ...... min<sup>–1</sup> |
+| 1.8.6. | L1e — L7e | Par nominal continuo máximo del motor eléctrico:...... Nm a...... min<sup>–1</sup> |
+| 1.8.7. | L1e — L7e | Potencia total continua máxima de las propulsiones:...... kW a...... min<sup>–1</sup> con una relación airecombustible:...... |
+| 1.8.8. | L1e — L7e | Par total continuo máximo de las propulsiones:...... Nm a...... min<sup>–1</sup> con una relación aire-combustible: ...... |
+| 1.8.9. | L1e — L7e | Potencia de pico máxima de las propulsiones:...... kW a...... min<sup>–1</sup> con una relación aire-combustible: ...... |
+| 2. | L1e — L7e | Masas y dimensiones (en kg y mm); con referencia a los dibujos, cuando proceda |
+| 2.1 | L1e — L7e | Gama de masas (generales) del vehículo |
+| 2.1.1. | L1e — L7e | Masa en orden de marcha:...... kg |
+| 2.1.1.1. | L1e — L7e | Distribución de la masa en orden de marcha entre los ejes:...... kg |
+| 2.1.2. | L1e — L7e | Masa real:...... kg |
+| 2.1.3. | L1e — L7e | Masa máxima en carga técnicamente admisible:...... kg |
+| 2.1.3.1. | L1e — L7e | Masa máxima técnicamente admisible en el eje delantero:...... kg |
+| 2.1.3.2. | L1e — L7e | Masa máxima técnicamente admisible en el eje trasero:...... kg |
+| 2.1.3.3. | L4e | Masa máxima técnicamente admisible en el eje del sidecar:...... kg |
+| 2.1.5. | L1e — L7e | Masa de carga útil máxima declarada por el fabricante:...... kg |
+| 2.1.6. | L1e — L7e | Capacidad portante segura de la plataforma de carga declarada por el fabricante:...... kg |
+| 2.1.7. | L1e — L7e | Masa remolcable máxima técnicamente admisible en caso de (4) remolque con frenos:...... kg, remolque sin frenos:...... kg |
+| 2.1.7.1 | L1e — L7e | Masa máxima en carga técnicamente admisible del conjunto:...... kg |
+| 2.1.8. | L1e — L7e | Masa del equipo opcional:...... kg |
+| 2.1.9. | L1e — L7e | Masa de la superestructura:...... kg |
+| 2.1.10. | L1e — L7e | Masa de las baterías de propulsión:...... kg |
+| 2.1.11. | L2e, L4e,<br>L5e, L6e y<br>L7e | Masa de las puertas:...... kg |
+| 2.1.12. | L2e-U, L5eB, L6e-BU y L7e-CU | Masa de las máquinas o los equipos instalados en la zona de la plataforma de carga: …. kg |
+| 2.1.13. | L1e — L7e | Masa del sistema de combustible gaseoso y de los depósitos de dicho combustible: …. kg |
+| 2.1.14. | L1e — L7e | Masa de los depósitos de aire comprimido: …. kg |
+| 2.2. |  | Gama de dimensiones (generales) del vehículo |
+| 2.2.1. | L1e — L7e | Longitud:...... mm |
+| 2.2.2. | L1e — L7e | Anchura:...... mm |
+| 2.2.3. | L1e — L7e | Altura:...... mm |
+| 2.2.4. | L1e — L7e | Distancia entre ejes:...... mm |
+| 2.2.4.1. | L4e | Distancia entre ejes del sidecar (28): ……. mm |
+| 2.2.5. |  | Vía |
+| 2.2.5.1. | L1e — L7e si están equipados con ruedas gemelas L2e, L4e, L5e, L6e y L7e | Vía delantera:...... mm. |
+| 2.2.5.2. | L1e — L7e si están equipados con ruedas gemelas | Vía trasera:...... mm. |
+| 2.2.5.3. | L2e, L4e, L5e, L6e y L7e | Vía del sidecar:...... mm. |
+| 2.2.6. | L7e-B | Voladizo delantero:...... mm. |
+| 2.2.7. | L7e-B | Voladizo trasero:...... mm. |
+| 2.2.8. |  | Dimensiones de la plataforma de carga: |
+| 2.2.8.1. | L2e-U, L5e-B, L6e-BU, L7e-B2 y L7e-CU | Longitud de la plataforma de carga:...... mm |
+| 2.2.8.2. | L2e-U, L5e- B, L6e-BU, L7e-B2 y L7e-CU | Anchura de la plataforma de carga:...... mm |
+| 2.2.8.3. | L2e-U, L5e-B, L6e-BU, L7e-B2 y L7e-CU | Altura con respecto al suelo de la plataforma de carga:...... mm |
+| 2.2.10.4. | L7e-B2 | Distancia al suelo bajo el eje delantero (11):...... mm. |
+| 2.2.10.5. | L7e-B2 | Distancia al suelo bajo el eje trasero (11):...... mm. |
+| 2.2.10.6. | L3e-AxE (x=1, 2 o 3), L3e-AxT (x=1, 2 o 3) L7e-B | Distancia al suelo entre los ejes (11):...... mm. (Sólo motos de enduro y trial) |
+| 2.2.10.7. | L7e-B | Relación entre la distancia entre ejes y la distancia al suelo...... [ninguna unidad] (Sólo quads y SBS) |
+| 2.2.10.9. | L3e-AxE y L3e-AxT | Altura del asiento: ……. Mm (Sólo motos de enduro y trial) |
+| 3. |  | Características generales del grupo motopropulsor |
+| 3.1 |  | Fabricante de la unidad de propulsión |
+| 3.1.1. |  | Motor de combustión |
+| 3.1.1.1. | L1e — L7e | Fabricante: |
+| 3.1.1.2. | L1e — L7e | Código del motor (según esté marcado en el motor o por otros medios de identificación):..................... |
+| 3.1.2. |  | Motor eléctrico |
+| 3.1.2.1. | L1e — L7e | Fabricante: |
+| 3.1.2.2. | L1e — L7e | Código del motor eléctrico (según esté marcado en el motor o por otros medios de identificación) |
+| 3.1.3. |  | Aplicación híbrida |
+| 3.1.3.1. | L1e — L7e | Fabricante: |
+| 3.2. |  | Motor de combustión |
+| 3.2.1. |  | Información específica sobre el motor |
+| 3.2.1.1. | L1e — L7e | Número de motores de combustión: |
+| 3.2.1.2. | L1e — L7e | Principio de funcionamiento: motor de combustión interna de encendido por chispa o por compresión, motor de combustión externa, motor de turbina o motor de aire comprimido (4): |
+| 3.2.1.3. | L1e — L7e | Ciclo: cuatro tiempos, dos tiempos, rotativo u otro (4): |
+| 3.2.1.4. | L1e — L7e | Cilindros |
+| 3.2.1.4.1. | L1e — L7e | Número: … |
+| 3.2.1.4.2. | L1e — L7e | Disposición (26): … |
+| 3.2.1.4.3. | L1e — L7e | Diámetro (12):...... mm |
+| 3.2.1.4.4. | L1e — L7e | Carrera (12):...... mm |
+| 3.2.1.4.6. | L1e — L7e | Volumen de las cámaras de combustión, en el caso de un motor de émbolo rotativo: ………cm³ |
+| 3.2.1.4.7. | L1e — L7e | Orden de encendido: |
+| 3.2.1.5. | L1e — L7e | Cilindrada (6):......cm³ |
+| 3.2.1.6. | L1e — L7e | Relación volumétrica de compresión (7): |
+| 3.2.1.7. | L1e — L7e | Número de válvulas de admisión y de escape |
+| 3.2.1.9. | L1e — L7e | Régimen normal de ralentí del motor en caliente:...... min<sup>–1</sup> |
+| 3.2.1.10. | L1e — L7e | Sistema de parada y arranque: sí/no (4) |
+| 3.2.3. |  | Combustible |
+| 3.2.3.1. | L1e — L7e | Tipo de combustible (9): |
+| 3.2.3.2. | L1e — L7e | Configuración del combustible del vehículo: monocombustible/bicombustible/flexifuel (4) |
+| 3.2.4.3. | L1e — L7e | Conducto común: sí/no (4) |
+| 3.2.5. |  | Medición y control de la masa de combustible |
+| 3.2.5.1. | L1e — L7e | Por carburadores: sí/no (4) |
+| 3.2.5.1.1. | L1e — L7e | Principio de funcionamiento y construcción: |
+| 3.2.5.1.3. | L1e — L7e | Ajuste de los carburadores (7): |
+| 3.2.5.1.4. | L1e — L7e | Difusores de los carburadores: |
+| 3.2.5.1.5. | L1e — L7e | Nivel de combustible de los carburadores en la cuba: |
+| 3.2.5.1.6. | L1e — L7e | Sistema de arranque en frío de los carburadores manual/automático (4): sí/no (4) |
+| 3.2.5.2. | L1e — L7e | Por inyección de combustible controlada mecánicamente/hidráulicamente (4): sí/no (4) |
+| 3.2.5.2.1. | L1e — L7e | Principio de funcionamiento: |
+| 3.2.5.3.1. | L1e — L7e | Principio de funcionamiento: inyección por lumbreras / inyección directa / precámara / cámara de turbulencia (4): |
+| 3.2.5.3.2. | L1e — L7e | Inyectores de combustible: monopunto / multipunto / inyección directa / otros (especificar) (4): |
+| 3.2.5.3.3. | L1e — L7e | Número de inyectores de combustible, total y por cilindro: |
+| 3.2.5.5. | L1e — L7e | Sistema de arranque en frío: sí/no (4) |
+| 3.2.5.5.1. | L1e — L7e | Descripción del sistema de arranque en frío: |
+| 3.2.5.7. | L1e — L7e | Inyección específica de encendido por compresión: sí/no (4) |
+| 3.2.6. |  | Sistema y control de la alimentación de combustible gaseoso |
+| 3.2.6.1. | L1e — L7e | Breve descripción y dibujo esquemático de los sistemas de alimentación de combustible gaseoso (4): |
+| 3.2.6.2. | L1e — L7e | Sistema de alimentación de combustible de gases licuados de petróleo (GLP): sí/no (4) |
+| 3.2.6.2.1. | L1e — L7e | Número de homologación de tipo con arreglo al Reglamento n.º 67 de la CEPE: |
+| 3.2.6.2.2. | L1e — L7e | Unidad electrónica de control de la gestión del motor para la alimentación de GLP: sí/no (4) |
+| 3.2.6.2.2.1. | L1e — L7e | Posibilidades de ajuste en relación con las emisiones: |
+| 3.2.6.2.3. | L1e — L7e | Otra documentación: |
+| 3.2.6.3. | L1e — L7e | Sistema de alimentación de combustible de gas natural (GN): sí/no (4) |
+| 3.2.6.3.1. | L1e — L7e | Número de homologación de tipo con arreglo al Reglamento n.º 110 de la CEPE: |
+| 3.2.6.3.2. | L1e — L7e | Unidad electrónica de control de la gestión del motor para la alimentación de GN: sí/no (4) |
+| 3.2.6.3.2.1. | L1e — L7e | Posibilidades de ajuste en relación con las emisiones: |
+| 3.2.6.3. 3.. | L1e — L7e | Otra documentación: |
+| 3.2.6.3.3.1. | L1e — L7e | Descripción de la protección del catalizador en el cambio de gasolina a GN o viceversa: |
+| 3.2.7.3. | L1e — L7e | Sobrealimentador del aire de admisión: sí/no (4) |
+| 3.2.7.3.1. | L1e — L7e | Breve descripción y dibujo esquemático del sistema de sobrealimentación del aire de admisión: |
+| 3.2.7.3.2. | L1e — L7e | Principios de funcionamiento y control: |
+| 3.2.7.3.3. | L1e — L7e | Tipos (turbo, sobrealimentador u otros) (4): |
+| 3.2.7.4. | L1e — L7e | Válvula de descarga: sí/no (4) |
+| 3.2.7.5. | L1e — L7e | Intercambiador térmico: sí/no (4) |
+| 3.2.7.5.1. | L1e — L7e | Tipo: aire-aire / aire-agua / otro (4) |
+| 3.2.7.6. | L1e — L7e | Filtro de aire (dibujos o fotografías): |
+| 3.2.7.7. | L1e — L7e | Descripción del silenciador del aire de admisión (dibujos o fotografías): |
+| 3.2.7.7.1. | L1e — L7e | Principio de funcionamiento: |
+| 3.2.8. |  | Medición y control de la masa de aire |
+| 3.2.8.1. | L1e — L7e | Breve descripción y dibujo esquemático del sistema de medición y control de la masa de aire: |
+| 3.2.8.2. | L1e — L7e | Cuerpo del acelerador mecánico: sí/no (4) |
+| 3.2.8.3. | L1e — L7e | Control electrónico del acelerador: sí/no (4) |
+| 3.2.9.3. | L1e — L7e | Bujías: |
+| 3.2.9.3.1. | L1e — L7e | Separación de electrodos: ……mm |
+| 3.2.9.4. | L1e — L7e | Bobinas de encendido: |
+| 3.2.9.4.1. | L1e — L7e | Principio de funcionamiento: |
+| 3.2.10. |  | Sistema y control de la refrigeración del grupo motopropulsor |
+| 3.2.10.2. | L1e — L7e | Sistema de refrigeración líquido: sí/no (4) |
+| 3.2.10.2.3. | L1e — L7e | Naturaleza del líquido: |
+| 3.2.10.2.4. | L1e — L7e | Bombas de circulación: sí/no (4) |
+| 3.2.10.2.5. | L1e — L7e | Relaciones de transmisión: |
+| 3.2.10.2.6. | L1e — L7e | Descripción del ventilador y de su mecanismo de accionamiento: |
+| 3.2.10.3. | L1e — L7e | Refrigeración por aire: sí/no (4) |
+| 3.2.10.3.3. | L1e — L7e | Ventilador: sí/no (4) |
+| 3.2.10.3.3.2. | L1e — L7e | Relaciones de transmisión: Adjuntar esquema de la transmisión |
+| 3.2.11. |  | Sistema y control de la lubricación del grupo motopropulsor |
+| 3.2.11.1. | L1e — L7e | Breve descripción del sistema de refrigeración del grupo motopropulsor y su control: |
+| 3.2.11.3. | L1e — L7e | Ubicación del depósito de aceite (de haberlo): |
+| 3.2.11.7. | L1e — L7e | Características de los lubricantes: |
+| 3.2.11.8. | L1e — L7e | Lubricante mezclado con el combustible: sí/no (4) |
+| 3.2.11.8.1. | L1e — L7e | Porcentaje de lubricante mezclado con el combustible: |
+| 3.2.12. |  | Sistema y control del escape |
+| 3.2.12.1. | L1e — L7e | Breve descripción y dibujo esquemático de los dispositivos de escape para controlar el ruido y las emisiones del tubo de escape: |
+| 3.2.12.2. | L1e — L7e | Descripción y dibujo del colector de escape: |
+| 3.2.12.3. | L1e — L7e | Descripción y dibujo detallado del dispositivo de escape: |
+| 3.2.12.5. | L1e — L7e | Tipo y marcado de los dispositivos de reducción del ruido del escape: |
+| 3.2.13. |  | Sistemas y controles eléctricos no destinados a la propulsión eléctrica |
+| 3.2.13.1. | L1e — L7e | Tensión asignada: … V, positivo/negativo a tierra (4) |
+| 3.2.13.2. | L1e — L7e | Generador: sí/no (4) |
+| 3.2.13.2.1. | L1e — L7e | Potencia nominal:...... VA |
+| 3.2.13.3. | L1e — L7e | Baterías: sí/no (4) |
+| 3.2.13.3.1. | L1e — L7e | Capacidad y otras características (masa, etc.): |
+| 3.2.13.4. | L1e — L7e | Sistemas de calefacción eléctricos para el habitáculo: sí/no (4) |
+| 3.3. |  | Propulsión eléctrica pura y eléctrica híbrida y sus sistemas de control |
+| 3.3.1. | L1e — L7e | Configuración eléctrica del vehículo: eléctrica pura / eléctrica híbrida / humana y eléctrica (4): |
+| 3.3.2. | L1e — L7e | Breve descripción y dibujo esquemático de las propulsiones eléctricas puras y eléctricas híbridas y sus sistemas de control: |
+| 3.3.3. |  | Motor eléctrico de propulsión |
+| 3.3.3.1. | L1e — L7e | Número de motores eléctricos de propulsión: |
+| 3.3.3.2. | L1e — L7e | Tipo (bobinado, excitación): |
+| 3.3.3.3. | L1e — L7e | Tensión de funcionamiento:...... V |
+| 3.3.4. |  | Baterías de propulsión |
+| 3.3.4.1. | L1e — L7e | Batería de propulsión principal |
+| 3.3.4.1.1. | L1e — L7e | Número de celdas: |
+| 3.3.4.1.2. | L1e — L7e | Masa:...... kg |
+| 3.3.4.1.3. | L1e — L7e | Capacidad:...... Ah (amperios-horas) /...... V |
+| 3.3.4.1.4. | L1e — L7e | Tensión:...... V |
+| 3.3.4.1.5. | L1e — L7e | Ubicación en el vehículo: |
+| 3.3.4.2. | L1e — L7e | Batería de propulsión secundaria |
+| 3.3.4.2.1. | L1e — L7e | Número de celdas: |
+| 3.3.4.2.2. | L1e — L7e | Masa:...... kg |
+| 3.3.4.2.3. | L1e — L7e | Capacidad:...... Ah (amperios-horas) /...... V |
+| 3.3.4.2.4. | L1e — L7e | Tensión:...... V |
+| 3.3.4.2.5. | L1e — L7e | Ubicación en el vehículo: |
+| 3.3.5. |  | Vehículo eléctrico híbrido |
+| 3.3.5.1. | L1e — L7e | Combinación de motores o motores eléctricos (número de motores eléctricos o motores de combustión u otros (4)): |
+| 3.3.5.2. | L1e — L7e | Categoría de vehículo eléctrico híbrido: carga exterior / carga no exterior: |
+| 3.3.5.3. | L1e — L7e | Interruptor del modo de funcionamiento: con/sin (4) |
+| 3.3.5.4. | L1e — L7e | Modos seleccionables: sí/no (4) |
+| 3.3.5.5. | L1e — L7e | Solo combustible: sí/no (4) |
+| 3.3.5.6. | L1e — L7e | Vehículo propulsado con pila de combustible: sí/no (4) |
+| 3.3.5.7. | L1e — L7e | Modos de funcionamiento híbridos: sí/no (4) (en caso afirmativo, breve descripción): |
+| 3.3.6.5. | L1e — L7e | Cargador: a bordo / externo / sin cargador (4) |
+| 3.3.7. |  | Motor eléctrico (describir cada tipo de motor eléctrico por separado) |
+| 3.3.7.1. | L1e — L7e | Uso primario: motor eléctrico de propulsión / generador (4) |
+| 3.3.7.2. | L1e — L7e | Si se utiliza como motor eléctrico de propulsión: monomotores/multimotores (número) (4): |
+| 3.3.7.3. | L1e — L7e | Principio de funcionamiento: |
+| 3.3.7.4. | L1e — L7e | Corriente continua / Corriente alterna / Número de fases: |
+| 3.3.7.5. | L1e — L7e | Excitación separada / Serie / Compuesto (4): |
+| 3.3.7.6. | L1e — L7e | Síncrono/Asíncrono (4): |
+| 3.3.8. |  | Unidad de control del motor eléctrico |
+| 3.3.8.1. | L1e — L7e | Número de identificación: |
+| 3.3.9. |  | Controlador de potencia |
+| 3.3.9.1. | L1e — L7e | Número de identificación: |
+| 3.4. |  | Otros motores, motores eléctricos o combinaciones (información específica relativa a las partes de estos motores) |
+| 3.4.1. |  | Sistema de refrigeración (temperaturas permitidas por el fabricante) |
+| 3.4.2. |  | Sistema de lubricación |
+| 3.4.2.1. | L1e — L7e | Descripción del sistema de lubricación: |
+| 3.4.2.2. | L1e — L7e | Ubicación del depósito de aceite (de haberlo): |
+| 3.4.2.3. | L1e — L7e | Sistema de alimentación (bombeo o inyección en el sistema de inducción, en mezcla con el combustible, etc.) (4): |
+| 3.4.2.4. | L1e — L7e | Lubricante mezclado con el combustible: |
+| 3.4.2.4.1. | L1e — L7e | Porcentaje: |
+| 3.4.2.5. | L1e — L7e | Refrigerante de aceite: sí/no (4) |
+| 3.4.2.5.1. | L1e — L7e | Uno o varios dibujos: |
+| 3.5. |  | Tren de transmisión y control (13) |
+| 3.5.1. | L1e — L7e | Breve descripción y dibujo esquemático del tren de transmisión del vehículo y de su sistema de control (mando del cambio de marchas, mando del embrague o cualquier otro elemento del tren de transmisión): |
+| 3.5.2. |  | Embrague |
+| 3.5.2.1. | L1e — L7e | Breve descripción y dibujo esquemático del embrague y su sistema de control: |
+| 3.5.3. |  | Transmisión |
+| 3.5.3.1. | L1e — L7e | Breve descripción y dibujo esquemático de los sistemas de cambio de marchas y su control: |
+| 3.5.3.2. | L1e — L7e | Dibujo de la transmisión: |
+| 3.5.3.3. | L1e — L7e | Tipo (mecánica, hidráulica, eléctrica, manual o manual automatizada, automática, continua variable u otra [indicarla]) (4): |
+| 3.5.3.4. | L1e — L7e | Breve descripción de los componentes eléctricos o electrónicos (de haberlos): |
+| 3.5.3.5. | L1e — L7e | Ubicación con respecto al motor: |
+| 3.5.3.6. | L1e — L7e | Método de control: |
+| 3.5.4. |  | Relaciones de transmisión |
+|  | L1e — L7e |  |
+|  |  | Resumen de las relaciones de transmisión<br>**![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173504_image2.png)** |
+| 3.5.4.1. | L3e-AxE, L3e-AxT | Relación final de transmisión:....... |
+| 3.5.4.2. | L3e-AxE, L3e-AxT | Relación de transmisión general en la marcha superior: … |
+| 3.6. |  | Dispositivo de seguridad en el giro |
+| 3.6.1. | L1e — L7e equipados con ruedas gemelas, L2e, L5e, L6e y L7e | Dispositivo de seguridad en el giro [anexo VIII del Reglamento (UE) n.º 168/2013]: sí/no (4); diferencial u otro (4) (Aplicable a tres y cuatro ruedas) |
+| 3.6.2. | L1e — L7e equipados con ruedas gemelas, L2e, L5e, L6e y L7e | Bloqueo del diferencial: sí/no/opcional (4) |
+| 3.7. |  | Suspensión y control |
+| 3.7.1. | L1e — L7e | Breve descripción y dibujo esquemático de la suspensión y su sistema de control: |
+| 3.8. |  | Sistema de calefacción del habitáculo y aire acondicionado |
+| 3.8.1. |  | Sistema de calefacción del habitáculo |
+| 3.8.1.1. | L2e, L5e-B, L6e-B y L7e | Dibujo general del sistema de calefacción, con indicación de su ubicación en el vehículo |
+| 3.8.2. |  | Aire acondicionado |
+| 3.8.2.1. | L2e, L5e-B, L6e-B y L7e | Breve descripción y dibujo esquemático del aire acondicionado y su sistema de control: |
+| 3.8.2.2. | L2e, L5e-B, L6e-B y L7e | Gas utilizado como refrigerante en el sistema de aire acondicionado: |
+| 3.9. |  | Ciclos diseñados para funcionar a pedal |
+| 3.9.1. | L1e | Relación potencia humana-potencia eléctrica: …… |
+| 3.9.2. | L1e | Factor máximo de asistencia: |
+| 3.9.3. | L1e | Velocidad máxima del vehículo para la que ofrece asistencia el motor eléctrico: ……km/h |
+| 4. |  | Información general sobre la eficacia medioambiental y el rendimiento de la propulsión |
+| 4.0 |  | Información general sobre la eficacia medioambiental y el rendimiento de la propulsión |
+| 4.0.1. | L1e — L7e | Fase medioambiental: Euro ……………… (3/4/5) (4) |
+| 4.1. |  | Sistema de control de las emisiones del tubo de escape |
+| 4.1.1. | L1e — L7e | Breve descripción y dibujo esquemático del sistema de control de las emisiones del tubo de escape y su control: |
+| 4.1.2. |  | Catalizador |
+| 4.1.2.1. | L1e — L7e | Configuración y número de catalizadores y elementos (facilitar la información con respecto a cada unidad independiente): |
+| 4.1.2.9. | L1e — L7e | Ubicación de los catalizadores |
+| 4.1.3. |  | Sensores de oxígeno Si/no |
+| 4.1.3.2. | L1e — L7e | Dibujo del dispositivo de escape con la ubicación de los sensores de oxígeno |
+| 4.1.4. |  | Inyección de aire secundaria (inyección de aire en el escape) |
+| 4.1.4.1. | L1e — L7e | Breve descripción y dibujo esquemático del sistema de inyección de aire secundaria y su sistema de control: |
+| 4.1.6. |  | Filtro de partículas |
+| 4.1.6.1. | L1e — L7e | Dibujo del componente de Pt que muestre las dimensiones, la forma y la capacidad del filtro de partículas: |
+| 4.1.8.1. | L1e — L7e | Principio de funcionamiento: |
+| 4.3. |  | Sistema de control de las emisiones de evaporación |
+| 4.3.1. | L1e — L7e | Sistema de control de las emisiones de evaporación: sí/no (4) |
+| 4.4. |  | Información adicional sobre la eficacia medioambiental y el rendimiento de la unidad de propulsión |
+| 4.4.1. | L1e — L7e | Descripción o dibujos esquemáticos de los dispositivos adicionales de control de la contaminación: |
+| 4.4.2. | L1e — L7e | Ubicación del símbolo del coeficiente de absorción (solo motores de encendido por compresión): |
+| 4.4.3. | L1e — L7e | Esquemas y descripción detallada de los sistemas de admisión y escape, así como otros sistemas utilizados en la reducción del nivel sonoro |
+| 6. |  | Información sobre la seguridad funcional |
+| 6.1. |  | Avisadores acústicos |
+| 6.1.1. | L1e — L7e | Breve descripción de los dispositivos utilizados y su función, incluyendo marcas de homologación del componente: |
+| 6.1.2. | L1e — L7e | Dibujos que muestren la ubicación de los avisadores acústicos en relación con la estructura del vehículo: |
+| 6.1.3. | L1e — L7e | Precisiones relativas al modo de fijación, especialmente la parte de la estructura del vehículo donde van fijados los avisadores acústicos: |
+| 6.1.4.1. | L1e — L7e | Tensión: Corriente alterna / Corriente continua (4) |
+| 6.2. |  | Frenado, incluidos los sistemas de frenado antibloqueo y los sistemas de frenado combinado |
+| 6.2.1. | L1e — L7e | Características de los frenos, con detalles y dibujos o fotografías de los tambores, los discos, los, la marca y el tipo de los conjuntos de zapatas/pastillas o los forros, las superficies útiles de frenado, el radio de los tambores, las zapatas o los discos: |
+| 6.2.2. | L1e — L7e | Diagrama de funcionamiento, descripción o dibujo del sistema de frenado, con detalles y dibujos de la transmisión y los mandos, así como una breve descripción de los componentes eléctricos o electrónicos utilizados en el sistema de frenado (4): |
+| 6.2.2.1. | L1e — L7e | Frenos delanteros, traseros y del sidecar, de disco o de tambor (4): |
+| 6.2.2.2. | L1e — L7e | Sistema de frenado de estacionamiento: |
+| 6.2.2.3. | L1e — L7e | Sistemas de frenado adicionales, en caso de frenado regenerativo, indicar el porcentaje de absorción indicado por el fabricante: |
+| 6.2.4. | L1e — L7e | Sistema de frenado antibloqueo / combinado / delantero-trasero |
+| 6.2.4.1. | L1e — L7e | Sistema de frenado antibloqueo: sí/no/opcional (4) |
+| 6.2.4.2. | L1e — L7e | Sistema de frenado combinado: sí/no/opcional (4) |
+| 6.2.4.3. | L1e — L7e | Sistema de frenado antibloqueo y combinado: sí/no/opcional (4) |
+| 6.2.5. | L1e — L7e | Depósitos hidráulicos (ubicación): |
+| 6.2.6. | L1e — L7e | Características particulares de los sistemas de frenado: |
+| 6.2.6.1. | L1e — L7e | Zapatas o pastillas de freno(4): |
+| 6.2.6.2. | L1e — L7e | Forros o pastillas (indicar marca, tipo, grado de material o marca de identificación): |
+| 6.2.6.3. | L1e — L7e | Manetas o pedales de freno(4): Incluir descripción en esquema o fotografias |
+| 6.2.6.4. | L1e — L7e | Otros dispositivos (en su caso), descripción: |
+| 6.3. |  | Seguridad eléctrica (vehículos eléctricos) |
+| 6.3.1. | L1e — L7e | Breve descripción de la instalación de los componentes del circuito eléctrico y dibujos o fotografías que muestren la ubicación de dicha instalación: |
+| 6.3.3. | L1e — L7e | Tensiones de funcionamiento (V): |
+| 6.4. |  | Estructuras de protección delanteras y traseras |
+| 6.4.1. |  | Estructura de protección delantera |
+| 6.4.1.1. | L1e — L7e | Descripción técnica detallada (con fotografías o dibujos): |
+| 6.4.1.2. | L1e — L7e | Materiales utilizados: |
+| 6.4.2. |  | Estructura de protección trasera |
+| 6.4.2.1. | L1e — L7e | Descripción técnica detallada (con fotografías o dibujos): |
+| 6.4.2.2. | L1e — L7e | Materiales utilizados: |
+| 6.5. |  | Acristalamiento, limpiaparabrisas, lavaparabrisas y sistemas de desescarchado y de desempañado |
+| 6.5.1. |  | Parabrisas |
+| 6.5.1.1. | L2e, L5e, L6e y L7e | Materiales utilizados, incluyendo marcas de homologación del componente: |
+| 6.5.2. |  | Otras ventanas |
+| 6.5.2.1. | L2e, L5e, L6e y L7e | Materiales utilizados, incluyendo marcas de homologación del componente: |
+| 6.5.3. |  | Acristalamiento del techo móvil |
+| 6.5.3.1. | L2e, L5e, L6e y L7e | Materiales utilizados, incluyendo marcas de homologación del componente: |
+| 6.5.4. |  | Otras lunas |
+| 6.5.4.1. | L2e, L5e, L6e y L7e | Materiales utilizados, incluyendo marcas de homologación del componente: |
+| 6.6. |  | Limpiaparabrisas |
+| 6.6.1. | L2e, L5e, L6e y L7e | Descripción técnica detallada (con fotografías o dibujos): |
+| 6.7. |  | Lavaparabrisas |
+| 6.7.1. | L2e, L5e, L6e y L7e | Descripción técnica detallada (con fotografías o dibujos): |
+| 6.8. |  | Desescarchado y desempañado |
+| 6.8.1. | L2e, L5e, L6e y L7e | Descripción técnica detallada (con fotografías o dibujos): |
+| 6.9. |  | Mandos accionados por el conductor, con identificación de los mandos, los testigos y los indicadores |
+| 6.9.1. | L1e — L7e | Disposición e identificación de los mandos, testigos e indicadores: |
+| 6.9.2. | L1e — L7e | Fotografías o dibujos de la disposición de los símbolos, mandos, testigos e indicadores: |
+| 6.10. |  | Indicador de velocidad y cuentakilómetros |
+| 6.10.1. |  | Indicador de velocidad |
+| 6.10.1.1. | L1e — L7e | Fotografías o dibujos del sistema completo: |
+| 6.10.1.2. | L1e — L7e | Intervalo de velocidades del vehículo indicadas: |
+| 6.10.1.5. | L1e — L7e | Método de funcionamiento y descripción del mecanismo de transmisión: |
+| 6.10.2. |  | Cuentakilómetros |
+| 6.10.2.2. | L1e — L7e | Método de funcionamiento y descripción del mecanismo de transmisión: |
+| 6.11. |  | Instalación de dispositivos de alumbrado y señalización luminosa, incluidos el encendido y apagado automáticos del alumbrado |
+| 6.11.1. | L1e — L7e | Lista de todos los dispositivos (citar número, marcas, tipo, marcas de homologación de tipo de los componentes, intensidad máxima de los faros de carretera, color y testigo correspondiente): |
+| 6.11.2. | L1e — L7e | Diagrama que muestre la ubicación de los dispositivos de alumbrado y señalización luminosa: |
+| 6.11.3. | L1e — L7e | Luces de señal de emergencia: |
+| 6.12. |  | Visibilidad trasera |
+| 6.12.1. |  | Retrovisores (indicaciones con respecto a cada retrovisor), incluyendo marcas de homologación del componente |
+| 6.12.1.1. | L1e — L7e | Uno o varios dibujos para la identificación del espejo que muestren su posición con respecto a la estructura del vehículo: |
+| 6.12.1.3. | L1e — L7e | Breve descripción de los componentes electrónicos del sistema de ajuste: |
+| 6.12.2. | L1e — L7e | Dispositivos de visión indirecta distintos de los retrovisores |
+| 6.12.2.1. | L1e — L7e | Descripción del dispositivo: |
+| 6.13. |  | Estructura de protección en caso de vuelco (ROPS) |
+| 6.13.1. | L7e-B2 | Descripción técnica detallada, ubicación, fijación, etc. (con fotografías o dibujos): |
+| 6.13.2.2. | L7e-B2 | Materiales y método de fabricación: |
+| 6.13.3.1. | L7e-B2 | Otros elementos de protección contra la intemperie (descripción): |
+| 6.14. |  | Cinturones de seguridad u otros sistemas de retención |
+| 6.14.1. | L2e, L4e, L5e-B, L6eB y L7e | Número y ubicación de los cinturones de seguridad y los sistemas de retención y asientos en los que pueden utilizarse; rellenar el cuadro siguiente:<br>(I = a la izquierda, D = a la derecha, C = en el centro) |
+|  |  | Configuración de los cinturones de seguridad e información relacionada<br>![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173504_image3.png) |
+| 6.14.2. | L2e, L4e, L5e-B, L6e-B y L7e | Descripción de un tipo específico de cinturón, con un anclaje fijado al respaldo del asiento o que incluye un disipador de energía: |
+| 6.14.4. | L2e, L4e, L5e-B, L6e-B y L7e | Breve descripción de los componentes eléctricos o electrónicos: |
+| 6.15. |  | Anclajes de los cinturones de seguridad |
+| 6.15.1. | L2e, L4e, L5e-B, L6e-B y L7e | Fotografías o dibujos de la carrocería que muestren la ubicación y las dimensiones reales y efectivas de los anclajes, así como el punto R: |
+| 6.15.2. | L2e, L4e, L5e-B, L6e-B y L7e | Dibujos o fotografías de los anclajes y de las partes de la estructura del vehículo a las que están fijados (con indicación de la naturaleza de los materiales utilizados): |
+|  |  | Configuración de los anclajes de los cinturones de seguridad e información relacionada<br>![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173504_image4.png) |
+| 6.15.4. | L2e, L4e, L5e-B, L6e-B y L7e | Marca de homologación de tipo correspondiente a cada ubicación: |
+| 6.15.6. | L2e, L4e, L5e-B, L6e-B y L7e | Fotografías o dibujos de la carrocería que muestren la ubicación y las dimensiones reales y efectivas de los anclajes, así como el punto R: |
+| 6.15.7. | L2e, L4e, L5e-B, L6e-B y L7e | Observaciones: |
+| 6.16. |  | Plazas de asiento (sillines y asientos) |
+| 6.16.1. | L1e — L7e | Número de plazas de asiento: |
+| 6.16.1.1. | L2e, L5e, L6e y L7e | Ubicación y disposición (8): |
+| 6.16.2. | L1e — L7e | Configuración de las plazas de asiento: asiento/sillín (4) |
+| 6.16.3. | L1e — L7e | Descripción y dibujos o fotografías |
+| 6.16.3.1. | L1e — L7e | de los asientos y sus anclajes: |
+| 6.16.3.2. | L1e — L7e | del sistema de ajuste: |
+| 6.16.3.3. | L1e — L7e | de los sistemas de desplazamiento y bloqueo: |
+| 6.16.3.4. | L1e — L7e | de los anclajes de los cinturones de seguridad incorporados en la estructura del asiento: |
+| 6.16.4. | L2e, L4e, L5e-B, L6e-B y L7e | Coordenadas o dibujo del punto R de todas las plazas de asiento: |
+| 6.16.4.1. | L2e, L4e, L5e-B, L6e-B y L7e | Asiento del conductor: |
+| 6.16.4.2. | L2e, L4e, L5e-B, L6e-B y L7e | Las demás plazas de asiento: |
+| 6.16.5. | L1e — L7e | Ángulo previsto del torso: |
+| 6.16.5.1. | L1e — L7e | Asiento del conductor: |
+| 6.16.5.2. | L1e — L7e | Las demás plazas de asiento: |
+| 6.16.6. | L1e — L7e | Intervalo de ajuste del asiento: |
+| 6.16.6.1. | L1e — L7e | Asiento del conductor: |
+| 6.16.6.2. | L1e — L7e | Las demás plazas de asiento: |
+| 6.17. |  | Maniobrabilidad, propiedades de giro en curva y capacidad de giro |
+| 6.17.2. |  | Transmisión y mando de la dirección |
+| 6.17.2.1. | L1e — L7e | Configuración de la transmisión de la dirección (especificar delantera y trasera): |
+| 6.17.2.2.1. | L1e — L7e | Breve descripción de los componentes eléctricos o electrónicos: |
+| 6.17.2.6. | L2e, L5e, L6e y L7e | Método de asistencia: |
+| 6.18. |  | Combinación de neumáticos y ruedas |
+| 6.18.1. |  | Neumáticos |
+| 6.18.1.1. |  | Designación del tamaño |
+| 6.18.1.1.1. | L1e — L7e | Eje 1: |
+| 6.18.1.1.2. | L1e — L7e | Eje 2: |
+| 6.18.1.1.3. | L4e | Rueda del sidecar: |
+| 6.18.1.2. | L1e — L7e | Índice mínimo de capacidad de carga: …. con la carga máxima sobre cada neumático: …. kg |
+| 6.18.1.3. | L1e — L7e | Símbolo de la categoría de velocidad mínima compatible con la velocidad máxima teórica del vehículo por construcción: |
+| 6.18.1.4. | L1e — L7e | Presión de los neumáticos recomendada por el fabricante del vehículo:...... kPa |
+| 6.18.2. |  | Ruedas |
+| 6.18.2.1. | L1e — L7e | Tamaño de las llantas: |
+| 6.18.2.2. | L1e — L7e | Categorías de uso compatibles con el vehículo: |
+| 6.18.2.3. | L1e — L7e | Circunferencia de rodadura nominal: |
+| 6.19. |  | Placa de limitación de la velocidad máxima del vehículo y su ubicación en el vehículo |
+| 6.19.1. | L7e-B1 y L7e-B2 | Placa de limitación de la velocidad máxima S /N.P. |
+| 6.19.2. | L7e-B1 y L7e-B2 | Esquema de la Ubicación de la placa de limitación de la velocidad máxima (indicar las variantes, si es necesario; pueden utilizarse dibujos y fotografías, según proceda): |
+| 6.20. |  | Protección de los ocupantes del vehículo, incluidos el acondicionamiento interior y las puertas del vehículo |
+| 6.20.1. |  | Carrocería |
+| 6.20.1.1. | L2e, L5e-B, L6e-B y L7e | Materiales utilizados y métodos de fabricación: |
+| 6.20.2. |  | Puertas de los ocupantes, cerrojos y bisagras |
+| 6.20.2.1. | L2e, L5e, L6e y L7e | Número de puertas y configuración, dimensiones |
+| 6.20.2.2. | L2e, L5e, L6e y L7e | Dibujo o fotografías de los cerrojos y las bisagras y de su posición en las puertas: |
+| 6.20.3. |  | Protección interior de los ocupantes |
+| 6.20.3.1. | L2e, L5e, L6e y L7e | Fotografías, dibujos o fotografías descriptivas: |
+| 6.20.4. |  | Apoyacabezas |
+| 6.20.4.1. | L2e, L5e, L6e y L7e | Apoyacabezas: integrados/desmontables/separados (4) |
+| 6.21. |  | Potencia total continua máxima o limitación de la velocidad máxima del vehículo por construcción |
+| 6.21.1. |  | Reguladores de la propulsión o el tren de transmisión |
+| 6.21.1.1. | L1e — L7e | Número (mínimo dos, excepto L3e-A3 y L4e-A3): |
+| 6.21.1.2. | L1e — L7e | ¿Cómo se garantiza la redundancia de los reguladores?: |
+| 6.21.1.5. | L1e — L7e | Finalidad declarada de los reguladores: limitación de la velocidad máxima del vehículo por construcción, limitación de la potencia máxima o protección contra el exceso de velocidad del motor (4): |
+| 7. |  | Información sobre la fabricación del vehículo |
+| 7.1. |  | Dispositivos de acoplamiento y de fijación |
+| 7.1.1. | L1e — L7e | Vehículo de la categoría L equipado con dispositivo de acoplamiento: sí/no/opcional (4) |
+| 7.1.4. | L1e — L7e | Fotografías o dibujos que muestren la ubicación y la configuración de los dispositivos de acoplamiento: |
+| 7.2. |  | Dispositivos de protección contra la utilización no autorizada |
+| 7.2.1. |  | Dispositivo de protección |
+| 7.2.1.1. | L1e — L7e | Descripción sucinta de los dispositivos de protección utilizados: |
+| 7.2.2. |  | Inmovilizador del vehículo |
+| 7.2.2.1. | L1e — L7e | Descripción técnica del inmovilizador del vehículo y de las medidas adoptadas contra la activación involuntaria: |
+| 7.3. |  | Compatibilidad electromagnética (CEM) |
+| 7.3.1. | L1e — L7e | Se cumplen los requisitos conforme al Reglamento n.º10 de la CEPE (DO L 254 de 20.9.2012, p. 1) incluyendo la documentación pertinente en la ficha de características: sí/no |
+| 7.3.3. | L1e — L7e | Indicación del valor nominal de la resistencia en corriente continua y, en el caso de cables de encendido resistivos, indicación de su resistencia nominal por metro: |
+| 7.4. |  | Salientes exteriores |
+| 7.4.1. | Vehículos L1e — L7e con carrocería | Disposición general (dibujo o fotografías acompañados, si es necesario, de datos dimensionales o de texto) en la que se indique la ubicación de las secciones añadidas, con vistas de las partes de la superficie exterior que puedan considerarse fundamentales con respecto a los salientes exteriores, por ejemplo, y en su caso: parachoques, línea de suelo, montantes de puertas y ventanas, rejillas de toma de aire, rejilla del radiador, limpiaparabrisas, vierteaguas, manillas, correderas, trampillas, bisagras y cierres de puertas, ganchos, anillos, manivelas, elementos decorativos, símbolos, emblemas y huecos, y cualquier otra parte de la superficie exterior que pueda considerarse fundamental (por ejemplo, los equipos de alumbrado): |
+| 7.5. |  | Almacenamiento de combustible |
+| 7.5.1. |  | Depósitos de combustible |
+| 7.5.1.1. |  | Depósitos principales de combustible |
+| 7.5.1.1.1. | L1e — L7e | Capacidad máxima: |
+| 7.5.1.1.2. | L1e — L7e | Materiales utilizados: |
+| 7.5.1.2. |  | Depósitos de combustible de reserva: |
+| 7.5.1.2.1. | L1e — L7e | Capacidad máxima: |
+| 7.5.1.2.2. | L1e — L7e | Materiales utilizados: |
+| 7.5.1.4. | L1e — L7e | Dibujo que muestre claramente la ubicación de los depósitos en el vehículo: |
+| 7.5.1.5. | L1e — L7e | Dibujo de la pantalla térmica situada entre el depósito y el dispositivo de escape: |
+| 7.5.2. |  | Depósitos de gas natural comprimido (GNC) |
+| 7.5.2.1. | L1e — L7e | Por lo que respecta a los depósitos de GNC instalados en el vehículo, la presente ficha de características deberá complementarse con la ficha de características aplicable conforme al Reglamento n.º 110 de la CEPE prescrita para la categoría de vehículos M1. |
+| 7.5.3. | L1e — L7e | Depósitos de gas licuado de petróleo (GLP) |
+| 7.5.3.1. | L1e — L7e | Por lo que respecta a los depósitos de GLP instalados en el vehículo, la presente ficha de características deberá complementarse con la ficha de características aplicable conforme al Reglamento n.º 67 de la CEPE prescrita para la categoría de vehículos M1. |
+| 7.6. |  | Requisitos funcionales del diagnóstico a bordo (DAB) |
+| 7.6.1. |  | Sistema de diagnóstico a bordo |
+| 7.6.1.1. | L1e — L7e | Fase I: sí/no |
+| 7.6.1.2. | L1e — L7e | Fase II: sí/no |
+| 7.6.2. |  | Información general del sistema DAB |
+| 7.6.2.1. | L3e—L7e (10) | Descripción escrita o dibujo del indicador de mal funcionamiento: |
+| 7.6.2.2. | L3e—L7e (10) | Lista y función de todos los componentes supervisados por el sistema DAB: |
+| 7.7. |  | Asideros y reposapiés para pasajeros |
+| 7.7.1. |  | Asideros |
+| 7.7.1.1. | L1e — L7e | Configuración: correa y/o mango |
+| 7.7.1.3. | L1e — L7e | Fotografías o dibujos que muestren su ubicación y configuración: |
+| 7.7.2. |  | Reposapiés |
+| 7.7.2.1. | L1e — L7e | Fotografías o dibujos que muestren su ubicación y configuración: |
+| 7.8. |  | Espacio destinado a la placa de matrícula |
+| 7.8.1. | L1e — L7e | Ubicación de la placa de matrícula trasera (indicar las variantes, si es necesario; pueden utilizarse dibujos, según proceda): |
+| 7.8.1.1. | L1e — L7e | Altura del borde superior con respecto a la superficie de la vía:mm |
+| 7.8.1.2. | L1e — L7e | Altura del borde inferior con respecto a la superficie de la vía:mm |
+| 7.8.1.4. | L1e — L7e | Dimensiones (largo × ancho): …mm × …mm |
+| 7.8.1.5. | L1e — L7e | Inclinación del plano respecto a la vertical: …. grados. |
+| 7.9. |  | Caballetes |
+| 7.9.1. | L1e y L3e | Configuración: centrales o laterales (4) |
+| 7.9.2. | L1e y L3e | Materiales de fabricación utilizados: |
+| 7.9.3. | L1e y L3e | Fotografías y dibujos que muestren la ubicación de los caballetes en relación con la estructura del vehículo: |
+
+Notas explicativas:
+
+(1) En el caso de motores de combustión interna.
+
+(2) Clasificación con arreglo al Reglamento de la Unión Europea vigente. Por ejemplo «L3e-A1E» para una motocicleta enduro de prestaciones bajas.
+
+(3) Suprimir la entrada si no procede.
+
+(4) Suprimir lo que no proceda (no es necesario suprimir nada si es aplicable más de una opción).
+
+(5) Indicar la configuración mediante los siguientes códigos:
+
+– D: lado derecho del vehículo – I: lado izquierdo del vehículo
+
+– DL: parte delantera del vehículo
+
+– T: parte trasera del vehículo
+
+Ejemplo correspondiente a un vehículo con dos puertas a la izquierda y una puerta a la derecha: 2I, 1D
+
+(6) Este valor se calculará ([] = 3,1416 y redondeará al cm<sup>3</sup> más próximo.
+
+(7) Especificar la tolerancia.
+
+(8)Indicar la ubicación mediante los siguientes códigos:
+
+– fx: número de fila
+
+– D: lado derecho del vehículo
+
+– C: centro del vehículo
+
+– I: lado izquierdo del vehículo
+
+Ejemplo correspondiente a un vehículo con una primera fila de dos plazas de asiento delanteras, una a la derecha y otra a la izquierda, y una segunda fila de una plaza de asiento trasera, en el centro: f1: 1D,1I f2: 1C
+
+(9) Indicar el tipo de combustible mediante los siguientes códigos:
+
+– GS: gasolina
+
+– B5: diésel
+
+– M: mezcla
+
+– GLP: gas licuado de petróleo
+
+– GN: gas natural – BM: biometano
+
+– E5: gasolina E5
+
+– E10: gasolina E10
+
+– E85: etanol E85
+
+– BD: biodiesel
+
+– H2: hidrógeno
+
+– H2GN: mezcla de hidrógeno y gas natural
+
+– A: aire comprimido
+
+– O: otro.
+
+Nota: los vehículos que puedan funcionar tanto con gasolina como con un combustible gaseoso, pero en los que el sistema de gasolina solo esté instalado para casos de emergencia o para el arranque y disponga de un depósito que no pueda contener más de 5 litros, se considerarán, a efectos de ensayo, vehículos que funcionan solamente con combustible gaseoso.
+
+(10) Vehículos de categoría L equipados con DAB con arreglo al Reglamento de la Unión Europea en vigor.
+
+(11) Norma ISO 612:1978: «Vehículos automóviles. Dimensiones de los automóviles y vehículos remolcados. Denominaciones y definiciones».
+
+(12) Esta cifra se redondeará a la décima de milímetro más próxima.
+
+(13) Especificar los detalles indicados de cada variante propuesta.
+
+(14) «A» para un cinturón de tres puntos;
+
+«B» para un cinturón de dos puntos;
+
+«S» para tipos especiales de cinturones (en este caso debe facilitarse información sobre la naturaleza de estos tipos en el punto 6.15.7,
+
+«Observaciones»);
+
+«Ar», «Br» o «Sr» para un cinturón con carrete de inercia;
+
+«Are», «Bre» y «Sre» para un cinturón con carrete de inercia y un dispositivo de absorción de energía en por lo menos un anclaje.
+
+(15) Indicar la ubicación del centro del número de identificación del vehículo (VIN, vehicle identification number) o la placa reglamentaria mediante los códigos siguientes:
+
+– D: lado derecho del vehículo
+
+– C: centro del vehículo
+
+– I: lado izquierdo del vehículo
+
+– x: distancia horizontal (en mm) desde el eje delantero (precedida del signo menos si se encuentran delante del eje delantero)
+
+– y: distancia horizontal (en mm) desde la línea central longitudinal del vehículo
+
+– z: distancia (en mm) desde el suelo
+
+– (r/a): es preciso retirar o abrir piezas para acceder al marcado
+
+Ejemplo de un VIN colocado en el lado derecho de la tija de dirección de una motocicleta, 500 mm por detrás del eje delantero, a 30 mm de la línea central y a 1100 mm de altura:
+
+D, x500, y30, z1100
+
+Ejemplo de una placa reglamentaria instalada en un cuatriciclo, en el lado derecho del vehículo, 100mm por delante del eje delantero, a 950 mm de la línea central longitudinal del vehículo y a 700 mm de altura, debajo del capó:
+
+D, x100, y950, z700 (r/a)
+
+(17) Indicar el código alfanumérico de tipo-variante-versión o «TVV» asignado a cada tipo, variante y versión, conforme al punto 2.3 de la parte B del Anexo I del Reglamento de ejecución (UE) n.º 901/2014. Para la identificación de variantes y versiones puede emplearse el cuadro que figura en el punto 2.3 de la parte B del Anexo I del Reglamento de ejecución (UE) n.º 901/2014.
+
+(18) En caso de homologación multifásica, facilitar esta información en relación con cada fase.
+
+(19) Facilitar esta información con respecto a cada componente y cada unidad técnica independiente instalados en el vehículo o sistema.
+
+(20) Facilitar esta información con respecto a cada motor de combustión, motor eléctrico y aplicación híbrida.
+
+(21) Facilitar esta información con respecto a cada tipo de vehículo.
+
+(22) Con relación a los ciclos diseñados para funcionar a pedal, indicar la velocidad máxima para la que ofrece asistencia el motor eléctrico.
+
+(23) Ejes con ruedas gemelas/ Ejes motores:
+
+DL: delantero(a)s
+
+T: trasero(a)s
+
+M: medio(a)s (en el caso de vehículos con sidecar)
+
+DL & T: delantero(a)s y trasero(a)s Ejemplos:
+
+– ruedas gemelas: DL (ruedas gemelas delanteras de un vehículo de la subcategoría L5e-A)
+
+– ejes motores: T (eje motor trasero de una motocicleta L3e-A1)
+
+(25) En el caso de vehículos eléctricos híbridos recargables desde el exterior, deberán indicarse los valores «ponderados, combinados» de CO2, consumo de combustible y consumo de energía eléctrica.
+
+(26) Indicar la disposición de los cilindros mediante los códigos siguientes:
+
+– A: alineados
+
+– V: en V
+
+– O: motor de cilindros opuestos
+
+– U: motor de cilindro único
+
+R: motor de émbolo rotativo
+
+(27) En el caso de más de un motor eléctrico, indicar la suma de todos los motores.
+
+(28) Indicar la distancia longitudinal entre el eje delantero y el eje del sidecar.
+
+(29) Solo en el caso de motores de encendido por compresión.
+
+**PARTE III**
+
+**Modelo de Ficha Reducida**
+
+| Ficha Reducida. Vehículos de categoría L |
+|---|
+| Marca: |
+| Tipo (VT) |
+| Variante (VT) |
+| Versión (VT) |
+| Denominación comercial |
+| Categoría, subcategoría y subsubcategoría del vehículo (VT) |
+| Nombre y dirección del fabricante del vehículo de base: |
+| Nombre y dirección del fabricante de la última fase de fabricación o transformador del vehículo |
+| Nombre y dirección del representante del fabricante |
+| Emplazamiento de la placa del fabricante |
+| Parte fija VIN o número(s) de bastidor(es) afectados en caso de series cortas o casos excepcionales aplicaciones particulares según art. 5. |
+| Emplazamiento del número de identificación del vehículo (VIN) |
+| Número de homologación CE (Si procede): |
+| Fecha: |
+| CONSTITUCIÓN GENERAL DEL VEHÍCULO |
+| N.º de ejes y ruedas |
+| Ejes con ruedas gemelas |
+| Ejes motrices |
+| Distancia entre ejes / del sidecar |
+| MASAS Y DIMENSIONES (en mm y kg) |
+| Vía delantera |
+| Vía trasera / vía del sidecar |
+| Longitud |
+| Longitud máxima admisible del vehículo completado / transformado |
+| Anchura |
+| Anchura máxima admisible del vehículo completado / transformado |
+| Altura |
+| Masa en orden de marcha |
+| Masa real |
+| Masa máxima en carga técnicamente admisible |
+| Masa máxima en carga técnicamente admisible 1.º eje |
+| Masa máxima en carga técnicamente admisible 2.º eje |
+| Masa máxima en carga técnicamente admisible en eje de sidecar |
+| Masa máxima remolcable: Con freno / sin freno (en su caso) |
+| Masa Máxima técnicamente admisible del conjunto |
+| UNIDAD MOTRIZ |
+| Fabricante o marca del motor |
+| Código marcado en el motor |
+| MOTOR DE COMBUSTIÓN INTERNA |
+| Principio de funcionamiento |
+| Número y disposición de los cilindros |
+| Cilindrada |
+| Tipo de combustible o fuente de energía |
+| Potencia máxima neta (kW) a (min-1) (VT) |
+| Tipo de refrigeración |
+| Sistema de alimentación (Carburador/inyección) |
+| Relación entre la potencia neta max /masa del veh. en orden de marcha (VT) |
+| MOTOR ELÉCTRICO |
+| Potencia durante 15/30 minutos (kW) |
+| Configuración eléctrica del vehículo |
+| Eléctrico puro de batería BEV/eléctrico híbrido no enchufable HEV/humano y eléctrico/ eléctrico de autonomía extendida<br>REEV |
+| Categoría del vehículo eléctrico híbrido: Carga exterior: PHEV |
+| TRANSMISIÓN |
+| Velocidad máxima del vehículo por construcción / declarada por el fabricante (VT) |
+| Transmisión (tipo) |
+| Relaciones de transmisión (n.º y relaciones) |
+| Relación final |
+| SUSPENSIÓN |
+| Breve descripción del tipo de suspensión delantera / trasera y sidecar |
+| Designación de la medida del neumático eje 1 (indicar índices de carga y velocidad mínimos) |
+| Designación de la medida del neumático eje 2 (indicar índices de carga y velocidad mínimos) |
+| Designación de la medida del neumático eje sidecar (indicar índices de carga y velocidad mínimos) |
+| Reglamento de homologación de neumáticos |
+| DIRECCIÓN |
+| Dirección (tipo): ...................... Asistencia: ........................................ |
+| FRENADO |
+| Breve descripción del dispositivo de frenado de servicio (delantero/trasero/combinado) |
+| Dispositivos de frenado situados en el eje delantero |
+| Dispositivos de frenado situados en el eje trasero |
+| Dispositivo de frenado de estacionamiento |
+| Sistema avanzado de frenado: ABS / CBS / ABS y CBS / ninguno: |
+| CARROCERÍA |
+| Tipo de carrocería (vehículos de 3 y 4 ruedas) |
+| Elementos de protección aerodinámica: moto desnuda/carenado integral/ semi-carenado |
+| Número y disposición de las puertas |
+| Número y emplazamiento de los asientos |
+| N.º de plazas |
+| Marca de homologación CE del dispositivo de acoplamiento, en su caso |
+| Tipos o clases de dispositivos de enganche que pueden instalarse |
+| Valores característicos: D / S |
+| Dispositivo contra la utilización no autorizada del vehículo: Sí /NO / Opcional |
+| Cinturones de seguridad: indicar tipo y contraseñas de homologación en su caso |
+| Espejos retrovisores: Numero y código de homologación |
+| Dispositivo de señalización acústica: (Código de homologación del componente) |
+| Velocímetro y Cuentakilómetros: (Tipo y rango de medición) |
+| Asideros para el pasajero N.º: Indicar Cincha o asidero(s) rígido(s) |
+| Descripción de los dispositivos luminosos utilizados: N.º y códigos de homologación |
+| EFICACIA MEDIOAMBIENTAL |
+| Nivel de ruido parado: dB(A) a min-1 (VT) |
+| Nivel de ruido en marcha: dB(A) a min-1 (VT) |
+| Dispositivo de escape / Silenciosos |
+| Marca |
+| Código o identificación marcado en el (los) dispositivo(s) |
+| Catalizador / Sonda lambda: |
+| Valor de CO (g/ min) en ciclomotores, (% volumen) otras categorías (VT) |
+| Valor corregido coeficiente absorción: min-1 (Para encendido compresión). |
+| Emisión de CO2 (Combinado) (en su caso) (VT) |
+| Potencia Fiscal (CVF) |
+| Autonomía eléctrica km |
+| Consumo eléctrico Wh/km |
+| VT: Vehículo apropiado para transformar su nivel de prestaciones entre las categorías L3e/L4e subcategorías A2 y A3 y viceversa |
+| Observaciones |
+| Opciones y accesorios incluidos en la homologación de tipo: |
+| Firma autorizada según el RFFR, técnico competente en caso de homologación individual o sello del servicio técnico |
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Se describirán, para cada variante, las diferentes combinaciones de versiones correspondientes al tipo.
+
+Cada variante y cada versión deberán identificarse mediante un código numérico o alfanumérico que deberá indicar el vehículo que se trate. En el caso de vehículos completados, dicha codificación permitirá identificar el TVV de base sobre el que se realiza el completado.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+| Asunto | Número de homologación | Variantes / Versiones |
+|---|---|---|
+|  |  |  |
+
+> Se añade, con efectos de 2 de enero de 2019, por la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 3 — Serie Corta Nacional
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice incluye a los tipos de vehículos incompletos, completos y completados, pertenecientes a las categorías L, definidos en el Reglamento de la Unión Europea vigente en la materia.
+
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
+
+Los límites de cantidad de los vehículos producidos en serie corta nacional serán los establecidos en el Reglamento de la Unión Europea vigente.
+
+En los epígrafes que corresponda a vehículos completos, completados o incompletos, se indicará lo que proceda.
+
+En el caso de vehículos completados, se cumplimentarán todos los epígrafes, incluidos los correspondientes al vehículo incompleto, que se documentará con la información que provenga de fases anteriores.
+
+**PARTE II**
+
+**Ficha de Características**
+
+Se aportará la información que figura en la parte II del Apéndice 2.
+
+**PARTE III**
+
+**Modelos de fichas reducidas**
+
+Los modelos de ficha reducida son los establecidos en la parte III del apéndice 2.
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Según lo establecido en la parte IV del apéndice 2.
+
+**PARTE V**
+
+**Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en la parte V del apéndice 2.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 4 — Homologación Individual
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice se extiende a las categorías de vehículos completos y completados, pertenecientes a las categorías L, definidos en el Reglamento de la Unión Europea vigente para la materia.
+
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
+
+**PARTE II**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de fichas reducidas son los establecidos en la parte III del apéndice 2.
+
+**PARTE III**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en la parte V del apéndice 2.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 5 — Lista de requisitos exigidos para la homologación de vehículos en aplicaciones particulares, series cortas nacionales y homologación Individual
+
+(Vehículos de categoría L)
+
+**PARTE I**
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">N.º</th>
+<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (6) (*) (H)</th>
+<th rowspan="2">
+<p class="cabeza_tabla">Serie Corta</p>
+<p class="cabeza_tabla">Nacional</p>
+</th>
+<th rowspan="2">
+<p class="cabeza_tabla">Aplicaciones particulares</p>
+<p class="cabeza_tabla">Según Art. 5</p>
+</th>
+<th class="cabeza_tabla" colspan="2">Homologaciones Individuales</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Completos</th>
+<th class="cabeza_tabla">Completados</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">A1</td>
+<td class="cuerpo_tabla_izq">Ensayos relativos al medio ambiente</td>
+<td class="cuerpo_tabla_centro">A (5)</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">A (5)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">A2</td>
+<td class="cuerpo_tabla_izq">Velocidad máxima,</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Potencia y Par máximos</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C (5)</td>
+<td class="cuerpo_tabla_centro">C (5)</td>
+<td class="cuerpo_tabla_centro">A (5)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A3</td>
+<td class="cuerpo_tabla_izq">Nivel sonoro</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B1</td>
+<td class="cuerpo_tabla_izq">Avisadores Acústicos</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (7)</td>
+<td class="cuerpo_tabla_centro">B (4) (7)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B2</td>
+<td class="cuerpo_tabla_izq">Frenado</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B3</td>
+<td class="cuerpo_tabla_izq">Seguridad eléctrica</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B4</td>
+<td class="cuerpo_tabla_izq">Declaración ensayos de durabilidad de los sistemas de seguridad, piezas y equipos</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C (5)</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">C (5)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B5</td>
+<td class="cuerpo_tabla_izq">Estructuras de protección delanteras y traseras</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B6</td>
+<td class="cuerpo_tabla_izq">Cristales, limpiaparabrisas, lavaparabrisas, dispositivos antihelio y anti vaho</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (7)</td>
+<td class="cuerpo_tabla_centro">B (4) (7)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B7</td>
+<td class="cuerpo_tabla_izq">Identificación de mandos</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B8</td>
+<td class="cuerpo_tabla_izq">Instalación dispositivos de alumbrado</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (7)</td>
+<td class="cuerpo_tabla_centro">B (4) (7)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B9</td>
+<td class="cuerpo_tabla_izq">Visibilidad trasera</td>
+<td class="cuerpo_tabla_centro">A (4) (7)</td>
+<td class="cuerpo_tabla_centro">B (4) (7)</td>
+<td class="cuerpo_tabla_centro">B (4) (7)</td>
+<td class="cuerpo_tabla_centro">A (4) (7)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B10</td>
+<td class="cuerpo_tabla_izq">Estructura de protección en caso de vuelco</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B11</td>
+<td class="cuerpo_tabla_izq">Cinturones de seguridad y sus anclajes</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (7)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B12</td>
+<td class="cuerpo_tabla_izq">Plazas de asiento (sillines)</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B13</td>
+<td class="cuerpo_tabla_izq">Maniobrabilidad</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B14</td>
+<td class="cuerpo_tabla_izq">Instalación de neumáticos</td>
+<td class="cuerpo_tabla_centro">A (4) (7)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (7)</td>
+<td class="cuerpo_tabla_centro">A (4) (7)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B15</td>
+<td class="cuerpo_tabla_izq">Placa relativa a la limitación de la velocidad máxima</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B16</td>
+<td class="cuerpo_tabla_izq">Protección de los ocupantes del vehículo, incluido el acondicionamiento interior, los reposacabezas y las puertas del vehículo</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B17</td>
+<td class="cuerpo_tabla_izq">Potencia nominal o neta continua máxima y/o limitación de la velocidad del vehículo por construcción</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B18</td>
+<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C1</td>
+<td class="cuerpo_tabla_izq">Medidas contra la manipulación</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C (5)</td>
+<td class="cuerpo_tabla_centro">C (5)</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C4</td>
+<td class="cuerpo_tabla_izq">Dispositivos de acoplamiento y de fijación</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (2)</td>
+<td class="cuerpo_tabla_centro">B (4) (2)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C5</td>
+<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
+<td class="cuerpo_tabla_centro">A (5)</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">A (5)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C6</td>
+<td class="cuerpo_tabla_izq">Compatibilidad electromagnética (CEM)</td>
+<td class="cuerpo_tabla_centro">A (3)</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A (3)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C7</td>
+<td class="cuerpo_tabla_izq">Salientes exteriores</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C8</td>
+<td class="cuerpo_tabla_izq">Almacenamiento de combustible</td>
+<td class="cuerpo_tabla_centro">B (4) (7)</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B (4) (7)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C9</td>
+<td class="cuerpo_tabla_izq">Plataformas de carga</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C10</td>
+<td class="cuerpo_tabla_izq">Masas y Dimensiones</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C11</td>
+<td class="cuerpo_tabla_izq">Sistemas de diagnóstico a bordo</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">N.A.</td>
+<td class="cuerpo_tabla_centro">N.A.</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C12</td>
+<td class="cuerpo_tabla_izq">Dispositivos de retención para pasajeros y apoyapiés</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">N.A.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C13</td>
+<td class="cuerpo_tabla_izq">Emplazamiento de la placa de matrícula</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">B (5)</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C14</td>
+<td class="cuerpo_tabla_izq">Información relativa a la reparación y el mantenimiento</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">N.A.</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C15</td>
+<td class="cuerpo_tabla_izq">Caballete de apoyo</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_izq">Inscripciones Reglamentarias</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C (5)</td>
+<td class="cuerpo_tabla_centro">C (5)</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_izq">Indicador de velocidad</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+</tbody>
+</table>
+
+Leyenda:
+
+X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo UE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.
+
+A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la
+
+Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones
+
+Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.
+
+B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones
+
+Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.
+
+C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la
+
+Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones
+
+Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.
+
+H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción.
+
+N/A: Este acto normativo no es aplicable (ningún requisito)
+
+RGV: Reglamento general de vehículos
+
+(*) Los requisitos aplicables a estas categorías están recogidos en la última actualización de los Anexos I y II del RD 2028/1986.
+
+(1) Subconjunto electrónico.
+
+(2) Componente. UTI (Unidad técnica independiente).
+
+(3) Vehículo.
+
+(4) Prescripciones de instalación
+
+(5) En el caso de vehículos singulares, la autoridad de homologación podrá eximir de alguno de los requisitos de los actos reglamentarios exigidos a condición de que el fabricante justifique la inaplicabilidad de dicho requisito en su caso concreto. Un servicio técnico deberá certificar dicha inaplicabilidad.
+
+(6) Los Actos Reglamentarios o requisitos exigibles para cada categoría serán los mencionados en los correspondientes anexos del Reglamento de la Unión Europea vigentes en la materia.
+
+(7) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes, deberán disponer de su homologación CEPE/ONU o equivalente.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## ANEXO III — Homologación Nacional de Vehículos
+
+Anexo Técnico sobre Homologación Nacional de vehículos de las categorías M y N
+
+(Incluye: Serie Corta Nacional y Homologación Individual)
+
+Índice
+
+Apéndice 1: Generalidades.
+
+Parte I: Definición según categorías de: Tipo, Variante y Versión.
+
+Parte II: Modelos de números de homologación.
+
+Apéndice 2: Homologación Nacional de tipo. No procede
+
+Apéndice 3: Serie Corta Nacional.
+
+Parte I: Campo de aplicación.
+
+Parte II: Ficha de características.
+
+Parte III: Modelo de ficha reducida de características.
+
+Parte IV: Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV).
+
+Parte V: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 4: Homologación Individual.
+
+Parte I: Campo de aplicación.
+
+Parte II: Modelo de ficha reducida de características.
+
+Parte III: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 5: Lista de actos reglamentarios para la homologación de vehículos en series cortas nacionales y Homologación Individual.
+
+Parte I: Vehículos de las categorías M1, M2, M3, N1, N2 y N3.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 1 — Generalidades
+
+**PARTE I**
+
+**Definición según categorías de: Tipo, variante y versión**
+
+Para los vehículos de las categorías M y N:
+
+Serán de aplicación los criterios para los tipos, variantes y versiones establecidos en la Directiva o el Reglamento de la Unión Europea vigente en la materia.
+
+**PARTE II**
+
+**Modelos de números de homologación**
+
+Homologación Nacional de Tipo:
+
+No procede.
+
+Serie Corta Nacional:
+
+Para todas las Categorías y Vehículos incompletos, completos y las diferentes fases de completado.
+
+e9*NKS*xxxxx*xx.
+
+Constará de cuatro secciones separadas por un asterisco,
+
+Primera sección: «e9»
+
+Segunda sección: «NKS»
+
+Tercera sección: Una secuencia numérica de al menos cinco dígitos que indica el número de homologación de base.
+
+Cuarta sección: Una secuencia numérica de dos dígitos que indique la extensión. La secuencia empezará a partir de 00 para cada número de homologación de base.
+
+En los casos de corrección que no implican extensión, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+Homologación Individual:
+
+HIB-xxxxx (vehículos categoría M1 completos/completados)
+
+HIG-xxxxx (vehículos categorías M2 y M3 completos/completados)
+
+HIC-xxxxx (vehículos categoría N completos/completados)
+
+Constará de los caracteres HI seguida de la letra identificativa de la categoría y seguidos de una secuencia numérica de al menos cinco dígitos, que indicará el número de aprobación individual.
+
+En los casos de corrección, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 2 — Homologación Nacional de Tipo (categorías M y N)
+
+No procede.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 3 — Serie Corta Nacional (categorías M y N)
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice se extiende a los tipos de vehículos incompletos, completos y completados, pertenecientes a las categorías M y N, definidos en la Directiva o el Reglamento de la Unión Europea vigente en la materia.
+
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice I de este anexo.
+
+Los límites de cantidad de los vehículos producidos en serie corta nacional serán los establecidos en la Directiva o el Reglamento de la Unión Europea vigente en la materia.
+
+**PARTE II**
+
+**Ficha de características**
+
+Se aportará la información que figura a continuación, la cual irá acompañada de una lista de los elementos incluidos. Los planos y fotografías, en su caso, se presentarán a la escala adecuada, suficientemente detallados.
+
+En el caso de vehículos completados, se cumplimentarán todos los epígrafes, incluidos los correspondientes al vehículo de la fase anterior, mencionando la correspondencia entre ambas fases.
+
+(Se rellenarán todos los epígrafes a excepción de los campos que procedan en función de la categoría del vehículo, en los que se indicará N.A.)
+
+**PARTE III**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de fichas reducidas son los establecidos en este apéndice.
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Según lo establecido en este apéndice.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en este apéndice.
+
+**PARTE II**
+
+**Ficha de características**
+
+| Epígrafe | Ficha de características. Categoría M y N |
+|---|---|
+| 0. | GENERALIDADES |
+| 0.1. | Marca (razón social del fabricante) del vehículo |
+| 0.2. | Tipo |
+| 0.2.1. | Denominación comercial (si está disponible): |
+| 0.2.2 | Tipo:<br>Variante(s):<br>Versión o versiones:<br>Para los vehículos que han recibido una homologación multifásica, información sobre la homologación de tipo del vehículo de base o del vehículo en la fase anterior (enumere la información para cada fase. Para ello puede utilizarse una matriz) (en caso de vehículo completado, indicar la fase de fabricación):<br>Número de homologación (si procede) del vehículo de base (incluido el número de extensión): |
+| 0.2.2.1 | Descripción del vehículo incompleto/completo/completado p.e. camión cisterna 4x2, furgón cerrado, camión capitoné, tractora 6x4 con 5.º rueda) |
+| 0.3. | Medio de identificación del tipo de vehículo, si está marcado en él (b) |
+| 0.3.1. | Emplazamiento de estas marcas |
+| 0.4. | Categoría de vehículo (c): |
+| 0.4.1. | Clasificación según las mercancías peligrosas a cuyo transporte se destine: |
+| 0.5. | Nombre y dirección del fabricante del vehículo completo: |
+| 0.5.1 | Nombre y dirección del fabricante del vehículo de base: |
+| 0.5.2 | Nombre y dirección del fabricante del vehículo incompleto: |
+| 0.5.3 | Nombre y dirección del fabricante del vehículo completado: |
+| 0.8. | Nombre y dirección o direcciones de las plantas de montaje: |
+| 0.9 | Nombre y dirección del representante autorizado del fabricante (en su caso): |
+| 1. | CONSTITUCIÓN GENERAL DEL VEHÍCULO |
+| 1.1. | Fotografías o planos de un vehículo representativo: |
+| 1.3. | Número de ejes y ruedas: |
+| 1.3.1 | Número y emplazamiento de ejes de ruedas gemelas |
+| 1.3.2. | Número y localización de los ejes de dirección: |
+| 1.3.3. | Ejes motrices (número, localización, interconexión): |
+| 1.4. | Bastidor (en su caso), (plano general): |
+| 1.6. | Localización y disposición del motor: |
+| 1.9 | Especifique si el vehículo tractor está destinado a arrastrar semirremolques u otros remolques y si el remolque es un semirremolque, un remolque con barra de tracción, un remolque de eje central o un remolque con barra de tracción rígida. |
+| 1.10 | Especifique los vehículos diseñados especialmente para el transporte de mercancías a temperatura controlada |
+| 2. | MASAS Y DIMENSIONES (f) (g) (7) (kg y mm) (en su caso, haga referencia a los planos) |
+| 2.1. | Distancias entre ejes (a plena carga) (<sup>g1</sup>) |
+| 2.1.1 | Vehículos de 2 ejes: |
+| 2.1.2 | Vehículos de 3 o más ejes |
+| 2.1.2.1 | Distancia entre ejes consecutivos, desde el eje más adelantado hasta el eje de cola: |
+| 2.1.2.2 | Distancia total entre ejes |
+| 2.2 | Quinta rueda |
+| 2.2.2 | Para las unidades de tracción de los semirremolques |
+| 2.2.2.1 | Avance de la quinta rueda (máximo y mínimo; indique los valores autorizados para un vehículo incompleto) (g<sup>2</sup>) |
+| 2.3.1. | Vía de cada eje de dirección (g<sup>4</sup>): |
+| 2.3.2. | Vía de los demás ejes (g<sup>4</sup>): |
+| 2.4. | Gama de dimensiones (generales) del vehículo |
+| 2.4.1. | Para bastidor sin carrocería |
+| 2.4.1.1. | Longitud (g<sup>5</sup>) |
+| 2.4.1.1.1. | Longitud máxima admisible del vehículo completado: |
+| 2.4.1.1.2. | Longitud mínima admisible del vehículo completado: |
+| 2.4.1.2 | Anchura (g<sup>7</sup>) |
+| 2.4.1.2.1 | Anchura máxima admisible del vehículo completado: |
+| 2.4.1.2.2 | Anchura mínima admisible del vehículo completado: |
+| 2.4.1.3 | Altura (en orden de marcha) (en caso de suspensión regulable en altura, indique la posición normal de marcha) (g<sup>8</sup>): |
+| 2.4.2. | Para bastidor con carrocería |
+| 2.4.2.1. | Longitud (g<sup>5</sup>): |
+| 2.4.2.1.1. | Longitud de la zona de carga: |
+| 2.4.2.2. | Anchura (g<sup>7</sup>) |
+| 2.4.2.2.1. | Espesor de las paredes (en caso de vehículos destinados al transporte de mercancías a temperatura controlada): |
+| 2.4.2.3. | Altura (en orden de marcha) (en caso de suspensión regulable en altura, indique la posición normal de marcha) (g<sup>8</sup>): |
+| 2.4.2.5 | Voladizo trasero: |
+| 2.5. | Masa mínima sobre el eje o ejes de dirección de vehículos incompletos |
+| 2.6. | Masa en orden de marcha (h)<br>a) Mínima y máxima de cada variante<br>b) Masa de cada variante (debe facilitarse un cuadro) |
+| 2.6.1. | Distribución de esta masa entre los ejes y, en caso de un semirremolque o remolque de eje central, carga sobre el punto de acoplamiento:<br>a) Mínima y máxima de cada variante<br>b) Masa de cada variante (debe facilitarse un cuadro) |
+| 2.6.2 | Masa del equipamiento opcional (según la definición del artículo 2, Punto 5, del Reglamento (UE) 1230/2012. |
+| 2.7. | Masa mínima del vehículo completado declarada por el fabricante, en caso de vehículo incompleto: |
+| 2.8. | Masa máxima en carga técnicamente admisible declarada por el fabricante (3) (i): |
+| 2.8.1. | Distribución de esta masa entre los ejes y, en caso de un semirremolque o remolque de eje central, carga sobre el punto de enganche (3): |
+| 2.9. | Masa máxima técnicamente admisible en cada eje: |
+| 2.10. | Masa máxima técnicamente admisible en grupo de ejes: |
+| 2.11. | Masa máxima remolcable técnicamente admisible del vehículo de motor, en caso de: |
+| 2.11.1. | Remolque con barra de tracción: |
+| 2.11.2. | Semirremolque: |
+| 2.11.3. | Remolque de eje central: |
+| 2.11.4 | Remolque con barra de tracción rígida |
+| 2.11.5 | Masa máxima técnicamente admisible del conjunto (3): |
+| 2.11.6. | Masa máxima del remolque sin frenos: |
+| 2.12. | Carga vertical estática/masa máxima técnicamente admisible en el punto de acoplamiento del vehículo |
+| 2.12.1. | Del vehículo de motor: |
+| 2.16. | Masas máximas admisibles para matriculación/circulación (MMA) optativo |
+| 2.16.1. | Masa máxima en carga admisible para matriculación/circulación: |
+| 2.16.2. | Masa máxima en carga admisible para matriculación/circulación en cada eje y, en caso de un semirremolque o remolque de eje central, carga prevista en el punto de acoplamiento declarada por el fabricante si es inferior a la masa máxima técnicamente admisible sobre el punto de acoplamiento: |
+| 2.16.3. | Masa máxima en carga admisible para matriculación/circulación por cada grupo de ejes |
+| 2.16.4. | Masa máxima remolcable admisible para matriculación/circulación |
+| 2.16.5. | Masa máxima admisible del conjunto para matriculación/circulación |
+| 3. | UNIDAD MOTRIZ (k) |
+| 3.1. | Fabricante del motor: |
+| 3.1.1. | Código del motor asignado por el fabricante (marcado en el motor, o identificado de otra manera): |
+| 3.1.2 | Número de homologación (si procede) y marcado de identificación de combustible: (Sólo vehículos pesados) |
+| 3.2. | Motor de combustión interna |
+| 3.2.1 | Motor de combustión interna |
+| 3.2.1.1. | Principio de funcionamiento: encendido por chispa/ por compresión / combustible dual.<br>Ciclo: cuatro tiempos/dos tiempos/rotativo (1) |
+| 3.2.1.1.1 | Tipo de motor de combustible dual: tipo 1A/tipo 1B/tipo 2A/tipo 2B/tipo 3B (1) (X1) |
+| 3.2.1.2. | Número y disposición de los cilindros |
+| 3.2.1.3. | Cilindrada (m):........... cm<sup>3</sup> |
+| 3.2.1.8. | Potencia neta máxima (n) .............. kW a................... min<sup>-1</sup> (valor declarado por el fabricante) |
+| 3.2.1.8.1 | Potencia fiscal:.............. CVF |
+| 3.2.2. | Tipo de Combustible o fuente de energía: |
+| 3.2.2.1. | Vehículos ligeros: gasóleo/gasolina/GLP/GN o Bio Metano/etanol (E85) /Biodiesel/Hidrógeno/H<sub>2</sub> GN (1)(6): |
+| 3.2.2.2. | Vehículos pesados: gasóleo/gasolina/GLP/GN-H/GN-L/GN-HL/ Etanol (ED95) /Etanol (E85) /GNL/GNL<sub>20</sub> (1)(6): |
+| 3.2.2.4 | Tipo de combustible del vehículo: Monocombustible / Bicombustible / Flexible (1) |
+| 3.2.2.5 | Máximo porcentaje de biocombustible aceptable en el combustible (valor declarado por el fabricante): % en volumen |
+| 3.2.3 | Depósito(s) de combustible |
+| 3.2.3.1 | De servicio |
+| 3.2.3.1.1 | N.º y capacidad de cada depósito |
+| 3.2.3.2 | Auxiliar(es) |
+| 3.2.3.2.1 | N.º y capacidad de cada depósito |
+| 3.2.4. | Alimentación de combustible |
+| 3.2.4.1. | Por carburador: sí/no (1) |
+| 3.2.4.2. | Por inyección del combustible (solo encendido por compresión: sí/no (1) |
+| 3.2.4.2.2. | Principio de funcionamiento: inyección directa/precámara/cámara de turbulencia |
+| 3.2.4.3. | Por inyección de combustible (solo encendido por chispa): sí/no (1) |
+| 3.2.7. | Sistema de refrigeración: por líquido/aire (1) |
+| 3.2.8. | Sistema de admisión |
+| 3.2.8.1. | Sobrealimentación: sí/no (1) |
+| 3.2.8.2 | Intercambiador de calor de la admisión: si/no (1) |
+| 3.2.9 | Sistema de escape |
+| 3.2.9.4 | Tipo y marca del silencioso o de los silenciosos de escape:<br>En su caso, para el ruido exterior, medidas adoptadas para la reducción del ruido en el compartimento del motor y en el propio motor |
+| 3.2.9.5 | Posición de la salida del escape: |
+| 3.2.12. | Medidas adoptadas contra la contaminación atmosférica |
+| 3.2.12.2. | Dispositivos adicionales de control de emisiones (si los hubiera, y no estuvieran recogidos en otro apartado) |
+| 3.2.12.2.1 | Catalizador: sí/no (1) |
+| 3.2.12.2.2 | Sonda de oxígeno: sí/no (1) |
+| 3.2.12.2.3 | Inyección de aire: sí/no (1) |
+| 3.2.12.2.4 | Recirculación de los gases de escape: sí/no (1) |
+| 3.2.12.2.5 | Sistema de control de las emisiones por evaporación: sí/no (1) |
+| 3.2.12.2.6 | Filtro de partículas: sí/no (1) |
+| 3.2.12.2.7 | Sistema de diagnóstico a bordo (DAB) si/no: (1) |
+| 3.2.12.2.8 | Otros sistemas (descripción y funcionamiento): |
+| 3.2.12.2.1.11 | Método o sistema de regeneración de los sistemas de pos tratamiento de los gases de escape, descripción |
+| 3.2.12.2.1.11.6 | Reactivos consumibles: si/no (1) |
+| 3.2.12.2.1.11.7 | Tipo y concentración de reactivo necesarios para la acción catalítica |
+| 3.2.12.2.9 | Limitador de par: sí/no (1) |
+| 3.2.13.1 | Localización del símbolo del coeficiente de absorción (sólo para los motores con encendido por compresión): |
+| 3.2.15 | Sistema de alimentación de combustible por GLP: si/no: (1) |
+| 3.2.16 | Sistema de alimentación de combustible por GN: si/no: (1) |
+| 3.3. | Motor eléctrico |
+| 3.3.1. | Tipo (bobinado, excitación): |
+| 3.3.1.1 | Potencia máxima por hora:................. kW |
+| 3.3.1.1.1 | Potencia fiscal:.............. CVF |
+| 3.3.1.1.2 | Potencia neta máxima (n): ……. kW (valor declarado por el fabricante) |
+| 3.3.1.1.3 | Potencia máxima durante 30 minutos (n): ……. kW (valor declarado por el fabricante) |
+| 3.3.1.2 | Tensión de funcionamiento:................. V |
+| 3.3.2. | Batería |
+| 3.3.2.4. | Localización: |
+| 3.4 | Combinación de motores o electromotores |
+| 3.4.1 | Vehículo eléctrico híbrido: Sí/No (1) |
+| 3.4.2 | Categoría del vehículo eléctrico híbrido: Se carga desde el exterior / No se carga desde el exterior. |
+| 3.4.2.1 | Potencia fiscal (motor térmico) |
+| 3.4.3.1.1 | Motor eléctrico puro (si/no) |
+| 3.5 | Emisiones de CO2 y consumo de combustible (o)12 |
+| 3.5.0 | Nivel de emisiones de escape: Euro… |
+| 3.5.0.1 | Nivel de ruido a vehículo parado:.............dB(A) a...........min-1 |
+| 3.5.1.3 | Emisiones de CO2 en masa (ciclo mixto): g/km |
+| 3.5.2.1 | Consumo de combustible (ciclo urbano): l/100 km. |
+| 3.5.2.2 | Consumo de combustible (ciclo de carretera): l/100 km. |
+| 3.5.2.3 | Consumo de combustible (ciclo mixto): l/100 km |
+| 3.6 | Temperaturas admitidas por el fabricante |
+| 3.6.5. | Temperatura del lubricante<br>Mínima:....... K<br>Máxima: ……K |
+| 4. | TRANSMISIÓN. (p) |
+| 4.2. | Tipo (mecánica, hidráulica, eléctrica, etc.): |
+| 4.5. | Caja de cambios |
+| 4.5.1. | Tipo [manual / automática / CVT (Transmisión variable continua)]: |
+| 4.6. | Relaciones de transmisión |
+
+| Velocidades | Relaciones internas de la caja de cambios (revoluciones del motor / del eje de transmisión de la caja de cambios) | Relación o relaciones de la transmisión final (revoluciones<br>del eje de transmisión / de la rueda motriz) | Relaciones totales de transmisión |
+|---|---|---|---|
+| Máximo para CVT<br>1<br>2<br>3<br>...<br>Mínimo para CVT<br>Marcha atrás |  |  |  |
+
+| Epígrafe | Ficha de características. Categoría M y N |
+|---|---|
+| 4.7. | Velocidad máxima del vehículo (km/h) (q): |
+| 4.9 | Tacógrafo. Si/no (1) |
+| 4.9.1 | Marca de homologación: |
+| 5. | EJES |
+| 5.1. | Descripción de cada eje: |
+| 5.2. | Marca: |
+| 5.3. | Tipo: |
+| 5.4. | Posición del eje o ejes retráctiles |
+| 5.5. | Posición del eje o ejes cargables: |
+| 6. | SUSPENSIÓN |
+| 6.2. | Tipo y diseño de la suspensión de cada eje o grupo de ejes o rueda: |
+| 6.2.1. | Regulación de altura: sí/no/optativa (1) |
+| 6.2.3. | Suspensión neumática en el eje o ejes propulsores: sí/no (1) |
+| 6.2.3.1. | Suspensión del eje o ejes propulsores equivalente a la suspensión neumática: sí/no (1) |
+| 6.2.4 | Suspensión neumática en el eje o ejes no direccionales: Si/No (1) |
+| 6.2.4.1 | Suspensión del eje o ejes no direccionales equivalente a la suspensión neumática: Si/No (1) |
+| 6.6.1. | Combinación o combinaciones de neumático y rueda (para los neumáticos indique la denominación del tamaño, su índice mínimo de capacidad de carga y el símbolo de la categoría de velocidad mínima; para las ruedas indique tamaños de las llantas y bombeos) (r) |
+| 6.6.1.1. | Ejes |
+| 6.6.1.1.1. | Eje 1: |
+| 6.6.1.1.2. | Eje 2, etc.: |
+| 6.6.1.2 | Rueda de repuesto, si la hubiera: |
+| 6.6.2. | Límites superior e inferior de los radios de rodadura |
+| 6.6.2.1. | Eje 1: |
+| 6.6.2.2. | Eje 2, etc.: |
+| 7. | DIRECCIÓN |
+| 7.2. | Transmisión y mando |
+| 7.2.1. | Tipo de transmisión (en su caso, indique si es delantera o trasera): |
+| 7.2.2. | Transmisión a las ruedas (incluidos los medios no mecánicos; en su caso indique si es delantera o trasera): |
+| 7.2.3. | Tipo de asistencia, si la hubiera: |
+| 8. | FRENOS |
+| 8.5. | Dispositivo antibloqueo de frenos: sí/no/optativo (1) |
+| 8.9. | Breve descripción de los dispositivos de frenado (según certificado de homologación del sistema de frenado): |
+| 8.11. | Características del tipo o tipos de dispositivo de frenado prolongado: |
+| 9. | CARROCERÍA |
+| 9.1. | Tipo de carrocería (según Directiva o Reglamento de la Unión Europea vigente en la materia) |
+| 9.3. | Puertas de los ocupantes, cerraduras y bisagras |
+| 9.3.1. | Configuración y número de puertas: |
+| 9.9. | Dispositivos de visión indirecta |
+| 9.9.1 | Retrovisores, especificando para cada retrovisor: |
+| 9.9.1.1. | Marca: |
+| 9.9.1.2. | Marca de homologación de tipo: |
+| 9.9.1.3. | Variante: |
+| 9.9.1.6. | Elementos optativos que pueden afectar al campo de visión hacia atrás: |
+| 9.9.2. | Dispositivos de visión indirecta distintos de los espejos |
+| 9.9.2.1. | Tipo y descripción del dispositivo: |
+| 9.10. | Disposición interior |
+| 9.10.3. | Asientos |
+| 9.10.3.1. | Número de plazas sentadas incluido el conductor (s): |
+| 9.10.3.1.1. | Localización y disposición: |
+| 9.10.3.2.1.1. | N.º de plazas especialmente acondicionadas para Personas de Movilidad Reducida (PMR) en silla de ruedas (manuales/eléctricas) |
+| 9.10.3.2 | Asiento(s) utilizado(s) únicamente estando el vehículo parado: |
+| 9.10.4.1. | Tipo(s) de reposacabezas: integrado/amovible/separado (1) |
+| 9.10.4.2. | Número(s) de homologación de tipo, en su caso |
+| 9.10.8 | Gas utilizado como refrigerante en el sistema de aire acondicionado: |
+| 9.10.8.1 | El sistema de aire acondicionado está diseñado para contener gases fluorados de efecto invernadero con un potencial de calentamiento atmosférico superior a 150: si/no |
+| 9.12.2. | Clase y localización de los dispositivos de retención suplementarios (indique sí/no/optativo) |
+| 9.15. | Protección trasera contra el empotramiento |
+| 9.15.2 | N.º de homologación |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173504_image5.png)
+
+| Epígrafe | Ficha de características. Categoría M y N |
+|---|---|
+| 9.17. | Placas reglamentarias |
+| 9.17.1. | Fotografías o planos de la localización de las placas e inscripciones reglamentarias y del número de identificación del vehículo: |
+| 9.17.2 | Fotografías o planos de la placa e inscripciones reglamentarias (ejemplo completo con dimensiones) |
+| 9.17.3 | Fotografías o planos del número de identificación del vehículo (ejemplo completo con dimensiones) |
+| 9.17.4.1 | En la segunda sección y, en su caso, en la tercera, se explicará el significado de los caracteres utilizados para cumplir los requisitos de la sección 5.3 de la norma UNE-ISO 3779:2011 |
+| 9.17.4.2. | Si los caracteres de la segunda sección tienen como objetivo cumplir con los requisitos de la sección 5.4 de la norma UNE-ISO 3779:2011, se indicarán dichos caracteres: |
+| 9.22 | Protección delantera contra el empotramiento |
+| 9.22.0 | Presencia: si/no/incompleta (1) |
+| 9.23 | Protección de los peatones |
+| 9.23.1 | Descripción detallada, con fotografías o planos, de vehículo en cuanto a la estructura, dimensiones, líneas de referencia pertinentes y materiales que constituyen la parte frontal del vehículo (exterior e interior). La descripción incluirá información de todo Incluyendo detalles del sistema de protección activa instalado. |
+| 9.24 | Sistema de protección delantera |
+| 9.24.1 | Disposición general (plano o fotografías) que indique la posición y el acoplamiento de los sistemas de protección delantera |
+| 9.24.3 | Detalles pormenorizados sobre los accesorios necesarios e instrucciones completas de instalación, incluidos los requisitos sobre el par de torsión |
+| 9.25 | En el caso de vehículos completos/completados: |
+| 9.25.1 | Zona de carga (distinta de equipaje de viajeros) |
+| 9.25.2 | Descripción precisa de la zona de carga y equipamientos (en caso de elementos independientes) del vehículo, incluidas sus dimensiones |
+| 9.25.3 | Configuración y materiales constituyentes de fijación y su sujeción a cualquier punto de la estructura principal (bastidor) del vehículo. |
+| 9.25.4 | Esquemas del vehículo, identificando la zona de carga, elementos incorporados, etc. |
+| 10. | DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA (Adjuntar esquema exterior del vehículo con el emplazamiento acotado de su instalación) |
+| 10.1 | Dispositivos obligatorios (Número, color y marca de homologación) |
+| 10.2 | Dispositivos facultativos (Número, color y marca de homologación) |
+| 11. | UNIONES ENTRE VEHÍCULOS TRACTORES Y REMOLQUES O SEMIRREMOLQUES |
+| 11.1. | Clase y tipo del dispositivo o dispositivos de acoplamiento instalados o por instalar: |
+| 11.2 | Características D, U, S y V del dispositivo o dispositivos instalados o características mínimas del dispositivo o dispositivos a instalar: daN |
+| 11.3. | Instrucciones de montaje del tipo de enganche al vehículo y fotografías o planos de los puntos de fijación al vehículo previstos por el fabricante; información suplementaria si el tipo de enganche se utiliza solo en determinadas variantes o versiones del tipo de vehículo: |
+| 11.4 | Información sobre la instalación de brazos de arrastre o placas de soporte Especiales: |
+| 11.5. | Número(s) de homologación de tipo: |
+| 12. | VARIOS |
+| 12.7.1. | Vehículo dotado de un equipo radar de corto alcance de 24 GHz: si/no (1) |
+|  | Máxima capacidad del momento de la grúa |
+| 13. | DISPOSICIONES ESPECIALES PARA AUTOBUSES Y AUTOCARES |
+| 13.1. | Clase de vehículo (clase I, clase II, clase III, clase A, clase B): (1) |
+| 13.1.2. | Tipo de bastidor en los que puede instalarse la carrocería homologada (fabricante(s) y tipos de vehículos): |
+| 13.3. | Número de pasajeros (sentados y de pie, en silla de ruedas y exclusivos de tripulación) |
+| 13.3.1. | Total (N): |
+| 13.3.2. | Piso superior (Na) (1): |
+| 13.3.3. | Piso inferior (Nb) (1): |
+| 13.4. | Número de pasajeros (sentados) |
+| 13.4.1 | Total (A): |
+| 13.4.2. | Piso superior (Aa) (1): |
+| 13.4.3 | Piso inferior (Ab) (1): |
+| 13.4.4. | Para vehículos de categoría M2 o M3, número de posiciones para sillas de ruedas |
+| 16. | Acceso a la información para mantenimiento y Reparación de los vehículos. |
+| 16.1 | Dirección de la página web para acceso a la información relativa a la reparación y mantenimiento de los vehículos |
+| 17. | Acceso a la información para completado de los vehículos en procedimientos multifásicos. |
+| 17.1 | Referencia Acuerdo de intercambio de información entre fabricantes de las distintas fases. |
+
+Notas explicativas:
+
+(1) Tache lo que no proceda (si es aplicable más de una opción no es necesario tachar nada).
+
+(2) Especifique la tolerancia.
+
+(3) Sírvase anotar aquí los valores superiores e inferiores de cada variante.
+
+(5) De modo que el valor efectivo aparezca claramente para cada configuración técnica del tipo de vehículo.
+
+(6) Los vehículos que puedan funcionar tanto con combustible líquido como gaseoso, pero en los que el sistema líquido sólo esté instalado para casos de emergencia o para el arranque y cuyo depósito no pueda contener más de 15 litros se considerarán aquí como vehículos que funcionan con combustible gaseoso.
+
+(7) Deberá indicarse el equipamiento opcional que afecte a las dimensiones del vehículo.
+
+(a) Para cada apartado al que se adjunten planos o fotografías, indique la numeración de los documentos correspondientes.
+
+(b) Si el medio de identificación del tipo contiene caracteres no pertinentes para la descripción del vehículo, componente o unidad técnica independiente a que se refiere esta ficha, tales caracteres se sustituirán en la documentación por el símbolo: "?" (por ejemplo, ABC??123??).
+
+(c) Clasificación con arreglo a las definiciones que figuran en la Directiva o el Reglamento de la Unión Europea vigente en la materia.
+
+(f) Para los modelos que tengan una versión con cabina normal y otra con cabina litera, indique las masas y dimensiones de ambas.
+
+(g) Norma ISO 612:1978, - Vehículos de motor – Dimensiones de los vehículos de motor y los vehículos remolcados – términos y definiciones.
+
+(g<sup>1</sup>) Vehículo de motor y remolque con barra de tracción: término 6.4.1
+
+Semirremolque y remolque de eje central: término 6.4.2
+
+En caso de un remolque de eje central, el eje del enganche se considerará el eje más adelantado.
+
+(g<sup>2</sup>) Término 6.19.2.
+
+(g<sup>3</sup>) Término 6.20.
+
+(g<sup>4</sup>) Término 6.5.
+
+(g<sup>5</sup>) Término n.º 6.1, y, para vehículos distintos de los de la categoría M1 (de acuerdo con la normativa aplicable de Masas y Dimensiones).
+
+En el caso de los remolques se especificarán las longitudes según lo mencionado en el término 6.1.2 de la Norma ISO 612: 1978.
+
+(g<sup>6</sup>) Término 6.17.
+
+(g<sup>7</sup>) Término 6.2, y, para vehículos distintos de los de la categoría M1 (de acuerdo con la normativa aplicable de Masas y Dimensiones).
+
+(g<sup>8</sup>) Término 6.3, y, para vehículos distintos de los de la categoría M1 (de acuerdo con la normativa aplicable de Masas y Dimensiones).
+
+(h) Se estima que la masa del conductor y, en su caso, la del miembro de la tripulación es de 75 kg (68 kg de masa del ocupante y 7 kg de masa del equipaje, con arreglo a la Norma UNE 26-086-92 (ISO 2416:1992), que el depósito de combustible está lleno al 90 % y que los demás sistemas que contienen líquidos (excepto los de agua usada) están al 100 % de la capacidad indicada por el fabricante. No es necesario facilitar la información a la que se refieren los puntos 2.6, letra b), y 2.6.1, letra b), si se trata de vehículos de las categorías N2, N3, M2, M3, O3 y O4.
+
+(i) Para remolques y semirremolques (y para vehículos enganchados a un remolque o semirremolque) que ejerzan una carga vertical significativa en el dispositivo de enganche o la quinta rueda, se incluirá esta carga, dividida por la aceleración normal de la gravedad, en la masa máxima técnicamente admisible.
+
+(k) En caso de vehículos que puedan funcionar con tanto con gasolina como con gasóleo, etc., o incluso combinándolos con otros combustibles, deberán repetirse los epígrafes. Si los motores o sistemas no son convencionales, el fabricante deberá proporcionar detalles equivalentes a los que figuran aquí.
+
+(l) Redondee la cifra a la décima de milímetro.
+
+(m) Calcule el valor (a partir de  = 3,1416) y redondee al cm<sup>3.</sup>
+
+(n) Debe determinarse con arreglo a lo dispuesto en el Reglamento (CE) n.º 715/2007 o en el Reglamento (CE) n.º 595/2009, según proceda.
+
+(o) Debe determinarse con arreglo a lo dispuesto en el Reglamento (CE) n.º 715/2007 o en el Reglamento (CE) n.º 595/2009, según proceda.
+
+(p) Especifique los detalles particulares de cada variante propuesta.
+
+(q) Para los remolques, velocidad máxima permitida por el fabricante.
+
+(r) Para neumáticos categoría Z destinados a vehículos cuya velocidad máxima supere los 300 km/h debe proporcionarse información equivalente.
+
+(s) Debe indicarse el número de plazas de asiento correspondiente al vehículo en movimiento. En caso de disposición modular, puede indicarse una horquilla.
+
+En cualquier caso, se cumplirá con las últimas modificaciones en vigor de las referencias normativas.
+
+**PARTE III**
+
+**Modelo de Ficha Reducida**
+
+A. Categoría M1 y N1. Incompleto/completo/completado
+
+En el caso de vehículos completados, se cumplimentarán todos los epígrafes, incluidos los correspondientes al vehículo de la fase anterior, mencionando la correspondencia entre ambas fases, si no se completan los datos técnicos del vehículo de base, se acompañará la Ficha Reducida del vehículo de base.
+
+| Ficha Reducida Vehículos de categoría M1 y N1 |
+|---|
+| Marca |
+| Tipo / variante / versión |
+| En caso de homologación de vehículo completado se indicará: Tipo/Variante/Versión del vehículo de base (igual que en Ficha de<br>Características) |
+| Denominación comercial |
+| Categoría del vehículo |
+| Nombre y dirección del fabricante del vehículo de base: |
+| Nombre y dirección del fabricante de la última fase de fabricación del vehículo |
+| Emplazamiento de la placa del fabricante |
+| Parte fija VIN |
+| Emplazamiento del número de identificación del vehículo |
+| Vehículo de base: |
+| Número de homologación (incluyendo la extensión correspondiente): |
+| Fecha: |
+| Vehículo completo/completado |
+| Número de Homologación (incluyendo la extensión correspondiente) |
+| Fecha |
+| CONSTITUCIÓN GENERAL DEL VEHÍCULO |
+| N.º de ejes y ruedas |
+| Ejes motrices (n.º, localización e interconexión): |
+| MASAS Y DIMENSIONES |
+| Distancia entre ejes |
+| Vías de los ejes |
+| Longitud |
+| Longitud máxima admisible del vehículo completado |
+| Anchura |
+| Anchura máxima admisible del vehículo completado |
+| Altura |
+| Voladizo trasero |
+| Masa del vehículo en orden de marcha |
+| Masa mínima admisible del vehículo completado |
+| Masa máxima en carga técnicamente admisible (MMTA) |
+| Masa máxima en carga admisible prevista para matriculación/circulación (MMA) |
+| Masa máxima en carga técnicamente admisible en cada eje (MMTA 1.º, 2.º.) |
+| Masa máxima en carga admisible prevista para matriculación/circulación en cada eje (MMA 1.º, 2.º...) |
+| Masa máxima técnicamente admisible del conjunto (MMTC): |
+| Masa máxima en carga admisible prevista para matriculación/circulación del conjunto (MMAC) |
+| Masa máxima remolcable técnicamente admisible del vehículo de motor, en caso de: |
+| Remolque con barra de tracción: |
+| Remolque de eje central: |
+| Masa máxima del remolque sin frenos: |
+| Carga vertical estática/masa máxima técnicamente admisible en el punto de acoplamiento del vehículo motor |
+| UNIDAD MOTRIZ |
+| Fabricante o marca del motor |
+| Código del motor asignado por el fabricante |
+| Motor de Combustión Interna |
+| Principio de funcionamiento |
+| Número y disposición de los cilindros |
+| Cilindrada (cm<sup>3</sup>) |
+| Tipo de combustible o fuente de energía |
+| Potencia neta máxima (kW) a (min<sup>-1</sup>) |
+| Motor Eléctrico puro (si/no) |
+| Potencia máxima por hora (kW) |
+| Motor Híbrido (si/no) |
+| Tipo |
+| TRANSMISIÓN |
+| Tipo (Mecánica/Hidráulica/eléctrica/ etc.) |
+| Caja de cambios (tipo) |
+| N.º de relaciones |
+| SUSPENSIÓN |
+| Breve descripción del tipo de suspensión delantera y trasera |
+| Neumáticos y ruedas (características principales) |
+| DIRECCIÓN |
+| Dirección, Tipo de asistencia. |
+| FRENADO |
+| Breve descripción del dispositivo de frenado. ABS: sí/no |
+| CARROCERÍA |
+| Tipo de carrocería (según Directiva o Reglamento de la Unión Europea vigente en la materia) |
+| Dispositivos de visión indirecta distintos de los retrovisores |
+| Número y disposición de las puertas |
+| Número de plazas de asiento (incluido el conductor) |
+| Número de homologación CE del dispositivo de acoplamiento, en su caso |
+| Sistemas de Protección Delantera: Si/No. Detalles pormenorizados de los dispositivos |
+| DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA |
+| Dispositivos obligatorios (Número) |
+| Dispositivos facultativos (Número) |
+| VARIOS |
+| Velocidad máxima |
+| Nivel de ruido parado: dB(A) a min<sup>-1</sup> |
+| Nivel de emisiones: Euro … |
+| Emisión de CO2 (Ciclo mixto): g/km |
+| Potencia Fiscal (CVF) |
+| Observaciones |
+| Opciones incluidas en la homologación de tipo |
+| Firma autorizada según el RFFR |
+
+**Modelo de Ficha Reducida**
+
+B. Categoría N2 y N3 incompleto/completo/completado
+
+En el caso de vehículos completados, se cumplimentarán todos los epígrafes, incluidos los correspondientes al vehículo de la fase anterior, mencionando la correspondencia entre ambas fases, si no se completan los datos técnicos del vehículo de base, se acompañará la Ficha Reducida del vehículo de base.
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Ficha Reducida Vehículos de categoría N2 y N3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Marca</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Tipo / variante / versión</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="cuerpo_tabla_izq">En caso de homologación de vehículo completado se indicará: Tipo/Variante/Versión del vehículo de base (igual que en Ficha de</p>
+<p class="cuerpo_tabla_izq">Características)</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Denominación comercial</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Categoría del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del fabricante del vehículo de base:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del fabricante de la última fase de fabricación del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento de la placa del fabricante</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Parte fija VIN</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento del número de identificación del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Vehículo de base:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Número de homologación (incluyendo la extensión correspondiente):</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Fecha:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Vehículo completo/completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Número de homologación (incluyendo la extensión correspondiente)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Fecha</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">CONSTITUCIÓN GENERAL DEL VEHÍCULO</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">N.º de ejes y ruedas</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Número y emplazamiento de ejes con ruedas gemelas</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Descripción de los ejes. Tipo y capacidad</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Número y localización de los ejes de dirección:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Ejes motrices (n.º, localización e interconexión):</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MASAS Y DIMENSIONES</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Distancia entre ejes consecutivos 1.º, 2.º, 3.º,...</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Avance 5.ª rueda (máximo y mínimo en caso de 5.ª rueda ajustable)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Vía de cada eje 1.º / 2.º / 3.º /…</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Longitud</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Longitud máxima admisible del vehículo completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Anchura</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Anchura máxima admisible del vehículo completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Altura (en orden de marcha)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Voladizo trasero</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Voladizo trasero máximo autorizado para el vehículo completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa del bastidor desnudo (sin cabina, líquido de refrigeración, lubricantes, combustible, rueda de repuesto ni conductor)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa del vehículo en orden de marcha</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa mínima admisible del vehículo completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa máxima en carga técnicamente admisible (MMTA)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Distribución de esta masa entre los ejes 1.º/2.º/3.º/punto de enganche si hay remolque…</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa máxima en carga técnicamente admisible en cada eje 1.º/2.º/3.º/…</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa máxima técnicamente admisible del conjunto (MMTC):</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa máxima en carga admisible prevista para matriculación/circulación (MMA)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa máxima en carga admisible prevista para matriculación/circulación en cada eje 1.º/2.º/3.º/</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masa máxima en carga admisible prevista para matriculación/circulación del conjunto (MMAC)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masa máxima remolcable técnicamente admisible del vehículo de motor, en caso de:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Remolque con barra de tracción:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Semirremolque:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Remolque de eje central:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masa máxima del remolque sin frenos:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Carga vertical estática/masa máxima técnicamente admisible en el punto de acoplamiento del vehículo motor</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">UNIDAD MOTRIZ</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Fabricante o Marca del motor</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Código asignado por el fabricante del motor (en caso de vehículos pesados, si procede incluir marcado, identificación de combustible)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Motor de Combustión Interna</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Principio de funcionamiento</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Número y disposición de los cilindros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Cilindrada</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Tipo de combustible o fuente de energía</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Potencia neta máxima (kW) a (min-1)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Motor Eléctrico puro (si/no)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Potencia máxima por hora (kW)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Motor Híbrido (si/no)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Tipo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">TRANSMISIÓN</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Tipo (Mecánica/Hidráulica/eléctrica/etc.)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Caja de cambios (tipo)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">N.º de relaciones</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">SUSPENSIÓN</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Breve descripción del tipo de suspensión delantera y trasera</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Neumáticos y ruedas (características principales)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">DIRECCIÓN</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Dirección, método de asistencia.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">FRENADO</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Breve descripción del dispositivo de frenado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">ABS: Sí/No</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Presión en el conducto de alimentación del dispositivo de frenado del remolque: …bar</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Marca de homologación CE del dispositivo de acoplamiento, en su caso</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Tipos o clases de dispositivos de acoplamiento que pueden instalarse</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Valores característicos: D / V / S / U</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">CARROCERÍA</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Tipo de carrocería (según Directiva o Reglamento de la Unión Europea vigente en la materia)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Retrovisores. Tipo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Dispositivos de visión indirecta distintos de los retrovisores</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Sistemas de Protección Delantera: Si/No. Detalles pormenorizados de los dispositivos</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Número y disposición de las puertas</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Número de plazas de asiento (incluido el conductor)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Dispositivos obligatorios (Número)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Dispositivos facultativos (Número)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">VARIOS</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Velocidad máxima</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Nivel de ruido parado: dB(A) a min<sup>-1</sup></td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Nivel de emisiones: Euro…</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Potencia Fiscal (CVF)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Capacidad depósito/s de combustible (sólo N2 y N3)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Capacidad depósito auxiliar/es de combustible (sólo N2 y N3)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Máxima capacidad del momento de la grúa</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Protección trasera. N.º de homologación</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Tacógrafo digital. Si/no</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Observaciones</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Opciones incluidas en la homologación de tipo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Firma autorizada según el RFFR</td>
+</tr>
+</tbody>
+</table>
+
+**Modelo de Ficha Reducida**
+
+C. Categoría M2 y M3 incompleto/completo/completado
+
+En el caso de vehículos completados, se cumplimentarán todos los epígrafes, incluidos los correspondientes al vehículo de la fase anterior, mencionando la correspondencia entre ambas fases, si no se completan los datos técnicos del vehículo de base, se acompañará la Ficha Reducida del vehículo de base.
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">Ficha Reducida Vehículos de categoría M2 y M3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Marca</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Tipo / variante / versión</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">En caso de homologación de vehículo completado se indicará: Tipo/Variante/Versión del vehículo de base (igual que en Ficha de Características)</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Denominación comercial</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Categoría del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Nombre y dirección del fabricante del vehículo de base:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Nombre y dirección del fabricante de la última fase de fabricación del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Emplazamiento de la placa del fabricante</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Parte fija VIN</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Emplazamiento del número de identificación del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Vehículo de base:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Número de homologación (incluyendo la extensión correspondiente)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Vehículo completo/completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Número de homologación (incluyendo la extensión correspondiente)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">CONSTITUCIÓN GENERAL DEL VEHÍCULO</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">N.º de ejes y ruedas</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Número y emplazamiento de ejes con ruedas gemelas</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Descripción de los ejes. Tipo y capacidad</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Número y localización de los ejes de dirección:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ejes motrices (n.º, localización e interconexión):</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">MASAS Y DIMENSIONES</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Distancia entre ejes consecutivos 1.º, 2.º, 3.º...</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Avance 5.ª rueda (máximo y mínimo en caso de 5.ª rueda ajustable)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Vía de cada eje 1.º / 2.º / 3.º /…</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Longitud</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Longitud máxima admisible del vehículo completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Anchura</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Anchura máxima admisible del vehículo completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Altura (en orden de marcha)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Altura máxima admisible del vehículo completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Voladizo trasero</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Voladizo trasero máximo autorizado para el vehículo completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masa del bastidor desnudo (sin cabina, líquido de refrigeración, lubricantes, combustible, rueda de repuesto ni conductor)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masa del vehículo en orden de marcha</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masa mínima admisible del vehículo completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masa máxima en carga técnicamente admisible (MMTA)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Distribución de esta masa entre los ejes 1.º/2.º/3.º/punto de enganche si hay remolque…</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masa máxima en carga técnicamente admisible en cada eje 1.º/2.º/3.º/…</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masa máxima técnicamente admisible del conjunto (MMTC):</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masa máxima en carga admisible prevista para matriculación/circulación (MMA)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masa máxima en carga admisible prevista para matriculación/circulación en cada eje 1.º/2.º/3.º/</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa máxima en carga admisible prevista para matriculación/circulación del conjunto (MMAC)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa máxima remolcable técnicamente admisible del vehículo de motor, en caso de:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Remolque con barra de tracción:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Semirremolque:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Remolque de eje central:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa máxima del remolque sin frenos:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Carga vertical estática/masa máxima técnicamente admisible en el punto de acoplamiento del vehículo motor</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">UNIDAD MOTRIZ</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fabricante o marca del motor</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Código asignado por el fabricante del motor (en caso de vehículos pesados, si procede incluir marcado, identificación de combustible)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Motor de Combustión Interna</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Principio de funcionamiento</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Número y disposición de los cilindros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cilindrada</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Tipo de combustible o fuente de energía</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Potencia neta máxima (kW) a (min-1)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Motor Eléctrico puro (si/no)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Potencia máxima por hora (kW)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Motor Híbrido (si/no)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Tipo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">TRANSMISIÓN</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Tipo (Mecánica/Hidráulica/eléctrica/etc.)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Caja de cambios (tipo)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">N.º de relaciones</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SUSPENSIÓN</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Breve descripción del tipo de suspensión delantera y trasera</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Neumáticos y ruedas (características principales)</td>
+</tr>
+<tr>
+<td>DIRECCIÓN</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Dirección, método de asistencia.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">FRENADO</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Breve descripción del dispositivo de frenado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">ABS: Sí/No</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Presión en el conducto de alimentación del dispositivo de frenado del remolque: …bar</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Marca de homologación CE del dispositivo de acoplamiento, en su caso</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Tipos o clases de dispositivos de acoplamiento que pueden instalarse</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valores característicos: D / V / S / U</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">CARROCERÍA</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Presión en el conducto de admisión para el sistema de frenado del remolque: …bar</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Tipo de carrocería (según Directiva o Reglamento de la Unión Europea vigente en la materia)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Clase</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Tipo de bastidor en los que puede instalarse la carrocería homologada CE (fabricante(s) y tipos de vehículo):</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Número y disposición de las puertas</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Volumen de bodega</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Número de pasajeros sentados (incluido el conductor). 1er piso y 2.º piso.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Número máximo de pasajeros de pie</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Número de espacios previstos para personas de movilidad reducida en silla de ruedas</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Número de asientos exclusivos de tripulación</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Retrovisores. Tipo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Dispositivos de visión indirecta distintos de los retrovisores</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Marca de homologación CE del dispositivo de enganche, en su caso</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Tipos o clases de dispositivos de enganche que pueden instalarse</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valores característicos: D / V / S / U</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Dispositivos obligatorios (Número)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Dispositivos facultativos (Número)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">VARIOS</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Velocidad máxima (si procede)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Nivel de ruido parado: dB(A) a min<sup>-1</sup></td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Nivel de emisiones: Euro…</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Potencia Fiscal (CVF)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Tacógrafo digital (si procede). Si/no</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Observaciones</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Opciones incluidas en la homologación de tipo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Firma autorizada según el RFFR</td>
+</tr>
+</tbody>
+</table>
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Se describirán, para cada variante, las diferentes combinaciones de versiones correspondientes al tipo.
+
+Cada variante y cada versión deberán identificarse mediante un código numérico o alfanumérico que deberá indicar el vehículo que se trate. En el caso de vehículos completados, dicha codificación permitirá identificar el TVV de base sobre el que se realiza el completado.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+| Asunto | Número de homologación | Variantes / Versiones |
+|---|---|---|
+|  |  |  |
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 4 — Homologación Individual
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice se extiende a: los vehículos completos o completados de última fase y a los vehículos especiales y a los vehículos singulares, todos ellos pertenecientes a las categorías M y N, definidos en la Directiva o el Reglamento de la Unión Europea vigente en la materia.
+
+La definición de tipo de vehículos, así como los modelos de número de homologación serán los establecidos en el apéndice 1 de este anexo.
+
+**PARTE II**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de fichas reducidas son los establecidos en la parte III del apéndice 3.
+
+**PARTE III**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en la parte V del apéndice 3.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 5 — Lista de requisitos exigidos para la homologación de vehículos en Serie Corta Nacional y Homologación Individual
+
+(Vehículos de categorías M1, M2, M3, N1, N2 y N3)
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_negrita">Parte I</p>
+</caption>
+<colgroup>
+<col width="5%">
+<col width="62%">
+<col width="11%">
+<col width="11%">
+<col width="11%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">N.º</th>
+<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (8) (*) (H)</th>
+<th class="cabeza_tabla" rowspan="2">Serie Corta Nacional</th>
+<th class="cabeza_tabla" colspan="2">Homologación Individual</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Completo</th>
+<th class="cabeza_tabla">Completados</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">A. Requisitos relativos a los sistemas de retención, los ensayos de colisión, la integridad del sistema de combustible y la seguridad eléctrica de alta tensión</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A1</td>
+<td class="cuerpo_tabla_izq">Acondicionamiento interior.</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A2</td>
+<td class="cuerpo_tabla_izq">Asientos y apoyacabezas.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A3</td>
+<td class="cuerpo_tabla_izq">Asientos de autobús.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A4</td>
+<td class="cuerpo_tabla_izq">Anclajes de los cinturones de seguridad.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A5</td>
+<td class="cuerpo_tabla_izq">Cinturones de seguridad y sistemas de retención.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A6</td>
+<td class="cuerpo_tabla_izq">Sistemas de alerta de olvido del cinturón de seguridad.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A7</td>
+<td class="cuerpo_tabla_izq">Sistemas de separación.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A8</td>
+<td class="cuerpo_tabla_izq">Anclajes de retención infantil.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A9</td>
+<td class="cuerpo_tabla_izq">Sistemas de retención infantil.</td>
+<td class="cuerpo_tabla_centro">X (9)</td>
+<td class="cuerpo_tabla_centro">X (9)</td>
+<td class="cuerpo_tabla_centro">X (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A10</td>
+<td class="cuerpo_tabla_izq">Sistemas reforzados de retención infantil.</td>
+<td class="cuerpo_tabla_centro">X (9)</td>
+<td class="cuerpo_tabla_centro">X (9)</td>
+<td class="cuerpo_tabla_centro">X (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A11</td>
+<td class="cuerpo_tabla_izq">Protección delantera contra el empotramiento.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A12</td>
+<td class="cuerpo_tabla_izq">Protección trasera contra el empotramiento.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) B (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A13</td>
+<td class="cuerpo_tabla_izq">Protección lateral.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A14</td>
+<td class="cuerpo_tabla_izq">Seguridad del depósito de combustible Reglamento.</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A15</td>
+<td class="cuerpo_tabla_izq">Seguridad del gas licuado de petróleo.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A16</td>
+<td class="cuerpo_tabla_izq">Seguridad del gas natural comprimido y licuado.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A17</td>
+<td class="cuerpo_tabla_izq">Seguridad del hidrógeno.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A18</td>
+<td class="cuerpo_tabla_izq">Calificación del material del sistema de hidrógeno.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A19</td>
+<td class="cuerpo_tabla_izq">Seguridad eléctrica en uso.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A20</td>
+<td class="cuerpo_tabla_izq">Colisión frontal con solapamiento parcial.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C (5)</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A21</td>
+<td class="cuerpo_tabla_izq">Colisión frontal con solapamiento total.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C (5)</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A22</td>
+<td class="cuerpo_tabla_izq">Comportamiento del mecanismo de dirección en caso de colisión.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A23</td>
+<td class="cuerpo_tabla_izq">Airbags de recambio.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A24</td>
+<td class="cuerpo_tabla_izq">Colisión en la cabina.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A25</td>
+<td class="cuerpo_tabla_izq">Colisión lateral.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C (5)</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A26</td>
+<td class="cuerpo_tabla_izq">Colisión lateral con un poste.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C (5)</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A27</td>
+<td class="cuerpo_tabla_izq">Colisión trasera.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C (5)</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A28</td>
+<td class="cuerpo_tabla_izq">Sistema eCall.</td>
+<td class="cuerpo_tabla_centro">NA</td>
+<td class="cuerpo_tabla_centro">NA</td>
+<td class="cuerpo_tabla_centro">NA</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">B. Requisitos relativos a los usuarios vulnerables de la vía pública, la visión y la visibilidad</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B1</td>
+<td class="cuerpo_tabla_izq">Protección de piernas y cabeza de peatones.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2) (5)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B2</td>
+<td class="cuerpo_tabla_izq">Ampliación de la zona de impacto en la cabeza.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2) (5)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B3</td>
+<td class="cuerpo_tabla_izq">Sistema de protección delantera.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2) (5)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B4</td>
+<td class="cuerpo_tabla_izq">Frenado de emergencia avanzado para peatones y ciclistas.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B (9)</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B5</td>
+<td class="cuerpo_tabla_izq">Advertencia de colisión con peatones y ciclistas.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B (9)</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B6</td>
+<td class="cuerpo_tabla_izq">Sistema de información sobre ángulos muertos.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B (9)</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B7</td>
+<td class="cuerpo_tabla_izq">Detector de marcha atrás.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B (9)</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B8</td>
+<td class="cuerpo_tabla_izq">Campo de visión delantera.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B9</td>
+<td class="cuerpo_tabla_izq">Campo de visión directa de los vehículos pesados.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">NA</td>
+<td class="cuerpo_tabla_centro">NA</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B10</td>
+<td class="cuerpo_tabla_izq">Acristalamiento de seguridad.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B11</td>
+<td class="cuerpo_tabla_izq">Deshielo y desempañado.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B12</td>
+<td class="cuerpo_tabla_izq">Lavaparabrisas y limpiaparabrisas.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B13</td>
+<td class="cuerpo_tabla_izq">Dispositivos de visión indirecta.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B14</td>
+<td class="cuerpo_tabla_izq">Sistemas de aviso acústico de vehículos.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">C. Requisitos relativos al chasis, el frenado, los neumáticos y la dirección del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C1</td>
+<td class="cuerpo_tabla_izq">Mecanismo de dirección.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C2</td>
+<td class="cuerpo_tabla_izq">Sistema de advertencia de abandono del carril.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C3</td>
+<td class="cuerpo_tabla_izq">Sistema de emergencia de mantenimiento de carril (ELKS).</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C4</td>
+<td class="cuerpo_tabla_izq">Frenado.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C5</td>
+<td class="cuerpo_tabla_izq">Piezas de frenado de repuesto.</td>
+<td class="cuerpo_tabla_centro">X(2)</td>
+<td class="cuerpo_tabla_centro">X(2)</td>
+<td class="cuerpo_tabla_centro">X(2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C6</td>
+<td class="cuerpo_tabla_izq">Asistencia de frenado (BAS).</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C7</td>
+<td class="cuerpo_tabla_izq">Control de estabilidad (–).</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C8</td>
+<td class="cuerpo_tabla_izq">Sistema avanzado de frenado de emergencia de vehículos pesados.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C9</td>
+<td class="cuerpo_tabla_izq">Sistema avanzado de frenado de emergencia de vehículos ligeros.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C10</td>
+<td class="cuerpo_tabla_izq">Seguridad de los neumáticos y eficacia medioambiental.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C11</td>
+<td class="cuerpo_tabla_izq">Ruedas de repuesto y sistemas de neumáticos autoportantes.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C12</td>
+<td class="cuerpo_tabla_izq">Neumáticos recauchutados.</td>
+<td class="cuerpo_tabla_centro">X(2)</td>
+<td class="cuerpo_tabla_centro">X(2)</td>
+<td class="cuerpo_tabla_centro">X(2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C13</td>
+<td class="cuerpo_tabla_izq">Control de la presión de los neumáticos en vehículos ligeros.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C14</td>
+<td class="cuerpo_tabla_izq">Control de la presión de los neumáticos en vehículos pesados.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C15</td>
+<td class="cuerpo_tabla_izq">Instalación de los neumáticos.</td>
+<td class="cuerpo_tabla_centro">A (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C16</td>
+<td class="cuerpo_tabla_izq">Ruedas de repuesto.</td>
+<td class="cuerpo_tabla_centro">X(2)</td>
+<td class="cuerpo_tabla_centro">X(2)</td>
+<td class="cuerpo_tabla_centro">X(2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">D. Requisitos relativos a los instrumentos de a bordo, el sistema eléctrico, las luces del vehículo y la protección frente al uso no autorizado, incluidos ciberataques</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D1</td>
+<td class="cuerpo_tabla_izq">Señales acústicas.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D2</td>
+<td class="cuerpo_tabla_izq">Interferencias de radio (compatibilidad electromagnética).</td>
+<td class="cuerpo_tabla_centro">A (6) (3)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">A (6) (3)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D3</td>
+<td class="cuerpo_tabla_izq">Protección frente a uso no autorizado, inmovilizador y sistemas de alarma.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D4</td>
+<td class="cuerpo_tabla_izq">Protección del vehículo frente a ciberataques.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D5</td>
+<td class="cuerpo_tabla_izq">Indicador de velocidad.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D6</td>
+<td class="cuerpo_tabla_izq">Cuentakilómetros.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D7</td>
+<td class="cuerpo_tabla_izq">Dispositivos de limitación de velocidad.</td>
+<td class="cuerpo_tabla_centro">X</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">X</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D8</td>
+<td class="cuerpo_tabla_izq">Asistente de velocidad inteligente.</td>
+<td class="cuerpo_tabla_centro">X</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">X</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D9</td>
+<td class="cuerpo_tabla_izq">Identificación de los mandos, testigos e indicadores.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D10</td>
+<td class="cuerpo_tabla_izq">Sistemas de calefacción.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D11</td>
+<td class="cuerpo_tabla_izq">Dispositivos de señalización luminosa.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D12</td>
+<td class="cuerpo_tabla_izq">Dispositivos de alumbrado de carretera.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D13</td>
+<td class="cuerpo_tabla_izq">Dispositivos catadióptricos.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D14</td>
+<td class="cuerpo_tabla_izq">Fuentes luminosas.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D15</td>
+<td class="cuerpo_tabla_izq">Instalación de dispositivos de señalización luminosa, de alumbrado de carretera y catadióptricos.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4)(6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D16</td>
+<td class="cuerpo_tabla_izq">Señal de frenado de emergencia.</td>
+<td class="cuerpo_tabla_centro">X</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">X</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D17</td>
+<td class="cuerpo_tabla_izq">Dispositivos de limpieza de faros.</td>
+<td class="cuerpo_tabla_centro">X (2) (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2) (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D18</td>
+<td class="cuerpo_tabla_izq">Indicadores de cambio de velocidades.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">E. Requisitos relativos a la conducta del conductor y la conducta del sistema</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">E1</td>
+<td class="cuerpo_tabla_izq">Interfaz para la instalación de alcoholímetros antiarranque.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">E2</td>
+<td class="cuerpo_tabla_izq">Sistema de advertencia de somnolencia y pérdida de atención del conductor.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">E3</td>
+<td class="cuerpo_tabla_izq">Sistema avanzado de advertencia de distracciones del conductor.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">E4</td>
+<td class="cuerpo_tabla_izq">Sistema de monitorización de la disponibilidad del conductor.</td>
+<td class="cuerpo_tabla_centro">A (10)</td>
+<td class="cuerpo_tabla_centro">B (10)</td>
+<td class="cuerpo_tabla_centro">A (10)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">E5</td>
+<td class="cuerpo_tabla_izq">Registrador de datos de incidencias (EDR).</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">E6</td>
+<td class="cuerpo_tabla_izq">Sistemas de sustitución del control del conductor.</td>
+<td class="cuerpo_tabla_centro">A (10)</td>
+<td class="cuerpo_tabla_centro">B (10)</td>
+<td class="cuerpo_tabla_centro">A (10)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">E7</td>
+<td class="cuerpo_tabla_izq">Sistemas que proporcionan al vehículo información sobre el estado del vehículo y la zona circundante.</td>
+<td class="cuerpo_tabla_centro">A (10)</td>
+<td class="cuerpo_tabla_centro">B (10)</td>
+<td class="cuerpo_tabla_centro">A (10)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">E8</td>
+<td class="cuerpo_tabla_izq">Pelotón de vehículos.</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">B (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">E9</td>
+<td class="cuerpo_tabla_izq">Sistemas para proporcionar información relativa a la seguridad a otros usuarios de la vía.</td>
+<td class="cuerpo_tabla_centro">A (10)</td>
+<td class="cuerpo_tabla_centro">B (10)</td>
+<td class="cuerpo_tabla_centro">A (10)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">F. Requisitos relativos a la estructura general y las características generales del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F1</td>
+<td class="cuerpo_tabla_izq">Emplazamiento de la placa de matrícula.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F2</td>
+<td class="cuerpo_tabla_izq">Desplazamiento en marcha atrás.</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F3</td>
+<td class="cuerpo_tabla_izq">Cerraduras y bisagras de las puertas.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F4</td>
+<td class="cuerpo_tabla_izq">Escalones, asideros y estribos.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F5</td>
+<td class="cuerpo_tabla_izq">Salientes exteriores.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F6</td>
+<td class="cuerpo_tabla_izq">Salientes exteriores de cabinas de vehículos comerciales.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F7</td>
+<td class="cuerpo_tabla_izq">Placa reglamentaria y número de bastidor.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F8</td>
+<td class="cuerpo_tabla_izq">Dispositivos de remolque.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F9</td>
+<td class="cuerpo_tabla_izq">Guardabarros.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F10</td>
+<td class="cuerpo_tabla_izq">Sistemas antiproyección.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F11</td>
+<td class="cuerpo_tabla_izq">Masas y dimensiones.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B.</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F12</td>
+<td class="cuerpo_tabla_izq">Dispositivos mecánicos de acoplamiento.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F13</td>
+<td class="cuerpo_tabla_izq">Vehículos destinados al transporte de mercancías peligrosas.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F14</td>
+<td class="cuerpo_tabla_izq">Estructura general de los autobuses.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F15</td>
+<td class="cuerpo_tabla_izq">Resistencia de la superestructura de los autobuses.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F16</td>
+<td class="cuerpo_tabla_izq">Inflamabilidad en los autobuses.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">G. Requisistos relativos a la eficacia medioambiental y emisiones</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G1</td>
+<td class="cuerpo_tabla_izq">Nivel sonoro.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G2</td>
+<td class="cuerpo_tabla_izq">Emisiones del tubo de escape del vehículo en el laboratorio.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G2a</td>
+<td class="cuerpo_tabla_izq">Determinación de las emisiones específicas de CO2 y del consumo de combustible del vehículo y dispositivo de monitorización a bordo del consumo de combustible o de energía eléctrica.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G3</td>
+<td class="cuerpo_tabla_izq">Emisiones del tubo de escape del motor en el laboratorio.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G3a</td>
+<td class="cuerpo_tabla_izq">Determinación de las emisiones específicas de CO2 y del consumo de combustible del vehículo.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G4</td>
+<td class="cuerpo_tabla_izq">Emisiones del tubo de escape en carretera.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G5</td>
+<td class="cuerpo_tabla_izq">Durabilidad de las emisiones del tubo de escape.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G6</td>
+<td class="cuerpo_tabla_izq">Emisiones del cárter.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G7</td>
+<td class="cuerpo_tabla_izq">Emisiones de evaporación.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G8</td>
+<td class="cuerpo_tabla_izq">Emisiones del tubo de escape a baja temperatura en el laboratorio.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G9</td>
+<td class="cuerpo_tabla_izq">Diagnóstico a bordo.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G10</td>
+<td class="cuerpo_tabla_izq">Ausencia de dispositivo de desactivación.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G11</td>
+<td class="cuerpo_tabla_izq">Estrategias auxiliares sobre emisiones.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G12</td>
+<td class="cuerpo_tabla_izq">Protección contra la manipulación.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G13</td>
+<td class="cuerpo_tabla_izq">Aptitud para el reciclado.</td>
+<td class="cuerpo_tabla_centro">NA</td>
+<td class="cuerpo_tabla_centro">NA</td>
+<td class="cuerpo_tabla_centro">NA</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G14</td>
+<td class="cuerpo_tabla_izq">Sistemas de aire acondicionado.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G16</td>
+<td class="cuerpo_tabla_izq">Determinación de la potencia.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G17</td>
+<td class="cuerpo_tabla_izq">Funcionamiento de sistemas que usan reactivo y sistemas de control de contaminación.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G18</td>
+<td class="cuerpo_tabla_izq">Monitorización a bordo, visualización a bordo de datos medioambientales y pasaporte medioambiental.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">H. Requisistos relativos al acceso a la información relativa al vehículo y actualizaciones de software</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">H1</td>
+<td class="cuerpo_tabla_izq">Acceso a la información sobre el sistema DAB del vehículo y a la información sobre la reparación y el mantenimiento del vehículo.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">H2</td>
+<td class="cuerpo_tabla_izq">Actualizaciones de software.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="5">
+<p class="cita">Leyenda:</p>
+<p class="cita">X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo UE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.</p>
+<p class="cita">A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.</p>
+<p class="cita">B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.</p>
+<p class="cita">C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.</p>
+<p class="cita">H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción.</p>
+<p class="cita">N/A: Este acto normativo no es aplicable (ningún requisito).</p>
+<p class="cita">RGV: Reglamento general de vehículos.</p>
+<p class="cita">(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los anexos I y II del Real Decreto 2028/1986.</p>
+<p class="cita">(1) Subconjunto electrónico.</p>
+<p class="cita">(2) Componente, UTI (Unidad técnica independiente).</p>
+<p class="cita">(3) Vehículo.</p>
+<p class="cita">(4) Prescripciones de instalación.</p>
+<p class="cita">(5) En el caso de vehículos singulares, la autoridad de homologación podrá eximir de alguno de los requisitos de los actos reglamentarios exigidos a condición de que el fabricante justifique la inaplicabilidad de dicho requisito en su caso concreto. Un servicio técnico deberá certificar dicha inaplicabilidad.</p>
+<p class="cita">(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes deberán disponer de su homologación CEPE/ONU o equivalente.</p>
+<p class="cita">(7) No aplicable.</p>
+<p class="cita">(8) Los Actos Reglamentarios o requisitos exigibles para cada categoría serán los mencionados en los correspondientes anexos de la Directiva o el Reglamento de la Unión Europea vigentes en la materia. Las simplificaciones y consideraciones específicas aceptadas en una categoría o subcategoría de vehículo para la homologación de serie corta europea, homologación individual europea y homologación europea de vehículo especial, serán también aceptadas en la serie corta nacional y en la homologación individual nacional.</p>
+<p class="cita">(9) Si está instalado.</p>
+<p class="cita">(10) El cumplimiento es obligatorio en el caso de los vehículos automatizados.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+> Se sustituye por el que aparece como anexo II de la Orden PJC/528/2026, de 26 de mayo, según establece su art. 3.1. [Ref. BOE-A-2026-11580](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11580)
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## ANEXO IV — Vehículos de las categorías O1, O2, O3 y O4
+
+(Homologación Nacional de Tipo, Homologación de Tipo de Serie Corta nacional y Homologación Individual)
+
+Índice
+
+Apéndice 1: Generalidades.
+
+Parte I: Definición según categorías de: Tipo, Variante y Versión
+
+Parte II: Modelos de números de homologación.
+
+Apéndice 2: Homologación nacional de tipo. No procede
+
+Apéndice 3: Serie Corta Nacional.
+
+Parte I: Campo de aplicación.
+
+Parte II: Ficha de características.
+
+Parte III: Modelo de ficha reducida.
+
+Parte IV: Matriz de combinaciones de: Tipo/Variante/Versión (TVV).
+
+Parte V: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 4: Homologación individual.
+
+Parte I: Campo de aplicación.
+
+Parte II: Modelo de ficha reducida.
+
+Parte III: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 5: Lista de actos reglamentarios exigidos para la homologación de vehículos en serie corta nacional y homologación individual.
+
+Parte I: Vehículos de las categorías O1, O2, O3 y O4.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 1 — Generalidades
+
+**PARTE I**
+
+**Definición según categorías de: Tipo, variante y versión**
+
+1\. Para los fines de las categorías O1, O2, O3 y O4:
+
+Serán de aplicación los criterios para los tipos, variantes y versiones establecidos en la Directiva o el Reglamento de la Unión Europea vigente en la materia.
+
+**PARTE II**
+
+**Modelos de números de homologación**
+
+Homologación Nacional de Tipo:
+
+No procede.
+
+Serie Corta Nacional:
+
+Para todas las Categorías y Vehículos incompletos, completos y las diferentes fases de completado.
+
+e9*NKS*xxxxx*xx
+
+Constará de cuatro secciones separadas por un asterisco,
+
+Primera sección: «e9»
+
+Segunda sección: «NKS»
+
+Tercera sección: Una secuencia numérica de al menos cinco dígitos que indica el número de homologación de base.
+
+Cuarta sección: Una secuencia numérica de dos dígitos que indique la extensión. La secuencia empezará a partir de 00 para cada número de homologación de base.
+
+En los casos de corrección que no implican extensión, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+Homologación Individual:
+
+HID-xxxxx: Vehículo completo/completado
+
+Constará de los caracteres HI seguida de la letra identificativa de la categoría y seguidos de una secuencia numérica de al menos cinco dígitos, que indicará el número de aprobación individual.
+
+En los casos de corrección, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 2 — Homologación Nacional de Tipo (Categorías O)
+
+No procede.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 3 — Serie Corta Nacional (Categorías O1, O2, O3 y O4.)
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice se extiende a los tipos de vehículos incompletos, completos y completados, pertenecientes a las categorías O1, O2, O3 y O4, definidos en la Directiva o el Reglamento de la Unión Europea vigente en la materia.
+
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice I de este anexo.
+
+Los límites de cantidad de los vehículos producidos en serie corta nacional serán los establecidos en la Directiva o el Reglamento de la Unión Europea vigente en la materia.
+
+**PARTE II**
+
+**Ficha de características**
+
+Se aportará la información que figura a continuación, la cual irá acompañada de una lista de los elementos incluidos. Los planos y fotografías, en su caso, se presentarán a la escala adecuada, suficientemente detallados.
+
+En el caso de vehículos completados, se cumplimentarán todos los epígrafes, incluidos los correspondientes al vehículo de la fase anterior, mencionando la correspondencia entre ambas fases
+
+(Se rellenarán todos los epígrafes a excepción de los campos que no procedan en función de la categoría del vehículo, en los que se indicará N.A.)
+
+**PARTE III**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de fichas reducidas son los establecidos en este apéndice.
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Según lo establecido en este apéndice.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Se seguirá el formato definido en este apéndice.
+
+**PARTE II**
+
+**Ficha de características**
+
+| Epígrafe | Ficha de características. Categoría O |
+|---|---|
+| 0. | GENERALIDADES |
+| 0.1. | Marca (razón social del fabricante) del vehículo: |
+| 0.2. | Tipo |
+| 0.2.1. | Denominación comercial (si está disponible): |
+| 0.2.2 | Tipo:<br>Variante(s):<br>Versión o versiones:<br>Para los vehículos que han recibido una homologación multifásica, información sobre la homologación de tipo del vehículo de base o del vehículo en la fase anterior (enumere la información para cada fase. Para ello puede utilizarse una matriz) (en caso de vehículo completado, indicar la fase de fabricación):<br>Número de homologación (si procede) del vehículo de base (incluido el número de extensión): |
+| 0.2.2.1 | Descripción del vehículo incompleto/completo/completado |
+| 0.3. | Medio de identificación del tipo de vehículo, si está marcado en él (b) |
+| 0.3.1. | Emplazamiento de estas marcas: |
+| 0.4. | Categoría de vehículo (c): |
+| 0.4.1. | Clasificación según las mercancías peligrosas a cuyo transporte se destine: |
+| 0.5. | Nombre y dirección del fabricante del vehículo completo: |
+| 0.5.1 | Nombre y dirección del fabricante del vehículo de base: |
+| 0.5.2 | Nombre y dirección del fabricante del vehículo incompleto: |
+| 0.5.3 | Nombre y dirección del fabricante del vehículo completado: |
+| 0. 8. | Nombre y direcciones de las plantas de montaje: |
+| 0.9 | Nombre y dirección del representante del fabricante (en su caso): |
+| 1. | CARACTERÍSTICAS GENERALES DE CONSTRUCCIÓN DEL VEHÍCULO |
+| 1.1. | Fotografías o planos de un vehículo representativo |
+| 1.3. | Número de ejes y ruedas: |
+| 1.3.1 | Número y localización de los ejes de ruedas gemelas: |
+| 1.3.2. | Número y localización de los ejes de dirección: |
+| 1.4. | Bastidor (en su caso), plano general: |
+| 1.9 | Especifique si el vehículo tractor está destinado a arrastrar semirremolques, u otros remolques y si el remolque es un semirremolque, un remolque con barra de tracción, un remolque de eje central o un remolque con barra de tracción rígida. |
+| 1.10 | Especifique si el vehículo está diseñado especialmente para el transporte de mercancías a temperatura controlada |
+| 2. | MASAS Y DIMENSIONES (f) (g) (7) (en kg y mm) (con referencia a los dibujos, en su caso) |
+| 2.1. | Distancias entre ejes (plena carga) <sup>(g1)</sup>: |
+| 2.1.1 | Vehículos de dos ejes |
+| 2.1.2. | Vehículos de tres o más ejes |
+| 2.1.2.1. | Distancia entre ejes consecutivos, desde el eje más adelantado hasta el eje de cola: |
+| 2.1.2.2 | Distancia total entre ejes: |
+| 2.3.1. | Vía de cada eje de dirección (i) (g<sup>4</sup>): |
+| 2.3.2. | Vía de los demás ejes (i) (g<sup>4</sup>): |
+| 2.4. | Gama de dimensiones (generales) del vehículo |
+| 2.4.1. | Para bastidor sin carrocería |
+| 2.4.1.1 | Longitud (g<sup>5</sup>): |
+| 2.4.1.1.1. | Longitud máxima autorizada: |
+| 2.4.1.1.2. | Longitud mínima autorizada: |
+| 2.4.1.1.3 | En el caso de los remolques, longitud máxima autorizada de la barra de tracción (g<sup>6</sup>). |
+| 2.4.1.2. | Anchura (g<sup>7</sup>): |
+| 2.4.1.2.1. | Anchura máxima autorizada: |
+| 2.4.1.2.2. | Anchura mínima autorizada: |
+| 2.4.1.3. | Altura (en orden de marcha) (en caso de suspensión regulable en altura, indique la posición normal de marcha) |
+| 2.4.1.5. | Voladizo trasero: |
+| 2.4.2. | Para bastidor con carrocería |
+| 2.4.2.1. | Longitud (g<sup>5</sup>): |
+| 2.4.2.1.1. | Longitud de la zona de carga: |
+| 2.4.2.1.2. | En el caso de los remolques, longitud máxima autorizada de la barra de tracción (g<sup>6</sup>). |
+| 2.4.2.2. | Anchura (g<sup>7</sup>): |
+| 2.4.2.2.1 | Espesor de las paredes (en caso de vehículos destinados al transporte de mercancías a temperatura controlada): |
+| 2.4.2.3. | Altura (en orden de marcha) <sup>(g8)</sup> (en caso de suspensión regulable en altura, indique la posición normal de marcha): |
+| 2.6. | Masa del vehículo con carrocería y, en caso de vehículo tractor no perteneciente a la categoría M1, con dispositivo de enganche, si lo ha instalado el fabricante, en orden de marcha, o masa del bastidor o del bastidor con cabina, sin carrocería ni dispositivo de enganche si el fabricante no los instala (incluidos líquidos, herramientas y rueda de repuesto, si están instalados, y el conductor y, en caso de autobuses y autocares, un miembro de la tripulación si el vehículo dispone de un asiento para él) (máximo y mínimo de cada variante):<br>Masa en orden de marcha (h)<br>a) Mínima y máxima de cada variante<br>b) Masa de cada variante (debe facilitarse un cuadro) |
+| 2.6.1. | Distribución de esta masa entre los ejes y, en el caso de un semirremolque, de un remolque con barra de tracción rígida o un remolque de eje central, la masa el punto de acoplamiento:<br>a) Mínima y máxima de cada variante<br>b) Masa de cada variante (debe facilitarse un cuadro) |
+| 2.6.2 | Masa del equipamiento opcional (según la definición del artículo 2, punto 5, del Reglamento (UE) n.º 1230/2012): |
+| 2.7. | Masa mínima del vehículo completado declarada por el fabricante, en caso de un vehículo incompleto: |
+| 2.8. | Masa máxima de carga técnicamente admisible declarada por el fabricante (i) (3): |
+| 2.8.1. | Distribución de esta masa entre los ejes y, en caso de un semirremolque o remolque de eje central, carga sobre el punto de acoplamiento (3): |
+| 2.9. | Masa máxima técnicamente admisible por cada eje: |
+| 2.10 | Masa máxima técnicamente admisible sobre cada grupo de ejes: |
+| 2.12. | Masa máxima técnicamente admisible en el punto de acoplamiento: |
+| 2.12.2. | De un semirremolque, o de un remolque de eje central o de un remolque con barra de tracción rígida: |
+| 2.16. | Masas máximas admisibles para la matriculación/circulación (optativo) |
+| 2.16.1. | Masa máxima en carga admisible para la matriculación/circulación |
+| 2.16.2. | Masa máxima admisible sobre cada eje para la matriculación/circulación y, en el caso de un semirremolque o remolque de eje central, carga prevista en el punto de acoplamiento declarada por el fabricante si es inferior a la masa máxima técnicamente admisible sobre el punto de acoplamiento |
+| 2.16.3. | Masa máxima admisible sobre cada grupo de ejes para la matriculación/circulación |
+| 2.16.4 | Masa remolcable máxima admisible prevista para matriculación/circulación (se admiten varias indicaciones para cada configuración técnica (5): |
+| 4 | TRANSMISIÓN |
+| 4.17 | Velocidad máxima del vehículo (km/h) (q) |
+| 5. | EJES |
+| 5.1. | Descripción de cada eje: |
+| 5.2. | Marca: |
+| 5.3. | Tipo: |
+| 5.4. | Posición del eje o ejes retráctiles: |
+| 5.5. | Posición del eje o ejes cargables: |
+| 6. | SUSPENSIÓN |
+| 6.2. | Tipo y constitución de la suspensión de cada eje o grupo de ejes o rueda: |
+| 6.2.1. | Regulación de altura: sí/no/optativo (1) |
+| 6.2.4 | Suspensión neumática en el eje o ejes no direccionales: sí/no (1) |
+| 6.2.4.1 | Suspensión del eje o ejes no direccionales equivalente a la suspensión neumática: sí/no (1) |
+| 6.6.1. | Combinación o combinaciones de neumático y rueda (para los neumáticos indique la denominación del tamaño, su índice mínimo de capacidad de carga y el símbolo de la categoría de velocidad mínima; para las ruedas indique tamaños de las llantas y bombeos) (r) |
+| 6.6.1.1. | Ejes |
+| 6.6.1.1.1. | Eje 1: |
+| 6.6.1.1.2. | Eje 2, etc.: |
+| 6.6.1.2 | Rueda de repuesto, si la hubiera: |
+| 6.6.2. | Límites superior e inferior de los radios de rodadura |
+| 6.6.2.1. | Eje 1: |
+| 6.6.2.2. | Eje 2, etc.: |
+| 7. | DIRECCIÓN |
+| 7.2. | Transmisión y mando |
+| 7.2.1. | Tipo de transmisión (en su caso, indique si es delantera o trasera): |
+| 7.2.2. | Transmisión a las ruedas (incluidos los medios no mecánicos; en su caso, indique si es delantera o trasera): |
+| 7.2.3. | Tipo de asistencia (si la hubiera): |
+| 8. | FRENOS |
+| 8.5. | Sistema antibloqueo de frenos: sí/no/optativo (1) |
+| 8.9. | Breve descripción de los dispositivos de frenado (de acuerdo con la normativa aplicable): |
+| 9. | CARROCERÍA |
+| 9.0.1. | Para homologación de vehículos completados será necesario presentar un certificado de acuerdo de colaboración entre los fabricantes de las distintas fases. |
+| 9.0.2. | Para homologación de vehículos completados será necesario presentar un informe con la definición del sobrechasis, su interconexión con el vehículo base y el cálculo estructural |
+| 9.1. | Tipo de carrocería (según Directiva o Reglamento de la Unión Europea vigente en la materia) |
+| 9.17. | Placas reglamentarias |
+| 9.17.1. | Fotografías o planos de la localización de las placas e inscripciones reglamentarias y del número de identificación del vehículo: |
+| 9.17.2 | Fotografías o planos de la placa e inscripciones reglamentarias (ejemplo completo con dimensiones): |
+| 9.17.3 | Fotografías o planos del número de identificación del vehículo (ejemplo completo con dimensiones): |
+| 9.17.4.1. | Se explicará el significado de los caracteres de la segunda sección, y en su caso en la tercera, utilizados para cumplir los requisitos de la sección 5.3 de la norma ISO 3779:2011: |
+| 9.17.4.2. | Si los caracteres de la segunda sección tienen como objetivo cumplir los requisitos de la sección 5.4 de la norma ISO 3779:2011, se indicarán dichos caracteres: |
+| 10. | DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA (Adjuntar esquema exterior del vehículo con el emplazamiento acotado de su instalación) |
+| 10.1. | Dispositivos obligatorios (Número, color y marca de homologación) |
+| 10.2. | Dispositivos facultativos (Número, color y marca de homologación) |
+| 11. | UNIONES ENTRE VEHÍCULOS TRACTORES Y REMOLQUES O SEMIRREMOLQUES |
+| 11.1. | Clase y tipo del dispositivo o dispositivos de acoplamiento instalados o por instalar: |
+| 11.5. | Número(s) de homologación de tipo: |
+
+Notas explicativas:
+
+(1) Tache lo que no proceda (en algunos casos no es necesario tachar nada, si es aplicable más de una opción).
+
+(2) Especifique la tolerancia.
+
+(3) Sírvase anotar aquí los valores superiores e inferiores de cada variante.
+
+(5) De modo que el valor efectivo aparezca claramente para cada configuración técnica del tipo de vehículo.
+
+(a) Para cada apartado al que se adjunten planos o fotografías, indique la numeración de los documentos correspondientes.
+
+(b) Si el medio de identificación del tipo contiene caracteres no pertinentes para la descripción del vehículo, componente o unidad técnica independiente a que se refiere esta ficha, tales caracteres se sustituirán en la documentación por el símbolo: "?" (por ejemplo, ABC??123??). Los puntos que puedan combinarse sin restricciones dentro de una variante se enumerarán en la columna «todos».
+
+(c) Clasificación con arreglo a las definiciones que figuran en la Directiva o el Reglamento de la Unión Europea vigente en la materia.
+
+(g<sup>1</sup>) Vehículo de motor y remolque con barra de tracción: término 6.4.1. Semirremolque y remolque de eje central: término 6.4.2. Nota: en caso de un remolque de eje central, el eje del enganche se considerará el eje más adelantado.
+
+(g<sup>4</sup>) Término 6.5.
+
+(g<sup>5</sup>) Término 6.1. y, para vehículos distintos de los de la categoría M1 (de acuerdo con la normativa aplicable de Masas y Dimensiones). En el caso de los remolques, se especificarán las longitudes según lo mencionado en el término 6.1.2. de la Norma ISO 612:1978.
+
+(g<sup>6</sup>) Término 6.17
+
+(g<sup>7</sup>) Término 6.2 y, para vehículos distintos de los de la categoría M1 (de acuerdo con la normativa aplicable de Masas y Dimensiones).
+
+(g<sup>8</sup>) Término 6.3 y, para vehículos distintos de los de la categoría M1 (de acuerdo con la normativa aplicable de Masas y Dimensiones).
+
+(h) Los sistemas que contienen líquidos (excepto los destinados al agua usada, que deben permanecer vacíos) se llenan al 100% de la capacidad especificada por el fabricante.
+
+No es necesario facilitar la información a la que se refieren los puntos 2.6, letra b), y 2.6.1, letra b), si se trata de vehículos de las categorías N2, N3, M2, M3, O3 y O4.
+
+(i) Para remolques y semirremolques (y para vehículos enganchados a un remolque o semirremolque) que ejerzan una carga vertical significativa en el dispositivo de enganche o la quinta rueda, se incluirá esta carga, dividida por la aceleración normal de la gravedad, en la masa máxima técnicamente admisible.
+
+(j) El "voladizo de enganche" es la distancia horizontal entre el enganche de los remolques con el eje central y la línea central del eje o ejes posteriores.
+
+(q) Para los remolques, velocidad máxima permitida por el fabricante
+
+En cualquier caso, se cumplirá con las últimas modificaciones en vigor de las referencias normativas.
+
+**PARTE III**
+
+**Modelo de ficha reducida**
+
+Categoría O incompleto/completo/completado
+
+En el caso de vehículos completados, se cumplimentarán todos los epígrafes, incluidos los correspondientes al vehículo de la fase anterior, mencionando la correspondencia entre ambas fases, si no se completan los datos técnicos del vehículo de base, se acompañará la Ficha Reducida del vehículo de base.
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Ficha Reducida. Vehículos de categoría O</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Marca</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Tipo / variante / versión</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="cuerpo_tabla_izq">En caso de homologación de vehículo completado se indicará: Tipo/Variante/Versión del vehículo de base (igual que en Ficha de</p>
+<p class="cuerpo_tabla_izq">Características)</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Denominación comercial</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Categoría del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del fabricante del vehículo de base:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del fabricante de la última fase de fabricación del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento de la placa del fabricante</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Parte fija VIN</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento del número de identificación del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Vehículo de base:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Número de homologación CE:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Fecha:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Vehículo completo/completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Números de homologación</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Fecha</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">CONSTITUCIÓN GENERAL DEL VEHÍCULO</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">N.º de ejes y ruedas</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MASAS Y DIMENSIONES</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Distancia entre ejes</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Vía del eje 1.º / 2.º / 3.º</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Longitud</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Longitud máxima admisible del vehículo completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Distancia entre el centro del dispositivo de enganche y el borde trasero del vehículo:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Longitud de la zona de carga: …</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Anchura</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Anchura máxima admisible del vehículo completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Altura</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Altura del centro de gravedad (c.d.g.)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Altura máxima admisible del c.d.g. del vehículo completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Altura mínima admisible del c.d.g. del vehículo completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Superficie del suelo cubierta por el vehículo (sólo O2, O3 y O4):...... m²</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Voladizo trasero</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa del vehículo con carrocería en orden de marcha</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa del bastidor desnudo:...... kg</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa mínima admisible del vehículo completado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Distribución de esta masa entre los ejes</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa máxima en carga técnicamente admisible (MMTA)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa máxima en carga admisible prevista para matriculación/circulación (MMA)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Distribución de esta masa entre los ejes y, en el caso de un semirremolque o de un remolque de eje central, masa sobre el punto de acoplamiento: 1.... kg 2.... kg 3....kg punto de acoplamiento:... kg</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Masa técnicamente admisible en cada eje o grupo de ejes: 1....... kg 2....... kg 3....... kg, y, en caso de un semirremolque o un remolque de eje central, masa sobre el punto de acoplamiento:...... kg</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Posición del eje o ejes retráctiles o cargables:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">En caso de los dispositivos de acoplamiento de las clases B, D, E y H: masa máxima del vehículo tractor (T) o de la combinación de vehículos (si T &lt; 32 000 kg):...... kg</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">SUSPENSIÓN</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Neumáticos y ruedas (características principales)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Eje o ejes equipados de suspensión neumática o sistema equivalente: sí/no (1)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">DIRECCIÓN</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Dirección, método de asistencia</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">FRENADO</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Breve descripción del dispositivo de frenado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">CARROCERÍA</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Tipo de carrocería (según Directiva o Reglamento de la Unión Europea vigente en la materia)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Capacidad del depósito (sólo vehículos cisterna):...... m³</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Dispositivos luminosos obligatorios (Número, color y marca de homologación)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Dispositivos luminosos facultativos (Número, color y marca de homologación)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">VARIOS</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Marca de homologación del dispositivo de enganche</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Tipos o clases de dispositivos de enganche que pueden instalarse:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Valores característicos (1): D…… / V…… / S…… / U……</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Homologación de tipo CE de acuerdo con los requisitos de diseño referentes al transporte de mercancías peligrosas: sí (clase: …) / no (1)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Homologación de tipo CE de acuerdo con los requisitos de diseño referentes al transporte de determinados animales: sí (clase: …) / no (1)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Observaciones</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Opciones incluidas en la homologación de tipo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Excepciones</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Firma autorizada según el RFFR</td>
+</tr>
+</tbody>
+</table>
+
+**PARTE IV**
+
+**Matriz de diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Se describirán, para cada variante, las diferentes combinaciones de versiones correspondientes al tipo.
+
+Cada variante y cada versión deberán identificarse mediante un código numérico o alfanumérico que deberá indicar el vehículo que se trate. En el caso de vehículos completados, dicha codificación permitirá identificar el TVV de base sobre el que se realiza el completado.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+| Asunto | Número de homologación | Variantes / Versiones |
+|---|---|---|
+|  |  |  |
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 4 — Homologación Individual (Categoría O.)
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice se extiende a: los vehículos, los vehículos completos o completados de última fase, los vehículos especiales y a los vehículos singulares, todos ellos pertenecientes a las categorías O1, O2, O3 y O4 según se definen en la Directiva o el Reglamento de la Unión Europea vigente en la materia.
+
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
+
+**PARTE II**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de fichas reducidas son los establecidos en la parte III del apéndice 3.
+
+**PARTE III**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en la parte V del apéndice 3.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 5 — Lista de requisitos exigidos para la homologación de vehículos en series cortas nacionales y homologación individual
+
+(Vehículos de categoría O)
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="centro_negrita">Parte I</p>
+</caption>
+<colgroup>
+<col width="5%">
+<col width="62%">
+<col width="11%">
+<col width="11%">
+<col width="11%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">N.º</th>
+<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (8) (*) (H)</th>
+<th class="cabeza_tabla" rowspan="2">Serie Corta Nacional</th>
+<th class="cabeza_tabla" colspan="2">Homologación Individual</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Completo</th>
+<th class="cabeza_tabla">Completados</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">A. Requisitos relativos a los sistemas de retención, los ensayos de colisión, la integridad del sistema de combustible y la seguridad eléctrica de alta tensión</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A12</td>
+<td class="cuerpo_tabla_izq">Protección trasera contra el empotramiento.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) B (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A13</td>
+<td class="cuerpo_tabla_izq">Protección lateral.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">A14</td>
+<td class="cuerpo_tabla_izq">Seguridad del depósito de combustible Reglamento.</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">B. Requisitos relativos a los usuarios vulnerables de la vía pública, la visión y la visibilidad</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">B10</td>
+<td class="cuerpo_tabla_izq">Acristalamiento de seguridad.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">C. Requisitos relativos al chasis, el frenado, los neumáticos y la dirección del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C1</td>
+<td class="cuerpo_tabla_izq">Mecanismo de dirección.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C4</td>
+<td class="cuerpo_tabla_izq">Frenado.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C5</td>
+<td class="cuerpo_tabla_izq">Piezas de frenado de repuesto.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C7</td>
+<td class="cuerpo_tabla_izq">Control de estabilidad (–).</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C10</td>
+<td class="cuerpo_tabla_izq">Seguridad de los neumáticos y eficacia medioambiental.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C12</td>
+<td class="cuerpo_tabla_izq">Neumáticos recauchutados.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C14</td>
+<td class="cuerpo_tabla_izq">Control de la presión de los neumáticos en vehículos pesados.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C15</td>
+<td class="cuerpo_tabla_izq">Instalación de los neumáticos.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">A (6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">C16</td>
+<td class="cuerpo_tabla_izq">Ruedas de repuesto.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">D. Requisitos relativos a los instrumentos de a bordo, el sistema eléctrico, las luces del vehículo y la protección frente al uso no autorizado, incluidos ciberataques</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D2</td>
+<td class="cuerpo_tabla_izq">Interferencias de radio (compatibilidad electromagnética).</td>
+<td class="cuerpo_tabla_centro">A (3)(6)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">A (3)(6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D10</td>
+<td class="cuerpo_tabla_izq">Sistemas de calefacción.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D11</td>
+<td class="cuerpo_tabla_izq">Dispositivos de señalización luminosa.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D13</td>
+<td class="cuerpo_tabla_izq">Dispositivos catadióptricos.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D14</td>
+<td class="cuerpo_tabla_izq">Fuentes luminosas.</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">D15</td>
+<td class="cuerpo_tabla_izq">Instalación de dispositivos de señalización luminosa, de alumbrado de carretera y catadióptricos.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4)(6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">F. Requisitos relativos a la estructura general y las características generales del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F1</td>
+<td class="cuerpo_tabla_izq">Emplazamiento de la placa de matrícula.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F7</td>
+<td class="cuerpo_tabla_izq">Placa reglamentaria y número de bastidor.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F10</td>
+<td class="cuerpo_tabla_izq">Sistemas antiproyección.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) B (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F11</td>
+<td class="cuerpo_tabla_izq">Masas y dimensiones.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F12</td>
+<td class="cuerpo_tabla_izq">Dispositivos mecánicos de acoplamiento.</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">F13</td>
+<td class="cuerpo_tabla_izq">Vehículos destinados al transporte de mercancías peligrosas.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">G. Requisistos relativos a la eficacia medioambiental y emisiones</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">G3b</td>
+<td class="cuerpo_tabla_izq">Determinación del rendimiento específico en materia de eficiencia energética del remolque.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">H. Requisistos relativos al acceso a la información relativa al vehículo y actualizaciones de software</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">H1</td>
+<td class="cuerpo_tabla_izq">Acceso a la información sobre el sistema DAB del vehículo y a la información sobre la reparación y el mantenimiento del vehículo.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">H2</td>
+<td class="cuerpo_tabla_izq">Actualizaciones de software.</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="5">
+<p class="cita">Leyenda:</p>
+<p class="cita">X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo CE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.</p>
+<p class="cita">A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.</p>
+<p class="cita">B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.</p>
+<p class="cita">C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.</p>
+<p class="cita">H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción.</p>
+<p class="cita">N/A: Este acto normativo no es aplicable (ningún requisito).</p>
+<p class="cita">RGV: Reglamento general de vehículos.</p>
+<p class="cita">(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los anexos I y II del Real Decreto 2028/1986.</p>
+<p class="cita">(1) Subconjunto electrónico.</p>
+<p class="cita">(2) Componente, UTI (Unidad técnica independiente).</p>
+<p class="cita">(3) Vehículo.</p>
+<p class="cita">(4) Prescripciones de instalación.</p>
+<p class="cita">(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes deberán disponer de su homologación CEPE/ONU o equivalente.</p>
+<p class="cita">(7) No aplicable.</p>
+<p class="cita">(8) Los Actos Reglamentarios o requisitos exigibles para cada categoría serán los mencionados en los correspondientes anexos de la Directiva o el Reglamento de la Unión Europea vigentes en la materia. Las simplificaciones y consideraciones específicas aceptadas en una categoría o subcategoría de vehículo para la homologación de serie corta europea, homologación individual europea y homologación europea de vehículo especial serán también aceptadas en la serie corta nacional y en la homologación individual nacional.</p>
+<p class="cita">(9) Si está instalado.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+> Se sustituye por el que aparece como anexo III de la Orden PJC/528/2026, de 26 de mayo, según establece su art. 3.2. [Ref. BOE-A-2026-11580](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11580)
+
+> Se añade, con efectos de 2 de enero de 2019, por la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## ANEXO V — Homologación Nacional de Vehículos
+
+Anexo Técnico sobre Homologación Nacional de Tractores de Ruedas y Tractores de Cadenas
+
+(Incluye: Homologación Nacional de Tipo, Homologación de Tipo Serie Corta Nacional y Homologación Individual)
+
+Índice
+
+Apéndice 1: Generalidades.
+
+Parte I: Definición según categorías de: Tipo, Variante y Versión.
+
+Parte II: Modelos de números de homologación.
+
+Apéndice 2: Homologación nacional de tipo.
+
+Parte I: Campo de aplicación.
+
+Parte II: Ficha de características.
+
+Parte III: Modelos de fichas reducidas.
+
+Parte IV: Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)
+
+Parte V: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 3: Serie corta nacional.
+
+Parte I: Campo de aplicación.
+
+Parte II: Ficha de características.
+
+Parte III: Modelos de fichas reducidas.
+
+Parte IV: Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)
+
+Parte V: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 4: Homologación Individual.
+
+Parte I: Campo de aplicación.
+
+Parte II: Modelos de fichas reducidas.
+
+Parte III: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 5: Lista de requisitos exigidos para la homologación nacional de tipo, serie corta nacional y homologación individual.
+
+Parte I: Homologación nacional de tipo de las categorías T4.1 y T4.2 (subcategorías a y b).
+
+Parte II: Serie corta nacional de las categorías T1, T2, T3, T4.1, T4.2 y T4.3 (subcategorías a y b).
+
+Parte III: Homologación individual de las categorías T1, T2, T3, T4.1, T4.2 y T4.3 (subcategorías a y b).
+
+Parte IV: Homologación nacional de tipo de las categorías C1, C2, C3, C4.1, C4.2 y C4.3 (subcategorías a y b).
+
+Parte V: Serie corta nacional de las categorías C1, C2, C3, C4.1, C4.2 y C4.3 (subcategorías a y b).
+
+Parte VI: Homologación individual de las categorías C1, C2, C3, C4.1, C4.2 y C4.3 (subcategorías a y b).
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 1 — Generalidades
+
+**PARTE I**
+
+**Definición según categorías de: Tipo, variante y versión**
+
+Para los fines de las categorías T y C:
+
+Serán de aplicación los criterios para los tipos, variantes y versiones establecidos en el Reglamento de la Unión Europea vigente en la materia.
+
+**PARTE II**
+
+**Modelos de números de homologación**
+
+Homologación Nacional de Tipo:
+
+Para todas las Categorías y Vehículos incompletos, completos y las diferentes fases de completado.
+
+Categorías T4.1 y T4.2:
+
+T-xxxxx*xx: Vehículo completo/completado.
+
+TI-xxxxx*xx: Vehículo incompleto y las diferentes fases de completado.
+
+Categorías C1, C2, C3, C4.1, C4.2 y C4.3:
+
+C-xxxxx*xx: Vehículo completo/completado.
+
+CI-xxxxx*xx: Vehículo incompleto y las diferentes fases de completado.
+
+Constará de tres secciones separadas por un asterisco.
+
+Primera sección: Constará de los caracteres T o C para vehículos completos y TI o CI para vehículos incompletos.
+
+Segunda sección: Una secuencia numérica de al menos cinco dígitos que indica el número de homologación de base.
+
+Tercera sección: Una secuencia numérica de dos dígitos que indique la extensión. La secuencia empezará a partir de 00 para cada número de homologación de base.
+
+En los casos de corrección que no implican extensión, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+Serie Corta Nacional:
+
+Todas las categorías:
+
+e9*NKS167/2013*xxxxx*xx (Vehículos incompletos, completos, y completados y las diferentes fases de completados). Constará de cuatro secciones separadas por un asterisco,
+
+Primera sección: «e9».
+
+Segunda sección: «NKS167/2013»
+
+Tercera sección: Una secuencia numérica de al menos cinco dígitos que indica el número de homologación de base.
+
+Cuarta sección: Una secuencia numérica de dos dígitos (con un cero delante si es necesario) que indique la extensión. La secuencia empezará a partir de 00 para cada número de homologación de base.
+
+En los casos de corrección que no implican extensión, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+Homologación Individual:
+
+HIT-xxxxx: Vehículos categoría T
+
+HICA-xxxxx: Vehículos categoría C
+
+Constará de los caracteres HIT o HICA seguidos de una secuencia numérica de al menos cinco dígitos, que indicará el número de aprobación individual.
+
+En los casos de corrección, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 2 — Homologación Nacional de Tipo (categorías T y C)
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice se extiende a los vehículos pertenecientes a las categorías T y C para los que no resulte de aplicación obligatoria la homologación conforme al Reglamento de la Unión Europea vigente.
+
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
+
+**PARTE II**
+
+**Ficha de características**
+
+Se aportará la información que figura a continuación, la cual irá acompañada de una lista de los elementos incluidos. Los planos y fotografías, en su caso, se presentarán a la escala adecuada, suficientemente detallados.
+
+En el caso de vehículos completados, se cumplimentarán todos los epígrafes, incluidos los correspondientes al vehículo de la fase anterior, mencionando la correspondencia entre ambas fases.
+
+(Se rellenarán todos los epígrafes a excepción los campos que no procedan en función de la categoría del vehículo, en los que se indicará N.A.).
+
+**PARTE III**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de ficha reducida son los establecidos en este apéndice.
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Según lo establecido en este apéndice.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en este apéndice.
+
+**PARTE II**
+
+**Ficha de características**
+
+| Epígrafe | Ficha de características. Categorías T y C |
+|---|---|
+| 0 | GENERALIDADES |
+| 0.1 | Marca |
+| 0.2 | Identificación |
+| 0.2.1 | Tipo |
+| 0.2.2 | Variantes |
+| 0.2.3 | Versiones |
+| 0.2.4 | Denominación comercial |
+| 0.3 | Categoría y subcategoría (4) |
+| 0.4 | Nombre y dirección del fabricante |
+| 0.5 | Nombre y dirección del representante del fabricante |
+| 0.6 | Emplazamiento y modo de colocación de las placas e inscripciones reglamentarias |
+| 0.6.1 | Emplazamiento de la placa del fabricante |
+| 0.6.2 | Emplazamiento del número de identificación del tractor |
+| 0.6.3 | Emplazamiento de la placa identificativa de la estructura de protección |
+| 0.7 | La numeración en la serie del tipo para identificación del tractor empieza en el número... |
+| 0.8 | Clasificación (1): Agrícola / Obras / Servicios |
+| 1 | CONSTITUCIÓN GENERAL DEL VEHÍCULO |
+|  | (Adjuntar fotografías del tractor, una tres cuartos delante y otra tres cuartos detrás o planos de una versión representativa y un plano acotado de todo el vehículo). |
+| 1.1 | Número de ejes y ruedas (en su caso) |
+| 1.1.1 | Número y emplazamiento de ejes con ruedas gemelas (en su caso). |
+| 1.1.2 | Número y localización de los ejes de dirección |
+| 1.1.3 | Ejes motores (número, localización, interconexión) |
+| 1.1.4 | Ejes con frenos (número y localización) |
+| 1.2 | Configuración del tren de rodaje (en su caso): conjunto de trenes de orugas delantero / conjunto de trenes de orugas trasero / conjunto de trenes de orugas delantero y trasero / tren de oruga continua a cada lado del vehículo |
+| 1.2.1 | Número y emplazamiento del conjunto de trenes de orugas motor |
+| 1.2.2 | Número y emplazamiento del conjunto de trenes de orugas con frenos |
+| 1.3 | Emplazamiento y disposición del motor. |
+| 1.4 | Puesto de conducción reversible: sí / no (1) |
+| 1.5 | Bastidor: bastidor-viga / bastidor con largueros / bastidor articulado / otro (1) |
+| 2 | DIMENSIONES Y MASAS (5) (en mm. y en kg.) |
+| 2.1 | Distancia entre ejes (8) |
+| 2.2 | Vías máximas y mínimas para cada eje (medidas entre los planos de simetría de los neumáticos sencillos o gemelos con neumáticos montados normalmente) (debe señalarlas el fabricante) (8) |
+| 2.3 | Dimensiones máximas y mínimas del tractor<br>– Con contrapesos: sí / no<br>– Con gancho delantero: sí / no |
+| 2.3.1 | Longitud (10) |
+| 2.3.2 | Anchura (11) |
+| 2.3.3 | Altura (12) |
+| 2.3.4 | Voladizo delantero (13) |
+| 2.3.5 | Voladizo trasero (14) |
+| 2.3.5.2 | Mínimo y máximo voladizo admisible del punto de acoplamiento (14) |
+| 2.3.6 | Altura libre sobre el suelo (15) |
+| 2.3.6.1 | Entre ejes |
+| 2.3.6.2 | Bajo el eje o ejes delanteros |
+| 2.3.6.3 | Bajo el eje o ejes traseros |
+| 2.4 | Masa del tractor en vacío en orden de marcha (16) incluida la estructura de protección contra el vuelco, sin accesorios opcionales, pero con liquido de refrigeración, lubricantes, combustible, herramientas y conductor (6)<br>– máxima:<br>– mínima: |
+| 2.4.1 | Reparto de esta masa entre los ejes. |
+| 2.5 | Masas de lastre (peso total, materiales y número de piezas) |
+| 2.5.1 | Reparto de estas masas entre los ejes |
+| 2.6 | Masas máximas técnicamente admisibles declaradas por el fabricante |
+| 2.6.1 | Masa máxima en carga del tractor en función de los tipos de neumáticos previstos |
+| 2.6.1.1 | Reparto de esta masa entre los ejes |
+| 2.6.2 | Masas, neumáticos y tren de rodaje |
+| 2.6.2.1 | Masas y neumáticos. Límites del reparto de esta masa entre los ejes (especificar los límites mínimos en porcentaje sobre el eje delantero y sobre el eje trasero).<br>![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173505_image2.png) |
+| 2.6.2.2 | Masas y tren de rodaje. Límites del reparto de esta masa entre los ejes (especificar los límites mínimos en porcentaje sobre el eje delantero y sobre el eje trasero).<br>![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173505_image3.png) |
+| 2.6.3 | Masas máximas autorizadas previstas |
+| 2.6.3.1 | Total |
+| 2.6.3.2 | Por ejes |
+| 2.6.3.2.1 | Primer eje |
+| 2.6.3.2.2 | Segundo eje |
+| 2.7 | Masa remolcable técnicamente admisible de vehículos de la categoría T o C correspondiente a cada configuración de chasis/frenado del vehículo de la categoría R o S:<br>Barra de tracción:<br>– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga<br>– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.<br>– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.<br>– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.<br>Barra de tracción rígida:<br>– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga<br>– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.<br>– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.<br>– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.<br>Eje central:<br>– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga<br>– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.<br>– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.<br>– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga. |
+| 2.7.1 | Masa total técnicamente admisible del conjunto tractor-vehículo remolcado (según las diferentes configuraciones de chasis/frenado del vehículo remolcado).<br>Barra de tracción:<br>– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga<br>– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.<br>– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.<br>– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.<br>Barra de tracción rígida:<br>– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga<br>– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.<br>– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.<br>– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.<br>Eje central:<br>– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga<br>– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.<br>– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.<br>– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga. |
+| 2.7.2 | Masa máxima del remolque (maquinaria intercambiable remolcada) que se puede enganchar |
+| 2.7.3 | Situación del punto de enganche: |
+| 2.7.3.1 | Altura desde el suelo: |
+| 2.7.3.1.1 | Altura máxima: |
+| 2.7.3.1.2 | Altura mínima: |
+| 2.7.3.2 | Distancia respecto al plano vertical que pasa por el centro del eje trasero |
+| 2.7.3.3 | Carga vertical estática / masa máxima técnicamente admisible en el punto de enganche del tractor |
+| 3 | MOTOR |
+| 3.1 | Parte 1 – Generalidades |
+| 3.1.0 | Velocidad máxima del vehículo |
+| 3.1.1 | Motor representativo / Tipo de motor (1) (21) Marca(s) registrada(s) por el fabricante: |
+| 3.1.2 | Tipo y denominación comercial de la familia del motor o motores (1) |
+| 3.1.2.1 | Número de homologación de tipo |
+| 3.1.3 | Medios de identificación del tipo, en caso de que esté indicado en el motor o motores, y método de colocación: |
+| 3.1.3.1 | Situación, medios de identificación y método de colocación de los caracteres de identificación del tipo de motor: |
+| 3.1.3.2 | Situación y método de colocación del número de homologación CE (en su caso): |
+| 3.1.4 | Nombre y dirección del fabricante: |
+| 3.1.5 | Principio de funcionamiento: encendido por chispa/encendido por compresión (1) inyección directa/inyección indirecta (1) ciclo en dos tiempos/cuatro tiempos (1) |
+| 3.1.6 | Combustible: gasóleo/gasolina/gas licuado de petróleo/otros (1) |
+| 3.2 | PARTE 2 – TIPO DE MOTOR<br>CARACTERÍSTICAS ESENCIALES DEL TIPO DE MOTOR |
+|  | (Datos a cumplimentar si no se dispone de datos de emisión de gases contaminantes) |
+| 3.2.1 | Descripción del motor de encendido por compresión: |
+| 3.2.1.1 | Fabricante:... |
+| 3.2.1.2 | Tipo de motor instalado por el fabricante:... |
+| 3.2.1.3 | Ciclo: cuatro tiempos / dos tiempos (1) |
+| 3.2.1.4 | Diámetro:... mm |
+| 3.2.1.5 | Carrera:... mm |
+| 3.2.1.6 | Número y disposición de los cilindros:... |
+| 3.2.1.7 | Cilindrada:... cm<sup>3</sup> |
+| 3.2.1.8 | Velocidad de máxima potencia:... min<sup>-1</sup> |
+| 3.2.1.9 | Régimen de par máximo:... min<sup>-1</sup> |
+| 3.2.1.10 | Relación volumétrica de compresión (2):... |
+| 3.2.1.11 | Sistema de combustión:... |
+| 3.2.1.12 | Plano(s) de la cámara de combustión y de la cara superior del pistón:... |
+| 3.2.1.13 | Sección mínima de los tubos de admisión y de escape:... |
+| 3.2.1.14 | Sistema de refrigeración: |
+| 3.2.1.14.1 | Líquido: |
+| 3.2.1.14.1.1 | Naturaleza del líquido:... |
+| 3.2.1.14.1.2 | Bomba(s) de circulación: con / sin (1) |
+| 3.2.1.14.1.3 | Características o marca(s) y tipo(s) (en su caso):... |
+| 3.2.1.14.1.4 | Relación o relaciones de transmisión (en su caso):... |
+| 3.2.1.14.2 | Aire: |
+| 3.2.1.14.2.1 | Ventilador: con / sin (1) |
+| 3.2.1.14.2.2 | Características o marca(s) y tipo(s) (en su caso):... |
+| 3.2.1.14.2.3 | Relación o relaciones de transmisión (en su caso):... |
+| 3.2.1.15 | Temperatura admitida por el fabricante: |
+| 3.2.1.15.1 | Refrigeración por líquido: temperatura máxima de salida:... K |
+| 3.2.1.15.2 | Refrigeración por aire: punto de referencia:... Temperatura máxima en el punto de referencia:... K |
+| 3.2.1.15.3 | Temperatura máxima del aire de alimentación en la salida del intercambiador intermedio de admisión (en su caso):... K |
+| 3.2.1.15.4 | Temperatura máxima de los gases de escape en los tubos de escape adyacentes a las bridas de salida de los colectores:... K |
+| 3.2.1.15.5 | Temperatura del lubrificante: mín.:... K, máx.:... K |
+| 3.2.1.16 | Sobrealimentación: con / sin (1) |
+| 3.2.1.16.1 | Marca:... |
+| 3.2.1.16.2 | Tipo:... |
+| 3.2.1.16.3 | Descripción del sistema (por ejemplo, presión máxima, válvula de descarga, en su caso):... |
+| 3.2.1.16.4 | Intercambiador intermedio: con / sin (1) |
+| 3.2.1.17 | Sistema de admisión: depresión máxima admisible en la entrada, en velocidad de máxima potencia del motor y con toda la carga:... kPa |
+| 3.2.1.18 | Sistema de escape: contrapresión máxima admisible a velocidad de máxima potencia del motor y con toda la carga:... kPa |
+| 3.2.2 | Dispositivos adicionales anticontaminación (si existen y no están incluidos en otro punto): |
+|  | Descripción y/o esquema(s):... |
+| 3.2.3 | Alimentación de combustible: |
+| 3.2.3.1 | Bomba de alimentación: |
+|  | Presión... kPa (2) o esquema: |
+| 3.2.3.2 | Sistema de inyección: |
+| 3.2.3.2.1 | Bomba: |
+| 3.2.3.2.1.1 | Marca(s):... |
+| 3.2.3.2.1.2 | Tipo(s):... |
+| 3.2.3.2.1.3 | Caudal(es):... mm<sup>3</sup> (2) por inyección o por ciclo en un régimen de bomba de:... min<sup>-1</sup> (velocidad de máxima potencia) y de:... min<sup>-1</sup> (par máximo) respectivamente, o esquema. |
+|  | Indíquese el método empleado: motor / banco de ensayo |
+| 3.2.3.2.1.4 | Avance de la inyección |
+| 3.2.3.2.1.4.1 | Curva de avance de la inyección (2):... |
+| 3.2.3.2.1.4.2 | Calado (2):... |
+| 3.2.3.2.2 | Tuberías de inyección: |
+| 3.2.3.2.2.1 | Longitud(es):... mm |
+| 3.2.3.2.2.2 | Diámetro interior:... mm |
+| 3.2.3.2.3 | Inyector(es): |
+| 3.2.3.2.3.1 | Marca(s):... |
+| 3.2.3.2.3.2 | Tipo(s):... |
+| 3.2.3.2.3.3 | Presión de apertura (2):... kPa, o esquema (1) |
+| 3.2.3.2.4 | Limitador: |
+| 3.2.3.2.4.1 | Marca(s):... |
+| 3.2.3.2.4.2 | Tipo(s):... |
+| 3.2.3.2.4.3 | Velocidad de inicio de corte en plena carga (2):... min<sup>-1</sup> |
+| 3.2.3.2.4.4 | Velocidad máxima en vacío (2):... min<sup>-1</sup> |
+| 3.2.3.2.4.5 | Velocidad de ralentí (2):... min<sup>-1</sup> |
+| 3.2.3.3 | Sistema de arranque en frío: |
+| 3.2.3.3.1 | Marca(s):... |
+| 3.2.3.3.2 | Tipo(s):... |
+| 3.2.3.3.3 | Descripción:... |
+| 3.2.4 | Características de distribución: |
+| 3.2.4.1 | Máximo levantamiento de válvulas y ángulos de apertura y cierre en relación con el punto muerto superior o características equivalentes:... |
+| 3.2.4.2 | Juego de reglajes o gama de ajuste (1):... |
+| 3.2.5 | Funciones controladas electrónicamente: |
+|  | Si el motor tiene funciones controladas electrónicamente, se suministrará información relativa a sus prestaciones, incluida la relativa a:... |
+| 3.2.5.1 | La marca:... |
+| 3.2.5.2 | El tipo:... |
+| 3.2.5.3 | El número de la pieza:... |
+| 3.2.5.4 | La ubicación de la unidad de control técnico: |
+| 3.2.5.4.1 | Elementos detectados:... |
+| 3.2.5.4.2 | Elementos controlados:... |
+| 3.3 | Depósito(s) de carburante o de combustible: |
+| 3.3.1 | Número, capacidad, materiales: |
+| 3.3.2 | Plano, foto o descripción en los que se indique claramente la posición del depósito o depósitos: |
+| 3.3.3 | Depósito(s) auxiliar(es) de carburante o de combustible: |
+| 3.3.3.1 | Número, capacidad, materiales: |
+| 3.3.3.2 | Plano, foto o descripción en los que se indique claramente la posición del depósito o depósitos: |
+| 3.4 | Potencia nominal:......... kW a...... min<sup>-1</sup> con ajuste de serie (de acuerdo con la normativa aplicable). |
+| 3.5 | Par máximo:......... Nm a...... min<sup>-1</sup> (de acuerdo con la normativa aplicable). |
+| 3.6 | Otros motores de tracción (encendido por chispa, etc.) o combinaciones de motores (características de las partes de dichos motores):... |
+| 3.7 | Filtro de aire: |
+| 3.8 | Dispositivo de escape |
+| 3.8.1 | Descripción y esquemas: |
+| 3.8.2 | Marca(s): |
+| 3.8.3 | Tipo(s): |
+| 3.9 | Sistema eléctrico: |
+| 3.9.1 | Tensión nominal, conexión a masa positiva / negativa (1):... V |
+| 3.9.2 | Generador: |
+| 3.9.2.1 | Tipo:... |
+| 3.9.2.2 | Potencia nominal:... VA |
+| 4 | TRANSMISIÓN (16) |
+|  | (Adjuntar esquema de la transmisión de todas las variantes previstas) |
+| 4.1 | Esquema del sistema de transmisión: |
+| 4.2 | Tipo de transmisión (mecánica, hidráulica, eléctrica, etc.): |
+| 4.2.1 | Breve descripción de los componentes eléctricos / electrónicos (en su caso): |
+| 4.4 | Embrague (tipo), en su caso: |
+| 4.5 | Caja de cambios (tipo, toma directa, modo de mando), en su caso: |
+| 4.6 | Relaciones de transmisión, con o sin caja de reenvío (17), en su caso:<br>![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173505_image4.png) |
+| 4.6.1 | Dimensiones máximas de los neumáticos de los ejes motores: |
+| 4.7 | Velocidad máxima de fábrica del vehículo calculada en la marcha más elevada (facilitar los elementos del cálculo) (17):......... km/h |
+| 4.7.1 | Velocidad máxima medida:......... km/h |
+| 4.8 | Avance real de las ruedas motrices en una vuelta completa: |
+| 4.9 | Regulador de velocidad del vehículo: sí/no (1) |
+| 4.9.1 | Descripción: |
+| 4.10 | Indicador de velocidad, cuentarrevoluciones y cuentahoras (en su caso) (1): |
+| 4.11 | Bloqueo del diferencial (en su caso): sí / no (1) |
+| 4.12 | Toma(s) de fuerza (régimen de rotación y relación con el del motor) (número, tipo y situación): |
+| 4.12.1 | – principal(es): |
+| 4.12.2 | – otra(s): |
+| 4.12.3 | Protección de la(s) toma(s) de fuerza (descripción, dimensiones, planos, fotos): |
+| 4.13 | Protección de los elementos propulsores, de las partes salientes y de las ruedas (descripciones, planos, croquis, fotos): |
+| 4.13.1 | Protección por un lado: |
+| 4.13.2 | Protección por varios lados: |
+| 4.13.3 | Protección de recubrimiento total: |
+| 5 | ÓRGANOS DE SUSPENSIÓN |
+| 5.1 | Combinaciones de neumático y rueda (en su caso) (dimensiones, características, presión de inflado en carretera, carga máxima admisible, dimensiones de las llantas y combinaciones de parte delantera y parte trasera): |
+| 5.2 | Tipo de suspensión (si existe) para cada eje o rueda |
+| 5.2.1 | Ajuste de nivel: sí / no / optativo (1) |
+| 5.3 | Otros dispositivos (si los hay): |
+| 5.4 | Tren de rodaje |
+| 5.4.1 | Tipo de material en contacto con la superficie: orugas de caucho/orugas de acero/zapatas de caucho en las tejas |
+| 6 | DIRECCIÓN |
+|  | (Adjuntar esquema de la dirección) |
+| 6.1 | Categoría del dispositivo de dirección: dirección manual / asistida / servo (1) |
+| 6.1.1 | Puesto de conducción reversible (descripción):... |
+| 6.2 | Mecanismo y mando: |
+| 6.2.1 | Tipo de varillaje de la dirección (si procede, especifíquese para adelante y para atrás):... |
+| 6.2.2 | Transmisión a las ruedas (incluidos los medios que no sean mecánicos; si procede, especifíquese para adelante y para atrás):... |
+| 6.2.3 | Modo de asistencia, si procede:... |
+| 6.2.3.1 | Modo y esquema de funcionamiento, marca y tipo:... |
+| 6.2.4 | Esquema del conjunto del mecanismo de dirección, en el que se indique la posición en el vehículo de los diversos dispositivos que afectan al comportamiento de la dirección:... |
+| 6.2.5 | Esquema del o de los mandos de dirección:... |
+| 6.2.6 | Plan de ajuste y modo de ajuste del mando de dirección (en su caso):... |
+| 6.3 | Ángulo máximo de giro de las ruedas (en su caso): |
+| 6.3.1 | A la derecha:... grados. Número de vueltas del volante:... |
+| 6.3.2 | A la izquierda:... grados. Número de vueltas del volante:... |
+| 6.4 | Diámetro(s) de giro mínimo (sin frenos) (18): |
+| 6.4.1 | A la derecha:... mm |
+| 6.4.2 | A la izquierda:... mm |
+| 6.5 | Modo de ajuste del mando de dirección (en su caso):... |
+| 7 | FRENADO (12) |
+|  | (Adjuntar esquema descriptivo global y esquema de funcionamiento) |
+| 7.0 | Breve descripción de los sistemas de frenado instalados en el vehículo |
+| 7.1 | Dispositivo de frenado de servicio (descripción) |
+| 7.2 | Freno de socorro (descripción, si existe) |
+| 7.3 | Freno de estacionamiento (descripción) |
+| 7.4 | Sistema de frenado electrónico: sí / no / opcional |
+| 7.5 | Dispositivos suplementarios eventuales (ralentizador) |
+| 7.6 | En el caso de los vehículos con sistema antibloqueo de las ruedas: descripción del funcionamiento del sistema (incluidas las partes electrónicas si las hubiere), esquema del bloque eléctrico y plano del circuito hidráulico o neumático:... |
+| 7.7 | Lista de los elementos, debidamente señalados, que forman el dispositivo de frenado:... |
+| 7.8 | Dimensiones de los neumáticos más grandes admisibles de los ejes con frenos:... |
+| 7.9 | Cálculo del sistema de frenado (determinación de la relación existente entre la suma de las fuerzas de frenado en la periferia de las ruedas y la fuerza ejercida sobre el mando):... |
+| 7.10 | Bloqueo de los mandos de frenado derecho e izquierdo:... |
+| 7.11 | Fuente(s) de energía exterior (en su caso) (características, capacidad de los depósitos de energía, presiones máxima y mínima, manómetro y dispositivo de alarma de nivel mínimo de energía en el tablero de instrumentos, depósito de vacío y válvula de alimentación, compresores de alimentación, cumplimiento de la reglamentación sobre aparatos a presión):... |
+| 7.12 | Vehículos equipados con frenos para equipos remolcados: |
+| 7.12.1 | Dispositivo de mando de frenado del equipo remolcado (descripción y características):... |
+| 7.12.2 | Acoplamiento: mecánico / hidráulico / neumático (1) |
+| 7.12.3 | Racores, acoplamientos y dispositivo de protección (descripción, plano y croquis):... |
+| 7.12.4 | Conexión: 1 o 2 conducciones (1) |
+| 7.12.4.1 | Sobrepresión de alimentación (1 conducción):... kPa |
+| 7.12.4.2 | Sobrepresión de alimentación (2 conducciones):... kPa |
+| 8 | PUESTO DEL CONDUCTOR Y DISPOSITIVOS DE PROTECCIÓN CONTRA EL VUELCO |
+| 8.1 | Campo de visión frontal |
+| 8.2 | Retrovisor(es): Número, disposición y categoría |
+| 8.3 | Dispositivos de protección contra el vuelco (ROPS) |
+| 8.3.0 | ROPS: obligatorio / opcional / estándar |
+| 8.3.1 | ROPS mediante Bastidor(es): |
+| 8.3.1.0 | Presencia: sí / no (1) |
+| 8.3.1.1 | Marca(s) y modelo de fábrica:... |
+| 8.3.1.2 | Marcado(s) de homologación:... |
+| 8.3.2 | ROPS mediante Cabina(s): |
+| 8.3.2.0 | Presencia: sí / no (1) |
+| 8.3.2.1 | Marca(s) y modelo de fábrica:... |
+| 8.3.2.2 | Marcado(s) de homologación:... |
+| 8.3.2.3 | Puertas (número):... |
+| 8.3.2.4 | Ventanas y salida(s) de emergencia (número, dimensiones y situación):... |
+| 8.3.3 | ROPS mediante Arco(s): montado(s) delante / detrás, abatible(s) o no (1) |
+| 8.3.3.0 | Presencia: sí / no (1) |
+| 8.3.3.1 | Descripción (situación, fijación, etc.):... |
+| 8.3.3.2 | Marca(s) y modelo de fábrica:... |
+| 8.3.3.3 | Marcado(s) de homologación:... |
+| 8.4 | Espacio de maniobra y modo de acceso al puesto de conducción (descripción, características o planos acotados):... |
+| 8.5 | Asientos y reposapiés: |
+| 8.5.1 | Asiento(s) del conductor:... |
+| 8.5.1.1 | Marca(s) y modelo de fábrica:... |
+| 8.5.1.2 | Marcado(s) de homologación:... |
+| 8.5.1.3 | Categoría del tipo de asiento: categoría A clase I / II / III, categoría B (1): |
+| 8.5.1.4 | Situación y características principales:... |
+| 8.5.1.5 | Sistema de reglaje:... |
+| 8.5.1.6 | Sistema de desplazamiento y de bloqueo:... |
+| 8.5.1.7 | Anclajes del cinturón de seguridad: sí / no |
+|  | Referencia de ensayo (en su caso): |
+| 8.5.2 | Asiento para acompañante (número, dimensiones, situación y características):... |
+| 8.5.2.1 | Anclajes del cinturón de seguridad: sí / no |
+|  | Referencia de ensayo (en su caso) |
+| 8.5.3 | Reposapiés (número, dimensiones y situaciones):... |
+| 8.6 | Plataforma de carga: |
+| 8.6.1 | Dimensiones: Longitud…. mm; Anchura…. mm; Altura…. mm. |
+| 8.6.2 | Situación:... |
+| 8.6.3 | Carga técnicamente admisible:... kg |
+| 8.6.4 | Distribución de la carga entre los ejes:... kg |
+| 8.7 | Vehículo equipado con estructuras de protección contra la caída de objetos (FOPS): sí / no (1) |
+| 8.8 | Vehículo equipado con protección contra la penetración de objetos (OPS): sí / no (1) |
+| 9 | DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA<br>(Adjuntar esquema exterior del vehículo con el emplazamiento acotado de su instalación) |
+| 9.1. | Dispositivos obligatorios (Número, color y marca de homologación) |
+| 9.2 | Dispositivos facultativos (Número, color y marca de homologación) |
+| 10 | VARIOS |
+| 10.1 | Avisadores acústicos |
+| 10.1.1 | Marcado(s) de homologación:... |
+| 10.2 | Acoplamientos mecánicos entre tractores y vehículos remolcados: |
+| 10.2.1 | Tipo(s) de acoplamiento:... |
+| 10.2.2 | Marca(s) y modelo de fábrica:... |
+| 10.2.3 | Marcado(s) o número(s) de homologación:... |
+| 10.2.4 | Dispositivos de enganche y remolque, previsto para una carga horizontal máxima/valor D... N (kg) y para una carga vertical máxima de... N (kg) (20) |
+| 10.2.5 | Ubicación del punto de acoplamiento |
+| 10.2.5.1 | Altura sobre el suelo. Mínima…. mm; Máxima…. mm. |
+| 10.2.5.2 | Distancia respecto al plano vertical que pasa por el centro del eje trasero. Mínima…. mm; Máxima…. mm. |
+| 10.3 | Levantamiento hidráulico, enganche de tres puntos: sí / no (1). Montado en la parte delantera / montado en la parte trasera / montado en la parte delantera y en la parte trasera / inexistente |
+| 10.4 | Toma de corriente para la alimentación de los dispositivos de alumbrado y de señalización luminosa del remolque (descripción):... |
+| 10.5 | Instalación, situación, funcionamiento y señalización de los mandos (descripción, fotos o esquemas):... |
+| 11 | Nivel sonoro exterior<br>Medido con arreglo al número del acto reglamentario de base y de su última modificación aplicable a la homologación UE. Si se trata de un acto reglamentario con dos o más fases de aplicación, indíquese también la fase:.........<br>– parado:......... dB (A)<br>– en marcha:......... dB (A)<br>– velocidad del motor:......... min<sup>-1</sup> |
+| 12 | Nivel sonoro percibido por el conductor<br>Medido con arreglo al número del acto reglamentario de base y de su última modificación aplicable a la homologación UE. Si se trata un acto reglamentario con dos o más fases de aplicación, indíquese también la fase:.........<br>– exposición del conductor al nivel de ruido:......... dB (A) |
+| 13 | Gases de escape<br>Medido con arreglo al número del acto reglamentario de base y de su última modificación aplicable a la homologación UE. Si se trata de un acto reglamentario con dos o más fases de aplicación, indíquese también la fase:.........<br>Ciclo NRSC/ESC/WHSC<br>CO: ......... g/kWh. HC: ......... g/kWh NOx: ......... g/kWh HC+NOx: ......... g/kWh<br>Partículas:......... g/kWh CO2......... g/kWh HCNM: …No aplica CH4: …No aplica<br>Ciclo NRTC/ETC/WHTC<br>CO:......... g/kWh HC:......... g/kWh NOx:......... g/kWh HC+NOx:......... g/kWh<br>Partículas:......... g/kWh CO2......... g/kWh HCNM:......... g/kWh CH4:......... g/kWh |
+
+Notas explicativas:
+
+(1) Táchese lo que no proceda.
+
+(2) Indíquese la tolerancia.
+
+(3) En el caso de los dispositivos que estén homologados, podrá sustituirse la descripción por una referencia a la homologación.
+
+Tampoco será necesaria la descripción de los elementos cuya fabricación se señale claramente en los esquemas o croquis adjuntos al certificado.
+
+Indíquense los números de los anexos correspondientes de los elementos cuyas fotografías a planos deban adjuntarse.
+
+(4) Clasificación según las definiciones que figuran en el Reglamento de la Unión Europea vigente en la materia.
+
+(5) Norma UNE 26192:1987 (ISO 612:1978)
+
+(6) La masa del conductor se fija en 75 kg.
+
+(7) Carga transmitida en situación estática en el centro de referencia del acoplamiento.
+
+(8) Norma UNE 26192:1987 (ISO 612:1978 apartado 6.4) (9) Norma UNE 68004:1988
+
+(10) Norma UNE 26192:1987 (ISO 612:1978 apartado 6.1)
+
+(11) Norma UNE 26192:1987 (ISO 612:1978 apartado 6.2)
+
+(12) Norma UNE 26192:1987 (ISO 612:1978 apartado 6.3)
+
+(13) Norma UNE 26192:1987 (ISO 612:1978 apartado 6.6)
+
+(14) Norma UNE 26192:1987 (ISO 612:1978 apartado 6.7)
+
+(15) Norma UNE 26192:1987 (ISO 612:1978 apartado 6.8)
+
+(16) Facilítese la información solicitada en el caso de todas las variantes que puedan haberse previsto.
+
+(17) Se admite una tolerancia del 5 %. No obstante, se debe respetar una velocidad máxima medida inferior o igual a 43 km/h, incluida una tolerancia de 3 km/h.
+
+(18) Norma UNE 68066:1983
+
+(19) Respecto a cada uno de los dispositivos de frenado, precísese:
+
+– Tipo y naturaleza de los frenos (esquema acotado) (de tambor, de disco, etc., ruedas frenadas, conexión con las ruedas frenadas, forro del disco, naturaleza, superficie activa, radio de los tambores, zapatas o discos, peso de los tambores y dispositivos de ajuste),
+
+– Transmisión y mando (adjúntese esquema) (constitución, ajuste, relación de las palancas, accesibilidad del mando, situación, mandos de trinquete en caso de transmisión mecánica, características de las piezas principales de la transmisión, cilindros y pistones de mando y cilindros receptores).
+
+(20) Valores respecto a la resistencia mecánica del dispositivo de enganche.
+
+(21) Si se trata de una solicitud referente a varios motores representativos, se rellenará un impreso por cada uno de ellos.
+
+En cualquier caso, se cumplirá con las últimas modificaciones en vigor de las referencias normativas.
+
+**PARTE III**
+
+**Modelo de Ficha Reducida**
+
+<table class="tabla">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Ficha reducida. Vehículos de categoría T y C</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">GENERALIDADES</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Número de homologación</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Marca</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Identificación</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Tipo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Variantes</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Versiones</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Denominación comercial (marca y modelo)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Categoría y subcategoría</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del fabricante</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Clasificación (1): Agrícola / Obras / Servicios</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del representante del fabricante</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento y modo de colocación de las placas e inscripciones reglamentarias</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento de la placa del fabricante</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento del número de identificación del tractor</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento de la placa identificativa de la estructura de protección</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">CONSTITUCIÓN GENERAL DEL VEHÍCULO</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Número de ejes y ruedas</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Ejes con ruedas gemelas (número, localización)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Ejes con frenos (número y localización)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Ejes motores (número, localización, interconexión)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Puesto de conducción reversible: sí / no (1)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Configuración del tren de rodaje (en su caso): conjunto de trenes de orugas delantero / conjunto de trenes de orugas trasero / conjunto de trenes de orugas delantero y trasero / tren de oruga continua a cada lado del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Número y emplazamiento del conjunto de trenes de orugas motor</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Número y emplazamiento del conjunto de trenes de orugas con frenos</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">DIMENSIONES Y MASAS (en mm. y en kg.)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Distancia entre ejes</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Vía máxima y mínima:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Longitud</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Anchura</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Altura</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Voladizo trasero</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="cuerpo_tabla_izq">Masa del tractor en vacío en orden de marcha</p>
+<p class="cuerpo_tabla_izq">– máxima:</p>
+<p class="cuerpo_tabla_izq">– mínima:</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masas de lastre (peso total, materiales y número de piezas)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Distribución de esta masa entre los ejes</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masas máximas técnicamente admisibles declaradas por el fabricante</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masas máximas técnicamente admisibles por eje: Eje 1…… kg; Eje 2…… kg</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masa máxima en carga del tractor en función de los tipos de neumáticos previstos</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Reparto de esta masa entre los ejes</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="cuerpo_tabla_izq">Masa(s) y neumático(s):</p>
+<p class="imagen">
+<img class="no_escalar" height="1492" src="/datos/imagenes/disp/2018/280/15796_6173505_image5.png" width="1696">
+</p>
+<p class="cuerpo_tabla_izq">Masas y tren de rodaje:</p>
+<p class="imagen">
+<img class="no_escalar" height="836" src="/datos/imagenes/disp/2018/280/15796_6173505_image6.png" width="1680">
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="cuerpo_tabla_izq">Masa remolcable técnicamente admisible de vehículos de la categoría T o correspondiente a cada configuración de chasis/frenado del vehículo de la categoría R o S:</p>
+<p class="cuerpo_tabla_izq">Barra de tracción:</p>
+<p class="cuerpo_tabla_izq">– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">Barra de tracción rígida:</p>
+<p class="cuerpo_tabla_izq">– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">Eje central:</p>
+<p class="cuerpo_tabla_izq">– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="cuerpo_tabla_izq">Masa total técnicamente admisible del conjunto tractor-vehículo remolcado (según las diferentes configuraciones de chasis/frenado del vehículo remolcado).</p>
+<p class="cuerpo_tabla_izq">Barra de tracción:</p>
+<p class="cuerpo_tabla_izq">– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">Barra de tracción rígida:</p>
+<p class="cuerpo_tabla_izq">– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">Eje central:</p>
+<p class="cuerpo_tabla_izq">– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
+<p class="cuerpo_tabla_izq">– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Masa máxima del remolque / maquinaria intercambiable remolcada que se puede enganchar</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Situación del punto de enganche:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Altura desde el suelo:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Altura máxima:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Altura mínima:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Distancia respecto al plano vertical que pasa por el centro del eje trasero</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Carga vertical estática / masa máxima técnicamente admisible en el punto de enganche del tractor</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">MOTOR</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Marca:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Medios de identificación del tipo, en caso de que esté indicado en el motor o motores, y método de colocación:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">
+<p class="cuerpo_tabla_izq">Principio de funcionamiento:</p>
+<p class="cuerpo_tabla_izq">– encendido por chispa / encendido por compresión (1)</p>
+<p class="cuerpo_tabla_izq">– inyección directa / inyección indirecta (1)</p>
+<p class="cuerpo_tabla_izq">– ciclo en dos tiempos / cuatro tiempos (1)</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Combustible: gasóleo / gasolina / gas licuado de petróleo / otros (1)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Parte 2 – Tipo de motor</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Tipo de motor instalado por el fabricante: ...</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Número de homologación CE: ...</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Número y disposición de los cilindros: ...</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Cilindrada: ... cm<sup>3</sup></td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Potencia nominal asignada del motor: ......... kW a ...... min<sup>-1</sup> con ajuste de serie (de acuerdo con la normativa aplicable).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Potencia neta máxima del motor: ......... kW a ...... min<sup>-1</sup> con ajuste de serie (de acuerdo con la normativa aplicable).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Potencia fiscal (CVF)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">TRANSMISIÓN</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">
+<p class="cuerpo_tabla_izq">Caja de cambios:</p>
+<p class="cuerpo_tabla_izq">Número de relaciones:</p>
+<p class="cuerpo_tabla_izq">– delanteras:</p>
+<p class="cuerpo_tabla_izq">– traseras:</p>
+<p class="cuerpo_tabla_izq">– Relación final de transmisión:</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Velocidad máxima de fábrica del vehículo calculada: ......... km/h</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Velocidad máxima medida: ......... km/h</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">DIRECCIÓN</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Categoría del dispositivo de dirección: dirección manual / asistida / servo (1)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">FRENADO (Breve descripción del sistema de frenado)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Dispositivo de frenado de servicio (descripción)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Freno de socorro (descripción, si existe)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Freno de estacionamiento (descripción)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Sistema de frenado electrónico: sí / no / opcional</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Sobrepresión de alimentación (1 conducción): ... kPa</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Sobrepresión de alimentación (2 conducciones): ... kPa</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">PUESTO DEL CONDUCTOR Y DISPOSITIVOS DE PROTECCIÓN CONTRA EL VUELCO (ROPS)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">ROPS: obligatorio / opcional / estándar</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">ROPS mediante Bastidor(es):</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Presencia: sí / no (1)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Marca y modelo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Marcado de homologación: ...</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">ROPS mediante Cabina(s):</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Presencia: sí / no (1)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Marca y modelo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Marcado de homologación: ...</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">
+<p class="cuerpo_tabla_izq">ROPS mediante Arco(s):</p>
+<p class="cuerpo_tabla_izq">– delante / detrás (1)</p>
+<p class="cuerpo_tabla_izq">– abatible / no abatible (1)</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Marca y modelo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Marcado de homologación: ...</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Descripción (situación, fijación, etc.): ...</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Configuración de las plazas de asiento: asiento/sillín</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Ubicación y disposición de los asientos de los pasajeros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Asiento para acompañante (número): ...</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Plataforma de carga:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Dimensiones: Longitud…. mm; Anchura…. mm; Altura…. mm.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Carga técnicamente admisible: ... kg</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Vehículo equipado con estructuras de protección contra la caída de objetos (FOPS): sí / no (1)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Vehículo equipado con protección contra la penetración de objetos (OPS): sí / no (1)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Dispositivos obligatorios/facultativos</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">VARIOS</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Acoplamientos mecánicos entre tractores y vehículos remolcados:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Tipo(s) de acoplamiento:...</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Marca(s):...</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Marcado(s) o número(s) de homologación:...</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="cuerpo_tabla_izq">Carga horizontal máxima / valor D... (kg)</p>
+<p class="cuerpo_tabla_izq">Carga vertical (eventual) máxima de... (kg)</p>
+<p class="cuerpo_tabla_izq">Masa remolcable … (t)</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Ubicación del punto de acoplamiento</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Altura sobre el suelo. Mínima…. mm; Máxima…. mm.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Distancia respecto al plano vertical que pasa por el centro del eje trasero. Mínima…. mm; Máxima…. mm.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Levantamiento hidráulico, enganche de tres puntos: sí / no (1). Montado en la parte delantera / montado en la parte trasera / montado en la parte delantera y en la parte trasera / inexistente</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="cuerpo_tabla_izq">Nivel sonoro exterior</p>
+<p class="cuerpo_tabla_izq">Medido con arreglo al número del acto reglamentario de base y de su última modificación aplicable a la homologación UE. Si se trata de un acto reglamentario con dos o más fases de aplicación, indíquese también la fase:.........</p>
+<p class="cuerpo_tabla_izq">– parado:......... dB (A)</p>
+<p class="cuerpo_tabla_izq">– en marcha:......... dB (A)</p>
+<p class="cuerpo_tabla_izq">– velocidad del motor:......... min<sup>-1</sup></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="cuerpo_tabla_izq">Nivel sonoro percibido por el conductor</p>
+<p class="cuerpo_tabla_izq">Medido con arreglo al número del acto reglamentario de base y de su última modificación aplicable a la homologación UE. Si se trata de un acto reglamentario con dos o más fases de aplicación, indíquese también la fase:.........</p>
+<p class="cuerpo_tabla_izq">– exposición del conductor al nivel de ruido:......... dB (A)</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="cuerpo_tabla_izq">Gases de escape</p>
+<p class="cuerpo_tabla_izq">Medido con arreglo a número del acto reglamentario de base y de su última modificación aplicable a la homologación UE. Si se trata de un acto reglamentario con dos o más fases de aplicación, indíquese también la fase:.........</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" td="">
+<p class="cuerpo_tabla_izq">Ciclo NRSC/ESC/WHSC</p>
+<p class="cuerpo_tabla_izq">CO2.........</p>
+<p class="cuerpo_tabla_izq">Ciclo NRTC/ETC/WHTC</p>
+<p class="cuerpo_tabla_izq">CO2.........</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Notas explicativas:
+
+(1) Táchese lo que no proceda.
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Se describirán, para cada variante, las diferentes combinaciones de versiones correspondientes al tipo.
+
+Cada variante y cada versión deberán identificarse mediante un código numérico o alfanumérico que deberá indicar el vehículo que se trate. En el caso de vehículos completados, dicha codificación permitirá identificar el TVV de base sobre el que se realiza el completado.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+| Asunto | Número de homologación | Variantes / Versiones |
+|---|---|---|
+|  |  |  |
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 3 — Serie corta nacional (categorías T y C)
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice se extiende a los vehículos pertenecientes a las categorías T y C según se definen en el Reglamento de la Unión Europea vigente en la materia.
+
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
+
+Los límites de cantidad de los vehículos producidos en serie corta nacional serán los establecidos en el Reglamento de la Unión Europea vigente en la materia.
+
+**PARTE II**
+
+**Ficha de Características**
+
+Los modelos de ficha de características son los establecidos en la parte II del apéndice 2.
+
+**PARTE III**
+
+**Ficha Reducida**
+
+Los modelos de ficha reducida son los establecidos en la parte III del apéndice 2.
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Según lo establecido en la parte IV del apéndice 2.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en la parte V del apéndice 2.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 4 — Homologación Individual
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice se extiende a los vehículos pertenecientes a las categorías T y C según se definen en el Reglamento de la Unión Europea vigente en la materia.
+
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
+
+**PARTE II**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de fichas reducidas son los establecidos en la parte III del apéndice 2.
+
+**PARTE III**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en la parte V del apéndice 2.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 5 — Lista de requisitos exigidos para la homologación del vehículo, sus partes y sus piezas en
+
+**PARTE I:**
+
+**Homologación nacional de tipo de vehículos de las categorías T4.1 y T4.2 (subcategorías a y b)**
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">N.º</th>
+<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (*) (H)</th>
+<th class="cabeza_tabla" colspan="2">Homologación Nacional de Tipo (Aplicaciones Particulares)</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">T4.1</th>
+<th class="cabeza_tabla">T4.2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Mecanismo de dirección para tractores rápidos</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A (b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A (b) A</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_izq">Mecanismo de dirección</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A (b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A (b) N/A</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Indicador de velocidad</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_izq">Campo de visión y limpiaparabrisas</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_izq">Cristales</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_izq">Retrovisores</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_izq">Sistemas de información al conductor</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">13</td>
+<td class="cuerpo_tabla_izq">Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">15</td>
+<td class="cuerpo_tabla_izq">Compatibilidad electromagnética</td>
+<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
+<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">16</td>
+<td class="cuerpo_tabla_izq">Aparato productor de señales acústicas</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17</td>
+<td class="cuerpo_tabla_izq">Sistemas de calefacción</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">19</td>
+<td class="cuerpo_tabla_izq">Placa de matrícula</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">21</td>
+<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">22</td>
+<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">23</td>
+<td class="cuerpo_tabla_izq">Masas de lastre</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">25</td>
+<td class="cuerpo_tabla_izq">Depósito de combustible</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">28</td>
+<td class="cuerpo_tabla_izq">Plataformas de carga</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">29</td>
+<td class="cuerpo_tabla_izq">Riesgos debidos a los dispositivos de remolque</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_izq">Neumáticos</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">31</td>
+<td class="cuerpo_tabla_izq">Sistemas anti proyección</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A (b) X (2) A (4)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A (b) X (2) A (4)</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">32</td>
+<td class="cuerpo_tabla_izq">Marcha atrás</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">34c</td>
+<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">35</td>
+<td class="cuerpo_tabla_izq">ROPS</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">37</td>
+<td class="cuerpo_tabla_izq">ROPS Pruebas estáticas</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">38</td>
+<td class="cuerpo_tabla_izq">ROPS, montados delante (tractores de vía estrecha)</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">39</td>
+<td class="cuerpo_tabla_izq">ROPS, montado en la parte trasera (tractores de vía estrecha)</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">40</td>
+<td class="cuerpo_tabla_izq">FOPS, estructuras de protección contra la caída de objetos</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">41</td>
+<td class="cuerpo_tabla_izq">Asientos de pasajeros</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">42</td>
+<td class="cuerpo_tabla_izq">Exposición del conductor al nivel de ruido</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">43</td>
+<td class="cuerpo_tabla_izq">Asiento del conductor</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">44</td>
+<td class="cuerpo_tabla_izq">Campo de maniobra y acceso al puesto del conductor</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">45</td>
+<td class="cuerpo_tabla_izq">Tomas de fuerza</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">46</td>
+<td class="cuerpo_tabla_izq">Protección de los elementos motores</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">47</td>
+<td class="cuerpo_tabla_izq">Anclajes de los cinturones de seguridad</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_izq">Cinturones de seguridad</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">49</td>
+<td class="cuerpo_tabla_izq">OPS, estructuras contra la penetración de objetos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">50</td>
+<td class="cuerpo_tabla_izq">Sistema de escape</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">51</td>
+<td class="cuerpo_tabla_izq">Manual de utilización</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">52</td>
+<td class="cuerpo_tabla_izq">Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">53</td>
+<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">54</td>
+<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">55</td>
+<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">56</td>
+<td class="cuerpo_tabla_izq">Materiales y productos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">57</td>
+<td class="cuerpo_tabla_izq">Baterías</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">58</td>
+<td class="cuerpo_tabla_izq">Salida de emergencia</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">59</td>
+<td class="cuerpo_tabla_izq">Sistema de ventilación y filtrado de la cabina</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_izq">Índice de combustión del material de la cabina</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">61</td>
+<td class="cuerpo_tabla_izq">Emisiones contaminantes</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">62</td>
+<td class="cuerpo_tabla_izq">Nivel sonoro (externo)</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+</tbody>
+</table>
+
+**PARTE II:**
+
+**Serie corta nacional de vehículos de las categorías T1, T2, T3, T4.1, T4.2 y T4.3 (subcategorías a y b)**
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">N.º</th>
+<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (*) (H)</th>
+<th class="cabeza_tabla" colspan="6">Serie Corta Nacional</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">T1</th>
+<th class="cabeza_tabla">T2</th>
+<th class="cabeza_tabla">T3</th>
+<th class="cabeza_tabla">T4.1</th>
+<th class="cabeza_tabla">T4.2</th>
+<th class="cabeza_tabla">T4.3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Mecanismo de dirección para tractores rápidos</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_izq">Mecanismo de dirección</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Indicador de velocidad</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_izq">Campo de visión y limpiaparabrisas</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_izq">Cristales</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_izq">Retrovisores</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_izq">Sistemas de información al conductor</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">13</td>
+<td class="cuerpo_tabla_izq">Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">15</td>
+<td class="cuerpo_tabla_izq">Compatibilidad electromagnética</td>
+<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
+<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
+<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
+<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
+<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
+<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">16</td>
+<td class="cuerpo_tabla_izq">Aparato productor de señales acústicas</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17</td>
+<td class="cuerpo_tabla_izq">Sistemas de calefacción</td>
+<td class="cuerpo_tabla_centro">B (8)</td>
+<td class="cuerpo_tabla_centro">B (8)</td>
+<td class="cuerpo_tabla_centro">B (8)</td>
+<td class="cuerpo_tabla_centro">B (8)</td>
+<td class="cuerpo_tabla_centro">B (8)</td>
+<td class="cuerpo_tabla_centro">B (8)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">18</td>
+<td>
+<p class="cuerpo_tabla_izq">Dispositivos de la protección contra utilización no autorizada </p>
+</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">19</td>
+<td class="cuerpo_tabla_izq">Placa de matrícula</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">21</td>
+<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">22</td>
+<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">23</td>
+<td class="cuerpo_tabla_izq">Masas de lastre</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">25</td>
+<td class="cuerpo_tabla_izq">Depósito de combustible</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">28</td>
+<td class="cuerpo_tabla_izq">Plataformas de carga</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">29</td>
+<td class="cuerpo_tabla_izq">Riesgos debidos a los dispositivos de remolque</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_izq">Neumáticos</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">31</td>
+<td class="cuerpo_tabla_izq">Sistemas antiproyección</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) X (2) A (4)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) X (2)</p>
+<p class="cuerpo_tabla_centro">A (4)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) X (2) A (4)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) X (2)</p>
+<p class="cuerpo_tabla_centro">A (4)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) X (2) A (4)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) X (2)</p>
+<p class="cuerpo_tabla_centro">A (4)</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">32</td>
+<td class="cuerpo_tabla_izq">Marcha atrás</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">34c</td>
+<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">35</td>
+<td class="cuerpo_tabla_izq">ROPS</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">37</td>
+<td class="cuerpo_tabla_izq">ROPS Pruebas estáticas</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">38</td>
+<td class="cuerpo_tabla_izq">ROPS, montados delante (tractores de vía estrecha)</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">39</td>
+<td class="cuerpo_tabla_izq">ROPS, montado en la parte trasera (tractores de vía estrecha)</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">40</td>
+<td class="cuerpo_tabla_izq">FOPS, estructuras de protección contra la caída de objetos</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">41</td>
+<td class="cuerpo_tabla_izq">Asientos de pasajeros</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">42</td>
+<td class="cuerpo_tabla_izq">Exposición del conductor al nivel de ruido</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">43</td>
+<td class="cuerpo_tabla_izq">Asiento del conductor</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">44</td>
+<td class="cuerpo_tabla_izq">Campo de maniobra y acceso al puesto del conductor</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">45</td>
+<td class="cuerpo_tabla_izq">Tomas de fuerza</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">46</td>
+<td class="cuerpo_tabla_izq">Protección de los elementos motores,</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">47</td>
+<td class="cuerpo_tabla_izq">Anclajes de los cinturones de seguridad</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_izq">Cinturones de seguridad</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">49</td>
+<td class="cuerpo_tabla_izq">OPS, estructuras contra la penetración de objetos</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">50</td>
+<td class="cuerpo_tabla_izq">Sistema de escape</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">51</td>
+<td class="cuerpo_tabla_izq">Manual de utilización</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">52</td>
+<td class="cuerpo_tabla_izq">Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">53</td>
+<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">54</td>
+<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">55</td>
+<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">56</td>
+<td class="cuerpo_tabla_izq">Materiales y productos</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">57</td>
+<td class="cuerpo_tabla_izq">Baterías</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">58</td>
+<td class="cuerpo_tabla_izq">Salida de emergencia</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">59</td>
+<td class="cuerpo_tabla_izq">Sistema de ventilación y filtrado de la cabina</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_izq">Índice de combustión del material de la cabina</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">61</td>
+<td class="cuerpo_tabla_izq">Emisiones contaminantes</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">62</td>
+<td class="cuerpo_tabla_izq">Nivel sonoro (externo)</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+</tbody>
+</table>
+
+**PARTE III:**
+
+**Homologación individual de vehículos de las categorías T1, T2, T3, T4.1, T4.2 y T4.3 (subcategorías a y b)**
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">N.º</th>
+<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (*) (H)</th>
+<th class="cabeza_tabla" colspan="6">Homologación individual</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">T1</th>
+<th class="cabeza_tabla">T2</th>
+<th class="cabeza_tabla">T3</th>
+<th class="cabeza_tabla">T4.1</th>
+<th class="cabeza_tabla">T4.2</th>
+<th class="cabeza_tabla">T4.3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Mecanismo de dirección para tractores rápidos</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_izq">Mecanismo de dirección</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) B</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) B</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) B</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) B</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) B</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) B</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Indicador de velocidad</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_izq">Campo de visión y limpiaparabrisas</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_izq">Cristales</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_izq">Retrovisores</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_izq">Sistemas de información al conductor</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">13</td>
+<td class="cuerpo_tabla_izq">Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">15</td>
+<td class="cuerpo_tabla_izq">Compatibilidad electromagnética</td>
+<td class="cuerpo_tabla_centro">B (1) (6)</td>
+<td class="cuerpo_tabla_centro">B (1) (6)</td>
+<td class="cuerpo_tabla_centro">B (1) (6)</td>
+<td class="cuerpo_tabla_centro">B (1) (6)</td>
+<td class="cuerpo_tabla_centro">B (1) (6)</td>
+<td class="cuerpo_tabla_centro">B (1) (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">16</td>
+<td class="cuerpo_tabla_izq">Aparato productor de señales acústicas</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17</td>
+<td class="cuerpo_tabla_izq">Sistemas de calefacción</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_centro">N.º</p>
+</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Acto Reglamentario (*) (H)</td>
+<td class="cuerpo_tabla_centro" colspan="6">Homologación individual</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">T1</td>
+<td class="cuerpo_tabla_centro">T2</td>
+<td class="cuerpo_tabla_centro">T3</td>
+<td class="cuerpo_tabla_centro">T4.1</td>
+<td class="cuerpo_tabla_centro">T4.2</td>
+<td class="cuerpo_tabla_centro">T4.3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">19</td>
+<td class="cuerpo_tabla_izq">Placa de matrícula</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">21</td>
+<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">22</td>
+<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">23</td>
+<td class="cuerpo_tabla_izq">Masas de lastre</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">25</td>
+<td class="cuerpo_tabla_izq">Depósito de combustible</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">28</td>
+<td class="cuerpo_tabla_izq">Plataformas de carga</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">29</td>
+<td class="cuerpo_tabla_izq">Riesgos debidos a los dispositivos de remolque</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_izq">Neumáticos</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">31</td>
+<td class="cuerpo_tabla_izq">Sistemas antiproyección</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B (4) (6)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B (4) (6)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B (4) (6)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B (4) (6)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B (4) (6)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B (4) (6)</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">32</td>
+<td class="cuerpo_tabla_izq">Marcha atrás</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">34c</td>
+<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">35</td>
+<td class="cuerpo_tabla_izq">ROPS</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">37</td>
+<td class="cuerpo_tabla_izq">ROPS Pruebas estáticas</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">38</td>
+<td class="cuerpo_tabla_izq">ROPS, montados delante (tractores de vía estrecha)</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">39</td>
+<td class="cuerpo_tabla_izq">ROPS, montado en la parte trasera (tractores de vía estrecha)</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">40</td>
+<td class="cuerpo_tabla_izq">FOPS, estructuras de protección contra la caída de objetos</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">41</td>
+<td class="cuerpo_tabla_izq">Asientos de pasajeros</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">42</td>
+<td class="cuerpo_tabla_izq">Exposición del conductor al nivel de ruido</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">43</td>
+<td class="cuerpo_tabla_izq">Asiento del conductor</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">N.º</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Acto Reglamentario (*) (H)</td>
+<td class="cuerpo_tabla_centro" colspan="6">Homologación individual</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">T1</td>
+<td class="cuerpo_tabla_centro">T2</td>
+<td class="cuerpo_tabla_centro">T3</td>
+<td class="cuerpo_tabla_centro">T4.1</td>
+<td class="cuerpo_tabla_centro">T4.2</td>
+<td class="cuerpo_tabla_centro">T4.3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">44</td>
+<td class="cuerpo_tabla_izq">Campo de maniobra y acceso al puesto del conductor</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">45</td>
+<td class="cuerpo_tabla_izq">Tomas de fuerza</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">46</td>
+<td class="cuerpo_tabla_izq">Protección de los elementos motores,</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">47</td>
+<td class="cuerpo_tabla_izq">Anclajes de los cinturones de seguridad</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_izq">Cinturones de seguridad</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">49</td>
+<td class="cuerpo_tabla_izq">OPS, estructuras contra la penetración de objetos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">50</td>
+<td class="cuerpo_tabla_izq">Sistema de escape</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">51</td>
+<td class="cuerpo_tabla_izq">Manual de utilización</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">52</td>
+<td class="cuerpo_tabla_izq">Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">53</td>
+<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">54</td>
+<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">55</td>
+<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">56</td>
+<td class="cuerpo_tabla_izq">Materiales y productos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">57</td>
+<td class="cuerpo_tabla_izq">Baterías</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">58</td>
+<td class="cuerpo_tabla_izq">Salida de emergencia</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">59</td>
+<td class="cuerpo_tabla_izq">Sistema de ventilación y filtrado de la cabina</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_izq">Índice de combustión del material de la cabina</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">61</td>
+<td class="cuerpo_tabla_izq">Emisiones contaminantes</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">62</td>
+<td class="cuerpo_tabla_izq">Nivel sonoro (externo)</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+</tbody>
+</table>
+
+Leyenda:
+
+X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo UE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.
+
+A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.
+
+B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.
+
+C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.
+
+H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción
+
+N/A: Este acto normativo no es aplicable (ningún requisito)
+
+RGV: Reglamento general de vehículos
+
+(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los Anexos I y II del RD 2028/1986.
+
+(1) Subconjunto electrónico.
+
+(2) Componente, UTI (Unidad técnica independiente).
+
+(3) Vehículo.
+
+(4) Prescripciones de instalación
+
+(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes deberán disponer de su homologación CEPE/ONU o equivalente.
+
+(9) Las actas de los ensayos (cumplimentadas) de acuerdo con los códigos de la OCDE que se facilitan a continuación podrán utilizarse como alternativa a los informes de ensayos redactados de conformidad con las directivas específicas correspondientes.
+
+| Aplicable a | Alternativa al acta de ensayo de la UE basada en los<br>siguientes anexos del R (UE) 1322/2014 | Asunto | Código OCDE |
+|---|---|---|---|
+| T1<br>T4.2<br>T4.3 | Anexo VI y Anexo XVIII (si los anclajes de los cinturones de eguridad han sido objeto de ensayo) | Ensayos oficiales de estructuras de protección de tractores<br>agrícolas o forestales (ensayo dinámico) | Código 3 |
+| T1<br>T4.2<br>T4.3 | Anexo VIII y Anexo XVIII (si los anclajes de los cinturones de seguridad han sido objeto de ensayo) | Ensayos oficiales de estructuras de protección de tractores agrícolas o forestales (ensayo estático) | Código 4 |
+| T | Anexo XIII | Medición oficial del ruido en los puestos del conductor de los tractores agrícolas y forestales | Código 5 |
+| T2<br>T3<br>T4.3 | Anexo IX y Anexo XVIII (si los anclajes de los cinturones de eguridad han sido objeto de ensayo) | Ensayos oficiales de estructuras de protección<br>montadas en la parte delantera de tractores agrícolas o forestales de ruedas, vía estrecha | Código 6 |
+| T2<br>T3<br>T4.3 | Anexo X y Anexo XVIII (si los anclajes de los cinturones de seguridad han sido objeto de ensayo) | Ensayos oficiales de estructuras de protección montadas en la parte trasera de tractores<br>agrícolas o forestales de ruedas, vía estrecha | Código 7 |
+| T | Anexo XI, parte C | Ensayos oficiales de las estructuras de protección contra la caída de objetos de los tractores agrícolas y forestales | Código 10 |
+
+(a) Vehículos que por construcción no pueden desarrollar una velocidad una velocidad superior a 40 km/h.
+
+(b) Vehículos que por construcción pueden desarrollar una velocidad una velocidad superior a 40 km/h.
+
+**PARTE IV:**
+
+**Homologación nacional de tipo de vehículos de las categorías C1, C2, C3, C4.1, C4.2 y C4.3 (subcategorías a y b)**
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">N.º</th>
+<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (*) (H)</th>
+<th class="cabeza_tabla" colspan="6">Homologación Nacional de Tipo</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">C1</th>
+<th class="cabeza_tabla">C2</th>
+<th class="cabeza_tabla">C3</th>
+<th class="cabeza_tabla">C4.1</th>
+<th class="cabeza_tabla">C4.2</th>
+<th class="cabeza_tabla">C4.3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Mecanismo de dirección para tractores rápidos</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_izq">Mecanismo de dirección</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Indicador de velocidad</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_izq">Campo de visión y limpiaparabrisas</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_izq">Cristales</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_izq">Retrovisores</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_izq">Sistemas de información al conductor</td>
+<td class="cuerpo_tabla_centro">Opcional</td>
+<td class="cuerpo_tabla_centro">Opcional</td>
+<td class="cuerpo_tabla_centro">Opcional</td>
+<td class="cuerpo_tabla_centro">Opcional</td>
+<td class="cuerpo_tabla_centro">Opcional</td>
+<td class="cuerpo_tabla_centro">Opcional</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">13</td>
+<td class="cuerpo_tabla_izq">Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">15</td>
+<td class="cuerpo_tabla_izq">Compatibilidad electromagnética</td>
+<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
+<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
+<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
+<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
+<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
+<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">16</td>
+<td class="cuerpo_tabla_izq">Aparato productor de señales acústicas</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17</td>
+<td class="cuerpo_tabla_izq">Sistemas de calefacción</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">19</td>
+<td class="cuerpo_tabla_izq">Placa de matrícula</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">21</td>
+<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">22</td>
+<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">23</td>
+<td class="cuerpo_tabla_izq">Masas de lastre</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">25</td>
+<td class="cuerpo_tabla_izq">Depósito de combustible</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">28</td>
+<td class="cuerpo_tabla_izq">Plataformas de carga</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">29</td>
+<td class="cuerpo_tabla_izq">Riesgos debidos a los dispositivos de remolque</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">32</td>
+<td class="cuerpo_tabla_izq">Marcha atrás</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">33</td>
+<td class="cuerpo_tabla_izq">Orugas</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">34c</td>
+<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_izq">ROPS (tractores de orugas)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">37</td>
+<td class="cuerpo_tabla_izq">ROPS Pruebas estáticas</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">40</td>
+<td class="cuerpo_tabla_izq">FOPS, estructuras de protección contra la caída de objetos</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">41</td>
+<td class="cuerpo_tabla_izq">Asientos de pasajeros</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">42</td>
+<td class="cuerpo_tabla_izq">Exposición del conductor al nivel de ruido</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">43</td>
+<td class="cuerpo_tabla_izq">Asiento del conductor</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">44</td>
+<td class="cuerpo_tabla_izq">Campo de maniobra y acceso al puesto del conductor</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">45</td>
+<td class="cuerpo_tabla_izq">Tomas de fuerza</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">46</td>
+<td class="cuerpo_tabla_izq">Protección de los elementos motores,</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">47</td>
+<td class="cuerpo_tabla_izq">Anclajes de los cinturones de seguridad</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_izq">Cinturones de seguridad</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">49</td>
+<td class="cuerpo_tabla_izq">OPS, estructuras contra la penetración de objetos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">50</td>
+<td class="cuerpo_tabla_izq">Sistema de escape</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">51</td>
+<td class="cuerpo_tabla_izq">Manual de utilización</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">52</td>
+<td class="cuerpo_tabla_izq">Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">53</td>
+<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">54</td>
+<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">55</td>
+<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">56</td>
+<td class="cuerpo_tabla_izq">Materiales y productos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">57</td>
+<td class="cuerpo_tabla_izq">Baterías</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">58</td>
+<td class="cuerpo_tabla_izq">Salida de emergencia</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">59</td>
+<td class="cuerpo_tabla_izq">Sistema de ventilación y filtrado de la cabina</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_izq">Índice de combustión del material de la cabina</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">61</td>
+<td class="cuerpo_tabla_izq">Emisiones contaminantes</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">62</td>
+<td class="cuerpo_tabla_izq">Nivel sonoro (externo)</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+</tbody>
+</table>
+
+**PARTE V:**
+
+**Serie corta nacional de vehículos de las categorías C1, C2, C3, C4.1, C4.2 y C4.3 (subcategorías a y b)**
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">N.º</th>
+<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (*) (H)</th>
+<th class="cabeza_tabla" colspan="6">Serie Corta Nacional</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">C1</th>
+<th class="cabeza_tabla">C2</th>
+<th class="cabeza_tabla">C3</th>
+<th class="cabeza_tabla">C4.1</th>
+<th class="cabeza_tabla">C4.2</th>
+<th class="cabeza_tabla">C4.3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Mecanismo de dirección para tractores rápidos</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) A</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_izq">Mecanismo de dirección</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) A</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Indicador de velocidad</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_izq">Campo de visión y limpiaparabrisas</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_izq">Cristales</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_izq">Retrovisores</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_izq">Sistemas de información al conductor</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">13</td>
+<td class="cuerpo_tabla_izq">Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">15</td>
+<td class="cuerpo_tabla_izq">Compatibilidad electromagnética</td>
+<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
+<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
+<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
+<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
+<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
+<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">16</td>
+<td class="cuerpo_tabla_izq">Aparato productor de señales acústicas</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17</td>
+<td class="cuerpo_tabla_izq">Sistemas de calefacción</td>
+<td class="cuerpo_tabla_centro">B (8)</td>
+<td class="cuerpo_tabla_centro">B (8)</td>
+<td class="cuerpo_tabla_centro">B (8)</td>
+<td class="cuerpo_tabla_centro">B (8)</td>
+<td class="cuerpo_tabla_centro">B (8)</td>
+<td class="cuerpo_tabla_centro">B (8)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">19</td>
+<td class="cuerpo_tabla_izq">Placa de matrícula</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">21</td>
+<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">22</td>
+<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">23</td>
+<td class="cuerpo_tabla_izq">Masas de lastre</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">25</td>
+<td class="cuerpo_tabla_izq">Depósito de combustible</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">28</td>
+<td class="cuerpo_tabla_izq">Plataformas de carga</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">29</td>
+<td class="cuerpo_tabla_izq">Riesgos debidos a los dispositivos de remolque</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">32</td>
+<td class="cuerpo_tabla_izq">Marcha atrás</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">33</td>
+<td class="cuerpo_tabla_izq">Orugas</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">34c</td>
+<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_izq">ROPS (tractores de orugas)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">37</td>
+<td class="cuerpo_tabla_izq">ROPS Pruebas estáticas</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">40</td>
+<td class="cuerpo_tabla_izq">FOPS, estructuras de protección contra la caída de objetos</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">41</td>
+<td class="cuerpo_tabla_izq">Asientos de pasajeros</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">42</td>
+<td class="cuerpo_tabla_izq">Exposición del conductor al nivel de ruido</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">43</td>
+<td class="cuerpo_tabla_izq">Asiento del conductor</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">44</td>
+<td class="cuerpo_tabla_izq">Campo de maniobra y acceso al puesto del conductor</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">45</td>
+<td class="cuerpo_tabla_izq">Tomas de fuerza</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">46</td>
+<td class="cuerpo_tabla_izq">Protección de los elementos motores,</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">47</td>
+<td class="cuerpo_tabla_izq">Anclajes de los cinturones de seguridad</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_izq">Cinturones de seguridad</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">49</td>
+<td class="cuerpo_tabla_izq">OPS, estructuras contra la penetración de objetos</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+<td class="cuerpo_tabla_centro">A (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">50</td>
+<td class="cuerpo_tabla_izq">Sistema de escape</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">51</td>
+<td class="cuerpo_tabla_izq">Manual de utilización</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">52</td>
+<td class="cuerpo_tabla_izq">Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">53</td>
+<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">54</td>
+<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">55</td>
+<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">56</td>
+<td class="cuerpo_tabla_izq">Materiales y productos</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">57</td>
+<td class="cuerpo_tabla_izq">Baterías</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">58</td>
+<td class="cuerpo_tabla_izq">Salida de emergencia</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">59</td>
+<td class="cuerpo_tabla_izq">Sistema de ventilación y filtrado de la cabina</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_izq">Índice de combustión del material de la cabina</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">61</td>
+<td class="cuerpo_tabla_izq">Emisiones contaminantes</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">62</td>
+<td class="cuerpo_tabla_izq">Nivel sonoro (externo)</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+</tbody>
+</table>
+
+**PARTE VI:**
+
+**Homologación individual de vehículos de las categorías C1, C2, C3, C4.1, C4.2 y C4.3 (subcategorías a y b)**
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">N.º</th>
+<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (*) (H)</th>
+<th class="cabeza_tabla" colspan="6">Homologación Individual</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">C1</th>
+<th class="cabeza_tabla">C2</th>
+<th class="cabeza_tabla">C3</th>
+<th class="cabeza_tabla">C4.1</th>
+<th class="cabeza_tabla">C4.2</th>
+<th class="cabeza_tabla">C4.3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq">Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Mecanismo de dirección para tractores rápidos</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) B</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_izq">Mecanismo de dirección</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) B</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) B</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) B</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) B</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) B</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) B</p>
+<p class="cuerpo_tabla_centro">(b) N/A</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Indicador de velocidad</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_izq">Campo de visión y limpiaparabrisas</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_izq">Cristales</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_izq">Retrovisores</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td>
+<p class="cuerpo_tabla_izq">(a) N/A</p>
+<p class="cuerpo_tabla_izq">(b) B (4)</p>
+</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+<td class="cuerpo_tabla_centro">B (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_izq">Sistemas de información al conductor</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+<td class="cuerpo_tabla_centro">B (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">13</td>
+<td>
+<p class="cuerpo_tabla_izq">Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</p>
+</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">15</td>
+<td class="cuerpo_tabla_izq">Compatibilidad electromagnética</td>
+<td class="cuerpo_tabla_centro">B (1) (6)</td>
+<td class="cuerpo_tabla_centro">B (1) (6)</td>
+<td class="cuerpo_tabla_centro">B (1) (6)</td>
+<td class="cuerpo_tabla_centro">B (1) (6)</td>
+<td class="cuerpo_tabla_centro">B (1) (6)</td>
+<td class="cuerpo_tabla_centro">B (1) (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">16</td>
+<td class="cuerpo_tabla_izq">Aparato productor de señales acústicas</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17</td>
+<td class="cuerpo_tabla_izq">Sistemas de calefacción</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">19</td>
+<td class="cuerpo_tabla_izq">Placa de matrícula</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">21</td>
+<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">22</td>
+<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">23</td>
+<td class="cuerpo_tabla_izq">Masas de lastre</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">25</td>
+<td class="cuerpo_tabla_izq">Depósito de combustible</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">28</td>
+<td class="cuerpo_tabla_izq">Plataformas de carga</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">29</td>
+<td class="cuerpo_tabla_izq">Riesgos debidos a los dispositivos de remolque</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">32</td>
+<td class="cuerpo_tabla_izq">Marcha atrás</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">33</td>
+<td class="cuerpo_tabla_izq">Orugas</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">34c</td>
+<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td class="cuerpo_tabla_centro">B (4) (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_izq">ROPS (tractores de orugas)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">37</td>
+<td class="cuerpo_tabla_izq">ROPS Pruebas estáticas</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">40</td>
+<td class="cuerpo_tabla_izq">FOPS, estructuras de protección contra la caída de objetos</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">41</td>
+<td class="cuerpo_tabla_izq">Asientos de pasajeros</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">N/A</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">42</td>
+<td class="cuerpo_tabla_izq">Exposición del conductor al nivel de ruido</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">43</td>
+<td class="cuerpo_tabla_izq">Asiento del conductor</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">44</td>
+<td class="cuerpo_tabla_izq">Campo de maniobra y acceso al puesto del conductor</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">45</td>
+<td class="cuerpo_tabla_izq">Tomas de fuerza</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">46</td>
+<td class="cuerpo_tabla_izq">Protección de los elementos motores,</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">47</td>
+<td class="cuerpo_tabla_izq">Anclajes de los cinturones de seguridad</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+<td class="cuerpo_tabla_centro">C (9)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_izq">Cinturones de seguridad</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">49</td>
+<td class="cuerpo_tabla_izq">OPS, estructuras contra la penetración de objetos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">50</td>
+<td class="cuerpo_tabla_izq">Sistema de escape</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">51</td>
+<td class="cuerpo_tabla_izq">Manual de utilización</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">52</td>
+<td class="cuerpo_tabla_izq">Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">53</td>
+<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">54</td>
+<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">55</td>
+<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">56</td>
+<td class="cuerpo_tabla_izq">Materiales y productos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">57</td>
+<td class="cuerpo_tabla_izq">Baterías</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">58</td>
+<td class="cuerpo_tabla_izq">Salida de emergencia</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">59</td>
+<td class="cuerpo_tabla_izq">Sistema de ventilación y filtrado de la cabina</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_izq">Índice de combustión del material de la cabina</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">61</td>
+<td class="cuerpo_tabla_izq">Emisiones contaminantes</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">62</td>
+<td class="cuerpo_tabla_izq">Nivel sonoro (externo)</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+</tbody>
+</table>
+
+Leyenda:
+
+X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo UE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.
+
+A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.
+
+B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.
+
+C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.
+
+H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción.
+
+N/A: Este acto normativo no es aplicable (ningún requisito)
+
+RGV: Reglamento general de vehículos
+
+(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los Anexos I y II del RD 2028/1986.
+
+(1) Subconjunto electrónico.
+
+(2) Componente, UTI (Unidad técnica independiente).
+
+(3) Vehículo.
+
+(4) Prescripciones de instalación
+
+(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes deberán disponer de su homologación CEPE/ONU o equivalente.
+
+(9) Las actas de los ensayos (cumplimentadas) de acuerdo con los códigos de la OCDE que se facilitan a continuación podrán utilizarse como alternativa a los informes de ensayos redactados de conformidad con las directivas específicas correspondientes.
+
+| Aplicable a | Alternativa al acta de ensayo de la UE basada en los siguientes anexos del R (UE) 1322/2014 | Asunto | Código OCDE |
+|---|---|---|---|
+| C1<br>C4.2<br>C4.3 | Anexo VIII y Anexo XVIII (si los anclajes de los cinturones de seguridad han sido objeto de ensayo) | Ensayos oficiales de estructuras de protección de tractores agrícolas o<br>forestales (ensayo estático) | Código 4 |
+| C | Anexo XIII | Medición oficial del ruido en los puestos del conductor de los tractores agrícolas y forestales | Código 5 |
+| C2<br>C3<br>C4.3 | Anexo X y Anexo XVIII (si los anclajes de los cinturones de seguridad han sido objeto de ensayo) | Ensayos oficiales de estructuras de protección<br>montadas en la parte trasera de tractores agrícolas o forestales de ruedas, vía estrecha | Código 7 |
+| C1<br>C2<br>C4.2<br>C4.3 | Anexo VII y Anexo XVIII (si los anclajes de los cinturones de seguridad han sido objeto de ensayo) | Ensayos oficiales de las estructuras de protección de los tractores agrícolas y forestales de orugas | Código 8 |
+| C | Anexo XI, parte C | Ensayos oficiales de las estructuras de protección<br>contra la caída de objetos de los tractores agrícolas y forestales | Código 10 |
+
+(a) Vehículos que por construcción no pueden desarrollar una velocidad una velocidad superior a 40 km/h.
+
+(b) Vehículos que por construcción pueden desarrollar una velocidad una velocidad superior a 40 km/h.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## ANEXO VI — Homologación Nacional de Vehículos
+
+**Anexo Técnico sobre Homologación Nacional de Motocultores**
+
+(Incluye: Homologación Nacional de Tipo y Homologación Individual)
+
+Índice:
+
+Apéndice 1: Generalidades.
+
+Parte I: Definición según categorías de: Tipo, variante y versión
+
+Parte II: Modelos de números de homologación.
+
+Apéndice 2: Homologación Nacional de tipo.
+
+Parte I: Campo de aplicación.
+
+Parte II: Ficha de características.
+
+Parte III: Modelos de fichas reducidas.
+
+Parte IV: Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV).
+
+Parte V: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 3: Serie corta nacional (No aplicable).
+
+Apéndice 4: Homologación Individual.
+
+Parte I: Campo de aplicación.
+
+Parte II: Modelos de fichas reducidas
+
+Parte III: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 5: Lista de requisitos exigidos para la homologación nacional de tipo y homologación individual del vehículo, sus partes y piezas.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 1 — Generalidades
+
+**PARTE I**
+
+**Definición según categorías de: Tipo, variante y versión**
+
+1\. Tipo.
+
+Se considerarán como vehículos del mismo tipo a aquellos que no presentan entre sí ninguna diferencia en los aspectos siguientes:
+
+– Fabricante,
+
+– Pertenecer al mismo género
+
+– Pertenecer a una de las categorías que a continuación se indican, atendiendo a la potencia nominal de su motor:
+
+– Potencia de motor ≤ 6 kW
+
+– 6 kW < Potencia de motor ≤ 9 kW
+
+– Potencia de motor > 9 kW
+
+2\. Variante.
+
+Los vehículos pertenecientes a un mismo tipo que no presentan entre sí ninguna de las diferencias siguientes:
+
+– Tipo y modelo de motor.
+
+– Elementos de rodadura.
+
+– Tipo de circulación:
+
+– Arrastrando un remolque especial agrícola de menos de 750 kg. Debe indicarse explícitamente que el motocultor solo podrá matricularse cuando arrastre un remolque especial que haya obtenido previamente autorización administrativa).
+
+– Ser conducido desde un asiento para el conductor. Conjunto formado por unidad tractora conectada el remolque o máquina agrícola o apero o bastidor auxiliar con ruedas.
+
+3\. Versión.
+
+Los motocultores pertenecientes a una misma variante y que consistan en una combinación de los elementos que figuran en la ficha de características.
+
+**PARTE II**
+
+**Modelos de números de homologación**
+
+Homologación Nacional de Tipo:
+
+MTC*xxxxx*xx.
+
+Constará de tres secciones separadas por un asterisco,
+
+Primera sección: «MTC»
+
+Segunda sección: Una secuencia numérica de al menos cinco dígitos que indica el número de homologación de base.
+
+Tercera sección: Una secuencia numérica de dos dígitos que indique la extensión. La secuencia empezará a partir de 00 para cada número de homologación de base.
+
+En los casos de corrección que no implican extensión, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+Serie Corta Nacional:
+
+No aplicable.
+
+Homologación Individual:
+
+HIMTC-xxxxx.
+
+Constará de los caracteres HIMTC seguidos de una secuencia numérica de al menos cinco dígitos, que indicará el número de aprobación individual.
+
+En los casos de corrección, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 2 — Homologación Nacional de Tipo
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación se extiende a los nuevos tipos de motocultores homologados como conjunto de cabeza tractora dirigida desde un asiento situado en un remolque de un eje o bastidor auxiliar de un eje con ruedas, bajo la denominación de «Motocultor» destinados a trabajos agrícolas, forestales y de obras y/o servicios, con la velocidad máxima de circulación establecida en el Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación para la aplicación y desarrollo del texto articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial, aprobado por el Real Decreto Legislativo 339/1990, de 2 de marzo.
+
+**PARTE II**
+
+**Ficha de características**
+
+Se aportará la información que figura a continuación, la cual irá acompañada de una lista de los elementos incluidos. Los planos y fotografías, en su caso, se presentarán a la escala adecuada, suficientemente detallados.
+
+**PARTE III**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de ficha reducida son los establecidos en este apéndice.
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Según lo establecido en este apéndice.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en este apéndice.
+
+**PARTE II**
+
+**Ficha de características**
+
+| Epígrafe | Ficha de características. Motocultores |
+|---|---|
+| 0 | GENERALIDADES |
+| 0.1 | Marca |
+| 0.2 | Identificación |
+| 0.2.1 | Tipo |
+| 0.2.2 | Variantes<br>En cuanto a su circulación, hay que distinguir entre:<br>– Vehículo para circular arrastrando un remolque agrícola de menos de 750 kg. Debe indicarse explícitamente que el motocultor solo podrá matricularse cuando arrastre un remolque especial que haya obtenido previamente autorización administrativa.<br>– Vehículo para circular conducido desde un asiento para el conductor: conjunto formado por unidad tractora conectada el remolque o máquina agrícola o apero o bastidor auxiliar con ruedas. |
+| 0.2.3 | Versiones |
+| 0.2.4 | Denominación comercial |
+| 0.3 | Clasificación (1): AGRÍCOLA / OBRAS / SERVICIOS |
+| 0.3.1 | Género (2) |
+| 0.4 | Nombre y dirección del fabricante |
+| 0.5 | Nombre y dirección del representante del fabricante |
+| 0.6 | Emplazamiento y modo de colocación de las placas e inscripciones reglamentarias |
+| 0.6.1 | Emplazamiento de la placa del fabricante (3) |
+| 0.6.2 | Emplazamiento del número de identificación del motocultor (4) |
+| 0.7 | La numeración en la serie del tipo para identificación del motocultor empieza en el número... |
+| 1 | CONSTITUCIÓN GENERAL DEL MOTOCULTOR |
+|  | (Adjuntar fotografías, una tres cuartos delante y otra tres cuartos detrás, en su lado opuesto, con un esquema acotado del conjunto del motocultor) |
+| 1.1 | Número de ruedas (elementos de rodadura) |
+| 1.1.1 | Ruedas motrices (Número y emplazamiento) |
+| 1.2 | Emplazamiento y disposición del motor. |
+| 2 | DIMENSIONES Y MASAS (en mm. y en kg.) |
+| 2.1 | Vías |
+| 2.2 | Dimensiones máximas y mínimas del motocultor sin accesorios discrecionales |
+| 2.2.1 | Longitud |
+| 2.2.2 | Anchura |
+| 2.2.3 | Altura |
+| 2.2.4 | Voladizo delantero |
+| 2.2.5 | Distancia entre ejes |
+| 2.3 | Tara |
+| 2.4 | Masas de lastre (contrapesos) (descripción) |
+| 2.5 | Masas máximas técnicamente admisibles declaradas por el fabricante |
+| 2.5.1 | Masa máxima en carga de la máquina en función de los tipos de neumáticos previstos |
+| 2.5.2 | Masa remolcable |
+| 2.5.2.1 | Remolque sin frenos que puede arrastrar de... hasta... (kg) de masa en carga |
+| 2.5.2.2 | Remolque con frenos mecánicos independientes que puede arrastrar de... hasta... (kg) de masa en carga. |
+| 2.5.2.3 | Remolque con frenos hidráulicos que puede arrastrar de... hasta... (kg) de masa en carga. |
+| 2.6 | Masa máxima autorizada |
+| 3 | MOTOR |
+| 3.1 | Marca |
+| 3.2 | Modelo |
+| 3.3 | Tipo (encendido por chispa / encendido por compresión) y ciclo |
+| 3.4 | Número y disposición de los cilindros |
+| 3.5 | Diámetro, carrera y cilindrada |
+| 3.6 | Potencia nominal del motor:......... kW a:......... min<sup>-1</sup> con ajuste de serie |
+| 3.6.1 | Optativo: Potencia en la toma de fuerza (PDF) (Según el Código 2 de la OCDE o ISO 789-1:1990), si existe, en los regímenes normalizados.<br>![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image2.png) |
+| 3.6.2 | Número de homologación de contaminantes del motor (Fase de emisiones), en su caso |
+| 3.6.3 | Potencia fiscal (CVF) |
+| 3.7 | Carburante o combustible normalmente utilizado |
+| 3.8 | Depósito de combustible (capacidad y emplazamiento) |
+| 3.9 | Instalación eléctrica a... V |
+| 3.9.1 | Batería de … V<br>Capacidad … Ah |
+| 3.9.2 | Alternador/generador: Intensidad … A |
+| 3.10 | Refrigeración (por aire / por agua) |
+| 3.11 | Silenciador (esquema descriptivo) |
+| 4 | TRANSMISIÓN (Adjuntar esquema de la transmisión de todas las variantes previstas) |
+| 4.1 | Tipo de transmisión (mecánica, hidráulica, eléctrica, etc.): |
+| 4.2 | Embrague (tipo), en su caso: |
+| 4.3 | Caja de cambios (tipo, mando, marchas) |
+| 4.4 | Grupo diferencial, únicamente primer eje:<br>– Relación del par cónico<br>– Bloqueo del diferencial (en su caso) (descripción y emplazamiento) |
+| 4.5 | Velocidad teórica máxima (km/h) |
+| 5 | ÓRGANOS DE SUSPENSIÓN |
+| 5.1 | Neumáticos u otros elementos de rodadura |
+| 5.1.1 | Neumáticos: número |
+| 5.1.2 | Bandas elásticas o rodillos: número |
+| 5.2 | Dimensiones |
+| 5.3 | Índice de carga mínimo |
+| 5.4 | Índice de velocidad mínima |
+| 6 | DIRECCIÓN. Tipo (Adjuntar esquema de la dirección) |
+| 6.1 | Anchura |
+| 6.2 | Ángulo de giro |
+| 7 | FRENADO |
+| 7.1 | Dispositivo de frenado de servicio |
+| 7.1.1 | Superficie de fricción: … cm<sup>2</sup> |
+| 7.1.2 | Tipo de actuación y circuito. Relación de palancas, etc. |
+| 7.2 | Acoplamiento para el accionamiento simultáneo de los frenos derecho e izquierdo |
+| 8 | DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA |
+|  | (Adjuntar esquema exterior del vehículo con el emplazamiento acotado de su instalación) |
+| 8.1 | Dispositivos obligatorios (Número, color y número de homologación) |
+| 8.2 | Dispositivos facultativos (Número, color y número de homologación) |
+| 9 | VARIOS |
+| 9.1 | Avisadores acústicos |
+| 9.2 | Dispositivos de enganche y remolque, previsto para una carga horizontal máxima... N (kg) y para una carga vertical máxima de... N (kg)<br>Criterios de compatibilidad del conjunto:<br>– dimensiones del dispositivo de acoplamiento,<br>– localización del dispositivo de acoplamiento y<br>– garantizar la rigidez del conjunto |
+| 9.3 | Toma de corriente para la alimentación de los dispositivos de alumbrado y de señalización luminosa del remolque:... <sup>(5)</sup> |
+| 9.4 | Espejos retrovisores |
+
+Notas explicativas
+
+(1) Táchese lo que no proceda
+
+(2) Norma UNE 68051:1988
+
+(3) Norma UNE 68063:1983 (*)
+
+(4) Norma UNE 68064:1983 (*)
+
+(5) Norma UNE-ISO 1724:2013
+
+(*) Mientras no sean desarrolladas las actualizaciones de las normas UNE, no podrán ser utilizadas. Ver apéndice 5.
+
+En cualquier caso, se cumplirá con las últimas modificaciones en vigor de las referencias normativas.
+
+**PARTE III**
+
+**Modelo de Ficha Reducida**
+
+| Ficha reducida. Motocultores |
+|---|
+| Marca |
+| Número de homologación |
+| Identificación |
+| Tipo |
+| Variantes (0) |
+| Denominación comercial (marca y modelo) |
+| Clasificación (1): AGRÍCOLA / OBRAS / SERVICIOS |
+| Género |
+| Emplazamiento de la placa del fabricante |
+| Emplazamiento del número de identificación de la máquina |
+| DIMENSIONES Y MASAS MÁXIMAS (mm. y kg.) |
+| Vía |
+| Longitud |
+| Anchura |
+| Altura |
+| Voladizo delantero |
+| Distancia entre ejes |
+| Tara |
+| Masas de lastre (contrapesos) (descripción) |
+| Masa máxima autorizada |
+| MOTOR |
+| Marca |
+| Modelo |
+| Número y disposición de los cilindros |
+| Cilindrada (cm<sup>3</sup>) |
+| Potencia nominal del motor:......... kW a:......... min<sup>-1</sup> con ajuste de serie (de acuerdo con la normativa aplicable). |
+| Número de homologación de contaminantes del motor (Fase de emisiones), en su caso |
+| Potencia fiscal (CVF) |
+| Carburante o combustible normalmente utilizado |
+| Depósito de combustible (capacidad y emplazamiento) |
+| Instalación eléctrica a... V |
+| Batería de … V<br>Capacidad … Ah |
+| Alternador/generador: Intensidad … A |
+| Tipo de sistema de refrigeración (aire / agua) |
+| Tipo de transmisión |
+| Tipo de embrague |
+| Caja de cambios (tipo, mando, marchas) |
+| Neumáticos u otros elementos de rodadura |
+| Neumáticos: número |
+| Bandas elásticas o rodillos: número |
+| Dimensiones |
+| Índice de carga mínimo |
+| Índice de velocidad mínima |
+| DIRECCIÓN |
+| DISPOSITIVO DE FRENADO |
+| Freno de servicio |
+| Superficie de frenado (cm<sup>2</sup>) |
+| DISPOSITIVOS DE ACOPLAMIENTO |
+| Dispositivos de enganche y remolque, previsto para una carga horizontal máxima... N (kg) y para una carga vertical máxima de... N (kg)<br>Criterios de compatibilidad del conjunto:<br>– dimensiones del dispositivo de acoplamiento,<br>– localización del dispositivo de acoplamiento y<br>– garantizar la rigidez del conjunto |
+| DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA |
+| Dispositivos obligatorios/facultativos |
+| Fabricante |
+| Representante del fabricante |
+| Fecha |
+| Observaciones |
+
+Notas explicativas
+
+(0) En cuanto a su circulación, hay que distinguir entre:
+
+– Vehículo para circular arrastrando un remolque agrícola < 750 kg. Debe indicarse explícitamente que el motocultor solo podrá matricularse cuando arrastre un remolque especial que haya obtenido previamente autorización administrativa.
+
+– Vehículo para circular conducido desde un asiento para el conductor: conjunto formado por unidad tractora conectada el remolque o máquina agrícola o apero o bastidor auxiliar con ruedas
+
+(1) Táchese lo que no proceda
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Se describirán, para cada variante, las diferentes combinaciones de versiones correspondientes al tipo.
+
+Cada variante y cada versión deberán identificarse mediante un código numérico o alfanumérico que deberá indicar el vehículo que se trate.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+| Asunto | Número de homologación | Variantes / Versiones |
+|---|---|---|
+|  |  |  |
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 3 — Serie corta nacional
+
+No procede.
+
+> Se añade, con efectos de 2 de enero de 2019, por la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+## APÉNDICE 4 — Homologación Individual
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice se extiende a los vehículos singulares de las categorías de vehículos según se definen en la parte I del apéndice 2 de este anexo.
+
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
+
+**PARTE II**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de ficha reducida son los establecidos en la parte III del apéndice 2.
+
+**Parte III**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en la parte V del apéndice 2.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 5 — Lista de requisitos exigidos para la homologación del vehículo, sus partes y sus piezas en Homologación Nacional de Tipo y Homologación Individual
+
+(Motocultores)
+
+| N.º | Acto Reglamentario (*) (H) | Número AR | Homologación nacional<br>de tipo | Homologación individual |
+|---|---|---|---|---|
+| 1 | Contaminación de máquinas móviles no de carretera | Anexos I y II<br>R(UE) 2015/96<br>o 97/68/CE | (6) | (6) |
+| 2 | Frenado | R(UE) 2015/68 | (8) (RGV) | (8) (RGV) |
+| 3 | Masas y Dimensiones | Anexos XXI y XXII R(UE) 2015/208 | (RGV) | (RGV) |
+| 4 | Dispositivos de alumbrado | Anexo XII R(UE) 2015/208 | (2) (6) (RGV) | (2) (6) (RGV) |
+| 5 | Avisador acústico | Anexo XVI (UE) 2015/208 | (2) (6) (RGV) | (2) (6) (RGV) |
+| 6 | Retrovisores | Anexo IX R(UE) 2015/208 | (2) (6) (RGV) | (2) (6) (RGV) |
+| 7 | Placas traseras de matrícula | Anexo XIX (UE) 2015/208 | (RGV) | (RGV) |
+| 8 | Enganches mecánicos | Anexo XXXIV (UE) 2015/208 | (2) (7) | (2) (7) |
+| 9 | Emplazamiento y forma de colocación de las placas e inscripciones reglamentarias | Anexo XX R(UE) 2015/208 | (4) | (4) |
+
+Leyenda:
+
+X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo UE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.
+
+A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.
+
+B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.
+
+C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.
+
+H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción.
+
+N/A: Este acto normativo no es aplicable (ningún requisito)
+
+RGV: Reglamento general de vehículos
+
+(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los Anexos I y II del RD 2028/1986.
+
+(1) Subconjunto electrónico.
+
+(2) Componente, UTI (Unidad técnica independiente).
+
+(3) Vehículo.
+
+(4) Prescripciones de emplazamiento.
+
+(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes deberán disponer de su homologación CEPE/ONU o equivalente.
+
+(7) En estas exigencias se admitirán una certificación que incluya cumplimiento con ensayos realizados, en su caso, según Normas UNE, Normas ISO o equivalentes en su última versión o Directiva UE o Reglamento CEPE/ONU.
+
+(8) Ensayo tipo 0, según punto 2.2.2 del Anexo II del Reglamento (UE) 2015/68. En el caso de vehículos que dispongan de mando único para los sistemas de frenado de servicio y estacionamiento, se aplicarán únicamente los requisitos del punto 2.2.2.2 del mismo Anexo.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## ANEXO VII — Homologación Nacional de Vehículos
+
+**Anexo Técnico sobre Homologación Nacional de Máquinas Automotrices**
+
+(Incluye: Homologación Nacional de Tipo y Homologación Individual)
+
+Índice
+
+Apéndice 1: Generalidades.
+
+Parte I: Definición según categorías de: Tipo y variante
+
+Parte II: Modelos de números de homologación.
+
+Apéndice 2: Homologación Nacional de tipo.
+
+Parte I: Campo de aplicación.
+
+Parte II: Ficha de características.
+
+Parte III: Modelos de fichas reducidas.
+
+Parte IV: Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV).
+
+Parte V: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 3: Serie corta nacional (No aplicable).
+
+Apéndice 4: Homologación Individual.
+
+Parte I: Campo de aplicación.
+
+Parte II: Modelos de fichas reducidas
+
+Parte III: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 5: Lista de requisitos exigidos para la homologación nacional de tipo y homologación individual del vehículo, sus partes y piezas.
+
+Parte I: Vehículos de la categoría 1.
+
+Parte II: Vehículos de la categoría 2.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 1 — Generalidades
+
+**PARTE I**
+
+**Definición según categorías de: Tipo, variante y versión**
+
+1\. Tipo.
+
+Las máquinas automotrices que pueden ser puestas en servicio bajo la misma denominación de tipo y recibir, por tanto, el mismo número de homologación de tipo, deberán:
+
+– Tener el mismo fabricante legal, aunque no necesariamente la misma planta de montaje.
+
+– Pertenecer al mismo género de máquina.
+
+– No presentar diferencias obvias en aspectos esenciales de fabricación y diseño del bastidor (articulado o rígido).
+
+– Disponer del mismo número de ejes.
+
+– No presentar diferencias de potencia máxima de motor superiores al 30% (la mayor no superior a 1,3 veces la menor).
+
+2\. Variante.
+
+Las máquinas automotrices pertenecientes a un mismo tipo que, sin diferenciarse entre sí en cuanto a las características de tipo, presenten las mismas diferencias respecto al mismo en lo que concierne a las siguientes características:
+
+– Tipo y modelo del motor.
+
+– Cualquier cambio en las características del motor que varíe su potencia en > 5 %.
+
+– Número de ejes motrices.
+
+– Clase de transmisión.
+
+– Tener el mismo sistema de rodadura (neumáticos, cadenas o rodillos).
+
+– M.T.M.A
+
+– Diferencias en distancia entre ejes superior al 10%.
+
+3\. Versión.
+
+Las máquinas automotrices pertenecientes a una misma variante y que consistan en una combinación de los elementos que figuran en la ficha de características.
+
+**PARTE II**
+
+**Modelos de números de homologación**
+
+Homologación Nacional de Tipo:
+
+Categoría 1:
+
+MAA-xxxxx*xx.
+
+Categoría 2:
+
+MA2-xxxxx*xx.
+
+Constará de tres secciones separadas por un asterisco.
+
+Primera sección: Constará de los caracteres MAA o MA2
+
+Segunda sección: Una secuencia numérica de al menos cinco dígitos que indica el número de homologación de base.
+
+Tercera sección: Una secuencia numérica de dos dígitos que indique la extensión. La secuencia empezará a partir de 00 para cada número de homologación de base.
+
+En los casos de corrección que no implican extensión, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+Serie Corta Nacional:
+
+No procede.
+
+Homologación Individual:
+
+HIMA-xxxxx : Vehículos de la categoría 1 y 2.
+
+Constará de los caracteres HIMA seguidos de una secuencia numérica de al menos cinco dígitos, que indicará el número de aprobación individual.
+
+En los casos de corrección se añadirán los caracteres «Rev» más un número de dos cifras que indica el número de revisión.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 2 — Homologación Nacional de Tipo
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación se extiende a los nuevos tipos de máquinas automotrices tal como están definidas en el Reglamento General de Vehículos para efectuar trabajos agrícolas, forestales y de obras y/o servicios.
+
+A efectos de la homologación nacional de tipo se establecen dos subcategorías:
+
+– Categoría 1: Máquinas automotrices con una velocidad máxima por construcción inferior o igual a 40 km/h.
+
+– Categoría 2: Máquinas automotrices con una velocidad máxima por construcción superior a 40 km/h.
+
+Solamente serán consideradas como máquinas automotrices en aquellos casos donde el equipo de trabajo se considere permanente.
+
+**PARTE II**
+
+**Ficha de características**
+
+Se aportará la información que figura a continuación, la cual irá acompañada de una lista de los elementos incluidos. Los planos y fotografías, en su caso, se presentarán a la escala adecuada, suficientemente detallados.
+
+**PARTE III**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de ficha reducida son los establecidos en este apéndice.
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Según lo establecido en este apéndice.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en este apéndice.
+
+**PARTE II**
+
+**Ficha de características**
+
+| Epígrafe | Ficha de características. Máquinas automotrices |
+|---|---|
+| 0 | GENERALIDADES |
+| 0.1 | Marca |
+| 0.2 | Identificación |
+| 0.2.1 | Tipo |
+| 0.2.2 | Variantes |
+| 0.2.3 | Versión |
+| 0.2.4 | Denominación comercial |
+| 0.3 | Clasificación(1): Agrícola / Obras / Servicios |
+| 0.3.1 | Género de máquinas (2)<br>En caso de Carretillas alimentadas por GLP: Se indicará que la máquina no está destinada al transporte de mercancías por carretera, que su desplazamiento está limitado a recorridos cortos adyacentes a su emplazamiento habitual y con baja velocidad limitada por construcción. |
+| 0.4 | Nombre y dirección del fabricante legal |
+| 0.5 | En su caso, nombre y dirección del representante del fabricante |
+| 0.6 | Emplazamiento y modo de colocación de las placas e inscripciones reglamentarias |
+| 0.6.1 | Emplazamiento de la placa del fabricante (3) |
+| 0.6.2 | Emplazamiento del número de identificación de la máquina (4) |
+| 0.7 | La numeración en la serie del tipo para identificación de la máquina empieza en el número: |
+| 0.8 | Plantas de montaje |
+| 1 | CONSTITUCIÓN GENERAL DE LA MÁQUINA<br>(Adjuntar fotografías de la máquina, una tres cuartos delante y otra tres cuartos detrás, en su lado opuesto, así como esquema acotado de la misma) |
+| 1.1 | Número de ejes |
+| 1.2 | Número de ruedas o elementos de rodadura<br>Número y emplazamiento de ejes de ruedas gemelas |
+| 1.3 | Número y situación de ejes motrices |
+| 2 | DIMENSIONES Y MASAS (en mm. y en kg.) |
+| 2.1 | Dimensiones máximas y mínimas de la máquina en orden de marcha |
+| 2.1.1 | Distancia entre ejes |
+| 2.1.2 | Vías en cada eje |
+| 2.1.3 | Longitud |
+| 2.1.4 | Anchura |
+| 2.1.5 | Altura |
+| 2.1.6 | Voladizo delantero |
+| 2.1.7 | Voladizo trasero |
+| 2.2 | Tara |
+| 2.3 | Masa en vacío en orden de marcha (masa de la máquina en orden de marcha con conductor y con equipamiento y ajus de serie, líquido de refrigeración, lubricantes y combustibles y herramientas). |
+| 2.3.1 | Reparto de esta masa entre los ejes |
+| 2.4. | Masas máximas técnicamente admisibles declaradas por el fabricante |
+| 2.4.1 | Masas máximas técnicamente admisibles por eje |
+| 2.4.2 | Límites del reparto de esta masa entre los ejes (especificar los límites mínimos en porcentaje sobre cada eje) |
+| 2.4.3 | Masa remolcable |
+| 2.4.3.1 | Remolque / Máquina remolcada sin frenos de servicio: |
+| 2.4.3.2 | Remolque / Máquina remolcada con freno mecánico de servicio (inercia / independiente): |
+| 2.4.3.3 | Remolque / Máquina remolcada con frenos hidráulicos o neumáticos de servicio: |
+| 2.5 | Masas máximas autorizadas |
+| 2.5.1 | Masas máximas autorizadas por eje |
+| 3 | MOTOR |
+| 3.1 | Marca y fabricante |
+| 3.2. | Modelo |
+| 3.3 | Tipo y ciclo |
+| 3.4 | Número y disposición de los cilindros |
+| 3.5 | Diámetro (mm), carrera (mm) y cilindrada (cm<sup>3</sup>) |
+| 3.6 | Potencia nominal del motor: …… kW a: ……. min<sup>-1</sup> con ajuste de serie |
+| 3.6.1 | Número de homologación de contaminantes del motor (Fase de emisiones) |
+| 3.6.2 | Potencia fiscal (CVF) |
+| 3.7 | Combustible normalmente utilizado |
+| 3.8 | Depósito de combustible (capacidad y emplazamiento)<br>En caso de carretillas alimentadas por GLP: Se indicarán las normas que, en cuanto a seguridad, cumple el depósit demás componentes del sistema de alimentación, especificándose el número de aprobación CE o la contraseña homologación CEPEONU, según el caso. Se indicará, además, la designación de tipo marcada en el depósito. |
+| 3.9 | Depósito auxiliar de combustible (capacidad y emplazamiento) |
+| 3.10 | Instalación eléctrica a … V |
+| 3.10.1 | …. Batería de …. V |
+| 3.10.2 | Alternador-dinamo<br>Potencia nominal: …. W |
+| 3.11 | Refrigeración (por aire, por agua) |
+| 3.12 | Silenciador (marca, tipo y esquema descriptivo). |
+| 4 | TRANSMISIÓN<br>(Adjuntar esquema de la transmisión de todas las variantes previstas) |
+| 4.1 | Tipo de transmisión (mecánica, hidráulica, etc.) |
+| 4.2 | Tipo de embrague |
+| 4.3 | Caja de cambios |
+| 4.3.1 | Marca y modelo |
+| 4.3.2 | Tipo de caja de cambios |
+| 4.3.2.1 | Accionamiento |
+| 4.3.3 | Marchas |
+| 4.4 | Grupo diferencial |
+| 4.4.1 | Relación del par cónico |
+| 4.4.2 | Bloqueo del diferencial. Descripción y emplazamiento |
+| 4.5 | Velocidad máxima por construcción |
+| 5 | ÓRGANOS DE SUSPENSIÓN |
+| 5.1 | Neumáticos u otros elementos de rodadura |
+| 5.1.1. | Neumáticos: número |
+| 5.1.2 | Bandas elásticas o rodillos: número |
+| 5.2 | Designación de las dimensiones |
+| 5.3 | Índice de velocidad mínima |
+| 5.4 | Índice de carga mínimo |
+| 5.5 | Tipo de suspensión (si existe) para cada eje o rueda |
+| 6 | DIRECCIÓN<br>(Adjuntar esquema de la dirección) |
+| 6.1 | Dirección |
+| 6.1.1 | Mecanismo de control de la dirección |
+| 6.1.2 | Mecanismo tipo |
+| 6.1.3 | Cilindro, ayuda, tipo |
+| 6.1.4 | Número de vueltas volante/ángulo giro máximo de rueda |
+| 6.1.5 | Diámetro del volante (mm) |
+| 6.2 | Radio mínimo del espacio de giro (5) |
+| 6.2.1 | A la derecha:... mm |
+| 6.2.2 | A la izquierda:... mm |
+| 7 | FRENADO<br>(Adjuntar esquema del cinematismo)<br>Para cada dispositivo de frenado se deberá precisar: Tipo y naturaleza de los frenos. (Adjuntar esquema, ruedas frenad transmisión del sistema y accionamiento, superficie activa, zapatas o discos, tipos de regulación) |
+| 7.1 | Freno de servicio |
+| 7.1.1 | Tipo de actuación y circuito |
+| 7.1.2 | Cálculo de los frenos de servicio: Determinación de la relación entre la suma de las fuerzas de frenando en la periferia las ruedas y la fuerza ejercida sobre el mando |
+| 7.2 | Freno de socorro (descripción, si existe) |
+| 7.3 | Freno de estacionamiento (descripción) |
+| 7.4 | Acoplamiento para el accionamiento simultáneo de los frenos derecho e izquierdo |
+| 7.5 | Dispositivos eventuales (retardador) |
+| 7.6 | Fuentes de energía, si existen (características) |
+| 7.7 | Dispositivo para frenado del remolque (si existe) (Adjuntar esquema del circuito de freno) |
+| 7.7.1 | Descripción y características (presiones de servicio y de seguridad) |
+| 7.8 | Dispositivos antibloqueo |
+| 8 | PUESTO DEL CONDUCTOR Y DISPOSITIVOS DE PROTECCIÓN CONTRA EL VUELCO |
+| 8.1 | Descripción general |
+| 8.2 | Asiento del conductor (marca y modelo) |
+| 8.2.1 | Asientos de acompañantes |
+| 8.3 | Instrumentación |
+| 8.4 | Mandos |
+| 8.5 | Facilidades de acceso al puesto de conducción |
+| 8.6 | Espejos retrovisores |
+| 9 | DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA<br>Adjuntar esquema exterior de la máquina con el emplazamiento acotado de su instalación) |
+| 9.1 | Dispositivos obligatorios (Número, color y marca de homologación) |
+| 9.2 | Dispositivos facultativos (Número, color y marca de homologación) |
+| 10 | VARIOS |
+| 10.1 | Avisadores acústicos |
+| 10.2 | Dispositivos del enganche de remolque (6) |
+| 10.2.1 | Marca, modelo y norma de construcción o número de homologación. |
+| 10.2.2 | Cargas máximas técnicamente admisibles declaradas por el fabricante: |
+| 10.2.2.1 | Carga vertical |
+| 10.2.2.2 | Carga horizontal |
+| 10.3 | Toma de corriente para alimentación de los dispositivos de alumbrado, señalización luminosa y servicio del remolqu máquina remolcada (7) |
+| 10.4 | Emplazamiento de la placa de matrícula trasera |
+
+Notas explicativas:
+
+(1) Táchese lo que no proceda
+
+(2) Norma UNE 68051:1983
+
+(3) Norma UNE 68063:1983 (*)
+
+(4) Norma UNE 68064:1983 (*)
+
+(5) Norma UNE 68066:1983
+
+(6) Mientras no se desarrollen las normas UNE aplicables en su última modificación, se podrán aceptar las normas ISO desarrolladas o equivalentes en su última versión para el cumplimiento del apéndice 5.
+
+(7) Norma UNE-ISO 1724:2013
+
+(*) Mientras no sean desarrolladas las actualizaciones de las normas UNE, no podrán ser utilizadas. Ver apéndice 5.
+
+En cualquier caso, se cumplirá con las últimas modificaciones en vigor de las referencias normativas.
+
+**PARTE III**
+
+**Modelo de Ficha Reducida**
+
+| Ficha reducida. Máquinas automotrices |
+|---|
+| Marca |
+| Número de homologación |
+| Identificación |
+| Tipo |
+| Variantes |
+| Versión |
+| Denominación comercial |
+| Clasificación (1): Agrícola / Obras / Servicios |
+| Genero de máquina (2)<br>En caso de Carretillas alimentadas por GLP: Se indicará que la máquina no está destinada al transporte de mercancías por carretera, que su desplazamiento está limitado a recorridos cortos adyacentes a su emplazamiento habitual y con baja velocidad limitada por construcción. |
+| Emplazamiento de la placa del fabricante |
+| Emplazamiento del número de identificación |
+| CONSTITUCIÓN GENERAL DEL VEHÍCULO<br>(Adjuntar fotografías de la máquina, una tres cuartos delante y otra tres cuartos detrás o planos de una versión representativa y un pl acotado de todo el vehículo). |
+| N.º de ejes y ruedas |
+| Número y emplazamiento de ejes de ruedas gemelas |
+| Ejes motores (n.º, localización e interconexión) |
+| DIMENSIONES Y MASAS (en mm. y kg.) |
+| Distancia entre ejes |
+| Vías en cada eje |
+| Longitud total |
+| Anchura total |
+| Altura |
+| Voladizo trasero |
+| Tara |
+| Masa en vacío en orden de marcha |
+| Masa máxima técnicamente admisible |
+| Masas máximas técnicamente admisibles por eje |
+| Masa remolcable |
+| Remolque / Máquina remolcada sin frenos de servicio: |
+| Remolque / Máquina remolcada con freno mecánico de servicio (inercia / independiente): |
+| Remolque / Máquina remolcada con frenos hidráulicos o neumáticos de servicio: |
+| Masa máxima autorizada |
+| Masas máximas autorizadas por eje |
+| MOTOR |
+| Marca |
+| Modelo |
+| N.º de cilindros |
+| Cilindrada (cm3) |
+| Potencia nominal del motor:......... kW a:......... min-1 con ajuste de serie |
+| Número de homologación de contaminantes del motor (Fase de emisiones) |
+| Potencia fiscal (CVF) |
+| Combustible |
+| Depósito de combustible (capacidad y emplazamiento)<br>En caso de carretillas alimentadas por GLP: Se indicarán las normas que, en cuanto a seguridad, cumple el depósito y demás componen del sistema de alimentación, especificándose el número de aprobación CE o la contraseña de homologación CEPEONU, según el caso, indicará, además, la designación de tipo marcada en el depósito. |
+| INSTALACIÓN ELÉCTRICA |
+| Batería |
+| Alternador (A) |
+| Refrigeración (por aire, por agua) |
+| TRANSMISIÓN |
+| Tipo de transmisión |
+| Tipo de embrague |
+| Tipo de caja de cambios |
+| Accionamiento |
+| Marchas: |
+| ÓRGANOS DE SUSPENSIÓN |
+| Neumáticos u otros elementos de rodadura |
+| Neumáticos: número |
+| Bandas elásticas o rodillos: número |
+| Dimensiones |
+| Índice mínimo de velocidad |
+| Índice mínimo de carga |
+| Tipo de suspensión (si existe) para cada eje o rueda |
+| DIRECCIÓN |
+| Tipo |
+| Relación |
+| Diámetro del volante (mm) |
+| DISPOSITIVO DE FRENADO |
+| Freno de servicio (Tipo) |
+| Freno de estacionamiento |
+| Fuentes de energía, si existe (características) |
+| PUESTO DEL CONDUCTOR |
+| Número de asientos |
+| Espejos retrovisores |
+| Indicadores. Relacionar |
+| Presión de aceite |
+| Cuentahoras |
+| Velocímetro |
+| Nivel combustible |
+| Temperatura |
+| Cuenta revoluciones |
+| Tacómetros |
+| Testigos. Relacionar |
+| Carga de generador |
+| Indicadores de dirección |
+| Presión de aceite |
+| Nivel líquido frenos |
+| Freno de estacionamiento |
+| DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA |
+| Dispositivos obligatorios/facultativos |
+| DISPOSITIVOS DE ACOPLAMIENTO |
+| Acoplamientos mecánicos entre tractores y vehículos remolcados: |
+| Tipo(s) de acoplamiento:... |
+| Fabricante |
+| Representante del fabricante |
+| Fecha |
+| Observaciones |
+
+Notas explicativas
+
+(1) Táchese lo que no proceda
+
+(2) Norma UNE 68051:1983
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Se describirán, para cada variante, las diferentes combinaciones de versiones correspondientes al tipo.
+
+Cada variante y cada versión deberán identificarse mediante un código numérico o alfanumérico que deberá indicar el vehículo que se trate.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+| Asunto | Número de homologación | Variantes / Versiones |
+|---|---|---|
+|  |  |  |
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 3 — Serie corta nacional
+
+No procede.
+
+> Se añade, con efectos de 2 de enero de 2019, por la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+## APÉNDICE 4 — Homologación Individual
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice se extiende a las categorías de vehículos según se definen en la parte I del apéndice 2 de este anexo.
+
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
+
+**PARTE II**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de ficha reducida son los establecidos en la parte III del apéndice 2.
+
+**PARTE III**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en la parte V del apéndice 2.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 5 — Lista de requisitos exigidos para la homologación del vehículo, sus partes y sus piezas en
+
+Homologación Nacional de Tipo y Homologación Individual
+
+(Vehículos de la categoría 1)
+
+| N.º | Asunto (*) (H) | Número AR | Homologación nacional de tipo | Homologación individual |
+|---|---|---|---|---|
+| 1 | Contaminación de máquinas móviles no de carretera | Anexos I y II<br>R(UE) 2015/96<br>o 97/68/CE | A | B |
+| 2 | Masas y dimensiones. | Anexos XXI y XXII<br>R(UE) 2015/208 | (RGV) (5) | (RGV) (5) |
+| 3 | Placas traseras de matrícula | Anexo XIX R(UE) 2015/208 | A | B |
+| 4 | Frenado | R(UE) 2015/68 o R. CEPE/ONU n.º13 | (7) (RGV) | (7) (RGV) |
+| 5 | Dispositivos de alumbrado | Anexo XI R(UE) 2015/208 | X (2) | X (2) |
+| 6 | Instalación de los dispositivos de alumbrado | Anexo XII R(UE) 2015/208 | A (4) | B (4) |
+| 7 | Avisador acústico | Anexo XVI<br>R(UE) 2015/208 o R. CEPE/ONU n.º28 | X (2) A (4) | B (4) |
+| 8 | Retrovisores | Anexo IX<br>R(UE) 2015/208 o R. CEPE/ONU n.º46 | X (2) A (4) | B (4) |
+| 9 | Parabrisas y otros vidrios | Anexo VIII<br>R(UE) 2015/208 o R. CEPE/ONU n.º43 | X (2) A (4) | B (4) |
+| 10 | Enganches mecánicos | Anexo XXXIV<br>R(UE) 2015/208 o R. CEPE/ONU n.º55 | A (2) (4) (6) | B (2) (4) (6) |
+| 11 | Emplazamiento y forma de colocación de las placas e inscripciones reglamentarias | Anexo XX<br>R(UE) 2015/208 o R(UE) 19/2011 | A | B |
+
+**PARTE II**
+
+(Vehículos de la categoría 2)
+
+| N.º | Asunto (*) (H) | Número AR | Homologación nacional de tipo | Homologación individual |
+|---|---|---|---|---|
+| 1 | Contaminación de Máquinas móviles no de carretera | Anexos I y II<br>R(UE) 2015/96<br>o 97/68/CE | A | B |
+| 2 | Masas y Dimensiones. | Anexos XXI y XXII<br>R(UE) 2015/208 | (RGV) (5) | (RGV) (5) |
+| 3 | Placas traseras de matrícula | Anexo XIX R(UE) 2015/208 | A | B |
+| 4 | Dispositivos de alumbrado | Anexo XII<br>R(UE) 2015/208 o R. CEPE/ONU n.º48 | X (2) A (4) | B (4) |
+| 5 | Instalación de los dispositivos de alumbrado | Anexo XI<br>R(UE) 2015/208 o R. CEPE/ONU n.º48 | A (4) | B (4) |
+| 6 | Avisador Acústico | Anexo XVI<br>R(UE) 2015/208 o R. CEPE/ONU n.º28 | X (2) A (4) | B (4) |
+| 7 | Retrovisores | Anexo IX<br>R(UE) 2015/208 o R. CEPE/ONU n.º46 | X (2) A (4) | B (4) |
+| 8 | Parabrisas y otros vidrios | Anexo VIII<br>R(UE) 2015/208 o R. CEPE/ONU n.º43 | X (2) A (4) | B (4) |
+| 9 | Enganches mecánicos | Anexo XXXIV<br>R(UE) 2015/208 o R. CEPE/ONU n.º55 | A (2) (4) (6) | B (2)(4)(6) |
+| 10 | Emplazamiento y forma de colocación de las placas e inscripciones reglamentarias | Anexo XX<br>R(UE) 2015/208 o R(UE) 19/2011 | A | B |
+| 11 | Frenado | R(UE) 2015/68 o R. CEPE/ONU n.º13 | (7) (RGV) | (7) (RGV) |
+| 12 | Dirección | Anexo V<br>R(UE) 2015/208 o R. CEPE/ONU n.º79 | A | B |
+| 13 | Anclajes de cinturones de seguridad | Anexo XVIII<br>R(UE) 1322/2014 o<br>R. CEPE/ONU n.º14 | A | B |
+| 14 | Cinturones de seguridad | Anexo XIX<br>R(UE) 1322/2014 o<br>R. CEPE/ONU n.º16 | X (2) A (4) | B (4) |
+| 15 | Velocímetro | Anexo VI R(UE)<br>2015/208 o<br>R. CEPE/ONU n.º39 | A | B |
+| 16 | Marcha atrás | Anexo XXXII<br>R(UE) 2015/208 o R(UE) 130/2012 | A | B |
+| 17 | Sistema antiproyección | Anexo XXXI<br>R(UE) 2015/208 o R (UE) 109/2011 | X (2) A (4) | B (4) |
+| 18 | Limitador de velocidad | Anexo III<br>R(UE) 2015/208 o R. CEPE/ONU n.º89 | A | B |
+| 19 | Protección lateral | Anexo XXVII<br>R(UE) 2015/208 o R. CEPE/ONU n.º73 | X (2) A (4) | B (4) |
+
+Leyenda:
+
+X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo UE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.
+
+A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.
+
+B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.
+
+C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.
+
+H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción. N/A Este acto normativo no es aplicable (ningún requisito)
+
+RGV: Reglamento general de vehículos
+
+(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los Anexos I y II del RD 2028/1986.
+
+(1) Subconjunto electrónico.
+
+(2) Componente, UTI (Unidad técnica independiente).
+
+(3) Vehículo.
+
+(4) Prescripciones de instalación.
+
+(5) Para vehículos de obras y servicios se aplicaran los mismos requisitos que para vehículos agrícolas.
+
+(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes deberán disponer de su homologación CEPE/ONU o equivalente.
+
+(7) Se efectuará ensayo tipo 0, según punto 2.2.2 del Anexo II del Reglamento (UE) 2015/68, con los valores límite indicados en la tabla del punto 3.1.1.1 del mismo Anexo. Para el freno de estacionamiento se aplicarán las prescripciones del punto 3.1.3.1 y 3.1.3.4 (cuando proceda) del citado Anexo.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## ANEXO VIII — Homologación Nacional de Vehículos
+
+Anexo Técnico sobre Homologación Nacional de Tractocarros
+
+(Incluye: Homologación Nacional de Tipo y Homologación Individual)
+
+Índice
+
+Apéndice 1: Generalidades.
+
+Parte I: Definición según categorías de: Tipo y variante
+
+Parte II: Modelos de números de homologación.
+
+Apéndice 2: Homologación Nacional de tipo.
+
+Parte I: Campo de aplicación.
+
+Parte II: Ficha de características.
+
+Parte III: Modelos de fichas reducidas.
+
+Parte IV: Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV).
+
+Parte V: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 3: Serie corta nacional (No procede).
+
+Apéndice 4: Homologación Individual.
+
+Parte I: Campo de aplicación.
+
+Parte II: Modelos de fichas reducidas
+
+Parte III: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 5: Lista de requisitos exigidos para la homologación nacional de tipo y homologación individual del vehículo, sus partes y piezas.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 1 — Generalidades
+
+**PARTE I**
+
+**Definición según categorías de: tipo, variante y versión**
+
+1\. Tipo.
+
+Se considerarán como vehículos del mismo tipo a aquellos que no presentan entre sí ninguna diferencia en los aspectos siguientes:
+
+Se considerarán como vehículos del mismo tipo a aquellos que no presentan entre si ninguna diferencia en los aspectos siguientes:
+
+– Ser fabricados por el mismo fabricante, aunque no necesariamente en la misma fábrica.
+
+– Tener la misma configuración; no presentar diferencias obvias en aspectos esenciales de fabricación y diseño del bastidor (articulado o rígido / n.º de ejes).
+
+– Diferencias de potencia máxima de motor no superiores al 30 % (la mayor es superior a 1,3 veces la menor).
+
+2\. Variante.
+
+Los vehículos pertenecientes a un mismo tipo que no presentan entre sí ninguna de las diferencias siguientes:
+
+– MTMA / MMA;
+
+– Número de ejes motores;
+
+– Distancia entre ejes;
+
+– Cabina (en su caso) o carrocería;
+
+– Tipo y modelo de motor;
+
+– Cualquier cambio en las características del motor que varíe su potencia en > 5 %.
+
+3\. Versión.
+
+Los tractocarros pertenecientes a una misma variante y que consistan en una combinación de los elementos que figuran en la ficha de características.
+
+**PARTE II**
+
+**Modelos de números de homologación**
+
+Homologación Nacional de Tipo:
+
+TCA*xxxxx*xx.
+
+Constará de tres secciones separadas por un asterisco.
+
+Primera sección: «TCA».
+
+Segunda sección: Una secuencia numérica de al menos cinco dígitos que indica el número de homologación de base.
+
+Tercera sección: Una secuencia numérica de dos dígitos que indique la extensión. La secuencia empezará a partir de 00 para cada número de homologación de base.
+
+En los casos de corrección que no implican extensión, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+Serie Corta Nacional:
+
+No procede.
+
+Homologación Individual:
+
+HITCA-xxxxx.
+
+Constará de los caracteres HITCA seguidos de una secuencia numérica de al menos cinco dígitos, que indicará el número de aprobación individual.
+
+En los casos de corrección, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 2 — Homologación Nacional de Tipo
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación se extiende a los nuevos tipos de tractocarros tal como están definidos en el Reglamento General de Vehículos para efectuar trabajos agrícolas, forestales y de obras y/o servicios.
+
+Se excluyen de esta definición los vehículos en los que el conductor viaja a horcajadas y el mando de dirección es de tipo manillar, así como los vehículos de categoría N.
+
+**PARTE II**
+
+**Ficha de características**
+
+Se aportará la información que figura a continuación, la cual irá acompañada de una lista de los elementos incluidos. Los planos y fotografías, en su caso, se presentarán a la escala adecuada, suficientemente detallados.
+
+**PARTE III**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de ficha reducida son los establecidos en este apéndice.
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Según lo establecido en este apéndice.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en este apéndice.
+
+**PARTE II**
+
+**Ficha de características**
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">Epígrafe</th>
+<th class="cabeza_tabla" colspan="2">Ficha de características. Tractocarros</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">0</td>
+<td class="cuerpo_tabla_izq" colspan="2">GENERALIDADES</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">0.1</td>
+<td class="cuerpo_tabla_izq" colspan="2">Marca</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">0.2</td>
+<td class="cuerpo_tabla_izq" colspan="2">Identificación</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">0.2.1</td>
+<td class="cuerpo_tabla_izq" colspan="2">Tipo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">0.2.2</td>
+<td class="cuerpo_tabla_izq" colspan="2">Variantes</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">0.2.3</td>
+<td class="cuerpo_tabla_izq" colspan="2">Versiones</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">0.2.4</td>
+<td class="cuerpo_tabla_izq" colspan="2">Denominación comercial</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">0.3</td>
+<td class="cuerpo_tabla_izq" colspan="2">Clasificación (1): Agrícola / Obras / Servicios</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">0.4</td>
+<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del fabricante</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">0.5</td>
+<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del representante del fabricante</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">0.6</td>
+<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento y modo de colocación de las placas e inscripciones reglamentarias</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">0.6.1</td>
+<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento de la placa del fabricante (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">0.6.2</td>
+<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento del número de identificación del vehículo (3)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">0.7</td>
+<td class="cuerpo_tabla_izq" colspan="2">La numeración en la serie del modelo para identificación del vehículo empieza en el número</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">1</td>
+<td colspan="2">
+<p class="cuerpo_tabla_izq">CONSTITUCIÓN GENERAL</p>
+<p class="cuerpo_tabla_izq">(Adjuntar fotografías, ¾ delantera y ¾ trasera, así como un esquema acotado del conjunto del mismo)</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">1.1</td>
+<td class="cuerpo_tabla_izq" colspan="2">Número de ejes y ruedas</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">1.2</td>
+<td class="cuerpo_tabla_izq" colspan="2">Ruedas motrices</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">1.3</td>
+<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento y disposición del motor</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2</td>
+<td class="cuerpo_tabla_izq" colspan="2">DIMENSIONES Y MASAS (mm. y kg.)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.1</td>
+<td class="cuerpo_tabla_izq" colspan="2">Distancia entre ejes</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.2</td>
+<td class="cuerpo_tabla_izq" colspan="2">Ancho de vía en cada eje</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.3</td>
+<td class="cuerpo_tabla_izq">Dimensiones del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.3.1</td>
+<td class="cuerpo_tabla_izq">Longitudes</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.3.1.1</td>
+<td class="cuerpo_tabla_izq">Longitud total</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.3.2</td>
+<td class="cuerpo_tabla_izq">Anchuras</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.3.2.1</td>
+<td class="cuerpo_tabla_izq">Anchura total de cabina / carrocería</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.3.3</td>
+<td class="cuerpo_tabla_izq">Altura en vacío</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.3.3.1</td>
+<td class="cuerpo_tabla_izq">Altura total del vehículo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.3.3.2</td>
+<td class="cuerpo_tabla_izq">Distancia mínima al suelo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.3.3.3</td>
+<td class="cuerpo_tabla_izq">Ángulos de entrada y salida</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.4</td>
+<td class="cuerpo_tabla_izq">Tara (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.5</td>
+<td class="cuerpo_tabla_izq">Masa en vacío en orden de marcha sin accesorios discrecionales, pero con líquido de refrigeración, lubricantes, combustibles, herramientas y conductor (el peso del conductor de estima en 75 kg.) (4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.5.1</td>
+<td class="cuerpo_tabla_izq">Reparto de esta masa entre los ejes</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.6</td>
+<td class="cuerpo_tabla_izq">Masas máximas técnicamente admisibles declaradas por el fabricante</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.6.1</td>
+<td class="cuerpo_tabla_izq">Masa máxima en carga técnicamente admisible declarada por el fabricante</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.6.2</td>
+<td class="cuerpo_tabla_izq">Masa en el primer eje</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.6.3</td>
+<td class="cuerpo_tabla_izq">Masa en el segundo eje</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.7</td>
+<td class="cuerpo_tabla_izq">Masa máxima remolcable.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.7.1</td>
+<td class="cuerpo_tabla_izq">Remolque sin frenos</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.7.2</td>
+<td class="cuerpo_tabla_izq">Remolque con frenos</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2.8</td>
+<td class="cuerpo_tabla_izq">Masa Máxima Autorizada (M.M.A.)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3</td>
+<td class="cuerpo_tabla_izq">MOTOR</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.1</td>
+<td class="cuerpo_tabla_izq">Marca y fabricante</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.2</td>
+<td class="cuerpo_tabla_izq">Modelo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.3</td>
+<td class="cuerpo_tabla_izq">Tipo y ciclo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.4</td>
+<td class="cuerpo_tabla_izq">Número y disposición de los cilindros</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.5</td>
+<td class="cuerpo_tabla_izq">Diámetro, carrera y cilindrada</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.6</td>
+<td class="cuerpo_tabla_izq">Potencia nominal del motor:......... kW a:......... min<sup>-1</sup> con ajuste de serie</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.6.1</td>
+<td class="cuerpo_tabla_izq">Número de homologación de contaminantes del motor (Fase de emisiones)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.6.2</td>
+<td class="cuerpo_tabla_izq">Potencia fiscal (CVF)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.7</td>
+<td class="cuerpo_tabla_izq">Carburante o combustible normalmente utilizado</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.8</td>
+<td class="cuerpo_tabla_izq">Situación y capacidad del depósito de combustible</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.9</td>
+<td class="cuerpo_tabla_izq">Alimentación del motor</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.10</td>
+<td class="cuerpo_tabla_izq">Instalación eléctrica a …. v.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.10.1</td>
+<td class="cuerpo_tabla_izq">… baterías de … v.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.10.2</td>
+<td class="cuerpo_tabla_izq">Alternador</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.11</td>
+<td class="cuerpo_tabla_izq">Refrigeración</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3.12</td>
+<td class="cuerpo_tabla_izq">Silenciador</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4</td>
+<td>
+<p class="cuerpo_tabla_izq">TRANSMISIÓN</p>
+<p class="cuerpo_tabla_izq">(adjuntar esquema de la transmisión de todas las variantes previstas)</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4.1</td>
+<td class="cuerpo_tabla_izq">Tipo de transmisión</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4.2</td>
+<td class="cuerpo_tabla_izq">Embrague:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4.2.1</td>
+<td class="cuerpo_tabla_izq">Tipo:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4.3</td>
+<td class="cuerpo_tabla_izq">Caja de cambio</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4.3.1</td>
+<td class="cuerpo_tabla_izq">Marca y modelo:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4.3.2</td>
+<td class="cuerpo_tabla_izq">Tipo de caja y mando:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4.3.3</td>
+<td class="cuerpo_tabla_izq">Marchas:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4.4</td>
+<td>
+<p class="cuerpo_tabla_izq">Grupo diferencial</p>
+<p class="cuerpo_tabla_izq">Relación del par cónico:</p>
+<p class="cuerpo_tabla_izq">Bloqueo del diferencial:</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4.5</td>
+<td class="cuerpo_tabla_izq">Desmultiplicación de la transmisión</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4.6</td>
+<td class="cuerpo_tabla_izq">Velocidad del vehículo en km/h, correspondiente al régimen nominal del motor, con los neumáticos definidos en el apartado 5.1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4.7</td>
+<td class="cuerpo_tabla_izq">Velocidad teórica máxima:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">5</td>
+<td class="cuerpo_tabla_izq">ÓRGANOS DE SUSPENSIÓN</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">5.1</td>
+<td class="cuerpo_tabla_izq">Neumáticos (serie y opcionales)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">5.1.1</td>
+<td class="cuerpo_tabla_izq">Dimensiones</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">5.1.2</td>
+<td class="cuerpo_tabla_izq">Índice de capacidad de carga mínima</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">5.1.3</td>
+<td class="cuerpo_tabla_izq">Índice mínimo de velocidad</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">5.2</td>
+<td class="cuerpo_tabla_izq">Tipo de suspensión (si existe) para cada eje o rueda (adjuntar esquema)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">6</td>
+<td>
+<p class="cuerpo_tabla_izq">DIRECCIÓN</p>
+<p class="cuerpo_tabla_izq">(Adjuntar esquema)</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">6.1</td>
+<td class="cuerpo_tabla_izq">Dirección</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">6.1.1</td>
+<td class="cuerpo_tabla_izq">Tipo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">6.1.2</td>
+<td class="cuerpo_tabla_izq">Diámetro del volante:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">6.1.3</td>
+<td class="cuerpo_tabla_izq">Mecanismo, Tipo:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">6.1.4</td>
+<td class="cuerpo_tabla_izq">Número de vueltas del volante / ángulo de giro máximo de rueda</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">6.2</td>
+<td class="cuerpo_tabla_izq">Radio mínimo del espacio de giro (5)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">6.2.1</td>
+<td class="cuerpo_tabla_izq">A la derecha:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">6.2.2</td>
+<td class="cuerpo_tabla_izq">A la izquierda:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">7</td>
+<td>
+<p class="cuerpo_tabla_izq">FRENADO</p>
+<p class="cuerpo_tabla_izq">(Adjuntar esquema del cinematismo y de los principales elementos frenantes: tambor, zapatas, discos, etc.)</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">7.1</td>
+<td class="cuerpo_tabla_izq">Freno de servicio (8)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">7.1.1</td>
+<td class="cuerpo_tabla_izq">Tipo de actuación y circuito</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">7.1.2</td>
+<td class="cuerpo_tabla_izq">Calculo de los frenos de servicio</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">7.1.3</td>
+<td class="cuerpo_tabla_izq">Superficie de frenado: cm<sup>2</sup></td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">7.2</td>
+<td class="cuerpo_tabla_izq">Freno de socorro</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">7.3</td>
+<td class="cuerpo_tabla_izq">Freno de estacionamiento</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">7.4</td>
+<td class="cuerpo_tabla_izq">Dispositivo para el frenado de remolque</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">7.4.1</td>
+<td class="cuerpo_tabla_izq">Descripción y características</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">7.5</td>
+<td class="cuerpo_tabla_izq">Fuentes de energía, si existe (características)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">8</td>
+<td class="cuerpo_tabla_izq">PUESTO DEL CONDUCTOR</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">8.1</td>
+<td class="cuerpo_tabla_izq">Descripción general</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">8.2</td>
+<td class="cuerpo_tabla_izq">Retrovisores</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">8.3</td>
+<td class="cuerpo_tabla_izq">N.º de asientos</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">8.4</td>
+<td class="cuerpo_tabla_izq">Instrumentación</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">8.5</td>
+<td class="cuerpo_tabla_izq">Mandos</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">9</td>
+<td class="cuerpo_tabla_izq">CABINA</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">9.1</td>
+<td class="cuerpo_tabla_izq">Tipo y modelo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">9.2</td>
+<td class="cuerpo_tabla_izq">Puertas: número</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">9.3</td>
+<td class="cuerpo_tabla_izq">Campo de visión directa</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">9.4</td>
+<td class="cuerpo_tabla_izq">Parabrisas y otros vidrios</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">9.5</td>
+<td class="cuerpo_tabla_izq">Limpiaparabrisas: n.º de escobillas</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">9.6</td>
+<td class="cuerpo_tabla_izq">Lavaparabrisas: n.º de surtidores</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">10</td>
+<td>
+<p class="cuerpo_tabla_izq">DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA</p>
+<p class="cuerpo_tabla_izq">(Adjuntar esquema exterior de la máquina con el emplazamiento acotado de su instalación)</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">10.1</td>
+<td class="cuerpo_tabla_izq">Dispositivos obligatorios (Número, color y número de homologación)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">10.2</td>
+<td class="cuerpo_tabla_izq">Dispositivos facultativos (Número, color y número de homologación)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">11</td>
+<td class="cuerpo_tabla_izq">VARIOS</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">11.1</td>
+<td class="cuerpo_tabla_izq">Avisadores acústicos</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">11.2</td>
+<td class="cuerpo_tabla_izq">Dispositivo de enganche del remolque (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">11.2.1</td>
+<td class="cuerpo_tabla_izq">Boca de enganche</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">11.2.1.1</td>
+<td class="cuerpo_tabla_izq">Medidas principales</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">11.2.1.2</td>
+<td class="cuerpo_tabla_izq">Material</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">11.2.2</td>
+<td class="cuerpo_tabla_izq">Cargas máximas técnicamente admisibles declaradas por el fabricante</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">11.2.2.1</td>
+<td class="cuerpo_tabla_izq">Carga vertical</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">11.2.2.2</td>
+<td class="cuerpo_tabla_izq">Carga horizontal</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">11.3</td>
+<td class="cuerpo_tabla_izq">Toma de corriente para alimentación de los dispositivos de alumbrado, señalización luminosa y servicio del remolque (7)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">11.4</td>
+<td class="cuerpo_tabla_izq">Emplazamiento de la placa de matrícula trasera</td>
+</tr>
+</tbody>
+</table>
+
+Notas explicativas:
+
+(1) Táchese lo que no proceda.
+
+(2) UNE 68063:1983 (*).
+
+(3) UNE 68064:1983 (*).
+
+(4) UNE 26086:1992.
+
+(5) UNE 68066:1983.
+
+(6) Mientras no se desarrollen las normas UNE aplicables en su última modificación, se podrán aceptar las normas ISO desarrolladas o equivalentes en su última versión para el cumplimiento del apéndice 5. (7) UNE-ISO 1724:2013.
+
+(*) Mientras no sean desarrolladas las actualizaciones de las normas UNE, no podrán ser utilizadas. Ver apéndice 5.
+
+En cualquier caso, se cumplirá con las últimas modificaciones en vigor de las referencias normativas.
+
+**PARTE III**
+
+**Modelo de Ficha Reducida**
+
+| Ficha reducida. Tractocarros |
+|---|
+| Número de homologación |
+| Marca |
+| Identificación |
+| Emplazamiento del número de identificación de la máquina |
+| Emplazamiento de la placa del fabricante |
+| Tipo |
+| Variantes |
+| Versión |
+| Denominación comercial (marca y modelo) |
+| Clasificación (Táchese lo que no proceda): Agrícola / Obras / Servicios |
+| Género |
+| DIMENSIONES Y MASAS MÁXIMAS (mm y kg.) |
+| Distancia entre ejes |
+| Ancho de vía de cada eje |
+| Longitud |
+| Voladizo trasero |
+| Longitud de caja (máx.) |
+| Anchura |
+| Altura |
+| Tara |
+| Masa en vacío en orden de marcha sin accesorios discrecionales, pero con líquido de refrigeración, lubricantes, combustibles, herramientas y conductor (el peso del conductor se estima en 75 kg.) |
+| Masa máxima técnicamente admisible |
+| Masa máxima en carga técnicamente admisible (MMTA) |
+| En el primer eje |
+| En el segundo eje |
+| Masas máximas remolcables |
+| Sin frenos: |
+| Con frenos |
+| Masa máxima autorizada |
+| MOTOR |
+| Marca |
+| Modelo |
+| N.º de cilindros |
+| Cilindrada (cm<sup>3</sup>) |
+| Potencia nominal del motor:......... kW a:......... min<sup>-1</sup> con ajuste de serie |
+| Número de homologación de contaminantes del motor (Fase de emisiones), en su caso |
+| Potencia fiscal (CVF) |
+| Tipo de carburante |
+| Situación y capacidad del depósito de combustible |
+| INSTALACIÓN ELÉCTRICA (V) |
+| Batería (A) |
+| Alternador (kW) |
+| SISTEMA DE REFRIGERACIÓN |
+| TRANSMISIÓN |
+| Tipo |
+| Embrague |
+| Tipo |
+| CAJA DE CAMBIOS |
+| Caja de cambio |
+| Marca y modelo: |
+| Tipo de caja y mando: |
+| SUSPENSIÓN |
+| Neumáticos (serie y opcionales) |
+| Dimensiones |
+| Índice de capacidad de carga mínima |
+| Índice mínimo de velocidad |
+| DIRECCIÓN |
+| Tipo |
+| Diámetro del volante (mm) |
+| Relación |
+| DISPOSITIVO DE FRENADO |
+| Freno de servicio (Tipo) |
+| Superficie de frenado: cm2 |
+| Freno de estacionamiento |
+| Fuentes de energía, si existe (características) |
+| PUESTO DEL CONDUCTOR |
+| Espejos retrovisores |
+| N.º de asientos / Plazas |
+| INDICADORES |
+| Presión de aceite |
+| Cuentahoras |
+| Velocímetro |
+| Nivel de combustible |
+| TESTIGOS |
+| Carga generador |
+| Indicadores de dirección |
+| Presión de aceite |
+| Nivel de líquido de frenos |
+| Freno de estacionamiento |
+| DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA |
+| Dispositivos obligatorios/facultativos |
+| DISPOSITIVOS DE ACOPLAMIENTO |
+| Medidas principales |
+| Cargas máximas técnicamente admisibles declaradas por el fabricante<br>Carga vertical<br>Carga horizontal |
+| Fabricante |
+| Representante del fabricante |
+| Fecha |
+| Observaciones |
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Se describirán, para cada variante, las diferentes combinaciones de versiones correspondientes al tipo.
+
+Cada variante y cada versión deberán identificarse mediante un código numérico o alfanumérico que deberá indicar el vehículo que se trate.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+| Asunto | Número de homologación | Variantes / Versiones |
+|---|---|---|
+|  |  |  |
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 3 — Serie corta nacional
+
+No procede
+
+> Se añade, con efectos de 2 de enero de 2019, por la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+## APÉNDICE 4 — Homologación Individual
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice se define en la parte I del apéndice 2 de este anexo.
+
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
+
+**PARTE II**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de ficha reducida son los establecidos en la parte III del apéndice 2.
+
+**PARTE III**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en la parte V del apéndice 2.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 5 — Lista de requisitos exigidos para la homologación del vehículo, sus partes y sus piezas en Homologación Nacional de Tipo y Homologación Individual
+
+(Tractocarros)
+
+| N.º | Asunto (*) (H) | Número AR | Homologación nacional de tipo | Homologación individual |
+|---|---|---|---|---|
+| 1 | Contaminación de máquinas móviles no de carretera | Anexos I y II R(UE) 2015/96 | (6) | (6) |
+| 2 | Masas y Dimensiones | Anexos XXI y XXII R(UE) 2015/208 | (RGV) | (RGV) |
+| 3 | Placas traseras de matrícula | Anexo XIX R(UE) 2015/208 | (RGV) | (RGV) |
+| 4 | Frenado | R(UE) 2015/68 o R. CEPE/ONU n.º 13 | (8) (RGV) | (8) (RGV) |
+| 5 | Instalación de los dispositivos de alumbrado | Anexos XI y XII R(UE) 2015/208 o R. CEPE/ONU n.º 48 | (2) (6) (RGV) | (2) (6) (RGV) |
+| 6 | Avisador acústico | Anexo XVI R(UE) 2015/208 o R. CEPE/ONU n.º 28 | (2) (6) (RGV) | (2) (6) (RGV) |
+| 7 | Retrovisores | Anexo IX R(UE) 2015/208 o R. CEPE/ONU n.º 46 | (2) (6) (RGV) | (2) (6) (RGV) |
+| 8 | Parabrisas y otros vidrios | Anexo VIII R(UE) 2015/208 o R. CEPE/ONU n.º 43 | (2) (6) (RGV) | (2) (6) (RGV) |
+| 9 | Enganches mecánicos | Anexo XXXIV R(UE) 2015/208 o R. CEPE/ONU n.º 55 | (2) (7) | (2) (7) |
+| 10 | Emplazamiento y forma de colocación de las placas e inscripciones reglamentarias | Anexo XX R(UE) 2015/208 o R(UE) 19/2011 | (4) | (4) |
+
+Leyenda:
+
+X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo UE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.
+
+A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.
+
+B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.
+
+C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.
+
+H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción.
+
+N/A: Este acto normativo no es aplicable (ningún requisito).
+
+RGV: Reglamento general de vehículos.
+
+(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los Anexos I y II del RD 2028/1986.
+
+(1) Subconjunto electrónico.
+
+(2) Componente, UTI (Unidad técnica independiente).
+
+(3) Vehículo.
+
+(4) Prescripciones de instalación.
+
+(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes deberán disponer de su homologación CEPE/ONU o equivalente.
+
+(7) En estas exigencias se admitirán una certificación que incluya cumplimiento con ensayos realizados, en su caso, según Normas UNE, Normas ISO o equivalentes en su última versión o Directiva UE o Reglamento CEPE/ONU.
+
+(8) Se efectuará un ensayo con motor desembragado a una velocidad inicial no inferior al 98 % de la velocidad máxima por construcción del vehículo. La deceleración media estabilizada al aplicar el mando del sistema de frenado de estacionamiento o un mando auxiliar, que permite como mínimo la actuación parcial del sistema de frenado de servicio, y la deceleración inmediatamente antes de la parada del vehículo no serán inferiores a 1,5 m/s2 hasta 30 km/h.
+
+Se efectuará un ensayo en el que la fuerza ejercida sobre el mando deberá ajustarse de modo que se alcance una deceleración media estabilizada de 3 m/s<sup>2</sup> en la primera aplicación de los frenos. Esta fuerza deberá permanecer constante en las sucesivas aplicaciones de los frenos.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## ANEXO IX — Homologación Nacional de Vehículos
+
+Anexo Técnico sobre Homologación Nacional de Remolques especiales
+
+(Incluye: Homologación Nacional de Tipo y Homologación Individual)
+
+Índice:
+
+Apéndice 1: Generalidades.
+
+Parte I: Definición según categorías de: Tipo y variante.
+
+Parte II: Modelos de números de homologación.
+
+Apéndice 2: Homologación Nacional de tipo.
+
+Parte I: Campo de aplicación.
+
+Parte II: Ficha de características.
+
+Parte III: Modelos de fichas reducidas.
+
+Parte IV: Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV).
+
+Parte V: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 3: Serie corta nacional (No aplicable).
+
+Apéndice 4: Homologación Individual.
+
+Parte I: Campo de aplicación.
+
+Parte II: Modelos de fichas reducidas.
+
+Parte III: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 5: Lista de requisitos exigidos para la homologación nacional de tipo y homologación individual del vehículo, sus partes y piezas.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 1 — Generalidades
+
+**PARTE I**
+
+**Definición según categorías de: tipo, variante y versión**
+
+Serán de aplicación los criterios para los tipos, variantes y versiones establecidos en el Reglamento de la Unión Europea vigente en la materia.
+
+**PARTE II**
+
+**Modelos de números de homologación**
+
+Homologación Nacional de Tipo:
+
+Para todas las Categorías y Vehículos incompletos, completos y las diferentes fases de completado.
+
+RA*xxxxx*xx.
+
+Constará de tres secciones separadas por un asterisco,
+
+Primera sección: «RA».
+
+Segunda sección: Una secuencia numérica de al menos cinco dígitos que indica el número de homologación de base.
+
+Tercera sección: Una secuencia numérica de dos dígitos que indique la extensión. La secuencia empezará a partir de 00 para cada número de homologación de base.
+
+En los casos de corrección que no implican extensión, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+Serie Corta Nacional:
+
+No procede.
+
+Homologación Individual:
+
+HIRA-xxxxx.
+
+Constará de los caracteres HIRA seguidos de una secuencia numérica de al menos cinco dígitos, que indicará el número de aprobación individual.
+
+En los casos de corrección, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 2 — Homologación Nacional de Tipo
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice se extiende a los vehículos pertenecientes a las categorías R según se definen en el Reglamento de la Unión Europea vigente en la materia.
+
+La definición de tipo de vehículos, así como los modelos de contraseñas de homologación serán los establecidos en el apéndice I de este anexo.
+
+**PARTE II**
+
+**Ficha de características**
+
+Se aportará la información que figura a continuación, la cual irá acompañada de una lista de los elementos incluidos. Los planos y fotografías, en su caso, se presentarán a la escala adecuada, suficientemente detallados.
+
+**PARTE III**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de ficha reducida son los establecidos en este apéndice.
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Según lo establecido en este apéndice.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en este apéndice.
+
+**PARTE II**
+
+**Ficha de características**
+
+| Epígrafe | Ficha de características. Remolque especial |
+|---|---|
+| 0 | GENERALIDADES |
+| 0.1 | Marca |
+| 0.2 | Identificación |
+| 0.2.1 | Tipo |
+| 0.2.2 | Variantes |
+| 0.2.3 | Versiones |
+| 0.2.4 | Denominación comercial |
+| 0.2.5 | Categoría, subcategoría e índice de velocidad del vehículo |
+| 0.3 | Clasificación (1): Agrícola / Obras / Servicios |
+| 0.3.1 | Género (2) (Aplicación explícita a cada variante) |
+| 0.4 | Nombre y dirección del fabricante |
+| 0.5 | En su caso nombre y dirección del representante del fabricante |
+| 0.6 | Emplazamiento y modo de colocación de las placas e inscripciones reglamentarias |
+| 0.6.1 | Emplazamiento de la placa del fabricante (3) |
+| 0.6.2 | Emplazamiento del número de identificación del remolque (4) |
+| 1 | CONSTITUCIÓN GENERAL DEL REMOLQUE<br>(Adjuntar fotografías, una ¾ delante y otra ¾ detrás, en su lado opuesto, así como un esquema acotado del conjunto del mismo) |
+| 1.1 | Número de ejes y de ruedas |
+| 1.1.1 | Número y ubicación de ejes con ruedas gemelas o tándem (en su caso) |
+| 1.1.2 | Número y ubicación de los ejes con frenos |
+| 1.2 | Bastidor con esquema descriptivo del conjunto e identificación de aquellos elementos que intervienen en la resistencia estructural |
+| 1.3 | Material de los largueros |
+| 1.4 | Velocidad máxima del vehículo por construcción declarada |
+| 2 | DIMENSIONES Y MASAS (en mm. y kg.) (5) |
+| 2.1 | Distancia entre ejes |
+| 2.1.0 | Distancia entre ejes consecutivos: 1-2: …… mm; 2-3: …… mm; 3-4: … mm. |
+| 2.1.1 | Para remolques de ejes centrales o semirremolques: distancia entre el centro del anillo de enganche y el eje (en los de eje tándem considerar el centro del tándem como referencia para esta medida) |
+| 2.1.2 | Distancia entre el punto de acoplamiento y el último eje |
+| 2.2 | Vía de cada eje: máximo…… mm; mínimo…… mm. |
+| 2.3 | Medidas máximas exteriores |
+| 2.3.1 | Longitud (incluida lanza) |
+| 2.3.2 | Anchura |
+| 2.3.3 | Altura |
+| 2.3.4 | Voladizo delantero (máx. / min,) |
+| 2.3.5 | Voladizo trasero (máx. / min,) |
+| 2.3.6 | Altura libre sobre el suelo (cargado por la masa máxima técnicamente admisible) |
+| 2.4 | Tara (7) |
+| 2.4.1 | Reparto de esta masa entre los ejes (remolques de varios ejes) |
+| 2.4.2 | Reparto de esta masa entre el eje y el punto de enganche al tractor (remolque de un eje) |
+| 2.4.3 | Masas en vacío en orden de marcha |
+| 2.4.3.1 | Máxima |
+| 2.4.3.2 | Mínima |
+| 2.5 | Masa máxima en carga técnicamente admisible declarada por el fabricante. |
+| 2.5.1 | Reparto de esta masa entre los ejes (remolques de varios ejes). |
+| 2.5.2 | Reparto de esta masa entre el eje y el punto de enganche al tractor (remolque de un eje). |
+| 2.6 | Masa máxima técnicamente admisible, declarada por el fabricante sobre cada uno de los ejes (máquinas de varios ejes), o entre el eje y el punto de enganche al tractor (máquinas de un eje). |
+| 2.7 | Masa Máxima Autorizada (M.M.A.) |
+| 2.8 | Carga vertical sobre el punto de acoplamiento |
+| 2.9 | Masas y neumáticos<br>![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image3.png) |
+| 3 | ÓRGANOS DE SUSPENSIÓN<br>(Adjuntar esquema descriptivo del conjunto de los órganos de la suspensión) |
+| 3.1 | Neumáticos (8) |
+| 3.1.1 | Número |
+| 3.1.2 | Dimensiones |
+| 3.1.3 | Índice mínimo de carga |
+| 3.1.4 | Índice mínimo de velocidad |
+| 3.2 | Constitución de la suspensión de cada eje o rueda |
+| 3.3 | Características de los elementos elásticos de la suspensión (naturaleza, materiales y medidas). |
+| 3.4 | Apoyos delanteros |
+| 4 | DISPOSITIVO DE DIRECCIÓN<br>(Adjuntar esquema descriptivo) |
+| 5 | DISPOSITIVO DE FRENADO<br>(Adjuntar esquema(s) descriptivo(s) el conjunto y esquema(s) de funcionamiento) |
+| 5.1 | Tipo de frenado: sin frenos / frenado por inercia / frenado continuo / frenado semicontinuo / frenado hidráulico / frenado neumático |
+| 5.2 | Breve descripción de los sistemas de frenado instalados en el vehículo |
+| 5.2.1 | Sistema de frenado electrónico: sí / no / opcional |
+| 5.2.2 | Freno de servicio |
+| 5.2.3 | Freno de estacionamiento |
+| 5.2.4 | Frenado automático en caso de rotura de enganche |
+| 5.2.5 | Cálculo de los sistemas de freno |
+| 5.2.6 | Tipo de conexiones de freno: Conducto único / dos conductos |
+| 6 | CARROCERÍA<br>(Adjuntar esquema de conjunto acotado del exterior) |
+| 6.1 | Naturaleza de la carrocería. |
+| 6.2 | Materiales y modo de construcción. |
+| 6.3 | Trampillas y laterales (número, sentido de apertura, cierres y bisagras). |
+| 6.4 | Recubrimiento de las ruedas |
+| 6.5 | Emplazamiento y montaje de la(s) placa(s) de matrícula trasera(s) |
+| 7 | DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA<br>(Adjuntar esquema exterior del remolque con el emplazamiento acotado de su instalación) |
+| 7.1 | Dispositivos obligatorios (Número, color y marca de homologación) |
+| 7.2 | Dispositivos facultativos (Número, color y marca de homologación) |
+| 8 | UNIONES ENTRE TRACTOR Y REMOLQUE O SEMIRREMOLQUE |
+| 8.1 | Acoplamiento mecánico (enganche) (9) |
+| 8.1.1 | Tipo de enganche |
+| 8.1.1.1 | Medidas |
+| 8.1.1.2 | Material |
+| 8.1.1.3 | Cargas máximas técnicamente admisibles declaradas por el fabricante:<br>– Vertical máxima sobre el punto de acoplamiento (en kg)<br>– De arrastre (incluida la rosca de unión a la lanza, en su caso).<br>– Horizontal máxima / Valor D (en kg o kN) |
+| 8.1.1.4 | Marca |
+| 8.1.1.5 | Marca o número de homologación de tipo (UE) |
+| 8.1.2 | Lanza del remolque |
+| 8.1.2.1 | Medidas |
+| 8.1.2.2 | Material |
+| 8.1.2.3 | Carga de arrastre máxima técnicamente admisible declarada por el fabricante:<br>– Vertical:<br>– De arrastre (incluida la rosca de unión a la lanza, en su caso). |
+| 8.3 | Acoplamientos hidráulicos (en su caso). Descripción y características. Presiones de trabajo y máxima. |
+| 8.3.1 | Toma de potencia hidráulica |
+| 8.3.2 | Conexión para el freno de servicio hidráulico |
+| 8.4 | Acoplamiento neumático |
+| 8.5 | Acoplamiento eléctrico (10) |
+| 8.5.1 | Toma de corriente para alimentación de los dispositivos de alumbrado y señalización luminosa. (7) |
+| 9 | VARIOS |
+| 9.1 | Protección trasera contra el empotramiento |
+| 9.1.1 | Número de homologación (en su casos) |
+
+Notas explicativas:
+
+(1) Táchese lo que no proceda.
+
+(2) Norma UNE 68051-0:88.
+
+(3) Norma UNE 68063:83 (*).
+
+(4) Norma UNE 68064:83 (*).
+
+(5) Norma UNE 26192:87.
+
+(6) Norma UNE 68065:83 (*).
+
+(7) Norma UNE 26086:92.
+
+(8) Norma UNE 68030:83.
+
+(9) Mientras no se desarrollen las normas UNE aplicables en su última modificación, se podrán aceptar las normas ISO desarrolladas o equivalentes en su última versión para el cumplimiento del apéndice 5.
+
+(10) Norma UNE-ISO 1724:2013.
+
+(*) Mientras no sean desarrolladas las actualizaciones de las normas UNE, no podrán ser utilizadas. Ver apéndice 5.
+
+En cualquier caso, se cumplirá con las últimas modificaciones en vigor de las referencias normativas.
+
+**PARTE III**
+
+**Modelos de Ficha Reducida**
+
+| Ficha reducida. Remolque especial |
+|---|
+| Número de homologación |
+| Marca |
+| Identificación |
+| Tipo |
+| Variante |
+| Versión |
+| Denominación comercial (marca y modelo) |
+| Categoría, subcategoría e índice de velocidad del vehículo |
+| N.º de identificación |
+| Clasificación (1): Agrícola / Obras / Servicios |
+| Género |
+| Emplazamiento de la placa del fabricante |
+| Emplazamiento del número de identificación del remolque |
+| Número y ubicación de los ejes con frenos |
+| DIMENSIONES Y MASAS |
+| Distancia entre ejes consecutivos: 1-2: …… mm; 2-3: …… mm; 3-4: …… mm. |
+| Para las máquinas de un eje: distancia máxima entre el centro del punto de enganche y el eje |
+| Vía de cada eje: máximo:….. mm; mínimo:…… mm. |
+| Longitud máxima |
+| Longitud de caja |
+| Anchura total |
+| Altura del piso |
+| Altura total |
+| Voladizo trasero |
+| Altura libre |
+| Masas en vacío en orden de marcha |
+| Máxima |
+| Mínima |
+| Masa máxima técnicamente admisible |
+| En el punto de enganche |
+| En el primer eje |
+| En el segundo eje |
+| Masa Máxima Autorizada (M.M.A.) |
+| NEUMÁTICOS |
+| Número |
+| Dimensiones |
+| Índice mínimo de carga |
+| Índice mínimo de velocidad<br>![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image4.png) |
+| Apoyos delanteros |
+| FRENADO |
+| Tipo de frenado: sin frenos / frenado por inercia / frenado continuo / frenado semicontinuo / frenado hidráulico / frenado neumático |
+| Breve descripción de los sistemas de frenado instalados en el vehículo |
+| Sistema de frenado electrónico: sí / no / opcional |
+| De servicio |
+| De estacionamiento |
+| Frenado automático en caso de rotura de enganche |
+| DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA |
+| Dispositivos obligatorios/facultativos |
+| ACOPLAMIENTO ENTRE TRACTOR Y REMOLQUE |
+| Tipo |
+| Marca |
+| Marca o número de homologación de tipo (UE) |
+| Cargas máximas técnicamente admisibles declaradas por el fabricante:<br>– Vertical máxima sobre el punto de acoplamiento (en kg)<br>– De arrastre (incluida la rosca de unión a la lanza, en su caso)<br>– Horizontal máxima / Valor D (en kg o kN) |
+| Mecánico |
+| Hidráulico |
+| Neumático |
+| Eléctrico |
+| Protección trasera contra el empotramiento. Número de homologación (en su caso) |
+| Fabricante |
+| Representante del fabricante |
+| Fecha |
+| Observaciones |
+
+Notas explicativas:
+
+(1) Táchese lo que no proceda.
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Se describirán, para cada variante, las diferentes combinaciones de versiones correspondientes al tipo.
+
+Cada variante y cada versión deberán identificarse mediante un código numérico o alfanumérico que deberá indicar el vehículo que se trate.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas.**
+
+| Asunto | Número de homologación | Variantes / Versiones |
+|---|---|---|
+|  |  |  |
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 3 — Serie corta nacional
+
+No procede.
+
+> Se añade, con efectos de 2 de enero de 2019, por la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+## APÉNDICE 4 — Homologación Individual
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice se extiende a los vehículos según se definen en la parte I del apéndice 2 de este anexo.
+
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
+
+**PARTE II**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de ficha reducida son los establecidos en la parte III del apéndice 2.
+
+**PARTE III**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en la parte V del apéndice 2.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 5 — Lista de requisitos exigidos para la homologación del vehículo, sus partes y sus piezas en
+
+Homologación Nacional de Tipo
+
+(Remolques especiales)
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">N.º</th>
+<th class="cabeza_tabla" rowspan="2">Asunto (*) (H)</th>
+<th class="cabeza_tabla" colspan="4">Homologación Nacional de Tipo</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">R1</th>
+<th class="cabeza_tabla">R2</th>
+<th class="cabeza_tabla">R3</th>
+<th class="cabeza_tabla">R4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">19</td>
+<td class="cuerpo_tabla_izq">Placa de matrícula</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
+<td class="cuerpo_tabla_centro">A (7)</td>
+<td class="cuerpo_tabla_centro">A (7)</td>
+<td class="cuerpo_tabla_centro">A (7)</td>
+<td class="cuerpo_tabla_centro">A (7)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">21</td>
+<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">22</td>
+<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">26</td>
+<td class="cuerpo_tabla_izq">Estructuras de protección trasera</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">27</td>
+<td class="cuerpo_tabla_izq">Protección lateral</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_izq">Neumáticos</td>
+<td class="cuerpo_tabla_centro">A (6)</td>
+<td class="cuerpo_tabla_centro">A (6)</td>
+<td class="cuerpo_tabla_centro">A (6)</td>
+<td class="cuerpo_tabla_centro">A (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">31</td>
+<td class="cuerpo_tabla_izq">Sistemas antiproyección</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">34c</td>
+<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
+<td class="cuerpo_tabla_centro">A (2)(4)(6)(7)</td>
+<td class="cuerpo_tabla_centro">A (2)(4)(6)(7)</td>
+<td class="cuerpo_tabla_centro">A (2)(4)(6)(7)</td>
+<td class="cuerpo_tabla_centro">A (2)(4)(6)(7)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">51</td>
+<td class="cuerpo_tabla_izq">Manual de utilización</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">53</td>
+<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">54</td>
+<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">55</td>
+<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+</tbody>
+</table>
+
+Homologación Individual
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">N.º</th>
+<th class="cabeza_tabla" rowspan="2">Asunto (*) (H)</th>
+<th class="cabeza_tabla" colspan="4">Homologación Individual</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">R1</th>
+<th class="cabeza_tabla">R2</th>
+<th class="cabeza_tabla">R3</th>
+<th class="cabeza_tabla">R4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización n o autorizada</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">19</td>
+<td class="cuerpo_tabla_izq">Placa de matrícula</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
+<td class="cuerpo_tabla_centro">B (7)</td>
+<td class="cuerpo_tabla_centro">B (7)</td>
+<td class="cuerpo_tabla_centro">B (7)</td>
+<td class="cuerpo_tabla_centro">B (7)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">21</td>
+<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">22</td>
+<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">26</td>
+<td class="cuerpo_tabla_izq">Estructuras de protección trasera</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">27</td>
+<td class="cuerpo_tabla_izq">Protección lateral</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_izq">Neumáticos</td>
+<td class="cuerpo_tabla_centro">A (6)</td>
+<td class="cuerpo_tabla_centro">A (6)</td>
+<td class="cuerpo_tabla_centro">A (6)</td>
+<td class="cuerpo_tabla_centro">A (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">31</td>
+<td class="cuerpo_tabla_izq">Sistemas antiproyección</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">(a) N/A</p>
+<p class="cuerpo_tabla_centro">(b) C</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">34c</td>
+<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
+<td class="cuerpo_tabla_centro">A (2)(4)(6)(7)</td>
+<td class="cuerpo_tabla_centro">A (2)(4)(6) (7)</td>
+<td class="cuerpo_tabla_centro">A (2)(4)(6) (7)</td>
+<td class="cuerpo_tabla_centro">A (2)(4)(6) (7)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">51</td>
+<td class="cuerpo_tabla_izq">Manual de utilización</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">53</td>
+<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">54</td>
+<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">55</td>
+<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+</tbody>
+</table>
+
+Leyenda:
+
+X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo UE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.
+
+A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.
+
+B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.
+
+C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.
+
+H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción.
+
+N/A: Este acto normativo no es aplicable (ningún requisito).
+
+(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los Anexos I y II del RD 2028/1986.
+
+RGV: Reglamento general de vehículos.
+
+(1) Subconjunto electrónico.
+
+(2) Componente, UTI (Unidad técnica independiente).
+
+(3) Vehículo.
+
+(4) Prescripciones de instalación.
+
+(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes deberán disponer de su homologación CEPE/ONU o equivalente.
+
+(7) En estas exigencias se admitirán una certificación que incluya cumplimiento con ensayos realizados, en su caso, según Normas UNE, Normas ISO o equivalentes en su última versión o Directiva UE o Reglamento CEPE/ONU.
+
+(a) Vehículos que por construcción no pueden desarrollar una velocidad una velocidad superior a 40 km/h.
+
+(b) Vehículos que por construcción pueden desarrollar una velocidad una velocidad superior a 40 km/h.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## ANEXO X — Homologación Nacional de Vehículos
+
+Anexo Técnico sobre Homologación Nacional de Máquinas remolcadas
+
+(Incluye: Homologación Nacional de Tipo y Homologación Individual)
+
+Índice:
+
+Apéndice 1: Generalidades.
+
+Parte I: Definición según categorías de: Tipo y variante
+
+Parte II: Modelos de números de homologación.
+
+Apéndice 2: Homologación Nacional de tipo.
+
+Parte I: Campo de aplicación.
+
+Parte II: Ficha de características.
+
+Parte III: Modelos de fichas reducidas.
+
+Parte IV: Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV).
+
+Parte V: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 3: Serie corta nacional (No aplicable).
+
+Apéndice 4: Homologación Individual.
+
+Parte I: Campo de aplicación.
+
+Parte II: Modelos de fichas reducidas
+
+Parte III: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+
+Apéndice 5: Lista de requisitos exigidos para la homologación nacional de tipo y homologación individual del vehículo, sus partes y piezas.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 1 — Generalidades
+
+**PARTE I**
+
+**Definición según categorías de: tipo, variante y versión**
+
+Serán de aplicación los criterios para los tipos, variantes y versiones establecidos en el Reglamento de la Unión Europea vigente en la materia.
+
+**PARTE II**
+
+**Modelos de números de homologación**
+
+Homologación Nacional de Tipo:
+
+Para todas las Categorías y Vehículos incompletos, completos y las diferentes fases de completado.
+
+MAR*xxxxx*xx.
+
+Constará de tres secciones separadas por un asterisco:
+
+Primera sección: «MAR».
+
+Segunda sección: Una secuencia numérica de al menos cinco dígitos que indica el número de homologación de base.
+
+Tercera sección: Una secuencia numérica de dos dígitos que indique la extensión. La secuencia empezará a partir de 00 para cada número de homologación de base.
+
+En los casos de corrección que no implican extensión, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+Serie Corta Nacional:
+
+No aplicable.
+
+Homologación Individual:
+
+HIMAR-xxxxx.
+
+Constará de los caracteres HIMAR seguidos de una secuencia numérica de al menos cinco dígitos, que indicará el número de aprobación individual.
+
+En los casos de corrección, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 2 — Homologación Nacional de Tipo
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice se extiende a los vehículos pertenecientes a las categoría según se definen en el Reglamento de la Unión Europea vigente en la materia y los vehículos de obras y servicios asimilables a estos.
+
+La definición de tipo de vehículos, así como los modelos de contraseñas de homologación serán los establecidos en el apéndice I de este anexo.
+
+**PARTE II**
+
+**Ficha de características**
+
+Se aportará la información que figura a continuación, la cual irá acompañada de una lista de los elementos incluidos. Los planos y fotografías, en su caso, se presentarán a la escala adecuada, suficientemente detallados.
+
+**PARTE III**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de ficha reducida son los establecidos en este apéndice.
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Según lo establecido en este apéndice.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en este apéndice.
+
+**PARTE II**
+
+**Ficha de características**
+
+| Epígrafe | Ficha de características. Máquinas remolcadas |
+|---|---|
+| 0. | GENERALIDADES |
+| 0.1 | Marca |
+| 0.2 | Identificación |
+| 0.2.1 | Tipo |
+| 0.2.2 | Variantes |
+| 0.2.3 | Versión |
+| 0.2.4 | Denominación comercial |
+| 0.2.5 | Categoría, subcategoría e índice de velocidad del vehículo |
+| 0.3 | Clasificación (1): Agrícola / Obras / Servicios |
+| 0.3.1 | Género (2) |
+| 0.4 | Nombre y dirección del fabricante |
+| 0.5 | En su caso nombre y dirección del representante del fabricante |
+| 0.6 | Emplazamiento y modo de colocación de las placas e inscripciones reglamentarias |
+| 0.6.1 | Emplazamiento de la placa del fabricante (3) |
+| 0.6.2 | Emplazamiento del número de identificación de la máquina (4) |
+| 0.7 | La numeración de la serie del tipo para la identificación comienza con el n.º: |
+| 1. | CONSTITUCIÓN GENERAL DE LA MÁQUINA<br>(Adjuntar fotografías, una ¾ delantera y otra ¾ trasera, en su lado opuesto, con un esquema acotado del conjunto de la máquina) |
+| 1.1 | Número de ejes y de ruedas |
+| 1.1.1 | Número y ubicación de ejes con ruedas gemelas o tándem (en su caso) |
+| 1.1.2 | Número y ubicación de los ejes con frenos |
+| 1.2 | Bastidor, en el caso que exista, con esquema descriptivo del conjunto |
+| 1.3 | Velocidad máxima del vehículo por construcción declarada |
+| 2. | DIMENSIONES Y MASAS (en mm. y kg.) |
+| 2.1 | Distancia entre ejes |
+| 2.1.0 | Distancia entre ejes consecutivos: 1-2:…… mm; 2-3:…… mm; 3-4:…… mm. |
+| 2.1.1 | Para las máquinas de un eje: distancia máxima entre el centro del punto de enganche y el eje |
+| 2.1.2 | Distancia entre el punto de acoplamiento y el último eje |
+| 2.2 | Vía de cada eje: máximo:…… mm; mínimo:…… mm. |
+| 2.3 | Medidas máximas exteriores |
+| 2.3.1 | Longitud (incluida lanza) |
+| 2.3.2 | Anchura |
+| 2.3.3 | Altura |
+| 2.3.4 | Voladizo delantero |
+| 2.3.5 | Voladizo trasero |
+| 2.3.6 | Altura libre sobre el suelo (5) |
+| 2.4 | Tara |
+| 2.4.1 | Reparto de esta masa entre los ejes (máquinas de varios ejes) |
+| 2.4.2 | Reparto de esta masa entre el eje y el punto de enganche al tractor (máquinas de un eje) |
+| 2.4.3 | Masas en vacío en orden de marcha |
+| 2.4.3.1 | Máxima |
+| 2.4.3.2 | Mínima |
+| 2.5 | Masa máxima en carga técnicamente admisible declarada por el fabricante |
+| 2.5.1 | Reparto de esta masa entre los ejes (máquinas de varios ejes) |
+| 2.5.2 | Reparto de esta masa entre el eje y el punto de enganche al tractor (máquina de un eje) |
+| 2.6 | Masa máxima técnicamente admisible, declarada por el fabricante sobre cada uno de los ejes (máquinas de varios ejes), o entre el eje y el punto de enganche al tractor (máquinas de un eje). |
+| 2.7 | Masa Máxima Autorizada (M.M.A.) |
+| 2.8 | Carga vertical sobre el punto de acoplamiento |
+| 2.9 | Masas y neumáticos<br>![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image5.png) |
+| 3. | ÓRGANOS DE SUSPENSIÓN<br>(Adjuntar esquema descriptivo del conjunto de los órganos de la suspensión) |
+| 3.1 | Neumáticos (serie y opcionales) |
+| 3.1.1 | Número |
+| 3.1.2 | Dimensiones |
+| 3.1.3 | Índice de capacidad de carga mínima |
+| 3.1.4 | Índice de velocidad mínima |
+| 3.2 | Constitución de la suspensión de cada eje o rueda (si existe) |
+| 3.3 | Características de los elementos elásticos de la suspensión (naturaleza, materiales y medidas). |
+| 3.4 | Apoyos delanteros |
+| 4 | DISPOSITIVO DE DIRECCIÓN<br>(adjuntar esquema descriptivo) |
+| 5 | DISPOSITIVO DE FRENADO<br>(Adjuntar esquema(s) descriptivo(s) el conjunto y esquema(s) de funcionamiento) |
+| 5.1 | Tipo de frenado: sin frenos / frenado por inercia / frenado continuo / frenado semicontinuo / frenado hidráulico / frenado neumático |
+| 5.2 | Breve descripción de los sistemas de frenado instalados en el vehículo |
+| 5.2.1 | Sistema de frenado electrónico: sí / no / opcional |
+| 5.2.2 | Freno de servicio |
+| 5.2.3 | Freno de estacionamiento |
+| 5.2.4 | Frenado automático en caso de rotura de enganche |
+| 5.2.5 | Cálculo del (de los) sistema(s) de freno. |
+| 5.2.6 | Tipo de conexiones de freno: Conducto único / dos conductos |
+| 6 | CARROCERÍA |
+| 6.1 | Recubrimiento de las ruedas |
+| 6.2 | Emplazamiento y montaje de la(s) placa(s) de matrícula trasera(s) |
+| 7 | DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA<br>(Adjuntar esquema exterior de la máquina con el emplazamiento acotado de su instalación) |
+| 7.1 | Dispositivos obligatorios (Número, color y marca de homologación) |
+| 7.2 | Dispositivos facultativos (Número, color y marca de homologación) |
+| 8 | UNIONES ENTRE MAQUINA Y TRACTOR |
+| 8.1 | Acoplamiento mecánico (enganche) (6) |
+| 8.1.1 | Tipo de enganche |
+| 8.1.1.1 | Medidas |
+| 8.1.1.2 | Material |
+| 8.1.1.3 | Cargas máximas técnicamente admisibles declaradas por el fabricante:<br>– Vertical máxima sobre el punto de acoplamiento (en kg)<br>– De arrastre (incluida la rosca de unión a la lanza, en su caso)<br>– Horizontal máxima / Valor D (en kg o kN) |
+| 8.1.1.4 | Marca |
+| 8.1.1.5 | Marca o número de homologación de tipo (UE) |
+| 8.1.2 | Lanza del remolque |
+| 8.1.2.1 | Medidas |
+| 8.1.2.2 | Material |
+| 8.1.2.3 | Carga de arrastre máxima técnicamente admisible declarada por el fabricante:<br>– Vertical:<br>– De arrastre (incluida la rosca de unión a la lanza, en su caso). |
+| 8.3 | Acoplamientos hidráulicos (en su caso). Descripción y características. Presiones de trabajo y máxima. |
+| 8.3.1 | Toma de potencia hidráulica |
+| 8.3.2 | Conexión para el freno de servicio hidráulico |
+| 8.4 | Acoplamiento neumático |
+| 8.5 | Acoplamiento eléctrico |
+| 8.5.1 | Toma de corriente para alimentación de los dispositivos de alumbrado y señalización luminosa. (7) |
+| 9 | VARIOS |
+| 9.1 | Protección trasera contra el empotramiento |
+| 9.1.1 | Número de homologación (en su casos) |
+
+Notas explicativas:
+
+(1) Táchese lo que proceda.
+
+(2) Norma UNE 68051:1988.
+
+(3) Norma UNE 68063:1983 (*).
+
+(4) Norma UNE 68064:1983 (*).
+
+(5) Norma UNE 68065:1983 (*).
+
+(6) Mientras no se desarrollen las normas UNE aplicables en su última modificación, se podrán aceptar las normas ISO desarrolladas o equivalentes en su última versión para el cumplimiento del apéndice 5.
+
+(7) Norma UNE-ISO 1724:2013.
+
+(*) Mientras no sean desarrolladas las actualizaciones de las normas UNE, no podrán ser utilizadas. Ver apéndice 5.
+
+En cualquier caso, se cumplirá con las últimas modificaciones en vigor de las referencias normativas.
+
+**PARTE III**
+
+**Modelos de Ficha Reducida**
+
+| Ficha reducida. Máquina remolcada |
+|---|
+| Número de homologación |
+| Marca |
+| Identificación |
+| Tipo |
+| Variantes |
+| Versiones |
+| Denominación comercial |
+| Categoría, subcategoría e índice de velocidad del vehículo |
+| Clasificación (1): Agrícola / Obras / Servicios |
+| Genero |
+| Emplazamiento de la placa del fabricante |
+| Emplazamiento del n.º de identificación |
+| Número y ubicación de los ejes con frenos |
+| DIMENSIONES Y MASAS |
+| Distancia entre ejes consecutivos: 1-2:…… mm; 2-3:…… mm; 3-4:…… mm. |
+| Para las máquinas de un eje: distancia máxima entre el centro del punto de enganche y el eje |
+| Vía de cada eje: máximo:…… mm; mínimo:…… mm. |
+| Longitud (incluida lanza) |
+| Anchura total |
+| Voladizo trasero |
+| Altura |
+| Tara |
+| Masa máxima técnicamente admisible |
+| En el punto de enganche |
+| En el primer eje |
+| En el segundo eje |
+| Masas en vacío en orden de marcha |
+| Máxima |
+| Mínima |
+| Masa Máxima Autorizada (M.M.A.) |
+| NEUMÁTICOS |
+| Número |
+| Dimensiones |
+| Índice mínimo de carga |
+| Índice mínimo de velocidad<br>![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image6.png) |
+| Apoyos delanteros |
+| DISPOSITIVO DE DIRECCIÓN (ADJUNTAR ESQUEMA DESCRIPTIVO) |
+| FRENADO |
+| Tipo de frenado: sin frenos / frenado por inercia / frenado continuo / frenado semicontinuo / frenado hidráulico / frenado neumático |
+| Breve descripción de los sistemas de frenado instalados en el vehículo |
+| Sistema de frenado electrónico: sí / no / opcional |
+| De servicio |
+| De estacionamiento |
+| Frenado automático en caso de rotura de enganche |
+| DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA |
+| Dispositivos obligatorios/facultativos |
+| ACOPLAMIENTO ENTRE TRACTOR Y MAQUINA REMOLCADA |
+| Tipo |
+| Marca |
+| Marca o número de homologación de tipo (UE) |
+| Cargas máximas técnicamente admisibles declaradas por el fabricante:<br>– Vertical máxima sobre el punto de acoplamiento (en kg)<br>– De arrastre (incluida la rosca de unión a la lanza, en su caso)<br>– Horizontal máxima / Valor D (en kg o kN) |
+| Mecánico |
+| Hidráulico |
+| Neumático |
+| Eléctrico |
+| Protección trasera contra el empotramiento. Número de homologación (en su caso) |
+| Fabricante |
+| Representante del fabricante |
+| Fecha |
+| Observaciones |
+
+Notas explicativas:
+
+(1) Táchese lo que proceda.
+
+**PARTE IV**
+
+**Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)**
+
+Se describirán, para cada variante, las diferentes combinaciones de versiones correspondientes al tipo.
+
+Cada variante y cada versión deberán identificarse mediante un código numérico o alfanumérico que deberá indicar el vehículo que se trate.
+
+**PARTE V**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+| Asunto | Número de homologación | Variantes / Versiones |
+|---|---|---|
+|  |  |  |
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 3 — Serie corta nacional
+
+No procede.
+
+> Se añade, con efectos de 2 de enero de 2019, por la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+## APÉNDICE 4 — Homologación Individual
+
+**PARTE I**
+
+**Campo de aplicación**
+
+El campo de aplicación del presente apéndice se extiende a los vehículos según se definen en la parte I del apéndice 2 de este anexo.
+
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
+
+**PARTE II**
+
+**Modelo de Ficha Reducida**
+
+Los modelos de fichas reducidas son los establecidos en la parte III del apéndice 2.
+
+**Parte III**
+
+**Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas**
+
+Según lo establecido en la parte V del apéndice 2.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## APÉNDICE 5 — Lista de requisitos exigidos para la homologación del vehículo, sus partes y sus piezas en
+
+Homologación Nacional de Tipo
+
+(Máquinas remolcadas)
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">N.º</th>
+<th class="cabeza_tabla" rowspan="2">Asunto (*) (H)</th>
+<th class="cabeza_tabla" colspan="2">Homologación Nacional de Tipo</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">S1</th>
+<th class="cabeza_tabla">S2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">19</td>
+<td class="cuerpo_tabla_izq">Placa de matrícula</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
+<td class="cuerpo_tabla_centro">A (7)</td>
+<td class="cuerpo_tabla_centro">A (7)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">21</td>
+<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">22</td>
+<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
+<td class="cuerpo_tabla_centro">A</td>
+<td class="cuerpo_tabla_centro">A</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_izq">Neumáticos</td>
+<td class="cuerpo_tabla_centro">A (6)</td>
+<td class="cuerpo_tabla_centro">A (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">34</td>
+<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
+<td class="cuerpo_tabla_centro">A (2)(4)(6)(7)</td>
+<td class="cuerpo_tabla_centro">A (2)(4)(6)(7)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">51</td>
+<td class="cuerpo_tabla_izq">Manual de utilización</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">53</td>
+<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">54</td>
+<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">55</td>
+<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+</tbody>
+</table>
+
+Homologación Individual
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2"> </th>
+<th class="cabeza_tabla" rowspan="2">Asunto (*) (H)</th>
+<th class="cabeza_tabla" colspan="2">Homologación individual</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">S1</th>
+<th class="cabeza_tabla">S2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+<td class="cuerpo_tabla_centro">X (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">19</td>
+<td class="cuerpo_tabla_izq">Placa de matrícula</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
+<td class="cuerpo_tabla_centro">B (7)</td>
+<td class="cuerpo_tabla_centro">B (7)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">21</td>
+<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">22</td>
+<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
+<td class="cuerpo_tabla_centro">B</td>
+<td class="cuerpo_tabla_centro">B</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_izq">Neumáticos</td>
+<td class="cuerpo_tabla_centro">A (6)</td>
+<td class="cuerpo_tabla_centro">A (6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">34</td>
+<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
+<td class="cuerpo_tabla_centro">B (2)(4)(6)(7)</td>
+<td class="cuerpo_tabla_centro">B (2)(4)(6)(7)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">51</td>
+<td class="cuerpo_tabla_izq">Manual de utilización</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">53</td>
+<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">54</td>
+<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">55</td>
+<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
+<td class="cuerpo_tabla_centro">C</td>
+<td class="cuerpo_tabla_centro">C</td>
+</tr>
+</tbody>
+</table>
+
+Leyenda:
+
+X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo UE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.
+
+A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.
+
+B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.
+
+C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.
+
+H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción.
+
+N/A: Este acto normativo no es aplicable (ningún requisito)
+
+RGV: Reglamento general de vehículos
+
+(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los Anexos I y II del RD 2028/1986.
+
+(1) Subconjunto electrónico.
+
+(2) Componente, UTI (Unidad técnica independiente).
+
+(3) Vehículo.
+
+(4) Prescripciones de instalación
+
+(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes, deberán disponer de su homologación CEPE/ONU o equivalente.
+
+(7) En estas exigencias se admitirán una certificación que incluya cumplimiento con ensayos realizados, en su caso, según Normas UNE, Normas ISO o equivalentes en su última versión o Directiva UE o Reglamento CEPE/ONU.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+## ANEXO XI — Modelo y especificaciones de las tarjetas de inspección técnica de vehículos (ITV)
+
+1\. Las Tarjetas ITV a que se refiere el artículo 12 de este real decreto serán de los siguientes tipos:
+
+– Tipo A, AT, AR y AL: Que documentan vehículos completos o completados.
+
+– Tipo B, BT, BR y BL: Que documentan exclusivamente vehículos homologados de tipo completos.
+
+– Tipo C, CT, CR y CL: Que documentan vehículos incompletos.
+
+– Tipo D, DT, DR y DL: Que documentan exclusivamente vehículos homologados de tipo completados.
+
+Las tarjetas ITV podrán emitirse, a elección del emisor de la misma, en soporte en papel o en soporte electrónico, salvo en el caso de tarjetas de inspección técnica tipo A, B, C, D, AL, BL, CL y DL, en los que deberán emitirse de forma obligatoria en soporte electrónico.
+
+2\. Mientras se sigan emitiendo tarjetas ITV en soporte papel, estas constarán de un original (para el usuario) y dos copias para los servicios de industria de la provincia en la que se matrícula el vehículo y para la Jefatura provincial de Tráfico. En el supuesto de los vehículos agrícolas, tendrán otra copia más para la Dirección General de Producción Agraria. En la copia destinada a la Jefatura provincial de Tráfico aparecerá, en el apartado de reformas en el vehículo, la diligencia de venta que tendrá el siguiente formato:
+
+D. ………………………………………………………… DNI …………………………..,
+
+En …………………………………, a …., de …………………………….., de ……….
+
+Firma y sello
+
+En caso de tarjetas ITV en soporte electrónico, se garantizará el acceso al documento electrónico que requieran las autoridades competentes y se emitirá una copia en papel para el adquiriente del vehículo. El formato y el contenido, así como los medios de intercambio de los datos, se establecerán por resolución de la persona titular de la Dirección General de Tráfico, y será coherente, para los vehículos de categoría M, N y O, con los datos del certificado de conformidad en formato electrónico que se establece en el Reglamento de Ejecución (UE) 2021/133 de la Comisión de 4 de febrero de 2021 y en sus posteriores modificaciones.
+
+3\. Las tarjetas ITV serán cumplimentadas de acuerdo con las instrucciones que se incluyen en el anexo XII.
+
+4\. Especificaciones técnicas del papel y letras.
+
+4.1. Dimensiones.
+
+Tarjetas ITV: UNE A4 (210 x 297 mm).
+
+4.2. Especificaciones técnicas.
+
+A. Gramaje: 100 g/m<sup>2</sup>.
+
+B. Mano: 1,3 cm3/g.
+
+C. Humedad absoluta: 5 %.
+
+D. Indice Cobb 60: <_ 28.
+
+E. Porosidad Bendtsen: ml/min <1700.
+
+F. Blancura (Elrepho): CIE 160.
+
+G. Opacidad: 95 %.
+
+H. Lisura Bendtsen (caratela/cara fieltro). Ml/min: 350/250.
+
+I. Longitud rotura (longitudinal): > 4000.
+
+J. Longitud rotura (transversal): < 2500.
+
+K. Indice desgarro (long./transv.): 55/65.
+
+Todas las tarjetas estarán impresas y fondeadas en tinta azul, con sus correspondientes porcentajes de intensidad.
+
+4.3. Las tarjetas ITV estarán elaboradas de manera que se impidan las falsificaciones. A tal fin el papel en que se imprima dispondrá de una protección consistente en gráficos coloreados o en una marca de agua.
+
+4.4 Las especificaciones técnicas del papel y letras para la copia papel de las tarjetas ITV emitidas en formato electrónico se determinarán en la correspondiente norma que publique la Dirección General de Tráfico.
+
+4.5 Las tarjetas ITV en formato papel estarán cumplimentadas con el tipo de letra: Arial 9 negro.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image8.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image10.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image11.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image12.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image13.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image14.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image15.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image16.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image17.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image18.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image19.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image20.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image21.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image22.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image23.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image24.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image25.png)
+
+> Se modifican los apartados 1 y 2 por el art. 3.3 de la Orden PJC/528/2026, de 26 de mayo. [Ref. BOE-A-2026-11580](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11580)
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+> Se modifica el párrafo primero del apartado 1, con efectos de 20 de mayo de 2018, por la disposición final 2.1 del Real Decreto 920/2017, de 23 de octubre. [Ref. BOE-A-2017-12841](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12841)
+
+## ANEXO XII — Cumplimentación de Tarjetas ITV
+
+1\. Normas generales.
+
+1.1 A los efectos del presente anexo, se entenderá por tarjeta de ITV: documento que describe a una unidad de vehículo que se pretende poner en circulación, por lo tanto, en ella deberán figurar exclusivamente las características que corresponden al vehículo documentado incluyendo los equipos opcionales de que dispone por haber sido equipado con ellos por el fabricante del mismo, y que están incluidos en su homologación tipo. No se considera tarjeta ITV la hoja adicional y por tanto no está sujeta a las especificaciones técnicas indicadas en el punto 4.2 del anexo XI ni a las obligaciones con respecto a su adquisición.
+
+1.2 Campo de aplicación y organismos de emisión.
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">Tipo de Certificado</th>
+<th class="cabeza_tabla">Categorías de vehículos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">EXTENDIDA POR LOS ÓRGANOS COMPETENTES DE LA ADMINISTRACIÓN PARA VEHÍCULOS COMPLETOS O COMPLETADOS</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">A</td>
+<td class="cuerpo_tabla_izq">Vehículos completos / completados de las categorías M, N y O distintos de los agrícolas, de obras y servicios y los de categoría L.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">AT</td>
+<td class="cuerpo_tabla_izq">Vehículos agrícolas y de obras y servicios completos ‒ completados distintos de los remolques o máquinas remolcadas agrícolas o de obras y servicios</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">AR</td>
+<td class="cuerpo_tabla_izq">Remolques agrícolas o de obras y servicios/máquinas remolcadas agrícolas o de obras y servicios</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">AL</td>
+<td class="cuerpo_tabla_izq">Vehículos completados de categoría L</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">EXTENDIDAS POR LOS FABRICANTES DE VEHÍCULOS, EXCLUSIVAMENTE PARA VEHÍCULOS DE TIPOS COMPLETOS</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">B</td>
+<td class="cuerpo_tabla_izq">Vehículos completos de las categorías M, N y O distintos de los agrícolas, de obras y servicios y los de categoría L</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">BT</td>
+<td class="cuerpo_tabla_izq">Vehículos agrícolas y de obras y servicios completos distintos de los remolques o máquinas remolcadas agrícolas o de obras y servicios</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">BL</td>
+<td class="cuerpo_tabla_izq">Vehículos completos de categoría L</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">EXTENDIDOS POR LOS FABRICANTES DE VEHÍCULOS, EXCLUSIVAMENTE PARA VEHÍCULOS HOMOLOGADOS DE TIPOS INCOMPLETOS</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">C</td>
+<td class="cuerpo_tabla_izq">Vehículos incompletos de las categorías M, N y O distintos de los agrícolas, de obras y servicios y los de categoría L</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">CT</td>
+<td class="cuerpo_tabla_izq">Vehículos agrícolas y de obra y servicios incompletos distintos de los remolques o máquinas agrícolas o de obras y servicios</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">CR</td>
+<td class="cuerpo_tabla_izq">Remolques incompletos agrícolas o de obras y servicios</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">CL</td>
+<td class="cuerpo_tabla_izq">Vehículos incompletos de categoría L</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="cuerpo_tabla_izq">EXTENDIDAS POR LOS FABRICANTES DE VEHÍCULOS, EXCLUSIVAMENTE PARA VEHÍCULOS HOMOLOGADOS DE TIPO COMPLETADOS</p>
+<p class="cuerpo_tabla_izq">Dentro de la definición de completados se incluye la última fase de la homologación individual solicitada por un fabricante, a condición que dispongan de todos los actos reglamentarios para dicha homologación y cumpla con los requisitos de conformidad de la producción de dichos actos reglamentarios.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">D</td>
+<td class="cuerpo_tabla_izq">Vehículos completados de las categorías M, N y O distintos de los agrícolas, de obras y servicios y los de categoría L.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">DT</td>
+<td class="cuerpo_tabla_izq">Vehículos agrícolas y de obras y servicios completados distintos de los remolques o máquinas agrícolas o de obras y servicios.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">DR</td>
+<td class="cuerpo_tabla_izq">Remolques completados agrícolas o de obras y servicios.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">DL</td>
+<td class="cuerpo_tabla_izq">Vehículos completados de categoría L.</td>
+</tr>
+</tbody>
+</table>
+
+En todas las tarjetas de ITV se utilizarán los códigos armonizados indicados en la Directiva 1999/37/CE del Consejo de 29 de abril de 1999 relativa a los documentos de matriculación de los vehículos.
+
+No se admitirán tarjetas ITV con rectificaciones o tachaduras.
+
+Todas las tarjetas ITV que se presenten para la matriculación de los vehículos deberán ir diligenciadas en su totalidad, rayando los espacios que no procedan a efectos de impedir la adición de nuevos datos por personas no autorizadas.
+
+1.2.1. Los órganos competentes de las Comunidades Autónomas anotarán en la tarjeta ITV las reformas efectuadas en los mismos, incluidos los de la categoría O1, de masa máxima autorizada (MTMA) inferior a 750 kg. Asimismo, anotarán en la tarjeta ITV el resultado de las inspecciones técnicas de los vehículos, de conformidad con lo dispuesto en el Real Decreto 920/2017, de 23 de octubre, por el que se regula la inspección técnica de vehículos.
+
+1.2.2. Se podrán añadir hojas adicionales a las tarjetas ITV según modelo incluido en el anexo XI.
+
+1.3 La firma de las tarjetas ITV tipo B, BT, BR, BL, C, CT, CR, CL, D, DT, DR, DL, se realizará por personas físicas inscritas en el Registro de fabricantes y firmas autorizadas del Ministerio de Industria, Comercio y Turismo y podrá realizarse según las alternativas siguientes:
+
+a) Firma manuscrita o con máquina de firmar.
+
+b) Firma preimpresa, estampillada o digitalizada.
+
+c) En el caso de tarjeta ITV electrónica, la firma se realizará por persona física o jurídica autorizada a estos efectos y con firma electrónica reconocida.
+
+Es responsabilidad del fabricante la veracidad del contenido de las tarjetas ITV.
+
+1.3.1 El fabricante llevará un registro mecanizado de los certificados expedidos en soporte papel, o un registro informatizado en el caso de tarjetas ITV expedidas en soporte electrónico, que permita verificar su autenticidad.
+
+El registro a que se refiere el párrafo anterior se ordenará por número del certificado de la tarjeta ITV y en él deberán figurar la fecha de expedición de la tarjeta, así como el número de identificación del vehículo (VIN), tipo y contraseña de homologación del vehículo.
+
+1.3.2. El fabricante conservará durante un plazo mínimo de 10 años el registro a disposición de la Autoridad de Homologación.
+
+1.4 La autoridad de homologación mantendrá un registro de las personas autorizadas para firmar tarjetas ITV tipo B, BT, BR, BL, C, CT, CR, CL, D, DT, DR, DL, debiendo los fabricantes notificar los cambios que se produzcan a dicho Centro Directivo.
+
+Para la inscripción en dicho registro, el fabricante o su representante legal deberá cumplir las exigencias siguientes:
+
+– Comprobación de que las contraseñas de homologación de tipo de todas las categorías de vehículos, estén concedidas por, o comunicadas a la autoridad de homologación española. Este requisito será validado mediante la presentación de la ficha reducida.
+
+– Cumplir con las exigencias relativas a la Conformidad de la Producción (COP).
+
+Las personas no autorizadas en este registro podrán obtener la tarjeta de ITV del tipo A para cada unidad de vehículo, a través de las Comunidades Autónomas.
+
+1.5 Una vez matriculados los vehículos y en el caso de los vehículos de la categoría O1, puestos en circulación, los duplicados de las tarjetas ITV sólo podrán expedirse, en su caso, por la Administración competente, utilizando el modelo A, AT, AR y AL, según corresponda, siempre que exista constancia de que el vehículo está al corriente de la inspección técnica periódica.
+
+Cuando se trate de tarjetas ITV emitidas en soporte electrónico, las sucesivas copias en papel se expedirán por la Dirección General de Tráfico. Dichas copias incluirán en todo caso, cualquier actualización o modificación que sobre sus datos hubieran anotado en el Registro de Vehículos las entidades, organismos u autoridades competentes en la materia, conservando en todo caso el modelo de tarjeta expedida por el fabricante del vehículo.
+
+1.6 Vehículos de motor y sus remolques, y máquinas autopropulsadas o remolcadas y vehículos agrícolas. La expedición de las tarjetas ITV en formato papel será realizada por el fabricante, según modelo correspondiente a cada categoría que figura en los apéndices del anexo XI. Los impresos de tarjetas de ITV podrán ser adquiridas por el fabricante en el Servicio de Publicaciones del Ministerio de Industria y Turismo o, en los casos permitidos, producidas por sus propios medios, en número adecuado a cada caso y siempre que se cumpla lo previsto en la reglamentación vigente.
+
+Las tarjetas ITV que se expidan en soporte electrónico deberán contener, en función de su correspondiente categoría, los datos que se indiquen, por resolución de la persona titular de la Dirección General de Tráfico, según el anexo XI. Las especificaciones del fichero electrónico que contenga dichos datos serán las que determine la Dirección General de Tráfico.
+
+Las tarjetas ITV que se expidan en soporte electrónico se presentarán por el fabricante en el registro telemático de la Dirección General de Tráfico, creado por la Resolución de 26 de agosto de 2007, de la Dirección General de Tráfico, de acuerdo con el procedimiento que se establezca en disposición que regule la recepción y cancelación de las tarjetas ITV electrónicas en dicho registro. Los fabricantes de vehículos serán los responsables de mantener actualizado el registro de fichas ITV electrónicas de la Dirección General de Tráfico, cancelando las tarjetas de vehículos que finalmente no se comercialicen en España o modificando las fichas ITV que contengan errores y deban ser corregidas.
+
+1.6.1 En el caso de los vehículos incompletos que hayan sido completados se procederá como se indica a continuación:
+
+El fabricante o representante legal (de la primera fase) rellenará una tarjeta ITV según el modelo C (vehículo incompleto) o certificado de conformidad correspondiente, cumplimentando las masas y dimensiones máximas que se permiten y la conformidad con la homologación de tipo concedida, indicando la correspondiente contraseña. El impreso de dicha tarjeta podrá ser adquirida en el Servicio de Publicaciones del Ministerio de Industria y Turismo o, en los casos permitidos, producidas por sus propios medios.
+
+Esta tarjeta ITV o certificado de conformidad será entregada al comprador, quien, en caso de no ser la misma persona, la entregará al fabricante de la siguiente fase, quien la conservará para su archivo durante un plazo mínimo de diez años. En el caso de más de una fase el comprador o cada fabricante entregará una tarjeta tipo C al siguiente fabricante, quien la conservará para su archivo durante un plazo mínimo de diez años. El fabricante de la última fase cumplimentará una tarjeta ITV modelo D (vehículo completado), además certificará la conformidad con el tipo de base homologado y anotará su contraseña de homologación.
+
+Con la excepción de la tarjeta ITV tipo C inicial, emitida por el fabricante del vehículo de base, el resto de tarjetas C (correspondientes a fases intermedias), incluirán en el apartado Observaciones la nota:
+
+“Los datos no modificados están obtenidos de la tarjeta con núm. de certificado: *****, contraseña de homologación: *****, emitido en fecha: ****, por el fabricante de la fase anterior, nombre: ****.”
+
+La Dirección General de Tráfico, una vez asignado el número de matrícula, lo consignará en la tarjeta ITV y facilitará el acceso por medios electrónicos a dicha información al organismo competente de la comunidad autónoma.
+
+El fabricante del vehículo incompleto, conservará para su archivo durante un plazo mínimo de diez años una copia de la tarjeta ITV, pudiendo sustituirse por información en soporte informático.
+
+1.6.2 Las Tarjetas ITV modelos A, AT, AL y AR serán cumplimentadas por la Administración competente.
+
+En el caso de vehículos que deban pasar la inspección técnica de vehículos unitaria por estar amparados por una aplicación particular o recibir una homologación individual a nombre del titular de la misma, los impresos de dichas tarjetas ITV podrán ser adquiridas por la Administración en el Servicio de Publicaciones del Ministerio de Industria y Turismo o bien producidas por sus propios medios, en aquellos casos en que esté previsto.
+
+Como excepción, el fabricante de vehículo completado que realice una homologación individual podrá emitir tarjeta tipo D.
+
+2.1 Condiciones generales:
+
+A cumplimentar por el órgano competente de la Comunidad Autónoma.
+
+En el encabezamiento debe aparecer el nombre de la Comunidad Autónoma, el nombre del órgano de gobierno de la misma y los servicios de industria que efectúan la cumplimentación de la tarjeta ITV.
+
+La numeración de serie se efectuará de acuerdo con las indicaciones de la Comunidad Autónoma o del Ministerio de Industria, Comercio y Turismo, en su caso.
+
+La redacción de los distintos apartados, podrá hacerse en los idiomas propios de la Comunidad además del castellano.
+
+Número de certificado. Es un número de control del organismo inspector.
+
+El organismo inspector certificará:
+
+El vehículo cuyas características se reseñan es apto para su matriculación o puesta en circulación.
+
+Las posibles observaciones que afecten a este vehículo. (…).
+
+A cumplimentar por Jefatura de Tráfico.
+
+Matrícula: Se indicará el código alfanumérico concedido por la Jefatura de Tráfico.
+
+2.2 Datos Técnicos.
+
+Ver apéndice 1.
+
+3\. Instrucciones específicas para la cumplimentación de la tarjeta ITV modelo B, BT, BR, BL, C, CT, CR, CL y D, DT, DR y DL.
+
+3.1 Condiciones generales.
+
+A cumplimentar por el fabricante.
+
+En el encabezamiento debe aparecer el nombre y anagrama de la empresa fabricante del vehículo.
+
+La numeración de serie de la tarjeta en papel se efectuará por el Servicio de Publicaciones del Ministerio de Industria, Comercio y Turismo.
+
+En el caso de tarjeta ITV emitida en formato electrónico, así como en la copia en papel de ésta, la numeración de serie será la obtenida por el fabricante mediante solicitud ante el registro telemático del Ministerio de Industria, Comercio y Turismo.
+
+Número de certificado: Es un número del orden del fabricante del vehículo.
+
+El abajo firmante, legalmente autorizado por:
+
+Certifica que el vehículo cuyas características se reseñan, es completamente conforme con el número de homologación.
+
+Fecha de emisión: Se consignará la fecha de emisión de la Tarjeta ITV en formato dd/mm/aaaa.
+
+Firma autorizada según el Registro de fabricantes y firmas autorizadas: según se consigna en el apartado 1.3 del presente anexo.
+
+A cumplimentar por Jefatura de Tráfico.
+
+Matrícula: Se indicará el código alfanumérico concedido por la Jefatura de Tráfico.
+
+3.2 Datos Técnicos
+
+Ver apéndice 1.
+
+Método del cálculo del control del VIN (en el caso de tarjeta electrónica).
+
+3.3 El control del VIN es un valor numérico redundante, calculado a partir de los caracteres que componen el número de identificación del vehículo (VIN), que permite detectar los errores más comunes que se producen al trasladar dicha información a un sistema informático. Cálculo del control del VIN:
+
+Asignación a cada carácter del número de identificación del vehículo (VIN) el valor numérico obtenido al restar 32 al código que le corresponda según la tabla ISO 8859-1 (ISO Latín 1). Por ejemplo, al carácter W le corresponde el valor 55 (ISO 8859-1(W)=87).
+
+Obtención de la suma de los productos obtenidos al multiplicar el valor numérico asignado a cada carácter, por el coeficiente asignado a la posición que ocupa el carácter en el VIN, obtenido al multiplicar la posición, comenzando por la izquierda, por 11. Ejemplo, para el VIN=VF7CHRHYB39445820, tenemos:
+
+| VIN | V | F | 7 | C | H | R | H | Y | B | 3 | 9 | 4 | 4 | 5 | 8 | 2 | 0 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Coef. Posición. | 11 | 22 | 33 | 44 | 55 | 66 | 77 | 88 | 99 | 110 | 121 | 132 | 143 | 154 | 165 | 176 | 187 |
+| Valor. | 54 | 38 | 23 | 35 | 40 | 50 | 40 | 57 | 34 | 19 | 25 | 20 | 20 | 21 | 24 | 18 | 16 |
+| Producto. | 594 | 836 | 759 | 1540 | 2200 | 3300 | 3080 | 5016 | 3366 | 2090 | 3025 | 2640 | 2860 | 3234 | 3960 | 3168 | 2992 |
+
+y la suma de los productos el valor 44660.
+
+Finalmente, el control del VIN se obtiene tomando el resto de dividir el valor anterior por 97. En el ejemplo 40.
+
+> Se modifican los apartados 1.1 y 1.6 por el art. 3.4 y 5 de la Orden PJC/528/2026, de 26 de mayo. [Ref. BOE-A-2026-11580](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11580)
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
+
+> Se modifica el apartado 1.5, con efectos de 20 de mayo de 2018, por la disposición final 2.2 del Real Decreto 920/2017, de 23 de octubre. [Ref. BOE-A-2017-12841](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12841)
+
+## APÉNDICE 1
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6179422_image2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image27.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image28.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image29.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image30.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image31.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image32.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image33.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image34.png)
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. [Ref. BOE-A-2018-15796](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15796)
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.

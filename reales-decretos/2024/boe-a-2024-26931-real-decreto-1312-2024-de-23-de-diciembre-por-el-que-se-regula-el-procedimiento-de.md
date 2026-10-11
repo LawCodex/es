@@ -1,0 +1,293 @@
+---
+title: "Real Decreto 1312/2024, de 23 de diciembre, por el que se regula el procedimiento de Registro Único de Arrendamientos y se crea la Ventanilla Única Digital de Arrendamientos para la recogida y el intercambio de datos relativos a los servicios de alquiler de alojamientos de corta duración"
+identifier: "BOE-A-2024-26931"
+eli: "https://www.boe.es/eli/es/rd/2024/12/23/1312"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Vivienda y Agenda Urbana"
+date: 2024-12-23
+published: 2024-12-24
+in_force_from: 2025-01-02
+last_amended: 2026-07-18
+consolidated: 2026-08-12
+gazette: "Boletín Oficial del Estado núm. 309"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2024-26931"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1312/2024, de 23 de diciembre, por el que se regula el procedimiento de Registro Único de Arrendamientos y se crea la Ventanilla Única Digital de Arrendamientos para la recogida y el intercambio de datos relativos a los servicios de alquiler de alojamientos de corta duración
+
+Téngase en cuenta que, además de los preceptos anulados expresamente por la Sentencia del TS de 19 de mayo de 2026, [Ref. BOE-A-2026-12300](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12300), que así se indica en este Real Decreto, se anulan cualesquiera otras previsiones o menciones referidas al registro único contenidas en otros apartados, según establece la citada Sentencia. En el mismo sentido se pronuncia la Sentencia del TS de 1 de junio de 2026, [Ref. BOE-A-2026-15677](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15677)
+
+El Gobierno ha venido ejecutando en los últimos tiempos decididas intervenciones en materia de vivienda, habida cuenta de la dificultad del acceso a la misma por parte de un gran sector de la población española. Esta situación se ha producido principalmente por un incremento de los precios de venta y alquiler de viviendas, y a pesar de que hay más inmuebles en alquiler, este mercado se ha disgregado en muy diferentes formas de disfrute, ampliándose el espectro desde la propiedad y arrendamiento de larga duración hasta otras formas de negocio como el arrendamiento de temporada o las viviendas de uso turístico. Con el fin de atender a este nuevo conjunto de realidades, ya el Real Decreto-ley 7/2019, de 1 de marzo, de medidas urgentes en materia de vivienda y alquiler, modificó la Ley 49/1960, de 21 de julio, sobre propiedad horizontal, permitiendo a las comunidades de propietarios limitar o condicionar la utilización de viviendas de uso turístico en sus comunidades.
+
+Otros ejemplos de actuaciones promovidas en los últimos años en materia de vivienda han sido el Convenio entre el Ministerio de Vivienda y Agenda Urbana y el Instituto de Crédito Oficial, E.P.E., para la gestión de los avales por cuenta del Estado de la «Línea de avales para la adquisición de primera vivienda de jóvenes y familias con menores a cargo»; el Convenio entre el Ministerio de Vivienda y Agenda Urbana y el Instituto de Crédito Oficial, E.P.E., para la instrumentación de la «Facilidad para promoción de vivienda social»; o el Convenio entre el Ministerio de Vivienda y Agenda Urbana y el Instituto de Crédito Oficial, E.P.E., para la gestión de avales por cuenta del Estado de la Facilidad antes mencionada. Gracias a la suscripción de dichos convenios, el Gobierno ha puesto las bases para facilitar el acceso a la vivienda a jóvenes y familias con menores a cargo, y, además, contribuir al aumento de la oferta de vivienda, poniendo en marcha medidas para destensionar el mercado.
+
+Además, pueden destacarse otras medidas como las promociones urbanísticas y de construcción de vivienda en alquiler asequible que lleva a cabo la Entidad Pública Empresarial del Suelo (SEPES) con la financiación del Ministerio de Vivienda y Agenda Urbana, y que ya han superado los 800 millones de euros transferidos, con ejemplos de actuaciones en el barrio de Campamento de la ciudad de Madrid, u otras como las que se impulsan en Valencia, Sevilla o Illes Balears.
+
+Por último, tras más de cuatro décadas, gracias a la aprobación de la Ley 12/2023, de 24 de mayo, por el derecho a la vivienda, se ha dado cumplimiento al artículo 47 de la Constitución Española, habilitando las medidas necesarias para el desarrollo del derecho al disfrute de una vivienda digna y adecuada.
+
+Sin embargo, desde el Gobierno se considera que todas las mencionadas medidas, algunas con efecto a medio y largo plazo, y otras con efecto inmediato, deben seguir complementándose con nuevas actuaciones en materia de vivienda. La situación actual del mercado español del alquiler, unida a la obligatoriedad por parte del Estado de proceder a sentar las bases para el efectivo cumplimiento de las normas europeas y, en concreto, del Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, sobre la recogida y el intercambio de datos relativos a los servicios de alquiler de alojamientos de corta duración y por el que se modifica el Reglamento (UE) 2018/1724, han puesto las bases para la presente norma. Además, teniendo en cuenta la necesaria aplicación y eficacia directa de los reglamentos europeos, se determina como acto obligado por parte del Gobierno de España la adopción de la presente norma al tenor del referido reglamento europeo, que ordena a los Estados miembros la adopción y publicación de las disposiciones legales, reglamentarias y administrativas necesarias para dar cumplimiento al mismo. De esta manera, el presente reglamento tiene por objeto regular un procedimiento de registro único de arrendamientos y la Ventanilla Única Digital de Arrendamientos.
+
+Hay que tener en cuenta que del examen de los precedentes legislativos europeos que constituyen el germen del Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, destaca la Resolución del Parlamento Europeo, de 21 de enero de 2021, sobre el acceso a una vivienda digna y asequible para todos, que en su considerando 48 señala que el crecimiento expansivo del alquiler de vacaciones a corto plazo está retirando viviendas del mercado y propiciando un aumento de los precios, y puede tener un impacto negativo en la habitabilidad de centros urbanos y turísticos. De este modo, el Parlamento Europeo pedía a la Comisión que interpretara la Directiva de servicios en consonancia con la sentencia del Tribunal de Justicia de la Unión Europea (C-390/18), que establece la asequibilidad de la vivienda y la escasez de viviendas de alquiler como «una razón imperiosa de interés general», y que concede, en consecuencia, una amplia discrecionalidad a las autoridades nacionales para definir normas proporcionadas para los servicios de hostelería, incluido el registro obligatorio, la limitación de licencias y el diseño de políticas públicas para evitar la «turistización», el abandono de los centros urbanos y la disminución de la calidad de vida en ellos, en detrimento de sus residentes.
+
+Otro elemento a tener en cuenta en relación con los alquileres de corta duración a los que se refiere la norma europea es que en nuestro país la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, parte de la causalidad como elemento fundamental para distinguir los arrendamientos de temporada y, en general los de corta duración, de los ordinarios de vivienda, no haciendo referencia a un plazo determinado para la constitución de un tipo u otro de arrendamiento. Aunque el Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, indica que para definir los alquileres de corta duración se puede partir de una duración habitual inferior a los doce meses, la situación de la normativa española ha llevado a que se hayan producido ciertas dificultades en las labores inspectoras. Estas labores, en lugar de poder aplicar un criterio automático de duración, se han tenido que basar en elementos de carácter causal caso por caso, y sin contar con información suficiente y transparente.
+
+Por todo ello, la falta de información relacionada con los arrendamientos que se van constituyendo, ha llevado a que dicha causalidad se haya visto resentida, y a que sea previsible que pueda existir en la actualidad un porcentaje relevante de arrendamientos en situación de fraude de ley.
+
+Así, mediante el Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, se establecen una serie de obligaciones y regulaciones en materia de información que se aplican a los servicios de alquiler de alojamientos de corta duración cuando los Estados miembros hayan establecido procedimientos de registro para las unidades situadas en su territorio. Además, dispone que cuando existan ese tipo de procedimientos de registro, se deberá crear una Ventanilla Única Digital que funcione en el conjunto del Estado miembro.
+
+Tal y como refleja la parte expositiva del citado reglamento, los servicios de alquiler de alojamientos de corta duración ofrecidos por anfitriones existen desde hace muchos años como complemento de otros servicios de alojamiento, como hoteles, albergues o habitaciones con desayuno. Sin embargo, el volumen de los servicios de alquiler de alojamientos de corta duración está aumentando considerablemente en toda la Unión, y en concreto en España, como consecuencia del crecimiento de la economía de plataformas. Si bien los servicios de alquiler de alojamientos de corta duración crean muchas oportunidades para los huéspedes, los anfitriones y todo el ecosistema turístico, su rápido crecimiento ha suscitado preocupaciones, planteando retos como su contribución a la disminución del número de viviendas destinadas al arrendamiento de larga duración disponibles y al aumento de los precios de los alquileres y de la vivienda en general. La norma europea, partiendo de esa premisa, pretende afrontar el reto de la falta de información fiable sobre los servicios de alquiler de alojamientos de corta duración y, en concreto, garantizar que se cuenta con la identidad del anfitrión y el lugar donde se ofrecen dichos servicios o su duración. Todo ello dado que, la falta de dicha información dificulta que las administraciones puedan evaluar el impacto real de estos servicios y que consigan diseñar e implementar respuestas públicas adecuadas y proporcionadas.
+
+Este real decreto, partiendo precisamente de estas realidades, pretende sentar las bases para afrontar los retos y problemas mencionados a nivel nacional, con un refuerzo de la información disponible en materia de alquileres de corta duración. Así, mediante esta norma se adapta el ordenamiento jurídico español al Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, regulando el procedimiento de registro único de arrendamientos y la Ventanilla Única Digital de Arrendamientos. Mientras que la Ventanilla se residencia en el Ministerio de Vivienda y Agenda Urbana, que será el encargado de coordinar las actuaciones vinculadas a la eficacia de este real decreto, el procedimiento de registro único se residenciará en el Registro de la Propiedad y en el de Bienes Muebles. A través de esta fórmula registral se garantiza la adecuada implementación de la normativa europea, permitiendo a su vez una fórmula eficaz y con garantías de seguridad jurídica. Además, esta fórmula de registro garantiza la comprobación formal de los elementos necesarios recogidos, cuando corresponda, en la normativa de ámbito estatal y del resto de administraciones territoriales, así como el cumplimiento de los estatutos que las diferentes comunidades de propietarios hayan podido aprobar.
+
+La presente norma, en aplicación del reglamento europeo, además, supone una regulación fundamental para incrementar la seguridad jurídica y confianza en el marco de las relaciones civiles inter privados a la hora de suscribir contratos de arrendamiento. Este motivo, hace necesaria la incorporación al Registro de la Propiedad y, en su caso, al de Bienes Muebles, de la información relativa a los servicios de alquiler de alojamientos de corta duración, para que, de esa forma, todos los actores del mercado del alquiler puedan disponer de la información necesaria para la toma de sus decisiones.
+
+A través del procedimiento de registro se obtendrá un número de registro único que se asignará a cada inmueble o unidad parcial del mismo que se pretenda arrendar de manera separada, sin el cual no podrá llevarse a cabo su oferta en las plataformas en línea de alquiler de corta duración. Esto aportará seguridad a los propietarios de viviendas, a las plataformas en línea, así como a las personas arrendatarias, ya que se relacionarán en un mercado caracterizado por una información transparente y confiable. Además, a través de esta medida, se evitará que puedan ser ofertadas viviendas en unas condiciones contrarias a las dispuestas por la normativa de las diferentes administraciones territoriales, permitiendo a todas ellas llevar a cabo sus labores de inspección y control de forma más eficaz. Se facilitará la lucha contra la utilización de la figura de los arrendamientos de corta duración que no cumplan con la causalidad que exige la Ley 29/1994, de 24 de noviembre, así como contra las viviendas de uso turístico contrarias a las normas vigentes. Es previsible que gracias a esta regulación salgan del mercado viviendas actualmente ofertadas de manera irregular, lo que permitirá una mayor oferta de otras fórmulas de arrendamiento como son las de larga duración.
+
+En relación con la distribución competencial en España, cabe recordar que la competencia en materia de la regulación del Registro de la Propiedad, Mercantil y de Bienes Muebles es estatal, como reiteradamente ha señalado el Tribunal Constitucional (STS 118/2022, de 29 de septiembre; STS 37/2022, de 10 de marzo; y STS 151/2021, de 16 de septiembre), consagrada por el artículo 149.1.8.ª de la Constitución Española. Por otro lado, el artículo 149.1.1.ª atribuye al Estado la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales. Por su parte, el 149.1.13.ª señala que el Estado ostenta competencia exclusiva en las bases y coordinación de la planificación general de la actividad económica. Y, por último, el artículo 149.1.31.ª, que atribuye al Estado la competencia en materia de estadística oficial para fines estatales.
+
+En ejercicio de estas competencias se dicta el presente real decreto, que en ningún caso comprende regulaciones de carácter material sobre competencias de carácter autonómico, sino que se limita al establecimiento de disposiciones vinculadas a la labor del Registro de la Propiedad y del de Bienes Muebles y a la legislación hipotecaria, así como las vinculadas a la normativa de carácter civil asociada a la legislación de arrendamientos urbanos, todo ello competencias de carácter estatal.
+
+Este real decreto, permite la puesta en marcha en nuestro país del Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, especificando el procedimiento de registro único estatal para los servicios de alquiler de alojamientos de corta duración, y asegurando lo dispuesto en la norma europea, que prohíbe la coexistencia de procedimientos de registro duplicados para los servicios de alquiler de alojamientos de corta duración, sin afectar a aquellos procedimientos de autorización o licencia que en ejercicio de sus competencias materiales, fundamentalmente turísticas o de vivienda, puedan haber regulado otras administraciones.
+
+La presente norma se ajusta a los principios de buena regulación contenidos en el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia; conforme a los cuales deben actuar las Administraciones Públicas en el ejercicio de la iniciativa legislativa y la potestad reglamentaria. En concreto, los principios de necesidad y eficacia han quedado justificados en el resto de la parte expositiva, siendo necesario para la integración en nuestro país del Reglamento (UE) 2024/1028, del Parlamento Europeo y del Consejo, de 11 de abril de 2024, resultando además el instrumento más adecuado porque permite responder con flexibilidad y garantizar la consecución de los objetivos de la norma europea. El de proporcionalidad se cumple en tanto en cuanto la presente norma recoge la regulación imprescindible para alcanzar el fin descrito, imponiendo las cargas mínimas y simplificando los procedimientos, de tal manera que únicamente se apliquen aquellas derivadas de manera directa de la normativa europea. De acuerdo con el principio de seguridad jurídica, este real decreto es coherente con el resto del ordenamiento jurídico, nacional y de la Unión Europea. En cuanto al principio de transparencia, identifica claramente su propósito, y la memoria, accesible a la ciudadanía, ofrece una explicación completa de su contenido. Por último, se cumple el principio de eficiencia, ya que no implica la generación de costes adicionales no exigibles, ni establece estructuras o procedimientos duplicados.
+
+En su virtud, a propuesta de la Ministra de Vivienda y Agenda Urbana, con la aprobación previa del Ministro para la Transformación Digital y de la Función Pública, oído el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 23 de diciembre de 2024,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+El presente real decreto tiene por objeto la creación de la Ventanilla Única Digital de Arrendamientos y el desarrollo del procedimiento de registro único de arrendamientos, en aplicación del Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, sobre la recogida y el intercambio de datos relativos a los servicios de alquiler de alojamientos de corta duración y por el que se modifica el Reglamento (UE) 2018/1724, y resto de normativa nacional de aplicación.
+
+> Téngase en cuenta que se anula este artículo en cuanto hace referencia al desarrollo del procedimiento de registro único de arrendamientos, por las Sentencias del TS de 19 de mayo de 2026, [Ref. BOE-A-2026-12300](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12300), y de 1 de junio de 2026, [Ref. BOE-A-2026-15677](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15677), y en lo relativo a las menciones que se hacen al procedimiento de Registro Único de Arrendamientos y al número de registro, por la Sentencia del TS de 21 de mayo de 2026. [Ref. BOE-A-2026-13893](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13893)
+
+## Artículo 2. Definiciones.
+
+A efectos de este real decreto, y de acuerdo con el Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, y resto de normativa nacional aplicable, se entenderá por:
+
+a) Servicio de alquiler de alojamientos de corta duración: el arrendamiento por un período breve de una o varias unidades, con finalidad turística o no, a cambio de una remuneración, ya sea con carácter profesional o no profesional, de forma regular o no, siéndole aplicable la regulación del arrendamiento de temporada del artículo 3.2 de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, así como la que resulte de aplicación a los alquileres de embarcaciones sujetos al Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, la que resulte aplicable a los arrendamientos de carácter turístico y su régimen sancionador establecido por comunidades autónomas y entidades locales, así como, cuando proceda, la relativa a la protección y defensa de las personas consumidoras y usuarias.
+
+b) Unidad: un alojamiento amueblado, afecte o no a la totalidad de este cuando así esté previsto en la normativa aplicable, que es objeto de la prestación de un servicio de alquiler de alojamiento de corta duración. No comprenderá:
+
+1.º Hoteles y alojamientos similares, incluidos los complejos hoteleros, los apartahoteles y los moteles, tal como se describen en el grupo 55.1 de la NACE Rev. 2 («hoteles y alojamientos similares»), ni albergues, tal como se describen en el grupo 55.2 de la NACE Rev. 2 («alojamientos turísticos y otros alojamientos de corta estancia») que figura en el anexo I del Reglamento (CE) n.º 1893/2006 del Parlamento Europeo y del Consejo.
+
+2.º La oferta de alojamientos en campings y aparcamientos para caravanas, tal como se describen en el grupo 55.3 de la NACE Rev. 2 («hostales»), que figura en el anexo I del Reglamento (CE) n.º 1893/2006.
+
+c) Anfitrión o persona arrendadora: una persona física o jurídica que presta, o tiene la intención de prestar, un servicio de alquiler de alojamiento de corta duración a cambio de una remuneración a través de una plataforma en línea de alquiler de corta duración ya sea con carácter profesional o no profesional, de forma regular o no.
+
+d) Huésped o persona arrendataria: una persona física alojada en una unidad.
+
+e) Ventanilla Única Digital de Arrendamientos: pasarela digital única nacional para la transmisión electrónica de datos entre las plataformas en línea de alquiler de corta duración y las autoridades competentes, así como para informar sobre los diferentes usos, regulación y destinos de las unidades dedicadas a alquiler de corta duración en todo el territorio nacional, a través de la cual se articula en España el cumplimiento de las obligaciones de comunicación de datos recogidas en el Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024.
+
+f) **(Anulada)**
+
+g) Plataforma en línea de alquiler de corta duración: plataforma en línea en el sentido del artículo 3.i) del Reglamento (UE) 2022/2065 del Parlamento Europeo y del Consejo de 19 de octubre de 2022 relativo a un mercado único de servicios digitales y por el que se modifica la Directiva 2000/31/CE, que permite a los huéspedes celebrar contratos a distancia con anfitriones para la prestación de servicios de alquiler de alojamientos de corta duración.
+
+h) Plataforma pequeña y microplataforma en línea de alquiler de corta duración: plataforma en línea de alquiler de corta duración, conforme a la definición del párrafo anterior, que se considera una pequeña empresa o una microempresa en el sentido de la Recomendación 2003/361/CE de la Comisión, de 6 de mayo de 2003, sobre la definición de microempresas, pequeñas y medianas empresas.
+
+i) **(Anulada)**
+
+j) Autoridad competente: una autoridad nacional, regional o local de un Estado miembro que es competente para gestionar o hacer cumplir los procedimientos de registro o para recoger datos sobre los servicios de alquiler de alojamientos de corta duración, o es responsable de garantizar el cumplimiento de las normas aplicables de los Estados miembros relativas al acceso a los servicios de alquiler de alojamientos de corta duración y su prestación.
+
+> Téngase en cuenta que se anula esta letra j) en lo relativo a los procedimientos de registro, por las Sentencias del TS de 19 de mayo de 2026, [Ref. BOE-A-2026-12300](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12300), y de 1 de junio de 2026, [Ref. BOE-A-2026-1567](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-1567), y en lo relativo a las menciones que se hacen al procedimiento de Registro Único de Arrendamientos y al número de registro, por Sentencia del TS de 21 de mayo de 2026. [Ref. BOE-A-2026-13893](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13893)
+
+k) Anuncio: la referencia a una unidad ofrecida para servicios de alquiler de alojamientos de corta duración y publicada en el sitio web de una plataforma en línea de alquiler de corta duración.
+
+l) Datos de actividad: el número de noches por las que se alquila una unidad y el número de huéspedes a los que se alquila por noche la unidad junto con el país de residencia de cada huésped, de conformidad con el Reglamento (UE) n.º 692/2011 del Parlamento Europeo y del Consejo, de 6 de julio de 2011, relativo a las estadísticas europeas sobre el turismo y por el que se deroga la Directiva 95/57/CE del Consejo.
+
+> Se anulan las letras f), i) y j), esta última en lo relativo a los procedimientos de registro, por Sentencia del TS de 19 de mayo de 2026, [Ref. BOE-A-2026-12300](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12300)
+
+> En el mismo sentido se pronuncian:
+
+> Sentencia del TS de 21 de mayo de 2026, [Ref. BOE-A-2026-13893](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13893), respecto a las letras f) e i) y, en lo relativo a las menciones que se hacen al procedimiento de Registro Único de Arrendamientos y al número de registro, respecto a la letra j).
+
+> Sentencia del TS de 1 de junio de 2026, Ref. BOE-A-2026-15677.
+
+## Artículo 3. Ámbito de aplicación.
+
+1\. De acuerdo con el Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, el ámbito objetivo de este real decreto comprende tanto los servicios prestados por las plataformas en línea a anfitriones que prestan servicios de alquiler de alojamientos de corta duración en España, independientemente del lugar de establecimiento de dichas plataformas, como los servicios de alquiler de alojamientos que prestan los anfitriones a través de las plataformas. El ámbito geográfico de aplicación de esta norma será todo el territorio nacional.
+
+2\. No resultará de aplicación a los servicios de alquiler de alojamientos que no lleven asociada una remuneración. A estos efectos, por remuneración se entiende cualquier forma de compensación económica, independientemente de su valor o de la forma que adopte.
+
+## Artículo 4. Servicios de alquiler de alojamientos de corta duración.
+
+1\. De acuerdo con el Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, los servicios de alquiler de alojamientos de corta duración pueden recaer sobre la totalidad de una finca o parte de ella, siempre que de acuerdo con la normativa aplicable sea posible, también comprenderán el alojamiento en buques, embarcaciones o artefactos navales, siempre que aquel no esté vinculado a un servicio que posibilite o determine la navegación, en cuyo caso se regirá siempre por la legislación aplicable. En uno y otro caso, el elemento sobre el que recaen los servicios será la unidad, conforme ésta se define en la presente norma.
+
+2\. Los servicios de alquiler de alojamientos de corta duración tendrán las siguientes características de acuerdo con la Ley 29/1994, de 24 de noviembre, y el Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024:
+
+a) Que tengan como destino primordial uno distinto del de arrendamiento de vivienda regulado en el artículo 2 de la Ley 29/1994, de 24 de noviembre, derivándose de causas de carácter temporal, tales como las vacacionales o turísticas, las laborales, de estudios, de tratamiento médico o cualquier otra que no suponga una necesidad de vivienda de carácter permanente de la persona arrendataria, conforme al artículo 3 de la misma norma.
+
+b) Que cuenten con equipamiento, mobiliario y enseres adecuados para atender el uso de la unidad de carácter temporal de acuerdo con el Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024.
+
+## Artículo 5. Obligaciones de las personas arrendadoras.
+
+**(Anulado)**
+
+> Se anula por Sentencia del TS de 19 de mayo de 2026. [Ref. BOE-A-2026-12300](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12300)
+
+> En el mismo sentido se pronuncian:
+
+> Sentencia del TS de 21 de mayo de 2026, [Ref. BOE-A-2026-13893](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13893)
+
+> Sentencia del TS de 1 de junio de 2026, [Ref. BOE-A-2026-15677](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15677)
+
+## Artículo 6. Obligaciones de las plataformas en línea de alquiler de corta duración.
+
+Las plataformas en línea de alquiler de corta duración, de acuerdo con el Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, están obligadas a:
+
+a) Recoger funcionalidades en sus aplicaciones que permitan a las personas arrendadoras identificar las unidades ofrecidas mediante el número de registro que se les haya asignado por el Registro de la Propiedad o el de Bienes Muebles.
+
+b) Garantizar que las personas arrendadoras faciliten el número de registro que tengan asignado a sus unidades y que se muestre claramente como parte de sus anuncios antes de permitir la oferta de los servicios de alquiler de alojamiento de las unidades en sus plataformas.
+
+c) Realizar comprobaciones aleatorias y periódicas de las declaraciones de las personas arrendadoras, en su caso, a través de la consulta con la Ventanilla Única Digital de Arrendamientos de los datos del registro, a cuyos efectos se habilitará la posibilidad de que pueda realizarse la consulta de manera permanente y automática para cada anuncio que pretenda publicarse en la plataforma en línea.
+
+d) Informar sin demora indebida a la Ventanilla Única Digital de Arrendamientos y a las personas arrendadoras de los resultados de las comprobaciones aleatorias anteriores en los casos previstos por el Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024.
+
+e) Informar a las personas arrendadoras que se propongan utilizar sus servicios de la aplicación del procedimiento de registro único regulado en esta norma, en los casos previstos por el Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024.
+
+f) Recoger y transmitir mensualmente los datos de actividad por unidad, junto con el número de registro facilitado por las personas arrendadoras, la dirección específica de la unidad y las URL de los anuncios publicados en sus plataformas, a la Ventanilla Única Digital de Arrendamientos, por medios de comunicación de máquina a máquina.
+
+En el caso de las plataformas definidas en el artículo 2.h), recogidas en el artículo 9.2 del Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, los datos de actividad por unidad, junto con el número de registro facilitado por las personas arrendadoras, la dirección específica de la unidad y las URL de los anuncios publicados en sus plataformas, se transmitirán al final de cada trimestre, por medios de comunicación de máquina a máquina o manualmente.
+
+Esta transmisión se presentará en los plazos y de acuerdo con el modelo que sea aprobado por orden ministerial de la persona titular del Ministerio de Vivienda y Agenda Urbana.
+
+g) Dar cumplimiento en un plazo de cuarenta y ocho horas desde la notificación a las resoluciones administrativas por las que se ordene la eliminación o inhabilitación del acceso a anuncios vinculados a un número de registro suspendido o retirado.
+
+> Téngase en cuenta que se anula este artículo en lo relativo al procedimiento de registro único, por las Sentencias del TS de 19 de mayo de 2026, [Ref. BOE-A-2026-12300](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12300), y de 1 de junio de 2026, [Ref. BOE-A-2026-15677](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15677), y en lo relativo a las menciones que se hacen al procedimiento de Registro Único de Arrendamientos y al número de registro, por la Sentencia del TS de 21 de mayo de 2026. [Ref. BOE-A-2026-13893](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13893)
+
+## Artículo 7. Ventanilla Única Digital de Arrendamientos.
+
+1\. Para el cumplimiento de las obligaciones prescritas en el Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, se crea la Ventanilla Única Digital de Arrendamientos de España, como pasarela digital única nacional para la transmisión electrónica de datos entre las plataformas en línea de alquiler de corta duración y para el resto de funciones que la normativa establece.
+
+A efectos del Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, la Ventanilla Única Digital de Arrendamientos será dependiente del Ministerio de Vivienda y Agenda Urbana a través de la Dirección General de Planificación y Evaluación, que será el órgano competente para dictar las resoluciones administrativas por las que se ordene la eliminación o inhabilitación del acceso a anuncios vinculados a unidades ofrecidas sin número de registro o con un número de registro no válido, o en casos de uso indebido de un número de registro, así como todos aquellos vinculados al ejercicio de potestades administrativas atribuidas al Ministerio de Vivienda y Agenda Urbana en relación con esta norma.
+
+A través de la Ventanilla Única Digital de Arrendamientos se llevará a cabo la recepción y transmisión de los datos por parte de las plataformas, de acuerdo con el artículo 6. A estos efectos, las plataformas sujetas al Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, comunicarán a la Ventanilla Única Digital de Arrendamientos los datos necesarios para permitir la notificación de las comunicaciones y resoluciones que emitan órdenes reguladas en esta norma y en el resto de normativa aplicable.
+
+2\. La Ventanilla Única Digital de Arrendamientos:
+
+a) Permitirá la transmisión máquina a máquina y manual de los datos de actividad por unidad, junto con el número de registro facilitado por las personas arrendadoras, la dirección específica de la unidad y las URL de los anuncios publicados en las plataformas en línea de alquiler de corta duración.
+
+b) Facilitará a las plataformas en línea de alquiler de corta duración llevar a cabo las comprobaciones aleatorias del artículo 6.c).
+
+c) Recogerá una funcionalidad que permita consultar el número de registro asignado a las unidades de las personas arrendadoras y la dirección o ubicación específica de la unidad.
+
+d) Recogerá una funcionalidad que permita consultar los datos de actividad por unidad y las URL de los anuncios publicados por las personas arrendadoras en las plataformas, mediante su interconexión con las plataformas en línea, únicamente en los casos previstos por el Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024.
+
+e) Incluirá una base de datos en línea de libre acceso y legible por máquina para las comprobaciones del artículo 6.c).
+
+f) Garantizará que su información sea reutilizable.
+
+g) Garantizará la confidencialidad, integridad y seguridad en el tratamiento de los datos de acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE, y con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales. Para sus fines, garantizará el tratamiento automático, intermedio y transitorio de los datos personales.
+
+h) Proporcionará una interfaz técnica para que las autoridades competentes a que se refiere el artículo 12 del Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, reciban los datos de actividad, el número de registro pertinente, la dirección específica de la unidad y las URL de los anuncios, transmitidos por las plataformas en línea de alquiler de corta duración únicamente con los fines enumerados en el apartado 2 de ese mismo artículo, relativos a las unidades situadas en su territorio.
+
+i) Facilitará la información a que se refiere el artículo 13 del Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024.
+
+## Artículo 8. Registro único de arrendamientos.
+
+**(Anulado)**
+
+> Se anula por Sentencia del TS de 19 de mayo de 2026. [Ref. BOE-A-2026-12300](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12300)
+
+> En el mismo sentido se pronuncian:
+
+> Sentencia del TS de 21 de mayo de 2026. [Ref. BOE-A-2026-13893](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13893)
+
+> Sentencia del TS de 1 de junio de 2026. [Ref. BOE-A-2026-15677](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15677)
+
+## Artículo 9. Procedimiento de inscripción y solicitud de número de registro.
+
+**(Anulado)**
+
+> Se anula por Sentencia del TS de 19 de mayo de 2026. [Ref. BOE-A-2026-12300](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12300)
+
+> En el mismo sentido se pronuncian:
+
+> Sentencia del TS de 21 de mayo de 2026. [Ref. BOE-A-2026-13893](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13893)
+
+> Sentencia del TS de 1 de junio de 2026. [Ref. BOE-A-2026-15677](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15677)
+
+## Artículo 10. Verificación del número de registro.
+
+**(Anulado)**
+
+> Se anula por Sentencia del TS de 19 de mayo de 2026. [Ref. BOE-A-2026-12300](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12300)
+
+> En el mismo sentido se pronuncian:
+
+> Sentencia del TS de 21 de mayo de 2026. [Ref. BOE-A-2026-13893](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13893)
+
+> Sentencia del TS de 1 de junio de 2026. [Ref. BOE-A-2026-15677](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15677)
+
+## Artículo 11. Estadística oficial.
+
+Mensualmente, la Ventanilla Única Digital de Arrendamientos, con las debidas garantías en materia de protección de datos, transmitirá al Instituto Nacional de Estadística, a los institutos de estadística autonómicos en su caso, y a Eurostat, datos relativos a cada unidad y, en particular, los referidos a actividad y números de registro obtenidos, el municipio donde está situada la unidad, y el número máximo de personas arrendatarias que se pueden alojar en esta.
+
+Asimismo, el Instituto Nacional de Estadística y, en su caso, los institutos de estadística autonómicos podrán suscribir o ampliar sus convenios o instrumentos de colaboración con el Registro de la Propiedad y el de Bienes Muebles, para facilitar la realización de estadísticas sujetas a una norma de Derecho de la Unión Europea o que se encuentren incluidas en los instrumentos de programación estadística legalmente previstos.
+
+## Artículo 12. Autoridades competentes.
+
+A los efectos del Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, serán autoridades competentes en España las siguientes:
+
+a) En relación con la Ventanilla Única Digital de Arrendamientos, el Ministerio de Vivienda y Agenda Urbana.
+
+b) **(Anulada)**
+
+c) **(Anulada)**
+
+d) En relación con la normativa sectorial y material aplicable a los arrendamientos turísticos que puedan constituirse, la administración autonómica o local que resulte competente en cada caso de acuerdo con la Constitución Española.
+
+> Se anulan las letras b) y c) por Sentencia del TS de 19 de mayo de 2026. [Ref. BOE-A-2026-12300](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12300)
+
+> En el mismo sentido se pronuncian:
+
+> Sentencia del TS de 21 de mayo de 2026, [Ref. BOE-A-2026-13893](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13893), respecto a la letra b).
+
+> Sentencia del TS de 1 de junio de 2026, [Ref. BOE-A-2026-15677](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15677)
+
+## Disposición adicional primera. Comunicación de datos.
+
+Las altas, suspensiones y bajas de los números de registro se notificarán de forma telemática por la Ventanilla Única Digital a las comunidades autónomas y ayuntamientos, para que puedan ejercer las funciones de inspección y control establecidas en sus respectivas normativas. Además, las comunidades autónomas y ayuntamientos podrán establecer mecanismos máquina a máquina de consulta y conexión con la Ventanilla Única Digital de acuerdo con el Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024.
+
+## Disposición adicional segunda. Número de registro voluntario para los arrendamientos del artículo 2 de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos.
+
+**(Anulada)**
+
+> Se anula por Sentencia del TS de 19 de mayo de 2026, [Ref. BOE-A-2026-12300](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12300)
+
+> En el mismo sentido se pronuncia la Sentencia del TS de 1 de junio de 2026, [Ref. BOE-A-2026-15677](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15677)
+
+## Disposición adicional tercera. Colaboración entre las comunidades autónomas y ayuntamientos y el Colegio de Registradores de la Propiedad y Mercantiles de España.
+
+Las comunidades autónomas y ayuntamientos que lo deseen, podrán suscribir con el Colegio de Registradores de la Propiedad y Mercantiles de España convenios de colaboración para facilitar el cumplimiento del presente real decreto, especialmente en lo relativo a la comprobación, aportación y recepción de documentación que pueda obrar en su poder a partir del ejercicio de sus competencias, y con la finalidad de reducir cargas administrativas para la ciudadanía, así como para garantizar la interoperabilidad del procedimiento de registro regulado en esta norma y aquellos procedimientos de registro que, en ejercicio de sus propias competencias, hayan regulado otras administraciones.
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo previsto en el artículo 149.1 de la Constitución Española, numerales 8.ª, que atribuye al Estado la competencia exclusiva en materia de legislación civil y de ordenación de los registros e instrumentos públicos, 1.ª, que atribuye al Estado la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales, 13.ª, que atribuye al Estado la competencia sobre bases y coordinación de la planificación general de la actividad económica, y 31.ª, que atribuye al Estado la competencia en materia de estadística oficial para fines estatales.
+
+> Téngase en cuenta que se anula esta disposición en relación con los títulos que amparan la competencia para regular el procedimiento de registro único, por Sentencia del TS de 19 de mayo de 2026, [Ref. BOE-A-2026-12300](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12300). En el mismo sentido se pronuncia la Sentencia del TS de 1 de junio de 2026, [Ref. BOE-A-2026-15677](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15677)
+
+## Disposición final segunda. Aplicación de derecho de la Unión Europea.
+
+Mediante el presente real decreto se articula la aplicación del Reglamento (UE) 2024/1028 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, sobre la recogida y el intercambio de datos relativos a los servicios de alquiler de alojamientos de corta duración y por el que se modifica el Reglamento (UE) 2018/1724.
+
+## Disposición final tercera. Habilitación normativa.
+
+Se habilita a la persona titular del Ministerio de Vivienda y Agenda Urbana para adoptar las disposiciones necesarias para el desarrollo y ejecución de este real decreto.
+
+## Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día 2 de enero de 2025, desplegando efectos sus disposiciones el 1 de julio de 2025, para otorgar un plazo suficiente para realizar las adaptaciones de carácter tecnológico y funcional necesarias por parte de todos los actores implicados en el cumplimiento de la norma. Hasta la aprobación de un régimen sancionador para las infracciones que se regulen derivadas de la presente norma, resultarán de aplicación los regímenes sancionadores y obligaciones contemplados en la normativa estatal, autonómica y local.
+
+Dado en Madrid, el 23 de diciembre de 2024.
+
+FELIPE R.
+
+La Ministra de Vivienda y Agenda Urbana,
+
+ISABEL RODRÍGUEZ GARCÍA

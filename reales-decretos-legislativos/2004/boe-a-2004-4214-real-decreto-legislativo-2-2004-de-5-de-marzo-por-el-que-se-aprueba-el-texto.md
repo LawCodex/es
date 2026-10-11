@@ -1246,14 +1246,6 @@ En caso de que la actualización de valores catastrales por aplicación de los c
 
 No obstante, tratándose de bienes inmuebles de características especiales el componente individual de la reducción será, en cada año, la diferencia positiva entre el nuevo valor catastral que corresponda al inmueble en el primer ejercicio de su vigencia y el doble del valor a que se refiere el artículo 67.2 que, a estos efectos, se tomará como valor base.
 
-> Esta última actualización del apartado 4 surte efectos desde el 1 de enero de 2014 según establece el art. 7.2.1 de la Ley 16/2013, de 29 de octubre. [Ref. BOE-A-2013-11331](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11331).
-
-> Redacción hasta 31 de diciembre de 2013:
-
-> 4\. El componente individual de la reducción será, en cada año, la diferencia positiva entre el nuevo valor catastral que corresponda al inmueble en el primer ejercicio de su vigencia y su valor base. Dicha diferencia se dividirá por el último coeficiente reductor aplicado cuando concurran los supuestos del artículo 67, apartado 1.b).2.º y b).3.º de esta ley.
-
-> No obstante, tratándose de bienes inmuebles de características especiales el componente individual de la reducción será, en cada año, la diferencia positiva entre el nuevo valor catastral que corresponda al inmueble en el primer ejercicio de su vigencia y el doble del valor a que se refiere el artículo 67.2 que, a estos efectos, se tomará como valor base.
-
 > Se modifica el apartado 4, con efectos desde el 1 de enero de 2014, por el art. 7.2.1 de la Ley 16/2013, de 29 de octubre. [Ref. BOE-A-2013-11331](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11331).
 
 > Se añade el último párrafo al apartado 4 por la disposición adicional 7.3 de la Ley 16/2007, de 4 de julio. [Ref. BOE-A-2007-13023](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13023).
@@ -1273,20 +1265,6 @@ En los procedimientos de valoración colectiva de carácter general, una vez apr
 Asimismo, este valor base se utilizará para aquellos inmuebles que deban ser nuevamente valorados como bienes de clase diferente de la que tenían.
 
 c) Cuando la actualización de valores catastrales por aplicación de los coeficientes establecidos en las leyes de presupuestos generales del Estado determine un decremento de la base imponible de los inmuebles, el valor base será la base liquidable del ejercicio inmediatamente anterior a dicha actualización.
-
-> Esta última actualización del artículo surte efectos desde el 1 de enero de 2014 según establece el art. 7.2.1 de la Ley 16/2013, de 29 de octubre. [Ref. BOE-A-2013-11331](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11331).
-
-> Redacción hasta el 31 de diciembre de 2013:
-
-> El valor base será la base liquidable del ejercicio inmediato anterior a la entrada en vigor del nuevo valor catastral, salvo cuando concurran las siguientes circunstancias:
-
-> a) Para aquellos inmuebles en los que, habiéndose producido alteraciones susceptibles de inscripción catastral previamente a la modificación del planeamiento o al 1 de enero del año anterior a la entrada en vigor de los valores catastrales resultantes de las ponencias de valores a las que se refiere el artículo 67, aún no se haya modificado su valor catastral en el momento de la aprobación de estas, el valor base será el importe de la base liquidable que de acuerdo a dichas alteraciones corresponda al ejercicio inmediato anterior a la entrada en vigor de los nuevos valores catastrales por la aplicación a los mencionados bienes de la ponencia de valores anterior a la última aprobada.
-
-> b) Para los inmuebles a los que se refiere el artículo 67, en su apartado 1.b).4.o, el valor base será el resultado de multiplicar el nuevo valor catastral por un cociente, determinado por la Dirección General del Catastro que, calculado con sus dos primeros decimales, se obtiene de dividir el valor catastral medio de todos los inmuebles de la misma clase del municipio incluidos en el último padrón entre la media de los valores catastrales resultantes de la aplicación de la nueva ponencia de valores.
-
-> En los procedimientos de valoración colectiva de carácter general, una vez aprobada la correspondiente ponencia de valores, la Dirección General del Catastro hará públicos el valor catastral medio de todos los inmuebles de la clase de que se trate incluidos en el último padrón del municipio y el valor catastral medio resultante de la aplicación de la nueva ponencia, antes de inicio de las notificaciones de los valores catastrales. Los anuncios de exposición pública de estos valores medios se publicarán por edictos en el boletín oficial de la provincia, indicándose el lugar y plazo, que no será inferior a 15 días.
-
-> Asimismo, este valor base se utilizará para aquellos inmuebles que deban ser nuevamente valorados como bienes de clase diferente de la que tenían.
 
 > Se modifica, con efectos desde el 1 de enero de 2014, por el art. 7.2.2 de la Ley 16/2013, de 29 de octubre. [Ref. BOE-A-2013-11331](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11331).
 
@@ -3879,8 +3857,6 @@ Anualmente, junto con la liquidación del presupuesto, se dará cuenta al pleno 
 ###### Disposición adicional decimoséptima. Obtención de información a efectos de la liquidación y recaudación de las tasas por el mantenimiento del servicio de prevención y extinción de incendios y de las contribuciones especiales por el establecimiento o ampliación de los servicios de extinción de incendios.
 
 Las entidades locales recabarán de las entidades aseguradoras la información necesaria para la liquidación y recaudación de las tasas por la prestación del servicio de prevención y extinción de incendios y de las contribuciones especiales por el establecimiento o ampliación de los servicios de extinción de incendios, conforme al procedimiento que se establece en la disposición adicional decimocuarta de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de entidades aseguradoras y reaseguradoras.
-
-> Téngase en cuenta que esta disposición adicional, añadida por la disposición final 6 de la Ley 20/2015, de 14 de julio [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897)., entra en vigor el 1 de enero de 2016, según establece su disposición final 21.1.
 
 > Se añade por la disposición final 6 de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897)
 

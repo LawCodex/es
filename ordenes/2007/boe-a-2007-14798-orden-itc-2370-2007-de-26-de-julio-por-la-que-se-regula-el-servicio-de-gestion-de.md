@@ -1,0 +1,762 @@
+---
+title: "Orden ITC/2370/2007, de 26 de julio, por la que se regula el servicio de gestión de la demanda de interrumpibilidad para los consumidores que adquieren su energía en el mercado de producción"
+identifier: "BOE-A-2007-14798"
+eli: "https://www.boe.es/eli/es/o/2007/07/26/itc2370"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2007-07-26
+published: 2007-08-03
+in_force_from: 2007-08-04
+last_amended: 2022-12-30
+consolidated: 2026-07-27
+gazette: "Boletín Oficial del Estado núm. 185"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-14798"
+retrieved: 2026-10-11
+---
+
+# Orden ITC/2370/2007, de 26 de julio, por la que se regula el servicio de gestión de la demanda de interrumpibilidad para los consumidores que adquieren su energía en el mercado de producción
+
+Téngase en cuenta que las referencias a los periodos tarifarios 1 a 6 definidos en el apartado 3.3 del anexo II de la Orden ITC/2794/2007, de 27 de septiembre, por la que se revisan las tarifas eléctricas a partir del 1 de octubre de 2007, contenidas en la presente Orden, se modifican por referencias a los periodos horarios 1 a 6 definidos en el artículo 7 de la Circular 3/2020, de 15 de enero, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología para el cálculo de los peajes de transporte y distribución de electricidad, según establece la disposición final primera.1 de la Orden TED/371/2021, de 19 de abril. [Ref. BOE-A-2021-6390](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6390)
+
+Incluye la corrección de errores publicada en BOE núm. 237, de 3 de octubre de 2007. [Ref. BOE-A-2007-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17279).
+
+La Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, regula el régimen jurídico de las actividades destinadas al suministro de energía eléctrica, consistentes en la generación, el transporte, la distribución, la comercialización y los intercambios intracomunitarios e internacionales, así como la gestión económica y técnica del sistema eléctrico, de acuerdo con las previsiones contenidas en la Directiva 96/92/CE, del Parlamento Europeo y del Consejo, de 19 de diciembre, sobre normas comunes para el mercado interior de electricidad.
+
+La Directiva 2003/54/CE del Parlamento Europeo y del Consejo, de 26 de junio de 2003, estableció nuevas normas comunes para completar el Mercado Interior de la electricidad y derogó la Directiva 96/92/CE, introduciendo modificaciones significativas.
+
+Entre ellas, uno de los aspectos más destacados es que el suministro pasa a ser ejercido en su totalidad por los comercializadores en libre competencia, y son los consumidores de electricidad quienes eligen libremente a su suministrador. Se sustituye el suministro a tarifa, por razones de servicio público y protección al cliente, por el establecimiento de un sistema de tarifas de último recurso para determinados consumidores, para quienes se concibe el suministro eléctrico como servicio universal. Esta actividad se realizará por las empresas comercializadoras a las que se imponga tal obligación.
+
+Hasta ahora, determinados consumidores venían ofreciendo servicios de gestión de la demanda al sistema eléctrico, como el de interrumpibilidad, reactiva o modulación de carga, que eran retribuidos a través de la tarifa eléctrica.
+
+La necesidad de garantizar el suministro de electricidad a los consumidores, obliga a disponer de herramientas que flexibilicen la operación del sistema y que permitan dar respuestas rápidas y eficientes ante eventuales situaciones de emergencia, de forma que se minimice el impacto en la seguridad del sistema. La posibilidad de reducir la potencia demandada de aquellos consumidores que estén dispuestos a ello, se presenta como una valiosa herramienta para resolver aquellos incidentes que puedan derivar en una falta de suministro.
+
+La posibilidad de reducir la potencia demandada de energía eléctrica a cambio de una compensación económica no es nueva ya que está contemplada en nuestra regulación, si bien era una opción que sólo se ofrecía a los consumidores que se encontraban acogidos a las tarifas generales de alta tensión, a la tarifa horaria de potencia y a los grandes consumidores sujetos a la tarifa G.4., que cumplían determinadas condiciones. La necesidad de adaptar nuestra regulación a la de la Unión Europea y de no dar un tratamiento discriminatorio a los consumidores en función del procedimiento de adquisición de la energía, hacen necesario posibilitar la participación en el mecanismo de reducción de potencia a los consumidores que adquieren su energía en el Mercado de Producción.
+
+Dada la importancia de este servicio para la garantía de suministro y en línea con el nuevo modelo que establece la Directiva 2003/54/CE, se hace necesario regularlo en el mercado para los consumidores que adquieren su energía libremente.
+
+Por ello, el Real Decreto 1634/2006, de 29 de diciembre, por el que se establece la tarifa eléctrica a partir de 1 de enero de 2007, en su disposición transitoria sexta, fija las bases para regular este servicio que será gestionado por el Operador del Sistema, habilitando al Ministerio de Industria, Turismo y Comercio para desarrollar sus condiciones y los requisitos para la participación en el mismo de los consumidores en el mercado, así como su régimen retributivo.
+
+En su virtud, dispongo:
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 237, de 3 de octubre de 2007. [Ref. BOE-A-2007-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17279).
+
+## CAPÍTULO I — Generalidades
+
+### Artículo 1. Objeto.
+
+Esta orden tiene por objeto regular las condiciones del servicio de gestión de la demanda de interrumpibilidad ofrecido por los consumidores que adquieren su energía en el mercado de producción, los requisitos para participar como proveedor del mismo, así como su régimen retributivo.
+
+### Artículo 2. Ámbito de aplicación.
+
+La presente orden será de aplicación a los consumidores de energía eléctrica conectados en alta tensión que contraten su energía en el mercado de producción, bien directamente, bien a través de comercializador o mediante un contrato bilateral.
+
+## CAPÍTULO II — Servicio de interrumpibilidad
+
+### Artículo 3. Definición del servicio de interrumpibilidad.
+
+1\. El servicio de interrumpibilidad de un consumidor que sea proveedor de este servicio consiste en reducir la potencia activa demandada hasta el valor de la potencia residual requerida, en respuesta a una orden de reducción de potencia dada por el Operador del Sistema en los términos establecidos en la presente orden y en el contrato que se formalice entre éste y aquél.
+
+2\. El servicio de interrumpibilidad será gestionado por el Operador del Sistema.
+
+### Artículo 4. Tipos de reducción de potencia y condiciones de aplicación de las órdenes de reducción de potencia.
+
+1\. Los tipos de reducción de potencia, el preaviso mínimo con el que debe solicitarse cada tipo y la duración total máxima de cada uno de ellos, serán los siguientes:
+
+| Tipo | Preaviso<br>mínimo | Duración total<br>máxima |
+|---|---|---|
+| 1 | 2 horas | 12 horas |
+| 2 | 2 horas | 8 horas |
+| 3 | 1 hora | 3 horas |
+| 4 | 5 min. | 2 horas |
+| 5 | 0 min. | 1 hora |
+
+Donde:
+
+Tipo: denominación de la modalidad de reducción de potencia que pueden ofrecer los consumidores proveedores del servicio.
+
+Preaviso mínimo: es el tiempo mínimo necesario entre el instante de emisión de la orden de reducción de potencia y el de inicio de su primer período de aplicación
+
+Duración total máxima: es la suma de la duración máxima de todos los períodos que componen la orden de reducción de potencia.
+
+2\. La orden de reducción de potencia puede constar de uno o varios períodos de duración mínima de una hora y no necesariamente consecutivos. En caso de que no sean consecutivos, deberá existir al menos una hora de intervalo entre ellos.
+
+3\. Cada tipo de reducción de potencia se caracterizará por el número máximo de períodos por orden, duración máxima de cada período y máximo valor de potencia residual a consumir en cada uno de ellos. Para cada tipo, los parámetros anteriores tomaran los siguientes valores:
+
+| Tipo | Número máximo<br>de períodos<br>por orden | Duración máxima<br>por período | Máximo valor de potencia residual<br>a consumir en cada período |
+|---|---|---|---|
+| 1 | 3 | 4 horas | P<sub>máx.1</sub> en dos períodos<br>P<sub>50%</sub> en un período |
+| 2 | 2 | 4 horas | P<sub>máx. 2</sub> |
+| 3 | 1 | 3 horas | P<sub>máx. 3</sub> |
+| 4 | 1 | 2 horas | P<sub>máx. 4</sub> |
+| 5 | 1 | 1 hora | P<sub>máx. 5</sub> |
+
+Donde:
+
+i) P<sub>máx. i </sub>(Potencia residual máxima): Valor de potencia máxima a consumir por el proveedor del servicio para el tipo de reducción de potencia »i», en los períodos en que se solicite la máxima reducción de potencia.
+
+ii) Pf (Potencia de consumo): Valor verificable de potencia a consumir de forma continuada por el proveedor del servicio, en los períodos tarifarios 1 a 6 que se definen en el apartado 3.3 del anexo II de la Orden ITC/2794/2007, de 27 septiembre, por la que se revisan las tarifas eléctricas a partir del 1 de octubre de 2007. El valor de la potencia de consumo para cada período se reflejará en el informe de idoneidad que debe ser emitido de acuerdo con lo establecido en el artículo 10. Estos valores serán revisados teniendo en cuenta el perfil de consumo previsto para el año en curso que deberán comunicarse a estos efectos al operador del sistema por los proveedores del servicio con anterioridad al inicio de cada temporada eléctrica, sin perjuicio de su revisión posterior.
+
+iii) P<sub>50%</sub> (Potencia residual 50%): Se calcula como:
+
+P<sub>50%</sub> = P<sub>máx. i</sub> + 0,5 * (Pf − P<sub>máx. i</sub>)
+
+4\. El tiempo transcurrido entre el instante de inicio del primer período y el instante final del último período de una orden no será, en ningún caso, superior a la duración total máxima definida para el tipo de dicha orden.
+
+5\. El número máximo de horas de aplicación a cada consumidor que preste este servicio para el conjunto de órdenes tipo 1 y 2 será de 120 horas por año. Para el conjunto de órdenes tipo 3, 4 y 5 la duración será como máximo de 120 horas por año. Las horas de aplicación de cada tipo de orden se calcularán como suma de la duración de todos los períodos en que se solicite reducción de potencia. Para cada consumidor que preste este servicio el número máximo de órdenes de reducción de potencia, cualquiera que sea el tipo, será de cinco semanales y una diaria.
+
+A efectos del cómputo anterior, no se tendrán en consideración aquellas órdenes de reducción de potencia que el Operador del Sistema anule con anterioridad a que se inicie el período de preaviso mínimo
+
+6\. Se podrán contratar los tipos de reducción de potencia de acuerdo con las siguientes modalidades:
+
+a) Modalidad a: sólo se contratan los tipos 3, 4 y 5.
+
+b) Modalidad b: se contratan los cinco tipos definidos con carácter general.
+
+> Se modifica el apartado 3 por la disposición final 1.1 de la Orden ITC/1732/2010, de 28 de junio. [Ref. BOE-A-2010-10390](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10390).
+
+### Artículo 5. Aplicación del servicio de interrumpibilidad.
+
+1\. El Operador del Sistema gestionará el servicio de interrumpibilidad atendiendo a las necesidades que surjan en la operación del sistema eléctrico. Adicionalmente, y sin perjuicio de la aplicación por dichas necesidades, podrá aplicar órdenes de reducción de potencia tipo 1 y 2 cuando la relación entre la previsión de potencia disponible en el sistema y la previsión de potencia demandada correspondiente sea inferior a 1,10.
+
+2\. Para la aplicación de este servicio, el Operador del Sistema enviará, a través del sistema establecido para este fin, una orden de reducción de potencia a los proveedores de este servicio y éstos, en respuesta a dicha orden, reducirán su potencia demandada hasta los valores de potencia residual requeridos en la misma orden.
+
+3\. Los gestores de las redes de distribución podrán solicitar del Operador del Sistema la emisión de una orden de reducción de potencia en las áreas de distribución de su competencia cuando las circunstancias de operación así lo exijan.
+
+El Operador del Sistema analizará la solicitud y, en su caso, determinará la orden de reducción de potencia que se adapte a las necesidades planteadas por el gestor de la red de distribución y procederá en consecuencia, informando debidamente a dicho gestor. A estos efectos, se establecerá un procedimiento de operación
+
+4\. La orden de reducción de potencia demandada que emita el Operador del Sistema, contendrá la siguiente información:
+
+a) El tipo de reducción.
+
+b) El número de períodos de reducción en que se divide. Para cada uno de ellos se especificará:
+
+i) El instante de inicio del período de reducción.
+
+ii) El instante de finalización del período de reducción.
+
+iii) La potencia residual
+
+5\. Tanto la verificación de disponibilidad de la potencia a reducir como la comunicación de órdenes de reducción de potencia y el seguimiento de su cumplimiento, se efectuarán mediante un sistema informático de comunicaciones, ejecución y control de la interrumpibilidad.
+
+La Dirección General de Política Energética y Minas determinará las especificaciones técnicas y funcionales de este sistema de comunicación, ejecución y control.
+
+### Artículo 6. Retribución del servicio de interrumpibilidad.
+
+1\. El servicio prestado por el consumidor se retribuirá de acuerdo con la siguiente fórmula:
+
+RSI= DI x FE
+
+Donde:
+
+– RSI: Retribución anual del servicio de interrumpibilidad expresada en euros, con el límite máximo para cada proveedor del servicio de 20 euros por MWh consumido.
+
+– FE: Importe correspondiente a la facturación anual equivalente de la energía, expresada en euros, que se calculará de acuerdo con la siguiente fórmula:
+
+![Imagen: /datos/imagenes/disp/2022/313/23752_12596551_8.png](https://www.boe.es/datos/imagenes/disp/2022/313/23752_12596551_8.png)
+
+Donde:
+
+Peh es el precio medio de la energía expresado en euros por MWh con dos decimales correspondiente al trimestre h. Este precio se publicará para cada trimestre por la Dirección General de Política Energética y Minas utilizando como referencias los precios resultantes del mercado diario y los precios del mercado a plazo de OMIP.
+
+Ej es la energía trimestral consumida en barras de central, expresada en MWh, en cada período tarifario j de los que se definen en el artículo 7 de la Circular 3/2020, de 15 de enero, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología para el cálculo de los peajes de transporte y distribución de electricidad.
+
+αj, coeficiente de modulación de carga, que tomará los siguientes valores en cada período tarifario j.
+
+| Período tarifario | 1 | 2 | 3 | 4 | 5 | 6 |
+|---|---|---|---|---|---|---|
+| j | 0,046 | 0,096 | 0,09 | 0,176 | 0,244 | 1,390 |
+
+La Dirección General de Política Energética y Minas podrá modificar los valores en función de la evolución del sistema eléctrico, así como establecer diferentes categorías para los mismos en función de la modulación de carga que el proveedor del servicio preste al sistema.
+
+– DI: Descuento anual en porcentaje. Se calculará con dos cifras decimales y el redondeo se hará, por defecto o por exceso, según que la tercera cifra decimal despreciada sea o no menor que 5. Se calculará de acuerdo con lo siguiente, sin perjuicio de lo dispuesto en el apartado 2 del presente artículo:
+
+![Imagen: /datos/imagenes/disp/2022/313/23752_12596551_9.png](https://www.boe.es/datos/imagenes/disp/2022/313/23752_12596551_9.png)
+
+Donde las variables tienen el siguiente significado:
+
+H = Horas anuales de utilización equivalente expresadas en números enteros, con un redondeo igual al anterior, que se calculará como el cociente entre el consumo total anual expresado en kWh y la potencia Pm1 que se define más adelante, expresada en kW. Si el valor del cociente fuera inferior a 2.100, DI será igual a 0. Si el valor del cociente fuera superior a 14.000 horas, H tomará el valor de 14.000.
+
+S = Coeficiente de coincidencia. Tendrá los siguientes valores, según el número de tipos de reducción de potencia que hayan sido contratados por el proveedor del servicio.
+
+| N.º tipos | S |
+|---|---|
+| 3 | 0,85 |
+| 5 | 0,65 |
+
+Ki = Constante, que tendrá un valor para cada tipo i de orden de reducción de potencia que haya sido contratada por el proveedor del servicio.
+
+| Tipo | K |
+|---|---|
+| 1 | 25 |
+| 2 | 25 |
+| 3 | 14 |
+| 4 | 16 |
+| 5 | 20 |
+
+Pm1 = Potencia media consumida por el proveedor de este servicio en el período tarifario 1 definido en el artículo 7 de la Circular 3/2020, de 15 de enero, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología para el cálculo de los peajes de transporte y distribución de electricidad. Su valor se calculará como cociente entre la energía consumida en el período tarifario 1 definido anteriormente y las horas de dicho período descontando, en su caso, las horas correspondientes a órdenes de reducción de potencia aplicadas durante el mismo.
+
+Pmáx. i = Potencia residual máxima demandable por el consumidor durante la posible interrupción en cada uno de los tipos i a los que esté acogido.
+
+∑Ki (Pm1 – Pmáx. i) = suma de los productos Ki (Pm1 – Pmáx. i) para cada uno de los tipos i de reducción de potencia contratados. Si el valor de (Pm1 – Pmáx. i) fuera negativo, se tomará igual a 0.
+
+Todos los valores de potencia se expresarán en kW.
+
+2\. El descuento anual en porcentaje, DI, se calculará de acuerdo a lo dispuesto en el presente apartado en el caso de consumidores que cumplan los siguientes requisitos:
+
+– Ofrezcan un valor mínimo de potencia interrumpible en todos los periodos tarifarios, 1 a 6, no inferior a 90.000 kW para el tipo 5. A estos efectos se considera cumplida esta condición en un periodo tarifario y para un determinado tipo de reducción de potencia si se acredita la siguiente condición:
+
+(E<sub>j</sub>/h<sub>j</sub>-P<sub>max,i</sub>) ≥ 90.000 kW
+
+Donde la definición de E<sub>j</sub>, h<sub>j</sub> y P<sub>max,i</sub> son las indicadas en el Artículo 9.
+
+– Tengan unos valores de potencia media consumida en todos los periodos tarifarios definidos en el apartado 3.3 del anexo II de la Orden ITC/2794/2007, de 27 septiembre, por la que se revisan las tarifas eléctricas a partir del 1 de octubre de 2007, superior a 100.000 kW y dentro del rango definido por una variación máxima del diez por ciento de la mayor de todas ellas.
+
+El valor de la potencia media consumida se calculará como cociente entre la energía consumida en cada uno de los períodos tarifarios definidos anteriormente y las horas de dicho período.
+
+– Tengan una potencia contratada superior a 100.000 kW en todos los períodos tarifarios a efectos de la aplicación de los peajes de acceso.
+
+– Contraten la modalidad b a la que se refiere el apartado 6.b del artículo 4 de la presente orden, que incluye los cinco tipos de reducción de potencia definidos con carácter general en el mismo.
+
+– Estos consumidores serán los primeros a quienes el operador del sistema, en virtud de lo establecido en el artículo 5 de la presente orden, solicite la aplicación de una orden de reducción de tipo 5 cuando así sea requerido.
+
+Además de lo anterior, a los efectos de comprobar el funcionamiento efectivo del servicio de gestión de la demanda de interrumpibilidad, el Operador del Sistema aplicará de manera aleatoria órdenes de reducción de tipo 5 en cada año a los consumidores a quienes resulte de aplicación el presente apartado.
+
+Los requisitos del cumplimiento y las repercusiones del incumplimiento por parte de los proveedores del servicio de estas órdenes de reducción de potencia serán las establecidas en los artículos 7 y 8 de la presente orden.
+
+La fórmula de cálculo es la siguiente:
+
+![Imagen: img/disp/2012/313/15706_003.png](https://www.boe.es/datos/imagenes/disp/2012/313/15706_003.png)
+
+Donde las variables tienen el siguiente significado:
+
+\>C<sub>j</sub> = Constante que tendrá un valor para cada periodo tarifario j
+
+| Período tarifario | 1 | 2 | 3 | 4 | 5 | 6 |
+|---|---|---|---|---|---|---|
+| C<sub>j</sub> | 1,35 | 1,35 | 0,6 | 0,6 | 0,25 | 0,25 |
+
+P<sub>mj</sub> = Potencia media consumida por el proveedor de este servicio en cada uno de los períodos tarifarios definidos en el apartado 3.3 del anexo II de la Orden ITC/2794/2007, de 27 septiembre. Su valor se calculará como cociente entre la energía consumida en cada período tarifario definido anteriormente y las horas de dicho período descontando, en su caso, las horas correspondientes a órdenes de reducción de potencia aplicadas durante el mismo.
+
+Pcj = Potencia contratada en cualquiera de los j períodos tarifarios a efectos de la aplicación de los peajes de acceso definidos en el apartado 3.3 del anexo II de la Orden ITC/2794/2007, de 27 septiembre.
+
+S<sub>i</sub> = Coeficiente de coincidencia. Tendrá los siguientes valores, para cada tipo i de orden de reducción de potencia que haya sido contratada por el proveedor del servicio:
+
+| Tipo | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| S | 1 | 0,95 | 0,9 | 0,85 | 0,8 |
+
+Ki = Constante, que tendrá un valor para cada tipo i de orden de reducción de potencia que haya sido contratada por el proveedor del servicio.
+
+| Tipo | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| K | 25 | 22 | 16 | 22 | 25 |
+
+P<sub>m1</sub> = Potencia media consumida por el proveedor de este servicio en el período tarifario 1 definido en el apartado 3.3 del anexo II de la Orden ITC/2794/2007, de 27 septiembre. Su valor se calculará como cociente entre la energía consumida en el período tarifario 1 definido anteriormente y las horas de dicho período descontando, en su caso, las horas correspondientes a órdenes de reducción de potencia aplicadas durante el mismo.
+
+P<sub>máx. i</sub> = Potencia residual máxima demandable por el consumidor durante la posible interrupción en cada uno de los tipos i a los que esté acogido.
+
+∑K<sub>i</sub> (P<sub>m1</sub> - P<sub>máx. i</sub>) = suma de los productos K<sub>i</sub> (P<sub>m1</sub> - P<sub>máx. i</sub>) para cada uno de los tipos i de reducción de potencia contratados. Si el valor de (P<sub>m1</sub>-P<sub>máx. i</sub>) fuera negativo, se tomará igual a 0.
+
+Todos los valores de potencia se expresarán en kW.
+
+DI se calculará con dos cifras decimales y el redondeo se hará, por defecto o por exceso, según que la tercera cifra decimal despreciada sea o no menor que 5.
+
+En el caso de aquellos consumidores para los que resulte de aplicación la fórmula establecida en el presente apartado, cuando de la aplicación de la fórmula resulte una retribución por el servicio de interrumpibilidad superior a la facturación equivalente de energía, el descuento se limitará de manera que la retribución anual del servicio de interrumpibilidad, RSI, expresada en euros, sea como máximo para cada proveedor del servicio de 35 euros por MWh consumido.
+
+En el caso de que el proveedor no hubiera cumplido en la temporada eléctrica los requisitos para la aplicación de lo dispuesto en este apartado, y no hubiera incurrido en incumplimiento de los requisitos según lo dispuesto en el artículo 14 de la presente orden, la liquidación final de la temporada se realizará conforme a lo establecido en el apartado anterior para la modalidad b a la que se refiere el artículo 4.
+
+En el caso de consumidores con instalaciones de generación asociada, se considerará la demanda de energía eléctrica del consumidor sin descontar posibles entregas de energía de la generación asociada en cada momento.
+
+No obstante lo anterior, en el caso de consumidores con instalaciones de generación asociada acogidos a la modalidad de suministro con autoconsumo sin excedentes, prevista en el Real Decreto 244/2019, de 5 de abril, por el que se regulan las condiciones administrativas, técnicas y económicas del autoconsumo de energía eléctrica, se considerará la demanda de energía eléctrica del consumidor descontando posibles entregas de energía de la generación asociada en cada momento.
+
+> Se modifica el apartado 1 y se añade un párrafo final por la disposición final 4.1 y 2 de la Orden TED/1315/2022, de 23 de diciembre. [Ref. BOE-A-2022-23752](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23752)
+
+> Se añade un párrafo final por la disposición final 1.1 de la Orden ETU/1282/2017, de 22 de diciembre. [Ref. BOE-A-2017-15521](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15521)
+
+> Se modifica por el artículo único de la Orden IET/2804/2012, de 27 de diciembre. [Ref. BOE-A-2012-15706](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15706).
+
+> Se modifica por la disposición final 1.2 de la Orden ITC/1732/2010, de 28 de junio. [Ref. BOE-A-2010-10390](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10390).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 237, de 3 de octubre de 2007. [Ref. BOE-A-2007-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17279).
+
+### Artículo 7. Requisitos del cumplimiento de una orden de reducción de potencia.
+
+1\. Para que una orden de reducción de potencia se considere cumplida por parte del proveedor del servicio deberá reunir como mínimo los siguientes requisitos:
+
+a) Existencia de todos los registros de potencia demandada generados por un maxímetro integrador de cinco minutos desde el instante de inicio del primer período hasta el instante final del último período de la orden de reducción de potencia, según la hora del reloj del equipo del proveedor del servicio.
+
+Se considerarán como instante de inicio y fin de cada período, los instantes comunicados por el Operador del Sistema al proveedor del servicio en dicha orden de reducción de potencia, y que deberán estar registrados tanto en el equipo del proveedor del servicio como en el del Operador del Sistema.
+
+Los registros deberán almacenarse en soporte informático de acuerdo con el formato que definirá el Operador del Sistema y en cinta de papel, conservándose al menos durante cinco años.
+
+b) Todas las potencias demandadas y recogidas en los registros citados en la letra a) anterior no superan, en ningún período, el máximo valor de potencia residual a consumir, Pmaxi ó P50%, según el caso.
+
+2\. Cuando no sea posible determinar la potencia demandada por funcionamiento incorrecto del maxímetro integrador de cinco minutos, se distinguirán los siguientes casos:
+
+a) Cuando, excepcionalmente, en caso de fallo o indisponibilidad del maxímetro integrador de cinco minutos, los registros de potencia demandada puedan determinarse por el Operador del Sistema mediante integración de las telemedidas de tiempo real recibidas o por cualquier otro medio que estime conveniente.
+
+En este caso, el Operador del Sistema podrá considerar cumplida una orden de reducción de potencia, siempre y cuando se cumpla el requisito establecido en el párrafo b) del apartado 1 anterior y el proveedor del servicio subsane, en el plazo máximo de treinta días desde la fecha de emisión de la orden de reducción de potencia, los defectos que hubieran provocado el fallo o indisponibilidad de los maxímetros o de su registro. El Operador del Sistema comprobará el correcto funcionamiento del equipo, expedirá el certificado correspondiente y lo notificará a la Dirección General de Política Energética y Minas.
+
+En caso contrario, la orden de reducción de potencia se considerará incumplida.
+
+b) Cuando el Operador del Sistema no pueda verificar el cumplimiento de la orden de reducción de potencia solicitada, se considerará como incumplida, resultando de aplicación la penalización correspondiente.
+
+La Dirección General de Política Energética y Minas resolverá aquellos casos en que existiera duda sobre el cumplimiento o no de una orden de reducción de potencia por parte del proveedor del servicio.
+
+En el caso de consumidores con instalaciones de generación asociada acogidos a la modalidad de suministro con autoconsumo sin excedentes, prevista en el Real Decreto 244/2019, de 5 de abril, los requisitos del cumplimiento de una orden de reducción de potencia se valorarán considerando el valor de potencia de consumo de energía eléctrica descontando posibles entregas de energía de la generación asociada.
+
+En el caso de consumidores con instalaciones de generación asociada acogidos a la modalidad de suministro con autoconsumo con excedentes, prevista en el Real Decreto 244/2019, de 5 de abril, los requisitos del cumplimiento de una orden de reducción de potencia se valorarán considerando el valor de potencia de consumo de energía eléctrica sin descontar posibles entregas de energía de la generación asociada. Asimismo, durante la orden de reducción de potencia, estos consumidores deben mantener su producción de acuerdo con lo que se determine en el correspondiente procedimiento de operación.
+
+En el caso de consumidores con instalaciones de generación asociada y para instalaciones de cogeneración, quedarán excluidas del cálculo del cómputo de las exigencias de rendimiento eléctrico o, en su caso, de las exigencias de ahorro de energía primaria, aquellas horas en las que la instalación haya sido programada para mantener su producción cuando el consumidor asociado reduzca la potencia demandada en respuesta a una orden de reducción de potencia.
+
+> Se modifica el apartado 2 por la disposición final 4.3 de la Orden TED/1315/2022, de 23 de diciembre. [Ref. BOE-A-2022-23752](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23752)
+
+> Se modifica por la disposición final 1.2 de la Orden ETU/1282/2017, de 22 de diciembre. [Ref. BOE-A-2017-15521](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15521)
+
+### Artículo 8. Repercusiones del incumplimiento de una orden de reducción de potencia.
+
+El incumplimiento de una orden de reducción de potencia conllevará las siguientes penalizaciones:
+
+1.ª Si no se hubiera producido ningún incumplimiento en la temporada eléctrica en curso, el incumplimiento llevará asociado una penalización equivalente a un determinado porcentaje de la retribución por el servicio de interrumpibilidad que le hubiera correspondido en el año en que se produce el incumplimiento. La penalización se calculará de acuerdo a la siguiente fórmula:
+
+![Imagen: img/disp/2010/158/10390_001.png](https://www.boe.es/datos/imagenes/disp/2010/158/10390_001.png)
+
+Donde:
+
+Penalización (% RSI): Es la penalización a aplicar al proveeedor del servicio por el incumplimiento de la orden de reducción que corresponda, que se establece como un porcentaje sobre la retribución de la retribución que le hubiera correspondido en la temporada en que se produce el incumplimiento. El valor de esta penalización será como máximo el 120 por ciento de la retribución por el servicio de interrumpibilidad que le hubiera correspondido en la temporada en que se produce el incumplimiento
+
+K<sub>p</sub>: es el factor de penalización por incumplimiento. Se considerará un valor de K<sub>p</sub> de 3,125.
+
+P<sub>d</sub>: es la máxima potencia demanda por el proveedor del servicio durante la orden de reducción aplicada e incumplida, en base a los registros de cinco minutos generados durante la orden.
+
+P<sub>max i</sub>: Valor de potencia máxima a consumir por el proveedor del servicio para el tipo de reducción de potencia «i» que se haya aplicado e incumplido, en el periodo tarifario en que se haya solicitado.
+
+P<sub>t</sub>: Potencia media medida correspondiente al proveedor del servicio desde el inicio de la temporada eléctrica hasta el momento de inicio de la orden de reducción aplicada e incumplida, en el periodo tarifario de aplicación de dicha orden.
+
+El valor de Pt no podrá superar en más de un diez por ciento a la potencia media de consumo prevista para el proveedor del servicio para el periodo tarifario que corresponda en la temporada eléctrica de aplicación, ni podrá ser inferior en un diez por ciento a dicho valor de potencia media de consumo prevista. En caso de que el valor de Pt sea inferior al diez por ciento de la potencia media de consumo prevista, se tomará como valor de Pt el diez por ciento de la citada potencia media de consumo, siempre con un valor mínimo de 0,8 MW.
+
+A estos efectos, se considerará como potencia media de consumo prevista para el proveedor del servicio para el periodo tarifario que corresponda, el último valor disponible comunicado a Red Eléctrica de España, SA o, en su defecto, la prevista en el contrato.
+
+N: Número de periodos de cinco minutos en los que se incumple la orden de reducción de potencia aplicada, de acuerdo a lo establecido en el artículo 7 de la presente orden.
+
+N<sub>t</sub>: Número total de periodos de cinco minutos que integran la orden de reducción aplicada e incumplida.
+
+2.ª Si se hubiera producido un incumplimiento en la temporada eléctrica en curso, el nuevo incumplimiento llevará asociada la resolución automática del contrato de prestación del servicio de interrumpibilidad y conllevará la liquidación correspondiente de las cantidades que se hubieran percibido por la prestación del servicio durante la vigencia del contrato o de su prórroga, según corresponda.
+
+> Se modifica por la disposición final 4.4 de la Orden TED/1315/2022, de 23 de diciembre. [Ref. BOE-A-2022-23752](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23752)
+
+> Se modifica por la disposición final 1.3 de la Orden ITC/1732/2010, de 28 de junio. [Ref. BOE-A-2010-10390](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10390).
+
+## CAPÍTULO III — Procedimiento y requisitos de los consumidores para la contratación del servicio
+
+### Artículo 9. Requisitos que deben reunir los consumidores para la contratación del servicio.
+
+Los consumidores de energía eléctrica que deseen contratar la prestación del servicio de interrumpibilidad deberán cumplir los siguientes requisitos en cada punto de suministro al que se acojan a este servicio:
+
+1.º Ser consumidores conectados en alta tensión que contraten su energía en el mercado de producción, bien directamente, bien a través de comercializador.
+
+2.º Ofrecer un valor mínimo de potencia interrumpible (Pof) en todos los períodos tarifarios, 1 a 6, no inferior a 0,8 MW, para todos y cada uno de los tipos de reducción de potencia que contrate.
+
+A estos efectos se considera cumplida esta condición en un período tarifario y para un determinado tipo de reducción de potencia si se acredita la siguiente condición:
+
+(Ej / hj − Pmáx. i) ≥ 800 kW
+
+Donde:
+
+Pof: Potencia Interrumpible ofertada por el proveedor del servicio en cada período tarifario j y para cada tipo de orden de reducción de potencia i que viene definida de acuerdo con la siguiente fórmula:
+
+Ej / hj − Pmáx. i
+
+Donde:
+
+Ej: Valor de la energía consumida por el proveedor del servicio en el período tarifario j expresada en kWh.
+
+hj: Número de horas anuales correspondientes al período tarifario j
+
+Pmáx. i: Valor de potencia máxima a consumir por el proveedor del servicio para el tipo de reducción de potencia «i», en los períodos en que se solicite la máxima reducción de potencia, expresada en kW.
+
+Para acogerse a este sistema, los consumidores deberán acreditar haber cumplido dicha condición durante los dos años anteriores de acuerdo con la información a que se hace referencia en el artículo 10 o estar en condiciones de acreditarla para el año que se desee prestar el servicio en el plan de funcionamiento anual previsto. En el caso de instalaciones que hayan comenzado a funcionar en un plazo inferior a un año en el momento de presentar la solicitud, se exigirá un número de horas de funcionamiento en el período equivalente que suponga idéntica proporción a la condición anterior en el período transcurrido desde el inicio de su consumo. Para instalaciones nuevas se verificará esta condición sobre el plan de funcionamiento anual previsto.
+
+3.º Que el volumen de consumo anual en el período tarifario 6 sea igual o superior al 51 por ciento de su volumen total de consumo anual.
+
+4.º Tener instalado un relé de deslastre por subfrecuencia cuyos ajustes serán determinados por el Operador del Sistema.
+
+5.º Tener instalados los equipos de medida y control que se requieran para la gestión, control y medida del servicio.
+
+6.º No desarrollar una actividad que incluya servicios básicos u otras actividades en que la aplicación del servicio de interrumpibilidad pueda provocar riesgos para la seguridad de las personas o los bienes.
+
+7.º Prestar al operador del sistema garantía suficiente para dar cobertura a las obligaciones económicas que se puedan derivar de su actuación y cumplir los requisitos establecidos en los procedimientos de operación relativos al proceso de cobros y pagos.
+
+A los efectos de aplicación de los requisitos, los períodos tarifarios a que se hace referencia en los mismos serán los definidos en el apartado 3.2 del anexo II de la Orden ITC/2794/2007, de 27 septiembre.
+
+Los consumidores con instalación de generación asociada deberán acreditar los requisitos anteriores considerando la demanda de energía eléctrica del consumidor sin descontar posibles entregas de energía de la generación asociada en cada momento.
+
+No obstante lo anterior, los consumidores con instalaciones de generación asociada acogidos a la modalidad de suministro con autoconsumo sin excedentes, prevista en el Real Decreto 244/2019, de 5 de abril, por el que se regulan las condiciones administrativas, técnicas y económicas del autoconsumo de energía eléctrica, deberán acreditar los requisitos anteriores considerando la demanda de energía eléctrica del consumidor descontando posibles entregas de energía de la generación asociada en cada momento.
+
+> Se modifica por la disposición final 4.5 de la Orden TED/1315/2022, de 23 de diciembre. [Ref. BOE-A-2022-23752](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23752)
+
+> Se modifica el apartado 3º, con efectos de 1 de junio de 2021, por la disposición final 1.2 de la Orden TED/371/2021, de 19 de abril. [Ref. BOE-A-2021-6390](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6390)
+
+> Se añade un párrafo final por la disposición final 1.3 de la Orden ETU/1282/2017, de 22 de diciembre. [Ref. BOE-A-2017-15521](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15521)
+
+> Se modifica por la disposición final 1.4 de la Orden ITC/1732/2010, de 28 de junio. [Ref. BOE-A-2010-10390](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10390).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 237, de 3 de octubre de 2007. [Ref. BOE-A-2007-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17279).
+
+### Artículo 10. Informe del Operador del Sistema sobre la idoneidad del consumidor para la prestación del servicio.
+
+1\. Los consumidores en alta tensión que, adquiriendo su energía en el mercado de producción, deseen prestar el servicio de interrumpibilidad y reúnan los requisitos indicados en los puntos 1.º, 2.º, 3.º, 4.º y 6.º del artículo anterior, deberán solicitar informe al Operador del Sistema antes del día 1 de septiembre del año anterior al que se desea comenzar a prestar el servicio.
+
+2\. A los efectos anteriores, el Operador del Sistema establecerá el modelo de solicitud para la petición de dicho informe, los cuales estarán disponibles en su página web.
+
+3\. La solicitud de informe por parte del consumidor al Operador del Sistema, deberá incluir la siguiente información y documentación:
+
+a) Acreditación de participación en el mercado de producción como comprador de energía eléctrica para el punto de suministro en que se desee ofrecer la prestación del servicio de interrumpiblidad o aceptación del consumidor de un compromiso firme de participación en el mercado de producción como agente comprador de energía eléctrica para el punto de suministro en caso de que se le conceda la correspondiente autorización administrativa para la prestación del servicio.
+
+b) Contrato vigente de acceso a las redes, para el punto de suministro del consumidor en que se desee ofrecer la prestación del servicio de interrumpibilidad o aceptación del consumidor de un compromiso firme de formalizar un contrato de acceso en la fecha de inicio de la prestación del servicio en caso de que se le conceda la correspondiente autorización administrativa para la prestación del servicio.
+
+c) Tipos de reducción de potencia que se desean proveer y valor de potencia residual máxima (P<sub>máx. i</sub>) para cada una de ellas.
+
+d) Acreditación de que la potencia máxima interrumpible (Pof) en todos los períodos tarifarios, 1 a 6, es igual o superior a 0,8 MW, para todos y cada uno de los tipos de reducción de potencia que desea contratar.
+
+A estos efectos, el consumidor deberá presentar el correspondiente certificado de la empresa distribuidora donde consten las potencias contratadas y consumo de energía eléctrica en los dos últimos años desglosados en los distintos períodos horarios.
+
+En el supuesto de que el consumidor no cumpla este requisito, el Operador del Sistema deberá expresarlo en su informe a efectos de que la Dirección General de Política Energética y Minas pueda valorar, con carácter previo a su resolución, si concurren circunstancias que hacen viable que, no obstante lo anterior, éste pueda prestar el servicio de interrumpibilidad.
+
+e) Las previsiones de consumo horario para la temporada eléctrica siguiente, que se comunicarán en el formato que determine el Operador del Sistema.
+
+f) Acreditación del punto 6.º del artículo anterior.
+
+4\. El Operador del Sistema, a la vista de la información presentada, elaborará un informe para la Dirección General de Política Energética y Minas que permita evaluar la idoneidad del consumidor para la prestación del servicio. Asimismo, tendrá en cuenta su posible efectividad y la existencia de circunstancias que supongan la inexistencia de beneficio para el sistema eléctrico o posibles perjuicios a terceros.
+
+5\. El Operador del Sistema emitirá su informe, dentro del plazo de un mes a contar desde la recepción de la solicitud, justificando, en su caso, la razón por la que rechaza la idoneidad del consumidor solicitante. Interrumpirán el plazo para la emisión de informe, las peticiones adicionales de información por parte del Operador del Sistema.
+
+Si el informe del Operador del Sistema es favorable, éste recogerá todas las características técnicas y condiciones de prestación del servicio consideradas para su elaboración, así como los requisitos necesarios para la formalización del contrato correspondiente.
+
+De forma particular, en el caso de consumidores con instalaciones de generación asociada, el informe del operador del sistema recogerá las características técnicas de la instalación de generación asociada, así como las condiciones de prestación del servicio consideradas para su elaboración.
+
+> Se modifica la letra d) del apartado 3 por la disposición final 4.6 de la Orden TED/1315/2022, de 23 de diciembre. [Ref. BOE-A-2022-23752](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23752)
+
+> Se añade un párrafo final por la disposición final 1.4 de la Orden ETU/1282/2017, de 22 de diciembre. [Ref. BOE-A-2017-15521](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15521)
+
+> Se modifica el apartado 1 por el art. 2.1 de la Orden IET/1752/2014, de 26 de septiembre. [Ref. BOE-A-2014-9867](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9867).
+
+### Artículo 11. Obtención de la autorización administrativa para la prestación del servicio.
+
+1\. La autorización administrativa para la prestación del servicio de interrumpibilidad se obtendrá mediante solicitud del consumidor dirigida a la Dirección General de Política Energética y Minas, antes del día 15 de octubre del año anterior al que se desee empezar a prestar el servicio.
+
+2\. A dicha solicitud, se acompañará el informe del Operador del Sistema, emitido con carácter previo a la misma, y cuantos documentos se hubieran presentado a éste para su elaboración. Asimismo, se acompañará de la solicitud del interesado al operador del sistema para la realización de las inspecciones y actuaciones necesarias para la obtención de la certificación provisional a la que se refiere el apartado 5 del presente artículo.
+
+3\. La Dirección General de Política Energética y Minas resolverá la solicitud presentada por el consumidor con anterioridad al inicio de la temporada eléctrica, autorizando o denegando la prestación del servicio de interrumpibilidad y lo notificará a éste y al operador del sistema con indicación, en su caso, de las condiciones específicas para la prestación del servicio.
+
+4\. La autorización administrativa para la prestación del servicio de interrumpibilidad contendrá, como mínimo, las siguientes condiciones:
+
+a) Las características del proveedor del servicio y las especificaciones técnicas de sus instalaciones.
+
+b) El punto de acceso a las redes, en el cual el proveedor ofrecerá este servicio.
+
+c) La potencias contratadas en cada uno de los períodos tarifarios a efectos de la aplicación de la tarifa de acceso.
+
+d) La potencias de consumo (Pf) para cada período tarifario, de acuerdo con lo establecido en el apartado 3 del punto ii) del artículo 4.
+
+e) Los tipos de reducción de potencia autorizados.
+
+f) Las potencias residuales máximas demandables por el proveedor del servicio, durante una orden de reducción de potencia para cada uno de los tipos de reducción de potencia que tenga autorizados (P<sub>max i</sub>).
+
+g) En su caso, las condiciones específicas que apliquen a cada tipo de consumidor, según se establece en el artículo 12.1.
+
+h) En su caso, recogerá las características de la instalación de generación asociada del consumidor, así como las condiciones específicas que le apliquen.
+
+5\. En todo caso la validez de la autorización administrativa para la prestación del servicio quedará condicionada a la presentación, en el plazo máximo de 10 días, ante la Dirección General de Política Energética y Minas de la certificación provisional emitida por el Operador del Sistema correspondiente a la disponibilidad, a 31 de diciembre del año en que se realice la solicitud, de los siguientes equipos y aparatos:
+
+a) Equipos de medida, control y comunicaciones necesarios para la prestación del servicio de interrumpibilidad, con las especificaciones técnicas y funcionales que establezca la Dirección General de Política Energética y Minas.
+
+b) Relé de deslastre por subfrecuencia instalado en el punto de suministro cuyo ajuste será establecido por el Operador del Sistema de forma que el conjunto de consumidores que ofrecen el servicio de interrumpibilidad, constituyan un escalón de deslastre anterior al establecido para el resto de los consumidores.
+
+Se establece un período de dos meses para la realización de las inspecciones que den lugar a la certificación definitiva.
+
+6\. La resolución del contrato de prestación del servicio o de alguna de sus prórrogas por alguna de las causas recogidas en el artículo 14.1 en una temporada eléctrica, determinará la imposibilidad de continuar prestando el servicio en la temporada siguiente.
+
+No obstante lo anterior, la Dirección General de Política Energética y Minas podrá autorizar la prestación del servicio para una temporada eléctrica cuando la resolución del contrato de interrumpibilidad para la temporada anterior se hubiese producido por motivos excepcionales debidamente justificados por el interesado.
+
+> Se añade la letra h) al apartado 4 por la disposición final 1.5 de la Orden ETU/1282/2017, de 22 de diciembre. [Ref. BOE-A-2017-15521](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15521)
+
+> Se modifican los apartados 1 y 5 por el art. 2.2 y 2.3 de la Orden IET/1752/2014, de 26 de septiembre. [Ref. BOE-A-2014-9867](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9867).
+
+> Se añade el apartado 6 por la disposición final 1.2 de la Orden IET/3586/2011, de 30 de diciembre. [Ref. BOE-A-2011-20646](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20646).
+
+> Se modifican los apartados 2, 3, 4 y 5 por la disposición final 1.5 de la Orden ITC/1732/2010, de 28 de junio. [Ref. BOE-A-2010-10390](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10390).
+
+### Artículo 12. Formalización del contrato de prestación del servicio con el Operador del Sistema.
+
+1\. Una vez autorizado el servicio por la Dirección General de Política Energética y Minas, el Operador del Sistema, a solicitud de los interesados, procederá a la formalización del contrato de acuerdo con un modelo de contrato de adhesión para su prestación, sin perjuicio de que, en cada uno que se formalice, se fijen las condiciones específicas para cada tipo de consumidor que se hayan autorizado.
+
+2\. La solicitud al Operador del Sistema para la formalización del contrato tendrá lugar una vez obtenida la autorización administrativa y el Operador del sistema procederá a su formalización en el plazo máximo de 10 días hábiles desde que el consumidor presente la autorización al citado operador.
+
+En todo caso, el contrato formalizado deberá tener una vigencia para el periodo comprendido entre el 1 de enero y el 31 de diciembre de cada año.
+
+3\. Una vez incorporado al servicio, el consumidor autorizado comenzará a prestar su servicio el día 1 de enero de cada año.
+
+El contrato tendrá una vigencia de un año y se considerará prorrogado por iguales periodos si el consumidor no comunica fehacientemente por escrito al Operador del Sistema su voluntad de resolverlo, con un preaviso mínimo de dos meses a la fecha de su finalización y siempre que el operador del sistema haya comprobado que el consumidor sigue cumpliendo los requisitos. Una vez resuelto el contrato, el Operador del Sistema lo comunicará, en el plazo máximo de 10 días, a la Dirección General de Política Energética y Minas.
+
+> Se modifican los apartados 2 y 3 por el art. 2.4 de la Orden IET/1752/2014, de 26 de septiembre. [Ref. BOE-A-2014-9867](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9867).
+
+> Se modifican los apartados 2 y 3 y se suprime el apartado 4 por la disposición final 1.6 y 7 de la Orden ITC/1732/2010, de 28 de junio. [Ref. BOE-A-2010-10390](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10390).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 194, de 11 de agosto de 2010. [Ref. BOE-A-2010-12973](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12973).
+
+### Artículo 13. Modificación de las condiciones de autorización para la prestación del servicio.
+
+1\. La modificación de alguna de las condiciones establecidas en la autorización para la prestación del servicio durante la temporada eléctrica, necesitará ser autorizada por la Dirección General de Política energética y Minas.
+
+El proveedor del servicio solicitará previamente informe al Operador del Sistema sobre el cambio de condiciones. Cuando el Operador del Sistema estime necesaria la emisión del referido informe, éste se regirá por lo dispuesto en el artículo 10.
+
+En estos casos la Dirección General de Política Energética y Minas establecerá, cuando proceda, las condiciones de adaptación de la retribución correspondiente a la temporada eléctrica en que se produzca.
+
+2\. En el caso de modificaciones de las condiciones de prestación del servicio que coincidan con el inicio de una nueva temporada eléctrica, se estará a lo dispuesto en el artículo 10, debiendo solicitar los consumidores informe al Operador del Sistema en los plazos y condiciones establecidos.
+
+3\. Una vez autorizadas las modificaciones el Operador del Sistema formalizará los cambios en el contrato con el proveedor del servicio.
+
+> Se modifica por la disposición final 1.1 de la Orden IET/3586/2011, de 30 de diciembre. [Ref. BOE-A-2011-20646](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20646).
+
+> Se modifica por la disposición final 1.8 de la Orden ITC/1732/2010, de 28 de junio. [Ref. BOE-A-2010-10390](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10390).
+
+### Artículo 14. Resolución del contrato para la prestación del servicio.
+
+1\. Se consideran como causas de resolución del contrato o de sus prórrogas las siguientes:
+
+a) Cuando el proveedor del servicio comunique al Operador del Sistema su intención de resolver el contrato antes de su finalización o de no prorrogarlo, incumpliendo lo dispuesto en el artículo 12.3.
+
+b) Que el proveedor del servicio cese en su actividad.
+
+c) En cualquiera de las siguientes situaciones:
+
+1.º Se modifiquen sustancialmente las condiciones consideradas para la emisión de informe de idoneidad y las previsiones de los programas de consumo, de forma que la prestación del servicio no resulte efectiva, no derive un beneficio para el sistema eléctrico o pueda resultar perjuicio para terceros.
+
+2.º Se hayan producido incumplimientos en la aplicación de una orden de reducción de potencia, según lo establecido en los artículos 7 y 8 de esta orden.
+
+3.º Se hayan incumplido los requisitos y condiciones para la prestación del servicio de interrumpibilidad establecidos en la presente orden o previstos en la autorización administrativa.
+
+4.º Exista un funcionamiento incorrecto del sistema de medida, control y comunicaciones, correspondiente al consumidor autorizado, que impida, de forma reiterada, la verificación por parte del Operador del Sistema del cumplimiento de la prestación del servicio.
+
+5.º Se hayan incumplido las obligaciones de suministro de información al Operador del Sistema y a la Dirección General de Política Energética y Minas.
+
+6.º Se haya incumplido las obligaciones de pago al Operador del Sistema debidas a penalizaciones o a refacturaciones.
+
+2\. La resolución del contrato o de sus prórrogas, por parte del proveedor del servicio, durante su período de vigencia, conllevará la liquidación correspondiente por la prestación del servicio desde la fecha de vigencia del contrato o de su prórroga así como el pago de las penalizaciones a que estuviera obligado el proveedor del servicio.
+
+En estos casos, la Dirección General de Política Energética y Minas podrá eximir total o parcialmente de la liquidación correspondiente al proveedor del servicio por motivos excepcionales debidamente justificados.
+
+3\. La resolución del contrato de prestación del servicio de gestión de la demanda de interrumpibilidad o de sus prórrogas podrá instarse por el Operador del sistema o por la Dirección General de Política Energética y Minas. En caso de que sea instado por el operador del sistema, éste deberá informar a la Dirección General de Política Energética y Minas en el plazo de 10 días.
+
+La resolución del contrato o de sus prórrogas conllevará la liquidación correspondiente de las cantidades percibidas por la prestación del servicio percibida durante la vigencia del contrato o de su prórroga, así como el pago de las penalizaciones a que estuviera obligado el proveedor del servicio.
+
+> Se modifica por la disposición final 1.9 de la Orden ITC/1732/2010, de 28 de junio. [Ref. BOE-A-2010-10390](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10390).
+
+> Se modifica el apartado 2 por la disposición final 2 de la Orden ITC/1559/2010, de 11 de junio. [Ref. BOE-A-2010-9417](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9417).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 237, de 3 de octubre de 2007. [Ref. BOE-A-2007-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17279).
+
+## CAPÍTULO IV — Liquidación, inspección y comprobación
+
+### Artículo 15. Liquidación de la retribución del servicio y de las penalizaciones aplicadas.
+
+1\. Corresponderá al Operador del Sistema, la liquidación tanto de la retribución del servicio de interrumpibilidad que preste cada uno de sus proveedores como de las penalizaciones que en su caso se apliquen a cada uno de ellos, de acuerdo con lo establecido en los apartados siguientes.
+
+El coste del servicio de interrumpibilidad es un coste liquidable a efectos de lo previsto en el Real Decreto 2017/1997, de 26 de diciembre, por el que se organiza y regula el procedimiento de liquidación de los costes de transporte, distribución y comercialización a tarifa, de los costes permanentes del sistema y de los costes de diversificación y seguridad de abastecimiento. La liquidación de este coste por el operador del sistema en el procedimiento de liquidación de costes regulados se llevará a cabo de igual forma que el mecanismo de liquidación del coste de la actividad de transporte
+
+2\. El esquema de liquidaciones será el siguiente:
+
+2.1 Liquidaciones mensuales: Mensualmente, el Operador del Sistema efectuará una liquidación provisional a cuenta de la liquidación anual definitiva, tanto de la retribución del servicio de interrumpibilidad como de las penalizaciones que en su caso se apliquen, que se calculará de la forma siguiente:
+
+2.1.1 Liquidaciones de la retribución del servicio de interrumpibilidad: El Operador del Sistema calculará mensualmente para cada consumidor el descuento porcentual (DI) calculado con arreglo a la fórmula establecida en el artículo 6. Para el cálculo del parámetro H, se utilizará la energía realmente suministrada desde el comienzo del período anual hasta el último día del mes considerado, dividida por el número de meses del período anual transcurrido y multiplicada por 12.
+
+El descuento porcentual (DI) así calculado se aplicará sobre la facturación equivalente por energía activa del mismo período transcurrido (FE). A este valor se le deducirá el calculado de la misma forma para el mes anterior. Esta diferencia será la retribución del servicio de interrumpibilidad prestado por cada proveedor en el mes correspondiente.
+
+Antes del día 25 de cada mes, el Operador del Sistema comunicará, mensualmente, a la Comisión Nacional de Energía la retribución del servicio de interrumpibilidad del conjunto de proveedores de este servicio correspondiente al mes anterior, así como la información utilizada para su cálculo, con objeto de que dicha retribución sea liquidada en la forma establecida en el segundo párrafo del apartado 1 del presente artículo.
+
+2.1.2 Liquidación de las penalizaciones aplicadas: El operador del sistema calculará mensualmente para cada consumidor el importe de las penalizaciones que en su caso le corresponda en aplicación de los eventuales incumplimientos en que incurriera conforme a lo establecido en los artículos 7 y 8 de esta orden.
+
+Antes del día 25 de cada mes, el Operador del Sistema comunicará a la Comisión Nacional de Energía el importe de las penalizaciones calculadas para el conjunto de proveedores de este servicio correspondientes al segundo mes anterior que ya hayan sido satisfechas por éstos al operador del sistema, con objeto de que dicho importe sea liquidado en el procedimiento de liquidación de costes regulados como un ingreso liquidable del operador del sistema.
+
+Los importes de las penalizaciones correspondientes a un determinado mes que no hayan sido satisfechos por los proveedores del servicio al Operador del Sistema serán comunicados por éste a la Comisión Nacional de Energía, una vez que se haga efectivo el pago, antes del día 25 del mes siguiente al mes en el que se ha efectuado dicho pago.
+
+De esta forma, el importe del ingreso liquidable correspondiente a un determinado mes m que el operador del sistema debe comunicar a la Comisión Nacional de Energía antes del día 25 del mes m+2 será la suma de las penalizaciones calculadas y pagadas correspondientes al mes m, más las penalizaciones correspondientes a meses anteriores al mes m satisfechas por los proveedores del servicio al operador del sistema en el mes m.
+
+2.2 Liquidación anual definitiva: La liquidación definitiva tanto de la retribución del servicio de interrumpibilidad como de las penalizaciones aplicadas, tendrá carácter anual y comprenderá el periodo desde el día 1 de enero del año "n" hasta el día 31 de diciembre del año "n".
+
+La Comisión Nacional de los Mercados y la Competencia, en el plazo máximo de un año a contar desde el día 1 de enero del año "n+1" y con base a la información suministrada por el Operador del Sistema, comprobará cada una de las facturaciones correspondientes a la retribución del servicio prestado por los consumidores así como de las penalizaciones aplicadas a cada uno de ellos a los efectos de proponer a la Dirección General de Política Energética y Minas la aprobación de la liquidación definitiva a cada proveedor.
+
+Las eventuales diferencias entre el importe de la liquidación definitiva de cada proveedor aprobada por la Dirección General de Política Energética y Minas y los importes de la retribución y penalizaciones liquidados al mismo por el operador del sistema serán considerados por éste último en la liquidación y facturación por éste aplicando el procedimiento de comunicación y liquidación que se describe en la presente orden.
+
+2.3 Liquidaciones anuales finales: Las resoluciones de contrato cuya liquidación no se haya incluido en la liquidación definitiva anual darán lugar a una liquidación anual excepcional del proveedor afectado en el plazo máximo de seis meses desde la resolución.
+
+> Se modifica el apartado 2.2 por el art. 2.5 de la Orden IET/1752/2014, de 26 de septiembre. [Ref. BOE-A-2014-9867](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9867).
+
+> Se modifica por la disposición final 1.10 de la Orden ITC/1732/2010, de 28 de junio. [Ref. BOE-A-2010-10390](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10390).
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 194, de 11 de agosto de 2010. [Ref. BOE-A-2010-12973](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12973).
+
+> Se añade el párrafo segúndo al apartado 1 por la disposición final 3 de la Orden ITC/3801/2008, de 26 de diciembre. [Ref. BOE-A-2008-21009](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-21009).
+
+### Artículo 16. Facturación del servicio.
+
+1\. La Comisión Nacional de Energía mensualmente efectuará la transferencia de fondos por este servicio al Operador del Sistema antes del día 15 del mes m+3 al que corresponda la facturación de este servicio.
+
+El Operador del Sistema en el plazo máximo de 10 días hábiles a contar desde la fecha en que el Operador del Sistema reciba la transferencia de fondos, procederá a liquidar de forma provisional a cuenta de la liquidación anual definitiva el servicio a cada uno de sus proveedores. En el caso de que los fondos transferidos por la Comisión Nacional de la Energía al Operador del Sistema, no cubran el importe total de la liquidación del servicio de interrumpibilidad, estos fondos se prorratearan entre los consumidores prestadores del servicio.
+
+2\. La facturación del servicio, tanto por los proveedores del servicio como por el Operador del Sistema, y el suministro de la información necesaria para las mismas, se desarrollará a través de un procedimiento de operación. El Operador del Sistema podrá poner a disposición de un tercero, previa comunicación a la Comisión Nacional de Energía, la gestión de la facturación asociada al contrato.
+
+3\. En caso de discrepancia en las facturaciones realizadas por este servicio, resolverá la Dirección General de Política Energética y Minas.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 237, de 3 de octubre de 2007. [Ref. BOE-A-2007-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17279).
+
+### Artículo 17. Liquidación de la reducción del programa de consumo de energía del Mercado establecida por órdenes de reducción de potencia.
+
+1\. La reducción del consumo horario de energía programado en el mercado para cada comercializador y para cada proveedor del servicio, debida a órdenes de reducción de potencia se liquidará al correspondiente precio del mercado diario. Dicha reducción de energía será descontada del programa del mercado para el cálculo de los desvíos.
+
+2\. A efectos de la aplicación del apartado anterior, los consumidores que presten el servicio de interrumpibilidad deberán comunicar al Operador del Sistema la mejor previsión horaria de su consumo y los datos de tarifa de acceso, necesarios para su elevación a barras de central. El Operador del Sistema calculará la reducción del programa horario motivada por órdenes de reducción de potencia, con la última información disponible recibida.
+
+### Artículo 18. Comprobación e inspección de este servicio.
+
+1\. El Ministerio de Industria, Turismo y Comercio podrá inspeccionar, directamente o a través de la Comisión Nacional de Energía, aquellos suministros que provean el servicio de interrumpibilidad en las que se inspeccionarán las condiciones de prestación de este servicio y las liquidaciones correspondientes a estos contratos, a los efectos de comprobar la adecuación de los mismos a la presente orden, a lo establecido en los contratos firmados entre los proveedores del servicio y el operador del sistema y a lo establecido en la autorización administrativa.
+
+2\. En el caso de que se detecten irregularidades en las inspecciones realizadas, la Dirección General de Política Energética y Minas resolverá sobre la procedencia de las mismas y en su caso, determinará las cuantías que resulten de aplicar la presente orden, dando traslado de las mismas a la Comisión Nacional de Energía a los efectos de que se incorporen en las liquidaciones correspondientes al Operador del Sistema y a su vez éste las liquide a cada proveedor de este servicio por este concepto.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 237, de 3 de octubre de 2007. [Ref. BOE-A-2007-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17279).
+
+## CAPÍTULO V — Información
+
+### Artículo 19. Obligaciones de información.
+
+1\. Los proveedores y el Operador del Sistema deberán remitir a la Dirección General de Política Energética y Minas cualquier información sobre consumos eléctricos, facturación o condiciones del contrato que ésta les solicite.
+
+Asimismo los consumidores proveedores deberán facilitar al Operador del Sistema la información necesaria para poder efectuar la aplicación, seguimiento, control y facturación de este servicio. Entre otra información, deberán proceder al envío de las previsiones de consumo actualizadas con la periodicidad que se determine. El Operador del Sistema deberá preservar el carácter confidencial de la información de que tenga conocimiento en el desempeño de esta actividad.
+
+La no remisión de la información solicitada podrá ser causa de resolución del contrato, en los términos contemplados en el artículo 14 de la presente orden.
+
+2\. El Operador del Sistema remitirá un informe mensual a la Dirección General de Política Energética y Minas, quien podrá solicitar su presentación en un formato determinado, en el que conste el resultado del seguimiento sobre el funcionamiento y aplicación del servicio y de las órdenes de reducción de potencia para el mes correspondiente, donde se reflejará la siguiente información referida tanto al conjunto del sistema como a cada proveedor del servicio:
+
+a) Situación contractual de los proveedores del servicio.
+
+b) Recurso interrumpible del conjunto del proveedores.
+
+c) Grado de adecuación de las potencias demandadas por periodo tarifario a los requisitos exigidos para la prestación del servicio.
+
+d) Funcionamiento del Sistema de Medida, Control y Comunicaciones.
+
+e) Cumplimiento de las ordenes de reducción de potencia, incluyendo número de órdenes emitidas, órdenes ejecutadas y órdenes incumplidas, así como las órdenes no cursadas por ineficaces y la fracción de tiempo de indisponibilidad en las comunicaciones.
+
+f) Cumplimiento de las obligaciones de información de los proveedores al Operador del Sistema.
+
+g) Retribución de cada proveedor.
+
+h) Situación de las obligaciones de pago de los proveedores.
+
+Asimismo, antes del 31 de enero de cada año, remitirá un informe anual a la Dirección General de Política Energética y Minas y a la Comisión Nacional de los Mercados y la Competencia sobre el funcionamiento y aplicación de este servicio, que recogerá para toda la temporada eléctrica a que se refiera las informaciones señaladas. El informe deberá contener el grado de adecuación de la potencia interrumpible disponible, resultado de los contratos de gestión de la demanda firmados y la potencia interrumpible necesaria para el sistema desagregada por zonas y el análisis económico del coste de este servicio para el sistema.
+
+3\. El Operador del Sistema comunicará a la Dirección General de Política Energética y Minas las órdenes de reducción de potencia emitidas en el plazo máximo de 2 horas desde su emisión.
+
+4\. El Operador del Sistema comunicará a la Comisión Nacional de Energía la información necesaria para efectuar las liquidaciones conforme se establece en el artículo 15, incluyendo en su caso las penalizaciones por incumplimiento.
+
+5\. El Operador del Sistema deberá remitir antes del 1 de febrero de cada año a la Dirección General de Política Energética y Minas y la Comisión Nacional de los Mercados y la Competencia la información siguiente relativa a los contratos en vigor para el periodo comprendido entre el 1 de enero y el 31 de diciembre del año en curso:
+
+a) Proveedores con contrato formalizado para la prestación del servicio en la temporada eléctrica que comienza el 1 de enero del año en curso.
+
+b) Potencia máxima residual demandada por el consumidor durante una orden de interrupción.
+
+c) Modalidad de interrupción a las que están acogidos.
+
+d) Previsión de potencia media demandada por periodo tarifario para los siguientes doce meses.
+
+6\. Los distribuidores, comercializadores y proveedores remitirán al Operador del Sistema la información necesaria para la liquidación y facturación del servicio, de acuerdo a lo establecido en el procedimiento de operación correspondiente.
+
+> Se modifican los apartados 2 y 5 por los arts. 2.6 y 2.7 de la Orden IET/1752/2014, de 26 de septiembre. [Ref. BOE-A-2014-9867](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9867).
+
+> Se modifica por la disposición final 1.11 de la Orden ITC/1732/2010, de 28 de junio. [Ref. BOE-A-2010-10390](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10390).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 237, de 3 de octubre de 2007. [Ref. BOE-A-2007-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17279).
+
+### Disposición adicional primera. Aplicación del servicio de interrumpibilidad en los sistemas insulares y extrapeninsulares.
+
+1\. La Dirección General de Política Energética y Minas podrá autorizar condiciones específicas y requisitos de aplicación de la presente orden a los consumidores en los sistemas eléctricos insulares y extrapeninsulares.
+
+A estos efectos, el operador del sistema enviará antes del 1 de septiembre de cada año los valores adaptados para cada uno de estos sistemas eléctricos de la potencia a interrumpir en cada uno de los periodos horarios y para cada una de las órdenes de reducción de potencia a que se refiere el artículo 9 de la presente orden, con el fin de valorar el cumplimiento por parte de los solicitantes de los valores mínimos que resulten para cada uno de los sistemas en los que se ubican.
+
+2\. En el ámbito de aplicación de esta orden, para los sistemas insulares y extrapeninsulares las referencias acerca de la adquisición de energía en el mercado de producción deben entenderse como la participación en el despacho técnico de energía, de acuerdo con las condiciones y requisitos del Real Decreto 1747/2003, de 19 de diciembre, por el que se regulan los sistemas eléctricos insulares y extrapeninsulares.
+
+> Se modifica el segundo párrafo del apartado 1 por el art. 2.8 de la Orden IET/1752/2014, de 26 de septiembre. [Ref. BOE-A-2014-9867](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9867).
+
+> Se modifica por la disposición final 1.12 de la Orden ITC/1732/2010, de 28 de junio. [Ref. BOE-A-2010-10390](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10390).
+
+### Disposición adicional segunda. Modelo de contrato y procedimiento.
+
+La Dirección General de Política Energética y Minas aprobará el modelo de contrato del servicio de interrumpibilidad que se regula en los artículos anteriores, así como una propuesta de procedimiento del sistema de comunicación, ejecución y control de este servicio.
+
+A estos efectos el Operador del Sistema remitirá a la Dirección General de Política Energética y Minas en el plazo máximo de 15 días desde la publicación de la presente Orden, una propuesta tanto del modelo de contrato del servicio de gestión de interrumpibilidad en el mercado como del procedimiento del sistema de comunicación, ejecución y control del mismo.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 237, de 3 de octubre de 2007. [Ref. BOE-A-2007-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17279).
+
+### Disposición adicional tercera. Condiciones específicas para el proveedor del servicio de interrumpibilidad cuyo proceso productivo está asociado a una instalación de cogeneración.
+
+**(Suprimida).**
+
+> Se suprime por la disposición final 1.6 de la Orden ETU/1282/2017, de 22 de diciembre. [Ref. BOE-A-2017-15521](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15521)
+
+### Disposición adicional cuarta. Condiciones específicas para la aplicación del servicio de interrumpibilidad en el mercado.
+
+Los consumidores a quienes es de aplicación la presente orden, podrán solicitar a la Dirección General de Política Energética y Minas la aplicación de condiciones específicas de aplicación del servicio de interrumpibilidad en el mercado distintas a las establecidas con carácter general en la presente orden cuando dichas condiciones puedan suponer mejoras para la gestión del sistema en función de circunstancias específicas de generación, transporte y distribución.
+
+La Dirección General de Política Energética y Minas, previo informe del Operador del Sistema, podrá autorizar lo solicitado siempre que de dicha aplicación particular se derive un beneficio para el sistema eléctrico y la seguridad de suministro. En cualquier caso la adaptación de la retribución a las condiciones específicas de este servicio no podrá superar los límites establecidos con carácter general en esta orden para el servicio de interrumpibilidad.
+
+### Disposición adicional quinta. Realización de pruebas para la implantación de nuevos servicios de comunicaciones del sistema de comunicación, ejecución y control del servicio de interrumpibilidad
+
+Se habilita al operador del sistema a realizar las pruebas de carácter experimental que considere estrictamente necesarias con el fin de evaluar el funcionamiento de nuevos servicios de comunicaciones del sistema de comunicación, ejecución y control del servicio de interrumpibilidad.
+
+A estos efectos, el operador del sistema enviará a la Dirección General de Política Energética y Minas el listado de cada uno de los proveedores del servicio de gestión de la demanda de interrumpibilidad con contrato en vigor a los que esté previsto realizar dichas pruebas, y procederá a informar a dicha Dirección General sobre cada una de las pruebas que se realicen.
+
+Durante la realización de cada una de las pruebas, el Operador del Sistema podrá utilizar para la notificación de una orden de reducción de potencia, su cambio o anulación, los siguientes medios alternativos de comunicación, distintos del Protocolo de Comunicación:
+
+a) Fax. El proveedor del servicio indicará al Operador del Sistema un número de fax específico para este propósito.
+
+b) Correo electrónico. El proveedor del servicio indicará al Operador del Sistema una o varias direcciones de correo electrónico específicas para este propósito.
+
+c) Teléfono móvil: El proveedor del servicio indicará al Operador del Sistema uno o varios números de teléfono móvil para este propósito.
+
+El Operador del Sistema utilizará todos los medios alternativos de comunicación de los que disponga con cada proveedor del servicio, siempre que ello sea viable durante la operación en tiempo real.
+
+> Se añade por la disposición final 1.13 de la Orden ITC/1732/2010, de 28 de junio. [Ref. BOE-A-2010-10390](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10390).
+
+### Disposición transitoria primera. Aplicación del servicio de interrumpibilidad hasta el 31 de octubre de 2008.
+
+1\. La Dirección General de Política Energética y Minas podrá autorizar hasta el 31 de octubre de 2008 la aplicación de estos servicios una vez comenzada la temporada alta eléctrica (1 de noviembre de cada año) a aquellos consumidores que, cumpliendo los requisitos exigidos para la aplicación de los mismos en la presente Orden así lo soliciten y siempre que se trate de suministros que hubieran estado acogidos al sistema de interrumpibilidad en tarifa general o tarifa horaria de potencia con anterioridad a la entrada en vigor de la presente orden, estableciendo en la misma las condiciones de adaptación la retribución, quedando obligados a permanecer en el servicio que contraten hasta el 31 de octubre de 2008.
+
+En estos casos, el plazo para que el Operador del Sistema emita el informe que se establece en el artículo 10 y para que la Dirección General de Política Energética y Minas resuelva la solicitud conforme el artículo 11 será de 15 días. La certificación que ha de emitir el Operador del Sistema para el otorgamiento de la autorización administrativa, a que se hace referencia en el articulo 11.5, tendrá carácter provisional, estableciéndose un período de tres meses para la realización de las inspecciones que den lugar a la certificación definitiva.
+
+2\. El Operador del Sistema, procederá a la formalización del contrato en el plazo máximo de 5 días desde que el consumidor presente la autorización al citado Operador.
+
+3\. Para la aplicación de la presente disposición será requisito necesario que previamente se haya aprobado por la Dirección General de Política Energética y Minas el modelo de contrato del servicio de interrumpibilidad en el mercado, así como el procedimiento del sistema de comunicación, ejecución y control de este servicio, conforme se establece en la disposición adicional segunda.
+
+### Disposición transitoria segunda. Procedimientos de Operación.
+
+El operador del sistema, en el plazo de dos meses a partir de la publicación de la presente orden, presentará una propuesta de procedimiento de operación referente a la liquidación y facturación del servicio de interrumpibilidad a la Dirección General de Política Energética y Minas.
+
+En el mismo plazo presentará una propuesta de procedimiento de operación donde se defina la metodología para calcular la denominada «previsión de potencia disponible» a que se refiere el apartado 1 del artículo 5 y, además, se concreten los mecanismos de comunicación con los gestores de las redes de distribución, plazos de aviso, actuaciones y criterios de aceptación o rechazo a efectos de la aplicación de lo establecido en el apartado 3 del artículo 5.
+
+### Disposición final primera. Revisión de la norma.
+
+El Ministro de Industria, Turismo y Comercio, revisará cada cuatro años, previo informe del Operador del Sistema y de la Comisión Nacional de Energía, el mecanismo de gestión de la demanda regulado en esta orden para adaptarlo a las necesidades del sistema en cada momento.
+
+### Disposición final segunda. Ejecución y aplicación.
+
+La Dirección General de Política Energética y Minas dictará las resoluciones necesarias para la ejecución y aplicación de lo dispuesto en la presente orden.
+
+### Disposición final tercera. Entrada en vigor.
+
+Esta orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 26 de julio de 2007.–El Ministro de Industria, Turismo y Comercio, Joan Clos i Matheu.

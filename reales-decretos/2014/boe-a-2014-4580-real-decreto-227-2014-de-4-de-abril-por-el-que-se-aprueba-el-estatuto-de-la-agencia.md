@@ -1,0 +1,401 @@
+---
+title: "Real Decreto 227/2014, de 4 de abril, por el que se aprueba el Estatuto de la Agencia de Información y Control Alimentarios"
+identifier: "BOE-A-2014-4580"
+eli: "https://www.boe.es/eli/es/rd/2014/04/04/227"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda y Administraciones Públicas"
+date: 2014-04-04
+published: 2014-04-30
+in_force_from: 2014-05-01
+last_amended: 2026-06-12
+consolidated: 2026-06-17
+gazette: "Boletín Oficial del Estado núm. 105"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-4580"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 227/2014, de 4 de abril, por el que se aprueba el Estatuto de la Agencia de Información y Control Alimentarios
+
+Téngase en cuenta que las referencias hechas a la "Agencia de Información y Control Alimentarios" se entenderán hechas a la "Agencia de Información y Control Alimentarios, O.A", según establece la disposición adicional única del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+La Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria crea, en su disposición adicional primera, la Agencia de Información y Control Alimentarios, con naturaleza jurídica de organismo autónomo y con los fines de controlar el cumplimiento de las medidas que la citada ley dispone y gestionar los sistemas de información de los mercados oleícolas (aceite de oliva y aceituna de mesa) y lácteos y aquellos otros alimentos que, por su importancia estratégica, determine el Ministerio de Agricultura, Alimentación y Medio Ambiente porque incidan significativamente en la producción y comercialización agraria y alimentaria.
+
+La Agencia de Información y Control Alimentarios, procede de la modificación del organismo autónomo Agencia para el Aceite de Oliva, de la que es sucesora legal, conforme a los principios generales de funcionamiento de la Administración y a los criterios de austeridad en el gasto público. La Agencia de Información y Control Alimentarios asume además de las funciones que venía ejerciendo, aquellas nuevas relacionadas con el control del cumplimiento de lo dispuesto en dicha Ley.
+
+Aprobada la modificación de la Agencia conforme al artículo 63.1 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, procede dotarla de su nuevo Estatuto al que se refiere el artículo 62 de esa misma ley, estableciendo su contenido y aprobación por Real Decreto del Consejo de Ministros. Dicho Estatuto deberá estar aprobado y publicado con carácter previo a la entrada en funcionamiento efectivo de la nueva Agencia, teniendo en cuenta que la entrada en vigor de la Ley 12/2013, de 2 de agosto, por la que se creó, se producirá a los cinco meses de su publicación oficial.
+
+En consecuencia, el presente real decreto establece las disposiciones estatutarias para la Agencia de Información y Control Alimentarios por las que se regirá su organización y funcionamiento para el ejercicio de las funciones que la Disposición adicional primera de la Ley 12/2013, de 2 de agosto, vino a conferirla para la mejor consecución de sus fines. Dentro de los principios de austeridad en el gasto público, se adapta la composición de su Consejo Asesor a los nuevos requerimientos de representación exigidos por la modificación operada en los fines de la misma.
+
+Por otro lado, resulta necesario adaptar el Real Decreto 401/2012, de 17 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Agricultura, Alimentación y Medio Ambiente, al objeto de que recoja en el mismo la adscripción de la Agencia de Información y Control Alimentarios a la Secretaría General de Agricultura y Alimentación.
+
+En su virtud, a iniciativa del Ministro de Agricultura, Alimentación y Medio Ambiente, a propuesta del Ministro de Hacienda y Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 4 de abril de 2014,
+
+DISPONGO:
+
+## Artículo único. Aprobación del Estatuto de la Agencia de Información y Control Alimentarios.
+
+Se aprueba el Estatuto de la Agencia de Información y Control Alimentarios, cuyo texto se inserta a continuación.
+
+## Disposición adicional única. No incremento del gasto público.
+
+La aplicación de lo dispuesto en el presente real decreto no implicará incremento del gasto público, siendo asumidas las funciones y los gastos que se originen por la reasignación de los recursos humanos y medios materiales destinados al Ministerio de Agricultura, Alimentación y Medio Ambiente y sus organismos dependientes.
+
+## Disposición transitoria única. Régimen transitorio de personal.
+
+Las unidades y puestos de trabajo con nivel orgánico inferior a subdirección general cuyas funciones correspondían a la Agencia para el Aceite de Oliva, continuarán subsistentes y seguirán percibiendo sus retribuciones con cargo a los créditos a los que venían imputándose hasta que se aprueben las relaciones de puestos de trabajo adaptadas a la estructura orgánica y funciones que se establecen en este decreto y se proceda a las correspondientes adaptaciones presupuestarias.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto y, en particular, el Real Decreto 1065/1988, de 16 de septiembre, por el que se establece la estructura de la Agencia para el Aceite de Oliva.
+
+## Disposición final primera. Modificación del Real Decreto 401/2012, de 17 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+Se modifica el Real Decreto 401/2012, de 17 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Agricultura, Alimentación y Medio Ambiente, de la forma que a continuación se indica.
+
+Uno. El apartado 6 del artículo 7 se modifica y quedará redactado del siguiente modo:
+
+«6. Quedan adscritos al Ministerio de Agricultura, Alimentación y Medio Ambiente, a través de la Secretaría General de Agricultura y Alimentación, el Fondo de Garantía Agraria (FEGA) y la Agencia de Información y Control Alimentarios (AICA), con las funciones y estructuras actualmente vigentes.»
+
+Dos. El apartado 6 del artículo 12 se modifica y quedará redactado del siguiente modo:
+
+«6. Queda adscrita al Ministerio de Agricultura, Alimentación y Medio Ambiente, a través de la Subsecretaría, la Entidad Estatal de Seguros Agrarios (ENESA), cuya presidencia corresponde al Subsecretario, con las funciones y estructura actualmente vigentes.»
+
+## Disposición final segunda. Desarrollo y ejecución.
+
+Se autoriza al Ministro de Agricultura, Alimentación y Medio Ambiente para dictar las disposiciones necesarias para la aplicación y desarrollo de este real decreto.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor al día siguiente de su publicación.
+
+Dado en Madrid, el 4 de abril de 2014.
+
+JUAN CARLOS R.
+
+El Ministro de Hacienda y Administraciones Públicas,
+
+CRISTÓBAL MONTORO ROMERO
+
+## ESTATUTO DE LA AGENCIA DE INFORMACIÓN Y CONTROL ALIMENTARIOS
+
+## Artículo 1. Naturaleza jurídica y adscripción.
+
+1\. La Agencia de Información y Control Alimentarios, O. A., creada por la disposición adicional primera de la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria, es un organismo autónomo de los previstos en el artículo 98 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y está adscrita al Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente, a través de la Secretaría General de Agricultura y Alimentación.
+
+2\. La Agencia de Información y Control Alimentarios tiene personalidad jurídica pública diferenciada, con patrimonio y tesorería propios, así como autonomía de gestión y plena capacidad jurídica y de obrar y, dentro de la esfera de sus competencias, le corresponden las potestades administrativas necesarias para el cumplimiento de sus fines en los términos establecidos en este Estatuto.
+
+3\. La Agencia de Información y Control Alimentarios, O.A., se rige por la disposición adicional primera de la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria; por la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público; por la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; por la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014; por la Ley 47/2003, de 26 de noviembre, General Presupuestaria; por la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas; por las demás disposiciones que sean de aplicación a los organismos autónomos de la Administración General del Estado y por el presente Estatuto.
+
+4\. Corresponde al Ministerio de Agricultura, Pesca y Alimentación a través de la Secretaría General de Agricultura y Alimentación, la Presidencia del organismo, la dirección estratégica, la evaluación y el control de los resultados de su actividad, sin perjuicio de las competencias atribuidas a la Intervención General de la Administración del Estado en cuanto a la evaluación y control de los resultados de los organismos públicos integrantes del sector público.
+
+5\. La Agencia de Información y Control Alimentarios, O.A., estará sometida al control de eficacia y supervisión continua previsto en el artículo 85 de la Ley 40/2015, de 1 de octubre. El control de eficacia será ejercido por el Ministerio de Agricultura, Pesca y Alimentación, a través de la Inspección de Servicios, y tendrá por objeto evaluar el cumplimiento de los objetivos propios de la actividad específica del organismo y la adecuada utilización de los recursos, de acuerdo con lo establecido en su plan de actuación y sus actualizaciones anuales, sin perjuicio del control que de acuerdo con la Ley 47/2003, de 26 de noviembre, se ejerza por la Intervención General de la Administración del Estado.
+
+> Se modifican los apartados 3 y 4 y se añade el apartado 5 por el art. 1.1 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+> Se modifica el apartado 1 por la disposición final 14.1 del Real Decreto 895/2017, de 6 de octubre. [Ref. BOE-A-2017-11984](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-11984)
+
+## Artículo 2. Fines.
+
+1\. En el marco de la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria, los fines generales de la Agencia de Información y Control Alimentarios son:
+
+a) La gestión de los sistemas de información y control de los mercados oleícolas, lácteos, vinícolas y la de aquellos otros que se determinen reglamentariamente.
+
+b) El control del cumplimiento de lo dispuesto en la Ley de medidas para mejorar el funcionamiento de la cadena alimentaria.
+
+2\. Se entenderá como sistemas de información de los mercados a los efectos de este real decreto toda información relevante de los distintos aspectos o parámetros de los mercados que sistemáticamente se recogen, ordenan y analizan por las distintas unidades competentes del Ministerio de Agricultura, Alimentación y Medio Ambiente, en cumplimiento de sus obligaciones derivadas de la normativa en vigor. En el caso del sector oleícola, se considerará también como sistemas de información, seguimiento y análisis, el seguimiento y control de las existencias físicas, movimientos y cantidades comercializadas.
+
+> Se modifica la letra a) y se suprime la letra c) del apartado 1 por el art. 1.2 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+> Se añade la letra c) al apartado 1 por la disposición final 1.1 del Real Decreto 267/2017, de 17 de marzo. [Ref. BOE-A-2017-2991](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2991).
+
+## Artículo 3. Funciones.
+
+Para el cumplimiento de los fines recogidos en el artículo anterior, la Agencia desarrollará las siguientes funciones:
+
+a) Ejercer las competencias recogidas en la Ley 12/2013, de 2 de agosto, como autoridad de ejecución nacional prevista en el artículo 28, sin perjuicio de las competencias de las autoridades de ejecución designadas por las comunidades autónomas.
+
+b) Llevar a cabo las tareas necesarias como punto de contacto para la cooperación entre las autoridades de ejecución, así como con la Comisión Europea, en el ámbito de la Directiva (UE) 2019/633 del Parlamento Europeo y del Consejo, de 17 de abril de 2019, relativa a las prácticas comerciales desleales en las relaciones entre empresas en la cadena de suministro agrícola y alimentario.
+
+c) Establecer y desarrollar el régimen de control necesario para comprobar el cumplimiento de lo dispuesto en la Ley 12/2013, de 2 de agosto. En este ámbito, se podrá comprobar la documentación contractual, mercantil, técnica, económica y, en su caso, de licitaciones y cualquier otra documentación que pueda servir para probar el incumplimiento de lo establecido en la Ley 12/2013, de 2 de agosto; así como el origen, destino y características de las materias primas, los productos y subproductos afectados, incluso mediante toma de muestras y determinaciones analíticas, en cualquier fase de la cadena alimentaria.
+
+d) Realizar las comprobaciones que corresponda por posibles incumplimientos de lo dispuesto en la Ley 12/2013, de 2 de agosto y en particular ejercer las funciones previstas en el artículo 29 de la ley.
+
+e) Iniciar de oficio, conforme al artículo 58 de la Ley 39/2015, de 1 de octubre, el procedimiento sancionador que corresponda por incumplimientos de lo dispuesto en la Ley 12/2013, de 2 de agosto, y, tras la correspondiente instrucción, resolver, en el supuesto previsto en el artículo 26.3.a) de la Ley 12/2013, de 2 de agosto, o proponer a la autoridad competente la resolución que proceda o, en su caso, formular denuncia debidamente documentada ante la Comisión Nacional de los Mercados y la Competencia.
+
+f) Trasladar a las autoridades de ejecución competentes los hechos sobre los presuntos incumplimientos detectados en las actuaciones de control, acompañando la documentación necesaria sobre los hechos constatados y su valoración técnica y jurídica, de conformidad con lo establecido en al artículo 26 de la Ley 12/2013, de 2 de agosto.
+
+g) Gestionar y mantener los sistemas de información de los mercados oleícolas (aceites de oliva y aceitunas de mesa), vinícolas y lácteos.
+
+h) Iniciar e instruir, conforme a su propio régimen, los expedientes sancionadores por incumplimiento del pago de las aportaciones obligatorias a las organizaciones interprofesionales, reconocidas por el Ministerio de Agricultura, Pesca y Alimentación en los productos o sectores a que se refiere el apartado g), formulando a las autoridades competentes las propuestas de resolución que correspondan.
+
+i) Colaborar con el Observatorio de la Cadena Alimentaria en la realización de los trabajos, estudios e informes que, sobre los productos, mercados y sectores a que se refiere el apartado g), y que resulten necesarios para el ejercicio de las funciones que el Observatorio tiene encomendadas.
+
+j) Colaborar con organizaciones sectoriales, de productores e interprofesionales relacionadas con los productos, mercados o sectores incluidos en el apartado g), en el ámbito exclusivo de sus funciones.
+
+k) Establecer relaciones de colaboración con otros órganos de la Administración General del Estado y con las comunidades autónomas en materias de su competencia, sin menoscabo de las competencias de otros departamentos ministeriales.
+
+l) Elaborar un informe anual de las actividades realizadas por la Agencia.
+
+m) Realizar trabajos, estudios e informes en materias de su competencia, así como la difusión de los mismos.
+
+n) Ejercer las acciones contempladas en el artículo 32.1, 1.ª a 4.ª, de la Ley 3/1991, de 10 de enero, de Competencia Desleal, cuando resulten afectados los intereses de operadores de la cadena alimentaria.
+
+ñ) Gestión y mantenimiento del Registro de contratos alimentarios conforme al Real Decreto 1028/2022, de 20 de diciembre, por el que se desarrolla el Registro de Contratos Alimentarios.
+
+o) Las demás funciones que se le atribuyan legal o reglamentariamente para el cumplimiento de sus fines.
+
+Todas estas funciones serán desarrolladas por la Agencia de Información y Control Alimentarios, O.A., sin menoscabo de las competencias de otros órganos directivos del departamento y de otros departamentos ministeriales u otras Administraciones públicas.
+
+> Se modifica por el art. 1.3 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+> Se añade la letra ñ) por la disposición final 1.2 del Real Decreto 267/2017, de 17 de marzo. [Ref. BOE-A-2017-2991](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2991).
+
+## Artículo 4. Órganos de gobierno, ejecutivos y consultivos de la Agencia de Información y Control Alimentario, O.A.
+
+1\. Los órganos de gobierno de la Agencia de Información y Control Alimentarios, O.A. son la Presidencia y el Consejo Rector.
+
+2\. El órgano ejecutivo de la Agencia es la Dirección.
+
+3\. El órgano consultivo y de participación es el Consejo Asesor.
+
+> Se modifica por el art. 9.1 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica por el art. 1.4 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+## Artículo 4 bis. Presidencia.
+
+1\. La presidencia de la Agencia de Información y Control Alimentarios, O.A. corresponde a la persona titular de la Secretaría General de Recursos Agrarios y Seguridad Alimentaria.
+
+2\. Son funciones de la Presidencia:
+
+a) La alta dirección y la representación del organismo.
+
+b) Presidir el Consejo Rector, ordenando sus correspondientes convocatorias y fijando sus respectivos órdenes del día teniendo en cuenta las peticiones que formulen los miembros.
+
+c) Ejercer la máxima dirección del personal y los servicios del organismo.
+
+d) Elevar al Consejo Rector la propuesta de modificación de la estructura organizativa y de la relación de puestos de trabajo del organismo autónomo a que se refiere el artículo 7.
+
+e) Proponer al Consejo Rector la aprobación de la propuesta de Plan Anual de Actuación del Organismo Autónomo, el anteproyecto de presupuesto, la propuesta de la memoria de actividades y la propuesta de cuentas para su aprobación, así como remitirlas al Tribunal de Cuentas por conducto de la Intervención General de la Administración del Estado.
+
+f) Cualesquiera otras que le correspondan de acuerdo con la normativa vigente.
+
+3\. Los actos y resoluciones de la persona titular de la Presidencia agotan la vía administrativa en el ámbito de sus competencias. Contra tales actos y resoluciones cabrá interponer recurso ante el orden jurisdiccional contencioso-administrativo, sin perjuicio del recurso potestativo de reposición previsto en el artículo 123 de la Ley 39/2015, de 1 de octubre.
+
+> Se añade por el art. 9.2 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 4 ter. Composición del Consejo Rector.
+
+1\. El Consejo Rector estará integrado por los siguientes miembros.
+
+a) La persona titular de la Presidencia del Organismo.
+
+b) La Vicepresidencia, que la ostentará la persona titular de la Dirección del Organismo.
+
+c) Cuatro vocales, designados por la persona titular del Ministerio de Agricultura, Pesca y Alimentación, que deberán tener rango al menos de director general o asimilado, en representación, de la Dirección General de Alimentación, de la Dirección General de Producciones y Mercados Agrarios, de la Secretaría General Técnica y de la Dirección General de Servicios e Inspección del Ministerio de Agricultura, Pesca y Alimentación.
+
+d) El secretario del Consejo Rector será un funcionario del organismo autónomo Agencia de Información y Control Alimentarios, que desempeñe un puesto, al menos, de nivel 26, que será designado por el Director. Actuará con voz pero sin voto.
+
+2\. En caso de vacancia, ausencia, enfermedad u otra causa legal de los vocales y Secretario, se procederá a la designación de su suplente siguiendo los mismos criterios que para la designación de sus titulares.
+
+3\. La condición de miembro del Consejo Rector se perderá por cese en el cargo que determinó su nombramiento o por revocación del nombramiento.
+
+4\. Quien ejerza la presidencia podrá convocar a las reuniones del Consejo Rector a otro personal del organismo, por razones de su especialidad, que podrán asistir con voz, pero sin voto, a las reuniones de éste.
+
+5\. La creación y funcionamiento del Consejo Rector serán atendidos con los medios personales, técnicos y presupuestarios asignados al Organismo autónomo.
+
+> Se añade por el art. 9.3 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 4 quater. Funciones del Consejo Rector.
+
+1\. Corresponderán al Consejo Rector las siguientes funciones:
+
+a) El seguimiento, supervisión y control superiores de la actuación del organismo.
+
+b) La aprobación de la propuesta de planes de actuación a los que se refiere el artículo 85 de la Ley 40/2015, de 1 de octubre.
+
+c) La aprobación de la propuesta de objetivos y de los indicadores para la medición de su cumplimiento.
+
+d) La aprobación del anteproyecto de presupuestos y de las cuentas anuales del organismo.
+
+e) La elevación al órgano que corresponda de la propuesta de modificación de la estructura organizativa y de la relación de puestos de trabajo del organismo a que se refiere el artículo 7.
+
+f) La aprobación de la memoria anual y los informes de actividad.
+
+g) Ejercer las restantes atribuciones que le confiera el ordenamiento jurídico.
+
+2\. Los actos y resoluciones del Consejo Rector ponen fin a la vía administrativa. Contra tales actos y resoluciones cabrá interponer recurso ante el orden jurisdiccional contencioso-administrativo, sin perjuicio del recurso potestativo de reposición previsto en el artículo 123 de la ley 39/2015, de 1 de octubre.
+
+> Se añade por el art. 9.4 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 5. El Director.
+
+El Director de la Agencia de Información y Control Alimentarios, O.A., con rango de Subdirector General, es el órgano ejecutivo del Organismo y le corresponde ejercer las siguientes funciones:
+
+a) Dirigir y representar a la Agencia, en los términos previstos en la legislación vigente.
+
+b) Formular las propuestas de disposiciones en materias propias de la Agencia y participar en la elaboración de las que puedan afectar al organismo.
+
+c) Dirigir y coordinar sus actividades, aprobar los planes de actuación y los procedimientos de trabajo para el mejor desarrollo de las funciones y el cumplimiento de los fines que la Agencia tiene encomendados.
+
+d) **(Suprimida)**
+
+e) Promover y difundir el informe anual de las actuaciones realizadas y de los resultados alcanzados.
+
+f) Dirigir el personal y los servicios, formular la propuesta de la relación de puestos de trabajo y la de sus modificaciones, realizar los nombramientos y los ceses, evaluar el desempeño del personal y el funcionamiento de los servicios y aplicar el régimen disciplinario.
+
+g) Acreditar a los inspectores y ordenar las inspecciones necesarias para el cumplimiento de los fines de la Agencia.
+
+h) Formular el anteproyecto de presupuesto anual de gastos e ingresos de la Agencia y proponer las modificaciones precisas, aprobar los gastos y ordenar los pagos.
+
+i) Ejercer sus funciones como órgano de contratación; celebrar toda clase de actos, contratos y convenios con entidades públicas o privadas, que sean necesarios para el cumplimiento de sus fines.
+
+j) Aprobar las cuentas anuales del organismo y rendirlas al Tribunal de Cuentas por conducto de la Intervención General de la Administración General del Estado.
+
+k) Difundir los resultados generados por el sistema de información de mercados.
+
+l) El ejercicio de la potestad sancionadora en los casos y en los términos que atribuye a la Agencia la Ley 12/2013, de 2 de agosto. Con el fin de establecer la debida separación entre la fase instructora y la sancionadora en los procedimientos por infracciones recogidas en la Ley 12/2013, de 2 de agosto, cuya resolución sea competencia del Director de la Agencia de Información y Control Alimentarios, O.A.; corresponderá a éste, en todos los casos, acordar la iniciación del procedimiento, así como la designación de una persona como órgano instructor del procedimiento sancionador, entre los funcionarios del Organismo Autónomo.
+
+m) Desempeñar cuantas otras funciones le sean expresamente encomendadas o delegadas por norma legal o reglamentaria.
+
+n) Colaborar con el Observatorio de la Cadena Alimentaria en la realización de los trabajos, estudios e informes.
+
+ñ) Dictar los actos de gestión para la recaudación de los importes de las sanciones que se impongan por infracciones tipificadas en la Ley 12/2013, de 2 de agosto, que sean competencia de la Agencia.
+
+o) Resolver los expedientes sancionadores, en los supuestos contemplados en el artículo 26 de la Ley 12/2013, de 2 de agosto.
+
+p) Acordar la declaración de confidencialidad de la información obrante en los expedientes sancionadores, cuando sea preciso para garantizar la protección del denunciante, de conformidad con lo dispuesto en el artículo 29 de la Ley 12/2013, de 2 de agosto, y cuando deban ser declarados confidenciales los secretos comerciales de otros interesados o terceros, así como de cualquier otra información confidencial que pudiera figurar en el expediente.
+
+q) Convocar y presidir las reuniones del Comité de cooperación de las autoridades de ejecución previsto en el apartado 4 del artículo 28 de la Ley 12/2013, de 2 de agosto.
+
+> Se suprime la letra d), se modifican el párrafo primero, las letras l) y ñ) y se añaden las letras o), p) y q) por el art. 1.5 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+> Se modifica la letra l) por la disposición final 14.2 del Real Decreto 895/2017, de 6 de octubre. [Ref. BOE-A-2017-11984](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-11984)
+
+> Se añade la letra ñ) por la disposición final 1.3 del Real Decreto 267/2017, de 17 de marzo. [Ref. BOE-A-2017-2991](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2991).
+
+## Artículo 6. El Consejo Asesor.
+
+1\. El Consejo Asesor es el órgano consultivo y de participación de la Agencia, en el que se integran representantes de la Administración General del Estado, de las Comunidades Autónomas, de la producción y la transformación de los sectores alimentarios que estén interesados y de la distribución y los consumidores. El número máximo de miembros será de sesenta.
+
+2\. El Consejo Asesor estará constituido por los siguientes miembros:
+
+a) El Presidente, el Secretario General de Agricultura y Alimentación.
+
+b) El Vicepresidente, el Director General de la Industria Alimentaria, que en caso de vacante, ausencia o enfermedad, será sustituido por el Director de la Agencia.
+
+c) Los siguientes Vocales:
+
+– El Director de la Agencia.
+
+– Cinco representantes, con rango de Subdirector General, del Ministerio de Agricultura, Alimentación y Medio Ambiente, a propuesta del Subsecretario, Secretario General de Pesca; del Director General de Producciones y Mercados Agrarios; del Presidente del FEGA y del Director General de la Industria Alimentaria, respectivamente.
+
+– Dos representantes, con rango de Subdirector General, del Ministerio de Economía y Competitividad.
+
+– Un representante, con rango de Subdirector General, del Ministerio de Hacienda y Administraciones Públicas.
+
+– Un representante, con rango de Subdirector General, de la Agencia Española de Consumo, Seguridad Alimentaria y Nutrición (AECOSAN).
+
+– Un representante de la Comisión Nacional de los Mercados y de la Competencia.
+
+– Un representante de la autoridad de ejecución designada por cada comunidad autónoma, que podrá ser su titular o el suplente que hubiera designado.
+
+– Nueve representantes de las organizaciones de ámbito estatal de las industrias de alimentación y bebidas, entre los cuales se asegurará la presencia de las organizaciones que representen los intereses de los diferentes tipos de operadores industriales de los sectores o mercados a que hace referencia la letra g) del artículo 3 de este Estatuto.
+
+– Un vocal por cada una de las organizaciones profesionales agrarias declaradas más representativas en el ámbito estatal, entre los cuales se asegurará la presencia de las organizaciones que representen los intereses de los sectores o mercados a que hace referencia la letra g) del artículo 3 de este estatuto.
+
+– Tres representantes de las cooperativas agroalimentarias, entre los cuales se asegurará la presencia de las organizaciones que representen los intereses de los sectores o mercados a que hace referencia la letra g) del artículo 3 de este Estatuto.
+
+– Seis representantes de las asociaciones de ámbito estatal de la distribución alimentaria, mayorista y minorista.
+
+– Dos representantes del Consejo de Consumidores y Usuarios.
+
+d) El Secretario del Consejo Asesor, un funcionario de la Agencia que a los efectos designará el Director. Actuará, con voz pero sin voto.
+
+3\. Los Vocales serán designados por el Presidente, a propuesta de aquellos a quienes vayan a representar.
+
+4\. A las sesiones del Consejo Asesor podrán asistir para informar o asesorar sobre asuntos determinados, aquellos funcionarios, asociaciones o expertos independientes que sean convocados. Podrán asistir como invitados a las reuniones del Consejo Asesor las organizaciones interprofesionales láctea, del aceite de oliva, de la aceituna de mesa, del vino y la Fundación Patrimonio Comunal Olivarero.
+
+5\. Corresponde al Consejo Asesor:
+
+a) Ser informado de los planes de actuación de la Agencia, de su ejecución y de los resultados alcanzados, así como de los medios de que disponga para realizarlos.
+
+b) Ser informado de la marcha del Registro Estatal de Buenas Prácticas Mercantiles en la Contratación Alimentaria.
+
+c) Conocer el informe anual de actuaciones de la Agencia con carácter previo a su difusión.
+
+d) **(Suprimida)**
+
+e) Conocer e informar los asuntos que el Presidente someta a su consideración.
+
+6\. El Consejo Asesor se reunirá en pleno, al menos, una vez al año. En su seno podrán constituirse grupos de trabajo, especializados o sectoriales, que, presididos y convocados por el Director de la Agencia de Información y Control Alimentarios, O.A., se reunirán cuando sea necesario. En todo caso, para los grupos de trabajo sectoriales (aceite de oliva, aceituna de mesa, lácteo y vinícola) se garantizará la presencia de todas las asociaciones representativas de los intereses de cada sector. El número máximo de miembros de cada uno de los grupos de trabajo, incluyendo a los expertos independientes e invitados, será de 30.
+
+7\. El funcionamiento del Consejo Asesor no supondrá incremento del gasto público y será atendido con los medios materiales y de personal existentes en la Secretaría General de Agricultura y Alimentación del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+8\. Los gastos en concepto de indemnizaciones por razón del servicio, dietas y desplazamientos que se originen por la participación de reuniones de los integrantes e invitados del Consejo Asesor serán por cuenta de las respectivas Administraciones de origen y de las organizaciones a las que representan.
+
+9\. En su funcionamiento y régimen de acuerdos, el Consejo Asesor se regirá por lo dispuesto para los órganos colegiados en la Ley 40/2015, de 1 de octubre.
+
+> Se modifica la letra c) del apartado 2 por la disposición final 8 de la Ley 1/2025, de 1 de abril. [Ref. BOE-A-2025-6597](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6597)
+
+> Se suprime la letra d) del apartado 5 y se modifican los apartados 2.c), 4, 6 y 9 por el art. 1.6 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+## Artículo 7. Estructura básica.
+
+1\. La Agencia de Información y Control Alimentarios, para desarrollar las funciones encomendadas, contará con las unidades que se establezcan en la relación de puestos de trabajo del organismo.
+
+El nivel de estas unidades, que dependerán del Director de la Agencia, será el que se establezca en la relación de puestos de trabajo del organismo.
+
+2\. La Intervención Delegada se adscribe al Director de la Agencia sin perjuicio de la dependencia orgánica y funcional de la Intervención General del Estado, de acuerdo con su normativa específica.
+
+3\. La Abogacía del Estado se adscribe al Director de la Agencia, sin perjuicio de su dependencia orgánica y funcional de la Abogacía General del Estado, de acuerdo con lo dispuesto en la Ley 52/1997, de 27 de noviembre, de Asistencia Jurídica al Estado e Instituciones Públicas.
+
+## Artículo 8. Régimen de personal.
+
+El personal funcionario y laboral de la Agencia se regirá por la normativa sobre función pública y legislación laboral aplicable al resto del personal de la Administración General del Estado.
+
+Para la provisión de puestos de trabajo mediante el sistema de libre designación se actuará según el Acuerdo del Consejo de Ministros de 9 de diciembre de 2020, por el que se aprueba el III Plan para la igualdad de género en la Administración General del Estado y en los Organismos Públicos vinculados o dependientes de ella, o el que se encuentre en vigor en el momento de la convocatoria.
+
+Los funcionarios de la Agencia de Información y Control Alimentarios que estén debidamente acreditados por su Director, realizarán las inspecciones a las entidades y operadores que les ordene, en aplicación de la Disposición adicional primera de la Ley 12/2013, de 2 de agosto, para cuyo ejercicio contarán con las facultades que en ella se les confiere.
+
+> Se modifica el segundo párrafo por el art. 1.7 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+## Artículo 9. Recursos económicos y patrimonio.
+
+1\. Los bienes y medios económicos de la Agencia de Información y Control Alimentarios son los siguientes:
+
+a) Los bienes y valores que constituyan su patrimonio, así como los productos y rentas del mismo.
+
+b) Las transferencias y subvenciones que anualmente se consignen en los presupuestos Generales del Estado.
+
+c) Las tasas, los ingresos de derecho público o privado que le correspondan y, en particular, los que procedan del desarrollo de las actividades relacionadas con las funciones de la Agencia, incluido el importe de las sanciones que se impongan por el Director de la Agencia por infracciones en materia de contratación alimentaria, en el ejercicio de la competencia recogida en el artículo 26 de la Ley 12/2013, de 2 de agosto.
+
+d) Las subvenciones, remanentes, aportaciones voluntarias o donaciones que se hagan a su favor por personas o entidades privadas.
+
+e) Cualquier otro recurso económico, ordinario o extraordinario, que esté legalmente autorizado a percibir.
+
+2\. El régimen económico patrimonial será el establecido en la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+
+> Se modifican los apartados 1.c) y 2 por el art. 1.8 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+## Artículo 10. Régimen de contratación.
+
+El régimen jurídico aplicable a la contratación en la Agencia de Información y Control Alimentarios, O.A., será el establecido para las Administraciones Públicas en la Ley 9/2017, de 8 de noviembre.
+
+> Se modifica por el art. 1.9 del Real Decreto 368/2023, de 16 de mayo. [Ref. BOE-A-2023-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11643)
+
+## Artículo 11. Régimen económico-financiero.
+
+El régimen presupuestario, económico-financiero, de control interno y contabilidad será el establecido en la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+La Agencia de información y Control Alimentarios estará sometida al control interno de su gestión económica-financiera, que llevará a cabo la Intervención General de la Administración del Estado, a través de la Intervención Delegada que existirá en la citada Agencia.
+
+## Artículo 12. Impugnación y reclamaciones contra los actos de la Agencia.
+
+Los actos y resoluciones de la Dirección de la Agencia no ponen fin a la vía administrativa, salvo en materia de personal, y contra los mismos se podrá interponer recurso de alzada ante la Presidencia de la Agencia.
+
+> Se modifica por el art. 9.5 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)

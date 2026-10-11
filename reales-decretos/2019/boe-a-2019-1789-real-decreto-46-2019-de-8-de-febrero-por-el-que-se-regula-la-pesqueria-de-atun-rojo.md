@@ -1,0 +1,708 @@
+---
+title: "Real Decreto 46/2019, de 8 de febrero, por el que se regula la pesquería de atún rojo en el Atlántico Oriental y el Mediterráneo"
+identifier: "BOE-A-2019-1789"
+eli: "https://www.boe.es/eli/es/rd/2019/02/08/46"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2019-02-08
+published: 2019-02-09
+in_force_from: 2019-02-10
+last_amended: 2026-05-01
+consolidated: 2026-05-04
+gazette: "Boletín Oficial del Estado núm. 35"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2019-1789"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 46/2019, de 8 de febrero, por el que se regula la pesquería de atún rojo en el Atlántico Oriental y el Mediterráneo
+
+El Real Decreto 71/1998, de 23 de enero, por el que se regula el ejercicio de la pesca de túnidos y especies afines en el Mediterráneo, contiene la regulación del atún rojo (*Thunnus thynnus*) y las medidas de gestión de esta pesquería en el mar Mediterráneo.
+
+Dicha regulación se completó con la Orden APM/264/2017, de 23 de marzo, por la que se regula la pesquería de atún rojo en el Atlántico Oriental y Mediterráneo.
+
+La Comisión Internacional para la Conservación del Atún Atlántico (CICAA) es la responsable de establecer las normas para el ejercicio de la pesquería de atún rojo en el ámbito internacional.
+
+Por su parte, el Reglamento (UE) n.º 2016/1627 del Parlamento Europeo y el Consejo, de 14 de septiembre de 2016, relativo a un plan de recuperación plurianual para el atún rojo del Atlántico oriental y el Mediterráneo y por el que se deroga el Reglamento (CE) n.º 302/2009 del Consejo, establece los principios generales de aplicación por la Unión Europea de este plan establecido por la CICAA.
+
+Adicionalmente, el Reglamento (CE) n.º 1380/2013 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, sobre la política pesquera común, por el que se modifican los Reglamentos (CE) n.º 1954/2003 y (CE) n.º 1224/2009 del Consejo, y se derogan los Reglamentos (CE) n.º 2371/2002 y (CE) n.º 639/2004 del Consejo y la Decisión 2004/585/CE del Consejo, tiene como objetivo fundamental garantizar que las actividades de la pesca y la acuicultura sean sostenibles ambientalmente a largo plazo y se gestionen de forma coherente con los objetivos de generar beneficios económicos, sociales y de empleo, y de contribuir a la disponibilidad de productos alimenticios. Para ello, dispone de instrumentos de gestión como la fijación de posibilidades de pesca asignadas a los Estados miembros, que garantizarán la estabilidad relativa de cada uno de ellos en relación con cada población de peces o pesquería.
+
+Igualmente, este reglamento fija las medidas de conservación y explotación sostenible de los recursos biológicos marinos que podrán establecerse para alcanzar el objetivo fundamental de la Política Pesquera Común. En concreto, el artículo 7.1.b) permite el establecimiento de objetivos para la conservación y la explotación sostenible de las poblaciones y las medidas conexas para minimizar la repercusión de la pesca en el medio marino, mientras que el artículo 7.1.j) permite adoptar diversas medidas técnicas, entre las que se encuentran las vedas zonales o temporales, a efectos de conservación.
+
+La situación biológica de la población de atún rojo hizo necesario adoptar un Plan de Recuperación en 2006, que ha sido modificado en varias ocasiones y entre cuyas medidas destacan la obligación de que cada Estado miembro elabore un plan de pesca anual para las almadrabas y los buques que capturen atún rojo, asignación y adecuación de las posibilidades de pesca a la capacidad existente, restricciones en las épocas autorizadas de pesca, tallas mínimas, puertos autorizados y otras medidas de control. Asimismo, esta norma recoge la obligación de asignar una cuota específica para la pesca de recreo y deportiva.
+
+Teniendo en cuenta los últimos informes científicos emitidos por el Comité Permanente de Investigación y Estadísticas de la CICAA que indican signos de recuperación de esta población, en su reunión de 2017 la CICAA adoptó la Recomendación 2017/07 para enmendar la Recomendación 14-04 de la CICAA sobre el atún rojo en el Atlántico este y Mediterráneo. Esta modificación establece un Total Admisible de Capturas (TAC) para 2018 de 28.200 toneladas, en 2019, 32.240 toneladas y en 2020, 36.000 toneladas.
+
+Por ello, mediante el presente real decreto se recoge, dentro de la normativa interna española, las nuevas medidas emanadas de CICAA y se revisan los procedimientos establecidos hasta el momento para la asignación de cuotas y la transmisión de las posibilidades de pesca, de modo que permita a las flotas que se vieron afectadas por las diferentes medidas restrictivas en el pasado reducir sus capturas e incluso abandonar la actividad. Así, se integra en un único instrumento jurídico las disposiciones relativas al atún rojo del Real Decreto 71/1998, de 23 de enero, que ahora se derogan, junto con el contenido de la Orden APM/264/2017, de 23 de marzo, que se deroga en su totalidad, lo que se complementa con las disposiciones del Reglamento UE) n.º 2016/1627 del Parlamento Europeo y el Consejo, de 14 de septiembre de 2016, de directa aplicación.
+
+Del mismo modo, la Recomendación CICAA 2017/09, para facilitar la aplicación del programa electrónico de documentación de capturas de atún rojo (sistema eBCD, en sus siglas en lengua inglesa: Electronic Bluefin Tuna Catch Document Programme), recoge las normas específicas sobre la documentación que debe acompañar a las capturas realizadas de esta especie con el fin de identificar el origen de cualquier atún rojo para respaldar la ejecución de las medidas de conservación y ordenación recogidas en el Plan de Recuperación plurianual. Para dar cumplimiento a esta obligación es aplicable el Reglamento (UE) n.º 640/2010 del Parlamento Europeo y del Consejo, de 7 de julio de 2010, por el que se establece un programa de documentación de capturas de atún rojo (*Thunnus**thynnus*) y se modifica el Reglamento (CE) n.º 1984/2003 del Consejo.
+
+En nuestro Derecho interno, la Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado, regula en el capítulo IV del título I la gestión de las actividades pesqueras, estableciendo los requisitos generales para el ejercicio de la actividad pesquera y permitiendo la creación de censos específicos para la gestión y distribución de las posibilidades de pesca.
+
+En concreto, el artículo 27 de la Ley 3/2001, de 26 de marzo, establece como medida de gestión de la actividad pesquera, que el Ministro de Agricultura, Pesca y Alimentación podrá disponer la distribución de las posibilidades de pesca entre buques o grupos de buques habituales en una pesquería, al objeto de mejorar la gestión y el control de la actividad pesquera.
+
+Por otra parte, el artículo 31 de la citada ley dispone que, para la gestión de las posibilidades de pesca, el Ministerio de Agricultura, Pesca y Alimentación, previa consulta al sector afectado y a las comunidades autónomas implicadas, podrá regular planes de pesca para determinadas zonas o pesquerías que contemplen medidas específicas y singulares, cuya excepcionalidad respecto a la normativa general venga justificada en función del estado de los recursos, previo informe del Instituto Español de Oceanografía.
+
+Hasta 2017 la distribución de las posibilidades de pesca se había efectuado de acuerdo con los criterios que recogen el artículo 27 de la ley en sus apartados 3 (historicidad, características técnicas y demás parámetros) y 4 (modulación socioeconómica), en consonancia con el artículo 8 del Reglamento (UE) n.º 2016/1627 del Parlamento Europeo y el Consejo, de 14 de septiembre de 2016, en relación con el artículo 17 del Reglamento (CE) n.º 1380/2013 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013.
+
+El reparto de la cuota española, dentro del marco de un plan de recuperación y por tanto, en un entorno de restricción que ahora desaparece, se asignó en su mayoría a las flotas que presentaban una mayor dependencia de la especie, a saber: flota de cebo vivo del Cantábrico, flota del Caladero Cantábrico Noroeste, flota de cañas y líneas de mano del Estrecho, flotas de palangre y línea de mano del Mediterráneo, flota de cerco del Mediterráneo y las Almadrabas.
+
+Las demás flotas que habían tenido acceso libre al recurso en los años anteriores a 1998 se han ido integrando mediante diferentes modificaciones a lo largo de los últimos años y según se recuperaba la biomasa de atún rojo y se flexibilizaban las medidas en el plan de recuperación.
+
+Estas flotas que no se incluyeron en el primer reparto de cuota fueron la flota con base en Canarias, la flota de artesanales del Mediterráneo y la flota artesanal del Estrecho de captura limitada, que disfrutaron de cuotas complementarias a las procedentes del fondo de maniobra que se arbitró mediante al artículo 5 de la Orden APM/264/2017, de 23 de marzo, por la que se regula la pesquería de atún rojo en el Atlántico Oriental y Mediterráneo.
+
+Con la recuperación de la población y dado que los niveles de captura potenciales se han establecido en el horizonte próximo en cantidades superiores a las que se usaron en el primer reparto, es necesario buscar un reequilibrio en las cuotas asignadas a las flotas que no participaron como flotas de actividad dirigida en el primer reparto, a pesar de haber tenido habitualidad en el pasado, y las flotas que presentaban una alta dependencia y que sí participaron en aquel primer reparto.
+
+Esta integración debe mantener la estabilidad relativa entre las flotas clásicas para no romper el deseable equilibrio entre ellas. Por ello, se aplica el criterio basado en la actividad pesquera desarrollada históricamente integrado en el artículo 27.3 a) de la Ley 3/2001, de 26 de marzo, que requiere conocer las cantidades que capturaban de media las flotas afectadas en el transcurso del plan de recuperación de la CICAA.
+
+Para aplicar este criterio, la Administración se encuentra ante una serie de dificultades a la hora de establecer un período de referencia para el cómputo de capturas ya que los cambios relatados con anterioridad dieron lugar a que exista una gran oscilación en las capturas de cada una de las flotas. Tampoco existe un periodo uniforme en el que hayan estado todas estas flotas faenando al mismo tiempo, por lo que no es posible disponer de años más o menos homogéneos. Por ello, se ha optado por buscar una referencia histórica en los años en que cada uno de aquellos sectores no tenía restricción en su acceso a la pesquería para reflejar mejor su verdadera actividad y captura.
+
+Para ese fin y dado que en la base de datos de la Secretaría General de Pesca no hay una información completa de la actividad de esas flotas en años en los que no existía una obligación de declaración de capturas para flotas en su mayoría de tipo artesanal, se ha recurrido a la base de datos de la CICAA. Esta base fue elaborada con la información disponible en el Instituto Español de Oceanografía en el seguimiento de las pesquerías de túnidos en periodos en los que, como se ha señalado, la obligación de declaración de capturas no afectaba a la mayoría de los buques en cuestión. Por ello, aunque los datos disponibles no reflejen la actividad individual de buques concretos sí son una fuente segura de la actividad realizada por las flotas que fueron objeto de seguimiento.
+
+Con base en los datos recopilados entre los años 1965 y 1981, se ha establecido que la flota con base en Canarias capturó una media de 514,18 toneladas, bajando a partir de entonces sus capturas como consecuencia del descenso en la presencia del atún al haberse ya iniciado la reducción de la biomasa. Estas toneladas son las que se corresponderían con los buques originarios de las Islas tras descontar las posibles cantidades capturadas por los buques de la Península que pescaron en el archipiélago en los años 60 y 70.
+
+Por su parte, en la base de datos de la CICAA figura como media de capturas de las flotas de línea de mano en el Mediterráneo desde 1983 hasta 1998 una cantidad de 199 toneladas, año en que comienzan las restricciones de la CICAA y de la normativa española. Estas capturas son las que podrían ser atribuibles a la flota de tipo artesanal y que encontraba en aquellos años un complemento a su actividad principal en la captura de esta especie.
+
+Por otro lado, para las flotas de línea de mano en el Estrecho, dado que sus capturas no aparecen diferenciadas en la citada base de datos de la CICAA de aquéllas que se asignaron a la flota de cañas y líneas de mano del Estrecho incluida en el primer reparto, es necesario recurrir a la captura media de los buques que han realizado actividad en los años en que han estado autorizados a pescar, es decir de 2010 a 2016 y tras multiplicar esa cantidad por el número de unidades que han sido autorizados en 2017, lo que nos arroja un valor de 59 toneladas.
+
+Asimismo, hay que volver a integrar en el sistema a los buques de palangre de superficie como flota con posibilidades de retener sus potenciales capturas accidentales de atún rojo en su actividad dirigida al pez espada y al tiburón azul. Las capturas anotadas en la base de datos de la CICAA para los años en los que no existía limitación para su retención han variado desde un máximo de 104 toneladas en 1982 a muchos años sin captura alguna. Parte de esas capturas de los años 80 lo fueron en captura dirigida a túnidos en aguas del Atlántico y por tanto no capturas accidentales en las pesquerías dirigidas a pez espada o tiburones.
+
+Desde la publicación de la Orden de 17 de febrero de 1998, por la que se regula la pesca de túnidos en el océano Atlántico al norte de 36º Norte, no es posible armar palangres de superficie que tengan como objetivo la captura de ningún tipo de atún en esa zona y, por tanto, la referencia a las potenciales captura de forma fortuita en la actividad dirigida a otras especies en esta flota del censo de palangre de superficie hay que buscarlas en las existentes en el periodo 1998 a 2007, momento a partir del cual se limitó su acceso al recurso en función del plan de Recuperación de la CICAA y la Orden ARM/1244/2008, de 29 de abril, por la que se regula la pesquería de atún rojo en Atlántico Oriental y Mediterráneo. La media en esos años para el palangre de superficie bajo pabellón español en aguas del Atlántico Este fue de 6 toneladas. Dado que en el presente real decreto esta flota se va a caracterizar como de pesca fortuita, se considera conveniente unir sus cuotas a las 5 toneladas que se asignaron en 2017 a la flota de curricán de la Costera del bonito del norte (*Thunnus alalunga*), de manera que ambas flotas puedan hacer uso conjunta e indistintamente de esa cantidad.
+
+Por último, cabe señalar que existe una sola almadraba en el Mediterráneo que se dedica como actividad principal a la captura de túnidos menores y captura de forma accidental atún rojo que, en los años previos al primer reparto capturaba hasta 1.500 kilos de atún rojo, por lo que fue incluida en aquel momento en el censo. En la actualidad no se le atribuye cuota pero debe contar con cierta cantidad para sus capturas accidentales. Por ello, se debe acrecentar la cantidad para la lista e) de almadrabas para incluir esa cantidad.
+
+Conviene además detraer de la cuota española una cierta cantidad que se va a reservar en el caso de que se sobrepase la cuota y para capturas no deseadas y cuya cantidad se fija en el 0,4 % del total. De ese modo, se suprime el fondo de maniobra y se reserva una mera cantidad de escasa entidad pero que se estima suficiente para cubrir los posibles excesos de pesca que no puedan ser deducidos de las flotas correspondientes o las posibles capturas de otras flotas, que deberán ser decomisadas pero contabilizan con cargo a la cuota española.
+
+Una vez conocidas las cantidades históricas capturadas por esas flotas que quedaron relegadas en el año inicial como consecuencia del descenso en la abundancia de la especie y de la aplicación de medidas restrictivas de la CICAA, restaba determinar qué proporción había de tener cada una respecto de la cuota española. Por ello han de referenciarse esas cantidades a la cifra más razonable que ha de disponer el Reino de España en el futuro.
+
+Dado que las primeras medidas restrictivas en las pesquerías del atún rojo se aplicaron a mediados de los 90 y se tomó como referencia la captura de los años 1993 y 1994 para la fijación de la cuota correspondiente a nuestro país, es esa misma referencia la que debería dictar la cantidad sobre la que se debería fijar su porcentaje. Es por esto que se deben referenciar las citadas cantidades al momento en que la cuota española fue usada para fijar la participación del país en el sistema de TAC de la CICAA, y que fue de 6.487 toneladas de media entre los años 1993 y 1994. Esta cifra es muy similar a los máximos capturados por España en los años más recientes de la serie histórica y una cantidad que es más que probable como objetivo a largo plazo para la cuota española.
+
+No en vano, la CICAA acordó en su reunión anual de 2017 fijar como objetivo para 2020 un TAC global de 36.000 toneladas, lo que va a suponer para España una cuota superior a las 6.000 toneladas.
+
+Al consignar las cantidades indicadas en los párrafos anteriores para esa captura objetivo se obtiene un 12,4499 % de la cuota global que puede asignarse, como hace este real decreto, a las flotas diferentes de las que se han dado en considerar como clásicas.
+
+Esta asignación supone mantener un correlativo 87,1501 % de la cuota en las flotas que dependen de forma significativa del atún rojo al tiempo que se concede una cuota a las demás flotas que vieron mermado su acceso a la pesquería a medida que se deterioraba el estado del recurso y se establecían medidas cada vez más restrictivas, en la proporción equilibrada y acorde a los criterios mencionados en los párrafos anteriores.
+
+Por todo lo anterior, este real decreto en un primer nivel detrae de la cuota total asignada al Reino de España el 0,4 % para los casos en que se pudiera sobrepasar la cuota y para las potenciales capturas accidentales de otras flotas distintas de las contempladas en esta norma.
+
+A continuación, se empleará un 87,1501 % para su reparto entre los buques que han estado incluidos desde 2008 como flota de pesca dirigida en los porcentajes indicados en el artículo 4, en virtud de los criterios que se han venido usando desde el primer reparto, atribuyendo un 60 % del peso del reparto a criterios históricos, técnicos y de caracterización del buque y el 40 % restante a los criterios socioeconómicos y de empleo generado de forma directa en cada sector, teniendo, al propio tiempo, en cuenta que no hay una diferencia significativa en los criterios medioambientales que permita asignar cuotas diferenciadas por este concepto. A esta cantidad hay que añadir el 0,0231 % que se debe adicionar a las almadrabas para reintegrar a la citada almadraba de pequeños pelágicos al sistema de pesca dirigida previsto en la norma reguladora de esta pesquería, por lo que la cantidad final para este conjunto será de 87,1732 % de la cuota española.
+
+Una vez se ha concluido tal operación, se procederá al reparto entre buques individuales de acuerdo con lo que fijen las respectivas resoluciones en aplicación de los criterios contenidos en el artículo 4.1.
+
+De la cantidad restante, un 11,6995 % se repartirá de forma proporcional a las capturas históricas antes reseñadas a las flotas siguientes: flota con base en los puertos canarios, flota artes menores del Mediterráneo, flota de artes menores del Estrecho, cuyas capturas se han computado hasta ahora como pesquerías accidentales.
+
+El 0,7273 % que resta para completar la cuota total se reserva para las flotas de palangre de superficie y de curricán al atún blanco en la costera del bonito y la flota de recreo.
+
+Conviene considerar, asimismo, las circunstancias de la pesquería de atún rojo, dentro de las medidas contempladas en el Plan de Recuperación, se han desarrollado sucesivos planes de capacidad y de pesca al objeto de garantizar el ajuste del esfuerzo pesquero de los buques de pabellón español, en el caladero Atlántico Oriental y Mediterráneo, con las posibilidades de pesca disponibles, en línea con la normativa europea e internacional citada. Dicho ajuste se ha realizado, entre otras medidas, mediante la retirada definitiva de unidades desde el año 2008. La presente norma regula a futuro el reparto de las posibilidades de pesca y los requisitos para la transmisión de las posibilidades entre las flotas que han venido operando como pesca dirigida desde 2008 y por lo tanto, viene a garantizar para el futuro la mayor seguridad jurídica posible a todo el sector.
+
+En este sentido, conviene limitar, conforme a lo estipulado en el artículo 28.1.c) de la ley, la transmisibilidad de las posibilidades de pesca entre buques de distinta lista en el censo en aras de mantener el equilibrio entre las cuotas conforme las áreas de influencia originarias de los buques, puesto que esas cuotas generan un beneficio socioeconómico en las mismas que conviene preservar. Tan sólo procede autorizar, conforme al artículo 28.2, a que aquellos armadores con cuotas en buques de distinta lista puedan decidir libremente sobre la posibilidad de acumularlas en cualquiera de sus buques o almadrabas.
+
+Asimismo, conviene limitar la posibilidad de transmisión de las cuotas asignadas a las flotas que se incluyen en este nuevo reparto o que reciben cuotas adicionales, ya que las mismas usan la cuota no como una actividad principal sino más bien como un complemento a sus actividades en relación a otros túnidos o especies demersales a cuya captura viene asociada la del atún rojo. Además esas cuotas no pueden ser repartidas de forma individual al no poderse atribuir a ningún buque concreto ante la falta de registros. Las cuotas de las listas f), g) y h) no podrán transferirse y deberán ser objeto de pesca activa a lo largo del año.
+
+Por lo demás, debe tenerse en cuenta que la presente norma se entiende sin perjuicio de la aplicación directa de las reglas contenidas en el Reglamento (UE) n.º 2016/1627 del Parlamento Europeo y el Consejo de 14 de septiembre de 2016, y de la habilitación que se contiene en la norma para que la Secretaría General de Pesca determine las condiciones específicas de gestión de la pesquería de acuerdo con las respectivas recomendaciones adoptadas por la CICAA, entre otros, en lo que concierne a tallas mínimas, capturas fortuitas, puertos autorizados, documentación y medidas comerciales.
+
+En la elaboración de este real decreto se han observado los principios de buena regulación previstos en el artículo 129.1 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Los principios de necesidad y eficacia puesto que la norma resulta el instrumento más indicado para los intereses que se persiguen, cual es el correcto y cognoscible reparto de las posibilidades de pesca en una especie de alto valor económico, social y ambiental, junto con la regulación de su gestión; el principio de proporcionalidad ya que contiene la regulación imprescindible para atender a las necesidades que se pretenden cubrir, sin que existan otras medidas menos restrictivas de derechos o que impongan menos obligaciones a los destinatarios; y el principio de seguridad jurídica ya que es coherente con el resto del ordenamiento jurídico nacional y de la Unión Europea, asegurando su correcta incardinación y cohonestación con la regulación de la organización regional de pesca en la materia, lo que a su vez permite cumplir con las obligaciones del Reino de España ad extra. Por lo demás, la norma es coherente con los principios de eficiencia, en tanto que la norma asegura la máxima eficacia de sus postulados con los menores costes posibles inherentes a su aplicación, asegurando con ello la más eficaz aplicación de las obligaciones de disciplina en el sector de modo que está justificada por la razón de interés general referido, basándose en una identificación clara de los fines perseguidos, y transparencia al haberse garantizado una amplia participación en su elaboración, definiendo la norma claramente sus objetivos, reflejados en su preámbulo y en la memoria que la acompaña.
+
+Se ha efectuado el trámite de comunicación a la Comisión Europea previsto en el artículo 46 del Reglamento (CE) n.º 850/1998 del Consejo, de 30 de marzo de 1998, para la conservación de los recursos pesqueros a través de medidas técnicas de protección de los juveniles de organismos marinos.
+
+En su tramitación se ha sometido a consulta de las comunidades autónomas, del sector pesquero afectado y del Instituto Español de Oceanografía.
+
+El presente real decreto se dicta de conformidad con lo establecido en el título I de la Ley 3/2001, de 26 de marzo y en el marco del artículo 149.1.19.ª de la Constitución que atribuye al Estado la competencia exclusiva en materia de pesca marítima.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, con la aprobación previa de la Ministra de Política Territorial y Función Pública, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 8 de febrero de 2019,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+El presente real decreto tiene por objeto la regulación de la pesquería de atún rojo (*Thunnus thynnus*) en el Atlántico Oriental al este del Meridiano 45º Oeste y Mediterráneo, las condiciones y características de la actividad extractiva y otras actividades relacionadas con esta, y demás medidas de regulación del esfuerzo pesquero.
+
+## Artículo 2. Ámbito de aplicación.
+
+Las normas contenidas en este real decreto serán de aplicación a todos los buques pesqueros y almadrabas españoles que participen en la pesquería de atún rojo en el Atlántico Oriental y Mediterráneo, las granjas ubicadas en aguas españolas y a los buques de otras nacionalidades que utilicen los puertos españoles para el desembarque de atún rojo.
+
+Para la aplicación de este real decreto se utilizarán las definiciones recogidas en el artículo 3 del Reglamento (UE) n.º 2016/1627 del Parlamento Europeo y del Consejo, de 14 de septiembre de 2016, relativo a un plan de recuperación plurianual para el atún rojo del Atlántico oriental y el Mediterráneo y por el que se deroga el Reglamento (CE) n.º 302/2009 del Consejo, y en el punto 2 de la Recomendación CICAA 2017-07.
+
+## Artículo 3. Censo específico de la flota autorizada para el ejercicio de la pesca de atún rojo.
+
+1\. Para la gestión y distribución de la cuota asignada al Reino de España, la Secretaría General de Pesca establecerá un censo específico de buques y almadrabas autorizados a capturar de forma activa esta especie y que deberán estar en posesión de un permiso especial de pesca, ordenados en las siguientes flotas, que constituirán grupos independientes y cerrados:
+
+a) Flota de cebo vivo del Cantábrico, Caladero Cantábrico Noroeste.
+
+b) Flota del Estrecho.
+
+c) Flotas de palangre y línea de mano.
+
+d) Flota de cerco del Mediterráneo.
+
+e) Almadrabas.
+
+f) Buques cañeros autorizados a pescar en aguas del Caladero Canario.
+
+g) Flota de artes menores del Mediterráneo.
+
+2\. Tendrán derecho a ser incluidos en el censo específico, en el correspondiente grupo por modalidad y caladero, los buques que hubiesen obtenido autorización y la hubieran utilizado para el ejercicio de la pesca dirigida de atún rojo durante los seis años anteriores a mayo de 2008 para las listas de los censos recogidos en los epígrafes a), b), c) y d).
+
+Asimismo, se incluyen en la lista b) los buques artesanales del Estrecho de captura limitada que hubieran estado incluidos en las listas de pesca fortuita correspondientes en los ocho años anteriores a la entrada en vigor del presente real decreto.
+
+Para la lista e) de almadrabas podrán ser incluidas en el censo todas aquellas almadrabas autorizadas y registradas en la CICAA en 2008.
+
+La lista f) de buques cañeros del caladero de Canarias contendrá exclusivamente a los buques que hayan sido autorizados a faenar por la Secretaría General de Pesca en los tres años anteriores a la publicación de este real decreto.
+
+Por su parte, podrán ser incluidos en la lista g), artes menores del Mediterráneo, los buques que puedan demostrar su actividad de captura de esta especie entre 1983 y la publicación del presente real decreto.
+
+> Téngase en cuenta que esta actualización por la que se modifica la letra b) y se suprime la letra h) del apartado 1 y se modifica el apartado 2, establecida por el art. único.1 del Real Decreto 362/2026, de 29 de abril, [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436), produce efectos el 1 de enero de 2027, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "...
+
+> b) Flota de cañas y líneas de mano del Estrecho.
+
+> ...
+
+> h) Flota de buques artesanales en el Estrecho de captura limitada."
+
+> "2. Tendrán derecho a ser incluidos en el censo específico, en el correspondiente grupo por modalidad y caladero, los buques que hubiesen obtenido autorización y la hubieran utilizado para el ejercicio de la pesca dirigida de atún rojo durante los seis años anteriores a mayo de 2008 para las listas de los censos recogidos en los epígrafes a), b), c) y d).
+
+> Para la lista e) de almadrabas podrán ser incluidas en el censo todas aquellas almadrabas autorizadas y registradas en la CICAA en 2008.
+
+> La lista f) de buques cañeros del caladero de Canarias contendrá exclusivamente a los buques que hayan sido autorizados a faenar por la Secretaría General de Pesca en los tres años anteriores a la publicación de este real decreto.
+
+> Por su parte, podrán ser incluidos en la lista g), artes menores del Mediterráneo, los buques que puedan demostrar su actividad de captura de esta especie entre 1983 y la publicación del presente real decreto.
+
+> Por lo que se refiere a la inclusión en el censo para los buques de la lista h), artesanales del Estrecho de captura limitada, podrán ser incluidos aquellos buques que hubieran estado incluidos en las listas de pesca fortuita correspondientes en los últimos ocho años."
+
+3\. La Secretaría General de Pesca publicará el censo específico de buques y almadrabas autorizados a la pesca activa de atún rojo, indicando el arte y zona de pesca y sus actualizaciones y las cuotas que les corresponden en el «Boletín Oficial del Estado», que se actualizará anualmente por resolución de la Secretaría General de Pesca publicada en el «Boletín Oficial del Estado» antes del 1 de marzo conforme a la disposición adicional primera.
+
+> Se modifica la letra b) y se suprime la h) del apartado 1 y se modifica el apartado 2 por el art. único.1 del Real Decreto 362/2026, de 29 de abril. [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436)
+
+> Esta modificación produce efectos desde el 1 de enero de 2027, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 3 bis. Reserva de posibilidades de pesca.
+
+1\. Se crea una reserva de posibilidades de pesca de conformidad con lo dispuesto en el artículo 40 de la Ley 5/2023, de 17 de marzo, de pesca sostenible e investigación pesquera.
+
+2\. Esta reserva estará formada por un 3,2781 % de la cuota asignada al Reino de España, detraída con carácter previo al reparto de posibilidades de pesca de atún rojo.
+
+3\. La reserva podrá incrementarse, hasta un máximo del 10 % de la cuota asignada al Reino de España, de la siguiente forma:
+
+a) Con la cantidad que resulte de aplicar el mecanismo de flexibilidad interanual previsto en el artículo 4 quater del presente real decreto.
+
+b) Con la cantidad que resulte de los intercambios de posibilidades de pesca con otros Estados realizados de conformidad con lo dispuesto en el artículo 41 de la Ley 5/2023, de 17 de marzo.
+
+c) Con las posibilidades de pesca no utilizadas puestas a disposición de la Secretaría General de Pesca, conforme a lo dispuesto en el artículo 4 septies del presente real decreto.
+
+La cantidad que exceda del 10 % se distribuirá conforme a lo previsto en el artículo 4.
+
+4\. De conformidad con lo dispuesto en el artículo 4.3 del presente real decreto, mediante resolución de la persona titular de la Secretaría General de Pesca se realizará la distribución de esta reserva teniendo en cuenta los fines establecidos en los artículos 40.1 y 42.6 de la Ley 5/2023, de 17 de marzo.
+
+En todo caso, las almadrabas que inicien su actividad y cumplan con todos los requisitos contemplados en la Orden APA/62/2003, de 20 de enero, por la que se regula el ejercicio de la actividad pesquera con arte de almadraba y la concesión de las licencias, tendrán un aporte inicial de cuota del 10 % del incremento de la cuota española con respecto a la establecida para el ciclo 2023-2025, hasta un máximo de 50 toneladas, que procederá de esta reserva. La asignación de cuota para las almadrabas que vayan a iniciar su actividad y no dispongan de cuota se hará efectiva a partir del año en que se aplique el incremento de cuota. Si no fuera posible iniciar la actividad en dicho año por razones técnicas, la asignación prevista de hasta 50 toneladas de dicho año se podrá acumular para el año siguiente. En cualquier caso, las cantidades asignadas para tal fin no podrán ser objeto de transmisión a otros buques o almadrabas. En caso de disminución de la cuota española a una cantidad igual o inferior a la establecida para el ciclo 2023-2025 o no cumplimiento de los requisitos especificados no se realizará esta asignación.
+
+La persona titular de la Secretaría General de Pesca podrá autorizar concursos de captura y suelta de atún rojo de ámbito internacional y nacional, mediante resolución que establecerá las condiciones, incluida la asignación de cuota procedente de esta reserva para la retención de eventuales ejemplares muertos accidentalmente durante los citados campeonatos.
+
+> Téngase en cuenta que este artículo, añadido por el art. único.2 del Real Decreto 362/2026, de 29 de abril, [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436), produce efectos el 1 de enero de 2027, según determina su disposición final única.
+
+> Se añade por el art. único.2 del Real Decreto 362/2026, de 29 de abril. [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436)
+
+> Esta modificación produce efectos desde el 1 de enero de 2027, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 4. Asignación de cuotas.
+
+1\. Una vez detraída la cantidad en concepto de reserva conforme a lo dispuesto en el artículo 3 bis, la distribución de la cuota restante, esto es, el 96,7219 % de la cuota asignada al Reino de España, se realizará de la siguiente manera:
+
+a) El 96,9535 % de esta cuota, se distribuirá entre las listas del artículo 3.1 conforme a los siguientes criterios:
+
+1.º Un 87,5954 % de la cuota de este apartado a) se asignará a las flotas de los epígrafes a), b), c), d) y e) del artículo 3.1 mediante la correspondiente ponderación de los criterios previstos en el artículo 32.2 de la Ley 5/2023, de 17 de marzo.
+
+Asimismo, a esta cantidad se adiciona un 0,0228 % de la cuota de este apartado a) a la almadraba dedicada a túnidos menores en el Mediterráneo, que no forma parte de la lista e) del artículo 3.1.
+
+2.º Un 11,6654 % de la cuota de este apartado a) se asignará a las flotas de los epígrafes f) y g) del artículo 3.1 en función del criterio de capturas históricas previsto en el artículo 32.2 a) de la Ley 5/2023, de 17 de marzo, teniendo en cuenta que no existen diferencias significativas en cuanto a los criterios socioeconómicos previstos en el citado artículo 32 y que en consecuencia se puede atribuir el mismo valor a todos ellos.
+
+3.º Un 0,7164 % de la cuota de este apartado a) se reserva para la captura fortuita de las flotas de palangre de superficie y curricán para bonito del norte, teniendo en cuenta el criterio establecido en el artículo 32.2 d) de la Ley 5/2023, de 17 de marzo, y para la pesca recreativa.
+
+b) Se destinará el 3,0465 % restante a los siguientes nuevos grupos de captura fortuita, integrados por buques que no tienen una actividad dirigida al atún rojo ni forman parte de las listas definidas en el artículo 3.1, que a su vez se distribuye de la siguiente forma:
+
+1.º Un 28,8111 % de este apartado b) para las capturas fortuitas de los buques de todos los censos de modalidad del Cantábrico Noroeste, teniendo en cuenta el criterio establecido en la letra d) del artículo 32.2 de la Ley 5/2023, de 17 de marzo.
+
+2.º Un 23,6299 % de este apartado b) para las capturas fortuitas de los buques de todos los censos de modalidad del Mediterráneo, teniendo en cuenta el criterio establecido en el artículo 32.2 d) de la Ley 5/2023, de 17 de marzo.
+
+3.º Un 20,1992 % de este apartado b) para las capturas fortuitas de los buques de todos los censos de modalidad de la zona del Golfo de Cádiz, teniendo en cuenta el criterio establecido en el artículo 32.2 d) de la Ley 5/2023, de 17 de marzo.
+
+4.º Un 27,3598 % de este apartado b) para las capturas fortuitas de los buques que no estén incluidos en los ordinales 2.º y 3.º de la presente letra b) y que, a 1 de enero de 2026, tengan puerto base en Algeciras, Barbate, Conil, La Línea de la Concepción o Tarifa teniendo en cuenta el criterio establecido en el artículo 32.2 f) de la Ley 5/2023, de 17 de marzo. Quedan excluidos los buques de artes menores dedicados a la captura de moluscos bivalvos y cefalópodos, al no ser susceptibles de capturas fortuitas de atún rojo.
+
+c) Ningún buque incluido en las listas del artículo 3.1 y que forme parte del censo de pesca dirigida de atún rojo, podrá participar de la cantidad destinada a los nuevos grupos de captura fortuita previstos en el apartado 1.b) del presente artículo.
+
+2\. En aplicación de lo dispuesto en el apartado anterior, la distribución inicial de la cuota asignada al Reino de España se concreta en los siguientes términos:
+
+a) La cuota del apartado 1 a) 1.º se destinará a los buques y almadrabas incluidos en las listas a), b), c), d) y e) definidas en el artículo 3.1, representando la historicidad de las capturas el 60 % conforme al artículo 32.2 a) de la Ley 5/2023, de 17 de marzo, y el 40 % los criterios de las letras b), d) y e) de dicho artículo 32.2.
+
+<table class="tabla">
+<caption>
+<p class="centro_redonda">Distribución de la cuota entre las flotas de las listas a), b), c), d) y e)</p>
+</caption>
+<colgroup>
+<col width="50%">
+<col width="50%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Flotas</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Porcentaje cuota inicial asignada para cada grupo respecto al 87,5954 %</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Porcentaje</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Flota cebo vivo del Cantábrico y Noroeste.</td>
+<td class="cuerpo_tabla_coma">21,77671</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Flota del Estrecho.</td>
+<td class="cuerpo_tabla_coma">8,75583</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Flota de palangre y línea de mano.</td>
+<td class="cuerpo_tabla_coma">13,85004</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Flota cerco del Mediterráneo.</td>
+<td class="cuerpo_tabla_coma">28,37763</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Almadrabas.</td>
+<td class="cuerpo_tabla_coma">27,23979</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Total flotas a), b), c), d), e) artículo 3*.</td>
+<td class="cuerpo_tabla_coma">100</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="2">
+<p class="cita">* Se debe adicionar un 0,0228 % de la cuota del apartado a) para la almadraba de pequeños túnidos en el Mediterráneo, que no forma parte de la lista e) del artículo 3.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+b) La cuota del apartado 1 a) 2.º se destinará a los buques incluidos en las listas f) y g) del artículo 3.1, repartiéndose entre ellos en función de la captura histórica desempeñada por cada flota conforme al artículo 32.2 a) de la Ley 5/2023, de 17 de marzo, teniendo en cuenta que no existen diferencias significativas en cuanto a los criterios socioeconómicos previstos en el citado artículo 32 y que en consecuencia se puede atribuir el mismo valor a todos ellos, con las siguientes condiciones: en los años 1965-1981 para la flota con base en las Islas Canarias, de 1983 a 1998 para la flota de artes menores del Mediterráneo y la captura media por buque en los años en que han estado activos los buques artesanales en el Estrecho de captura limitada multiplicado por el número de buques incluidos en el censo específico. Así, la asignación para cada flota será la siguiente:
+
+1.º La flota del censo del epígrafe f) con base en los puertos canarios dispone del 7,8079 %.
+
+2.º La flota del censo del epígrafe g) de artes menores del Mediterráneo dispone del 3,8575 %.
+
+c) La cuota del apartado 1 a) 3.º se destinará a la captura fortuita de las flotas de palangre de superficie y curricán para bonito del norte y la pesca recreativa de la siguiente manera:
+
+1.º Un 0,1671 % para las capturas fortuitas de las flotas de buques curricaneros autorizados para el ejercicio de la pesca de bonito del norte (*Thunnus alalunga*) en el Atlántico Nordeste y Golfo de Vizcaya y de buques palangreros de superficie autorizados en las zonas 2 y 3 de la Orden AAA/658/2014, de 22 de abril por la que se regula la pesca con el arte de palangre de superficie para la captura de especies altamente migratorias.
+
+2.º Un 0,5493 % para la retención de eventuales ejemplares muertos en la actividad recreativa dirigida a atún rojo de embarcaciones de la lista sexta y séptima del registro de matrícula de buques. Estos buques deberán practicar la captura y suelta del atún rojo que llegue vivo al costado del buque.
+
+3\. La Secretaría General de Pesca realizará una distribución de cuota asignando de forma individual posibilidades de pesca a todos los buques y almadrabas incluidos en las letras a), b), c), d) y e) del artículo 3.1.
+
+La asignación correspondiente a las flotas de las listas f) y g) del artículo 3.1 no se distribuirá de forma individual por buque, estableciéndose límites individuales del volumen de capturas.
+
+La persona titular de la Secretaría General de Pesca dictará cada año resoluciones para cada una de estas flotas con el fin de fijar las condiciones que debe observar la pesquería para cada campaña de pesca, según las medidas adoptadas por la CICAA y que podrán contener límites de captura por buque y utilización en común de los mismos, periodo de pesca y sustituciones.
+
+En el caso de la pesca fortuita, la persona titular de la Secretaría General de Pesca dictará cada año las resoluciones necesarias con el fin de fijar las condiciones que debe observar la pesquería para cada campaña.
+
+> Téngase en cuenta que esta actualización, establecida por el art. único.3 del Real Decreto 362/2026, de 29 de abril, [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436), produce efectos el 1 de enero de 2027, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "1. La distribución de cuota asignada al Reino de España se realizará de la siguiente manera:
+
+> a) Un 0,4 % se detrae del total de cuota con el fin de cubrir supuestos en que se sobrepasare la cuota y para capturas realizadas por flotas no incluidas en los censos del artículo 3.1.
+
+> b) Un 87,1501 % de la cuota se asignará a las flotas de los epígrafes a), b), c), d) y e) del artículo 3.1 mediante ponderación de todos los criterios previstos en los apartados 3 y 4 del artículo 27 de la Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado, que se modularán mediante la aplicación de los criterios establecidos en el artículo 17 del Reglamento (CE) n.º 1380/2013 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, sobre la política pesquera común. Asimismo, a esta cantidad se adiciona un 0,0231 % de la cuota total a las almadrabas para tener en cuenta las posibles capturas de almadrabas dedicadas a túnidos menores en el Mediterráneo.
+
+> c) Un 11,6995 % de la cuota se asignará a las flotas de los epígrafes f), g), y h) en función del criterio de capturas históricas previsto en apartado 3 a) del artículo 27 de la Ley 3/2001, de 26 de marzo, teniendo en cuenta que no existen diferencias significativas en cuanto a los criterios socioeconómicos y de dependencia de los apartados 3 c) y 4 de dicho artículo 27 y socioeconómicos de los meritados reglamentos de la Unión y que en consecuencia se pueden atribuir el mismo valor a todos ellos.
+
+> d) Un 0,7273 % de la cuota se reserva para la captura accesoria de las flotas de palangre de superficie y curricán para bonito del norte y la pesca recreativa.
+
+> 2\. En aplicación de los criterios señalados en el apartado anterior, la distribución inicial de la cuota asignada al Reino de España se distribuirá en los siguientes porcentajes y con los criterios que a continuación se indican:
+
+> a) El 87,1501 % de cuota española se destinará a los buques y almadrabas incluidos en los grupos a), b), c), d) y e) del censo específico de atún rojo del artículo 3, ponderándose los criterios consignados en el apartado 1 con la distribución del 60 % atendiendo a la historicidad de capturas conforme al artículo 27.3 a) de la Ley 3/2001, de 26 de marzo, y de los Reglamentos (CE) n.º 1380/2013 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, y (UE) 2016/1627 del Parlamento Europeo y el Consejo de 14 de septiembre de 2016, y del 40 % para los criterios socioeconómicos y de dependencia de los apartados 3 c) y 4 de dicho artículo 27 y socioeconómicos de los meritados reglamentos de la Unión. A la lista de almadrabas se le adicionará, conforme el apartado 1 b), un 0,0231 % para la almadraba de túnidos menores del Mediterráneo.
+
+> <table class="tabla_b_sica">
+> <colgroup>
+> <col class="row_column_1">
+> <col class="row_column_2">
+> </colgroup>
+> <thead>
+> <tr class="row_column_3">
+> <td colspan="2">
+> <p class="cabeza_tabla">Distribución de la cuota entre las flotas de las listas a), b), c), d) y e)</p>
+> </td>
+> </tr>
+> <tr class="row_column_4">
+> <td>
+> <p class="cabeza_tabla">Flotas</p>
+> </td>
+> <td>
+> <p class="cabeza_tabla">Porcentaje cuota inicial asignada para cada grupo respecto al 87,1501 %</p>
+> </td>
+> </tr>
+> </thead>
+> <tbody>
+> <tr class="row_column_5">
+> <td>
+> <p class="cuerpo_tabla_izq">Flota cebo vivo del Cantábrico y Noroeste</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_der">22,2203</p>
+> </td>
+> </tr>
+> <tr class="row_column_6">
+> <td>
+> <p class="cuerpo_tabla_izq">Flota cañas y línea de mano del Estrecho</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_der">6,8993</p>
+> </td>
+> </tr>
+> <tr class="row_column_6">
+> <td>
+> <p class="cuerpo_tabla_izq">Flota de palangre y línea de mano</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_der">14,1313</p>
+> </td>
+> </tr>
+> <tr class="row_column_6">
+> <td>
+> <p class="cuerpo_tabla_izq">Flota cerco del Mediterráneo</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_der">28,9554</p>
+> </td>
+> </tr>
+> <tr class="row_column_6">
+> <td>
+> <p class="cuerpo_tabla_izq">Almadrabas</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_der">27,7937</p>
+> </td>
+> </tr>
+> <tr class="row_column_5">
+> <td>
+> <p class="cuerpo_tabla_izq">Total flotas a), b), c), d), e) artículo 3</p>
+> </td>
+> <td>
+> <p class="cuerpo_tabla_der">100</p>
+> </td>
+> </tr>
+> </tbody>
+> </table>
+
+> \* Se debe adicionar un 0,0231 % de la cuota de la lista e) para la almadraba de pequeños túnidos en el Mediterráneo.
+
+> b) El 11,6995 % de cuota se destinará a la lista de buques incluidos en las listas f), g) y h) repartiéndose entre ellos en función de la captura histórica desempeñada por cada flota conforme al artículo 27.3 a) de la Ley 3/2001, de 26 de marzo, y de los Reglamentos (CE) n.º 1380/2013 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, y (UE) 2016/1627 del Parlamento Europeo y el Consejo de 14 de septiembre de 2016, teniendo en cuenta que no existen diferencias significativas en cuanto a los criterios socioeconómicos y de dependencia de los apartados 3.c) y 4 de dicho artículo 27 y socioeconómicos de los meritados reglamentos de la Unión y que en consecuencia se pueden atribuir el mismo valor a todos ellos, con las siguientes condiciones: en los años 1965-1981 para la flota con base en las Islas Canarias, de 1983 a 1998 para la flota de artes menores del Mediterráneo y la captura media por buque en los años en que han estado activos los buques artesanales en el Estrecho de captura limitada multiplicado por el número de buques incluidos en el censo específico. Así, la asignación para cada flota será la siguiente:
+
+> 1.º La flota del censo del epígrafe f) con base en los puertos canarios dispone del 7,9263 % de la cuota española.
+
+> 2.º La flota del censo del epígrafe g) de artes menores del Mediterráneo dispone del 2,8754 % de la cuota española.
+
+> 3.º La flota del censo del epígrafe h) de buques artesanales que capturan de forma esporádica la especie en aguas del Estrecho dispone de un 0,8978 % de la cuota española.
+
+> c) Se reserva un 0,7273 % de la cuota de España para las flotas que no tienen una actividad dirigida al atún rojo de la forma siguiente:
+
+> 1.º Un 0,1696 % para las capturas fortuitas de las flotas de buques curricaneros autorizados para el ejercicio de la pesca de bonito del norte (*Thunnus**alalunga*) en el Atlántico Nordeste y Golfo de Vizcaya y los buques palangreros de superficie autorizados en las zonas 2 y 3 de la Orden AAA/658/2014, de 22 de abril por la que se regula la pesca con el arte de palangre de superficie para la captura de especies altamente migratorias.
+
+> 2.º Un 0,5577 % para la retención de eventuales ejemplares muertos en la actividad recreativa dirigida a atún rojo de embarcaciones de la lista sexta y séptima del registro de matrícula de buques. Estos buques deberán practicar la captura y suelta del atún rojo que llegue vivo al costado del buque.
+
+> 3\. La Secretaría General de Pesca realizará una distribución de cuota asignando de forma individual posibilidades de pesca a todos los buques y almadrabas contenidos en las letras a), b), c), d) y e) del artículo 3.1 atendiendo al menos a uno de los criterios del artículo 27 de la Ley 3/2001, de 26 de marzo.
+
+> Las posibilidades de pesca correspondientes a las flotas de las listas f), g) y h) del artículo 3.1 no se distribuirán de forma individual por buque conforme al artículo 27 de la Ley 3/2001, de 26 de marzo, ni podrán por tanto ser objeto de trasmisiones conforme al artículo 29 de la Ley. La Secretaría General de Pesca podrá dictar cada año resoluciones para cada una de estas flotas con el fin de fijar las condiciones que debe observar la pesquería para cada temporada, según las medidas adoptadas por la CICAA y que podrán contener límites de captura por buque, periodo de pesca o asignación a grupos de buques por puertos, zonas o provincias.
+
+> Los buques y almadrabas incluidos dentro de un mismo grupo del censo específico podrán solicitar la gestión conjunta de cuota, especificando en la solicitud los barcos implicados en esta operación que participarán con el total de su cuota asignada en el momento de solicitar la misma.
+
+> Las solicitudes de gestión conjunta de cuota, que deberán estar firmadas por los armadores de los buques interesados, se presentarán en la Secretaría General de Pesca del Ministerio de Agricultura, Pesca y Alimentación por medios electrónicos, cuando el solicitante se encuentre entre los sujetos recogidos en el artículo 14.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, o, en caso contrario, en cualquiera de los lugares previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, y se dirigirán al Director General de Recursos Pesqueros.
+
+> La Dirección General de Recursos Pesqueros deberá comunicar por escrito la autorización de esta gestión conjunta. El plazo máximo para resolver y notificar la autorización o denegación será de un mes. Transcurrido dicho plazo sin que se hubiera dictado y notificado la resolución expresa, se podrá entender desestimada la solicitud por silencio administrativo, sin perjuicio de la obligación de dictar resolución expresa, de acuerdo con la disposición adicional sexta de la Ley 3/2001, de 26 de marzo.
+
+> Contra la resolución del procedimiento, que no agota la vía administrativa, podrá interponerse recurso de alzada, en el plazo máximo de un mes, contado a partir del día siguiente al de su notificación, o en cualquier momento a partir del día siguiente a aquel en que transcurriera el plazo para resolver y notificar, de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre."
+
+> Se modifica por el art. único.3 del Real Decreto 362/2026, de 29 de abril. [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436)
+
+> Esta modificación produce efectos desde el 1 de enero de 2027, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 4 bis. Gestión conjunta de posibilidades de pesca.
+
+1\. Los buques y almadrabas incluidos dentro de un mismo grupo del censo específico con asignación de posibilidades de pesca y que se encuentren en situación de alta en el Registro General de la Flota Pesquera podrán solicitar la gestión conjunta de cuota, especificando en la solicitud los buques implicados en esta operación que participarán con el total de su cuota asignada en el momento de solicitar la misma.
+
+2\. La gestión conjunta de posibilidades de pesca implicará la puesta en común de la totalidad de posibilidades de pesca asignadas a los buques participantes de una misma lista para su explotación indistinta por parte de todos ellos durante el ejercicio.
+
+El grupo o entidad de gestión conjunta gestionará durante el ejercicio las posibilidades de pesca.
+
+El grupo o entidad de gestión conjunta no podrá transmitir con carácter definitivo las posibilidades de pesca ni utilizar otro mecanismo de gestión que pueda dar lugar a una modificación definitiva de las posibilidades de pesca disponibles.
+
+3\. Durante un mismo ejercicio, no se permitirán altas ni bajas de buques en el mecanismo de gestión conjunta, salvo por cambio de armador o siniestro del buque, y siempre que en ese momento se encontrase en situación de saldo positivo de las posibilidades de pesca inicialmente asignadas.
+
+4\. En caso de salida de la gestión conjunta de un buque antes de la finalización del ejercicio, por cambio de armador o siniestro del buque, el buque saliente conservará las posibilidades de pesca resultantes de restar a las posibilidades de pesca inicialmente asignadas al buque las posibilidades consumidas a consecuencia de la actividad desarrollada durante el ejercicio. La persona titular de la Dirección General de Pesca Sostenible dictará resolución indicando estas posibilidades de pesca.
+
+5\. Si en el plazo de un mes no se hubiera notificado la resolución, la solicitud se entenderá desestimada en virtud de la disposición adicional segunda de la Ley 5/2023, de 17 de marzo.
+
+6\. Contra la resolución del procedimiento, que no agota la vía administrativa, podrá interponerse recurso de alzada ante la Secretaría General de Pesca, en el plazo máximo de un mes, contado a partir del día siguiente al de su notificación, o en cualquier momento a partir del día siguiente a aquel en que transcurriera el plazo para resolver y notificar, de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+> Se añade por el art. único.4 del Real Decreto 362/2026, de 29 de abril. [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436)
+
+## Artículo 4 ter. Gestión en común de límites del volumen de capturas.
+
+1\. Los buques incluidos dentro de un mismo grupo del censo específico de las listas f) y g) del artículo 3.1 con límites del volumen de captura y en situación de alta en el Registro General de la Flota Pesquera podrán solicitar la gestión en común de sus límites, especificando en la solicitud los buques implicados en esta operación que participarán con el total de sus límites en el momento de solicitar la misma.
+
+2\. Las gestiones en común de buques de las listas f) y g) requerirán autorización de la persona titular de la Dirección General de Pesca Sostenible.
+
+3\. Las solicitudes de gestiones en común se dirigirán a la Dirección General de Pesca Sostenible del Ministerio de Agricultura, Pesca y Alimentación de acuerdo con lo establecido en la Ley 39/2015, de 1 de octubre, a través de la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación.
+
+4\. La persona titular de la Dirección General de Pesca Sostenible dictará resolución por la que se autorizará o denegará la gestión en común y se notificará por medios electrónicos en el plazo máximo de siete días hábiles desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración competente para su tramitación.
+
+Si en el plazo de siete días hábiles no se hubiera notificado la resolución, la solicitud se entenderá desestimada, en virtud de la disposición adicional segunda de la Ley 5/2023, de 17 de marzo.
+
+5\. Contra la resolución del procedimiento, que no agota la vía administrativa, podrá interponerse recurso de alzada ante la Secretaría General de Pesca, en el plazo máximo de un mes, contado a partir del día siguiente al de su notificación, o en cualquier momento a partir del día siguiente a aquel en que transcurriera el plazo para resolver y notificar, de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+> Se añade por el art. único.5 del Real Decreto 362/2026, de 29 de abril. [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436)
+
+## Artículo 4 quater. Flexibilidad interanual.
+
+1\. Hasta un 20 % de las posibilidades de pesca disponibles para un determinado ejercicio que no se hayan consumido en el mismo, podrán utilizarse en el ejercicio siguiente.
+
+2\. Hasta el 50 % de dicha cantidad se podrá integrar en la reserva de posibilidades de pesca del ejercicio siguiente de conformidad con lo dispuesto en el artículo 3 bis.
+
+3\. La cantidad restante se distribuirá de forma proporcional entre los buques o grupos de buques que no hubieran consumido la totalidad de las posibilidades de pesca asignadas.
+
+> Se añade por el art. único.6 del Real Decreto 362/2026, de 29 de abril. [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436)
+
+## Artículo 4 quinquies. Reactivación de buques en situación de baja provisional.
+
+En los casos de reactivación de buques de las listas a), b), c), d) y e) del artículo 3.1 en situación de baja provisional se les asignarán las posibilidades de pesca de que disponían en el momento de iniciar dicha baja provisional, en el ejercicio siguiente a la fecha de su reactivación.
+
+En los casos de reactivación de buques de las listas f) y g) en situación de baja provisional reiniciarán su actividad pesquera con respecto a este stock en el ejercicio siguiente a la fecha de su reactivación.
+
+> Se añade por el art. único.7 del Real Decreto 362/2026, de 29 de abril. [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436)
+
+## Artículo 4 sexies. Sustituciones.
+
+1\. Los buques incluidos en el censo de atún rojo publicado con carácter anual podrán ser sustituidos por otros buques, previa autorización de la persona titular de la Dirección General de Pesca Sostenible.
+
+2\. El buque incluido en el censo de atún rojo que solicite ser sustituido deberá contar con posibilidades de pesca, en caso de ser un buque de las listas a) a la e) del artículo 3.1. Las posibilidades de pesca serán asignadas al buque que se incluya en el censo de atún rojo mediante la misma resolución de autorización.
+
+En el caso de las listas f) y g), la sustitución se hará efectiva en el ejercicio siguiente, salvo que no haya capturado atún rojo en el momento de formular la solicitud.
+
+3\. Se deberán respetar las limitaciones de acceso existentes a los caladeros implicados que estén vigentes en el momento de solicitar la sustitución, en particular si existieran limitaciones para la capacidad dispuestas por la Organización Regional de Pesca implicada que esté vigente en el momento de la solicitud.
+
+4\. Las solicitudes de autorización de sustitución de buques se dirigirán a la persona titular de la Dirección General de Pesca Sostenible del Ministerio de Agricultura, Pesca y Alimentación de acuerdo con lo establecido en la Ley 39/2015, de 1 de octubre, a través de la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación.
+
+5\. La persona titular de la Dirección General de Pesca Sostenible dictará resolución por la que se autorizará o denegará la sustitución y se notificará por medios electrónicos en el plazo máximo de siete días hábiles desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración competente para su tramitación.
+
+Si en el plazo de siete días hábiles no se hubiera notificado la resolución, la solicitud se entenderá desestimada, en virtud de la disposición adicional segunda de la Ley 5/2023, de 17 de marzo.
+
+6\. Contra la resolución del procedimiento, que no agota la vía administrativa, podrá interponerse recurso de alzada ante la persona titular de la Secretaría General de Pesca, en el plazo máximo de un mes, contado a partir del día siguiente al de su notificación, o en cualquier momento a partir del día siguiente a aquel en que transcurriera el plazo para resolver y notificar, de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+> Se añade por el art. único.8 del Real Decreto 362/2026, de 29 de abril. [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436)
+
+## Artículo 4 septies. Gestión de posibilidades de pesca no utilizadas.
+
+1\. La Secretaría General de Pesca podrá disponer de las posibilidades de pesca no utilizadas por parte de un buque o grupo de buques de acuerdo con lo establecido en el artículo 42 de la Ley 5/2023, de 17 de marzo.
+
+2\. A efectos del presente real decreto, se entiende por no utilización de las posibilidades de pesca la no captura de un mínimo del 5 % de las posibilidades de pesca de atún rojo por parte de un buque o grupo de buques que las tiene atribuidas al inicio de cada periodo de gestión durante dos periodos de gestión completos y consecutivos, lo que conllevará que dichas posibilidades pasen a disposición de la Administración de modo definitivo.
+
+3\. De conformidad con lo dispuesto en el artículo 42.5 de la Ley 5/2023, de 17 de marzo, los buques o grupos de buques que no capturen un mínimo del 5 % de las posibilidades de pesca de atún roja asignadas debido a que se destine a su engorde en granjas o instalaciones de cría, o a almadrabas, quedarán exceptuados de la aplicación de lo previsto en el apartado anterior, siempre que el buque o grupo de buques cedentes continúen ejerciendo actividad pesquera.
+
+4\. La persona titular de la Secretaría General de Pesca dictará resolución, que se publicará en el “Boletín Oficial del Estado”, acordando la puesta a su disposición de las posibilidades de pesca no utilizadas, previa audiencia al armador y propietario de los buques o grupos de buques que las tengan asignadas.
+
+La Secretaría General de Pesca dispondrá de estas posibilidades de pesca, distribuyéndolas, mediante resolución publicada en el “Boletín Oficial del Estado” de conformidad con los criterios establecidos en el artículo 4 del presente real decreto.
+
+> Se añade por el art. único.9 del Real Decreto 362/2026, de 29 de abril. [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436)
+
+## Artículo 5. Transmisión de posibilidades.
+
+1\. Los buques y almadrabas incluidos en el censo específico en las letras a), b), c), d) y e) del artículo 3.1 a los que se ha realizado una asignación individualizada de posibilidades conforme al artículo 4, podrán realizar la transmisión de las posibilidades que se les haya asignado bajo las siguientes condiciones:
+
+a) Para la tramitación de una transmisión de posibilidades se deberá remitir una solicitud con al menos diez días de antelación sobre la fecha prevista para hacer uso de estas posibilidades.
+
+Las solicitudes de autorización de transmisión de posibilidades de pesca, que deberán estar firmadas por los armadores del buque o almadraba cedente y receptor, se presentarán en la Secretaría General de Pesca, del Ministerio de Agricultura, Pesca y Alimentación por medios electrónicos, cuando el solicitante se encuentre entre los sujetos recogidos en el artículo 14.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento de las Administraciones Públicas, o, en caso contrario, en cualquiera de los lugares previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, y se dirigirán al Director General de Recursos Pesqueros, cuando tengan carácter definitivo y al Director General de Ordenación Pesquera y Acuicultura, cuando tengan carácter temporal.
+
+b) La Dirección General correspondiente recabará el informe preceptivo de las comunidades autónomas del puerto base del buque o frente a cuya costa se ubique la almadraba, de conformidad con lo establecido en el artículo 28 de la Ley 3/2001, de 26 de marzo. El plazo para la respuesta de la comunidad autónoma será de siete días hábiles y no será vinculante.
+
+c) Una vez recibida la respuesta de la comunidad autónoma o tras cumplirse el plazo, la Dirección General correspondiente emitirá una resolución aceptando o denegando la transferencia, que deberá ser notificada a los armadores cedente y receptor.
+
+El plazo máximo para resolver y notificar la autorización o denegación será de un mes. Transcurrido dicho plazo sin que se hubiera notificado la resolución expresa, se podrá entender desestimada la solicitud por silencio administrativo, sin perjuicio de la obligación de dictar resolución expresa, de acuerdo con la disposición adicional sexta de la Ley 3/2001, de 26 de marzo.
+
+Contra la resolución del procedimiento, que no agota la vía administrativa, podrá interponerse recurso de alzada ante la Secretaría General de Pesca, en el plazo máximo de un mes, contado a partir del día siguiente al de su notificación, o en cualquier momento a partir del día siguiente a aquel en que transcurriera el plazo para resolver y notificar, de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+d) De acuerdo con lo dispuesto en el artículo 28.1.d) de la Ley 3/2001, de 26 de marzo, se establece en un 30 % el porcentaje máximo de la cuota española que puede acumular una empresa o grupo de empresas relacionadas societariamente en virtud de las cesiones que puedan llevarse a cabo según lo previsto en este artículo tanto de forma temporal como definitiva. Este porcentaje se calculará en relación a la cuota total del Reino de España para cada campaña.
+
+e) Cada armador podrá transmitir de forma temporal o definitiva, requiriendo esta última el consentimiento expreso del propietario del buque, el total o una parte de las posibilidades de pesca que se le hayan asignado a uno o varios buques o almadrabas pertenecientes al mismo grupo.
+
+Cuando la transmisión temporal lo sea por el total de la cuota disponible para ese buque o almadraba, ello implicará el abandono de la pesquería durante el año en que se realice la cesión, aunque el buque o almadraba cedente podrá mantenerse en el censo específico.
+
+No se permitirá la transmisión definitiva entre los grupos independientes y cerrados definidos en el artículo 3.1 que componen el censo específico de la flota autorizada para el ejercicio de la pesca de atún rojo.
+
+f) La transmisión de carácter definitivo del total de posibilidades de pesca supondrá el abandono definitivo del ejercicio de la pesquería a partir de la siguiente campaña de pesca, y por tanto del censo del buque o almadraba cedente.
+
+El cedente deberá disponer, en el momento de la transmisión, del total de la cuota anual asignada sin haber consumido parcialmente la misma antes de la cesión para que ésta pueda ser utilizada por el buque receptor en el mismo año en que se realiza la cesión. Si no es así, la transmisión se podrá hacer, pero tan solo surtirá efecto a partir del 1 de enero del año próximo, pudiéndose hacer una transmisión parcial para lo que queda del año en curso con el resto de posibilidades no consumidas.
+
+g) Un buque acogido a paralización definitiva de la actividad pesquera que hubiera recibido ayudas públicas al desguace no podrá ceder sus cuotas de manera definitiva. La cuota de los buques que se acojan a tales ayudas acrecerá a los buques o almadrabas incluidos en su mismo grupo en proporción a las cuotas de las que dispongan.
+
+h) Las posibilidades sobrantes no utilizadas por uno de los grupos establecidos por el artículo 3 cuando se cierre su pesquería, si no han sido objeto de cesión previa, podrán redistribuirse por el Director General de Recursos Pesqueros entre los demás grupos de buques y artes incluidos en el censo específico que mantenga abierta su pesquería, según los mismos porcentajes y, dentro de cada grupo, en función del reparto interno que se hubiere decidido.
+
+2\. Las listas f) y g) del artículo 3.1 podrán transmitir temporalmente el total o una parte de las posibilidades de pesca de su lista a otros buques o grupos de buques con reparto individual o a listas con asignación de límites del volumen de capturas, para lo que se requerirá unanimidad de todos los armadores de los buques de las citadas listas f) o g).
+
+Asimismo, se podrá transmitir a las listas f) y g) posibilidades de pesca de otros buques o grupos de buques con reparto individual o de listas con asignación de límites del volumen de capturas.
+
+> Se modifican las letras e) y f) del apartado 1 y el apartado 2 por el art. único.10 del Real Decreto 362/2026, de 29 de abril. [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436)
+
+> Se declara la nulidad del párrafo segundo del apartado 1.f) por Sentencia del TS de 29 de junio de 2020. [Ref. BOE-A-2020-8007](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8007)
+
+## Artículo 5 bis. Mecanismo de optimización.
+
+1\. De conformidad con lo previsto en el artículo 39 de la Ley 5/2023, de 17 de marzo, se establece un mecanismo de optimización en la gestión de las posibilidades de pesca para el stock del atún rojo del Atlántico y Mediterráneo.
+
+2\. Cada año, si se estima que existiera un sobrante de cuota para un buque o grupo de buques y dicho sobrante representara una cantidad superior al consumo que dicho buque o grupo de buques pudiera realizar, la persona titular de la Secretaría General de Pesca podrá fijar mediante resolución, oído el sector y las comunidades autónomas, dicho sobrante en una cuota común que operará como mecanismo de optimización anual. Dicha resolución se publicará en el “Boletín Oficial del Estado” y en ella se indicarán las cantidades sobrantes por buque o grupo de buques, así como la cantidad disponible del mecanismo de optimización anual.
+
+Por cantidad superior al consumo que un buque o grupo de buques pudiera realizar se entenderá cualquier cantidad superior a los consumos realizados en el momento que se disponga en la resolución de optimización y el 31 de diciembre para ese buque o grupo de buques en cualquiera de los últimos tres años.
+
+3\. A partir de la publicación de la resolución en el “Boletín Oficial del Estado”, las cuotas integrantes de ese mecanismo de optimización anual del stock estarán a disposición de todos los buques incluidos dentro del ámbito de aplicación de este real decreto, una vez hayan agotado las posibilidades de pesca que les hayan sido inicialmente asignadas y hasta el consumo total de la cuota común. En caso de gestión conjunta, los buques que participen de la misma sólo podrán acceder a la cuota común del mecanismo de optimización una vez hayan agotado la cuota que gestionan de forma conjunta.
+
+4\. No podrán beneficiarse del mecanismo de optimización anual del uso de cuotas, los buques con posibilidades de pesca que presenten a fecha indicada en la resolución de optimización un rebasamiento en el consumo superior al 10 % de su cuota adaptada.
+
+5\. Con el objeto de determinar las cantidades sobrantes que se destinarán al mecanismo de optimización, no se autorizarán transmisiones temporales que hayan tenido entrada en el registro electrónico de la Administración competente para su tramitación durante el periodo de tiempo que fije la resolución que acuerde el mecanismo de optimización.
+
+6\. En caso de no consumo de la cantidad total destinada a este mecanismo de optimización, dicha cantidad se utilizará de conformidad con lo dispuesto en el artículo 4 quater.
+
+> Se añade por el art. único.11 del Real Decreto 362/2026, de 29 de abril. [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436)
+
+## Artículo 6. Medidas de gestión de la pesquería.
+
+Mediante resolución de la Secretaría General de Pesca se determinarán las condiciones específicas de gestión de la pesquería de acuerdo con las respectivas recomendaciones adoptadas por la CICAA.
+
+## Artículo 7. Pesca deportiva y recreativa.
+
+1\. El ejercicio de la pesca deportiva y recreativa solo podrá realizarse cuando exista cuota disponible. En su ejercicio se adoptarán en todo momento las medidas necesarias para asegurar la devolución con vida de los atunes capturados.
+
+2\. Cuando no se hubiere podido evitar la muerte de un ejemplar de atún rojo se deberá cesar la actividad de captura y suelta y, siempre que haya cuota disponible, se deberá realizar la preceptiva declaración de captura en la que se detalle el peso y la talla del ejemplar y desembarcarlo entero, prohibiéndose su comercialización.
+
+## Artículo 7 bis. Granjas o instalaciones de cría de atún rojo.
+
+1\. La Secretaría General de Pesca establecerá un registro de granjas o instalaciones de cría de atún rojo autorizadas a la introducción en jaula y su posterior alimentación con el propósito de engordarlos e incrementar su biomasa total.
+
+Podrán ser incluidas en este registro todas aquellas granjas autorizadas y registradas en la CICAA.
+
+2\. Para su acceso al registro, los titulares de granjas deberán presentar una solicitud a la persona titular de la Secretaría General de Pesca, a través de la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación, antes del 15 de enero del año en que se quiera registrar la granja. La Secretaría General de Pesca comprobará el cumplimiento de los requisitos exigidos para su incorporación al mismo.
+
+3\. Anualmente, al final de cada campaña, la persona titular de la Secretaría General de Pesca publicará el registro de granjas, su ubicación geográfica y la capacidad de entrada utilizada por cada una de ellas, mediante resolución en el “Boletín Oficial del Estado”.
+
+> Se añade por el art. único.12 del Real Decreto 362/2026, de 29 de abril. [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436)
+
+## Artículo 7 ter. Planes de ordenación de las granjas.
+
+1\. Antes del 25 de enero de cada año, los titulares de granjas dedicadas a la cría de atún rojo ubicadas en aguas españolas deberán remitir a la persona titular de la Dirección General de Pesca Sostenible de la Secretaría General de Pesca sus planes preliminares de ordenación de las granjas, a través de la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación. Tras el análisis de los planes, la Secretaría General de Pesca enviará el plan preliminar a la Comisión Europea en el plazo obligatorio dispuesto por la misma.
+
+2\. A tal efecto, dichos planes deberán incluir información sobre las entradas procedentes de cerco y/o almadrabas tanto propias de la empresa como procedentes de otras empresas nacionales, otras empresas de Estados miembros o de terceros países.
+
+3\. Si la capacidad de entrada total conforme a las solicitudes formuladas por todas las granjas no sobrepasara el límite establecido por la Comisión Europea, se asignará a cada granja lo solicitado.
+
+4\. Si la capacidad de entrada total conforme a las solicitudes formuladas por todas las granjas sobrepasara el límite establecido por la Comisión Europea, se aplicarán los siguientes criterios:
+
+a) El 90 % conforme a la capacidad de entrada utilizada en el año anterior según conste en la resolución a que se refiere el artículo 7 bis.3.
+
+b) El 10 % para nuevas entradas. Si no las hubiera, el 100 % se repartirá de conformidad con lo dispuesto en la letra a).
+
+5\. En el momento de confirmar el plan definitivo, sobre la información que aporten las granjas se volverá a revisar el reparto de la capacidad de entrada, para ajustarla en consecuencia.
+
+6\. Finalmente, antes del 30 de abril, los titulares de granjas dedicadas a la cría de atún rojo ubicadas en aguas españolas deberán remitir a la persona titular de la Dirección General de Pesca Sostenible de la Secretaría General de Pesca sus planes de ordenación de las granjas revisados, a través del registro electrónico del Ministerio de Agricultura, Pesca y Alimentación.
+
+7\. Una vez recibidos los planes de ordenación de granjas revisados, la Secretaría General de Pesca elaborará un listado de granjas dedicadas a la cría de atún rojo ubicadas en aguas españolas.
+
+8\. Con el envío de los planes de ordenación de las granjas definitivos, la Secretaría General de Pesca enviará dicho plan definitivo a la Comisión Europea antes del 15 de mayo de cada año.
+
+> Se añade por el art. único.13 del Real Decreto 362/2026, de 29 de abril. [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436)
+
+## Artículo 8. Medidas de control.
+
+1\. Conforme a lo dispuesto en el artículo 32 del Reglamento (UE) n.º 2016/1627 del Parlamento Europeo y el Consejo de 14 de septiembre de 2016, los buques autorizados a pescar atún rojo y aquellos que lo pescan de manera accesoria solo podrán transbordar sus capturas, previa autorización de la Secretaría General de Pesca, que establecerá las condiciones y requisitos, en los puertos autorizados.
+
+Las solicitudes de transbordo firmadas por los armadores implicados se presentarán en la Secretaría General de Pesca, del Ministerio de Agricultura, Pesca y Alimentación por medios electrónicos, cuando el solicitante se encuentre entre los sujetos recogidos en el artículo 14.2 de la Ley 39/2015, de 1 de octubre, o, en caso contrario, en cualquiera de los lugares previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, y se dirigirán al Director General de Ordenación Pesquera y Acuicultura.
+
+La Dirección General de Ordenación Pesquera y Acuicultura notificará a los armadores de los buques la autorización correspondiente en un plazo máximo de setenta y dos horas. Transcurrido dicho plazo sin que se hubiera notificado la resolución expresa, se podrá entender desestimada la solicitud por silencio administrativo, sin perjuicio de la obligación de dictar resolución expresa, de acuerdo con la disposición adicional sexta de la Ley 3/2001, de 26 de marzo.
+
+Contra la resolución del procedimiento, que no agota la vía administrativa, podrá interponerse recurso de alzada ante la Secretaria General de Pesca, en el plazo máximo de un mes, contado a partir del día siguiente al de su notificación, o en cualquier momento a partir del día siguiente a aquel en que transcurriera el plazo para resolver y notificar, de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+2\. Los capitanes de los buques que pesquen atún rojo realizarán una comunicación previa al desembarque conforme a lo dispuesto en el artículo 31 del Reglamento (UE) n.º 2016/1627 del Parlamento Europeo y el Consejo de 14 de septiembre de 2016, según las condiciones que establezca la Secretaría General de Pesca.
+
+Si el caladero de pesca se encuentra a menos de cuatro horas del puerto, las cantidades estimadas de atún rojo retenidas a bordo podrán modificarse en cualquier momento antes de la llegada.
+
+En caso de desembarque en puerto de otro Estado miembro, además de esta comunicación, se realizará otra a las autoridades del Estado miembro de desembarque en los términos que ese Estado indique.
+
+En caso de desembarque en un puerto no perteneciente a la Unión Europea, además de la comunicación en los términos en que el tercer país disponga, se deberá remitir a la Subdirección General de Control e Inspección de la Dirección General de Ordenación Pesquera y Acuicultura del Ministerio de Agricultura, Pesca y Alimentación, de forma inmediata, copia de la hoja del diario donde figuren todos los datos del desembarque.
+
+## Artículo 9. Infracciones y sanciones.
+
+El incumplimiento de lo previsto en el presente real decreto será sancionado conforme a lo dispuesto en el título V, sobre régimen de infracciones y sanciones, de la Ley 3/2001, de 26 de marzo.
+
+## Disposición adicional primera. Censo buques autorizados.
+
+El censo específico establecido en el artículo 3 recogerá todas las transferencias definitivas de cuota operadas hasta la fecha de entrada en vigor del presente real decreto y será publicado cada año con las debidas actualizaciones en función de las transferencias autorizadas conforme al artículo 5.
+
+> Se numera por el art. único.14 del Real Decreto 362/2026, de 29 de abril. [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436)
+
+> Su anterior denominación era disposición adicional única.
+
+> Esta modificación produce efectos desde el 1 de enero de 2027, según establece la disposición final única del citado Real Decreto.
+
+## Disposición adicional segunda. Asignación de posibilidades de pesca en caso de disminución de la cuota del Reino de España a una cantidad igual o inferior a la establecida para el ciclo 2023-2025.
+
+En caso de producirse una disminución de la cuota asignada al Reino de España, de modo que llegue a una cantidad igual o inferior a la establecida para el ciclo 2023-2025, no se aplicará la asignación de posibilidades de pesca a los nuevos grupos de captura fortuita previstos en el apartado 1.a) del artículo 4 del presente real decreto, distribuyéndose esa cuota conforme a los criterios de reparto establecidos en el apartado 1.a).
+
+> Téngase en cuenta que esta actualización por la que se renombra la disposición adicional única como primera y se añade la segunda, establecida por el art. único.14 del Real Decreto 362/2026, de 29 de abril, [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436), produce efectos el 1 de enero de 2027, según establece su disposición final única.
+
+> Se añade por el art. único.14 del Real Decreto 362/2026, de 29 de abril. [Ref. BOE-A-2026-9436](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9436)
+
+> Esta modificación produce efectos desde el 1 de enero de 2027, según establece la disposición final única del citado Real Decreto.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas las siguientes normas:
+
+1\. Del Real Decreto 71/1998, de 23 de enero, por el que se regula el ejercicio de la pesca de túnidos y especies afines en el Mediterráneo:
+
+a) El artículo 2.a).
+
+b) El artículo 6.
+
+c) La fila reguladora del atún rojo de la tabla del artículo 7.
+
+d) El artículo 10.
+
+e) El primer párrafo del artículo 14.
+
+f) La disposición adicional primera.
+
+g) La disposición adicional segunda.
+
+2\. La Orden APM/264/2017, de 23 de marzo, por la que se regula la pesquería de atún rojo en el Atlántico Oriental y Mediterráneo.
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo del artículo 149.1.19.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de pesca marítima.
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 8 de febrero de 2019.
+
+FELIPE R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+LUIS PLANAS PUCHADES

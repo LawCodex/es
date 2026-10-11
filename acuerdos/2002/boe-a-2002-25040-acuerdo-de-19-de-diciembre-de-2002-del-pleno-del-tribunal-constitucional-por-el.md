@@ -1,0 +1,89 @@
+---
+title: "Acuerdo de 19 de diciembre de 2002, del Pleno del Tribunal Constitucional, por el que se regula el régimen de retribuciones del personal al servicio del Tribunal Constitucional"
+identifier: "BOE-A-2002-25040"
+eli: "https://www.boe.es/eli/es/a/2002/12/19/(1)"
+type: agreement
+rank: "Acuerdo"
+jurisdiction: es
+language: es
+department: "Tribunal Constitucional"
+date: 2002-12-19
+published: 2002-12-24
+in_force_from: 2003-01-01
+last_amended: 2026-07-27
+consolidated: 2026-07-27
+gazette: "Boletín Oficial del Estado núm. 307"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2002-25040"
+retrieved: 2026-10-11
+---
+
+# Acuerdo de 19 de diciembre de 2002, del Pleno del Tribunal Constitucional, por el que se regula el régimen de retribuciones del personal al servicio del Tribunal Constitucional
+
+## Artículo 1. Ámbito de aplicación.
+
+El régimen retributivo que se establece por el presente Acuerdo será de aplicación al personal al servicio del Tribunal Constitucional, ya se trate de funcionarios, de carrera o eventuales, o de personal en régimen laboral.
+
+## Artículo 2. Funcionarios de carrera.
+
+El régimen retributivo de los funcionarios de carrera al servicio del Tribunal comprende los conceptos siguientes:
+
+1\. Retribuciones básicas:
+
+a) Sueldo: Su importe se fija en el que la Ley de Presupuestos de cada ejercicio asigne al Cuerpo o Carrera al que pertenezca el funcionario. Los Letrados al servicio del Tribunal, ya se trate de los integrados en el Cuerpo a que se refiere el artículo 97.1 de la Ley Orgánica 2/1979, del Tribunal Constitucional, o de adscripción temporal, percibirán el sueldo establecido para los Magistrados de la Carrera Judicial.
+
+Los Secretarios de Justicia al servicio del Tribunal percibirán el sueldo establecido para los Secretarios Judiciales de primera categoría.
+
+b) Trienios: Se rigen por su normativa específica y las previsiones de la Ley de Presupuestos de cada ejercicio, acreditándose por los importes correspondientes a los que el funcionario tenga reconocidos por su pertenencia a los diversos Cuerpos o Carreras. Los trienios que se reconozcan a los Letrados integrados en el Cuerpo a que se refiere el artículo 97.1 de la Ley Orgánica 2/1979 se acreditarán por las cuantías establecidas para los Magistrados de la Carrera Judicial.
+
+c) Pagas extraordinarias: Se rigen por su normativa específica y las previsiones de la Ley de Presupuestos de cada ejercicio.
+
+2\. Retribuciones complementarias:
+
+a) Complemento de destino: Este concepto retribuirá conjuntamente, para cada puesto de trabajo, su nivel de responsabilidad, dedicación y, en su caso, su especial dificultad técnica. De conformidad con las previsiones de la relación de puestos de trabajo, su importe se fijará para cada año por el Pleno al aprobar el proyecto de presupuesto del Tribunal para el correspondiente ejercicio.
+
+b) Complemento específico: Este concepto retribuirá las condiciones particulares concurrentes en determinados puestos de trabajo. De conformidad con las previsiones de la relación de puestos de trabajo, su importe se fijará para cada año por el Pleno al aprobar el proyecto de presupuesto del Tribunal para el correspondiente ejercicio.
+
+c) Complementos de adecuación: Al objeto de adecuar las retribuciones de los funcionarios al servicio del Tribunal a las condiciones de prestación del servicio y a las características de los puestos de trabajo propios del Tribunal Constitucional, y tomando en consideración la procedencia de distintas administraciones públicas del personal funcionario a su servicio, el Pleno del Tribunal fijará para cada año, al aprobar el proyecto de presupuesto para el correspondiente ejercicio, los pertinentes complementos de adecuación, tanto de sueldo como de antigüedad, a los funcionarios incluidos en el ámbito de aplicación de la Ley 30/1984, en los distintos grupos de clasificación de los mismos a que se refiere el artículo 25 de dicha Ley.
+
+Los importes de los complementos de adecuación se acreditarán en doce mensualidades. En el complemento de adecuación de antigüedad únicamente se tomarán en consideración los trienios que se les haya reconocido y acreditado a los funcionarios mientras hayan permanecido prestando servicios en el Tribunal Constitucional, modificándose, en su caso, en función de los nuevos trienios que se reconozcan, y sin que sea de aplicación a los funcionarios adscritos con carácter temporal.
+
+d) Complemento de carrera horizontal: concepto retributivo que se otorga al personal funcionario como reconocimiento a su desarrollo profesional dentro de su grupo o subgrupo, sin necesidad de cambiar de puesto de trabajo. Este complemento está vinculado a la progresión en un sistema de tramos, donde se valoran la experiencia, formación, calidad del trabajo y otros méritos, de conformidad con los acuerdos adoptados por el Pleno para la regulación de la carrera horizontal del personal funcionario. Dichos acuerdos serán también de aplicación al personal letrado de adscripción temporal.
+
+Los importes del complemento de carrera horizontal serán fijados mediante acuerdo del Pleno en el marco de las disponibilidades presupuestarias de cada ejercicio.
+
+> Se añade la letra d) al apartado 2 por el art. 2.1 del Acuerdo de 8 de julio de 2026. [Ref. BOE-A-2026-16307](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16307)
+
+> Se modifica el segundo párrafo de la letra c) del apartado 2, con efectos económicos desde el 1 de junio de 2014, por el apartado 1 del Acuerdo de 27 de mayo de 2014. [Ref. BOE-A-2014-5589](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-5589).
+
+> Se modifican los apartados 2.1 a) y 2.2 c) y se suprime el 2.d) por los apartados 1 a 3 del Acuerdo de 16 de diciembre de 2004. [Ref. BOE-A-2005-138](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-138).
+
+## Artículo 3. Funcionarios eventuales.
+
+El personal eventual percibirá las retribuciones básicas correspondientes al grupo de asimilación en que se clasifiquen sus funciones en la relación de puestos de trabajo, así como las retribuciones complementarias asignadas en dicha relación al puesto de trabajo que desempeñen. Las retribuciones complementarias comprenderán las de adecuación que resulten pertinentes, incluido un complemento de adecuación de antigüedad que se calculará de forma similar al de los funcionarios adscritos, tomando en consideración el tiempo de servicios prestados al Tribunal Constitucional, e integrando a estos efectos el importe de los trienios y el del complemento de adecuación de antigüedad correspondientes al grupo de asimilación en que se clasifiquen sus funciones en la relación de puestos de trabajo.
+
+Los funcionarios de carrera que ocupen puestos de trabajo que pueden ser desempeñados asimismo por personal eventual percibirán las retribuciones básicas correspondientes a su grupo de clasificación, incluidos trienios, y las retribuciones complementarias que correspondan al puesto de trabajo que desempeñen. Las retribuciones complementarias comprenderán las de adecuación que resulten pertinentes, incluido un complemento de adecuación de antigüedad que se calculará de forma similar al de los funcionarios adscritos, tomando en consideración el tiempo de servicios prestados al Tribunal Constitucional.
+
+Asimismo, el personal eventual percibirá el complemento de carrera horizontal correspondiente a su grupo de asimilación o clasificación, de conformidad con los acuerdos adoptados por el Pleno para la regulación de la carrera horizontal del personal funcionario.
+
+> Se modifica por el art. 2.2 del Acuerdo de 8 de julio de 2026. [Ref. BOE-A-2026-16307](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16307)
+
+> Se modifica, con efectos económicos desde el 1 de junio de 2014, por el apartado 2 del Acuerdo de 27 de mayo de 2014. [Ref. BOE-A-2014-5589](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-5589).
+
+> Se modifica el párrafo segundo por el apartado 4 del Acuerdo de 16 de diciembre de 2004. [Ref. BOE-A-2005-138](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-138).
+
+## Artículo 4. Personal en régimen laboral.
+
+Las retribuciones del personal laboral al servicio del Tribunal serán las establecidas en el Convenio Colectivo para el personal laboral del Tribunal Constitucional, dentro del principio de equiparación retributiva con los funcionarios que desempeñen tareas de igual o similar nivel.
+
+## Disposición final.
+
+El presente Acuerdo entrará en vigor el día 1 de enero de 2003. Sin perjuicio de su ejecución y efectos desde dicha fecha, se publicará, para general conocimiento, en el "Boletín Oficial del Estado".
+
+## Disposición derogatoria.
+
+Desde la fecha de entrada en vigor del presente Acuerdo quedará sin efectos el Acuerdo de 3 de julio de 1990, del Pleno del Tribunal Constitucional, por el que se regula el régimen de retribuciones del personal al servicio del Tribunal Constitucional, publicado en el "Boletín Oficial del Estado" del día 3 de agosto de 1990.
+
+Madrid, 19 de diciembre de 2002.–El Presidente,
+
+JIMÉNEZ DE PARGA Y CABRERA

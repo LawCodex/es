@@ -1,0 +1,6368 @@
+---
+title: "Decreto Legislativo del Principado de Asturias 1/1998, de 11 de junio, por el que se aprueba el texto refundido de las Leyes de Tasas y de Precios Públicos"
+identifier: "BOE-A-1998-23233"
+eli: "https://www.boe.es/eli/es-as/dlg/1998/06/11/1"
+type: legislative_decree
+rank: "Decreto Legislativo"
+jurisdiction: es-asturias
+language: es
+department: "Comunidad Autónoma del Principado de Asturias"
+date: 1998-06-11
+published: 1998-10-07
+in_force_from: 1998-06-27
+last_amended: 2025-12-31
+consolidated: 2026-02-09
+gazette: "Boletín Oficial del Estado núm. 240"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-23233"
+retrieved: 2026-10-11
+---
+
+# Decreto Legislativo del Principado de Asturias 1/1998, de 11 de junio, por el que se aprueba el texto refundido de las Leyes de Tasas y de Precios Públicos
+
+La disposición adicional segunda de la Ley del Principado de Asturias 7/1997, de 31 de diciembre, de Medidas Presupuestarias, Administrativas y Fiscales, autoriza al Consejo de Gobierno para que, en el plazo de seis meses, elabore un texto refundido de las Leyes del Principado de Asturias 5/1988, de 22 de julio, reguladora de las Tasas del Principado de Asturias, y 2/1990, de 19 de diciembre, sobre precios públicos y sobre modificación parcial de la Ley 5/1988, de 22 de julio, reguladora de las Tasas del Principado de Asturias.
+
+En cumplimiento de esta delegación, se ha redactado el presente texto refundido, en el que se recogen los preceptos de las Leyes citadas, con las modificaciones que en las mismas se han ido introduciendo por las distintas Leyes de Presupuestos Generales del Principado de Asturias, por la Ley del Principado de Asturias 3/1996, de 21 de noviembre, reguladora de la Tasa por Inspección y Control Sanitario de Carnes Frescas y Aves de Corral, y por la propia Ley del Principado de Asturias 7/1997, de 31 de diciembre, de Medidas Presupuestarias, Administrativas y Fiscales.
+
+En su virtud, a propuesta del Consejero de Economía, de acuerdo con el Consejo de Estado, y previo acuerdo del Consejo de Gobierno en su reunión del día 11 de junio de 1998, dispongo:
+
+##### Artículo único. Objeto de la norma.
+
+Se aprueba el texto refundido de las Leyes del Principado de Asturias 5/1988, de 22 de julio, reguladora de las Tasas del Principado de Asturias, y 2/1990, de 19 de diciembre, sobre precios públicos y sobre modificación parcial de la Ley 5/1988, de 22 de julio, reguladora de las Tasas del Principado de Asturias, cuyo texto se inserta a continuación.
+
+##### Disposición derogatoria única. Derogación normativa.
+
+1\. Quedan derogadas:
+
+a) La Ley del Principado de Asturias 5/1988, de 22 de julio, reguladora de las Tasas del Principado de Asturias.
+
+b) La Ley del Principado de Asturias 2/1990, de 19 de diciembre, sobre precios públicos y sobre modificación parcial de la Ley 5/1988, de 22 de julio, reguladora de las Tasas del Principado de Asturias.
+
+2\. Quedan asimismo derogadas, a la entrada en vigor del presente Decreto Legislativo, las disposiciones de igual o inferior rango emanadas de los órganos de la Comunidad Autónoma que se opongan a lo previsto en el mismo.
+
+##### Disposición final única. Entrada en vigor.
+
+Este Decreto Legislativo entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Principado de Asturias».
+
+Oviedo, 11 de junio de 1998.—El Presidente, Sergio Marqués Fernández.—El Consejero de Economía, José A. González García-Portilla.
+
+## TEXTO REFUNDIDO DE LAS LEYES DE TASAS Y DE PRECIOS PÚBLICOS
+
+## TÍTULO I — Normas generales
+
+### CAPÍTULO I — Tasas
+
+##### Artículo 1. Concepto.
+
+1\. Son tasas del Principado de Asturias los tributos exigidos por la Administración Autonómica cuyo hecho imponible consista en la utilización del dominio público, la prestación de servicios públicos o la realización de actividades en régimen de derecho público que se refieran, afecten o beneficien de modo particular a los sujetos pasivos, cuando concurra cualquiera de las circunstancias siguientes:
+
+a) Que sean de solicitud o recepción obligatoria para los administrados. A estos efectos se considerará obligatoria la solicitud por parte de los administrados cuando venga impuesta por disposiciones legales o reglamentarias o cuando los bienes, servicios o actividades requeridos sean imprescindibles para la vida privada o social del solicitante.
+
+b) Que no se presten o se realicen por el sector privado, esté o no establecida su reserva a favor del sector público conforme a la normativa vigente.
+
+2\. Son tasas exigibles por la Administración del Principado de Asturias:
+
+a) Las reguladas por la presente Ley.
+
+b) Las demás que puedan establecerse por la Comunidad Autónoma a través de las correspondientes Leyes tributarias de la Junta General del Principado.
+
+c) Aquellas que el Estado o las Corporaciones Locales puedan transferir al Principado de Asturias, de conformidad con lo dispuesto en el artículo 7.2 de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas.
+
+##### Artículo 2. Régimen jurídico.
+
+Las tasas del Principado se regirán:
+
+a) Por la presente Ley y por las Leyes de la Comunidad Autónoma en materia tributaria.
+
+b) Por la Ley 6/1986, de 31 de mayo, de Régimen Económico y Presupuestario del Principado de Asturias.
+
+c) Por los Reglamentos generales y demás disposiciones que las desarrollen.
+
+d) Con carácter supletorio, por la Ley General Tributaria, el Reglamento General de Recaudación y demás normas concordantes del Estado.
+
+##### Artículo 3. Reserva de Ley.
+
+El establecimiento, modificación y supresión de las tasas del Principado de Asturias, así como las exenciones, bonificaciones y demás beneficios tributarios de las mismas, deberán regularse por Ley de la Junta General del Principado.
+
+##### Artículo 4. Régimen presupuestario y no afectación.
+
+1\. El régimen presupuestario de los ingresos derivados de las tasas será el aplicable con carácter general a los recursos tributarios de la Comunidad Autónoma.
+
+2\. El producto recaudatorio de las tasas del Principado se aplicará en su totalidad a la cobertura de sus gastos generales, a menos que a título excepcional y mediante Ley de la Junta General se establezca una afectación concreta.
+
+##### Artículo 5. Sujetos pasivos y responsables.
+
+1\. Son sujetos pasivos obligados al pago de las tasas, en concepto de contribuyentes, las personas físicas o jurídicas que se determinen en el régimen concreto de cada una de ellas que, con carácter general, utilicen el dominio público, reciban un servicio público prestado por esta Comunidad o a quienes se refiera, afecte o beneficie de un modo particular una actividad de la Administración Autonómica.
+
+2\. Asimismo, tendrán la consideración de sujetos pasivos obligados al pago de las tasas, en los términos expresados en el apartado anterior, las herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado susceptible de imposición.
+
+3\. La Ley podrá designar sustitutos del contribuyente, que en lugar de éste estarán obligados a cumplir las prestaciones materiales o formales de la obligación tributaria.
+
+4\. La concurrencia de dos o más titulares en el hecho imponible obligará a éstos solidariamente, a menos que expresamente se disponga lo contrario en la norma reguladora de la tasa.
+
+5\. El régimen jurídico de cada tasa podrá declarar responsables solidarios o subsidiarios del importe de la misma a otras personas interesadas en el procedimiento o encargadas de gestionar y aplicar la tasa.
+
+6\. Son responsables solidarios del pago de la tasa quienes sean causantes o colaboren en la realización de una infracción tributaria relativa a la tasa.
+
+7\. Serán responsables subsidiarios del pago de la tasa los empleados públicos obligados a su liquidación o exigencia, que, por negligencia grave o mala fe, no realicen las gestiones oportunas para que se hagan efectivas o que accedan a lo solicitado por el sujeto pasivo sin que por parte de éste, cuando así proceda, se haya pagado, afianzado o consignado su importe, y ello sin perjuicio de las sanciones que puedan corresponder.
+
+> Se modifica el apartado 1 por el art. 8.1 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 6. Devengo.
+
+1\. Las tasas se devengarán según la naturaleza del hecho imponible:
+
+a) Cuando se inicie la utilización del dominio público, se preste el servicio o se realice la actividad gravada por la misma, sin perjuicio de la posibilidad de exigir su depósito previo.
+
+b) Cuando se solicite o autorice la utilización del dominio público, se solicite la prestación del servicio o actividad. En este caso, su efectivo ingreso será condición para la eficacia de la resolución adoptada o para la prestación del servicio o actividad objeto del gravamen.
+
+2\. Podrá exigirse el depósito previo total o parcial a resultas de la liquidación definitiva cuando, a juicio del órgano gestor, así lo requieran las circunstancias que rodean el hecho imponible.
+
+3\. Cuando la tasa se devengue periódicamente, por razón de la prestación de servicios continuados que no requieran la adopción de nuevas resoluciones de admisión al servicio, el organismo perceptor de la tasa no podrá suspender su prestación por falta de pago, sin perjuicio de exigir su importe por vía de apremio.
+
+> Se modifica el apartado 1 por el art. 8.2 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 7. Tarifas.
+
+1\. La fijación de las tarifas de las tasas por prestación de servicios y realización de actividades se efectuará de forma que su rendimiento cubra, sin exceder de él, el coste total del servicio o actividad de que se trate, incluyendo tanto los costes directos como el porcentaje imputable de costes generales.
+
+No obstante, cuando se trate de prestación de servicios, o realización de actividades consideradas de interés general, la Comunidad Autónoma podrá financiar, en parte, el coste de los mismos.
+
+2\. Siempre que la naturaleza de la tasa lo permita, su tarifa se podrá establecer atendiendo a criterios de capacidad económica.
+
+3\. Dentro de los límites establecidos en el apartado 1 de este artículo, el Consejo de Gobierno del Principado de Asturias, a propuesta conjunta de la Consejería competente en materia de hacienda y de la Consejería gestora del servicio o actividad objeto de gravamen, podrá fijar o modificar la cuantía de las tasas.
+
+##### Artículo 8. Gestión y liquidación.
+
+1\. La gestión y liquidación de cada tasa corresponderá a los órganos competentes de la Consejería que deba autorizar la utilización del dominio público, prestar el servicio o realizar la actividad objeto de gravamen, sin perjuicio de las funciones inspectoras de la Consejería competente en materia de hacienda tanto en relación al tributo como respecto a los órganos que tengan encomendada su gestión y liquidación.
+
+2\. Reglamentariamente se podrá establecer el régimen de autoliquidación para alguna de las tasas o para hechos imponibles concretos de las mismas.
+
+3\. Corresponde a la Consejería competente en materia de hacienda dictar las normas encaminadas a regular la gestión y liquidación de las tasas y el ingreso de su importe en la Tesorería del Principado.
+
+> Se modifica el apartado 1 por el art. 8.3 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 9. Pago.
+
+1\. El pago de las tasas habrá de realizarse, en la arma que reglamentariamente se determine, mediante efectos timbrados del Principado de Asturias o en efectivo, por alguno de los medios siguientes:
+
+a) Dinero de curso legal.
+
+b) Cheque o talón de cuenta corriente bancaria o le Caja Rural o de Ahorros, certificado o conformado por la entidad librada.
+
+c) Transferencia bancaria o de Caja Rural o de Ahorros.
+
+d) Giro postal tributario.
+
+e) Cualesquiera otros que se determinen.
+
+2\. Por la Consejería competente en materia de hacienda se podrá establecer la obligatoriedad de utilización de alguno o algunos de estos medios.
+
+> Se añade la letra e) al apartado 1 por el art. 8.1 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+##### Artículo 10. Recaudación.
+
+La recaudación de las tasas, una vez agotado el período voluntario de ingreso, se realizará mediante el procedimiento de apremio.
+
+##### Artículo 11. Aplazamiento y fraccionamiento.
+
+Corresponde a la Consejería competente en materia de hacienda resolver las peticiones que puedan formular los sujetos pasivos solicitando la concesión o denegación de los aplazamientos o fraccionamientos del pago de las tasas, siempre que se preste garantía suficiente y en las condiciones determinadas reglamentariamente.
+
+El aplazamiento o fraccionamiento deberá ser por tiempo determinado.
+
+##### Artículo 12. Devolución.
+
+Procederá la devolución de las tasas ingresadas cuando, por causas no imputables al sujeto pasivo, el servicio no se preste, la utilización del dominio público no se autorice, o la actividad administrativa no se realice.
+
+> Se modifica por el art. 8.4 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 13. Infracciones y sanciones.
+
+La determinación de las infracciones tributarias y su calificación, así como las sanciones correspondientes, se regirán por las normas establecidas a este respecto en las disposiciones legales en materia tributaria.
+
+##### Artículo 14. Reclamaciones y recursos.
+
+1\. Contra los actos de gestión, se podrá recurrir por vía económico-administrativa ante el titular de la Consejería competente en materia de hacienda, sin perjuicio del derecho a interponer, con carácter potestativo, recurso de reposición ante el órgano que dictó el acto.
+
+2\. La resolución de las reclamaciones económico-administrativas agotará la vía administrativa y podrá ser en todo caso objeto de recurso contencioso-administrativo.
+
+### CAPÍTULO II — Precios públicos
+
+##### Artículo 15. Concepto.
+
+1\. Tendrán la consideración de precios públicos del Principado de Asturias las contraprestaciones pecuniarias que se satisfagan por la prestación de servicios o la realización de actividades en régimen de derecho público cuando concurran las circunstancias siguientes:
+
+a) Que los servicios o actividades no sean de solicitud o recepción obligatoria por el administrado.
+
+b) Que los servicios o actividades sean susceptibles de ser prestados o realizados por el sector privado, por no implicar intervención en la actuación de los particulares o cualquier otra manifestación de autoridad, o bien por no tratarse de servicios en los que esté establecida su reserva a favor del sector público conforme a la normativa vigente.
+
+2\. A los efectos de lo dispuesto en la letra b) del número anterior, no se considerará voluntaria la solicitud por parte de los administrados:
+
+a) Cuando les venga impuesta por disposiciones legales o reglamentarias.
+
+b) Cuando constituya condición previa para realizar cualquier actividad u obtener derechos o efectos jurídicos determinados.
+
+##### Artículo 16. Establecimiento y modificación.
+
+1\. El establecimiento, modificación o supresión de los precios públicos se realizará mediante Decreto del Consejo de Gobierno del Principado de Asturias, a propuesta conjunta de la Consejería competente en materia de hacienda y de la Consejería que en cada caso corresponda en razón de la materia.
+
+2\. Las propuestas de establecimiento, modificación o supresión de precios públicos deberán ir acompañadas de una memoria económico-financiera en donde se justifiquen los importes propuestos.
+
+Dicha memoria deberá ser elaborada por los servicios gestores de la actividad objeto de precio público.
+
+##### Artículo 17. Cuantía.
+
+1\. Los precios públicos se fijarán en una cuantía que, como mínimo, cubra los costes económicos del servicio o actividad prestados.
+
+2\. Cuando existan razones de interés público que lo justifiquen, podrán señalarse precios públicos en cuantía inferior a la indicada en el apartado anterior, previa adopción de las previsiones presupuestarias precisas para la cobertura de la parte de coste subvencionada.
+
+##### Artículo 18. Administración y cobro.
+
+1\. La administración y cobro de los precios públicos corresponderá a los órganos competentes de las Consejerías que presten el servicio o realicen la actividad.
+
+2\. Corresponde a la Consejería competente en materia de hacienda, en desarrollo de las normas reglamentarias, regular la administración y cobro de los precios públicos y el ingreso de su importe en la Tesorería del Principado, así como velar por su cumplimiento.
+
+##### Artículo 19. Exigibilidad y depósito previo.
+
+1\. Los precios públicos podrán exigirse desde que se realice la actividad o se inicie la prestación de servicios que justifique su exigencia.
+
+2\. Podrá exigirse la anticipación o el depósito previo del importe total o parcial de los precios públicos.
+
+##### Artículo 20. Pago.
+
+El pago públicos se realizará en efectivo, de los precios en la forma que reglamentariamente se determine, por cualquiera de los medios siguientes:
+
+a) Dinero de curso legal.
+
+b) Cheque o talón de cuenta corriente bancaria o de Caja Rural o de Ahorros, certificado o conformado por la entidad librada.
+
+c) Transferencia bancaria o de Caja Rural o de Ahorros.
+
+d) Giro postal tributario.
+
+e) Cualesquiera otros que se determinen.
+
+> Se añade la letra e) al apartado 1 por el art. 8.2 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+##### Artículo 21. Obligados al pago.
+
+1\. Estarán obligados al pago de los precios públicos las personas físicas o jurídicas a quienes se preste la actividad o reciban el servicio.
+
+2\. Asimismo, tendrán la consideración de obligados al pago, en los términos establecidos en el apartado anterior, las herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado susceptibles de imposición.
+
+##### Artículo 22. Devoluciones.
+
+Cuando, por causas no imputables al obligado al pago del precio, no se realice la actividad o no se preste el servicio, procederá la devolución del importe que corresponda.
+
+##### Artículo 23. Aplazamiento y fraccionamiento.
+
+La Consejería competente en materia de hacienda, previa solicitud del obligado al pago, podrá conceder el pago aplazado o el fraccionamiento del precio o público en la forma y con los requisitos y garantías que reglamentariamente se establezcan.
+
+##### Artículo 24. Exigibilidad de la deuda en vía de apremio.
+
+La deuda por precios públicos podrá exigirse mediante el procedimiento administrativo de apremio cuando hayan transcurrido seis meses desde su vencimiento sin que se haya podido conseguir su cobro.
+
+##### Artículo 25. Reclamaciones y recursos.
+
+1\. Contra los actos de gestión se podrá recurrir en vía económico-administrativa ante el titular de la Consejería competente en materia de hacienda, sin perjuicio del derecho a interponer, con carácter potestativo, recurso de reposición ante el órgano que dictó el acto.
+
+2\. La resolución de las reclamaciones económico-administrativas agotará la vía administrativa y podrá ser, en todo caso, objeto de recurso contencioso-administrativo.
+
+## TÍTULO II — Ordenación de las tasas
+
+### CAPÍTULO I — Servicios generales
+
+#### Sección 1.ª Tasa de pruebas de acceso al empleo público
+
+> Se modifica por el art. 39.1 de la Ley 14/2018, de 28 de diciembre. [Ref. BOE-A-2019-803](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-803)
+
+##### Artículo 26. Hecho imponible.
+
+Constituye el hecho imponible la inscripción en las convocatorias de selección de personal para acceder al empleo público en la Administración, sus organismos y entes públicos cuando la realización de los procesos selectivos corresponda a la administración autonómica.
+
+> Se modifica por el art. 39.1 de la Ley 14/2018, de 28 de diciembre. [Ref. BOE-A-2019-803](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-803)
+
+##### Artículo 27. Sujeto pasivo.
+
+Son sujetos pasivos las personas físicas que soliciten la inscripción para realizar las pruebas de acceso a la Administración, sus organismos y entes públicos.
+
+> Se modifica por el art. 39.1 de la Ley 14/2018, de 28 de diciembre. [Ref. BOE-A-2019-803](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-803)
+
+##### Artículo 28. Devengo y liquidación.
+
+La tasa se devenga en el momento de solicitar el servicio y se exige en régimen de autoliquidación.
+
+> Se modifica por el art. 39.1 de la Ley 14/2018, de 28 de diciembre. [Ref. BOE-A-2019-803](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-803)
+
+##### Artículo 29. Tipo de gravamen.
+
+La tasa se exige de acuerdo con los siguientes tipos:
+
+1\. Por la inscripción en pruebas selectivas de acceso a Cuerpos y Escalas de funcionarios:
+
+1.1 Grupo A, subgrupo A1: 42,85 euros.
+
+1.2 Grupo A, subgrupo A2: 34,00 euros.
+
+1.3 Grupo B: 25,71 euros.
+
+1.4 Grupo C, subgrupo C1: 17,15 euros.
+
+1.5 Grupo C, subgrupo C2: 8,50 euros.
+
+1.6 Otras agrupaciones profesionales: 6,43 euros.
+
+2\. Por la inscripción en pruebas selectivas de acceso a categorías de personal laboral:
+
+2.1 Grupo A: 42,85 euros.
+
+2.2 Grupo B: 34,00 euros.
+
+2.3 Grupo C: 17,15 euros.
+
+2.4 Grupo D: 8,50 euros.
+
+2.5 Grupo E: 6,43 euros.
+
+3\. Por la inscripción en pruebas selectivas generales para la elaboración de bolsas de empleo.... 2,40 euros.
+
+> Se modifica por el art. 39.1 de la Ley 14/2018, de 28 de diciembre. [Ref. BOE-A-2019-803](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-803)
+
+> Se modifica por el art. 6.1 de la Ley 14/2001, de 28 de diciembre. [Ref. BOE-A-2002-2836](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2836).
+
+##### Artículo 30. Afectación.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria de la Ley 14/2018, de 28 de diciembre. [Ref. BOE-A-2019-803](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-803)
+
+#### Sección 1.ª bis. Tasa por prestación de servicios docentes en la Escuela de Seguridad Pública del Principado de Asturias
+
+> Se añade por el art. 5.1 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+##### Artículo 30 bis. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de servicios docentes en la Escuela de Seguridad Pública del Principado de Asturias por la impartición de cursos de carácter obligatorio, orientados a la formación y capacitación para el ingreso en los cuerpos de las Policías Locales del Principado de Asturias, así como a la capacitación para la promoción interna.
+
+> Se añade por el art. 5.1 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+##### Artículo 30 tercero. Sujeto pasivo.
+
+1\. Son sujetos pasivos de la tasa por prestación de servicios docentes por la impartición de cursos básicos de ingreso en los cuerpos de las Policías Locales del Principado de Asturias las personas físicas beneficiarias de la prestación a título de contribuyente. Tendrán la condición de sustitutos del contribuyente los ayuntamientos de procedencia del beneficiario de la prestación.
+
+2\. Son sujetos pasivos de la tasa por prestación de servicios docentes por la impartición de cursos de capacitación para la promoción interna de los efectivos integrados en los cuerpos de las Policías Locales del Principado de Asturias los ayuntamientos que soliciten la inscripción para realizar los cursos.
+
+> Se añade por el art. 5.1 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+##### Artículo 30 cuarto. Devengo.
+
+La tasa se devengará en el momento de presentar la solicitud de inscripción.
+
+> Se añade por el art. 5.1 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+##### Artículo 30 quinto. Tarifas.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+Tarifa 1: Cursos Básicos de Ingreso:
+
+Tarifa 1.1: Curso selectivo de agentes en prácticas: 675 euros.
+
+Tarifa 2: Cursos Selectivos de Capacitación y Promoción Interna:
+
+Tarifa 2.1: Curso de promoción y capacitación Subinspector: 675 euros.
+
+Tarifa 2.2: Curso de promoción y capacitación Inspector: 675 euros.
+
+Tarifa 2.3: Curso de promoción y capacitación Intendente: 675 euros.
+
+Tarifa 2.4: Curso de promoción y capacitación Comisario: 675 euros.
+
+Tarifa 2.5: Curso de promoción y capacitación Comisario Principal: 675 euros.
+
+> Se modifica por el art. 41.1 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+> Se añade por el art. 5.1 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+#### Sección 2.ª Tasa por inserción de textos y venta del «Boletín Oficial del Principado de Asturias»
+
+> Se modifica por el art. 8.5 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 31. Hecho imponible.
+
+Constituye el hecho imponible de esta tasa la inserción de textos en el «Boletín Oficial del Principado de Asturias», así como la venta del mismo, mediante suscripción anual y ejemplares sueltos.
+
+> Se modifica por el art. 8.5 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 32. Sujeto pasivo.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta Ley, que soliciten la publicación de textos en el «Boletín Oficial de Principado de Asturias» o adquieran ejemplares del mismo.
+
+> Se modifica por el art. 8.5 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 33. Devengo.
+
+La tasa se devengará:
+
+a) Por la inserción de textos, en el momento de presentar la solicitud de inserción.
+
+b) Por la suscripción en el momento de su realización o, en su caso, por la adquisición de ejemplares sueltos en el momento de su adquisición.
+
+> Se modifica por el art. 40.1 de la Ley 5/2025, de 31 de diciembre. [Ref. BOE-A-2026-2888](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-2888)
+
+> Se modifica por el art. 8.5 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 34. Tarifas.
+
+a) Por inserción de textos:
+
+1) En las inserciones de tipo ordinario el precio del carácter, en tipografía verdana y tamaño de 9 puntos será de 0,06093 euros. La tarifa será de 365,54 euros para una página con una mancha efectiva de 245 mm. de alto por 175 mm. de ancho, de 6.000 caracteres. El carácter del espacio en blanco tendrá la consideración de cualquier otro carácter, y por tanto se tarifará de igual manera. Para tablas, gráficas, planos, fichas o cualquier otro elemento que no sea estrictamente texto, el precio del milímetro de altura del ancho de una columna de 175 mm. será de 1,492 euros independientemente del porcentaje del total del ancho de la línea de 1 mm. de altura empleado.
+
+2) En las inserciones de tipo urgente, la tarifa será un 100 por cien superior a las del carácter ordinario. A estos efectos se considerarán urgentes las inserciones cuando así lo indicasen expresamente los remitentes de los textos y la publicación de los mismos se efectúe dentro de los seis días hábiles siguientes a la fecha de recepción de la correspondiente solicitud en la administración del ''Boletín Oficial del Principado de Asturias''.
+
+b) Por la adquisición de discos compactos (CD):
+
+Suscripción durante el año natural: 61,17 euros.
+
+Por cada unidad de CD de cada trimestre natural: 15,29 euros.
+
+> Se modifica por el art. 13.1 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Redactado conforme a la corrección de errores publicada en el BOPA núm. 15, de 20 de enero de 2009. [Ref. BOPA-a-2009-90002](https://www.boe.es/buscar/doc.php?id=BOPA-a-2009-90002)
+
+> Se modifica por el art. 10.1 de la Ley 11/2006, de 27 de diciembre. [Ref. BOE-A-2007-5591](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-5591).
+
+> Se añade la letra c) por el art. 6.2 de la Ley 14/2001, de 28 de diciembre. [Ref. BOE-A-2002-2836](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2836).
+
+> Se modifica por el art. 8.5 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 35. Exenciones.
+
+1\. Estarán exentas del pago las siguientes inserciones:
+
+a) Las leyes y demás disposiciones de carácter general del Estado y del Principado de Asturias.
+
+b) Los actos de publicación obligatoria dictados por los órganos de la Administración del Principado de Asturias que no sean consecuencia de procedimientos iniciados a instancia de particulares para su provecho o beneficio o se refieran a procedimientos de contratación administrativa.
+
+c) Las disposiciones y actos de interés general dictados por autoridades y organismos oficiales. A estos efectos tendrán en todo caso la consideración de interés general los textos cuya inserción sea solicitada por las entidades locales comprendidas en el ámbito territorial del Principado de Asturias, referidas a la aprobación de los presupuestos y sus modificaciones, acuerdos de imposición de exacciones y de aprobación o modificación de sus ordenanzas reguladoras, reglamentos orgánicos y de servicios y convocatorias para la provisión de plazas incluidas en las ofertas anuales de empleo.
+
+d) Los anuncios de la jurisdicción ordinaria en asuntos en que se litigue con el beneficio de justicia gratuita y los de causas criminales, salvo que se hagan efectivas las costas sobre bienes de cualquiera de las partes.
+
+e) Las resoluciones de la Administración de Justicia cuya publicidad gratuita esté legalmente prevista.
+
+f) Cualquiera otra cuya publicación sea gratuita en virtud de precepto legal emanado del Principado de Asturias.
+
+2\. En los supuestos a que se refieren los epígrafes d) y e) del apartado anterior, corresponderá al solicitante de la inserción justificar su gratuidad, a cuyo efecto hará constar en la solicitud el precepto legal que la establezca, sin cuyo requisito se entenderá como de pago obligado.
+
+3\. Estarán exentas del pago del precio las suscripciones del «Boletín Oficial del Principado de Asturias» y el suministro de números sueltos del mismo que se autoricen por el titular de la Consejería competente en materia de publicaciones por razones de interés público, o para dotación y funcionamiento de las dependencias y servicios de la Administración Regional, así como por razones de intercambio con publicaciones oficiales de otras Administraciones Públicas.
+
+> Se modifica por el art. 8.5 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 35 bis. Autoliquidación y pago.
+
+La tasa será objeto de autoliquidación y pago al tiempo de presentar la solicitud de inserción, de realizar la suscripción o de adquirir ejemplares sueltos del «Boletín Oficial de Principado de Asturias».
+
+> Se añade por el art. 40.2 de la Ley 5/2025, de 31 de diciembre. [Ref. BOE-A-2026-2888](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-2888)
+
+### CAPÍTULO II — Industria y minería
+
+#### Sección 1.ª Tasa de industria
+
+##### Artículo 36. Hecho imponible.
+
+Constituye el hecho imponible la prestación de los servicios que se enumeran en las tarifas que a continuación se recogen, bien sean prestadas de oficio o a instancia de parte.
+
+##### Artículo 37. Sujeto pasivo.
+
+1\. Tendrán la consideración de sujetos pasivos de la tasa a título de contribuyente, las personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta Ley, que sean receptoras de los servicios objetos de esta tasa.
+
+2\. Tendrán la consideración de sujetos pasivos a título de sustituto del contribuyente, las personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta Ley que realicen la manutención de aparatos elevadores y comuniquen el alta.
+
+Los sujetos pasivos a título de sustituto del contribuyente repercutirán el importe de la tasa a quienes soliciten el servicio de conservación.
+
+> Se modifica por el art. 51.1 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 38. Devengo.
+
+La tasa se devengará en el momento de la prestación del servicio; no obstante, podrá ser exigida en el momento de la solicitud.
+
+##### Artículo 39. Tarifas.
+
+Tarifa 1.
+
+1.1 Inscripción, registro o autorización de funcionamiento, inscripción de cambios de titularidad, inspecciones periódicas, declaración de clausura, desmantelamiento y control de:
+
+1.1.1 Nuevas instalaciones industriales, ampliaciones, modificaciones y traslados.
+
+1.1.2 Centrales, líneas, subestaciones y centros de transformación de energía eléctrica y redes de gas.
+
+1.1.3 Instalaciones eléctricas, de agua y combustibles en edificios no industriales ni de viviendas.
+
+1.1.4 Instalaciones de equipos a presión.
+
+1.1.5 Instalaciones generales de agua y combustibles en edificios destinados principalmente a vivienda.
+
+1.1.6 Instalaciones frigoríficas.
+
+1.1.7 Instalaciones de calefacción, climatización y agua caliente sanitaria.
+
+1.1.8 Aparatos elevadores.
+
+1.1.9 Instalaciones de almacenamiento de productos químicos.
+
+1.1.10 Instalaciones radiactivas y de rayos X.
+
+1.1.11 Instalaciones de protección contra incendios.
+
+1.2 Para la determinación de la cuota se tomará como base el presupuesto de maquinaria, equipos e instalaciones y con él se obtendrá la siguiente tarifa base:
+
+1.2.1 Por los primeros 3.005,06 € de presupuesto: 2,686323 €.
+
+1.2.2 Por la parte del presupuesto entre 3.005,07 a 30.050,61 €: 113,43851 €.
+
+1.2.3 En los excesos por cada 6.010,12 € o fracción: 11,343162 €.
+
+1.2.4 Esta tarifa base se aplicará de forma acumulativa.
+
+1.2.5 En el caso de maquinaria e instalaciones relativas a establecimientos industriales, se englobarán las distintas instalaciones que se tramiten de manera conjunta en unión de la maquinaria en una única tarifa.
+
+1.3 Los servicios señalados en esta tarifa 1 serán exigidos aplicando el porcentaje que a continuación se indica sobre la tarifa base:
+
+1.3.1 Inscripción de cambios de titularidad:
+
+30% de la tarifa base, con un máximo de 162,94 €.
+
+1.3.2 Reconocimientos periódicos:
+
+60% de la tarifa base, con un máximo de 267,34 €.
+
+1.3.3 Legalización de nuevas instalaciones, ampliaciones, modificaciones en instalaciones clandestinas: 200% de la tarifa base.
+
+1.3.4 La tarifa de aplicación de esta norma será, en el caso de inscripción de grúas autopropulsadas o de inscripción previa en el régimen especial de productores de energía eléctrica: 65,03 € por unidad.
+
+1.4 En las instalaciones de agua, gas y electricidad en edificios de viviendas y alumbrados festivos temporales:
+
+1.4.1 Por cada certificado: 9,09 €.
+
+1.5 Inscripción y/o autorización en el registro de instalaciones radiactivas y de instalaciones de rayos X, declaración de clausura de estas instalaciones y su desmantelamiento:
+
+1.5.1 Inscripción, autorización, modificación o cambio de titularidad en el registro de instalaciones de rayos X de uso médico: 62,05 €.
+
+1.5.2 Inscripción, autorización, modificación o cambio de titularidad en el registro de instalaciones radiactivas de 2.ª y 3.ª categoría: 77,58 €.
+
+1.5.3 Por expedición de la declaración de desmantelamiento y clausura de instalaciones radiactivas de 2.ª y 3.ª categoría: 68,99 €.
+
+Tarifa 2.–Verificaciones, comprobaciones, informes y certificaciones.
+
+2.1 Comprobación de fraudes y magnitudes no indicadas expresamente:
+
+Por unidad: 59,56 €.
+
+2.2 Comprobación de obras ejecutadas, tasación de industrias, maquinarias e instalaciones: 0,05% del valor.
+
+2.3 Actuación en importación temporal y patentes:
+
+Por unidad: 56,72 €.
+
+2.4 Informes, confrontaciones de proyectos y certificados técnicos: 39,72 €.
+
+2.5 Certificaciones administrativas de inscripción y/o no sanción: 23,28 €.
+
+2.6 **(Suprimida).**
+
+2.7 Expedición de copias compulsadas de documentos correspondientes a expedientes cerrados o archivados:
+
+Por cada documento: 3,89 €.
+
+2.8 Libro-Registro del usuario o Libro-Registro del instalador para instalaciones frigoríficas: 15,52 €.
+
+Tarifa 3.–Examen, expedición de carnés y reconocimiento de entidades de formación de instaladores, de mantenedores, de operadores u otros.
+
+3.1 Derechos de examen para la obtención de carnés profesionales:
+
+Por unidad : 23,28 €.
+
+3.2 Expedición y renovación de carnés profesionales o certificados de cualificación individual y similares:
+
+Por unidad: 22,68 €.
+
+3.3 Inscripción, autorización, registro, reconocimiento y renovación de entidades de formación de operadores, instaladores o mantenedores regulados reglamentariamente:
+
+Por unidad: 275,99 €.
+
+3.4 Inspección periódica de comprobación del mantenimiento de las condiciones de las inscripciones, autorizaciones o registros de la actividad anterior. (Entidades de formación):
+
+Por unidad: 55,20 €.
+
+Tarifa 4.–Expedientes de expropiación forzosa de bienes e imposición de servidumbre
+
+4.1 Por una finca: 136,17 €.
+
+4.1.1 Exceso por cada finca: 45,40 €.
+
+Tarifa 5.
+
+5.1 Autorización, inscripción, registro o control de entidades con funciones de:
+
+5.1.1 Laboratorios de verificación y control
+
+5.1.2 Instaladoras, reparadoras y mantenedoras
+
+5.1.3 Inspectoras y de control reglamentario
+
+5.1.4 Venta y asistencia técnica de equipos de rayos x con fines de diagnóstico médico.
+
+5.2 Autorización, inscripción, registro, renovación de laboratorios (incluso metrológico y de metales preciosos), entidades o empresas con funciones instaladoras, reparadoras, mantenedoras, inspectoras y de control reglamentario, y de venta y asistencia técnica de equipos de rayos x con fines de diagnóstico médico: 283,62 €.
+
+5.3 Inspección periódica de comprobación del mantenimiento de las condiciones de las inscripciones, autorizaciones o registros de las actividades anteriores.
+
+Por cada instalación: 56,72 €.
+
+5.4 Control de las entidades anteriores con inspección de supervisión de los trabajos realizados.
+
+Por jornada: 56,72 €.
+
+Esta tarifa es independiente de la que corresponda por la inscripción o inspección periódica de la maquinaria e instalaciones (tarifa1) en el Registro de Establecimientos Industriales.
+
+Tarifa 6.–Registro de Control Metrológico.
+
+6.1 Inscripción o actualización del Registro de Control Metrológico.
+
+Por unidad: 48,31 €.
+
+Tarifa 7. Entrega de placas de equipos a presión.
+
+7.1 Coste por unidad: 3,1 €.
+
+7.2 Coste fijo por cada entrega: 7,5 €.
+
+Tarifa 8. Tramitación de cambios de empresa conservadora de aparatos elevadores.
+
+8.1 Alta del contrato de conservación por parte de la empresa conservadora, para su anotación en el registro de aparatos elevadores: 12,13 euros.
+
+Tarifa 9. Catalogación de vehículos históricos.
+
+9.1 Tramitación de la solicitud de catalogación de un vehículo como histórico: 82,00 euros.
+
+> Se suprime la tarifa 2.6 y se añade la tarifa 9 por el art. 41.2 y 3 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+> Se modifica el apartado 1.2.5 de la tarifa 1 y se añade la tarifa 8 por el art. 51.2 y 3 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+> Se modifica el apartado 1 de la tarifa 1 y se añade la tarifa 7 por el art. 6.1 y 2 de la Ley 13/2010, de 28 de diciembre. [Ref. BOE-A-2011-4296](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4296).
+
+> Se modifica por el art. 8.3 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+> Se modifican las tarifas 1, 2, 3 y 6 y se añade la tarifa 8 por el art. 5.1 y 2 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 92, de 17 de abril de 2001. [Ref. BOE-A-2001-7427](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-7427).
+
+#### Sección 1.ª bis. Tasa del registro de certificados de eficiencia energética de edificios y de técnicos y empresas competentes
+
+> Se añade por el art. 41.4 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 39 bis. Hecho imponible.
+
+Constituye el hecho imponible el registro del certificado de eficiencia energética de proyecto y/o edificio terminado, de edificios nuevos o existentes, así como la comprobación, y el registro de los técnicos o las empresas competentes para la elaboración de certificados de eficiencia energética en edificios.
+
+> Se añade por el art. 41.4 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 39 tercero. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa el promotor o propietario del edificio, en el caso de edificios y el técnico competente o empresa, en el caso de inscripción en el registro de técnicos competentes.
+
+> Se añade por el art. 41.4 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 39 cuarto. Devengo.
+
+La tasa se devengará en el momento de la solicitud de inscripción en el registro.
+
+> Se añade por el art. 41.4 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 39 quinto. Tarifa.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+1\. Proyectos y/o edificio terminado, edificios nuevos o existentes, así como la comprobación, dependiendo de la superficie construida del edificio:
+
+Menor o igual de 125 m<sup>2</sup>: 17,90 euros.
+
+Mayor de 125 m<sup>2</sup> y menor o igual a 500 m<sup>2</sup>: 36,40 euros.
+
+Mayor de 500 m<sup>2</sup> y menor o igual a 2.000 m<sup>2</sup>: 73,30 euros.
+
+Mayor de 2.000 m<sup>2</sup>: 145,20 euros.
+
+En el caso de edificios de bloques de viviendas, la tarifa se calculará sumando la correspondiente a cada vivienda y local teniendo en cuenta la superficie según las tarifas señaladas anteriormente.
+
+2\. Inscripción en el registro de técnicos competentes, por cada inscripción de técnico o empresa: 17,90 euros.
+
+> Se añade por el art. 41.4 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 39 sexto. Exenciones.
+
+1\. Estarán exentos del abono de esta tasa los promotores o propietarios de edificios en los que la calificación energética de proyecto que hubiese sido registrada abonando la correspondiente tarifa, coincida con la calificación del edificio terminado.
+
+2\. Estarán exentas las renovaciones de las inscripciones en el registro de técnicos competentes, excepto en el caso de que las modificaciones normativas impongan nuevos requisitos a cumplir por los técnicos o empresas competentes.
+
+> Se añade por el art. 41.4 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+#### Sección 1.ª ter. Tasa por expedientes de expropiación forzosa e imposición de servidumbres para ejecución de proyectos de instalaciones eléctricas, de hidrocarburos y para llevar a cabo explotaciones mineras
+
+> Se añade por el art. 41.5 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 39 séptimo. Hecho imponible.
+
+Constituye el hecho imponible la tramitación de expedientes de expropiación forzosa o de ocupación temporal de bienes y derechos, incluida la imposición de servidumbres de paso para el establecimiento de instalaciones de generación, transporte y distribución de energía eléctrica, incluso eólica, para el establecimiento de instalaciones del sector de hidrocarburos, y para llevar a cabo explotaciones mineras.
+
+> Se añade por el art. 41.5 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 39 octavo. Sujeto pasivo.
+
+Será sujeto pasivo el beneficiario de la expropiación, en el sentido definido en el artículo 2.2 de la Ley de 16 de diciembre de 1954, de Expropiación Forzosa.
+
+> Se añade por el art. 41.5 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 39 noveno. Devengo.
+
+La tasa se devengará con la presentación por el beneficiario de la solicitud de inicio de expediente expropiatorio.
+
+> Se añade por el art. 41.5 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 39 décimo. Tarifa.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+Por expediente, incluida la primera finca: 429,00 euros.
+
+Por cada finca adicional del mismo expediente: 114,00 euros.
+
+> Se añade por el art. 41.5 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+#### Sección 2.ª Tasa de inspección técnica de vehículos
+
+##### Artículo 40. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación, de oficio o a instancia de parte, de los servicios relativos al reconocimiento de vehículos automóviles.
+
+##### Artículo 41. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta Ley, propietarios de los vehículos que solicitan la inspección técnica.
+
+##### Artículo 42. Devengo.
+
+La tasa se devengará en el momento de la prestación del servicio; no obstante, podrá ser exigido su ingreso con anterioridad a la realización del servicio.
+
+##### Artículo 43. Tarifas.
+
+Las cantidades a pagar para cada clase de vehículos y según el tipo de inspección realizada son las siguientes:
+
+|  | Pesetas |
+|---|---|
+| 1. Motocicletas y vehículos de hasta tres ruedas: |  |
+| Por inspección regular | 1.398 |
+| Por segunda y tercera inspección | 1.163 |
+| Por revisiones previas a matriculación | 4.651 |
+| Por segunda inspección de matriculación | 2.328 |
+| Por reformas de importancia con proyecto | 3.491 |
+| Por reformas de importancia sin proyecto y enganches | 1.398 |
+| Por duplicado de documentación y expedición de certificados | 2.328 |
+| Por sanciones de luces, neumáticos, etc | 1.163 |
+| Por inspección regular y duplicados | 3.491 |
+| 2. Turismos, derivados de turismos, vehículos mixtos adaptables, taxis, ambulancias, turismos de autoescuelas y alquiler sin conductor: |  |
+| Por inspección regular | 2.328 |
+| Por segunda y tercera inspección | 1.163 |
+| Por revisiones previas a matriculación | 4.651 |
+| Por segunda inspección de matriculación | 2.328 |
+| Por reformas de importancia con proyecto | 3.491 |
+| Por reformas de importancia sin proyecto y enganches | 1.398 |
+| Por verificación y precintado de taxímetros | 1.398 |
+| Por duplicado de documentación y expedición de certificados | 2.328 |
+| Por inspección de transporte escolar | 3.491 |
+| Por segunda inspección de transporte escolar | 1.398 |
+| Por sanciones de luces, neumáticos, etc | 1.163 |
+| Por inspección regular y duplicado | 3.491 |
+| 3. Autobuses: |  |
+| Por inspección regular | 4.073 |
+| Por segunda y tercera inspección | 1.398 |
+| Por revisiones previas a matriculación | 6.977 |
+| Por segunda inspección de matriculación | 3.491 |
+| Por reformas de importancia con proyecto | 3.491 |
+| Por reformas de importancia sin proyecto y enganches | 1.398 |
+| Por duplicado de documentación y expedición de certificados | 2.328 |
+| Por inspección de transporte escolar | 4.651 |
+| Por segunda inspección de transporte escolar | 1.398 |
+| Por sanciones de luces, neumáticos, etc | 1.163 |
+| Por inspección regular y duplicado | 4.651 |
+| 4. Camiones, furgones, remolques, semirremolques, cabezas y tractores, vehículos especiales: |  |
+| a) Por inspección regular: |  |
+| Con 3.500 kg o menos de PMA | 3.491 |
+| Con más de 3.500 kg de PMA | 4.073 |
+| b) Por segunda y tercera inspección: |  |
+| Con 3.500 kg g o menos de PMA | 1.398 |
+| Con más de 3.500 kg de PMA | 1.398 |
+| c) Por revisiones previas a matriculación: |  |
+| Con 3.500 kg o menos de PMA | 6.977 |
+| Con más de 3.500 kg de PMA | 6.977 |
+| d) Por segunda inspección de matriculación: |  |
+| Con 3.500 kg o menos de PMA | 3.491 |
+| Con más de 3.500 kg de PMA | 3.491 |
+| e) Por reformas de importancia con proyecto: |  |
+| Con 3.500 kg o menos de PMA | 3.491 |
+| Con más de 3.500 kg de PMA | 3.491 |
+| f) Por reformas de importancia sin proyecto y enganches: |  |
+| Con 3.500 kg o menos de PMA | 1.398 |
+| Con más de 3.500 kg de PMA | 1.398 |
+| g) Por duplicado de documentos y expedición de PMA: |  |
+| Con 3.500 kg o menos de PMA | 2.328 |
+| Con más de 3.500 kg de PMA | 2.328 |
+| h) Por sanciones de luces, neumáticos, etcétera: |  |
+| Con 3.500 kg o menos de PMA | 1.163 |
+| Con más de 3.500 kg de PMA | 1.163 |
+| i) Por inspección regular y duplicado: |  |
+| Con 3.500 kg o menos de PMA | 4.651 |
+| Con más de 3.500 kg de PMA | 4.651 |
+| 5. Vehículos especiales a domicilio: |  |
+| Por inspección regular | 9.948 |
+| Por segunda y tercera inspección | 3.980 |
+| Por revisiones previas a matriculación | 13.263 |
+| Por segunda inspección de matriculación | 9.948 |
+| Por reformas de importancia con proyecto | 9.948 |
+| Por reformas de importancia sin proyecto | 9.948 |
+| Por duplicado de documentación y expedición de certificados | 9.948 |
+| Por sanciones de luces, neumáticos, etc | 9.948 |
+| Por inspección regular y duplicado | 9.948 |
+
+> Téngase en cuenta que las cantidades establecidas en este artículo se actualizan periódicamente por Decreto publicado en el Boletín Oficial del Principado de Asturias.
+
+#### Sección 3.ª Tasa de minas
+
+##### Artículo 44. Hecho imponible.
+
+Constituye el hecho imponible la prestación de los servicios relativos a actividades mineras que se enumeran en las tarifas que a continuación se recogen, bien sea prestada de oficio o a instancia de parte.
+
+##### Artículo 45. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas y jurídicas y las entidades a que se refiere el artículo 5.2 de esta Ley, receptoras de los servicios prestados.
+
+##### Artículo 46. Devengo.
+
+La tasa se devengará en el momento de la prestación del servicio; no obstante, podrá ser exigido su ingreso en el momento de la solicitud.
+
+##### Artículo 47. Tarifas.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+Tarifa 1.–Ejecución y elaboración de informes y actas.
+
+|  | Interior<br>-<br>Euros | Exterior<br>-<br>Euros |
+|---|---|---|
+| 1.1 Informes que no requieran aplicación de medios técnicos. | 178,71 | 119,16 |
+| 1.2 Informes que requieran aplicación de medios técnicos. | 283,62 | 226,91 |
+| 1.3 Actas de Inspección. | 142,95 | 95,33 |
+| 1.4 Actas de prueba a presión. | 34,04 | 22,70 |
+| 1.5 Informes y actas por accidentes graves y mortales. | 78,71 | 19,16 |
+
+Tarifa 2.–Exámenes de aptitud, certificados y otros.
+
+2.1 Expedición de certificados o carnés de aptitud para artilleros, distribuidores, tractoristas, palistas, maquinistas y electricistas.
+
+Interior: 35,74 €.
+
+Exterior: 23,83 €.
+
+2.2 Expedición de carnés de aptitud para vigilantes.
+
+Interior: 68,06 €.
+
+Exterior: 45,40 €.
+
+2.3 Expedición de planos por medios informáticos: 12,48 €.
+
+Tarifa 3.–Confrontación de proyectos y planes de labores.
+
+Presupuestos (P) menores de 6.010,12 €: 283,62 €.
+
+De 6.010,12 a 150.253,02 €: 283,62 € + Px10<sup>-3</sup>.
+
+De 150.253,03 a 601.012,10 €: 567,25 € + Px10<sup>-4</sup> +Px10<sup>-5</sup>.
+
+De 601.012,11 a 1.502.530,26 €: 680,70 € + Px10<sup>-4</sup> +Px10<sup>-5</sup>.
+
+Para presupuestos mayores de 1.502.530,26 €: 794,13 € + Px10<sup>-4</sup> +Px10<sup>-5</sup>.
+
+Tarifa 4.–Autorización de puestas en servicio y fondos de saco.
+
+4.1 Puesta en servicio de máquinas móviles.
+
+Interior: 90,76 €.
+
+Exterior: 68,06 €.
+
+4.2 Fondos de saco: 34,04 €.
+
+4.3 Puesta en servicio de instalaciones con proyecto, 20% de la tarifa de confrontación.
+
+Tarifa 5.–Permisos de exploración y de investigación, concesiones de explotación, expropiación forzosa y trabajos de topografía
+
+5.1 Informes de intrusiones, deslindes o trabajos similares que requieran el uso de técnicas de topografía, por día.
+
+Interior: 283,62 €.
+
+Exterior: 226,91 €.
+
+5.2 Exploración.
+
+5.2.1 Primeras 300 cuadrículas: 1.474,127969 €.
+
+5.2.2 Exceso por cada cuadrícula: 1,483444 €.
+
+5.3 De investigación
+
+5.3.1 Primera cuadrícula: 1.474,127969 €.
+
+5.3.2 Exceso por cada cuadrícula: 5,692281 €.
+
+5.4 Concesión derivada de permiso de investigación
+
+5.4.1 Primeras 50 cuadrículas: 1.474,127969 €.
+
+5.4.2 Exceso por cada cuadrícula: 29,530858 €.
+
+5.5 Concesiones directas.
+
+5.5.1 Primera cuadrícula: 1.418,067639 €.
+
+5.5.2 Exceso por cada cuadrícula: 5,692281 €.
+
+5.6**(Derogada).**
+
+> Se deroga la tarifa 2.5.6 por la disposición derogatoria única de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+> Se modifica por el art. 8.4 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+### CAPÍTULO II BIS — Empleo
+
+> Se añade por el art. 51.4 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+#### Sección 1.ª Tasa por Expedición de Certificados de Profesionalidad, Acreditaciones Parciales Acumulables y Duplicados
+
+> Se añade por el art. 51.4 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 47 bis. Hecho imponible.
+
+Constituye el hecho imponible de la tasa, la expedición de certificados de profesionalidad y acreditaciones parciales acumulables, regulados en el Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad; así como la expedición, por causas no imputables a la Administración, de duplicados de dichos certificados.
+
+> Se añade por el art. 51.4 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 47 tercero. Sujetos pasivos.
+
+Son sujetos pasivos de la tasa, las personas que soliciten a su nombre la prestación del servicio que integra su hecho imponible.
+
+> Se añade por el art. 51.4 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 47 cuarto. Devengo.
+
+La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.
+
+> Se añade por el art. 51.4 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 47 quinto. Tarifas.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+Por expedición de certificados de profesionalidad: 14,00 €.
+
+Por expedición de acreditaciones parciales acumulables (por documento): 11,00 €.
+
+Por expedición de duplicados de certificados de profesionalidad (por documento): 11,00 €.
+
+> Se añade por el art. 51.4 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 47 sexto. Exenciones y Bonificaciones.
+
+1\. Gozarán de exención por expedición de certificados de profesionalidad, acreditaciones parciales acumulables y duplicados, las personas desempleadas que figuren inscritas como tales en sus correspondientes Oficinas de Empleo y que no perciban ninguna prestación económica, así como los miembros de familia numerosa de categoría especial.
+
+2\. Gozarán de una bonificación del 50% de la cuota por expedición de certificados de profesionalidad y duplicados, las personas desempleadas que sea preceptoras de alguna prestación económica y los miembros de familias numerosas de categoría general.
+
+Las personas que puedan acreditar el derecho a la exención o bonificación de esta tasa lo indicarán en apartado correspondiente a la solicitud.
+
+> Se añade por el art. 51.4 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+#### Sección 2.ª Tasa por Inclusión en el Registro de Centros y Entidades de Formación para el Empleo del Principado de Asturias y sus Modificaciones
+
+> Se añade por el art. 51.4 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 47 séptimo. Hecho imponible.
+
+Constituye el hecho imponible de la tasa, la tramitación de solicitud de inclusión en el Registro de Centros y Entidades de Formación para el Empleo del Principado de Asturias, así como las modificaciones que se soliciten sobre las anotaciones originales.
+
+> Se añade por el art. 51.4 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 47 octavo. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa, las entidades y centros colaboradores que soliciten la inclusión, inscripción, acreditación o sus modificaciones en el citado registro.
+
+> Se añade por el art. 51.4 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 47 noveno. Devengo.
+
+La tasa se devengará en el momento en que se realice la solicitud que inicie la actuación administrativa, cuyo ingreso será condición para la prestación del servicio.
+
+> Se añade por el art. 51.4 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 47 décimo. Tarifa.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+Por inclusión en el registro de centros y entidades de formación para el empleo: 79,50 €.
+
+Por modificaciones de carácter jurídico: 22 €.
+
+Por modificaciones de carácter técnico: 79,50 €.
+
+Segunda o sucesivas inscripciones y/o acreditaciones de la misma familia profesional que la primera inscripción o acreditación: 8 €.
+
+Segunda o sucesivas inscripciones y/acreditaciones de distinta familia profesional que la primera inscripción o acreditación: 10 €.
+
+Se entenderá por modificación de carácter jurídico la que verse sobre las condiciones de personalidad o capacidad jurídica que dieron origen a la inclusión, y por modificación de carácter técnico, la que verse sobre las condiciones de los medios de producción que se asociaron a las inscripciones o acreditaciones originales.
+
+> Se añade por el art. 51.4 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+### CAPÍTULO III — Educación, Cultura y Deporte.
+
+> Se modifica la rúbrica por el art. 41.6 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+#### Sección 1.ª Tasa por expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, y por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+> Se modifica por el art. 13.2 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifica por el art. 19.1 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 48. Hecho imponible.
+
+1\. Constituye el hecho imponible la expedición de los títulos académicos y profesionales acreditativos de la superación de las enseñanzas reguladas en la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, y en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+2\. No obstante lo dispuesto en el apartado anterior, la expedición del título de Graduado en Educación Secundaria Obligatoria no estará sujeta al pago de la tasa regulada en la presente sección.
+
+3\. La expedición de duplicados de los títulos a que se refiere la presente sección sólo dará lugar al abono de la tasa correspondiente cuando aquella expedición se deba a causas atribuibles al interesado.
+
+> Se modifica el apartado 1 por el art. 13.3 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifica por el art. 19.1 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 49. Sujeto pasivo.
+
+Son sujetos pasivos de esta tasa las personas que solicitan la expedición a su nombre de los títulos académicos y profesionales a que se refiere el artículo anterior.
+
+> Se modifica por el art. 19.1 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 50. Devengo.
+
+La tasa será exigible en el momento en que se produzca la solicitud del correspondiente título académico o profesional.
+
+> Se modifica por el art. 19.1 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 51. Tarifas.
+
+Título de Bachiller LOGSE o LOE:
+
+Título de Bachiller (en cualquiera de sus modalidades): 54,90 euros.
+
+Títulos Formación Profesional LOGSE o LOE (régimen general):
+
+Título Técnico (Grado Medio) 22,34 euros.
+
+Título Técnico Superior (Grado Superior). 54,90 euros.
+
+Títulos Formación Profesional LOGSE o LOE (regímenes especiales):
+
+Título Técnico Deportivo (Grado Medio) 22,34 euros.
+
+Título Técnico Deportivo Superior (Grado Superior) 54,90 euros.
+
+Títulos Artes Plásticas y Diseño LOGSE o LOE:
+
+Título de Técnico (Artes Plásticas y Diseño de Ciclo Formativo Grado Medio): 22,34 euros.
+
+Título de Técnico Superior (Artes Plásticas y Diseño de Ciclo Formativo Grado Superior): 54,90 euros.
+
+Título Superior de Diseño: 120,50 euros.
+
+Títulos de Conservación y Restauración de Bienes Culturales LOGSE o LOE:
+
+Título Superior de Conservación y Restauración de Bienes Culturales: 120,50 euros.
+
+Títulos de Arte Dramático LOGSE o LOE:
+
+Título Superior de Arte Dramático: 120,50 euros.
+
+Títulos de Música y Danza LOGSE o LOE:
+
+Título Profesional: 54,90 euros.
+
+Título Superior: 120,50 euros.
+
+Títulos de Idiomas LOGSE o LOE:
+
+Certificado de Aptitud del Ciclo Superior de 1er. Nivel de enseñanzas especializadas de idiomas: 54,90 euros.
+
+Certificado de idiomas LOE de nivel básico (del idioma correspondiente): 22,34 euros.
+
+Certificado de idiomas LOE de nivel medio (del idioma correspondiente): 22,34 euros.
+
+Certificado de idiomas LOE de nivel avanzado (del idioma correspondiente): 22,34 euros.
+
+Certificado de idiomas LOE nivel C (del idioma correspondiente): 24,20 euros.
+
+Duplicados títulos LOGSE o LOE:
+
+Título Graduado en Educación Secundaria Obligatoria. 2,50 euros.
+
+Título de Bachiller (en cualquiera de sus modalidades): 4,90 euros.
+
+Títulos de Técnico (Ciclo Formativo Grado Medio): 2,50 euros.
+
+Título de Técnico Superior (Ciclo Formativo Grado Superior): 4,90 euros.
+
+Certificado de Aptitud de las escuelas de idiomas: 2,50 euros.
+
+Títulos LOGSE o LOE equivalentes a diplomados: 4,90 euros.
+
+Títulos LOGSE o LOE equivalentes a licenciados: 4,90 euros.
+
+> Se modifica por el art. 41.7 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+> Se modifica por el art. 13.4 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifica por el art. 19.1 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 52. Exenciones y bonificaciones.
+
+1\. Los miembros de las familias numerosas de las categorías 2.ª y de honor quedan exentos del abono de la tasa regulada en la presente sección.
+
+2\. Los miembros de las familias numerosas de 1.ª categoría gozarán de una reducción del cincuenta por ciento (50 %) del importe de la tasa a que refiere el artículo anterior.
+
+> Se modifica por el art. 19.1 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+#### Sección 1.ª bis. Tasa por inscripción en las pruebas de habilitación de guía de turismo
+
+> Se añade por el art. 13.5 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 52 bis. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la inscripción en las pruebas convocadas para obtener la habilitación de guía de turismo en el Principado de Asturias.
+
+> Se añade por el art. 13.5 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 52 tercero. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa quienes soliciten la inscripción para realizar las pruebas para obtener la habilitación de guía de turismo en el Principado de Asturias.
+
+> Se añade por el art. 13.5 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 52 cuarto. Devengo.
+
+La tasa se devengará en el momento de presentar la solicitud de inscripción.
+
+> Se añade por el art. 13.5 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 52 quinto. Tarifa.
+
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+Por cada inscripción: 25,35 euros.
+
+> Se añade por el art. 13.5 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+#### Sección 1.ª ter. Tasa por la inscripción en las pruebas de conjunto de grado medio o de grado superior para la homologación de la formación de entrenadores regionales y de entrenadores nacionales, de fútbol y de fútbol sala
+
+> Se añade por el art. 41.8 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 52 sexto. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la inscripción para la participación en las pruebas de conjunto de grado medio o de grado superior para la homologación de la formación de entrenadores regionales y de entrenadores nacionales, de fútbol y de fútbol sala en el Principado de Asturias.
+
+> Se añade por el art. 41.8 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 52 séptimo. Sujetos pasivos.
+
+Son sujetos pasivos de la tasa las personas que soliciten la inscripción para realizar las pruebas de conjunto de grado medio o de grado superior para la homologación de la formación de entrenadores regionales y de entrenadores nacionales, de fútbol y de fútbol sala en el Principado de Asturias.
+
+> Se añade por el art. 41.8 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 52 octavo. Devengo.
+
+La tasa se devengará en el momento de la presentación de la solicitud de inscripción.
+
+> Se añade por el art. 41.8 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 52 noveno. Tarifa.
+
+La tasa se exigirá de acuerdo con la siguiente tarifa: 52,10 euros.
+
+> Se añade por el art. 41.8 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+#### Sección 2.ª Tasa de entrada y visita a las cuevas y yacimientos prehistóricos
+
+##### Artículo 53. Hecho imponible.
+
+Constituye el hecho imponible la entrada y visita a las cuevas y yacimientos prehistóricos que se enumeran en la tarifa de esta tasa.
+
+##### Artículo 54. Sujeto pasivo.
+
+Son sujetos pasivos las personas que visiten las cuevas y yacimientos prehistóricos a que se refiere el artículo anterior.
+
+##### Artículo 55. Devengo.
+
+La tasa se devengará al retirar el boleto de entrada y visita a las cuevas o yacimientos prehistóricos.
+
+##### Artículo 56. Tarifas.
+
+1\. La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+a) Cueva de Tito Bustillo:
+
+General: 4 euros.
+
+Reducida: 2 euros.
+
+b) Cueva de La Lluera:
+
+General: 3 euros.
+
+Reducida: 1,5 euros.
+
+c) Cuevas El Pindal:
+
+General: 3 euros.
+
+Reducida: 1,5 euros.
+
+d) Cuevas El Buxu:
+
+General: 3 euros.
+
+Reducida: 1,5 euros.
+
+e) Castro de Coaña:
+
+General: 3 euros.
+
+Reducida: 1,5 euros.
+
+La tarifa reducida se aplicará a las personas de 7 a 12 años, a las personas mayores de 65 años y a los miembros de familias numerosas.
+
+2\. Exenciones:
+
+Los miércoles se establecen como días de visita gratuita.
+
+Las visitas de grupos de centros de enseñanza estarán exentas del pago cuando así se haya solicitado al Servicio de Patrimonio Histórico de la Consejería con una antelación mínima de siete días y autorizado por la misma.
+
+3\. Bonificaciones:
+
+Los grupos de más de 25 personas tendrán una bonificación del 50 por 100 del precio de la entrada cuando así se haya solicitado al Servicio de Patrimonio Histórico de la Consejería con una antelación mínima de siete días y autorizado por la misma.
+
+Los titulares del carné joven o del carné internacional de estudiante tendrán una bonificación del 50 por 100 del precio de la entrada, previa presentación de los mismos.
+
+> Se modifica el apartado 1 por el art. 5.2 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+> Se derogan las tarifas del apartado 1.b) por la disposición derogatoria 2 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+#### Sección 3.ª Tasa por servicios prestados por el Registro de la propiedad intelectual del Principado de Asturias
+
+> Se añade por el art. 19.2 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 56 bis. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la tramitación de las solicitudes de inscripción, anotación y cancelación de derechos de la propiedad intelectual, así como los servicios de publicidad registral.
+
+> Se añade por el art. 19.2 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 56 tercero. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta ley que soliciten la realización de alguna de las actividades que constituyen el hecho imponible.
+
+> Se añade por el art. 19.2 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 56 cuarto. Devengo.
+
+La tasa se devengará en el momento en que se realice la solicitud o se preste el servicio según el hecho imponible consista en la tramitación de solicitudes o en la prestación del servicio de publicidad registral, respectivamente.
+
+> Se añade por el art. 19.2 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 56 quinto. Tarifas.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+1) Tramitación de solicitud:
+
+Por la tramitación de solicitud de inscripción, anotación o cancelación, siendo el autor y titular de derechos de la obra la misma persona: 10,30 €.
+
+Por la tramitación de solicitud de inscripción, anotación o cancelación, siendo el autor y titular de derechos de la obra distinta persona: 61,80 €.
+
+Por la tramitación de solicitud de inscripción, anotación o cancelación de obras colectivas: 103,00 €.
+
+Por la tramitación de solicitud de inscripción, anotación o cancelación de una colección de obras:
+
+Por la primera de las obras: 10,30 €.
+
+Por cada una de las siguientes obras que conformen la colección: 3,09 €.
+
+2) Publicidad registral:
+
+Por expedición de certificados: 10,30 €.
+
+Por expedición de nota simple: 5,15 €.
+
+Por expedición de copia certificada de documentos en soporte papel (por cada página):
+
+Hasta las diez primeras: 5,15 €.
+
+Por cada página restante: 0,10 €.
+
+Por expedición de copia certificada en soporte distinto de papel: 25,75 €.
+
+> Se añade por el art. 19.2 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+#### Sección 4.ª Tasa por expedición de carné habilitador de guía de turismo
+
+> Se añade por el art. 41.9 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 56 sexto. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la expedición de carné habilitador de guía de turismo en el Principado de Asturias, así como la expedición de actualización o duplicado, por causas no imputables a la Administración, de dichas acreditaciones.
+
+> Se añade por el art. 41.9 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 56 séptimo. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa quienes soliciten la expedición de carné, actualización o duplicado del mismo.
+
+> Se añade por el art. 41.9 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 56 octavo. Devengo.
+
+La tasa se devengará en el momento de presentar la solicitud que inicie la actuación administrativa, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.
+
+> Se añade por el art. 41.9 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 56 noveno. Tarifa.
+
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+Por cada expedición: 10,00 euros.
+
+> Se añade por el art. 41.9 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+### CAPÍTULO IV — Sanidad
+
+#### Sección 1.ª Tasa por prestación de servicios de salud, inspecciones sanitarias de salud pública y expedición de libros y carnés
+
+> Se modifica por el art. 19.3 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 57. Hecho imponible.
+
+Constituye el hecho imponible la prestación de servicios de salud relativos a inspecciones y autorizaciones sanitarias y la expedición de libros oficiales de registro y visitas, y de carnés de aplicador de biocidas y de técnicos en emergencias sanitarias.
+
+> Se modifica por el art. 13.6 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifica por el art. 8.5 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+> Se modifica por el art. 19.3 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 58. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta ley, a las que se presten los servicios o expidan los documentos objeto de esta tasa, tanto sean a instancia de parte como prestados de oficio por la Administración.
+
+> Se modifica por el art. 19.3 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 59. Devengo.
+
+La tasa se devengará:
+
+a) Por la prestación de servicios de salud relativos a inspecciones y autorizaciones sanitarias en el momento de solicitar la prestación del servicio o cuando éste se realice, si se ejecuta de oficio por la Administración.
+
+b) Por la expedición de documentos en el momento de solicitar la expedición de los libros y carnés objeto de la tasa.
+
+> Se modifica por el art. 19.3 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 60. Tarifas.
+
+Tarifa 1. Inspecciones sanitarias:
+
+1\. En vehículos destinados a transporte sanitario, con expedición de certificado (carta de autorización de funcionamiento).
+
+Ambulancias: 20 €.
+
+Otros vehículos: 39,68 €.
+
+2) Para aperturas, reformas o cambios de titularidad en locales destinados a:
+
+a) Espectáculos públicos y actividades recreativas (cines, teatros, campos de deporte, discotecas y similares): 51,90 €.
+
+b) Comedores colectivos, restaurantes, cafeterías, bares y otros similares: 31,13 €.
+
+c) Establecimientos alimentarios (supermercados, ultramarinos, despachos de pan y leche, pescaderías y carnicerías, fruterías y similares): 15,59 €.
+
+d) Establecimientos hoteleros:
+
+Hoteles y hoteles-apartamentos de cinco estrellas: 259,55 €.
+
+Hoteles y hoteles-apartamentos de cuatro estrellas: 207,65 €.
+
+Hoteles y hoteles-apartamentos de tres estrellas: 155,74 €.
+
+Hoteles y hoteles-apartamentos de dos estrellas: 103,80 €.
+
+Hoteles y hoteles-apartamentos de una estrella: 51,90 €.
+
+Pensiones de dos y una estrella: 31,13 €.
+
+e) Otro tipo de usos: 15,59 €.
+
+3) Inspección alimentaria:
+
+a) Por inspección de locales destinados a manipulación, fabricación, almacenamiento o venta de productos alimentarios:
+
+Inspecciones de carácter reglamentario relacionadas con el Registro General Sanitario de Alimentos: 95,89 euros.
+
+Inspecciones que tengan por objeto comprobar la realización de medidas correctoras previamente impuestas:
+
+Primera visita: 95,89 euros.
+
+Visitas sucesivas: 38,32 euros.
+
+b) Certificados:
+
+Expedición de certificado alimentario: 38,32 euros.
+
+3 bis) Por inspección de establecimientos dedicados a fabricación o formulación, almacenamiento, comercialización o servicios de aplicación de biocidas:
+
+Inspecciones de carácter reglamentario relacionadas con el Registro de biocidas: 95,89 euros.
+
+Inspecciones que tengan por objeto comprobar la realización de medidas correctoras previamente impuestas:
+
+Primera visita: 95,89 euros.
+
+Visitas sucesivas: 38,32 euros.
+
+4) Por la tramitación de expedientes y autorización de traslado de cadáveres o restos cadavéricos:
+
+Dentro de la Comunidad Autónoma: 31,13 €.
+
+A otra comunidad autónoma: 41,52 €.
+
+5\. Inspecciones para autorización, modificación, convalidación o cierre de centros, servicios y establecimientos sanitarios de cualquier clase y naturaleza:
+
+a) Inspección de consultas de enfermería, medicina, psicología, así como de sus correspondientes especialidades: 55 €.
+
+b) Laboratorio de análisis clínicos, ópticas, laboratorios de prótesis dental, centros de reconocimiento de conductores, centros de reconocimientos médicos, clínicas dentales, centros de reproducción asistida humana: 110 €.
+
+c) Centros de hospitalización, centros de diagnóstico por imagen, centros de cirugía ambulatoria de cualquier especialidad médico-quirúrgica: 140 €.
+
+6) Inspección farmacéutica:
+
+a) Por informes sobre condiciones de local, instalaciones y utillaje para la autorización de apertura o traslado de servicios farmacéuticos en:
+
+Botiquines y depósitos de medicamentos: 10,38 €.
+
+Servicios de farmacia: 51,90 €.
+
+Almacenes de distribución de medicamentos: 103,80 €.
+
+b) Sobre condiciones de local, instalaciones y utillaje en apertura de oficinas de farmacia: 31,13 €.
+
+7) Entidades de seguro libre de asistencia médico-farmacéutica:
+
+Prestación de servicios de control sanitario: El dos por mil de las primas satisfechas por los asegurados a las entidades de seguro libre cuyo ámbito de actuación se limita al territorio de la Comunidad Autónoma.
+
+8) Expedición de informes:
+
+Expedición de informes a petición de parte: 51,90 €.
+
+Expedición de informes sanitarios para legalizar aguas de consumo: 142,01 €.
+
+9) Exámenes médicos con expedición de certificados:
+
+Especial para permisos de conducir (menores de 70 años): 15,59 €.
+
+Especial para permisos de conducir (mayores de 70 años): 4,14 €.
+
+Especial para permisos y licencias de armas: 15,59 €.
+
+Tarifa 2. Autorizaciones sanitarias:
+
+Por tramitación de procedimientos de autorizaciones de oficinas de farmacia:
+
+Nuevas oficinas de farmacia: 710,03 €.
+
+Traslados de local: 355,00 €.
+
+Modificación de local: 35,49 €.
+
+Transmisión de oficinas de farmacia a título gratuito: 106,50 €.
+
+Transmisión de oficinas de farmacia a título oneroso a favor de familiares: 106,50 €.
+
+Transmisión de oficinas de farmacia mortis causa: 106,50 €.
+
+Otras transmisiones: 710,03 €.
+
+Autorizaciones de personal por más de 15 días: 35,49 €.
+
+Por tramitación de autorización e inscripción en el Registro de Publicidad Sanitaria en el Principado de Asturias: 20 €.
+
+Tarifa 3. Libros oficiales de registro y visitas:
+
+Expedición de libros oficiales de control sanitario de establecimientos y actividades alimentarias: 9,29 €.
+
+Expedición de libros de registro oficial de piscinas: 30,95 €.
+
+Tarifa 4. Expedición de carnés de aplicadores de biocidas: 7,62 euros.
+
+Tarifa 5.–Expedición de carnés de Técnico de Emergencias Sanitarias 1 y 2: 5 €.
+
+> Se modifican las tarifa 1 y 4 por el art. 13.7 a 9 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifican las tarifas 1 y 2 y se añade la tarifa 5 por el art. 8.6 a 8 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+> Se modifica por el art. 19.3 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+> Se modifica la tarifa 2 por el art. 5.3 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+#### Sección 1.ª bis. Tasa por la evaluación y emisión de dictámenes de ensayos clínicos con medicamentos realizados por el Comité Ético de Investigación Clínica Regional del Principado de Asturias
+
+> Se añade por el art. 5.3 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+##### Artículo 60 bis. Hecho imponible.
+
+Constituye el hecho imponible la realización de actividades de evaluación y emisión de dictámenes por el Comité Ético de Investigación Clínica Regional del Principado de Asturias que conlleva la tramitación de los procedimientos de autorización de un posible protocolo para la realización de ensayos clínicos con medicamentos o estudios postautorización (EPA) que precisen autorización del Comité.
+
+Asimismo, constituye el hecho imponible la realización de actividades de evaluación y emisión del dictamen que conlleva el procedimiento de aprobación de enmiendas al protocolo de ensayo clínico aprobado.
+
+> Se añade por el art. 5.3 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+##### Artículo 60 tercero. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas y jurídicas, así como las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, que tengan la condición de promotor del ensayo clínico, según se define en el artículo 2.e) del Real Decreto 223/2004, de 6 de febrero, por el que se regulan los ensayos clínicos con medicamentos.
+
+> Se añade por el art. 5.3 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+##### Artículo 60 cuarto. Devengo y pago.
+
+La tasa se devengará en el momento en el que el promotor del ensayo clínico solicite la evaluación y emisión de los dictámenes que constituyen el hecho imponible.
+
+La tasa será objeto de autoliquidación e ingreso por los sujetos pasivos con carácter previo a la presentación de la solicitud.
+
+> Se añade por el art. 5.3 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+##### Artículo 60 quinto. Tarifas.
+
+La tasa por la evaluación y emisión de dictamen se exigirá de acuerdo con las siguientes tarifas:
+
+a) Por protocolo de ensayo clínico presentado a evaluación o estudio postautorización: 1.210 euros.
+
+b) Por enmienda relevante del protocolo aprobado: 302 euros.
+
+> Se añade por el art. 5.3 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+##### Artículo 60 sexto. Exenciones.
+
+Quedan exentos del pago de esta tasa las Administraciones Públicas sanitarias, centros de investigación, universidades e instituciones sin ánimo de lucro, así como aquellos investigadores adscritos a centros dependientes del Servicio de Salud del Principado de Asturias que actúen como promotores.
+
+> Se añade por el art. 5.3 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+#### Sección 1.ª ter. Tasa por acreditación de actividades de Formación Continuada de las profesiones sanitarias
+
+> Se añade por el art. 51.5 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 60 séptimo. Hecho imponible.
+
+Constituye el hecho imponible de la tasa, las actuaciones administrativas encaminadas a resolver las solicitudes de acreditación de las actividades de formación continuada de las profesiones sanitarias.
+
+> Se añade por el art. 51.5 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 60 octavo. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa, aquellas personas físicas o jurídicas, organizadoras de las actividades de formación continuada de las profesiones sanitarias que soliciten la acreditación de las mismas.
+
+> Se añade por el art. 51.5 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 60 noveno. Devengo y pago.
+
+La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, exigiéndose en régimen de autoliquidación. El abono deberá acreditarse con la presentación de la solicitud.
+
+> Se añade por el art. 51.5 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 60 décimo. Tarifas.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+Actividades presenciales, por cada actividad: 100 €.
+
+Actividades semi-presenciales y a distancia, por cada actividad:140€.
+
+Congresos, por cada actividad: 175 €
+
+Reediciones y reacreditaciones, por cada actividad reacreditada o solicitud de nuevas ediciones: 41 €.
+
+> Se añade por el art. 51.5 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 60 undécimo. Exenciones.
+
+Quedarán exentos de la tasa centros, servicios y establecimientos sanitarios que dependan de la Administración del Principado de Asturias o de su sector público.
+
+> Se añade por el art. 51.5 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+#### Sección 1.ª quater. Tasa por evaluación, estudio y tramitación para la puesta en el mercado de complementos alimenticios
+
+> Se añade por el art. 40.3 de la Ley 5/2025, de 31 de diciembre. [Ref. BOE-A-2026-2888](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-2888)
+
+##### Artículo 60 duodécimo. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa la evaluación, estudio y tramitación para la puesta en el mercado de complementos alimenticios o la modificación significativa o menor de los productos, una vez comunicada su puesta en el mercado.
+
+2\. A estos efectos, se considera modificación significativa de los productos, una vez comunicada su puesta en el mercado, los cambios en la composición cualitativa y/o cuantitativa del producto, o bien la adecuación del etiquetado a la legislación comunitaria o nacional de aplicación.
+
+3\. A estos efectos, se considera modificación menor de los productos, una vez comunicada su puesta en el mercado, la introducción de nuevos formatos comerciales, el cambio del nombre del producto, o la modificación de datos identificativos de la empresa que realizó la primera comunicación para la puesta en el mercado.
+
+> Se añade por el art. 40.3 de la Ley 5/2025, de 31 de diciembre. [Ref. BOE-A-2026-2888](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-2888)
+
+##### Artículo 60 decimotercero. Sujeto pasivo.
+
+Son sujetos pasivos las personas físicas o jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, que soliciten o sean receptoras de los servicios que constituyen el hecho imponible de la tasa.
+
+> Se añade por el art. 40.3 de la Ley 5/2025, de 31 de diciembre. [Ref. BOE-A-2026-2888](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-2888)
+
+##### Artículo 60 decimocuarto. Devengo.
+
+La tasa se devengará en el momento de solicitar la evaluación, estudio y tramitación para la puesta en el mercado de complementos alimenticios o la modificación significativa o menor de los productos.
+
+> Se añade por el art. 40.3 de la Ley 5/2025, de 31 de diciembre. [Ref. BOE-A-2026-2888](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-2888)
+
+##### Artículo 60 decimoquinto. Tarifas.
+
+Las tarifas exigibles serán:
+
+1\. Por la evaluación, estudio y tramitación para la puesta en el mercado de productos alimenticios: 101,00 euros.
+
+2\. Por modificación significativa de los complementos alimenticios, una vez comunicada su puesta en el mercado: 69,00 euros.
+
+3\. Por modificación menor de los complementos alimenticios, una vez comunicada su puesta en el mercado: 31,30 euros.
+
+> Se añade por el art. 40.3 de la Ley 5/2025, de 31 de diciembre. [Ref. BOE-A-2026-2888](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-2888)
+
+##### Artículo 60 decimosexto. Autoliquidación y pago.
+
+La tasa será objeto de autoliquidación y pago al tiempo de solicitar la evaluación, estudio y tramitación para la puesta en el mercado de complementos alimenticios o la modificación significativa o menor de los productos.
+
+> Se añade por el art. 40.3 de la Ley 5/2025, de 31 de diciembre. [Ref. BOE-A-2026-2888](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-2888)
+
+#### Sección 2.ª Tasas por inspecciones y controles sanitario de animales y sus productos.
+
+> Se modifica por el art. 8.6 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 61. Objeto.
+
+La tasa grava la inspección y control veterinario del sacrificio y despiece de animales.
+
+La tasa se denominará tasa por inspecciones y controles sanitarios oficiales de carnes frescas y carnes de caza, porcino sacrificado en domicilios particulares para el consumo familiar y reses de lidia.
+
+Dichos controles e inspecciones serán los realizados por los técnicos facultativos en las siguientes operaciones:
+
+Sacrificio de animales.
+
+Despiece de las canales.
+
+> Se modifica por el art. 13.10 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifica por el art. 11.1 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+> Se modifica por el art. 8.6 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 62. Hecho imponible.
+
+Constituye el hecho imponible de las presentes tasas la realización de las actividades por la Administración del Principado de Asturias para preservar la salud pública y sanidad animal, mediante la práctica de inspecciones y controles sanitarios de animales y sus carnes frescas destinadas al consumo, efectuadas por los facultativos de los servicios correspondientes, tanto en los locales o establecimientos de sacrificio, despiece, y domicilios, en su caso, sitos en el territorio del Principado de Asturias, como los demás controles y análisis realizados en los centros habilitados al efecto.
+
+A efectos de la exacción del tributo, las actividades de inspección y control sanitario que se incluyan dentro del hecho imponible se catalogan de la siguiente forma:
+
+a) Inspecciones y controles sanitarios «ante mortem» para la obtención de carnes frescas de ganado bovino, porcino, ovino, caprino, conejos de granja, caza mayor y caza menor de pluma y pelo, solípedos/équidos y aves de corral.
+
+b) Inspecciones y controles sanitarios ''post mortem'' de los animales sacrificados para la obtención de las mismas carnes frescas, así como la inspección ''post mortem'' de ganado porcino sacrificado en domicilios particulares, de caza mayor y de reses de lidia.
+
+c) Control documental de las operaciones realizadas en el establecimiento.
+
+d) Control y marcado sanitario de las canales, vísceras y despojos destinados al consumo humano así como el marcado o marchamado de las piezas obtenidas en las salas de despiece.
+
+e) Control de determinadas sustancias y residuos en animales, en la forma prevista por la normativa vigente.
+
+> Se modifica por el art. 13.11 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifica por el art. 11.2 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+> Se modifica por el art. 8.6 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 63. Sujeto pasivo.
+
+Son sujetos pasivos obligados al pago de los tributos, según el tipo de tasa de que se trate, las siguientes personas o entidades:
+
+a) En el caso de las tasas relativas a las inspecciones y controles sanitarios oficiales «ante mortem» y «post mortem» de los animales sacrificados, marcado sanitario de canales, vísceras y despojos destinados al consumo humano, al control de sustancias y residuos en los animales, los titulares de los establecimientos donde se lleve a cabo el sacrificio, o se practique la inspección, ya sean personas físicas o jurídicas y, en su caso, el propietario del animal.
+
+b) En la tasa relativa al control de las operaciones de despiece:
+
+1\. Las personas determinadas en el párrafo anterior cuando las operaciones de despiece se realicen en el mismo matadero.
+
+2\. Las personas físicas o jurídicas titulares de establecimientos dedicados a la operación de despiece de forma independiente, en los demás casos.
+
+Los sujetos pasivos anteriores deberán trasladar, cargando su importe en factura, las tasas a los interesados que hayan solicitado la prestación del servicio, o para quienes se realicen las operaciones de sacrificio o despiece descritas en el artículo anterior, procediendo posteriormente a su ingreso a favor de la comunidad autónoma.
+
+Se entenderá que son interesados, no sólo las personas físicas o jurídicas que soliciten los mencionados servicios, sino también las herencias yacentes, comunidades de bienes y demás entidades que, aunque no tengan personalidad jurídica propia, constituyan una unidad económica o un patrimonio separado.
+
+> Se modifica por el art. 13.12 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifica la letra a) por el art. 11.3 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+> Se modifica por el art. 8.6 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Articulo 64. Responsables de la percepción de las tasas.
+
+Serán responsables subsidiarios, en los supuestos y con el alcance previsto en el artículo 40 de la Ley General Tributaria, los Administradores de sociedades y los síndicos, interventores o liquidadores de quiebras, concursos, sociedades y entidades en general que se dediquen a las actividades cuya inspección y control genera el devengo de las tasas.
+
+> Se modifica por el art. 8.6 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 65. Devengo.
+
+Las tasas que corresponde satisfacer se devengarán en el momento en que se lleven a cabo las actividades de inspección y control sanitario de animales, en los establecimientos o instalaciones en que se desarrollen las mismas, sin perjuicio de que se exija su previo pago cuando la realización del control sanitario se inicie a solicitud del sujeto pasivo o del interesado.
+
+En caso de que en un mismo establecimiento y a solicitud del interesado se realicen en forma sucesiva las dos operaciones de sacrificio y despiece, el total de la cuantía de la tasa se determinará de forma acumulada, al comienzo del proceso con independencia del momento del devengo de las cuotas correspondientes, sin perjuicio de lo previsto en el artículo siguiente.
+
+> Se modifica por el art. 13.13 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifica por el art. 8.6 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 66. Lugar de realización del hecho imponible.
+
+Se entenderá realizado el hecho imponible en el territorio de la comunidad autónoma del Principado de Asturias, cuando en el mismo radique el establecimiento en que se sacrifiquen los animales y se despiecen los canales, sin que puedan existir restituciones a favor de otras comunidades autónomas.
+
+> Se modifica por el art. 13.14 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifica por el art. 8.6 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 67. Cuota tributaria de la tasa por inspecciones y controles sanitarios de carnes frescas, porcino sacrificado en domicilios particulares, caza y reses de lidia.
+
+La cuota tributaria se exigirá al contribuyente por cada una de las operaciones relativas al: sacrificio de animales, operaciones de despiece.
+
+No obstante, cuando concurran en un mismo establecimiento las operaciones de sacrificio y despiece, el importe total de la tasa a percibir comprenderá el de las cuotas de las dos fases acumuladas en la forma prevista en el artículo siguiente.
+
+En las operaciones de sacrificio realizadas en mataderos las cuotas se liquidarán en función del número de animales sacrificados.
+
+Las cuotas tributarias relativas a las actividades conjuntas de inspección y control sanitario «ante mortem», «post mortem» de los animales sacrificados, marcado sanitario de canales, vísceras y despojos destinados al consumo humano, al control de sustancias y residuos en animales, se cifran, para cada animal sacrificado en los establecimientos o instalaciones debidamente autorizados, en las siguientes cuantías:
+
+1\. Mataderos:
+
+Importe/animal:
+
+Vacunos pesados con más de 218 Kg. Canal: 5 euros.
+
+Vacunos jóvenes con menos de 218 Kg. canal: 2 euros.
+
+Solípedos/équidos: 3 euros.
+
+Porcinos con peso en canal igual o superior a 25 Kg: 1 euro.
+
+Porcinos con peso en canal inferior a 25 Kg: 0,50 euros.
+
+Ovino, caprino y otros rumiantes con peso en canal igual o superior a 12 Kg: 0,25 euros.
+
+Ovino, caprino y otros rumiantes con peso en canal inferior a 12 Kg: 0,15 euros.
+
+Aves del género Gallus y pintadas: 0,005 euros.
+
+Patos y ocas: 0,01 euros.
+
+Pavos: 0,025 euros.
+
+Conejo de granja: 0,005 euros.
+
+2\. Salas de despiece:
+
+Importe/tonelada:
+
+Vacuno, porcino, solípedos/équidos, ovino y caprino: 2 euros.
+
+Aves y conejos de granja: 1,50 euros.
+
+Caza silvestre y caza de cría: caza menor de pluma y pelo: 1,50 euros.
+
+Caza silvestre y caza de cría: ratites (avestruz, emú, ñandú): 3 euros.
+
+Caza silvestre y caza de cría:jabalíes y rumiantes: 2 euros.
+
+3\. Salas de tratamiento de caza:
+
+Importe/animal:
+
+Caza menor de pluma: 0,005 euros.
+
+Caza menor de pelo: 0,01 euros.
+
+Ratites: 0,50 euros.
+
+Jabalíes: 1,50 euros.
+
+Rumiantes de caza mayor: 0,50 euros.
+
+4\. Inspección sanitaria de animales no sacrificados en mataderos:
+
+Importe/animal:
+
+Por inspección de ganado porcino sacrificado en domicilios particulares: 6,97 euros.
+
+Por inspección de animales de caza mayor: 17,41 euros.
+
+Por inspección de toros de lidia: 17,41 euros.
+
+Para el cálculo de la tasa en las operaciones de despiece se tomará como referencia el peso real de la carne antes de despiezar, incluidos los huesos.
+
+> Se suprime el penúltimo párrafo del apartado 4 por el art. 41.10 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+> Se modifica por el art. 13.15 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifica por el art. 11.4 y 5 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+> Se modifica por el art. 8.6 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 68. Reglas relativas a la acumulación de cuotas.
+
+Las cuotas tributarias devengadas en cada caso se deberán acumular cuando concurra la circunstancia de una integración de todas o algunas de las fases de devengo en un mismo establecimiento. No obstante, cuando concurran en un mismo establecimiento únicamente operaciones de sacrificio y despiece y la tasa percibida en el matadero cubriese igualmente la totalidad de los gastos de inspección por operaciones de despiece, no se percibirá tasa alguna por dicho concepto.
+
+Se entenderá que la tasa percibida por el sacrifico cubre igualmente los gastos de control de las operaciones de despiece, cuando la situación de los locales en los que se desarrollan las mismas permita a los técnicos facultativos llevar a cabo el control de todas ellas sin un incremento apreciable del tiempo que, normalmente, sería preciso dedicar, por sí solo, a las operaciones de sacrificio.
+
+> Se modifica por el art. 13.16 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifica por el art. 8.6 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 69. Cuota tributaria de la tasa por controles sanitarios respecto de determinadas sustancias y sus residuos en animales vivos y sus productos.
+
+**(Suprimido)**
+
+> Se suprime por el art. 13.17 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifica por el art. 8.6 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+> Redactado conforme a la corrrección de errores publicada en BOE núm. 6, de 6 de enero de 2001. [Ref. BOE-A-2001-474](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-474).
+
+##### Artículo 70. Liquidación de ingreso.
+
+1\. Los obligados al pago de las tasas, trasladarán las mismas cargando su importe total en las correspondientes facturas a los interesados, practicando las liquidaciones procedentes de acuerdo con lo señalado en los artículos anteriores.
+
+El ingreso se realizará mediante autoliquidación trimestral, que deberá presentar dentro de los veinte primeros días siguientes al trimestre natural.
+
+2\. Los titulares de los establecimientos dedicados al sacrificio de ganado podrán deducir como máximo hasta un 70 % del importe de las cuotas tributarias establecidas atendiendo a los siguientes conceptos:
+
+a) Por horario de trabajo:
+
+Deducción aplicable de un 30 % en la cuota tributaria de la tasa, para los mataderos y salas de manipulación de carne de caza en los que demanden la presencia del Servicio Veterinario Oficial entre las 7:00 horas y las 18:00 horas de lunes a viernes laborables,permitiéndose esta deducción aún cuando en el 15 % de los días de cada uno de los meses del trimestre del que se trate se produzcan desviaciones en ese horario.
+
+Para los mataderos que demanden la presencia del Servicio Veterinario Oficial fuera del horario anterior, se limitará la deducción al 10 % cuando al menos la mitad de dicha demanda se realice en dicho horario.
+
+Cuando la demanda de la presencia del Servicio Veterinario Oficial se realice en sábados, domingos o días no laborables, no se aplicarán deducciones por este concepto respecto a los animales sacrificados o faenados en esos días.
+
+Para aplicar esta deducción no será necesaria su autorización previa, los interesados utilizarán la información que con carácter periódico realizan los Servicios Veterinarios Oficiales para calcular la liquidación que sea procedente por este concepto; información que será contrastada por parte de los órganos de la administración encargados de su gestión, pudiendo dar lugar a las correspondientes regularizaciones de las deducciones.
+
+b) Por actividad planificada y estable:
+
+Deducción del 10 % de la cuota que procederá cuando los sujetos pasivos dispongan de un sistema de planificación y programación de la producción y lo lleven a la práctica de manera efectiva, permitiendo a los servicios de inspección conocer el servicio que hace falta prestar con una anticipación mínima de setenta y dos horas, con el fin de prever los recursos necesarios y optimizar la organización de dicho servicio.
+
+c) Por apoyo instrumental al control oficial:
+
+Deducción del 15 % de la cuota que procederá cuando el sujeto pasivo ponga a disposición de los servicios de inspección el material y los equipamientos apropiados para llevar a cabo las actividades de control específicas en las mismas instalaciones, incluyendo a tal efecto, los equipos de protección individual mínimos y las reposiciones necesarias de los mismos así como su limpieza y desinfección, espacio de trabajo debidamente equipado y en condiciones, herramientas, servicio informático y material de oficina.
+
+d) Por sistemas de autocontrol evaluados:
+
+La deducción podrá aplicarse cuando el establecimiento disponga de un sistema de autocontrol basado en el análisis de peligros y puntos de control crítico (APPCC), incluyendo la existencia de procedimientos en materia de bienestar animal evaluado oficialmente y con resultado favorable. Cuantía de deducción: 10 % de la cuota.
+
+Esta deducción será del 15 % cuando los sistemas de autocontrol evaluados se integren en un sistema de gestión de la calidad y/o de seguridad alimentaria.
+
+El requisito para el reconocimiento de la deducción por sistemas de autocontrol evaluados será el informe favorable de la última supervisión del sistema de autocontrol de la empresa, realizada por parte de los órganos de la administración sanitaria que realicen funciones de control sanitario.
+
+El requisito para el reconocimiento de la deducción aplicable por sistemas de autocontrol evaluados e integrados en un sistema de gestión de la calidad, será, además del informe favorable previsto en el párrafo anterior, el documento acreditativo, expedido por la empresa certificadora del sistema de gestión de la calidad y/o de seguridad alimentaria.
+
+e) Por inspección ante mortem en origen de porcinos, aves de corral y caza de cría:
+
+La deducción podrá aplicarse cuando las operaciones de inspección ante mortem se hayan practicado en el ganado en la explotación de origen y no sea necesario repetirlas en el matadero, procedencia de conformidad con lo establecido en el Anexo II, Sección III, punto 7 del Reglamento (CE) número 853/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, por el que se establecen normas específicas de higiene de los alimentos de origen animal, y en el Anexo I, Sección I, Capítulo II, punto B.5 del Reglamento (CE) número 854/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, por el que se establecen normas específicas para la organización de controles oficiales de los productos de origen animal destinados al consumo humano. Cuantía de deducción: 5 % de la cuota correspondiente a la especie afectada.
+
+f) Por personal de apoyo del matadero:
+
+1.ª Deducción aplicable de un 10 % de la cuota correspondiente a la especie afectada cuando personal del matadero desempeñe las funciones de los asistentes oficiales especializados en relación con los controles de la producción de carne de aves de corral y de lagomorfos según se contempla en el Capítulo III de la Sección III del Anexo I del Reglamento (CE) número 854/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, por el que se establecen normas específicas para la organización de controles oficiales de los productos de origen animal destinados al consumo humano.
+
+2.ª Deducción de un 5 % cuando el matadero preste apoyo a los Servicios Veterinarios Oficiales en la preparación de muestras para la investigación de triquinas.
+
+Para la aplicación de las deducciones previstas en el presente apartado, se solicitará el previo reconocimiento por los órganos competentes de la Administración en materia sanitaria de que se cumplen las condiciones anteriormente referidas, con excepción de la mencionada en la letra a (Por horario de trabajo), que será de aplicación directa.
+
+Las solicitudes serán remitidas por parte de los interesados antes del 20 de enero de cada año y en ellas se detallarán los conceptos para los que se solicita la deducción, aportando los documentos probatorios detallados en los apartados anteriores o, en los casos en que no hayan sido detallados, realizando declaración expresa sobre su cumplimiento.
+
+En el caso de no pronunciarse expresamente la autoridad sanitaria competente en el plazo de tres meses, contado desde la entrada de la solicitud en el registro del órgano competente para su tramitación, el interesado podrá entender estimada su solicitud, pudiendo aplicar las deducciones solicitadas en la primera autoliquidación que realice a partir de la finalización de dicho plazo.
+
+Estas autorizaciones para la deducción de tasas podrán ser modificadas o incluso revocadas en caso de existir informes motivados sobre el no cumplimiento de los requisitos exigidos para su aplicación.
+
+> Se modifica por el art. 41.11 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+> Se modifica por el art. 5.4 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+> Se modifica por el art. 13.18 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifica por el art. 8.6 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+> Redactado conforme a la corrrección de errores publicada en BOE núm. 6, de 6 de enero de 2001. [Ref. BOE-A-2001-474](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-474).
+
+##### Artículo 71. Exenciones y bonificaciones.
+
+1\. Sobre las cuotas que resulten de las liquidaciones practicadas según las reglas contenidas en los apartados anteriores, no se concederá exención ni bonificación alguna, cualquiera que sea el titular de las explotaciones o el territorio en que se encuentren ubicados.
+
+2\. El importe de la tasa correspondiente no podrá ser objeto de restitución a terceros a causa de la exportación de las carnes, ya sea de forma directa o indirecta.
+
+> Se modifica por el art. 8.6 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+### CAPÍTULO IV BIS — Consumo
+
+#### Tasa por expedición de hojas de reclamaciones
+
+> Se añade por el art. 19.4 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 71 bis. Hecho imponible.
+
+Constituye el hecho imponible la expedición de hojas de reclamaciones por el órgano competente en materia de consumo.
+
+> Se añade por el art. 19.4 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 71 tercero. Sujeto pasivo.
+
+Serán sujetos pasivos las personas físicas o jurídicas o las entidades a que se refiere el artículo 5.2 de esta ley a las que se expidan las hojas de reclamaciones establecidas obligatoriamente por la normativa vigente.
+
+> Se añade por el art. 19.4 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 71 cuarto. Devengo.
+
+La tasa por expedición de hojas de reclamaciones se devengará en el momento de formular la correspondiente solicitud.
+
+> Se añade por el art. 19.4 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 71 quinto. Tarifa.
+
+Por cada hoja de reclamación: 0,15 €.
+
+> Se añade por el art. 19.4 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+### CAPÍTULO V — Vivienda
+
+#### Sección 1.ª Tasa por prestación de servicios y realización de trabajos del Centro de Estudios de Calidad de la Edificación
+
+##### Artículo 72. Hecho imponible.
+
+Constituye el hecho imponible la prestación de servicios y la realización de trabajos por el Centro de Estudios de Calidad de la Edificación, tanto sean solicitados por los interesados como prestados de oficio por la Administración.
+
+##### Artículo 73. Sujeto pasivo.
+
+Son sujetos pasivos las personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta Ley a las que se les presten los servicios o para las que se ejecuten los trabajos que constituyen el objeto de la tasa.
+
+##### Artículo 74. Devengo.
+
+La tasa se devengará en el momento de la prestación del servicio; no obstante, podrá ser exigido su ingreso en el momento de solicitar el mismo.
+
+##### Artículo 75. Tarifas.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+|  | Pesetas |
+|---|---|
+| Tarifa 1. Servicios administrativos: |  |
+| 1. Expedición de documentos de ensayo: |  |
+| Cada documento | 2.071 |
+| 2. Despacho de documentos: |  |
+| a) Expedientes de ensayo en trámite: |  |
+| A partir de dos copias, cada página | 83 |
+| b) Expedientes de ensayo cerrados: |  |
+| Una copia de las 10 primeras páginas o fracción | 704 |
+| Una copia de cada página más | 83 |
+| Tarifa 2. Realización de trabajos: |  |
+| 1. Aceros para estructuras: |  |
+| Redondos de armar. Tracción incluyendo: Sección media equivalente carga de rotura, límite elástico y alargamiento de rotura: UNE 36088-UNE 36097-UNE 36401. Una probeta | 3.744 |
+| Doblado simple. UNE 36088-UNE 36097-UNE 7472. Una probeta | 1.525 |
+| Doblado-desdoblado. UNE 36088 o UNE 36097. Una probeta | 2.063 |
+| Sección media equivalente. UNE 36088-UNE 36097. Una probeta | 1.525 |
+| Características geométricas (altura, separación, ángulo de inclinación de corrugas transversales y perímetro sin corrugas). UNE 36088. Una probeta | 3.206 |
+| Características ponderales (masa por metro lineal). UNE 36088 y UNE 36097. Una probeta | 1.525 |
+| 2. Mallas electrosoldadas: |  |
+| Despegue de barras UNE 36462. Una probeta | 2.063 |
+| Características geométricas, incluyendo: Separaciones entre los elementos, longitud y anchura de panel y longitud de salientes UNE 36092. Una malla | 2.063 |
+| Inspección de soldadura por radiografía y calificación de ésta. Serie de tres radiografías o fracción | 20.684 |
+| Inspección de soldadura por ultrasonidos. Serie de tres soldaduras | 20.684 |
+| 3. Áridos para hormigones y morteros: |  |
+| Terrones arcilla. UNE 7133. Una muestra . | 4.603 |
+| Finos que pasan por el tamiz. UNE 7135. Una muestra | 7.017 |
+| Materia orgánica. UNE 7082. Una muestra | 3.617 |
+| Partículas blandas. UNE 7134. Una muestra | 6.725 |
+| Coeficiente de forma. UNE 7238. Una muestra | 6.725 |
+| Análisis granulométrico. UNE 7139. Una muestra | 4.603 |
+| Peso específico y absorción de agua. Árido fino. UNE 7140. Una muestra | 12.886 |
+| Peso específico y absorción de agua. Árido grueso. UNE 7083. Una muestra | 12.886 |
+| Humedad contenida. Una muestra | 3.335 |
+| Tamaño máximo característico. Árido grueso en hormigón fresco. UNE 7295. Una muestra | 5.016 |
+| Azul de metileno. UNE 83130 | 5.680 |
+| 4. Baldosas de cemento: |  |
+| Características dimensionales (longitud, anchura, espesor, alabeo y rectitud de aristas). Serie de 10 baldosas | 7.107 |
+| Densidad aparente. UNE 7007. Serie de cinco baldosas 8.379 |  |
+| Absorción de agua. UNE 127002. Serie de tres baldosas | 9.523 |
+| Resistencia al desgaste. UNE 127005. Serie de dos probetas: |  |
+| Preparadas por el peticionario | 5.396 |
+| Preparadas por el centro | 7.997 |
+| Resistencia a la flexión. UNE 127006. Serie de seis baldosas | 5.553 |
+| Resistencia al choque. UNE 127007. Serie de tres baldosas | 2.063 |
+| Heladicidad. UNE 127004. Serie tres probetas. Cada ciclo de hielo y deshielo | 1.525 |
+| Espesor de capa de huella. Serie de tres baldosas | 1.525 |
+| Permeabilidad. UNE 127003. Serie de tres baldosas | 12.150 |
+| 5. Baldosas cerámicas azulejos: |  |
+| Características dimensionales (longitud, anchura, espesor, rectitud de los lados, ortogonalidad, curvatura y alabeo). UNE 67098. Serie de 10 baldosas | 7.107 |
+| Aspecto superficial. UNE 67098. Serie de 30 baldosas | 3.363 |
+| Absorción de agua. UNE 67099. Serie de 10 baldosas | 21.801 |
+| Resistencia flexión. UNE 67100. Serie de siete baldosas | 8.351 |
+| Resistencia al cuarteo. UNE 67105. Serie de cinco baldosas | 16.813 |
+| Dureza superficial al rayado. UNE 67101. Serie de tres baldosas | 1.525 |
+| 6. Bloques y bovedillas: |  |
+| Descripción gráfica mediante croquis acotado. Una pieza | 4.506 |
+| Regularidad de formas y dimensiones. RTC-INCE. UNE 41167. UNE 41168. Serie de cuatro piezas | 6.725 |
+| Resistencia a compresión. Bloques. RTC-INCE. UNE 41172. Un bloque con refrentado de caras | 3.744 |
+| Densidad aparente. Bloques o bovedillas RTC-INCE. Una pieza | 5.016 |
+| Absorción de agua. Bloques o bovedillas. RTC-INCE. UNE 41170. Serie de cuatro probetas | 9.523 |
+| Heladicidad. Serie de tres probetas. Cada ciclo hielo-deshielo | 1.779 |
+| Resistencia a la flexión. Bovedillas. Una pieza | 1.525 |
+| Determinación de la succión. UNE 41171. Serie de tres bloques | 3.744 |
+| Densidad real del hormigón. UNE 41169. Una pieza | 1.525 |
+| 7. Cementos: |  |
+| Finura de molido. Permeabilímetro Blaine. UNE 80106. Una muestra | 9.265 |
+| Finura de molido. UNE 80107. Una muestra | 5.459 |
+| Tiempos de fraguado. UNE 80102. Una muestra | 7.107 |
+| Agua para consistencia normal. UNE 80102. Una muestra | 3.363 |
+| Expansión en autoclave. UNE 80113. Una muestra | 16.228 |
+| Estabilidad de volumen por agujas de Lechatelier. UNE 80102. Una muestra . | 12.797 |
+| Resistencia a la compresión y a la flexión, incluyendo fabricación, conservación y rotura de una serie de tres probetas. UNE 80101. Una muestra | 7.488 |
+| Peso específico real de una muestra | 2.190 |
+| 8. Hormigones: |  |
+| Curado y rotura a compresión de probetas cilíndricas de hormigón. UNE 83301. UNE 83304. Una probeta | 1.652 |
+| Refrentado de una probeta cilíndrica de hormigón con mortero de azufre. UNE 83303. Una cara | 1.128 |
+| Índice de consistencia. Cono de Abrams. Dos determinaciones. UNE 83313 | 2.063 |
+| Corte, refrentado y rotura a compresión de probetas testigo extraídas con trépano. UNE 83302, 83303 y 83304. Una probeta testigo | 5.425 |
+| Resistencia a la tracción directa (Ensayo Brasileño). UNE 83306. Una probeta | 1.525 |
+| Estudio teórico de dosificación. Método La Peña. Con los áridos suministrados por el peticionario | 26.900 |
+| Dosificación, incluyendo: Estudio teórico, confección de series de seis probetas cilíndricas de 15 × 30 centímetros de tres amasadas distintas, curado, refrentado y rotura de las mismas a compresión a tres edades. Una dosificación | 88.714 |
+| Porosidad en hormigón fraguado. Una muestra | 3.744 |
+| Densidad del hormigón fraguado. UNE 83312. Una muestra | 3.744 |
+| Sello INCE. Hormigón preparado. Seguimiento según disposiciones reguladoras | 36.315 |
+| Toma de muestra de hormigón fresco, incluyendo: Dos determinaciones de su consistencia, confección de una serie de tres probetas cilíndricas de 15 × 30 centímetros. UNE 83300 | 5.380 |
+| Cada probeta más en el mismo desplazamiento | 673 |
+| Toma de muestra de hormigón endurecido con trépano de 75 milímetros de diámetro. UNE 83302. Una probeta testigo | 8.860 |
+| Por cada probeta testigo más en el mismo desplazamiento | 6.372 |
+| Toma de muestra hormigón endurecido con trépano de 100 milímetros de diámetro. UNE 83302. Una probeta testigo | 11.813 |
+| Por cada probeta testigo más en el mismo desplazamiento | 8.451 |
+| Toma de muestra de hormigón endurecido con trépano de 150 milímetros. UNE 83302. Una probeta testigo | 17.084 |
+| Por cada probeta testigo más en el mismo desplazamiento | 12.040 |
+| Arado máximo característico en hormigón fresco. UNE 7295. Una muestra | 3.744 |
+| Módulo granulométrico del árido grueso en hormigón fresco. UNE 7295. Una muestra | 3.744 |
+| Control de calidad de hormigón en obra. Nivel normal. EH-91. N=2. Por cada toma de muestra de hormigón fresco (dos determinaciones de consistencia y confección de cinco probetas cilíndricas de 15 × 30 centímetros), curado, refrentado y rotura a compresión | 16.172 |
+| Tarado de esclerómetro | 2.063 |
+| Prueba de carga UNE 7457 | 161.402 |
+| Prueba esclerométrica UNE 83307, hasta 10 elementos | 13.450 |
+| Hasta 20 elementos | 24.210 |
+| Hasta 30 elementos | 35.643 |
+| Hasta 40 elementos | 47.075 |
+| 9. Ladrillos de arcilla cocida: |  |
+| Descripción gráfica mediante croquis acotado | 3.363 |
+| Defectos estructurales (fisuras, exfoliaciones y desconchados) UNE 67019. Serie de 10 ladrillos | 3.363 |
+| Determinación de inclusiones calcáreas. UNE 67039. Serie de seis probetas | 3.363 |
+| Tolerancias dimensionales (soga, tizón y grueso). UNE 67030. Serie de seis ladrillos | 3.744 |
+| Características de la forma (planeidad y espesor de pared). UNE 67030. Serie de tres ladrillos | 6.725 |
+| Absorción de agua. UNE 67027. Serie de tres ladrillos | 9.523 |
+| Succión de agua. UNE 67031. Serie de tres ladrillos | 6.670 |
+| Eflorescencias. UNE 67029. Serie de seis ladrillos | 4.635 |
+| Heladicidad. UNE 67028. Serie de 10 ladrillos. Cada ciclo hielo-deshielo | 5.807 |
+| Preparación de probetas para heladicidad. Una serie | 3.901 |
+| Peso específico aparente. Serie de tres ladrillos | 6.697 |
+| Resistencia a la compresión. UNE 67026. Cada probeta | 2.190 |
+| Resistencia a la flexión. UNE 7060. Cada probeta | 1.525 |
+| Resistencia a la compresión. Fábrica de ladrillos. UNE 67040. Una muestra | 3.744 |
+| 10. Bovedillas de arcilla cocida: |  |
+| Características geométricas. UNE 67020. Serie de seis bovedillas | 3.363 |
+| Resistencia a la flexión. UNE 67037. Serie de seis bovedillas | 1.525 |
+| Resistencia a compresión. UNE 67046. Serie de seis bovedillas | 3.744 |
+| Eflorescencias. UNE 67047. Serie de seis bovedillas | 3.744 |
+| Heladicidad. UNE 67048. Serie de seis bovedillas. Cada ciclo hielo-deshielo | 1.779 |
+| 11. Pizarras para revestimiento: |  |
+| Absorción. UNE 22191. Serie de cuatro probetas preparadas por el peticionario . | 8.379 |
+| Peso específico aparente. UNE 22191. Serie de cuatro probetas preparadas por el peticionario | 8.379 |
+| Resistencia al desgaste. UNE 22191. Serie de dos probetas preparadas por el peticionario | 22.083 |
+| Heladicidad. UNE 22193. Serie de cuatro probetas preparadas por el peticionario. Cada ciclo hielo-deshielo | 1.525 |
+| Resistencia a la compresión. UNE 22194. Serie de seis probetas preparadas por el peticionario | 4.887 |
+| Resistencia a la flexión. UNE 22195. Serie de cuatro probetas preparadas por el peticionario | 4.887 |
+| Resistencia al choque. UNE 22196. Serie de cuatro probetas preparadas por el peticionario | 2.668 |
+| 12. Pizarras para cubiertas: |  |
+| Porosidad. UNE 7311. Serie de siete probetas | 8.379 |
+| Densidad aparente. UNE 7310. Serie de siete probetas | 8.379 |
+| Absorción de agua. UNE 7089. Serie de tres probetas | 8.379 |
+| Resistencia a la flexión. UNE 7090. Serie de siete probetas | 4.887 |
+| 13. Granitos: |  |
+| Absorción. UNE 22172. Serie de tres probetas preparadas por el peticionario | 8.379 |
+| Peso específico aparente. UNE 22172. Serie de tres probetas preparadas por el peticionario | 8.379 |
+| Resistencia al desgaste. UNE 22173. Serie de dos probetas preparadas por el peticionario | 17. 449 |
+| Heladicidad. UNE 22174. Serie de tres probetas preparadas por el peticionario. Cada ciclo hielo-deshielo | 1.779 |
+| Resistencia a la compresión. UNE 22175. Serie de seis probetas preparadas por el peticionario | 4.962 |
+| Resistencia a la flexión. UNE 22176. Serie de seis probetas preparadas por el peticionario | 4.962 |
+| Resistencia al choque. UNE 22179. Serie de ocho probetas preparadas por el peticionario | 2.272 |
+| 14. Mármoles y calizas: |  |
+| Absorción. UNE 22182. Serie de tres probetas preparadas por el peticionario Peso específico aparente. UNE 22182 | 8.379 |
+| Serie de tres probetas preparadas por el peticionario | 8.379 |
+| Resistencia al desgaste. UNE 22183. Serie de dos probetas preparadas por el peticionario | 17.449 |
+| Heladicidad. UNE 22184. Serie de tres probetas preparadas por el peticionario. Cada ciclo hielo-deshielo | 1.525 |
+| Resistencia a la compresión. UNE 22185. Serie de seis probetas preparadas por el peticionario | 4.962 |
+| Resistencia a la flexión. UNE 22186. Serie de seis probetas preparadas por el peticionario | 4.962 |
+| Resistencia al choque. UNE 22189. Serie de ocho probetas preparadas por el peticionario | 2.272 |
+| 15. Tejas de arcilla cocida: |  |
+| Tolerancias dimensionales (longitud, anchura y deformaciones). UNE 67024. Serie de cinco tejas | 6.725 |
+| Defectos estructurales (fisuras, grietas, exfoliaciones, laminaciones y desconchados). UNE 67024. Serie de 10 tejas . | 3.363 |
+| Resistencia al impacto. UNE 67032. Serie de seis tejas | 1.936 |
+| Resistencia a la flexión. UNE 67035. Sobre seis tejas. Una teja sin refrentar | 1.398 |
+| Permeabilidad. UNE 67033. Seis tejas | 23.919 |
+| Heladicidad. UNE 67034. Serie de seis probetas. Cada ciclo hielo-deshielo | 1.525 |
+| 16. Tejas de hormigón: |  |
+| Tolerancias dimensionales. UNE 41200. Serie de 10 tejas | 6.725 |
+| Defectos estucturales. UNE 41200. Serie de 10 tejas | 3.363 |
+| Relación masa/espesor. UNE 41200. Serie de cinco tejas | 1.143 |
+| Absorción de agua. UNE 41200. Serie de cinco probetas | 9.523 |
+| Heladicidad. UNE 41200. Serie de cinco tejas. Cada ciclo hielo-deshielo | 1.525 |
+| Permeabilidad. UNE 41200. Serie de cinco tejas | 23.919 |
+| Resistencia a flexión. UNE 41200. Serie de cinco tejas | 1.398 |
+| Resistencia al impacto. UNE 41200. Serie de cinco tejas | 1.936 |
+| 17. Yesos y escayolas: |  |
+| Finura de molido. UNE 102031. Una muestra | 6.697 |
+| Relación agua/yeso correspondiente al amasado en saturación. Una muestra | 3.617 |
+| Tiempos de fraguado. UNE 102031. Una muestra | 7.234 |
+| Resistencia a la flexotracción. Una muestra . | 5.553 |
+| 18. Fontanería y saneamientos: |  |
+| Prueba de servicio de presión y estanqueidad | 33.625 |
+| Prueba de servicio calentador en instalaciones de agua caliente. P/vivienda | 13.450 |
+| Prueba de servicio de desagües de aparatos sanitarios. P/vivienda | 2.287 |
+| 19. Viguetas: |  |
+| Descripción gráfica. Prueba de rotura por flexión y medición de deformaciones. Una vigueta | 23.991 |
+| Por cada hora más de ensayo | 7.997 |
+| 20. Placas de fibrocemento: |  |
+| Características geométricas tres placas . | 8.070 |
+| Impermeabilidad. Placas onduladas, nervadas o planas, tres probetas | 13.450 |
+| Heladicidad. Placas onduladas, nervadas o planas, tres probetas. Cada ciclo hielo-deshielo | 2.018 |
+| Masa volumétrica aparente. Placas onduladas nervadas o planas, tres probetas . | 5.044 |
+| Resistencia a la flexión. Placas onduladas, nervadas o planas, tres probetas | 14.795 |
+| 21. Tubos de fibrocemento (UNE 88001. UNE 88201. UNE 88202. UNE 88203): |  |
+| Características geométricas (diámetros, espesor y longitud), tres tubos | 8.070 |
+| Aplastamiento transversal, tres probetas | 9.415 |
+| Flexión longitudinal, tres tubos | 8.070 |
+| Estanqueidad, tres tubos | 13.450 |
+| 22. Verificación de equipos y distintivos de calidad: |  |
+| Verificación de prensas utilizadas para ensayos de compresión: |  |
+| – Una escala | 30.263 |
+| – Cada escala más en el mismo laboratorio | 10.088 |
+| Visita de inspección de distintivos de calidad. Factoría con una familia de producción, uno o varios fabricados por familia | 51.940 |
+| 23. Aislamientos acústicos: |  |
+| Medidas de aislamiento acústico in situ al ruido aéreo. UNE 74040, partes 4 y 5 por una medida | 50.958 |
+| Medidas de aislamiento acústico in situ al ruido de impacto. UNE 74040, parte 7 por una medida | 50.958 |
+| Por cada medida más de los apartados anteriores | 16.813 |
+| 24. Desplazamientos y asistencias técnicas: |  |
+| Desplazamiento de vehículo para la realización de ensayos in situ y toma de muestras. Por cada kilómetro de distancia a la obra | 64 |
+| Desplazamiento de laborante para la realización de ensayos in situ y toma de muestras. Por cada kilómetro de distancia a la obra | 83 |
+| Desplazamiento de ayudante laboratorio para la realización de ensayos in situ y toma de muestras. Por cada kilómetro de distancia a la obra | 99 |
+| Desplazamiento de aparejador para la realización de ensayos in situ y toma de muestras. Por cada kilómetro de distancia a la obra | 154 |
+| Desplazamiento de químico para la realización de ensayos in situ y toma de muestras. Por cada kilómetro de distancia a la obra | 202 |
+| Hora de asistencia técnica de laborante | 1.651 |
+| Hora de asistencia técnica de ayudante laboratorio | 1.989 |
+| Hora de asistencia técnica de aparejador | 3.085 |
+| Hora de asistencia técnica de químico | 4.037 |
+| 25. Ventanas: |  |
+| Ensayo de resistencia al viento. UNE 85204 | 21.447 |
+| Ensayo de estanqueidad al agua bajo presión estática. UNE 85206 | 21.447 |
+| Clasificación de las ventanas de acuerdo con su permeabilidad al aire. UNE 85208 | 3.085 |
+| Clasificación de las ventanas de acuerdo con su estanqueidad al agua. UNE 85212 | 3.085 |
+| Clasificación de las ventanas de acuerdo a su resistencia bajo los efectos de viento. UNE 85213 | 3.085 |
+| Ensayo de permeabilidad al aire. UNE 85214 | 21.447 |
+| Ensayo de estanqueidad al agua bajo cargas repetidas de presión estática. UNE 85229 | 24.810 |
+| Tarifa 3. Química: |  |
+| 1. Aguas: |  |
+| Acidez | 3.395 |
+| Sustancias solubles | 3.522 |
+| Sulfatos | 6.408 |
+| Cloruros | 6.536 |
+| Hidratos de carbono | 3.998 |
+| Aceites y grasas (cualitativo) | 3.395 |
+| Determinaciones anteriores | 26.872 |
+| Aceites y grasas (cuantitativo) | 12.562 |
+| Calcio (COMPLEX) | 6.536 |
+| Magnesio (COMPLEX) | 12.562 |
+| Dureza total (COMPLEX) | 6.663 |
+| Ensayo completo | 39.561 |
+| 2. Cementos: |  |
+| Humedad | 3.522 |
+| Residuo insoluble Método II | 12.562 |
+| Residuo insoluble UNE 80224 | 21.602 |
+| Trióxido de azufre | 15.576 |
+| Sílice Método II | 24.616 |
+| Óxido de aluminio | 15.576 |
+| Óxido de calcio | 21.602 |
+| Óxido de magnesio | 24.616 |
+| Óxido de hierro | 6.536 |
+| Pérdida al fuego | 6.663 |
+| Determinaciones anteriores | 52.626 |
+| Residuo insoluble Método I | 9.549 |
+| Residuo insoluble UNE 80223 | 10.754 |
+| Sílice Método I | 18.589 |
+| Cal libre | 24.616 |
+| Índice puz siete días | 24.616 |
+| Índice puz veintiocho días | 30.642 |
+| Residuo insoluble Método II + SO<sub>3 </sub> | 18.589 |
+| Residuo insoluble UNE 80224 + SO<sub>3 </sub> | 27.629 |
+| 3. Áridos: |  |
+| Humedad | 4.125 |
+| Partículas de bajo peso específico | 4.252 |
+| Estabilidad en disolución SO<sub>4</sub>Na<sub>2 </sub> | 32.932 |
+| Reactividad | 24.743 |
+| Compuestos de azufre (cualitativo) | 15.576 |
+| Compuestos de azufre (cuantitativo) | 18.589 |
+| Cloruros | 12.562 |
+| Ensayo completo | 92.115 |
+| 4. Hormigones: |  |
+| Contenido en cemento MELC.501 39.810 | 39.810 |
+| Contenido cemento ASTM C-85 | 55.767 |
+| Sulfatos solubles | 15.576 |
+| Cloruros | 12.562 |
+| 5. Suelos: |  |
+| pH | 6.536 |
+| Sulfatos solubles | 12.562 |
+| Carbonatos NLT 116 | 18.843 |
+| Materia orgánica (aprox.) | 6.663 |
+| Materia orgánica (Cr<sub>2</sub>O<sub>7</sub>K<sub>2</sub>) | 18.843 |
+| Humedad | 4.125 |
+| Peso específico aparente húmedo | 6.536 |
+| Peso específico aparente seco | 6.536 |
+| Proctor normal | 21.730 |
+| Proctor modificado | 24.743 |
+| 6. Yesos: |  |
+| Agua combinada | 6.536 |
+| Trióxido de azufre | 12.562 |
+| Índice de pureza | 18.971 |
+| Determinaciones anteriores | 18.971 |
+| Sílice | 18.589 |
+| Óxidos de aluminio y hierro | 15.576 |
+| Óxido de magnesio | 24.616 |
+| Óxido de calcio | 21.602 |
+| Cloruros | 12.562 |
+
+Tendrán una bonificación del 30 por 100 de la tarifa los ensayos que se realicen a petición de los laboratorios acreditados.
+
+#### Sección 2.ª Tasa por acreditación de laboratorios de ensayo para el control de calidad de la edificación
+
+##### Artículo 76. Hecho imponible.
+
+Constituye el hecho imponible la realización de actividades tendentes a la acreditación de laboratorios de ensayos para el control de calidad de la edificación en el Principado de Asturias, así como las inspecciones sobre los mismos por los servicios de la Consejería competente en la materia.
+
+##### Artículo 77. Sujeto pasivo.
+
+Son sujetos pasivos las personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta Ley, que soliciten la acreditación o a quienes se realicen las inspecciones.
+
+##### Artículo 78. Devengo.
+
+La tasa se devengará:
+
+a) Para la acreditación, en el momento de la solicitud.
+
+b) Para la inspección, en el momento de realización de la misma.
+
+##### Artículo 79. Tarifas.
+
+|  | Pesetas |
+|---|---|
+| 1. Por acreditación: |  |
+| En un área técnica de actividad | 146.224 |
+| Por cada área técnica de actividad de más | 73.111 |
+| 2. Por inspección: |  |
+| Por cada visita | 51.181 |
+
+#### Sección 3.ª Tasa por expedición de cédulas de habitabilidad
+
+##### Artículo 80. Hecho imponible.
+
+Constituye el hecho imponible de la tasa el reconocimiento e inspección, a efectos de habitabilidad, de edificios y locales destinados a viviendas.
+
+##### Artículo 81. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa los solicitantes de la cédula, ya sean personas naturales o jurídicas o entidades a que se refiere el artículo 5.2 de esta Ley, públicas o privadas, promotores, propietarios o cedentes en general de viviendas, tanto si las ocupan ellos mismos como si las entregan a otras personas, por cualquier título.
+
+##### Artículo 82. Devengo.
+
+El devengo se produce en el momento de solicitar la expedición de la cédula de habitabilidad.
+
+##### Artículo 83. Tarifas.
+
+La tarifa exigida por la expedición de cédulas de habitabilidad será de 1.550 pesetas por vivienda.
+
+#### Sección 4.ª Tasa por prestación de servicios relativos a la concesión de calificaciones y certificaciones en viviendas declaradas protegidas por la Comunidad Autónoma
+
+> Se modifica por el art. 19.5 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 84. Hecho imponible.
+
+1\. Constituye el hecho imponible toda actuación relativa al estudio de proyectos, comprobación de certificaciones e inspecciones de obras, tanto de nueva planta como para rehabilitaciones, referentes a toda clase de viviendas declaradas protegidas por la Comunidad Autónoma.
+
+2\. Asimismo, también constituye el hecho imponible de las tasas a que se refiere el presente capítulo la emisión de certificados de precio máximo de venta de las referidas viviendas.
+
+> Se modifica el apartado 1 por el art. 19.6 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 85. Sujeto pasivo.
+
+1\. Son sujetos pasivos de la tasa a que se refiere el presente capítulo las personas naturales o jurídicas o las entidades a que se refiere el artículo 5.2 de esta ley, públicas o privadas, promotores de proyectos de viviendas declaradas protegidas por la Comunidad Autónoma o de proyectos de rehabilitación y que soliciten los beneficios establecidos, la inspección, certificación o calificación correspondiente, mediante la presentación de la documentación necesaria.
+
+2\. En el supuesto regulado en el número 2 del artículo anterior serán sujetos pasivos las personas que en los términos establecidos en el número anterior soliciten la emisión del certificado de precio máximo de venta, en tanto en cuanto participen o vayan a participar en el correspondiente contrato de compraventa de la vivienda, aun cuando no ostenten la condición de contratantes.
+
+> Se modifica el apartado 1 por el art. 19.7 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 86. Devengo.
+
+El devengo se produce en el momento de solicitar la calificación o certificación correspondiente. Ello sin perjuicio de que en el momento de otorgar la calificación definitiva se gire al sujeto pasivo una liquidación complementaria en aquellos proyectos en los que se produzca un incremento sobre el valor inicial del mismo.
+
+##### Artículo 87. Tarifas.
+
+1\. La tarifa respecto a la tasa regulada en el número 1 del artículo 84 queda establecida en el 0,07 por 100 del presupuesto protegible.
+
+2\. En el supuesto de emisión de certificados de precio máximo de venta, el importe de la tasa queda fijado en la cantidad de 1.060 pesetas.
+
+#### Sección 4.ª bis. Tasa por diligencia del libro de la vivienda
+
+> Se añade por el art. 13.19 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 87 bis. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la expedición de la diligencia del Libro de la Vivienda, regulado por el Decreto 40/2007, de 19 de abril.
+
+> Se añade por el art. 13.19 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 87 tercero. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa la persona física o jurídica vendedora de la vivienda.
+
+> Se añade por el art. 13.19 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 87 cuarto. Devengo.
+
+La tasa se devengará en el momento de presentar la solicitud de diligencia del Libro de la Vivienda.
+
+> Se añade por el art. 13.19 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 87 quinto. Tarifas.
+
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+De 1 a 5 viviendas: 7 euros.
+
+De 6 a 25 viviendas: 4,20 euros.
+
+Más de 25 viviendas: 3,10 euros.
+
+> Se modifica por el art. 5.5 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+> Se añade por el art. 13.19 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+#### Sección 4.ª tercera. Tasa por diligencia del libro del edificio
+
+> Se añade por el art. 13.20 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 87 sexto. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la expedición de la diligencia del Libro del Edificio, regulado por el Decreto 41/2007, de 19 de abril.
+
+> Se añade por el art. 13.20 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 87 séptimo. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa la persona física o jurídica promotora de edificios destinados a vivienda o residencia de carácter permanente, públicos o privados, cuyo uso principal esté comprendido en los grupos recogidos en el artículo 2 de la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación, que se construyan en el ámbito territorial del Principado de Asturias, así como la persona física o jurídica promotora de rehabilitaciones de viviendas que afecten a la totalidad del edificio, a sus instalaciones generales o a sus elementos comunes.
+
+> Se añade por el art. 13.20 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 87 octavo. Devengo.
+
+La tasa se devengará en el momento de presentar la solicitud de diligencia del Libro del Edificio.
+
+> Se añade por el art. 13.20 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 87 noveno. Tarifas.
+
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+Por diligencia: 7 euros.
+
+> Se modifica por el art. 5.6 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+> Se añade por el art. 13.20 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+#### Sección 5.ª Tasa por la inspección de control y seguimiento para la concesión de prórroga de las autorizaciones de uso de forjados
+
+##### Artículo 88. Hecho imponible.
+
+Constituye el hecho imponible la realización de inspecciones de control y seguimiento de las autorizaciones de uso de forjados.
+
+##### Artículo 89. Sujeto pasivo.
+
+Son sujetos pasivos las personas físicas o jurídicas y las entidades a que hace referencia el artículo 5 de esta Ley, que soliciten la concesión o renovación de las autorizaciones de uso de forjados.
+
+##### Artículo 90. Devengo.
+
+La tasa se devengará en el momento de la realización de la inspección de control y seguimiento.
+
+##### Artículo 91. Tarifa.
+
+|  | Pesetas |
+|---|---|
+| Por cada visita de inspección | 53.758 |
+
+#### Sección 6.ª Tasa por concesión de calificaciones de Viviendas de Protección Pública.
+
+> Se añade por el art. 5.4 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 91 bis. Hecho imponible.
+
+Constituye el hecho imponible toda actuación relativa al estudio del proyecto, comprobación de certificaciones e inspecciones de obras de nueva planta referentes a Viviendas de Protección Pública Nueva Construcción.
+
+> Se añade por el art. 5.4 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 91 tercero. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas o las entidades a que se refiere el artículo 5.2 de esta Ley, promotores de proyectos de Viviendas de Protección Pública Nueva Construcción y que soliciten los beneficios establecidos, la inspección o la calificación correspondiente, mediante la presentación de la documentación necesaria.
+
+> Se añade por el art. 5.4 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 91 cuarto. Devengo.
+
+La tasa se devengará en el momento de la solicitud de la calificación correspondiente, sin perjuicio de que en el momento de otorgar la calificación definitiva se gire al sujeto pasivo una liquidación complementaria en aquellos proyectos en los que se produzca un incremento sobre el valor inicial del mismo.
+
+> Se añade por el art. 5.4 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 91 quinto. Tarifas.
+
+La tasa se exigirá conforme a la siguiente tarifa: el 0,07 por 100 del presupuesto protegible.
+
+> Se añade por el art. 5.4 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+#### Sección 7.ª Tasa del registro general de informes de evaluación de los edificios del Principado de Asturias
+
+> Se añade por el art. 39.2 de la Ley 14/2018, de 28 de diciembre. [Ref. BOE-A-2019-803](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-803)
+
+##### Artículo 91 sexto. Hecho imponible.
+
+Constituye el hecho imponible la prestación de los servicios administrativos inherentes a la primera inscripción en el Registro General de Informes de Evaluación de los Edificios del Principado de Asturias, así como a su renovación.
+
+> Se añade por el art. 39.2 de la Ley 14/2018, de 28 de diciembre. [Ref. BOE-A-2019-803](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-803)
+
+##### Artículo 91 séptimo. Sujeto pasivo.
+
+Son sujetos pasivos las comunidades de propietarios, agrupaciones de comunidades de propietarios o propietarios únicos de edificios que soliciten la primera inscripción en el Registro General de Informes de Evaluación de los Edificios del Principado de Asturias o su renovación.
+
+> Se añade por el art. 39.2 de la Ley 14/2018, de 28 de diciembre. [Ref. BOE-A-2019-803](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-803)
+
+##### Artículo 91 octavo. Devengo y liquidación.
+
+La tasa se devenga en el momento de solicitar la primera inscripción o la renovación, y se exige en régimen de autoliquidación.
+
+> Se añade por el art. 39.2 de la Ley 14/2018, de 28 de diciembre. [Ref. BOE-A-2019-803](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-803)
+
+##### Artículo 91 noveno. Tipo de gravamen.
+
+La tasa se exige de acuerdo con el siguiente tipo: Primera inscripción o renovación del informe de evaluación del edificio: 10,00 euros.
+
+> Se añade por el art. 39.2 de la Ley 14/2018, de 28 de diciembre. [Ref. BOE-A-2019-803](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-803)
+
+### CAPÍTULO VI — Obras públicas y transportes
+
+#### Sección 1.ª Tasa por autorización de obras y aprovechamiento de la red de carreteras del Principado de Asturias
+
+##### Artículo 92. Hecho imponible.
+
+Constituye el hecho imponible de esta tasa la concesión, por de la Comunidad Autónoma, de la autorización parte necesaria para la realización de obras, instalaciones, edificaciones, cierres y cualquier otra ocupación o actividad en terrenos colindantes o sitos en el área de influencia de las carreteras de la red del Principado.
+
+##### Artículo 93. Sujeto pasivo.
+
+Es la persona física o jurídica y las entidades a que se refiere el artículo 5.2 de esta Ley, a nombre de la cual se solicita la autorización.
+
+##### Artículo 94. Devengo.
+
+Se produce en el momento de concederse la autorización.
+
+##### Artículo 95. Tarifas.
+
+La tasa se devengará de acuerdo con las cantidades establecidas en las siguientes tarifas:
+
+|  | Pesetas |
+|---|---|
+| Tarifa 1. Construcción, reconstrucción o aumento de volumen de edificaciones: Establecimiento de estaciones de servicio e instalación de aparatos distribuidores de gasolina y lubricantes: |  |
+| Con presupuesto hasta 100.000 pesetas | 3.101 |
+| Con presupuesto de 100.001 a 300.000 pesetas | 4.649 |
+| Con presupuesto de 300.001 a 500.000 pesetas | 7.750 |
+| Con presupuesto de 500.001 a 750.000 pesetas | 11.623 |
+| Con presupuesto de 750.001 a 1.000.000 de pesetas | 15.498 |
+| Con presupuesto de 1.000.001 a 2.000.000 de pesetas | 31.000 |
+| Con presupuesto de 2.000.001 a 5.000.000 de pesetas | 38.749 |
+| Con presupuesto de más de 5.000.000 de pesetas | 46.498 |
+| Tarifa 2. Realización de obras de mera conservación de edificaciones: |  |
+| Enlucido o pintura de fachadas | 1.550 |
+| Reparación de tejado sin modificación de estructura | 3.101 |
+| Apertura o modificación de huecos, por cada hueco | 774 |
+| Tarifa 3. Construcción de cierre o muro de sostenimiento o contención: |  |
+| Cierre no diáfano (obra de fábrica o seto vivo), por metro lineal | 147 |
+| Cierre diáfano (estaca y alambre o malla), por metro lineal | 74 |
+| Muro de contención o de sostenimiento, por metro lineal | 444 |
+| Tarifa 4. Canalización subterránea de agua, electricidad, gas, teléfono, etc.: |  |
+| Conducción por la zona de dominio público, servidumbre o afección por metro lineal | 74 |
+| Cruce de calzada, por metro lineal | 444 |
+| Tarifa 5. Instalación de tendidos aéreos: |  |
+| Cada poste o torre metálica para la línea alta tensión en zona de servidumbre o afección . | 3.101 |
+| Cada poste para línea de baja tensión u otros tendidos en zona de servidumbre o afección | 1.550 |
+| Cruce de carretera con línea de alta tensión, por cada metro lineal sobre la explanación . | 774 |
+| Cruce de carretera con línea de baja tensión y otros tendidos, por cada metro lineal sobre la explanación | 387 |
+| Cada transformador de intemperie en zona de servidumbre o afección | 1.550 |
+| Cada centro de transformación en zona de afección | 7.750 |
+| Tarifa 6. Construcción y reparación, acondicionamiento de vías de acceso, pavimentaciones, aparcamientos o aceras: |  |
+| Vías de acceso a explotación minera, industrial o agrarias | 14.762 |
+| Vías de acceso a finca rústica o urbana | 7.381 |
+| Paso salvacunetas en paso existente | 1.477 |
+| Pavimentación de explanadas, antojanas, etc., por metro lineal | 296 |
+| Aparcamientos, por metro lineal | 444 |
+| Aceras, badenes, cunetas, etc., por metro lineal | 296 |
+| Tarifa 7. Explotación de rocas y minerales. | **(Suprimida)** |
+| Explotación de cantera o arenero por tiempo inferior a seis meses |  |
+| Explotación de cantera o arenero por tiempo inferior a un año |  |
+| Explotación de cantera o arenero por tiempo superior a un año |  |
+| Explotación de arcilla para usos industriales |  |
+| Apertura de calicata, galería o pozo para extracción de minerales |  |
+| Tarifa 8. Obras y aprovechamientos de naturaleza diversa: |  |
+| Corta de arbolado, por cada árbol | 74 |
+| Construcción de fosa séptica en zona de afección | 7.381 |
+| Construcción de depósito subterráneo de agua o gas | 7.381 |
+| Construcción de depósito subterráneo de agua o gas para usos industriales en zona de afección | 14.762 |
+| Instalación de anuncios y carteles publicitarios, por unidad | 1.477 |
+| Instalación de señales informativas, por unidad | 1.477 |
+| Demolición de edificios | 1.477 |
+| Explanación y relleno de fincas | 2.951 |
+| Explotación de rocas y minerales | 7.381 |
+
+En todo caso, la cantidad mínima a pagar por cualquier epígrafe de las ocho tarifas, será de 1.477 pesetas.
+
+> Se deroga las tarifa 7 por la disposición derogatoria 2 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+#### Sección 2.ª Tasa por prospecciones control de obra y ensayos de materiales
+
+##### Artículo 96. Hecho imponible.
+
+Constituye el hecho imponible la realización de prospecciones geológicas, geotécnicas o hidrogeológicas y de los ensayos de materiales necesarios para la redacción de los proyectos y estudios previos a la ejecución de una obra, así como las prospecciones, controles y ensayos precisos para garantizar la calidad de la obra ejecutada, en aquéllas en que son realizadas mediante contrato administrativo.
+
+##### Artículo 97. Sujeto pasivo.
+
+Es sujeto pasivo de la tasa el contratista adjudicatario de la obra.
+
+##### Artículo 98. Devengo.
+
+Nace el derecho de la Administración a exigir la tasa en el momento de la realización de la prospección, ensayo o control; no obstante, no estará el contratista obligado a satisfacer su importe hasta que no le sea notificada la liquidación.
+
+##### Artículo 99. Tarifas.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+<table class="tabla" border="0" width="943" height="893">
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cabeza_tabla">Pesetas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Tarifa 1. Prospección:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">1. Sondeos:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Traslado y retirada de equipo de sondeos al lugar de trabajo</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">91.213</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">Traslado de equipo de sondeo entre puntos contiguos incluida puesta en situación y ejecución de plataforma</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_der">32.383</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Traslado de equipo de sondeos entre puntos alejados de una obra o carretera por tiempo superior a dos horas</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">48.230</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Traslado de equipo de sondeos entre distintas obras o carreteras</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">64.024</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Suministro de agua por día de perforación</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">4.558</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Metro lineal de perforación en suelos</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">6.890</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Metro lineal de perforación en arenas</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">8.268</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Metro lineal de perforación con corona de Widia</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">8.851</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Metro lineal de perforación con corona de diamante</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">10.441</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Metro lineal de perforación en gravas y cantos (hasta 6 centímetros)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">14.893</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Metro lineal de perforación en bolos y cuarcitas</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">17.066</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Metro lineal de perforación a rotopercusión sin toma de testigo, incluida entubación</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">12.243</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Metro lineal en tubería de PVC, incluida colocación</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">954</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Unidad de ensayo normalizado de penetración (SPT)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">4.081</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Unidad de toma demuestra inalterada</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">4.240</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Unidad de testigo parafinado</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.749</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Unidad de toma de muestra de agua por sondeo</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">3.763</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Unidad de ensayo de permeabilidad Lefranc</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">16.695</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Unidad de ensayo de permeabilidad Lugeon</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">19.769</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Unidad de caja de cartón parafinada</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.060</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">2. Penetraciones:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Traslado y retirada de equipo de penetración lo dinámica al lugar de trabajo</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">57.346</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Traslado de equipo de penetración dinámica entre puntos contiguos</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">8.427</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Traslado de equipos de penetración entre puntos alejados de una obra o carretera</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">20.935</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Traslado de equipo de penetración entre distintas obras o carreteras</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">57.346</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Unidad de ensayo de penetración dinámica tipo Borros o similar hasta 10 metros de profundidad o rechazo</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">28.832</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Metro lineal de ensayo de penetración dinámica</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">3.021</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">3. Geofísica:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Metro lineal de perfil geosísmico, incluyendo gráficos, interpretación y conclusiones</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">689</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Unidad de sondeo eléctrico vertical, con apertura de ala (máxima de 200 metros), incluyendo gráficos, interpretación y conclusiones</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">52.099</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Unidad de calicata eléctrica, para profundidades máximas de auscultación de 15 metros, incluyendo gráfico, interpretación y conclusiones</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">20.776</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">4. Calicatas con retroexcavadora:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Traslado y retirada de máquina a obra</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">47.541</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Precio por hora, uso de máquina retroexcavadora, incluido peón para tomas de muestras y geólogo para testificación</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">13.727</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Tarifa 2. Ensayos de materiales:
+
+1\. Suelos:
+
+A) Identificación:
+
+2.01.A.01 Apertura y descripción de muestra: 4,69 €.
+
+2.01.A.02 Preparación de muestras: 10,53 €.
+
+2.01.A.03 Límites de Atterberg: 43,40 €.
+
+2.01.A.04 No plasticidad: 21,56 €.
+
+2.01.A.05 Límite de retracción: 34,51 €.
+
+2.01.A.06 Granulometría por tamizado: 37,10 €.
+
+2.01.A.07 Material que pasa por el tamiz UNE 0,080: 28,00 €.
+
+2.01.A.08 Granulometría por tamizado en zahorras: 40,10 €.
+
+2.01.A.09 Granulometría por sedimentación: 60,02 €.
+
+2.01.A.10 Humedad natural: 16,57 €.
+
+2.01.A.11 Densidad seca: 15,58 €.
+
+2.01.A.12 Densidad aparente: 23,34 €.
+
+2.01.A.13 Peso específico de las partículas: 45,43 €.
+
+2.01.A.14 Determinación de la porosidad de un terreno: 34,44 €.
+
+2.01.A.15 Equivalente de arena: 31,40 €.
+
+B) Compactación:
+
+2.01.B.01 Próctor normal: 46,75 €.
+
+2.01.B.02 Próctor modificado: 65,59 €.
+
+2.01.B.03 Compactación con martillo vibrante: 64,62 €.
+
+2.01.B.04 Densidad mínima de una arena: 18,15 €.
+
+2.01.B.05 Harvard miniatura: 47,46 €.
+
+C) Deformidad y cambios volumétricos:
+
+2.01.C.01 Edómetro de 45 mm de diámetro con curvas de consolidación-tiempo, carga diaria y descarga con 7 escalones: 192,85 €.
+
+2.01.C.02 Ídem en muestras remoldeadas: 201,45 €.
+
+2.01.C.03 Edómetro de 70 mm de diámetro con curvas de consolidación-tiempo, carga diaria, con 7 escalones de carga y descarga: 192,85 €.
+
+2.01.C.04 Ídem de muestra remoldeada: 201,45 €.
+
+2.01.C.05 Volumen de sedimentación: 14,84 €.
+
+2.01.C.06 Hinchamiento libre de una muestra inalterada o remoldeada: 70,03 €.
+
+2.01.C.07 Presión máxima de hinchamiento en muestra inalterada o remoldeada, con descarga: 64,25 €.
+
+2.01.C.08 Hinchamiento Lambe: 44,38 €.
+
+2.01.C.09 Ensayo de colapso: 73,93 €.
+
+D) Resistencia:
+
+2.01.D.01 Resistencia en compresión simple, en muestras inalteradas (sin incluir densidad y humedad): 35,86 €.
+
+2.01.D.02 Ídem en muestras remoldeadas: 37,67 €.
+
+2.01.D.03 Dibujo de curva tensión-deformación: 5,85 €.
+
+2.01.D.04 Triaxial sin consolidación previa, rotura sin drenaje (muestra inalterada 3 probetas) 1 y 1/2» de diámetro: 163,78 €.
+
+2.01.D.05 Ídem en muestras remoldeadas: 180,00 €.
+
+2.01.D.06 Triaxial sin consolidación previa, rotura sin drenaje (muestras inalteradas 3 probetas) 4'' de diámetro: 220,88 €.
+
+2.01.D.07 Ídem en muestra remoldeada: 237,10 €.
+
+2.01.D.08 Triaxial con consolidación previa, rotura sin drenaje (muestras inalteradas 3 probetas) 1 y 1/2» de diámetro: 209,61 €.
+
+2.01.D.09 Ídem en muestra remoldeada: 222,32 €.
+
+2.01.D.10 Triaxial con consolidación previa, rotura sin drenaje y sin medida de las presiones intersticiales (muestra inalterada 3 probetas) 4'' de diámetro: 321,61 €.
+
+2.01.D.11 Ídem en muestra remoldeada: 333,98 €.
+
+2.01.D.12 Triaxial con consolidación previa, rotura sin drenaje y medida de las presiones intersticiales (muestra inalterada 3 probetas) 1 y 1/2'' de diámetro: 240,56 €.
+
+2.01.D.13 Ídem en muestra remoldeada: 252,94 €.
+
+2.01.D.14 Triaxial con consolidación previa, rotura sin drenaje y medida de las presiones intersticiales (muestra inalterada 3 probetas) 4'' de diámetro: 383,50 €.
+
+2.01.D.15 Ídem en muestra remoldeada: 395,87 €.
+
+2.01.D.16 Triaxial con consolidación previa y rotura con drenaje (muestra inalterada 3 probetas) 1 y 1/2'' de diámetro: 277,69 €.
+
+2.01.D.17 Ídem en muestra remoldeada: 290,07 €.
+
+2.01.D.18 Triaxial con consolidación previa y rotura con drenaje (muestra inalterada 3 probetas) 4'' de diámetro: 498,71 €.
+
+2.01.D.19 Ídem muestra remoldeada: 517,28 €.
+
+2.01.D.20 Incremento en triaxial por tres probetas de 6'' de diámetro, inalteradas o remoldeadas: 289,53 €.
+
+2.01.D.21 Corte directo de suelos en aparato Casagrande, muestra inalterada, ensayo rápido: 78,35 €.
+
+2.01.D.22 Corte directo de suelos en aparato Casagrande, consolidado sin drenaje: 110,36 €.
+
+2.01.D.23 Ídem muestra remoldeada: 121,71 €.
+
+2.01.D.24 Corte directo de suelos en aparato Casagrande, consolidado con drenaje: 148,06 €.
+
+2.01.D.25 Ídem muestra remoldeada: 159,40 €.
+
+2.01.D.26 C.B.R. Laboratorio (tres puntos y sin incluir ensayo Próctor): 130,98 €.
+
+E) Permeabilidad:
+
+2.01.E.01 Permeabilidad bajo carga constante (célula de 1 y 1/2'' y 4'' de diámetro): 79,45 €.
+
+2.01.E.02 Permeabilidad con carga constante y presión en cola (célula de 1 y 1/2'' y 4'' de diámetro): 97,57 €.
+
+2.01.E.03 Ídem de 9'' de diámetro: 209,28 €.
+
+F) Ensayos de campo:
+
+2.01.F.01 Densidad in situ, incluida humedad en suelos (por unidad): 30,18 €.
+
+2.01.F.02 Densidad in situ en zahorras (por unidad): 33,87 €.
+
+2.01.F.03 C.B.R. in situ: 96,25 €.
+
+2.01.F.04 Placa de carga de 30 cm diámetro (con 1 ciclo): 128,60 €.
+
+2.01.F.05 Placa de carga de 30 cm diámetro (con 2 ciclos): 163,53 €.
+
+2.01.F.06 Placa de carga de 60 cm diámetro (con 1 ciclo): 176,03 €.
+
+2.01.F.07 Placa de carga de 60 cm diámetro (con 2 ciclos): 210,96 €.
+
+2.01.F.08 Placa de carga de 30 × 30 cm (con 1 ciclo): 157,28 €.
+
+2.01.F.09 Placa de carga de 30 × 30 cm (con 2 ciclos): 192,22 €.
+
+2.01.F.10 Placa de carga de 60 × 60 cm (con 1 ciclo): 216,36 €.
+
+2.01.F.11 Placa de carga de 60 × 60 cm (con 2 ciclos): 286,22 €.
+
+G) Análisis químicos:
+
+2.01.G.01 Presencia de sulfatos en suelos: 20,99 €.
+
+2.01.G.02 Contenido de sulfatos solubles en suelos: 80,03 €.
+
+2.01.G.03 Carbonatos cuantitativos, por Bernard: 28,31 €.
+
+2.01.G.04 Materia orgánica con agua oxigenada: 25,92 €.
+
+2.01.G.05 Materia orgánica con dicromato: 28,68 €.
+
+2.01.G.06 Determinación cuantitativa de cloruros: 44,27 €.
+
+2.01.G.07 Determinación del pH: 23,73 €.
+
+2.01.G.08 Materia orgánica con permanganato: 47,58 €.
+
+2.01.G.09 Contenido en yeso: 89,81 €.
+
+2.01.G.10 Contenido en sales solubles: 36,75 €.
+
+2\. Aguas:
+
+A) Aguas para morteros y hormigones:
+
+2.02.A.01 pH: 18,17 €.
+
+2.02.A.02 Cloruros: 29,85 €.
+
+2.02.A.03 Sulfatos: 57,10 €.
+
+2.02.A.04 Residuo total: 16,52 €.
+
+2.02.A.05 Hidratos de carbono: 17,67 €.
+
+2.02.A.06 Sulfuros: 35,17 €.
+
+2.02.A.07 Aceites y grasas: 17,67 €.
+
+B) Otras determinaciones:
+
+2.02.B.01 Resistividad eléctrica (temperatura): 35,15 €.
+
+2.02.B.02 Manganeso: 35,15 €.
+
+2.02.B.03 Amoníaco: 28,24 €.
+
+2.02.B.04 Nitratos: 35,15 €.
+
+2.02.B.05 Nitritos (cuantitativo): 43,77 €.
+
+2.02.B.06 Calcio: 24,95 €.
+
+2.02.B.07 Magnesio: 24,95 €.
+
+2.02.B.08 Dureza total: 33,57 €.
+
+2.02.B.09 Conductibilidad eléctrica: 26,00 €.
+
+2.02.B.10 Sílice: 42,72 €.
+
+2.02.B.11 Aluminio: 35,15 €.
+
+2.02.B.12 Hierro: 35,15 €.
+
+2.02.B.13 Sodio: 35,67 €.
+
+2.02.B.14 Potasio: 35,67 €.
+
+2.02.B.15 Cobre: 35,15 €.
+
+2.02.B.16 Cromo: 43,77 €.
+
+2.02.B.17 Fósforo: 43,77 €.
+
+2.02.B.18 Materia en suspensión: 18,91 €.
+
+2.02.B.19 Residuo seco: 25,48 €.
+
+2.02.B.20 Alcalinidad: 33,57 €.
+
+2.02.B.21 Dióxido de carbono agresivo (CO<sub>2</sub> libre): 33,57 €.
+
+3\. Rocas:
+
+2.03.A.01 Estudio petrográfico y mineralógico: 69,25 €.
+
+2.03.A.02 Absorción de aguas: 23,06 €.
+
+2.03.A.03 Peso específico real: 44,43 €.
+
+2.03.A.04 Pérdida de peso en agua: 26,89 €.
+
+2.03.A.05 Ensayo a flexión en tallado: 83,31 €.
+
+2.03.A.06 Heladicidad (25 ciclos) (ciclos humedad y secado): 168,33 €.
+
+2.03.A.07 Por cada ciclo más: 9,25 €.
+
+2.03.A.08 Rotura a compresión con tallado y refrentado: 38,64 €.
+
+2.03.A.09 Tracción indirecta (ensayo Brasileño con tallado): 30,33 €.
+
+2.03.A.10 Ensayo triaxial en rocas: 376,95 €.
+
+2.03.A.11 Resistencia al desgaste por rozamiento en rocas: 97,57 €.
+
+2.03.A.12 Ensayo de corte directo de rocas (3 puntos): 506,07 €.
+
+2.03.A.13 Saturación de una probeta de roca: 26,41 €.
+
+2.03.A.14 Coeficiente de dilatación térmico: 111,11 €.
+
+2.03.A.15 Resistencia al choque: 57,02 €.
+
+2.03.A.16 Ensayo Franklin (carga puntual): 29,23 €.
+
+2.03.A.17 Dureza superficial Mohs: 9,36 €.
+
+2.03.A.18 Ensayo de alterabilidad: 111,99 €.
+
+2.03.A.19 Ensayo de resistencia con esclerómetro Schmidt (3 puntos): 12,01 €.
+
+2.03.A.20 Índice de estabilidad Slake: 57,43 €.
+
+2.03.A.21 Módulo elasticidad (coeficiente Poison): 238,73 €.
+
+2.03.A.22 Extracción de testigos en roca (mínimo 3), tallado, refrentado y ensayo a compresión:
+
+\* Testigo de 75 mm de diámetro: 149,55 €.
+
+2.03.A.23 Extracción de testigos en roca (mínimo 3), tallado, refrentado y ensayo a compresión:
+
+\* Por cada testigo de más en el mismo desplazamiento: 49,62 €.
+
+2.03.A.24 Extracción de testigos en roca (mínimo 3), tallado, refrentado y ensayo a compresión:
+
+\* Testigo de 100 mm de diámetro: 174,44 €.
+
+2.03.A.25 Extracción de testigos en roca (mínimo 3), tallado, refrentado y ensayo a compresión:
+
+\* Por cada testigo de más en el mismo desplazamiento: 58,79 €.
+
+2.03.A.26 Extracción de testigos en roca (mínimo 3), tallado, refrentado y ensayo a compresión:
+
+\* Testigo de 150 mm de diámetro: 211,78 €.
+
+2.03.A.27 Extracción de testigos en roca (mínimo 3), tallado, refrentado y ensayo a compresión:
+
+\* Por cada testigo de más en el mismo desplazamiento: 71,23 €.
+
+4\. Áridos:
+
+2.04.A.01 Contenido en finos (lavado): 31,12 €.
+
+2.04.A.02 Estabilidad en volumen (soluciones de sulfato sódico y sulfato magnésico): 132,71 €.
+
+2.04.A.03 Análisis granulométrico en seco: 30,73 €.
+
+2.04.A.04 Análisis granulométrico por lavado: 37,19 €.
+
+2.04.A.05 Clasificación de 100 kg en dos tamaños: 22,00 €.
+
+2.04.A.06 Cuando son más de dos tamaños y/o peso diferente a 100 kg se utilizará la siguiente fórmula:
+
+Tarifa = 5,560630 × P × N/100
+
+Siendo P el peso en kilogramos y N el número de tamaños.
+
+2.04.A.07 Composición de dos áridos: 22,77 €.
+
+2.04.A.08 Para más de dos áridos la tarifa se obtiene aplicando la siguiente fórmula:
+
+Tarifa = 3,967232 × N
+
+Siendo N el número de áridos y considerando el cemento como un árido.
+
+2.04.A.09 Peso específico y absorción árido fino: 26,72 €.
+
+2.04.A.10 Peso específico y absorción árido grueso: 26,72 €.
+
+2.04.A.11 Humedad natural: 16,57 €.
+
+2.04.A.12 Equivalente de arena: 31,40 €.
+
+2.04.A.13 Ensayo de azul de metileno: 77,94 €.
+
+2.04.A.14 Friabilidad de los áridos: 70,70 €.
+
+2.04.A.15 Densidad aparente: 25,36 €.
+
+2.04.A.16 Índice de lajas: 41,82 €.
+
+2.04.A.17 Caras de fractura: 23,86 €.
+
+2.04.A.18 Densidad real: 26,10 €.
+
+2.04.A.19 Desgaste Los Ángeles: 61,30 €.
+
+2.04.A.20 Preparación de muestras en áridos: 14,35 €.
+
+2.04.A.21 Finos que pasan por el tamiz 0,080 UNE: 29,78 €.
+
+2.04.A.22 Terrones de arcilla: 27,83 €.
+
+2.04.A.23 Partículas blandas: 42,61 €.
+
+2.04.A.24 Material que flota en un líquido de peso específico 2: 29,77 €.
+
+2.04.A.25 Coeficiente de forma: 47,19 €.
+
+2.04.A.26 Ensayo de desgaste de árido grueso empleado por la máquina Deval: 140,99 €.
+
+2.04.A.27 Pulimento acelerado de los áridos: 439,70 €.
+
+2.04.A.28 Reactividad: 122,06 €.
+
+2.04.A.29 Compuestos de azufre (cuantitativo): 68,12 €.
+
+2.04.A.30 Cloruros: 42,02 €.
+
+2.04.A.31 Materia orgánica en arenas: 24,37 €.
+
+2.04.A.32 Adhesividad de los áridos mediante placa Vialit: 79,85 €.
+
+2.04.A.33 Ensayo de desmoronamiento en agua: 61,03 €.
+
+5\. Conglomerantes:
+
+A) Cemento:
+
+2.05.A.01 Peso específico real: 26,01 €.
+
+2.05.A.02 Principio y fin de fraguado: 46,75 €.
+
+2.05.A.03 Finura de molido: 24,86 €.
+
+2.05.A.04 Expansión en autoclave: 115,69 €.
+
+2.05.A.05 Expansión por agujas Le Chatelier: 80,50 €.
+
+2.05.A.06 Fabricación, conservación y rotura a flexotracción y compresión de 6 probetas prismáticas de 4 × 4 × 16 cm: 76,83 €.
+
+2.05.A.07 Superficie específica Blaine: 55,71 €.
+
+2.05.A.08 Densidad de un cemento: 11,51 €.
+
+2.05.A.09 Humedad de un cemento: 12,51 €.
+
+2.05.A.10 Calor de hidratación (una edad): 76,87 €.
+
+2.05.A.11 Calor de hidratación (dos edades): 135,60 €.
+
+2.05.A.12 Cálculo según Bogue: 46,89 €.
+
+2.05.A.13 Ensayo de falso fraguado: 37,18 €.
+
+2.05.A.14 Índice puzolánico a 7 días: 78,24 €.
+
+2.05.A.15 Índice puzolánico a 28 días: 99,40 €.
+
+2.05.A.16 Pérdida al fuego: 20,62 €.
+
+2.05.A.17 Residuo insoluble: 46,46 €.
+
+2.05.A.18 Análisis de CaO libre: 92,89 €.
+
+2.05.A.19 Anhídrido sulfúrico: 71,23 €.
+
+2.05.A.20 Análisis químicos del cemento comprendiendo: Sílice, óxido de aluminio, óxido de hierro, óxido de calcio, óxido de magnesio: 169,01 €.
+
+2.05.A.21 Óxido de sodio: 35,41 €.
+
+2.05.A.22 Óxido de potasio: 35,41 €.
+
+2.05.A.23 Determinación de cloruros (cuantitativo): 55,42 €.
+
+2.05.A.24 Cálculo de la composición potencial del clinker Pórtland: 114,23 €.
+
+2.05.A.25 Azufre total: 82,27 €.
+
+2.05.A.26 Sulfuros: 65,08 €.
+
+B) Yesos:
+
+2.05.B.01 Finura de molido: 24,86 €.
+
+2.05.B.02 Fabricación y rotura a flexotracción de 9 probetas prismáticas de 4 × 4 × 16 cm: 85,40 €.
+
+2.05.B.03 Pasta de consistencia normal: 19,05 €.
+
+2.05.B.04 Principio y fin de fraguado: 46,75 €.
+
+2.05.B.05 Análisis químicos del yeso comprendiendo: sílice, óxido de aluminio, óxido de hierro, óxido de calcio, óxido de magnesio: 169,01 €.
+
+C) Cales:
+
+2.05.C.01 Determinación de la humedad: 12,51 €.
+
+2.05.C.02 Finura de molido en húmedo: 32,84 €.
+
+2.05.C.03 Finura de molido en seco: 24,86 €.
+
+2.05.C.04 Tiempo de fraguado: 46,75 €.
+
+2.05.C.05 Pérdida al fuego: 20,62 €.
+
+2.05.C.06 Resistencia a compresión: 85,40 €.
+
+2.05.C.07 Análisis químicos de las cales comprendiendo: Sílice, óxido de alumnio, óxido de hierro, óxido de calcio, óxido de magnesio: 169,01 €.
+
+D) Cenizas:
+
+2.05.D.01 Peso específico real: 26,01 €.
+
+2.05.D.02 Finura de molido: 24,86 €.
+
+2.05.D.03 Superficie específica Blaine: 55,71 €.
+
+2.05.D.04 Humedad: 12,51 €.
+
+2.05.D.05 Pérdida al fuego: 20,62 €.
+
+2.05.D.06 Análisis químicos de las cenizas comprendiendo: Óxido de calcio (CaO), óxido de aluminio (Al<sub>2</sub>O<sub>3</sub>), óxido de hierro (Fe<sub>2</sub>O<sub>3</sub>), sílice(SiO<sub>2</sub>), óxido de magnesio (MgO): 169,01 €.
+
+E) Escorias:
+
+2.05.E.01 Análisis químicos de la escoria comprendiendo: Sílice, óxido de hierro, óxido de calcio, óxido de aluminio, óxido de magnesio: 169,01 €.
+
+2.05.E.02 Pérdida al fuego: 20,62 €.
+
+2.05.E.03 Superficie específica Blaine: 55,71 €.
+
+F) Aditivos para hormigones:
+
+2.05.F.01 Agua no combinada: 47,69 €.
+
+2.05.F.02 Aire ocluido: 67,92 €.
+
+2.05.F.03 Cloruros (cuantitativos): 62,24 €.
+
+2.05.F.04 Compuestos de azufre: 76,43 €.
+
+2.05.F.05 Consistencia por medio de la mesa de sacudidas: 62,63 €.
+
+2.05.F.06 Pérdida de masa de los aditivos sólidos: 20,81 €.
+
+2.05.F.07 Peso específico de los aditivos líquidos: 25,48 €.
+
+2.05.F.08 Peso específico de los aditivos sólidos: 22,02 €.
+
+2.05.F.09 Pérdida por calcinación: 22,36 €.
+
+2.05.F.10 pH en aditivos: 20,32 €.
+
+2.05.F.11 Residuo soluble en agua destilada: 25,57 €.
+
+2.05.F.12 Residuo seco de aditivos líquidos: 21,59 €.
+
+Hormigones y morteros:
+
+A) Hormigones:
+
+2.06.A.01 Estudio completo de dosificación con granulometría de áridos, estudio teórico dosificación y comprobación, fabricación y rotura de probetas a compresión según norma EH-88: 630,73 €.
+
+2.06.A.02 Consistencia cono de Abrams: 13,14 €.
+
+2.06.A.03 Determinación de aire ocluido: 209,44 €.
+
+2.06.A.04 Exudación de agua del hormigón: 64,19 €.
+
+2.06.A.05 Retracción e hinchamiento de hormigón: 141,00 €.
+
+2.06.A.06 Principio y fin de fraguado de hormigón: 192,70 €.
+
+2.06.A.07 Fabricación, conservación y rotura a compresión de probetas cilíndricas de 15 × 30 cm (6 o menos): 91,04 €.
+
+2.06.A.08 Fabricación, conservación y rotura a tracción indirecta (ensayo brasileño) de probetas cilíndricas de 15 × 30 cm (6 o menos): 91,04 €.
+
+2.06.A.09 Fabricación, conservación y rotura a flexotracción de probetas prismáticas de 15 × 15 × 60 cm (6 o menos): 149,33 €.
+
+2.06.A.10 Conservación de 6 probetas o menos por día a 20º + 2º C y a 100% de humedad relativa: 4,50 €.
+
+2.06.A.11 Rotura de una probeta a compresión: 11,91 €.
+
+2.06.A.12 Rotura de una probeta a brasileño: 13,77 €.
+
+2.06.A.13 Rotura de una probeta a flexotracción: 21,60 €.
+
+2.06.A.14 Refrentado de una probeta con mortero: 15,41 €.
+
+2.06.A.15 Refrentado de una probeta con azufre: 3,65 €.
+
+2.06.A.16 Toma de muestra de hormigón fresco, medida del cono, fabricación de 6 o menos probetas cilíndricas de 15 × 30 cm, transporte, curado, refrentado y rotura: 167,70 €.
+
+2.06.A.17 Por probeta adicional: 14,18 €.
+
+2.06.A.18 Determinación del contenido de cemento en el hormigón: 201,87 €.
+
+2.06.A.19 Ensayo de permeabilidad hasta una presión de 1 kg por centímetro cuadrado: 75,87 €.
+
+2.06.A.20 Extracción de testigos de hormigón (mínimo 3), tallado, refrentado y ensayo a compresión:
+
+\* Testigo de 75 mm de diámetro: 133,80 €.
+
+2.06.A.21 Extracción de testigos de hormigón (mínimo 3), tallado, refrentado y ensayo a compresión:
+
+\* Por cada probeta testigo más en el mismo desplazamiento: 42,38 €.
+
+2.06.A.22 Extracción de testigos de hormigón (mínimo 3), tallado, refrentado y ensayo a compresión:
+
+\* Testigo de 100 mm de diámetro: 154,32 €.
+
+2.06.A.23 Extracción de testigos de hormigón (mínimo 3), tallado, refrentado y ensayo a compresión:
+
+\* Por cada probeta testigo más en el mismo desplazamiento: 50,45 €.
+
+2.06.A.24 Extracción de testigos de hormigón (mínimo 3), tallado, refrentado y ensayo a compresión:
+
+\* Testigo de 150 mm de diámetro: 181,39 €.
+
+2.06.A.25 Extracción de testigos de hormigón (mínimo 3), tallado, refrentado y ensayo a compresión:
+
+\* Por cada probeta testigo más en el mismo desplazamiento: 61,79 €.
+
+2.06.A.26 Ensayo de resistencia con esclerómetro Schmidt:
+
+\* Hasta 10 puntos: 135,65 €.
+
+2.06.A.27 Ensayo de resistencia con esclerómetro Schmidt:
+
+\* Hasta 20 puntos: 222,76 €.
+
+2.06.A.28 Ensayo de resistencia con esclerómetro Schmidt:
+
+\* Hasta 30 puntos: 315,27 €.
+
+2.06.A.29 Ensayo de resistencia con esclerómetro Schmidt:
+
+\* Hasta 40 puntos: 402,39 €.
+
+2.06.A.30 Velocidad de propagación de los impulsos ultrasónicos (Aparato PUNDIT) (Por punto): 16,44 €.
+
+2.06.A.31 Detección de armaduras de hierro (Pachómetro) (Por punto): 13,09 €.
+
+2.06.A.32 Módulo de elasticidad (coeficiente de Poison): 238,73 €.
+
+2.06.A.33 Consistencia mediante mesa de sacudidas: 15,35 €.
+
+2.06.A.34 Toma de muestra de hormigón proyectado incluyendo extracción de testigos (9 unidades), tallado, refrentado y ensayo a compresión: 231,85 €.
+
+B) Morteros:
+
+2.06.B.01 Determinación del escurrimiento en la mesa de sacudidas: 15,35 €.
+
+2.06.B.02 Dosificación aproximada de un mortero fraguado: 201,86 €.
+
+2.06.B.03 Medida de expansión de morteros: 170,99 €.
+
+2.06.B.04 Fabricación, conservación y rotura a flexión compresión de 6 probetas de mortero: 76,83 €.
+
+2.06.B.05 Ensayo de heladicidad (25 ciclos): 186,60 €.
+
+2.06.B.06 Absorción de agua: 23,62 €.
+
+C) Baldosas y baldosines de cemento:
+
+2.06.C.01 Determinación de la densidad aparente: 58,93 €.
+
+2.06.C.02 Determinación de la absorción de agua: 68,71 €.
+
+2.06.C.03 Determinación del desgaste por rozamiento: 227,45 €.
+
+2.06.C.04 Tolerancia dimensional: 55,89 €.
+
+2.06.C.05 Heladicidad: 186,60 €.
+
+2.06.C.06 Resistencia a flexión: 56,49 €.
+
+2.06.C.07 Resistencia al choque: 49,72 €.
+
+D) Bordillos:
+
+2.06.D.01 Medida y designación del bordillo: 29,02 €.
+
+2.06.D.02 Resistencia a flexión del bordillo: 86,34 €.
+
+E) Tubería de fibrocemento y hormigón:
+
+2.06.E.01 Ensayo mecánico de tubos de diámetro menor de 600 mm: 259,89 €.
+
+2.06.E.02 Ensayo mecánico de tubos de diámetro entre 600 mm y 110 mm: 357,26 €.
+
+2.06.E.03 Ensayo a presión: 224,16 €.
+
+2.06.E.04 Resistencia a compresión: 146,58 €.
+
+2.06.E.05 Absorción de agua: 83,04 €.
+
+7\. Suelos estabilizados y gravas tratadas:
+
+2.07.A.01 Fabricación y conservación en condiciones normales de series de 6 probetas o menos, de mezclas de suelo cemento: 60,22 €.
+
+2.07.A.02 Rotura a compresión simple de una probeta cilíndrica de 10 o más cm de diámetro de un material estabilizado: 11,92 €.
+
+2.07.A.03 Rotura a compresión simple de una probeta cilíndrica de un diámetro inferior a 10 cm de un material estabilizado: 11,92 €.
+
+2.07.A.04 Curado de una serie de 6 probetas o menos en cámara húmeda y condiciones normales por día: 2,50 €.
+
+2.07.A.05 Ensayo de humedad-sequedad de 2 probetas de suelo-cemento o grava-cemento, por contenido de cemento: 138,85 €.
+
+2.07.A.06 Ensayo de congelación-deshielo de 2 probetas de suelo-cemento o grava-cemento, por contenido de cemento: 138,85 €.
+
+2.07.A.07 Ensayo de compactación de una mezcla de grava-cemento: 45,31 €.
+
+2.07.A.08 Fabricación y conservación de 6 probetas de grava-cemento, compactadas con maza: 80,49 €.
+
+2.07.A.09 Fabricación y conservación de 6 probetas de grava-cemento, compactadas con martillo vibrante: 55,37 €.
+
+2.07.A.10 Rotura a tracción indirecta de una probeta de grava-cemento, grava-escoria o escoria-escoria de 15 cm de diámetro: 12,34 €.
+
+2.07.A.11 Ensayo de compactación con maza de una mezcla de grava-escoria o escoria-escoria: 55,50 €.
+
+2.07.A.12 Ensayo de compactación con martillo vibrante de una mezcla de grava-escoria o escoria escoria: 58,95 €.
+
+2.07.A.13 Fabricación y conservación de 6 probetas de grava-escoria o escoria-escoria compactadas con maza: 84,14 €.
+
+2.07.A.14 Fabricación y conservación de 6 probetas de grava-escoria o escoria-escoria compactadas con martillo vibrante: 70,48 €.
+
+2.07.A.15 Extracción de testigos de materiales estabilizados de diámetro superior a 10 cm (mínimo 3 testigos):
+
+\* Hasta 12 cm: 138,92 €.
+
+2.07.A.16 Extracción de testigos de materiales estabilizados de diámetro superior a 10 cm (mínimo 3 testigos):
+
+\* De 15 cm o más: 217,31 €.
+
+2.07.A.17 Contenido óptimo de líquidos mediante el ensayo de Próctor Modificado en mezclas de grava-emulsión: 62,63 €.
+
+2.07.A.18 Ensayo de inmersión-compresión en mezclas de grava-emulsión (6 probetas): 159,87 €.
+
+8\. Ligantes bituminosos:
+
+A) Betunes asfálticos:
+
+2.08.A.01 Densidad relativa: 33,44 €.
+
+2.08.A.02 Agua en materiales bituminosos: 31,70 €.
+
+2.08.A.03 Penetración a 25º C: 28,64 €.
+
+2.08.A.04 Viscosidad Saybolt en materiales bituminosos: 57,81 €.
+
+2.08.A.05 Punto de reblandecimiento anillo y bola: 33,76 €.
+
+2.08.A.06 Ductilidad a 25º C: 61,03 €.
+
+2.08.A.07 Punto de inflamación Cleveland: 33,44 €.
+
+2.08.A.08 Pérdida por calentamiento: 32,75 €.
+
+2.08.A.09 Betún soluble en sulfuro de carbono: 47,93 €.
+
+2.08.A.10 Solubilidad en disolventes orgánicos: 47,93 €.
+
+2.08.A.11 Contenidos en asfaltenos: 47,93 €.
+
+2.08.A.12 Contenido en parafinas: 136,57 €.
+
+2.08.A.13 Punto de fragilidad Fraas: 83,95 €.
+
+2.08.A.14 Pérdida por calentamiento en película fina: 47,76 €.
+
+2.08.A.15 Contenido en cenizas: 31,70 €.
+
+2.08.A.16 Determinación del índice de penetración: 9,88 €.
+
+2.08.A.17 Índice de acidez: 43,53 €.
+
+B) Betunes fluidificados:
+
+2.08.B.01 Viscosidad Saybolt: 57,81 €.
+
+2.08.B.02 Destilación: 76,22 €.
+
+2.08.B.03 Equivalente heptano-xileno: 58,93 €.
+
+2.08.B.04 Punto de inflamación Tabliabue: 33,44 €.
+
+2.08.B.05 Contenido en agua: 32,91 €.
+
+C) Emulsiones asfálticas:
+
+2.08.C.01 Contenido de agua: 32,91 €.
+
+2.08.C.02 Destilación: 76,22 €.
+
+2.08.C.03 Sedimentación: 34,31 €.
+
+2.08.C.04 Estabilidad (método del cloruro cálcico): 43,44 €.
+
+2.08.C.05 Tamizado: 31,51 €.
+
+2.08.C.06 Miscibilidad en agua: 31,51 €.
+
+2.08.C.07 Mezcla con cemento: 31,51 €.
+
+2.08.C.08 Envuelta con áridos: 31,51 €.
+
+2.08.C.09 Heladicidad: 31,51 €.
+
+2.08.C.10 Residuo por evaporación: 31,51 €.
+
+2.08.C.11 Determinación del pH: 22,65 €.
+
+2.08.C.12 Resistencia al desplazamiento por el agua: 31,51 €.
+
+2.08.C.13 Cargas de las partículas: 31,51 €.
+
+2.08.C.14 Ensayos sobre el residuo de destilación: Los indicados para betunes asfálticos incrementados en el precio de la destilación.
+
+D) Alquitranes para carreteras:
+
+2.08.D.01 Viscosidad Engler: 43,17 €.
+
+2.08.D.02 Viscosidad BRTA (STV): 43,17 €.
+
+2.08.D.03 Consistencia por medio del flotador: 34,31 €.
+
+2.08.D.04 Temperatura de equiviscosidad: 104,46 €.
+
+2.08.D.05 Destilación: 104,46 €.
+
+2.08.D.06 Fenoles: 31,51 €.
+
+2.08.D.07 Naftalinas: 31,51 €.
+
+2.08.D.08 Carbono libre insoluble en tolueno: 67,67 €.
+
+2.08.D.09 Índice de sulfonación: 125,43 €.
+
+2.08.D.10 Índice de espuma: 36,13 €.
+
+9\. Mezclas bituminosas:
+
+A) Mezclas:
+
+2.09.A.01 Estudio de una dosificación de áridos: 133,97 €.
+
+2.09.A.02 Fabricación de probetas Marshall (cuatro probetas por un contenido de ligante): 48,51 €.
+
+2.09.A.03 Densidad relativa de probetas Marshall (cuatro probetas) 24,17 €.
+
+2.09.A.04 Estabilidad y deformación de probetas Marshall (cuatro probetas) 26,34 €.
+
+2.09.A.05 Cálculo de huecos de mezclas bituminosas (cuatro probetas): 28,65 €.
+
+2.09.A.06 Análisis y cálculo de dosificación de una mezcla bituminosa por el método Hubbard-Field: 93,86 €.
+
+2.09.A.07 Fabricación, densidad, estabilidad de probetas Hubbard-Field: 137,07 €.
+
+2.09.A.08 Análisis y cálculo de dosificación de una mezcla bituminosa por el ensayo inmersión-compresión: 93,88 €.
+
+2.09.A.09 Fabricación de probetas inmersión-compresión (tres probetas): 65,55 €.
+
+2.09.A.10 Densidad relativa de probetas de inmersión-compresión (tres probetas): 25,37 €.
+
+2.09.A.11 Resistencia de probetas a compresión simple (tres probetas): 24,27 €.
+
+2.09.A.12 Inmersión y rotura de probetas a compresión simple (tres probetas): 73,32 €.
+
+2.09.A.13 Contenido de ligante de una mezcla bituminosa: 72,24 €.
+
+2.09.A.14 Granulometría de los áridos obtenidos: 35,81 €.
+
+2.09.A.15 Contenido en árido silíceo: 32,86 €.
+
+2.09.A.16 Equivalente centrífugo de keroseno: 80,66 €.
+
+2.09.A.17 Adhesividad Riedel-Weber: 61,03 €.
+
+2.09.A.18 Preparación de materiales y fabricación de mezclas para ensayos en pista de laboratorio (Wheel-Traeking en porcentaje de ligante): 289,96 €.
+
+2.09.A.19 Ensayo en pista de laboratorio (Wheel-Traeking de una muestra de aglomerado asfáltico, en porcentaje de ligante: 299,09 €.
+
+2.09.A.20 Coeficiente de resistencia al deslizamiento con el péndulo TRRL (9 medidas porpunto kilométrico): 161,24 €.
+
+2.09.A.21 Recuperación de betún de una mezcla bituminosa para su caracterización: 216,28 €.
+
+2.09.A.22 Densidad de áridos en aceite de parafina: 33,44 €.
+
+2.09.A.23 Extracción de testigos de mezclas asfálticas incluyendo la medida de espesor de capa y determinación de densidad parafinada: 82,22 €.
+
+2.09.A.24 Grado de esparcimiento de gravilla recubierta: 24,95 €.
+
+2.09.A.25 Ensayo Cántabro en mezclas drenantes (4 probetas): 72,07 €.
+
+2.09.A.26 Ensayo de permeabilidad en mezclas drenantes: 19,44 €.
+
+B) Filler:
+
+2.09.B.01 Análisis granulométrico por tamizado: 29,75 €.
+
+2.09.B.02 Densidad aparente en tolueno: 27,67 €.
+
+2.09.B.03 Densidad relativa del filler: 23,84 €.
+
+2.09.B.04 Coeficiente de emulsibilidad: 99,58 €.
+
+2.09.B.05 Coeficiente de actividad hidrofílico: 65,30 €.
+
+2.09.B.06 Huecos de filler compactado en seco: 35,03 €.
+
+2.09.B.07 Análisis de filler, método filler-betún: 61,44 €.
+
+10\. Pinturas para marcas viales:
+
+A) Ensayos en la película seca:
+
+2.10.A.01 Reflectancia luminosa aparente: 50,33 €.
+
+2.10.A.02 Poder cubriente: 45,09 €.
+
+2.10.A.03 Flexibilidad: 82,52 €.
+
+2.10.A.04 Resistencia al desgaste: 26,63 €.
+
+2.10.A.05 Resistencia a la inmersión en agua: 25,53 €.
+
+2.10.A.06 Resistencia al envejecimiento y resistencia a la acción de la luz (cien horas y seis o menos probetas): 89,97 €.
+
+2.10.A.07 Igual, pero con doscientas horas y seis o menos probetas: 113,51 €.
+
+2.10.A.08 Adherencia: 43,43 €.
+
+2.10.A.09 Medidas de la reflectancia in situ: 51,42 €.
+
+B) Ensayos en la pintura líquida:
+
+2.10.B.01 Contenido en agua: 65,72 €.
+
+2.10.B.02 Consistencia Krebs Storner: 37,18 €.
+
+2.10.B.03 Tiempo de secado: 37,73 €.
+
+2.10.B.04 Color visual: 15,58 €.
+
+2.10.B.05 Conservación en envase lleno: 22,03 €.
+
+2.10.B.06 A dilución: 17,90 €.
+
+2.10.B.07 Materia fija: 36,54 €.
+
+2.10.B.08 Densidad relativa: 36,54 €.
+
+2.10.B.09 Propiedades de aplicación: 17,09 €.
+
+2.10.B.10 Toma de muestras: 11,20 €.
+
+C) Propiedades de aplicación:
+
+2.10.C.01 A pistola: 23,61 €.
+
+2.10.C.02 A brocha: 20,86 €.
+
+2.10.C.03 Resistencia al sangrado: 29,05 €.
+
+D) Esferas de vidrio:
+
+2.10.D.01 Determinación de porcentaje de esferas de vidrio defectuosas: 73,05 €.
+
+2.10.D.02 Análisis granulométrico: 32,82 €.
+
+2.10.D.03 Resistencia al agua: 34,86 €.
+
+2.10.D.04 Resistencia a los ácidos: 35,96 €.
+
+2.10.D.05 Resistencia a la solución de cloruro cálcico: 35,96 €.
+
+2.10.D.06 Determinación del peso de pintura y microesferas de vidrio y despositadas por metro cuadrado en las aplicaciones prácticas: 47,72 €.
+
+11\. Señalización vertical reflexiva:
+
+2.11.A.01 Retrorreflexión: 43,82 €.
+
+2.11.A.02 Color y reflectancia luminosa: 53,34 €.
+
+2.11.A.03 Resistencia al impacto: 27,34 €.
+
+2.11.A.04 Adherencia al soporte: 27,86 €.
+
+2.11.A.05 Resistencia al calor: 28,39 €.
+
+2.11.A.06 Resistencia al frío: 28,39 €.
+
+2.11.A.07 Resistencia a la humedad: 27,34 €.
+
+2.11.A.08 Resistencia a los disolventes: 43,04 €.
+
+2.11.A.09 Resistencia a la niebla salina: 70,08 €.
+
+2.11.A.10 Brillo especular: 52,80 €.
+
+2.11.A.11 Envejecimiento artificial acelerado: 220,84 €.
+
+2.11.A.12 Resistencia a la inmersión en agua: 27,34 €.
+
+12\. Aceros:
+
+2.12.A.01 Ensayo a tracción de una probeta que incluye: Determinación de la sección de peso, ovalización por calibrado en barras, límite elástico (0,2%), tensión de rotura, alargamiento de rotura, diagramas carga de formación: 29,84 €.
+
+2.12.A.02 Módulo de elasticidad: 37,88 €.
+
+2.12.A.03 Ensayo de doblado simple: 11,78 €.
+
+2.12.A.04 Ensayo de doblado-desdoblado: 15,36 €.
+
+2.12.A.05 Determinación de las características geométricas: 23,26 €.
+
+2.12.A.06 Arrancamiento de nudo soldado en mallas electrosoldadas: 45,20 €.
+
+2.12.A.07 Rotura a tracción en malla electrosoldada: 27,56 €.
+
+13\. Varios:
+
+2.13.A.01 Placa de carga de 30 cm diámetro (con 1 ciclo): 128,60 €.
+
+2.13.A.02 Placa de carga de 30 cm diámetro (con 2 ciclos): 163,53 €.
+
+2.13.A.03 Placa de carga de 60 cm diámetro (con 1 ciclo): 176,03 €.
+
+2.13.A.04 Placa de carga de 60 cm diámetro (con 2 ciclos): 210,96 €.
+
+2.13.A.05 Placa de carga de 30 × 30 cm (con 1 ciclo): 157,28 €.
+
+2.13.A.06 Placa de carga de 30 × 30 cm (con 2 ciclos): 192,22 €.
+
+2.13.A.07 Placa de carga de 60 × 60 cm (con 1 ciclo): 216,36 €.
+
+2.13.A.08 Placa de carga de 60 × 60 cm (con 2 ciclos): 286,22 €.
+
+2.13.A.09 Vehículo o máquina empleado como elemento de reacción para la realización de ensayo por hora de trabajo: 26,00 €.
+
+2.13.A.10 Por desplazamiento de personal para toma de muestras, control de obra o realización de ensayos in situ:
+
+\* Por cada kilómetro (1 persona): 0,70 €.
+
+2.13.A.11 Por desplazamiento de personal para toma de muestras, control de obra o realización de ensayos in situ:
+
+\* Por cada kilómetro (2 personas): 1,15 €.
+
+2.13.A.12 Por desplazamiento de personal para toma de muestras, control de obra o realización de ensayos in situ:
+
+\* Por cada kilómetro y persona de más: 0,41 €.
+
+2.13.A.13 Estudio de deformaciones con flexímetro en pruebas de carga estática de puentes y estructuras:
+
+\* Primer vano: 1192,27 €.
+
+(No se incluyen los medios de carga ni labores accesorias)
+
+2.13.A.14 Estudio de deformaciones con flexímetro en pruebas de carga estática de puentes y estructuras:
+
+\* Por cada vano más: 564,83 €.
+
+(No se incluyen los medios de carga ni labores accesorias)
+
+2.13.A.15 Medida de deflexiones con la viga Benkelman (hasta 20 puntos): 438,83 €.
+
+2.13.A.16 Por cada punto adicional: 20,28 €.
+
+2.13.A.17 Rugosidad superficial por el método del parche de Arena: 20,98 €.
+
+2.13.A.18 Irregularidad superficial con viga móvil (por cada 500 m o fracción): 72,05 €.
+
+2.13.A.19 Recubrimiento de cinc por m<sup>2</sup> en barrera de seguridad: 37,34 €.
+
+2.13.A.20 Espesor de recubrimiento de metal base en barrera de seguridad: 12,89 €.
+
+2.13.A.21 Adherencia del recubrimiento al metal base en barrera de seguridad: 18,29 €.
+
+2.13.A.22 Ensayo de la huella: 164,38 €.
+
+En los supuestos de prospecciones, controles de obra y ensayos de materiales que traigan su causa de contratos con la Administración del Principado, solamente se abonará el importe resultante de los practicados hasta una cuantía máxima igual al 1 por 100 del presupuesto del contrato.
+
+> Se modifica la tarifa 2 por el art. 11.6 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 72, de 25 de marzo. [Ref. BOE-A-2005-4857](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4857).
+
+#### Sección 3.ª Tasa de puertos
+
+##### Artículo 100. Hecho imponible.
+
+1\. Constituye el hecho imponible de esta tasa la prestación de servicios generales, específicos y eventuales por los órganos portuarios de la Administración del Principado de Asturias, así como la utilización del dominio público, en los supuestos y casos definidos a continuación, bien sean prestados de oficio, bien a instancia de los interesados.
+
+2\. Servicios generales: Son servicios generales los comprendidos en los siguientes grupos:
+
+a) Entrada y estancia de barcos en el puerto (G-1): Incluye la utilización de las instalaciones de señales marítimas y balizamiento, canales de acceso, obras de abrigo y zonas de fondeo.
+
+b) Utilización de atraques (G-2): Comprende el uso de las obras de atraque y elementos fijos de amarre y defensa, que hayan sido construidos, total o parcialmente, por la Administración Portuaria o sean propiedad de la misma.
+
+c) Embarque, desembarque y transbordo de mercancías y pasajeros (G-3): Se recoge aquí la utilización de las aguas del puerto y dársenas, accesos terrestres vías de circulación, zonas de manipulación y estancias marítimas y servicios generales de policía.
+
+d) Pesca fresca marítima (G-4): Comprende la utilización por los buques pesqueros en actividad y los productos de la pesca marítima, de las aguas del puerto y dársena, instalaciones de señales marítimas y balizamiento, canales de acceso, obras de abrigo, zonas de fondeo, obras de atraque, elementos fijos de amarre y defensa, accesos terrestres y vías de circulación, zonas de manipulación, estancias marítimas y servicios generales de policía.
+
+e) Embarcaciones deportivas y de recreo (G-5): Comprende la utilización por las embarcaciones deportivas o de recreo y por sus tripulantes y pasajeros de las instalaciones de balizamiento del puerto, de las ayudas a la navegación y de las dársenas y zonas de fondeo, de los servicios generales de policía y, en su caso, de las instalaciones de amarre y atraque en muelles o pantalanes.
+
+3\. Servicios específicos: Son servicios específicos los comprendidos en los siguientes grupos:
+
+a) Los prestados con los elementos que contribuyen al equipo mecánico de manipulación y transporte (E-1): Comprende la utilización de las grúas de pórtico, convencionales o especializadas.
+
+b) Las prestaciones en forma de utilización de superficies, edificios y locales de cualquier clase (E-2): Comprende la utilización de explanadas, cobertizos, tinglados, almacenes, depósitos, locales y edificios, con sus servicios generales correspondientes no explotados en régimen de concesión.
+
+c) Los suministros de productos y energía (E-3): Se incluyen dentro de este servicio el suministro, por los órganos portuarios, de los productos o energías necesarias para los usuarios del puerto, así como la utilización de las instalaciones para la prestación de los mismos;
+
+d) Los prestados en forma de utilización de instalaciones o superficies no definidas específicamente en otros apartados (E-4): Se incluye aquí la utilización de básculas, rampas de varada, sobordas, cabrestantes, boyas y aparcamientos.
+
+4\. Servicios eventuales (E-5): Se recoge bajo el concepto de servicios eventuales la utilización de la superficie del puerto para instalaciones eventuales lucrativas no portuarias o la prestación de cualquier otro servicio no definido anteriormente.
+
+5\. Canon de ocupación y aprovechamiento del dominio público portuario. Se recoge bajo este concepto toda ocupación o aprovechamiento del dominio público portuario en virtud de una concesión o autorización.
+
+> Se añade el apartado 5 por el art. 5.5 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 101. Sujeto pasivo.
+
+Serán sujetos pasivos de la tasa:
+
+a) Los armadores o sus representantes, o los consignatarios de los barcos que utilicen los servicios a que se refieren las tarifas G-1 y G-2.
+
+b) Los armadores, los consignatarios de los barcos que utilicen el servicio y los propietarios del medio de transporte cuando la mercancía entre y salga del puerto por medios exclusivamente terrestres en los servicios relativos a la tarifa G-3.
+
+Serán responsables subsidiarios del pago de la tasa los propietarios de la mercancía y, en su defecto, sus representantes autorizados, salvo que prueben haber hecho provisión de fondos a los responsables principales.
+
+c) El armador del buque o el que en su representación realice la primera venta en los servicios referentes a la tarifa G-4.
+
+El sujeto pasivo deberá repercutir el importe de la tasa sobre el primer comprador de la pesca, si lo hay, quedando éste obligado a soportar dicha repercusión, que se hará constar de manera expresa y separada en la factura o documento equivalente.
+
+Subsidiariamente, serán responsables del pago de la tasa el primer comprador de la pesca, salvo que demuestre haber soportado efectivamente la repercusión y, en su caso, el representante del armador.
+
+d) El propietario de la embarcación o su representante autorizado, para los servicios de la tarifa G-5, y subsidiariamente el capitán o patrón de la misma.
+
+e) Las personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta Ley que utilicen el dominio público o a quienes se les presten los servicios definidos en las tarifas E-1, E-2, E-3, E-4, E-5 y en el canon de ocupación y aprovechamiento del dominio público portuario.
+
+Serán responsables subsidiarios del pago de la tarifa E-1 los propietarios de las mercancías o sus representantes autorizados, salvo que prueben hacer realizado provisión de fondos a los usuarios del servicio.
+
+> Se modifica por el art. 5.6 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 102. Devengo.
+
+La tasa se devengará en los siguientes momentos:
+
+a) En las tarifas G-1 y G-5, cuando el barco haya entrado en las aguas del puerto.
+
+b) En la tarifa G-2, cuando el barco haya atracado en el muelle.
+
+c) En la tarifa G-3, cuando se inicien las operaciones de paso de mercancías o pasajeros por el puerto.
+
+d) En la tarifa G-4, cuando se inicien las operaciones de embarque o transbordo de los productos de pesca en cualquier punto de las aguas o zonas terrestres bajo la jurisdicción del organismo portuario.
+
+e) En la tarifa E-1, en el momento de la puesta a disposición de la grúa.
+
+f) En la tarifa E-2, cuando sea firme la reserva del espacio solicitado.
+
+g) En las tarifas E-3, E-4 y E-5, en el momento de iniciarse la prestación del servicio o en el momento de la puesta a disposición del dominio público.
+
+h) En el canon de ocupación y aprovechamiento del dominio público portuario, cuando se expida el documento administrativo en que se contenga la correspondiente concesión o autorización.
+
+> Se modifica por el art. 5.7 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 103. Tarifas.
+
+La tasa se exigirá de acuerdo con las bases y tipos contenidos en las siguientes tarifas:
+
+Tarifa G-1. Entrada y estancia:
+
+Las bases para la liquidación de esta tarifa serán: el volumen del barco, medidas por su TRB o arqueo bruto, el tiempo de estancia del mismo en el puerto y la clase de navegación.
+
+|  | Pesetas |
+|---|---|
+| 1. Los barcos de 3.000 o menos TRB: |  |
+| a) Que permanezcan seis horas o menos en el puerto abonarán por cada 100 TRB (o 100 unidades de arqueo) o fracción: |  |
+| Navegación de cabotaje | 50,14 |
+| Navegación exterior | 770,20 |
+| b) Los que permanezcan entre seis y veinticuatro horas abonarán por cada 100 TRB (o 100 unidades de arqueo) o fracción: |  |
+| Navegación de cabotaje | 100,38 |
+| Navegación exterior | 1.541,56 |
+| 2. Los barcos con TRB superior 3.000 e igual o inferior a 5.000: |  |
+| a) Que permanezcan seis horas o menos, abonarán por cada 100 TRB (o 100 unidades de arqueo) o fracción: |  |
+| Navegación de cabotaje | 55,76 |
+| Navegación exterior | 855,10 |
+| b) Los que permanezcan entre seis y veinticuatro horas abonarán por cada 100 TRB (o 100 unidades de arqueo) o fracción: |  |
+| Navegación de cabotaje | 110,24 |
+| Navegación exterior | 1.711,69 |
+| 3. Los barcos con TRB superior a 5.000 e igual o inferior a 10.000: |  |
+| a) Que permanezcan seis horas o menos abonarán por cada 100 TRB (o 100 unidades de arqueo) o fracción: |  |
+| Navegación de cabotaje | 55,76 |
+| Navegación exterior | 855,10 |
+| b) Los que permanezcan entre seis y veinticuatro horas abonarán por cada 100 TRB (o 100 unidades de arqueo) o fracción: |  |
+| Navegación de cabotaje | 122,54 |
+| Navegación exterior | 1.881,50 |
+| 4. Los barcos con TRB superior a 10.000 e igual o inferior a 100.000: |  |
+| a) Que permanezcan seis horas o menos abonarán por cada 100 TRB (o 100 unidades de arqueo) o fracción: |  |
+| Navegación de cabotaje | 68,37 |
+| Navegación exterior | 1.026,40 |
+| b) Los que permanezcan entre seis y veinticuatro horas abonarán por cada 100 TRB (o 100 unidades de arqueo) o fracción: |  |
+| Navegación de cabotaje | 133,67 |
+| Navegación exterior | 2.051,42 |
+
+La cuantía de la tarifa a aplicar a los barcos que entren en el puerto en arribada forzosa, será la mitad de la que les corresponda por aplicación de la tarifa anteriormente indicada, siempre que no utilicen ninguno de los servicios industriales o comerciales del organismo portuario. Se excluye de esta condición las peticiones de servicios que tuvieran por objeto la salvaguarda de vidas humanas en el mar.
+
+Los barcos destinados a tráfico interior de bahía local, remolcadores con base en puerto, dragas, algibes, gabarras y artefactos análogos, pontones, etc., abonarán mensualmente una cantidad equivalente a 15 veces el importe diario que por aplicación de la tarifa de navegación de cabotaje correspondiera.
+
+Tarifa G-2. Atraque:
+
+Las bases para la liquidación de la tarifa serán: La eslora máxima del barco, el calado del muelle y el tiempo de permanencia en el atraque o amarre.
+
+En los casos en que, por transportar el barco cualquier tipo de mercancía peligrosa sea preciso disponer unas zonas de seguridad a proa y/o a popa, se considerará como base tributaria la eslora máxima del barco incrementada en la longitud de dichas zonas.
+
+La cuantía a pagar se determina de la siguiente manera:
+
+|  | Pesetas |
+|---|---|
+| 1. En muelles con 4 metros o menos de calado en bajamar media viva equinoccial: |  |
+| Por cada período de atraque de tres horas o fracción | 15,58 |
+| Por cada período de atraque completo de veinticuatro horas | 55,76 |
+| 2. En muelles con más de 4 metros de calado en bajamar media viva equinoccial: |  |
+| Por cada período de atraque de tres horas o fracción | 20,99 |
+| Por cada período de atraque completo de veinticuatro horas | 78,02 |
+
+Los barcos dedicados al tráfico local o de bahía y los de servicio interior del puerto que atraquen habitualmente en determinados muelles y que así lo soliciten pagarán mensualmente siete veces el importe diario que por aplicación de la tarifa anterior les corresponda.
+
+Tarifa G-3. Mercancías y pasajeros:
+
+Las bases para la liquidación de esta tarifa serán:
+
+I) Para los pasajeros, su número, modalidad de pasaje y la clase de tráfico.
+
+II) Para las mercancías, su clase y peso, la clase de tráfico y el tipo de operación.
+
+La cuantía de la tarifa será:
+
+I) Para los pasajeros y por cada uno de ellos la siguiente:
+
+|  | Pesetas |
+|---|---|
+| a) Pasajeros en camarotes de una o dos plazas: |  |
+| Tráfico de bahía o local | 7,74 |
+| Tráfico de cabotaje | 403,75 |
+| Tráfico exterior | 1.346,09 |
+| b) Pasajeros en camarotes de tres o más plazas o butacas en salón: |  |
+| Tráfico de bahía o local | 7,74 |
+| Tráfico de cabotaje | 121,37 |
+| Tráfico exterior | 1.006,89 |
+| c) Pasajeros en cubierta: |  |
+| Tráfico de bahía o local | 4,66 |
+| Tráfico de cabotaje | 39,01 |
+| Tráfico exterior | 403,75 |
+
+En el tráfico de bahía o local se abonará la tarifa sólo al embarque.
+
+II) Para las mercancías hay que distinguir tres supuestos:
+
+|  | Pesetas<br>por Tm de peso<br>o fracción |
+|---|---|
+| 1. Mercancías que embarcan y/o desembarcan en puertos del Principado: |  |
+| La determinación de las cuantías de la tarifa se hará teniendo en cuenta el repertorio de clasificación de mercancías vigente; en base a él, se establece: |  |
+| a) Comercio nacional local o de bahía por embarque o desembarque: |  |
+| Mercancías del grupo primero | 18,13 |
+| Mercancías del grupo segundo | 24,91 |
+| Mercancías del grupo tercero | 36,25 |
+| Mercancías del grupo cuarto | 55,76 |
+| Mercancías del grupo quinto | 76,74 |
+| Mercancías del grupo sexto | 100,38 |
+| Mercancías del grupo séptimo | 125,40 |
+| Mercancías del grupo octavo | 300,72 |
+| Productos petrolíferos: |  |
+| Petróleo crudo | 16,75 |
+| Gas-oil y fuel-oil | 30,63 |
+| Asfalto, alquitranes, breas de petróleo | 40,49 |
+| Gasolinas, naftas ypetróleo refinado | 48,76 |
+| Vaselinas y lubricantes | 80,67 |
+| b) Comercio nacional de cabotaje por embarque o desembarque: |  |
+| Mercancías del grupo primero | 34,77 |
+| Mercancías del grupo segundo | 50,14 |
+| Mercancías del grupo tercero | 76,74 |
+| Mercancías del grupo cuarto | 110,24 |
+| Mercancías del grupo quinto | 150 ,52 |
+| Mercancías del grupo sexto | 200 ,55 |
+| Mercancías del grupo séptimo | 252,17 |
+| Mercancías del grupo octavo | 601,76 |
+| Productos petrolíferos: |  |
+| Petróleo crudo | 32,22 |
+| Gas-oil y fuel-oil | 65,61 |
+| Asfalto, alquitranes, breas de petróleo | 73,99 |
+| Gasolinas, naftas y petróleo refinado | 97,52 |
+| Vaselinas y lubricantes | 163,03 |
+| c) Embarque de mercancías en comercio exterior: |  |
+| Mercancías del grupo primero | 87,77 |
+| Mercancías del grupo segundo | 125,40 |
+| Mercancías del grupo tercero | 186,45 |
+| Mercancías del grupo cuarto | 275,71 |
+| Mercancías del grupo quinto | 375,98 |
+| Mercancías del grupo sexto | 500,21 |
+| Mercancías del grupo séptimo | 625,51 |
+| Mercancías del grupo octavo | 1.501,38 |
+| Productos petrolíferos: |  |
+| Petróleo crudo | 73,99 |
+| Gas-oil y fuel-oil | 129,64 |
+| Asfalto, alquitranes, breas de petróleo | 147,66 |
+| Gasolinas, naftas y petróleo refinado | 196,42 |
+| Vaselinas y lubricantes | 327,43 |
+| d) Desembarque de mercancías en comercio exterior: |  |
+| Mercancías del grupo primero | 139,28 |
+| Mercancías del grupo segundo | 200,55 |
+| Mercancías del grupo tercero | 300,72 |
+| Mercancías del grupo cuarto | 440,22 |
+| Mercancías del grupo quinto | 601,76 |
+| Mercancías del grupo sexto | 800,94 |
+| Mercancías del grupo séptimo | 1.001,49 |
+| Mercancías del grupo octavo | 2.402,49 |
+| Productos petrolíferos: |  |
+| Petróleo crudo | 83,74 |
+| Gas-oil y fuel-oil | 167,16 |
+| Asfalto, alquitranes, breas de petróleo | 188,26 |
+| Gasolinas, naftas y petróleo refinado | 252,17 |
+| Vaselinas y lubricantes | 419,34 |
+| Para las partidas con un peso total inferior a 1 tonelada métrica la cuantía será por cada 200 kilogramos o fracción en exceso, la quinta parte de la que correspondería pagar por una tonelada. |  |
+| 2. Mercancías en tránsito por puertos del Principado: |  |
+| Partiendo del repertorio de clasificación de mercancías vigente, la tarifa distingue entre operaciones de tránsito vía marítima y vía terrestre: |  |
+| A) Operaciones de tránsito de vía marítima: |  |
+| a) Mercancías con origen inicial nacional y destino final nacional: |  |
+| Mercancías del grupo primero | 34,77 |
+| Mercancías del grupo segundo | 50,14 |
+| Mercancías del grupo tercero | 68,69 |
+| Mercancías del grupo cuarto | 110,24 |
+| Mercancías del grupo quinto | 150,52 |
+| Mercancías del grupo sexto | 200,55 |
+| Mercancías del grupo séptimo | 252,17 |
+| Mercancías del grupo octavo | 601,76 |
+| b) Mercancías con origen inicial nacional y destino final extranjero: |  |
+| Mercancías del grupo primero | 71,13 |
+| Mercancías del grupo segundo | 98,79 |
+| Mercancías del grupo tercero | 151,79 |
+| Mercancías del grupo cuarto | 221,65 |
+| Mercancías del grupo quinto | 300,72 |
+| Mercancías del grupo sexto | 399,73 |
+| Mercancías del grupo séptimo | 501,27 |
+| Mercancías del grupo octavo | 1.203,42 |
+| c) Mercancías con origen inicial extranjero y destino final nacional: |  |
+| Mercancías del grupo primero | 107,27 |
+| Mercancías del grupo segundo | 149,04 |
+| Mercancías del grupo tercero | 228,32 |
+| Mercancías del grupo cuarto | 330,08 |
+| Mercancías del grupo quinto | 450,08 |
+| Mercancías del grupo sexto | 600,17 |
+| Mercancías del grupo séptimo | 753,55 |
+| Mercancías del grupo octavo | 1.804,76 |
+| d) Mercancías con origen inicial extranjero y destino final extranjero: |  |
+| Mercancías del grupo primero | 143,42 |
+| Mercancías del grupo segundo | 199,17 |
+| Mercancías del grupo tercero | 303,58 |
+| Mercancías del grupo cuarto | 440,22 |
+| Mercancías del grupo quinto | 601,76 |
+| Mercancías del grupo sexto | 799,35 |
+| Mercancías del grupo séptimo | 1.004,35 |
+| Mercancías del grupo octavo | 2.405,25 |
+| B) Operaciones de tránsito vía terrestre: |  |
+| a) Mercancías con origen inicial nacional y destino final nacional: |  |
+| Mercancías del grupo primero | 34,77 |
+| Mercancías del grupo segundo | 50,14 |
+| Mercancías del grupo tercero | 76,74 |
+| Mercancías del grupo cuarto | 110,24 |
+| Mercancías del grupo quinto | 135,26 |
+| Mercancías del grupo sexto | 200,55 |
+| Mercancías del grupo séptimo | 252,07 |
+| Mercancías del grupo octavo | 601,76 |
+| b) Mercancías con origen inicial nacional y destino final extranjero: |  |
+| Mercancías del grupo primero | 82,36 |
+| Mercancías del grupo segundo | 124,02 |
+| Mercancías del grupo tercero | 190,80 |
+| Mercancías del grupo cuarto | 275,71 |
+| Mercancías del grupo quinto | 377,57 |
+| Mercancías del grupo sexto | 500,21 |
+| Mercancías del grupo séptimo | 626,27 |
+| Mercancías del grupo octavo | 1.502,76 |
+| c) Mercancías con origen inicial extranjero y destino final nacional: |  |
+| Mercancías del grupo primero | 143,42 |
+| Mercancías del grupo segundo | 199,17 |
+| Mercancías del grupo tercero | 303,58 |
+| Mercancías del grupo cuarto | 440,22 |
+| Mercancías del grupo quinto | 601,76 |
+| Mercancías del grupo sexto | 799,35 |
+| Mercancías del grupo séptimo | 1.004,35 |
+| Mercancías del grupo octavo | 2.405,25 |
+| d) Mercancías con origen inicial extranjero y destino final extranjero: |  |
+| Mercancías del grupo primero | 143,42 |
+| Mercancías del grupo segundo | 199,17 |
+| Mercancías del grupo tercero | 303,58 |
+| Mercancías del grupo cuarto | 440,22 |
+| Mercancías del grupo quinto | 601,76 |
+| Mercancías del grupo sexto | 799,35 |
+| Mercancías del grupo séptimo | 1.004,35 |
+| Mercancías del grupo octavo | 2.405,25 |
+| 3. Mercancías que transbordan en puertos del Principado: |  |
+| Teniendo en cuenta el repertorio de clasificación de mercancías vigentes, las tarifas se estructuran de la siguiente manera: |  |
+| a) Mercancías con origen inicial nacional y destino final nacional: |  |
+| Mercancías del grupo primero | 34,77 |
+| Mercancías del grupo segundo | 50,14 |
+| Mercancías del grupo tercero | 76,74 |
+| Mercancías del grupo cuarto | 110,24 |
+| Mercancías del grupo quinto | 150,52 |
+| Mercancías del grupo sexto | 200,55 |
+| Mercancías del grupo séptimo | 252,17 |
+| Mercancías del grupo octavo | 601,56 |
+| b) Mercancías con origen inicial nacional y destino final extranjero: |  |
+| Mercancías del grupo primero | 54,48 |
+| Mercancías del grupo segundo | 75,26 |
+| Mercancías del grupo tercero | 114,27 |
+| Mercancías del grupo cuarto | 165,78 |
+| Mercancías del grupo quinto | 227,16 |
+| Mercancías del grupo sexto | 300,72 |
+| Mercancías del grupo séptimo | 377,57 |
+| Mercancías del grupo octavo | 902,48 |
+| c) Mercancías con origen inicial extranjero y destino final nacional: |  |
+| Mercancías del grupo primero | 71,13 |
+| Mercancías del grupo segundo | 98,79 |
+| Mercancías del grupo tercero | 151,79 |
+| Mercancías del grupo cuarto | 221,65 |
+| Mercancías del grupo quinto | 300,72 |
+| Mercancías del grupo sexto | 399,73 |
+| Mercancías del grupo séptimo | 501,27 |
+| Mercancías del grupo octavo | 1.203,42 |
+| d) Mercancías con origen inicial extranjero y destino final extranjero: |  |
+| Mercancías del grupo primero | 107,27 |
+| Mercancías del grupo segundo | 149,04 |
+| Mercancías del grupo tercero | 228,32 |
+| Mercancías del grupo cuarto | 330,08 |
+| Mercancías del grupo quinto | 450,08 |
+| Mercancías del grupo sexto | 600,17 |
+| Mercancías del grupo séptimo | 753,55 |
+| Mercancías del grupo octavo | 1.804,76 |
+
+Las mercancías desembarcadas, en depósito flotante o pontón y que posteriormente se reembarquen a otro barco sin pasar por tierra o muelle, abonarán la misma tarifa señalada para el trasbordo.
+
+Tarifa G-4. Pesca fresca:
+
+Constituye la base imponible:
+
+a) Cuando la primera venta se lleve a cabo en las salas de venta pública, el valor alcanzado en la primera venta.
+
+b) En los demás casos, la base imponible se determinará por la autoridad portuaria, de conformidad con el valor medio obtenido por las mismas especies en las ventas realizadas en las salas de venta pública en el día o, en su defecto y sucesivamente, en la semana, mes o año anterior.
+
+Esto será de aplicación para la pesca fresca no vendida y directamente sometida por el armador a procesos de congelación, salazón, ahumado y otros.
+
+La cuantía de la tarifa se obtendrá aplicando un tipo impositivo del 2 por 100 sobre la base imponible.
+
+Tarifa G-5. Embarcaciones deportivas y de recreo:
+
+La base para la liquidación de la tarifa será la superficie en metros cuadrados resultante del producto de la eslora total de la embarcación por la manga máxima y el tiempo en días de estancia en fondeo o atraque.
+
+La tarifa se calculará, por cada metro cuadrado y por cada día natural o fracción, del modo siguiente:
+
+|  | Pesetas m<sup>2</sup>/día |
+|---|---|
+| 1. En instalaciones del organismo portuario: |  |
+| a) Embarcaciones fondeadas: |  |
+| Con muerto y tren de fondeo | 13,89 |
+| Sin muerto y tren de fondeo | 9,54 |
+| b) Embarcaciones atracadas: |  |
+| Con muerto y tren de fondeo | 17,07 |
+| Sin muerto y tren de fondeo | 15,69 |
+| 2. En instalaciones de concesionarios | 9,54 |
+| 3. Uso de pantalanes: |  |
+|  | Euros m<sup>2</sup>/día |
+| a) Puertos con suministro: |  |
+| Para barcos de eslora igual o superior a 6 m: | 0,13847 |
+| Para barcos de eslora inferior a 6 m: | 0,10294 |
+| Superficie mínima de facturación (metros cuadrados) | 10 |
+| b) Puertos sin suministro: |  |
+| Para barcos de eslora igual o superior a 6 m: | 0,116632 |
+| Para barcos de eslora inferior a 6 m: | 0,077755 |
+| Superficie mínima de facturación (metros cuadrados) | 10 |
+|  | Pesetas m<sup>2</sup>/día |
+| c) Para uso de ambos puertos de embarcaciones en trásito: |  |
+| Desde 1 de junio al 30 de septiembre . | 55,76 |
+| Mínimo de facturación por día | 1.113,74 |
+| Máximo de facturación por día | 5.012,10 |
+| Resto del año | 33,18 |
+| Mínimo de facturación por día | 663,56 |
+| Máximo de facturación por día | 2.985,91 |
+
+|  | Pesetas |
+|---|---|
+| Tarifa E-1. Grúas de pórtico de 6 toneladas métricas: |  |
+| Por cada 30 minutos o fracción de utilización . | 9.718,30 |
+
+| Tarifa E-2. Almacenes, locales y edificios: |  |
+|---|---|
+| Las bases para la liquidación de la tarifa serán las superficies ocupadas y el tiempo de utilización. |  |
+|  | Pesetas m<sup>2</sup>/día |
+| 1. Zona de tránsito y superficie descubierta: |  |
+| De uno a tres días | 0 ,00 |
+| De cuatro a diez días | 0,1043435 euros/m2/día |
+| De once a diecisiete días | 16,71 |
+| De dieciocho días en adelante | 33,42 |
+| 2. Zona de almacenamiento: |  |
+| Descubierta-ocupación continuada (desguaces y empresas) | 0,0856833 euros/m2/día |
+| Cubierta-almacenes de pescadores | 9,17 |
+
+| Tarifa E-3. Suministros: |  |
+|---|---|
+|  | Pesetas/m<sup>3</sup> |
+| Agua para uso doméstico | 37,10 |
+| Agua para uso industrial | 74,20 |
+|  | Pesetas KW/h |
+| Energía eléctrica uso doméstico (kW/h) | 24,91 |
+| Energía eléctrica uso industrial (kW/h) | 33,92 |
+
+| Tarifa E-4. Servicios diversos: |  |
+|---|---|
+| 1. Básculas (por pesada) | 425,41 |
+| 2. Rampas de varada: |  |
+|  | Pesetas m<sup>2</sup>/día |
+| Menos de ocho días | 0,00 |
+| De ocho a dieciocho días | 16,71 |
+| De dieciocho en adelante | 33,42 |
+| 3. Sobordas: |  |
+| Embarcaciones menores de 3 toneladas métricas | fuera de servicio |
+| Embarcaciones de 3 TRB o superiores | fuera de servicio |
+| 4. Cabestrantes: |  |
+|  | Pesetas |
+| Por cada treinta minutos o fracción | 886,49 |
+| 5. Boyas: |  |
+| Por cada embarcación por mes o fracción . | 523,41 |
+|  | Pesetas m<sup>2</sup>/día |
+| Aparcamientos: |  |
+| Turismos por día o fracción | 63,68 |
+| Otros vehículos | 127,37 |
+
+| Tarifa E-5. Servicios eventuales: |  |
+|---|---|
+|  | Pesetas m<sup>2</sup>/día |
+| Instalaciones hoteleras y de alimentación: |  |
+| Bares en zona de servicio del puerto | 113 |
+| Bares fuera de la zona de servicio del puerto y terrazas | 24 |
+| Otras instalaciones hosteleras, como helados, churrerías, productos secos, etc. y de alimentación como festival de conservas, marañuelas, etc. | 65 |
+| Instalaciones recreativas y otras, como carruseles, autos de choque, máquinas de recreo, espectáculos, carpas, etc. | 17 |
+| Canon de ocupación y aprovechamiento del dominio público portuario. |  |
+| Para la determinación de la cuantía del canon se tendrán en cuenta las siguientes prescripciones: |  |
+| Uno. Ocupación del dominio público portuario. |  |
+| 1. Ocupación de terrenos. |  |
+| La base imponible para la fijación del canon será el valor imputable al suelo ocupado y al costo de las instalaciones, que se determinará de la siguiente forma: |  |
+|  | Pesetas m<sup>2</sup>/año |
+| a) Valor del bien ocupado |  |
+| Terrenos portuarios en zona pesquera y de servicio | 450 |
+| Terrenos portuarios en zona de pesca | 592 |
+| Terrenos portuarios en zona de servicio | 474 |
+| b) Instalaciones. |  |
+| El tipo de gravamen será del 5 por 100 del costo de las instalaciones. |  |
+| 2. Ocupación de edificios, obras e instalaciones. |  |
+| a) Base de liquidación: estará constituida por el valor de los bienes ocupados, que será el actual de mercado de tales bienes en el momento del otorgamiento de la concesión, teniendo en cuenta el uso previsto y el plazo de otorgamiento. |  |
+| b) Cuantía del canon: será del 5 por 100 anual de la base de liquidación determinada con arreglo a lo establecido en la letra anterior. |  |
+| La cuantía del canon se revisará en los plazos que se establezcan en los correspondientes títulos concesionales en la medida que aumente o disminuya la base de liquidación. |  |
+| Dos. Aprovechamiento del dominio público portuario. |  |
+| La cuantía del canon se determinará de acuerdo con los siguientes elementos: |  |
+| a) Base de liquidación: estará constituida por el valor de los materiales aprovechados a precios de mercado. |  |
+| b) Cuantía del canon: será el 100 por 100 del citado valor. |  |
+
+Si para la prestación, por parte de los órganos portuarios, de algunos de los servicios enumerados en las anteriores tarifas fuese necesaria la realización de obras o trabajos individualizados, se exigirá al usuario, además del importe de la tarifa, el coste de las obras o trabajos realizados.
+
+> Se modifican la tarifas G-5 3.a) y b) y la E-2 por el art. 13.21 a 23 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifica la tarifa E-5 por el art. 5.8 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+> Se modifica la tarifa E-5, apartado 2 por el art. 8.7 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 104. Exenciones.
+
+1\. Quedan exentos del pago de las tarifas generales:
+
+a) Los barcos de guerra y aeronaves militares nacionales. Igualmente los extranjeros que, en régimen de reciprocidad, no realicen operaciones comerciales y su visita tenga carácter oficial.
+
+Las exenciones alcanzarán a los servicios gravados por la tarifa G-3 solamente cuando se trate de tránsito de tropas y efectos con destino a dichos barcos y aeronaves, o de tropas y efectos militares nacionales, cualquiera que sea el barco que los transporte.
+
+b) Las embarcaciones de la Administración dedicadas a labores de vigilancia, represión de contrabando y salvamento, lucha contra la contaminación marítima y, en general, el material de la Administración Pública en misiones oficiales de su competencia.
+
+2\. Están exentos del pago de las tarifas G-1, G-2 y G-3 los barcos que abonen la tarifa G-4 y que cumplan las condiciones que en las reglas de aplicación de dicha tarifa se especifican.
+
+3\. Los barcos que están en varadero o dique y abonen la tarifa correspondiente a estos servicios, no abonarán la tarifa G-1 durante el tiempo que permanezcan en la indicada situación.
+
+4\. Las mercancías y combustibles embarcados para el avituallamiento del propio barco directamente desde tierra, estarán exentas del abono de la tarifa G-3, siembre que el combustible haya pagado la tarifa correspondiente de entrada en puerto.
+
+5\. Las descargas de pesca fresca que no supongan cantidades superiores a 10 kilogramos/día por barco y se destinen al consumo propio estarán exentas del pago de la tarifa G-4.
+
+6\. Se podrá eximir del pago de la tarifa G-5, exceptuando el uso de pantalanes, que devengará la tarifa correspondiente, a los jubilados de la mar que acrediten dicha condición a través de la certificación expedida por el Instituto Social de la Marina.
+
+7\. La embarcación deportiva y de recreo que se encuentre en seco en zona portuaria en régimen de guardería sin ser botada no abonará la tarifa G-5, pero sí la E-2 que pueda corresponderle.
+
+8\. Las Corporaciones locales estarán exentas del pago del canon exigible por la ocupación del dominio público portuario, siempre que las concesiones o autorizaciones que se les otorguen no sean objeto de explotación lucrativa, directamente o por terceros.
+
+> Se añade el apartado 8 por el art. 5.9 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 105. Bonificaciones y recargos.
+
+1\. Las tarifas que se señalan a continuación estarán bonificadas en las cantidades y por los conceptos que se indican, debiendo ser solicitadas en todo caso:
+
+Tarifa G-1:
+
+a) A los barcos que efectúen más de doce entradas en aguas del puerto durante el año natural, se les aplicarán las siguientes tarifas:
+
+En las entradas 13.<sup>a</sup> y 24.<sup>a</sup>: El 85 por 100 de la tarifa correspondiente.
+
+En las entradas 25.<sup>a</sup> y 40.<sup>a</sup>: El 70 por 100 de la tarifa correspondiente.
+
+En las entradas 41.<sup>a</sup> y siguientes: El 50 por 100 de la tarifa correspondiente.
+
+b) En las líneas de navegación con calificación de regulares acreditadas a 1 de enero de cada año, las tarifas a aplicar serán:
+
+En las entradas 13.<sup>a</sup> y 24.<sup>a</sup>: El 90 por 100 de la tarifa correspondiente.
+
+En las entradas 25.<sup>a</sup> y 50.<sup>a</sup>: El 80 por 100 de la tarifa correspondiente.
+
+A partir de la entrada 51.<sup>a</sup>: El 70 por 100 de la tarifa correspondiente.
+
+c) A los barcos de pasajeros que realicen cruceros turísticos se les bonificará la tarifa en un 30 por 100.
+
+d) La tarifa diaria a aplicar a los barcos inactivos será la mitad de la que corresponda de aplicar las reglas de la tarifa G-1.
+
+Tarifa G-2:
+
+a) A los barcos que efectúen más de doce atraques en los muelles del puerto, en entradas distintas año natural, se les aplicarán las siguientes tarifas:
+
+En los atraques 13.º y 24.º: El 90 por 100 de la tarifa correspondiente.
+
+En los atraques 25.º y 50.º: El 80 por 100 de la tarifa correspondiente.
+
+A partir del atraque 51.º: El 70 por 100 de la tarifa correspondiente.
+
+c) Los barcos abarloados a otro y atracados de costado al muelle o a otros barcos abarloados tendrán una bonificación del 50 por 100 en la tarifa. Si la eslora fuera superior al barco atracado en el muelle o a los demás barcos abarloados, pagará el exceso de eslora de acuerdo con la tarifa y sin bonificación.
+
+d) Los barcos atracados de punta en los muelles, abonarán la tarifa bonificada en un 50 por 100.
+
+e) La aplicación de bonificaciones en la tarifa G-2 serán incompatibles con la aplicación de bonificaciones en la tarifa G-1.
+
+Tarifa G-3:
+
+a) A los pasajeros que viajen en régimen de crucero turístico, se les aplicarán las tarifas bonificadas en un 30 por 100.
+
+b) La tarifa a aplicar al agua para abastecimiento de poblaciones, en régimen de cabotaje, tendrán una bonificación del 80 por 100.
+
+c) Se pueden establecer conciertos para el cobro de la tarifa correspondiente a pasajeros en régimen de tráfico de bahía o local por períodos anuales, no pudiendo ser el importe inferior al 60 por 100 del que corresponda de aplicar las normas de la tarifa.
+
+Tarifa G-4:
+
+a) Cualquier producto de la pesca fresca sometido a bordo a un principio de preparación industrial, tendrá una reducción en la tarifa del 50 por 100.
+
+b) La pesca fresca transbordada de buque a buque en las aguas del puerto, sin pasar por los muelles, reducirá la tarifa en un 25 por 100.
+
+c) Los productos de la pesca fresca que sean autorizados por el organismo portuario a entrar, por medios terrestres, en la zona portuaria para su subasta o utilización de las instalaciones, abonarán un 50 por 100 de la tarifa.
+
+d) Los productos frescos de la pesca descargada y que no hayan sido vendidos y vuelvan a ser cargados, abonarán el 25 por 100 de la tarifa.
+
+Tarifa G-5:
+
+a) La Administración podrá establecer convenios con corporaciones locales y entidades náutico-deportivas. En dichos convenios no se podrán recoger bonificaciones de tarifas superiores al 20 por 100.
+
+b) En las embarcaciones que fondeen o atraquen en muelles con calados inferiores a dos metros y superiores a uno, se aplicará una reducción del 25 por 100. Cuando el calado sea igual o inferior a un metro, la reducción será del 50 por 100 siempre que:
+
+La eslora de la embarcación sea inferior a seis metros.
+
+La potencia del motor sea inferior a 25 HP.
+
+El abono de la tarifa se realice por semestres adelantados.
+
+En los supuestos de utilización del servicio de atraque en pantalán sin autorización previa se establecerá un recargo en la tarifa equivalente al quíntuplo del importe de la tarifa ordinaria que le corresponda a partir de la utilización del servicio, sin perjuicio de las sanciones que, en su caso, puedan corresponder.
+
+Tarifa E-1:
+
+Los organismos portuarios podrán establecer convenios para la utilización de grúas. En éstos no se podrán recoger bonificaciones superiores al 25 por 100 de la tarifa.
+
+2\. En los supuestos de no atención a las órdenes dadas por las autoridades portuarias en relación con un servicio, ocultación o falseamiento de datos necesarios para la liquidación de las tarifas, utilización de bienes o servicios sin solicitud o prestación de servicios fuera de la jornada ordinaria, se podrá duplicar la cuantía de la tarifa exigible de no mediar las circunstancias anteriores, sin perjuicio de las sanciones que, en su caso, puedan corresponder.
+
+3\. En las concesiones otorgadas a entidades náutico-deportivas para el desarrollo de sus actividades de carácter no lucrativo, el importe del canon de ocupación podrá bonificarse hasta en un 75 por 100. Para la obtención de dicha reducción la entidad náutico-deportiva deberá tener actualizada su situación en el Registro de Entidades Deportivas del Principado de Asturias y ejercer exclusivamente la actividad náutico-deportiva, requisitos que acreditará su Presidente mediante la aportación de la correspondiente certificación.
+
+> Se añade un párrafo final al apartado 1, tarifa G-5 por el art. 11.7 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+> Se modifican los apartados 1, tarifa G-5 y 2 por el art. 6.3 y 4 de la Ley 14/2001, de 28 de diciembre. [Ref. BOE-A-2002-2836](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2836).
+
+> Se añade el apartado 3 por el art. 5.10 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+#### Sección 4.ª Tasa por ordenación de los transportes mecánicos por carretera, informes y otras actuaciones facultativas
+
+##### Artículo 106. Hecho imponible.
+
+Constituye el hecho imponible la prestación de los servicios o la realización de las actividades enumeradas en la tarifa de esta tasa.
+
+##### Artículo 107. Sujeto pasivo.
+
+Serán sujetos pasivos las personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta Ley, a las que se presten los servicios o para las que se realicen las actividades objeto de esta tasa.
+
+##### Artículo 108. Devengo.
+
+La tasa se devengará en el momento de solicitar el servicio.
+
+##### Artículo 109. Tarifas.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+|  | Pesetas |
+|---|---|
+| Tarifa 1. Otorgamiento, rehabilitación, visado o modificación de las autorizaciones de transportes por carretera y actividades auxiliares y complementarias del transporte y expedición de copias certificadas de las mismas | 2.254 |
+| Tarifa 2. Autorización de transportes especiales cuando se realicen exclusivamente por carreteras del Principado de Asturias: |  |
+| Por cada viaje | 867 |
+| Tarifa 3. Autorización para el transporte de personal en caja vehículo: |  |
+| Por vehículo | 2.167 |
+| Tarifa 4. Otorgamiento o renovación de autorizaciones de transporte público regular de viajeros de uso especial: |  |
+| Por cada autorización con vigencia anual | 4.506 |
+| Tarifa 5. Inauguración de servicio regular de transporte que discurra en su totalidad por el Principado de Asturias: |  |
+| Por cada concesión | 12.060 |
+| Tarifa 6. Unificación de concesiones | 12.060 |
+| Tarifa 7. Aprobación de cuadro de horarios y cuadro de tarifas que requieran informe facultativo: |  |
+| Por cada uno | 2.254 |
+| Tarifa 8. Reconocimiento de locales para otorgamiento de autorizaciones: |  |
+| 8.1 Reconocimiento de locales: | 99,486227 € |
+| 8.2 Homologación de Centro para formación del CAP: | 298,458681 € |
+| 8.3 Visado de Centro para Formación del CAP: | 99,486227 € |
+| 8.4 Homologación de Curso de formación del CAP: | 99,486227 € |
+| Tarifa 9. Expedición de certificados a petición de parte | 867 |
+| Tarifa 10. Expedición de copias compulsadas a petición de parte: |  |
+| Por cada una | 399 |
+| Tarifa 11. Asistencia a exámenes de transportes: |  |
+| 11.1 Capacitación mercancías: | 24,05 € |
+| 11.2 Capacitación viajeros: | 24,05 € |
+| 11.3 Por cada una de las modalidades de consejero de seguridad de mercancías peligrosas: | 24,05 € |
+| 11.4 Por cada examen del CAP: | 24,05 € |
+| Tarifa 12. Por primera inscripción o anotación en el Registro de Empresas de Radiodifusión | **(Suprimida)** |
+| Tarifa 13. Por expedición de certificados de capacitación: |  |
+| Por cada uno | 3.034 |
+| Tarifa 14. Arrendamientos de vehículos: | **(Suprimida)** |
+| Por cada uno |  |
+| Tarifa 15. Informe escrito en relación con los datos que figuren en el Registro General de Transportistas y de Empresas de actividades auxiliares y complementarias del transporte: |  |
+| En cuanto a datos referidos a persona, autorización, vehículo o empresa |  |
+| Por cada uno | 4.269 |
+| En cuanto a datos de carácter general o global |  |
+| Por cada uno | 27.083 |
+| Tarifa 16. Legalización, diligencia o sellado de libros y otros documentos | 867 |
+| Tarifa 17. Adjudicación, renovación o transferencia de la titularidad de concesiones de emisoras de radiodifusión sonora en frecuencia modulada | **(Suprimida)** |
+| Por cada watio de potencia asignado a la frecuencia conforme al Plan Técnico Nacional de Radiodifusión sonora |  |
+| Están exentas del pago de esta tarifa las emisoras culturales y municipales. |  |
+| Tarifa 18. Por cada autorización de modificación en la titularidad del capital, o ampliación de éste, de empresas titulares de concesiones de emisoras de FM | **(Suprimida)** |
+| Tarifa 19. Por cada certificación de los datos que figuran en el Registro de empresas de radiodifusión | **(Suprimida)** |
+| Tarifa 20. Expedición de tarjeta de tacógrafo digital | 29 € |
+
+> Se suprimen las tarifas 12 y 17 a 19 por el art. 38.2 de la Ley 8/2019, de 30 de diciembre. [Ref. BOE-A-2020-1203](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1203)
+
+> Se modifican las tarifas 8 y 11 por el art. 13.24 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+> Se modifica la tarifa 8, se suprime la tarifa 14 y se añade la tarifa 20 por el art. 20 de la Ley 6/2003, de 30 de diciembre. [Ref. BOE-A-2004-2367](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2367).
+
+> Se modifican las tarifas 1, 4, 7, 10, 11, 15, 16 y se añade las tarifas 17 a 19 por el art. 8.8 y 9 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+#### Sección 5.ª Tasa por prestación de servicios de información cartográfica
+
+> Se añade por el art. 8.10 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 109 bis. Hecho imponible.
+
+Constituye el hecho imponible la prestación de los servicios o la realización de las actividades enumeradas en la tarifa de esta tasa.
+
+> Se añade por el art. 8.10 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 109 tercero. Sujeto pasivo.
+
+Estarán obligados al pago de la tasa las personas físicas o jurídicas y entidades a que se refiere el artículo 5.2 de esta Ley que soliciten la información cartográfica.
+
+> Se añade por el art. 8.10 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 109 cuarto. Devengo.
+
+La tasa se devengará en el momento de solicitar el servicio por el sujeto pasivo.
+
+> Se añade por el art. 8.10 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 109 quinto. Tarifas.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+Tarifa 1. Expedición de fotografías aéreas en cartulina (24 × 24 cm):
+
+Vuelo de 1970 a escala 1:20.000, B/N (Toda Asturias).
+
+Vuelo de 1981 a escala 1:8.000, B/N (Núcleos de población de 36 municipios).
+
+Vuelo de 1983 a escala 1:8.000, B/N (Núcleos de población de 6 municipios).
+
+Vuelo de 1985 a escala 1:8.000, B/N (Núcleos de población de 16 municipios).
+
+Vuelo de 1983 a escala 1:8.000, B/N (Franja costera Asturias-Playas).
+
+Vuelo de 1992 a escala 1:10.000, Color (Franja costera completa).
+
+Vuelo de 1994/96 a escala 1:18.000, B/N (Toda Asturias).
+
+|  | Total 1.ª unidad | Coste siguientes unidades 1 soporte |
+|---|---|---|
+| Copia escaneada cartulina de 200 gramos (B/N o color) | 3,50 € | 3,20 € |
+
+Tarifa 2. Expedición de las series cartográficas 1:5.000 y 1:10.000, de las series de los mapas de vegetación, de litología, de roquedos, de hábitat del oso, de series de los mapas de suelos y de los mapas geomorfológicos (procesos activos y unidades superficiales) en soportes digitales:
+
+|  | Total 1.ª unidad | Coste siguientes unidades 1 soporte |
+|---|---|---|
+| Hojas del Mapa topográfico de Asturias a escala 1:5.000 (Formatos DGN y PDF) | 5,00 € | 2,50 € |
+| Hojas del Mapa topográfico de Asturias a escala 1:10.000 (Formatos DGN y PDF) | 5,30 € | 2,80 € |
+| Hojas del Mapa de suelos del Principado de Asturias a escala 1:25.000 –mapa y memoria– (Formato vectorial) | 5,50 € | 3,00 € |
+| Hojas del Mapa de suelos del Principado de Asturias a escala 1:25.000 (Inform. complementaria) | 4,00 € | 1,00 € |
+| Hojas del Mapa geomorfológico (Procesos activos y unidades superficiales) del Principado de Asturias a escala 1:25.000 –mapa y memoria– (formato vectorial) | 5,50 € | 3,00 € |
+| Hojas del Mapa de vegetación, litología, roquedos, hábitat del oso –mapa y memoria– del Principado de Asturias a escala 1:25.000 (Formatos Arc-Info y PDF) | 6,50 € | 4,00 € |
+| Juego completo de cada serie del Mapa topográfico a escala 1:5.000 y 1:10.000 (Toda Asturias. Formato DGN) | 12,00 € | – |
+
+Tarifa 3. Expedición del Mapa de Asturias a escala 1:100.000 en soportes digitales:
+
+|  | Total unidad |
+|---|---|
+| Mapa de Asturias a escala 1:100.000 (Formato PDF) | 3,10 € |
+
+Tarifa 4. Expedición de fotografías aéreas en soportes digitales:
+
+|  | Total 1.ª unidad | Coste siguientes unidades 1 soporte |
+|---|---|---|
+| Vuelo de 2001/2002 a escala 1:5.000 (Franja costera. Formato JPG) | 3,30 € | 0,80 € |
+| Vuelo de 2003 a escala 1:15.000 (Toda Asturias. Formato JPG) | 3,30 € | 0,80 € |
+
+Tarifa 5. Expedición de ortofotografías a escala 1:5.000 en soportes digitales:
+
+|  | Total 1.ª unidad | Coste siguientes unidades 1 soporte |
+|---|---|---|
+| Ortofoto de 2004 a escala 1:5.000 (Vuelo del año 2003-Formato ECW) | 4,50 € | 2,00 € |
+| Juego completo toda Asturias (Formato ECW) | 12,00 € | – |
+
+Tarifa 6. Expedición de ortofotografías a escala 1:25.000 en soportes digitales:
+
+|  | Total unidad |
+|---|---|
+| Ortofoto de 1996 a escala 1:25.000 (Toda Asturias con visualizador-Formato MrSID). | 4,00 € |
+
+Tarifa 7. Expedición del modelo digital de elevaciones en soportes digitales:
+
+|  | Total unidad |
+|---|---|
+| Modelo digital de elevaciones de 5 x 5, USO 29 y 30 (Toda Asturias-Formato GRID ARC/INFO | 4,00 € |
+
+Tarifa 8. Expedición de la zonificación de suelo no urbanizable del Principado de Asturias en soportes digitales:
+
+|  | Total 1.ª unidad | Coste siguientes unidades 1 soporte |
+|---|---|---|
+| Hoja de zonificación de suelo no urbanizable a escala 1:25.000 (Varios formatos vectoriales) | 3,50 € | 1,00 € |
+| Zonificación de suelo no urbanizable toda Asturias por concejos (Formato PDF) | 2,50 € | – |
+
+Tarifa 9. Expedición de copias de documentación en soportes papel y digital:
+
+|  | Total 1.ª unidad | Coste siguientes unidades 1 soporte |
+|---|---|---|
+| Documentación en soporte digital | 2,60 € | 0,10 € |
+| Documentación en soporte papel | 1,00 € | 0,05 € |
+
+Tarifa 10. Expedición de copias en soporte digital de otras informaciones cartográficas:
+
+|  | Total 1.ª unidad | Coste siguientes unidades 1 soporte |
+|---|---|---|
+| Grabación en soporte digital CD | 3,10 € | 0,60 € |
+| Grabación en soporte digital DVD | 3,60 € | 0,60 € |
+
+> Se modifica por el art. 10.2 de la Ley 11/2006, de 27 de diciembre. [Ref. BOE-A-2007-5591](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-5591).
+
+> Se añade por el art. 8.10 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 109 sexto. Exenciones y bonificaciones.
+
+1\. La Administración del Principado de Asturias y sus organismos autónomos quedan exentos del pago de la tasa. Asimismo, quedan exentas del pago de la tasa las entidades locales del Principado de Asturias cuando precisen los servicios para su utilización en actividades que se realicen en colaboración con la Administración del Principado de Asturias, así como aquellas que exijan presentación de documentación ante esta Administración para informe preceptivo o aprobación.
+
+2\. Gozarán de una reducción de un 50 por ciento de la tasa:
+
+Las administraciones públicas y sus organismos autónomos.
+
+Las universidades, profesores y estudiantes que se encuentren desarrollando trabajos de investigación, proyectos de fin de carrera y de doctorado referidos exclusivamente al ámbito geográfico de la documentación cartográfica de que se trate; tales circunstancias deberán ser acreditadas por el director de los trabajos.
+
+> Se modifica por el art. 10.3 de la Ley 11/2006, de 27 de diciembre. [Ref. BOE-A-2007-5591](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-5591).
+
+> Se añade por el art. 6.5 de la Ley 14/2001, de 28 de diciembre. [Ref. BOE-A-2002-2836](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2836).
+
+### CAPÍTULO VII — Agricultura, caza y pesca
+
+#### Sección 1.ª Tasa por servicios administrativos en el ámbito de la ganadería.
+
+> Se modifica por el art. 11.8 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+> Se modifica por el art. 5.11 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 110. Hecho imponible.
+
+Constituye el hecho imponible la prestación de los servicios y realización de trabajos en defensa de la conservación y mejora de la ganadería, tanto si son prestados o realizados de oficio como si lo son a instancia del interesado.
+
+##### Artículo 111. Sujeto pasivo.
+
+Estarán obligados al pago de la tasa las personas físicas o jurídicas y entidades a que se refiere el artículo 5.2 de esta Ley, a las que se presten los servicios recogidos en las tarifas de la misma.
+
+##### Artículo 112. Devengo.
+
+La tasa se devengará en el momento de solicitarse el servicio o, en su caso, en el momento de la prestación si se realiza de oficio por la Administración.
+
+##### Artículo 113. Tarifas.
+
+La tasa se exigirá conforme a las siguientes tarifas:
+
+Tarifa 1. Libros de registro oficiales.
+
+1.1 Expedición y diligenciado de libros de llevanza obligatoria y talonarios que no tengan tarifa específica: 7 €.
+
+Tarifa 2. Autorización e inscripción en registros oficiales: 2. Registro de Explotaciones Ganaderas:
+
+2.1.1 Primera inscripción: 20 €.
+
+2.1.2 Modificaciones en la inscripción inicial (se exceptúan las originadas por fallecimiento del titular): 10 €.
+
+2.2 Registro de establecimientos detallistas de medicamentos veterinarios:
+
+2.2.1 Primera inscripción: 60 €.
+
+2.2.2 Modificaciones en la inscripción inicial: 30 €.
+
+2.3 Registro de establecimientos intermediarios en el sector de alimentación animal:
+
+2.3.1 Primera inscripción: 60 €.
+
+2.3.2 Modificaciones en la inscripción inicial: 30 €.
+
+2.4 Registro de establecimientos fabricantes en el sector de alimentación animal:
+
+2.4.1 Primera inscripción: 120 €.
+
+2.4.2 Modificaciones en la inscripción inicial: 60 €.
+
+2.5 Registro de núcleos zoológicos y centros para el fomento y cuidado de animales de compañía:
+
+2.5.1 Primera inscripción: 20 €.
+
+2.5.2 Modificaciones en la inscripción inicial: 10 €.
+
+2.6 Registro de transportistas de ganado:
+
+2.6.1 Primera inscripción: 40 €.
+
+2.6.2 Modificaciones en la inscripción inicial: 30 €.
+
+2.7 Registro de operadores comerciales de ganado:
+
+2.7.1 Primera inscripción: 40 €.
+
+2.7.2 Modificaciones en la inscripción inicial: 30 €.
+
+2.8 Registro de industrias de transformación de subproductos animales:
+
+2.8.1 Primera inscripción: 200 €.
+
+2.8.2 Modificaciones en la inscripción inicial: 100 €.
+
+2.9 Registro de almacenes intermediarios de subproductos animales:
+
+2.9.1 Primera inscripción: 100 €.
+
+2.9.2 Modificaciones en la inscripción inicial: 50 €.
+
+2.10 Registro de transportistas y medios de transporte de subproductos animales:
+
+2.10.1 Primera inscripción: 40 €.
+
+2.10.2 Modificaciones en la inscripción inicial: 30 €.
+
+2.11 Registro de centros de limpieza y desinfección de vehículos de transporte de ganado:
+
+2.11.1 Primera inscripción: 30 €.
+
+2.11.2 Modificaciones en la inscripción inicial: 15 €.
+
+2.12 Inscripción en registros oficiales que no tengan tarifa específica:
+
+2.12.1 Primera inscripción: 30 €.
+
+2.12.2 Modificaciones en la inscripción inicial: 15 €.
+
+Tarifa 3. Certificados y acreditaciones oficiales:
+
+3.1 Expedición de certificados zoosanitarios, incluidos los relacionados con movimientos de animales vivos y productos de origen animal (mínimo 1,86 €.):
+
+Équidos, bovinos adultos y similares:
+
+3.1.1 Por animal: 1,105623 €.
+
+3.1.2 Máximo por lote o vehículo: 32,52 €.
+
+Ovino, caprino, porcino, terneros y otros similares:
+
+3.1.3 Por animal: 0,520293 €.
+
+3.1.4 Máximo por lote o vehículo: 81,3 €.
+
+Lechones:
+
+3.1.5 Por animal: 0,227628 €.
+
+3.1.6 Máximo por lote o vehículo: 19,51 €.
+
+Conejos y similares, gallinas y otras aves:
+
+3.1.7 Por animal: 0,013008 €.
+
+3.1.8 Máximo por lote o vehículo: 13,01 €.
+
+Broilers y pollos de un día:
+
+3.1.9 Por animal: 0,006503 €.
+
+3.1.10 Máximo por lote o vehículo: 13,01 €.
+
+Animales de peletería:
+
+3.1.11 Por animal: 0,97555 €.
+
+3.1.12 Máximo por lote o vehículo: 11,7 €.
+
+Colmenas:
+
+3.1.13 Por unidad: 0,325182 €.
+
+3.1.14 Máximo por lote o vehículo: 11,7 €.
+
+Peces vivos, gametos y moluscos para reapareamiento o depuración:
+
+3.1.15 Por tonelada o fracción: 1,625915 €.
+
+3.1.16 Máximo por lote o vehículo: 21,14 €.
+
+Productos de origen animal, incluidos los destinados a alimentación animal:
+
+3.1.17 Por tonelada: 1,983616 €.
+
+3.1.18 Máximo por lote o vehículo: 23,41 €.
+
+Documentos de traslado a matadero:
+
+3.1.19 Documento de traslado de ganado.
+
+Por documento: 0,15 euros.
+
+3.1.20 **(Suprimida)**
+
+3.2 Expedición de duplicados de documentos oficiales:
+
+3.2.1 Expedición de duplicados de acreditaciones sanitarias ganaderas: 2 €.
+
+3.2.2 Expedición de duplicados de Documentos de Identificación de Bovinos (DIB): 1,5 €.
+
+3.3 Otras certificaciones:
+
+3.3.1 Expedición de certificaciones que no tengan tarifa específica: 4 €.
+
+Tarifa 4. Comprobación sanitaria cuando la prestación deba realizarse por incumplimiento de la normativa que la regula o para movimiento pecuario fuera del periodo de revisión obligatoria, o la derivada de la pérdida de la identificación total de los animales:
+
+4.1 Por explotación: 26,02 €.
+
+4.2 Además, por cada animal:
+
+4.2.1 Équidos, bóvidos y similares (por cabeza): 3,25 €.
+
+4.2.2 Porcino, ovino, caprino y similares (por cabeza): 0,98 €.
+
+4.2.3 Aves, conejos, visones y similares (por cabeza): 0,2 €.
+
+4.2.4 Máximo: 65,03 €.
+
+4.2.5 Colmenas, por unidad: 0,42 €.
+
+4.2.6 Máximo: 65,03 €.
+
+Tarifa 5. Prestación de servicios facultativos relacionados con los análisis, dictámenes, peritajes, etc. a petición de parte. Se excluyen los correspondientes a los programas oficiales de erradicación de enfermedades. Los programas sanitarios oficialmente aprobados de las agrupaciones de defensa sanitaria (ADS) devengarán el 25 por 100:
+
+5.1 Análisis físico-químicos o bromatológicos:
+
+5.1.1 Por determinación: 5 €.
+
+5.1.2 Máximo para varias determinaciones en una única muestra: 20 €.
+
+5.2 Análisis microbiológicos y serológicos:
+
+5.2.1 Análisis bacteriológico (por muestra): 7 €.
+
+5.2.2 Determinación de antibiogramas (por muestra): 6 €.
+
+5.2.3 Análisis parasitológico, incluido Neospora (por muestra): 5 €.
+
+5.2.4 Análisis serológicos (por muestra): 2 €.
+
+5.2.5 Análisis histopatológicos (por muestra): 6 €.
+
+5.2.6 Análisis virológico, incluido BVD-PI (por muestra): 5 €.
+
+5.2.7 Otros análisis que no tengan tarifa específica: 5 €.
+
+5.3 Necropsias:
+
+5.3.1 Vacuno, equino y similares (por animal adulto): 20 €.
+
+5.3.2 Porcino, ovino, caprino, perros y similares: 12 €.
+
+5.3.3 Aves, conejos o similares: 6 €.
+
+Tarifa 6. Supervisión, control de documentos y talonarios de autorizaciones sanitarias oficiales para traslado de animales realizadas por veterinarios autorizados:
+
+6.1 Por documento: 0,975549 €.
+
+6.2 Por talonario: 30 €.
+
+> Se modifica la tarifa 3.1.19 y se suprime la 3.1.20 por el art. 10.4 y 5 de la Ley 11/2006, de 27 de diciembre. [Ref. BOE-A-2007-5591](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-5591).
+
+> Se modifica por el art. 11.9 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+> Se modifica la tarifa 12 por el art. 19.8 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+> Se suprime la tarifa 6 del apartado 1 y se modifican las tarifas 9 y 10 del apartado 2 por el art. 6.6 a 8 de la Ley 14/2001, de 28 de diciembre. [Ref. BOE-A-2002-2836](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2836).
+
+> Se modifica por el art. 5.12 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+> Se modifica la tarifa 6.a) y se añade la tarifa 16 por el art. 8.11 y 12 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 114. Exenciones.
+
+Estarán exentas del pago de la tasa las personas naturales o jurídicas a quienes se les prestan los mencionados servicios con ocasión de campañas de saneamiento promovidas por la Consejería competente en la materia.
+
+#### Sección 2.ª Tasas por servicios administrativos en el ámbito de las industrias agroalimentarias y forestales
+
+> Se modifica por el art. 8.9 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+##### Artículo 115. Hecho imponible.
+
+Constituye el hecho imponible la realización por parte de la Administración de oficio o a instancia de parte de los servicios, trabajos y estudios enumerados a continuación, tendentes a ordenar y defender las industrias agrícolas, forestales, pecuarias y alimentarias del Principado de Asturias.
+
+a) Por instalación de nuevas industrias, traslado o ampliación y sustitución de maquinaria.
+
+b) Por cambio de titularidad o denominación social de las industrias.
+
+c) Por autorización de funcionamiento.
+
+d) Por expedición de certificado relacionados con las industrias agrícolas, forestales, pecuarias y alimentarias.
+
+e) Por inspección, comprobación y control de las industrias agrícolas, forestales, pecuarias y alimentarias cuando den origen a expediente de modificación.
+
+##### Artículo 116. Sujetos pasivos.
+
+Serán sujetos pasivos todas las personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta Ley, que soliciten los servicios o a las que se les realicen de oficio los trabajos o estudios señalados en el artículo anterior.
+
+##### Artículo 117. Devengo.
+
+El devengo se producirá, en los apartados a), b), c) y d) del artículo 115, en el momento en que el sujeto pasivo presente su solicitud, y cuando la Consejería competente en la materia realice la visita de inspección, en el apartado e) de dicho artículo.
+
+##### Artículo 118. Tarifas.
+
+La tasa se exigirá conforme a las siguientes tarifas:
+
+Tarifa 1.–Instalaciones o ampliaciones de industrias Importe de la instalación o ampliación:
+
+Hasta 30.000 €: 78 €.
+
+De 30.000 € a 100.000 €, : 89 €.
+
+Por cada 60.000 € adicionales o fracción: 10 €.
+
+Tarifa 2.–Traslado de industrias. Valor de la instalación:
+
+Hasta 30.000 € : 47 €.
+
+De 30.000 € a 100.000 € : 57 €.
+
+Por cada 60.000 € adicionales o fracción: 10 €.
+
+Tarifa 3.–Sustitución de maquinaria. Valor de la maquinaria:
+
+Hasta 30.000 € : 17 €.
+
+De 30.000 € a 100.000 €: 27 €.
+
+Por cada 60.000 € adicionales o fracción: 9 €.
+
+Tarifa 4.–Por cambio de titular de la industria. Valor de la instalación:
+
+Hasta 30.000 €: 17€.
+
+De 30.000 € a 100.000 €: 27 €.
+
+Por cada 60.000 € adicionales o fracción : 9 €.
+
+Tarifa 5.–Por puesta en marcha de industria de temporada. Valor de la instalación:
+
+Hasta 30.000 €: 11 €.
+
+De 30.000 € a 100.000 €: 17 €.
+
+Por cada 60.000 € adicionales o fracción: 3 €.
+
+Tarifa 6.–Por expedición de certificados:
+
+Por cada certificado: 8 €.
+
+Tarifa 7.–Por visitas de inspección, comprobación y control con expediente de modificación:
+
+Por cada visita: 33 €.
+
+> Se modifica por el art. 8.10 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+#### Sección 3.ª Tasa por gestión de servicios facultativos de los servicios agronómicos
+
+##### Artículo 119. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación de los servicios y trabajos que se expresan en las tarifas de esta sección.
+
+##### Artículo 120. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta Ley, a las que se presten los servicios o trabajos señalados en las tarifas, bien a petición del interesado o de oficio por la Administración.
+
+##### Artículo 121. Devengo.
+
+En el caso de que medie la solicitud, el devengo se realizará al producirse aquélla. Si se presta de oficio por la Administración, el devengo se realizará al prestarse el servicio o trabajo.
+
+##### Artículo 122. Tarifas.
+
+La tasa se exigirá conforme a las siguientes tarifas:
+
+|  | Pesetas |
+|---|---|
+| Tarifa 1. Por inscripción en registros oficiales de tractores agrícolas, motores y otras máquinas agrícolas y expedición, en su caso, de la cartilla de agricultor el 0,20 por 100 del precio según factura. |  |
+| Tarifa 2. Por inscripción en el Registro de cambio de titularidad de tractores, motores y máquinas agrícolas | 774,90 |
+| Tarifa 3. Por expedición de duplicados de la documentación | 1.549,80 |
+| Tarifa 4. Por inscripción en el Registro de Establecimientos y Servicios Plaguicidas: |  |
+| Por inscripción en la Sección Establecimientos | 3.699 |
+| Por inscripción en la Sección Servicios | 7.399 |
+| Por inscripción en el Registro Oficial de Productores, Comerciantes e Importadores de Vegetales y Productos Vegetales | 3.500 |
+| Tarifa 5. Por renovación de inscripción en el Registro de Establecimientos y Servicios Plaguicidas: |  |
+| Por renovación de inscripción en la Sección Establecimientos | 1.849 |
+| Por renovación de inscripción en la Sección Servicios | 3.699 |
+| Tarifa 6. Por apertura y sellado de libros oficiales de movimiento: |  |
+| Expedición y sellado de libros oficiales | 7 € |
+| Por sellado de libros oficiales | 1 € |
+| Tarifa 7. Por inscripción en registros oficiales de fertilizantes, semillas y viveros: |  |
+| A fabricantes importadores y mayoristas | 6.974,13 |
+| A minoristas | 3.487,07 |
+| Tarifa 8. Por renovación de la inscripción en registros oficiales de fertilizantes, semillas y viveros: |  |
+| A fabricantes importadores y mayoristas | 3.488,25 |
+| A minoristas | 1.744,12 |
+| Tarifa 9. Por apertura y sellado de libros de semillas | 1.549,80 |
+| Tarifa 10. Por informes facultativos | 3.099,61 |
+| Tarifa 11. Por levantamiento de actas a cargo del personal | 1.240,56 |
+| Tarifa 12. Por informes o certificados relacionados con los análisis de los productos . | 3.099,61 |
+| Tarifa 13. Por expedición de certificados solicitados a los servicios agronómicos no incluidos en una tarifa anterior | 1.163,54 |
+| Tarifa 14. Por expedición de documentos de calificación empresarial para las empresas cortadoras de madera: |  |
+| Solicitud | 17 € |
+| Renovación | 11 € |
+| Tarifa 15. Por expedición de mapas de cartografía de temática ambiental: |  |
+| Mapa base | 4.770,00 |
+| Mapa de vegetación | 4.770,00 |
+| Mapa litológico | 4.770,00 |
+| Tarifa 16. Por expedición de pasaportes fitosanitarios | 1.250 |
+| Tarifa 17. Por expedición de carnés de manipuladores de productos fitosanitarios | 250 |
+
+> Se modifican las tarifas 6 y 14 por el art. 8.11 y 12 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+> Se modifica la tarifa 6 por el art. 6.9 de la Ley 14/2001, de 28 de diciembre. [Ref. BOE-A-2002-2836](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2836).
+
+> Se modifican las tarifas 4, 5, 6 y se añaden las tarifas 16 y 17 por el art. 5.13 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+#### Sección 3.ª bis. Tasa por prestación del servicio de depuración en la depuradora de moluscos de Castropol
+
+> Se añade por el art. 11.11 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+##### Artículo 122 bis. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación del servicio de depuración de moluscos y de estabulación del producto en las balsas tras su depuración llevado a cabo en la depuradora titularidad del Principado de Asturias ubicada en el concejo de Castropol.
+
+> Se añade por el art. 11.11 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+##### Artículo 122 tercero. Sujetos pasivos.
+
+Son los sujetos pasivos de la tasa las personas físicas o jurídicas que reciban la prestación del servicio.
+
+> Se añade por el art. 11.11 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+##### Artículo 122 cuarto. Devengo.
+
+La tasa se devengará una vez prestado el servicio.
+
+> Se añade por el art. 11.11 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+##### Artículo 122 quinto. Tarifa.
+
+La tasa se exigirá conforme a las siguientes tarifas:
+
+a) Depuración: 0,30 €/kg.
+
+b) Por cada día o fracción que se mantenga el producto estabulado en las balsas, a partir de la finalización de la depuración, excepto sábados, domingos o festivos 0,15 €/kg.
+
+> Se añade por el art. 11.11 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+#### Sección 4.ª Tasa por prestación de servicios y ejecución de trabajos en materia forestal y de montes
+
+##### Artículo 123. Hecho imponible.
+
+Constituye el hecho imponible la prestación de los servicios o realización de los trabajos expresados en las tarifas de esta tasa cuando se realicen por personal dependiente de la Consejería competente en la materia y como consecuencia de la tramitación de expedientes a instancia de parte o de oficio por la Administración.
+
+##### Artículo 124. Sujeto pasivo.
+
+Son sujetos pasivos de esta tasa las personas físicas o jurídicas o las entidades a que se refiere el artículo 5.2 de esta ley, a las que se presten los servicios o para las que se ejecuten los trabajos señalados en el artículo anterior.
+
+##### Artículo 125. Devengo.
+
+La tasa se devengará en el momento en que se solicite la prestación del servicio o cuando se realice éste, si se produjera de oficio.
+
+##### Artículo 126. Tarifas.
+
+|  | Pesetas |
+|---|---|
+| Tarifa 1. Levantamiento de planos: |  |
+| Por levantamiento de itinerarios, por kilómetro | 23.956,00 |
+| Por confección de planos, por kilómetro | 2.328,82 |
+| Tarifa 2. Replanteo de planos: |  |
+| Por kilómetro o fracción de éste | 9.463,68 |
+| Tarifa 3. Deslindes: |  |
+| Por el apeo y levantamiento topográfico (cada 100 metros lineales) | 8.355,05 |
+| Con un mínimo de | 25.065,87 |
+| Tarifa 4. Amojonamiento: |  |
+| Por replanteo (cada 100 metros lineales) | 4.178,14 |
+| Con un mínimo de | 12.533,54 |
+| Tarifa 5. Cubicación e inventario de existencias: |  |
+| Inventario de árboles, por metro cúbico | 1,44 |
+| Existencias apeadas (del valor inventariado). | 5 × 1.000 |
+| Tarifa 6. Valoración de productos forestales: |  |
+| Hasta 25.000 pesetas de valor | 1.549,80 |
+| Hasta 50.000 pesetas de valor | 3.099,61 |
+| Hasta 100.000 pesetas de valor | 7.749,03 |
+| Exceso de 100.000 pesetas de valor | 5 × 1.000 |
+| Tarifa 7. Por demarcación y señalamiento de terrenos: | **(Suprimida)** |
+| Superficies inferiores a las 10 hectáreas |  |
+| Por cada hectárea que supere las 10 hectáreas |  |
+| Tarifa 8. Informes: |  |
+| 10 por 100 del importe de las tarifas que corresponda a la ejecución de servicio objeto de la tasa que motive el informe: |  |
+| Como mínimo | 1.549,96 |
+| Tarifa 9. Señalamiento e inspección de toda clase de aprovechamientos y disfrutes forestales. |  |
+| a) En montes catalogados: |  |
+| Maderas de crecimiento lento: |  |
+| Señalamiento, contada en blanco y reconocimiento, por metro cúbico | 58,55 |
+| Leñas y rozo: |  |
+| Señalamiento y reconocimiento final, por estéreo | 13,41 |
+| Plantas industriales: |  |
+| Para los reconocimientos anuales, por kg | 1,47 |
+| Por la entrega de toda clase de aprovechamiento: |  |
+| El 1 por 100 por importe de la tasación cuando no exceda de 10.000 pesetas. |  |
+| Incrementándose por el exceso de esa cifra en 0,25 por 100 del mismo. |  |
+| b) En montes no catalogados: |  |
+| Maderas de crecimiento lento: |  |
+| Señalamiento y reconocimientos finales por metro cúbico | 134 |
+| Tarifa 10. Por inspección anual de disfrute: |  |
+| Ocupación agrícola-ganadera, por hectárea | 281,96 |
+| Otras ocupaciones, por inspección | 4.695,80 |
+| Tarifa 11. Por expedición de toda clase de certificaciones | 1.163,54 |
+| Tarifa 12. Por inscripción en libros de registro oficiales | 265,00 |
+
+> Se modifica la tarifa 9 por el art. 5.14 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+> Se deroga las tarifa 7 por la disposición derogatoria 2 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+#### Sección 5.ª Tasa por expedición de licencias de caza y matrículas de cotos de caza
+
+##### Artículo 127. Hecho imponible.
+
+Constituirá el hecho imponible de la tasa la prestación del servicio administrativo inherente a la expedición de licencias de caza, y matrículas de cotos que, de acuerdo con la legislación vigente, sean necesarios para practicar la caza.
+
+##### Artículo 128. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas o jurídicas y entidades a que se refiere el artículo 5.2 de esta Ley, que soliciten las licencias o matrículas.
+
+##### Artículo 129. Devengo.
+
+El devengo de la tasa se producirá en el momento de la solicitud de la licencia de caza o matrícula de coto.
+
+##### Artículo 130. Tarifas.
+
+La tasa se exigirá conforme a los contenidos en las siguientes tarifas:
+
+Tarifa 1. Licencias de caza:
+
+Clase A1 para cazar con armas de fuego (validez de un año): 3.500 pesetas.
+
+Clase A2 para cazar con armas de fuego (validez de cinco años): 15.311 pesetas.
+
+Clase B1 para cazar con otros medios o procedimiento distintos a armas de fuego (validez de un año): 24,65 €.
+
+Clase B2: para cazar con otros medios o procedimientos distintos a armas de fuego (validez 5 años): 107,75 €.
+
+Licencia interautonómica, 70,00 €.
+
+Tarifa 2. Matrículas de cotos:
+
+a) Matrículas de cotos de caza mayor:
+
+La tarifa estará constituida por un importe equivalente al 15 por 100 de la renta del coto de caza, evaluada mediante el inventario estimado de las especies y el número de cabezas de cada una de ellas, en 53 pesetas por hectárea y año para los cotos de caza de segunda clase, y 477 pesetas por hectárea y año para los cotos de caza de tercera clase.
+
+A los efectos del párrafo anterior, se considerarán cotos de caza de:
+
+Primera clase: Los de caza mayor con una cabeza por cada 100 hectáreas o inferior.
+
+Segunda clase: Los de caza mayor con más de una y hasta tres cabezas por cada 100 hectáreas.
+
+Tercera clase: Los de caza mayor con más de tres cabezas por cada 100 hectáreas.
+
+b) Matrículas de cotos de caza menor:
+
+La tarifa estará constituida por un importe equivalente al 15 por 100 de la renta cinegética, evaluada a razón de 42,40 ptas. por hectárea y año, con independencia del número de piezas.
+
+Para los cotos privados de caza menor de menos de 500 hectáreas de superficie, el valor asignable a la renta cinegética para toda la extensión, cualquiera que sea ésta, no podrá ser inferior a 20.000 pesetas.
+
+> Se modifica la tarifa 1 por el art. 7.1 de la Ley 2/2016, de 1 de julio. [Ref. BOE-A-2016-7567](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7567).
+
+> Se modifica la tarifa 1 por el art. 8.13 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+> Se modifica la tarifa 1 por el art. 8.13 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+#### Sección 6.ª Tasa por permiso de caza en reservas regionales y cotos gestionados directamente por la administración
+
+##### Artículo 131. Hecho imponible.
+
+Constituye el hecho imponible de la tasa el otorgamiento de permisos para cazar en Reservas Regionales de Caza y Cotos Regionales gestionados por la Administración del Principado de Asturias.
+
+##### Artículo 132. Sujeto pasivo.
+
+Serán sujetos pasivos aquellas personas a las que se adjudiquen los correspondientes permisos para cazar en Reservas Regionales de Caza y Cotos Regionales gestionados directamente por la Administración del Principado de Asturias.
+
+##### Artículo 133. Devengo.
+
+El devengo de la tasa se producirá en el momento de la adjudicación del permiso para la cuota de entrada y en el momento de abatir o herir la pieza para la cuota complementaria.
+
+##### Artículo 134. Tarifas.
+
+La tasa se exigirá conforme a las siguientes tarifas:
+
+1\. Cacerías de trofeo.
+
+1.a Cuota de entrada:
+
+Corzo macho de 106 puntos o superior: 150 €.
+
+Gamo macho de 175 puntos o superior: 200 €.
+
+Rebeco macho o hembra de 78 puntos o superior: 250 €.
+
+Venado macho de 152 puntos o superior: 320 €.
+
+1.b Cuota complementaria:
+
+Corzo macho mínimo o res herida y no cobrada (cada punto que exceda de 106 a 40 € el punto): 300 €.
+
+Gamo macho mínimo o res herida y no cobrada (cada punto que exceda de 175 a 40 € el punto): 300 €.
+
+Rebeco macho o hembra mínimo o res herida y no cobrada (cada punto que exceda de 78 a 60 € el punto): 350 €.
+
+Venado macho mínimo o res herida y no cobrada (cada punto que exceda de 152 a 50 € el punto): 400 €.
+
+2\. Otras cacerías.
+
+2.a Cuota de entrada:
+
+Corzo macho: 140 €.
+
+Gamo macho: 175 €.
+
+Rebeco macho o hembra: 200 €.
+
+Venado macho: 250 €.
+
+Jabalí: 100 €.
+
+Menor: 80 €.
+
+Hembras de corzo, gamo o venado: 70 €.
+
+2.b Cuota complementaria:
+
+Corzo macho o res herida y no cobrada: 175 €/pieza.
+
+Gamo macho o res herida y no cobrada: 175 €/pieza.
+
+Rebeco macho o hembra o res herida y no cobrada: 250 €/pieza.
+
+Venado macho o res herida y no cobrada: 250€/pieza.
+
+Jabalí (con independencia del n.º de piezas) o res herida y no cobrada: 100 €.
+
+Menor (con independencia del n.º de piezas): 50 €.
+
+Hembras de corzo gamo o venado o res herida y no cobrada: 50 €.
+
+3\. Cacerías de turistas.
+
+Corzo macho (Cuota única): 900 €.
+
+Gamo macho (Cuota única): 1.100 €.
+
+Rebeco macho o hembra (Cuota única): 1.700 €.
+
+Venado macho (Cuota única): 1.800 €.
+
+4\. Cacerías selectivas.
+
+Dirigidas a animales con defectos morfológicos apreciables en la cornamenta o aquéllos que han de ser eliminados para el control poblacional, practicadas en la modalidad de rececho según los criterios establecidos en los planes de caza.
+
+Cuota única (con independencia del n.º de piezas): 100 €.
+
+> Se modifica por el art. 8.14 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+> Se modifica la tarifa 4 por el art. 6.10 de la Ley 14/2001, de 28 de diciembre. [Ref. BOE-A-2002-2836](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2836).
+
+##### Artículo 135. Exenciones.
+
+Estarán exentos del pago de las tasas los permisos especiales expedidos por la Consejería competente en la materia, para la caza de cualquier especie en el territorio del Principado de Asturias cuando lo impongan circunstancias excepcionales, en orden a la protección o a la conservación del ecosistema.
+
+##### Artículo 136. Bonificaciones.
+
+Los cazadores que ejercitan esta actividad en el mismo término municipal de su vecindad administrativa tendrán una bonificación del 50% en las cuotas de los permisos procedentes de los sorteos para cazadores locales de reservas.
+
+> Se modifica por el art. 8.15 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+> Se modifica por el art. 6.11 de la Ley 14/2001, de 28 de diciembre. [Ref. BOE-A-2002-2836](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2836).
+
+#### Sección 7.ª Tasa por expedición de licencias de pesca continental
+
+> Se modifica por el art. 8.16 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+##### Artículo 137. Hecho imponible.
+
+Constituirá el hecho imponible de la tasa la prestación de los servicios administrativos inherentes a la expedición de licencias que según la legislación vigente sean necesarias para practicar la pesca continental.
+
+> Se modifica por el art. 8.17 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+##### Artículo 138. Sujeto pasivo.
+
+Serán sujetos pasivos aquellas personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta Ley que soliciten la expedición de licencias necesarias para la práctica de la pesca continental.
+
+> Se modifica por el art. 8.18 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+##### Artículo 139. Devengo.
+
+Las tasas se devengarán en el momento de solicitarse las licencias.
+
+> Se modifica por el art. 8.19 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+##### Artículo 140. Tarifas.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+|  | Euros |
+|---|---|
+| a) Licencias de pesca continental: |  |
+| Licencia ordinaria de especies no selectas | 5,03 |
+| Licencia ordinaria de especies no selectas reducida (menores de dieciséis años) | 3,03 |
+| Licencia de pesca de trucha por un año | 9 |
+| Licencia de pesca de trucha por cinco años | 36 |
+| Licencia de pesca de trucha reducida (menores dieciséis años) | 4 |
+| Licencia de pesca de salmón por un año | 12 |
+| Licencia de pesca de salmón por cinco años | 50 |
+| Licencia de pesca de salmón reducida (menores de dieciséis años) | 8 |
+| Licencia interautonómica | 25 |
+
+> Se modifica la tarifa a) por el art. 7.2 de la Ley 2/2016, de 1 de julio. [Ref. BOE-A-2016-7567](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7567).
+
+> Se suprime la tarifa b) por el art. 8.20 de la Ley 7/2005, de 29 de diciembre. [Ref. BOE-A-2006-6252](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6252).
+
+> Se modifica la tarifa a) por el art. 6.12 de la Ley 14/2001, de 28 de diciembre. [Ref. BOE-A-2002-2836](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2836).
+
+#### Sección 8.ª Tasa por permisos de pesca
+
+##### Artículo 141. Hecho imponible.
+
+1\. Constituirá el hecho imponible de la tasa el otorgamiento de permisos para pescar en las zonas de pesca acotadas por el Principado de Asturias.
+
+2\. Los permisos que autorizan la pesca en las citadas zonas serán independientes de las licencias de pesca a que se refiere la tasa anterior de las que, en todo caso, deberán estar en posesión los solicitantes del permiso de esta tasa.
+
+##### Artículo 142. Sujeto pasivo.
+
+Serán sujetos pasivos de la tasa aquellas personas físicas, nacionales o extranjeras, a las que se adjudiquen los correspondientes permisos para pescar en los cotos controlados por el Principado de Asturias.
+
+##### Artículo 143. Devengo.
+
+El devengo se producirá en el acto de adjudicación del permiso para pescar.
+
+##### Artículo 144. Tarifas.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+|  | Pesetas |
+|---|---|
+| 1. Permisos para cotos de trucha | 1.233,84 |
+| 2. Permisos para cotos de pesca de salmón: |  |
+| Categoría A | 13.483,20 |
+| Categoría B | 11.236,00 |
+| Categoría C | 8.988,80 |
+| Los lotes de referencia se corresponden con la clasificación determinada por la Consejería competente en la materia. |  |
+| 3. Permisos para cotos de pesca de reo . | 2.053,22 |
+| 4. Las tarifas a las que se refieren los números anteriores se reducirán en un 40 por 100 cuando los sujetos pasivos sean miembros de sociedades que hubieran suscrito o suscriban con la Administración del Principado de Asturias un convenio de colaboración para la reproducción de alevines y esguines de trucha y salmón. |  |
+| 5. Permisos para cotos de pesca de trucha destinados al turismo (un pescador y día) | 2.008,70 |
+| 6. Permisos para cotos de pesca de salmón destinados al turismo: |  |
+| Categoría A | 26.966,40 |
+| Categoría B | 22.472,00 |
+| Categoría C | 17.977,60 |
+| Los lotes de referencia se corresponden con la clasificación determinada por la Consejería competente en la materia. |  |
+| 7. Permisos para cotos de pesca de reo destinados al turismo (uno a tres pescadores por día) | 12.908,68 |
+| 8. Permisos para cotos de pesca intensiva | 821,50 |
+| 9. Permisos para cotos de pesca de trucha sin muerte | 6 € |
+| La tarifa se reducirá en un 40 por 100 cuando los sujetos pasivos sean miembros de sociedades que hubieran suscrito o suscriban con la Administración del Principado de Asturias un convenio de colaboración para la reproducción de alevines y esguines de trucha y salmón. |  |
+
+> Se modifica la tarifa 9 por el art. 6.13 de la Ley 14/2001, de 28 de diciembre. [Ref. BOE-A-2002-2836](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2836).
+
+#### Sección 9.ª Tasa por pesca marítima
+
+##### Artículo 145. Hecho imponible.
+
+Constituye el hecho imponible la prestación de los servicios administrativos inherentes a:
+
+a) La expedición de licencias para la práctica de la pesca deportiva en aguas interiores del Principado de Asturias.
+
+b) La expedición de licencias para la pesca de angula.
+
+c) La expedición de licencias de recogida de algas de arribazón en las playas y otras del litoral del Principado, así como el corte o arranque de las mismas.
+
+d) La expedición de guías de transporte y circulación de marisco y algas.
+
+e) El otorgamiento de concesiones de terrenos de dominio público para su utilización con fines de acuicultura.
+
+f) La expedición de carné de mariscador.
+
+g) La autorización de instalaciones y establecimientos de piscicultura y marisqueo, así como la comprobación e inspección de los mismos.
+
+h) La expedición de certificados relacionados con establecimientos de marisqueo o acuicultura.
+
+##### Artículo 146. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa:
+
+1\. En los supuestos a) y c) del artículo anterior, las personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta Ley, nacionales o extranjeras, que solicitan las licencias.
+
+2\. En el supuesto b) del artículo anterior, las personas físicas nacionales o extranjeras, que solicitan las licencias.
+
+> Se modifica por el art. 5.15 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 147. Devengo.
+
+La tasa se devengará en el momento de la solicitud de las licencias, guías, concesiones, carnés, autorizaciones y certificados, excepto para las .comprobaciones e inspecciones de instalaciones pesqueras y establecimientos de piscicultura y marisqueo en que se devengará en el momento de realizarse la comprobación o inspección.
+
+##### Artículo 148. Tarifas.
+
+La tasa se exigirá conforme a las siguientes tarifas:
+
+|  | Euros |
+|---|---|
+| Tarifa 1. Licencia para la práctica de la pesca deportiva: |  |
+| Pesca desde costa por cinco años: | 16,4 |
+| Pesca desde embarcación por cinco años: | 16,4 |
+| Pesca submarina por dos años: | 16,4 |
+| Pesca colectiva desde embarcación por año: | 81,6 |
+|  | Pesetas |
+| Tarifa 2. Licencia para pesca de angula por año |  |
+| Desde tierra | 592,43 |
+| Tarifa 3. Licencia de recogida de algas de arribazón por año: |  |
+| Por personas físicas | 465,66 |
+| Por personas jurídicas sin fines de lucro, por cada licencia | 155,22 |
+| Por persona jurídica con fines de lucro, por cada trabajador recolector | 465,66 |
+| Tarifa 4. Corte o arranque de algas por año: |  |
+| Por personas físicas | 619,69 |
+| Por personas jurídicas sin fines de lucro, por cada licencia | 310,43 |
+| Por personas jurídicas con fines de lucro, por cada trabajador recolector | 465,66 |
+| Tarifa 5. Concesiones de terrenos de dominio público: |  |
+| Por cada metro cuadrado y año | 3,18 |
+| Tarifa 6. Carné de mariscador: |  |
+| Clase 1.<sup>a</sup> para mariscar a pie | 592,43 |
+| Tarifa 7. Expedientes de autorizaciones pesqueras y establecimientos de piscicultura y marisqueo; valor de instalación: |  |
+| Hasta 500.000 pesetas | 1.240,56 |
+| De 500.001 a 1.000.000 | 1.549,80 |
+| De 1.000.001 a 2.000.000 | 2.324,71 |
+| Por cada millón de más o fracción | 774,90 |
+| Comprobaciones e inspecciones | 4.649,43 |
+| Tarifa 8. Expedición de certificados con establecimientos de marisqueo, acuicultura y algas: |  |
+| Por cada certificación | 1.163,54 |
+| Tarifa 9. Expedición de guías de transporte y circulación de mariscos y de algas: |  |
+| Por kilogramo de alga transportada en peso seco | 1,51 |
+| Por cada guía de transporte y circulación de mariscos | 148,11 |
+
+Exención:
+
+Estarán exentos del pago de la tasa correspondiente a la tarifa 1 de este artículo la licencia para la práctica de la pesca deportiva por años, las personas jubiladas y los menores de dieciséis años.
+
+> Se modifica la tarifa 1 por el art. 6.3 de la Ley 13/2010, de 28 de diciembre. [Ref. BOE-A-2011-4296](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4296).
+
+> Se modifica la tarifa 1 por el art. 5.16 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+#### Sección 10.ª Tasa por expedición de titulaciones y tarjetas náuticas, de buceo profesional y actividades subacuáticas, derechos de examen y otros trámites
+
+> Se modifica por el art. 6.4 de la Ley 13/2010, de 28 de diciembre. [Ref. BOE-A-2011-4296](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4296).
+
+> Téngase en cuenta que aunque el legislador se refiere a la modificación de la rúbrica de la sección 9ª, entendemos que la modificación se hace a la sección 10ª.
+
+> Se añade por el art. 5.17 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 148 bis. Hecho imponible.
+
+Constituye el hecho imponible la expedición, convalidación y renovación de títulos y tarjetas acreditativas de las distintas categorías de titulaciones náuticas, buceo profesional, actividades subacuáticas, derechos de asistencia a exámenes y otros trámites.
+
+> Se modifica por el art. 6.5 de la Ley 13/2010, de 28 de diciembre. [Ref. BOE-A-2011-4296](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4296).
+
+> Se añade por el art. 5.17 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 148 tercero. Sujetos pasivos.
+
+Serán sujetos pasivos de la tasa las personas físicas que cumpliendo los requisitos establecidos en la norma que regula la tarjeta o título de que se trate, los soliciten por el procedimiento reglamentario.
+
+> Se añade por el art. 5.17 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 148 cuarto. Devengo.
+
+La tasa se devengará en el momento de la solicitud.
+
+> Se añade por el art. 5.17 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 148 quinto. Tarifas.
+
+La tasa se exigirá conforme a las siguientes tarifas:
+
+Tarifa 1. Tarjetas de titulaciones náutico-pesqueras:
+
+a) Marinero pescador: 16,4 €.
+
+b) Patrón local de pesca: 24,5 €.
+
+c) Patrón costero polivalente: 24,5 €.
+
+d) Patrón de litoral: 24,5 €.
+
+e) Patrón de altura: 24,5 €.
+
+f) Capitán de pesca: 24,5 €.
+
+g) Mecánico naval: 24,5 €.
+
+h) Mecánico mayor naval: 24,5 €.
+
+Tarifa 2. Tarjetas de buceo profesional:
+
+a) Recolector submarino de recursos marinos: 24,5 €.
+
+b) Buceador profesional de pequeña profundidad: 24,5 €.
+
+c) Buceador profesional de 2.ª clase: 24,5 €.
+
+d) Buceador profesional de media profundidad: 24,5 €.
+
+e) Buceador profesional de gran profundidad: 24,5 €.
+
+Tarifa 3. Tarjetas y títulos náutico-deportivos:
+
+a) Capitán de yate: 98,0 €.
+
+b) Patrón de yate: 65,3 €.
+
+c) Patrón de embarcaciones de recreo: 24,5 €.
+
+d) Patrón para navegación básica: 24,5 €.
+
+e) Patrón de moto náutica ''A'': 24,5 €.
+
+f) Patrón de moto náutica ''B'': 24,5 €.
+
+g) Patrón de moto náutica ''C'': 24,5 €.
+
+h) Autorización federativa: 16,4 €.
+
+Tarifa 4. Derechos de examen:
+
+a) Capitán de yate: 73,5 €.
+
+b) Patrón de yate: 57,2 €.
+
+c) Patrón de embarcaciones de recreo: 24,5 €.
+
+d) Patrón para navegación básica: 24,5 €.
+
+e) Patrón de moto náutica ''A'': 24,5 €.
+
+f) Patrón de moto náutica ''B'': 24,5 €.
+
+g) Patrón de moto náutica ''C'': 24,5 €.
+
+Tarifa 5. Otros trámites:
+
+a) Expedición por convalidación o canje: 16,4 €.
+
+b) Renovación o expedición de duplicado: 16,4 €.
+
+c) Expedición libro de buceo: 32,6 €.
+
+> Se modifica por el art. 6.6 de la Ley 13/2010, de 28 de diciembre. [Ref. BOE-A-2011-4296](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4296).
+
+> Se modifican las tarifas 2, 3, 4, 5, 6 y 7 por el art. 11.10 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+> Se modifican las tarifas 4 y 5 por el art. 19.9 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+> Se añade por el art. 5.17 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 92, de 17 de abril de 2001. [Ref. BOE-A-2001-7427](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-7427).
+
+### CAPÍTULO VIII — Espectáculos y asociaciones
+
+> Se añade por el art. 8.14 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+#### Sección 1.ª Tasa por prestación de servicios para la celebración de espectáculos públicos y actividades recreativas
+
+> Se añade por el art. 8.14 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 149. Hecho imponible.
+
+Constituye el hecho imponible de la tasa, la realización por la Administración del Principado de Asturias de las tareas de control reglamentario inherentes a la celebración o realización de espectáculos públicos o actividades recreativas sometidas a autorización o comunicación previa.
+
+> Se añade por el art. 8.14 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 150. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa, las personas físicas o jurídicas que soliciten la autorización administrativa o realicen la comunicación previa para la organización o celebración de espectáculos públicos o actividades recreativas.
+
+> Se añade por el art. 8.14 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 151. Devengo.
+
+La tasa se devengará en el momento que se solicite la autorización o se realice la comunicación previa.
+
+> Se añade por el art. 8.14 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 152. Cuota.
+
+El importe de la cuota es el siguiente:
+
+1\. Autorizaciones de espectáculos públicos o actividades recreativas: 8.339 pesetas.
+
+2\. Autorizaciones de espectáculos taurinos: 8.320 pesetas.
+
+> Se añade por el art. 8.14 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+#### Sección 2.ª Tasa por inscripción y publicidad de asociaciones
+
+> Se añade por el art. 8.14 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 153. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la inscripción de asociaciones, la inscripción de la modificación de sus estatutos o de cualesquiera extremos registrales en el Registro de Asociaciones del Principado de Asturias, la expedición de certificados del contenido de los asientos y la entrega en soporte documental de cualquier información que conste en el citado registro.
+
+> Se modifica por el art. 11.12 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+> Se modifica por el art. 19.10 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+> Se añade por el art. 8.14 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 154. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten la realización de alguna de las actividades que constituyen el hecho imponible.
+
+> Se añade por el art. 8.14 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 155. Devengo.
+
+La tasa se devengará en el momento en que se realice la solicitud.
+
+> Se añade por el art. 8.14 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+##### Artículo 155 bis. Exenciones.
+
+Cuando las Administraciones Públicas, con el ámbito establecido en el artículo 2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, soliciten al Registro de Asociaciones del Principado de Asturias, en el marco del principio de colaboración entre Administraciones, la expedición de certificados, de copias auténticas y de notas simples informativas en soporte papel o en soporte informático, estarán exentas del pago de la tasa.
+
+> Se añade por el art. 11.13 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+##### Artículo 156. Cuota.
+
+1\. Inscripción en el Registro de Asociaciones del Principado de Asturias: 33,05 euros.
+
+2\. Inscripción de modificaciones de estatutos: 16,35 euros.
+
+3\. Inscripción de adaptación de Estatutos a la Ley Orgánica 1/ 2002, de 22 de marzo, reguladora del Derecho de Asociación con Modificación de Estatutos: 16,35 euros.
+
+4\. Inscripción de identidad de los titulares de la Junta Directiva u órgano de representación: 16,35 euros.
+
+5\. Inscripción de apertura y cierre de delegaciones o establecimientos: 16,35 euros.
+
+6\. Inscripción de incorporación y separación de asociaciones a federaciones, confederaciones o uniones de asociaciones: 16,35 euros.
+
+7\. Expedición de certificados: 7,11 euros.
+
+8\. Expedición de copias auténticas y de notas simples informativas en soporte papel:
+
+Por documento inicial: 3,55 euros.
+
+Por cada página siguiente del documento inicial: 1,77 euros.
+
+9\. Expedición de notas simples informativas en soporte informático: Por cada diskette o CD-ROM: 14,28 euros.
+
+> Se modifica por el art. 11.14 de la Ley 6/2004, de 28 de diciembre. [Ref. BOE-A-2005-1922](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1922).
+
+> Se modifica por el art. 19.11 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+> Se añade por el art. 8.14 de la Ley 18/1999, de 31 de diciembre. [Ref. BOE-A-2000-3764](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3764).
+
+#### Sección 3.ª Tasa por servicios administrativos en materia de casinos, juegos y apuestas
+
+> Se añade por el art. 19.12 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 156 bis. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación por la Administración del Principado de Asturias de los servicios o la realización de las actuaciones propias de la ordenación y gestión administrativa del juego, según se especifica en las tarifas.
+
+> Se añade por el art. 19.12 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 156 tercero. Sujetos pasivos.
+
+1\. Son sujetos pasivos de la tasa, en calidad de contribuyentes, las personas físicas o jurídicas, así como las entidades a que se refiere el artículo 5.2 de esta ley en cuyo interés se presten los servicios o sean receptoras de las actuaciones que integran su hecho imponible.
+
+2\. Son sujetos pasivos sustitutos del contribuyente las personas físicas o jurídicas, así como las entidades a que se refiere el artículo 5.2 de esta ley que soliciten las actuaciones administrativas, cuando éstas deban prestarse a favor de otras personas distintas del solicitante.
+
+> Se añade por el art. 19.12 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 156 cuarto. Tarifas.
+
+La tasa se exigirá con arreglo a las siguientes tarifas:
+
+1\. Autorizaciones e inscripciones.
+
+Autorización de apertura y funcionamiento de casino: 5.355,00 euros.
+
+Autorización de apertura y funcionamiento de bingo: 2.008,10 euros.
+
+Autorización y/o inscripción de salones de juego y otros establecimientos: 535,50 euros.
+
+Autorización y/o inscripción de otros locales y establecimientos habilitados para instalar máquinas tipo "Bˮ: 40,20 euros.
+
+Renovaciones, modificaciones y transmisiones de las autorizaciones recogidas en los epígrafes anteriores: el 30% del importe de la autorización correspondiente.
+
+Autorización y/o inscripción como empresa de juego: 669,30 euros.
+
+Homologación e inscripción de máquinas tipos «B» y «C»: 401,60 euros.
+
+Homologación e inscripción de otro material de juego: 267,80 euros.
+
+Modificación de la homologación de máquinas y material de juego: el 50% del importe de la autorización correspondiente.
+
+Expedición de guías de circulación (unidad): 6,70 euros.
+
+Diligencia de días de circulación (unidad): 8,10 euros.
+
+Baja temporal o definitiva de máquinas (unidad): 8,10 euros.
+
+Transmisiones de máquinas entre empresas operadoras (por máquina): 8,10 euros.
+
+Autorización de instalación de máquinas incluidas las temporales y cambio de titularidad: 40,20 euros.
+
+Comunicaciones de traslado de máquinas (por cada traslado): 6,70 euros.
+
+Autorización de apuestas, rifas y tómbolas: 66,90 euros.
+
+Autorización del juego de la noventina: 133,90 euros.
+
+2\. Otros servicios y actuaciones administrativas:
+
+Expedición de documentos profesionales: 6 €.
+
+Emisión de duplicados de documentos: 3 €.
+
+Diligenciado de libros y hojas exigidos reglamentariamente: 6 €.
+
+Expedición de certificados: 6 €.
+
+Inspección técnica de máquinas recreativas y de azar: 200 €.
+
+> Se modifica el apartado 1 por el art. 41.12 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+> Se modifica el apartado 1 por el art. 51.6 y 7 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+> Se modifica el apartado 1 por la disposición final 1 de la Ley 7/2010, de 29 de octubre. [Ref. BOE-A-2011-1384](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1384).
+
+> Se añade por el art. 19.12 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+##### Artículo 156 quinto. Devengo y pago.
+
+1\. La tasa se devengará cuando se inicie la actuación o servicio administrativo que constituya el hecho imponible y se exigirá en el momento de la solicitud de la correspondiente actividad administrativa.
+
+2\. La tasa será objeto de autoliquidación e ingreso con carácter previo a la presentación de la solicitud de prestación del servicio que constituya el hecho imponible. Ello no obstante, en el supuesto de servicios o actuaciones iniciadas de oficio por la Administración, ésta practicará y notificará la oportuna liquidación.
+
+> Se añade por el art. 19.12 de la Ley 15/2002, de 27 de diciembre. [Ref. BOE-A-2003-2905](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-2905).
+
+#### Sección 4.ª Tasa por rescates y asistencias
+
+> Se modifica por el art. 41.13 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+> Se añade por el art. 5.7 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+##### Artículo 156 sexto. Hecho imponible.
+
+1\. Constituye el hecho imponible de esta tasa las actuaciones o intervenciones del organismo autónomo ''Servicio de Emergencias del Principado de Asturias'', en el ámbito de las competencias autonómicas, en los siguientes supuestos aunque el riesgo o peligro sean simulados:
+
+a) Rescate de personas, en los siguientes casos:
+
+Cuando el afectado no haya atendido los boletines o partes de avisos de alerta o de predicción de meteorología adversa, de nivel rojo o equivalente, emitidos por los servicios meteorológicos nacionales, Protección Civil u organismos análogos, incluido el organismo autónomo "Servicio de Emergencias del Principado de Asturiasˮ.
+
+Cuando el rescate tenga lugar en zonas señaladas como peligrosas o en aquellas de acceso prohibido o restringido, sin autorización de la autoridad competente.
+
+Cuando las personas rescatadas no llevaran el equipamiento adecuado a la actividad.
+
+Cuando el rescate o salvamento se realice con ocasión de la práctica de actividades recreativas y deportivas que entrañen riesgo o peligro para las personas.
+
+A los efectos de la aplicación de esta tasa se considerarán actividades recreativas y deportivas que entrañan riesgo o peligro para las personas las siguientes: submarinismo, windsurfing, flysurf, esquí acuático, wakeboard, wakesurf, skurfer, motos de agua, bodyboard, surf, rafting, hydrospeed, descenso de cañones y barrancos, puenting, kite buggy, quads, escalada, espeleología deportiva o «espeleismo», bicicleta en montaña, motocross, vehículos de motor en montaña, raid y trec hípico, marchas y turismo ecuestre, esquí, snowboard, motos de nieve, paraski, snowbike, mushing, skibike, aerostación, paracaidismo, salto base, vuelo de ultraligeros, vuelo en aparatos con motor y sin motor, parapente, ala delta y parasailing, y cualquiera otra que tenga a éstas como base.
+
+b) Rescate de bienes y semovientes.
+
+c) Asistencia en accidentes de tráfico.
+
+d) Asistencias técnicas y atención de emergencias en establecimientos industriales cuando estén presentes sustancias peligrosas para las personas, los bienes y el medio ambiente.
+
+e) Asistencias técnicas, de prevención y de vigilancia y protección de incendio o accidente en pruebas deportivas y en actividades festivas, culturales o de tiempo libre.
+
+f) Asistencias por retirada de enjambres, colmenas o nidos de abejas, avispas u otros insectos similares, cuando éstos se encuentren en una propiedad privada y ésta no tenga la consideración de domicilio habitual del sujeto pasivo.
+
+g) Asistencia en inundaciones, cuando éstas no sean consecuencia de fenómenos meteorológicos naturales.
+
+h) Asistencia en apertura de puertas en fincas o edificios, siempre que no vayan acompañados de otras intervenciones de prevención o extinción de incendios, de salvamentos o, en general, de protección de personas o bienes u otros análogos.
+
+i) Asistencias por intervenciones en elementos interiores o exteriores de inmuebles (incluido el saneamiento de fachadas, cerramientos de escaparates, letreros publicitarios y actuaciones análogas), prevención de ruinas, construcciones y derribos, cuando la intervención se deba a construcción o mantenimiento deficiente.
+
+2\. No se produce el hecho imponible por actuaciones o intervenciones a consecuencia de causas de fuerza mayor, de grave riesgo colectivo o de calamidad pública, así como por razones de interés general.
+
+> Se modifica por el art. 41.13 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+> Se añade por el art. 5.7 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+##### Artículo 156 séptimo. Sujetos pasivos.
+
+1\. Serán sujetos pasivos de la tasa, en concepto de contribuyentes, las personas físicas o jurídicas y las entidades a las que se refiere el artículo 5.2 del presente texto refundido, que resulten afectadas o beneficiadas, personalmente o en sus bienes, por la actuación o intervención que constituya el hecho imponible.
+
+2\. En los casos de simulación de existencia de riesgo o peligro, se considerará, en todo caso, sujeto pasivo al responsable de dicha simulación.
+
+3\. En el caso de inundaciones, accidentes de tráfico, o atención de emergencias en establecimientos industriales, se considerará sujeto pasivo a la persona causante o responsable del suceso.
+
+4\. En el caso de actuaciones o intervenciones de vigilancia y protección de incendio o accidente en pruebas deportivas y en actividades festivas, culturales o de tiempo libre se considerará sujeto pasivo a la persona o entidad organizadora.
+
+5\. Se considerarán sustitutas del contribuyente las entidades aseguradoras con las que se tenga contratada la cobertura de los riesgos que constituyen la causa y den lugar a la prestación de las actuaciones o intervenciones señaladas en el hecho imponible.
+
+> Se modifica por el art. 41.13 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+> Se añade por el art. 5.7 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+##### Artículo 156 octavo. Devengo.
+
+La tasa se devengará en el momento en que se inicie la actuación o intervención, salvo que no llegara a concluirse por causa no imputable al sujeto pasivo. A todos los efectos, el inicio de la actuación o intervención coincidirá con la salida de la dotación correspondiente desde la base donde estén situados.
+
+> Se modifica por el art. 41.13 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+> Se añade por el art. 5.7 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+##### Artículo 156 noveno. Tarifas.
+
+1\. La tarifa a aplicar se determina en razón de los efectivos y medios empleados, tanto personales como materiales, que intervengan en el servicio a tenor del tiempo invertido:
+
+Tarifa 1. Servicios prestados por el personal de intervención:
+
+Titulado Superior: 16,50 euros/hora.
+
+Titulado Grado Medio: 13,50 euros/hora.
+
+Jefe Supervisor: 18,90 euros/hora.
+
+Jefe de Zona: 17,30 euros/hora.
+
+Bombero-Conductor: 14,00 euros/hora.
+
+Bombero-Rescatador: 14,10 euros/hora.
+
+Auxiliar de Bombero Especialista: 11,60 euros/hora.
+
+Tarifa 2. Medios técnicos, vehículos ligeros (vehículos de mando, de transporte de personal y todo terreno de patrullaje) y otros: 36,10 euros/hora.
+
+Tarifa 3. Medios técnicos y vehículos pesados (vehículo multisocorro, autobomba urbana, autobomba forestal y autobomba nodriza): 209,00 euros/hora.
+
+Tarifa 4. Medios técnicos y vehículos especiales (autoescalera, brazo articulado, vehículo de apoyo logístico y puesto de mando avanzado): 439,00 euros/hora.
+
+Tarifa 5. Medios técnicos y helicóptero multifunción: 1.258,30 euros/hora.
+
+Tarifa 6. Medios técnicos y helicóptero medicalizado: 2.027,30 euros/hora.
+
+2\. La primera hora, que comprenderá los derechos de salida, se devengará completa. A partir de la primera hora, se liquidará por minutos.
+
+> Se modifica por el art. 41.13 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+> Se añade por el art. 5.7 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+##### Artículo 156 décimo. Exenciones.
+
+1\. Están exentos del pago de esta tasa la Junta General, la Sindicatura de Cuentas, la Administración del Principado de Asturias y su sector público, el Consejo Consultivo, la Universidad de Oviedo, las entidades locales del Principado de Asturias, las restantes Administraciones autonómicas y la Administración General del Estado.
+
+2\. En los supuestos contemplados en el apartado 1.a) del artículo 156.Sexto, gozarán de exención de esta tasa los sujetos pasivos siguientes:
+
+a) Quienes sufran de cualquier anomalía, deficiencia o alteración psíquica que impida comprender el riesgo o peligro, o actuar conforme a esa comprensión.
+
+b) Las personas menores de 12 años de edad.
+
+c) Quienes hubieran fallecido durante el rescate o en la fase previa, así como en una fase posterior siempre y cuando sea como consecuencia de las causas que originaron el rescate o salvamento.
+
+> Se modifica por el art. 41.13 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+> Se añade por el art. 5.7 de la Ley 4/2009, de 29 de diciembre. [Ref. BOE-A-2010-3375](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3375).
+
+### CAPÍTULO IX — Hacienda
+
+#### Tasa por la expedición del diploma de Mediador de Seguros Titulado
+
+> Se añade por el art. 5.18 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+#### Sección 1.ª Tasa por la expedición del diploma de mediador de seguros titulado
+
+> Se añade por el art. 13.25 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 157. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la formalización del expediente y expedición del diploma de Mediador de Seguros Titulado.
+
+> Se añade por el art. 5.18 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 158. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas que soliciten la iniciación del expediente.
+
+> Se añade por el art. 5.18 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 159. Devengo.
+
+La tasa se devengará cuando se presente la solicitud de iniciación del expediente no expidiéndose el diploma hasta que se haya efectuado el pago correspondiente.
+
+> Se añade por el art. 5.18 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+##### Artículo 160. Tarifa.
+
+La tasa se exigirá conforme a la siguiente tarifa:
+
+Por cada diploma: 4.000 pesetas.
+
+> Se añade por el art. 5.18 de la Ley 4/2000, de 30 de diciembre. [Ref. BOE-A-2001-3992](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-3992).
+
+#### Sección 2.ª Tasa por la inscripción en el «Registro Especial de Mediadores de Seguros del Principado de Asturias
+
+> Se añade por el art. 13.26 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 161. Hecho imponible.
+
+1\. Constituye el hecho imponible de la tasa:
+
+a) La inscripción en el ''Registro especial de mediadores de seguros del Principado de Asturias'', de las personas que ejerzan como agentes de seguros u operadores de banca-seguros, ya sean exclusivos o vinculados, como corredores de seguros o como corredores de reaseguros.
+
+b) La inscripción en el ''Registro especial de mediadores de seguros del Principado de Asturias'' de los cargos de administración y de dirección responsables de las actividades de mediación de seguros o de reaseguros de las personas jurídicas inscritas como mediadores de seguros o corredores de reaseguros que, con arreglo a la normativa vigente en materia de mediación de seguros y reaseguros privados, deban ser inscritos.
+
+c) La inscripción en el ''Registro especial de mediadores de seguros del Principado de Asturias'' de los actos relacionados con los anteriores, siempre que deban ser inscritos de acuerdo con lo exigido en normas sobre mediación de seguros y de reaseguros privados.
+
+d) La expedición de certificados relativos a la información incluida en el ''Registro especial de mediadores de seguros del Principado de Asturias''.
+
+2\. La tasa no será exigible en los supuestos relativos a la cancelación de la inscripción.
+
+> Se añade por el art. 13.26 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 162. Sujeto pasivo.
+
+Serán sujetos pasivos de la tasa, las personas físicas o jurídicas a cuyo favor se practique la inscripción y los solicitantes de un certificado del ''Registro especial de mediadores de seguros del Principado de Asturias.
+
+> Se añade por el art. 13.26 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 163. Devengo y pago.
+
+1\. La tasa se devengará cuando se presente la solicitud, debiendo efectuarse el pago correspondiente mediante autoliquidación.
+
+2\. En el caso de la tasa correspondiente a la inscripción de los agentes de seguros exclusivos, de los operadores de banca-seguros exclusivos y de los cargos de administración y de dirección responsables de las actividades de mediación de seguros, será autoliquidada por la entidad aseguradora en cuyo registro de agentes figuren inscritos, en calidad de sustituto del contribuyente, sin que en ningún caso la entidad pueda exigir a aquél el importe de la tasa satisfecha.
+
+> Se añade por el art. 13.26 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+##### Artículo 164. Tarifa.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+a) Por la inscripción de un agente de seguros exclusivo, persona física, una cuota fija de 10,40 euros.
+
+b) Por la inscripción de un agente de seguros vinculado, de un corredor de seguros o de reaseguros, personas físicas, una cuota fija de 62,42 euros.
+
+c) Por la inscripción de una sociedad de agencia de seguros o de un operador de banca-seguros, ya sean exclusivos o vinculados, de una sociedad de correduría de seguros o de reaseguros, una cuota fija de 145,66 euros.
+
+d) Por la inscripción de cargos de administración y de dirección responsables de las actividades de mediación de seguros o de reaseguros de las sociedades de agencia de seguros o de los operadores de banca-seguros, ya sean exclusivos o vinculados, de correduría de seguros o de correduría de reaseguros, una cuota fija de 10,40 euros por cada alto cargo.
+
+e) Por la inscripción de cualquier otro acto inscribible o por la modificación de los inscritos, una cuota fija de 10,40 euros por cada uno de ellos.
+
+f) Por la expedición de certificados relativos a la información incluida en el mencionado registro, una cuota fija de 10,40 euros.
+
+> Se añade por el art. 13.26 de la Ley 6/2008, de 30 de diciembre. [Ref. BOE-A-2009-4690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4690).
+
+#### Sección 3.ª Tasa por prevaloración de inmuebles
+
+> Se añade por el art. 51.8 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 165. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la solicitud al Ente Público de Servicios Tributarios del Principado de Asturias de informes sobre el valor a efectos fiscales de los bienes inmuebles que, situados en el territorio de su competencia, vayan a ser objeto de adquisición o transmisión.
+
+> Se añade por el art. 51.8 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 166. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas y las entidades a las que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria que soliciten la emisión del informe de valoración.
+
+> Se añade por el art. 51.8 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 167. Devengo.
+
+La tasa se devengará en el momento en que se solicite la valoración exigiéndose en régimen de autoliquidación. El abono deberá acreditarse con la presentación de la solicitud.
+
+> Se añade por el art. 51.8 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 168. Tarifa.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+a) Pisos y sus correspondientes anejos, garajes y trasteros independientes, y viviendas unifamiliares que dispongan de referencia catastral: 15 €.
+
+b) Resto de inmuebles: 55 €.
+
+> Se añade por el art. 51.8 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+#### Sección 4.ª Tasa por la venta de impresos de carácter tributario
+
+> Se añade por el art. 51.8 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 169. Hecho imponible.
+
+Constituye el hecho imponible de la tasa la venta de ejemplares preimpresos de autoliquidación, sujetos a modelo oficial, aptos para el cumplimiento de las obligaciones tributarias.
+
+> Se añade por el art. 51.8 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 170. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria que adquieran los modelos tributarios gravados por la tasa.
+
+> Se añade por el art. 51.8 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 171. Devengo.
+
+La tasa se devengará con la entrega del modelo.
+
+> Se añade por el art. 51.8 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+##### Artículo 172. Tarifa.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+Modelo 600: 0,90 euros.
+
+Modelo 620: 0,50 euros.
+
+Resto de modelos: 0,10 euros por hoja con un mínimo de 0,50 euros por modelo.
+
+> Se añade por el art. 51.8 de la Ley 3/2012, de 28 de diciembre. [Ref. BOE-A-2013-1924](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1924).
+
+### CAPÍTULO X — Medio Ambiente
+
+> Se añade por el art. 41.14 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+#### Sección 1.ª Tasa de residuos y suelos contaminados
+
+> Se añade por el art. 41.14 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 173. Hecho imponible.
+
+Constituye el hecho imponible la realización de las actuaciones administrativas inherentes a la tramitación de comunicaciones y autorizaciones contempladas en la normativa vigente en materia de residuos y suelos contaminados, así como la inscripción de datos en el Registro de Productores y Gestores de Residuos y la expedición de certificaciones de datos contenidos en el mismo.
+
+> Se añade por el art. 41.14 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 174. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten las actuaciones administrativas constitutivas del hecho imponible.
+
+> Se añade por el art. 41.14 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 175. Devengo.
+
+La tasa se devengará en el momento de la solicitud de las actuaciones administrativas constitutivas del hecho imponible.
+
+> Se añade por el art. 41.14 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 176. Tarifa.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+Tarifa 1. Comunicaciones previas al inicio de actividades de producción y gestión de residuos, por cada inscripción, anotación o certificación:
+
+1.1 Productor de residuos: primera inscripción en el Registro de Productores y Gestores de Residuos: 70,90 euros.
+
+1.2 Productor de residuos: inscripción o anotación que modifique datos obrantes en el Registro de Productores y Gestores de Residuos: 49,70 euros.
+
+1.3 Pequeño productor de residuos: primera inscripción en el Registro de Productores y Gestores de Residuos: 33,40 euros.
+
+1.4 Pequeño productor de residuos: inscripción o anotación que modifique datos obrantes en el Registro de Productores y Gestores de Residuos: 24,50 euros.
+
+1.5 Transportista, negociante o agente de residuos: primera inscripción en el Registro de Productores y Gestores de Residuos: 88,30 euros.
+
+1.6 Transportista, negociante o agente de residuos: inscripción o anotación que modifique datos obrantes en el Registro de Productores y Gestores de Residuos: 58,40 euros.
+
+1.7 Sistemas individuales de responsabilidad ampliada del productor: primera inscripción en el Registro de Productores y Gestores de Residuos: 104,50 euros.
+
+1.8 Sistemas individuales de responsabilidad ampliada del productor: inscripción o anotación que modifique datos obrantes en el Registro de Productores y Gestores de Residuos: 81,80 euros.
+
+1.9 Certificación de datos obrantes en el Registro de Productores y Gestores de Residuos: 14,70 euros.
+
+Tarifa 2. Autorizaciones en materia de gestión de residuos.
+
+2.1 Instalación de gestión de residuos: autorización, ampliación, modificación o clausura e inscripción en el Registro de Productores y Gestores de Residuos: 691,40 euros.
+
+2.2 Gestor de residuos sin instalación asociada: autorización o modificación e inscripción en el Registro de Productores y Gestores de Residuos: 154,90 euros.
+
+2.3 Gestor de residuos con instalación asociada: autorización, ampliación, modificación o clausura e inscripción en el Registro de Productores y Gestores de Residuos: 808,20 euros.
+
+2.4 Sistema colectivo de responsabilidad ampliada del productor: autorización o modificación/Sistema integrado de gestión: renovación de la autorización e inscripción en el Registro de Productores y Gestores de Residuos: 841,30 euros.
+
+2.5 Valorización de residuos de construcción y demolición in situ o en actividades de restauración ambiental: autorización: 428,70 euros.
+
+2.6 Pruebas experimentales de reutilización o valorización de residuos:
+
+Autorización: 428,70 euros.
+
+2.7 Traslados transfronterizos de residuos: 75,40 euros.
+
+2.8 Inspección adicional previa a la autorización, ampliación o modificación de instalaciones de gestión de residuos: 167,80 euros.
+
+Tarifa 3. Suelos contaminados e informe de situación de suelos.
+
+3.1 Declaración de suelo contaminado: 1.454,10 euros.
+
+3.2 Declaración de suelo descontaminado: 4.439,10 euros.
+
+3.3 Informes preliminares de situación de suelos: 30,40 euros.
+
+Tarifa 4. Planes empresariales de prevención.
+
+4.1 Planes empresariales de prevención: 165,10 euros.
+
+> Se añade por el art. 41.14 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 177. Exenciones.
+
+Estarán exentos del pago de la tasa la Administración del Principado de Asturias y sus organismos y entes públicos.
+
+> Se añade por el art. 41.14 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+#### Sección 2.ª Tasa por la concesión del uso de la etiqueta ecológica de la Unión Europea
+
+> Se añade por el art. 41.14 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 178. Hecho imponible.
+
+Constituye el hecho imponible la concesión del uso de la etiqueta ecológica de la Unión Europea.
+
+> Se añade por el art. 41.14 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 179. Sujeto pasivo.
+
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que produzcan o fabriquen o presten o lleven a cabo en el territorio del Principado de Asturias los productos o servicios para los que se solicite la concesión del uso de la etiqueta ecológica de la Unión Europea.
+
+> Se añade por el art. 41.14 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 180. Devengo.
+
+La tasa se devengará en el momento de la solicitud de concesión del uso de la etiqueta ecológica de la Unión Europea.
+
+> Se añade por el art. 41.14 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+##### Artículo 181. Tarifa.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+Por cada concesión de uso: 504,80 euros.
+
+Por cada concesión de uso a Microempresas, según la definición de la Recomendación de la Comisión no 2003/361/CE de 6 de mayo de 2003 (DO L 124 de 20.5.2003): 350,00 euros.
+
+En el caso de solicitantes que no tengan la condición de Microempresas y estén registrados en el Sistema de Comunitario de Gestión y Auditoría Medioambientales (EMAS) o que cuenten con certificación conforme a la norma ISO 14001, la tarifa se reducirá en un 20 %. Esta reducción estará sujeta a la condición de que el solicitante se comprometa expresamente, en su política medioambiental, a garantizar que sus productos con etiquetado ecológico cumplan plenamente con los criterios de la etiqueta ecológica de la UE durante el período de validez del contrato y que este compromiso se incorpore de forma adecuada en los objetivos medioambientales detallados.
+
+Los solicitantes conformes a la norma ISO 14001 deberán demostrar cada año el cumplimiento de este compromiso. Los solicitantes registrados en el EMAS deberán remitir una vez por año una copia de su declaración medioambiental verificada.
+
+> Se añade por el art. 41.14 de la Ley 11/2014, de 29 de diciembre. [Ref. BOE-A-2015-1764](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1764).
+
+### CAPÍTULO XI — Comunicación audiovisual tasa por prestación de servicios de comunicación audiovisual
+
+> Se añade por el art. 38.1 de la Ley 8/2019, de 30 de diciembre. [Ref. BOE-A-2020-1203](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1203)
+
+##### Artículo 182. Hecho imponible.
+
+Constituye el hecho imponible la prestación de los servicios administrativos inherentes a:
+
+a) El otorgamiento de licencias para la prestación de servicios de comunicación audiovisual.
+
+b) La autorización de la transmisión, arrendamiento o cualquier otro negocio jurídico que tenga por objeto la licencia para la prestación de servicios de comunicación audiovisual.
+
+> Se modifica por el art. 39.1 de la Ley 10/2022, de 30 de diciembre. [Ref. BOE-A-2023-3293](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-3293)
+
+> Se añade por el art. 38.1 de la Ley 8/2019, de 30 de diciembre. [Ref. BOE-A-2020-1203](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1203)
+
+##### Artículo 183. Sujeto pasivo.
+
+Son sujetos pasivos las personas físicas o jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria que soliciten la prestación de los servicios que constituyen el hecho imponible.
+
+> Se añade por el art. 38.1 de la Ley 8/2019, de 30 de diciembre. [Ref. BOE-A-2020-1203](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1203)
+
+##### Artículo 184. Exenciones.
+
+Están exentos aquellos sujetos pasivos que tengan la consideración de Administraciones Públicas.
+
+> Se añade por el art. 38.1 de la Ley 8/2019, de 30 de diciembre. [Ref. BOE-A-2020-1203](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1203)
+
+##### Artículo 185. Devengo y liquidación.
+
+La tasa se devenga en el momento de solicitar el servicio y se exige en régimen de autoliquidación.
+
+> Se añade por el art. 38.1 de la Ley 8/2019, de 30 de diciembre. [Ref. BOE-A-2020-1203](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1203)
+
+##### Artículo 186. Tipo de gravamen.
+
+La tasa se exige de acuerdo con los siguientes tipos:
+
+a) Por el otorgamiento de licencias para la prestación de servicios de comunicación audiovisual: 560 euros.
+
+b) Por la autorización de la transmisión, arrendamiento o cualquier otro negocio jurídico que tenga por objeto la licencia para la prestación de servicios de comunicación audiovisual: 560 euros.
+
+> Se modifica por el art. 39.2 de la Ley 10/2022, de 30 de diciembre. [Ref. BOE-A-2023-3293](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-3293)
+
+> Se añade por el art. 38.1 de la Ley 8/2019, de 30 de diciembre. [Ref. BOE-A-2020-1203](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1203)
+
+##### Disposición adicional primera. Modificación de las tasas.
+
+Las Leyes de Presupuestos de cada año podrán modificar las tarifas y demás elementos de cuantificación aplicables a cada tasa.
+
+> Se renumera por el art. único.1 de la Ley 4/2022, de 1 de junio. [Ref. BOE-A-2022-11227](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-11227)
+
+> Anteriormente numerada como "adicional".
+
+##### Disposición adicional segunda. Bonificación temporal aplicable a determinadas tasas.
+
+1\. Se establece una bonificación del 100 % aplicable a las siguientes tasas reguladas en el presente texto refundido:
+
+a) Tasa por prestación de servicios de salud, inspecciones sanitarias de salud pública y expedición de libros y carnés.
+
+La bonificación afectará únicamente al artículo 60, Tarifa 1, “Inspecciones sanitarias”, apartado 3, “Inspección alimentaria”, letra a), “Por inspección de locales destinados a manipulación, fabricación, almacenamiento o venta de productos alimentarios”.
+
+b) Tasa de puertos.
+
+La bonificación resultará de aplicación a todos los hechos imponibles objeto de gravamen, con excepción de los siguientes:
+
+– Los servicios generales regulados en el artículo 100, apartado 2, letra e), “Embarcaciones deportivas y de recreo (G-5)”.
+
+– Los “servicios eventuales (E-5)” regulados en el artículo 100, apartado 4.
+
+c) Tasa por ordenación de los transportes mecánicos por carretera, informes y otras actuaciones facultativas.
+
+La bonificación resultará de aplicación a todos los hechos imponibles objeto de gravamen.
+
+d) Tasa por servicios administrativos en el ámbito de la ganadería.
+
+La bonificación resultará de aplicación a todos los hechos imponibles objeto de gravamen.
+
+e) Tasas por servicios administrativos en el ámbito de las industrias agroalimentarias y forestales.
+
+La bonificación resultará de aplicación a todos los hechos imponibles objeto de gravamen.
+
+f) Tasa por gestión de servicios facultativos de los servicios agronómicos.
+
+La bonificación resultará de aplicación a todos los hechos imponibles objeto de gravamen.
+
+g) Tasa por prestación del servicio de depuración en la depuradora de moluscos de Castropol.
+
+La bonificación resultará de aplicación a todos los hechos imponibles objeto de gravamen.
+
+h) Tasa por pesca marítima.
+
+La bonificación resultará de aplicación a todos los hechos imponibles objeto de gravamen, con excepción de la Tarifa 1, “Licencia para la práctica de la pesca deportiva”, regulada en el artículo 148.
+
+i) Tasa de residuos y suelos contaminados.
+
+La bonificación resultará de aplicación a todos los hechos imponibles objeto de gravamen.
+
+2\. La bonificación definida en el apartado 1 resultará de aplicación a los hechos imponibles devengados entre el 1 de enero y el 31 de diciembre de 2026.
+
+> Se modifica el apartado 2 por el art. 40.4 de la Ley 5/2025, de 31 de diciembre. [Ref. BOE-A-2026-2888](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-2888)
+
+> Se modifica el apartado 2 por el art. 10 de la Ley 8/2024, de 27 de diciembre. [Ref. BOE-A-2025-3124](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-3124)
+
+> Se modifica el apartado 2 por el art. 40 de la Ley 4/2023, de 29 de diciembre. [Ref. BOE-A-2024-1776](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1776)
+
+> Se modifica el apartado 2 por el art. 39.3 de la Ley 10/2022, de 30 de diciembre. [Ref. BOE-A-2023-3293](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-3293)
+
+> Se añade por el art. único.2 de la Ley 4/2022, de 1 de junio. [Ref. BOE-A-2022-11227](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-11227)
+
+##### Disposición transitoria. Tasas derivadas de transferencias.
+
+Las tasas cuya titularidad asuma el Principado de Asturias derivadas de transferencias de competencias, se regirán por la presente ley y por la normativa del Estado que les venía siendo aplicable, en tanto se regulen de manera específica.
+
+##### Disposición final. Habilitación reglamentaria y facultades de interpretación.
+
+Se autoriza al Consejo de Gobierno para que, a propuesta del titular de la Consejería competente en materia de hacienda, dicte las disposiciones reglamentarias precisas para el desarrollo y ejecución de la presente ley.
+
+La facultad de interpretar y aclarar la ley y las normas reglamentarias del Consejo de Gobierno corresponde privativamente al titular de la Consejería competente en materia de hacienda, quien la ejercerá mediante resolución publicada en el «Boletín Oficial del Principado de Asturias».

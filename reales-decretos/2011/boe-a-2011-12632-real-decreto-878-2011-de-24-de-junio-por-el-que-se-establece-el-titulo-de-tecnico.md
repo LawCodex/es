@@ -1,0 +1,4825 @@
+---
+title: "Real Decreto 878/2011, de 24 de junio, por el que se establece el título de Técnico Deportivo en Salvamento y Socorrismo y se fijan sus enseñanzas mínimas y los requisitos de acceso"
+identifier: "BOE-A-2011-12632"
+eli: "https://www.boe.es/eli/es/rd/2011/06/24/878"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación"
+date: 2011-06-24
+published: 2011-07-22
+in_force_from: 2011-07-23
+last_amended: 2026-07-02
+consolidated: 2026-08-18
+gazette: "Boletín Oficial del Estado núm. 175"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-12632"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 878/2011, de 24 de junio, por el que se establece el título de Técnico Deportivo en Salvamento y Socorrismo y se fijan sus enseñanzas mínimas y los requisitos de acceso
+
+La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos.
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en su artículo 64.6 que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros.
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada Ley Orgánica 2/2006 establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
+
+Este marco normativo hace necesario que ahora el Gobierno, previa consulta a las comunidades autónomas, establezca cada uno de los títulos que formarán el Catálogo de las enseñanzas deportivas del sistema educativo, sus enseñanzas mínimas y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+El Real Decreto 1363/2007, de 24 de octubre, ha establecido la ordenación general de las enseñanzas deportivas de régimen especial, y define en el artículo 4 la estructura de las enseñanzas deportivas.
+
+Por otra parte, en su artículo 6 concreta el perfil profesional de dichos títulos, que incluirá la competencia general, las competencias profesionales, personales y sociales, las cualificaciones y, en su caso, las unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en los títulos, con el fin de lograr que, en efecto, los títulos de enseñanzas deportivas respondan a las necesidades demandadas por el sistema productivo y a los valores personales y sociales para ejercer una ciudadanía democrática.
+
+A estos efectos procede determinar para cada título su identificación, su perfil profesional, el entorno profesional, las enseñanzas de los ciclos de enseñanzas deportivas, la correspondencia de los módulos de enseñanzas deportivas con las unidades de competencia para su acreditación, convalidación o exención, la acreditación de módulos debida a la experiencia docente, y los parámetros básicos de contexto formativo para cada módulo de enseñanza deportiva (espacios, equipamientos necesarios, titulaciones y especialidades del profesorado). Asimismo, en cada título también se determinarán los requisitos específicos de acceso, siendo propio de estos títulos la identificación de la carga lectiva que se acredita a través de estos requisitos, la vinculación con otros estudios, las convalidaciones, exenciones y equivalencias.
+
+El marcado carácter técnico de estas enseñanzas, definidas por la peculiaridad de sus procedimientos, materiales, equipos y prácticas específicas de cada modalidad, hace necesario un desarrollo exhaustivo que garantice un mínimo común denominador, claro y orientador, a través de una norma reglamentaria.
+
+Así, el presente real decreto, se dicta en desarrollo del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, y establece y regula, en los aspectos y elementos básicos antes indicados, el título de Técnico Deportivo en Salvamento y Socorrismo.
+
+Finalmente, este real decreto adapta al ámbito de las enseñanzas deportivas de salvamento y socorrismo, las previsiones de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, ya contenidas en el citado Real Decreto 1363/2007, de 24 de octubre, y desarrolla en este ámbito las previsiones de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas, en el seno de la Conferencia Sectorial de Educación, y han emitido informe el Consejo Escolar del Estado y el Ministerio de Política Territorial y Administración Pública.
+
+En su virtud, con la aprobación previa del Ministro de Política Territorial y Administración Pública, a propuesta del Ministro de Educación y previa deliberación del Consejo de Ministros en su reunión del día 24 de junio de 2011,
+
+DISPONGO:
+
+## CAPÍTULO I — Objeto
+
+### Artículo 1. Objeto.
+
+1\. El objeto del presente real decreto es el establecimiento del título de Técnico Deportivo en Salvamento y Socorrismo, con carácter oficial y validez en todo el territorio nacional, así como de sus correspondientes enseñanzas mínimas.
+
+2\. De conformidad con lo establecido en el Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, los elementos recogidos en el presente real decreto, no constituyen una regulación del ejercicio de profesión titulada alguna.
+
+## CAPÍTULO II — Identificación del título y organización de las enseñanzas
+
+### Artículo 2. Identificación del título de Técnico Deportivo en Salvamento y Socorrismo.
+
+El título de Técnico Deportivo en Salvamento y Socorrismo queda identificado por los siguientes elementos:
+
+a) Denominación: Salvamento y Socorrismo.
+
+b) Nivel: Enseñanzas Deportivas de Grado Medio.
+
+c) Duración: 1155 horas.
+
+d) Referente europeo: CINE-3 (Clasificación Internacional Normalizada de Educación).
+
+### Artículo 3. Organización de las enseñanzas conducentes al título de Técnico Deportivo en Salvamento y Socorrismo.
+
+Las enseñanzas conducentes al Título de Técnico Deportivo en Salvamento y Socorrismo se organizan en dos ciclos:
+
+a) Ciclo inicial de grado medio en salvamento y socorrismo, con una duración de 495 horas.
+
+b) Ciclo final de grado medio en salvamento y socorrismo, con una duración de 660 horas.
+
+### Artículo 4. Especializaciones del título de Técnico Deportivo en Salvamento y Socorrismo.
+
+1\. El título de Técnico Deportivo en Salvamento y Socorrismo tendrá como especializaciones:
+
+a) Autosalvamento.
+
+b) Salvamento y socorrismo para personas con discapacidad.
+
+c) Seguridad en el entorno natural.
+
+d) Seguridad en las instalaciones acuáticas.
+
+e) Salvamento y socorrismo en pruebas de aguas abiertas.
+
+f) Salvamento y socorrismo en pruebas de piscina.
+
+2\. El Ministerio de Educación, a propuesta del Consejo Superior de Deportes y previa consulta a los órganos competentes en materia de deportes de las Comunidades Autónomas y de la Real Federación Española de Salvamento y Socorrismo establecerá los objetivos, contenidos y criterios de evaluación de estas especializaciones.
+
+> Se modifica la letra b) del apartado 1 por el art. 6.1 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## CAPÍTULO III — Perfil profesional y entorno profesional, personal y laboral deportivo de los ciclos
+
+### Artículo 5. Perfil profesional de los ciclos de grado medio en salvamento y socorrismo.
+
+El perfil profesional de los ciclo inicial y final de grado medio en salvamento y socorrismo queda determinado por su competencia general, sus competencias profesionales, personales y sociales, por la relación de cualificaciones y, en su caso, unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título y el entorno profesional, laboral y deportivo.
+
+### Artículo 6. Competencia general del ciclo inicial de grado medio en salvamento y socorrismo.
+
+La competencia general del ciclo inicial de grado medio en salvamento y socorrismo consiste en dinamizar, instruir, dirigir y concretar la iniciación al medio acuático y la iniciación deportiva en salvamento y socorrismo, en organizar, acompañar y tutelar a los socorristas durante su participación en actividades, competiciones y eventos propios de este nivel, todo ello, conforme a las directrices establecidas en la programación de referencia; consiste también en establecer las medidas de prevención y rescate necesarias para velar por la seguridad de los usuarios en piscinas e instalaciones acuáticas, interviniendo de forma eficaz mediante la ayuda o el rescate en caso de accidente, todo ello, actuando con el nivel óptimo de calidad que permita la satisfacción de los socorristas y usuarios en la actividad e instalación.
+
+### Artículo 7. Competencias profesionales, personales y sociales del ciclo inicial de grado medio en salvamento y socorrismo.
+
+Las competencias profesionales, personales y sociales del ciclo inicial de grado medio en salvamento y socorrismo son las que se relacionan a continuación:
+
+a) Dominar las técnicas básicas de la natación relacionadas con el salvamento y socorrismo, y las técnicas básicas de salvamento y socorrismo con nivel suficiente para el desarrollo de las tareas propias de la iniciación deportiva.
+
+b) Atender al socorrista informándole de las características de la actividad, recabando información sobre sus motivaciones e intereses y motivándole hacia la iniciación al medio acuático y la práctica de salvamento y socorrismo.
+
+c) Valorar las habilidades y destrezas de iniciación al medio acuático, y específicas de los socorristas con el objeto de determinar su nivel para proponer su incorporación a un grupo y tomar las medidas de corrección adecuadas.
+
+d) Concretar la sesión de enseñanza aprendizaje en la iniciación al medio acuático y al salvamento y socorrismo de acuerdo con la programación de referencia, adecuándose al grupo y a las condiciones materiales existentes, teniendo en cuenta la transmisión de valores de práctica saludable y el respeto y cuidado del propio cuerpo y del medio donde se desarrolle la actividad.
+
+e) Dirigir la sesión de enseñanza aprendizaje de iniciación al medio acuático y al salvamento y socorrismo, solucionando las contingencias existentes, para conseguir una participación y rendimiento conforme a los objetivos propuestos de la misma, y dentro de las normas medioambientales y los márgenes de seguridad requeridos.
+
+f) Acondicionar, preparar y transportar los medios necesarios para la práctica en el nivel de iniciación al medio acuático y al salvamento y socorrismo garantizando su disponibilidad y seguridad, y respetando la normativa medioambiental.
+
+g) Velar por la seguridad de los socorristas que practican el nivel de iniciación al salvamento y socorrismo y de los usuarios en piscinas o instalaciones acuáticas, aplicando la normativa vigente, supervisando las instalaciones y medios utilizados y previniendo situaciones potencialmente peligrosas.
+
+h) Intervenir de forma eficaz mediante la ayuda o el rescate en piscinas o instalaciones acuáticas ante un accidente, situación de emergencia detectada o enfermedad.
+
+i) Asistir como primer interviniente en caso de accidente o situación de emergencia.
+
+j) Seleccionar a los socorristas en función de su nivel y características, comprobando que se adaptan a las exigencias de la competición de nivel de iniciación al salvamento y socorrismo, respetando los objetivos propuestos y conforme a los márgenes previstos de seguridad.
+
+k) Acompañar a los socorristas en las competiciones y otras actividades del nivel de iniciación al salvamento y socorrismo para proporcionar una experiencia motivante y segura.
+
+l) Dirigir a los socorristas en competiciones de nivel de iniciación dentro de los valores éticos vinculados al juego limpio y el respeto a los demás reforzando su responsabilidad y esfuerzo personal.
+
+m) Colaborar e intervenir en la organización y gestión de competiciones y eventos propios de la iniciación al salvamento y socorrismo, con el objeto de captar, adherir y fidelizar al socorrista en la práctica de salvamento y socorrismo.
+
+n) Valorar el desarrollo de la sesión, recogiendo y procesando la información necesaria para la elaboración de juicios que permitan el ajuste y mejora permanente del proceso de enseñanza-aprendizaje y de las actividades propias de la iniciación al medio acuático y al salvamento y socorrismo.
+
+ñ) Transmitir, a través del comportamiento ético personal, valores vinculados al juego limpio, el respeto a los demás y al respeto y cuidado del propio cuerpo y del medio en el que se desenvuelva la actividad deportiva.
+
+o) Mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el ámbito de su labor como técnico deportivo.
+
+p) Mantener la iniciativa y autonomía dentro del trabajo en equipo para el desempeño de sus funciones.
+
+### Artículo 8. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales del ciclo inicial de grado medio en salvamento y socorrismo.
+
+1\. El ciclo inicial de grado medio en salvamento y socorrismo incluye la cualificación completa de Socorrismo en Instalaciones Acuáticas AFD096_2, que comprende las siguientes unidades de competencia:
+
+a) UC0269_2: Ejecutar técnicas específicas de natación con eficacia y seguridad
+
+b) UC0270_2: Prevenir accidentes o situaciones de emergencia en instalaciones acuáticas, velando por la seguridad de los usuarios.
+
+c) UC0271_2: Rescatar personas en caso de accidente o situación de emergencia en instalaciones acuáticas.
+
+d) UC0272_2: Asistir como primer interviniente en caso de accidente o situación de emergencia.
+
+2\. El ciclo inicial de grado medio en salvamento y socorrismo incluye la cualificación completa de Iniciación deportiva en la modalidad de salvamento y socorrismo en instalaciones acuáticas AFD538_2, que comprende las siguientes unidades de competencia:
+
+a) UC0269_2: Ejecutar técnicas específicas de natación con eficacia y seguridad
+
+b) UC1759_2: Ejecutar habilidades y destrezas básicas aplicadas a la iniciación deportiva en la modalidad de salvamento y socorrismo en instalaciones acuáticas con eficacia y seguridad.
+
+c) UC1760_2: Concretar, dirigir y dinamizar sesiones secuenciadas de iniciación deportiva en la modalidad de salvamento y socorrismo en instalaciones acuáticas.
+
+d) UC1761_2: Dinamizar acciones de promoción y acompañamiento a deportistas en eventos y competiciones de la modalidad deportiva de salvamento y socorrismo en instalaciones acuáticas.
+
+e) UC0271_2: Rescatar personas en caso de accidente o situación de emergencia en instalaciones acuáticas.
+
+f) UC0272_2: Asistir como primer interviniente en caso de accidente o situación de emergencia.
+
+### Artículo 9. Entorno profesional, laboral y deportivo del ciclo inicial de grado medio en salvamento y socorrismo.
+
+1\. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado, las Administraciones Autonómicas o Locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones y clubes deportivos y sociales, centros educativos e instalaciones afines, centros de actividad acuática (piscinas convencionales, piscinas naturales, parques acuáticos), empresas de servicios de actividades extraescolares, casa de colonias, empresas turísticas (hoteles, camping, albergues, balnearios, etc.) empresas de servicios deportivos, empresas de turismo activo, empresas turísticas: hoteles, camping, balnearios, etc., clubes deportivo-recreativos y de ocio, comunidades de vecinos, empresas de mantenimiento de infraestructuras y/o gestión deportiva, clubes deportivo-recreativos y de ocio, gimnasios, etc. que ofrezcan actividades deportivo-recreativas de descubrimiento e iniciación al medio acuático y/o al salvamento y socorrismo y de control de la seguridad de los usuarios de las instalaciones acuáticas.
+
+2\. Las ocupaciones y puestos de trabajo más relevantes para estos profesionales son las siguientes:
+
+a) Monitor de salvamento y socorrismo.
+
+b) Juez cronometrador.
+
+c) Socorrista en piscinas.
+
+e) Socorrista en parques acuáticos.
+
+f) Socorrista en piscinas naturales.
+
+3\. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo a los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
+
+### Artículo 10. Competencia general del ciclo final de grado medio en salvamento y socorrismo.
+
+La competencia general del ciclo final de grado medio en salvamento y socorrismo consiste en adaptar, dirigir y dinamizar el entrenamiento básico y el perfeccionamiento técnico en la etapa de tecnificación deportiva de salvamento y socorrismo; organizar, acompañar y tutelar a los deportistas durante su participación en actividades, competiciones y eventos propios de este nivel; gestionar los recursos materiales necesarios y coordinar las actividades de los técnicos a su cargo; organizar actividades, competiciones y eventos del nivel de iniciación deportiva; velar por la seguridad de los usuarios de actividades acuáticas, espacios acuáticos naturales, realizando una vigilancia permanente y eficiente, previniendo situaciones potencialmente peligrosas e interviniendo de forma eficaz ante un accidente o situación de emergencia, todo ello conforme a las directrices establecidas en la programación de referencia y con el nivel optimo de calidad que permita la satisfacción de los socorristas participantes en la actividad y usuarios en espacios acuáticos naturales.
+
+### Artículo 11. Competencias profesionales, personales y sociales propias del sistema deportivo del ciclo final de grado medio en salvamento y socorrismo.
+
+Las competencias profesionales, personales y sociales del ciclo final de grado medio en salvamento y socorrismo son las que se relacionan a continuación:
+
+a) Dominar las técnicas específicas de salvamento y socorrismo con el nivel suficiente para el desarrollo de las tareas propias de la tecnificación deportiva, y la conducción de socorristas.
+
+b) Valorar y seleccionar al socorrista en función de su nivel y sus características con el fin de adaptar la programación de referencia de perfeccionamiento técnico en salvamento y socorrismo.
+
+c) Adaptar y concretar la sesión de entrenamiento básico en salvamento y socorrismo de acuerdo con la programación de referencia, teniendo en cuenta la transmisión de valores de práctica saludable y el respeto y cuidado del propio cuerpo y del medio donde se desarrolla.
+
+d) Adaptar y concretar los programas específicos de perfeccionamiento técnico-táctico para la etapa de tecnificación deportiva de salvamento y socorrismo de acuerdo con la programación general.
+
+e) Diseñar programas de iniciación al medio acuático y de iniciación deportiva en salvamento y socorrismo acordes con los procesos de tecnificación deportiva, teniendo en cuenta la transmisión de valores de práctica saludable y el respeto y cuidado del propio cuerpo y del medio donde se desarrolla.
+
+f) Dirigir la sesión de entrenamiento básico en la etapa de tecnificación deportiva en salvamento y socorrismo, solucionando las contingencias existentes, para conseguir la participación y rendimiento conforme a los objetivos propuestos de la misma, y dentro de las normas medioambientales y los márgenes de seguridad requeridos.
+
+g) Velar por la seguridad de los usuarios en espacios acuáticos naturales, y la de los socorristas que practican el nivel de tecnificación de salvamento y socorrismo en instalaciones acuáticas o espacios acuáticos naturales supervisando las instalaciones y medios utilizados, previniendo situaciones potencialmente peligrosas.
+
+h) Controlar la seguridad de los usuarios en espacios acuáticos naturales y la de los socorristas que practican el nivel de tecnificación en espacios acuáticos naturales en el nivel de tecnificación de salvamento y socorrismo e interviniendo mediante la ayuda o el rescate en las situaciones de riesgo detectadas y asistir como primer interviniente en caso de accidente o situación de emergencia.
+
+i) Acondicionar, preparar y transportar los medios necesarios para la práctica en el nivel de tecnificación de salvamento y socorrismo garantizando su disponibilidad y seguridad, y respetando la normativa medioambiental.
+
+j) Acompañar y dirigir a los socorristas en competiciones de nivel de tecnificación de salvamento y socorrismo realizando las orientaciones técnico-tácticas y decisiones más adecuadas al desarrollo de la competición, con el fin de garantizar su participación en las mejores condiciones dentro de los valores éticos vinculados al juego limpio, el respeto a los demás y al propio cuerpo.
+
+k) Organizar eventos propios de la iniciación deportiva y colaborar e intervenir en la gestión de competiciones y eventos propios de la tecnificación de salvamento y socorrismo, con el objeto de captar, adherir y fidelizar al socorrista a la práctica de salvamento y socorrismo.
+
+l) Coordinar a otros técnicos encargados de la iniciación al medio acuático e iniciación deportiva en salvamento y socorrismo revisando su programación, organizando los recursos materiales y humanos todo ello con el fin de dinamizar y favorecer las relaciones entre dichos técnicos.
+
+m) Evaluar el proceso de tecnificación deportiva, recogiendo la información necesaria para la elaboración de juicios y ajustando programas que permitan la mejora permanente del entrenamiento básico y perfeccionamiento de las actividades propias de la tecnificación en salvamento y socorrismo.
+
+n) Transmitir a través del comportamiento ético personal valores vinculados al juego limpio, el respeto a los demás y al respeto y cuidado del propio cuerpo y del medio donde se desarrolle la actividad deportiva.
+
+ñ) Mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el ámbito de su labor como técnico deportivo.
+
+o) Mantener la iniciativa y autonomía dentro del trabajo en equipo para el desempeño de sus funciones
+
+### Artículo 12. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales del ciclo final de grado medio en salvamento y socorrismo.
+
+El ciclo final de grado medio en salvamento y socorrismo incluye la cualificación completa de Socorrismo en espacios acuáticos naturales AFD340_2, que comprende las siguientes unidades de competencia:
+
+UC0269_2: Ejecutar técnicas específicas de natación con eficacia y seguridad.
+
+UC1082_2: Prevenir accidentes o situaciones de Emergencia en espacios acuáticos naturales.
+
+UC01083_2: Rescatar personas en caso de accidente o situación de emergencia en espacios acuáticos naturales.
+
+UC0272_2: Asistir como primer interviniente en caso de accidente o situación de emergencia.
+
+### Artículo 13. Entorno profesional, laboral y deportivo del ciclo final de grado medio en salvamento y socorrismo.
+
+1\. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado, las Administraciones autonómicas o locales (equipos de rescate y socorrismo y Unidades de Intervención Acuática), como en entidades de carácter privado ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones, centros de tecnificación, clubes deportivos y sociales, centros educativos e instalaciones afines, centros de actividad acuática (piscinas convencionales, piscinas naturales, parques acuáticos), empresas de servicios de actividades extraescolares, casa de colonias, empresas turísticas (hoteles, camping, albergues, balnearios, puertos deportivos, etc.) empresas de mantenimiento de infraestructuras y/o gestión deportiva, clubes deportivo-recreativos y de ocio, gimnasios, comunidades de vecinos, etc. que ofrezcan actividades deportivo tecnificación de salvamento y socorrismo, dedicándose a su vez a la prevención, vigilancia y rescate en espacios acuáticos naturales (playas marítimas y fluviales, ríos, lagos y embalses, entre otros).
+
+2\. Las ocupaciones y puestos de trabajo más relevantes para estos profesionales son las siguientes:
+
+a) Entrenador de salvamento y socorrismo.
+
+b) Coordinador en escuelas deportivas de salvamento y socorrismo.
+
+c) Responsable de instalación acuática y/o equipo de socorristas en el medio natural.
+
+d) Socorrista en playas marítimas.
+
+e) Socorrista en playas fluviales.
+
+f) Socorrista en lagos y embalses.
+
+g) Socorrista de Apoyo de Unidades de Intervención Acuática.
+
+h) Socorrista en actividades acuáticas en el entorno natural.
+
+i) Socorrista en actividades náutico-deportivas.
+
+j) Árbitro Auxiliar
+
+3\. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo a los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
+
+## CAPÍTULO IV — Estructura de las enseñanzas de cada uno de los ciclos de enseñanza deportiva conducentes al título de Técnico Deportivo en Salvamento y Socorrismo
+
+### Artículo 14. Estructura de los ciclos inicial y final de grado medio de salvamento y socorrismo.
+
+1\. El ciclo inicial y final de grado medio de salvamento y socorrismo se estructuran en módulos, agrupados en bloque común y bloque específico.
+
+2\. Los módulos de enseñanza deportiva del ciclo inicial de grado medio de salvamento y socorrismo son los que a continuación se relacionan:
+
+a) Módulos del bloque común:
+
+MED-C101. Bases del comportamiento deportivo.
+
+MED-C102. Primeros auxilios.
+
+MED-C104. Organización deportiva.
+
+MED-C105. Actividad físico-deportiva para personas con discapacidad.
+
+b) Módulos del bloque específico:
+
+MED-SSSS102: Instalaciones acuáticas y materiales.
+
+MED-SSSS103: Metodología de salvamento y socorrismo.
+
+MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.
+
+MED-SSSS105: Seguridad e intervención en instalaciones acuáticas.
+
+MED-SSSS106: Formación práctica.
+
+3\. Los módulos de enseñanza deportiva del ciclo final de grado medio de salvamento y socorrismo son los que a continuación se relacionan:
+
+a) Módulos del bloque común:
+
+MED-C201. Bases del aprendizaje deportivo.
+
+MED-C202. Bases del entrenamiento deportivo.
+
+MED-C204. Organización y legislación deportiva.
+
+MED-C205. Deporte y género.
+
+MED-C206. Iniciación deportiva para personas con discapacidad.
+
+b) Módulos del bloque específico:
+
+MED-SSSS-201: Escuela de salvamento y socorrismo.
+
+MED-SSSS-202: Preparación física del socorrista.
+
+MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo.
+
+MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.
+
+MED-SSSS-205: Espacios acuáticos y materiales.
+
+MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.
+
+MED-SSSS-207: Formación práctica.
+
+4\. La distribución horaria de las enseñanzas mínimas de los ciclos inicial y final de grado medio en salvamento y socorrismo se establece en el Anexo I.
+
+5\. Los objetivos generales y los módulos de enseñanza deportiva de los ciclos inicial y final de grado medio en salvamento y socorrismo quedan desarrollados en los Anexos II y III.
+
+> Se modifica la letra a) de los apartados 2 y 3 por el art. 6.2 y 3 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+### Artículo 15. Ratio profesor/alumno.
+
+1\. Para impartir los módulos del bloque común y los contenidos relacionados con los resultados de aprendizaje de carácter conceptual del los módulos del bloque específico, de los ciclos inicial y final de grado medio en salvamento y socorrismo, la relación profesor/alumno será de 1/30.
+
+2\. Para impartir los contenidos relacionados con los resultados de aprendizaje de carácter procedimental de los módulos del bloque específico de los ciclos inicial y final de grado medio en salvamento y socorrismo, la relación profesor/alumno será la recogida en el Anexo IV.
+
+### Artículo 16. Módulo de formación práctica.
+
+Para iniciar los módulos de formación práctica de los ciclos inicial y final de grado medio en salvamento y socorrismo, será necesario haber superado con anterioridad los módulos comunes y específicos de enseñanza deportiva que se establecen en el Anexo V.
+
+### Artículo 17. Determinación del currículo.
+
+Las Administraciones educativas establecerán los currículos correspondientes respetando, en todo caso, lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+
+### Artículo 18. Espacios y equipamientos deportivos.
+
+Los espacios y equipamientos mínimos necesarios para el desarrollo de las enseñanzas de los ciclos de grado medio en salvamento y socorrismo son los establecidos en el Anexo VIA y VIB.
+
+## CAPÍTULO V — Acceso a cada uno de los ciclos
+
+### Artículo 19. Requisitos generales de acceso a los ciclos inicial y final de grado medio en salvamento y socorrismo.
+
+1\. Para acceder al ciclo inicial de grado medio en salvamento y socorrismo será necesario tener el título de Graduado en Educación Secundaria Obligatoria o equivalente a efectos de acceso.
+
+2\. Para acceder al ciclo final de grado medio en salvamento y socorrismo será necesario acreditar tener superado el ciclo inicial de grado medio en salvamento y socorrismo.
+
+### Artículo 20. Requisitos de acceso al ciclo inicial de grado medio en salvamento y socorrismo para personas sin el título de Graduado en Educación Secundaria Obligatoria.
+
+Se podrá acceder a las enseñanzas del ciclo inicial de grado medio en salvamento y socorrismo sin el título de Graduado en Educación Secundaria Obligatoria, siempre que el aspirante reúna los otros requisitos de carácter específico que se establecen en el presente real decreto, cumpla las condiciones de edad y supere la prueba establecida en el artículo 31.1.a) del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+
+### Artículo 21. Requisitos de acceso específicos al ciclo inicial de grado medio en salvamento y socorrismo.
+
+1\. Para acceder al ciclo inicial de grado medio en salvamento y socorrismo será necesario superar la prueba de carácter específico que se establece en el Anexo VII.
+
+2\. La prueba de carácter específico del ciclo inicial, acredita la competencia profesional de «Dominar las técnicas básicas de la natación relacionadas con el salvamento y socorrismo, y las técnicas básicas de salvamento y socorrismo con nivel suficiente para el desarrollo de las tareas propias de la iniciación deportiva», recogida en el artículo 7 del presente real decreto, y que en el título tiene asignada una carga horaria de 120 horas sobre la duración total del ciclo inicial de grado medio en salvamento y socorrismo.
+
+3\. Para la superación de la prueba de carácter específico será necesaria la evaluación positiva en la totalidad de los criterios de evaluación descritos en la misma.
+
+### Artículo 22. Efectos y vigencia de la prueba de carácter específico.
+
+1\. La superación de la prueba de carácter específico, que se establece para el acceso al ciclo inicial de grado medio en salvamento y socorrismo, tendrá efectos en todo el territorio nacional.
+
+2\. La superación de la prueba de carácter específico, que se establece en el Anexo VII, tendrá una vigencia de 24 meses, contados a partir de la fecha de su finalización.
+
+### Artículo 23. Requisitos de acceso de los deportistas de alto nivel o alto rendimiento.
+
+Estarán exentos de superar la prueba de carácter específico establecida para el acceso al ciclo inicial de grado medio en salvamento y socorrismo, aquellos deportistas que acrediten:
+
+a) La condición de deportista de alto nivel en las condiciones que establece el Real Decreto 971/2007, de 13 de julio, sobre deportistas de alto nivel y alto rendimiento en salvamento y socorrismo.
+
+b) La calificación de deportista de alto rendimiento o equivalente en la modalidad de salvamento y socorrismo, establecida por las comunidades autónomas de acuerdo con su normativa.
+
+c) Haber sido seleccionado por la Federación Española de Salvamento y Socorrismo para representar a España, dentro de los dos últimos años, en al menos una competición oficial internacional de categoría absoluta, en la modalidad correspondiente.
+
+d) Los socorristas que hayan competido en campeonatos de España de salvamento y socorrismo durante un mínimo de dos temporadas en categoría juvenil o superior, durante los tres últimos años.
+
+### Artículo 24. Requisitos de acceso de personas que acrediten discapacidades.
+
+Las personas con discapacidad podrán acceder a las enseñanzas de estos ciclos conforme a la disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, siendo obligación de las administraciones competentes llevar a cabo los ajustes razonables para que este acceso no comporte restricciones injustificadas contrarias al principio de igualdad de oportunidades.
+
+### Artículo 25. Composición y perfil del tribunal de la prueba de carácter específico.
+
+1\. El tribunal evaluador de la prueba de carácter específico será nombrado por el órgano competente de la comunidad autónoma y deberá estar formado por un mínimo de tres evaluadores.
+
+2\. Los evaluadores de las pruebas de carácter específico deberán acreditar, al menos, la titulación de Técnico Deportivo Superior en Salvamento y Socorrismo.
+
+### Artículo 26. Funciones del tribunal evaluador de la prueba de carácter específico.
+
+1\. El tribunal de la prueba de carácter específico tendrá, entre otras, las siguientes funciones:
+
+a) La organización de la prueba de carácter específico con arreglo a lo especificado en el Anexo VII.
+
+b) Garantizar el correcto desarrollo de las pruebas de carácter específico, comprobando que los objetivos, los contenidos y la evaluación de los ejercicios que componen las pruebas se atienen a lo establecido en la descripción de las mismas.
+
+c) Los evaluadores realizarán la valoración de las actuaciones de los aspirantes de conformidad con lo establecido en los criterios de evaluación de los resultados de aprendizaje de la prueba de carácter específico.
+
+d) La evaluación final de los aspirantes.
+
+2\. El tribunal, como órgano colegiado, se regirá por lo establecido en el título II, capitulo II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+3\. En el caso de que alguno de los aspirantes acredite algún tipo de discapacidad, el tribunal actuará de acuerdo con lo dispuesto en la disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre.
+
+## CAPÍTULO VI — Profesorado
+
+### Artículo 27. Requisitos de titulación del profesorado en centros públicos.
+
+Los requisitos de titulación del profesorado en centros públicos se determinarán en función del bloque de enseñanza deportiva en que hayan de impartir la docencia:
+
+1\. La docencia en centros públicos de los módulos del bloque común que constituyen las enseñanzas deportivas de los ciclos de grado medio en salvamento y socorrismo, corresponde al profesorado de las especialidades de los cuerpos de funcionarios docentes, según lo establecido en el Anexo VIII.
+
+2\. La docencia en centros públicos de los módulos del bloque específico que constituyen las enseñanzas deportivas de los ciclos de grado medio en salvamento y socorrismo, está especificada en el Anexo IX A, y corresponde a:
+
+a) Profesores de la especialidad de Educación Física de los cuerpos de catedráticos y de profesores de enseñanza secundaria, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo.
+
+b) Profesores especialistas que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo, o aquellos no titulados que acrediten la experiencia en el ámbito laboral y deportivo, o la experiencia docente, detallada en el Anexo IX B.
+
+### Artículo 28. Requisitos de titulación del profesorado en centros privados y de titularidad pública de administraciones distintas de la educativa.
+
+Las titulaciones requeridas para la impartición de los módulos tanto del bloque común, como del bloque específico que forman los ciclos de enseñanza deportiva de grado medio en salvamento y socorrismo, para el profesorado de los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, se concretan en el Anexo X.
+
+## CAPÍTULO VII — Vinculación a otros estudios
+
+### Artículo 29. Acceso a otros estudios.
+
+El título de Técnico Deportivo en Salvamento y Socorrismo permitirá el acceso directo a todas las modalidades de bachillerato.
+
+### Artículo 30. Convalidación de estas enseñanzas.
+
+1\. El Ministerio de Educación establecerá las convalidaciones que proceda otorgar del bloque común de las enseñanzas reguladas en el presente real decreto, a aquellos que acrediten estudios o el título de Licenciado en Ciencias de la Actividad Física y el Deporte, regulado por el Real Decreto 1670/1993, de 24 de septiembre, de Diplomado en Educación Física y Licenciado en Educación Física, regulado por el Real Decreto 790/1981, de 24 de abril, de Maestro Especialista en Educación Física, regulado por el Real Decreto 1440/1991, de 30 de agosto, de Técnico Superior en Animación de Actividades Físicas y Deportivas, regulado por el Real Decreto 2048/1995, de 22 de diciembre, o el de Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural regulado por el Real Decreto 2049/1995, de 22 de diciembre, así como con las materias de bachillerato y los títulos establecidos al amparo del Real Decreto 1913/1997, de 19 de diciembre.
+
+2\. La correspondencia de los módulos de enseñanza deportiva que forman el presente título con las unidades de competencia para su acreditación, queda determinada en el Anexo XI A.
+
+3\. La correspondencia de las unidades de competencia con los módulos de enseñanza deportiva que forman el presente título para su convalidación o exención queda determinada en el Anexo XI B.
+
+4\. Serán objeto de convalidación los módulos comunes y específicos de enseñanza deportiva con la misma denominación y código.
+
+5\. La superación de la totalidad de los módulos del bloque común del 1.<sup>er</sup> o 2.º nivel, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del correspondiente ciclo inicial o final de enseñanza deportiva en salvamento y socorrismo. La superación de la totalidad de los módulos del bloque común de los ciclos inicial o final del título de Técnico Deportivo en Salvamento y Socorrismo, se convalidará por la totalidad de los módulos del bloque común, del correspondiente nivel, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+
+### Artículo 31. Exención del módulo de formación práctica.
+
+Podrán ser objeto de exención total o parcial del módulo de formación práctica de los ciclos inicial y final de grado medio en salvamento y socorrismo, desarrollados en el presente real decreto, en función de su correspondencia con la experiencia en el ámbito deportivo o laboral, detallada en el Anexo XII.
+
+### Artículo 32. Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia docente.
+
+1\. La correspondencia formativa entre los módulos de enseñanza deportiva de los ciclos inicial y final de grado medio en salvamento y socorrismo, y la experiencia docente acreditable de las formaciones anteriores de entrenadores deportivos a las que se refiere la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, y las formaciones de entrenadores a las que se refiere la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, se establece en el Anexo XIII.
+
+2\. La correspondencia formativa será aplicada por los centros, siguiendo el procedimiento establecido por la correspondiente Administración educativa.
+
+### Disposición adicional primera. Referencia del título en el marco europeo.
+
+Una vez establecido el marco nacional de cualificaciones, de acuerdo con las Recomendaciones europeas, se determinará el nivel correspondiente de estas titulaciones en el marco nacional y su equivalente europeo.
+
+### Disposición adicional segunda. Oferta a distancia de los módulos de enseñanza deportiva de los presentes títulos.
+
+Los módulos de enseñanza deportiva que se establecen en el Anexo XIV, podrán ofertarse a distancia, siempre que se garantice que el alumno puede conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las Administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
+
+### Disposición adicional tercera. Clave identificativa de los certificados de superación del ciclo inicial.
+
+La clave identificativa de los certificados oficiales acreditativos de la superación del ciclo inicial de grado medio en salvamento y socorrismo a la que hace referencia el artículo 15.4 del Real Decreto 1363/2007, de 24 de octubre, incluirá:
+
+a) Certificación académica oficial: CA.
+
+b) Dígito de la Comunidad Autónoma: De acuerdo con lo establecido en el Anexo IV de la Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
+
+c) Dígitos de modalidad deportiva: SSSS.
+
+### Disposición adicional cuarta. Referencias genéricas.
+
+Todas las referencias al alumnado, profesorado y a titulaciones para las que en este real decreto se utiliza la forma del masculino genérico deben entenderse aplicables indistintamente a mujeres y a hombres.
+
+### Disposición transitoria primera. Extinción de la formación del período transitorio en Salvamento y Socorrismo en las modalidades o especialidades reguladas en el presente real decreto.
+
+1\. De acuerdo con lo establecido en el apartado 1 de la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, por el que establece la ordenación general de las enseñanzas deportivas de régimen especial, el período transitorio en la modalidad de salvamento y socorrismo, según la Orden EDU/3186/2010, de 7 de diciembre, por la que se regulan los aspectos curriculares, los requisitos generales y los efectos de la formación en materia deportiva, a los que se refiere la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, se extinguirá durante el curso académico establecido en la disposición final segunda del presente real decreto.
+
+2\. La extinción se producirá durante el curso académico establecido en la disposición final segunda del presente real decreto.
+
+3\. Los órganos competentes en materia de deportes o, en su caso, de formación deportiva de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla establecerán el procedimiento adecuado, en el territorio de su competencia, para que quienes hubieran iniciado formaciones reguladas en la mencionada Orden ECD/3310/2002, de 16 de diciembre, en la modalidad de salvamento y socorrismo puedan completarla hasta su tercer nivel, durante los dos cursos académicos siguientes al de la implantación de las enseñanzas de este real decreto.
+
+### Disposición transitoria segunda. Reconocimiento de las formaciones deportivas y plazo para solicitar la homologación, convalidación y equivalencia de las formaciones a las que se refieren la disposición adicional quinta y la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, y la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, en la modalidad de salvamento y socorrismo.
+
+1\. El reconocimiento de las formaciones deportivas anteriores a las que se refiere la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre, llevadas a cabo en la modalidad de salvamento y socorrismo por los órganos competentes de las comunidades autónomas y de las Ciudades de Ceuta y Melilla y las federaciones deportivas de la modalidad mencionada, podrá solicitarse ante el Consejo Superior Deportes por los órganos competentes de las comunidades autónomas y por la Federación Española de Salvamento y Socorrismo, dentro de los sesenta días naturales siguientes a la fecha de entrada en vigor del presente real decreto, conforme a lo que se dispone en la Orden de 30 de julio de 1999, por la que se regula el procedimiento para el reconocimiento de las formaciones de entrenadores deportivos y en la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre.
+
+Corresponderá a la Dirección General de Infraestructuras Deportivas, del Consejo Superior de Deportes, la instrucción del procedimiento y, en el plazo máximo de seis meses contados a partir de la fecha de entrada en el registro del CSD de la solicitud del reconocimiento, a propuesta del citado organismo, el Secretario de Estado – Presidente del Consejo Superior de Deportes dictará y notificará la oportuna Resolución cuya parte dispositiva se publicará en el Boletín Oficial del Estado.
+
+2\. El procedimiento de reconocimiento de las formaciones a las que se refieren la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, y la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, en la modalidad de salvamento y socorrismo, se efectuará en cuanto a la solicitud y la documentación, los plazos de subsanación, las prácticas de diligencias y el trámite de audiencia, conforme a lo previsto en la ya citada Orden de 30 de julio de 1999. El reconocimiento se iniciará a instancia del órgano competente en materia de deporte o, en su caso, competente en materia de formación deportiva, de la comunidad autónoma.
+
+El plazo de presentación de las solicitudes de reconocimiento de formaciones deportivas a las que se refiere este apartado y que hayan finalizado antes de la publicación del presente real decreto, será de 90 días naturales a partir de su entrada en vigor. Para las formaciones realizadas durante el periodo de extinción marcado en la disposición transitoria primera de este real decreto el plazo de presentación será de 90 días naturales a partir de la finalización plazo de extinción establecido en la misma.
+
+Corresponderá a la Dirección General de Infraestructuras Deportivas del Consejo Superior de Deportes, la instrucción del procedimiento y, en el plazo máximo de tres meses contados a partir de su iniciación, a propuesta del citado Organismo, el Secretario de Estado-Presidente del Consejo Superior de Deportes dictará y notificará la oportuna Resolución cuya parte dispositiva se publicará en el Boletín Oficial del Estado.
+
+3\. Las solicitudes de homologación, convalidación y equivalencia a efectos profesionales, de las formaciones de entrenadores a las que se refiere la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre, se podrán formular individualmente por los interesados, para la modalidad de salvamento y socorrismo, dentro del plazo de 10 años que empezará a contar desde el día siguiente al de la publicación en el Boletín Oficial del Estado de los criterios comunes de la modalidad, según se establece en el apartado 2 de esta disposición adicional. La resolución del procedimiento se notificará en el plazo máximo de seis meses contados a partir de la recepción de la solicitud, pondrá fin a la vía administrativa y no será de aplicación el plazo establecido para la resolución del expediente recogido en el artículo séptimo, apartado dos de la Orden ECD/189/2004, de 21 de enero.
+
+4\. Si en los procedimientos regulados por este real decreto no recayera resolución expresa en los plazos señalados en cada caso, se entenderá desestimada de acuerdo con lo dispuesto en la disposición adicional vigésimo novena de la Ley 14/2000, de 29 de diciembre, de medidas fiscales, administrativas y del orden social, y de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Disposición transitoria tercera. Perfil de los evaluadores de las pruebas de carácter específico.
+
+Hasta el momento de la publicación en el Boletín Oficial del Estado de los criterios comunes de la modalidad de salvamento y socorrismo a efectos de homologación, convalidación y equivalencia profesional, según se establece en el apartado 2 de la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre, podrán ser evaluadores de las pruebas de carácter específico aquellos que estuvieran en disposición de homologar o tramitar la equivalencia profesional a Técnico Deportivo Superior en Salvamento y Socorrismo, desde formaciones a las que se refiere la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre, y de la disposición transitoria primera de los Reales Decretos 1913/1997, de 19 de diciembre, y 1363/2007, de 24 de octubre.
+
+### Disposición derogatoria única. Derogación de normas.
+
+Quedan derogadas todas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+### Disposición final primera. Título competencial.
+
+El presente real decreto tiene carácter de norma básica y se dicta, al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+
+### Disposición final segunda. Implantación de los Títulos.
+
+Las Administraciones educativas podrán implantar, de forma progresiva ciclo a ciclo, el nuevo currículo de estas enseñanzas desde el curso escolar 2012-2013.
+
+### Disposición final tercera. Autorización para el desarrollo.
+
+Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el RD 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se autoriza al titular del Ministerio de Educación para la modificación y actualización de los Anexos VIII, IXA y X.
+
+### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 24 de junio de 2011.
+
+JUAN CARLOS R.
+
+El Ministro de Educación,
+
+ÁNGEL GABILONDO PUJOL
+
+## ANEXO I — Distribución horaria de las enseñanzas mínimas
+
+|  | Enseñanzas mínimas |
+|---|---|
+| *Bloque común* |  |
+| MED-C101: Bases del comportamiento deportivo. | 10 h |
+| MED-C102: Primeros auxilios. | 15 h |
+| MED-C105: Actividad físico-deportiva para personas con discapacidad. | 5 h |
+| MED-C104: Organización deportiva. | 5 h |
+| Total. | 35 h |
+| *Bloque específico* |  |
+| MED-SSSS102: Instalaciones acuáticas y materiales. | 15 h |
+| MED-SSSS103: Metodología de salvamento y socorrismo. | 30 h |
+| MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo | 10 h |
+| MED-SSSS105: Seguridad e intervención en Instalaciones Acuáticas. | 35 h |
+| MED-SSSS106: Formación práctica. | 80 h |
+| Total. | 170 h |
+| Total Enseñanzas mínimas. | 205 h |
+
+|  | Enseñanzas mínimas |
+|---|---|
+| *Bloque común* |  |
+| MED-C201: Bases del aprendizaje deportivo. | 25 h |
+| MED-C202: Bases del entrenamiento deportivo. | 35 h |
+| MED-C206: Iniciación deportiva para personas con discapacidad. | 10 h |
+| MED-C204: Organización y legislación deportiva. | 10 h |
+| MED-C205. Deporte y género. | 5 h |
+| Total. | 85 h |
+| *Bloque específico* |  |
+| MED-SSSS-201: Escuela de salvamento y socorrismo. | 25 h |
+| MED-SSSS-202: Preparación física del socorrista. | 15 h |
+| MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo | 40 h |
+| MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo. | 25 h |
+| MED-SSSS-205: Espacios acuáticos y materiales. | 25 h |
+| MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales. | 35 h |
+| MED-SSSS-207: Formación Práctica. | 110 h |
+| Total. | 275 h |
+| Total Enseñanzas mínimas. | 360 h |
+
+> Se modifica por el art. 6.4 a 6 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO II — Objetivos generales y módulos de enseñanza deportiva del ciclo inicial de grado medio en salvamento y socorrismo
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos II.a hasta el II.j, por el art. 6.7 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO II.a — Objetivos generales
+
+a. Ejecutar técnicas básicas de la natación relacionadas con el salvamento y las técnicas básicas de salvamento y socorrismo propias de este nivel con la seguridad suficiente y tomando conciencia de lo realizado, para servir de modelo en el proceso de enseñanza-aprendizaje de la iniciación al medio acuático y al salvamento y socorrismo.
+
+b. Establecer y transmitir la información sobre la actividad y recoger la información sobre los participantes, analizando las características de la información y aplicando procedimientos establecidos, para atender y motivar al socorrista.
+
+c. Analizar la ejecución técnica en el nivel de iniciación, utilizando procedimientos establecidos y comparando la ejecución técnica con los estándares propios de la iniciación al medio acuático y al salvamento y socorrismo para valorar la ejecución de los socorristas, determinar su nivel y concretar el agrupamiento.
+
+d. Interpretar y, adaptar la programación de referencia y la organización de la sesión, utilizando criterios de elección y temporalización de las tareas, discriminando la información sobre las características del grupo y las condiciones materiales existentes, para concretar la sesión de enseñanza-aprendizaje de la iniciación al medio acuático y al salvamento y socorrismo.
+
+e. Elegir y demostrar las técnicas de dirección y procedimientos de control de las contingencias, aplicando instrumentos de observación y control y resolviendo supuestos, para dinamizar sesiones de enseñanza-aprendizaje de iniciación al medio acuático y al salvamento y socorrismo.
+
+f. Seleccionar, comprobar y ajustar los medios materiales e instalaciones acuáticas propias de la iniciación al medio acuático y al salvamento y socorrismo, aplicando los procedimientos establecidos, operando con los instrumentos de reparación y mantenimiento, para facilitar la disponibilidad y la adecuada utilización de los medios necesarios.
+
+g. Identificar y describir las variables que intervienen en el desarrollo de la actividad, aplicando los procedimientos establecidos y clasificando la información obtenida, para valorar el desarrollo de la sesión de iniciación en el medio acuático, y el acompañamiento en el salvamento y socorrismo y ajustar el proceso de enseñanza-aprendizaje.
+
+h. Identificar las condiciones de seguridad de las piscinas e instalaciones acuáticas y medios propios de la iniciación deportiva, aplicando procedimientos establecidos y la normativa vigente, para controlar la seguridad en la práctica de las actividades acuáticas en piscinas e instalaciones acuáticas, y de iniciación al medio acuático y al salvamento y socorrismo.
+
+i. Elegir las medidas preventivas de riesgo en el medio acuático, en piscinas e instalaciones acuáticas y demostrar las técnicas de autosalvamento, salvamento y socorrismo, aplicando los procedimientos establecidos, para intervenir en situaciones potencialmente peligrosas.
+
+j. Describir, preparar y ejecutar los primeros auxilios, identificando las características de los supuestos y aplicando los protocolos establecidos, para asistir como primer interviniente en caso de accidente, situación de emergencia o enfermedad.
+
+k. Identificar las características de las competiciones y eventos propios de la iniciación deportiva en salvamento y socorrismo, analizando el reglamento y las bases de competición para seleccionar a los socorristas en función de su nivel y características.
+
+l. Identificar y describir los procesos de inscripción y acompañamiento de los socorristas así como los aspectos técnicos y tácticos de la competición y eventos propios de la iniciación deportiva en salvamento y socorrismo, analizando supuestos, aplicando los procedimientos establecidos y teniendo en cuenta el reglamento, para acompañar y dirigir a los socorristas en competiciones de este nivel.
+
+m. Identificar y describir las características organizativas de las competiciones y eventos propios de la iniciación deportiva en salvamento y socorrismo, enumerando los medios materiales y humanos necesarios, para colaborar e intervenir en su organización y gestión.
+
+n. Identificar y describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los socorristas, para transmitir valores propios de salvamento y socorrismo a través del comportamiento ético personal.
+
+ñ. Identificar y describir las variables que intervienen en el desarrollo de la actividad de iniciación al medio acuático y la iniciación deportiva al salvamento y socorrismo, aplicando los procedimientos establecidos y clasificando la información obtenida que permita el ajuste y mejora del proceso de enseñanza-aprendizaje.
+
+o. Reconocer y promover los valores de compromiso, trabajo bien hecho y aprendizaje constante, describiendo las actitudes que reflejan estos valores, para mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el desempeño de su labor como técnico.
+
+p. Identificar y describir los principios que fundamentan el trabajo en equipo, siendo consciente de la importancia del liderazgo y la comunicación, para mantener la iniciativa y autonomía dentro del grupo de trabajo.
+
+q. Identificar y describir las características básicas de las principales discapacidades, siguiendo los procedimientos de actuación establecidos y fijando las condiciones básicas de relación y comunicación, para facilitar la integración y normalización de las personas con discapacidad.
+
+> Se numera como Anexo II.a por el art. 6.7.a) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.b — Módulo común de enseñanza deportiva: Bases del comportamiento deportivo. Código: MED-C101
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Identifica las características motrices, psicológicas, afectivas y sociales de la persona deportista en la iniciación deportiva, relacionándolas con los estadios madurativos de la infancia.**
+
+a) Se han descrito los diferentes estadios madurativos de la infancia, destacando las particularidades de cada uno.
+
+b) Se han descrito las características motrices, psicológicas, afectivas y sociales de los niños y niñas en la primera etapa del proceso de aprendizaje motor.
+
+c) Se han relacionado las características de los niños y niñas en la iniciación deportiva con el estadio madurativo en el que se encuentra, a partir de la observación y recogida de datos.
+
+d) Se han identificado los intereses y las motivaciones características de las personas en la etapa de la infancia, en una muestra de deportistas con diferentes perfiles.
+
+e) Se han analizado los efectos de la diversidad y variabilidad de la práctica deportiva en la consecución de un desarrollo natural del deportista acorde con su estado madurativo.
+
+**RA-2. Conduce el grupo describiendo y aplicando diferentes técnicas de comunicación, dinámicas grupales y estrategias de resolución de conflictos, en un entorno motivante de aprendizaje.**
+
+a) Se han descrito las diferentes técnicas de comunicación verbal y no verbal, y las principales barreras e interferencias existentes.
+
+b) Se han empleado las técnicas y estrategias de comunicación en la presentación de tareas propuestas, así como la disposición espacial y del alumnado, más oportunas en el intercambio de información.
+
+c) Se ha valorado la importancia de contar con habilidades comunicativas y sociales en las relaciones interpersonales, a partir del análisis de situaciones simuladas.
+
+d) Se han descrito las principales fuentes de conflicto, tanto individuales como grupales, condicionadas por la heterogeneidad de los/las deportistas.
+
+e) Se han aplicado estrategias de recogida de información que permitan conocer mejor al grupo y prevenir conflictos.
+
+f) Se han aplicado dinámicas de grupo, basadas en el aprendizaje cooperativo y el trabajo en equipo, orientadas hacia la eficiencia y la responsabilidad grupal.
+
+g) Se han utilizado estrategias de resolución de conflictos en el grupo promoviendo y trasmitiendo principios de respeto, sinceridad, empatía, compromiso, igualdad y no discriminación por características personales y/o sociales de ningún tipo.
+
+h) Se ha valorado la importancia de una actitud tolerante y de empatía para conseguir la confianza del grupo, a partir del análisis de los modelos de intervención.
+
+i) Se han descrito aquellos aspectos del entorno familiar y del contexto social que ejercen una influencia positiva o negativa en la iniciación deportiva de niños y niñas.
+
+j) Se han aplicado estrategias de corrección de actitudes contrarias y discriminatorias o violentas del entorno familiar o del contexto social en la iniciación deportiva, a partir de una intervención directa sobre las causas del problema.
+
+k) Se ha analizado la importancia de los valores positivos de la familia y del contexto social en la práctica deportiva, y su influencia en los comportamientos del deportista.
+
+l) Se han aplicado estrategias de mantenimiento de la motivación y el disfrute de todas las personas como elementos clave en la fidelización con la práctica deportiva en etapas posteriores.
+
+m) Se ha demostrado interés por valorar el proceso de aprendizaje y la actitud del deportista por encima del resultado obtenido y su aptitud.
+
+**RA-3. Transmite valores personales y sociales aplicando las técnicas adecuadas y tomando conciencia sobre las propias actitudes y comportamientos.**
+
+a) Se han descrito los valores personales y sociales que se pueden transmitir a través del deporte, a partir de los comportamientos que los representan.
+
+b) Se ha constatado la repercusión de los comportamientos y actitudes del técnico en la transmisión de valores personales y sociales en la iniciación deportiva.
+
+c) Se ha valorado la importancia del respeto al juego limpio, a uno/a mismo/a, a los demás y al entorno durante la práctica deportiva, en contextos con comportamientos poco éticos.
+
+d) Se han aplicado estrategias de transmisión de valores personales y sociales a través del deporte.
+
+e) Se ha demostrado interés por garantizar principios de igualdad y no discriminación, eliminando estereotipos y respondiendo a las diferencias individuales, en entornos diversos y heterogéneos.
+
+f) Se ha reflexionado sobre los propios prejuicios y estereotipos que generan discriminación, a partir de situaciones de conflicto moral.
+
+Contenidos básicos
+
+**RA-1. Identifica las características motrices, psicológicas, afectivas y sociales del/de la deportista en la iniciación deportiva, relacionándolas con los estadios madurativos de la infancia.**
+
+1\. Crecimiento, maduración y desarrollo.
+
+2\. Patrones motores básicos en la infancia.
+
+3\. Características motrices, psicológicas, afectivas y sociales de los niños y de las niñas.
+
+4\. Intereses y motivaciones en la infancia. Motivaciones intrínsecas y extrínsecas.
+
+5\. Técnicas elementales de recogida de información a partir de la Teoría del procesamiento de la información.
+
+6\. La actividad físico-deportiva en los estadios madurativos de la infancia:
+
+– La iniciación deportiva.
+
+– Diversidad y variabilidad de experiencias deportivas en la iniciación y sus efectos positivos sobre el desarrollo motor.
+
+– Respeto de los estados madurativos y las diferencias interindividuales e intraindividuales.
+
+**RA-2. Conduce el grupo describiendo y aplicando diferentes técnicas de comunicación, dinámicas grupales y estrategias de la resolución de conflictos, en un entorno motivante de aprendizaje.**
+
+1\. Proceso de comunicación. Elementos, tipos y dificultades.
+
+– Técnicas de comunicación: verbal y no verbal.
+
+– Técnicas de escucha activa: parafrasear, reformular, hacer preguntas, evitar interrupciones.
+
+– Valoración comunicativa del contexto: elementos facilitadores y obstáculos e inhibidores en el proceso de comunicación.
+
+– Disposición del espacio y el alumnado para la mejora de la comunicación en la sesión deportiva.
+
+– Información inicial y retroalimentación (Feedback) en la sesión deportiva.
+
+– Habilidades comunicativas, personales y sociales, en las relaciones interpersonales.
+
+– Uso no sexista del lenguaje.
+
+2\. Fuentes de conflicto en el grupo deportivo:
+
+– Falta de confianza mutua.
+
+– Competitividad y liderazgo.
+
+– Discriminación: Por razones de género, de capacidad, actitudes xenófobas.
+
+– Divergencia de intereses individuales en niños y en niñas.
+
+3\. La dinámica de grupos en la iniciación deportiva y su importancia.
+
+– Conducción de dinámicas orientadas a la valoración sociológica del grupo. Dinámicas de presentación y conocimiento del grupo. Técnicas sociométricas.
+
+4\. Conducción de dinámicas de grupo orientadas al trabajo cooperativo y la resolución de conflictos:
+
+– Dinámicas de autoconocimiento para la afirmación personal y la autoconfianza.
+
+– Dinámicas socioafectivas para crear confianza mutua.
+
+– Dinámicas de trabajo en equipo.
+
+– Dinámicas de resolución de conflictos en pequeños grupos, para la identificación y solución del problema.
+
+5\. Modelos de intervención del Técnico/a en los grupos de iniciación deportiva:
+
+– Modelo autoritario.
+
+– Modelo permisivo.
+
+– Modelo democrático.
+
+6\. Actitudes e influencia del contexto familiar en la iniciación deportiva.
+
+– Contextos familiares que ejercen una influencia positiva en la iniciación deportiva de niños y de las niñas.
+
+– Conductas y actitudes negativas más frecuentes protagonizadas por familiares en la iniciación deportiva.
+
+7\. Estrategias de intervención en el entorno familiar durante la iniciación deportiva. La entrevista con los responsables legales del deportista.
+
+8\. Motivaciones y actitudes propias de la infancia ante la práctica deportiva:
+
+– Principales motivos de abandono en jóvenes deportistas. La trascendentalización competitiva.
+
+– Estrategias para fomentar la participación, la motivación y el disfrute, como elementos clave para la fidelización deportiva, atendiendo a las diferencias de género.
+
+– Valoración del proceso de aprendizaje por encima del resultado deportivo.
+
+– Valoración de la actitud de los/las deportistas por encima de su aptitud.
+
+**RA-3. Transmite valores personales y sociales aplicando las técnicas adecuadas y tomando conciencia sobre las propias actitudes y comportamientos.**
+
+1\. La responsabilidad del técnico/a deportivo en la transmisión de valores éticos en el deporte y en evitar los contravalores.
+
+2\. Superación de la idea de bondad natural del deporte en cuanto a la transmisión de valores éticos.
+
+3\. Igualdad en el deporte: eliminación de estereotipos y respuesta a diferencias individuales (de sexo-género, capacidad, social, cultural, racial…). La interseccionalidad.
+
+4\. Juego limpio y deportividad (conductas éticas en la práctica deportiva).
+
+5\. Estrategias para la transmisión de valores en el deporte: reflexión, establecimiento de normas consensuadas, desarrollo del juicio moral, autocontrol de la conducta, análisis, desarrollo de la empatía y comprensión crítica de temas éticamente relevantes y encuentros de grupo.
+
+6\. Autoevaluación y reflexión de los propios prejuicios y estereotipos personales, incluidos los de género.
+
+> Se numera como Anexo II.b y se sustituye por el que figura como Anexo I.a del Real Decreto 534/2026, de 30 de junio, según establece su art. 6.7.b). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.c — Módulo común de enseñanza deportiva: Primeros auxilios. Código: MED-C102
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Identifica los riesgos potenciales de la práctica deportiva aplicando protocolos de vigilancia y acciones preventivas en función del entorno.**
+
+a) Se han identificado los diferentes niveles de riesgo en función del entorno de actuación.
+
+b) Se han aplicado los protocolos de vigilancia y acciones preventivas en situaciones simuladas de iniciación deportiva en la instalación o medio de actuación.
+
+c) Se han descrito las características del equipamiento y materiales vinculados con la seguridad en la práctica deportiva.
+
+**RA-2. Valora de forma inicial la situación del accidente deportivo, aplicando protocolos establecidos.**
+
+a) Se ha utilizado la terminología médico-deportiva básica relacionada con los primeros auxilios destacando la diferencia entre emergencia y urgencia.
+
+b) Se han identificado los protocolos universales relacionados con la alerta al deportista lesionado y la secuencia de actuación.
+
+c) Se han aplicado justificadamente los protocolos de valoración en diferentes situaciones simuladas de accidente o lesión.
+
+d) Se han identificado los signos y mecanismos de producción de los diferentes tipos de traumatismos, lesiones osteoarticulares y músculo-tendinosas más habituales en el deporte.
+
+e) Se han identificado los signos y mecanismos de producción de los accidentes o lesiones provocadas por otros agentes externos (frío, calor, agentes químicos y biológicos).
+
+**RA-3. Interviene en situaciones de accidentes derivados de la práctica deportiva, describiendo los sistemas de emergencia, seleccionando el material necesario y aplicando los protocolos de intervención de primeros auxilios.**
+
+a) Se ha descrito la organización de los sistemas de emergencia que intervienen en la práctica de actividad físico-deportiva.
+
+b) Se han aplicado de manera justificada los protocolos de intervención ante situaciones de emergencia o accidentes habituales en el deporte.
+
+c) Se han aplicado las técnicas de primeros auxilios en situaciones prácticas en las que se presenten traumatismos osteoarticulares y músculo-tendinosas frecuentes en el deporte.
+
+d) Se han descrito las técnicas básicas de movilización y traslado ante un accidente deportivo y las repercusiones de una mala movilización y de un traslado inadecuado.
+
+e) Se han aplicado las técnicas y protocolos establecidos de Reanimación Cardio Pulmonar en el entorno deportivo por los comités internacionales de reanimación en situaciones de práctica.
+
+f) Se han aplicado las técnicas de desobstrucción de la vía aérea en situaciones simuladas.
+
+g) Se han aplicado los protocolos específicos de desfibrilación externa (DESA-DEA) en situaciones simuladas.
+
+h) Se han ejecutado los procedimientos de actuación en situaciones simuladas de accidentes relacionados con hemorragias, shocks y síncopes.
+
+i) Se han ejecutado los procedimientos de actuación en situaciones simuladas de accidentes o lesiones relacionados con otros agentes externos (frío, calor, agentes químicos y biológicos).
+
+j) Se han seleccionado los materiales básicos de un botiquín de primeros auxilios adaptado a una situación práctica deportiva.
+
+k) Se han descrito los límites de actuación del técnico deportivo en los procedimientos aplicados en accidentes deportivos.
+
+**RA-4. Emplea técnicas de autocontrol y de apoyo psicológico al accidentado y acompañantes, describiendo y aplicando las estrategias de comunicación más adecuadas.**
+
+a) Se han descrito los factores que predisponen a la ansiedad en situaciones de accidente o lesiones derivadas de la práctica deportiva.
+
+b) Se han identificado los posibles estados emocionales de los/las deportistas y las personas implicadas ante una lesión o accidente.
+
+c) Se han descrito las técnicas de control de la ansiedad y el estrés más habituales en situaciones de lesión o accidente deportivo.
+
+d) Se ha valorado la importancia de autocontrolarse ante situaciones de estrés producidas por un accidente deportivo.
+
+e) Se han aplicado estrategias básicas de comunicación en situaciones de prestación de primeros auxilios.
+
+Contenidos básicos
+
+**RA-1. Identifica los riesgos potenciales de la práctica deportiva aplicando protocolos de vigilancia y acciones preventivas en función del entorno.**
+
+1\. Riesgos específicos en función del entorno o medio donde se desarrolla la actividad deportiva.
+
+– Epidemiología de los accidentes según disciplinas deportivas y entornos para su prevención.
+
+– Riesgos en las actividades físico-deportivo-recreativas en el medio natural.
+
+– Riesgos en las actividades físico-deportivo-recreativas en el medio acuático.
+
+– Riesgos en la práctica de actividades físico-deportivo-recreativas en instalaciones deportivas abiertas y cerradas.
+
+2\. Acciones preventivas en función del entorno de actuación en el medio natural, en el medio acuático y en instalaciones deportivas abiertas y cerradas.
+
+– Acciones preventivas en función del entorno de práctica deportiva.
+
+– Generación de entornos seguros y de autoprotección.
+
+– Materiales de protección personal para el técnico deportivo y el deportista.
+
+– Utilización del equipamiento deportivo para la prevención de accidentes en función del entorno en el que se desarrolla la práctica deportiva.
+
+**RA-2. Valora de forma inicial la situación del accidente deportivo, aplicando protocolos establecidos.**
+
+1\. Terminología común relacionada con emergencias.
+
+2\. Relación entre conceptos de urgencia y emergencia.
+
+3\. Valoración de los signos vitales:
+
+– Signos y síntomas para valorar en situaciones de urgencia (i).
+
+– Signos frecuentes de consulta que indican gravedad.
+
+4\. Valoración primaria ABC:
+
+– Signos de inconsciencia.
+
+– Signos de ahogamiento y atragantamiento.
+
+– Valoración de otras situaciones de riesgo vital: síncopes, desmayos, shock por traumatismos importantes o crisis asmática.
+
+5\. Valoración secundaria: localización de lesiones.
+
+6\. Traumatismos mecánicos: trastornos osteoarticulares. Concepto y valoración.
+
+– Contusiones.
+
+– Fracturas.
+
+– Luxación.
+
+– Esguinces.
+
+– Lesiones musculares.
+
+7\. Valoración de trastornos derivados de agentes mecánicos. Lesiones en tejidos blandos: heridas, hemorragias y contusiones.
+
+8\. Valoración de trastornos derivados de factores ambientales.
+
+– Efectos nocivos del calor, frío, tormentas y mal de altura.
+
+– Lesiones acuáticas y subacuáticas. Ahogamiento y riesgos de la apnea.
+
+– Mordeduras y picaduras.
+
+– Intoxicación por alimentos.
+
+**RA-3. Interviene en situaciones de accidentes derivados de la práctica deportiva, describiendo los sistemas de emergencia, seleccionando el material necesario y aplicando los protocolos de intervención de primeros auxilios.**
+
+1\. Sistemas de emergencias: modelos de coordinación.
+
+– Modelos de coordinación de sistemas de emergencias.
+
+– La importancia del 112.
+
+– Triage como sistemática de actuación para valorar la prioridad de la intervención del técnico deportivo.
+
+2\. Conducta PAS: proteger, avisar, socorrer.
+
+3\. Accidentes urgentes:
+
+– Primera fase: cadena de supervivencia.
+
+– Soporte vital básico en el adulto (RCP básica).
+
+– Soporte vital avanzado. Desfibrilación externa semiautomática.
+
+– Desobstrucción de las vías aéreas en el deportista.
+
+– RCP en personas ahogadas.
+
+– Atención a situaciones de riesgo vital: pérdidas de conciencia y desmayos, traumatismos importantes, shock y crisis asmática.
+
+4\. Accidentes y traumatismos:
+
+– Necesidad de traslado.
+
+– Técnicas básicas de movilización rápida de urgencia.
+
+– Conocimiento de las repercusiones de realizar una movilización no adecuada.
+
+– Posiciones de seguridad y espera.
+
+– Materiales de transporte e inmovilización en urgencias.
+
+5\. Atención trastornos osteoarticulares:
+
+– Atención a fracturas.
+
+– Atención a posibles luxaciones.
+
+– Atención a posibles esguinces.
+
+– Atención a posibles lesiones musculares.
+
+6\. Atención a trastornos derivados de agentes mecánicos. Lesiones en tejidos blandos: heridas, hemorragias y contusiones:
+
+– Contusión de tejidos blandos.
+
+– Heridas.
+
+– Hemorragias.
+
+7\. Atención a trastornos vasculares provocados por agentes mecánicos: heridas y hemorragias:
+
+– Atención a las contusiones.
+
+– Atención a las heridas.
+
+– Atención a las hemorragias.
+
+8\. Atención a problemas derivados de factores ambientales:
+
+– Causados por el calor: golpe de calor e insolación.
+
+– Causados por el frío: hipotermia y congelaciones.
+
+– Causados por tormentas y causas eléctricas.
+
+– Causados por la altitud.
+
+– Problemas acuáticos y subacuáticos.
+
+– Causados por mordeduras y picaduras.
+
+– Causados por intoxicaciones alimentarias.
+
+9\. Atención a lesiones menores:
+
+– Accidentes en la cabeza y la cara: accidentes dentales, oculares, nasales, óticos y cefaleas.
+
+– Diarrea aguda.
+
+– Infecciones músculo-esqueléticas: celulitis.
+
+– Ampollas.
+
+10\. Material necesario para la atención a accidentes deportivos:
+
+– Botiquín básico: botiquín de campo y/o de emergencia.
+
+– Botiquín avanzado según entorno específico.
+
+**RA-4. Emplea técnicas de autocontrol y de apoyo psicológico al accidentado y acompañantes, describiendo y aplicando las estrategias de comunicación más adecuadas.**
+
+1\. Importancia de las estrategias de comunicación en los accidentes que se producen en la práctica deportiva:
+
+– Finalidades y principios básicos.
+
+2\. Técnicas básicas de comunicación ante un accidente:
+
+– Elementos de la comunicación verbal y no verbal.
+
+– Empatía.
+
+– Escucha activa y comprensión del mensaje.
+
+– Técnicas de comunicación ante las personas cercanas al accidente: deportistas, auxiliares y/o familiares.
+
+3\. Pautas básicas de intervención psicológica tras accidentes deportivos:
+
+– Reacciones iniciales.
+
+– Fases de una crisis emocional en accidentes.
+
+– Estrés postraumático.
+
+4\. Factores que predisponen a la ansiedad en situaciones de accidente o emergencia. Manejo y control del estrés:
+
+– Reacciones ante el estrés.
+
+– Orientaciones para controlar mejorar altos niveles de estrés del técnico deportivo.
+
+5\. Crisis de ansiedad:
+
+– Signos y síntomas comunes.
+
+– Acciones recomendadas para el control de la ansiedad del deportista y acompañantes.
+
+– Conductas a evitar.
+
+> Se numera como Anexo II.c y se sustituye por el que figura como Anexo I.b del Real Decreto 534/2026, de 30 de junio, según establece su art. 6.7.c). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.d — Módulo común de enseñanza deportiva: Organización deportiva. Código: MED-C104
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Diferencia la organización deportiva a nivel local y autonómico, identificando sus funciones generales y las características de sus programas, utilizando el marco legal correspondiente y aplicando para ello una terminología básica adecuada.**
+
+a) Se ha diferenciado entre la organización deportiva a nivel local y autonómico, empleando la terminología básica adecuada y conforme al marco legal vigente, a partir del análisis de un caso práctico.
+
+b) Se han concretado las funciones generales de las organizaciones deportivas locales y autonómicas, a partir de la observación de organizaciones reales.
+
+c) Se han enumerado las características principales de los programas y/o acciones de las organizaciones deportivas locales y autonómicas, a partir del análisis de casos reales.
+
+**RA-2. Identifica las estructuras organizativas y estrategias del asociacionismo deportivo local y autonómico, analizando las formas de organización, la documentación necesaria para el apoyo institucional y describiendo las estrategias de promoción de la igualdad de acceso y participación.**
+
+a) Se han identificado las formas principales de organización deportiva local y autonómica, mediante la comparación de sus características distintivas y competencias específicas.
+
+b) Se ha enumerado la documentación básica necesaria para el apoyo institucional a asociaciones y federaciones deportivas en el ámbito local y autonómico, mediante el análisis de convocatorias reales.
+
+c) Se han descrito las estrategias clave empleadas, desde el asociacionismo deportivo, en la mejora del acceso y fomento de la participación igualitaria en el deporte, a través del análisis de casos exitosos y la identificación de las barreras existentes.
+
+Contenidos básicos
+
+**RA-1. Diferencia la organización deportiva a nivel local y autonómico, identificando sus funciones generales y las características de sus programas, utilizando el marco legal correspondiente y aplicando para ello una terminología básica adecuada.**
+
+1\. La legislación básica del estado y de la comunidad autónoma:
+
+– El marco competencial del deporte en el ámbito local y autonómico.
+
+– Interpretación de la legislación deportiva básica: Objetivo y rango de la norma.
+
+2\. Las fuentes de información en normativa deportiva:
+
+– La terminología básica en normativa deportiva.
+
+– Las publicaciones oficiales que reflejan la normativa deportiva.
+
+3\. La legislación básica en el ámbito local y autonómico:
+
+– Interpretación de la legislación deportiva básica: Objetivo y rango de la norma.
+
+4\. Funciones básicas de las organizaciones deportivas a nivel local y autonómico.
+
+5\. Características de los programas de las organizaciones deportivas locales y autonómicas.
+
+**RA-2. Identifica las estructuras organizativas y estrategias del asociacionismo deportivo local y autonómico, analizando las formas de organización, la documentación necesaria para el apoyo institucional y describiendo las estrategias de promoción de la igualdad de acceso y participación.**
+
+1\. Estructura deportiva local y autonómica.
+
+2\. Principales formas de organización deportiva a nivel autonómico y local: asociaciones y federaciones deportivas.
+
+3\. Las características principales de las principales formas de organización deportiva local y autonómica.
+
+4\. El marco competencial del deporte en el ámbito local y autonómico.
+
+5\. Las vías de apoyo al asociacionismo deportivo:
+
+– Tipos y formas de ayudas: convocatorias a nivel local y autonómico.
+
+– Las vías de apoyo al asociacionismo deportivo.
+
+– Procedimientos para la gestión de apoyos al asociacionismo deportivo en la administración local y autonómica.
+
+6\. Estrategias de inclusión y participación en el deporte desde el asociacionismo local y autonómico.
+
+7\. Iniciativas para promover la igualdad de género y accesibilidad en el deporte.
+
+> Se numera como Anexo II.d y se sustituye por el que figura como Anexo I.c del Real Decreto 534/2026, de 30 de junio, según establece su art. 6.7.e). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.e — Módulo común de enseñanza deportiva: Actividad físico-deportiva para personas con discapacidad. Código: MED-C105
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Identifica los principales tipos de discapacidad describiendo sus características básicas, utilizando la terminología adecuada y el impacto de la práctica físico-deportiva.**
+
+a) Se han descrito las características y limitaciones de los tipos de discapacidad que conllevan alteraciones de la estructura y/o funciones corporales que condicionan la actividad sensorial, cognitiva o motriz en el ámbito deportivo.
+
+b) Se ha aplicado la terminología específica relativa a las personas con discapacidad.
+
+c) Se han descrito los beneficios que genera la práctica deportiva en las personas con discapacidad.
+
+**RA-2. Informa a las personas con discapacidad sobre las posibilidades de práctica físico-deportivas, aplicando pautas de actuación específicas y mostrando actitudes positivas hacia la inclusión de personas con discapacidad.**
+
+a) Se han descrito las posibilidades de práctica deportiva en entornos deportivos convencionales, específicos o inclusivos.
+
+b) Se han escogido técnicas específicas de comunicación e interacción según el tipo de discapacidad.
+
+c) Se han aplicado técnicas de recogida de información acerca de los intereses, capacidades, experiencias previas y motivaciones de las personas con discapacidad hacia la práctica deportiva, en situaciones prácticas debidamente caracterizadas.
+
+d) Se ha mostrado una actitud positiva hacia la inclusión y participación de las personas con discapacidad en el deporte, en situaciones prácticas de inclusión.
+
+e) Se ha concienciado sobre la importancia de la práctica simulada de diferentes limitaciones sensoriales, cognitivas y motrices.
+
+Contenidos básicos
+
+**RA-1. Identifica los principales tipos de discapacidad describiendo sus características básicas, utilizando la terminología adecuada y el impacto de la práctica físico-deportiva.**
+
+1\. Tipos de discapacidad: concepto, características y limitaciones siguiendo la Clasificación Internacional del Funcionamiento, la Salud y la Discapacidad.
+
+2\. Terminología específica relativa a las personas con discapacidad y su práctica deportiva.
+
+3\. Beneficios de la práctica deportiva para las personas con discapacidad.
+
+4\. Sensibilización hacia las limitaciones sensoriales, cognitivas y motrices.
+
+**RA-2. Informa a las personas con discapacidad sobre las posibilidades de práctica físico-deportivas, aplicando pautas de actuación específicas y mostrando actitudes positivas hacia la inclusión de personas con discapacidad.**
+
+1\. Tipos de programas para la participación deportiva de personas con discapacidad.
+
+2\. Entornos deportivos convencionales, específicos e inclusivos.
+
+3\. Técnicas específicas de comunicación e interacción con personas con discapacidad.
+
+4\. Técnicas de recogida de información acerca de intereses, capacidades, experiencias previas y motivaciones relacionados con la práctica deportiva de personas con discapacidad.
+
+5\. Contacto directo y/o indirecto con personas con discapacidad en contextos deportivos.
+
+6\. Concepto y posibilidades de inclusión aplicados al deporte de personas con discapacidad.
+
+> Se añade como Anexo II.e, redactado conforme a lo establecido en el anexo I.d del Real Decreto 534/2026, de 30 de junio, según establece su art. 6.7.f). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> El anterior «Módulo común de enseñanza deportiva: Actividad física adaptada y discapacidad. Código: MED-C103» se suprime por el art. 6.7.d) del citado Real Decreto.
+
+## ANEXO II.f — Módulo específico de enseñanza deportiva: Instalaciones acuáticas y materiales. Código: MED-SSSS102
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica las características de las instalaciones acuáticas, interpretando la normativa relacionada, describiendo los posibles peligros y riesgos para los usuarios y la responsabilidad civil y penal derivada de sus actuaciones.
+
+a. Se han descrito las características de las instalaciones acuáticas en relación con la seguridad de los socorristas y usuarios, y la movilidad de los mismos.
+
+b. Se han identificando los posibles riesgos para los usuarios en una instalación acuática, y sus posibles causas.
+
+c. Se ha descrito el protocolo de supervisión de los riesgos y zonas de peligro de una instalación acuática, identificando los elementos de revisión, el orden de supervisión y la periodicidad de la misma.
+
+d. Se ha descrito el tipo de acondicionamiento, mantenimiento y periodicidad que precisa la instalación acuática.
+
+e. Se ha descrito la normativa sobre instalaciones acuáticas relacionada con su autorización para el baño público y las adaptaciones necesarias para el acceso de personas con discapacidad.
+
+f. Se ha identificado la responsabilidad civil y penal derivada de sus actuaciones en las instalaciones acuáticas.
+
+g. Se ha demostrado rigor y meticulosidad en la aplicación de las medidas de seguridad necesarias para los socorristas y usuarios.
+
+h. Se ha mostrado una actitud responsable ante la aplicación de la normativa en instalaciones acuáticas y desarrollo de sus funciones.
+
+2\. Selecciona el material de salvamento y socorrismo, e identifica el material necesario para la iniciación al medio acuático e iniciación deportiva al salvamento y socorrismo describiendo sus características y aplicando los procedimientos de mantenimiento del mismo.
+
+a. Se han descrito las características de los materiales de Salvamento de alcance, de contacto y de apoyo a la extracción y evacuación del accidentado.
+
+b. Se han descrito las actuaciones de mantenimiento de los materiales de Salvamento de alcance, de contacto y de apoyo a la extracción y evacuación del accidentado.
+
+c. Se han ejecutado las acciones de aclarado y colocación de los materiales de Salvamento de alcance, de contacto y de apoyo a la extracción y evacuación del accidentado.
+
+d. Se han descrito las características del material auxiliar utilizados en la iniciación al medio acuático y en la iniciación deportiva al salvamento y socorrismo.
+
+e. Se han descrito las actuaciones de mantenimiento del material auxiliar utilizado en la iniciación al medio acuático y en la iniciación deportiva al salvamento y socorrismo.
+
+f. Se han ejecutado las acciones de aclarado y colocación del material auxiliar utilizado en la iniciación al medio acuático y en la iniciación deportiva al salvamento y socorrismo.
+
+g. Se ha demostrado la realización de llamadas de socorro, urgencia y seguridad utilizando los medios de comunicación de una Instalación Acuática.
+
+h. Se han preparado los medios de comunicación necesarios en el desarrollo de una actividad en una instalación acuática:
+
+– Seleccionando los medios de comunicación que se emplearán en la actividad.
+
+– Comprobando y verificando la operatividad de los medios de comunicación.
+
+– Preparando los medios de comunicación teniendo en cuenta su transporte.
+
+– Aislando eficazmente los medios de comunicación de los factores ambientales que los puedan deteriorar.
+
+i. Se ha mostrado una actitud responsable hacia el uso y mantenimiento del material auxiliar de iniciación al medio acuático e iniciación deportiva al salvamento y socorrismo.
+
+j. Se ha mostrado una actitud responsable hacia el uso y el mantenimiento del material de comunicación.
+
+3\. Selecciona la información que una instalación acuática debe dar a sus usuarios y socorristas describiendo las normas de seguridad y de comportamiento de los usuarios y socorristas, y aplicando las técnicas de comunicación específicas.
+
+a. Se han identificado las normas de la instalación acuática de forma clara y precisa ajustándose a la normativa correspondiente.
+
+b. Se ha elaborado y expuesto un cartel informativo con las normas de la instalación acuática utilizando un lenguaje claro y sencillo en la transmisión de mensajes.
+
+c. Se han elaborado mensajes claros sobre las normas de uso de la instalación acuática para emitir por megafonía, informando a los usuarios de los mismos para garantizar un clima adecuado de convivencia y seguridad.
+
+d. Se han explicado y valorado las condiciones de utilización de una instalación acuática y su impacto medioambiental a través de un consumo racionado del agua y energía.
+
+e. Se han descrito las prácticas más usuales de los clientes de una instalación acuática y su influencia como impacto ambiental.
+
+f. Se han descrito y valorado las acciones individuales y/o colectivas de sensibilización en el respeto al medio ambiente y reducción del impacto ambiental.
+
+g. Se ha interiorizado una buena actitud y comportamiento ante el uso de la instalación acuática y su entorno.
+
+h. Se ha valorado la importancia de la transmisión de las normas como medio para prevenir y garantizar la seguridad de los usuarios en un clima de respeto y convivencia adecuado.
+
+Contenidos básicos
+
+1\. Identifica las características de las instalaciones acuáticas, interpretando la normativa relacionada, describiendo los posibles peligros y riesgos para los usuarios.
+
+– Las instalaciones acuáticas:
+
+– Tipos y características.
+
+– El lugar de trabajo: características.
+
+– Factores de riesgo en las instalaciones acuáticas.
+
+– Protocolo de supervisión de los riesgos de una instalación acuática:
+
+● Elementos de revisión.
+
+● Orden secuencial.
+
+● Acondicionamiento, mantenimiento y periodicidad.
+
+– Normativa y condiciones higiénicas sanitarias en las instalaciones acuáticas.
+
+– Aspectos ético-legales del socorrismo acuático.
+
+– Responsabilidad civil y penal del socorrista y del técnico deportivo.
+
+– El rigor en la aplicación de las normas y medidas de seguridad en las instalaciones acuáticas.
+
+2\. Selecciona el material de salvamento y socorrismo, e identifica el material necesario para la iniciación al medio acuático e iniciación deportiva al salvamento y socorrismo describiendo sus características y aplicando los procedimientos de mantenimiento del mismo.
+
+– El material auxiliar para iniciación al medio acuático y al salvamento y socorrismo.
+
+\* Características, utilización, mantenimiento, almacenamiento y control.
+
+– Sistemas de comunicación en las instalaciones acuáticas.
+
+– Señales acústicas mediante silbato.
+
+– Señales visuales con material de Salvamento.
+
+– Señales visuales sin material.
+
+– Equipos de comunicación en Instalaciones acuáticas: preparación, medidas de protección durante su uso, utilización, almacenamiento y transporte.
+
+– Toma de conciencia de la importancia del mantenimiento del material y equipos de comunicación.
+
+3\. Selecciona la información que una instalación acuática debe dar a sus usuarios y socorristas describiendo las normas de seguridad y de comportamiento de los usuarios y socorristas, y aplicando las técnicas de comunicación específicas.
+
+– El usuario en las instalaciones acuáticas:
+
+– Comportamientos y actitudes.
+
+– Impacto medio ambiental: problemas y soluciones.
+
+– Normativa de funcionamiento en las Instalaciones Acuáticas:
+
+\* Contenidos, características, elaboración y exposición (cartelería, dípticos, etc.).
+
+– La transmisión del mensaje en las instalaciones acuáticas: la megafonía.
+
+– La importancia del respecto de las normas en las instalaciones acuáticas.
+
+> Se numera este módulo como Anexo II.f por el art. 6.7.g) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.g — Módulo específico de enseñanza deportiva: Metodología de salvamento y socorrismo. Código: MED-SSSS103
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora la ejecución de la técnica en la iniciación al medio acuático e iniciación deportiva al salvamento y socorrismo, identificando las características de su aprendizaje y explicando los aspectos claves de las habilidades básicas acuáticas y de las técnicas específicas, los errores más frecuentes en su ejecución, así como los criterios de seguridad a tener en cuenta.
+
+a. Se han enumerado los objetivos técnicos a alcanzar en la iniciación al medio acuático e iniciación deportiva al salvamento y socorrismo, explicando la ejecución de las diferentes habilidades básicas acuáticas (flotaciones, equilibrios, giros, saltos, propulsiones, respiración, saltos, lanzamientos y recepciones) y técnicas específicas en la etapa de iniciación (desplazamientos básicos adaptados, entradas, remolques, buceo y carrera).
+
+b. Se han identificado los aspectos fundamentales a considerar en el aprendizaje de las habilidades básicas acuáticas en iniciación al medio acuático y las técnicas específicas al salvamento y socorrismo, utilizando un vocabulario técnico que requiera su nivel.
+
+c. Se han identificado las diferencias entre la ejecución técnica del modelo ideal y la ejecución durante la etapa de iniciación en las técnicas de salvamento y socorrismo.
+
+d. Se ha descrito, sobre un supuesto práctico de ejecución técnica propia de la iniciación deportiva, la información que debe recibir el socorrista sobre la valoración técnica inicial, los errores de ejecución cometidos y el grado de consecución de los objetivos de la iniciación al medio acuático y al salvamento y socorrismo.
+
+e. Se han descrito los errores que se pueden presentar en el desarrollo de ejercicios de iniciación al medio acuático y al salvamento y socorrismo así como la forma de prevenirlos.
+
+f. Se ha interiorizado la necesidad de transmitir la información sobre los errores de ejecución, a los socorristas/usuarios, de forma eficaz y discreta reforzando su autovaloración positiva.
+
+g. Se ha comprendido la importancia de velar por la seguridad de los socorristas que desarrollan la actividad.
+
+2\. Concreta la programación de iniciación al medio acuático y al salvamento y socorrismo, identificando las características de la misma y adaptando secuencias de aprendizaje.
+
+a. Se han identificado los objetivos, medios, contenidos de aprendizaje, actividades secuenciadas e instrumentos de evaluación a partir de una programación general de referencia de iniciación al medio acuático.
+
+b. Se han descrito los criterios de adaptación de secuencias de aprendizaje y contenidos de aprendizaje de las habilidades básicas acuáticas a las condiciones de la iniciación al medio acuático.
+
+c. Se han identificado los objetivos, medios, contenidos de aprendizaje, actividades secuenciadas e instrumentos de evaluación a partir de una programación general de referencia de iniciación al salvamento y socorrismo.
+
+d. Se han descrito los criterios de adaptación de secuencias de aprendizaje y contenidos de aprendizaje de las técnicas deportivas específicas a las condiciones de la iniciación al salvamento y socorrismo.
+
+e. Se han descrito los recursos didácticos que se pueden utilizar durante la iniciación al medio acuático y al salvamento y socorrismo: demostraciones, ayudas visuales, soportes multimedia y ayudas manuales.
+
+f. Se han descrito secuencias de aprendizaje de las habilidades acuáticas y de las técnicas deportivas específicas de iniciación al salvamento y socorrismo, indicando las medidas de seguridad a utilizar.
+
+g. Se han concretado las sesiones de aprendizaje secuenciadas conforme a las directrices de la programación de referencia y adaptadas a las características del grupo, explicitando de forma detallada:
+
+– Los objetivos de la sesión.
+
+– La metodología.
+
+– La estructura de la sesión (calentamiento, núcleo, vuelta a la calma).
+
+– La selección y distribución de ejercicios, actividades, ejecución de técnicas, secuencias de movimientos.
+
+– La carga de trabajo.
+
+– Los aspectos de riesgo.
+
+– Los procedimientos de control y valoración del rendimiento y grado de satisfacción del alumno y del rendimiento de la actuación del propio técnico.
+
+h. Se ha valorado la importancia de introducir en el proceso de enseñanza-aprendizaje la adquisición de valores.
+
+i. Se han interiorizado las habilidades de cooperación y trabajo en equipo.
+
+3\. Dirige a los socorristas en sesiones de iniciación al medio acuático y de iniciación al salvamento y socorrismo demostrando habilidades básicas acuáticas y las técnicas específicas, utilizando material auxiliar y aplicando procedimientos de control, organización y dinamización en condiciones de seguridad.
+
+a. Se han descrito y aplicado las formas de organización y procedimientos de control del grupo en el desarrollo de las sesiones de iniciación al medio acuático y al salvamento y socorrismo.
+
+b. Se han descrito los criterios de eficacia en el comportamiento y la ubicación del técnico durante las sesiones de iniciación de manera que permita:
+
+– La comprensión de sus indicaciones.
+
+– Visualizar constantemente a los socorristas velando por su seguridad, anticipándose a las posibles contingencias y prestando especial atención a los síntomas de fatiga que puedan presentarse durante la ejecución práctica interviniendo en caso de necesidad.
+
+– Máxima eficiencia en sus intervenciones.
+
+– Captar el interés hacia la actividad.
+
+c. Se han seleccionado los aspectos de las habilidades básicas acuáticas en iniciación al medio acuático sobre los que incidir durante su demostración.
+
+d. Se han demostrado, con seguridad y eficacia, las siguientes técnicas específicas de iniciación deportiva al salvamento y socorrismo con y sin material auxiliar:
+
+– Saltos y entradas al agua y desplazamiento posterior.
+
+– Giros en los tres ejes con material auxiliar.
+
+– Lanzamiento y recepción de la cuerda.
+
+– Técnicas de recorrido subacuático.
+
+– Técnicas de remolque de maniquí.
+
+– Técnicas de desplazamiento en la tabla.
+
+– Técnica de carrera.
+
+e. Se han seleccionado los aspectos de las técnicas específicas de iniciación deportiva al salvamento y socorrismo sobre los que incidir durante su demostración.
+
+f. Se ha justificado la importancia de la demostración de las tareas por parte del técnico como factor de motivación y seguridad en las actividades de iniciación al salvamento y socorrismo.
+
+g. Se han identificado las posibles respuestas ante las contingencias que se puedan presentar durante el desarrollo de la sesión.
+
+h. Se ha valorado la importancia del respeto a los demás, del cumplimiento del reglamento y del cumplimiento de las normas de seguridad durante la realización de actividades de iniciación al medio acuático e iniciación deportiva al salvamento y socorrismo.
+
+i. Se ha argumentado la importancia de una atención constante y de una intervención rápida y eficiente sobre las incidencias que puedan ocurrir en las actividades de aprendizaje en la iniciación al medio acuático y al salvamento y socorrismo tomando conciencia de la misma.
+
+Contenidos básicos
+
+1\. Valora la ejecución de la técnica en la iniciación al medio acuático e iniciación deportiva al salvamento y socorrismo, identificando las características de su aprendizaje y explicando los aspectos claves y errores más frecuentes en su ejecución, así como los criterios de seguridad a tener en cuenta.
+
+– Iniciación al medio acuático:
+
+– Objetivos en relación con las habilidades básicas acuáticas: flotaciones, equilibrios, giros, saltos, lanzamientos y recepciones. El modelo ideal y errores más frecuentes:
+
+– Aspectos básicos del aprendizaje de las habilidades básicas acuáticas.
+
+– Iniciación al salvamento y socorrismo:
+
+– Objetivos en relación con: desplazamientos básicos adaptados, entradas al agua, remolques, lanzamientos, buceo y carrera. El modelo ideal y errores más frecuentes:
+
+– Aspectos básicos del aprendizaje de las técnicas básicas de iniciación al salvamento y socorrismo.
+
+– El Feedback como medio de información positiva para la corrección de los errores:
+
+– Información sobre la valoración inicial del nivel técnico del socorrista.
+
+– Información sobre el grado de consecución de los objetivos.
+
+– Información sobre la ejecución técnica, errores y corrección.
+
+– Información sobre el incumplimiento de normas a los socorristas y usuarios.
+
+2\. Concreta la programación de iniciación deportiva al salvamento y socorrismo, identificando las características de la misma y adaptando secuencias de aprendizaje.
+
+– La programación: Estructura y elementos que la conforman (objetivos, contenidos, criterios de evaluación, etc.).
+
+– La sesión: definición y estructura.
+
+– Objetivos, contenidos y secuencias de aprendizaje, actividades, e instrumentos de evaluación en las habilidades acuáticas.
+
+– Objetivos, contenidos y secuencias de aprendizaje, actividades, e instrumentos de evaluación de las técnicas deportivas específicas en iniciación al salvamento y socorrismo.
+
+– El riesgo en el medio acuático: Percepción del riesgo y medidas de seguridad.
+
+– Metodología en el proceso de enseñanza de la iniciación al salvamento y socorrismo: la adaptación de la programación a los socorristas.
+
+– Recursos didácticos en el proceso de enseñanza-aprendizaje:
+
+– Adquisición de confianza en el aprendizaje de técnicas específicas de iniciación al salvamento y socorrismo.
+
+– Adquisición de valores en el proceso de enseñanza de la iniciación al salvamento y socorrismo.
+
+– El trabajo en equipo en la adaptación de la programación y las actividades.
+
+3\. Dirige a los socorristas en sesiones de iniciación al medio acuático y de iniciación al salvamento y socorrismo demostrando la ejecución de las habilidades básicas de iniciación al medio acuático y de las técnicas específicas, utilizando material auxiliar y aplicando procedimientos de control, organización y dinamización, en condiciones de seguridad.
+
+– Organización del grupo y ubicación del técnico en la sesión.
+
+– La dirección y control de la sesión:
+
+– Errores más comunes.
+
+– La demostración técnica:
+
+– La técnica en la iniciación deportiva al Salvamento.
+
+– La demostración técnica como elemento motivador.
+
+– Las medidas de seguridad y su cumplimiento durante el desarrollo de la sesión:
+
+– Prevención.
+
+– Atención.
+
+– La transmisión de valores y respeto a los demás.
+
+> Se numera este módulo como Anexo II.g por el art. 6.7.h) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.h — Módulo específico de enseñanza deportiva: Organización de eventos de iniciación en salvamento y socorrismo. Código: MED-SSSS104
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Participa en el desarrollo de las actividades propias de la iniciación al salvamento y socorrismo (competiciones, eventos, actividades) analizando las características organizativas y los recursos humanos y materiales necesarios.
+
+a. Se han descrito las características básicas de la organización (normativa y reglamentos federativos aplicables, objetivos, fases de desarrollo) de los diferentes tipos de eventos y competiciones propias de la iniciación deportiva al salvamento y socorrismo.
+
+b. Se han identificado los medios materiales, las instalaciones y equipos necesarios en la organización de actividades, eventos o competiciones de iniciación deportiva al salvamento y socorrismo.
+
+c. Se han descrito las características de los medios humanos y las funciones que deben realizar en la organización y dinamización de actividades, eventos o competiciones de iniciación deportiva al salvamento y socorrismo.
+
+d. Se han seleccionado, en un supuesto práctico de actividad de iniciación deportiva al salvamento y socorrismo, los objetivos según los intereses y necesidades de los deportistas, motivando e incentivando la participación de los mismos.
+
+e. Se han descrito las características de la distribución, ubicación y circulación de participantes y público en general en una competición de iniciación deportiva al salvamento y socorrismo.
+
+f. Se han aplicado los procedimientos de elaboración de horarios y el orden de participación de los deportistas en una competición de iniciación deportiva al salvamento y socorrismo.
+
+g. Se han aplicado las técnicas y procedimientos de elaboración y distribución de los resultados en una competición de iniciación al salvamento y socorrismo.
+
+h. Se han descrito las características y aplicado el protocolo básico en la ceremonia de entrega de trofeos en una competición de iniciación al salvamento y socorrismo.
+
+i. Se ha demostrado comprensión y aceptación de los valores del consenso y del respeto a las normas democráticamente acordadas.
+
+j. Se ha demostrado tolerancia a los cambios organizativos surgidos como consecuencia de contingencias e imprevistos en la organización de un evento de salvamento y socorrismo.
+
+2\. Prevé la seguridad de las actividades de iniciación al salvamento y socorrismo, analizando la normativa de referencia y aplicando los protocolos establecidos para este tipo de eventos y actividades.
+
+a. Se han descrito las características de un plan de seguridad en actividades, eventos o competiciones de iniciación deportiva al salvamento y socorrismo.
+
+b. Se han enumerado los medios materiales y humanos necesarios en la realización de las acciones de protección y seguridad, rescate, ayuda e intervención, en su caso, en actividades y eventos de iniciación al salvamento y socorrismo.
+
+c. Se ha descrito la normativa básica del evento y los protocolos relativos a la comunicación, actuación y seguridad, durante actividades, eventos o competiciones de iniciación deportiva al salvamento y socorrismo.
+
+d. Se han identificado las medidas de protección y seguridad personal en función de la normativa vigente durante la realización de actividades, eventos o competiciones de iniciación deportiva al salvamento y socorrismo.
+
+e. Se han interpretado las instrucciones y reglamento de utilización de la indumentaria y material de seguridad, en competiciones de salvamento y socorrismo.
+
+f. Se ha demostrado rigor en la aplicación de las normas y protocolos de seguridad.
+
+3\. Colabora en la preparación de la competición o evento, identificando los requisitos de la actividad y describiendo las características del reglamento y los procesos de inscripción.
+
+a. Se han descrito las características del reglamento de competición en actividades de iniciación al salvamento y socorrismo.
+
+b. Se han descrito los diferentes tipos de permisos necesarios para realizar actividades de iniciación al salvamento y socorrismo, describiendo el procedimiento de solicitud y la entidad responsable de emitirlos.
+
+c. Se ha identificado la autoridad competente que permite la realización de actividades, eventos o competiciones, propias de la iniciación deportiva al salvamento y socorrismo.
+
+d. Se han descrito los plazos de entrega y recogida, así como las características de la documentación que el socorrista debe presentar para la participación en actividades, eventos o competiciones, propias de la iniciación deportiva al salvamento y socorrismo.
+
+e. Se han descrito los criterios de revisión y de identificación de la confidencialidad de la documentación de inscripción en actividades, eventos o competiciones, propias de la iniciación deportiva al salvamento y socorrismo.
+
+f. Se ha descrito la información que se debe facilitar a padres o tutores y deportistas en su participación en actividades, eventos o competiciones, propias de la iniciación deportiva al salvamento y socorrismo.
+
+g. Se han descrito los procedimientos de autorización que deben cumplimentar los padres o tutores de los hijos o tutelados que participan en actividades, eventos o competiciones propias de la iniciación deportiva al salvamento y socorrismo.
+
+h. Se ha mostrado una actitud crítica ante la práctica mal entendida de la competición y favorable al juego limpio.
+
+Contenidos básicos
+
+1\. Participa en el desarrollo de las actividades propias de la iniciación al salvamento y socorrismo (competiciones, eventos, actividades) analizando las características organizativas y los recursos humanos y materiales necesarios.
+
+– Organización, dirección y dinamización de competiciones y eventos en salvamento y socorrismo:
+
+– Objetivos de actividades y eventos en salvamento y socorrismo.
+
+– Tipos de actividades y eventos en salvamento y socorrismo.
+
+– Dinamización y motivación de actividades y eventos.
+
+– Reglamento Federativo.
+
+– Cronología deportiva: elaboración y distribución de horarios, orden de participación y resultados deportivos.
+
+– Protocolo y ceremonial deportivo: descripción y aplicación en la entrega de trofeos.
+
+– Identificación de los recursos humanos, Instalaciones y materiales necesarios en la organización de eventos de salvamento y socorrismo.
+
+– Distribución y ubicación de usuarios y socorristas.
+
+– Distribución y ubicación de los recursos materiales.
+
+– Actitud tolerante, valoración y respeto de las normas.
+
+2\. Prevé la seguridad de las actividades de iniciación al salvamento y socorrismo, analizando la normativa de referencia y aplicando los protocolos establecidos para este tipo de eventos y actividades.
+
+– La seguridad en las actividades de iniciación al salvamento y socorrismo:
+
+– El plan de seguridad en actividades deportivas de salvamento y socorrismo.
+
+– Recursos humanos y materiales necesarios.
+
+– Protocolos de comunicación, actuación, y seguridad (asistencia y evacuación) en actividades de iniciación al salvamento y socorrismo.
+
+– Rigor en la aplicación de las normas y protocolos de seguridad.
+
+– La necesidad de hacer respetar las normas de seguridad.
+
+– Funciones preventivas del técnico en la realización de actividades de iniciación al salvamento y socorrismo:
+
+– Identificación de las medidas de protección y seguridad personal.
+
+– Interpretación del reglamento en relación con la indumentaria y material de seguridad.
+
+3\. Colabora en la preparación de competición o evento, identificando los requisitos de la actividad y describiendo las características del reglamento y los procesos de inscripción.
+
+– Análisis del reglamento de competición en campeonatos de iniciación al salvamento y socorrismo.
+
+– Organización de eventos de salvamento y socorrismo.
+
+– Tramitación administrativa: autorización, permisos, solicitudes, plazos, etc.
+
+– Documentación:licenciadeportiva,inscripciones, autorizaciones a menores de edad, certificados médicos, confidencialidad de datos, etc.
+
+– Información de eventos a padres y usuarios.
+
+– Actitud favorecedora del juego limpio.
+
+> Se numera este módulo como Anexo II.h por el art. 6.7.i) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.i — Módulo específico de enseñanza deportiva: Seguridad e intervención en instalaciones acuáticas. Código: MED-SSSS105
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Controla y vigila la instalación acuática, describiendo y aplicando protocolos específicos y ejecutando técnicas específicas de vigilancia, control e intervención fuera del medio acuático.
+
+a. Se han descrito los principios generales del salvamento acuático.
+
+b. Se han descrito las características de las vías de evacuación del accidentado en una instalación acuática.
+
+c. Se han descrito los protocolos de vigilancia ante un supuesto de instalación, usuarios, medios materiales y humanos en relación con:
+
+– Las áreas de vigilancia.
+
+– Ubicación de los puestos de vigilancia.
+
+– Dotación de los puestos.
+
+– Rotación de los socorristas.
+
+– Recorridos (duración, periodicidad) de los socorristas.
+
+– Material utilizado en el recorrido.
+
+d. Se han descrito y clasificado las técnicas de vigilancia, mantenimiento de la atención en las labores de vigilancia en función de los medios materiales y humanos necesarios, y la calidad de la prevención.
+
+e. Se han descrito los errores más usuales que se cometen durante la vigilancia.
+
+f. Se han descrito los criterios de suspensión de la actividad, en función de una modificación de las condiciones de salubridad del centro acuático (calidad del agua, temperatura, del agua, tormenta eléctrica, etc.), entre otros.
+
+g. Se han descrito los protocolos de actuación ante conductas inadecuadas o incorrectas por parte de los usuarios y/o socorristas que practican la actividad deportiva en la instalación.
+
+h. Se han utilizado estrategias de resolución de conflictos, adecuándose a las características de una situación simulada.
+
+i. Se han elaborado y ejecutado los protocolos de actuación ante diferentes tipos de víctimas fuera del medio acuático.
+
+j. Se ha valorado la importancia de la vigilancia y del conocimiento de los protocolos establecidos como medidas de prevención.
+
+k. Se ha mostrado una actitud de control sobre el estrés que genera una situación de conflicto y la ansiedad ante situaciones de vigilancia prolongada.
+
+2\. Interpreta las situaciones de emergencia en una instalación acuática, describiendo las situaciones de riesgo en el ámbito acuático y aplicando protocolos específicos.
+
+a. Se han descrito las conductas de la persona que cree ahogarse estableciendo sus consecuencias.
+
+b. Se han reconocido las señales y problemas para nadar y/o mantenerse a flote que determinan que una persona se encuentre en situación de emergencia.
+
+c. Se han identificado y descrito, las pautas a seguir en una situación de emergencia dada optimizando la seguridad del accidentado y del resto de los usuarios.
+
+d. Se han descrito y elegido convenientemente los materiales a utilizar en relación con el tipo de intervención en un supuesto dado.
+
+e. Se han descrito los factores que condicionan la valoración de la situación de emergencia, el tipo de riesgo y el tipo de intervención que se debe realizar.
+
+f. Se ha manifestado una actitud tranquila y responsable que genere confianza en los deportistas y usuarios de la instalación.
+
+g. Se han fomentado actitudes de cooperación y colaboración en situaciones de emergencia.
+
+3\. Identifica las medidas de autoprotección que debe adoptar el socorrista describiendo los riesgos laborales y tomando conciencia de su importancia.
+
+a. Se han descrito las características del socorrista, actitudes, aptitudes y funciones como primera medida para la prevención de riesgos.
+
+b. Se han descrito las consecuencias de los agentes físicos (agua, luz solar, etc.), tras una exposición prolongada sobre el organismo, tanto a corto como a medio y largo plazo.
+
+c. Se han demostrado los protocolos de aplicación de los protectores solares, estableciendo las zonas de mayor exposición al sol y su periodicidad.
+
+d. Se ha descrito el equipamiento personal del socorrista necesario en la prevención de riesgos laborales de su actividad profesional.
+
+e. Se han identificado las medidas de autoprotección según las características de la instalación y las características del puesto.
+
+f. Se han aplicado los protocolos de revisión y comprobación del material y el puesto de vigilancia.
+
+g. Se ha elaborado el protocolo de cuidado personal que debe utilizar el socorrista durante el desempeño de su labor profesional indicando las acciones a realizar y su periodicidad.
+
+h. Se han descrito las posibles enfermedades derivadas del entorno de trabajo y del ejercicio de su actividad profesional.
+
+i. Se han valorado positivamente las medidas de autoprotección concienciándose de la importancia de las mismas.
+
+j. Se ha manifestando una actitud de responsabilidad hacia las medidas de autoprotección con el fin de prevenir riesgos laborales.
+
+4\. Rescata a un accidentado consciente e inconsciente en el medio acuático, aplicando protocolos y ejecutando técnicas específicas, adaptando su uso a las situaciones y aplicando protocolos de mantenimiento de la condición física, con seguridad y eficacia en las intervenciones.
+
+a. Se han explicado los protocolos y técnicas de intervención en cuanto a: entradas al agua, aproximación, control, remolque y extracción (en su caso) de un accidentado consciente, con y sin material.
+
+b. Se han explicado los protocolos y técnicas de intervención en cuanto a: entradas al agua, aproximación, control, remolque de maniquí y extracción de un accidentado inconsciente, con y sin material.
+
+c. Se ha ejecutado el rescate de una víctima en situación de distrés acuático, entrando al agua con avistamiento de la víctima realizando 50 m. nado libre de aproximación a la víctima, tomando contacto con ella a través del uso del material de salvamento requerido controlando y remolcando con la técnica correcta durante 50 mts., todo ello en un tiempo máximo de 3’30».
+
+d. Se ha ejecutado el rescate de una víctima inconsciente, entrando al agua de pié y sin emerger realizar un recorrido en apnea de 25 m. hasta recoger un maniquí de salvamento que simula ser una víctima inconsciente, situado en el fondo de la piscina con la cabeza orientada en el sentido del arrastre posterior, y remolcando con una técnica correcta durante 25 metros en un tiempo máximo de 1’35’’. Se termina realizando la extracción de la víctima inconsciente del agua y aplicando el protocolo a una muñeca de r.c.p. durante al menos 3 minutos.
+
+e. Se han descrito y demostrado las técnicas de zafaduras y normas a seguir ante un accidentado consciente en proceso de ahogamiento.
+
+f. Se han elaborado simulacros de accidentados en el medio acuático, teniendo en cuenta las técnicas que se prevén valorar o perfeccionar.
+
+g. Se han descrito las características de una intervención eficaz y segura del socorrista, teniendo en cuenta las condiciones del simulacro de accidente.
+
+h. Se ha determinado la periodicidad y carga mínima del trabajo de mantenimiento físico y técnico del socorrista.
+
+i. Se ha mostrado una actitud positiva hacia la repetición de cargas mínimas de trabajo y de las técnicas de rescate de forma continuada en el mantenimiento de la condición física, control y dominio técnico del medio acuático.
+
+j. Se ha valorado la importancia del mantenimiento de la condición física y técnica a través de la realización de simulacros de intervención en caso de accidente.
+
+5\. Rescata al accidentado consciente e inconsciente, con lesión medular en el medio acuático, aplicando procedimientos específicos y tomando conciencia de las consecuencias de la misma.
+
+a. Se han explicado los protocolos y técnicas de intervención en cuanto a: entradas al agua, aproximación, control, remolque y extracción (en su caso) de un accidentado consciente con lesión medular, con y sin material.
+
+b. Se han explicado los protocolos y técnicas de intervención en cuanto a: entradas al agua, aproximación, control, remolque de maniquí y extracción de un accidentado inconsciente con lesión medular, con y sin material.
+
+c. Se han demostrado las maniobras de entradas al agua, aproximación, control, remolque y extracción (en su caso) de un accidentado consciente con lesión medular, con y sin material con autocontrol, eficacia y seguridad.
+
+d. Se han demostrado las maniobras de entradas al agua, aproximación, control, remolque de maniquí y extracción de un accidentado inconsciente con lesión medular, con y sin material con autocontrol, eficacia y seguridad.
+
+e. Se han descrito las características de un accidentado con lesión medular en el medio acuático.
+
+f. Se han enumerado y descrito los pasos a seguir y el material a utilizar ante un accidentado con lesión medular.
+
+g. Se han descrito las consecuencias de una incorrecta manipulación de un afectado medular.
+
+h. Se han descrito las diferentes formas de uso de los materiales que pueden utilizarse para la extracción del medio acuático de un posible accidentado con lesión medular.
+
+i. Se han descrito las medidas de reanimación en el agua ante un accidentado sin lesión medular o con lesión medular.
+
+j. Se ha ejecutado la extracción de un sujeto simulando lesión medular, organizando a 2 ó 3 socorristas, teniendo en cuenta los protocolos de intervención establecidos y uso de las técnicas específicas.
+
+k. Se ha mostrado una actitud cuidadosa y responsable ante accidentados con lesión medular.
+
+Contenidos básicos
+
+1\. Controla y vigila la instalación acuática, describiendo y aplicando protocolos específicos y ejecutando técnicas específicas de vigilancia, control e intervención fuera del medio acuático.
+
+– Los principios generales del salvamento: prevención, vigilancia, control, presteza, diagnóstico y actuación.
+
+– Fases de la intervención en el socorrismo acuático. Organización del socorrismo.
+
+– La prevención.
+
+– La vigilancia y la atención:
+
+– Los puestos de vigilancia: ubicación.
+
+– Técnicas de vigilancia y errores más comunes: Estática y Dinámica.
+
+– Protocolos de: vigilancia, comunicación, traslado, y evacuación.
+
+– Protocolos de suspensión de la actividad. Por modificaciones de las condiciones de salubridad del centro acuático.
+
+– Protocolo de actuación ante conductas inadecuadas: resolución de conflictos.
+
+– Protocolos de actuación ante diferentes tipos de víctimas fuera del medio acuático.
+
+– Actitud positiva y controlada ante situaciones de estrés.
+
+2\. Interpreta las situaciones de emergencia en una instalación acuática, describiendo las situaciones de riesgo en el ámbito acuático y aplicando protocolos específicos.
+
+– El ahogado: comportamiento.
+
+– Elementos de riesgo en las instalaciones acuáticas.
+
+– La seguridad del accidentado.
+
+– La situación de emergencia: elementos esenciales.
+
+– Análisis de la situación.
+
+– Toma de decisiones.
+
+– El material de Salvamento y su importancia en el rescate.
+
+– El aro salvavidas.
+
+– El tubo de rescate.
+
+– La boya torpedo.
+
+– La camilla de inmovilización.
+
+– El trabajo en equipo: actitudes y comportamiento ante situaciones de emergencia.
+
+– La actitud responsable del socorrista como medio de motivación y seguridad en el usuario.
+
+3\. Identifica las medidas de autoprotección que debe adoptar el socorrista describiendo los riesgos laborales y tomando conciencia de su importancia.
+
+– El socorrista: perfil, actitudes, aptitudes y funciones.
+
+– Enfermedades profesionales, riesgos, actuación y prevención.
+
+– Medidas de autoprotección ante agentes ambientales:
+
+– Características de las condiciones de trabajo de la instalación acuática cubierta y descubierta:
+
+– Características del agua.
+
+– Características del puesto de trabajo.
+
+– El vestuario: ropa, calzado, etc.
+
+4\. Rescata al accidentado consciente e inconsciente en el medio acuático, aplicando protocolos y ejecutando técnicas específicas, adaptando su uso a las situaciones y aplicando protocolos de mantenimiento de la condición física, con seguridad y eficacia en las intervenciones.
+
+– Tipos de simulacros y características:
+
+– Simulacro de víctima consciente: con material, sin material.
+
+– Simulacro de víctima inconsciente: con material, sin material.
+
+– Técnicas de rescate de un accidentado con material y sin material.
+
+– Técnicas de traslado de accidentados.
+
+– El entrenamiento físico y técnico del socorrista:
+
+– Carga mínima de mantenimiento y periodicidad del entrenamiento.
+
+– La importancia del mantenimiento de la condición física y técnica a través de la realización periódica de simulacros de salvamento.
+
+5\. Rescata al accidentado consciente e inconsciente, con lesión medular en el medio acuático, aplicando procedimientos específicos y tomando conciencia de las consecuencias de la misma.
+
+– El accidentado con lesión medular:
+
+– Características generales.
+
+– Consecuencias ante una incorrecta manipulación.
+
+– El material auxiliar en el rescate del accidentado con lesión medular.
+
+– Técnicas de rescate de un accidentado con lesión medular. Errores frecuentes y consecuencias.
+
+– Técnicas de reanimación en el agua.
+
+– Actitud del socorrista ante un accidentado con posible lesión medular.
+
+> Se numera este módulo como Anexo II.i por el art. 6.7.j) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.j — Módulo de enseñanza deportiva: Formación práctica. Código: MED-SSSS106
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica la estructura organizativa y el funcionamiento del club o entidad deportiva relacionándola con la oferta de actividades en relación a la iniciación deportiva o el acompañamiento de usuarios en actividades de iniciación al medio acuático o al salvamento y socorrismo.
+
+a. Se ha identificado la estructura de la organización deportiva local y autonómica y sus relaciones con el club o entidad deportiva.
+
+b. Se ha identificado la estructura organizativa y el funcionamiento de las distintas áreas del club o entidad deportiva.
+
+c. Se ha reconocido el tipo de asociación deportiva del club o entidad deportiva de prácticas.
+
+d. Se han identificado las relaciones jerárquicas dentro del club o entidad deportiva.
+
+e. Se ha identificado la oferta de actividades vinculadas a la iniciación deportiva o al acompañamiento de usuarios.
+
+f. Se ha distinguido la oferta de actividades orientada a la práctica de iniciación al medio acuático y al salvamento y socorrismo en las mujeres.
+
+g. Se han identificado las vías de apoyo institucional (local y autonómico) utilizadas por el club o entidad deportiva.
+
+h. Se han reconocido los valores presentes en las actividades de iniciación al medio acuático y al salvamento y socorrismo del club o entidad deportiva.
+
+2\. Actúa con autonomía, iniciativa y responsabilidad en el puesto de trabajo, demostrando comportamiento ético, habilidades personales de comunicación, autocontrol ante situaciones de riesgo, trabajo en equipo, respeto por el medio ambiente, y aplicando los procedimientos establecidos por el centro de prácticas.
+
+a. Se han identificado los requerimientos actitudinales y medidas de autoprotección en su puesto de trabajo.
+
+b. Se han interpretado y cumplido las instrucciones recibidas y responsabilizado del trabajo asignado.
+
+c. Se ha demostrado compromiso con el trabajo bien hecho y la calidad del servicio, así como respeto a los procedimientos y principios propios del club o entidad deportiva.
+
+d. Se ha demostrado capacidad de trabajo en equipo y respeto a la jerarquía establecida en el club o entidad deportiva.
+
+e. Se ha establecido una comunicación y relación eficaz con el técnico responsable de la actividad y los miembros del equipo, manteniendo un trato fluido y correcto.
+
+f. Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante o imprevista que se presente en la actividad.
+
+g. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+h. Se han utilizado los equipos de prevención de riesgos laborales propios de la iniciación al medio acuático, y al salvamento y socorrismo.
+
+i. Se han aplicado los aspectos fundamentales de la Ley de Prevención de Riesgos Laborales, relacionados con el desempeño de las funciones de socorrista y con las actividades de iniciación al medio acuático y, las actividades, competiciones y eventos en iniciación deportiva al salvamento y socorrismo.
+
+3\. Colabora en el desarrollo de las actividades de iniciación al medio acuático, y en actividades, competiciones y otros eventos de la iniciación deportiva en salvamento y socorrismo identificando y utilizando medios, interpretando programaciones de referencia y ejecutando procedimientos de acuerdo con la norma establecida, e instrucciones recibidas.
+
+a. Se han identificado e interpretado las instrucciones recibidas y/o documentación asociada a la organización y gestión de pequeñas competiciones y eventos propios de la iniciación deportiva en salvamento y socorrismo.
+
+b. Se han interpretado e identificado las medidas de protección y de seguridad personal del socorrista (deportista) durante la competición, teniendo en cuenta las características de la competición de iniciación en salvamento y socorrismo.
+
+c. Se han realizado gestiones/operaciones de petición de los permisos necesarios para la realización de la actividad, competición o evento de iniciación deportiva en salvamento y socorrismo.
+
+d. Se han realizado acciones de colaboración e intervención en la organización y gestión de pequeñas competiciones y eventos propios de la iniciación deportiva en salvamento y socorrismo.
+
+e. Se ha realizado la recogida de documentación para la inscripción de los participantes en una actividad o eventos de iniciación deportiva en salvamento y socorrismo.
+
+f. Se han aplicado criterios a la revisión y confidencialidad de la documentación necesaria para la inscripción.
+
+g. Se ha elaborado la información sobre la actividad o la competición de salvamento y socorrismo para los padres o tutores legales de los participantes.
+
+h. Se han realizado acciones de preparación y comprobación del material de comunicación utilizado en las actividades de iniciación al medio acuático e iniciación deportiva al salvamento y socorrismo.
+
+i. Se han aplicado los procedimientos de almacenamiento y mantenimiento del material de comunicación utilizado en las actividades de iniciación al medio acuático e iniciación deportiva al salvamento y socorrismo.
+
+j. Se ha realizado la comunicación a través de los medios existentes, aplicando las técnicas y procedimientos adecuados.
+
+4\. Concreta y dirige sesiones de iniciación al medio acuático e iniciación deportiva en salvamento y socorrismo, y dirige al socorrista en competiciones, interpretando programaciones de referencia, ejecutando procedimientos y técnicas relacionadas con el proceso de enseñanza aprendizaje, y transmitiendo valores éticos vinculados al respeto y cuidado por el propio cuerpo, respeto a los demás, juego limpio, responsabilidad y esfuerzo personal.
+
+a. Se han identificado y seleccionado los medios y recursos necesarios para el desarrollo de la actividad.
+
+b. Se han identificado las condiciones ambientales necesarias para el desarrollo de la sesión, aplicando técnicas y procedimientos establecidos y respetando las normas de seguridad establecidas para las actividades de iniciación al medio acuático y en iniciación al salvamento y socorrismo.
+
+c. Se ha recibido y despedido al socorrista siguiendo el protocolo establecido, identificando sus demandas y necesidades, y motivándole para la práctica continuada del salvamento y socorrismo.
+
+d. Se ha demostrado interés por la captación, motivación y adherencia a la práctica de los socorristas (deportistas) y usuarios.
+
+e. Se han valorado las habilidades y destrezas específicas de los socorristas (deportistas) con el objeto de determinar su nivel proponiendo su incorporación a un grupo y tomar las medidas de corrección adecuadas.
+
+f. Se ha concretado la sesión de enseñanza-aprendizaje de la iniciación al medio acuático y de iniciación deportiva en salvamento y socorrismo siguiendo la programación de referencia, proponiendo tareas variadas que proporcionen variabilidad en las experiencias motoras, teniendo en cuenta las características del individuo, adecuándose al grupo y a las condiciones materiales existentes.
+
+g. Se han explicado los contenidos de la sesión, siguiendo los protocolos y técnicas establecidas, de forma clara y motivadora.
+
+h. Se han ejemplificado las tareas propuestas, ejecutando las acciones técnicas según los estándares de la iniciación en salvamento y socorrismo, y los procedimientos establecidos.
+
+i. Se ha dirigido la sesión de enseñanza-aprendizaje de iniciación al medio acuático y de iniciación deportiva en salvamento y socorrismo, solucionando las contingencias existentes, para conseguir la participación y rendimiento conforme a los objetivos propuestos de la misma, y dentro de las normas medioambientales y los márgenes de seguridad requeridos.
+
+j. Se han aplicado estrategias de comunicación, control de contingencias, sirviéndose de las dinámicas de grupo más adecuadas en cada caso.
+
+k. Se ha valorado el desarrollo de la sesión, aplicando procedimientos de recogida y procesamiento de la información necesaria para la elaboración de juicios que permitan el ajuste y mejora permanente del proceso de enseñanza-aprendizaje y de las actividades propias de la iniciación al medio acuático o al salvamento y socorrismo.
+
+l. Se ha demostrado interés por la transmisión de valores éticos, personales y sociales a través de la práctica deportiva: juego limpio, respeto a la salud personal, a los demás y al entorno.
+
+5\. Acompaña al deportista en competiciones de iniciación al salvamento y socorrismo, interpretando las normas y reglamentos, ejecutando los procedimientos y técnicas de transmisión de valores.
+
+a. Se ha comprobado el estado de la inscripción del grupo o deportista en la competición de iniciación en salvamento y socorrismo, siguiendo las instrucciones y normas establecidas.
+
+b. Se ha informado al socorrista de las características de la competición, interpretando la documentación sobre la misma.
+
+c. Se han aplicado procedimientos de reclamación en una competición de iniciación en salvamento y socorrismo, aplicando los protocolos y normas establecidos.
+
+d. Se han aplicado criterios de valoración de la ejecución técnico-táctica de salvamento y socorrismo, utilizando técnicas y procedimientos de observación adecuadas al nivel de iniciación deportiva.
+
+e. Se han trasladado al socorrista las instrucciones técnicas y tácticas para la competición de iniciación, teniendo en cuenta las características de la competición y del deportista.
+
+f. Se ha acompañado a los socorristas en las competiciones, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
+
+g. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de iniciación en salvamento y socorrismo, aplicando los procedimientos adecuados y respetando las normas de la misma.
+
+6\. Reconoce los posibles riesgos y peligros de una instalación acuática, identificando el funcionamiento de la misma, y aplicando los protocolos específicos de vigilancia y control.
+
+a. Se ha identificado las características generales de la instalación acuática.
+
+b. Se ha identificado la estructura organizativa y el funcionamiento de las distintas áreas de la instalación acuática.
+
+c. Se han reconocido los riesgos y peligros existentes en la instalación acuática, tanto para los usuarios como para el propio socorrista.
+
+d. Se han transmitido y aplicado, a los usuarios asistentes, las normas de utilización de la instalación teniendo en cuenta la normativa interna correspondiente.
+
+e. Se han realizado operaciones de preparación de las zonas destinadas al baño público y a la realización de actividades acuáticas y de salvamento y socorrismo que apoyen la seguridad de los usuarios que acuden a la instalación acuática y de los participantes de iniciación al medio acuático y al salvamento y socorrismo.
+
+f. Se controla y vigila la instalación acuática a través de protocolos específicos en relación con:
+
+– Las áreas de vigilancia.
+
+– La ubicación de los puestos de vigilancia.
+
+– La dotación de los puestos.
+
+– La rotación de los socorristas.
+
+– Los recorridos (duración, periodicidad) de los socorristas.
+
+– El material de salvamento utilizado.
+
+g. Se han identificado y seleccionado los materiales de salvamento y socorrismo y primeros auxilios.
+
+h. Se ha reconocido la actitud responsable que debe tener el socorrista ante los medios y recursos puestos a su alcance y de autocontrol ante situaciones de emergencia o conflictivas en aras de garantizar la seguridad de los usuarios en la instalación acuática.
+
+7\. Realiza operaciones de preparación y mantenimiento del material e instalaciones necesarias para el desarrollo de las actividades de iniciación al medio acuático y al salvamento y socorrismo, acompañando, e interpretando las instrucciones o normas establecidas y ejecutando procedimientos y técnicas propias de las operaciones.
+
+a. Se han interpretado las instrucciones recibidas e identificado la documentación asociada a los procesos de verificación y control del estado y funcionamiento del material necesario.
+
+b. Se han reconocido y determinado las necesidades y lugares idóneos para el almacenamiento y conservación de los materiales necesarios, teniendo en cuenta los protocolos establecidos.
+
+c. Se han realizado operaciones de mantenimiento del material, teniendo en cuenta los procedimientos, normas o instrucciones establecidos y respetando la normativa medioambiental.
+
+d. Se han realizado operaciones de reparación básica del material, teniendo en cuenta los procedimientos, normas o instrucciones establecidos y respetando la normativa medioambiental.
+
+e. Se han aplicado criterios de verificación del estado del material, para su baja o mantenimiento, teniendo en cuenta los procedimientos, normas e instrucciones establecidos.
+
+f. Se han aplicado criterios de selección del material y equipamiento de una instalación de actividades de iniciación al medio acuático y acompañamiento en salvamento y socorrismo, teniendo en cuenta las características de la actividad y las normas e instrucciones establecidas.
+
+g. Se han efectuado operaciones de revisión de los equipos individuales y equipamientos de seguridad, siguiendo las instrucciones o normas establecidas.
+
+h. Se han efectuado operaciones de equipamiento y desequipamiento de una instalación de actividades de iniciación al medio acuático y acompañamiento en salvamento y socorrismo, aplicando las técnicas y procedimientos adecuados, y siguiendo las instrucciones y normas establecidas.
+
+8\. Interviene en la gestión del riesgo en instalaciones acuáticas y durante la práctica deportiva en el nivel de iniciación al medio acuático o al salvamento y socorrismo, identificando y aplicando procedimientos específicos de acuerdo con las instrucciones o normas de aplicación.
+
+a. Se han establecido las condiciones de seguridad necesarias en la iniciación al medio acuático e iniciación deportiva en salvamento y socorrismo, interpretando las instrucciones o normas y aplicando los procedimientos establecidos.
+
+b. Se han establecido las condiciones de seguridad necesarias para los usuarios que acuden a la instalación acuática, interpretando las instrucciones o normas y aplicando los procedimientos establecidos.
+
+c. Se han realizado operaciones de rescate a usuarios que acuden a la instalación acuática y se encuentran en situación de emergencia actuando en base a los protocolos establecidos.
+
+d. Se han realizado operaciones de rescate a socorristas que acuden a la instalación acuática en situaciones de iniciación o acompañamiento en salvamento y socorrismo, aplicando técnicas y procedimientos específicos.
+
+e. Se ha controlado a los usuarios de la instalación acuática y/o al grupo durante las situaciones de riesgo o peligro, aplicando los protocolos de acuerdo con las instrucciones y normas recibidas.
+
+f. Se han efectuado los protocolos de comunicación y autocontrol de la situación de riesgo o peligro, de acuerdo con las normas y procedimientos establecidos.
+
+g. Se ha mantenido una actitud de tranquilidad y responsabilidad durante la intervención en las operaciones de rescate.
+
+h. Se ha mostrado un interés positivo hacia la formación continua en técnicas y procedimientos de rescate en situaciones de riesgo o peligro así como al mantenimiento físico necesario.
+
+9\. Realiza operaciones de prestación de los primeros auxilios, interpretando las normas y protocolos establecidos y aplicando técnicas y procedimientos de acuerdo a instrucciones o normas establecidas.
+
+a. Se han desarrollado operaciones de valoración inicial al accidentado, de acuerdo con los protocolos e instrucciones recibidos.
+
+b. Se ha establecido la secuencia de actuación de acuerdo con el protocolo establecido por el ILCOR (Comité de Coordinación Internacional sobre la Resucitación).
+
+c. Se han establecido medidas de seguridad y autoprotección personal en las situaciones de prestación de los primeros auxilios, de acuerdo con los protocolos y las instrucciones recibidos.
+
+d. Se han aplicado técnicas y procedimientos de prestación de primeros auxilios en lesiones, según los protocolos y la normativa establecidos.
+
+e. Se han aplicado técnicas de soporte vital, siguiendo los protocolos e instrucciones establecidos.
+
+f. Se han efectuado operaciones de desfibrilación externa semiautomática, siguiendo los protocolos e instrucciones establecidos.
+
+g. Se ha mantenido el autocontrol en situaciones de prestación de los primeros auxilios al accidentado teniendo en cuenta los protocolos e instrucciones establecidos.
+
+h. Se han aplicado técnicas de apoyo psicológico al accidentado y acompañante, teniendo en cuenta los protocolos e instrucciones establecidos.
+
+i. Se ha utilizado la terminología médico sanitaria elemental relacionada con los primeros auxilios.
+
+j. Se ha demostrado una actitud positiva hacia el reciclaje y actualización personal en nuevos protocolos e instrumentos relacionados con los primeros auxilios.
+
+> Se numera este módulo como Anexo II.j por el art. 6.7.k) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO III — Objetivos generales y módulos de enseñanza deportiva del ciclo final de grado medio en salvamento y socorrismo
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos III.a hasta el III.m, por el art. 6.8 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO III.a — Objetivos generales
+
+a. Ejecutar técnicas específicas en salvamento y socorrismo propias de este nivel, con la seguridad suficiente y tomando conciencia de lo realizado, para servir como modelo en el proceso de enseñanza-aprendizaje de la tecnificación deportiva.
+
+b. Identificar y detectar las características técnicas, físicas, psicológicas y de la competición en salvamento y socorrismo, aplicando procedimientos establecidos, para valorar y seleccionar al socorrista en la etapa de tecnificación deportiva.
+
+c. Analizar e interpretar la programación de referencia del entrenamiento básico en salvamento y socorrismo, eligiendo y diseñando tareas y aplicando métodos establecidos, para adaptar y concretar la sesión de entrenamiento básico.
+
+d. Analizar e interpretar la programación de referencia del perfeccionamiento técnico en salvamento y socorrismo, eligiendo y diseñando tareas y aplicando métodos establecidos, para adaptar y concretar los programas específicos de tecnificación deportiva.
+
+e. Estructurar, elaborar y describir los objetivos y contenidos de la iniciación al medio acuático, y la enseñanza de salvamento y socorrismo, aplicando metodologías específicas, teniendo en cuenta los principios del aprendizaje motor y de la práctica saludable para diseñar programas de iniciación.
+
+f. Describir, elegir y demostrar las técnicas y estrategias de dirección de sesiones, de control de la contingencia propias de salvamento y socorrismo, aplicando procedimientos de observación, control y dinamización, resolviendo supuestos, para dirigir la sesión de entrenamiento y perfeccionamiento en la etapa de tecnificación deportiva.
+
+g. Analizar las condiciones de seguridad de las instalaciones y/o espacios acuáticos naturales así como de los medios propios de la tecnificación deportiva, aplicando los procedimientos establecidos y la normativa vigente, para controlar la seguridad de los socorristas durante la práctica en este nivel y de los usuarios de actividades acuáticas.
+
+h. Elegir las medidas de prevención necesarias en instalaciones y/o espacios acuáticos naturales para garantizar la seguridad de los usuarios de actividades acuáticas, y de los socorristas durante la práctica deportiva de salvamento y socorrismo en este nivel.
+
+i. Elegir y demostrar las técnicas de autosalvamento, salvamento y socorrismo propios de los espacios acuáticos naturales, y de la tecnificación deportiva en salvamento y socorrismo, aplicar los procedimientos establecidos en situaciones simuladas, para intervenir y rescatar en situaciones de accidente o enfermedad.
+
+j. Seleccionar, comprobar y ajustar los medios materiales e instalaciones propias de la tecnificación deportiva, aplicando procedimientos establecidos y normativa, operando con los instrumentos de reparación y mantenimiento, para facilitar la disponibilidad y adecuada utilización de los medios necesarios.
+
+k. Analizar los aspectos técnicos y tácticos propios de la competición de tecnificación deportiva en salvamento y socorrismo, aplicando procedimientos establecidos y teniendo en cuenta las características de los participantes y el reglamento para dirigir a los socorristas en competiciones de este nivel.
+
+l. Analizar y elaborar la estructura organizativa de las competiciones y eventos propios del nivel de iniciación deportiva en salvamento y socorrismo, e identificar las características organizativas de las competiciones de tecnificación deportiva, enumerando los requisitos administrativos, los medios materiales y humanos necesarios, aplicando el marco legal que las regula, para organizar y colaborar en la gestión de competiciones y eventos.
+
+m. Identificar y analizar las características organizativas, medios materiales y humanos de la iniciación en salvamento y socorrismo, aplicando procedimientos establecidos de gestión y comunicación, para coordinar a otros técnicos encargados de este nivel.
+
+n. Identificar y analizar las variables que intervienen en el proceso de tecnificación deportiva en salvamento y socorrismo, aplicando procedimientos de recogida y valoración de la información y de ajuste de programas, para evaluar este proceso.
+
+ñ. Identificar y describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los socorristas, para transmitir valores propios de la actividad deportiva a través del comportamiento ético personal.
+
+o. Reconocer, promover y justificar los valores de compromiso, trabajo bien hecho y aprendizaje constante, describiendo los aspectos observables de la conducta, que reflejan estos valores, para mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el desempeño de su labor como técnico.
+
+p. Describir y aplicar los programas de iniciación deportiva y procedimientos de adaptación de actividades de conducción para personas con discapacidad, clasificando las características de las discapacidades, para fomentar la igualdad de oportunidades.
+
+> Se numera como Anexo III.a por el art. 6.8.a) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.b — Módulo común de enseñanza deportiva: Bases del aprendizaje deportivo. Código: MED-C201
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Identifica las características del/de la deportista de Tecnificación Deportiva (TD), analizando los factores psicológicos y sociales implicados en el rendimiento deportivo y su relación con la etapa de la adolescencia.**
+
+a) Se han descrito las características psicológicas y rasgos sociales propios de la adolescencia y las diferencias existentes en función del sexo.
+
+b) Se han aplicado instrumentos de valoración de las características psicológicas de los/las deportistas, comparando con los niveles estándar de la etapa de TD.
+
+c) Se han descrito los principales factores psicológicos que facilitan el aprendizaje en el/la deportista de TD.
+
+d) Se han enumerado algunas estrategias que favorecen y mantienen la motivación en el entrenamiento.
+
+e) Se han aplicado estrategias que favorecen la activación, la concentración y el control del estrés en una situación propuesta de entrenamiento y competición.
+
+f) Se han identificado, en un supuesto práctico, los factores psico-sociales más relevantes que pueden influir en el bajo rendimiento deportivo.
+
+g) Se ha argumentado la importancia del entorno familiar, social y deportivo en el rendimiento del/la deportista en la etapa de TD.
+
+**RA-2. Identifica las características y factores del aprendizaje motor, analizando las características del proceso de perfeccionamiento técnico-táctico del/la deportista.**
+
+a) Se han descrito las principales teorías que explican el aprendizaje motor.
+
+b) Se ha justificado la importancia de los mecanismos de percepción, decisión y ejecución en la TD de distintos deportes.
+
+c) Se han identificado los factores relacionados con los mecanismos de percepción, decisión y ejecución que determinan la complejidad de tareas en distintos deportes.
+
+d) Se han descrito las características técnico-tácticas propias de la etapa de TD.
+
+e) Se ha identificado, en un supuesto práctico contextualizado, la fase de aprendizaje en la que se encuentran los/las deportistas y los factores más importantes a tener en cuenta en su progresión deportiva.
+
+f) Se ha argumentado la necesidad de adecuar las tareas al nivel de desarrollo técnico-táctico del/la deportista, a sus intereses y características.
+
+**RA-3. Programa la enseñanza deportiva, analizando sus componentes y seleccionando tareas en función de la etapa de aprendizaje del/de la deportista.**
+
+a) Se han descrito los tipos de programación de tecnificación deportiva, sus principios y fases de elaboración.
+
+b) Se han descrito los elementos que componen una programación de enseñanza deportiva y su relevancia en el proceso de implementación.
+
+c) Se ha argumentado la importancia de utilizar la programación como referente de evaluación en la progresión en el aprendizaje deportivo de los/las deportistas.
+
+d) Se ha identificado la estructura y los componentes en una sesión de entrenamiento propuesta.
+
+e) Se han identificado los componentes y comparado de forma justificada el nivel de dificultad entre varias tareas propuestas.
+
+f) Se han modificado las condiciones de realización, condiciones espaciales o temporales en una tarea propuesta, posibilitando llevarla a cabo con distintos niveles de dificultad.
+
+g) Se han seleccionado varias tareas en progresión justificando los criterios utilizados en su elección.
+
+h) Se ha identificado la importancia de la memoria en los procesos de aprendizaje.
+
+i) Se ha argumentado la importancia de realizar progresiones que tengan en cuenta las características personales, técnico-tácticas y motivacionales de los/las deportistas.
+
+**RA-4. Dirige y organiza las tareas de entrenamiento, analizando los procedimientos de control y dinamización utilizados.**
+
+a) Se han identificado los métodos y estilos de enseñanza utilizados en situaciones de entrenamiento propuestas.
+
+b) Se han seleccionado justificadamente técnicas y estrategias de enseñanza en distintos supuesto prácticos en función del objetivo y las características de la tarea a realizar.
+
+c) Se ha analizado el tiempo de práctica en un entrenamiento, proponiendo actuaciones para optimizarlo.
+
+d) Se han aplicado distintas formas de distribuir y agrupar a los/las deportistas en tareas propuestas, mejorando la calidad de la práctica.
+
+e) Se han seleccionado recursos materiales adaptados, variados y motivantes en la aplicación de tareas propuestas.
+
+f) Se han identificado los tipos feedback administrados por un entrenador en un caso práctico.
+
+g) Se han propuesto algunas medidas de intervención que subsanen comportamientos no deseados identificados en un supuesto práctico.
+
+**RA-5. Coordina la intervención del personal técnico a su cargo, aplicando técnicas de dirección, organización y comunicación no jerarquizadas que promuevan el trabajo en equipo.**
+
+a) Se han descrito las características de un estilo de dirección de grupos no jerarquizado.
+
+b) Se ha elaborado un sencillo organigrama de un supuesto equipo a su cargo, estableciendo características de cada puesto, funciones e interacciones.
+
+c) Se han propuesto, en un supuesto práctico, actividades y dinámicas que favorezcan la cohesión grupal y el trabajo en equipo.
+
+d) Se han utilizado estrategias de escucha activa, empatía y asertividad en situaciones de conflicto simuladas.
+
+e) Se ha empleado un lenguaje asertivo y no discriminatorio en la comunicación con sus compañeros/as.
+
+**RA-6. Tutela a los/las deportistas durante su participación en entrenamientos y competiciones, aplicando estrategias que promuevan valores personales y sociales de esfuerzo, respeto y cooperación.**
+
+a) Se han identificado las principales demandas del contexto deportivo (club, árbitros, familias, etc.) que afectan al comportamiento ético y la promoción de valores en la etapa de TD.
+
+b) Se ha realizado una autoevaluación de las principales habilidades personales, de trabajo y de comunicación propias, relacionándolas con la transmisión de valores personales y sociales.
+
+c) Se han seleccionado actividades y dinámicas que fomenten actitudes proactivas y valores de esfuerzo, respeto y cooperación en los/las deportistas en distintas situaciones prácticas propuestas.
+
+d) Se han aplicado de manera justificada estrategias de resolución de conflictos en supuestos prácticos de entrenamiento y competición.
+
+e) Se ha argumentado la importancia de la actitud y actuación del técnico, del contexto deportivo y de la familia en la transmisión de valores personales y sociales a sus deportistas.
+
+Contenidos básicos
+
+**RA-1. Identifica las características del/de la deportista de Tecnificación Deportiva (TD), analizando los factores psicológicos y sociales implicados en el rendimiento deportivo y su relación con la etapa de la adolescencia.**
+
+1\. Análisis de las características psico-sociales de los/las deportistas en la etapa de Tecnificación Deportiva.
+
+– Características psicológicas y rasgos sociales de los/las adolescentes.
+
+– El papel del entorno familiar, social y deportivo en la TD.
+
+– Diferencias entre chicos y chicas en la adolescencia.
+
+– Aplicación de instrumentos para evaluar las características psico-sociales de los/las deportistas en la etapa de TD.
+
+– Valoración de la necesidad de considerar los aspectos psico-sociales de la adolescencia en la preparación deportiva de la etapa de TD.
+
+2\. Factores psicológicos más relevantes en la etapa de Tecnificación Deportiva.
+
+– La motivación: características, tipos y estrategias para su fomento en la TD.
+
+– La activación y el control del estrés.
+
+– Factores psico-sociales que pueden influir negativamente en el rendimiento deportivo y recursos para afrontarlos: miedo al fracaso, ansiedad competitiva, burnout, etc.
+
+– Abandono deportivo en la etapa de tecnificación del adolescente: exigencia en los estudios, desgana, cansancio, factores sociales y psicológicos.
+
+**RA-2. Identifica las características y factores del aprendizaje motor, analizando las características del proceso de perfeccionamiento técnico-táctico del/la deportista.**
+
+1\. Características del aprendizaje motor.
+
+– Teorías del aprendizaje motor.
+
+– El modelo de procesamiento de la información en la enseñanza deportiva: los mecanismos de percepción, decisión, ejecución y sus mecanismos de regulación.
+
+– Importancia de los mecanismos en la selección y elaboración de tareas.
+
+2\. Factores que intervienen en el aprendizaje motor.
+
+– Dependientes de la persona: edad, sexo, aptitud, experiencia previa, motivación.
+
+– Dependientes del diseño de la tarea (relacionados con los mecanismos): perceptivos, decisionales, de ejecución, autorregulación:
+
+– Dependientes del proceso de enseñanza-aprendizaje: transmisión de información (feedback); cantidad, duración y distribución de la práctica.
+
+3\. El proceso de perfeccionamiento técnico-táctico del/de la deportista.
+
+– Identificación de las características técnico-tácticas propias de la etapa de TD.
+
+– Fases del aprendizaje deportivo: iniciación, perfeccionamiento, dominio.
+
+– Importancia de adaptar las tareas a las necesidades de/la deportista.
+
+**RA-3. Programa la enseñanza deportiva, analizando sus componentes y seleccionando tareas en función de la etapa de aprendizaje del/de la deportista.**
+
+1\. Interpretación y elaboración de programaciones.
+
+– Tipos, principios y fases de la programación deportiva.
+
+– Elementos de la programación: objetivos, contenidos, medios, métodos e instrumentos de evaluación.
+
+– Elaboración y aplicación de programas de iniciación deportiva: consideraciones básicas.
+
+– La programación como elemento de evaluación de los aprendizajes deportivos.
+
+– La sesión de entrenamiento como unidad de organización del trabajo: estructura básica y componentes.
+
+2\. Selección de tareas:
+
+– La tarea: grado de dificultad, factores de los que depende.
+
+– Los componentes de la tarea: objetivo, condiciones de realización, condiciones espaciales y temporales, recursos.
+
+– Adecuación de las tareas a las características e intereses de los/las deportistas.
+
+– Criterios para la elaboración de secuencias de aprendizaje en progresión: variabilidad, significatividad, interferencia contextual, transferencia.
+
+– Valoración de la progresión de los aprendizajes como elemento fundamental en el diseño y modificación/manipulación de tareas.
+
+**RA-4. Dirige y organiza las tareas de entrenamiento, analizando los procedimientos de control y dinamización utilizados.**
+
+1\. Dirección y organización de la enseñanza en el entrenamiento.
+
+– Dirección de grupos: Métodos y estilos, técnicas y estrategias de enseñanza.
+
+– Organización de la actividad: tiempo de prácticas, distribución espacial, agrupamientos y utilización de recursos materiales.
+
+2\. Procedimientos de control y dinamización de tareas de entrenamiento básico y perfeccionamiento técnico.
+
+– Técnicas de gestión de las actividades para optimizar los tiempos de práctica y el control del grupo.
+
+– Importancia de la posición estratégica del/la entrenador/a y la interacción con el deportista como medio de implicación activa en el aprendizaje y motivación del deportista.
+
+– Utilización de recursos materiales adaptados, variados y motivantes para la práctica.
+
+– El feedback: tipos, momento de administración y finalidad. Estrategias para su administración.
+
+– Estrategias de control y dinamización frente a las conductas no deseadas.
+
+**RA-5. Coordina la intervención del personal técnico a su cargo, aplicando técnicas de dirección, organización y comunicación no jerarquizadas que promuevan el trabajo en equipo.**
+
+1\. Dirección y coordinación de grupos de trabajo.
+
+– Características de grupos de trabajo no jerarquizados.
+
+– Organización del equipo: Adecuación de tareas y funciones a las características, capacidades e intereses de los componentes.
+
+– Asignación de roles: claridad, aceptación y cumplimiento de las funciones del personal técnico.
+
+– Dinámicas de cohesión de grupo y de resolución de conflictos.
+
+2\. Aplicación de técnicas de comunicación en grupos.
+
+– Escucha activa, empatía y asertividad.
+
+– Lenguaje, verbal y no verbal, asertivo y no discriminatorio.
+
+**RA-6. Tutela a los/las deportistas durante su participación en entrenamientos y competiciones, aplicando estrategias que promuevan valores personales y sociales de esfuerzo, respeto y cooperación.**
+
+1\. Identificación de actitudes y valores personales y sociales en relación con la práctica deportiva y la competición:
+
+– El contexto de la práctica deportiva (clubes, asociaciones, organizadores deportivos, árbitros, familias, medios de comunicación, etc.) en la promoción y desarrollo de valores en el deporte.
+
+– Principales problemas éticos en la etapa de TD: abandono, exclusión de la práctica, búsqueda de resultados.
+
+– Evaluación y medida de actitudes y valores en el deporte: técnicas e instrumentos de medida de los valores en el deporte (diario de sesiones, test sociométrico, cuestionarios, perfil de polaridad, etc).
+
+2\. Transmisión de actitudes y valores personales y sociales en relación con la práctica deportiva y la competición:
+
+– Características y habilidades del técnico/a deportivo/a para favorecer la transmisión de valores personales y sociales a través del deporte: personales, de trabajo y de comunicación.
+
+– La responsabilidad personal en la transmisión de valores personales y sociales a través del deporte.
+
+– Estrategias para resolución de conflictos que puedan surgir durante la participación en eventos deportivos y competiciones (role-playing; banquillo de reflexión; dilemas morales, etc.).
+
+– Principios deontológicos del técnico deportivo.
+
+> Se numera como Anexo III.b y se sustituye por el que figura como Anexo II.a del Real Decreto 534/2026, de 30 de junio, según establece su art. 6.8.b). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.c — Módulo común de enseñanza deportiva: Bases del entrenamiento deportivo. Código: MED-C202
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Identifica las características físicas de hombres y mujeres, analizando las funciones anatómico-fisiológicas del organismo en relación con el ejercicio físico.**
+
+a) Se ha descrito la estructura y organización del organismo en función de sus unidades estructurales (células, tejidos, órganos y sistemas).
+
+b) Se han diferenciado las distintas posibilidades de movimiento del cuerpo humano en función de los ejes y planos anatómicos, usando una terminología adecuada en la descripción de posiciones y direcciones y aplicándolas a gestos deportivos concretos.
+
+c) Se ha analizado la estructura y funcionamiento de los aparatos locomotor, cardiocirculatorio y respiratorio, así como de los sistemas nervioso, endocrino y digestivo respecto al ejercicio físico y las capacidades físicas que dependen de ellos.
+
+d) Se ha descrito el ciclo menstrual femenino en relación con el rendimiento físico-deportivo en la mujer.
+
+e) Se han descrito de manera elemental las principales vías metabólicas y fuentes de energía del organismo y su implicación en el ejercicio físico.
+
+f) Se han descrito las principales adaptaciones producidas por el ejercicio físico en diferentes tejidos, órganos y sistemas.
+
+**RA-2. Dirige prácticas deportivas saludables, identificando las pautas higiénicas más adecuadas en las etapas de iniciación y tecnificación deportiva.**
+
+a) Se han analizado los beneficios de la actividad física y las pautas básicas de higiene deportiva, así como los principios de ergonomía y corrección postural durante el ejercicio.
+
+b) Se han identificado los posibles efectos negativos y las principales contraindicaciones relacionadas con la práctica del ejercicio físico.
+
+c) Se han analizado los hábitos nocivos que afectan al desarrollo y a la salud de los/las deportistas y la importancia de prever sus consecuencias negativas.
+
+d) Se han desarrollado propuestas de trabajo de activación y vuelta a la calma del deportista.
+
+e) Se han descrito las bases para una adecuada alimentación e hidratación y su aplicación en la práctica de actividad físico-deportiva: antes, durante y después de la misma.
+
+f) Se han identificado los posibles beneficios y perjuicios relacionados con el entrenamiento deportivo para la salud de la mujer.
+
+**RA-3. Analiza la condición motriz general de hombres y mujeres aplicando las técnicas y metodología de valoración adecuadas de las diferentes capacidades físicas básicas.**
+
+a) Se han analizado las características de las principales capacidades condicionales y coordinativas y su relación con el concepto de condición motriz.
+
+b) Se ha analizado la evolución de la condición motriz en relación con el desarrollo madurativo del deportista y los diferentes periodos sensibles de las capacidades en función de la edad biológica y el sexo.
+
+c) Se han identificado los instrumentos y medios más relevantes de una medición válida, fiable y sensible de las capacidades condicionales y coordinativas.
+
+**RA-4. Desarrolla la condición motriz general de hombres y mujeres, aplicando los principios metodológicos, medios y métodos del entrenamiento para las diferentes capacidades condicionales y coordinativas.**
+
+a) Se han analizado los principios metodológicos, medios y métodos de entrenamiento de la fuerza para la mejora del rendimiento físico y deportivo, así como sus efectos y adaptaciones sobre el sistema neuromuscular.
+
+b) Se han analizado los principios metodológicos, medios y métodos de entrenamiento de la resistencia para la mejora del rendimiento físico y deportivo, así como sus efectos y adaptaciones sobre el sistema cardiocirculatorio y respiratorio.
+
+c) Se han analizado los principios metodológicos, medios y métodos de entrenamiento de la velocidad para la mejora del rendimiento físico y deportivo, así como sus efectos y adaptaciones sobre el sistema neuromuscular.
+
+d) Se han analizado los principios metodológicos, medios y métodos de entrenamiento de la amplitud de movimiento (ADM) para la mejora del rendimiento físico y deportivo, así como sus efectos y adaptaciones sobre el sistema musculoesquelético.
+
+e) Se han analizado los principales medios y métodos de entrenamiento de las capacidades coordinativas para la mejora del rendimiento físico y deportivo, así como sus efectos y adaptaciones sobre el sistema neuromuscular.
+
+f) Se ha seleccionado de forma justificada las nuevas tecnologías en el desarrollo de los principales medios y métodos de entrenamiento de las capacidades condicionales y coordinativas, en supuestos prácticos de práctica deportiva.
+
+**RA-5. Interpreta la programación analizando los principios y elementos básicos del entrenamiento deportivo.**
+
+a) Se ha analizado los conceptos básicos de entrenamiento deportivo, adaptación, fatiga y recuperación relacionándolos con la programación del entrenamiento.
+
+b) Se han identificado los principales conceptos de organización del entrenamiento: planificación, programación y periodización, valorando su importancia en el proceso de entrenamiento.
+
+c) Se han identificado los elementos básicos de la programación, identificando las diferentes estructuras o fases temporales, así como los principales tipos y componentes de la carga de entrenamiento.
+
+d) Se han analizado los principios del entrenamiento deportivo, entendiendo su relación con la programación deportiva.
+
+e) Se ha analizado la intervención de las nuevas tecnologías en el diseño y programación del entrenamiento, así como para el registro, control, análisis y evaluación de la práctica deportiva.
+
+f) Se han aplicado de forma justificada los posibles ajustes de la programación del entrenamiento en función del ciclo menstrual femenino.
+
+Contenidos básicos
+
+**RA-1. Identifica las características físicas de hombres y mujeres, analizando las funciones anatómico-fisiológicas del organismo en relación con el ejercicio físico.**
+
+1\. Estructura y organización general del organismo: células, tejidos, órganos y sistemas.
+
+2\. Descripción espacial del movimiento: posiciones, direcciones, ejes y planos anatómicos. Movimientos articulares. Relación con situaciones y gestos deportivos específicos.
+
+3\. Aparato locomotor: principales huesos, articulaciones y músculos. Estructura y movilidad de las principales regiones anatómicas. Relación con las capacidades físicas y el ejercicio.
+
+4\. Aparato cardiocirculatorio: el corazón, los vasos sanguíneos y la sangre. La circulación sanguínea. Conceptos básicos relacionados con la respuesta cardiocirculatoria al ejercicio físico: frecuencia cardiaca, volumen sistólico, gasto cardiaco, presión arterial y vasodilatación. Relación con las capacidades físicas.
+
+5\. Aparato respiratorio: anatomía, fisiología y mecánica respiratorias. Capacidades y volúmenes pulmonares. Respuesta ventilatoria al ejercicio y relación con las capacidades físicas.
+
+6\. Sistema nervioso: neurona, sinapsis y transmisión del impulso nervioso. Clasificación anatómica del sistema nervioso como central y periférico y funcional como somático y autónomo. Relación con las capacidades físicas y el ejercicio.
+
+7\. Sistema endocrino: principales hormonas y glándulas endocrinas. Respuesta hormonal al ejercicio.
+
+8\. Sistema digestivo: anatomía y fisiología básica.
+
+9\. Ciclo menstrual: características y fases. Influencia de la práctica físico-deportiva: regularidad, amenorrea y dolor menstrual. Impacto en el rendimiento.
+
+10\. Metabolismo energético: principales vías metabólicas y fuentes de energía, ATP, glucógeno y grasas. Relación con el ejercicio físico.
+
+11\. Adaptaciones, agudas y crónicas, de los diferentes sistemas implicados en el ejercicio físico.
+
+**RA-2. Dirige prácticas deportivas saludables, identificando las pautas higiénicas más adecuadas en las etapas de iniciación y tecnificación deportiva.**
+
+1\. Beneficios de la práctica físico-deportiva sobre el organismo: repercusiones físicas, psico-emocionales y psico-sociales. Características en función de los diferentes ámbitos deportivos: salud, recreación y alto rendimiento.
+
+2\. Pautas básicas de higiene deportiva. Principios de ergonomía y corrección postural durante el ejercicio.
+
+3\. Contraindicaciones y efectos negativos relacionados con la práctica del ejercicio físico. Movimientos y ejercicios contraindicados.
+
+4\. Principales hábitos nocivos que afectan al desarrollo y a la salud de los/las deportistas: mala alimentación, falta de descanso y abuso de dispositivos electrónicos. Precauciones a tener en cuenta en la etapa de tecnificación deportiva.
+
+5\. Activación y vuelta a la calma en la sesión deportiva.
+
+6\. La alimentación y la hidratación vinculadas a la actividad física: antes, durante y después del ejercicio.
+
+7\. Efectos del entrenamiento deportivo en la salud específica de las mujeres deportistas: beneficios y riesgos de una práctica inadecuada.
+
+**RA-3. Analiza la condición motriz general de hombres y mujeres aplicando las técnicas y metodología de valoración adecuadas de las diferentes capacidades físicas básicas.**
+
+1\. Condición motriz, capacidades condicionales y coordinativas. Aspectos generales.
+
+2\. La fuerza. Concepto, manifestaciones e implicación en la práctica de actividades físico-deportivas. Evolución en relación con el desarrollo madurativo del deportista. Periodos sensibles en función de la edad biológica y el sexo.
+
+3\. La resistencia. Concepto, tipos e implicación en la práctica de actividades físico-deportivas. Evolución en relación con el desarrollo madurativo del deportista. Periodos sensibles en función de la edad biológica y el sexo.
+
+4\. La velocidad. Concepto, manifestaciones e implicación en la práctica de actividades físico-deportivas. Evolución en relación con el desarrollo madurativo del deportista. Periodos sensibles en función de la edad biológica y el sexo.
+
+5\. Amplitud de movimiento (ADM). Concepto, condicionantes e implicación en la práctica de actividades físico-deportivas. Evolución en relación con el desarrollo madurativo del deportista.
+
+6\. Capacidades coordinativas. Concepto, características e implicación en la práctica de actividades físico-deportivas. Evolución en relación con el desarrollo madurativo del deportista.
+
+7\. Patrones motores básicos y su relación con el gesto deportivo.
+
+8\. Instrumentos y medios más relevantes para la una medición válida, fiable y sensible de las capacidades condicionales y coordinativas. Aportaciones e innovaciones tecnológicas en el ámbito de la valoración deportiva.
+
+**RA-4. Desarrolla la condición motriz general de hombres y mujeres, aplicando los principios metodológicos, medios y métodos del entrenamiento para las diferentes capacidades condicionales y coordinativas.**
+
+1\. Principios metodológicos, medios y métodos de entrenamiento de la fuerza para la mejora del rendimiento físico y deportivo. Efectos y adaptaciones sobre el sistema neuromuscular.
+
+2\. Principios metodológicos, medios y métodos de entrenamiento de la resistencia para la mejora del rendimiento físico y deportivo. Efectos y adaptaciones sobre el sistema cardiocirculatorio y respiratorio.
+
+3\. Principios metodológicos, medios y métodos de entrenamiento de la velocidad para la mejora del rendimiento físico y deportivo. Efectos y adaptaciones sobre el sistema neuromuscular.
+
+4\. Principios metodológicos, medios y métodos de entrenamiento de la amplitud de movimiento (ADM) para la mejora del rendimiento físico y deportivo. Efectos y adaptaciones sobre el sistema musculoesquelético.
+
+5\. Principales medios y métodos de entrenamiento de las capacidades coordinativas para la mejora del rendimiento físico y deportivo. Efectos y adaptaciones sobre el sistema neuromuscular.
+
+6\. Intervención de las nuevas tecnologías en el desarrollo de los principales medios y métodos de entrenamiento de las capacidades condicionales y coordinativas. Aplicaciones en la práctica deportiva.
+
+**RA-5. Interpreta la programación analizando los principios y elementos básicos del entrenamiento deportivo.**
+
+1\. El entrenamiento deportivo: adaptación, fatiga y recuperación. El Síndrome General de Adaptación (SGA). La supercompensación. Relación con la programación del entrenamiento.
+
+2\. La organización del entrenamiento: planificación, programación y periodización deportiva. Relevancia en el proceso de entrenamiento. Elementos básicos de la programación: objetivos, contenidos y estructuras o fases temporales.
+
+3\. Diferencias entre carga externa e interna. Componentes de la carga de entrenamiento: magnitud relacionada con volumen, intensidad, frecuencia y densidad y orientación clasificada como general/específica y/o selectiva/compleja.
+
+4\. Los principios del entrenamiento deportivo y su relación con la programación deportiva.
+
+5\. Intervención de las nuevas tecnologías en el diseño y programación del entrenamiento, así como para el registro, control, análisis y evaluación de la práctica deportiva.
+
+6\. Influencia del ciclo menstrual en la programación del entrenamiento.
+
+> Se numera como Anexo III.c y se sustituye por el que figura como Anexo II.b del Real Decreto 534/2026, de 30 de junio, según establece su art. 6.8.c). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.d — Módulo común de enseñanza deportiva: Organización y legislación deportiva. Código: MED-C204
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Analiza la normativa de competición, relacionándola con la organización deportiva nacional y el régimen disciplinario e incorporando la perspectiva de igualdad de género.**
+
+a) Se han identificado la estructura y funciones de la organización deportiva nacional, en base al marco legislativo aplicable, a partir de la observación de organismos deportivos Se han descrito los organismos deportivos de ámbito nacional más importantes y sus funciones.
+
+b) Se han diferenciado los órganos responsables de disciplina deportiva, dopaje y violencia, así como las posibles infracciones y sanciones y los procedimientos reguladores, con un enfoque inclusivo que tenga en cuenta la igualdad de género y la protección de menores, a partir de casos simulados.
+
+c) Se ha analizado el régimen disciplinario deportivo y antidopaje aplicado a la competición, a partir de un caso práctico.
+
+**RA-2. Revisa la seguridad en la práctica deportivas, analizando la normativa vigente sobre los materiales y equipamientos, y los criterios de protección contra riesgos.**
+
+a) Se ha identificado la normativa básica de aplicación relativa a la seguridad en las instalaciones deportivas, a partir de una instalación deportiva simulada.
+
+b) Se han identificado los criterios de seguridad que han de cumplir las instalaciones y equipamientos necesarios para la práctica deportiva para todas las personas usuarias o personal laboral, a partir del marco normativo vigente.
+
+c) Se han ejemplificado las principales características de los planes de emergencia y evacuación de una instalación deportiva, mediante un supuesto práctico.
+
+d) Se han enumerado las medidas de protección contra posibles riesgos antisociales y de violencia en una instalación deportiva.
+
+**RA-3. Programa el desplazamiento de la persona deportista o grupo a competiciones de iniciación o tecnificación, asegurando el cumplimiento de los procedimientos y la normativa vigente, incluyendo la responsabilidad legal, los seguros y detallando las funciones y fases del desplazamiento.**
+
+a) Se han detallado las fases más relevantes en la organización de competiciones deportivas de iniciación o tecnificación deportiva, a partir de un caso práctico simulado.
+
+b) Se ha preparado del viaje y cumplimentado la documentación básica requerida, a partir de un caso práctico simulado.
+
+c) Se ha identificado la normativa sobre responsabilidad legal y sobre los seguros de accidente, incluyendo licencias deportivas y seguros federativos.
+
+d) Se ha programado el desplazamiento (preparación, desarrollo y conclusión), especificando las funciones más importantes del personal técnico en cada fase, en un escenario realista propuesto.
+
+e) Se ha detallado el programa de asistencia al deportista durante la celebración de la competición, a partir de un contexto simulado.
+
+**RA-4. Realiza actividades de gestión de un club deportivo, analizando los procedimientos de constitución y registro de un club deportivo, de establecimiento de convenios con entidades públicas y privadas, y las vías de financiación.**
+
+a) Se ha identificado la importancia del club deportivo como elemento favorecedor de la práctica deportiva, mediante la participación en espacios de discusión y análisis colectivo.
+
+b) Se ha identificado la normativa y los trámites necesarios que regulan la constitución y funcionamiento de un club deportivo en función de su ámbito de actuación (competiciones profesionales o no profesionales), utilizando como base un caso práctico.
+
+c) Se han examinado las posibles vías de financiación económica existentes en el proceso de creación y gestión de un club deportivo según su ámbito de actuación, mediante un proyecto simulado.
+
+d) Se han identificado los elementos necesarios en el establecimiento de convenios con las administraciones públicas, así como otras asociaciones de carácter privado, a través de un plan de acción ficticio.
+
+Contenidos básicos
+
+**RA-1. Analiza la normativa de competición, relacionándola con la organización deportiva nacional y el régimen disciplinario e incorporando la perspectiva de igualdad de género.**
+
+1\. Legislación deportiva estatal y normativa relacionada: Objeto y rango y ámbito de aplicación.
+
+2\. El Consejo Superior de Deportes. Estructura básica y funciones.
+
+3\. Entidades deportivas españolas:
+
+– Comité Olímpico Español, Comité Paralímpico Español. Estructura básica y funcionamiento.
+
+– Federaciones españolas deportivas. Estructura básica y funcionamiento.
+
+4\. Naturaleza, competencias de los órganos disciplinarios: Agencia Estatal Comisión Española para la Lucha Antidopaje en el Deporte Comité Español de Disciplina Deportiva, Comisión Estatal contra la Violencia, el Racismo, la Xenofobia y la Intolerancia en el Deporte.
+
+5\. Régimen disciplinario deportivo y procedimientos sancionadores.
+
+6\. La igualdad de género y la protección de menores.
+
+**RA-2. Revisa la seguridad en la práctica deportiva, analizando la normativa vigente sobre los materiales y equipamientos, y los criterios de protección contra riesgos.**
+
+1\. Fundamentos normativos sobre seguridad en las instalaciones deportivas.
+
+2\. Instalaciones deportivas: concepto y características funcionales.
+
+3\. La información sobre seguridad en las instalaciones deportivas. Interpretación de la señalización de seguridad.
+
+4\. Procedimientos de revisión de los equipamientos deportivos.
+
+5\. Reconocimiento de los planes de emergencia y evacuación.
+
+6\. Medidas básicas de protección para personas usuarias y personas trabajadoras.
+
+7\. Medidas de protección contra actos antisociales y violencia en el deporte.
+
+**RA-3. Programa el desplazamiento de la persona deportista o grupo de competiciones de iniciación o tecnificación, asegurando el cumplimiento de los procedimientos y la normativa vigente, incluyendo la responsabilidad legal, los seguros y detallando las funciones y fases del desplazamiento.**
+
+1\. Organización y estructura básica de las competiciones deportivas, las fases más relevantes.
+
+– Análisis de los requisitos básicos para la participación en competiciones de tecnificación deportiva: Proceso de inscripción, documentación y plazos.
+
+– Tramitación y características de la licencia federativa: autonómica y nacional.
+
+– La tramitación del seguro obligatorio deportivo.
+
+2\. La elección de los seguros de accidentes y de actividad. Tipos y características. Normativa de aplicación.
+
+3\. Responsabilidad civil del técnico deportivo: características y normativa vigente. El acompañamiento o tutela de menores durante el desplazamiento.
+
+4\. Asunción de normas y responsabilidades del personal técnico deportivo en los viajes de los grupos deportivos.
+
+5\. La organización del desplazamiento de los grupos deportivos:
+
+6\. Características, cumplimentación y tipo de documentación y permisos de desplazamiento de los/las deportistas, normativa de aplicación.
+
+7\. Análisis de las funciones y responsabilidad del personal técnico deportivo durante la competición.
+
+**RA-4. Realiza actividades de gestión de un club deportivo, analizando los procedimientos de constitución y registro de un club deportivo, de establecimiento de convenios con entidades públicas y privadas, y las vías de financiación.**
+
+1\. El club deportivo. Tipos, características y estructura básica.
+
+2\. Normativa de constitución y funcionamiento de un club deportivo.
+
+3\. Procedimiento de constitución e inscripción de los clubes deportivos.
+
+4\. Vías de financiación de los clubes deportivos: ingresos propios, ingresos indirectos, subvenciones de instituciones públicas.
+
+– Tipos y modalidades de las ayudas y subvenciones a los clubes. Procedimiento de tramitación.
+
+– Convenios de colaboración con la administración: protocolos, cláusulas, anexos.
+
+– El patrocinio deportivo. Tipos y normativa relacionada.
+
+> Se numera como Anexo III.d y se sustituye por el que figura como Anexo II.c del Real Decreto 534/2026, de 30 de junio, según establece su art. 6.8.e). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.e — Módulo común de enseñanza deportiva: Deporte y género. Código: MED-C205
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Analiza la realidad del deporte desde una perspectiva de género, los aspectos clave de la normativa legal vigente y la influencia de los estereotipos de género.**
+
+a) Se han interpretado conceptos y términos vinculados a la igualdad de género en el deporte.
+
+b) Se han identificado aspectos clave de la normativa legal vigente que promocionan la igualdad de género en el deporte.
+
+c) Se ha analizado la influencia de los estereotipos de género en el deporte.
+
+d) Se han identificado las principales desigualdades y barreras de las mujeres en el deporte.
+
+**RA-2. Promueve la igualdad de género en la práctica deportiva, aplicando estrategias de intervención didáctica específicas y analizando las diferencias de género.**
+
+a) Se han analizado las diferencias de género en las motivaciones hacia la práctica deportiva.
+
+b) Se han categorizado las diferencias biológicas y madurativas de las personas deportistas que influyen en la práctica deportiva.
+
+c) Se ha valorado la importancia de potenciar una percepción saludable de las personas deportistas.
+
+d) Se han aplicado de manera justificada estrategias coeducativas en un supuesto práctico debidamente caracterizado en el que se plantean objetivos de incremento de la participación deportiva en igualdad y no discriminación.
+
+e) Se han analizado las características de las estrategias que potencian una participación en igualdad de género y no discriminación en la práctica deportiva.
+
+**RA-3. Apoya el acceso de las mujeres al deporte, identificando el papel de las instituciones y sus líneas estratégicas, analizando herramientas y buenas prácticas de mejora de la igualdad de género en el deporte.**
+
+a) Se ha valorado la importancia del papel de las instituciones y organismos vinculados con la promoción de la práctica deportiva femenina.
+
+b) Se ha identificado el rol de las instituciones en el establecimiento y seguimiento de líneas estratégicas, que facilitan el acceso de las mujeres al deporte.
+
+c) Se han descrito las características de los planes y programas de promoción de acceso y buenas prácticas para la mejora de la igualdad en el deporte.
+
+d) Se han descrito acciones estratégicas dirigidas a la creación de entornos seguros y saludables de práctica deportiva en igualdad.
+
+Contenidos básicos
+
+**RA-1. Analiza la realidad del deporte desde una perspectiva de género, los aspectos clave de la normativa legal vigente y la influencia de los estereotipos de género.**
+
+1\. Terminología específica:
+
+– Sexo-género.
+
+– Perspectiva de género. Estereotipos de género.
+
+– Modelos androcéntricos.
+
+– LGTBI+.
+
+2\. Influencia de los estereotipos de género en el deporte:
+
+– Acceso y participación.
+
+– Cultura organizativa.
+
+– Valor otorgado al deporte femenino.
+
+– Cobertura mediática.
+
+3\. Normativa legal vigente sobre igualdad de género en el deporte: Ley del Deporte, normativa autonómica.
+
+4\. Participación de las mujeres como, deportistas, técnicas, entrenadoras, cuerpo arbitral y gestoras deportivas en los distintos ámbitos deportivos (escolar, federado, universitario, etc.) y niveles del deporte (desde recreativo a alto rendimiento):
+
+– Obstáculos, barreras y desigualdades en el acceso y participación.
+
+– Tasas de práctica físico-deportiva de las mujeres.
+
+– Índices de abandono de la práctica físico-deportiva de las mujeres.
+
+– Causas del abandono de la práctica físico-deportiva de las mujeres.
+
+**RA-2. Promueve la igualdad de género en la práctica deportiva, aplicando estrategias de intervención didáctica específicas y analizando las diferencias de género.**
+
+1\. Intereses y motivaciones en función del género hacia la práctica deportiva.
+
+2\. Características biológicas y madurativas de las mujeres y hombres en la práctica deportiva.
+
+3\. Rasgos característicos de una imagen corporal saludable a nivel físico, mental y social.
+
+4\. Estrategias de fomento de una percepción corporal saludable frente a una imagen corporal estereotipada.
+
+5\. Estrategias coeducativas aplicables a:
+
+– Organización.
+
+– Actividades.
+
+– Agrupaciones.
+
+– Comunicación y lenguaje igualitario.
+
+– Modelos referentes.
+
+**RA-3. Apoya el acceso de las mujeres al deporte, identificando el papel de las instituciones y sus líneas estratégicas, analizando herramientas y buenas prácticas de mejora de la igualdad de género en el deporte.**
+
+1\. Instituciones de ámbito internacional (Comité Olímpico Internacional, Comisión Europea, etc.), de ámbito nacional (Consejo Superior de Deportes, Comité Olímpico Español, etc.), y de ámbito autonómico y local.
+
+– Características.
+
+– Rol de las instituciones en materia de igualdad en el deporte.
+
+– Líneas estratégicas en materia de igualdad en el deporte.
+
+2\. Acciones y programas específicos de promoción y desarrollo del acceso a la práctica deportiva para la mejora de la igualdad en el deporte.
+
+– Características.
+
+– Herramientas actuales proporcionadas por instituciones a nivel internacional, nacional y autonómico.
+
+– Ejemplos de buenas prácticas. Elementos que las definen.
+
+– I+D+I: investigación, desarrollo e innovación en materia de igualdad de género promovida por las instituciones y organismos deportivos.
+
+> Se numera como Anexo III.e y se sustituye por el que figura como Anexo II.d del Real Decreto 534/2026, de 30 de junio, según establece su art. 6.8.f). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.f — Módulo común de enseñanza deportiva: Iniciación deportiva para personas con discapacidad. Código: MED-C206
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Organiza sesiones de iniciación deportiva, describiendo las consideraciones específicas de práctica de las personas con discapacidad.**
+
+a) Se han reconocido consideraciones específicas en la iniciación deportiva según diferentes tipos de discapacidad con relación a la participación en tareas y juegos deportivos.
+
+b) Se han identificado las principales estrategias motivacionales en el diseño de tareas físico-deportivas para personas con discapacidad.
+
+c) Se han elaborado de manera justificada sesiones y tareas que faciliten la participación de las personas con discapacidad, en un supuesto práctico donde se establezcan las necesidades específicas.
+
+**RA-2. Aplica recursos que fomentan la participación de personas con discapacidad en actividades físico-deportivas, analizando las características de la tarea e identificando factores contextuales de la práctica deportiva.**
+
+a) Se han aplicado procedimientos de modificación de tareas, juegos y deportes que favorezcan la participación, el disfrute y las posibilidades de éxito de personas con discapacidad en situaciones simuladas debidamente caracterizadas.
+
+b) Se han definido elementos específicos de modificación de tareas en la práctica deportiva de personas con discapacidad.
+
+c) Se han identificado barreras de accesibilidad en un supuesto de práctica deportiva de personas con discapacidad.
+
+d) Se ha justificado la importancia del fomento de la participación de personas con discapacidad en contextos inclusivos de práctica deportiva.
+
+e) Se han enumerado los agentes sociales facilitadores de la inclusión en la práctica deportiva de personas con discapacidad.
+
+**RA-3. Orienta a las personas con discapacidad hacia la práctica deportiva, identificando las estructuras organizativas del deporte de personas con discapacidad, seleccionando las fuentes de información disponibles.**
+
+a) Se han analizado las diferencias en la organización del deporte para personas con discapacidad a nivel internacional, nacional y autonómico.
+
+b) Se ha justificado el papel de las instituciones y entidades del tercer sector en la organización y fomento de la competición, la recreación y la práctica deportiva saludable de personas con discapacidad.
+
+c) Se han seleccionado fuentes de información disponibles sobre deporte para personas con discapacidad, en una situación práctica donde se establezca la finalidad de la información.
+
+**RA-4. Orienta a los/las deportistas con discapacidad, distinguiendo los criterios de elegibilidad y la clasificación deportiva.**
+
+a) Se ha justificado la importancia de las clasificaciones como elemento de acceso a la práctica deportiva federada de personas con discapacidad, así como para el desarrollo de una competición lo más justa posible.
+
+b) Se han definido las deficiencias elegibles en deporte de personas con discapacidad y el concepto de mínima deficiencia elegible.
+
+c) Se han distinguido las fases y el resultado del proceso de clasificación en el deporte de personas con discapacidad.
+
+Contenidos básicos
+
+**RA-1. Organiza sesiones de iniciación deportiva, describiendo las consideraciones específicas de práctica de las personas con discapacidad.**
+
+1\. Consideraciones específicas con relación a la participación de personas con discapacidad en sesiones, tareas y juegos de iniciación deportiva: calentamiento, trabajo principal, y vuelta a la calma, orientaciones de trabajo, objetivos de trabajo, accesibilidad, materiales y recursos humanos para la participación de personas con discapacidad en la iniciación deportiva, entre otros.
+
+2\. Pautas de seguridad especificas según el tipo de discapacidad.
+
+3\. Diseño de tareas considerando las características y necesidades de la persona con discapacidad.
+
+**RA-2. Aplica recursos que fomentan la participación de personas con discapacidad en actividades físico-deportivas, analizando las características de la tarea e identificando factores contextuales de la práctica deportiva.**
+
+1\. Opciones de actividades deportivas para la participación inclusiva de personas con discapacidad.
+
+2\. Elementos que fomenten el acceso a la práctica deportiva de personas con discapacidad.
+
+3\. Elementos de modificación/ajuste de tareas, juegos y deportes.
+
+4\. Barreras en el acceso y en la práctica deportiva de personas con discapacidad.
+
+5\. Estrategias de fomento de la participación de personas con discapacidad en contextos deportivos inclusivos.
+
+6\. Agentes sociales facilitadores de la práctica deportiva de personas con discapacidad (compañeros/as, personal técnico, familias e instituciones).
+
+**RA-3. Orienta a las personas con discapacidad hacia la práctica deportiva, identificando las estructuras organizativas del deporte de personas con discapacidad, seleccionando las fuentes de información disponibles.**
+
+1\. Organismos que articulan la estructura organizativa del deporte para personas con discapacidad a nivel internacional, nacional y autonómico.
+
+2\. Buenas prácticas deportivas de entidades del tercer sector (asociaciones, fundaciones, clubes deportivos).
+
+3\. Fuentes y recursos con relación al deporte de personas con discapacidad.
+
+**RA-4. Orienta a los/las deportistas con discapacidad, distinguiendo los criterios de elegibilidad y la clasificación deportiva.**
+
+1\. Propósito de la clasificación deportiva.
+
+2\. Funciones de la clasificación en el acceso y desarrollo deportivo de personas con discapacidad.
+
+3\. Sistemas alternativos de clasificación para la organización de actividades deportivas que consideren las diferencias individuales.
+
+4\. Deficiencias elegibles físicas, sensorial e intelectual.
+
+5\. Fases del proceso de clasificación.
+
+6\. Concepto de clase y estatus deportivos resultantes del proceso de clasificación.
+
+> Se añade como Anexo III.f, redactado conforme a lo establecido en el anexo II.e del Real Decreto 534/2026, de 30 de junio, según establece su art. 6.8.g). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> El anterior «Módulo común de enseñanza deportiva: Deporte adaptado y discapacidad. Código: MED-C203» se suprime por el art. 6.8.d) del citado Real Decreto.
+
+## ANEXO III.g — Módulo específico de enseñanza deportiva: Escuela de salvamento y socorrismo. Código: MED-SSSS-201
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Elabora programas de iniciación a la modalidad concretando los contenidos y las adaptaciones en los grupos de edades, coordinando su desarrollo y aplicación con otros técnicos.
+
+a. Se ha elaborado un programa de enseñanza de salvamento y socorrismo proponiendo adaptaciones de los objetivos y contenidos a las características de los grupos de iniciación.
+
+b. Se han determinado las adaptaciones de los contenidos, medios y métodos de enseñanza de salvamento y socorrismo.
+
+c. Se han definido los recursos didácticos necesarios en un programa de iniciación al salvamento y socorrismo.
+
+d. Se han elaborado secuencias de aprendizaje de los modelos técnicos del programa de iniciación al salvamento y socorrismo.
+
+e. Se han analizado diferentes secuencias de aprendizaje de las técnicas que constituyen el programa de iniciación al salvamento y socorrismo.
+
+f. Se han definido las diferencias en la ejecución de los modelos técnicos del programa iniciación al salvamento y socorrismo.
+
+g. Se han definido los parámetros que se deben tener en cuenta en la evaluación de la implementación y la calidad del programa de iniciación al salvamento y socorrismo.
+
+h. Se ha asumido la importancia de realizar una programación detallada como elemento de calidad en la implementación del programa.
+
+i. Se ha justificado la necesidad de secuenciar y temporalizar de forma adecuada el aprendizaje de la iniciación al salvamento y socorrismo adaptándolo a las características de los grupos de iniciación.
+
+2\. Colabora en el proceso de detección y selección de talentos deportivos en salvamento y socorrismo analizando las características de los sistemas y programas de detección y selección y aplicando técnicas específicas.
+
+a. Se han identificado las características técnicas, tácticas, físicas y psicológicas que describen el talento deportivo en salvamento y socorrismo.
+
+a. Se han descrito los criterios utilizados en la detección y selección de talentos en salvamento y socorrismo.
+
+b. Se han descrito los principios de los programas de detección y selección de talentos deportivos en salvamento y socorrismo.
+
+c. Se han descrito las funciones y el protocolo de actuación del técnico deportivo de salvamento y socorrismo en los programas de detección y selección de talentos de salvamento y socorrismo.
+
+d. Se han analizado los recursos materiales y humanos, que se necesitan en un supuesto práctico de programa de detección y selección de talentos en salvamento y socorrismo.
+
+e. Se ha valorado la importancia de una detección precoz del talento deportivo, en la consecución del alto rendimiento.
+
+f. Se ha justificado la necesidad de respetar el desarrollo del individuo en el proceso de detección y selección de talentos deportivos en salvamento y socorrismo.
+
+3\. Coordina la actividad de otros técnicos deportivos en la iniciación al salvamento y socorrismo, analizando las funciones de los técnicos en los cursos y eventos de iniciación, y discriminando la estructura de una Escuela de salvamento y socorrismo.
+
+a. Se han descrito la estructura, componentes y objetivos de una Escuela de salvamento y socorrismo.
+
+b. Se han identificado las funciones de coordinación o dirección de cursos, eventos y competiciones de salvamento y socorrismo, que realiza el técnico deportivo.
+
+c. Se han concretado los procedimientos de coordinación y comunicación con los técnicos responsables de la iniciación y tecnificación en el salvamento y socorrismo.
+
+d. Se han descrito las distintas tareas que debe realizar el técnico en cursos, eventos y competiciones de salvamento y socorrismo.
+
+e. Se han identificado los criterios de distribución de tareas entre el equipo de técnicos en las distintas modalidades de cursos, eventos y competiciones de salvamento y socorrismo.
+
+f. Se han descrito procedimientos de comunicación de los cambios, necesidades o contingencias entre el equipo de técnicos.
+
+g. Se han descrito los criterios que sobre los recursos materiales, humanos y técnicos, determinan la calidad de una Escuela de salvamento y socorrismo.
+
+h. Se ha interiorizado la necesidad de coordinación de los equipos técnicos como medio eficaz y eficiente en la puesta en práctica de las actividades y eventos de iniciación al salvamento y socorrismo.
+
+4\. Organiza sesiones de iniciación al salvamento y socorrismo analizando las necesidades específicas de las personas con discapacidad.
+
+a. Se han descrito las necesidades propias de cada discapacidad atendiendo al mecanismo funcional afectado y sus consecuencias a nivel perceptivo motor en la práctica de salvamento y socorrismo adaptada.
+
+b. Se han descrito las pautas de trabajo específicas en la iniciación al salvamento y socorrismo adaptado según los diferentes tipos de discapacidad.
+
+c. Se han aplicado procedimientos específicos de recogida de información del comportamiento motor de la persona con discapacidad: especialmente en relación al transporte, autonomía en el medio, técnicas específicas de salvamento y socorrismo y sus habilidades motrices específicas en la práctica de salvamento y socorrismo adaptado.
+
+d. Se han determinado medidas de seguridad específicas en la iniciación al salvamento y socorrismo según los diferentes tipos de discapacidad.
+
+e. Se han aplicado las adaptaciones metodológicas específicas a emplear según el tipo de discapacidad en la sesión de salvamento y socorrismo adaptado.
+
+f. Se ha valorado la importancia de la adaptación de la sesión como generadora de valores personales y sociales y vehículo de integración.
+
+5\. Aplica recursos que fomentan la participación de personas con discapacidad en salvamento y socorrismo analizando las características de la tarea, y los materiales, e identificando las limitaciones para la práctica de salvamento y socorrismo originada por el contexto.
+
+a. Se han analizado las principales vías de incorporación a la práctica de salvamento y socorrismo de personas con discapacidad.
+
+b. Se han descrito los mecanismos de adaptación de tareas, en la práctica de salvamento y socorrismo dirigida a personas con discapacidad que compensan los déficit que se presentan.
+
+c. Se han aplicado procedimientos de modificación de las tareas, juegos y actividades que favorecen la participación, el disfrute y las posibilidades de éxito de personas con discapacidad en la práctica de salvamento y socorrismo.
+
+d. Se ha valorado la importancia del fomento de la participación activa de personas con discapacidad en situaciones inclusivas de práctica de salvamento y socorrismo.
+
+e. Se han identificado las principales limitaciones hacia la práctica de salvamento y socorrismo provocada por la falta de accesibilidad en los espacios acuáticos naturales.
+
+f. Se ha valorado la importancia de una actitud positiva hacia la inclusión por parte de compañeros, técnicos, las propias familias y las instituciones, en la práctica de salvamento y socorrismo de las personas con discapacidad.
+
+g. Se han enunciado las posibilidades de las ayudas técnicas específicas atendiendo al tipo de discapacidad y características de la actividad que realicen los sujetos.
+
+h. Se ha realizado en un supuesto práctico, la adaptación del material teniendo en cuenta las características específicas.
+
+i. Se ha valorado la importancia de fomentar la participación de personas con discapacidad en salvamento y socorrismo como elemento de su integración social.
+
+Contenidos básicos
+
+1\. Elabora programas de iniciación a la modalidad concretando los contenidos y las adaptaciones en los grupos de edades, coordinando su desarrollo y aplicación con otros técnicos.
+
+– Metodología de las actividades de iniciación al salvamento y socorrismo.
+
+– Progresiones técnicas de iniciación al salvamento y socorrismo.
+
+– Secuenciación de las actividades: criterios para la secuenciación y adaptación.
+
+– Temporalización de actividades de iniciación al salvamento y socorrismo.
+
+– Recursos didácticos para la iniciación al salvamento y socorrismo.
+
+– Valoración de programas de iniciación al salvamento y socorrismo.
+
+2\. Colabora en el proceso de detección y selección de talentos deportivos en salvamento y socorrismo analizando las características de los sistemas y programas de detección y selección y aplicando técnicas específicas.
+
+– El talento deportivo en salvamento y socorrismo: características.
+
+– Criterios para la selección y detección de talentos.
+
+– Programas de detección de talentos: principios, recursos humanos y materiales.
+
+– El técnico deportivo en la detección de talentos: funciones.
+
+– Detección precoz del talento deportivo: importancia en el alto rendimiento.
+
+3\. Coordina la actividad de otros técnicos deportivos en la iniciación al salvamento y socorrismo, analizando las funciones de los técnicos en los cursos y eventos de iniciación, y discriminando la estructura de una Escuela de salvamento y socorrismo.
+
+– La Escuela de salvamento y socorrismo: estructura, componentes y objetivos.
+
+– El Coordinador: funciones.
+
+– El equipo técnico: funciones, comunicación y coordinación.
+
+– La distribución de tareas: cursos, eventos y competiciones.
+
+– Interlocución Escuela-Federación.
+
+– Recursos humanos, materiales y técnicos de una Escuela de salvamento y socorrismo.
+
+– Importancia de la coordinación de los recursos en una Escuela de salvamento y socorrismo.
+
+4\. Organiza sesiones de iniciación al salvamento y socorrismo analizando las necesidades específicas de las personas con discapacidad.
+
+– Descripción de las necesidades propias de cada discapacidad para la práctica de salvamento y socorrismo.
+
+– Características específicas.
+
+– Contraindicaciones, precauciones a tener en cuenta.
+
+– Tipo de discapacidad y su relación con el mecanismo perceptivo motor: dificultades para la práctica del salvamento y socorrismo.
+
+– Valoración inicial de las características específicas de las personas con discapacidad para la práctica de salvamento y socorrismo.
+
+– Utilización de herramientas básicas para la recogida de información de la competencia motriz en personas con discapacidad aplicables a la práctica de salvamento y socorrismo.
+
+– Adaptaciones metodológicas en la sesión de salvamento y socorrismo en función del tipo de discapacidad.
+
+– Aplicación de restricciones y condiciones básicas de seguridad en la práctica de salvamento y socorrismo según discapacidad.
+
+– La importancia de las adaptaciones metodológicas y la seguridad en la iniciación al salvamento y socorrismo.
+
+5\. Aplica recursos que fomentan la participación de personas con discapacidad en salvamento y socorrismo analizando las características de la tarea, y los materiales, e identificando las limitaciones para la práctica de salvamento y socorrismo originada por el contexto.
+
+– Justificación de la práctica de salvamento y socorrismo por personas con discapacidad como factor clave de su bienestar y calidad de vida.
+
+– Vías específicas de incorporación a la práctica de salvamento y socorrismo de personas con discapacidad.
+
+– Integración e inclusión a través de juegos, tareas y actividades de salvamento y socorrismo.
+
+– Identificación y utilización de los mecanismos de adaptación de las tareas, juegos y actividades de salvamento y socorrismo, al tipo de discapacidad.
+
+– Limitaciones provocadas por la accesibilidad a las instalaciones y espacios acuáticos naturales.
+
+– Vivenciación de situaciones de práctica inclusiva para el fomento de la participación de personas con discapacidad en las actividades espeleológicas.
+
+– Las ayudas técnicas para la práctica de salvamento y socorrismo.
+
+– Valoración del papel de la integración - inclusión de las personas con discapacidad en juegos y actividades espeleológicas.
+
+> Se numera este módulo como Anexo III.g por el art. 6.8.h) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.h — Módulo específico de enseñanza deportiva: Preparación física del socorrista. Código: MED-SSSS-202
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora la condición física del socorrista, identificando las capacidades de las que depende su rendimiento tanto en entrenamiento como en competición, aplicando pruebas y test de campo, y analizando sus resultados.
+
+a. Se han identificado las capacidades condicionales de las que depende la condición física específica del socorrista.
+
+b. Se han descrito las características de las capacidades condicionales de las que depende la condición física específica del socorrista.
+
+c. Se han descrito las características de los test y pruebas específicas de valoración de las capacidades condicionales de las que depende la condición física específica del socorrista.
+
+d. Se han aplicado test o pruebas específicas de valoración de las capacidades condicionales de las que depende la condición física específica del socorrista.
+
+e. Se han descrito las normas de seguridad que se deben observar durante la realización de test o pruebas específicas de valoración de las capacidades condicionales de las que depende la condición física específica del socorrista.
+
+f. Se han reconocido signos indicadores de riesgo antes y durante la ejecución de las pruebas o test específicos de valoración de las capacidades condicionales de las que depende la condición física específica del socorrista.
+
+g. Se han valorado, en un supuesto práctico de secuencia de medición de la condición física específica de un socorrista, los cambios observados en las diferentes mediciones justificando las posibles relaciones causa-efecto.
+
+h. Se han elaborado instrumentos de recogida de la información sobre la condición física específica del socorrista durante el entrenamiento y la competición.
+
+i. Se han descrito los conceptos estadísticos básicos necesarios en el tratamiento de la información obtenida en la valoración de la condición física.
+
+j. Se han aplicado las técnicas de tratamiento y procesamiento estadístico básico de la información obtenida.
+
+k. Se han seleccionado las técnicas de tratamiento estadístico adecuadas al tipo de información obtenida y a la finalidad de la valoración.
+
+l. Se ha interiorizado la necesidad de transmitir la información sobre la valoración de los socorristas de forma eficaz, discreta y reforzando su autoestima.
+
+2\. Adapta y concreta ciclos y sesiones de entrenamiento de la condición física del socorrista, analizando la programación de referencia, la metodología, los medios específicos de preparación y aplicando procedimientos.
+
+a. Se han descrito los objetivos de desarrollo de la condición física del socorrista en las programaciones de referencia de la etapa de tecnificación deportiva.
+
+b. Se han identificado las funciones de los instrumentos y medios de control de la condición física dentro de la programación de referencia.
+
+c. Se han relacionado los medios específicos de mejora de la condición física del socorrista, con los objetivos de la programación de referencia.
+
+d. Se han explicado las características de los métodos específicos de desarrollo de las capacidades condicionales de las que depende la condición física específica del socorrista.
+
+e. Se han seleccionado los sistemas de cuantificación de la carga de trabajo en los métodos específicos.
+
+f. Se han definido los factores que modifican la carga en los métodos específicos de desarrollo de la condición física del socorrista.
+
+g. Se han seleccionado las características específicas de una sesión de desarrollo de la condición física del socorrista.
+
+h. Se han identificado los tipos de actividades de salvamento y socorrismo y su relación con las capacidades condicionales del socorrista.
+
+i. Se han definido los ejercicios con los parámetros de carga adaptados a las necesidades de un socorrista.
+
+j. Se han analizado las características específicas de los diferentes ciclos de preparación física de un socorrista, en función de su situación dentro de la programación de referencia y los objetivos de la misma.
+
+k. Se ha elaborado un ciclo de preparación física completa, a partir de una programación de referencia, concretando: objetivos, medios, métodos, instrumentos de control, y dinámica de la carga.
+
+l. Se ha relacionado la evolución de un socorrista con los objetivos previamente establecidos, verificando que el programa de entrenamiento se ajusta a los mismos.
+
+m. Se ha asumido la programación como factor de eficacia y calidad en la planificación del entrenamiento básico del socorrista.
+
+3\. Dirige sesiones de desarrollo de la condición física del socorrista aplicando técnicas de dirección, siguiendo una programación de referencia y aplicando técnicas de autoevaluación.
+
+a. Se han analizado las diferentes técnicas específicas de organización de las sesiones de desarrollo de la condición física del socorrista, con especial atención a: la disposición en función del material, la optimización del espacio y del material, mantenimiento del nivel de práctica programado.
+
+b. Se han descrito las características que debe cumplir la información al socorrista, cuando se utilizan métodos de desarrollo de la condición física.
+
+c. Se ha dirigido una sesión simulada de desarrollo de la condición física del socorrista, de acuerdo con lo previsto en la programación.
+
+d. Se han analizado las incidencias más habituales en las sesiones de desarrollo de la condición física del socorrista, relacionándolas con las causas y posibles medidas para su solución.
+
+e. Se han analizado las actitudes y acciones de motivación más adecuadas en las sesiones de desarrollo de la condición física del socorrista.
+
+f. Se han identificado los criterios de calidad en la organización y dirección de sesiones de desarrollo de la condición física del socorrista.
+
+g. Se han adaptado instrumentos de recogida de información sobre el desempeño personal del técnico deportivo durante la dirección de sesiones de desarrollo de la condición física del socorrista.
+
+h. Se ha analizado el comportamiento del técnico deportivo en la dirección de sesiones de preparación física del socorrista, utilizando diferentes medios de registro de la información e identificando los errores y proponiendo alternativas.
+
+i. Se ha valorado la importancia de crear un clima motivador y de participación durante la dirección de las sesiones.
+
+4\. Promueve prácticas deportivas saludables, analizando los gestos deportivos predominantes e identificando las pautas higiénicas más adecuadas en las etapas de iniciación y tecnificación deportiva, para la prevención de lesiones y patologías propias de salvamento y socorrismo.
+
+a. Se han interpretado las bases biomecánicas del análisis de los gestos predominantes en la práctica deportiva de salvamento y socorrismo.
+
+b. Se han analizado las consecuencias negativas (lesiones y enfermedades) que puede llevar consigo una práctica inadecuada de salvamento y socorrismo durante la etapa de iniciación y tecnificación.
+
+c. Se han identificado las contraindicaciones (patológicas) generales más importantes propias del entrenamiento en salvamento y socorrismo, durante la etapa de iniciación y tecnificación.
+
+d. Se han aplicado actividades de calentamiento y enfriamiento específicos de salvamento y socorrismo.
+
+e. Se han descrito los hábitos posturales adecuados durante la práctica del deporte de salvamento y socorrismo.
+
+f. Se ha valorado la importancia de prever las consecuencias negativas de una mala práctica deportiva de salvamento y socorrismo.
+
+g. Se han analizado las características de las rutinas y programas de preparación física, para la prevención de las lesiones más comunes durante la etapa de iniciación y tecnificación en salvamento y socorrismo.
+
+Contenidos básicos
+
+1\. Valora la condición física del socorrista, identificando las capacidades de las que depende su rendimiento, aplicando pruebas y test de campo, y analizando sus resultados.
+
+– Factores condicionales que inciden en la forma física y deportiva del socorrista: Características.
+
+– Instrumentos de recogida de información: pruebas de nivel, test, cuestionarios, observación: características y aplicación.
+
+– Normas de seguridad; prevención de riesgos en la elaboración y aplicación de test.
+
+– Interpretación de resultados.
+
+– Estadística básica: Conceptos estadísticos, análisis e interpretación de datos.
+
+– Evolución de la forma deportiva.
+
+– Información al deportista.
+
+2\. Adapta y concreta ciclos y sesiones de entrenamiento de la condición física del socorrista, analizando la programación de referencia, la metodología, los medios específicos de preparación y aplicando procedimientos.
+
+– Objetivos del desarrollo de la condición física del socorrista.
+
+– Medios específicos de entrenamiento de la condición física en salvamento y socorrismo.
+
+– Métodos específicos del entrenamiento de la condición física en salvamento y socorrismo.
+
+– Periodización de la preparación física del socorrista.
+
+– Los ciclos de preparación física en salvamento y socorrismo:
+
+– Características de los mismos.
+
+– Elaboración a partir de una programación de referencia
+
+– Sesión de entrenamiento.
+
+– La carga de trabajo en el entrenamiento en salvamento y socorrismo:
+
+– Cuantificación.
+
+– Factores que la modifican.
+
+– Adaptaciones al salvamento y socorrismo.
+
+– Parámetros de carga de los diferentes ejercicios.
+
+– Adaptaciones al socorrista.
+
+3\. Dirige sesiones de desarrollo de la condición física del socorrista aplicando técnicas de dirección, siguiendo una programación de referencia y aplicando técnicas de autoevaluación.
+
+– Técnicas de organización de sesiones de preparación física.
+
+– Información al socorrista en el desarrollo de la sesión.
+
+– Actitudes y acciones motivadoras en la sesión de entrenamiento en salvamento y socorrismo.
+
+– Criterios de calidad en la organización y dirección de sesiones de preparación física en salvamento y socorrismo.
+
+– Papel del técnico en el desarrollo de la sesión de condición física: Autoevaluación.
+
+4\. Promueve prácticas deportivas saludables, analizando los gestos deportivos predominantes e identificando las pautas higiénicas más adecuadas en las etapas de iniciación y tecnificación deportiva, para la prevención de lesiones y patologías propias de salvamento y socorrismo.
+
+– El gesto técnico deportivo: bases biomecánicas.
+
+– Lesiones debidas a la mala práctica de salvamento y socorrismo, en estos niveles.
+
+– El entrenamiento en la etapa de Tecnificación en salvamento y socorrismo: contraindicaciones y beneficios.
+
+– Medidas preventivas del socorrista durante la práctica deportiva de salvamento y socorrismo.
+
+– Actividades de calentamiento y enfriamiento específicos de salvamento y socorrismo.
+
+– Hábitos posturales adecuados durante la práctica de salvamento y socorrismo.
+
+– Análisis y valoración de las rutinas y programas de preparación física para la prevención de lesiones.
+
+> Se numera este módulo como Anexo III.h por el art. 6.8.i) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.i — Módulo específico de enseñanza deportiva: Perfeccionamiento técnico en salvamento y socorrismo. Código: MED-SSSS-203
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora el rendimiento del socorrista en el entrenamiento y durante la competición en la etapa de tecnificación deportiva, analizando los modelos técnicos y las situaciones tácticas, elaborando secuencias de aprendizaje, y relacionando los errores de ejecución con sus causas.
+
+a. Se han explicado los factores técnicos y tácticos de los que depende el rendimiento deportivo del socorrista en la modalidad de salvamento y socorrismo durante la etapa de tecnificación deportiva.
+
+b. Se han analizado los modelos técnicos del socorrista, propios de la modalidad salvamento y socorrismo durante esta etapa.
+
+c. Se han identificado los elementos que definen la complejidad de los modelos técnicos propios de esta etapa en la modalidad de salvamento y socorrismo.
+
+d. Se han identificado los elementos que definen la complejidad de los esquemas tácticos utilizados en las competiciones de esta etapa.
+
+e. Se han elaborado secuencias de tareas de perfeccionamiento técnico, de acuerdo con los modelos técnicos y las situaciones tácticas en salvamento y socorrismo.
+
+f. Se han empleado instrumentos de representación gráfica de las secuencias de aprendizaje.
+
+g. Se han descrito los criterios de análisis del comportamiento técnico-táctico del socorrista en el entrenamiento y en la competición de la modalidad de salvamento y socorrismo.
+
+h. Se han elaborado instrumentos de recogida de información sobre el comportamiento técnico-táctico del socorrista durante el entrenamiento y la competición en la modalidad de salvamento y socorrismo.
+
+i. Se han preparado y aplicado medios audiovisuales básicos para la recogida de datos y el análisis del comportamiento técnico-táctico del socorrista durante el entrenamiento y la competición en la modalidad de salvamento y socorrismo.
+
+j. Se han descrito los errores tipo en el comportamiento técnico-táctico y durante el entrenamiento y la competición en la modalidad de salvamento y socorrismo.
+
+k. Se han relacionado los errores en el comportamiento técnico-táctico del socorrista durante el entrenamiento y la competición en la modalidad de salvamento y socorrismo, con las posibles causas y las tareas para solucionarlas.
+
+l. Se ha analizado la ejecución del socorrista durante el entrenamiento y la competición, identificando las características técnicas/tácticas de la misma.
+
+m. Se ha justificado la importancia de la valoración y el análisis del comportamiento técnico-táctico del socorrista, dentro de las funciones del técnico deportivo.
+
+2\. Adapta y concreta los ciclos y sesiones de entrenamiento del socorrista, analizando las programaciones de referencia, la metodología, los medios específicos de preparación, y aplicando procedimientos.
+
+a. Se han descrito los objetivos técnicos y tácticos del socorrista en las programaciones de referencia de la etapa de tecnificación deportiva.
+
+b. Se han identificado los tipos de competiciones: sus funciones y características.
+
+c. Se ha analizado un supuesto de calendario de competiciones, clasificando las mismas de acuerdo con su función dentro del programa de entrenamiento de referencia.
+
+d. Se han analizado los criterios de selección de las competiciones en función de los objetivos y el momento de la temporada, y las características de la competición.
+
+e. Se han identificado las funciones de los instrumentos y medios de control del rendimiento dentro de la programación de referencia.
+
+f. Se han seleccionado las características específicas de las diferentes fases/ciclos de preparación de un socorrista, en función de su situación dentro de la programación de referencia y los objetivos de la misma.
+
+g. Se han explicado las características de los métodos específicos de perfeccionamiento técnico-táctico del socorrista.
+
+h. Se han seleccionado los sistemas de cuantificación de la carga de trabajo en los métodos específicos.
+
+i. Se han relacionado los medios de específicos de entrenamiento técnico-táctico del socorrista, con los objetivos de la programación de referencia.
+
+j. Se han seleccionado las características específicas de una sesión de entrenamiento del socorrista.
+
+k. Se han analizado los criterios de combinación del trabajo técnico-táctico y físico del socorrista, concretando una sesión de la modalidad de salvamento y socorrismo.
+
+l. Se ha elaborado un ciclo/etapa de preparación completa, a partir de una programación de referencia, concretando: objetivos, medios, métodos, instrumentos de control, dinámica de la carga.
+
+m. Se ha valorado la importancia de la programación anticipada y la revisión continua del trabajo realizado como factores de mejora de la calidad de los programas de entrenamiento del socorrista.
+
+3\. Dirige sesiones de entrenamiento del socorrista, demostrando las técnicas propias de este nivel, analizando y aplicando las técnicas de dirección y organización, y aplicando técnicas de autoevaluación.
+
+a. Se han identificado las situaciones de aprendizaje en la modalidad de salvamento y socorrismo que hacen necesaria la demostración de la tarea por parte del técnico deportivo.
+
+b. Se han demostrado las técnicas de la modalidad de salvamento y socorrismo propias del nivel de tecnificación, señalando los aspectos más importantes para su aprendizaje.
+
+c. Se han analizado las diferentes técnicas específicas de organización de las sesiones de preparación técnica del socorrista, con especial atención a: la disposición en función del material, la optimización del espacio y del material, mantenimiento del nivel de práctica programado.
+
+d. Se ha dirigido una sesión simulada de preparación técnica del socorrista, de acuerdo con lo previsto en la programación.
+
+e. Se han analizado las incidencias más habituales en las sesiones de preparación técnica, relacionándolas con las causas y posibles medidas para su solución.
+
+f. Se han analizado las adaptaciones específicas de los recursos didácticos facilitadores del aprendizaje a través de la motivación, la concentración, el control de pensamiento y de emociones, en salvamento y socorrismo.
+
+g. Se han identificado los criterios de calidad en la organización y dirección de sesiones de preparación técnica del socorrista.
+
+h. Se han adaptado instrumentos de recogida de información sobre el desempeño personal del técnico deportivo durante la dirección de sesiones de preparación técnica del socorrista.
+
+i. Se ha analizado el comportamiento del técnico deportivo en la dirección de sesiones de preparación técnica del socorrista, utilizando diferentes medios de registro de la información e identificando los errores y proponiendo alternativas.
+
+j. Se han analizado las actitudes y acciones de motivación más adecuadas en las sesiones de preparación técnica del socorrista.
+
+4\. Dirige al socorrista en competiciones de tecnificación, analizando los factores que condicionan el rendimiento, seleccionando las estrategias de intervención durante la competición.
+
+a. Se han descrito las funciones del técnico deportivo en las competiciones de tecnificación deportiva de la modalidad de salvamento y socorrismo.
+
+b. Se ha analizado el reglamento de competición de la modalidad de salvamento y socorrismo identificando las limitaciones técnico/tácticas del mismo.
+
+c. Se han descrito las características y exigencias básicas de las competiciones de la modalidad de salvamento y socorrismo en este nivel.
+
+d. Se han analizado los criterios de análisis de las competiciones de salvamento y socorrismo en el nivel de tecnificación deportiva.
+
+e. Se ha analizado un supuesto de competición, identificando las demandas técnicas, tácticas, físicas y psicológicas para el socorrista.
+
+f. Se han descrito los criterios de selección y formación de socorristas equipos, y la realización de sustituciones y cambios en las competiciones de la modalidad de salvamento y socorrismo.
+
+g. Se han definido los modelos tácticos posibles en función de las características de la competición y condiciones del espacio acuático natural en la modalidad de salvamento y socorrismo.
+
+h. Se han relacionado las recomendaciones técnicas al socorrista con las características de la competición de salvamento y socorrismo y condiciones del espacio acuático natural.
+
+i. Se han examinado las características de los materiales específicos que utiliza el socorrista en las competiciones de la modalidad de salvamento y socorrismo.
+
+j. Se han seleccionado y concretado las adaptaciones de los materiales personales y colectivos a las condiciones de un supuesto de competición.
+
+k. Se ha valorado la importancia de las recomendaciones técnico-tácticas al socorrista y las adaptaciones del material en la competición de salvamento y socorrismo.
+
+Contenidos básicos
+
+1\. Valora el rendimiento del socorrista en el entrenamiento y durante la competición en la etapa de tecnificación deportiva, analizando los estándares técnicos y las situaciones tácticas, elaborando secuencias de aprendizaje, y relacionando los errores de ejecución con sus causas.
+
+– La técnica y la táctica: influencia en el rendimiento deportivo del socorrista.
+
+– Estándares técnicos en el salvamento y socorrismo:
+
+– Técnica de nado.
+
+– Técnica de nado adaptadas.
+
+– Técnicas de buceo.
+
+– Técnicas de paso de obstáculos.
+
+– Técnica de remolque.
+
+– Técnica de carrera.
+
+– Técnica de tabla.
+
+– Técnica de ski.
+
+– Técnica de control del material.
+
+– Análisis y secuenciación de los estándares técnicos.
+
+– Instrumentos de representación gráfica.
+
+– Elaboración de instrumentos de recogida de información sobre el comportamiento técnico-táctico del socorrista.
+
+– Análisis de la ejecución técnica: características, criterios.
+
+– Errores tipo en la ejecución técnico-táctica: identificación, causas y soluciones.
+
+– Importancia en la valoración del análisis técnico-táctico del socorrista.
+
+2\. Adapta y concreta los ciclos y sesiones de entrenamiento del socorrista, analizando las programaciones de referencia, la metodología, los medios específicos de preparación, y aplicando procedimientos.
+
+– La programación del socorrista:
+
+– Definición y tipos.
+
+– Objetivos: generales, motores, afectivos, deportivos y cognitivos.
+
+– Temporalización de las actividades y competiciones en un programa de entrenamiento de referencia.
+
+– Competiciones: tipos, características y funciones.
+
+– Instrumentos y medios de control del rendimiento deportivo: tipos y funciones.
+
+– La carga: parámetros, dinámica y cuantificación de las cargas.
+
+– Periodización del entrenamiento:
+
+– Ciclos de entrenamiento.
+
+– La sesión de perfeccionamiento técnico en salvamento y socorrismo:
+
+– Partes de la sesión.
+
+– Objetivos de la sesión.
+
+– Criterios de combinación del trabajo técnico-táctico y preparación física.
+
+– Métodos y medios de entrenamiento técnico- táctico de salvamento y socorrismo.
+
+– Valoración de la Programación anticipada y revisión continua.
+
+3\. Dirige sesiones de entrenamiento del socorrista, demostrando las técnicas propias de este nivel, analizando y aplicando las técnicas de dirección y organización, y aplicando técnicas de autoevaluación.
+
+– La demostración técnica: importancia para el aprendizaje.
+
+– Dirección de sesiones de perfeccionamiento técnico.
+
+– Organización.
+
+– Distribución del material.
+
+– Distribución del espacio.
+
+– Desarrollo.
+
+– La motivación, la concentración, las adaptaciones específicas y los recursos didácticos como medios facilitadores del perfeccionamiento técnico.
+
+– Desarrollo de la sesión:
+
+– Incidencias más habituales: Causas y soluciones.
+
+– Criterios de calidad en la organización y dirección de sesiones.
+
+– Autoevaluación del técnico en la implementación de la sesión de perfeccionamiento.
+
+– Criterios de autoevaluación del desempeño personal del técnico.
+
+– Elaboración de instrumentos de recogida de información.
+
+– Identificación de errores y medidas correctoras.
+
+4\. Dirige al socorrista en competiciones de tecnificación, analizando los factores que condicionan el rendimiento, seleccionando las estrategias de intervención durante la competición.
+
+– Funciones del técnico en las competiciones de tecnificación deportiva de salvamento y socorrismo.
+
+– El Reglamento de Competición: limitaciones técnico-tácticas.
+
+– Las competiciones: características y exigencias básicas de cada categoría.
+
+– Demandas técnico-tácticas, físicas y psicológicas de las competiciones de tecnificación de salvamento y socorrismo.
+
+– Criterios de selección de socorristas y sustituciones y cambios en las competiciones de salvamento y socorrismo.
+
+– Adaptación de los modelos técnicos y tácticos a las condiciones del espacio acuático natural y de la competición.
+
+– Adaptación del equipo personal a las condiciones del espacio acuático natural y de la competición.
+
+– Cuidados al deportista antes, durante y después de la competición.
+
+> Se numera este módulo como Anexo III.i por el art. 6.8.j) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.j — Módulo específico de enseñanza deportiva: Organización de eventos de tecnificación en salvamento y socorrismo. Código: MED-SSSS-204
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Concreta la temporalización de los eventos de salvamento y socorrismo analizando las características de las asociaciones y clubes de salvamento y socorrismo y su programación.
+
+a. Se han identificado las características del programa de actividades de un Club de salvamento y socorrismo.
+
+b. Se han aplicado criterios técnicos y organizativos en el análisis del calendario de competiciones de las Federaciones Autonómicas y la Federación Española de Salvamento y Socorrismo y en la identificación y distribución del momento más adecuado para la organización de los eventos de promoción e iniciación de salvamento y socorrismo.
+
+c. Se han descrito los requisitos de los clubes de salvamento y socorrismo para su vinculación a la Federación Autonómica y Española correspondientes.
+
+d. Se ha explicado la organización básica que necesita un Club para el desarrollo de las actividades en salvamento y socorrismo.
+
+e. Se han analizado los medios básicos de los que debe disponer un Club de salvamento y socorrismo para el desarrollo de un evento de salvamento y socorrismo.
+
+f. Se han analizado los instrumentos de promoción del salvamento y socorrismo que pueden utilizar los clubes deportivos de la modalidad.
+
+g. Se han analizado los efectos de la organización de eventos en la promoción de salvamento y socorrismo.
+
+h. Se han identificado los beneficios que aporta la organización de eventos en salvamento y socorrismo para los clubes deportivos.
+
+i. Se ha valorado la importancia de los eventos de promoción dentro de los objetivos de un Club de salvamento y socorrismo.
+
+2\. Gestiona y organiza eventos de promoción e iniciación deportiva en salvamento y socorrismo analizando las características y requisitos materiales y humanos de los eventos y las características técnicas de los programas.
+
+a. Se ha identificado la información necesaria para la definición de una oferta de organización de eventos de salvamento y socorrismo, así como los criterios y procedimientos de elaboración de la misma.
+
+b. Se ha realizado un presupuesto que valore los costes de un supuesto evento deportivo de promoción e iniciación de salvamento y socorrismo.
+
+c. Se ha analizado la viabilidad de un proyecto de evento deportivo de promoción e iniciación de salvamento y socorrismo en relación al presupuesto.
+
+d. Se han identificado las fuentes de financiación de un evento de promoción o iniciación al salvamento y socorrismo.
+
+e. Se ha concretado la gestión de publicidad que avale el evento deportivo de salvamento y socorrismo.
+
+f. Se han determinado las necesidades de personal, material y logística necesaria para el desarrollo del evento o actividad de salvamento y socorrismo.
+
+g. Se han seleccionado los procedimientos de gestión de los espacios, medios materiales y humanos necesarios para la organización de una competición de iniciación deportiva o evento de promoción salvamento y socorrismo.
+
+h. Se han seleccionado los procedimientos de gestión de los medios necesarios para la recepción, control, seguridad, y logística en general del evento deportivo de promoción e iniciación al salvamento y socorrismo.
+
+i. Se han analizado las funciones de distribución, ubicación, alojamiento y circulación de los participantes y el público en general en un supuesto práctico organización del evento deportivo de promoción e iniciación al salvamento y socorrismo.
+
+j. Se han analizado los criterios para la elaboración del calendario y la distribución de las pruebas, en su caso, que integran el evento de promoción e iniciación al salvamento y socorrismo.
+
+k. Se han descrito las necesidades de medios de comunicación (tipo y cuantía), necesarios para la organización y desarrollo del evento deportivo de promoción e iniciación al salvamento y socorrismo.
+
+l. Se ha valorado la importancia de una organización eficaz y eficiente para el desarrollo de los eventos deportivos de promoción e iniciación al salvamento y socorrismo.
+
+3\. Colabora en la gestión, organización y desarrollo de eventos de tecnificación, analizando las condiciones de organización y de seguridad de los eventos y la normativa medioambiental.
+
+a. Se han descrito los cometidos y funcionamiento de la secretaría de una competición de salvamento y socorrismo de tecnificación.
+
+b. Se han identificado las colaboraciones en la gestión de alojamiento y logística necesarios para los socorristas participantes y público en general asistentes a una competición de tecnificación.
+
+c. Se han descrito las características y procedimientos a seguir para el desarrollo del plan de seguridad ante situaciones de emergencia en el transcurso de la celebración de una competición de salvamento y socorrismo de tecnificación, identificando los medios necesarios.
+
+d. Se han descrito las características de los espacios acuáticos naturales, su funcionalidad y su relación con los aspectos de seguridad, y de protección del medio ambiente.
+
+e. Se han descrito los criterios de seguridad que han de cumplir los equipamientos necesarios para la práctica deportiva en salvamento y socorrismo.
+
+f. Se ha identificado la normativa de aplicación en relación con la seguridad en espacios acuáticos naturales de salvamento y socorrismo.
+
+g. Se han analizado los requisitos básicos de seguridad que han de cumplir los espacios acuáticos naturales según la normativa vigente.
+
+h. Se han descrito las medidas de protección contra actos antisociales y de violencia en el deporte, en una instalación deportiva en salvamento y socorrismo.
+
+i. Se ha valorado la importancia de establecer los planes de emergencia y evacuación en los eventos de salvamento y socorrismo en espacios acuáticos naturales.
+
+4\. Recoge la información durante y al final del evento deportivo de promoción e iniciación al salvamento y socorrismo, analizando los sistemas de recogida de datos, la documentación utilizable y aplicando técnicas para su procesamiento y archivo.
+
+a. Se han interpretado los instrumentos de recogida de información en el análisis y control de los aspectos organizativos y logísticos de las competiciones y eventos de salvamento y socorrismo.
+
+b. Se ha analizado la información sobre el desarrollo técnico y logístico de las competiciones y eventos de salvamento y socorrismo aplicando las técnicas adecuadas.
+
+c. Se han examinado los criterios de análisis de la información sobre el desarrollo técnico y logístico de las competiciones y eventos de salvamento y socorrismo.
+
+d. Se han clasificado las posibles incidencias que pueden surgir durante el desarrollo de la competición o evento de salvamento y socorrismo relacionándolas con las decisiones a tomar y sus consecuencias.
+
+e. Se han descrito los criterios de recogida de información que aseguren su representatividad y veracidad.
+
+f. Se ha justificado la recogida y análisis de la información como base de la mejora continua en la organización de competiciones y eventos de salvamento y socorrismo.
+
+Contenidos básicos
+
+1\. Concreta la temporalización de los eventos de salvamento y socorrismo analizando las características de las asociaciones y clubes de salvamento y socorrismo y su programación.
+
+– Temporalización de eventos de salvamento y socorrismo:
+
+– Características a tener en cuenta.
+
+– Fechas y Promoción.
+
+– El calendario deportivo.
+
+– El Club de salvamento y socorrismo:
+
+– Programa de actividades.
+
+– Requisitos establecidos para la vinculación del club y de sus actividades a la federación autonómica y española.
+
+– Organización básica de un Club Deportivo para desarrollar actividades de salvamento y socorrismo.
+
+– Recursos humanos y materiales para la organización de eventos de salvamento y socorrismo.
+
+– Promoción de salvamento y socorrismo: importancia, instrumentos y beneficios.
+
+– Valoración del trabajo bien hecho.
+
+2\. Gestiona y organiza eventos de promoción e iniciación deportiva en salvamento y socorrismo analizando las características y requisitos materiales y humanos de los eventos y las características técnicas de los programas.
+
+– Los eventos de iniciación deportiva en salvamento y socorrismo.
+
+– Tipos y características.
+
+– Promoción, publicidad e información.
+
+– Organización y procedimientos de gestión.
+
+– Fuentes de financiación.
+
+– Recursos materiales.
+
+– Recursos humanos.
+
+– Presupuestos.
+
+– Infraestructura.
+
+– Logística y control del evento.
+
+– Los programas y características técnicas: elaboración y distribución de pruebas en la competición.
+
+– Valoración de la organización eficaz en el desarrollo de eventos de salvamento y socorrismo.
+
+3\. Colabora en la gestión, organización y desarrollo de eventos de tecnificación, analizando las condiciones de organización y de seguridad de los eventos y la normativa medioambiental.
+
+– Secretaría en una competición de tecnificación: cometidos y funcionamiento.
+
+– Colaboraciones en la gestión de actividades de competición de tecnificación.
+
+– La organización de la competición de tecnificación, (sorteo, organización arbitral, jueces, ubicación de los entrenadores, entre otros. Logística de los participantes y de los espectadores).
+
+– Seguridad del espacio acuático natural y equipamientos deportivos de salvamento y socorrismo:
+
+– Normativa de seguridad aplicable.
+
+– Requisitos básicos de seguridad.
+
+– Plan de seguridad y evacuación.
+
+– Prevención de actos antisociales y violentos.
+
+– Trabajo en equipo.
+
+– Colaboración y ayuda mutua.
+
+4\. Recoge la información durante y al final del evento deportivo de promoción e iniciación al salvamento y socorrismo, analizando los sistemas de recogida de datos, la documentación utilizable y aplicando técnicas para su procesamiento y archivo.
+
+– Instrumentos de recogida de información: la observación, la encuesta, y el cuestionario.
+
+– La recogida de datos.
+
+– El análisis de datos, interpretación de la información (criterios de selección y de valoración); confidencialidad de datos.
+
+– Análisis e interpretación de los cuestionarios informativos.
+
+– Incidencias en competiciones y eventos de salvamento y socorrismo: Clasificación y solución.
+
+– Cuestionarios de evaluación de incidencias y decisiones tomadas.
+
+> Se numera este módulo como Anexo III.j por el art. 6.8.k) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.k — Módulo específico de enseñanza deportiva: Espacios acuáticos y materiales. Código: MED-SSSS-205
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Supervisa la zona de baño de un espacio acuático natural, analizando los factores de riesgos, aplicando la normativa vigente y los protocolos de supervisión establecidos.
+
+a. Se han analizado, los factores de peligrosidad en la zona de baño como medida de reducción del riesgo de accidentes.
+
+b. Se ha analizado la fauna y flora de la zona de baño, identificando su peligrosidad y se ha relacionado con las medidas de prevención de accidentes.
+
+c. Se ha definido el protocolo de actuación y evacuación parcial o total del espacio acuático natural ante situaciones de catástrofe natural, contaminación o invasión de fauna peligrosa.
+
+d. Se han aplicado los protocolos de análisis de las condiciones ambientales (viento, climatología, etc.) y de las condiciones del espacio acuático natural (corrientes, oleaje, visibilidad, profundidad, etc.).
+
+e. Se ha elaborado un informe, en un supuesto práctico, sobre los riesgos potenciales detectados en una zona de baño público y los posibles obstáculos naturales que dificulten la accesibilidad o generen situaciones de riesgo, y propuesto alternativas de solución.
+
+f. Se han descrito las características y condiciones que deben cumplir las zonas de baño públicas en los espacios acuáticos naturales según la legislación vigente.
+
+g. Se han analizado las normativas de ámbito estatal, autonómico y local en relación con las zonas de baño público en espacios acuáticos naturales.
+
+h. Se han interpretado los datos sobre accidentes y víctimas de ahogamiento en las zonas de baño público y establecido sus causas.
+
+i. Se ha relacionado el protocolo de supervisión de la zona de baño con los riesgos y zonas de peligro de la instalación acuática o espacio natural, identificando los elementos de revisión, el orden de supervisión y la periodicidad de la misma.
+
+j. Se han descrito y adaptado los protocolos de vigilancia, actuación preventiva, de rescate y evacuación a los diferentes tipos de accidentes.
+
+k. Se ha demostrado rigor y meticulosidad en la aplicación de las medidas de seguridad necesarias para los socorristas y usuarios.
+
+l. Se ha mostrado una actitud responsable ante la aplicación de la normativa en espacios acuáticos naturales y desarrollo de sus funciones.
+
+2\. Identifica, supervisa y acondiciona los recursos materiales de rescate y de tecnificación deportiva de salvamento y socorrismo describiendo sus características y aplicando los procedimientos de mantenimiento y transporte del mismo.
+
+a. Se han analizado las características y funciones de los materiales de salvamento y socorrismo utilizados en los espacios acuáticos naturales.
+
+b. Se han descrito y ejecutado las actuaciones necesarias de mantenimiento del material auxiliar de salvamento y socorrismo utilizados en los espacios acuáticos naturales.
+
+c. Se han analizado las características de los materiales de tecnificación deportiva de salvamento y socorrismo utilizados en los espacios acuáticos naturales.
+
+d. Se han descrito y ejecutado las actuaciones necesarias de mantenimiento del material de tecnificación deportiva de salvamento y socorrismo utilizado en los espacios acuáticos naturales.
+
+e. Se han ejecutado las acciones de aclarado y colocación de los materiales utilizados en los espacios acuáticos naturales.
+
+f. Se han descrito las adaptaciones de los sistemas específicos de comunicación no verbal (medios alternativos, señales, etc.), comunicación interna y externa (radiotransmisores, teléfonos, silbatos u otros) a los espacios naturales, y explicado su mantenimiento en el medio acuático natural.
+
+g. Se ha mostrado una actitud responsable hacia el uso y mantenimiento del material en espacios acuáticos naturales.
+
+3\. Selecciona la información que un espacio acuático natural debe dar a sus usuarios y socorristas, describiendo y analizando las conductas que deben adoptar los usuarios y socorristas en cuanto a la conservación y respecto por los espacios acuáticos naturales y el entorno.
+
+a. Se han identificado, señalizado y transmitido la información en el espacio acuático natural a través de los recursos audiovisuales y gráficos de forma clara y precisa.
+
+b. Se han transmitido las pautas de comportamiento de obligado cumplimiento en la zona de baño vigilada, utilizando las técnicas y canales de comunicación adecuados a sus características.
+
+c. Se han descrito las características de los soportes informativos preventivos y explicado sus funciones.
+
+d. Se ha relacionado el color de la bandera con las condiciones medioambientales, los factores de peligrosidad, y las medidas de seguridad que se deben tomar.
+
+e. Se han identificado las normas de actuación y transmitido las indicaciones a los usuarios sobre las acciones y el comportamiento que se debe seguir en situaciones de peligro evidente.
+
+f. Se han descrito las prácticas más usuales y comportamientos de los usuarios de un espacio acuático natural y la forma de comunicación adecuada ante una situación de conflicto.
+
+g. Se han descrito y valorado las acciones individuales y/o colectivas de sensibilización al usuario y al socorrista en la conservación y el respeto al medio ambiente.
+
+h. Se ha analizado el impacto medioambiental que puede ocasionar la práctica de actividades por parte de los usuarios en el espacio acuático natural y su entorno.
+
+i. Se ha interiorizado una actitud de respeto y conservación del medio ambiente y del espacio acuático natural y su entorno.
+
+j. Se ha valorado la importancia de la transmisión de las normas como medio para prevenir y garantizar la seguridad de los usuarios en un clima de respeto y convivencia adecuado.
+
+Contenidos básicos
+
+1\. Supervisa la zona de baño de un espacio acuático natural, analizando los factores de riesgos, aplicando la normativa vigente y los protocolos de supervisión establecidos.
+
+– Los espacios acuáticos naturales. Factores de riesgo:
+
+– Tipos y características: playas marítimas, playas fluviales, embalses, lagos, ríos, riadas, etc.
+
+– Fauna y flora peligrosas.
+
+– Factores atmosféricos: estado del cielo, viento, temperatura, etc.
+
+– Factores del medio acuático: mareas, oleaje, corrientes, cambios de profundidad, temperatura, visibilidad, contaminación, etc.
+
+– Obstáculos naturales: accesibilidad y situaciones de riesgo.
+
+– Protocolo de supervisión de los riesgos del medio acuático natural:
+
+– Elementos de revisión.
+
+– Orden secuencial.
+
+– Acondicionamiento, mantenimiento y periodicidad.
+
+– Protocolo de vigilancia, actuación preventiva, rescate y evacuación.
+
+– Protocolos de actuación y evacuación ante catástrofes, contaminación o invasión de fauna peligrosa.
+
+– Accidentes en zonas de baño: fuentes de información y causalidad.
+
+– Normativas aplicables a las zonas de baño en los espacios acuáticos naturales:
+
+– Normativa estatal.
+
+– Normativa autonómica.
+
+– Normativa local.
+
+– El rigor en la aplicación de las normas y medidas de seguridad en el espacio acuático natural.
+
+2\. Identifica, supervisa y acondiciona los recursos materiales de rescate y de tecnificación deportiva de salvamento y socorrismo describiendo sus características y aplicando los procedimientos de mantenimiento y transporte del mismo.
+
+– El material auxiliar de salvamento y socorrismo en espacios acuáticos naturales. Características, mantenimiento y almacenamiento:
+
+– El tubo de rescate. La boya torpedo. La tabla de salvamento. El carrete de salvamento. El tablero espinal. Las aletas.
+
+– El material de tecnificación deportiva de salvamento y socorrismo en espacios acuáticos naturales. Características, mantenimiento y almacenamiento:
+
+– El ski de salvamento. La pala. La tabla de salvamento. El tubo de rescate. Las aletas.
+
+– Equipos de comunicación específicos en espacios acuáticos naturales: preparación, medidas de protección durante su uso, utilización, almacenamiento y transporte.
+
+– Toma de conciencia de la importancia del mantenimiento del material y equipos de comunicación en los espacios acuáticos naturales.
+
+3\. Selecciona la información que un espacio acuático natural debe dar a sus usuarios y socorristas, describiendo y analizando las conductas que deben adoptar los usuarios y socorristas en cuanto a la conservación y respeto por los espacios acuáticos naturales y el entorno.
+
+– La información en las zonas de baño naturales: importancia.
+
+– Recursos informativos:
+
+– Megafonía: características y funciones.
+
+– Soportes informativos preventivos:
+
+– Cartelería: características y funciones.
+
+– Banderas: características y funciones.
+
+– El comportamiento del usuario para conservar los espacios acuáticos naturales:
+
+– La sensibilización del usuario.
+
+– El impacto medioambiental en las zonas de baño acuáticas naturales.
+
+– Factores humanos: afluencia de usuarios y presencia de actividades recreativas y deportivas.
+
+– Normativa relacionadas con el comportamiento de lo usuarios para conservar los espacios acuáticos naturales.
+
+– Protocolo informativo de actuación de los usuarios ante situaciones de emergencia.
+
+– Sistemas de comunicación en los espacios acuáticos naturales.
+
+– La importancia del respeto y transmisión de las normas en los espacios acuáticos naturales.
+
+> Se numera este módulo como Anexo III.k por el art. 6.8.l) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.l — Módulo específico de enseñanza deportiva: Seguridad e intervención en Espacios Acuáticos Naturales. Código: MED-SSSS-206
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Controla, vigila la zona de baño del espacio acuático natural, describiendo y aplicando protocolos específicos, valorando el plan de actuación ante emergencias, y adaptando las técnicas de rescate, los recursos humanos y materiales para prevenir y anticiparse a situaciones de emergencia.
+
+a. Se ha descrito, seleccionado el protocolo de vigilancia concretando la planificación, los factores de peligrosidad, las áreas vigiladas, la rotación entre los socorristas, los puestos, su ubicación y función, los recorridos de las patrullas y periodicidad, los materiales, el número de horas de trabajo al día y los comportamientos y actitudes de los usuarios.
+
+b. Se han analizado las características de los planes de actuación ante emergencias en el espacio acuático natural, en relación con: la facilidad de consulta, su aplicabilidad a personas con discapacidad, las posibilidades de difusión, la claridad y precisión de los organigramas, la disponibilidad de los recursos necesarios y la seguridad del accidentado.
+
+c. Se ha descrito el lugar idóneo de la vigilancia en función del espacio acuático natural, las características de la zona de baño público y de los usuarios.
+
+d. Se han descrito y elegido convenientemente los materiales a utilizar en relación con el tipo de intervención y las vías de evacuación del accidentado en el medio acuático natural.
+
+e. Se han analizado las características de las vías y los recursos de evacuación de un accidentado en el medio acuático natural.
+
+f. Se han analizado los criterios que deben cumplir los recorridos o patrullas por el espacio acuático natural en las labores de vigilancia y prevención.
+
+g. Se han relacionado las conductas, comportamientos o situaciones potencialmente peligrosas en el espacio acuático natural, estableciendo las consecuencias de las mismas y adaptando el procedimiento de rescate.
+
+h. Se ha establecido la distribución horaria de una jornada laboral del descanso semanal para conseguir un servicio de vigilancia en la zona de baño público.
+
+i. Se ha valorado la importancia de la vigilancia y del conocimiento de los protocolos establecidos, analizados los errores y realizado propuestas de mejora del servicio de vigilancia.
+
+j. Se han fomentado actitudes de cooperación y colaboración del equipo de rescate en situaciones de emergencia.
+
+2\. Rescata a un accidentado consciente e inconsciente en el medio acuático natural, ejecutando técnicas específicas adaptándolas a las situaciones y estableciendo los procedimientos para el rescate con seguridad y eficacia en las intervenciones.
+
+a. Se han explicado y analizado los protocolos y técnicas de intervención en cuanto a: entradas al agua, aproximación, control (zafaduras, en su caso), remolque y extracción (en su caso) de un accidentado consciente, con material en el medio acuático natural.
+
+b. Se han explicado y analizado los protocolos y técnicas de intervención en cuanto a: entradas al agua, aproximación, control, remolque y extracción de un accidentado inconsciente, con material en el medio acuático natural.
+
+c. Se han analizado los factores que condicionan y los elementos que constituyen el procedimiento de rescate de una victima en el medio acuático natural.
+
+d. Se ha ejecutado el rescate, en una piscina donde no se hace pie, de una victima situada a 50 metros y que simula un estado de pánico, saliendo de pie desde el borde de la piscina, con las aletas y el tubo de rescate en las manos, la colocación de las aletas se realiza en el agua, se nada sin perder el contacto visual con la víctima un espacio de 50 mts, una vez alcanzada la víctima, se le asegura, controla y remolca otros 50 metros con el tubo de rescate, sin que la victima pueda entorpecer al socorrista, y sin que el agua pase por encima de la vías respiratorias de la víctima, una vez en la orilla de la piscina, debe ayudarle a salir del agua, todo ello en un tiempo máximo de 2 minutos 45 segundos
+
+e. Se ha ejecutado el rescate de una supuesta victima inconsciente (varón de peso y estatura media), saliendo desde el extremo del vaso, fuera del agua, con las aletas puestas y el material de salvamento requerido, nadando una distancia de 100 mts., sin perder el contacto visual con la victima hasta recogerla, asegurarla, controlarla y remolcarla otros 100 mts. con técnica correcta, y realizar la extracción, todo ello en un tiempo máximo de 5 minutos.
+
+f. Se han demostrado y analizado las técnicas de rescate desde la orilla con la utilización del material auxiliar teniendo en cuenta: las condiciones del entorno, el accidente, el estado de la víctima y los recursos humanos y materiales disponibles.
+
+g. Se han seleccionado los criterios de valoración de simulacros de accidentes en el medio acuático natural.
+
+h. Se han elaborado, y valorado simulacros de accidentados conscientes e inconscientes en el medio acuático natural, teniendo en cuenta las técnicas que se prevén valorar o perfeccionar.
+
+i. Se ha concienciado de la importancia del equipo de salvamento y su actuación coordinada ante accidentes en el espacio acuático natural.
+
+3\. Rescata al accidentado consciente e inconsciente, con lesión medular y sin lesión medular, en el medio acuático natural, aplicando técnicas específicas desde embarcaciones a motor.
+
+a. Se han explicado las características generales de las embarcaciones a motor y su importancia en el rescate de una victima en el espacio acuático natural.
+
+b. Se han analizado las técnicas de intervención en cuanto a: entradas al agua, aproximación, control, remolque y extracción (en su caso) de un accidentado consciente con lesión medular, desde la embarcación a motor.
+
+c. Se han analizado las técnicas de intervención en cuanto a: entradas al agua, aproximación, control, remolque y extracción (en su caso) de un accidentado inconsciente con lesión medular, desde la embarcación a motor.
+
+d. Se ha explicado la ubicación del socorrista en las embarcaciones a motor para la vigilancia e intervención ante situaciones de emergencia en el medio acuático natural.
+
+e. Se han demostrado el rescate de un supuesto accidentado consciente e inconsciente desde una embarcación a motor cumpliendo el protocolo establecido.
+
+f. Se han demostrado y ejecutado las maniobras de rescate desde una embarcación a motor de una persona con lesión medular consciente e inconsciente con autocontrol, eficacia y seguridad siguiendo los protocolos establecidos.
+
+g. Se ha ejecutado la extracción de un sujeto simulando lesión medular, organizando a 2 ó 3 socorristas, teniendo en cuenta los protocolos de intervención establecidos y el uso de las técnicas específicas.
+
+h. Se han analizado las técnicas de rescate desde una embarcación y desde una moto acuática de rescate a un accidentado próximo a una zona acantilada.
+
+i. Se ha mostrado una actitud cuidadosa y responsable ante accidentados con lesión medular.
+
+Contenidos básicos
+
+1\. Vigila la zona de baño público de forma permanente y sistemática, comprueba y valora el plan de actuación ante emergencias, los protocolos específicos y los recursos de evacuación determinando las técnicas de rescate adaptadas, los recursos humanos y materiales para prevenir y anticiparse a situaciones de emergencia.
+
+– Protocolo de vigilancia, en el medio acuático natural: características y función:
+
+– Importancia, evaluación y mejora.
+
+– Plan de actuación ante emergencias en el medio acuático natural: características.
+
+– La vigilancia en el medio acuático natural:
+
+– Ubicación de los puestos.
+
+– Dotación.
+
+– Material necesario.
+
+– Rotación de los socorristas.
+
+– Recorridos y patrullas.
+
+– Técnicas de vigilancia: estática y dinámica.
+
+– El servicio de vigilancia: Horarios del servicio de socorro.
+
+– La evacuación en el medio acuático natural:
+
+– Vías de evacuación.
+
+– Recursos de evacuación.
+
+– Protocolos de actuación ante conductas inadecuadas. El trabajo en equipo: coordinación, actitudes y comportamiento ante situaciones de emergencia.
+
+2\. Rescata a un accidentado consciente e inconsciente en el medio acuático natural, ejecutando técnicas específicas adaptándolas a las situaciones y estableciendo los procedimientos para el rescate con seguridad y eficacia en las intervenciones.
+
+– Protocolos y técnicas de intervención en el medio acuático natural:
+
+– Entradas al agua, aproximación, control, remolque y extracción.
+
+– Técnicas de rescate de la victima consciente. Características y análisis.
+
+– Técnicas de rescate de la victima inconsciente. Características y análisis.
+
+– Técnicas de rescate desde la orilla:
+
+– Material de rescate utilizado.
+
+– Recursos humanos.
+
+3\. Rescata al accidentado consciente e inconsciente, con lesión medular y sin lesión medular, en el medio acuático natural, aplicando técnicas específicas desde embarcaciones a motor.
+
+– El accidentado con lesión medular en el espacio acuático natural:
+
+– Características generales.
+
+– Consecuencias ante una incorrecta manipulación.
+
+– El material auxiliar en el rescate del accidentado con lesión medular.
+
+– Adaptaciones de las técnicas de rescate de un accidentado con lesión medular en el medio acuático natural. Errores frecuentes y consecuencias.
+
+– Las embarcaciones a motor:
+
+– Embarcación neumática.
+
+– La moto de agua.
+
+– Protocolos de rescate con la embarcación a motor:
+
+– Características generales.
+
+– Ubicación y vigilancia del socorrista con la embarcación a motor.
+
+– Acercamiento y rescate del accidentado.
+
+– Ubicación del accidentado.
+
+– Extracción.
+
+– Rescate con la embarcación a motor de un accidentado con lesión medular.
+
+– Rescate de un accidentado con lesión medular: con y sin embarcación a motor.
+
+– Actitud del socorrista ante un accidentado con posible lesión medular.
+
+> Se numera este módulo como Anexo III.l por el art. 6.8.m) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.m — Módulo de enseñanza deportiva: Formación práctica. Código: MED-SSSS-207
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica la estructura organizativa y el funcionamiento del centro deportivo de prácticas (club, federación, escuela, empresa,…), estableciendo la relación con su oferta de actividades de especialización y tecnificación deportiva en Salvamento y Socorrismo, con las actividades de gestión del centro, y aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a. Se han identificado las relaciones del centro deportivo de prácticas con las federaciones españolas o autonómicas de salvamento y socorrismo.
+
+b. Se ha identificado la estructura organizativa y el funcionamiento de las distintas áreas del centro deportivo de prácticas.
+
+c. Se han identificado las relaciones jerárquicas dentro del centro deportivo de prácticas.
+
+d. Se ha identificado la oferta de actividades vinculadas a la tecnificación deportiva, al perfeccionamiento técnico y al acompañamiento de usuarios.
+
+e. Se han identificado las vías de financiación económica utilizadas por el centro deportivo de prácticas.
+
+f. Se ha distinguido la oferta de actividades orientada a la especialización, tecnificación deportiva o perfeccionamiento técnico de salvamento y socorrismo en las mujeres.
+
+g. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+2\. Actúa con autonomía, iniciativa y responsabilidad en el puesto de trabajo, demostrando comportamiento ético, habilidades personales de comunicación, trabajo en equipo, respeto por el medio ambiente, y aplicando los procedimientos establecidos por el centro de prácticas.
+
+a. Se han identificado los requerimientos actitudinales del puesto de trabajo.
+
+b. Se han interpretado y cumplido las instrucciones recibidas, y responsabilizado del trabajo asignado.
+
+c. Se ha demostrado compromiso con el trabajo bien hecho y la calidad del servicio, así como respeto a los procedimientos y principios propios del club o entidad deportiva.
+
+d. Se ha demostrado capacidad de trabajo en equipo y respeto a la jerarquía establecida en el club o entidad deportiva.
+
+e. Se han establecido una comunicación y relación eficaz con el técnico responsable de la actividad y los miembros del equipo, manteniendo un trato fluido y correcto.
+
+f. Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante o imprevisto que se presente en la actividad.
+
+g. Se ha mantenido una actitud clara de respeto del medio ambiente en las actividades desarrolladas en el entorno natural y en el desarrollo de la tecnificación del salvamento y socorrismo.
+
+3\. Identifica y toma medidas antes los posibles riesgos y peligros del espacio acuático natural aplicando los protocolos de vigilancia y control establecidos.
+
+a. Se han identificado los riesgos y peligros existentes en el espacio acuático natural tanto para los usuarios como para los propios socorristas.
+
+b. Se han establecido las normas de seguridad en el desarrollo de la actividad, de protección del entorno del espacio acuático natural, en función de las características del centro de prácticas.
+
+c. Se han aplicado los planes de emergencia y evacuación del medio natural siguiendo las instrucciones y normas establecidas.
+
+d. Se han transmitido a los usuarios, las normas de seguridad y respeto del entorno aplicando técnicas de comunicación y señalización, y teniendo en cuenta la normativa correspondiente.
+
+e. Se han realizado operaciones de supervisión de las zonas destinadas al baño público y a la realización de actividades acuáticas y de tecnificación deportiva de salvamento y socorrismo que apoyen la seguridad de los usuarios que disfrutan del entorno natural y de los participantes de la competición o evento de tecnificación de salvamento y socorrismo.
+
+f. Se ha controlado y vigilado la zona de baño y el medio natural a través de protocolos específicos en relación con:
+
+– Las áreas de vigilancia.
+
+– La ubicación de los puestos de vigilancia.
+
+– La dotación de los puestos.
+
+– La rotación de los socorristas.
+
+– Los recorridos (duración, periodicidad) de los socorristas.
+
+– El material de salvamento y socorrismo utilizado.
+
+g. Se han seleccionado convenientemente los materiales a utilizar en relación con las funciones del personal responsable, las características del entorno natural y las vías de evacuación del accidentado.
+
+h. Se han aplicado las especificaciones técnicas del uso de los materiales necesarios para la seguridad durante el desarrollo de la actividad de salvamento y socorrismo en el entorno natural y/o instalación acuática.
+
+i. Se han ejecutado las acciones de mantenimiento del material utilizado durante el servicio de salvamento y socorrismo.
+
+j. Se ha actuado atendiendo a la seguridad personal, del equipo de trabajo y de los usuarios, cumpliendo con la normativa vigente y con los protocolos establecidos en el lugar de realización de las prácticas.
+
+k. Se ha reconocido la actitud responsable que debe tener el socorrista ante los medios y recursos puestos a su alcance y de autocontrol ante situaciones de emergencia o conflictivas en aras de garantizar la seguridad de los usuarios y/o deportivas en el espacio acuático natural.
+
+4\. Organiza, acompaña y dirige a los socorristas en su participación en actividades, competiciones y otros eventos de tecnificación deportiva en salvamento y socorrismo, transmitiendo actitudes y valores, personales y sociales, propios de la ética deportiva: respeto a los demás, al entorno y al propio cuerpo, juego limpio y trabajo en equipo.
+
+a. Se ha realizado la inscripción de los socorristas en una competición de tecnificación deportiva en salvamento y socorrismo, de acuerdo con los protocolos y normas establecidos.
+
+b. Se han realizado las operaciones de gestión del seguro de accidente y actividad de un grupo de socorristas que participan en una competición, de acuerdo con las instrucciones y normas recibidas.
+
+c. Se ha reconocido y justificado la responsabilidad de un técnico en los desplazamientos de los socorristas para asistir a una competición.
+
+d. Se ha elaborado el plan de viaje de un grupo de socorristas que participa en una competición de tecnificación deportiva, aplicando las instrucciones y procedimientos establecidos.
+
+e. Se ha comprobado la cobertura legal del grupo de socorristas, durante su participación en la competición, de acuerdo con la normativa establecida.
+
+f. Se ha informado al grupo de socorristas de las características de la competición, interpretando la documentación sobre la misma.
+
+g. Se han aplicado procedimientos de reclamación en una competición de tecnificación deportiva en salvamento y socorrismo, aplicando los protocolos y normas establecidos.
+
+h. Se han aplicado criterios de valoración de la ejecución técnico-táctica del socorrista, utilizando técnicas y procedimientos de observación adecuadas al nivel de tecnificación deportiva.
+
+i. Se han trasladado al socorrista las instrucciones técnicas y tácticas durante la competición de tecnificación deportiva, teniendo en cuenta las características de la competición y del deportista.
+
+j. Se ha acompañado a los socorristas en las competiciones, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
+
+k. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de tecnificación deportiva en salvamento y socorrismo, aplicando los procedimientos adecuados y respetando las normas de la misma.
+
+5\. Adapta y concreta los programas y, dirige las sesiones de entrenamiento básico y perfeccionamiento técnico en salvamento y socorrismo, interpretando la información recibida, aplicando las técnicas y procedimientos de acuerdo con las instrucciones y normas establecidas, y colaborando en la aplicación de técnicas de detección de talentos.
+
+a. Se han identificado y seleccionado los medios y recursos necesarios para el desarrollo de la sesión de entrenamiento básico y perfeccionamiento técnico de salvamento y socorrismo.
+
+b. Se ha recibido al deportista siguiendo el protocolo establecido e identificando sus demandas y necesidades.
+
+c. Se han aplicado técnicas y protocolos de valoración técnica y de la condición motriz propios del socorrista del nivel de tecnificación deportiva en salvamento y socorrismo, valorando su estado inicial, el grado de consecución de los objetivos propuestos y los errores cometidos.
+
+d. Se ha identificado y seleccionado los objetivos técnicos y de preparación de la condición motriz del socorrista a partir de la programación de referencia del centro deportivo.
+
+e. Se han aplicado protocolos de control y cuantificación de la carga de entrenamiento de los socorristas en las sesiones de entrenamiento básico y perfeccionamiento técnico en salvamento y socorrismo.
+
+f. Se ha colaborado en la aplicación de técnicas de detección de talentos propias de salvamento y socorrismo.
+
+g. Se han establecido las condiciones de seguridad necesarias, en la tecnificación deportiva en salvamento y socorrismo, interpretando las instrucciones o normas y aplicando los procedimientos establecidos.
+
+h. Se ha elaborado un ciclo/etapa de preparación completa de un socorrista o grupo de socorristas a partir de la programación de referencia del centro deportivo, concretando:
+
+– Objetivos de preparación y/o competición.
+
+– Medios de entrenamiento.
+
+– Instrumentos de control.
+
+– Carga de trabajo y su dinámica durante el ciclo.
+
+– Métodos de entrenamiento.
+
+– Sesiones de entrenamiento.
+
+y adecuándose a las características de los socorristas y los medios de entrenamiento existentes.
+
+i. Se han explicado los contenidos de la sesión de entrenamiento básico y perfeccionamiento técnico en salvamento y socorrismo siguiendo los protocolos y técnicas establecidas de forma clara y motivadora.
+
+j. Se ha dirigido la sesión de entrenamiento básico y perfeccionamiento técnico, solucionando las contingencias existentes, aplicando técnicas de dinámica de grupos y de motivación adecuadas a los socorristas.
+
+6\. Organiza sesiones de iniciación deportiva en salvamento y socorrismo para personas con discapacidad, aplicando recursos que fomenten su participación en función de sus limitaciones.
+
+a. Se ha valorado la importancia de atender a las características únicas de la persona con discapacidad previamente a la realización de la práctica del salvamento y socorrismo.
+
+b. Se ha orientado a las personas con discapacidad hacia las prácticas deportivas más adecuadas en cada caso.
+
+c. Se han determinado las ayudas técnicas y las medidas de seguridad específicas según los diferentes tipos de discapacidad y las características de la práctica deportiva del salvamento y socorrismo.
+
+d. Se han establecido las principales orientaciones metodológicas en relación a la comunicación y la participación en la tarea de las personas con discapacidad.
+
+e. Se han aplicado procedimientos de adaptación / modificación de las tareas y juegos favoreciendo la participación, el disfrute y las posibilidades de éxito de personas con discapacidad en la práctica del salvamento y socorrismo.
+
+f. Se han identificado las principales limitaciones hacia la práctica provocadas por la falta de accesibilidad en las instalaciones y espacios deportivos en el centro deportivo de prácticas.
+
+g. Se han examinado las limitaciones originadas por la falta de acceso a la información de la oferta deportiva de salvamento y socorrismo y la difusión de la práctica en el centro deportivo de prácticas.
+
+h. Se ha propiciado una actitud positiva hacia la inclusión por parte de compañeros, técnicos, las propias familias y las instituciones hacia la práctica deportiva de salvamento y socorrismo de personas con discapacidad.
+
+7\. Coordina el proceso de iniciación deportiva en salvamento y socorrismo, elaborando las programaciones de referencia, analizando la estructura de la escuela de iniciación deportiva, y aplicando los procedimientos y técnicas adecuadas.
+
+a. Se ha identificado la estructura y funciones de la escuela de iniciación deportiva en salvamento y socorrismo en el centro deportivo de prácticas.
+
+b. Se han realizado funciones y aplicado protocolos de coordinación de los técnicos de iniciación deportiva en salvamento y socorrismo en el centro deportivo de prácticas.
+
+c. Se han identificado las necesidades materiales y humanas de la escuela de iniciación deportiva en salvamento y socorrismo del centro deportivo de prácticas.
+
+d. Se han identificado los estándares técnicos del programa de iniciación deportiva en salvamento y socorrismo del centro deportivo de prácticas.
+
+e. Se ha elaborado un programa de iniciación deportiva en salvamento y socorrismo de acuerdo con las características del grupo, del entorno, y la programación del centro deportivo de prácticas.
+
+f. Se ha valorado la importancia de la existencia de una programación de referencia en una Escuela de iniciación deportiva al salvamento y socorrismo.
+
+8\. Colabora en la organización de actividades y competiciones de tecnificación deportiva en salvamento y socorrismo, interpretando instrucciones y normas relacionadas, identificando y preparando los medios necesarios y aplicando los procedimientos establecidos.
+
+a. Se ha identificado el calendario de actividades, eventos y competiciones de iniciación o tecnificación deportivo en salvamento y socorrismo del centro deportivo de prácticas.
+
+b. Se ha seleccionado la información necesaria en la organización de un evento o competición de iniciación o tecnificación deportivo en salvamento y socorrismo del centro deportivo de prácticas.
+
+c. Se han realizado operaciones de gestión y organización de los espacios, materiales y recursos humanos de un evento o competición de iniciación o tecnificación deportivo en salvamento y socorrismo del centro deportivo de prácticas.
+
+d. Se han aplicado técnicas de recogida de información sobre los aspectos organizativos y logísticos de un evento o competición de iniciación o tecnificación deportivo en salvamento y socorrismo del centro deportivo de prácticas.
+
+e. Se han realizado operaciones de distribución, ubicación, alojamiento y circulación de los participantes y públicos asistente en un evento o competición de iniciación o tecnificación deportivo en salvamento y socorrismo del centro deportivo de prácticas.
+
+f. Se ha realizado operación de apoyo administrativo a la organización de un evento o competición de iniciación o tecnificación deportivo en salvamento y socorrismo del centro deportivo de prácticas.
+
+g. Se han elaborado los documentos informativos de un evento o competición de iniciación o tecnificación deportivo en salvamento y socorrismo del centro deportivo de prácticas.
+
+h. Se ha valorado la importancia del conocimiento de las instrucciones y normas de las actividades, competiciones y eventos de tecnificación de salvamento y socorrismo.
+
+9\. Interviene en la gestión del riesgo en espacios acuáticos naturales y durante la práctica y de tecnificación deportiva en salvamento y socorrismo, identificando y aplicando procedimientos específicos de acuerdo con las instrucciones o normas de aplicación.
+
+a. Se han establecido las condiciones de seguridad aplicables a los usuarios de espacios acuáticos naturales y deportistas de tecnificación de salvamento y socorrismo, interpretando las instrucciones o normas y aplicando los procedimientos establecidos.
+
+b. Se han realizado operaciones de rescate a usuarios del espacio acuático natural que se encuentran en situación de emergencia, simulada o real, actuando en base a los protocolos establecidos y utilizando los medios propios de este tipo de espacios.
+
+c. Se han realizado operaciones de rescate a socorristas que acuden a la instalación acuática o espacio acuático natural en situaciones de tecnificación deportiva o acompañamiento en salvamento y socorrismo, aplicando técnicas y procedimientos específicos.
+
+d. Se ha controlado a los usuarios del espacio acuático natural y/o al grupo de deportistas durante las situaciones de riesgo o peligro, aplicando los protocolos de acuerdo con las instrucciones y normas recibidas.
+
+e. Se han efectuado los protocolos de comunicación y autocontrol de la situación de riesgo o peligro, de acuerdo con las normas y procedimientos establecidos.
+
+f. Se ha mantenido una actitud de tranquilidad y responsabilidad durante la intervención en las operaciones de rescate.
+
+g. Se ha mostrado un interés hacia la formación continua en técnicas y procedimientos de rescate en situaciones de riesgo o peligro en el medio acuático natural así como al mantenimiento físico y técnico necesario.
+
+> Se numera este módulo como Anexo III.m por el art. 6.8.n) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO IV — Ratio profesor/alumno
+
+| Bloque específico | Ratio profesor/alumno |
+|---|---|
+| *Ciclo inicial* |  |
+| MED-SSS102: Instalaciones acuáticas y materiales. | 1/30 |
+| MED-SSSS103: Metodología del salvamento y socorrismo. | 1/30 |
+| MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo. | 1/30 |
+| MED-SSSS105: Seguridad e intervención en instalaciones acuáticas. | 1/20 |
+| *Ciclo final* |  |
+| MED-SSSS-201: Escuela de salvamento y socorrismo. | 1/30 |
+| MED-SSSS-202: Preparación física del socorrista. | 1/30 |
+| MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo. | 1/30 |
+| MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo. | 1/30 |
+| MED-SSSS-205: Espacios acuáticos y materiales. | 1/30 |
+| MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales. | 1/20 |
+
+## ANEXO V — Acceso al módulo de formación práctica
+
+| Acceso al módulo de formación práctica | Módulos a superar |
+|---|---|
+| MED-SSSS-106 Formación práctica. | Del bloque común del ciclo inicial:<br>● MED-C101. Bases del comportamiento deportivo.<br>● MED-C102. Primeros auxilios.<br>Del bloque específico:<br>● MED-SSSS 103. Metodología de la enseñanza.<br>● MED-SSSS 105. Seguridad e intervención en la instalaciones acuáticas. |
+| MED-SSSS-207 Formación práctica. | Del bloque común del ciclo final:<br>● MED-C201. Bases del aprendizaje.<br>● MED-C202. Bases del entrenamiento deportivo.<br>Del bloque específico:<br>● MED-SSSS 203. Perfeccionamiento técnico en salvamento y socorrismo.<br>● MED-SSSS 206. Seguridad e intervención en Espacios Acuáticos Naturales. |
+
+## ANEXO VI A — Espacios y equipamientos mínimos del ciclo inicial
+
+Espacios: ciclo inicial
+
+| Espacio formativo | Superficie 30 alumnos | Superficie 20 alumnos | Módulo de enseñanza deportiva |
+|---|---|---|---|
+| Aula polivalente. | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común y específico del ciclo inicial. |
+| Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | MED-C101. Bases del comportamiento deportivo.<br>MED-C102. Primeros auxilios.<br>MED-C105: Actividad físico-deportiva para personas con discapacidad. |
+
+| Espacio formativo | Módulo de enseñanza deportiva |
+|---|---|
+| Piscina de 25 m×1,80 m de profundidad. | MED-SSSS102: Instalaciones acuáticas y materiales.<br>MED-SSSS103: Metodología del salvamento y socorrismo.<br>MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.<br>MED-SSSS105: Seguridad e intervención en Instalaciones Acuáticas. |
+
+Equipamientos: ciclo inicial
+
+| Aula polivalente | Módulo de enseñanza deportiva |
+|---|---|
+| Equipos audiovisuales.<br>PCs instalados en red.<br>Cañón de proyección e Internet.<br>Software anatómico. | Módulos de enseñanza deportiva de los bloques común y específico del ciclo inicial. |
+| Maniquíes de primeros auxilios (adulto y pediátrico).<br>Material de inmovilización y movilización.<br>Material de cura.<br>Desfibrilador externo semiautomático. | MED-C102: Primeros auxilios. |
+| Material deportivo adaptado. | MED-C105: Actividad físico-deportiva para personas con discapacidad. |
+
+| Piscina | Módulo de enseñanza deportiva |
+|---|---|
+| Material de iniciación al Medio Acuático.<br>Material de iniciación al salvamento y socorrismo.<br>Material de rescate de salvamento y socorrismo.<br>Material de comunicación. | MED-SSSS102: Instalaciones acuáticas y materiales.<br>MED-SSSS103: Metodología de salvamento y socorrismo.<br>MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.<br>MED-SSSS105: Seguridad e intervención en Instalaciones Acuáticas. |
+
+> Se modifica por el art. 6.4 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO VI B — Espacios y equipamientos del ciclo final
+
+Espacios: ciclo final
+
+| Espacio formativo | Superficie 30 alumnos | Superficie 20 alumnos | Módulo de enseñanza deportiva |
+|---|---|---|---|
+| Aula polivalente. | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo final. |
+| Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | MED-C201: Bases del aprendizaje deportivo.<br>MED-C202: Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad. |
+| Pista polideportiva<br>44 m×22 m. |  |  | MED-C201: Bases del aprendizaje deportivo.<br>MED-C202: Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad. |
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Espacio formativo</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Piscina de 25 m.×1,80 m de profundidad.</p>
+</td>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">MED-SSSS-201: Escuela de salvamento y socorrismo.</p>
+<p class="cuerpo_tabla_izq">MED-SSSS-202: Preparación física del socorrista.</p>
+<p class="cuerpo_tabla_izq">MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo.</p>
+<p class="cuerpo_tabla_izq">MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.</p>
+<p class="cuerpo_tabla_izq">MED-SSSS-205: Espacios acuáticos y materiales.</p>
+<p class="cuerpo_tabla_izq">MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Entorno natural: playas marítimas y fluviales, ríos, lagos y embalses.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Equipamientos: ciclo final
+
+| Equipamiento del aula polivalente | Módulo de enseñanza deportiva |
+|---|---|
+| Equipos audiovisuales. Cañón de proyección.<br>PCs instalados en red con conexión a Internet.<br>Software específico. | Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo final. |
+
+| Equipamiento del gimnasio. | Módulo de enseñanza deportiva. |
+|---|---|
+| Material deportivo adaptado.<br>Material ortopédico. | MED-C206: Iniciación deportiva para personas con discapacidad. |
+| Material deportivo.<br>Muñecos desmembrados.<br>Láminas de anatomía.<br>Pulsímetros. | MED-C202: Bases del entrenamiento deportivo.<br>MED-SSSS-202: Preparación física del socorrista. |
+
+| Equipamiento de la piscina y del entorno natural. | Módulo de enseñanza deportiva. |
+|---|---|
+| Material de iniciación al salvamento y socorrismo.<br>Material de rescate de salvamento y socorrismo.<br>Material de comunicación.<br>Embarcación de rescate. | MED-SSSS-201: Escuela de salvamento y socorrismo.<br>MED-SSSS-202: Preparación física del socorrista.<br>MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo.<br>MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.<br>MED-SSSS-205: Espacios acuáticos y materiales.<br>MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales. |
+
+> Se modifica por el art. 6.5 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO VII — Prueba RAE-SSSS-101, de carácter específico para el acceso a las enseñanzas de ciclo inicial de grado medio en salvamento y socorrismo
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Se desenvuelve en el medio acuático ejecutando técnicas específicas de nado y habilidades y destrezas específicas con eficacia y seguridad.
+
+a. Se ha ejecutado la zambullida y la orientación posterior en el medio acuático durante el desplazamiento de forma eficaz.
+
+■ Entrada al agua de pie manteniendo el equilibrio y control del cuerpo en el aire durante el salto.
+
+■ Entrada al agua de cabeza de forma hidrodinámica manteniendo el control del cuerpo en el aire durante el salto.
+
+b. Se ha realizado el nado en apnea durante la distancia establecida, manteniéndose cerca del suelo de la piscina, sin salir a la superficie y manteniendo la dirección de la prueba.
+
+c. Se ha mantenido la flotación durante la colocación de las aletas, manteniendo la orientación y utilizando al menos una técnica identificable.
+
+d. Se han ejecutado varios giros en los diferentes ejes cada 25 metros y cada cambio de estilo durante el desplazamiento en el agua manteniendo la flotación, orientación y permitiendo la observación del entorno.
+
+e. Se han ejecutado las técnicas de crol con cabeza fuera del agua, braza completa, espalda con aletas y crol con aletas, manteniendo la dirección de la prueba, coordinando los movimientos con la respiración y adaptándose al uso de material auxiliar.
+
+f. Se ha mantenido la eficacia en el desplazamiento, la velocidad y resistencia de nado, realizando la totalidad de la prueba en menos de 5 minutos y 30 segundos (tiempo).
+
+Prueba asociada «combinada con aletas»
+
+■ El aspirante situado en el poyete de la piscina, se introduce al agua (de pié o de cabeza - a propuesta del tribunal) sumergiéndose hasta el fondo de la piscina (mínimo 1’8 metros de profundidad).
+
+■ A continuación recorre en apnea prolongada una distancia de 10 a 15 metros.
+
+■ Asciende a la superficie y completará los primeros 25 m. nadando a estilo libre.
+
+■ Posteriormente recorrerá 25 metros estilo crol con la cabeza fuera, manteniendo la visión fuera del agua, orientación y observación del entorno.
+
+■ Seguidamente realizará 50 metros a braza.
+
+■ Una vez recorridos se colocará las aletas situadas en un extremo del borde del vaso manteniéndose en flotación dinámica.
+
+■ Una vez colocadas las aletas recorrerá 50 metros nadando a espalda.
+
+■ Seguidos de 50 metros nadando a crol, dando por finalizada la prueba.
+
+Condiciones básicas de realización de la prueba de acceso: espacio y equipamientos
+
+Espacios:
+
+Piscina de 25 m×1.80 m de profundidad
+
+Equipamientos y materiales:
+
+Un par de aletas por alumno.
+
+## ANEXO VIII — Requisitos de titulación del profesorado de los módulos del bloque común de los ciclos inicial y final de grado medio, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad que a continuación se detalla:
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="3">Ciclo inicial</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C101.Bases del comportamiento deportivo.</td>
+<td class="cuerpo_tabla_izq">Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-C102. Primeros auxilios.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Educación física.</p>
+<p class="cuerpo_tabla_izq">Procesos sanitarios.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Procedimientos sanitarios y asistenciales.</td>
+<td class="cuerpo_tabla_izq">Profesores Técnicos de Formación Profesional.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td class="cuerpo_tabla_izq">Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C104.Organización deportiva.</td>
+<td class="cuerpo_tabla_izq">Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="3">Ciclo final</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C201. Bases del aprendizaje deportivo.</td>
+<td class="cuerpo_tabla_izq">Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C202. Bases del entrenamiento deportivo.</td>
+<td class="cuerpo_tabla_izq">Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</td>
+<td class="cuerpo_tabla_izq">Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C204.Organización y legislación deportiva.</td>
+<td class="cuerpo_tabla_izq">Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C205. Deporte y género.</td>
+<td class="cuerpo_tabla_izq">Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica por el art. 6.4 a 6 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO IX A — Requisitos de titulación del profesorado de los módulos del bloque específico de los ciclos inicial y final de grado medio, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="3">Ciclo inicial</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS102: Instalaciones acuáticas y materiales.</td>
+<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS103: Metodología del salvamento y socorrismo.</td>
+<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.</td>
+<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS105: Seguridad e intervención en Instalaciones Acuáticas.</td>
+<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS106: Formación práctica.</td>
+<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="3">Ciclo final</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-201: Escuela de salvamento y socorrismo.</td>
+<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-202: Preparación física del socorrista.</td>
+<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo.</td>
+<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.</td>
+<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-205: Espacios acuáticos y materiales.</td>
+<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.</td>
+<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO IX B — Condición de Profesor especialista en centros públicos de la Administración educativa: Acreditación de experiencia docente, o actividad en el ámbito deportivo y laboral
+
+| Módulos enseñanza deportiva | Experiencia docente acreditable | Actividad en el ámbito deportivo y laboral |
+|---|---|---|
+| MED-SSSS102: Instalaciones acuáticas y materiales.<br>MED-SSSS103: Metodología de salvamento y socorrismo.<br>MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.<br>MED-SSSS105: Seguridad e intervención en las Instalaciones Acuáticas. | Al menos 100 horas de docencia acreditada en formación de entrenadores en el nivel 1, 2 ó 3 de salvamento y socorrismo en las formaciones a las que se refiere la disposición adicional quinta y la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, así como de la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre. | Al menos 2 años de ejercicio deportivo-laboral relacionado con las competencias profesionales del ciclo inicial, realizado en los 4 años inmediatamente anteriores al nombramiento. |
+| MED-SSSS-201: Escuela de salvamento y socorrismo.<br>MED-SSSS-202: Preparación física del socorrista.<br>MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo.<br>MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.<br>MED-SSSS-205: Espacios acuáticos y materiales.<br>MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales. | Al menos 100 horas de docencia acreditada en formación de entrenadores en el nivel 2 ó 3 de salvamento y socorrismo en las formaciones a las que se refiere la disposición adicional quinta y la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, así como de la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre. | Al menos 2 años de ejercicio deportivo-laboral relacionado con las competencias profesionales del ciclo final, realizado en los 4 años inmediatamente anteriores al nombramiento. |
+
+En el caso de las formaciones a las que se refiere la adicional quinta del RD 1363/2007, de 24 de octubre la Federación Española de Salvamento y Socorrismo o los órganos responsables de formación de las comunidades autónomas emitirán la correspondiente certificación de la experiencia docente en la que conste: las materias impartidas, el número de horas impartidas, la fecha del curso en el que se impartió la materia o materias, y la fecha de la resolución de reconocimiento de la formación por parte del Consejo Superior de Deportes junto con la fecha de publicación en el BOE.
+
+En el caso de las formaciones a las que se refiere la disposición transitoria primera de los R.D. 1913/1997, y 1363/2007, el órgano competente de la Comunidad autónoma que autorizó las formaciones emitirá la correspondiente certificación de la experiencia docente en la que consten las materias y el número de horas impartidas.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+La Federación Española de Salvamento y Socorrismo emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+## ANEXO X — Requisitos de titulación del profesorado de los módulos de enseñanza deportiva de los ciclos inicial y final de grado medio, en centros privados y de titularidad pública de Administraciones distintas a la educativa.
+
+Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
+
+<table class="tabla" data-vertical-align="top">
+<caption>
+<p class="centro_cursiva">Módulos del bloque común: ciclo inicial y final</p>
+</caption>
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo comunes de enseñanza deportiva</th>
+<th class="cabeza_tabla">Titulaciones</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">Ciclo inicial</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C101: Bases del comportamiento deportivo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Psicología.</p>
+<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
+<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C102: Primeros auxilios.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Medicina.</p>
+<p class="cuerpo_tabla_izq">Diplomado o Graduado en Enfermería.</p>
+<p class="cuerpo_tabla_izq">Diplomado o Graduado en Fisioterapia.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
+<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C104: Organización deportiva.</td>
+<td class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">Ciclo final</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C201: Bases del aprendizaje deportivo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Psicología.</p>
+<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
+<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C202: Bases del entrenamiento deportivo.</td>
+<td class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</td>
+<td class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C204: Organización y legislación deportiva.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p class="cuerpo_tabla_izq">Licenciado en Derecho.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C205. Deporte y género.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
+<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla" data-vertical-align="top">
+<caption>
+<p class="centro_cursiva">Módulos del bloque específico: ciclo inicial y final</p>
+</caption>
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo específico de enseñanza deportiva</th>
+<th class="cabeza_tabla">Titulaciones</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">Ciclo inicial</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-SSSS102: Instalaciones acuáticas y materiales.</td>
+<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-SSSS103: Metodología del salvamento y socorrismo.</td>
+<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.</td>
+<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-SSSS105: Seguridad e intervención en Instalaciones Acuáticas.</td>
+<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-SSSS106: Formación Práctica.</td>
+<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">Ciclo final</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-SSSS-201: Escuela de salvamento y socorrismo.</td>
+<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-SSSS-202: Preparación física del socorrista.</td>
+<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo.</td>
+<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.</td>
+<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-SSSS-205: Espacios acuáticos y materiales.</td>
+<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.</td>
+<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-SSSS-207: Formación Práctica.</td>
+<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica por el art. 6.4 a 6 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Se modifica por el art. 6 del Real Decreto 737/2015, de 31 de julio. [Ref. BOE-A-2015-8645](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8645)
+
+## ANEXO XI A — Correspondencia de los módulos de enseñanza deportiva con las unidades de competencia para su acreditación
+
+| Módulos de enseñanza deportiva superados | Unidades de competencia del CNCP acreditables |
+|---|---|
+| Los módulos de:<br>● MED-C102: Primeros auxilios.<br>● MED-SSSS106: Formación Práctica. | Acreditan la Unidad de competencia de:<br>● UC0272_2: Asistir como primer interviniente en caso de accidente o situación de emergencia. |
+| El módulo de:<br>● RAE-SSSS101: Prueba de acceso. | Acreditan la Unidad de competencia de:<br>● UC0269_2: Ejecutar técnicas específicas de natación con eficacia y seguridad. |
+| Los módulos de:<br>● MED-SSSS102: Instalaciones acuáticas y materiales.<br>● MED-SSSS103: Metodología de salvamento y socorrismo.<br>● MED-SSSS105: Seguridad e intervención en las Instalaciones Acuáticas.<br>● MED-SSSS106: Formación Práctica. | Acreditan la Unidad de competencia de:<br>● UC0270_2: Prevenir accidentes o situaciones de emergencia en instalaciones acuáticas, velando por la seguridad de los usuarios. |
+| Los módulos de:<br>● MED-SSSS103: Metodología de salvamento y socorrismo.<br>● MED-SSSS105: Seguridad e intervención en las Instalaciones Acuáticas.<br>● MED-C101: Bases del comportamiento deportivo.<br>● MED-SSSS106: Formación Práctica. | Acreditan la Unidad de competencia de:<br>● UC0271_2: Rescatar personas en caso de accidente o situación de emergencia que se produzca en el medio acuático. |
+| Los módulos de:<br>● RAE-SSSS101: Prueba de acceso.<br>● MED-SSSS103: Metodología de salvamento y socorrismo.<br>● MED-SSSS106: Formación Práctica. | Acreditan la Unidad de competencia de:<br>● UC1759_2: Ejecutar habilidades y destrezas básicas aplicadas a la iniciación deportiva en la modalidad de salvamento y socorrismo en instalaciones acuáticas con eficacia y seguridad. |
+| Los módulos de:<br>● MED-SSSS102: Instalaciones acuáticas y materiales.<br>● MED-SSSS103: Metodología de salvamento y socorrismo.<br>● MED-SSSS106: Formación Práctica. | Acreditan la Unidad de competencia de:<br>● UC1760_2: Concretar, dirigir y dinamizar sesiones secuenciadas de iniciación deportiva en la modalidad deportiva de salvamento y socorrismo en instalaciones acuáticas. |
+| Los módulos de:<br>● MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.<br>● MED-SSSS106: Formación Práctica. | Acreditan la Unidad de competencia de:<br>● UC1761_2: Dinamizar acciones de promoción y acompañamiento a deportistas en eventos y competiciones de la modalidad deportiva de salvamento y socorrismo en instalaciones acuáticas. |
+| Los módulos de:<br>● MED-SSSS-205: Espacios acuáticos y materiales.<br>● MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.<br>● MED-SSSS-207: Formación Práctica. | Acreditan la Unidad de competencia de:<br>● UC1082_2: Prevenir accidentes o situaciones de Emergencia en espacios acuáticos naturales. |
+| Los módulos de:<br>● MED-C201- Bases del aprendizaje deportivo.<br>● MED-SSSS-202: Preparación física del socorrista.<br>● MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.<br>● MED-SSSS-207: Formación Práctica. | Acreditan la Unidad de competencia de:<br>● UC01083_2: Rescatar personas en caso de accidente o situación de emergencia en espacios acuáticos naturales. |
+
+## ANEXO XI B — Correspondencia de las unidades de competencia acreditadas con los módulos de enseñanza deportiva para su convalidación
+
+| Unidades de competencia del CNCP acreditadas | Módulos de enseñanza deportiva convalidables |
+|---|---|
+| La Unidad de competencia:<br>● UC0272_2: Asistir como primer interviniente en caso de accidente o situación de emergencia. | Permiten la convalidación de:<br>● MED-C102: Primeros auxilios. |
+| La Unidad de competencia:<br>● UC0269_2: Ejecutar técnicas específicas de natación con eficacia y seguridad. | Permiten la convalidación de:<br>● RAE-SSSS101: Prueba de acceso. |
+| Las Unidades de competencia:<br>● UC0270_2: Prevenir accidentes o situaciones de emergencia en instalaciones acuáticas, velando por la seguridad de los usuarios.<br>● UC1760_2: Concretar, dirigir y dinamizar sesiones secuenciadas de: iniciación deportiva en salvamento y socorrismo en instalaciones acuáticas. | Permiten la convalidación de:<br>● MED-SSSS102: Instalaciones acuáticas y materiales. |
+| Las Unidades de competencia:<br>● UC1759_2: Ejecutar habilidades y destrezas básicas aplicadas a la iniciación deportiva en salvamento y socorrismo en instalaciones acuáticas con eficacia y seguridad<br>● UC1760_2: Concretar, dirigir y dinamizar sesiones secuenciadas de: iniciación deportiva en la modalidad de salvamento y socorrismo en instalaciones acuáticas. | Permiten la convalidación de:<br>● MED-SSSS103: Metodología del salvamento y socorrismo. |
+| La Unidad de competencia:<br>● UC1761_2: Dinamizar acciones de promoción y acompañamiento a deportistas en eventos y competiciones de la modalidad deportiva de salvamento y socorrismo en instalaciones acuáticas. | Permiten la convalidación de:<br>● MED-SSSS104: Organización de actividades y eventos. |
+| Las Unidades de competencia:<br>● UC0270_2: Prevenir accidentes o situaciones de emergencia en instalaciones acuáticas, velando por la seguridad de los usuarios.<br>● UC0271_2: Rescatar personas en caso de accidente o situación de emergencia que se produzca en el medio acuático. | Permiten la convalidación de:<br>● MED-SSSS105: Seguridad e intervención en las Instalaciones Acuáticas. |
+| La Unidad de competencia:<br>● UC1082_2: Prevenir accidentes o situaciones de Emergencia en espacios acuáticos naturales. | Permiten la convalidación de:<br>● MED-SSSS-205: Espacios acuáticos y materiales. |
+| Las Unidades de competencia:<br>● UC1082_2: Prevenir accidentes o situaciones de Emergencia en espacios acuáticos naturales.<br>● UC01083_2: Rescatar personas en caso de accidente o situación de emergencia en espacios acuáticos naturales. | Permiten la convalidación de:<br>● MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales. |
+
+## ANEXO XII — Exención del módulo de formación práctica de los ciclos inicial y final
+
+| MED-SSSS106: Formación práctica | Experiencia ámbito laboral o deportivo |
+|---|---|
+| Exención parcial.<br>Exención total. | Duración: Superior a 300 horas.<br>Actividad desarrollada: Experiencia relacionada con la competencia general del ciclo inicial de salvamento y socorrismo y los resultados de aprendizaje del módulo de formación práctica.<br>Periodo de tiempo que ha desarrollado la actividad: 2 años anteriores a la finalización del curso. |
+
+La exención parcial del módulo de formación práctica, se concederá para aquellos resultados de aprendizaje del módulo, que sean concordantes con la experiencia laboral o deportiva acreditada.
+
+La exención total del módulo de formación práctica, se podrá conceder cuando exista una completa concordancia de la experiencia laboral o deportiva acreditada con la totalidad de los resultados de aprendizaje del correspondiente módulo.
+
+La Federación Española o autonómica de salvamento y socorrismo de emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+| MED-SSSS-207: Formación práctica | Experiencia ámbito laboral o deportivo |
+|---|---|
+| Exención parcial.<br>Exención total. | Duración: Superior a 300 horas.<br>Actividad desarrollada: Experiencia relacionada con la competencia general del ciclo final de salvamento y socorrismo y los resultados de aprendizaje del módulo de formación práctica.<br>Periodo de tiempo que ha desarrollado la actividad: 2 años anteriores a la finalización del curso. |
+
+La exención parcial del módulo de formación práctica, se concederá para aquellos resultados de aprendizaje del módulo, que sean concordantes con la experiencia laboral o deportiva acreditada.
+
+La exención total del módulo de formación práctica, se podrá conceder cuando exista una completa concordancia de la experiencia laboral o deportiva acreditada con la totalidad de los resultados de aprendizaje del correspondiente módulo.
+
+La Federación Española o autonómica de salvamento y socorrismo o aquellas entidades establecidas por las administraciones educativas competentes emitirán la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+## ANEXO XIII — Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia docente
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulos de enseñanza deportiva</th>
+<th class="cabeza_tabla">Experiencia docente</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">Ciclo inicial</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">MED-SSS102: Instalaciones acuáticas y materiales.</p>
+<p class="cuerpo_tabla_izq">MED-SSSS103: Metodología del salvamento y socorrismo.</p>
+<p class="cuerpo_tabla_izq">MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.</p>
+<p class="cuerpo_tabla_izq">MED-SSSS105: Seguridad e intervención en instalaciones acuáticas.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Experiencia como Profesor en materias relacionadas con los módulos de enseñanza deportiva acreditables, realizadas de acuerdo a lo establecido en la disposición transitoria primera del R.D. 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del R.D. 1363/2007, de 24 de octubre.</p>
+<p class="cuerpo_tabla_izq">La experiencia deberá ser de, al menos, el triple de las horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">Ciclo final</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">MED-SSSS-201: Escuela de salvamento y socorrismo.</p>
+<p class="cuerpo_tabla_izq">MED-SSSS-202: Preparación física del socorrista.</p>
+<p class="cuerpo_tabla_izq">MED-SSSS-203: Perfeccionamiento técnico en de salvamento y socorrismo.</p>
+<p class="cuerpo_tabla_izq">MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.</p>
+<p class="cuerpo_tabla_izq">MED-SSSS-205: Espacios acuáticos y materiales.</p>
+<p class="cuerpo_tabla_izq">MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Experiencia como Profesor en materias relacionadas con los módulos de enseñanza deportiva acreditables, realizadas de acuerdo a lo establecido en la disposición transitoria primera del R.D. 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del R.D. 1363/2007, de 24 de octubre.</p>
+<p class="cuerpo_tabla_izq">La experiencia deberá ser de, al menos, el triple de las horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+La experiencia docente se acreditará mediante certificado expedido por la Comunidad Autónoma que autorizó dichas formaciones en el que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la misma.
+
+## ANEXO XIV — Formación a distancia
+
+|  | Ciclo inicial | Ciclo final |
+|---|---|---|
+| Módulos bloque común. | MED-C101: Bases del comportamiento deportivo.<br>MED-C102: Primeros auxilios.<br>MED-C105: Actividad físico-deportiva para personas con discapacidad.<br>MED-C104: Organización deportiva. | MED-C201: Bases del aprendizaje deportivo.<br>MED-C202: Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad.<br>MED-C204: Organización y legislación deportiva.<br>MED-C205. Deporte y género. |
+| Módulos bloque específico. | MED-SSSS102: Instalaciones acuáticas y materiales<br>MED-SSSS103: Metodología del salvamento y socorrismo.<br>MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo | MED-SSSS-201: Escuela de salvamento y socorrismo.<br>MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.<br>MED-SSSS-205: Espacios acuáticos y materiales. |
+
+> Se modifica por el art. 6.4 a 6 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)

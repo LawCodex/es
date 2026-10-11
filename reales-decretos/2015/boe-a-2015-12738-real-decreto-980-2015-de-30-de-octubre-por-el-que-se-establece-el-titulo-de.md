@@ -1,0 +1,6429 @@
+---
+title: "Real Decreto 980/2015, de 30 de octubre, por el que se establece el título de Técnico Deportivo en Baloncesto y se fijan su currículo básico y los requisitos de acceso, y se modifica el Real Decreto 669/2013, de 6 de septiembre, por el que se establece el título de Técnico Deportivo en Atletismo y se fijan sus enseñanzas mínimas y los requisitos de acceso"
+identifier: "BOE-A-2015-12738"
+eli: "https://www.boe.es/eli/es/rd/2015/10/30/980"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación, Cultura y Deporte"
+date: 2015-10-30
+published: 2015-11-25
+in_force_from: 2015-11-26
+last_amended: 2026-07-02
+consolidated: 2026-09-07
+gazette: "Boletín Oficial del Estado núm. 282"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-12738"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 980/2015, de 30 de octubre, por el que se establece el título de Técnico Deportivo en Baloncesto y se fijan su currículo básico y los requisitos de acceso, y se modifica el Real Decreto 669/2013, de 6 de septiembre, por el que se establece el título de Técnico Deportivo en Atletismo y se fijan sus enseñanzas mínimas y los requisitos de acceso
+
+Incluye la corrección de errores publicada en BOE núm.72, de 24 de marzo de 2016. [Ref. BOE-A-2016-2917](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2917)
+
+La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos.
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en su artículo 64.5 que el Gobierno, previa consulta a las comunidades autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros.
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
+
+Este marco normativo hace necesario que ahora el Gobierno, previa consulta a las comunidades autónomas, actualice el título de Técnico Deportivo en baloncesto establecido al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, y que formará parte del Catálogo de las enseñanzas deportivas del sistema educativo, y estableciendo sus currículos básicos y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, de acuerdo con la Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa.
+
+El Real Decreto 1363/2007, de 24 de octubre, ha establecido la ordenación general de las enseñanzas deportivas de régimen especial, y define en el artículo 4 la estructura de las enseñanzas deportivas.
+
+Por otra parte, en su artículo 6 concreta el perfil profesional de dichos títulos, que incluirá la competencia general, las competencias profesionales, personales y sociales, las cualificaciones y, en su caso, las unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en los títulos, con el fin de lograr que, en efecto, los títulos de enseñanzas deportivas respondan a las necesidades demandadas por el sistema productivo y a los valores personales y sociales para ejercer una ciudadanía democrática.
+
+A estos efectos procede determinar para cada título su identificación, su perfil profesional, el entorno profesional, las enseñanzas de los ciclos de enseñanzas deportivas, la correspondencia de los módulos de enseñanzas deportivas con las unidades de competencia para su acreditación, convalidación o exención, la acreditación de módulos debida a la experiencia docente y los parámetros básicos de contexto formativo para cada módulo de enseñanza deportiva (espacios, equipamientos necesarios, las titulaciones y especialidades del profesorado). Asimismo, en cada título también se determinarán los requisitos específicos de acceso, siendo propio de estos títulos la identificación de la carga lectiva que se acredita a través de estos requisitos, la vinculación con otros estudios, las convalidaciones, exenciones y equivalencias.
+
+El marcado carácter técnico de estas enseñanzas, definidas por la peculiaridad de sus procedimientos, materiales, equipos y prácticas específicas de cada modalidad, hace necesario un desarrollo que garantice un mínimo común denominador, claro y orientador, a través de una norma reglamentaria.
+
+El presente real decreto se dicta en desarrollo del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, y establece y regula, en los aspectos y elementos básicos antes indicados, el título de Técnico Deportivo en Baloncesto.
+
+A través de este reglamento se adapta al ámbito de las enseñanzas deportivas en baloncesto las previsiones del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, ya contenidas en el citado Real Decreto 1363/2007, de 24 de octubre, y desarrolla en este ámbito las previsiones de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+Finalmente se incorpora una disposición adicional por la que se modifica el Real Decreto 669/2013, de 6 de septiembre, por el que se establece el título de Técnico Deportivo en Atletismo y se fijan sus enseñanzas mínimas y los requisitos de acceso, dando una nueva redacción a su disposición adicional cuarta. «Titulaciones equivalentes», para establecer la equiparación de los efectos profesionales y académicos entre el certificado de superación del primer nivel establecido en el RD 254/2004, de 13 de febrero y el ciclo inicial de grado medio en atletismo regulado en el Real Decreto 669/2013, de 6 de septiembre.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas en el seno de las Conferencia Sectorial de Educación, ha emitido dictamen el Consejo Escolar del Estado, y ha informado el Ministerio de Hacienda y Administraciones Públicas.
+
+En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte y previa deliberación del Consejo de Ministros en su reunión del día 30 de octubre de 2015,
+
+DISPONGO:
+
+### CAPÍTULO I — Objeto
+
+#### Artículo 1. Objeto.
+
+1\. El objeto del presente real decreto es el establecimiento del título de Técnico Deportivo en Baloncesto, con carácter oficial y validez en todo el territorio nacional, así como de su correspondiente currículo básico.
+
+2\. Lo dispuesto en este real decreto sustituye a la regulación del título de Técnico Deportivo en Baloncesto contenida en el Real Decreto 234/2005, de 4 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Baloncesto, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas.
+
+3\. De conformidad con lo establecido en el Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, los elementos recogidos en el presente real decreto no constituyen una regulación del ejercicio de profesión titulada alguna.
+
+### CAPÍTULO II — Identificación del título y organización de las enseñanzas
+
+#### Artículo 2. Identificación del título de Técnico Deportivo en Baloncesto.
+
+El título de Técnico Deportivo en Baloncesto queda identificado por los siguientes elementos:
+
+a) Denominación: Baloncesto.
+
+b) Nivel: Enseñanzas Deportivas de Grado Medio.
+
+c) Duración: 1005 horas.
+
+d) Referente Internacional: CINE-3 (Clasificación Internacional Normalizada de Educación).
+
+#### Artículo 3. Organización de las enseñanzas conducentes al título de Técnico Deportivo en Baloncesto.
+
+Las enseñanzas conducentes al Título de Técnico Deportivo en Baloncesto se organizan en dos ciclos:
+
+a) Ciclo inicial de grado medio en baloncesto, teniendo una duración de 430 horas.
+
+b) Ciclo final de grado medio en baloncesto, teniendo una duración de 575 horas.
+
+#### Artículo 4. Especializaciones del título de Técnico Deportivo en Baloncesto.
+
+1\. El título de Técnico Deportivo en Baloncesto tendrá como especializaciones:
+
+a) Baloncesto escolar.
+
+b) Baloncesto de personas con discapacidad.
+
+c) Baloncesto en silla de ruedas.
+
+d) Baloncesto 3x3 en la etapa de tecnificación.
+
+2\. El Ministerio de Educación, Cultura y Deporte, a propuesta del Consejo Superior de Deportes y previa consulta de los órganos competentes en materia de deportes de las Comunidades Autónomas y de la Federación Española de Baloncesto establecerá los objetivos, contenidos y criterios de evaluación de estas especializaciones.
+
+> Se modifica la letra b) del apartado 1 por el art. 8.1 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+### CAPÍTULO III — Perfil profesional y entorno profesional, personal y laboral deportivo de los ciclos
+
+#### Artículo 5. Perfil profesional de los ciclos de grado medio en baloncesto.
+
+El perfil profesional del ciclo inicial y final de grado medio en baloncesto queda determinado por su competencia general, sus competencias profesionales, personales y sociales, por la relación de cualificaciones y en su caso, unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título y el entorno profesional, laboral y deportivo.
+
+#### Artículo 6. Competencia general del ciclo inicial de grado medio en baloncesto.
+
+La competencia general del ciclo inicial de grado medio en baloncesto consiste en dinamizar, instruir y concretar la iniciación deportiva de baloncesto; acompañar, animar, dirigir, organizar y tutelar a los deportistas durante su participación en actividades, competiciones y eventos propios de estas etapas; y todo ello conforme a las directrices establecidas en el modelo de formación de referencia, en condiciones adecuadas de seguridad y con un aceptable nivel de calidad que permita la satisfacción de los deportistas en la actividad.
+
+#### Artículo 7. Competencias profesionales, personales y sociales del ciclo inicial de grado medio en baloncesto.
+
+Las competencias profesionales, personales y sociales del ciclo inicial de grado medio en Baloncesto son las que se relacionan a continuación:
+
+a) Identificar las habilidades técnicas ofensivas y defensivas, las situaciones tácticas propias y las principales normas del reglamento utilizadas en las etapas iniciales del baloncesto, con el nivel suficiente para el desarrollo de las tareas propias de la iniciación deportiva.
+
+b) Atender al deportista, informándole de las características de la actividad, recabando información sobre sus motivaciones e intereses, y estimulándole hacia la práctica del baloncesto.
+
+c) Valorar las habilidades técnicas y la capacidad de juego en las etapas iniciales de los deportistas con el objeto de mejorar su nivel, incorporándolos a un grupo y tomar las medidas de corrección adecuadas.
+
+d) Concretar la sesión de entrenamiento para las etapas iniciales en baloncesto, de acuerdo con la programación de referencia, adecuándose a las características de los participantes y del grupo, así como a las condiciones espaciales y materiales existentes, teniendo en cuenta la transmisión de valores de práctica saludable, de respeto y cuidado del propio cuerpo.
+
+e) Dinamizar y dirigir la sesión de entrenamiento en etapas de iniciación al baloncesto, mostrando los fundamentos del baloncesto, utilizando un lenguaje específico elemental adecuado y adaptado a los deportistas, solucionando las dificultades que surjan, consiguiendo una participación motriz máxima conforme a los objetivos propuestos para la sesión, y dentro de las normas de seguridad requeridas.
+
+f) Controlar la seguridad de la práctica de los jugadores de baloncesto en las etapas iniciales, supervisando previamente las instalaciones y medios a utilizar, vigilándolas durante la práctica.
+
+g) Asistir como primer interviniente en caso de accidente o situación de emergencia, requiriendo la ayuda profesional en caso de duda o necesario.
+
+h) Acompañar y dirigir a los deportistas en las competiciones y otras actividades de etapas iniciales en baloncesto, eligiendo los modelos tácticos más adecuados y proporcionando una experiencia motivante, segura, y que induzca a la repetición.
+
+i) Dirigir y coordinar a los deportistas, gestionando las propias emociones y las relaciones que se dan en competiciones de las etapas iniciales, aplicando las estrategias adecuadas, transmitiendo y siendo ejemplo de los valores éticos vinculados al juego limpio y al respeto hacia los demás y al reglamento, reforzando la responsabilidad individual y el esfuerzo personal.
+
+j) Colaborar e intervenir en la dinamización, organización, gestión y arbitraje de competiciones y eventos propios del baloncesto lúdico con el objeto de captar, adherir y fidelizar al deportista.
+
+k) Participar en equipos de trabajo técnico, aceptando el trabajo colaborativo y estando dispuesto a aprender de los demás.
+
+l) Valorar el desarrollo de la sesión de aprendizaje y de las competiciones en las etapas iniciales, a partir de la observación del juego y de los jugadores utilizando recursos tecnológicos y herramientas de recogida de la información.
+
+m) Asumir la responsabilidad de ser técnico deportivo en las etapas iniciales, formando personas además de jugadores, entendiendo la dimensión lúdica que tiene el baloncesto y potenciando los mejores valores del deporte colectivo.
+
+n) Poseer el espíritu de mejora e interés constante, siendo activo en la formación permanente, en el esfuerzo personal, en la innovación en el ámbito de su labor como técnico deportivo, potenciando el aprender a aprender.
+
+#### Artículo 8. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales en el ciclo inicial de grado medio en baloncesto.
+
+El ciclo inicial de grado medio en baloncesto incluye la unidad de competencia UC0272_2_R: Asistir como primer interviniente en caso de accidente o situación de emergencia, del Catálogo Nacional de Cualificaciones Profesionales.
+
+#### Artículo 9. Entorno profesional, laboral y deportivo del ciclo inicial de grado medio en baloncesto.
+
+1\. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado, las Administraciones Autonómicas o Locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones y clubes deportivos y sociales, escuelas de baloncesto, centros de iniciación deportiva, centros educativos, empresas de servicios deportivos, campus de baloncesto, etc. que ofrezcan actividades deportivo-recreativas de descubrimiento e iniciación o tecnificación al baloncesto.
+
+2\. Se ubica en los sectores del deporte, el ocio, y tiempo libre y el turismo.
+
+3\. Las ocupaciones y puestos de trabajo más relevantes para estos profesionales son las siguientes:
+
+a) Entrenador de nivel 1 de Baloncesto.
+
+b) Monitor de escuelas de baloncesto.
+
+4\. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo a los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
+
+#### Artículo 10. Competencia general del ciclo final de grado medio en baloncesto.
+
+La competencia general del ciclo final de grado medio en baloncesto consiste en confeccionar, adaptar, dinamizar y dirigir el entrenamiento en la etapa de tecnificación deportiva de baloncesto; coordinar, acompañar y tutelar a los deportistas durante su participación en actividades, competiciones y eventos propios de este nivel; gestionar los recursos materiales necesarios y las actividades de los técnicos a su cargo; organizar actividades, competiciones y eventos de este o inferior nivel; todo ello conforme a las directrices establecidas en la programación de referencia, en condiciones de seguridad y con un nivel alto de calidad que permita la satisfacción de los deportistas participantes en la actividad.
+
+#### Artículo 11. Competencias profesionales, personales y sociales propias del sistema deportivo del ciclo final de grado medio en baloncesto.
+
+Las competencias profesionales, personales y sociales del ciclo final de grado medio en baloncesto son las que se relacionan a continuación:
+
+a) Valorar y agrupar al deportista en función de sus habilidades técnicas, físicas, psicológicas, tácticas, capacidad de juego y competitividad, para adaptar la programación de referencia de tecnificación en baloncesto, y mantener la motivación reforzando el interés por la práctica.
+
+b) Adaptar y concretar ciclos, programas específicos de tecnificación y sesiones de entrenamiento de baloncesto eficaces y eficientes, de acuerdo con la programación de referencia, adecuándose a las características de los participantes, del grupo, y la competición en la que participan, así como a las condiciones espaciales y materiales existentes.
+
+c) Diseñar programas de enseñanza de baloncesto, de acuerdo con los objetivos de las etapas posteriores, teniendo en cuenta la transmisión de valores propios de este deporte, de práctica saludable, de respeto y cuidado del propio cuerpo.
+
+d) Dinamizar y dirigir la sesión de entrenamiento en la etapa de tecnificación en baloncesto, utilizando las estrategias metodológicas adecuadas, solucionando las dificultades que surjan, detectando y corrigiendo errores, y logrando una implicación óptima del deportista en esta etapa.
+
+e) Dirigir al equipo en el partido, analizando la aplicación del reglamento, seleccionando tácticas y estrategias adecuadas a la etapa de tecnificación y a la situación competitiva, para mejorar el rendimiento individual y colectivo.
+
+f) Dirigir a los jugadores del equipo, manteniendo el autocontrol emocional en situaciones de competición, controlando las relaciones del equipo, demostrando liderazgo y potenciando el juego limpio, el respeto a uno mismo y a los demás, al reglamento y a quienes velan por él.
+
+g) Organizar eventos propios de la iniciación deportiva, y colaborar e intervenir en la gestión de competiciones y eventos propios de la tecnificación en baloncesto, con el objeto de captar, adherir y fidelizar al deportista en la práctica de este deporte.
+
+h) Gestionar la dirección deportiva en la etapa de tecnificación, coordinando a otros técnicos encargados de la iniciación deportiva, supervisando, asesorando y colaborando en su programación, organizando los recursos materiales y humanos. Todo ello con el fin de dinamizar y favorecer las relaciones de los equipos técnicos, participando del trabajo colaborativo.
+
+i) Valorar el desarrollo de los ciclos de entrenamiento y de los resultados obtenidos, recogiendo y procesando la información necesaria para contrastar el proceso de evolución y tecnificación deportiva, permitiendo, el ajuste y mejora permanente del proceso de entrenamiento.
+
+j) Analizar y valorar desde la observación («scouting»), los componentes tácticos del juego colectivo en la etapa de tecnificación, utilizando los recursos tecnológicos específicos para la mejora del desempeño del técnico, de los jugadores y del equipo.
+
+k) Transmitir valores del deporte colectivo, los derechos y deberes, implicándose en el desarrollo del deportista como jugador y como persona.
+
+l) Demostrar el espíritu de mejora e interés constante por la formación a lo largo de la vida, en el esfuerzo personal y en la innovación en el ámbito de su labor como técnico deportivo, en el desarrollo de sus capacidades y logro de sus competencias.
+
+#### Artículo 12. Entorno profesional, laboral y deportivo del ciclo final de grado medio en baloncesto.
+
+1\. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado, las administraciones autonómicas o locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones, centros de tecnificación, clubes deportivos y sociales, centros educativos, empresas de servicios deportivos, campus de baloncesto, que ofrezcan actividades deportivo-recreativas de tecnificación en baloncesto.
+
+2\. Se ubica en los sectores del deporte, el ocio y tiempo libre.
+
+3\. Las ocupaciones y puestos de trabajo más relevantes son las siguientes:
+
+a) Entrenador de nivel 2 de baloncesto.
+
+b) Director técnico de club de base.
+
+c) Coordinador de escuelas de baloncesto.
+
+4\. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo a los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
+
+### CAPÍTULO IV — Estructura de las enseñanzas de cada uno de los ciclos de enseñanza deportiva conducentes al título de Técnico Deportivo en Baloncesto
+
+#### Artículo 13. Estructura de los ciclos inicial y final de grado medio de baloncesto.
+
+1\. Los ciclos desarrollados en el presente real decreto se estructuran en módulos, agrupados en bloque común y bloque específico.
+
+2\. Los módulos de enseñanza deportiva del ciclo inicial de grado medio de baloncesto son los que a continuación se relacionan:
+
+a) Módulos del bloque común:
+
+MED-C101. Bases del comportamiento deportivo.
+
+MED-C102. Primeros auxilios.
+
+MED-C104. Organización deportiva.
+
+MED-C105. Actividad físico-deportiva para personas con discapacidad.
+
+b) Módulos del bloque específico:
+
+MED-BCBC102 Formación del jugador en etapas iniciales.
+
+MED-BCBC103 Dirección de equipos en etapas iniciales.
+
+MED-BCBC104 Enseñanza del baloncesto.
+
+MED-BCBC105 Táctica de ataque y defensa en etapas iniciales.
+
+MED-BCBC106 Formación práctica.
+
+3\. Los módulos de enseñanza deportiva del ciclo final de grado medio de baloncesto son los que a continuación se relacionan:
+
+a) Módulos del bloque común:
+
+MED-C201. Bases del aprendizaje deportivo.
+
+MED-C202. Bases del entrenamiento deportivo.
+
+MED-C204. Organización y legislación deportiva.
+
+MED-C205. Deporte y género.
+
+MED-C206. Iniciación deportiva para personas con discapacidad.
+
+b) Módulos del bloque específico:
+
+MED-BCBC201 Formación del jugador en la etapa de tecnificación.
+
+MED-BCBC202 Dirección de equipos en la etapa de tecnificación.
+
+MED-BCBC203 Entrenamiento en baloncesto.
+
+MED-BCBC204 Táctica de ataque y defensa en la etapa de tecnificación.
+
+MED-BCBC205 Iniciación en baloncesto en silla de ruedas.
+
+MED-BCBC206 Formación práctica.
+
+4\. La distribución horaria del currículo básico de los ciclos desarrollados en el presente real decreto de baloncesto se establece en el anexo I.
+
+5\. Los objetivos generales y los módulos enseñanza deportiva de los ciclos inicial y final de grado medio en baloncesto quedan desarrollados en los anexos II y III del presente real decreto.
+
+> Se modifica la letra a) de los apartado 2 y 3 por el art. 8.2 y 3 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm.72, de 24 de marzo de 2016. [Ref. BOE-A-2016-2917](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2917)
+
+#### Artículo 14. Ratio profesor/alumno.
+
+Para impartir los módulos del bloque común y los contenidos relacionados con los resultados de aprendizaje de carácter conceptual de los módulos del bloque específico, de los ciclos inicial y final de grado medio en baloncesto, la relación profesor/alumno será de 1/30. Para impartir los contenidos relacionados con los resultados de aprendizaje de carácter procedimental de los módulos del bloque específico de los ciclos inicial y final de grado medio en baloncesto, la relación profesor/alumno será la recogida en el anexo IV.
+
+#### Artículo 15. Módulo de formación práctica.
+
+Para iniciar los módulos de formación práctica de los ciclos inicial y final de grado medio en baloncesto, será necesario haber superado con anterioridad los módulos comunes y específicos de enseñanza deportiva que se establecen en el anexo V de este real decreto.
+
+#### Artículo 16. Determinación del currículo.
+
+Las Administraciones educativas establecerán los currículos correspondientes respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+
+#### Artículo 17. Espacios y equipamientos deportivos.
+
+Los espacios y equipamientos mínimos necesarios para el desarrollo de las enseñanzas de los ciclos de grado medio en baloncesto son los establecidos en los anexos VI-A y VI-B de este real decreto.
+
+### CAPÍTULO V — Acceso a cada uno de los ciclos
+
+#### Artículo 18. Requisitos generales de acceso a los ciclos inicial y final de grado medio en baloncesto.
+
+1\. Para acceder al ciclo inicial de grado medio en baloncesto será necesario tener el título de Graduado en Educación Secundaria Obligatoria en la opción de enseñanzas aplicadas o en la de enseñanza académicas o equivalente a efectos de acceso.
+
+2\. Para acceder al ciclo final de grado medio en baloncesto será necesario acreditar tener superado el ciclo inicial de grado medio en baloncesto.
+
+#### Artículo 19. Requisitos de acceso al ciclo inicial de grado medio en baloncesto para personas sin el título de Graduado en Educación Secundaria Obligatoria.
+
+Se podrá acceder a las enseñanzas del ciclo inicial de grado medio en baloncesto sin el título de Graduado en Educación Secundaria Obligatoria, siempre que el aspirante reúna los otros requisitos de carácter específico que se establecen en el presente real decreto, cumpla las condiciones de edad y supere la prueba establecida en el artículo 31.1.a) del Real Decreto 1363/2007, de 24 de octubre.
+
+#### Artículo 20. Requisito de acceso específico al ciclo inicial de grado medio en baloncesto.
+
+1\. Para acceder al ciclo inicial de grado medio en baloncesto será necesario superar la prueba de carácter específico que se establece en el ANEXO VII o acreditar el mérito deportivo de haber competido durante al menos una temporada en cualquier categoría de competición federativa desde la categoría infantil hasta categoría absoluta.
+
+2\. Tanto la prueba de carácter específico del ciclo inicial RAE-BCBC101 como el mérito deportivo, acreditan la competencia profesional de: «Identificar las habilidades técnicas ofensivas y defensivas, las situaciones tácticas propias y las principales normas del reglamento utilizadas en las etapas iniciales del baloncesto, con el nivel suficiente para el desarrollo de las tareas propias de la iniciación deportiva», recogida en el artículo 7 del presente real decreto, y que en el título se les asigna una carga horaria de formación de 105 horas sobre la duración total del ciclo inicial de grado medio en baloncesto.
+
+3\. La Federación Española de Baloncesto emitirá el correspondiente certificado que acredite la posesión del mérito deportivo establecido en el presente real decreto.
+
+4\. Para la superación de la prueba de carácter específico será necesaria la evaluación positiva en la totalidad de los criterios de evaluación descritos en las mismas.
+
+#### Artículo 21. Efectos y vigencia de la prueba de acceso carácter específico.
+
+1\. La superación de la prueba de carácter específico, que se establece para el acceso al ciclo inicial de grado medio en baloncesto, tendrá efectos en todo el territorio nacional.
+
+2\. La superación de la prueba de carácter específico, que se establece en el anexo VII, tendrán una vigencia de 18 meses, contados a partir de la fecha de su finalización.
+
+#### Artículo 22. Exención de la superación de la prueba de carácter específico a los deportistas de alto nivel o y alto rendimiento.
+
+Estarán exentos de superar la prueba de carácter específico que se establece o de acreditar el mérito deportivo para tener acceso al ciclo inicial de grado medio en baloncesto aquellos deportistas que acrediten:
+
+a. La condición de deportista de alto nivel en las condiciones que establece el Real Decreto, 971/2007, de 13 de julio, sobre deportista de alto nivel y alto rendimiento para la modalidad o especialidad deportiva de baloncesto.
+
+b. La calificación de deportista de alto rendimiento o equivalente en la modalidad de baloncesto, establecida por las Comunidades Autónomas de acuerdo con su normativa.
+
+c. Haber sido seleccionado por la Federación Española de baloncesto para representar a España, dentro de los dos últimos años, en al menos una competición oficial internacional de categoría absoluta, en la modalidad correspondiente. Se entenderá como «competición oficial»: los Campeonatos de Europa o del Mundo en baloncesto.
+
+#### Artículo 23. Requisitos de acceso de personas que acrediten discapacidades.
+
+Las personas con discapacidad podrán acceder a las enseñanzas de estos ciclos conforme a la disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre, siendo obligación de las administraciones competentes llevar a cabo los ajustes razonables para que este acceso no comporte restricciones injustificadas contrarias al principio de igualdad de oportunidades.
+
+#### Artículo 24. Composición y perfil del tribunal de la prueba de carácter específico:.
+
+1\. El tribunal evaluador de la prueba de carácter específico será nombrado por el órgano competente de la Comunidad Autónoma y deberá estar formado por un mínimo de tres evaluadores.
+
+2\. Los evaluadores de las pruebas de carácter específico deberán acreditar, al menos, la titulación de Técnico Deportivo Superior en Baloncesto.
+
+#### Artículo 25. Funciones del tribunal evaluador de la prueba de carácter específico.
+
+1\. El tribunal de la prueba de carácter específico tendrá, entre otras, las siguientes funciones:
+
+a) La organización de la prueba de carácter específico con arreglo a lo especificado en el anexo VII.
+
+b) Garantizar el correcto desarrollo de las pruebas de carácter específico, comprobando que los objetivos, los contenidos y la evaluación de los ejercicios que componen las pruebas se atienen a lo establecido en la descripción de las mismas.
+
+c) Los evaluadores realizarán la valoración de las actuaciones de los aspirantes de conformidad con lo establecido en los criterios de evaluación de los resultados de aprendizaje de la prueba de carácter específico.
+
+d) La evaluación final de los aspirantes.
+
+2\. El tribunal, como órgano colegiado, se regirá por lo establecido en el título II, Capitulo II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+3\. En el caso de que alguno de los aspirantes acredite algún tipo de discapacidad, el tribunal actuará de acuerdo con lo dispuesto en la disposición adicional tercera del RD 1363/2007, de 24 de octubre.
+
+### CAPÍTULO VI — Profesorado
+
+#### Artículo 26. Requisitos de titulación del profesorado en centros públicos.
+
+Los requisitos de titulación del profesorado en centros públicos se determinarán en función del bloque de enseñanza deportiva en que hayan de impartir la docencia:
+
+1\. La docencia en centros públicos de los módulos del bloque común que constituyen las enseñanzas deportivas de los ciclos desarrollados en el presente real decreto corresponde al profesorado de las especialidades de los cuerpos de funcionarios docentes, según lo establecido en el anexo VIII de este real decreto.
+
+2\. La docencia en centros públicos de los módulos del bloque específico que constituyen las enseñanzas deportivas de los ciclos desarrollados en el presente real decreto, está especificada en el anexo IX-A, y corresponde a:
+
+a) Profesores de la especialidad de Educación Física de los cuerpos de catedráticos y de profesores de enseñanza secundaria, que posean el título de Técnico Deportivo Superior en Baloncesto.
+
+b) Profesores especialistas que posean el título de Técnico Deportivo Superior en Baloncesto, o aquellos no titulados que acrediten la experiencia en el ámbito laboral y deportivo, o la experiencia docente, detallada en el anexo IX-B.
+
+3\. Las Administraciones educativas podrán autorizar la docencia de los módulos del bloque específico atribuidos al profesor especialista, a los miembros de los cuerpos de catedráticos y profesores de enseñanza secundaria con la especialidad de Educación Física, cuando carezcan del título de Técnico Deportivo Superior en Baloncesto, siempre que posean la formación diseñada al efecto o reconocida por dichas Administraciones educativas, o la experiencia laboral o deportiva o la experiencia docente, detallada en el anexo IX-B.
+
+#### Artículo 27. Los requisitos de titulación del profesorado en centros privados y de titularidad pública de Administraciones distintas a la educativa.
+
+Las titulaciones requeridas para la impartición de los módulos tanto del bloque común, como del bloque específico que forman los ciclos desarrollados en el presente real decreto, para el profesorado de los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, se concretan en el anexo X del presente real decreto.
+
+### CAPÍTULO VII — Vinculación a otros estudios
+
+#### Artículo 28. Acceso a otros estudios.
+
+El título de Técnico Deportivo en Baloncesto permitirá el acceso directo a todas las modalidades de bachillerato.
+
+#### Artículo 29. Convalidación de estas enseñanzas.
+
+1\. El Ministerio de Educación, Cultura y Deporte, establecerá las convalidaciones que proceda otorgar del bloque común de las enseñanzas reguladas en el presente real decreto, a aquellos que acrediten estudios o el título de:
+
+a) Licenciado en Ciencias de la Actividad Física y el Deporte, regulado por el Real Decreto 1670/1993, de 24 de septiembre; por el que se establece el título universitario oficial de Licenciado en Ciencias de la Actividad Física y del Deporte y las directrices generales propias de los planes de estudios conducente a la obtención del mismo.
+
+b) Diplomado en Educación Física y Licenciado en Educación Física, regulados por el Real Decreto 790/1981, de 24 de abril, sobre Institutos Nacionales de Educación Física y las enseñanzas que imparten.
+
+c) Maestro Especialista en Educación Física, regulado por el Real Decreto 1440/1991, de 30 de agosto, por el que se establece el título universitario, oficial de Maestro, en sus diversas especialidades y las directrices generales propias de los planes de estudios conducentes a su obtención.
+
+d) Técnico Superior en Animación de Actividades Físicas y Deportivas, regulado por el Real Decreto 2048/1995, de 22 de diciembre por el que se establece el título de Formación Profesional de Técnico superior en Animación de Actividades Físicas y Deportivas y las correspondientes enseñanzas mínimas.
+
+e) Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural regulado por el Real Decreto 2049/1995, de 22 de diciembre por el que se establece el título de Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural y las correspondientes enseñanzas mínimas.
+
+f) Graduado regulado en la ordenación de la enseñanza universitaria oficial establecida en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales que acrediten la obtención de las competencias adecuadas.
+
+g) Las materias de bachillerato.
+
+h) Los títulos establecidos al amparo del Real Decreto 1913/1997, de 19 de diciembre por el que se configuran como enseñanzas de régimen especial las conducentes a la obtención de titulaciones de técnicos deportivos, se aprueban las directrices generales de los títulos y de las correspondientes enseñanzas mínimas.
+
+2\. La correspondencia de los módulos de enseñanza deportiva que forman parte del presente título con las unidades de competencia para su acreditación, queda determinada en el anexo XI-A.
+
+3\. La correspondencia de las unidades de competencia con los módulos de enseñanza deportiva que forman el presente título para su convalidación o exención queda determinada en el anexo XI-B.
+
+4\. Las convalidaciones de módulos de enseñanza deportiva de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, con los módulos de enseñanza deportiva del bloque específico del título de Técnico Deportivo en Baloncesto se establecen en el anexo XII.
+
+5\. Serán objeto de convalidación los módulos comunes y específicos de enseñanza deportiva con la misma denominación y código.
+
+6\. La superación de la totalidad de los módulos del bloque común del primer o segundo nivel, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del correspondiente ciclo inicial o final de enseñanza deportiva en baloncesto. La superación de la totalidad de los módulos del bloque común de los ciclos inicial o final del título de Técnico Deportivo en Baloncesto, se convalidará por la totalidad de los módulos del bloque común, del correspondiente nivel, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+
+#### Artículo 30. Exención del módulo de formación práctica.
+
+Podrá ser objeto de exención total o parcial el módulo de formación práctica de los ciclos desarrollados en el presente real decreto, en función de su correspondencia con la experiencia en el ámbito deportivo o laboral, detallado en el anexo XIII.
+
+#### Disposición adicional primera. Referencia del título en el marco europeo.
+
+Una vez establecido el marco nacional de cualificaciones, de acuerdo con las recomendaciones europeas, se determinará el nivel correspondiente de estas titulaciones en el marco nacional y su equivalente europeo.
+
+#### Disposición adicional segunda. Oferta a distancia de los módulos de enseñanza deportiva del presente título.
+
+Los módulos de enseñanza deportiva que se establecen en el anexo XIV, podrán ofertarse a distancia, siempre que se garantice que el alumno puede conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las Administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
+
+#### Disposición adicional tercera. Clave identificativa de los certificados de superación del ciclo inicial.
+
+La clave identificativa de los certificados oficiales acreditativos de la superación del ciclo inicial de grado medio en baloncesto a la que hace referencia el artículo 15.4 del Real Decreto 1363/2007, de 24 de octubre, incluirá:
+
+a) Certificación académica oficial: CA.
+
+b) Dígito de la Comunidad Autónoma: De acuerdo con lo establecido en el anexo IV de la Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
+
+c) Dígitos de modalidad deportiva: BCBC.
+
+#### Disposición adicional cuarta. Titulaciones equivalentes.
+
+1\. El título de Técnico Deportivo en Baloncesto, establecido en el Real Decreto 234/2005, de 4 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Baloncesto, se aprueban las correspondiente enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas, tendrá los mismos efectos profesionales y académicos que el título de Técnico Deportivo en Baloncesto establecido en el presente real decreto.
+
+2\. El certificado de superación del primer nivel establecido en el Real Decreto 234/2005, de 4 de marzo, tendrá los mismos efectos profesionales y académicos que el ciclo inicial de grado medio en baloncesto regulado en el presente real decreto.
+
+#### Disposición adicional quinta. Referencias genéricas.
+
+Todas las referencias al alumnado, profesorado y a titulaciones para las que en este real decreto se utiliza la forma del masculino genérico deben entenderse aplicables indistintamente a mujeres y a hombres.
+
+#### Disposición transitoria primera. Acceso al ciclo inicial de grado medio.
+
+1\. Durante los tres cursos académicos siguientes al de implantación del presente real decreto, estarán exentos de la realización de prueba de carácter específico o de acreditar el mérito deportivo, establecidos en el artículo 20, aquellos que acrediten su experiencia como de entrenadores de equipos participantes en competiciones oficiales organizadas por las federaciones deportivas autonómicas o española de baloncesto de las categorías de minibasket e infantil pasarela. Esta experiencia debe ser de al menos dos temporadas, y haber sido adquirida con anterioridad a la fecha de entrada en vigor del presente real decreto.
+
+2\. La Federación Española de Baloncesto emitirá el correspondiente certificado que acredite la experiencia deportiva.
+
+#### Disposición transitoria segunda. Aplicabilidad de otras normas.
+
+1\. Hasta que sea de aplicación lo dispuesto en este real decreto, en virtud de lo establecido en sus disposiciones finales tercera y quinta, será de aplicación los aspectos que regulan las enseñanzas del título de Técnico Deportivo en Baloncesto recogidos en el Real Decreto 234/2005, de 4 de marzo.
+
+2\. Así mismo, hasta que sea de aplicación la norma que regule, para el ámbito de gestión del Ministerio de Educación, Cultura y Deporte el currículo correspondiente al título de Técnico Deportivo en Baloncesto, aquí regulado, serán de aplicación los aspectos del currículo del mencionado título establecidos en la Orden ECI/1458/2007, de 21 de mayo, por la que se establecen para el ámbito territorial de gestión directa del Ministerio de Educación y Ciencia, los currículos y las pruebas y requisitos de acceso, correspondientes a los títulos de Técnico Deportivo y de Técnico Deportivo Superior de Baloncesto.
+
+#### Disposición derogatoria única. Derogación de normas.
+
+1\. Quedan derogados los aspectos del Real Decreto 234/2005, de 4 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Baloncesto, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas, relacionados con las enseñanzas del Título de Técnico Deportivo en Baloncesto que constan en el mismo.
+
+2\. Quedan derogadas todas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+#### Disposición final primera. Título competencial.
+
+El presente real decreto tiene carácter de norma básica y se dicta, al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+
+#### Disposición final segunda. Modificación del Real Decreto 669/2013, de 6 de septiembre, por el que se establece el título de Técnico Deportivo en Atletismo y se fijan sus enseñanzas mínimas y los requisitos de acceso.
+
+Se da una nueva redacción a la «Disposición adicional cuarta. Titulaciones equivalentes», en los siguientes términos:
+
+> «1. El título de Técnico Deportivo en Atletismo, establecido en el Real Decreto 254/2004, de 13 de febrero, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Atletismo, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas, tendrá los mismo efectos profesionales y académicos que el título de Técnico Deportivo en Atletismo establecido en el presente real decreto.
+
+> 2\. El certificado de superación del primer nivel establecido en el Real Decreto 254/2004, de 13 de febrero, tendrá los mismos efectos profesionales y académicos que el ciclo inicial de grado medio en atletismo regulado en el presente real decreto.»
+
+#### Disposición final tercera. Implantación del nuevo currículo.
+
+Las Administraciones educativas implantarán el nuevo currículo de estas enseñanzas en el curso escolar 2015-2016.
+
+#### Disposición final cuarta. Autorización para el desarrollo.
+
+Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se autoriza al titular del Ministerio de Educación, Cultura y Deporte para la modificación y actualización de los anexos VII, VIII-A, y IX de este real decreto.
+
+#### Disposición final quinta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 30 de octubre de 2015.
+
+FELIPE R.
+
+El Ministro de Educación, Cultura y Deporte,
+
+ÍÑIGO MÉNDEZ DE VIGO Y MONTOJO
+
+## ANEXO I — Distribución horaria del currículo básico
+
+Ciclo inicial de grado medio en baloncesto
+
+| Bloque común | Currículo básico |
+|---|---|
+| MED-C101: Bases del comportamiento deportivo | 10 h |
+| MED-C102: Primeros auxilios | 15 h |
+| MED-C104: Organización deportiva | 5 h |
+| MED-C105: Actividad físico-deportiva para personas con discapacidad | 5 h |
+| Total | 35 h |
+| Bloque específico | Currículo básico |
+| MED-BCBC102 Formación del jugador en etapas iniciales | 25 h |
+| MED-BCBC103 Dirección de equipos en etapas iniciales | 10 h |
+| MED-BCBC104 Enseñanza del baloncesto | 15 h |
+| MED-BCBC105 Táctica de ataque y defensa en etapas iniciales | 10 h |
+| MED-BCBC106 Formación práctica | 80 h |
+| Total | 140 h |
+| Total del currículo básico | 175 h |
+
+Ciclo final de grado medio en baloncesto
+
+| Bloque común | Currículo básico |
+|---|---|
+| MED-C201: Bases del aprendizaje deportivo | 25 h |
+| MED-C202: Bases del entrenamiento deportivo | 35 h |
+| MED-C204: Organización y legislación deportiva | 10 h |
+| MED-C205. Deporte y género | 5 h |
+| MED-C206: Iniciación deportiva para personas con discapacidad | 10 h |
+| Total | 85 h |
+| Bloque específico | Currículo básico |
+| MED-BCBC201 Formación del jugador en la etapa de tecnificación | 45 h |
+| MED-BCBC202 Dirección de equipos en la etapa de tecnificación | 25 h |
+| MED-BCBC203 Entrenamiento en baloncesto | 30 h |
+| MED-BCBC204 Táctica de ataque y defensa en la etapa de tecnificación | 25 h |
+| MED-BCBC205 Iniciación en baloncesto en silla de ruedas | 10 h |
+| MED- BCBC206 Formación práctica | 110 h |
+| Total | 245 h |
+| Total del currículo básico | 330 h |
+
+> Se modifica por el art. 8.4 a 6 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm.72, de 24 de marzo de 2016. [Ref. BOE-A-2016-2917](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2917)
+
+## ANEXO II — Objetivos generales y módulos de enseñanza deportiva del ciclo inicial de grado medio en baloncesto
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos II.a hasta el II.j por el art. 8.7 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO II.a — Objetivos generales
+
+a. Ejecutar técnicas básicas propias de este nivel, con la seguridad suficiente y tomando conciencia de lo realizado, para servir de modelo en el proceso de enseñanza-aprendizaje de la iniciación al baloncesto.
+
+b. Establecer y transmitir la información sobre la actividad y recoger la información sobre los participantes, analizando las características de la información y aplicando procedimientos establecidos, para atender y motivar al deportista.
+
+c. Analizar la ejecución técnica en el nivel de iniciación, utilizando procedimientos establecidos y comparando la ejecución técnica con los estándares propios de la iniciación en baloncesto para valorar su ejecución, determinar su nivel y concretar el agrupamiento de los deportistas.
+
+d. Interpretar y adaptar la programación de referencia y la organización de la sesión, utilizando criterios de elección y temporalización de las tareas, discriminando la información sobre las características del grupo y las condiciones materiales existentes, para concretar la sesión de enseñanza-aprendizaje de la iniciación al baloncesto.
+
+e. Elegir y demostrar las técnicas de dirección y procedimientos de control de las contingencias, aplicando instrumentos de observación y control y resolviendo supuestos, para dinamizar sesiones de enseñanza-aprendizaje de iniciación al baloncesto.
+
+f. Identificar las condiciones de seguridad de las instalaciones y medios propios de la iniciación deportiva, aplicando procedimientos establecidos y la normativa vigente, para controlar la seguridad en la práctica.
+
+g. Describir, preparar y ejecutar los primeros auxilios, identificando las características de los supuestos y aplicando los protocolos establecidos, para asistir como primer interviniente en caso de accidente o situación de emergencia.
+
+h. Identificar las características de las competiciones y eventos propios de la iniciación deportiva, analizando el reglamento y las bases de competición para seleccionar a los deportistas en función de su nivel y características.
+
+i. Identificar y describir los procesos de inscripción y acompañamiento de los deportistas así como los aspectos técnicos y tácticos de la competición y eventos propios de la iniciación deportiva, analizando supuestos, aplicando los procedimientos establecidos y teniendo en cuenta el reglamento, para acompañar y dirigir a los deportistas en competiciones de nivel de iniciación.
+
+j. Identificar y describir las características organizativas de las competiciones y eventos propios de la iniciación deportiva, enumerando los medios materiales y humanos necesarios, para colaborar e intervenir en la organización y gestión de este tipo de actos.
+
+k. Identificar y describir las variables que intervienen en el desarrollo de la actividad, aplicando los procedimientos establecidos y clasificando la información obtenida, para valorar el desarrollo de la sesión de iniciación y el acompañamiento en baloncesto y ajustar el proceso de enseñanza-aprendizaje.
+
+l. Identificar y describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los deportistas, para transmitir valores propios de la actividad deportiva a través del comportamiento ético personal.
+
+m. Reconocer y promover los valores de compromiso, trabajo bien hecho y aprendizaje constante, describiendo las actitudes que reflejan estos valores, para mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el desempeño de su labor como técnico.
+
+n. Identificar y describir los principios que fundamentan el trabajo en equipo, siendo consciente de la importancia del liderazgo y la comunicación, para mantener la iniciativa y autonomía dentro del grupo de trabajo.
+
+> Se numera como Anexo II.a por el art. 8.7.a) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.b — Módulo común de enseñanza deportiva: Bases del comportamiento deportivo.
+
+Código: MED-C101
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Identifica las características motrices, psicológicas, afectivas y sociales de la persona deportista en la iniciación deportiva, relacionándolas con los estadios madurativos de la infancia.**
+
+a) Se han descrito los diferentes estadios madurativos de la infancia, destacando las particularidades de cada uno.
+
+b) Se han descrito las características motrices, psicológicas, afectivas y sociales de los niños y niñas en la primera etapa del proceso de aprendizaje motor.
+
+c) Se han relacionado las características de los niños y niñas en la iniciación deportiva con el estadio madurativo en el que se encuentra, a partir de la observación y recogida de datos.
+
+d) Se han identificado los intereses y las motivaciones características de las personas en la etapa de la infancia, en una muestra de deportistas con diferentes perfiles.
+
+e) Se han analizado los efectos de la diversidad y variabilidad de la práctica deportiva en la consecución de un desarrollo natural del deportista acorde con su estado madurativo.
+
+**RA-2. Conduce el grupo describiendo y aplicando diferentes técnicas de comunicación, dinámicas grupales y estrategias de resolución de conflictos, en un entorno motivante de aprendizaje.**
+
+a) Se han descrito las diferentes técnicas de comunicación verbal y no verbal, y las principales barreras e interferencias existentes.
+
+b) Se han empleado las técnicas y estrategias de comunicación en la presentación de tareas propuestas, así como la disposición espacial y del alumnado, más oportunas en el intercambio de información.
+
+c) Se ha valorado la importancia de contar con habilidades comunicativas y sociales en las relaciones interpersonales, a partir del análisis de situaciones simuladas.
+
+d) Se han descrito las principales fuentes de conflicto, tanto individuales como grupales, condicionadas por la heterogeneidad de los/las deportistas.
+
+e) Se han aplicado estrategias de recogida de información que permitan conocer mejor al grupo y prevenir conflictos.
+
+f) Se han aplicado dinámicas de grupo, basadas en el aprendizaje cooperativo y el trabajo en equipo, orientadas hacia la eficiencia y la responsabilidad grupal.
+
+g) Se han utilizado estrategias de resolución de conflictos en el grupo promoviendo y trasmitiendo principios de respeto, sinceridad, empatía, compromiso, igualdad y no discriminación por características personales y/o sociales de ningún tipo.
+
+h) Se ha valorado la importancia de una actitud tolerante y de empatía para conseguir la confianza del grupo, a partir del análisis de los modelos de intervención.
+
+i) Se han descrito aquellos aspectos del entorno familiar y del contexto social que ejercen una influencia positiva o negativa en la iniciación deportiva de niños y niñas.
+
+j) Se han aplicado estrategias de corrección de actitudes contrarias y discriminatorias o violentas del entorno familiar o del contexto social en la iniciación deportiva, a partir de una intervención directa sobre las causas del problema.
+
+k) Se ha analizado la importancia de los valores positivos de la familia y del contexto social en la práctica deportiva, y su influencia en los comportamientos del deportista.
+
+l) Se han aplicado estrategias de mantenimiento de la motivación y el disfrute de todas las personas como elementos clave en la fidelización con la práctica deportiva en etapas posteriores.
+
+m) Se ha demostrado interés por valorar el proceso de aprendizaje y la actitud del deportista por encima del resultado obtenido y su aptitud.
+
+**RA-3. Transmite valores personales y sociales aplicando las técnicas adecuadas y tomando conciencia sobre las propias actitudes y comportamientos.**
+
+a) Se han descrito los valores personales y sociales que se pueden transmitir a través del deporte, a partir de los comportamientos que los representan.
+
+b) Se ha constatado la repercusión de los comportamientos y actitudes del técnico en la transmisión de valores personales y sociales en la iniciación deportiva.
+
+c) Se ha valorado la importancia del respeto al juego limpio, a uno/a mismo/a, a los demás y al entorno durante la práctica deportiva, en contextos con comportamientos poco éticos.
+
+d) Se han aplicado estrategias de transmisión de valores personales y sociales a través del deporte.
+
+e) Se ha demostrado interés por garantizar principios de igualdad y no discriminación, eliminando estereotipos y respondiendo a las diferencias individuales, en entornos diversos y heterogéneos.
+
+f) Se ha reflexionado sobre los propios prejuicios y estereotipos que generan discriminación, a partir de situaciones de conflicto moral.
+
+Contenidos básicos
+
+**RA-1. Identifica las características motrices, psicológicas, afectivas y sociales del/de la deportista en la iniciación deportiva, relacionándolas con los estadios madurativos de la infancia.**
+
+1\. Crecimiento, maduración y desarrollo.
+
+2\. Patrones motores básicos en la infancia.
+
+3\. Características motrices, psicológicas, afectivas y sociales de los niños y de las niñas.
+
+4\. Intereses y motivaciones en la infancia. Motivaciones intrínsecas y extrínsecas.
+
+5\. Técnicas elementales de recogida de información a partir de la Teoría del procesamiento de la información.
+
+6\. La actividad físico-deportiva en los estadios madurativos de la infancia:
+
+– La iniciación deportiva.
+
+– Diversidad y variabilidad de experiencias deportivas en la iniciación y sus efectos positivos sobre el desarrollo motor.
+
+– Respeto de los estados madurativos y las diferencias interindividuales e intraindividuales.
+
+**RA-2. Conduce el grupo describiendo y aplicando diferentes técnicas de comunicación, dinámicas grupales y estrategias de la resolución de conflictos, en un entorno motivante de aprendizaje.**
+
+1\. Proceso de comunicación. Elementos, tipos y dificultades.
+
+– Técnicas de comunicación: verbal y no verbal.
+
+– Técnicas de escucha activa: parafrasear, reformular, hacer preguntas, evitar interrupciones.
+
+– Valoración comunicativa del contexto: elementos facilitadores y obstáculos e inhibidores en el proceso de comunicación.
+
+– Disposición del espacio y el alumnado para la mejora de la comunicación en la sesión deportiva.
+
+– Información inicial y retroalimentación (Feedback) en la sesión deportiva.
+
+– Habilidades comunicativas, personales y sociales, en las relaciones interpersonales.
+
+– Uso no sexista del lenguaje.
+
+2\. Fuentes de conflicto en el grupo deportivo:
+
+– Falta de confianza mutua.
+
+– Competitividad y liderazgo.
+
+– Discriminación: Por razones de género, de capacidad, actitudes xenófobas.
+
+– Divergencia de intereses individuales en niños y en niñas.
+
+3\. La dinámica de grupos en la iniciación deportiva y su importancia.
+
+– Conducción de dinámicas orientadas a la valoración sociológica del grupo. Dinámicas de presentación y conocimiento del grupo. Técnicas sociométricas.
+
+4\. Conducción de dinámicas de grupo orientadas al trabajo cooperativo y la resolución de conflictos:
+
+– Dinámicas de autoconocimiento para la afirmación personal y la autoconfianza.
+
+– Dinámicas socioafectivas para crear confianza mutua.
+
+– Dinámicas de trabajo en equipo.
+
+– Dinámicas de resolución de conflictos en pequeños grupos, para la identificación y solución del problema.
+
+5\. Modelos de intervención del Técnico/a en los grupos de iniciación deportiva:
+
+– Modelo autoritario.
+
+– Modelo permisivo.
+
+– Modelo democrático.
+
+6\. Actitudes e influencia del contexto familiar en la iniciación deportiva.
+
+– Contextos familiares que ejercen una influencia positiva en la iniciación deportiva de niños y de las niñas.
+
+– Conductas y actitudes negativas más frecuentes protagonizadas por familiares en la iniciación deportiva.
+
+7\. Estrategias de intervención en el entorno familiar durante la iniciación deportiva. La entrevista con los responsables legales del deportista.
+
+8\. Motivaciones y actitudes propias de la infancia ante la práctica deportiva:
+
+– Principales motivos de abandono en jóvenes deportistas. La trascendentalización competitiva.
+
+– Estrategias para fomentar la participación, la motivación y el disfrute, como elementos clave para la fidelización deportiva, atendiendo a las diferencias de género.
+
+– Valoración del proceso de aprendizaje por encima del resultado deportivo.
+
+– Valoración de la actitud de los/las deportistas por encima de su aptitud.
+
+**RA-3. Transmite valores personales y sociales aplicando las técnicas adecuadas y tomando conciencia sobre las propias actitudes y comportamientos.**
+
+1\. La responsabilidad del técnico/a deportivo en la transmisión de valores éticos en el deporte y en evitar los contravalores.
+
+2\. Superación de la idea de bondad natural del deporte en cuanto a la transmisión de valores éticos.
+
+3\. Igualdad en el deporte: eliminación de estereotipos y respuesta a diferencias individuales (de sexo-género, capacidad, social, cultural, racial…). La interseccionalidad.
+
+4\. Juego limpio y deportividad (conductas éticas en la práctica deportiva).
+
+5\. Estrategias para la transmisión de valores en el deporte: reflexión, establecimiento de normas consensuadas, desarrollo del juicio moral, autocontrol de la conducta, análisis, desarrollo de la empatía y comprensión crítica de temas éticamente relevantes y encuentros de grupo.
+
+6\. Autoevaluación y reflexión de los propios prejuicios y estereotipos personales, incluidos los de género.
+
+> Se numera como Anexo II.b y se sustituye por el que figura como anexo I.a del Real Decreto 534/2026, de 30 de junio, según establece su art. 8.7.b). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.c — Módulo común de enseñanza deportiva: Primeros auxilios.
+
+Código: MED-C102
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Identifica los riesgos potenciales de la práctica deportiva aplicando protocolos de vigilancia y acciones preventivas en función del entorno.**
+
+a) Se han identificado los diferentes niveles de riesgo en función del entorno de actuación.
+
+b) Se han aplicado los protocolos de vigilancia y acciones preventivas en situaciones simuladas de iniciación deportiva en la instalación o medio de actuación.
+
+c) Se han descrito las características del equipamiento y materiales vinculados con la seguridad en la práctica deportiva.
+
+**RA-2. Valora de forma inicial la situación del accidente deportivo, aplicando protocolos establecidos.**
+
+a) Se ha utilizado la terminología médico-deportiva básica relacionada con los primeros auxilios destacando la diferencia entre emergencia y urgencia.
+
+b) Se han identificado los protocolos universales relacionados con la alerta al deportista lesionado y la secuencia de actuación.
+
+c) Se han aplicado justificadamente los protocolos de valoración en diferentes situaciones simuladas de accidente o lesión.
+
+d) Se han identificado los signos y mecanismos de producción de los diferentes tipos de traumatismos, lesiones osteoarticulares y músculo-tendinosas más habituales en el deporte.
+
+e) Se han identificado los signos y mecanismos de producción de los accidentes o lesiones provocadas por otros agentes externos (frío, calor, agentes químicos y biológicos).
+
+**RA-3. Interviene en situaciones de accidentes derivados de la práctica deportiva, describiendo los sistemas de emergencia, seleccionando el material necesario y aplicando los protocolos de intervención de primeros auxilios.**
+
+a) Se ha descrito la organización de los sistemas de emergencia que intervienen en la práctica de actividad físico-deportiva.
+
+b) Se han aplicado de manera justificada los protocolos de intervención ante situaciones de emergencia o accidentes habituales en el deporte.
+
+c) Se han aplicado las técnicas de primeros auxilios en situaciones prácticas en las que se presenten traumatismos osteoarticulares y músculo-tendinosas frecuentes en el deporte.
+
+d) Se han descrito las técnicas básicas de movilización y traslado ante un accidente deportivo y las repercusiones de una mala movilización y de un traslado inadecuado.
+
+e) Se han aplicado las técnicas y protocolos establecidos de Reanimación Cardio Pulmonar en el entorno deportivo por los comités internacionales de reanimación en situaciones de práctica.
+
+f) Se han aplicado las técnicas de desobstrucción de la vía aérea en situaciones simuladas.
+
+g) Se han aplicado los protocolos específicos de desfibrilación externa (DESA-DEA) en situaciones simuladas.
+
+h) Se han ejecutado los procedimientos de actuación en situaciones simuladas de accidentes relacionados con hemorragias, shocks y síncopes.
+
+i) Se han ejecutado los procedimientos de actuación en situaciones simuladas de accidentes o lesiones relacionados con otros agentes externos (frío, calor, agentes químicos y biológicos).
+
+j) Se han seleccionado los materiales básicos de un botiquín de primeros auxilios adaptado a una situación práctica deportiva.
+
+k) Se han descrito los límites de actuación del técnico deportivo en los procedimientos aplicados en accidentes deportivos.
+
+**RA-4. Emplea técnicas de autocontrol y de apoyo psicológico al accidentado y acompañantes, describiendo y aplicando las estrategias de comunicación más adecuadas.**
+
+a) Se han descrito los factores que predisponen a la ansiedad en situaciones de accidente o lesiones derivadas de la práctica deportiva.
+
+b) Se han identificado los posibles estados emocionales de los/las deportistas y las personas implicadas ante una lesión o accidente.
+
+c) Se han descrito las técnicas de control de la ansiedad y el estrés más habituales en situaciones de lesión o accidente deportivo.
+
+d) Se ha valorado la importancia de autocontrolarse ante situaciones de estrés producidas por un accidente deportivo.
+
+e) Se han aplicado estrategias básicas de comunicación en situaciones de prestación de primeros auxilios.
+
+Contenidos básicos
+
+**RA-1. Identifica los riesgos potenciales de la práctica deportiva aplicando protocolos de vigilancia y acciones preventivas en función del entorno.**
+
+1\. Riesgos específicos en función del entorno o medio donde se desarrolla la actividad deportiva.
+
+– Epidemiología de los accidentes según disciplinas deportivas y entornos para su prevención.
+
+– Riesgos en las actividades físico-deportivo-recreativas en el medio natural.
+
+– Riesgos en las actividades físico-deportivo-recreativas en el medio acuático.
+
+– Riesgos en la práctica de actividades físico-deportivo-recreativas en instalaciones deportivas abiertas y cerradas.
+
+2\. Acciones preventivas en función del entorno de actuación en el medio natural, en el medio acuático y en instalaciones deportivas abiertas y cerradas.
+
+– Acciones preventivas en función del entorno de práctica deportiva.
+
+– Generación de entornos seguros y de autoprotección.
+
+– Materiales de protección personal para el técnico deportivo y el deportista.
+
+– Utilización del equipamiento deportivo para la prevención de accidentes en función del entorno en el que se desarrolla la práctica deportiva.
+
+**RA-2. Valora de forma inicial la situación del accidente deportivo, aplicando protocolos establecidos.**
+
+1\. Terminología común relacionada con emergencias.
+
+2\. Relación entre conceptos de urgencia y emergencia.
+
+3\. Valoración de los signos vitales:
+
+– Signos y síntomas para valorar en situaciones de urgencia (i).
+
+– Signos frecuentes de consulta que indican gravedad.
+
+4\. Valoración primaria ABC:
+
+– Signos de inconsciencia.
+
+– Signos de ahogamiento y atragantamiento.
+
+– Valoración de otras situaciones de riesgo vital: síncopes, desmayos, shock por traumatismos importantes o crisis asmática.
+
+5\. Valoración secundaria: localización de lesiones.
+
+6\. Traumatismos mecánicos: trastornos osteoarticulares. Concepto y valoración.
+
+– Contusiones.
+
+– Fracturas.
+
+– Luxación.
+
+– Esguinces.
+
+– Lesiones musculares.
+
+7\. Valoración de trastornos derivados de agentes mecánicos. Lesiones en tejidos blandos: heridas, hemorragias y contusiones.
+
+8\. Valoración de trastornos derivados de factores ambientales.
+
+– Efectos nocivos del calor, frío, tormentas y mal de altura.
+
+– Lesiones acuáticas y subacuáticas. Ahogamiento y riesgos de la apnea.
+
+– Mordeduras y picaduras.
+
+– Intoxicación por alimentos.
+
+**RA-3. Interviene en situaciones de accidentes derivados de la práctica deportiva, describiendo los sistemas de emergencia, seleccionando el material necesario y aplicando los protocolos de intervención de primeros auxilios.**
+
+1\. Sistemas de emergencias: modelos de coordinación.
+
+– Modelos de coordinación de sistemas de emergencias.
+
+– La importancia del 112.
+
+– Triage como sistemática de actuación para valorar la prioridad de la intervención del técnico deportivo.
+
+2\. Conducta PAS: proteger, avisar, socorrer.
+
+3\. Accidentes urgentes:
+
+– Primera fase: cadena de supervivencia.
+
+– Soporte vital básico en el adulto (RCP básica).
+
+– Soporte vital avanzado. Desfibrilación externa semiautomática.
+
+– Desobstrucción de las vías aéreas en el deportista.
+
+– RCP en personas ahogadas.
+
+– Atención a situaciones de riesgo vital: pérdidas de conciencia y desmayos, traumatismos importantes, shock y crisis asmática.
+
+4\. Accidentes y traumatismos:
+
+– Necesidad de traslado.
+
+– Técnicas básicas de movilización rápida de urgencia.
+
+– Conocimiento de las repercusiones de realizar una movilización no adecuada.
+
+– Posiciones de seguridad y espera.
+
+– Materiales de transporte e inmovilización en urgencias.
+
+5\. Atención trastornos osteoarticulares:
+
+– Atención a fracturas.
+
+– Atención a posibles luxaciones.
+
+– Atención a posibles esguinces.
+
+– Atención a posibles lesiones musculares.
+
+6\. Atención a trastornos derivados de agentes mecánicos. Lesiones en tejidos blandos: heridas, hemorragias y contusiones:
+
+– Contusión de tejidos blandos.
+
+– Heridas.
+
+– Hemorragias.
+
+7\. Atención a trastornos vasculares provocados por agentes mecánicos: heridas y hemorragias:
+
+– Atención a las contusiones.
+
+– Atención a las heridas.
+
+– Atención a las hemorragias.
+
+8\. Atención a problemas derivados de factores ambientales:
+
+– Causados por el calor: golpe de calor e insolación.
+
+– Causados por el frío: hipotermia y congelaciones.
+
+– Causados por tormentas y causas eléctricas.
+
+– Causados por la altitud.
+
+– Problemas acuáticos y subacuáticos.
+
+– Causados por mordeduras y picaduras.
+
+– Causados por intoxicaciones alimentarias.
+
+9\. Atención a lesiones menores:
+
+– Accidentes en la cabeza y la cara: accidentes dentales, oculares, nasales, óticos y cefaleas.
+
+– Diarrea aguda.
+
+– Infecciones músculo-esqueléticas: celulitis.
+
+– Ampollas.
+
+10\. Material necesario para la atención a accidentes deportivos:
+
+– Botiquín básico: botiquín de campo y/o de emergencia.
+
+– Botiquín avanzado según entorno específico.
+
+**RA-4. Emplea técnicas de autocontrol y de apoyo psicológico al accidentado y acompañantes, describiendo y aplicando las estrategias de comunicación más adecuadas.**
+
+1\. Importancia de las estrategias de comunicación en los accidentes que se producen en la práctica deportiva:
+
+– Finalidades y principios básicos.
+
+2\. Técnicas básicas de comunicación ante un accidente:
+
+– Elementos de la comunicación verbal y no verbal.
+
+– Empatía.
+
+– Escucha activa y comprensión del mensaje.
+
+– Técnicas de comunicación ante las personas cercanas al accidente: deportistas, auxiliares y/o familiares.
+
+3\. Pautas básicas de intervención psicológica tras accidentes deportivos:
+
+– Reacciones iniciales.
+
+– Fases de una crisis emocional en accidentes.
+
+– Estrés postraumático.
+
+4\. Factores que predisponen a la ansiedad en situaciones de accidente o emergencia. Manejo y control del estrés:
+
+– Reacciones ante el estrés.
+
+– Orientaciones para controlar mejorar altos niveles de estrés del técnico deportivo.
+
+5\. Crisis de ansiedad:
+
+– Signos y síntomas comunes.
+
+– Acciones recomendadas para el control de la ansiedad del deportista y acompañantes.
+
+– Conductas a evitar.
+
+> Se numera como Anexo II.c y se sustituye por el que figura como anexo I.b del Real Decreto 534/2026, de 30 de junio, según establece su art. 8.7.c). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.d — Módulo común de enseñanza deportiva: Organización deportiva.
+
+Código: MED-C104
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Diferencia la organización deportiva a nivel local y autonómico, identificando sus funciones generales y las características de sus programas, utilizando el marco legal correspondiente y aplicando para ello una terminología básica adecuada.**
+
+a) Se ha diferenciado entre la organización deportiva a nivel local y autonómico, empleando la terminología básica adecuada y conforme al marco legal vigente, a partir del análisis de un caso práctico.
+
+b) Se han concretado las funciones generales de las organizaciones deportivas locales y autonómicas, a partir de la observación de organizaciones reales.
+
+c) Se han enumerado las características principales de los programas y/o acciones de las organizaciones deportivas locales y autonómicas, a partir del análisis de casos reales.
+
+**RA-2. Identifica las estructuras organizativas y estrategias del asociacionismo deportivo local y autonómico, analizando las formas de organización, la documentación necesaria para el apoyo institucional y describiendo las estrategias de promoción de la igualdad de acceso y participación.**
+
+a) Se han identificado las formas principales de organización deportiva local y autonómica, mediante la comparación de sus características distintivas y competencias específicas.
+
+b) Se ha enumerado la documentación básica necesaria para el apoyo institucional a asociaciones y federaciones deportivas en el ámbito local y autonómico, mediante el análisis de convocatorias reales.
+
+c) Se han descrito las estrategias clave empleadas, desde el asociacionismo deportivo, en la mejora del acceso y fomento de la participación igualitaria en el deporte, a través del análisis de casos exitosos y la identificación de las barreras existentes.
+
+Contenidos básicos
+
+**RA-1. Diferencia la organización deportiva a nivel local y autonómico, identificando sus funciones generales y las características de sus programas, utilizando el marco legal correspondiente y aplicando para ello una terminología básica adecuada.**
+
+1\. La legislación básica del estado y de la comunidad autónoma:
+
+– El marco competencial del deporte en el ámbito local y autonómico.
+
+– Interpretación de la legislación deportiva básica: Objetivo y rango de la norma.
+
+2\. Las fuentes de información en normativa deportiva:
+
+– La terminología básica en normativa deportiva.
+
+– Las publicaciones oficiales que reflejan la normativa deportiva.
+
+3\. La legislación básica en el ámbito local y autonómico:
+
+– Interpretación de la legislación deportiva básica: Objetivo y rango de la norma.
+
+4\. Funciones básicas de las organizaciones deportivas a nivel local y autonómico.
+
+5\. Características de los programas de las organizaciones deportivas locales y autonómicas.
+
+**RA-2. Identifica las estructuras organizativas y estrategias del asociacionismo deportivo local y autonómico, analizando las formas de organización, la documentación necesaria para el apoyo institucional y describiendo las estrategias de promoción de la igualdad de acceso y participación.**
+
+1\. Estructura deportiva local y autonómica.
+
+2\. Principales formas de organización deportiva a nivel autonómico y local: asociaciones y federaciones deportivas.
+
+3\. Las características principales de las principales formas de organización deportiva local y autonómica.
+
+4\. El marco competencial del deporte en el ámbito local y autonómico.
+
+5\. Las vías de apoyo al asociacionismo deportivo:
+
+– Tipos y formas de ayudas: convocatorias a nivel local y autonómico.
+
+– Las vías de apoyo al asociacionismo deportivo.
+
+– Procedimientos para la gestión de apoyos al asociacionismo deportivo en la administración local y autonómica.
+
+6\. Estrategias de inclusión y participación en el deporte desde el asociacionismo local y autonómico.
+
+7\. Iniciativas para promover la igualdad de género y accesibilidad en el deporte.
+
+> Se numera como Anexo II.d y se sustituye por el que figura como anexo I.c del Real Decreto 534/2026, de 30 de junio, según establece su art. 8.7.e). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.e — Módulo común de enseñanza deportiva: Actividad físico-deportiva para personas con discapacidad.
+
+Código: MED-C105
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Identifica los principales tipos de discapacidad describiendo sus características básicas, utilizando la terminología adecuada y el impacto de la práctica físico-deportiva.**
+
+a) Se han descrito las características y limitaciones de los tipos de discapacidad que conllevan alteraciones de la estructura y/o funciones corporales que condicionan la actividad sensorial, cognitiva o motriz en el ámbito deportivo.
+
+b) Se ha aplicado la terminología específica relativa a las personas con discapacidad.
+
+c) Se han descrito los beneficios que genera la práctica deportiva en las personas con discapacidad.
+
+**RA-2. Informa a las personas con discapacidad sobre las posibilidades de práctica físico-deportivas, aplicando pautas de actuación específicas y mostrando actitudes positivas hacia la inclusión de personas con discapacidad.**
+
+a) Se han descrito las posibilidades de práctica deportiva en entornos deportivos convencionales, específicos o inclusivos.
+
+b) Se han escogido técnicas específicas de comunicación e interacción según el tipo de discapacidad.
+
+c) Se han aplicado técnicas de recogida de información acerca de los intereses, capacidades, experiencias previas y motivaciones de las personas con discapacidad hacia la práctica deportiva, en situaciones prácticas debidamente caracterizadas.
+
+d) Se ha mostrado una actitud positiva hacia la inclusión y participación de las personas con discapacidad en el deporte, en situaciones prácticas de inclusión.
+
+e) Se ha concienciado sobre la importancia de la práctica simulada de diferentes limitaciones sensoriales, cognitivas y motrices.
+
+Contenidos básicos
+
+**RA-1. Identifica los principales tipos de discapacidad describiendo sus características básicas, utilizando la terminología adecuada y el impacto de la práctica físico-deportiva.**
+
+1\. Tipos de discapacidad: concepto, características y limitaciones siguiendo la Clasificación Internacional del Funcionamiento, la Salud y la Discapacidad.
+
+2\. Terminología específica relativa a las personas con discapacidad y su práctica deportiva.
+
+3\. Beneficios de la práctica deportiva para las personas con discapacidad.
+
+4\. Sensibilización hacia las limitaciones sensoriales, cognitivas y motrices.
+
+**RA-2. Informa a las personas con discapacidad sobre las posibilidades de práctica físico-deportivas, aplicando pautas de actuación específicas y mostrando actitudes positivas hacia la inclusión de personas con discapacidad.**
+
+1\. Tipos de programas para la participación deportiva de personas con discapacidad.
+
+2\. Entornos deportivos convencionales, específicos e inclusivos.
+
+3\. Técnicas específicas de comunicación e interacción con personas con discapacidad.
+
+4\. Técnicas de recogida de información acerca de intereses, capacidades, experiencias previas y motivaciones relacionados con la práctica deportiva de personas con discapacidad.
+
+5\. Contacto directo y/o indirecto con personas con discapacidad en contextos deportivos.
+
+6\. Concepto y posibilidades de inclusión aplicados al deporte de personas con discapacidad.
+
+> Se añade como Anexo II.e, redactado conforme a lo establecido en el anexo I.d del Real Decreto 534/2026, de 30 de junio, según establece su art. 8.7.f). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> El anterior «Módulo común de enseñanza deportiva: Actividad física adaptada y discapacidad. Código: MED-C103» se suprime por el art. 8.7.d) del citado Real Decreto.
+
+## ANEXO II.f — Módulo específico de enseñanza deportiva: Formación del jugador en etapas iniciales
+
+Código: MED-BCBC-102
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora y desarrolla la capacidad de juego del deportista en situaciones reales de práctica, identificando los conceptos que se presentan y los procesos de acción-reacción que resultan, describiendo sus particularidades, aplicando técnicas de identificación y corrección de errores, eligiendo y adaptando tareas de aprendizaje y aplicando metodologías específicas de explicación o demostración.
+
+a. Se han definido los conceptos básicos de capacidad de juego, las situaciones de juego reducido y cada uno de sus conceptos ofensivos y defensivos básicos en las etapas iniciales.
+
+b. Se han identificado los procesos de acción-reacción resultantes en las situaciones de juego reducido en las etapas iniciales, describiendo las características más importantes.
+
+c. Se han diferenciado los conceptos básicos de situaciones de juego reducido se han identificado en el juego real en etapas iniciales.
+
+d. Se han relacionado y diferenciado los conceptos de técnica y táctica individual dentro de cada situación de juego reducido en las etapas iniciales.
+
+e. Se han identificado los errores cometidos en la aplicación de los conceptos básicos en el juego en etapas iniciales, definiendo las causas que lo provocan y utilizando estrategias de corrección adecuadas para estas etapas.
+
+f. Se han adaptado tareas de aprendizaje de los conceptos básicos del juego, en una situación debidamente caracterizado de juego reducido en las etapas iniciales, citando los criterios utilizados.
+
+g. Se han descrito las características de los recursos metodológicos y demostrativos, y de los principios del aprendizaje progresivo utilizados en el aprendizaje de las situaciones de juego reducido y en superioridad.
+
+h. Se han valorado las ejecuciones de los conceptos básicos de las diferentes situaciones de juego reducido en las etapas iniciales en base a los criterios de referencia.
+
+i. Se ha tomado conciencia de la importancia de incidir en los aspectos positivos de la ejecución en las situaciones de juego reducido, por encima de los errores cometidos.
+
+2\. Valora y mejora la ejecución de las habilidades técnicas ofensivas del jugador en las etapas iniciales, describiendo los estándares de ejecución en esta etapa, aplicando técnicas de identificación y corrección de errores, eligiendo y adaptando tareas de aprendizaje, y aplicando metodologías específicas de explicación o demostración.
+
+a. Se han ubicado las habilidades técnicas ofensivas propias del baloncesto dentro de las habilidades motrices.
+
+b. Se han definido las habilidades técnicas ofensivas en etapas iniciales, describiendo sus características, e identificándolas en las acciones de juego.
+
+c. Se han descrito los errores más habituales en las ejecuciones técnicas ofensivas.
+
+d. Se han aplicado los criterios de identificación de errores de las habilidades técnicas ofensivas, en una situación práctica de juego.
+
+e. Se han aplicado estrategias de corrección, en un supuesto práctico debidamente caracterizado de ejecuciones erróneas de una o varias habilidades técnicas ofensivas.
+
+f. Se han descrito las características de los recursos metodológicos y demostrativos utilizados en el aprendizaje de las habilidades técnicas ofensivas.
+
+g. Se han adaptado tareas de aprendizaje de las habilidades técnicas ofensivas describiendo los criterios utilizados.
+
+h. Se han utilizado recursos metodológicos de explicación y demostración de las diferentes habilidades técnicas ofensivas propias de las etapas iniciales en baloncesto.
+
+i. Se ha valorado la importancia de incidir en los aspectos positivos de la ejecución técnica correcta en cada habilidad ofensiva, más que en los errores cometidos.
+
+3\. Valora y mejora la ejecución de las habilidades técnicas defensivas del jugador en las etapas iniciales, describiendo los estándares de ejecución en esta etapa, aplicando técnicas de identificación y corrección de errores, eligiendo y adaptando tareas de aprendizaje, y aplicando metodologías específicas de explicación o demostración.
+
+a. Se han ubicado las habilidades técnicas defensivas propias del baloncesto dentro de las habilidades motrices.
+
+b. Se han definido las habilidades técnicas defensivas básicas en etapas iniciales, describiendo sus características, e identificándolas en las acciones de juego.
+
+c. Se han descrito los errores más habituales en las ejecuciones técnicas defensivas.
+
+d. Se han aplicado los criterios de identificación de errores de las habilidades técnicas defensivas, en una situación práctica de juego.
+
+e. Se han aplicado estrategias de corrección, en un supuesto práctico debidamente caracterizado de ejecuciones erróneas de una o varias habilidades técnicas defensivas.
+
+f. Se han descrito las características de los recursos metodológicos y demostrativos utilizados en el aprendizaje de las habilidades técnicas defensivas.
+
+g. Se han adaptado tareas de aprendizaje de las habilidades técnicas defensivas describiendo los criterios utilizados.
+
+h. Se han utilizado recursos metodológicos de explicación y demostración de las diferentes habilidades técnicas defensivas propias de las etapas iniciales en baloncesto.
+
+i. Se ha valorado la importancia de incidir en los aspectos positivos de la ejecución técnica correcta en cada habilidad defensiva, más que en los errores cometidos.
+
+Contenidos básicos
+
+1\. Valora y desarrolla la capacidad de juego del deportista en situaciones reales de práctica, identificando los conceptos que se presentan y los procesos de acción-reacción que resultan, describiendo sus particularidades, aplicando técnicas de identificación y corrección de errores, eligiendo y adaptando tareas de aprendizaje y aplicando metodologías específicas de explicación o demostración.
+
+– Conceptos de Capacidad de juego.
+
+– Técnica Individual.
+
+– Táctica individual.
+
+– Táctica colectiva.
+
+– Acción motriz.
+
+– Situaciones de juego reducidas.
+
+– Progresión en los conceptos.
+
+– La pirámide de la formación.
+
+– Uno contra uno en etapas iniciales.
+
+– Con balón.
+
+– Exterior.
+
+– Interior.
+
+– Sin balón.
+
+– Atacante.
+
+– Defensor.
+
+– Aprendizaje progresivo en el uno contra uno:
+
+– Tareas y criterios de elaboración.
+
+– Recursos metodológicos y demostrativos.
+
+– Errores en el uno contra uno: tipos, causas, criterios de identificación y estrategias de corrección.
+
+– Dos contra dos en etapas iniciales.
+
+– Conceptos defensivos.
+
+– Línea de pase.
+
+– Asignación defensiva.
+
+– Ayuda defensiva.
+
+– Cambio defensivo.
+
+– Recuperación.
+
+– Triangulación defensiva.
+
+– Conceptos ofensivos.
+
+– Aclarado.
+
+– Pasar y cortar.
+
+– Puerta atrás.
+
+– Bloqueo directo básico.
+
+– Aprendizaje progresivo en el dos contra dos:
+
+– Tareas y criterios de elaboración.
+
+– Recursos metodológicos y demostrativos.
+
+– Errores en el dos contra dos: tipos, causas, criterios de identificación y estrategias de corrección.
+
+– Tres contra tres en etapas iniciales.
+
+– Conceptos básicos.
+
+– Bloqueo indirecto básico.
+
+– Pasar, cortar y remplazar.
+
+– Aprendizaje progresivo en el tres contra tres:
+
+– Tareas y criterios de elaboración.
+
+– Recursos metodológicos y demostrativos.
+
+– Errores en el tres contra tres: tipos, causas, criterios de identificación y estrategias de corrección.
+
+– Superioridad numérica en etapas iniciales.
+
+– Situaciones básicas.
+
+– Situaciones sin defensa.
+
+– Situaciones con un solo defensor.
+
+– Recursos metodológicos y demostrativos de superioridad.
+
+– Errores en situaciones de superioridad: tipos, causas, criterios de identificación y estrategias de corrección.
+
+– Jugadores preparados para todo.
+
+– Proceso de acción-reacción en el juego.
+
+– El jugador ante un juego dinámico.
+
+– El jugador ante un defensor.
+
+– El jugador ante un espacio.
+
+– El jugador ante la combinación de espacios y defensor.
+
+2\. Valora y mejora la ejecución de las habilidades técnicas ofensivas del jugador en las etapas iniciales, describiendo los estándares de ejecución en esta etapa, aplicando técnicas de identificación y corrección de errores, eligiendo y adaptando tareas de aprendizaje, y aplicando metodologías específicas de explicación o demostración.
+
+– Habilidades motrices.
+
+– Habilidades técnicas ofensivas en baloncesto para etapas iniciales:
+
+– Juego sin balón básico.
+
+– Desmarque.
+
+– Desmarque por velocidad.
+
+– Desmarque por cortes en «v».
+
+– Desmarque por fintas de recepción.
+
+– Engaño interior-recepción exterior.
+
+– Engaño exterior-recepción interior.
+
+– Corte por detrás del defensor. Puerta atrás.
+
+– Corte por delante del defensor.
+
+– Recepción.
+
+– Recepción en estático.
+
+– Recepción en movimiento.
+
+– Bloquear.
+
+– Posición básica de ataque.
+
+– Triple amenaza.
+
+– Pivotar.
+
+– Pivotes básicos.
+
+– Giro hacia delante (pivote de ataque).
+
+– Giro hacia delante (pivote de preventivo).
+
+– Paradas básicas.
+
+– Paradas en función de la utilización de los pies.
+
+– Parada en un tiempo (de salto).
+
+– Parada en dos tiempos.
+
+– Paradas en función de la posesión del balón.
+
+– Paradas con balón.
+
+– Paradas en un tiempo después de bote.
+
+– Paradas en dos tiempos después de bote.
+
+– Paradas sin balón.
+
+– Arrancadas básicas.
+
+– Salida cruzada.
+
+– Salida abierta.
+
+– Salida en reverso.
+
+– Dribbling básico.
+
+– Tipos de bote.
+
+– Bote de progresión.
+
+– Bote de velocidad.
+
+– Bote de protección.
+
+– Bote de penetración.
+
+– Cambios de ritmo con balón.
+
+– Cambios de dirección con balón básicos.
+
+– Cambio de dirección sin cambio de mano.
+
+– Cambio de dirección con cambio de mano por delante.
+
+– Cambio de dirección con cambio de mano por detrás.
+
+– Cambio de dirección con cambio de mano entre las piernas.
+
+– Cambio de dirección con cambio de mano utilizando un reverso.
+
+– Pases básicos.
+
+– Pases a dos manos.
+
+– Pase de pecho a dos manos.
+
+– Pase picado a dos manos.
+
+– Pase a dos manos por encima de la cabeza.
+
+– Pase a una mano.
+
+– Pase lateral a una mano.
+
+– Pase de béisbol.
+
+– Pase desde dribbling.
+
+– Lanzamientos a canasta básicos.
+
+– Lanzamientos en carrera básicos.
+
+– Entrada normal o por encima de la cabeza.
+
+– Entrada en bandeja.
+
+– Entrada metiendo el balón hacia abajo (MATE).
+
+– Entrada con paso cambiado.
+
+– Extensiones o entradas con pérdida de paso.
+
+– Lanzamiento en estático básico.
+
+– Lanzamiento exterior.
+
+– Fintas básicas.
+
+– Fintas de tiro.
+
+– Fintas de salida.
+
+– Fintas de pase.
+
+– Rebote ofensivo.
+
+– Juego de piernas.
+
+– Dominio del balón.
+
+– Agarre del balón.
+
+– Movimientos de pies en ataque sin balón.
+
+– Propuestas de tareas de enseñanza de las habilidades técnicas ofensivas en etapas iniciales y criterios para su elaboración.
+
+– Errores más frecuentes en las ejecuciones de habilidades técnicas ofensivas en etapas iniciales.
+
+– Criterios en la identificación de errores en las habilidades técnicas ofensivas.
+
+– Causas de los errores más frecuentes en las habilidades técnicas ofensivas en etapas iniciales y estrategias de corrección.
+
+– Estrategias de corrección de errores de las habilidades técnicas defensivas en etapas iniciales.
+
+– Recursos metodológicos y de demostración en la enseñanza de las habilidades técnicas ofensivas en etapas iniciales.
+
+3\. Valora y mejora la ejecución de las habilidades técnicas defensivas del jugador en las etapas iniciales, describiendo los estándares de ejecución en esta etapa, aplicando técnicas de identificación y corrección de errores, eligiendo y adaptando tareas de aprendizaje, y aplicando metodologías específicas de explicación o demostración.
+
+– Habilidades técnicas defensivas en baloncesto en etapas iniciales:
+
+– Posición defensivas básica.
+
+– Defensa del jugador con balón.
+
+– Defensa del jugador sin balón.
+
+– Desplazamientos defensivos.
+
+– Desplazamientos defensivos laterales.
+
+– Desplazamientos defensivos hacia atrás «paso de caída».
+
+– Defensa al jugador con balón básica.
+
+– Defensa al jugador sin balón.
+
+– Defensa en función del lado del campo.
+
+– Defensa en lado balón o lado fuerte.
+
+– Defensa al jugador sin balón en lado débil o lado de ayuda.
+
+– Defensa según el posicionamiento.
+
+– Defensa de anticipación.
+
+– Defensa de cara al balón.
+
+– Ayuda defensiva.
+
+– Acción posterior a la ayuda defensiva.
+
+– Ayudar y recuperar.
+
+– Ayudar y cambiar.
+
+– Rebote defensivo.
+
+– Anticipación sobre el atacante.
+
+– Bloqueo de rebote.
+
+– Bloqueo de rebote al jugador sin balón en lado fuerte.
+
+– Bloqueo de rebote al jugador sin balón en lado débil.
+
+– Captura de rebote.
+
+– Agresividad defensiva (ímpetu).
+
+– Propuestas de tareas de enseñanza de las habilidades técnicas defensivas en etapas iniciales y criterios para su elaboración.
+
+– Errores más frecuentes en la ejecución de las habilidades técnicas defensivas en etapas iniciales.
+
+– Criterios en la identificación de errores en las habilidades técnicas defensivas.
+
+– Causas de los errores más frecuentes en las habilidades técnicas defensivas en etapas iniciales y estrategias de corrección.
+
+– Estrategias de corrección de errores de las habilidades técnicas defensivas en etapas iniciales.
+
+– Recursos metodológicos y de demostración en la enseñanza de las habilidades técnicas defensivas en etapas iniciales.
+
+> Se numera este módulo como Anexo II.f por el art. 8.7.g) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.g — Módulo específico de enseñanza deportiva: Dirección de equipos en etapas iniciales
+
+Código: MED-BCBC103
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Gestiona las propias emociones y las relaciones dentro del grupo, aplicando estrategias básicas de dinámicas de grupo, gestión emocional, y valores en etapas iniciales en baloncesto; describiendo las características de los diferentes tipos de jugadores y equipos, describiendo el trabajo en equipo, el liderazgo y sus derechos, deberes y competencias como técnico.
+
+a. Se han descrito las diferentes competencias del entrenador de baloncesto en las etapas iniciales.
+
+b. Se han identificado las características propias del entrenador en baloncesto en etapas iniciales y descrito sus habilidades básicas.
+
+c. Se han enumerado y descrito los derechos y deberes del entrenador de baloncesto.
+
+d. Se han identificado los conceptos básicos de gestión emocional y psicológica para el entrenador de baloncesto en etapas iniciales.
+
+e. Se han aplicado dinámicas de grupo al baloncesto en etapas iniciales.
+
+f. Se han diferenciado los significados de grupo frente al de equipo de baloncesto en etapas iniciales, así como sus rasgos característicos y diferentes tipologías de equipo.
+
+g. Se ha justificado la importancia del conocimiento de nuestros jugadores en la aportación al equipo, para facilitar su acompañamiento, asesoramiento y atención.
+
+h. Se han descrito y justificado diferentes valores del baloncesto.
+
+i. Se han descrito los perfiles y roles de los jugadores de baloncesto.
+
+j. Se ha valorado la formación permanente y el aprender a aprender.
+
+2\. Dirige partidos y competiciones de etapas iniciales, identificando, con un lenguaje básico específico de baloncesto, los diferentes momentos del partido, aplicando los criterios básicos de actuación y la toma de decisiones y los reglamentos propios de las etapas iniciales.
+
+a. Se han descrito los rasgos característicos de un partido de baloncesto en etapas iniciales marcados por la edad de los participantes.
+
+b. Se han identificado los diferentes momentos de un partido, argumentado sus características y comparando sus diferencias, según el tiempo de partido.
+
+c. Se han listado las actuaciones básicas a realizar en un tiempo muerto y las causas elementales para solicitarlo.
+
+d. Se han descrito los motivos básicos por los que hacer un cambio en un partido de baloncesto en etapas iniciales.
+
+e. Se han descrito las actuaciones a realizar en los descansos de un partido de baloncesto en etapas iniciales.
+
+f. Se han aplicado las actuaciones básicas de dirección de partidos en situaciones simuladas de partidos de baloncesto en etapas iniciales, utilizando un lenguaje básico específico.
+
+g. Se han descrito las reglas del minibasket y del baloncesto pasarela.
+
+h. Se han identificado las diferencias entre el baloncesto, el minibasket y el baloncesto pasarela.
+
+i. Se ha aplicado tanto el reglamento de minibasket como la pasarela resolviendo situaciones formuladas en partidos de baloncesto de etapas iniciales, e identificando el lenguaje básico específico presente en ellas.
+
+j. Se ha justificado la importancia de un reglamento propio para categorías en etapas iniciales en baloncesto.
+
+k. Se ha valorado la importancia de la dirección tranquila en partidos en etapas iniciales.
+
+l. Se ha valorado la participación efectiva en el juego de todos los participantes del equipo.
+
+3\. Recoge información básica sobre el juego en etapas iniciales desde algunas fuentes, aplicando y utilizando las herramientas y recursos tecnológicos básicos de recogida, registro e interpretación, para la mejora continua de los jugadores de estas etapas.
+
+a. Se ha definido la observación del juego y del jugador en baloncesto.
+
+b. Se han identificado los parámetros básicos a observar de un jugador o de un equipo de baloncesto en etapas iniciales.
+
+c. Se han descrito las características de diferentes fuentes de información básicas utilizadas en el baloncesto en etapas iniciales.
+
+d. Se han nombrado las herramientas y los recursos tecnológicos básicos en la obtención de información.
+
+e. Se han registrado los datos recogidos con la grabación utilizando recursos tecnológicos básicos.
+
+f. Se han nombrado los diferentes parámetros que se pueden incluir en una estadística básica de baloncesto.
+
+g. Se ha elaborado la estadística de un partido/fase del partido, tras su visionado en tiempo real o grabado.
+
+h. Se ha diferenciado entre los diferentes tipos de estadísticas básicas en baloncesto.
+
+i. Se han interpretado los datos que aparecen en un acta de juego.
+
+j. Se ha valorado la importancia de adecuar la información obtenida por la observación al destinatario de la misma.
+
+k. Se ha valorado la necesidad de obtener información a partir de la observación del juego.
+
+4\. Colabora en la organización, gestión y dinamización de las competiciones y eventos propios del baloncesto en etapas iniciales, describiendo los procesos, sus características y los recursos necesarios, identificando la legislación básica de esta etapa, y aplicando los procedimientos de arbitraje básicos.
+
+a. Se han descrito los procesos de organización, inscripción y gestión de un evento deportivo con enfoque lúdico o de iniciación.
+
+b. Se han descrito los recursos necesarios en la organización de un evento o competición lúdica o de iniciación.
+
+c. Se han identificado diferentes tipos de competiciones y eventos en baloncesto, describiendo sus características.
+
+d. Se han identificado la normativa en baloncesto para etapas iniciales, asociándolas a su contenido, así como los organismos que forman parte de este deporte.
+
+e. Se ha clasificado la estructura competitiva y organizativa del baloncesto español.
+
+f. Se han asociado los niveles de entrenadores y las licencias de las competiciones en las que pueden participar como técnicos.
+
+g. Se han identificado los diferentes gestos del árbitro en un partido de baloncesto y explicado su significado.
+
+h. Se han identificado los diferentes gestos y acciones de los auxiliares de mesa en un partido de baloncesto y explicado su significado.
+
+i. Se han diferenciado las características del arbitraje en una competición de baloncesto en etapas iniciales, una competición de baloncesto en etapas avanzadas y un evento lúdico de baloncesto.
+
+j. Se han interpretado los datos que aparecen en un marcador electrónico de baloncesto.
+
+k. Se ha valorado la importancia de colaborar e intervenir en la gestión, organización del arbitraje y de las competiciones de baloncesto en etapas iniciales.
+
+l. Se ha valorado la importancia de participar y colaborar con la dinamización del baloncesto.
+
+Contenidos básicos
+
+1\. Gestiona las propias emociones y las relaciones dentro del grupo, aplicando estrategias básicas de dinámicas de grupo, gestión emocional, y valores en etapas iniciales en baloncesto; describiendo las características de los diferentes tipos de jugadores y equipos, describiendo el trabajo en equipo, el liderazgo y sus derechos, deberes y competencias como técnico.
+
+– Significado y características del entrenador de baloncesto en etapas iniciales.
+
+– Objetivos como entrenador en etapas iniciales.
+
+– Competencias básicas del entrenador.
+
+– Habilidades básicas comunicativas en baloncesto.
+
+– El entrenador como líder.
+
+– Derechos y deberes del entrenador de baloncesto.
+
+– Conceptos básicos de gestión emocional y psicológica para el entrenador de baloncesto en etapas iniciales.
+
+– Equipo técnico básico y funciones básicas.
+
+– Diferencias entre grupo y equipo.
+
+– Especificaciones de las dinámicas de grupo en baloncesto en etapas iniciales.
+
+– Dirección de equipos de baloncesto en etapas iniciales según los jugadores y objetivos.
+
+– Rasgos específicos y perfiles de los jugadores, y clasificación por posiciones de juego.
+
+– Valores del baloncesto.
+
+– Formación permanente del entrenador de baloncesto.
+
+– Aprender a aprender del entrenador de baloncesto.
+
+– Tipos de equipos de baloncesto según categoría y edad.
+
+2\. Dirige partidos y competiciones de etapas iniciales, identificando, con un lenguaje básico específico de baloncesto, los diferentes momentos del partido, aplicando los criterios básicos de actuación y la toma de decisiones y los reglamentos propios de las etapas iniciales.
+
+– El partido de baloncesto: sus fases y descansos.
+
+– Características de las fases y descansos de un partido de baloncesto y consideraciones para la dirección del entrenador.
+
+– Tiempos muertos: definición, características, consideraciones para solicitarlo y actuaciones básicas.
+
+– Cambio de jugadores: definición, características y consideraciones básicas para realizarlo.
+
+– Situaciones especiales básicas que se dan en un partido de baloncesto.
+
+– Lenguaje específico básico de baloncesto.
+
+– Reglamento de baloncesto: minibasket y pasarela.
+
+– Diferencias entre baloncesto, minibasket y pasarela.
+
+– Recomendaciones para la dirección en etapas iniciales: ejemplo y valores.
+
+3\. Recoge información básica sobre el juego en etapas iniciales desde algunas fuentes, aplicando y utilizando las herramientas y recursos tecnológicos básicos de recogida, registro e interpretación, para la mejora continua de los jugadores de estas etapas.
+
+– La importancia del estudio del juego.
+
+– Observación básica del juego en baloncesto en etapas iniciales.
+
+– Observación general del ataque (identificación de estructuras tácticas).
+
+– Observación general de la defensa (identificación de estructuras tácticas).
+
+– Observación del jugador de baloncesto en etapas iniciales: parámetros básicos.
+
+– Las fuentes de información en baloncesto.
+
+– Internet.
+
+– Bibliografía.
+
+– Videografía.
+
+– Registros elaborados.
+
+– Recursos tecnológicos básicos aplicados a la observación del juego en baloncesto.
+
+– Lector de DVD.
+
+– Televisión.
+
+– Video.
+
+– Programas de visionado multimedia.
+
+– Herramientas básicas para la obtención de datos en baloncesto.
+
+– Grabación.
+
+– Estadísticas sencillas.
+
+– Actas.
+
+– Registro de datos con herramientas básicas de baloncesto.
+
+– Toma de estadísticas.
+
+– Cumplimentación de actas.
+
+4\. Colabora en la organización, gestión y dinamización de las competiciones y eventos propios del baloncesto en etapas iniciales, describiendo los procesos, sus características y los recursos necesarios, identificando la legislación básica de esta etapa, y aplicando los procedimientos de arbitraje básicos.
+
+– Organización y dinamización de eventos y competiciones lúdicas o de iniciación de baloncesto.
+
+– La gestión básica de eventos de baloncesto.
+
+– Recursos en la organización de eventos y competiciones lúdicas o de iniciación de baloncesto.
+
+– Leyes, decretos y normativas básicas del baloncesto para etapas iniciales.
+
+– Organización y estructura básica del baloncesto.
+
+– Organismos propios del baloncesto.
+
+– Estructura competitiva del baloncesto español.
+
+– Reglamento general de competiciones en baloncesto en etapas iniciales.
+
+– Inscripción y bases de competición en baloncesto.
+
+– Tipos de competiciones en baloncesto.
+
+– Características de las competiciones y eventos de baloncesto en etapas iniciales.
+
+– Niveles de los entrenadores de baloncesto y correspondencia con las competiciones.
+
+– Mecánica de arbitraje en minibasket y pasarela.
+
+– Procedimientos de arbitraje de auxiliares mesa en etapas iniciales.
+
+– Procedimientos de arbitraje en eventos de baloncesto lúdico.
+
+– El marcador electrónico en baloncesto.
+
+> Se numera este módulo como Anexo II.g por el art. 8.7.h) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.h
+
+## Módulo específico de enseñanza deportiva: Enseñanza del baloncesto
+
+Código: MED-BCBC104
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Adapta la sesión completa de enseñanza-aprendizaje de iniciación al baloncesto, a partir de un programa y metodología de referencia, describiendo los elementos y organización de la programación en la temporada, valorando la actividad motriz de la sesión de baloncesto, las características psicomotrices de los jugadores de etapas iniciales y las características generales de las tareas y las específicas de la sesión.
+
+a. Se han identificado las partes y elementos de una programación de baloncesto de una temporada.
+
+b. Se han aplicado las consideraciones que la metodología de referencia propone para adaptar la sesión.
+
+c. Se han descrito las características motrices de los jugadores de baloncesto en etapas iniciales.
+
+d. Se ha descrito las escalas básicas de valoración de la cantidad de actividad motriz en la sesión de baloncesto para etapas iniciales.
+
+e. Se ha valorado las ventajas del juego como medio de aprendizaje.
+
+f. Se han definido tanto el concepto de sesión como de cada una de sus partes.
+
+g. Se han diferenciado diferentes tipos de sesiones de entrenamiento en la iniciación al baloncesto.
+
+h. Se ha adaptado una sesión de enseñanza del baloncesto para etapas iniciales, describiendo sus partes, y teniendo en cuenta la cantidad de actividad motriz de cada una de las tareas que la componen, a partir de un supuesto práctico debidamente caracterizado.
+
+i. Se ha valorado la importancia de la adaptación de las sesiones de baloncesto a las características psicomotrices de los jugadores en etapas iniciales.
+
+j. Se han definido y diferenciado los conceptos de tarea, ejercicio y juego.
+
+k. Se han descrito los elementos que componen una tarea y su tipología.
+
+l. Se ha establecido la distribución de las tareas de enseñanza del baloncesto relacionándolas con las fases de la sesión, en un supuesto práctico debidamente caracterizado.
+
+m. Se han diferenciado los elementos de carácter físico-motriz, cognitivo, técnico o táctico que caracterizan una tarea.
+
+2\. Dirige la sesión en las etapas iniciales en baloncesto, aplicando técnicas de organización, dirección, motivación y dinamización de tareas específicas de la etapa, y utilizando técnicas de presentación de las tareas y herramientas de evaluación.
+
+a. Se han descrito propuestas alternativas a la demostración de una habilidad en baloncesto.
+
+b. Se han descrito y aplicado los aspectos organizativos y de dinamización de tareas en etapas iniciales en baloncesto.
+
+c. Se han descrito y aplicado las técnicas de dinamización y de dirección en un supuesto práctico debidamente caracterizado de sesión de baloncesto en las etapas iniciales.
+
+d. Se han aplicado estrategias de incremento de la participación del jugador en un supuesto práctico debidamente caracterizado de sesión en las etapas iniciales en baloncesto.
+
+e. Se han definido diferentes herramientas de evaluación básicas en baloncesto y descrito sus aplicaciones.
+
+f. Se han aplicado las herramientas de evaluación básica en baloncesto en un supuesto práctico debidamente caracterizado.
+
+g. Se ha justificado la necesidad de evaluar tanto la ejecución de la tarea como el diseño de la misma y la propia actuación del entrenador (autoevaluación).
+
+h. Se han descrito y aplicado las estrategias que generen motivación en los jugadores de etapas iniciales en baloncesto.
+
+i. Se ha justificado la importancia de maximizar la participación del jugador en las tareas.
+
+j. Se ha valorado la importancia de la diversión de los jugadores en la práctica de la sesión en etapas iniciales.
+
+3\. Gestiona el riesgo durante la práctica del baloncesto, describiendo las normas de prevención y seguridad en la práctica, en el material e instalaciones específicas, aplicando procedimiento de calentamiento y vuelta a la calma.
+
+a. Se han definido los principales riesgos de la práctica del baloncesto.
+
+b. Se han identificado los riesgos presentes en una situación práctica de baloncesto.
+
+c. Se han diferenciado las causas de riesgos que dependen del jugador y aquellas que dependen de la práctica del baloncesto.
+
+d. Se han descrito los ejercicios o pautas desaconsejadas en la práctica del baloncesto.
+
+e. Se han descrito las características de las lesiones más frecuentes en baloncesto.
+
+f. Se ha descrito las características de las zapatillas de un jugador de baloncesto.
+
+g. Se han listado las normas preventivas sobre instalaciones y material propio del baloncesto.
+
+h. Se han propuesto medidas de actuación básica ante las lesiones propias del baloncesto.
+
+i. Se ha valorado la importancia de la preparación física y psicológica de los jugadores en baloncesto para mejorar su desarrollo.
+
+j. Se han descrito procesos de calentamiento y vuelta a la calma que incluyan aspectos preventivos y preparativos, y tanto físicos como psicológicos.
+
+Contenidos básicos
+
+1\. Adapta la sesión completa de enseñanza-aprendizaje de iniciación al baloncesto, a partir de un programa y metodología de referencia, describiendo los elementos y organización de la programación en la temporada, valorando la actividad motriz de la sesión de baloncesto, las características psicomotrices de los jugadores de etapas iniciales y las características generales de las tareas y las específicas de la sesión.
+
+– La enseñanza del baloncesto en etapas iniciales.
+
+– Características psicomotrices de los jugadores de baloncesto en etapas iniciales.
+
+– La programación básica en baloncesto: partes y elementos que la componen.
+
+– La temporada en baloncesto.
+
+– La sesión de enseñanza-aprendizaje de baloncesto en etapas iniciales: concepto y partes que la conforman.
+
+– Los objetivos de la sesión de enseñanza-aprendizaje de baloncesto en etapas iniciales.
+
+– Tipos de sesiones de baloncesto en etapas iniciales.
+
+– La tarea, el ejercicio y el juego. Conceptos y elementos que lo componen.
+
+– Las tareas dentro de la sesión de baloncesto.
+
+– La metodología y sus especificaciones para el baloncesto en etapas iniciales.
+
+– Metodología de referencia en baloncesto en etapas iniciales.
+
+– Escala básica de valoración de la actividad motriz en la sesión de baloncesto en las etapas iniciales.
+
+– El juego como metodología de enseñanza y su importancia en etapas iniciales.
+
+2\. Dirige la sesión en las etapas iniciales en baloncesto, aplicando técnicas de organización, dirección, motivación y dinamización de tareas específicas de la etapa, y utilizando técnicas de presentación de las tareas y herramientas de evaluación.
+
+– Demostración de habilidades de baloncesto: propuestas alternativas.
+
+– Organización y dinamización de tareas en baloncesto etapas iniciales.
+
+– Dirección de la sesión en baloncesto en etapas iniciales.
+
+– Estrategias para motivar, divertir y mejorar la participación del jugador en las tareas en baloncesto en etapas iniciales.
+
+– Evaluación de la sesión, de las tareas, de su diseño y del entrenador de baloncesto en etapas iniciales.
+
+– Herramientas de evaluación básicas en baloncesto.
+
+– La autoevaluación del técnico.
+
+3\. Gestiona el riesgo durante la práctica del baloncesto, describiendo las normas de prevención y seguridad en la práctica, en el material e instalaciones específicas, aplicando procedimiento de calentamiento y vuelta a la calma.
+
+– Riesgos básicos físicos y psicológicos en la práctica de baloncesto.
+
+– Aspectos básicos de la preparación física en el baloncesto.
+
+– Riesgos físicos y normas preventivas.
+
+– Procesos psicológicos básicos aplicados en el baloncesto.
+
+– Riesgos psicológicos y normas preventivas.
+
+– La práctica adecuada como elemento de prevención y desarrollo.
+
+– Ejercicios y pautas desaconsejadas en baloncesto.
+
+– El calentamiento en la sesión en baloncesto.
+
+– La vuelta a la calma en la sesión en baloncesto.
+
+– La instalación y material de baloncesto en etapas iniciales. Utilización y medidas de prevención.
+
+– La pista de baloncesto.
+
+– Las canastas.
+
+– Las zapatillas de baloncesto.
+
+– Otros elementos de la práctica.
+
+– Lesiones más frecuentes en baloncesto.
+
+– Lesiones.
+
+– Óseas.
+
+– Musculares.
+
+– Heridas.
+
+– Medidas de actuación básica.
+
+> Se numera este módulo como Anexo II.h por el art. 8.7.i) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.i — Módulo específico de enseñanza deportiva: Táctica de ataque y defensa en etapas iniciales
+
+Código: MED-BCBC105
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora e inicia al jugador en el juego dinámico en situaciones de partido, describiendo la estructura táctica del baloncesto, los conceptos, características y aspectos básicos del juego dinámico en etapas iniciales y utilizando la simbología básica del baloncesto, aplicando técnicas y estrategias metodológicas de detección y corrección de errores y de adaptación de tareas.
+
+a. Se han definido los conceptos básicos de juego dinámico (ataque dinámico y defensa dinámica) en las etapas iniciales.
+
+b. Se han descrito las características y conceptos básicos del juego dinámico en etapas iniciales, dibujando con la simbología adecuada las situaciones de juego propuestas.
+
+c. Se han comparado varios juegos dinámicos para etapas iniciales presentados, identificando sus diferencias y similitudes.
+
+d. Se han descrito los errores más frecuentes en el juego dinámico en etapas iniciales, las causas de los mismos y las estrategias de corrección utilizables.
+
+e. Se ha interpretado una situación de juego dinámico a partir de un esquema gráfico construido con simbología específica.
+
+f. Se ha descrito propuestas tácticas del baloncesto en etapas iniciales, utilizando la simbología básica en baloncesto.
+
+g. Se han adaptado ataques y defensas dinámicas básicas para equipos en etapas iniciales, citando los criterios de adaptación aplicados y utilizando la simbología básica adecuada.
+
+h. Se han justificado las ventajas e idoneidad de que el juego dinámico se desarrolle con equipos en etapas iniciales.
+
+i. Se han adaptado tareas de aprendizaje del juego dinámico en etapas iniciales, describiendo los criterios de adaptación y los principios de aprendizaje progresivo utilizados.
+
+j. Se han descrito las características de los recursos metodológicos y demostrativos utilizados en la enseñanza del juego dinámico en etapas iniciales.
+
+k. Se han descrito los principios generales de la táctica en baloncesto, presentes en la estructura de juego de un equipo.
+
+l. Se ha valorado la evolución táctica del baloncesto en su historia.
+
+2\. Valora e inicia al jugador en el juego posicional en situaciones de partido, describiendo los conceptos, características y aspectos básicos del juego posicional en etapas iniciales y utilizando la simbología del baloncesto, aplicando técnicas y estrategias metodológicas de detección y corrección de errores y de adaptación de tareas.
+
+a. Se han definido los conceptos de juego posicional: ataque posicional y defensa posicional, para etapas iniciales, describiendo sus características y conceptos básicos.
+
+b. Se han comparado varios juegos posicionales para etapas iniciales presentados, identificando sus diferencias y similitudes, así como los errores cometidos y las causas que los generan.
+
+c. Se han descrito los errores más frecuentes en el juego posicional en etapas iniciales, las causas de los mismos y las estrategias de corrección utilizables.
+
+d. Se ha identificado el juego posicional en una situación real de un partido de baloncesto en etapas iniciales, dibujándolo con la simbología adecuada.
+
+e. Se han adaptado ataques y defensas posicionales básicas para equipos en etapas iniciales, citando los criterios de adaptación aplicados.
+
+f. Se han justificado la importancia de que el juego posicional se desarrolle con equipos en etapas iniciales.
+
+g. Se han adaptado tareas de aprendizaje del juego posicional en etapas iniciales, describiendo los criterios de adaptación y los principios de aprendizaje progresivo utilizados.
+
+h. Se han descrito las características de los recursos metodológicos y demostrativos utilizados en la enseñanza del juego posicional en etapas iniciales.
+
+3\. Valora e inicia al jugador en el juego de espacios en situaciones de partido, describiendo los conceptos, características y aspectos básicos del juego de espacios en etapas iniciales y utilizando la simbología básica del baloncesto, aplicando técnicas y estrategias metodológicas de detección y corrección de errores y de adaptación de tareas.
+
+a. Se han definido los conceptos básicos del juego de espacios: ataque de espacios y defensa de espacios, en etapas iniciales, describiendo sus características.
+
+b. Se han comparado varios juegos de espacios propios de las etapas iniciales presentados, identificando sus diferencias y similitudes, así como los errores cometidos y las causas que los generan.
+
+c. Se ha identificado el juego de espacios en una situación real de un partido de baloncesto en etapas iniciales, dibujándolo con la simbología básica adecuada.
+
+d. Se han adaptado ataques y defensas de espacios para equipos en etapas iniciales, citando los criterios de adaptación aplicados.
+
+e. Se ha valorado la conveniencia que el juego de espacios se desarrolle con equipos en etapas iniciales.
+
+f. Se han adaptado tareas de aprendizaje del juego de espacios en etapas iniciales, describiendo los criterios de adaptación y los principios de aprendizaje progresivo utilizados.
+
+g. Se han descrito las características de los recursos metodológicos y demostrativos utilizados en la enseñanza del juego de espacios en etapas iniciales.
+
+h. Se ha justificado que la táctica debe estar al servicio de los jugadores y en función de sus capacidades y madurez.
+
+Contenidos básicos
+
+1\. Valora e inicia al jugador en el juego dinámico en situaciones de partido, describiendo la estructura táctica del baloncesto, los conceptos, características y aspectos básicos del juego dinámico en etapas iniciales y utilizando la simbología básica del baloncesto, aplicando técnicas y estrategias metodológicas de detección y corrección de errores y de adaptación de tareas.
+
+– Conceptos básicos del Juego dinámico.
+
+– Terminología.
+
+– Ataque dinámico.
+
+– Contraataque.
+
+– Seguir jugando.
+
+– Transición.
+
+– Defensa dinámica.
+
+– Repliegue.
+
+– Ajuste.
+
+– Balance defensivo.
+
+– Seguir defendiendo.
+
+– Ataque dinámico:
+
+– Ideas ofensivas del juego dinámico.
+
+– Estructura del ataque dinámico.
+
+– Inicio.
+
+– Tras rebote defensivo.
+
+– Tras canasta.
+
+– Tras tiro libre.
+
+– Tras robo de balón.
+
+– Organización.
+
+– Con un solo jugador (contraataque).
+
+– Con dos jugadores (contraataque).
+
+– Con tres jugadores (contraataque).
+
+– Con cuatro jugadores (contraataque).
+
+– Con cinco jugadores (contraataque).
+
+– Continuaciones (seguir jugando).
+
+– Con cortes por delante de la defensa.
+
+– Con cortes por la espalda de la defensa.
+
+– Con cortes al poste bajo.
+
+– Con unos contra unos.
+
+– Con dividir y doblar según la ayuda.
+
+– Con bloqueos directos.
+
+– Finalizaciones.
+
+– Con entrada a canasta desde calle lateral.
+
+– Con entrada a canasta desde calle central.
+
+– Con penetración desde calle central y dobla pase al lateral.
+
+– Propuestas de tareas de enseñanza en etapas iniciales y criterios para su elaboración.
+
+– Errores más frecuentes en los ataques dinámicos en equipos en etapas iniciales.
+
+– Causas de los errores más frecuentes en los ataques dinámicos en equipos en etapas iniciales.
+
+– Defensa dinámica.
+
+– Ideas defensivas del juego dinámico.
+
+– Estructura de la defensa dinámica.
+
+– Defensa previa a la pérdida del balón.
+
+– Defensa en el inicio del contraataque.
+
+– Defensa en la organización del contraataque.
+
+– Defensa en la finalización del contraataque.
+
+– Defensa ante el seguir jugando.
+
+– Propuestas de tareas de enseñanza en etapas iniciales y criterios para su elaboración.
+
+– Errores más frecuentes en equipos en etapas iniciales.
+
+– Causas de los errores más frecuentes en las defensas dinámicas en equipos en etapas iniciales.
+
+– Principios generales de la táctica en baloncesto.
+
+– Estructura de juego de un equipo de baloncesto.
+
+– Historia de la evolución táctica en baloncesto.
+
+– Simbología táctica básica en baloncesto.
+
+– Recursos metodológicos y demostrativos en la enseñanza del juego dinámico en etapas iniciales.
+
+– Aprendizaje progresivo de los conceptos básicos del juego dinámico.
+
+2\. Valora e inicia al jugador en el juego posicional en situaciones de partido, describiendo los conceptos, características y aspectos básicos del juego posicional en etapas iniciales y utilizando la simbología del baloncesto, aplicando técnicas y estrategias metodológicas de detección y corrección de errores y de adaptación de tareas.
+
+– Conceptos básicos del Juego posicional.
+
+– Ataque posicional.
+
+– Definición de ataque posicional.
+
+– Disposiciones iniciales básicas.
+
+– Disposición 1-4.
+
+– Disposición 1-2-2.
+
+– Disposición 2-1-2.
+
+– Movimientos básicos de desarrollo.
+
+– Finalizaciones básicas en etapas iniciales.
+
+– Segundas opciones básicas en etapas iniciales.
+
+– Conceptos básicos del ataque en etapas iniciales.
+
+– Ocupación de espacios.
+
+– Ampliación.
+
+– Vaciado.
+
+– Pasar y moverse.
+
+– Intercambio de posiciones.
+
+– Atacar las ayudas.
+
+– Inversiones.
+
+– Directa o Pase Skip.
+
+– Indirecta o De llegada.
+
+– Ataque desde posiciones.
+
+– Frontal.
+
+– Diagonal.
+
+– Esquina.
+
+– Poste bajo.
+
+– Poste alto.
+
+– Triangulaciones.
+
+– Triangulación Larga.
+
+– Triangulación Corta.
+
+– Estructuras de ataque posicional básico en etapas iniciales.
+
+– El juego posicional en equipos principiantes.
+
+– El juego posicional en equipos ya iniciados.
+
+– Modelos de ataque posicional básico en etapas iniciales.
+
+– PassingGame.
+
+– Triple poste.
+
+– Propuestas de tareas ofensivas de enseñanza en etapas iniciales y criterios para su elaboración.
+
+– Errores más frecuentes en el ataque de equipos en etapas iniciales.
+
+– Criterios en la identificación de errores en los ataques dinámicos en etapas iniciales y su priorización.
+
+– Causas de los errores más frecuentes en los ataques dinámicos en equipos en etapas iniciales.
+
+– Defensa posicional.
+
+– Definición de defensa posicional.
+
+– Conceptos básicos de la defensa posicional en etapas iniciales.
+
+– La defensa al jugador con balón.
+
+– La defensa al jugador sin balón.
+
+– Ayuda defensiva.
+
+– Preparación de la ayuda.
+
+– Reacción en ayuda.
+
+– Corrección posicional.
+
+– Recuperación defensiva.
+
+– Triángulo defensivo.
+
+– Sobremarcar.
+
+– Inframarcar.
+
+– Tres cuartos.
+
+– Estructuras básicas de defensas posicionales en etapas iniciales.
+
+– Defensa de contención.
+
+– Defensa por objetivos.
+
+– Modelos de defensa posicional básica en etapas iniciales.
+
+– Defensa para equipos principiantes.
+
+– Defensa para equipos ya iniciados.
+
+– Propuestas de tareas defensivas de enseñanza en etapas iniciales y criterios para su elaboración.
+
+– Errores más frecuentes en la defensa de equipos en etapas iniciales.
+
+– Criterios en la identificación de errores en las defensas posicionales en etapas iniciales y su priorización.
+
+– Causas de los errores más frecuentes en las defensas posicionales en equipos en etapas iniciales.
+
+– Recursos metodológicos y demostrativos en la enseñanza del juego posicional (ofensivo y defensivo) en etapas iniciales.
+
+– Aprendizaje progresivo de los conceptos básicos del juego posicional ofensivo y defensivo.
+
+3\. Valora e inicia al jugador en el juego de espacios en situaciones de partido, describiendo los conceptos, características y aspectos básicos del juego de espacios en etapas iniciales y utilizando la simbología básica del baloncesto, aplicando técnicas y estrategias metodológicas de detección y corrección de errores y de adaptación de tareas.
+
+– Definición del Juego de espacios en etapas iniciales.
+
+– Defensa de espacios en etapas iniciales.
+
+– Definición de la defensa de espacios.
+
+– Objetivos básicos de la defensa de espacios.
+
+– Estructuras básicas de la defensa de espacios.
+
+– Defensa de espacios «par».
+
+– Defensas de espacios «impar».
+
+– Propuestas de tareas de enseñanza de la defensa de espacios para equipos en etapas iniciales y criterios para su elaboración.
+
+– Errores más frecuentes de la defensa de espacios en equipos en etapas iniciales.
+
+– Criterios en la identificación de errores en las defensas de espacios en etapas iniciales y su priorización.
+
+– Causas de los errores más frecuentes en las defensas de espacios en equipos en etapas iniciales.
+
+– Ataque contra defensa de espacios en etapas iniciales.
+
+– Definición del ataque a espacios.
+
+– Premisas básicas del ataque a espacios.
+
+– Conceptos básicos del ataque de espacios.
+
+– Ocupación de espacios.
+
+– Movimiento de balón.
+
+– Divisiones.
+
+– Estructuras elementales del ataque a espacios.
+
+– Ataque con equipos de principiantes.
+
+– Ataque con equipos ya iniciados.
+
+– Propuestas de tareas de enseñanza para equipos en etapas iniciales y criterios para su elaboración.
+
+– Errores más frecuentes en equipos en etapas iniciales.
+
+– Criterios en la identificación de errores en los ataques de espacios en etapas iniciales y su priorización.
+
+– Causas de los errores más frecuentes en los ataques de espacios en equipos en etapas iniciales.
+
+– Características de los recursos metodológicos y demostrativos utilizados en la enseñanza del juego de espacios en etapas iniciales.
+
+– La táctica al servicio del jugador, de sus capacidades y madurez.
+
+> Se numera este módulo como Anexo II.i por el art. 8.7.j) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.j
+
+## Módulo de enseñanza deportiva: Formación práctica
+
+Código: MED-BCBC106
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica la estructura organizativa y el funcionamiento del club o entidad deportiva relacionándola con la oferta de actividades en relación a la iniciación deportiva o el acompañamiento de usuarios en actividades de baloncesto.
+
+a. Se ha identificado la estructura de la organización deportiva local y autonómica y sus relaciones con el club o entidad deportiva.
+
+b. Se ha identificado la estructura organizativa y el funcionamiento de las distintas áreas del club o entidad deportiva.
+
+c. Se ha reconocido el tipo de asociación deportiva del club o entidad deportiva de prácticas.
+
+d. Se han identificado las relaciones jerárquicas dentro del club o entidad deportiva.
+
+e. Se ha identificado la oferta de actividades vinculadas a la iniciación deportiva o al acompañamiento de usuarios.
+
+f. Se ha distinguido la oferta de actividades orientada a la práctica de baloncesto en las mujeres.
+
+g. Se han identificado las vías de apoyo institucional (local y autonómico) utilizadas por el club o entidad deportiva.
+
+h. Se han reconocido los valores presentes en las actividades de baloncesto del club o entidad deportiva.
+
+2\. Actúa con autonomía, iniciativa y responsabilidad en el puesto de trabajo, demostrando comportamiento ético, habilidades personales de comunicación, trabajo en equipo, respeto por el medio ambiente, y aplicando los procedimientos establecidos por la empresa.
+
+a. Se han identificado los requerimientos actitudinales del puesto de trabajo.
+
+b. Se han interpretado y cumplido las instrucciones recibidas y responsabilizado del trabajo asignado.
+
+c. Se ha demostrado compromiso con el trabajo bien hecho y la calidad del servicio, así como respeto a los procedimientos y principios propios del club o entidad deportiva.
+
+d. Se ha demostrado capacidad de trabajo en equipo y respeto a la jerarquía establecida en el club o entidad deportiva.
+
+e. Se han establecido una comunicación y relación eficaz con el técnico responsable de la actividad y los miembros del equipo, manteniendo un trato fluido y correcto.
+
+f. Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante o imprevista que se presente en la actividad.
+
+g. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+h. Se han aplicado/utilizado los equipos de prevención de riesgos laborales propios del baloncesto.
+
+i. Se han aplicado los aspectos fundamentales de la Ley de Prevención de Riesgos Laborales, relacionados con las actividades, competiciones y eventos de la iniciación deportiva en baloncesto.
+
+3\. Colabora en el desarrollo de las actividades, competiciones y otros eventos de la iniciación deportiva en baloncesto identificando y utilizando medios, interpretando programaciones de referencia y ejecutando procedimientos de acuerdo con la norma establecida, e instrucciones recibidas.
+
+a. Se han identificado e interpretado las instrucciones recibidas y/o documentación asociada a la organización y gestión de pequeñas competiciones y eventos propios de la iniciación deportiva en baloncesto.
+
+b. Se han interpretado e identificado las medidas de protección y de seguridad personal del deportista durante la competición, teniendo en cuenta las características de la competición de iniciación en baloncesto.
+
+c. Se han realizado gestiones de petición de los permisos necesarios para la realización de la actividad, competición o evento de iniciación deportiva en baloncesto.
+
+d. Se han realizado acciones de colaboración e intervención en la organización y gestión de pequeñas competiciones y eventos propios de la iniciación deportiva en baloncesto.
+
+e. Se ha realizado la recogida de documentación para la inscripción de los participantes en una actividad o eventos de iniciación deportiva en baloncesto.
+
+f. Se han aplicado criterios a la revisión y confidencialidad de la documentación necesaria para la inscripción.
+
+g. Se ha elaborado la información sobre la actividad o la competición de baloncesto para los padres o tutores legales de los participantes.
+
+h. Se han interpretado los datos del marcador electrónico de baloncesto.
+
+i. Se han interpretado los procedimientos de arbitraje en las competiciones de baloncesto en etapas iniciales.
+
+4\. Dirige al deportista y al equipo en competiciones de iniciación al baloncesto, interpretando las normas y reglamentos, gestionando las relaciones y emociones que se dan en el juego, ejecutando los procedimientos y técnicas de transmisión de los valores propios de este deporte, y recogiendo información básica del juego.
+
+a. Se ha comprobado el estado de la inscripción del grupo o deportista en la competición de iniciación en baloncesto, siguiendo las instrucciones y normas establecidas.
+
+b. Se ha informado al jugador de las características de la competición, interpretando la documentación sobre la misma.
+
+c. Se han aplicado procedimientos de reclamación en una competición de iniciación en baloncesto, aplicando los protocolos y normas establecidos.
+
+d. Se ha orientado a los deportistas en las competiciones, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
+
+e. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de iniciación en baloncesto, aplicando los procedimientos adecuados y respetando las normas de la misma.
+
+f. Se han aplicado dinámicas de grupo durante las competiciones que ayuden al jugador y al equipo en la práctica, aplicando técnicas y modelos de referencia.
+
+g. Se han observado el juego real o en diferido, utilizando recursos tecnológicos básicos, identificando las distintas habilidades técnicas básicas y de los conceptos tácticos básicos que se presentan.
+
+h. Se han utilizado, durante los partidos, los recursos de gestión del tiempo y del equipo (tiempos muertos y cambios) para optimizar la práctica y la participación de los jugadores, y aplicando las normas del reglamento específico de aplicación.
+
+i. Se han explicado diferentes consignas durante la competición, utilizando un lenguaje específico básico de baloncesto.
+
+j. Se ha demostrado la gestión de las propias emociones, realizando una dirección tranquila del equipo y comunicación serena con los jugadores.
+
+5\. Realiza operaciones de prestación de los primeros auxilios, interpretando las normas y protocolos establecidos y aplicando técnicas y procedimientos de acuerdo a instrucciones o normas establecidas, interviniendo también en la gestión del riesgo durante la práctica.
+
+a. Se han desarrollado operaciones de valoración inicial al accidentado, de acuerdo con los protocolos e instrucciones recibidos.
+
+b. Se ha establecido la secuencia de actuación de acuerdo con el protocolo establecido por el ILCOR (Comité de Coordinación Internacional sobre la Resucitación).
+
+c. Se han establecido medidas de seguridad y autoprotección personal en las situaciones de prestación de los primeros auxilios, de acuerdo con los protocolos y las instrucciones recibidos.
+
+d. Se han aplicado técnicas y procedimientos de prestación de primeros auxilios en lesiones, según los protocolos y la normativa establecidos.
+
+e. Se han aplicado técnicas de soporte vital, siguiendo los protocolos e instrucciones establecidos.
+
+f. Se han efectuado operaciones de desfibrilación externa semiautomática, siguiendo los protocolos e instrucciones establecidos.
+
+g. Se ha mantenido el autocontrol en situaciones de prestación de los primeros auxilios al accidentado teniendo en cuenta los protocolos e instrucciones establecidos.
+
+h. Se han aplicado técnicas de apoyo psicológico al accidentado y acompañante, teniendo en cuenta los protocolos e instrucciones establecidos.
+
+i. Se ha utilizado la terminología médico sanitaria elemental relacionada con los primeros auxilios.
+
+j. Se ha demostrado una actitud positiva hacia el reciclaje y actualización personal en nuevos protocolos e instrumentos relacionados con los primeros auxilios y los riesgos en la práctica del baloncesto.
+
+k. Se han realizado operaciones de preparación de la cancha para incrementar la seguridad de los participantes.
+
+l. Se han efectuado operaciones de revisión de las indumentarias de los deportistas y los equipamientos necesarios para la práctica, siguiendo las instrucciones o normas establecidas.
+
+m. Se han comunicado a los deportistas las posibles situaciones de riesgo o peligro durante la práctica, de acuerdo con las normas y procedimientos establecidos.
+
+6\. Adapta y dirige sesiones de enseñanza-aprendizaje en la iniciación técnica y táctica en baloncesto, interpretando programaciones de referencia, ejecutando procedimientos y técnicas relacionadas con el proceso de enseñanza-aprendizaje, y transmitiendo valores éticos.
+
+a. Se han identificado y seleccionado los medios y recursos necesarios para el desarrollo de la actividad.
+
+b. Se han identificado las condiciones ambientales necesarias para el desarrollo de la sesión, aplicando técnicas y procedimientos establecidos y respetando las normas de seguridad establecidas para las actividades de iniciación en baloncesto.
+
+c. Se ha mantenido comunicación con el jugador, explicando los contenidos de la sesión, y demostrado interés por la captación, motivación y adherencia a la práctica de los deportistas y usuarios.
+
+d. Se ha concretado la sesión de enseñanza aprendizaje de la iniciación en baloncesto siguiendo la programación de referencia, estableciendo tiempos adecuados de práctica a nivel grupal e individual.
+
+e. Se han valorado las habilidades y destrezas técnicas y tácticas de los jugadores, identificando los errores y ofreciendo pautas de corrección.
+
+f. Se ha tenido en cuenta el desarrollo natural del baloncesto proponiendo tareas variadas que proporcionen variabilidad/diversidad en las experiencias motoras, teniendo en cuenta las características del individuo.
+
+g. Se han establecido tiempos adecuados para la de práctica del juego colectivo, y de las habilidades técnicas, motivando la experimentación y la práctica.
+
+h. Se han utilizado metodologías específicas para la demostración y/o explicación de las habilidades técnicas básicas y de los conceptos tácticos básicos.
+
+i. Se han establecido las condiciones de seguridad necesarias en la iniciación en baloncesto, interpretando las instrucciones o normas y aplicando los procedimientos establecidos.
+
+j. Se ha dirigido la sesión de enseñanza aprendizaje de iniciación en baloncesto, solucionando las contingencias existentes, utilizando más refuerzos positivos que castigos en la corrección de las habilidades técnicas, generando un espíritu constructivo y sereno en la mejora y desarrollo del jugador.
+
+k. Se han aplicado estrategias de comunicación, control de contingencias, sirviéndose de las dinámicas de grupo más adecuadas en cada caso.
+
+l. Se ha valorado el desarrollo de la sesión, aplicando procedimientos de recogida y procesamiento de la información necesaria para la elaboración de juicios que permitan el ajuste y mejora permanente del proceso de enseñanza-aprendizaje y de las actividades propias de la iniciación a la modalidad o especialidad deportiva.
+
+m. Se ha demostrado interés por la transmisión de valores éticos, personales y sociales a través de la práctica deportiva: juego limpio, respeto a la salud personal, a los demás y al entorno.
+
+> Se numera este módulo como Anexo II.j por el art. 8.7.k) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO III — Objetivos generales y módulos de enseñanza deportiva del ciclo final de grado medio en baloncesto
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos III.a hasta el III.l por el art. 8.8 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO III.a — Objetivos generales
+
+a. Identificar y detectar las características técnicas, físicas, psicológicas, tácticas y competitivas, aplicando procedimientos establecidos para valorar y agrupar al deportista en la etapa de tecnificación deportiva, y lograr su continuidad en su práctica deportiva.
+
+b. Analizar e interpretar la programación de referencia del entrenamiento en baloncesto en la etapa de tecnificación, eligiendo y diseñando tareas y aplicando métodos establecidos, para adaptar y concretar los ciclos, programas específicos y sesiones de entrenamiento de baloncesto.
+
+c. Estructurar, elaborar y describir los objetivos, contenidos del proceso de enseñanza y aprendizaje de baloncesto, aplicando metodologías específicas, teniendo en cuenta los principios del aprendizaje motor y de la práctica saludable, para diseñar programas de enseñanza del baloncesto.
+
+d. Describir, elegir y demostrar las técnicas y estrategias de dinamización, de control de contingencias y dirección de sesiones en baloncesto con un lenguaje específico avanzado que incluya la terminología en inglés, para dinamizar sesiones de entrenamiento en la etapa de tecnificación.
+
+e. Describir y mostrar los fundamentos del juego en la etapa de tecnificación, seleccionando las estrategias metodológicas, así como los procedimientos de detección y corrección de errores.
+
+f. Analizar e identificar las diferentes estructuras tácticas presentes en la competición de la etapa de tecnificación deportiva, y del reglamento, aplicando técnicas de valoración del rendimiento individual y colectivo para organizar al equipo en el partido.
+
+g. Analizar las contingencias personales y colectivas que afectan a la dirección de equipos en competición en la etapa de tecnificación en baloncesto, valorando la carga emocional de la situación, y aplicando técnicas y estrategias de liderazgo, desarrollo personal, dinámicas de grupo, y de distribución y aceptación de roles en los equipos técnicos, para dirigir a los jugadores de forma más acertada.
+
+h. Identificar y describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los deportistas, para transmitir valores propios del baloncesto.
+
+i. Analizar y elaborar la estructura organizativa de las competiciones y eventos de las etapas iniciales de baloncesto, e identificar las características organizativas de competiciones de tecnificación deportiva, enumerando los requisitos administrativos, los medios materiales y humanos necesarios, aplicando el marco legal que las regula y estrategias para atraer deportistas.
+
+j. Identificar y analizar las características organizativas de los equipos técnicos, medios materiales y humanos, aplicando procedimientos establecidos de gestión, comunicación y trabajo colaborativo, para dirigir a otros técnicos encargados de la iniciación deportiva.
+
+k. Identificar y analizar las variables que intervienen en el proceso de tecnificación deportiva, aplicando procedimientos de recogida, tratamiento y valoración de la información de los diferentes ciclos y períodos de la temporada, y de ajuste del programa, para valorar el desarrollo de los ciclos de entrenamiento y de los resultados obtenidos.
+
+l. Recoger información, a partir del «scouting», mediante la utilización de fuentes, recursos y herramientas de observación y obtención de datos, para analizar y valorar a los jugadores y al equipo.
+
+m. Identificar y reproducir gráficamente los elementos tácticos presentes en el juego que se visiona, ya sea en directo o en diferido, y a velocidad real o ralentizada, para analizar y valorar los componentes del juego.
+
+n. Reconocer, promover y justificar los valores de compromiso, trabajo bien hecho y respeto a los derechos y deberes propios y de los jugadores, describiendo los aspectos observables de la conducta que reflejan estos valores, para mantener el espíritu de responsabilidad individual como técnico, esfuerzo personal, compromiso con el desarrollo de los deportistas y en la lucha contra el dopaje.
+
+o. Exteriorizar interés por la formación, innovación y el aprendizaje permanente, reconociendo las capacidades y competencias necesarias para ejercer como técnico deportivo, valorando el trabajo bien hecho, para demostrar el espíritu de mejora constante.
+
+p. Describir y aplicar los programas de iniciación deportiva al baloncesto en silla de ruedas, analizando las adaptaciones/características técnicas, tácticas y reglamentarias de la modalidad, y clasificando las características de las discapacidades.
+
+> Se numera como Anexo III.a por el art. 8.8.a) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.b — Módulo común de enseñanza deportiva: Bases del aprendizaje deportivo.
+
+Código: MED-C201
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Identifica las características del/de la deportista de Tecnificación Deportiva (TD), analizando los factores psicológicos y sociales implicados en el rendimiento deportivo y su relación con la etapa de la adolescencia.**
+
+a) Se han descrito las características psicológicas y rasgos sociales propios de la adolescencia y las diferencias existentes en función del sexo.
+
+b) Se han aplicado instrumentos de valoración de las características psicológicas de los/las deportistas, comparando con los niveles estándar de la etapa de TD.
+
+c) Se han descrito los principales factores psicológicos que facilitan el aprendizaje en el/la deportista de TD.
+
+d) Se han enumerado algunas estrategias que favorecen y mantienen la motivación en el entrenamiento.
+
+e) Se han aplicado estrategias que favorecen la activación, la concentración y el control del estrés en una situación propuesta de entrenamiento y competición.
+
+f) Se han identificado, en un supuesto práctico, los factores psico-sociales más relevantes que pueden influir en el bajo rendimiento deportivo.
+
+g) Se ha argumentado la importancia del entorno familiar, social y deportivo en el rendimiento del/la deportista en la etapa de TD.
+
+**RA-2. Identifica las características y factores del aprendizaje motor, analizando las características del proceso de perfeccionamiento técnico-táctico del/la deportista.**
+
+a) Se han descrito las principales teorías que explican el aprendizaje motor.
+
+b) Se ha justificado la importancia de los mecanismos de percepción, decisión y ejecución en la TD de distintos deportes.
+
+c) Se han identificado los factores relacionados con los mecanismos de percepción, decisión y ejecución que determinan la complejidad de tareas en distintos deportes.
+
+d) Se han descrito las características técnico-tácticas propias de la etapa de TD.
+
+e) Se ha identificado, en un supuesto práctico contextualizado, la fase de aprendizaje en la que se encuentran los/las deportistas y los factores más importantes a tener en cuenta en su progresión deportiva.
+
+f) Se ha argumentado la necesidad de adecuar las tareas al nivel de desarrollo técnico-táctico del/la deportista, a sus intereses y características.
+
+**RA-3. Programa la enseñanza deportiva, analizando sus componentes y seleccionando tareas en función de la etapa de aprendizaje del/de la deportista.**
+
+a) Se han descrito los tipos de programación de tecnificación deportiva, sus principios y fases de elaboración.
+
+b) Se han descrito los elementos que componen una programación de enseñanza deportiva y su relevancia en el proceso de implementación.
+
+c) Se ha argumentado la importancia de utilizar la programación como referente de evaluación en la progresión en el aprendizaje deportivo de los/las deportistas.
+
+d) Se ha identificado la estructura y los componentes en una sesión de entrenamiento propuesta.
+
+e) Se han identificado los componentes y comparado de forma justificada el nivel de dificultad entre varias tareas propuestas.
+
+f) Se han modificado las condiciones de realización, condiciones espaciales o temporales en una tarea propuesta, posibilitando llevarla a cabo con distintos niveles de dificultad.
+
+g) Se han seleccionado varias tareas en progresión justificando los criterios utilizados en su elección.
+
+h) Se ha identificado la importancia de la memoria en los procesos de aprendizaje.
+
+i) Se ha argumentado la importancia de realizar progresiones que tengan en cuenta las características personales, técnico-tácticas y motivacionales de los/las deportistas.
+
+**RA-4. Dirige y organiza las tareas de entrenamiento, analizando los procedimientos de control y dinamización utilizados.**
+
+a) Se han identificado los métodos y estilos de enseñanza utilizados en situaciones de entrenamiento propuestas.
+
+b) Se han seleccionado justificadamente técnicas y estrategias de enseñanza en distintos supuesto prácticos en función del objetivo y las características de la tarea a realizar.
+
+c) Se ha analizado el tiempo de práctica en un entrenamiento, proponiendo actuaciones para optimizarlo.
+
+d) Se han aplicado distintas formas de distribuir y agrupar a los/las deportistas en tareas propuestas, mejorando la calidad de la práctica.
+
+e) Se han seleccionado recursos materiales adaptados, variados y motivantes en la aplicación de tareas propuestas.
+
+f) Se han identificado los tipos feedback administrados por un entrenador en un caso práctico.
+
+g) Se han propuesto algunas medidas de intervención que subsanen comportamientos no deseados identificados en un supuesto práctico.
+
+**RA-5. Coordina la intervención del personal técnico a su cargo, aplicando técnicas de dirección, organización y comunicación no jerarquizadas que promuevan el trabajo en equipo.**
+
+a) Se han descrito las características de un estilo de dirección de grupos no jerarquizado.
+
+b) Se ha elaborado un sencillo organigrama de un supuesto equipo a su cargo, estableciendo características de cada puesto, funciones e interacciones.
+
+c) Se han propuesto, en un supuesto práctico, actividades y dinámicas que favorezcan la cohesión grupal y el trabajo en equipo.
+
+d) Se han utilizado estrategias de escucha activa, empatía y asertividad en situaciones de conflicto simuladas.
+
+e) Se ha empleado un lenguaje asertivo y no discriminatorio en la comunicación con sus compañeros/as.
+
+**RA-6. Tutela a los/las deportistas durante su participación en entrenamientos y competiciones, aplicando estrategias que promuevan valores personales y sociales de esfuerzo, respeto y cooperación.**
+
+a) Se han identificado las principales demandas del contexto deportivo (club, árbitros, familias, etc.) que afectan al comportamiento ético y la promoción de valores en la etapa de TD.
+
+b) Se ha realizado una autoevaluación de las principales habilidades personales, de trabajo y de comunicación propias, relacionándolas con la transmisión de valores personales y sociales.
+
+c) Se han seleccionado actividades y dinámicas que fomenten actitudes proactivas y valores de esfuerzo, respeto y cooperación en los/las deportistas en distintas situaciones prácticas propuestas.
+
+d) Se han aplicado de manera justificada estrategias de resolución de conflictos en supuestos prácticos de entrenamiento y competición.
+
+e) Se ha argumentado la importancia de la actitud y actuación del técnico, del contexto deportivo y de la familia en la transmisión de valores personales y sociales a sus deportistas.
+
+Contenidos básicos
+
+**RA-1. Identifica las características del/de la deportista de Tecnificación Deportiva (TD), analizando los factores psicológicos y sociales implicados en el rendimiento deportivo y su relación con la etapa de la adolescencia.**
+
+1\. Análisis de las características psico-sociales de los/las deportistas en la etapa de Tecnificación Deportiva.
+
+– Características psicológicas y rasgos sociales de los/las adolescentes.
+
+– El papel del entorno familiar, social y deportivo en la TD.
+
+– Diferencias entre chicos y chicas en la adolescencia.
+
+– Aplicación de instrumentos para evaluar las características psico-sociales de los/las deportistas en la etapa de TD.
+
+– Valoración de la necesidad de considerar los aspectos psico-sociales de la adolescencia en la preparación deportiva de la etapa de TD.
+
+2\. Factores psicológicos más relevantes en la etapa de Tecnificación Deportiva.
+
+– La motivación: características, tipos y estrategias para su fomento en la TD.
+
+– La activación y el control del estrés.
+
+– Factores psico-sociales que pueden influir negativamente en el rendimiento deportivo y recursos para afrontarlos: miedo al fracaso, ansiedad competitiva, burnout, etc.
+
+– Abandono deportivo en la etapa de tecnificación del adolescente: exigencia en los estudios, desgana, cansancio, factores sociales y psicológicos.
+
+**RA-2. Identifica las características y factores del aprendizaje motor, analizando las características del proceso de perfeccionamiento técnico-táctico del/la deportista.**
+
+1\. Características del aprendizaje motor.
+
+– Teorías del aprendizaje motor.
+
+– El modelo de procesamiento de la información en la enseñanza deportiva: los mecanismos de percepción, decisión, ejecución y sus mecanismos de regulación.
+
+– Importancia de los mecanismos en la selección y elaboración de tareas.
+
+2\. Factores que intervienen en el aprendizaje motor.
+
+– Dependientes de la persona: edad, sexo, aptitud, experiencia previa, motivación.
+
+– Dependientes del diseño de la tarea (relacionados con los mecanismos): perceptivos, decisionales, de ejecución, autorregulación:
+
+– Dependientes del proceso de enseñanza-aprendizaje: transmisión de información (feedback); cantidad, duración y distribución de la práctica.
+
+3\. El proceso de perfeccionamiento técnico-táctico del/de la deportista.
+
+– Identificación de las características técnico-tácticas propias de la etapa de TD.
+
+– Fases del aprendizaje deportivo: iniciación, perfeccionamiento, dominio.
+
+– Importancia de adaptar las tareas a las necesidades de/la deportista.
+
+**RA-3. Programa la enseñanza deportiva, analizando sus componentes y seleccionando tareas en función de la etapa de aprendizaje del/de la deportista.**
+
+1\. Interpretación y elaboración de programaciones.
+
+– Tipos, principios y fases de la programación deportiva.
+
+– Elementos de la programación: objetivos, contenidos, medios, métodos e instrumentos de evaluación.
+
+– Elaboración y aplicación de programas de iniciación deportiva: consideraciones básicas.
+
+– La programación como elemento de evaluación de los aprendizajes deportivos.
+
+– La sesión de entrenamiento como unidad de organización del trabajo: estructura básica y componentes.
+
+2\. Selección de tareas:
+
+– La tarea: grado de dificultad, factores de los que depende.
+
+– Los componentes de la tarea: objetivo, condiciones de realización, condiciones espaciales y temporales, recursos.
+
+– Adecuación de las tareas a las características e intereses de los/las deportistas.
+
+– Criterios para la elaboración de secuencias de aprendizaje en progresión: variabilidad, significatividad, interferencia contextual, transferencia.
+
+– Valoración de la progresión de los aprendizajes como elemento fundamental en el diseño y modificación/manipulación de tareas.
+
+**RA-4. Dirige y organiza las tareas de entrenamiento, analizando los procedimientos de control y dinamización utilizados.**
+
+1\. Dirección y organización de la enseñanza en el entrenamiento.
+
+– Dirección de grupos: Métodos y estilos, técnicas y estrategias de enseñanza.
+
+– Organización de la actividad: tiempo de prácticas, distribución espacial, agrupamientos y utilización de recursos materiales.
+
+2\. Procedimientos de control y dinamización de tareas de entrenamiento básico y perfeccionamiento técnico.
+
+– Técnicas de gestión de las actividades para optimizar los tiempos de práctica y el control del grupo.
+
+– Importancia de la posición estratégica del/la entrenador/a y la interacción con el deportista como medio de implicación activa en el aprendizaje y motivación del deportista.
+
+– Utilización de recursos materiales adaptados, variados y motivantes para la práctica.
+
+– El feedback: tipos, momento de administración y finalidad. Estrategias para su administración.
+
+– Estrategias de control y dinamización frente a las conductas no deseadas.
+
+**RA-5. Coordina la intervención del personal técnico a su cargo, aplicando técnicas de dirección, organización y comunicación no jerarquizadas que promuevan el trabajo en equipo.**
+
+1\. Dirección y coordinación de grupos de trabajo.
+
+– Características de grupos de trabajo no jerarquizados.
+
+– Organización del equipo: Adecuación de tareas y funciones a las características, capacidades e intereses de los componentes.
+
+– Asignación de roles: claridad, aceptación y cumplimiento de las funciones del personal técnico.
+
+– Dinámicas de cohesión de grupo y de resolución de conflictos.
+
+2\. Aplicación de técnicas de comunicación en grupos.
+
+– Escucha activa, empatía y asertividad.
+
+– Lenguaje, verbal y no verbal, asertivo y no discriminatorio.
+
+**RA-6. Tutela a los/las deportistas durante su participación en entrenamientos y competiciones, aplicando estrategias que promuevan valores personales y sociales de esfuerzo, respeto y cooperación.**
+
+1\. Identificación de actitudes y valores personales y sociales en relación con la práctica deportiva y la competición:
+
+– El contexto de la práctica deportiva (clubes, asociaciones, organizadores deportivos, árbitros, familias, medios de comunicación, etc.) en la promoción y desarrollo de valores en el deporte.
+
+– Principales problemas éticos en la etapa de TD: abandono, exclusión de la práctica, búsqueda de resultados.
+
+– Evaluación y medida de actitudes y valores en el deporte: técnicas e instrumentos de medida de los valores en el deporte (diario de sesiones, test sociométrico, cuestionarios, perfil de polaridad, etc).
+
+2\. Transmisión de actitudes y valores personales y sociales en relación con la práctica deportiva y la competición:
+
+– Características y habilidades del técnico/a deportivo/a para favorecer la transmisión de valores personales y sociales a través del deporte: personales, de trabajo y de comunicación.
+
+– La responsabilidad personal en la transmisión de valores personales y sociales a través del deporte.
+
+– Estrategias para resolución de conflictos que puedan surgir durante la participación en eventos deportivos y competiciones (role-playing; banquillo de reflexión; dilemas morales, etc.).
+
+– Principios deontológicos del técnico deportivo.
+
+> Se numera como Anexo III.b y se sustituye por el que figura como anexo II.a del Real Decreto 534/2026, de 30 de junio, según establece su art. 8.8.b). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.c — Módulo común de enseñanza deportiva: Bases del entrenamiento deportivo.
+
+Código: MED-C202
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Identifica las características físicas de hombres y mujeres, analizando las funciones anatómico-fisiológicas del organismo en relación con el ejercicio físico.**
+
+a) Se ha descrito la estructura y organización del organismo en función de sus unidades estructurales (células, tejidos, órganos y sistemas).
+
+b) Se han diferenciado las distintas posibilidades de movimiento del cuerpo humano en función de los ejes y planos anatómicos, usando una terminología adecuada en la descripción de posiciones y direcciones y aplicándolas a gestos deportivos concretos.
+
+c) Se ha analizado la estructura y funcionamiento de los aparatos locomotor, cardiocirculatorio y respiratorio, así como de los sistemas nervioso, endocrino y digestivo respecto al ejercicio físico y las capacidades físicas que dependen de ellos.
+
+d) Se ha descrito el ciclo menstrual femenino en relación con el rendimiento físico-deportivo en la mujer.
+
+e) Se han descrito de manera elemental las principales vías metabólicas y fuentes de energía del organismo y su implicación en el ejercicio físico.
+
+f) Se han descrito las principales adaptaciones producidas por el ejercicio físico en diferentes tejidos, órganos y sistemas.
+
+**RA-2. Dirige prácticas deportivas saludables, identificando las pautas higiénicas más adecuadas en las etapas de iniciación y tecnificación deportiva.**
+
+a) Se han analizado los beneficios de la actividad física y las pautas básicas de higiene deportiva, así como los principios de ergonomía y corrección postural durante el ejercicio.
+
+b) Se han identificado los posibles efectos negativos y las principales contraindicaciones relacionadas con la práctica del ejercicio físico.
+
+c) Se han analizado los hábitos nocivos que afectan al desarrollo y a la salud de los/las deportistas y la importancia de prever sus consecuencias negativas.
+
+d) Se han desarrollado propuestas de trabajo de activación y vuelta a la calma del deportista.
+
+e) Se han descrito las bases para una adecuada alimentación e hidratación y su aplicación en la práctica de actividad físico-deportiva: antes, durante y después de la misma.
+
+f) Se han identificado los posibles beneficios y perjuicios relacionados con el entrenamiento deportivo para la salud de la mujer.
+
+**RA-3. Analiza la condición motriz general de hombres y mujeres aplicando las técnicas y metodología de valoración adecuadas de las diferentes capacidades físicas básicas.**
+
+a) Se han analizado las características de las principales capacidades condicionales y coordinativas y su relación con el concepto de condición motriz.
+
+b) Se ha analizado la evolución de la condición motriz en relación con el desarrollo madurativo del deportista y los diferentes periodos sensibles de las capacidades en función de la edad biológica y el sexo.
+
+c) Se han identificado los instrumentos y medios más relevantes de una medición válida, fiable y sensible de las capacidades condicionales y coordinativas.
+
+**RA-4. Desarrolla la condición motriz general de hombres y mujeres, aplicando los principios metodológicos, medios y métodos del entrenamiento para las diferentes capacidades condicionales y coordinativas.**
+
+a) Se han analizado los principios metodológicos, medios y métodos de entrenamiento de la fuerza para la mejora del rendimiento físico y deportivo, así como sus efectos y adaptaciones sobre el sistema neuromuscular.
+
+b) Se han analizado los principios metodológicos, medios y métodos de entrenamiento de la resistencia para la mejora del rendimiento físico y deportivo, así como sus efectos y adaptaciones sobre el sistema cardiocirculatorio y respiratorio.
+
+c) Se han analizado los principios metodológicos, medios y métodos de entrenamiento de la velocidad para la mejora del rendimiento físico y deportivo, así como sus efectos y adaptaciones sobre el sistema neuromuscular.
+
+d) Se han analizado los principios metodológicos, medios y métodos de entrenamiento de la amplitud de movimiento (ADM) para la mejora del rendimiento físico y deportivo, así como sus efectos y adaptaciones sobre el sistema musculoesquelético.
+
+e) Se han analizado los principales medios y métodos de entrenamiento de las capacidades coordinativas para la mejora del rendimiento físico y deportivo, así como sus efectos y adaptaciones sobre el sistema neuromuscular.
+
+f) Se ha seleccionado de forma justificada las nuevas tecnologías en el desarrollo de los principales medios y métodos de entrenamiento de las capacidades condicionales y coordinativas, en supuestos prácticos de práctica deportiva.
+
+**RA-5. Interpreta la programación analizando los principios y elementos básicos del entrenamiento deportivo.**
+
+a) Se ha analizado los conceptos básicos de entrenamiento deportivo, adaptación, fatiga y recuperación relacionándolos con la programación del entrenamiento.
+
+b) Se han identificado los principales conceptos de organización del entrenamiento: planificación, programación y periodización, valorando su importancia en el proceso de entrenamiento.
+
+c) Se han identificado los elementos básicos de la programación, identificando las diferentes estructuras o fases temporales, así como los principales tipos y componentes de la carga de entrenamiento.
+
+d) Se han analizado los principios del entrenamiento deportivo, entendiendo su relación con la programación deportiva.
+
+e) Se ha analizado la intervención de las nuevas tecnologías en el diseño y programación del entrenamiento, así como para el registro, control, análisis y evaluación de la práctica deportiva.
+
+f) Se han aplicado de forma justificada los posibles ajustes de la programación del entrenamiento en función del ciclo menstrual femenino.
+
+Contenidos básicos
+
+**RA-1. Identifica las características físicas de hombres y mujeres, analizando las funciones anatómico-fisiológicas del organismo en relación con el ejercicio físico.**
+
+1\. Estructura y organización general del organismo: células, tejidos, órganos y sistemas.
+
+2\. Descripción espacial del movimiento: posiciones, direcciones, ejes y planos anatómicos. Movimientos articulares. Relación con situaciones y gestos deportivos específicos.
+
+3\. Aparato locomotor: principales huesos, articulaciones y músculos. Estructura y movilidad de las principales regiones anatómicas. Relación con las capacidades físicas y el ejercicio.
+
+4\. Aparato cardiocirculatorio: el corazón, los vasos sanguíneos y la sangre. La circulación sanguínea. Conceptos básicos relacionados con la respuesta cardiocirculatoria al ejercicio físico: frecuencia cardiaca, volumen sistólico, gasto cardiaco, presión arterial y vasodilatación. Relación con las capacidades físicas.
+
+5\. Aparato respiratorio: anatomía, fisiología y mecánica respiratorias. Capacidades y volúmenes pulmonares. Respuesta ventilatoria al ejercicio y relación con las capacidades físicas.
+
+6\. Sistema nervioso: neurona, sinapsis y transmisión del impulso nervioso. Clasificación anatómica del sistema nervioso como central y periférico y funcional como somático y autónomo. Relación con las capacidades físicas y el ejercicio.
+
+7\. Sistema endocrino: principales hormonas y glándulas endocrinas. Respuesta hormonal al ejercicio.
+
+8\. Sistema digestivo: anatomía y fisiología básica.
+
+9\. Ciclo menstrual: características y fases. Influencia de la práctica físico-deportiva: regularidad, amenorrea y dolor menstrual. Impacto en el rendimiento.
+
+10\. Metabolismo energético: principales vías metabólicas y fuentes de energía, ATP, glucógeno y grasas. Relación con el ejercicio físico.
+
+11\. Adaptaciones, agudas y crónicas, de los diferentes sistemas implicados en el ejercicio físico.
+
+**RA-2. Dirige prácticas deportivas saludables, identificando las pautas higiénicas más adecuadas en las etapas de iniciación y tecnificación deportiva.**
+
+1\. Beneficios de la práctica físico-deportiva sobre el organismo: repercusiones físicas, psico-emocionales y psico-sociales. Características en función de los diferentes ámbitos deportivos: salud, recreación y alto rendimiento.
+
+2\. Pautas básicas de higiene deportiva. Principios de ergonomía y corrección postural durante el ejercicio.
+
+3\. Contraindicaciones y efectos negativos relacionados con la práctica del ejercicio físico. Movimientos y ejercicios contraindicados.
+
+4\. Principales hábitos nocivos que afectan al desarrollo y a la salud de los/las deportistas: mala alimentación, falta de descanso y abuso de dispositivos electrónicos. Precauciones a tener en cuenta en la etapa de tecnificación deportiva.
+
+5\. Activación y vuelta a la calma en la sesión deportiva.
+
+6\. La alimentación y la hidratación vinculadas a la actividad física: antes, durante y después del ejercicio.
+
+7\. Efectos del entrenamiento deportivo en la salud específica de las mujeres deportistas: beneficios y riesgos de una práctica inadecuada.
+
+**RA-3. Analiza la condición motriz general de hombres y mujeres aplicando las técnicas y metodología de valoración adecuadas de las diferentes capacidades físicas básicas.**
+
+1\. Condición motriz, capacidades condicionales y coordinativas. Aspectos generales.
+
+2\. La fuerza. Concepto, manifestaciones e implicación en la práctica de actividades físico-deportivas. Evolución en relación con el desarrollo madurativo del deportista. Periodos sensibles en función de la edad biológica y el sexo.
+
+3\. La resistencia. Concepto, tipos e implicación en la práctica de actividades físico-deportivas. Evolución en relación con el desarrollo madurativo del deportista. Periodos sensibles en función de la edad biológica y el sexo.
+
+4\. La velocidad. Concepto, manifestaciones e implicación en la práctica de actividades físico-deportivas. Evolución en relación con el desarrollo madurativo del deportista. Periodos sensibles en función de la edad biológica y el sexo.
+
+5\. Amplitud de movimiento (ADM). Concepto, condicionantes e implicación en la práctica de actividades físico-deportivas. Evolución en relación con el desarrollo madurativo del deportista.
+
+6\. Capacidades coordinativas. Concepto, características e implicación en la práctica de actividades físico-deportivas. Evolución en relación con el desarrollo madurativo del deportista.
+
+7\. Patrones motores básicos y su relación con el gesto deportivo.
+
+8\. Instrumentos y medios más relevantes para la una medición válida, fiable y sensible de las capacidades condicionales y coordinativas. Aportaciones e innovaciones tecnológicas en el ámbito de la valoración deportiva.
+
+**RA-4. Desarrolla la condición motriz general de hombres y mujeres, aplicando los principios metodológicos, medios y métodos del entrenamiento para las diferentes capacidades condicionales y coordinativas.**
+
+1\. Principios metodológicos, medios y métodos de entrenamiento de la fuerza para la mejora del rendimiento físico y deportivo. Efectos y adaptaciones sobre el sistema neuromuscular.
+
+2\. Principios metodológicos, medios y métodos de entrenamiento de la resistencia para la mejora del rendimiento físico y deportivo. Efectos y adaptaciones sobre el sistema cardiocirculatorio y respiratorio.
+
+3\. Principios metodológicos, medios y métodos de entrenamiento de la velocidad para la mejora del rendimiento físico y deportivo. Efectos y adaptaciones sobre el sistema neuromuscular.
+
+4\. Principios metodológicos, medios y métodos de entrenamiento de la amplitud de movimiento (ADM) para la mejora del rendimiento físico y deportivo. Efectos y adaptaciones sobre el sistema musculoesquelético.
+
+5\. Principales medios y métodos de entrenamiento de las capacidades coordinativas para la mejora del rendimiento físico y deportivo. Efectos y adaptaciones sobre el sistema neuromuscular.
+
+6\. Intervención de las nuevas tecnologías en el desarrollo de los principales medios y métodos de entrenamiento de las capacidades condicionales y coordinativas. Aplicaciones en la práctica deportiva.
+
+**RA-5. Interpreta la programación analizando los principios y elementos básicos del entrenamiento deportivo.**
+
+1\. El entrenamiento deportivo: adaptación, fatiga y recuperación. El Síndrome General de Adaptación (SGA). La supercompensación. Relación con la programación del entrenamiento.
+
+2\. La organización del entrenamiento: planificación, programación y periodización deportiva. Relevancia en el proceso de entrenamiento. Elementos básicos de la programación: objetivos, contenidos y estructuras o fases temporales.
+
+3\. Diferencias entre carga externa e interna. Componentes de la carga de entrenamiento: magnitud relacionada con volumen, intensidad, frecuencia y densidad y orientación clasificada como general/específica y/o selectiva/compleja.
+
+4\. Los principios del entrenamiento deportivo y su relación con la programación deportiva.
+
+5\. Intervención de las nuevas tecnologías en el diseño y programación del entrenamiento, así como para el registro, control, análisis y evaluación de la práctica deportiva.
+
+6\. Influencia del ciclo menstrual en la programación del entrenamiento.
+
+> Se numera como Anexo III.c y se sustituye por el que figura como anexo II.b del Real Decreto 534/2026, de 30 de junio, según establece su art. 8.8.c). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.d — Módulo común de enseñanza deportiva: Organización y legislación deportiva.
+
+Código: MED-C204
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Analiza la normativa de competición, relacionándola con la organización deportiva nacional y el régimen disciplinario e incorporando la perspectiva de igualdad de género.**
+
+a) Se han identificado la estructura y funciones de la organización deportiva nacional, en base al marco legislativo aplicable, a partir de la observación de organismos deportivos Se han descrito los organismos deportivos de ámbito nacional más importantes y sus funciones.
+
+b) Se han diferenciado los órganos responsables de disciplina deportiva, dopaje y violencia, así como las posibles infracciones y sanciones y los procedimientos reguladores, con un enfoque inclusivo que tenga en cuenta la igualdad de género y la protección de menores, a partir de casos simulados.
+
+c) Se ha analizado el régimen disciplinario deportivo y antidopaje aplicado a la competición, a partir de un caso práctico.
+
+**RA-2. Revisa la seguridad en la práctica deportivas, analizando la normativa vigente sobre los materiales y equipamientos, y los criterios de protección contra riesgos.**
+
+a) Se ha identificado la normativa básica de aplicación relativa a la seguridad en las instalaciones deportivas, a partir de una instalación deportiva simulada.
+
+b) Se han identificado los criterios de seguridad que han de cumplir las instalaciones y equipamientos necesarios para la práctica deportiva para todas las personas usuarias o personal laboral, a partir del marco normativo vigente.
+
+c) Se han ejemplificado las principales características de los planes de emergencia y evacuación de una instalación deportiva, mediante un supuesto práctico.
+
+d) Se han enumerado las medidas de protección contra posibles riesgos antisociales y de violencia en una instalación deportiva.
+
+**RA-3. Programa el desplazamiento de la persona deportista o grupo a competiciones de iniciación o tecnificación, asegurando el cumplimiento de los procedimientos y la normativa vigente, incluyendo la responsabilidad legal, los seguros y detallando las funciones y fases del desplazamiento.**
+
+a) Se han detallado las fases más relevantes en la organización de competiciones deportivas de iniciación o tecnificación deportiva, a partir de un caso práctico simulado.
+
+b) Se ha preparado del viaje y cumplimentado la documentación básica requerida, a partir de un caso práctico simulado.
+
+c) Se ha identificado la normativa sobre responsabilidad legal y sobre los seguros de accidente, incluyendo licencias deportivas y seguros federativos.
+
+d) Se ha programado el desplazamiento (preparación, desarrollo y conclusión), especificando las funciones más importantes del personal técnico en cada fase, en un escenario realista propuesto.
+
+e) Se ha detallado el programa de asistencia al deportista durante la celebración de la competición, a partir de un contexto simulado.
+
+**RA-4. Realiza actividades de gestión de un club deportivo, analizando los procedimientos de constitución y registro de un club deportivo, de establecimiento de convenios con entidades públicas y privadas, y las vías de financiación.**
+
+a) Se ha identificado la importancia del club deportivo como elemento favorecedor de la práctica deportiva, mediante la participación en espacios de discusión y análisis colectivo.
+
+b) Se ha identificado la normativa y los trámites necesarios que regulan la constitución y funcionamiento de un club deportivo en función de su ámbito de actuación (competiciones profesionales o no profesionales), utilizando como base un caso práctico.
+
+c) Se han examinado las posibles vías de financiación económica existentes en el proceso de creación y gestión de un club deportivo según su ámbito de actuación, mediante un proyecto simulado.
+
+d) Se han identificado los elementos necesarios en el establecimiento de convenios con las administraciones públicas, así como otras asociaciones de carácter privado, a través de un plan de acción ficticio.
+
+Contenidos básicos
+
+**RA-1. Analiza la normativa de competición, relacionándola con la organización deportiva nacional y el régimen disciplinario e incorporando la perspectiva de igualdad de género.**
+
+1\. Legislación deportiva estatal y normativa relacionada: Objeto y rango y ámbito de aplicación.
+
+2\. El Consejo Superior de Deportes. Estructura básica y funciones.
+
+3\. Entidades deportivas españolas:
+
+– Comité Olímpico Español, Comité Paralímpico Español. Estructura básica y funcionamiento.
+
+– Federaciones españolas deportivas. Estructura básica y funcionamiento.
+
+4\. Naturaleza, competencias de los órganos disciplinarios: Agencia Estatal Comisión Española para la Lucha Antidopaje en el Deporte Comité Español de Disciplina Deportiva, Comisión Estatal contra la Violencia, el Racismo, la Xenofobia y la Intolerancia en el Deporte.
+
+5\. Régimen disciplinario deportivo y procedimientos sancionadores.
+
+6\. La igualdad de género y la protección de menores.
+
+**RA-2. Revisa la seguridad en la práctica deportiva, analizando la normativa vigente sobre los materiales y equipamientos, y los criterios de protección contra riesgos.**
+
+1\. Fundamentos normativos sobre seguridad en las instalaciones deportivas.
+
+2\. Instalaciones deportivas: concepto y características funcionales.
+
+3\. La información sobre seguridad en las instalaciones deportivas. Interpretación de la señalización de seguridad.
+
+4\. Procedimientos de revisión de los equipamientos deportivos.
+
+5\. Reconocimiento de los planes de emergencia y evacuación.
+
+6\. Medidas básicas de protección para personas usuarias y personas trabajadoras.
+
+7\. Medidas de protección contra actos antisociales y violencia en el deporte.
+
+**RA-3. Programa el desplazamiento de la persona deportista o grupo de competiciones de iniciación o tecnificación, asegurando el cumplimiento de los procedimientos y la normativa vigente, incluyendo la responsabilidad legal, los seguros y detallando las funciones y fases del desplazamiento.**
+
+1\. Organización y estructura básica de las competiciones deportivas, las fases más relevantes.
+
+– Análisis de los requisitos básicos para la participación en competiciones de tecnificación deportiva: Proceso de inscripción, documentación y plazos.
+
+– Tramitación y características de la licencia federativa: autonómica y nacional.
+
+– La tramitación del seguro obligatorio deportivo.
+
+2\. La elección de los seguros de accidentes y de actividad. Tipos y características. Normativa de aplicación.
+
+3\. Responsabilidad civil del técnico deportivo: características y normativa vigente. El acompañamiento o tutela de menores durante el desplazamiento.
+
+4\. Asunción de normas y responsabilidades del personal técnico deportivo en los viajes de los grupos deportivos.
+
+5\. La organización del desplazamiento de los grupos deportivos:
+
+6\. Características, cumplimentación y tipo de documentación y permisos de desplazamiento de los/las deportistas, normativa de aplicación.
+
+7\. Análisis de las funciones y responsabilidad del personal técnico deportivo durante la competición.
+
+**RA-4. Realiza actividades de gestión de un club deportivo, analizando los procedimientos de constitución y registro de un club deportivo, de establecimiento de convenios con entidades públicas y privadas, y las vías de financiación.**
+
+1\. El club deportivo. Tipos, características y estructura básica.
+
+2\. Normativa de constitución y funcionamiento de un club deportivo.
+
+3\. Procedimiento de constitución e inscripción de los clubes deportivos.
+
+4\. Vías de financiación de los clubes deportivos: ingresos propios, ingresos indirectos, subvenciones de instituciones públicas.
+
+– Tipos y modalidades de las ayudas y subvenciones a los clubes. Procedimiento de tramitación.
+
+– Convenios de colaboración con la administración: protocolos, cláusulas, anexos.
+
+– El patrocinio deportivo. Tipos y normativa relacionada.
+
+> Se numera como Anexo III.d y se sustituye por el que figura como anexo II.c del Real Decreto 534/2026, de 30 de junio, según establece su art. 8.8.e). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.e — Módulo común de enseñanza deportiva: Deporte y género.
+
+Código: MED-C205
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Analiza la realidad del deporte desde una perspectiva de género, los aspectos clave de la normativa legal vigente y la influencia de los estereotipos de género.**
+
+a) Se han interpretado conceptos y términos vinculados a la igualdad de género en el deporte.
+
+b) Se han identificado aspectos clave de la normativa legal vigente que promocionan la igualdad de género en el deporte.
+
+c) Se ha analizado la influencia de los estereotipos de género en el deporte.
+
+d) Se han identificado las principales desigualdades y barreras de las mujeres en el deporte.
+
+**RA-2. Promueve la igualdad de género en la práctica deportiva, aplicando estrategias de intervención didáctica específicas y analizando las diferencias de género.**
+
+a) Se han analizado las diferencias de género en las motivaciones hacia la práctica deportiva.
+
+b) Se han categorizado las diferencias biológicas y madurativas de las personas deportistas que influyen en la práctica deportiva.
+
+c) Se ha valorado la importancia de potenciar una percepción saludable de las personas deportistas.
+
+d) Se han aplicado de manera justificada estrategias coeducativas en un supuesto práctico debidamente caracterizado en el que se plantean objetivos de incremento de la participación deportiva en igualdad y no discriminación.
+
+e) Se han analizado las características de las estrategias que potencian una participación en igualdad de género y no discriminación en la práctica deportiva.
+
+**RA-3. Apoya el acceso de las mujeres al deporte, identificando el papel de las instituciones y sus líneas estratégicas, analizando herramientas y buenas prácticas de mejora de la igualdad de género en el deporte.**
+
+a) Se ha valorado la importancia del papel de las instituciones y organismos vinculados con la promoción de la práctica deportiva femenina.
+
+b) Se ha identificado el rol de las instituciones en el establecimiento y seguimiento de líneas estratégicas, que facilitan el acceso de las mujeres al deporte.
+
+c) Se han descrito las características de los planes y programas de promoción de acceso y buenas prácticas para la mejora de la igualdad en el deporte.
+
+d) Se han descrito acciones estratégicas dirigidas a la creación de entornos seguros y saludables de práctica deportiva en igualdad.
+
+Contenidos básicos
+
+**RA-1. Analiza la realidad del deporte desde una perspectiva de género, los aspectos clave de la normativa legal vigente y la influencia de los estereotipos de género.**
+
+1\. Terminología específica:
+
+– Sexo-género.
+
+– Perspectiva de género. Estereotipos de género.
+
+– Modelos androcéntricos.
+
+– LGTBI+.
+
+2\. Influencia de los estereotipos de género en el deporte:
+
+– Acceso y participación.
+
+– Cultura organizativa.
+
+– Valor otorgado al deporte femenino.
+
+– Cobertura mediática.
+
+3\. Normativa legal vigente sobre igualdad de género en el deporte: Ley del Deporte, normativa autonómica.
+
+4\. Participación de las mujeres como, deportistas, técnicas, entrenadoras, cuerpo arbitral y gestoras deportivas en los distintos ámbitos deportivos (escolar, federado, universitario, etc.) y niveles del deporte (desde recreativo a alto rendimiento):
+
+– Obstáculos, barreras y desigualdades en el acceso y participación.
+
+– Tasas de práctica físico-deportiva de las mujeres.
+
+– Índices de abandono de la práctica físico-deportiva de las mujeres.
+
+– Causas del abandono de la práctica físico-deportiva de las mujeres.
+
+**RA-2. Promueve la igualdad de género en la práctica deportiva, aplicando estrategias de intervención didáctica específicas y analizando las diferencias de género.**
+
+1\. Intereses y motivaciones en función del género hacia la práctica deportiva.
+
+2\. Características biológicas y madurativas de las mujeres y hombres en la práctica deportiva.
+
+3\. Rasgos característicos de una imagen corporal saludable a nivel físico, mental y social.
+
+4\. Estrategias de fomento de una percepción corporal saludable frente a una imagen corporal estereotipada.
+
+5\. Estrategias coeducativas aplicables a:
+
+– Organización.
+
+– Actividades.
+
+– Agrupaciones.
+
+– Comunicación y lenguaje igualitario.
+
+– Modelos referentes.
+
+**RA-3. Apoya el acceso de las mujeres al deporte, identificando el papel de las instituciones y sus líneas estratégicas, analizando herramientas y buenas prácticas de mejora de la igualdad de género en el deporte.**
+
+1\. Instituciones de ámbito internacional (Comité Olímpico Internacional, Comisión Europea, etc.), de ámbito nacional (Consejo Superior de Deportes, Comité Olímpico Español, etc.), y de ámbito autonómico y local.
+
+– Características.
+
+– Rol de las instituciones en materia de igualdad en el deporte.
+
+– Líneas estratégicas en materia de igualdad en el deporte.
+
+2\. Acciones y programas específicos de promoción y desarrollo del acceso a la práctica deportiva para la mejora de la igualdad en el deporte.
+
+– Características.
+
+– Herramientas actuales proporcionadas por instituciones a nivel internacional, nacional y autonómico.
+
+– Ejemplos de buenas prácticas. Elementos que las definen.
+
+– I+D+I: investigación, desarrollo e innovación en materia de igualdad de género promovida por las instituciones y organismos deportivos.
+
+> Se numera como Anexo III.e y se sustituye por el que figura como anexo II.d del Real Decreto 534/2026, de 30 de junio, según establece su art. 8.8.f). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.f — Módulo común de enseñanza deportiva: Iniciación deportiva para personas con discapacidad.
+
+Código: MED-C206
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Organiza sesiones de iniciación deportiva, describiendo las consideraciones específicas de práctica de las personas con discapacidad.**
+
+a) Se han reconocido consideraciones específicas en la iniciación deportiva según diferentes tipos de discapacidad con relación a la participación en tareas y juegos deportivos.
+
+b) Se han identificado las principales estrategias motivacionales en el diseño de tareas físico-deportivas para personas con discapacidad.
+
+c) Se han elaborado de manera justificada sesiones y tareas que faciliten la participación de las personas con discapacidad, en un supuesto práctico donde se establezcan las necesidades específicas.
+
+**RA-2. Aplica recursos que fomentan la participación de personas con discapacidad en actividades físico-deportivas, analizando las características de la tarea e identificando factores contextuales de la práctica deportiva.**
+
+a) Se han aplicado procedimientos de modificación de tareas, juegos y deportes que favorezcan la participación, el disfrute y las posibilidades de éxito de personas con discapacidad en situaciones simuladas debidamente caracterizadas.
+
+b) Se han definido elementos específicos de modificación de tareas en la práctica deportiva de personas con discapacidad.
+
+c) Se han identificado barreras de accesibilidad en un supuesto de práctica deportiva de personas con discapacidad.
+
+d) Se ha justificado la importancia del fomento de la participación de personas con discapacidad en contextos inclusivos de práctica deportiva.
+
+e) Se han enumerado los agentes sociales facilitadores de la inclusión en la práctica deportiva de personas con discapacidad.
+
+**RA-3. Orienta a las personas con discapacidad hacia la práctica deportiva, identificando las estructuras organizativas del deporte de personas con discapacidad, seleccionando las fuentes de información disponibles.**
+
+a) Se han analizado las diferencias en la organización del deporte para personas con discapacidad a nivel internacional, nacional y autonómico.
+
+b) Se ha justificado el papel de las instituciones y entidades del tercer sector en la organización y fomento de la competición, la recreación y la práctica deportiva saludable de personas con discapacidad.
+
+c) Se han seleccionado fuentes de información disponibles sobre deporte para personas con discapacidad, en una situación práctica donde se establezca la finalidad de la información.
+
+**RA-4. Orienta a los/las deportistas con discapacidad, distinguiendo los criterios de elegibilidad y la clasificación deportiva.**
+
+a) Se ha justificado la importancia de las clasificaciones como elemento de acceso a la práctica deportiva federada de personas con discapacidad, así como para el desarrollo de una competición lo más justa posible.
+
+b) Se han definido las deficiencias elegibles en deporte de personas con discapacidad y el concepto de mínima deficiencia elegible.
+
+c) Se han distinguido las fases y el resultado del proceso de clasificación en el deporte de personas con discapacidad.
+
+Contenidos básicos
+
+**RA-1. Organiza sesiones de iniciación deportiva, describiendo las consideraciones específicas de práctica de las personas con discapacidad.**
+
+1\. Consideraciones específicas con relación a la participación de personas con discapacidad en sesiones, tareas y juegos de iniciación deportiva: calentamiento, trabajo principal, y vuelta a la calma, orientaciones de trabajo, objetivos de trabajo, accesibilidad, materiales y recursos humanos para la participación de personas con discapacidad en la iniciación deportiva, entre otros.
+
+2\. Pautas de seguridad especificas según el tipo de discapacidad.
+
+3\. Diseño de tareas considerando las características y necesidades de la persona con discapacidad.
+
+**RA-2. Aplica recursos que fomentan la participación de personas con discapacidad en actividades físico-deportivas, analizando las características de la tarea e identificando factores contextuales de la práctica deportiva.**
+
+1\. Opciones de actividades deportivas para la participación inclusiva de personas con discapacidad.
+
+2\. Elementos que fomenten el acceso a la práctica deportiva de personas con discapacidad.
+
+3\. Elementos de modificación/ajuste de tareas, juegos y deportes.
+
+4\. Barreras en el acceso y en la práctica deportiva de personas con discapacidad.
+
+5\. Estrategias de fomento de la participación de personas con discapacidad en contextos deportivos inclusivos.
+
+6\. Agentes sociales facilitadores de la práctica deportiva de personas con discapacidad (compañeros/as, personal técnico, familias e instituciones).
+
+**RA-3. Orienta a las personas con discapacidad hacia la práctica deportiva, identificando las estructuras organizativas del deporte de personas con discapacidad, seleccionando las fuentes de información disponibles.**
+
+1\. Organismos que articulan la estructura organizativa del deporte para personas con discapacidad a nivel internacional, nacional y autonómico.
+
+2\. Buenas prácticas deportivas de entidades del tercer sector (asociaciones, fundaciones, clubes deportivos).
+
+3\. Fuentes y recursos con relación al deporte de personas con discapacidad.
+
+**RA-4. Orienta a los/las deportistas con discapacidad, distinguiendo los criterios de elegibilidad y la clasificación deportiva.**
+
+1\. Propósito de la clasificación deportiva.
+
+2\. Funciones de la clasificación en el acceso y desarrollo deportivo de personas con discapacidad.
+
+3\. Sistemas alternativos de clasificación para la organización de actividades deportivas que consideren las diferencias individuales.
+
+4\. Deficiencias elegibles físicas, sensorial e intelectual.
+
+5\. Fases del proceso de clasificación.
+
+6\. Concepto de clase y estatus deportivos resultantes del proceso de clasificación.
+
+> Se añade como Anexo III.f, redactado conforme a lo establecido en el anexo II.e del Real Decreto 534/2026, de 30 de junio, según establece su art. 8.8.g). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> El anterior «Módulo común de enseñanza deportiva: Deporte adaptado y discapacidad. Código: MED-C203» se suprime por el art. 8.8.d) del citado Real Decreto.
+
+## ANEXO III.g — Módulo específico de enseñanza deportiva: Formación del jugador en la etapa de tecnificación
+
+Código: MED-BCBC201
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Examina y perfecciona la capacidad de juego del deportista en la etapa de tecnificación, explicando los conceptos a partir del juego reducido, así como los procesos de acción-reacción que resultan, aplicando técnicas de identificación y corrección de errores, modificando y construyendo tareas de aprendizaje y aplicando metodologías específicas de explicación o demostración.
+
+a. Se han identificado las categorías propias de la etapa de tecnificación, así como los fundamentos propios de las mismas.
+
+b. Se han expuesto los conceptos técnico-tácticos propios de las etapas de tecnificación.
+
+c. Se han explicado las cualidades coordinativas presentes en las habilidades técnicas del baloncesto en etapas de tecnificación, identificando su presencia sobre situaciones presentadas.
+
+d. Se han analizado las distintas situaciones de juego reducido en etapas de tecnificación, diferenciando el trabajo específico entre jugadores exteriores o interiores.
+
+e. Se han explicado los procesos de acción-reacción resultantes en las situaciones del jugador con o sin balón en las etapas de tecnificación.
+
+f. Se han planteado recursos para obtener ventaja en situaciones de juego reducido en etapas de tecnificación, combinando a jugadores de posiciones exteriores e interiores en las mismas.
+
+g. Se han analizado los errores cometidos en la aplicación de los conceptos de juego en la etapa de tecnificación, definiendo las causas que lo provocan y modificando estrategias de corrección adecuadas para esta etapa.
+
+h. Se han diseñado tareas de entrenamiento de los conceptos del juego, en una situación debidamente caracterizado de juego reducido en la etapa de tecnificación, citando los criterios utilizados.
+
+i. Se han demostrado recursos metodológicos y demostrativos de entrenamiento las situaciones de juego reducido, comparando el rendimiento que ofrecen los mismos en su puesta en práctica.
+
+j. Se ha valorado la importancia de las situaciones de juego reducido en la mejora y perfeccionamiento técnico-táctico del jugador.
+
+2\. Analiza y perfecciona las habilidades técnicas ofensivas del jugador en las etapas de tecnificación, describiendo los estándares de ejecución en esta etapa, aplicando técnicas de identificación y corrección de errores, diseñando y adaptando tareas de aprendizaje, y aplicando metodologías específicas de explicación o demostración.
+
+a. Se han explicado las habilidades técnicas ofensivas propias del baloncesto en la etapa de tecnificación.
+
+b. Se han comparado y distinguido las habilidades técnicas ofensivas del jugador exterior y las del jugador interior en la etapa de tecnificación, describiendo sus características, e identificándolas en las acciones de juego.
+
+c. Se han descrito los estándares de ejecución de cada una de las habilidades ofensivas para la etapa de tecnificación.
+
+d. Se han discriminado los errores más frecuentes en la ejecución de las habilidades técnicas ofensivas, relacionándolos con las posibles causas y aplicando estrategias de corrección y asimilación.
+
+e. Se han aplicado los recursos metodológicos y demostrativos para facilitar el perfeccionamiento de las habilidades técnicas ofensivas.
+
+f. Se han aplicado tareas de entrenamiento de las habilidades técnicas ofensivas propias de la etapa de tecnificación.
+
+g. Se ha valorado la importancia de perfeccionar las habilidades técnicas ofensivas propias del baloncesto en la etapa de tecnificación, comenzando a especializar por posiciones exteriores e interiores, aún sin excluir la polivalencia de recursos del jugador.
+
+3\. Analiza y perfecciona las habilidades técnicas defensivas del jugador en las etapas de tecnificación, describiendo los estándares de ejecución en esta etapa, aplicando técnicas de identificación y corrección de errores, diseñando y adaptando tareas de aprendizaje, y aplicando metodologías específicas de explicación o demostración.
+
+a. Se han explicado las habilidades técnicas defensivas propias del baloncesto en la etapa de tecnificación.
+
+b. Se han comparado y distinguido las habilidades técnicas defensivas del jugador exterior y las del jugador interior en la etapa de tecnificación, describiendo sus características, e identificándolas en las acciones de juego.
+
+c. Se han descrito los estándares de ejecución de cada una de las habilidades defensivas para la etapa de tecnificación.
+
+d. Se han discriminado los errores más frecuentes en la ejecución de las habilidades técnicas defensivas del jugador en la etapa de tecnificación, relacionándolos con las posibles causas y aplicando estrategias de corrección y asimilación.
+
+e. Se han aplicado los recursos metodológicos y demostrativos para facilitar el perfeccionamiento de las habilidades técnicas defensivas.
+
+f. Se han aplicado tareas de entrenamiento de las habilidades técnicas defensivas propias de la etapa de tecnificación.
+
+g. Se ha valorado la importancia de perfeccionar las habilidades técnicas defensivas propias del baloncesto en la etapa de tecnificación, valorando la polivalencia defensiva que permita solventar cualquier situación al jugador.
+
+4\. Analiza y perfecciona el talento de los jugadores de baloncesto, describiendo las características individuales que presenten, aplicando técnicas de identificación del talento de cada jugador y diseñando tareas para entrenarlo.
+
+a. Se han identificado las características baloncestísticas que definen el talento deportivo.
+
+b. Se han diferenciado los conceptos talento del jugador y jugador con talento.
+
+c. Se han diseñado tareas para construir un entrenamiento de desarrollo del talento de un jugador.
+
+d. Se han expuesto baterías para identificar el talento de un jugador.
+
+e. Se han enumerado las características biológicas, morfológicas y antropométricas propias de un jugador de baloncesto con talento.
+
+f. Se han aplicado estrategias de desarrollo del talento de un jugador en el juego colectivo.
+
+g. Se han descrito las características físicas y psicológicas de un jugador, diferenciando aquellas que identifican a un jugador con talento en estas facetas.
+
+h. Se ha valorado la importancia de detectar el talento de cada jugador.
+
+Contenidos básicos
+
+1\. Examina y perfecciona la capacidad de juego del deportista en la etapa de tecnificación, explicando los conceptos a partir del juego reducido, así como los procesos de acción-reacción que resultan, aplicando técnicas de identificación y corrección de errores, modificando y construyendo tareas de aprendizaje y aplicando metodologías específicas de explicación o demostración.
+
+– Etapa de tecnificación.
+
+– Objetivos.
+
+– Orientación general de la etapa.
+
+– Fundamentos individuales y colectivos.
+
+– Categoría cadete.
+
+– Categoría junior.
+
+– Capacidad de juego en etapas de tecnificación.
+
+– Capacidad de pase.
+
+– Capacidad de ampliación atencional.
+
+– Capacidad de anticipación.
+
+– Capacidad de tiro.
+
+– Capacidad de juego sin balón.
+
+– Capacidad de rebote.
+
+– Capacidad de desplazamiento.
+
+– Situaciones de juego reducidas.
+
+– Uno contra uno en la etapa de tecnificación.
+
+– Ataque con balón.
+
+– Jugador interior.
+
+– Jugador exterior.
+
+– Trabajo específico del jugador exterior.
+
+– Ataque sin balón.
+
+– Trabajar a favor del balón.
+
+– Trabajar para el balón.
+
+– Trabajar para un compañero.
+
+– Leer ventajas/desventajas.
+
+– Defensa del uno contra uno.
+
+– Consideraciones defensivas.
+
+– Defensa al jugador con balón.
+
+– Defensa al jugador sin balón.
+
+– Toma de decisiones en la defensa del uno contra uno.
+
+– Entrenamiento del uno contra uno:
+
+– Tareas y criterios de elaboración.
+
+– Recursos metodológicos y demostrativos.
+
+– Errores en el uno contra uno en la tecnificación: tipos, causas, criterios de identificación y estrategias de corrección.
+
+– Ataque y defensa del dos contra dos en la etapa de tecnificación.
+
+– Opciones de 2x2 según jugadores.
+
+– Dos contra dos con 2 jugadores exteriores.
+
+– Dos contra dos con 1 exterior y 1 interior.
+
+– Dos contra dos con 2 jugadores interiores.
+
+– Opciones tácticas en el 2x2.
+
+– Aclarado.
+
+– Pasar y cortar.
+
+– Cortes desde el lado contrario al balón.
+
+– Dividir y doblar (penetrar y ceder).
+
+– Pase mano a mano.
+
+– Bloqueo directo.
+
+– Entrenamiento del dos contra dos:
+
+– Tareas y criterios de elaboración.
+
+– Recursos metodológicos y demostrativos.
+
+– Errores en el dos contra dos en la tecnificación: tipos, causas, criterios de identificación y estrategias de corrección.
+
+– Ataque y defensa del Tres contra tres en la etapa de tecnificación.
+
+– Opciones de 3x3 según jugadores.
+
+– Dos exteriores y 1 interior.
+
+– Un exterior y 2 interiores.
+
+– Tres exteriores.
+
+– Tres interiores.
+
+– Opciones tácticas en el 3x3.
+
+– Bloqueos indirectos.
+
+– Triangular pases.
+
+– Pasar, cortar y reemplazar.
+
+– Cruces (cortes de aleros).
+
+– Pantalla.
+
+– Entrenamiento del tres contra tres:
+
+– Tareas y criterios de elaboración.
+
+– Recursos metodológicos y demostrativos.
+
+– Errores en el tres contra tres en la tecnificación: tipos, causas, criterios de identificación y estrategias de corrección.
+
+– Ataque y defensa de la Superioridad numérica en la etapa de tecnificación.
+
+– Finalización de contraataque.
+
+– 2x1.
+
+– 3x1.
+
+– 3x2.
+
+– 4x3.
+
+– Entrenamiento y recursos metodológicos y demostrativos de las situaciones de superioridad en la tecnificación.
+
+– Errores en situaciones de superioridad en la tecnificación: tipos, causas, criterios de identificación y estrategias de corrección.
+
+– Ataque y defensa de la Inferioridad numérica en la etapa de tecnificación.
+
+– 1x2.
+
+– Defensa trap.
+
+– Ataque del trap.
+
+– Entrenamientos y recursos metodológicos y demostrativos de las situaciones de inferioridad en la tecnificación.
+
+– Errores en situaciones de inferioridad en la tecnificación: tipos, causas, criterios de identificación y estrategias de corrección.
+
+– Jugadores preparados para todo.
+
+– Proceso de acción-reacción en el juego.
+
+– El jugador con balón.
+
+– Sin defensor directo.
+
+– Fijar a un defensor.
+
+– Jugar para canasta.
+
+– Ante un defensor directo.
+
+– De cara al aro.
+
+– De espaldas al aro.
+
+– Ante dos defensores.
+
+– De cara al aro.
+
+– De espaldas al aro.
+
+– El jugador sin balón.
+
+– Sin defensor directo.
+
+– Ocupar espacios libres.
+
+– Crear ventajas activas.
+
+– Ante un defensor directo.
+
+– Juego en movimiento.
+
+– Juego posicional.
+
+– Si al jugador con balón le hacen un 2c1.
+
+– Según el objetivo del juego.
+
+2\. Analiza y perfecciona las habilidades técnicas ofensivas del jugador en las etapas de tecnificación, describiendo los estándares de ejecución en esta etapa, aplicando técnicas de identificación y corrección de errores, diseñando y adaptando tareas de aprendizaje, y aplicando metodologías específicas de explicación o demostración.
+
+– Habilidades técnicas ofensivas en baloncesto para etapas de tecnificación:
+
+– Juego sin balón básico.
+
+– Consideraciones técnicas y estándares de ejecución.
+
+– Pivote interior.
+
+– Pivote exterior.
+
+– Pivote de circulación o «envolver».
+
+– Desmarque.
+
+– Desmarque por fintas de recepción.
+
+– Engaño interior-recepción interior.
+
+– Recepción.
+
+– Desmarque por finta de autobloqueo.
+
+– Finta de autobloqueo de cara.
+
+– Autobloqueo en reverso.
+
+– Recepción en estático.
+
+– Recepción en movimiento.
+
+– Utilización táctica del juego sin balón.
+
+– Ocupación de espacios.
+
+– Ganar una posición exterior.
+
+– En estático.
+
+– Posición preferente con relación a un pase interior.
+
+– En movimiento.
+
+– Dividir la defensa.
+
+– Desmarcarse.
+
+– Ganar una posición interior.
+
+– En estático.
+
+– Posición preferente con relación a un pase lateral exterior.
+
+– Posición preferente con relación a un pase vertical exterior.
+
+– En movimiento.
+
+– Pivotar.
+
+– Pivotes.
+
+– Pivote directo o ventral.
+
+– Pivote reverso o dorsal.
+
+– Utilización táctica de los pivotes.
+
+– Estándares de ejecución.
+
+– Paradas.
+
+– Parada combinada.
+
+– Utilización táctica de las paradas según posición del defensor.
+
+– Estándares de ejecución.
+
+– Arrancadas.
+
+– Contrapié.
+
+– Utilización táctica de las arrancadas.
+
+– Estándares de ejecución.
+
+– Dribbling.
+
+– Consideraciones técnicas y estándares de ejecución.
+
+– Tipos de bote.
+
+– Bote para mejorar el ángulo de pase.
+
+– Bote de división.
+
+– Bote de escape.
+
+– Pases.
+
+– Consideraciones técnicas y estándares de ejecución.
+
+– Pases periféricos.
+
+– Pases penetrantes.
+
+– Tipos de pases.
+
+– Pase lateral a una mano.
+
+– Pase por la espalda.
+
+– Pase mano a mano.
+
+– Pase después de pivotar.
+
+– Utilización táctica del pase.
+
+– Primer pase de contraataque.
+
+– Pases interiores.
+
+– Utilización de los pivotes previos al pase.
+
+– Utilización del bote y las fintas.
+
+– Lanzamientos a canasta.
+
+– Consideraciones técnicas y estándares de ejecución.
+
+– Lanzamientos en carrera.
+
+– Detalles.
+
+– Acciones anteriores al lanzamiento.
+
+– Apoyos.
+
+– Mano de tiro.
+
+– Forma de tiro.
+
+– Lanzamiento a canasta pasada.
+
+– Tiro en elevación.
+
+– Lanzamiento en estático.
+
+– Tiro en suspensión.
+
+– Tiro de tres puntos.
+
+– Palmeo.
+
+– Tiro de gancho.
+
+– Tiro de semigancho en suspensión.
+
+– Utilización táctica del lanzamiento.
+
+– Secuencia de selección de tiro.
+
+– Fintas.
+
+– Consideraciones generales y estándares de ejecución.
+
+– Fintas de cabeza.
+
+– Fintas de piernas.
+
+– Finta de penetración hacia delante.
+
+– Fintas de salida.
+
+– Finta de salida abierta y salida abierta.
+
+– Finta de salida abierta y salida cruzada.
+
+– Finta de salida y tiro.
+
+– Finta de salida abierta y salida en reverso.
+
+– Finta de salida en reverso y salida abierta.
+
+– Utilización táctica de las fintas.
+
+– Rebote ofensivo.
+
+– Consideraciones técnicas y estándares de ejecución.
+
+– Utilización táctica del rebote ofensivo.
+
+– La acción de ir al rebote de ataque.
+
+– La lucha por el camino.
+
+– Ángulos.
+
+– Consideraciones técnicas y estándares de ejecución.
+
+– Tipos de ángulos.
+
+– Ángulos de pase.
+
+– Ángulos de juego.
+
+– Ángulos de bloqueo.
+
+– Segundos ángulos de bloqueo.
+
+– Utilización táctica de los ángulos.
+
+– Elaboración de tareas de entrenamiento de las habilidades técnicas ofensivas en etapas de tecnificación y criterios para su elaboración.
+
+– Errores más frecuentes en las ejecuciones de habilidades técnicas ofensivas en etapas de tecnificación.
+
+– Criterios en la identificación de errores en las habilidades técnicas ofensivas en tecnificación.
+
+– Causas de los errores más frecuentes en las habilidades técnicas ofensivas en etapas de tecnificación y estrategias de corrección.
+
+– Recursos metodológicos y de demostración en la enseñanza de las habilidades técnicas ofensivas en etapas de tecnificación.
+
+3\. Analiza y perfecciona las habilidades técnicas defensivas del jugador en las etapas de tecnificación, describiendo los estándares de ejecución en esta etapa, aplicando técnicas de identificación y corrección de errores, diseñando y adaptando tareas de aprendizaje, y aplicando metodologías específicas de explicación o demostración.
+
+– Habilidades técnicas defensivas en baloncesto en etapas de tecnificación:
+
+– Generalidades.
+
+– Aptitud física.
+
+– Voluntad.
+
+– Espíritu de trabajo en equipo.
+
+– Roles de los jugadores en defensa.
+
+– Fintas defensivas.
+
+– Consideraciones técnicas y estándares de ejecución.
+
+– Defensa del jugador con balón.
+
+– Consideraciones técnicas y estándares de ejecución.
+
+– Defensa del atacante con balón que no ha iniciado el bote.
+
+– Paso de ataque.
+
+– Paso atrás.
+
+– Paso deslizado.
+
+– Defensa del atacante con balón que está botando.
+
+– Defensa contenida.
+
+– Defensa invasiva.
+
+– Defensa táctica.
+
+– Defensa al jugador sin balón.
+
+– Consideraciones técnicas y estándares de ejecución.
+
+– Defensa de posición.
+
+– Defensa abierta.
+
+– Defensa cerrada.
+
+– Otros conceptos importantes.
+
+– Defensa de actitud.
+
+– Recuperación de la posición defensiva.
+
+– Defensa de las posiciones interiores a atacantes sin balón.
+
+– Defensa por detrás.
+
+– Defensa en tres cuartos por el lado balón.
+
+– Defensa en tres cuartos por el lado contrario.
+
+– Defensa por delante.
+
+– Ajuste en función del movimiento de balón.
+
+– Principios y normas defensivas.
+
+– Defensa para los jugadores situados en el lado fuerte.
+
+– Presionar al jugador con balón.
+
+– Detener las penetraciones.
+
+– Saltar para ayudar dentro.
+
+– Defensa para los jugadores situados en el lado de ayuda.
+
+– Cuando el balón está por debajo de la línea de tiros libres.
+
+– Cuando el balón está por encima de la línea de tiros libres.
+
+– Cuando se produce una penetración desde el lado fuerte.
+
+– Al producirse una primera ayuda.
+
+– Otras consideraciones importantes.
+
+– Comunicación motriz.
+
+– Comunicación verbal defensiva.
+
+– Picardía.
+
+– Movimientos de riesgo.
+
+– Consideraciones técnicas y estándares de ejecución.
+
+– Robo de balón.
+
+– Tapón.
+
+– Tapón frontal.
+
+– Tapón lateral.
+
+– Tapón posterior.
+
+– Interceptación del pase.
+
+– Falta de ataque.
+
+– Elaboración de tareas de entrenamiento de las habilidades técnicas defensivas en etapas de tecnificación y criterios para su elaboración.
+
+– Errores más frecuentes en las ejecuciones de habilidades técnicas defensivas en etapas de tecnificación.
+
+– Criterios en la identificación de errores en las habilidades técnicas defensivas en la tecnificación.
+
+– Causas de los errores más frecuentes en las habilidades técnicas defensivas en etapas de tecnificación y estrategias de corrección.
+
+– Estrategias de corrección de errores de las habilidades técnicas defensivas en etapas de tecnificación.
+
+– Recursos metodológicos y de demostración en la enseñanza de las habilidades técnicas defensivas en etapas de tecnificación.
+
+4\. Analiza y perfecciona el talento de los jugadores de baloncesto, describiendo las características individuales que presenten, aplicando técnicas de identificación del talento de cada jugador y diseñando tareas para entrenarlo.
+
+– El Talento deportivo.
+
+– Entrenar a jugadores con talento.
+
+– Baterías de identificación del talento del jugador.
+
+– Elementos básicos a considerar en la detección del talento.
+
+– Características biológicas.
+
+– Características morfológicas y antropométricas.
+
+– Determinación de edad biológica.
+
+– Capacidades físicas.
+
+– Características psicológicas.
+
+> Se numera este módulo como Anexo III.g por el art. 8.8.h) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.h — Módulo específico de enseñanza deportiva: Dirección de equipos en la etapa de tecnificación
+
+Código: MED-BCBC202
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Gestiona las relaciones dentro de un equipo en la etapa de tecnificación, analizando las características psicosociales de los jugadores en esta etapa, describiendo las habilidades del entrenador de baloncesto y las funciones de su equipo técnico, aplicando técnicas y dinámicas de grupo.
+
+a. Se han descrito las diferentes capacidades que conforman las competencias del entrenador de baloncesto.
+
+b. Se han explicado las características psicosociales de los jugadores en la etapa de tecnificación.
+
+c. Se han identificado en supuestos debidamente caracterizados, las habilidades comunicativas y los conceptos de control emocional presentes en entrenadores de baloncesto.
+
+d. Se han analizado las funciones y relaciones del entrenador y del entrenador ayudante de un equipo de baloncesto.
+
+e. Se han analizado las técnicas y dinámicas de grupo, relacionándolas con el objetivo propuesto.
+
+f. Se ha elaborado un reglamento interno adecuado para equipo de baloncesto en la etapa de tecnificación.
+
+g. Se han descrito los objetivos de los equipos de baloncesto en la etapa de tecnificación.
+
+h. Se ha valorado la importancia de una correcta gestión de un equipo de baloncesto para un buen funcionamiento del mismo.
+
+i. Se ha valorado la importancia de la cohesión dentro de un equipo para la mejora de su rendimiento.
+
+2\. Dirige partidos y competiciones en la etapa de tecnificación, utilizando un lenguaje avanzado específico de baloncesto y su terminología en inglés, gestionando y aplicando los criterios avanzados de actuación y de toma de decisiones en los diferentes momentos del partido en esta etapa.
+
+a. Se han explicado las consideraciones importantes de la dirección de partidos de baloncesto en la etapa de tecnificación.
+
+b. Se han comparado los diferentes momentos de un partido de baloncesto, en cuanto a tareas a realizar y aspectos a considerar como técnico.
+
+c. Se han aplicado, en supuestos debidamente caracterizados, estrategias a llevar a cabo como técnico en los diferentes momentos de un partido en la etapa de tecnificación.
+
+d. Se han clasificado las actitudes y reacciones del entrenador ante fallos y aciertos de los jugadores.
+
+e. Se han descrito los criterios avanzados de comportamiento del técnico en diferentes momentos de un partido en la etapa de tecnificación.
+
+f. Se han utilizado criterios avanzados, en supuestos debidamente caracterizados, para justificar un cambio o un tiempo muerto en un partido en la etapa de tecnificación.
+
+g. Se han aplicado criterios de actuación ante situaciones imprevistas o especiales en un partido en la etapa de tecnificación.
+
+h. Se han descrito diferentes conceptos propios del lenguaje específico del baloncesto.
+
+i. Se ha utilizado la terminología específica en inglés a partir de una situación táctica representada gráficamente.
+
+j. Se han descrito los aspectos básicos que configuran la imagen del entrenador de baloncesto.
+
+k. Se ha justificado la importancia de mostrar valores como técnico durante los partidos y competiciones en la etapa de tecnificación.
+
+3\. Analiza e interpreta información recogida mediante la observación del juego («scouting») en la etapa de tecnificación, desde algunas fuentes, aplicando la mecánica de observación, y utilizando las herramientas y recursos tecnológicos avanzados de recogida, registro e interpretación.
+
+a. Se han descrito el «scouting» en baloncesto y el rol de scouter.
+
+b. Se han clasificado las habilidades del buen observador del juego en baloncesto.
+
+c. Se ha descrito el proceso mecánico de observación en baloncesto.
+
+d. Se han aplicado las habilidades de observación ante situaciones reales grabadas en video.
+
+e. Se han identificado los parámetros avanzados a observar en la etapa de tecnificación.
+
+f. Se ha aplicado el proceso mecánico de observación ante un supuesto práctico concreto de la etapa de tecnificación.
+
+g. Se han descrito los recursos tecnológicos avanzados y las herramientas avanzadas en baloncesto.
+
+h. Se han utilizado las fuentes de información avanzadas en baloncesto para obtener datos y poder solucionar supuestos prácticos debidamente caracterizados.
+
+i. Se han comparado los tipos de registro de datos en baloncesto.
+
+j. Se han diferenciado los términos análisis e interpretación de estadísticas y registros en baloncesto.
+
+k. Se ha valorado la observación como tarea importante del entrenador de baloncesto en la etapa de tecnificación.
+
+4\. Participa y colabora con la gestión de clubes amateurs y su dirección deportiva, conociendo la legislación de esta etapa, el régimen disciplinario, y el marco laboral básico del entrenador.
+
+a. Se han descrito los procesos y procedimientos de gestión de clubes de baloncesto amateur.
+
+b. Se han nombrado las características de un club de baloncesto amateur.
+
+c. Se han aplicado los procesos de gestión de un club amateur en una simulación de creación y puesta en marcha uno de ellos.
+
+d. Se han identificado la legislación de baloncesto aplicable a la etapa de tecnificación.
+
+e. Se ha explicado el régimen disciplinario en baloncesto.
+
+f. Se ha descrito el marco laboral básico del entrenador de baloncesto.
+
+g. Se ha descrito las funciones y características del director deportivo de clubes amateur.
+
+h. Se han analizado, a partir de supuestos debidamente caracterizados, las acciones a llevar a cabo por parte del director deportivo de un club amateur.
+
+i. Se ha valorado la importancia del respeto a la normativa y al régimen disciplinario de un club amateur.
+
+5\. Participa y organiza competiciones de baloncesto, contrastando los procesos, analizando sus características y completando los recursos necesarios, interpretando además los procedimientos de arbitraje y el reglamento de baloncesto que se aplica.
+
+a. Se han explicado los pasos a dar en la organización de una competición de baloncesto.
+
+b. Se ha elaborado el sistema de una competición de baloncesto, a partir de un supuesto práctico debidamente caracterizado.
+
+c. Se han descrito las características de una competición de baloncesto.
+
+d. Se han enumerado los recursos necesarios en la organización de una competición de baloncesto.
+
+e. Se ha interpretado la mecánica de arbitraje en competiciones de la etapa de tecnificación.
+
+f. Se han explicado las normas y el articulado del reglamento de baloncesto.
+
+g. Se ha justificado la importancia de conocer las reglas de baloncesto.
+
+h. Se ha valorado el conocimiento de la labor arbitral y de los auxiliares de mesa en baloncesto.
+
+Contenidos básicos
+
+1\. Gestiona las relaciones dentro de un equipo en la etapa de tecnificación, analizando las características psicosociales de los jugadores en esta etapa, describiendo las habilidades del entrenador de baloncesto y las funciones de su equipo técnico, aplicando técnicas y dinámicas de grupo.
+
+– Objetivos del entrenador de baloncesto de equipos en la etapa de tecnificación.
+
+– Capacidades de cada una de las competencias básicas del entrenador de baloncesto.
+
+– Características psicosociales de los jugadores en la etapa de tecnificación.
+
+– Habilidades comunicativas avanzadas del entrenador de baloncesto.
+
+– Conceptos avanzados de control emocional del entrenador de baloncesto.
+
+– Liderazgo.
+
+– Empatía.
+
+– Autoridad.
+
+– Habilidades sociales.
+
+– Motivación.
+
+– Construcción de equipos de baloncesto.
+
+– Objetivos de los equipos en la etapa de tecnificación.
+
+– El entrenador de baloncesto.
+
+– Funciones del entrenador.
+
+– Relaciones del entrenador con otros.
+
+– El entrenador ayudante de baloncesto.
+
+– Funciones del entrenador ayudante.
+
+– Relaciones del entrenador ayudante con otros.
+
+– Otros miembros del equipo técnico de un equipo de baloncesto.
+
+– Técnicas y dinámicas de grupo en un equipo de baloncesto en la etapa de tecnificación.
+
+– Trabajo en equipo en la etapa de tecnificación.
+
+– Cohesión de un equipo de baloncesto en la etapa de tecnificación.
+
+– Competitividad de un equipo de baloncesto en la etapa de tecnificación.
+
+– Afectividad en un equipo de baloncesto en la etapa de tecnificación.
+
+– Mecanismos de control del grupo de jugadores de un equipo de baloncesto en la etapa de tecnificación.
+
+– Resolución de problemas en un equipo de baloncesto en la etapa de tecnificación.
+
+– Normativa y reglamento de un equipo de baloncesto en la etapa de:
+
+– Normas de un equipo de baloncesto en la etapa de tecnificación.
+
+– Reglamento interno de un equipo de baloncesto en la etapa de tecnificación.
+
+2\. Dirige partidos y competiciones en la etapa de tecnificación, utilizando un lenguaje avanzado específico de baloncesto y su terminología en inglés, gestionando y aplicando los criterios avanzados de actuación y de toma de decisiones en los diferentes momentos del partido en esta etapa.
+
+– Dirección de partidos de baloncesto en la etapa de tecnificación: consideraciones importantes.
+
+– Momentos de un partido.
+
+– Preparación de un partido: criterios avanzados.
+
+– Trabajo durante un partido: criterios avanzados.
+
+– Alternativas del entrenador: criterios avanzados.
+
+– Estrategias del final de partido: criterios avanzados.
+
+– Actuación y análisis post-partido: criterios avanzados.
+
+– Toma de decisiones en un partido.
+
+– Actitudes y reacciones ante fallos y aciertos de los jugadores.
+
+– Utilización de tiempos muertos: criterios avanzados.
+
+– Utilización de cambios: criterios avanzados.
+
+– Utilización del reglamento interno.
+
+– Utilización de los descansos.
+
+– Actuación ante situaciones especiales.
+
+– Actuación ante imprevistos.
+
+– Lesiones, peleas, y otros.
+
+– Desarrollo personal del entrenador de baloncesto.
+
+– Valores del entrenador de baloncesto.
+
+– Vocabulario técnico específico de baloncesto en inglés.
+
+– Imagen y comportamiento del entrenador de baloncesto.
+
+– Lenguaje específico avanzado de baloncesto.
+
+3\. Analiza e interpreta información recogida mediante la observación del juego («scouting») en la etapa de tecnificación, desde algunas fuentes, aplicando la mecánica de observación, y utilizando las herramientas y recursos tecnológicos avanzados de recogida, registro e interpretación.
+
+– Lectura y observación del juego.
+
+– El entrenador como observador del juego en baloncesto.
+
+– El «scouting» y el scouter en baloncesto.
+
+– Habilidades del buen observador del juego en baloncesto.
+
+– La observación como anticipación.
+
+– Mecánica de observación.
+
+– Proceso mecánico.
+
+– Aspectos a observar en la etapa de tecnificación: parámetros avanzados.
+
+– Tipos de observación.
+
+– Reales.
+
+– Visionados.
+
+– Informes.
+
+– Fuentes de información avanzadas en baloncesto.
+
+– Entrenadores.
+
+– Entrevistas.
+
+– Programas informáticos.
+
+– Redes sociales especializadas.
+
+– Recursos tecnológicos avanzados aplicados a la observación del juego en baloncesto.
+
+– Programas de edición de video.
+
+– Aplicaciones de ofimática y presentaciones.
+
+– Gestores de almacenamiento de datos.
+
+– Herramientas avanzadas para la obtención de datos.
+
+– Montajes de video básicos.
+
+– Estadísticas avanzadas.
+
+– Registro de datos de baloncesto con herramientas avanzadas.
+
+– Registro cuantitativo.
+
+– Registro cualitativo.
+
+– Análisis e interpretación de estadísticas y registros en baloncesto.
+
+4\. Participa y colabora con la gestión de clubes amateurs y su dirección deportiva, conociendo la legislación de esta etapa, el régimen disciplinario, y el marco laboral básico del entrenador.
+
+– Gestión de clubes de baloncesto amateur.
+
+– Creación de clubes amateurs.
+
+– Organigrama de clubes amateurs.
+
+– Funcionamiento y organización de un club amateur.
+
+– Roles de los responsables de un club amateur.
+
+– Gestión institucional y representativa de un club amateur.
+
+– Leyes, decretos y normativas de baloncesto para la etapa de tecnificación.
+
+– Legislación de ámbito estatal.
+
+– Legislación deportiva general.
+
+– Reglamento general de competiciones.
+
+– Reglamento autonómico.
+
+– Régimen disciplinario en baloncesto.
+
+– Marco laboral básico del entrenador de baloncesto.
+
+– Dirección deportiva de clubes de baloncesto amateur.
+
+– Funciones.
+
+– Características.
+
+– Gestión deportiva de un club amateur.
+
+– Colaboración con equipo técnico de un club amateur.
+
+– Relaciones con diferentes estamentos de un club amateur.
+
+5\. Participa y organiza competiciones de baloncesto, contrastando los procesos, analizando sus características y completando los recursos necesarios, interpretando además los procedimientos de arbitraje y el reglamento de baloncesto que se aplica.
+
+– Organización y gestión de eventos de baloncesto en la etapa de tecnificación.
+
+– Tipología de eventos de baloncesto en la etapa de tecnificación.
+
+– Organización de un evento de baloncesto en la etapa de tecnificación: paso a paso.
+
+– Recursos humanos y materiales en un evento de baloncesto en la etapa de tecnificación.
+
+– Logística de un evento de baloncesto en la etapa de tecnificación.
+
+– Arbitraje y reglamento.
+
+– Mecánica de arbitraje en competiciones de la etapa de tecnificación.
+
+– Árbitro de cabeza.
+
+– Árbitro de cola.
+
+– Auxiliares de mesa.
+
+– Reglamento de baloncesto.
+
+– Normas.
+
+– Articulado.
+
+– Diferencias entre reglamento de minibasket, pasarela y el de baloncesto.
+
+> Se numera este módulo como Anexo III.h por el art. 8.8.i) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.i — Módulo específico de enseñanza deportiva: Entrenamiento en baloncesto
+
+Código: MED-BCBC203
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Elabora la sesión de entrenamiento y el programa de tecnificación individualizado, en la etapa de tecnificación en baloncesto a partir de la planificación de referencia, adaptando los diferentes ciclos de entrenamiento, y creando y/o modificando actividades y tareas que se ajusten a las características psicomotrices de los jugadores de baloncesto.
+
+a. Se ha elaborado una sesión de entrenamiento, estructurando sus partes, para equipos en la etapa de tecnificación.
+
+b. Se ha elaborado un programa individual de mejora de jugadores en la etapa de tecnificación, a partir de unas características psicomotrices concretas.
+
+c. Se han explicado los principios metodológicos fundamentales en la elaboración de las sesiones de entrenamiento en baloncesto.
+
+d. Se han comparado las características psicomotrices de los jugadores de baloncesto en la etapa de tecnificación.
+
+e. Se ha cuantificado la carga de una sesión de entrenamiento, a partir de un modelo de referencia, y su relación con la planificación y los diferentes tipos de ciclos de entrenamiento en baloncesto.
+
+f. Se ha modificado, a partir de una planificación de referencia, los ciclos previstos en función de las consideraciones de la temporada de un equipo de baloncesto en etapa de tecnificación, detectando los errores que se aprecian.
+
+g. Se ha elaborado una sesión de un equipo en la etapa de tecnificación, a partir de un supuesto práctico en el que se establezcan las condiciones de partida y el momento de la programación.
+
+h. Se ha elaborado una sesión integrando las ciencias del entrenamiento (preparación física y psicológica), dentro de la planificación de referencia.
+
+i. Se ha diseñado una tarea a incorporar en una sesión de entrenamiento en etapas de tecnificación en baloncesto, a partir de un supuesto práctico en el que se establezcan las características de la programación de referencia.
+
+j. Se ha modificado una tarea para jugadores en etapa de tecnificación, experimentando con diferentes condicionantes, mecanismos y variables, explicando los cambios que van a generar en la práctica.
+
+k. Se han descrito las especificidades del entrenamiento de la preparación física y psicológica en la etapa de tecnificación en baloncesto.
+
+l. Se ha justificado la importancia de la planificación para sistematizar el proceso de entrenamiento en baloncesto, y así controlar la mejora tanto de los jugadores como del equipo.
+
+2\. Dirige la sesión en las etapas de tecnificación en baloncesto, utilizando técnicas de organización y control de la sesión, ofreciendo el conocimiento de resultados más apropiado para esta etapa.
+
+a. Se han enumerado elementos fundamentales en la organización de la sesión de baloncesto en la etapa de tecnificación.
+
+b. Se ha demostrado la técnica de organización y control en una actividad práctica propuesta, incluida dentro de una sesión de entrenamiento de baloncesto en la etapa de tecnificación.
+
+c. Se han explicado los objetivos de la organización y control del técnico en la dirección de sesiones de entrenamiento de equipos en etapa de tecnificación.
+
+d. Se han comparado el conocimiento de resultados utilizado, a partir de una situación presentada de baloncesto, justificando las aportaciones que hacen a la mejora del jugador de la etapa de tecnificación.
+
+e. Se han aplicado, a partir de supuestos presentados debidamente caracterizados de la etapa de tecnificación, las técnicas organizativas más convenientes.
+
+f. Se han descrito los procesos de control de la sesión y de las tareas que la componen, en un entrenamiento para la etapa de tecnificación.
+
+g. Se han adaptado las técnicas organizativas a partir de la evaluación de una sesión de entrenamiento realizada.
+
+h. Se han valorado las técnicas organizativas a partir de la evaluación del entrenador en una sesión de entrenamiento realizada.
+
+i. Se ha valorado la eficacia de la organización del entrenamiento en cuanto a tiempo de práctica útil de los jugadores.
+
+3\. Gestiona la prevención de lesiones y patologías propias de la práctica del baloncesto en la etapa de tecnificación, examinando los factores que condicionan las lesiones, aplicando las medidas preventivas y promoviendo prácticas deportivas saludables.
+
+a. Se han descrito los factores que condicionan las lesiones en la práctica del baloncesto.
+
+b. Se han utilizado las medidas preventivas sobre un caso propuesto debidamente caracterizado de baloncesto en la etapa de tecnificación.
+
+c. Se han valorado la importancia de las medidas preventivas de lesiones en la práctica del baloncesto.
+
+d. Se han descrito las lesiones más frecuentes en la práctica del baloncesto, así como los principales síntomas.
+
+e. Se han propuesto actuaciones del técnico ante una lesión, a partir de supuestos prácticos concretos en baloncesto.
+
+f. Se ha descrito en qué consiste el trabajo de propiocepción con jugadores de baloncesto en la etapa de tecnificación.
+
+g. Se ha justificado la necesidad de dar descanso tras una lesión y de programar la cantidad de actividad de baloncesto en el proceso de vuelta tras la recuperación médica de la lesión.
+
+h. Se ha valorado la importancia de prevenir las lesiones originadas por sobrecarga deportiva.
+
+4\. Valora la progresión del jugador en la etapa de tecnificación tanto en los aspectos técnico-tácticos, como en su condición física, aplicando pruebas específicas para analizar la evolución de los resultados.
+
+a. Se han definido los conceptos de evaluación de la mejora del jugador en la etapa de tecnificación en baloncesto dentro de la sesión de entrenamiento.
+
+b. Se han comparado diferentes procedimientos de evaluación, y analizado su aplicación a la mejora del desarrollo de jugadores de baloncesto dentro de la sesión de entrenamiento en la etapa de tecnificación.
+
+c. Se han utilizado diferentes instrumentos de evaluación dentro de la sesión y según unos supuestos prácticos presentados, referidos a los aspectos técnico-tácticos de los jugadores de baloncesto de la etapa de tecnificación.
+
+d. Se han explicado las exigencias físicas propias del baloncesto en la etapa de tecnificación.
+
+e. Se han descrito las características de los test y pruebas específicas de valoración de las capacidades de las que depende la condición física específica del baloncesto.
+
+f. Se han aplicado test o pruebas específicas de valoración de las capacidades condicionales de las que depende la condición física específica del baloncesto.
+
+g. Se han valorado, en un supuesto práctico de secuencia de medición de la condición física específica de un jugador de baloncesto, los cambios observados en las diferentes mediciones, justificando las posibles relaciones causa-efecto.
+
+h. Se han elaborado instrumentos de recogida de la información sobre la condición física específica del jugador de baloncesto durante el entrenamiento y la competición (o práctica deportiva).
+
+i. Se ha interiorizado la necesidad de transmitir la información sobre la valoración de los deportistas de forma eficaz, discreta y reforzando su autoestima.
+
+j. Se ha valorado la importancia de la evaluación en la mejora del resultado del entrenamiento.
+
+k. Se ha justificado la utilidad de la evaluación en baloncesto y de sus diferentes finalidades en la sesión de entrenamiento en la etapa de tecnificación.
+
+Contenidos básicos
+
+1\. Elabora la sesión de entrenamiento, y el programa de tecnificación individualizado, en la etapa de tecnificación en baloncesto a partir de la planificación de referencia, adaptando los diferentes ciclos de entrenamiento, y creando y/o modificando actividades y tareas que se ajusten a las características psicomotrices de los jugadores de baloncesto.
+
+– La sesión de entrenamiento en baloncesto.
+
+– Principios metodológicos en la sesión de baloncesto.
+
+– Progresión de los contenidos y tareas en una sesión de baloncesto.
+
+– Diseño de tareas de entrenamiento y su vinculación a los objetivos.
+
+– Elaboración de tareas de entrenamiento en baloncesto.
+
+– Criterios de adaptación y variables de tareas.
+
+– Principales errores al diseñar sesiones y tareas de entrenamiento en baloncesto.
+
+– Programas individuales de tecnificación del jugador de baloncesto.
+
+– Progresión de los contenidos.
+
+– Construcción del jugador.
+
+– Conceptos en la construcción de un jugador.
+
+– Consideraciones técnico-tácticas.
+
+– Consideraciones pedagógicas.
+
+– Características psicomotores de los jugadores de baloncesto en estas etapas.
+
+– La planificación del entrenamiento en baloncesto.
+
+– Carga de entrenamiento en baloncesto.
+
+– Modelo básico de cuantificación.
+
+– Ciclos y Temporada en baloncesto.
+
+– Ciencias del entrenamiento en baloncesto.
+
+– Entrenamiento integrado en baloncesto.
+
+– Preparación física en el entrenamiento.
+
+– Especificidades del entrenamiento de las capacidades físicas en baloncesto.
+
+– Entrenamiento de la fuerza en la etapa de tecnificación.
+
+– Entrenamiento de la resistencia en la etapa de tecnificación.
+
+– Entrenamiento de la velocidad en la etapa de tecnificación.
+
+– Entrenamiento de la flexibilidad en la etapa de tecnificación.
+
+– Especificidades del entrenamiento de las cualidades coordinativas en baloncesto.
+
+– Psicología en el entrenamiento.
+
+– Especificidades del entrenamiento de las variables psicológicas en baloncesto en la etapa de tecnificación.
+
+– Entrenamiento de la motivación.
+
+– Entrenamiento de la concentración.
+
+– Entrenamiento del control de pensamiento.
+
+– Entrenamiento de la inteligencia emocional.
+
+– Entrenamiento del nivel de activación.
+
+– Entrenamiento de la competitividad.
+
+2\. Dirige la sesión en las etapas de tecnificación en baloncesto, utilizando técnicas de organización y control de la sesión, ofreciendo el conocimiento de resultados más apropiado para esta etapa.
+
+– Organización y el control en la sesión.
+
+– Técnicas y objetivos de organización en la sesión atendiendo al grupo, al tiempo, a las consignas del entrenador, al espacio y a los recursos a utilizar en la misma.
+
+– Conocimiento de los resultados en baloncesto.
+
+– Patrón o programa motor en baloncesto: técnica y objetivos.
+
+– Feedback en baloncesto: técnica y objetivos.
+
+– Procedimientos de evaluación de la sesión de entrenamiento de baloncesto.
+
+– Evaluación del proceso de entrenamiento.
+
+– Evaluación del entrenador y equipo técnico.
+
+3\. Gestiona la prevención de lesiones y patologías propias de la práctica del baloncesto en la etapa de tecnificación, examinando los factores que condicionan las lesiones, aplicando las medidas preventivas y promoviendo prácticas deportivas saludables.
+
+– Factores que condicionan las lesiones en baloncesto.
+
+– Medidas preventivas frente a lesiones en baloncesto.
+
+– Medidas de prevención primaria.
+
+– Análisis postural y desequilibrios artromusculares.
+
+– Trabajo postural y equilibrio muscular.
+
+– Propiocepción.
+
+– Lesiones frecuentes en baloncesto: definición, síntomas y actuación.
+
+– Traumatológicas.
+
+– Esguinces.
+
+– Luxaciones.
+
+– Musculo-tendinosas.
+
+– Contusión.
+
+– Distensión.
+
+– Contractura.
+
+– Tendinitis y tenosinovitis.
+
+– Rotura del tendón.
+
+– Fracturas.
+
+– Lesiones originadas por sobrecarga deportiva.
+
+– Fractura de estrés.
+
+– Osteoporosis por sobreentrenamiento.
+
+4\. Valora la progresión del jugador en la etapa de tecnificación tanto en los aspectos técnico-tácticos, como en su condición física, aplicando pruebas específicas para analizar la evolución de los resultados.
+
+– Valoración de la condición física del jugador de baloncesto en etapa de tecnificación.
+
+– Exigencias físicas del baloncesto para el jugador en etapa de tecnificación.
+
+– Evolución de las capacidades físicas, fases sensibles e implicaciones en el entrenamiento de baloncesto.
+
+– Pruebas específicas y test de valoración de las capacidades de las que depende la condición física específica del jugador de baloncesto.
+
+– Instrumentos de recogida de la información sobre la condición física en baloncesto durante el entrenamiento y la competición.
+
+– Evaluación de la sesión de entrenamiento de baloncesto.
+
+– Conceptos de evaluación para la etapa de tecnificación.
+
+– Finalidades de la evaluación.
+
+– Evaluación del jugador y del equipo.
+
+– Evaluación del proceso de entrenamiento.
+
+– Evaluación del entrenador y equipo técnico.
+
+– Cómo evaluar en baloncesto dentro de la sesión de entrenamiento.
+
+– Evaluación continua.
+
+– Procedimientos e instrumentos de evaluación en la sesión de entrenamiento de baloncesto para la valoración de la mejora del jugador y/o del equipo.
+
+– Observación directa:
+
+– Registro de anécdotas.
+
+– Observación indirecta:
+
+– Listas de Control.
+
+– Escalas de puntuación-clasificación.
+
+– Registro de acontecimientos.
+
+– Cronometraje.
+
+– Escalas de desarrollo.
+
+– Test motores.
+
+– Pruebas de ejecución.
+
+– Elaboración de informes.
+
+> Se numera este módulo como Anexo III.i por el art. 8.8.j) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.j — Módulo específico de enseñanza deportiva: Táctica de ataque y defensa en la etapa de tecnificación
+
+Código: MED-BCBC204
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora y perfecciona al equipo de baloncesto en el juego dinámico ante situaciones de partido, analizando los conceptos, los principios y las características tácticas y estratégicas del mismo en la etapa de tecnificación, utilizando la simbología avanzada del baloncesto, diseñando tareas de entrenamiento y aplicando técnicas y estrategias metodológicas de detección y corrección de errores.
+
+a. Se han diferenciado los conceptos tácticos-estratégicos del baloncesto, definiendo los principios tácticos del juego dinámico.
+
+b. Se han explicado las características y conceptos avanzados del juego dinámico (ataque dinámico y defensa dinámica) en la etapa de tecnificación, representando con la simbología avanzada las situaciones de juego propuestas.
+
+c. Se ha analizado el juego dinámico, a partir de situaciones propuestas, comparando sus diferencias y objetivos.
+
+d. Se han descrito los errores más frecuentes en el juego dinámico en la etapa de tecnificación, las causas de los mismos y las estrategias de corrección utilizables.
+
+e. Se ha examinado una situación de juego dinámico avanzado a partir de un esquema gráfico construido con simbología avanzada.
+
+f. Se han analizado las principales estructuras del juego dinámico avanzado (ofensivas y defensivas), explicando sus características y objetivos.
+
+g. Se han representado gráficamente ataques y defensas dinámicas para equipos en etapas de tecnificación, citando los criterios utilizados y utilizando la simbología avanzada adecuada.
+
+h. Se han diseñado tareas de entrenamiento del juego dinámico en la etapa de tecnificación, describiendo los criterios y los principios de aprendizaje progresivo utilizados.
+
+i. Se ha justificado la necesidad de potenciar el juego dinámico en la etapa de tecnificación.
+
+2\. Valora y desarrolla al equipo de baloncesto en el juego posicional en situaciones de partido, analizando los conceptos, características y aspectos avanzados del juego posicional en la etapa de tecnificación, distinguiendo situaciones tácticas históricas, identificando la evolución táctica del reglamento, aplicando técnicas y estrategias metodológicas de detección y corrección de errores y de diseño y aplicación de tareas de entrenamiento.
+
+a. Se han explicado las claves para construir un juego posicional avanzado (ataque y defensa) para la etapa de tecnificación.
+
+b. Se han definido los conceptos avanzados del juego posicional: ataque posicional y defensa posicional, para la etapa de tecnificación, describiendo sus características.
+
+c. Se han comparado diferentes estructuras ofensivas posicionales presentadas, identificándolas dentro del juego para la etapa de tecnificación.
+
+d. Se han examinados diferentes propuestas de juego posicional desarrolladas para la etapa de tecnificación, describiendo sus objetivos y características.
+
+e. Se ha analizado el juego posicional, a partir de situaciones propuestas, comparando sus diferencias y objetivos.
+
+f. Se han diseñado tareas de entrenamiento del juego posicional en la etapa de tecnificación, describiendo los criterios y los principios de aprendizaje progresivo utilizados.
+
+g. Se han analizado las situaciones tácticas históricas destacadas, explicando sus objetivos y características.
+
+h. Se ha analizado la evolución táctica del reglamento a lo largo de los años de historia del baloncesto, valorando las modificaciones producidas.
+
+i. Se han descrito los errores más frecuentes en el juego posicional en la etapa de tecnificación, las causas de los mismos y las estrategias de corrección utilizables.
+
+j. Se ha examinado una situación de juego posicional avanzado a partir de un esquema gráfico construido con simbología avanzada.
+
+k. Se han representado gráficamente ataques y defensas posicionales avanzadas para equipos en la etapa de tecnificación, citando los criterios utilizados y utilizando la simbología avanzada adecuada.
+
+l. Se han combinado los recursos metodológicos y demostrativos utilizados en el perfeccionamiento del juego posicional en la etapa de tecnificación.
+
+m. Se ha justificado la importancia de que el juego posicional sea la base fundamental del desarrollo del jugador en la etapa de tecnificación.
+
+3\. Valora y desarrolla al equipo de baloncesto en el juego de espacios en situaciones de partido, describiendo los conceptos, características y aspectos avanzados en la etapa de tecnificación, adaptando la táctica al desarrollo de los jugadores, aplicando técnicas y estrategias metodológicas de detección y corrección de errores y de diseño y aplicación de tareas de entrenamiento.
+
+a. Se han definido los conceptos avanzados del juego de espacios (ataque y defensa) para la etapa de tecnificación, describiendo sus características.
+
+b. Se han explicado los objetivos y principios generales que rigen el juego de espacios (ataque y defensa) en la etapa de tecnificación.
+
+c. Se han distinguido los diferentes tipos de defensa de espacios para la etapa de tecnificación, utilizando la simbología específica de baloncesto.
+
+d. Se han explicado las ventajas, inconvenientes y puntos débiles de cada una de las defensas de espacios presentadas para la etapa de tecnificación, justificando las condiciones más adecuadas para su utilización.
+
+e. Se ha analizado el juego de espacios, a partir de situaciones propuestas, comparando sus diferencias y objetivos.
+
+f. Se han detallado las fases de la construcción de una defensa de espacios y de su ataque para equipos en etapas de tecnificación, diseñando tareas de entrenamiento adecuadas para cada uno de ellos.
+
+g. Se han comparado diferentes estructuras de juego de espacios presentadas, valorando sus ventajas y examinando sus características.
+
+h. Se han diseñado tareas de entrenamiento del juego de espacios en la etapa de tecnificación, describiendo los criterios y los principios de aprendizaje progresivo utilizados.
+
+i. Se han descrito los errores más frecuentes en el juego de espacios en la etapa de tecnificación, las causas de los mismos y las estrategias de corrección utilizables.
+
+j. Se ha examinado una situación de juego de espacios avanzado a partir de un esquema gráfico construido con simbología avanzada.
+
+k. Se han representado gráficamente ataques y defensas de espacios avanzadas para equipos en la etapa de tecnificación, citando los criterios utilizados y utilizando la simbología avanzada adecuada.
+
+l. Se han combinado los recursos metodológicos y demostrativos utilizados en el perfeccionamiento del juego de espacios en la etapa de tecnificación.
+
+m. Se han justificado la necesidad de adaptar la táctica para que ayude al desarrollo de los jugadores en la etapa de tecnificación.
+
+4\. Valora e inicia al equipo de baloncesto en la etapa de tecnificación en otros modelos de juego (defensas mixtas y su ataque, defensas presionantes y su ataque, defensas especiales, ataques universales y situaciones especiales) en situaciones de partido, describiendo los conceptos, características y aspectos básicos del estos modelos de juego, aplicando tareas de entrenamiento para etapas de tecnificación.
+
+a. Se han definido las defensas mixtas y su ataque, detallado sus objetivos, describiendo sus finalidades y explicando los principios que los sustentan en la etapa de tecnificación.
+
+b. Se han distinguido los diferentes tipos de defensas mixtas, presentadas con diferentes esquemas gráficos, utilizando la simbología específica de baloncesto, explicando las ventajas, inconvenientes y puntos débiles, y justificando las condiciones más adecuadas para su utilización en la etapa de tecnificación.
+
+c. Se han aplicado tareas de entrenamiento de las defensas mixtas y su ataque en la etapa de tecnificación, describiendo los criterios y los principios de aprendizaje progresivo utilizados.
+
+d. Se han definido las defensas presionantes y su ataque, detallado sus objetivos, describiendo sus finalidades y explicando los principios que los sustentan en la etapa de tecnificación.
+
+e. Se han distinguido los diferentes tipos de defensas presionantes, presentadas con diferentes esquemas gráficos utilizando la simbología específica de baloncesto, explicando las ventajas, inconvenientes y puntos débiles, y justificando las condiciones más adecuadas para su utilización en la etapa de tecnificación.
+
+f. Se han aplicado tareas de entrenamiento de las defensas presionantes y su ataque en la etapa de tecnificación, describiendo los criterios y los principios de aprendizaje progresivo utilizados.
+
+g. Se han definido las defensas mutantes, explicando las ventajas, inconvenientes y puntos débiles, y justificando las condiciones más adecuadas para su utilización en la etapa de tecnificación.
+
+h. Se han definido los ataques universales, explicando las ventajas, inconvenientes y puntos débiles, y justificando las condiciones más adecuadas para su utilización en la etapa de tecnificación.
+
+i. Se han definido las situaciones especiales de juego, explicando las ventajas, inconvenientes y puntos débiles, y justificando las condiciones más adecuadas para su utilización en la etapa de tecnificación.
+
+j. Se han diferenciado distintos modelos de juego especiales: defensas mixtas, defensas presionantes, defensas especiales, ataques universales, y situaciones especiales de juego, en situaciones de juego real o simuladas, utilizando la simbología específica para dibujarlo.
+
+k. Se ha valorado la idoneidad de la utilización de estos modelos de juego: defensas mixtas y su ataque, defensas presionantes y su ataque, defensas especiales, ataques universales, y situaciones especiales de juego, en la etapa de tecnificación, justificando su elección o renuncia.
+
+Contenidos básicos
+
+1\. Valora y perfecciona al equipo de baloncesto en el juego dinámico ante situaciones de partido, analizando los conceptos, los principios y las características tácticas y estratégicas del mismo en la etapa de tecnificación, utilizando la simbología avanzada del baloncesto, diseñando tareas de entrenamiento y aplicando técnicas y estrategias metodológicas de detección y corrección de errores.
+
+– Conceptos táctico-estratégicos.
+
+– Estrategia.
+
+– Toma de decisiones estratégica.
+
+– Principios tácticos del juego.
+
+– Espacios.
+
+– Timming o tempo.
+
+– Optimización.
+
+– Equilibrio de juego.
+
+– Ritmo de juego.
+
+– Ventajas/Desventajas tácticas.
+
+– Simbología avanzada en baloncesto.
+
+– Desplazamientos y acciones.
+
+– Ubicaciones, orientaciones y trayectorias.
+
+– Continuaciones de movimientos.
+
+– Ataque dinámico.
+
+– Conceptos tácticos en el contraataque.
+
+– Ocupación de calles.
+
+– Búsqueda de superioridad.
+
+– Encontrar la correcta ventaja.
+
+– Conceptos tácticos en el seguir jugando.
+
+– Utilización de las triangulaciones.
+
+– Utilización de los bloqueos indirectos.
+
+– Utilización de los bloqueos directos.
+
+– Aprovechamiento de los «miss-match».
+
+– Propuestas de tareas de entrenamiento en la etapa de tecnificación.
+
+– Principales estructuras diseñadas de juego dinámico.
+
+– Errores más frecuentes en el diseño del juego dinámico en equipos en la etapa de tecnificación.
+
+– Defensa dinámica.
+
+– Acciones previas al balance defensivo.
+
+– Conceptos tácticos que se aplican.
+
+– Momento de tiro.
+
+– Rebote defensivo.
+
+– Balones perdidos por encima del tiro libre.
+
+– Balones perdidos por debajo del tiro libre.
+
+– Balance defensivo.
+
+– Conceptos tácticos que se aplican.
+
+– Presión a la salida del balón.
+
+– Proteger el aro.
+
+– Contener el avance del balón.
+
+– Ocupación de espacios.
+
+– Seguir defendiendo.
+
+– Conceptos tácticos que se aplican.
+
+– Comunicación.
+
+– Defensa en superioridad numérica.
+
+– Defensa en inferioridad numérica.
+
+– Recuperar la posición.
+
+– Defensa en igualdad numérica.
+
+– Asignación de atacantes.
+
+– Camuflar las desventajas.
+
+– Estructura de la construcción de una defensa dinámica.
+
+– Tareas de entrenamiento en la etapa de tecnificación.
+
+– Errores más frecuentes en la defensa del juego dinámico en equipos en la etapa de tecnificación.
+
+2\. Valora y desarrolla al equipo de baloncesto en el juego posicional en situaciones de partido, analizando los conceptos, características y aspectos avanzados del juego posicional en la etapa de tecnificación, distinguiendo situaciones tácticas históricas, identificando la evolución táctica del reglamento, aplicando técnicas y estrategias metodológicas de detección y corrección de errores y de diseño y aplicación de tareas de entrenamiento.
+
+– Ataque posicional.
+
+– Construcción del juego posicional.
+
+– Aspectos referentes a la táctica individual y colectiva.
+
+– Distribución espacial de los jugadores.
+
+– Posicionamiento de los jugadores.
+
+– Puestos específicos.
+
+– Rol de los jugadores.
+
+– Coordinación colectiva.
+
+– Equipo rival.
+
+– Clasificación de las estructuras de juego posicional.
+
+– Estructuras en creación.
+
+– Estructuras orientadas.
+
+– Movimientos de inicio.
+
+– Distribución de inicio.
+
+– Conceptos definidos.
+
+– Estructuras cerradas.
+
+– Conceptos avanzados de ataque posicional.
+
+– Dentro-fuera.
+
+– Fijar y dividir.
+
+– Cruces.
+
+– Propuestas de juego desarrolladas que utilizan estos conceptos avanzados de ataque posicional.
+
+– Tareas para el trabajo de los conceptos avanzados de ataque posicional.
+
+– Errores más frecuentes en el juego posicional ofensivo en la etapa de tecnificación, causas de los mismos y las estrategias de corrección utilizables.
+
+– Defensa posicional.
+
+– Conceptos avanzados de la defensa posicional.
+
+– Ayudas.
+
+– Factores de ejecución.
+
+– Toma de decisiones.
+
+– Amenazas de ayudas.
+
+– Segundas ayudas.
+
+– Cambios.
+
+– Tras penetraciones a canasta.
+
+– Tras bloqueos directos.
+
+– Posibilidades de cambios entre exteriores e interiores.
+
+– Soluciones defensivas a los cambios.
+
+– Rotaciones.
+
+– Entre dos jugadores.
+
+– Entre tres jugadores.
+
+– Entre cuatro jugadores.
+
+– Entre todo el equipo.
+
+– Defensa de cruces.
+
+– Del lado balón al lado de ayuda.
+
+– Del lado ayuda al lado balón.
+
+– Del lado balón al lado balón.
+
+– Tareas para el entrenamiento de los conceptos avanzados del juego posicional defensivo.
+
+– Errores más frecuentes en el juego posicional defensivo en la etapa de tecnificación, causas de los mismos y las estrategias de corrección utilizables.
+
+– Situaciones tácticas históricas.
+
+– Corte UCLA.
+
+– Triángulo de Tex Winter.
+
+– Shuffle.
+
+– Defensas presionantes de Kentucky.
+
+– Zona 2-3 de Syracusse.
+
+– Transición grande de Lolo Sainz.
+
+– Flex-offense.
+
+– Defensa box de Mario Pesquera.
+
+– Evolución táctica del reglamento.
+
+– Reglas y cambios tácticos generados a lo largo de la historia del baloncesto.
+
+3\. Valora y desarrolla al equipo de baloncesto en el juego de espacios en situaciones de partido, describiendo los conceptos, características y aspectos avanzados en la etapa de tecnificación, adaptando la táctica al desarrollo de los jugadores, aplicando técnicas y estrategias metodológicas de detección y corrección de errores y de diseño y aplicación de tareas de entrenamiento.
+
+– Defensa de espacios en la etapa de tecnificación.
+
+– Objetivos principales en la defensa de espacios.
+
+– Principios generales de la defensa de espacios.
+
+– Conceptos avanzados de la defensa de espacios.
+
+– Áreas de responsabilidad.
+
+– Disciplina táctica y sacrificio.
+
+– Comunicación.
+
+– Defensores de primera línea.
+
+– Defensa al jugador con alón.
+
+– Acompañar al atacante.
+
+– Defensa de exteriores.
+
+– Lado débil.
+
+– Rebote defensivo.
+
+– Triángulo de rebote.
+
+– Defensa de poste bajo.
+
+– Clasificación de defensas de espacios.
+
+– En función del objetivo.
+
+– Defensa de contención.
+
+– Defensa para robar balones en línea de pase.
+
+– Defensas de ajustes.
+
+– Defensas con traps.
+
+– En función de la movilidad de la defensa.
+
+– En función del espacio de la cancha que defendemos.
+
+– A todo campo.
+
+– En tres cuartos de pista.
+
+– En medio campo.
+
+– En zona de amenaza de tiro.
+
+– En función del número de jugadores que ocupan la primera línea de la defensa.
+
+– Impar.
+
+– Par.
+
+– Tipos de defensa de espacios.
+
+– Defensa de zona par 2-3.
+
+– Objetivos y consideraciones generales.
+
+– Variantes más comunes.
+
+– Movimientos y posicionamiento.
+
+– Defensa de zona impar 3-2.
+
+– Consideraciones generales.
+
+– Variantes más comunes.
+
+– Movimientos y posicionamiento.
+
+– Defensa de zona impar 1-3-1.
+
+– Objetivos y consideraciones generales.
+
+– Variantes más comunes.
+
+– Movimientos y posicionamiento.
+
+– Defensor en punta.
+
+– Defensor del fondo.
+
+– Defensor del centro.
+
+– Defensores laterales.
+
+– Normas tácticas para hacer los traps.
+
+– Ajustes.
+
+– Ajustes en las defensas de espacios.
+
+– Ajustes de zona impar a par (de 3-2 a 2-3).
+
+– Ajustes de zona impar a par (de 1-2-2 a 2-1-2).
+
+– Ventajas e inconvenientes de la defensa de espacios.
+
+– Ventajas.
+
+– Inconvenientes.
+
+– Construcción progresiva de una defensa de espacios en etapa de iniciación: fases.
+
+– Tareas para entrenamientos de la defensa de espacios en etapa de tecnificación.
+
+– Principales estructuras diseñadas de defensas de espacios.
+
+– Errores más frecuentes en el diseño de defensas de espacios en etapa de tecnificación.
+
+– Ataque a espacios en la etapa de tecnificación.
+
+– Principios en el ataque a espacios.
+
+– Conceptos y habilidades avanzados para el ataque a espacios.
+
+– Habilidades.
+
+– Pase «skip».
+
+– Ángulos y fintas de pase.
+
+– Línea de pase.
+
+– Rebote de ataque.
+
+– Tempo de los cortes de poste alto a poste bajo.
+
+– Movimientos de los jugadores sin balón.
+
+– Conceptos.
+
+– Circulación del balón.
+
+– Dividir.
+
+– Distancia.
+
+– Posicionamiento inicial.
+
+– Poste alto distribuidor.
+
+– Dentro-fuera-lado contrario.
+
+– Balones interiores.
+
+– Situaciones de 1x1.
+
+– Juego entre postes.
+
+– Sobrecargas.
+
+– Bloqueos.
+
+– Creación de superioridad y ventaja.
+
+– Bloqueos indirectos para un compañero.
+
+– Bloqueos indirectos para uno mismo.
+
+– Efectividad de los bloqueos.
+
+– Triángulos.
+
+– Ocupar espacios (atacar los agujeros).
+
+– Cortes dentro del corazón de la zona (flash).
+
+– Juego sin balón para recibir.
+
+– Rebote de ataque.
+
+– Distribución de los jugadores para mejorar eficacia.
+
+– Línea de fondo.
+
+– Estudio de la defensa de espacios y sus puntos débiles.
+
+– Espacios vacíos según disposición inicial defensiva.
+
+– Espacios vacíos según la defensa de los jugadores interiores.
+
+– Principales estructuras diseñada de ataque a espacios.
+
+– Rutinas de posicionamiento.
+
+– Reglas de ataque a espacios.
+
+– Modelo de ataque 2-3.
+
+– Modelo de ataque 1-caja.
+
+– Ataque universal.
+
+– Sistemas con rotaciones.
+
+– Sistemas con rotaciones independientes.
+
+– Sistemas con rotaciones con un interior.
+
+– Construcción de un ataque a espacios para equipos en la etapa de tecnificación: Fases.
+
+– Tareas de entrenamiento de ataque a espacios para la etapa de tecnificación.
+
+– Errores más frecuentes en el ataque a espacios en la etapa de tecnificación.
+
+– Adaptación de la táctica al desarrollo de los jugadores.
+
+– Tratamiento de la información obtenida.
+
+– Crear/Diseñar táctica.
+
+– Puesta en práctica competitiva.
+
+– Análisis de los resultados.
+
+– Rectificaciones.
+
+4\. Valora e inicia al equipo de baloncesto en la etapa de tecnificación en otros modelos de juego (defensas mixtas y su ataque, defensas presionantes y su ataque, defensas especiales, ataques universales y situaciones especiales) en situaciones de partido, describiendo los conceptos, características y aspectos básicos del estos modelos de juego, aplicando tareas de entrenamiento para etapas de tecnificación.
+
+– Defensas mixtas.
+
+– Definición.
+
+– Tipos de defensas mixtas.
+
+– Caja y uno.
+
+– Triángulo y dos.
+
+– Diamante y uno.
+
+– Foco y dos.
+
+– Finalidades de las defensas mixtas.
+
+– Objetivos.
+
+– Consideraciones generales.
+
+– Principios.
+
+– Desarrollo de las estructuras defensivas mixtas.
+
+– Movimientos y funciones de los jugadores en defensa individual.
+
+– Movimientos y funciones de los jugadores en defensa de espacios.
+
+– Ventajas e inconvenientes de las defensas mixtas.
+
+– Propuestas de tareas en entrenamientos para trabajar las defensas mixtas.
+
+– Atacar las defensas mixtas.
+
+– Conceptos que se aplican.
+
+– Divisiones.
+
+– Ocupación de espacios libres.
+
+– Bloqueos indirectos e indirectos.
+
+– Rebote ofensivo.
+
+– Cruces con bloqueos.
+
+– Estructuras definidas de ataque a defensas mixtas.
+
+– Propuestas de tareas en entrenamientos para trabajar las defensas mixtas.
+
+– Defensas presionantes.
+
+– Definición.
+
+– Tipos de defensas presionantes.
+
+– Según la asignación.
+
+– Individual.
+
+– De espacios según la posición inicial de los jugadores.
+
+– Pares.
+
+– 2-2-1.
+
+– 2-1-2.
+
+– 2-1-1-1.
+
+– Impares.
+
+– 1-3-1.
+
+– 1-2-1-1.
+
+– 1-1-2-1.
+
+– 1-2-2.
+
+– Situaciones de presión en función de los jugadores que disponemos.
+
+– Finalidades de las defensas presionantes.
+
+– Objetivos.
+
+– Consideraciones generales.
+
+– Principios.
+
+– Conceptos que se aplican.
+
+– Evitar que reciba el jugador determinante.
+
+– Cambiar ritmo de partido.
+
+– Presionar salida de balón.
+
+– Detener primeras acciones.
+
+– Ventajas e inconvenientes de las defensas presionantes.
+
+– Propuestas de tareas en entrenamientos para trabajar las defensas presionantes.
+
+– Ataques a defensas presionantes.
+
+– Conceptos.
+
+– Dividir y doblar.
+
+– Ocupación de espacios libres.
+
+– Pasar y moverse.
+
+– Finalidades de los ataques a defensas presionantes.
+
+– Objetivos.
+
+– Principios.
+
+– Estructuras definidas de ataques a defensas presionantes.
+
+– Opciones para poner el balón en juego.
+
+– Opciones para progresar el balón.
+
+– Opciones para buscar la canasta.
+
+– Propuestas de tareas en entrenamientos para trabajar los ataques a defensas presionantes.
+
+– Defensas especiales.
+
+– Finalidades de estas defensas.
+
+– Objetivos.
+
+– Principios.
+
+– Defensas mutantes.
+
+– Concepto.
+
+– Características.
+
+– Defensas alternativas.
+
+– Concepto.
+
+– Características.
+
+– Ataques Universales.
+
+– Definición.
+
+– Ventajas.
+
+– Principios básicos del ataque universal.
+
+– Estructuras definidas de Ataque Universal.
+
+– Contra defensa individual.
+
+– Contra defensa de espacios.
+
+– Contra otras defensas.
+
+– Situaciones especiales de juego ofensivas.
+
+– Saques de fondo.
+
+– Saques con pocos segundos de posesión.
+
+– Saques con movimientos definidos.
+
+– Buscar a un exterior.
+
+– Buscar a un interior.
+
+– Poner el balón en juego.
+
+– Saques de banda.
+
+– Para movimientos rápidos de últimos segundos.
+
+– Para movimientos tradicionales.
+
+– Para movimientos de un jugador concreto.
+
+– Para poner en juego el balón.
+
+– Jugadas de últimos segundos.
+
+– Contra defensa de espacios.
+
+– Contra defensa de asignación – individual–.
+
+– Buscando un tirador.
+
+– Con bloqueo directo central.
+
+– Situaciones especiales de juego defensivas.
+
+– Defensa de saque de banda.
+
+– Defensa de últimos segundos.
+
+– Defensa en medio campo tras tiempo muerto.
+
+> Se numera este módulo como Anexo III.j por el art. 8.8.k) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.k — Módulo específico de enseñanza deportiva: Iniciación en baloncesto en silla de ruedas
+
+Código: MED-BCBC205
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Concreta la sesión de enseñanza-aprendizaje de iniciación al baloncesto en silla de ruedas, describiendo la capacidad funcional de los jugadores, adaptando el material a sus capacidades y características del reglamento específico, en un entorno de práctica inclusiva entre jugadores con y sin discapacidad.
+
+a. Se ha descrito la clasificación funcional y los diferentes tipos de discapacidad que pueden tener los jugadores de baloncesto en silla de ruedas.
+
+b. Se han enunciado los aspectos preventivos y saludables a tener en cuenta durante la práctica deportiva.
+
+c. Se ha reconocido las características de la silla de ruedas deportiva, sus partes y las medidas.
+
+d. Se ha orientado al jugador sobre cómo debe ir sentado en la silla de ruedas de acuerdo a sus características y necesidades.
+
+e. Se han enunciado las principales modificaciones del reglamento en baloncesto en silla de ruedas respecto del baloncesto convencional.
+
+f. Se han detectado e intervenido ante las infracciones producidas durante las situaciones de juego, explicando al jugador el motivo de la infracción.
+
+g. Se han aplicado pautas en los ejercicios de la sesión para garantizar la práctica inclusiva de deportistas con y sin discapacidad.
+
+2\. Valora las habilidades de desplazamiento del jugador en silla de ruedas, identificando las características del desplazamiento sin balón y con balón, aplicando técnicas de evaluación y corrección de las tareas.
+
+a. Se han identificado los diferentes tipos de desplazamiento con la silla de ruedas, agarres, impulsos y posición del jugador durante el desplazamiento.
+
+b. Se han descrito, ejecutado y evaluado actividades de aprendizaje de los diferentes desplazamientos con la silla de ruedas del jugador sin balón.
+
+c. Se han descrito actividades lúdicas en las que aplicar los aspectos técnicos sobre el desplazamiento con la silla de ruedas.
+
+d. Se han identificado las diferentes acciones individuales de desplazamiento de la silla de ruedas con control de balón.
+
+e. Se han descrito, ejecutado y evaluado actividades de aprendizaje de las diferentes acciones individuales de desplazamiento de la silla de ruedas con control de balón.
+
+f. Se han expuesto actividades lúdicas en las que aplicar los aspectos técnicos sobre el desplazamiento con la silla de ruedas con control de balón.
+
+g. Se han diseñado y aplicado actividades de mejora de las habilidades técnicas de los jugadores, incluyendo a alumnos con o sin discapacidad de acuerdo a la metodología de práctica inclusiva.
+
+h. Se ha mostrado una predisposición positiva hacia el desarrollo de sesiones de práctica inclusiva.
+
+3\. Valora las habilidades de pase, lanzamiento y defensa individual, describiendo los diferentes patrones técnicos y aplicando técnicas de evaluación y corrección de las tareas.
+
+a. Se han reconocido los diferentes tipos de pase así como los patrones técnicos del mismo.
+
+b. Se han descrito, ejecutado y evaluado los diferentes tipos de pase, adecuando la complejidad de la tarea a las capacidades del jugador.
+
+c. Se han desarrollado actividades lúdicas adecuadas a las capacidades de los jugadores para la aplicación de los aprendizajes logrados.
+
+d. Se han descrito las diferentes posibilidades de acción de tiro y su patrón técnico.
+
+e. Se han analizado lanzamiento ejecutados por diferentes jugadores y se han corregido o reforzado los patrones técnicos del lanzamiento de acuerdo a las capacidades del jugador.
+
+f. Se han diseñado y ejecutado actividades de adquisición y mejora del patrón técnico del lanzamiento estático y dinámico.
+
+g. Se han identificado los fundamentos de la defensa individual en relación a la posición del jugador y los movimientos de la silla en defensa.
+
+h. Se han diseñado, ejecutado y evaluado actividades de adquisición de los fundamentos de la defensa y su aplicación en actividades lúdicas.
+
+i. Se ha valorado la importancia de desarrollar metodologías, estrategias y dinámicas inclusivas en proceso de enseñanza-aprendizaje de las habilidades de pase y lanzamiento a canasta.
+
+4\. Valora e inicia al jugador en los fundamentos tácticos ofensivos y defensivos del baloncesto en silla de ruedas, diseñando y aplicando actividades de aprendizaje de estos fundamentos, realizando las correcciones pertinentes de acuerdo al momento de aprendizaje del jugador.
+
+a. Se han reconocido los fundamentos tácticos propios del baloncesto en silla de ruedas relacionados con la ocupación de espacios en el campo y la creación de situaciones de superioridad a partir de las diferencias en la clase funcional.
+
+b. Se han descrito los fundamentos de los diferentes tipos de bloqueo, sus ventajas y desventajas.
+
+c. Se han descrito los fundamentos sobre los principales tipos de defensa colectiva.
+
+d. Se han diseñado, ejecutado y evaluado actividades para el aprendizaje de los diferentes tipos de bloqueo y sus fundamentos.
+
+e. Se han identificado en situaciones reales de juego los fundamentos tácticos realizando las correcciones y proponiendo los refuerzos apropiados.
+
+f. Se ha valorado la importancia de desarrollar metodologías, estrategias y dinámicas inclusivas en proceso de enseñanza-aprendizaje de los principios tácticos.
+
+Contenidos básicos
+
+1\. Concreta la sesión de enseñanza-aprendizaje de iniciación al baloncesto en silla de ruedas, describiendo la capacidad funcional de los jugadores, adaptando el material a sus capacidades y características del reglamento específico, en un entorno de práctica inclusiva entre jugadores con y sin discapacidad.
+
+– Clasificación funcional.
+
+– Características funcionales del jugador de los puntos 1 a 4,5.
+
+– Principales roles de los jugadores en función de la clasificación.
+
+– Prevención y salud.
+
+– Aspectos a tener en cuenta con deportistas con lesión medular.
+
+– Alteración de la termorregulación.
+
+– Ausencia de sensibilidad.
+
+– Escaras y rozaduras.
+
+– Control de esfínteres.
+
+– La hidrocefalia en jugadores con espina bífida.
+
+– Espasticidad.
+
+– Aspectos a tener en cuenta en deportistas con amputaciones.
+
+– Precauciones sobre el muñón y prótesis.
+
+– Posibles descompensaciones musculares.
+
+– Aspectos preventivos sobre el baloncesto en silla de ruedas.
+
+– Lesiones frecuentes.
+
+– Ejercicio preventivo y calentamiento.
+
+– Seguridad en la silla de ruedas.
+
+– Características de la silla de ruedas.
+
+– Medidas reglamentarias.
+
+– Configuraciones frecuentes de la silla para los jugadores de baloncesto de acuerdo a su clasificación.
+
+– Camber (inclinación de las ruedas).
+
+– Altura del asiento.
+
+– Ángulo de inclinación del asiento.
+
+– Altura del respaldo.
+
+– Sujeción en la silla de ruedas.
+
+– Uso necesario del cojín.
+
+– Reglamento en Baloncesto en Silla de Ruedas.
+
+– Suma de puntos de jugadores en pista.
+
+– Reducciones de puntuación según normativa aplicable.
+
+– Violación de pasos.
+
+– Posición del jugador en el campo.
+
+– Infracción por salir de la pista.
+
+– Normativa de saque.
+
+– Criterio sobre el contacto ilegal.
+
+– Criterio de cilindro.
+
+– Jugador con balón.
+
+– Jugador sin balón.
+
+– Faltas en ataque.
+
+– Infracción por levantamiento.
+
+– Infracción por alteraciones en el material de juego.
+
+– Principios del diseño de práctica inclusiva.
+
+– Adaptación de reglas y normas.
+
+– Criterio de participación conjunta.
+
+2\. Valora las habilidades de desplazamiento del jugador en silla de ruedas, identificando las características del desplazamiento sin balón y con balón, aplicando técnicas de evaluación y corrección de las tareas.
+
+– Desplazamientos con la silla de ruedas.
+
+– Técnica de impulso.
+
+– Simétrico.
+
+– Asimétrico.
+
+– Agarre.
+
+– Dirección del movimiento.
+
+– Frontal/Retroceso.
+
+– Acelerar/Frenar.
+
+– Giro en el sitio/Giro con avance.
+
+– Combinación de los diferentes movimientos.
+
+– Actividades lúdicas en el manejo de la silla de ruedas.
+
+– Desplazamiento con balón.
+
+– Aproximación y recogida lateral del balón desde el suelo.
+
+– Avance con balón.
+
+– Avance con balón sobre el regazo.
+
+– Avance botando el balón.
+
+– Avance de velocidad con bote largo.
+
+– Salida desde parado con balón.
+
+– Salida con bote largo.
+
+– Salida con bote corto.
+
+– Giro o pivote con posesión del balón.
+
+– Frenar con control de balón.
+
+– Actividades lúdicas en el manejo de la silla de ruedas con control de balón.
+
+– Metodología para la práctica en actividades inclusivas de desplazamientos.
+
+– Organización del espacio, material y tiempo.
+
+– Distribución de grupos.
+
+– Adaptaciones de normas para la práctica de baloncesto inclusivo.
+
+– Regulación del número de pases.
+
+– Regulación del tipo de defensa permitida.
+
+– Limitación de movimientos.
+
+– Modificación de la puntuación de cada canasta.
+
+3\. Valora las habilidades de pase, lanzamiento y defensa individual, describiendo los diferentes patrones técnicos y aplicando técnicas de evaluación y corrección de las tareas.
+
+– Tipos de Pase.
+
+– Pecho.
+
+– Picado.
+
+– Una mano.
+
+– Béisbol.
+
+– Por la espalda.
+
+– Fundamentos del pase y recepción.
+
+– Orientación de la silla.
+
+– Adecuación del pase a las características del compañero.
+
+– Anticipación del avance del compañero.
+
+– Decisión del tipo de pase en función de la defensa.
+
+– Recepción con una mano.
+
+– Finta de pase.
+
+– Lanzamiento estático.
+
+– Orientación de la silla.
+
+– Posición del cuerpo.
+
+– Posición del hombro-codo-muñeca y agarre del balón.
+
+– Adaptación del lanzamiento a las capacidades de movimiento del jugador.
+
+– Lanzamiento dinámico.
+
+– Entrada a canasta.
+
+– Orientación de la silla.
+
+– Lanzamiento desde arriba.
+
+– Lanzamiento a una mano desde abajo (Bandeja).
+
+– Aro pasado.
+
+– Lanzamiento a dos manos con efecto del balón.
+
+– Lanzamiento en desplazamiento frontal.
+
+– Lanzamiento en desplazamiento hacia atrás.
+
+– Lanzamiento a una mano sobre una rueda.
+
+– Defensa individual.
+
+– Posición y orientación de la silla de juego respecto del defensor.
+
+– Fundamentos de los movimientos de la silla en defensa individual.
+
+– Defensa del tiro.
+
+– Actividades lúdicas de aprendizaje de las habilidades de pase, lanzamiento y defensa individual.
+
+– Metodología para la práctica en actividades inclusivas de las habilidades de pase, lanzamiento y defensa individual.
+
+– Organización del espacio, material y tiempo.
+
+– Distribución de grupos.
+
+4\. Valora e inicia al jugador en los fundamentos tácticos ofensivos y defensivos del baloncesto en silla de ruedas, diseñando y aplicando actividades de aprendizaje de estos fundamentos, realizando las correcciones pertinentes de acuerdo al momento de aprendizaje del jugador.
+
+– Principios tácticos propios del baloncesto en silla de ruedas derivados de la ocupación de espacios y la superioridad a partir de la clase funcional.
+
+– Man Out (Hombre fuera).
+
+– Mismatch (Ventaja de un punto alto frente a un punto bajo).
+
+– Fundamentos del bloqueo.
+
+– Posición de la silla en el bloqueo.
+
+– Tipos de bloqueo.
+
+– Según el control del balón.
+
+– Directo.
+
+– Indirecto.
+
+– Según la dirección.
+
+– Vertical.
+
+– Horizontal.
+
+– Diagonal.
+
+– Específicos del baloncesto en silla de ruedas: El tren.
+
+– Pantalla y doble pantalla.
+
+– Fundamentos defensivos.
+
+– Principios de la defensa en línea.
+
+– Principios de la defensa en zona y sus variantes.
+
+– Cambio defensivo sencillo y triple switch.
+
+– Comunicación defensiva.
+
+> Se numera este módulo como Anexo III.k por el art. 8.8.l) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.l — Módulo de enseñanza deportiva: Formación práctica
+
+Código: MED-BCBC206
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica la estructura organizativa y el funcionamiento del centro deportivo de prácticas (club, federación, escuela, empresa,…), relacionándola a su oferta de actividades de competición, especialización, tecnificación deportiva, perfeccionamiento técnico de baloncesto y las actividades de gestión del mismo, y aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a) Se ha identificado las relaciones del centro deportivo de prácticas con la federación española de baloncesto.
+
+b) Se ha identificado la estructura organizativa y el funcionamiento de las distintas áreas del centro deportivo de prácticas.
+
+c) Se han identificado las relaciones jerárquicas dentro del centro deportivo de prácticas.
+
+d) Se ha identificado la oferta de actividades vinculadas a la tecnificación deportiva, el perfeccionamiento técnico y la competición en baloncesto.
+
+e) Se han identificado las vías de financiación económica utilizadas por el centro deportivo de prácticas.
+
+f) Se ha distinguido la oferta de actividades orientada a la especialización, tecnificación deportivo o perfeccionamiento técnico de baloncesto en las mujeres.
+
+g) Se ha mantenido una actitud clara de respeto a las instalaciones en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+2\. Actúa con autonomía, iniciativa y responsabilidad en el puesto de trabajo, demostrando comportamiento ético, habilidades personales de comunicación, trabajo en equipo, respeto por las instalaciones, y aplicando los procedimientos establecidos por el centro deportivo de prácticas.
+
+a) Se han identificado los requerimientos actitudinales del puesto de trabajo.
+
+b) Se han interpretado y cumplido las instrucciones recibidas, y responsabilizado del trabajo asignado.
+
+c) Se ha demostrado compromiso con el trabajo bien hecho y la calidad del servicio, así como respeto a los procedimientos y principios propios del club o entidad deportiva.
+
+d) Se ha demostrado capacidad de trabajo en equipo y respeto a la jerarquía establecida en el club o entidad deportiva.
+
+e) Se han establecido una comunicación y relación eficaz con el técnico responsable de la actividad y los miembros del equipo, manteniendo un trato fluido y correcto.
+
+f) Se ha coordinado con el resto del equipo técnico, informando de cualquier cambio, necesidad relevante o imprevisto que se presente en la actividad.
+
+g) Se han valorado los comportamientos de otros técnicos del centro de prácticas, identificando aquellos más beneficiosos para la marcha de la actividad deportiva.
+
+3\. Controla la seguridad en la práctica de tecnificación deportiva en baloncesto, supervisando las instalaciones y medios utilizados, interpretando la normativa y aplicando los procedimientos y protocolos de acuerdo con la normativa e instrucciones establecidas.
+
+a) Se han identificado los aspectos básicos de seguridad, plantes de emergencia y evacuación de las instalaciones deportivas del centro de prácticas y su adecuación a su normativa de aplicación.
+
+b) Se han identificado las normas de aplicación a la seguridad de las instalaciones deportivas del centro deportivo de prácticas de baloncesto.
+
+c) Se han aplicado medidas de señalización de seguridad, de protección contra actos antisociales y de violencia del deporte y los planes de emergencia y evacuación de la instalación deportiva de baloncesto, siguiendo las instrucciones y normas establecidas.
+
+d) Se ha actuado atendiendo a la seguridad personal, del equipo de trabajo y de los usuarios, cumpliendo con la normativa vigente y con los protocolos establecidos en el centro deportivo de prácticas.
+
+e) Se han aplicado/utilizado los equipos de prevención de riesgos laborales propios de la tecnificación deportiva en baloncesto.
+
+f) Se han aplicado los aspectos fundamentales de la Ley de Prevención de Riesgos Laborales, relacionados con las actividades, competiciones y eventos de la iniciación deportiva en baloncesto.
+
+g) Se han identificado y aplicado las medidas de protección de la instalación deportiva de baloncesto y su adecuación a la normativa vigente.
+
+h) Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+i) Se han aplicado las medidas de seguridad respecto a la vestimenta y calzado de los deportistas para la práctica segura de baloncesto.
+
+j) Se han supervisado el adecuado estado de las canastas y de la cancha de baloncesto para facilitar la segura práctica de baloncesto.
+
+4\. Organiza, acompaña y dirige a los deportistas en su participación en actividades, competiciones y otros eventos de tecnificación deportiva en baloncesto, transmitiendo actitudes y valores, personales y sociales, propios de la ética deportiva: respeto a los demás, al entorno y al propio cuerpo, juego limpio y trabajo en equipo.
+
+a) Se ha realizado la inscripción del equipo en una competición de tecnificación deportiva en baloncesto, de acuerdo con los protocolos y normas establecidos.
+
+b) Se han realizado las operaciones de gestión del seguro de accidente y actividad de un equipo de baloncesto que participan en una competición, de acuerdo con las instrucciones y normas recibidas.
+
+c) Se ha reconocido y justificado la responsabilidad de un técnico en los desplazamientos de los jugadores de un equipo para asistir a una competición.
+
+d) Se ha elaborado el plan de viaje de un equipo de baloncesto que participa en una competición de tecnificación deportiva, aplicando las instrucciones y procedimientos establecidos.
+
+e) Se ha comprobado la cobertura legal del equipo de baloncesto, durante su participación en la competición, de acuerdo con la normativa establecida.
+
+f) Se ha informado al equipo de baloncesto de las características de la competición, interpretando la documentación sobre la misma.
+
+g) Se han aplicado procedimientos de reclamación en una competición de tecnificación deportiva en baloncesto, aplicando los protocolos y normas establecidos.
+
+h) Se han aplicado criterios de valoración de la ejecución técnico-táctica del jugador de baloncesto, utilizando técnicas y procedimientos de observación adecuadas al nivel de tecnificación deportiva.
+
+i) Se han trasladado a los jugadores las instrucciones técnicas y tácticas durante la competición de tecnificación deportiva, teniendo en cuenta las características de la competición y del jugador de baloncesto.
+
+j) Se ha acompañado a los deportistas en las competiciones, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
+
+k) Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de tecnificación deportiva en baloncesto, aplicando los procedimientos adecuados y respetando las normas de la misma.
+
+5\. Adapta y concreta los programas y, dirige las sesiones de entrenamiento básico y perfeccionamiento técnico en baloncesto, interpretando la información recibida, aplicando las técnicas y procedimientos de acuerdo con las instrucciones y normas establecidas, y colaborando en la aplicación de técnicas de detección de talentos.
+
+a) Se han identificado y seleccionado los medios y recursos necesarios para el desarrollo de la actividad.
+
+b) Se ha recibido al jugador siguiendo el protocolo establecido e identificando sus demandas y necesidades.
+
+c) Se han aplicado técnicas y protocolos de valoración técnica y de la condición motriz propios del jugador del nivel de tecnificación deportiva en baloncesto, valorando su estado inicial, el grado de consecución de los objetivos propuestos y los errores cometidos.
+
+d) Se ha identificado y seleccionado los objetivos técnicos y de preparación de la condición motriz del jugador de baloncesto a partir de la programación de referencia del centro deportivo.
+
+e) Se han aplicado protocolos de control y cuantificación de la carga de entrenamiento de un jugador o de un equipo de baloncesto en las sesiones de entrenamiento básico y perfeccionamiento técnico en baloncesto.
+
+f) Se han colaborado en la aplicación de técnicas de detección del talento propias de baloncesto.
+
+g) Se han establecido las condiciones de seguridad necesarias, en la tecnificación deportiva, interpretando las instrucciones o normas y aplicando los procedimientos establecidos.
+
+h) Se ha elaborado un ciclo/etapa de preparación completa de un jugador o de un equipo a partir de la programación de referencia del centro deportivo, concretando:
+
+a. Objetivos de preparación y/o competición.
+
+b. Medios de entrenamiento.
+
+c. Instrumentos de control.
+
+d. Carga de trabajo y su dinámica durante el ciclo.
+
+e. Métodos de entrenamiento.
+
+f. Sesiones de entrenamiento.
+
+Y adecuándose a las características del jugador o del equipo de baloncesto, y los medios entrenamiento existentes.
+
+i) Se han explicado los contenidos de la sesión de entrenamiento básico y perfeccionamiento técnico en baloncesto siguiendo los protocolos y técnicas establecidas de forma clara y motivadora.
+
+j) Se ha dirigido la sesión de entrenamiento básico y perfeccionamiento técnico, solucionando las contingencias existentes, aplicando técnicas de dinámica de grupos y de motivación adecuadas al jugador y al equipo de baloncesto.
+
+k) Se ha valorado el esfuerzo de los jugadores durante la sesión de entrenamiento, y la importancia del trabajo bien hecho para lograr cumplir los objetivos de los programas o sesiones de entrenamiento básico y perfeccionamiento técnico en baloncesto.
+
+6\. Organiza sesiones de iniciación deportiva en baloncesto para personas con discapacidad, aplicando recursos que fomenten su participación en función de sus limitaciones.
+
+a) Se ha valorado la importancia de atender a las características únicas de la persona con discapacidad previamente a la realización de la práctica de baloncesto.
+
+b) Se ha orientado a las personas con discapacidad hacia las prácticas deportivas más adecuadas en cada caso.
+
+c) Se han determinado las ayudas técnicas y las medidas de seguridad específicas según los diferentes tipos de discapacidad y las características de la práctica deportiva de baloncesto.
+
+d) Se han establecido las principales orientaciones metodológicas en relación a la comunicación y la participación en la tarea de las personas con discapacidad.
+
+e) Se han aplicado procedimientos de adaptación/modificación de las tareas y juegos favoreciendo la participación, el disfrute y las posibilidades de éxito de personas con discapacidad en la práctica de baloncesto.
+
+f) Se han identificado las principales limitaciones hacia la práctica provocadas por la falta de accesibilidad en las instalaciones y espacios deportivos en el centro deportivo de prácticas.
+
+g) Se han examinado las limitaciones originadas por la falta de acceso a la información de la oferta deportiva de baloncesto y la difusión de la práctica en el centro deportivo de prácticas.
+
+h) Se ha propiciado una actitud positiva hacia la inclusión por parte de compañeros, técnicos, las propias familias y las instituciones hacia la práctica deportiva de baloncesto de personas con discapacidad.
+
+i) Se ha valorado la modalidad de baloncesto en silla de ruedas como deporte de extraordinaria integración de las discapacidades de tipo físico, y ejemplo para deportistas y otros deportes.
+
+7\. Coordina el proceso de iniciación deportiva en baloncesto, elaborando las programaciones de referencia, analizando la estructura de la escuela de iniciación deportiva, y aplicando los procedimientos y técnicas adecuadas.
+
+a) Se ha identificado la estructura y funciones de la escuela de iniciación deportiva en baloncesto en el centro deportivo de prácticas.
+
+b) Se han realizado funciones y aplicado protocolos de coordinación de los técnicos de iniciación deportiva en baloncesto en el centro deportivo de prácticas.
+
+c) Se han identificado las necesidades materiales y humanas de la escuela de iniciación deportiva en baloncesto del centro deportivo de prácticas.
+
+d) Se han identificado los estándares técnicos del programa de iniciación deportiva en baloncesto del centro deportivo de prácticas.
+
+e) Se ha elaborado un programa de iniciación deportiva en baloncesto de acuerdo con las características del grupo, del entorno, y la programación del centro deportivo de prácticas.
+
+8\. Colabora en la organización de actividades y competiciones de tecnificación deportiva en baloncesto, interpretando instrucciones y normas relacionadas, identificando y preparando los medios necesarios y aplicando los procedimientos establecidos.
+
+a) Se ha identificado el calendario de actividades, eventos y competiciones de iniciación o tecnificación deportiva en baloncesto del centro deportivo de prácticas.
+
+b) Se ha seleccionado la información necesaria en la organización de un evento o competición de iniciación o tecnificación deportiva en baloncesto del centro deportivo de prácticas.
+
+c) Se han realizado operaciones de gestión y organización de los espacios, materiales y recursos humanos de un evento o competición de iniciación o tecnificación deportiva en baloncesto del centro deportivo de prácticas.
+
+d) Se han aplicado técnicas de recogida de información sobre los aspectos organizativos y logísticos de un evento o competición de iniciación o tecnificación deportiva en baloncesto del centro deportivo de prácticas.
+
+e) Se han realizado operaciones de distribución, ubicación, alojamiento y circulación de los participantes y público asistente en un evento o competición de iniciación o tecnificación deportivo en baloncesto del centro deportivo de prácticas.
+
+f) Se han realizado operaciones de apoyo administrativo a la organización de un evento o competición de iniciación o tecnificación deportivo en baloncesto del centro deportivo de prácticas.
+
+g) Se han elaborado los documentos informativos de un evento o competición de iniciación o tecnificación deportivo en baloncesto del centro deportivo de prácticas.
+
+h) Se ha justificado la importancia del trabajo previo en la organización de eventos o competiciones de iniciación o tecnificación deportiva en baloncesto.
+
+i) Se ha valorado la organización de un evento o competición de baloncesto durante y al final de la misma según los elementos analizados.
+
+> Se numera este módulo como Anexo III.l por el art. 8.8.m) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO IV — Ratio profesor/alumno
+
+|  | Ratio profesor/alumno |
+|---|---|
+| *Bloque específico ciclo inicial* |  |
+| MED-BCBC102 Formación del jugador en etapas iniciales. | 1/30 |
+| MED-BCBC103 Dirección de equipos en etapas iniciales. | 1/30 |
+| MED-BCBC104 Enseñanza del baloncesto. | 1/30 |
+| MED-BCBC105 Táctica de ataque y defensa en etapas iniciales. | 1/30 |
+| *Bloque específico ciclo final* |  |
+| MED-BCBC201 Formación del jugador en la etapa de tecnificación. | 1/30 |
+| MED-BCBC202 Dirección de equipos en la etapa de tecnificación. | 1/30 |
+| MED-BCBC203 Entrenamiento en baloncesto. | 1/30 |
+| BCBC-204 Táctica de ataque y defensa en la etapa de tecnificación. | 1/30 |
+| MED-BCBC205 Iniciación en baloncesto en silla de ruedas. | 1/30 |
+
+## ANEXO V — Acceso módulo formación práctica
+
+| Acceso módulo formación práctica | Módulos a superar |
+|---|---|
+| MED-BCBC106 Formación práctica. | Del bloque común del ciclo inicial:<br>MED-C101 Bases del comportamiento deportivo.<br>MED-C102 Primeros auxilios.<br>Del bloque específico:<br>MED-BCBC102 Formación del jugador en etapas iniciales.<br>BCBC-103 Enseñanza del baloncesto. |
+| MED-BCBC206 Formación práctica. | Del bloque común del ciclo final:<br>MED-C201 Bases del aprendizaje deportivo.<br>MED-C202 Bases del entrenamiento deportivo.<br>Del bloque específico:<br>MED-BCBC201 Formación del jugador en la etapa de tecnificación.<br>MED-BCBC203 Entrenamiento en baloncesto. |
+
+## ANEXO VI-A — Espacios y equipamientos mínimos del ciclo inicial
+
+Espacios: Ciclo inicial
+
+| Espacio formativo | Superficie m2<br>30 alumnos | Superficie m2<br>20 alumnos | Módulo de enseñanza deportiva |
+|---|---|---|---|
+| Aula polivalente. | 60 m2 | 40 m2 | Módulos de enseñanza deportiva de los bloques común y específico del ciclo inicial. |
+| Gimnasio. | 120 m2 | 90 m2 | MED-C101. Bases del comportamiento deportivo.<br>MED-C102. Primeros auxilios.<br>MED-C105: Actividad físico-deportiva para personas con discapacidad. |
+
+| Espacio formativo | Módulo de enseñanza deportiva |
+|---|---|
+| Pista de baloncesto. | MED-BCBC102 Formación del jugador en etapas iniciales.<br>MED-BCBC103 Dirección de equipos en etapas iniciales.<br>MED-BCBC104 Enseñanza del baloncesto.<br>MED-BCBC105 Táctica de ataque y defensa en etapas iniciales. |
+
+Equipamientos: Ciclo inicial
+
+| Equipamiento del aula polivalente | Módulo de enseñanza deportiva |
+|---|---|
+| – Equipos audiovisuales. Cañón de proyección.<br>– PCs instalados en red con conexión a Internet.<br>– Software específico. | Módulos de enseñanza deportiva de los bloques común y específico del ciclo inicial. |
+
+| Equipamiento del gimnasio | Módulo de enseñanza deportiva |
+|---|---|
+| – Maniquíes de primeros auxilios (adulto y bebé).<br>– Material de inmovilización y movilización.<br>– Material de cura.<br>– Desfibrilador externo semiautomático. | MED-C102. Primeros auxilios. |
+| – Material deportivo adaptado. | MED-C105: Actividad físico-deportiva para personas con discapacidad. |
+
+| Equipamiento de la Pista de baloncesto | Módulo de enseñanza deportiva |
+|---|---|
+| – Canasta de baloncesto.<br>– Balón de baloncesto.<br>– Material señalizador. | MED-BCBC102 Formación del jugador en etapas iniciales.<br>MED-BCBC103 Dirección de equipos en etapas iniciales.<br>BCBC-103 Enseñanza del baloncesto.<br>MED-BCBC105 Táctica de ataque y defensa en etapas iniciales. |
+
+> Se modifica por el art. 8.4 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO VI-B — Espacios y equipamientos del ciclo final
+
+Espacios: Ciclo final
+
+| Espacio formativo | Superficie m2<br>30 alumnos | Superficie m2<br>20 alumnos | Módulo de enseñanza deportiva |
+|---|---|---|---|
+| Aula polivalente o salón de actos. | 60 m2 | 40 m2 | Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo final. |
+| Gimnasio. | 120 m2 | 90 m2 | MED-C201 Bases del aprendizaje deportivo.<br>MED-C202 Bases del entrenamiento deportivo.<br>MED-C203 Deporte adaptado y discapacidad. |
+| Pista polideportiva.<br>44 x 22 mts. |  |  | MED-C201 Bases del aprendizaje deportivo.<br>MED-C202 Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad. |
+
+| Espacio de formación | Módulo de enseñanza deportiva |
+|---|---|
+| Pista de baloncesto. | MED-BCBC201 Formación del jugador en la etapa de tecnificación.<br>MED-BCBC202 Dirección de equipos en la etapa de tecnificación.<br>MED-BCBC203 Entrenamiento en baloncesto.<br>MED-BCBC204 Táctica de ataque y defensa en la etapa de tecnificación.<br>MED-BCBC205 Iniciación en baloncesto en silla de ruedas. |
+
+Equipamientos: Ciclo final
+
+| Equipamiento del aula polivalente | Módulo de enseñanza deportiva |
+|---|---|
+| – Equipos audiovisuales. Cañón de proyección.<br>– PCs instalados en red con conexión a Internet.<br>– Software específico. | Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo final. |
+
+| Equipamiento del gimnasio | Módulo de enseñanza deportiva |
+|---|---|
+| – Material deportivo adaptado.<br>– Material ortopédico. | MED-C206: Iniciación deportiva para personas con discapacidad. |
+| – Material deportivo.<br>– Muñecos desmembrados.<br>– Láminas de anatomía.<br>– Pulsímetros. | MED-C202: Bases del entrenamiento deportivo. |
+
+| Equipamiento de la pista de baloncesto | Módulo de enseñanza deportiva |
+|---|---|
+| – Canasta de baloncesto.<br>– Balón de baloncesto.<br>– Material señalizador. | MED-BCBC201 Formación del jugador en la etapa de tecnificación.<br>MED-BCBC202 Dirección de equipos en la etapa de tecnificación.<br>MED-BCBC203 Entrenamiento en baloncesto.<br>MED-BCBC204 Táctica de ataque y defensa en la etapa de tecnificación.<br>MED-BCBC205 Iniciación en baloncesto en silla de ruedas. |
+
+> Se modifica por el art. 8.5 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO VII — Prueba RAE-BCBC101, de carácter específico para el acceso a las enseñanzas de ciclo inicial de grado medio en baloncesto
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica las habilidades técnicas ofensivas y defensivas más relevantes del jugador de baloncesto en las etapas iniciales, utilizando la terminología establecida.
+
+a) Se han identificado y nombrado cinco de las siete habilidades técnicas ofensivas presentadas.
+
+b) Se han nombrado, utilizando la terminología establecida, diez de las trece habilidades técnicas ofensivas presentadas:
+
+– Tiro libre.
+
+– Tiro en suspensión.
+
+– Entrada a canasta.
+
+– Mate.
+
+– Dribling o bote.
+
+– Cambio de dirección.
+
+– Bloqueo.
+
+– Rebote.
+
+– Posición de triple amenaza.
+
+– Pivote.
+
+– Pase picado.
+
+– Pase de pecho.
+
+– Pase a una mano o pase de béisbol.
+
+c) Se han nombrado, utilizando la terminología establecida, tres de las cuatro habilidades técnicas defensivas presentadas:
+
+– Posición defensiva básica.
+
+– Bloqueo de rebote.
+
+– Defensa de lado de ayuda o lado débil.
+
+– Rebote defensivo.
+
+PRUEBA ASOCIADA «HABILIDADES TÉCNICAS OFENSIVAS Y DEFENSIVAS DEL JUGADOR».
+
+Al alumno se le presenta imágenes de las acciones técnicas ofensivas y defensivas establecidas en los criterios de evaluación.
+
+El formato de presentación puede ser imagen fija o en movimiento.
+
+La respuesta a las cuestiones puede realizarse de forma oral o escrita.
+
+2\. Identifica las situaciones tácticas ofensivas y defensivas más relevantes en un equipo de baloncesto en las etapas iniciales, utilizando la terminología establecida.
+
+a) Se han identificado y nombrado cuatro de las seis acciones de juego colectivo defensivo y ofensivo presentadas.
+
+b) Se han nombrado, utilizando la terminología establecida dos de las tres de la acciones de juego colectivo defensivo presentadas:
+
+– Defensa en zona.
+
+– Balance defensivo.
+
+– Defensa individual.
+
+c) Se han nombrado, utilizando la terminología establecida dos de las tres acciones de juego colectivo ofensivo presentadas:
+
+– Contraataque.
+
+– Ataque contra defensa individual.
+
+– Ataque contra defensa de zona.
+
+PRUEBA ASOCIADA «JUEGO COLECTIVO».
+
+Al alumno se le presenta una secuencia de juego colectivo en el que estén presentes las acciones de juego colectivo defensivo y ofensivo establecidas en los criterios de evaluación.
+
+El formato de presentación debe ser una imagen de video.
+
+La respuesta a las cuestiones puede realizarse de forma oral o escrita.
+
+3\. Identifica las reglas más importantes del baloncesto en las etapas iniciales, identificando los gestos arbitrales relacionadas con ellas, y describiendo las sanciones más usuales:
+
+a) Se han identificado y nombrado utilizando la terminológica establecida en la totalidad de las infracciones en baloncesto presentadas:
+
+– Falta personal.
+
+– Dobles.
+
+– Pasos.
+
+b) Se han identificado y descrito cinco de las seis de las sanciones indicadas por los gestos del árbitro en las siguientes situaciones:
+
+– Tiempo muerto.
+
+– Cambio.
+
+– Señalización de dos tiros libres.
+
+– Señalización de triple.
+
+– Canasta o tiro libre anotado.
+
+– Falta personal.
+
+– Dobles.
+
+– Pasos.
+
+– Falta Técnica.
+
+c) Se han descrito la totalidad de las sanciones que corresponden a las siguientes infracciones del reglamento:
+
+– Tras falta personal.
+
+– Tras dobles o pasos.
+
+d) Se han descrito las principales adaptaciones que respecto del baloncesto, tienen el minibasket y el Infantil pasarela.
+
+PRUEBA ASOCIADA «REGLAMENTO DE JUEGO».
+
+Al alumno se le presenta una secuencia de juego en un partido de baloncesto en etapas iniciales donde aparecen las infracciones y los gestos arbitrales establecidos en los criterios de evaluación.
+
+El formato de presentación debe ser una imagen de video.
+
+La respuesta a las cuestiones puede realizarse de forma oral o escrita.
+
+Condiciones básicas de realización de la prueba de carácter específico: Espacios y equipamientos
+
+Espacios:
+
+– Aula o pista polideportiva.
+
+– Material audiovisual: imagen fija y video.
+
+## ANEXO VIII — Requisitos de titulación del profesorado de los módulos del bloque común de los ciclos inicial y final de grado medio, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad que a continuación se detalla:
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="3">
+<em>Ciclo inicial</em>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C101. Bases del comportamiento deportivo.</td>
+<td class="cuerpo_tabla_izq">Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-C102. Primeros auxilios.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Educación Física.</p>
+<p class="cuerpo_tabla_izq">Procesos sanitarios.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Procedimientos sanitarios y asistenciales.</td>
+<td class="cuerpo_tabla_izq">– Profesores Técnicos de Formación Profesional.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C104. Organización deportiva.</td>
+<td class="cuerpo_tabla_izq">Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td class="cuerpo_tabla_izq">Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="3">
+<em>Ciclo final</em>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C201. Bases del aprendizaje deportivo.</td>
+<td class="cuerpo_tabla_izq">Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C202. Bases del entrenamiento deportivo.</td>
+<td class="cuerpo_tabla_izq">Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C204. Organización y legislación deportiva.</td>
+<td class="cuerpo_tabla_izq">Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C205. Deporte y género.</td>
+<td class="cuerpo_tabla_izq">Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad</td>
+<td class="cuerpo_tabla_izq">Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica por el art. 8.4 a 6 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO IX-A — Requisitos de titulación del profesorado de los módulos del bloque específico de los ciclos inicial y final de grado medio, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<p class="cabeza_tabla">Ciclo inicial</p>
+</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">MED-BCBC102 Formación del jugador en etapas iniciales.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC103 Dirección de equipos en etapas iniciales.</p>
+<p class="cuerpo_tabla_izq">BCBC-103 Enseñanza del baloncesto.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC105 Táctica de ataque y defensa en etapas iniciales.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC106 Formación práctica.</p>
+</td>
+<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Baloncesto.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<p class="cabeza_tabla">Ciclo final</p>
+</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">MED-BCBC201 Formación del jugador en la etapa de tecnificación.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC202 Dirección de equipos en la etapa de tecnificación.</p>
+<p class="cuerpo_tabla_izq">BCBC-203 Entrenamiento en baloncesto.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC204 Táctica de ataque y defensa en la etapa de tecnificación.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC205 Iniciación en baloncesto en silla de ruedas.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC206 Formación práctica.</p>
+</td>
+<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Baloncesto.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO IX-B — Condición de Profesor especialista en centros públicos de la Administración educativa: acreditación de experiencia docente, o actividad en el ámbito deportivo y laboral
+
+Ciclo inicial y final
+
+| Módulos enseñanza deportiva | Experiencia docente acreditable | Actividad en el ámbito deportivo y laboral |
+|---|---|---|
+| MED-BCBC102 Formación del jugador en etapas iniciales.<br>MED-BCBC103 Dirección de equipos en etapas iniciales.<br>BCBC-103 Enseñanza del baloncesto.<br>MED-BCBC105 Táctica de ataque y defensa en etapas iniciales.<br>MED-BCBC106 Formación práctica.<br>MED-BCBC201 Formación del jugador en la etapa de tecnificación.<br>MED-BCBC202 Dirección de equipos en la etapa de tecnificación.<br>BCBC-203 Entrenamiento en baloncesto.<br>MED-BCBC204 Táctica de ataque y defensa en la etapa de tecnificación.<br>MED-BCBC205 Iniciación en baloncesto en silla de ruedas.<br>MED-BCBC206 Formación práctica. | Al menos 100 horas de docencia acreditada en formación de entrenadores en el nivel 1, 2 o 3 de baloncesto en las formaciones a las que se refiere la disposición adicional quinta y la disposición transitoria primera del Real 1913/1997, de 19 de diciembre. | Al menos 2 años de ejercicio deportivo-laboral relacionado con las competencias profesionales del ciclo inicial, final o superior realizado en los 4 años inmediatamente anteriores al nombramiento. |
+
+En el caso de las formación a las que se refiere la adicional quinta del Real Decreto 1363/2007, la Federación Española de Baloncesto, emitirá la correspondiente certificación de la experiencia docente en la que conste: las materias impartidas, el número de horas impartidas, la fecha del curso en el que se impartió la materia o materias, y la fecha de la resolución de reconocimiento de la formación por parte del Consejo Superior de Deportes junto con la fecha de publicación en el BOE.
+
+En el caso de las formaciones a las que se refiere la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, el órgano competente de la Comunidad Autónoma que autorizó las formaciones emitirá la correspondiente certificación de la experiencia docente en la que consten las materias y el número de horas impartidas.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+La Federación Española de Baloncesto emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+## ANEXO X — Los requisitos de titulación del profesorado en centros privados y de titularidad pública de administraciones distintas de la educativa
+
+Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
+
+Módulos del bloque común: ciclo inicial y final
+
+| Módulo comunes de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED-C101. Bases del comportamiento deportivo. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>– Licenciado o Graduado en Psicología.<br>– Maestro especialista en Educación Física.<br>– Título de Graduado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
+| MED-C102. Primeros auxilios. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>– Licenciado o Graduado en Medicina.<br>– Diplomado o Graduado en Enfermería.<br>– Diplomado o Graduado en Fisioterapia. |
+| MED-C104. Organización deportiva. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
+| MED-C105: Actividad físico-deportiva para personas con discapacidad. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>– Maestro especialista en Educación Física.<br>– Graduado en Educación Primaria mención de Educación Física. |
+
+| Módulo comunes de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED-C201. Bases del aprendizaje deportivo. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>– Licenciado o Graduado en Psicología.<br>– Maestro especialista en Educación Física.<br>– Título de Graduado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
+| MED-C202. Bases del entrenamiento deportivo. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
+| MED-C204. Organización y legislación deportiva. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>– Licenciado o Graduado en Derecho. |
+| MED-C205. Deporte y género. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>– Maestro especialista en Educación Física.<br>– Graduado en Educación Primaria mención de Educación Física. |
+| MED-C206: Iniciación deportiva para personas con discapacidad. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
+
+Módulos del bloque específico: ciclo inicial y final
+
+| Módulo específico de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED-BCBC102 Formación del jugador en etapas iniciales.<br>MED-BCBC103 Dirección de equipos en etapas iniciales.<br>MED-BCBC104 Enseñanza del baloncesto.<br>MED-BCBC105 Táctica de ataque y defensa en etapas iniciales. | – Técnico Deportivo Superior en Baloncesto. |
+| MED-BCBC106 Formación práctica. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>– Técnico Deportivo Superior en Baloncesto. |
+
+| Módulo específico de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED-BCBC201 Formación del jugador en la etapa de tecnificación.<br>MED-BCBC202 Dirección de equipos en la etapa de tecnificación.<br>MED-BCBC203 Entrenamiento en baloncesto.<br>MED-BCBC204 Táctica de ataque y defensa en la etapa de tecnificación.<br>MED-BCBC205 Iniciación en baloncesto en silla de ruedas. | – Técnico Deportivo Superior en Baloncesto. |
+| MED-BCBC206 Formación práctica. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>– Técnico Deportivo Superior en Baloncesto. |
+
+> Se modifica por el art. 8.4 a 6 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO XI-A — Correspondencia de los módulos de enseñanza deportiva con las unidades de competencia para su acreditación
+
+| Módulos de Enseñanza Deportiva Superados | Unidades de Competencia del CNCP Acreditables |
+|---|---|
+| Los módulos de:<br>– MED-C102 Primeros auxilios.<br>– MED-BCBC106 Formación práctica. | Acreditan la Unidad de competencia:<br>UC0272_2_R: Asistir como primer interviniente en caso de accidente o situación de emergencia. |
+
+## ANEXO XI-B — Correspondencia de las unidades de competencia acreditadas con los módulos de enseñanza deportiva para su convalidación
+
+| Unidades de Competencia del CNCP Acreditadas | Módulos de Enseñanza Deportiva Convalidables |
+|---|---|
+| La Unidad de competencia:<br>– UC0272_2_R: Asistir como primer interviniente en caso de accidente o situación de emergencia. | Permiten la convalidación de:<br>– MED-C102: Primeros auxilios. |
+
+## ANEXO XII — Convalidaciones entre módulos de enseñanza deportiva establecidos al amparo de la Ley Orgánica 1/1990 y los módulos de enseñanza deportiva del bloque específico del técnico deportivo en baloncesto
+
+| Módulos superados del primer nivel del título de Técnico Deportivo en Baloncesto LOGSE (RD 234/2005, de 4 de marzo). | Módulos convalidados del ciclo inicial de grado medio de baloncesto. |
+|---|---|
+| – Acciones técnico-tácticas individuales y colectivas del juego. | MED-BCBC102 Formación del jugador en etapas iniciales.<br>MED-BCBC105 Táctica de ataque y defensa en etapas iniciales. |
+| – Dirección de equipos.<br>– Reglas de juego. | MED-BCBC103 Dirección de equipos en etapas iniciales. |
+| – Metodología de la enseñanza y del entrenamiento de baloncesto.<br>– Planificación y evaluación del entrenamiento en baloncesto.<br>– Preparación física aplicada.<br>– Seguridad deportiva. | BCBC-103 Enseñanza del baloncesto. |
+| – Módulo de Formación práctica. | MED-BCBC106 Formación práctica. |
+
+| Módulos superados del segundo nivel del título de Técnico Deportivo en Baloncesto LOGSE (RD 234/2005, de 4 de marzo) | Módulos convalidados del ciclo final de grado medio de baloncesto |
+|---|---|
+| – Acciones técnico-tácticas individuales del juego II.<br>– Detección y selección de talentos. | MED-BCBC201 Formación del jugador en la etapa de tecnificación. |
+| – Reglas de juego.<br>– Dirección de equipos.<br>– Dirección de partido.<br>– Observación del juego. | MED-BCBC202 Dirección de equipos en la etapa de tecnificación. |
+| – Metodología de la enseñanza y del entrenamiento de baloncesto.<br>– Planificación y evaluación del entrenamiento en baloncesto.<br>– Preparación física aplicada.<br>– Psicología aplicada. | MED-BCBC203 Entrenamiento en baloncesto. |
+| – Acciones técnico-tácticas colectivas del juego II.<br>– Sistemas de juego. | MED-BCBC204 Táctica de ataque y defensa en la etapa de tecnificación. |
+| Módulo de Formación práctica. | MED-BCBC206 Formación práctica. |
+
+## ANEXO XIII — Exención total o parcial del módulo de formación práctica de los ciclos inicial y final
+
+| MED-BCBC106<br>Formación práctica | Experiencia ámbito laboral o deportivo |
+|---|---|
+| Exención total.<br>Exención parcial. | – Duración: superior a 300 horas.<br>– Actividad desarrollada: experiencia relacionada con la competencia general del ciclo inicial de grado medio en baloncesto y los resultados de aprendizaje del módulo de formación práctica.<br>– Periodo de tiempo que ha desarrollado la actividad: dos años anteriores a la finalización del curso. |
+
+La exención parcial del módulo de formación práctica, se concederá para aquellos resultados de aprendizaje del módulo, que sean concordantes con la experiencia laboral o deportiva acreditada.
+
+La exención total del módulo de formación práctica, se podrá conceder cuando exista una completa concordancia de la experiencia laboral o deportiva acreditada con la totalidad de los resultados de aprendizaje del correspondiente módulo.
+
+La Federación Española o autonómica de Baloncesto emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+| MED-BCBC206<br>Formación práctica | Experiencia ámbito laboral o deportivo |
+|---|---|
+| Exención total.<br>Exención parcial. | – Duración: superior a 400 horas.<br>– Actividad desarrollada: experiencia relacionada con la competencia general del ciclo final de grado medio en baloncesto y los resultados de aprendizaje del módulo de formación práctica.<br>– Periodo de tiempo que ha desarrollado la actividad: dos años anteriores a la finalización del curso. |
+
+La exención parcial del módulo de formación práctica, se concederá para aquellos resultados de aprendizaje del módulo, que sean concordantes con la experiencia laboral o deportiva acreditada.
+
+La exención total del módulo de formación práctica, se podrá conceder cuando exista una completa concordancia de la experiencia laboral o deportiva acreditada con la totalidad de los resultados de aprendizaje del correspondiente módulo.
+
+La Federación Española o autonómica de Baloncesto o aquellas entidades establecidas por las administraciones educativas competentes emitirán la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+## ANEXO XIV — Formación a distancia
+
+<table class="tabla" data-vertical-align="top">
+<caption>
+<p class="centro_cursiva">Grado medio</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">Módulos bloque común.</td>
+<td class="cuerpo_tabla_izq">Ciclo inicial.</td>
+<td class="cuerpo_tabla_izq">Ciclo final.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">MED-C101. Bases del comportamiento deportivo.</p>
+<p class="cuerpo_tabla_izq">MED-C102. Primeros auxilios.</p>
+<p class="cuerpo_tabla_izq">MED-C104. Organización deportiva.</p>
+<p class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">MED-C201 Bases del aprendizaje deportivo.</p>
+<p class="cuerpo_tabla_izq">MED-C202 Bases del entrenamiento deportivo.</p>
+<p class="cuerpo_tabla_izq">MED-C204 Organización y legislación deportiva.</p>
+<p class="cuerpo_tabla_izq">MED-C205. Deporte y género.</p>
+<p class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Módulos bloque específico.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">MED-BCBC102 Formación del jugador en etapas iniciales.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC103 Dirección de equipos en etapas iniciales.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC104 Enseñanza del baloncesto.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC105 Táctica de ataque y defensa en etapas iniciales.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">MED-BCBC201 Formación del jugador en la etapa de tecnificación.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC202 Dirección de equipos en la etapa de tecnificación.</p>
+<p class="cuerpo_tabla_izq">BCBC-203 Entrenamiento en baloncesto.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC204 Táctica de ataque y defensa en la etapa de tecnificación.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC205 Iniciación en baloncesto en silla de ruedas.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica por el art. 8.4 a 6 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)

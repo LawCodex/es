@@ -1,0 +1,205 @@
+---
+title: "Real Decreto 1851/2009, de 4 de diciembre, por el que se desarrolla el artículo 161 bis de la Ley General de la Seguridad Social en cuanto a la anticipación de la jubilación de los trabajadores con discapacidad en grado igual o superior al 45 por ciento"
+identifier: "BOE-A-2009-20652"
+eli: "https://www.boe.es/eli/es/rd/2009/12/04/1851"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo e Inmigración"
+date: 2009-12-04
+published: 2009-12-22
+in_force_from: 2010-01-01
+last_amended: 2026-07-30
+consolidated: 2026-07-30
+gazette: "Boletín Oficial del Estado núm. 307"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20652"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1851/2009, de 4 de diciembre, por el que se desarrolla el artículo 161 bis de la Ley General de la Seguridad Social en cuanto a la anticipación de la jubilación de los trabajadores con discapacidad en grado igual o superior al 45 por ciento
+
+Esta norma pasa a denominarse **"Real Decreto 1851/2009, de 4 de diciembre, por el que se desarrolla el texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, en cuanto a la anticipación de la jubilación de las personas trabajadoras con discapacidad en grado igual o superior al 45 por ciento"**, según establece el art. único.1 del Real Decreto 370/2023, de 16 de mayo. [Ref. BOE-A-2023-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11644)
+
+En el segundo párrafo del apartado 1 del artículo 161 bis del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, incorporado por la Ley 40/2007, de 4 de diciembre, de medidas en materia de Seguridad Social, se establece que la edad mínima de jubilación de 65 años podrá ser reducida en el caso de personas con discapacidad en un grado de discapacidad igual o superior al 45 por ciento, siempre que se trate de discapacidades reglamentariamente determinadas en las que concurran evidencias que determinan de forma generalizada y apreciable una reducción de la esperanza de vida de esas personas.
+
+La reducción de la edad de jubilación tiene su fundamento no sólo en el mayor esfuerzo y la penosidad que el desarrollo de una actividad profesional comporta para un trabajador con discapacidad, lo que ha posibilitado que conforme al Real Decreto 1539/2003, de 5 de diciembre, por el que se establecen coeficientes reductores de la edad de jubilación a favor de los trabajadores que acreditan un grado importante de minusvalía, ya estén establecidos coeficientes reductores de la edad de jubilación para los trabajadores que acrediten un grado de discapacidad igual o superior al 65 por ciento, sino, además, en la exigencia de que en las personas con discapacidad con respecto a las que se establezca la anticipación de la edad de jubilación concurran evidencias de reducción de su esperanza de vida. Ello hace que en este supuesto se haya estimado más adecuado el establecimiento de una edad fija de acceso a la jubilación anticipada en lugar de la fijación de coeficientes reductores de la edad de jubilación.
+
+Aunque el artículo 161 bis.1 del texto refundido de la Ley General de la Seguridad Social está incluido en el título II de este texto legal y, por tanto, es aplicable al Régimen General, sin embargo, la reducción de la edad de jubilación que se regula por medio de este real decreto se extiende a todos los regímenes que integran el sistema de la Seguridad Social, en aplicación de lo establecido en la disposición adicional octava del indicado texto refundido.
+
+En la elaboración de este real decreto se ha consultado al Comité Español de Representantes de Personas con Discapacidad y al Consejo Nacional de la Discapacidad.
+
+En su virtud, a propuesta del Ministro de Trabajo e Inmigración, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de diciembre de 2009,
+
+## DISPONGO:
+
+### Artículo 1. Ámbito de aplicación.
+
+Lo dispuesto en este real decreto se aplicará a las personas trabajadoras por cuenta ajena y por cuenta propia incluidas en cualquiera de los regímenes que integran el sistema de la Seguridad Social que acrediten que, a lo largo de su vida laboral, han trabajado un tiempo efectivo equivalente, al menos, al período mínimo de cotización que se exige para poder acceder a la pensión de jubilación, estando afectados durante ese tiempo por alguna de las patologías generadoras de discapacidad enumeradas en el anexo y dentro de ese período durante al menos cinco años con un grado de discapacidad igual o superior al 45 por ciento, motivado por las mismas patologías en los términos previstos en el artículo 5.3.
+
+> Se modifica por el art. único.2 del Real Decreto 370/2023, de 16 de mayo. [Ref. BOE-A-2023-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11644)
+
+### Artículo 2. Discapacidades que pueden dar lugar a la reducción de la edad de jubilación.
+
+A efectos de la aplicación de lo establecido en el artículo 206 bis.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre, en cuanto a la reducción de la edad de jubilación de las personas con discapacidad en un grado igual o superior al 45 por ciento, siempre que se trate de discapacidades en las que concurran evidencias contrastadas que determinen de forma generalizada y apreciable una reducción de la esperanza de vida, dichas discapacidades son las que se determinan en el anexo.
+
+> Se modifica por el art. único.3 del Real Decreto 370/2023, de 16 de mayo. [Ref. BOE-A-2023-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11644)
+
+> Se modifica la letra f) por la disposición final 2 del Real Decreto 1148/2011, de 29 de julio. [Ref. BOE-A-2011-13119](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13119)
+
+> Esta modificación surte efectos desde el 1 de enero de 2011, según establece la disposición final 6.
+
+### Artículo 3. Edad mínima de jubilación.
+
+La edad mínima de jubilación de las personas afectadas, en un grado igual o superior al 45 por ciento, por una discapacidad de las enumeradas en el artículo 2 será, excepcionalmente, la de cincuenta y seis años.
+
+> Se modifica por la disposición adicional 18 de la Ley 27/2011, de 1 de agosto. [Ref. BOE-A-2011-13242](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13242)
+
+### Artículo 4. Cómputo del tiempo trabajado.
+
+Para el cómputo del tiempo efectivo trabajado, a efectos de la aplicación de lo previsto en este real decreto, se descontarán todas las ausencias al trabajo, excepto las siguientes:
+
+a) Las que tengan por motivo la baja médica por enfermedad común o profesional, o accidente, sea o no de trabajo.
+
+b) Las que tengan por motivo la suspensión del contrato de trabajo por maternidad, paternidad, adopción, acogimiento, riesgo durante el embarazo o riesgo durante la lactancia natural.
+
+c) Las ausencias del trabajo con derecho a retribución.
+
+### Artículo 5. Acreditación de la discapacidad.
+
+1\. La afectación de la persona trabajadora por alguna de las patologías generadoras de discapacidad a las que se refiere el anexo, habrá de acreditarse mediante informe médico que deberá indicar, en todo caso, la fecha en que se ha iniciado o se ha manifestado la patología, ya sea esta la fecha del nacimiento o una posterior.
+
+2\. La acreditación de que la discapacidad deriva de una de las patologías relacionadas en el anexo y de que el grado de discapacidad ha sido igual o superior al 45 por ciento durante al menos cinco años deberá efectuarse en todo caso mediante certificación del Instituto de Mayores y Servicios Sociales o del órgano correspondiente de la respectiva comunidad autónoma que haya recibido la transferencia de las funciones y servicios de aquel, debiendo indicar, también en todo caso, la fecha en que se ha iniciado o se ha manifestado la discapacidad.
+
+3\. Se entenderá que concurre un grado de discapacidad en total igual o superior al 45 por ciento en aquellos casos en los que, conforme a los certificados a que se refiere el apartado anterior, se acrediten, conjuntamente, las siguientes condiciones:
+
+a) Que de la suma de los porcentajes de discapacidad alcanzados en las diferentes dolencias que figuren en el certificado, así como del porcentaje correspondiente a los «baremos complementarios», de ser el caso, resulte un porcentaje de discapacidad total igual o superior al 45 por ciento.
+
+b) Que al menos una de las dolencias reflejadas en el certificado de discapacidad sea una de las relacionadas en el anexo y que el porcentaje de discapacidad alcanzado por esta o estas patologías generadoras de discapacidad relacionadas en el citado anexo suponga al menos el 33 por ciento del total del grado de discapacidad acreditado.
+
+> Se modifica por el art. único.4 del Real Decreto 370/2023, de 16 de mayo. [Ref. BOE-A-2023-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11644)
+
+### Artículo 6. Situación de alta o asimilada.
+
+Será requisito indispensable para acceder a la jubilación anticipada regulada en este real decreto, la condición de hallarse en alta o en situación asimilada a la de alta en la fecha del hecho causante.
+
+### Artículo 7. Cálculo de la pensión de jubilación.
+
+El período de tiempo en que resulte reducida la edad de jubilación del trabajador, de acuerdo con lo establecido en el artículo 3, se computará como cotizado al exclusivo efecto de determinar el porcentaje aplicable a la correspondiente base reguladora para calcular el importe de la pensión de jubilación.
+
+### Disposición adicional primera. Derecho de opción.
+
+Los trabajadores que reúnan las condiciones exigidas para acogerse a lo establecido en este real decreto y en el Real Decreto 1539/2003, de 5 de diciembre, por el que se establecen coeficientes reductores de la edad de jubilación a favor de los trabajadores que acreditan un grado importante de minusvalía, podrán optar por la aplicación del que les resulte más favorable.
+
+### Disposición adicional segunda. Evaluación y seguimiento.
+
+El Instituto Nacional de la Seguridad Social y el Instituto Social de la Marina realizarán, específicamente, en el ámbito de sus respectivas competencias, el seguimiento y evaluación del número de solicitudes de jubilación anticipada presentadas al amparo de este real decreto durante los seis meses siguientes a su entrada en vigor.
+
+### Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo del artículo 149.1.17.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de régimen económico de la Seguridad Social.
+
+### Disposición final segunda. Habilitación para el desarrollo reglamentario.
+
+Se habilita al Ministro de Trabajo e Inmigración para desarrollar lo dispuesto en este real decreto.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día primero del mes siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+### Disposición final cuarta. Procedimiento de inclusión de nuevas patologías generadoras de discapacidad.
+
+Mediante orden de la persona titular del Ministerio de Inclusión, Seguridad Social y Migraciones, que deberá ser sometida a consulta previa del Consejo Nacional de la Discapacidad antes del 1 de diciembre de 2023, se aprobará el procedimiento de inclusión de nuevas patologías generadoras de discapacidad en su ámbito de aplicación, así como su posible actualización periódica, pudiendo establecer un procedimiento abreviado para facilitar la extensión del listado de patologías a las enfermedades raras a medida que vayan surgiendo.
+
+Dicho procedimiento deberá garantizar la objetividad de la inclusión de nuevas patologías con arreglo a criterios estrictamente científicos, para lo cual corresponderá la propuesta a una comisión técnica, cuya composición se determinará en la citada orden, debiendo participar en todo caso médicos o científicos, así como representantes de las organizaciones de personas con patologías generadoras de discapacidad.
+
+Las nuevas patologías que, en su caso, se incorporen al ámbito de aplicación de este real decreto a propuesta de la citada comisión se irán incluyendo en el anexo.
+
+> Se añade por el art. único.5 del Real Decreto 370/2023, de 16 de mayo. [Ref. BOE-A-2023-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11644)
+
+## ANEXO — Discapacidades que pueden dar lugar a la reducción de la edad de jubilación
+
+a) Discapacidad intelectual.
+
+b) Parálisis cerebral.
+
+c) Anomalías genéticas:
+
+1.º Síndrome de Down.
+
+2.º Síndrome de Prader Willi.
+
+3.º Síndrome X frágil.
+
+4.º Osteogénesis imperfecta.
+
+5.º Acondroplasia.
+
+6.º Fibrosis quística.
+
+7.º Enfermedad de Wilson.
+
+8.º Amiloidosis por transtiretina variante.
+
+9.º Distrofia miotónica tipo 1 (Steinert).
+
+10.º Enfermedad de Huntington.
+
+d) Trastornos del espectro autista.
+
+e) Anomalías congénitas secundarias a talidomida.
+
+f) Secuelas de polio o síndrome postpolio.
+
+g) Daño cerebral (adquirido):
+
+1.º Traumatismo craneoencefálico.
+
+2.º Secuelas de tumores del sistema nervioso central, infecciones o intoxicaciones.
+
+h) Enfermedad mental:
+
+1.º Esquizofrenia.
+
+2.º Trastorno bipolar.
+
+i) Enfermedad neurológica:
+
+1.º Esclerosis lateral amiotrófica.
+
+2.º Esclerosis múltiple.
+
+3.º Leucodistrofias.
+
+4.º Síndrome de Tourette.
+
+5.º Lesión medular, traumática o no traumática.
+
+6.º Espina bífida.
+
+7.º Enfermedad de Parkinson.
+
+8.º Degeneración corticobasal.
+
+9.º Atrofia multisistémica.
+
+10.º Parálisis supranuclear progresiva.
+
+j) Enfermedades sistémicas:
+
+1.º Esclerosis sistémica.
+
+2.º Enfermedad renal crónica estadio G5.
+
+> Se modifica por el art. único. del Real Decreto 632/2026, de 29 de julio. [Ref. BOE-A-2026-16548](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16548)
+
+> Se añade por el art. único.6 del Real Decreto 370/2023, de 16 de mayo. [Ref. BOE-A-2023-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11644)
+
+Dado en Madrid, el 4 de diciembre de 2009.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo e Inmigración,
+
+CELESTINO CORBACHO CHAVES

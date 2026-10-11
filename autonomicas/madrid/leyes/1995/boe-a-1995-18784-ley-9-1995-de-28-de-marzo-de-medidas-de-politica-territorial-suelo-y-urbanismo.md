@@ -1,0 +1,1035 @@
+---
+title: "Ley 9/1995, de 28 de marzo, de Medidas de Política Territorial, Suelo y Urbanismo"
+identifier: "BOE-A-1995-18784"
+eli: "https://www.boe.es/eli/es-md/l/1995/03/28/9"
+type: act
+rank: "Ley"
+jurisdiction: es-madrid
+language: es
+department: "Comunidad de Madrid"
+date: 1995-03-28
+published: 1995-08-05
+in_force_from: 1995-04-11
+last_amended: 2026-06-15
+consolidated: 2026-07-28
+gazette: "Boletín Oficial del Estado núm. 186"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-18784"
+retrieved: 2026-10-11
+---
+
+# Ley 9/1995, de 28 de marzo, de Medidas de Política Territorial, Suelo y Urbanismo
+
+Incluye la corrección de errores publicada en BOCM núm. 152, de 28 de junio de 1995.
+
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+
+Hago saber que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey, promulgo.
+
+PREÁMBULO
+
+I
+
+Esta Ley pretende definir en el contexto generado por la renovación parcial de 1990 y la actualización total de 1992 de la legislación estatal y en ejercicio de la competencia legislativa plena que, en la materia, goza la Comunidad Autónoma, el marco específico y necesario de la política territorial y urbanística que las circunstancia y las peculiaridades de la región madrileña demandan. Por esta razón, es decir, por su propósito acotado y no por un carácter meramente coyuntural de sus determinaciones, es una Ley de Medidas, como explicita claramente su artículo primero.
+
+La región de Madrid es, por de pronto, internamente diversa, conviviendo en ella espacios urbanos de gran magnitud y complejidad con ámbitos estrictamente rurales y zonas de montaña, así como espacios naturales de alto valor ambiental y ecológico. El peso específico del área metropolitana, cuyo centro es la ciudad de Madrid, es evidente y su traducción en el doble plano político-institucional y del sistema urbano nacional no puede dejar de tener repercusiones en la organización regional.
+
+La región de Madrid constituye, en efecto, uno de los mayores y mas avanzados centros de servicios de España, así como un núcleo industrial de primera magnitud y, por lo tanto, también una región con función y significación propias en el espacio tanto nacional, como comunitario-europeo; sin embargo, al mismo tiempo y según zonas, también concurren en ella de forma específica los problemas propios de las regiones atrasadas en su desarrollo, los del declive industrial y de las grandes aglomeraciones urbanas, además de los relacionados con la preservación y mejora de la naturaleza y del medio ambiente en general.
+
+Madrid precisa, pues, una política territorial que, respondiendo a sus peculiaridades, sea adecuada al marco político-institucional resultante del Estado autonómico e integrado en la actual Comunidad y Unión Europea. Por ello, la Comunidad Autónoma, de forma acorde con la posición y función que constitucional y estatutariamente le son propias, debe asumir, en primer lugar, la responsabilidad, del gobierno efectivo del territorio, para propiciar e, incluso, asegurar, en sintonía siempre con las políticas económicas y medioambientales, su vertebración e integración, al servicio de la calidad de vida de la población y en términos, en todo caso, de solidaridad simultáneamente intrarregional e interterritorial en la doble dimensión nacional y comunitario-europea y además ha de estar dotada de los medios e instrumentos políticos, jurídicos y administrativos necesarios y suficientes para afrontar aquella responsabilidad, entendiéndose que en el espacio autonómico, en efecto, coinciden la institucionalización de la función de gobierno político y la idoneidad de la escala para el cumplimiento de la tarea de «ordenación del territorio».
+
+La Ley pretende satisfacer esta necesidad, armonizándola con el respeto y, más aún, con la potenciación de la autonomía de los gobiernos municipales, cuya responsabilidad se centra fundamentalmente en la ordenación del aprovechamiento urbanístico concreto.
+
+Los Municipios son las instancias responsables primariamente y como regla general de la ordenación y gestión urbanísticas, de suerte que la Comunidad Autónoma sólo cuenta en este nivel del gobierno del territorio más que con competencias estrictamente tasadas y, por tanto excepcionales, cabalmente aquellas que resultan indispensable complemento de su responsabilidad en la ordenación del territorio-región.
+
+Subyace al texto legal, por tanto, una concepción de la región como espacio definido e integrado, al propio tiempo susceptible y demandante de un gobierno y, por tanto, de una política territorial, positiva orientada a potenciar las oportunidades de desarrollo económico estable, armónico y compatible con la preservación de los valores naturales y los equilibrios ecológicos básicos, al igual que, por ello mismo, a corregir las tendencias de transformación territorial incompatibles, o cuando menos contradictorias, con dicho desarrollo. Sin embargo, esta concepción integrada del territorio en ningún caso debe entenderse en el sentido de una homogeneización reductiva sino más bien de la potenciación de los valores positivos diferenciales de cada una de las zonas y piezas que la componen, sin perjuicio de la corrección de las situaciones y la eliminación de los factores de discriminación en el acceso y disfrute de los elementos determinantes de la calidad de vida.
+
+Consecuentemente con lo dicho, los instrumentos de gobierno y la política territorial regionales no pueden quedar circunscritos a los urbanísticos de lógica local sujetos a aprobación o intervención, con un mayor o menor alcance y uno u otro carácter, de la Comunidad Autónoma. Como señala la Carta Europea de la Ordenación del Territorio, esta última no es otra cosa que la expresión física o espacial de la política económica, social, cultural y ecológica de toda sociedad, destacando su naturaleza funcional compleja —necesariamente tributaria de diversas perspectivas y disciplinas—, pero dirigida siempre al desarrollo equilibrado del territorio, o mejor, de la utilización humana de éste, lo que supone, en definitiva, una organización física de todas las actividades humanas públicas o privadas, según un concepto rector. El gobierno del territorio que pretende asegurar la Ley se asienta en la definición de este concepto rector y en la disposición de los instrumentos indispensables para hacerlo efectivo, beneficiándose —además de las reflexiones técnicas y doctrinales— de la experiencia directa adquirida en la promoción, por parte de la Comunidad de Madrid, de actuaciones públicas sobre sectores y piezas claves para la estructuración de la Región, así como de la fecunda experiencia de gestión del planeamiento municipal, desarrollada en los últimos años.
+
+II
+
+1\. El gobierno del territorio por la Comunidad Autónoma se articula sobre dos piezas, estrechamente relacionadas entre sí; la planificación propiamente regional y la actividad urbanística directa y propia de la Comunidad; piezas, a cuya regulación se dedican los Títulos III y IV del texto legal. La imbricación entre ellas aparece garantizada, con absoluto respeto a la autonomía municipal, por la vinculación de la segunda por la primera, sin perjuicio de que la ordenación del territorio —importa mucho resaltarlo— pueda ejecutarse, además de mediante actuaciones autonómicas propias y directas, a través de la actividad urbanística ordinaria, es decir, por intermedio de la acción de gobierno territorial de los Municipios.
+
+2\. La regulación de la planificación regional como instrumento primario de la acción de gobierno regional del territorio se hace en términos flexibles, pero precisos, de suerte que el marco legal acota perfectamente, en los aspectos esenciales, la política gubernamental y la actividad administrativa. En todo caso, innova sólo en lo necesario, dejando en todo lo demás subsistente la ordenación legal ya existente en la materia. Sus líneas fundamentales pueden sintetizarse así:
+
+a) La vinculación legal material de la ordenación del territorio —concebida como función pública— y, por tanto, de la elaboración, aprobación y ejecución de sus instrumentos, por la vía de la fijación clara de sus objetivos, cuya idea central se cifra en la cohesión e integración social de la Comunidad de Madrid mediante una organización racional y equilibrada de la utilización de su territorio y, en general, de sus recursos naturales.
+
+b) La tipificación de los aludidos instrumentos, haciendo posible una planificación tanto de conjunto del territorio regional como circunscrita por razón del objeto y del ámbito territorial.
+
+c) El reforzamiento de la figura del Plan Regional de Estrategia Territorial, que sólo puede incidir en el planeamiento urbanístico municipal en forma de exigencia de adaptación, pero en ningún caso en la de su directa modificación. Se configura «ex novo» el procedimiento para su elaboración y aprobación, a fin, entre otros objetivos, de articular una intervención suficiente tanto de la Asamblea de la Comunidad, como de la instancia de gobierno municipal, ambas consideradas decisivas para asegurar la bondad, la aceptabilidad social y el buen fin de la planificación. Especial mención merece también la flexible determinación, desde el punto de vista de su alcance, del contenido en determinaciones del plan, pues se permite que éste module el grado de vinculación por tales determinaciones de las medidas de planificación de las Administraciones Públicas y la necesidad de adaptación de ellas.
+
+3\. La reducción del gobierno regional del territorio a la planificación a que acaba de hacerse referencia implicaría de suyo una negación parcial de tal gobierno, en la medida en que éste resultaría incapaz para, por sí mismo y sin depender totalmente de la acción de otra instancia de gobierno distinta, garantizar la efectividad y materializar en la realidad las decisiones dirigidas a la cohesión e integración del territorio regional, como tal, e indispensables a tal fin. De ahí que el aludido gobierno, sin perjuicio de su plenitud en el nivel de la ordenación del territorio, deba tener, y desde luego tiene en esta Ley, una determinada prolongación en el nivel urbanístico, bajo la forma de actuaciones de interés regional; figura, que se desagrega en dos técnicas más concretas (los proyectos de alcance regional y las zonas de interés regional) y en la que se expresa instrumentalmente la actividad urbanística directa y propia de la Comunidad.
+
+4\. La legitimidad y, al propio tiempo, la distinción de esta actividad urbanística autonómica de la ordinaria y general municipal reposan por entero en la completa referencia de dicha actividad autonómica —desarrollada por la Comunidad en calidad de Administración actuante— al interés regional. Esta resulta, así, una noción clave para el deslinde de los campos respectivos y el respeto del municipal general y primario. De ahí que la Ley se preocupe no sólo por establecer una noción material lo más precisa posible del Interés Regional, a fin de hacer de suyo controlable la invocación de éste (tanto más, cuanto que dicha invocación ha de razonarse y justificarse en la documentación correspondiente), sino también articular un mecanismo de concertación interadministrativo —la Comisión de Concertación de la Acción Territorial, integrada por representación paritaria autonómica y local— capaz de asegurar una activa y efectiva participación de la instancia municipal en la definición del interés general en cada caso concreto; mecanismo éste, cuya funcionalidad se extiende, además, a la solución de cualesquiera otros problemas interlocales, a solicitud de un gobierno local.
+
+5\. Las Zonas de Interés Regional son áreas idóneas para servir de soporte a operaciones urbanísticas en que concurra tal interés, que se delimitan para la ordenación estratégica del territorio o el despliegue ordenado, integrado y armónico del desarrollo económico y social de la región, la superación de situaciones de crisis o de transformación de sectores económicos o la corrección de desequilibrios intrarregionales, siempre en alguna de las materias de vivienda, infraestructuras, dotaciones, equipamientos y servicios. Cuando tengan por objeto la habilitación de operaciones programadas para que el comienzo de su ejecución tenga lugar dentro de los cuatro años siguientes a su delimitación, revisten la forma de Zonas de Actuación Inmediata. En otro caso, y bajo la denominación de Zonas de Actuación Diferida, únicamente pueden legitimar la constitución de reservas estratégicas de suelo para el desarrollo de operaciones urbanísticas regionales no programadas. Por ello mismo se permite, con determinados requisitos, la transformación de éstas en aquéllas, cuando las circunstancias, sobrevenidas, así lo hagan aconsejable. Huelga decir, que en la tramitación de unas y otras tienen participación la Administración del Estado y los Municipios, pudiendo éstas hacer entrar en juego, si así lo consideran necesario, el mecanismo de concertación al que ya se ha hecho alusión.
+
+De las Zonas de Actuación Inmediata merecen destacarse los siguientes aspectos: La posibilidad de asociación a su gestión de otras Administraciones —especialmente los Municipios—, mediante convenios de colaboración, figura ésta, hoy incorporada en el ordenamiento del Estado al régimen básico de todas las Administraciones Públicas; su comprensión ordinariamente sólo de suelo no urbanizable o urbanizable no programado y su capacidad de directa reclasificación del incluido en su ámbito como urbanizable no programado, así como, el establecimiento de la ordenación urbanística de este ámbito y su ejecución a través y sobre la base, respectivamente, de los pertinentes instrumentos urbanísticos ordinarios. Las Zonas de Actuación Diferida están siempre y en todo caso circunscritas al suelo previamente clasificado urbanísticamente como urbanizable no programado y no urbanizable.
+
+6\. Los Proyectos de Alcance Regional, a diferencia de las Zonas, son, sin perjuicio de su alcance y complejidad eventuales; verdaderos y concretos proyectos técnicos de obras, elaborados para su directa ejecución y viables siempre que su objeto no esté previsto o no tenga acomodo adecuado en el planeamiento vigente. Ese objeto es, en todo caso, circunscrito, pues está rigurosamente acotado por la Ley. La lógica de los proyectos es siempre propia, por derivada exclusivamente de su objeto, de suerte que esta figura puede comprender terrenos de uno o varios términos municipales y los terrenos que en ellos se destinen a uso público dotacional pasan a incorporarse, preceptivamente y con la calificación que proceda, a los sistemas generales de la ordenación establecida por el correspondiente planeamiento general. Dada su finalidad, el régimen de elaboración y promoción es muy flexible, permitiendo su promoción ante la Comunidad de Madrid tanto por entes de los sectores públicos de cualquiera de las instancias de la organización territorial del Estado, como por personas privadas. En este último caso, sin embargo, se requiere para la tramitación formal del proyecto, una declaración autonómica previa sobre su viabilidad. El procedimiento de aprobación contempla, en todo caso, la intervención de los Municipios interesados o afectados. Entre los efectos derivados de su aprobación merece destacarse, además de la declaración de utilidad pública o, en su caso, interés social y de la necesidad de la ocupación de los bienes y derechos afectados a efectos de su expropiación, los efectos conferidos para su ejecución sin perjuicio de la procedencia de la adaptación del planeamiento correspondiente a cuyo efecto se prevé el establecimiento de líneas de ayudas financieras autonómicas a los Municipios interesados. Desde el punto de vista de su ejecución, ésta presupone la aplicación del régimen legal urbanístico de la propiedad y, por tanto, el cumplimiento de los correspondientes deberes a cargo del responsable de la ejecución, siendo los Municipios los beneficiarios de las cesiones de suelo y aprovechamiento urbanístico que resulten de la referida ejecución. Especialmente exigente es, por último, el estatuto a que queda sujeto el responsable de ejecución, limitándose estrictamente toda transferencia a terceros de tal responsabilidad y regulando detalladamente las consecuencias del incumplimiento. En tanto que proyectos y salvo los de promoción pública, su materialización queda condicionada al otorgamiento de la preceptiva licencia municipal.
+
+III
+
+1\. El urbanismo es en la Ley, al igual que la ordenación del territorio, una función pública, cuyo cumplimiento debe producirse, tras la Constitución, sobre la base de una adecuada ponderación de los bienes jurídicamente relevantes territorialmente protegidos por aquella norma fundamental y para la máxima realización posible en cada caso del orden material por ésta definido.
+
+En tanto que función pública sólo diferenciada por su objeto y finalidad, su gestión debe poder producirse válidamente por cualquiera de las formas autorizadas por la legislación reguladora de la administración pública en cada caso competente y actuante. Esta prescripción favorece particularmente la necesaria coordinación del urbanismo y del régimen local, es decir, el estatuto del gobierno municipal.
+
+La condición de función pública del urbanismo no significa necesariamente la gestión directa por la Administración competente. Antes al contrario, por sus características, el urbanismo demanda el fomento y la promoción, al máximo posible, de la iniciativa privada. Y ésta, a su vez, no se restringe a los privados que además, tengan, con derecho bastante para ello (significativamente el de propiedad), la disposición del suelo, pues la actividad urbanística de transformación del suelo debe entenderse constitucionalmente comprendidas en el ámbito de la libertad de iniciativa económica, es decir, de empresa. Sin perjuicio de ello, los propietarios y los titulares de cualesquiera otros derechos suficientes sobre los correspondientes bienes intervienen en la actividad urbanística en los términos determinados por la legislación reguladora de ésta.
+
+2\. En el régimen de la actividad urbanística ordinaria el primer aspecto precisado de una adaptación a las circunstancias específicas de la Comunidad de Madrid es, sin duda, el planeamiento, lo que lleva a cabo la Ley en su Título V introduciendo las innovaciones consideradas más indispensables (a fin de no perjudicar innecesariamente la cultura jurídico-urbanística establecida) y, concretamente, las siguientes:
+
+a) Haciendo uso de la habilitación conferida por la legislación estatal, la flexibilización y simplificación de la determinación del aprovechamiento tipo, en atención a la existencia de Municipios con escaso desarrollo urbanístico y, al mismo tiempo, reducida capacidad de gestión técnica en esta materia.
+
+b) Precisando los supuestos de revisión y modificación del planeamiento, con habilitación en el primer caso a la Comunidad para promover y requerir, cuando sea procedente, la revisión del planeamiento por los propios Municipios y sustituirse en la actuación de éstos, caso de incumplimiento del deber en tal sentido, así como con introducción de limitaciones y, en su caso, prohibiciones de modificación en el período inicial y final de vigencia del planeamiento, respectivamente, con la doble finalidad de revaluar el proceso de elaboración del planeamiento y de evitar el planteamiento de modificaciones distorsionadas por la proximidad de la revisión de aquél.
+
+c) La clarificación y, por tanto, agilización del procedimiento de aprobación del planeamiento, fundamentalmente mediante la ampliación sensible (en su caso, en función de la población de los Municipios) de la competencia municipal para la aprobación definitiva de determinados instrumentos de planeamiento.
+
+d) La clarificación legal —tomando pie y de conformidad con la jurisprudencia contencioso-administrativa recaída en esta materia— del contenido y el alcance de la competencia autonómica de aprobación definitiva del planeamiento municipal, con la doble finalidad de acotar la intervención autonómica y de incrementar la seguridad jurídica en punto a los papeles respectivos de la instancia municipal y la autonómica en el proceso de planificación urbanística. El efecto es, en todo caso, positivo para la autonomía municipal.
+
+4\. El régimen urbanístico del suelo primero rústico y luego no urbanizable se ha mantenido en nuestro ordenamiento jurídico desde 1956, sustancialmente al margen de la realidad, en tanto que basado en una premisa irreal: el de la insusceptibilidad de esta clase de suelo para ser soporte, en principio, de cualquier caso de aprovechamientos urbanísticos, es decir, en una visión puramente negativa, determinante de la omisión de cualquier criterio de toda directriz positiva de ordenación sustantiva. Ha sido inevitable, así, una sustancial divergencia entre la norma y la realidad práctica, para salvar la cual ha sido preciso una interpretación forzada y extensiva de los supuestos legales excepcionales legitimadores de actuaciones constructivas, solución siempre insatisfactoria e insuficiente.
+
+Aun cuando la legislación estatal vigente no modifica sustancialmente, en realidad, la situación descrita, flexibiliza el régimen de la utilización de este tipo de suelo y sobre todo otorga un amplio margen de configuración a la legislación urbanística autonómica, de que la presente Ley hace uso —en su Título V— a fin de acercar la ordenación de dicho suelo a las exigencias de la realidad y, en particular, de las pautas de su utilización en el ámbito de la Comunidad de Madrid, en una línea ya abierta y explorada previamente por alguna otra Comunidad Autónoma.
+
+Por de pronto, la Ley regula —a partir y en función de determinadas características de los terrenos— los supuestos en que procede la clasificación como suelo no urbanizable, a los efectos justamente de la preservación de aquellas características y, por tanto, de los valores que a través de ellas se manifiestan, sin perjuicio de mantener la cláusula residual referida a todos aquellos que no sean incorporados, cuando menos inmediatamente, al proceso de urbanización y de dejar a salvo la hipótesis de la necesidad del destino de suelo a la realización de obras o infraestructuras o al establecimiento de servicios públicos. Y añade a la tipificación de tales supuestos el deber legal de ponderar la pertinencia, además, de sujetar parte de los terrenos objeto de esta clasificación a un régimen específico de protección y mejora, adecuado desde luego a los valores que en ellos estén presentes (especialmente desde el punto de vista de la flora y la fauna). Cierra este conjunto de prescripciones con la reserva en favor de la Asamblea de la Comunidad de la decisión de reclasificación de los terrenos que sufran daño en su vegetación arbórea, como consecuencia de incendio ocurrido por falta de la prevención exigible o de acción humana no autorizada y falta de la diligencia debida, dentro de los treinta años siguientes al suceso.
+
+Igualmente importante en, sin duda, el establecimiento, con carácter general, del conjunto de facultades y deberes específicamente urbanísticos imputables al propietario de suelo no urbanizable, con diferenciación desde luego el que sea objeto de un régimen concreto de protección o mejora; resaltando entre los deberes el de conservación y reposición, en su caso, de la vegetación en las condiciones precisas para evitar el riesgo de erosión, incendio o perturbación de la seguridad o salud públicas o del medio ambiente o el equilibrio ecológico.
+
+Gracias a la determinación anterior, el régimen de utilización posible del suelo no urbanizable ordinario (no sujeto a protección) aparece construido sobre la técnica de la calificación urbanística (ordenación a partir de la evolución de las necesidades de uso del suelo) y diversificado según las obras y los usos permitidos, justamente aquellos que —dándose en la realidad práctica— se consideran compatibles con el destino básico del suelo y cuya realización se sujeta a licencia municipal. En su caso, y esto es importante resaltarlo, dicha realización queda sujeta al levantamiento de las cargas urbanísticas procedentes, a fin de evitar la desviación indebida de usos al suelo no urbanizable o por la sola razón del ahorro de los costes inherentes a la ocupación de suelo regularmente urbanizado.
+
+5\. Sabido es que la gestión urbanística constituye uno de los capítulos más deficitarios en su aplicación práctica, que no en la regulación normativa, de gran calidad técnica. Estando este Capítulo en la completa disposición del legislador autonómico, la Ley hace en él un gran esfuerzo —concretamente en su Título VII— por mejorar el marco y los instrumentos legales a disposición de la Administración actuante y los ejecutores materiales del planeamiento al servicio de la agilización de la actividad urbanística.
+
+Por de pronto se introduce claridad y precisión y, por tanto, seguridad jurídica en punto a los deberes generales a cumplir por los propietarios de suelo urbano y urbanizable, cuando les corresponda la ejecución del planeamiento urbanístico. A tal efecto se precisan incluso los conceptos cuyos costes integran los de urbanización que aquéllos deben sufragar.
+
+En segundo término, se clarifica, simplifica y flexibiliza el régimen de programación y ejecución, a través de los pertinentes Programas de Actuaciones Urbanísticas, de actuaciones en suelo urbanizable no programado, incidiendo especialmente en los siguientes puntos:
+
+a) Distinción y separación de los supuestos de formulación y ejecución de Programas de Actuación Urbanística por la Administración actuante y por urbanizador adjudicatario, con restricción, en principio, a estos dos de los legalmente posibles. Única excepción la constituye la permisión de la adjudicación directa de la formulación y ejecución de aquellos Programas, cuando tengan por objeto la implantación y el desarrollo de usos y actividades productivos de carácter singular y relevante importancia o la urbanización de áreas especialmente dotadas para servir de soporte a las actividades de producción y distribución de bienes y la prestación de servicios.
+
+b) Flexibilización de la gestión, al permitirse la celebración del concurso pertinente sobre la base de un pliego de condiciones técnicas, económicas y jurídicas.
+
+c) Otorgamiento a los propietarios que representen cuando menos el 60 por 100 del total de la superficie afectada del derecho de preferencia en la adjudicación del concurso, siempre que realicen una oferta equivalente en condiciones a la más ventajosa de entre las presentadas, operándose en tal caso por el sistema de compensación.
+
+d) Determinación, como sistema general de actuación y a salvo el caso de la letra anterior, del de expropiación, sin perjuicio de la expresa admisión de la posibilidad de la aplicación en él de la técnica de la liberación de dicha expropiación.
+
+En congruencia tanto con el principio de promoción de la iniciativa privada en la actividad urbanística, como con la introducción en el marco legal estatal del régimen jurídico básico de las Administraciones públicas de los convenios interadministrativos de colaboración y de los convenios en el curso de y para la resolución de procedimientos administrativos, es decir, con los ciudadanos o administrados, la Ley legaliza la práctica de los convenios urbanísticos, definiendo para ellos un régimen garantizador de la transparencia, coordinador con el procedimiento de aprobación del planeamiento y preservador tanto de la ordenación urbanística imperativa, como de la definición del interés colectivo o general. Es de resaltar, en particular, la fijación de la regla de la publicidad de los convenios y del acceso de los ciudadanos a su contenido, hecho posible gracias a la creación del pertinente registro administrativo.
+
+Desde el punto de vista de la mejor y más cooperativa y coordinada organización de la gestión pública urbanística, de un lado se autorizan y regulan los consorcios interadministrativos, con posibilidad de la incorporación a los mismos de la iniciativa privada y utilización por los mismos de las formas de gestión de servicios previstas por la legislación aplicable a las Administraciones consorciadas y, de otro lado, se contempla la creación por tales consorcios y desde luego también directamente por las Administraciones interesadas de entidades societarias de forma jurídico-mercantil y de capital íntegramente público o mixtas, pero dejando taxativamente claro que tales sociedades sólo pueden asumir contenidos de la actividad urbanística que no implique ejercicio de autoridad y deben actuar en todo caso en condiciones de plena concurrencia con las personas privadas, aplicándose además la legislación reguladora de la contratación pública para la adjudicación a las mismas de cualquier tarea, cometido, servicio u obra, con la sola excepción de aquellos cometidos que, aun pudiendo desarrollarse en régimen de Derecho privado, deban cumplirse directamente por las Administraciones o los consorcios constituidos por ellas; excepción, en la que se permite la encomienda directa.
+
+Por lo que hace concretamente a los sistemas de actuación para la ejecución del planeamiento, las principales novedades son las siguientes:
+
+Flexibilización de la elección por la Administración actuante del sistema de actuación a aplicar; elección, que se articula básicamente en torno a la distinción entre gestión pública y privada y se hace depender de una ponderación material de las circunstancias del caso.
+
+Mejora y precisión del régimen de la ejecución tanto sistemática por unidades, como asistemática en suelo urbano.
+
+Actualización del sistema de actuación por expropiación, con desarrollo de su gestión indirecta mediante concesión, a los efectos de hacer compatible su elección con la intervención de la iniciativa privada y facilitación, a su vez, de ésta, mediante la previsión de la aplicabilidad de la técnica de la liberación de la expropiación, cuando así proceda.
+
+Introducción de un nuevo sistema de actuación, denominado de ejecución forzosa, dirigido a potenciar la capacidad de efectividad de la acción gestora pública, solventando las dificultades de la acción de común acuerdo de los propietarios, pero sin merma de la posición básica de éstos propia del sistema de compensación. En este nuevo sistema, del que cabe esperar un apreciable juego, la Administración actúa en sustitución de los propietarios, realizando materialmente la urbanización y distribuyendo entre éstos los beneficios y la cargas, es decir, operando directamente como instancia de compensación.
+
+Introducción de una serie de medidas para la rehabilitación concertada de áreas urbanas degradadas.
+
+6\. Sin perjuicio de que la expropiación forzosa sea desde luego una institución propia del ordenamiento del Estado, su decisivo juego en el urbanismo motiva la adopción de aquellas medidas que, de acuerdo con la doctrina ya decantada por el Tribunal Constitucional, están en el ámbito de disposición del legislador autonómico y pueden contribuir sin duda a una mayor eficacia de la acción pública en la materia. Junto a la precisión, en aras de la claridad y de la seguridad jurídicas, de los supuestos en que procede la aplicación de la institución y de la restricción —vía exigencia de su suficiente justificación en cada caso— del recurso a la declaración de urgencia en la ocupación debe destacarse la introducción de la técnica de la bonificación en un 10 por 100 del justiprecio y la ampliación de las posibilidades de pago de éste en especie para fomentar el mutuo acuerdo en la relación expropiatoria.
+
+Con todo, el aspecto más destacado de la regulación legal en este punto al que se dedica el Título VII es la creación y organización de un Jurado Territorial de Expropiación Forzosa propio de la Comunidad Autónoma en cuya composición se ha procurado, en lo necesario, observar la ponderación que demanda el objeto de su función, si bien ésta se amplía al campo de la responsabilidad patrimonial de la administración autonómica y, en su caso, municipal; novedad ésta merecedora de ser destacada, en cuanto supone una positiva unificación de criterio en materia de garantías patrimoniales de los ciudadanos frente a la acción pública. La unidad de régimen jurídico de la institución expropiatoria, garantizada por la legislación sustantiva estatal, ni demanda, ni precisa, para ser efectiva, de su prolongación en el plano organizativo y de la práctica administrativa. Por contra, la eficacia administrativa, también en beneficio de los afectados por la acción administrativa expropiatoria, demanda esta medida, que cuenta con la cobertura de la potestad de autoorganización de que goza la Comunidad de Madrid.
+
+7\. En el aspecto relativo a la intervención pública en el mercado inmobiliario y de la vivienda, no menos importante que los anteriores, el Título VIII de la Ley se concentra en los instrumentos que considera prioritarios en el contexto de la política territorial cuyo marco pretende formalizar y, concretamente, en los siguientes:
+
+a) Los derechos de tanteo y retracto, determinando con precisión los bienes sujetos y las Administraciones titulares de ellos; creando registros administrativos —autonómico y municipales— (actuando el primero de supletorio de los segundos, para el caso de que los Municipios no quieran o no puedan establecer el propio) para garantizar la objetividad y la transparencia en la materia y, al propio tiempo, facilitar el cumplimiento de la obligación legal de la notificación de las correspondientes transacciones, y finalmente, introduciendo disposiciones garantizadoras de la seriedad de la acción pública y, por tanto, de los particulares afectados, concretamente la caducidad de aquélla, con recuperación por el propietario de la plena disposición sobre el bien, a los tres meses de la decisión administrativa sin abono efectivo del precio que proceda, el derecho a la resolución de la trasmisión en favor de la Administración por el mero incumplimiento en el pago de cualquiera de los plazos en el caso de pacto de aplazamiento del abono del precio y la obligación de aquélla de cumplimiento del pacto de entrega de determinada superficie de nueva construcción, no puede dejar de llamarse la atención, además, sobre la imposición a la Comunidad de Madrid de la obligación de destinar los bienes adquiridos por este medio al cumplimiento de los objetivos de las Zonas de Interés Regional correspondientes.
+
+b) La política de vivienda sujeta a algún régimen de protección pública, absolutamente decisiva para la realización del derecho constitucional a una vivienda digna y adecuada. La opción legal es aquí decidida y rotunda: se impone al planeamiento general (salvo en los Municipios con escasa dinamicidad residencial) el aseguramiento del destino de suelo suficiente para cubrir las necesidades razonablemente previsibles en el horizonte temporal de ocho años, sin que la superficie dedicada a vivienda cuyo precio sea susceptible de ser tasado por la Administración pueda ser nunca inferior a la mitad del suelo urbanizable destinado al uso residencial, pero también, la no menos importante de fijar —cuando esté autorizado por la ordenación aplicable, de forma coherente, con los criterios propios de la valoración catastral y en términos de aprovechamiento urbanístico— las relaciones de equivalencia oportunas para el caso de la transformación de la calificación a vivienda libre, con prescripción taxativa de cesión obligatoria y gratuita a la Administración actuante de los eventuales excesos de aprovechamiento lucrativo.
+
+c) Patrimonios públicos de suelo, con el decidido propósito de relanzamiento y funcionamiento efectivo de este instrumento de gran potencialidad, pero hasta ahora prácticamente inédito en la realidad de la gestión urbanística. La suficiente y adecuada regulación en la legislación urbanística general vigente de los patrimonios municipales exime de toda ulterior ordenación en esta sede, más allá del establecimiento de la taxativa obligación de la constitución, el mantenimiento y la gestión de sus respectivos patrimonios por los Municipios que cuenten con planeamiento general. La decisión clave en este capítulo reside sin duda en la creación de un patrimonio público regional o autonómico de suelo, con un régimen en un todo equiparable al de los municipales y en el que se cuida de precisar la vinculación de los recursos económicos procedentes de o relacionados finalistamente con el patrimonio. La decisión aparece reforzada por la imposición a la Comunidad de Madrid de la consignación, a este propósito, en sus presupuestos anuales de una cantidad no inferior al 2 por 100 del importe total del capítulo de ingresos. No olvida la Ley la procedencia de la cooperación activa entre los patrimonios regional y municipales, autorizando expresamente la celebración de convenios para su gestión en común y contemplando también la posibilidad de la participación en la del patrimonio regional de los Municipios que no tengan obligación legal de constituir uno propio.
+
+8\. En el último de los Títulos de la Ley, el IX, se han incluido, de conformidad con el propósito de incremento de la eficacia de la acción administrativa en el urbanismo y en sintonía con la renovación del régimen jurídico de las Administraciones públicas y del procedimiento administrativo operada por la Ley estatal 30/1992, de 26 de noviembre, un conjunto de prescripciones con una finalidad única: hacer operativo el juego de la resolución por acto presunto, en caso de silencio administrativo, de los principales procedimientos urbanísticos.
+
+## TÍTULO I — Disposiciones generales
+
+> Se deroga por la disposición derogatoria única.b) de la Ley 9/2001, de 17 de julio. [Ref. BOE-A-2001-18984](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18984).
+
+##### Arts. 1 a 5.
+
+**(Derogados)**
+
+> Se derogan los arts. 1 a 5 por la disposición derogatoria única.b) de la Ley 9/2001, de 17 de julio. [Ref. BOE-A-2001-18984](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18984).
+
+## TÍTULO II — Concertación en la gestión de los intereses públicos con relevancia territorial
+
+### CAPÍTULO I — Concertación interadministrativa
+
+##### Artículo 6. Objeto.
+
+1\. La concertación interadministrativa tiene por objeto:
+
+a) Asegurar la correcta valoración y ponderación de todos los intereses públicos implicados en la definición y ejecución de la ordenación del territorio y del urbanismo mediante la activa participación de las Administraciones territoriales responsables.
+
+b) Integrar y compatibilizar en la Ordenación del Territorio y el Urbanismo los requerimientos de cualesquiera intereses públicos con relevancia territorial, gestionados por las Administraciones municipal y autonómica.
+
+c) Promover la colaboración interadministrativa en el ejercicio de las competencias referidas al uso del suelo y de los recursos naturales.
+
+d) Favorecer la solución acordada de los conflictos interadministrativos que se produzcan en el desarrollo de la acción territorial y de la actividad urbanística.
+
+2\. La concertación en la forma prevista en este Capítulo se entiende sin perjuicio de la utilización de cualesquiera otros procedimientos de colaboración y cooperación interadministrativa admitidos por la Ley en supuestos y para finalidades distintos a los previstos en el artículo siguiente.
+
+3\. La Comunidad de Madrid y los Municipios promoverán en el ejercicio de sus respectivas competencias, la concertación de sus respectivas actividades de ordenación territorial y urbanística.
+
+La Comunidad de Madrid invitará a la Administración General del Estado a participar en la concertación interadministrativa regulada en este Capítulo, cuando considere que su esfera competencial pueda llegar a verse afectada.
+
+##### Artículo 7. Comisión de Concertación de la Acción Territorial.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.h) y el anexo de la Ley 9/2010, de 23 de diciembre. [Ref. BOE-A-2011-8629](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8629).
+
+##### Artículo 8. Contenido y alcance de la intervención de la Comisión.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.h) y el anexo de la Ley 9/2010, de 23 de diciembre. [Ref. BOE-A-2011-8629](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8629).
+
+##### Artículo 9. Composición y funcionamiento de la Comisión de Concertación de la Acción Territorial.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.h) y el anexo de la Ley 9/2010, de 23 de diciembre. [Ref. BOE-A-2011-8629](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8629).
+
+### CAPÍTULO II — Concertación social
+
+##### Artículo 10. Objeto.
+
+La concertación social tiene por objeto asegurar la consideración y adecuada valoración por las políticas públicas correspondientes de las necesidades y aspiraciones de los sectores de la vida económico-social más relacionados con la Ordenación del Territorio y el Urbanismo. Se cumple mediante la información de dichos sectores sobre las líneas básicas de las referidas políticas y la participación activa de aquéllos en su formulación y evolución, en la forma dispuesta en este Capítulo.
+
+##### Artículo 11. Consejo de Política Territorial.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.h) y el anexo de la Ley 9/2010, de 23 de diciembre. [Ref. BOE-A-2011-8629](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8629).
+
+##### Artículo 12. Organización y funcionamiento del Consejo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.h) y el anexo de la Ley 9/2010, de 23 de diciembre. [Ref. BOE-A-2011-8629](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8629).
+
+## TÍTULO III — Ordenación del Territorio y Planes que la definen
+
+##### Artículo 13. Objetivos de la Ordenación del Territorio.
+
+1\. La Ordenación del Territorio es una función pública de gobierno del territorio para la organización racional y equilibrada de su utilización y, en general, de los recursos naturales, que propicie la cohesión e integración social de la Comunidad de Madrid. Tiene como objetivos principales:
+
+a) La más idónea articulación territorial de la Comunidad de Madrid y de ésta con el resto de España.
+
+b) Las determinaciones de ámbito regional dirigidas a mejorar las condiciones de vida en colectividad y a armonizar el desarrollo económico-social con el medio ambiente en general, la preservación de la naturaleza y la protección del patrimonio histórico y cultural.
+
+c) La coordinación de la acción territorial entre las Administraciones Públicas y de sus programas de infraestructuras estableciendo las reservas de suelo necesarias para su ejecución.
+
+##### Artículo 14. Instrumentos o Planes de la Ordenación del Territorio.
+
+1\. La Ordenación del Territorio de la Comunidad de Madrid se establece a través de los siguientes instrumentos:
+
+a) El Plan Regional de Estrategia Territorial.
+
+b) Los Planes Territoriales.
+
+c) Los Programas Coordinados de la Acción Territorial.
+
+d) Los Planes de Ordenación del Medio Natural y Rural.
+
+e) Los Planes Estratégicos Municipales.
+
+2\. El Plan Regional de Estrategia Territorial establece los elementos básicos para la organización y estructura del conjunto del territorio de la Comunidad de Madrid, sus objetivos estratégicos y define el marco de referencia de todos los demás instrumentos o planes de ordenación del territorio.
+
+3\. Los Planes Territoriales pueden desarrollar el Plan Regional de Estrategia Territorial de la Comunidad de Madrid o, en su ausencia, establecer una ordenación territorial directa, en un ámbito comarcal o subregional previsto en aquel o delimitado conforme al correspondiente Plan territorial.
+
+4\. Los Programas de Coordinación de la Acción Territorial establecerán, en el marco de las determinaciones del Plan Regional de Estrategia Territorial, la articulación de las acciones de las Administraciones públicas que requieran la ocupación o uso del suelo y tengan una relevante repercusión territorial.
+
+5\. Los Planes de Ordenación del Medio Natural y Rural tienen por objeto la protección, conservación y mejora de ámbitos territoriales supramunicipales de manifiesto interés por su valor y características geográficas, morfológicas, agrícolas, ganaderas, forestales, paisajísticas o ecológicas, en desarrollo de las determinaciones medioambientales del Plan Regional de Estrategia Territorial.
+
+6\. Los Municipios podrán elaborar, en desarrollo de los instrumentos de ordenación del territorio, Planes de estrategia municipal con el contenido previsto en el artículo 18 quinquies. En ausencia de Instrumentos de ordenación territorial de la Comunidad Autónoma, los planes estratégicos municipales se integrarán posteriormente en la correspondiente estrategia territorial o Plan Territorial adaptándose, si fuera necesario, a sus determinaciones.
+
+7\. Los instrumentos de Ordenación del Territorio a que se refiere este artículo pueden desarrollarse a través de Planes Urbanísticos, y en los supuestos previstos en las letras a) b) c) y d) del apartado 1 de este artículo también a través de Actuaciones de Interés Regional. En todo caso, vinculan a una y otros cualquiera que sea su iniciativa.
+
+> Se modifica por el art. 1.1 de la Ley 7/2024, de 26 de diciembre. [Ref. BOE-A-2025-5522](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5522)
+
+##### Artículo 15. Objetivos del Plan Regional de Estrategia Territorial.
+
+En el marco de la política económica general y autonómica, el Plan Regional de Estrategia Territorial tendrá los siguientes objetivos:
+
+a) La determinación de los objetivos y de la estrategia relativos a la organización y estructura del territorio de la Comunidad de Madrid.
+
+b) La ordenación de la actividad urbanística directa y propia de la Comunidad de Madrid necesaria para la efectividad de la estrategia a que se refiere la letra anterior.
+
+c) Las directrices para la armonización y compatibilización del planeamiento municipal y los planes, programas y acciones sectoriales con incidencia territorial.
+
+##### Artículo 16. Contenido y formalización documental del Plan Regional de Estrategia Territorial.
+
+1\. El Plan Regional de Estrategia Territorial tendrá el siguiente contenido:
+
+a) Diagnóstico de los problemas y las oportunidades territoriales, en función y con relación a los objetivos estratégicos y las propuestas del propio Plan.
+
+b) Ordenación de los sistemas de ámbito o función regional o supramunicipales y, en general, de los estructurantes del territorio, contemplando, al menos, los siguientes aspectos:
+
+1\. Esquema de articulación territorial, integrado por el sistema de asentamientos e infraestructuras y por la estructura espacial de las actividades económicas.
+
+2\. Delimitación de los espacios naturales y rurales que deban ser preservados del proceso de urbanización.
+
+3\. Esquema de movilidad.
+
+4\. Política regional de vivienda.
+
+5\. Infraestructuras regionales básicas, incluidas las correspondientes al sistema de telecomunicaciones, los pasillos para líneas de alta tensión, oleoductos y gaseoductos.
+
+6\. Dotaciones, equipamientos y servicios.
+
+7\. Conjuntos de interés arquitectónico y cultural sujetos a protección.
+
+c) Localización de las Zonas de Interés Regional y especificación de los objetivos territoriales y contenido urbanístico básico de cada una de ellas, así como su clase por razón de la programación de su ejecución en el tiempo.
+
+d) Directrices de coordinación del planeamiento municipal con el Plan de Estrategia Territorial, al menos en los siguientes aspectos:
+
+1\. Magnitudes de referencia para el crecimiento poblacional y la ocupación del suelo en relación con la programación de infraestructuras y servicios.
+
+2\. Criterios de solidaridad y compatibilidad en la distribución de vivienda social, actividades económicas, infraestructuras, equipamientos y servicios entre los diversos municipios, en atención a la estrategia territorial regional prevista.
+
+3\. Orientaciones sobre los modos de desarrollo de los asentamientos en función de las características y de los valores ambientales de los diversos sistemas territoriales.
+
+e) Determinación de las áreas o los sectores para los que deban formularse, con carácter prioritario, Programas de Coordinación de la Acción Territorial o Planes de Ordenación del Medio Natural y Rural.
+
+2\. El Plan Regional de Estrategia Territorial contendrá cuantas determinaciones sean necesarias para cumplir su función, expresándose en los documentos gráficos y escritos adecuados para definir éstas con precisión. Estas determinaciones se formalizarán en dos documentos diferenciados, comprensivos respectivamente de:
+
+a) Las determinaciones básicas o esenciales que deban tener carácter normativo y las de ordenación sustantiva de aplicación directa, incluyéndose, en todo caso, las relativas a:
+
+1\. Los criterios de solidaridad y compatibilidad territorial.
+
+2\. El esquema de articulación territorial.
+
+3\. La delimitación de los espacios naturales y rurales protegidos.
+
+4\. La localización, objetivos y contenido urbanístico básico de las Zonas de Interés Regional.
+
+5\. Los sistemas regionales de infraestructuras básicas y de transporte.
+
+b) Todas las restantes determinaciones, clasificando expresamente las mismas como normas, directrices o recomendaciones y precisando en cada caso el grado de vinculación que impliquen para los planes de las distintas Administraciones públicas y la adaptación que de éstos demanden.
+
+Reglamentariamente, podrá fijarse el contenido y los documentos del Plan, sin perjuicio de lo que resulte en cada caso de la Ley de la Asamblea de Madrid por la que se apruebe o modifique el contenido del mismo a que se refiere la letra a) del párrafo anterior.
+
+##### Artículo 17. Efectos del Plan Regional.
+
+Sin perjuicio del carácter legal formal de las determinaciones del Plan Regional aprobadas por la Asamblea de Madrid, que prevalecerán en cualquier caso sobre cualesquiera otras de la planificación territorial o urbanística, todas las restantes tendrán la eficacia propia de las disposiciones reglamentarias, con el alcance concreto que en ellas se determine conforme a lo dispuesto en la letra b) del número 2 del artículo 16. De estas últimas sólo las relativas a las Zonas de Interés Regional podrán producir la directa modificación de las determinaciones del planeamiento urbanístico municipal.
+
+##### Artículo 18. Elaboración, tramitación y aprobación del Plan Regional de Estrategia Territorial.
+
+La formulación y aprobación del Plan Regional de Estrategia Territorial se ajustarán al siguiente procedimiento:
+
+1\. Decidida la formulación del Plan Regional de Estrategia Territorial, bien por propia iniciativa, bien por acuerdo adoptado al efecto por la Asamblea de Madrid, el Consejo de Gobierno, a propuesta del Consejero competente en materia de ordenación del territorio y urbanismo, someterá a dicha Asamblea de Madrid el Documento de Bases, de conformidad con lo establecido en el artículo 16, para el desarrollo de los correspondientes trabajos, en el que se incluirán necesariamente la organización y los plazos previstos del proceso de formulación y los objetivos básicos del futuro Plan o, en su caso, de su modificación, así como la fijación de criterios para la misma.
+
+2\. Debatido y aprobado por acuerdo de la Asamblea de Madrid el Documento de Bases, la Consejería competente en materia de ordenación del territorio y urbanismo realizará los trabajos precisos, con la participación que fuera procedente de las restantes Consejerías, de la Agencia del Medio Ambiente, de los Municipios y de la Administración general del Estado, así como de las personas, entidades y organizaciones sociales que por su especialización, importancia o relevancia sean expresamente invitadas a tal fin.
+
+3\. El proyecto del Plan, una vez elaborado, será sometido por el Consejero competente en materia de ordenación del territorio a la Comisión de Urbanismo para su aprobación inicial. Este acuerdo deberá ser publicado en el «Boletín Oficial del Estado», en el «Boletín Oficial de la Comunidad de Madrid» y, al menos, en un de los periódicos de mayor difusión en ésta, con indicación expresa del sometimiento del proyecto a información pública por plazo no inferior a dos meses, así como, por igual plazo, a trámite de audiencia, que podrá ser simultáneo al anterior, de las instituciones, corporaciones, entidades y organismos enumerados en el punto anterior.
+
+4\. A la vista del resultado de los trámites a que se refiere el punto anterior, la Consejería competente en materia de ordenación del territorio y urbanismo procederá a la elaboración del proyecto definitivo, que elevará al Consejo de Gobierno para su aprobación provisional, previo informe de la Comisión de Urbanismo.
+
+5\. La aprobación definitiva del Plan Regional de Estrategia Territorial se hará por Ley de la Asamblea de Madrid y Decreto del Consejo de Gobierno, en los términos previstos en los párrafos siguientes.
+
+Aprobado provisionalmente el Plan, el Consejo de Gobierno lo remitirá a la Asamblea de Madrid, presentado bajo la forma de Proyecto de Ley el documento previsto en la letra a) del número 2 del artículo 16 y de anexo a su memoria el documento contemplado en la letra b) del mismo precepto legal.
+
+Publicada la Ley de la Asamblea de Madrid, el Consejo de Gobierno aprobará mediante Decreto el resto del Plan, que deberá publicarse en el «Boletín Oficial de la Comunidad de Madrid» y en, al menos, uno de los periódicos de mayor difusión de ésta.
+
+6\. La revisión del Plan Regional de Estrategia Territorial o la modificación sustancial del contenido de alguno de sus dos documentos se ajustarán al procedimiento establecido para su aprobación. La revisión deberá afectar necesariamente a la totalidad del Plan. Cuando la modificación afecte a uno sólo de los documentos del Plan, será aprobada definitivamente por Ley de la Asamblea de Madrid o Decreto del Consejo de Gobierno, según corresponda.
+
+Los ajustes que sea necesario introducir y que no merezcan la consideración de modificación sustancial serán aprobados definitivamente por Decreto del Consejo de Gobierno, adoptado a propuesta del Consejero competente en materia de ordenación del territorio y urbanismo, con audiencia previa de cuantas instituciones, corporaciones o entidades y organismos estuvieren afectados. El Consejo de Gobierno dará cuenta a la Asamblea de dichos ajustes.
+
+##### Artículo 18 bis. Definición y funciones de los Planes Territoriales.
+
+1\. Los Planes Territoriales son los definidos en el apartado 3 del artículo 14 de esta ley.
+
+2\. Pueden ser objeto de los Planes Territoriales, entre otros:
+
+a) la delimitación, ordenación y protección de los paisajes y espacios naturales y rurales de conformidad con la legislación sectorial vigente, siendo en este caso innecesario realizar Planes de Ordenación del Medio Natural y Rural;
+
+b) la prevención de riesgos naturales o tecnológicos previsibles;
+
+c) la protección del patrimonio cultural, arqueológico y arquitectónico regional;
+
+d) la ordenación de la movilidad, infraestructuras básicas y redes de energía y comunicaciones de carácter supralocal de conformidad con la legislación sectorial vigente;
+
+e) la cohesión y el equilibrio territorial en materia de alojamiento, vivienda, dotaciones y equipamientos de carácter supralocal;
+
+f) el desarrollo del turismo, la agricultura u otras actividades económicas con repercusión territorial de naturaleza supralocal;
+
+g) la definición de la red de infraestructuras regional de corredores ecológicos, espacios verdes y espacios libres de urbanización para conexión y protección de los ecosistemas naturales.
+
+> Se modifica el apartado 2.e) por el art. 3.1 de la Ley 2/2026, de 11 de junio. [Ref. BOE-A-2026-16360](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16360)
+
+> Se añade por el art. 1.2 de la Ley 7/2024, de 26 de diciembre. [Ref. BOE-A-2025-5522](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5522)
+
+##### Artículo 18 ter. Contenido y documentación de los Planes Territoriales.
+
+1\. Los Planes Territoriales contendrán los documentos gráficos y escritos adecuados para definir con precisión sus determinaciones. Éstas se formalizarán documentalmente diferenciándose en Normas de aplicación directa, Directrices para los Planes urbanísticos, y Recomendaciones, precisándose en cada caso el grado de vinculación para las distintas Administraciones y la adaptación que demanden sobre planes y programas previamente existentes.
+
+2\. Podrán ser Normas de aplicación directa, en desarrollo de la Estrategia Territorial de la Comunidad de Madrid o, en su ausencia, subsidiariamente: el modelo de articulación territorial del ámbito territorial objeto de ordenación, la delimitación de los paisajes, espacios naturales y rurales y bienes culturales de índole supramunicipal que por sus valores deban ser objeto de protección y preservados de los procesos de urbanización, la delimitación de los ámbitos territoriales que por su vulnerabilidad frente a riesgos naturales previsibles deban ser excluidos de los procesos de urbanización y la ordenación y reserva cautelar de suelo para infraestructuras de ámbito supralocal y actividades económicas estratégicas de alcance regional o subregional.
+
+3\. Serán Directrices para los Planes urbanísticos, entre otras, las relativas la programación de las inversiones públicas y la fijación de magnitudes de referencia para el desarrollo urbano en coordinación con la programación de las infraestructuras. Los planes urbanísticos deberán justificar en qué medida se cumple con ellas, o motivarse de manera reforzada por qué se aparta de la directriz y qué repercusiones puede tener en el Plan Territorial.
+
+4\. Serán Recomendaciones, entre otras, la fijación de criterios sobre los modos de desarrollo de los asentamientos humanos en relación con los valores agrológicos, ambientales y paisaje. Se trata, en cualquier caso, de orientaciones que el plan puede seguir o apartarse de ellas, debiendo en este último caso, expresarse los motivos que llevan a no seguirlas.
+
+5\. Mediante orden del titular de la consejería competente en materia de ordenación del territorio y urbanismo se podrán precisar con carácter general tanto los documentos gráficos y escritos, así como la coordinación de las recomendaciones y directrices con el resto de instrumentos que pudieran verse afectados, que deberán seguirse en la elaboración de los planes territoriales.
+
+Los instrumentos relacionados con el paisaje contendrán como documento de referencia los catálogos que, fundamentándose en las distintas áreas geográficas, morfológicas, urbanas, rurales y naturales existentes en el territorio madrileño, deberán delimitar, en base a los diferentes estudios y trabajos existentes en la materia, las grandes áreas paisajísticas identificando los diversos tipos de paisajes existentes en cada una de ellas y sus características diferenciales de manera que permitan tenerlo en cuenta para el desarrollo de políticas públicas.
+
+> Se añade por el art. 1.2 de la Ley 7/2024, de 26 de diciembre. [Ref. BOE-A-2025-5522](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5522)
+
+##### Artículo 18 quater. Elaboración y competencia.
+
+1\. La iniciativa de formulación de los Planes Territoriales corresponde a la consejería en la que radiquen las competencias en las materias objeto de regulación.
+
+2\. La aprobación inicial de los Planes Territoriales corresponde a la Comisión de Urbanismo de Madrid. Deberá realizarse un periodo de información pública no inferior a 45 días, así como solicitud de informe a los municipios afectados y, simultáneamente, el requerimiento de los informes de los órganos y entidades públicas previstos legalmente como preceptivos o que, por razón de la posible afección de los intereses públicos por ellos gestionados, deban considerarse necesarios.
+
+3\. La tramitación del procedimiento para la aprobación de los planes territoriales deberá coordinarse, en todo caso, con la tramitación del procedimiento de evaluación ambiental correspondiente.
+
+4\. La aprobación definitiva de los Planes territoriales corresponde al titular de la consejería competente en materia de ordenación del territorio y urbanismo, previo informe de la Comisión de Urbanismo de Madrid.
+
+> Se añade por el art. 1.2 de la Ley 7/2024, de 26 de diciembre. [Ref. BOE-A-2025-5522](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5522)
+
+##### Artículo 18 quinquies. Planes Estratégicos Municipales.
+
+1\. Los Planes Estratégicos Municipales definen los elementos básicos para la organización y estructura del término municipal, sus objetivos estratégicos y el marco de referencia de todos los demás instrumentos urbanísticos del municipio.
+
+2\. El Plan estratégico municipal tiene el siguiente objeto:
+
+a) la determinación de los objetivos, áreas prioritarias y criterios de programación de la estrategia relativos a la organización y estructura del término municipal.
+
+b) la identificación, entre otros, de suelos que deben ser preservados del proceso de urbanización; de la estructura de la movilidad, infraestructuras básicas y redes de energía y comunicaciones de carácter municipal; esquema de los elementos estructurantes y del futuro desarrollo urbano que comprenderá, grandes espacios libres y zonas verdes, infraestructuras críticas de movilidad y de equipamientos comunitarios, así como la priorización de redes de servicios; conjuntos de interés arquitectónico y cultural sujetos a protección y la estrategia de vivienda.
+
+c) las directrices para el diseño, ejecución, armonización y compatibilidad de los desarrollos urbanísticos con el plan estratégico municipal.
+
+3\. Los Planes estratégicos municipales contendrán los documentos gráficos y escritos adecuados para definir con precisión sus determinaciones. Éstas se formalizarán documentalmente diferenciándose en Normas de aplicación directa, Directrices para los Planes urbanísticos, y Recomendaciones, precisándose en cada caso el grado de vinculación y la adaptación que demanden sobre planes y programas previamente existentes.
+
+4\. La iniciativa de formulación de los Planes estratégicos municipales, así como su aprobación inicial, corresponde al Ayuntamiento. Tras la aprobación inicial deberá realizarse un periodo de información pública no inferior a 45 días, así como solicitud de informe de los órganos y entidades públicas previstos legalmente como preceptivos o que, por razón de la posible afección de los intereses públicos por ellos gestionados, deban considerarse necesarios.
+
+5\. En todo caso la tramitación del procedimiento para la aprobación de los planes estratégicos municipales deberá coordinarse con la tramitación del procedimiento de evaluación ambiental correspondiente. La solicitud de los informes preceptivos legalmente exigibles en el procedimiento ambiental se hará simultáneamente a los relativos al procedimiento de ordenación del territorio, cuando sea posible, a fin de obtener un solo pronunciamiento, evitando la duplicidad de informes.
+
+6\. La aprobación definitiva de los Planes estratégicos municipales corresponde al titular de la consejería competente en materia de ordenación del territorio y urbanismo, previo informe de la Comisión de Urbanismo, en ausencia de estrategia territorial o plan territorial. En los demás casos, la aprobación definitiva corresponde al ayuntamiento, previo informe favorable de la consejería competente en materia de ordenación del territorio y urbanismo.
+
+> Se añade por el art. 1.2 de la Ley 7/2024, de 26 de diciembre. [Ref. BOE-A-2025-5522](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5522)
+
+## TÍTULO IV — Actuaciones de interés regional
+
+### CAPÍTULO I — Disposiciones generales
+
+##### Artículo 19. Definición.
+
+1\. La actividad urbanística propia y que tiene una repercusión directa sobre las actividades que se desarrollan en el territorio de la Comunidad de Madrid se realiza mediante actuaciones de interés regional.
+
+2\. El interés regional es aquel que, por su magnitud, proyección social o económica, o importancia para la estructuración territorial beneficie a la Región, implicando una necesaria utilidad pública cuya justificación deberá quedar recogida en la declaración de interés regional que se emita por la Consejería competente.
+
+3\. Las actuaciones de interés regional recogidas en el artículo 33.1 de esta ley, tienen por objeto, además del desarrollo y la ejecución de las políticas territoriales formuladas en el Plan Regional de Estrategia Territorial y demás planes de ordenación del territorio, regular, integrar o armonizar las actuaciones públicas o privadas con incidencia en la ordenación del territorio.
+
+> Se modifica por el art. 4.1 de la Ley 11/2022, de 21 de diciembre. [Ref. BOE-A-2023-7343](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7343)
+
+##### Artículo 20. Clases.
+
+Las actuaciones de interés regional se concretan en Zonas de Interés Regional y en Proyectos de Alcance Regional.
+
+### CAPÍTULO II — Zonas de interés regional
+
+#### Sección 1.ª Disposiciones generales
+
+##### Artículo 21. Definición y objeto.
+
+1\. Son Zonas de Interés Regional las áreas previstas en el Plan Regional de Estrategia Territorial o los Planes Territoriales por su idoneidad para servir de soporte a operaciones urbanísticas que, definidas en los términos del número 2 del artículo 19, tengan cualquiera de las finalidades siguientes:
+
+a) La ordenación y gestión estratégicas del territorio.
+
+b) El despliegue ordenado, integrado y armónico del desarrollo económico y social de la región, la superación de situaciones de crisis o de transformación de sectores económicos o la corrección de desequilibrios intrarregionales en materia de vivienda, infraestructuras, dotaciones, equipamientos y servicios.
+
+2\. Las Zonas de Interés Regional pueden ser de Actuación Inmediata y de Actuación Diferida, según que su finalidad sea, respectivamente, constituir el soporte de operaciones urbanísticas regionales cuyo inicio de ejecución se programe en los siguientes cuatro años, o constituir reservas estratégicas de suelo para el desarrollo de operaciones urbanísticas regionales no programadas.
+
+> Se modifica el apartado 1 por el art. 1.3 de la Ley 7/2024, de 26 de diciembre. [Ref. BOE-A-2025-5522](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5522)
+
+##### Artículo 22. Procedimiento para la delimitación de declaración de Zonas de Interés Regional.
+
+1\. El Plan Regional de Estrategia Territorial y, en ausencia de este, los Planes Territoriales contendrán la localización, objetivos territoriales y contenido urbanístico básico de todas las Zonas de Interés Regional previstas en el mismo, pudiendo contener incluso la delimitación precisa del ámbito de cada una de ellas.
+
+2\. La delimitación del ámbito de las Zonas de Interés Regional de conformidad con su localización, cuando no se contenga ya directamente en el Plan Regional de Estrategia Territorial o cuando se pretenda su modificación, se ajustará al siguiente procedimiento:
+
+a) Aprobación inicial por el Consejo de Gobierno de la Comunidad de Madrid, a propuesta del Consejero competente en materia de ordenación del Territorio y Urbanismo y previo informe de la Comisión de Urbanismo.
+
+b) Información pública y, simultáneamente, informe del municipio o los municipios afectados, así como del órgano u organismo correspondiente de la Administración General del Estado por plazo de un mes o, asimismo, en caso de formalizarse por el o los Municipios discrepancia en punto a la concurrencia de interés general o de su extensión o alcance, dictamen de la Comisión de concertación de la Acción Territorial.
+
+c) Aprobación definitiva por el Consejo de Gobierno de la Comunidad de Madrid, bajo la forma de Decreto adoptado a propuesta del Consejero competente en materia de ordenación del Territorio y Urbanismo y previo informe de la Comisión de Urbanismo, teniendo en cuenta las alegaciones formuladas y los informes aportados en el período de información pública, así como, en su caso, el dictamen de la Comisión de Concertación de la Acción Territorial.
+
+Los acuerdos de aprobación inicial y definitiva, deberán ser publicados en el «Boletín Oficial de la Comunidad de Madrid» y en, al menos, uno de los periódicos de mayor difusión en ésta.
+
+> Se modifica el apartado 1 por el art. 1.4 de la Ley 7/2024, de 26 de diciembre. [Ref. BOE-A-2025-5522](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5522)
+
+##### Artículo 23. Gestión de las Zonas de Interés Regional.
+
+Las Zonas de Interés Regional se gestionarán por cualquiera de los sistemas de gestión urbanística previstos en la legislación vigente.
+
+> Se modifica por el art. 3.2 de la Ley 2/2026, de 11 de junio. [Ref. BOE-A-2026-16360](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16360)
+
+##### Artículo 24. Administración actuante.
+
+1\. La Comunidad de Madrid tendrá a todos los efectos la condición de Administración actuante en el desarrollo de las actuaciones públicas que le competen, pudiendo conceder a otras Administraciones u organismos públicos el desarrollo de la gestión y ejecución; sin perjuicio de los mecanismos de concertación que se establezcan.
+
+2\. Las obras, construcciones e instalaciones de las Zonas de Interés Regional estarán sujetas a licencia municipal, conforme a la legislación aplicable.
+
+#### Sección 2.ª Zonas de Interés Regional de Actuación Inmediata
+
+##### Artículo 25. Concepto.
+
+Son Zonas de Interés Regional de Actuación Inmediata aquellas cuya programación prevea la aprobación definitiva de los pertinentes planes o instrumentos urbanísticos de ordenación y la iniciación de las obras de urbanización a que deban éstos dar lugar dentro de los cuatro años siguientes a la aprobación definitiva de la delimitación y declaración de las mismas.
+
+##### Artículo 26. Asociación de otras Administraciones.
+
+Mediante convenios de colaboración y, en su caso, constitución de consorcios, sobre la base de un contrato-programa y en función de las respectivas aportaciones efectivas, la Comunidad de Madrid, por acuerdo de su Consejo de Gobierno, podrá asociar a la gestión de una Zona de Interés Regional de Actuación Inmediata a la Administración General del Estado y asociará a ella, en todo caso, a los Municipios cuyos términos se vean afectados por la delimitación de la Zona correspondiente, que invoquen intereses municipales compatibles con el regional perseguido y participen en las inversiones necesarias para el desarrollo de la actuación.
+
+##### Artículo 27. Contenido y documentos de las propuestas de delimitación y declaración.
+
+Las propuestas de delimitación de Zonas de Actuación Inmediata contendrán las siguientes determinaciones:
+
+a) Justificación del interés regional y de la adecuación de la zona a las determinaciones del Plan Regional de Estrategia Territorial en cuanto a la localización, objetivos territoriales y contenido urbanístico básico de la Zona.
+
+b) Descripción y delimitación, escritas y gráficas, de los terrenos comprendidos por la Zona, con referencia al término municipal, polígono y parcela catastrales y, en su caso, sector, polígono y calle en que se sitúe cada terreno o finca; así como también, en su caso, de las superficies, exteriores a la misma, que habrán de constituir el soporte físico de las conexiones de las infraestructuras y los servicios propios de las actuaciones urbanísticas que se realicen en la Zona con las redes generales correspondientes.
+
+c) Memoria descriptiva de la operación u operaciones urbanísticas a desarrollar en la Zona.
+
+d) Descripción gráfica y escrita de la clasificación urbanística del suelo, para la totalidad de la Zona, vigente en el momento de elaboración de la propuesta.
+
+e) Fijación y precisión, gráficas y escritas, de la clasificación, calificación y determinaciones de ordenación resultantes de la delimitación y declaración de la Zona.
+
+f) Programas de actuación y plan de etapas para el desarrollo de la Zona.
+
+g) Análisis económico y previsiones financieras necesarias para el desarrollo de la actuación.
+
+h) Evaluación de impacto ambiental y territorial.
+
+##### Artículo 28. Alcance y efectos de la delimitación y declaración.
+
+1\. Las Zonas de Interés Regional de Actuación Inmediata comprenden terrenos clasificados como suelo no urbanizable o urbanizable no programado. Excepcionalmente y para conseguir una adecuada integración con los sistemas y redes existentes o previstas en el resto del suelo podrán comprender también terrenos destinados a sistemas generales adscritos o incluidos en otras clases de suelo, pero sin que ello pueda significar alteración de las previsiones del planeamiento municipal en cuanto a la distribución de beneficios y cargas. En ningún caso, podrán afectar a suelo no urbanizable sujeto a protección especial, salvo que tengan por objeto su específica protección.
+
+2\. Su delimitación y declaración tendrán los siguientes efectos:
+
+a) La declaración de la utilidad pública y de la necesidad de la ocupación, a efectos de expropiación forzosa, de los terrenos incluidos en la delimitación de la Zona y de los externos a ella a que se refiere la letra b) del artículo anterior.
+
+b) La clasificación del suelo no urbanizable como urbanizable no programado. Las restantes clases de suelo mantendrán su clasificación urbanística.
+
+##### Artículo 29. Instrumentos urbanísticos de ordenación y ejecución.
+
+1\. La ordenación urbanística de las Zonas reguladas en esta Sección y la ejecución de dicha ordenación se llevarán a efecto, para toda o parte de la superficie que dichas zonas comprendan, mediante Planes Especiales, Programa de Actuación Urbanística y Proyectos de Alcance Regional, según proceda, formulados de conformidad con la legislación aplicable.
+
+2\. La elaboración, tramitación y aprobación de los Programas de Actuación Urbanística y de los Planes Especiales previstos en el número anterior corresponderá a la Comunidad de Madrid, ajustándose al siguiente procedimiento:
+
+a) Aprobación inicial por la Comisión de Urbanismo de Madrid, con simultánea apertura de los trámites previstos en la letra siguiente.
+
+b) Información pública y, simultáneamente, informe de los Municipios afectados, por plazo no inferior a un mes.
+
+c) Aprobación definitiva por el Consejero competente en materia de Ordenación del Territorio y Urbanismo, previo informe de la Comisión de Urbanismo de Madrid, y de la Comisión de Concertación de la Acción Territorial, emitido a la vista de las alegaciones presentadas y los informes formulados.
+
+Los acuerdos de aprobación inicial y definitiva se publicarán íntegramente en el «Boletín Oficial de la Comunidad de Madrid» y en uno de los periódicos de mayor difusión de ésta.
+
+#### Sección 3.ª Zonas de Interés Regional de Actuación Diferida
+
+##### Artículo 30. Concepto y alcance.
+
+1\. Son Zonas de Interés Regional de Actuación Diferida aquellas que tienen por finalidad la creación de reservas de suelo idóneas para el desarrollo y la ejecución de la política territorial de la Comunidad de Madrid mediante las operaciones urbanísticas a que se refiere el número 1 del artículo 21 que se concreten a partir de la correspondiente delimitación y declaración.
+
+Su período de vigencia será de seis años, debiéndose producir dentro de dicho plazo su transformación en Zonas de Interés Regional de Actuación Inmediata, conforme al procedimiento establecido en el artículo 32.
+
+2\. Dichas delimitaciones deberán estar justificadas por las necesidades estratégicas de reequilibrio territorial para la implantación de actividades de interés o desarrollo regional o de protección medioambiental.
+
+3\. Estas zonas sólo pueden comprender suelo clasificado como urbanizable no programado y no urbanizable.
+
+##### Artículo 31. Contenido y documentos de las propuestas de delimitación y declaración.
+
+1\. Las propuestas de delimitación y declaración de las Zonas a que se refiere esta Sección contendrán las determinaciones y se formalizarán en los documentos previstos en los apartados a), b), c), y d) del artículo 27 de esta Ley.
+
+2\. Las transmisiones onerosas de los terrenos y edificaciones incluidos en el ámbito de las Zonas reguladas en esta Sección quedarán sujetas al derecho de tanteo y, en su caso, al de retracto en favor de la Comunidad de Madrid, durante el plazo de ocho años a partir de la aprobación definitiva de la delimitación y declaración correspondientes.
+
+##### Artículo 32. Transformación en Zonas de Interés Regional de Actuación Inmediata.
+
+Las Zonas de Interés Regional de Actuación Diferida podrán transformarse, en todo o en parte, en Zonas de Interés Regional de Actuación Inmediata mediante declaración formal aprobada, sobre la base de una propuesta justificativa y comprensiva de los extremos especificados en las letras e), f), g) y h) del artículo 27, por el Consejero competente en materia de Ordenación del Territorio y Urbanismo, previa información pública y audiencia del Municipio o Municipios interesados por plazo de quince días e informe de la Comisión de Urbanismo de Madrid. La realización en ellas de cualquier actuación urbanística exigirá en todo caso dicha transformación.
+
+### CAPÍTULO IV — Proyectos de Alcance Regional
+
+#### Sección 1.ª Disposiciones Generales
+
+> Se añade por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+##### Artículo 33. Concepto, objeto y requisitos.
+
+1\. Los Proyectos de Alcance Regional son actuaciones territoriales que ordenan y diseñan, con carácter básico y para su inmediata ejecución, cualquiera de las siguientes actuaciones:
+
+a) Infraestructuras regionales de cualquier tipo, comprendiendo las construcciones e instalaciones complementarias precisas, que propicien la articulación territorial interna o con el exterior de la Comunidad de Madrid.
+
+b) Obras, construcciones o instalaciones, incluida la urbanización complementaria que precisen, que sirvan de soporte a vivienda pública de emergencia, servicios públicos, dotaciones y equipamientos.
+
+c) Instalaciones para el desarrollo de actividades económicas que tengan por objeto la investigación, la producción, la distribución y la comercialización de bienes y servicios.
+
+d) Proyectos que supongan la implantación de actividades económicas que revistan interés por su relevancia en la creación de empleo, por la inversión que comporten o por la creación de riqueza para la región.
+
+e) Proyectos que supongan una mejora ambiental.
+
+2\. Son igualmente Proyectos de Alcance Regional los consistentes en la ordenación e implantación de Centros Integrados de Desarrollo.
+
+A los efectos de la presente Ley, tendrán la condición de Centros Integrados de Desarrollo aquellos complejos que tengan por objeto la prestación integrada de actividades industriales, turísticas, de convenciones y congresos, de ocio, espectáculos, juego, deportivas, sanitarias, culturales o comerciales, así como otras actividades o usos accesorios o complementarios a los anteriores, y presenten un impacto relevante, efectivo y duradero, en el desarrollo económico, social y cultural de la Comunidad de Madrid.
+
+Los pliegos por los que se rija el otorgamiento de las autorizaciones previstas en el artículo 43 de esta Ley deberán incluir las condiciones mínimas de extensión, inversión y empleo que determinarán el interés regional de los Centros Integrados de Desarrollo.
+
+3\. Los Proyectos de Alcance Regional deberán asegurar en todos los casos el adecuado funcionamiento de las obras e instalaciones que constituyan su objeto. Deberán igualmente justificar la concreta ubicación y delimitación de la actuación, su incidencia territorial y ambiental y su grado de integración con la planificación y ordenación vigente. Para ello, el Proyecto de Alcance Regional contendrá todas las determinaciones de ordenación y gestión que se precisen para su realización efectiva y que como mínimo, serán las que se recogen en el artículo 36 de la presente Ley.
+
+4\. Los Proyectos de Alcance Regional pueden tener también por objeto obras y servicios públicos de interés común y actuaciones conjuntas de las Administraciones General del Estado y de la Comunidad de Madrid y los Municipios, siempre que éstas suscriban los convenios al efecto o su objeto se inscriba en uno de los convenios previamente suscritos por las Administraciones interesadas para el cumplimiento de competencias concurrentes, compartidas o complementarias.
+
+> Se modifica por el art. 4.2 de la Ley 11/2022, de 21 de diciembre. [Ref. BOE-A-2023-7343](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7343)
+
+> Se modifica por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+> Se modifica el apartado 1 por el art. 24 de la Ley 4/1992, de 4 de julio. [Ref. BOE-A-2012-12816](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-12816).
+
+##### Artículo 34. Función urbanística de ordenación.
+
+1\. Los Proyectos de Alcance Regional pueden comprender terrenos situados en uno o varios términos municipales y desarrollarse, respetando la legislación ambiental y sectorial de aplicación, en cualquier clase de suelo.
+
+Cuando el Proyecto de Alcance Regional prevea su implantación en suelo no urbanizable de protección o en suelo urbanizable no sectorizado, la declaración de interés regional implicará la innecesariedad de obtener la calificación urbanística o el proyecto de actuación especial previstos en la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid.
+
+2\. El suelo que en los Proyectos a que se refiere el número anterior se destine a uso dotacional público tendrá la calificación urbanística y pasará en todo caso a integrarse en los sistemas generales de la ordenación establecida por el planeamiento urbanístico municipal.
+
+3\. Los Proyectos de Alcance Regional para la ordenación e implantación de los Centros Integrados de Desarrollo deben definir, con arreglo a la autorización otorgada, el modelo de ordenación urbanística y, en su caso territorial, estableciendo simultáneamente la ordenación estructurante de dichos Centros, así como, en lo procedente, su ordenación pormenorizada.
+
+> Se modifica por el art. 4.3 de la Ley 11/2022, de 21 de diciembre. [Ref. BOE-A-2023-7343](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7343)
+
+> Se modifica por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+##### Artículo 35. Elaboración, promoción y ejecución.
+
+Pueden elaborar, promover y ejecutar Proyectos de Alcance Regional ante la Comunidad de Madrid:
+
+a) Las Administraciones públicas, las entidades de derecho público de ellas dependientes y las sociedades cuyo capital les pertenezca íntegra o mayoritariamente, siempre que, en este último caso, la urbanización y la edificación forme parte de su objeto social.
+
+b) Las personas privadas, físicas o jurídicas. Los promotores privados deberán presentar, sin perjuicio de lo que con carácter sectorial cada Consejería determine, una memoria de alcance regional del proyecto en la que, de conformidad con la definición recogida en el artículo 19.2 de la presente Ley, se justifique el interés regional de la actuación pretendida.
+
+Dicha memoria junto con la solicitud de declaración de interés regional se presentará en la Consejería que de conformidad con la actuación objeto del proyecto resulte competente por razón de su normativa específica, para que emita la correspondiente declaración que, en caso de ser favorable, determinará la aplicación del procedimiento establecido en la presente Ley. En el supuesto en que la actuación objeto del proyecto afectara a materias específicas de dos o más Consejerías, aquella que hubiera recibido la solicitud lo pondrá en conocimiento del Consejo de Gobierno quien, mediante acuerdo, determinará la Consejería competente para emitir la correspondiente declaración de interés regional.
+
+En el caso de los Centros Integrados de Desarrollo, el procedimiento podrá comenzar mediante la solicitud del interesado a la Administración, a la que se deberá acompañar la documentación consistente en un estudio de viabilidad económica, ambiental, técnica y organizativa, debiendo la Administración, en el plazo de un mes, comunicar al interesado, su decisión acerca de tramitar o no tramitar el procedimiento previsto en esta Ley.
+
+> Se modifica por el art. 4.4 de la Ley 11/2022, de 21 de diciembre. [Ref. BOE-A-2023-7343](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7343)
+
+> Redactado el apartado b) conforme a la corrección de errores publicada en BOCM, núm 47, de 24 de febrero de 2023. [Ref. BOCM-m-2023-90050](https://www.boe.es/buscar/doc.php?id=BOCM-m-2023-90050)
+
+> Se modifica por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+#### Sección 2.ª Contenido, aprobación y ejecución de los proyectos de alcance regional
+
+> Se añade por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+##### Artículo 36. Determinaciones.
+
+1\. Los Proyectos de Alcance Regional contendrán las determinaciones y los documentos siguientes:
+
+a) Justificación de su alcance regional.
+
+b) Declaración de interés regional emitida por la consejería competente, en los supuestos regulados en el apartado b) del artículo 35.
+
+c) Localización de las obras a realizar, delimitación de su ámbito y descripción de los terrenos en él incluidos, comprensiva del término o términos municipales en que se sitúen y de sus características, tanto físicas –incluyendo las topográficas, geológicas y de la vegetación–, como jurídicas relativas a la estructura de la propiedad y los usos y aprovechamientos existentes.
+
+d) Administración pública, entidad o persona promotora del proyecto, con precisión, en su caso, de todos los datos necesarios para su plena identificación.
+
+e) Memoria justificativa y descripción detallada de la ordenación y de las características técnicas del Proyecto.
+
+f) Plazos de inicio y terminación de las obras, con determinación, en su caso, de las fases en que se divida la ejecución.
+
+g) Estudio económico-financiero justificativo de la viabilidad del Proyecto en relación al coste total previsto, con indicación de la consignación de partida suficiente en el capítulo de gastos del presupuesto correspondiente al primer año de la ejecución en el caso de promoción pública, así como, en todo caso, de los medios, propios y ajenos, en la disposición de la entidad o persona responsables de dicha ejecución para hacer frente al referido coste.
+
+h) Definición de la forma de gestión a emplear para la ejecución.
+
+i) Estudio o estudios y especificaciones legalmente preceptivas para la declaración de impacto ambiental, para la elaboración del documento de alcance en la evaluación ambiental estratégica, en su caso, y los necesarios para el informe de impacto territorial.
+
+j) Conformidad o no a la ordenación urbanística en vigor y aplicable a los terrenos comprendidos por el Proyecto, en punto a la clasificación y la calificación del suelo; precisión, en su caso, de las previsiones de dicha ordenación que resultarán directamente incompatibles con el contenido del Proyecto a los efectos del artículo 38.3.
+
+k) Obligaciones asumidas por el promotor, que deberán incluir, en cualquier caso y como mínimo, las correspondientes a los deberes legales derivados del régimen de la clase de suelo resultante del Proyecto y afectación real al destino objetivo prescrito por dicha ordenación, con inscripción registral de esta última obligación antes de la conclusión de la ejecución.
+
+l) Garantías que, en su caso, se prestan y constituyen, en cualquiera de las formas admitidas en Derecho, para asegurar el cumplimiento de las obligaciones establecidas en la letra anterior en los plazos a que se refiere la letra f).
+
+m) Cualesquiera otras determinaciones que vengan impuestas por disposiciones legales o reglamentarias.
+
+2\. Los Proyectos de Alcance Regional comprenderán los documentos necesarios, incluidos planos, para formalizar con claridad y precisión las determinaciones a que se refiere el apartado anterior.
+
+3\. Por orden del consejero competente en materia de ordenación del territorio y urbanismo, previo informe favorable de la Comisión de Urbanismo de Madrid, podrá concretarse el contenido mínimo de las determinaciones y los documentos que deben constar en los Proyectos de Alcance Regional y fijar, en su caso, y cuando las características peculiares del objeto de éstos así lo demanden, el contenido complementario al establecido en el apartado 1 que deba exigirse para su tramitación y aprobación.
+
+> Se modifican los apartado 1 y 3 por el art. 1.5 y 6 de la Ley 7/2024, de 26 de diciembre. [Ref. BOE-A-2025-5522](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5522)
+
+> Se modifica por el art. 4.5 de la Ley 11/2022, de 21 de diciembre. [Ref. BOE-A-2023-7343](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7343)
+
+> Se modifica por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+##### Artículo 37. Procedimiento de aprobación.
+
+La aprobación de los Proyectos de Alcance Regional se ajustará al siguiente procedimiento:
+
+a) Solicitud del interesado o, en su caso, iniciativa de la Administración o entidad de derecho público, cuando el Proyecto no sea de iniciativa de la propia comunidad, en la Consejería competente en materia de ordenación del territorio y urbanismo.
+
+b) Aprobación inicial por la Comisión de Urbanismo de Madrid con inmediato sometimiento a información pública y, simultáneamente, a audiencia del municipio o municipios afectados, cuando éstos no sean los promotores del Proyecto. El plazo de información pública y audiencia será de un mes a contar desde su publicación en el “Boletín Oficial de la Comunidad de Madrid”.
+
+De la misma manera, durante el trámite de información pública y audiencia, la Consejería competente en materia de ordenación del territorio y urbanismo solicitará los informes sectoriales previstos legalmente como preceptivos o que deban considerarse necesarios por razón de la afección que la actuación pretendida genere en los intereses públicos por ellos gestionados. Estos informes deberán ser emitidos en el mismo plazo de la información pública y audiencia, salvo que su normativa específica establezca un plazo diferente.
+
+c) Informe de la Comisión de Urbanismo de Madrid.
+
+d) Aprobación definitiva, si procede, por el Consejo de Gobierno de la Comunidad de Madrid.
+
+El acuerdo de aprobación definitiva se publicará en el “Boletín Oficial de la Comunidad de Madrid”.
+
+Transcurridos tres meses desde la emisión del informe por la Comisión de Urbanismo, sin que haya recaído resolución expresa por el Consejo de Gobierno de la Comunidad de Madrid, se entenderá desestimada la aprobación del Proyecto de Alcance Regional.
+
+> Se modifica por el art. 4.6 de la Ley 11/2022, de 21 de diciembre. [Ref. BOE-A-2023-7343](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7343)
+
+> Se modifica por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+##### Artículo 38. Efectos de la aprobación.
+
+La aprobación por el Consejo de Gobierno de la Comunidad de Madrid de un Proyecto de Alcance Regional tendrá, además de los que pudiera prever la legislación sectorial de aplicación, los siguientes efectos:
+
+1\. Tanto en actuaciones de iniciativa pública como en actuaciones de iniciativa privada, llevará implícita la declaración de la utilidad pública y de la necesidad de la ocupación para la expropiación de los bienes y derechos que resulten afectados y sean necesarios para su ejecución, incluida la de las conexiones exteriores con las redes, sistemas de infraestructuras y servicios generales.
+
+2\. Cuando tengan encomendada o sean responsables de la ejecución de los Proyectos de Alcance Regional, podrán ser beneficiarios de la expropiación:
+
+a) Las entidades de derecho público, incluso de carácter consorcial, así como las sociedades públicas que sean directamente promotores o reciban de la Administración promotora la encomienda de la ejecución.
+
+b) Los particulares promotores y las entidades urbanísticas colaboradoras constituidas entre éstos y la Administración actuante.
+
+3\. Las determinaciones contenidas en los Proyectos de Alcance Regional aprobados definitivamente vincularán de forma directa y producirán efectos en los instrumentos de ordenación urbanística municipal o de los municipios afectados desde la publicación en el “Boletín Oficial de la Comunidad de Madrid”. Además, los referidos instrumentos de ordenación urbanística deberán incorporarlas mediante el procedimiento de pertinente aplicación.
+
+4\. En las actuaciones de iniciativa pública, la construcción y puesta en funcionamiento de las obras no estarán sujetas a licencias ni a actos de control municipal. En consecuencia, la aprobación del proyecto legitimará inmediatamente la ejecución de las actuaciones de carácter público, siendo sus determinaciones directamente aplicables.
+
+5\. En el caso de actuaciones de iniciativa privada, la aprobación del Proyecto de Alcance Regional legitimará inmediatamente su ejecución, previo ejercicio del correspondiente acto de intervención o de posterior control municipal, de conformidad con lo señalado en el apartado 3 de este artículo.
+
+6\. La aprobación definitiva de los Proyectos de Alcance Regional determinará el régimen de derechos y deberes aplicable para su ejecución de conformidad con la clase de suelo que aquéllos delimiten.
+
+Los deberes y cargas correspondientes podrán cumplirse mediante la entrega de suelo o aprovechamiento urbanístico o compensación en metálico equivalente al correspondiente valor urbanístico.
+
+Los municipios serán beneficiarios de las cesiones de suelo y aprovechamiento urbanístico que se deriven de la ejecución de Proyectos de Alcance Regional, conforme a la legislación urbanística aplicable.
+
+7\. Quedan sin contenido los artículos 41 y 42 de esta ley.
+
+> Se modifica por el art. 4.7 de la Ley 11/2022, de 21 de diciembre. [Ref. BOE-A-2023-7343](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7343)
+
+> Se modifica por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+##### Artículo 39. Subrogación en la posición jurídica de la persona o entidad particular que tenga atribuida la ejecución.
+
+1\. La persona o entidad particular a la que el acto de aprobación definitiva atribuya la responsabilidad de la ejecución de un Proyecto de Alcance Regional estará obligada a la completa realización de las obras e instalaciones previstas en éste.
+
+2\. No obstante lo anterior, excepcionalmente y en virtud de circunstancias sobrevenidas, cuando sea indispensable para el aseguramiento de la conclusión de la ejecución y por acuerdo del Consejo de Gobierno de la Comunidad de Madrid adoptado a instancia del interesado, podrá autorizarse la sustitución, total o parcial, de éste por otra persona o entidad en los derechos y las obligaciones derivados del acto de aprobación de un Proyecto de Alcance Regional y relativos, por tanto, a su ejecución.
+
+> Se modifica por el art. 4.8 de la Ley 11/2022, de 21 de diciembre. [Ref. BOE-A-2023-7343](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7343)
+
+> Se modifica por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+##### Artículo 40. Incumplimiento de la ejecución y caducidad. Consecuencias.
+
+1\. El incumplimiento de los requisitos y condiciones establecidos en el acuerdo de aprobación definitiva del Proyecto de Alcance Regional para las actuaciones de carácter privado determinará, previa tramitación del oportuno expediente, su extinción por acuerdo del Consejo de Gobierno, sin perjuicio de las obligaciones que resultaran exigibles y de las responsabilidades en que hubiera podido incurrir el interesado de acuerdo con la normativa que sea de aplicación, incluida la restitución del suelo a las condiciones originales.
+
+2\. La competencia para la instrucción del procedimiento de extinción será del Consejero en materia de Ordenación del Territorio y Urbanismo. Para su extinción deberá observarse el siguiente procedimiento:
+
+a) El inicio del expediente de extinción por incumplimiento, se comunicará a la persona o entidad particular a la que el acto de aprobación definitiva del proyecto atribuya la responsabilidad de la ejecución, dándole vista y audiencia por un plazo de veinte días.
+
+b) Cumplido este trámite, y a la vista, en su caso, de las actuaciones realizadas y de las alegaciones presentadas, se formulará una propuesta de resolución por el consejero en materia de ordenación del territorio y urbanismo.
+
+c) El Consejo de Gobierno de la Comunidad de Madrid, a propuesta del consejero competente en materia de ordenación del territorio y urbanismo acordará la resolución definitiva del expediente de extinción.
+
+3\. Los Proyectos de Alcance Regional caducarán, mediante declaración previa del Consejo de Gobierno, con prohibición expresa de cualquier acto ulterior de ejecución del mismo y los demás pronunciamientos que procedan sobre la responsabilidad en que se hubiera podido incurrir, en los siguientes supuestos:
+
+a) Incumplimiento de los plazos de inicio o terminación de la ejecución o interrupción de ésta por tiempo superior al autorizado o sin causa justificada.
+
+b) Sustitución o subrogación de tercero en la posición jurídica de la persona o entidad responsable de la ejecución, sin autorización expresa previa.
+
+c) Realización de la ejecución contraviniendo gravemente o apartándose en cualquier otra forma de las previsiones contenidas en el Proyecto de Alcance Regional.
+
+4\. Para la declaración de la caducidad a que se refiere el apartado anterior deberá observarse el siguiente procedimiento:
+
+a) Advertencia previa por parte del consejero competente en materia de ordenación del territorio y urbanismo, sobre el incumplimiento, con especificación del supuesto o de los supuestos en que descanse y las consecuencias que se entienda procedente deducir del incumplimiento, que deberá notificarse a la persona o personas interesadas.
+
+b) Vista del expediente y alegaciones por plazo de veinte días, dando audiencia al municipio o municipios afectados.
+
+c) Práctica de las pruebas, propuestas en el trámite de alegaciones y declaradas pertinentes por el consejero competente en materia de ordenación del territorio y urbanismo, así como de cuantas otras disponga éste de oficio, en un período máximo de un mes.
+
+d) Resolución definitiva, por acuerdo del Consejo de Gobierno de la Comunidad de Madrid, a propuesta del consejero competente en materia de ordenación del territorio y urbanismo. Esta resolución podrá, cuando así proceda y no obstante la apreciación de la caducidad del Proyecto, disponer la rehabilitación de éste y la prórroga del plazo o los plazos para su ejecución, con imposición de los requisitos y las condiciones pertinentes y adecuadas para garantizar el puntual y correcto cumplimiento.
+
+5\. Dentro del mes siguiente a la declaración de la caducidad en los términos previstos en el apartado 3, la Administración actuante podrá asumir directamente la gestión de la ejecución mediante los sistemas legalmente establecidos en la legislación vigente.
+
+Desestimada esa asunción o, en todo caso, transcurrido el plazo para acordarla sin adopción de decisión expresa alguna, se producirán automáticamente los siguientes efectos:
+
+a) Los terrenos afectados por el Proyecto de Alcance Regional tendrán la clasificación y calificación urbanística que prevea el planeamiento urbanístico en vigor, sin perjuicio de que el Municipio pueda ejercer la potestad de planeamiento, para que los referidos terrenos recuperen su clasificación y calificación originaria.
+
+b) La persona o entidad responsable de la ejecución del Proyecto de Alcance Regional caducado deberá realizar los trabajos precisos para reponer los terrenos al estado que tuvieran antes del comienzo de dicha ejecución y perderá, en su caso, la garantía que tuviera constituida.
+
+c) Los titulares de los terrenos que hubieran sido objeto de expropiación para la ejecución del Proyecto podrán solicitar su reversión de acuerdo con los requisitos y el procedimiento previstos en la Ley de Expropiación Forzosa.
+
+6\. La declaración de caducidad no dará lugar, por sí sola, a indemnización alguna.
+
+> Se modifica por el art. 4.9 de la Ley 11/2022, de 21 de diciembre. [Ref. BOE-A-2023-7343](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7343)
+
+> Se modifica por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+##### Artículo 41.
+
+**(Sin contenido)**
+
+> Se deja sin contenido, en la redacción dada al art. 38.7 de esta Ley, por el art. 4.7 de la Ley 11/2022, de 21 de diciembre. [Ref. BOE-A-2023-7343](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7343)
+
+> Se modifica por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+##### Artículo 42.
+
+**(Sin contenido)**
+
+> Se deja sin contenido, en la redacción dada al art. 38.7 de esta Ley, por el art. 4.7 de la Ley 11/2022, de 21 de diciembre. [Ref. BOE-A-2023-7343](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7343)
+
+> Se modifica por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+#### Sección 3.ª Disposiciones específicas de los Proyectos de Alcance Regional de los Centros Integrados de Desarrollo
+
+> Se añade por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+##### Artículo 43. Régimen aplicable a los Centros Integrados de Desarrollo.
+
+Sin perjuicio de las disposiciones generales establecidas en la Sección primera del presente Capítulo, el régimen aplicable a las autorizaciones de los Centros Integrados de Desarrollo y a los Proyectos de Alcance Regional de dichos Centros será el establecido en la presente Sección.
+
+Las disposiciones de la presente ley aplicables a los Centros Integrados de Desarrollo prevalecerán, en caso de conflicto, sobre las restantes normas de la Comunidad de Madrid.
+
+> Se añade por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+> Se deroga por la disposición derogatoria única.b) de la Ley 9/2001, de 17 de julio. [Ref. BOE-A-2001-18984](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18984).
+
+##### Artículo 44. Determinaciones.
+
+Los Proyectos de Alcance Regional consistentes en un Centro Integrado de Desarrollo contendrán las determinaciones y documentos previstos en el artículo 36 y además, se deberá aportar una memoria justificativa de las previsiones de creación de empleo, la inversión que comportan o el incremento de riqueza para la región que supongan.
+
+> Se añade por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+> Se deroga por la disposición derogatoria única.b) de la Ley 9/2001, de 17 de julio. [Ref. BOE-A-2001-18984](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18984).
+
+##### Artículo 45. Procedimiento de aprobación de los Centros Integrados de Desarrollo.
+
+1\. La implantación de un Centro Integrado de Desarrollo requerirá la previa obtención de una autorización administrativa otorgada mediante concurso público por el Consejo de Gobierno de la Comunidad de Madrid, cuya eficacia estará condicionada a la aprobación definitiva del correspondiente Proyecto de Alcance Regional.
+
+El citado concurso se podrá convocar de oficio o por solicitud de un interesado en los términos previstos en el artículo 35.
+
+En todo caso, la tramitación del concurso se hará por la Consejería competente en materia de Economía.
+
+Si fuera necesario de acuerdo con la legislación aplicable, las ofertas presentadas deberán incluir un documento indicativo de la ordenación del Proyecto de Alcance Regional y un estado de incidencia ambiental previo para la emisión del informe de análisis ambiental previo por la Consejería competente en materia de Medio Ambiente. La emisión de dicho informe deberá ir precedida por un período de consulta durante el plazo de un mes a las Administraciones Publicas afectadas, y en su caso, a las personas interesadas.
+
+2\. Adjudicado el concurso, la Consejería competente en materia de Economía remitirá a la Consejería competente en materia de Medio Ambiente la documentación del proyecto seleccionado.
+
+La Consejería competente en materia de Medio Ambiente determinará el alcance del estudio de impacto ambiental, previa consulta durante el plazo de un mes a las Administraciones Públicas afectadas y, en su caso, a las personas interesadas.
+
+El plazo para trasladar al promotor la amplitud y el nivel de detalle del estudio de impacto ambiental, así como las contestaciones recibidas a las consultas efectuadas, será de diez días.
+
+El promotor presentará junto con el resto de la documentación, ante la Consejería competente en materia de Medio Ambiente, el estudio de incidencia ambiental definitiva y, en su caso, un estudio de impacto ambiental, que contendrá, además de las determinaciones exigidas, al menos, los siguientes datos:
+
+a) Descripción general del proyecto y exigencias previsibles en el tiempo, en relación con la utilización del suelo y de otros recursos naturales. Estimación de los tipos y cantidades de residuos vertidos y emisiones de materia o energía resultantes.
+
+b) Una exposición de las principales alternativas estudiadas y una justificación de las principales razones de la solución adoptada, teniendo en cuenta los efectos ambientales.
+
+c) Evaluación de los efectos previsibles directos o indirectos del proyecto sobre la población, la flora, la fauna, el suelo, el aire, el agua, los factores climáticos, el paisaje y los bienes materiales, incluido el patrimonio histórico artístico y el arqueológico. Asimismo, se atenderá a la interacción entre todos estos factores.
+
+d) Medidas previstas para reducir, eliminar o compensar los efectos ambientales significativos.
+
+e) Programa de vigilancia ambiental.
+
+f) Resumen del estudio y conclusiones en términos fácilmente comprensibles. En su caso, informe sobre las dificultades informativas o técnicas encontradas en la elaboración del mismo.
+
+3\. La Comisión de Urbanismo de Madrid aprobará inicialmente el Proyecto, con inmediato sometimiento a información pública, solicitud de informes sectoriales preceptivos y, simultáneamente, a audiencia del Municipio o municipios afectados, cuando éstos no sean los promotores del Proyecto, por plazo de cuarenta y cinco días, a cuyo efecto deberá insertarse el pertinente anuncio en el Boletín Oficial de la Comunidad de Madrid y en, al menos, dos de los medios de comunicación de mayor difusión en ésta.
+
+Una vez realizado el trámite de información pública, tras la contestación, por el promotor, de las alegaciones presentadas y con carácter previo a la resolución administrativa que se adopte, el órgano ambiental formulará, en el plazo de un mes, informe de análisis ambiental definitivo y una declaración de impacto ambiental, en su caso, en la que se determinen las condiciones que deban establecerse en orden a la adecuada protección del medio ambiente y los recursos naturales. Estas condiciones deberán ser incluidas en el proyecto que se presente para su elevación a la Comisión de Urbanismo.
+
+4\. A la vista de las alegaciones e informes presentados en el período de información pública y audiencia, la Comisión de Urbanismo de Madrid emitirá informe.
+
+5\. Si procede, el Consejo de Gobierno aprobará definitivamente el Proyecto, mediante Acuerdo, que deberá publicarse íntegramente en el Boletín Oficial de la Comunidad de Madrid y en, al menos, dos de los medios de comunicación de mayor difusión en ésta.
+
+El acuerdo de aprobación definitiva del Proyecto contendrá:
+
+a) La identificación de la sociedad gestora encargada de ejecutar el Proyecto de Centro Integrado de Desarrollo.
+
+b) Las condiciones necesarias para la adecuada protección del medio ambiente, según lo previsto en la Declaración de Impacto Ambiental formulada.
+
+c) El régimen de derechos y obligaciones de la sociedad gestora, especificando los compromisos asumidos por ésta en la ejecución del Centro Integrado de Desarrollo.
+
+d) La indicación del planeamiento urbanístico que debe ser adaptado como consecuencia de la implantación del Centro Integrado de Desarrollo.
+
+e) **(Derogada)**
+
+f) De acuerdo con lo previsto en el pliego, y en la oferta presentada por el adjudicatario, las causas en que habrá lugar al reconocimiento en favor del promotor del reequilibrio económico financiero así como los mecanismos específicos para la determinación de su procedencia.
+
+Transcurridos tres meses desde la emisión del informe por la Comisión de Urbanismo, sin que haya recaído resolución expresa, se entenderá desestimada la aprobación del Proyecto de Alcance Regional.
+
+6\. Los Proyectos de Alcance Regional comprenderán los documentos necesarios, incluidos planos, para formalizar con claridad y precisión las determinaciones a que se refiere el apartado anterior.
+
+7\. Por Decreto acordado en Consejo de Gobierno de la Comunidad de Madrid, a propuesta del Consejero competente en materia de Ordenación del Territorio y Urbanismo, podrá concretarse el contenido mínimo en determinaciones y los documentos de que deben constar los Proyectos de Alcance Regional y fijarse, en su caso y cuando las características peculiares del objeto de éstos así lo demanden, el contenido complementario del general establecido en el artículo 44 que deba exigirse para su tramitación y aprobación.
+
+> Se deroga la letra e) del apartado 5 por la disposición derogatoria única.2.g) de la Ley 6/2013, de 23 de diciembre. [Ref. BOE-A-2014-3254](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3254).
+
+> Se modifica la letra e) del apartado 5 por la disposición final 1 de la Ley 3/2013, de 18 de junio. [Ref. BOE-A-2013-10725](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10725).
+
+> Se añade por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+> Se deroga por la disposición derogatoria única.b) de la Ley 9/2001, de 17 de julio. [Ref. BOE-A-2001-18984](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18984).
+
+##### Artículo 46. Efectos de la aprobación.
+
+1\. Los Proyectos de Alcance Regional de los Centros Integrados de Desarrollo prevalecerán sobre las determinaciones contenidas en el planeamiento urbanístico, que habrá de ser adaptado por la Administración competente, configurando el ámbito como un área de planeamiento incorporado, permitiendo su ejecución de forma inmediata. De igual forma el planeamiento urbanístico y, en su caso, el territorial que sean aprobados con posterioridad a la entrada en vigor de dichos Proyectos deberán incluir el mismo como un área de planeamiento incorporado, respetando íntegramente su contenido.
+
+2\. La aprobación de los Proyectos de Alcance Regional de los Centros Integrados de Desarrollo llevará implícita la declaración de utilidad pública e interés social y de la necesidad de urgente ocupación de los bienes y derechos incluidos en su ámbito y en todo caso de aquellos que sean necesarios para la ejecución de las conexiones exteriores con las redes públicas existentes. A tales efectos, el titular de la autorización del Centro Integrado de Desarrollo tendrá el carácter de beneficiario de la expropiación, que se tramitará, bien por el procedimiento de urgencia previsto en el artículo 52 de la Ley de Expropiación Forzosa, bien por el de tasación conjunta de los artículos 59 y siguientes de la misma Ley.
+
+3\. Adicionalmente a los supuestos en que esté prevista como consecuencia de la caducidad de la autorización, la reversión procederá cuando hayan transcurrido diez años a partir de la aprobación de la ordenación pormenorizada de cada etapa o sector sin que se haya concluido la urbanización del sector de ordenación correspondiente.
+
+4\. La aprobación del Proyecto de Alcance Regional consistente en un Centro Integrado de Desarrollo habilita al titular de la autorización del Centro para la inmediata ejecución de las obras de urbanización detalladas en el mismo y las conexiones exteriores.
+
+5\. En todo caso, la aprobación de un Centro Integrado de Desarrollo por el Consejo de Gobierno implica el otorgamiento de la autorización integrada de todas las autorizaciones legalmente exigibles relativas a las actividades que forman parte del objeto del complejo que sean competencia de la Comunidad de Madrid.
+
+6\. La aprobación definitiva de los Centros Integrados de Desarrollo determinará el régimen de derechos y deberes aplicable para su ejecución de conformidad con la clase de suelo que aquéllos delimiten.
+
+Los deberes y cargas correspondientes podrán cumplirse mediante la entrega de suelo o aprovechamiento urbanístico o compensación en metálico equivalente al correspondiente valor urbanístico.
+
+7\. Las limitaciones establecidas por la legislación de suelo de la Comunidad de Madrid relativas al régimen de alturas permitidas no serán de aplicación a las edificaciones del Centro Integrado de Desarrollo.
+
+> Se añade por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+> Se deroga por la disposición derogatoria única.b) de la Ley 9/2001, de 17 de julio. [Ref. BOE-A-2001-18984](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18984).
+
+##### Artículo 47. Subrogación en la posición jurídica de la persona o entidad particular que tenga atribuida la ejecución.
+
+1\. La persona o entidad particular a la que el acto de aprobación definitiva atribuya la responsabilidad de la ejecución de un Centro Integrado de Desarrollo estará obligada a cumplir las obligaciones previstas en la autorización.
+
+2\. La transmisión total o parcial de la titularidad de la autorización del Centro Integrado de Desarrollo deberá ser solicitada de forma motivada y se resolverá por el Consejo de Gobierno. En el caso de no resolverse de forma expresa en el plazo de tres meses se considerará desestimada la petición.
+
+3\. La transmisión de los derechos y obligaciones derivadas de la condición de titular de la autorización de un Centro Integrado de Desarrollo, deberá ser solicitada y se resolverá por el Consejo de Gobierno. En caso de no resolverse de forma expresa en el plazo de tres meses se considerará desestimada la petición.
+
+No obstante lo anterior, el autorizado, manteniendo la total responsabilidad de la ejecución del Centro Integrado de Desarrollo ante la Administración, podrá concertar con terceros la realización parcial de las actuaciones incluidas en el ámbito de la autorización o llevar a cabo actos de disposición sobre los activos comprendidos en el Centro Integrado de Desarrollo, comunicándolo anticipadamente y por escrito a la Consejería competente en materia de Economía.
+
+4\. En el supuesto de que lo que se pretenda sea la transmisión de la organización, explotación y práctica de actividades de juego, será de aplicación el régimen previsto en el Capítulo II del Título IV de la Ley 7/2012, de 26 de diciembre, de presupuestos generales de la Comunidad de Madrid para el año 2013.
+
+> Se añade por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+> Redactado conforme a la corrección de errores publicada en BOCM núm. 12, de 15 de enero de 2013.
+
+> Se deroga por la disposición derogatoria única.b) de la Ley 9/2001, de 17 de julio. [Ref. BOE-A-2001-18984](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18984).
+
+> Se modifica el inciso primero del apartado 1 por el art. 10.1 de la Ley 24/1999, de 27 de diciembre. [Ref. BOE-A-2000-3766](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3766).
+
+##### Artículo 48. Ejecución.
+
+1\. Los actos de edificación, instalación o uso del suelo en que se concreten los Centros Integrados de Desarrollo estarán sujetos a la previa obtención de licencia en los términos previstos en este artículo.
+
+2\. La ejecución del Proyecto de un Centro Integrado de Desarrollo se realizará por la sociedad gestora como propietaria única del ámbito, sin perjuicio de lo previsto en el artículo anterior.
+
+A tales efectos, el Proyecto contendrá las siguientes previsiones:
+
+2.1 La forma en que serán cumplidos los deberes legales de cesión establecidos en el mismo.
+
+2.2 En el caso de que la cesión de terrenos sea sustituida por su equivalente económico, deberá contener un anexo de valoración emitido por funcionario de la Comunidad de Madrid.
+
+2.3 Los aspectos relativos a la conservación de la urbanización pública del ámbito y, en su caso, del viario de acceso a los Centros Integrados de Desarrollo.
+
+3\. La inscripción en el Registro de la Propiedad de las parcelas resultantes de cada Proyecto de Centro Integrado de Desarrollo y de las cesiones previstas en él será realizada de conformidad con lo dispuesto en la normativa general para la inscripción de los actos de naturaleza urbanística, previa aprobación del proyecto de reparcelación de propietario único con la finalidad de adaptar las fincas incluidas en el ámbito del Proyecto al parcelario resultante del mismo, así como de materializar, en su caso, las cesiones correspondientes a favor de la Administración.
+
+4\. La sociedad gestora será responsable de la correcta ejecución de las obras de urbanización y conexión de cada una de las etapas de ejecución del Proyecto del Centro Integrado de Desarrollo hasta la finalización de la misma y levantamiento al efecto del acta correspondiente por parte del Ayuntamiento, de forma coordinada con la Consejería correspondiente, y en caso de viarios o dotaciones públicas, hasta la recepción definitiva de las obras de ejecución de la correspondiente etapa por parte de tales Administraciones.
+
+La correcta ejecución de las obras de urbanización quedará garantizada mediante la prestación de garantías, ya otorgadas por la sociedad gestora, para la autorización del Centro Integrado de Desarrollo prevista en la presente ley.
+
+5\. La ejecución de los proyectos de obras y actividades de las edificaciones, instalaciones y de aquellas infraestructuras que conformen un Centro Integrado de Desarrollo, de acuerdo con su programa de implantación, así como las eventuales parcelaciones de fincas de resultado necesarias para la implantación de las mismas, estarán sometidas a licencia administrativa en la que se valorará la adecuación de los mismos al Proyecto y a los restantes extremos contenidos en la autorización del Centro Integrado de Desarrollo otorgada por el Consejo de Gobierno.
+
+El procedimiento se iniciará mediante solicitud ante el Ayuntamiento afectado, que tramitará la solicitud y emitirá informe preceptivo de la misma, en el plazo máximo de un mes, transcurrido el cual elevará el expediente a la Consejería competente en materia de Ordenación del Territorio, a quien corresponderá resolver el expediente, dado el interés regional del Centro Integrado de Desarrollo, así como la afección supramunicipal que su instalación va a generar, en el plazo máximo de un mes.
+
+Se permitirá la simultaneidad de las obras de urbanización y edificación. No obstante, no podrá procederse a la primera ocupación o funcionamiento hasta que no estén realizadas las obras de urbanización y de conexión exterior que sean específicamente necesarias para la correcta puesta en servicio de las concretas edificaciones, actividades e infraestructuras.
+
+Los plazos de los procedimientos para el otorgamiento de cualquier autorización administrativa previa que resulte precisa para la ejecución de las obras o para la apertura o funcionamiento de las instalaciones, no contemplados en esta ley, se reducirán a la mitad.
+
+6\. El Proyecto de Centro Integrado de Desarrollo fijará los estándares cuantitativos y cualitativos de las cesiones de acuerdo con las necesidades funcionales de cada Centro, que, como mínimo, deberán cumplir los siguientes estándares: 15 metros cuadrados por cada 100 metros cuadrados construidos destinado a equipamiento y/o infraestructuras y/o servicios en concepto de red local.
+
+Habrán de cederse a las Administraciones correspondientes, libre y gratuitamente, las dotaciones públicas que sean fijadas por el Proyecto, en la forma establecida en la legislación urbanística de la Comunidad de Madrid.
+
+Igualmente, habrán de cederse al Municipio o Municipios correspondientes terrenos urbanizados en los que se materialice el 5 por 100 del coeficiente de edificabilidad de la fase correspondiente, en concepto de participación de la comunidad en las plusvalías generadas por el planeamiento urbanístico.
+
+En el supuesto de que el ámbito territorial de alguna de las fases de un Centro Integrado de Desarrollo quede localizado en varios términos municipales, la cesión del 5 por 100 del coeficiente de edificabilidad de la fase correspondiente se distribuirá entre los Municipios afectados de forma proporcional a la cantidad de superficie ocupada de cada Municipio.
+
+Esta cesión podrá sustituirse, en todo o en parte, a petición de la sociedad gestora, por su equivalente económico. En tal caso, la misma habrá de ser realizada tras la aprobación del proyecto de reparcelación de propietario único.
+
+> Se añade por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+> Se deroga por la disposición derogatoria única.b) de la Ley 9/2001, de 17 de julio. [Ref. BOE-A-2001-18984](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18984).
+
+##### Artículo 49. Modificaciones del Proyecto y aprobación posterior de la ordenación de carácter pormenorizado
+
+1\. Las modificaciones del Proyecto habrán de tramitarse mediante el procedimiento establecido en la presente ley, salvo aquellas modificaciones que afecten únicamente a la ordenación de carácter pormenorizado, que deberán ser aprobadas de conformidad con lo dispuesto en el apartado siguiente.
+
+Estará también sujeta al mismo procedimiento la modificación sustancial de un Centro.
+
+2\. En el caso de ser necesario, los planes de desarrollo y las determinaciones técnicas de las obras de urbanización de la segunda o ulteriores etapas de los Centros Integrado de Desarrollo serán aprobados por el Consejero competente en materia de Ordenación del Territorio en el plazo máximo de dos meses, conforme a las previsiones del Proyecto y de esta ley, mediante el procedimiento de aprobación del mismo en lo que resulte de aplicación, y en todo caso, previo informe preceptivo del Municipio o Municipios afectados.
+
+3\. Por su parte las modificaciones de las determinaciones técnicas de las obras de urbanización o de las conexiones serán tramitadas mediante el procedimiento establecido para los proyectos de urbanización en la legislación urbanística, debiendo ser aprobadas inicial y definitivamente por el Consejero competente en materia de Ordenación del Territorio en el plazo máximo de dos meses desde la presentación por parte de la sociedad gestora de su documentación completa, y en todo caso, previo informe del Municipio o Municipio afectados.
+
+> Se añade por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+> Se deroga por la disposición derogatoria única.b) de la Ley 9/2001, de 17 de julio. [Ref. BOE-A-2001-18984](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18984).
+
+##### Artículo 50. Incumplimiento de la ejecución. Consecuencias.
+
+1\. Son causas de caducidad de la autorización de los Centros Integrados de Desarrollo las siguientes:
+
+a) El incumplimiento de los plazos de inicio de la ejecución del Centro Integrado de Desarrollo previstos en el programa de implantación, salvo que se hubiera otorgado prórroga de los mismos.
+
+b) La falta de culminación de las obras e infraestructuras de conexión del Centro Integrado de Desarrollo y de los elementos estructurantes de la urbanización una vez transcurrido un plazo superior al doble del previsto en el programa de implantación.
+
+c) La no puesta en funcionamiento de, al menos, el treinta por ciento de las instalaciones que a estos efectos se señalen en el Proyecto de Alcance Regional, que representen un mínimo del veinticinco por ciento de la inversión comprometida, dentro de los plazos previstos en el programa de implantación, salvo que se hubiera otorgado prórroga de los mismos.
+
+d) La sustitución o subrogación de tercero en la posición jurídica del titular de la autorización del Centro sin autorización expresa previa.
+
+e) El incumplimiento del requerimiento de corrección de los incumplimientos contenido en la resolución que declare que se está contraviniendo gravemente o apartándose en cualquier forma de las previsiones contenidas en el acuerdo de aprobación definitiva del Centro Integrado de Desarrollo.
+
+2\. Son causas de caducidad parcial de la autorización de los Centros Integrados de Desarrollo las siguientes:
+
+a) Fuera de los supuestos previstos en el apartado 1.c) de este artículo, la falta de puesta en funcionamiento de algunas de las instalaciones que a estos efectos se señalen en el Proyecto de Alcance Regional, dentro de los plazos previstos en el programa de implantación, salvo que se hubiera otorgado prórroga de los mismos.
+
+b) La no culminación de las obras de urbanización dentro de los plazos establecidos en el programa de implantación, salvo que se trate de uno de los supuestos previstos en el apartado 1.b) del presente artículo.
+
+3\. Para la declaración de la caducidad total o parcial de la autorización se deberá seguir el correspondiente procedimiento contradictorio en el que la Administración otorgará al titular de la autorización del Centro el plazo que considere adecuado para subsanar los incumplimientos que dieron lugar a la imposición de la misma, tramitándose de acuerdo con lo establecido en el artículo 42.2 de la presente ley.
+
+4\. La resolución del Consejo de Gobierno que declare la caducidad parcial de la autorización del Centro Integrado de Desarrollo no afectará a la continuación de los usos y actividades implantados de acuerdo con el Proyecto de Alcance Regional del Centro en ámbitos ya consolidados ni a la ejecución de aquellos sectores que estén completamente urbanizados y en fase de edificación. El acuerdo que declare la caducidad deberá prever la conservación o la revisión de la ordenación urbanística del ámbito en los términos que en dicho acuerdo se establezcan. En todo lo demás se estará a lo dispuesto en el artículo 42.3 de la presente ley.
+
+> Se añade por el art. 14 de la Ley 8/2012, de 28 de diciembre. [Ref. BOE-A-2013-2685](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2685).
+
+> Se deroga por la disposición derogatoria única.b) de la Ley 9/2001, de 17 de julio. [Ref. BOE-A-2001-18984](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18984).
+
+##### Artículos 51 a 118.
+
+**(Derogados)**
+
+> Se derogan los arts. 51 a 118 por la disposición derogatoria única.b) de la Ley 9/2001, de 17 de julio. [Ref. BOE-A-2001-18984](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18984).
+
+##### Disposición adicional 1 a 4.
+
+**(Derogadas)**
+
+> Se derogan las disposiciones adicionales 1 a 4 por la disposición derogatoria única.b) de la Ley 9/2001, de 17 de julio. [Ref. BOE-A-2001-18984](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18984).
+
+##### Disposición transitoria.
+
+Los casinos de juego en funcionamiento a la entrada en vigor de esta disposición tendrán derecho a obtener la autorización para la instalación, apertura y funcionamiento de una sala apéndice, en los términos del artículo 8.4 de la Ley 6/2001, de 3 de julio, del Juego en la Comunidad de Madrid.
+
+> Se añade por la disposición final 2 de la Ley 3/2013, de 18 de junio. [Ref. BOE-A-2013-10725](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10725).
+
+##### Disposición derogatoria única.
+
+1\. Queda expresamente derogada la Ley 10/1984, de 30 de mayo, de Ordenación Territorial de la Comunidad de Madrid y los artículos 14 y 15 de la Ley 4/1984, de Medidas de Disciplina Urbanística de la Comunidad de Madrid.
+
+2\. Asimismo quedan derogados en el territorio de la Comunidad de Madrid, cuantas disposiciones se opongan a lo dispuesto en esta Ley.
+
+##### Disposición final 1 a 5.
+
+**(Derogadas)**
+
+> Se derogan las disposiciones finales 1 a 5 por la disposición derogatoria única.b) de la Ley 9/2001, de 17 de julio. [Ref. BOE-A-2001-18984](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18984).
+
+Madrid, 28 de marzo de 1995.
+
+JOAQUÍN LEGUINA,
+
+Presidente

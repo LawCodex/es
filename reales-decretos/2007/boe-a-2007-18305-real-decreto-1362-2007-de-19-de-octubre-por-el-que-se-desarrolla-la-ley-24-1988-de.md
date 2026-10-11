@@ -236,12 +236,6 @@ b) Las declaraciones de responsabilidad sobre su contenido, que deberán ir firm
 
 El plazo para publicar y difundir el segundo informe financiero semestral exigible a los emisores cuyas acciones estén admitidas a negociación en un mercado secundario oficial o en otro mercado regulado domiciliado en la Unión Europea será de dos meses desde la finalización del segundo semestre del ejercicio económico del emisor al que se refiera.
 
-> Téngase en cuenta que esta última actualización del apartado 2, establecida por la disposición final 2.3 del Real Decreto 878/2015, de 2 de octubre. [Ref. BOE-A-2015-10637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10637). entra en vigor el 20 de diciembre de 2015, según determina la disposición final 7.3 de la indicada disposición.
-
-> Redacción anterior:
-
-> "2. El plazo para publicar y difundir el informe financiero semestral será como máximo de dos meses desde la finalización del semestre del ejercicio económico del emisor al que se refiera".
-
 3\. Sin perjuicio de lo dispuesto en el artículo 171.2 del texto refundido de la Ley de Sociedades Anónimas, aprobado por Real Decreto Legislativo 1564/1989, de 22 de diciembre, el secretario del consejo de administración del emisor se responsabilizará de comprobar que el informe financiero semestral ha sido firmado por cada uno de los administradores del emisor y de enviar a la Comisión Nacional del Mercado de Valores el fichero informático que contenga tal informe financiero semestral. Para ello deberá acreditar ante la Comisión Nacional del Mercado de Valores el poder delegado por el consejo de administración para remitir el informe financiero semestral.
 
 > Se modifica el apartado 2 por la disposición final 2.3 del Real Decreto 878/2015, de 2 de octubre. [Ref. BOE-A-2015-10637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10637).
@@ -570,44 +564,6 @@ Si un instrumento financiero tuviera más de un subyacente, el sujeto obligado a
 
 7\. Los cálculos a los que se refiere este artículo se realizarán conforme lo dispuesto por el Reglamento Delegado (UE) 2015/761, de 17 de diciembre de 2014.
 
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 2.7 del Real Decreto 878/2015, de 2 de octubre. [Ref. BOE-A-2015-10637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10637). entra en vigor el 27 de noviembre de 2015, según determina la disposición final 7.4 de la citada norma.
-
-> Redacción anterior:
-
-> "**Artículo 28. Instrumentos financieros que confieran derecho a adquirir acciones ya emitidas que atribuyan derechos de voto.**
-
-> 1\. La obligación de notificar se aplicará también a toda persona que posea, adquiera o transmita, directa o indirectamente, otros instrumentos financieros que confieran el derecho a adquirir, exclusivamente por iniciativa propia de dicho tenedor y según acuerdo formal, acciones ya emitidas que atribuyan derechos de voto de un emisor cuyas acciones estén admitidas a negociación en un mercado secundario oficial o en otro mercado regulado domiciliado en la Unión Europea, cuando la proporción de derechos de voto, alcance, supere o se reduzca por debajo de los porcentajes establecidos en el artículo 23
-
-> 2\. A estos efectos se considerarán instrumentos financieros los valores negociables y los contratos de opciones, futuros, permutas financieras («swaps»), acuerdos de tipos de interés a plazo y otros contratos de derivados mencionados en las disposiciones que incorporen al Derecho español la sección C del anexo I de la Directiva 2004/39/CE del Parlamento Europeo y del Consejo, de 21 de abril de 2004, sobre mercados de instrumentos financieros, siempre y cuando cumplan los requisitos establecidos en el apartado anterior, así como aquellos otros que pueda determinar el Ministro de Economía y Hacienda y, con su habilitación expresa, la Comisión Nacional del Mercado de Valores.
-
-> El tenedor del instrumento deberá disfrutar, al vencimiento, del derecho incondicional a adquirir las acciones subyacentes o de discrecionalidad respecto a su derecho a adquirirlas o no.
-
-> Por acuerdo formal se entiende todo acuerdo que sea vinculante según la legislación aplicable.
-
-> 3\. El tenedor de instrumentos financieros agregará y notificará todos los instrumentos financieros definidos en el apartado anterior, referentes al mismo emisor del subyacente.
-
-> 4\. La notificación requerida incluirá la siguiente información:
-
-> a) La situación resultante en cuanto a derechos de voto;
-
-> b) Si procede, la cadena de empresas controladas a través de las cuales se posean efectivamente instrumentos financieros;
-
-> c) La fecha en que se haya alcanzado o traspasado el umbral;
-
-> d) En el caso de los instrumentos con un plazo de ejercicio, una indicación, en su caso, de la fecha o el plazo en que las acciones se adquirirán o podrán adquirirse;
-
-> e) La fecha de vencimiento o expiración del instrumento;
-
-> f) La identidad del tenedor;
-
-> g) El nombre del emisor del subyacente.
-
-> A los efectos de lo dispuesto en la letra a), el porcentaje de derechos de voto se calculará sobre la base del número total de derechos de voto y el capital correspondiente, de acuerdo con la publicación más reciente efectuada por el emisor y publicada en la página web de la Comisión Nacional del Mercado de Valores.
-
-> 5\. La notificación se remitirá tanto a la Comisión Nacional del Mercado de Valores, como al emisor del subyacente del instrumento financiero.
-
-> Si un instrumento financiero tuviera más de un subyacente, el sujeto obligado a remitir notificación, deberá considerar de forma separada el instrumento financiero a la hora de elaborar la notificación, presentándose una notificación separada por cada emisor de las acciones subyacentes."
-
 > Se modifica por la disposición final 2.7 del Real Decreto 878/2015, de 2 de octubre. [Ref. BOE-A-2015-10637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10637).
 
 ##### Artículo 28 bis. Notificación de las posiciones agregadas de derechos de voto.
@@ -617,8 +573,6 @@ Si un instrumento financiero tuviera más de un subyacente, el sujeto obligado a
 2\. La notificación exigida en este artículo incluirá el desglose del número de derechos de voto asociados a acciones que se posean de conformidad con los artículos 23 y 24 y el número de derechos de voto a los que se refiere el artículo 28.
 
 3\. Los derechos de voto que ya hayan sido notificados de conformidad con el artículo 28 se notificarán de nuevo cuando la persona física o jurídica haya adquirido las acciones subyacentes y, como resultado de esa adquisición, el número total de derechos de voto asociados a las acciones emitidas por el mismo emisor alcance o rebase los umbrales establecidos en el artículo 23.1.
-
-> Téngase en cuenta que este artículo, añadido por la disposición final 2.8 del Real Decreto 878/2015, de 2 de octubre. [Ref. BOE-A-2015-10637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10637). entra en vigor el 27 de noviembre de 2015, según determina la disposición final 7.4 de la citada norma.
 
 > Se añade por la disposición final 2.8 del Real Decreto 878/2015, de 2 de octubre. [Ref. BOE-A-2015-10637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10637).
 
@@ -705,46 +659,6 @@ b) Los derechos de voto asociados a las acciones mantenidas en la cartera de neg
 7\. Las obligaciones establecidas en los artículos 23 y 24.c) no se aplicarán a las acciones entregadas a los miembros del Sistema Europeo de Bancos Centrales o facilitadas por éstos en el ejercicio de sus funciones como autoridades monetarias, incluidas las acciones entregadas a los miembros del Sistema Europeo de Bancos Centrales o facilitadas por éstos con arreglo a un compromiso, una recompra o un acuerdo similar de liquidez concedidas con fines de política monetaria o dentro de un sistema de pago.
 
 La exención se aplicará a las mencionadas operaciones cuando sean de corta duración, siempre que no se ejerzan los derechos de voto inherentes a dichas acciones.
-
-> Téngase en cuenta que la adición de los apartados 4, 5 y 6 y renumeración del antiguo apartado 4 como número 7, establecida por la disposición final 2.9 del Real Decreto 878/2015, de 2 de octubre. [Ref. BOE-A-2015-10637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10637). entra en vigor el 27 de noviembre de 2015, según determina la disposición final 7.4 de la citada norma.
-
-> Redacción anterior:
-
-> "**Artículo 33. Excepciones a la obligación de notificar participaciones significativas.**
-
-> La obligación de notificar establecida en este Título no se aplicará:
-
-> 1\. A las acciones adquiridas exclusivamente a efectos de compensación y liquidación dentro del ciclo corto de liquidación habitual.
-
-> A estos efectos la duración máxima del ciclo corto de liquidación habitual será de tres días hábiles bursátiles a partir de la operación y se aplicará tanto a operaciones realizadas en un mercado secundario oficial o en otro mercado regulado como a las realizadas fuera de él. Los mismos principios se aplicarán también a operaciones realizadas sobre instrumentos financieros.
-
-> 2\. A los que posean acciones en su condición de intermediarios financieros que presten el servicio de administración y custodia de valores, siempre que sólo puedan ejercer los derechos de voto inherentes a dichas acciones con instrucciones formuladas, por escrito o por medios electrónicos.
-
-> Se entenderá por medios electrónicos los medios de equipo electrónico para el tratamiento (incluida la compresión digital), el almacenamiento y la transmisión de datos, empleando cables, radio, tecnologías ópticas u otros medios electromagnéticos.
-
-> La Comisión Nacional del Mercado de Valores podrá, en cualquier momento, solicitar al intermediario financiero la identificación de quien formuló las instrucciones.
-
-> 3\. A la adquisición o venta de una participación significativa que alcance o rebase el porcentaje del 3 % o del 5 % por parte de un creador de mercado que actúe en su condición de tal, siempre que:
-
-> a) Sea considerado como tal en virtud de las disposiciones que incorporen al Derecho español la Directiva 2004/39/EC, del Parlamento Europeo y del Consejo, de 21 de abril de 2004, relativa a los mercados de instrumentos financieros;
-
-> b) No intervenga en la gestión del emisor de que se trate, ni ejerza influencia alguna sobre el mismo para adquirir dichas acciones, ni respalde el precio de la acción de ninguna otra forma.
-
-> Se entenderá por creador de mercado, la persona que se presenta de manera continuada en los mercados financieros a negociar por cuenta propia mediante la compra y venta de instrumentos financieros, contra su propio patrimonio, a los precios definidos por ella misma.
-
-> El creador de mercado que desee beneficiarse de la exención de comunicación notificará a la Comisión Nacional del Mercado de Valores, dentro de los plazos establecidos en el artículo 35, que realiza o tiene intención de realizar, actividades de creación de mercado con respecto a un emisor determinado.
-
-> Cuando el creador de mercado deje de realizar actividades de creación de mercado respecto a un emisor determinado, lo notificará a la Comisión Nacional del Mercado de Valores.
-
-> Sin perjuicio de las facultades atribuidas a la Comisión Nacional del Mercado de Valores en la Ley del Mercado de Valores, en caso de que la Comisión Nacional del Mercado de Valores solicite al creador de mercado que desee acogerse a la exención, que identifique las acciones o instrumentos financieros en su poder para la actividad de creación de mercado, éste podrá efectuar la identificación por cualquier medio verificable. Sólo podrá obligarse al creador de mercado a tener tales acciones o instrumentos en una cuenta aparte para su identificación, en caso de que no pueda identificarlos.
-
-> En caso de que se requiera un acuerdo de creación de mercado entre el creador de mercado y la bolsa de valores y/o el emisor, el creador de mercado deberá presentar el acuerdo a la Comisión Nacional del Mercado de Valores, cuando ésta se lo solicite.
-
-> La exención de notificación sólo se aplicará para la participación significativa que alcance o supere los umbrales del 3 % y 5 %. La exención no se aplicará cuando se alcancen o superen otros porcentajes de los señalados en el artículo 23, debiendo ser remitida la correspondiente notificación a la Comisión Nacional del Mercado de Valores y al emisor.
-
-> 4\. Las obligaciones establecidas en los artículos 23 y 24.c) no se aplicarán a las acciones entregadas a los miembros del Sistema Europeo de Bancos Centrales o facilitadas por éstos en el ejercicio de sus funciones como autoridades monetarias, incluidas las acciones entregadas a los miembros del Sistema Europeo de Bancos Centrales o facilitadas por éstos con arreglo a un compromiso, una recompra o un acuerdo similar de liquidez concedidas con fines de política monetaria o dentro de un sistema de pago.
-
-> La exención se aplicará a las mencionadas operaciones cuando sean de corta duración, siempre que no se ejerzan los derechos de voto inherentes a dichas acciones."
 
 > Se añaden los apartados 4, 5 y 6 y se renumera el antiguo apartado 4 como número 7 por la disposición final 2.9 del Real Decreto 878/2015, de 2 de octubre. [Ref. BOE-A-2015-10637](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10637).
 

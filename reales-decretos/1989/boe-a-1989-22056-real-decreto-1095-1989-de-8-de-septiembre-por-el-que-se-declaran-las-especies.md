@@ -1,0 +1,355 @@
+---
+title: "Real Decreto 1095/1989, de 8 de septiembre, por el que se declaran las especies objeto de caza y pesca y se establecen normas para su protección"
+identifier: "BOE-A-1989-22056"
+eli: "https://www.boe.es/eli/es/rd/1989/09/08/1095"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1989-09-08
+published: 1989-09-12
+in_force_from: 1989-09-13
+last_amended: 2013-12-21
+consolidated: 2026-06-26
+gazette: "Boletín Oficial del Estado núm. 218"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1989-22056"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1095/1989, de 8 de septiembre, por el que se declaran las especies objeto de caza y pesca y se establecen normas para su protección
+
+La Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y de la Fauna Silvestres, en su artículo 33, apartado 1, establece que la caza y la pesca en aguas continentales sólo podrá realizarse sobre las especies que reglamentariamente se declaren como piezas de caza o pesca, para añadir en otros apartados del mismo artículo y en el siguiente, las condiciones básicas para garantizar que tales actividades sean compatibles con la conservación de dichas especies.
+
+Este enunciado es concordante con uno de los principios fundamentales de la Ley, según el cual se adopta el compromiso expreso de garantizar la conservación de todas las especies de la flora y la fauna, algunas de las cuales, en razón al tamaño de sus poblaciones, a su distribución geográfica y a su índice de reproductividad, pueden ser objeto de un ordenado aprovechamiento.
+
+El artículo 1.º de este Real Decreto, mediante referencia a los anexos I y II, establece las listas de las especies que pueden ser objeto de caza o pesca en todo el territorio español, sin perjuicio de que las Comunidades Autónomas, en el ejercicio de sus competencias en la materia, puedan excluir de ella, o autorizar, en su caso, para sus respectivos ámbitos territoriales, tanto las que no existen en éstos como las que reciben medidas especiales de protección a través de su inclusión en los respectivos catálogos de especies amenazadas.
+
+Los artículos 3.º a 5.º desarrollan las condiciones generales que el artículo 34 de la Ley establece con el fin de garantizar la protección de las especies objeto de caza y pesca. En ellos se concretan los procedimientos masivos o no selectivos prohibidos con carácter general en la Ley. Asimismo, considerando que los períodos de celo, reproducción y crianza de las especies cinegéticas presentan variaciones en las distintas regiones, no pueden fijarse unas fechas únicas para todo el territorio durante las que las especies deben estar protegidas por este motivo. Caso distinto es el del periodo de regreso hacia los lugares de cría de las especies migradoras, que se extiende de manera continua desde febrero a mayo, tanto para las poblaciones que invernan en España, como para las que, procedentes de África, la atraviesan hacia el norte o llegan para criar, lo que exige el establecimiento de las fechas, para su protección con carácter general.
+
+También se consideran las posibles circunstancias de carácter climatológico o biológico en que una o varias especies resulten particularmente vulnerables y requieran medidas especiales para su protección.
+
+En el articulo 5.º se regula la autorización administrativa para la liberación en el medio natural de animales vivos.
+
+Adicionalmente, el artículo 2.º determina el carácter y contenido del Censo Nacional de Caza y Pesca que el artículo 35.3 de la Ley adscribe al Ministerio de Agricultura, Pesca y Alimentación, y establece procedimientos generales para su mantenimiento permanentemente actualizado, función que asigna al Instituto Nacional para la Conservación de la Naturaleza.
+
+Por último, se establece una limitación temporal para el caso particular de las aves acuáticas migratorias, cuya vulnerabilidad es creciente a medida que, en verano, se reduce progresivamente la superficie inundada en las zonas húmedas hasta que se generalizan las lluvias otoñales.
+
+En consecuencia, a propuesta del Ministro de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 8 de septiembre de 1989,
+
+DISPONGO:
+
+## Artículo 1.
+
+1\. En desarrollo de lo establecida en el artículo 33.1 de la Ley 4/1989, se declaran objeto de caza o pesca, las especies que se relacionan en los anexos I y II del presente Real Decreto.
+
+2\. Cuando se constate la variación significativa de las circunstancias de índole biológica o demográfica de las especies, previo informe de la Comisión Nacional de Protección de la Naturaleza y a propuesta del Ministerio de Agricultura, Pesca y Alimentación podrá modificarse la relación de especies de los citados anexos.
+
+3\. Las Comunidades Autónomas podrán excluir de la relación del anexo I, en el ámbito de sus respectivas competencias, aquellas especies sobre las que decidan aplicar medidas adicionales de protección.
+
+4\. Las Comunidades Autónomas podrán autorizar la caza y pesca de cada una de las especies incluidas en el anexo II.
+
+## Artículo 2.
+
+1\. A efectos de mantener una información actualizada y continua sobre el estado de las poblaciones y la evolución genética de las especies objeto de caza o pesca, el Censo Nacional de Caza y Pesca previsto en el artículo 35.3 de la Ley 4/1989, dependiente del Ministerio de Agricultura, Pesca y Alimentación y adscrito al Instituto Nacional para la Conservación de la Naturaleza, se configura como un inventario nacional que incluirá, en todo caso, los datos relativos a la distribución geográfica de tales especies, el tamaño de sus poblaciones y el volumen de capturas, así como a sus respectivas tendencias.
+
+2\. La Comisión Nacional de Protección de la Naturaleza propondrá al Ministerio de Agricultura, Pesca y Alimentación la periodicidad y metodología para la obtención coordinada de los datos a incluir en el Censo Nacional de Caza y Pesca.
+
+3\. Las Comunidades Autónomas facilitarán anualmente al Instituto Nacional para la Conservación de la Naturaleza los datos relativos al volumen de capturas y, con la periodicidad que corresponda, los relativos a la evolución genética de las poblaciones y aquellos otros que propuestos por la Comisión Nacional de Protección de la Naturaleza, se hayan de incluir en el Censo Nacional.
+
+## Artículo 3.
+
+1\. En aplicación del artículo 34, a), de la Ley 4/1989, se consideran procedimientos masivos y no selectivos prohibidos, para la captura o muerte de animales, los que se relacionan en el anexo III.
+
+2\. Las Comunidades Autónomas podrán prohibir en sus respectivos ámbitos territoriales la utilización de otros procedimientos que puedan causar localmente la desaparición o turbar gravemente la tranquilidad de las poblaciones de una especie.
+
+## Artículo 4.
+
+1\. Con el fin de asegurar la conservación de las especies cinegéticas durante las épocas de celo, reproducción y crianza, las Comunidades Autónomas determinarán para cada una de ellas, en desarrollo de los artículos 33.2 y 34.b) de la Ley los períodos en que no podrán ser objeto de caza por este motivo.
+
+2\. A los mismos efectos, se considerarán periodos de regreso hacia los lugares de reproducción de las especies cinegéticas migratorias los comprendidos entre el 1 de febrero y el 31 de mayo.
+
+3\. Cuando existan circunstancias excepcionales de orden climatológico o biológico que afecten o puedan afectar localmente a una o varias especies objeto de caza o pesca, las Comunidades Autónomas podrán establecer moratorias temporales o prohibiciones especiales con respecto a su captura.
+
+4\. Cuanto tales circunstancias excepcionales afecten de un modo generalizado a especies o poblaciones objeto de caza o pesca en territorios que excedan del ámbito de una Comunidad Autónoma se podrán establecer por el Ministerio de Agricultura, Pesca y Alimentación, en colaboración con las Comunidades Autónomas correspondientes, moratorias temporales o prohibiciones especiales en relación con el ejercicio de la caza y de la pesca para la protección de dichas especies.
+
+## Artículo 5.
+
+Para garantizar la preservación de la diversidad genética y la conservación de las especies autóctonas cinegéticas y piscícolas, la introducción y reintroducción de especies o el reforzamiento de poblaciones en el medio natural requerirá autorización administrativa del órgano competente de la correspondiente Comunidad Autónoma, que solo podrá concederse cuando tal suelta de ejemplares:
+
+a) No afecte a la diversidad genética de la zona donde se ubica la localidad de destino.
+
+b) No resulte contraria a las determinaciones o disposiciones de los Planes de Ordenación de los Recursos Naturales que afecten a dicha zona, si los hubiere.
+
+c) Sea compatible con los Planes relativos a las especies catalogadas que, en su caso, existan en ese territorio.
+
+d) Se adecue a las previsiones del Plan Técnico de aprovechamientos cinegéticos o piscícolas del lugar de destino.
+
+e) Cumpla cualquier otra condición que determine el órgano competente de la Comunidad Autónoma.
+
+## Artículo 6.
+
+Cualquier otro acto de persecución, muerte o captura de especies distintas o en condiciones diferentes a las definidas en el presente Real Decreto, requerirá una autorización excepcional y expresa del órgano competente de la Comunidad Autónoma.
+
+## Artículo 7.
+
+De conformidad con lo previsto en el título VI de la Ley 4/1989:
+
+1\. Se considerarán infracciones graves:
+
+a) La utilización no autorizada de los métodos descritos en los números 4, 5, 7, 8 y 10 del anexo III.A, y en los números 2 y 3 del anexo III.B.
+
+b) La preparación, manipulación y venta para su utilización como métodos de caza o pesca no autorizada de los elementos y sustancias incluidos en el número 7 del anexo III.A y del número 3 del anexo III.B.
+
+2\. Se considerarán infracciones menos graves:
+
+a) El ejercicio de la caza o**la pesca durante las épocas de celo, reproducción o crianza***,*o durante los períodos de regreso hacia los lugares de reproducción,
+
+> Téngase en cuenta que se declara la nulidad del apartado 2.a), en el particular de que considera como infracción menos grave el ejercicio de la pesca durante las épocas de celo, reproducción o crianza, por Sentencia del TS de 22 de febrero de 2000. [Ref. BOE-A-2000-5908](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-5908).
+
+b) El ejercicio de la caza o la pesca durante las moratorias o prohibiciones temporales establecidas por la autoridad competente.
+
+c) El ejercicio de la caza o de la pesca en terrenos acotados al efecto en ausencia del preceptivo Plan Técnico de aprovechamientos.
+
+Se considera infracción leve la utilización, así como la preparación, manipulación y venta para su uso no autorizados de los métodos y procedimientos de caza o pesca incluidos en el anexo III y no mencionados en apartados anteriores.
+
+> Se declara la nulidad del apartado 2.a), en el particular de que considera como infracción menos grave el ejercicio de la pesca durante las épocas de celo, reproducción o crianza, por Sentencia del TS de 22 de febrero de 2000. [Ref. BOE-A-2000-5908](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-5908).
+
+## Disposición adicional primera.
+
+**(Anulada)**
+
+> Se declara la nulidad por Sentencia del TC 102/1995, de 26 de junio. [Ref. BOE-T-1995-18444](https://www.boe.es/buscar/doc.php?id=BOE-T-1995-18444).
+
+## Disposición adicional segunda.
+
+**(Anulada)**
+
+> Se declara la nulidad por Sentencia del TC 102/1995, de 26 de junio. [Ref. BOE-T-1995-18444](https://www.boe.es/buscar/doc.php?id=BOE-T-1995-18444)., correspondiendo las competencias controvertidas a las Comunidades Autónomas de Aragón, Cantabria, Castilla y León, Cataluña, las Islas Baleares y del País Vasco.
+
+## Disposición derogatoria
+
+Queda derogado el artículo 4 del Decreto 506/1971, de 25 de marzo, por el que se aprueba el Reglamento para la ejecución de la Ley de Caza de 4 de abril de 1970.
+
+## Disposición final primera.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para dictar las normas y actos necesarios para el desarrollo y aplicación del presente Real Decreto en el ámbito de sus competencias.
+
+## Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 8 de septiembre de 1989.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+CARLOS ROMERO HERRERA
+
+## ANEXO I — Relación de especies objeto de caza y pesca en España, que puede ser reducida por las Comunidades Autónomas, en función de sus situaciones específicas, de acuerdo con lo que se establece en el artículo 1.3 del presente Real Decreto
+
+A) ESPECIES CINEGÉTICAS
+
+Mamíferos
+
+Liebre (Lepus spp.).
+
+Conejo (Oryctolagus cuniculos).
+
+Zorro (Vulpes vulpes).
+
+Jabalí (Sus scrofa).
+
+Ciervo (Cervus elaphus).
+
+Gamo (Dama dama).
+
+Corzo (Capreolus capreolus).
+
+Rebeco (Rupicapra rupicapra).
+
+Cabra montés (Capra pyrenaica), excepto el bucardo (C. p. pyrenaica).
+
+Muflón (Ovis musimon).
+
+Arruí (Ammotragus lervia).
+
+Aves
+
+Anser fabalis.
+
+Anser anser.
+
+Anas penelope.
+
+Anas strepera.
+
+Anas crecca.
+
+Anas platyrhynchos.
+
+Anas acuta.
+
+Anas querquedula.
+
+Anas clypeata.
+
+Aythya ferina.
+
+Aythya fuligula.
+
+Netta rufina.
+
+Alectoris graeca.
+
+Alectoris rufa.
+
+Alectoris barbara.
+
+Perdix perdix.
+
+Phasianus colchicus.
+
+Coturnix coturnix.
+
+Fulica atra.
+
+Vanellus vanellus.
+
+Lymnocryptes minimus.
+
+Gallinago gallinago.
+
+Scolopax rusticola.
+
+Larus ridibundus.
+
+Larus cachinnans.
+
+Columba livia.
+
+Columba palumbus.
+
+Columba oenas.
+
+Streptopelia turtur.
+
+Turdus pilaris.
+
+Turdus philomelos.
+
+Turdus iliacus.
+
+Turdus viscivorus.
+
+Sturnus vulgaris.
+
+Pica pica.
+
+Corvus monedula.
+
+Corvus corone.
+
+B) ESPECIES OBJETO DE PESCA
+
+Peces
+
+Lamprea (Petromyzon marinos).
+
+Sábalo (Alosa alosa).
+
+Saboga (Alosa fallax).
+
+Anguila (Anguilla anguilla).
+
+Salmón (Salmo salar).
+
+Trucha común (Salmo trutta).
+
+Trucha arco-iris (Salmo gairdnieri).
+
+Black-bass (Micropterus salmoides).
+
+Barbos (Barbus spp.).
+
+Carpa (Cyprinus carpio).
+
+Carpin (Carassius auratus).
+
+Boga de río (Chondrostoma polylepis).
+
+Madrilla (Chondrostoma toxostoma).
+
+Cachos (Leuciscus spp.).
+
+Tenca (Tinca tinca).
+
+Lucio (Esox Lucios).
+
+Pez gato (Ictalarus melas).
+
+Siluro (Silurus glanis).
+
+Lubina (Dicentrarchus Labrax).
+
+Baila (Dicentrarchus punctatus).
+
+Lisa (Chelon labrosus).
+
+Morragute (Liza ramada).
+
+Galúa (Liza salina).
+
+Pardete (Mugil cephalus).
+
+Platija (Platichtys flesus)
+
+Invertebrados
+
+Cangrejo rojo (Procambarus clarkii).
+
+> Se modifica el apartado a) por el art. 2.1 del Real Decreto 1015/2013, de 20 de diciembre. [Ref. BOE-A-2013-13432](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13432).
+
+## ANEXO II — Relación de especies que pueden ser objeto de caza y pesca si se autoriza expresamente por las Comunidades Autónomas, de acuerdo con lo que se establece en el artículo 1.4 del presente Real Decreto
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.2 del Real Decreto 1015/2013, de 20 de diciembre. [Ref. BOE-A-2013-13432](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13432).
+
+## ANEXO III — Relación de procedimientos prohibidos para la captura de animales
+
+A) PARA LAS ESPECIES CINEGÉTICAS
+
+1\. Los lazos y anzuelos, así como todo tipo de trampas y cepos, incluyendo costillas, perchas o ballestas, fosos, nasas y alares.
+
+2\. El arbolillo, las varetas, las rametas, las barracas, parayns y todo tipo de medios o métodos que impliquen el uso de la liga.
+
+3\. Los reclamos de especies protegidas vivas o naturalizadas y otros reclamos vivos cegados o mutilados, así como todo tipo de reclamos eléctricos o mecánicos incluidas las grabaciones.
+
+4\. Los aparatos electrocutantes o paralizantes.
+
+5\. Los faros, linternas, espejos y otras fuentes luminosas artificiales.
+
+6\. Todo tipo de redes o de artefactos que requieran para su funcionamiento el uso de mallas, como las redes abatibles, las redes-niebla o verticales y las redes-cañón.
+
+7\. Todo tipo de cebos, gases o sustancias venenosas, paralizantes, tranquilizantes, atrayentes o repelentes, así como los explosivos.
+
+8\. Las armas semiautomáticas o automáticas cuyo cargador pueda contener más de dos cartuchos, las de aire comprimido y las provistas de silenciador o de visor para el disparo nocturna, así como las que disparen proyectiles que inyecten sustancias paralizantes.
+
+9\. Los hurones y las aves de cetrería.
+
+10\. Las aeronaves de cualquier tipo o los vehículos terrestres motorizados, así como las embarcaciones a motor como lugar desde donde realizar los disparos.
+
+B) PARA LAS ESPECIES OBJETO DE PESCA
+
+1\. Las redes o artefactos de cualquier tipo cuya malla, luz o dimensiones no permitan el paso de peces con una talla igual o inferior a los 8 centímetros, así como la que ocupen más de la mitad de la anchura de la corriente.
+
+2\. Cualquier procedimiento que implique la instalación de obstáculos o barreras de piedra, madera u otro material o la alteración de cauces o caudales, para facilitar la pesca.
+
+3\. Los aparatos electrocutantes o paralizantes, fuentes luminosas artificiales, explosivos y sustancias venenosas, paralizantes, tranquilizantes, atrayentes o repelentes.
+
+4\. Las garras, garfios, tridentes, gamos, grampines, fitoras, arpones, garlitos, cribas, butrones, esparaveles, remangas, palangres, salbardos, cordelillos, sedales durmientes y artes similares.
+
+5\. Los peces vivos como cebo, así como cebar las aguas antes o durante la pesca.

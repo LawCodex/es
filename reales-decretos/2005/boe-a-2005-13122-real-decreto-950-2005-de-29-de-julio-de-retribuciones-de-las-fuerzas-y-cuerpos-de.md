@@ -1,0 +1,555 @@
+---
+title: "Real Decreto 950/2005, de 29 de julio, de retribuciones de las Fuerzas y Cuerpos de Seguridad del Estado"
+identifier: "BOE-A-2005-13122"
+eli: "https://www.boe.es/eli/es/rd/2005/07/29/950"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2005-07-29
+published: 2005-07-30
+in_force_from: 2005-07-31
+last_amended: 2011-06-23
+consolidated: 2026-04-30
+gazette: "Boletín Oficial del Estado núm. 181"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2005-13122"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 950/2005, de 29 de julio, de retribuciones de las Fuerzas y Cuerpos de Seguridad del Estado
+
+Incluye la corrección de errores publicada en BOE núm. 216, de 9 de septiembre de 2005. [Ref. BOE-A-2005-15050](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15050).
+
+Las retribuciones de las Fuerzas y Cuerpos de Seguridad del Estado cuentan con un marco regulador complejo, debido no sólo a las singularidades de las funciones desempeñadas por los miembros de los Cuerpos de la Guardia Civil y de la Policía Nacional, sino, también, a causa de las sucesivas modificaciones que se han ido incorporando a dicha regulación en los últimos 15 años.
+
+El Real Decreto 311/1988, de 30 de marzo, de retribuciones del personal de las Fuerzas y Cuerpos de Seguridad del Estado, vino a dotarlas de una regulación que, si bien breve y sencilla, resultaba suficiente. A pesar de ello, los ulteriores cambios normativos, legales y reglamentarios, que paulatinamente se fueron produciendo, complicaron esa sencillez inicial, lo que condujo a que, en definitiva, hoy nos encontremos con un marco jurídico regulador de las retribuciones de las Fuerzas y Cuerpos de Seguridad del Estado que, siendo válido, resulta excesivamente disperso y complejo, que es una de las circunstancias que han aconsejado la decisión de aprobar un nuevo real decreto, pero no la única.
+
+Finalmente, este nuevo real decreto incorpora una serie de novedades destinadas a solventar algunos vacíos existentes en lo relativo a las retribuciones de los miembros de las Fuerzas y Cuerpos de Seguridad del Estado en situaciones concretas, como son las de aquellos que se encuentran destinados en misiones internacionales, los que se hallan en una situación administrativa transitoria de espera de un nuevo puesto de trabajo tras haber ascendido de escala o por haber sido suprimido su anterior puesto de trabajo, así como de los guardia civiles que están destinados en puestos no comprendidos en la estructura orgánica de la Dirección General de la Guardia Civil y tienen un empleo inferior al nivel del puesto que ocupan.
+
+En su virtud, a iniciativa del Ministro del Interior, a propuesta de los Ministros de Economía y Hacienda y de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 29 de julio de 2005,
+
+### D I S P O N G O :
+
+#### Artículo 1. Ámbito de aplicación.
+
+Este real decreto de retribuciones de las Fuerzas y Cuerpos de Seguridad del Estado será de aplicación al personal perteneciente o destinado en el Cuerpo de la Guardia Civil, de carácter profesional o asimilado, y a los miembros del Cuerpo Nacional de Policía que desempeñen puestos de trabajo relativos a la función pública asignada a este.
+
+#### Artículo 2. Conceptos retributivos.
+
+El personal a que se refiere el artículo anterior sólo podrá ser retribuido por los conceptos que se regulan en este real decreto.
+
+#### Artículo 3. Retribuciones básicas.
+
+Las retribuciones básicas serán las establecidas para los funcionarios del Estado incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, de acuerdo con los grupos de clasificación que se detallan en el anexo I de este real decreto.
+
+#### Artículo 4. Retribuciones complementarias.
+
+Las retribuciones complementarias serán las siguientes:
+
+A) Complemento de destino.
+
+a) Su cuantía será la establecida para los funcionarios del Estado incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, de acuerdo con los niveles que se asignan en el anexo II a cada uno de los empleos del Cuerpo de la Guardia Civil y las categorías del Cuerpo Nacional de Policía.
+
+Por lo que respecta a los miembros del Cuerpo Nacional de Policía, percibirán la cuantía correspondiente al nivel del puesto de trabajo que desempeñen o al que corresponda por su grado personal consolidado, salvo que fueran inferiores a los que figuran en dicho anexo II; en este caso, procederá aplicar estos últimos.
+
+b) Los niveles de complemento de destino de los puestos de trabajo de las Fuerzas y Cuerpos de Seguridad del Estado serán aprobados conjuntamente por los Ministerios de Economía y Hacienda y de Administraciones Públicas, a través de la Comisión Ejecutiva de la Comisión Interministerial de Retribuciones, a propuesta del Ministerio del Interior.
+
+c) Los niveles del complemento de destino de los funcionarios del Cuerpo de la Guardia Civil y del Cuerpo Nacional de Policía deberán encontrarse incluidos en el intervalo correspondiente al grupo de clasificación que le corresponda con arreglo al artículo 3, de acuerdo con la normativa vigente en cada momento para los funcionarios incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto.
+
+d) Los puestos de trabajo a los que se refiere el párrafo b) estarán adscritos con carácter exclusivo a los miembros de la Guardia Civil y del Cuerpo Nacional de Policía, según corresponda, sin perjuicio de los que, excepcionalmente y por la naturaleza y función que se vaya a desempeñar, puedan declararse de adscripción indistinta a otros cuerpos.
+
+B) Complemento específico.
+
+a) El complemento específico remunerará el riesgo, dedicación y demás peculiaridades que implica la función policial, de acuerdo con las previsiones contenidas en la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, y en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.
+
+b) El complemento específico estará integrado por los siguientes componentes:
+
+1.º El componente general, que se percibe en función del correspondiente empleo o categoría que se tenga, y que se aplicará al Cuerpo de la Guardia Civil y al Cuerpo Nacional de Policía en los importes que, para cada empleo y categoría, se fijan en el anexo III.
+
+2.º El componente singular, que está destinado a retribuir las condiciones particulares o singulares de algunos puestos de trabajo, en atención a su especial dificultad técnica, responsabilidad, peligrosidad o penosidad, en las cuantías que, a propuesta del Ministerio del Interior, se autoricen conjuntamente por los Ministerios de Economía y Hacienda y de Administraciones Públicas, a través de la Comisión Ejecutiva de la Comisión Interministerial de Retribuciones.
+
+La percepción de dicho componente durante un período de tiempo no originará derecho a ella en destinos posteriores al que le da origen, sin perjuicio de lo que, en relación con los Oficiales Generales y Coroneles en situación de reserva, se prevé en el párrafo segundo del artículo 6.3 y en el párrafo tercero de la disposición adicional sexta.
+
+c) En el caso de que algunos puestos de trabajo tuvieran asignados más de un componente singular, únicamente podrá percibirse el de mayor cuantía, a excepción del que pudiera corresponder por zona conflictiva, sin perjuicio de lo establecido en las reglas complementarias de los catálogos de puestos de trabajo comprensivos de la asignación de niveles de complemento de destino y cuantías del componente singular del complemento específico a que se refieren los apartados A).b) y B).b).2.º de este artículo.
+
+d) El componente general y el componente singular del complemento específico serán compatibles, a excepción de los puestos de trabajo que tuvieren asignados niveles 30 y 29, cuyos componentes singulares absorberán los generales que pudieran corresponder por empleo o categoría.
+
+e) El personal del Cuerpo de la Guardia Civil y del Cuerpo Nacional de Policía en situación de servicio activo pendiente de asignación de destino por ascenso de empleo o categoría, o acceso a una escala, percibirá también, durante los tres primeros meses que permanezca en tal situación, el componente singular del complemento específico de menor cuantía correspondiente a los puestos de su nuevo empleo o categoría, salvo que por desempeñar, en comisión de servicio, los cometidos inherentes a un puesto de trabajo, le corresponda el de dicho puesto, o cuando el componente singular del complemento específico del puesto de trabajo que viniera desempeñando fuese superior al que, conforme lo establecido en este párrafo, le correspondería como consecuencia del ascenso o el acceso a una escala; en tal caso, percibirá aquel componente singular.
+
+f) El personal del Cuerpo de la Guardia Civil y del Cuerpo Nacional de Policía en situación de servicio activo pendiente de asignación de destino por haber cesado en el que tuviera por disolución o reorganización de unidades, reducción de dotaciones del catálogo o supresión de puestos de trabajo percibirá durante un período máximo de tres meses un componente singular del complemento específico equivalente al del puesto de trabajo que desempeñaba, salvo que, por desempeñar en comisión de servicio los cometidos inherentes a un puesto de trabajo, le corresponde el de este puesto.
+
+C) Complemento de productividad: Estará destinado a retribuir el especial rendimiento, la actividad y dedicación extraordinarias no previstas a través del complemento específico, y el interés o iniciativa en el desempeño de los puestos de trabajo, siempre que redunden en mejorar el resultado de estos últimos.
+
+Su cuantía individual se determinará por el Ministerio del Interior, dentro de los créditos que se asignen para esta finalidad, y de acuerdo con las mismas normas establecidas para los funcionarios incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+
+D) Gratificaciones por servicios extraordinarios: Estas gratificaciones, que tendrán carácter excepcional, se concederán por servicios extraordinarios realizados fuera de la jornada normal de trabajo. En ningún caso podrán ser fijas en su cuantía ni periódicas en su devengo, y se concederán por el Ministerio del Interior dentro de los créditos asignados a tal fin.
+
+E) A los efectos de lo previsto en este real decreto, se considerarán retribuciones complementarias de carácter general el complemento de destino y el componente general del complemento específico.
+
+> Redactado el apartado B.f) conforme a la corrección de errores publicada en BOE núm. 216, de 9 de septiembre de 2005. [Ref. BOE-A-2005-15050](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15050).
+
+#### Artículo 5. Otras retribuciones e indemnizaciones.
+
+El personal incluido en el ámbito de aplicación de este real decreto percibirá, cuando así proceda, las indemnizaciones correspondientes por razón de servicio, de residencia y de vestuario, las prestaciones familiares por hijo a cargo y las pensiones de recompensas y de mutilación o invalidez, de acuerdo con las condiciones y cuantías fijadas en sus respectivas normas específicas.
+
+#### Artículo 6. Retribuciones del personal del Cuerpo de la Guardia Civil en situación de reserva.
+
+1\. El personal del Cuerpo de la Guardia Civil que haya pasado o pase a la situación de reserva a partir de la entrada en vigor de la Ley 42/1999, de 25 de noviembre, percibirá todas las retribuciones básicas y el complemento de disponibilidad en virtud de su nivel y empleo, en la cuantía que se indica en el anexo IV.
+
+2\. Las modificaciones que procedan en los importes expresados en dicho anexo IV, como consecuencia de la variación de las retribuciones complementarias de carácter general del personal en activo, serán acordadas por los Ministerios de Economía y Hacienda y de Administraciones Públicas, a propuesta del Ministerio del Interior.
+
+Para la determinación de las citadas modificaciones se aplicará, sobre los incrementos que se produzcan en las retribuciones complementarias de carácter general para cualquier empleo en la situación de servicio activo, el porcentaje del 80 por ciento actualmente previsto en la Ley 28/1994, de 18 de octubre, o el que a estos efectos pueda establecerse en el futuro en la normativa reguladora de la situación de reserva.
+
+3\. Cuando el pase a la situación de reserva se produzca por aplicación del apartado 2 del artículo 86 de la Ley 42/1999, de 25 de noviembre, se percibirán las retribuciones del personal en servicio activo hasta cumplir las edades que, por escalas y empleos, se fijan en el apartado 1 del artículo 86 de la citada ley.
+
+A los efectos del párrafo anterior, se entenderá como retribuciones del personal en servicio activo las retribuciones básicas y complementarias de carácter general asignadas al nivel y empleo. En las retribuciones a que se refiere el párrafo anterior se considerará comprendido el componente singular del complemento específico asignado a los puestos de trabajo que vinieran desempeñando los Oficiales Generales, al constituir para dichos empleos un único concepto que absorbe el componente general del complemento específico, a tenor de lo dispuesto en el artículo 4.B).d). Si algún Oficial General no tuviera destino, en las retribuciones referidas se considerará comprendido el menor de los componentes singulares asignado a los puestos de trabajo de su empleo.
+
+4\. El personal en situación de reserva que ocupe destino percibirá las retribuciones básicas y complementarias de carácter general correspondientes a su nivel y empleo, así como las retribuciones complementarias específicas inherentes al puesto de trabajo que desempeñe de conformidad con el catálogo de puestos de trabajo, incluidos, en su caso, el complemento de productividad y las gratificaciones por servicios extraordinarios que pudieran corresponderle.
+
+#### Artículo 7. Retribuciones del personal del Cuerpo Nacional de Policía en la situación de segunda actividad.
+
+1\. De conformidad con lo dispuesto en la Ley 26/1994, de 29 de septiembre, por la que se regula la situación de segunda actividad en el Cuerpo Nacional de Policía, el personal de este cuerpo que se encuentre en la situación de segunda actividad por haber pasado a esta a partir de la entrada en vigor de la Ley 26/1994, de 29 de septiembre, o que pase a ella en un futuro, sin ocupar destino, percibirá todas las retribuciones básicas y el complemento de disponibilidad en virtud de su nivel y categoría, en la cuantía que se indica en el anexo V.
+
+No obstante lo anterior, y de conformidad, así mismo, con la Ley 26/1994, de 29 de septiembre, cuando el nivel de complemento de destino poseído en el momento del pase a la situación de segunda actividad sea superior al asignado con carácter general a su categoría de pertenencia, el complemento de disponibilidad se calculará tomando como base el nivel de complemento de destino realmente poseído.
+
+2\. Las retribuciones del personal que se encuentre en la situación de segunda actividad, sin ocupar destino, a la que hubiera pasado con anterioridad a la entrada en vigor de la Ley 26/1994, de 29 de septiembre, estarán integradas por todas las retribuciones básicas que se establecen para cada categoría en el anexo I, y por un complemento de disponibilidad cuya cuantía es la que figura en el anexo VI.
+
+3\. El personal en situación de segunda actividad que ocupe destino percibirá las retribuciones básicas y complementarias de carácter general correspondientes a su nivel y categoría, así como las retribuciones complementarias específicas inherentes al puesto de trabajo que desempeñe de conformidad con el catálogo de puestos de trabajo, incluidos, en su caso, el complemento de productividad y las gratificaciones por servicios extraordinarios que pudieran corresponderle.
+
+4\. Las modificaciones que procedan en los importes expresados en los citados anexos V y VI como consecuencia de la variación de las retribuciones complementarias del personal en activo serán acordadas por los Ministerios de Economía y Hacienda y de Administraciones Públicas, a propuesta del Ministerio del Interior.
+
+Para la determinación de las citadas modificaciones se aplicará, sobre los incrementos que se produzcan en las retribuciones complementarias de carácter general del personal en activo, el porcentaje del 80 por ciento actualmente previsto en la Ley 26/1994, de 29 de septiembre, o el que a estos efectos pueda establecerse en el futuro en la normativa reguladora de la situación de segunda actividad.
+
+> Redactados el párrafo segundo del apartado 1 y el apartado 2 conforme a la corrección de errores publicada en BOE núm. 216, de 9 de septiembre de 2005. [Ref. BOE-A-2005-15050](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15050).
+
+#### Artículo 8. Retribuciones de los alumnos de las academias y centros de enseñanza de las Fuerzas y Cuerpos de Seguridad del Estado.
+
+Las retribuciones de los alumnos de las academias y centros de enseñanza de las Fuerzas y Cuerpos de Seguridad del Estado, durante los cursos y prácticas para su ingreso en ellos, se regirá por lo dispuesto en su normativa específica.
+
+#### Artículo 9. Absorción de retribuciones anteriores.
+
+Las retribuciones señaladas en este real decreto absorben todas las correspondientes al anterior régimen retributivo fijado por el Real Decreto 311/1988, de 30 de marzo, modificado por los Reales Decretos 8/1995, de 13 de enero, 1847/1996, de 26 de julio, y 2298/2004, de 10 de diciembre.
+
+#### Disposición adicional primera. Grado personal de los funcionarios del Cuerpo Nacional de Policía.
+
+1\. El grado personal de los miembros del Cuerpo Nacional de Policía que comenzara a adquirirse a partir de la entrada en vigor de la Ley Orgánica 2/1986, de 13 de marzo, se regirá por lo dispuesto en la Ley 30/1984, de 2 de agosto, y en las normas dictadas para su desarrollo, que tendrán, asimismo, carácter supletorio en los casos no previstos en este real decreto.
+
+2\. No obstante lo establecido en el apartado anterior, dicho personal podrá ser designado para puestos de trabajo superiores en más de dos niveles al de su grado personal, siempre que no exceda del nivel máximo del intervalo asignado a cada grupo de clasificación conforme se establece en el artículo 3, de acuerdo con la normativa vigente en cada momento para los funcionarios incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto.
+
+Los funcionarios que de acuerdo con lo previsto en el párrafo anterior sean designados para un puesto de trabajo superior en más de dos niveles al correspondiente a su grado personal consolidarán cada dos años de servicios continuados el grado superior en dos niveles al que se posea, sin que en ningún caso puedan superar el correspondiente al del puesto desempeñado.
+
+#### Disposición adicional segunda. Retribuciones del personal de las Fuerzas y Cuerpos de Seguridad del Estado que desempeñe puestos de trabajo en la Administración General del Estado y sus organismos autónomos no incluidos en este real decreto.
+
+1\. El personal de las Fuerzas y Cuerpos de Seguridad del Estado que desempeñe puestos de trabajo en la Administración del Estado y sus organismos autónomos no incluidos en el ámbito de aplicación de este real decreto percibirá las retribuciones básicas de conformidad con el artículo 3, y las complementarias que correspondan al puesto de trabajo que desempeñe, sin perjuicio de continuar devengando las pensiones de recompensas y de mutilación o invalidez, de acuerdo con las condiciones y cuantías fijadas en las respectivas normas específicas.
+
+2\. No obstante lo anterior, en los casos en que esté previsto que dichos puestos, por sus características peculiares, sean desempeñados por miembros de las Fuerzas y Cuerpos de Seguridad del Estado por el ejercicio de las funciones legalmente atribuidas a ellos, estos funcionarios estarán sujetos al régimen retributivo regulado por este real decreto, y les corresponderá percibir por el componente singular del complemento específico a que se refiere su artículo 4.B).b), el complemento específico que, en su caso, tenga asignado el puesto de trabajo que desempeñe.
+
+#### Disposición adicional tercera. Retribuciones correspondientes a funcionarios que no pertenecen a las Fuerzas y Cuerpos de Seguridad del Estado que desempeñen puestos de trabajo de las Direcciones Generales de la Policía y de la Guardia Civil no adscritos en exclusiva a los miembros de las Fuerzas y Cuerpos de Seguridad del Estado.
+
+Los funcionarios que desempeñen puestos de trabajo a los que se refiere el apartado A).d) del artículo 4 no adscritos con carácter exclusivo a los miembros de las Fuerzas y Cuerpos de Seguridad del Estado y que no pertenezcan a estos percibirán las retribuciones básicas que corresponden según el cuerpo de pertenencia y las retribuciones complementarias establecidas en este real decreto, salvo el componente general del complemento específico.
+
+#### Disposición adicional cuarta. Retribuciones del personal que participe o coopere en asistencia técnica policial, operaciones de mantenimiento de la paz y seguridad, humanitarias o de evacuación de personas en el extranjero.
+
+1\. El personal de las Fuerzas y Cuerpos de Seguridad del Estado que participe o coopere en asistencia técnica policial, operaciones de mantenimiento de la paz y seguridad, humanitarias o de evacuación de personas en el extranjero, excepto el que preste servicios en los Centros de Cooperación Policial y Aduanera ubicados en territorio de países de la Unión Europea fronterizos con España, percibirá las retribuciones básicas y complementarias de carácter general que le correspondan a su nivel y empleo o categoría profesional y el componente singular del complemento específico asignado al puesto de trabajo de su destino, así como una indemnización que retribuirá las especiales condiciones en que desarrolla su actividad el personal participante en ellas, durante su permanencia en territorio extranjero.
+
+2\. Dicha indemnización será fijada por el Ministro del Interior, previo informe del Ministro de Economía y Hacienda, y se percibirá con cargo a los créditos de indemnizaciones por razón del servicio.
+
+3\. El importe de la indemnización se fijará para cada empleo o categoría profesional mediante la suma de tres conceptos: complemento de productividad; un porcentaje, como máximo del 100 por cien de la indemnización de residencia eventual, y un porcentaje, como máximo, del 100 por cien del sueldo, complemento de destino y componente general del complemento específico.
+
+4\. Las cuantías de este concepto retributivo se abonarán con periodicidad mensual, pero se devengarán por días, y su percepción será incompatible con las indemnizaciones por razón del servicio previstas en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio.
+
+5\. El personal del Cuerpo de la Guardia Civil que participe en este tipo de operaciones formando parte de contingentes militares percibirá la indemnización a que se refiere el artículo 17 del Reglamento de retribuciones del personal de las Fuerzas Armadas, aprobado por el Real Decreto 662/2001, de 22 de junio, con cargo a los créditos del Ministerio de Defensa específicamente aprobados para estas operaciones. Para el cálculo de la cuantía se tendrán en cuenta las retribuciones básicas y complementarias reguladas en este real decreto.
+
+> Se modifica el apartado 1 por el art. único del Real Decreto 806/2011, de 10 de junio. [Ref. BOE-A-2011-10881](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10881).
+
+#### Disposición adicional quinta. Retribuciones del personal en situación de segunda reserva.
+
+1\. Los Oficiales Generales que se encuentren o pasen a la situación de segunda reserva percibirán todas las retribuciones básicas y un complemento de una cuantía igual al 35 por ciento del complemento de destino. Asimismo, podrán percibir las pensiones de recompensas o mutilación que pudieran corresponderles, de acuerdo con sus normas específicas.
+
+A partir del pase a la situación de segunda reserva, no se perfeccionarán trienios, ni se cotizará al régimen de clases pasivas ni al Régimen Especial de la Seguridad Social de las Fuerzas Armadas.
+
+En el supuesto de que el importe íntegro anual de sus retribuciones resultase inferior a la pensión de retiro que, en su caso, le hubiese correspondido, de conformidad con la legislación sobre clases pasivas del Estado, y con el límite máximo establecido anualmente para las pensiones de las citadas clases pasivas, la diferencia resultante incrementaría la cuantía del complemento a percibir.
+
+2\. El personal en esta situación que ocupe destino percibirá las retribuciones correspondientes al puesto de trabajo que desempeñe en iguales condiciones que si estuviera en servicio activo, si bien no perfeccionarán trienios ni cotizarán al régimen de clases pasivas ni al Régimen Especial de la Seguridad Social de las Fuerzas Armadas.
+
+#### Disposición adicional sexta. Retribuciones del personal en situación de reserva por aplicación de la disposición transitoria tercera.1 de la Ley 42/1999, de 25 de noviembre.
+
+Los guardias civiles que pasen a la situación de reserva por aplicación del apartado 1 de la disposición transitoria tercera de la Ley 42/1999, de 25 de noviembre, percibirán las retribuciones del personal en servicio activo hasta cumplir las edades que, por escalas y empleos, se fijan en el apartado 1 del artículo 86 de la citada ley.
+
+A los efectos del párrafo anterior, se entenderá como retribuciones del personal en servicio activo, las retribuciones básicas y complementarias de carácter general asignadas al nivel y empleo.
+
+En las retribuciones a que se refiere el párrafo anterior se considera comprendido el componente singular del complemento específico asignado a los puestos de trabajo que vinieran desempeñando los Oficiales Generales y Coroneles, al constituir para sus respectivos empleos un único concepto que absorbe el componente general del complemento específico, a tenor de lo dispuesto en el artículo 4.B).d). Si algún Oficial General o Coronel no tuviera destino, en las retribuciones referidas en el párrafo anterior se considerará comprendido el menor de los componentes singulares asignado a los puestos de trabajo de su empleo.
+
+#### Disposición adicional séptima. Retribuciones del personal que a la entrada en vigor de la Ley 42/1999, de 25 de noviembre, se encontraba en la situación de reserva.
+
+1\. De conformidad con lo establecido en la disposición transitoria séptima, párrafo primero de la Ley 42/1999, de 25 de noviembre, el personal del Cuerpo de la Guardia Civil que a la entrada en vigor de dicha ley se encontraba en la situación de reserva y que hubiera pasado a esta tras la entrada en vigor de la Ley 28/1994, de 18 de octubre, por la que se completa el régimen del personal del Cuerpo de la Guardia Civil, percibirá todas las retribuciones básicas y un complemento cuya cuantía es la que se indica en el anexo VII.
+
+2\. Las modificaciones que procedan en los importes expresados en dicho anexo VII, como consecuencia de la variación de las retribuciones complementarias de carácter general del personal en activo, serán acordadas por los Ministerios de Economía y Hacienda y de Administraciones Públicas, a propuesta del Ministerio del Interior.
+
+Para la determinación de las citadas modificaciones se aplicará, sobre los incrementos que se produzcan en las retribuciones complementarias de carácter general para cualquier empleo en la situación de servicio activo, el porcentaje del 80 por ciento actualmente previsto en la Ley 28/1994, de 18 de octubre, o el que a estos efectos pueda establecerse en el futuro en la normativa reguladora de la situación de reserva.
+
+3\. El personal del Cuerpo de la Guardia Civil que a la entrada en vigor de la Ley 28/1994, de 18 de octubre, se encontraba en la situación de reserva no estará sujeto a la disponibilidad prevista en el artículo 86.8 de la Ley 42/1999, de 25 de noviembre, y percibirá todas las retribuciones básicas y un complemento de disponibilidad cuya cuantía es la que se indica en el anexo VIII.
+
+Las modificaciones que procedan en las cuantías expresadas en el citado anexo como consecuencia de la variación de las retribuciones complementarias de carácter general del personal en situación de servicio activo serán acordadas por los Ministerios de Economía y Hacienda y de Administraciones Públicas, a propuesta del Ministerio del Interior.
+
+#### Disposición adicional octava. Determinación del complemento de destino para determinados supuestos del Cuerpo de la Guardia Civil.
+
+Cuando los miembros del Cuerpo de la Guardia Civil desempeñen un puesto de trabajo que no pertenezca a la estructura orgánica de la Dirección General de la Guardia Civil, y tenga asignado un nivel superior al del empleo de su titular de acuerdo con el anexo II, percibirán, como complemento de destino, la cuantía correspondiente al nivel de ese puesto de trabajo
+
+#### Disposición transitoria única. Ajustes en otros complementos retributivos del Cuerpo de la Guardia Civil y del Cuerpo Nacional de Policía.
+
+1\. A la entrada en vigor de este real decreto, los miembros del Cuerpo de la Guardia Civil o personal asimilado y del Cuerpo Nacional de Policía dejarán de percibir las cuantías equivalentes a la elevación de los puntos de nivel de complemento de destino que se les viene acreditando en concepto de complemento específico singular a través del catálogo de puestos de trabajo.
+
+Para la aplicación de las anteriores modificaciones se tendrá en cuenta lo siguiente:
+
+a) Ningún miembro funcionario experimentará merma alguna sobre las retribuciones que actualmente percibe en razón del desempeño del puesto de trabajo que se tenga asignado, y se actuará para evitar dicha merma, en su caso, sobre el complemento específico singular del puesto de trabajo correspondiente.
+
+b) En los casos en que las citadas modificaciones produzcan un exceso sobre las retribuciones que actualmente se perciben en razón del desempeño del puesto de trabajo asignado, se aplicará una minoración equivalente a dicho exceso en el componente singular del complemento específico de dicho puesto de trabajo.
+
+2\. El componente singular del complemento específico de los puestos de trabajo que tuvieran asignados niveles 29 y 30 experimentará en sus cuantías el mismo incremento que se produzca en el componente general correspondiente a los empleos de Coronel, General de Brigada y General de División y a la categoría de Comisario Principal, por aplicación de este real decreto.
+
+3\. A la entrada en vigor de este real decreto, los funcionarios pertenecientes a las categorías de Inspector y Oficial de Policía dejarán de percibir la cuantía mensual de 55,84 euros que se les venía acreditando en concepto de componente singular del complemento específico, por quedar absorbida dicha cuantía en el componente general del mismo complemento que se establece en el artículo 4.B).b).
+
+4\. El componente singular del complemento específico de los puestos de trabajo correspondientes a los empleos de Teniente, Cabo Mayor, Cabo Primero y Cabo también se minorará en la cuantía mensual de 55,84 euros para compensar el incremento, en la misma cuantía, del componente general del complemento específico de los citados empleos.
+
+> Redactado el párrafo primero del apartado 1 conforme a la corrección de errores publicada en BOE núm. 216, de 9 de septiembre de 2005. [Ref. BOE-A-2005-15050](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15050).
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados el Real Decreto 311/1988, de 30 de marzo, modificado por los Reales Decretos 8/1995, de 13 de enero, 1847/1996, de 26 de julio, y 2298/2004, de 10 de diciembre, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+#### Disposición final primera. Facultades de desarrollo.
+
+Se autoriza a los Ministros de Economía y Hacienda, de Administraciones Públicas y del Interior, dentro del ámbito de sus respectivas competencias, para dictar, en su caso, cuantas normas precise el desarrollo de este real decreto.
+
+#### Disposición final segunda. Modificaciones presupuestarias.
+
+Por parte del Ministerio de Economía y Hacienda se procederá a la modificación de los créditos que requiera la aplicación de este real decreto.
+
+#### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado» y surtirá efectos económicos desde el día 1 de enero de 2005, sin perjuicio de que lo previsto en los párrafos e) y f) del artículo 4.B), en la disposición adicional cuarta y en la disposición adicional octava comience a aplicarse a partir de dicha entrada en vigor.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 216, de 9 de septiembre de 2005. [Ref. BOE-A-2005-15050](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15050).
+
+Dado en Palma de Mallorca, el 29 de julio de 2005.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
+
+## ANEXO I — Retribuciones básicas (grupos de clasificación)
+
+Cuerpo de la Guardia Civil
+
+De conformidad con lo dispuesto en el artículo 93.2 de la Ley 42/1999, de 25 de noviembre, a los solos efectos retributivos y de fijación de los haberes reguladores para la determinación de los derechos pasivos, se aplicarán las siguientes equivalencias entre los empleos y los grupos de clasificación de los funcionarios al servicio de las Administraciones públicas:
+
+| Empleo | Grupo |
+|---|---|
+| Teniente General a Teniente. | A |
+| Alférez y Suboficial Mayor a Sargento. | B |
+| Cabo Mayor a Guardia Civil. | C |
+
+Cuerpo Nacional de Policía
+
+| Escalas | Grupo |
+|---|---|
+| Escala Superior y Personal Facultativo. | A |
+| Escala Ejecutiva. | A |
+| Personal Técnico. | B |
+| Escala de Subinspección. | B |
+| Escala Básica. | C |
+
+> Se modifica la tabla primera por el art. único del Real Decreto 1622/2007, de 7 de diciembre. [Ref. BOE-A-2007-21093](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21093).
+
+> Esta modificación tiene efectos económicos desde el 22 de septiembre de 2007, según establece la disposición final 3.
+
+## ANEXO II — Niveles de complemento de destino por empleos del Cuerpo de la Guardia Civil
+
+| Empleo | Nivel de C.D. |
+|---|---|
+| Teniente General. | 30 |
+| General de División. | 30 |
+| General de Brigada. | 30 |
+| Coronel. | 29 |
+| Teniente Coronel. | 28 |
+| Comandante. | 27 |
+| Capitán. | 25 |
+| Teniente. | 24 |
+| Alférez. | 23 |
+| Suboficial Mayor. | 23 |
+| Subteniente. | 22 |
+| Brigada. | 22 |
+| Sargento Primero. | 20 |
+| Sargento. | 20 |
+| Cabo Mayor. | 20 |
+| Cabo Primero. | 19 |
+| Cabo. | 19 |
+| Guardia Civil. | 17 |
+
+Los Generales de División y Generales de Brigada percibirán, además, un importe adicional de 35,45 euros mensuales.
+
+## Niveles de complemento de destino de las categorías profesionales del Cuerpo Nacional de Policía
+
+| Categoría | Nivel |
+|---|---|
+| Comisario Principal. | 27 |
+| Comisario. | 27 |
+| Personal Facultativo. | 27 |
+| Inspector Jefe. | 25 |
+| Personal Técnico. | 25 |
+| Inspector. | 24 |
+| Subinspector. | 21 |
+| Oficial de Policía. | 19 |
+| Policía. | 17 |
+
+> Se añade un nuevo empleo y se modifica el párrafo segundo de la tabla primera por el art. único del Real Decreto 1622/2007, de 7 de diciembre. [Ref. BOE-A-2007-21093](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21093).
+
+> Esta modificación tiene efectos económicos desde el 22 de septiembre de 2007, según establece la disposición final 3.
+
+> Véase en cuanto a la cuantía del complemento de destino del empleo de Teniente General del Cuerpo de la Guardia Civil la disposición adicional única.
+
+## ANEXO III — Componente general del complemento específico
+
+Cuerpo de la Guardia Civil
+
+| Empleo | Cuantía anual<br>(en euros) |
+|---|---|
+| Teniente General | 16.018,08 |
+| General de División | 15.911,14 |
+| General de Brigada | 12.585,58 |
+| Coronel | 11.646,32 |
+| Teniente Coronel | 11.652,76 |
+| Comandante | 11.984,84 |
+| Capitán | 10.880,80 |
+| Teniente | 9.063,74 |
+| Alférez | 8.196,30 |
+| Suboficial Mayor | 10.732,54 |
+| Subteniente | 9.903,04 |
+| Brigada | 6.956,04 |
+| Sargento Primero | 6.927,62 |
+| Sargento | 6.171,90 |
+| Cabo Mayor | 9.283,82 |
+| Cabo Primero | 8.433,32 |
+| Cabo | 7.583,38 |
+| Guardia Civil | 6.639,78 |
+
+Cuerpo Nacional de Policía
+
+| Categorías | Cuantía anual<br>(en euros) |
+|---|---|
+| Comisario Principal | 14.528,36 |
+| Comisario | 12.892,74 |
+| Facultativo | 12.084,66 |
+| Inspector Jefe | 10.880,80 |
+| Inspector | 9.063,74 |
+| Personal Técnico | 12.792,36 |
+| Subinspector | 7.016,80 |
+| Oficial de Policía | 8.433,32 |
+| Policía | 6.639,78 |
+
+> Se modifica por el art. 1 y anexo III del Real Decreto 29/2009, de 16 de enero. [Ref. BOE-A-2009-911](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-911).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2009, según establece la disposición final 3.
+
+> Se modifica por el art. 1 y anexo III del Real Decreto 10/2008, de 11 de enero. [Ref. BOE-A-2008-518](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-518).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+> Se modifica por el art. 1 y anexo III del Real Decreto 5/2007, de 12 de enero. [Ref. BOE-A-2007-882](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-882). en la redacción dada por el art. único del Real Decreto 1622/2007, de 7 de diciembre. [Ref. BOE-A-2007-21093](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21093).
+
+> Se modifica por el art. 1 y anexo III del Real Decreto 5/2007, de 12 de enero. [Ref. BOE-A-2007-882](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-882).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2007, según establece la disposición final 3.
+
+> Se modifica por el art. 1 y anexo I del Real Decreto 359/2006, de 24 de marzo. [Ref. BOE-A-2006-5376](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-5376).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2006, según establece la disposición final 3.
+
+> Redactada la tabla primera conforme a la corrección de errores publicada en BOE núm. 216, de 9 de septiembre de 2005. [Ref. BOE-A-2005-15050](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15050).
+
+## ANEXO IV — Importe de los complementos de disponibilidad correspondientes al personal de la Guardia Civil que haya pasado o pase a la situación de reserva sin destino a partir de la entrada en vigor de la Ley 42/1999, de 25 de noviembre
+
+Cuerpo de la Guardia Civil
+
+| Empleo | Cuantía anual<br>(en euros) |
+|---|---|
+| Teniente General | 24.591,72 |
+| General de División | 22.857,48 |
+| General de Brigada | 20.196,96 |
+| Coronel | 18.071,52 |
+| Teniente Coronel | 17.708,64 |
+| Comandante | 17.606,04 |
+| Capitán | 14.945,64 |
+| Teniente | 13.123,92 |
+| Alférez | 12.061,92 |
+| Suboficial Mayor | 14.091,00 |
+| Subteniente | 13.059,12 |
+| Brigada | 10.701,36 |
+| Sargento Primero | 9.972,00 |
+| Sargento | 9.367,44 |
+| Cabo Mayor | 11.857,08 |
+| Cabo Primero | 10.950,36 |
+| Cabo | 10.270,44 |
+| Guardia Civil | 9.063,00 |
+
+> Se modifica por el art. 2.1 del Real Decreto 29/2009, de 16 de enero. [Ref. BOE-A-2009-911](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-911).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2009, según establece la disposición final 3.
+
+> Se modifica por el art. 2.1 del Real Decreto 10/2008, de 11 de enero. [Ref. BOE-A-2008-518](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-518).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+> Se modifica por el art. 2.1 y anexo IV del Real Decreto 5/2007, de 12 de enero. [Ref. BOE-A-2007-882](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-882). en la redacción dada por el art. único del Real Decreto 1622/2007, de 7 de diciembre. [Ref. BOE-A-2007-21093](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21093).
+
+> Esta modificación tiene efectos económicos desde el 22 de septiembre de 2007, según establece la disposición final 3.
+
+> Se modifica por el art. 2.1 y anexo IV del Real Decreto 5/2007, de 12 de enero. [Ref. BOE-A-2007-882](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-882).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2007, según establece la disposición final 3.
+
+> Se modifica por el art. 2.1 y anexo II del Real Decreto 359/2006, de 24 de marzo. [Ref. BOE-A-2006-5376](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-5376).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2006, según establece la disposición final 3.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 216, de 9 de septiembre de 2005. [Ref. BOE-A-2005-15050](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15050).
+
+## ANEXO V — Importe de los complementos de disponibilidad correspondientes al personal del Cuerpo Nacional de Policía que haya pasado o pase a segunda actividad sin destino a partir de la entrada en vigor de la Ley 26/1994, de 24 de septiembre
+
+| Categorías | Cuantía anual<br>(en euros) |
+|---|---|
+| Comisario Principal | 19.640,88 |
+| Comisario | 18.332,28 |
+| Inspector Jefe | 14.945,64 |
+| Inspector | 13.123,92 |
+| Subinspector | 10.382,28 |
+| Oficial de Policía | 10.950,36 |
+| Policía | 9.063,00 |
+
+Cuantías calculadas de conformidad con lo dispuesto en la Ley 26/1994, de 29 de septiembre, y en el Real Decreto-ley 12/1995, de 28 de diciembre, sobre cambio de grupos de clasificación de determinadas escalas, con los ajustes operados por dicho cambio de grupos de clasificación.
+
+> Se modifica por el art. 3 y anexo V del Real Decreto 29/2009, de 16 de enero. [Ref. BOE-A-2009-911](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-911).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2009, según establece la disposición final 3.
+
+> Se modifica por el art. 3 y anexo V del Real Decreto 10/2008, de 11 de enero. [Ref. BOE-A-2008-518](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-518).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+> Se modifica por el art. 3 y anexo V del Real Decreto 5/2007, de 12 de enero. [Ref. BOE-A-2007-882](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-882).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2007, según establece la disposición final 3.
+
+> Se modifica por el art. 3 y anexo V del Real Decreto 359/2006, de 24 de marzo. [Ref. BOE-A-2006-5376](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-5376).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2006, según establece la disposición final 3.
+
+> Redactada la rúbrica conforme a la corrección de errores publicada en BOE núm. 216, de 9 de septiembre de 2005. [Ref. BOE-A-2005-15050](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15050).
+
+## ANEXO VI — Cuantías del complemento de disponibilidad para el personal del Cuerpo Nacional de Policía que haya pasado a la situación de segunda actividad sin destino con anterioridad a la entrada en vigor de la Ley 26/1994, de 24 de septiembre
+
+| Categorías | Cuantía anual<br>(en euros) |
+|---|---|
+| Comisario Principal | 17.405,40 |
+| Comisario | 16.000,56 |
+| Inspector Jefe | 12.149,88 |
+| Inspector | 9.866,52 |
+| Subinspector | 6.984,72 |
+| Oficial de Policía | 7.815,00 |
+| Policía | 5.819,52 |
+
+> Se modifica por el art. 3 y anexo VI del Real Decreto 29/2009, de 16 de enero. [Ref. BOE-A-2009-911](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-911).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2009, según establece la disposición final 3.
+
+> Se modifica por el art. 3 y anexo VI del Real Decreto 10/2008, de 11 de enero. [Ref. BOE-A-2008-518](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-518).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+> Se modifica por el art. 3 y anexo VI del Real Decreto 5/2007, de 12 de enero. [Ref. BOE-A-2007-882](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-882).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2007, según establece la disposición final 3.
+
+> Se modifica por el art. 3 anexo VI del Real Decreto 359/2006, de 24 de marzo. [Ref. BOE-A-2006-5376](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-5376).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2006, según establece la disposición final 3.
+
+## ANEXO VII — Cuantías de los complementos correspondientes al personal del Cuerpo de la Guardia Civil que a la entrada en vigor de la Ley 42/1999, de 25 de noviembre, se encontraba en situación de reserva y que pasó a ésta tras la entrada en vigor de la Ley 28/1994, de 18 de octubre
+
+| Empleo | Cuantía anual<br>(en euros) |
+|---|---|
+| General de División | 22.857,48 |
+| General de Brigada | 20.196,96 |
+| Coronel | 18.071,52 |
+| Teniente Coronel | 17.708,64 |
+| Comandante | 17.606,04 |
+| Capitán | 14.945,64 |
+| Teniente | 13.123,92 |
+| Alférez | 12.061,92 |
+| Suboficial Mayor | 14.091,00 |
+| Subteniente | 13.059,12 |
+| Brigada | 10.009,32 |
+| Sargento Primero | 9.323,40 |
+| Sargento | 8.706,00 |
+| Cabo Primero | 10.600,80 |
+| Cabo | 9.954,48 |
+| Guardia Civil | 8.691,48 |
+
+Cuantías calculadas de conformidad con lo dispuesto en la Ley 28/1994, de 18 de octubre, y en el Real Decreto-ley 12/1995, de 28 de diciembre.
+
+> Se modifica por el art. 2.2 y anexo VII del Real Decreto 29/2009, de 16 de enero. [Ref. BOE-A-2009-911](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-911).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2009, según establece la disposición final 3.
+
+> Se modifica por el art. 2.2 y anexo VII del Real Decreto 10/2008, de 11 de enero. [Ref. BOE-A-2008-518](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-518).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+> Se modifica por el art. 2.2 y anexo VII del Real Decreto 5/2007, de 12 de enero. [Ref. BOE-A-2007-882](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-882).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2007, según establece la disposición final 3.
+
+> Se modifica por el art. 2.2 y anexo III del Real Decreto 359/2006, de 24 de marzo. [Ref. BOE-A-2006-5376](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-5376).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2006, según establece la disposición final 3.
+
+> Redactada la tabla conforme a la corrección de errores publicada en BOE núm. 216, de 9 de septiembre de 2005. [Ref. BOE-A-2005-15050](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15050).
+
+## ANEXO VIII — Cuantías de los complementos de disponibilidad del personal de la Guardia Civil que pasó a la situación de reserva antes de la entrada en vigor de la Ley 28/1994, de 18 de octubre
+
+| Empleo | Cuantía anual<br>(en euros) |
+|---|---|
+| Coronel | 15.846,72 |
+| Teniente Coronel | 14.782,44 |
+| Comandante | 14.782,44 |
+| Capitán | 12.149,88 |
+| Teniente | 9.866,52 |
+| Subteniente | 11.335,08 |
+| Brigada | 7.336,32 |
+| Sargento Primero | 6.541,80 |
+| Sargento | 5.855,16 |
+| Cabo Primero | 7.815,00 |
+| Guardia Civil | 5.819,52 |
+
+> Se modifica por el art. 2.2 y anexo VIII del Real Decreto 29/2009, de 16 de enero. [Ref. BOE-A-2009-911](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-911).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2009, según establece la disposición final 3.
+
+> Se modifica por el art. 2.2 y anexo VIII del Real Decreto 10/2008, de 11 de enero. [Ref. BOE-A-2008-518](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-518).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+> Se modifica por el art. 2.2 y anexo VIII del Real Decreto 5/2007, de 12 de enero. [Ref. BOE-A-2007-882](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-882).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2007, según establece la disposición final 3.
+
+> Se modifica por el art. 2.2 anexo IV del Real Decreto 359/2006, de 24 de marzo. [Ref. BOE-A-2006-5376](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-5376).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2006, según establece la disposición final 3.
+
+> Redactada la tabla conforme a la corrección de errores publicada en BOE núm. 216, de 9 de septiembre de 2005. [Ref. BOE-A-2005-15050](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15050).

@@ -1,0 +1,1308 @@
+---
+title: "Orden de 24 de septiembre de 1970 por la que se dictan normas para aplicación y desarrollo del Régimen Especial de la Seguridad Social de los trabajadores por cuenta propia o autónomos"
+identifier: "BOE-A-1970-1066"
+eli: "https://www.boe.es/eli/es/o/1970/09/24/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo"
+date: 1970-09-24
+published: 1970-09-30
+in_force_from: 1970-10-01
+last_amended: 2017-12-30
+consolidated: 2026-05-12
+gazette: "Boletín Oficial del Estado núm. 234"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1970-1066"
+retrieved: 2026-10-11
+---
+
+# Orden de 24 de septiembre de 1970 por la que se dictan normas para aplicación y desarrollo del Régimen Especial de la Seguridad Social de los trabajadores por cuenta propia o autónomos
+
+Ilustrísimos señores:
+
+El Régimen Especial de los trabajadores por cuenta propia o autónomos, previsto en el apartado c) del número 2 del artículo 10 de la Ley de la Seguridad Social, de 21 de abril de 1966, ha sido regulado por el Decreto 2530/1970, de 20 de agosto.
+
+Dicho Decreto señala en su artículo primero que el aludido Régimen Especial se regirá por el título I de la Ley de la Seguridad Social, el propio Decreto y sus disposiciones de aplicación y desarrollo, así como por las restantes normas generales de obligada observancia en el sistema de la Seguridad Social.
+
+El Decreto, en el número 2 de su disposición final primera y de conformidad con lo establecido en el artículo cuarto de la Ley de la Seguridad Social, faculta a este Ministerio para dictar las disposiciones necesarias para su aplicación y desarrollo.
+
+En su virtud, a propuesta de la Dirección General de la Seguridad Social, este Ministerio ha tenido a bien disponer:
+
+## CAPÍTULO PRIMERO — Campo de aplicación
+
+##### Art. 1. Concepto de trabajador por cuenta propia o autónomo.
+
+1\. A los efectos del Régimen Especial de la Seguridad Social de los trabajadores por cuenta propia o autónomos, regulado por el Decreto 2530/1970, de 20 de agosto («Boletín Oficial del Estado» de 15 de septiembre), y de conformidad con lo dispuesto en el mismo, se entenderá como trabajador por cuenta propia o autónomo aquel que realiza de forma habitual, personal y directa una actividad económica a título lucrativo, sin sujeción por ella a contrato de trabajo, y aunque utilice el servicio remunerado de otras personas.
+
+2\. En caso de que se suspenda temporalmente el ejercicio de la actividad a que se refiere el número anterior, por incapacidad debida a enfermedad o accidente, se entenderá que subsiste la habitualidad durante los períodos que no excedan del último día del segundo mes natural siguiente a aquel en el que se haya iniciado la indicada suspensión. La habitualidad para los trabajadores que se ocupen en trabajos de temporada quedará referida a la duración normal de ésta.
+
+3\. Se presumirá, salvo prueba en contrario, que en el interesado concurre la condición de trabajador por cuenta propia o autónomo a efectos de este Régimen Especial, si el mismo figura integrado sindicalmente como tal u ostenta la titularidad de un establecimiento abierto al público como propietario, usufructuario, arrendatario u otro concepto análogo.
+
+##### Art. 2. Sujetos incluidos.
+
+1\. Estarán obligatoriamente incluidos en este Régimen Especial de la Seguridad Social los españoles mayores de dieciocho años, cualquiera que sea su sexo y estado civil, que a continuación se determinan:
+
+1.º Los trabajadores por cuenta propia o autónomos, sean o no titulares de Empresas individuales o familiares, siempre que en los mismos concurran los requisitos siguientes:
+
+a) Que figuren integrados como tales trabajadores por cuenta propia o autónomos en la Entidad sindical a la que corresponda el encuadramiento de su actividad.
+
+b) Que residan y ejerzan normalmente su actividad en territorio nacional.
+
+2.° El cónyuge y los parientes por consanguinidad o afinidad, hasta el tercer grado inclusive, de los trabajadores determinados en el punto anterior, de que de forma habitual, personal y directa colaboren con ellos mediante la realización de trabajos en la actividad de que se trate, siempre que no tengan la condición de asalariados respecto a aquéllos y cumplan los requisitos señalados en el apartado b) de dicho punto.
+
+3.° Los socios de las Compañías Regulares Colectivas y los socios colectivos de las Compañías Comanditarias, cuando además de cumplir la sociedad, con respecto a sí misma, el requisito de integración sindical que figura en el apartado a) del punto 1.° de este número, y los socios el señalado en su apartado b), trabajen en el negocio con tal carácter, a título lucrativo y de forma habitual personal y directa.
+
+4.° Aquellos otros grupos de trabajadores por cuenta propia o autónomos que pueda disponerse por Decreto a propuesta del Ministro de Trabajo y oída la Organización Sindical.
+
+2\. La inclusión obligatoria en este Régimen Especial de las personas determinadas en el número anterior no quedará afectada por la realización simultánea por las mismas de otras actividades, por cuenta ajena o propia, que den lugar a su inclusión en alguno o algunos de los restantes Regímenes de la Seguridad Social.
+
+##### Art. 3. Súbditos de otros países.
+
+1\. Los trabajadores hispanoamericanos, portugueses, brasileños, andorranos y filipinos que residan y se encuentren legalmente en territorio español, se equiparan a los españoles a efectos de su inclusión en este Régimen Especial de la Seguridad Social.
+
+2\. Respecto a los súbditos de otros países se estará a lo dispuesto en el número 4 del artículo séptimo de la Ley de la Seguridad Social de 21 de abril de 1966 y demás normas de aplicación en la materia.
+
+##### Art. 4. Exclusiones.
+
+Estarán excluidos de este Régimen Especial los trabajadores por cuenta propia o autónomos cuya actividad como tales dé lugar a su inclusión en otros Regímenes de la Seguridad Socia.
+
+## CAPÍTULO II — Afiliación, altas y bajas
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+### Sección primera. Normas generales
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 5. Obligatoriedad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 6. Personas obligadas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 7. Pluriactividad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 8. Procedimientos.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 9. Competencia.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+### Sección segunda. Afiliación y altas
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 10. Nacimiento de la obligación de solicitar la afiliación y el alta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 11. Plazo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 12. Documentación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 13. Facultad revisora.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 14. Presentación o envío a las Entidades Gestoras.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 15. Efectos.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 16. Tramitación de las afiliaciones ante el Instituto Nacional de Previsión.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+### Sección tercera. Bajas
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 17. Plazo y procedimiento.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 18. Efectos de las bajas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+## CAPÍTULO III — Cotización y recaudación
+
+### Sección primera. Cotización
+
+##### Art. 19. Obligatoriedad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 20. Sujetos obligados.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 21. Nacimiento y duración de la obligación de cotizar.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 22. Tipo de cotización.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 23. Bases de cotización.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+> Se derogan los apartados 1 a 3 por la disposición derogatoria de la Orden de 3 de febrero de 1984. .[Ref. BOE-A-1984-3363](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-3363).
+
+> Esta derogación surte efectos desde el 1 de enero de 1984, según establece la disposición final.
+
+> Se modifica por el art. único de la Orden de 10 de noviembre de 1976. [Ref. BOE-A-1976-23860](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-23860).
+
+> Esta modificación surte efectos desde el 1 de octubre de 1976, según establece la disposición final.
+
+##### Art. 24. Elección de base.
+
+**(Derogado).**
+
+> Téngase en cuenta que esta derogación, efectuada por la disposición derogatoria única.2 de la Ley 6/2017, de 24 de octubre. [Ref. BOE-A-2017-12207](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207), entra en vigor el 1 de enero de 2018.
+
+> Redacción anterior:
+
+> "1. Las personas que causen alta en este Régimen Especial podrán elegir la base de cotización entre las establecidas, siempre que opten expresamente por cualquiera de ellas, dentro del plazo señalado para solicitar el alta en el artículo 11, y, en su caso, con las limitaciones que resulten de lo dispuesto en el artículo siguiente.
+
+> 2\. La elección surtirá efectos desde que, de conformidad con lo dispuesto en el artículo 21, nazca la obligación de cotizar."
+
+> Se deroga, con efectos de 1 de enero de 2018, por la disposición derogatoria única.2 de la Ley 6/2017, de 24 de octubre. [Ref. BOE-A-2017-12207](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207)
+
+##### Art. 25. Límite a la elección de base.
+
+**(Derogado).**
+
+> Téngase en cuenta que esta derogación, efectuada por la disposición derogatoria única.2 de la Ley 6/2017, de 24 de octubre. [Ref. BOE-A-2017-12207](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207), entra en vigor el 1 de enero de 2018.
+
+> Redacción anterior:
+
+> "1. No obstante lo dispuesto. en el número 1 del artículo anterior, para quienes en el momento de causar alta en este Régimen Especial tuvieran cumplidos los cincuenta y cinco años de edad, el derecho de elección que en aquél se regula quedará limitado por la base de cotización que a estos efectos establece anualmente el Ministerio de Trabajo y Seguridad Social.
+
+> 2\. El límite expresado en el número anterior, para las personas a que el mismo se refiere, cuando éstas hayan causado baja en cualquier Régimen de la Seguridad Social durante los doce meses anteriores a su alta en éste, quedará elevado, en su caso, hasta la base coincidente con aquella por la que últimamente hubiesen cotizado o, si no existiese coincidencia, con la más próxima por exceso."
+
+> Se deroga, con efectos de 1 de enero de 2018, por la disposición derogatoria única.2 de la Ley 6/2017, de 24 de octubre. [Ref. BOE-A-2017-12207](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207)
+
+> Se modifica el apartado 1 por la disposición adicional 2 de la Orden de 3 de febrero de 1984. [Ref. BOE-A-1984-3363](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-3363).
+
+> Esta modificación surte efectos desde el 1 de enero de 1984, según establece la disposición final.
+
+##### Art. 26. Cambios posteriores de base.
+
+**(Derogado)**
+
+> Téngase en cuenta que esta derogación, efectuada por la disposición derogatoria única.2 de la Ley 6/2017, de 24 de octubre. [Ref. BOE-A-2017-12207](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207), entra en vigor el 1 de enero de 2018.
+
+> Redacción anterior:
+
+> "1. Las personas incluidas en el campo de aplicación de este régimen especial podrán cambiar dos veces al año la base por la que viniesen obligadas a cotizar, eligiendo otra, dentro de los límites mínimo y máximo aplicables en cada ejercicio, siempre que así lo soliciten de la Tesorería General de la Seguridad Social antes del 1 de mayo, con efectos del 1 de julio siguiente, y antes del 1 de noviembre, con efectos del 1 de enero del año siguiente.
+
+> 2\. No obstante lo dispuesto en el apartado anterior, los trabajadores por cuenta propia o autónomos incluidos en este régimen especial que tengan la edad de cincuenta o más años en el momento de surtir efectos el cambio voluntario de base de cotización, sólo podrán elegir una base que esté comprendida entre los límites mínimo y máximo establecidos específicamente para ellos en cada ejercicio por la respectiva Ley de Presupuestos Generales del Estado y la Orden anual de cotización a la Seguridad Social, de desarrollo de las normas contenidas al respecto en dicha Ley de Presupuestos.
+
+> 3\. Sin perjuicio de lo indicado en los apartados anteriores, los trabajadores por cuenta propia o autónomos que estén cotizando por cualquiera de las bases máximas de este régimen especial podrán solicitar que, mientras mantengan su situación de alta en dicho régimen, su base de cotización se incremente automáticamente en el mismo porcentaje en que se aumenten dichas bases máximas.
+
+> Asimismo, los trabajadores por cuenta propia o autónomos que no estén cotizando por cualquiera de las bases máximas podrán solicitar que, mientras mantengan su situación de alta, su base de cotización se incremente automáticamente en el mismo porcentaje en que se aumenten las bases máximas de cotización de este régimen especial. En ningún caso, la base de cotización elegida podrá ser superior al tope máximo de cotización que pudiera afectar al trabajador.
+
+> Cualquiera de las opciones anteriores que se ejerciten simultáneamente con el alta en este régimen especial o, posteriormente al alta, antes del día primero de noviembre de cada año, tendrán efectos desde el día 1 de enero del año siguiente a la fecha de la solicitud. La renuncia a estas opciones podrá realizarse en el mismo plazo y tendrá efectos a partir del 31 de diciembre del año en el que se presente la solicitud."
+
+> Se deroga, con efectos de 1 de enero de 2018, por la disposición derogatoria única.2 de la Ley 6/2017, de 24 de octubre. [Ref. BOE-A-2017-12207](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207)
+
+> Se modifican los apartados 1 y 3 por el art. único de la Orden TIN/2445/2010, de 16 de septiembre. [Ref. BOE-A-2010-14535](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-14535).
+
+> Se modifica por el art. único de la Orden TAS/3553/2007, de 30 de noviembre. [Ref. BOE-A-2007-21012](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21012).
+
+> Véase en cuanto a la ampliación de plazo del apartado 1, con efectos exclusivos para el ejercicio de 2005, el art. único de la Orden TAS/2213/2005, de 29 de junio. [Ref. BOE-A-2005-11968](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11968).
+
+> Se modifica por la disposición adicional 10 de la Orden TAS/192/2002, de 31 de enero. [Ref. BOE-A-2002-2195](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2195).
+
+> Esta modificación surte efectos económicos desde el 1 de enero de 2002, según establece la disposición final 1.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 68, de 20 de marzo de 2002. [Ref. BOE-A-2002-5470](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-5470).
+
+> Se modifica el apartado 2.2 por la disposición adicional 3 de la Orden de 15 de enero de 1985. [Ref. BOE-A-1985-1607](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-1607).
+
+> Esta modificación surte efectos desde el 1 de enero de 1984, según establece la disposición final.
+
+> Se modifica el apartado 2 por la disposición adicional 2 de la Orden de 3 de febrero de 1984. [Ref. BOE-A-1984-3363](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-3363).
+
+> Esta modificación surte efectos desde el 1 de enero de 1984, según establece la disposición final.
+
+> Se modifica por el art. único de la Orden de 10 de noviembre de 1976. [Ref. BOE-A-1976-23860](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-23860).
+
+> Esta modificación surte efectos desde el 1 de octubre de 1976, según establece la disposición final.
+
+##### Art. 27. Prescripción.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 28. Prelación de créditos.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+### Sección segunda. Recaudación en período voluntario
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+#### Subsección primera. Normas generales
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 29. Competencia.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 30. Sujetos responsables.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+#### Subsección segunda. Normas sobre plazo de ingreso
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 31. Liquidación en períodos mensuales.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 32. Liquidación en otros períodos.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+> Téngase en cuenta que ya estaba derogado por la disposición final 1 de la Orden de 10 de enero de 1984.
+
+> Se deroga por la disposición final 1 de la Orden de 10 de enero de 1984. [Ref. BOE-A-1984-614](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-614).
+
+##### Art. 33. Bonificación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+> Téngase en cuenta que ya está derogado por la disposición final de la Orden de 10 de enero de 1984.
+
+> Se deroga por la disposición final 1 de la Orden de 10 de enero de 1984. [Ref. BOE-A-1984-614](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-614).
+
+##### Art. 34. Recargo por ingreso fuera de plazo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 35. Condonación del recargo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+#### Subsección tercera. Normas sobre el lugar de ingreso
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 36. Lugar de ingreso.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+#### Subsección cuarta. Normas sobre forma de liquidación e ingreso y actuación de las oficinas recaudadoras
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 37. Forma de efectuar la liquidación e ingreso.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 38. Justificantes de liquidación e ingreso.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 39. Actuación de las oficinas recaudadoras.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+#### Subsección quinta. Aplazamiento o fraccionamiento del pago
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 40. Norma general.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 41. Formalización de la solicitud.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 42. Tramitación y resolución.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 43. Notificación y garantías.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 44. Cumplimiento.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+#### Subsección sexta. Control de la recaudación
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 45. Normas generales.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+#### Subsección séptima. Requerimientos y actas de liquidación
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 46. Norma general.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+#### Subsección octava. Devolución de cuotas
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 47. Norma general.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 48. Petición.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 49. Devolución de oficio.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 50. Compensación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 51. Devoluciones improcedentes y de cantidades computadas a efectos de prestaciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 52. Caducidad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+### Sección tercera. Recaudación en vía ejecutiva
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+##### Art. 53. Norma general.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.2 de la Orden de 22 de febrero de 1996. [Ref. BOE-A-1996-4582](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4582).
+
+## CAPÍTULO IV — Conservación de datos y derecho de información
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 54. Obligación de las Entidades Gestoras.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+##### Art. 55. Derecho de información.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.8 del Real Decreto 84/1996, de 26 de enero. [Ref. BOE-A-1996-4447](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4447).
+
+## CAPÍTULO V — Acción protectora
+
+### Sección primera. Disposiciones generales
+
+#### Subsección primera. Alcance de la acción protectora y normas generales sobre prestaciones
+
+##### Art. 56. Alcance de la acción protectora.
+
+1\. La acción protectora de este Régimen Especial comprenderá:
+
+a) Prestaciones por invalidez en los grados de incapacidad permanente total para la profesión habitual, incapacidad permanente absoluta para todo trabajo y gran invalidez.
+
+b) Prestación económica por vejez.
+
+c) Prestaciones económicas por muerte y supervivencia.
+
+d) Prestaciones económicas de protección a la familia.
+
+e) Ayuda económica con ocasión de intervención quirúrgica.
+
+f) Asistencia sanitaria a pensionistas.
+
+g) Beneficios de Asistencia Social.
+
+h) Los Servicios Sociales, en atención a contingencias y situaciones especiales.
+
+2\. Los requisitos del derecho a las prestaciones y demás beneficios, así como su alcance y cuantía, serán los que se determinan en el presente capítulo.
+
+##### Art. 57. Condiciones del derecho a las prestaciones.
+
+1\. Las personas incluidas en el campo de aplicación de este Régimen Especial causarán derecho a las prestaciones del mismo cuando, sin perjuicio de las particularidades exigidas para cada una de éstas, reúnan la condición general de estar afiliadas y en alta en este Régimen o en situación asimilada al alta, en la fecha en que se entienda causada la prestación.
+
+2\. Es asimismo condición indispensable para tener derecho a las prestaciones a que se refieren los apartados a) a e) del número 1 del artículo anterior, con excepción del subsidio de defunción, que las personas incluidas en el campo de aplicación de este Régimen se hallen al corriente en el pago de sus cuotas exigibles en la fecha en que se entienda causada la correspondiente prestación.
+
+No obstante, si cubierto el período mínimo de cotización preciso para tener derecho a la prestación de que se trate se solicitara ésta y la persona incluida en el campo de aplicación de este Régimen Especial no estuviera al corriente en el pago de las restantes cuotas exigibles en la fecha en que se entienda causada la prestación, la Entidad Gestora invitará al interesado para que, en el plazo improrrogable de treinta días naturales a partir de la invitación, ingrese las cuotas debidas.
+
+Si el interesado, atendiendo la invitación, ingresase las cuotas adeudadas dentro del plazo señalado en el párrafo anterior, se le considerará al corriente en las mismas a efectos de la prestación solicitada. Si el ingreso se realizase fuera de dicho plazo, se concederá la prestación menos un veinte por ciento, si se trata de prestaciones de pago único y subsidios temporales; si se trata de pensiones, se concederán las mismas con efectos a partir del día primero del mes siguiente a aquel en que tuvo lugar el ingreso de las cuotas adeudadas.
+
+3\. No producirán efectos para las prestaciones:
+
+a) Las cotizaciones efectuadas en relación con personas indebidamente en alta en este Régimen Especial, por no estar incluidas en su campo de aplicación, en los períodos a que aquéllas correspondan.
+
+b) Las cotizaciones efectuadas con arreglo a una base superior a la que corresponda a la persona de que se trate, por el período a que se refieran y en la diferencia correspondiente a ambas bases.
+
+c) Las cotizaciones que, por cualquier otra causa, hubiesen sido ingresadas indebidamente en su importe y período correspondientes.
+
+d) Las cotizaciones efectuadas en relación con personas que no estén en alta en este Régimen Especial, en el período a que aquéllas correspondan. Sin embargo, una vez practicada el alta, las cotizaciones que le hayan precedido adquirirán efectos en cuanto sean obligatorias según lo dispuesto en el artículo 21.
+
+##### Art. 58. Períodos mínimos de cotización.
+
+1\. Los períodos mínimos de cotización, que habrán de tener cumplidos las personas incluidas en el campo de aplicación de este Régimen Especial, para causar las distintas prestaciones serán los siguientes:
+
+a) Prestaciones por invalidez y por muerte y supervivencia.
+
+Sesenta meses de cotización dentro de los diez años inmediatamente anteriores a la fecha en que se entienda causada la prestación.
+
+No será exigido período mínimo de cotización para el subsidio de defunción en todo caso ni para las restantes prestaciones de muerte y supervivencia derivadas del fallecimiento de pensionistas de vejez o invalidez.
+
+b) Prestación por vejez:
+
+Ciento veinte meses de cotización, de los cuales, al menos veinticuatro deberán estar comprendidos dentro de los siete años inmediatamente anteriores a la fecha en que se entienda causada la prestación.
+
+c) **(Derogada)**
+
+d) Ayuda económica con ocasión de intervención quirúrgica:
+
+Veinticuatro meses de cotización dentro de los siete años inmediatamente anteriores a la fecha en que se entienda causada la ayuda.
+
+2\. A efectos de lo dispuesto en el número anterior, sólo serán computables las cotizaciones realizadas antes del día primero del mes en que se cause la prestación, por las mensualidades transcurridas hasta el mismo, y las correspondientes a dicho mes que se ingresen dentro de plazo.
+
+Igual norma se aplicará a efectos de otros beneficios cuya concesión requiera el cumplimiento de un período mínimo de cotización.
+
+> Se deroga el apartado 1.c) por la disposición derogatoria del Real Decreto 356/1991, de 15 de marzo. [Ref. BOE-A-1991-7266](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-7266).
+
+##### Art. 59. Base reguladora.
+
+1\. Para las prestaciones cuya cuantía venga determinada en función de una base reguladora, ésta se calculará de la siguiente forma:
+
+a) Para la pensión por vejez será el cociente que resulte de dividir por ciento veinte la suma de las bases de cotización del trabajador durante los diez años inmediatamente anteriores a la fecha en que se entienda causada la prestación.
+
+b) Para cada una de las restantes prestaciones será el cociente que resulte de dividir por el número de los meses exigidos como período mínimo de cotización para la respectiva prestación en el número 1 del artículo 58, la suma de las bases de cotización del trabajador durante un período ininterrumpido de igual número de meses naturales, aunque dentro del mismo existan lapsos en los que no haya habido obligación de cotizar. Este último período será elegido por el interesado dentro de los diez años inmediatamente anteriores a la fecha en que se entienda causada la prestación.
+
+Sin embargo, tratándose de prestaciones por muerte y supervivencia causadas por el fallecimiento de pensionistas de vejez o invalidez de este Régimen, cuya cuantía venga determinada en función de la base reguladora, ésta será el importe de la pensión que el causante disfrutaba al fallecer, sin que se compute a estos efectos el incremento del cincuenta por ciento de la pensión que se concede a los grandes inválidos con destino a remunerar a la persona que le atienda.
+
+2\. No se computarán en el período que haya de tenerse en cuenta para el cálculo aquellas bases de cotización relativas a cuotas que, aun habiendo sido ingresadas dentro del mismo, correspondan a meses distintos de los comprendidos en él.
+
+##### Art. 60. Prescripción.
+
+1\. El derecho al reconocimiento de las prestaciones prescribirá a los tres años, contados desde el día siguiente a la fecha en que se entienda causada la prestación de que se trate, sin perjuicio de lo determinado en el artículo 92 para la pensión por vejez.
+
+2\. La prescripción se interrumpirá por las mismas causas que la ordinaria y, además, por la reclamación ante las Entidades Gestoras o el Ministerio de Trabajo, así como en virtud de expediente que tramite la Inspección de Trabajo en relación con el caso de que se trate.
+
+3\. En el supuesto de que se entable acción judicial contra un presunto culpable, criminal o civilmente, la prescripción quedará en suspenso mientras aquélla se tramite, volviendo a contarse el plazo desde la fecha en que se notifique el auto de sobreseimiento o desde que la sentencia adquiera firmeza.
+
+##### Art. 61. Devengo.
+
+1\. Las prestaciones económicas de carácter periódico se devengarán desde el día siguiente a la fecha en que se entiendan causadas las mismas, siempre que la solicitud sea presentada dentro de los tres meses siguientes a la referida fecha. En otro caso, sólo se devengarán con una retroactividad máxima de tres meses contados desde la fecha de la presentación de la solicitud.
+
+2\. Las prestaciones a que se refiere el número anterior dejarán de devengarse el último día del mes en que se produzca la causa de su extinción, y si tal causa originase otra pensión o prestación de pago periódico, ésta comenzará a devengarse desde el día primero del mes siguiente, estándose a lo dispuesto en el citado número anterior a efectos de la retroactividad derivada de la fecha de presentación de la solicitud.
+
+3\. Cuando, como consecuencia de la revisión de incapacidades en el caso de prestaciones por invalidez, se produzca un cambio en éstas, se estará a efectos de su devengo a lo especialmente dispuesto en el artículo 87.
+
+> Se modifica el apartado 1 por el art. único.1 de la Orden ESS/1310/2017, de 28 de diciembre. [Ref. BOE-A-2017-15850](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15850)
+
+> Esta modificación tiene efectos desde el 1 de enero de 2018, según establece la disposición final 3 de la citada Orden.
+
+##### Art. 62. Pago.
+
+El pago de prestaciones periódicas se efectuará por mensualidades vencidas.
+
+##### Art. 63. Caducidad.
+
+1\. El derecho al percibo de las prestaciones a tanto alzado y por una sola vez caducará al año, a contar desde el día siguiente al de haber sido notificada en forma al interesado su concesión.
+
+2\. Cuando se trate de prestaciones periódicas, el derecho al percibo de cada mensualidad caducará al año de su respectivo vencimiento.
+
+##### Art. 64. Reintegro de prestaciones indebidas.
+
+1\. Los trabajadores y las demás personas que hayan percibido indebidamente prestaciones de este Régimen Especial de la Seguridad Social vendrán obligados a reintegrar su importe.
+
+2\. Quienes por acción u omisión, y salvo buena fe probada, hayan contribuido a hacer posible la percepción indebida de una prestación, responderán subsidiariamente con los preceptores de la obligación de reintegrar que se establece en el número anterior.
+
+##### Art. 65. Caracteres de las prestaciones.
+
+1\. De acuerdo con lo establecido en el artículo 22 de la Ley de la Seguridad Social de 21 de abril de 1966, las prestaciones otorgadas por este Régimen Especial no podrán ser objeto de cesión total o parcial, embargo, retención, compensación o descuento, salvo en los dos casos siguientes:
+
+a) En orden al cumplimiento de las obligaciones alimenticias a favor del cónyuge e hijos.
+
+b) Cuando se trate de obligaciones o responsabilidades contraídas por el beneficiario dentro de la Seguridad Social.
+
+2\. De conformidad con el citado artículo, las percepciones derivadas de la acción protectora de este Régimen Especial están exentas de toda contribución, impuesto, tasa o exacción parafiscal. Tampoco podrá ser exigida ninguna tasa fiscal o parafiscal, ni derecho de ninguna clase, en cuantas informaciones o certificaciones hayan de facilitar las Entidades Gestoras y Organismos Administrativos o Judiciales o de cualquier otra clase, en relación con dichas prestaciones.
+
+##### Art. 66. Incompatibilidades.
+
+Las pensiones que concede este Régimen Especial a sus beneficiarios serán incompatibles entre sí, a no ser que expresamente se disponga lo contrario. En caso de incompatibilidad, quien pudiera tener derecho a dos o más pensiones optará por una de ellas.
+
+##### Art. 67. Cómputo de períodos de cotización a distintos Regímenes de la Seguridad Social.
+
+1\. Cuando un trabajador tenga acreditados, sucesivamente o alternativamente, períodos de cotización en el Régimen General de la Seguridad Social o en los Regímenes especiales Agrario, de Trabajadores Ferroviarios, de la Minería del Carbón, del Servicio Doméstico, de los Trabajadores del Mar, de los Artistas y en éste de Trabajadores por cuenta propia o autónomos, dichos períodos o los que sean asimilados a ellos que hubieran sido cumplidos en virtud de las normas que los regulen, serán totalizados, siempre que no se superpongan, para la adquisición, mantenimiento o recuperación del derecho a la prestación.
+
+2\. En consecuencia, las pensiones de invalidez, vejez, muerte y supervivencia a que los acogidos a alguno de dichos regímenes puedan tener derecho en virtud de las normas que los regulan, serán reconocidas, según sus propias normas, por la Entidad Gestora del Régimen donde el trabajador estuviese cotizando al tiempo de solicitar la prestación, teniendo en cuenta la totalización de períodos a que se refiere el número anterior y con las salvedades siguientes:
+
+a) Para que el trabajador cause derecho a la pensión en el Régimen a que se estuviese cotizando en el momento de solicitar la prestación, será inexcusable que reúna los requisitos de edad, períodos de carencia y cualesquiera otros que en el mismo se exijan, computando a tal efecto solamente las cotizaciones efectuadas en dicho Régimen.
+
+b) Cuando el trabajador no reuniese tales requisitos en el Régimen a que se refiere el apartado anterior, causará derecho a la pensión en el que se hubiese cotizado anteriormente, siempre que en el mismo reúna los requisitos a que se refiere el apartado a). Igual norma se aplicará, en su caso, respecto de los restantes regímenes.
+
+c) Cuando el trabajador no hubiese reunido en ninguno de los Regímenes, computadas separadamente las cotizaciones a ellos efectuadas, los períodos de carencia precisos para causar derecho a la pensión, podrán sumarse a tal efecto las cotizaciones efectuadas a todos. En tal caso, la pensión se otorgará por el Régimen en que tenga acreditado mayor número de cotizaciones.
+
+3\. Sobre la base de la cuantía resultante con arreglo a las normas anteriores, la Entidad Gestora del Régimen que reconozca la pensión distribuirá su importe con las de los otros Regímenes de la Seguridad Social, a prorrata por la duración de los períodos cotizados en cada uno de ellos. Si la cuantía de la pensión a la que el trabajador pueda tener derecho por los períodos computables en virtud de las normas de uno solo de los Regímenes de la Seguridad Social fuese superior al total de la que resultase a su favor, por aplicación de los números anteriores de este artículo, la Entidad Gestora de dicho Régimen le concederá un complemento igual a la diferencia.
+
+4\. La totalización de períodos de cotización, prevista en el número 1 del presente artículo, se llevará a cabo para cubrir los períodos de carencia que se exijan para prestaciones distintas de las especificadas en el número 2 del mismo, otorgándose, en tal caso, dichas prestaciones por el Régimen en que se encuentre en alta el trabajador en el momento de producirse el hecho causante y siempre que tuviera derecho a ellas, de acuerdo con las normas propias de dicho Régimen.
+
+5\. Cuanto se dispone en los números anteriores del presente artículo quedará referido a las prestaciones comunes que comprendan los Regímenes de cuyo reconocimiento recíproco de cotizaciones se trate.
+
+A tales efectos, se entenderá por prestaciones comunes aquellas que se encuentren comprendidas en la acción protectora de todos los Regímenes afectados, en cada caso, por el reconocimiento.
+
+##### Art. 68. Reconocimiento del derecho a las prestaciones.
+
+1\. El reconocimiento del derecho a las prestaciones de este Régimen Especial corresponderá a la Entidad Gestora en la que el trabajador estuviese en alta o en situación asimilada al alta, al causarse la prestación de que se trate, salvo que, por aplicación de lo dispuesto en el artículo anterior, dicho reconocimiento esté atribuido a una Entidad Gestora de otro Régimen de la Seguridad Social.
+
+No obstante, tratándose de prestaciones por invalidez, se estará a lo establecido en el artículo 84.
+
+2\. Los acuerdos de las Entidades Gestoras en materia de prestaciones podrán ser impugnados ante la Jurisdicción Laboral en la forma y plazos determinados en la Ley de Procedimiento Laboral.
+
+#### Subsección segunda. Asimilación a alta
+
+##### Art. 69. Situaciones asimiladas a la de alta.
+
+1\. Los trabajadores que causen baja en este Régimen Especial por haber cesado en la actividad que dió lugar a su inclusión en el mismo quedarán en situación asimilada a la de alta durante los noventa días naturales siguientes al último día del mes de su baja, a efectos de poder causar derecho a las prestaciones y obtener otros beneficios de la acción protectora.
+
+2\. Asimismo, y a iguales efectos, se considerarán asimiladas a la de alta, siempre que se cumplan los requisitos que para cada caso se establecen y con el alcance que se determina, las situaciones siguientes:
+
+a) Incorporación a filas para el cumplimiento del servicio militar.
+
+b) Convenio especial con la Entidad Gestora.
+
+c) Inactividad entre trabajos de temporada.
+
+d) Suspensión de actividades por enfermedad o accidente.
+
+##### Art. 70. Incorporación a filas para el cumplimiento del servicio militar.
+
+1\. Los trabajadores que por incorporación a filas para el cumplimiento del servicio militar, bien con carácter obligatorio o voluntario para anticiparlo, suspendan la actividad por la que se encontrasen en alta en este Régimen Especial, pesarán a la situación asimilada a la de alta durante el tiempo de la duración de aquél y los dos meses siguientes a su licenciamiento.
+
+2\. Si en la situación que se refiere en el número anterior se causase prestación de invalidez, ésta no podrá ser disfrutada hasta el licenciamiento del interesado.
+
+3\. Si durante la situación a que se refiere el número 1 se produjese el hecho causante de alguna prestación a la que no se tuviese derecho exclusivamente por no cubrir el período mínimo de cotización exigible y pudiese completarse éste mediante la cotización del tiempo que medie entre la fecha de baja por cumplimiento del servido militar y aquella en que se entienda causada la prestación, se reconocerá esta última y se deducirán de la misma las cuotas correspondientes a dicho tiempo. Tratándose de prestaciones periódicas, se iniciará su percepción cuando haya sido enjugado el total importe de las cuotas con las mensualidades vencidas de aquéllas.
+
+4\. Cuando el hecho causante de una prestación se produjese en fecha posterior al licenciamiento y no se tuviese derecho a aquélla exclusivamente por no tener cubierto el período mínimo de cotización exigible, pero pudiese completarse éste mediante la cotización del tiempo durante el que el trabajador haya permanecido en la situación asimilada a la de alta por cumplimiento del servicio militar, se reconocerá la prestación y se deducirán de la misma las cuotas correspondientes a dicho tiempo, siendo de aplicación a este respecto lo dispuesto en el número anterior para el caso de prestaciones periódicas.
+
+Para la aplicación de lo dispuesto en el presente número, será condición indispensable que el alta por reincorporación al trabajo se produzca dentro de los dos meses siguientes al licenciamiento del trabajador.
+
+5\. A efectos del cálculo de las cuotas para las deducciones a que se refieren los dos números anteriores, se tomará como base de cotización la última del trabajador al producirse su incorporación a filas.
+
+6\. La situación asimilada a la de alta a que se refiere el número 1 del presente artículo, se extinguirá:
+
+a) Por expiración del plazo que se indica en el mismo; o
+
+b) Por reanudación de la actividad en el transcurso de dicho plazo.
+
+##### Art. 71. Convenio especial.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria 1 de la Orden de 30 de octubre de 1985. [Ref. BOE-A-1985-23217](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-23217).
+
+> Se deroga el apartado 2 por la disposición derogatoria de la Orden de 3 de febrero de 1984. [Ref. BOE-A-1984-3363](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-3363).
+
+> Esta derogación surte efectos a partir del 1 de enero de 1984, según establece la disposición final.
+
+##### Art. 72. Inactividad entre trabajos de temporada.
+
+1\. Los trabajadores incluidos en este Régimen Especial por el ejercicio de una actividad que, dadas sus características, se practique durante determinadas temporadas del año, podrán disfrutar de la situación asimilada a la de alta durante el período que medie entre dichas temporadas, siempre que cumplan los requisitos siguientes:
+
+a) Que lo soliciten, para cada ocasión, de la correspondiente Mutualidad Laboral dentro del mes natural siguiente a aquel, en que cesaron en la actividad.
+
+b) Que acrediten, a juicio del Órgano de gobierno de la Mutualidad competente para resolver la petición, su dedicación a una actividad de temporada con la habitualidad a que se refiere el párrafo segundo del número 2 del artículo 1.º
+
+c) Que queden sin protección de la Seguridad Social o comprendidos en algún Régimen de la misma al que no sea de aplicación lo dispuesto en el artículo 67.
+
+d) Que se hallen al corriente en la cotización a este Régimen Especial.
+
+e) Que se comprometan a abonar desde el día primero del mes siguiente al de su baja las cuotas correspondientes.
+
+2\. Será de aplicación a la situación que en el presente artículo se regula lo dispuesto en los números 2 y 4 del artículo anterior.
+
+3\. En todo caso, la situación de asimilación a alta que este artículo regula no podrá tener, para cada ocasión, una duración superior a la de doce meses, sin perjuicio de que el interesado pueda acogerse al Convenio Especial del artículo anterior, si reuniera las condiciones por éste exigidas, al término de dicha situación por tal causa.
+
+##### Art. 73. Suspensión de actividades por enfermedad.
+
+1\. Transcurrido el período de tiempo a que se refiere el párrafo primero del número 2 del artículo primero, si continuase la suspensión temporal de la actividad por incapacidad debida a enfermedad o accidente, el interesado podrá disfrutar de la situación asimilada a la de alta, siempre que cumpla los requisitos siguientes:
+
+a) Que lo solicite de la correspondiente Mutualidad Laboral dentro del mes natural siguiente, acompañando certificación médica acreditativa de la enfermedad o lesiones que padece y su fecha de iniciación.
+
+b) Que se comprometa a abonar desde el día primero del mes natural siguiente al de la finalización del período a que se refiere el párrafo primero del presente número las cuotas correspondientes, siendo de aplicación lo dispuesto en el número 2 del artículo 71.
+
+2\. El Órgano de gobierno competente para resolver la petición podrá interesar en cualquier momento y a cargo de la Mutualidad Laboral reconocimientos médicos en orden a la comprobación de la incapacidad.
+
+3\. La situación que se regula en el presente artículo se extinguirá por cualquiera de las causas siguientes:
+
+a) Curación o reincorporación al trabajo.
+
+b) Declaración de invalidez permanente o paso del interesado a ser pensionista de vejez.
+
+c) Decisión del interesado, comunicada por escrito a la Mutualidad dentro del mes natural en que se haya de producir la extinción.
+
+### Sección segunda. Prestaciones por Invalidez
+
+##### Art. 74. Situación protegida y conceptos,
+
+1\. Estará protegida por este Régimen Especial la situación de invalidez permanente, cualquiera que fuese su causa, en sus grados de incapacidad permanente total para la profesión habitual, incapacidad permanente absoluta para todo trabajo y gran invalidez.
+
+2\. Los conceptos de incapacidad permanente total para la profesión habitual, incapacidad permanente absoluta para todo trabajo y gran invalidez serán los que se determinan para el Régimen General de la Seguridad social.
+
+No obstante, se entenderá por profesión habitual la actividad inmediata y anterior desempeñada por el interesado y por la que estaba en alta en este Régimen al producirse la incapacidad permanente protegida por el mismo.
+
+##### Art. 75. Beneficiarios.
+
+Serán beneficiarios de las prestaciones por invalidez las personas incluidas en el campo de aplicación de este Régimen Especial, declaradas en la situación de invalidez protegida por dicho Régimen, que cumplan las condiciones generales exigidas en el artículo 57 y el período mínimo de cotización establecido, en el artículo 58.
+
+Tratándose de invalidez por incapacidad permanente total para la profesión habitual, y por lo que se refiere exclusivamente a las prestaciones económicas, se requerirá además que el trabajador tenga cumplidos cuarenta y cinco años de edad en la fecha en que se entienda causada la prestación.
+
+##### Art. 76. Hecho causante.
+
+La fecha del hecho causante de las prestaciones de incapacidad permanente se determinará de acuerdo con lo previsto en el artículo 13.2 de la Orden de 18 de enero de 1996, para la aplicación y desarrollo del Real Decreto 1300/1995, de 21 de julio, sobre incapacidades laborales del sistema de la Seguridad Social.
+
+Para quienes no se encuentren en alta ni en situación asimilada a la de alta, la prestación se entenderá causada el día de la presentación de la solicitud.
+
+> Se modifica por el art. único.2 de la Orden ESS/1310/2017, de 28 de diciembre. [Ref. BOE-A-2017-15850](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15850)
+
+> Esta modificación tiene efectos desde el 1 de enero de 2018, según establece la disposición final 3 de la citada Orden.
+
+##### Art. 77. Prestaciones económicas por incapacidad permanente total.
+
+1\. La situación de invalidez en el grado de incapacidad permanente total para la profesión habitual dará derecho a los beneficiarios determinados en el artículo 75 a las siguientes prestaciones económicas, determinadas sobre la base reguladora, calculada de conformidad con lo dispuesto en el artículo 69:
+
+a) Los trabajadores declarados inválidos con posibilidad razonable de recuperación podrán optar entre:
+
+1.º Someterse a los procesos de readaptación y rehabilitación y percibir una cantidad a tanto alzado equivalente a cuarenta mensualidades de la base reguladora si concluidos dichos procesos subsistiese la incapacidad en el grado de permanente total para la profesión habitual. A tal efecto se examinará la capacidad del trabajador una vez ultimados dichos procesos, revisando, si procediera, el grado de incapacidad que inicialmente se le hubiera reconocido.
+
+2.º Que les sea reconocido el derecho a una pensión vitalicia de cuantía equivalente al 55 por 100 de la base reguadora.
+
+b) Los trabajadores declarados inválidos sin posibilidad razonable de recuperación podrán optar entre:
+
+1.º Percibir una cantidad a tanto alzado, equivalente a cuarenta mensualidades de la base reguladora. Tal cantidad se percibirá con carácter inmediato en ejecución de la resolución definitiva de la Comisión Técnica Calificadora.
+
+2.º Que les sea reconocido el derecho a una pensión vitalicia de cuantía equivalente al 55 por 100 de la base reguladora.
+
+2\. Las opciones a que se refieren los apartados a) y b) del número anterior deberán ejercitarse por los interesados dentro de los treinta días siguientes a la declaración de incapacidad. Transcurrido el mencionado plazo sin ejercitar el derecho de opción, ésta se entenderá efectuada a favor de la pensión vitalicia. También se entenderá ejercitado el derecho de opción en favor de la pensión vitalicia si el trabajador tuviese cumplidos los sesenta años de edad en la fecha en que se entienda causada la prestación. La opción tendrá en todo caso carácter irrevocable.
+
+##### Art. 78. Prestaciones económicas por incapacidad permanente absoluta.
+
+La situación de invalidez en el grado de incapacidad permanente absoluta para todo trabajo dará derecho a los beneficiarios determinados en el artículo 75 a una pensión vitalicia equivalente al 100 por 100 de la base reguladora, calculada de conformidad con lo dispuesto en el artículo 59.
+
+##### Art. 79. Prestaciones económicas por gran invalidez.
+
+La situación de invalidez en el grado de gran invalidez dará derecho a los beneficiarios determinados en el artículo 75 a la prestación económica que se señala en el artículo anterior para el de incapacidad permanente absoluta, incrementándose la pensión en un 50 por 100, destinado a remunerar a la persona que atienda al inválido.
+
+La Entidad Gestora que tenga a su cargo la protección a la invalidez podrá autorizar, a petición del gran inválido o de sus representantes legales y siempre que lo considere conveniente en beneficio del mismo, la sustitución del incremento a que se refiere el párrafo anterior por el alojamiento y cuidado del inválido a cargo de dicha Entidad, en régimen de internado, una Institución asistencial. La petición podrá ser formulada en cualquier momento: el gran inválido o sus representantes legales podrán, igualmente, decidir en cualquier momento, con carácter vinculante para la Entidad Gestora que haya autorizado la referida sustitución, que ésta quede sin efecto.
+
+##### Art. 80. Extinción.
+
+La pensión de invalidez se extinguirá al recobrar el beneficiario sus condiciones físicas en términos que no subsista grado de incapacidad determinante de invalidez protegida por este Régimen Especial. A tal efecto ha de proceder previamente la revisión de la incapacidad según las normas reguladoras de esta materia.
+
+##### Art. 81. Denegación, Anulación y suspensión del derecho a las prestaciones económicas.
+
+1\. El derecho a las prestaciones económicas por invalidez permanente podrá ser denegado, anulado o suspendido:
+
+a) Cuando el beneficiario haya actuado fraudulentamente para obtener o conservar el derecho a las mismas.
+
+b) Cuando la invalidez permanente sea debida o se haya agravado a consecuencia de imprudencia temeraria del beneficiario.
+
+c) Cuando el beneficiario, sin causa razonable, rechace o abandone los tratamientos o procesos de readaptación y rehabilitación procedentes.
+
+2\. La denegación, anulación y suspensión del derecho corresponderá, en vía administrativa, a las Comisiones Técnicas Calificadoras.
+
+##### Art. 82. Compatibilidad.
+
+Las pensiones vitalicias otorgadas por este Régimen Especial a causa de la invalidez serán compatibles con el ejercicio de aquellas actividades y trabajos, sean o no lucrativos, compatibles con el estado del inválido, y que no representen un cambio en su capacidad de trabajo a efectos de revisión.
+
+##### Art. 83. Prestaciones recuperadoras.
+
+En las situaciones de invalidez protegidas por este Régimen, los beneficiarios determinados en el artículo 75 tendrán derecho a las prestaciones recuperadoras en los mismos supuestos, términos y con el alcance determinado para éstas en el Régimen General de la Seguridad Social.
+
+##### Art. 84. Declaración.
+
+La declaración de las situaciones de invalidez en sus distintos grados, la resolución sobre las peticiones de revisión de incapacidades y cuantas cuestiones sean de su competencia en la materia, corresponderán, en vía administrativa, a las Comisiones Técnicas Calificadoras, conforme a las normas orgánicas y de procedimiento que regulan la actuación de las mismas.
+
+##### Art. 85. Supuestos, causas y solicitantes de la revisión de incapacidad.
+
+1\. Las declaraciones de incapacidad serán revisables en todo tiempo, en tanto que el incapacitado no haya cumplido la edad establecida para la pensión de vejez, por alguna de las causas siguientes:
+
+a) Agravación o mejoría.
+
+b) Error de diagnóstico.
+
+2\. La revisión podrá ser solicitada por el beneficiario, por la Entidad Gestora o por la Inspección de Trabajo.
+
+##### Art. 86. Plazos para solicitar la revisión.
+
+La primera revisión sólo se podrá solicitar después de transcurridos dos años desde la fecha en que se haya declarado la incapacidad, y las posteriores revisiones, después de transcurrido un año desde la fecha del acuerdo firme que haya resuelto la petición de revisión anterior. Los plazos señalados en el presente artículo no serán de aplicación al supuesto de revisión previsto en el apartado a) del número 1 del artículo 77.
+
+##### Art. 87. Consecuencias de la revisión.
+
+1\. Cuando, como consecuencia de una revisión, se modifique la calificación de incapacidad existente con anterioridad, se aplicarán las siguientes normas:
+
+a) Si el trabajador declarado en un grado de incapacidad que le diera derecho a pensión se le reconociese como resultado de la revisión otro grado que le dé derecho a una pensión de cuantía diferente, pasará a percibir la nueva pensión a partir del día siguiente a la fecha de la resolución definitiva en que así se haya declarado.
+
+b) Si al trabajador declarado en un grado de incapacidad que le diera derecho a pensión se le reconociese, como resultado de la revisión otro grado que le dé derecho a una cantidad a tanto alzado, dejará de percibir la pensión a partir del día siguiente a la fecha de la resolución definitiva en que así se haya declarado y percibirá la parte de la indicada cantidad que, en su caso, exceda del importe total percibido en concepto de pensión.
+
+c) Si al trabajador declarado en un grado de incapacidad que le diera derecho a pensión se le reconociese, como resultado de la revisión la no existencia de grado de incapacidad protegido por este Régimen Especial, dejará de percibir la pensión a partir del día siguiente a la fecha de la resolución definitiva en que así se haya declarado.
+
+d) Si al trabajador declarado en un grado de incapacidad que le hubiera dado derecho a una cantidad a tanto alzado se le reconociese, como resultado de la revisión otro grado que le dé derecho a una pensión, ésta se devengará a partir del día siguiente a la fecha de la resolución definitiva en que así se haya declarado, pero no comenzará a percibirse hasta que se haya deducido de la misma el importe correspondiente a las mensualidades de la cantidad alzada percibida que excedan de las transcurridas desde que se reconoció el derecho a ella.
+
+e) Si al trabajador declarado en un grado de incapacidad que le hubiera dado derecho a una cantidad a tanto alzado se le reconociese como resultado de la revisión la no existencia de grado de incapacidad protegido por este Régimen Especial, no vendrá obligado a devolver ninguna cantidad.
+
+2\. En la aplicación de lo dispuesto en el número anterior se tomará como base reguladora de la nueva prestación la misma que hubiese servido para calcular la correspondiente al grado de incapacidad inicialmente declarado.
+
+### Sección tercera. Prestación por vejez
+
+##### Art. 88. Concepto.
+
+La prestación económica por causa de vejez será única para cada pensionista, consistirá en una pensión vitalicia y se concederá a las personas incluidas en el campo de aplicación de este Régimen Especial en las condiciones, cuantía y forma que en la presente Orden se determinan, cuando a causa de su edad cesen en el trabajo.
+
+##### Art. 89. Beneficiarios.
+
+Serán beneficiarios de la pensión por vejez las personas incluidas en el campo de aplicación de este Régimen Especial que en la fecha en que se entienda causada la prestación tengan cumplida la edad de sesenta y cinco años, reúnan las condiciones generales exigidas en el artículo 57 y hayan cumplido el período mínimo de cotización establecido en el artículo 58.
+
+##### Art. 90. Hecho causante.
+
+La pensión de jubilación se entenderá causada:
+
+a) Para quienes se encuentren en alta, el día en que surta efectos la baja en el régimen especial como consecuencia del cese en el trabajo, de acuerdo con lo dispuesto en el artículo 46.4 del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, aprobado por el Real Decreto 84/1996, de 26 de enero.
+
+b) Para quienes se encuentren en alguna de las situaciones asimiladas a la de alta, el último día del mes en que tenga lugar la presentación de la solicitud.
+
+c) Para quienes no se encuentren en alta ni en situación asimilada a la de alta, la pensión se entenderá causada el día de la presentación de la solicitud.
+
+> Se modifica por el art. único.3 de la Orden ESS/1310/2017, de 28 de diciembre. [Ref. BOE-A-2017-15850](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15850)
+
+> Esta modificación tiene efectos desde el 1 de enero de 2018, según establece la disposición final 3 de la citada Orden.
+
+##### Art. 91. Cuantía de la pensión.
+
+1\. La cuantía de la pensión por vejez se determinará, para cada beneficiario, aplicando a la base reguladora obtenida de conformidad con lo dispuesto en el artículo 59, el porcentaje resultante de sumar al del 50 por 100 un 2 por 100 más por cada año cotizado por el beneficiario con el límite máximo para dicha suma del 100 por 100.
+
+2\. A efectos de lo dispuesto en el número anterior, la fracción de año, si existiera, se asimilará a un año completo de cotización.
+
+##### Art. 92. Imprescriptibilidad,
+
+El derecho al reconocimiento de la pensión por vejez es imprescriptible, si bien sólo surtirá efectos a partir de su solicitud sin perjuicio de la retroactividad en el devengo prevista en el artículo 61.
+
+##### Art. 93. Incompatibilidad.
+
+1\. El disfrute de la pensión de vejez será incompatible con todo trabajo del pensionista, por cuenta propia o ajena, que dé lugar a su inclusión en el campo de aplicación de este Régimen Especial del Régimen General o de alguno de los demás Regímenes Especiales a que se refiere el artículo 10 de la Ley General de la Seguridad Social de 30 de mayo de 1974.
+
+2\. El disfrute de la pensión de vejez será compatible con el mantenimiento de la titularidad del negocio de que se trate y con el desempeño de las funciones inherentes a dicha titularidad.
+
+> Se modifica por el art. único de la Orden de 31 de julio de 1976. [Ref. BOE-A-1976-15354](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-15354).
+
+##### Art. 94. Realización de trabajos por el pensionista de vejez.
+
+1\. El pensionista de vejez que vaya a realizar los trabajos a que se refiere el número 1 del artículo anterior antes de iniciarlos deberá comunicarlo a la Mutualidad Laboral en la que tuviera acreditado su derecho a la pensión. La realización del trabajo surtirá respecto del pensionista los siguientes efectos:
+
+a) Quedará en suspenso el derecho a la pensión por vejez.
+
+b) Quedará en suspenso, igualmente, el derecho a la asistencia sanitaria inherente a la condición de pensionista.
+
+c) Si los trabajos fuesen de los que dan lugar a la inclusión en el campo de aplicación de este Régimen Especial procederá su alta y cotización en los términos y condiciones generales establecidos para el mismo. El interesado podrá optar por que, a efectos del límite a la elección de base, se le aplique la cuantía de la última por la que hubiese cotizado al causar la pensión por vejez, aunque hubiera transcurrido desde ese momento un período superior al que se señala en el artículo 25.
+
+2\. El cese en los trabajos realizados, cuando se haya cumplido lo dispuesto en el número anterior, se comunicará por el interesado a la Mutualidad Laboral en que tenga reconocido el derecho a la pensión, y producirá el restablecimiento del disfrute de la misma y de la correspondiente asistencia sanitaria, siendo de aplicación en tal caso lo siguiente:
+
+a) Los períodos cotizados en razón de dichos trabajos, cuando se hubiesen efectuado a este Régimen Especial o cuando así resulte de lo dispuesto en los números 1 y 2 del artículo 67, podrán surtir efecto para mejorar la pensión anteriormente reconocida, si sumados los nuevos períodos de cotización con los que se tenían acreditados al causarse aquélla, dieran lugar a un porcentaje más elevado, el que se aplicará sobre la misma base reguladora de la pensión inicial, salvo en el supuesto a que se refiere el apartado siguiente.
+
+b) Las bases por las que se haya cotizado en razón de dichos trabajos, cuando hubiesen sido efectuadas a este Régimen Especial y por tiempo superior a un año podrán ser tenidas en cuenta, a solicitud del interesado, para el cálculo de una nueva base reguladora de la pensión. En tal caso, lo dispuesto en el apartado a) del número 1 del artículo 59 quedará referido al último día del mes en que cese en aquellos trabajos el pensionista, y se computará como base mensual de cotización durante el tiempo en que devengó la pensión la base reguladora de ésta.
+
+c) La norma contenida en el número 1 del artículo 61 será aplicable al devengo de la pensión que se restablece.
+
+3\. El pensionista que realice los trabajos a que se refiere el número 1 del artículo anterior, sin comunicarlo a la Mutualidad Laboral correspondiente, incurrirá en responsabilidad y será objeto de la oportuna propuesta de sanción, de conformidad con las normas de este Régimen Especial en materia de faltas y sanciones, viniendo obligado a reintegrar el importe de las pensiones indebidamente percibidas. El empresario o, en su caso, el responsable subsidiario conforme a lo dispuesto en el número 2 del artículo 6.º que por omisión del alta haya contribuido a hacer posible la percepción indebida de la pensión por vejez durante el trabajo del pensionista, responderá subsidiariamente con éste de la obligación de reintegrar que se establece en el presente número, sin perjuicio de la sanción que proceda de acuerdo con las referidas normas sobre faltas y sanciones.
+
+##### Art. 95. Extinción.
+
+El derecho a la pensión de vejez se extinguirá cuando se imponga como sanción su pérdida, de acuerdo con lo previsto en el número 3 del artículo anterior.
+
+### Sección cuarta. Prestaciones por muerte y supervivencia
+
+##### Art. 96. Prestaciones.
+
+En caso de muerte, cualquiera que fuera su causa, se otorgarán, según los supuestos, alguna o algunas de las prestaciones siguientes:
+
+a) Subsidio de defunción.
+
+b) Pensión vitalicia de viudedad.
+
+c) Pensión de orfandad.
+
+d) Pensión vitalicia o, en su caso, subsidio temporal en favor de familiares.
+
+##### Art. 97. Sujetos causantes.
+
+1\. Causarán derecho a las prestaciones enumeradas en el artículo anterior las personas incluidas en el campo de aplicación de este Régimen Especial, que cumplan las condiciones generales exigidas en el artículo 57 y el período mínimo de cotización establecido en el artículo 58, así como los pensionistas de vejez o invalidez.
+
+2\. A efectos de poder causar las prestaciones enumeradas en el artículo anterior, serán considerados pensionistas de vejez quienes habiendo causado baja en este Régimen Especial y reuniendo en tal momento todas las condiciones precisas para serles otorgada la pensión por vejez, falleciesen dentro de los tres años siguientes a la fecha de dicha baja sin haber solicitado la referida pensión.
+
+Las personas que soliciten las prestaciones en virtud de lo antes dispuesto deberán probar que el fallecido reunía todas las condiciones precisas para haber obtenido la pensión de vejez, de haberla solicitado en el momento de su baja.
+
+##### Art. 98. Hecho causante.
+
+Se entenderán causadas las prestaciones por muerte y supervivencia el día en que surta efectos la baja en el régimen especial como consecuencia del fallecimiento.
+
+Si las prestaciones se causan por quienes no se encuentren en alta ni en situación asimilada a la de alta, el hecho causante se entenderá producido en la fecha del fallecimiento.
+
+En todo caso, para el auxilio por defunción el hecho causante se entenderá producido en la fecha del fallecimiento, y para la pensión de orfandad, cuando el beneficiario sea hijo póstumo, el día de su nacimiento.
+
+> Se modifica por el art. único.4 de la Orden ESS/1310/2017, de 28 de diciembre. [Ref. BOE-A-2017-15850](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15850)
+
+> Esta modificación tiene efectos desde el 1 de enero de 2018, según establece la disposición final 3 de la citada Orden.
+
+##### Art. 99. Subsidio de defunción, pensión de orfandad y pensión o subsidio temporal en favor de familiares.
+
+Las prestaciones de subsidio de defunción, pensión de orfandad y pensión o subsidio temporal en favor de familiares se regirán por las normas que respectivamente las regulan en el Régimen General de la Seguridad Social, si bien para cuanto se refiere a sujeto y hecho causante, período de cotización necesario para tener derecho a la prestación de que se trate y base reguladora de la misma se estará a lo que se dispone en este Régimen Especial, y sin que sean de aplicación en el mismo las peculiaridades que en el Régimen General se establecen para el supuesto de muerte debida a accidente de trabajo o enfermedad profesional.
+
+##### Art. 100. Beneficiarios de la pensión de viudedad.
+
+Tendrán derecho a la pensión de viudedad con carácter vitalicio, salvo que se produzca alguna de las causas de extinción establecidas en el artículo 103:
+
+a) La viuda que al fallecimiento de su cónyuge causante hubiese convivido habitualmente con éste o, en caso de separación judicial, cuando la sentencia firme la reconociese como inocente u obligase al marido a prestarle alimentos.
+
+b) El viudo, únicamente en el caso de que además de cumplirse el requisito señalado en el apartado anterior se encuentre al tiempo de fallecer su esposa, incapacitado para el trabajo con carácter permanente y absoluto que le inhabilite por completo para toda profesión u oficio, y sostenido económicamente por aquélla.
+
+##### Art. 101. Cuantía de la pensión de viudedad.
+
+La cuantía de la pensión vitalicia de viudedad será equivalente al 50 por 100 de la base reguladora del causante, determinada ésta de conformidad con lo establecido en el artículo 59.
+
+Si el causante fuera pensionista de vejez o invalidez y, por tanto, según lo dispuesto en el artículo 59, la base reguladora fuese el importe de la pensión correspondiente a tales situaciones, el porcentaje de la pensión de viudedad será el del 60 por 100, sin que la cuantía de la pensión así resultante pueda ser superior a la que le correspondería de no ser pensionista el causante.
+
+##### Art. 102. Compatibilidad de la pensión por viudedad.
+
+La pensión de viudedad será compatible con cualquier renta de trabajo de la viuda o con la pensión por vejez o invalidez a que la misma pueda tener derecho.
+
+##### Art. 103. Extinción de la pensión de viudedad.
+
+La pensión de viudedad se extinguirá por las siguientes causas:
+
+a) Contraer nuevas nupcias o tomar estado religioso. En ambos casos, siempre que el cambio de estado tenga lugar antes de cumplir la beneficiaria los sesenta años de edad, tendrá derecho a percibir, por una sola vez, una cantidad igual al importe de veinticuatro mensualidades de la pensión que tuviese reconocida.
+
+b) Observar una conducta deshonesta o inmoral.
+
+e) Cesar el viudo en la incapacidad por la cual se le otorgó le pensión; esta causa no surtirá efectos cuando se produzca después de que aquél haya cumplido la edad de sesenta años.
+
+d) Declaración, en sentencia firme, de culpabilidad en la muerte del causante.
+
+### Sección quinta. Prestaciones de protección a la familia
+
+##### Art. 104. Prestaciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 356/1991, de 15 de marzo. [Ref. BOE-A-1991-7266](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-7266).
+
+##### Art. 105. Beneficiarios.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 356/1991, de 15 de marzo. [Ref. BOE-A-1991-7266](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-7266).
+
+##### Art. 106. Hecho causante.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 356/1991, de 15 de marzo. [Ref. BOE-A-1991-7266](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-7266).
+
+##### Art. 107. Hijos cuyo nacimiento da derecho a la asignación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 356/1991, de 15 de marzo. [Ref. BOE-A-1991-7266](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-7266).
+
+##### Art. 108. Cuantía.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 356/1991, de 15 de marzo. [Ref. BOE-A-1991-7266](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-7266).
+
+##### Art. 109. Incompatibilidad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 356/1991, de 15 de marzo. [Ref. BOE-A-1991-7266](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-7266).
+
+### Sección sexta. Ayuda económica con ocasión de intervención quirúrgica
+
+##### Art. 110. Concepto.
+
+La ayuda económica con ocasión de intervención quirúrgica consistirá en la entrega a sus beneficiarios de una cantidad a tanto alzado para atender los gastos motivados por las intervenciones de tal carácter que se determinen de acuerdo con lo dispuesto en el artículo 114.
+
+##### Art. 111. Beneficiarios.
+
+Tendrán derecho a esta ayuda las personas incluidas en el campo de aplicación de este Régimen Especial, que cumplan las condiciones generales exigidas en el artículo 57 y el período mínimo de cotización establecido en el artículo 58, tanto por las intervenciones quirúrgicas que sufran ellas mismas como por aquellas que se practiquen a los familiares que a continuación se determinan:
+
+a) Cónyuge e hijos menores de dieciocho años o incapacitados para el trabajo con carácter permanente y absoluto, que convivan con el beneficiario y a sus expensas.
+
+b) Nietos y hermanos, menores de dieciocho años o incapacitados para el trabajo con carácter permanente y absoluto, huérfanos de padre que convivieran con el beneficiario y a sus expensas al menos con dos años de antelación a la fecha en que se entienda causada la ayuda o desde la muerte del familiar con el que convivieran antes, si ésta hubiese ocurrido dentro de dicho período.
+
+c) Madre y abuelas, viudas, casadas, cuyo marido esté incapacitado para el trabajo con carácter permanente y absoluto, o solteras, y padre y abuelos que tengan cumplidos los sesenta años de edad o se hallen incapacitados para el trabajo con el carácter antes indicado, siempre que unas y otros convivieran con el beneficiario y a sus expensas con la antelación señalada en el apartado anterior.
+
+##### Art. 112. Hecho causante.
+
+Se entenderá causada la ayuda económica con ocasión de intervención quirúrgica el último día del mes en que dicha intervención tenga lugar.
+
+##### Art. 113. Condición especial, unicidad y derecho de resarcimiento.
+
+1\. El derecho a la ayuda económica con ocasión de intervención quirúrgica estará condicionado a que la intervención o sus gastos no sean atendidos a cargo de cualquier otro régimen de la Seguridad Social, o de éste de trabajadores autónomos a través de la asistencia sanitaria a pensionistas, siempre que ello no sea consecuencia de dejación de derecho.
+
+2\. Por la misma intervención quirúrgica sólo podrá ser otorgada por este Régimen Especial una sola ayuda cuando pudieran ser más de una las personas en quienes concurran las condiciones para poder ser beneficiarios de la misma.
+
+3\. Cuando la intervención quirúrgica haya tenido como origen supuestos de hecho que impliquen responsabilidad criminal o civil de alguna persona, la Entidad Gestora tendrá derecho a reclamar al tercero responsable o, en su caso, al subrogado legal o contractualmente en sus obligaciones el importe de la ayuda satisfecha por tal motivo.
+
+Para ejercitar este derecho de resarcimiento la Entidad Gestora tendrá plena facultad para personarse directamente en el procedimiento penal o civil seguido para hacer efectiva la indemnización, así como para promoverlo directamente, considerándose como tercero perjudicado, al efecto del artículo 104 del Código Penal.
+
+##### Art. 114. Intervenciones quirúrgicas que dan derecho a la prestación y cuantía de ésta.
+
+Las intervenciones quirúrgicas que dan derecho a la ayuda económica y la cuantía de ésta serán las determinadas en el baremo que a tal efecto se establezca por la Subsecretaría de la Seguridad Social, sin que dicha cuantía pueda ser superior a 100.000 pesetas ni inferior a 2.000, conforme con lo dispuesto en el artículo 80 del Decreto 2530/1970, de 30 de agosto, según la redacción del Decreto 2398/1978, de 1 de octubre, por el que se perfecciona el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos.
+
+> Se modifica por el art. único de la Orden de 10 de noviembre de 1976. [Ref. BOE-A-1976-23860](https://www.boe.es/buscar/doc.php?id=BOE-A-1976-23860).
+
+> Esta modificación surte efectos desde el 1 de octubre de 1976, según establece la disposición final.
+
+### Sección séptima. Asistencia sanitaria a pensionistas
+
+##### Art. 115. Objeto.
+
+La asistencia sanitaria a los pensionistas de este Régimen Especial tiene por objeto la prestación de los servicios médicos y farmacéuticos conducentes a conservar o restablecer la salud de los beneficiarios de la misma.
+
+##### Art. 116. Beneficiarios.
+
+Serán beneficiarios de esta prestación:
+
+a) Los pensionistas de este Régimen Especial, como titulares del derecho.
+
+b) Sus familiares y asimilados en quienes concurran el parentesco o asimilación y demás condiciones exigidas, a igual efecto, por el Régimen General de la Seguridad Social.
+
+##### Art. 117. Contenido de la prestación.
+
+La asistencia sanitaria será prestada con igual amplitud que en el Régimen General de la Seguridad Social se otorgue a los pensionistas y a sus familiares o asimilados.
+
+##### Art. 118. Prestación de la asistencia sanitaria.
+
+La asistencia sanitaria que se regula en esta Sección será prestada, en todo caso, por los Servicios Sanitarios de la Seguridad Social, estableciéndose al efecto los oportunos conciertos entre las Mutualidades Laborales gestoras de este Régimen Especial y el Instituto Nacional de Previsión.
+
+### Sección octava. Asistencia social
+
+##### Art. 119. Concepto.
+
+Las Mutualidades Laborales de Trabajadores Autónomos podrán dispensar a las personas que en el artículo siguiente se determinan los auxilios económicos que, en atención a estados y situaciones de necesidad, se consideren precisos, previa demostración, salvo en casos de urgencia, de que el interesado carece de los recursos indispensables para hacer frente a tales estados o situaciones.
+
+##### Art. 120. Beneficiarios.
+
+Podrán ser beneficiarios de la asistencia social:
+
+a) Las personas incluidas en el campo de aplicación de este Régimen Especial.
+
+b) Las personas que, habiendo estado comprendidas en el campo de aplicación de este Régimen Especial, hayan dejado de estarlo por pasar a ser pensionistas del mismo o, sin tener tal condición, por haber perdido la de trabajadores por cuenta propia y no estar incluidas en otro régimen de la Seguridad Social.
+
+c) El cónyuge, ascendientes, descendientes y demás parientes por consanguinidad o afinidad que hubiesen convivido con las personas incluidas en alguno de los apartados anteriores y a su cargo.
+
+d) Los que, sin estar incluidos en el apartado anterior, se consideren asimilados, a estos afectos, a la condición de familiares por el hecho de haber convivido con las personas a que se refieren los apartados a) o b), y con cargo a ellas, con una antelación mínima de un año.
+
+##### Art. 121. Solicitud.
+
+Las personas comprendidas en el artículo anterior podrán solicitar los beneficios de la asistencia social cuando se encuentren en los estados y situaciones de necesidad a que se refiere esta Sección y las solicitudes que formulen estén fundamentadas:
+
+a) Para las incluidas en el apartado a), en hechos que les afecten directamente a ellas o a sus familiares o asimilados, comprendidos en los apartados c) y d), respectivamente, entendiendo referidos los requisitos que tales apartados exigen a la fecha de formalización de la solicitud.
+
+b) Para las incluidas en el apartado b), tan sólo en hechos que les afecten directamente, y
+
+c) Para las comprendidas en los apartados c) y d), en hechos que les afecten directamente y sólo en caso de fallecimiento, de las personas incluidas en los apartados a) o b), entendiéndose referidos los requisitos exigidos a la fecha del fallecimiento.
+
+##### Art. 122. Limitaciones.
+
+Los auxilios económicos otorgados en concepto de asistencia social no podrán tener carácter periódico ni comprometer recursos del ejercicio económico siguiente a aquel en que tenga lugar la concesión. Los auxilios podrán revestir la forma de subsidios de cuantía fija, cuya duración se determinará, en cada caso, cuando se otorguen a quienes por encontrarse imposibilitados para trabajar por enfermedad o accidente vengan obligados a contratar a otros trabajadores que realicen las labores que ellos hubieran ejecutado.
+
+##### Art. 123. Fondo, distribución y disponibilidad.
+
+1\. La asistencia social se prestará por cada Mutualidad Laboral gestora de este Régimen Especial con cargo a un fondo constituido por una cantidad equivalente al 2 por 100 del importe de la recaudación que haya obtenido en el ejercicio anterior.
+
+2\. En cada Mutualidad Laboral el importe de este fondo se distribuirá de la forma siguiente:
+
+a) El 75 por 100, a disposición de los órganos de gobierno provinciales, en proporción a la cotización efectuada en la respectiva provincia.
+
+b) El 25 por 100 restante, a disposición de la Junta Rectora de la Mutualidad Laboral.
+
+Los órganos de gobierno provinciales de las Mutualidades elevarán a la consideración de sus respectivas Juntas Rectoras aquellas solicitudes que consideren procedentes y que excedan de sus posibilidades económicas.
+
+##### Art. 124. Dispensación discrecional y decisiones de los órganos de gobierno.
+
+1\. A efectos de la dispensación de la asistencia social, el órgano de gobierno competente de la Mutualidad apreciará discrecionalmente la concurrencia de las circunstancias y requisitos establecidos en la presente Sección y los valorará para fijar la cuantía de la ayuda asistencial.
+
+2\. De conformidad con lo dispuesto en el número 2 del artículo 36 de la Ley de la Seguridad Social, las decisiones de los órganos de gobierno en esta materia no podrán ser objeto de recurso alguno en vía administrativa ni jurisdiccional.
+
+### Sección novena. Servicios sociales
+
+##### Art. 125. Acción formativa.
+
+1\. Las Mutualidades Laborales gestoras de este Régimen Especial colaborarán en la ejecución del programa correspondiente al Servicio Social de Acción Formativa en la forma determinada para las Mutualidades Laborales del Régimen General de la Seguridad Social, sin perjuicio de lo dispuesto en los números siguientes.
+
+2\. El período mínimo de cotización requerido para el disfrute de los beneficios de la acción formativa será en este Régimen Especial de veinticuatro meses dentro de los siete años inmediatamente anteriores a la fecha en que concluya el plazo de presentación de solicitudes, según la convocatoria correspondiente. No será preciso tal requisito tratándose de pensionistas.
+
+3\. La colaboración a que se refiere el número 1 se llevará a cabo con cargo a un fondo que se constituirá en cada Mutualidad Laboral y se nutrirá anualmente con una cantidad equivalente al 3 por 100 de la recaudación obtenida en el ejercicio anterior por la Entidad mutualista.
+
+##### Art. 126. Otros servicios sociales.
+
+La prestación de los Servicios Sociales de Asistencia a los Subnormales y de Asistencia a los Ancianos y de aquellos otros que se establezcan con igual carácter de servicios comunes de la Seguridad Social se llevará a cabo de conformidad con las normas reguladoras de cada uno de dichos servicios.
+
+## CAPÍTULO VI — Régimen económico-administrativo
+
+##### Art. 127. Disposición general.
+
+A efectos del Régimen Económico-Administrativo de este Régimen Especial se estará a lo dispuesto en el artículo 43 de la Ley de Seguridad Social de 21 de abril de 1966, a lo establecido por el Decreto 3336/1968, de 26 de diciembre («Boletín Oficial del Estado» de 27 de enero de 1969), por el que se regula el procedimiento con arreglo al cual habrán de llevarse, intervenirse y rendirse las cuentas y balances de la Seguridad Social y a las disposiciones de aplicación y desarrollo de dichas normas.
+
+##### Art. 128. Gastos de administración.
+
+La cuantía de los gastos de administración de las Entidades gestoras de este Régimen Especial estará limitada al 6 por 100, como máximo, de sus respectivos ingresos totales en cada ejercicio; en dicho porcentaje se entenderá incluido el del 0,25 por 100 ya establecido, que se seguirá destinando a atenciones generales de la Seguridad Social.
+
+## CAPÍTULO VII — Régimen económico-financiero
+
+##### Art. 129. Sistema financiero.
+
+1\. El sistema financiero de este Régimen Especial será de reparto y su cuota se revisará periódicamente para mantener la necesaria adecuación entre los recursos y las obligaciones del mismo. Los períodos de reparto coincidirán con los del Régimen General de la Seguridad Social.
+
+2\. Para garantizar la estabilidad financiera, durante el período de vigencia del tipo de cotización se constituirán los correspondientes fondos de nivelación, con cargo a los resultados económicos de cada ejercicio, mediante la acumulación financiera de las diferencias anuales entre la cuota media y la natural prevista.
+
+Asimismo, con cargo a dichos resultados y una vez atendidos los fondos de nivelación, se constituirán fondos de garantía para suplir posibles déficit de cotización o excesos anormales de siniestralidad.
+
+##### Art. 130. Asignación a las Entidades Gestoras.
+
+Para el cumplimiento de los fines de la Seguridad Social, cuya gestión les está encomendada, tiene asignada cada Entidad gestora de este Régimen Especial los siguientes medios económicos, de conformidad con lo dispuesto en el artículo 49 de la Ley de la Seguridad Social de 21 de abril de 1966:
+
+a) Los bienes, derechos y acciones de que dispusiera cada una de ellas al entrar en vigor este Régimen Especial.
+
+b) Los que obtenga como consecuencia de las cotizaciones o de recursos de cualquier género que se le atribuyan en virtud de lo dispuesto en el apartado b) del artículo 73 del Decreto 2530/1970, de 20 de agosto.
+
+c) Los que en el futuro puedan asignársele a virtud de disposiciones especiales.
+
+##### Art. 131. Recursos para la financiación.
+
+Los recursos económicos para la financiación de este Régimen Especial de la Seguridad Social y su asignación a las Entidades gestoras del mismo serán los siguientes:
+
+a) Las cotizaciones de las personas obligadas que se encuentren encuadradas en sus respectivos ámbitos.
+
+b) Los frutos, rentas e intereses y cualquier otro producto de sus respectivos recursos patrimoniales.
+
+c) Las donaciones, legados, subvenciones o cualesquiera otros ingresos que se otorguen a cada una de ellas.
+
+##### Art. 132. Inversiones.
+
+1\. En materia de inversiones se estará a lo dispuesto en el artículo 53 de la Ley de la Seguridad Social de 21 de abril de 1966.
+
+2\. A efectos de inversiones, y de conformidad con lo establecido en el número 1 del citado artículo, entre las finalidades de carácter social quedará incluida, en todo caso, la concesión por las Mutualidades Laborales gestoras de este Régimen Especial de créditos laborales a los trabajadores comprendidos en las mismas, que se regirá por lo que específicamente se disponga en esta materia.
+
+##### Disposición adicional
+
+De conformidad con lo dispuesto en la disposición adicional del Decreto 2530/1970, de 20 de agosto, para el primer período de reparto, que comprenderá desde la fecha de efectos de este Régimen Especial hasta el 31 de diciembre de 1971, el tipo único de cotización para todo el ámbito de cobertura de dicho Régimen será del 14 por 100.
+
+##### Disposición final
+
+Se faculta a la Dirección General de la Seguridad Social para resolver cuantas cuestiones se planteen en la aplicación de la presente Orden, que tendrá efectos a partir del día 1 de octubre de 1970.
+
+##### Disposición transitoria primera.
+
+1\. En tanto se establezca el Régimen Especial de los socios trabajadores de Cooperativas de producción previsto en el apartado g) del número 2 del artículo 10 de la Ley de la Seguridad Social de 21 de abril de 1966, a efectos de la inclusión en el campo de aplicación de este Régimen Especial de los trabajadores por cuenta propia o autónomos, se seguirá entendiendo que tienen individualmente la condición de trabajadores independientes que les reconocía el artículo séptimo de la Orden del Ministerio de Trabajo de 25 de marzo de 1963 («Boletín Oficial del Estado» de 11 de abril) los socios de las Cooperativas industriales que practiquen su profesión y oficio en las mismas.
+
+Las responsabilidades subsidiarias establecidas para las Compañías en el número 2 del artículo sexto y en el número 2 del artículo 20 de la presente Orden serán de aplicación a las Cooperativas con respecto a sus socios.
+
+2\. A efectos de cubrir las contingencias de accidente de trabajo y enfermedades profesionales, continuará siendo de aplicación lo dispuesto en el último párrafo del artículo segundo del Reglamento aprobado por Decreto de 22 de junio de 1956, respecto a los socios de Cooperativas industriales, en tanto se establezca el Régimen Especial previsto en el precepto de la Ley de la Seguridad Social que se menciona en el número anterior.
+
+##### Disposición transitoria segunda.
+
+1\. Quienes, de acuerdo con lo dispuesto en el artículo 11 de los anteriores Estatutos de las Mutualidades Laborales de Trabajadores Autónomos, tuvieran la condición de mutualistas, la conservarán y seguirán rigiéndose a todos los efectos por los citados Estatutos, sin alteración de los derechos y obligaciones dimanantes de su respectivo contrato.
+
+No obstante, quienes se encuentren en la situación prevista en el párrafo anterior podrán optar entre continuar rigiéndose por el contrato del referido artículo 11 de tales Estatutos, con los efectos previstos en dicho párrafo, o rescindir voluntariamente para suscribir, sin solución de continuidad, el Convenio Especial que se regula en el artículo 71 de la presente Orden, quedando sometidos desde tal momento a los preceptos reguladores del citado Convenio.
+
+La opción, que tendrá carácter irrevocable, habrá de ejercitarse mediante comunicación a la Mutualidad Laboral con la que se tuviese suscrito el contrato del artículo 11 de los anteriores Estatutos o antes de 1 de abril de 1971; dicha opción surtirá efectos desde el día 1 del mes siguiente al de su ejercicio, y de no ejercitarse antes de dicho término se entenderá efectuada en favor del mantenimiento de la situación anterior.
+
+2\. Quienes en la fecha de efectos iniciales de este Régimen Especial reúnan las condiciones determinantes de su inclusión en el campo de aplicación del mismo y tuviesen vigente en tal momento contrato del artículo 21 del Reglamento General del Mutualismo Laboral o Convenio especial con alguna de las Mutualidades Laborales de Trabajadores por Cuenta Ajena, que hubiese sido suscrito al amparo del derecho de opción que otorgaban las Órdenes de 25 de marzo y 7 de octubre de 1963 («Boletín Oficial del Estado» del 11 de abril y 18 de noviembre, respectivamente), podrán optar entre incorporarse a dicho Régimen Especial por encuadramiento en la correspondiente Mutualidad Laboral de Trabajadores Autónomos o mantener su situación anterior.
+
+La opción en favor de la incorporación a este Régimen Especial deberá ejercitarse dentro del plazo de dos meses contados a partir de la fecha de efectos iniciales del mismo, mediante comunicación a ambas Mutualidades afectadas; dicha opción surtirá efectos a partir del día 1 del mes siguiente al de su ejercicio, siempre que en tal fecha sigan concurriendo en el interesado las condiciones determinantes de su inclusión en el campo de aplicación de este Régimen Especial. De no ejercitarse la opción en el referido plazo, se entenderá efectuada en favor del mantenimiento de su situación anterior.
+
+##### Disposición transitoria tercera.
+
+1\. De conformidad con lo establecido en el número 1 de la disposición transitoria tercera del Decreto 2530/1970, de 20 de agosto, en tanto por el Gobierno se establezcan las bases de cotización previstas en el número 1 del artículo 15 del mismo, tendrán vigencia las siguientes bases mensuales:
+
+| 3.500 | pesetas | 8.000 | pesetas |
+|---|---|---|---|
+| 4.000 | » | 8.500 | » |
+| 4.500 | » | 9.000 | » |
+| 5.000 | » | 9.500 | » |
+| 5.500 | » | 10.000 | » |
+| 6.000 | » | 10.500 | » |
+| 6.500 | » | 11.000 | » |
+| 7.000 | » | 11.500 | » |
+| 7.500 | » | 12.000 | » |
+
+2\. No obstante lo establecido en el número anterior, quienes a la entrada en vigor de este Régimen Especial se encuentren en la situación regulada en la disposición transitoria primera de los Estatutos de las Mutualidades Laborales de Trabajadores Autónomos, aprobados por la Orden de 30 de mayo de 1962 («Boletín Oficial del Estado» de 13 de junio), y modificada por el artículo séptimo de la Orden de 11 de octubre de 1967 («Boletín Oficial del Estado» del día 20), continuarán, a efectos de sus bases de cotización, en la misma situación, sin perjuicio de las actualizaciones correspondientes que a dichos efectos determine el Ministerio de Trabajo al ser establecidas por el Gobierno nuevas bases de cotización.
+
+##### Disposición transitoria cuarta.
+
+Quienes a la fecha de entrada en vigor de este Régimen Especial, por razón del período de pago de cuotas que tuviesen elegido, hubiesen efectuado el ingreso de las relativas a los meses de octubre a diciembre de 1970 por la cuantía correspondiente según el régimen anterior, regularizarán su importe para adaptarlo al nuevo tipo y, en su caso, nueva base de cotización. A tal efecto, podrán efectuarlo sin recargo por demora dentro del plazo de tres meses contados a partir de dicha fecha de entrada en vigor.
+
+##### Disposición transitoria quinta.
+
+1\. Las cotizaciones efectuadas al anterior régimen de las Mutualidades Laborales de Trabajadores Autónomos se computarán para el disfrute de las prestaciones del Régimen Especial que desarrolla la presente Orden.
+
+Igual norma se aplicará para otros beneficios cuyo disfrute dependa del cumplimiento de determinado período de cotización.
+
+2\. Cuando el período mínimo de cotización exigido en el nuevo régimen para tener derecho a una prestación fuese superior al requerido en la legislación anterior, se aplicará aquél de modo paulatino; para ello, se partirá en la fecha en que tenga efectos dicho régimen del período de cotización anteriormente exigido y se determinará el aplicable en cada caso concreto, añadiendo a tal período la mitad de los meses transcurridos entre la citada fecha y aquella en que se entienda causada la prestación. Dicha regla se aplicará hasta el momento en que el período de cotización así resultante sea igual al implantado por este Régimen Especial.
+
+Cuando el período de cotización exigido en el nuevo régimen fuese inferior al requerido en el anterior, se aplicará aquél de modo inmediato.
+
+La aplicación de lo dispuesto en el párrafo primero de este número a quienes en 1 de octubre de 1970, fecha de iniciación de los efectos de este régimen especial, tuviesen cumplida la edad de cincuenta y cinco años y quedasen comprendidos en el campo de aplicación de dicho régimen, habiendo sido alta inicial en el mismo dentro de plazo, se ajustará a las siguientes normas:
+
+Primera.–Si en la fecha en que se entienda causada la prestación de que se trate tuvieran cumplido, además de las restantes condiciones exigidas para la misma, un período de cotización equivalente a aquel del que se parte para la aplicación paulatina establecida en el párrafo primero de este número, se causará la prestación y se deducirá de su importe en el momento de hacerla efectiva una cantidad igual a las cuotas correspondientes al número de meses que falten al trabajador para cumplir el período mínimo de cotización aplicable según lo dispuesto en el referido párrafo.
+
+Segunda.–Para el cálculo de la cantidad a deducir, de acuerdo con la norma anterior, se tomarán como base y tipo de cotización los últimos aplicables al causarse la prestación.
+
+Tercera.–Tratándose de prestaciones de pago periódico, se iniciará su percepción cuando haya sido enjugado el total importe de la cantidad que haya de deducirse con las mensualidades vencidas de aquéllas, pudiendo optar el beneficiario, en el caso de pensión vitalicia, porque se deduzca de cada mensualidad de la misma una cantidad igual al importe de las cuotas de un mes, hasta la total amortización de la cantidad a deducir.
+
+Cuarta.–Para el cálculo de la base reguladora de la prestación de que se trate se computarán las bases que hayan de tomarse para la determinación de la cantidad a deducir de la prestación, así como el número de meses a que tales bases correspondan.
+
+> Se modifica el apartado 2, con efectos de 1 de octubre de 1970, por el art. único de la Orden de 28 de junio de 1971. [Ref. BOE-A-1971-1014](https://www.boe.es/buscar/doc.php?id=BOE-A-1971-1014).
+
+##### Disposición transitoria sexta.
+
+La base reguladora de las prestaciones cuyo período mínimo de cotización sea el de aplicación paulatina determinado en el número 2 de la disposición transitoria anterior se calculará de la siguiente forma:
+
+Será el cociente que resulte de dividir por el número de meses exigido como período mínimo de cotización, para la respectiva prestación, la suma de las bases de cotización del trabajador durante un período ininterrumpido de igual número de meses naturales, aunque dentro del mismo existan lapsos en los que no haya habido obligación de cotizar. Este último período será elegido por el interesado dentro de los diez años inmediatamente anteriores a la fecha en que se entienda causada la prestación, salvo que se trate de la pensión de vejez, para la que será, en todo caso, el período inmediatamente anterior a dicha fecha.
+
+##### Disposición transitoria séptima.
+
+1\. Los trabajadores incluidos en el campo de aplicación de este Régimen Especial, procedentes del régimen anterior de las Mutualidades Laborales de Trabajadores Autónomos, que en la fecha de entrada en vigor de aquél tuvieran cumplida la edad de sesenta y cinco años y cubierto el período de carencia y demás requisitos exigidos por tal régimen anterior para causar la pensión de jubilación del mismo, podrán optar entre acogerse a dicho Régimen Especial o continuar rigiéndose, a efectos de causar la indicada prestación, por el referido régimen anterior.
+
+Las personas a las que se reconoce tal derecho de opción podrán ejercitarlo en la fecha en que soliciten su jubilación, siempre que en la misma sigan reuniendo las condiciones exigidas.
+
+2\. Los trabajadores incluidos en el campo de aplicación de este Régimen Especial, procedentes del régimen anterior de las Mutualidades Laborales de Trabajadores Autónomos, que en la fecha de entrada en vigor de aquél tuviesen cumplida la edad de sesenta años y cubierto el período de carencia exigido por tal régimen anterior para causar la pensión de jubilación del mismo, podrán optar al solicitar la pensión de vejez que causen en dicho Régimen Especial entre acogerse a uno u otro de tales regímenes a efectos de la fijación del porcentaje aplicable para determinar la cuantía de su pensión de vejez.
+
+Lo digo a VV. II. para su conocimiento y efectos.
+
+Dios guarde a VV. II.
+
+Madrid, 24 de septiembre de 1970.
+
+DE LA FUENTE
+
+Ilmos. Sres. Subsecretario y Director general de la Seguridad Social de este Ministerio.

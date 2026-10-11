@@ -1,0 +1,15086 @@
+---
+title: "Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización"
+identifier: "BOE-A-2006-16212"
+eli: "https://www.boe.es/eli/es/rd/2006/09/15/1030"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Consumo"
+date: 2006-09-15
+published: 2006-09-16
+in_force_from: 2006-09-17
+last_amended: 2026-07-31
+consolidated: 2026-08-31
+gazette: "Boletín Oficial del Estado núm. 222"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-16212"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización
+
+Incluye las correcciones de errores publicadas en BOE núm. 251, de 20 de octubre de 2006. [Ref. BOE-A-2006-18278](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-18278) y BOE núm. 281, de 20 de noviembre de 2014. [Ref. BOE-A-2014-11989](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11989).
+
+El artículo 43 de la Constitución Española reconoce el derecho a la protección de la salud y establece que compete a los poderes públicos organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios.
+
+La Ley 14/1986, de 25 de abril, General de Sanidad, señala, en su artículo 3.2, que el acceso y las prestaciones sanitarias se realizarán en condiciones de igualdad efectiva. En el artículo 18 recoge las diferentes actuaciones sanitarias que desarrollarán las administraciones públicas, a través de sus servicios de salud y de los órganos competentes en cada caso. Asimismo, en el artículo 45 indica que el Sistema Nacional de Salud integra todas las funciones y prestaciones sanitarias que son responsabilidad de los poderes públicos para el debido cumplimiento del derecho a la protección de la salud.
+
+El Real Decreto 63/1995, de 20 de enero, sobre ordenación de prestaciones sanitarias del Sistema Nacional de Salud, definió los derechos de los usuarios del sistema sanitario a la protección de la salud al regular, de forma genérica, las prestaciones facilitadas por el sistema sanitario público. Desde entonces, se han producido avances e innovaciones en la atención sanitaria que, aunque se han ido incorporando a la práctica clínica, no han sido objeto de una inclusión formal en el catálogo de prestaciones del Sistema Nacional de Salud.
+
+Por su parte, la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, en su artículo 7.1 establece que el catálogo de prestaciones del Sistema Nacional de Salud tiene por objeto garantizar las condiciones básicas y comunes para una atención integral, continuada y en el nivel adecuado de atención; que se consideran prestaciones de atención sanitaria del Sistema Nacional de Salud los servicios o conjunto de servicios preventivos, diagnósticos, terapéuticos, de rehabilitación y de promoción y mantenimiento de la salud dirigidos a los ciudadanos; y señala, por último, las prestaciones que comprenderá el catálogo.
+
+El artículo 8 de la citada ley contempla que las prestaciones sanitarias del catálogo se harán efectivas mediante la cartera de servicios comunes que, según prevé el artículo 20, se acordará en el seno del Consejo Interterritorial del Sistema Nacional de Salud y se aprobará mediante real decreto, teniendo en cuenta en su elaboración la eficacia, eficiencia, efectividad, seguridad y utilidad terapéuticas, así como las ventajas y alternativas asistenciales, el cuidado de grupos menos protegidos o de riesgo, las necesidades sociales, y su impacto económico y organizativo.
+
+Asimismo, el artículo 4.c) establece que los ciudadanos tendrán derecho a recibir, por parte del servicio de salud de la comunidad autónoma en la que se encuentre desplazado, la asistencia del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir, en las mismas condiciones e idénticas garantías que los ciudadanos residentes en esa comunidad autónoma.
+
+Además, en la disposición adicional quinta señala que el Fondo de cohesión tiene por finalidad garantizar la igualdad de acceso a los servicios de asistencia sanitaria públicos en todo el territorio español y la atención a ciudadanos desplazados procedentes de países de la Unión Europea o con los que España tenga suscritos convenios de asistencia sanitaria recíproca.
+
+Por otro lado, el artículo 71.1 determina las funciones esenciales en la configuración del Sistema Nacional de Salud sobre las que el Consejo Interterritorial del Sistema Nacional de Salud debatirá y, en su caso, emitirá recomendaciones, recogiendo entre esas funciones, el desarrollo de la cartera de servicios comunes y su actualización, el establecimiento de prestaciones sanitarias complementarias a las comunes por parte de las comunidades autónomas y el uso tutelado.
+
+Por otra parte, el artículo 21 de la citada Ley 16/2003 se refiere a la actualización de la cartera de servicios mediante un procedimiento que se desarrollará reglamentariamente, señalando que las nuevas técnicas, tecnologías o procedimientos serán sometidos a evaluación por el Ministerio de Sanidad y Consumo y recoge los requisitos a verificar en dicha evaluación.
+
+Por tanto, es preciso establecer las bases del procedimiento para actualizar el contenido de esta cartera, de modo que pueda adecuarse a los avances tecnológicos y a las necesidades cambiantes de la población cubierta por el Sistema Nacional de Salud. Este procedimiento deberá ser suficientemente ágil para evitar que la intervención pública constituya una barrera que dificulte que los usuarios se beneficien de los avances científicos y tecnológicos, y habrá de garantizar que ninguna nueva técnica, tecnología o procedimiento clínico relevante se generalice en el sistema sin una previa evaluación pública de su seguridad, eficacia, coste y utilidad.
+
+De todo ello se desprende la importancia de esta norma que, recogiendo los principios establecidos en la Constitución Española y en las citadas leyes, pretende garantizar la protección de la salud, la equidad y la accesibilidad a una adecuada atención sanitaria, a la que tienen derecho todos los ciudadanos independientemente de su lugar de residencia, haciendo efectivas las prestaciones a través de la cartera de servicios comunes del Sistema Nacional de Salud, en la que se recogen las técnicas, tecnologías o procedimientos que en estos momentos cubre el citado Sistema.
+
+Esta norma pretende definir las prestaciones que el sistema sanitario público actualmente está ofertando a los ciudadanos y garantizar estas prestaciones comunes. Además, tiene también como objetivo fijar las bases para la actualización de la cartera de servicios.
+
+La cartera de servicios contenida en este real decreto cuenta con el acuerdo previo del Consejo Interterritorial del Sistema Nacional de Salud.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 15 de septiembre de 2006,
+
+#### D I S P O N G O :
+
+##### Artículo 1. Objeto de la norma.
+
+Los objetivos de este real decreto, con el fin de garantizar la equidad y la accesibilidad a una adecuada atención sanitaria en el Sistema Nacional de Salud, son:
+
+1\. Establecer el contenido de la cartera de servicios comunes de las prestaciones sanitarias de salud pública, atención primaria, atención especializada, atención de urgencia, prestación farmacéutica, ortoprotésica, de productos dietéticos y de transporte sanitario.
+
+2\. Fijar las bases del procedimiento para la actualización de la cartera de servicios comunes del Sistema Nacional de Salud.
+
+##### Artículo 2. Cartera de servicios comunes del Sistema Nacional de Salud.
+
+1\. La cartera de servicios comunes del Sistema Nacional de Salud es el conjunto de técnicas, tecnologías o procedimientos, entendiendo por tales cada uno de los métodos, actividades y recursos basados en el conocimiento y experimentación científica, mediante los que se hacen efectivas las prestaciones sanitarias.
+
+2\. Son titulares de los derechos a la protección de la salud y a la atención sanitaria a través de la cartera de servicios comunes que se establece en este real decreto, los contemplados en el artículo 3.1 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.
+
+3\. El procedimiento para el acceso a los servicios que hacen efectivas las prestaciones será determinado por las administraciones sanitarias en el ámbito de sus respectivas competencias.
+
+4\. Los usuarios del Sistema Nacional de Salud tendrán acceso a la cartera de servicios comunes reconocida en este real decreto, siempre que exista una indicación clínica y sanitaria para ello, en condiciones de igualdad efectiva, al margen de que se disponga o no de una técnica, tecnología o procedimiento en el ámbito geográfico en el que residan. Los servicios de salud que no puedan ofrecer alguna de las técnicas, tecnologías o procedimientos contemplados en esta cartera en su ámbito geográfico establecerán los mecanismos necesarios de canalización y remisión de los usuarios que lo precisen al centro o servicio donde les pueda ser facilitado, en coordinación con el servicio de salud que lo proporcione.
+
+5\. El acceso a las prestaciones sanitarias del Sistema Nacional de Salud, detalladas en la cartera de servicios comunes que se establece en este real decreto, se garantizará con independencia del lugar del territorio nacional en el que se encuentren en cada momento los usuarios del sistema, atendiendo especialmente a las singularidades de los territorios insulares y de las Ciudades de Ceuta y Melilla.
+
+6\. Las prestaciones, cuya cartera de servicios se establece en los anexos I, II, III, IV, V, VI, VII y VIII, se financiarán por las comunidades autónomas de conformidad con los acuerdos de transferencias y el sistema de financiación autonómica vigente, sin perjuicio de la existencia de un tercero obligado al pago. Las comunidades autónomas deberán destinar a la financiación de dichas prestaciones, como mínimo, las cantidades previstas en la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las comunidades autónomas de régimen común y ciudades con Estatuto de Autonomía, sin perjuicio de que aquellas cuya provisión sea competencia exclusiva del Estado sigan siendo financiadas con cargo a los presupuestos del Estado.
+
+7\. Conforme a lo señalado en el artículo 83 de la Ley General de Sanidad, en la disposición adicional 22 del texto refundido de la Ley General de Seguridad Social, aprobado por Real Decreto legislativo 1/1994, de 20 de junio, y demás disposiciones que resulten de aplicación, los servicios de salud reclamarán a los terceros obligados al pago el importe de las atenciones o prestaciones sanitarias facilitadas directamente a las personas, de acuerdo con lo especificado en el anexo IX.
+
+Procederá asimismo la reclamación del importe de los servicios a los usuarios sin derecho a la asistencia de los servicios de salud, admitidos como pacientes privados, conforme a lo establecido en el artículo 16 de la Ley General de Sanidad.
+
+##### Artículo 3. Características de la cartera de servicios comunes.
+
+1\. Los servicios contenidos en esta cartera tienen la consideración de básicos y comunes, entendiendo por tales los necesarios para llevar a cabo una atención sanitaria adecuada, integral y continuada a todos los usuarios del Sistema Nacional de Salud.
+
+2\. La cartera de servicios comunes del Sistema Nacional de Salud debe garantizar la atención integral y la continuidad de la asistencia prestada a los usuarios, independientemente del nivel asistencial en el que se les atienda en cada momento.
+
+##### Artículo 4. Personal y centros autorizados.
+
+1\. Las prestaciones sanitarias, detalladas en la cartera de servicios comunes que se establece en este real decreto, deberán ser realizadas, conforme a las normas de organización, funcionamiento y régimen de los servicios de salud, por los profesionales sanitarios titulados, regulados por la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias. Todo ello sin menoscabo de la colaboración de otros profesionales en el ámbito de sus respectivas competencias.
+
+2\. De acuerdo con lo indicado en el artículo 5 de la mencionada ley, los profesionales tienen el deber de hacer un uso racional de los recursos diagnósticos y terapéuticos a su cargo, evitando su inadecuada utilización. Asimismo, los profesionales tienen el deber de respetar la personalidad, dignidad e intimidad de las personas a su cuidado y su participación en las decisiones que les afecten. En todo caso, deben ofrecer una información suficiente y adecuada para que aquéllas puedan ejercer su derecho al consentimiento sobre dichas decisiones, de acuerdo con lo regulado por la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, y respetando la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
+
+3\. La cartera de servicios comunes únicamente se facilitará por centros, establecimientos y servicios del Sistema Nacional de Salud, propios o concertados, salvo en situaciones de riesgo vital, cuando se justifique que no pudieron ser utilizados los medios de aquél. En esos casos de asistencia sanitaria urgente, inmediata y de carácter vital que hayan sido atendidos fuera del Sistema Nacional de Salud, se reembolsarán los gastos de la misma, una vez comprobado que no se pudieron utilizar oportunamente los servicios de aquél y que no constituye una utilización desviada o abusiva de esta excepción. Todo ello sin perjuicio de lo establecido en los convenios internacionales en los que España sea parte o en normas de derecho interno reguladoras de la prestación de asistencia sanitaria en supuestos de prestación de servicios en el extranjero.
+
+4\. Los centros, establecimientos y servicios a que hace referencia el apartado anterior estarán debidamente autorizados conforme a lo establecido en el Real Decreto 1277/2003, de 10 de octubre, por el que se establecen las bases generales sobre autorización de centros, servicios y establecimientos sanitarios, la normativa autonómica vigente y, en su caso, la normativa específica que regule su actividad.
+
+##### Artículo 5. Criterios y requisitos.
+
+1\. Para la definición, detalle y actualización de la cartera de servicios comunes se tendrá en cuenta la seguridad, eficacia, eficiencia, efectividad y utilidad terapéuticas de las técnicas, tecnologías y procedimientos, así como las ventajas y alternativas asistenciales, el cuidado de grupos menos protegidos o de riesgo y las necesidades sociales, y su impacto económico y organizativo, basándose en los criterios y requisitos establecidos en los apartados siguientes.
+
+2\. Previamente a su inclusión en la cartera, las técnicas, tecnologías o procedimientos que para su realización precisen utilizar un medicamento, producto sanitario, producto dietético u otro tipo de producto, resulta imprescindible que:
+
+a) Los medicamentos estén autorizados para su comercialización de acuerdo con la legislación vigente, y se utilicen conforme a las especificaciones de su ficha técnica autorizada.
+
+b) Los productos sanitarios, incluidos los implantes y los reactivos para diagnóstico «in vitro», cuenten con el marcado CE para la indicación de que se trate, así como los restantes requisitos que establece el Real Decreto 414/1996, de 1 de marzo, por el que se regulan los productos sanitarios, y demás normativa de aplicación.
+
+c) Los productos dietéticos hayan recibido resolución favorable de la autoridad competente como alimentos dietéticos destinados a usos médicos especiales, de acuerdo con lo establecido en el apartado 4 del artículo 10 del Real Decreto 2685/1976, de 16 de octubre, por el que se aprueba la Reglamentación Técnico-Sanitaria para la Elaboración, Circulación y Comercio de Preparados Alimenticios para Regímenes Dietéticos y/o Especiales.
+
+d) Otros productos sometidos a regulación específica cumplan la respectiva normativa vigente que les sea de aplicación.
+
+3\. Para ser incluidos como parte de la cartera de servicios comunes del Sistema Nacional de Salud, las técnicas, tecnologías o procedimientos deberán reunir todos los requisitos siguientes:
+
+a) Contribuir de forma eficaz a la prevención, al diagnóstico o al tratamiento de enfermedades, a la conservación o mejora de la esperanza de vida, al autovalimiento o a la eliminación o disminución del dolor y el sufrimiento.
+
+b) Aportar una mejora, en términos de seguridad, eficacia, efectividad, eficiencia o utilidad demostrada, respecto a otras alternativas facilitadas actualmente.
+
+c) Cumplir las exigencias que establezca la legislación vigente en el caso de que incluyan la utilización de medicamentos, productos sanitarios u otros productos.
+
+4\. No se incluirán en la cartera de servicios comunes:
+
+a) Aquellas técnicas, tecnologías o procedimientos:
+
+1.º Cuya contribución eficaz a la prevención, diagnóstico, tratamiento, rehabilitación o curación de las enfermedades, conservación o mejora de la esperanza de vida, autonomía y eliminación o disminución del dolor y el sufrimiento no esté suficientemente probada.
+
+2.º Que se encuentren en fase de investigación clínica, salvo los autorizados para uso compasivo.
+
+3.º Que no guarden relación con enfermedad, accidente o malformación congénita.
+
+4.º Que tengan como finalidad meras actividades de ocio, descanso, confort, deporte o mejora estética o cosmética, uso de aguas, balnearios o centros residenciales u otras similares.
+
+b) La realización de reconocimientos y exámenes o pruebas biológicas voluntariamente solicitadas o realizadas por interés de terceros.
+
+5\. La exclusión de una técnica, tecnología o procedimiento incluido en la cartera de servicios comunes se llevará a cabo cuando concurra alguna de las circunstancias siguientes:
+
+a) Evidenciarse su falta de eficacia, efectividad o eficiencia, o que el balance entre beneficio y riesgo sea significativamente desfavorable.
+
+b) Haber perdido su interés sanitario como consecuencia del desarrollo tecnológico y científico o no haber demostrado su utilidad sanitaria.
+
+c) Dejar de cumplir los requisitos establecidos por la legislación vigente.
+
+> Se modifica el apartado 2.c) por la disposición final 4.1 del Real Decreto 682/2014, de 1 de agosto. [Ref. BOE-A-2014-8940](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8940).
+
+##### Artículo 6. Contenido de la cartera de servicios comunes.
+
+El contenido de la cartera de servicios comunes del Sistema Nacional de Salud correspondiente a las prestaciones de salud pública, atención primaria, atención especializada, atención de urgencia, prestación farmacéutica, prestación ortoprotésica, de productos dietéticos y de transporte sanitario se recoge, respectivamente, en los anexos I, II, III, IV, V, VI, VII y VIII.
+
+Por orden del Ministerio de Sanidad y Consumo, previo acuerdo del Consejo Interterritorial del Sistema Nacional de Salud, podrá concretarse y detallarse el contenido de los diferentes apartados de la cartera de servicios comunes recogidos en estos anexos.
+
+##### Artículo 7. Actualización de la cartera de servicios comunes.
+
+1\. La cartera de servicios comunes del Sistema Nacional de Salud, contenida en los anexos a este real decreto, se actualizará mediante orden del Ministerio de Sanidad y Consumo, previo acuerdo del Consejo Interterritorial del Sistema Nacional de Salud.
+
+2\. Para incorporar nuevas técnicas, tecnologías o procedimientos a la cartera de servicios comunes o excluir los ya existentes, será necesaria su evaluación por el Ministerio de Sanidad y Consumo a través de la agencia de evaluación de tecnologías sanitarias del Instituto de Salud Carlos III en colaboración con otros órganos evaluadores propuestos por las comunidades autónomas.
+
+3\. El procedimiento de evaluación para la actualización de la cartera de servicios comunes, se aplicará a las técnicas, tecnologías o procedimientos relevantes, que son aquellos que reúnen, al menos, una de las siguientes características:
+
+a) Representar una aportación sustancialmente novedosa a la prevención, al diagnóstico, a la terapéutica, a la rehabilitación, a la mejora de la esperanza de vida o a la eliminación del dolor y el sufrimiento.
+
+b) Ser nuevas indicaciones de equipos o productos ya existentes.
+
+c) Requerir para su aplicación nuevos equipos específicos.
+
+d) Modificar de modo significativo las formas o sistemas organizativos de atención a los pacientes.
+
+e) Afectar a amplios sectores de población o a grupos de riesgo.
+
+f) Suponer un impacto económico significativo en el Sistema Nacional de Salud.
+
+g) Suponer un riesgo para los usuarios o profesionales sanitarios o el medio ambiente.
+
+4\. No se aplicará el régimen de actualización previsto en esta norma a la prestación farmacéutica, que se regirá por su propia normativa, y con los cauces de participación de las comunidades autónomas que en ella se establezcan. Tampoco se aplicará a las técnicas, tecnologías o procedimientos que supongan un cambio menor de otros ya existentes o incorporen dispositivos o productos con modificaciones técnicas menores, salvo en el caso de que reúnan alguna de las características señaladas en el apartado anterior.
+
+5\. Para llevar a cabo la actualización se deberá utilizar el procedimiento de evaluación más adecuado en cada caso que permita conocer el coste, la eficacia, la eficiencia, la efectividad, la seguridad y la utilidad sanitaria de una técnica, tecnología o procedimiento, como informes de evaluación, criterio de expertos, registros evaluativos, usos tutelados u otros. Teniendo en cuenta las evidencias científicas y las repercusiones bioéticas y sociales, el Ministerio de Sanidad y Consumo, de acuerdo con el procedimiento contemplado en el artículo 8, podrá limitar la incorporación de la técnica, tecnología o procedimiento a la cartera de servicios comunes para indicaciones concretas.
+
+##### Artículo 8. Procedimiento de actualización de la cartera de servicios comunes.
+
+1\. Las propuestas de actualización se harán por iniciativa de las administraciones sanitarias de las comunidades autónomas o del propio Ministerio de Sanidad y Consumo, a través del Consejo Interterritorial del Sistema Nacional de Salud.
+
+2\. El régimen para la tramitación de los expedientes para la actualización de la cartera de servicios comunes y los criterios para la selección y priorización de las técnicas, tecnologías y procedimientos se establecerán por orden ministerial, previo informe del Consejo Interterritorial del Sistema Nacional de Salud.
+
+3\. La propuesta de inclusión de una nueva técnica, tecnología o procedimiento en la cartera de servicios comunes del Sistema Nacional de Salud se acompañará de una memoria técnica que recoja los resultados de la evaluación prevista en el artículo 7.2, las repercusiones bioéticas y sociales y una memoria económica que contenga la valoración del impacto positivo o negativo que pueda suponer. Si de acuerdo con las estimaciones económicas que se realicen, la introducción de una nueva técnica, tecnología o procedimiento pudiera determinar un incremento del gasto con implicaciones presupuestarias significativas para el Sistema Nacional de Salud, se analizará por la Comisión interministerial para el estudio de los asuntos con trascendencia presupuestaria para el equilibrio financiero del Sistema Nacional de Salud o implicaciones económicas significativas, creada en el Real Decreto 434/2004, de 12 de marzo, que emitirá el preceptivo informe que será presentado al Consejo Interterritorial del Sistema Nacional de Salud. Por su parte, el Ministerio de Economía y Hacienda trasladará este informe al Consejo de Política Fiscal y Financiera, el cual propondrá, en su caso, las medidas necesarias para garantizar el equilibrio financiero del Sistema Nacional de Salud.
+
+4\. Finalizada la tramitación de los expedientes, se elevarán éstos a la Comisión de prestaciones, aseguramiento y financiación, contemplada en el artículo 9, la cual acordará la propuesta que corresponda sobre la inclusión o exclusión de la técnica, tecnología o procedimiento de que se trate.
+
+5\. La aprobación definitiva de las propuestas que se formulen por dicha Comisión, corresponderá al Ministerio de Sanidad y Consumo, previo acuerdo del Consejo Interterritorial del Sistema Nacional de Salud.
+
+6\. La sistemática para la exclusión de una técnica, tecnología o procedimiento de la cartera de servicios comunes, cuando concurra alguna de las circunstancias recogidas en el artículo 5.5, será la misma que la seguida para las inclusiones.
+
+Cuando existan indicios de que una técnica, tecnología o procedimiento tiene un balance entre beneficio y riesgo significativamente desfavorable, el Ministerio de Sanidad y Consumo procederá a su exclusión cautelar, poniéndolo en conocimiento de las comunidades autónomas de forma inmediata e informando de ello a la Comisión de prestaciones, aseguramiento y financiación, para que adopten las medidas necesarias. Simultáneamente, se iniciará la tramitación del expediente que permita ratificar la exclusión cautelar o proponer medidas sobre su utilización o sobre el seguimiento de los pacientes. En el caso de que lleve aparejada la utilización de un medicamento, producto sanitario u otro tipo de producto sometido a regulación específica, se le aplicará el mecanismo de vigilancia y control de los incidentes que pudieran dar lugar a un riesgo para la salud de los pacientes que establezca la normativa que lo regule.
+
+7\. El Ministerio de Sanidad y Consumo pondrá a disposición de las comunidades autónomas y de las agencias evaluadoras del Sistema Nacional de Salud, un sistema de seguimiento informatizado de solicitudes de actualización de técnicas, tecnologías o procedimientos, en el que se recogerá la situación y las decisiones adoptadas sobre cada una de las solicitudes, incluyendo las peticiones de evaluación a las agencias u otros órganos evaluadores y demás incidencias de su tramitación. El Ministerio de Sanidad y Consumo mantendrá permanentemente actualizada la información de este sistema de seguimiento sobre las técnicas, tecnologías o procedimientos en fase de evaluación y sobre aquéllos que no se ha considerado adecuado incluir, por no reunir los requisitos exigidos en el artículo 5.2 y 5.3.
+
+##### Artículo 9. Comisión de prestaciones, aseguramiento y financiación.
+
+1\. La participación de las comunidades autónomas y de otras administraciones sanitarias públicas en la definición y actualización de las prestaciones y la cartera de servicios comunes del Sistema Nacional de Salud se articulará a través de la Comisión de prestaciones, aseguramiento y financiación, dependiente del Consejo Interterritorial del Sistema Nacional de Salud, así como de los comités y grupos de trabajo de ella dependientes.
+
+2\. La Comisión de prestaciones, aseguramiento y financiación estará presidida por el Director General de Cohesión del Sistema Nacional de Salud y Alta Inspección, como órgano responsable de la elaboración y evaluación de la cartera de servicios comunes del Sistema Nacional de Salud. Se integrarán en ella, como vocales, un representante de cada una de las comunidades autónomas, de cada una de las mutualidades de funcionarios (MUFACE, MUGEJU e ISFAS), del Instituto Nacional de Gestión Sanitaria, de la Subdirección General de Análisis Económico y Fondo de Cohesión, del Instituto de Salud Carlos III, de la Dirección General de Salud Pública, de la Dirección General de Farmacia y Productos Sanitarios y de la Agencia de Calidad del Sistema Nacional de Salud.
+
+Para cada una de las vocalías será designado un titular y un suplente.
+
+La Comisión de prestaciones, aseguramiento y financiación podrá incorporar a sus deliberaciones, con voz pero sin voto, a los expertos en cada una de las materias, que se consideren oportunos, en concepto de asesores, o promover, previo a sus decisiones, el consenso profesional a través de grupos de trabajo que convoque a tal efecto en supuestos o circunstancias específicas.
+
+Para garantizar el desarrollo de las tareas encomendadas a esta Comisión, se establece una secretaría que será ejercida por el titular de la subdirección general del Ministerio de Sanidad y Consumo responsable de la cartera de servicios.
+
+3\. La Comisión de prestaciones, aseguramiento y financiación asumirá las siguientes tareas:
+
+a) El estudio y elevación de las correspondientes propuestas al Consejo Interterritorial del Sistema Nacional de Salud sobre las cuestiones que expresamente se le encomienden, relacionadas con el aseguramiento, la ordenación de prestaciones y su financiación.
+
+b) La valoración de las repercusiones de una técnica, tecnología o procedimiento sobre la salud de la población, sobre la organización del sistema sanitario, de las repercusiones éticas, legales y sociales y su impacto económico, de modo que permita realizar las propuestas sobre su posible inclusión en la cartera de servicios comunes del Sistema Nacional de Salud, en la forma establecida en el artículo 8.3.
+
+c) La tramitación de las propuestas sobre actualización de la cartera de servicios comunes del Sistema Nacional de Salud, así como aquellas otras que en este real decreto se le atribuyen en la tramitación de los expedientes de actualización de dicha cartera.
+
+d) El establecimiento, en su caso, de plazos máximos para cada uno de los trámites de los expedientes de actualización, que se reflejarán en la orden que regule el procedimiento de actualización prevista en el artículo 7.1.
+
+e) El establecimiento de los requisitos de calidad metodológica y el contenido de los informes de evaluación y los de repercusión económica.
+
+f) La regulación del acceso a la información del sistema de seguimiento informatizado de solicitudes de actualización indicado en el artículo 8.7.
+
+g) La elaboración, aprobación y modificación del reglamento de régimen interior de funcionamiento de la Comisión.
+
+h) La realización de las propuestas de uso tutelado, a iniciativa del Ministerio de Sanidad y Política Social o de alguna de las comunidades autónomas.
+
+4\. El Ministerio de Sanidad y Consumo, a través de la Dirección General de Cohesión del Sistema Nacional de Salud y Alta Inspección, pondrá a disposición de la Comisión de prestaciones, aseguramiento y financiación los medios necesarios para garantizar un desarrollo satisfactorio del régimen establecido en esta norma.
+
+5\. La Comisión de Seguimiento del Fondo de cohesión sanitaria, creada por el Real Decreto 1247/2002, de 3 de diciembre, por el que se regula la gestión del Fondo de cohesión sanitaria, informará de sus actividades relacionadas con la cartera de servicios comunes del Sistema Nacional de Salud a esta Comisión.
+
+Por su parte, el Comité Asesor para la Prestación Ortoprotésica, creado por la Orden de 18 de enero de 1996, y el Comité Asesor para Prestaciones con Productos Dietéticos, creado mediante la Orden de 2 de junio de 1998, elevarán sus propuestas al Consejo Interterritorial del Sistema Nacional de Salud a través de esta Comisión.
+
+> Se añade el apartado 3 h) por la disposición final 2 del Real Decreto 207/2010, de 26 de febrero. [Ref. BOE-A-2010-4399](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4399)
+
+> Redactado el apartado 3 f) conforme a la corrección de errores publicada en BOE núm. 251, de 20 de octubre de 2006. [Ref. BOE-A-2006-18278](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-18278)
+
+##### Artículo 10. Servicios de información a los usuarios del Sistema Nacional de Salud.
+
+1\. Las personas que reciban las prestaciones cuya cartera de servicios comunes se establece en esta norma, tendrán derecho a la información y documentación sanitaria y asistencial, de acuerdo con la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, y la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
+
+2\. Asimismo, los usuarios del Sistema Nacional de Salud tendrán derecho a:
+
+a) La información y, en su caso, tramitación de los procedimientos administrativos necesarios para garantizar la continuidad de la atención sanitaria.
+
+b) La expedición de los partes de baja, confirmación, alta y demás informes o documentos clínicos para la valoración de la incapacidad u otros efectos.
+
+c) La documentación o certificación médica de nacimiento, defunción y demás extremos para el Registro Civil.
+
+##### Artículo 11. Cartera de servicios complementaria de las comunidades autónomas.
+
+1\. Las comunidades autónomas, en el ámbito de sus competencias, podrán aprobar sus respectivas carteras de servicios, que incluirán, cuando menos, la cartera de servicios comunes del Sistema Nacional de Salud, la cual debe garantizarse a todos los usuarios del mismo.
+
+2\. Las comunidades autónomas podrán incorporar en sus carteras de servicios, una técnica, tecnología o procedimiento no contemplado en la cartera de servicios comunes del Sistema Nacional de Salud, para lo cual establecerán los recursos adicionales necesarios. En todo caso, estos servicios complementarios, que deberán reunir los mismos requisitos establecidos en el artículo 5, no estarán incluidos en la financiación general de las prestaciones del Sistema Nacional de Salud.
+
+3\. El Consejo Interterritorial del Sistema Nacional de Salud conocerá, debatirá y, en su caso, emitirá recomendaciones, sobre el establecimiento por parte de las comunidades autónomas de prestaciones sanitarias complementarias a las prestaciones comunes del Sistema Nacional de Salud, de acuerdo con lo establecido en el artículo 71.1.b) de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.
+
+4\. Las comunidades autónomas pondrán en conocimiento del Ministerio de Sanidad y Consumo los servicios complementarios no contemplados en la cartera de servicios comunes del Sistema Nacional de Salud que hubieran sido incorporados a la cartera de servicios específicos de la comunidad autónoma, que se recogerán en el sistema de información contemplado en el artículo 12.
+
+##### Artículo 12. Sistema de información sobre cartera de servicios.
+
+En el Ministerio de Sanidad y Consumo existirá un sistema de información de cartera de servicios en el que se recogerá el contenido de la cartera de servicios comunes del Sistema Nacional de Salud, así como el de las diferentes carteras complementarias de las comunidades autónomas y de las mutualidades de funcionarios, al que podrán tener acceso los servicios de salud, las mutualidades, los profesionales y los usuarios. Todo ello sin perjuicio de que los servicios de salud informen a los usuarios de sus derechos y deberes, de las prestaciones y servicios del Sistema Nacional de Salud y de los requisitos necesarios para su uso.
+
+##### Disposición adicional única. Cartera de servicios de las mutualidades de funcionarios.
+
+1\. Conforme a lo señalado en la disposición adicional cuarta de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud, las mutualidades de funcionarios tendrán que garantizar el contenido de la cartera de servicios comunes del Sistema Nacional de Salud en sus respectivos ámbitos de aplicación.
+
+2\. Las mutualidades de funcionarios, en sus respectivos ámbitos de competencia, podrán aprobar sus respectivas carteras de servicios, que incluirán, cuando menos, la cartera de servicios comunes del Sistema Nacional de Salud.
+
+3\. La participación económica de los usuarios en la prestación farmacéutica establecida en el apartado 3 del anexo V será, en el caso de las recetas de las mutualidades de funcionarios, del 30 % con carácter general, salvo lo previsto en los apartados 3.2 y 3.3.b) y c) del citado anexo V.
+
+##### Disposición derogatoria única. Derogación normativa.
+
+Queda derogada cualquier disposición de igual o inferior rango que se oponga a lo previsto en este real decreto y en concreto las siguientes normas:
+
+1\. Real Decreto 63/1995, de 20 de enero, sobre ordenación de prestaciones sanitarias del Sistema Nacional de Salud, excepto la disposición adicional cuarta en tanto se desarrolla el contenido de la cartera de servicios de atención sociosanitaria.
+
+2\. Orden de 18 de enero de 1996 de desarrollo del Real Decreto 63/1995, de 20 de enero, para la regulación de la prestación ortoprotésica, salvo el apartado octavo, actualizado por la Orden de 30 de marzo de 2000 y la Orden de 19 de julio de 2001 por la que se actualiza la composición del Comité Asesor para la Prestación Ortoprotésica.
+
+3\. Orden de 23 de julio de 1999 por la que se modifica la Orden de 18 de enero de 1996 de desarrollo del Real Decreto 63/1995, de 20 de enero, para la regulación de la prestación ortoprotésica.
+
+4\. Orden de 30 de marzo de 2000 por la que se modifica parcialmente la Orden de 18 de enero de 1996 de desarrollo del Real Decreto 63/1995, de 20 de enero, para la regulación de la prestación ortoprotésica, excepto el apartado segundo.
+
+5\. Orden de 30 de abril de 1997 por la que se regulan los tratamientos dietoterápicos complejos.
+
+6\. Orden de 2 de junio de 1998 para la regulación de la nutrición enteral domiciliaria en el Sistema Nacional de Salud, excepto el apartado séptimo actualizado por la Orden de 15 de diciembre de 2000 por la que se fijan condiciones de identificación de los alimentos destinados a usos médicos especiales susceptibles de financiación por el Sistema Nacional de Salud.
+
+7\. Orden SCO/585/2002, de 5 de marzo, por la que se actualiza el anexo de la Orden de 30 de abril de 1997, por la que se regulan los tratamientos dietoterápicos complejos.
+
+8\. Orden SCO/710/2004, de 12 de marzo, por la que se autoriza la financiación de determinados efectos y accesorios con fondos públicos, excepto el apartado 3 y el anexo.
+
+##### Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo previsto en el artículo 149.1.1.ª, 16.ª y 17.ª de la Constitución española.
+
+##### Disposición final segunda. Habilitación normativa.
+
+Se habilita al Ministro de Sanidad y Consumo para dictar cuantas disposiciones requiera la definición, aplicación y desarrollo de lo establecido en este real decreto.
+
+##### Disposición final tercera. Régimen económico de la Comunidad Autónoma del País Vasco y la Comunidad Foral de Navarra.
+
+Lo dispuesto en este real decreto se entenderá sin perjuicio de lo establecido en el vigente Concierto Económico con la Comunidad Autónoma del País Vasco y el Convenio Económico con la Comunidad Foral de Navarra.
+
+##### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 15 de septiembre de 2006.
+
+JUAN CARLOS R.
+
+La Ministra de Sanidad y Consumo,
+
+ELENA SALGADO MÉNDEZ
+
+## ANEXO I — Cartera de servicios comunes de salud pública
+
+La prestación de salud pública es el conjunto de iniciativas organizadas por las administraciones públicas para preservar, proteger y promover la salud de la población. Es una combinación de ciencias, habilidades y actividades dirigidas al mantenimiento y mejora de la salud de todas las personas a través de acciones colectivas o sociales.
+
+La prestación de salud pública y el conjunto de la cartera de servicios comunes del Sistema Nacional de Salud se inspirarán en el modelo social de la salud. Este enfoque reconoce que la salud de la población está determinada no solo por factores biológicos y la atención sanitaria, sino principalmente por las condiciones sociales, económicas, culturales y ambientales en las que las personas viven y trabajan. En consecuencia, las políticas de salud pública promoverán activamente la acción intersectorial para abordar estos determinantes sociales y reducir las inequidades en salud.
+
+Las prestaciones de salud pública tendrán carácter de integralidad, contando con las estructuras y recursos de las administraciones de salud pública, de atención primaria y especializada del Sistema Nacional de Salud. La cartera de servicios de atención primaria incluye los programas de salud pública cuya ejecución se realiza mediante acciones que se aplican a nivel individual por los profesionales de ese nivel asistencial.
+
+La cartera de servicios de salud pública tiene una doble orientación:
+
+a) Orientada al diseño e implantación de políticas de salud, que engloba las siguientes funciones: Valoración del estado de la salud de la población mediante el análisis de datos de sistemas de información de la salud y sus determinantes y la vigilancia en salud pública; el desarrollo de políticas de salud; el seguimiento y evaluación de riesgos para la salud; y la verificación, control e intervención en salud pública en ejercicio de la autoridad sanitaria.
+
+b) Orientada directamente al ciudadano, que engloba las siguientes funciones: Definición de programas para la protección de riesgos para la salud, promoción de la salud y prevención de enfermedades, adicciones, discapacidades y lesiones. El ámbito de ejecución de estos programas lo definirá el Ministerio de Sanidad y las comunidades autónomas en función de sus competencias, modelos organizativos y recursos. Comprenderá:
+
+b.1 Programas intersectoriales, en los que los servicios en el ámbito de la salud pública se agrupan en actuaciones sobre estilos de vida y otros determinantes del entorno que comportan un riesgo para la salud para la identificación y mitigación de riesgos para la salud, así como para la promoción de activos y recursos individuales, comunitarios y ambientales que generan bienestar y salud.
+
+b.2 Programas transversales, en los que los servicios en el ámbito de la salud pública se agrupan en programas y actividades en las distintas etapas de la vida, programas y actuaciones sobre enfermedades transmisibles, no transmisibles, lesiones y accidentes, o programas para grupos de población con necesidades especiales.
+
+Los programas deben basarse en el mejor conocimiento científico, e incluir: definición de los criterios de población objetivo, estrategias, actividades y métodos de actuación, calendarios, estándares de calidad, criterios de accesibilidad, efectividad y participación social, así como la evaluación de los mismos.
+
+El diseño, seguimiento y evaluación de los sistemas de vigilancia en salud pública, contarán, siempre que sea posible, con la participación efectiva de la ciudadanía, las asociaciones de pacientes y las organizaciones representativas de la sociedad civil.
+
+> Se modifica por el art. 1.1 de la Orden SND/356/2026, de 13 de abril. [Ref. BOE-A-2026-8592](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8592)
+
+### 1. Información y vigilancia en salud pública.
+
+1.1 Sistemas de información sanitaria.
+
+1.1.1 Análisis de los sistemas de información sanitaria existentes. Desarrollo de mecanismos para establecer y utilizar los sistemas de información que se consideren necesarios para llevar a cabo las funciones de la salud pública.
+
+1.1.2 Identificación, monitorización y análisis de los determinantes, problemas y necesidades de salud.
+
+1.1.3 Informes periódicos sobre el estado de salud de la población: Principales enfermedades y sus determinantes.
+
+1.1.4 Informes específicos sobre problemas de salud emergentes o relevantes.
+
+1.2 Vigilancia en salud pública, preparación y respuesta rápida ante alertas y emergencias de salud pública.
+
+1.2.1 Sistemas de vigilancia en salud pública: se define sistema de vigilancia en salud pública como el componente de la Red Estatal de Vigilancia en Salud Pública que estructura, organiza y desarrolla funcionalmente las actividades de recogida y análisis de datos, la interpretación de los resultados y la difusión de la información específica de grupos de eventos que comparten naturaleza y características similares.
+
+El Ministerio de Sanidad, las comunidades autónomas y las Ciudades de Ceuta y Melilla en su ámbito, tienen la responsabilidad de crear, desarrollar y mantener, al menos, los siguientes sistemas de vigilancia:
+
+a) Sistemas de Vigilancia de las Enfermedades no Transmisibles, que incluirán al menos: el sistema de vigilancia de cáncer, el sistema de vigilancia de enfermedades cardiovasculares, el sistema de vigilancia de salud mental, la vigilancia de drogas y adicciones y el Registro Estatal de Enfermedades Raras.
+
+b) Sistema de Vigilancia de las Enfermedades Transmisibles, incluyendo las resistencias a los antimicrobianos y las infecciones relacionadas con la asistencia sanitaria.
+
+c) Sistema de Vigilancia en Salud Laboral.
+
+d) Sistema de Vigilancia en Salud Ambiental.
+
+Formarán también parte de la vigilancia en salud pública la información de otros sistemas de información como el de seguridad alimentaria, los de vacunación e inmunizaciones, los determinantes sociales de la salud o los de farmacovigilancia. Se incorporarán también en la vigilancia los datos e información estadística relacionados con la salud pública generados del Movimiento Natural de la Población, el registro de defunciones y sus causas y aquellos generados por otras administraciones que sean relevantes para el análisis de determinantes, problemas y necesidades de salud, cumpliendo la normativa de protección de datos establecida a través del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos) y Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+Los objetivos, funciones y actividades de cada sistema de vigilancia se definirán en su manual de procedimientos y protocolos, que se consensuará en el marco del Consejo Interterritorial del Sistema Nacional de Salud.
+
+Las funciones de los sistemas de vigilancia incluirán la recogida de la información necesaria y su transmisión a los diferentes niveles dentro de los sistemas de vigilancia, su análisis epidemiológico, y la difusión de sus resultados para orientar las actuaciones en salud pública.
+
+La cartera de servicios comunes de vigilancia en salud pública incluirá de forma específica:
+
+– Recepción de las notificaciones, declaraciones y otras formas de información definidas en los sistemas de vigilancia.
+
+– Obtener y analizar a partir de aplicaciones informáticas basadas en la captación automática de datos y del cruce de bases interoperables, la información clínica, de laboratorio, laboral, ambiental, alimentaria, y social, así como otras que sean precisas para caracterizar los eventos sujetos a vigilancia.
+
+– Interpretar la información y valorar el impacto en salud para la población de acuerdo con el contexto epidemiológico, ya sea un riesgo o un elemento generador de salud.
+
+– Identificar tanto a los pacientes como a las personas en riesgo, caracterizando la situación epidemiológica de acuerdo con los procedimientos y protocolos de los sistemas de vigilancia.
+
+– Indicar y autorizar, cuando corresponda, la realización de pruebas analíticas necesarias para cuantificar la exposición de las personas al riesgo y caracterización de este, y para evaluar la efectividad de las medidas de prevención y control.
+
+– Establecer las actuaciones individuales y comunitarias para pacientes y personas, en aquellos sistemas en que la naturaleza transmisible del evento así lo exija, con el objetivo de prevenir, controlar o reducir el riesgo, incluidas aislamientos, cuarentenas, inmunoprofilaxis, quimioprofilaxis, otras indicaciones terapéuticas y medidas sobre el ambiente y su entorno.
+
+– Identificar y evaluar el riesgo de las personas expuestas.
+
+– Informar a los pacientes y personas expuestas a determinados riesgos de la exposición y de las recomendaciones para prevenir y controlar o reducir los riesgos.
+
+– Establecer las medidas incluidas en los artículos 2 y 3 de la Ley Orgánica 3/1986, de 14 de abril, de Medidas Especiales en Materia de Salud Pública cuando se consideren necesarias para controlar o reducir los riesgos para la salud de la población.
+
+– Ante brotes o situaciones de riesgo para la salud pública, un incremento significativo de casos en relación a los valores esperados, aparición de una enfermedad, problema o riesgo para la salud en un ámbito hasta entonces libre de ella, cualquier proceso relevante de intoxicación aguda colectiva o aparición de cualquier incidencia de tipo catastrófico que afecte, o pueda afectar, a la salud, en centros educativos, socio-sanitarios, sanitarios, de trabajo, grupos vulnerables y otros ámbitos priorizados en los respectivos sistemas de vigilancia:
+
+● Estudiar los determinantes específicos del centro o ámbito priorizado del fenómeno de salud sujeto a vigilancia.
+
+● Establecer las medidas de prevención y control específicas necesarias.
+
+● Evaluar la implementación y efectividad de las medidas de prevención y control.
+
+● Coordinar las actuaciones necesarias dirigidas a la prevención y control del riesgo junto con los servicios de salud, otros centros sanitarios (públicos y privados) y las administraciones públicas.
+
+– Cualquier otra función que establezca la unidad responsable de la vigilancia en salud pública en función de las necesidades detectadas en cada territorio.
+
+La información necesaria para la vigilancia en salud pública deberá estar disponible en el menor tiempo posible para que las medidas puedan ser tomadas de forma oportuna.
+
+En todos los sistemas de vigilancia se integrará de forma transversal la vigilancia de los determinantes de la salud y la mortalidad. Así mismo, se desarrollará el análisis de resultados desagregados por ejes de desigualdad, incluyendo la discapacidad, y se dispondrá de indicadores específicos que garanticen el seguimiento de los aspectos relacionados con la inclusión social y la equidad en salud.
+
+1.2.2 Sistemas de alerta precoz, preparación y respuesta ante la aparición de brotes y situaciones epidémicas, alertas y emergencias de salud pública.
+
+El Ministerio de Sanidad, las comunidades autónomas y Ciudades de Ceuta y Melilla dispondrán de sistemas de alerta precoz y respuesta rápida y de planes de preparación y respuesta con las siguientes funciones:
+
+a) Identificar y verificar las señales de riesgo y facilitar el intercambio rápido de información, entre los responsables de los sistemas de vigilancia y alertas de salud pública y las autoridades sanitarias responsables de la toma de decisiones, de aquellas amenazas que puedan tener un impacto en términos de morbimortalidad en la salud de la población y/o tengan capacidad de extensión en el territorio nacional o a nivel internacional y/o puedan requerir de actuaciones coordinadas para su control.
+
+b) Evaluar el riesgo para la salud pública de dichas amenazas en coordinación con las unidades y los expertos que correspondan. Según la naturaleza del evento, y dependiendo de la situación, proponer la declaración de una emergencia de salud pública de importancia nacional.
+
+c) Proponer las medidas necesarias para prevenir, controlar y/o mitigar el efecto de dichas amenazas para establecer una respuesta rápida, oportuna y coordinada, adaptada a la situación detectada, con enfoque de equidad, tratando de mitigar las desigualdades sociales en salud, de forma coordinada con los servicios asistenciales cuando corresponda.
+
+d) Desarrollar los planes de preparación y la respuesta ante amenazas para la salud pública y asegurar, en base a ellos, la disposición de las capacidades, medidas para la respuesta y mecanismos de coordinación necesarios. Evaluar e intervenir ante situaciones de alertas en base a los planes establecidos. Se realizarán de forma periódica simulacros con el fin de comprobar y reforzar la eficacia de los planes de respuesta.
+
+e) Establecer y mantener los canales necesarios para la difusión de la información a la ciudadanía sobre la situación y los riesgos generados por los eventos detectados, así como de las recomendaciones y acciones para su prevención y control, garantizando en todos los casos la accesibilidad universal de dicha información.
+
+f) Colaborar en las estrategias de respuesta frente a la “infodemia” y desinformación en situaciones de brotes, epidémicas, alertas y emergencias sanitarias.
+
+Para dar respuesta a la gestión de riesgos, alertas y emergencias sanitarias se articulará en el nivel estatal y autonómico un sistema para dar cobertura las 24 horas del día todos los días del año a los riesgos y alertas que se produzcan en todos los niveles territoriales. Este sistema deberá adaptarse a las características de cada territorio (extensión geográfica, población, dispersión, etc.) para una cobertura adecuada. Los estándares y criterios de dicho sistema serán los acordados en el marco de la Estrategia de Vigilancia en Salud Pública del Sistema Nacional de Salud.
+
+En el marco del Sistema de Alerta Precoz y Respuesta rápida, se desarrollará y mantendrá actualizado un Plan Estatal de Preparación y Respuesta frente a Amenazas para la Salud Pública y los correspondientes Planes Autonómicos, así como planes específicos frente a amenazas determinadas que se consideren necesarios en el proceso continuo de evaluación de los riesgos para la salud pública.
+
+1.2.3 Coordinación.
+
+Las prestaciones recogidas en la cartera de servicios de vigilancia en salud pública se garantizarán a través de la unidad responsable de la vigilancia en salud pública del Ministerio de Sanidad y de las unidades responsables de dicha vigilancia de los departamentos de salud pública de las Consejerías de Sanidad de las comunidades autónomas y Ciudades de Ceuta y Melilla, que son las competentes para garantizar dichas prestaciones y las actuaciones de coordinación derivadas.
+
+Cada comunidad autónoma y ciudad con Estatuto de Autonomía desarrollará su propia estructura de vigilancia en salud pública en todo el territorio en función de sus propias necesidades y características.
+
+1.2.4 Actividades de información y vigilancia en salud pública en atención primaria y en atención especializada.
+
+1.2.4.1 En el caso de la atención primaria se tendrán en cuenta los criterios que se recogen en el apartado 4.2 del anexo II.
+
+1.2.4.2 En el caso de la atención especializada la cartera de servicios comunes comprende las siguientes actividades:
+
+1.2.4.2.1 Participar y colaborar en mantener operativos los sistemas de vigilancia en salud pública y sistemas de alerta precoz, preparación y respuesta necesarios ante la aparición de brotes y situaciones epidémicas, alertas y emergencias de salud pública detallados en el anexo I, apartado 1.2.1 y 1.2.2.
+
+De conformidad con lo previsto en la Ley 33/2011, de 4 de octubre, General de Salud Pública, desde el nivel de atención especializada se proporcionará a las administraciones sanitarias responsables de la vigilancia en salud pública los datos y la información que establezcan las normativas autonómicas, nacional e internacional en materia de vigilancia en salud pública con la desagregación, formato y tiempo establecido por la autoridad sanitaria en cada nivel territorial, asegurando la confidencialidad e interoperabilidad que en cada caso se determine.
+
+Se comunicará asimismo de forma urgente la información relevante y disponible sobre situaciones de riesgo para la salud pública siguiendo los criterios incluidos en las normativas autonómicas, nacional e internacional.
+
+1.2.4.2.2 Participar en las actividades de control derivadas de la vigilancia y respuesta a las alertas de salud pública bajo la coordinación de las unidades responsables de la vigilancia en salud pública.
+
+1.2.4.2.3 Participar en redes centinelas, encuestas poblacionales de salud u otros estudios necesarios para la vigilancia de enfermedades y otros problemas de salud de interés en salud pública o determinantes de la salud, según determinen los servicios de salud pública.
+
+1.2.4.2.4 Participar en el desarrollo e implantación de planes y programas de salud pública, así como en las acciones derivadas de la vigilancia.
+
+1.2.4.2.5 Participación en el sistema de farmacovigilancia, mediante la comunicación de efectos adversos.
+
+1.2.4.2.6 Mantener la capacitación y formación en vigilancia en salud pública de los profesionales de atención especializada.
+
+1.2.4.2.7 Desarrollar, adecuar y adoptar las tecnologías de la información y la comunicación necesarias para que los sistemas de vigilancia obtengan y compartan información de calidad en tiempo oportuno, teniendo en cuenta lo establecido en Estrategia de Salud Digital del Sistema Nacional de Salud. Toda herramienta de salud digital dirigida a la ciudadanía deberá cumplir, desde su diseño y en sus sucesivas actualizaciones, con las normativas vigentes en materia de accesibilidad universal.
+
+> Se modifica por el art. 1.1 de la Orden SND/356/2026, de 13 de abril. [Ref. BOE-A-2026-8592](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8592)
+
+### 2. Protección de la salud: diseño e implantación de políticas de salud y ejercicio de la autoridad sanitaria
+
+2.1 Diseño e implantación de políticas de salud para la protección de riesgos para la salud, prevención de enfermedades, deficiencias y lesiones, y promoción de la salud, que incluyen:
+
+2.1.1 Identificación de prioridades sanitarias y líneas de actuación.
+
+2.1.2 Promoción y propuesta del desarrollo normativo correspondiente.
+
+2.1.3 Supervisión, evaluación y actualización de normas, reglamentos, programas y protocolos.
+
+2.2 Verificación y control del cumplimiento de la legislación, criterios y estándares sanitarios, en ejercicio de la autoridad sanitaria.
+
+### 3. Promoción de la salud y prevención de las enfermedades y de las discapacidades
+
+3.1 Programas intersectoriales y transversales de promoción y educación para la salud orientados a la mejora de los estilos de vida.
+
+3.2 Programas de carácter intersectorial de protección de riesgos para la salud y prevención de enfermedades, deficiencias y lesiones.
+
+3.3 Programas transversales de protección de riesgos para la salud, de prevención de enfermedades, deficiencias y lesiones, y de educación y promoción de la salud, dirigidos a las diferentes etapas de la vida y a la prevención de enfermedades transmisibles y no transmisibles, lesiones, accidentes y discapacidades, incluidas las actividades para detectar en fase presintomática las enfermedades mediante cribado que se señalan a continuación:
+
+3.3.1 Las enfermedades que forman parte del programa de cribado neonatal de enfermedades congénitas en prueba de talón de la cartera común básica de servicios asistenciales del Sistema Nacional de Salud son:
+
+3.3.1.1 Hipotiroidismo congénito.
+
+3.3.1.2 Fenilcetonuria.
+
+3.3.1.3 Fibrosis quística.
+
+3.3.1.4 Deficiencia de acil-coenzima A-deshidrogenasa de cadena media (MCADD).
+
+3.3.1.5 Deficiencia de 3-hidroxi-acil-coenzima A-deshidrogenasa de cadena larga (LCHADD).
+
+3.3.1.6 Acidemia glutárica tipo I (GA-I).
+
+3.3.1.7 Anemia falciforme.
+
+3.3.1.8 Déficit de biotinidasa (DB).
+
+3.3.1.9 Enfermedad de la orina con olor a jarabe de arce (MSUD).
+
+3.3.1.10 Homocistinuria (HCN).
+
+3.3.1.11 Hiperplasia suprarrenal congénita (HSC).
+
+3.3.1.12 Tirosinemia tipo I (TYR I).
+
+3.3.1.13 Acidemia propiónica.
+
+3.3.1.14 Deficiencia primaria de carnitina.
+
+3.3.1.15 Deficiencia de acil-coA deshidrogenasa de cadena muy larga.
+
+3.3.1.16 Acidemias metilmalónicas:
+
+3.3.1.16.1 Acidemia metilmalónica aislada.
+
+3.3.1.16.2 Acidemia metilmalónica con homocistinuria.
+
+3.3.1.17 Acidemia isovalérica.
+
+3.3.1.18 Inmunodeficiencia combinada grave.
+
+3.3.1.19 Atrofia muscular espinal.
+
+3.3.1.20 Aciduria 3-hidroxi-3-metilglutárica.
+
+3.3.1.21 Adrenoleucodistrofia ligada al cromosoma X.
+
+La implantación del programa de cribado neonatal de enfermedades congénitas en prueba del talón de la cartera común básica de servicios asistenciales del Sistema Nacional de Salud se acompañará por parte del Ministerio de Sanidad de la revisión y actualización del actual Sistema de Información del Programa de Cribado Neonatal, a fin de garantizar su coordinación y eficiencia para el seguimiento, evaluación y coordinación del programa en los niveles estatal y autonómico. El Ministerio de Sanidad elaborará un informe técnico anual de evaluación del programa de cribado que pondrá a disposición de la ciudadanía y las administraciones en su página web.
+
+Asimismo, establecerá protocolos consensuados en el marco del Consejo Interterritorial del Sistema Nacional de Salud que permitan abordar en todas las comunidades autónomas y ciudades de Ceuta y Melilla, de manera homogénea tanto en términos de tiempo, como en acceso y confirmación de las pruebas, y de acuerdo con criterios de calidad los procesos de cribado.
+
+3.3.2 Los programas de cribado de cáncer que forman parte de la cartera común básica de servicios asistenciales del Sistema Nacional de Salud son:
+
+3.3.2.1 Cribado poblacional de cáncer de mama. Con carácter general, se realizará con los siguientes criterios:
+
+a) Población objetivo: mujeres de edades comprendidas entre 50 y 69 años.
+
+b) Prueba de cribado: mamografía.
+
+c) Intervalo entre exploraciones: 2 años.
+
+3.3.2.2 Cribado poblacional de cáncer colorrectal. Con carácter general, se realizará de acuerdo con las siguientes bases:
+
+a) Población objetivo: hombres y mujeres de edades comprendidas entre 50 y 74 años.
+
+b) Prueba de cribado: sangre oculta en heces.
+
+c) Intervalo entre exploraciones: 2 años.
+
+3.3.2.3 Cribado poblacional de cáncer de cérvix: Con carácter general, se realizará aplicando los siguientes criterios:
+
+a) Población objetivo: mujeres con edades comprendidas entre los 25 y 65 años.
+
+b) Prueba primaria de cribado e intervalo entre exploraciones:
+
+1.º Mujeres con edades comprendidas entre 25 y 29 años:
+
+i. Mujeres sin protección adecuada por vacunación frente a VPH: citología cada 3 años.
+
+ii. Mujeres con protección adecuada por vacunación frente a VPH: en función del estado de implementación del programa de cribado, se realizará citología cada 3 años o se iniciará el cribado a los 30 años.
+
+2.º Mujeres con edades comprendidas entre 30 y 65 años: determinación del virus del papiloma humano de alto riesgo (VPH-AR), independientemente de su estado vacunal frente al VPH:
+
+i. Si VPH-AR es negativo: repetir prueba VPH-AR a los cinco años.
+
+ii. Si VPH-AR es positivo: triaje adecuado para estratificación del riesgo de lesiones por VPH. Si se descarta alto riesgo, repetir VPH-AR al año.
+
+Para la aplicación del apartado 3.3.2.3 se considerará protección adecuada frente a VPH la pauta de vacunación cuya evidencia actualizada indique protección frente a infección persistente, valorado desde la Ponencia de Programa y Registro de Vacunaciones.
+
+Para poder llevar a cabo la evaluación de este programa de cribado, de acuerdo con lo previsto en el apartado 3.3.2.4, las comunidades autónomas y Ciudades de Ceuta y Melilla incluirán, entre los datos que recoja su sistema de información del programa poblacional de cribado de cáncer de cérvix para toda la población diana objeto del programa, si la mujer ha sido vacunada frente al VPH y en su caso, la fecha de la vacunación, las dosis administradas y los genotipos vacunales de la vacuna administrada.
+
+3.3.2.4 De acuerdo con el principio de evaluación establecido en el artículo 3 de la Ley 33/2011, de 4 de octubre, General de Salud Pública, y sin perjuicio de las evaluaciones que se realicen en el nivel autonómico, se realizará una evaluación a nivel estatal de estas prestaciones en el conjunto del Sistema Nacional de Salud, en el plazo que se determine por la Comisión de prestaciones, aseguramiento y financiación.
+
+3.3.2.5 Las comunidades autónomas, el Instituto Nacional de Gestión Sanitaria y las mutualidades de funcionarios garantizarán en los cánceres sometidos a cribado poblacional la valoración del riesgo individual en las personas que cumplen criterios de alto riesgo personal o riesgo de cáncer familiar o hereditario y en caso de confirmarse, su seguimiento a través de protocolos de actuación específicos.
+
+3.3.3 Programa poblacional de cribado neonatal de hipoacusia. Con carácter general se realizará con los siguientes criterios:
+
+a) Población objetivo: todos los recién nacidos/as.
+
+b) Pruebas de cribado: otoemisiones acústicas automatizadas (OEA) y/o potenciales evocados auditivos de tronco cerebral automatizados (PEATC-A).
+
+c) Realización de la prueba: en el periodo neonatal, preferiblemente en los primeros días de vida.
+
+Se garantizará que en el momento de la realización del cribado se defina también el riesgo individual de hipoacusia congénita y, en función de éste, se facilitará su manejo y seguimiento a través de protocolos de actuación específicos.
+
+El programa de cribado neonatal de hipoacusia, además del diagnóstico de confirmación y tratamiento, incluirá la atención temprana y seguimiento en los centros que determine cada comunidad autónoma, las mutualidades de funcionarios o el Instituto Nacional de Gestión Sanitaria.
+
+La información y la comunicación deberán atender a los requerimientos de accesibilidad universal y diseño para todos.
+
+La concreción del programa de cribado neonatal de hipoacusia de la cartera común básica de servicios asistenciales del Sistema Nacional de Salud se acompañará de:
+
+1.º El desarrollo de un protocolo para la detección precoz, el diagnóstico, el tratamiento, el seguimiento y la atención integral a la población infantil con hipoacusia neonatal y a sus familias que permita abordar en todas las comunidades autónomas y Ciudades de Ceuta y Melilla, de manera homogénea y de acuerdo con criterios de calidad, este programa.
+
+2.º El desarrollo de un sistema de información que permita en los niveles autonómico y estatal realizar un correcto seguimiento y evaluación de este programa.
+
+El Ministerio de Sanidad elaborará un informe técnico anual de evaluación del programa de cribado que pondrá a disposición de la ciudadanía y las administraciones en su página web.
+
+3.3.4 Programa poblacional de cribado neonatal de cardiopatías congénitas críticas. Con carácter general se realizará con los siguientes criterios:
+
+a) Población objetivo: todos los recién nacidos/as.
+
+b) Pruebas de cribado: pulsioximetría.
+
+c) Realización de la prueba: en el periodo neonatal, preferiblemente en los primeros días de vida.
+
+Se garantizará que en el momento de la realización del cribado se defina también el riesgo individual de cardiopatías congénitas críticas y, en función de esto, se facilitará su manejo y seguimiento a través de protocolos de actuación específicos.
+
+El programa de cribado neonatal de cardiopatías congénitas críticas incluirá, además, el diagnóstico de confirmación y tratamiento, así como el seguimiento en los centros que determine cada comunidad autónoma, las mutualidades de funcionarios o el Instituto Nacional de Gestión Sanitaria.
+
+La concreción del programa de cribado neonatal de cardiopatías congénitas críticas de la cartera común básica de servicios asistenciales del Sistema Nacional de Salud se acompañará de:
+
+– El desarrollo de un protocolo para la detección precoz, el diagnóstico, el tratamiento, seguimiento y la atención integral a la población infantil con cardiopatías congénitas críticas que permita abordar este programa de acuerdo a criterios de calidad y de forma homogénea en todas las comunidades autónomas y Ciudades de Ceuta y Melilla.
+
+– El desarrollo de un sistema de información que permita en los niveles autonómico y estatal realizar un correcto seguimiento y evaluación de este programa.
+
+El Ministerio de Sanidad elaborará un informe técnico anual de evaluación del programa de cribado que pondrá a disposición de la ciudadanía y las administraciones en su página web.
+
+3.3.5 Los programas de cribado de prenatal que se concretan como programas poblacionales en la cartera común básica de servicios asistenciales del Sistema Nacional de Salud son:
+
+3.3.5.1 Programa de cribado prenatal de anomalías cromosómicas. Su implementación tendrá un carácter de integralidad, a partir de las estructuras de salud pública de las administraciones y de la infraestructura de atención primaria y atención especializada del Sistema Nacional de Salud. Con carácter general se realizará con los siguientes criterios:
+
+a) Población objetivo: mujeres embarazadas.
+
+b) Pruebas de cribado:
+
+1.º Test combinado del primer trimestre compuesto por una prueba bioquímica que consiste en la determinación de PAPP-A (glicoproteína sintetizada en el trofoblasto) y βhCG (fracción beta libre de la gonadotropina coriónica humana) y una prueba ecográfica de medición de la translucencia nucal (TN).
+
+2.º Test de ADN fetal libre circulante en sangre materna como prueba de cribado prenatal contingente o de segunda línea ante una situación en la que esté incrementado el riesgo de trisomía fetal en los cromosomas 21, 18 o 13. Esta prueba estará limitada a la detección de las trisomías fetales en los cromosomas 21, 18 o 13.
+
+Las comunidades autónomas, Instituto Nacional de Gestión Sanitaria y las mutualidades de funcionarios garantizarán la valoración del riesgo individual en las mujeres embarazadas que cumplan criterios de alto riesgo y en caso de confirmarse, su seguimiento a través de protocolos de actuación específicos.
+
+3.3.5.2 Programa de cribado prenatal de enfermedades infecciosas dentro de la cartera de servicios comunes de salud pública. Su implementación tendrá un carácter de integralidad, a partir de las estructuras de salud pública de las administraciones y de la infraestructura de atención primaria y atención especializada del Sistema Nacional de Salud. Con carácter general se realizará con los siguientes criterios:
+
+a) Población objetivo: mujeres embarazadas.
+
+b) Pruebas de cribado:
+
+1.º A todas las mujeres embarazas se les debe ofertar el cribado de sífilis, VIH, hepatitis B y estreptococo del grupo B.
+
+2.º Se ofertará el cribado prenatal de la infección por hepatitis C, enfermedad por virus Zika y enfermedad de Chagas a las embarazadas que pertenezcan a los grupos de riesgo establecidos para cada una de ellas.
+
+3.º Se ofertará el cribado de rubeola en aquellas embazadas que carezcan de una evidencia contrastada de vacunación.
+
+4.º Se ofertará el cribado de varicela en aquellas embarazadas sin antecedentes de padecimiento de varicela o herpes zóster y que carezcan de una evidencia contrastada de vacunación.
+
+3.3.5.3 Programa de cribado prenatal de preeclampsia. Su implementación tendrá un carácter de integralidad, a partir de las estructuras de salud pública de las Administraciones y de la infraestructura de atención primaria y atención especializada del Sistema Nacional de Salud. Con carácter general se realizará con los siguientes criterios:
+
+a) Población objetivo: mujeres embarazadas.
+
+b) Prueba de cribado:
+
+Test combinado del primer trimestre de la preeclampsia compuesto por una prueba bioquímica que consiste en la determinación de PlGF (factor de crecimiento placentario) o PAPP-A (glicoproteína sintetizada en el trofoblasto), una prueba ecográfica de medición del índice de pulsatilidad de las arterias uterinas (IPAUt), y la medición de la tensión arterial media (TAM).
+
+Las comunidades autónomas, Instituto Nacional de Gestión Sanitaria y las mutualidades de funcionarios garantizarán la valoración del riesgo individual en las mujeres embarazadas que cumplan criterios de alto riesgo y en caso de confirmarse, su seguimiento a través de protocolos de actuación específicos.
+
+La concreción del programa de cribado prenatal de la cartera común básica de servicios asistenciales del Sistema Nacional de Salud se acompañará del desarrollo por parte del Ministerio de Sanidad de un sistema de información que permita en los niveles autonómico y estatal realizar un correcto seguimiento y evaluación de este programa. El Ministerio de Sanidad elaborará un informe técnico anual de evaluación del programa de cribado que pondrá a disposición del ciudadano y las administraciones en su portal de internet. Asimismo, establecerá protocolos consensuados en el marco del Consejo Interterritorial del Sistema Nacional de Salud que permitan abordar este programa en todas las comunidades autónomas y las Ciudades de Ceuta y Melilla, de manera homogénea y de acuerdo con criterios de calidad. Dichos protocolos incluirán todos los diferentes procesos de atención que se llevan a cabo en el programa incluyendo, entre otros, la consulta preconcepcional.
+
+3.4 Programas de prevención y promoción de la salud dirigidos a grupos de población con necesidades especiales y orientados a eliminar o reducir desigualdades en salud.
+
+> Se modifica el apartado 3.3.1 por el art. 2 de la Ley 3/2026, de 29 de julio. [Ref. BOE-A-2026-16654](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16654)
+
+> Se modifica por el art. 1.2 a 4 de la Orden SND/356/2026, de 13 de abril. [Ref. BOE-A-2026-8592](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8592)
+
+> Se modifica por el art. único.1 de la Orden SND/454/2025, de 9 de mayo. [Ref. BOE-A-2025-9277](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-9277)
+
+> Se modifica por el art. 1.1 de la Orden SND/606/2024, de 13 de junio. [Ref. BOE-A-2024-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12290)
+
+> Se modifica el apartado 3.3.2.3, con efectos de 1 de julio de 2019, por el art. único.1 de la Orden SCB/480/2019, de 26 de abril. [Ref. BOE-A-2019-6277](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6277)
+
+> Téngase en cuenta para su aplicación la disposición adicional 1 de la citada Orden.
+
+> Se modifica el apartado 3.3 por el art. único.1 de la Orden SSI/2065/2014, de 31 de octubre. [Ref. BOE-A-2014-11444](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11444).
+
+### 4. Protección y promoción de la sanidad ambiental
+
+Programas de intervención intersectoriales orientados a disminuir o evitar los riesgos para la salud relacionados con aguas de consumo, zonas de baño, contaminación atmosférica, acústica y del suelo, residuos, productos químicos y zoonosis, incluyendo los análisis de muestras en laboratorios de salud pública.
+
+### 5. Promoción de la seguridad alimentaria
+
+Programa intersectorial integral de protección de riesgos que garantice la seguridad en la cadena alimentaria (elaboración, transformación, envasado, etiquetado, almacenamiento, distribución, transporte, publicidad, venta y consumo), incluyendo los análisis de muestras en laboratorios de salud pública.
+
+### 6. Vigilancia y control de los posibles riesgos para la salud derivados de la importación, exportación o tránsito de mercancías y del tráfico internacional de viajeros, por parte de la administración sanitaria competente
+
+Programas intersectoriales de vigilancia de riesgos para la salud en puertos y aeropuertos, puestos fronterizos y medios de transporte nacional e internacional.
+
+### 7. Protección y promoción de la salud laboral
+
+Programas intersectoriales de promoción de la salud y prevención de riesgos y problemas de salud en el entorno laboral.
+
+## ANEXO II — Cartera de servicios comunes de atención primaria
+
+La atención primaria es el nivel básico e inicial de atención, que garantiza la globalidad y continuidad de la atención a lo largo de toda la vida del paciente, actuando como gestor y coordinador de casos y regulador de flujos. Comprenderá actividades de promoción de la salud, educación sanitaria, prevención de la enfermedad, asistencia sanitaria, mantenimiento y recuperación de la salud, así como la rehabilitación física y el trabajo social.
+
+Todas estas actividades, dirigidas a las personas, a las familias y a la comunidad, bajo un enfoque biopsicosocial, se prestan por equipos interdisciplinares, garantizando la calidad y accesibilidad a las mismas, así como la continuidad entre los diferentes ámbitos de atención en la prestación de servicios sanitarios y la coordinación entre todos los sectores implicados.
+
+Las administraciones sanitarias con competencias en la gestión de esta prestación determinarán la forma de proporcionarla en su ámbito.
+
+La atención primaria tiene como apoyo, conforme a las normas de organización, funcionamiento y régimen de los servicios de salud, los servicios contemplados en el apartado 2.
+
+La atención primaria, que incluye el abordaje de los problemas de salud y los factores y conductas de riesgo, comprende:
+
+### 1. Atención sanitaria a demanda, programada y urgente tanto en la consulta como en el domicilio del enfermo
+
+Comprende todas aquellas actividades asistenciales de atención individual, diagnósticas, terapéuticas y de seguimiento de procesos agudos o crónicos, así como aquellas de promoción de la salud, educación sanitaria y prevención de la enfermedad que realizan los diferentes profesionales de atención primaria.
+
+La atención a los procesos agudos incluye el abordaje de problemas cardiovasculares, respiratorios, del aparato digestivo, infecciosos, metabólicos y endocrinológicos, neurológicos, hematológicos, de la piel, del aparato urinario, del aparato genital, músculo-esqueléticos, otorrinolaringológicos, oftalmológicos, mentales, de la conducta y de la relación, conductas de riesgo, traumatismos, accidentes e intoxicaciones.
+
+Los procesos agudos y crónicos más prevalentes se han de atender de forma protocolizada.
+
+La actividad asistencial se presta, dentro de los programas establecidos por cada servicio de salud en relación con las necesidades de salud de la población de su ámbito geográfico, tanto en el centro sanitario como en el domicilio del paciente en modalidad presencial o no presencial.
+
+La elección de la modalidad de asistencia será la considerada más adecuada por el profesional sanitario en función del contexto clínico y características del paciente, garantizando la seguridad y la calidad de la atención. Se debe adaptar en función de las preferencias, necesidades, competencias digitales y diversidad de capacidades de los pacientes y cuidadores. Se debe garantizar la accesibilidad a la información y a la comunicación, así como el cumplimiento de la normativa vigente de seguridad y protección de datos personales.
+
+La actividad asistencial incluye las siguientes modalidades:
+
+1.1 Consulta a demanda, por iniciativa del paciente, preferentemente organizada a través de cita previa.
+
+1.2 Consulta programada, realizada por iniciativa de un profesional sanitario.
+
+1.3 Consulta urgente, por motivos no demorables.
+
+> Se modifica por el art. único.2 de la Orden SND/454/2025, de 9 de mayo. [Ref. BOE-A-2025-9277](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-9277)
+
+### 2. Indicación o prescripción y realización, en su caso, de procedimientos diagnósticos y terapéuticos
+
+Comprende los siguientes procedimientos diagnósticos y terapéuticos accesibles en el nivel de atención primaria:
+
+2.1 Procedimientos diagnósticos.
+
+2.1.1 Procedimientos diagnósticos básicos realizados en atención primaria en población adulta e infantil, incluyendo entre otros:
+
+a) Anamnesis, individual y familiar, y exploración física.
+
+b) Exploración de la función pulmonar: espirometría, medición del flujo espiratorio máximo, pulsioximetría. Así mismo, cooximetría para apoyo a los programas de deshabituación tabáquica.
+
+c) Exploraciones cardiovasculares: electrocardiografía, doppler para medición del índice tobillo-brazo y dedo-brazo, monitorización ambulatoria de la presión arterial (MAPA), automonitorización de la presión arterial (AMPA).
+
+d) Exploraciones otorrinolaringológicas: otoscopia, incluyendo la otoscopia neumática, rinoscopia, laringoscopia indirecta, audiometría portátil para valoración de la audición, acumetría cualitativa y timpanometría/impedanciometría.
+
+e) Exploraciones oftalmológicas: medición de la agudeza visual y fondo de ojo, retinografía, tonometría, refractometría bilateral en niños, oftalmoscopia, incluyendo oftalmoscopio de pared con luz de Wood, tinción ocular con fluoresceína.
+
+f) Pruebas de diagnóstico en consulta para la determinación de:
+
+– Glucemia capilar.
+
+– INR (razón normalizada internacional) capilar.
+
+– Bilirrubinometría transcutánea.
+
+– Mantoux.
+
+– Test de diagnóstico rápido de virus respiratorios incluyendo gripe, COVID, infecciones por adenovirus, por virus respiratorio sincitial o por virus de Epstein-Barr.
+
+– Detección de *Streptococcus pyogenes.*
+
+– Proteína C reactiva capilar.
+
+– Pruebas alérgicas: prick test, prueba de IgE específica.
+
+– Test de embarazo.
+
+– Tira de orina.
+
+– Detección de tóxicos en orina.
+
+– Marcadores cardiovasculares: test de troponina, NT-proBNP, dímero D.
+
+g) Obtención de muestras biológicas, incluyendo biopsias.
+
+h) Test psicoafectivos y sociales, de morbilidad y de calidad de vida.
+
+i) Pruebas de diagnóstico por imagen: ecografía clínica.
+
+j) Dermatoscopia.
+
+k) Exploraciones musculo-esqueléticas: podoscopio y escoliómetro.
+
+l) Poligrafía respiratoria domiciliaria.
+
+m) Anoscopia.
+
+2.1.2 Procedimientos diagnósticos con acceso desde atención primaria, equiparando la capacidad de indicación con atención hospitalaria, garantizando la coordinación entre los dos niveles.
+
+Incluye, entre otros, el acceso a los siguientes procedimientos diagnósticos:
+
+a) Pruebas de laboratorio.
+
+b) Anatomía patológica.
+
+c) Diagnóstico por imagen, entre otros, radiología general simple y de contraste, ecografía, mamografía, tomografía axial computarizada, resonancia magnética, gammagrafía y densitometría ósea.
+
+d) Endoscopia digestiva.
+
+e) Pruebas neurofisiológicas: electromiograma, electroneurograma y electroencefalograma.
+
+f) Acumetría cuantitativa, potenciales acústicos, pruebas vestibulares.
+
+g) Phmetría, test de intolerancia a la lactosa y sobrecrecimiento intestinal y pruebas de detección de H. Pylori (test del aliento y antígeno heces).
+
+h) Test del sudor.
+
+i) Polisomnografía.
+
+j) Exploraciones cardiovasculares: ecocardiografía, ergometría y holter electrocardiográfico.
+
+2.2 Procedimientos terapéuticos.
+
+2.2.1 Indicación, prescripción y seguimiento de tratamientos farmacológicos y no farmacológicos adaptados a los condicionantes físicos y fisiológicos del paciente. Se incluyen los materiales para la aplicación de tratamientos con insulina y el seguimiento de los tratamientos con anticoagulantes orales en coordinación con atención especializada, conforme a la priorización y los protocolos de cada servicio de salud.
+
+2.2.2 Administración de tratamientos parenterales.
+
+2.2.3. Curas, suturas y tratamiento de úlceras cutáneas.
+
+2.2.4 Inmovilizaciones.
+
+2.2.5 Infiltraciones.
+
+2.2.6 Aplicación de aerosoles.
+
+2.2.7 Taponamiento nasal.
+
+2.2.8 Extracción de tapones auditivos.
+
+2.2.9 Extracción de cuerpos extraños.
+
+2.2.10 Cuidados de estomas digestivos, urinarios y traqueales.
+
+2.2.11 Aplicación y reposición de sondajes vesicales y nasogástricos.
+
+2.2.12 Resucitación cardiopulmonar.
+
+2.2.13 Terapias de apoyo y técnicas de consejo sanitario estructurado.
+
+2.2.14 Cirugía menor, que incluye la realización de procedimientos terapéuticos o diagnósticos de baja complejidad y mínimamente invasivos, con bajo riesgo de hemorragia, que se practican bajo anestesia local y que no requieren cuidados postoperatorios, en pacientes que no precisan ingreso, conforme a los protocolos establecidos y la organización propia de cada servicio de salud.
+
+> Se modifica el apartado 2.1 por el art. único.3 de la Orden SND/454/2025, de 9 de mayo. [Ref. BOE-A-2025-9277](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-9277)
+
+### 3. Actividades en materia de prevención, promoción de la salud, atención familiar y atención comunitaria
+
+Comprende las actividades de promoción de la salud, educación para la salud y prevención de la enfermedad que se realizan en el nivel de atención primaria, dirigidas a la persona, la familia, grupos específicos de personas y la comunidad, en colaboración y coordinación con otros niveles asistenciales o sectores implicados.
+
+Las actividades de promoción de la salud y prevención se prestan, tanto en el centro sanitario, como en el ámbito domiciliario y comunitario, en relación con las necesidades de salud y las fortalezas y recursos de la población de su ámbito geográfico.
+
+3.1 Promoción de la salud y prevención de la enfermedad:
+
+3.1.1 Promoción y educación para la salud: Comprende las actividades dirigidas a generar, potenciar e informar sobre comportamientos y estilos de vida saludables, así como a promover la alfabetización en salud y el cambio de conductas relacionadas con factores de riesgo de problemas de salud específicos y las orientadas a fomentar los factores de protección, el autocuidado, los cuidados, y la corresponsabilidad, incluyendo:
+
+a) Actividades de educación para la salud individual en las consultas de los centros de salud y en los domicilios sobre comportamientos relacionados con la salud o estilos de vida saludables, con enfoque biopsicosocial, salutogénico y de determinantes sociales, vinculadas a la recomendación de recursos comunitarios y activos para la salud.
+
+b) Actividades de educación para la salud grupales en los centros de salud y otros ámbitos de la comunidad, como los centros educativos, sobre comportamientos relacionados con la salud o estilos de vida saludables con enfoque biopsicosocial, salutogénico y de determinantes sociales, vinculadas a la recomendación de recursos comunitarios y activos para la salud.
+
+3.1.2 Actividades preventivas:
+
+a) Vacunaciones en todos los grupos de edad y, en su caso, grupos de riesgo, según el calendario de vacunación vigente aprobado por el Consejo Interterritorial del Sistema Nacional de Salud y las administraciones sanitarias competentes, así como aquellas que puedan indicarse, en población general o en grupos de riesgo, por situaciones que epidemiológicamente lo aconsejen.
+
+b) Indicación y administración, en su caso, de quimioprofilaxis antibiótica en los contactos y situaciones de riesgo de infección para los problemas infectocontagiosos que así lo requieran.
+
+c) Actividades para prevenir la aparición de enfermedades actuando sobre los factores de riesgo (prevención primaria) o para detectarlas en fase presintomática mediante cribado o diagnóstico precoz (prevención secundaria). El resto de actividades preventivas se incluyen de manera más específica en los correspondientes apartados de este anexo.
+
+3.2 Atención familiar: comprende la atención individual considerando el contexto familiar de las personas, así como la atención al entorno familiar. Incluye la identificación de la estructura familiar, las etapas del ciclo vital familiar, los acontecimientos vitales estresantes, las capacidades y fortalezas familiares, los sistemas de interacción en la familia y la detección de la disfunción familiar, teniendo en cuenta el contexto y los determinantes sociales.
+
+3.3 Atención comunitaria: comprende el conjunto de actuaciones con participación de la comunidad, orientadas a la detección y priorización de sus necesidades y problemas de salud, identificación de los recursos comunitarios y activos para la salud disponibles, priorización de las intervenciones y desarrollo y evaluación de acciones, con el objetivo de mejorar la salud y el bienestar de la comunidad y disminuir las desigualdades sociales en salud, en coordinación con los sectores y agentes implicados. Se incluye:
+
+a) Participación de profesionales de atención primaria en los consejos de salud/comisiones de salud comunitaria de la zona básica de salud, barrios u otra delimitación territorial de cercanía, y creación de dichas estructuras en el caso de que no existan. Si en esa delimitación territorial de cercanía existe otra estructura de coordinación en funcionamiento que cuente con participación ciudadana, como una mesa de coordinación intersectorial local, se optará por la participación de profesionales de Atención Primaria en dicha estructura.
+
+b) Establecimiento de mecanismos de participación ciudadana, de personas cuidadoras y pacientes.
+
+c) Participación de profesionales de Atención Primaria en acciones comunitarias y proyectos de salud comunitaria, apoyando, coliderando o liderando las iniciativas de las redes comunitarias y de promoción de la salud.
+
+d) Colaboración de profesionales de Atención Primaria en los procesos de identificación, mapeo, dinamización y recomendación de recursos comunitarios y activos para la salud, así como en su evaluación y seguimiento.
+
+e) Apoyo a acciones a nivel intersectorial que posibiliten mejoras en las condiciones de vida de la población.
+
+f) Coordinación del centro de salud con los centros educativos, apoyando la promoción de la salud en los centros educativos y las escuelas promotoras de salud.
+
+g) Coordinación con los diferentes ámbitos de atención en la prestación de servicios sanitarios y con otros sectores y agentes implicados, como salud pública, entidades locales, ciudadanía y asociaciones de pacientes, educación, servicios sociales, deporte, establecimientos sanitarios y otros agentes comunitarios, con el fin de mejorar la salud y el bienestar de la comunidad.
+
+> Se modifica por el art. único.4 de la Orden SND/454/2025, de 9 de mayo. [Ref. BOE-A-2025-9277](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-9277)
+
+### 4. Actividades de información y vigilancia en la protección de la salud.
+
+Comprende las siguientes actividades:
+
+4.1 Información para el análisis y valoración de la situación de salud de la comunidad y para la evaluación de los servicios sanitarios.
+
+4.2 Vigilancia en salud pública, que incluye:
+
+4.2.1 Participar y colaborar en mantener operativos los sistemas de vigilancia en salud pública y sistemas de alerta precoz, preparación y respuesta necesarios ante la aparición de brotes y situaciones epidémicas, alertas y emergencias de salud pública detallados en el anexo I, apartado 1.2.1 y 1.2.2.
+
+De conformidad con lo previsto en la Ley 33/2011, de 4 de octubre, General de Salud Pública, desde el nivel de atención primaria se proporcionará a las administraciones sanitarias responsables de la vigilancia en salud pública los datos y la información que establezcan las normativas autonómica, nacional e internacional en materia de vigilancia en salud pública con la desagregación, formato y tiempo establecido por la autoridad sanitaria en cada nivel territorial, asegurando la confidencialidad y la interoperabilidad que en cada caso se determine.
+
+Se comunicará asimismo de forma urgente la información relevante y disponible sobre situaciones de riesgo para la salud pública siguiendo los criterios incluidos en las normativas autonómicas, nacional e internacional.
+
+4.2.2 Participar en las actividades de control derivadas de la vigilancia y en la respuesta a las alertas de salud pública bajo la coordinación de las unidades responsables de la vigilancia en salud pública.
+
+4.2.3 Participar en redes centinelas, encuestas poblacionales de salud u otros estudios necesarios para la vigilancia de enfermedades y otros problemas de salud o determinantes de la salud, según determinen los servicios de salud pública.
+
+4.2.4 Participar en el desarrollo e implantación de planes y programas de salud pública, así como en las acciones derivadas de la vigilancia.
+
+4.2.5 Participación en el sistema de farmacovigilancia, mediante la comunicación de efectos adversos.
+
+4.2.6 Mantener la capacitación y formación en vigilancia en salud pública de los profesionales de atención primaria.
+
+4.2.7 Desarrollar, adecuar y adoptar las tecnologías de la información y la comunicación necesarias para que los sistemas de vigilancia obtengan y compartan información de calidad en tiempo oportuno, teniendo en cuenta lo establecido en Estrategia de Salud Digital del Sistema Nacional de Salud. Toda herramienta de salud digital dirigida a la ciudadanía deberá cumplir, desde su diseño y en sus sucesivas actualizaciones, con las normativas vigentes en materia de accesibilidad universal.
+
+> Se modifica por el art. 1.5 de la Orden SND/356/2026, de 13 de abril. [Ref. BOE-A-2026-8592](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8592)
+
+### 5. Rehabilitación básica
+
+Comprende las actividades de educación, prevención y rehabilitación que son susceptibles de realizarse en el ámbito de atención primaria, en régimen ambulatorio, previa indicación médica y de acuerdo con los programas de cada servicio de salud, incluyendo la asistencia domiciliaria si se considera necesaria por circunstancias clínicas o por limitaciones en la accesibilidad. Incluye:
+
+5.1 Prevención del desarrollo o de la progresión de trastornos musculoesqueléticos.
+
+5.2 Tratamientos fisioterapéuticos para el control de síntomas y mejora funcional en procesos crónicos musculoesqueléticos.
+
+5.3 Recuperación de procesos agudos musculoesqueléticos leves.
+
+5.4 Tratamientos fisioterapéuticos en trastornos neurológicos.
+
+5.5 Fisioterapia respiratoria.
+
+5.6 Orientación/formación sanitaria al paciente o cuidador/a, en su caso.
+
+### 6. Atenciones y servicios específicos relativos a la mujer, la infancia, la adolescencia, los adultos, la tercera edad, los grupos de riesgo y los enfermos crónicos
+
+Comprende, además de lo ya indicado con carácter general, las actividades asistenciales, diagnósticas, terapéuticas y de rehabilitación, así como aquellas de promoción de la salud, educación sanitaria y prevención de la enfermedad, que se realizan en el nivel de atención primaria, en aplicación de los protocolos y programas de atención específicos de los distintos grupos de edad, sexo y grupos de riesgo.
+
+Las actividades dirigidas a grupos de riesgo se prestan tanto en el centro sanitario como en el ámbito domiciliario o comunitario, dentro de los programas establecidos por cada servicio de salud, en relación con las necesidades de salud de la población a la que atienden.
+
+6.1 Servicios de atención a la infancia.
+
+6.1.1 Valoración del estado nutricional, del desarrollo pondo-estatural y del desarrollo psicomotor.
+
+6.1.2 Prevención de la muerte súbita infantil.
+
+6.1.3 Consejos generales sobre desarrollo del niño, hábitos nocivos y estilos de vida saludables.
+
+6.1.4 Educación sanitaria y prevención de accidentes infantiles.
+
+6.1.5 Orientación anticipada para la prevención y detección de los problemas de sueño y de esfínteres.
+
+6.1.6 Detección de los problemas de salud, con presentación de inicio en las distintas edades, que puedan beneficiarse de una detección temprana en coordinación con atención especializada, a través de las actividades encaminadas a:
+
+a) Detección precoz de metabolopatías. En el caso del cribado neonatal poblacional de enfermedades endocrino-metabólicas se realizará de acuerdo con lo recogido en el apartado 3.3.1 del anexo I.
+
+b) Detección de hipoacusia, displasia de articulación de cadera, criptorquidia, estrabismo, problemas de visión, problemas del desarrollo puberal, obesidad, autismo, trastornos por déficit de atención e hiperactividad.
+
+c) Detección y seguimiento del niño con discapacidades físicas y psíquicas.
+
+d) Detección y seguimiento del niño con patologías crónicas.
+
+6.2 Servicios de atención a la adolescencia.
+
+6.2.1 Anamnesis y consejo sobre hábitos que comporten riesgos para la salud, como el uso de tabaco, alcohol y sustancias adictivas, incluyendo la prevención de los accidentes.
+
+6.2.2 Valoración y consejo en relación a la conducta alimentaria y a la imagen corporal.
+
+6.2.3 Promoción de conductas saludables en relación a la sexualidad, evitación de embarazos no deseados y enfermedades de transmisión sexual.
+
+6.3 Servicios de atención a la mujer.
+
+6.3.1 Detección de grupos de riesgo y diagnóstico precoz de cáncer ginecológico y de mama de manera coordinada y protocolizada con atención especializada, según la organización del correspondiente servicio de salud. En el caso del cribado de cáncer de mama y de cérvix se tendrán en cuenta los criterios que se recogen en los apartados 3.3.2.1 y 3.3.2.3 del anexo I.
+
+6.3.2 Indicación y seguimiento de métodos anticonceptivos no quirúrgicos y asesoramiento sobre otros métodos anticonceptivos e interrupción voluntaria del embarazo.
+
+6.3.3 Atención al embarazo y puerperio:
+
+a) Captación de la mujer embarazada en el primer trimestre de gestación y detección de los embarazos de riesgo. En el caso del cribado prenatal de anomalías cromosómicas y de enfermedades infecciosas se realizará de acuerdo con lo recogido en el apartado 3.3.4 del anexo I.
+
+b) Seguimiento del embarazo normal, de manera coordinada y protocolizada con atención especializada, según la organización del correspondiente servicio de salud.
+
+c) Educación maternal, incluyendo el fomento de la lactancia materna, la prevención de incontinencia urinaria y la preparación al parto.
+
+d) Visita puerperal en el primer mes del posparto para valoración del estado de salud de la mujer y del recién nacido.
+
+6.3.4 Prevención, detección y atención a los problemas de la mujer en el climaterio.
+
+6.4 Atención al adulto, grupos de riesgo y enfermos crónicos: Comprende, en general, la valoración del estado de salud y de factores de riesgo, los consejos sobre estilos de vida saludables, la detección de los problemas de salud y valoración de su estadio clínico, la captación del paciente para el seguimiento clínico adecuado a su situación, la atención y seguimiento de personas polimedicadas y con pluripatología y la información y consejo sanitario sobre su enfermedad y los cuidados precisos al paciente y cuidador/a, en su caso.
+
+Y en particular:
+
+6.4.1 Atención sanitaria protocolizada de pacientes con problemas de salud crónicos y prevalentes:
+
+a) Diabetes mellitus, incluyendo el suministro al paciente diabético del material necesario para el control de su enfermedad.
+
+b) Enfermedad pulmonar obstructiva crónica y asma bronquial.
+
+c) Hipercolesterolemia.
+
+d) Hipertensión arterial.
+
+e) Insuficiencia cardiaca crónica.
+
+f) Cardiopatía isquémica.
+
+g) Obesidad.
+
+h) Problemas osteoarticulares crónicos o dolor crónico musculoesquelético.
+
+6.4.2 Atención de personas con VIH+ y enfermedades de transmisión sexual con el objeto de contribuir al seguimiento clínico y mejora de su calidad de vida y evitar las prácticas de riesgo.
+
+6.4.3 Atención domiciliaria a pacientes inmovilizados, que comprende:
+
+a) Valoración integral de las necesidades del paciente, incluyendo las causas de su inmovilización.
+
+b) Establecimiento de un plan de cuidados, médicos y de enfermería, que incluya medidas preventivas, instrucciones para el correcto seguimiento del tratamiento, recomendaciones higiénico-dietéticas, control de los síntomas y cuidados generales, así como la coordinación con los servicios sociales.
+
+c) Acceso a los exámenes y procedimientos diagnósticos no realizables en el domicilio del paciente.
+
+d) Realización y seguimiento de los tratamientos o procedimientos terapéuticos que necesite el paciente.
+
+e) Información y asesoramiento a las personas vinculadas al paciente, especialmente al cuidador/a principal.
+
+6.4.4 Atención a personas con conductas de riesgo:
+
+a) Atención a fumadores y apoyo a la deshabituación de tabaco. Incluye la valoración del fumador, la información sobre riesgos, el consejo de abandono y el apoyo sanitario y, en su caso, la intervención con ayuda conductual individualizada.
+
+b) Atención al consumidor excesivo de alcohol. Incluye la detección y cuantificación del consumo y frecuencia de la ingesta, la valoración de la dependencia, el consejo de limitación o eliminación de consumo, la valoración de patologías provocadas por el consumo y la oferta de asistencia sanitaria para abandono en caso necesario.
+
+c) Atención a otras conductas adictivas. Incluye la detección, la oferta de apoyo sanitario especializado, si se precisa, para abandono de la dependencia y la prevención de enfermedades asociadas.
+
+6.4.5 Detección precoz y abordaje integrado de los problemas de salud derivados de las situaciones de riesgo o exclusión social, como menores en acogida, minorías étnicas, inmigrantes u otros.
+
+6.4.6 Detección precoz de cáncer colorrectal de manera coordinada y protocolizada con atención especializada, según los criterios que se recogen en el apartado 3.3.2.2 del anexo I.
+
+6.5 Atención a las personas mayores.
+
+6.5.1 Actividades de promoción y prevención en relación a:
+
+a) Alimentación saludable y ejercicio físico.
+
+b) Identificación de conductas de riesgo.
+
+c) Prevención de caídas y otros accidentes.
+
+d) Detección precoz del deterioro cognitivo y funcional.
+
+e) Detección precoz del deterioro físico, con especial énfasis en el cribado de hipoacusia, déficit visual e incontinencia urinaria.
+
+f) Consejo y seguimiento del paciente polimedicado y con pluripatología.
+
+6.5.2 Detección y seguimiento del anciano de riesgo, según sus características de edad, salud y situación sociofamiliar.
+
+6.5.3 Atención al anciano de riesgo: Valoración clínica, sociofamiliar y del grado de dependencia para las actividades de la vida diaria. Esta valoración conlleva la elaboración de un plan integrado de cuidados sanitarios y la coordinación con atención especializada y los servicios sociales, con la finalidad de prevenir y atender la discapacidad y la comorbilidad asociada.
+
+6.5.4 Atención domiciliaria a personas mayores inmovilizadas, incluyendo información, consejo sanitario, asesoramiento y apoyo a las personas vinculadas al paciente, especialmente al cuidador/a principal.
+
+6.6 Detección y atención a la violencia de género y malos tratos en todas las edades, especialmente en menores, ancianos y personas con discapacidad.
+
+6.6.1 Detección de situaciones de riesgo.
+
+6.6.2 Anamnesis, y en su caso exploración, orientada al problema en las situaciones de riesgo y ante sospecha de malos tratos.
+
+6.6.3 Comunicación a las autoridades competentes de aquellas situaciones que lo requieran, especialmente en el caso de sospecha de violencia de género o de malos tratos en menores, ancianos y personas con discapacidad y, si procede, a los servicios sociales.
+
+6.6.4 Establecimiento de un plan de intervención adaptado a cada caso.
+
+> Se modifica el apartado 6.3.3.a) por el art. 1.2 de la Orden SND/606/2024, de 13 de junio. [Ref. BOE-A-2024-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12290)
+
+> Se modifican los apartados 6.1.6.a), 6.3.1 y se añade el 6.4.6 por el art. único.2.1 a 3 de la Orden SSI/2065/2014, de 31 de octubre. [Ref. BOE-A-2014-11444](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11444).
+
+### 7. Atención paliativa a enfermos terminales
+
+Comprende la atención integral, individualizada y continuada de personas con enfermedad en situación avanzada, no susceptible de recibir tratamientos con finalidad curativa y con una esperanza de vida limitada (en general, inferior a 6 meses), así como de las personas a ellas vinculadas. Su objetivo terapéutico es la mejora de su calidad de vida, con respeto a su sistema de creencias, preferencias y valores.
+
+Esta atención, especialmente humanizada y personalizada, se presta en el domicilio del paciente o en el centro sanitario, si fuera preciso, estableciendo los mecanismos necesarios para garantizar la continuidad asistencial y la coordinación con otros recursos y de acuerdo con los protocolos establecidos por el correspondiente servicio de salud. Incluye:
+
+7.1 Identificación de los enfermos en situación terminal según los criterios diagnósticos y la historia natural de la enfermedad.
+
+7.2 Valoración integral de las necesidades de pacientes y cuidadores/as y establecimiento de un plan de cuidados escrito que incluya medidas preventivas, recomendaciones higiénico-dietéticas, control de los síntomas y cuidados generales.
+
+7.3 Valoración frecuente y control de síntomas físicos y psíquicos, indicando el tratamiento farmacológico y no farmacológico del dolor y de otros síntomas. Información y apoyo al paciente en las distintas fases del proceso.
+
+7.4 Información, consejo sanitario, asesoramiento y apoyo a las personas vinculadas al paciente, especialmente al cuidador/a principal.
+
+7.5 En las situaciones que lo precisen, y particularmente en los casos complejos, se facilita la atención por estructuras de apoyo sanitario y/o social o por servicios especializados, tanto en consultas como en el domicilio del paciente o mediante internamiento, en su caso.
+
+### 8. Atención a la salud mental en coordinación con los servicios de atención especializada
+
+Incluye:
+
+8.1 Actividades de prevención y promoción, consejo y apoyo para el mantenimiento de la salud mental en las distintas etapas del ciclo vital.
+
+8.2 Detección, diagnóstico y tratamiento de trastornos adaptativos, por ansiedad y depresivos, con derivación a los servicios de salud mental en caso de quedar superada la capacidad de resolución del nivel de atención primaria.
+
+8.3 Detección de conductas adictivas, de trastornos del comportamiento y de otros trastornos mentales y de reagudizaciones en trastornos ya conocidos, y, en su caso, su derivación a los servicios de salud mental.
+
+8.4 Detección de psicopatologías de la infancia/adolescencia, incluidos los trastornos de conducta en general y alimentaria en particular, y derivación en su caso al servicio especializado correspondiente.
+
+8.5 Seguimiento de forma coordinada con los servicios de salud mental y servicios sociales de las personas con trastorno mental grave y prolongado.
+
+### 9. Atención a la salud bucodental
+
+Comprende el conjunto de actividades diagnósticas, terapéuticas y de prevención de la enfermedad, así como aquellas de promoción y de educación para la salud, dirigidas a la mejora de la salud bucodental de la población.
+
+Los equipos o unidades de salud bucodental estarán formados por odontólogos, estomatólogos, técnicos superiores en higiene bucodental y/o técnicos auxiliares en cuidados de enfermería que desarrollarán sus actuaciones de acuerdo a con las competencias profesionales reguladas en la normativa vigente.
+
+Estos equipos actuarán de manera coordinada y protocolizada con el resto de profesionales del Sistema Nacional de Salud de acuerdo con la organización de cada servicio de salud, y además desarrollarán, junto con otros recursos y apoyos, acciones comunitarias para la salud.
+
+La atención a la salud bucodental en atención primaria tiene el siguiente contenido:
+
+9.1 A toda la población se le ofrecerán las siguientes actuaciones:
+
+a) Información y difusión, con perspectiva de curso de vida, sobre las medidas básicas higiénicas y dietéticas necesarias para alcanzar y mantener la salud bucodental, junto con instrucciones y recomendaciones sanitarias individualizadas.
+
+b) Consejo odontológico.
+
+c) Tratamiento de procesos agudos odontológicos, entendiendo por tales los procesos infecciosos y/o inflamatorios que afectan al área bucodental, traumatismos oseodentarios, heridas y lesiones en la mucosa oral, así como la patología aguda de la articulación témporo-mandibular.
+
+d) Tratamiento farmacológico de la patología bucodental que lo requiera.
+
+e) Exodoncias, exodoncias quirúrgicas y cirugía menor de la cavidad oral.
+
+f) Detección precoz de lesiones premalignas y, en su caso, biopsia de lesiones mucosas.
+
+g) Educación sanitaria para la autoexploración de la cavidad oral en la búsqueda de lesiones de sospecha de malignidad.
+
+9.2 Adicionalmente, a la población infantil y juvenil desde el nacimiento hasta los 14 años, inclusive, se le facilitarán, cuando estén indicadas, las siguientes actuaciones:
+
+a) Revisión periódica del estado de salud bucodental, que incluirá exploración radiográfica cuando esté indicada.
+
+b) Determinación del riesgo individual de caries, especialmente en los dos primeros años de vida, para establecer la periodicidad de las revisiones y las medidas preventivas orientadas a reducir ese riesgo.
+
+c) Tanto en dentición temporal como definitiva:
+
+1.ª Aplicación de sustancias remineralizantes, antisépticas y/o desensibilizantes.
+
+2.ª Sellados de fosas y fisuras.
+
+3.ª Tartrectomía.
+
+d) En la dentición temporal, se aplicarán actuaciones de mínima intervención y medidas tendentes a frenar el proceso de lesión por caries.
+
+e) Para toda la dentición definitiva se incluyen obturaciones en lesiones que no asocien daño pulpar irreversible producidas por caries, traumatismo o por cualquier enfermedad que afecte a la estructura del diente.
+
+f) En el caso de lesiones por traumatismo en el grupo incisivo y canino definitivos, se incluyen también:
+
+1.ª Reubicación y estabilización de los dientes afectados del grupo anterior.
+
+2.ª Ferulización del grupo anterior y sutura de tejidos blandos, si es necesario.
+
+3.ª Tratamientos pulpares, si es necesario.
+
+9.3 Adicionalmente, a las mujeres embarazadas se les ofrecerán las siguientes actuaciones:
+
+a) Consejos para preservar la salud oral del futuro bebé.
+
+b) Exploración clínica para determinar su estado de salud bucodental y su riesgo tanto de caries como de enfermedad periodontal.
+
+c) Cuando esté indicado, tartrectomía y aplicación de sustancias remineralizantes, antisépticas y/o desensibilizantes.
+
+Las embarazadas realizarán al menos una visita odontológica, preferentemente durante el primer trimestre del embarazo, pudiendo ser derivadas a los equipos o unidades de salud bucodental por el personal sanitario o a demanda de la usuaria.
+
+9.4 Adicionalmente, a las personas mayores de 14 años con discapacidad superior o igual a un 33 %, tanto intelectual como limitante de la movilidad de los miembros superiores, que impida el correcto autocuidado necesario para alcanzar y mantener una adecuada salud bucodental, se les facilitará, cuando esté indicado por el riesgo que pueda comportar para el desarrollo de enfermedades bucodentales, según el criterio odontológico profesional, los tratamientos de odontología conservadora que contempla esta cartera en el apartado 9.2, al igual que para el conjunto de las demás actuaciones, en el medio más adecuado a sus características individuales.
+
+9.5 En el caso de personas que presenten alteraciones conductuales graves objetivables mediante diagnóstico médico y que no sean capaces de mantener el necesario autocontrol que permita una adecuada atención a su salud bucodental, se garantizará las prestaciones de los servicios, según el grupo al que pertenezca, mediante el correspondiente tratamiento sedativo o de anestesia general, de acuerdo con los protocolos que se establezcan con los equipos de atención hospitalaria.
+
+9.6 Adicionalmente, a las personas diagnosticadas de procesos oncológicos del territorio cervicofacial se les ofrecerán las siguientes actuaciones:
+
+a) Exploración clínica para determinar su estado de salud oral y las necesidades preventivas y terapéuticas que puedan ser necesarias para la prevención de lesiones orales derivadas del tratamiento oncológico de radio o quimioterapia.
+
+b) Cuando esté indicado, aplicación de sustancias remineralizantes, antisépticas y/o desensibilizantes, previa tartrectomía si fuera necesario para que el tratamiento anterior sea efectivo.
+
+9.7 Se consideran excluidos de la atención a la salud bucodental los siguientes tratamientos:
+
+a) Obturaciones definitivas y tratamientos pulpares en la dentición temporal.
+
+b) Tratamientos pulpares en la dentición definitiva, excepto lo señalado en el apartado 9.2 f).
+
+c) Tratamientos ortodóncicos.
+
+d) Exodoncias de dientes sanos por indicación exclusivamente ortodóncica.
+
+e) Tratamientos con finalidad exclusivamente estética.
+
+f) Implantes dentarios y prótesis dentales, salvo los incluidos en la cartera de servicios comunes de prestación ortoprotésica.
+
+g) Realización de pruebas complementarias para fines distintos de las prestaciones contempladas como financiables por el Sistema Nacional de Salud en esta norma.
+
+> Se modifican los apartados 9.4 y 9.5 por el art. único.5 de la Orden SND/454/2025, de 9 de mayo. [Ref. BOE-A-2025-9277](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-9277)
+
+> Se modifica por el art. 1.3 de la los Orden SND/606/2024, de 13 de junio. [Ref. BOE-A-2024-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12290)
+
+> Se modifica el apartado 9.5.5 por el art. 2.1 de la Orden SSI/1356/2015, de 2 de julio. [Ref. BOE-A-2015-7629](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7629).
+
+## ANEXO III — Cartera de servicios comunes de atención especializada
+
+La atención especializada comprende las actividades asistenciales, diagnósticas, terapéuticas y de rehabilitación y cuidados, así como aquellas de promoción de la salud, educación sanitaria y prevención de la enfermedad, cuya naturaleza aconseja que se realicen en este nivel. La atención especializada garantizará la continuidad de la atención integral al paciente, una vez superadas las posibilidades de la atención primaria y hasta que aquél pueda reintegrarse en dicho nivel.
+
+Estas actividades, realizadas por equipos interdisciplinares, tienen como apoyo, conforme a las normas de organización, funcionamiento y régimen de los servicios de salud, los servicios comprendidos en el apartado 5.
+
+La actividad asistencial puede prestarse en modalidad presencial o no presencial.
+
+La elección de la modalidad de asistencia será la considerada más adecuada por el profesional sanitario en función del contexto clínico y características del paciente, garantizando la seguridad y la calidad de la atención. Se debe adaptar en función de las preferencias, necesidades, competencias digitales y diversidad de capacidades de los pacientes y cuidadores. Se debe garantizar la accesibilidad a la información y a la comunicación, así como el cumplimiento de la normativa vigente de seguridad y protección de datos personales.
+
+La atención de urgencia que se presta en los hospitales durante las veinticuatro horas del día, a pacientes que sufran una situación clínica aguda que obligue a una atención inmediata de los servicios del hospital, se lleva a cabo de acuerdo con lo establecido en el anexo IV. El acceso del paciente a la atención de urgencia hospitalaria se realiza por remisión del médico de atención primaria o especializada o por razones de urgencia o riesgo vital que puedan requerir medidas terapéuticas exclusivas del medio hospitalario.
+
+La atención especializada se presta, siempre que las condiciones del paciente lo permitan, en consultas externas y en hospital de día.
+
+La atención sanitaria especializada comprende:
+
+> Se modifica por el art. único.6 de la Orden SND/454/2025, de 9 de mayo. [Ref. BOE-A-2025-9277](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-9277)
+
+### 1. Asistencia especializada en consultas
+
+Comprende las actividades asistenciales, diagnósticas, terapéuticas y de rehabilitación, así como aquellas de promoción de la salud, educación sanitaria y prevención de la enfermedad, que se prestan en el nivel de atención especializada en régimen ambulatorio, incluyendo:
+
+1.1 Valoración inicial del paciente.
+
+1.2 Indicación y realización de exámenes y procedimientos diagnósticos.
+
+1.3 Indicación, realización y seguimiento de los tratamientos o procedimientos terapéuticos que necesite el paciente.
+
+1.4 Indicación y, en su caso, administración de medicación, nutrición parenteral o enteral, curas, material fungible y otros productos sanitarios que sean precisos. Como parte de los productos sanitarios se facilitará, siguiendo el correspondiente protocolo y aplicando un procedimiento que permita su reutilización, el lector ocular u otro sistema de comunicación para pacientes con trastornos neuromotores graves, con afectación severa de ambos miembros superiores e imposibilidad de comunicación oral y escrita, fundamentalmente pacientes con esclerosis lateral amiotrófica, trombosis de la arteria basilar, parálisis cerebral infantil, traumatismo craneoencefálico y mielinolisis pontina, con suficiente capacidad mental, intelectual, de aprendizaje y de control para su manejo de forma segura y eficaz.
+
+1.5 Indicación de ortoprótesis y su oportuna renovación, de acuerdo con lo establecido en el anexo VI de cartera de servicios comunes de prestación ortoprotésica.
+
+1.6 Información al alta conteniendo información diagnóstica y de los procedimientos realizados para facilitar el correcto seguimiento del paciente y la continuidad y la seguridad de la atención y de los cuidados.
+
+> Se modifica el apartado 1.4 por el art. 1.4 de la Orden SND/606/2024, de 13 de junio. [Ref. BOE-A-2024-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12290)
+
+> Se modifica el apartado 1.4, con efectos de 1 de julio de 2019, por el art. único.2 de la Orden SCB/480/2019, de 26 de abril. [Ref. BOE-A-2019-6277](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6277)
+
+### 2. Asistencia especializada en hospital de día, médico y quirúrgico
+
+Comprende las actividades asistenciales, diagnósticas, terapéuticas y de rehabilitación, destinadas a pacientes que requieren cuidados especializados continuados, incluida la cirugía mayor ambulatoria, que no precisan que el paciente pernocte en el hospital, incluyendo:
+
+2.1 Indicación y realización de exámenes y procedimientos diagnósticos.
+
+2.2 Indicación, realización y seguimiento de los tratamientos o procedimientos terapéuticos o de rehabilitación que necesite el paciente, incluida la cirugía ambulatoria y los tratamientos quimioterápicos a pacientes oncológicos.
+
+2.3 Cuidados de enfermería necesarios para la adecuada atención del paciente.
+
+2.4 Implantes y otras ortoprótesis y su oportuna renovación.
+
+2.5 Medicación, gases medicinales, transfusiones, curas, material fungible y otros productos sanitarios que sean precisos.
+
+2.6 Reanimación postquirúrgica y si procede, tras procedimientos diagnósticos invasivos.
+
+2.7 Nutrición parenteral o enteral.
+
+2.8 Si procede, alimentación, según la dieta prescrita.
+
+2.9 Información al alta con instrucciones para el correcto seguimiento del tratamiento y establecimiento de los mecanismos que aseguren la continuidad y la seguridad de la atención y de los cuidados.
+
+La indicación para la utilización de este recurso corresponde al facultativo especialista responsable de la asistencia al paciente.
+
+### 3. Hospitalización en régimen de internamiento
+
+Comprende la asistencia médica, quirúrgica, obstétrica y pediátrica o la realización de tratamientos o procedimientos diagnósticos, a pacientes que requieren cuidados continuados que precisan su internamiento, incluyendo:
+
+3.1 Indicación y realización de exámenes y procedimientos diagnósticos, incluido el examen neonatal.
+
+3.2 Indicación, realización y seguimiento de los tratamientos o procedimientos terapéuticos o intervenciones quirúrgicas que necesite el paciente, independientemente de que su necesidad venga o no causada por el motivo de su internamiento.
+
+3.3 Medicación, gases medicinales, transfusiones, curas, material fungible y otros productos sanitarios que sean precisos.
+
+3.4 Cuidados de enfermería necesarios para la adecuada atención del paciente.
+
+3.5 Implantes y otras ortoprótesis y su oportuna renovación.
+
+3.6 Cuidados intensivos o de reanimación, según proceda.
+
+3.7 Tratamiento de las posibles complicaciones que puedan presentarse durante el proceso asistencial.
+
+3.8 Tratamientos de rehabilitación, cuando proceda.
+
+3.9 Nutrición parenteral o enteral.
+
+3.10 Alimentación, según la dieta prescrita.
+
+3.11 Servicios hoteleros básicos directamente relacionados con la propia hospitalización.
+
+3.12 Información al alta con instrucciones para el correcto seguimiento del tratamiento y establecimiento de los mecanismos que aseguren la continuidad y la seguridad de la atención y de los cuidados.
+
+El acceso a la asistencia especializada en régimen de hospitalización se realiza por indicación del facultativo especialista o a través de los servicios de urgencia hospitalaria, cuando el paciente necesite previsiblemente cuidados especiales y continuados, no susceptibles de ser prestados de forma ambulatoria o a domicilio.
+
+### 4. Apoyo a la atención primaria en el alta hospitalaria precoz y, en su caso, hospitalización a domicilio
+
+Comprende las actividades diagnósticas y terapéuticas que han de ser llevadas a cabo de forma coordinada por atención primaria y especializada como consecuencia de procedimientos iniciados en el nivel de atención especializada y que ambos niveles, de forma consensuada, acuerden que pueden ser facilitadas a nivel domiciliario, de forma que se garantice la continuidad en la atención prestada al usuario tras el alta hospitalaria, conforme a los programas especiales establecidos y la organización propia de cada servicio de salud. En los casos en que el paciente se encuentre en una situación clínica que requiera de atención continuada y no presente una inestabilidad clínica que pudiera suponer un riesgo en su evolución, el servicio de salud podrá optar por la hospitalización a domicilio. Incluye:
+
+4.1 Valoración integral de las necesidades del paciente, previa al alta, que asegure la continuidad de la atención tras el alta.
+
+4.2 Establecimiento de un plan de cuidados que incluya medidas preventivas, instrucciones para el correcto seguimiento del tratamiento, recomendaciones higiénico-dietéticas, control de los síntomas y cuidados generales. Asimismo se deben establecer los mecanismos que aseguren la continuidad y seguridad de la atención.
+
+4.3 Acceso a los exámenes y procedimientos diagnósticos no realizables en el domicilio del paciente.
+
+4.4 Realización y seguimiento de los tratamientos o procedimientos terapéuticos que necesite el paciente.
+
+4.5 Indicación y, en su caso, administración de medicación, nutrición enteral o parenteral, curas, material fungible, ortoprótesis y otros productos sanitarios que sean precisos.
+
+4.6 Información y asesoramiento a las personas vinculadas al paciente, especialmente al cuidador/a principal.
+
+### 5. Indicación o prescripción, y la realización, en su caso, de procedimientos diagnósticos y terapéuticos
+
+En las modalidades descritas en apartados anteriores, la atención especializada comprende los procedimientos diagnósticos y terapéuticos que se recogen en los apartados 5.1, 5.2 y 5.3, indicados por el facultativo responsable de la atención del paciente en el Sistema Nacional de Salud, según la organización de los servicios de salud.
+
+Los implantes quirúrgicos necesarios para llevar a cabo las actividades de atención especializada están incluidos en el anexo VI de cartera de servicios comunes de prestación ortoprotésica.
+
+Se excluyen todos los procedimientos diagnósticos y terapéuticos con finalidad estética, que no guarden relación con accidente, enfermedad o malformación congénita, los tratamientos en balnearios y las curas de reposo.
+
+5.1 Técnicas y procedimientos precisos para el diagnóstico y tratamiento médico y quirúrgico de las siguientes patologías clasificadas según la Clasificación Internacional de Enfermedades:
+
+1\. Enfermedades infecciosas y parasitarias: Enfermedades infecciosas intestinales, tuberculosis, enfermedades bacterianas zoonósicas, otras enfermedades bacterianas, infección del virus de la inmunodeficiencia humana (incluyendo el tratamiento quirúrgico de la lipoatrofia facial asociada a VIH-SIDA realizado con grasa autóloga, si bien las administraciones sanitarias competentes podrán autorizar excepcionalmente la realización de este tratamiento mediante materiales sintéticos en pacientes, como los hemofílicos, en los que, previa justificación clínica, no pueda utilizarse la grasa), poliomielitis y otras enfermedades virales del sistema nervioso central no transmitidas por artrópodos, enfermedades virales acompañadas de exantema, enfermedades virales portadas por artrópodos, otras enfermedades debidas a virus y chlamydiae, rickettsiosis y otras enfermedades portadas por artrópodos, sífilis y otras enfermedades venéreas, otras enfermedades espiroquetales, micosis, helmintiasis, otras enfermedades infecciosas y parasitarias y efectos tardíos de las enfermedades infecciosas y parasitarias.
+
+2\. Neoplasias: Neoplasia maligna de labio, cavidad oral y faringe, neoplasias malignas de los órganos digestivos y del peritoneo, neoplasia maligna de los órganos respiratorios e intratorácicos, neoplasia maligna de hueso, tejido conectivo, piel y mama (incluida la micropigmentación de la areola mamaria y del pezón como parte de la reconstrucción mamaria para mujeres mastectomizadas), neoplasia maligna de órganos genitourinarios, neoplasia maligna de otras localizaciones y de localizaciones no especificadas, neoplasia maligna de tejidos linfáticos y hematopoyéticos, neoplasias benignas, carcinoma in situ, neoplasias de evolución incierta y neoplasias de naturaleza no especificada.
+
+3\. Enfermedades endocrinas, de la nutrición y metabólicas y trastornos de la inmunidad: Trastornos de la glándula tiroidea, enfermedades de otras glándulas endocrinas, deficiencias nutritivas, otros trastornos metabólicos y de inmunidad (incluyendo los tratamientos de la obesidad mórbida y las bombas portátiles de infusión subcutánea continua de insulina reguladas en el apartado 3 y el anexo de la Orden SCO/710/2004, de 12 de marzo).
+
+4\. Enfermedades de la sangre y de los órganos hematopoyéticos: Anemias, defectos de coagulación, púrpura y otras condiciones hemorrágicas, enfermedades de glóbulos blancos y otras enfermedades de la sangre y los órganos hematopoyéticos.
+
+5\. Trastornos mentales, cuya atención se contempla en el apartado 7 de atención a la salud mental, incluyendo psicosis orgánicas, otras psicosis, trastornos neuróticos, trastornos de la personalidad y otros trastornos mentales no psicóticos y retraso mental.
+
+6\. Enfermedades del sistema nervioso y de los órganos de los sentidos: Enfermedades inflamatorias del sistema nervioso central, enfermedades hereditarias y degenerativas del sistema nervioso central, otros trastornos del sistema nervioso central, trastornos del sistema nervioso periférico, trastornos del ojo y de los anexos (incluida la terapia fotodinámica para prevenir la pérdida visual en pacientes con neovascularización coroidea subfoveal predominantemente clásica secundaria a degeneración macular asociada a la edad o a miopía patológica, de acuerdo con los protocolos de los servicios de salud y excluida la corrección de los defectos de refracción por medios optométricos y quirúrgicos) y enfermedades del oído y proceso mastoideo.
+
+7\. Enfermedades del sistema circulatorio: Fiebre reumática aguda, enfermedad cardiaca reumática crónica, enfermedad hipertensiva, cardiopatía isquémica, enfermedades de la circulación pulmonar, otras formas de enfermedad cardiaca, enfermedad cerebrovascular, enfermedades de las arterias, arteriolas y capilares y enfermedades de venas y linfáticos y otras enfermedades del aparato circulatorio.
+
+8\. Enfermedades del aparato respiratorio: Infecciones respiratorias agudas, otras enfermedades del tracto respiratorio superior (excluida la cirugía del ronquido salvo que se confirme síndrome de apnea obstructiva del sueño asociado a deformidades anatómicas en vías aéreas superiores o con alteraciones maxilofaciales), neumonía y gripe, enfermedad pulmonar obstructiva crónica y enfermedades asociadas, neumoconiosis y otras enfermedades pulmonares ocasionadas por agentes externos y otras enfermedades del aparato respiratorio.
+
+9\. Enfermedades del aparato digestivo: Enfermedades de la cavidad oral, glándulas salivares y maxilares en las que se requieran medios propios de la atención especializada, enfermedades del esófago, estómago y duodeno, apendicitis, hernia de la cavidad abdominal, enteritis y colitis no infecciosa, otras enfermedades del intestino y del peritoneo y otras enfermedades del aparato digestivo.
+
+10 Enfermedades del aparato genitourinario: Nefritis, síndrome nefrótico y nefrosis, otras enfermedades del aparato urinario, enfermedades de los órganos genitales masculinos, trastornos de mama, enfermedad inflamatoria de los órganos pélvicos femeninos y otros trastornos del tracto genital femenino.
+
+11 Complicaciones del embarazo; parto y puerperio: Embarazo ectópico y molar, otro embarazo con resultado abortivo (incluida la interrupción voluntaria del embarazo en los supuestos previstos en la legislación vigente), complicaciones principalmente relacionadas con el embarazo, parto normal (incluida la anestesia epidural, de acuerdo con los protocolos de los servicios de salud) y otras indicaciones para cuidados durante el embarazo, trabajo de parto y parto, complicaciones que se presentan principalmente durante el curso del parto y complicaciones del puerperio.
+
+12 Enfermedades de la piel y del tejido subcutáneo: Infecciones de la piel y del tejido celular subcutáneo, otros estados inflamatorios de la piel y de los tejidos subcutáneos y otras enfermedades de la piel y del tejido subcutáneo.
+
+13 Enfermedades del sistema osteo-mioarticular y tejido conectivo: Artropatías y trastornos relacionados, dorsopatías, reumatismo, osteopatías, condropatías y deformidades musculoesqueléticas adquiridas.
+
+14 Anomalías congénitas: Anencefalia y anomalías similares, espina bífida, otras anomalías congénitas del sistema nervioso, anomalías congénitas del ojo, anomalías congénitas de oído, cara y cuello, anomalías del bulbo arterioso y del cierre septal cardiaco, otras anomalías congénitas cardiacas y del aparato circulatorio, anomalías congénitas del aparato respiratorio, fisura del paladar y labio leporino, otras anomalías congénitas del aparato digestivo, anomalías congénitas de órganos genitales, anomalías congénitas del aparato urinario, deformidades musculoesqueléticas congénitas, otras anomalías congénitas de miembro, anomalías congénitas del tegumento, anomalías cromosómicas y otras anomalías congénitas.
+
+15 Enfermedades con origen en el periodo perinatal: Causas maternas de morbilidad y mortalidad perinatales y otras enfermedades con origen en el periodo perinatal.
+
+16 Lesiones y envenenamientos: Fracturas, luxaciones, esguinces y torceduras de articulaciones y músculos adyacentes, lesión intracraneal, lesión interna de tórax, abdomen y pelvis, heridas abiertas, lesión de vasos sanguíneos, efectos tardíos de lesiones, envenenamientos, efectos tóxicos y otras causas externas, lesión superficial, contusión con superficie cutánea intacta, lesión por aplastamiento, efectos de cuerpo extraño que entra a través de orificio, quemaduras, lesión de nervios y médula espinal, otras complicaciones traumáticas y lesiones no especificadas, envenenamiento por drogas, sustancias medicamentosas y sustancias biológicas, efectos tóxicos de sustancias primordialmente no medicamentosas con respecto a su origen, otros efectos y efectos no especificados de causas externas y complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otro concepto.
+
+5.2 Otros procedimientos diagnósticos y terapéuticos.
+
+5.2.1 Diagnóstico prenatal en grupos de riesgo.
+
+5.2.2 Diagnóstico por imagen:
+
+5.2.2.1 Radiología simple:
+
+a) Tórax.
+
+b) Abdomen.
+
+c) Radiología ósea.
+
+d) Densitometría, conforme a los programas de los servicios de salud.
+
+5.2.2.2 Mama:
+
+a) Mamografía.
+
+b) Intervencionismo de mama.
+
+5.2.2.3 Radiología convencional con contraste.
+
+5.2.2.4 Ultrasonidos:
+
+a) Ecografía.
+
+b) Ultrasonidos doppler.
+
+5.2.2.5 Tomografía computarizada (TC).
+
+5.2.2.6 Resonancia magnética (RM).
+
+5.2.3 Radiología intervencionista diagnóstica y terapéutica.
+
+5.2.4 Hemodinamia diagnóstica y terapéutica.
+
+5.2.5 Medicina nuclear diagnóstica y terapéutica, incluida la tomografía por emisión de positrones (PET), y combinada con el TC (PET-TC), en las indicaciones de los radiofármacos correspondientes incluidas en la prestación farmacéutica.
+
+5.2.6 Neurofisiología.
+
+5.2.7 Endoscopias. La cápsuloendoscopia se incluye sólo en la hemorragia digestiva de origen oscuro que persiste o recurre después de un estudio inicial de endoscopia negativo (colonoscopia y/o endoscopia alta) y previsiblemente localizada en el intestino delgado.
+
+5.2.8 Pruebas funcionales.
+
+5.2.9 Laboratorio:
+
+5.2.9.1 Anatomía patológica.
+
+5.2.9.2 Bioquímica.
+
+5.2.9.3 Genética. Los análisis genéticos se realizarán de acuerdo a lo señalado en el apartado 5.3.10.
+
+5.2.9.4 Hematología.
+
+5.2.9.5 Inmunología.
+
+5.2.9.6 Microbiología y parasitología.
+
+5.2.10 Biopsias y punciones.
+
+5.2.11 Radioterapia.
+
+5.2.12 Radiocirugía.
+
+5.2.13 Litotricia renal.
+
+5.2.14 Diálisis.
+
+5.2.15 Técnicas de terapia respiratoria, incluyendo las técnicas de terapia respiratoria a domicilio, reguladas por la Orden de 3 de marzo de 1999.
+
+5.2.16 Trasplantes de órganos, tejidos y células de origen humano:
+
+5.2.16.1 Órganos: Riñón, corazón, pulmón, hígado, páncreas, intestino, riñón-páncreas, corazón-pulmón y cualquier otra combinación de dos o más de estos órganos para la que exista una indicación clínica establecida.
+
+5.2.16.2 Tejidos y células: Células progenitoras hematopoyéticas procedentes de médula ósea, sangre periférica y sangre de cordón umbilical, en aquellos procesos en los que exista una indicación clínica establecida; tejidos del globo ocular (córnea, esclera y limbo corneal); membrana amniótica; homoinjertos valvulares; homoinjertos vasculares; tejidos musculoesqueléticos y piel; trasplante autólogo de condrocitos como tratamiento de segunda elección cuando haya fracasado una opción terapéutica previa en lesiones condrales de la articulación de la rodilla y en osteocondritis disecante; cultivos de queratinocitos y cultivos celulares para los que exista una indicación clínica establecida, de acuerdo al procedimiento contemplado para la actualización de la cartera de servicios comunes.
+
+En el caso concreto del trasplante de vivo, tanto si es de órganos sólidos como alotrasplante de progenitores hematopoyéticos (emparentado y no emparentado), el trasplante llevará asociada la atención relacionada con el proceso de la donación, así como sus posibles complicaciones.
+
+5.3 Otros servicios.
+
+5.3.1 Cuidados intensivos, incluyendo los neonatales.
+
+5.3.2 Anestesia y reanimación.
+
+5.3.3 Hemoterapia.
+
+5.3.4 Rehabilitación en pacientes con déficit funcional, recogida en el apartado 8 de este anexo.
+
+5.3.5 Nutrición y dietética, incluyendo los tratamientos con dietoterápicos complejos y la nutrición enteral domiciliaria, regulados en el anexo VII de cartera de servicios de prestación con productos dietéticos.
+
+5.3.6 Seguimiento del embarazo, de manera coordinada y protocolizada con la atención primaria, según la organización del correspondiente servicio de salud.
+
+5.3.7 Planificación familiar, que incluye:
+
+5.3.7.1 Asesoramiento genético en grupos de riesgo, según lo establecido en el apartado 5.3.10.
+
+5.3.7.2 Información, indicación y seguimiento de métodos anticonceptivos, incluidos los dispositivos intrauterinos.
+
+5.3.7.3 Realización de ligaduras de trompas y de vasectomías, de acuerdo con los protocolos de los servicios de salud, excluida la reversión de ambas.
+
+5.3.8 Los tratamientos de reproducción humana asistida (RHA) se realizarán con el fin de ayudar a conseguir la gestación en las situaciones recogidas en el apartado 5.3.8.1.a) o con un fin preventivo y en determinadas situaciones especiales.
+
+5.3.8.1 Los tratamientos de reproducción humana asistida tendrán la finalidad de ayudar a lograr la gestación en aquellas personas con imposibilidad de conseguirlo de forma natural, no susceptibles a tratamientos exclusivamente farmacológicos, o tras el fracaso de los mismos. También se podrá recurrir a estos procedimientos a fin de evitar enfermedades o trastornos genéticos graves en la descendencia y cuando se precise de un embrión con características inmunológicas idénticas a las de un hermano afecto de un proceso patológico grave, que no sea susceptible de otro recurso terapéutico. Para su realización en el ámbito del Sistema Nacional de Salud deberán cumplir los criterios generales de acceso a los tratamientos de RHA que se recogen en el apartado 5.3.8.2 y en su caso, los criterios específicos de cada técnica.
+
+a) Tratamientos de RHA con el fin de ayudar a conseguir la gestación a:
+
+1.º Las personas que se hayan sometido a un estudio de esterilidad y que se encuentren en alguna de las situaciones siguientes:
+
+i) Existencia de un trastorno documentado de la capacidad reproductiva, constatada tras el correspondiente protocolo diagnóstico y no susceptible de tratamiento médico o tras la evidente ineficacia del mismo.
+
+ii) Ausencia de consecución de embarazo tras un mínimo de 12 meses de relaciones sexuales con coito vaginal sin empleo de métodos anticonceptivos.
+
+2.º Mujeres sin pareja, personas transexuales que conservan la capacidad de gestar y mujeres lesbianas.
+
+b) Tratamientos de RHA con fin preventivo: Irán destinados a prevenir la transmisión de enfermedades o trastornos de base genética graves, o la transmisión o generación de enfermedades de otro origen graves, de aparición precoz, no susceptibles de tratamiento curativo posnatal con arreglo a los conocimientos científicos actuales, y que sean evitables mediante la aplicación de estas técnicas.
+
+c) Tratamientos de RHA en situaciones especiales: Se realizarán con los siguientes fines:
+
+1.º Selección embrionaria, con destino a tratamiento de terceros.
+
+2.º Preservación de gametos para uso autólogo diferido por indicación médica para preservar la fertilidad en situaciones asociadas a procesos especiales, de acuerdo a lo recogido en el apartado 5.3.8.3.d).
+
+5.3.8.2 Criterios generales de acceso a tratamientos de RHA: son aplicables a todas las técnicas de RHA que se realicen en el Sistema Nacional de Salud, salvo aquellos aspectos que se contemplan en los criterios específicos de cada una de ellas que prevalecerán sobre los generales.
+
+a) Los tratamientos de reproducción humana asistida se aplicarán en el ámbito del Sistema Nacional de Salud a las personas que cumplan los siguientes criterios o situaciones de inclusión:
+
+1.º Las mujeres o personas transexuales que conservan la capacidad de gestar serán mayores de 18 años y menores de 40 años y los hombres mayores de 18 años y menores de 55 años en el momento del inicio del estudio del paciente.
+
+2.º Personas sin ningún hijo, previo y sano. En caso de parejas, sin ningún hijo común, previo y sano.
+
+3.º La mujer o persona transexual que conserva la capacidad de gestar no presentará ningún tipo de patología en la que el embarazo pueda entrañarle un grave e incontrolable riesgo, tanto para su salud como para la de su posible descendencia.
+
+b) Los tratamientos de reproducción humana asistida no se aplicarán en el ámbito del Sistema Nacional de Salud a las personas que presenten alguno de los siguientes criterios o situaciones de exclusión:
+
+1.º Esterilización voluntaria previa.
+
+2.º Existencia de contraindicación médica documentada para el tratamiento de la esterilidad.
+
+3.º Existencia de contraindicación médica documentada para la gestación.
+
+4.º Existencia de situación médica documentada que interfiera de forma grave sobre el desarrollo de la descendencia.
+
+5.º Imposibilidad para cumplir el tratamiento por motivos relacionados con la salud u otros motivos familiares o relacionados con el entorno social.
+
+6.º Existencia de situación documentada referida a cualquier otra circunstancia que pueda interferir de forma grave sobre el desarrollo de la descendencia sometida a consideración de un comité de ética asistencial u órgano similar.
+
+c) En los casos en que se empleen gametos o preembriones donados, el donante deberá estar inscrito en el Registro nacional de donantes, debiendo consignarse la información correspondiente a que se refiere el artículo 21 de la Ley 14/2006, de 26 de mayo, sobre técnicas de reproducción humana asistida.
+
+5.3.8.3 Criterios específicos de acceso a cada una de las técnicas de RHA.
+
+a) Inseminación artificial.
+
+1.º Inseminación artificial con semen de la pareja: criterios de acceso específicos para esta técnica:
+
+i) Existencia de indicación terapéutica o personas transexuales que conservan la capacidad de gestar.
+
+ii) Edad de la mujer o persona transexual que conserva la capacidad de gestar en el momento del tratamiento inferior a 38 años.
+
+iii) Número máximo de ciclos: cuatro.
+
+2.º Inseminación artificial con gameto de donante: Su realización estará condicionada por la disponibilidad de gametos en el centro que la indique, bien a través del propio banco del centro o de un banco de gametos acreditado. Criterios de acceso específicos para esta técnica:
+
+i) Existencia de indicación terapéutica, mujeres sin pareja, personas transexuales que conservan la capacidad de gestar y mujeres lesbianas.
+
+ii) Edad de la mujer o persona transexual que conserva la capacidad de gestar en el momento de indicación del tratamiento inferior a 40 años.
+
+iii) Número máximo de ciclos: seis.
+
+b) Fecundación *in vitro:*se incluye la fecundación *in vitro*convencional o mediante técnicas de micromanipulación, y las técnicas de tratamiento y conservación de gametos y preembriones derivados de las mismas.
+
+1.º Fecundación *in vitro*con gametos propios: criterios de acceso específicos para esta técnica:
+
+i) Edad de la mujer o persona transexual que conserva la capacidad de gestar en el momento de indicación del tratamiento inferior a 40 años.
+
+ii) Ausencia de evidencias de mala reserva ovárica.
+
+iii) Límite máximo de ciclos de tratamiento: tres ciclos con estimulación ovárica. Este límite podrá reducirse en función del pronóstico, y en particular del resultado de los tratamientos previos.
+
+2.º Fecundación *in vitro*con gametos donados: su realización estará condicionada por la disponibilidad de gametos en el centro público que la indique, bien a través del propio banco del centro o de un banco de gametos acreditado.
+
+i) Con espermatozoides donados: criterios de acceso específicos para esta técnica:
+
+– Edad de la mujer o persona transexual que conserva la capacidad de gestar en el momento de la indicación del tratamiento inferior a 40 años.
+
+– Ausencia de evidencias de mala reserva ovárica.
+
+– Diagnóstico de esterilidad primaria o secundaria sin hijo sano, mujeres sin pareja, personas transexuales que conservan la capacidad de gestar y mujeres lesbianas.
+
+– Límite máximo de ciclos de tratamiento: tres ciclos con estimulación ovárica. Este límite podrá reducirse en función del pronóstico, y en particular de los tratamientos previos.
+
+ii) Con ovocitos donados: criterios de acceso específicos para esta técnica:
+
+– Edad de la mujer o persona transexual que conserva la capacidad de gestar en el momento de indicación del tratamiento: inferior a 40 años.
+
+– Fallo ovárico clínico prematuro espontáneo o yatrogénico.
+
+– Trastorno genético de la mujer o persona transexual que conserva la capacidad de gestar solo evitable mediante sustitución de ovocitos.
+
+– Ovarios inaccesibles o no abordables para la extracción de ovocitos.
+
+– Límite máximo de ciclos de tratamiento: Tres ciclos con recepción de ovocitos donados. Este límite podrá reducirse en función del pronóstico, y en particular del resultado de los tratamientos previos.
+
+c) Criopreservación de preembriones y su transferencia: Los preembriones criopreservados podrán ser transferidos para uso propio o podrán ser donados. En el caso de preembriones criopreservados para uso propio se aplicará el criterio específico de que las mujeres o personas transexuales que conservan la capacidad de gestar sean menores de 50 años en el momento de la transferencia, y en el de los preembriones criopreservados para ser donados se aplicarán los criterios generales de acceso a tratamientos de RHA.
+
+d) Criopreservación de gametos para uso propio diferido para preservar la fertilidad en situaciones asociadas a procesos especiales: criterios específicos:
+
+1.º Se realizará exclusivamente por indicación médica, no incluyéndose cuando sea únicamente a petición propia del paciente para uso diferido.
+
+2.º Se realizará en pacientes con posible riesgo de pérdida de su capacidad reproductiva asociada a exposición a tratamientos gametotóxicos o a procesos patológicos con riesgo acreditado de fallo ovárico prematuro o riesgo acreditado de fallo testicular primario.
+
+3.º Para la criopreservación de gametos para uso propio diferido no se aplicará el límite mínimo de edad de 18 años contemplado en el apartado 5.3.8.2.a).1.º
+
+4.º La transferencia de los gametos criopreservados se llevará a cabo en mujeres o personas transexuales que conservan la capacidad de gestar menores de 50 años, siempre y cuando no presenten ningún tipo de patología en la que el embarazo pueda entrañarle un grave e incontrolable riesgo, tanto para su salud como para la de su posible descendencia.
+
+e) Técnicas de lavado seminal para prevenir la transmisión de enfermedades virales crónicas: El lavado seminal se podrá aplicar a hombres seropositivos al virus de la hepatitis C o al VIH tanto en la asistencia a parejas estériles serodiscordantes con infección viral crónica, como en la prevención de la transmisión de infecciones virales crónicas en parejas sin diagnóstico de esterilidad.
+
+En el caso de parejas seroconcordantes, solo será preciso el lavado, no siendo necesario el posterior estudio de la presencia de partículas virales.
+
+Para la aplicación de los tratamientos y técnicas de reproducción humana asistida en estos casos se deberán cumplir los criterios generales, y en su caso, los específicos descritos en los correspondientes apartados de dichas técnicas.
+
+f) Diagnóstico genético preimplantacional (DGP): incluye:
+
+1.º DGP con finalidad de prevención de la transmisión de enfermedades o trastornos de origen cromosómico o genético graves, de aparición precoz y no susceptibles de tratamiento curativo con arreglo a los conocimientos científicos actuales, con objeto de llevar a cabo la selección embrionaria de los preembriones no afectos para su transferencia.
+
+i) Las situaciones que pueden dar lugar a DGP con finalidad preventiva son:
+
+– Enfermedades monogénicas susceptibles de diagnóstico genético preimplantatorio.
+
+– Anomalía cromosómica estructural o numérica materna o paterna.
+
+ii) El DGP se realizará con este fin cuando se cumplan los siguientes criterios específicos:
+
+– Exista alto riesgo de recurrencia de la enfermedad presente en la familia.
+
+– El trastorno genético genere graves problemas de salud, es decir, que la enfermedad de base genética comprometa la esperanza y/o calidad de vida por producir anomalías congénitas, discapacidad intelectual, sensorial o motora, no susceptibles de un tratamiento curativo con arreglo a los conocimientos científicos actuales.
+
+– El diagnóstico genético sea posible y fiable, e incluya un informe de asesoramiento genético donde se especifique el estatus genético de la persona, pareja o familia consultante en relación con la enfermedad y la identificación del gen implicado, la mutación responsable y la certeza de la relación fenotipo/genotipo.
+
+– Sea posible realizar un procedimiento de fecundación *in vitro/*inyección espermática intracitoplasmática (FIV-ICSI) con una respuesta adecuada tras estimulación ovárica controlada.
+
+– Se cumplan los criterios específicos para FIV con gametos propios.
+
+iii) Será necesario, además de los criterios anteriores, una autorización expresa de la autoridad sanitaria correspondiente, previo informe favorable de la Comisión Nacional de Reproducción Humana Asistida, cuando proceda, según lo establecido en el artículo 12.2 de la Ley 14/2006, de 26 de mayo.
+
+2.º DGP con fines terapéuticos a terceros: DGP en combinación con la determinación de los antígenos de histocompatibilidad HLA (antígeno leucocitario humano) de los preembriones *in vitro*para la selección del embrión HLA compatible.
+
+Los criterios específicos para acceder a esta técnica son:
+
+i) Mujeres o personas transexuales que conserven la capacidad de gestar con edad menor a 40 años en el momento de indicación del tratamiento con una reserva ovárica suficiente para el fin del tratamiento que se persigue.
+
+ii) Existencia de indicación reconocida, es decir, hijo previo afecto de enfermedad que precise tratamiento con precursores hematopoyéticos procedente de hermano histocompatible.
+
+iii) Autorización expresa de la autoridad sanitaria correspondiente, previo informe favorable de la Comisión Nacional de Reproducción Humana Asistida, según lo establecido en el artículo 12.2 de la Ley 14/2006, de 26 de mayo.
+
+iv) Límite máximo de ciclos de tratamiento: tres ciclos con estimulación ovárica y tres ciclos adicionales tras valoración clínica por el facultativo especialista o, en su caso, por la Comisión Nacional de Reproducción Humana Asistida de los resultados obtenidos en los tres ciclos iniciales. Este límite podrá reducirse en función del pronóstico, y en particular del resultado de los tratamientos previos.
+
+5.3.8.4 En los tratamientos de RHA, las pruebas que deban realizarse en el ámbito de dicho tratamiento al otro miembro de la pareja, serán facilitadas por la administración correspondiente a la de aseguramiento de la mujer o persona transexual que conserva la capacidad de gestar a la que se va a realizar la técnica de RHA. Se excluyen de lo previsto en este apartado, los tratamientos farmacológicos asociados a la técnica de RHA a los que haya de someterse el otro miembro de la pareja.
+
+5.3.9 Servicios de prevención.
+
+5.3.10 Atención a los pacientes y familiares en el área de las enfermedades de base genética que comprenderá los análisis genéticos o genómicos y el asesoramiento genético.
+
+5.3.10.1 La atención a los pacientes y familiares en el área de las enfermedades de base genética en el Sistema Nacional de Salud incluirá:
+
+a) El diagnóstico de enfermedades, trastornos de base genética o alteraciones farmacogenéticas, mediante la integración de la información clínica personal y familiar y la obtenida tras la realización de los estudios genéticos o genómicos.
+
+Se considera incluida la caracterización molecular con fin diagnóstico o pronóstico, así como para la toma de decisiones terapéuticas.
+
+b) La transmisión de información, de forma clara y comprensible, en formatos accesibles a las circunstancias de la persona, sobre la alteración genética y la enfermedad o trastorno subyacente, el riesgo de recurrencia, las consecuencias para el paciente y sus familiares y el asesoramiento sobre las posibilidades terapéuticas y de prevención pre y posnatal.
+
+c) La derivación de los pacientes y familiares a los distintos profesionales especializados y grupos de apoyo necesarios para el adecuado manejo de cada situación.
+
+5.3.10.2 El proceso de asesoramiento genético y de realización de análisis genéticos o genómicos con fines asistenciales deberá ser efectuado por personal cualificado y deberá llevarse a cabo en centros que dispongan de autorización sanitaria, incluyendo la oferta asistencial, de la comunidad autónoma donde estén ubicados, de acuerdo al Real Decreto 1277/2003, de 10 de octubre, por el que se establecen las bases generales sobre autorización de centros, servicios y establecimientos sanitarios, y la correspondiente normativa autonómica que regule esta materia. Así mismo, los centros podrán ser acreditados por la autoridad autonómica o estatal competente y deberán reunir los requisitos de calidad que reglamentariamente se establezcan.
+
+5.3.10.3 El asesoramiento genético es el procedimiento destinado a informar a una persona sobre las posibles consecuencias para ella o sus familiares de los resultados de un análisis genético o genómico y de sus beneficios, riesgos y limitaciones y, en su caso, para asesorar en relación con las posibles alternativas derivadas de dicho análisis. Este procedimiento tendrá lugar en las enfermedades o trastornos de base genética y potencialmente hereditarios tanto antes como después de una prueba genética o genómica e incluso en ausencia de las mismas.
+
+a) El asesoramiento genético tendrá como objetivo ayudar a la persona o familia a entender y adaptarse a las consecuencias médicas, psicológicas, familiares y sociales de una determinada enfermedad, trastorno genético o alteración de relevancia farmacogenética. Este proceso, que incluye la intervención de uno o más profesionales, consistirá en:
+
+1.º Interpretar los antecedentes médicos personales o familiares que permiten valorar el riesgo de ocurrencia o recurrencia de una enfermedad de base genética.
+
+2.º Informar sobre el posible tipo de herencia, los análisis genéticos o genómicos disponibles, así como de sus consecuencias clínicas y terapéuticas, la posibilidad de prevención o tratamiento y la disponibilidad y accesibilidad de recursos.
+
+3.º Ofrecer el apropiado asesoramiento, respetando el principio de autonomía de las personas para la toma de decisiones informadas.
+
+4.º Solicitar la firma del consentimiento informado previamente a la realización de cualquier análisis genético o genómico, tras explicar su validez y utilidad clínica, sus beneficios, riesgos y limitaciones, así como de los posibles resultados y de sus consecuencias clínicas y terapéuticas.
+
+b) El asesoramiento genético se realizará antes y después del estudio genético indicado, al menos, ante el diagnóstico, sospecha diagnóstica o antecedentes familiares de:
+
+1.º Anomalías cromosómicas o desequilibrios genómicos que ocasionan o pueden ocasionar defectos congénitos o hereditarios, dificultades graves de aprendizaje o problemas de fertilidad.
+
+2.º Enfermedades hereditarias de aparición prenatal, infantil y adulta.
+
+3.º Cánceres hereditarios o familiares.
+
+4.º Anomalías congénitas o del desarrollo.
+
+5.º Discapacidad intelectual u otros trastornos del neurodesarrollo con sospecha de base genética.
+
+6.º Trastornos de la fertilidad con sospecha de base genética.
+
+5.3.10.4 El análisis genético o genómico es un procedimiento destinado a identificar variantes genéticas o a detectar la presencia o ausencia de uno o varios segmentos de material genético. Se consideran incluidas también las pruebas indirectas para detectar un producto génico o un metabolito específico que sea indicativo de un cambio genético determinado.
+
+a) La indicación de los análisis genéticos o genómicos en las enfermedades o trastornos de base genética debe vincularse sistemáticamente al asesoramiento genético, respetando en todo momento la libre autonomía del individuo y requiriendo su consentimiento expreso y por escrito, una vez haya sido pertinentemente informado de los objetivos, posibilidades y limitaciones del análisis, así como de las posibles repercusiones de sus resultados a nivel individual y familiar, adoptando las medidas necesarias para garantizar el acceso a la información así como su comprensión. Las personas incapacitadas legalmente y los menores de edad participarán, atendidas sus circunstancias, con los apoyos precisos y según su edad y capacidades, en la toma de decisiones a lo largo del proceso, tal y como se recoge en la legislación vigente.
+
+b) En la realización de análisis genéticos o genómicos:
+
+1.º Se asegurará la protección de los derechos de las personas y del tratamiento de los datos de carácter personal de acuerdo con la legislación vigente.
+
+2.º Se llevarán a cabo con criterios de pertinencia, calidad, equidad y accesibilidad.
+
+3.º Solo podrán hacerse pruebas predictivas de enfermedades genéticas o que permitan identificar al sujeto como portador de alguna variante genética responsable de una enfermedad o detectar una predisposición o susceptibilidad genética a una determinada enfermedad, estimando el riesgo asociado con fines médicos y con un asesoramiento genético asociado, cuando esté indicado. También podrán realizarse para identificar las diferencias individuales en la respuesta a los fármacos y las interacciones genético-ambientales o para el estudio de las bases moleculares de las enfermedades.
+
+4.º En el caso de personas con discapacidad, la información y documentación que se facilite, así como la comunicación y la interacción durante el proceso de asesoramiento genético, deberán atender a los requerimientos de accesibilidad universal y diseño para todos.
+
+c) Los análisis genéticos o genómicos incluidos en la cartera común de servicios del Sistema Nacional de Salud deben cumplir los siguientes requisitos:
+
+1.º Tener validez analítica y clínica sustentada en la evidencia científica.
+
+2.º Ser de utilidad clínica: constituir un elemento esencial para el diagnóstico y pronóstico de la enfermedad, para la selección y seguimiento de tratamientos, así como para la toma de decisiones reproductivas. Todo ello siempre que el balance beneficio/riesgo sea favorable.
+
+3.º Haber sido valorados previamente en relación a las implicaciones éticas, sociales, legales, organizativas y económicas de su inclusión en la oferta asistencial pública.
+
+d) Los análisis genéticos se pueden realizar en personas sanas, enfermas, portadoras o en riesgo de padecer la enfermedad, sin considerar el tipo de tejido en el que se realizan e indistintamente de si se trata de alteraciones genéticas constitucionales o somáticas.
+
+e) Se incluirán en la cartera común básica de servicios asistenciales del Sistema Nacional de Salud aquellos análisis genéticos o genómicos que, cumpliendo los requisitos de validez analítica y clínica, utilidad clínica e impacto en la salud anteriormente expuestos, correspondan a alguno de los siguientes tipos de estudios y reúnan los criterios de indicación que a continuación se especifican:
+
+1.º Análisis genéticos o genómicos diagnósticos: Se realizan en personas con signos o síntomas de enfermedad y sirven para confirmar o descartar una enfermedad, trastorno o alteración de base genética. Para su realización se deberán cumplir los siguientes criterios de indicación:
+
+i) La persona presenta signos o síntomas sugestivos de una enfermedad o trastorno genético que puede ser diagnosticado mediante el análisis genético o genómico.
+
+ii) El diagnóstico genético de la enfermedad cumple al menos uno de los requisitos siguientes:
+
+– Implica un claro beneficio en el manejo clínico (diagnóstico, pronóstico, tratamiento o seguimiento) del paciente o de sus familiares.
+
+– Evita la realización de otros procedimientos diagnósticos o terapéuticos inapropiados.
+
+– Proporciona información clave para la toma de decisiones reproductivas del individuo o de sus familiares que pueden comprometer a su descendencia.
+
+2.º Análisis genéticos presintomáticos o predictivos: Se realizan en personas asintomáticas y sirven para determinar si presentan un riesgo elevado de desarrollar una determinada enfermedad. Para su realización se deberán cumplir los siguientes criterios de indicación:
+
+i) La persona pertenece a una familia o grupo poblacional de alto riesgo en los que se ha identificado la presencia de una enfermedad o trastorno genético, cuya alteración genética ha sido previamente caracterizada y puede ser identificada mediante un análisis genético.
+
+ii) Además, se cumple al menos uno de los requisitos siguientes:
+
+– El análisis genético o genómico permite un diagnóstico precoz o un tratamiento más temprano, cuando existan evidencias concluyentes de que el mismo se traduce en la disminución de la morbimortalidad de la enfermedad, en la previsión de una mejor respuesta terapéutica o en evitar efectos secundarios no deseables.
+
+– El diagnóstico genético de la enfermedad ayuda en la toma de decisiones reproductivas del individuo o de sus familiares que pueden comprometer a su descendencia.
+
+iii) En el caso de menores, el estudio genético presintomático o predictivo en enfermedades que aparecen en la edad adulta se deberá diferir hasta que la persona tenga la madurez y competencia necesaria para comprender la naturaleza e implicaciones de su decisión, salvo que existan medidas preventivas eficaces aplicables en la infancia. En enfermedades que aparecen en la infancia y que pueden ser prevenidas o tratadas adecuadamente, el análisis genético o genómico se deberá realizar lo más próximo posible al momento en el que se deben iniciar dichas medidas preventivas y/o terapéuticas.
+
+3.º Análisis genéticos de portadores: se realizan en personas con alto riesgo de transmisión de enfermedad a su descendencia, aunque en general tienen poca o ninguna consecuencia para la salud de esta persona, y sirven para determinar si la persona es portadora de una alteración genética hereditaria.
+
+El ámbito de este apartado se refiere al estudio de portadores en el contexto de sospecha diagnóstica o antecedentes familiares. En lo referente a cribados poblacionales incluidos en la cartera común de servicios del Sistema Nacional de Salud, se aplicará lo establecido en el anexo I, apartado 3.3 de este real decreto.
+
+Para su realización se deberán cumplir los siguientes criterios de indicación:
+
+i) La persona, debido a sus antecedentes personales o familiares, presenta un riesgo elevado de ser portador de una determinada enfermedad o trastorno genético cuya alteración genética se conoce y puede ser identificada mediante el correspondiente análisis genético o genómico.
+
+ii) El diagnóstico genético permite la toma de decisiones reproductivas de la persona o de sus familiares que pueden comprometer a su descendencia.
+
+iii) En el caso de menores, el estudio genético de portadores no se realizará hasta que el menor alcance la madurez y competencia necesarias para comprender la naturaleza de su decisión y sus implicaciones y sea, a su vez, capaz de dar su consentimiento.
+
+4.º Análisis genéticos o genómicos para diagnóstico prenatal: Se realizan en caso de un feto con alto riesgo de sufrir una determinada enfermedad o trastorno genético relacionado con su salud, anomalía cromosómica o molecular, cuando se cumplan los siguientes criterios de indicación:
+
+i) Antecedentes familiares de una enfermedad o trastorno genético con riesgo de recurrencia o existencia de marcadores ecográficos, biomarcadores o malformaciones indicativas de un defecto genético.
+
+ii) El análisis genético o genómico debe contribuir al manejo clínico de la gestación, del recién nacido o a la toma de decisiones reproductivas.
+
+5.º Análisis para el diagnóstico genético preimplantacional (DGP): Se realizan en:
+
+i) Preembriones con alto riesgo de padecer enfermedades o trastornos de base genética graves, de aparición precoz y no susceptibles de tratamiento curativo con arreglo a los conocimientos científicos actuales y servirá para identificar a los preembriones no afectos que serán transferidos mediante técnicas de reproducción humana asistida. La aplicación de las técnicas de diagnóstico preimplantacional en estos casos deberá comunicarse a la autoridad sanitaria correspondiente, que informará de ella a la Comisión Nacional de Reproducción Humana Asistida.
+
+ii) La aplicación de técnicas de diagnóstico preimplantacional para cualquiera otra finalidad no comprendida en el apartado anterior, o cuando se pretendan practicar en combinación con la determinación de los antígenos de histocompatibilidad de los preembriones *in vitro,*con fines terapéuticos para terceros, requerirá de la autorización expresa, caso a caso, de la autoridad sanitaria correspondiente, previo informe favorable de la Comisión Nacional de Reproducción Humana Asistida que deberá evaluar las características clínicas, terapéuticas y sociales de cada caso.
+
+Para la realización de los análisis para el diagnóstico genético preimplantacional se deberán cumplir los criterios de indicación que se recogen en el apartado f) del apartado 5.3.8.3.
+
+6.º Análisis de farmacogenética y farmacogenómica: Se realizan en personas que necesitan ser tratadas con determinados medicamentos incluidos en la prestación farmacéutica del Sistema Nacional de Salud y sirven para determinar la estrategia terapéutica, valorar la respuesta al tratamiento o evitar o minimizar los posibles efectos adversos en un individuo determinado.
+
+7.º Estudio genético o genómico en patologías, hereditarias o no, que puedan beneficiarse desde el punto de vista asistencial de la búsqueda de biomarcadores diagnósticos, pronósticos o predictivos de respuesta al tratamiento, de acuerdo con las directrices marcadas por los organismos reguladores o en ficha técnica.
+
+Todos estos servicios son prestados por las correspondientes unidades asistenciales, recogidas en el Real Decreto 1277/2003, de 10 de octubre, por el que se establecen las bases generales sobre autorización de centros, servicios y establecimientos sanitarios, autorizadas por las respectivas comunidades autónomas.
+
+5.3.10.5 La concreción, especificación y definición de las pruebas genéticas incluidas en la cartera común de servicios del Sistema Nacional de Salud se llevará a cabo por acuerdo del Consejo Interterritorial del Sistema Nacional de Salud, a propuesta de la Comisión de prestaciones, aseguramiento y financiación.
+
+Con el fin de garantizar la calidad en la prescripción de los análisis genéticos o genómicos, el responsable de la indicación deberá garantizar, siempre que se requiera, que se ha realizado un asesoramiento genético previo y que se ha firmado el correspondiente consentimiento informado. Además, deberán constar en la prescripción, como mínimo, los siguientes datos:
+
+1.º Responsable de la indicación: datos de identificación del facultativo (nombre completo, número de colegiado o código de identificación, centro sanitario y servicio).
+
+2.º Usuario: datos de identificación; fecha de nacimiento.
+
+3.º Orientación diagnóstica: Condición o patología que justifica la indicación, patologías concomitantes que influyan en la indicación u otra información clínica de interés.
+
+4.º Antecedentes personales y familiares.
+
+5.º Indicación: Fecha; tipo de análisis genético o genómico que se solicita.
+
+Las autoridades sanitarias competentes pondrán a disposición de los profesionales del Sistema Nacional de Salud la relación de centros que, cumpliendo los requisitos que se establezcan, puedan realizar los diferentes tipos de análisis genéticos o genómicos.
+
+> Se modifica por el art. 1.6 a 8 de la Orden SND/356/2026, de 13 de abril. [Ref. BOE-A-2026-8592](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8592)
+
+> Se modifican los apartados 5.2.5, 5.3.7.1, 5.3.8.2, 5.3.8.3, 5.3.8.4 y 5.3.10 por el art. 1.5 a 8 de la Orden SND/606/2024, de 13 de junio. [Ref. BOE-A-2024-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12290)
+
+> Se modifica el apartado 5.3.8 por el art. 1 de la Orden SND/1215/2021, de 5 de noviembre. [Ref. BOE-A-2021-18287](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18287)
+
+> Se modifica el apartado 5.1.2, con efectos de 1 de julio de 2019, por el art. único.3 de la Orden SCB/480/2019, de 26 de abril. [Ref. BOE-A-2019-6277](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6277)
+
+> Téngase en cuenta para su aplicación la disposición adicional 2 de la citada Orden.
+
+> Se modifica el apartado 5.1.1 por el art. 2.2 de la Orden SSI/1356/2015, de 2 de julio. [Ref. BOE-A-2015-7629](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7629).
+
+> Se modifican los apartados 5.2.9.3, 5.3.7.1, 5.3.8 y se añade el 5.3.10 por el art. único.3.1 a 4 de la Orden SSI/2065/2014, de 31 de octubre. [Ref. BOE-A-2014-11444](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11444).
+
+> Redactados los apartados 5.3.8.1.a).2.º y 5.3.10.4.e).5.º conforme a la corrección de errores de la citada norma, publicada en el BOE núm. 281, de 20 de noviembre de 2014. [Ref. BOE-A-2014-11989](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11989).
+
+> Se añade un párrafo al apartado 5.2.16 por el art. 1 de la Orden SPI/573/2011, de 11 de marzo. [Ref. BOE-A-2011-4884](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4884).
+
+> Se modifica el apartado 5.2.16.2 por el art. único de la Orden SAS/1904/2009, de 8 de julio. [Ref. BOE-A-2009-11816](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-11816)
+
+### 6. Atención paliativa a enfermos terminales
+
+Comprende la atención integral, individualizada y continuada, de personas con enfermedad en situación avanzada no susceptible de recibir tratamientos con finalidad curativa y con una esperanza de vida limitada (en general, inferior a 6 meses), así como de las personas a ellas vinculadas. Su objetivo terapéutico es la mejora de la calidad de vida, con respeto a su sistema de creencias, preferencias y valores.
+
+Esta atención, especialmente humanizada y personalizada, se presta en el domicilio del paciente o en el centro sanitario, si fuera preciso, estableciendo los mecanismos necesarios para garantizar la continuidad asistencial y la coordinación con otros recursos y de acuerdo con los protocolos establecidos por el correspondiente servicio de salud. Incluye:
+
+6.1 Identificación de los enfermos en situación terminal según los criterios diagnósticos y la historia natural de la enfermedad.
+
+6.2 Valoración integral de las necesidades de pacientes y cuidadores/as y establecimiento de un plan de cuidados escrito que incluya medidas preventivas, recomendaciones higiénico-dietéticas, control de los síntomas y cuidados generales.
+
+6.3 Valoración frecuente y control de síntomas físicos y psíquicos, realizando los exámenes y procedimientos diagnósticos necesarios e indicando el tratamiento farmacológico y no farmacológico del dolor y de otros síntomas. Información y apoyo al paciente en las distintas fases del proceso.
+
+6.4 Información, consejo sanitario, asesoramiento y apoyo a las personas vinculadas al paciente, especialmente al cuidador/a principal.
+
+### 7. Atención a la salud mental
+
+Comprende el diagnóstico y seguimiento clínico de los trastornos mentales, la psicofarmacoterapia, las psicoterapias individuales, de grupo o familiares (excluyendo el psicoanálisis y la hipnosis), la terapia electroconvulsiva y, en su caso, la hospitalización. La atención a la salud mental, que garantizará la necesaria continuidad asistencial, incluye:
+
+7.1 Actuaciones preventivas y de promoción de la salud mental en coordinación con otros recursos sanitarios y no sanitarios.
+
+7.2 Diagnóstico y tratamiento de trastornos mentales agudos y de las reagudizaciones de trastornos mentales crónicos, comprendiendo el tratamiento ambulatorio, las intervenciones individuales o familiares y la hospitalización cuando se precise.
+
+7.3 Diagnóstico y tratamiento de trastornos mentales crónicos, incluida la atención integral a la esquizofrenia, abarcando el tratamiento ambulatorio, las intervenciones individuales y familiares y la rehabilitación.
+
+7.4 Diagnóstico y tratamiento de conductas adictivas, incluidos alcoholismo y ludopatías.
+
+7.5 Diagnóstico y tratamiento de los trastornos psicopatológicos de la infancia/adolescencia, incluida la atención a los niños con psicosis, autismo y con trastornos de conducta en general y alimentaria en particular (anorexia/bulimia), comprendiendo el tratamiento ambulatorio, las intervenciones psicoterapéuticas en hospital de día, la hospitalización cuando se precise y el refuerzo de las conductas saludables.
+
+7.6 Atención a los trastornos de salud mental derivados de las situaciones de riesgo o exclusión social.
+
+7.7 Información y asesoramiento a las personas vinculadas al paciente, especialmente al cuidador/a principal.
+
+### 8. Rehabilitación en pacientes con déficit funcional.
+
+Comprende los procedimientos de diagnóstico, evaluación, prevención y tratamiento de pacientes con déficit funcional, encaminados a facilitarles, mantenerles o devolverles el mayor grado de capacidad funcional e independencia posible, con el fin de mantener su máxima autonomía, mejorar la calidad de vida y reintegrarles en su medio habitual.
+
+Se incluye la rehabilitación de las afecciones del sistema musculoesquelético, del sistema nervioso, del sistema cardiovascular y del sistema respiratorio, a través de fisioterapia, terapia ocupacional, logopedia que tenga relación directa con un proceso patológico que esté siendo tratado en el Sistema Nacional de Salud y métodos técnicos (ortoprótesis, reguladas en el anexo VI de cartera de servicios comunes de prestación ortoprotésica).
+
+> Se modifica por el art. 1.9 de la Orden SND/356/2026, de 13 de abril. [Ref. BOE-A-2026-8592](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8592)
+
+## ANEXO IV — Cartera de servicios comunes de prestación de atención de urgencia
+
+La atención de urgencia es aquella que se presta al paciente en los casos en que su situación clínica obliga a una atención sanitaria inmediata. Se dispensará tanto en centros sanitarios como fuera de ellos, incluyendo el domicilio del paciente y la atención in situ, durante las 24 horas del día, mediante la atención médica y de enfermería, y con la colaboración de otros profesionales.
+
+### 1. Acceso a la atención de urgencia
+
+El procedimiento y el modelo organizativo para la atención de urgencia serán establecidos por las administraciones sanitarias competentes, de manera que el acceso a la prestación se realice en el tiempo y lugar adecuados para facilitar una atención adaptada a las necesidades de cada paciente. La atención de urgencia se entiende como una atención integral y continua que se presta por atención primaria y especializada, y por los servicios específicamente dedicados a la atención urgente.
+
+La coordinación de los diferentes intervinientes en la atención de urgencia se realizará, a través de los teléfonos 112, 061 u otros, por los centros coordinadores de urgencias y emergencias sanitarias, que garantizarán, las 24 horas, la accesibilidad y la coordinación de los recursos disponibles para este tipo de atención.
+
+Asimismo se potenciará la coordinación de los servicios sanitarios en los planes de catástrofes y la colaboración con los servicios de urgencias y emergencias dependientes de distintas administraciones e instituciones, como Protección Civil, Cuerpos de Prevención y Extinción de Incendios, Cuerpos y Fuerzas de Seguridad del Estado u otras, en las situaciones que se precise.
+
+### 2. Contenido
+
+La cartera de servicios comunes de la prestación de atención de urgencia comprende:
+
+2.1 La atención telefónica, a través de los centros coordinadores de urgencias sanitarias, que incluye la regulación médica de la demanda asistencial asignando la respuesta más adecuada a cada urgencia sanitaria; la información y la orientación o consejo sanitario.
+
+2.2 La evaluación inicial e inmediata de los pacientes para determinar los riesgos para su salud y su vida y, en caso de ser necesaria, la clasificación de los mismos para priorizar la asistencia sanitaria que precisen. La evaluación puede completarse derivando a los pacientes a un centro asistencial si fuera necesario, para la realización de las exploraciones y procedimientos diagnósticos precisos para establecer la naturaleza y el alcance del proceso y determinar las actuaciones inmediatas a seguir para atender la situación de urgencia.
+
+2.3 La realización de los procedimientos diagnósticos precisos y de los procedimientos terapéuticos médico-quirúrgicos necesarios para atender adecuadamente cada situación de urgencia sanitaria.
+
+2.4 La monitorización, la observación y la reevaluación de los pacientes, cuando su situación así lo requiera.
+
+2.5 El transporte sanitario, terrestre, aéreo o marítimo, asistido o no asistido, según lo requiera la situación clínica de los pacientes, en los casos en que sea preciso para su adecuado traslado al centro sanitario que pueda atender de forma óptima la situación de urgencia.
+
+2.6 La información y asesoramiento a los pacientes o, en su caso, acompañantes, sobre la atención prestada y las medidas a adoptar al finalizar dicha atención, de acuerdo con la legislación vigente.
+
+2.7 Una vez atendida la situación de urgencia, se procederá al alta de los pacientes o a su derivación al nivel asistencial más adecuado y, cuando la gravedad de la situación así lo requiera, al internamiento hospitalario, con los informes clínicos pertinentes para garantizar la continuidad asistencial.
+
+2.8 La comunicación a las autoridades competentes de aquellas situaciones que lo requieran, especialmente en el caso de sospecha de violencia de género o de malos tratos en menores, ancianos y personas con discapacidad.
+
+## ANEXO V — Cartera de servicios comunes de prestación farmacéutica
+
+La prestación farmacéutica comprende los medicamentos y productos sanitarios y el conjunto de actuaciones encaminadas a que los pacientes los reciban de forma adecuada a sus necesidades clínicas, en las dosis precisas según sus requerimientos individuales, durante el período de tiempo adecuado y al menor coste posible para ellos y para la comunidad.
+
+Esta prestación se regirá por lo dispuesto en la Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios y demás disposiciones aplicables.
+
+### 1. Contenido
+
+1.1 En el caso de pacientes no hospitalizados, la prestación farmacéutica:
+
+1.1.1 Comprende la indicación, prescripción y dispensación de los siguientes productos:
+
+a) Los medicamentos para los que, de acuerdo con la normativa vigente, se resuelva su financiación y condiciones de dispensación en el Sistema Nacional de Salud y que hayan sido autorizados y registrados por la Agencia Española de Medicamentos y Productos Sanitarios o de acuerdo con lo dispuesto por las normas europeas que establecen los procedimientos comunitarios para la autorización y control de los medicamentos de uso humano.
+
+b) Los efectos y accesorios que dispongan del correspondiente marcado CE y para los que, de acuerdo con la normativa vigente, se resuelva su financiación y condiciones de dispensación en el Sistema Nacional de Salud.
+
+c) Las fórmulas magistrales y los preparados oficinales elaborados por las oficinas de farmacia de acuerdo con lo establecido en el Formulario Nacional y que cumplan las normas de la Real Farmacopea Española, así como la normativa vigente sobre las normas para su correcta elaboración y control de calidad, en las condiciones pactadas en los correspondientes conciertos suscritos entre las administraciones sanitarias autonómicas y las oficinas de farmacia.
+
+d) Las vacunas individualizadas antialérgicas y las vacunas individualizadas bacterianas, preparadas con agentes inmunizantes, a concentración y dilución específica en base a la correspondiente prescripción facultativa para un paciente determinado, de acuerdo con la normativa vigente.
+
+1.1.2 Excluye:
+
+a) Los productos de utilización cosmética, dietéticos, aguas minerales, elixires, dentífricos y otros productos similares.
+
+b) Los medicamentos objeto de publicidad dirigida al público.
+
+c) Los medicamentos adscritos a los grupos o subgrupos terapéuticos excluidos de la financiación por la normativa vigente.
+
+d) Los medicamentos homeopáticos.
+
+e) Los efectos y accesorios de los que se realice publicidad dirigida al público en general.
+
+1.2 En el caso de pacientes hospitalizados, la prestación farmacéutica comprende los productos farmacéuticos que necesiten los pacientes conforme se recoge en el anexo III correspondiente a la cartera de servicios comunes de atención especializada.
+
+> Se modifica el apartado 1.1.2 b) por el art. 4 del l Real Decreto 109/2010, de 5 de febrero. [Ref. BOE-A-2010-2696](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-2696)
+
+### 2. Indicación, prescripción y dispensación
+
+La prestación farmacéutica se ha de proporcionar de acuerdo con criterios que promuevan el uso racional de los medicamentos.
+
+De conformidad con la legislación vigente, los médicos, farmacéuticos y demás profesionales sanitarios legalmente capacitados son los responsables, en el ejercicio de su correspondiente actuación profesional vinculada al Sistema Nacional de Salud, de la indicación, prescripción, dispensación o del seguimiento de los tratamientos, en las dosis precisas y durante el periodo de tiempo adecuado, de acuerdo con la situación clínica de cada paciente.
+
+La prescripción de los medicamentos y demás productos incluidos en la prestación farmacéutica, en el caso de su dispensación a través de oficinas de farmacia, se ha de realizar en el correspondiente modelo oficial de receta médica u orden de dispensación del Sistema Nacional de Salud, de conformidad con lo dispuesto en la normativa vigente.
+
+> Se modifica el párrafo tercero por la disposición adicional 6.1 del Real Decreto 1718/2010, de 17 de diciembre. [Ref. BOE-A-2011-1013](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1013).
+
+### 3. Participación económica de los usuarios
+
+La participación en el pago a satisfacer por los usuarios por los medicamentos y productos sanitarios que les proporcione el Sistema Nacional de Salud se regula de conformidad con los criterios recogidos en la Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios.
+
+3.1 Aportación normal: Con carácter general, la participación económica que corresponde satisfacer a los usuarios en el momento de la dispensación en oficina de farmacia es del 40% sobre el precio de venta al público.
+
+3.2 Aportación reducida: Un 10% sobre el precio de venta al público, sin que el importe total de la aportación pueda exceder de 2,64 euros por envase, importe que puede ser actualizado por el Ministerio de Sanidad y Consumo, según lo dispuesto en la normativa vigente. Corresponde abonar este tipo de aportación en los siguientes supuestos:
+
+a) Medicamentos para el tratamiento de enfermedades crónicas o graves, clasificados en los grupos o subgrupos terapéuticos recogidos en la normativa vigente y de acuerdo con las condiciones establecidas.
+
+b) Efectos y accesorios pertenecientes a los grupos reglamentariamente establecidos.
+
+c) Medicamentos que proporciona el Sistema Nacional de Salud a través de receta oficial a los enfermos de SIDA.
+
+3.3 Exentos de aportación: En los siguientes supuestos:
+
+a) Pensionistas y colectivos asimilados, afectados de síndrome tóxico y personas con discapacidad en los supuestos contemplados en su normativa específica.
+
+b) Tratamientos derivados de accidentes de trabajo y enfermedad profesional.
+
+c) Productos cuya dispensación al usuario se realice en los centros o servicios asistenciales sanitarios.
+
+## ANEXO VI — Cartera común de servicios de prestación ortoprotésica
+
+La prestación ortoprotésica consiste en la utilización de productos sanitarios, implantables o no, cuya finalidad es sustituir total o parcialmente una estructura corporal, o bien modificar, corregir o facilitar su función, comprendiendo los elementos precisos para mejorar la calidad de vida y la autonomía del usuario.
+
+Esta prestación se facilitará por los servicios de salud o dará lugar a ayudas económicas, en los casos y de acuerdo con las normas que reglamentariamente se establezcan por parte de las administraciones sanitarias competentes.
+
+> Téngase en cuenta que esta última actualización del Anexo VI establecida por el art. 2 de la Orden SCB/45/2019, de 22 de enero, [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856) entra en vigor el 1 de julio de 2019, según determina su disposición final cuarta.
+
+> Redacción anterior:
+
+> "La prestación ortoprotésica consiste en la utilización de productos sanitarios, implantables o no, cuya finalidad es sustituir total o parcialmente una estructura corporal, o bien modificar, corregir o facilitar su función. Comprenderá los elementos precisos para mejorar la calidad de vida y autonomía del paciente.
+
+> Esta prestación se facilitará por los servicios de salud o dará lugar a ayudas económicas, en los casos y de acuerdo con las normas que reglamentariamente se establezcan por parte de las administraciones sanitarias competentes."
+
+> Se sustituye, con efectos de 1 de julio de 2019, por el contenido del Anexo I de la Orden SCB/45/2019, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
+
+> Se derogan los aspectos referentes a la aportación del usuario recogidos en este Anexo por la disposición derogatoria única del Real Decreto 1506/2012, de 2 de noviembre. [Ref. BOE-A-2012-13647](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-13647).
+
+### 1. Contenido
+
+1.1 La cartera común de servicios de prestación ortoprotésica comprende:
+
+a) Los implantes quirúrgicos, que forman parte de la cartera común básica de servicios asistenciales, en la que también se incluyen las ortoprótesis externas de uso en pacientes ingresados.
+
+b) Las ortoprótesis externas de dispensación ambulatoria, que son integrantes de la cartera común suplementaria. Están constituidas por las prótesis externas, las sillas de ruedas, las ortesis y las ortoprótesis especiales.
+
+1.2 No constituyen parte de esta prestación los artículos ortoprotésicos destinados a uso deportivo, ni los utilizados con finalidad estética que no guarden relación con accidente, enfermedad o malformación congénita, ni aquellos de los que se realice publicidad dirigida al público en general.
+
+1.3 La cartera común de servicios de prestación ortoprotésica se hace efectiva mediante los correspondientes catálogos comunes de implantes quirúrgicos y de ortoprótesis externas que figuran en los apartados 6, 7, 8, 9 y 10, en los que se incluyen, en su caso, sus condiciones de uso o el tipo de discapacidad o indicación clínica que justifica su prescripción:
+
+a) En el apartado 6 se establece el catálogo común de implantes quirúrgicos, en el que se recogen las correspondientes divisiones codificadas con dos caracteres y los grupos codificados con cuatro caracteres, así como los respectivos desgloses, alcanzando diferentes niveles de desagregación que permiten agrupar productos con características similares.
+
+b) En los apartados 7, 8, 9 y 10 figura el catálogo común de ortoprótesis externas en el que se recogen los respectivos grupos (codificados con cuatro caracteres) y subgrupos (seis caracteres). Estos se desglosan en categorías, identificadas con códigos homologados de seis caracteres, que, a su vez, se dividen en tipos de productos (codificados con siete caracteres).
+
+1.4 En el caso de las ortoprótesis externas:
+
+a) El catálogo común además recoge la siguiente información para cada tipo de producto:
+
+1.º Si es de elaboración individualizada o requiere adaptación con su respectivo grado de complejidad.
+
+2.º La vida media expresada en meses que es el tiempo medio de duración de un producto en condiciones normales de uso.
+
+3.º El importe máximo de financiación (IMF) con un impuesto sobre el valor añadido (IVA) del 10 %, así como el correspondiente IMF sin impuestos.
+
+b) Los productos financiables correspondientes a los tipos de productos incluidos en el catálogo común no elaborados a medida se recogerán en la Oferta de productos ortoprotésicos del Sistema Nacional de Salud, de acuerdo con lo contemplado en el artículo 4 del Real Decreto 1506/2012, de 2 de noviembre.
+
+> Téngase en cuenta que esta última actualización establecida por el art. 2 de la Orden SCB/45/2019, de 22 de enero, [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856) entra en vigor el 1 de julio de 2019, según determina su disposición final cuarta.
+
+> Redacción anterior:
+
+> "1.1 La prestación ortoprotésica comprende los implantes quirúrgicos, las prótesis externas, las sillas de ruedas, las ortesis y las ortoprótesis especiales.
+
+> 1.2 Los implantes quirúrgicos, prótesis externas, sillas de ruedas, ortesis y ortoprótesis especiales incluidos en la cartera común de prestación ortoprotésica figuran respectivamente en los apartados 6, 7, 8, 9 y 10 de este anexo, incluyendo en su caso, sus condiciones de uso o el tipo de discapacidad o indicación clínica que justifica su prescripción. En el apartado 6 se establecen las divisiones de los implantes quirúrgicos codificadas con dos dígitos y los grupos codificados con cuatro dígitos, así como los respectivos desgloses alcanzando diferentes niveles de desagregación que permiten agrupar productos con características similares. En el caso de los apartados 7, 8, 9 y 10 el contenido de la cartera común viene determinado por los grupos (cuatro dígitos) y subgrupos (seis dígitos). Los códigos homologados (codificación de 9 dígitos) que se recogen en dichos apartados se utilizarán únicamente para el sistema de información de la prestación ortoprotésica.
+
+> En el caso de las ortesis y ortoprótesis especiales se reflejan asimismo ayudas económicas consistentes en la diferencia entre las tarifas de los correspondientes artículos que figuran en los catálogos de cada administración sanitaria competente y las aportaciones del usuario que figuran en los apartados 9 y 10.
+
+> 1.3 En el ámbito de cada administración sanitaria competente en la gestión de la prestación ortoprotésica, el contenido de la misma estará determinado por aquellos artículos que expresamente se recojan en los catálogos que elaboren en desarrollo de lo establecido en los apartados 6, 7, 8, 9 y 10 de este anexo.
+
+> 1.4 No constituyen parte de esta prestación los efectos y accesorios, ni los artículos ortoprotésicos destinados a uso deportivo, ni los utilizados con finalidad estética, ni aquellos de los que se realice publicidad dirigida al público en general."
+
+> Se sustituye, con efectos de 1 de julio de 2019, por el contenido del Anexo I de la Orden SCB/45/2019, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
+
+> Se modifica el apartado 1.2 por el art. 2.3 de la Orden SSI/1356/2015, de 2 de julio. [Ref. BOE-A-2015-7629](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7629).
+
+### 2. Conceptos
+
+2.1 Implante quirúrgico: Producto sanitario diseñado para ser implantado total o parcialmente en el cuerpo humano mediante intervención quirúrgica y destinado a permanecer allí después de dicha intervención. Tiene finalidad terapéutica cuando sustituye total o parcialmente una estructura corporal o una función fisiológica que presenta algún defecto o anomalía, o bien tiene finalidad diagnóstica. Los productos destinados a permanecer en el cuerpo humano menos de 30 días no se consideran incluidos en el apartado de implantes quirúrgicos, si bien los centros sanitarios facilitarán a los usuarios aquellos que, siendo seguros y eficaces, precisen para su adecuada atención, utilizando para ello la vía que consideren más adecuada para garantizar la máxima eficiencia.
+
+2.2 Ortoprótesis externa: Producto sanitario no implantable que requiere una elaboración o adaptación individualizada al usuario o un ajuste básico y que comprende los siguientes apartados:
+
+a) Prótesis externa: Ortoprótesis externa dirigida a sustituir total o parcialmente un órgano o una estructura corporal o su función.
+
+b) Silla de ruedas: Ortoprótesis externa con la consideración de vehículo individual que permite el traslado de una persona que haya perdido de forma permanente la capacidad de marcha funcional, adecuado a su grado de discapacidad.
+
+c) Ortesis: Ortoprótesis externa que va destinada a modificar las condiciones estructurales o funcionales del sistema neuromuscular o del esqueleto.
+
+d) Ortoprótesis especial: Ortoprótesis externa que modifica o sustituye una función corporal o facilita la deambulación de personas con movilidad reducida de forma permanente, que no pueda considerarse incluida en los apartados anteriores.
+
+> Téngase en cuenta que esta última actualización establecida por el art. 2 de la Orden SCB/45/2019, de 22 de enero, [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856) entra en vigor el 1 de julio de 2019, según determina su disposición final cuarta.
+
+> Redacción anterior:
+
+> "2.1 Implante quirúrgico: Producto sanitario diseñado para ser implantado total o parcialmente en el cuerpo humano mediante intervención quirúrgica y destinado a permanecer allí después de dicha intervención.
+
+> A efectos de lo dispuesto en esta norma se entiende por implante quirúrgico aquel producto sanitario implantable con finalidad terapéutica que sustituye total o parcialmente una estructura corporal o una función fisiológica que presenta algún defecto o anomalía, o que tiene finalidad diagnóstica.
+
+> 2.2 Prótesis externa: Producto sanitario que requiere una elaboración y/o adaptación individualizada y que, dirigido a sustituir total o parcialmente un órgano o una estructura corporal o su función, no precisa de implantación quirúrgica en el paciente.
+
+> 2.3 Silla de ruedas: Vehículo individual para favorecer el traslado de personas que han perdido, de forma permanente, total o parcialmente, la capacidad de deambulación y que sea adecuado a su grado de discapacidad.
+
+> 2.4 Ortesis: Producto sanitario de uso externo, no implantable que, adaptado individualmente al paciente, se destina a modificar las condiciones estructurales o funcionales del sistema neuromuscular o del esqueleto.
+
+> 2.5 Ortoprótesis especial: Producto sanitario no implantable que sustituye una estructura corporal o su función o facilita la deambulación sin que pueda considerarse incluido en los apartados anteriores."
+
+> Se sustituye, con efectos de 1 de julio de 2019, por el contenido del Anexo I de la Orden SCB/45/2019, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
+
+### 3. Acceso a la prestación ortoprotésica
+
+3.1 Todos los usuarios del Sistema Nacional de Salud tendrán acceso al catálogo común siempre que exista una indicación clínica y sanitaria para ello, con independencia del ámbito geográfico en el que se encuentren.
+
+3.2 Los responsables de prestación ortoprotésica establecerán sus respectivos catálogos que contendrán, al menos, los tipos de productos del catálogo común al que se refieren los apartados 6, 7, 8, 9 y 10.
+
+3.3 El acceso a la prestación ortoprotésica se hará, garantizando las necesidades sanitarias de los usuarios, en la forma que establezca al efecto el correspondiente responsable de prestación ortoprotésica.
+
+> Téngase en cuenta que esta última actualización establecida por el art. 2 de la Orden SCB/45/2019, de 22 de enero, [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856) entra en vigor el 1 de julio de 2019, según determina su disposición final cuarta.
+
+> Redacción anterior:
+
+> "El acceso a la prestación ortoprotésica se hará, garantizando las necesidades sanitarias de los pacientes, en la forma que establezca al efecto la administración sanitaria competente en la gestión de la prestación."
+
+> Se sustituye, con efectos de 1 de julio de 2019, por el contenido del Anexo I de la Orden SCB/45/2019, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
+
+### 4. Procedimiento de obtención
+
+4.1 En el caso de los implantes quirúrgicos las administraciones sanitarias responsables de la gestión establecerán el procedimiento de adquisición de los mismos por la vía que consideren más adecuada para lograr la máxima eficiencia y su adecuado suministro.
+
+4.2 En el caso de ortoprótesis externas:
+
+a) Cada responsable de prestación ortoprotésica determinará el procedimiento de obtención de dicha prestación en su ámbito, así como las condiciones de acceso, de indicación y prescripción, de gestión, de elaboración y de aplicación de su catálogo y, si procede, de préstamo, alquiler, recuperación y reparación de los artículos. Este procedimiento contemplará la posibilidad de que el usuario no tenga que adelantar el importe de los productos cuando se trate de personas con escasos recursos económicos o de productos de elevado importe.
+
+b) La prestación ortoprotésica correrá a cargo del responsable de prestación ortoprotésica del ámbito en el que se atienda al paciente, si bien se llevará a cabo la compensación que proceda en función de lo establecido en el artículo 3 del Real Decreto-ley 16/2012, de 20 de abril, de medidas urgentes para garantizar la sostenibilidad del Sistema Nacional de Salud y mejorar la calidad y seguridad de sus prestaciones.
+
+c) La indicación de un tipo de producto deberá ser realizada por un médico especialista en la materia correspondiente a la clínica que justifique la prescripción. Para la indicación se atenderá a criterios de individualización en relación con la persona usuaria y sus condiciones de salud y de calidad de vida, tales como edad, evolución previsible de la patología o discapacidad, situación laboral y social, grado de autonomía personal y acceso a servicios de la comunidad, y otros de análoga significación.
+
+d) Los responsables de prestación ortoprotésica podrán establecer en sus respectivos catálogos, además de los casos de especial prescripción señalados en el catálogo común, los tipos de productos que solo podrán ser indicados en su ámbito por determinados especialistas o por las unidades clínicas que designen al efecto.
+
+e) Los responsables de prestación ortoprotésica establecerán el periodo de renovación de los productos susceptibles de la misma. Ese periodo podrá reducirse en casos justificados por el prescriptor por tratarse de niños en los que se requiere una adecuación a la etapa de crecimiento o de usuarios en los que la evolución de su patología o cambios antropométricos así lo exijan o bien cuando concurran circunstancias objetivas que influyan en un especial desgaste de los productos. El mero hecho del transcurso del plazo de renovación del producto no genera automáticamente la necesidad de renovación, sino que deberá ser valorada específicamente en cada caso por el prescriptor. La renovación solo podrá concederse cuando no sea debida al mal trato o uso inadecuado del producto por parte del usuario, en las condiciones que determine el correspondiente responsable de prestación ortoprotésica.
+
+f) Los establecimientos sanitarios dispensadores y adaptadores de productos ortoprotésicos (en adelante establecimientos) que opten por dispensar productos a cargo del Sistema Nacional de Salud asumirán todas las condiciones establecidas en este anexo y no podrán cobrar al usuario cantidades adicionales a la aportación que en su caso le pudiera corresponder en función del tipo de producto, salvo cuando así lo autorice el correspondiente responsable de prestación ortoprotésica de acuerdo con lo previsto en el artículo 5.5 del Real Decreto 1506/2012, de 2 de noviembre.
+
+4.3 Los responsables de prestación ortoprotésica reclamarán a los terceros obligados al pago el importe de la prestación ortoprotésica en los supuestos establecidos en el anexo IX.
+
+> Téngase en cuenta que esta última actualización establecida por el art. 2 de la Orden SCB/45/2019, de 22 de enero, [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856) entra en vigor el 1 de julio de 2019, según determina su disposición final cuarta.
+
+> Redacción anterior:
+
+> "4.1 La prescripción de los productos incluidos en la prestación ortoprotésica debe ser llevada a cabo por un médico de atención especializada, especialista en la materia correspondiente a la clínica que justifique la prescripción.
+
+> 4.2 El procedimiento para la elaboración de los correspondientes catálogos en cada ámbito de gestión, adaptados en su contenido a lo establecido en los apartados 6, 7, 8, 9 y 10 de este anexo, así como las condiciones de acceso, de prescripción, de gestión, de aplicación del catálogo y, si procede, de recuperación de los artículos, serán determinados por la administración sanitaria competente en la gestión de esta prestación.
+
+> 4.3. Las administraciones sanitarias responsables de la gestión de los implantes quirúrgicos establecerán el procedimiento de adquisición de los mismos por las vías que consideren más adecuadas en cada caso para garantizar su provisión a los pacientes con la máxima eficiencia."
+
+> Se sustituye, con efectos de 1 de julio de 2019, por el contenido del Anexo I de la Orden SCB/45/2019, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
+
+> Se añade el apartado 4.3 por el art. 2.4 de la Orden SSI/1356/2015, de 2 de julio. [Ref. BOE-A-2015-7629](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7629).
+
+### 5. Requisitos generales de la prestación ortoprotésica
+
+5.1 Con el fin de garantizar la calidad de la prestación ortoprotésica, los productos deben cumplir los requisitos contemplados en la legislación vigente de productos sanitarios que les resulte de aplicación.
+
+5.2 En el caso de ortoprótesis externas, además, se establecen los siguientes requisitos:
+
+a) En la prescripción de los productos ortoprotésicos deberán constar, como mínimo, los siguientes datos:
+
+1.º Responsable de la prescripción: Datos de identificación del facultativo (Nombre, número de colegiado o código de identificación, centro sanitario y servicio).
+
+2.º Usuario: Datos de identificación; Colectivo al que pertenece (TSI 001: Exentos de aportación, TSI 002: Pensionistas y beneficiarios de renta < 100.000 €, TSI 003: Activos y beneficiarios de renta < 18.000 €, TSI 004: Activos y beneficiarios de renta =18.000-100.000 €, TSI 005: Usuarios y beneficiarios de renta > 100.000 €, TSI 006: Usuarios y beneficiarios de mutualidades de funcionarios, ATEP: Accidente de trabajo y enfermedad profesional y DAST: Usuarios en el marco de aplicación de la Directiva 2011/24/UE, del Parlamento Europeo y del Consejo, de 9 de marzo de 2011, relativa a la aplicación de los derechos de los pacientes en la asistencia sanitaria transfronteriza); fecha de nacimiento; peso y talla, si procede.
+
+3.º Motivo de la prescripción: Accidente de trabajo, accidente de tráfico, accidente deportivo, otro tipo de accidente (especificar), malformación congénita, enfermedad u otro origen (especificar).
+
+4.º Diagnóstico: Discapacidad o patología que justifica la prescripción; patologías concomitantes que influyan en la prescripción; otra información clínica de interés.
+
+5.º Valoración social (cuando proceda): Actividades que realiza: laborales, ocio, etc., medio en el que vive u otras circunstancias que puedan influir en la prescripción o renovación de los productos.
+
+6.º Prescripción: Fecha; tipo de producto o nombre del producto; clase de prescripción (primera prescripción, renovación con la justificación del motivo, reparación o recambio); recomendaciones de uso. Cuando para componer un producto final completo sea necesario indicar a un usuario productos de varios tipos diferentes, todos ellos se indicarán conjuntamente constituyendo a todos los efectos una única prescripción.
+
+7.º Firma del responsable de la prescripción.
+
+8.º Revisiones que hayan de realizarse, en su caso.
+
+b) El responsable de la prescripción dará el visto bueno de forma expresa al producto entregado al usuario que requiera una adaptación individualizada o sea elaborado a medida, tras comprobar que se ajusta a sus indicaciones, a las necesidades del mismo y que está adecuadamente adaptado o elaborado o indicará las modificaciones que hayan de introducirse en el producto, en los casos y mediante el procedimiento que regulen los responsables de prestación ortoprotésica en sus respectivos ámbitos.
+
+c) La adaptación y dispensación de los productos ortoprotésicos se realizará en los establecimientos autorizados para dicho fin por la correspondiente administración competente. De acuerdo con lo que se indica en el artículo 3.4 del Real Decreto 1506/2012, de 2 de noviembre, estos establecimientos deberán reunir los requisitos que establezca la comunidad autónoma o ciudad autónoma en la que estén ubicados. Podrán determinar requisitos específicos teniendo en cuenta la forma de elaboración o el grado de complejidad de la adaptación de los tipos de productos que puede proporcionar cada uno de ellos a los usuarios del Sistema Nacional de Salud, a fin de que se salvaguarde una correcta elaboración y adaptación de la prestación prescrita al usuario y se garantice el acceso de los usuarios en condiciones de igualdad efectiva. En todo caso, se tratará de establecimientos sanitarios que cuenten con la correspondiente autorización sanitaria, de acuerdo con lo dispuesto en el Real Decreto 1277/2003, de 10 de octubre, por el que se establecen las bases generales sobre autorización de centros, servicios y establecimientos sanitarios.
+
+d) Las autoridades sanitarias competentes pondrán a disposición de los usuarios la relación de los establecimientos de su ámbito de gestión que cumpliendo los requisitos mencionados en el apartado anterior, puedan dispensar los diferentes tipos de productos a los usuarios del Sistema Nacional de Salud.
+
+e) Los establecimientos solo podrán dispensar productos pertenecientes al tipo de producto previamente indicado por el facultativo en el documento de prescripción. En caso de que en la prescripción figurara el nombre de un producto concreto, podrán dispensar otro producto del mismo tipo incluido en la Oferta siempre que lo permita la normativa de la correspondiente comunidad autónoma y que el facultativo prescriptor no hubiera indicado nada en contra de la sustitución.
+
+f) Siempre que se trate de productos elaborados a medida o que requieren una adaptación individualizada al usuario:
+
+1.º Correrán a cargo del establecimiento cuantas rectificaciones imputables a la elaboración y adaptación sean precisas.
+
+2.º En la elaboración de los productos, el establecimiento se ajustará a las indicaciones consignadas por el especialista prescriptor.
+
+g) La entrega del producto al usuario habrá de ir acompañada de la información establecida en la normativa de productos sanitarios, del certificado de garantía y de una hoja informativa, en lenguaje comprensible y accesible para personas con discapacidad, con las recomendaciones precisas para la mejor conservación del mismo en condiciones de utilización normal y las advertencias para evitar su mal uso, de acuerdo con lo que establezca el responsable de prestación ortoprotésica. Todo ello, sin perjuicio de lo dispuesto en el Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias.
+
+5.3 En el caso de los implantes quirúrgicos, además de la información establecida en la normativa de productos sanitarios, se ha de facilitar a los pacientes una hoja informativa con las instrucciones, así como las recomendaciones, contraindicaciones y precauciones que deben tomarse en su caso.
+
+> Téngase en cuenta que esta última actualización establecida por el art. 2 de la Orden SCB/45/2019, de 22 de enero, [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856) entra en vigor el 1 de julio de 2019, según determina su disposición final cuarta.
+
+> Redacción anterior:
+
+> "5.1 Los productos sanitarios incluidos como prestación ortoprotésica, para poder ser suministrados y utilizados, deben cumplir los requisitos contemplados en la legislación vigente que les resulte de aplicación.
+
+> 5.2 Los establecimientos sanitarios elaboradores de ortoprótesis a medida y los que las adaptan individualizadamente deben reunir los requisitos que en cada momento establezca la administración sanitaria competente, a fin de que se salvaguarde una correcta elaboración y adecuación de la prestación prescrita al paciente.
+
+> 5.3 Para las prótesis externas, las sillas de ruedas, ortesis y ortoprótesis especiales, son de aplicación los siguientes aspectos:
+
+> 5.3.1 La entrega de uno de estos productos al usuario ha de ir acompañada del certificado de garantía y una hoja informativa con las recomendaciones precisas para la mejor conservación del mismo en condiciones de utilización normal y las advertencias para evitar su mal uso, de acuerdo con lo que establezca en cada caso la administración sanitaria competente.
+
+> 5.3.2 Cuando se trate de productos que requieren una adaptación específica al paciente:
+
+> a) Correrán a cargo del establecimiento cuantas rectificaciones imputables a la elaboración y adaptación sean precisas.
+
+> b) En la elaboración de los productos, el establecimiento se ajustará siempre a las indicaciones consignadas por el especialista prescriptor.
+
+> c) En los casos que se determine, una vez obtenida la prestación por el usuario, el especialista prescriptor comprobará que el artículo se ajusta rigurosamente a sus indicaciones y se adapta perfectamente al paciente.
+
+> 5.3.3 En el caso de artículos susceptibles de renovación, ésta puede concederse, cuando no sea debida al mal trato del usuario, en las condiciones que al efecto se determinen por la administración sanitaria competente en la gestión de la prestación. Además para aquellos productos susceptibles de renovación que requieren una elaboración y/o adaptación individualizada, se debe tener en cuenta la edad del paciente para fijar el periodo de renovación, de modo que se adecue a la etapa de crecimiento de los niños y a los cambios morfológicos derivados de la evolución de la patología.
+
+> 5.4 En el caso de los implantes quirúrgicos se ha de facilitar a los pacientes una hoja informativa con las instrucciones así como las recomendaciones, contraindicaciones y precauciones que deben tomarse en su caso."
+
+> Se sustituye, con efectos de 1 de julio de 2019, por el contenido del Anexo I de la Orden SCB/45/2019, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
+
+### 6. Implantes quirúrgicos
+
+6.1 Implantes quirúrgicos terapéuticos:
+
+CA Implantes cardiacos.
+
+CA 0 Implantes para cardioestimulación. En caso de utilizarse productos que se comercializan como con protección para RM de 1,5 teslas, la resonancia sólo debería realizarse cuando sea el único estudio de imagen capaz de ayudar al diagnóstico y valorando que el beneficio supere a los riesgos. La resonancia se realizará bajo estrictas medidas de seguridad (presencia de profesionales cualificados, monitorización continua, pulsioximetría, control de frecuencia cardiaca y equipos de resucitación cardiopulmonar).
+
+CA 0 0 Marcapasos:
+
+CA 0 0 0 Marcapasos monocameral SSI con/sin monitorización remota.
+
+CA 0 0 1 Marcapasos monocameral SSIR (con respuesta en frecuencia).
+
+CA 0 0 1 0 Marcapasos monocameral SSIR sin monitorización remota.
+
+CA 0 0 1 1 Marcapasos monocameral SSIR con monitorización remota.
+
+CA 0 0 2 Marcapasos bicameral VDD/VDDR.
+
+CA 0 0 2 0 Marcapasos bicameral VDD/VDDR sin monitorización remota.
+
+CA 0 0 2 1 Marcapasos bicameral VDD/VDDR con monitorización remota.
+
+CA 0 0 3 Marcapasos bicameral DDD/DDDR.
+
+CA 0 0 3 0 Marcapasos bicameral DDD/DDDR sin monitorización remota.
+
+CA 0 0 3 1 Marcapasos bicameral DDD/DDDR con monitorización remota.
+
+CA 0 0 4 Marcapasos con terapia de resincronización cardiaca (con respuesta en frecuencia).
+
+CA 0 0 4 0 Marcapasos con terapia de resincronización cardiaca sin monitorización remota.
+
+CA 0 0 4 1 Marcapasos con terapia de resincronización cardiaca con monitorización remota.
+
+CA 0 1 Desfibrilador automático implantables (DAI):
+
+CA 0 1 0 DAI monocameral con respuesta en frecuencia.
+
+CA 0 1 0 0 DAI monocameral con respuesta en frecuencia sin monitorización remota.
+
+CA 0 1 0 1 DAI monocameral con respuesta en frecuencia con monitorización remota.
+
+CA 0 1 1 DAI bicameral con respuesta en frecuencia.
+
+CA 0 1 1 0 DAI bicameral con respuesta en frecuencia sin monitorización remota.
+
+CA 0 1 1 1 DAI bicameral con respuesta en frecuencia con monitorización remota.
+
+CA 0 1 2 DAI con terapia de resincronización cardiaca con respuesta en frecuencia.
+
+CA 0 1 2 0 DAI con terapia de resincronización cardiaca con respuesta en frecuencia sin monitorización remota
+
+CA 0 1 2 1 DAI con terapia de resincronización cardiaca con respuesta en frecuencia con monitorización remota
+
+CA 0 1 3 Desfibrilador subcutáneo. Su uso está contraindicado en pacientes con bradicardia sintomática, o taquicardia ventricular que pueda ser terminada con estimulación antitaquicárdica (ATP). Cuando se requiere una estimulación permanente no supone una alternativa válida al sistema transvenoso.
+
+CA 0 2 Electrodo:
+
+CA 0 2 0 Electrodo para estimulación endocárdica.
+
+CA 0 2 1 Electrodo para estimulación de seno coronario.
+
+CA 0 2 2 Electrodo para estimulación epicárdica.
+
+CA 0 2 3 Electrodo para desfibrilación.
+
+CA 1 Implantes cardiológicos:
+
+CA 1 0 Válvula.
+
+CA 1 0 0 Válvula mecánica.
+
+CA 1 0 1 Válvula biológica xenóloga (las autólogas se contemplan en el apartado 5.2.16 de trasplantes del anexo III)
+
+CA 1 0 2 Válvula biológica sin sutura, para pacientes con estenosis aórtica grave sintomática, > 75 años, con una expectativa de vida mayor de un año, operables, con elevado riesgo quirúrgico debido a comorbilidades o condiciones anatómicas que desaconsejan la implantación de prótesis convencionales, valorados por un comité multidisciplinar
+
+CA 1 0 2 0 Autoexpandible.
+
+CA 1 0 2 1 Expandible con balón.
+
+CA 1 0 3 Válvula aórtica transcatéter, para pacientes con estenosis aórtica grave sintomática, evaluados por un comité multidisciplinar, en centros que dispongan de un servicio de cirugía cardiaca y de un protocolo escrito de selección de pacientes
+
+CA 1 0 3 0 Autoexpandible.
+
+CA 1 0 3 1 Expandible con balón.
+
+CA 1 0 4 Válvula pulmonar transcatéter, para pacientes con cardiopatías congénitas para los que no exista ninguna otra alternativa terapéutica, realizados en servicios de referencia del Sistema Nacional de Salud.
+
+CA 1 1 Anillo para valvuloplastia.
+
+CA 1 1 0 Anillo para valvuloplastia rígido.
+
+CA 1 1 1 Anillo para valvuloplastia flexible.
+
+CA 1 1 2 Anillo para valvuloplastia semirrígido.
+
+CA 1 2 Conducto valvulado.
+
+CA 1 2 0 Conducto valvulado con válvula mecánica.
+
+CA 1 2 1 Conducto valvulado con válvula biológica xenóloga (las autólogas se contemplan en el apartado 5.2.16 de trasplantes del anexo III).
+
+CA 1 3 Sustituto del pericardio.
+
+CA 1 3 0 Sustituto del pericardio sintético.
+
+CA 1 3 1 Sustituto del pericardio biológico xenólogo (los autólogos se contemplan en el apartado 5.2.16 de trasplantes del anexo III).
+
+CA 1 4 Dispositivo oclusor cardiaco y vascular.
+
+CA 1 4 0 Sistema para cierre de comunicación interauricular.
+
+CA 1 4 1 Dispositivo percutáneo para cierre de foramen oval, para la prevención secundaria del ACV criptogénico.
+
+CA 1 4 2 Sistema para cierre de comunicación interventricular.
+
+CA 1 4 3 Sistema de cierre del ductus arterioso.
+
+CA 1 4 4 Dispositivo de cierre (oclusor) de la orejuela auricular izquierda, para pacientes con fibrilación auricular, con presencia de otros factores de riesgo de accidente cerebrovascular añadidos y contraindicación o intolerancia a la terapia de anticoagulación oral o para pacientes que van a ser sometidos a una intervención percutánea de la válvula mitral y además presentan fibrilación auricular, alto riesgo de accidente cerebrovascular y contraindicación o intolerancia a la terapia de anticoagulación oral.
+
+CA 1 5 Dispositivo de asistencia ventricular en las siguientes indicaciones:
+
+– como puente al trasplante (temporal o a corto plazo) cuando el paciente tiene una situación hemodinámica comprometida o refractaria a tratamiento farmacológico,
+
+– como puente a la recuperación en pacientes con insuficiencia cardiaca aguda que no responden al tratamiento convencional y que tienen posibilidad de recuperación miocárdica, como el shock cardiogénico y la miocarditis aguda grave y
+
+– como terapia de destino (permanente o a largo plazo) para pacientes que no son candidatos a trasplante, con fracción de eyección del ventrículo izquierdo ≤25%, y con un NYHA clase IIIB/IV y pico VO2<14 ml/kg/min a pesar del tratamiento inotrópico óptimo, de acuerdo con los protocolos de cada administración sanitaria competente
+
+CA 1 6 Sistema de reparación percutáneo de la válvula mitral:
+
+CA 1 6 0 Sistema de reparación percutáneo de la válvula mitral mediante clip, para pacientes con insuficiencia mitral sintomática severa (≥3+) refractaria a tratamiento médico óptimo, con una esperanza de vida de al menos un año, en los que un equipo multidisciplinar haya determinado un excesivo riesgo para ser intervenidos mediante cirugía abierta y una comorbilidad que no amenace el beneficio esperado por la reducción de la insuficiencia mitral, y cumplan criterios anatómicos apropiados (el jet primario esté originado por mala coaptación de los segmentos medios –A2 y P2– de las valvas mitrales).
+
+CD Implantes digestivos.
+
+CD 0 Esofágicos.
+
+CD 0 0 Stent metálico.
+
+CD 0 0 0 Recubierto (parcial o totalmente).
+
+CD 0 0 1 No recubierto.
+
+CD 0 0 1 0 Valvulado.
+
+CD 0 0 1 1 No valvulado.
+
+CD 0 1 Stent de plástico.
+
+CD 1 Enterales.
+
+CD 1 0 Stent duodenal.
+
+CD 1 0 0 Metálico.
+
+CD 1 0 0 0 Recubierto.
+
+CD 1 0 0 1 No recubierto.
+
+CD 1 1 Stent colon/recto.
+
+CD 1 1 0 Metálico.
+
+CD 1 0 0 0 Recubierto.
+
+CD 1 0 0 1 No recubierto.
+
+CD 2 Biliopancreáticos.
+
+CD 2 0 Stent metálico.
+
+CD 2 0 0 Recubierto (parcial o totalmente).
+
+CD 2 0 1 No recubierto.
+
+CD 2 1 Stent plástico.
+
+CD 3 Recto-anales.
+
+CD 3 0 Esfínter anal artificial, como procedimiento de segunda elección en el tratamiento de la incontinencia fecal cuando hayan fracasado o resulten inaplicables otros procedimientos alternativos, médicos o quirúrgicos y se practique por equipos suficientemente experimentados
+
+CD 3 1 Implante inyectable para incontinencia fecal.
+
+CD 4 Otros abdominales.
+
+CD 4 0 Stent para shunt portosistémico percutáneo (TIPS).
+
+CD 4 1 Banda gástrica ajustable, para pacientes adultos con obesidad mórbida (IMC superior a 40 Kg/m<sup>2</sup> o IMC superior a 35 Kg/m<sup>2</sup> con presencia de comorbilidad significativa asociada) en los que hayan fracasado otras alternativas de reducción de peso más conservadoras, como dieta, ejercicio y programas de modificación conductual
+
+GU Implantes genitourinarios.
+
+GU 0 Urológicos.
+
+GU 0 0 Renoureteral.
+
+GU 0 0 0 Endoprótesis ureteral.
+
+GU 0 0 0 0 Mono J.
+
+GU 0 0 0 1 Doble J.
+
+GU 0 0 0 1 0 Corto plazo.
+
+GU 0 0 0 1 1 Medio plazo.
+
+GU 0 0 0 1 2 Largo plazo.
+
+GU 0 0 0 1 3 Especiales.
+
+GU 0 0 1 Derivación ureteral subcutánea.
+
+GU 0 1 Prostático.
+
+GU 0 1 0 Endoprótesis prostática, para sintomatología asociada a la obstrucción del flujo urinario derivado de hiperplasia benigna de próstata.
+
+GU 0 2 Para incontinencia urinaria.
+
+GU 0 2 0 Banda de fijación, para incontinencia de esfuerzo cuando haya fracasado el tratamiento conservador o el farmacológico.
+
+GU 0 2 0 0 Femenina.
+
+GU 0 2 0 0 0 Mediouretral.
+
+GU 0 2 0 0 0 0 Retro/suprapúbica.
+
+GU 0 2 0 0 0 1 Transobturadora.
+
+GU 0 2 0 0 1 De incisión única.
+
+GU 0 2 0 0 2 Ajustable a largo plazo, para incontinencias de esfuerzo recidivantes, déficits esfinterianos y/o uretras fijas.
+
+GU 0 2 0 1 Masculina.
+
+GU 0 2 0 1 0 Cuatro brazos.
+
+GU 0 2 0 1 1 Dos brazos.
+
+GU 0 2 0 1 2 Ajustable a largo plazo, para incontinencia masculina leve por lesión esfinteriana parcial.
+
+GU 0 2 0 1 2 0 Con compresión mecánica.
+
+GU 0 2 0 1 2 1 Con compresión hidráulica.
+
+GU 0 2 1 Esfínter urinario artificial.
+
+GU 0 3 Implante inyectable para reflujo primario.
+
+GU 1 Genitales.
+
+GU 1 0 Peneano, para pacientes que no respondan a tratamientos farmacológicos para disfunción eréctil, valorando su edad, su expectativa de vida y su habilidad para el uso de los mismos.
+
+GU 1 0 0 Inactivo o maleable.
+
+GU 1 0 1 Activo.
+
+GU 1 0 1 0 Dos componentes.
+
+GU 1 0 1 1 Tres componentes.
+
+GU 1 1 Testicular.
+
+GU 1 2 Implante para prolapso de órganos pélvicos, en centros con experiencia demostrada en su uso.
+
+GU 1 2 0 Abdominal.
+
+GU 1 2 0 0 Malla parcialmente absorbible.
+
+GU 1 2 0 1 Malla permanente.
+
+GU 1 2 1 Vaginal, como alternativa terapéutica de segunda línea para aquellos casos en los que fracasa la cirugía convencional en pacientes con prolapso recurrente o con comorbilidades que hacen inviable realizar procedimientos laparoscópicos o abiertos más invasivos y/o con mayor tiempo de intervención
+
+GU 1 2 1 0 Anterior.
+
+GU 1 2 1 1 Posterior.
+
+GU 1 2 2 Malla recortable.
+
+GU 1 3 Implante para obstrucción tubárica por vía histeroscópica.
+
+NQ Implantes neurológicos.
+
+NQ 0 Sistemas de derivación, incluyendo sus reservorios.
+
+NQ 0 0 Programable.
+
+NQ 0 0 0 Impregnado.
+
+NQ 0 0 1 No impregnado.
+
+NQ 0 1 No programable.
+
+NQ 0 1 0 De hendidura o diafragma.
+
+NQ 0 1 1 Tipo bola en cono.
+
+NQ 0 1 1 0 Impregnado.
+
+NQ 0 1 1 1 No impregnado
+
+NQ 0 2 Dispositivo antigravitatorio.
+
+NQ 0 3 Reservorio intraventricular.
+
+NQ 0 3 0 Cámara de plástico.
+
+NQ 0 3 1 Cámara de titanio.
+
+NQ 0 4 Catéter.
+
+NQ 0 4 0 Catéter ventricular.
+
+NQ 0 4 1 Catéter peritoneal, lumbar o cardiaco.
+
+NQ 1 Neuroestimuladores, para pacientes cuyos síntomas no pueden ser controlados adecuadamente con otros procedimientos alternativos, médicos o quirúrgicos, conforme a los protocolos de cada administración sanitaria competente.
+
+NQ 1 0 Generador.
+
+NQ 1 0 0 Generador para estimulación medular, para dolor crónico refractario a tratamientos médicos y quirúrgicos convencionales.
+
+NQ 1 0 0 0 Recargable.
+
+NQ 1 0 0 0 0 De doble canal.
+
+NQ 1 0 0 0 1 De cuatro canales.
+
+NQ 1 0 0 1 No recargable.
+
+NQ 1 0 0 1 0 De un canal.
+
+NQ 1 0 0 1 1 De doble canal.
+
+NQ 1 0 1 Generador para estimulación sacra, para incontinencia urinaria y para incontinencia fecal.
+
+NQ 1 0 1 0 De un canal.
+
+NQ 1 0 1 1 De doble canal.
+
+NQ 1 0 2 Generador para estimulación cerebral, para distonía primaria, temblor, Parkinson, dolor intratable y epilepsia.
+
+NQ 1 0 2 0 Recargable.
+
+NQ 1 0 2 1 No recargable.
+
+NQ 1 0 2 1 0 De un canal.
+
+NQ 1 0 2 1 1 De doble canal.
+
+NQ 1 0 3 Generador para estimulación periférica.
+
+NQ 1 0 3 0 Del nervio vago, para epilepsia.
+
+NQ 1 0 3 1 Del nervio frénico, para estimulación diafragmática en ventilación artificial prolongada en pacientes que sufren parálisis muscular respiratoria (RMP) o hipoventilación alveolar central (CAH).
+
+NQ 1 0 3 2 Del ganglio dorsal de la raíz, para dolor crónico refractario a tratamientos médicos y quirúrgicos convencionales.
+
+NQ 1 0 3 3 De otras localizaciones, para el tratamiento del dolor crónico refractario a tratamientos médicos y quirúrgicos convencionales.
+
+NQ 1 1 Electrodo.
+
+NQ 1 1 0 Para estimulación medular.
+
+NQ 1 1 0 1 Para implante percutáneo.
+
+NQ 1 1 0 1 0 De cuatro polos.
+
+NQ 1 1 0 1 1 De ocho polos
+
+N Q 1 1 0 1 2 De dieciséis polos.
+
+NQ 1 1 0 2 Para implante quirúrgico.
+
+NQ 1 1 0 2 0 De cuatro polos.
+
+NQ 1 1 0 2 1 De ocho polos.
+
+NQ 1 1 0 2 2 De dieciséis polos.
+
+NQ 1 1 0 2 3 De treinta y dos polos.
+
+NQ 1 1 1 Para estimulación sacra.
+
+NQ 1 1 1 0 Percutáneo de cuatro polos.
+
+NQ 1 1 2 Para estimulación cerebral.
+
+NQ 1 1 2 0 De cuatro polos.
+
+NQ 1 1 2 1 De ocho polos.
+
+NQ 1 1 3 Para estimulación periférica.
+
+NQ 1 1 3 0 Del nervio vago.
+
+NQ 1 1 3 1 Del nervio frénico.
+
+NQ 1 1 3 2 Del ganglio dorsal de la raíz.
+
+NQ 1 1 3 3 De otras localizaciones.
+
+NQ 1 2 Extensión, adaptador y otros accesorios.
+
+NQ 1 2 0 Extensión y adaptador.
+
+NQ 1 2 0 0 Para electrodo cerebral.
+
+NQ 1 2 0 1 Para electrodo medular y sacro.
+
+NQ 1 2 0 2 Para electrodo periférico y subcutáneo.
+
+NQ 1 2 1 Sistema de fijación.
+
+NQ 1 2 1 0 Para electrodo cerebral.
+
+NQ 1 2 1 1 Para electrodo medular.
+
+NQ 1 2 1 2 Para electrodo periférico, subcutáneo y sacro.
+
+OF Implantes oftalmológicos.
+
+OF 0 Lentes intraoculares (LIO) para la corrección de la afaquia, excluidas las lentes intraoculares de cámara posterior multifocales.
+
+OF 0 0 LIO de cámara anterior.
+
+OF 0 0 0 LIO de cámara anterior con soporte angular.
+
+OF 0 0 1 LIO de cámara anterior con soporte iridiano.
+
+OF 0 1 LIO de cámara posterior monofocal.
+
+OF 0 1 0 LIO de cámara posterior monofocal rígida.
+
+OF 0 1 1 LIO de cámara posterior monofocal plegable.
+
+OF 0 1 1 0 LIO de cámara posterior monofocal plegable de silicona.
+
+OF 0 1 1 1 LIO de cámara posterior monofocal plegable acrílica esférica.
+
+OF 0 1 1 2 LIO de cámara posterior monofocal plegable acrílica asférica hidrofílica.
+
+OF 0 1 1 2 0 Estándar.
+
+OF 0 1 1 2 1 Estándar precargada.
+
+OF 0 1 1 2 2 Microincisión (≤ 2 mm).
+
+OF 0 1 1 2 3 Microincisión precargada (≤ 2 mm).
+
+OF 0 1 1 3 LIO de cámara posterior monofocal plegable acrílica asférica hidrofóbica.
+
+OF 0 1 1 3 0 Estándar.
+
+OF 0 1 1 3 1 Estándar precargada.
+
+OF 0 1 1 3 2 Microincisión (≤ 2 mm).
+
+OF 0 1 1 3 3 Microincisión precargada (≤ 2 mm).
+
+OF 0 2 LIO de cámara posterior monofocal, para la corrección de la afaquia en situaciones especiales.
+
+OF 0 2 0 LIO monofocal tórica estándar, para astigmatismos corneales entre 3 y 5 dioptrías, previo estudio topográfico.
+
+OF 0 2 1 LIO monofocal tórica personalizada, para astigmatismos corneales de más de 5 dioptrías adquiridos tras traumatismos o cirugía corneal, previo estudio topográfico.
+
+OF 0 2 2 LIO monofocal con óptica y segmentos iridianios
+
+OF 1 Otros dispositivos para ser implantados con lentes intraoculares.
+
+OF 1 0 Anillo de tensión capsular.
+
+OF 1 0 0 Anillo de tensión capsular estándar.
+
+OF 1 0 1 Anillo de tensión capsular con sistema de anclaje.
+
+OF 1 1 Segmento iridiano (aniridia).
+
+OF 1 1 0 Segmento iridiano parcial.
+
+OF 1 1 1 Segmento iridiano completo.
+
+OF 2 Lentes para situaciones especiales.
+
+OF 2 0 Lente fáquica para queratocono.
+
+OF 2 0 0 Lente fáquica para queratocono esférica.
+
+OF 2 0 1 Lente fáquica para queratocono tórica.
+
+OF 2 1 Lente fáquica postqueratoplastia.
+
+OF 2 1 0 Lente fáquica postqueratoplastia esférica.
+
+OF 2 1 1 Lente fáquica postqueratoplastia tórica.
+
+OF 2 2 Lente especial diseñada para implante en sulcus.
+
+OF 3 Dispositivos para cirugía de glaucoma.
+
+OF 3 0 Implante para cirugía filtrante.
+
+OF 3 1 Dispositivo de drenaje.
+
+OF 3 1 0 Comunicación cámara anterior-espacio subconjuntival.
+
+OF 3 1 0 0 Valvular (mecanismos restrictivos del flujo).
+
+OF 3 1 0 1 No valvular.
+
+OF 3 1 1 Comunicación cámara anterior-espacio supracoroideo, cuando han fallado los tratamientos médicos y quirúrgicos convencionales.
+
+OF 3 1 2 Comunicación cámara anterior-canal de Schlem.
+
+OF 4 Prótesis de enucleación y evisceración.
+
+OF 4 0 Prótesis de enucleación y evisceración biointegrable.
+
+OF 4 1 Prótesis de enucleación y evisceración no biointegrable.
+
+OF 5 Implantes palpebrales.
+
+OF 5 0 Implante palpebral de oro.
+
+OF 5 1 Implante palpebral de platino, para pacientes alérgicos al oro o con rechazo previo al oro.
+
+OF 5 2 Implante palpebral sintético (PTFE).
+
+OF 6 Otros implantes oftalmológicos.
+
+OF 6 0 Implante de vías lacrimales.
+
+OF 6 0 0 Tubo de drenaje en cirugía de conjuntivo-dacrio.
+
+OF 6 1 Implante para cirugía vítreorretiniana.
+
+OF 6 2 Queratoprótesis de material sintético.
+
+OF 6 3 Anillo intraestromal, para la corrección del queratocono y otras ectasias corneales.
+
+OR Implantes otorrinolaringológicos.
+
+OR 0 Prótesis de oído medio.
+
+OR 0 0 Prótesis de reconstrucción de la cadena osicular.
+
+OR 0 0 0 De reemplazo parcial (PORP).
+
+OR 0 0 0 0 Metálica.
+
+OR 0 0 0 1 Hidroxiapatita.
+
+OR 0 0 0 2 Plástica.
+
+OR 0 0 0 3 Mixta.
+
+OR 0 0 1 De reemplazo total (TORP).
+
+OR 0 0 1 0 Titanio.
+
+OR 0 0 1 1 Hidroxiapatita.
+
+OR 0 0 1 2 Plásticas.
+
+OR 0 1 Prótesis de estapedectomía/estapedotomía.
+
+OR 0 1 0 Metálica.
+
+OR 0 1 1 Plástica.
+
+OR 0 1 2 Mixta.
+
+OR 0 2 Tubo de drenaje transtimpánicos.
+
+OR 0 2 0 Silicona.
+
+OR 0 2 1 Fluoroplástico.
+
+OR 1 Implantes auditivos activos, de acuerdo con los protocolos de cada administración sanitaria competente (incluida la renovación de los componentes externos que forman parte de la cartera común de prótesis externas, en las condiciones que al efecto se determinen por la administración sanitaria competente en la gestión de la prestación).
+
+OR 1 0 Implante de conducción ósea.
+
+OR 1 0 0 Percutáneo.
+
+OR 1 0 1 Transcutáneo, valorando en el caso de niños el adecuado espesor óseo.
+
+OR 1 1 Implante activo de oído medio.
+
+OR 1 2 Implante coclear, incluyendo la implantación bilateral tras valoración individualizada en niños y en adultos. Se considerarán especialmente las siguientes situaciones:
+
+– pacientes con hipoacusia postinfecciosa (como posmeningitis o poscitomegalovirus) o asociada a otras discapacidades (ceguera, déficits multisensoriales o Síndrome de Usher)
+
+– pacientes con resultados pobres tras el primer implante que puedan obtener ganancias con el segundo por presentar otras alteraciones (malformaciones del oído interno con poco resultado funcional unilateral, trastornos de conducta asociados a hipoacusia), o una patología que pueda interferir con los resultados del primer implante coclear (Síndrome de Pendred u otros síndromes hereditarios que se asocian a pérdida progresiva bilateral).
+
+OR 1 3 Implante de tronco cerebral.
+
+OR 2 Prótesis fonatorias.
+
+OR 2 0 Prótesis fonatoria.
+
+OR 3 Prótesis laríngeas.
+
+OR 3 0 Implante de laringe.
+
+OR 3 0 0 Prótesis para tiroplastia de medialización.
+
+OR 3 0 0 0 Hidroxiapatita.
+
+OR 3 0 0 1 Silicona.
+
+OT Dispositivos implantables para administración de fármacos.
+
+OT 0 Bomba de infusión implantable, para el tratamiento de la espasticidad de diferentes etiologías y el tratamiento del dolor cuando han fallado las formas convencionales de administración de fármacos.
+
+OT 0 0 Programable.
+
+OT 0 1 No programable.
+
+OT 0 2 Catéter para bomba de infusión intratecal.
+
+OT 1 Otros dispositivos de administración de fármacos.
+
+OT 1 0 Reservorio subcutáneo vascular.
+
+OT 1 0 0 Flujo convencional.
+
+OT 1 0 0 0 Cámara de plástico.
+
+OT 1 0 0 0 0 Estándar.
+
+OT 1 0 0 0 1 Bajo perfil, braquial o pediátrico.
+
+OT 1 0 0 0 2 De doble cámara.
+
+OT 1 0 0 0 3 Arterial.
+
+OT 1 0 0 1 Cámara de titanio.
+
+OT 1 0 0 1 0 Estándar.
+
+OT 1 0 0 1 1 Bajo perfil, braquial o pediátrico.
+
+OT 1 0 0 1 2 De doble cámara.
+
+OT 1 0 0 1 3 Arterial.
+
+OT 1 0 1 Alto flujo (compatible con la inyección a alta presión).
+
+OT 1 0 1 0 Cámara de plástico.
+
+OT 1 0 1 0 0 Estándar.
+
+OT 1 0 1 0 1 Bajo perfil, braquial o pediátrico.
+
+OT 1 0 1 0 2 De doble cámara.
+
+OT 1 0 1 0 3 Arterial.
+
+OT 1 0 1 1 Cámara de titanio.
+
+OT 1 0 1 1 0 Estándar.
+
+OT 1 0 1 1 1 Bajo perfil, braquial o pediátrico.
+
+OT 1 0 1 1 2 De doble cámara.
+
+OT 1 0 1 1 3 Arterial.
+
+OT 1 1 Reservorio subcutáneo no vascular (el reservorio intraventricular está incluido en el apartado de implantes neurológicos).
+
+OT 1 1 0 Epidural.
+
+OT 1 1 0 0 Cámara de plástico.
+
+OT 1 1 0 1 Cámara de titanio.
+
+OT 1 1 1 Peritoneal o pleural.
+
+OT 1 1 1 0 Cámara de plástico.
+
+OT 1 1 1 1 Cámara de titanio.
+
+OT 1 1 2 Intratecal.
+
+OT 1 1 2 0 Cámara de plástico.
+
+OT 1 1 2 1 Cámara de titanio.
+
+OT 1 2 Partícula vehiculizadora de fármacos.
+
+OT 1 3 Catéter de administración de fármacos de larga duración.
+
+OT 1 3 0 Tunelizado.
+
+OT 1 3 1 No tunelizado.
+
+RE Implantes del aparato respiratorio.
+
+RE 0 Prótesis traqueales y bronquiales.
+
+RE 0 0 Tubo traqueal en T.
+
+RE 0 1 Prótesis traqueo-bronquial.
+
+RE 0 1 0 Metálica recubierta.
+
+RE 0 1 1 No metálica.
+
+RE 0 1 1 0 Silicona.
+
+RE 0 1 1 1 Plástico.
+
+RE 0 1 2 Mixta.
+
+RE 0 2 Dispositivo endobronquial.
+
+RE 0 2 0 Válvula endobronquial, para pacientes con EPOC grave que muestren cisura interlobulillar completa o ausencia de ventilación colateral y para pacientes con fuga aérea persistente.
+
+RE 0 2 1 Dispositivo para reducción de volumen pulmonar mediante retracción pulmonar.
+
+RP Implantes reparadores.
+
+RP 0 Prótesis mamarias (No se consideran incluidas cuando se utilicen en intervenciones de cirugía estética que no guarden relación con accidente, enfermedad o malformación congénita).
+
+RP 0 0 Prótesis mamaria redonda.
+
+RP 0 0 0 Gel de silicona.
+
+RP 0 0 0 0 Lisa.
+
+RP 0 0 0 1 Texturada.
+
+RP 0 0 1 Suero salino.
+
+RP 0 0 1 0 Lisa.
+
+RP 0 0 1 1 Texturada.
+
+RP 0 1 Prótesis mamaria anatómica.
+
+RP 0 1 0 Gel de silicona.
+
+RP 0 1 0 0 Texturada.
+
+RP 0 1 1 Suero salino.
+
+RP 0 1 1 0 Texturada.
+
+RP 0 2 Prótesis mamaria ajustable.
+
+RP 0 2 0 Redonda rellena de gel de silicona y suero salino.
+
+RP 0 2 0 0 Lisa.
+
+RP 0 2 0 1 Texturada.
+
+RP 0 2 1 Anatómica de suero salino, texturada y puerto de inyección a distancia.
+
+RP 0 3 Prótesis de silicona a medida, para defectos torácicos secundarios a malformaciones congénitas, traumatismos o enfermedades, que no pueden ser reparados con tejido autólogo.
+
+RP 0 4 Prótesis con superficie de poliuretano.
+
+RP 1 Expansores cutáneos (No se consideran incluidos cuando se utilicen en intervenciones de cirugía estética que no guarden relación con accidente, enfermedad o malformación congénita).
+
+RP 1 0 Expansor mamario.
+
+RP 1 0 0 Con válvula incorporada.
+
+RP 1 0 0 0 Redondo.
+
+RP 1 0 0 1 Anatómico.
+
+RP 1 0 1 Con válvula a distancia y retirada opcional del puerto de inyección.
+
+RP 1 1 Expansor tisular.
+
+RP 2 Implantes para cirugía craneo-facial (No se consideran incluidos cuando se utilicen en intervenciones de cirugía estética que no guarden relación con accidente, enfermedad o malformación congénita).
+
+RP 2 0 Implante facial.
+
+RP 2 0 0 Malar, submalar, medio facial y mandibular.
+
+RP 2 0 0 0 Dispositivo de titanio.
+
+RP 2 0 0 1 Dispositivo reabsorbible, para pacientes pediátricos.
+
+RP 2 0 1 Implante dental, para pacientes con procesos oncológicos que afectan a la cavidad oral que impliquen la pérdida de dientes relacionada directamente con la patología o su tratamiento, y pacientes con malformaciones congénitas que cursan con anodoncia (fisurados, malformaciones linfáticas, displasia ectodérmica, síndromes craneofaciales, etc.).
+
+RP 2 0 2 Orbitario.
+
+RP 2 0 2 0 Dispositivo de titanio.
+
+RP 2 0 2 1 Dispositivo reabsorbible, para pacientes pediátricos y en defectos pequeños.
+
+RP 2 0 3 Salivar.
+
+RP 2 0 3 0 Dispositivo para cirugía mínimamente invasiva (stent).
+
+RP 2 0 4 Nasal.
+
+RP 2 0 4 0 Sistema de implante de titanio osteointegrado para fijación prótesis nasal.
+
+RP 2 0 5 Pabellón auricular.
+
+RP 2 0 5 0 Sistema de implante de titanio osteointegrado para fijación prótesis auricular.
+
+RP 2 1 Prótesis de articulación témporo-mandibular.
+
+RP 2 1 0 Total.
+
+RP 2 2 Prótesis para reconstrucción de cavidades mastoideas.
+
+RP 2 3 Plastia craneal.
+
+RP 2 3 0 Para sustitución ósea.
+
+RP 2 3 0 0 Sintética.
+
+RP 2 3 0 1 Metálica.
+
+RP 2 3 0 2 Biológica xenóloga.
+
+RP 2 3 0 3 Sistema de cierre reabsorbible, para pacientes pediátricos.
+
+RP 2 3 1 Para sustitución de la duramadre.
+
+RP 2 3 1 0 Sintética.
+
+RP 2 3 1 1 Biológica xenóloga.
+
+RP 3 Mallas de contención de eventraciones y hernias (incluidos diferentes tamaños y densidades de malla).
+
+RP 3 0 Malla de reparación de hernias de pared abdominal y eventraciones.
+
+RP 3 0 0 Para cirugía abierta y/o laparoscópica extraperitoneal.
+
+RP 3 0 0 0 Malla plana.
+
+RP 3 0 0 1 Malla plana preformada.
+
+RP 3 0 0 2 Malla tapón o similar.
+
+RP 3 0 0 3 Malla autoadhesiva.
+
+RP 3 0 0 4 Malla autoexpandible.
+
+RP 3 0 1 Para cirugía abierta y/o laparoscópica intraperitoneal.
+
+RP 3 0 1 0 Malla plana.
+
+RP 3 0 1 0 0 Parcialmente absorbible.
+
+RP 3 0 1 0 1 No absorbible.
+
+RP 3 0 1 0 1 0 Malla de doble capa.
+
+RP 3 0 1 0 1 1 Malla de una capa.
+
+RP 3 0 1 1 Malla autoexpandible.
+
+RP 3 1 Malla de reparación herniaria en ambientes contaminados, abdomen abierto y síndrome compartimental abdominal.
+
+RP 3 1 0 Malla biológica.
+
+RP 3 1 1 Malla sintética reabsorbible.
+
+RP 3 2 Malla de reparación de otras hernias.
+
+RP 3 2 0 Torácica.
+
+RP 3 2 1 Hiatal.
+
+RP 3 2 1 0 Absorbible.
+
+RP 3 2 1 1 Permanente.
+
+RP 3 2 2 Paraestomal.
+
+RP 3 2 2 0 Absorbible.
+
+RP 3 2 2 1 Permanente.
+
+RP 4 Sustitutos musculares, para pacientes que precisen prótesis a medida sustitutivas en ausencias congénitas del músculo pectoral o Síndrome de Poland.
+
+RP 5 Sustitutos dérmicos.
+
+RP 5 0 Lámina de regeneración dérmica.
+
+RP 6 Láminas biológicas de soporte.
+
+RP 6 0 Matriz dérmica acelular.
+
+RP 6 1 Matriz no dérmica.
+
+TR Implantes osteoarticulares.
+
+TR 0 Prótesis de cadera.
+
+TR 0 0 Primaria.
+
+TR 0 0 0 Parcial.
+
+TR 0 0 0 0 Cementada.
+
+TR 0 0 0 0 0 Monobloque.
+
+TR 0 0 0 0 1 Bipolar.
+
+TR 0 0 0 0 2 Unipolar.
+
+TR 0 0 0 1 No cementada.
+
+TR 0 0 0 1 0 Bipolar.
+
+TR 0 0 0 1 1 Unipolar.
+
+TR 0 0 1 Total.
+
+TR 0 0 1 0 Cementada.
+
+TR 0 0 1 0 0 Par metal-polietileno.
+
+TR 0 0 1 0 1 Par cerámica-polietileno.
+
+TR 0 0 1 1 No cementada.
+
+TR 0 0 1 1 0 Par metal-polietileno.
+
+TR 0 0 1 1 1 Par cerámica-cerámica.
+
+TR 0 0 1 1 2 Par cerámica-polietileno.
+
+TR 0 0 1 2 Híbrida.
+
+TR 0 0 1 2 0 Par metal-polietileno.
+
+TR 0 0 1 2 1 Par cerámica-cerámica.
+
+TR 0 0 1 2 2 Par cerámica-polietileno.
+
+TR 0 1 De revisión.
+
+TR 0 1 0 Componente femoral.
+
+TR 0 1 1 Componente acetabular.
+
+TR 0 1 2 Par de fricción.
+
+TR 0 1 3 Suplemento/soporte.
+
+TR 0 1 4 Espaciador.
+
+TR 0 2 Tumoral o especial.
+
+TR 0 2 0 Megaprótesis modular.
+
+TR 0 2 1 Prótesis de pelvis.
+
+TR 0 2 2 Prótesis a medida.
+
+TR 1 Prótesis de rodilla.
+
+TR 1 0 Primaria.
+
+TR 1 0 0 Unicompartimental (unicondílea o femoropatelar).
+
+TR 1 0 0 0 Cementada.
+
+TR 1 0 0 1 No cementada.
+
+TR 1 0 1 Total.
+
+TR 1 0 1 0 Cementada.
+
+TR 1 0 1 0 0 Estabilizada posterior (PS).
+
+TR 1 0 1 0 1 Conservación del cruzado (CR).
+
+TR 1 0 1 0 2 Polietileno de alta congruencia.
+
+TR 1 0 1 0 3 Componente tibial todo de polietileno.
+
+TR 1 0 1 1 No cementada.
+
+TR 1 0 1 1 0 Estabilizada posterior (PS).
+
+TR 1 0 1 1 1 Conservación cruzado (CR).
+
+TR 1 0 1 1 2 Inserto de polietileno.
+
+TR 1 0 1 2 Híbrida.
+
+TR 1 0 1 2 0 Estabilizada posterior (PS).
+
+TR 1 0 1 2 1 Conservación cruzado (CR).
+
+TR 1 0 1 2 2 Inserto de polietileno.
+
+TR 1 0 1 2 3 Componente tibial todo de polietileno.
+
+TR 1 1 De revisión.
+
+TR 1 1 0 Componente femoral.
+
+TR 1 1 1 Componente tibial.
+
+TR 1 1 2 Inserto de polietileno.
+
+TR 1 1 3 Suplemento/soporte.
+
+TR 1 1 4 Componente rotuliano.
+
+TR 1 1 5 Espaciador.
+
+TR 1 1 6 Prótesis de charnela.
+
+TR 1 2 Tumoral o especial.
+
+TR 1 2 0 Megaprótesis modular.
+
+TR 1 2 1 Prótesis a medida.
+
+TR 2 Prótesis de tobillo y de pie.
+
+TR 2 0 Prótesis de tobillo.
+
+TR 2 1 Prótesis de pie.
+
+TR 2 1 0 Prótesis de antepie.
+
+TR 2 1 0 0 Metatarsofalángica, para pacientes con artritis o artrosis incapacitante de la primera articulación metatarsofalángica (hallux rigidus).
+
+TR 2 1 0 1 Interfalángica, para reconstrucciones totales o parciales de pie tras traumatismos severos.
+
+TR 3 Prótesis de columna.
+
+TR 3 0 De cuerpo vertebral.
+
+TR 3 0 0 Cervical.
+
+TR 3 0 1 Torácica.
+
+TR 3 0 2 Lumbar.
+
+TR 3 1 Intervertebral.
+
+TR 3 1 0 Prótesis discal, para pacientes que no responden a tratamiento médico conservador.
+
+TR 3 1 0 0 Cervical.
+
+TR 3 1 0 1 Lumbar, para pacientes con lumbalgia crónica asociada a degeneración discal entre los niveles L4-S1.
+
+TR 3 1 1 Espaciador intersomático.
+
+TR 3 1 1 0 Cervical.
+
+TR 3 1 1 0 0 Sin fijación.
+
+TR 3 1 1 0 1 Con fijación.
+
+TR 3 1 1 1 Lumbar.
+
+TR 3 1 1 1 0 Posterior PLIF.
+
+TR 3 1 1 1 1 Posterolateral TLIF.
+
+TR 3 1 1 1 2 Lateral XLIF/DLIF.
+
+TR 3 1 1 1 3 Anterior ALIF.
+
+TR 3 1 1 1 3 0 Sin fijación.
+
+TR 3 1 1 1 3 1 Con fijación.
+
+TR 3 1 2 Dispositivo interespinoso, para el tratamiento de la estenosis espinal lumbar sintomática en pacientes que no responden a tratamiento conservador y no candidatos a tratamiento quirúrgico convencional.
+
+TR 3 2 Fijación vertebral.
+
+TR 3 2 0 Cervical.
+
+TR 3 2 0 0 Occipito-cervical.
+
+TR 3 2 0 1 Cervical posterior.
+
+TR 3 2 0 2 Cervical anterior.
+
+TR 3 2 1 Torácica.
+
+TR 3 2 1 0 Anterior.
+
+TR 3 2 1 1 Posterior.
+
+TR 3 2 2 Lumbar.
+
+TR 3 2 2 0 Anterior.
+
+TR 3 2 2 1 Posterior.
+
+TR 3 2 2 1 0 Fija.
+
+TR 3 2 2 1 1 Dinámica.
+
+TR 3 2 3 Sacroilíaca, para pacientes con dolor en la región sacroilíaca, refractario a cualquier terapia convencional (farmacológica, fisioterápica, rehabilitadora, denervación).
+
+TR 3 2 4 Dispositivo para corrección de deformidades de columna vertebral (escoliosis, cifosis).
+
+TR 3 3 Dispositivo para cifoplastia y vertebroplastia, para pacientes con fractura osteoporótica por compresión.
+
+TR 3 3 0 Vertebroplastia.
+
+TR 3 3 1 Cifoplastia.
+
+TR 3 3 2 Stentoplastia, para pacientes con una o más fracturas osteoporóticas de cuerpo vertebral localizadas en el segmento T10-L5 que se acompañan de dolor refractario a tratamiento médico a nivel de la fractura, valorando de forma individual los beneficios y riesgos de su realización.
+
+TR 4 Prótesis de hombro.
+
+TR 4 0 Primaria.
+
+TR 4 0 0 Parcial.
+
+TR 4 0 0 0 Cementada.
+
+TR 4 0 0 1 No cementada.
+
+TR 4 0 1 Total.
+
+TR 4 0 1 0 Cementada.
+
+TR 5 1 0 0 0 Estándar.
+
+TR 5 1 0 0 1 Invertida.
+
+TR 4 0 1 1 No cementada.
+
+TR 5 1 0 1 0 Estándar.
+
+TR 5 1 0 1 1 Invertida.
+
+TR 4 0 1 2 Híbrida.
+
+TR 4 0 2 De recubrimiento.
+
+TR 4 1 De revisión.
+
+TR 4 1 0 Componente humeral.
+
+TR 4 1 1 Componente glenoideo.
+
+TR 4 1 2 Suplemento/soporte.
+
+TR 4 1 3 Espaciador.
+
+TR 4 2 Tumoral o especial.
+
+TR 4 2 0 Megaprótesis modular.
+
+TR 4 2 1 Prótesis a medida.
+
+TR 5 Prótesis de codo.
+
+TR 5 0 Primaria.
+
+TR 5 0 0 Parcial (Hemiartroplastia).
+
+TR 5 0 1 Total.
+
+TR 5 0 2 Prótesis de cabeza de radio.
+
+TR 5 1 De revisión.
+
+TR 5 2 Tumoral.
+
+TR 5 2 0 Megaprótesis modular.
+
+TR 5 2 1 Prótesis a medida.
+
+TR 6 Prótesis de muñeca y de mano.
+
+TR 6 0 Prótesis de muñeca.
+
+TR 6 0 0 Parcial (radiocubital distal).
+
+TR 6 0 1 Total.
+
+TR 6 1 Prótesis de mano.
+
+TR 6 1 0 Hueso del carpo.
+
+TR 6 1 1 Trapeciometacarpiana.
+
+TR 6 1 2 Metacarpofalángica.
+
+TR 6 1 3 Interfalángica.
+
+TR 7 Otros implantes osteoarticulares.
+
+TR 7 0 Ligamentos y tendones.
+
+TR 7 1 Osteosíntesis.
+
+TR 7 2 Sustituto óseo sintético.
+
+VA Implantes vasculares.
+
+VA 0 Sustitutos vasculares.
+
+VA 0 0 Sintético.
+
+VA 0 0 0 Tubular bifurcado.
+
+VA 0 0 0 0 PTFE.
+
+VA 0 0 0 0 0 Pared fina.
+
+VA 0 0 0 0 0 0 Anillado.
+
+VA 0 0 0 0 0 1 No anillado.
+
+VA 0 0 0 0 1 Pared estándar.
+
+VA 0 0 0 0 1 0 Anillado.
+
+VA 0 0 0 0 1 1 No anillado.
+
+VA 0 0 0 1 Poliéster.
+
+VA 0 0 0 1 0 Estándar.
+
+VA 0 0 0 1 0 0 Anillado.
+
+VA 0 0 0 1 0 1 No anillado.
+
+VA 0 0 0 1 1 Impregnado.
+
+VA 0 0 0 1 1 0 Anillado.
+
+VA 0 0 0 1 1 1 No anillado.
+
+VA 0 0 1 Tubular recto.
+
+VA 0 0 1 0 PTFE cilíndrico/asimétrico.
+
+VA 0 0 1 0 0 Pared fina.
+
+VA 0 0 1 0 0 0 Anillado.
+
+VA 0 0 1 0 0 1 No anillado.
+
+VA 0 0 1 0 1 Pared estándar.
+
+VA 0 0 1 0 1 0 Anillado.
+
+VA 0 0 1 0 1 1 No anillado.
+
+VA 0 0 1 0 1 2 Impregnado.
+
+VA 0 0 1 1 Poliéster.
+
+VA 0 0 1 1 0 Estándar.
+
+VA 0 0 1 1 0 0 Anillado.
+
+VA 0 0 1 1 0 1 No anillado.
+
+VA 0 0 1 1 1 Impregnado.
+
+VA 0 0 1 1 1 0 Anillado.
+
+VA 0 0 1 1 1 1 No anillado.
+
+VA 0 0 2 Parche.
+
+VA 0 0 2 0 PTFE.
+
+VA 0 0 2 1 Poliéster.
+
+VA 0 1 Biológico xenólogo (los autólogos se contemplan en el apartado 5.2.16 de trasplantes del anexo III).
+
+VA 0 1 0 Tubular.
+
+VA 0 1 1 Parche.
+
+VA 0 2 Acceso vascular.
+
+VA 0 2 0 Sintético.
+
+VA 0 2 0 0 Prótesis tubular para hemodiálisis (PTFE).
+
+VA 0 2 0 1 Catéter permanente con tunelización.
+
+VA 0 2 1 Biológico xenólogo (los autólogos se contemplan en el apartado 5.2.16 de trasplantes del anexo III).
+
+VA 1 Implantes endovasculares (conforme a los protocolos de cada administración sanitaria competente).
+
+VA 1 0 Endovascular cerebral.
+
+V A 1 0 1 Stent convencional.
+
+V A 1 0 1 0 Autoexpandible.
+
+V A 1 0 1 1 Expandible con balón
+
+V A 1 0 2 Stent derivador de flujo.
+
+VA 1 1 Endovascular coronario.
+
+VA 1 1 0 Stent no impregnado.
+
+VA 1 1 0 0 Simple.
+
+VA 1 1 0 1 Bifurcado.
+
+VA 1 1 1 Stent impregnado.
+
+VA 1 1 1 0 Con fármaco antiproliferativo.
+
+VA 1 1 1 0 0 Simple.
+
+VA 1 1 1 0 1 Bifurcado.
+
+VA 1 1 1 1 Con fármaco no antiproliferativo.
+
+VA 1 1 2 Stent biorreabsorbible, para tratamiento de la cardiopatía isquémica en pacientes con lesiones coronarias de novo en arteria coronaria nativa y enfermedad de uno o dos vasos, fuera de la fase aguda del infarto de miocardio, sin contraindicación relativa a la doble terapia antiagregante y con ausencia de afectación de tronco coronario o by-pass aorto-coronario.
+
+VA 1 1 3 Stent cubierto con malla.
+
+VA 1 2 Endovascular aórtico.
+
+VA 1 2 0 Torácico.
+
+VA 1 2 0 0 Stent no cubierto.
+
+VA 1 2 0 1 Stent cubierto.
+
+VA 1 2 0 1 0 Recto cilíndrico/cónico.
+
+VA 1 2 0 1 1 Con ramas.
+
+VA 1 2 0 1 2 Fenestrado.
+
+VA 1 2 1 Abdominal.
+
+VA 1 2 1 0 Stent no cubierto.
+
+VA 1 2 1 1 Stent cubierto.
+
+VA 1 2 1 1 0 Recto cilíndrico/cónico.
+
+VA 1 2 1 1 1 Bifurcado.
+
+VA 1 2 1 1 2 Con ramas.
+
+VA 1 2 1 1 3 Fenestrado.
+
+Los stents cubiertos individualizados a medida requerirán autorización previa del Servicio de Salud.
+
+VA 1 3 Endovascular carotídeo.
+
+VA 1 3 0 Stent expandible con balón.
+
+VA 1 3 0 0 Cubierto.
+
+VA 1 3 0 1 No cubierto.
+
+VA 1 3 1 Stent autoexpandible.
+
+VA 1 3 1 0 Recto cilíndrico/cónico.
+
+VA 1 3 1 1 De lámina abierta.
+
+VA 1 4 Endovascular periférico.
+
+VA 1 4 0 Stent cubierto.
+
+VA 1 4 0 0 Expandible con balón.
+
+VA 1 4 0 0 0 Impregnado.
+
+VA 1 4 0 0 1 No impregnado.
+
+VA 1 4 0 1 Autoexpandibles.
+
+VA 1 4 0 1 0 Impregnado.
+
+VA 1 4 0 1 1 No impregnado.
+
+VA 1 4 1 Stent no cubierto.
+
+VA 1 4 1 0 Expandible con balón.
+
+VA 1 4 1 0 0 Impregnado.
+
+VA 1 4 1 0 1 No impregnado.
+
+VA 1 4 1 1 Autoexpandible.
+
+VA 1 4 1 1 0 Impregnado.
+
+VA 1 4 1 1 1 No impregnado.
+
+VA 1 4 2 Stent biorreabsorbible, para pacientes con arteriopatía periférica con lesiones no complejas, no extensas y no calcificadas.
+
+VA 1 5 Filtro vena cava.
+
+VA 2 Sistemas de cierre/oclusión vascular.
+
+VA 2 0 Dispositivo hemostático.
+
+VA 2 0 0 Con sutura.
+
+VA 2 0 1 Sin sutura.
+
+VA 2 1 Tapón vascular.
+
+VA 2 1 0 Cubierto.
+
+VA 2 1 1 No cubierto.
+
+VA 2 2 Material de embolización.
+
+VA 2 2 0 Partícula.
+
+VA 2 2 0 0 Calibrada.
+
+VA 2 2 0 1 No calibrada.
+
+VA 2 2 0 2 Para embolización y liberación de fármaco.
+
+VA 2 2 1 Líquido.
+
+V A 2 2 1 0 Agente líquido de uso endovascular
+
+V A 2 2 1 1 Agente esclerosante de uso percutáneo.
+
+VA 2 2 2 Dispositivo.
+
+VA 2 2 2 0 Espiral empujable.
+
+VA 2 2 2 1 Espiral de liberación controlada.
+
+VA 2 2 2 1 0 Mecánica.
+
+VA 2 2 2 1 1 No mecánica.
+
+VA 2 2 2 2 Dispositivo no espiral de liberación controlada
+
+6.2 Implantes quirúrgicos diagnósticos:
+
+DC Implantes cardiacos diagnósticos.
+
+DC 0 Holters implantables con/sin monitorización remota, para la evaluación de pacientes con síncopes u otros problemas significativos poco frecuentes en los que se sospeche causa arrítmica y en los que una evaluación extensa inicial no demostró la causa o no llevó a un tratamiento específico
+
+> Se modifican los epígrafes CA 1 4 4 y CD 0 del punto 6.1 por el art. único.7 y 8 de la Orden SND/454/2025, de 9 de mayo. [Ref. BOE-A-2025-9277](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-9277)
+
+> Se modifican los epígrafes CA 1 6 0 y RE 0 2 0 por el art. 1.9 y 10 de la Orden SND/606/2024, de 13 de junio. [Ref. BOE-A-2024-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12290)
+
+> Se sustituye por el art. 2.5 y el anexo I de la Orden SSI/1356/2015, de 2 de julio. [Ref. BOE-A-2015-7629](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7629).
+
+> Se actualiza el epígrafe OR 1 0 del punto 6.1 por el art. único.1 de la Orden SAS/1466/2010, de 28 de mayo. [Ref. BOE-A-2010-9027](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9027)
+
+### 7. Prótesis externas
+
+Grupo: 06 18 Prótesis de miembro superior, incluidas las mioeléctricas para pacientes mayores de dos años amputados unilaterales o bilaterales, prescritas exclusivamente por los servicios de Rehabilitación de los hospitales en la forma en que determinen las Comunidades Autónomas, Instituto Nacional de Gestión Sanitaria y las Mutualidades de Funcionarios en su respectivo ámbito de gestión, a los pacientes que cumplan todos los requisitos siguientes:
+
+1\. Tener suficiente capacidad mental y de control mioeléctrico que les permita el manejo de la prótesis de forma segura y eficaz.
+
+2\. Desarrollar actividades de la vida diaria o laborales en las que la utilización de la prótesis mioeléctrica les supondría una ventaja respecto al uso de una prótesis funcional o pasiva.
+
+3\. Participar en un programa de rehabilitación para su adiestramiento.
+
+4\. Disponer de un entorno familiar o supervisión externa que favorezca un uso adecuado y continuado de la prótesis en los niños y personas dependientes.
+
+Para la prescripción de prótesis mioeléctricas se seguirán los protocolos que al efecto establezcan las administraciones sanitarias competentes.
+
+<table class="tabla_ancha">
+<caption>
+<p class="parrafo_2">Subgrupo: 06 18 03 Prótesis parciales de mano, incluyendo las prótesis de dedo.</p>
+</caption>
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">IMF</p>
+<p class="cabeza_tabla">(importe máximo de financiación)</p>
+</th>
+<th class="cabeza_tabla">IMF si (sin impuestos)</th>
+</tr>
+</thead>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">
+<p class="cuerpo_tabla_izq">PSM 000 Prótesis para amputación parcial de mano.</p>
+</td>
+<td class="cuerpo_tabla_izq">PSM 000A Prótesis pasiva para amputación parcial de mano, a medida, con guante de PVC incluido.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">917,58</td>
+<td class="cuerpo_tabla_coma">834,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSM 000B Prótesis pasiva para amputación parcial de mano, a medida, con guante de silicona incluido.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">1.026,23</td>
+<td class="cuerpo_tabla_coma">932,94</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSM 000C Prótesis para amputación parcial de mano con funcionalidad del pulgar conservada, a medida (Prescribir además un guante).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">843,19</td>
+<td class="cuerpo_tabla_coma">766,54</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSM 010 Prótesis pasiva para amputación de un dedo (epítesis).</td>
+<td class="cuerpo_tabla_izq">PSM 010A Prótesis pasiva de silicona para amputación de dedo índice o medio con pulgar conservado, a medida (Especial prescripción).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">2.416,40</td>
+<td class="cuerpo_tabla_coma">2.196,73</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 18 06 Prótesis de desarticulación de muñeca.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">PSN 000 Prótesis pasiva de desarticulación de muñeca.</p>
+</td>
+<td class="cuerpo_tabla_izq">PSN 000A Prótesis pasiva de desarticulación de muñeca, a medida, con encaje infracondilar exterior rígido de antebrazo, sistema de suspensión, mano pasiva y guante (Prescribir, si lo precisa, un encaje interior y/o vaina).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">2.166,38</td>
+<td class="cuerpo_tabla_coma">1.969,44</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSN 000B Prótesis pasiva de desarticulación de muñeca, a medida, con encaje supracondilar exterior rígido de antebrazo, mano pasiva y guante (Prescribir además un encaje interior y/o vaina).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">2.013,49</td>
+<td class="cuerpo_tabla_coma">1.830,45</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PSN 010 Prótesis mecánica de desarticulación de muñeca.</td>
+<td class="cuerpo_tabla_izq">PSN 010A Prótesis mecánica de desarticulación de muñeca, a medida, con encaje infracondilar exterior rígido de antebrazo (Prescribir además un sistema de suspensión, un sistema de accionamiento cinemático, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">1.344,38</td>
+<td class="cuerpo_tabla_coma">1.222,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSN 010B Prótesis mecánica de desarticulación de muñeca, a medida, con encaje supracondilar exterior rígido de antebrazo (Prescribir además un encaje interior y/o vaina, un sistema de accionamiento cinemático, un terminal a elección y, si lo precisa, un guante).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">1.503,75</td>
+<td class="cuerpo_tabla_coma">1.367,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PSN 020 Prótesis mioeléctrica de desarticulación de muñeca.</td>
+<td class="cuerpo_tabla_izq">PSN 020A Prótesis mioeléctrica de desarticulación de muñeca, a medida, con encaje infracondilar exterior rígido de antebrazo (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">2.811,45</td>
+<td class="cuerpo_tabla_coma">2.555,86</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSN 020B Prótesis mioeléctrica de desarticulación de muñeca, a medida, con encaje supracondilar exterior rígido de antebrazo (Prescribir además un encaje interior y/o vaina, electrodos, baterías, un cargador, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería y un guante).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td class="cuerpo_tabla_coma">2.882,37</td>
+<td class="cuerpo_tabla_coma">2.620,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">
+<p class="cuerpo_tabla_izq">PSN 900 Encaje para prótesis de desarticulación de muñeca.</p>
+</td>
+<td class="cuerpo_tabla_izq">PSN 900A Encaje infracondilar exterior rígido para prótesis mecánica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.314,38</td>
+<td class="cuerpo_tabla_coma">1.194,89</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSN 900B Encaje supracondilar exterior rígido para prótesis mecánica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.473,75</td>
+<td class="cuerpo_tabla_coma">1.339,77</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSN 900C Encaje infracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.711,45</td>
+<td class="cuerpo_tabla_coma">2.464,95</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSN 900D Encaje supracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.782,37</td>
+<td class="cuerpo_tabla_coma">2.529,43</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSN 900E Encaje infracondilar interior en termoplástico blando para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">412,50</td>
+<td class="cuerpo_tabla_coma">375,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSN 900F Encaje infracondilar interior en silicona para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">872,73</td>
+<td class="cuerpo_tabla_coma">793,39</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">PSN 900 Encaje para prótesis de desarticulación de muñeca.</td>
+<td class="cuerpo_tabla_izq">PSN 900G Encaje infracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">412,50</td>
+<td class="cuerpo_tabla_coma">375,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSN 900H Encaje infracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">878,17</td>
+<td class="cuerpo_tabla_coma">798,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSN 900I Encaje supracondilar interior en termoplástico blando para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">412,50</td>
+<td class="cuerpo_tabla_coma">375,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSN 900J Encaje supracondilar interior en silicona para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">987,80</td>
+<td class="cuerpo_tabla_coma">898,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSN 900K Encaje supracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">412,50</td>
+<td class="cuerpo_tabla_coma">375,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSN 900L Encaje supracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">990,00</td>
+<td class="cuerpo_tabla_coma">900,00</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 18 09 Prótesis transradial (por debajo del codo).</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">
+<p class="cuerpo_tabla_izq">PSA 000 Prótesis pasiva transradial.</p>
+</td>
+<td class="cuerpo_tabla_izq">PSA 000A Prótesis pasiva transradial, a medida, con encaje infracondilar exterior rígido, estructura endoesquelética, cubierta de espuma, media y articulación de muñeca (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">2.636,15</td>
+<td class="cuerpo_tabla_coma">2.396,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 000B Prótesis pasiva transradial, a medida, con encaje supracondilar exterior rígido, estructura endoesquelética, cubierta de espuma, media y articulación de muñeca (Prescribir además un encaje interior y/o vaina, una mano pasiva y un guante a elección).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">2.794,09</td>
+<td class="cuerpo_tabla_coma">2.540,08</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 000C Prótesis pasiva transradial, a medida, con encaje infracondilar exterior rígido, estructura exoesquelética y articulación de muñeca (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">2.206,38</td>
+<td class="cuerpo_tabla_coma">2.005,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 000D Prótesis pasiva transradial, a medida, con encaje supracondilar exterior rígido, estructura exoesquelética y articulación de muñeca (Prescribir además un encaje interior y/o vaina, una mano pasiva y un guante a elección).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">2.364,33</td>
+<td class="cuerpo_tabla_coma">2.149,39</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PSA 010 Prótesis mecánica transradial.</td>
+<td class="cuerpo_tabla_izq">PSA 010A Prótesis mecánica transradial, a medida, con encaje infracondilar exterior rígido y estructura exoesquelética (Prescribir además un sistema de accionamiento cinemático, un sistema de suspensión, una articulación de muñeca, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">2.157,38</td>
+<td class="cuerpo_tabla_coma">1.961,25</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 010B Prótesis mecánica transradial, a medida, con encaje supracondilar exterior rígido y estructura exoesquelética (Prescribir además un encaje interior y/o vaina, un sistema de accionamiento cinemático, una articulación de muñeca, un terminal a elección y, si lo precisa, un guante).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">2.315,32</td>
+<td class="cuerpo_tabla_coma">2.104,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PSA 020 Prótesis mioeléctrica transradial.</td>
+<td class="cuerpo_tabla_izq">PSA 020A Prótesis mioeléctrica transradial, a medida, con encaje infracondilar exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería un encaje interior y/o vaina, y un guante).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">3.989,37</td>
+<td class="cuerpo_tabla_coma">3.626,70</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 020B Prótesis mioeléctrica transradial, a medida, con encaje supracondilar exterior rígido y estructura exoesquelética (Prescribir además un encaje interior y/o vaina, electrodos, baterías, un cargador, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería y un guante).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">4.142,21</td>
+<td class="cuerpo_tabla_coma">3.765,65</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">PSA 900 Encaje para prótesis transradial.</td>
+<td class="cuerpo_tabla_izq">PSA 900A Encaje infracondilar exterior rígido para prótesis pasiva o mecánica transradial, a medida. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.427,57</td>
+<td class="cuerpo_tabla_coma">1.297,79</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 900B Encaje supracondilar exterior rígido para prótesis pasiva o mecánica transradial, a medida. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.585,51</td>
+<td class="cuerpo_tabla_coma">1.441,37</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 900C Encaje infracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica transradial, a medida. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.169,56</td>
+<td class="cuerpo_tabla_coma">2.881,42</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 900D Encaje supracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica transradial, a medida. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.322,39</td>
+<td class="cuerpo_tabla_coma">3.020,35</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 900E Encaje infracondilar interior en termoplástico blando para prótesis pasiva o mecánica transradial, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">412,50</td>
+<td class="cuerpo_tabla_coma">375,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 900F Encaje infracondilar interior en silicona para prótesis pasiva o mecánica transradial, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">984,50</td>
+<td class="cuerpo_tabla_coma">895,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">PSA 900 Encaje para prótesis transradial.</td>
+<td class="cuerpo_tabla_izq">PSA 900G Encaje infracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">412,50</td>
+<td class="cuerpo_tabla_coma">375,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 900H Encaje infracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">990,00</td>
+<td class="cuerpo_tabla_coma">900,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 900I Encaje supracondilar interior en termoplástico blando para prótesis pasiva o mecánica transradial, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">412,50</td>
+<td class="cuerpo_tabla_coma">375,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 900J Encaje supracondilar interior en silicona para prótesis pasiva o mecánica transradial, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">984,50</td>
+<td class="cuerpo_tabla_coma">895,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 900K Encaje supracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">412,50</td>
+<td class="cuerpo_tabla_coma">375,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 900L Encaje supracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">990,00</td>
+<td class="cuerpo_tabla_coma">900,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">PSA 910 Otros componentes de prótesis transradial.</td>
+<td class="cuerpo_tabla_izq">PSA 910A Cubierta de espuma para prótesis endoesquelética transradial, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">369,36</td>
+<td class="cuerpo_tabla_coma">335,78</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 910B Media para prótesis endoesquelética transradial.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">45,00</td>
+<td class="cuerpo_tabla_coma">40,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSA 910C Estructura exoesquelética para prótesis transradial, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">689,82</td>
+<td class="cuerpo_tabla_coma">627,11</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 18 12 Prótesis de desarticulación de codo.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">PSC 000 Prótesis pasiva de desarticulación de codo</td>
+<td class="cuerpo_tabla_izq">PSC 000A Prótesis pasiva de desarticulación de codo, a medida, con encaje exterior rígido, estructura exoesquelética, articulación de muñeca y articulación de codo (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina)</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">3.408,47</td>
+<td class="cuerpo_tabla_coma">3.098,61</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSC 010 Prótesis mecánica de desarticulación de codo</td>
+<td class="cuerpo_tabla_izq">PSC 010A Prótesis mecánica de desarticulación de codo, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, un sistema de accionamiento cinemático, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante)</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">2.882,88</td>
+<td class="cuerpo_tabla_coma">2.620,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSC 020 Prótesis mioeléctrica de desarticulación de codo</td>
+<td class="cuerpo_tabla_izq">PSC 020A Prótesis mioeléctrica de desarticulación de codo, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, una articulación de codo mecánica de barras externas, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante)</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">4.546,49</td>
+<td class="cuerpo_tabla_coma">4.133,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">PSC 900 Encaje para prótesis de desarticulación de codo</td>
+<td class="cuerpo_tabla_izq">PSC 900A Encaje exterior rígido para prótesis pasiva o mecánica de desarticulación de codo, a medida. Incluye adaptación y alineación</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.968,78</td>
+<td class="cuerpo_tabla_coma">1.789,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSC 900B Encaje exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de codo, a medida. Incluye adaptación y alineación</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.522,39</td>
+<td class="cuerpo_tabla_coma">3.202,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSC 900C Encaje interior en termoplástico blando para prótesis pasiva o mecánica de desarticulación de codo, a medida</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">462,00</td>
+<td class="cuerpo_tabla_coma">420,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSC 900D Encaje interior en silicona para prótesis pasiva o mecánica de desarticulación de codo, a medida</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.129,84</td>
+<td class="cuerpo_tabla_coma">1.027,13</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSC 900E Encaje interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de codo, a medida</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">462,00</td>
+<td class="cuerpo_tabla_coma">420,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSC 900F Encaje interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de codo, a medida</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.155,00</td>
+<td class="cuerpo_tabla_coma">1.050,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSC 910 Otros componentes de prótesis de desarticulación de codo</td>
+<td class="cuerpo_tabla_izq">PSC 910A Estructura exoesquelética para desarticulación de codo, a medida</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">864,10</td>
+<td class="cuerpo_tabla_coma">785,55</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 18 15 Prótesis transhumeral (por encima del codo).</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PSB 000 Prótesis pasiva transhumeral.</td>
+<td class="cuerpo_tabla_izq">PSB 000A Prótesis pasiva transhumeral, a medida, con encaje exterior rígido, estructura endoesquelética, cubierta de espuma y media (Prescribir además un sistema de suspensión, una articulación de codo pasiva, una articulación de muñeca pasiva, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">3.296,13</td>
+<td class="cuerpo_tabla_coma">2.996,48</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSB 000B Prótesis pasiva transhumeral, a medida, con encaje exterior rígido y estructura exoesquelética, articulación de muñeca y articulación de codo (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">3.607,14</td>
+<td class="cuerpo_tabla_coma">3.279,22</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSB 010 Prótesis mecánica transhumeral.</td>
+<td class="cuerpo_tabla_izq">PSB 010A Prótesis mecánica transhumeral, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de accionamiento cinemático, un sistema de suspensión, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">3.081,55</td>
+<td class="cuerpo_tabla_coma">2.801,41</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSB 020 Prótesis mioeléctrica transhumeral.</td>
+<td class="cuerpo_tabla_izq">PSB 020A Prótesis mioeléctrica transhumeral, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">4.858,89</td>
+<td class="cuerpo_tabla_coma">4.417,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">PSB 900 Encaje para prótesis transhumeral.</td>
+<td class="cuerpo_tabla_izq">PSB 900A Encaje exterior rígido para prótesis pasiva o mecánica transhumeral, a medida. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.975,05</td>
+<td class="cuerpo_tabla_coma">1.795,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSB 900B Encaje exterior rígido con cajeado para electrodos para prótesis mioeléctrica transhumeral, a medida. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.622,39</td>
+<td class="cuerpo_tabla_coma">3.293,08</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSB 900C Encaje interior en termoplástico blando para prótesis pasiva o mecánica transhumeral, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">462,00</td>
+<td class="cuerpo_tabla_coma">420,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSB 900D Encaje interior en silicona para prótesis pasiva o mecánica transhumeral, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.117,33</td>
+<td class="cuerpo_tabla_coma">1.015,75</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSB 900E Encaje interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica transhumeral, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">462,00</td>
+<td class="cuerpo_tabla_coma">420,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSB 900F Encaje interior en silicona con cajeado para electrodos para prótesis mioeléctrica transhumeral, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.155,00</td>
+<td class="cuerpo_tabla_coma">1.050,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">PSB 910 Otros componentes de prótesis transhumeral.</td>
+<td class="cuerpo_tabla_izq">PSB 910A Cubierta de espuma para prótesis endoesquelética transhumeral, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">368,72</td>
+<td class="cuerpo_tabla_coma">335,20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSB 910B Media para prótesis endoesquelética transhumeral.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">45,00</td>
+<td class="cuerpo_tabla_coma">40,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSB 910C Estructura exoesquelética para prótesis transhumeral, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">1.046,50</td>
+<td class="cuerpo_tabla_coma">951,36</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 18 18 Prótesis de desarticulación de hombro.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PSH 000 Prótesis pasiva de desarticulación de hombro.</td>
+<td class="cuerpo_tabla_izq">PSH 000A Prótesis pasiva de desarticulación de hombro, a medida, con encaje exterior rígido, estructura endoesquelética, cubierta de espuma, media, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">3.688,33</td>
+<td class="cuerpo_tabla_coma">3.353,03</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSH 000B Prótesis pasiva de desarticulación de hombro, a medida, con encaje exterior rígido, estructura exoesquelética, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva a elección y, si lo precisa, un encaje interior y/o vaina y un guante).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">3.446,16</td>
+<td class="cuerpo_tabla_coma">3.132,87</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSH 010 Prótesis mioeléctrica de desarticulación de hombro.</td>
+<td class="cuerpo_tabla_izq">PSH 010A Prótesis mioeléctrica de desarticulación de hombro, a medida, con encaje exterior rígido, estructura exoesquelética y sistema de suspensión (Prescribir además electrodos y/o microllave, baterías, un cargador, una articulación de hombro, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td class="cuerpo_tabla_coma">3.796,88</td>
+<td class="cuerpo_tabla_coma">3.451,71</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">
+<p class="cuerpo_tabla_izq">PSH 900 Encaje para prótesis de desarticulación de hombro.</p>
+</td>
+<td class="cuerpo_tabla_izq">PSH 900A Encaje exterior rígido para prótesis pasiva de desarticulación de hombro, a medida. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.153,69</td>
+<td class="cuerpo_tabla_coma">1.048,81</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSH 900B Encaje exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de hombro, a medida. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.880,00</td>
+<td class="cuerpo_tabla_coma">1.709,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSH 900C Encaje interior en termoplástico blando para prótesis pasiva de desarticulación de hombro, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">462,00</td>
+<td class="cuerpo_tabla_coma">420,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSH 900D Encaje interior en silicona para prótesis pasiva de desarticulación de hombro, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.197,58</td>
+<td class="cuerpo_tabla_coma">1.088,71</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSH 900E Encaje interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de hombro, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">462,00</td>
+<td class="cuerpo_tabla_coma">420,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSH 900F Encaje interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de hombro, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.210,00</td>
+<td class="cuerpo_tabla_coma">1.100,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">PSH 910 Otros componentes de prótesis de desarticulación de hombro.</td>
+<td class="cuerpo_tabla_izq">PSH 910A Sistema de suspensión para desarticulación de hombro.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">386,84</td>
+<td class="cuerpo_tabla_coma">351,67</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSH 910B Cubierta de espuma para prótesis endoesquelética de desarticulación de hombro, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">430,50</td>
+<td class="cuerpo_tabla_coma">391,36</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSH 910C Media para prótesis endoesquelética de desarticulación de hombro.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">45,00</td>
+<td class="cuerpo_tabla_coma">40,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSH 910D Estructura exoesquelética para prótesis de desarticulación de hombro, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">1.310,04</td>
+<td class="cuerpo_tabla_coma">1.190,95</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 18 21 Prótesis de amputación del cuarto superior (interescapulotorácicas) (PACS).</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">PST 000 Prótesis pasiva interescapulotorácica.</p>
+</td>
+<td class="cuerpo_tabla_izq">PST 000A Prótesis pasiva interescapulotorácica, a medida, con doble encaje, estructura endoesquelética, cubierta de espuma, media, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva, un guante a elección y, si lo precisa, una vaina).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">5.853,04</td>
+<td class="cuerpo_tabla_coma">5.320,95</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PST 000B Prótesis pasiva interescapulotorácica, a medida, con doble encaje, estructura exoesquelética, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva, un guante a elección y, si lo precisa, una vaina).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">5.596,15</td>
+<td class="cuerpo_tabla_coma">5.087,41</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PST 010 Prótesis mioeléctrica interescapulotorácica.</td>
+<td class="cuerpo_tabla_izq">PST 010A Prótesis mioeléctrica interescapulotorácica, a medida, con doble encaje, estructura exoesquelética y sistema de suspensión (Prescribir además electrodos y/o microllave o transductor lineal, baterías, un cargador, una articulación de hombro, una articulación de codo, una articulación de muñeca, un terminal a elección, un guante y, si lo precisa, caja de conexión para alojamiento de la batería y una vaina).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">6.960,54</td>
+<td class="cuerpo_tabla_coma">6.327,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PST 900 Encaje para prótesis interescapulotorácica.</td>
+<td class="cuerpo_tabla_izq">PST 900A Doble encaje para prótesis interescapulotorácica, a medida. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.069,54</td>
+<td class="cuerpo_tabla_coma">2.790,49</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PST 900B Doble encaje con cajeado para electrodos para prótesis mioeléctrica interescapulotorácica, a medida. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">4.809,53</td>
+<td class="cuerpo_tabla_coma">4.372,30</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">PST 910 Otros componentes de prótesis interescapulotorácica.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">PST 910A Sistema de suspensión para prótesis interescapulotorácica, a.</p>
+<p class="cuerpo_tabla_izq">medida.</p>
+</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">481,71</td>
+<td class="cuerpo_tabla_coma">437,92</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PST 910B Cubierta de espuma para prótesis endoesquelética interescapulotorácica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">434,67</td>
+<td class="cuerpo_tabla_coma">395,15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PST 910C Media para prótesis endoesquelética interescapulotorácica.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">45,00</td>
+<td class="cuerpo_tabla_coma">40,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PST 910D Estructura exoesquelética para prótesis interescapulotorácica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">1.449,30</td>
+<td class="cuerpo_tabla_coma">1.317,55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PST 910E Estructura endoesquelética para prótesis interescapulotorácica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">1.148,60</td>
+<td class="cuerpo_tabla_coma">1.044,18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PST 910F Relleno cosmético de compensación de cintura escapular, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">495,00</td>
+<td class="cuerpo_tabla_coma">450,00</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 18 24 Prótesis de mano (terminales).</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">PSO 000 Mano pasiva.</td>
+<td class="cuerpo_tabla_izq">PSO 000A Mano pasiva, de adulto.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">302,82</td>
+<td class="cuerpo_tabla_coma">275,29</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSO 000B Mano pasiva, de adulto, con pulgar en resorte.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">445,26</td>
+<td class="cuerpo_tabla_coma">404,78</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSO 000C Mano pasiva, infantil.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">332,33</td>
+<td class="cuerpo_tabla_coma">302,12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PSO 010 Mano mecánica.</td>
+<td class="cuerpo_tabla_izq">PSO 010A Mano de tracción cinemática, de adulto.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">604,38</td>
+<td class="cuerpo_tabla_coma">549,44</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSO 010B Mano de tracción cinemática, infantil.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">732,90</td>
+<td class="cuerpo_tabla_coma">666,27</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">
+<p class="cuerpo_tabla_izq">PSO 020 Mano eléctrica.</p>
+</td>
+<td class="cuerpo_tabla_izq">PSO 020A Mano eléctrica de función constante.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">6.699,12</td>
+<td class="cuerpo_tabla_coma">6.090,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSO 020B Mano eléctrica de función variable.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">10.158,90</td>
+<td class="cuerpo_tabla_coma">9.235,36</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSO 020C Mano eléctrica con sistema de control sensórico de la presión, de adulto, incluido el procesador programable.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">12.264,35</td>
+<td class="cuerpo_tabla_coma">11.149,41</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSO 020D Mano eléctrica, infantil.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">8.723,48</td>
+<td class="cuerpo_tabla_coma">7.930,44</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSO 020E Mano eléctrica multiarticulada para uso por amputados bilaterales en la extremidad dominante (Especial prescripción y de acuerdo a un protocolo).</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_coma">30.800,00</td>
+<td class="cuerpo_tabla_coma">28.000,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="7">
+<p class="cuerpo_tabla_izq">PSO 900 Guante cosmético para prótesis de mano.</p>
+</td>
+<td class="cuerpo_tabla_izq">PSO 900A Guante estándar de PVC, de adulto, para prótesis pasiva o mecánica.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">226,92</td>
+<td class="cuerpo_tabla_coma">206,29</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSO 900B Guante estándar de PVC, infantil, para prótesis pasiva o mecánica.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">226,92</td>
+<td class="cuerpo_tabla_coma">206,29</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSO 900C Guante estándar de silicona, de adulto, para prótesis pasiva o mecánica.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">481,86</td>
+<td class="cuerpo_tabla_coma">438,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSO 900D Guante estándar de silicona, infantil, para prótesis pasiva o mecánica.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">481,86</td>
+<td class="cuerpo_tabla_coma">438,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSO 900E Guante estándar de PVC con recubrimiento especial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">472,61</td>
+<td class="cuerpo_tabla_coma">429,65</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSO 900F Guante estándar de PVC, de adulto, para prótesis mioeléctrica.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">229,39</td>
+<td class="cuerpo_tabla_coma">208,54</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSO 900G Guante estándar de PVC, infantil, para prótesis mioeléctrica.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">341,05</td>
+<td class="cuerpo_tabla_coma">310,05</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">ategorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 18 27 Pinzas y dispositivos funcionales (terminales).</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">
+<p class="cuerpo_tabla_izq">PSZ 000 Pinza mecánica.</p>
+</td>
+<td class="cuerpo_tabla_izq">PSZ 000A Pinza mecánica estándar, de adulto.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">529,21</td>
+<td class="cuerpo_tabla_coma">481,10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSZ 000B Pinza mecánica estándar, infantil.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">647,45</td>
+<td class="cuerpo_tabla_coma">588,59</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSZ 000C Pinza mecánica con estructura reforzada.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.877,11</td>
+<td class="cuerpo_tabla_coma">1.706,46</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">PSZ 010 Pinza eléctrica.</p>
+</td>
+<td class="cuerpo_tabla_izq">PSZ 010A Pinza eléctrica de función constante.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">8.387,70</td>
+<td class="cuerpo_tabla_coma">7.625,18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSZ 010B Pinza eléctrica de función variable.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">10.791,45</td>
+<td class="cuerpo_tabla_coma">9.810,41</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 18 30 Articulaciones de muñeca.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PSU 000 Articulación de muñeca para terminal pasivo.</td>
+<td class="cuerpo_tabla_izq">PSU 000A Articulación de muñeca para terminal pasivo, endoesquelética.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">131,41</td>
+<td class="cuerpo_tabla_coma">119,46</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSU 000B Articulación de muñeca para terminal pasivo, exoesquelética.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">69,00</td>
+<td class="cuerpo_tabla_coma">62,73</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">
+<p class="cuerpo_tabla_izq">PSU 010 Articulación de muñeca para terminal mecánico.</p>
+</td>
+<td class="cuerpo_tabla_izq">PSU 010A Articulación de muñeca para terminal mecánico redonda.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">184,45</td>
+<td class="cuerpo_tabla_coma">167,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSU 010B Articulación de muñeca con enganche en bayoneta multiposicional.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">796,74</td>
+<td class="cuerpo_tabla_coma">724,31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSU 010C Articulación de muñeca con enganche en bayoneta para terminal mecánico con flexo-extensión.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.308,82</td>
+<td class="cuerpo_tabla_coma">1.189,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">PSU 020 Articulación de muñeca para terminal eléctrico.</td>
+<td class="cuerpo_tabla_izq">PSU 020A Articulación de muñeca para terminal eléctrico de acoplamiento rápido.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">584,71</td>
+<td class="cuerpo_tabla_coma">531,55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSU 020B Articulación de muñeca para terminal eléctrico con función pronosupinadora.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.029,60</td>
+<td class="cuerpo_tabla_coma">936,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSU 020C Articulación de muñeca para terminal eléctrico, infantil con pronosupinación pasiva.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.605,08</td>
+<td class="cuerpo_tabla_coma">1.459,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSU 020D Articulación de muñeca para mano eléctrica multiarticulada (Especial prescripción y de acuerdo a un protocolo).</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">4.290,00</td>
+<td class="cuerpo_tabla_coma">3.900,00</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 18 33 Articulaciones de codo.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">PSD 000 Articulación de codo pasiva.</td>
+<td class="cuerpo_tabla_izq">PSD 000A Articulación de codo con bloqueo pasivo para estructura endoesquelética.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">492,10</td>
+<td class="cuerpo_tabla_coma">447,36</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="9">PSD 010 Articulación de codo mecánica.</td>
+<td class="cuerpo_tabla_izq">PSD 010A Articulación de codo mecánica con bloqueo de flexo-extensión.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.893,26</td>
+<td class="cuerpo_tabla_coma">1.721,15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSD 010B Articulación de codo mecánica con bloqueo de flexo-extensión y flexión asistida.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">4.388,25</td>
+<td class="cuerpo_tabla_coma">3.989,32</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSD 010C Articulación de codo mecánica con bloqueo de flexo-extensión, flexión asistida y cableado interno para prótesis mioeléctricas.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">5.092,13</td>
+<td class="cuerpo_tabla_coma">4.629,21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSD 010D Articulación de codo mecánica con bloqueo de flexo-extensión electrónico, flexión asistida y cableado interno para prótesis mioeléctricas.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">8.374,24</td>
+<td class="cuerpo_tabla_coma">7.612,95</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSD 010E Articulación de codo mecánica con barras externas con bloqueo de flexo-extensión para desarticulación de codo o muñón humeral largo.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.864,83</td>
+<td class="cuerpo_tabla_coma">1.695,30</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSD 010F Articulación de codo mecánica con barras externas con bloqueo de flexo-extensión y flexión asistida para desarticulación de codo o muñón humeral largo.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.649,99</td>
+<td class="cuerpo_tabla_coma">2.409,08</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSD 010G Articulación de codo mecánica multiplicadora.</td>
+<td class="cuerpo_tabla_centro">
+<p class="cuerpo_tabla_centro">COMP2</p>
+</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">476,59</td>
+<td class="cuerpo_tabla_coma">433,26</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSD 010H Articulación de codo mecánica con bloqueo dentado.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">766,00</td>
+<td class="cuerpo_tabla_coma">696,36</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSD 010I Articulación de codo de fricción.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">995,79</td>
+<td class="cuerpo_tabla_coma">905,26</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PSD 020 Articulación de codo eléctrica.</td>
+<td class="cuerpo_tabla_izq">PSD 020A Articulación de codo eléctrica con bloqueo para múltiples posiciones y flexión asistida.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">10.194,92</td>
+<td class="cuerpo_tabla_coma">9.268,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSD 020B Articulación de codo con control de flexo-extensión programable y proporcional, para uso por amputados bilaterales en la extremidad dominante (Especial prescripción y de acuerdo a un protocolo).</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_coma">43.352,78</td>
+<td class="cuerpo_tabla_coma">39.411,62</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 18 36 Articulaciones de hombro.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">
+<p class="cuerpo_tabla_izq">PSR 000 Articulación de hombro para prótesis endoesquelética.</p>
+</td>
+<td class="cuerpo_tabla_izq">PSR 000A Articulación de hombro pasiva multiposicional.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">427,95</td>
+<td class="cuerpo_tabla_coma">389,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSR 000B Articulación de hombro pasiva de flexo-extensión y abducción/aducción.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">403,32</td>
+<td class="cuerpo_tabla_coma">366,65</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSR 000C Articulación de hombro pasiva de flexo-extensión y bloqueo.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.500,28</td>
+<td class="cuerpo_tabla_coma">2.272,98</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 18 90 Componentes generales de prótesis de miembro superior.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="9">
+<p class="cuerpo_tabla_izq">PSG 900 Vaina (liner), sistema de suspensión y sistema de accionamiento de prótesis de miembro superior.</p>
+</td>
+<td class="cuerpo_tabla_izq">PSG 900A Vaina interna (liner) de silicona para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">902,79</td>
+<td class="cuerpo_tabla_coma">820,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 900B Vaina interna (liner) de silicona para prótesis de miembro superior, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">1.431,65</td>
+<td class="cuerpo_tabla_coma">1.301,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 900C Sistema de suspensión mediante arnés para prótesis de miembro superior, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">312,27</td>
+<td class="cuerpo_tabla_coma">283,88</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 900D Vaina interna (liner) de silicona con sistema de suspensión distal (para pin) para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">764,75</td>
+<td class="cuerpo_tabla_coma">695,23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 900E Vaina interna (liner) de silicona para válvula de succión para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">750,00</td>
+<td class="cuerpo_tabla_coma">681,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 900F Válvula de succión para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">221,60</td>
+<td class="cuerpo_tabla_coma">201,45</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 900G Sistema de anclaje para vaina para prótesis de miembro superior (pin).</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">419,78</td>
+<td class="cuerpo_tabla_coma">381,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 900H Sistema de anclaje para vaina para prótesis de miembro superior con conexión distal (tipo cordón o tipo adhesivo).</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">308,92</td>
+<td class="cuerpo_tabla_coma">280,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 900I Sistema de accionamiento cinemático para prótesis de miembro superior, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">414,88</td>
+<td class="cuerpo_tabla_coma">377,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="12">
+<p class="cuerpo_tabla_izq">PSG 910 Batería, cargador y electrodo de prótesis de miembro superior.</p>
+</td>
+<td class="cuerpo_tabla_izq">PSG 910A Batería de litio para prótesis de miembro superior (par).</td>
+<td class="cuerpo_tabla_centro">COMP0</td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_coma">1.411,81</td>
+<td class="cuerpo_tabla_coma">1.283,46</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 910B Batería integral de litio con conector externo para la carga (unidad).</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_coma">1.331,40</td>
+<td class="cuerpo_tabla_coma">1.210,36</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 910C Batería integral de litio con conector externo para la carga, para prótesis mioeléctrica con mano multiarticulada (unidad).</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_coma">1.653,87</td>
+<td class="cuerpo_tabla_coma">1.503,52</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 910D Cargador de baterías de litio para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP0</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">799,32</td>
+<td class="cuerpo_tabla_coma">726,65</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 910E Cargador para batería integral de litio para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP0</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">937,59</td>
+<td class="cuerpo_tabla_coma">852,35</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 910F Cargador para batería integral de litio para prótesis mioeléctrica con mano multiarticulada.</td>
+<td class="cuerpo_tabla_centro">COMP0</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">984,05</td>
+<td class="cuerpo_tabla_coma">894,60</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 910G Electrodo de doble canal (unidad) para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.122,73</td>
+<td class="cuerpo_tabla_coma">1.020,66</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 910H Electrodo digital (unidad) para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.713,00</td>
+<td class="cuerpo_tabla_coma">1.557,27</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 910I Cable para electrodo de doble canal para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">144,06</td>
+<td class="cuerpo_tabla_coma">130,96</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 910J Cable para electrodo digital para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">147,20</td>
+<td class="cuerpo_tabla_coma">133,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 910K Cable de batería para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">97,56</td>
+<td class="cuerpo_tabla_coma">88,69</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 910L Caja de conexión para alojamiento de batería para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">212,81</td>
+<td class="cuerpo_tabla_coma">193,46</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="9">
+<p class="cuerpo_tabla_izq">PSG 920 Otros componentes generales de prótesis de miembro superior.</p>
+</td>
+<td class="cuerpo_tabla_izq">PSG 920A Transductor lineal para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.304,27</td>
+<td class="cuerpo_tabla_coma">1.185,70</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 920B Unidad de giro eléctrica para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.192,08</td>
+<td class="cuerpo_tabla_coma">2.901,89</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 920C Procesador de 4 canales para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.316,56</td>
+<td class="cuerpo_tabla_coma">2.105,96</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 920D Conector coaxial y corona para prótesis mioeléctrica.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">278,85</td>
+<td class="cuerpo_tabla_coma">253,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 920E Unidad de control infantil para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.003,81</td>
+<td class="cuerpo_tabla_coma">1.821,65</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 920F Microllave de balancín o tracción para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">605,57</td>
+<td class="cuerpo_tabla_coma">550,52</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 920G Cable para microllave para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">127,50</td>
+<td class="cuerpo_tabla_coma">115,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 920H Microllave de presión para prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">692,22</td>
+<td class="cuerpo_tabla_coma">629,29</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PSG 920I Sistema BOA para encaje de prótesis de miembro superior.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">472,44</td>
+<td class="cuerpo_tabla_coma">429,41</td>
+</tr>
+</tbody>
+</table>
+
+Grupo: 06 24 Prótesis de miembro inferior.
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 24 03 Prótesis parciales de pie, incluyendo prótesis de dedos.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PIP 000 Prótesis para amputación parcial o total de dedos del pie.</td>
+<td class="cuerpo_tabla_izq">PIP 000A Prótesis para amputación total del primer dedo del pie.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">186,66</td>
+<td class="cuerpo_tabla_coma">169,69</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIP 000B Relleno protésico para amputación parcial o total de los dedos centrales.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">195,60</td>
+<td class="cuerpo_tabla_coma">177,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">PIP 010 Prótesis para amputación transmetatarsiana o de desarticulación de Lisfranc.</td>
+<td class="cuerpo_tabla_izq">PIP 010A Prótesis para amputación transmetatarsiana o desarticulación de Lisfranc. Plantilla con reconstrucción del arco transverso y fijación adecuada.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">297,00</td>
+<td class="cuerpo_tabla_coma">270,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIP 010B Prótesis para amputación transmetatarsiana o de Lisfranc. Botín con plantilla de reconstrucción del arco y relleno de antepié.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_coma">505,40</td>
+<td class="cuerpo_tabla_coma">459,45</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIP 010C Prótesis para amputación transmetatarsiana o de Lisfranc en silicona con relleno protésico anterior.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_coma">1.485,00</td>
+<td class="cuerpo_tabla_coma">1.350,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">
+<p class="cuerpo_tabla_izq">PIP 020 Prótesis para la amputación de Chopart.</p>
+</td>
+<td class="cuerpo_tabla_izq">PIP 020A Prótesis para la amputación de Chopart. Botín y relleno anterior de material elástico.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">679,99</td>
+<td class="cuerpo_tabla_coma">618,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIP 020B Prótesis para la amputación de Chopart. Botín con relleno anatómico y cubierta cosmética.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.130,03</td>
+<td class="cuerpo_tabla_coma">1.027,30</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIP 020C Prótesis para amputación de Chopart en silicona con relleno protésico anterior.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.657,42</td>
+<td class="cuerpo_tabla_coma">1.506,75</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIP 020D Prótesis para amputación de Chopart. Encaje laminado en resina acrílica y puntera elástica.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.386,66</td>
+<td class="cuerpo_tabla_coma">1.260,60</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIP 020E Prótesis para amputación de Chopart. Encaje laminado en resina acrílica con relleno anatómico y cubierta cosmética.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.647,37</td>
+<td class="cuerpo_tabla_coma">1.497,61</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">PIP 030 Prótesis para la amputación de Pirogoff.</td>
+<td class="cuerpo_tabla_izq">PIP 030A Prótesis para la amputación de Pirogoff con encaje laminado con relleno protésico anterior en material elástico y base acumuladora de energía.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.626,70</td>
+<td class="cuerpo_tabla_coma">1.478,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIP 030B Prótesis para la amputación de Pirogoff con encaje laminado con relleno anatómico y cubierta cosmética.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.830,26</td>
+<td class="cuerpo_tabla_coma">1.663,87</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIP 030C Prótesis para la amputación de Pirogoff de silicona, con relleno anterior y base acumuladora de energía.</td>
+<td class="cuerpo_tabla_centro">
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.025,00</td>
+<td class="cuerpo_tabla_coma">2.750,00</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 24 06 Prótesis de desarticulación del tobillo.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">PIB 000 Prótesis de desarticulación del tobillo tipo Syme.</td>
+<td class="cuerpo_tabla_izq">PIB 000A Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje laminado (Prescribir además un pie tipo Syme a elección y, si lo precisa, una vaina de silicona, un sistema de suspensión y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.219,41</td>
+<td class="cuerpo_tabla_coma">1.108,55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIB 000B Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje laminado bivalvo (Prescribir además un pie tipo Syme a elección y, si lo precisa, una vaina de silicona y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.245,71</td>
+<td class="cuerpo_tabla_coma">1.132,46</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIB 000C Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje externo rígido y encaje interior flexible en termoplástico blando (Prescribir además un pie tipo Syme a elección y, si lo precisa, un sistema de suspensión y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.346,51</td>
+<td class="cuerpo_tabla_coma">1.224,10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIB 000D Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje externo rígido y encaje interior flexible en silicona (Prescribir además un pie tipo Syme a elección y, si lo precisa, una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.678,98</td>
+<td class="cuerpo_tabla_coma">1.526,35</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PIB 900 Vaina (liner) para prótesis de desarticulación de tobillo tipo Syme.</td>
+<td class="cuerpo_tabla_izq">PIB 900A Vaina (liner) de silicona para prótesis de desarticulación de tobillo tipo Syme, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">1.534,50</td>
+<td class="cuerpo_tabla_coma">1.395,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIB 900B Vaina (liner) de silicona para prótesis de desarticulación de tobillo tipo Syme.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">561,00</td>
+<td class="cuerpo_tabla_coma">510,00</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<caption>
+<p class="parrafo_2">Subgrupo: 06 24 09 Prótesis transtibiales (por debajo de la rodilla).</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PIT 000 Prótesis transtibial con encaje PTB.</td>
+<td class="cuerpo_tabla_izq">PIT 000A Prótesis transtibial con encaje PTB (Prescribir además una estructura endoesquelética, un sistema de suspensión, un pie a elección y, si lo precisa, una rodillera de suspensión, una funda, una media o cubierta cosmética y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.411,26</td>
+<td class="cuerpo_tabla_coma">1.282,96</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 000B Prótesis transtibial con encaje PTB y estructura exoesquelética (Prescribir además un sistema de suspensión, un pie a elección y, si lo precisa, una rodillera de suspensión y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.324,85</td>
+<td class="cuerpo_tabla_coma">2.113,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PIT 010 Prótesis transtibial con encaje TSB.</td>
+<td class="cuerpo_tabla_izq">PIT 010A Prótesis transtibial con encaje TSB (Prescribir además una estructura endoesquelética, un sistema de suspensión, un pie a elección y, si lo precisa, una vaina, una funda, una media o cubierta cosmética y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.485,12</td>
+<td class="cuerpo_tabla_coma">1.350,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 010B Prótesis transtibial con encaje TSB y estructura exoesquelética (Prescribir además un sistema de suspensión, un pie a elección y, si lo precisa, una vaina y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.392,74</td>
+<td class="cuerpo_tabla_coma">2.175,22</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PIT 020 Prótesis transtibial con encaje KBM.</td>
+<td class="cuerpo_tabla_izq">PIT 020A Prótesis transtibial con encaje KBM (Prescribir además una estructura endoesquelética, un pie a elección y, si lo precisa, una vaina, una rodillera de suspensión, una funda y una media o cubierta cosmética y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.522,35</td>
+<td class="cuerpo_tabla_coma">1.383,95</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 020B Prótesis transtibial con encaje KBM y estructura exoesquelética (Prescribir además un pie a elección y, si lo precisa, una vaina, una rodillera de suspensión y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.343,81</td>
+<td class="cuerpo_tabla_coma">2.130,74</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">PIT 900 Estructura para prótesis transtibial.</td>
+<td class="cuerpo_tabla_izq">PIT 900A Estructura endoesquelética para prótesis transtibial, para usuarios hasta 45 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">831,64</td>
+<td class="cuerpo_tabla_coma">756,04</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 900B Estructura endoesquelética para prótesis transtibial, para usuarios entre 45 y 66 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">855,01</td>
+<td class="cuerpo_tabla_coma">777,28</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 900C Estructura endoesquelética para prótesis transtibial, para usuarios entre 66 y 100 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">865,82</td>
+<td class="cuerpo_tabla_coma">787,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 900D Estructura endoesquelética para prótesis transtibial, para usuarios entre 100 y 125 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">931,51</td>
+<td class="cuerpo_tabla_coma">846,83</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 900E Estructura endoesquelética para prótesis transtibial, para usuarios entre 125 y 166 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.064,93</td>
+<td class="cuerpo_tabla_coma">968,12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 900F Estructura exoesquelética para prótesis transtibial.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.276,00</td>
+<td class="cuerpo_tabla_coma">1.160,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">PIT 910 Encaje tibial.</td>
+<td class="cuerpo_tabla_izq">PIT 910A Encaje PTB. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">1.558,33</td>
+<td class="cuerpo_tabla_coma">1.416,66</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 910B Encaje TSB. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">1.667,42</td>
+<td class="cuerpo_tabla_coma">1.515,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 910C Encaje KBM. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">1.731,58</td>
+<td class="cuerpo_tabla_coma">1.574,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 910D Encaje interno en termoplástico blando o semigoma para prótesis transtibial.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">451,92</td>
+<td class="cuerpo_tabla_coma">410,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">PIT 920 Vaina (liner) para prótesis transtibial.</td>
+<td class="cuerpo_tabla_izq">PIT 920A Vaina interna (liner) de silicona para prótesis transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">512,97</td>
+<td class="cuerpo_tabla_coma">466,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 920B Vaina interna (liner) de uretano para prótesis transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">486,69</td>
+<td class="cuerpo_tabla_coma">442,45</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 920C Vaina interna (liner) en gel para prótesis transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">439,45</td>
+<td class="cuerpo_tabla_coma">399,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 920D Vaina interna (liner) de silicona para prótesis transtibial, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">1.595,00</td>
+<td class="cuerpo_tabla_coma">1.450,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 920E Vaina (liner) pediátrica para prótesis transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">717,82</td>
+<td class="cuerpo_tabla_coma">652,56</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">PIT 930 Sistemas de suspensión mecánicos para prótesis transtibial.</td>
+<td class="cuerpo_tabla_izq">PIT 930A Correa de suspensión para PTB.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">132,00</td>
+<td class="cuerpo_tabla_coma">120,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 930B Correa de suspensión para PTB, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">189,20</td>
+<td class="cuerpo_tabla_coma">172,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 930C Corselete femoral con barras articuladas.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">707,03</td>
+<td class="cuerpo_tabla_coma">642,75</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 930D Rodillera de suspensión elástica tipo neopreno o tejido.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">64,17</td>
+<td class="cuerpo_tabla_coma">58,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 930E Rodillera de suspensión para vacío.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">162,80</td>
+<td class="cuerpo_tabla_coma">148,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">PIT 940 Sistemas de suspensión de vacío pasivo para prótesis transtibial.</td>
+<td class="cuerpo_tabla_izq">PIT 940A Suspensión por válvula de una vía manual para prótesis transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_coma">97,90</td>
+<td class="cuerpo_tabla_coma">89,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 940B Suspensión por válvula de una vía automática para prótesis transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_coma">127,32</td>
+<td class="cuerpo_tabla_coma">115,75</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 940C Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con un aro de sellado, para prótesis transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">770,00</td>
+<td class="cuerpo_tabla_coma">700,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 940D Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con más de un aro de sellado, para prótesis transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">855,48</td>
+<td class="cuerpo_tabla_coma">777,71</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 950 Sistemas de suspensión de vacío activo para prótesis transtibial.</td>
+<td class="cuerpo_tabla_izq">PIT 950A Sistema de suspensión de vacío activo de alta presión mecánico, para prótesis transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.870,00</td>
+<td class="cuerpo_tabla_coma">1.700,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">PIT 960 Otros componentes y accesorios de prótesis transtibiales.</td>
+<td class="cuerpo_tabla_izq">PIT 960A Funda cosmética externa para prótesis endoesquelética transtibial.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">272,85</td>
+<td class="cuerpo_tabla_coma">248,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 960B Media para prótesis endoesquelética transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">32,82</td>
+<td class="cuerpo_tabla_coma">29,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 960C Cubierta cosmética de revestimiento en PVC para prótesis endoesquelética transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">540,54</td>
+<td class="cuerpo_tabla_coma">491,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 960D Cubierta cosmética de revestimiento en silicona para prótesis endoesquelética transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">770,00</td>
+<td class="cuerpo_tabla_coma">700,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIT 960E Copas distales para muñones cónicos.</td>
+<td class="cuerpo_tabla_centro">COMP 1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">242,00</td>
+<td class="cuerpo_tabla_coma">220,00</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<caption>
+<p class="parrafo_2">Subgrupo: 06 24 12 Prótesis de desarticulación de rodilla.</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PIR 000 Prótesis de desarticulación de rodilla con apoyo distal.</td>
+<td class="cuerpo_tabla_izq">PIR 000A Prótesis de desarticulación de rodilla con encaje externo con apoyo distal (Prescribir además estructura endoesquelética, un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión, una funda, una media o cubierta cosmética y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.948,54</td>
+<td class="cuerpo_tabla_coma">1.771,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 000B Prótesis de desarticulación de rodilla con encaje externo con apoyo distal y estructura exoesquelética (Prescribir además un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.887,04</td>
+<td class="cuerpo_tabla_coma">2.624,58</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PIR 010 Prótesis de desarticulación de rodilla con apoyo isquiático.</td>
+<td class="cuerpo_tabla_izq">PIR 010A Prótesis de desarticulación de rodilla con encaje externo con apoyo isquiático (Prescribir además estructura endoesquelética, un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión, una funda, una media o cubierta cosmética y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.034,60</td>
+<td class="cuerpo_tabla_coma">1.849,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 010B Prótesis de desarticulación de rodilla con encaje externo con apoyo isquiático y estructura exoesquelética (Prescribir además un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.017,04</td>
+<td class="cuerpo_tabla_coma">2.742,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">PIR 900 Estructura para prótesis de desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_izq">PIR 900A Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios hasta 45 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">967,86</td>
+<td class="cuerpo_tabla_coma">879,87</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 900B Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 45 y 66 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.018,29</td>
+<td class="cuerpo_tabla_coma">925,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 900C Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 66 y 100 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.054,04</td>
+<td class="cuerpo_tabla_coma">958,22</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 900D Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 100 y 125 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.098,37</td>
+<td class="cuerpo_tabla_coma">998,52</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 900E Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 125 y 166 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.116,70</td>
+<td class="cuerpo_tabla_coma">1.015,18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 900F Estructura exoesquelética para prótesis de desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.390,40</td>
+<td class="cuerpo_tabla_coma">1.264,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">PIR 910 Encaje para prótesis de desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_izq">PIR 910A Encaje externo para prótesis de desarticulación de rodilla con apoyo distal. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">2.168,28</td>
+<td class="cuerpo_tabla_coma">1.971,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 910B Encaje externo para prótesis de desarticulación de rodilla con apoyo isquiático. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">2.316,78</td>
+<td class="cuerpo_tabla_coma">2.106,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 910C Encaje interno en termoplástico blando o semigoma para prótesis de desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">815,83</td>
+<td class="cuerpo_tabla_coma">741,66</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 910D Encaje interno en silicona para prótesis de desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">1.862,67</td>
+<td class="cuerpo_tabla_coma">1.693,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">PIR 920 Vaina (liner) para prótesis de desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_izq">PIR 920A Vaina interna (liner) de silicona para prótesis de desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">692,11</td>
+<td class="cuerpo_tabla_coma">629,19</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 920B Vaina interna (liner) de uretano para prótesis de desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">486,69</td>
+<td class="cuerpo_tabla_coma">442,45</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 920C Vaina interna (liner) de gel para prótesis de desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">506,66</td>
+<td class="cuerpo_tabla_coma">460,60</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 920D Vaina interna (liner) de silicona para prótesis de desarticulación de rodilla, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">1.650,00</td>
+<td class="cuerpo_tabla_coma">1.500,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 920E Vaina interna (liner) pediátrica para prótesis de desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">717,82</td>
+<td class="cuerpo_tabla_coma">652,56</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">PIR 930 Otros componentes y accesorios de prótesis de desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_izq">PIR 930A Funda cosmética externa para prótesis endoesquelética de desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">385,00</td>
+<td class="cuerpo_tabla_coma">350,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 930B Media para prótesis endoesquelética de desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">35,31</td>
+<td class="cuerpo_tabla_coma">32,10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 930C Cubierta cosmética de revestimiento en PVC para prótesis endoesquelética de desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">621,50</td>
+<td class="cuerpo_tabla_coma">565,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIR 930D Cubierta cosmética de revestimiento en silicona para prótesis endoesquelética de desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">1.045,00</td>
+<td class="cuerpo_tabla_coma">950,00</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<caption>
+<p class="parrafo_2">Subgrupo: 06 24 15 Prótesis transfemorales (por encima de la rodilla)</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PIF 000 Prótesis transfemoral con encaje cuadrangular.</td>
+<td class="cuerpo_tabla_izq">PIF 000A Prótesis transfemoral con encaje cuadrangular (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina, una funda, una media o cubierta cosmética y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.134,89</td>
+<td class="cuerpo_tabla_coma">1.940,81</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 000B Prótesis transfemoral con encaje cuadrangular y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.189,62</td>
+<td class="cuerpo_tabla_coma">2.899,65</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PIF 010 Prótesis transfemoral con encaje cuadrangular ISNY.</td>
+<td class="cuerpo_tabla_izq">PIF 010A Prótesis transfemoral con encaje cuadrangular ISNY (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina, una funda, una media o cubierta cosmética y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.391,72</td>
+<td class="cuerpo_tabla_coma">2.174,29</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 010B Prótesis transfemoral con encaje cuadrangular ISNY y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.649,21</td>
+<td class="cuerpo_tabla_coma">3.317,46</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PIF 020 Prótesis transfemoral con encaje CAT-CAM.</td>
+<td class="cuerpo_tabla_izq">PIF 020A Prótesis transfemoral con encaje CAT-CAM (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina, una funda, una media o cubierta cosmética y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.460,57</td>
+<td class="cuerpo_tabla_coma">2.236,88</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 020B Prótesis transfemoral con encaje CAT-CAM y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.677,53</td>
+<td class="cuerpo_tabla_coma">3.343,21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PIF 030 Prótesis transfemoral con encaje CAT-CAM ISNY.</td>
+<td class="cuerpo_tabla_izq">PIF 030A Prótesis transfemoral con encaje CAT-CAM ISNY (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina, una funda, una media o cubierta cosmética y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.198,67</td>
+<td class="cuerpo_tabla_coma">2.907,88</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 030B Prótesis transfemoral con encaje CAT-CAM ISNY y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">4.261,43</td>
+<td class="cuerpo_tabla_coma">3.874,03</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 040 Prótesis transfemoral con encaje de contacto total.</td>
+<td class="cuerpo_tabla_izq">PIF 040A Prótesis transfemoral con encaje externo de contacto total (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina, una funda, una media o cubierta cosmética y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.296,77</td>
+<td class="cuerpo_tabla_coma">2.087,97</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">PIF 900 Estructura para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_izq">PIF 900A Estructura endoesquelética para prótesis transfemorales, para usuarios hasta 45 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">980,69</td>
+<td class="cuerpo_tabla_coma">891,54</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 900B Estructura endoesquelética para prótesis transfemorales, para usuarios entre 45 y 66 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">921,12</td>
+<td class="cuerpo_tabla_coma">837,38</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 900C Estructura endoesquelética para prótesis transfemorales, para usuarios entre 66 y 100 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.068,71</td>
+<td class="cuerpo_tabla_coma">971,55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 900D Estructura endoesquelética para prótesis transfemorales, para usuarios entre 100 y 125 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.101,12</td>
+<td class="cuerpo_tabla_coma">1.001,02</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 900E Estructura endoesquelética para prótesis transfemorales, para usuarios entre 125 y 166 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.124,95</td>
+<td class="cuerpo_tabla_coma">1.022,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 900F Estructura exoesquelética para prótesis transfemorales.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.564,20</td>
+<td class="cuerpo_tabla_coma">1.422,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">PIF 910 Encaje femoral.</td>
+<td class="cuerpo_tabla_izq">PIF 910A Encaje externo cuadrangular. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">2.337,50</td>
+<td class="cuerpo_tabla_coma">2.125,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 910B Encaje externo cuadrangular ISNY. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">2.744,50</td>
+<td class="cuerpo_tabla_coma">2.495,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 910C Encaje externo CAT-CAM. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">2.707,83</td>
+<td class="cuerpo_tabla_coma">2.461,66</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 910D Encaje externo CAT-CAM ISNY. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">3.138,67</td>
+<td class="cuerpo_tabla_coma">2.853,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 910E Encaje externo de contacto total para prótesis transfemoral. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">2.678,50</td>
+<td class="cuerpo_tabla_coma">2.435,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 910F Encaje interno de termoplástico blando o semigoma para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">491,33</td>
+<td class="cuerpo_tabla_coma">446,66</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">PIF 920 Vaina (liner) para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_izq">PIF 920A Vaina interna (liner) de silicona para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">585,75</td>
+<td class="cuerpo_tabla_coma">532,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 920B Vaina interna (liner) en gel para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">575,83</td>
+<td class="cuerpo_tabla_coma">523,48</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 920C Vaina interna (liner) de silicona para prótesis transfemoral, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">1.595,00</td>
+<td class="cuerpo_tabla_coma">1.450,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 920D Vaina interna (liner) pediátrica para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">717,82</td>
+<td class="cuerpo_tabla_coma">652,56</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">PIF 930 Sistemas de suspensión mecánicos para prótesis transfemoral<sup>*</sup>.</td>
+<td class="cuerpo_tabla_izq">PIF 930A Sistema de suspensión con cinturón y correa lateral para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">187,79</td>
+<td class="cuerpo_tabla_coma">170,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 930B Sistema de suspensión con cinturón, correa lateral y medial y poleilla para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">272,36</td>
+<td class="cuerpo_tabla_coma">247,60</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 930C Sistema de suspensión por correa distal para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">298,85</td>
+<td class="cuerpo_tabla_coma">271,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 930D Sistema de sujeción femoral elástico tipo neopreno o tejido para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP0</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_coma">154,06</td>
+<td class="cuerpo_tabla_coma">140,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">PIF 940 Sistemas de suspensión de vacío pasivos para prótesis transfemoral<sup>*</sup>.</td>
+<td class="cuerpo_tabla_izq">PIF 940A Suspensión por válvula de una vía manual para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_coma">97,90</td>
+<td class="cuerpo_tabla_coma">89,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 940B Suspensión por válvula de una vía automática para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_coma">127,32</td>
+<td class="cuerpo_tabla_coma">115,75</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 940C Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con un aro de sellado, para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">770,00</td>
+<td class="cuerpo_tabla_coma">700,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 940D Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con más de un aro de sellado, para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">985,81</td>
+<td class="cuerpo_tabla_coma">896,19</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 950 Sistemas de suspensión de vacío activo para prótesis transfemoral<sup>*</sup>.</td>
+<td class="cuerpo_tabla_izq">PIF 950A Sistema de suspensión de vacío activo de alta presión mecánico, para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.266,00</td>
+<td class="cuerpo_tabla_coma">2.060,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">PIF 960 Otros componentes y accesorios de prótesis transfemorales.</td>
+<td class="cuerpo_tabla_izq">PIF 960A Funda cosmética para prótesis endoesquelética transfemoral.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">550,00</td>
+<td class="cuerpo_tabla_coma">500,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 960B Media para prótesis endoesquelética transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">42,24</td>
+<td class="cuerpo_tabla_coma">38,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 960C Cubierta cosmética de revestimiento en PVC para prótesis endoesquelética transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">605,00</td>
+<td class="cuerpo_tabla_coma">550,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIF 960D Cubierta cosmética de revestimiento en silicona para prótesis endoesquelética transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">935,00</td>
+<td class="cuerpo_tabla_coma">850,00</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6">
+<p class="cita"><sup>* </sup>Estos sistemas de suspensión se podrán utilizar también para las prótesis de desarticulación de rodilla.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+<table class="tabla_ancha">
+<caption>
+<p class="parrafo_2">Subgrupo: 06 24 18 Prótesis de desarticulación de cadera.</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">PIC 000 Prótesis de desarticulación de cadera con encaje pélvico.</td>
+<td class="cuerpo_tabla_izq">PIC 000A Prótesis de desarticulación de cadera con encaje pélvico (Prescribir además una estructura endoesquelética, una articulación de cadera, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno, una funda y una media).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.174,35</td>
+<td class="cuerpo_tabla_coma">2.885,77</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">PIC 900 Estructura para prótesis de desarticulación de cadera.</td>
+<td class="cuerpo_tabla_izq">PIC 900A Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios hasta 45 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.697,30</td>
+<td class="cuerpo_tabla_coma">1.543,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIC 900B Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 45 y 66 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.741,30</td>
+<td class="cuerpo_tabla_coma">1.583,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIC 900C Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 66 y 100 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.763,30</td>
+<td class="cuerpo_tabla_coma">1.603,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIC 900D Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 100 y 125 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.795,20</td>
+<td class="cuerpo_tabla_coma">1.632,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIC 900E Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 125 y 166 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.815,00</td>
+<td class="cuerpo_tabla_coma">1.650,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">PIC 910 Encaje para prótesis de desarticulación de cadera.</td>
+<td class="cuerpo_tabla_izq">PIC 910A Encaje externo para prótesis de desarticulación de cadera. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">3.556,67</td>
+<td class="cuerpo_tabla_coma">3.233,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIC 910B Encaje interno en termoplástico blando o semigoma para prótesis de desarticulación de cadera.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">870,83</td>
+<td class="cuerpo_tabla_coma">791,66</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIC 910C Encaje interno de silicona para prótesis de desarticulación de cadera.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">2.457,58</td>
+<td class="cuerpo_tabla_coma">2.234,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PIC 920 Otros componentes y accesorios de prótesis de desarticulación de cadera.</td>
+<td class="cuerpo_tabla_izq">PIC 920A Funda cosmética para prótesis de desarticulación de cadera.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">586,29</td>
+<td class="cuerpo_tabla_coma">532,99</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIC 920B Media para prótesis de desarticulación de cadera.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">99,87</td>
+<td class="cuerpo_tabla_coma">90,79</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<caption>
+<p class="parrafo_2">Subgrupo: 06 24 21 Prótesis de hemipelvectomía.</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">PIV 000 Prótesis de hemipelvectomía con encaje pélvico.</td>
+<td class="cuerpo_tabla_izq">PIV 000A Prótesis de hemipelvectomía con encaje pélvico (Prescribir además una estructura endoesquelética, una articulación de cadera, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno, una funda y una media).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.382,87</td>
+<td class="cuerpo_tabla_coma">3.075,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">PIV 900 Estructura para prótesis de hemipelvectomía.</td>
+<td class="cuerpo_tabla_izq">PIV 900A Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios hasta 45 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.723,70</td>
+<td class="cuerpo_tabla_coma">1.567,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIV 900B Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 45 y 66 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.767,70</td>
+<td class="cuerpo_tabla_coma">1.607,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIV 900C Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 66 y 100 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.789,70</td>
+<td class="cuerpo_tabla_coma">1.627,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIV 900D Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 100 y 125 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.832,60</td>
+<td class="cuerpo_tabla_coma">1.666,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIV 900E Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 125 y 166 kg de peso.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.849,10</td>
+<td class="cuerpo_tabla_coma">1.681,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">PIV 910 Encaje para prótesis de hemipelvectomía.</td>
+<td class="cuerpo_tabla_izq">PIV 910A Encaje externo para prótesis de hemipelvectomía. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">3.721,67</td>
+<td class="cuerpo_tabla_coma">3.383,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIV 910B Encaje interno en termoplástico blando o semigoma para prótesis de hemipelvectomía.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">906,58</td>
+<td class="cuerpo_tabla_coma">824,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIV 910C Encaje interno de silicona para prótesis de hemipelvectomía.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">2.731,67</td>
+<td class="cuerpo_tabla_coma">2.483,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PIV 920 Otros componentes y accesorios de prótesis de hemipelvectomía.</td>
+<td class="cuerpo_tabla_izq">PIV 920A Funda cosmética para prótesis de hemipelvectomía.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">590,35</td>
+<td class="cuerpo_tabla_coma">536,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIV 920B Media para prótesis de hemipelvectomía.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">101,52</td>
+<td class="cuerpo_tabla_coma">92,29</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 24 27 Pies protésicos.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">
+<p class="cuerpo_tabla_izq">PIE 000 Pie no articulado.</p>
+</td>
+<td class="cuerpo_tabla_izq">PIE 000A Pie no articulado (SACH) de adulto, de impacto bajo a moderado.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">158,84</td>
+<td class="cuerpo_tabla_coma">144,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIE 000B Pie no articulado (SACH) pediátrico, de impacto bajo a moderado.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">248,80</td>
+<td class="cuerpo_tabla_coma">226,18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIE 000C Pie no articulado (SACH) de quilla corta o dinámico, de impacto bajo a moderado.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">318,00</td>
+<td class="cuerpo_tabla_coma">289,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIE 000D Pie no articulado geriátrico, de impacto bajo.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">198,92</td>
+<td class="cuerpo_tabla_coma">180,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIE 000E Pie básico tipo Syme, de impacto bajo.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">879,93</td>
+<td class="cuerpo_tabla_coma">799,94</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIE 000F Pie especial tipo Syme, de impacto moderado a alto.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.383,29</td>
+<td class="cuerpo_tabla_coma">1.257,54</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">
+<p class="cuerpo_tabla_izq">PIE 010 Pie articulado.</p>
+</td>
+<td class="cuerpo_tabla_izq">PIE 010A Pie articulado monoaxial, de impacto bajo a moderado.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">458,68</td>
+<td class="cuerpo_tabla_coma">416,98</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIE 010B Pie de articulación e impulsión mediante sistema elástico interno, de impacto bajo a moderado.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">669,22</td>
+<td class="cuerpo_tabla_coma">608,38</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIE 010C Pie de eje múltiple, de impacto moderado a alto.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">769,29</td>
+<td class="cuerpo_tabla_coma">699,35</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIE 010D Pie con regulación de altura de tacón, de impacto bajo a moderado.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.297,19</td>
+<td class="cuerpo_tabla_coma">2.088,35</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="7">PIE 020 Pie dinámico.</td>
+<td class="cuerpo_tabla_izq">PIE 020A Pie almacenador de energía de adulto, de impacto bajo.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">721,26</td>
+<td class="cuerpo_tabla_coma">655,69</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIE 020B Pie almacenador de energía de adulto, de impacto moderado.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.294,08</td>
+<td class="cuerpo_tabla_coma">1.176,44</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIE 020C Pie almacenador de energía de adulto, de impacto alto.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.204,74</td>
+<td class="cuerpo_tabla_coma">2.004,31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIE 020D Pie almacenador de energía pediátrico, de impacto bajo.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.122,14</td>
+<td class="cuerpo_tabla_coma">1.020,13</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIE 020E Pie almacenador de energía pediátrico, de impacto moderado.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.223,41</td>
+<td class="cuerpo_tabla_coma">1.112,19</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIE 020F Pie almacenador de energía pediátrico, de impacto alto (especial prescripción).</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.438,69</td>
+<td class="cuerpo_tabla_coma">1.307,90</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIE 020G Pie almacenador de energía regulable en altura.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.495,30</td>
+<td class="cuerpo_tabla_coma">2.268,45</td>
+</tr>
+</tbody>
+<tfoot>
+<tr class="no_repetir">
+<td colspan="6">
+<p class="cita">Los pies protésicos de bajo impacto están indicados para usuarios considerados K1/clase 1, los de impacto moderado para K2/clase 2, los de impacto alto para K3/clase 3 y los de impacto muy alto para K4/clase 4.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+| Categorías (Código homologado y descripción) | Tipos de productos (Código y descripción) | Elaboración | Vida media<br>–<br>Meses | IMF | IMF si |
+|---|---|---|---|---|---|
+| PIO 000 Rotador. | PIO 000A Rotador para prótesis transfemorales. | COMP2 | 36 | 598,56 | 544,15 |
+| PIO 010 Dispositivo de amortiguación y fuerzas de torsión. | PIO 010A Dispositivo de amortiguación y fuerzas de torsión. Incluye alineación. | COMP2 | 36 | 932,25 | 847,50 |
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 24 33 Articulaciones de rodilla.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">PIL 000 Articulación de rodilla exoesquelética monocéntrica para adulto.</p>
+</td>
+<td class="cuerpo_tabla_izq">PIL 000A Articulación de rodilla exoesquelética monocéntrica mecánica, con bloqueo manual a voluntad.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">765,71</td>
+<td class="cuerpo_tabla_coma">696,10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 000B Articulación de rodilla exoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión, control de la fase de balanceo y bloqueo a la carga.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">854,16</td>
+<td class="cuerpo_tabla_coma">776,51</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="9">
+<p class="cuerpo_tabla_izq">PIL 010 Articulación de rodilla endoesquelética monocéntrica para adulto.</p>
+</td>
+<td class="cuerpo_tabla_izq">PIL 010A Articulación de rodilla endoesquelética monocéntrica mecánica, con bloqueo manual a voluntad.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">409,76</td>
+<td class="cuerpo_tabla_coma">372,51</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 010B Articulación de rodilla endoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión y bloqueo a la carga.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">
+<p class="cuerpo_tabla_coma">935,00</p>
+</td>
+<td class="cuerpo_tabla_coma">850,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 010C Articulación de rodilla endoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión, control de la fase de balanceo y bloqueo a la carga.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">951,19</td>
+<td class="cuerpo_tabla_coma">864,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 010D Articulación de rodilla endoesquelética monocéntrica mecánica, con control de la fase de balanceo, bloqueo a la carga y con opción de añadir bloqueo manual a voluntad.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">1.070,88</td>
+<td class="cuerpo_tabla_coma">973,53</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 010E Articulación de rodilla endoesquelética monocéntrica neumática, con control regulable de la fase de balanceo y bloqueo a la carga, para nivel de actividad de bajo a moderado.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">2.103,65</td>
+<td class="cuerpo_tabla_coma">1.912,41</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 010F Articulación de rodilla endoesquelética monocéntrica neumática, con control regulable de la fase de balanceo y bloqueo a la carga, para nivel de actividad de alto a muy alto.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">2.530,44</td>
+<td class="cuerpo_tabla_coma">2.300,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 010G Articulación de rodilla endoesquelética monocéntrica hidráulica, con control de la fase de balanceo.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">3.227,33</td>
+<td class="cuerpo_tabla_coma">2.933,94</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 010H Articulación de rodilla endoesquelética monocéntrica hidráulica, con control de la fase de balanceo y del frenado en la fase de apoyo.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">3.901,46</td>
+<td class="cuerpo_tabla_coma">3.546,78</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 010I Articulación de rodilla endoesquelética con sistema hidráulico rotativo para fase de balanceo y del frenado en la fase de apoyo.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">4.080,32</td>
+<td class="cuerpo_tabla_coma">3.709,38</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 020 Articulación de rodilla endoesquelética monocéntrica pediátrica.</td>
+<td class="cuerpo_tabla_izq">PIL 020A Articulación de rodilla endoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión, pediátrica.</td>
+<td class="cuerpo_tabla_centro">
+<p class="cuerpo_tabla_centro">COMP2</p>
+</td>
+<td class="cuerpo_tabla_centro">
+<p class="cuerpo_tabla_centro">30</p>
+</td>
+<td class="cuerpo_tabla_coma">
+<p class="cuerpo_tabla_coma">989,26</p>
+</td>
+<td class="cuerpo_tabla_coma">
+<p class="cuerpo_tabla_coma">899,33</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">
+<p class="cuerpo_tabla_izq">PIL 030 Articulación de rodilla endoesquelética policéntrica para adulto.</p>
+</td>
+<td class="cuerpo_tabla_izq">PIL 030A Articulación de rodilla endoesquelética policéntrica mecánica, de entre tres y cinco ejes, con dispositivo de recuperación de la extensión.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">1.436,81</td>
+<td class="cuerpo_tabla_coma">1.306,19</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 030B Articulación de rodilla endoesquelética policéntrica mecánica, de más de cinco ejes, con dispositivo de recuperación de la extensión.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">2.159,53</td>
+<td class="cuerpo_tabla_coma">1.963,21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 030C Articulación de rodilla endoesquelética policéntrica neumática, con control regulable de la fase de balanceo y bloqueo a la carga.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">2.210,32</td>
+<td class="cuerpo_tabla_coma">2.009,38</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 030D Articulación de rodilla endoesquelética policéntrica hidráulica, con control de la fase de balanceo y del frenado en la fase de apoyo. Especial prescripción.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">4.396,19</td>
+<td class="cuerpo_tabla_coma">3.996,54</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PIL 040 Articulación de rodilla endoesquelética policéntrica pediátrica.</td>
+<td class="cuerpo_tabla_izq">PIL 040A Articulación de rodilla endoesquelética policéntrica mecánica, con dispositivo de recuperación de la extensión, pediátrica.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">2.282,09</td>
+<td class="cuerpo_tabla_coma">2.074,63</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 040B Articulación de rodilla endoesquelética policéntrica hidráulica, con control de la fase de balanceo, pediátrica.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">2.528,85</td>
+<td class="cuerpo_tabla_coma">2.298,95</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="7">
+<p class="cuerpo_tabla_izq">PIL 050 Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla.</p>
+</td>
+<td class="cuerpo_tabla_izq">PIL 050A Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, mecánica, de cuatro ejes, con bloqueo manual a voluntad.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">1.599,87</td>
+<td class="cuerpo_tabla_coma">1.454,43</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 050B Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, mecánica, de cuatro ejes, con dispositivo de recuperación de la extensión, para nivel de actividad de bajo a moderado.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">1.531,07</td>
+<td class="cuerpo_tabla_coma">1.391,88</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 050C Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, mecánica, de cuatro ejes, con dispositivo de recuperación de la extensión, para nivel de actividad de alto a muy alto.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">1.436,90</td>
+<td class="cuerpo_tabla_coma">1.306,27</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 050D Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, neumática, de cuatro ejes, con control regulable de la fase de balanceo.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">2.441,00</td>
+<td class="cuerpo_tabla_coma">2.219,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 050E Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, neumática, de cuatro ejes, con control regulable de la fase de balanceo y bloqueo a la carga.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">2.410,91</td>
+<td class="cuerpo_tabla_coma">2.191,74</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 050F Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, hidráulica, de cuatro ejes, con control regulable de la fase de balanceo.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">3.098,97</td>
+<td class="cuerpo_tabla_coma">2.817,25</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 050G Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, hidráulica, de cuatro ejes, con control regulable de la fase de balanceo y del frenado en la fase de apoyo.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">4.396,19</td>
+<td class="cuerpo_tabla_coma">3.996,54</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIL 060 Articulación de rodilla endoesquelética monocéntrica con control mediante microprocesador para adulto.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">PIL 060A Articulación de rodilla endoesquelética monocéntrica, con control mediante microprocesador de la fase de balanceo y del frenado en la fase de apoyo. (Especial prescripción y de acuerdo a un protocolo).</p>
+</td>
+<td class="cuerpo_tabla_centro">COMP3</td>
+<td class="cuerpo_tabla_centro">72</td>
+<td class="cuerpo_tabla_coma">26.412,32</td>
+<td class="cuerpo_tabla_coma">24.011,20</td>
+</tr>
+</tbody>
+</table>
+
+Las articulaciones de nivel de actividad baja están indicadas para usuarios considerados K1/clase 1, los de actividad moderada para K2/clase 2, los de actividad alta para K3/clase 3 y los de actividad muy alta para K4/clase 4.
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 24 36 Articulaciones de cadera.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">
+<p class="cuerpo_tabla_izq">PID 000 Articulación de cadera endoesquelética.</p>
+</td>
+<td class="cuerpo_tabla_izq">PID 000A Articulación de cadera endoesquelética monocéntrica libre.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">623,03</td>
+<td class="cuerpo_tabla_coma">566,39</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PID 000B Articulación de cadera endoesquelética monocéntrica libre, con bloqueo manual a voluntad.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">750,00</td>
+<td class="cuerpo_tabla_coma">681,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PID 000C Articulación de cadera endoesquelética monocéntrica, con dispositivo interior de extensión incorporado y con sistema de alineación y anclaje anterior.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">1.984,43</td>
+<td class="cuerpo_tabla_coma">1.804,03</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PID 000D Articulación de cadera endoesquelética monocéntrica, con asistente a la extensión, pediátrica.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">1.022,09</td>
+<td class="cuerpo_tabla_coma">929,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PID 000E Articulación de cadera endoesquelética policéntrica.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_coma">5.415,23</td>
+<td class="cuerpo_tabla_coma">4.922,94</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 24 48 Prótesis provisionales para movilización temprana en amputación de miembro inferior.</p>
+<p class="parrafo">(Prescribir además el resto de los componentes necesarios para completar la correspondiente prótesis, que se reutilizarán para la prótesis definitiva).</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">
+<p class="cuerpo_tabla_izq">PIM 000 Encaje provisional para prótesis de miembro inferior*.</p>
+</td>
+<td class="cuerpo_tabla_izq">PIM 000A Encaje provisional para prótesis de desarticulación de tobillo. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_coma">632,50</td>
+<td class="cuerpo_tabla_coma">575,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIM 000B Encaje provisional para prótesis transtibial. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_coma">854,59</td>
+<td class="cuerpo_tabla_coma">776,90</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIM 000C Encaje provisional para prótesis de desarticulación de rodilla. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_coma">1.050,28</td>
+<td class="cuerpo_tabla_coma">954,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIM 000D Encaje provisional graduable para prótesis transfemoral. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_coma">1.155,00</td>
+<td class="cuerpo_tabla_coma">1.050,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIM 000E Encaje provisional para prótesis de desarticulación de cadera. Incluye adaptación y alineación.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">-</td>
+<td class="cuerpo_tabla_coma">1.320,00</td>
+<td class="cuerpo_tabla_coma">1.200,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">PIM 010 Vaina (liner) conformadora y reductora de muñón.</td>
+<td class="cuerpo_tabla_izq">PIM 010A Vaina (liner) conformadora y reductora de muñón para amputación transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">357,50</td>
+<td class="cuerpo_tabla_coma">325,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIM 010B Vaina (liner) conformadora y reductora de muñón para desarticulación de rodilla.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">432,56</td>
+<td class="cuerpo_tabla_coma">393,24</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIM 010C Vaina (liner) conformadora y reductora de muñón para amputación transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">462,00</td>
+<td class="cuerpo_tabla_coma">420,00</td>
+</tr>
+</tbody>
+<tfoot>
+<tr class="no_repetir">
+<td colspan="6">
+<p class="cita">*Prescripción única para la elaboración y adaptación de los encajes provisionales necesarios hasta la prescripción del encaje definitivo</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 24 99 Componentes generales de prótesis de miembro inferior.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">
+<p class="cuerpo_tabla_izq">PIG 900 Componentes generales de los sistemas de suspensión.</p>
+</td>
+<td class="cuerpo_tabla_izq">PIG 900A Lanzadera con pin para prótesis de miembro inferior.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">317,58</td>
+<td class="cuerpo_tabla_coma">288,71</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIG 900B Pin para lanzadera para prótesis de miembro inferior.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">49,52</td>
+<td class="cuerpo_tabla_coma">45,02</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIG 900C Lanzadera con cordón para prótesis de miembro inferior.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">121,99</td>
+<td class="cuerpo_tabla_coma">110,90</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIG 900D Lanzadera con pin para vaina interna (liner) pediátrica para prótesis de miembro inferior.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">242,00</td>
+<td class="cuerpo_tabla_coma">220,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIG 900E Pin para lanzadera para vaina interna (liner) pediátrica para prótesis de miembro inferior.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">48,29</td>
+<td class="cuerpo_tabla_coma">43,90</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIG 900F Membrana de succión hipobárica para prótesis de miembro inferior.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">214,31</td>
+<td class="cuerpo_tabla_coma">194,83</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PIG 910 Calcetas.</td>
+<td class="cuerpo_tabla_izq">PIG 910A Calceta por debajo de la rodilla para prótesis de miembro inferior.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">27,36</td>
+<td class="cuerpo_tabla_coma">24,87</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIG 910B Calceta por encima de la rodilla para prótesis de miembro inferior.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">35,01</td>
+<td class="cuerpo_tabla_coma">31,83</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIG 920 Almohadilla.</td>
+<td class="cuerpo_tabla_izq">PIG 920A Almohadilla de silicona o gel para prótesis de miembro inferior.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">41,61</td>
+<td class="cuerpo_tabla_coma">37,83</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIG 930 Sistema BOA.</td>
+<td class="cuerpo_tabla_izq">PIG 930A Sistema BOA para encaje de prótesis de miembro inferior.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">537,26</td>
+<td class="cuerpo_tabla_coma">488,42</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">
+<p class="cuerpo_tabla_izq">PIG 940 Vaina (liner) preparada para acoplar pin distal.</p>
+</td>
+<td class="cuerpo_tabla_izq">PIG 940A Vaina (liner) de silicona preparada para acoplar pin distal para prótesis transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">542,97</td>
+<td class="cuerpo_tabla_coma">493,61</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIG 940B Vaina (liner) en gel preparada para acoplar pin distal para prótesis transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">469,45</td>
+<td class="cuerpo_tabla_coma">426,77</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIG 940C Vaina (liner) de silicona preparada para acoplar pin distal, pediátrica, para prótesis transtibial.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">838,82</td>
+<td class="cuerpo_tabla_coma">762,56</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIG 940D Vaina (liner) de silicona preparada para acoplar pin distal para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">615,75</td>
+<td class="cuerpo_tabla_coma">559,77</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIG 940E Vaina (liner) en gel preparada para acoplar pin distal para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">605,83</td>
+<td class="cuerpo_tabla_coma">550,75</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PIG 940F Vaina (liner) de silicona preparada para acoplar pin distal, pediátrica, para prótesis transfemoral.</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">838,82</td>
+<td class="cuerpo_tabla_coma">762,56</td>
+</tr>
+</tbody>
+</table>
+
+Grupo: 06 90 Ortoprótesis para agenesias.
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 90 00 Ortoprótesis para agenesias.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PPA 000 Ortoprótesis para agenesia longitudinal de miembro inferior con miembro residual<sup>*.</sup></td>
+<td class="cuerpo_tabla_izq">PPA 000A Ortoprótesis endoesquelética o exoesquelética tibial con encaje rígido y estructura para agenesia con miembro residual, a medida (Prescribir además un pie a elección y, si lo precisa, un encaje interno, una articulación ortésica de rodilla, una funda, una media o cubierta cosmética y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.600,14</td>
+<td class="cuerpo_tabla_coma">2.363,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PPA 000B Ortoprótesis endoesquelética o exoesquelética femoral con encaje rígido y estructura para agenesia con miembro residual, a medida (Prescribir además un encaje interno, una articulación de rodilla, un pie a elección y, si lo precisa, una funda, una media o cubierta cosmética y una calceta).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.718,00</td>
+<td class="cuerpo_tabla_coma">3.380,00</td>
+</tr>
+</tbody>
+<tfoot>
+<tr class="no_repetir">
+<td colspan="6">
+<p class="cita"><sup>*</sup>Para las agenesias de miembro superior y las transversales de miembro inferior se prescribirán las prótesis para amputaciones del nivel correspondiente.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Grupo: 06 30 Prótesis distintas a las prótesis de miembros.
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 30 18 Prótesis de mama en casos de traumatismo, enfermedad o malformación congénita (no se considera incluido el sujetador post-operatorio).</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">PDM 000 Prótesis externa de mama incluida, si lo precisa, la funda.</td>
+<td class="cuerpo_tabla_izq">PDM 000A Prótesis externa de mama, en silicona sólida.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">186,49</td>
+<td class="cuerpo_tabla_coma">169,54</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PDM 000B Prótesis externa de mama, en silicona ligera.</td>
+<td class="cuerpo_tabla_centro">
+<p class="cuerpo_tabla_centro">BAS</p>
+</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">200,52</td>
+<td class="cuerpo_tabla_coma">182,29</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PDM 000C Prótesis externa de mama, en silicona ultraligera.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">212,87</td>
+<td class="cuerpo_tabla_coma">193,52</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PDM 010 Prótesis parcial externa de mama.</td>
+<td class="cuerpo_tabla_izq">PDM 010A Prótesis parcial externa de mama.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">161,70</td>
+<td class="cuerpo_tabla_coma">147,00</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<caption>
+<p class="parrafo_2">Subgrupo: 06 30 30 Prótesis de restauración facial, incluyendo las de nariz y/o los pabellones auriculares y/o globos oculares en casos de traumatismo, enfermedad o malformación congénita.</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PDC 000 Prótesis ocular.</td>
+<td class="cuerpo_tabla_izq">PDC 000A Prótesis ocular externa para cavidad anoftálmica (enucleación o evisceración), a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.033,65</td>
+<td class="cuerpo_tabla_coma">939,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PDC 000B Prótesis ocular externa para cavidad no anoftálmica tipo cascarilla, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.215,84</td>
+<td class="cuerpo_tabla_coma">1.105,31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PDC 010 Prótesis de restauración de órbita.</td>
+<td class="cuerpo_tabla_izq">PDC 010A Epítesis de restauración de órbita no implantosoportada, a medida (incluye prótesis ocular).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.067,35</td>
+<td class="cuerpo_tabla_coma">1.879,41</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PDC 010B Epítesis de restauración de órbita implantosoportada con dos implantes, a medida (incluye prótesis ocular).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.075,05</td>
+<td class="cuerpo_tabla_coma">2.795,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PDC 020 Prótesis corneal.</td>
+<td class="cuerpo_tabla_izq">PDC 020A Lente corneal protésica.</td>
+<td class="cuerpo_tabla_centro">ADAP2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">556,37</td>
+<td class="cuerpo_tabla_coma">505,79</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PDC 022 Prótesis para corrección de la afaquia.</td>
+<td class="cuerpo_tabla_izq">PDC 022A Lente de contacto blanda de hidrogel de silicona (HiSi) con o sin filtro azul, para corrección de la afaquia en catarata congénita infantil.</td>
+<td class="cuerpo_tabla_centro">ADAP 2</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_coma">150,70</td>
+<td class="cuerpo_tabla_coma">137,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PDC 022B Lente de contacto rígida de gas permeable, para corrección de la afaquia en catarata congénita infantil.</td>
+<td class="cuerpo_tabla_centro">ADAP 2</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">300,30</td>
+<td class="cuerpo_tabla_coma">273,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PDC 030 Pabellón auricular.</td>
+<td class="cuerpo_tabla_izq">PDC 030A Epítesis de pabellón auricular no implantosoportada, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.503,95</td>
+<td class="cuerpo_tabla_coma">1.367,23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PDC 030B Epítesis de pabellón auricular implantosoportada con dos implantes, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.512,35</td>
+<td class="cuerpo_tabla_coma">2.283,95</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PDC 040 Prótesis de restauración de la nariz.</td>
+<td class="cuerpo_tabla_izq">PDC 040A Epítesis nasal no implantosoportada, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.989,38</td>
+<td class="cuerpo_tabla_coma">1.808,53</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PDC 040B Epítesis nasal implantosoportada con tres implantes, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.484,88</td>
+<td class="cuerpo_tabla_coma">3.168,07</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PDC 050 Prótesis facial.</td>
+<td class="cuerpo_tabla_izq">PDC 050A Epítesis facial no implantosoportada para pequeños defectos, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">550,00</td>
+<td class="cuerpo_tabla_coma">500,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PDC 060 Prótesis facialorbito-naso-palatina.</td>
+<td class="cuerpo_tabla_izq">PDC 060A Epítesis facial-orbito-naso-palatina no implantosoportada, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_coma">SP</td>
+<td class="cuerpo_tabla_coma">SP</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PDC 060B Epítesis facial-orbito-naso-palatina implantosoportada, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_coma">SP</td>
+<td class="cuerpo_tabla_coma">SP</td>
+</tr>
+</tbody>
+</table>
+
+En el caso de las epítesis implantosoportadas que requieran mayor número de implantes, al IMF se le sumará el valor de cada implante adicional que precise (500 euros por implante mecánico y 800 euros por implante magnético).
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 30 33 Prótesis de maxilares.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PDP 000 Prótesis de maxilar superior.</td>
+<td class="cuerpo_tabla_izq">PDP 000A Prótesis de maxilar superior no implantosoportada, a medida, para malformaciones congénitas, grandes traumatismos y procesos oncológicos, que afectan a la cavidad oral.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_coma">SP</td>
+<td class="cuerpo_tabla_coma">SP</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PDP 000B Prótesis de maxilar superior implantosoportada, a medida, para pacientes con procesos oncológicos que afectan a la cavidad oral que impliquen la pérdida de dientes relacionada directamente con la patología o su tratamiento, y pacientes con malformaciones congénitas que cursan con anodoncia (fisurados, malformaciones linfáticas, displasia ectodérmica, síndromes craneofaciales, etc.).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_coma">SP</td>
+<td class="cuerpo_tabla_coma">SP</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PDP 010 Prótesis de maxilar inferior.</td>
+<td class="cuerpo_tabla_izq">PDP 010A Prótesis de maxilar inferior no implantosoportada, a medida, para malformaciones congénitas, grandes traumatismos y procesos oncológicos, que afectan a la cavidad oral.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_coma">SP</td>
+<td class="cuerpo_tabla_coma">SP</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PDP 010B Prótesis de maxilar inferior implantosoportada, a medida, para pacientes con procesos oncológicos que afectan a la cavidad oral que impliquen la pérdida de dientes relacionada directamente con la patología o su tratamiento, y pacientes con malformaciones congénitas que cursan con anodoncia (fisurados, malformaciones linfáticas, displasia ectodérmica, síndromes craneofaciales, etc.).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_coma">SP</td>
+<td class="cuerpo_tabla_coma">SP</td>
+</tr>
+</tbody>
+</table>
+
+Grupo 22 06 Prótesis auditivas
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 22 06 00 Audífonos para pacientes hipoacúsicos, de cero a veintiséis años de edad, afectados de hipoacusia bilateral neurosensorial, transmisiva o mixta, permanente, no susceptible de otros tratamientos, con una pérdida de audición superior a 40 dB en el mejor de los oídos (valor obtenido promediando las frecuencias de 500, 1.000 y 2.000 Hz). Las administraciones sanitarias competentes vincularán la financiación de los audífonos y de los moldes adaptadores a programas de detección precoz, tratamiento completo y seguimiento de la hipoacusia, así como al estilo de vida de los pacientes.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">PAA 000 Audífono digital intra-auricular.</td>
+<td class="cuerpo_tabla_izq">PAA 000A Audífono intra-auricular IIC (invisible in the canal).</td>
+<td class="cuerpo_tabla_centro">ADAP3</td>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_coma">1.500,00</td>
+<td class="cuerpo_tabla_coma">1.363,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAA 000B Audífono intra-auricular CIC (completely in the canal).</td>
+<td class="cuerpo_tabla_centro">ADAP3</td>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_coma">1.500,00</td>
+<td class="cuerpo_tabla_coma">1.363,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAA 000C Audífono intra-auricular ITC (in the canal).</td>
+<td class="cuerpo_tabla_centro">ADAP3</td>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_coma">1.500,00</td>
+<td class="cuerpo_tabla_coma">1.363,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAA 000D Audífono intra-auricular ITE (in the ear).</td>
+<td class="cuerpo_tabla_centro">ADAP3</td>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_coma">1.500,00</td>
+<td class="cuerpo_tabla_coma">1.363,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">PAA 010 Audífono digital retro-auricular.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">PAA 010A Audífono retro-auricular RITE/RIC</p>
+<p class="cuerpo_tabla_izq">(receiver in the ear/canal).</p>
+</td>
+<td class="cuerpo_tabla_centro">ADAP2</td>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_coma">1.200,00</td>
+<td class="cuerpo_tabla_coma">1.090,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAA 010B Audífono retro-auricular BTE (behind the ear).</td>
+<td class="cuerpo_tabla_centro">ADAP2</td>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_coma">1.200,00</td>
+<td class="cuerpo_tabla_coma">1.090,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAA 010C Audífono retro-auricular BTE superpotente (power).</td>
+<td class="cuerpo_tabla_centro">ADAP2</td>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_coma">1.200,00</td>
+<td class="cuerpo_tabla_coma">1.090,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PAA 020 Sistemas bi-cross.</td>
+<td class="cuerpo_tabla_izq">PAA 020A Sistema bi-cross de audífono intraauricular.</td>
+<td class="cuerpo_tabla_centro">ADAP3</td>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_coma">2.250,00</td>
+<td class="cuerpo_tabla_coma">2.045,45</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAA 020B Sistema bi-cross de audífono retroauricular.</td>
+<td class="cuerpo_tabla_centro">ADAP2</td>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_coma">1.800,00</td>
+<td class="cuerpo_tabla_coma">1.636,36</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">PAA 030 Varillas, diademas o bandas auditivas.</td>
+<td class="cuerpo_tabla_izq">PAA 030A Varilla o diadema auditiva aérea/ósea.</td>
+<td class="cuerpo_tabla_centro">ADAP2</td>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_coma">1.200,00</td>
+<td class="cuerpo_tabla_coma">1.090,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAA 030B Banda elástica suave con procesador de conducción ósea incorporado para niños, previo a cirugía.</td>
+<td class="cuerpo_tabla_centro">ADAP2</td>
+<td class="cuerpo_tabla_centro">84</td>
+<td class="cuerpo_tabla_coma">5.171,25</td>
+<td class="cuerpo_tabla_coma">4.701,14</td>
+</tr>
+</tbody>
+</table>
+
+Se facilitarán los audífonos con telebobina con capacidad de conexión con sistemas de inducción magnética, integrada en los mismos, en caso de que el paciente lo solicite y las características del dispositivo lo permitan.
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 22 06 90 Moldes adaptadores y otros componentes de audífonos para pacientes que cumplan los requisitos para recibir audífonos.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">PAM 000 Molde adaptador para audífono.</td>
+<td class="cuerpo_tabla_izq">PAM 000A Molde adaptador para audífono retroauricular BTE/BTE súper potente (unidad).</td>
+<td class="cuerpo_tabla_centro">COMP0</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">33,00</td>
+<td class="cuerpo_tabla_coma">30,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAM 000B Micromolde para audífono retro-auricular RITE/RIC (unidad).</td>
+<td class="cuerpo_tabla_centro">COMP0</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">44,00</td>
+<td class="cuerpo_tabla_coma">40,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAM 000C Molde con auricular integrado para audífono retro-auricular RITE/RIC (unidad).</td>
+<td class="cuerpo_tabla_centro">COMP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">121,00</td>
+<td class="cuerpo_tabla_coma">110,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAM 010 Otros componentes para audífonos.</td>
+<td class="cuerpo_tabla_izq">PAM 010A Tubo auricular para audífono retroauricular RITE/RIC (incluye adaptador estándar).</td>
+<td class="cuerpo_tabla_centro">COMP0</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">77,00</td>
+<td class="cuerpo_tabla_coma">70,00</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo">Subgrupo: 22 06 99 Recambios de componentes externos de implantes auditivos. El procedimiento de acceso a los recambios que establezca cada administración sanitaria competente incluirá el mecanismo que considere más adecuado para la activación, programación y revisiones que se precisen. La solicitud de inclusión en la Oferta de un producto perteneciente a uno de los tipos de las categorías PAI 010 y PAI 030 requiere que venga acompañada o se disponga ya en la Oferta de sus correspondientes componentes de los tipos pertenecientes a las categorías PAI 020 y PAI 040, respectivamente.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">PAI 000 Sistema básico completo para implante de conducción ósea.</td>
+<td class="cuerpo_tabla_izq">PAI 000A Sistema básico para implante de conducción ósea percutáneo (Incluye procesador, pilas* y soporte técnico).</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">84</td>
+<td class="cuerpo_tabla_coma">4.730,00</td>
+<td class="cuerpo_tabla_coma">4.300,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAI 000B Sistema básico para implante de conducción ósea transcutáneo activo (Incluye procesador, pilas* y soporte técnico).</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">84</td>
+<td class="cuerpo_tabla_coma">4.730,00</td>
+<td class="cuerpo_tabla_coma">4.300,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAI 000C Sistema básico para implante de conducción ósea transcutáneo pasivo (Incluye procesador, pilas* y soporte técnico).</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">84</td>
+<td class="cuerpo_tabla_coma">4.730,00</td>
+<td class="cuerpo_tabla_coma">4.300,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">PAI 010 Sistema básico completo para implante coclear.</td>
+<td class="cuerpo_tabla_izq">PAI 010A Sistema básico completo retroauricular para implante coclear (Incluye procesador, dos cables, antena/bobina, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">84</td>
+<td class="cuerpo_tabla_coma">7.700,00</td>
+<td class="cuerpo_tabla_coma">7.000,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAI 010B Sistema básico completo corporal para implante coclear (Incluye procesador, dos cables, antena/bobina, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">84</td>
+<td class="cuerpo_tabla_coma">7.700,00</td>
+<td class="cuerpo_tabla_coma">7.000,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAI 010C Sistema básico completo de unidad única para implante coclear (Incluye procesador, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">84</td>
+<td class="cuerpo_tabla_coma">7.700,00</td>
+<td class="cuerpo_tabla_coma">7.000,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAI 010D Sistema básico completo electroacústico para implante coclear (Incluye procesador, unidad acústica, molde, dos cables, imán, antena/bobina, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">84</td>
+<td class="cuerpo_tabla_coma">8.580,00</td>
+<td class="cuerpo_tabla_coma">7.800,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">PAI 020 Otros componentes externos para implante coclear.</td>
+<td class="cuerpo_tabla_izq">PAI 020A Micrófono para implante coclear.</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_coma">176,00</td>
+<td class="cuerpo_tabla_coma">160,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAI 020B Antena/bobina con imán para implante coclear.</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">367,50</td>
+<td class="cuerpo_tabla_coma">334,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAI 020C Cable para solución corporal para implante coclear, para niños y para usuarios con características especiales.</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">152,88</td>
+<td class="cuerpo_tabla_coma">138,98</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAI 020D Cable para solución retroauricular para implante coclear.</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">115,01</td>
+<td class="cuerpo_tabla_coma">104,55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAI 030 Sistema básico completo para implante de tronco cerebral.</td>
+<td class="cuerpo_tabla_izq">PAI 030A Sistema básico completo para implante de tronco cerebral (Incluye procesador, dos cables, antena/bobina, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">84</td>
+<td class="cuerpo_tabla_coma">9.542,50</td>
+<td class="cuerpo_tabla_coma">8.675,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">PAI 040 Otros componentes externos para implante de tronco cerebral.</td>
+<td class="cuerpo_tabla_izq">PAI 040A Micrófono para implante de tronco cerebral.</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_coma">176,00</td>
+<td class="cuerpo_tabla_coma">160,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAI 040B Antena/bobina para implante de tronco cerebral.</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">367,50</td>
+<td class="cuerpo_tabla_coma">334,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAI 040C Cable para solución corporal para implante de tronco cerebral, para niños y para usuarios con características especiales.</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">152,88</td>
+<td class="cuerpo_tabla_coma">138,98</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAI 040D Cable para solución retroauricular para implante de tronco cerebral.</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">115,01</td>
+<td class="cuerpo_tabla_coma">104,55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">PAI 050 Sistema básico completo para implante de oído medio.</td>
+<td class="cuerpo_tabla_izq">PAI 050A Sistema básico para implante de oído medio con procesador externo (Incluye procesador, pilas* y soporte técnico).</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">84</td>
+<td class="cuerpo_tabla_coma">4.070,00</td>
+<td class="cuerpo_tabla_coma">3.700,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAI 050B Sistema básico completo para implante de oído medio con procesador externo (Incluye procesador, cargador de baterías, mando a distancia y soporte técnico).</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">84</td>
+<td class="cuerpo_tabla_coma">5.390,00</td>
+<td class="cuerpo_tabla_coma">4.900,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PAI 050C Sistema básico completo para implante de oído medio totalmente implantable (Incluye cargador de baterías, mando a distancia y soporte técnico).</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">84</td>
+<td class="cuerpo_tabla_coma">1.540,00</td>
+<td class="cuerpo_tabla_coma">1.400,00</td>
+</tr>
+</tbody>
+<tfoot>
+<tr class="no_repetir">
+<td colspan="6">
+<p class="cita">* Las empresas facilitarán pilas en cantidad suficiente para tres años, en una sola entrega o de forma gradual, con el fin de asegurar las mejores condiciones de uso. Con carácter general, para calcular el número de pilas se considera que:</p>
+<p class="cita">– Los productos de los tipos incluidos en la categoría PAI 000 Sistema básico completo para implante de conducción ósea, precisan 36 pilas al año.</p>
+<p class="cita">– Los productos de los tipos incluidos en las categorías PAI 010 Sistema básico completo para implante coclear y PAI 030 Sistema básico completo para implante de tronco cerebral requieren 360 pilas al año.</p>
+<p class="cita">– Los productos del tipo PAI 050A Sistema básico para implante de oído medio con procesador externo precisan 60 pilas al año.</p>
+<p class="cita">No obstante, el número de pilas a entregar dependerá del tiempo de duración de cada una de ellas informado por el fabricante.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Se facilitarán los procesadores con telebobina con capacidad de conexión con sistemas de inducción magnética, integrada en los mismos, en caso de que el paciente lo solicite y las características del dispositivo lo permitan.
+
+Grupo: 89 99 Otros recambios de componentes externos de implantes quirúrgicos
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 89 99 00 Recambios de componentes externos del estimulador diafragmático o electroestimulador del nervio frénico. El procedimiento de acceso a los recambios que establezca cada administración sanitaria competente incluirá los seguimientos y las revisiones que se precisen.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">PRI 000 Sistema básico completo para estimulador diafragmático o electroestimulador del nervio frénico.</td>
+<td class="cuerpo_tabla_izq">PRI 000A Sistema básico completo para estimulador diafragmático o electroestimulador del nervio frénico (Incluye un controlador de estímulos, un módulo de programación, dos baterías externas de níquel manganeso, un cargador especial para las baterías externas, dos baterías recargables, un cargador para batería recargable, 4 antenas, 4 cables y una funda).</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">96</td>
+<td class="cuerpo_tabla_coma">36.038,09</td>
+<td class="cuerpo_tabla_coma">32.761,90</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">PRI 010 Otros componentes externos para estimulador diafragmático o electroestimulador del nervio frénico.</td>
+<td class="cuerpo_tabla_izq">PRI 010A Antena para estimulador diafragmático (unidad).</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">632,50</td>
+<td class="cuerpo_tabla_coma">575,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PRI 010B Cable de transferencia de energía para estimulador diafragmático (unidad).</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">339,90</td>
+<td class="cuerpo_tabla_coma">309,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">PRI 010C Batería de níquel manganeso para estimulador diafragmático (unidad).</td>
+<td class="cuerpo_tabla_centro">EMP0</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">541,20</td>
+<td class="cuerpo_tabla_coma">492,00</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifican los subgrupos 06 24 09, 06 24 12, 06 24 15, 06 24 18 y 06 24 21 del grupo 06 24 y el subgrupo 06 30 30 del grupo 06 30 por el art. único.9 y 10 de la Orden SND/454/2025, de 9 de mayo. [Ref. BOE-A-2025-9277](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-9277)
+
+> Téngase en cuenta, para su aplicación, la disposición adicional cuarta de la citada Orden.
+
+> Se suprime el primer inciso y se modifican los grupos 06 18, 06 24 y 06 90 por el art. único.1 de la Orden SND/44/2022, de 27 de enero. [Ref. BOE-A-2022-1426](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1426)
+
+> Téngase en cuenta, para su aplicación, la disposición adicional segunda de la citada Orden.
+
+> Se modifican los grupos 06 30 y 21 45, que pasa a denominarse 22 06, y se añade el grupo 89 99, con efectos de 1 de julio de 2019, por el art. único.4, 5 y 6 de la Orden SCB/480/2019, de 26 de abril. [Ref. BOE-A-2019-6277](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6277)
+
+> Téngase en cuenta para su aplicación las disposiciones adicionales 3 y 5 de la citada Orden.
+
+> Se actualiza el epígrafe 06 30 18 000 por el art. 1.1 de la Orden SSI/1640/2012, de 18 de julio. [Ref. BOE-A-2012-9935](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9935).
+
+> Se actualiza el epígrafe 06 18 por el art. único.2 de la Orden SAS/1466/2010, de 28 de mayo. [Ref. BOE-A-2010-9027](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9027)
+
+### 8. Sillas de ruedas
+
+Grupo: 12 22 Sillas de ruedas de propulsión manual (No se consideran incluidas las sillas de ruedas manuales con ruedas grandes delanteras maniobradas por los dos brazos, las sillas de ruedas propulsadas con el pie, ni las sillas de ruedas con motor, salvo las incluidas en el grupo 12 23).
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo">Subgrupo: 12 22 00 Sillas de ruedas manuales para personas con patologías o discapacidades que les impidan la marcha funcional de forma permanente.</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">SRM 000 Silla de ruedas manual no autopropulsable no plegable (rígida).</p>
+</td>
+<td class="cuerpo_tabla_izq">SRM 000A Silla de ruedas manual no autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_coma">258,15</td>
+<td class="cuerpo_tabla_coma">234,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SRM 000B Silla de ruedas manual no autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_coma">549,87</td>
+<td class="cuerpo_tabla_coma">499,88</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">SRM 010 Silla de ruedas manual no autopropulsable plegable.</td>
+<td class="cuerpo_tabla_izq">SRM 010A Silla de ruedas manual no autopropulsable plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">258,15</td>
+<td class="cuerpo_tabla_coma">234,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SRM 010B Silla de ruedas manual no autopropulsable plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con respaldo reclinable.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">358,15</td>
+<td class="cuerpo_tabla_coma">325,59</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SRM 010C Silla de ruedas manual no autopropulsable plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">549,87</td>
+<td class="cuerpo_tabla_coma">499,88</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">
+<p class="cuerpo_tabla_izq">SRM 020 Silla de ruedas manual no autopropulsable plegable o rígida, infantil.</p>
+</td>
+<td class="cuerpo_tabla_izq">SRM 020A Silla de ruedas manual no autopropulsable plegable, infantil, para alteraciones funcionales, tipo paraguas.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">515,17</td>
+<td class="cuerpo_tabla_coma">468,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SRM 020B Silla de ruedas manual no autopropulsable, desmontable, de plegado en libro, basculante, infantil ajustable al crecimiento del niño.</td>
+<td class="cuerpo_tabla_centro">ADAP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.618,94</td>
+<td class="cuerpo_tabla_coma">1.471,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SRM 020C Silla de ruedas manual no autopropulsable, plegable o rígida, basculante, infantil, para alteraciones neurológicas graves.</td>
+<td class="cuerpo_tabla_centro">ADAP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">2.146,79</td>
+<td class="cuerpo_tabla_coma">1.951,63</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">SRM 030 Silla de ruedas manual autopropulsable no plegable (rígida).</td>
+<td class="cuerpo_tabla_izq">SRM 030A Silla de ruedas manual autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">258,15</td>
+<td class="cuerpo_tabla_coma">234,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SRM 030B Silla de ruedas manual autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">549,87</td>
+<td class="cuerpo_tabla_coma">499,88</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SRM 030C Silla de ruedas manual autopropulsable no plegable (rígida), de verticalización, con sistema de sujeción en rodilla, para usuarios activos con lesión medular congénita o adquirida y antecedentes de úlcera por decúbito recidivante a pesar de tratamiento quirúrgico (especial prescripción).</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">3.157,55</td>
+<td class="cuerpo_tabla_coma">2.870,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SRM 030D Silla de ruedas manual autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y/o protectores de ropa, reposapiés fijos o abatibles y regulables, con ruedas de desmontaje rápido, de material ligero para usuarios activos, con patología medular de cualquier etiología o enfermedades neuromusculares (especial prescripción).</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">2.000,85</td>
+<td class="cuerpo_tabla_coma">1.818,95</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">SRM 040 Silla de ruedas manual autopropulsable plegable.</td>
+<td class="cuerpo_tabla_izq">SRM 040A Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">258,15</td>
+<td class="cuerpo_tabla_coma">234,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SRM 040B Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con respaldo reclinable.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">478,85</td>
+<td class="cuerpo_tabla_coma">435,32</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SRM 040C Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">549,87</td>
+<td class="cuerpo_tabla_coma">499,88</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SRM 040D Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con ruedas de desmontaje rápido, de material ligero.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">413,23</td>
+<td class="cuerpo_tabla_coma">375,66</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SRM 040E Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con ruedas de desmontaje rápido, de material ligero, infantil.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">900,00</td>
+<td class="cuerpo_tabla_coma">818,18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SRM 040F Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles, reposapiés abatibles y regulables, con ruedas de desmontaje rápido, de material ligero para usuarios activos, con patología medular de cualquier etiología o enfermedades neuromusculares (especial prescripción).</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">2.000,85</td>
+<td class="cuerpo_tabla_coma">1.818,95</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">SRM 050 Chasis y silla basculante para alteraciones neurológicas graves.</td>
+<td class="cuerpo_tabla_izq">SRM 050A Chasis posicionador basculante, incluyendo ruedas y frenos, susceptible de adaptaciones especiales, para alteraciones neurológicas graves (especial prescripción).</td>
+<td class="cuerpo_tabla_centro">ADAP3</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">1.604,08</td>
+<td class="cuerpo_tabla_coma">1.458,25</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SRM 050B Chasis posicionador basculante, de material ligero, incluyendo ruedas y frenos, susceptible de adaptaciones especiales, para alteraciones neurológicas graves (especial prescripción).</td>
+<td class="cuerpo_tabla_centro">ADAP3</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">1.936,00</td>
+<td class="cuerpo_tabla_coma">1.760,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">SRM 050C Silla basculante, con asiento y respaldo reclinable, reposacabezas, reposabrazos extraíbles, reposapiés elevables, y control postural de tronco, para alteraciones neurológicas graves (especial prescripción).</td>
+<td class="cuerpo_tabla_centro">ADAP2</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">2.574,79</td>
+<td class="cuerpo_tabla_coma">2.340,72</td>
+</tr>
+</tbody>
+</table>
+
+A aquellas personas que por su elevada obesidad no puedan utilizar sillas de los tipos SRM 000B, SRM 010C, SRM 030B y SRM 040C, se les podrá prescribir una silla de ruedas a medida, con importe según presupuesto.
+
+Grupo: 12 23 Sillas de ruedas motorizadas
+
+Subgrupo: 12 23 06 Sillas de ruedas de propulsión eléctrica y dirección eléctrica para personas con limitaciones funcionales graves del aparato locomotor por enfermedad, malformación o accidente que cumplan todos y cada uno de los requisitos siguientes:
+
+a) Incapacidad permanente para la marcha independiente.
+
+b) Incapacidad funcional permanente para la propulsión de sillas de ruedas manuales con las extremidades superiores.
+
+c) Suficiente capacidad visual, mental y de control que les permita el manejo de sillas de ruedas eléctricas y ello no suponga un riesgo añadido para su integridad y la de otras personas.
+
+Para la prescripción de las sillas de propulsión eléctrica se han de tener en cuenta los criterios que se recogen en los protocolos que se establezcan al efecto por el responsable de prestación ortoprotésica.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="7">
+<p class="cuerpo_tabla_izq">SRE 000 Silla de ruedas eléctrica.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">SRE 000A Silla de ruedas eléctrica estándar.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">48</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3.520,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3.200,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRE 000B Silla de ruedas eléctrica, infantil.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">48</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4.015,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3.650,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRE 000C Silla de ruedas eléctrica, para usuarios de más de 130 kg.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">60</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4.725,72</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4.296,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRE 000D Silla de ruedas eléctrica, con basculación manual.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">60</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4.125,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3.750,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRE 000E Silla de ruedas eléctrica, con basculación manual, infantil.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">60</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4.620,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4.200,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRE 000F Silla de ruedas eléctrica, con basculación electrónica.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">60</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4.455,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4.050,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRE 000G Silla de ruedas eléctrica, con basculación electrónica, infantil.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">60</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4.950,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4.500,00</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+A aquellas personas que por su elevada obesidad no puedan utilizar sillas del Tipo SRE 000C, se les podrá prescribir una silla de ruedas a medida, con importe según presupuesto.
+
+Grupo: 12 24 Accesorios para sillas de ruedas para personas con patologías o discapacidades que les impidan la marcha funcional de forma permanente
+
+Subgrupo: 12 24 15 Mesas o bandejas portátiles.
+
+| Categorías (Código homologado y descripción) | Tipos de productos (Código y descripción) | Elaboración | Vida media<br>–<br>Meses | IMF | IMF si |
+|---|---|---|---|---|---|
+| SAB 000 Bandeja desmontable especial. | SAB 000A Bandeja desmontable especial. | COMP1 | 36 | 117,29 | 106,63 |
+
+Subgrupo: 12 24 24. Baterías.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4">
+<p class="cuerpo_tabla_izq">SAT 000 Batería para silla de ruedas eléctrica.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">SAT 000A Batería para silla de ruedas eléctrica (par) de menos de 50A.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">416,05</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">378,23</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SAT 000B Batería para silla de ruedas eléctrica (par) de 50 A.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">460,05</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">418,23</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SAT 000C Batería para silla de ruedas eléctrica (par) de 60 A.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">566,37</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">514,89</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SAT 000D Batería para silla de ruedas eléctrica (par) de 70 A</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">668,23</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">607,49</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 12 24 89. Otros accesorios para sillas de ruedas.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="12">
+<p class="cuerpo_tabla_izq">SRA 000 Apoyo postural para silla de ruedas, incluidos tacos y correas.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">SRA 000A Apoyos laterales para la cabeza (par).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">156,06</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">141,87</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 000B Apoyos laterales para el tronco fijos (par).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">127,05</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">115,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 000C Apoyos laterales para el tronco abatibles (par).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">166,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">150,91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 000D Cuña niveladora de pelvis (unidad).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">59,33</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">53,94</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 000E Taco abductor (unidad).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">70,93</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">64,48</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 000F Cincha para la cabeza.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">63,87</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">58,06</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 000G Chaleco de fijación.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">101,92</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">92,65</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 000H Arnés de hombros.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">90,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">81,82</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 000I Cinturón de 4 puntos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">88,07</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">80,06</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 000J Cinturón o arnés pélvico.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">125,09</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">113,72</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 000K Cinchas para pies (par).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">53,76</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">48,87</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 000L Soporte de fluido (unidad).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">62,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">56,36</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p class="cuerpo_tabla_izq">SRA 010 Reposacabezas.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">SRA 010A Reposacabezas fijo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">85,01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">77,28</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 010B Reposacabezas con apoyo occipital o total, fijo u orientable.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">187,14</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">170,13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 010C Reposacabezas con apoyo occipital o total, orientable con brazo de una articulación ajustable en altura y profundidad.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">495,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">450,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 010D Reposacabezas con apoyo occipital o total, orientable con brazo acodado de dos articulaciones, ajustable en altura y profundidad.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">610,67</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">555,15</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">SRA 020 Sistema para autopropulsión con un solo brazo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">SRA 020A Sistema de doble aro para autopropulsión con un solo brazo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">383,70</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">348,82</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 020B Palanca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">431,26</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">392,05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="9">
+<p class="cuerpo_tabla_izq">SRA 030 Otros accesorios.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">SRA 030A Mando especial de mentón para silla de ruedas eléctrica.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">48</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.552,57</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.411,43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 030B Otro mando especial para silla de ruedas eléctrica, de acuerdo con los protocolos de los responsables de prestación ortoprotésica (especial prescripción).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">48</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">SP</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">SP</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 030C Sistema doble amputado.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">65,85</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">59,86</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 030D Dispositivo especial para respirador.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">162,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">147,27</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 030E Dispositivo para bombona de oxígeno.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">83,78</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">76,16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 030F Subebordillos para silla de ruedas eléctrica.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">48</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">216,84</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">197,13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 030G Rueda antivuelco para silla de ruedas manual.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">49,62</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">45,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 030H Alargador de freno.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">20,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">18,18</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRA 030I Base rígida para silla de ruedas.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">51,49</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">46,81</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 12 24 90 Recambios y componentes para sillas de ruedas.
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">SRC 000 Reposabrazos especial.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">SRC 000A Reposabrazos de cazoleta.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">108,63</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">98,75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRC 000B Reposabrazos envolvente con soporte palmar.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">151,75</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">137,95</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRC 000C Reposabrazos regulable en altura.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">129,38</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">117,62</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p class="cuerpo_tabla_izq">SRC 010 Reposapiés especial.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">SRC 010A Reposapiés único.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">103,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">93,64</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRC 010B Reposapiés con cazoleta (par).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">193,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">175,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRC 010C Reposapiés con elevación manual para silla de ruedas manual o eléctrica (par).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">313,92</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">285,38</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRC 010D Reposapiés con elevación eléctrica para silla de ruedas eléctricas (par).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">843,76</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">767,05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">SRC 020 Asiento-respaldo postural con carcasa, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">SRC 020A Asiento-respaldo postural con carcasa, a medida previo molde.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">2.500,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">2.272,73</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRC 020B Asiento postural con carcasa, a medida previo molde.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.291,64</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.174,22</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRC 020C Respaldo postural con carcasa, a medida previo molde.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.320,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.200,00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">SRC 030 Asiento-respaldo postural modular.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">SRC 030A Plataforma rígida ajustable para asiento postural modular.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">238,50</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">216,82</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRC 030B Asiento postural modular.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">754,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">685,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">SRC 030C Respaldo postural modular.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">847,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">770,00</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica la categoría SRM 030 del grupo 12 22, subgrupo 12 22 00 por el art. único.2 de la Orden SND/44/2022, de 27 de enero. [Ref. BOE-A-2022-1426](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1426)
+
+> Se sustituye, con efectos de 1 de julio de 2019, por el contenido del Anexo I de la Orden SCB/45/2019, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
+
+### 9. Ortesis
+
+Grupo: 06 03 Ortesis de columna vertebral (No se consideran incluidas las fajas preventivas)
+
+Subgrupo: 06 03 06 Ortesis lumbo-sacras (Aportación del usuario: 30 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="5">
+<p class="cuerpo_tabla_izq">OTL 000 Ortesis lumbo-sacra semirrígida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTL 000A Ortesis lumbo-sacra semirrígida elástica con flejes posteriores.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">BAS</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">68,28</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">62,07</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTL 000B Ortesis lumbo-sacra semirrígida en tejido no elástico.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">BAS</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">88,20</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">80,18</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTL 000C Ortesis lumbo-sacra semirrígida en tejido elástico o no elástico para abdomen péndulo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">99,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">90,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTL 000D Ortesis lumbo-sacra semirrígida para eventración y/u ostomía.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">99,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">90,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTL 000E Ortesis lumbo-sacra semirrígida, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">290,95</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">264,50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p class="cuerpo_tabla_izq">OTL 010 Ortesis lumbo-sacra rígida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTL 010A Ortesis lumbo-sacra rígida, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">277,31</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">252,10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTL 010B Ortesis lumbo-sacra rígida en termoplástico, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">538,49</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">489,54</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTL 010C Ortesis lumbo-sacra Knight.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">186,30</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">169,36</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTL 010D Ortesis lumbo-sacra con armazón rígido posterior y tejido elástico.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">218,10</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">198,27</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 03 09. Ortesis toraco-lumbo-sacras (dorso-lumbares) (Aportación del usuario: 30 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">OTD 000 Ortesis toraco-lumbar semirrígida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTD 000A Ortesis toraco-lumbar semirrígida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">104,50</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">95,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 000B Ortesis toraco-lumbar semirrígida para abdomen péndulo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">104,50</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">95,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 000C Ortesis toraco-lumbar semirrígida, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">242,18</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">220,16</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OTD 010 Ortesis para pectus carinatum (tórax en quilla) o excavatum.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTD 010A Corsé para pectus carinatum (tórax en quilla) o pectus excavatum, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">647,65</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">588,77</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 010B Ortesis para pectus carinatum (tórax en quilla), prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">495,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">450,00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p class="cuerpo_tabla_izq">OTD 020 Ortesis toraco-lumbar rígida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTD 020A Ortesis toraco-lumbar rígida monovalva para inmovilización en termoplástico, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">275,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">250,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 020B Ortesis toraco-lumbar rígida bivalva con apoyo esternal para inmovilización en termoplástico, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">448,13</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">407,39</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 020C Ortesis toraco-lumbar rígida para inmovilización en termoplástico, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">688,57</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">625,97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 020D Ortesis toraco-lumbar Taylor, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">214,19</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">194,72</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 020E Ortesis toraco-lumbar con armazón rígido posterior y tejido elástico.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">341,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">310,00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OTD 030 Corsé rígido para cifolordosis.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTD 030A Corsé rígido de corrección progresiva para cifolordosis, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">988,80</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">898,91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 030B Corsé rígido de corrección progresiva para cifolordosis articulado, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">988,80</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">898,91</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">OTD 040 Corsé para escoliosis, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTD 040A Corsé de Stagnara o Lyones, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">977,66</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">888,78</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 040B Corsé de Cheneau, con almohadillas de presión, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">1.048,49</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">953,17</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 040C Corsé de Michel, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">910,80</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">828,00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p class="cuerpo_tabla_izq">OTD 050 Corsé tipo Boston.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTD 050A Corsé tipo Boston, en termoplástico con aperturas de expansión y almohadillas de presión, con módulo prefabricado.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">880,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">800,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 050B Corsé tipo Boston, en termoplástico con aperturas de expansión y almohadillas de presión, talla especial.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">894,83</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">813,48</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 050C Corsé tipo Boston blando.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">816,42</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">742,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 050D Corsé tipo Boston, en termoplástico con aperturas de expansión y almohadillas de presión, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">909,65</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">826,95</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OTD 060 Ortesis de uso nocturno.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTD 060A Ortesis de inclinación lateral de uso nocturno, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">1.024,89</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">931,72</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 060B Corsé de termoplástico con sistema de presión en 3 puntos y zonas de expansión de uso nocturno (tipo Providence o similar), a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">1.049,07</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">953,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 070 Ortesis de Kallabis.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTD 070A Ortesis de Kallabis de tres puntos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">188,99</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">171,81</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">OTD 080 Ortesis de hiperextensión.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTD 080A Ortesis de hiperextensión de Jewett.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">216,37</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">196,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 080B Ortesis de hiperextensión cruciforme.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">225,37</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">204,88</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 080C Ortesis de hiperextensión basculante.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">234,37</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">213,06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OTD 090 Lecho postural.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTD 090A Lecho postural Denis Browne para escoliosis del lactante.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">442,63</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">402,39</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTD 090B Lecho postural en termoplástico, a medida previo molde.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">600,46</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">545,87</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 03 12 Ortesis cervicales (Aportación del usuario: 30 euros).
+
+| Categorías (Código homologado y descripción) | Tipos de productos (Código y descripción) | Elaboración | Vida media<br>–<br>Meses | IMF | IMF si |
+|---|---|---|---|---|---|
+| OTC 000 Ortesis cervical semirrígida. | OTC 000A Soporte cervical semirrígido en termoplástico blando con refuerzo, bivalvo, con apoyo mentoniano. | ADAP1 | 24 | 43,20 | 39,27 |
+| OTC 010 Ortesis cervical rígida. | OTC 010A Ortesis cervical rígida en termoplástico, con apoyo occipital y mentoniano regulable o no. | ADAP1 | 24 | 179,28 | 162,98 |
+
+Subgrupo: 06 03 15 Ortesis cérvico-torácicas (Aportación del usuario: 30 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTT 000 Ortesis cervical tipo Somi.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTT 000A Soporte cervical tipo Somi.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">289,10</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">262,82</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OTT 010 Minerva larga.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTT 010A Minerva larga, a medida previo molde.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">592,63</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">538,75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTT 010B Minerva larga, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">410,56</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">373,24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTT 020 Chaleco para halo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTT 020A Chaleco para halo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">273,85</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">248,95</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 03 18 Ortesis cérvico-toraco-lumbo-sacras (Aportación del usuario: 30 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OTS 000 Corsé de Milwaukee.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTS 000A Corsé de Milwaukee con cesta pélvica en cuero y placas correctoras, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.190,97</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.082,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTS 000B Corsé de Milwaukee con cesta pélvica en termoplástico y placas correctoras, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">822,82</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">748,02</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTS 900 Supraestructura.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTS 900A Supraestructura de corsé de Milwaukee adaptada a otro tipo de corsé.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">340,02</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">309,11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OTS 910 Cambio de cesta pélvica.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OTS 910A Cesta pélvica en cuero para corsé de Milwaukee, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">850,95</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">773,59</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OTS 910B Cesta pélvica en termoplástico para corsé de Milwaukee, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">482,80</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">438,91</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Grupo: 06 06 Ortesis de miembro superior
+
+Subgrupo: 06 06 03 Ortesis de dedos (Aportación del usuario: 12 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OSD 000 Ortesis pasiva para dedo pulgar.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSD 000A Ortesis pasiva rígida para mantener el pulgar en oposición o abducción, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">68,50</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">62,27</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSD 000B Ortesis pasiva en termoplástico para mantener el pulgar en oposición o abducción, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">87,60</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">79,64</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OSD 010 Ortesis pasiva para dedo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSD 010A Ortesis pasiva rígida para inmovilización de dedo, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">BAS</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">25,29</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">22,99</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSD 010B Ortesis pasiva en termoplástico para inmovilización de dedo, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">44,29</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">40,26</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSD 020 Ortesis activa para dedo pulgar.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSD 020A Ortesis activa para dedo pulgar, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">73,16</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">66,51</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OSD 030 Ortesis activa flexora/extensora para dedo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSD 030A Ortesis activa extensora para dedo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">42,64</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">38,76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSD 030B Ortesis activa flexora para dedo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">42,64</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">38,76</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 06 06 Ortesis de mano (Aportación del usuario: 12 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">OSM 000 Ortesis pasiva para mantener las articulaciones metacarpofalángicas en una posición determinada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSM 000A Ortesis pasiva para mantener las articulaciones metacarpofalángicas en una posición determinada, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">107,80</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">98,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSM 000B Ortesis pasiva para mantener las articulaciones metacarpofalángicas en una posición determinada, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">116,13</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">105,57</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSM 000C Ortesis pasiva progresiva para llevar las articulaciones metacarpofalángicas a una posición determinada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">121,97</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">110,88</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p class="cuerpo_tabla_izq">OSM 010 Ortesis activa flexora o extensora de articulaciones metacarpofalángicas.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSM 010A Ortesis activa extensora de articulaciones metacarpofalángicas.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">122,55</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">111,41</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSM 010B Ortesis activa flexora de articulaciones metacarpofalángicas.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">122,55</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">111,41</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSM 010C Ortesis activa flexora de articulaciones metacarpofalángicas y aditamento extensor de dedo/s.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">146,56</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">133,24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSM 010D Ortesis activa extensora de articulaciones metacarpofalángicas y aditamento extensor/abductor del pulgar.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">148,90</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">135,36</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSM 010E Ortesis activa flexora de articulaciones metacarpofalángicas y aditamento extensor/abductor del pulgar.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">148,90</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">135,36</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 06 12 Ortesis de muñeca y mano (Aportación del usuario: 30 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSN 000 Ortesis pasiva de muñeca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSN 000A Ortesis pasiva de muñeca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">61,60</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">56,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSN 010 Ortesis activa de muñeca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSN 010A Ortesis activa de muñeca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">18</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">140,31</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">127,55</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OSN 020 Ortesis activa flexora o extensora de las articulaciones metacarpofalángicas con estabilización de la articulación de la muñeca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSN 020A Ortesis activa flexora de las articulaciones metacarpofalángicas con estabilización de la articulación de la muñeca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">18</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">199,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">180,91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSN 020B Ortesis activa extensora de las articulaciones metacarpofalángicas con estabilización de la articulación de la muñeca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">18</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">199,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">180,91</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 06 13 Ortesis de muñeca, mano y dedos (Aportación del usuario: 30 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OSU 000 Ortesis pasiva de muñeca, mano y dedo/s.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSU 000A Ortesis pasiva de muñeca, mano y dedo/s, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">125,92</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">114,47</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSU 000B Ortesis pasiva de muñeca, mano y dedo/s, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">168,98</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">153,62</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OSU 010 Ortesis activa de muñeca, mano y dedo/s.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSU 010A Ortesis activa para flexión dorsal de muñeca, extensión o flexión de articulaciones metacarpofalángicas e interfalángicas, con o sin dispositivo abductor del pulgar, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">247,12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">224,65</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSU 010B Ortesis activa para flexión dorsal de muñeca, extensión o flexión de articulaciones metacarpofalángicas e interfalángicas, con o sin dispositivo abductor del pulgar, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">370,80</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">337,09</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 06 15 Ortesis de codo (Aportación del usuario: 30 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OSC 000 Ortesis pasiva de codo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSC 000A Ortesis pasiva de codo sin articulación, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">165,57</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">150,52</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSC 000B Ortesis pasiva de codo sin articulación, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">205,78</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">187,07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OSC 010 Ortesis activa de codo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSC 010A Ortesis activa de codo para flexión y/o extensión con articulación regulable incluida, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">18</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">331,89</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">301,72</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSC 010B Ortesis activa de codo para flexión y/o extensión, a medida (Prescribir además una articulación regulable a elección).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">18</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">368,39</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">334,90</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 06 20 Ortesis de antebrazo (Aportación del usuario: 30 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OSA 000 Ortesis pasiva de antebrazo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSA 000A Ortesis pasiva de antebrazo, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">111,24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">101,13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSA 000B Ortesis pasiva de antebrazo, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">169,28</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">153,89</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 06 24 Ortesis de hombro y codo (Aportación del usuario: 30 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OSB 000 Ortesis pasiva de brazo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSB 000A Ortesis pasiva para inmovilización ósea de brazo en termoplástico, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">151,80</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">138,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSB 000B Ortesis pasiva para inmovilización ósea de brazo en termoplástico, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">239,91</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">218,10</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 06 27 Ortesis de hombro, codo y muñeca (Aportación del usuario: 30 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OSH 000 Ortesis pasiva de hombro, codo y muñeca, sin articulación.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSH 000A Ortesis pasiva para mantener hombro, codo y muñeca en una posición determinada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">270,60</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">246,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSH 000B Ortesis pasiva para subluxación de hombro.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">132,48</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">120,44</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">OSH 010 Ortesis de hombro, codo y muñeca, con articulaciones.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSH 010A Ortesis pasiva de hombro, codo y muñeca con articulación de codo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">322,73</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">293,39</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSH 010B Ortesis multiarticulada pasiva para control de articulaciones de hombro, codo y muñeca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">496,56</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">451,42</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSH 010C Ortesis multiarticulada activa para control de articulaciones de hombro, codo y muñeca.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">737,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">670,00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OSH 020 Ortesis pasiva para parálisis del plexo braquial, obstétrica o infantil.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSH 020A Ortesis pasiva para parálisis del plexo braquial, obstétrica o infantil, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">231,50</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">210,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSH 020B Ortesis pasiva para parálisis del plexo braquial, obstétrica o infantil, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">376,17</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">341,97</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 06 36 Articulaciones de codo (Aportación del usuario: 0 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="5">
+<p class="cuerpo_tabla_izq">OSO 000 Articulación de codo</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OSO 000A Articulación de codo mecánica monocéntrica.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">72,73</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">66,12</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSO 000B Articulación de codo mecánica policéntrica.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">128,32</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">116,65</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSO 000C Articulación de codo tipo tornillo sin fin.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">87,45</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">79,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSO 000D Articulación de codo tipo cremallera o rueda dentada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">195,84</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">178,04</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OSO 000E Articulación de codo dinámica y activa.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">364,73</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">331,57</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Grupo: 06 12 Ortesis de miembro inferior (No se consideran incluidas las ortesis de pie ni las rodilleras en tejido elástico sin flejes)
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<caption>
+<p class="parrafo_2">Subgrupo: 06 12 06 Ortesis de tobillo y pie (tibiales) (Aportación del usuario: 30 euros).</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 000 Ortesis posterior pasiva tibial.</td>
+<td class="cuerpo_tabla_izq">OIT 000A Ortesis posterior pasiva tibial.</td>
+<td class="cuerpo_tabla_centro">ADAP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">136,06</td>
+<td class="cuerpo_tabla_coma">123,69</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">OIT 010 Ortesis de Denis Browne.</td>
+<td class="cuerpo_tabla_izq">OIT 010A Ortesis Denis Browne, para menores de 3 años (Prescribir además un botín o bota).</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">57,90</td>
+<td class="cuerpo_tabla_coma">52,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 010B Ortesis Denis Browne articulada, para menores de 3 años (Prescribir además un botín o bota).</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">96,54</td>
+<td class="cuerpo_tabla_coma">87,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 020 Botín multiarticulado.</td>
+<td class="cuerpo_tabla_izq">OIT 020A Botín multiarticulado (unidad).</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">111,14</td>
+<td class="cuerpo_tabla_coma">101,04</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 030 Ortesis para inmovilización de la articulación tibio-tarsiana.</td>
+<td class="cuerpo_tabla_izq">OIT 030A Ortesis no articulada para inmovilización medio-lateral y de la flexo-extensión de la articulación tibio-tarsiana.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">110,00</td>
+<td class="cuerpo_tabla_coma">100,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 040 Ortesis tibial de marcha en descarga.</td>
+<td class="cuerpo_tabla_izq">OIT 040A Ortesis tibial de marcha en descarga.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">259,26</td>
+<td class="cuerpo_tabla_coma">235,69</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">
+<p class="cuerpo_tabla_izq">OIT 050 Ortesis de control medio-lateral de la articulación tibio-tarsiana.</p>
+</td>
+<td class="cuerpo_tabla_izq">OIT 050A Ortesis de control medio-lateral de la articulación tibio-tarsiana con dos hemivalvas y cámara de aire o gel.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">99,72</td>
+<td class="cuerpo_tabla_coma">90,65</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 050B Ortesis de control medio-lateral de la articulación tibio-tarsiana con sistema de contención.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">53,90</td>
+<td class="cuerpo_tabla_coma">49,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 050C Ortesis dinámica para ligamentos laterales del tobillo.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">89,73</td>
+<td class="cuerpo_tabla_coma">81,57</td>
+</tr>
+<tr data-partir-fila="true">
+<td class="cuerpo_tabla_izq" rowspan="8">OIT 060 Ortesis dinámica antiequino.</td>
+<td class="cuerpo_tabla_izq">OIT 060A Ortesis posterior antiequino, «Rancho Los Amigos», prefabricada.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">127,26</td>
+<td class="cuerpo_tabla_coma">115,69</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 060B Ortesis posterior antiequino, «Rancho Los Amigos», a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">246,85</td>
+<td class="cuerpo_tabla_coma">224,41</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 060C Ortesis antiequino, dinámica, en alambre de acero anclada a zapato.</td>
+<td class="cuerpo_tabla_centro">ADAP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">168,30</td>
+<td class="cuerpo_tabla_coma">153,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 060D Ortesis antiequino, dinámica con tensor elástico anterior.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">124,98</td>
+<td class="cuerpo_tabla_coma">113,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 060E Bitutor de Klenzack, a medida (unidad).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">433,58</td>
+<td class="cuerpo_tabla_coma">394,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 060F Ortesis tibial antiequino termoconformada, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">233,48</td>
+<td class="cuerpo_tabla_coma">212,25</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 060G Ortesis tibial antiequino termoconformada con valva anterior, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">285,03</td>
+<td class="cuerpo_tabla_coma">259,12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 060H Ortesis posterior dinámica antiequino, con fleje lateral y plantilla termoplástica para interior de zapato.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">234,66</td>
+<td class="cuerpo_tabla_coma">213,33</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="8">OIT 070 Ortesis dinámica antiequino tipo DAFO*.</td>
+<td class="cuerpo_tabla_izq">OIT 070A Ortesis supramaleolar tipo DAFO envolvente para control de prono-supinación, con o sin dorsiflexión, para paciente infantil con patología neurológica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">407,61</td>
+<td class="cuerpo_tabla_coma">370,55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 070B Ortesis supramaleolar tipo DAFO envolvente en medio-pie flexible para bloqueo de flexión plantar, para paciente infantil con patología neurológica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">407,61</td>
+<td class="cuerpo_tabla_coma">370,55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 070C Ortesis supramaleolar tipo DAFO envolvente en medio-pie flexible con botín interior para bloqueo de flexión plantar, para paciente infantil con patología neurológical, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">493,72</td>
+<td class="cuerpo_tabla_coma">448,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 070D Ortesis supramaleolar tipo DAFO envolvente en medio-pie flexible con botín interior para bloqueo de flexión plantar y apoyo prepatelar, para paciente infantil con patología neurológica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">640,93</td>
+<td class="cuerpo_tabla_coma">582,66</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 070E Ortesis supramaleolar tipo DAFO envolvente en medio-pie, flexible con botín interior, para bloqueo de flexión plantar, articulada, para paciente infantil con patología neurológica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">503,54</td>
+<td class="cuerpo_tabla_coma">457,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 070F Ortesis supramaleolar tipo DAFO envolvente en medio-pie, flexible con botín interior, para bloqueo de flexión plantar, articulada, para paciente infantil con patología neurológica con hiperextensión de rodilla, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">572,04</td>
+<td class="cuerpo_tabla_coma">520,04</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 070G Ortesis supramaleolar tipo DAFO envolvente para control de prono-supinación, con o sin dorsiflexión, para paciente infantil con patología neurológica, prefabricada.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">154,35</td>
+<td class="cuerpo_tabla_coma">140,32</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 070H Ortesis supramaleolar tipo DAFO envolvente para control de prono-supinación, con bloqueo de la flexión plantar y articulación Tamarack, que asiste a la dorsiflexión, para paciente infantil con patología neurológica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">677,40</td>
+<td class="cuerpo_tabla_coma">615,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 080 Bitutor corto.</td>
+<td class="cuerpo_tabla_izq">OIT 080A Bitutor corto, a medida (unidad) (Prescribir además, si lo precisa, una articulación de tobillo a elección).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">325,20</td>
+<td class="cuerpo_tabla_coma">295,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 090 Polaina desde el tobillo hasta debajo de la rodilla.</td>
+<td class="cuerpo_tabla_izq">OIT 090A Polaina desde el tobillo hasta debajo de la rodilla, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">212,56</td>
+<td class="cuerpo_tabla_coma">193,24</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">OIT 100 Ortesis funcional tipo PTB (<em>Patellar Tendon Bearing</em>).</td>
+<td class="cuerpo_tabla_izq">OIT 100A Ortesis funcional tipo PTB (<em>Patellar Tendon Bearing</em>), prefabricada.</td>
+<td class="cuerpo_tabla_centro">ADAP2</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">207,28</td>
+<td class="cuerpo_tabla_coma">188,44</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 100B Ortesis funcional tipo PTB (<em>Patellar Tendon Bearing</em>), a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">422,72</td>
+<td class="cuerpo_tabla_coma">384,29</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 110 Ortesis para la descarga del pie, con apoyo de tendón rotuliano.</td>
+<td class="cuerpo_tabla_izq">OIT 110A Ortesis para la descarga del pie, con apoyo en tendón rotuliano y estribo deslizante, con alza contralateral, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">469,69</td>
+<td class="cuerpo_tabla_coma">426,99</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">OIT 900 Botín.</td>
+<td class="cuerpo_tabla_izq">OIT 900A Botín de cuero moldeado para adaptar a ortesis, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">270,96</td>
+<td class="cuerpo_tabla_coma">246,33</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 900B Botín para Denis Browne para menores de 3 años.</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">78,11</td>
+<td class="cuerpo_tabla_coma">71,01</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">OIT 910 Bota tipo boxer para adaptar a ortesis de marcha (par).</td>
+<td class="cuerpo_tabla_izq">OIT 910A Bota tipo boxer para adaptar a ortesis de marcha. Hasta el número 23 (par).</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">132,00</td>
+<td class="cuerpo_tabla_coma">120,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 910B Bota tipo boxer para adaptar a ortesis de marcha. Números 24 al 29 (par).</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">137,50</td>
+<td class="cuerpo_tabla_coma">125,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 910C Bota tipo boxer para adaptar a ortesis de marcha. Números 30 al 33 (par).</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">145,20</td>
+<td class="cuerpo_tabla_coma">132,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 910D Bota tipo boxer para adaptar a ortesis de marcha. Números 34 al 37 (par).</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">152,90</td>
+<td class="cuerpo_tabla_coma">139,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 910E Bota tipo boxer para adaptar a ortesis de marcha. Números 38 y superiores (par).</td>
+<td class="cuerpo_tabla_centro">COMP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">159,50</td>
+<td class="cuerpo_tabla_coma">145,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIT 920 Correa en «T» para antivalgo o antivaro.</td>
+<td class="cuerpo_tabla_izq">OIT 920A Correa en «T» para antivalgo o antivaro.</td>
+<td class="cuerpo_tabla_centro">COMP0</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">50,29</td>
+<td class="cuerpo_tabla_coma">45,72</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6">
+<p class="cita">* Para aquellos pacientes, usuarios desde niños de alguno de los tipos de productos incluidos en la categoría “OIT 070 Ortesis dinámica antiequino tipo DAFO”, se requerirá para su renovación una vez alcanzada la edad adulta, que la prescripción vaya acompañada de un informe justificativo por parte del facultativo especialista.»</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Subgrupo: 06 12 09 Ortesis de rodilla (Aportación del usuario: 30 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OIR 000 Ortesis pasiva para la inmovilización de la rodilla.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIR 000A Ortesis pasiva para la inmovilización de rodilla sin articulación.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">BAS</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">98,45</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">89,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIR 000B Ortesis pasiva para la inmovilización de rodilla con articulación.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">137,39</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">124,90</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OIR 010 Ortesis para la articulación de la rodilla, con sistema de estabilización (varillas, flejes, etc.).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIR 010A Ortesis para la articulación de rodilla, con sistema de estabilización.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">BAS</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">75,90</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">69,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIR 010B Ortesis para la articulación de rodilla, con sistema de estabilización y rodete rotuliano de compresión intermitente.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">BAS</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">87,59</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">79,63</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OIR 020 Ortesis de rodilla estabilizadora con articulación graduable de flexo-extensión.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIR 020A Ortesis de rodilla estabilizadora con articulación monocéntrica graduable de flexo-extensión.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">210,10</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">191,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIR 020B Ortesis de rodilla estabilizadora con articulación policéntrica graduable de flexo-extensión.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">272,59</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">247,81</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p class="cuerpo_tabla_izq">OIR 030 Ortesis para el control mediolateral y de flexo-extensión de la rodilla.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIR 030A Ortesis de rodilla para control de genu recurvatum.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">377,30</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">343,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIR 030B Ortesis de rodilla para el control de inestabilidad mediolateral (varo-valgo).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">390,17</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">354,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIR 030C Ortesis para el control mediolateral y de flexo-extensión de la rodilla (ligamento cruzado anterior (LCA) y/o posterior (LCP)).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">417,52</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">379,56</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIR 030D Ortesis para el control mediolateral y/o de flexo-extensión de la rodilla, a medida, bajo protocolo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">575,04</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">522,76</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 12 12 Ortesis de rodilla, tobillo y pie (femorales) (Aportación del usuario: 30 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OIF 000 Ortesis de valva posterior de muslo y pierna rígida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIF 000A Ortesis para extensión de rodilla mediante valva posterior de muslo, pierna y pie, con galápago de tracción sobre rodilla, en termoplástico, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">350,09</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">318,26</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIF 000B Ortesis para extensión de rodilla mediante valva posterior de muslo, pierna y pie, con dispositivo de tracción dinámica sobre rodilla, en termoplástico, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">436,67</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">396,97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIF 010 Ortesis de abducción.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIF 010A Ortesis de abducción de tobillo a muslo con pletina graduable, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">419,79</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">381,63</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIF 020 Muslera conformada en termoplástico.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIF 020A Muslera conformada en termoplástico, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">215,19</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">195,63</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIF 030 Ortesis estabilizadora de rodilla.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIF 030A Ortesis de rodilla a pie con apoyo anterior en tendón rotuliano y supracondilar, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">381,49</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">346,81</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIF 040 Ortesis correctora dinámica genu-valgo o varo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIF 040A Ortesis genu-valgo o varo, con barra externa o interna unida a bota, aro de muslo y galápago elástico para corrección dinámica (unidad), a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">356,94</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">324,49</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIF 050 Ortesis de Grenier.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIF 050A Ortesis de Grenier con dos valvas mediales de muslo, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">326,67</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">296,97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIF 060 Ortesis femoral QTB (<em>Quadrilateral Thigh Bearing</em>).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIF 060A Ortesis funcional QTB (<em>Quadrilateral Thigh Bearing</em>) en termoplástico, a medida (Prescribir además una articulación de rodilla y una articulación de tobillo a elección).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">551,86</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">501,69</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 12 15 Ortesis de cadera, incluyendo ortesis de abducción (Aportación del usuario: 30 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OIC 000 Ortesis de inmovilización de cadera sin articulación.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIC 000A Ortesis de inmovilización de cadera sin articulación, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">513,12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">466,47</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIC 000B Ortesis de inmovilización de cadera sin articulación, prefabricada.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">353,41</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">321,28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">OIC 010 Ortesis para la displasia congénita de cadera.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIC 010A Ortesis para mantener caderas en abducción (tipo Frejka o similar).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">96,06</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">87,33</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIC 010B Ortesis para mantener caderas en abducción y rotación externa mediante arnés con tirantes (Arnés de Pavlik).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">132,63</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">120,57</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIC 010C Ortesis multiarticulada para mantener caderas en abducción y rotación externa de forma independiente.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">733,07</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">666,43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIC 020 Ortesis modular desrotadora de cadera.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIC 020A Ortesis modular desrotadora de cadera, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">331,46</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">301,33</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIC 030 Ortesis de Atlanta (o del Hospital Scottish Rite en Atlanta).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIC 030A Ortesis de Atlanta (o del Hospital Scottish Rite en Atlanta), a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">660,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">600,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIC 040 Ortesis modular de abducción de cadera.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIC 040A Ortesis modular de abducción de cadera regulable con control de la flexo-extensión.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">579,87</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">527,15</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 06 12 18 Ortesis de cadera, rodilla, tobillo y pie (Aportación del usuario: 30 euros).</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">
+<p class="cuerpo_tabla_izq">OIE 000 Bitutor femoral metálico.</p>
+</td>
+<td class="cuerpo_tabla_izq">OIE 000A Bitutor femoral metálico con aros, a medida (unidad) (Prescribir además articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">891,12</td>
+<td class="cuerpo_tabla_coma">810,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIE 000B Bitutor femoral metálico con muslera de apoyo isquiático, a medida (unidad) (Prescribir además articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">991,99</td>
+<td class="cuerpo_tabla_coma">901,81</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIE 000C Bitutor femoral metálico, con encaje cuadrangular, a medida (unidad) (Prescribir además articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.107,88</td>
+<td class="cuerpo_tabla_coma">1.007,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIE 000D Bitutor femoral metálico con cinturón pélvico, a medida (unidad) (Prescribir además articulación de cadera, articulación rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.009,04</td>
+<td class="cuerpo_tabla_coma">917,31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIE 000E Bitutor femoral metálico con muslera de apoyo isquiático y cinturón pélvico, a medida (unidad) (Prescribir además articulación de cadera, articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.109,91</td>
+<td class="cuerpo_tabla_coma">1.009,01</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIE 000F Bitutor femoral metálico con encaje cuadrangular y cinturón pélvico, a medida (unidad) (Prescribir además articulación de cadera, articulación rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.225,80</td>
+<td class="cuerpo_tabla_coma">1.114,36</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIE 010 Monotutor femoral.</td>
+<td class="cuerpo_tabla_izq">OIE 010A Monotutor femoral laminado en resina con articulación de rodilla y articulación de tobillo o ballesta, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">3.410,00</td>
+<td class="cuerpo_tabla_coma">3.100,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIE 020 Ortesis femoral.</td>
+<td class="cuerpo_tabla_izq">OIE 020A Ortesis termoconformada al vacío desde pie a tercio proximal de muslo, a medida (TPV) (Prescribir además una articulación de rodilla y una articulación de tobillo a elección).</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">790,96</td>
+<td class="cuerpo_tabla_coma">719,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIE 030 Ortesis tipo Swash.</td>
+<td class="cuerpo_tabla_izq">OIE 030A Ortesis de abducción variable desrotadora femoral (tipo Swash), infantil.</td>
+<td class="cuerpo_tabla_centro">ADAP3</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">956,97</td>
+<td class="cuerpo_tabla_coma">869,97</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIE 040 Ortesis femoral de abducción en acero de Tachdjian.</td>
+<td class="cuerpo_tabla_izq">OIE 040A Ortesis femoral de abducción de Tachdjian (unilateral) en acero, a medida, con encaje trilateral, articulación en rodilla, control de rotación, estribo de marcha, mecanismo distractor del pie y alza contralateral.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">24</td>
+<td class="cuerpo_tabla_coma">1.200,03</td>
+<td class="cuerpo_tabla_coma">1.090,94</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">OIE 050 Ortesis desrotadora femoral.</td>
+<td class="cuerpo_tabla_izq">OIE 050A Ortesis desrotadora femoral (tipo twister) (unidad).</td>
+<td class="cuerpo_tabla_centro">ADAP2</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_coma">252,67</td>
+<td class="cuerpo_tabla_coma">229,70</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIE 050B Ortesis desrotadora femoral en tejido elástico (unidad).</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_coma">40,70</td>
+<td class="cuerpo_tabla_coma">37,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">OIE 900 Dispositivo estabilizador y reciprocador para adaptar a ortesis de marcha bilateral.</td>
+<td class="cuerpo_tabla_izq">OIE 900A Dispositivo estabilizador y reciprocador para adaptar a ortesis de marcha bilateral (Prescribir además una ortesis de marcha bilateral a elección).</td>
+<td class="cuerpo_tabla_centro">ADAP3</td>
+<td class="cuerpo_tabla_centro">36</td>
+<td class="cuerpo_tabla_coma">2.750,00</td>
+<td class="cuerpo_tabla_coma">2.500,00</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 12 21 Articulaciones de tobillo (Aportación del usuario: 0 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="6">
+<p class="cuerpo_tabla_izq">OIO 000 Articulación de tobillo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIO 000A Articulación rígida de tobillo libre.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">125,40</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">114,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIO 000B Articulación rígida de tobillo, con control del movimiento dorsal y plantar.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">140,80</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">128,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIO 000C Articulación flexible de tobillo con asistencia del movimiento de flexión dorsal y/o plantar.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">129,80</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">118,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIO 000D Articulación rígida de tobillo con asistencia dinámica del movimiento de flexión dorsal y/o plantar tipo Klenzack.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">129,01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">117,28</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIO 000E Articulación flexible de tobillo con asistencia del movimiento de flexión dorsal y/o plantar variable.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">264,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">240,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIO 000F Articulación flexible de tobillo con asistencia del movimiento de flexión dorsal y/o plantar con tope posterior.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">135,30</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">123,00</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 12 24 Articulaciones de rodilla (Aportación del usuario: 0 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">OIA 000 Articulación de rodilla libre.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIA 000A Articulación de rodilla libre.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">163,19</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">148,35</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIA 000B Articulación de rodilla libre con eje desplazado.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">278,40</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">253,09</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIA 000C Articulación de rodilla libre con asistencia a la extensión.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">554,65</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">504,23</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIA 010 Articulación de rodilla con cierre de anillas.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIA 010A Articulación de rodilla con cierre de anillas.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">301,80</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">274,36</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIA 020 Articulación de rodilla con cierre suizo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIA 020A Articulación de rodilla con cierre suizo con o sin sistema de amortiguación.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">435,11</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">395,55</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIA 030 Articulación de rodilla policéntrica.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIA 030A Articulación de rodilla policéntrica.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">484,37</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">440,34</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIA 040 Articulación de rodilla progresiva.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIA 040A Articulación de rodilla progresiva dentada con bloqueo en la flexión.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">580,80</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">528,00</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 06 12 27 Articulaciones de cadera (Aportación del usuario: 0 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OID 000 Articulación de cadera libre.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OID 000A Articulación de cadera libre, en acero.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">264,29</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">240,26</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OID 000B Articulación de cadera libre, en acero, con movimiento de abducción.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">324,86</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">295,33</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">OID 010 Articulación de cadera con cierre de anillas.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OID 010A Articulación de cadera con cierre de anillas.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">254,43</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">231,30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OID 010B Articulación de cadera con cierre de anillas y movimiento de abducción.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">324,86</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">295,33</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo 06 12 90: Recambios y componentes para ortesis de miembro inferior (Aportación del usuario: 0 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="6">
+<p class="cuerpo_tabla_izq">OIS 900 Recambios y componentes para ortesis de miembro inferior.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">OIS 900A Cinturón pélvico para ortesis de miembro inferior.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">117,92</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">107,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIS 900B Cinturón pélvico con soporte glúteo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">160,36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">145,78</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIS 900C Barra para ortesis de miembro inferior.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">23,61</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">21,46</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIS 900D Estribo para ortesis de miembro inferior.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">63,27</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">57,52</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIS 900E Galápago, prefabricado.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">COMP0</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">18</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">17,07</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">15,52</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">OIS 900F Galápago, a medida.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">110,00</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">100,00</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Grupo: 06 33 Calzados ortopédicos
+
+Subgrupo: 06 33 90 Calzados ortopédicos para grandes deformidades (Aportación del usuario: 36 euros).
+
+| Categorías (Código homologado y descripción) | Tipos de productos (Código y descripción) | Elaboración | Vida media<br>–<br>Meses | IMF | IMF si |
+|---|---|---|---|---|---|
+| OCO 000 Calzado de plastazote, licra, fibra elástica o similar (par). | OCO 000A Calzado ortopédico en plastazote, licra, fibra elástica o similar para deformidades en pies diabéticos, artríticos y neuropáticos (par). | BAS | 12 | 97,93 | 89,03 |
+| OCO 010 Calzado a medida. | OCO 010A Calzado ortopédico, a medida, previo molde, para grandes deformidades (par). | MED | 12 | 728,56 | 662,33 |
+
+> Se modifica el subgrupo 06 12 06 del grupo 06 12 por el art. único.11 de la Orden SND/454/2025, de 9 de mayo. [Ref. BOE-A-2025-9277](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-9277)
+
+> Téngase en cuenta, para su aplicación, la disposición adicional cuarta de la citada Orden.
+
+> Se modifica el tipo OIE 010A, categoría OIE 010 del grupo 06 12 subgrupo 06 12 18 por el art. único.3 de la Orden SND/44/2022, de 27 de enero. [Ref. BOE-A-2022-1426](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1426)
+
+> Se sustituye, con efectos de 1 de julio de 2019, por el contenido del Anexo I de la Orden SCB/45/2019, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
+
+> Téngase en cuenta, para la aplicación de la aportación del usuario, la disposición transitoria segunda de la citada Orden.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 251, de 20 de octubre de 2006. [Ref. BOE-A-2006-18278](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-18278)
+
+### 10. Ortoprótesis especiales
+
+Grupo: 12 03 Productos de apoyo para caminar manejados por un brazo
+
+Subgrupo: 12 03 09 Muletas de codo con soporte en antebrazo (Aportación del usuario: 12 euros).
+
+| Categorías (Código homologado y descripción) | Tipos de productos (Código y descripción) | Elaboración | Vida media<br>–<br>Meses | IMF | IMF si |
+|---|---|---|---|---|---|
+| EMS 000 Muleta con soporte en antebrazo y empuñadura anatómica. | EMS 000A Muleta con soporte en antebrazo y empuñadura anatómica con o sin abrazadera (unidad). | BAS | 36 | 23,82 | 21,65 |
+
+Subgrupo: 12 03 16 Muletas con tres o más patas (Aportación del usuario: 12 euros).
+
+| Categorías (Código homologado y descripción) | Tipos de productos (Código y descripción) | Elaboración | Vida media<br>–<br>Meses | IMF | IMF si |
+|---|---|---|---|---|---|
+| EMT 000 Muleta con tres o más patas. | EMT 000A Muleta con tres o más patas. | BAS | 36 | 44,97 | 40,88 |
+
+Grupo: 12 06 Productos de apoyo para caminar manejados por los dos brazos
+
+Subgrupo: 12 06 00 Andadores (Aportación del usuario: 30 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">EAN 000 Andador sin ruedas.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EAN 000A Andador fijo regulable en altura.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">BAS</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">75,53</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">68,66</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EAN 000B Andador plegable de altura regulable.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">BAS</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">82,40</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">74,91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EAN 000C Andador deambulador plegable de altura regulable.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">BAS</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">104,46</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">94,96</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">EAN 010 Andador con ruedas.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EAN 010A Andador de ruedas delanteras y tacos traseros, para niños y adultos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">BAS</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">93,91</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">85,37</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EAN 010B Andador de ruedas delanteras y tacos traseros con asiento, para niños y adultos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">BAS</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">101,48</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">92,25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EAN 010C Andador con ruedas delanteras giratorias y traseras con freno, con o sin asiento (rollator), para niños y adultos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">BAS</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">130,52</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">118,65</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EAN 020 Andador con control postural de tronco y pelvis.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EAN 020A Andador con control postural de tronco y pelvis, graduable en altura y con freno, para niños y adultos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.414,01</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.285,46</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EAN 030 Andador anteroposterior.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EAN 030A Andador anteroposterior graduable en altura, con asiento abatible y freno, para niños y adultos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">837,36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">761,24</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Grupo: 04 06 Productos para la terapia del linfedema.
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 04 06 06 Prendas de compresión para brazos, piernas y otras partes del cuerpo para linfedemas de miembros superiores, linfedemas graves de miembros inferiores y linfedemas de tronco (se podrán indicar dos unidades de cada producto en cada prescripción) (Aportación del usuario: 30 euros).</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 000 Soporte de cuello para linfedema.</td>
+<td class="cuerpo_tabla_izq">EPL 000A Soporte de cuello para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">132,41</td>
+<td class="cuerpo_tabla_coma">120,37</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">EPL 010 Máscara para linfedema.</td>
+<td class="cuerpo_tabla_izq">EPL 010A Máscara abierta para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">313,98</td>
+<td class="cuerpo_tabla_coma">285,44</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 010B Máscara abierta con banda labial para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">334,36</td>
+<td class="cuerpo_tabla_coma">303,96</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 010C Máscara con apertura para ojos, nariz y boca para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">421,27</td>
+<td class="cuerpo_tabla_coma">382,97</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">EPL 020 Camiseta para linfedema.</td>
+<td class="cuerpo_tabla_izq">EPL 020A Camiseta sin mangas para linfedema de tronco, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">278,93</td>
+<td class="cuerpo_tabla_coma">253,57</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 020B Camiseta con mangas largas para linfedema de tronco, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">469,49</td>
+<td class="cuerpo_tabla_coma">426,81</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 030 Soporte de mama para afectación linfática.</td>
+<td class="cuerpo_tabla_izq">EPL 030A Soporte de mama para afectación linfática, prefabricado.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">140,00</td>
+<td class="cuerpo_tabla_coma">127,27</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="7">EPL 040 Guantelete y guante para linfedema.</td>
+<td class="cuerpo_tabla_izq">EPL 040A Guantelete para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">52,53</td>
+<td class="cuerpo_tabla_coma">47,75</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 040B Guantelete para linfedema, prefabricado.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">31,74</td>
+<td class="cuerpo_tabla_coma">28,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 040C Guante sin protección distal para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">150,07</td>
+<td class="cuerpo_tabla_coma">136,43</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 040D Guante sin protección distal para linfedema, prefabricado.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">125,85</td>
+<td class="cuerpo_tabla_coma">114,41</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 040E Guante con protección distal para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">157,61</td>
+<td class="cuerpo_tabla_coma">143,28</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 040F Guante hasta el codo sin protección distal para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">175,25</td>
+<td class="cuerpo_tabla_coma">159,32</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 040G Guante hasta el codo con protección distal para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">181,21</td>
+<td class="cuerpo_tabla_coma">164,74</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="10">
+<p class="cuerpo_tabla_izq">EPL 050 Manga para linfedema.</p>
+</td>
+<td class="cuerpo_tabla_izq">EPL 050A Manga para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">108,70</td>
+<td class="cuerpo_tabla_coma">98,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 050B Manga para linfedema, prefabricada.</td>
+<td class="cuerpo_tabla_centro">BAS</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">105,60</td>
+<td class="cuerpo_tabla_coma">96,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 050C Manga con guantelete para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">147,94</td>
+<td class="cuerpo_tabla_coma">134,49</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 050D Manga con guantelete para linfedema, prefabricada.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">109,69</td>
+<td class="cuerpo_tabla_coma">99,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 050E Manga con guante para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">232,57</td>
+<td class="cuerpo_tabla_coma">211,43</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 050F Manga abarcando el hombro para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">154,47</td>
+<td class="cuerpo_tabla_coma">140,43</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 050G Manga abarcando el hombro para linfedema, prefabricada.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">121,79</td>
+<td class="cuerpo_tabla_coma">110,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 050H Manga abarcando el hombro con guantelete para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">213,66</td>
+<td class="cuerpo_tabla_coma">194,24</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 050I Manga abarcando el hombro con guantelete para linfedema, prefabricada.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">174,96</td>
+<td class="cuerpo_tabla_coma">159,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 050J Manga abarcando el hombro con guante para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">298,73</td>
+<td class="cuerpo_tabla_coma">271,57</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">EPL 060 Guante con dedos para pie para linfedema.</td>
+<td class="cuerpo_tabla_izq">EPL 060A Guante sin protección distal para pie para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">149,67</td>
+<td class="cuerpo_tabla_coma">136,06</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 060B Guante con protección distal para pie para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">152,14</td>
+<td class="cuerpo_tabla_coma">138,31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">
+<p class="cuerpo_tabla_izq">EPL 070 Media para linfedema.</p>
+</td>
+<td class="cuerpo_tabla_izq">EPL 070A Media hasta la rodilla para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">106,82</td>
+<td class="cuerpo_tabla_coma">97,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 070B Media hasta la rodilla para linfedema, prefabricada.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">84,44</td>
+<td class="cuerpo_tabla_coma">76,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 070C Media entera para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">165,44</td>
+<td class="cuerpo_tabla_coma">150,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 070D Media entera para linfedema, prefabricada.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">109,14</td>
+<td class="cuerpo_tabla_coma">99,22</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 070E Media entera con sujeción a la cintura para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">173,03</td>
+<td class="cuerpo_tabla_coma">157,30</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">
+<p class="cuerpo_tabla_izq">EPL 080 Panty para linfedema.</p>
+</td>
+<td class="cuerpo_tabla_izq">EPL 080A Panty de una extremidad para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">282,15</td>
+<td class="cuerpo_tabla_coma">256,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 080B Panty de una extremidad para linfedema, prefabricado.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">246,63</td>
+<td class="cuerpo_tabla_coma">224,21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 080C Panty (de dos piernas) para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">353,67</td>
+<td class="cuerpo_tabla_coma">321,52</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 080D Panty (de dos piernas) para linfedema, prefabricado.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">319,06</td>
+<td class="cuerpo_tabla_coma">290,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">EPL 090 Pantalón para linfedema.</td>
+<td class="cuerpo_tabla_izq">EPL 090A Pantalón de pernera corta para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">251,82</td>
+<td class="cuerpo_tabla_coma">228,93</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 090B Pantalón para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">309,79</td>
+<td class="cuerpo_tabla_coma">281,63</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">EPL 100 Prenda autoajustable para linfedema de miembro superior.</td>
+<td class="cuerpo_tabla_izq">EPL 100A Guantelete autoajustable de baja elasticidad o inelástico, prefabricado.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">52,89</td>
+<td class="cuerpo_tabla_coma">48,08</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 100B Guante autoajustable de baja elasticidad o inelástico, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">143,29</td>
+<td class="cuerpo_tabla_coma">130,26</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 100C Prenda para brazo autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">298,62</td>
+<td class="cuerpo_tabla_coma">271,47</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 100D Prenda para brazo autoajustable de baja elasticidad o inelástica, prefabricada.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">159,85</td>
+<td class="cuerpo_tabla_coma">145,32</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="12">EPL 110 Prenda autoajustable para linfedema de miembro inferior.</td>
+<td class="cuerpo_tabla_izq">EPL 110A Prenda para pie incluyendo tobillo autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">64,78</td>
+<td class="cuerpo_tabla_coma">58,89</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 110B Prenda para pie incluyendo tobillo autoajustable de baja elasticidad o inelástica, prefabricada.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">54,67</td>
+<td class="cuerpo_tabla_coma">49,70</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 110C Prenda para pierna por debajo de la rodilla incluyendo pie autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">428,93</td>
+<td class="cuerpo_tabla_coma">389,94</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 110D Prenda para pierna por debajo de la rodilla incluyendo pie autoajustable de baja elasticidad o inelástica, prefabricada.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">128,61</td>
+<td class="cuerpo_tabla_coma">116,92</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 110E Prenda para pierna por debajo de la rodilla autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">320,03</td>
+<td class="cuerpo_tabla_coma">290,94</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 110F Prenda para muslo autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">230,66</td>
+<td class="cuerpo_tabla_coma">209,69</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 110G Prenda para muslo autoajustable de baja elasticidad o inelástica, prefabricada.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">140,00</td>
+<td class="cuerpo_tabla_coma">127,27</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 110H Prenda para muslo incluyendo rodilla autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">326,18</td>
+<td class="cuerpo_tabla_coma">296,53</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 110I Prenda para muslo incluyendo rodilla autoajustable de baja elasticidad o inelástica, prefabricada.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">143,98</td>
+<td class="cuerpo_tabla_coma">130,89</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 110J Prenda para pierna entera incluyendo pie autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">734,88</td>
+<td class="cuerpo_tabla_coma">668,07</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 110K Prenda para pierna entera incluyendo pie autoajustable de baja elasticidad o inelástica, prefabricada.</td>
+<td class="cuerpo_tabla_centro">ADAP1</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">293,70</td>
+<td class="cuerpo_tabla_coma">267,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPL 110L Prenda para pierna entera autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">500,50</td>
+<td class="cuerpo_tabla_coma">455,00</td>
+</tr>
+</tbody>
+</table>
+
+El IMF de los tipos de productos a medida del subgrupo 04 06 06, a excepción de los tipos incluidos en las categorías EPL 100 y EPL 110, hace referencia a la fabricación de dichos productos en tejido circular. En caso de que se prescriba tejido plano, el correspondiente IMF se incrementará en un 15%.
+
+Grupo: 04 07 Productos para la prevención y tratamiento de cicatrices patológicas
+
+Subgrupo: 04 07 00 Prendas de compresión para brazos, piernas y otras partes del cuerpo para quemados y grandes queloides (se podrán indicar dos unidades de cada producto en cada prescripción) (Aportación del usuario: 30 euros)
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">EPQ 000 Soporte de cuello y/o mentón para quemados y grandes queloides</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 000A Soporte de cuello para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">132,41</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">120,37</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 000B Soporte de mentón para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">174,10</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">158,27</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 000C Soporte de cuello y mentón para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">245,50</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">223,18</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p class="cuerpo_tabla_izq">EPQ 010 Máscara para quemados y grandes queloides</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 010A Máscara abierta para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">313,98</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">285,44</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 010B Máscara abierta con banda labial para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">334,36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">303,96</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 010C Máscara con apertura para ojos, nariz y boca para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">421,27</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">382,97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 010D Máscara de termoplástico con silicona para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.277,46</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.161,33</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">EPQ 020 Camiseta para quemados y grandes queloides</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 020A Camiseta sin mangas para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">278,93</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">253,57</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 020B Camiseta con mangas cortas para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">419,54</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">381,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 020C Camiseta con mangas largas para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">469,49</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">426,81</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">EPQ 030 Tronco para quemados y grandes queloides</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 030A Tronco sin mangas para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">472,20</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">429,27</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 030B Tronco con mangas cortas para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">567,47</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">515,88</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 030C Tronco con mangas largas para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">580,35</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">527,59</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p class="cuerpo_tabla_izq">EPQ 040 Guantelete y guante para quemados y grandes queloides</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 040A Guantelete para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">52,53</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">47,75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 040B Guante sin protección distal para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">150,07</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">136,43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 040C Guante con protección distal para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">157,61</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">143,28</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 040D Guante hasta el codo sin protección distal para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">175,25</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">159,32</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 040E Guante hasta el codo con protección distal para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">181,21</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">164,74</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6">
+<p class="cuerpo_tabla_izq">EPQ 050 Manga para quemados y grandes queloides</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 050A Manga para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">108,70</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">98,82</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 050B Manga con guantelete para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">147,94</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">134,49</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 050C Manga con guante para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">232,57</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">211,43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 050D Manga abarcando el hombro para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">154,47</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">140,43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 050E Manga abarcando el hombro con guantelete para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">213,66</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">194,24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 050F Manga abarcando el hombro con guante para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">298,73</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">271,57</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">EPQ 060 Guante con dedos para pie para quemados y grandes queloides</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 060A Guante con dedos sin protección distal para pie para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">149,67</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">136,06</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 060B Guante con dedos con protección distal para pie para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">152,14</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">138,31</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p class="cuerpo_tabla_izq">EPQ 070 Media para quemados y grandes queloides</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 070A Media hasta la rodilla para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">106,82</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">97,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 070B Media entera para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">165,44</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">150,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 070C Media entera con sujeción a la cintura para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">173,03</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">157,30</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">EPQ 080 Panty para quemados y grandes queloides</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 080A Panty de una extremidad para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">282,15</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">256,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 080B Panty (de dos piernas) para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">353,67</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">321,52</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">EPQ 090 Pantalón para quemados y grandes queloides</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 090A Pantalón de pernera corta para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">251,82</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">228,93</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 090B Pantalón para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">309,79</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">281,63</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 100 Tobillera para quemados y grandes queloides</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EPQ 100A Tobillera para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">MED</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">82,96</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">75,42</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+El IMF de los tipos de productos del subgrupo 04 07 00, excepto en el caso de la máscara de termoplástico, hace referencia a la fabricación de dicho producto en tejido circular. En caso de que se prescriba tejido plano, el correspondiente IMF se incrementará en un 15 %.
+
+Grupo: 04 90 Complementos para las prendas de compresión
+
+<table class="tabla_ancha">
+<thead>
+<tr>
+<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
+<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
+<th class="cabeza_tabla">Elaboración</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th class="cabeza_tabla">IMF</th>
+<th class="cabeza_tabla">IMF si</th>
+</tr>
+</thead>
+<caption>
+<p class="parrafo_2">Subgrupo: 04 90 00 Complementos para las prendas de compresión (para linfedema, quemados y grandes queloides) (Aportación del usuario: 0 euros).</p>
+</caption>
+<colgroup>
+<col width="17%">
+<col width="48%">
+<col width="9%">
+<col width="7%">
+<col width="10%">
+<col width="9%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">EPC 000 Cierre para prendas de compresión.</td>
+<td class="cuerpo_tabla_izq">EPC 000A Cierre de cremallera, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">30,42</td>
+<td class="cuerpo_tabla_coma">27,65</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 000B Cierre de corchetes, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">18,46</td>
+<td class="cuerpo_tabla_coma">16,78</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 000C Cierre de velcro, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">17,99</td>
+<td class="cuerpo_tabla_coma">16,35</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="7">
+<p class="cuerpo_tabla_izq">EPC 010 Adaptaciones para prendas de compresión.</p>
+</td>
+<td class="cuerpo_tabla_izq">EPC 010A Apertura de mamas, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">18,46</td>
+<td class="cuerpo_tabla_coma">16,78</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 010B Confección de copas, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">14,47</td>
+<td class="cuerpo_tabla_coma">13,15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 010C Confección de bolsa escrotal, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">55,00</td>
+<td class="cuerpo_tabla_coma">50,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 010D Adaptación anatómica articular, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">23,67</td>
+<td class="cuerpo_tabla_coma">21,52</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 010E Adaptación textil, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">34,13</td>
+<td class="cuerpo_tabla_coma">31,03</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 010F Inserción de bolsillo, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">35,00</td>
+<td class="cuerpo_tabla_coma">31,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 010G Almohadillas linfáticas, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">33,69</td>
+<td class="cuerpo_tabla_coma">30,63</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="13">EPC 020 Otros complementos para prendas de compresión.</td>
+<td class="cuerpo_tabla_izq">EPC 020A Banda proximal de sujeción para prendas de compresión para linfedema, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">36,52</td>
+<td class="cuerpo_tabla_coma">33,20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 020B Soporte de silicona para quemados y grandes queloides, a medida.</td>
+<td class="cuerpo_tabla_centro">MED</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_coma">16,96</td>
+<td class="cuerpo_tabla_coma">15,42</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 020C Banda adicional de sujeción para prendas autoajustables de baja elasticidad o inelásticas para linfedema, prefabricada.</td>
+<td class="cuerpo_tabla_centro">COMP0</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">32,74</td>
+<td class="cuerpo_tabla_coma">29,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 020D Funda de protección para el brazo para uso con prendas autoajustables de compresión.</td>
+<td class="cuerpo_tabla_centro">COMP0</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">26,44</td>
+<td class="cuerpo_tabla_coma">24,04</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 020E Funda de protección para la pierna para uso con prendas autoajustables de compresión.</td>
+<td class="cuerpo_tabla_centro">COMP0</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">32,91</td>
+<td class="cuerpo_tabla_coma">29,92</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 020F Almohadilla acolchada para linfedema de la zona genital para hombre, prefabricada.</td>
+<td class="cuerpo_tabla_centro">COMP0 </td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">88,94</td>
+<td class="cuerpo_tabla_coma">80,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 020G Almohadilla acolchada para linfedema de la zona genital para mujer, prefabricada.</td>
+<td class="cuerpo_tabla_centro">COMP0 </td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">76,78</td>
+<td class="cuerpo_tabla_coma">69,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 020H Almohadilla acolchada para linfedema del pecho unilateral, prefabricada.</td>
+<td class="cuerpo_tabla_centro">COMP0</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">56,76</td>
+<td class="cuerpo_tabla_coma">51,60</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 020I Almohadilla acolchada para linfedema de pecho bilateral, prefabricada.</td>
+<td class="cuerpo_tabla_centro">COMP0 </td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">164,01</td>
+<td class="cuerpo_tabla_coma">149,10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 020J Almohadilla acolchada para linfedema de la fosa axilar, prefabricada.</td>
+<td class="cuerpo_tabla_centro">COMP0 </td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">37,03</td>
+<td class="cuerpo_tabla_coma">33,66</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 020K Almohadilla acolchada para linfedema del abdomen, prefabricada.</td>
+<td class="cuerpo_tabla_centro">COMP0 </td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">53,90</td>
+<td class="cuerpo_tabla_coma">49,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 020L Almohadilla acolchada para linfedema del tobillo, prefabricada.</td>
+<td class="cuerpo_tabla_centro">COMP0</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">41,03</td>
+<td class="cuerpo_tabla_coma">37,30</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">EPC 020M Almohadilla acolchada para linfedema del dorso de la mano, prefabricada.</td>
+<td class="cuerpo_tabla_centro">COMP0 </td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_coma">33,88</td>
+<td class="cuerpo_tabla_coma">30,80</td>
+</tr>
+</tbody>
+</table>
+
+Grupo: 04 33 Productos de apoyo para la prevención de las úlceras por presión (Productos antidecúbitos)
+
+Subgrupo: 04 33 00 Cojines para prevenir las úlceras por presión (Aportación del usuario: 30 euros).
+
+| Categorías (Código homologado y descripción) | Tipos de productos (Código y descripción) | Elaboración | Vida media<br>–<br>Meses | IMF | IMF si |
+|---|---|---|---|---|---|
+| ECJ 000 Cojín para prevenir las úlceras por presión, de una sola pieza de silicona, gel u otros materiales. | ECJ 000A Cojín para prevenir las úlceras por presión, de una sola pieza de silicona, gel u otros materiales, para usuarios de sillas de ruedas con alto riesgo de úlcera por presión. | BAS | 36 | 115,97 | 105,43 |
+| ECJ 010 Cojín para prevenir las úlceras por presión, modular, de diferentes materiales con base firme. | ECJ 010A Cojín para prevenir las úlceras por presión, modular, de diferentes materiales con base firme, para usuarios de sillas de ruedas con patología medular de cualquier etiología o daño cerebral adquirido. | ADAP1 | 36 | 355,47 | 323,15 |
+| ECJ 020 Cojín para prevenir las úlceras por presión, con múltiples celdas de aire, u otros materiales, independientes unidas por una base. | ECJ 020A Cojín para prevenir las úlceras por presión, con múltiples celdas de aire u otros materiales, independientes unidas por una base, para usuarios de sillas de ruedas con patología medular de cualquier etiología o daño cerebral adquirido. | ADAP1 | 36 | 677,77 | 616,15 |
+
+Grupo: 04 48 Equipo para el entrenamiento del movimiento, la fuerza y el equilibrio para pacientes lesionados medulares, parálisis cerebral, traumatismos craneoencefálicos, mielomeningocele, distrofias musculares progresivas y enfermedades neurodegenerativas.
+
+Subgrupo: 04 48 06 Aparatos de bipedestación (Aportación del usuario: 30 euros).
+
+<table class="tabla_ancha" summary="Tabla de datos">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th>
+<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+</th>
+<th>
+<p class="cabeza_tabla">Elaboración</p>
+</th>
+<th>
+<p class="cabeza_tabla">Vida media</p>
+<p class="cabeza_tabla">–</p>
+<p class="cabeza_tabla">Meses</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF</p>
+</th>
+<th>
+<p class="cabeza_tabla">IMF si</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_izq">EBI 000 Aparato de bipedestación.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">EBI 000A Bipedestador de niño.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1.705,80</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1.550,73</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">EBI 000B Bipedestador de adulto.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">ADAP1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2.282,91</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2.075,37</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Subgrupo: 04 48 21 Planos inclinables (Aportación del usuario: 30 euros).
+
+| Categorías (Código homologado y descripción) | Tipos de productos (Código y descripción) | Elaboración | Vida media<br>–<br>Meses | IMF | IMF si |
+|---|---|---|---|---|---|
+| EPI 000 Plano inclinado. | EPI 000A Plano inclinado prono/supino para niños. | ADAP1 | 36 | 1.769,27 | 1.608,43 |
+
+ADAP = Adaptación individualizada al usuario (ADAP1: De complejidad baja, ADAP2: De complejidad media, ADAP3: De complejidad alta).
+
+BAS = Ajuste básico al usuario.
+
+COMP = Componentes, accesorios o recambios (COMP0: Componente constituyente de una ortoprótesis externa, accesorio o recambio de complejidad básica; COMP1: De complejidad baja; COMP2: De complejidad media; COMP3: De complejidad alta).
+
+EMP0 = Componentes externos de implantes quirúrgicos dispensados por la empresa que los comercializa, a los que no se aplican los coeficientes de corrección, por lo que el precio de empresa será el precio de Oferta.
+
+IMF= Importes máximos de financiación.
+
+IMF si= Importes máximos de financiación sin impuestos.
+
+MED = Elaboración a medida. No se ofertarán los productos correspondientes a estos tipos por estar elaborados a medida.
+
+SP = Tipo de producto sin IMF. Los productos de este tipo se financiarán al precio de Oferta, que en el caso de los productos a medida es el que refleje el establecimiento dispensador en la factura.
+
+> Se añaden las categorías EPL 100 y EPL 110 en el grupo 04 06 subgrupo 04 06 06 y se modifica el inciso final de éste, y se añaden los tipos de productos EPC 020C a EPC 020M, en la Categoría EPC 020 del Grupo 04 90 Subgrupo 04 90 00 por el art. único.4 y 5 de la Orden SND/44/2022, de 27 de enero. [Ref. BOE-A-2022-1426](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1426)
+
+> Se modifican las notas que figuran al final del apartado, con efectos de 1 de julio de 2019, por el art. único.7 de la Orden SCB/480/2019, de 26 de abril. [Ref. BOE-A-2019-6277](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6277)
+
+> Se sustituye, con efectos de 1 de julio de 2019, por el contenido del Anexo I de la Orden SCB/45/2019, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
+
+> Téngase en cuenta, para la aplicación de la aportación del usuario, la disposición transitoria segunda de la citada Orden.
+
+> Se actualiza el epígrafe 4 33 por el art. 1.2 de la Orden SSI/1640/2012, de 18 de julio. [Ref. BOE-A-2012-9935](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9935).
+
+## ANEXO VII
+
+## Cartera de servicios comunes de prestación con productos dietéticos
+
+### 1. Prestación con productos dietéticos
+
+La prestación con productos dietéticos comprende la dispensación de los tratamientos dietoterápicos a las personas que padezcan determinados trastornos metabólicos congénitos y la nutrición enteral domiciliaria para pacientes a los que no es posible cubrir sus necesidades nutricionales, a causa de su situación clínica, con alimentos de consumo ordinario.
+
+Esta prestación se facilitará por los servicios de salud o dará lugar a ayudas económicas, en los casos y de acuerdo con las normas que reglamentariamente se establezcan.
+
+### 2. Conceptos
+
+2.1 Tratamientos dietoterápicos: Son aquellos que se llevan a cabo con alimentos dietéticos destinados a usos médicos especiales para los usuarios del Sistema Nacional de Salud que padezcan determinados trastornos metabólicos congénitos.
+
+2.2 Nutrición enteral domiciliaria.
+
+2.2.1 La nutrición enteral domiciliaria comprende la administración de fórmulas enterales por vía digestiva, habitualmente mediante sonda (ya sea nasoentérica o de ostomía), con el fin de evitar o corregir la desnutrición de los pacientes atendidos en su domicilio cuyas necesidades nutricionales no pueden ser cubiertas con alimentos de consumo ordinario.
+
+2.2.2 Las fórmulas enterales son aquellos alimentos dietéticos destinados a usos médicos especiales constituidos por una mezcla definida de macro y micronutrientes. Con carácter general, se entiende que se trata de fórmulas nutricionalmente completas, incluyéndose únicamente módulos o complementos en el tratamiento de situaciones metabólicas con requerimientos especiales de energía o nutrientes, recogidas en el punto 6.2.c. de este anexo.
+
+2.2.3 El objetivo de la nutrición enteral domiciliaria es el mantenimiento de un correcto estado nutricional en aquellos enfermos que presenten trastornos de la deglución, tránsito, digestión o absorción de los alimentos en su forma natural, o cuando existan requerimientos especiales de energía y/o nutrientes que no pueden cubrirse con alimentos de consumo ordinario.
+
+2.3 Productos dietéticos financiables: son aquellos productos que hayan recibido resolución favorable de la autoridad competente como alimentos dietéticos destinados a usos médicos especiales, de acuerdo con lo establecido en el apartado 4 del artículo 10 del Real Decreto 2685/1976, de 16 de octubre, por el que se aprueba la Reglamentación Técnico-Sanitaria para la Elaboración, Circulación y Comercio de Preparados Alimenticios para Regímenes Dietéticos y/o Especiales e incluidos en la oferta (nomenclátor) de productos dietéticos. El procedimiento para la inclusión de productos en la oferta se establecerá por orden ministerial. En ningún caso se incluirán los productos que efectúen publicidad dirigida al público en general.
+
+> Se modifica el apartado 2.3 por la disposición final 4.2 del Real Decreto 682/2014, de 1 de agosto. [Ref. BOE-A-2014-8940](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8940).
+
+### 3. Responsable de la indicación
+
+3.1 Tratamientos dietoterápicos: La indicación de estos tratamientos se realiza por médicos especialistas de unidades hospitalarias, expresamente autorizadas para este fin por los servicios de salud de las comunidades autónomas.
+
+3.2 Nutrición enteral domiciliaria: La indicación de los tratamientos de nutrición enteral domiciliaria se realiza por los facultativos especialistas adscritos a la unidad de nutrición de los hospitales o por los que determinen los servicios de salud de las comunidades autónomas en sus respectivos ámbitos de gestión y competencias, de acuerdo con los protocolos que establezcan al efecto.
+
+### 4. Procedimiento de obtención
+
+El procedimiento para proporcionar los tratamientos dietoterápicos y la nutrición enteral domiciliaria, incluido el material fungible preciso para su administración, será establecido por las administraciones sanitarias con competencias en la gestión de esta prestación.
+
+### 5. Requisitos para el acceso a la prestación
+
+Para que los tratamientos con productos dietéticos sean financiados por el Sistema Nacional de Salud, se precisa el cumplimiento de todos y cada uno de los requisitos siguientes:
+
+a) Las necesidades nutricionales del paciente no puedan ser cubiertas con alimentos de consumo ordinario.
+
+b) La administración de estos productos permita lograr una mejora en la calidad de vida del paciente o una posible recuperación de un proceso que amenace su vida.
+
+c) La indicación se base en criterios sanitarios y no sociales.
+
+d) Los beneficios superen a los riesgos.
+
+e) El tratamiento se valore periódicamente.
+
+### 6. Situaciones clínicas del paciente que justifican la necesidad de la indicación
+
+Se considera que las siguientes situaciones clínicas justificarían la necesidad de la prestación con productos dietéticos, siempre que se cumplan los requisitos señalados en el apartado 5:
+
+6.1 Tratamientos dietoterápicos: Para pacientes con:
+
+a) Trastornos del metabolismo de los hidratos de carbono.
+
+b) Trastornos del metabolismo de los aminoácidos.
+
+c) Trastornos del metabolismo de los lípidos.
+
+En el apartado 7 se incluye la relación de trastornos metabólicos congénitos incluidos en alguno de los tres apartados anteriores.
+
+6.2 Nutrición enteral domiciliaria: Para pacientes:
+
+a) Con alteraciones mecánicas de la deglución o del tránsito, que cursan con afagia y disfagia severa y precisan sonda. Excepcionalmente, en casos de disfagia severa y si la sonda está contraindicada, puede utilizarse nutrición enteral sin sonda, previo informe justificativo del facultativo responsable de la indicación del tratamiento.
+
+b) Con trastornos neuromotores que impiden la deglución o el tránsito y precisan sonda.
+
+c) Con requerimientos especiales de energía y/o nutrientes.
+
+d) En situaciones clínicas cuando cursan con desnutrición severa.
+
+En el caso de pacientes con disfagia neurológica o excepcionalmente motora, que tienen posibilidad de ingerir alimentos sólidos sin riesgo de aspiración, pero que sufren aspiración o riesgo de aspiración para alimentos líquidos cuando éstos no pueden ser espesados con alternativas de consumo ordinario, se les pueden indicar módulos espesantes, con el fin de tratar de evitar o retrasar el empleo de sonda o gastrostomía.
+
+En el apartado 8 se incluye la relación de patologías susceptibles de recibir nutrición enteral domiciliaria, incluidas en alguna de las cuatro situaciones clínicas anteriores.
+
+### 7. Trastornos metabólicos congénitos susceptibles de tratamientos dietoterápicos
+
+A. Trastornos del metabolismo de los hidratos de carbono.
+
+A.1 Deficiencia primaria de la lactasa intestinal de debut neonatal: Deficiencia de la actividad de la lactasa del borde en cepillo del enterocito:
+
+Fórmulas sin lactosa para lactantes.
+
+A.2 Deficiencia transitoria de la lactasa intestinal secundaria a atrofia de vellosidades intestinales debida a celiaquía:
+
+Fórmulas sin lactosa para lactantes, mientras persista la deficiencia de la lactasa.
+
+A.3 Trastornos del metabolismo de la galactosa. Galactosemia:
+
+A.3.1 Deficiencia de la galactoquinasa hepática
+
+A.3.2 Deficiencia de la galactosa-1-fosfato-uridil-transferasa hepática
+
+A.3.3 Deficiencia de la epimerasa
+
+Fórmulas sin lactosa ni galactosa para lactantes.
+
+A.4 Trastornos del transporte celular de monosacáridos: Deficiencia del transportador de membrana de las piranosas (intolerancia a glucosa y galactosa):
+
+Fórmulas con/sin fructosa, sin glucosa, ni galactosa, ni disacáridos y polisacáridos que las contengan. Módulos de fructosa.
+
+A.5 Trastornos del metabolismo del glucógeno. Glucogenosis:
+
+A.5.1 Glucogenosis tipo I. Deficiencia de la glucosa-6-fosfatasa:
+
+Módulos de dextrinomaltosa de cadena muy larga. Módulos de almidón de maíz modificado rico en amilopectina en pacientes con hipoglucemia grave refractaria al tratamiento con almidón de maíz convencional o intolerancia digestiva demostrada al mismo.
+
+A.5.2 Glucogenosis tipo III. Deficiencia de la amilo-1-6-glucosidasa:
+
+Módulos de dextrinomaltosa de cadena muy larga cuando presentan hipoglucemias. Módulos de almidón de maíz modificado rico en amilopectina en pacientes con hipoglucemia grave refractaria al tratamiento con almidón de maíz convencional o intolerancia digestiva demostrada al mismo.
+
+A.5.3 Glucogenosis tipo VI. Deficiencia de la fosforilasa-A y la fosforilasa-B-quinasa:
+
+Módulos de dextrinomaltosa de cadena muy larga cuando presentan hipoglucemias.
+
+A.6 Trastornos de la glucosilación de proteínas tipo 1b: Deficiencia de la fosfo-manosa-isomerasa:
+
+Módulos de D-manosa.
+
+B. Trastornos del metabolismo de los aminoácidos.
+
+B.1 Trastornos del metabolismo de los aminoácidos esenciales:
+
+B.1.1 Hiperfenilalaninemias:
+
+B.1.1.1 Fenilcetonuria: Deficiencia de la fenilalanina-hidroxilasa:
+
+Fórmulas exentas de fenilalanina, especialmente en mujeres embarazadas. Si hay riesgo de déficit de ácidos grasos esenciales, módulos de ácidos grasos esenciales.
+
+B.1.1.2 Hiperfenilalaninemia benigna: Deficiencia parcial de la fenilalanina-hidroxilasa:
+
+Si la fenilalaninemia es superior a 6 mg %, fórmulas exentas de fenilalanina, especialmente en mujeres embarazadas. Si hay riesgo de déficit de ácidos grasos esenciales, módulos de ácidos grasos esenciales.
+
+B.1.1.3 Primapterinuria: Deficiencia de la carbinolamina-deshidratasa:
+
+Fórmulas exentas de fenilalanina para toda la vida, especialmente en mujeres embarazadas. Si hay riesgo de déficit de ácidos grasos esenciales, módulos de ácidos grasos esenciales.
+
+B.1.1.4 Deficiencia de la dihidro-biopterin-reductasa:
+
+Fórmulas exentas de fenilalanina, especialmente en mujeres embarazadas. Si hay riesgo de déficit de ácidos grasos esenciales, módulos de ácidos grasos esenciales.
+
+B.1.2 Trastornos del metabolismo de la metionina y aminoácidos sulfurados:
+
+B.1.2.1 Homocistinuria: Deficiencia de la cistationina-ß-sintetasa:
+
+Fórmulas exentas de metionina. Módulos de L-cistina. Si hay desnutrición o aumento de las necesidades de energía, módulos de dextrinomaltosa y módulos de triglicéridos de cadena larga o media.
+
+B.1.2.2 Alteraciones en la 5-tetrahidrofolato-transferasa o trastornos del metabolismo de la cobalamina. Todos con aciduria metilmalónica: Varias deficiencias enzimáticas:
+
+Dependiendo de la deficiencia, pueden precisar limitación de cuatro aminoácidos esenciales (metionina, treonina, valina e isoleucina). Si hay desnutrición o aumento de las necesidades de energía, módulos de dextrinomaltosa y módulos de triglicéridos de cadena larga o media. En los casos con niveles plasmáticos de isoleucina en rango limitante o clínica compatible, módulos de L-isoleucina.
+
+B.1.2.3 Cistationinuria: Varias alteraciones:
+
+Si la cistationinuria o cistationinemia es secundaria a deficiencia de ?-cistationinasa, pueden precisar fórmulas exentas de metionina. Si hay desnutrición o aumento de las necesidades de energía, módulos de dextrinomaltosa y módulos de triglicéridos de cadena larga o media.
+
+B.1.3 Trastornos en el metabolismo de los aminoácidos ramificados.
+
+B.1.3.1 Jarabe de Arce: Deficiencia de la ?-ceto-descarboxilasa:
+
+Fórmulas exentas de leucina, isoleucina y valina. Si hay desnutrición o aumento de las necesidades de energía, módulos de dextrinomaltosa y módulos de triglicéridos de cadena larga o media. En los casos con niveles plasmáticos de isoleucina y/o valina en rango limitante o clínica compatible, módulos de L-isoleucina y/o L-valina.
+
+B.1.3.2 Acidemias orgánicas del metabolismo de la leucina: Varios defectos enzimáticos:
+
+Acidemia isovalérica.
+
+Acidemia metilcrotónica.
+
+Acidemia 3-hidroxi-metil-glutárica.
+
+Fórmulas exentas de leucina. Módulos de glicina en la acidemia isovalérica. Si hay desnutrición o aumento de las necesidades de energía, módulos de dextrinomaltosa y módulos de triglicéridos de cadena larga o media.
+
+B.1.3.3 Acidemias orgánicas del metabolismo de la isoleucina y la valina:
+
+Acidemia propiónica: Deficiencia de la propionil-CoA-carboxilasa:
+
+Fórmulas exentas de isoleucina, valina, metionina y treonina. Si hay desnutrición o aumento de las necesidades de energía, módulos de L-alanina, módulos de dextrinomaltosa y módulos de triglicéridos de cadena larga o media. En los casos con niveles plasmáticos de isoleucina en rango limitante o clínica compatible, módulos de L-isoleucina.
+
+Acidemia metilmalónica: Deficiencia de la metilmalonil-CoA-mutasa:
+
+Fórmulas exentas de isoleucina, valina, metionina y treonina. Si hay desnutrición o aumento de las necesidades de energía, módulos de L-alanina, módulos de dextrinomaltosa y módulos de triglicéridos de cadena larga o media. En los casos con niveles plasmáticos de isoleucina en rango limitante o clínica compatible, módulos de L-isoleucina.
+
+Hipercetosis: Deficiencia de la ß-cetotiolasa:
+
+Fórmulas exentas de isoleucina. Si hay desnutrición o aumento de las necesidades de energía, módulos de dextrinomaltosa y módulos de triglicéridos de cadena larga o media. En los casos con niveles plasmáticos de isoleucina en rango limitante o clínica compatible, módulos de L-isoleucina.
+
+B.1.4 Trastornos del metabolismo de la lisina.
+
+B.1.4.1 Aciduria glutárica tipo I: Deficiencia de la glutaril-CoA-deshidrogenasa:
+
+Fórmulas exentas de lisina y de bajo contenido en triptófano. Si hay desnutrición o aumento de las necesidades de energía, módulos de dextrinomaltosa y módulos de triglicéridos de cadena larga o media. En los casos con niveles plasmáticos de triptófano en rango limitante o clínica compatible, módulos de L-triptófano.
+
+B.1.4.2 Hiperlisinemia: Deficiencia de la proteína bifuncional 2-aminoadípico-semialdehido-sintasa con aumento de lisina en sangre y en orina:
+
+Fórmulas exentas de lisina. Si hay desnutrición o aumento de las necesidades de energía, módulos de dextrinomaltosa y de triglicéridos de cadena larga y/o media. En caso de hiperamonemia, módulos de L-citrulina. Si no hay mejora neurológica y bioquímica en dos años, se suspenderá el tratamiento.
+
+B.1.4.3. Intolerancia hereditaria a la lisina:
+
+Trastorno del transportador de aminoácidos dibásicos (lisina, arginina, ornitina y cistina):
+
+Módulos de L-citrulina. Si hay desnutrición o aumento de las necesidades de energía, módulos de dextrinomaltosa y de triglicéridos de cadena larga y/o media.
+
+B.2 Trastornos del metabolismo de los aminoácidos no esenciales.
+
+B.2.1 Trastornos del metabolismo de la tirosina:
+
+B.2.1.1 Tirosinemia II: Deficiencia de la tirosin-amino-transferasa:
+
+Fórmulas exentas de tirosina y fenilalanina.
+
+B.2.1.2 Hawkinsinuria: Deficiencia de la dioxigenasa:
+
+Fórmulas exentas de tirosina y fenilalanina.
+
+B.2.1.3 Tirosinemia I: Deficiencia de la fumaril-aceto-acetasa:
+
+Fórmulas exentas de tirosina y fenilalanina, hasta trasplante hepático.
+
+B.2.2 Trastornos del metabolismo de la ornitina: Hiperornitinemias:
+
+B.2.2.1 Síndrome HHH: Deficiencia del transporte de la ornitina mitocondrial:
+
+Fórmulas con aminoácidos esenciales. Módulos de L-arginina o L-citrulina y L-ornitina.
+
+B.2.2.2 Atrofia girata: Deficiencia de la ornitin-transaminasa:
+
+Fórmulas con aminoácidos esenciales exentas de arginina. Módulos de L-prolina.
+
+Además, en todos estos trastornos del metabolismo de aminoácidos no esenciales, en los casos con aumento de las necesidades de energía, módulos de dextrinomaltosa y módulos de triglicéridos de cadena larga o media.
+
+B.2.3 Trastornos del metabolismo de la serina:
+
+Módulos de L-serina y de glicina.
+
+B.3 Trastornos del ciclo de la urea: Deficiencias de la:
+
+B.3.1 N-acetil-glutamato-sintetasa (módulos de L-arginina y L-citrulina).
+
+B.3.2 Carbamil-P-sintetasa (módulos de L-arginina y L-citrulina).
+
+B.3.3 Ornitin-transcarbamilasa (módulos de L-arginina y L-citrulina).
+
+B.3.4 Argininosuccinil-liasa (módulos de L-arginina).
+
+B.3.5 Argininosuccinil-sintetasa (módulos de L-arginina).
+
+B.3.6. Arginasa.
+
+En todos estos trastornos fórmulas con aminoácidos esenciales, hasta trasplante hepático. Si hay desnutrición o aumento de las necesidades de energía, módulos de dextrinomaltosa y de triglicéridos de cadena larga o media.
+
+C. Trastornos del metabolismo de los lípidos.
+
+C.1 Trastornos del metabolismo de los ácidos grasos de cadena larga y/o muy larga:
+
+C.1.1 Trastornos en la absorción intestinal de ácidos grasos de cadena larga y/o muy larga:
+
+C.1.1.1 Linfangiectasia intestinal.
+
+C.1.1.2 Enfermedad de Swaschsman.
+
+C.1.1.3 A-?-lipoproteinemia e hipo-?-lipoproteinemia.
+
+C.1.1.4 Citopatías mitocondriales con alteración de función pancreática.
+
+C.1.2 Defectos de la hidrólisis intravascular de triglicéridos de cadena larga y/o muy larga (Hiperlipoproteinemia I de Friedrickson):
+
+C.1.2.1 Deficiencia de la lipoprotein-lipasa endotelial (LPL).
+
+C.1.2.2 Deficiencia de APO C II.
+
+C.1.3 Deficiencias en la ?-oxidación mitocondrial de los ácidos grasos de cadena larga y/o muy larga:
+
+C.1.3.1 Defectos del transportador de la carnitina.
+
+C.1.3.2 Deficiencia de la carnitin-palmitoil-transferasa (CPT) I y II.
+
+C.1.3.3 Deficiencia de la carnitin-acil-carnitin-translocasa.
+
+C.1.3.4 Deficiencia de la acil-CoA-deshidrogenasa de ácidos grasos de cadena larga y/o muy larga.
+
+C.1.3.5 Deficiencia de la 3-hidroxi-acil-CoA-deshidrogenasa de ácidos grasos de cadena larga y/o muy larga, incluyendo la deficiencia de la enzima trifuncional.
+
+Todos ellos precisan: Fórmulas hipograsas con triglicéridos de cadena media (MCT) o fórmulas sin grasa. Módulos de triglicéridos de cadena media sin/con ácidos grasos esenciales. Si existe riesgo o documentación de un déficit de ácidos grasos esenciales, módulos de ácidos grasos esenciales. Si hay desnutrición o aumento de las necesidades de energía, módulos de proteínas y de dextrinomaltosa.
+
+C.2 Trastornos del metabolismo de los ácidos grasos de cadena media y/o corta:
+
+C.2.1 Deficiencia de la acil-CoA-deshidrogenasa de ácidos grasos de cadena media.
+
+C.2.2 Deficiencia de la acil-CoA-deshidrogenasa de ácidos grasos de cadena corta.
+
+C.2.3 Deficiencia de la 3-hidroxi-acil-deshidrogenasa de ácidos grasos de cadena corta.
+
+Todos ellos precisan: Fórmulas hipograsas sin MCT o fórmulas sin grasa. Módulos de triglicéridos de cadena larga, incluidos ácidos grasos esenciales. Si hay desnutrición o aumento de las necesidades de energía, módulos de proteínas y de dextrinomaltosa.
+
+C.3 Trastornos del metabolismo de los ácidos grasos de cadena muy larga, larga, media y corta:
+
+C.3.1 Deficiencia del complejo electrotransfer-flavoproteina (ETFQoDH).
+
+C.3.2 Deficiencia del complejo II de la cadena respiratoria mitocondrial.
+
+C.3.3 Aciduria glutárica tipo II, en la que se afecta la ?-oxidación mitocondrial de cualquier ácido graso de diferentes longitudes de cadena (muy larga, larga, media y corta).
+
+En las formas graves, fórmulas limitadas en proteínas y grasas sin MCT o fórmulas hipograsas sin MCT o fórmulas sin grasa. Módulos de triglicéridos de cadena larga, incluidos ácidos grasos esenciales. Si hay desnutrición o aumento de las necesidades de energía, módulos de dextrinomaltosa. Si hay aciduria isovalérica grave, módulos de glicina.
+
+C.4 Defectos de la síntesis del colesterol: Síndrome de Smith-Lemli-Opitz:
+
+Módulos de colesterol.
+
+> Se modifica el apartado A.5.1, a.5.2 y se añade el apartado B.1.4.3 por el art. 1.1 y 2 de la Orden SSI1329/2014, de 22 de julio. [Ref. BOE-A-2014-7879](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7879).
+
+> Se añade el apartado B.2.3 por el art. 2 de la Orden SPI/573/2011, de 11 de marzo. [Ref. BOE-A-2011-4884](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4884).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 251, de 20 de octubre de 2006. [Ref. BOE-A-2006-18278](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-18278)
+
+### 8. Patologías subsidiarias de nutrición enteral domiciliaria
+
+A Alteraciones mecánicas de la deglución o del tránsito, que cursan con afagia o disfagia severa y precisan sonda:
+
+A.1 Tumores de cabeza y cuello.
+
+A.2 Tumores de aparato digestivo (esófago, estómago).
+
+A.3 Cirugía otorrinolaringológica (ORL) y maxilofacial.
+
+A.4 Estenosis esofágica no tumoral.
+
+Excepcionalmente, en caso de disfagia severa y si la sonda está contraindicada, puede utilizarse nutrición enteral sin sonda, previo informe justificativo del facultativo responsable de la indicación del tratamiento.
+
+B Trastornos neuromotores que impidan la deglución o el tránsito y que precisan sonda.
+
+B.1 Enfermedades neurológicas que cursan con afagia o disfagia severa:
+
+B.1.1 Esclerosis múltiple.
+
+B.1.2 Esclerosis lateral amiotrófica.
+
+B.1.3 Síndromes miasteniformes.
+
+B.1.4 Síndrome de Guillain-Barré.
+
+B.1.5 Secuelas de enfermedades infecciosas o traumáticas del sistema nervioso central.
+
+B.1.6 Retraso mental severo.
+
+B.1.7 Procesos degenerativos severos del sistema nervioso central.
+
+B.2 Accidentes cerebrovasculares.
+
+B.3 Tumores cerebrales.
+
+B.4 Parálisis cerebral.
+
+B.5 Coma neurológico.
+
+B.6 Trastornos severos de la motilidad intestinal: pseudoobstrucción intestinal, gastroparesia diabética.
+
+C Requerimientos especiales de energía y/o nutrientes.
+
+C.1 Síndromes de malabsorción severa:
+
+C.1.1 Síndrome de intestino corto severo.
+
+C.1.2 Diarrea intratable de origen autoinmune.
+
+C.1.3 Linfoma.
+
+C.1.4 Esteatorrea posgastrectomía.
+
+C.1.5 Carcinoma de páncreas.
+
+C.1.6 Resección amplia pancreática.
+
+C.1.7 Insuficiencia vascular mesentérica.
+
+C.1.8 Amiloidosis.
+
+C.1.9 Esclerodermia.
+
+C.1.10 Enteritis eosinofílica.
+
+C.2 Enfermedades neurológicas subsidiarias de ser tratadas con dietas cetogénicas:
+
+C.2.1. Epilepsia refractaria en niños. De modo excepcional, en adultos con epilepsia refractaria que precisen alimentación por sonda (gastrointestinal u ostomía) y que a criterio del especialista puedan beneficiarse de una dieta cetogénica, por un periodo máximo de dos años.
+
+C.2.2 Deficiencia del transportador tipo I de la glucosa.
+
+C.2.3 Deficiencia del complejo de la piruvato-deshidrogenasa.
+
+C.3 Alergia o intolerancia diagnosticada a las proteínas de leche de vaca en lactantes, hasta dos años si existe compromiso nutricional.
+
+C.4 Pacientes desnutridos que van a ser sometidos a cirugía mayor programada o trasplantes.
+
+C.5 Pacientes con encefalopatía hepática crónica con intolerancia a las proteínas de la dieta.
+
+C.6 Pacientes con adrenoleucodistrofia ligada al cromosoma X, neurológicamente asintomáticos.
+
+D Situaciones clínicas cuando cursan con desnutrición severa.
+
+D.1 Enfermedad inflamatoria intestinal: colitis ulcerosa y enfermedad de Crohn.
+
+D.2 Caquexia cancerosa por enteritis crónica por tratamiento quimio y/o radioterápico.
+
+D.3 Patología médica infecciosa que comporta malabsorción severa: SIDA.
+
+D.4 Fibrosis quística.
+
+D.5 Fístulas enterocutáneas de bajo débito.
+
+D.6 Insuficiencia renal infantil que compromete el crecimiento del paciente.
+
+D.7 Enfermedad renal crónica avanzada en hemodiálisis.
+
+> Se modifica el apartado D por el art. 1.11 de la Orden SND/606/2024, de 13 de junio. [Ref. BOE-A-2024-12290](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12290)
+
+> Se modifica el apartado C.2.1 por el art. 1.3 de la Orden SSI/1329/2014, de 22 de julio. [Ref. BOE-A-2014-7879](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7879).
+
+## ANEXO VIII
+
+## Cartera de servicios comunes de prestación de transporte sanitario
+
+El transporte sanitario, que deberá ser accesible a las personas con discapacidad, consiste en el desplazamiento de enfermos por causas exclusivamente clínicas, cuya situación les impida desplazarse en los medios ordinarios de transporte.
+
+Esta prestación se facilitará de acuerdo con las normas que reglamentariamente se establezcan por las administraciones sanitarias competentes.
+
+### 1. Acceso a la prestación de transporte sanitario
+
+Tienen derecho a la financiación de esta prestación las personas enfermas o accidentadas cuando reciban asistencia sanitaria del Sistema Nacional de Salud, en centros propios o concertados, y que, por imposibilidad física u otras causas exclusivamente clínicas, no puedan utilizar transporte ordinario para desplazarse a un centro sanitario o a su domicilio tras recibir la atención sanitaria correspondiente, en caso de que persistan las causas que justifiquen su necesidad. Pueden ir acompañados cuando la edad o situación clínica del paciente lo requiere.
+
+Cuando existe un tercero obligado al pago, la correspondiente administración sanitaria ha de proceder a reclamar el importe de los servicios realizados.
+
+### 2. Contenido
+
+La cartera de servicios comunes de transporte sanitario incluye el transporte sanitario no asistido, que es el indicado para el traslado especial de enfermos o accidentados que no requieren asistencia técnico-sanitaria en ruta, y el transporte sanitario asistido, para el traslado de enfermos o accidentados que requieren asistencia técnico-sanitaria en ruta.
+
+### 3. Requisitos generales
+
+3.1 El transporte sanitario, que puede ser terrestre, aéreo o marítimo, se llevará a cabo por el medio más idóneo en razón de la necesidad y oportunidad, en el menor tiempo posible y por la ruta más apropiada para realizar el adecuado traslado.
+
+3.2 Los vehículos de transporte sanitario por carretera deben cumplir los requisitos señalados en el Real Decreto 619/1998, de 17 de abril, por el que se establecen sus características técnicas, el equipamiento sanitario y la dotación de personal, así como los de la normativa de la correspondiente comunidad autónoma en la que tengan su base de actuación.
+
+3.3 El transporte sanitario no asistido o asistido será solicitado, de acuerdo con la normativa de cada comunidad autónoma, por el facultativo responsable de la asistencia que motive el desplazamiento del paciente, atendiendo a causas estrictamente clínicas y siempre que no suponga un riesgo añadido para la salud del paciente. Asimismo el facultativo debe justificar, en su caso, el requerimiento de acompañante que se recoge en el punto 1 y cuando se trate de tratamientos de larga duración, ha de evaluar periódicamente la necesidad del transporte sanitario.
+
+### 4. Traslado de pacientes entre comunidades autónomas
+
+4.1 Cuando una comunidad autónoma decida trasladar a un paciente a otra comunidad con el fin de prestarle asistencia sanitaria que no es posible facilitar con sus propios medios, proporcionará el transporte sanitario al paciente que lo precise, tanto para su desplazamiento al centro sanitario, como para el regreso a su domicilio si persisten las causas que justifican la necesidad de esta prestación. En caso de utilizarse transporte aéreo o marítimo, la comunidad receptora se hará cargo del traslado del paciente desde el aeropuerto, helipuerto o puerto hasta el centro sanitario, así como del regreso desde éste hasta el aeropuerto, helipuerto o puerto si persisten las causas que motivan la necesidad de transporte sanitario.
+
+4.2 En el caso de pacientes sometidos a tratamientos periódicos, como diálisis o rehabilitación, que se desplazan a otra comunidad autónoma durante un periodo de tiempo, es esta comunidad la que, aplicando los criterios que utiliza para autorizar el uso de transporte sanitario en su ámbito, se hace cargo de facilitar esta prestación para recibir dichos tratamientos a los usuarios que lo requieran por causas estrictamente médicas.
+
+4.3 Cuando un paciente desplazado transitoriamente a otra comunidad autónoma ha recibido asistencia sanitaria urgente, la comunidad de origen del paciente es la que se hace cargo del transporte sanitario que precise por causas estrictamente médicas para su traslado a la comunidad de origen, bien a su domicilio o a otro centro sanitario.
+
+## ANEXO IX
+
+## Asistencia sanitaria cuyo importe ha de reclamarse a los terceros obligados al pago
+
+Conforme a lo previsto en el artículo 83 de la Ley General de Sanidad, en la disposición adicional 22 del texto refundido de la Ley General de Seguridad Social, aprobado por el Real Decreto legislativo 1/1994, de 20 de junio, en el artículo 2.7 del presente real decreto y demás disposiciones que resulten de aplicación, los servicios públicos de salud reclamarán a los terceros obligados al pago el importe de las atenciones o prestaciones sanitarias facilitadas directamente a las personas, incluido el transporte sanitario, la atención de urgencia, la atención especializada, la atención primaria, la prestación farmacéutica, la prestación ortoprotésica, las prestaciones con productos dietéticos y la rehabilitación, en los siguientes supuestos:
+
+1\. Asegurados o beneficiarios del sistema de Seguridad Social pertenecientes a la Mutualidad General de Funcionarios Civiles del Estado, Mutualidad General Judicial o al Instituto Social de las Fuerzas Armadas, que no hayan sido adscritos, a través del procedimiento establecido, a recibir asistencia sanitaria del Sistema Nacional de Salud.
+
+2\. Asegurados o beneficiarios de empresas colaboradoras en la asistencia sanitaria del sistema de Seguridad Social, en aquellas prestaciones cuya atención corresponda a la empresa colaboradora conforme al convenio o concierto suscrito.
+
+3\. Accidentes de trabajo o enfermedades profesionales a cargo de las Mutuas de Accidentes de Trabajo, del Instituto Nacional de la Seguridad Social o del Instituto Social de la Marina.
+
+4\. Seguros obligatorios:
+
+a) Seguro obligatorio de los deportistas federados y profesionales.
+
+b) Seguro obligatorio de vehículos de motor.
+
+c) Seguro obligatorio de viajeros.
+
+d) Seguro obligatorio de caza.
+
+e) Cualquier otro seguro obligatorio.
+
+5\. Convenios o conciertos con otros organismos o entidades.
+
+Se reclamará el importe de la asistencia prestada, de acuerdo con los términos del convenio o concierto correspondiente.
+
+6\. Ciudadanos extranjeros:
+
+a) Asegurados o beneficiarios en un Estado miembro de la Unión Europea, del Espacio Económico Europeo y Suiza, no residentes en España, en los supuestos y condiciones establecidos en los Reglamentos Comunitarios en materia de Seguridad Social.
+
+b) Asegurados o beneficiarios de otros países extranjeros, no residentes en España, en los supuestos y condiciones establecidos en los convenios bilaterales en materia de Seguridad Social suscritos por España.
+
+7\. Otros obligados al pago.
+
+a) Accidentes acaecidos con ocasión de eventos festivos, actividades recreativas y espectáculos públicos en caso de que se haya suscrito contrato de seguro de accidentes o de responsabilidad civil que cubra las contingencias derivadas de estas actividades.
+
+b) Seguro escolar.
+
+c) Cualquier otro supuesto en que, en virtud de normas legales o reglamentarias, el importe de las atenciones o prestaciones sanitarias deba ser a cargo de las entidades o terceros correspondientes.

@@ -1,0 +1,955 @@
+---
+title: "Real Decreto 1072/2014, de 19 de diciembre, por el que se crea la Agencia Estatal de Seguridad Ferroviaria y se aprueba su Estatuto"
+identifier: "BOE-A-2014-13360"
+eli: "https://www.boe.es/eli/es/rd/2014/12/19/1072"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda y Administraciones Públicas"
+date: 2014-12-19
+published: 2014-12-23
+in_force_from: 2014-12-24
+last_amended: 2026-06-12
+consolidated: 2026-06-15
+gazette: "Boletín Oficial del Estado núm. 309"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13360"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1072/2014, de 19 de diciembre, por el que se crea la Agencia Estatal de Seguridad Ferroviaria y se aprueba su Estatuto
+
+El transporte ferroviario es un sector estratégico para España, por su impacto económico y su contribución a la conectividad, a la cohesión y a la vertebración territorial.
+
+Durante la presente legislatura, se ha puesto en marcha una importante revisión del modelo organizativo del sector ferroviario, que va a culminar con la liberalización del mercado interior de viajeros y que ha supuesto la reorganización de las empresas ADIF y RENFE Operadora. Dentro de este proceso, también se hace precisa una readaptación de los órganos de la Administración con competencias ferroviarias, que le permita posicionarse adecuadamente dentro de la nueva configuración del sector, respondiendo a los criterios establecidos en la normativa comunitaria.
+
+La Directiva 2004/49/CE, de 29 de abril de 2004, sobre la seguridad de los ferrocarriles comunitarios, dispone que dentro del nuevo marco normativo común en esta materia, es necesario establecer en todos los Estados miembros, autoridades nacionales responsables de la seguridad, encargadas de regular y supervisar la seguridad ferroviaria. Para facilitar su cooperación a nivel comunitario deben asignárseles las mismas tareas y responsabilidades mínimas. Las autoridades nacionales responsables de la seguridad deben disponer de un alto grado de autonomía y ejecutar sus tareas de manera abierta y no discriminatoria para que puedan contribuir a la creación de un sistema ferroviario único europeo y cooperar para coordinar sus criterios decisorios.
+
+Por tanto, el cumplimiento del objetivo esencial de la mejora continua de la seguridad en el transporte ferroviario se favorecerá con la creación de una Agencia Estatal que disponga de autonomía y flexibilidad en su gestión y que, al mismo tiempo, esté sujeta al control de eficacia y a la responsabilidad por el cumplimiento de sus fines.
+
+La Ley 28/2006, de 18 de julio, de Agencias Estatales para la mejora de los servicios públicos, en su redacción original, preveía, en su disposición adicional tercera, la creación de la Agencia Estatal de Seguridad de Transporte Terrestre, para la detección, análisis y evaluación de los riesgos de seguridad en los transportes terrestres de competencia estatal, así como para el ejercicio de las funciones de inspección y supervisión de la seguridad del sistema ferroviario, tanto en relación a las infraestructuras como a la operación ferroviaria, en los ámbitos de competencia estatal.
+
+La Ley 22/2013, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2014, estableció en su disposición adicional octogésima sexta.–Creación de Agencias Estatales, que dentro de la regla general de prohibición de nuevas Agencias Estatales, se exceptúa la creación de la Agencia Estatal de Seguridad Ferroviaria, como muestra de la gran importancia concedida a la mejora permanente en los niveles de la seguridad.
+
+Posteriormente, a través del Real Decreto-ley 1/2014, de 24 de enero, de reforma en materia de infraestructuras y transporte, y otras medidas económicas, se ha modificado el párrafo quinto del apartado 1 de la disposición adicional tercera de la Ley 28/2006, con el fin de cambiar el nombre y las competencias de la Agencia Estatal de Seguridad del Transporte Terrestre, que pasa a denominarse Agencia Estatal de Seguridad Ferroviaria, para dar cumplimiento a los requerimientos de la Comisión Europea, sobre independencia del organismo de seguridad ferroviaria, a la mayor celeridad y responder mejor a las necesidades del sector.
+
+El presente real decreto, en desarrollo de lo previsto en dicha ley, culmina el proceso de constitución de la autoridad responsable de la seguridad ferroviaria en España como un organismo independiente, al dotarla de personalidad jurídica propia. Al mismo tiempo, se aprovecha de la experiencia de la Dirección General de Ferrocarriles en materia ferroviaria y de seguridad al suponer una transformación de la actual Dirección General, que tenía asignadas dichas competencias hasta ahora.
+
+Este real decreto consta de un único artículo, aprobatorio del estatuto, seis disposiciones adicionales, cuatro disposiciones transitorias y tres disposiciones finales.
+
+La disposición adicional primera determina la fecha de constitución efectiva de la Agencia.
+
+A continuación, mediante la disposición adicional segunda se lleva a cabo la supresión de órganos de la antigua Dirección General de Ferrocarriles.
+
+La disposición adicional tercera determina la integración de personal de la Dirección General de Ferrocarriles en la Secretaría General de Infraestructuras del Ministerio de Fomento o en la Agencia, según ejerzan competencias de planificación y regulación del sector ferroviario o no, previendo que mediante Resolución de la Subsecretaría de Fomento se concrete el personal sujeto a dicha integración.
+
+La disposición adicional cuarta determina el modo de integración de personal de la Dirección General de Ferrocarriles en la entidad pública empresarial administrador de infraestructuras ferroviarias o en la entidad ADIF Alta Velocidad.
+
+La disposición adicional quinta se refiere al impacto presupuestario de la creación de la Agencia.
+
+La disposición adicional sexta se refiere al Patrimonio de la Agencia y al inventario de bienes de la futura Agencia.
+
+En el régimen transitorio, se incluyen en primer lugar, las disposiciones relativas a la prestación de servicios necesarios para garantizar el ejercicio temporal de las funciones de los órganos de la Dirección General de Ferrocarriles hasta la fecha de la puesta en funcionamiento de la Agencia. Asimismo, se dispone que el Ministerio de Fomento sigan prestando a la Agencia los servicios comunes, hasta que ésta disponga de los servicios propios necesarios para alcanzar su autonomía.
+
+El régimen jurídico transitorio en materia de presupuestos, contratación y otros procedimientos administrativos iniciados con anterioridad a la creación de la Agencia se recoge en la disposición transitoria segunda, en la tercera se hace referencia al primer ejercicio económico de la Agencia y en la cuarta se hace referencia al contrato inicial de gestión.
+
+La disposición final primera recoge las modificaciones organizativas que afectarán al Real Decreto 452/2012, de 5 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Fomento y se modifica el Real Decreto 1887/2011, de 30 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales.
+
+La disposición final segunda autoriza al Ministro de Fomento para que dicte cuantas disposiciones sean necesarias para el desarrollo y ejecución del real decreto.
+
+Finalmente, la disposición final tercera hace referencia a la entrada en vigor del real decreto.
+
+El Estatuto se estructura en siete capítulos que recogen de forma ordenada los distintos aspectos que, de acuerdo con la Ley 28/2006, de 18 de julio, debe contener el régimen estatutario de una Agencia Estatal.
+
+El capítulo I «Disposiciones generales», está dedicado a la naturaleza, régimen jurídico y potestades administrativas de la Agencia.
+
+De acuerdo con la autorización contenida en la disposición adicional tercera de la Ley 28/2006, de 18 de julio, el capítulo II determina el objeto de la Agencia y sus competencias.
+
+El capítulo III «Gestión transparente por objetivos», desarrolla los principios de diversos elementos de la gestión: el contrato de gestión plurianual, el plan de acción, el informe de actividad anual y las cuentas anuales.
+
+El capítulo IV «Organización», determina los órganos de gobierno, de control, ejecutivos y operativos de la Agencia, estableciendo las competencias y funcionamiento de los mismos.
+
+La sección 1.ª regula la figura del Presidente y del Consejo Rector, como órganos de gobierno de la Agencia. El modelo de gobierno de la Agencia se caracteriza por un Presidente no ejecutivo, que a su vez es el Secretario General de Infraestructuras, como elemento esencial de coordinación entre ambos órganos de la Administración.
+
+En cuanto a la composición del Consejo Rector, se ha optado por un Consejo compuesto por el Presidente, ocho Consejeros designados por diferentes Ministerios y un Secretario con voz pero sin voto.
+
+Se ha previsto la existencia de una Comisión de Control, de conformidad con lo establecido en la Ley 28/2006, de 18 de julio.
+
+El Director de la Agencia es el órgano ejecutivo de la Agencia, y el responsable de la dirección y gestión ordinaria de la misma. Su nombramiento corresponde al Consejo Rector, a propuesta del Presidente, entre titulados superiores, atendiendo a criterios de competencia profesional y experiencia.
+
+La sección 3.ª detalla la estructura de los órganos ejecutivos y operativos, que en la fase inicial de puesta en funcionamiento de la Agencia, y de acuerdo al contexto presupuestario y de cara a facilitar la transición de las competencias con la actual Dirección General de Ferrocarriles, mantienen en gran medida la organización actual.
+
+En los capítulos V, VI y VII, «Régimen de personal», «Régimen patrimonial, financiero y contratación», y «Gestión económica y control», se desarrollan las reglas establecidas por la Ley 28/2006, de 18 de julio.
+
+En su virtud, a iniciativa de la Ministra de Fomento, a propuesta del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 19 de diciembre de 2014,
+
+DISPONGO:
+
+#### Artículo único. Creación de la Agencia Estatal de Seguridad Ferroviaria y aprobación de su estatuto.
+
+1\. En virtud de la autorización prevista en la disposición adicional tercera de la Ley 28/2006, de 18 de julio, de Agencias estatales para la mejora de los servicios públicos y en la disposición adicional octogésima sexta de la Ley 22/2013, de 23 de diciembre, de Presupuestos Generales para 2014, se crea la Agencia Estatal de Seguridad Ferroviaria, a cuyo fin se aprueba el Estatuto de dicha Agencia, cuyo texto se inserta a continuación de este real decreto.
+
+2\. La Agencia Estatal de Seguridad Ferroviaria sucede al Ministerio de Fomento y, en particular, a la Dirección General de Ferrocarriles en los fines, competencias y funciones atribuidas a la Agencia en el Estatuto que se aprueba por este real decreto.
+
+Todas las menciones que cualquier disposición contenga sobre el Ministerio de Fomento y la Dirección General de Ferrocarriles, referidas a las competencias que el Estatuto que se aprueba por este real decreto atribuye a la Agencia, se entenderán realizadas a la misma.
+
+Se exceptúan de lo anterior las competencias atribuidas directamente al titular del Ministerio de Fomento.
+
+3\. Lo dispuesto en este real decreto se efectuará sin aumento de gasto público y no supondrá incremento de dotaciones para retribuciones u otros gastos de personal.
+
+#### Disposición adicional primera. Constitución efectiva.
+
+1\. La efectiva puesta en funcionamiento de la Agencia se producirá el día 1 de abril de 2015, con la constitución del Consejo Rector. En la misma sesión constitutiva se nombrará al Director de la Agencia, a los titulares de sus órganos y a su personal directivo.
+
+2\. La Agencia se subrogará en todos los derechos y obligaciones derivados de competencias de la Dirección General de Ferrocarriles y del Ministerio de Fomento que, en virtud del presente real decreto, se atribuyan a aquélla, y en concreto, en los contratos, convenios, encomiendas y encargos perfeccionados en el ámbito de competencias asignadas a la Agencia.
+
+#### Disposición adicional segunda. Supresión de órganos.
+
+Quedan suprimidos los siguientes órganos operativos:
+
+a) Subdirección General de Infraestructuras.
+
+b) Subdirección General de Coordinación de la Seguridad Ferroviaria.
+
+c) División de Administración.
+
+> Se modifica por el art. 16.1 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Disposición adicional tercera. Integración del personal en la Agencia Estatal de Seguridad Ferroviaria y en la Secretaría General de Infraestructuras.
+
+1\. De conformidad con lo establecido en la disposición adicional octogésima sexta de la Ley 22/2013, de 23 de diciembre, la Agencia Estatal de Seguridad Ferroviaria se dotará, exclusivamente, mediante la incorporación de efectivos del Ministerio de Fomento, sus organismos y entidades públicas relacionados con las funciones de la misma.
+
+2\. El personal funcionario que hasta la puesta en funcionamiento de la Agencia ocupaba los puestos comprendidos en la relación de puestos de trabajo de la Dirección General de Ferrocarriles pasará a integrarse en dicho momento en la Agencia Estatal de Seguridad Ferroviaria con la misma situación, antigüedad y grado que tuviera, quedando en la situación de servicio activo en su Cuerpo o Escala de procedencia.
+
+3\. El personal laboral se integrará en las mismas condiciones previstas en el apartado anterior, subrogándose la Agencia en los contratos de trabajo sujetos a derecho laboral, en sus propios términos y sin alteración alguna de sus condiciones.
+
+4\. Quedará exceptuado de la integración prevista en los párrafos anteriores el personal, funcionario o laboral, que se integre en la Secretaría General de Infraestructuras para el ejercicio de las competencias a las que se refiere la disposición final primera, apartado cuatro y el personal funcionario a que se refiere la disposición adicional cuarta, ambas de este real decreto.
+
+5\. Mediante resolución de la Subsecretaría de Fomento se determinará el personal funcionario y laboral que se integra en la Agencia y en la Secretaría General de Infraestructuras, respectivamente, de acuerdo con lo previsto en los apartados anteriores de esta disposición.
+
+6\. La incorporación a la Agencia de personal laboral fijo del resto de organismos y entidades públicas del Ministerio de Fomento que tenga relación con las funciones que asume la Agencia se realizará, en su caso, mediante Orden del Ministerio de Fomento, previa autorización del Ministerio de Hacienda y Administraciones Públicas, respetando globalmente sus condiciones retributivas dentro del marco jurídico de aplicación.
+
+#### Disposición adicional cuarta. Integración del personal de la Dirección General de Ferrocarriles en ADIF y ADIF Alta Velocidad.
+
+Los funcionarios en activo con destino en la Dirección General de Ferrocarriles que estén desarrollando funciones vinculadas a contratos que van a ser gestionadas por el Administrador de Infraestructuras Ferroviarias y el Administrador de Infraestructuras Ferroviarias-Alta Velocidad, podrán incorporarse como personal laboral a alguno de estos entes públicos, a propuesta del Ministerio de Fomento, previa iniciativa de las entidades públicas citadas y previa autorización del Ministerio de Hacienda y Administraciones Públicas, quedando en su cuerpo o escala de origen en la situación de excedencia voluntaria por prestación de servicios en el sector público, en régimen distinto al de funcionario de carrera.
+
+#### Disposición adicional quinta. Impacto presupuestario.
+
+Las medidas incluidas en este real decreto y el Estatuto que en su virtud se aprueba, se efectuarán sin incremento de las asignaciones presupuestarias de cada ejercicio y no supondrán incremento de dotaciones ni de retribuciones ni de otros gastos de personal.
+
+#### Disposición adicional sexta. Patrimonio de la Agencia e Inventario de bienes.
+
+Pertenecen al patrimonio de la Agencia Estatal de Seguridad Ferroviaria para el cumplimiento de sus funciones los bienes muebles e inmuebles que estén adscritos a la Dirección General de Ferrocarriles a la entrada en vigor de este real decreto y que correspondan a las funciones que se integran en la Agencia.
+
+La Agencia realizará el primer inventario de los bienes que se le adscriben y de los que pudiera adquirir para el inicio de su actividad antes que transcurra un año desde su puesta en funcionamiento.
+
+#### Disposición adicional séptima. Delegaciones de competencias de la Agencia Estatal de Seguridad Ferroviaria.
+
+Las delegaciones de competencias efectuadas a favor de los órganos operativos de la Agencia seguirán siendo validas hasta que sean expresamente revocadas y podrán seguir haciendo uso de ellas los órganos competentes por razón de la materia que los sustituyan. Asimismo, las delegaciones efectuadas a favor de la División de Administración se entenderán vigentes en favor de la Subdirección General de Administración.
+
+> Se añade por el art. 16.2 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Disposición transitoria primera. Prestación de servicios.
+
+1\. Los órganos de la Dirección General de Ferrocarriles continuarán transitoriamente en el ejercicio de sus funciones hasta la fecha de la puesta en funcionamiento de la Agencia. Igualmente, los órganos de la Agencia ejercerán las funciones atribuidas por el Estatuto que se aprueba mediante este real decreto a partir del día de la puesta en funcionamiento de ésta.
+
+2\. Sin perjuicio de la creación y puesta en funcionamiento de la Agencia, el Ministerio de Fomento continuará prestando los servicios comunes necesarios para la Agencia Estatal de Seguridad Ferroviaria hasta que ésta disponga de los servicios propios para alcanzar su autonomía.
+
+#### Disposición transitoria segunda. Expedientes, obligaciones, contratos y gastos.
+
+1\. Los expedientes iniciados por la Dirección General de Ferrocarriles con anterioridad a la puesta en funcionamiento de la Agencia y no resueltos en dicha fecha, relativos a ámbitos de competencias asignadas a la Agencia por el Estatuto que aprueba este real decreto, se resolverán por el órgano competente de la Agencia de acuerdo con la atribución del ejercicio de competencias establecida por el Estatuto.
+
+2\. Los procedimientos de gasto iniciados por la Dirección General de Ferrocarriles y no finalizados, en las materias de competencia de la Agencia, adaptarán su tramitación a la normativa reguladora de la Agencia y se finalizarán de acuerdo con el orden de competencias establecido por el Estatuto.
+
+3\. Los expedientes iniciados por la Dirección General de Ferrocarriles con anterioridad a la puesta en funcionamiento de la Agencia y no resueltos en dicha fecha, relativos a ámbitos de competencias asignadas a la Secretaría General de Infraestructuras por el real decreto de modificación de la estructura del Departamento a que se refiere la disposición final primera de este real decreto, se resolverán por la Secretaría de Estado de Infraestructuras, Transporte y Vivienda.
+
+#### Disposición transitoria tercera. Primer ejercicio económico.
+
+Durante todo el ejercicio 2015 no se alterará la estructura presupuestaria vigente, desarrollando la Agencia Estatal de Seguridad Ferroviaria su actuación de acuerdo con el régimen presupuestario y de rendición de cuentas aplicable a la Dirección General de Ferrocarriles, en los términos previstos en la Ley 22/2013, de 23 de diciembre, y la Ley 47/2003, de 26 de noviembre, General Presupuestaria. Todos los gastos necesarios para el funcionamiento de la Agencia Estatal de Seguridad Ferroviaria se imputarán en la forma y con cargo a los créditos previstos para la Dirección General de Ferrocarriles.
+
+#### Disposición transitoria cuarta. Contrato inicial de gestión.
+
+Hasta tanto se apruebe el Contrato inicial de gestión, la actuación de la Agencia, incluida la ordenación de puestos de trabajo y la aprobación de su presupuesto, se desarrollará en el marco de la Memoria aprobada y del Plan Inicial, a la que se refiere el artículo 3 de la Ley 28/2006, de 18 de julio.
+
+La vinculación al contrato de gestión y al sistema de evaluación del desempeño de las previsiones establecidas en los apartados 3 y 4 del artículo 33 sobre el complemento de productividad, no será efectiva hasta la aprobación de dichos instrumentos.
+
+#### Disposición final primera. Modificación del Real Decreto 452/2012, de 5 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Fomento y se modifica el Real Decreto 1887/2011, de 30 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales.
+
+Uno.Se añaden las letras h), i), j), k), l), m), y n) al apartado 1 artículo 3 del Real Decreto 452/2012, de 5 de marzo:
+
+h) La elaboración, seguimiento, supervisión y control de la planificación de infraestructuras ferroviarias en la Red Ferroviaria de Interés General y de los correspondientes planes ferroviarios.
+
+i) La elaboración, seguimiento y control de estudios informativos, anteproyectos y excepcionalmente, proyectos ferroviarios, la elaboración de proyectos de delimitación y utilización de espacios ferroviarios, así como la elaboración de los anteproyectos de presupuesto.
+
+j) Las actuaciones expropiatorias en materia de infraestructuras ferroviarias.
+
+k) La tramitación de los proyectos de disposiciones de carácter general relativos a las infraestructuras ferroviarias.
+
+l) La representación del Ministerio de Fomento en los organismos internacionales y de la Unión Europea relacionados con las infraestructuras ferroviarias y la participación en los órganos de coordinación y gestión de los corredores ferroviarios europeos.
+
+m) La preparación y seguimiento de protocolos, acuerdos y convenios sobre actuaciones concertadas con otras administraciones públicas en materia de infraestructuras ferroviarias, así como la coordinación y cooperación con otros órganos administrativos, entidades públicas y administraciones en materia ferroviaria.
+
+n) El control y seguimiento de la ejecución presupuestaria y de los contratos-programa con las entidades públicas ferroviarias adscritas al Departamento, sin perjuicio de las competencias que en esta materia corresponden a la Dirección General de Transporte Terrestre respecto a las entidades públicas prestadoras de servicios de transporte ferroviario.
+
+Dos. El apartado 2 del artículo 3 del Real Decreto 452/2012, de 5 de marzo, queda redactado del siguiente modo:
+
+«2. De la Secretaría General depende el órgano directivo siguiente:
+
+a) La Dirección General de Carreteras.»
+
+Tres. El apartado 5 del artículo 3 del Real Decreto 452/2012, de 5 de marzo, queda redactado del siguiente modo:
+
+«5. Depende directamente de la Secretaría General de Infraestructuras, con el nivel orgánico que se determine en la relación de puestos de trabajo, la División de Estudios y Coordinación de Inversiones en Infraestructuras, a la que corresponde el ejercicio de las funciones a que se refiere el apartado 1.f), g), j) y n).»
+
+Cuatro. El apartado 6 del artículo 3 del Real Decreto 452/2012, de 5 de marzo, queda redactado del siguiente modo:
+
+«6. Depende directamente de la Secretaría General de Infraestructuras, con nivel orgánico de subdirección general, la Subdirección General de Planificación Ferroviaria, a la que corresponde el ejercicio de las funciones a que se refiere el apartado 1. h), i), k), l), y m).»
+
+Cinco. El actual apartado 6 del artículo 3 del Real Decreto 452/2012, de 5 de marzo, pasa a numerarse 7 manteniendo su redacción.
+
+Seis. Se añade un apartado 8 al artículo 3 del Real Decreto 452/2012, de 5 de marzo:
+
+«8. La Agencia Estatal de Seguridad Ferroviaria está adscrita al Ministerio de Fomento, a través de la Secretaría General de Infraestructuras.»
+
+Siete. Se suprime el artículo 5 del Real Decreto 452/2012, produciéndose como consecuencia una modificación en la numeración de los artículos 6 a 15 que pasarán a numerarse del 5 al 14.
+
+Ocho. Se da nueva redacción a la letra d) del apartado 1 del artículo 9 del Real Decreto 452/2012, de 5 de marzo (artículo 8 tras la numeración prevista en el anterior apartado siete):
+
+«d) El otorgamiento de autorizaciones y títulos habilitantes para la prestación de los servicios de transporte por ferrocarril o carretera que resulten exigibles conforme a la legislación interna o de la Unión Europea, o los convenios internacionales suscritos por España.»
+
+#### Disposición final segunda. Desarrollo normativo y aplicación.
+
+Se autoriza al Ministro de Fomento para que dicte cuantas disposiciones sean necesarias para el desarrollo y ejecución de este real decreto.
+
+#### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», salvo la disposición final primera, que entrará en vigor el día 1 de abril de 2015.
+
+Dado en Madrid, el 19 de diciembre de 2014.
+
+FELIPE R.
+
+El Ministro de Hacienda y Administraciones Públicas,
+
+CRISTÓBAL MONTORO ROMERO
+
+## ESTATUTO DE LA AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Naturaleza jurídica de la Agencia Estatal de Seguridad Ferroviaria.
+
+1\. La Agencia Estatal de Seguridad Ferroviaria (en adelante, la Agencia o AESF) es un organismo público de los regulados en el artículo 108 bis de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+2\. La Agencia tiene personalidad jurídica pública, patrimonio y tesorería propios y autonomía en su gestión, dentro de los límites establecidos por la Ley 40/2015, de 1 de octubre, y por el Estatuto.
+
+Dentro de las competencias que este Estatuto y, en su caso, otras normas le atribuyan, corresponde a la Agencia el ejercicio de las potestades administrativas precisas para el cumplimiento de sus fines y funciones, salvo la potestad expropiatoria.
+
+> Se modifica por el art. 16.3 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 2. Régimen jurídico.
+
+1\. La Agencia se rige por la Ley 40/2015, de 1 de octubre, por el Estatuto y por el resto de las normas de derecho administrativo general y especial que le sea de aplicación.
+
+2\. En el ejercicio de sus potestades públicas serán de aplicación la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones públicas y la Ley 40/2015, de 1 de octubre, y las demás normas que resulten de aplicación.
+
+3\. En el ejercicio de sus competencias en materia de seguridad, la Agencia se regirá por la Ley 38/2015, de 29 de septiembre, del sector ferroviario y las normas que la desarrollan, así como por el derecho de la Unión Europea vigente en materia de seguridad ferroviaria.
+
+La Agencia asume las potestades que la Ley 38/2015, de 29 de septiembre, atribuye al Ministerio de Transportes y Movilidad Sostenible en materia sancionadora y supervisora en materia de seguridad, en los términos establecidos en el presente estatuto.
+
+> Se modifica por el art. 16.4 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 3. Principios de la actuación de la Agencia.
+
+La Agencia está sometida a los principios generales de actuación recogidos en el artículo 81 de la Ley 40/2015, de 1 de octubre, y además a los siguientes principios de actuación:
+
+a) Independencia en su actuación, respecto de las funciones que tiene asignadas en materia de seguridad del transporte ferroviario.
+
+b) Competencia y responsabilidad en el desarrollo y aplicación de las normas de seguridad ferroviaria nacionales e internacionales, así como en el control de los procedimientos.
+
+c) Promoción y difusión de una cultura de seguridad ferroviaria en todos los ámbitos de actuación.
+
+d) Calidad, eficacia, eficiencia y transparencia en el ejercicio de sus funciones.
+
+> Se modifica por el art. 16.5 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 4. Disposiciones y actos administrativos.
+
+1\. La Agencia en el ejercicio de sus competencias podrá adoptar:
+
+a) Resoluciones del Presidente de la Agencia.
+
+b) Resoluciones del Consejo Rector.
+
+c) Resoluciones, instrucciones, y protocolos de actuación del Director de la Agencia.
+
+2\. Los actos y resoluciones dictados por el Consejo Rector, el Presidente o el Director de la Agencia en el desarrollo de funciones públicas agotarán la vía administrativa, excepto los dictados en materia tributaria donde serán recurribles en vía económico-administrativa, sin perjuicio, en todos los casos, del posterior acceso a la jurisdicción contencioso-administrativa.
+
+#### Artículo 5. Asistencia jurídica.
+
+La asistencia jurídica de la Agencia, consistente en el asesoramiento jurídico y en la representación y defensa en juicio, corresponde a la Abogacía General del Estado, mediante la formalización del oportuno convenio en los términos previstos en la Ley 52/1997, de 27 de noviembre, de Asistencia Jurídica al Estado e Instituciones Públicas, y su normativa de desarrollo.
+
+> Se modifica por el art. 16.6 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 6. Adscripción.
+
+La Agencia se adscribe al Ministerio de Transportes y Movilidad Sostenible a través de la Secretaría General de Transportes Terrestres.
+
+> Se modifica por el art. 16.7 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 7. Sede.
+
+La Agencia tendrá su sede institucional en la ciudad de Madrid.
+
+## CAPÍTULO II — Objeto y competencias
+
+#### Artículo 8. Objeto de la Agencia Estatal de Seguridad Ferroviaria.
+
+La Agencia Estatal de Seguridad Ferroviaria, dentro del ámbito de competencias correspondientes al Estado, ejercerá las funciones de autoridad nacional de la seguridad ferroviaria, tal y como se establece en la Ley 38/2015, de 29 de septiembre y en particular, la ordenación, inspección y supervisión de la seguridad de todos los elementos del sistema ferroviario, en relación tanto con las infraestructuras, el material rodante, el personal ferroviario, como con la operación ferroviaria.
+
+Asimismo, llevará a cabo las funciones relacionadas con la interoperabilidad del sistema ferroviario de competencia estatal. También le corresponderá el otorgamiento, suspensión y revocación de licencias a las empresas ferroviarias.
+
+> Se modifica por el art. 16.8 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 9. Competencias.
+
+1\. La Agencia Estatal de Seguridad Ferroviaria ejercerá las siguientes competencias:
+
+a) Velar por el mantenimiento general de la seguridad operacional sobre la Red Ferroviaria de Interés General mediante la supervisión del cumplimiento de las obligaciones de los diferentes actores en esta materia.
+
+b) Autorizar, cuando proceda, la entrada o puesta en servicio de los subsistemas fijos control-mando y señalización en las vías, energía e infraestructura del sistema ferroviario.
+
+c) Supervisar el cumplimiento de los requisitos esenciales por parte de los componentes de interoperabilidad y subsistemas.
+
+d) Autorizar la puesta en el mercado de los vehículos, cuando le corresponda a la Agencia ser emisora de la autorización conforme al Real Decreto 929/2020 de 27 de octubre, de seguridad operacional e interoperabilidad ferroviarias, o asistir a la Agencia Ferroviaria de la Unión Europea en los demás casos.
+
+e) Expedir, renovar, modificar o revocar los certificados de seguridad de las empresas ferroviarias, cuando le corresponda a la Agencia ser emisora de la autorización conforme al Real Decreto 929/2020, de 27 de octubre, o asistir a la Agencia Ferroviaria de la Unión Europea en los demás casos, así como supervisarlos posteriormente.
+
+f) Expedir, renovar, modificar o revocar las autorizaciones de seguridad de los administradores de infraestructura, así como supervisarlas posteriormente.
+
+g) Participar en los términos establecidos en la normativa europea en la aplicación armonizada del sistema ERTMS, colaborando con la Agencia Ferroviaria de la Unión Europea.
+
+h) Proponer, elaborar y desarrollar el marco normativo de seguridad en la operación e interoperabilidad y supervisar su cumplimiento por los agentes del sistema ferroviario, así como formular propuestas, directrices y recomendaciones normativas, incluidas las especificaciones técnicas de los subsistemas ferroviarios.
+
+i) Realizar el seguimiento de los objetivos y los niveles de seguridad a través de los indicadores y estadísticas de accidentalidad, así como elaborar informes en materia de seguridad en la operación ferroviaria.
+
+j) Organizar y gestionar el Registro Especial Ferroviario y otros registros relacionados con la seguridad operacional y la interoperabilidad, así como supervisar la debida inscripción de los diferentes elementos del sistema ferroviario.
+
+k) Conceder la homologación y, en su caso, suspenderla y revocarla, de los centros de formación y centros de reconocimiento psicofísico del personal ferroviario, así como su posterior supervisión.
+
+l) Certificar las entidades encargadas de mantenimiento y sus funciones, y en su caso suspender y revocar dicha certificación, así como su posterior supervisión.
+
+m) Ejercer las competencias del Ministerio de Transportes y Movilidad Sostenible en materia de personal ferroviario, y en particular, otorgar, renovar, suspender y revocar las licencias y títulos de conducción de personal ferroviario, así como, proponer el contenido de las pruebas de obtención de títulos habilitantes del personal ferroviario, aprobar los contenidos mínimos de los programas de formación para la obtención de las habilitaciones y las condiciones de capacidad psicofísica para la certificación de valoración de aptitud personal.
+
+n) Asistir y participar en los grupos de trabajo de la Agencia Ferroviaria de la Unión Europea y en otras organizaciones nacionales e internacionales relacionadas con la seguridad o interoperabilidad del transporte ferroviario.
+
+o) Ejercer las competencias del Ministerio de Transportes y Movilidad Sostenible en materia de seguridad en la operación del transporte de mercancías peligrosas por ferrocarril.
+
+p) Ejercer la potestad sancionadora en materia de seguridad ferroviaria, de transporte ferroviario de mercancías peligrosas, y relativas a la infraestructura y el dominio público ferroviario.
+
+q) Organizar y participar en cualquier actividad de difusión o de formación en seguridad en la operación e interoperabilidad ferroviarias.
+
+r) Elaborar y seguir planes en aplicación de la Orden TRM/975/2024, de 10 de septiembre, para la elaboración del Plan Anual de Seguridad Operacional Ferroviaria.
+
+s) Impulsar y coordinar foros de participación o grupos de trabajo entre las diferentes entidades del sector ferroviario, como empresas, administradores o representantes de los trabajadores.
+
+t) Desarrollar acciones para fomentar la consideración de factores humanos y organizativos, así como la cultura de la seguridad en el sistema ferroviario, y el seguimiento de las recomendaciones de seguridad emitidas por los organismos de investigación de accidentes.
+
+u) Todas aquellas funciones que se le asignen, especialmente en materia de seguridad en la operación o interoperabilidad ferroviaria.
+
+2\. A la Agencia Estatal de Seguridad Ferroviaria le corresponde también el otorgamiento, suspensión y revocación de licencias a las empresas ferroviarias, así como de las habilitaciones de otros candidatos distintos de éstas, incluyendo la propuesta y elaboración de proyectos normativos en relación con la solicitud y documentación justificativa de las licencias.
+
+3\. La Agencia prestará asistencia técnica y colaborará con el Ministerio de Transportes y Movilidad Sostenible en el ejercicio de sus competencias ferroviarias.
+
+4\. Las competencias a las que se refieren los apartados 1 y 2 no se podrán transferir ni subcontratar a ningún administrador de la infraestructura, empresa ferroviaria o entidad adjudicadora.
+
+> Se modifica por el art. 16.9 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 10. Ejercicio de la potestad sancionadora y adopción de medidas extraordinarias.
+
+1\. Los procedimientos sancionadores por las infracciones administrativas en materia de seguridad del sistema ferroviario y en materia de transportes de mercancías peligrosas tipificadas en la Ley 38/2015, de 29 de septiembre, se iniciarán siempre de oficio por acuerdo de la persona titular de la Dirección de la Agencia, bien por propia iniciativa, bien como consecuencia de orden superior, petición razonada de otros órganos o denuncia.
+
+2\. La instrucción de los procedimientos sancionadores derivados de las infracciones indicadas en el apartado anterior corresponderá a la Subdirección General de Administración, en colaboración con el resto de las subdirecciones de la Agencia.
+
+3\. Corresponde al Consejo Rector la competencia para la imposición de las sanciones muy graves y, a la persona titular de la Dirección de la Agencia, la de las sanciones graves y leves, relativas a infracciones en materia de seguridad del sistema ferroviario o transporte de mercancías peligrosas.
+
+De igual manera, impondrán las sanciones de las infracciones relativas a la infraestructura y el dominio público ferroviario, con independencia de que su inicio e instrucción corresponda a las delegaciones del Gobierno en las Comunidades Autónomas, de acuerdo con lo establecido en la Ley 38/2015, de 29 de septiembre.
+
+> Se modifica por el art. 16.10 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## CAPÍTULO III — Gestión transparente por objetivos
+
+#### Artículo 11. El Contrato de gestión.
+
+1\. La Agencia elaborará la propuesta de Contrato de gestión plurianual con el contenido y dentro de los plazos previstos en el artículo 108 ter de la Ley 40/2015, de 1 de octubre, para su aprobación por orden conjunta de las personas titulares de los Ministerios de Transportes y Movilidad Sostenible, Hacienda y para la Transformación Digital y de la Función Pública.
+
+2\. La actuación de la Agencia se produce con arreglo a un plan de acción anual, bajo la vigencia y con arreglo al pertinente contrato plurianual de gestión.
+
+3\. El Contrato de gestión de la Agencia tendrá una vigencia de cuatro años.
+
+4\. El Contrato de gestión comprenderá, como mínimo y para el período de su vigencia, el siguiente contenido:
+
+a) Los objetivos a perseguir, y los planes necesarios para alcanzar los objetivos, con especificación de los marcos temporales correspondientes y de los proyectos asociados a cada una de las estrategias y sus plazos temporales.
+
+b) Los resultados a obtener, así como los indicadores para evaluar los resultados obtenidos.
+
+c) El marco de actuación en materia de gestión de recursos humanos, comprensivo de la determinación de necesidades de personal a lo largo de la vigencia del contrato y la previsión máxima de personal.
+
+d) Los recursos personales, materiales y presupuestarios a aportar para la consecución de los objetivos, estableciendo su escenario plurianual.
+
+e) Los efectos asociados al grado de cumplimiento de los objetivos establecidos en cuanto a los siguientes aspectos:
+
+– Los criterios para la exigencia de responsabilidad por la gestión del personal directivo y ejecutivo.
+
+– El montante de masa salarial destinada al complemento de productividad o concepto equivalente para el personal laboral.
+
+f) El procedimiento a seguir para la cobertura de los déficits anuales que, en su caso, se pudieran producir por insuficiencia de los ingresos reales respecto a los estimados y las consecuencias de responsabilidad en la gestión que, en su caso, deban seguirse de tales déficits.
+
+g) El procedimiento para la introducción de las modificaciones o adaptaciones anuales que, en su caso, procedan.
+
+5\. La Presidencia de la Agencia, una vez aprobada la propuesta de Contrato de gestión por el Consejo Rector, la remitirá al Ministerio de Transportes y Movilidad Sostenible y a los órganos competentes de los Ministerios de Hacienda y para la Transformación Digital y de la Función Pública, antes del 1 de septiembre del último año de vigencia del contrato anterior.
+
+Antes del 30 de mayo del mismo año, el Consejo Rector aprobará la propuesta inicial del nuevo contrato, pudiendo los Presupuestos Generales del Estado prever una dotación condicionada a la efectiva formalización del mismo.
+
+6\. La aprobación del Contrato de gestión tiene lugar por orden conjunta de los Ministerios de Transportes y Movilidad Sostenible, de Hacienda y para la Transformación Digital y de la Función Pública, en un plazo máximo de tres meses a contar desde su presentación.
+
+7\. En caso de no aprobarse el Contrato de gestión en los plazos previstos en este artículo, mantendrá su vigencia el Contrato de gestión anterior, para lo cual el Ministerio de Hacienda incluirá en los Presupuestos Generales del Estado del ejercicio siguiente una dotación condicionada a la aprobación del contrato sobre la base de la propuesta inicial aprobada por el Consejo Rector de acuerdo con el apartado 5 de este artículo.
+
+8\. La Presidencia informará a los Ministerios de Transportes y Movilidad Sostenible, de Hacienda y para la Transformación Digital y de la Función Pública, acerca de la ejecución y cumplimiento de los objetivos de la Agencia fijados en el Contrato de gestión plurianual.
+
+> Se modifican los apartados 1, 5, 6, 7 y 8 por el art. 16.11 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 12. El plan de acción anual, el informe de actividad y las cuentas anuales.
+
+1\. El Director propondrá al Consejo Rector para su aprobación:
+
+a) La propuesta del plan de acción anual que contendrá, para el ejercicio correspondiente, las previsiones establecidas en consonancia con el contrato plurianual de gestión vigente.
+
+b) El informe general de actividad correspondiente al año inmediatamente anterior, con anterioridad al 30 de junio del año en curso.
+
+c) Las cuentas anuales acompañadas del informe de auditoría de cuentas, con anterioridad al 30 de junio del año en curso.
+
+2\. Los documentos a que se refiere este artículo son públicos, teniendo los ciudadanos acceso a su contenido desde su aprobación, excepto aquellos aspectos que puedan comprometer la seguridad ferroviaria.
+
+3\. Para garantizar el libre acceso al contenido de estos documentos, serán publicados en el portal de Internet de la Agencia.
+
+4\. La Agencia, a través del Ministerio de Transportes y Movilidad Sostenible, remitirá anualmente a las Cortes Generales el informe general de actividad aprobado por el Consejo Rector, relativo a las tareas de la Agencia y al grado de cumplimiento de sus objetivos.
+
+> Se modifican los apartados 1.a), 3 y 4 por el art. 16.12 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## CAPÍTULO IV — Organización
+
+#### Artículo 13. Órganos de la Agencia.
+
+La Agencia se estructura en órganos de gobierno, de control, ejecutivos y operativos:
+
+a) Los órganos de gobierno de la Agencia son el Presidente y el Consejo Rector.
+
+b) La Comisión de Control es el órgano de control de la Agencia.
+
+c) El órgano ejecutivo de la Agencia es el Director.
+
+d) Los órganos operativos son: la Subdirección General de Coordinación Ferroviaria, la Subdirección General de Administradores de Infraestructuras e Instalaciones Fijas, la Subdirección General de Empresas Ferroviarias y Material Rodante y la Subdirección General de Administración.
+
+> Se modifica la letra d) por el art. 16.13 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+### Sección 1.ª Órganos de gobierno
+
+#### Artículo 14. El Presidente.
+
+El Presidente de la Agencia será el titular de la Secretaría General de Infraestructuras.
+
+#### Artículo 15. Funciones del Presidente.
+
+El Presidente ostenta la representación del Consejo Rector, dirige y preside sus reuniones y ejercerá, además, las siguientes funciones:
+
+a) Ostentar la máxima representación de la Agencia tanto a nivel institucional como internacional.
+
+b) Proponer al Consejo Rector el nombramiento o separación del Director de la Agencia y de los miembros de la Comisión de Control.
+
+c) Delegar competencias, de firma o designar suplente en el ejercicio de sus funciones a favor de la persona titular de la Dirección de la Agencia o de los órganos operativos de la Agencia, de conformidad con lo establecido en la Ley 40/2015, de 1 de octubre, así como conferir poderes generales o especiales a persona o personas determinadas.
+
+d) Representar a la Agencia en las actuaciones relativas a sus bienes y derechos patrimoniales, pudiendo delegar esta función de forma expresa en otros órganos o funcionarios de la misma, dando cuenta al Consejo Rector.
+
+e) Presentar al Consejo Rector la propuesta de Contrato de gestión plurianual, para su aprobación por éste, y su posterior remisión a los Ministerios de Transportes y Movilidad Sostenible, para la Transformación Digital y de la Función Pública y de Hacienda en los términos del artículo 11.
+
+f) Informar a los Ministerios de Transportes y Movilidad Sostenible, Hacienda y para la Transformación Digital y de la Función Pública acerca de la ejecución y cumplimiento de los objetivos fijados en el Contrato de gestión.
+
+g) Rendir las cuentas anuales al Tribunal de Cuentas, por conducto de la Intervención General del Estado, de acuerdo con la normativa presupuestaria.
+
+h) Comparecer ante el Congreso de los Diputados y el Senado, a requerimiento de éstos, a fin de informar acerca del desarrollo del Contrato de gestión y demás aspectos de la gestión de la Agencia y remitir a las Cortes Generales o a las Comisiones parlamentarias que correspondan, a través de la persona titular del Ministerio de Transportes y Movilidad Sostenible, el informe general de actividad aprobado por el Consejo Rector, relativo a las tareas de la Agencia y al grado de cumplimiento de sus objetivos.
+
+i) Desempeñar cuantas otras funciones se le atribuyan por norma legal o reglamentaria.
+
+j) Todas las demás competencias que le correspondan como titular de la Presidencia de un órgano colegiado según lo dispuesto en el artículo 19 de la Ley 40/2015, de 1 de octubre.
+
+> Se modifican las letras c), e), f), h) y j) por el art. 16.14 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 16. Composición del Consejo Rector.
+
+1\. El Consejo Rector es el órgano de gobierno colegiado de la Agencia.
+
+2\. El Pleno del Consejo Rector estará integrado por el Presidente de la Agencia, que lo será también del Consejo, los Consejeros y el Secretario.
+
+3\. El Director de la Agencia es miembro nato del Consejo Rector. Los demás Consejeros serán nombrados y separados por la persona titular del Ministerio de Transportes y Movilidad Sostenible, siendo designados del siguiente modo:
+
+a) Cuatro serán designados por la persona titular del Ministerio de Transportes y Movilidad Sostenible, entre funcionarios, con rango mínimo de Director General, y, entre profesionales independientes con experiencia en el ámbito del sector ferroviario o de la gestión pública.
+
+b) Uno será designado por la persona titular del Ministerio de Hacienda, con rango mínimo de Director General.
+
+c) Uno será designado por la persona titular del Ministerio de Economía, Comercio y Empresa, con rango mínimo de Director General.
+
+d) Uno será designado por la persona titular del Ministerio de Industria y Turismo, con rango mínimo de Director General.
+
+e) Uno será designado por la persona titular del Ministerio para la Transformación Digital y de la Función Pública, con rango mínimo de Director General.
+
+4\. El Secretario forma parte del Consejo Rector y asistirá a sus sesiones con voz pero sin voto.
+
+5\. Los miembros del Consejo Rector guardarán el debido sigilo respecto a los asuntos de los que conozcan como miembros de dicho órgano.
+
+6\. En caso de vacante, ausencia o enfermedad del Presidente, asumirá la presidencia del Consejo Rector el Consejero de mayor rango de los previstos en el apartado 3 o, a igualdad de rango, el más antiguo en el cargo de Consejero. A igualdad de rango y de antigüedad, asumirá la presidencia el de mayor edad.
+
+7\. El régimen retributivo de los máximos responsables y directivos de la Agencia quedará sujeto a lo dispuesto en el Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades,
+
+8\. La designación de los miembros del Consejo Rector se ajustará al principio de presencia equilibrada de mujeres y hombres.
+
+> Se modifica el apartado 3 por el art. 16.15 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 17. Funciones del Consejo Rector.
+
+1\. Al Consejo Rector le corresponden, conforme al Estatuto y de acuerdo con lo establecido en la legislación vigente, las siguientes funciones:
+
+a) El seguimiento, la supervisión y el control superiores de la actuación de la Agencia.
+
+b) La aprobación de la propuesta del Contrato de gestión plurianual de la Agencia, así como la aprobación de las propuestas de los planes de acción anuales, los criterios cuantitativos y cualitativos de medición de cumplimiento de dichos objetivos y del grado de eficiencia en la gestión y la aprobación de políticas de calidad, todo ello en el marco de lo establecido en el Contrato de gestión.
+
+c) La aprobación del anteproyecto de presupuesto de la Agencia.
+
+d) La propuesta a la persona titular del Ministerio de Hacienda, a iniciativa de la persona titular de la Dirección de la Agencia, de las variaciones de la cuantía global del presupuesto y las que afecten a gastos de personal, de acuerdo con el artículo 108 sexies de la Ley 40/2015, de 1 de octubre.
+
+e) El nombramiento del Director de la Agencia, el control de su gestión y la exigencia de las responsabilidades que procedan.
+
+f) La aprobación del informe general de actividad correspondiente al año anterior, y de cuantos extraordinarios considere necesarios sobre la gestión, valorando los resultados obtenidos y consignando las deficiencias observadas.
+
+g) La aprobación de las cuentas anuales de la Agencia y del informe de gestión y la aplicación de resultados, a propuesta del Director.
+
+h) La determinación de los criterios de selección del personal de la Agencia.
+
+i) La aprobación de la plantilla de personal laboral y de la relación de puestos de trabajo de la Agencia y la elaboración de la oferta anual de empleo de la Agencia para su inclusión en la oferta de empleo público estatal, de acuerdo con lo establecido en el Contrato de gestión.
+
+j) El nombramiento y cese, a propuesta del Director, de los titulares de los órganos de la Agencia y del resto de personal directivo.
+
+k) La determinación, a propuesta del Director, de los criterios y porcentajes aplicables a la retribución como incentivo de rendimiento que percibe el personal directivo de la Agencia, en el marco de lo establecido en el Contrato de gestión.
+
+l) La aprobación de las normas internas de funcionamiento, desarrollo orgánico y de adopción de acuerdos del propio Consejo Rector y de la Agencia en lo no previsto en este estatuto, de acuerdo con el marco de actuación fijado en el Contrato de gestión.
+
+m) El ejercicio de las acciones y los recursos que correspondan a la entidad en defensa de sus intereses ante las Administraciones Públicas y los órganos judiciales de cualquier orden o jurisdicción, sin perjuicio de lo dispuesto en el artículo 20 c) de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
+
+n) La autorización de las operaciones de crédito y demás operaciones de endeudamiento que pueda convenir la Agencia de acuerdo con el presente estatuto.
+
+o) La aprobación, a propuesta de la persona titular de la Dirección y previa autorización del Ministerio de Transportes y Movilidad Sostenible, de la cuantía de los precios y demás ingresos no tributarios que la Agencia esté autorizada a cobrar.
+
+p) Proponer al Ministerio de adscripción la creación o participación de la Agencia en el capital social de toda clase de sociedades mercantiles o fundaciones que estén relacionadas con sus actividades, con arreglo a lo previsto en el artículo 39.
+
+q) La aprobación de los acuerdos, pactos y convenios que considere convenientes o necesarios para la realización de los fines de la Agencia.
+
+r) Acordar el arrendamiento y adquisición de bienes inmuebles y la constitución de derechos reales, previo informe favorable del Ministerio de Hacienda.
+
+s) La aprobación del inventario de bienes y derechos de conformidad con lo establecido en la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+
+t) La declaración de innecesaridad de los bienes y derechos adscritos a la Agencia que resulten innecesarios para el cumplimiento de sus fines, proponiendo al Ministerio de Hacienda su desafectación y, en caso de ser desafectados, su enajenación conforme a lo prescrito en la Ley 33/2003, de 3 de noviembre. Las enajenaciones de cuantía superior a 20.000.000 de euros habrán de ser autorizadas por el Consejo de Ministros, a propuesta del Ministerio de Hacienda.
+
+u) Las demás que se le atribuyan en la Ley 40/2015, de 1 de octubre, en este estatuto o en otras disposiciones.
+
+2\. El Consejo Rector podrá acordar la constitución de grupos de trabajo compuestos por expertos independientes, para el estudio e informe de aquellos asuntos que determine. El acuerdo de constitución determinará el alcance, la duración y la composición de dichos grupos, así como las condiciones de retribución de los miembros, en su caso.
+
+> Se modifican las letras b), d), o), p), r), t) y u) del apartado 1 por el art. 16.16 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 18. Convocatoria y quórum del Consejo Rector.
+
+1\. El Consejo Rector se reunirá, previa convocatoria del Presidente y a iniciativa suya o a petición al menos, de la mitad de los consejeros, tantas veces como sea necesario para el desarrollo de las funciones de la Agencia y, al menos, seis veces al año.
+
+2\. La convocatoria del Consejo Rector se cursará por el Secretario por escrito al menos con cuarenta y ocho horas de antelación, recogiendo el orden del día de los asuntos a tratar.
+
+3\. Para la válida constitución del Consejo Rector, además del Presidente y del Secretario o de quienes los sustituyan, deberán estar presentes o representados, en primera convocatoria, la mitad de los consejeros y, en segunda convocatoria, la tercera parte de los mismos. Entre la primera y segunda convocatoria deberá transcurrir, al menos, el plazo de una hora.
+
+4\. Podrán asistir a las sesiones del Consejo Rector, con voz pero sin voto, todas aquellas personas que sean convocadas por su Presidente, en calidad de expertos de las materias incluidas en el orden del día.
+
+5\. El funcionamiento del Consejo Rector se ajustará a lo establecido en la sección 3.ª del capítulo II del título Preliminar de la Ley 40/2015, de 1 de octubre, para los órganos colegiados.
+
+> Se modifica el apartado 5 por el art. 16.17 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 19. Adopción de acuerdos.
+
+Los acuerdos del Consejo Rector se tomarán por mayoría de votos de sus miembros, presentes o representados. En caso de empate, el Presidente tendrá voto de calidad.
+
+#### Artículo 20. La Secretaría.
+
+La persona titular de la Subdirección General de Administración de la Agencia ejercerá la Secretaría del Consejo Rector correspondiéndole las funciones a que hacen referencia los artículos 16, 18 y 19.4 de la Ley 40/2015, de 1 de octubre. En caso de vacante, ausencia o enfermedad de la persona titular de la Subdirección General de Administración, corresponderá a la persona titular de la Dirección la designación de la persona que ejerza la Secretaría del Consejo Rector, entre funcionarios de carrera pertenecientes a Cuerpos o Escalas incluidos en el subgrupo A1 de cualquiera de las Administraciones Públicas que presten servicios en la Agencia.
+
+> Se modifica por el art. 16.18 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+### Sección 2.ª Órgano de control
+
+#### Artículo 21. Comisión de Control.
+
+1\. La Comisión de Control es el órgano de control de la Agencia. La Comisión estará compuesta por los siguientes miembros:
+
+a) Tres Vocales, elegidos por el Consejo Rector entre sus miembros.
+
+b) Un Presidente, elegido por los Vocales de la Comisión, y entre sus miembros.
+
+c) Un Secretario, que será el del Consejo Rector.
+
+2\. Los miembros de la Comisión de control no deberán desempeñar responsabilidades de gestión en la Agencia.
+
+3\. El Interventor Delegado en la Agencia podrá asistir a las reuniones de la Comisión de Control, con voz pero sin voto.
+
+#### Artículo 22. Funciones de la Comisión de Control.
+
+Corresponde a la Comisión de Control informar al Consejo Rector sobre la ejecución del Contrato de gestión y, en general, sobre todos aquellos aspectos relativos a la gestión económico-financiera que deba conocer el propio Consejo, para lo que deberá:
+
+a) Elaborar para el Consejo Rector, con la periodicidad que el mismo decida, y al menos una vez al semestre, informes sobre el desarrollo y ejecución del Contrato de gestión.
+
+b) Supervisar el procedimiento y los sistemas de elaboración de la información de gestión y financiera a someter al Consejo Rector.
+
+c) Revisar las cuentas anuales que deben someterse al Consejo Rector de acuerdo con la normativa aplicable.
+
+d) Verificar el cumplimiento de las normas y plazos relativos tanto a la rendición de cuentas anuales y demás información que deban rendir por su pertenencia al sector público, como a las contempladas en el Contrato de gestión.
+
+e) Vigilar el cumplimiento de las normas presupuestarias en la elaboración del presupuesto, así como en su ejecución a través del control del estado de ejecución presupuestaria mensualmente remitido a la Comisión de Control.
+
+f) Analizar todos los informes de control de la gestión económico - financiera emitidos por los órganos a que se refiere el artículo 48 del Estatuto y proponer al Consejo Rector las estrategias encaminadas a corregir las debilidades que se pudieran poner de manifiesto.
+
+g) Colaborar en la formulación de un marco normalizado, sencillo y claro de comunicación de la información financiera y de gestión que periódicamente debe presentar éste al Consejo Rector, para la evaluación periódica del nivel de cumplimiento del Contrato de gestión.
+
+#### Artículo 23. Funcionamiento de la Comisión de Control.
+
+1\. La Comisión de Control se reunirá como mínimo cuatro veces al año y siempre que su Presidente lo considere conveniente.
+
+2\. El funcionamiento y régimen aplicable a la Comisión de Control se ajustará al régimen previsto en la Ley 40/2015, de 1 de octubre, para los órganos colegiados.
+
+> Se modifica el apartado 2 por el art. 16.19 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+### Sección 3.ª Órganos ejecutivos y operativos
+
+#### Artículo 24. El Director de la Agencia.
+
+1\. El Director es el órgano ejecutivo de la Agencia y el responsable de la dirección y gestión ordinaria de la misma.
+
+2\. La persona titular de la Dirección de la Agencia será nombrada por el Consejo Rector, a propuesta de la persona titular de la Presidencia, entre titulados superiores, atendiendo a criterios de competencia profesional y experiencia. La persona titular de la Dirección de la Agencia tendrá la consideración de alto cargo a efectos de lo dispuesto en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado. y sus disposiciones de desarrollo, así como a efectos retributivos, de acuerdo con lo dispuesto en la materia en las leyes de Presupuestos Generales del Estado.
+
+> Se modifica el apartado 2 por el art. 16.20 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 25. Funciones del Director de la Agencia.
+
+1\. Como órgano ejecutivo de la Agencia, corresponden al Director las siguientes funciones:
+
+a) Llevar a cabo la dirección y gestión ordinaria de la Agencia, velando por la consecución de los objetivos fijados en el Contrato de gestión y conforme a las directrices de actuación que fije el Ministerio de Transportes y Movilidad Sostenible como Ministerio de adscripción.
+
+b) Elaborar el proyecto de Contrato de gestión.
+
+c) Presentar al Consejo Rector, para su aprobación, la propuesta de los planes de acción anuales y el informe general de actividad del año anterior.
+
+d) Formular las cuentas anuales de la Agencia y proponer su aprobación al Consejo Rector.
+
+e) Elaborar el anteproyecto de presupuestos anuales.
+
+f) Ejecutar el presupuesto de la Agencia.
+
+g) Ejercer la iniciativa para la autorización de variaciones presupuestarias por la persona titular del Ministerio de Hacienda, o autorizar las variaciones presupuestarias, según lo dispuesto en el artículo 108 sexies de la Ley 40/2015, de 1 de octubre.
+
+h) Organizar, supervisar, liquidar y controlar la aplicación de los precios públicos, tasas y tarifas que esté autorizada a cobrar y gestionar la Agencia, en orden a lograr una gestión eficaz y responsable.
+
+i) Ejercer la jefatura superior de todo el personal de la Agencia y la potestad disciplinaria mediante la resolución de los expedientes disciplinarios.
+
+j) Ejercer funciones de control interno de la Agencia.
+
+k) Proveer los puestos de trabajo correspondientes al personal funcionario y laboral de la Agencia, resolviendo las convocatorias de puestos de trabajo de personal funcionario y contratando al personal laboral.
+
+l) Elaborar la plantilla de personal y la relación de puestos de trabajo de la Agencia dentro del marco de actuación en materia de recursos humanos que se establezca en el Contrato de gestión, y proponer su aprobación al Consejo Rector.
+
+m) Elaborar la previsión de necesidades de personal a incorporar en la oferta anual de empleo de la Agencia.
+
+n) Proponer al Consejo Rector el nombramiento y cese de los órganos y del resto de personal directivo.
+
+o) Aprobar y comprometer gastos, así como reconocer y pagar obligaciones, dando cuenta al Consejo Rector.
+
+p) Aprobar los incrementos de gasto financiados con remanente de crédito del ejercicio anterior, en los términos que estable el artículo 27.4 de la Ley 28/2006, de 18 de julio.
+
+q) Ejercer las competencias en materia patrimonial correspondientes a la Agencia, sin perjuicio de las atribuidas al Consejo Rector.
+
+r) Elaborar el inventario de bienes y derechos de la Agencia para su aprobación anual por el Consejo Rector.
+
+s) Resolver sobre aquellas cuestiones que afecten simultáneamente a varias direcciones operativas.
+
+t) Impulsar la adecuada coordinación con todos los agentes del sector ferroviario dentro del ámbito de sus competencias.
+
+u) El ejercicio de las competencias a las que se refiere el artículo 9 del Estatuto y cualesquiera otras funciones en materias de competencia de la Agencia que no hayan sido atribuidas expresamente a otro órgano.
+
+v) Desempeñar las demás facultades y funciones que le atribuya el Estatuto y cualesquiera otras normas aplicables, así como las que le deleguen, en su caso, el Presidente o el Consejo Rector.
+
+2\. Podrán ser objeto de delegación en los órganos operativos de la Agencia, las competencias que correspondan al Director, salvo las previstas en los apartados a), c), d), g), i), j), l), n), p) y s) y aquellas que por disposición legal o por su propia naturaleza no fueran susceptibles de delegación.
+
+3\. Asimismo el Director de la Agencia podrá avocar para sí el conocimiento de aquellos asuntos cuya resolución corresponda, ordinariamente o por delegación, a sus órganos administrativos dependientes, de acuerdo con lo previsto por la Ley 30/1992, de 26 de noviembre.
+
+4\. En el ejercicio de sus competencias, el Director de la Agencia podrá acordar la constitución de grupos de trabajo para el estudio e informe de aquellos asuntos que determine. El acuerdo de constitución determinará el alcance, la duración y la composición de dichos grupos.
+
+5\. En caso de vacante, ausencia o enfermedad, el titular de la Dirección de la Agencia será sustituido por los titulares de los órganos operativos enumerados en el artículo 26.1 del presente Estatuto, en el orden en que allí figuran.
+
+> Se modifican las letras a), c) y g) del apartado 1 por el art. 16.21 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 26. Órganos operativos.
+
+Los órganos operativos de la Agencia serán los siguientes:
+
+a) Subdirección General de Coordinación Ferroviaria.
+
+Será la encargada del apoyo a la Dirección con la finalidad de dotar al funcionamiento de la Agencia de una perspectiva global y transversal. Para ello, se encargará de la coordinación y seguimiento de las acciones de supervisión para armonizar criterios y estrategias a partir de la visión global de la seguridad del sistema; la coordinación y seguimiento de las respuestas ante consultas y peticiones del sector; la elaboración y seguimiento de planes de acción de la Agencia y del desarrollo de planes estratégicos y la coordinación de los procedimientos del sistema de gestión de la Agencia.
+
+Asimismo, se encargará del ejercicio de funciones relacionadas con los subsistemas «control-mando y señalización» y «explotación y gestión del tráfico».
+
+En concreto, ejercerá sus funciones de coordinación y seguimiento, en su caso en colaboración con las demás subdirecciones generales, en relación con las competencias previstas en los apartados a), h), i), m), n), p), q), r), s), t) y u) del artículo 9.1. Además, se encargará de las funciones de supervisión previstas en el apartado k) del artículo 9.1.
+
+Asimismo, se encargará de ejercer las funciones relacionadas con las competencias de la Agencia en materia de transporte de mercancías peligrosas. En este ámbito, le corresponden las funciones previstas en los apartados o) y p) del artículo 9.1.
+
+b) Subdirección General de Administradores de Infraestructuras e Instalaciones Fijas.
+
+Será la encargada del ejercicio de las funciones relacionadas con la emisión de autorizaciones de seguridad de administradores de infraestructura y su posterior supervisión, así como con lo relacionado con los subsistemas estructurales fijos.
+
+En concreto ejercerá, en estos ámbitos, sus funciones en relación con las competencias previstas en los apartados a), b), c), f), g), h), n), p), q), r), s) y u) del artículo 9.1.
+
+c) Subdirección General de Empresas Ferroviarias y Material Rodante.
+
+Será la encargada del ejercicio de las funciones relacionadas con la emisión de certificados de seguridad y su posterior supervisión, así como con lo relacionado con vehículos ferroviarios y su mantenimiento.
+
+En concreto ejercerá, en estos ámbitos, sus funciones en relación con las competencias previstas en los apartados a), c), d), e), h), j), l), n), p), q), r), s) y u) del artículo 9.1.
+
+d) Subdirección General de Administración.
+
+Le corresponden las funciones de asesoramiento y asistencia en la tramitación de procedimientos al resto de unidades de la Agencia, así como las funciones de gestión.
+
+En concreto, asistirá a las demás subdirecciones generales en la tramitación de los procedimientos relacionados con las competencias previstas en los apartados h), k) y m) del apartado 9.1.
+
+En relación con la competencia prevista en el apartado p) del artículo 9.1 y de acuerdo con lo previsto en el artículo 10.2, se encargará de la instrucción de los procedimientos sancionadores en colaboración con las demás subdirecciones generales.
+
+Asimismo, se encargará de ejercer las funciones previstas en el artículo 9.2.
+
+La Subdirección General de Administración asistirá al Director y, en su caso, al Consejo Rector, bajos sus directrices, en sus funciones relacionadas con la gestión de recursos humanos de la Agencia, así como en la gestión presupuestaria, de tesorería y en la gestión patrimonial de los bienes de la Agencia, de acuerdo con las atribuciones previstas en los artículos 17, 25, 35, 37, 38, 41 y 44.
+
+Se encargará del análisis y diseño de los sistemas de información necesarios, la asistencia técnica y el desarrollo informático de los servicios de la Agencia.
+
+> Se modifica por el art. 16.22 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 27. Desarrollo de la estructura.
+
+El Consejo Rector podrá desarrollar y delimitar las funciones y competencias de las unidades organizativas con rango inferior a los órganos contenidos en este estatuto, siempre de acuerdo con lo establecido en el mismo y en el Contrato de gestión.
+
+## CAPÍTULO V — Régimen de personal
+
+#### Artículo 28. Principios generales.
+
+1\. El personal de la Agencia estará integrado por personal funcionario y laboral. El personal funcionario se rige por el Texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, y demás normativa reguladora de los funcionarios públicos de la Administración General del Estado. El personal laboral, se rige por el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, y por el resto de la normativa laboral. Asimismo, al personal de la Agencia le serán de aplicación el Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo, las especialidades previstas en la Ley 40/2015, de 1 de octubre, y en este Estatuto.
+
+2\. Los puestos de trabajo podrán ser provistos por personal de la Administración General del Estado o, en su caso, de otras administraciones públicas, cuando así se prevea en las correspondientes relaciones de trabajo.
+
+> Se modifica por el art. 16.23 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 29. Incompatibilidades.
+
+El personal de la Agencia estará sujeto al régimen de incompatibilidades establecido en la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.
+
+#### Artículo 30. Procedimiento de selección.
+
+1\. En el período previsto en el Contrato de gestión, la Agencia determinará sus necesidades de personal de nuevo ingreso a cubrir mediante pruebas selectivas. Aprobado el Contrato de gestión, la previsión de necesidades de personal se incorporará a la propuesta de oferta anual de empleo de la Agencia, que se integrará en la oferta de empleo público de la Administración General del Estado, de conformidad con lo que establezca la Ley de Presupuestos Generales del Estado.
+
+2\. El personal laboral al servicio de la Agencia será seleccionado mediante órganos de selección propios, basándose en los principios de igualdad, mérito, capacidad y publicidad, así como de acceso al empleo público de las personas con discapacidad, de acuerdo con las previsiones del convenio colectivo que le sea de aplicación.
+
+3\. Para la selección del personal funcionario, las convocatorias se efectuarán por el Ministerio al que se encuentren adscritos los Cuerpos o Escalas correspondientes, o excepcionalmente por la propia Agencia mediante la suscripción del correspondiente convenio con el Ministerio de Fomento cuando se trate de Cuerpos o Escalas adscritos a dicho Ministerio.
+
+#### Artículo 31. Ordenación de puestos de trabajo.
+
+La Agencia dispondrá de su propia plantilla de personal y relación de puestos de trabajo, aprobada por el Consejo Rector, dentro del marco de actuación que, en materia de recursos humanos, se establezca en el Contrato de gestión.
+
+Con carácter general, los puestos de trabajo serán desempeñados por personal funcionario de carrera. Asimismo, las relaciones de puestos de trabajo indicarán los puestos que, en su caso, también podrán ser desempeñados por personal laboral. En todo caso, la relación de puestos de trabajo tendrá en cuenta lo establecido en el artículo 9.2 del texto refundido de la Ley del Estatuto Básico del Empleado Público.
+
+> Se modifica el párrafo segundo por el art. 16.24 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 32. Provisión de puestos de trabajo.
+
+La Agencia elaborará, convocará y resolverá las correspondientes convocatorias de provisión de puestos de trabajo de personal funcionario, de conformidad con los principios generales y procedimientos de provisión establecidos en la normativa de función pública de la Administración General del Estado.
+
+#### Artículo 33. Régimen retributivo.
+
+1\. Los conceptos retributivos del personal funcionario y de la Agencia son los establecidos en la normativa de función pública de la Administración General del Estado, y sus cuantías se determinarán en el marco correspondiente del Contrato de gestión, de conformidad con lo establecido en dicha normativa y en las leyes de Presupuestos Generales del Estado.
+
+2\. Las condiciones retributivas del personal laboral se determinarán en función del convenio colectivo de aplicación y del respectivo contrato de trabajo, y sus cuantías se fijarán de acuerdo con lo contemplado en el Contrato de gestión.
+
+3\. La cuantía de la masa salarial destinada al complemento de productividad, o concepto equivalente del personal laboral, está en todo caso vinculada al grado de cumplimiento de los objetivos fijados en el Contrato de gestión, de acuerdo con el procedimiento que en él se determine.
+
+4\. Mediante el establecimiento y aplicación de un sistema de evaluación del desempeño, el personal de la Agencia podrá percibir una parte de sus retribuciones como retribución variable, asociada a su contribución a los objetivos a que hace referencia el párrafo anterior, sin que en ningún caso pueda superarse la cuantía de la masa determinada según el procedimiento que disponga el Contrato de gestión.
+
+#### Artículo 34. Personal directivo.
+
+1\. Se considera personal directivo al que desarrolla funciones directivas profesionales mediante la ocupación de puestos de trabajo de especial responsabilidad, competencia técnica y relevancia de las tareas asignadas.
+
+2\. El personal directivo de la Agencia está constituido por los titulares de las subdirecciones generales y de la división.
+
+3\. El personal directivo de la Agencia es nombrado y cesado por el Consejo Rector, a propuesta de la persona titular de la Dirección, entre funcionarios de carrera de cualquiera de las Administraciones Públicas pertenecientes a Cuerpos o Escalas incluidos en el Subgrupo A1, atendiendo a los criterios de competencia profesional y experiencia, así como a lo establecido en el artículo 108 quater de la Ley 40/2015, de 1 de octubre.
+
+4\. El proceso de selección podrá ser realizado por órganos especializados de selección de personal, que formularán propuesta motivada, incluyendo tres candidatos para cada puesto a cubrir, debiendo respetar en todo el proceso los principios de mérito, capacidad y publicidad.
+
+5\. El personal directivo está sujeto, en el desarrollo de sus cometidos, a evaluación con arreglo a los criterios de eficacia, eficiencia y cumplimiento de la legalidad, responsabilidad por su gestión y control de resultados en relación con los objetivos que le hayan sido fijados.
+
+6\. El personal directivo percibirá una parte de su retribución como incentivo de rendimiento, mediante el complemento correspondiente que valore el cumplimiento de los objetivos fijados, de acuerdo con los criterios y porcentajes que se establezcan por el Consejo Rector, a propuesta del Director, en el marco de lo establecido en el Contrato de gestión.
+
+> Se modifica el apartado 3 por el art. 16.25 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## CAPÍTULO VI — Régimen patrimonial, financiero y contratación
+
+### Sección 1.ª Patrimonio y contratación
+
+#### Artículo 35. Régimen patrimonial.
+
+1\. La Agencia tiene, para el cumplimiento de sus fines, un patrimonio propio, distinto del de la Administración General del Estado, integrado por el conjunto de bienes y derechos de los que es titular. Asimismo quedarán adscritos a la Agencia para el cumplimiento de sus fines los bienes de patrimonio del Estado de cualquier titularidad que así se acuerde.
+
+2\. La gestión y administración de los bienes y derechos propios así como de aquellos del Patrimonio del Estado que se le adscriban para el cumplimiento de sus fines, será ejercida de acuerdo con lo señalado en el Estatuto, con sujeción en todo caso a lo establecido para los organismos públicos en la Ley 33/2003, de 3 de noviembre, y su normativa de desarrollo.
+
+#### Artículo 36. Régimen jurídico de los bienes propios.
+
+La Agencia puede adquirir toda clase de bienes y derechos por cualquiera de los modos admitidos en el ordenamiento jurídico.
+
+La adquisición de bienes inmuebles o de derechos sobre los mismos requerirá el previo informe favorable del Ministerio de Hacienda y Administraciones Públicas.
+
+#### Artículo 37. Régimen jurídico de los bienes adscritos.
+
+La adscripción y desadscripción de bienes por parte de la Administración General del Estado se regirá por la legislación reguladora del patrimonio de las administraciones públicas, conservando aquéllos su calificación y titularidad jurídica originaria y correspondiendo a la Agencia el ejercicio de las competencias demaniales, así como la vigilancia, protección jurídica, defensa, administración, conservación, mantenimiento y demás actuaciones que requiera el correcto uso y utilización de los mismos y cuantas prerrogativas referentes al dominio público y a los bienes patrimoniales del Estado se encuentren legalmente establecidas.
+
+#### Artículo 38. Inventario.
+
+La Agencia, a través de su Director, formará y mantendrá actualizado su inventario de bienes y derechos, tanto propios como adscritos, con excepción de los de carácter fungible en la forma establecida en la Ley 33/2003, de 3 de noviembre. El inventario se actualizará anualmente con referencia al 31 de diciembre y se someterá a la aprobación del Consejo Rector en el primer trimestre del ejercicio siguiente.
+
+#### Artículo 39. Participación o creación de sociedades y fundaciones.
+
+1\. Para el mejor cumplimiento de sus fines, la Agencia podrá proponer la creación o participación en sociedades mercantiles o fundaciones cuyo objeto sea acorde con los objetivos de la Agencia.
+
+2\. La aprobación de la propuesta de participación deberá ser aprobada por el Consejo Rector, y en su caso, deberá someterse a la autorización prevista en el artículo 169 de la Ley 33/2003, de 3 de noviembre, o en el artículo 45 de la Ley 50/2002, de 26 de diciembre, de Fundaciones, según se trate de sociedades mercantiles estatales o de fundaciones del sector público estatal.
+
+> Se modifica el apartado 1 por el art. 16.26 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 40. Contratación.
+
+1\. La Agencia ajustará su actividad contractual a las normas que rigen la contratación en las administraciones públicas.
+
+2\. La persona titular de la Dirección será el órgano de contratación de la Agencia, pudiendo delegar la celebración de contratos en el titular de la Subdirección General de Administración.
+
+> Se modifica el apartado 2 por el art. 16.28 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+### Sección 2.ª Medios económico-financieros
+
+#### Artículo 41. Financiación.
+
+1\. La Agencia Estatal de Seguridad Ferroviaria se financiará con los siguientes recursos:
+
+a) Las transferencias consignadas en los Presupuestos Generales del Estado.
+
+b) Los ingresos propios que perciba como contraprestación por las actividades que pueda realizar, en virtud de contratos, convenios, encomiendas o disposición legal, para otras entidades públicas, privadas o personas físicas.
+
+c) La enajenación de bienes muebles y valores que constituyen su patrimonio.
+
+d) Los rendimientos de los bienes y valores que constituyan su patrimonio.
+
+e) Los ingresos obtenidos por la liquidación de precios públicos y tarifas derivados de la realización de sus actividades, así como los provenientes de tasas afectadas a la Agencia.
+
+f) El producto de las sanciones que se recauden en aplicación de la Ley 38/2015, de 29 de septiembre, en el ámbito de las competencias propias de la Agencia.
+
+g) Las aportaciones voluntarias, donaciones, herencias y legados, subvenciones y otras aportaciones a título gratuito de entidades privadas y de particulares.
+
+h) Las aportaciones que se concedan a su favor procedentes de fondos específicos de la Unión Europea, de otras administraciones públicas y de cualesquiera entes públicos.
+
+i) Los ingresos recibidos de personas físicas o jurídicas como consecuencia del patrocinio de actividades o instalaciones.
+
+j) Los demás ingresos de derecho público o privado que esté autorizada a percibir.
+
+2\. Los recursos que se deriven de los apartados b), g), e i) del apartado anterior y no se contemplen inicialmente en el presupuesto de la Agencia, se podrán destinar, mediante resolución del Director, a financiar mayores gastos, con excepción de lo previsto en el artículo 43.3 respecto de los gastos de personal.
+
+3\. La Agencia podrá utilizar para la efectividad de sus créditos con naturaleza de ingresos de derecho público y a través de sus propios servicios, el procedimiento administrativo de apremio.
+
+Asimismo, podrá convenir con la Agencia Estatal de Administración Tributaria la gestión recaudatoria de dichos ingresos, en la forma prevista en el Reglamento General de Recaudación, aprobado por el Real Decreto 939/2005, de 29 de julio.
+
+4\. La Agencia asume la gestión y la recaudación de los ingresos de derecho público que tenga afectados y, en particular, la gestión y la recaudación en período voluntario de las tasas por prestación de servicios y realización de actividades de su competencia establecidas en la Ley 38/2015, de 29 de septiembre, de conformidad con lo establecido en el marco de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos y demás disposiciones aplicables.
+
+Asimismo, corresponde a la Agencia la gestión y recaudación de los ingresos por sanciones derivados de infracciones a la legislación ferroviaria cuya competencia tenga atribuida.
+
+A estos efectos resultará de aplicación lo establecido en la Ley 58/2003, de 17 de diciembre, General Tributaria, y su normativa de desarrollo, así como en la Ley 47/2003, de 26 de noviembre.
+
+5\. En la medida en que la Agencia tenga capacidad para generar recursos propios suficientes, ésta podrá financiarse mediante la obtención de préstamos concedidos con cargo a los créditos previsto en el Capítulo VIII de los Presupuestos Generales del Estado, adjudicados de acuerdo con procedimientos de pública concurrencia, destinados a financiar proyectos de investigación y desarrollo.
+
+> Se modifican los apartados 1.f) y 4 por el art. 16.27 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 42. Endeudamiento.
+
+La Agencia no podrá recurrir al endeudamiento salvo en el caso de desfases temporales de tesorería, en que la Agencia podrá recurrir a la contratación de pólizas de crédito o préstamo, siempre que el saldo vivo no supere el cinco por ciento de su presupuesto.
+
+## CAPÍTULO VII — Gestión económica y control
+
+#### Artículo 43. Régimen presupuestario.
+
+1\. El Consejo Rector aprobará anualmente su anteproyecto de presupuesto y lo remitirá, a través del Ministerio de Transportes y Movilidad Sostenible, al Ministerio de Hacienda, conforme a lo dispuesto en el Contrato de gestión y a lo previsto en este artículo.
+
+2\. La estructura del presupuesto de la Agencia será establecida por el Ministerio de Hacienda, así como la documentación que se debe acompañar al mismo.
+
+3\. El presupuesto de gastos de la Agencia tendrá carácter limitativo por su importe global y carácter estimativo para la distribución de los créditos en categorías económicas, con excepción de los correspondientes a gastos de personal que en todo caso tienen carácter limitativo y vinculante por su cuantía total.
+
+4\. Los remanentes de crédito que resulten de la liquidación del ejercicio presupuestario no afectados a la financiación del presupuesto del ejercicio siguiente, podrán aplicarse al presupuesto de ingresos y destinarse a financiar incrementos de gasto, teniendo en cuenta lo previsto en el apartado anterior, por acuerdo del Director del que se dará cuenta a la Comisión de Control. El déficit derivado del incumplimiento de las estimaciones de ingresos anuales se compensan en la forma que se prevea en el Contrato de gestión.
+
+5\. Las modificaciones presupuestarias corresponderán:
+
+a) Al Ministerio de Hacienda, las variaciones de la cuantía global del presupuesto y las que afecten a gastos de personal, a iniciativa de la persona titular de la dirección y a propuesta del Consejo Rector, salvo las previstas en el apartado siguiente.
+
+b) A la persona titular de la Dirección le corresponderán las restantes variaciones incluso en la cuantía global cuando sean financiadas con recursos derivados del artículo 41.2 por encima de los inicialmente presupuestados y existan garantías suficientes de su efectividad, dando cuenta inmediata a la Comisión de Control, así como a la Dirección General de Presupuestos del Ministerio de Hacienda, para su toma de razón.
+
+> Se modifican los apartados 1, 2 y 5 por el art. 16.29 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+#### Artículo 44. Ejecución del presupuesto.
+
+La ejecución del presupuesto de la Agencia corresponde al Director, que remitirá mensualmente a la Comisión de Control un estado de ejecución presupuestaria.
+
+#### Artículo 45. Ejercicio económico.
+
+El ejercicio económico se computará por períodos anuales, comenzando el día 1 de enero de cada año.
+
+#### Artículo 46. Régimen contable y de información económica.
+
+1\. La Agencia deberá aplicar los principios contables públicos previstos en el artículo 122 de la Ley 47/2003, de 26 de noviembre, así como el desarrollo de los principios y normas establecidos en el Plan General de Contabilidad Pública, con la finalidad de asegurar el adecuado reflejo de las operaciones, los costes y los resultados de su actividad, así como de facilitar datos e información con trascendencia económica.
+
+2\. Los criterios de aplicación de la normativa contable de la Agencia corresponden a la Intervención General del Estado, en los términos establecidos por la legislación presupuestaria.
+
+3\. La Agencia dispondrá de:
+
+a) Un sistema de información económica que:
+
+(i) Muestre, a través de estados e informes, la imagen fiel del patrimonio, de la situación financiera, de los resultados y de la ejecución del presupuesto.
+
+(ii) Proporcione información de costes sobre su actividad que sea suficiente para una correcta y eficiente adopción de decisiones.
+
+b) Un sistema de contabilidad de gestión que permita efectuar el seguimiento del cumplimiento de los compromisos asumidos en el Contrato de gestión.
+
+4\. La Agencia observará los requerimientos funcionales y, en su caso los procedimientos informáticos, que al efecto establezca la Intervención General del Estado de acuerdo con lo dispuesto en el artículo 125 de la Ley 47/2003, de 26 de noviembre.
+
+#### Artículo 47. Cuentas anuales.
+
+1\. Las cuentas anuales de la Agencia se formularán por el Director en el plazo de tres meses desde el cierre del ejercicio económico. Una vez auditadas las cuentas por la Intervención General de la Administración del Estado, se someterán a la aprobación del Consejo Rector antes del 30 de junio del año siguiente al que se refieran.
+
+2\. Las cuentas aprobadas por el Consejo Rector, se rendirán al Tribunal de Cuentas a través de la Intervención General de la Administración del Estado. La remisión a la Intervención General se realizará dentro de los siete meses siguientes a la terminación del ejercicio económico.
+
+#### Artículo 48. Modalidades de control.
+
+1\. El control externo de la gestión económico-financiera de la Agencia corresponde al Tribunal de Cuentas, de acuerdo a su normativa específica.
+
+2\. El control interno de la gestión económico-financiera de la Agencia corresponde a la Intervención General de la Administración del Estado, y se realizará en las condiciones y en los términos establecidos en la Ley 47/2003, de 26 de noviembre, por la Intervención Delegada en el Organismo, bajo la dependencia orgánica y funcional de la Intervención General de la Administración del Estado.
+
+3\. El control de eficacia de la Agencia se ejercerá a través de la Inspección de los Servicios del Departamento y estará sometida a la supervisión continua del Ministerio de Hacienda, a través de la Intervención General de la Administración del Estado, conforme a lo dispuesto en el artículo 85 de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica por el art. 16.30 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)

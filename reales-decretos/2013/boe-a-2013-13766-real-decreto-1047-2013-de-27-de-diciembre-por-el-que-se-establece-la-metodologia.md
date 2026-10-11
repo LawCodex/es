@@ -1,0 +1,963 @@
+---
+title: "Real Decreto 1047/2013, de 27 de diciembre, por el que se establece la metodología para el cálculo de la retribución de la actividad de transporte de energía eléctrica"
+identifier: "BOE-A-2013-13766"
+eli: "https://www.boe.es/eli/es/rd/2013/12/27/1047"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Energía y Turismo"
+date: 2013-12-27
+published: 2013-12-30
+in_force_from: 2013-12-31
+last_amended: 2015-11-28
+consolidated: 2026-06-26
+gazette: "Boletín Oficial del Estado núm. 312"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-13766"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1047/2013, de 27 de diciembre, por el que se establece la metodología para el cálculo de la retribución de la actividad de transporte de energía eléctrica
+
+La Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, establecía en sus artículos 11 y 16 que el transporte de energía eléctrica tiene carácter de actividad regulada, y que su régimen económico será objeto de desarrollo reglamentario por parte del Gobierno.
+
+El Real Decreto 2819/1998, de 23 de diciembre, por el que se regulan las actividades de transporte y distribución de energía eléctrica, estableció el régimen económico de la actividad de transporte de energía eléctrica, que se ha venido aplicando hasta la fecha a las instalaciones puestas en servicio con anterioridad al 31 de diciembre de 2007. Este real decreto para las instalaciones puestas en servicio antes de 1998 partió de una cantidad fija que se ha ido actualizando anualmente en función del Índice de Precios de Consumo (IPC). Para las instalaciones puestas en servicio entre 1998-2007, se calculó el valor de inversión aplicando a las instalaciones en servicio unos valores unitarios de referencia aprobados por orden ministerial y se determinó un valor de la retribución para el año siguiente que se fue actualizando de nuevo en función del valor del IPC.
+
+Para las instalaciones puestas en servicio con posterioridad a esa fecha, la normativa de aplicación se encontraba recogida en el Real Decreto 325/2008, de 29 de febrero, por el que se establece la retribución de la actividad de transporte de energía eléctrica para instalaciones puestas en servicio a partir del 1 de enero de 2008.
+
+De esta forma, la citada normativa prevé distintas metodologías de retribución de los activos de la actividad de transporte en función de la fecha de obtención de la autorización de explotación de los mismos sin tener en cuenta en todos los casos la amortización de dichos activos.
+
+Este régimen retributivo se modificó por el Real Decreto-ley 13/2012, de 30 de marzo, por el que se transponen directivas en materia de mercados interiores de electricidad y gas y en materia de comunicaciones electrónicas, y por el que se adoptan medidas para la corrección de las desviaciones por desajustes entre los costes e ingresos de los sectores eléctrico y gasista y por el Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
+
+Así, el artículo 6 del citado Real Decreto-ley 13/2012, de 30 de marzo, en el cálculo de la retribución para el año 2013 de la actividad de transporte estableció que el Ministro de Industria, Energía y Turismo elevaría al Gobierno para su aprobación una propuesta de real decreto que vincule la retribución por inversión de las instalaciones de transporte a los activos en servicio no amortizados así como que el devengo y el cobro de la retribución generada por instalaciones de transporte puestas en servicio el año n se iniciará desde el 1 de enero del año n+2.
+
+Posteriormente, el artículo 39 del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad, estableció como criterio para la retribución de la actividad de transporte que la retribución en concepto de inversión se hará para aquellos activos en servicio no amortizados tomando como base para su retribución financiera el valor neto de los mismos.
+
+El Real Decreto-ley 9/2013, de 12 de julio, por el que se adoptan medidas urgentes para garantizar la estabilidad financiera del sistema eléctrico ha supuesto la introducción de un nuevo principio retributivo al referenciar la tasa de retribución al rendimiento de las Obligaciones del Estado a 10 años y ha establecido una metodología de retribución transitoria hasta el inicio del primer periodo regulatorio al amparo del contenido del presente real decreto que se elabora en cumplimiento de lo dispuesto en el artículo 6 del citado Real Decreto-ley 13/2012, de 30 de marzo.
+
+La Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, establece en su artículo 14 que las metodologías de retribución de las actividades de transporte y distribución se establecerán reglamentariamente atendiendo a los costes necesarios para construir, operar y mantener las instalaciones de acuerdo al principio de realización de la actividad al menor coste para el sistema eléctrico según lo dispuesto en el artículo 1.1.
+
+Asimismo en esta Ley se establecen y consolidan los siguientes principios retributivos que se aplican en el presente real decreto:
+
+a) El devengo y el cobro de la retribución generado por instalaciones de transporte puestas en servicio el año n se iniciará desde el 1 de enero del año n+2.
+
+b) La retribución en concepto de inversión se hará para aquellos activos en servicio no amortizados tomando como base para su retribución financiera el valor neto de los mismos.
+
+c) Al efecto de permitir una retribución adecuada a la de una actividad de bajo riesgo, la tasa de retribución financiera del activo con derecho a retribución a cargo del sistema eléctrico estará referenciado al rendimiento de las Obligaciones del Estado a diez años en el mercado secundario incrementado con un diferencial adecuado.
+
+d) La metodología de retribución de la actividad de transporte deberá contemplar incentivos económicos, que podrán tener signo positivo o negativo, para la mejora de la disponibilidad de las instalaciones.
+
+e) El Gobierno establecerá los criterios generales de redes y los criterios de funcionamiento de las instalaciones de producción de energía eléctrica sujetas a retribución regulada. Las metodologías retributivas que se establezcan con cargo a los ingresos del sistema eléctrico tendrán únicamente en consideración los costes derivados de aplicación de dichos criterios.
+
+En aplicación de todo lo expuesto anteriormente el presente real decreto establece una formulación para retribuir los activos de transporte con una única metodología independientemente de la fecha de obtención de la autorización de explotación de cada activo. Esta metodología se formula con el fin de que la retribución a percibir por los sujetos afectados sea clara, estable y predecible para así contribuir a aportar estabilidad regulatoria y lograr con ello una reducción en los costes de financiación de la actividad de transporte y con ello, de los costes del sistema eléctrico.
+
+Por otra parte, y puesto que la actividad de transporte tiene carácter de monopolio natural y se cuenta con un transportista único desde la aprobación de la Ley 17/2007, de 4 de julio, por la que se modifica la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, para adaptarla a lo dispuesto en la Directiva 2003/54/CE, del Parlamento Europeo y del Consejo, de 26 de junio de 2003, sobre normas comunes para el mercado interior de la electricidad, salvo las excepciones previstas en el artículo 35.2 de la Ley 54/1997, de 27 de noviembre, mediante este real decreto se establecen herramientas que introducen eficiencia tanto en la construcción de las infraestructuras, especialmente las de carácter singular, como en la operación y mantenimiento de las redes.
+
+Es necesario destacar que aunque casi la totalidad de los activos de la red de transporte se encuentran en manos del transportista único, tal y como se recoge en el apartado anterior existen activos de transporte que pueden excepcionalmente ser titularidad de empresas distribuidoras al amparo tanto del artículo 35.2 de la Ley 54/1997, de 27 de noviembre, como del artículo 34.2 de la Ley 24/2013, de 26 de diciembre, es por ello que a lo largo del presente real decreto se habla de las empresas titulares de activos de transporte o incluso de los transportistas, puesto que respecto a estos activos las empresas distribuidoras habrán de asumir las obligaciones y derechos del transportista único.
+
+Asimismo, en la presente norma se introducen criterios destinados al control del volumen de inversión y al control de costes derivados de la proliferación de normativa de carácter autonómico y local, que ha provocado soterramientos masivos de líneas y blindajes de subestaciones en determinados territorios que se han traducido en un aumento de costes de la actividad de transporte que se han trasladado a los peajes de acceso.
+
+Por razones de claridad y simplificación normativa se regula en el presente real decreto el incentivo de disponibilidad de la red de transporte para de esta forma contener en una única norma el régimen retributivo de las empresas titulares de instalaciones de la red de transporte.
+
+En el Capítulo IX se ha introducido un pago por estudio de conexión y un pago por estudio de acceso a la red de distribución que será sufragado por los productores de energía eléctrica por la realización de dichos estudios para las instalaciones de generación.
+
+De acuerdo con lo previsto en la disposición adicional undécima.Tercero.1.quinta de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, en relación con el artículo 5 y las disposiciones adicionales primera y segunda, así como en la disposición transitoria tercera de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia el presente real decreto ha sido informado por la Comisión Nacional de Energía y, para la elaboración de este informe se han tomado en consideración las observaciones y comentarios del Consejo Consultivo de Electricidad de dicha comisión, a través del cual se ha evacuado el trámite de audiencia.
+
+La Comisión Delegada del Gobierno para Asuntos Económicos ha informado este real decreto en su reunión del día 19 de diciembre de 2013.
+
+En su virtud, a propuesta del Ministro de Industria, Energía y Turismo, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 27 de diciembre de 2013,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones Generales
+
+### Artículo 1. Objeto.
+
+El presente real decreto tiene por objeto establecer:
+
+1\. La metodología para determinar la cuantía a retribuir a las empresas titulares de instalaciones de transporte de energía eléctrica por la construcción, operación y mantenimiento de éstas.
+
+2\. El régimen económico de los pagos por los estudios de acceso y conexión a las redes de transporte.
+
+### Artículo 2. Ámbito de aplicación.
+
+La metodología definida en el presente real decreto será de aplicación a aquellos activos que por sus características sean catalogados como red de transporte de acuerdo a los criterios establecidos en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, y que cuenten con:
+
+a) Autorización de explotación con anterioridad a 1 de enero de 2008 que a la entrada en vigor del presente real decreto se encuentren en servicio.
+
+b) Autorización de explotación desde el 1 de enero de 2008 y que pertenezcan a la red de transporte primario o que pertenezcan a la red de transporte secundario y que cuenten con el informe favorable a que se hacía referencia en el artículo 36.3 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico o con el informe favorable a que se hace referencia en el artículo 35.2 de la Ley 24/2013, de 26 de diciembre, todo ello, de acuerdo a los criterios recogidos en el artículo 5 del presente real decreto.
+
+## CAPÍTULO II — Criterios generales
+
+### Artículo 3. Criterios generales de retribución de la actividad de transporte.
+
+1\. La metodología desarrollada en el presente real decreto para la retribución de la actividad de transporte tendrá como finalidad establecer la formulación para remunerar la construcción, operación y mantenimiento de las redes de transporte incentivando la mejora continua de la eficacia de la gestión y de la disponibilidad de las redes, la eficiencia económica y técnica, todo ello, con criterios homogéneos para todo el territorio español y al mínimo coste para el sistema eléctrico.
+
+2\. La retribución de la actividad de transporte se determinará atendiendo a periodos regulatorios de seis años de duración.
+
+3\. Antes del 15 de julio del año anterior al del inicio de cada periodo regulatorio, por orden del Ministro de Industria, Energía y Turismo, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, se establecerán el conjunto de parámetros técnicos y económicos que se utilizarán para el cálculo de la retribución de la actividad de transporte durante todo el periodo regulatorio.
+
+A estos efectos, la Comisión Nacional de los Mercados y la Competencia, remitirá un informe al Ministerio de Industria, Energía y Turismo antes del 15 de mayo del último año de cada periodo regulatorio. Dicho informe incluirá una propuesta del conjunto de parámetros para el cálculo de la retribución de acuerdo a la metodología establecida en el presente real decreto.
+
+4\. Entre los parámetros técnicos y económicos que podrán ser revisados antes del inicio de cada periodo regulatorio en la orden señalada se encontrarán:
+
+a) Los valores unitarios de referencia de inversión y de operación y mantenimiento y las vidas útiles de las instalaciones de la red de transporte a que se hace referencia en el artículo 15 del capítulo V.
+
+b) Los factores de eficiencia que intervienen en los índices de actualización de los valores unitarios de referencia y los coeficientes que se recogen en el artículo 16 del capítulo V.
+
+c) La disponibilidad objetivo de la red de transporte para el periodo regulatorio que se recoge en el artículo 24.
+
+La tasa de retribución financiera del activo de transporte con derecho a retribución a cargo del sistema eléctrico, también será un parámetro económico que podrá ser modificado al inicio de cada periodo regulatorio en los términos previstos en el artículo 8.
+
+### Artículo 4. Devengo y cobro de la retribución.
+
+1\. De acuerdo con lo dispuesto en el artículo 14.8.a) de la Ley 24/2013, de 26 de diciembre, el devengo y el cobro de la retribución generado por instalaciones de transporte puestas en servicio el año n se iniciará desde el 1 de enero del año n+2.
+
+2\. De conformidad con lo establecido en el artículo 18.2 de la Ley 24/2013, de 26 de diciembre, el cobro de dicha retribución se realizará con cargo a las liquidaciones del ejercicio para el que se hayan establecido, aplicándose la misma distribución de cobro que al resto de actividades con retribución regulada.
+
+### Artículo 5. Criterios generales de retribución de redes de transporte.
+
+1\. Las líneas de la red de transporte que discurran en suelo rural cuya autorización de explotación se haya obtenido en fecha posterior a la de entrada en vigor del presente real decreto serán retribuidas como líneas aéreas.
+
+Asimismo, para que una línea de transporte sea retribuida como soterrada deberá discurrir por suelo urbanizado y haber sido recogida expresamente con dicha característica en el instrumento de planificación de la red de transporte que se encuentre en vigor.
+
+Para la consideración de suelo urbanizado se estará a lo establecido en el texto refundido de la Ley del Suelo, aprobado por el Real Decreto Legislativo 2/2008, de 20 de junio.
+
+2\. No obstante lo señalado en el apartado anterior, en los últimos 500 metros previos a una subestación blindada, las líneas de la red de transporte podrán construirse y retribuirse como soterradas aunque figurasen como líneas aéreas en la planificación de la red de transporte.
+
+3\. Para que una subestación sea retribuida como blindada, ésta deberá estar contemplada con esa característica en la planificación de la red de transporte que se encuentre en vigor.
+
+4\. A los efectos del presente real decreto, se considerará que una línea está en servicio y por tanto podrá ser objeto de retribución cuando dicha instalación cuente autorización de explotación para la totalidad del tramo que discurre entre dos interruptores.
+
+5\. En las subestaciones de la red de transporte se retribuirán las posiciones que se encuentren equipadas y como máximo un número de posiciones de reserva equivalente al de una calle de acuerdo con la configuración de la subestación.
+
+6\. En la retribución de las instalaciones de la red de transporte con cargo al sistema eléctrico se considerarán exclusivamente la inversión o los costes de operación y mantenimiento reconocidos por la normativa básica estatal en los términos establecidos en este real decreto.
+
+De acuerdo con el artículo 15 de la Ley 24/2013, de 26 de diciembre, las empresas a las que se aplique, en alguna de sus áreas normas específicas sobre redes, unos niveles de calidad superiores a los fijados por la normativa estatal o unos criterios de diseño de redes que supongan unos mayores costes en la actividad de transporte, podrán establecer convenios u otros mecanismos con las Administraciones Públicas para cubrir el sobrecoste ocasionado.
+
+7\. En el informe que deberá emitir la Dirección General de Política Energética y Minas a que se hace referencia en el artículo 35.2 de la Ley 24/2013, de 26 de diciembre, se deberán hacer constar los criterios generales que, de acuerdo al contenido del presente artículo, se emplearán para la retribución de la instalación.
+
+## CAPÍTULO III — Determinación de la retribución de las empresas titulares de activos de la red de transporte
+
+### Artículo 6. Retribución de una empresa transportista.
+
+1\. El Ministro de Industria, Energía y Turismo, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, y a propuesta de la Comisión Nacional de los Mercados y la Competencia, establecerá anualmente la retribución reconocida a cada empresa titular de instalaciones de transporte de energía eléctrica.
+
+A estos efectos, la Comisión Nacional de los Mercados y la Competencia, remitirá un informe al Ministerio de Industria, Energía y Turismo antes del 1 de octubre de cada año, con la propuesta de retribución para el año siguiente. Dicha propuesta deberá contener la retribución total a percibir por cada una de las empresas y el desglose de retribución para cada una de las instalaciones de la empresa en función del año de obtención de la autorización de explotación, de acuerdo con la fórmula prevista en el apartado 2. El informe anterior deberá contener una propuesta sobre la cuantía a percibir por la empresa transportista i el año n en concepto de incentivo a la disponibilidad ofrecido por sus instalaciones de transporte el año n-2.
+
+El informe señalado en el párrafo anterior deberá contener un anexo en formato electrónico de hoja de cálculo con el desglose de retribución por instalación dividido a su vez en retribución por operación y mantenimiento y por inversión, detallando la vida residual de cada una de las instalaciones y el valor de inversión con derecho a retribución a cargo del sistema. Este anexo digital remitido al Ministerio de Industria, Energía y Turismo tendrá carácter confidencial con el fin de evitar la difusión de información sensible a efectos comerciales.
+
+Asimismo se adjuntará una proyección de la retribución para los próximos seis años de acuerdo con el artículo 13.6 de la Ley 24/2013, de 26 de diciembre.
+
+2\. La retribución para el año n de una empresa transportista será la suma de la retribución de cada una de las instalaciones de transporte de su propiedad que se encuentren en servicio el año n-2 y del incentivo de disponibilidad:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_002.png) Retribución en el año n que percibe una empresa transportista i vinculada a las instalaciones de su titularidad en servicio el año n-2.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_003.png) Retribución de la instalación j perteneciente a la empresa transportista i en el año n por el hecho de estar en servicio el año n-2.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_004.png) Incentivo de disponibilidad de la empresa transportista i percibido el año n asociado al grado de disponibilidad ofrecido por sus instalaciones de transporte el año n-2.
+
+### Artículo 7. Retribución de cada una de las instalaciones de la red de transporte.
+
+1\. La retribución anual a percibir por el elemento de inmovilizado j de la red de transporte en el año n por estar en servicio el año n-2 se denominará ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_005.png) y se calculará como:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_006.png) donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_007.png) Retribución de inversión del elemento de inmovilizado j en el año n por el hecho de estar en servicio el año n-2 y no haber superado su vida útil regulatoria.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_008.png) Retribución de operación y mantenimiento del elemento de inmovilizado j en el año n por el hecho de estar en servicio el año n-2.
+
+2\. La retribución a la inversión de una instalación de la red de transporte se calculará de acuerdo con la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_009.png) donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_010.png) Retribución por amortización de la inversión del elemento de inmovilizado j en el año n.
+
+La retribución por amortización de la inversión de la instalación j, se obtendrá a partir de los valores de inversión, de acuerdo con la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_011.png) Donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_012.png) Valor de la inversión con derecho a retribución a cargo del sistema de la instalación j de acuerdo al artículo 10 y a la disposición transitoria segunda del presente real decreto.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_013.png) Vida útil regulatoria de la instalación j expresada en años. Con carácter general tomará un valor de 40 años salvo que en la orden que fije los valores unitarios de referencia a que se hace referencia en el Capítulo V se disponga otro valor específicamente para ese tipo de instalación o activo. Los despachos de maniobra con carácter general tendrán una vida útil regulatoria de 12 años. La vida útil regulatoria de una instalación será aquella que establezca la orden de valores unitarios de referencia que le sea de aplicación en función del momento de obtención de la autorización de explotación para una instalación de igual tipología.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_014.png) Retribución financiera de la inversión de la instalación j en el año n. Este término se calculará cada año n aplicando la tasa de retribución al valor neto de la inversión, conforme a la siguiente formulación:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_015.png) Donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_016.png) es la tasa de retribución financiera del año n a aplicar a la instalación j durante el periodo regulatorio calculada de acuerdo a lo dispuesto en el artículo 8.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_017.png) Valor neto de la inversión de la instalación j con derecho a retribución a cargo del sistema el año n. Este valor se calculará de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_018.png)
+
+k: número de años transcurridos desde la obtención de la autorización de explotación de la instalación.
+
+3\. La retribución en concepto de operación y mantenimiento a percibir por la instalación no singular de la red de transporte j el año n como consecuencia de haber estado en servicio el año n-2, ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_019.png) será la resultante de aplicar el valor unitario de operación y mantenimiento a la instalación j. Este valor se calculará de acuerdo a la expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_020.png) Donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_021.png) es el valor unitario de referencia de operación y mantenimiento del año n-2 aplicable a la instalación j por sus características técnicas.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_022.png) unidades físicas de la instalación j.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_023.png) Factor de retardo retributivo de la operación y mantenimiento de la instalación j Este factor se deriva del coste financiero motivado por el retraso entre la puesta en servicio de la instalación j y el inicio del devengo de retribución por operación y mantenimiento. Este valor se calculará como:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_024.png) donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_025.png) es la tasa de retribución financiera del año n-2.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_026.png) es el tiempo de retardo retributivo de la operación y mantenimiento de la instalación j expresado en años. Este parámetro tomará los siguientes valores:
+
+a) Para todas las instalaciones puestas en servicio antes del 1 de enero de 2011 su valor será nulo.
+
+b) Para las instalaciones puestas en servicio desde el 1 de enero de 2011, su valor será uno.
+
+Los valores unitarios de referencia anuales a aplicar en concepto de retribución por operación y mantenimiento a la instalación j, serán los recogidos en la orden ministerial a que se hace referencia en el Capítulo V.
+
+La retribución por operación y mantenimiento de instalaciones singulares se calculará de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_027.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_028.png) es la retribución por operación y mantenimiento base de una instalación singular que se recoge en la orden de declaración de singularidad establecida en el artículo 19.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_029.png) actualizador de los valores unitarios de referencia de operación y mantenimiento empleados en el cálculo de la retribución por operación y mantenimiento definido en el artículo 16.2. Para el cálculo de la retribución por operación y mantenimiento de una instalación singular este parámetro tomará como valor 1 el primer año en que devenga retribución dicha instalación singular.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_030.png) Factor de retardo retributivo de la operación y mantenimiento señalado anteriormente.
+
+Las instalaciones que cesen su operación de forma definitiva en el año n-2 percibirán el año n en concepto de operación y mantenimiento la parte proporcional al número de días que hubieran estado en servicio dicho año dejando de percibir retribución a partir de ese momento.
+
+Asimismo, las empresas que pongan en servicio instalaciones en el año n-2, percibirán en concepto de operación y mantenimiento el año n la parte proporcional al número de días que hubieran estado en servicio el año n-2.
+
+### Artículo 8. Tasa de retribución financiera del activo de transporte con derecho a retribución a cargo del sistema eléctrico.
+
+1\. La tasa de retribución financiera del activo de transporte con derecho a retribución a cargo del sistema eléctrico se calculará como la media del rendimiento de las Obligaciones del Estado a diez años en el mercado secundario de los 24 meses previos al mes de mayo del año anterior al de inicio del periodo regulatorio incrementada en un diferencial.
+
+2\. Antes del comienzo del siguiente período regulatorio podrá modificarse la tasa de retribución financiera de acuerdo con lo dispuesto en el artículo 14.4 de la Ley 24/2013, de 26 de diciembre.
+
+A tal efecto, antes del 1 de enero del último año del período regulatorio correspondiente, el Ministro de Industria, Energía y Turismo, elevará al Consejo de Ministros un anteproyecto de ley en el que se recogerá una propuesta del valor que tomará el diferencial señalado en el apartado anterior en el periodo regulatorio siguiente.
+
+Para fijar este valor, el Ministerio de Industria, Energía y Turismo podrá recabar informe de la Comisión Nacional de los Mercados y la Competencia que deberá emitirse antes del 1 de julio del penúltimo año del periodo regulatorio correspondiente, así como contratar los servicios de una entidad especializada.
+
+Asimismo, y antes del 1 de marzo del penúltimo año del periodo regulatorio correspondiente, los interesados podrán remitir al Ministerio de Industria, Energía y Turismo de forma detallada y motivada una propuesta que deberá incluir una cuantificación numérica del resultado de la misma con los datos conocidos en ese momento, indicando qué información es estimada o supuesta y cuál se deriva de datos reales auditados de la empresa proponente o del sector.
+
+3\. De conformidad con lo previsto en el artículo 14.4 de la Ley 24/2013, de 26 de diciembre, para la determinación de la propuesta del valor que tomará el diferencial se atenderá a los siguientes criterios:
+
+a) Retribución adecuada a la de una actividad de bajo riesgo considerando la situación financiera del sistema eléctrico y la situación cíclica de la economía española.
+
+b) Coste de financiación de las empresas transportistas comparables eficientes y bien gestionadas de la Unión Europea.
+
+c) Necesidades de inversión del siguiente periodo regulatorio de acuerdo a las estimaciones de evolución de la demanda
+
+En ningún caso, la propuesta de variación de la tasa de retribución financiera empleada entre dos años consecutivos podrá ser superior en valor absoluto a 50 puntos básicos. En el caso de que resultara una variación superior, la propuesta de cambio del valor en la tasa de retribución se efectuará en el número de años que resulte necesario a fin de no superar dicho límite.
+
+### Artículo 9. Extensión de la vida útil de las instalaciones de la red de transporte.
+
+1\. Una vez finalizada la vida útil regulatoria de la instalación de transporte j, la retribución devengada por dicha instalación en concepto de retribución por inversión será nula.
+
+2\. La retribución por operación y mantenimiento de la instalación j el año n, ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_031.png) será la que le corresponda de acuerdo a la formulación del artículo 7 multiplicada por un coeficiente de extensión de vida útil denominado ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_032.png). Este parámetro tomará los siguientes valores:
+
+a) Durante los cinco primeros años en que se haya superado la vida útil regulatoria de la instalación ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_033.png)
+
+b) Cuando la instalación haya superado su vida útil regulatoria entre 6 y 10 años, el valor del coeficiente de extensión de la vida útil será:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_034.png) donde:
+
+x es el número de años que la instalación ha superado su vida útil regulatoria.
+
+c) Cuando la instalación haya superado su vida útil regulatoria entre 11 y 15 años, el valor del coeficiente de extensión de la vida útil será:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_035.png) donde:
+
+x es el número de años que la instalación ha superado su vida útil regulatoria.
+
+d) Cuando la instalación haya superado su vida útil regulatoria en más de 15 años, el valor del coeficiente de extensión de la vida útil será:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_036.png) donde:
+
+x es el número de años que la instalación ha superado su vida útil regulatoria.
+
+El parámetro ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_037.png) no podrá tomar un valor superior a 2.
+
+### Artículo 10. Cálculo del valor de inversión con derecho a retribución a cargo del sistema.
+
+1\. El valor de inversión con derecho a retribución a cargo del sistema de los nuevos elementos puestos en servicio por la empresa i el año n-2, ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_038.png) se establecerá para las nuevas instalaciones puestas en servicio el año n-2 con carácter anual, junto con la retribución de cada empresa, por orden del Ministro de Industria, Energía y Turismo, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, a propuesta de la Comisión Nacional de los Mercados y la Competencia y se calculará como:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_039.png) donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_040.png) Es el valor de la inversión con derecho a retribución a cargo del sistema de la instalación j perteneciente a la empresa transportista i.
+
+La propuesta de valor de inversión con derecho a retribución a cargo del sistema de cada instalación será remitida por la Comisión Nacional de los Mercados y la Competencia junto con el informe señalado en el artículo 6.
+
+Una vez establecido el valor de inversión con derecho a retribución de la instalación j, este no podrá ser modificado durante toda la vida de la instalación.
+
+2\. El valor ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_041.png) de inversión con derechos a retribución a cargo del sistema de la instalación j que ha obtenido autorización de explotación el año n-2 se calculará como:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_042.png)
+
+donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_043.png) es un coeficiente en base uno que refleja el complemento a uno del valor total de inversión de dicha instalación financiado y cedido por terceros.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_044.png) valor de las ayudas públicas percibidas por la instalación j. En el caso de que estas ayudas públicas provengan de organismos de la Unión Europea, este valor será el 90 por ciento del importe percibido.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_045.png) valor auditado de inversión de la instalación j que ha obtenido la autorización de explotación el año n-2.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_046.png) valor de la inversión de la instalación j que ha obtenido la autorización de explotación el año n-2 calculado empleando los valores unitarios de referencia señalados en el Capítulo V.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_047.png) Factor de retardo retributivo de la inversión de la instalación j que ha obtenido la autorización de explotación el año n-2. Este factor es derivado del coste financiero motivado por el retraso entre la obtención de la autorización de explotación de la instalación j y el inicio del devengo de retribución por inversión. Este valor se calculará como:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_048.png) donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_049.png) es la tasa de retribución financiera en vigor el año en que ha obtenido la autorización de explotación la instalación j.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_050.png) es el tiempo de retardo retributivo de la instalación j expresado en años con una precisión de dos decimales que mide el tiempo transcurrido desde la obtención de la autorización de explotación de la instalación j hasta que comienza el devengo de retribución de la misma.
+
+Este cálculo se realizará tanto si la diferencia ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_051.png) es positiva como si fuera negativa.
+
+En caso de que se cumpla que ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_052.png), se deberá aportar una auditoría técnica que justifique que los costes incurridos son superiores a los valores unitarios de referencia por sus especiales características y/o problemáticas.
+
+Asimismo, en ningún caso la cuantía a sumar al valor de inversión auditada, es decir, ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_053.png), podrá ser superior al 12,5 por ciento de dicho valor auditado.
+
+Para el cálculo de los valores de inversión reales, se descontarán aquellos impuestos indirectos en los que la normativa fiscal vigente prevea su exención o devolución y aquellos tributos a los que se hace referencia en el artículo 16.4 de la Ley 24/2013, de 26 de diciembre.
+
+3\. Sin perjuicio de las limitaciones establecidas en el artículo 19.3, para la determinación del valor de inversión con derecho a retribución a cargo del sistema de aquellas inversiones que sean clasificadas como singulares, se aplicará el procedimiento señalado en el apartado 2 del presente artículo sustituyendo en la expresión anterior el valor de inversión calculado empleando los valores unitarios de referencia por el valor de inversión que figure en la solicitud de singularidad presentado por la empresa para su clasificación como singular a que se hace referencia en el artículo 19 del presente real decreto.
+
+4\. Aquellas instalaciones que deban ser construidas o financiadas por consumidores o productores de energía eléctrica y hayan sido o hubieran debido ser cedidas o financiadas de acuerdo a la normativa estatal a la red de transporte, sólo percibirán retribución en concepto de operación y mantenimiento, considerándose nulo su valor de inversión a efectos retributivos.
+
+5\. En la autorización administrativa de la instalación se especificarán los parámetros necesarios para el cálculo del valor de inversión y de operación y mantenimiento aplicando los valores unitarios de referencia señalados en el Capítulo V.
+
+## CAPÍTULO IV — Planes de inversión
+
+### Artículo 11. Planes de inversión y autorización del volumen de inversión.
+
+1\. El volumen anual de inversión de la red de transporte de energía eléctrica puesto en servicio el año n con derecho a retribución a cargo del sistema el año n+2 no podrá superar el 0,065 por ciento del producto interior bruto de España previsto por el Ministerio de Economía y Competitividad para el año n. Esta cuantía se denominará valor máximo del volumen anual de inversión sujeto a limitación de cantidad.
+
+En el volumen anual de inversión sujeto a la limitación de cantidad señalada en el párrafo anterior del presente artículo no se computará el volumen de inversión motivado por interconexiones internacionales con países del mercado interior en los términos previstos en el apartado 11 del presente artículo, si bien estas actuaciones tendrán derecho a retribución en los términos previstos en el presente real decreto.
+
+En el caso de que se produjeran hechos, causas económicas o técnicas imprevistos en el momento de aprobación de la planificación o de sus programas anuales, el valor máximo del volumen de inversión sujeto a limitación de cantidad podrá ser modificado al alza o a la baja por orden del Ministro de Industria, Energía y Turismo, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos. A estos efectos tendrán tal consideración:
+
+a) Crecimientos anuales de la demanda durante más de tres años consecutivos superiores en un cien por cien al previsto en la planificación del sistema.
+
+b) Crecimientos de la demanda durante más de dos años consecutivos inferiores en un 50 por ciento a los previstos en la planificación del sistema.
+
+c) Crecimientos elevados en el precio del mercado imputables a restricciones ocasionadas por la red de transporte.
+
+d) Crecimientos en el producto interior bruto durante más de dos años consecutivos superiores o inferiores en un cincuenta por ciento a los previstos por el Ministerio de Economía y Competitividad.
+
+e) Refuerzos o nuevas instalaciones de la red de transporte nacional con el objetivo de aumentar la utilización de las interconexiones internacionales vinculadas a un aumento de la capacidad de interconexión internacional no prevista en el momento de aprobación de la planificación de la red de transporte.
+
+f) Nuevos suministros cuya alimentación por motivos técnicos únicamente pueda realizarse desde la red de transporte y ésta no pudiera realizarse bajo la planificación de la red de transporte vigente.
+
+2\. El valor del volumen anual de inversión previsto sujeto a limitación de cantidad con derecho a retribución a cargo del sistema el año n+2 derivado de las instalaciones que se prevé poner en servicio el año n recogido en el plan de inversión de la empresa transportista para dicho año n, no podrá superar el producto entre el volumen máximo sectorial recogido en el apartado anterior y el coeficiente resultante entre la división de la retribución aprobada para el año n-1 de la empresa i y la de la totalidad de las empresas titulares de instalaciones de transporte. Esta cuantía se denominará VPI<sup>i</sup><sub>n</sub> .
+
+Si se produjeran compras y ventas de activos entre empresas titulares de instalaciones de transporte en el año n, no se computarán dentro de las limitaciones al valor máximo del volumen de inversión sujeto a limitación de cantidad con derecho a retribución a cargo del sistema de la empresa i el año n las compras de activos de transporte pertenecientes a otra empresa k efectuados en dicho año n si éstos ya estaban siendo retribuidos por el sistema.
+
+Asimismo, si se produce una compra de activos por parte de una empresa i a otra empresa k, en el año n-1, ésta se tendrá en cuenta a los efectos del valor máximo del volumen de inversión sujeto a limitación de cantidad con derecho a retribución a cargo del sistema de cada una de las empresas que habrán de tomar como límite en el plan de inversiones que ambas empresas presenten en el año posterior al de compra. Dicha compra también se deberá considerar en el procedimiento de control de ejecución de los planes de inversión finalmente ejecutados por ambas empresas en el año de la adquisición de activos.
+
+3\. El valor máximo del volumen de inversión sujeto a limitación de cantidad con derecho a retribución a cargo del sistema podrá superarse y ser retribuido con cargo al mismo en el caso de que en una sola de las actuaciones incluidas en el plan de inversión, la previsión del valor del activo objeto de retribución a cargo del sistema valorada según los criterios establecidos en el apartado 11 del presente artículo, por si misma suponga una cuantía superior al 25 por ciento del límite de inversión establecido para dicha empresa. En ningún caso se podrá superar este límite en más de un 50 por ciento. A los efectos del presente artículo se considerará como actuación individual cada una de las recogidas en la planificación vigente, no pudiendo aglutinarse varias de ellas en una sola con el fin de superar el umbral de inversión anual máximo establecido.
+
+4\. A los efectos de la determinación de su retribución, de conformidad con lo establecido en el artículo 34.4 de la Ley 24/2013, de 26 de diciembre, los titulares de redes de transporte de energía eléctrica, antes del 1 de mayo del año n-1 deberán solicitar a la Secretaría de Estado de Energía la aprobación de sus planes de inversión anuales correspondientes al año n y los plurianuales correspondientes al periodo de 3 años comprendido entre el año n y n+2. Estos planes de inversión deberán acompañarse de una solicitud a la Secretaría de Estado solicitando su aprobación y de una valoración del volumen de inversión previsto de acuerdo a la formulación recogida en el apartado 11 del presente artículo. A tal efecto, las empresas titulares de las redes de transporte de energía eléctrica remitirán junto con la solicitud señalada en el párrafo anterior los planes en formato electrónico, en los que figurarán al menos los datos de los proyectos claramente identificados con las actuaciones recogidas en la planificación, sus principales características técnicas, los parámetros necesarios para el cálculo de su retribución, los presupuestos y el calendario de ejecución. Estos planes de inversión también deberán ser remitidos a la Comisión Nacional de los Mercados y la Competencia.
+
+Asimismo, las empresas titulares de redes de transporte deberán presentar a las comunidades autónomas y ciudades de Ceuta y Melilla afectadas el plan de inversiones respecto de las actuaciones previstas en su territorio cuya autorización sea de su competencia.
+
+En todo caso, las actuaciones incluidas en los planes de inversión anuales y plurianuales deberán:
+
+a) Estar recogidas en la planificación de la red de transporte.
+
+b) Tener una valoración económica individualizada.
+
+c) Contar con una mención en el plan de inversiones que diga si se encuentran o no sujetas a limitación de cantidad señalada en el apartado 1 del presente artículo.
+
+5\. En el caso de que los planes de inversión incluyesen algún proyecto de instalación catalogada de singular, se deberá aportar además justificación técnica y económica de la necesidad de llevar a cabo ese proyecto.
+
+6\. La Comisión Nacional de los Mercados y la Competencia, remitirá a la Secretaría de Estado de Energía antes del 15 de julio del año n-1 un informe con un análisis para el conjunto del sector y para cada una de las empresas de los planes de inversión presentados. La Comisión Nacional de los Mercados y la Competencia en su informe recogerá para cada una de las empresas y para el conjunto del sector una propuesta del volumen de inversión con derecho a retribución a cargo del sistema para el año n+2 que se deriva de los planes presentados por las empresas por las instalaciones que prevén poner en servicio el año n, así como del volumen máximo de inversión con derecho a retribución a cargo del sistema.
+
+En su caso, las comunidades autónomas o ciudades de Ceuta y Melilla correspondientes remitirán a la Secretaría de Estado antes del 15 de julio del año n-1 un informe sobre las instalaciones que discurran por su territorio y cuya autorización sea de su competencia contempladas en los planes de inversiones presentados.
+
+La Comisión Nacional de los Mercados y la Competencia notificará de manera individualizada a cada una de las empresas el resultado del análisis de sus planes de inversión.
+
+7\. La Secretaría de Estado de Energía resolverá y notificará a las empresas afectadas antes del 1 de octubre del año n-1. La resolución de aprobación de dichos planes deberá contener la cuantía máxima del volumen de inversión con derecho a retribución a cargo del sistema a ejecutar el año n, ligado a la retribución que podrá ser reconocida a la empresa el año n+2.
+
+En ningún caso, excepción hecha de los supuestos previstos en el artículo 11.3, se podrá realizar una aprobación de un plan de inversiones que supere el valor máximo del volumen máximo de inversión sujeto a limitación de cantidad con derecho a retribución a cargo del sistema de la empresa i.
+
+8\. Si la resolución recogida en el apartado anterior no hubiera sido aprobatoria o hubiera recogido observaciones o impuesto modificaciones en los planes propuestos, las empresas deberán remitir a la Secretaría de Estado de Energía y a la Comisión Nacional de los Mercados y la Competencia antes del 1 de noviembre de dicho año n-1 los planes de inversión definitivos ajustados al volumen recogido en la resolución de la Secretaría de Estado de Energía señalada en el apartado anterior. Esta remisión de los nuevos planes irá acompañada de una nueva solicitud de aprobación a la Secretaría de Estado de Energía, señalando motivadamente que se cumple con los requisitos exigidos y de una nueva valoración del volumen de inversión previsto en los términos recogidos en el presente artículo.
+
+Asimismo, las empresas titulares de redes de transporte deberán presentar el plan de inversiones a las comunidades autónomas y ciudades de Ceuta y Melilla afectadas respecto de las actuaciones previstas en su territorio cuya autorización sea de su competencia.
+
+En su caso, las comunidades autónomas o Ciudades de Ceuta y Melilla correspondientes remitirán a la Secretaría de Estado antes del 15 de noviembre del año n-1 un informe sobre las instalaciones que discurran por su territorio y cuya autorización sea de su competencia contempladas en los planes de inversiones presentados.
+
+Asimismo, la Comisión Nacional de los Mercados y la Competencia remitirá informe a la Secretaría de Estado de Energía sobre los planes de inversión en los mismos plazos.
+
+9\. Antes del 1 de diciembre de dicho año, la Secretaría de Estado de Energía resolverá sobre la nueva solicitud. Si la misma resultase de nuevo desfavorable, el valor máximo del volumen de inversión sujeto a limitación de cantidad a ejecutar el año n, ligado a la retribución que podrá ser reconocida a la empresa el año n+2 no podrá superar en ningún caso el 85 por ciento del valor máximo del volumen de inversión sujeto a limitación de cantidad que se deriva de la aplicación de los apartados uno y dos del presente artículo.
+
+En ningún caso, excepción hecha de los supuestos previstos en el artículo 11.3, se podrá realizar una aprobación de un plan de inversiones que supere el valor máximo del volumen de inversión con derecho a retribución a cargo del sistema de la empresa i.
+
+10\. De no emitirse cualquiera de los informes recabados en los plazos señalados en los apartados anteriores, se podrán proseguir las actuaciones de acuerdo con lo dispuesto en el artículo 83 de la Ley 30/1992, de 26 de noviembre.
+
+11\. La valoración del valor del volumen anual de inversión previsto sujeto a limitación de cantidad que se presentará en los planes de inversión con derecho a retribución a cargo del sistema el año n+2 que la empresa i prevé poner en servicio el año n, VPI<sup>i</sup><sub>n</sub> , se realizará de acuerdo a la siguiente formulación:
+
+![Imagen: img/disp/2015/285/12896_001.png](https://www.boe.es/datos/imagenes/disp/2015/285/12896_001.png)
+
+Dónde:
+
+a) Para la evaluación del valor del volumen de inversión de las instalaciones no singulares, ![Imagen: img/disp/2015/285/12896_002.png](https://www.boe.es/datos/imagenes/disp/2015/285/12896_002.png), se emplearán los valores unitarios de referencia de inversión a que se hace referencia en el Capítulo V.
+
+b) Para la evaluación del valor del volumen de inversión de las instalaciones singulares, ![Imagen: img/disp/2015/285/12896_003.png](https://www.boe.es/datos/imagenes/disp/2015/285/12896_003.png), se valorarán con las cantidades recogidas en el proyecto de ejecución.
+
+c) Se descontarán del valor del volumen de inversión total las cesiones y las inversiones financiadas por terceros que se prevea percibir ![Imagen: img/disp/2015/285/12896_004.png](https://www.boe.es/datos/imagenes/disp/2015/285/12896_004.png)
+
+d) Para las instalaciones que provengan de situaciones especiales recogidas en los artículos 17 y 18 se considerarán los valores de los volúmenes de inversión ![Imagen: img/disp/2015/285/12896_005.png](https://www.boe.es/datos/imagenes/disp/2015/285/12896_005.png) y las fechas de obtención de la autorización de explotación contempladas en los artículos 17.4 y 18.3 respectivamente.
+
+e) *AY* <sup>i</sup><sub>n</sub> valor de las ayudas públicas percibidas por la empresa i. En el caso de que estas ayudas públicas provengan de organismos de la Unión Europea, este valor será el 90 por ciento del importe percibido
+
+f) *FRRI* <sup>i</sup><sub>n</sub> Factor de retardo retributivo de la inversión.–Este parámetro se calculará de acuerdo a la formulación recogida en el artículo 10 suponiendo un retardo en el devengo y cobro desde la obtención de la autorización de explotación de un año y medio.
+
+g) ![Imagen: img/disp/2015/285/12896_006.png](https://www.boe.es/datos/imagenes/disp/2015/285/12896_006.png); Es la suma del valor del volumen de inversión de las interconexiones internacionales j con países del mercado interior que la empresa i prevé poner en servicio el año n. Para el cálculo de este término asociado a cada una de las actuaciones de interconexión internacional con países del mercado interior, se deberán descontar:
+
+– El valor del volumen de inversión financiado y cedido por terceros contemplado en el párrafo c) del presente apartado que sea debido a interconexiones internacionales con países del mercado interior.
+
+– El valor del volumen de ayudas internacionales contemplado en el párrafo e) del presente apartado que sea debido a interconexiones internacionales con países del mercado interior.
+
+A los efectos establecidos en el presente artículo tendrán consideración de inversión en interconexión internacional la propia línea de interconexión, la subestación a la que se conecte y, en su caso, la estación conversora.
+
+> Se modifica por el art. 1.1 del Real Decreto 1073/2015, de 27 de noviembre. [Ref. BOE-A-2015-12896](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12896).
+
+### Artículo 12. Control de ejecución de los planes de inversión.
+
+1\. Anualmente las empresas titulares de instalaciones de transporte presentarán ante la Comisión Nacional de los Mercados y la Competencia, antes del 1 de junio del año n-1 un informe en el que se acredite el grado de cumplimiento del plan de inversión ejecutado el año n-2.
+
+En dicho informe se deberán motivar las causas que hubieran provocado que aquellas instalaciones incluidas en los planes de inversión presentados en los años anteriores no se hayan puesto en servicio o en las que se esté incurriendo en retrasos significativos respecto a los plazos previstos así como el riesgo que esto supone para la seguridad de suministro y las incidencias que pudiera tener sobre otros agentes.
+
+Asimismo, en dichos informes deberán constar aquellas actuaciones que no estando previstas en los planes de inversión se hubieran llevado a cabo previa autorización de la Secretaría de Estado de Energía, debiéndose motivar las razones por las que se ejecutaron dichas inversiones. En todo caso, estas inversiones deberán estar contempladas en la planificación de la red de transporte vigente en el momento de inicio de la tramitación, construcción y obtención de la autorización de explotación de la instalación.
+
+Para la evaluación del valor del volumen de inversión con derecho a retribución a cargo del sistema finalmente ejecutado se empleará la formulación señalada en el artículo 10.
+
+2\. Con el fin de incentivar el cumplimiento de los planes de inversión, aquellas empresas que durante tres años consecutivos, desde el año n-4 al año n-2, tengan un valor del volumen de inversión sujeto a limitación de cantidad con derecho a retribución a cargo del sistema inferior en un 25 por ciento al aprobado para esos años por la Secretaría de Estado de Energía en los planes de inversión de dichas empresas, verán minorada en los tres años siguientes, del año n al n+2, la cuantía máxima que se establece como límite del valor máximo del volumen de inversión sujeto a limitación de cantidad con derecho a retribución a cargo del sistema a que hace referencia el artículo 11.2 en un 10 por ciento.
+
+Lo dispuesto en los párrafos anteriores no será de aplicación si el motivo por el que se ha obtenido un menor valor del volumen de inversión sujeto a limitación de cantidad con derecho a retribución a cargo del sistema se debe a la percepción de un volumen de ayudas públicas o de instalaciones financiadas o cedidas por terceros superiores a los previstos o si es debido a que se han ejecutado las inversiones previstas a un valor de inversión real auditada inferior a la valoración realizada empleando valores unitarios de referencia
+
+En el caso de que una empresa i superase el valor máximo del volumen de inversión sujeto a limitación de cantidad con derecho a retribución a cargo del sistema el año n establecido en la resolución de aprobación de los planes de inversión de la Secretaría de Estado de Energía señalada en los artículos 11.7 y 11.9 debido a los elementos puestos en servicio el año n-2 y no cumpliese los requisitos previstos en el artículo 11.3:
+
+a) Si fuera en una cantidad superior al 5 por ciento e inferior al 15 por ciento y el año previo no se hubiera superado la cantidad aprobada para ese año, el valor máximo del volumen de inversión sujeto a limitación de cantidad que se establece como límite máximo de inversión a que se hace referencia en el artículo 11.2 se verá minorado en un 5 por ciento para el año n.
+
+b) Si fuera en una cantidad superior al 5 por ciento e inferior al 15 por ciento durante dos o más años consecutivos, el valor máximo del volumen de inversión sujeto a limitación de cantidad a que hace referencia en el artículo 11.2 se verá minorado en la misma cantidad el año n.
+
+c) Si se hubiera superado el valor del volumen aprobado en una cuantía igual o superior al 15 por ciento y menor al 25 por ciento, el devengo de todas las retribuciones de dicho exceso puesto en servicio el año n-2 se verá minorado en un 25 por ciento durante el año n. Asimismo, el valor máximo del volumen de inversión sujeto a limitación de cantidad que establece como límite máximo de inversión sujeto a limitación de cantidad a que se hace referencia en el apartado 11.2 para el año n se verá minorado en 1,25 veces el exceso de volumen.
+
+d) Si se superase el valor del volumen señalado en el párrafo anterior en una cantidad superior al 25 por ciento el devengo de todas las retribuciones de dicho exceso puesto en servicio el año n-2 se verá minorado en un 75 por ciento durante el año n. Asimismo, el valor máximo del volumen de inversión a que se hace referencia en el artículo 11.2 para el año n se verá minorado en 1,25 veces el exceso de volumen.
+
+> Se modifica por el art. 1.2 del Real Decreto 1073/2015, de 27 de noviembre. [Ref. BOE-A-2015-12896](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12896).
+
+### Artículo 13. Adecuación del contenido de los planes de inversión con la planificación de la red de transporte.
+
+1\. Con el fin de que la planificación de la red de transporte se adecúe a las limitaciones de cantidad previstas en el artículo 11, la cuantía máxima del valor del volumen de inversión recogido en planificación para cada uno de los años estará sujeto a los límites previstos en el señalado artículo 11, excepción hecha de los supuestos que en dicho artículo se prevén.
+
+A tal efecto, el valor del volumen de inversión previsto en planificación sujeto a limitación de cantidad se calculará de acuerdo con la formulación recogida en el artículo 11.11 del presente real decreto.
+
+El valor del volumen de inversión previsto en planificación sujeto a limitación de cantidad podrá alcanzar para algunos años hasta 1,2 veces el límite máximo anual establecido en el artículo 11 del presente real decreto para dicho año, siempre que para el conjunto total de años que abarque la planificación, el volumen total de inversión sujeto a limitación de cantidad no supere la suma de las limitaciones de cada uno de los años para los que se apruebe dicha planificación.
+
+No obstante, el valor del volumen de inversión anual sujeto a limitación de cantidad con derecho a retribución a cargo del sistema incluido en el plan de inversiones no podrá superar los límites anuales previstos en el artículo 11.1 excepción hecha de los supuestos que en dicho artículo se prevén.
+
+2\. Los programas anuales contemplados en el capítulo II del título II del Real Decreto 1955/2000, de 1 de diciembre, deberán en todo caso adecuar las fechas de autorización de explotación que figuren en la planificación en vigor a las más probables en función de la mejor información disponible y de los límites de inversión establecidos en aplicación del presente Capítulo III.
+
+En el caso en que resultase necesario priorizar la ejecución de instalaciones para no superar el volumen máximo de inversión objeto de retribución previsto en el artículo 11.1, los titulares de la red de transporte, en la presentación de sus planes de inversión, deberán priorizar la ejecución de las actuaciones. Los criterios de priorización serán:
+
+a) Seguridad de suministro.
+
+b) Proyectos estratégicos para el conjunto del Estado.
+
+c) Peticiones firmes de nuevos suministros y de apoyos a la red de distribución.
+
+d) Actuaciones relacionadas con la evacuación de la generación. A su vez dentro de esta, la priorización responderá a los siguientes criterios:
+
+1.º Minimización de costes para el conjunto del sistema vinculados a la construcción de dicha infraestructura de la red de transporte y a la producción de energía de las plantas de generación a las que la puesta en servicio de dicha instalación de transporte permita su funcionamiento.
+
+2.º Fecha de obtención de la autorización de explotación prevista en la planificación.
+
+3.º Grado de ejecución del proyecto de generación.
+
+3\. En el caso en que resultase necesario realizar una priorización para no superar el valor máximo del volumen de inversión anual sujeto a limitación de cantidad, ésta deberá ser advertida por el transportista en el documento de remisión de los planes de inversión a la Secretaría de Estado de Energía e informada por el operador del sistema. A tal efecto, la Secretaría de Estado de Energía remitirá copia de dichos planes de inversión presentados por las empresas transportistas al operador del sistema, con el fin de que éste informe sobre dicha priorización antes del 15 de junio del año n-1.
+
+> Se modifica por el art. 1.3 del Real Decreto 1073/2015, de 27 de noviembre. [Ref. BOE-A-2015-12896](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12896).
+
+### Artículo 14. Contenido y formato detallado de los planes de inversión.
+
+La Secretaría de Estado de Energía, establecerá mediante resolución el contenido y formato en el que se deberán presentar los planes de inversión anuales y plurianuales de las empresas propietarias de instalaciones de transporte previa propuesta de la Comisión Nacional de los Mercados y la Competencia.
+
+## CAPÍTULO V — Establecimiento de valores unitarios de referencia
+
+### Artículo 15. Valores unitarios de referencia de inversión y de operación y mantenimiento.
+
+1\. Por orden del Ministro de Industria, Energía y Turismo, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos y a propuesta de la Comisión Nacional de los Mercados y la Competencia, se establecerán los valores unitarios de referencia para las instalaciones de transporte peninsulares de acuerdo con los valores medios representativos del coste de las infraestructuras cuyo diseño técnico y condiciones operativas se adapten a los estándares utilizados en el sistema eléctrico peninsular. En dicha orden también se recogerán las vidas útiles regulatorias de las instalaciones de la red de transporte
+
+2\. Asimismo, por orden del Ministro de Industria, Energía y Turismo, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, y a propuesta de la Comisión Nacional de los Mercados y la Competencia, se establecerán los valores unitarios de referencia para aquellas instalaciones que tengan consideración de red de transporte en los sistemas no peninsulares, que podrán ser diferentes para cada uno de los subsistemas que se determinen a estos efectos por las especificidades derivadas de su ubicación territorial. En dicha orden también se recogerán las vidas útiles regulatorias de las instalaciones de la red de transporte.
+
+Las particularidades de estos valores unitarios de referencia respecto a los peninsulares sólo atenderán a las especificidades derivadas de su ubicación territorial y de su carácter aislado.
+
+3\. En todo caso, los valores unitarios de referencia se determinarán tomando como base la información regulatoria de costes que se establezca de acuerdo a lo previsto en el artículo 25. En ningún caso dichos valores unitarios de referencia incorporarán costes financieros, ni otros no vinculados directamente a la actividad de transporte de energía eléctrica.
+
+Los valores unitarios de referencia serán únicos para todo el territorio español, sin perjuicio de las especificidades previstas en el apartado 2.
+
+Como consecuencia del carácter de monopolio natural de la actividad de transporte de energía eléctrica y con el fin de impulsar la eficiencia en su gestión, estos valores unitarios de referencia vendrán afectados por un factor que impulse la eficiencia e introduzca competencia referencial. En el cálculo de dicho factor deberán considerarse la evolución de los costes unitarios y los aumentos de eficiencia de las empresas transportistas eficientes y bien gestionadas del entorno europeo.
+
+4\. Los valores unitarios de referencia y sus parámetros de actualización recogidos en el presente capítulo podrán ser revisados antes del inicio de cada periodo regulatorio por orden del Ministro de Industria, Energía y Turismo, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, y a propuesta de la Comisión Nacional de los Mercados y la Competencia. Si no se llevara a cabo esta revisión se entenderán prorrogados para todo el periodo regulatorio siguiente.
+
+### Artículo 16. Procedimiento de actualización de los valores unitarios de referencia de inversión y de operación y mantenimiento.
+
+**(Suprimido)**
+
+> Se suprime por el art. 1.4 del Real Decrero 1073/2015, de 27 de noviembre. [Ref. BOE-A-2015-12896](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12896).
+
+## CAPÍTULO VI — Situaciones especiales
+
+### Artículo 17. Incorporación de instalaciones existentes a la red de transporte.
+
+1\. Las infraestructuras de evacuación, las de consumo y las líneas directas cuyo trazado discurriera de manera paralela en toda su longitud o en alguno de los tramos a otras instalaciones incluidas en la planificación de la red de transporte podrán ser incorporadas a la red de transporte siempre que:
+
+a) Conlleve un beneficio económico para el sistema eléctrico.
+
+b) La instalación susceptible de ser incorporada a la red de transporte ya estuviera en servicio antes de la incorporación a la planificación de la red de transporte de una línea que resultase paralela en su totalidad o en alguno de sus tramos.
+
+Asimismo, podrán ser susceptibles de ser incorporadas a la red de transporte las subestaciones de generación o consumo si se cumplen los supuestos anteriores.
+
+2\. Para su incorporación a la red de transporte, el transportista deberá presentar la solicitud a la Dirección General de Política Energética y Minas acompañada de:
+
+a) Acuerdo entre ambas partes para el inicio de la transmisión de dicha titularidad de dicha instalación.
+
+b) Autorizaciones administrativas de la instalación a transferir.
+
+c) Auditoría de la instalación que recoja los costes de inversión en que se incurrió y los costes proporcionales al tramo de la instalación que se desea incorporar a la red de transporte.
+
+d) Años transcurridos desde la obtención de la autorización de explotación.
+
+e) Costes de adecuación si estos fueran necesarios.
+
+f) Ahorro de inversión y de retribución anual para el sistema respecto a la construcción de la instalación prevista en la planificación considerando exclusivamente los costes de retribución de la red de transporte.
+
+3\. La incorporación a la red de transporte será aprobada por resolución del Director General de Política Energética y Minas previo informe de la Comisión Nacional de los Mercados y Competencia, en el plazo máximo de tres meses. El informe de la mencionada Comisión deberá recoger:
+
+a) Una propuesta de vida útil residual de la instalación.
+
+b) Una propuesta de valor de inversión a reconocer por la instalación integrada en la red de transporte, que en ningún caso superará el valor neto de inversión resultante de calcular el valor bruto de inversión empleando los valores unitarios de referencia a que hace referencia en el Capítulo V y descontando la amortización lineal acumulada del activo de la instalación integrada..
+
+c) Un análisis coste-beneficio de la propuesta presentada por el transportista de incorporación de una infraestructura de evacuación, de generación o infraestructuras particulares de consumidores a la red de transporte incluyendo los costes de adecuación necesarios. El análisis deberá incluir una valoración de los costes evitados al sistema.
+
+4\. El valor recogido en la resolución señalada en el apartado anterior será considerado el valor de la inversión VIj a reconocer por el sistema.
+
+La fecha de transmisión de la titularidad de la instalación será la equivalente a los efectos retributivos a la de la obtención de autorización de explotación, por lo que dicha infraestructura comenzará a devengar la correspondiente retribución el 1 de enero del año n+2 siendo n el año de integración en la red de transporte. Esta fecha deberá ser comunicada a la Dirección General de Política Energética y Minas y a la Comisión Nacional de los Mercados y la Competencia.
+
+5\. Si las infraestructuras antes señaladas tuvieran o hubieran tenido la obligación de ser cedidas al titular de la red de transporte, el valor de inversión las instalaciones susceptibles de retribución a cargo del sistema será nulo.
+
+6\. Conforme a lo establecido en el artículo 4.4 de la Ley 24/2013, de 27 de diciembre, mediante Acuerdo de Consejo de Ministros, se podrán incorporar a la planificación de la red de transporte de energía eléctrica instalaciones incluidas en el anexo de carácter no vinculante al que se hace referencia en el artículo 4.4 de la referida Ley 24/2013, de 26 de diciembre, siempre que sean financiadas y cedidas por terceros. El promotor deberá asumir los costes de inversión tanto de la actuación concreta como de todas aquellas instalaciones y refuerzos necesarios para cumplir con la normativa sectorial.
+
+En todo caso, el Acuerdo de Consejo de Ministros recogerá expresamente que la ejecución de las actuaciones estará condicionada a financiación y cesión de un tercero de éstas. Asimismo, de acuerdo con lo establecido en el apartado anterior, el valor de inversión de las instalaciones susceptibles de retribución a cargo del sistema será nulo.
+
+> Se añade el apartado 6 por el art. 1.4 del Real Decreto 1073/2015, de 27 de noviembre. [Ref. BOE-A-2015-12896](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12896).
+
+### Artículo 18. Red a considerar en el otorgamiento de los permisos de acceso y conexión y adelanto de inversiones.
+
+1\. El transportista sólo podrá otorgar permisos de conexión sobre la red de transporte existente y en servicio o bien sobre la red de transporte planificada. En ningún caso se podrán otorgar puntos de conexión tanto definitivos como provisionales sobre desarrollos de red teóricos no aprobados en la planificación de la red de transporte. De igual modo el gestor de la red de transporte sólo podrá otorgar permisos de acceso sobre la red de transporte existente y en servicio o bien sobre la red de transporte planificada.
+
+2\. Los consumidores o productores de energía eléctrica que por motivos sobrevenidos deseasen una fecha de puesta en servicio más temprana que la señalada en el instrumento de planificación o en su caso en el plan de inversiones aprobado por la Dirección General de Política Energética y Minas, podrán adelantar la construcción de dicha instalación debiendo hacerse cargo de la retribución de la instalación durante el periodo correspondiente derivado de la anticipación de la puesta en servicio. Esta retribución en ningún caso será superior a la que le corresponda por aplicación de la metodología recogida en el presente real decreto.
+
+Dichas actuaciones deberán ser aprobadas mediante resolución de la Dirección General de Política Energética y Minas previo informe de la Comisión Nacional de los Mercados y la Competencia, en el plazo máximo de tres meses. La instalación puesta en servicio deberá ajustarse a los parámetros recogidos en la planificación de la red de transporte y en ningún caso, podrá percibir una retribución con cargo al sistema en una fecha anterior a la prevista para su puesta en servicio en el instrumento de planificación de la red de transporte, ni tendrá derecho al reconocimiento del valor de inversión superior al resultante de la aplicación del contenido del artículo 7.
+
+3\. La fecha de obtención de la autorización de explotación que figurase en la planificación de la red de transporte, o en el programa anual si ésta se hubiera modificado, será la equivalente a efectos retributivos a la de obtención de la autorización de explotación, por lo que dicha instalación comenzará a devengar retribución con cargo al sistema el 1 de enero del año n+2 siendo n el año de obtención de la autorización de explotación previsto en los documentos antes señalados.
+
+El valor de inversión a reconocer será el resultante de restar la amortización acumulada a la valoración de la instalación realizada con los valores unitarios a que se hace referencia en el Capítulo V.
+
+Asimismo, la vida útil residual de esta instalación será la diferencia entre la que corresponda a una instalación de esas características y los años transcurridos desde su fecha de obtención de la autorización de explotación hasta la fecha de puesta en servicio que figurase en la planificación
+
+### Artículo 19. Inversiones singulares.
+
+1\. Se entenderá por inversiones singulares aquellas que se lleven a cabo en infraestructuras de transporte cuyas características de diseño, configuración, condiciones operativas o técnicas constructivas no estén recogidas en la orden que fije los valores unitarios de referencia de inversión y operación y mantenimiento a los que hace referencia el Capítulo V.
+
+A estos efectos, tendrán la consideración de inversiones singulares en todo caso, los tendidos submarinos, los tendidos desarrollados en corriente continua y las estaciones conversoras de corriente alterna a corriente continua.
+
+En ningún caso se considerarán inversiones singulares aquellas cuyo coste sea superior al que resulta de aplicar los valores unitarios de referencia debido a que los trazados por los que discurran o las ubicaciones de las mismas supongan un coste superior al de referencia o aquellas cuyo sobrecoste venga motivado por sentencias judiciales o por aplicación de normativa no uniforme en todo el territorio nacional.
+
+Tampoco tendrán carácter singular aquellas instalaciones cuyos costes hayan sido considerados en el cálculo de los valores unitarios de referencia de inversión o de operación y mantenimiento.
+
+2\. El carácter de singular de una inversión deberá ser solicitado por la empresa transportista a la Dirección General de Política Energética y Minas y resuelto por ésta previo informe de la Comisión Nacional de los Mercados y la Competencia y con carácter previo a la solicitud de autorización administrativa.
+
+A estos efectos el transportista deberá detallar y justificar la singularidad de la inversión, aportando al mismo tiempo una estimación, del valor de inversión con derecho a retribución por parte del sistema y de los costes de operación y mantenimiento para la infraestructura en cuestión.
+
+Con carácter general la vida útil regulatoria de las instalaciones singulares tomará un valor de 40 años salvo que en la resolución por la que se reconoce a una instalación su carácter singular se disponga otro valor.
+
+Cuando hubiera transcurrido un periodo superior a un año desde que se otorgó el carácter singular a la instalación y se hubieran producido circunstancias o hechos que alterasen las condiciones bajo las cuales se dictó la resolución de singularidad, el transportista podrá solicitar la modificación de los parámetros de dicha resolución siempre que no se hubiera dictado aun autorización administrativa de la instalación.
+
+A tal efecto la empresa transportista remitirá solicitud motivada aportando en su caso una nueva estimación del valor de inversión con derecho a cargo del sistema y de los costes de operación y mantenimiento para la infraestructura a la Dirección General de Política Energética y Minas, la cual resolverá previo informe de la Comisión Nacional de los Mercados y la Competencia y con carácter previo a la obtención de autorización administrativa. Si la Dirección General de Política Energética y Minas no hubiera resuelto antes de la obtención de la autorización administrativa, la solicitud se entenderá desestimada.
+
+3\. Se define como retribución por operación y mantenimiento base de una instalación singular a la retribución por operación y mantenimiento de una instalación singular el primer año que la misma devenga retribución sin considerar ningún tipo de coste financiero asociado al retardo que se produce en el cobro de la misma.
+
+Una vez puesta en servicio la instalación, la retribución por operación y mantenimiento base y el valor de inversión con derecho a retribución por parte del sistema de cada instalación singular, calculado de acuerdo al artículo 10, serán aprobados mediante orden del Ministro de Industria, Energía y Turismo, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+En ningún caso la cuantía de la retribución por operación y mantenimiento base podrá superar el 25 por ciento de la estimación de retribución de operación y mantenimiento presentada en la solicitud de singularidad. Asimismo, el valor de inversión con derecho a retribución por parte del sistema en ningún caso podrá superar el 25 por ciento del valor de inversión con derecho a retribución por parte del sistema estimado presentado en la mencionada solicitud. Estos valores máximos así como la vida útil regulatoria de la instalación deberán constar en la resolución a que se hace referencia en el apartado 2 del presente artículo.
+
+> Se añaden dos párrafos al final del apartado 2 por el art. 1.6 del Real Decreto 1073/2015, de 27 de noviembre. [Ref. BOE-A-2015-12896](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12896).
+
+## CAPÍTULO VII — Incentivo a la disponibilidad
+
+### Artículo 20. Establecimiento de incentivo de disponibilidad de la red de transporte.
+
+1\. Se establece un incentivo a la disponibilidad de la red de transporte que se aplicará a cada una de las empresas titulares de instalaciones de transporte.
+
+2\. El incentivo a la disponibilidad ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_071.png) repercutido a la empresa transportista i el año n, estará asociado al grado de disponibilidad ofrecido por sus instalaciones de transporte el año n-2.
+
+### Artículo 21. Intensidad del incentivo.
+
+1\. El incentivo a la disponibilidad que podrá percibir la empresa i el año n podrá oscilar entre el +2,5 por ciento y el -3,5 por ciento de su retribución por operación y mantenimiento de dicho año.
+
+2\. La cuantía máxima que podrá tomar el incentivo a la disponibilidad obtenida por la empresa i el año n se denominará ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_072.png) y a la cuantía máxima que podrá tomar la penalización vinculada a la disponibilidad obtenida por la empresa j el año n si incumple los valores objetivos será ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_073.png).
+
+### Artículo 22. Definiciones a efectos del incentivo a la disponibilidad de la red de transporte.
+
+A los efectos del incentivo a la disponibilidad de la red de transporte se realizan las siguientes definiciones:
+
+a) F: Familia de instalaciones. Son las instalaciones de transporte de energía eléctrica que por su función y por sus características técnicas tienen tasas de fallos similares y un tratamiento homogéneo a los efectos del incentivo de disponibilidad. Las familias serán las establecidas en el anexo del presente real decreto.
+
+b) ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_074.png) Tiempo de indisponibilidad de una instalación. Es el número de horas que la instalación de transporte de energía eléctrica j no está disponible para su correcto funcionamiento durante el año n-2.
+
+c) ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_075.png) Índice de indisponibilidad anual de una instalación j el año n-2. Es el cociente entre el número de horas tj que una instalación está indisponible y el número de horas del periodo en estudio Tj expresado en tanto por ciento:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_076.png) donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_077.png) El número de horas del periodo en que es analizada la disponibilidad de la instalación j. A los efectos del cálculo del presente incentivo, este periodo será un año, salvo que la instalación haya obtenido autorización de explotación a lo largo de ese año, en cuyo caso será el número de horas que dicha instalación j ha estado en servicio.
+
+d) ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_078.png) Índice de Disponibilidad de una instalación j el año n-2., Expresa por el porcentaje del tiempo total que dicha instalación ha estado disponible para el servicio a lo largo del año n, siendo por tanto el complemento a 100 del índice de indisponibilidad:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_079.png)
+
+e) ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_080.png) Índice de indisponibilidad de una familia de instalaciones F de la empresa i el año n-2, Expresa la indisponibilidad durante el año n de las instalaciones transporte j de la empresa i que se incluyen en la familia F y se calculará de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_081.png)
+
+Donde PNj es la potencia nominal de la instalación j perteneciente a la empresa i.
+
+f) ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_082.png) Índice de disponibilidad de una familia de instalaciones F de la empresa i el año n-2. Expresa la disponibilidad durante el año n-2 las instalaciones j transporte de la empresa i que se incluyen en la familia F y se calculará de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_083.png)
+
+### Artículo 23. Índice ponderado de disponibilidad global de una empresa.
+
+Sin perjuicio de lo establecido en el capítulo IV del título II del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica y a los efectos del cálculo del incentivo de disponibilidad el presente real decreto se define como índice de disponibilidad ponderado de la red de transporte propiedad de la empresa i el año n-2 a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_084.png) donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_085.png) es al índice que pondera el peso de cada una de las familias el año n-2 en el cálculo de la disponibilidad total de la red de una empresa. Este índice se calculará en función del número de unidades físicas y del coste de la operación y mantenimiento. Se hará de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_086.png) Donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_087.png) es el valor medio de los valores unitarios de referencia de operación y mantenimiento del año n-2 para las instalaciones de la familia F.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_088.png) unidades físicas de la instalación j.
+
+### Artículo 24. Formulación del incentivo de disponibilidad.
+
+El incentivo de disponibilidad que la empresa i percibirá el año n asociado a la disponibilidad de su red de transporte el año n-2 se denomina ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_089.png) y se calculará de acuerdo a la siguiente expresión:
+
+Si ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_090.png)
+
+Si ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_091.png)
+
+Donde
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_092.png) y ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_093.png) son los términos definidos en los artículos anteriores.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_094.png) Es el índice ponderado disponibilidad global mínimo exigido a la empresa i el año n-2 para no ser penalizada. Este valor se calculará como el valor medio del índice ponderado disponibilidad global de la empresa i de los 3 años previos al n-2 menos 0.5.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_095.png) Es el valor del índice ponderado de disponibilidad establecido como objetivo para el periodo regulatorio. Este parámetro se encuentra entre los señalados en el artículo 3.3 y por tanto su valor podrá ser modificado al inicio de cada periodo regulatorio mediante orden ministerial. Si no se llevara a cabo esta revisión se entenderá prorrogado su valor para todo el periodo regulatorio siguiente.
+
+En ningún caso el denominador ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_096.png) podrá tomar valores inferiores a 0.1
+
+## CAPÍTULO VIII — Información y auditoría
+
+### Artículo 25. Obligaciones de información.
+
+1\. Los titulares de instalaciones de transporte deberán:
+
+a) Para la inclusión de nuevas instalaciones de transporte en el régimen retributivo, remitir a la Dirección General de Política Energética y Minas y a la Comisión Nacional de los Mercados y la Competencia un informe sometido a auditoría externa con la siguiente información para todas las instalaciones puestas en servicio el año n-2, y para aquellas cuya capacidad hubiera sido ampliada, se requerirá:
+
+1.º Autorización administrativa previa, autorización de construcción y autorización de explotación.
+
+En el caso de instalaciones de transporte secundario, el informe favorable a que se hacía referencia el artículo 36.3 de la Ley 54/1997, de 27 de noviembre o el informe favorable a que se hace referencia en el artículo 35.2 de la Ley 24/2013, de 26 de diciembre.
+
+2.º Valor de inversión real realizada, debidamente auditada, desglosada por conceptos de coste y detallando las características técnicas relevantes para el cálculo de la retribución.
+
+3.º Declaración expresa de ayudas y aportaciones de fondos públicos o medidas de efecto equivalente.
+
+4.º Declaración de instalaciones cedidas y financiadas total o parcialmente por terceros.
+
+b) Comunicar a la Dirección General de Política Energética y Minas y a la Comisión Nacional de los Mercados y la Competencia aquellas instalaciones que sean objeto de transmisión de titularidad o causen baja, a efectos de su consideración en el régimen retributivo.
+
+c) Llevar una contabilidad individualizada para todas aquellas instalaciones que sean objeto de reconocimiento expreso de retribución.
+
+d) Remitir a la Dirección General de Política Energética y Minas y a la Comisión Nacional de Mercados y Competencia antes del 1 de mayo de cada ejercicio el inventario de instalaciones auditado a fecha 31 de diciembre del año n-2 en formato electrónico de hoja de cálculo debidamente actualizado con altas, bajas y previsiones de las instalaciones que vayan a entrar en servicio en ese año. Este inventario actualizado deberá contener, todos los parámetros técnicos y económicos necesarios para el cálculo de la retribución individualizada de cada una de las instalaciones que se encuentren en servicio señalando si son nuevas, si han sufrido modificaciones respecto al inventario facilitado el año anterior o si no han sufrido modificación alguna. Asimismo se remitirá otro fichero electrónico en el que deberá constar qué instalaciones han causado baja respecto al inventario electrónico remitido el año anterior.
+
+2\. Las empresas titulares de instalaciones de transporte estarán obligadas a aportar información en las condiciones que se determine con la finalidad de establecer los parámetros que se definen en este real decreto y permitir la adecuada supervisión y control de su actividad por parte de las autoridades.
+
+3\. La Comisión Nacional de los Mercados y la Competencia dictará las circulares pertinentes para el desarrollo de la información regulatoria de costes y para la obtención de toda aquella información relativa a instalaciones de transporte que resulte necesaria para el cálculo de la retribución. Dichas circulares deberán publicarse en el «Boletín Oficial del Estado».
+
+La Dirección General de Política Energética y Minas tendrá acceso a los registros, bases de datos y aplicaciones que obren en poder de la Comisión Nacional de los Mercados y la Competencia que contengan la información necesaria para la determinación de la retribución de las empresas titulares de instalaciones de transporte y a toda aquella información financiera, económica y contable que se disponga de estas empresas.
+
+A estos efectos, se realizarán los desarrollos informáticos oportunos con el fin de facilitar el acceso electrónico a que se refiere en el apartado anterior, de forma que se puedan realizar consultas sobre informaciones contenidas en las bases de datos, aplicaciones y registros en poder de la Comisión Nacional de Mercados y Competencia. Todo ello se deberá realizar en condiciones que mantengan la seguridad, confidencialidad e integridad de la información.
+
+4\. Con carácter general, la información requerida que tenga efectos en el cálculo de la retribución estará sujeta a auditoría.
+
+En aquellas peticiones de información en que se estime que dicha auditoría no resulta necesaria deberá hacerse constar expresamente y motivadamente en el requerimiento de información, todo ello sin perjuicio de posteriores inspecciones o de una auditoría ulterior si se considerase oportuna.
+
+En todo caso, la información referente a las inversiones puestas en servicio el año n-2 estará sujeta a una auditoría.
+
+### Artículo 26. Auditoría.
+
+1\. Con el fin de que toda la información aportada sobre la inversión realizada presente un carácter homogéneo, el Director General de Política Energética y Minas establecerá mediante resolución antes del 1 de febrero de cada año los criterios que deberán seguirse para elaborar el informe de auditoría externa a que se hace referencia en el artículo 25.1 y toda aquella información auditada que resulte necesaria para el cálculo de la retribución.
+
+A estos efectos la Comisión Nacional de los Mercados y la Competencia remitirá una propuesta de resolución a la Dirección General de Política Energética y Minas antes del 15 de enero de cada año.
+
+2\. El pago de los servicios de la empresa auditora será sufragado por cada una de las empresas auditadas.
+
+## CAPÍTULO IX — Pagos por estudios de acceso y conexión
+
+### Artículo 27. Pagos por estudios de acceso y conexión a la red de transporte.
+
+A los efectos de este real decreto se entenderá por:
+
+a) Pagos por estudios de acceso a la red de transporte: la contraprestación económica que percibe el gestor de la red transporte para resarcirse de los costes en que incurre por la realización de los estudios de acceso de las empresas generadoras que solicitan conectarse a la red de transporte que se encuentre bajo su gestión.
+
+b) Pagos por estudios de conexión a la red de transporte: la contraprestación económica que percibe la empresa titular de la red transporte para resarcirse de los costes en que incurre por la realización de los estudios de conexión de las empresas generadoras que solicitan conectarse a su red.
+
+Por orden del Ministro de Industria, Energía y Turismo, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos y previo informe de la Comisión Nacional de los Mercados y la Competencia, se establecerá el régimen económico de los pagos por estudios de acceso y conexión a la red de transporte mediante la aplicación de un baremo por nivel de tensión y estudio.
+
+## CAPÍTULO X — Régimen sancionador
+
+### Artículo 28. Régimen sancionador.
+
+El incumplimiento de lo establecido en el presente real decreto será sancionado de acuerdo con lo dispuesto en el título X de la Ley 24/2013, de 26 de diciembre.
+
+### Disposición adicional primera. Propuestas a remitir por la Comisión Nacional de los Mercados y la Competencia.
+
+1\. La Comisión Nacional de los Mercados y Competencia remitirá al Ministerio de Industria, Energía y Turismo antes del 1 de abril de 2014 propuestas sobre:
+
+a) El contenido mínimo y el formato en que deberán presentarse los planes de inversión anual y plurianual a que se hace referencia en el artículo 14.
+
+b) Instalaciones tipo y los valores unitarios de referencia para los costes de inversión y de operación y mantenimiento para las instalaciones de transporte, por elemento de inmovilizado, parámetros de actualización de los valores unitarios referencia de inversión y de operación y mantenimiento, así como la vida útil regulatoria para aquellos activos que por sus especificidades requieran un periodo distinto al de 40 años previsto en el artículo 7.
+
+2\. Antes del 1 de noviembre de 2014 la Comisión Nacional de los Mercados y la Competencia remitirá a la Dirección General de Política Energética y Minas una propuesta de los pagos por estudios de acceso y conexión a la red de transporte, de acuerdo a lo establecido en el artículo 27.
+
+### Disposición adicional segunda. Particularidades del primer periodo regulatorio.
+
+1\. En el primer periodo regulatorio la tasa de retribución financiera señalada en artículo 17 del presente real decreto será la establecida en la disposición adicional décima de la Ley 24/2013, de 26 de diciembre.
+
+2\. No obstante lo dispuesto en el artículo 6.2 y con independencia de la fecha de inicio, de acuerdo con lo establecido en la disposición adicional décima de la Ley 24/2013, de 26 de diciembre, el primer periodo regulatorio finalizará el 31 de diciembre de 2019.
+
+3\. El límite de inversión previsto en el artículo 11 será de aplicación al plan de inversión del año n+2, siendo n el año de entrada en vigor del presente real decreto.
+
+No obstante lo anterior, hasta la aprobación de los valores unitarios a que se hace referencia en el Capítulo V, para el cálculo de límite ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_097.png) señalado en el artículo 11, se tomarán los valores de inversión estimados por cada una de las empresas.
+
+Asimismo, para el control de los planes de inversión previstos en el artículo 12 durante los años en que fuera de aplicación para el cálculo de la retribución el Real Decreto-ley 9/2013, de 12 de julio, se tomará como volumen de inversión realmente ejecutado con derecho a retribución a cargo del sistema el que resulte de la aplicación de dicha norma.
+
+4\. El valor de la disponibilidad objetivo a que se hace referencia en el artículo 23 denominada, ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_098.png) tomará un valor de 98.5 para el primer periodo regulatorio.
+
+### Disposición transitoria primera. Metodología de retribución hasta el inicio del primer periodo regulatorio.
+
+1\. Se considerará año de inicio del primer periodo regulatorio el siguiente al que se produzca la aprobación de las ordenes señaladas en los apartados 1 y 2 del artículo 15 del presente real decreto.
+
+2\. De acuerdo a lo establecido en el Real Decreto-ley 9/ 2013, de 12 de julio, la retribución a percibir desde el 1 de enero del año 2014 hasta que se inicie el primer periodo regulatorio al amparo del presente real decreto, se calculará de acuerdo a la metodología recogida en el anexo IV del mencionado real decreto-ley.
+
+3\. El incentivo de disponibilidad regulado en el capítulo VII del presente real decreto será de aplicación en la retribución a percibir a partir del año de inicio del primer periodo regulatorio. Hasta dicha fecha será de aplicación la metodología recogida en la Orden por la que se establecen las retribuciones del segundo periodo de 2013 para las actividades de transporte y distribución de energía eléctrica y se establecen otras medidas en relación con la retribución de las actividades de transporte y distribución de años anteriores.
+
+### Disposición transitoria segunda. Cálculo del valor de inversión con derecho a retribución a cargo del sistema asociado a determinadas instalaciones.
+
+1\. Las instalaciones puestas en servicio con anterioridad a 1 de enero de 1998 y que a fecha 31 de diciembre del año n-2, siendo n el año de inicio del primer periodo regulatorio, aún continúen en servicio se considerarán como una única instalación j, de valor de inversión con derecho a retribución a cargo del sistema por el hecho de estar en servicio el año n-2 *VI*<sup>j</sup><sup>,</sup><sup>pre–1998</sup> y de vida residual promedio reconocida *VR*<sup>j</sup><sup>,</sup><sup>pre–1998</sup> a 31 de diciembre del año n-2.
+
+El valor *VI*<sup>j</sup><sup>,</sup><sup>pre–1998</sup> se calculará de acuerdo a la siguiente formulación:
+
+![Imagen: img/disp/2015/285/12896_007.png](https://www.boe.es/datos/imagenes/disp/2015/285/12896_007.png); donde:
+
+*VI*<sup>j</sup><sup>,</sup><sup>pre–1998</sup> Valor de la inversión con derecho a retribución a cargo del sistema de todas las instalaciones de la empresa i puestas en servicio con anterioridad a 1 de enero de 1998 y que aún se encuentran en servicio a 31 de diciembre del año n-2.
+
+![Imagen: img/disp/2015/285/12896_008.png](https://www.boe.es/datos/imagenes/disp/2015/285/12896_008.png) Retribución a la inversión reconocida a la empresa transportista i el año anterior al de inicio del primer periodo regulatorio. Este valor será el recogido en el expediente de la orden en la que se hubiera establecido la retribución del año anterior al de inicio del primer periodo regulatorio resultante de la aplicación para las instalaciones puestas en servicio con anterioridad a 1998 del contenido del anexo IV del Real Decreto-ley 9/2013, de 12 de julio, por el que se adoptan medidas urgentes para garantizar la estabilidad financiera del sistema eléctrico.
+
+*VU*<sup> i</sup><sub>pre–1998</sub> Vida útil regulatoria de las instalaciones puestas en servicio antes del año 1998 de la empresa transportista i. Este parámetro tomará un valor de 40 años.
+
+*TRF*<sub>n–1</sub> es la tasa de retribución financiera aplicada el año n-1 para el cálculo de la retribución de las instalaciones de transporte de energía eléctrica.
+
+![Imagen: img/disp/2015/285/12896_009.png](https://www.boe.es/datos/imagenes/disp/2015/285/12896_009.png); vida residual promedio a 31 de diciembre del año n-3 correspondiente a las instalaciones de la empresa transportista i puestas en servicio antes de 1998 y que aún se encuentran en servicio el año n-3, siendo n el año de inicio del primer periodo regulatorio. Esta expresión se calculará como:
+
+![Imagen: img/disp/2015/285/12896_010.png](https://www.boe.es/datos/imagenes/disp/2015/285/12896_010.png) = ![Imagen: img/disp/2015/285/12896_011.png](https://www.boe.es/datos/imagenes/disp/2015/285/12896_011.png) +1 ; donde: +1 ; donde:
+
+*VR*<sup>j</sup><sup>,</sup><sup>pre–1998</sup> Es la vida residual promedio reconocida a 31 de diciembre del año n-2 de las instalaciones de la empresa i puestas en servicio con anterioridad a 1998 y que aún se encuentran en servicio en el año n-2, siendo n el año de inicio del primer periodo regulatorio. Este valor se calculará de acuerdo a la siguiente expresión:
+
+![Imagen: img/disp/2015/285/12896_012.png](https://www.boe.es/datos/imagenes/disp/2015/285/12896_012.png); donde:
+
+![Imagen: img/disp/2015/285/12896_013.png](https://www.boe.es/datos/imagenes/disp/2015/285/12896_013.png) ; vida residual de las instalaciones puestas en servicio antes de 1 de enero de 1998 de la empresa transportista i utilizada en el cálculo de la retribución del año 2013 empleada en la Orden IET/2442/2013, de 26 de diciembre, por la que se establecen las retribuciones del segundo periodo de 2013 para las actividades de transporte y distribución de energía eléctrica y se establecen otras medidas en relación con la retribución de las actividades de transporte y distribución de años anteriores, que recoge la vida residual promedio a 31 de diciembre de 2011 de las instalaciones de la empresa i puestas en servicio con anterioridad a 1998 y que aún se encuentran en servicio en el año 2011.
+
+*Año*<sup>n–2</sup>; valor en el calendario del año n-2, siendo n el año de inicio del primer periodo regulatorio.
+
+![Imagen: img/disp/2015/285/12896_014.png](https://www.boe.es/datos/imagenes/disp/2015/285/12896_014.png): Incremento de la vida residual de las instalaciones puestas en servicio antes de 1 de enero de 1998 por renovación y mejora calculado de acuerdo a la disposición transitoria tercera del presente real decreto.
+
+Para el cálculo del valor neto de inversión de las instalaciones puestas en servicio con anterioridad a 1 de enero de 1998 y que a fecha 31 de diciembre del año n-2 continúen en servicio se aplicará la formulación prevista en el artículo 7.2 con la particularidad de que k tomará el valor que se expresa a continuación:
+
+k = *VU*<sup>i</sup> – *VR*<sup>j</sup><sup>,</sup><sup>pre–1998</sup> +2; donde:
+
+*VU*<sup>i</sup> y *VR*<sup>j</sup><sup>,</sup><sup>pre–1998</sup> los términos ya señalados.
+
+2\. El valor del activo con derecho a retribución a cargo del sistema de cada una de las instalaciones j no catalogadas de singulares puestas en servicio entre el 1 de enero de 1998 y el 31 de diciembre de dos años antes del inicio del primer periodo regulatorio y que a dicha fecha continúen en servicio denominado, ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_115.png) se calculará de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_116.png); donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_117.png) Es el valor de la inversión de la instalación no singular j que obtuvo autorización de explotación entre el 1 de enero de 1998 y el 31 de diciembre de dos años antes del inicio del primer periodo regulatorio y que a dicha fecha continúa en servicio calculado empleando los valores unitarios de referencia señalados en el Capítulo V actualizados a fecha 31 de diciembre de dos años antes del de inicio del primer periodo regulatorio.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_118.png) es un coeficiente en base uno que refleja el complemento a uno del valor total de inversión de dicha instalación financiado y cedido por terceros.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_119.png) valor de las ayudas públicas percibidas por la instalación j. En el caso de que estas ayudas públicas provengan de organismos de la Unión Europea, este valor será el 90 por ciento del importe percibido.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_120.png); Factor de retardo a de retribución a la inversión de instalación j que obtuvo autorización de explotación entre el año 1998 y el año n-2. Este factor es derivado del coste financiero motivado por el retraso entre la puesta en servicio de la instalación j y el inicio del devengo de retribución por inversión. Este valor se calculará como:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_121.png); donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_122.png) es la tasa de retribución financiera empleada en el primer año del primer periodo regulatorio.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_123.png) es el tiempo de retardo retributivo de la instalación j expresado en años. Este parámetro tomará un valor de 0,5 años para las instalaciones que han obtenido autorización de explotación antes del 1 de enero del año 2011 y de 1,5 años para las que han obtenido autorización de explotación desde el 1 de enero de 2011 hasta el 31 de diciembre dos años antes del de inicio del primer periodo regulatorio.
+
+La vida útil regulatoria de la instalación j será aquella que establezca la orden que fije los valores unitarios de referencia aplicable en el primer periodo regulatorio para una instalación de igual tipología.
+
+3\. El valor del activo con derecho a retribución a cargo del sistema de cada una de las instalaciones j catalogadas de singulares que han obtenido autorización de explotación entre el 1 de enero de 1998 y el 31 de diciembre de dos años antes del inicio del primer periodo regulatorio y que a dicha fecha continúen en servicio, ![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_124.png) se calculará de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_125.png); donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_126.png) Es el valor auditado de la inversión de la instalación singular j que ha obtenido autorización de explotación entre el 1 de enero de 1998 y el 31 de diciembre de dos años antes del inicio del primer periodo regulatorio y que a dicha fecha continúa en servicio. Se tomará como valor de inversión el valor auditado de la inversión, siempre que este no supere el 25 por ciento del valor de inversión estimado presentado en la solicitud de singularidad. A estos efectos se considerará como valor de inversión estimado el presentado en la solicitud señalada en la disposición transitoria cuarta.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_127.png) es un coeficiente en base uno que refleja el complemento a uno del valor total de inversión de dicha instalación financiado y cedido por terceros.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_128.png) valor de las ayudas públicas percibidas por la instalación j. En el caso de que estas ayudas públicas provengan de organismos de la Unión Europea, este valor será el 90 por ciento del importe percibido.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_129.png); Factor de retardo de retribución a la inversión de instalación j que ha obtenido autorización de explotación entre el año 1998 y el año n-2. Este factor es derivado del coste financiero motivado por el retraso entre la obtención de autorización de explotación de la instalación j y el inicio del devengo de retribución por inversión. Este valor se calculará como:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_130.png); donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_131.png) es la tasa de retribución financiera empleada en el primer año del primer periodo regulatorio.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_132.png) es el tiempo de retardo retributivo de la instalación j expresado en años. Este parámetro tomará un valor de 0,5 años para las instalaciones que han obtenido autorización de explotación antes del 1 de enero del año 2011 y de 1,5 años para las instalaciones que han obtenido autorización de explotación desde el 1 de enero de 2011 hasta el 31 de diciembre dos años antes del de inicio del primer periodo regulatorio.
+
+Con carácter general la vida útil regulatoria de las instalaciones singulares tomará un valor de 40 años salvo que en la resolución por la que se reconoce a una instalación su carácter singular se disponga otro valor.
+
+4\. El cálculo del valor de inversión con derecho a retribución a cargo del sistema recogida en los apartados anteriores sólo será efectuada el primer año del primer periodo regulatorio en que sea de aplicación el presente real decreto, siendo el valor de inversión con derechos a retribución a cargo del sistema resultante el empleado para los cálculos de retribución a la inversión del artículo 7.2 durante la vida residual de los activos.
+
+5\. En todo caso la retribución por operación y mantenimiento se calculará por aplicación de lo recogido en el artículo 7.3 de manera individualizada a cada una de las instalaciones.
+
+> Se modifica el apartado 1 por el art. 1.7 del Real Decreto 1073/2015, de 27 de noviembre. [Ref. BOE-A-2015-12896](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12896).
+
+### Disposición transitoria tercera. Incremento de la vida residual de las instalaciones que han obtenido autorización de explotación antes de 1998 por renovación y mejora.
+
+1\. El valor de vida residual de las instalaciones de transporte de la empresa i que han obtenido autorización de explotación antes de 1998 podrá incrementarse si se aporta la documentación auditada que acredite que se ha incurrido en una inversión en renovación y mejora de estas instalaciones desde que obtuvieron autorización de explotación hasta el 31 de diciembre del año n-2.
+
+El valor de la vida útil residual adicional se calculará de acuerdo a la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_133.png); donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_134.png) es el incremento de la vida residual calculado en el año n-2 de las instalaciones de la empresa i que han obtenido autorización de explotación antes de 1998. Este valor será el número entero más próximo al resultado de las operaciones expresadas en la expresión anterior y tendrá un valor máximo de 10 años.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_135.png) Valor de inversión en renovación y mejora de instalaciones que han obtenido autorización de explotación con anterioridad a 1998 y que aún continúen en servicio. La inversión en renovación y mejora de instalaciones que han obtenido autorización de explotación con anterioridad a 1998 deberá haber sido ejecutada durante los años que han transcurrido desde que obtuvieron autorización de explotación hasta dos años antes del inicio del primer periodo regulatorio.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_136.png) Es el inmovilizado bruto con derecho a retribución a cargo del sistema eléctrico en el año n de la empresa transportista i asociado a todas las instalaciones que han obtenido autorización de explotación con anterioridad a 1998 que se encuentran en servicio el año n-2 y que no han superado en dicho año su vida útil regulatoria. Este valor se calculará de acuerdo a los anexos III y IV del Real Decreto-ley 9/2013, de 12 de julio.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_137.png) Vida útil regulatoria de las instalaciones puestas en servicio antes del año 1998 de la empresa transportista i a 31 de diciembre del año n-2.
+
+2\. Las empresas transportistas que deseen solicitar un incremento de la vida residual de las instalaciones puestas en servicio antes de 1998 por renovación y mejora deberán presentar en el plazo de seis meses desde la aprobación del presente real decreto una solicitud ante la Dirección General de Política Energética y Minas aportando información auditada sobre la inversión en renovación y mejora de instalaciones que han obtenido autorización de explotación con anterioridad a 1998 ejecutada durante los años que han transcurrido desde que han obtenido autorización de explotación hasta dos años antes del inicio del primer periodo regulatorio.
+
+La Dirección General de Política Energética y Minas resolverá motivadamente previo informe de la Comisión Nacional de los Mercados y de la Competencia.
+
+3\. La regulación prevista en el artículo 9 para la extensión de vida útil de las instalaciones no será de aplicación a las instalaciones que han obtenido autorización de explotación antes de 1998 que se acojan al incremento de la vida residual por renovación y mejora establecido en la presente disposición transitoria hasta que dicha vida residual para el conjunto sea nula. Una vez les resulte de aplicación dicha extensión de vida útil, a los efectos del cálculo del incremento de la retribución de operación y mantenimiento de cada una de las instalaciones que continúen en servicio, el cómputo de los años comenzará a realizarse a partir del año en que la vida residual para el conjunto de instalaciones sea nula.
+
+### Disposición transitoria cuarta. Régimen transitorio para aquellas instalaciones que han solicitado el reconocimiento de singularidad con anterioridad a la entrada en vigor del presente real decreto.
+
+1\. Aquellas empresas que a la entrada en vigor del presente real decreto hubieran solicitado reconocimiento de singularidad para instalaciones de la red de transporte y cuya solicitud no hubiera sido resuelta dispondrán de un plazo de seis meses para volver a efectuar dicha solicitud ante la Dirección General de Política Energética y Minas aportando toda la información necesaria para dicho reconocimiento de singularidad previsto en el artículo 19 y, sin perjuicio de lo establecido en la disposición transitoria segunda.
+
+El transportista deberá detallar y justificar la singularidad de la inversión, aportando al mismo tiempo una estimación precisa del valor de la inversión y de los costes estimados de operación y mantenimiento para la infraestructura en cuestión.
+
+2\. Para aquellas inversiones contempladas en esta disposición transitoria que fueran catalogadas finalmente de singulares mediante la resolución prevista en el artículo 19 y no se encontraran dentro del supuesto recogido en el apartado 3 de la disposición transitoria segunda, el valor de inversión objeto de retribución a cargo del sistema serán los resultantes de la aplicación de los recogido en los artículos 10.2, 10.3 y 19. A estos efectos, las cantidades presentadas en la solicitud señalada en el apartado anterior serán las que se consideren a los efectos de las limitaciones previstas en el artículo 19.3.
+
+### Disposición transitoria quinta. Criterios de retribución de líneas soterradas y subestaciones blindadas con anterioridad a la entrada en vigor del presente real decreto.
+
+1\. No obstante lo dispuesto en el artículo 5.1, serán retribuidas como líneas soterradas aquellas líneas que aun discurriendo por suelo rural estuvieran así recogidas en el instrumento de planificación vigente siempre que a la entrada en vigor del presente real decreto:
+
+a) Cuenten con autorización administrativa previa si su autorización corresponde a la Administración General del Estado.
+
+b) Cuenten con el informe favorable a que se hacía referencia en el artículo 36.3 de la Ley 54/1997, de 27 de noviembre o con el informe favorable a que se hace referencia en el artículo 35.2 de la Ley 24/2013, de 26 de diciembre, si su autorización no corresponde a la Administración General del Estado.
+
+2\. Asimismo, serán retribuidas como subestaciones blindadas aquellas que a la entrada en vigor del presente real decreto cumplan con alguno de los requisitos a) o b) señalados en el apartado anterior.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente real decreto, y en particular:
+
+a) el Real Decreto 2819/1998, de 23 de diciembre, por el que se regulan las actividades de transporte y distribución de energía eléctrica.
+
+b) el Real Decreto 325/2008, de 29 de febrero, por el que se establece la retribución de la actividad de transporte de energía eléctrica para instalaciones puestas en servicio a partir del 1 de enero de 2008.
+
+### Disposición final primera. Título competencial.
+
+El presente real decreto tiene carácter básico y se dicta al amparo de lo establecido en el artículo 149.1.13 y 25 de la Constitución Española, que atribuyen al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica, y bases del régimen minero y energético.
+
+### Disposición final segunda. Desarrollo y aplicación.
+
+Por el Ministro de Industria, Energía y Turismo se dictarán las disposiciones que exijan el desarrollo y aplicación del presente real decreto.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 27 de diciembre de 2013.
+
+JUAN CARLOS R.
+
+El Ministro de Industria, Energía y Turismo,
+
+JOSÉ MANUEL SORIA LÓPEZ
+
+## ANEXO — Familias de instalaciones de transporte
+
+Tendrán la consideración de familias a los efectos de cálculo del incentivo de disponibilidad de la red de transporte las instalaciones que tengan la consideración de transporte que se encuadren dentro de las siguientes tipologías:
+
+– Líneas aéreas a 400 kV.
+
+– Líneas aéreas a 220 kV.
+
+– Líneas aéreas a 132 kV.
+
+– Líneas aéreas a 66 kV.
+
+– Líneas subterráneas a 220 kV.
+
+– Líneas subterráneas a 132 kV.
+
+– Líneas subterráneas a 66 kV.
+
+– Transformadores con primario a 400 kV.
+
+– Transformadores 220/132 kV.
+
+– Transformadores 220/66 kV.
+
+– Transformadores 132/66 kV.
+
+– Reactancias 400 kV.
+
+– Reactancias 220 kV.
+
+– Reactancias 132 kV.
+
+– Reactancias 66 kV.
+
+– Condensadores 400 kV.
+
+– Condensadores 220 kV.
+
+– Condensadores 132 kV.
+
+– Condensadores 66 kV.

@@ -242,12 +242,6 @@ El titular de una concesión de explotación tendrá derecho a las autorizacione
 
 6\. Todas las coordenadas geográficas que figuren en las correspondientes delimitaciones de permisos de investigación y de concesiones de explotación de hidrocarburos se definirán a partir del sistema geodésico de referencia oficial en España.
 
-> Téngase en cuenta que el apartado 6 será de aplicación a partir del 1 de enero de 2015, aplicándose hasta entonces lo establecido en la disposición transitoria 3 de la Ley 18/2014, de 15 de octubre. [Ref. BOE-A-2014-10517](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-10517).
-
-> "**Disposición transitoria tercera**. Aplicación del sistema de referencia geodésico.
-
-> Lo dispuesto en el artículo 67.Uno de esta Ley y en los párrafos segundo y tercero del artículo setenta y seis. Dos de la Ley 22/1973, de 21 de julio, de Minas en su nueva redacción será de aplicación a partir del 1 de enero de 2015. Hasta entonces, para el otorgamiento de los derechos mineros, el elipsoide de referencia será el internacional de Hayford (Madrid, 1924), datum europeo (Postdam, 1950) y meridiano de Greenwich como origen de longitudes. Se adoptará la proyección Universal Transversal Mercator (UTM) y la distribución de husos y zonas internacionales. Para los derechos del dominio público de hidrocarburos, se cumplirá lo dispuesto en el artículo 16.3.2. del Reglamento de la Ley sobre Investigación y Explotación de Hidrocarburos de 27 de junio de 1974 aprobado por Real Decreto 2362/1976, de 30 de julio, en lo que no se oponga a la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, en sus redacciones vigentes antes de la entrada en vigor de la presente Ley."
-
 > Se añade el apartado 6 por el art. 67.1 de la Ley 18/2014, de 15 de octubre. [Ref. BOE-A-2014-10517](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-10517).
 
 > Téngase en cuenta que este apartado ya fue añadido por el Real Decreto-ley 8/2014, de 4 de julio, y que lo dispuesto en el mismo será de aplicación a partir del 1 de enero de 2015, aplicándose hasta entonces lo establecido en la disposición transitoria 3 de la citada Ley.

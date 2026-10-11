@@ -1,0 +1,347 @@
+---
+title: "Real Decreto 221/2008, de 15 de febrero, por el que se crea y regula el Consejo Estatal de Responsabilidad Social de las Empresas"
+identifier: "BOE-A-2008-3868"
+eli: "https://www.boe.es/eli/es/rd/2008/02/15/221"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Asuntos Sociales"
+date: 2008-02-15
+published: 2008-02-29
+in_force_from: 2008-03-01
+last_amended: 2026-04-11
+consolidated: 2026-07-10
+gazette: "Boletín Oficial del Estado núm. 52"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-3868"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 221/2008, de 15 de febrero, por el que se crea y regula el Consejo Estatal de Responsabilidad Social de las Empresas
+
+La Comisión Europea entiende la Responsabilidad Social de las Empresas como «la integración voluntaria, por parte de las empresas, de las preocupaciones sociales y medioambientales en sus operaciones empresariales y sus relaciones con sus interlocutores». Este concepto se define por primera vez en el ámbito europeo en el Libro Verde de julio de 2001 «Fomentar un marco europeo para la Responsabilidad Social de las Empresas», que acuña posteriormente en la Comunicación de julio de 2002 relativa a «la responsabilidad social de las empresas: una contribución al desarrollo sostenible» y en la Comunicación de marzo de 2006 «poner en práctica la asociación para el crecimiento y el empleo: hacer de Europa un polo de excelencia de la responsabilidad social de las empresas».
+
+Desde las primeras referencias en la Cumbre de Lisboa; la Agenda Social de la Cumbre de Niza (ambas en el año 2000); el Libro Verde del 2001; pasando por la Comunicación de la Comisión Europea de julio 2002, las conclusiones del Foro Multilateral europeo y del Grupo de Alto Nivel de representantes de los Gobiernos y del Parlamento y la Agenda Social de febrero de 2005, hasta la Comunicación de la Comisión Europea de marzo de 2006 y la Resolución del Parlamento Europeo de marzo de 2007, se ha puesto de manifiesto el necesario desarrollo de una política horizontal que se concrete en la constitución de un ámbito permanente multilateral para el estímulo de políticas de Responsabilidad Social de las Empresas, el encuentro entre la Administración y las partes interesadas y el análisis de la situación española en materia de Responsabilidad Social de las Empresas.
+
+En el contexto descrito, en España se han producido diversas actuaciones que merecen ser reseñadas. El Congreso de los Diputados creó una Subcomisión que dio como resultado la elaboración de un informe «para potenciar y promover la Responsabilidad Social de las Empresas» de 31 de julio de 2006.
+
+La Comisión de Seguimiento y Evaluación del Diálogo Social, en su reunión del 2 de marzo de 2005, consideró que, dentro de la orientación que debería tener la economía española hacia un modelo de crecimiento estable y sostenido, la Responsabilidad Social de las Empresas debería ser considerada dentro del marco de la «Declaración para el Diálogo Social de 2004».
+
+El Gobierno, por medio del Ministerio de Trabajo y Asuntos Sociales, constituyó el Foro de Expertos en Responsabilidad Social de las Empresas que finalizó sus trabajos el 12 julio de 2007 aprobando un documento sobre Responsabilidad Social de las Empresas que incorpora 29 recomendaciones.
+
+Tanto la Subcomisión Parlamentaria como el Foro de Expertos en Responsabilidad Social de las Empresas proponen la creación de un Consejo Estatal de las Empresas participado por las distintas partes interesadas en materia de Responsabilidad Social de las Empresas.
+
+El 19 de diciembre de 2007, la referida Comisión de Seguimiento y Evaluación del Diálogo Social, aprobó un documento que recoge las conclusiones y 10 propuestas para la promoción y desarrollo de la Responsabilidad Social de las Empresas, entre las que se encuentra la relativa a creación del Consejo Estatal de Responsabilidad Social de las Empresas como un órgano colegiado, asesor y consultivo del Gobierno, de carácter cuatripartito y paritario, encargado de impulsar y fomentar las políticas de Responsabilidad Social de las Empresas.
+
+A mayor abundamiento, la moción del Pleno del Senado de 29 de mayo de 2007, insta al Gobierno «a crear un Consejo de Responsabilidad Empresarial, como foro de encuentro de todas las partes interesadas en Responsabilidad Social de las Empresas, que mantenga un diálogo multilateral permanente sobre la Responsabilidad Social de las Empresas y proponga al Gobierno acciones de fomento de la Responsabilidad Social de las Empresas».
+
+Este real decreto recoge los objetivos y la composición de los miembros del Consejo referidos en la propuesta 29 del Informe del Foro de Expertos en Responsabilidad Social de las Empresas, así como el punto número 10 del documento «La Responsabilidad Social de las Empresas», consecuencia del Diálogo Social.
+
+El Consejo se adscribe al Ministerio de Trabajo y Asuntos Sociales, puesto que este Departamento ha desarrollado y coordinado los trabajos en materia de Responsabilidad Social de las Empresas, tanto en el marco del Diálogo Social como en el ámbito del Foro de Expertos en Responsabilidad Social de las Empresas, teniendo en cuenta, además, que dos de los grupos que componen el Consejo son los interlocutores sociales, que constituyen las Organizaciones Empresariales y las Organizaciones Sindicales más representativas, y otras organizaciones sociales, cuya relación más estrecha con la Administración General del Estado, se produce a través del Ministerio de Trabajo y Asuntos Sociales.
+
+Por todo ello, a la luz de los antecedentes y del resultado de las iniciativas mencionadas, el Gobierno ha decidido crear un Consejo Estatal de Responsabilidad Social de las Empresas, cuya composición, objetivos y funcionamiento se regulan en el presente real decreto.
+
+En su virtud, a propuesta del Ministro de Trabajo y Asuntos Sociales, con la aprobación previa de la Ministra de Administraciones Públicas, previa deliberación del Consejo de Ministros en su reunión del día 15 de febrero de 2008,
+
+## D I S P O N G O :
+
+### Artículo 1. Objeto.
+
+Constituye el objeto del presente real decreto la creación y la regulación del Consejo Estatal de Responsabilidad Social de las Empresas.
+
+### Artículo 2. Creación y adscripción.
+
+1\. Se crea el Consejo Estatal de Responsabilidad Social de las Empresas, al amparo de lo dispuesto en la sección 3.ª, capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, como un órgano colegiado interministerial, de participación institucional, de carácter asesor y consultivo del Gobierno, de composición cuatripartita y paritaria, que se adscribe al Ministerio de Trabajo y Economía Social, a través de la secretaría de estado con competencias en materia de responsabilidad social de las empresas. Estará encargado del impulso y fomento de las políticas de responsabilidad social de las empresas y se constituye en el marco de referencia para el desarrollo de esta materia en España.
+
+2\. La dirección general con competencias en materia de responsabilidad social de las empresas llevará a cabo las tareas de preparación, apoyo técnico y gestión del consejo.
+
+> Se modifica por el art. único.1 del Real Decreto 301/2026, de 8 de abril. [Ref. BOE-A-2026-8072](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8072)
+
+### Artículo 3. Objetivos.
+
+Los objetivos del Consejo serán:
+
+a) Constituir un foro de debate sobre Responsabilidad Social de las Empresas entre las Organizaciones Empresariales y Sindicales más representativas, Administraciones públicas y otras organizaciones e instituciones de reconocida representatividad en al ámbito de la Responsabilidad Social de las Empresas que sirva como marco de referencia para el desarrollo de la Responsabilidad Social de las Empresas en España.
+
+b) Fomentar las iniciativas sobre responsabilidad social de las empresas, en el marco de sus funciones asesoras y consultivas, incluyendo la emisión de propuestas en la materia para su consideración por el Gobierno y prestando una atención especial a la singularidad de las pymes y de las entidades de la economía social, así como al reconocimiento y difusión de buenas prácticas en este ámbito.
+
+c) Informar, en su caso, sobre las iniciativas y regulaciones públicas que afecten a las actuaciones de empresas, organizaciones e instituciones públicas y privadas, que constituyen un valor añadido al cumplimiento de sus obligaciones legales, contribuyendo a la vez al progreso social y económico en el marco de un desarrollo sostenible.
+
+d) Promocionar estándares y/o características de las memorias y/o informes de Responsabilidad Social de las Empresas y de sostenibilidad, así como herramientas más adecuadas para su elaboración y seguimiento.
+
+e) Analizar el desarrollo de la Responsabilidad Social de las Empresas en España, la Unión Europea y países terceros, e informar sobre actuaciones en materia de Responsabilidad Social de las Empresas.
+
+> Se modifica la letra b) por el art. único.2 del Real Decreto 301/2026, de 8 de abril. [Ref. BOE-A-2026-8072](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8072)
+
+### Artículo 4. Funciones y ámbito.
+
+1\. En cumplimiento de los objetivos establecidos, el Consejo Estatal de Responsabilidad Social de las Empresas tendrá las funciones siguientes:
+
+a) Emitir informes y elaborar estudios, ya sea en cumplimiento de un mandato legal o a solicitud del Gobierno o por iniciativa propia y, en particular:
+
+1.º La elaboración, emisión y presentación anual al Senado de un informe sobre la calidad de la relevancia, neutralidad, materialidad, integridad, contexto de sostenibilidad, precisión, claridad, comparabilidad y fiabilidad de la información emitida en los informes de sostenibilidad, de conformidad con lo dispuesto en la disposición adicional primera de la Ley 11/2018, de 28 de diciembre, por la que se modifica el Código de Comercio, el texto refundido de la Ley de Sociedades de Capital aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio, y la Ley 22/2015, de 20 de julio, de Auditoría de Cuentas, en materia de información no financiera y diversidad.
+
+2.º La elaboración de un informe no vinculante en cualquier proyecto normativo con incidencia en materia de responsabilidad social de las empresas, de acuerdo con lo regulado en la disposición adicional segunda de la Ley 11/2018, de 28 de diciembre.
+
+b) Elaborar y elevar una memoria anual al Gobierno.
+
+c) Constituirse como observatorio de la responsabilidad social de las empresas en España.
+
+d) Promover y fomentar iniciativas de responsabilidad social de las empresas y, en concreto, las siguientes:
+
+1.º La realización de informes anuales en materia de responsabilidad social empresarial basados en los objetivos, características, indicadores y estándares internacionales que enuncia la Ley 2/2011, de 4 de marzo, de Economía Sostenible, así como en la Directiva (UE) 2022/2464 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2022, por lo que respecta a la presentación de información sobre sostenibilidad por parte de las empresas (CSRD) y en las Normas Europeas de Información sobre Sostenibilidad, y aquellos que determine el propio consejo, prestando una especial atención tanto a las pequeñas y medianas empresas como a las fórmulas específicas de la economía social recogidas en la Ley 5/2011, de 29 de marzo, de Economía Social.
+
+2.º La implantación efectiva de las Líneas Directrices de la Organización para la Cooperación y el Desarrollo Económico (OCDE) para Empresas Multinacionales sobre Conducta Empresarial Responsable, con las garantías mínimas que se establecen en el Reglamento (UE) 2020/852, del Parlamento Europeo y del Consejo de 18 de junio de 2020 relativo al establecimiento de un marco para facilitar las inversiones sostenibles y por el que se modifica el Reglamento (UE) 2019/2088, reforzando la colaboración con el punto nacional de contacto a estos efectos y otras entidades que, en su caso, respondan a este objetivo.
+
+3.º La determinación de los mecanismos a través de los cuales las instituciones públicas pueden incorporar o desarrollar prácticas de responsabilidad social y, en su caso, la confección de repertorios de buenas prácticas al respecto, de acuerdo con lo establecido en la Ley 2/2011, de 4 de marzo.
+
+4.º El desarrollo de la incorporación de cláusulas de responsabilidad social a los efectos de lo previsto en el artículo 1.3 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, y un análisis de situación y de evolución del grado de aprovechamiento que ofrece la normativa. Este desarrollo deberá tener en cuenta las características particulares de las pymes, especialmente las de menor tamaño, con el fin de evitar que queden excluidas de los procesos de contratación pública.
+
+5.º El reconocimiento de la responsabilidad social de las empresas y de prácticas concretas que se adapten a las características de las empresas de acuerdo con su tamaño, así como a las fórmulas específicas de la economía social.
+
+6.º La incentivación de la creación de alianzas entre las empresas y demás instituciones públicas y privadas para la difusión, el desarrollo y la innovación en materia de responsabilidad social empresarial.
+
+7.º La promoción de la participación de las partes interesadas en planes de diligencia debida, de respeto de los Derechos Humanos y de compromiso en materia medioambiental, con especial consideración a los procesos de diálogo social y la información contenida en los procesos de evaluación desarrollados en este sentido.
+
+8.º El fomento de acciones de responsabilidad social de las empresas en materia de igualdad, de acuerdo con lo establecido en los artículos 73 y 74 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+9.º La promoción y mejora, dentro de las acciones de responsabilidad social de las empresas, de la integración de los riesgos asociados al cambio climático generados de la exposición a este de las actividades empresariales, incluyendo los riesgos de la transición hacia una economía sostenible y las medidas que se adopten para hacer frente a dichos riesgos, de acuerdo con lo establecido en el artículo 32 de la Ley 7/2021, de 20 de mayo, de cambio climático y transición energética.
+
+e) Colaborar y cooperar con otros consejos análogos, incluidos el Consejo de Finanzas Sostenibles y los de nivel internacional.
+
+f) Participar, en la forma en que se determine, en los foros nacionales e internacionales constituidos para tratar temas de responsabilidad social de las empresas.
+
+g) Realizar las funciones específicamente recogidas en la Ley 2/2011, de 4 de marzo, y en concreto:
+
+1.º La elaboración de análisis de los indicadores obligatorios y estándares voluntarios ya existentes para la eventual propuesta de modificaciones, así como recomendaciones para la confección del conjunto de características e indicadores de autoevaluación en materia de responsabilidad social, así como modelos o referencias de reporte en este sentido, con base en las Normas Europeas de Información y Sostenibilidad, el «Global Reporting Initiative (GRI)», o el Consejo de Normas Internacionales de Sostenibilidad (ISSB).
+
+2.º El seguimiento del grado de implantación de las políticas de responsabilidad social empresarial en las grandes empresas españolas, particularmente a través de la evaluación del informe anual de responsabilidad social empresarial que deben comunicar al Consejo Estatal de Responsabilidad Social de las Empresas, de conformidad con la normativa de aplicación.
+
+3.º La determinación de las condiciones necesarias para el reconocimiento como empresa socialmente responsable.
+
+2\. El Consejo Estatal de Responsabilidad Social de las Empresas tiene ámbito estatal.
+
+> Se modifica por el art. único.3 del Real Decreto 301/2026, de 8 de abril. [Ref. BOE-A-2026-8072](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8072)
+
+> Se modifica la letra a) del apartado 1 por el art. único.1 del Real Decreto 144/2021, de 9 de marzo. [Ref. BOE-A-2021-3762](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-3762)
+
+### Artículo 5. Composición y nombramiento.
+
+1\. El consejo estará compuesto por:
+
+a) La Presidencia, que será asumida por la persona titular del Ministerio de Trabajo y Economía Social.
+
+b) Catorce vocalías en representación de las organizaciones empresariales más representativas, tanto a nivel estatal como de comunidad autónoma, de conformidad con lo establecido en la disposición adicional sexta del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre.
+
+c) Catorce vocalías en representación de las organizaciones sindicales más representativas, tanto a nivel estatal como de comunidad autónoma, de conformidad con lo establecido en los artículos sexto.2 y séptimo.1 de la Ley 11/1985, de 2 de agosto, de Libertad Sindical.
+
+d) Catorce vocalías en representación de otras organizaciones e instituciones de reconocida representatividad e interés en el ámbito de la responsabilidad social de las empresas. A estos efectos se tendrá en cuenta la representación de entidades sin ánimo de lucro que reúnan, entre otros, los siguientes criterios: experiencia y actuación en distintos aspectos de la responsabilidad social, dimensión geográfica de sus actividades y volumen de recursos destinados a las mismas. También se tendrá en cuenta, entre otros, a la representación de las asociaciones, consejos u organizaciones de los campos de los consumidores, el medio ambiente, la discapacidad, la igualdad, la no discriminación y el respeto a la diversidad, la infancia y la economía social. Asimismo, se considerará la representación de instituciones académicas reconocidas por su actividad docente, de investigación y de asesoramiento en este ámbito, a personas expertas independientes, y a las fundaciones o asociaciones dedicadas específicamente a cuestiones de responsabilidad social de las empresas.
+
+e) Catorce vocalías en representación de las Administraciones públicas, de las cuales, diez serán de la Administración General del Estado; tres serán en representación de las comunidades autónomas y de la Ciudad de Ceuta y a la Ciudad de Melilla designadas mediante acuerdo de la Conferencia Sectorial de Empleo y Asuntos Laborales y una designada por la asociación de entidades locales más representativa de ámbito estatal, en representación de las entidades locales.
+
+1.º Las diez vocalías correspondientes a la Administración General del Estado se distribuirán de la siguiente forma, con rango mínimo de director o directora general:
+
+Vocalías permanentes que corresponderán a los siguientes ministerios: de Asuntos Exteriores, Unión Europea y Cooperación; de Hacienda; de Trabajo y Economía Social; de Industria y Turismo; de Política Territorial y Memoria Democrática; para la Transición Ecológica y el Reto Demográfico; de Economía, Comercio y Empresa; de Derechos Sociales, Consumo y Agenda 2030; y de Igualdad.
+
+2.º La vocalía restante será asumida, de forma rotatoria, con carácter anual, siguiendo el orden de precedencia, por los siguientes ministerios: de Educación, Formación Profesional y Deportes; de Agricultura, Pesca y Alimentación; de Inclusión, Seguridad Social y Migraciones y para la Transformación Digital y de la Función Pública.
+
+3.º Las vocalías en representación de las comunidades autónomas, de la Ciudad de Ceuta, de la Ciudad de Melilla y de las entidades locales tendrán, asimismo, rango mínimo de director o directora general.
+
+2\. Se designará una persona suplente en un número equivalente a las vocalías asignadas en el consejo, salvo para las personas expertas independientes que carecerán de suplente, que les sustituirán cuando no pudieran acudir a las reuniones convocadas. En el caso de la representación de los Departamentos ministeriales, las personas suplentes deberán tener nivel, al menos, de subdirector o subdirectora general.
+
+3\. La Secretaría del consejo será asumida por la persona titular de la dirección general con competencias en materia de responsabilidad social de las empresas, o persona que la sustituya, de conformidad con el artículo 10.2, que podrá disponer de la asistencia de personal de apoyo con el objeto de cumplir con las tareas de la Secretaría establecidas en el artículo 14. La Secretaría del consejo no tendrá la consideración de miembro del órgano.
+
+4\. Las vocalías del consejo y sus suplentes serán nombradas por la persona titular del Ministerio de Trabajo y Economía Social, a propuesta de los respectivos Departamentos ministeriales, de las organizaciones o entidades, de las comunidades autónomas y de las ciudades autónomas y de la asociación de entidades locales más representativa de ámbito estatal, produciéndose su cese en la misma forma que su nombramiento.
+
+La composición del consejo será paritaria en toda su estructura, garantizando una composición equilibrada de mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas. Se garantizará, asimismo, la paridad en las designaciones de cada una de las organizaciones que componen el consejo que haya de designar a más de una persona representante.
+
+La duración máxima del mandato de las vocalías a las que se refieren las letras b), c), d) y e) del apartado 1 será de cuatro años, salvo en los supuestos de las vocalías rotarias correspondientes a la Administración General del Estado y de la representación de las comunidades autónomas y de las ciudades autónomas, cuya duración del mandato será anual. Las vocalías podrán ser reelegidas tras su mandato.
+
+> Se modifica por el art. único.4 del Real Decreto 301/2026, de 8 de abril. [Ref. BOE-A-2026-8072](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8072)
+
+> Se modifica por el art. único.2 del Real Decreto 144/2021, de 9 de marzo. [Ref. BOE-A-2021-3762](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-3762)
+
+> Se declara inconstitucional y nulo el inciso destacado del apartado 1.c), en la redacción dada por el Real Decreto 1469/2008, de 5 de septiembre, por Sentencia del TS de 16 de junio de 2010. [Ref. BOE-A-2010-19155](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19155)
+
+> Se modifican los párrafos b), c), d) y e) del apartado 1 por el art. único del Real Decreto 1469/2008, de 5 de septiembre. [Ref. BOE-A-2008-15338](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-15338)
+
+### Artículo 6. Constitución y funcionamiento.
+
+El Consejo Estatal de Responsabilidad Social de las Empresas se entenderá constituido válidamente a efectos de la celebración de sesiones, deliberaciones y adopción de acuerdos, cuando concurran dos tercios, al menos, de sus componentes en primera convocatoria, y en segunda convocatoria, la mitad de sus miembros, siendo necesaria la presencia de todos los grupos a que se hace referencia en el artículo 5. En cualquier caso se requerirá la presencia del Presidente y Secretario del Consejo o de quienes les sustituyan.
+
+El Consejo Estatal de Responsabilidad Social de las Empresas funcionará en Pleno, en Comisión Permanente y en Grupos de trabajo.
+
+### Artículo 7. Pleno.
+
+1\. El Pleno del Consejo se reunirá, al menos, dos veces al año en sesión ordinaria y, de forma extraordinaria, cuando así se acuerde por la Presidencia, a iniciativa propia, o a solicitud de las tres quintas partes del Pleno, o de las tres quintas partes de la Comisión Permanente.
+
+2\. El Pleno podrá elaborar sus propias normas de funcionamiento en el marco de lo dispuesto por el artículo 15 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, acomodando su funcionamiento, mientras no se doten de tales normas específicas, a lo dispuesto en la ley.
+
+3\. Sin perjuicio de propiciar la adopción de decisiones por consenso, los acuerdos del Pleno serán adoptados por mayoría simple de sus miembros presentes.
+
+4\. Le corresponde al Pleno la aprobación de los informes, estudios, propuestas e iniciativas del Consejo, que no tendrán carácter vinculante, así como la aprobación de la Memoria Anual del Consejo a la que se refiere el artículo 4.1. b) de este Real Decreto.
+
+> Se modifica por el art. único.3 del Real Decreto 144/2021, de 9 de marzo. [Ref. BOE-A-2021-3762](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-3762)
+
+### Artículo 8. Presidente.
+
+1\. Corresponde al Presidente del Consejo:
+
+a) Ostentar la representación del Consejo.
+
+b) Acordar la convocatoria de las sesiones ordinarias y extraordinarias, y establecer, en su caso, el carácter de urgencia y la fijación del orden del día, teniendo en cuenta las peticiones de los demás miembros formuladas con la suficiente antelación y oída la Comisión Permanente.
+
+c) Presidir las sesiones, moderar el desarrollo de los debates y suspenderlos por causas justificadas.
+
+d) Asegurar el cumplimiento de las leyes y la regularidad de las deliberaciones.
+
+e) Visar las actas y certificaciones de los acuerdos del Consejo.
+
+f) Ejercer cuantas otras funciones sean inherentes a su condición de Presidente del Consejo.
+
+2\. En los supuestos de vacante, ausencia, enfermedad, abstención, recusación u otra causa legal de imposibilidad de asistencia, la persona titular de la Presidencia del consejo será sustituida por la persona titular de la secretaría de estado con competencias en materia de responsabilidad social de las empresas.
+
+> Se modifica el apartado 2 por el art. único.5 del Real Decreto 301/2026, de 8 de abril. [Ref. BOE-A-2026-8072](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8072)
+
+> Se modifica el apartado 2 por el art. único.4 del Real Decreto 144/2021, de 9 de marzo. [Ref. BOE-A-2021-3762](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-3762)
+
+### Artículo 9. Vocales.
+
+Corresponde a los vocales del Consejo:
+
+a) Ser convocados con el orden del día de las reuniones y disponer de la información precisa sobre los asuntos incluidos en el mismo, conforme a lo establecido en el artículo 13.
+
+b) Asistir a las sesiones y participar en sus debates.
+
+c) Ejercer su derecho al voto y formular, en su caso, su voto particular, así como expresar el sentido del mismo y los motivos que lo justifican.
+
+d) Formular y proponer la inclusión de asuntos a tratar en el orden del día, tanto en las sesiones ordinarias como extraordinarias.
+
+e) Formular ruegos y preguntas, cuando proceda.
+
+f) El derecho a la información necesaria para cumplir las funciones asignadas.
+
+g) Cuantas otras funciones sean inherentes a su condición de vocal.
+
+### Artículo 10. Secretario.
+
+1\. Corresponde al Secretario del Consejo:
+
+a) Asistir a las reuniones del Consejo con voz, pero sin voto.
+
+b) Efectuar la convocatoria de las sesiones del Consejo por orden de su Presidente, así como las citaciones a los miembros del mismo.
+
+c) Recibir los actos de comunicación de los miembros con el Consejo y, por tanto, las notificaciones, peticiones de datos, rectificaciones o cualquier clase de escritos que deba tener conocimiento el Consejo.
+
+d) Preparar el despacho de los asuntos que ha de conocer el Consejo, así como redactar y autorizar las actas de las sesiones.
+
+e) Expedir certificaciones de los dictámenes, informes, estudios, consultas y acuerdos aprobados por el Consejo.
+
+f) Custodiar la documentación del Consejo.
+
+g) Cuantas otras funciones sean inherentes a su condición de Secretario.
+
+2\. En los casos de ausencia, vacante, enfermedad u otra causa legal de imposibilidad de asistencia de la Secretaría, le sustituirá quien disponga el reglamento de régimen de funcionamiento.
+
+3\. La Secretaría facilitará a los miembros del Consejo información y asistencia técnica, para el mejor desarrollo de sus funciones.
+
+> Se modifica el apartado 2 por el art. único.5 del Real Decreto 144/2021, de 9 de marzo. [Ref. BOE-A-2021-3762](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-3762)
+
+### Artículo 11. Comisión Permanente.
+
+1\. En el seno del Consejo, y como órgano permanente para el ejercicio de sus funciones y cometidos relativos a asuntos de trámite, de preparación o estudio que le sean encomendados expresamente por el Pleno del Consejo, se establece la Comisión Permanente del Consejo, que tendrá la siguiente composición:
+
+a) Presidente: El mismo del Consejo, sin perjuicio de la delegación dispuesta en el artículo 8.2 de este real decreto.
+
+b) Cuatro vocales en representación de cada uno de los grupos recogidos en las letras b), c) y d) del apartado 1 del artículo 5 y cuatro vocales en representación de las Administraciones Públicas contempladas en la letra e) del apartado 1 del artículo 5, dos de los cuales serán de la Administración General del Estado, uno de la Administración Autonómica y otro de la asociación de entidades locales más representativas de ámbito estatal.
+
+c) Secretario: El del Consejo.
+
+2\. Los miembros de la Comisión Permanente serán designados entre los vocales del Consejo a propuesta de cada uno de los grupos de representación a que se refiere el artículo 5. El régimen de funcionamiento de la Comisión Permanente responderá a las mismas reglas que se establecerán para el Pleno del Consejo.
+
+3\. El Pleno del Consejo podrá delegar en la Comisión Permanente la realización de informes, propuestas, consultas y estudios. La Comisión Permanente rendirá cuentas con carácter periódico al Pleno del Consejo del desarrollo de las acciones encomendadas.
+
+### Artículo 12. Grupos de trabajo.
+
+Podrán constituirse en el seno del Consejo los grupos de trabajo paritarios que acuerde el Pleno para la realización de estudios o informes en temas que afecten a los cometidos del Consejo. Los grupos de trabajo podrán recabar, a través de la Secretaría, cuanta información y apoyo sea preciso para el cumplimiento de sus funciones.
+
+En los grupos de trabajo, a propuesta de cada grupo representado, podrán participar expertos de reconocido prestigio en materia de Responsabilidad Social de las Empresas con el fin de asesorar la realización de los cometidos del Consejo.
+
+### Artículo 13. Convocatorias y orden del día.
+
+1\. Las convocatorias se efectuarán por escrito, utilizando los medios idóneos para garantizar su recepción. La comunicación de cada convocatoria deberá efectuarse con una antelación mínima de siete días a la fecha prevista para la celebración de la sesión, salvo en los casos de urgencia, en que será de dos días.
+
+2\. La convocatoria contendrá el día, hora y lugar de la reunión a celebrar, así como el orden del día, y se acompañará con la documentación necesaria para estudio previo o indicará que obra en la Secretaría a disposición de los miembros del órgano. En la misma citación para la primera convocatoria se incluirá la de la segunda, para media hora después del momento señalado para la primera.
+
+3\. El orden del día de las sesiones ordinarias contendrá la lectura y, en su caso, la aprobación del acta de la sesión anterior, así como los asuntos que disponga la Presidencia, previa consulta a la Comisión Permanente.
+
+4\. No podrá ser objeto de deliberación o acuerdo ningún asunto que no figure incluido en el orden del día, salvo que estén presentes todos los miembros del Consejo y sea declarada la urgencia del asunto.
+
+5\. El orden del día de las sesiones extraordinarias contendrá exclusivamente los puntos que motiven su convocatoria.
+
+### Artículo 14. Actas del Consejo y de la Comisión Permanente.
+
+1\. De cada sesión que celebre el Consejo y la Comisión Permanente se levantará acta por el Secretario, que especificará necesariamente los asistentes, el orden del día de la reunión, las circunstancias de lugar y tiempo en que se ha celebrado, los puntos principales de las deliberaciones, así como el contenido de los acuerdos adoptados y, en su caso, el resultado de las votaciones y los votos particulares por escrito formulados si se hubiesen producido.
+
+2\. Las actas serán redactadas y firmadas por el Secretario, con el visto bueno del Presidente, y se aprobarán en la siguiente sesión, acompañándose el correspondiente texto del acta a la convocatoria.
+
+3\. El Secretario podrá emitir certificación sobre los acuerdos específicos que se hayan adoptado, sin perjuicio de la ulterior aprobación del acta. Quienes acrediten la titularidad de un interés legítimo, podrán dirigirse al Secretario del Consejo para que les sea expedida certificación de sus acuerdos.
+
+4\. Cualquier miembro del Consejo y de la Comisión Permanente tiene derecho a solicitar la transcripción íntegra de su intervención o propuesta, siempre que aporte en el acto o en el plazo que señale el Presidente el texto que se corresponda fielmente con su intervención, haciéndolo constar así en el acta o uniéndose copia de la misma.
+
+### Disposición adicional primera. Normativa aplicable.
+
+En lo no previsto en el presente Real Decreto será de aplicación lo dispuesto para los órganos colegiados en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifica por el art. único.6 del Real Decreto 144/2021, de 9 de marzo. [Ref. BOE-A-2021-3762](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-3762)
+
+### Disposición adicional segunda. Lenguaje no sexista.
+
+De conformidad con el artículo 14.11 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, que establece como criterio general de actuación de los Poderes Públicos la implantación de un lenguaje no sexista en el ámbito administrativo, todas las referencias al Presidente y al Secretario del Consejo Estatal de Responsabilidad Social de las Empresas y, en particular, las contenidas en los artículos 5 a 8, 10, 11 y 14 del presente Real Decreto se entenderán hechas a la Presidencia y la Secretaría, respectivamente.
+
+> Se añade por el art. único.7 del Real Decreto 144/2021, de 9 de marzo. [Ref. BOE-A-2021-3762](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-3762)
+
+### Disposición adicional tercera. Referencias orgánicas.
+
+Las referencias que se hacen en este real decreto al extinguido Ministerio de Trabajo y Asuntos Sociales, a la Secretaría General de Empleo y a la Dirección General de la Economía Social, del Trabajo Autónomo y del Fondo Social Europeo han de entenderse efectuadas al Ministerio de Trabajo y Economía Social, a la Secretaría de Estado de Economía Social y a la Dirección General de la Economía Social y de la Responsabilidad Social de las Empresas, así como a la persona titular del Ministerio de Trabajo y Economía Social, a la persona titular de la Secretaría de Estado de Economía Social y a la persona titular de la Dirección General de la Economía Social y de la Responsabilidad Social de las Empresas.
+
+> Se modifica por el art. único.6 del Real Decreto 301/2026, de 8 de abril. [Ref. BOE-A-2026-8072](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8072)
+
+> Se añade por el art. único.8 del Real Decreto 144/2021, de 9 de marzo. [Ref. BOE-A-2021-3762](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-3762)
+
+### Disposición adicional cuarta. Ausencia de incremento de gasto público.
+
+La creación y el funcionamiento del Consejo Estatal de Responsabilidad Social de las Empresas no supondrá incremento del gasto público, y será atendido con los medios personales, técnicos y presupuestarios existentes en la Secretaría de Estado de Economía Social del Departamento y por los órganos y organismos con representación en este.
+
+> Se añade por el art. único.7 del Real Decreto 301/2026, de 8 de abril. [Ref. BOE-A-2026-8072](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8072)
+
+### Disposición final primera. Sello de Empresa Socialmente Responsable.
+
+Se habilita a la persona titular del Ministerio de Trabajo y Economía Social, en el ámbito de sus competencias, para establecer mediante orden un procedimiento que desarrolle el Sello de Empresa Socialmente Responsable con el que se distinguirá a aquellas empresas y entidades que contribuyan a la implementación, la promoción y difusión de medidas en materia de responsabilidad social de las empresas.
+
+> Se modifica por el art. único.8 del Real Decreto 301/2026, de 8 de abril. [Ref. BOE-A-2026-8072](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8072)
+
+### Disposición final segunda. Habilitación normativa.
+
+Se autoriza a la persona titular del Ministerio de Trabajo y Economía Social para dictar cuantas normas sean necesarias para la ejecución de lo dispuesto en este real decreto.
+
+> Se modifica por el art. único.8 del Real Decreto 301/2026, de 8 de abril. [Ref. BOE-A-2026-8072](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8072)
+
+> Su anterior denominación era disposición final 1.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el “Boletín Oficial del Estado”.
+
+> Se añade por el art. único.8 del Real Decreto 301/2026, de 8 de abril. [Ref. BOE-A-2026-8072](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8072)
+
+> Su anterior denominación era disposición final 2.
+
+Dado en Madrid, el 15 de febrero de 2008.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Asuntos Sociales,
+
+JESÚS CALDERA SÁNCHEZ-CAPITÁN

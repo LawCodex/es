@@ -1,0 +1,175 @@
+---
+title: "Real Decreto 1435/1985, de 1 de agosto, por el que se regula la relación laboral especial de los artistas en espectáculos públicos"
+identifier: "BOE-A-1985-17303"
+eli: "https://www.boe.es/eli/es/rd/1985/08/01/1435"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Seguridad Social"
+date: 1985-08-01
+published: 1985-08-14
+in_force_from: 1986-01-01
+last_amended: 2026-07-25
+consolidated: 2026-07-27
+gazette: "Boletín Oficial del Estado núm. 194"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-17303"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1435/1985, de 1 de agosto, por el que se regula la relación laboral especial de los artistas en espectáculos públicos
+
+Norma derogada, con efectos de 25 de mayo de 2027, por la disposición derogatoria única del Real Decreto 607/2026, de 22 de julio. [Ref. BOE-A-2026-16173](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16173)
+
+Esta norma pasa a denominarse **«Real Decreto 1435/1985, de 1 de agosto, por el que se regula la relación laboral especial de las personas artistas que desarrollan su actividad en las artes escénicas, audiovisuales y musicales, así como de las personas que realizan actividades técnicas o auxiliares necesarias para el desarrollo de dicha actividad»**, según establece el art. 2.1 del Real Decreto-ley 5/2022, de 22 de marzo. [Ref. BOE-A-2022-4583](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4583)
+
+El artículo segundo. uno e) del Estatuto de los Trabajadores considera relación laboral de carácter especial la de los artistas en espectáculos públicos, estableciéndose en la disposición adicional primera de la Ley 32/1984, de 2 de agosto, sobre modificación de determinados artículos del Estatuto de los Trabajadores, cómo el Gobierno, en el plazo máximo de doce meses, contados a partir de la entrada en vigor de la referenciada Ley, había de regular el régimen jurídico de las relaciones laborales de carácter especial previstas en el Estatuto de los Trabajadores.
+
+Mediante la presente norma se da cumplimiento al tal mandato, habiéndose tenido en cuenta en primer lugar para fijar su contenido, tanto el ámbito amplio que el concepto de actividad artística tiene, como la diversidad de situaciones que en los distintos sectores artísticos pueden presentarse.
+
+Asimismo se ha tenido en cuenta que, al contrario que en otras relaciones laborales de carácter especial, en las actividades artísticas se han venido aplicando reglamentaciones y ordenanzas laborales e, incluso, convenios colectivos. Por todo ello, se ha optado por una regulación no exhaustiva del contenido de la relación laboral, contemplándose sólo aquellos aspectos susceptibles de un tratamiento unitario en todos los sectores de la actividad artística, y dejando así a la negociación colectiva la concreción y desarrollo de este esquema básico de derechos y deberes de las partes de esta relación laboral especial.
+
+En su virtud, consultadas las Organizaciones sindicales y patronales más representativas, de acuerdo con el Consejo de Estado, a propuesta del Ministerio de Trabajo y Seguridad Social, y previa deliberación del Consejo de Ministros, en su reunión del día 31 de julio de 1985,
+
+DISPONGO:
+
+## Artículo 1. Ámbito de aplicación.
+
+Uno. El presente real decreto regula la relación especial de trabajo de las personas artistas que desarrollan su actividad en las artes escénicas, audiovisuales y musicales, así como de las personas que realizan actividades técnicas o auxiliares necesarias para el desarrollo de dicha actividad, a la que se refiere el artículo 2.1.e) del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre.
+
+Dos. Se entiende por relación especial de trabajo de las personas artistas que desarrollan su actividad en las artes escénicas, audiovisuales y musicales, así como de las personas que realizan actividades técnicas o auxiliares necesarias para el desarrollo de dicha actividad, la establecida entre el empleador que organiza o el que produce una actividad artística, incluidas las entidades del sector público, y quienes desarrollen voluntariamente una actividad artística o una técnica o auxiliar, por cuenta y dentro del ámbito de organización y dirección de aquel a cambio de una retribución.
+
+Se entenderán incluidas en el ámbito de aplicación de esta norma, entre otras, las personas que desarrollan actividades artísticas, sean dramáticas, de doblaje, coreográfica, de variedades, musicales, canto, baile, de figuración, de especialistas; de dirección artística, de cine, de orquesta, de adaptación musical, de escena, de realización, de coreografía, de obra audiovisual; artista de circo, artista de marionetas, magia, guionistas, y, en todo caso, cualquier otra persona cuya actividad sea reconocida como la de un artista, intérprete o ejecutante por los convenios colectivos que sean de aplicación en las artes escénicas, la actividad audiovisual y la musical.
+
+A los efectos de este real decreto se entiende por personal técnico y auxiliar el que presta servicios vinculados directamente a la actividad artística y que resulten imprescindibles para su ejecución, tales como la preparación, montaje y asistencia técnica del evento, o cualquier trabajo necesario para la completa ejecución de aquella, así como la sastrería, peluquería y maquillaje y otras actividades entendidas como auxiliares, siempre que no se trate de actividades que se desarrollen de forma estructural o permanente por la empresa, aunque sean de modo cíclico.
+
+Tres. Quedan incluidas en el ámbito de aplicación del presente real decreto todas las relaciones establecidas para las distintas fases de la ejecución de actividades artísticas, técnicas y auxiliares en los términos descritos en los apartados anteriores, mediante comunicación pública o destinadas a la fijación o difusión a través de cualquier medio o soporte técnico, tangible o intangible, producción fonográfica o audiovisual, en medios tales como teatro, cine, radiodifusión, televisión, internet, incluida la difusión mediante *streaming*, instalaciones deportivas, plazas, circo, festivales, tablaos, salas de fiestas, discotecas, y, en general, cualquier lugar destinado habitual o accidentalmente a espectáculos públicos, o a grabaciones, producciones o actuaciones de tipo artístico o de exhibición.
+
+Cuarto. Las actuaciones artísticas en un ámbito privado estarán excluidas de la presente regulación, sin perjuicio del carácter laboral que pueda corresponder a la contratación y a la competencia, en su caso, del orden jurisdiccional social para conocer de los conflictos que surjan en relación con la misma.
+
+Cinco. Los aspectos administrativos de la organización y participación en espectáculos públicos se regirán por su normativa específica.
+
+> Se modifica por el art. 2.2 del Real Decreto-ley 5/2022, de 22 de marzo. [Ref. BOE-A-2022-4583](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4583)
+
+## Artículo 2. Capacidad para contratar.
+
+Uno. La autoridad laboral podrá autorizar excepcionalmente la participación de menores de dieciséis años en espectáculos públicos, siempre que dicha participación no suponga peligro para su salud física ni para su formación profesional y humana. La autorización habrá de solicitarse por los representantes legales del menor, acompañando el consentimiento de éste, si tuviera suficiente juicio, y la concesión de la misma deberá constar por escrito, especificando el espectáculo o la actuación para la que se concede. Concedida la autorización, corresponde al padre o tutor la celebración del correspondiente contrato, requiriéndose también el previo consentimiento del menor, si tuviere suficiente juicio; asimismo, corresponde al padre o tutor el ejercicio de las acciones derivadas del contrato.
+
+Dos. En materia de nacionalidad se estará a lo que disponga la legislación vigente para los trabajadores extranjeros en España.
+
+## Artículo 3. Forma del contrato.
+
+Uno. Los contratos previstos en este real decreto deberán constar por escrito, cualquiera que sea su modalidad y duración.
+
+Dos. Cualquiera que sea la duración de la relación laboral, la empresa deberá informar por escrito a la persona trabajadora sobre los elementos esenciales del contrato y las principales condiciones de ejecución de la prestación laboral, siempre que tales elementos y condiciones no figuren en el contrato de trabajo formalizado por escrito.
+
+En lo no previsto en este artículo se estará a lo dispuesto en el artículo 8 del Estatuto de los Trabajadores.
+
+> Se modifica por el art. 2.3 del Real Decreto-ley 5/2022, de 22 de marzo. [Ref. BOE-A-2022-4583](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4583)
+
+## Artículo 4. Período de prueba.
+
+Podrá concertarse por escrito un período de prueba en los contratos de duración superior a diez días. La duración del período de prueba no podrá exceder de cinco días en los contratos de duración no superior a dos meses; de diez días en los de duración no superior a seis meses, y de quince días en los restantes. En todo lo demás, el período de prueba se regirá por lo dispuesto en el Estatuto de los Trabajadores.
+
+## Artículo 5. Duración y modalidades del contrato de trabajo.
+
+Uno. El contrato de trabajo de las personas artistas que desarrollan su actividad en las artes escénicas, la actividad audiovisual y la música, podrá celebrarse para una duración indefinida o por tiempo determinado.
+
+Dos. El contrato laboral artístico de duración determinada, que solo se celebrará para cubrir necesidades temporales de la empresa, podrá ser para una o varias actuaciones, por un tiempo cierto, por una temporada o por el tiempo que una obra permanezca en cartel, o por el tiempo que duren las distintas fases de la producción. Podrán acordarse prórrogas sucesivas del contrato laboral artístico de duración determinada, siempre que la necesidad temporal de la empresa, que justificó su celebración, persista.
+
+Para que se entienda que concurre causa justificada de temporalidad será necesario que se especifiquen con precisión en el contrato la causa habilitante de la contratación temporal, las circunstancias concretas que la justifican y su conexión con la duración prevista.
+
+Tres. Los contratos previstos en el apartado dos de este artículo se podrán realizar con el personal técnico y auxiliar que desarrolle actividades en la ejecución directa y exclusiva de la actividad que justifique la realización del contrato artístico, salvo que se trate de actividades estructurales o permanentes del empleador.
+
+Cuatro. Las personas contratadas incumpliendo lo establecido en este artículo adquirirán la condición de fijas. Igualmente adquirirán la condición de fijas las personas trabajadoras que no hubiesen sido dadas de alta en la Seguridad Social o en los supuestos de encadenamiento de contratos de duración determinada, incluidos los contratos laborales artísticos para artistas, técnicos o auxiliares, en los términos previstos en los apartados 4 y 5 del artículo 15 del texto refundido de la Ley del Estatuto de los Trabajadores.
+
+> Se modifica por el art. 2.4 del Real Decreto-ley 5/2022, de 22 de marzo. [Ref. BOE-A-2022-4583](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4583)
+
+## Artículo 6. Derechos y deberes de las partes.
+
+Uno. En la relación especial de trabajo de los artistas en espectáculos públicos, son de aplicación los derechos y deberes laborales básicos a los que se refiere la sección segunda del capítulo primero del título I Estatuto de los Trabajadores.
+
+Dos. El artista está obligado a realizar la actividad artística para la que se le contrató, en las fechas señaladas, aplicando la diligencia específica que corresponda a sus personales aptitudes artísticas, y siguiendo las instrucciones de la Empresa en lo que afecte a la organización del espectáculo.
+
+Tres. Los artistas contratados para la participación en espectáculos públicos tienen derecho a la ocupación efectiva, no pudiendo, salvo en caso de sanción, ser excluidos de los ensayos ni demás actividades preparatorias para el ejercicio de su respectiva actividad artística.
+
+Cuatro. El pacto de plena dedicación, del que debe quedar expresa constancia en el contrato, no podrá ser rescindido unilateralmente por el artista durante su vigencia. La compensación económica por el mismo podrá ser expresa o quedar englobada en la retribución a percibir por el artista. En los supuestos de ruptura de este pacto por el artista, el empresario tendrá derecho a una indemnización por daños y perjuicios, cuya cuantía, salvo expresa previsión en el contrato, será fijada por el órgano judicial competente, valorando factores como el tiempo de duración previsto para el pacto, la cuantía de la compensación percibida por el artista, y, en general, la lesión producida por el incumplimiento contractual; ello, no obstante, el órgano judicial podrá moderar la cuantía de la indemnización cuando se den las circunstancias previstas en el artículo 1.154 del Código Civil.
+
+## Artículo 7. Retribuciones.
+
+Uno. La retribución de los artistas en espectáculos públicos será, en sus modalidades y cuantía, la pactada en convenio colectivo o contrato individual de trabajo, con respeto, en todo caso, de la normativa sobre salarios mínimos.
+
+Dos. Tendrán la consideración de salario todas las percepciones que el artista tenga reconocidas frente a la Empresa por la prestación de su actividad artística, sin más exclusiones que las que deriven de la legislación vigente.
+
+Tres. Mediante la negociación colectiva se regulará, en su caso, el tratamiento retributivo de aquellos tiempos en los que, sin estar comprendidos en la noción de jornada de trabajo del artículo siguiente, el trabajador se encuentre en situación de disponibilidad respecto del empresario.
+
+## Artículo 8. Jornada.
+
+Uno. La jornada del artista comprenderá la prestación efectiva de su actividad artística ante el público y el tiempo en que está bajo las órdenes de la Empresa, a efectos de ensayo o de grabación de actuaciones. Quedará excluida, en todo caso, la obligatoriedad de realización de ensayos gratuitos.
+
+Dos. En materia de duración y distribución de la jornada se estará a lo que se disponga en el convenio colectivo o pacto individual, con respeto, en todo caso, de la normativa del Estatuto de los Trabajadores en lo referente a la duración máxima de la jornada.
+
+Tres. Por convenio colectivo o pacto individual se regulará, en su caso, el régimen de los desplazamientos y giras.
+
+## Artículo 9. Descansos y vacaciones.
+
+Uno. Los artistas en espectáculos públicos disfrutarán de un descanso mínimo semanal de día y medio, que será fijado de mutuo acuerdo, y que no coincidirá con los días en que haya de realizarse ante el público la actividad artística de que se trate. Si no es posible el disfrute ininterrumpido del descanso semanal, podrá fraccionarse, respetando, en todo caso, un descanso mínimo ininterrumpido de veinticuatro horas, salvo que, mediante pacto individual o colectivo, se estableciera la acumulación por períodos de hasta cuatro semanas del disfrute del descanso semanal.
+
+Dos. Cuando no puedan disfrutarse las fiestas incluidas en el calendario laboral por desarrollarse en ellas la actividad artística ante el público, se trasladará el descanso a otro día dentro de la semana, o del período más amplio que se acuerde.
+
+Tres. Los artistas en espectáculos públicos tendrán derecho a unas vacaciones anuales retribuidas, cuya duración mínima será de treinta días naturales. Cuando el artista no preste servicios en todos los días que en el conjunto del año tienen la consideración de laborales, la retribución de los descansos se reducirá proporcionalmente, pudiendo incluirse la misma en la retribución global correspondiente a los días de trabajo efectivo, particularmente cuando se pacten tales retribuciones como correspondientes a unidades específicas del trabajo artístico, como actuaciones, giras, rodajes y similares.
+
+## Artículo 10. Extinción del contrato.
+
+Uno. La extinción del contrato de duración determinada se producirá por el total cumplimiento del mismo, o por la expiración del tiempo convenido, o, en su caso, de la prórroga o las prórrogas acordadas.
+
+Dos. A la finalización del contrato artístico previsto en el artículo 5, la persona trabajadora tendrá derecho a recibir una indemnización de cuantía equivalente a la parte proporcional de la cantidad que resultaría de abonar doce días de salario por cada año de servicio, o la superior fijada en convenio colectivo o contrato individual.
+
+Cuando la duración del contrato, incluida, en su caso, las prórrogas, sea superior a dieciocho meses, la indemnización a abonar será, como mínimo, de una cuantía equivalente a la parte proporcional de la cantidad que resultaría de abonar veinte días de salario por cada año de servicio.
+
+Tres. El período de preaviso de extinción podrá concertarse por escrito en el contrato con sujeción a los límites de duración que, en su caso, se establezcan en los convenios colectivos. En defecto de pacto, la empresa deberá preavisar la extinción del contrato a la persona afectada con diez días de antelación, si su duración ha sido superior a tres meses; con quince días si ha sido superior a seis meses, y con un mes si ha sido superior a un año. El incumplimiento de esta obligación por parte del empresario dará lugar al abono a la persona trabajadora de una indemnización equivalente al salario de los días en que dicho plazo se hubiera incumplido.
+
+Cuatro. El incumplimiento del contrato por la empresa o por la persona trabajadora, que conlleve la inejecución total de la prestación artística, se regirá por lo establecido al respecto en el Código Civil. Por inejecución total se entenderán aquellos supuestos en los que ni siquiera hubiera empezado a realizarse el trabajo que constituye la prestación pactada.
+
+> Se modifica por el art. 2.5 del Real Decreto-ley 5/2022, de 22 de marzo. [Ref. BOE-A-2022-4583](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4583)
+
+## Artículo 11. Jurisdicción competente.
+
+Los conflictos que surjan entre las personas trabajadoras y las empresas como consecuencia del contrato de trabajo serán competencia de los jueces y tribunales del orden jurisdiccional social.
+
+> Se modifica por el art. 2.6 del Real Decreto-ley 5/2022, de 22 de marzo. [Ref. BOE-A-2022-4583](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4583)
+
+## Artículo 12.
+
+Uno. En lo no regulado por el presente Real Decreto será de aplicación el Estatuto de los Trabajadores y las demás normas laborales de general aplicación, en cuanto sean compatibles con la naturaleza especial de la relación laboral de los artistas en espectáculos públicos.
+
+Dos. Para los sujetos comprendidos en el ámbito de esta relación laboral especial, en tanto no sean sustituidas por convenio colectivo, y en lo que no se opongan a lo dispuesto en el presente Real Decreto y al resto de la normativa laboral general aplicable, según lo establecido en el número 1 de este artículo continuarán siendo aplicables:
+
+– La Reglamentación Nacional de Trabajo para el espectáculo taurino, aprobada por Orden de 17 de junio de 1943.
+
+– La Reglamentación Nacional de Trabajo en la Industria Cinematográfica, aprobada por Orden de 31 de diciembre de 1948.
+
+– La Ordenanza de Trabajo de Teatro, Circo, Variedades y Folklore, aprobada por Orden de 28 de julio de 1972.
+
+– La Ordenanza Laboral para la actividad de profesionales de la música, aprobada por Orden de 2 de mayo de 1977.
+
+## Disposición adicional única. Régimen aplicable al personal técnico y auxiliar.
+
+Las previsiones contenidas en este real decreto son de aplicación al personal técnico y auxiliar al que se refiere el artículo 1.
+
+Por excepción, no les resulta de aplicación los artículos 2, 6, 7, 8, 9 y 10, apartado 4, aplicables exclusivamente a las personas artistas.
+
+> Se añade por el art. 2.7 del Real Decreto-ley 5/2022, de 22 de marzo. [Ref. BOE-A-2022-4583](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4583)
+
+## Disposición final.
+
+El presente Real Decreto entrará en vigor el día 1 de enero de 1986.
+
+Dado en Palma de Mallorca a 1 de agosto de 1985.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Seguridad Social,
+
+JOAQUÍN ALMUNIA AMANN

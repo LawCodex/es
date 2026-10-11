@@ -1,0 +1,455 @@
+---
+title: "Real Decreto 123/2015, de 27 de febrero, por el que se regula la licencia y habilitaciones del piloto de ultraligero"
+identifier: "BOE-A-2015-2670"
+eli: "https://www.boe.es/eli/es/rd/2015/02/27/123"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2015-02-27
+published: 2015-03-13
+in_force_from: 2015-05-13
+last_amended: 2026-03-12
+consolidated: 2026-03-12
+gazette: "Boletín Oficial del Estado núm. 62"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2670"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 123/2015, de 27 de febrero, por el que se regula la licencia y habilitaciones del piloto de ultraligero
+
+Incluye la corrección de errores publicada en BOE núm. 86, de 10 de abril de 2015. [Ref. BOE-A-2015-3831](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3831).
+
+Las escuelas de aviación y las actividades de deportes aéreos se encuentran sometidas a las prescripciones de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y de la Ley 21/2003, de 7 de julio, de Seguridad Aérea, disponiendo esta última que es competencia del Ministerio de Fomento la ordenación de la aviación recreativa.
+
+La regulación del vuelo deportivo en ultraligero y el régimen aplicable a los centros de vuelo y escuelas de ultraligeros están en la actualidad recogidos en la Orden del Ministerio de Transportes, Turismo y Comunicaciones, de 24 de abril de 1986, dictada en desarrollo del Real Decreto 2876/1982, de 15 de octubre, por el que se regula el registro y uso de aeronaves de estructura ultraligera y se modifica el registro de las aeronaves privadas no mercantiles.
+
+El tiempo transcurrido desde la adopción de estas disposiciones, junto a la evolución constante de esta actividad de vuelo y los avances técnicos de las aeronaves ultraligeras hacen necesario abordar la modificación urgente del régimen de la enseñanza y las licencias y habilitaciones para la práctica del vuelo en ultraligero para asegurar el mantenimiento de los estándares de seguridad de la operación. Con este objeto se adopta este real decreto.
+
+Además, se simplifican los requisitos exigibles para los certificados médicos de los pilotos de aeronaves ultraligeras remitiendo a los establecidos por el Reglamento (UE) n.º 1178/2011 de la Comisión de 3 de noviembre, por el que se establecen los requisitos técnicos y procedimientos administrativos relacionados con el personal de vuelo de la aviación civil en virtud del Reglamento (CE) n.º 216/2008 del Parlamento Europeo y del Consejo para las licencias de piloto de aeronave ligera (LAPL), aquéllas que habilitan para actuar sin remuneración como piloto al mando en operaciones no comerciales en aviones y helicópteros con una masa máxima de despegue de 2.000 kg o inferior, transportando un número máximo de 3 pasajeros.
+
+Se modifica el Real Decreto 2876/1982, de 15 de octubre, por el que se regula el registro y uso de aeronaves de estructura ligera y se modifica el registro de aeronaves privadas no mercantiles, para adecuar su régimen a lo previsto en esta norma y se derogan los capítulos de la Orden de 24 de abril de 1986, por la que se regula el vuelo de ultraligero, que regulaban las materias objeto de desarrollo mediante este real decreto.
+
+Este real decreto se dicta al amparo del artículo 149.1.20.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de control del espacio aéreo, tránsito y transporte aéreo y de conformidad con lo dispuesto en la disposición final cuarta de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea.
+
+En su virtud, a propuesta de la Ministra de Fomento, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 27 de febrero de 2015,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+Este real decreto tiene por objeto regular los requisitos y el procedimiento para la obtención de la licencia y las habilitaciones para los pilotos de ultraligeros, así como los requisitos de la enseñanza y pruebas para su obtención.
+
+### Artículo 2. Definiciones.
+
+1\. A los efectos de este real decreto se entiende por:
+
+a) Desplazamiento del Centro de Gravedad (DCG): consideración particular de los ultraligeros que supeditan su mando aerodinámico al desplazamiento del centro de gravedad del conjunto de la aeronave y ocupantes.
+
+b) Licencia de ultraligero: título que habilita a su titular a realizar la actividad recreativa de vuelo en ultraligero en las condiciones y conforme a las habilitaciones anotadas en la misma.
+
+c) Ultraligero o aeronave ULM: aerodino motorizado comprendido en alguna de las categorías previstas en el artículo 1, apartado 2, del Real Decreto 765/2022, de 20 de septiembre, por el que se regula el uso de aeronaves motorizadas ultraligeras (ULM).
+
+d) Vuelo solo: aquel en el que el alumno piloto es el único ocupante del ultraligero y en el que desarrolla los ejercicios bajo la supervisión del instructor.
+
+e) Registro de tiempo de vuelo: documento de anotación de los vuelos realizados por el piloto de ultraligeros.
+
+f) Habilitación Hidroaeronave (HD): habilitación asociada a un tipo o categoría de aeronave que capacita para operar dicho tipo o categoría en una hidrosuperficie.
+
+2\. Al resto de los conceptos utilizados en este real decreto le serán de aplicación las definiciones del Reglamento UE n.º 1178/2011, de la Comisión, de 3 de noviembre de 2011, por el que se establecen requisitos técnicos y procedimientos administrativos relacionados con el personal de vuelo de la aviación civil en virtud del Reglamento (CE) n.º 216/2008 del Parlamento Europeo y del Consejo.
+
+> Se modifica el apartado 1 por el art. 2.1 del Real Decreto 182/2026, de 11 de marzo. [Ref. BOE-A-2026-5716](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5716)
+
+### Artículo 3. Competencias.
+
+Corresponde a la Agencia Estatal de Seguridad Aérea, de conformidad con lo previsto en su Estatuto, aprobado por Real Decreto 184/2008, de 8 de febrero:
+
+a) Expedir las licencias de los pilotos de ultraligero, así como, en su caso, la suspensión o revocación a las que hubiera lugar, tanto de la licencia de piloto de ultraligero como de las atribuciones para operar aeronaves ULM con licencias emitidas de acuerdo con el Reglamento (UE) 1178/2011 de la Comisión, de 3 de noviembre de 2011, de conformidad con lo previsto en la Ley 21/2003, de 7 de julio, de Seguridad Aérea.
+
+b) Anotar en las licencias la obtención, reválida y renovación de las habilitaciones de los pilotos de ultraligeros.
+
+c) Convalidar los títulos y habilitaciones requeridos para el vuelo en ultraligero otorgados por Estados miembros del Convenio de Aviación Civil Internacional.
+
+d) La inspección aeronáutica, de acuerdo con lo dispuesto en los Títulos III y IV de la Ley 21/2003, de 7 de julio, de Seguridad Aérea.
+
+e) El ejercicio de la potestad sancionadora en esta materia, de conformidad con el Título V de la Ley 21/2003, de 7 de julio.
+
+> Se modifica la letra a) por el art. 2.2 del Real Decreto 182/2026, de 11 de marzo. [Ref. BOE-A-2026-5716](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5716)
+
+## CAPÍTULO II — Enseñanza y exámenes
+
+### Artículo 4. Alumno piloto.
+
+1\. Para ser alumno piloto se requiere una edad mínima de 16 años y estar matriculado en una escuela de vuelo de ultraligeros autorizada por la Agencia Estatal de Seguridad Aérea.
+
+2\. Para matricularse en una escuela de vuelo de ultraligeros será necesario presentar la siguiente documentación:
+
+a) Fotocopia del DNI, en el caso de ciudadanos españoles, y número de identificación de extranjero o pasaporte en vigor, en el caso de ciudadanos de los Estados miembros de la Unión Europea, de los Estados parte en el Acuerdo del Espacio Económico Europeo o de terceros países.
+
+No será necesario aportar fotocopia del DNI o NIE cuando el interesado preste el consentimiento para la verificación de los datos de identidad a través del Sistema de Verificación de Datos establecido en el Real Decreto 522/2006, de 28 de abril, por el que se suprime la aportación de fotocopias de documentos de identidad en los procedimientos administrativos de la Administración General del Estado y de sus organismos públicos vinculados o dependientes.
+
+b) Los menores de edad adjuntarán la autorización de quien ostente la patria potestad o tutela sobre el interesado, con legitimación notarial de firma o legalización por la representación diplomática o consular correspondiente.
+
+c) Certificado médico en vigor conforme a los requisitos previstos en el artículo 8, letra b).
+
+3\. Las escuelas de vuelo de ultraligeros emitirán un documento de identificación de cada alumno matriculado, en el que figurará también la identidad del responsable de la instrucción, y que caducará en la misma fecha que el certificado médico a que hace referencia el apartado c).
+
+El alumno piloto deberá portar dicho documento en todo momento mientras desarrolle la instrucción práctica.
+
+4\. El alumno piloto no volará solo a menos que, con motivo de su propia instrucción, lo haga bajo la supervisión de un instructor de vuelo que determinará los contenidos y los límites de la zona de vuelo y controlará su desarrollo. En ningún caso el alumno piloto puede volar solo en vuelo transfronterizo ni llevar acompañantes.
+
+> Se modifica el apartado 4 por el art. 2.3 del Real Decreto 182/2026, de 11 de marzo. [Ref. BOE-A-2026-5716](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5716)
+
+### Artículo 5. Instrucción.
+
+1\. Las escuelas de vuelo de ultraligeros autorizadas por la Agencia Estatal de Seguridad Aérea impartirán la formación teórica y la formación práctica especifica del tipo de aeronave o aeronaves de escuela de que dispongan.
+
+2\. Para la obtención de la licencia de piloto de ultraligero será necesario completar la instrucción teórica y práctica requerida.
+
+3\. La instrucción teórica se orienta a proporcionar un nivel de conocimientos teóricos apropiados a través de exámenes sobre las siguientes materias:
+
+a) Derecho aéreo (DA).
+
+b) Conocimiento general de la aeronave del tipo en el que realice la instrucción (CGA).
+
+c) Performance (PE).
+
+d) Actuaciones y Limitaciones Humanas (FH).
+
+e) Meteorología (ME).
+
+f) Navegación (NV).
+
+g) Procedimientos Operacionales (PO).
+
+h) Principios de vuelo (PV).
+
+i) Comunicaciones (COM).
+
+La Agencia Estatal de Seguridad Aérea detallará los contenidos básicos de cada una de las materias que integran el programa de enseñanza y lo publicará en su página web.
+
+4\. La instrucción práctica comprenderá la realización, en el tipo de aeronave en la que se quiere obtener la licencia, de un mínimo de quince (15) horas de instrucción de vuelo, que incluirán tres horas de vuelo solo, durante las cuales se efectuarán no menos de veinte despegues y veinte aterrizajes y un vuelo de travesía con una duración mínima de sesenta minutos, durante el cual se realizará una parada completa en un campo de vuelo diferente del de partida.
+
+En el caso de aeronaves con desplazamiento de centro de gravedad, el número mínimo de horas de instrucción a que se refiere este apartado será de diez (10) horas.
+
+5\. Con carácter previo al primer vuelo solo, el alumno habrá demostrado a su instructor el conocimiento, tanto teórico como práctico, de las reglas de vuelo y situaciones que se pueden presentar durante dicho vuelo.
+
+6\. Adicionalmente al personal instructor habilitado conforme a lo establecido en este real decreto, podrán ejercer como instructores de ultraligero los pilotos con licencia de piloto privado (“PPL”, por sus siglas en inglés de “Private Pilot Licence”), piloto comercial (“CPL”, por sus siglas en inglés de “Commercial Pilot Licence”) o piloto de transporte de línea aérea (“ATPL”, por sus siglas en inglés de “Airline Transport Pilot Licence”) emitida de conformidad con el Reglamento (UE) n.º 1178/2011 de la Comisión, de 3 de noviembre de 2011, sin necesidad de la obtención de la licencia de piloto de ultraligero, siempre que en todo momento:
+
+a) Pueda ejercer las atribuciones de su licencia PPL, CPL o ATPL, según corresponda, de acuerdo con el Reglamento (UE) n.º 1178/2011 de la Comisión, de 3 de noviembre de 2011;
+
+b) Esté habilitado para ser instructor, de conformidad con la subparte J del Reglamento (UE) n.º 1178/2011 de la Comisión, de 3 de noviembre de 2011, en una categoría y clase de aeronave equivalente, y pueda ejercer las atribuciones de dicho certificado sin la limitación de llevar a cabo la instrucción de vuelo bajo la supervisión de otro instructor;
+
+c) Haya realizado, al menos, veinte despegues y veinte aterrizajes como piloto al mando de un ultraligero en la categoría y habilitación de aeronave correspondiente;
+
+d) Haya realizado un vuelo de al menos una hora con un instructor de ultraligero habilitado para la misma categoría y habilitación de aeronave en el ámbito de una escuela de vuelo de ultraligeros y en una aeronave apta para el uso en escuela. El instructor deberá firmar e identificarse en el registro de tiempos de vuelo de ULM del piloto una vez haya verificado que dicho piloto está capacitado para la instrucción en ultraligeros; y
+
+e) Haya realizado en los últimos doce meses al menos tres horas de instrucción de vuelo en aeronaves ULM o el vuelo establecido en la letra anterior.
+
+No obstante lo dispuesto en la letra e), mediante medios aceptables de cumplimiento (en lo sucesivo, “AMC”, por sus siglas en inglés de “Acceptable Means of Compliance”) adoptados por el órgano competente por razón de la materia de la Agencia Estatal de Seguridad Aérea, se podrán reconocer otras formas de acreditar la experiencia reciente y suficiente como instructor de ultraligero, sin perjuicio de que los interesados puedan acreditar dicho cumplimiento a través de medios alternativos de cumplimiento (en lo sucesivo “AltMoC”, por sus siglas en inglés de “Alternative Means of Compliance”) cuando éstos hayan sido previamente aprobados por la Agencia Estatal de Seguridad Aérea.
+
+> Se añade el apartado 6 por el art. 2.4 del Real Decreto 182/2026, de 11 de marzo. [Ref. BOE-A-2026-5716](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5716)
+
+### Artículo 6. Exámenes.
+
+1\. Para la obtención de la licencia de piloto de ultraligero será necesario, tras completar la instrucción teórica impartida por una escuela de vuelo autorizada, superar un examen teórico y un examen práctico.
+
+2\. El examen teórico será tipo test. Una vez superado, el examen teórico tendrá un periodo de validez de 24 meses.
+
+3\. El examen práctico, consistirá en una prueba de vuelo, cuyo contenido será descrito por la Agencia Estatal de Seguridad Aérea y publicado en su página web. Se llevará a cabo en presencia de un examinador designado por la Agencia Estatal de Seguridad Aérea, según se prevé en el artículo siguiente.
+
+Para la realización del examen práctico, el alumno piloto deberá cumplir los siguientes requisitos:
+
+a) Haber completado la instrucción práctica a que se refiere el artículo 4.4.
+
+b) Haber superado el examen teórico y encontrarse dentro del plazo de validez previsto en el apartado anterior.
+
+c) Contar con una edad mínima de 17 años en la fecha en que se realice el examen, sin perjuicio de que la obtención de la licencia esté sujeta al cumplimiento del requisito de edad previsto en el artículo 8.1, letra a).
+
+d) Mantener en vigor el certificado médico previsto en el artículo 8.1, letra b).
+
+### Artículo 7. Examinador.
+
+1\. El examen práctico a que se refiere el apartado 3 del artículo anterior será supervisado por un examinador a bordo de la aeronave, designado por la Agencia Estatal de Seguridad Aérea. Corresponde también al examinador designado supervisar la prueba de vuelo para la obtención y renovación de las habilitaciones, según se dispone en los artículos siguientes, así como para la convalidación a que hace referencia el artículo 13.2.
+
+2\. La Agencia Estatal de Seguridad Aérea podrá designar examinadores entre quienes desarrollen tareas de inspección aeronáutica al servicio de la Agencia Estatal de Seguridad Aérea.
+
+3\. También podrá designar examinadores entre quienes hayan obtenido el certificado de examinador, expedido por la Agencia Estatal de Seguridad Aérea, de conformidad con lo previsto en este artículo.
+
+Para obtener el certificado de examinador será necesario cumplir los siguientes requisitos:
+
+a) Disponer de la habilitación de instructor de ultraligero, en vigor y correspondiente al tipo de ultraligero en el que va a examinar.
+
+b) Acreditar, al menos, 500 horas de vuelo como piloto al mando y 150 horas como instructor de ultraligero del tipo para el que esté habilitado.
+
+c) Superar el curso de estandarización establecido por la Agencia Estatal de Seguridad Aérea, cuyo contenido estará disponible en su página web.
+
+d) Superar una evaluación de competencia, que deberá realizarse ante un examinador designado del apartado 2 o un examinador experimentado del apartado 4.
+
+La evaluación de competencia consistirá en la supervisión de una prueba de vuelo en la que el interesado actuará como examinador, y que incluirá una sesión informativa y un análisis postvuelo.
+
+e) No haber sido sancionado por la Agencia Estatal de Seguridad Aérea con la limitación, suspensión o revocación de la licencia de ultraligero.
+
+4\. Los examinadores certificados conforme al apartado anterior podrán, previa solicitud y justificación de su experiencia, ser acreditados por la Agencia Estatal de Seguridad Aérea como examinadores experimentados.
+
+La acreditación como examinador experimentado habilita para realizar, además de las pruebas de vuelo previstas en el apartado 1:
+
+a) La evaluación de competencia para obtener la autorización de examinador, a que se refiere el apartado 3 d), y
+
+b) La evaluación de competencia para la obtención de la habilitación de instructor de ultraligero (FI), prevista en el artículo 11.1.c).
+
+5\. En el certificado expedido se reflejarán las atribuciones del examinador, anotándose, cuando proceda, la acreditación como examinador experimentado. El certificado tendrá una validez de tres años, y podrá ser revalidado durante su periodo de validez cuando, además de los requisitos previstos en las letras a) y d) del apartado 3, concurran los dos requisitos siguientes:
+
+a) Haber realizado dos pruebas de vuelo de las previstas en el apartado 1 en los doce meses anteriores a la solicitud. En el caso de un examinador experimentado se le exigirá, además, haber realizado una evaluación de competencia.
+
+b) Haber realizado el curso de actualización para examinadores impartido por la Agencia Estatal de Seguridad Aérea.
+
+Cuando el certificado de examinador hubiera caducado, la obtención de un nuevo certificado exigirá el cumplimiento de todos los requisitos previstos en el apartado 3.
+
+6\. Podrán obtener un certificado de examinador, sin necesidad de cumplir con lo establecido en las letras a), b) y e) del apartado 3, los pilotos con licencia de piloto privado (PPL), piloto comercial (CPL) o piloto de transporte de línea aérea (ATPL) emitida de conformidad con el Reglamento (UE) n.º 1178/2011 de la Comisión, de 3 de noviembre de 2011, sin necesidad de la emisión de la licencia de ultraligero, siempre que en todo momento:
+
+a) Pueda ejercer las atribuciones de su licencia PPL, CPL o ATPL, según corresponda, de acuerdo con el Reglamento (UE) n.º 1178/2011 de la Comisión, de 3 de noviembre de 2011;
+
+b) Esté habilitado para ser examinador, de conformidad con el Reglamento (UE) n.º 1178/2011, de la Comisión, de 3 de noviembre de 2011, en una categoría y clase de aeronave equivalente, y pueda ejercer dichas atribuciones; y
+
+c) Pueda ejercer como instructor en ultraligeros conforme a lo establecido en este real decreto.
+
+7\. Se abstendrá de ejercer las funciones previstas en este artículo el examinador que haya impartido más del 50% de la instrucción de vuelo del interesado requerida para la obtención o mantenimiento de la licencia, habilitación o certificado para el que se esté realizando la prueba, o cuya imparcialidad pueda verse afectada de otro modo.
+
+> Se modifica el apartado 6 y se añade el apartado 7 por el art. 2.5 y 6 del Real Decreto 182/2026, de 11 de marzo. [Ref. BOE-A-2026-5716](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5716)
+
+## CAPÍTULO III — Licencia y habilitaciones
+
+### Artículo 8. Licencia de piloto de ultraligero.
+
+1\. Son requisitos para obtener la licencia de piloto de ultraligero, además de acreditar la formación, teórica y práctica, prevista en este real decreto:
+
+a) Tener, al menos, dieciocho años de edad.
+
+b) Estar en posesión de un certificado médico expedido de conformidad con lo previsto en el Reglamento (UE) n.º 1178/2011 de la Comisión, de 3 de noviembre de 2011, por el que se establecen requisitos técnicos y procedimientos administrativos relacionados con el personal de vuelo de la aviación civil en virtud del Reglamento (CE) n.º 216/2008 del Parlamento Europeo y del Consejo, para los certificados de la licencia de piloto de aviación ligera (LAPL) incluidas, en lo que resulte de aplicación, las limitaciones previstas en él.
+
+2\. La licencia de piloto de ultraligero, siempre que vaya acompañada del certificado médico previsto en el artículo 8.1, letra b), en vigor, faculta a su poseedor para actuar como piloto al mando de cualquier ultraligero para el que esté debidamente habilitado.
+
+3\. La licencia será expedida, previa solicitud del interesado, por la Agencia Estatal de Seguridad Aérea una vez superados los exámenes teórico y práctico previstos en el capítulo II. El interesado deberá acompañar la solicitud del certificado médico previsto en el artículo 8.1, letra b), en vigor.
+
+En la licencia de piloto de ultraligero se insertarán las habilitaciones obtenidas por su titular.
+
+4\. El titular de la licencia de piloto de ultraligero deberá llevar y mantener actualizado un registro de tiempo de vuelo, conforme al modelo publicado por la Agencia Estatal de Seguridad Aérea en su página web.
+
+5\. La licencia sólo podrá reexpedirse cuando al menos una de las habilitaciones Multiejes de ala fija (MAF), Desplazamiento del centro de gravedad (DCG), Helicópteros (H), Autogiros (AG) o Hidroaeronave (HD) esté en vigor.
+
+> Se modifica el apartado 8 por el art. 2.7 del Real Decreto 182/2026, de 11 de marzo. [Ref. BOE-A-2026-5716](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5716)
+
+### Artículo 9. Habilitaciones.
+
+1\. Se establecen las siguientes habilitaciones:
+
+a) Multiejes de ala fija (MAF).
+
+b) Desplazamiento del centro de gravedad (DCG).
+
+c) Autogiros (AG).
+
+d) Helicópteros (H).
+
+e) Hidroaeronave (HD).
+
+f) Instructor (FI).
+
+g) Radiofonista (RTC).
+
+2\. La habilitación de instructor tiene una validez de tres años, debiendo ser revalidada o renovada, según proceda, por idénticos períodos de tres años. El resto de las habilitaciones tienen validez indefinida, si bien las atribuciones correspondientes a cada una de ellas solo serán eficaces y se podrán ejercer si, en los últimos veinticuatro meses antes del vuelo previsto, el piloto ha cumplido alguna de las condiciones siguientes en cada una de las habilitaciones que correspondan:
+
+a) Haber completado al menos doce horas de vuelo como piloto al mando, o de vuelo en doble mando o solo bajo la supervisión de un instructor, en la categoría de aeronave ultraligera correspondiente o, si está habilitado para ello, en aeronaves equivalentes de masa máxima al despegue superior. Las doce horas de vuelo referidas anteriormente incluirán:
+
+1.º La realización de doce despegues y doce aterrizajes; y
+
+2.º La superación satisfactoria de un vuelo con un instructor habilitado si, en los últimos doce meses previos a ejercer las atribuciones, no se hubieran realizado cinco de las doce horas de vuelo exigidas para acreditar la experiencia reciente o si, en los últimos veinticuatro meses, no se hubiera realizado al menos un vuelo en la categoría de aeronave ULM correspondiente.
+
+b) Haber superado una verificación de competencia con un examinador autorizado. La verificación se basará en el programa para la obtención de la habilitación correspondiente a la categoría de aeronave ULM en la que se pretende ejercer sus atribuciones.
+
+c) En el supuesto de no cumplir con la experiencia reciente a través de las condiciones previstas en las letras a) o b) anteriores, las habilitaciones de la licencia recuperan su eficacia tras:
+
+1.º Superar satisfactoriamente vuelos de entrenamiento adicionales con un instructor habilitado hasta cumplir con lo establecido en la letra a) de este apartado, o bien;
+
+2.º Superar una verificación de competencia con un examinador autorizado. La verificación se basará en el programa para la obtención de la habilitación correspondiente a la categoría de aeronave ULM en la que se pretende ejercer sus atribuciones.
+
+Los vuelos y pruebas reflejados en las letras anteriores realizados bajo la supervisión de un instructor o un examinador autorizado serán anotados en el registro de tiempo de vuelo del piloto y firmados por el instructor responsable de los vuelos o por el examinador autorizado responsable de la prueba, identificando claramente al instructor o examinador.
+
+> Se modifican los apartados 1.e) y 2 por el art. 2.8 y 9 del Real Decreto 182/2026, de 11 de marzo. [Ref. BOE-A-2026-5716](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5716)
+
+### Artículo 10. Habilitación Multiejes de ala fija (MAF), Desplazamiento del centro de gravedad (DCG), Autogiros (AG), Helicópteros (H) e Hidroaeronave (HD).
+
+1\. Al obtener la licencia de piloto de ultraligero, se insertará en la misma la habilitación correspondiente a la modalidad de aeronave en la que el alumno piloto haya realizado la prueba de vuelo y recibido la instrucción teórica y práctica.
+
+2\. Para obtener una habilitación distinta, el piloto de ultraligero deberá haber realizado en el tipo de ultraligero cuya habilitación pretenda obtener, al menos, las siguientes actuaciones:
+
+a) La instrucción teórica y práctica correspondiente a esa modalidad de aeronave impartida por una escuela de vuelo de ultraligeros autorizada por la Agencia Estatal de Seguridad Aérea.
+
+b) Cinco horas de vuelo.
+
+c) Una prueba de vuelo ante un examinador designado por la Agencia Estatal de Seguridad Aérea, conforme a lo previsto en el artículo 7. Antes de la realización de la prueba, el aspirante deberá contestar a las preguntas que formule el examinador sobre el funcionamiento y manejo de la aeronave.
+
+> Se modifica por el art. 2.10 del Real Decreto 182/2026, de 11 de marzo. [Ref. BOE-A-2026-5716](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5716)
+
+### Artículo 11. Habilitación de instructor de ultraligero (FI).
+
+1\. Para obtener la habilitación de instructor de ultraligero se requiere:
+
+a) Licencia de piloto de ultraligero, con la habilitación en vigor del tipo de ultraligero en el que pretende impartir la instrucción y, en su caso, la habilitación de radiofonista.
+
+b) Acreditar, en su registro de tiempo de vuelo o mediante certificado emitido por una escuela de vuelo de ultraligero, doscientas horas de vuelo en el tipo de ultraligero en el que pretende impartir la instrucción.
+
+c) Superar las pruebas teóricas y prácticas del curso de instructor de ultraligero, cuyo contenido se aprobará por la Agencia Estatal de Seguridad Aérea y se publicará en su página web.
+
+Tanto el examen teórico como el examen práctico se realizarán ante un examinador designado por la Agencia Estatal de Seguridad Aérea, que deberá ser un examinador del artículo 7.2 o un examinador experimentado del artículo 7.4.
+
+El examen práctico consistirá en una evaluación de competencia para demostrar la capacidad del interesado de instruir al nivel necesario para obtener la licencia o habilitación correspondiente.
+
+2\. El titular de la habilitación de Instructor de ultraligero podrá impartir instrucción teórica y práctica en una escuela de ultraligeros, únicamente en el tipo de ultraligero a que se refiere su habilitación. Para poder impartir instrucción en otro tipo de ultraligero, será necesario cumplir con los siguientes requisitos:
+
+a) Poseer la habilitación correspondiente al tipo de ultraligero de que se trate, que deberá estar en vigor; y
+
+b) acreditar, en su registro de tiempo de vuelo o mediante certificado emitido por una escuela de vuelo de ultraligero, un mínimo de 200 horas de vuelo en ese tipo de ultraligero.
+
+3\. Para revalidar la habilitación de instructor (FI), el interesado deberá acreditar, en su registro de tiempo de vuelo, un mínimo de cinco horas de vuelo de instrucción en una escuela autorizada, impartidas en los doce meses anteriores a la solicitud, en cada uno de los tipos de ultraligero para los que esté habilitado como instructor.
+
+4\. Para renovar la habilitación de instructor caducada o cuando no pueda acreditarse el mínimo de horas indicado en el apartado anterior, el interesado deberá:
+
+a) Asistir al seminario de actualización para instructores de la Agencia Estatal de Seguridad Aérea.
+
+b) Acreditar, mediante certificado emitido por una escuela de vuelo de ultraligero, que ha impartido, al menos, tres horas de clases teóricas en dicha escuela bajo la supervisión del instructor.
+
+c) Acreditar, mediante certificado emitido por una escuela de vuelo de ultraligero, que ha realizado, al menos, cinco horas de vuelo en el que el interesado haga las labores de instructor y el instructor de la escuela haga las labores de alumno piloto.
+
+d) Superar la evaluación de competencia a la que se refiere el apartado 1 c).
+
+### Artículo 12. Habilitación de radiofonista (RTC).
+
+1\. Para obtener la habilitación de radiofonista el interesado deberá acreditar:
+
+a) Poseer la licencia de piloto de ultraligero con al menos una habilitación en vigor o cumplir los requisitos para la emisión de la misma.
+
+b) Haber superado el curso de radiofonista de ultraligero, aprobado por la Agencia Estatal de Seguridad Aérea y publicado en su página web, que incluirá un examen teórico y práctico.
+
+2\. La habilitación de radiofonista permite utilizar la banda aérea para establecer las comunicaciones aeronáuticas necesarias para la realización de la práctica de vuelo.
+
+La renovación o revalidación de la habilitación de radiofonista será automática cuando sea revalidada o renovada cualquiera de las habilitaciones previstas en el artículo 9.1, letras a) a e), ambas inclusive, asociadas a la licencia.
+
+> Se modifica la letra a) del apartado 1 por el art. 2.11 del Real Decreto 182/2026, de 11 de marzo. [Ref. BOE-A-2026-5716](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5716)
+
+### Artículo 13. Convalidaciones.
+
+1\. Cualquier poseedor de una licencia de piloto de ultraligero expedida fuera de España podrá solicitar de la Agencia Estatal de Seguridad Aérea la convalidación de su licencia con las habilitaciones que lleve insertas, sin perjuicio de lo previsto en el apartado 4. Para obtener la convalidación, el interesado deberá acreditar:
+
+a) Poseer la licencia de piloto de ultraligero en vigor.
+
+b) Disponer del certificado médico previsto en el artículo 8.1, letra b), en vigor.
+
+c) Si la licencia no lleva inserta ninguna habilitación, el piloto deberá acreditar un mínimo de 40 horas de vuelo en el tipo de ultraligero (MAF, DCG, AG, H, HD) correspondiente a la habilitación que se insertará en la licencia.
+
+d) Realizar una prueba de vuelo ante un examinador designado por la Agencia Estatal de Seguridad Aérea, conforme a lo previsto en el artículo 7.
+
+2\. Los pilotos con licencia de piloto privado (PPL), piloto comercial de avión (CPL) y piloto de transporte de línea aérea (ATPL) que soliciten la convalidación para obtener la licencia de ultraligero, que llevará insertas las habilitaciones MAF o H, según corresponda, deberán acreditar que:
+
+a) Poseen la licencia de piloto en vigor.
+
+b) Disponer del certificado médico previsto en el artículo 8.1, letra b), en vigor.
+
+c) Haber realizado, en una escuela de ultraligeros, al menos, tres horas de instrucción práctica, de las cuales una será de vuelo solo, en el tipo de ultraligero cuya habilitación pretenda anotar en la licencia, o alternativamente, haber superado una prueba de vuelo ante un examinador.
+
+Para acreditar la realización de la instrucción práctica a que hace referencia este apartado, el interesado aportará un certificado emitido por la escuela de ultraligeros en el que debe hacerse constar, además, que aquél conoce los procedimientos operativos y de emergencia y posee la capacitación correspondiente al tipo de ultraligero de que se trate.
+
+3\. Los pilotos de ultraligero que posean la licencia de piloto de la Organización de Aviación Civil Internacional (OACI) en vigor podrán solicitar la inserción de la habilitación de radiofonista nacional (RTC) en su licencia de ultraligero.
+
+4\. En ningún caso podrá convalidarse la habilitación de Instructor de ultraligero (FI).
+
+## CAPÍTULO IV — Otras disposiciones
+
+### Artículo 14. Procedimiento.
+
+1\. Para la obtención de las certificaciones, aprobaciones, licencias, habilitaciones, convalidaciones y el resto de las autorizaciones previstas en los capítulos II y III, el interesado deberá remitir un escrito de solicitud a la Agencia Estatal de Seguridad Aérea acompañado de la documentación acreditativa del cumplimiento de los requisitos previstos en este real decreto.
+
+En aquellos procedimientos en los que el interesado deba superar una prueba de vuelo o una evaluación de competencia, la solicitud deberá presentarse en el plazo máximo de 2 meses desde la superación de la prueba.
+
+2\. El plazo para resolver será de tres meses desde la fecha de solicitud.
+
+En el caso de los procedimientos previstos en el capítulo II, transcurrido dicho plazo sin haberse dictado resolución expresa, la solicitud deberá entenderse estimada por silencio administrativo.
+
+En el caso de los procedimientos previstos en el capítulo III, transcurrido el plazo de tres meses sin haberse dictado resolución expresa, la solicitud deberá entenderse denegada por silencio administrativo negativo, conforme a la excepción prevista en la disposición adicional vigésima novena de la Ley 14/2000, de 29 de diciembre, de medidas Fiscales, Administrativas y del Orden Social para los procedimientos sobre expedición, renovación, revalidación y convalidación de títulos y licencias de pilotos de avión, pilotos de helicóptero, pilotos de aviación deportiva y mecánicos de a bordo y el procedimiento sobre habilitaciones y autorizaciones de personal de vuelo.
+
+Las resoluciones de la Agencia Estatal de Seguridad Aérea ponen fin a la vía administrativa en los términos previstos en el artículo 4 de su Estatuto, aprobado por el Real Decreto 184/2008, de 8 de febrero.
+
+### Artículo 15. Entidades colaboradoras.
+
+De conformidad con lo previsto en el artículo 26 de la Ley 21/2003, de 7 de julio, de Seguridad Aérea, la Agencia Estatal de Seguridad Aérea podrá autorizar a personas y entidades colaboradoras para realizar, a los efectos de este real decreto, las actividades a que se refiere el artículo 26 de la citada ley.
+
+El régimen de reclamación y recurso frente a las actuaciones de las entidades colaboradoras será el previsto en el artículo 26.5 de la Ley 21/2003, de 7 de julio, de Seguridad Aérea.
+
+### Disposición adicional única. Contención del gasto público.
+
+Las medidas incluidas en este real decreto no podrán suponer incremento de dotaciones ni de retribuciones ni de otros gastos de personal.
+
+### Disposición transitoria única. Adaptación de las licencias de piloto de ultraligero emitidas con anterioridad a la entrada en vigor del Real Decreto 182/2026, de 11 de marzo, por el que se modifican el Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado mediante el Real Decreto 1211/1990, de 28 de septiembre; el Real Decreto 123/2015, de 27 de febrero, por el que se regula la licencia y habilitaciones del piloto de ultraligero; y el Real Decreto 765/2022, de 20 de septiembre, por el que se regula el uso de aeronaves motorizadas ultraligeras (ULM).
+
+1\. Las habilitaciones obtenidas conforme al presente real decreto antes de la entrada en vigor de las modificaciones introducidas por el Real Decreto 182/2026, de 11 de marzo, cuya validez esté limitada a un período de dos años, mantendrán su validez hasta la fecha de expiración que conste en la licencia, sin necesidad de realizar modificación alguna antes de dicha fecha.
+
+2\. A partir de la entrada en vigor de las modificaciones introducidas por el Real Decreto 182/2026, de 11 de marzo, las renovaciones y revalidaciones de las habilitaciones referidas en el apartado anterior se realizarán de acuerdo con las nuevas disposiciones, expidiéndose licencias con habilitaciones adaptadas al nuevo periodo de validez, siempre que el titular cumpla con los requisitos de experiencia reciente establecidos o, en el caso de la habilitación de instructor (FI), los requisitos de revalidación o renovación.
+
+3\. En el caso de que la validez de las habilitaciones de multiejes de ala fija (MAF), desplazamiento del centro de gravedad (DCG), autogiros (AG), helicópteros (H) e hidroavión (HD) haya expirado antes de la entrada en vigor de las modificaciones introducidas por el Real Decreto 182/2026, de 11 de marzo, su renovación deberá efectuarse mediante la superación de una verificación de competencia con un examinador autorizado, expidiéndose una nueva licencia por la Agencia Estatal de Seguridad Aérea con la nueva validez indefinida establecida en el artículo 9 del presente real decreto, en la redacción dada por el Real Decreto 182/2026, de 11 de marzo.
+
+4\. Las habilitaciones de hidroavión (HD) expedidas con anterioridad a la entrada en vigor de las modificaciones introducidas por el Real Decreto 182/2026, de 11 de marzo, se entenderán referidas a la habilitación de hidroaeronave (HD).
+
+> Se añade por el art. 2.13 del Real Decreto 182/2026, de 11 de marzo. [Ref. BOE-A-2026-5716](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5716)
+
+> Téngase en cuenta que se han suprimido las disposiciones transitorias 1 a 3 por el art. 2.12 del citado Real Decreto.
+
+### Disposición derogatoria. Normas derogatorias.
+
+Se derogan los capítulos IV a VIII, ambos inclusive, de la Orden de 24 de abril de 1986, por la que se regula el vuelo de ultraligero, así como cualquier otra norma de inferior o igual rango en lo que se opongan a lo previsto en este real decreto.
+
+### Disposición final primera. Modificación del Real Decreto 2876/1982, de 15 de octubre, por el que se regula el registro y uso de aeronaves de estructura ligera y se modifica el registro de aeronaves privadas no mercantiles.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 del Real Decreto 182/2026, de 11 de marzo. [Ref. BOE-A-2026-5716](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5716)
+
+### Disposición final segunda. Título competencial.
+
+Este real decreto se dicta al amparo de la competencia exclusiva que atribuye al Estado el artículo 149.1.20.ª de la Constitución en materia de tránsito y transporte aéreo.
+
+### Disposición final tercera. Habilitación normativa.
+
+1\. Se habilita al Ministro de Fomento para dictar las disposiciones de desarrollo de lo previsto en este real decreto.
+
+2\. El Director General de Aviación Civil podrá aprobar mediante circular aeronáutica aquellas disposiciones de carácter secundario y técnico con el objeto de precisar, completar y asegurar la más eficaz aplicación de este real decreto, a cuyo efecto tendrá en cuenta las prescripciones y recomendaciones adoptadas por la Organización de Aviación Civil Internacional y los Organismos Internacionales de los que forme parte el Estado español.
+
+### Disposición final cuarta. Medidas de ejecución y aplicación.
+
+1\. La Agencia Estatal de Seguridad Aérea adoptará las medidas necesarias para la aplicación y ejecución de este real decreto y, en particular, podrá adoptar los modelos en los que se deberán presentar las solicitudes, declaraciones y comunicaciones recogidas en él para su uso obligatorio por los interesados, de conformidad con el artículo 66, apartado 6, de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Los modelos de solicitudes, declaraciones y comunicaciones para la aplicación de este real decreto estarán disponibles al público a través del portal de internet de la Agencia Estatal de Seguridad Aérea.
+
+2\. Mediante resolución de la dirección competente de la Agencia Estatal de Seguridad Aérea se podrán adoptar:
+
+a) Medios aceptables de cumplimiento (“AMC”, por sus siglas en inglés de “Acceptable Means of Compliance”), por los cuales se ilustren formas de determinar el cumplimiento de las disposiciones del presente real decreto, sin perjuicio de que los interesados puedan acreditar dicho cumplimiento a través de medios alternativos de cumplimiento (“AltMoC”, por sus siglas en inglés de “Alternative Means of Compliance”), cuando éstos últimos hayan sido previamente aprobados por la Agencia Estatal de Seguridad Aérea por considerarlos conformes con las disposiciones aplicables.
+
+b) Material guía (“GM”, por sus siglas en inglés de “Guidance material”) para ayudar a la mejor aplicación y ejecución de lo previsto en este real decreto.
+
+> Se modifica por el art. 2.15 del Real Decreto 182/2026, de 11 de marzo. [Ref. BOE-A-2026-5716](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5716)
+
+### Disposición final quinta. Entrada en vigor.
+
+Este real decreto entrará en vigor a los dos meses de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 27 de febrero de 2015.
+
+FELIPE R.
+
+La Ministra de Fomento,
+
+ANA MARÍA PASTOR JULIÁN

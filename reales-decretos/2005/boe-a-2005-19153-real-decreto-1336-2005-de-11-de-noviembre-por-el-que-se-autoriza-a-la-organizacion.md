@@ -1,0 +1,101 @@
+---
+title: "Real Decreto 1336/2005, de 11 de noviembre, por el que se autoriza a la Organización Nacional de Ciegos Españoles la explotación de una lotería instantánea o presorteada"
+identifier: "BOE-A-2005-19153"
+eli: "https://www.boe.es/eli/es/rd/2005/11/11/1336"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2005-11-11
+published: 2005-11-22
+in_force_from: 2005-11-23
+last_amended: 2021-12-22
+consolidated: 2026-08-03
+gazette: "Boletín Oficial del Estado núm. 279"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2005-19153"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1336/2005, de 11 de noviembre, por el que se autoriza a la Organización Nacional de Ciegos Españoles la explotación de una lotería instantánea o presorteada
+
+La Organización Nacional de Ciegos Españoles (ONCE), corporación de derecho público de carácter social, ha desempeñado a lo largo de sus más de 60 años de historia una labor trascendental en la integración y autonomía personal de los ciegos españoles, que con el transcurso de los años se ha ido extendiendo paulatinamente, sobre la base del principio de solidaridad, a otras personas discapacitadas, por medio de la Fundación ONCE, todo ello dentro de un marco de colaboración con la Administración General del Estado.
+
+Para la consecución de estos fines, la ONCE ha contado tradicionalmente con los ingresos que le ha reportado la comercialización del cupón «prociegos», ingresos que se han dedicado a atender los compromisos sociales de la organización para conseguir el bienestar y la integración social de sus afiliados y cumplir el citado compromiso de solidaridad adquirido con otros discapacitados, y que se ha destinado a crear, mantener y mejorar la calidad de los puestos de trabajo y para impulsar la formación de estas personas.
+
+La actual evolución de los juegos en España hace preciso dotar a la ONCE de nuevos instrumentos para que esta organización pueda continuar disponiendo de los medios necesarios para el cumplimiento de sus objetivos y fines sociales.
+
+A fin de atender los mencionados compromisos, se entiende necesario que la ONCE comercialice una nueva modalidad de lotería, de ámbito nacional, que satisfaga las preferencias de aquellos jugadores que demandan una lotería de «premio inmediato» o «instantáneo».
+
+En suma, las razones expuestas de preservar tanto la labor social llevada a cabo por la ONCE como la estabilidad en el empleo de las personas que comercializan los juegos que tiene concedidos, unidas a las circunstancias de carácter comercial señaladas, justifican la autorización de la gestión de una lotería «instantánea» o «presorteada» por la ONCE, en todo el territorio nacional y por medio de los vendedores integrados en su plantilla de trabajadores.
+
+En su virtud, a propuesta de los Ministros de Trabajo y Asuntos Sociales y de Economía y Hacienda y previa deliberación del Consejo de Ministros en su reunión del día 11 de noviembre de 2005,
+
+DISPONGO:
+
+## Artículo 1. La lotería instantánea o presorteada.
+
+Se autoriza a la Organización Nacional de Ciegos Españoles (ONCE) la comercialización de una modalidad de lotería, de ámbito nacional, denominada genéricamente lotería instantánea o presorteada.
+
+Dicha modalidad de lotería consiste en la posibilidad de obtención de un premio, establecido en el programa correspondiente, o definido o representado en la tarjeta, boleto o cualquier otro soporte electrónico o telemático empleado para su difusión y que es invisible para el jugador hasta que proceda a su revelado o apertura, a través de los medios previstos en cada producto.
+
+La ONCE velará para que la venta por canales electrónicos o telemáticos no repercuta en la disminución de la plantilla de los agentes vendedores y se mantenga la cifra global de los puestos de trabajo.
+
+## Artículo 2. Destino de los ingresos de lotería instantánea.
+
+Los ingresos obtenidos por la explotación de la lotería instantánea, deducidos los gastos relativos a los premios abonados, la retribución de los agentes vendedores y de los diferentes canales de venta, y los gastos generales propios de la gestión del juego, se destinarán a los mismos fines y estarán sujetos a las mismas obligaciones de utilización establecidas para las demás modalidades de juego autorizadas a la ONCE.
+
+> Se modifica por el art. único.1 del Real Decreto 1706/2011, de 18 de noviembre. [Ref. BOE-A-2011-18540](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18540)
+
+## Artículo 3. Condiciones básicas y gestión de la lotería instantánea.
+
+1\. Se atribuye a la ONCE la dirección, organización y explotación de la lotería instantánea o presorteada en los términos del artículo 1. El Consejo General de la ONCE podrá adoptar libremente decisiones comerciales, de acuerdo con lo expuesto en los apartados siguientes.
+
+2\. El Consejo General de la ONCE podrá fijar el precio de cada tarjeta, boleto o soporte unitario, teniendo en cuenta que su precio máximo autorizado de venta será el del límite establecido en cada momento para el cupón que comercializa la ONCE.
+
+3\. El programa de cada emisión preverá una cantidad para premios que no podrá ser inferior al 45 por ciento ni superior al 80 por ciento del valor de la emisión.
+
+4\. El volumen máximo de ventas y de emisión anual será de 1.000 y 1.250 millones de euros, respectivamente, para el año 2012. Ambos importes se incrementarán anualmente en función de la variación del índice general de precios de consumo (IPC) real del año anterior, incrementado en tres puntos.
+
+5\. El Consejo de Protectorado de la ONCE verificará que las propuestas del Consejo General de la ONCE para comercializar la lotería instantánea se ajustan a lo dispuesto en este real decreto y a los procedimientos y criterios de control aplicables.
+
+6\. El reglamento regulador de la lotería instantánea recogerá el diseño y formato de esta modalidad de lotería, la emisión, el número de productos, series y boletos que la componen, su precio, el programa y forma de pago de premios y el sistema de revelado, descubierto o apertura de aquéllos. El Consejo de Protectorado de la ONCE verificará que el reglamento se ajusta a lo dispuesto en este real decreto y a los procedimientos y criterios de control aplicables, y procederá a su publicación en el "Boletín Oficial del Estado", como garantía de los consumidores.
+
+> Se modifica el apartado 3 por la disposición final 1 del Real Decreto 1152/2015, de 18 de diciembre. [Ref. BOE-A-2016-4](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4).
+
+> Se modifican los apartados 3, 4 y 6 por el art. único.2 del Real Decreto 1706/2011, de 18 de noviembre. [Ref. BOE-A-2011-18540](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18540)
+
+## Artículo 4. Control de la lotería instantánea.
+
+Corresponde al Consejo de Protectorado de la ONCE controlar la gestión de la lotería instantánea, para lo cual elaborará un procedimiento específico.
+
+Para llevar a cabo este control, el Consejo de Protectorado podrá recabar de la ONCE cuanta información sea precisa para verificar el volumen de las emisiones realizadas, la recaudación obtenida, los premios pagados y los premios caducados, el destino de los ingresos obtenidos y, en general, cualquier otra información relativa al ejercicio de las funciones atribuidas a la ONCE por este real decreto. Igualmente y a estos mismos fines, el Consejo de Protectorado de la ONCE podrá recabar el asesoramiento de otras unidades y órganos de la Administración General del Estado.
+
+## Artículo 5. Alcance temporal de esta autorización.
+
+La autorización contenida en este real decreto tendrá vigencia hasta el 31 de diciembre de 2031, sin perjuicio, en su caso, de las ulteriores prórrogas que establezca el Consejo de Ministros. No obstante, previa valoración por el Consejo de Protectorado de las circunstancias que concurran, esta autorización quedará sin efecto en cualquiera de los supuestos siguientes:
+
+a) Si la ONCE dejara en cualquier momento de hacer uso de esta autorización durante más de seis meses ininterrumpidos, salvo que ello derive de causas ajenas a la voluntad de la ONCE que hubieran sido comunicadas al Consejo de Protectorado en el momento de producirse.
+
+b) Si el Consejo de Protectorado, oído el Consejo General de la ONCE y previa instrucción del correspondiente expediente contradictorio, apreciara la existencia de un incumplimiento grave y reiterado de las obligaciones legales de la ONCE en la explotación de esta lotería, que pueda causar un perjuicio notorio al Estado, a los consumidores o a la propia Organización.
+
+> Se modifica el primer párrafo por el art. 2 del Real Decreto 1127/2021, de 21 de diciembre. [Ref. BOE-A-2021-21110](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21110)
+
+> Se modifica por el art. único.3 del Real Decreto 1706/2011, de 18 de noviembre. [Ref. BOE-A-2011-18540](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18540)
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 844/1999, de 21 de mayo, por el que se autoriza la comercialización de una lotería instantánea o presorteada.
+
+## Disposición final única. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 11 de noviembre de 2005.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ

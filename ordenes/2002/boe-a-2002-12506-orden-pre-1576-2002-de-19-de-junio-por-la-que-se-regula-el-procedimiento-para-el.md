@@ -1,0 +1,379 @@
+---
+title: "Orden PRE/1576/2002, de 19 de junio, por la que se regula el procedimiento para el pago de obligaciones de la Administración General del Estado"
+identifier: "BOE-A-2002-12506"
+eli: "https://www.boe.es/eli/es/o/2002/06/19/pre1576"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2002-06-19
+published: 2002-06-26
+in_force_from: 2002-09-26
+last_amended: 2026-06-26
+consolidated: 2026-06-26
+gazette: "Boletín Oficial del Estado núm. 152"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2002-12506"
+retrieved: 2026-10-11
+---
+
+# Orden PRE/1576/2002, de 19 de junio, por la que se regula el procedimiento para el pago de obligaciones de la Administración General del Estado
+
+Mediante el Real Decreto 324/1986, de 10 de febrero, se implantó un Sistema de Información Contable en la Administración General del Estado y se reestructuró la función de ordenación de pagos. En dicho Real Decreto se definen los objetivos y fines a los que se debe ajustar el Sistema.
+
+Posteriormente se ha implantado una nueva versión del mencionado Sistema de Información Contable cuya entrada en vigor tuvo lugar el 1 de enero de 1996. Como consecuencia de esta modificación se hizo necesaria una revisión de la Orden de 5 de julio de 1975, por la que se regulaban los procedimientos del Tesoro Público para el pago de obligaciones, todavía en vigor, aunque se trataba de una norma anterior al Real Decreto 324/1986.
+
+Se publicó entonces la Orden de 27 de diciembre de 1995, modificada por la de 20 de abril de 1998 sobre procedimientos para el pago de obligaciones de la Administración General del Estado, señalándose dos procedimientos, uno general y otro especial.
+
+Una novedad, quizás la más importante dentro de las disposiciones de la Orden de 27 de diciembre de 1995, la constituyó la regulación de la gestión de los datos de terceros. Dentro del Sistema de Información Contable, el objetivo principal de la gestión de los datos de terceros fue posibilitar el seguimiento individualizado de la situación acreedora de los interesados que se relacionan con dicha Administración.
+
+Otras novedades a destacar serían que desde entonces la ejecución de la práctica totalidad de los pagos por transferencia se realiza a través de la caja pagadora de la Dirección General del Tesoro y Política Financiera.
+
+El Real Decreto 578/2001, de 1 de junio, por el que se regulan los principios generales del Sistema de Información Contable de la Administración General del Estado, deroga el Real Decreto 324/1986 y establece la orientación hacia un modelo contable centralizado. En esta misma línea centralizadora, y una vez que se han habilitado los medios técnicos que permiten llevar a cabo esta centralización en el pago de las obligaciones de la Administración General del Estado, y siempre con la finalidad de lograr una mejora en la gestión de los mismos, se ha considerado que ha llegado el momento de acometer dicha centralización. De esta manera, todos los pagos de las obligaciones del Estado se llevarán a cabo a través de la caja pagadora de la Dirección General del Tesoro y Política Financiera, culminando así el proceso que a partir de 1 de enero de 1996 se había iniciado para los pagos mediante transferencia, con lo que desaparece el procedimiento especial.
+
+En su virtud, previa aprobación del Ministro para las Administraciones Públicas, a propuesta del Vicepresidente Segundo del Gobierno para Asuntos Económicos y Ministro de Economía y del Ministro de Hacienda, dispongo:
+
+## CAPÍTULO I — Ámbito
+
+### Primero. Ámbito de aplicación.
+
+1\. Las normas contenidas en la presente Orden serán de aplicación al pago de las obligaciones de la Administración General del Estado.
+
+2\. A los efectos indicados en el apartado anterior, las operaciones destinadas a realizar los pagos derivados de cualquier tipo de obligación, ya sea como consecuencia de la ejecución del Presupuesto de Gastos, devoluciones de ingresos presupuestarios, ejecución de anticipos de tesorería a que se refiere el artículo 65 del texto refundido de la Ley General Presupuestaria o cualesquiera otras operaciones no presupuestarias, se tramitarán de acuerdo con los procedimientos y requisitos que se establecen en las disposiciones contenidas en la presente Orden.
+
+3\. La ordenación y pago material de los pagos en el exterior y de los pagos en divisas de las obligaciones contraídas en euros o en divisas seguirán los mismos procedimientos dispuestos en esta Orden, sin otras especialidades que las contenidas en la Orden PCM/917/2021, de 1 de septiembre, por la que se regula el procedimiento para el pago en el exterior y el pago en divisas de las obligaciones de la Administración General del Estado, y en las disposiciones que la desarrollen.
+
+> Se modifica el apartado 3 por la disposición final 1 de la Orden PCM/917/2021, de 1 de septiembre. [Ref. BOE-A-2021-14456](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14456)
+
+## CAPÍTULO II — Gestión de los datos de terceros
+
+### Segundo. Delimitación.
+
+A efectos de esta Orden, tendrán la consideración de terceros las personas físicas o jurídicas o las entidades sin personalidad jurídica, públicas o privadas, que se relacionen con la Administración General del Estado como consecuencia de operaciones presupuestarias o no presupuestarias, y a cuyo favor surjan las obligaciones o se expidan los pagos derivados de las mismas.
+
+### Tercero. Contenido.
+
+La gestión de los datos de terceros se efectuará de forma centralizada a través de un Fichero Central, que permitirá la unicidad de los datos de un mismo tercero en los ámbitos de las diferentes Oficinas de Contabilidad del Sistema. En dicho Fichero Central figurarán todos los terceros, a los que se refiere el apartado anterior, conteniendo, al menos, los siguientes tipos de información:
+
+Datos identificativos del tercero: número de identificación fiscal, nombre o razón social y domicilio fiscal.
+
+Datos sobre el pago.
+
+Incidencias que puedan afectar al pago de las obligaciones.
+
+### Cuarto. Alta de datos de terceros.
+
+1\. Alta de datos identificativos. El alta de los datos identificativos del tercero se realizará en el Fichero Central de Terceros por la Oficina de Contabilidad en donde deba incorporarse al Sistema de Información Contable la primera de las operaciones que afecten al tercero en cuestión.
+
+2\. Alta de datos bancarios. En los pagos mediante transferencia bancaria, el alta de los datos bancarios en el Fichero Central de Terceros se efectuará, en todo caso, por la Dirección General del Tesoro y Política Financiera.
+
+3\. Alta de incidencias. Las providencias y diligencias de embargo, mandamientos de ejecución, acuerdos de inicio de procedimientos administrativos de compensación y actos de contenido análogo dictados por órganos judiciales o administrativos –incidencias–, que recaigan sobre derechos de cobro específicos, registrados en el Sistema de Información Contable, que se ostenten frente a la Administración General del Estado y que sean pagaderos por la Ordenación General de Pagos del Estado, serán comunicados a la Dirección General del Tesoro y Política Financiera por el órgano judicial o administrativo que los acuerde o por el órgano administrativo al que le sean notificados, siempre que tales actos reúnan los requisitos exigidos por el artículo 76 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, para su incorporación al Fichero Central de Terceros. En el caso de que los referidos actos no cumplan con los requisitos señalados, el órgano al que le hayan sido notificados procederá a su devolución motivada al órgano que los hubiese acordado. Con la finalidad de evitar discrepancias en la aplicación de tales requisitos, la Dirección General del Tesoro y Política Financiera podrá fijar criterios interpretativos. Cuando los referidos actos se hubiesen notificado al servicio gestor del crédito afectado, éste, una vez verificado el cumplimiento de los requisitos referidos, deberá adjuntar a su comunicación la información que permita identificar los créditos correspondientes al derecho embargado, incluyendo el número de operación si ésta ya hubiera sido contabilizada en el Sistema de Información Contable.
+
+> Se modifica por el art. único.1 de la Orden PJC/643/2026, de 19 de junio. [Ref. BOE-A-2026-13890](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13890)
+
+> Se modifican las referencias a la «Secretaría General del Tesoro y Política Financiera» por la «Dirección General del Tesoro y Política Financiera», según establece la disposición adicional única de la Orden PCM/7/2021, de 11 de enero. [Ref. BOE-A-2021-521](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-521)
+
+> Se modifica por el art. único.1.1 de la Orden PRE/1136/2013, de 19 de junio. [Ref. BOE-A-2013-6709](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6709).
+
+### Quinto. Modificaciones de datos de terceros.
+
+Los datos identificativos de terceros podrán modificarse por las Oficinas de Contabilidad cuando los terceros carezcan de datos bancarios registrados.
+
+Cuando los terceros tengan datos bancarios registrados, las Oficinas de Contabilidad podrán modificar los campos de dirección, teléfono y correo electrónico de los datos identificativos, debiendo comunicar a la Dirección General del Tesoro y Política Financiera el resto de modificaciones.
+
+Por resolución conjunta de la Intervención General de la Administración del Estado y de la Dirección General del Tesoro y Política Financiera se podrán determinar nuevos campos de los datos identificativos que puedan ser modificados por las Oficinas de Contabilidad cuando los terceros tengan datos bancarios.
+
+> Se modifica la referencia a la «Secretaría General del Tesoro y Financiación Internacional» por la «Dirección General del Tesoro y Política Financiera», según establece la disposición adicional única de la Orden PCM/7/2021, de 11 de enero. [Ref. BOE-A-2021-521](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-521)
+
+> Se modifica por el art. único.1 de la Orden PCI/1077/2018, de 15 de octubre. [Ref. BOE-A-2018-14180](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14180)
+
+> Se modifica por el art. único.3 de la Orden PRE/1136/2013, de 19 de junio. [Ref. BOE-A-2013-6709](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6709).
+
+## CAPÍTULO III — Procedimiento para el pago de obligaciones
+
+### Sexto. Delimitación.
+
+1\. Con carácter general, los órganos de la Administración General del Estado que dicten los actos administrativos de reconocimiento de obligaciones propondrán el pago de las mismas a la Dirección General del Tesoro y Política Financiera, mediante la expedición de las oportunas propuestas de pago, según los documentos que al respecto hayan sido establecidos.
+
+Las propuestas de mandamiento de pago no presupuestarias y por devolución de ingresos se expedirán por el órgano competente de la Administración General del Estado en la tramitación del oportuno expediente, o, en su caso, por el órgano al que corresponda de acuerdo con la normativa aplicable. Excepcionalmente, dichas propuestas de pago podrán ser expedidas de oficio por los Jefes de las Oficinas de Contabilidad donde figuren registradas las correspondientes operaciones, cuando así lo requiera el procedimiento contable.
+
+> Téngase en cuenta que ésta última actualización del apartado 1, establecida por el art. único.1 de la Orden PCM/7/2021, de 11 de enero. [Ref. BOE-A-2021-521](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-521), entra en vigor el 14 de julio de 2021, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "1. Con carácter general, los órganos que dicten los actos administrativos de reconocimiento de obligaciones propondrán el pago de las mismas a la Secretaría General del Tesoro y Política Financiera, mediante la expedición de las oportunas propuestas de pago, según los documentos que al respecto hayan sido establecidos.
+
+> Como excepción a lo preceptuado en el párrafo anterior, las propuestas de pago correspondientes a conceptos no presupuestarios y por devolución de ingresos, podrán ser expedidas de oficio por los Jefes de las Oficinas de Contabilidad donde dichos débitos figuren registrados o, en su caso, por el órgano interesado en la tramitación del oportuno expediente."
+
+2\. Las propuestas de pago que se expidan se incorporarán al Sistema de Información Contable por la Oficina de Contabilidad que corresponda, de acuerdo con la atribución de competencias establecida en la normativa por la que se regula dicho sistema.
+
+3\. A efectos de la ordenación de los pagos, los datos de las propuestas de pago serán puestos a disposición de la Dirección General del Tesoro y Política Financiera por la Oficina de Contabilidad que hubiese efectuado su registro mediante la utilización de los procedimientos informáticos del sistema de información contable.
+
+4\. Una vez que las propuestas de pago sean puestas a su disposición, la Dirección General del Tesoro y Política Financiera procederá a su ordenación y pago de acuerdo con las normas que se especifican en los apartados octavo y noveno de esta orden.
+
+> Se modifica el apartado 1, con efectos desde el 14 de julio de 2021, y las referencias a la «Secretaría General del Tesoro y Política Financiera» por la «Dirección General del Tesoro y Política Financiera», por el art. único.1 y la disposición adicional única de la Orden PCM/7/2021, de 11 de enero. [Ref. BOE-A-2021-521](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-521)
+
+> Se modifica por el art. único.3 de la Orden PRE/1136/2013, de 19 de junio. [Ref. BOE-A-2013-6709](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6709).
+
+### Séptimo. Expedición de propuestas de pago.
+
+1\. Expedición de propuestas de pago a favor de acreedores directos.
+
+1.1 Todas las propuestas de pago que se emitan se expedirán a favor de los acreedores directos, salvo en los supuestos establecidos en el apartado séptimo.2.
+
+1.2 A los efectos previstos en esta orden, se entiende por acreedores directos las personas físicas o jurídicas o las entidades sin personalidad jurídica, públicas o privadas, que hubiesen ejecutado las prestaciones derivadas de los contratos celebrados, fuesen beneficiarios de las subvenciones o ayudas públicas, o, en general, a favor de quienes fuesen contraídas obligaciones de carácter presupuestario o no presupuestario.
+
+1.3 Cuando el acreedor directo comunique al órgano gestor competente la transmisión de las certificaciones, cuentas o títulos que representen débitos de la Administración General del Estado, las correspondientes propuestas de pago habrán de ser expedidas a favor del cesionario, debiendo indicarse también los datos del cedente, así como la fecha de comunicación de la citada transmisión a la Administración General del Estado. La oficina de contabilidad competente expedirá certificación acreditativa de la toma de razón en contabilidad por la que se certifique que se ha registrado en el Sistema de Información Contable la transmisión del derecho de cobro frente a la Administración.
+
+2\. Expedición de propuestas de pago a favor de agentes mediadores en el pago. Como excepción a lo indicado en el apartado séptimo 1 anterior, las propuestas de pago se expedirán a favor de las Cajas pagadoras, Habilitaciones, Pagadurías y otros agentes mediadores en el pago, en los supuestos que a continuación se indican:
+
+a) En el procedimiento para el pago de las retribuciones de personal al servicio de la Administración General del Estado.
+
+b) En el procedimiento para el pago de las prestaciones de clases pasivas del Estado.
+
+c) En el procedimiento de pago a través del sistema de anticipos de caja fija.
+
+d) En el procedimiento de pagos a justificar.
+
+e) En aquellos otros supuestos que se autoricen expresamente por la Dirección General del Tesoro y Política Financiera.
+
+3\. Datos de terceros a incorporar en las propuestas de pago. En todas las propuestas de pago que se expidan a favor de acreedores directos se hará constar, al menos, los siguientes datos relativos al titular del crédito: el número de identificación fiscal o equivalente, la denominación del acreedor (nombre o razón social), la clave de tipo de pago, y la cuenta bancaria a la que ha de hacerse la transferencia, si este es el medio de pago, salvo que, en el momento de expedir dicha propuesta, el tercero no tuviera cuentas dadas de alta en el Fichero Central de Terceros.
+
+Cuando el crédito se hubiera cedido, se hubiera designado representante para el cobro o bien se utilizara un agente mediador en el pago, se hará constar el número de identificación fiscal, la denominación del cesionario, representante o agente mediador y del cedente o interesado. Asimismo, si el pago ha de hacerse por transferencia, se identificará la cuenta bancaria del cesionario en formato IBAN, salvo que este no tuviera, en el momento de confección de dicha propuesta, cuentas dadas de alta en el Fichero Central de Terceros.
+
+4\. Otros datos a incorporar en las propuestas de pago. Las propuestas de pago deberán indicar su carácter de embargables o no embargables a efectos, en su caso, de la ejecución del embargo en la fase de ordenación del pago por la Dirección General del Tesoro y Política Financiera de conformidad con el artículo 76 de la Ley 47/2003, de 26 de noviembre. Sin perjuicio de la potestad del órgano embargante, esta información se deberá reflejar por los órganos que expidan las propuestas de pago de acuerdo con la normativa vigente general o particular de cada gasto.
+
+5\. Reglas generales sobre el importe de las propuestas de pago a favor de la Administración General del Estado y las entidades del sector público institucional estatal.
+
+5.1 El importe de las propuestas de pago a favor de la Administración General del Estado y las entidades del sector público institucional estatal, deberá ajustarse a las necesidades reales de liquidez de dichas entidades, en aras de garantizar una eficiente gestión de la Tesorería del Estado. En particular, se procurará partir las propuestas de mayor tamaño en varias propuestas de importes menores.
+
+5.2 Los importes de las propuestas de pago correspondientes a créditos con presupuesto definitivo anual superior a 50 millones de euros incluidos en los capítulos de gasto 2, 6 y 8, no podrán superar la cuarta parte del crédito presupuestario anual del capítulo de gasto al que pertenecen. La Dirección General del Tesoro y Política Financiera podrá acordar la superación de este límite, previa justificación debidamente motivada de la entidad beneficiaria del pago.
+
+En el caso de fondos sin personalidad jurídica integrados en el Tesoro Público conforme a lo dispuesto en el artículo 90 de la Ley 47/2003, de 26 de noviembre, los importes de las propuestas de pago correspondientes al capítulo 8 deberán ser previamente acordados con la Dirección General del Tesoro y Política Financiera.
+
+5.3 Los importes de las propuestas de pago correspondientes a créditos incluidos en los capítulos de gasto 4 y 7, no podrán superar la doceava parte del crédito presupuestario definitivo anual del capítulo de gasto al que pertenecen. La Dirección General del Tesoro y Política Financiera podrá acordar la superación de este límite, previa justificación debidamente motivada de la entidad beneficiaria del pago.
+
+5.4 Los órganos gestores deberán tener en cuenta las reglas indicadas en los apartados anteriores de este punto 5 en la ejecución de los correspondientes créditos presupuestarios, a efectos del cumplimiento de los límites indicados.
+
+En caso de que los importes no se adecúen a lo dispuesto en los apartados anteriores de este punto 5, sin estar justificados por las necesidades reales de liquidez de las entidades, la Dirección General del Tesoro y Política Financiera podrá devolver dichas propuestas de pago al centro gestor con el fin de que las mismas sean divididas en varias propuestas de importes menores. Esta facultad de la Dirección General del Tesoro y Política Financiera de devolución de las propuestas de pago no afectará a aquellos gastos de capítulo 2 y 6 derivados de contratos en los que el importe de la propuesta de pago coincida con el de la obligación de pago.
+
+> Téngase en cuenta que el apartado 4, añadido por el art. único.2 de la Orden PCM/7/2021, de 11 de enero. [Ref. BOE-A-2021-521](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-521), entra en vigor el 14 de julio de 2021, según establece su disposición final única.
+
+> Se añade el apartado 5 por el art. único.2 de la Orden PJC/643/2026, de 19 de junio. [Ref. BOE-A-2026-13890](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13890)
+
+> Se añade el apartado 4, con efectos desde el 14 de julio de 2021, y se modifica la referencia a la «Secretaría General del Tesoro y Financiación Internacional» por la «Dirección General del Tesoro y Política Financiera», por el art. único.2 y la disposición adicional única de la Orden PCM/7/2021, de 11 de enero. [Ref. BOE-A-2021-521](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-521)
+
+> Se modifica por el art. único.2 de la Orden PCI/1077/2018, de 15 de octubre. [Ref. BOE-A-2018-14180](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14180)
+
+> Se modifica el apartado 2.e) por el art. único.4 de la Orden PRE/1136/2013, de 19 de junio. [Ref. BOE-A-2013-6709](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6709).
+
+### Octavo. De la ordenación del pago.
+
+1\. De la puesta a disposición de las propuestas de pago para su ordenación.
+
+1.1 Una vez registradas en el Sistema las propuestas de pago, las distintas Oficinas de Contabilidad que se integran en el mismo pondrán los datos de las propuestas a disposición de la Dirección General del Tesoro y Política Financiera, a través de los procedimientos y medios informáticos con que cuente el Sistema. En este proceso, las propuestas de pago serán completadas con los datos contenidos en el Fichero Central de Terceros que sean necesarios para realizar adecuadamente el proceso de ordenación del pago.
+
+1.2 Puestas a su disposición las propuestas de pago, la Dirección General del Tesoro y Política Financiera procederá a ordenar el pago conforme a lo dispuesto en el apartado octavo.2 siguiente.
+
+2\. Del proceso de ordenación.
+
+2.1 Actuaciones previas al proceso de ordenación. Tanto para las propuestas de pago que se hubiesen puesto a disposición de la Dirección General del Tesoro y Política Financiera desde el último proceso de ordenación realizado, como para aquellas otras que hubiesen sido retenidas en procesos de ordenación anteriores, se efectuarán las siguientes actuaciones:
+
+a. Completar las propuestas de pago con los datos que, contenidos en el Fichero Central de Terceros, sean necesarios para que pueda realizarse adecuadamente su ordenación.
+
+b. Validar los datos relativos a la forma de pago de las propuestas para que sean conformes con los existentes en el Fichero Central de Terceros y con la normativa que les resulte de aplicación.
+
+c. Validar la posible existencia de alguna de las incidencias recogidas en el apartado cuarto.3 de esta orden.
+
+2.2 Criterios de ordenación y retención de propuestas. Una vez efectuadas las actuaciones indicadas en el apartado octavo.2.1, se procederá a efectuar el proceso de ordenación de pagos. La Dirección General del Tesoro y Política Financiera aplicará los criterios de ordenación de pagos previstos en el artículo 107 de la Ley 47/2003, de 26 de noviembre, y teniendo en cuenta criterios de gestión eficiente de tesorería, seleccionará aquellas propuestas que vayan a ser ordenadas.
+
+Las propuestas de pago que no sean ordenadas como consecuencia de los trámites del proceso indicado en el párrafo anterior quedarán retenidas a la espera de que se efectúe su ordenación en un proceso posterior.
+
+Lo dispuesto en este artículo se entiende sin perjuicio de la capacidad de la Dirección General del Tesoro y Política Financiera de retener las propuestas de pago a favor de las entidades recogidas en el artículo 106 de dicha ley.
+
+3\. Gestión de incidencias. Si en el proceso de comprobaciones previo a la ordenación de los pagos se detectasen incidencias que afectasen a los terceros que figuren en las propuestas de pago, el Sistema retendrá dichas propuestas de pago, al objeto de que, en función de la incidencia de que se trate, se determinen las actuaciones que procedan.
+
+Cuando la resolución de la incidencia suponga la introducción de modificaciones en la respectiva propuesta de pago, se habrá de incorporar dicha resolución al Fichero Central de Terceros mediante la actualización de la respectiva incidencia.
+
+El procedimiento indicado en este punto será también aplicable a las propuestas de pago que hayan sido retenidas en el proceso de ordenación del pago, cuando no se haya comunicado por el tercero algún dato necesario para la realización del pago y existan embargos sobre las mismas, o cuando, debido a la aplicación del procedimiento previsto en el artículo 106 de la Ley 47/2003, de 26 de noviembre, las propuestas a favor de entidades del sector público institucional estatal hayan quedado retenidas y estuvieran afectadas por un procedimiento de deducción para la recaudación de deudas con la Seguridad Social en período ejecutivo según lo regulado en el artículo 38.6 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, o por compensaciones de deuda de oficio de la Agencia Estatal de la Administración Tributaria, en virtud de lo dispuesto en el artículo 71 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+En estos casos, se aplicarán las siguientes especialidades respecto al procedimiento general:
+
+a) Se tramitará la ordenación del pago y el pago de la propuesta de pago por su importe total en formalización, con aplicación de los descuentos a los conceptos no presupuestarios que autorice la Intervención General de la Administración del Estado. Se utilizará un concepto específico para el importe que corresponda aplicar a la ejecución de la incidencia y otro concepto distinto para la parte restante de la propuesta de pago que sea a favor del perceptor.
+
+b) Una vez pagada la propuesta de pago en formalización por su importe total, se expedirán dos documentos contables de Propuesta de Mandamiento de Pago (en adelante, PMP), uno aplicado al primero de los conceptos indicado en el párrafo anterior, a favor del órgano al que se deba pagar el importe de la incidencia, y otro aplicado al segundo de los conceptos, a favor del perceptor.
+
+c) El primero de los documentos PMP será objeto de tramitación, procediéndose a su ordenación y pago, mientras que el segundo PMP quedará retenido en la ordenación del pago hasta que se cumplan los requisitos necesarios para la tramitación de su pago, sin que esta tramitación implique nuevas comprobaciones sobre posibles incidencias que afecten al tercero.
+
+> Se modifica por el art. único.3 de la Orden PJC/643/2026, de 19 de junio. [Ref. BOE-A-2026-13890](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13890)
+
+> Se modifican las referencias a la «Secretaría General del Tesoro y Política Financiera» por la «Dirección General del Tesoro y Política Financiera», según establece la disposición adicional única de la Orden PCM/7/2021, de 11 de enero. [Ref. BOE-A-2021-521](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-521)
+
+> Se modifica por el art. único.5 de la Orden PRE/1136/2013, de 19 de junio. [Ref. BOE-A-2013-6709](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6709).
+
+### Noveno. Del pago de las obligaciones.
+
+1\. Delimitación de las formas de pago. El pago de las obligaciones a cargo de la Administración General del Estado se efectuará mediante transferencia bancaria contra la correspondiente cuenta del Tesoro en el Banco de España o en alguna Entidad de Crédito debidamente autorizada. Excepcionalmente, cuando concurran circunstancias que lo justifiquen y sólo para las personas físicas, el Director General del Tesoro y Política Financiera podrá autorizar el pago mediante cheque nominativo no a la orden.
+
+Asimismo, se podrán cancelar las obligaciones mediante pagos en formalización a conceptos del Presupuesto de ingresos y a conceptos no presupuestarios, que no producirán variaciones efectivas de tesorería.
+
+2\. Pagos por transferencia.
+
+2.1 Las órdenes de pago mediante transferencia bancaria se harán de acuerdo con el siguiente procedimiento:
+
+a) Con respecto a las que se expidan a favor de agentes mediadores en el pago a que se refiere el apartado séptimo.2: Deberá ordenarse el abono de la transferencia bancaria en la cuenta que, de acuerdo con lo establecido en la normativa que le sea de aplicación, deban tener debidamente autorizada.
+
+b) Con respecto a las expedidas a favor de personas físicas, personas jurídicas privadas, entidades privadas sin personalidad jurídica y entidades y organismos públicos no sujetos al régimen de autorizaciones de cuentas corrientes previsto en la normativa vigente: El abono de estas transferencias se ordenará en una cuenta abierta a nombre del acreedor y designada por éste en la forma que se establece en el punto 2.3 de este apartado.
+
+2.2 Los pagos por transferencia se realizarán por la Dirección General del Tesoro y Política Financiera, transfiriendo el importe líquido de las respectivas órdenes a la cuenta bancaria designada que corresponda en función del tipo de pago de que se trate.
+
+2.3 Cuando se trate de pagos a acreedores directos a que se refiere el apartado noveno 2.1.b), el importe líquido de las órdenes de pago a su favor será transferido a las cuentas bancarias que por los mismos se designen. A estos efectos, la designación de dichas cuentas se formulará según el modelo que se incluye en el anexo I o según el formulario normalizado equivalente para su presentación electrónica, que se apruebe por Resolución de la Dirección General del Tesoro y Política Financiera.
+
+La designación de cuenta bancaria podrá realizarse por las siguientes vías:
+
+a) Designación telemática mediante el servicio electrónico habilitado a tal efecto en la sede electrónica de la Dirección General del Tesoro y Política Financiera (https://www.tesoropublico.gob.es). El acceso del acreedor a este servicio requerirá del uso de los medios de identificación electrónica y autenticación admitidos en la mencionada sede. Sólo podrá realizar esta presentación cuando sus datos identificativos hayan sido previamente registrados por la oficina de contabilidad correspondiente. En el formulario de designación se exigirá que el acreedor declare que la cuenta bancaria designada es de su titularidad. Las personas obligadas a comunicarse electrónicamente con la Administración de acuerdo con lo dispuesto en el artículo 14.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, deberán utilizar exclusivamente la vía electrónica.
+
+b) Presentación del modelo de designación de cuenta. Esta vía sólo podrá ejercerse por aquellos sujetos no obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas, de acuerdo con el artículo 14.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Una vez cumplimentado este modelo, se dirigirá a la Dirección General del Tesoro y Política Financiera, debiendo constar en el mismo, o en documento anejo, la acreditación de la titularidad de la cuenta designada en alguna de las formas que se indican en el propio modelo. La presentación del modelo cumplimentado por esta vía no exigirá aportar justificación de la representación y podrá realizarse en cualquiera de los lugares y registros establecidos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre.
+
+Los acreedores directos podrán designar un máximo de tres cuentas bancarias para su inclusión en el Fichero Central de Terceros. Este límite podrá elevarse, previa solicitud de los interesados, por la Dirección General del Tesoro y Política Financiera.
+
+La propuesta de pago será abonada a la cuenta bancaria que figure en dicha propuesta. En el caso de que en la propuesta de pago no figure cuenta bancaria o la que figure se encuentre de baja en el Fichero Central de Terceros en el momento de su ordenación, se procederá a ordenar el pago en otra cuenta que esté dada de alta con el correspondiente tipo de pago.
+
+Asimismo, si efectuada la transmisión de una propuesta a la Dirección General del Tesoro y Política Financiera, y siempre que aquélla no hubiera sido ordenada, el interesado quisiera recibir la transferencia en una cuenta distinta a la incluida en la propuesta de pago, aquél podrá solicitar dicha modificación a la Dirección General del Tesoro y Política Financiera.
+
+2.4 Con el objeto de que el Banco de España o entidad de crédito debidamente autorizada ejecuten las órdenes de pago mediante transferencia, la Dirección General del Tesoro y Política Financiera les remitirá la información acordada entre el Tesoro Público y dicho Banco, en el marco del Convenio citado en el artículo 13 de la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España, y la que, en su caso, se acuerde con las entidades de crédito.
+
+2.5 La Dirección General del Tesoro y Política Financiera informará a cada perceptor, a través del banco en el que se sitúen los fondos o por medios electrónicos, de las transferencias realizadas a favor del mismo.
+
+La información sobre transferencias ordenadas por la Dirección General del Tesoro y Política Financiera que reciban habilitados o cajeros pagadores en cualquiera de las modalidades mencionadas en el párrafo anterior, se utilizará por los mismos como documento justificativo en los procedimientos de pagos a justificar y anticipos de caja fija.
+
+2.6 Las entidades de crédito abonarán en las cuentas de los beneficiarios los importes correspondientes a las transferencias ordenadas por el Tesoro Público en los términos establecidos por el Banco de España en la circular correspondiente.
+
+Cuando una entidad de crédito no pudiera cumplimentar el abono a la cuenta beneficiaria en el plazo máximo establecido por el Sistema Nacional de Compensación Electrónica, Subsistema General de Transferencias, deberá proceder a la devolución de la transferencia al Banco de España en el primer día hábil siguiente al plazo indicado. El Banco de España pondrá en conocimiento de la Dirección General del Tesoro y Política Financiera dicha circunstancia a fin de efectuar su ingreso en una cuenta transitoria del Tesoro, que será aplicado al concepto no presupuestario que determine la Intervención General de la Administración del Estado. A la comunicación se acompañará la documentación que se acuerde en el Convenio al que se refiere el apartado noveno.2.4 anterior.
+
+Cuando en el plazo de dos meses no pueda hacerse efectivo el pago a favor del beneficiario, la cantidad devuelta se abonará en la cuenta operativa del Tesoro y se aplicará provisionalmente al concepto no presupuestario que determine la Intervención General de la Administración del Estado, hasta la subsanación de los errores que se hubieran podido producir y su posterior pago a propuesta del gestor, o hasta la declaración de su prescripción cuando se cumpla el plazo establecido en la normativa vigente.
+
+Todas las transferencias ordenadas al Banco de España que no produzcan la comunicación e ingreso indicados en los párrafos anteriores, se entenderán cumplimentadas en sus propios términos.
+
+> Se modifican las referencias a la «Secretaría General del Tesoro y Financiación Internacional» y a la «Secretaría General del Tesoro y Política Financiera» por la «Dirección General del Tesoro y Política Financiera», según establece la disposición adicional única de la Orden PCM/7/2021, de 11 de enero. [Ref. BOE-A-2021-521](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-521)
+
+> Se modifican los puntos 2.1 y 2.3 por el art. único.3 de la Orden PCI/1077/2018, de 15 de octubre. [Ref. BOE-A-2018-14180](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14180)
+
+> Se modifica por el art. único.6 de la Orden PRE/1136/2013, de 19 de junio. [Ref. BOE-A-2013-6709](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6709).
+
+### Décimo. De los descuentos en pagos.
+
+Los tributos que corresponda liquidar o retener sobre el principal de las órdenes de pago, así como cualesquiera otros descuentos que proceda incorporar a las mismas, se deducirán de su importe para su aplicación en formalización a los conceptos que en cada caso corresponda.
+
+Los efectos contables, presupuestarios y todos aquellos que procedan en relación con los descuentos incorporados a las órdenes de pago se producirán en el mismo momento del pago, sin que sea necesario expedir ningún otro documento justificativo para la aplicación de estos descuentos, sirviendo la propia orden de pago como justificación de dicha aplicación.
+
+### Undécimo. De las cesiones de créditos.
+
+Los datos sobre las cesiones de créditos contra la Administración General del Estado y las transmisiones de certificaciones de obras que se produzcan se registrarán en el Sistema de Información Contable por la Oficina de Contabilidad a la que corresponda realizar el registro de las obligaciones en cuestión. En el caso de que la propuesta ya hubiese sido puesta a disposición de la Dirección General del Tesoro y Política Financiera y estuviera pendiente de ordenar el pago, la oficina de contabilidad solicitará a dicha Dirección General la devolución de esa propuesta de pago, para proceder a su anulación en el Sistema de Información Contable.
+
+> Se modifican las referencias a la «Secretaría General del Tesoro y Política Financiera» por la «Dirección General del Tesoro y Política Financiera», según establece la disposición adicional única de la Orden PCM/7/2021, de 11 de enero. [Ref. BOE-A-2021-521](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-521)
+
+> Se modifica por el art. único.7 de la Orden PRE/1136/2013, de 19 de junio. [Ref. BOE-A-2013-6709](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6709).
+
+### Duodécimo. Compensación de deudas a petición de los interesados.
+
+1\. Delimitación.
+
+1.1 Cuando un tercero sea, al mismo tiempo, deudor y acreedor de la Administración General del Estado, podrá solicitar la compensación de los respectivos débitos y créditos ante el órgano competente para acordarla.
+
+1.2 Para poder efectuar dicha solicitud de compensación, el interesado deberá justificar que se ha suspendido el proceso del pago del crédito contra el que se pretende realizar la misma, mediante la aportación de oportuno certificado según modelo que se adjunta como anexo II de esta orden, que se expedirá siguiendo el procedimiento que se indica a continuación.
+
+1.3 Una vez dictado el acuerdo de compensación, el órgano que lo hubiera aprobado deberá remitirlo a la Dirección General del Tesoro y Política Financiera, a efectos de que se proceda a la ejecución del mismo.
+
+2\. Actuaciones en los Departamentos ministeriales en relación con la suspensión del procedimiento de pago.
+
+2.1 El interesado que pretenda solicitar una compensación de las indicadas en el punto 1 podrá dirigirse al Servicio gestor del crédito contra el que se pretenda compensar la deuda, a cuyos efectos deberá presentar en dicho Servicio gestor una petición para que se suspenda el pago del citado crédito, ajustada al modelo que se adjunta como anexo III.
+
+2.2 El Servicio gestor o, en su caso, la Oficina de Contabilidad en el Departamento, procederá a incluir dentro de los datos de la propuesta de pago la clave que determine la Intervención General de la Administración del Estado, a efectos de que el Sistema pueda detectar que dicho pago se encuentra en proceso de compensación, procediendo a suspender el mismo.
+
+Una vez capturados en el Sistema de Información Contable los datos de la propuesta de pago, la Oficina de Contabilidad en el Departamento expedirá el certificado a que se refiere el apartado 1.2, que se le entregará al interesado.
+
+3\. Actuaciones de la Dirección General del Tesoro y Política Financiera en relación con la suspensión del procedimiento de pago. Cuando se reciban en la Dirección General del Tesoro y Política Financiera las propuestas de pago a las que se refiere el apartado 2.2, las mismas quedarán retenidas pendientes de ordenar su pago hasta que se reciban los acuerdos de compensación de deudas dictados por los órganos competentes.
+
+4\. Ejecución del acuerdo de compensación. Una vez que se reciba el acuerdo de compensación dictado por el órgano competente, la Dirección General del Tesoro y Política Financiera modificará la citada propuesta introduciendo los descuentos necesarios para la ejecución del acuerdo de compensación. Seguidamente, se ordenará el pago y se pagará en formalización la parte correspondiente a la compensación acordada, aplicando los descuentos al concepto que permita la posterior cancelación de las deudas que se compensen.
+
+> Se modifica por el art. único.4 de la Orden PJC/643/2026, de 19 de junio. [Ref. BOE-A-2026-13890](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13890)
+
+> Se modifican las referencias a la «Secretaría General del Tesoro y Política Financiera» por la «Dirección General del Tesoro y Política Financiera», según establece la disposición adicional única de la Orden PCM/7/2021, de 11 de enero. [Ref. BOE-A-2021-521](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-521)
+
+> Se modifica por el art. único. 8 de la Orden PRE/1136/2013, de 19 de junio. [Ref. BOE-A-2013-6709](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6709).
+
+### Decimotercero. Obligaciones de información.
+
+De acuerdo con lo dispuesto en el artículo 106 de la Ley 47/2003, de 26 de noviembre, los entes previstos en dicho artículo deberán comunicar a la Dirección General del Tesoro y Política Financiera las previsiones sobre sus cobros y pagos en los términos que se determinen por resolución de la Dirección General del Tesoro y Política Financiera.
+
+> Se añade por el art. único.5 de la Orden PJC/643/2026, de 19 de junio. [Ref. BOE-A-2026-13890](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13890)
+
+### Disposición adicional única. Regulación para Organismos Autónomos.
+
+Las normas y criterios contenidos en esta orden serán de aplicación en los Organismos Autónomos del Estado para el pago de las obligaciones a su cargo, adecuando su realización a su propia estructura administrativa y organización contable y aspectos procedimentales, de acuerdo con la normativa que les sea de aplicación.
+
+Con respecto a los medios de pago, no serán de aplicación a los Organismos Autónomos las limitaciones impuestas a la Administración General del Estado en materia de pago mediante cheque, pudiendo estos organismos hacer uso del cheque nominativo para el pago de sus obligaciones.
+
+> Se modifica por el art. único.9 de la Orden PRE/1136/2013, de 19 de junio. [Ref. BOE-A-2013-6709](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6709).
+
+### Disposición transitoria única. Cheques emitidos a la entrada en vigor de la Orden.
+
+Los cheques emitidos con anterioridad a la entrada en vigor de esta Orden se regirán por la normativa que les fuera de aplicación en el momento de su emisión.
+
+### Disposición derogatoria única. Derogación normativa.
+
+A la entrada en vigor de la presente Orden queda derogada la Orden de 27 de diciembre de 1995, sobre procedimientos para el pago de las obligaciones de la Administración del Estado, salvo su Disposición Adicional Segunda, modificación de la Orden de 6 de febrero de 1995, sobre ordenación del pago y pago material en divisas, así como las disposiciones de igual o inferior rango que se opongan a lo dispuesto en esta Orden.
+
+### Disposición final primera. Habilitación.
+
+La Dirección General del Tesoro y Política Financiera y la Intervención General de la Administración del Estado adoptarán las medidas necesarias, en el ámbito de sus respectivas competencias, para la ejecución y aplicación de esta orden.
+
+En particular, mediante Resolución conjunta de la Dirección General del Tesoro y Política Financiera y la Intervención General de la Administración del Estado, podrán modificarse los modelos que figuran en los anexos de esta orden, cuando así se estime necesario para la mejora técnica de los procedimientos de pago o para la adaptación de aquéllos a los cambios normativos que pudieran producirse.
+
+> Se modifican las referencias a la «Secretaría General del Tesoro y Política Financiera» por la «Dirección General del Tesoro y Política Financiera», según establece la disposición adicional única de la Orden PCM/7/2021, de 11 de enero. [Ref. BOE-A-2021-521](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-521)
+
+> Se modifica por el art. único.10 de la Orden PRE/1136/2013, de 19 de junio. [Ref. BOE-A-2013-6709](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6709).
+
+### Disposición final segunda. Entrada en vigor.
+
+La presente Orden entrará en vigor a los tres meses de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 19 de junio de 2002.
+
+LUCAS GIMÉNEZ
+
+Excmos. Sres. Vicepresidente Segundo del Gobierno para Asuntos Económicos y Ministro de Economía y Ministro de Hacienda.
+
+## ANEXO I
+
+## Modelo de designación de cuenta bancaria y comunicación de baja de datos bancarios
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/251/14180_5640.png)
+
+> Se modifica y se renumera por el art. único.4 y 5 de la Orden PCI/1077/2018, de 15 de octubre. [Ref. BOE-A-2018-14180](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14180)
+
+> Su anterior numeración era Anexo 2.
+
+## ANEXO II
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/155/13890_17169446_1.png)
+
+> Se modifica por el único.6 de la Orden PJC/643/2026, de 19 de junio. [Ref. BOE-A-2026-13890](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13890)
+
+> Se modifica y se renumera por el art. único.5 de la Orden PCI/1077/2018, de 15 de octubre. [Ref. BOE-A-2018-14180](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14180)
+
+> Su anterior numeración era Anexo 3.
+
+> Se modifica por el art. único.11 de la Orden PRE/1136/2013, de 19 de junio. [Ref. BOE-A-2013-6709](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6709).
+
+## ANEXO III
+
+## ![imagen](https://www.boe.es/datos/imagenes/disp/2026/155/13890_17169446_2.png)
+
+> Se modifica por el único.7 de la Orden PJC/643/2026, de 19 de junio. [Ref. BOE-A-2026-13890](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13890)
+
+> Se modifica y se renumera por el art. único.5 de la Orden PCI/1077/2018, de 15 de octubre. [Ref. BOE-A-2018-14180](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14180)
+
+> Su anterior numeración era Anexo 4.

@@ -1,0 +1,323 @@
+---
+title: "Real Decreto 1338/1988, de 28 de octubre, por el que se aprueba la Reglamentación Técnico-Sanitaria para la Elaboración y Venta de Horchata de Chufa"
+identifier: "BOE-A-1988-25809"
+eli: "https://www.boe.es/eli/es/rd/1988/10/28/1338"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1988-10-28
+published: 1988-11-10
+in_force_from: 1988-11-30
+last_amended: 2026-02-27
+consolidated: 2026-02-27
+gazette: "Boletín Oficial del Estado núm. 270"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1988-25809"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1338/1988, de 28 de octubre, por el que se aprueba la Reglamentación Técnico-Sanitaria para la Elaboración y Venta de Horchata de Chufa
+
+Incluye la corrección de errores publicada en el BOE núm. 84 de 8 de abril de 1989. [Ref. BOE-A-1989-7771](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-7771).
+
+La Orden de 5 de marzo de 1963 («Boletín Oficial del Estado» del 13), aprobó las nuevas reglamentaciones de zumos de frutas, bebidas refrescantes, jarabes y horchatas, siendo contemplados posteriormente estos productos, de una manera general y básica, por el Decreto 2484/1967, de 21 de septiembre («Boletín Oficial del Estado» de 17 a 23 de octubre de 1967), que aprueba el código alimentario español.
+
+Los avances tecnológicos y las exigencias sanitarias obligaron a una actualización de las normativas referentes a estos productos. De esta forma, los Zumos de Frutas quedaron regulados por el Real Decreto 667/1983, de 2 de marzo («Boletín Oficial del Estado» del 31); las Bebidas Refrescantes se regularon por el decreto 407/1975, de 7 de marzo («Boletín Oficial del Estado» del 12) y posteriores modificaciones, y los jarabes por el Real Decreto 380/1984, de 25 de enero («Boletín Oficial del Estado» de 27 de febrero). Procede, por lo tanto, actualizar la normativa correspondiente a las horchatas, fundamentalmente en lo referente a las horchatas de chufa, únicas horchatas con presencia comercial real, todo ello sin perjuicio de la normativa comunitaria sobre libre circulación de mercancías.
+
+El presente Real Decreto se dicta al amparo de la competencia que atribuye al Estado el artículo 40, apartados 2, 4 y 5, y de la disposición adicional segunda de la Ley 14/1986, de 25 de abril, General de Sanidad, dando cumplimiento, por otra parte, a lo dispuesto en el artículo 4.º de la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios.
+
+Por lo demás, mediante el presente Real Decreto, se otorga, de acuerdo con las exigencias requeridas por el Tribunal Constitucional, el carácter de norma básica a esta Reglamentación Técnico-Sanitaria en base, tanto a los preceptos y competencia antes señalados, como a la doctrina sentada por el propio Tribunal.
+
+En su virtud, a propuesta de los Ministros de Economía y Hacienda, de Industria y Energía, de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, oídos los sectores afectados, previo informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria y, previa deliberación del Consejo de Ministros en su reunión del día 28 de octubre de 1988,
+
+### DISPONGO:
+
+#### Artículo único.
+
+Se aprueba la adjunta Reglamentación Técnico-Sanitaria para la Elaboración y Venta de Horchatas de Chufa.
+
+#### Disposición adicional.
+
+Lo dispuesto en el presente Real Decreto se considera norma básica de conformidad con lo establecido en el artículo 149.1.1.ª y 16 de la Constitución Española.
+
+#### Disposición transitoria primera.
+
+Las adaptaciones de las instalaciones existentes, derivadas de las exigencias incorporadas a esta Reglamentación, que no sean consecuencia de disposiciones legales vigentes, serán llevadas a cabo en el plazo de seis meses a contar desde la publicación del presente Real Decreto.
+
+#### Disposición transitoria segunda.
+
+El título segundo «Composición, características y prácticas industriales», entrará en vigor en el plazo de seis meses a contar desde la publicación del presente Real Decreto.
+
+#### Disposición derogatoria.
+
+La Reglamentación Técnico-Sanitaria para la Elaboración y Venta de Jarabes y Horchatas, aprobada por Orden de 5 de marzo de 1963, queda derogada en lo referente a la horchata de chufa de cualquier clase.
+
+Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente norma.
+
+Dado en Madrid a 28 de octubre de 1988.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA PARA LA ELABORACIÓN Y VENTA DE HORCHATAS DE CHUFA
+
+## TÍTULO PRELIMINAR
+
+#### Art. 1. Ámbito de aplicación.
+
+La presente Reglamentación tiene por objeto definir, a efectos legales, lo que se entiende por horchatas de chufa y fijar, con carácter obligatorio, las normas de elaboración y comercialización y, en general, la ordenación técnico-sanitaria de tales productos. Será de aplicación, asimismo, a los productos importados.
+
+Esta Reglamentación obliga a todos los fabricantes, horchateros artesanos y comerciantes de horchatas y, en su caso, a los importadores de estos productos.
+
+## TÍTULO I — Definiciones y denominaciones
+
+#### Art. 2. Horchatas de chufa.
+
+El producto nutritivo de aspecto lechoso, obtenido mecánicamente a partir de los tubérculos Cyperus Sculentus L., sanos, maduros, seleccionados y limpios, rehidratados, molturados y extraídos con agua potable, con o sin adición de azúcar, azúcares, o sus mezclas, con color, aroma y sabor típicos del tubérculo del que proceden, con un contenido mínimo de almidón, grasa y azúcares, según se especifica para cada tipo de horchata de chufa en esta Reglamentación.
+
+Su conservación se conseguirá únicamente por tratamientos físicos autorizados, para cada clase y tipo de horchata, definidos en esta Reglamentación.
+
+Las horchatas de chufa podrán denominarse simplemente horchata.
+
+#### Art. 3. Clases de horchata de chufa.
+
+3.1 Horchata de chufa natural.–Es la preparada con la proporción adecuada de chufas, agua y azúcar para que el producto tenga un mínimo de 12 por 100 de sólidos solubles expresados como º Brix a 20 ºC. Su contenido mínimo de almidón será del 1,9 por 100 y el de grasas del 2 por 100. Tendrá un pH mínimo del 6,3. Los azúcares totales expresados en sacarosa serán como mínimo del 10 por 100. Tanto el almidón como las grasas procederán exclusivamente de los tubérculos utilizados en la preparación de la horchata.
+
+Optativamente, la horchata podrá prepararse simplemente con chufas y agua, en cuyo caso, deberá tener un mínimo del 4,5 por 100 de sólidos solubles expresados como º Brix a 20 ºC. Análogamente, su contenido de almidón será, como mínimo, del 1,9 por 100 y el de grasas del 2 por 100, y tanto los sólidos solubles como el almidón y las grasas, procederán exclusivamente de los tubérculos utilizados en la preparación de la horchata.
+
+La horchata de chufa natural con azúcar podrá denominarse simplemente horchata, aunque también podrá recibir las siguientes denominaciones: Horchata natural, horchata de chufa natural. La horchata sin adición de azúcar se denominará horchata no azucarada.
+
+3.2 Horchata de chufa natural pasterizada.–Es la horchata de chufa natural que ha sido sometida a un tratamiento de pasterización por debajo de 72º, sin adición de aditivos ni coadyuvantes tecnológicos.
+
+Su composición y características organolépticas y fisicoquímicas serán las mismas que las de la horchata natural.
+
+3.3 Horchata de chufa pasterizada.–Es la horchata de chufa sometida a un proceso tecnológico que suprima o transforme, total o parcialmente su contenido de almidón y procesada mediante un tratamiento térmico que asegure la destrucción de los gérmenes patógenos y la mayoría de la flora banal.
+
+El producto tendrá un contenido mínimo del 12 por 100 de sólidos solubles expresados en º Brix a 20 ºC. Su contenido en grasas será del 2 por 100 y estas grasas procederán exclusivamente de los tubérculos utilizados.
+
+El pH mínimo será de 6,3 y los azúcares totales expresados en sacarosa serán como mínimo del 10 por 100.
+
+3.4 Horchata de chufa esterilizada.–Es la horchata de chufa sometida a un proceso tecnológico que transforme o suprima, total o parcialmente, su contenido en almidón y procesada después de su envasado mediante un tratamiento térmico que asegure la destrucción de los microorganismos y la inactividad de sus formas de resistencia, de acuerdo con lo definido en el apartado «características microbiológicas».
+
+El producto tendrá un mínimo del 12 por 100 de sólidos solubles expresados en º Brix a 20 ºC.
+
+Su contenido mínimo de grasas será del 2 por 100 y estas grasas procederán exclusivamente de los tubérculos utilizados. El pH mínimo será de 6,3 y los azúcares totales expresados en sacarosa serán como mínimo del 10 por 100.
+
+3.5 Horchata UHT.–Es la horchata de chufa sometida a un proceso tecnológico que suprima o transforme, total o parcialmente, su contenido en almidón y procesada mediante un tratamiento térmico UHT que asegure, después de un envasado aséptico, la destrucción de los microorganismos y la inactividad de sus formas de resistencia, de acuerdo con lo definido en el apartado «características microbiológicas».
+
+El producto tendrá un contenido mínimo del 12 por 100 de sólidos solubles expresados en º Brix a 20 ºC.
+
+Su contenido mínimo en grasas será del 2 por 100. El pH mínimo será de 6,3 y los azúcares totales expresados en sacarosa serán como mínimo del 10 por 100 en el caso de utilizar azúcar o azúcares.
+
+3.6 Horchata de chufa concentrada.–Es la preparada con las proporciones de chufas, agua y azúcar o azúcares adecuadas para obtener un producto con una concentración mínima de sólidos disueltos del 42 por 100, expresados como º Brix, y un pH mínimo de 6,0, y que por disolución con agua según el modo de empleo permite obtener un producto de características organolépticas, fisicoquímicas y microbiológicas correspondientes a la de la horchata de chufa natural.
+
+Si la concentración de sólidos disueltos está comprendida entre 42 y 60º Brix a 20 ºC, deberá conservarse a una temperatura por debajo de 8 ºC y recibirá el nombre de horchata de chufa concentrada refrigerada. En el caso de que se someta al proceso de congelación y se conserve por debajo de –18 ºC, recibirá la denominación de horchata de chufa concentrada congelada.
+
+3.7 Horchata de chufa condensada.
+
+3.7.1 Horchata de chufa condensada pasterizada.–Es la preparada con las proporciones adecuadas de chufas, agua y azúcares para que el producto resultante tenga un mínimo de 60 por 100 de sólidos disueltos, expresados en º Brix a 20 ºC, un 3,5 de almidón y un 4,5 de grasa, procedentes exclusivamente de las chufas. Tendrá un pH mínimo de 6,0.
+
+Por disolución, según el modo de empleo, tendrá como mínimo un contenido en almidón y grasas procedentes exclusivamente de las chufas del 0,7 y del 0,9, respectivamente, y un pH mínimo de 6,3. Los azúcares totales serán como mínimo el 50 por 100 expresados en sacarosa.
+
+3.7.2 Horchata de chufa condensada congelada.–Es la horchata que por sus características de conservación no precisa de una alta concentración de azúcares. Tendrá un mínimo del 50 por 100 de sólidos disueltos expresados en º Brix a 20 ºC, un 4,5 por 100 de almidón y un 6 por 100 de grasa, procedentes exclusivamente de las chufas. Tendrá un pH mínimo de 6,0.
+
+Por disolución, según el modo de empleo, tendrá como mínimo un contenido en almidón y grasas procedentes exclusivamente de las chufas del 1,1 por 100 y del 1,5 por 100, respectivamente, y un pH mínimo de 6,3. Los azúcares totales expresados en sacarosa serán como mínimo del 40 por 100.
+
+3.8 Horchata de chufa en polvo.–Es la horchata de chufa sometida a un proceso tecnológico que pueda suprimir o transformar, total o parcialmente, su contenido en almidón en forma de partículas o gránulos sólidos, y obtenida mediante procesos de secado con un contenido en agua inferior al 5 por 100.
+
+Por conveniente reconstitución en agua, según el modo de empleo, permitirá obtener un producto de características organolépticas y fisicoquímicas correspondientes, como mínimo, a las de la horchata pasterizada.
+
+3.9 Sin perjuicio del contenido mínimo de sólidos solubles y de azúcares exigido para cada una de las clases de horchata indicadas en los epígrafes anteriores, se podrán asimismo elaborar horchatas sin azúcares añadidos o con un contenido de azúcares modificado en los términos establecidos en el Reglamento (CE) n.º 1924/2006 del Parlamento Europeo y del Consejo, de 20 de diciembre de 2006, relativo a las declaraciones nutricionales y de propiedades saludables en los alimentos, en cuyo caso se podrán emplear las declaraciones nutricionales que correspondan. En el caso de las horchatas con un contenido reducido de azúcares se tomarán como referencia para aplicar la reducción mínima del 30 % regulada en dicho reglamento, los contenidos mínimos de azúcar regulados para cada tipo de horchata. En estos casos, el contenido mínimo de sólidos solubles será del 4,5 por 100 expresados como °Brix a 20 °C.
+
+> Se añade el apartado 9 por el art. 4.1 del Real Decreto 142/2026, de 25 de febrero. [Ref. BOE-A-2026-4519](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4519)
+
+## TÍTULO II — Composición, características y prácticas industriales
+
+#### Art. 4. Ingredientes.
+
+En la preparación de las horchatas de chufa se autoriza el empleo de:
+
+Chufa.
+
+Agua potable.
+
+Azúcar, azúcares.
+
+En todo caso, estos ingredientes cumplirán los requisitos que les exigen sus reglamentaciones específicas, si las hubiera, o en su defecto el código alimentario español.
+
+#### Art. 5. Agentes aromáticos.
+
+Únicamente podrán utilizarse la canela y/o corteza de limón y sus esencias o extractos, de acuerdo con la vigente Reglamentación Técnico-Sanitaria de agentes aromáticos para la alimentación, aprobada por Decreto 406/1975, de 7 de marzo («Boletín Oficial del Estado» del 15), modificado por el Real Decreto 1771/1976, de 2 de julio («Boletín Oficial del Estado» del 28).
+
+#### Art. 6. Aditivos y coadyuvantes tecnológicos autorizados.
+
+En la elaboración de los productos comprendidos en el ámbito de esta Reglamentación Tenico-Sanitaria, podrán utilizarse los aditivos y coadyuvantes tecnológicos que se relacionan en la lista positiva que se incluye a continuación.
+
+La lista de aditivos y coadyuvantes tecnológicos, así como sus especificaciones, podrán modificarse en cualquier momento por Orden del Ministro de Sanidad y Consumo, previo informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria, en los supuestos en que posteriores conocimientos científicos o técnicos y razones de salud pública lo aconsejen y para mantener su adecuación a la normativa CEE.
+
+Los aditivos y coadyuvantes tecnológicos que se indican a continuación, deberán responder a lo establecido en las normas vigentes de identificación, calidad y pureza.
+
+6.1**(Derogado)**
+
+6.2 **(Derogado)**
+
+6.3**(Derogado)**
+
+6.4 **(Derogado)**
+
+6.5 Horchatas naturales.–En cualquier producto denominado natural no podrá emplearse ningún tipo de aditivo.
+
+6.6 Horchatas concentradas, condensadas y en polvo.–Las dosis máximas de aditivos indicadas se refieren a productos preparados para el consumo. Por tanto, en los supuestos contemplados en el presente apartado se refieren al producto diluido o reconstituido, según su modo de empleo.
+
+6.7 En la elaboración de los productos comprendidos en el ámbito de aplicación de esta Reglamentación Técnico-Sanitaria, no podrán utilizarse aditivos de las clases funcionales “edulcorantes” ni “colorantes” definidas en el anexo I del Reglamento (CE) n.º 1333/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008 sobre aditivos alimentarios.
+
+> Se añade el apartado 7 por el art. 4.2 del Real Decreto 142/2026, de 25 de febrero. [Ref. BOE-A-2026-4519](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4519)
+
+> Se deroga el apartado 4 por la disposición derogatoria única.5 del Real Decreto 773/2023, de 3 de octubre. [Ref. BOE-A-2023-20563](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-20563)
+
+> Se derogan los apartados 1, 2 y 3 por la disposición derogatoria única.70 del Real Decreto 145/1997, de 31 de enero. [Ref. BOE-A-1997-6156](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-6156).
+
+> Redactado el apartado 4 conforme a la corrección de errores publicada en el BOE núm. 84 de 8 de abril de 1989. [Ref. BOE-A-1989-7771](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-7771).
+
+#### Art. 7. Normas microbiológicas.
+
+**(Derogado)**
+
+> Se deroga por el art. único.s) del Real Decreto 135/2010, de 12 de febrero. [Ref. BOE-A-2010-3032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3032).
+
+#### Art. 8. Prácticas obligatorias.
+
+8.1 **(Derogado)**
+
+8.2 Rehidratación hasta conseguir un nivel de turgencia del tubérculo que facilite el tratamiento desinfectante.
+
+8.3 Selección de las chufas para eliminar los tubérculos defectuosos por cualquier procedimiento que resulte eficaz. Se recomienda el procedimiento de flotación en salmuera (15 y 17º medidos con pesasales).
+
+8.4 Tratamiento germicida.–Los tubérculos deben levarse en una solución desinfectante de agua de cloro activo al 1 por 100 con agitación mecánica durante treinta minutos, como mínimo, o con otro tipo de producto autorizado para uso alimentario que consiga un nivel de desinfección similar. A continuación, se dará un lavado eficaz para eliminar los residuos germicidas.
+
+Esta práctica será optativa para la horchata esterilizada y UHT y obligatoria para el resto de las horchatas de chufa.
+
+8.5 **(Derogado)**
+
+8.6 **(Derogado)**
+
+8.7 Se mantendrán en todo momento las temperaturas especificadas en el artículo 11.
+
+> Se derogan los apartados 1, 5 y 6 por el art. 45 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 9. Prácticas permitidas.
+
+Se permite la utilización de aditivos autorizados en las listas positivas, para uso en los productos aquí definidos, con la excepción de los productos denominados naturales.
+
+Homogeneización.–Definida como «Tratamiento físico destinado a fraccionar las partículas de grasa, o de otros componentes contenidos en el producto, para conseguir una distribución uniforme de los mismos en el seno de éste».
+
+#### Art. 10. Prácticas prohibidas.
+
+10.1 **(Derogado)**
+
+10.2 **(Derogado)**
+
+10.3 **(Derogado)**
+
+10.4 Cualquier manipulación que tienda a sustituir total o parcialmente los sólidos disueltos, las grasas o los almidones propios de las chufas por otros distintos.
+
+10.5 La incorporación de aromas salvo esencias o extractos de corteza de limón y/o canela.
+
+10.6 **(Derogado)**
+
+10.7 Se prohíbe la mezcla de horchata de chufa con cualquier otra clase de horchatas.
+
+10.8 **(Derogado)**
+
+> Se derogan los apartados 1, 2, 3, 6 y 8 por el art. 45 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 11. Temperaturas máximas de conservación, distribución y comercialización.
+
+|  | Conservación en la industria | Distribución y transporte | Comercialización |
+|---|---|---|---|
+| Horchata de chufa natural | 2 ºC | 6 ºC | 2 ºC |
+| Horchatas de chufa natural pasterizada y pasterizada | 5 ºC | 6 ºC | 5 ºC |
+| Horchata esterilizada, UHT | Ambiente | Ambiente | Ambiente |
+| Horchata de chufa concentrada refrigerada 42-60º Brix | 8 ºC | 8 ºC | 8 ºC |
+| Horchata de chufa concentrada 60º Brix pasteurizada | Ambiente | Ambiente | Ambiente |
+| Horchata de chufa concentrada o condensada congelada | – 18 ºC | – 18 ºC | 18 ºC |
+| Horchata de chufa condensada pasterizada | Ambiente | Ambiente | Ambiente |
+
+En el caso de una horchata reconstituida, se ajustará a las temperaturas correspondientes a la horchata natural.
+
+### TÍTULO III
+
+#### Art. 12. Registro sanitario.
+
+**(Derogado)**
+
+> Se deroga por el art. 45 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO IV — Condiciones de los establecimientos de elaboración y venta de horchatas de chufa, del material y del personal con ellas relacionado
+
+#### Arts. 13 a 16
+
+**(Derogados)**
+
+> Se derogan por el art. 45 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO V — Envasado, etiquetado y rotulación
+
+#### Art. 17. Envasado.
+
+**(Derogado)**
+
+> Se deroga por el art. 45 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 18. Etiquetado y rotulación.
+
+18.1 **(Derogado)**
+
+18.2 Denominación del producto: La denominación del producto se ajustará a lo establecido en el título I de esta Reglamentación, que figurará en la cara principal del envase o en la zona más visible del mismo.
+
+La denominación del producto irá acompañada del tratamiento específico a que haya sido sometido.
+
+Las letras empleadas en la denominación deberán guardar una relación razonable con las del texto impreso más destacado que figure en la etiqueta.
+
+Se prohíbe la utilización de calificativos o expresiones que puedan inducir a error o engaño al consumidor, tales como «extra», «súper», «superior» y similares, así como dibujos, fotografías, grafismos, etcétera del fruto o del tubérculo que no figuren en la composición o que, figurando, no guarden orden lógico en el decreciente de sus contenidos.
+
+18.3 **(Derogado)**
+
+18.4 **(Derogado)**
+
+18.5 **(Derogado)**
+
+18.6 Exportación: Los productos alimenticios contemplados en esta Reglamentación que se elaboren con destino exclusivo para su exportación a países no pertenecientes a la Comunidad Económica Europea, y no cumplan lo dispuesto en esta Reglamentación, deberán estar envasados y etiquetados de forma que se identifiquen como tales inequívocamente, llevando impresa en caracteres bien visibles la palabra «Export», no pudiendo comercializarse ni consumirse en España.
+
+18.7 **(Derogado)**
+
+> Se deroga, excepto los apartados 2 y 6, por el art. 45 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VI — Generales
+
+#### Art. 19. Venta a granel.
+
+**(Derogado)**
+
+> Se deroga por el art. 45 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### TÍTULO VII
+
+#### Arts. 20 y 21.
+
+**(Derogados)**
+
+> Se derogan por el art. 45 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VIII — Competencias, responsabilidades y régimen sancionador
+
+#### Arts. 22 y 23.
+
+**(Derogados)**
+
+> Se derogan por el art. 45 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).

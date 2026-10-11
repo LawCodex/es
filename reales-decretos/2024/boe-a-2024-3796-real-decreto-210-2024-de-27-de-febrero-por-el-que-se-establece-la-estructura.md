@@ -1,0 +1,1099 @@
+---
+title: "Real Decreto 210/2024, de 27 de febrero, por el que se establece la estructura orgánica básica del Ministerio para la Transformación Digital y de la Función Pública"
+identifier: "BOE-A-2024-3796"
+eli: "https://www.boe.es/eli/es/rd/2024/02/27/210"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio para la Transformación Digital y de la Función Pública"
+date: 2024-02-27
+published: 2024-02-28
+in_force_from: 2024-02-28
+last_amended: 2026-06-12
+consolidated: 2026-09-10
+gazette: "Boletín Oficial del Estado núm. 52"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3796"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 210/2024, de 27 de febrero, por el que se establece la estructura orgánica básica del Ministerio para la Transformación Digital y de la Función Pública
+
+El Real Decreto 829/2023, de 20 de noviembre, por el que se reestructuran los departamentos ministeriales, modificado por el Real Decreto 1230/2023, de 29 de diciembre, ha creado el Ministerio para la Transformación Digital y de la Función Pública. El Ministerio cuenta con tres órganos superiores: la Secretaría de Estado de Digitalización e Inteligencia Artificial, la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales y la Secretaría de Estado de Función Pública.
+
+Asimismo, el Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales, configura los órganos superiores y directivos de cada departamento.
+
+Procede ahora desarrollar la estructura orgánica básica del Ministerio para la Transformación Digital y de la Función Pública, determinando sus órganos superiores y directivos hasta el nivel orgánico de subdirección general y definiendo las competencias de cada uno de estos órganos.
+
+En el articulado se desarrollan dichos órganos superiores y directivos, así como las competencias de cada uno.
+
+En las disposiciones adicionales se regula el régimen de suplencia, la delegación y desconcentración de competencias y la supresión de órganos, así como la revisión de la clasificación de entidades del sector público empresarial y fundacional de carácter tecnológico o científico.
+
+Las disposiciones transitorias regulan la situación de las unidades y puestos de trabajo con nivel orgánico inferior a subdirección general, la gestión temporal de medios y servicios y a los órganos de asistencia en la contratación, así como el régimen transitorio vinculado a la supresión de la Comisión Interministerial de Retribuciones.
+
+La disposición derogatoria deroga las disposiciones de rango igual o inferior que se opongan a lo establecido en el real decreto, así como, en lo que se oponga a este Real Decreto, los reales decretos 403/2020, de 25 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Asuntos Económicos y Transformación Digital, y 682/2021, de 3 de agosto, por el que se desarrolla la estructura orgánica básica del Ministerio de Hacienda y Función Pública. Se deroga asimismo el Real Decreto 469/1987, de 3 de abril, por el que se articulan las competencias conjuntas atribuidas al Ministerio para las Administraciones Públicas y al Ministerio de Economía y Hacienda. Se pone con ello fin al régimen de competencias compartidas entre los Ministerios de Hacienda y para la Transformación Digital y de la Función Pública, de modo que se permita una mejor delimitación de los ámbitos de actuación de ambos ministerios, mediante una identificación del ámbito del sector público institucional en el que cada uno de los departamentos asume sus respectivas competencias, con el fin trabajar conjuntamente en la transformación del modelo de recursos humanos en un modelo basado en la gestión por competencias, tal y como se establece en las reformas comprometidas en el Plan de Recuperación, Transformación y Resiliencia.
+
+La disposición final primera añade una nueva atribución a la Comisión Superior de Personal, con el fin de que puedan atribuirse a este órgano colegiado competencias para adoptar las medidas de coordinación necesarias con el fin de asegurar un enfoque coherente de la planificación de recursos humanos de ámbito general, específica y de reestructuración sobre la base de instrumentos comunes, en el marco de las reformas comprometidas por el Plan de Recuperación, Transformación y Resiliencia.
+
+Mediante la disposición final segunda se modifica el Real Decreto del extinto Ministerio de Asuntos Económicos y Transformación Digital al objeto de asignarle el Instituto para la Evaluación de Políticas Públicas al actual Ministerio de Economía, Comercio y Empresa.
+
+Mediante la disposición final tercera se modifica el Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales, al objeto de adaptarlo a las modificaciones organizativas derivadas del Real Decreto 1230/2023, de 29 de diciembre, por el que se modifica el Real Decreto 829/2023, de 20 de noviembre, por el que se reestructuran los departamentos ministeriales, así como para incorporar la Dirección General del Dato como órgano directivo dependiente de la Secretaría de Estado de Digitalización e Inteligencia Artificial.
+
+La disposición final cuarta se refiere al mandato para la modificación del Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades.
+
+Las disposiciones finales quinta y sexta son relativas a las facultades de desarrollo y ejecución y a la entrada en vigor.
+
+Este real decreto es coherente con los principios de buena regulación a que se refiere el artículo 129 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas. En concreto, cumple con los principios de necesidad y eficacia, pues se trata del instrumento más adecuado para garantizar el interés general y la efectiva ejecución de las políticas públicas del Gobierno en la materia. También se adecua al principio de proporcionalidad, pues no existe otra alternativa para crear un nuevo marco orgánico de este departamento. En cuanto a los principios de seguridad jurídica, transparencia y eficiencia, dicha norma se adecua a los mismos pues es coherente con el resto del ordenamiento jurídico, y se racionaliza, en su aplicación, la gestión de los recursos públicos.
+
+En su virtud, a propuesta del Ministro para la Transformación Digital y de la Función Pública, previa deliberación del Consejo de Ministros en su reunión del día 27 de febrero de 2024,
+
+DISPONGO:
+
+## Artículo 1. Organización general del departamento.
+
+1\. Corresponde al Ministerio para la Transformación Digital y de la Función Pública la propuesta y ejecución de la política del Gobierno en materia de telecomunicaciones, sociedad de la información, transformación digital y el desarrollo y fomento de la inteligencia artificial.
+
+Asimismo corresponde al Ministerio para la Transformación Digital y de la Función Pública la propuesta y ejecución de la política del Gobierno en materia de administración pública, función pública, y gobernanza pública.
+
+2\. Las competencias atribuidas en este Real Decreto se entenderán en coordinación y sin perjuicio de aquellas que corresponden a otros departamentos ministeriales.
+
+3\. El Ministerio para la Transformación Digital y de la Función Pública, bajo la superior dirección de la persona titular del departamento, desarrolla las funciones que legalmente le corresponden a través de los órganos superiores y directivos siguientes:
+
+a) La Secretaría de Estado de Digitalización e Inteligencia Artificial, de la que dependen la Dirección General de Ordenación de los Servicios de Digitalización y de Comunicación Audiovisual, la Dirección General de Inteligencia Artificial y la Dirección General del Dato.
+
+b) La Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, de la que depende la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital.
+
+c) La Secretaría de Estado de Función Pública, de la que dependen la Dirección General de Función Pública, con rango de Subsecretaría, y la Dirección General de Gobernanza Pública. Asimismo, depende de esta Secretaría de Estado la Oficina de Conflictos de Intereses, con rango de Dirección General.
+
+4\. Depende directamente de la persona titular del departamento la Subsecretaría para la Transformación Digital y de la Función Pública.
+
+5\. Como órgano de asistencia inmediata a la persona titular del Departamento existe un Gabinete, con rango de dirección general, con la estructura que se establece en el artículo 23.2 del Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales.
+
+6\. De acuerdo con lo dispuesto en el artículo 23.4 del citado Real Decreto 1009/2023, de 5 de diciembre, existirá en el Gabinete una unidad de comunicación, responsable de la comunicación oficial del departamento, al que corresponderá dirigir y mantener las relaciones informativas con los medios de comunicación social y difundir la información de carácter general del departamento.
+
+> Se modifican las letras a) y b) del apartado 3 por el art. 1.1 del Real Decreto 1185/2024, de 28 de noviembre. [Ref. BOE-A-2024-24853](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-24853)
+
+> Se modifica el apartado 3.c) por la disposición final 3.1 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929)
+
+> Esta modificación entra en vigor, según establece la disposición final 6 del citado Real Decreto, con la constitución efectiva de la Agencia Estatal de Administración Digital, que tuvo lugar el 21 de febrero de 2025. [Ref. BOE-A-2025-3627](https://premirror.boe.es/buscar/doc.php?id=BOE-A-2025-3627)
+
+## Artículo 2. Secretaría de Estado de Digitalización e Inteligencia Artificial.
+
+1\. La Secretaría de Estado de Digitalización e Inteligencia Artificial, bajo la superior dirección de la persona titular del Ministerio para la Transformación Digital y de la Función Pública, ejercerá las funciones previstas en el artículo 62 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en el ámbito de sus competencias, relativas a la política de impulso a la digitalización de la sociedad y economía asegurando que los derechos individuales y colectivos del mundo analógico se respetan en el mundo digital, así como con los valores del ordenamiento jurídico español. Además, son su competencia la ordenación y el impulso de los servicios de comunicación audiovisual, en línea con las funciones atribuidas en el artículo 62 de la Ley 40/2015, de 1 de octubre. A tal fin, le corresponden las funciones de fomento y regulación de la economía y sociedad digitales, incluidos sus actores, productos y servicios, la interlocución con los sectores profesionales, industriales, académicos y la sociedad civil y la coordinación y cooperación interministerial y con otras administraciones públicas respecto a dichas materias, sin perjuicio de las competencias atribuidas a otros departamentos ministeriales.
+
+Le corresponde específicamente el ejercicio de las siguientes funciones:
+
+a) La gestión económico-presupuestaria de los gastos correspondientes a los créditos presupuestarios de la Secretaría de Estado de Digitalización e Inteligencia Artificial, elaboración del Presupuesto de la Secretaría de Estado y el seguimiento de su ejecución.
+
+b) La preparación y tramitación de las modificaciones presupuestarias en el presupuesto que correspondan al ámbito de la Secretaría de Estado de Digitalización e Inteligencia Artificial, así como de la gestión económica y administrativa de las subvenciones nominativas y transferencias establecidas en el presupuesto que correspondan al ámbito de la Secretaría de Estado.
+
+c) La gestión económico-presupuestaria de los programas de ayudas públicas que sean competencia de la Secretaría de Estado de Digitalización e Inteligencia Artificial y, en particular, el seguimiento de las obligaciones financieras contraídas por la Secretaría de Estado de Digitalización e Inteligencia Artificial con los beneficiarios de las citadas ayudas, la instrucción de los expedientes de amortización anticipada, y de asunción de deuda, los acuerdos de ejecución o cancelación de las garantías prestadas por los beneficiarios de todo tipo de ayudas y subvenciones públicas, en el ámbito de sus competencias materiales, la tramitación y gestión de obligaciones financieras de entidades beneficiarias en concurso y la ejecución económica de decisiones de órganos judiciales, así como la tramitación de la devolución de ingresos indebidos.
+
+d) La coordinación de las actuaciones de la Secretaría de Estado Digitalización e Inteligencia Artificial en materia de contratación.
+
+e) La gestión económico-presupuestaria en el ámbito de la Secretaría de Estado de Digitalización e Inteligencia Artificial y, la gestión económico-administrativa de la contratación, encargos a medios propios y convenios en el ámbito de la Secretaría de Estado, la comunicación e inscripción de los mismos, la elevación de los expedientes de contratación en el ámbito de la Secretaría de Estado que sean competencia de la Junta de Contratación o de la Mesa de contratación del Ministerio.
+
+f) La colaboración con la Dirección General de Racionalización y Centralización de la Contratación del Ministerio de Hacienda en la gestión centralizada de la contratación en el ámbito competencial de la Secretaría de Estado de Digitalización e Inteligencia Artificial.
+
+g) La gestión de los procedimientos de solicitud e instrucción para la concesión de subvenciones y ayudas, a excepción de las subvenciones previstas nominativamente en los Presupuestos Generales del Estado, con cargo a los créditos de gasto propios de la Secretaría de estado, incluyendo la elaboración de las propuestas de concesión de las ayudas para las solicitudes que haya determinado la Comisión de Evaluación y su traslado al órgano competente para la firma; la elaboración de las resoluciones de desistimiento, denegación y concesión para las solicitudes que haya determinado la Comisión de Evaluación, y su traslado al órgano competente para la firma, así como su posterior notificación. Todo ello sin perjuicio de los informes técnicos competencia de las subdirecciones generales proponentes, que, a petición de la Subdirección General de Ayudas, sirvan de apoyo a la Comisión de Evaluación.
+
+h) La gestión del seguimiento técnico-económico, incluyendo: la elaboración de autorizaciones y modificaciones sobre las resoluciones de concesión, y su traslado al órgano competente para la firma; la comprobación de cuentas justificativas; la certificación de la realización de la actividad y del cumplimiento de las condiciones de la concesión; así como la instrucción de los procedimientos de reintegro, incluido el trámite de audiencia, la tramitación de las liquidaciones de reintegro, y la suspensión y levantamiento de liquidaciones.
+
+i) La elaboración de los requisitos de carácter técnico, normativo y operativo necesarios para la adecuada funcionalidad y tramitación de cada fase del procedimiento de instrucción que deban ser tenidos en cuenta en los documentos e instrumentos jurídicos elaborados por el resto de Subdirecciones Generales proponentes.
+
+j) La definición y el liderazgo en la elaboración y formulación de estrategias de transformación digital y visión de país para 2030, en coordinación y apoyado por la Dirección General competente en la materia. En particular, analizará y hará prospectiva con las que identificar y determinar los desafíos y tendencias en el ámbito de las tecnologías digitales y la transformación digital en su dimensión más estratégica y propondrá líneas de acción, iniciativas o posicionamiento estratégico.
+
+k) La definición, coordinación y seguimiento de las relaciones internacionales en materia de la sociedad y economía digital, incluyendo en tecnologías habilitadoras y estratégicas de su competencia, con la Unión Europea y la representación internacional del Reino de España en estas materias de competencia de la SEDIA, incluyendo en foros regionales, con especial foco en la región iberoamericana, y otros foros globales en materia de política digital en colaboración con el Ministerio de Asuntos Exteriores, Unión Europea y Cooperación y sin perjuicio de sus competencias.
+
+l) El diseño, liderazgo y coordinación de proyectos estratégicos clave para la transformación digital de España, en coordinación y con el apoyo de la Dirección General competente, así como la interlocución con actores estratégicos, incluyendo industriales, académicos, del sector público y de la sociedad civil.
+
+m) La promoción y asistencia a la internacionalización de las empresas de tecnologías digitales, de la sociedad digital y de contenidos digitales, sin perjuicio de las competencias de la Secretaría de Estado de Comercio y en coordinación y con el apoyo de la Dirección General competente en la materia.
+
+2\. De la Secretaría de Estado de Digitalización e Inteligencia Artificial dependen orgánicamente la Dirección General de Ordenación de los Servicios de Digitalización y de Comunicación Audiovisual, la Dirección General de Inteligencia Artificial y la Dirección General del Dato.
+
+3\. Dependen directamente de la Secretaría de Estado de Digitalización e Inteligencia Artificial:
+
+a) La Subdirección General de Ayudas, a la que le corresponderán las funciones señaladas en el párrafo g), h) e i) del apartado 1 de este artículo.
+
+b) Con el nivel orgánico que se determine en la Relación de Puestos de Trabajo, la División de Planificación y Ejecución de Programas, que ejercerá las funciones señaladas en los párrafos a) a f) del apartado 1.
+
+c) Con el nivel orgánico que se determine en la Relación de Puestos de Trabajo, la Unidad Temporal del Plan de Recuperación, Transformación y Resiliencia para el impulso y el seguimiento de la ejecución de las inversiones y medidas, así como la coordinación y el apoyo respecto al cumplimiento de los principios transversales descritos en el artículo 2.2 de la Orden HFP/1030/2021, de 29 de septiembre, por la que se configura el sistema de gestión del Plan de Recuperación, Transformación y Resiliencia, asociados a los proyectos de inversión y medidas del Plan de Recuperación, Transformación y Resiliencia gestionados por los Órganos Gestores y el resto de los órganos directivos dependientes de la Secretaría de Estado de Digitalización e Inteligencia Artificial.
+
+d) Con el nivel orgánico que se determine en la Relación de Puestos de Trabajo, la División de la Oficina para la España Digital 2030 e Internacionalización, a la que le corresponden las funciones señaladas en los párrafos j), k) l) y m) del apartado 1 de este artículo.
+
+4\. De la persona titular de la Secretaría de Estado de Digitalización e Inteligencia Artificial depende directamente un Gabinete, como órgano de asistencia inmediata a su titular, con nivel orgánico de subdirección general, y con la estructura que se establece en el artículo 23 del Real Decreto 1009/2023, de 5 de diciembre.
+
+5\. Para el asesoramiento jurídico de la Secretaría de Estado de Digitalización e Inteligencia Artificial existirá una Abogacía del Estado, integrada orgánicamente en la del departamento.
+
+6\. Se adscribe al Ministerio para la Transformación Digital y de la Función Pública, a través de la Secretaría de Estado de Digitalización e Inteligencia Artificial, la Entidad pública empresarial Red.es., M.P., cuya presidencia corresponderá a la persona titular de la Secretaría de Estado.
+
+7\. Se adscribe al Ministerio para la Transformación Digital y de la Función Pública, a través de la Secretaría de Estado de Digitalización e Inteligencia Artificial, la Agencia Española de Supervisión de Inteligencia Artificial (AESIA).
+
+> Se modifica por el art. 1.2 del Real Decreto 1185/2024, de 28 de noviembre. [Ref. BOE-A-2024-24853](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-24853)
+
+> Se suprime el apartado 6 y se renumeran los apartados 7, 8 y 9 como 6, 7 y 8 por la disposición final 4.1 a 2 del Real Decreto 246/2024, de 8 de marzo. [Ref. BOE-A-2024-4616](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-4616)
+
+## Artículo 3. Dirección General de Ordenación de los Servicios de Digitalización y de Comunicación Audiovisual.
+
+1\. La Dirección General de Ordenación de los Servicios de Digitalización y de Comunicación Audiovisual tiene como misión la ordenación de los servicios de digitalización y de comunicación audiovisual, además del impulso a los mismos, así como el desarrollo de las actuaciones necesarias para la consecución de una digitalización plena en nuestro país garantizando los derechos de la ciudadanía en el ámbito digital y el impulso del emprendimiento y la generación de talento. En particular, llevará a cabo las siguientes funciones:
+
+a) El control e impulso del libre flujo de datos no personales, su portabilidad, y la elaboración de códigos de conducta armonizados con la Unión Europea y otros foros de carácter internacional, así como la elaboración y propuesta de normativa en materia de gobernanza, acceso y compartición de datos, en coordinación con la Dirección General del Dato y en línea con las directrices estratégicas establecidas por la Secretaría de Estado de Digitalización e Inteligencia Artificial.
+
+b) La elaboración y propuesta de normativa en materia de servicios digitales y sus prestadores, en particular sobre identificación electrónica y servicios electrónicos de confianza, comercio electrónico y nombres de dominio de Internet.
+
+c) La elaboración de normativa, en colaboración con otros departamentos, referente a la regulación de las plataformas e intermediarios digitales, entre otras, la relativa a su responsabilidad y obligaciones, la privacidad y protección de la información, así como a la garantía de equidad y respeto a los derechos digitales de usuarios y empresas.
+
+d) La supervisión, control, inspección y sanción en materia de la sociedad digital, de conformidad con la legislación aplicable, incluyendo la gestión de la lista de prestadores de servicios de confianza cualificados.
+
+e) La participación en comisiones, grupos de trabajo y otros foros de carácter técnico internacional o nacional, tanto públicos como privados, en materia de sociedad digital, así como el seguimiento y participación en iniciativas y foros relacionados con la Gobernanza de Internet, en línea con las directrices estratégicas establecidas por la Secretaría de Estado de Digitalización e Inteligencia Artificial.
+
+f) El impulso, fomento, coordinación y apoyo de las iniciativas para la capacitación profesional en el ámbito de las tecnologías de la información y las comunicaciones (TIC), y de programas de atracción, desarrollo y retención del talento digital.
+
+g) La elaboración, gestión y seguimiento de planes, proyectos y programas de actuaciones orientados al desarrollo de habilidades digitales en coordinación con otros departamentos ministeriales, así como la definición y gestión coordinada de esta política con los correspondientes programas europeos e internacionales en estas materias.
+
+h) El impulso de las actuaciones e iniciativas necesarias para el desarrollo e implantación de los derechos digitales.
+
+i) La elaboración y propuesta normativa, impulso, coordinación y apoyo a las iniciativas para promover la iniciativa emprendedora y el desarrollo de las empresas digitales en colaboración con otras unidades y departamentos.
+
+j) El impulso, coordinación y apoyo a las iniciativas destinadas a la creación de contenidos digitales, y demás iniciativas que promuevan el desarrollo de empresas tecnológicas en sectores estratégicos para la transformación e inclusión digital en colaboración con otros departamentos, órganos u organismos.
+
+k) El diseño y desarrollo de planes y programas destinados a fomentar el acceso y uso de los servicios digitales por los ciudadanos y facilitar la disponibilidad y accesibilidad de las tecnologías digitales, contribuyendo a la corrección de las brechas digitales en coordinación con otros departamentos ministeriales con competencias en otras políticas con las que esas materias estén relacionadas.
+
+l) La participación en comisiones, grupos de trabajo y otros foros de carácter técnico internacional o nacional, tanto públicos como privados, en materia de talento, emprendimiento y derechos digitales en línea con las directrices estratégicas establecidas por la Secretaría de Estado de Digitalización e Inteligencia Artificial.
+
+m) La elaboración y propuesta de normativa referente a los servicios de comunicación audiovisual, en particular, la normativa relativa a comunicaciones comerciales y protección de los usuarios, promoción de obra audiovisual europea y accesibilidad.
+
+n) La colaboración con el Ministerio de Cultura en la propuesta normativa en materia de protección de la propiedad intelectual en relación con los servicios de comunicación audiovisual.
+
+ñ) La gestión del Registro estatal de prestadores del servicio de comunicación audiovisual, de prestadores del servicio de intercambio de videos a través de plataformas y de prestadores del servicio de agregación de servicios de comunicación audiovisual.
+
+o) La recepción de las comunicaciones de inicio de actividad de los prestadores del servicio de comunicación audiovisual, así como la tramitación de los títulos habilitantes de los servicios de comunicación audiovisual y su seguimiento y control, en el ámbito de competencias de la Administración General del Estado.
+
+p) La promoción y asistencia a la internacionalización de las empresas de servicios de comunicación audiovisual, sin perjuicio de las competencias de la Secretaría de Estado de Comercio, así como la interlocución con los sectores profesionales e industriales vinculados a dichas empresas.
+
+q) La propuesta de autorización de negocios jurídicos cuyo objeto sea una licencia de comunicación audiovisual, en el ámbito de competencias de la Administración General del Estado.
+
+r) La coordinación e impulso de las políticas públicas de apoyo al sector audiovisual, incluido el videojuego.
+
+s) La incoación y tramitación de procedimientos correspondientes a la aplicación del régimen sancionador relacionado con los servicios de comunicación audiovisual.
+
+t) La firma de propuestas de resolución de concesión de ayudas, las propuestas de resolución provisional y las propuestas de resolución definitiva; así como las resoluciones de admisión, desistimiento y denegación de ayudas en relación con las convocatorias que por la naturaleza de la materia le corresponda.
+
+2\. De la Dirección General de Ordenación de los Servicios de Digitalización y de Comunicación Audiovisual, dependen:
+
+a) La Subdirección General para la Sociedad Digital, a la que corresponden las funciones recogidas en los párrafos a), b), c), d) y e) del apartado 1.
+
+b) La Subdirección General de Ciudadanía, Talento y Emprendimiento Digital, a la que corresponden las funciones recogidas en los párrafos f), g), h), i), j) k) y l) del apartado 1.
+
+c) La Subdirección General de Ordenación de los Servicios de Comunicación Audiovisual, a la que le corresponden las funciones recogidas en los párrafos m) a s).
+
+3\. El ejercicio de las funciones anteriores se coordinará, en el caso de que fuese necesario, mediante los procedimientos de gestión de ayudas que se acuerden por la Subdirección General de Ayudas.
+
+4\. El ejercicio de las funciones anteriores se ejercerá, en lo que pudiese afectar a las competencias de la Dirección General de Inteligencia Artificial y de la Dirección General del Dato, en coordinación con éstas.
+
+> Se modifica por el art. 1.3 del Real Decreto 1185/2024, de 28 de noviembre. [Ref. BOE-A-2024-24853](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-24853)
+
+> Se modifica el párrafo z) del apartado 1 por la disposición final 3.2 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929)
+
+> Esta modificación entra en vigor cuando se produzca la constitución efectiva de la Agencia Estatal de Administración Digital y la consiguiente supresión de la Secretaría General de Administración Digital, según establece la disposición final 6 del citado Real Decreto.
+
+> Se modifica el apartado 2 por la disposición final 4.3 del Real Decreto 246/2024, de 8 de marzo. [Ref. BOE-A-2024-4616](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-4616)
+
+## Artículo 4. Dirección General de Inteligencia Artificial.
+
+1\. La Dirección General de Inteligencia Artificial tiene como misión el impulso del despliegue de la inteligencia artificial y otras tecnologías habilitadoras digitales en nuestro país, de forma ética y respetuosa con los derechos de los ciudadanos, y ejercerá las funciones siguientes:
+
+a) La implementación y seguimiento de la Estrategia española de Inteligencia Artificial, así como otros potenciales planes y estrategias relativas a esta área, en colaboración con otros departamentos, órganos y organismos con competencias en esta materia.
+
+b) La organización, coordinación y participación de comisiones, grupos de trabajo y otros foros de carácter técnico internacional o nacional, tanto públicos como privados, en el ámbito de la inteligencia artificial y resto de tecnologías habilitadoras digitales, así como el seguimiento y participación en iniciativas y foros relacionados con estas materias, en línea con las directrices estratégicas establecidas por la Secretaría de Estado de Digitalización e Inteligencia Artificial.
+
+c) El desarrollo normativo, aspectos éticos y regulación, así como el seguimiento y coordinación de la implantación de la normativa en materia de inteligencia artificial y demás tecnologías habilitadoras digitales (tecnologías del lenguaje e imágenes, Internet de las cosas, tecnologías de registro distribuido, entre otras), con aplicación en nuestro país, para la transformación de la economía y la sociedad, en colaboración con los demás departamentos ministeriales cuando pudieran verse afectados los ámbitos de su competencia.
+
+d) La definición y gestión coordinada de los programas y actuaciones, impulso y fomento de la I+D+i en el ámbito de la inteligencia artificial.
+
+e) El impulso y fomento de programas orientados a fomentar la adopción de la inteligencia artificial y tecnologías habilitadoras digitales en los sectores productivos de la economía y sociedad.
+
+f) El impulso, coordinación y ejecución de los planes y líneas de actuación de las administraciones públicas en inteligencia artificial y otras tecnologías habilitadoras digitales en colaboración con el conjunto de agentes del sector con los correspondientes programas e iniciativas de la Unión Europea y con otros programas internacionales, en línea con las directrices establecidas por la Secretaría de Estado de Digitalización e Inteligencia Artificial.
+
+g) El apoyo a la elaboración de propuestas relativas a planificación estratégica en materia de inteligencia artificial, así como la coordinación y análisis de estudios y estadísticas en este ámbito, en coordinación con la Dirección General del Dato, así como con otras unidades del Ministerio para la Transformación Digital y de la Función Pública, y de otros ministerios.
+
+h) La generación de espacios de debate y foros de discusión con la ciudadanía en torno al despliegue e impacto de la inteligencia artificial y otras tecnologías habilitadoras digitales, así como los elementos necesarios para su desarrollo, impulsando iniciativas orientadas a promover el debate crítico en torno a la realidad, a los riesgos y a las posibilidades de las tecnologías innovadoras en la administración y en la sociedad.
+
+i) La promoción de estrategias, políticas y medidas que potencien la Nueva Economía de la Lengua en nuestro país, tanto en el ámbito de colaboración público-privada, como en la búsqueda de sinergias con iniciativas de otros departamentos ministeriales y organismos públicos, en los ámbitos de su competencia.
+
+j) El seguimiento y supervisión de las actuaciones del Proyecto Estratégico para la Recuperación y Transformación Económica (PERTE) «Nueva Economía de la Lengua», así como la colaboración en el diseño de las actuaciones del PERTE asignadas al Ministerio para la Transformación Digital y de la Función Pública, en el marco del Plan de Recuperación, Transformación y Resiliencia.
+
+k) La firma de propuestas de resolución de concesión de ayudas, las propuestas de resolución provisional y las propuestas de resolución definitiva; así como las resoluciones de admisión, desistimiento y denegación de ayudas en relación con las convocatorias que por la naturaleza de la materia le corresponda.
+
+2\. De la Dirección General de Inteligencia Artificial dependen directamente las siguientes subdirecciones generales y divisiones:
+
+a) La Subdirección General de Fomento y Regulación de la Inteligencia Artificial, a la que corresponden las funciones a las que se refieren los párrafos a), b), c), d) y e) del apartado 1.
+
+b) la División de Gobernanza y Planificación de la Inteligencia Artificial, con el rango que determine la Relación de Puestos de Trabajo, y a la que corresponden las funciones a las que se refieren los párrafos f), g), h), i) y j).
+
+3\. El ejercicio de las funciones anteriores se coordinará, en el caso de que fuese necesario, mediante los procedimientos de gestión de ayudas que se acuerden por la Subdirección General de Ayudas.
+
+4\. El ejercicio de las funciones anteriores se ejercerá, en lo que pudiese afectar a competencias de la Dirección General de Ordenación de los Servicios de Digitalización y de Comunicación Audiovisual y de la Dirección General del Dato, en coordinación con éstas.
+
+> Se modifica por el art. 1.4 del Real Decreto 1185/2024, de 28 de noviembre. [Ref. BOE-A-2024-24853](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-24853)
+
+> Se modifica el apartado 1.j) por la disposición final 3.3 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929)
+
+> Esta modificación entra en vigor cuando se produzca la constitución efectiva de la Agencia Estatal de Administración Digital y la consiguiente supresión de la Secretaría General de Administración Digital, según establece la disposición final 6 del citado Real Decreto.
+
+## Artículo 5. Dirección General del Dato.
+
+1\. La Dirección General del Dato tiene como misión el fomento del uso de datos por las Administraciones Públicas, empresas y ciudadanos, así como la compartición en espacios de datos interoperables, contribuyendo al desarrollo del mercado único digital para Europa, en coordinación con los departamentos ministeriales sectoriales competentes y en colaboración con las comunidades autónomas y entidades locales, y ejercerá las funciones previstas en el artículo 66 de la Ley 40/2015, de 1 de octubre, en el ámbito de sus competencias, y sin perjuicio de las atribuidas por la legislación nacional y europea al Instituto Nacional de Estadística. En particular, llevará a cabo las siguientes funciones:
+
+a) La interlocución y coordinación con los agentes representativos de la economía del dato y la participación en comisiones, grupos de trabajo y otros foros al dato de carácter internacional o nacional, tanto públicos como privados, e incluyendo la representación nacional en el Comité Europeo de Innovación de Datos, en línea con las directrices estratégicas establecidas por la Secretaría de Estado de Digitalización e Inteligencia Artificial.
+
+b) La coordinación, seguimiento de planes, programas, y cualquiera otra iniciativa en materia de digitalización de los distintos departamentos ministeriales y entidades dependientes, fomentando el diseño orientado al dato, su eficacia, eficiencia e impacto, así como su alineamiento con el marco de las estrategias y programas de la Unión Europea y demás organismos internacionales.
+
+c) La implementación, y seguimiento de estrategias, planes, programas, y cualquiera otra iniciativa para el fomento del empleo masivo y compartición de los datos entre empresas, ciudadanos y Sector Público, así como para el impulso del desarrollo y despliegue de los espacios de datos en los sectores productivos de la economía.
+
+d) El diseño, desarrollo, impulso y seguimiento de políticas y esquemas de gobernanza, modelos de referencia, catálogos federados de conjuntos y recursos de datos, normas técnicas y tecnologías que fomenten la economía del dato en los sectores productivos de la economía.
+
+e) La promoción y difusión de mejores prácticas e iniciativas de valor en materia de datos, así como el desarrollo de mecanismos de transferencia de conocimiento, en particular, en los departamentos ministeriales y las Administraciones Públicas.
+
+f) La apertura y reutilización en las Administraciones Públicas, coordinando la gestión del punto de acceso y la puesta a disposición de los conjuntos de datos de alto valor públicos.
+
+g) El fomento del uso de los datos para el apoyo a la toma de decisiones en la gestión pública, en especial el uso de los conjuntos de datos de alto valor públicos para la evaluación de políticas públicas en todas las fases de planificación, implementación, ejecución y evaluación de impacto, así como el diseño y desarrollo de los pilotos y sistemas técnicos de apoyo, en colaboración con los organismos competentes en materia de evaluación de las políticas públicas en el ámbito de la Administración del Estado.
+
+h) El diseño, impulso y seguimiento de programas, actuaciones e instrumentos para el despliegue de capacidades, infraestructuras y plataformas que contribuyan a acelerar el empleo de los datos, desarrollar políticas públicas más eficaces y fomenten su soberanía, en coordinación con el resto de las unidades competentes en el departamento ministerial.
+
+i) El, impulso, coordinación y seguimiento de los, planes, programas e iniciativas que fomenten la investigación, el desarrollo y la innovación en tecnologías, servicios y productos para la economía del dato, contribuyendo al desarrollo de una industria nacional competitiva, en colaboración con el resto de las entidades relevantes.
+
+j) La definición y el diseño y la aplicación, esta última en coordinación con la Agencia Estatal de Administración Digital, de políticas para la gobernanza y la gestión de datos en la Administración General del Estado y sus organismos públicos y entidades de Derecho Público vinculados o dependientes.
+
+k) La firma de propuestas de resolución de concesión de ayudas, las propuestas de resolución provisional y las propuestas de resolución definitiva; así como las resoluciones de admisión, desistimiento y denegación de ayudas en relación con las convocatorias que por la naturaleza de la materia le corresponda.
+
+2\. De la Dirección General del Dato dependen las siguientes unidades:
+
+a) La Subdirección General de Programas, Gobernanza y Promoción a la que corresponden las funciones a las que se refieren los párrafos b, c), d), éste en colaboración con la División de Diseño, Innovación y Explotación, y e), del apartado 1.
+
+b) La División de Diseño, Innovación y Explotación, a la que corresponden las funciones recogidas en los párrafos f), g), h), i), j) del apartado 1, con el rango que determine la Relación de Puestos de Trabajo.
+
+3\. El ejercicio de las funciones anteriores se coordinará mediante los procedimientos de gestión de ayudas que se acuerden por la Subdirección General de Ayudas necesarios para la correcta instrucción, tramitación y seguimiento de las ayudas.
+
+4\. El ejercicio de las funciones anteriores se ejercerán, en lo que pudiesen afectar a las competencias de la Dirección General de Inteligencia Artificial y de la Dirección General de Ordenación de los Servicios de Digitalización y de Comunicación Audiovisual, en coordinación con éstas.
+
+> Se modifica por el art. 1.5 del Real Decreto 1185/2024, de 28 de noviembre. [Ref. BOE-A-2024-24853](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-24853)
+
+## Artículo 6. Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales.
+
+1\. La Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, bajo la superior dirección de la persona titular del Ministerio para la Transformación Digital y de la Función Pública, ejercerá las funciones previstas en el artículo 62 de la Ley 40/2015, de 1 de octubre, en el ámbito de sus competencias, relativas a la política de impulso al sector de las telecomunicaciones, el despliegue de infraestructuras y servicios para garantizar la conectividad de los ciudadanos y empresas e impulsar la productividad y el crecimiento económico. A tal fin, le corresponden las funciones de fomento y regulación del sector de las telecomunicaciones, la interlocución con los sectores profesionales, industriales y académicos y la coordinación o cooperación interministerial y con otras Administraciones Públicas respecto a dichas materias, sin perjuicio de las competencias atribuidas a otros departamentos ministeriales, y a la Comisión Nacional de los Mercados y la Competencia. Específicamente le corresponderá el ejercicio de las siguientes funciones:
+
+a) El estudio, propuesta y ejecución de la política general y la planificación estratégica y de acción sobre telecomunicaciones y las infraestructuras digitales, así como la elaboración y propuesta de normativa a la ordenación y regulación en estas materias, en consonancia con las disposiciones nacionales, europeas e internacionales vigentes.
+
+b) La promoción y desarrollo de las infraestructuras digitales y de las redes y servicios de telecomunicaciones.
+
+c) La elaboración, gestión y seguimiento de planes, proyectos tecnológicos y programas de actuaciones orientados al desarrollo de las infraestructuras digitales y la conectividad para impulsar la vertebración territorial, el fomento de la oferta de nuevas tecnologías, servicios, aplicaciones y contenidos en el ámbito de las telecomunicaciones y gestión coordinada de esta política con los correspondientes programas europeos e internacionales en estas materias.
+
+d) El impulso y la coordinación de los planes, proyectos y programas para el fomento de la actividad de normalización, estandarización y certificación en el sector de las telecomunicaciones e infraestructuras digitales.
+
+e) La propuesta, coordinación y seguimiento de las relaciones internacionales en materia de telecomunicaciones e infraestructuras digitales, y la representación internacional del departamento en estas materias en colaboración con el Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+
+f) El análisis y evaluación del impacto de otras políticas públicas en el sector de las telecomunicaciones y las infraestructuras digitales.
+
+g) La elaboración, gestión y seguimiento de programas y actuaciones para fomentar el acceso y uso de las telecomunicaciones y facilitar la disponibilidad y accesibilidad de las infraestructuras y las tecnologías digitales, especialmente para aquellos ciudadanos con necesidades específicas, en su caso en coordinación con otros departamentos ministeriales con competencias en otras políticas con las que esas materias estén relacionadas.
+
+h) La colaboración con la Secretaría de Estado de Economía y Apoyo a la Empresa en materia de precios y valoración de los costes de prestación de los servicios de comunicaciones electrónicas.
+
+i) La planificación, gestión y control de los recursos públicos en el ámbito de las telecomunicaciones, en particular, del dominio público radioeléctrico, la numeración, direccionamiento, denominación y los recursos órbita espectro, y la tramitación y el otorgamiento de los títulos habilitantes para el uso de dichos recursos.
+
+j) El mantenimiento de las relaciones de la Administración General del Estado con los prestadores de redes y servicios de comunicaciones electrónicas, así como el control del cumplimiento de las obligaciones de servicio público.
+
+k) El control, la inspección y la imposición de sanciones en materia de telecomunicaciones.
+
+l) La resolución de controversias entre operadores y usuarios de telecomunicaciones y de los servicios digitales en los términos previstos en la normativa vigente.
+
+m) La gestión, liquidación y recaudación en periodo voluntario de las tasas en materia de telecomunicaciones, el pago del porcentaje sobre el rendimiento de la tasa sobre reserva de dominio público radioeléctrico para la financiación de la Corporación de Radio y Televisión Española y el apoyo a su gestión en periodo ejecutivo, de acuerdo con lo previsto en la normativa vigente.
+
+n) La gestión de Programas Operativos cofinanciados por los fondos comunitarios (Digital Europe, Horizon Europe, Connecting Europe Facility) y, en particular, el Fondo Europeo de Desarrollo Regional (FEDER) respecto a las actuaciones de su competencia.
+
+ñ) Aquellas otras que atribuya la legislación vigente al departamento en los sectores de las telecomunicaciones y las infraestructuras digitales.
+
+o) La gestión económico-presupuestaria de los gastos correspondientes a los créditos presupuestarios de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, de la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital, elaboración del Presupuesto de la Secretaría de Estado y el seguimiento de su ejecución.
+
+p) La preparación y tramitación de las modificaciones presupuestarias en el Presupuesto que correspondan al ámbito de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital, así como de la gestión económica y administrativa de las subvenciones nominativas y transferencias establecidas en el Presupuesto que correspondan al ámbito de la Secretaría de Estado.
+
+q) La gestión económico-presupuestaria de los ingresos de la Secretaría de Estado, en particular el seguimiento de la recaudación en periodo voluntario de las tasas en materia de telecomunicaciones y el apoyo a su gestión en periodo ejecutivo, de acuerdo con lo previsto en la normativa vigente. También se incluyen las resoluciones sobre devolución de ingresos indebidos de tasas en materia de telecomunicaciones, incluida la firma de liquidaciones de devolución de ingresos y la propuesta de pago, así como las diligencias de cancelación de avales relacionados con la suspensión de liquidaciones de tasas en materia de telecomunicaciones reguladas en el anexo I de la Ley 11/2022, de 28 de junio, General de Telecomunicaciones, y las resoluciones sobre suspensión de la ejecución de liquidaciones de la tasa por reserva del dominio público radioeléctrico.
+
+r) La gestión económico-presupuestaria de los programas de ayudas públicas que sean competencia de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales y, en particular, el seguimiento de las obligaciones financieras contraídas por los beneficiarios de las citadas ayudas, la devolución de ingresos indebidos, la tramitación y firma de las liquidaciones, las propuestas de pago y la suspensión/levantamiento de liquidaciones, la instrucción de los expedientes de amortización anticipada, y de asunción de deuda, los acuerdos de ejecución o cancelación de las garantías prestadas por los beneficiarios de todo tipo de ayudas y subvenciones públicas, en el ámbito de sus competencias materiales, la tramitación y gestión de obligaciones financieras de entidades beneficiarias en concurso y la ejecución económica de decisiones de órganos judiciales y las liquidaciones de intereses de demora en casos de suspensión de la liquidación por interposición de recurso de reposición o reclamación económico administrativa con garantía, así como los acuerdos de inicio de los expedientes de pérdida de derecho de cobro y de la ayuda asociada y los de establecimientos de medidas cautelares directamente relacionados con los mismos dentro del ámbito de sus competencias materiales.
+
+s) La coordinación de las actuaciones de la Secretaría de Estado en materia de contratación.
+
+t) La gestión económico-presupuestaria en el ámbito de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, la gestión económico-administrativa de la contratación, encargos a medios propios y convenios en el ámbito de la Secretaría de Estado, incluida la firma de la memoria justificativa, cuestionario y la solicitud de autorizaciones que hayan de acompañar a los convenios, la comunicación e inscripción de los mismos, la elevación de los expedientes de contratación en el ámbito de la Secretaría de Estado que sean competencia de la Junta de Contratación o de la Mesa de contratación del Ministerio.
+
+u) La colaboración con la Dirección General de Racionalización y Centralización de la Contratación del Ministerio de Hacienda en la gestión centralizada de la contratación en el ámbito competencial de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales.
+
+v) La titularidad del Organismo Intermedio del Fondo Europeo de Desarrollo Regional (FEDER) respecto a las actuaciones de su competencia, cuando así se acuerde con la Autoridad de Gestión del FEDER, en atención a lo dispuesto en el Reglamento (UE) 2021/1060 del Parlamento Europeo y del Consejo, de 24 de junio de 2021, por el que se establecen las disposiciones comunes relativas al Fondo Europeo de Desarrollo Regional, al Fondo Social Europeo Plus, al Fondo de Cohesión, al Fondo de Transición Justa y al Fondo Europeo Marítimo, de Pesca y de Acuicultura, así como las normas financieras para dichos Fondos y para el Fondo de Asilo, Migración e Integración, el Fondo de Seguridad Interior y el Instrumento de Apoyo Financiero a la Gestión de Fronteras y la Política de Visados.
+
+w) La supervisión de las actuaciones relacionadas con la gestión de los Programas de FEDER en el ámbito de las actuaciones de su competencia, realizando la selección de operaciones, aprobación de las verificaciones, la presentación de las solicitudes de reembolso y la gestión del Plan de control de riesgos y fraude de los programas y actuaciones cofinanciados por los Programas de FEDER, así como la representación en los comités de seguimiento de los Programas.
+
+x) La seguridad de las redes y servicios de comunicaciones electrónicas, en el ámbito de las competencias del Ministerio para la Transformación Digital y de la Función Pública.
+
+y) La planificación, coordinación, desarrollo e impulso de políticas, planes, programas, proyectos y actuaciones para la incorporación de la ciberseguridad en la transformación digital del sector privado y la ciudadanía, en coordinación con la sociedad mercantil estatal (en adelante, S.M.E) Instituto Nacional de Ciberseguridad de España, M.P., SA y departamentos ministeriales con competencias en la materia.
+
+z) La elaboración y propuesta de normativa en materia de ciberseguridad y ciberresiliencia para el sector privado, en colaboración con otros órganos u organismos con competencias en la materia y los sectores económicos y sociales públicos y privados afectados, para la transformación segura de la economía y la sociedad, en el ámbito competencial del Ministerio para la Transformación Digital y de la Función Pública.
+
+2\. La persona titular de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales presidirá por delegación de la persona titular del Ministerio para la Transformación Digital y de la Función Pública las correspondientes Conferencias Sectoriales en materia de telecomunicaciones e infraestructuras digitales.
+
+3\. De la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales depende la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital, con rango de Subsecretaría, que ejercerá las funciones que se enumeran en el artículo 7.
+
+4\. Dependen directamente de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales:
+
+a) La Subdirección General de Coordinación y Ejecución de Programas, que ejercerá las funciones señaladas en los párrafos o) a w) del apartado 1. Con el nivel orgánico que se determine en la Relación de Puestos de Trabajo, depende de la persona titular de la Subdirección General de Coordinación y Ejecución de Programas la División del Organismo Intermedio del Fondo Europeo de Desarrollo Regional. Esta División ejercerá de Organismo Intermedio del Fondo Europeo de Desarrollo Regional, a la que corresponde la gestión ordinaria de las actuaciones de los Programas de este Fondo y el apoyo tanto a la coordinación del Organismo Intermedio, como a la realización de las funciones encomendadas por la Autoridad de Gestión. Dicha gestión ordinaria hace referencia a la participación en la evaluación de las actuaciones, las declaraciones de fiabilidad, los informes anuales y final, la estrategia de comunicación y la aplicación de medidas antifraude.
+
+b) Con el nivel orgánico que se determine en la Relación de Puestos de Trabajo, la División para la Ejecución de los Fondos Europeos, para el impulso y el seguimiento de la ejecución de las inversiones y medidas de reforma del Plan de Recuperación, Transformación y Resiliencia, así como el seguimiento y verificación de las medidas antifraude y demás principios transversales en el diseño y ejecución de las inversiones y medidas del citado Plan.
+
+5\. De la persona titular de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales depende directamente un Gabinete, como órgano de asistencia inmediata al titular de la Secretaría de Estado, con nivel orgánico de subdirección general, con la estructura que se establece en el artículo 23.3 del Real Decreto 1009/2023, de 5 de diciembre.
+
+6\. Para el asesoramiento jurídico de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales existirá una Abogacía del Estado, integrada orgánicamente en la del Departamento.
+
+7\. Se adscribe al Ministerio para la Transformación Digital y de la Función Pública, a través de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, la Entidad pública empresarial Sociedad Española para la Transformación Tecnológica, E.P.E., cuya presidencia corresponderá a la persona titular de la Secretaría de Estado.
+
+8\. El Ministerio ejerce la tutela, a través de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, de la sociedad mercantil estatal Instituto Nacional de Ciberseguridad de España, M.P., SA.
+
+> Se modifica por el art. 1.6 del Real Decreto 1185/2024, de 28 de noviembre. [Ref. BOE-A-2024-24853](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-24853)
+
+## Artículo 7. Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital.
+
+1\. La Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital ejerce las funciones que le atribuye el artículo 64 de la Ley 40/2015, de 1 de octubre, y, específicamente, las siguientes:
+
+a) La ordenación, promoción y desarrollo de las telecomunicaciones y las infraestructuras digitales y la participación en los organismos y grupos de trabajo internacionales en ambos sectores.
+
+b) La elaboración y propuesta de normativa referente a la ordenación y regulación del sector de las telecomunicaciones e infraestructuras digitales.
+
+c) La elaboración y propuesta de normativa técnica referente a la regulación de los sistemas de radiodifusión y televisión, cualquiera que sea su soporte técnico.
+
+d) La supervisión del cumplimiento de los requisitos y condiciones exigibles para la instalación y explotación de redes públicas y prestación de servicios de comunicaciones electrónicas.
+
+e) La tramitación de los asuntos relacionados con los derechos de los operadores de redes y servicios de comunicaciones electrónicas a la ocupación del dominio público y de la propiedad privada y a su uso compartido, a ser beneficiarios en el procedimiento de expropiación forzosa y al establecimiento a su favor de servidumbres y limitaciones a la propiedad.
+
+f) Las relacionadas con la numeración, direccionamiento y denominación, en particular, la propuesta de planes nacionales de numeración, llevar a cabo la atribución de los derechos de uso de los recursos públicos regulados en dichos planes y ejercer las demás competencias que le atribuye el capítulo VII del título II de la Ley 11/2022, de 28 de junio, así como las actuaciones contra el tráfico no permitido y el tráfico irregular con fines fraudulentos en redes y servicios de comunicaciones electrónicas.
+
+g) Las relacionadas con las obligaciones de servicio público y las restantes obligaciones de carácter público, en particular, el servicio universal de telecomunicaciones.
+
+h) El estudio de los instrumentos de planificación territorial o urbanística que afecten a la instalación o explotación de las redes públicas de comunicaciones electrónicas y recursos asociados a efecto de emitir el informe contemplado en el artículo 50.2 de la Ley 11/2022, de 28 de junio.
+
+i) Las relacionadas con la colaboración entre las administraciones públicas que afecten al despliegue de las redes públicas de comunicaciones electrónicas, previstas en la Ley 11/2022, de 28 de junio, y en su normativa de desarrollo.
+
+j) Las relacionadas con las condiciones técnicas que deben cumplir las redes e infraestructuras de comunicaciones electrónicas tanto en exteriores como las infraestructuras comunes de telecomunicaciones y redes de comunicaciones en los edificios; con el acceso a las infraestructuras susceptibles de alojar redes públicas de comunicaciones electrónicas, así como las relacionadas con las condiciones que deben cumplir las instalaciones y los instaladores de telecomunicaciones, y su supervisión, incluyendo la gestión del Registro de empresas instaladoras de telecomunicación.
+
+k) La definición, gestión y seguimiento de programas y actuaciones para promover la extensión, el desarrollo y la cobertura de las comunicaciones electrónicas para impulsar la vertebración territorial en particular los relativos a la Estrategia Nacional de Redes Ultrarrápidas, incluyendo la elaboración de estudios geográficos sobre el alcance y extensión de las redes de banda ancha, del informe de cobertura y los programas para promover la extensión y adopción de la banda ancha, así como la coordinación de diferentes programas de extensión de redes de banda ancha, y con las iniciativas de la Unión Europea y otros programas internacionales en estas materias.
+
+l) La realización de actuaciones de impulso y de ejecución de la planificación estratégica y de acción en materia de infraestructuras digitales.
+
+m) La ejecución de las actuaciones de promoción y desarrollo de las infraestructuras digitales.
+
+n) La elaboración, gestión y seguimiento de planes, proyectos tecnológicos y programas de actuaciones orientados al desarrollo de las infraestructuras digitales.
+
+ñ) La promoción y desarrollo de las infraestructuras de microelectrónica y semiconductores y la coordinación de las actuaciones del Departamento en este ámbito.
+
+o) La propuesta de planificación del uso del dominio público radioeléctrico, incluyendo la elaboración de propuestas del Cuadro nacional de atribución de frecuencias y de los planes técnicos nacionales de radiodifusión y televisión, y su desarrollo.
+
+p) La gestión del dominio público radioeléctrico y el establecimiento de las condiciones de uso de las bandas de frecuencias para los diferentes servicios de radiocomunicaciones, las actuaciones para el otorgamiento, modificación, extinción y revocación de los títulos habilitantes para el uso del dominio público radioeléctrico y la asignación de los recursos órbita espectro.
+
+q) La gestión del registro público de concesiones de dominio público radioeléctrico.
+
+r) La tramitación de los procedimientos para la aprobación de proyectos técnicos de radiocomunicaciones, así como las actuaciones relativas al mercado secundario del dominio público radioeléctrico y la gestión y liquidación en periodo voluntario de la tasa por reserva del dominio público radioeléctrico.
+
+s) El ejercicio de las funciones inspectoras en materia de telecomunicaciones, la inspección y el control de las redes y de los servicios de telecomunicaciones y de las condiciones para su prestación y explotación, de las obligaciones de los operadores, en particular, de las establecidas para la protección de los derechos de los usuarios finales de comunicaciones electrónicas, de los equipos y aparatos de telecomunicaciones y de las instalaciones.
+
+t) El control y protección del dominio público radioeléctrico, incluyendo la inspección o reconocimiento de las instalaciones radioeléctricas y la autorización para su puesta en servicio, la comprobación técnica de emisiones radioeléctricas, en particular, para la localización, identificación y eliminación de interferencias perjudiciales y de emisiones no autorizadas, así como el control de los niveles únicos de exposición a las emisiones radioeléctricas a que se refiere el artículo 86.b) de la Ley 11/2022, de 28 de junio, y de las relacionadas con la protección activa del espectro.
+
+u) La evaluación de la conformidad de equipos y aparatos de telecomunicaciones, incluidas las potestades como autoridad de vigilancia del mercado y como autoridad notificante, a la normalización técnica, así como la inspección y control de los equipos y aparatos de telecomunicación puestos en el mercado y comprobación del cumplimiento de la evaluación de la conformidad.
+
+v) Las funciones relacionadas con el secreto de las comunicaciones y la interceptación legal de las telecomunicaciones que correspondan a la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales.
+
+w) Las funciones relacionadas con la calidad de las redes y servicios de comunicaciones electrónicas que correspondan a la Secretaría de Estado.
+
+x) La coordinación de las Jefaturas Provinciales de Inspección de Telecomunicaciones, así como la gestión de los medios y recursos necesarios para realizar sus funciones.
+
+y) La tramitación y supervisión de los asuntos relacionados con los derechos de los consumidores y usuarios finales de los servicios de comunicaciones electrónicas, así como los relativos a los contratos y la transparencia y publicación de información, y a los servicios de tarificación adicional y sus condiciones de uso.
+
+z) La resolución de controversias entre operadores y usuarios finales de los servicios de comunicaciones electrónicas, así como la información y atención al usuario de servicios de telecomunicaciones y digitales.
+
+aa) La supervisión del cumplimiento de los requisitos, acuerdos y las condiciones establecidas en el artículo 76 de la Ley 11/2022, de 28 de junio, para garantizar el derecho de los usuarios finales de acceso abierto a internet y publicar el informe anual al que se refiere dicho artículo.
+
+ab) La verificación del cumplimiento de los requisitos y las condiciones establecidas en el Reglamento (UE) 2022/612 del Parlamento Europeo y del Consejo, de 6 de abril de 2022, relativo a la itinerancia en las redes públicas de comunicaciones móviles en la Unión, en materia de acceso de los usuarios finales a los servicios de comunicaciones electrónicas de voz, SMS y datos en itinerancia en la Unión Europea, incluida su venta por separado, la correcta prestación de servicios regulados de itinerancia al por menor, la correcta aplicación de las tarifas al por menor de servicios regulados de itinerancia, la no inclusión de recargos y de sus condiciones y mecanismos de transparencia, así como la correcta aplicación por los operadores de itinerancia de su política de utilización razonable al consumo de servicios regulados de itinerancia al por menor, la resolución de controversias entre usuarios finales y operadores por la prestación de servicios de itinerancia y el control y supervisión de la itinerancia involuntaria en zonas fronterizas.
+
+ac) La verificación de la correcta aplicación de las tarifas al por menor de las comunicaciones intracomunitarias reguladas en los términos establecidos en el Reglamento (UE) 2015/2120 del Parlamento Europeo y del Consejo, de 25 de noviembre de 2015, a excepción de la materia relativa a la sostenibilidad del modelo de tarificación nacional de un operador.
+
+ad) La incoación y tramitación de procedimientos correspondientes a la aplicación del régimen sancionador relacionado con las redes y servicios de comunicaciones electrónicas y los servicios de tarificación adicional.
+
+ae) La seguridad de las redes y servicios de comunicaciones electrónicas, en el ámbito de las competencias del Ministerio para la Transformación Digital y de la Función Pública.
+
+af) Aquellas funciones relacionadas con la seguridad que se atribuyen al Ministerio para la Transformación Digital y de la Función Pública, como Autoridad Competente en materia de seguridad en la Ley 11/2022, de 28 de junio, General de Telecomunicaciones.
+
+ag) La supervisión, control, e inspección, como autoridad competente en el sector de Infraestructura digital en coordinación con otros órganos y organismos con competencia en la materia.
+
+ah) Aquellas que se atribuyen al Ministerio para la Transformación Digital y de la Función Pública en el Real Decreto-ley 7/2022, de 29 de marzo, sobre requisitos para garantizar la seguridad de las redes y servicios de comunicaciones electrónicas de quinta generación y en el Real Decreto 443/2024, de 30 de abril, por el que se aprueba el Esquema Nacional de Seguridad de redes y servicios 5G.
+
+ai) Formular propuestas para desarrollar, concretar y detallar el contenido del Esquema Nacional de Seguridad de redes y servicios 5G.
+
+aj) La gestión y coordinación del Centro de Operaciones de Seguridad 5G de referencia.
+
+ak) Formular requerimientos de información a los sujetos obligados por la normativa reguladora de los requisitos de seguridad para la instalación, el despliegue y la explotación de redes de comunicaciones electrónicas y la prestación de servicios de comunicaciones electrónicas e inalámbricas basados en la tecnología de quinta generación (5G).
+
+al) Verificar y controlar el cumplimiento de las obligaciones impuestas a los sujetos obligados por la normativa reguladora de los requisitos de seguridad para la instalación, el despliegue y la explotación de redes de comunicaciones electrónicas y la prestación de servicios de comunicaciones electrónicas e inalámbricas basados en la tecnología 5G.
+
+am) Realizar auditorías u ordenar su realización para verificar y controlar el cumplimiento de las obligaciones mencionadas en la letra anterior.
+
+an) La participación en comisiones, grupos de trabajo y otros foros de carácter nacional, europeo e internacional, tanto públicos como privados, en el ámbito de la seguridad de las redes y servicios de comunicaciones electrónicas y de infraestructuras digitales.
+
+añ) La planificación, coordinación, desarrollo e impulso de políticas, planes, programas, proyectos y actuaciones para la incorporación de la ciberseguridad en la transformación digital del sector privado y la ciudadanía, en coordinación con la sociedad mercantil estatal (en adelante, S.M.E.) Instituto Nacional de Ciberseguridad de España, M.P., SA y departamentos ministeriales con competencias en la materia así como la gestión coordinada de los correspondientes programas europeos e internacionales en esta materia, sin perjuicio de las competencias de otros órganos en la materia.
+
+ao) Fomento del ecosistema de empresas emergentes en materia de ciberseguridad y ciberresiliencia.
+
+ap) El impulso y la promoción de la definición de regulación y estrategias que fomenten desde la administración la mejora de las políticas de ciberseguridad en el entorno privado, en especial las relativas a sus Centros Operativos de Seguridad (SOC), en colaboración con la S.M.E Instituto Nacional de Ciberseguridad de España, M.P., SA.
+
+aq) La elaboración y propuesta de normativa en materia de ciberseguridad y ciberresiliencia para el sector privado, en colaboración con otros órganos u organismos con competencias en la materia y los sectores económicos y sociales públicos y privados afectados, para la transformación segura de la economía y la sociedad, en el ámbito competencial del Ministerio para la Transformación Digital y de la Función Pública.
+
+ar) La participación en comisiones, grupos de trabajo y otros foros de carácter nacional, europeo e internacional, tanto públicos como privados, en el ámbito de la ciberseguridad, sin perjuicio de la participación de los órganos de la Agencia Estatal de Administración Digital.
+
+as) El fomento de actuaciones y programas en materia de ciberseguridad, sin perjuicio de las competencias de otros órganos en la materia.
+
+at) La gestión de programas operativos cofinanciados por los fondos comunitarios y, en particular el Digital Europe, en el ámbito de la ciberseguridad, de la ciber-resiliencia y de la cibersolidaridad; y la representación nacional en dichos fondos.
+
+au) La recopilación de datos y la realización de estudios e informes sobre la realidad corporativa, económica y tecnológica existente en el mercado de las telecomunicaciones y de las infraestructuras digitales, así como de sus mercados conexos.
+
+av) Análisis sobre la participación de los diferentes agentes y la interacción de los mismos en el mercado de las telecomunicaciones y de las infraestructuras digitales, especialmente en función de las interrelaciones existentes con mercados conexos, en sus vertientes corporativa, económica y tecnológica.
+
+aw) Elaboración de informes y estudios sobre las últimas tendencias tecnológicas en el sector de las telecomunicaciones y de las infraestructuras digitales, su repercusión en otros mercados y las consecuencias económicas que de las mismas se pueden derivar.
+
+ax) Análisis prospectivo de las evoluciones y avances tecnológicos que se van a diseñar e implantar en el futuro en el sector de las telecomunicaciones y de las infraestructuras digitales y su capacidad de afectación tanto al mercado, como a los agentes que lo integran y a mercados conexos, como a la regulación y a las políticas públicas que dichos avances pudieran requerir para su desarrollo.
+
+ay) El análisis y evaluación del impacto de otras políticas públicas en el sector de las telecomunicaciones y las infraestructuras digitales.
+
+az) El impulso y la coordinación de los planes, proyectos y programas para el fomento de la actividad de normalización, estandarización y certificación en el sector de las telecomunicaciones e infraestructuras digitales.
+
+ba) La participación en los foros dedicados a la definición de estándares, de directrices técnicas y fijación de parámetros tecnológicos en el sector de las telecomunicaciones e infraestructuras digitales.
+
+bb) Las funciones relativas al acceso a las redes y recursos asociados y a su interconexión, así como en lo referente a la interoperabilidad de los servicios de comunicaciones electrónicas que correspondan a la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales.
+
+bc) Las funciones relativas a la regulación consistente en la definición de mercados de referencia, determinación de operadores con poder significativo en el mercado y establecimiento de obligaciones específicas, así como las relacionadas con la separación funcional que corresponden a la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales.
+
+bd) La definición, gestión e instrucción de procedimientos de concesión de ayudas de los programas de impulso y actuaciones para la promoción de inversiones dentro de las materias de su competencia.
+
+be) El asesoramiento técnico al seguimiento, supervisión y verificación administrativa y material de las ayudas concedidas en los programas de impulso y actuaciones de promoción.
+
+bf) Cualesquiera otras relativas al sector de las telecomunicaciones e infraestructuras digitales que el ordenamiento jurídico atribuya al departamento, y que no estén específicamente asignadas a otros órganos.
+
+2\. La Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital se estructura en las siguientes subdirecciones generales:
+
+a) La Subdirección General de Ordenación de las Telecomunicaciones, que ejercerá las funciones atribuidas a la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital en los párrafos b), c) del apartado 1, así como en los párrafos bd) y be) de dicho apartado en el ámbito de sus competencias.
+
+b) La Subdirección General de Operadores de Telecomunicaciones e Infraestructuras Digitales, que ejercerá que ejercerá las funciones atribuidas a la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital en los párrafos d), e), f), g), h), i), j), k), l), m), n) y ñ) del apartado 1, así como en los párrafos bd) y be) de dicho apartado en el ámbito de sus competencias.
+
+c) La Subdirección General de Planificación y Gestión del Espectro Radioeléctrico, que ejercerá las funciones atribuidas a la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital en los párrafos o), p), q), r), s) y t) del apartado 1, así como en los párrafos bd) y be) de dicho apartado en el ámbito de sus competencias.
+
+d) La Subdirección General de Inspección de las Telecomunicaciones e Infraestructuras Digitales, que ejercerá las funciones atribuidas a la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital en los párrafos u), v), w) y x) del apartado 1, así como en los párrafos bd) y be) de dicho apartado en el ámbito de sus competencias.
+
+e) La Subdirección General de Atención al Usuario de Telecomunicaciones y Servicios Digitales, que ejercerá las funciones atribuidas a la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital en los párrafos y), z), aa), ab), ac) y ad) del apartado 1, así como en los párrafos bd) y be) de dicho apartado en el ámbito de sus competencias.
+
+f) La Subdirección General de Seguridad Digital, que ejercerá las funciones atribuidas a la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital en los párrafos ae), af) y ag) del apartado 1, así como en los párrafos bd) y be) de dicho apartado en el ámbito de sus competencias.
+
+Con el nivel orgánico que se determine en la Relación de Puestos de Trabajo, depende de la persona titular de la Subdirección General de Seguridad Digital la División de Seguridad de las Telecomunicaciones e Infraestructuras Digitales. Esta División ejercerá las funciones atribuidas a la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital en los párrafos, ah), ai), aj), ak), al), am) y an) del apartado 1, así como en los párrafos bd) y be) de dicho apartado en el ámbito de sus competencias.
+
+Con el nivel orgánico que se determine en la Relación de Puestos de Trabajo, depende de la persona titular de la Subdirección General de Seguridad Digital la División de Ciberseguridad para la Transformación Digital. Esta División ejercerá las funciones atribuidas a la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital en los párrafos añ), ao), ap), aq), ar), as) y at) del apartado 1, así como en los párrafos bd) y be) de dicho apartado en el ámbito de sus competencias.
+
+g) La Subdirección General de Análisis del Mercado y de Evolución Tecnológica, que ejercerá las funciones atribuidas a la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital en los párrafos au), av), aw), ax), ay), az), ba), bb) y bc) del apartado 1, así como en los párrafos bd) y be) de dicho apartado en el ámbito de sus competencias.
+
+3\. Dependen, asimismo, de la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital, las Jefaturas Provinciales de Inspección de Telecomunicaciones. Corresponde a las Jefaturas Provinciales de Inspección de Telecomunicaciones, entre otras funciones, realizar las actuaciones que faciliten el ejercicio material de las funciones de supervisión, inspección y control, así como las tareas de administración del espectro radioeléctrico que corresponden a la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital.
+
+4\. Como órgano de apoyo y asistencia inmediata al titular de la Secretaría General existe un Gabinete técnico, con nivel orgánico de Subdirección General, que dependerá directamente de la Secretaría General.
+
+5\. Con el nivel orgánico que se determine en la Relación de Puestos de Trabajo, depende de la persona titular de la Secretaría General la División de Seguimiento y Supervisión de Ayudas, que llevará a cabo el seguimiento y supervisión administrativa y material de la ejecución de las ayudas concedidas en los programas de impulso y actuaciones para la promoción de inversiones dentro de las materias gestionadas por la Secretaría General de Telecomunicaciones, Infraestructuras Digitales y Seguridad Digital o la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, el apoyo administrativo en la gestión de estos programas y actuaciones, así como la gestión del Plan de control de riesgos y fraude de los citados programas y actuaciones, salvo la gestión del Plan de control de riesgos y fraude de los programas relativos al Plan de Recuperación, Transformación y Resiliencia y la gestión del Plan de control de riesgos y fraude de los Programas del Fondo Europeo de Desarrollo Regional (FEDER).
+
+> Se modifica por el art. 1.7 del Real Decreto 1185/2024, de 28 de noviembre. [Ref. BOE-A-2024-24853](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-24853)
+
+## Artículo 8. Secretaría de Estado de Función Pública.
+
+1\. La Secretaría de Estado de Función Pública es el órgano al que corresponde, bajo la superior dirección de la persona titular del departamento, el impulso, la dirección y gestión de la política del Gobierno en materia de administración pública y administración digital; la función pública y el empleo público; la gobernanza pública, organización, procedimientos e inspección de servicios de la Administración General del Estado; el régimen de incompatibilidades y conflictos de intereses de los miembros del Gobierno y altos cargos; la selección y formación de las empleadas y empleados públicos y el régimen de mutualismo administrativo del personal funcionario civil del Estado. Le corresponde asimismo la coordinación de la política de personal entre las distintas administraciones públicas, las relaciones con las organizaciones sindicales en el ámbito de la función pública y la coordinación, impulso y gestión de los asuntos de carácter internacional que se produzcan en el ámbito de la Secretaría de Estado.
+
+En particular, corresponden a la Secretaría de Estado de Función Pública las funciones que se enumeran a continuación:
+
+a) El impulso, la programación y la supervisión de las actuaciones en ejecución de la política del Gobierno en materia de administración digital y del fomento de la administración electrónica, en especial en lo referente al proceso de transformación digital e innovación de la Administración a través de las tecnologías de la información y de las comunicaciones, y la adopción de soluciones digitales que permitan la prestación eficiente de los servicios públicos incluyendo los servicios públicos esenciales.
+
+b) La creación de servicios públicos electrónicos universales y de calidad, y en su caso transfronterizos.
+
+c) La promoción, en un marco de corresponsabilidad, de la cooperación con las administraciones públicas en materia de administración digital, potenciando la interoperabilidad y el uso de los servicios de información titularidad de la Secretaría de Estado para eliminar la brecha digital, así como el fomento de programas de atención a la ciudadanía y, en particular, promoviendo el uso de plataformas comunes para la integración de los servicios de las diferentes sedes electrónicas de las administraciones públicas.
+
+d) Aquellas otras que atribuya la legislación vigente al departamento en el ámbito de la administración electrónica y servicios públicos digitales y la incorporación de las tecnologías de la información y comunicaciones en el conjunto de la Administración General del Estado y del sector público institucional estatal.
+
+e) El régimen jurídico y retributivo de la función pública y del empleo público en la Administración General del Estado.
+
+f) El régimen jurídico y retributivo de la función pública y del empleo público en los organismos públicos y entidades del sector público administrativo y del sector público empresarial y fundacional de carácter tecnológico y científico, así como la autorización de contratación indefinida o temporal del personal laboral en ese ámbito subjetivo.
+
+g) La propuesta de clasificación de organismos públicos y entidades de Derecho Público del sector público administrativo y del sector público empresarial y fundacional de carácter tecnológico y científico.
+
+h) La coordinación de la política de personal entre la Administración General del Estado, las administraciones de las comunidades autónomas y de las ciudades de Ceuta y Melilla, y las entidades locales.
+
+i) La gestión de talento en la Administración General del Estado y la convocatoria de pruebas selectivas para el acceso o integración en los cuerpos y escalas de carácter interdepartamental adscritas a la Secretaría de Estado de Función Pública.
+
+j) Las relaciones con las organizaciones sindicales en el ámbito de la Administración General del Estado; la coordinación de acuerdos y pactos en relación con la negociación colectiva de las empleadas y empleados públicos de la Administración General del Estado derivadas de las mesas de negociación de personal funcionario y laboral.
+
+k) El impulso de propuestas de reforma de la Administración Pública, teniendo en cuenta, en particular, las iniciativas que propongan los órganos, entidades, organismos, organizaciones sectoriales y cualesquiera otras asociaciones o entidades públicas o privadas.
+
+l) La racionalización y modernización de las estructuras organizativas de la Administración General del Estado y de sus procedimientos, así como la inspección de servicios de dicha administración y los organismos públicos vinculados o dependientes de ella.
+
+m) La elaboración de proyectos de disposiciones de carácter general en materia de organización, procedimientos, así como de actuación y funcionamiento del sector público por medios electrónicos.
+
+n) La política de reducción de cargas administrativas y la simplificación y mejora de los procedimientos administrativos y de la calidad de los servicios públicos, en el ámbito de la Administración General del Estado.
+
+ñ) El fomento de los programas de atención a la ciudadanía y la gestión del Portal de Transparencia de la Administración General del Estado y el Punto de Acceso General.
+
+o) El impulso, la coordinación y el seguimiento de los planes de gobierno abierto, en iniciativas orientadas al desarrollo de los principios de la transparencia, la participación ciudadana, la rendición de cuentas y la colaboración.
+
+p) La coordinación de las unidades de información de la Administración General del Estado previstas en el artículo 21 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, así como dictar indicaciones para la dinamización e impulso del derecho de acceso.
+
+q) La gestión del régimen de incompatibilidades y conflictos de intereses de los miembros del Gobierno, altos cargos y del personal al servicio de la Administración General del Estado y del sector público institucional estatal.
+
+r) La formación de las empleadas y empleados públicos.
+
+s) El régimen del mutualismo administrativo del personal funcionario civil del Estado.
+
+t) La coordinación e impulso de los asuntos de carácter internacional que se produzcan en el ámbito de la Secretaría de Estado, sin perjuicio de las funciones que correspondan al Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+
+u) Las relaciones con la profesión titulada de gestor administrativo.
+
+v) La tramitación de la aprobación previa a que se refiere el artículo 26.5 de la Ley 50/1997, de 27 de noviembre, del Gobierno.
+
+2\. La persona titular de la Secretaría de Estado de Función Pública presidirá la Comisión Coordinadora de Inspecciones Generales de Servicios de los departamentos ministeriales, el Foro de Gobierno Abierto y la Comisión Sectorial de Gobierno Abierto.
+
+3\. Asimismo, corresponde a la Secretaría de Estado de Función Pública la Presidencia de la Comisión Superior de Personal y la vicepresidencia de la Conferencia Sectorial de Administración Pública.
+
+4\. Depende directamente de la persona titular de la Secretaría de Estado de Función Pública, con nivel orgánico de Subdirección General, el Gabinete, como órgano de asistencia inmediata a aquel, con la estructura que se establece en el artículo 23.3 del Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales.
+
+5\. Con el nivel orgánico que se determine en la Relación de Puestos de Trabajo, depende de la persona titular de la Secretaría de Estado la División de Planificación, Seguimiento y Ejecución, a la que corresponde el ejercicio de las siguientes funciones:
+
+a) La gestión de los medios personales y materiales y el régimen interior de los servicios centrales de la Secretaría de Estado.
+
+b) La planificación, coordinación, ejecución y seguimiento de proyectos y programas de la Secretaría de Estado, incluyendo los financiados por fondos europeos.
+
+c) La planificación, coordinación, ejecución y seguimiento en materia presupuestaria y de contratación de la Secretaría de Estado.
+
+6\. Se adscriben al Ministerio para la Transformación Digital y de la Función Pública, a través de la Secretaría de Estado de Función Pública, los organismos autónomos Mutualidad General de Funcionarios Civiles del Estado e Instituto Nacional de Administración Pública y la Agencia Estatal de Administración Digital.
+
+7\. La Autoridad Administrativa Independiente Consejo de Transparencia y Buen Gobierno estará vinculada al departamento en los términos que establecen los artículos 109 y 110 de la Ley 40/2015, de 1 de octubre.
+
+8\. De la Secretaría de Estado de Función Pública dependen los siguientes órganos directivos:
+
+a) La Dirección General de la Función Pública, con rango de Subsecretaría.
+
+b) La Dirección General de Gobernanza Pública.
+
+c) La Oficina de Conflictos de Intereses, con rango de Dirección General.
+
+> Téngase en cuenta que esta última actualización de los apartados 6 y 8, establecida por la disposición final 3.4 y 5 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929), entra en vigor cuando se produzca la constitución efectiva de la Agencia Estatal de Administración Digital y la consiguiente supresión de la Secretaría General de Administración Digital, según determina su disposición final 6.
+
+9\. Para el asesoramiento jurídico de la Secretaría de Estado de Función Pública, existirá una Abogacía del Estado, integrada orgánicamente en la del Departamento.
+
+> Se modifican los apartados 6 y 8 por la disposición final 3.4 y 5 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929)
+
+> Esta modificación entra en vigor cuando se produzca la constitución efectiva de la Agencia Estatal de Administración Digital y la consiguiente supresión de la Secretaría General de Administración Digital, según establece la disposición final 6 del citado Real Decreto.
+
+## Artículo 9. Secretaría General de Administración Digital.
+
+**(Suprimido)**
+
+> Téngase en cuenta que la Secretaría General de Administración Digital queda suprimida, por la disposición final 3.6 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929), cuando se produzca la constitución efectiva de la Agencia Estatal de Administración Digital, según determina su disposición final 6.
+
+> Se suprime por la disposición final 3.6 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929)
+
+> Esta supresión será efectiva cuando se produzca la constitución de la Agencia Estatal de Administración Digital, según establece la disposición final 6 del citado Real Decreto.
+
+## Artículo 10. Dirección General de la Función Pública.
+
+1\. Corresponde a la Dirección General de la Función Pública, con rango de Subsecretaría, el ejercicio de las siguientes funciones:
+
+a) En relación con la Administración General del Estado, los organismos y entidades integrantes del sector público administrativo con arreglo a lo dispuesto por el artículo 3.1 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, así como de los organismos y entidades del sector público empresarial y fundacional adscritos a los Ministerios para la Transformación Digital y de la Función Pública y de Ciencia, Innovación y Universidades, en el marco de planificación estratégica de recursos humanos y de la envolvente aprobada de gasto de los regímenes retributivos del sector público, de acuerdo con los criterios comunes adoptados en el seno de la Comisión Superior de Personal, y sin perjuicio de la independencia y autonomía funcional legalmente atribuida a las autoridades administrativas independientes y otras entidades de derecho público:
+
+1.º La planificación de los recursos humanos, a partir del análisis basado en datos de las necesidades de personal, perfiles profesionales y retribuciones para asegurar la calidad del empleo público y una asignación funcional y eficiente de los efectivos.
+
+2.º La elaboración de normativa e informes en materia de empleo público.
+
+3.º La aprobación y modificación de las relaciones, catálogos y dotaciones de puestos de trabajo, retribuciones e incentivos al rendimiento.
+
+4.º La elaboración, propuesta y seguimiento de la Oferta de Empleo Público, la autorización de nombramientos de personal funcionario interino, de personal estatutario temporal y de contratos de personal laboral temporal; así como la elaboración de bases comunes y el informe de las convocatorias para el acceso a la condición de personal empleado público.
+
+5.º La tramitación de los procesos de adquisición y pérdida de la condición de personal funcionario, el ejercicio de las competencias atribuidas a la Secretaría de Estado de Función Pública en materia de situaciones administrativas y la gestión de los procedimientos de personal derivados de la dependencia orgánica de los cuerpos y escalas adscritos al Ministerio a través de la Secretaría de Estado de Función Pública.
+
+6.º La propuesta de medidas de estructuración del empleo público, tanto de personal funcionario como de personal laboral, así como la ordenación de la provisión y de la movilidad mediante la autorización y, en su caso, gestión de los procesos de movilidad interministerial y provisión de puestos de personal funcionario y laboral del ámbito del convenio único de la Administración General del Estado.
+
+7.º La coordinación de la provisión y de la movilidad interadministrativa mediante la autorización y, en su caso, tramitación de las comisiones de servicio y otras formas para la provisión de puestos en la Administración General del Estado por personal procedente de otras administraciones públicas, con la excepción de los procedimientos de concurso y libre designación, y la autorización previa para la provisión de puestos en otras administraciones públicas, mediante libre designación, por personal funcionario de cuerpos y escalas adscritos a la Secretaría de Estado de Función Pública.
+
+8.º La asesoría en materia de recursos humanos a los departamentos ministeriales, así como la información a las empleadas y empleados públicos de la política de los recursos humanos.
+
+9.º La coordinación funcional de las subdirecciones generales de recursos humanos e inspección de servicios de los departamentos ministeriales a los efectos de la ejecución de proyectos y programas que resulten estratégicos para el conjunto de la Administración General del Estado y de sus organismos vinculados o dependientes, cuando sean acordados en el seno de la Comisión Superior de Personal.
+
+10.º El diseño del Sistema de Datos sobre Empleo Público, en el que se integren el conjunto de datos relevantes para la adopción de las decisiones relativas a la planificación estratégica, oferta y estructuración de los recursos humanos, a partir del análisis de las necesidades de personal, evolución tecnológica, perfiles profesionales y retribuciones, entre otros elementos, con arreglo a las políticas y estándares en la gestión y análisis de datos que establezca la Dirección General del Dato.
+
+11.º La elaboración y divulgación de estadísticas, indicadores y datos sobre empleo público, con la asistencia de la Agencia Estatal de Administración Digital.
+
+> Téngase en cuenta que esta última actualización del apartado 1.a.11º, establecida por la disposición final 3.7 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929), entra en vigor cuando se produzca la constitución efectiva de la Agencia Estatal de Administración Digital y la consiguiente supresión de la Secretaría General de Administración Digital, según determina su disposición final 6.
+
+12.º La gestión del Registro Central de Personal.
+
+13.º La gestión del repertorio de puestos de personal directivo público profesional.
+
+14.º Las relaciones con las organizaciones sindicales en el ámbito de la Administración General del Estado; la dirección y coordinación de la negociación colectiva del personal empleado público de este ámbito y la propuesta de acuerdos y pactos derivados de las mesas de negociación de personal funcionario y laboral, así como el asesoramiento en materia de negociación colectiva y la coordinación y apoyo en los procesos de elecciones sindicales en el ámbito de la Administración General del Estado.
+
+15.º El impulso de la prevención de riesgos laborales, en el marco de lo dispuesto en la normativa aplicable, así como de criterios comunes, funciones de coordinación y promoción, planes de formación, en materia de acción social, responsabilidad social corporativa e igualdad y no discriminación del personal empleado de la Administración General del Estado.
+
+16.º La elaboración de la propuesta de clasificación de entidades del sector público estatal contempladas en el apartado a), de acuerdo con su normativa específica, en colaboración con la Dirección General de Gobernanza Pública.
+
+b) El estudio y análisis basado en datos en materia de empleo público y la preparación del Boletín estadístico del personal al servicio de las Administraciones Públicas.
+
+c) La elaboración de normativa básica e informes en materia de empleo público sobre el conjunto de las administraciones públicas.
+
+d) La asesoría en materia de recursos humanos a las administraciones públicas, así como la asistencia técnico-jurídica en la transposición y aplicación de directivas y otros instrumentos jurídicos de la Unión Europea o internacionales en esta materia.
+
+e) La participación en foros europeos y otros organismos internacionales que afecten a las competencias de la Dirección General, así como la coordinación y cooperación con los órganos competentes en materia de función pública de las administraciones de las comunidades autónomas y administración local.
+
+f) El informe de los actos y disposiciones en materia de función pública emanadas de las comunidades autónomas, el seguimiento de sus ofertas de empleo público, el estudio de la política de empleo público internacional, autonómico y local.
+
+g) La emisión de informes y contestación de consultas formuladas por otras administraciones públicas relativas a la Función Pública Local respecto a la normativa básica estatal.
+
+h) El ejercicio de las funciones que correspondan a la Administración General del Estado en relación con el personal funcionario de Administración Local con habilitación de carácter nacional, salvo las que correspondan al órgano competente en materia de Haciendas Locales, y la gestión del registro integrado de este personal.
+
+i) La incoación de expedientes disciplinarios a personal funcionario de Administración Local con habilitación de carácter nacional, en el marco de lo dispuesto en la normativa aplicable.
+
+j) El informe y autorización, en los términos previstos en la correspondiente ley de presupuestos generales del estado, de los acuerdos, convenios, pactos o cualesquiera otros instrumentos de negociación colectiva, así como de las medidas que se adopten en su cumplimiento o desarrollo, cuyo contenido se refiera a gastos imputables al capítulo de gastos de personal de los presupuestos y demás condiciones de trabajo de los organismos y entidades mencionados en el párrafo a).
+
+k) La realización de proyectos de atracción, desarrollo y retención de talento.
+
+2\. Dependen de la Dirección General de la Función Pública los siguientes órganos:
+
+a) La Subdirección General de Planificación de Recursos Humanos y Retribuciones, a la que corresponden las funciones enumeradas en los párrafos a) 1.º, 3.º y 4.º de este artículo en relación con los departamentos ministeriales de la Administración General del Estado, así como la función enumerada en el párrafo a) 13.º
+
+b) La Subdirección General de Ordenación de Recursos Humanos, a la que corresponde el ejercicio de las funciones enumeradas en los párrafos a) 5.º, 6.º y 7.º de este artículo.
+
+c) La Subdirección General de Régimen Jurídico, a la que corresponde el ejercicio de las funciones enumeradas en los párrafos a) 2.º, 8.º y 9.º, c) y d) de este artículo.
+
+d) La Subdirección General de Datos para el Empleo Público, a la que corresponde el ejercicio de las funciones enumeradas en los párrafos a) 10.º, 11.º, 12 º y b) de este artículo, ejerciendo la persona titular de esta unidad la jefatura del Registro Central de Personal.
+
+e) La Subdirección General de Relaciones Laborales, a la que corresponde el ejercicio de las funciones enumeradas en las letras a) 14.º y 15.ª del apartado 1 de este artículo.
+
+f) La Subdirección General de Relaciones con otras Administraciones, a la que corresponde el ejercicio de las funciones enumeradas en las letras e), f) g) h) e i) del apartado 1 de este artículo.
+
+g) La Subdirección General del Sector Público Institucional, a la que corresponde el ejercicio de las funciones enumeradas en los párrafos a) 1.º, 3.º 4.º y 16.º de este artículo, y j) en relación con las entidades del sector público de carácter administrativo y del sector público empresarial y fundacional adscritas a los Ministerios de Ciencia, Innovación y Universidades y para la Transformación Digital y de la Función Pública.
+
+> Se modifica el apartado 1.a).11º por la disposición final 3.7 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929)
+
+> Esta modificación entra en vigor cuando se produzca la constitución efectiva de la Agencia Estatal de Administración Digital y la consiguiente supresión de la Secretaría General de Administración Digital, según establece la disposición final 6 del citado Real Decreto.
+
+## Artículo 11. Dirección General de Gobernanza Pública.
+
+1\. Corresponde a la Dirección General de Gobernanza Pública al ejercicio de las siguientes funciones:
+
+a) El análisis y evaluación de las estructuras organizativas de la Administración General del Estado y sus organismos públicos y entidades de derecho público; la elaboración de las disposiciones de carácter organizativo cuya propuesta sea competencia del Ministerio y las disposiciones de carácter general en materia de procedimientos y la realización de propuestas organizativas para mejorar la racionalidad y eficiencia de las estructuras administrativas; así como el informe de los proyectos que se sometan a la aprobación previa a que se refiere el artículo 26.5 de la Ley 50/1997, de 27 de noviembre, del Gobierno, en aquellos aspectos de la competencia de esta Dirección General.
+
+b) El asesoramiento y apoyo técnico en materia de organización y procedimientos a los departamentos ministeriales y organismos públicos, incluida la realización de estudios de consultoría organizativa.
+
+c) La gobernanza y gestión en el ámbito de la Administración General del Estado del Sistema de Información Administrativa de los procedimientos.
+
+d) El diseño, impulso y seguimiento en el ámbito de la Administración General del Estado de las actuaciones para reducir las cargas administrativas y regulatorias, y simplificar los procedimientos administrativos, asegurando la coordinación interdepartamental y promoviendo la cooperación entre todas las administraciones públicas.
+
+e) Favorecer a la mejora continua de la gestión mediante el impulso, desarrollo y seguimiento de los programas de calidad en los servicios públicos, basados en la búsqueda de la excelencia y el fomento de la innovación. En particular la gestión e impulso de los programas de calidad previstos en el Real Decreto 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado.
+
+f) El ejercicio de las atribuciones en materia de inspección y mejora de los servicios de la Administración General del Estado y de los organismos públicos vinculados o dependientes de ella; la fijación de criterios que faciliten la atención a los ciudadanos, especialmente mediante el análisis integral de las quejas y sugerencias que puedan producirse; la coordinación funcional de las subdirecciones generales de recursos humanos y de las inspecciones de servicios para la ejecución de proyectos y programas que resulten estratégicos y que sean acordados en el seno de la Comisión Coordinadora de las Inspecciones de Servicios; la promoción, dirección y coordinación de planes de inspección específicos para evaluar la eficacia y eficiencia de los servicios; la consultoría operativa de los servicios; y la promoción de programas de formación especializada e intercambio de las metodologías y técnicas aplicadas, en particular la organización y desarrollo del curso selectivo sobre el desarrollo de la función inspectora en la Administración General del Estado regulado en la Orden TFP/1125/2020, de 25 de noviembre.
+
+g) La identificación, diseño, e impulso de programas y proyectos para facilitar el acceso de la ciudadanía y las empresas a los servicios públicos así como la elaboración y desarrollo de programas de atención, información y asistencia a la ciudadanía a través de los distintos canales disponibles, en colaboración con la Agencia Estatal de Administración Digital en los aspectos relativos a la administración electrónica y en coordinación con los departamentos ministeriales y sus organismos y entidades vinculados o dependientes, así como con otras administraciones.
+
+h) La gobernanza del teléfono 060, la gestión del Centro de Información Administrativa y la normalización de documentos e imagen institucional.
+
+i) La gobernanza del Punto de Acceso General Electrónico de la Administración General del Estado y la gestión de la publicación de sus contenidos y del Directorio Común de Unidades Orgánicas y Oficinas en coordinación con los departamentos ministeriales y sus organismos y entidades vinculados o dependientes.
+
+La Dirección General de Gobernanza Pública actuará también como coordinador de información de la Pasarela Digital Única Europea de acuerdo con el Coordinador Nacional de la Pasarela Digital Única Europea designado por la Agencia Estatal de Administración Digital.
+
+j) La creación y desarrollo del Sistema de Datos sobre Gobernanza Pública, en el que se integren el conjunto de datos relevantes para la adopción de las decisiones relativas a la organización, procedimientos, calidad y servicios a la ciudadanía, a partir del análisis de necesidades y evolución tecnológica con arreglo a las políticas y estándares en la gestión y análisis de datos que establezca la Dirección General del Dato.
+
+k) La gobernanza y gestión del registro de funcionarios habilitados, del registro electrónico de apoderamientos y del registro electrónico general de la Administración General del Estado y la definición funcional y gobernanza del sistema de notificaciones.
+
+l) El impulso, la coordinación y el seguimiento de los planes de Gobierno Abierto de los departamentos ministeriales, en iniciativas orientadas al desarrollo de los principios de la transparencia, la participación ciudadana, la rendición de cuentas y la colaboración, así como la programación y ejecución de proyectos sobre la materia, en el ámbito de las competencias de la Dirección General; la promoción de la cooperación entre todas las administraciones públicas en dicho ámbito y servir de punto de contacto de la Administración General del Estado con los organismos internacionales en materia de gobierno abierto, sin perjuicio de las competencias de otros centros directivos por razón de la materia.
+
+m) El impulso de los planes y programas de transparencia, incluyendo la atención e información a los ciudadanos en esta materia y la gestión del Portal de Transparencia de la Administración General del Estado y sus organismos públicos y entidades de Derecho público vinculados o dependientes, regulado en la Ley 19/2013, de 9 de diciembre, con el soporte técnico de la Agencia Estatal de Administración Digital. En relación con la coordinación de las unidades de información de la Administración General del Estado y sus organismos públicos y entidades de Derecho público vinculados o dependientes previstas en el artículo 21 de la Ley 19/2013, de 9 de diciembre, corresponde a la Dirección General de Gobernanza Pública prestar el apoyo y soporte necesario para el ejercicio de dicha competencia, como Unidad de Información de Transparencia Central.
+
+> Téngase en cuenta que esta última actualización de los párrafos g) i) y m) del apartado 1, establecida por la disposición final 3.8 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929), entra en vigor cuando se produzca la constitución efectiva de la Agencia Estatal de Administración Digital y la consiguiente supresión de la Secretaría General de Administración Digital, según determina su disposición final 6.
+
+2\. Dependen de la Dirección General de Gobernanza Pública, los siguientes órganos:
+
+a) La Subdirección General de Organización y Procedimientos, a la que corresponde el ejercicio de las funciones enumeradas en las letras a), b), c) y d) del apartado 1 de este artículo. La función de la letra b) se ejercerá en coordinación con la Subdirección General de Inspección y Consultoría.
+
+b) La Subdirección General de Inspección y Consultoría, a la que corresponde el ejercicio de las funciones enumeradas en las letras b), f), y m) del apartado 1 de este artículo, siendo ejercida la de la letra b) en coordinación con la Subdirección General de Organización y Procedimientos y la de la letra m) en coordinación con la Subdirección General de Transparencia y Atención al Ciudadano.
+
+La persona titular de esta Subdirección General ostenta la Secretaría de la Comisión Coordinadora de Inspecciones Generales de Servicios de los ministerios de la Administración General del Estado.
+
+c) La Subdirección General de Transparencia y Atención al Ciudadano, a la que corresponde el ejercicio de las funciones enumeradas en las letras g), h), i) y l) del apartado 1 de este artículo; siendo ejercida la de la letra apartado g) en coordinación con la Subdirección General de Datos para la Gobernanza Pública y la de la letra m) en coordinación con la Subdirección General de Inspección y Consultoría.
+
+d) La Subdirección General de Datos para la Gobernanza Pública, a la que corresponde el ejercicio de las funciones previstas en la letra j) y k) del apartado 1 de este artículo y la de la letra g) en coordinación con la Subdirección General de Transparencia y Atención al Ciudadano y en colaboración con la Dirección General del Dato.
+
+e) La Subdirección General de Gobierno Abierto, a la que corresponde el ejercicio de las funciones previstas en la letra l) del apartado 1 de este artículo.
+
+3\. A la persona titular de la Dirección General de Gobernanza Pública corresponde la condición de titular de la Inspección General de Servicios de la Administración Pública, con las facultades inherentes a la misma. Igualmente le corresponde la Vicepresidencia de la Comisión Coordinadora de Inspecciones Generales de Servicios de los ministerios de la Administración General del Estado.
+
+A tal efecto, se adscriben a la Dirección General de Gobernanza Pública dos Inspectores Generales de Servicios, con nivel orgánico de Subdirector General, para el desarrollo de las tareas que aquélla les encomiende. Asimismo podrán adscribirse inspectores generales de servicios a la Dirección General de acuerdo con lo que se determine en la relación de puestos de trabajo del departamento.
+
+4\. Igualmente, corresponde a la persona titular de la Dirección General de Gobernanza Pública la Vicepresidencia primera del Foro de Gobierno Abierto y de la Comisión Sectorial de Gobierno Abierto.
+
+> Se modifica la letra b) del apartado 2 por el art. 1.8 del Real Decreto 1185/2024, de 28 de noviembre. [Ref. BOE-A-2024-24853](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-24853)
+
+> Se modifican los párrafos g), i) y m) del apartado 1 por la disposición final 3.8 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929)
+
+> Esta modificación entra en vigor cuando se produzca la constitución efectiva de la Agencia Estatal de Administración Digital y la consiguiente supresión de la Secretaría General de Administración Digital, según establece la disposición final 6 del citado Real Decreto.
+
+## Artículo 12. Oficina de Conflictos de Intereses.
+
+1\. Corresponden a la Oficina de Conflictos de Intereses, con plena autonomía funcional, las siguientes funciones:
+
+a) Las previstas en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado.
+
+b) Las previstas en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+
+c) Las correspondientes al régimen de incompatibilidades del personal al servicio de la Administración General del Estado, de sus organismos públicos y del sector público estatal.
+
+d) El fomento de los valores y principios de ética e integridad pública y la prevención de conflictos de intereses en colaboración con otros órganos, organismos y entidades en particular mediante el desarrollo de acciones de información y formación.
+
+2\. Dependen de la Oficina de Conflictos de Intereses, con rango de Subdirección General, los siguientes órganos:
+
+a) La Subdirección General de Régimen de los Altos Cargos, a la que corresponde el ejercicio de las funciones enumeradas en las letras a) y b) del apartado 1 de este artículo.
+
+b) La Subdirección General de Régimen de Incompatibilidades de los Empleados Públicos, a la que corresponde el ejercicio de la función enumerada en la letra c) del apartado 1 de este artículo.
+
+## Artículo 13. Subsecretaría para la Transformación Digital y de la Función Pública.
+
+1\. La Subsecretaría ostenta la representación ordinaria del Ministerio y la dirección de sus servicios comunes, así como el ejercicio de las atribuciones a que se refiere el artículo 63 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público y la dirección, impulso y supervisión de los órganos directivos y de las unidades directamente dependientes.
+
+2\. Como órgano directivo directamente dependiente de la persona titular del Ministerio corresponderá a la persona titular de la Subsecretaría para la Transformación Digital y de la Función Pública el ejercicio de las siguientes funciones:
+
+a) La representación ordinaria del Ministerio.
+
+b) La dirección, impulso y coordinación general de los servicios comunes del Departamento y el ejercicio de las competencias correspondientes a dichos servicios comunes.
+
+c) El apoyo y asesoramiento técnico a la persona titular del Departamento en la elaboración y aprobación de los planes de actuación del Departamento, así como en el control de eficacia del Ministerio y sus organismos dependientes.
+
+d) El estudio de los distintos elementos organizativos del Departamento y la dirección y realización de los proyectos organizativos de ámbito ministerial.
+
+e) La dirección, impulso, coordinación y supervisión de la fundamentación técnico-jurídica relativa a la participación del Departamento en los órganos colegiados del Gobierno y en los de colaboración y apoyo al Gobierno.
+
+f) La elaboración de los planes del Departamento en materia normativa, así como el impulso, coordinación, apoyo y supervisión de las actividades de elaboración de disposiciones generales del departamento y el informe de los proyectos de normas de otros Ministerios, coordinando las actuaciones dentro del Ministerio y con los demás departamentos que hayan de intervenir en el procedimiento.
+
+3\. En particular, la Subsecretaría ejercerá las siguientes funciones:
+
+a) La elaboración de la propuesta de presupuesto anual del Departamento y la coordinación de los correspondientes a sus entidades adscritas, así como el seguimiento de la ejecución presupuestaria y la tramitación de sus modificaciones.
+
+b) La gestión económica y financiera y de la tesorería del Departamento, así como la planificación, tramitación y seguimiento de la contratación administrativa y la coordinación de los órganos colegiados del Departamento en materia de contratación.
+
+c) La evaluación de los distintos programas de gasto desarrollados en el ministerio, orientada a lograr políticas de gasto más eficientes.
+
+d) La planificación, gestión y administración de los recursos humanos del Departamento, la elaboración de las propuestas de aprobación y modificación de las relaciones de puestos de trabajo y los planes de empleo, la tramitación de los procesos para la cobertura de los puestos de trabajo, y las relaciones con las organizaciones sindicales y las asociaciones profesionales de funcionarios, así como la gestión de los planes de formación, de la acción social y de los programas de prevención de riesgos laborales.
+
+e) La ejecución de los planes y programas de inspección de los servicios y la evaluación del funcionamiento, la eficacia y rendimiento del personal y servicios de los órganos y unidades de los servicios centrales, entidades y organismos públicos adscritos así como la coordinación de las actividades vinculadas con las evaluaciones de las políticas públicas de competencia del Departamento.
+
+f) El desarrollo de las funciones propias de la Unidad de Igualdad del Departamento, previstas en el artículo 77 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+g) El ejercicio de las competencias relativas al Delegado de Protección de Datos, previstas en el Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos) y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, para el ámbito del Ministerio.
+
+h) Las actuaciones relacionadas con la publicación de disposiciones y actos administrativos del Departamento en el «Boletín Oficial del Estado».
+
+i) El ejercicio de las funciones de la Unidad de Información de Transparencia del Ministerio para la Transformación Digital y de la Función Pública, según lo previsto en el artículo 21 de la Ley 19/2013, de 9 de diciembre, y el apoyo en la coordinación de las iniciativas en materia de Gobierno abierto en el ámbito del Ministerio.
+
+j) El desarrollo y coordinación de las actividades de información administrativa y atención al ciudadano, así como la publicidad institucional.
+
+k) La gestión de los medios materiales del Departamento, muebles e inmuebles; su inventario; la gestión de los arrendamientos; la adecuación y conservación de dichos inmuebles; el mantenimiento de sus instalaciones; y la planificación, coordinación, elaboración y dirección de los proyectos de obras correspondientes.
+
+l) La gestión del registro general del Departamento y los servicios generales y de régimen interior, así como la gestión de los servicios técnicos, de seguridad, de reprografía y la asistencia a las unidades de protocolo y de comunicación del Ministerio en la preparación y celebración de actos oficiales.
+
+m) La dirección, organización y gestión de bibliotecas, archivos y servicios de documentación del Departamento.
+
+n) La colaboración con las Secretarías de Estado en la programación económica y presupuestaria relativa a los proyectos de inversión y a las medidas del Plan de Recuperación, Transformación y Resiliencia, del ámbito del Ministerio para la Transformación Digital y de la Función Pública.
+
+ñ) La coordinación y seguimiento de la ejecución de las inversiones y reformas del Plan de Recuperación, Transformación y Resiliencia que correspondan al Ministerio para la Transformación Digital y de la Función Pública, incluyendo el seguimiento y detección de desviaciones respecto al cumplimiento de hitos y objetivos y de los principios transversales definidos en el artículo 2 de la Orden HFP/1030/2021, de 29 de septiembre, por la que se configura el sistema de gestión del Plan de Recuperación, Transformación y Resiliencia.
+
+o) La realización de informes de seguimiento de hitos y objetivos y cumplimiento de principios transversales, e informes en relación con la gestión económico-financiera de la aplicación de fondos europeos, asociados al Plan de Recuperación, Transformación y Resiliencia en los ámbitos propios del Ministerio.
+
+p) El seguimiento de la aplicación de medidas correctoras por parte de los órganos responsables de las medidas, en caso de desviaciones respecto al cumplimiento de hitos y objetivos y el cumplimiento de principios transversales.
+
+q) Punto de contacto con la Secretaría General de Fondos Europeos para el seguimiento de las medidas del Plan de Recuperación, Transformación y Resiliencia que correspondan al Ministerio para la Transformación Digital y de la Función Pública.
+
+r) La interlocución con otros Departamentos y con las Secretarías de Estado del Ministerio en relación con el seguimiento del Plan de Recuperación, Transformación y Resiliencia.
+
+s) La elaboración, firma y tramitación del Informe de gestión de los componentes de los cuales es responsable el Ministerio.
+
+t) La revisión de los informes de previsiones firmados por los órganos responsables de las medidas, identificación de riesgos de incumplimiento, desviaciones respecto a la planificación y seguimiento de la ejecución de las acciones correctivas por parte de los órganos responsables de la medida.
+
+u) La elaboración del Plan Estratégico de Subvenciones.
+
+v) La planificación, dirección, diseño, desarrollo, implantación, explotación y seguimiento de los sistemas e infraestructuras de redes, equipamientos y servicios de información y comunicaciones de información y telecomunicaciones necesarios para el funcionamiento del Departamento y para garantizar su interoperabilidad con servicios comunes, seguridad y calidad, sin perjuicio de las competencias atribuidas a otras unidades.
+
+w) La gobernanza de los contenidos digitales en la intranet y en el portal de internet del Departamento, así como la gestión de la sede electrónica, el portal de internet y la intranet y la incorporación de contenidos en estos.
+
+x) La provisión, gestión y administración de equipos y recursos informáticos y de comunicaciones, su inventario, y la implantación de medidas de seguridad informática del Departamento, así como el apoyo de medios tecnológicos en la preparación y celebración de actos oficiales.
+
+y) El establecimiento y mantenimiento de la infraestructura corporativa de tecnologías de la información y comunicaciones corporativa.
+
+z) El impulso de la transformación digital y la innovación en el departamento, así como el impulso de la consolidación de los recursos técnicos y materiales, especialmente en lo relativo al uso de los servicios comunes, en el ejercicio de sus funciones, así como la coordinación en materia de servicios de tecnología de la información y las comunicaciones con la Agencia Española de Administración Digital.
+
+4\. De la Subsecretaría para la Transformación Digital y de la Función Pública depende directamente, con rango de dirección general, la Secretaría General Técnica, que ejerce las funciones que se establecen en el artículo 14.
+
+5\. Asimismo, de la persona titular de la Subsecretaría dependen directamente las siguientes unidades con nivel orgánico de subdirección general:
+
+a) La Subdirección General de Gestión Económica y Oficina Presupuestaria, que ejercerá las funciones señaladas en las letras a), b) y c) del apartado 3 y, en particular, las que se recogen en el Real Decreto 2855/1979, de 21 de diciembre, por el que se crean Oficinas Presupuestarias.
+
+b) La Subdirección General de Recursos Humanos e Inspección de Servicios, que ejercerá las funciones señaladas en las letras d), e), f) y g) del apartado 3.
+
+c) La Subdirección General de Servicios y Coordinación, que ejercerá las funciones previstas en las letras h), i), j), k), l, y m) del apartado 3.
+
+d) La Subdirección General de Coordinación y Seguimiento de fondos europeos, que ejercerá las funciones previstas en el párrafo n), ñ), o), p), q), r), s) y t) del apartado 1.
+
+6\. Dependiendo directamente de la Subsecretaría, y como órgano de apoyo y asistencia inmediata de su titular, existe un Gabinete Técnico con nivel de subdirección general.
+
+De igual modo, de la persona titular de la Subsecretaría depende directamente la División de Tecnologías de la Información y de las Comunicaciones, que ejercerá las funciones señaladas en las letras v), w), x) y) z) del apartado 3.
+
+7\. Asimismo, están adscritos a la Subsecretaría, con las funciones que les atribuyen sus normas específicas, y sin perjuicio de su dependencia de los Ministerios de Presidencia, Justicia y Relaciones con las Cortes y de Hacienda, los siguientes órganos con rango de subdirección general:
+
+a) La Abogacía del Estado del Departamento, en la que se integran orgánicamente las que asumen el asesoramiento jurídico de la Secretaría de Estado de Digitalización e Inteligencia Artificial, la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales y la Secretaría de Estado de Función Pública.
+
+b) La Intervención Delegada de la Intervención General de la Administración del Estado, dirigida por un Interventor Delegado Jefe, que se estructura en tres áreas: de Fiscalización, de Auditoría y de Contabilidad, las dos primeras con rango de subdirección general.
+
+> Se modifican los apartados 3 y 6 por la disposición final 1 a 3 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 14. Secretaría General Técnica.
+
+1\. La Secretaría General Técnica del Ministerio para la Transformación Digital y de la Función Pública, bajo la inmediata dependencia de la persona titular de la Subsecretaría del Departamento, ejerce las funciones que le atribuye el artículo 65 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y específicamente, las siguientes:
+
+a) La prestación de asistencia técnica, jurídica y administrativa a la persona titular del Ministerio y demás altos cargos del Departamento.
+
+b) La preparación de documentación, y el examen e informe, así como la tramitación y coordinación, de las actuaciones relativas a los asuntos que se sometan al Consejo de Ministros, a las Comisiones Delegadas del Gobierno y a la Comisión General de Secretarios de Estado y Subsecretarios.
+
+c) La coordinación de las propuestas del Departamento para su inclusión en el Plan Anual Normativo de la Administración General del Estado, y en el informe anual de evaluación normativa, así como del cumplimiento de dicho Plan.
+
+d) La elaboración del programa editorial del Departamento y la gestión, en coordinación con los organismos adscritos al Ministerio, de la edición, distribución y venta, en su caso, de las publicaciones oficiales, así como las funciones que, en conexión con el proceso editorial, le atribuye la normativa específica sobre la materia.
+
+e) La coordinación de toda la actividad de estudio e investigación del Departamento y, en particular, coordinar la elaboración del programa de estudios y la difusión de los estudios realizados.
+
+f) La coordinación de la actividad normativa del Ministerio, la realización de los informes de los proyectos normativos que corresponda dictar o proponer al Departamento, así como de los proyectos de otros ministerios que afecten a las materias de competencia de este, y la tramitación y participación en la elaboración de los proyectos normativos a propuesta del Departamento.
+
+g) El seguimiento e informe de los actos y disposiciones de las comunidades autónomas y la tramitación de los convenios suscritos con ellas.
+
+h) La coordinación de la tramitación de proyectos de convenios entre el Departamento y cualesquiera otros sujetos de Derecho público o privado.
+
+i) El seguimiento y coordinación de las cuestiones prejudiciales y procedimientos contenciosos con la Unión Europea y de la transposición de directivas, así como el ejercicio, en coordinación con el Ministerio de Asuntos Exteriores, Unión Europea y Cooperación, del resto de las competencias en relación con la Unión Europea y con los organismos internacionales en las materias propias del departamento no expresamente asignadas a otros órganos directivos.
+
+j) La tramitación y propuesta de resolución de los recursos administrativos interpuestos contra los actos dictados por las autoridades del Departamento, la tramitación y propuesta de resolución de los procedimientos de responsabilidad patrimonial, de declaración de lesividad y de las revisiones de oficio.
+
+k) Las relaciones del Departamento con la Administración de Justicia.
+
+2\. La Secretaría General Técnica se estructura en las siguientes Subdirecciones Generales:
+
+a) La Vicesecretaría General Técnica, que ejercerá las funciones señaladas en las letras a), b), c), d) y e) del apartado 1.
+
+b) La Subdirección General de Coordinación Jurídica, que ejerce las funciones señaladas en las letras f), g), h) e i) del apartado 1.
+
+c) La Subdirección General de Recursos y Relaciones con la Administración de Justicia, que ejerce las funciones señaladas en las letras j) y k) del apartado 1.
+
+## Disposición adicional primera. Suplencia de las personas titulares de órganos directivos.
+
+En los casos de vacante, ausencia o enfermedad de un órgano directivo y, en defecto de designación de suplente conforme a lo previsto en el artículo 13 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la suplencia se realizará de la siguiente manera:
+
+a) La persona titular de la Subsecretaría para la Transformación Digital y de la Función Pública será sustituida por la persona titular de la Secretaría General Técnica, salvo que la persona superior jerárquica establezca expresamente otro orden de sustitución.
+
+b) Las personas titulares de las Direcciones Generales y de la Secretaría General Técnica serán sustituidas por las personas titulares de las Subdirecciones Generales de su dependencia, siguiendo el orden en el que aparecen mencionados por primera vez en este real decreto, salvo que la persona superior jerárquica común a todos ellos establezca expresamente otro orden de sustitución.
+
+> Téngase en cuenta que esta última actualización, establecida por la disposición final 3.9 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929), entra en vigor cuando se produzca la constitución efectiva de la Agencia Estatal de Administración Digital y la consiguiente supresión de la Secretaría General de Administración Digital, según determina su disposición final 6.
+
+> Se modifica por la disposición final 3.9 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929)
+
+> Esta modificación entra en vigor cuando se produzca la constitución efectiva de la Agencia Estatal de Administración Digital y la consiguiente supresión de la Secretaría General de Administración Digital, según establece la disposición final 6 del citado Real Decreto.
+
+## Disposición adicional segunda. Delegación de competencias.
+
+Las delegaciones de competencias otorgadas en el ámbito de actuación material que corresponde al Ministerio para la Transformación Digital y de la Función Pública por los distintos órganos superiores y directivos afectados por este Real Decreto y por el Real Decreto 829/2023, de 20 de noviembre, por el que se reestructuran los departamentos ministeriales y el Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales, continuarán siendo válidas y eficaces hasta que sean expresamente revocadas o nuevamente otorgadas, en los términos previstos en la Orden ETD/1218/2021, de 25 de octubre, sobre fijación de límites para la administración de determinados créditos para gastos y de delegación de competencias, así como en la Orden HFP/1500/2021, de 29 de diciembre, de delegación de competencias y por la que se fijan los límites de las competencias de gestión presupuestaria y concesión de subvenciones y ayudas de los titulares de las Secretarías de Estado.
+
+Las referencias realizadas a la Comisión Interministerial de Retribuciones y a su Comisión Ejecutiva se entenderán realizadas a la Secretaría de Estado de Función Pública y a la Dirección General de la Función Pública, respectivamente, cuando afecten a los organismos y entidades enumeradas en el artículo 10.1.a).
+
+Cuando las delegaciones de competencias que mantienen sus efectos en virtud del párrafo anterior se hubiesen efectuado en favor de órganos suprimidos por alguno de los reales decretos citados, las referidas delegaciones se entenderán otorgadas a favor de los órganos en cuyo ámbito de actuación se encuadre la correspondiente competencia, en los términos previstos en las citadas órdenes.
+
+> Se modifica el primer párrafo por la disposición final 4.4 del Real Decreto 246/2024, de 8 de marzo. [Ref. BOE-A-2024-4616](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-4616)
+
+## Disposición adicional tercera. Supresión de órganos.
+
+1\. Se suprimen los siguientes órganos:
+
+a) La Subdirección General de Economía del Dato y Digitalización.
+
+b) El Comisionado Especial para la Alianza por la Nueva Economía de la Lengua.
+
+c) La Oficina del Comisionado especial para la Alianza por la Nueva Economía de la Lengua.
+
+d) La Dirección General de Ciudadanía y Gobierno Abierto.
+
+e) La Subdirección General de Gestión de Procedimientos de Personal.
+
+f) La Subdirección General de Consultoría, Asesoramiento y Asistencia de Recursos Humanos.
+
+g) La Subdirección General del Registro Central de Personal.
+
+h) La Subdirección General de la Inspección General de Servicios de la Administración General del Estado.
+
+i) La Subdirección General de Gobernanza en materia de Registros.
+
+j) División de la Oficina del Dato.
+
+k) División de Tecnologías de la Información.
+
+l) Unidad de Instrucción de los expedientes disciplinarios de los funcionarios de la Administración Local con habilitación de carácter nacional.
+
+m) La Secretaría General de Administración Digital.
+
+n) El Gabinete Técnico de la Secretaría General de Administración Digital.
+
+ñ) La Subdirección General de Planificación y Gobernanza de la Administración Digital.
+
+o) La Subdirección General de Impulso de la Digitalización de la Administración.
+
+p) La Subdirección General de Infraestructuras y Operaciones.
+
+q) La Subdirección General de Servicios Digitales para la Gestión.
+
+r) La Subdirección General de Presupuestos y Contratación TIC.
+
+s) La División de Tecnologías de la Información y Comunicaciones del Ministerio para la Transformación Digital y de la Función Pública.
+
+t) La División de Planificación y Coordinación de Ciberseguridad.
+
+> Téngase en cuenta que esta última actualización del apartado 1, establecida por la disposición final 3.10 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929), entra en vigor cuando se produzca la constitución efectiva de la Agencia Estatal de Administración Digital y la consiguiente supresión de la Secretaría General de Administración Digital, según determina su disposición final 6.
+
+2\. Las referencias del ordenamiento jurídico a los órganos señalados en el apartado anterior se entenderán realizadas a los que, de acuerdo con este real decreto, asumen las correspondientes competencias.
+
+3\. Asimismo, las referencias contenidas en el ordenamiento jurídico a la Comisión Interministerial de Retribuciones y la Comisión Ejecutiva de la Comisión Interministerial de Retribuciones se entenderán realizadas, respectivamente, a la Secretaría de Estado de Función Pública y a la Dirección General de la Función Pública.
+
+> Se modifica el apartado 1 por la disposición final 3.10 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929)
+
+> Esta modificación entra en vigor cuando se produzca la constitución efectiva de la Agencia Estatal de Administración Digital y la consiguiente supresión de la Secretaría General de Administración Digital, según establece la disposición final 6 del citado Real Decreto.
+
+## Disposición adicional cuarta. Desconcentración.
+
+Corresponderá a la persona titular de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales el ejercicio de las competencias y funciones administrativas que, por la normativa vigente de rango reglamentario, se atribuyen a la persona titular del Ministerio para la Transformación Digital y de la Función Pública en materia de títulos habilitantes de telecomunicaciones, interconexión y numeración, gestión del dominio público radioeléctrico, control del cumplimiento de las obligaciones de servicio público de telecomunicaciones e imposición de sanciones en estas materias.
+
+> Se modifica por el art. 1.9 del Real Decreto 1185/2024, de 28 de noviembre. [Ref. BOE-A-2024-24853](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-24853)
+
+## Disposición adicional quinta. Revisión de la clasificación de las entidades del sector público empresarial y fundacional de carácter tecnológico y científico.
+
+En el plazo de seis meses desde la entrada en vigor del presente real decreto se procederá a la revisión de la clasificación de los entes del sector público fundacional y empresarial del ámbito científico y tecnológico, a propuesta motivada del Ministerio para la Transformación Digital y de la Función Pública y evaluada por los ministerios de Hacienda y de Economía, Comercio y Empresa.
+
+## Disposición adicional sexta. Modificaciones presupuestarias.
+
+Por el Ministerio de Hacienda se efectuarán las modificaciones presupuestarias precisas para el cumplimiento de lo previsto en este Real Decreto.
+
+## Disposición transitoria primera. Unidades y puestos de trabajo con nivel orgánico inferior a subdirección general.
+
+1\. Las unidades y puestos de trabajo con nivel orgánico inferior al de subdirección general, encuadrados en los órganos afectados por las modificaciones orgánicas establecidas en este Real Decreto, continuarán subsistentes y serán retribuidos con cargo a los mismos créditos presupuestarios.
+
+2\. Hasta que se apruebe la nueva relación de puestos de trabajo, las unidades y puestos de trabajo encuadrados en los órganos suprimidos por este Real Decreto se adscribirán provisionalmente, a los órganos regulados en este Real Decreto en función de las atribuciones que tengan asignadas.
+
+## Disposición transitoria segunda. Gestión temporal de medios y servicios.
+
+1\. Por resolución conjunta de la Subsecretaría de Economía, Comercio y Empresa y de la Subsecretaría de Transformación Digital y de la Función Pública; y de esta última y de la Subsecretaría de Hacienda se realizará la integración efectiva de los créditos presupuestarios y de los medios materiales, y se definirán, en su caso los términos en los que se prestarán los servicios comunes de estos ministerios.
+
+2\. Por resolución conjunta de las Subsecretarías de Economía, Comercio y Empresa y de Transformación Digital y de la Función Pública se arbitrarán las medidas precisas para asignar a la Secretaría de Estado de Economía y Apoyo a la Empresa los créditos presupuestarios y medios materiales adscritos a la Secretaría de Estado de Función Pública para el ejercicio de las funciones relativas al Instituto para la Evaluación de Políticas Públicas.
+
+## Disposición transitoria tercera. Órganos de asistencia en la contratación.
+
+Sin perjuicio de lo establecido en la disposición transitoria primera acerca de la subsistencia de unidades y puestos de trabajo, y hasta tanto se creen los órganos de contratación y asistencia de conformidad con lo dispuesto en los artículos 323 y 326 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, adaptados a la estructura establecida en el presente Real Decreto, mantendrán su composición y continuarán desempeñando sus funciones aquellos que venían ejerciéndolas en relación con las materias propias de este Departamento.
+
+## Disposición transitoria cuarta. Comisión Interministerial de Retribuciones.
+
+Los expedientes ya presentados ante la Comisión Interministerial de Retribuciones y a su Comisión Ejecutiva continuarán tramitándose por las reglas en vigor en el momento de su presentación.
+
+Hasta tanto no se dicten nuevas reglas, a las que se refiere el párrafo tercero de esta disposición, por la Secretaría de Estado de Función Pública, los nuevos expedientes serán presentados ante la Dirección General de Función Pública, acompañados del documento de retención de crédito de capítulo 1 correspondiente al impacto de gasto presupuestario que suponga el mismo, se regirán por las reglas a que se refiere el párrafo anterior, y serán resueltos por la citada Dirección General.
+
+Una vez que se adopten las órdenes ministeriales contempladas en el artículo 107.4 del Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo, la Secretaría de Estado de Función Pública dictará nuevas reglas para la tramitación de los expedientes.
+
+## Disposición transitoria quinta. Prestación de servicios en materia de tecnologías de la información y comunicaciones a los servicios centrales del Ministerio de Política Territorial y Memoria Democrática.
+
+La Agencia Estatal de Administración Digital continuará colaborando con la Subsecretaría de Política Territorial y Memoria Democrática en la dirección, impulso y coordinación de la administración electrónica en el Departamento y en la provisión de servicios en materia de tecnologías de la información y comunicaciones, hasta tanto se firme la resolución conjunta entre la Subsecretaría del Ministerio para la Transformación Digital y de la Función Pública y la Subsecretaría del Ministerio de Política Territorial y Memoria Democrática por la que se efectúe la distribución de medios materiales y presupuestarios.
+
+> Téngase en cuenta que esta última actualización, establecida por la disposición final 3.11 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929), entra en vigor cuando se produzca la constitución efectiva de la Agencia Estatal de Administración Digital y la consiguiente supresión de la Secretaría General de Administración Digital, según determina su disposición final 6.
+
+> Se modifica por la disposición final 3.11 del Real Decreto 1118/2024, de 5 de noviembre. [Ref. BOE-A-2024-22929](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22929)
+
+> Esta modificación entra en vigor cuando se produzca la constitución efectiva de la Agencia Estatal de Administración Digital y la consiguiente supresión de la Secretaría General de Administración Digital, según establece la disposición final 6 del citado Real Decreto.
+
+## Disposición transitoria sexta. Referencias a la Agencia Estatal de Administración Digital.
+
+Las referencias a la Agencia Estatal de Administración Digital contenidas en este real decreto se entenderán hechas a la Secretaría General de Administración Digital hasta que se produzca la constitución efectiva de la Agencia de acuerdo con lo previsto en la disposición adicional primera del Real Decreto 1118/2024, de 5 de noviembre, por el que se aprueba el Estatuto de la Agencia Estatal de Administración Digital.
+
+> Se añade por el art. 1.10 del Real Decreto 1185/2024, de 28 de noviembre. [Ref. BOE-A-2024-24853](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-24853)
+
+## Disposición derogatoria única. Derogación normativa.
+
+1\. Quedan derogados, en lo que se oponga a este Real Decreto, el Real Decreto 403/2020, de 25 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Asuntos Económicos y Transformación Digital, así como el Real Decreto 682/2021, de 3 de agosto, por el que se desarrolla la estructura orgánica básica del Ministerio de Hacienda y Función Pública.
+
+2\. Queda derogado el Real Decreto 469/1987, de 3 de abril, por el que se articulan las competencias conjuntas atribuidas al Ministerio para las Administraciones Públicas y al Ministerio de Economía y Hacienda, en la Ley 21/1986, de 23 de diciembre, de Presupuestos Generales del Estado para 1987.
+
+3\. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este Real Decreto.
+
+## Disposición final primera. Modificación del Real Decreto 349/2001, de 4 de abril, por el que se regula la composición y funciones de la Comisión Superior de Personal.
+
+Se añade una letra j) al artículo 2, con la siguiente redacción:
+
+> «j) Adoptar las medidas de coordinación necesarias para asegurar un enfoque coherente de la planificación de recursos humanos de ámbito general, específica y de reestructuración sobre la base de instrumentos comunes.»
+
+## Disposición final segunda. Modificación del Real Decreto 403/2020, de 25 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Asuntos Económicos y Transformación Digital.
+
+Se modifica el artículo 5, añadiendo un apartado 3 con la siguiente redacción:
+
+> «3. Se adscribe a la Dirección General de Política Económica, con nivel orgánico de Subdirección General, el Instituto para la Evaluación de Políticas Públicas, al que le corresponde en el ámbito de la Administración General del Estado y sus organismos públicos:
+
+> a) La evaluación de las políticas públicas y de los planes y programas cuya evaluación se le encomiende, en coordinación con los departamentos ministeriales.
+
+> b) El fomento de la cultura de evaluación de las políticas públicas.
+
+> c) La formulación y difusión de metodologías de evaluación.
+
+> d) El fomento de la formación de las empleadas y empleados públicos en esta materia, en coordinación con el organismo autónomo Instituto Nacional de Administración Pública.
+
+> e) El apoyo instrumental necesario para realizar los análisis que requieran los procesos de modernización o planificación que se impulsen desde la Secretaría de Estado de Función Pública.»
+
+## Disposición final tercera. Modificación del Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales.
+
+Uno. Se modifica el artículo 21, que queda redactado como sigue:
+
+> «El Ministerio para la Transformación Digital y de la Función Pública se estructura en los siguientes órganos superiores y directivos:
+
+> A) La Secretaría de Estado de Digitalización e Inteligencia Artificial, de la que depende la Dirección General de Digitalización e Inteligencia Artificial, la Dirección General del Dato y la Dirección General de Planificación Estratégica en Tecnologías Digitales Avanzadas y Nueva Economía de la Lengua.
+
+> B) La Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, de la que depende la Secretaría General de Telecomunicaciones y Ordenación de los Servicios de Comunicación Audiovisual.
+
+> C) La Secretaría de Estado de Función Pública, de la que dependen la Secretaría General de Administración Digital, la Dirección General de Función Pública, con rango de subsecretaría, y la Dirección General de Gobernanza Pública. Asimismo, depende de esta Secretaría de Estado la Oficina de Conflictos de Intereses, con rango de Dirección General.
+
+> D) La Subsecretaría para la Transformación Digital y de la Función Pública, de la que depende la Secretaría General Técnica.»
+
+Dos. Se modifica la disposición transitoria tercera, que pasa a tener la siguiente redacción:
+
+> «Los servicios comunes de los ministerios en los que se hayan producido transferencias de actividad a otros departamentos ministeriales seguirán prestando dichos servicios a los Ministerios a los que correspondan dichas áreas de actividad hasta tanto se desarrolle la estructura orgánica básica de los ministerios y se establezca la distribución de efectivos mediante acuerdo de los ministerios afectados por la reestructuración y, en su defecto, Resolución de la Secretaría de Estado de Función Pública con arreglo a lo previsto por el Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado.»
+
+## Disposición final cuarta. Mandato para la modificación del Real Decreto 451/2012 por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades.
+
+En el plazo de seis meses desde la entrada en vigor del presente real decreto se procederá a la modificación del Real Decreto 451/2012 por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades con el fin de promover la competitividad y la captación y retención del talento en sectores estratégicos.
+
+## Disposición final quinta. Facultades de desarrollo normativo.
+
+Se autoriza a la persona titular del Ministerio para la Transformación Digital y de la Función Pública para que adopte las disposiciones necesarias para el desarrollo y ejecución de este Real Decreto.
+
+## Disposición final sexta. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 27 de febrero de 2024.
+
+FELIPE R.
+
+El Ministro para la Transformación Digital<br> y de la Función Pública,
+
+JOSÉ LUIS ESCRIVÁ BELMONTE

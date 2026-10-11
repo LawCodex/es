@@ -1,0 +1,55 @@
+---
+title: "Orden de 10 de octubre de 1989 sobre el Registro de los edulcorantes artificiales destinados a la venta directa al consumidor final"
+identifier: "BOE-A-1989-26738"
+eli: "https://www.boe.es/eli/es/o/1989/10/10/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Consumo"
+date: 1989-10-10
+published: 1989-11-14
+in_force_from: 1989-12-04
+last_amended: 1996-01-12
+consolidated: 2026-02-03
+gazette: "Boletín Oficial del Estado núm. 273"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1989-26738"
+retrieved: 2026-10-11
+---
+
+# Orden de 10 de octubre de 1989 sobre el Registro de los edulcorantes artificiales destinados a la venta directa al consumidor final
+
+La Orden de 17 de septiembre de 1982 («Boletín Oficial del Estado» del 29), que desarrollaba el Real Decreto 2730/1981, de 19 de octubre («Boletín Oficial del Estado» de 25 de noviembre), sobre características y Registro de Especialidades Farmacéuticas Publicitarias, incluye diversos edulcorantes sintéticos o artificiales en el listado de principios activos susceptibles de ser empleados en las especialidades farmacéuticas publicitarias, con las limitaciones que en el mismo se establecen. La experiencia adquirida desde la publicación de la citada Orden en cuanto a los edulcorantes artificiales y la utilización generalizada que de ellos se hace, sin que su uso pueda considerarse como tratamiento terapéutico o alivio de síndrome o síntomas menores ni prevención de los mismos, aconsejan su exclusión del citado Registro.
+
+Por otra parte, los edulcorantes artificiales están contemplados como aditivos alimentarios en el punto 3.2.11 del artículo tercero de la Reglamentación Técnico-Sanitaria de Aditivos Alimentarios, aprobada por Real Decreto 3177/1983, de 16 de noviembre («Boletín Oficial del Estado» de 28 de diciembre), habiéndose asignado a varios de ellos los correspondientes números de identificación por Orden de este Ministerio de 23 de julio de 1987 («Boletín Oficial del Estado», de 4 de agosto).
+
+La presente Orden, que se dicta al amparo de lo dispuesto en el artículo 40, apartados 4 y 5, de la Ley 14/1986, de 25 de abril, General de Sanidad, tiene carácter de norma básica, dado que la reglamentación de medicamentos y la autorización o prohibición del uso de aditivos alimentarios, con carácter uniforme para todo el territorio nacional, viene exigida, entre otros, por los principios de «unidad del sistema sanitario» y de «garantía de igualdad de todos los españoles en su derecho a la salud».
+
+En su virtud, a propuesta de la Subsecretaria de Sanidad y Consumo, oídos los sectores afectados, he tenido a bien disponer:
+
+### Primero.
+
+Los edulcorantes sintéticos o artificiales quedan excluidos como principios activos de especialidades farmacéuticas publicitarias.
+
+Se modifica el anexo de la Orden de 17 de septiembre de 1982 («Boletín Oficial del Estado» del 29), excluyendo de la misma la sacarina y el ciclamato.
+
+### Segundo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.3 del Real Decreto 2002/1995, de 7 de diciembre. [Ref. BOE-A-1996-767](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-767).
+
+## DISPOSICIÓN TRANSITORIA
+
+Las especialidades farmacéuticas en cuya composición figure algún edulcorante artificial y cuya indicación fundamental sea la de edulcorante, que estén actualmente inscritas en el Registro de Especialidades Farmacéuticas Publicitarias, podrán seguir comercializándose corno tales durante el plazo de un año, a contar desde la entrada en vigor de esta disposición.
+
+## DISPOSICIÓN ADICIONAL
+
+La regulación sobre edulcorantes artificiales o sintéticos contenida en la presente Orden tiene la condición de norma básica en el sentido previsto en el artículo 149.1.16.ª de la Constitución.
+
+Madrid, 10 de octubre de 1989.
+
+GARCIA VARGAS
+
+Ilmos. Sres. Directores generales de Salud Alimentaria y Protección de los Consumidores y de Farmacia y Productos Sanitarios.

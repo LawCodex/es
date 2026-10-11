@@ -1,0 +1,447 @@
+---
+title: "Real Decreto 63/2001, de 26 de enero, por el que se aprueba el Estatuto del organismo autónomo Instituto de Estudios Fiscales"
+identifier: "BOE-A-2001-1946"
+eli: "https://www.boe.es/eli/es/rd/2001/01/26/63"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2001-01-26
+published: 2001-01-27
+in_force_from: 2001-01-27
+last_amended: 2026-06-12
+consolidated: 2026-06-16
+gazette: "Boletín Oficial del Estado núm. 24"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-1946"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 63/2001, de 26 de enero, por el que se aprueba el Estatuto del organismo autónomo Instituto de Estudios Fiscales
+
+El artículo 51 de la Ley 14/2000, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, crea, con la denominación de Instituto de Estudios Fiscales, un organismo público con la naturaleza de organismo autónomo, de los previstos en los artículos 45 y siguientes de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+La significativa importancia alcanzada por el Instituto de Estudios Fiscales en la historia de la Hacienda Pública española, la calidad y cantidad de la formación que presta a los funcionarios y otro personal al servicio de la Administración financiera, su relevante función intelectual en el terreno de los estudios e investigaciones de política fiscal y derecho tributario, así como la proyección internacional de sus actuaciones, hacían aconsejable no sólo mantener estas actividades, sino reforzar las mismas, adecuándolas a las nuevas necesidades de la Administración financiera del Estado, por medio de un instrumento jurídico de actuación administrativa más flexible y dinámico como es la figura de un organismo autónomo.
+
+De esta forma, el Instituto de Estudios Fiscales podrá no sólo mantener su prestigio en el mundo profesional y académico, así como sus labores de cooperación con la política fiscal del Gobierno, sino que, utilizando los mecanismos incluidos en la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, podrá agilizar su estructura y funcionamiento, abriéndose a la sociedad civil y, en especial, a la Universidad y a otras entidades, públicas y privadas, interesadas en el análisis de la economía pública española e internacional.
+
+El presente Real Decreto pretende lograr estos objetivos, para lo cual en sus cuatro capítulos regula la estructura orgánica y funciones del organismo autónomo Instituto de Estudios Fiscales, potenciando las funciones de estudio y cooperación con otras entidades y regulando una organización que, sin aumento del gasto público, dé respuesta a las necesidades de reforma de las instituciones financieras y tributarias que la sociedad y la economía española reclaman.
+
+En su virtud, a iniciativa del Ministro de Hacienda, a propuesta conjunta de los Ministros de Administraciones Públicas y de Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 26 de enero de 2001,
+
+#### D I S P O N G O :
+
+##### Artículo único. Aprobación del Estatuto del organismo autónomo Instituto de Estudios Fiscales.
+
+Se aprueba el Estatuto del organismo autónomo Instituto de Estudios Fiscales, de acuerdo con lo dispuesto en el artículo 62.3 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, cuyo texto se inserta a continuación.
+
+##### Disposición adicional primera. Remisión normativa.
+
+1\. Todas las referencias que en la legislación vigente se efectúan a la Dirección General del Instituto de Estudios Fiscales, o a sus funciones y unidades, deben entenderse realizadas al organismo autónomo Instituto de Estudios Fiscales.
+
+2\. Todas las referencias en este real decreto al articulado de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, se entenderán hechas a los artículos y a la regulación correspondiente de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica por el art. 5.1 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Disposición adicional segunda. Subrogación en derechos y obligaciones.
+
+El organismo autónomo Instituto de Estudios Fiscales queda subrogado, sin solución de continuidad, en la totalidad de los bienes, derechos y obligaciones afectos o constitutivos en virtud de sus funciones, sin que la alteración administrativa producida tenga ningún efecto extintivo, novatorio o modificativo en las relaciones jurídicas, públicas o privadas, en que sea parte la institución.
+
+##### Disposición adicional tercera. Órganos extinguidos.
+
+La creación del organismo autónomo Instituto de Estudios Fiscales supone la supresión de los siguientes órganos directivos y asesor:
+
+a) Dirección General del Instituto de Estudios Fiscales.
+
+b) Subdirección General de Estudios del Gasto Público.
+
+c) Subdirección General de Formación de Personal Superior.
+
+d) Subdirección General de Formación de Personal.
+
+e) Subdirección General de Relaciones con otras Administradores Financieras.
+
+f) Secretaría General.
+
+g) Consejo Asesor.
+
+##### Disposición adicional cuarta. Repercusión presupuestaria.
+
+Las modificaciones y adaptaciones a las estructuras orgánicas que se disponen en el presente Real Decreto en ningún caso podrán suponer incremento alguno del gasto público.
+
+##### Disposición transitoria única. Unidades y puestos de trabajo de nivel orgánico inferior a Subdirección General.
+
+Las unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General continuarán subsistentes hasta que se aprueben las relaciones de puestos de trabajo adaptadas a la nueva estructura orgánica establecida en Estatuto.
+
+##### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas las disposiciones de igual o inferior rango que se opongan a lo dispuesto en el presente Real Decreto y, en particular, las que se indican a continuación:
+
+a) Artículos 2.2.e) y 7 del Real Decreto 1330/2000, de 7 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Hacienda.
+
+b) Artículo 2.1.e) del Real Decreto 689/2000, de 12 de mayo, por el que se establece la estructura orgánica básica de los Ministerios de Economía y de Hacienda.
+
+##### Disposición final primera. Autorización normativa.
+
+Se autoriza a los Ministros de Administraciones Públicas y de Hacienda para que, mediante Orden, en el ámbito de sus respectivas competencias, adopten las medidas necesarias para el desarrollo y ejecución del presente Real Decreto.
+
+##### Disposición final segunda. Modificaciones presupuestarias.
+
+Por el Ministro de Hacienda se realizarán las modificaciones presupuestarias precisas para dar cumplimiento a lo previsto en el presente Real Decreto.
+
+##### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día de su publicación en el "Boletín Oficial del Estado", con efectos a partir del día 1 de enero de 2001.
+
+Dado en Madrid a 26 de enero de 2001.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+MARIANO RAJOY BREY
+
+## ESTATUTO DEL INSTITUTO DE ESTUDIOS FISCALES
+
+## CAPÍTULO I — Disposiciones generales
+
+##### Artículo 1. Naturaleza jurídica y adscripción.
+
+1\. El Instituto de Estudios Fiscales es un organismo autónomo de los previstos en el capítulo II del Título III de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, adscrito al Ministerio de Hacienda, a través de la Secretaría de Estado de Hacienda.
+
+2\. Corresponde al Ministerio de Hacienda, a través de la Secretaría de Estado de Hacienda, la dirección estratégica, la evaluación y el control de los resultados de su actividad, sin perjuicio de las competencias atribuidas a la Intervención General de la Administración del Estado en cuanto a la evaluación y control de resultados de los organismos públicos integrantes del sector público estatal.
+
+##### Artículo 2. Régimen jurídico y autonomía de gestión.
+
+Como organismo autónomo tiene personalidad jurídica pública diferenciada, patrimonio y tesorería propios, así como autonomía de gestión, rigiéndose por lo establecido en la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, en el texto refundido de la Ley General Presupuestaria, aprobado por el Real Decreto legislativo 1091/1988, de 23 de septiembre ; en el artículo 51 de la Ley 14/2000, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, y en las demás disposiciones aplicables a los organismos autónomos de la Administración General del Estado, así como por el presente Real Decreto.
+
+## CAPÍTULO II — Objeto y funciones
+
+##### Artículo 3. Funciones.
+
+Corresponde al Instituto de Estudios Fiscales ejercer las siguientes:
+
+a) La investigación, estudio y asesoramiento económico y jurídico en las materias relativas a los ingresos y gastos públicos y su incidencia sobre el sistema económico y social, así como el análisis y explotación de las estadísticas tributarias.
+
+b) La elaboración de estudios e informes sobre el sistema de financiación de las comunidades autónomas de régimen común y sobre los regímenes de Concierto con la Comunidad Autónoma del País Vasco y Convenio con la Comunidad Foral de Navarra. La elaboración de estudios e informes sobre la financiación y el régimen presupuestario y financiero de las entidades locales.
+
+c) La realización de evaluaciones de políticas de ingreso y gasto público y de programas presupuestarios, tanto cuantitativas como cualitativas.
+
+d) La asistencia y colaboración con los órganos de la Administración encargados de convocar las pruebas de acceso para la selección de personal funcionario de Cuerpos adscritos a los Ministerios de Hacienda y de Asuntos Económicos y Transformación Digital con funciones de administración y gestión de la Hacienda Pública.
+
+e) La formación del personal funcionario y no funcionario en las materias específicas de la Hacienda Pública, incluyendo las técnicas de administración y gestión financiera y tributaria, de presupuestación y gasto público, así como las demás actividades formativas que le sean encomendadas, elaborando al efecto, en colaboración con los órganos directivos de los Departamentos y de acuerdo con sus necesidades, los correspondientes programas formativos a medio y largo plazo.
+
+f) El desarrollo de relaciones de coordinación y cooperación con otros centros, institutos, escuelas de Administración pública, Universidades, instituciones, organismos y otras Administraciones financieras, nacionales e internacionales, en materia de estudios e investigación sobre sistemas tributarios y gasto público o de formación y perfeccionamiento de personal con funciones administrativas en estas materias.
+
+g) Las de carácter común y de gestión de los recursos y medios asignados al organismo autónomo.
+
+h) La edición y difusión de las publicaciones oficiales relacionadas con la actividad propia del Instituto para el mejor cumplimiento de las competencias descritas en los párrafos a) a e) anteriores.
+
+i) Cualesquiera otras que le sean atribuidas por normas legales o reglamentarias.
+
+> Se modifica por la disposición final 1.1 del Real Decreto 689/2020, de 21 de julio. [Ref. BOE-A-2020-8298](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8298)
+
+## CAPÍTULO III — Organización general del organismo
+
+### Sección 1.ª Disposiciones generales
+
+##### Artículo 4. Órganos de gobierno y ejecutivos.
+
+1\. Los órganos de gobierno del organismo autónomo son, de acuerdo con lo dispuesto en el artículo 90 de la Ley 40/2015, de 1 de octubre, los siguientes:
+
+a) La Presidencia.
+
+b) El Consejo Rector.
+
+2\. El órgano ejecutivo es la Dirección General, de la que dependen los siguientes órganos directivos con nivel orgánico de Subdirección General:
+
+a) Dirección de la Escuela de la Hacienda Pública.
+
+b) Dirección de Estudios.
+
+c) Secretaría General.
+
+> Se modifica por el art. 5.2 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica el apartado 2 por la disposición final 4.1 del Real Decreto 256/2012, de 27 de enero. [Ref. BOE-A-2012-1312](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1312).
+
+> Se modifica por el art. 2.1 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+### Sección 2.ª Del Consejo Rector
+
+##### Artículo 5. Régimen jurídico del Consejo Rector.
+
+En el seno del Instituto de Estudios Fiscales existirá un Consejo Rector. El Consejo Rector es un órgano colegiado, cuyo régimen jurídico se ajusta a las normas contenidas en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica por el art. 5.3 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Artículo 6. Composición del Consejo Rector.
+
+1\. El Consejo Rector estará compuesto de la forma siguiente:
+
+a) Presidencia: El titular de la Secretaría de Estado de Hacienda.
+
+b) Vocales:
+
+1.º El titular de la Subsecretaría de Hacienda.
+
+2.º El titular de la Intervención General de la Administración del Estado.
+
+3.º El titular de la Dirección General de la Agencia Estatal de Administración Tributaria.
+
+4.º El titular de la Dirección General de Seguros y Fondos de Pensiones.
+
+5.º El titular de la Inspección General del Ministerio de Hacienda.
+
+6.º El titular de la Dirección General del organismo autónomo Instituto de Estudios Fiscales.
+
+Como Secretario del Consejo Rector, con voz y sin voto, actuará el titular de la Secretaría General.
+
+2\. La Presidencia podrá convocar a las reuniones del Consejo a los Subdirectores generales del Organismo que no sean miembros de este, los cuales asistirán con voz pero sin voto.
+
+> Se modifica por el art. 5.4 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica el apartado 1 por la disposición final 2.2 del Real Decreto 769/2017, de 28 de julio. [Ref. BOE-A-2017-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9012)
+
+> Se modifica el apartado 1 por la disposición final 4.2 del Real Decreto 256/2012, de 27 de enero. [Ref. BOE-A-2012-1312](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1312).
+
+> Se modifica el párrafo último del apartado 1 por el art. 2.2 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+##### Artículo 7. Funciones del Consejo Rector.
+
+Al Consejo Rector le corresponderá:
+
+1\. Plantear líneas estratégicas de actuación del organismo.
+
+2\. Prestar apoyo a las actividades formativas y de asistencia ejercidas por el Instituto.
+
+3\. Impulsar la investigación y difusión de publicaciones desarrolladas en el centro.
+
+4\. Promover la cooperación con otras entidades e instituciones.
+
+5\. Aprobar el anteproyecto de presupuestos y las cuentas anuales del organismo.
+
+6\. Aprobar las propuestas de planes de actuación a los que se refiere el artículo 85 de la Ley 40/2015 de 1 de octubre.
+
+7\. Ejercer las restantes atribuciones que le confieren el ordenamiento jurídico.
+
+> Se añaden los apartados 5 y 6 y se renumera el actual apartado 5 como 7 por el art. 5.5 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+### Sección 3.ª Del Director general
+
+##### Artículo 8. Nombramiento y cese.
+
+El Director general del organismo autónomo Instituto de Estudios Fiscales tendrá el nivel orgánico de Director general y será nombrado y separado mediante Real Decreto acordado en Consejo de Ministros, a propuesta del Ministro de Hacienda.
+
+En caso de ausencia, vacante o enfermedad, el titular de la Dirección General será sustituido por el titular de la Dirección de la Escuela de la Hacienda Pública y, en su defecto, por el titular de la Secretaría General.
+
+> Se modifica el párrafo segundo por la disposición final 4.3 del Real Decreto 256/2012, de 27 de enero. [Ref. BOE-A-2012-1312](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1312).
+
+> Se modifica el párrafo segundo por el art. 2.3 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+##### Artículo 9. Funciones de la Dirección General.
+
+Corresponderá a la Dirección General:
+
+1\. Ostentar la representación ordinaria del organismo autónomo.
+
+2\. Elevar al Consejo Rector la propuesta de planes de actuación anuales y plurianuales del IEF y la propuesta de objetivos y de los indicadores para la medición de su cumplimiento.
+
+3\. Ejercer la dirección del organismo autónomo y de su personal, en los términos previstos en las disposiciones legales vigentes.
+
+4\. Elevar al Consejo Rector el anteproyecto de presupuestos y las cuentas anuales del organismo para su aprobación.
+
+5\. Elaborar las memorias anuales de actividades.
+
+6\. Celebrar toda clase de actos y contratos en nombre del Organismo autónomo. En todo caso, cuando dichos actos o contratos se celebren con una entidad nacional o internacional, cualquiera sea su naturaleza, que implique la participación del Organismo autónomo en actividades cuyo ámbito sea internacional, requerirá de su previa autorización por la Secretaría de Estado de Hacienda.
+
+7\. Ordenar los gastos y aprobar los pagos.
+
+8\. Desempeñar cuantas otras funciones se le atribuyan por norma legal o reglamentaria.
+
+> Se modifica por el art. 5.6 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica el apartado 6 por la disposición final 2.1 del Real Decreto 769/2017, de 28 de julio. [Ref. BOE-A-2017-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9012)
+
+##### Artículo 10. Fin de la vía administrativa.
+
+Ponen fin a la vía administrativa todos los actos, acuerdos y resoluciones de la persona titular de la Dirección General del Instituto de Estudios Fiscales, de conformidad con lo establecido en el artículo 114 de la Ley 39/2015, de 1 de octubre del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Contra los actos, acuerdos y resoluciones de la persona titular de la Dirección cabrá interponer recurso contencioso-administrativo, sin perjuicio del recurso potestativo de reposición previsto en la Ley 39/2015, de 1 de octubre.
+
+> Se modifica por el art. 5.7 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+### Sección 4.ª De la Comisión Asesora de Codificación de la Normativa Tributaria
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 2 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+### Sección 5.ª De la Comisión Asesora de Codificación de la Normativa Financiera y Presupuestaria
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 2 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+### Sección 6.ª De los otros órganos directivos
+
+##### Artículo 11. Órganos directivos.
+
+Como órganos responsables inmediatos dependientes del titular de la Dirección General, y con las competencias que se les asigna, existirán las siguientes unidades con el nivel orgánico de Subdirección General:
+
+a) Dirección de la Escuela de la Hacienda Pública.
+
+b) Dirección de Estudios.
+
+c) Secretaría General.
+
+> Se modifica la rúbrica por el art. 5.8 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica por la disposición final 4.3 del Real Decreto 256/2012, de 27 de enero. [Ref. BOE-A-2012-1312](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1312).
+
+> Se modifica por el art. 3.4 y 5 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+##### Artículo 12. Dirección de la Escuela de la Hacienda Pública.
+
+La Dirección de la Escuela de la Hacienda Pública ejercerá, en apoyo a la persona titular de la Dirección General, la dirección e impulso de las funciones establecidas en los párrafos d) y e) del artículo 3 del presente Estatuto y la parte de formación recogida en el párrafo f) del mismo artículo. Asimismo, se encargará del desarrollo de la formación a distancia, a través del Campus Virtual.
+
+> Se modifica por la disposición final 1.2 del Real Decreto 689/2020, de 21 de julio. [Ref. BOE-A-2020-8298](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8298)
+
+> Se modifica por la disposición final 4.5 del Real Decreto 256/2012, de 27 de enero. [Ref. BOE-A-2012-1312](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1312).
+
+> Se modifica por el art. 2.4 y 6 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+##### Artículo 13. Dirección de Estudios. Funciones.
+
+La Dirección de Estudios ejercerá, en apoyo a la persona titular de la Dirección General y en relación con el sistema tributario y con las materias financieras, presupuestarias y de gasto público, la dirección e impulso de las funciones señaladas en los párrafos a), b) y c) del artículo 3 del presente Estatuto y la coordinación y cooperación nacional e internacional en materia de estudios e investigación. Asimismo, le corresponderá la edición y difusión de las publicaciones oficiales relacionadas con la actividad propia del Instituto para el mejor cumplimiento de las competencias y funciones asignadas al mismo.
+
+> Se modifica por la disposición final 1.3 del Real Decreto 689/2020, de 21 de julio. [Ref. BOE-A-2020-8298](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8298)
+
+> Se modifica por el art. 2.4 y 7 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+##### Artículo 14. Secretaría General.
+
+La Secretaría General ejercerá las funciones de gestión de recursos humanos; elaboración, seguimiento y ejecución del presupuesto; gestión financiera de ingresos y gastos, de tesorería, contabilidad y elaboración de cuentas anuales; gestión de los expedientes de contratación, subvenciones y convenios; asistencia jurídica y resolución de recursos y reclamaciones; administración, protección y conservación de sus bienes patrimoniales; gestión de las nuevas tecnologías y de las comunicaciones; dirección de la Biblioteca del organismo y gestión de fondos bibliográficos; políticas de calidad, responsabilidad social, transparencia y protección de datos.
+
+> Se modifica por el art. 5.9 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica por el art. 2. 4 y 8 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+### Sección 7.ª Estructura territorial
+
+##### Artículo 15. Actividad territorial.
+
+El Instituto de Estudios Fiscales tiene su sede en Madrid, pero podrá desarrollar sus actividades de forma descentralizada en otras localidades, a través de actuaciones específicas o por medio de la colaboración, convenio o cooperación con otras Instituciones o Entidades públicas o privadas, y, singularmente, con las Delegaciones de Economía y Hacienda.
+
+> Se modifica por el art. 2.4 y 9 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+## CAPÍTULO IV — Régimen económico-financiero, patrimonial, de contratación y de personal
+
+##### Artículo 16. Patrimonio y recursos económicos.
+
+Los bienes y medios económicos del Instituto de Estudios Fiscales serán los siguientes:
+
+a) Los bienes y valores que constituyen su patrimonio.
+
+b) Los productos y rentas de dicho patrimonio.
+
+c) Las consignaciones específicas que tuviera asignadas en los Presupuestos Generales del Estado.
+
+d) Las transferencias corrientes o de capital que procedan de las Administraciones o entidades públicas.
+
+e) Los ingresos ordinarios y extraordinarios que esté autorizado a percibir como consecuencia de sus actividades de gestión o explotación.
+
+f) Las donaciones, herencias y legados y otras aportaciones de entidades privadas y de particulares.
+
+g) Los ingresos por actividades formativas, de investigación, de edición y publicación, así como por otras prestaciones de servicios que, conforme a sus funciones pueda prestar.
+
+h) Cualesquiera otros recursos que pudieran serle atribuidos.
+
+> Se modifica por el art. 2.4 y 10 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+> Su anterior numeración era art. 25.
+
+##### Artículo 17. Régimen de contratación y de control de eficacia y supervisión continua.
+
+El organismo autónomo Instituto de Estudios Fiscales se regirá por el régimen jurídico aplicable para la contratación de bienes y servicios establecido para las administraciones públicas en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, y su normativa de desarrollo.
+
+El organismo autónomo estará sometido al control de eficacia que será ejercido por el Ministerio de Hacienda, a través de la Inspección General de dicho ministerio en los términos establecidos en el artículo 85 de la Ley 40/2015, de 1 de octubre. Asimismo, el organismo estará sometido a la supervisión continua del Ministerio de Hacienda, a través de la Intervención General de la Administración del Estado, conforme a lo dispuesto en el artículo 85.3 de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica por el art. 5.10 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica por el art. 2.10 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+> Su anterior numeración era art. 26.
+
+##### Artículo 18. Régimen económico-financiero.
+
+El régimen presupuestario, económico-financiero, de intervención, control financiero y contabilidad será el establecido en el texto refundido de la Ley General Presupuestaria, aprobado por el Real Decreto Legislativo 1091/1988, de 23 de septiembre, y demás normas de desarrollo.
+
+El organismo autónomo estará sometido al control interno de su gestión económico-financiera a realizar por la Intervención Delegada, adscrita a la Dirección del mismo, sin perjuicio de su dependencia funcional de la Intervención General de la Administración del Estado y, cuyo nivel orgánico se determinará en la correspondiente relación de puestos de trabajo, que existirá en el organismo.
+
+> Se modifica por el art. 2.10 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+> Su anterior numeración era art. 27.
+
+##### Artículo 19. Régimen del personal.
+
+El personal funcionario o laboral del Instituto de Estudios Fiscales se regirá por la normativa sobre función pública y legislación laboral aplicables al resto del personal de la Administración General del Estado.
+
+> Se modifica por el art. 2.10 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+> Su anterior numeración era art. 28.
+
+##### Artículo 20. Subdirección General de Formación de Personal de Gestión de los Ministerios de Hacienda y de Economía. Funciones.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 2 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+##### Artículo 21. Subdirección General de Estudios Tributarios. Funciones.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 2 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+##### Artículo 22. Subdirección General de Estudios Presupuestarios y de Gasto Público. Funciones.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 2 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+##### Artículo 23. Subdirección General de Organización, Planificación y Gestión de Recursos. Funciones.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 2 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+##### Artículo 24. Estructura territorial.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 2 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+##### Artículo 25. Patrimonio y recursos económicos.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 2 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+##### Artículo 26. Régimen de contratación y de inspección.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 2 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+##### Artículo 27. Régimen económico-financiero.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 2 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).
+
+##### Artículo 28. Régimen del personal.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 2 del Real Decreto 352/2011, de 11 de marzo. [Ref. BOE-A-2011-4556](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4556).

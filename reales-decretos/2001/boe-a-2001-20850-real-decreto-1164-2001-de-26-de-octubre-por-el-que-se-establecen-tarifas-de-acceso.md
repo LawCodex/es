@@ -1,0 +1,341 @@
+---
+title: "Real Decreto 1164/2001, de 26 de octubre, por el que se establecen tarifas de acceso a las redes de transporte y distribución de energía eléctrica"
+identifier: "BOE-A-2001-20850"
+eli: "https://www.boe.es/eli/es/rd/2001/10/26/1164"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía"
+date: 2001-10-26
+published: 2001-11-08
+in_force_from: 2001-11-09
+last_amended: 2026-02-12
+consolidated: 2026-02-13
+gazette: "Boletín Oficial del Estado núm. 268"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-20850"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1164/2001, de 26 de octubre, por el que se establecen tarifas de acceso a las redes de transporte y distribución de energía eléctrica
+
+Incluye la corrección de errores publicada en BOE núm. 16, de 18 de enero de 2002. [Ref. BOE-A-2002-1044](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-1044)
+
+La Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, establece en su artículo 18 lo siguiente:
+
+«1. Los peajes correspondientes al uso de las redes de transporte serán únicos sin perjuicio de sus especialidades por niveles de tensión y uso que se haga de la red.
+
+2\. Los peajes correspondientes al uso de las redes de distribución serán únicos y se determinarán atendiendo a los niveles de tensión y a las características de los consumos indicados por horario y potencia.
+
+3\. Los peajes de transporte y distribución serán aprobados por el Gobierno en la forma que reglamentariamente se determine y tendrán el carácter de máximos.»
+
+Asimismo, la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, establece, en su artículo 19.1, que «los consumidores cualificados deberán abonar, además de los costes derivados de las actividades necesarias para el suministro de energía eléctrica, los costes permanentes del sistema y los costes de diversificación y seguridad de abastecimiento en la proporción que les corresponda».
+
+Por Real Decreto 2016/1997, de 26 de diciembre, por el que se establece la tarifa eléctrica para 1998, se regularon por primera vez los peajes o tarifas de acceso, con objeto de permitir la adquisición de energía mediante la libre contratación para aquellos consumidores que el 1 de enero de 1998 tenían la condición de cualificados. Estas tarifas de acceso mantuvieron su estructura en línea con el régimen de las tarifas integrales existentes, aprobando, por tanto, sólo sus precios correspondientes, que incluían la cuantía de los costes que requieren las actividades de transporte y distribución, evitando con ello provocar cualquier distorsión en la retribución de estas actividades.
+
+El adelanto del calendario de liberalización del suministro que se inició en 1999, así como la experiencia del primer año de funcionamiento del nuevo modelo que estableció la Ley del sector Eléctrico, aconsejaron, por una parte, establecer una nueva estructura de tarifas de acceso teniendo en cuenta el colectivo de consumidores cualificados que estaba previsto que adquirieran dicha condición a lo largo de 1999 y, por otra, regular no sólo los precios, sino también las condiciones de aplicación en un único texto, que permitía clarificar la aplicación de las mismas.
+
+Así, por Real Decreto 2820/1998, de 23 de diciembre, por el que se establecen las tarifas de acceso, se fijan unas tarifas para alta tensión con una estructura binomia, formadas por un término fijo y otro variable en cada uno de los seis períodos tarifarios en que se dividen las 8.760 horas del año, que incluyen para cada uno de ellos todos los componentes del precio.
+
+Esta nueva estructura permitió facilitar la aplicación de las tarifas de acceso a los grandes consumidores, estando en línea con la estructura de precios y medidas que requiere el mercado de producción para la compra de energía. Para los clientes de baja tensión, se mantuvo la estructura de las tarifas y precios existente.
+
+El Real Decreto-ley 6/2000, de 23 de junio, de Medidas urgentes de intensificación de la competencia en mercados de bienes y servicios, efectúa un nuevo adelanto del calendario de liberalización del suministro, de tal forma que, a partir del 1 de enero del 2003, todos los consumidores de energía eléctrica tendrán la consideración de consumidores cualificados y, además, establece, en el artículo 19.3, que «el Ministro de Economía elevará al Gobierno antes del 1 de enero del 2001 una propuesta de estructura y actualización de precios de las tarifas de acceso establecidas en el Real Decreto 2820/1998, de 23 de diciembre, adaptándose al nuevo marco de liberalización del suministro que se producirá a partir del 1 de julio de 2000 y del 1 de enero de 2003».
+
+Por ello, en el presente Real Decreto, se establece una estructura simple, para facilitar la aplicación de las tarifas de acceso y, por tanto, la posibilidad de ejercer la condición de cualificados a los nuevos clientes de alta tensión cuyo consumo anual es inferior a 1 GWh y que se incorporan a partir del 1 de julio de 2000. Para los clientes de baja tensión, que se incorporarán con carácter general el 1 de enero de 2003, se han planteado tarifas acordes con la propia singularidad de los clientes que componen este segmento del mercado.
+
+La disposición transitoria undécima de la Ley 54/1997, del Sector Eléctrico, establece un régimen retributivo especial para los distribuidores que vinieran operando con anterioridad al 1 de enero de 1997, a los que no les es de aplicación el Real Decreto 1538/1987, de 11 de diciembre, sobre determinación de las empresas gestoras del servicio. Dicha disposición transitoria les otorga la posibilidad de acogerse «al régimen tarifario que para estos distribuidores apruebe el Gobierno, que garantizará, en todo caso, una retribución económica adecuada».
+
+Con el fin de desarrollar este régimen tarifario, que implica la compra de energía a otros distribuidores a tarifa D, deben determinarse los criterios para la revisión de los importes de dicha tarifa D, con el objetivo de que la retribución de la actividad de estos distribuidores siga una evolución coherente con la retribución para los distribuidores comprendidos en el anexo I del Real Decreto 2017/1997, de 26 de diciembre, por el que se organiza y regula el procedimiento de liquidación de los costes de transporte, distribución y comercialización a tarifa, de los costes permanentes del sistema y de los costes de diversificación y seguridad de abastecimiento.
+
+En su virtud, a propuesta del Ministro de Economía, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 26 de octubre de 2001,
+
+DISPONGO:
+
+## Artículo 1. Ámbito de aplicación.
+
+1\. Las tarifas de acceso que se regulan en el presente Real Decreto serán de aplicación:
+
+a) A los consumidores cualificados que ejerzan esta condición por cada punto de suministro o instalación.
+
+b) A los comercializadores como mandatarios en nombre de los consumidores cualificados que ejerzan esta condición por cada punto de suministro o instalación.
+
+c) A los distribuidores a los que les fuera aplicable la disposición transitoria undécima de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, por la energía que adquieran, ejerciendo su condición de cualificados, destinada a la venta a sus clientes a tarifa cuando sea necesario acceder a través de las redes de otros distribuidores.
+
+d) A los autoproductores para el abastecimiento a sus propias instalaciones, las de su matriz o las de sus filiales en las que su participación en el capital social sea mayoritaria, siempre que utilicen las redes de transporte o de distribución.
+
+e) A los agentes externos y a otros sujetos, para las exportaciones de energía eléctrica que realicen.
+
+2\. Se exceptúan de la aplicación del presente Real Decreto las tarifas de acceso para los consumos propios de las empresas eléctricas destinados a sus actividades de transporte y distribución de energía eléctrica. No se considerarán como consumos propios los de las explotaciones mineras, aunque sean para el abastecimiento de centrales termoeléctricas.
+
+3\. No se aplicarán tarifas de acceso a los tránsitos internacionales de energía eléctrica que se realicen a través del sistema eléctrico nacional que tengan su origen y destino en países miembros de la Unión Europea. Esta exención podrá extenderse a terceros países no miembros de la Unión Europea con los que se establezcan acuerdos de reciprocidad.
+
+> Se modifica el apartado 2 por la disposición final 3 del Real Decreto 1544/2011, de 31 de octubre. [Ref. BOE-A-2011-17891](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17891).
+
+> Se modifica el apartado 2 por la disposición final 2 del Real Decreto-ley 14/2010, de 23 de diciembre. [Ref. BOE-A-2010-19757](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19757).
+
+## Artículo 2. Costes que incluirán las tarifas de acceso.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 88/2026, de 11 de febrero. [Ref. BOE-A-2026-3212](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3212)
+
+## Artículo 3. Estructura general de las tarifas de acceso.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 88/2026, de 11 de febrero. [Ref. BOE-A-2026-3212](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3212)
+
+## Artículo 4. Condiciones generales de los contratos de tarifa de acceso.
+
+Las condiciones generales del contrato de tarifas de acceso son las siguientes:
+
+1\. El contrato de tarifas de acceso que se suscriba o se renueve tendrá carácter anual, prorrogándose por períodos anuales sucesivos, sin perjuicio de las excepciones previstas en el artículo 6 del presente Real Decreto.
+
+2\. Podrán suscribir contratos de acceso a las redes con las empresas distribuidoras todos aquellos consumidores o sus mandatarios, de acuerdo con el ámbito de aplicación de las tarifas de acceso establecido en el artículo 1, apartado 1, del presente Real Decreto.
+
+En el caso en que el consumidor cualificado opte por contratar la tarifa de acceso a la redes a través de un comercializador, el consumidor quedará eximido del pago de la tarifa de acceso siempre que demuestre estar al corriente de pago con el comercializador.
+
+3\. El período de pago de las tarifas de acceso se establece en veinte días naturales desde la emisión de la factura por parte de la empresa distribuidora. En el caso de que el último día del período de pago fuera sábado o festivo, éste vencerá el primer día laborable que le siga.
+
+Dentro del período de pago, los consumidores o sus mandatarios, de acuerdo con el ámbito de aplicación de las tarifas de acceso establecido en el artículo 1, apartado 1, del presente Real Decreto, podrán hacer efectivos los importes facturados mediante domiciliación bancaria, a través de las cuentas que señalen las empresas distribuidoras en entidades de crédito, en las oficinas de cobro de la empresa distribuidora o en quien ésta delegue. En zonas geográficas donde existan dificultades para utilizar los anteriores sistemas, el consumidor podrá hacer efectivo el importe facturado mediante giro postal u otro medio similar.
+
+En el caso de las Administraciones públicas, transcurridos dos meses desde que hubiera sido requerido fehacientemente por el distribuidor el pago sin que el mismo se hubiera hecho efectivo, comenzarán a devengarse intereses, que serán equivalentes al interés legal del dinero incrementado en 1,5 puntos.
+
+4\. La empresa distribuidora podrá suspender el contrato de tarifa de acceso cuando hayan transcurrido al menos dos meses desde que hubiera requerido fehacientemente el pago al consumidor o su mandatario, de acuerdo con el ámbito de aplicación de las tarifas de acceso establecido en el artículo 1, apartado 1, del presente Real Decreto, sin que el mismo se hubiera hecho efectivo. A estos efectos, el requerimiento se practicará mediante remisión, a la dirección que a efectos de comunicación figure en el contrato de tarifa de acceso, por cualquier medio que permita tener constancia de la recepción por el interesado, así como de la fecha, identidad y contenido del mismo, quedando la empresa distribuidora obligada a conservar en su poder la acreditación de la notificación efectuada. En el supuesto de rechazo de la notificación, se especificarán las circunstancias del intento de notificación y se tendrá por efectuado el trámite. Dicha comunicación deberá incluir el trámite de desconexión del consumidor de las redes de distribución por impago, precisando la fecha a partir de la que se procederá a la desconexión, de no abonarse en fecha anterior las cantidades adeudadas.
+
+En el caso de las Administraciones públicas, la empresa distribuidora podrá proceder a la suspensión del contrato de tarifa de acceso por impago, siempre que el mismo no haya sido declarado servicio esencial según se establece en el artículo 89.2 del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, si transcurridos cuatro meses desde el primer requerimiento dicho pago no se hubiera hecho efectivo.
+
+5\. Para proceder a la desconexión por impago la empresa distribuidora no podrá señalar como día un día festivo ni aquellos que, por cualquier motivo, no exista servicio de atención al cliente tanto comercial como técnico a efectos de la reconexión a sus redes, ni en víspera de aquellos días en que se dé alguna de estas circunstancias.
+
+6\. Efectuada la desconexión, se procederá a la reconexión, como máximo, al día siguiente del abono de la cantidad adeudada, de los intereses que haya devengado de acuerdo con lo dispuesto en el apartado 3 del presente artículo y de la cantidad autorizada en concepto de reconexión.
+
+7\. Los titulares de explotaciones agrarias, sean autónomos o empresas, incluidas las cooperativas agrarias y las comunidades de regantes, podrán acogerse a los mecanismos de flexibilización temporal de los contratos de suministro de energía eléctrica del artículo 7 del Real Decreto-ley 18/2022, de 18 de octubre, por el que se aprueban medidas de refuerzo de la protección de los consumidores de energía y de contribución a la reducción del consumo de gas natural en aplicación del “Plan + seguridad para tu energía (+SE)”, así como medidas en materia de retribuciones del personal al servicio del sector público y de protección de las personas trabajadoras agrarias eventuales afectadas por la sequía.
+
+7 (sic). Las condiciones particulares de aplicación a contratos de acceso para los titulares de explotaciones agrarias, sean autónomos o empresas, incluidas las cooperativas agrarias y las comunidades de regantes sujetas a estacionalidad serán las siguientes:
+
+Podrán hacer uso del derecho al contrato de acceso con posibilidad de disponer de dos potencias diferentes a lo largo de 12 meses, en función de la necesidad de suministro para la actividad, con la mera comunicación por medios telemáticos y/o telefónicos a su suministrador. A tal fin, las compañías suministradoras facilitarán un número de atención telefónica gratuito. Los precios del término de potencia no surtirán incremento alguno respecto de las tarifas de aplicación, siempre que la fijación así establecida sea consistente con la seguridad y la sostenibilidad económica y financiera del sistema recogido en el artículo 13 de la Ley 24/2013, de 26 de diciembre, así como con la normativa comunitaria de aplicación.
+
+> Se añade el apartado 7 (sic) por la disposición final 3 de la Ley 1/2025, de 1 de abril. [Ref. BOE-A-2025-6597](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6597)
+
+> Se añade el apartado 7 por la disposición final 1 de la Ley 30/2022, de 23 de diciembre. [Ref. BOE-A-2022-22127](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22127)
+
+> Se modifica el párrafo segundo del apartado 2 por el art. 3.7 del Real Decreto 1454/2005, de 2 de diciembre. [Ref. BOE-A-2005-21100](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21100).
+
+## Artículo 5. Condiciones generales de aplicación de las tarifas.
+
+Las condiciones generales de aplicación de las tarifas de acceso son las siguientes:
+
+1\. Condiciones para la lectura y facturación de las tarifas de acceso. La lectura y, en su caso, instalación de los equipos de medida para la facturación de las tarifas de acceso, así como de la energía que haya que liquidarse en el mercado, será responsabilidad de los distribuidores. El plazo para el precintado de los equipos de medida será de quince días a contar desde la fecha en que, directa o indirectamente, el consumidor comunique a la empresa distribuidora que se ha procedido a la instalación del equipo o, en su caso, que opta por alquilarlo a la empresa distribuidora, y siempre que previamente se haya concedido el acceso de acuerdo con el apartado 3 del presente artículo. En estos casos la empresa distribuidora deberá presentar durante dicho plazo el contrato de acceso al solicitante para su firma.
+
+Los consumos de energía realizados en un período de facturación en que haya regido más de una tarifa se distribuirán para su facturación proporcionalmente a la parte del tiempo transcurrido desde la última medida de consumo registrada en que haya estado en vigor cada una de ellas, atendiendo a la medida de la energía horaria adquirida en el mercado.
+
+2\. Plazos de facturación y registro del consumo.–La facturación expresará las variables que sirvieron de base para el cálculo de las cantidades y, en todo caso, se desglosará en la facturación los importes correspondientes a la imputación de los costes de diversificación y seguridad de abastecimiento y permanentes del sistema y los tributos que graven el consumo de electricidad, así como los suplementos territoriales cuando correspondan.
+
+Las facturaciones serán mensuales y corresponderán a los registros del consumo correspondientes al período que se especifique en la citada factura. Para la tarifa simple de baja tensión se admite, también, la facturación bimestral.
+
+Los plazos de registro del consumo no serán superiores a los tres días anteriores o posteriores a la finalización del mes o bimestre del último registro del consumo realizado.
+
+3\. Requisitos generales para la aplicación de las tarifas de acceso.–Los requisitos generales para la aplicación de las tarifas de acceso son los siguientes:
+
+1.º Se deberán tener instalados los equipos de medida y control necesarios para la correcta aplicación de las mismas. En todo caso, el control de las potencias contratadas en cada período tarifario se realizará conforme a lo establecido reglamentariamente.
+
+2.º Se deberá disponer de las características técnicas de la acometida, de acuerdo con los parámetros de contrato solicitados, para poder realizar el suministro.
+
+3.º Quienes, de acuerdo con el artículo 1, deseen acogerse al sistema de tarifas de acceso a las redes y reúnan los requisitos impuestos para las mismas deberán solicitarlo a la empresa distribuidora con un período de antelación mínimo de quince días, indicando los parámetros que desean contratar en la nueva tarifa.
+
+Las empresas distribuidoras dispondrán de un plazo de quince días, contados a partir de la recepción de la solicitud de acceso, para conceder o denegar la solicitud al cliente, sin perjuicio de lo que a estos efectos se establezca reglamentariamente cuando la conexión se realice a redes de transporte o de distribución con influencia en las redes de transporte. La denegación deberá estar debidamente motivada de acuerdo con lo dispuesto en la Ley del Sector Eléctrico y su normativa de desarrollo. Transcurrido el plazo antes citado sin que la empresa distribuidora hubiera contestado al cliente, se entenderá concedida la solicitud.
+
+4.º **(Derogado)**
+
+4\. Elección de las condiciones de contrato de la tarifa de acceso y modificaciones de las mismas.–La elección de las condiciones de contrato de la tarifa de acceso y modificaciones de las mismas se regirá por lo siguiente:
+
+1.º El consumidor o su mandatario, de acuerdo con el ámbito de aplicación de las tarifas de acceso establecido en el artículo 1, apartado 1, del presente Real Decreto, podrá elegir la tarifa y modalidad que estime más conveniente a sus intereses entre las oficialmente autorizadas para el uso de las redes por el suministro de energía que el mismo desee demandar, siempre que cumpla las condiciones establecidas en el presente Real Decreto. Asimismo, el consumidor podrá elegir la potencia a contratar, debiendo ajustarse, en su caso, a los escalones correspondientes a los de intensidad normalizados para los aparatos de control.
+
+No obstante, lo anterior, el consumidor podrá contratar la potencia en múltiplos de 0,1 kW siempre que la potencia contratada no supere los 15 kW y disponga de contador que permitan la discriminación horaria y la telegestión.
+
+2.º Al consumidor o su mandatario, de acuerdo con el ámbito de aplicación de las tarifas de acceso establecido en el artículo 1, apartado 1, del presente Real Decreto, que haya cambiado voluntariamente de tarifa, o modalidad, podrá negársele pasar a otra mientras no hayan transcurrido, como mínimo, doce meses, excepto si se produjese algún cambio en la estructura tarifaria que le afecte. Estos cambios no implican el pago de derecho alguno por este concepto a favor de la empresa distribuidora.
+
+3.º Las empresas distribuidoras están obligadas a modificar la potencia contractual para ajustarla a la demanda máxima que deseen los consumidores o sus mandatarios, de acuerdo con el ámbito de aplicación de las tarifas de acceso establecido en el artículo 1, apartado 1, del presente Real Decreto, excepto en el caso en que el consumidor haya modificado voluntariamente la potencia en un plazo inferior a doce meses y no se haya producido ningún cambio en la estructura de tarifas que le afecte, todo ello sin perjuicio de las autorizaciones que tuviera que dar la Dirección General de Política Energética y Minas de acuerdo con lo dispuesto en el presente Real Decreto.
+
+4.º Por reducciones de potencia, las empresas distribuidoras no podrán cobrar cantidad alguna en concepto de derechos de enganche, acometida, ni ningún otro a favor de las empresas, salvo los gastos que se puedan producir por la sustitución o corrección de aparatos de medida o control de la potencia, cuando ello fuera necesario.
+
+Los aumentos de potencia contratada se tramitarán como un alta adicional, sin perjuicio de que en lo sucesivo se haga una sola facturación.
+
+5.º Es potestad del cliente con suministro en alta tensión inferior a 36 kV, y que disponga de un transformador de potencia no superior a 50 kVA, o de potencia superior a 50 kVA, en instalación intemperie sobre poste, realizar la medida en baja tensión y facturar en una tarifa de alta tensión. Para ejercer este derecho deberá comunicarlo a la empresa distribuidora. En este caso la energía medida por el contador se incrementará en 0,01 kWh por cada kVA de potencia nominal del transformador, durante cada hora del mes, y la energía consumida medida se recargará, además, en un 4 por 100. La potencia de facturación será un 4 por 100 superior a la medida si su valor se determina en el lado de baja tensión del transformador.
+
+6.º Los suministros de socorro se tratarán como suministros independientes y como tales se facturarán, excepto si la alimentación la realiza la misma empresa distribuidora, en cuyo caso se facturará, únicamente, el 50 por 100 del término de potencia del suministro de socorro.
+
+> Se deroga el apartado 3.4 por la disposición derogatoria única.b) del Real Decreto 88/2026, de 11 de febrero. [Ref. BOE-A-2026-3212](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3212)
+
+> Se modifica el párrafo 1º del apartado 4 por el art. 16.1 del Real Decreto-Ley 15/2018, de 5 de octubre. [Ref. BOE-A-2018-13593](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-13593)
+
+> Se modifica el párrafo 1º del apartado 1 por el art. 3.1 del Real Decreto 1454/2005, de 2 de diciembre. [Ref. BOE-A-2005-21100](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21100).
+
+## Artículo 6. Contratos eventuales, de temporada, de interconexiones internacionales, para suministro de energía adicional y para suministros a instalaciones acogidas al régimen especial: condiciones particulares.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 88/2026, de 11 de febrero. [Ref. BOE-A-2026-3212](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3212)
+
+> Se deroga el apartado 6 por la disposición derogatoria b) del Real Decreto 900/2015, de 9 de octubre. [Ref. BOE-A-2015-10927](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10927).
+
+> Téngase en cuenta la disposición transitoria 8 del citado Real Decreto sobre adaptación de los contratos de peajes de acceso.
+
+> Se deroga, desde el 1 de enero de 2006, el apartado 5 por la disposición derogatoria única.3 del Real Decreto 1454/2005, de 2 de diciembre. [Ref. BOE-A-2005-21100](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21100).
+
+> Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 16, de 18 de enero de 2002. [Ref. BOE-A-2002-1044](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-1044)
+
+## Artículo 7. Definición de las tarifas de acceso.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 88/2026, de 11 de febrero. [Ref. BOE-A-2026-3212](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3212)
+
+> Se modifican los apartados 1 y 4 por el art. 16.2 y 3 del Real Decreto-Ley 15/2018, de 5 de octubre. [Ref. BOE-A-2018-13593](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-13593)
+
+> Se modifica el apartado 4 por la disposición final 2 del Real Decreto 1054/2014, de 12 de diciembre. [Ref. BOE-A-2014-12973](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12973).
+
+> Se modifica el apartado 1 por la disposición adicional 21.1 del Real Decreto 1634/2006, de 29 de diciembre. [Ref. BOE-A-2006-22961](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-22961).
+
+> Se modifican los apartados 1 y 2 por el art. 3.3 del Real Decreto 1454/2005, de 2 de diciembre. [Ref. BOE-A-2005-21100](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21100).
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 16, de 18 de enero de 2002. [Ref. BOE-A-2002-1044](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-1044)
+
+## Artículo 8. Períodos tarifarios.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 88/2026, de 11 de febrero. [Ref. BOE-A-2026-3212](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3212)
+
+> Se modifica el apartado 1 por la disposición adicional 21.2 del Real Decreto 1634/2006, de 29 de diciembre. [Ref. BOE-A-2006-22961](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-22961).
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 16, de 18 de enero de 2002. [Ref. BOE-A-2002-1044](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-1044)
+
+## Artículo 9. Determinación de los componentes de la facturación de las tarifas de acceso.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 88/2026, de 11 de febrero. [Ref. BOE-A-2026-3212](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3212)
+
+> Se modifica el apartado 3 por la disposición final 1 del Real Decreto 244/2019, de 5 de abril. [Ref. BOE-A-2019-5089](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5089)
+
+> Se modifican los apartados 1.2.a).1, 1.2.b).1 y 3 por el art. 16.4 a 6 del Real Decreto-Ley 15/2018, de 5 de octubre. [Ref. BOE-A-2018-13593](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-13593)
+
+> Se modifica por el art. 3.4 a 6 del Real Decreto 1454/2005, de 2 de diciembre. [Ref. BOE-A-2005-21100](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21100).
+
+## Artículo 10. Aplicación de la tarifa de acceso 6.5 a determinados consumidores cualificados.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 88/2026, de 11 de febrero. [Ref. BOE-A-2026-3212](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3212)
+
+## Artículo 11. Precios de las diferentes tarifas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 88/2026, de 11 de febrero. [Ref. BOE-A-2026-3212](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3212)
+
+## Disposición adicional primera. Revisión de la tarifa D de venta a distribuidores.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 88/2026, de 11 de febrero. [Ref. BOE-A-2026-3212](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3212)
+
+> Se renumera como disposición adicional 1 por la disposición final 2.1 del Real Decreto 1623/2011, de 14 de noviembre. [Ref. BOE-A-2011-19206](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19206).
+
+## Disposición adicional segunda. Utilización de la red de transporte por importaciones y exportaciones a países terceros.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 88/2026, de 11 de febrero. [Ref. BOE-A-2026-3212](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3212)
+
+> Se añade por la disposición final 2.2 del Real Decreto 1623/2011, de 14 de noviembre. [Ref. BOE-A-2011-19206](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19206).
+
+## Disposición transitoria primera. Régimen transitorio de los contratos vigentes.
+
+1\. Los contratos de tarifas de acceso suscritos antes de la próxima aprobación por el Gobierno de la tarifa eléctrica al amparo de lo establecido en el artículo 17.2 de la Ley 54/1997, de 27 de noviembre, se adaptarán a lo dispuesto en el presente Real Decreto en el plazo de seis meses desde su entrada en vigor, rigiéndose hasta entonces por lo dispuesto en el Real Decreto 2820/1998, de 23 de diciembre.
+
+2\. A partir del plazo que se establece en el apartado anterior, a dichos contratos les serán de aplicación, de forma automática, las nuevas tarifas que se indican a continuación, sin perjuicio de sus derechos a solicitar el cambio de las mismas cuando proceda:
+
+| Tarifa antigua | Tarifa nueva |
+|---|---|
+| Baja tensión: | Baja tensión: |
+| 2.0 General, potencia no superior a 15 kW. | 2.0A Simple para baja tensión. |
+| 3.0 General. | 3.0A General para baja tensión. |
+| 4.0 General larga utilización. | 3.0A General para baja tensión. |
+| B.0 Alumbrado público. | 3.0A General para baja tensión. |
+| R.0 Riegos agrícolas. | 3.0A General para baja tensión. |
+| Alta tensión: | Alta tensión: |
+| Tarifas T de tracción: | Tarifas generales de alta tensión: |
+| T.1: No superior a 36 kV. | 6.1 ó 3.1A: No superior a 36 kV (1). |
+| T.2: Mayor de 36 kV y no superior a 72,5 kV. | 6.2: Mayor de 36 kV y no superior a 72,5 kV. |
+| T.3: Mayor de 72,5 kV. | 6.3: Mayor de 72,5 kV. |
+| Tarifas D distribuidores: | Tarifas generales de alta tensión: |
+| D.1: No superior a 36 kV. | 6.1 ó 3.1A: No superior a 36 kV (1). |
+| D.2: Mayor de 36 kV y no superior a 72,5 kV. | 6.2: Mayor de 36 kV y no superior a 72,5 kV. |
+| D.3: Mayor de 72,5 kV y no superior a 145 kV. | 6.3: Mayor de 72,5 kV y no superior a 145 kV. |
+| D.4: Mayor de 145 kV. | 6.4: Mayor de 145 kV. |
+| Tarifas generales de alta tensión: | Tarifas generales de alta tensión: |
+| Escalón 1: No superior a 14 kV. | 6.1 ó 3.1A: No superior a 36 kV (1). |
+| Escalón 2: Mayor de 14 kV y no superior a 36 kV. | 6.1 ó 3.1A: No superior a 36 kV (1). |
+| Escalón 3: Mayor de 36 kV y no superior a 72,5 kV. | 6.2: Mayor de 36 kV y no superior a 72,5 kV. |
+| Escalón 4: Mayor de 72,5 kV y no superior a 145kV. | 6.3: Mayor de 72,5 kV y no superior a 145 kV. |
+| Escalón 5: Mayor de 145 kV. | 6.4: Mayor de 145 kV. |
+| Escalón 6: Conexiones internacionales. | 6.5: Conexiones internacionales. |
+
+(1) Se aplicará la tarifa 3.1 cuando la potencia contratada en todos los períodos tarifarios sea igual o inferior a 450 kW y 6.1 si es superior a dicha potencia.
+
+(2) Se denominará tarifa 6.5I a la correspondiente a conexiones internacionales y 6.5C a la correspondiente a aquellos suministros que cumpliendo los requisitos del artículo 10 del presente Real Decreto se acojan a la tarifa de acceso 6.5, así como aquellos suministros que con anterioridad a la publicación del presente Real Decreto estuvieran acogidos a la tarifa de acceso general de alta tensión, denominada conexiones internacionales en aplicación del artículo 22 del Real Decreto-ley 6/2000.
+
+> Redactada la nota (1) conforme a la corrección de errores publicada en BOE núm. 16, de 18 de enero de 2002. [Ref. BOE-A-2002-1044](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-1044)
+
+## Disposición transitoria segunda. Paso del contrato de tarifa al contrato de acceso.
+
+Todos los consumidores cualificados que con anterioridad a su cualificación estuvieran recibiendo el suministro a tarifa, a los efectos de lo previsto en el artículo 5, apartado 3, del presente Real Decreto tendrán automáticamente concedido el derecho de acceso a las redes por la potencia que tuvieran adscrita a la instalación que, en cualquier caso, no podrá ser inferior a la contratada en tarifa, sin que proceda cargo alguno en concepto de depósito de garantía.
+
+Con este fin, el consumidor, directamente o a través de su representante, deberá comunicar a la empresa distribuidora el cambio, debiéndose proceder a la instalación de los equipos y firma del nuevo contrato de acceso en los términos previstos en el presente Real Decreto. Se deberá proceder al cierre de las lecturas correspondientes al suministro a tarifa en el plazo de quince días desde la baja del contrato a tarifa.
+
+## Disposición transitoria tercera. Consumos propios.
+
+En el plazo de un mes desde la entrada en vigor del presente Real Decreto, los sujetos relacionados en el apartado segundo del artículo 1 deberán presentar ante la Dirección General de Política Energética y Minas para su aprobación, previo informe de la Comisión Nacional de Energía, un listado de los consumos propios con justificación de los mismos.
+
+## Disposición transitoria cuarta. Tránsitos de energía en la Unión Europea.
+
+La aplicación de lo dispuesto en el apartado 3 del artículo 1 no será de aplicación para los tránsitos de energía eléctrica que tengan su origen y destino en países miembros de la Unión Europea hasta tanto exista un régimen equivalente en dichos países.
+
+## Disposición derogatoria única. Derogación normativa.
+
+A partir de la entrada en vigor del presente Real Decreto quedan derogados el Real Decreto 2820/1998, de 23 de diciembre, por el que se establecen tarifas de acceso a las redes, y cuantas disposiciones de igual o menor rango se opongan a lo dispuesto en el presente Real Decreto, sin perjuicio de lo dispuesto en la disposición transitoria primera del presente Real Decreto.
+
+## Disposición final primera. Facultad de desarrollo.
+
+**(Derogada**)
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 88/2026, de 11 de febrero. [Ref. BOE-A-2026-3212](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3212)
+
+> Se modifica el apartado 1 por el art. 3.2 del Real Decreto 1454/2005, de 2 de diciembre. [Ref. BOE-A-2005-21100](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21100).
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 26 de octubre de 2001.
+
+JUAN CARLOS R.
+
+El Vicepresidente Segundo del Gobierno para Asuntos Económicos y Ministro de Economía,
+
+RODRIGO DE RATO Y FIGAREDO
+
+> Información relacionada
+
+> Las referencias a los días festivos de ámbito nacional se entenderán efectuadas a días festivos de ámbito nacional excluidos tanto los festivos sustituibles como los que no tienen fecha fija, según establece la disposición final 2 de la Orden ITC/2794/2007, de 27 de diciembre. [Ref. BOE-A-2007-17078](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17078).
+
+> Véanse, en cuanto a las tarifas de acceso a las redes de transporte y distribución definidas en este Real Decreto:
+
+> \- Orden ITC/2794/2007, de 27 de septiembre, por la que se revisan las tarifas eléctricas a partir del 1 de octubre de 2007. [Ref. BOE-A-2007-17078](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17078).
+
+> \- Orden ITC/3860/2007, de 28 de diciembre, por la que se revisan las tarifas eléctricas a partir del 1 de enero de 2008. [Ref. BOE-A-2007-22458](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22458).
+
+> \- Orden ITC/3801/2008, de 26 de diciembre, por la que se revisan las tarifas eléctricas a partir de 1 de enero de 2009. [Ref. BOE-A-2008-21009](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-21009).

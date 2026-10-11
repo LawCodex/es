@@ -1,0 +1,295 @@
+---
+title: "Decreto-ley 21/2020, de 2 de junio, de medidas urgentes de carácter económico, cultural y social"
+identifier: "BOE-A-2020-8751"
+eli: "https://www.boe.es/eli/es-ct/dl/2020/06/02/21"
+type: decree_law
+rank: "Decreto-ley"
+jurisdiction: es-cataluna
+language: es
+department: "Comunidad Autónoma de Cataluña"
+date: 2020-06-02
+published: 2020-07-30
+in_force_from: 2020-06-04
+last_amended: 2022-05-18
+consolidated: 2026-01-23
+gazette: "Boletín Oficial del Estado núm. 206"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2020-8751"
+retrieved: 2026-10-11
+---
+
+# Decreto-ley 21/2020, de 2 de junio, de medidas urgentes de carácter económico, cultural y social
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+
+El artículo 67.6.a) del Estatuto prevé que los decretos-ley son promulgados, en nombre del Rey, por el Presidente de la Generalidad.
+
+De acuerdo con lo anterior, promulgo el siguiente Decreto-ley.
+
+EXPOSICIÓN DE MOTIVOS
+
+La situación de crisis sanitaria generada como consecuencia de la COVID-19 ha obligado al Gobierno de la Generalitat a tomar de forma gradual una serie de medidas en diferentes ámbitos, con el objetivo de paliar los graves efectos que la pandemia está produciendo.
+
+Estas medidas se han tomado mediante diferentes decretos-ley adoptados desde el mismo momento de la declaración de la situación de pandemia que hizo la Organización Mundial de la Salud, el 11 de marzo. Desde el primero, el Decreto-ley 6/2020, de 12 de marzo, de medidas urgentes en materia asistencial, presupuestaria, financiera, fiscal y de contratación pública, a fin de paliar los efectos de la pandemia generada por el coronavirus COVID-19, hasta el último que se ha aprobado, el Decreto-ley 20/2020, de 26 de mayo, por el que se adoptan diversas medidas en materia de deportes como consecuencia del estado de alarma decretado por razón de la COVID-19.
+
+Visto el contexto actual, es necesaria la adopción de un nuevo decreto-ley con medidas de carácter económico, social y cultural. Este nuevo Decreto-ley se estructura en cinco capítulos, treinta y cinco artículos, una disposición adicional, una disposición transitoria, una disposición derogatoria y dos disposiciones finales.
+
+El capítulo I, referido a medidas de carácter económico en el ámbito cultural, se concreta en el artículo 1, y toma como referente el convenio de colaboración para regular el Fondo de Garantía de las líneas para impulsar medidas de financiación de proyectos culturales, que el 1 de agosto de 2013 suscribieron el Departamento de Cultura y el Instituto Catalán de Finanzas (ICF) y que ha sido modificado mediante adendas de 4 de noviembre de 2014 y de 22 de abril de 2015.
+
+El 23 de enero de 2020 se publicó en el «Diari Oficial de la Generalitat de Catalunya» el Decreto-ley 2/2020, de 21 de enero, de necesidades financieras del sector público en prórroga presupuestaria y de modificación del texto refundido de la legislación en materia de aguas de Cataluña, aprobado por el Decreto legislativo 3/2003, de 4 de noviembre.
+
+El artículo 1.5*.*d del citado Decreto-ley 2/2020, de 21 de enero, autoriza al Gobierno a prestar garantía, durante el ejercicio 2020, hasta una cuantía máxima global de 5.703.772 euros, a favor del ICF para otorgar préstamos para la financiación de proyectos culturales. A tal efecto el Departamento de Cultura debe tener formalizado un Convenio con el ICF para constituir un fondo de garantía con cargo a los presupuestos del Departamento de Cultura.
+
+El 25 de febrero de 2020 el Gobierno aprobó un acuerdo que autoriza al Departamento de Cultura a prestar garantía, durante el ejercicio 2020, hasta una cuantía máxima global de 5.703.772 euros, a favor del ICF para otorgar préstamos para la financiación de proyectos culturales.
+
+Las entidades y empresas culturales catalanas, como el resto de empresas del país, están sufriendo las consecuencias directamente derivadas de la situación de emergencia decretada con motivo de la COVID-19 que afecta de forma muy negativa su liquidez y también el mantenimiento de los puestos de trabajo que dependen del ejercicio de su actividad.
+
+En este sentido, es voluntad del Departamento de Cultura ampliar el fondo de garantía autorizado por el Gobierno con el fin de prestar garantía a favor del Instituto Catalán de Finanzas para atender las necesidades de financiación del tejido cultural del país que se ha visto afectado por la situación derivada de la COVID-19 y ampliar el subtramo de liquidez y, si procede, los subtramos de inversiones y circulante financiar los proyectos culturales. Esta medida requiere disponer de la autorización del Gobierno, que se instrumenta con este Decreto-ley.
+
+El capítulo II, con el título de medidas de carácter social, prevé, ante la situación de vulnerabilidad económica en que se encuentran muchos profesionales del sector de las artes escénicas, artes visuales, música y audiovisual a raíz de la crisis sanitaria derivada de la COVID-19, ante la imposibilidad de prestar sus servicios por razón de decisiones de carácter gubernativo y la inexistencia de protección social durante buena parte de la crisis sanitaria, la necesidad de crear una prestación extraordinaria para suministros básicos, con el fin de paliar esta situación, destinada a los trabajadores por cuenta propia o por cuenta ajena que hayan sufrido una disminución drástica e involuntaria en sus ingresos durante los periodos en los que han tenido inactividad y no han tenido ingresos.
+
+La prestación de desempleo prevista en el artículo 2 del Real Decreto-ley 17/2020, de 5 de mayo, por el que se aprueban medidas de apoyo al sector cultural y de carácter tributario para hacer frente al impacto económico y social de la COVID-19, en la redacción dada por el Real Decreto-ley 19/2020, de 26 de mayo, cubre un periodo de tiempo a partir del 6 de mayo de 2020. Esto implica que los profesionales de este sector, que han visto parada sus actividades por las decisiones gubernativas, no pueden disponer de ningún tipo de compensación económica ni prestación durante el período en que se hace iniciar el estado de alarma y esta fecha, implicando situaciones de necesidad que fundamentan adoptar las medidas previstas en este Decreto-ley, que faciliten hacer frente a la adquisición de suministros básicos.
+
+Los capítulos siguientes adoptan medidas urgentes de apoyo al ocio educativo basadas en tres acciones prioritarias. En primer lugar, el capítulo III establece una medida de ayudas a las familias para hacer económicamente más accesibles las actividades de educación en el tiempo libre del verano 2020; el capítulo IV, por su parte, prevé una ayuda económica extraordinaria para entidades sin ánimo de lucro y empresas para la organización y funcionamiento de las actividades en el ámbito del ocio educativo en los requerimientos de la pandemia COVID-19 y, finalmente, el capítulo V establece una medida para la contratación de jóvenes en prácticas para entidades del sector del ocio educativo.
+
+En estos capítulos se toma como punto de partida el hecho de que, durante estos meses, y como consecuencia de esta crisis sanitaria, se ha producido una colisión de derechos importante. Por un lado, se ha querido proteger a la ciudadanía de la propagación de un virus que está causando miles de muertes en todo el mundo y, por otro, se ha garantizado, de la mejor manera posible, el pleno desarrollo personal, emocional y físico de todas las personas y sobre todo de los niños, adolescentes y jóvenes. Algunos de los derechos más perjudicados han sido el de la educación y el del ocio.
+
+Actualmente nos encontramos en un contexto de remisión del riesgo de contagio y en un proceso de desconfinamiento gradual, por fases. Es en este momento cuando el Gobierno considera primordial poner en funcionamiento, siempre que las circunstancias sanitarias lo permitan, la participación de los niños, adolescentes y jóvenes en las actividades de ocio durante los meses de verano ‒casales, colonias, campamentos, rutas, campos de trabajo, campos deportivos‒, ya que suponen un estímulo imprescindible para su desarrollo vital.
+
+Ahora más que nunca, hay que acompañar a los niños y adolescentes en la educación en nuevas rutinas de higiene y protección derivadas de la crisis de la COVID-19, y también hay que acompañarlos emocionalmente en la exteriorización de vivencias, pensamientos y experiencias que hayan podido oír, ver, pensar y vivir durante el periodo de confinamiento. Sin embargo, hay que hacerlo con la máxima seguridad, y entendiendo que este verano las actividades de educación en tiempo libre serán diferentes.
+
+Los últimos meses también han tenido consecuencias muy graves en muchas familias, que se han visto envueltas en una situación de precariedad económica sobrevenida o han visto agravada su situación de vulnerabilidad ya existente. Es por ello que mediante este Decreto-ley se crea una ayuda económica extraordinaria para acceder a estas actividades el próximo verano y que va dirigida a las familias.
+
+Además, el Gobierno, en el marco del PROCICAT, ha elaborado unas guías y protocolos para regular la organización y el funcionamiento de las actividades de educación en el ocio, que contienen una serie de medidas que persiguen hacer compatible el derecho al ocio, con el derecho a la salud de los niños, adolescentes y jóvenes. Estas guías y protocolos incluyen medidas de prevención, higiene, protección y distanciamiento físico recomendado y, por tanto, será necesario garantizar que las actividades previstas se adecuen al nuevo contexto social y sanitario. Entendiendo que esta adaptación supone un esfuerzo sobrevenido para las empresas y entidades organizadoras y promotoras de las actividades de educación en el ocio de este verano 2020 es necesario ayudar al sector contribuyendo a minimizar el impacto organizacional y asegurar el máximo posible la realización de las actividades.
+
+La tercera de estas acciones prioritarias en el mundo del ocio, medida prevista en el capítulo V, establece en colaboración con las entidades sin ánimo de lucro constituidas y con centro de trabajo en Cataluña, unas actuaciones que tienen la pretensión de que durante un período de seis meses, a jornada completa, personas con título o certificado de profesionalidad que les capacita para la práctica profesional de las actividades del ocio sean contratadas y presten sus servicios bajo la modalidad contractual de prácticas, que debe servir para adquirir aptitudes y desarrollo profesional.
+
+La disposición adicional modifica la disposición final segunda del Decreto-ley 7/2020, de 17 de marzo, de medidas urgentes en materia de contratación pública, de salud y gestión de residuos sanitarios, de transparencia, de transporte público y en materia tributaria y económica. Esta disposición final establecía que las modificaciones a que se refiere el artículo 2 del Decreto-ley, si afectan disposiciones de rango reglamentario, siguen manteniendo su rango normativo, sin embargo, el artículo 2 no prevé ninguna modificación normativa; sí lo hacen, en cambio, los artículos 8 y 10 del Decreto-ley. Se propone un nuevo redactado para subsanar este error.
+
+Finalmente, el Decreto-ley cuenta con una disposición derogatoria. El artículo 1.5.d del Decreto-ley 2/2020, de 21 de enero, de necesidades financieras del sector público en prórroga presupuestaria y de modificación del texto refundido de la legislación en materia de aguas de Cataluña, aprobado por el Decreto legislativo 3/2003, de 4 de noviembre. Este precepto autoriza al Gobierno a prestar garantía, durante el ejercicio 2020, hasta una cuantía máxima global de 5.703.772 euros, a favor del ICF para otorgar préstamos para la financiación de proyectos culturales. Visto que esta cuantía queda subsumida en la cuantía máxima global de 22.000.000 de euros que se aprueba mediante este Decreto-ley, se procede a derogar el artículo 1.5.d mencionado.
+
+De acuerdo con el artículo 38 de la Ley 13/2008, de 5 de noviembre, de la presidencia de la Generalidad y del Gobierno, el Gobierno puede dictar disposiciones legislativas provisionales bajo la forma de decreto-ley. En el presente supuesto, el carácter extraordinario y excepcional de la situación deriva de la declaración del estado de alarma provocada por la situación sanitaria que requiere adoptar de manera urgente medidas que palien, en lo posible, la situación creada y que no pueden aplazarse, incluso, mediante la utilización de medios legislativos de urgencia en un momento posterior.
+
+En uso de la autorización concedida en el artículo 64 del Estatuto de autonomía de Cataluña, a propuesta del vicepresidente del Gobierno y consejero de Economía y Hacienda y con la deliberación previa del Gobierno, decreto:
+
+## CAPÍTULO I — Medidas de carácter económico en el ámbito cultural
+
+### Artículo 1. Medidas económicas de apoyo a los proyectos culturales.
+
+Se autoriza al Departamento de Cultura a prestar garantía, durante el ejercicio 2020, hasta una cuantía máxima global de 22.000.000 de euros, a favor del Instituto Catalán de Finanzas para otorgar préstamos para la financiación de proyectos culturales afectados por la situación derivada de la COVID-19. A tal efecto, el Departamento de Cultura debe tener formalizado un convenio con el Instituto Catalán de Finanzas para ampliar el fondo de garantía constituido con cargo a los presupuestos del Departamento de Cultura.
+
+## CAPÍTULO II — Medidas de carácter social en el ámbito de la cultura
+
+### Artículo 2. Prestación extraordinaria para suministros básicos a profesionales de las artes escénicas, artes visuales, música y audiovisual, y otras actividades culturales suspendidas por razón de la crisis sanitaria en Cataluña.
+
+Se crea una prestación extraordinaria para suministros básicos destinada a las personas profesionales de las artes escénicas, artes visuales, música y audiovisual, y otras actividades culturales suspendidas por razón de la crisis sanitaria en Cataluña, en forma de ayuda extraordinaria para su sostenibilidad económica, de pago único con el objetivo de facilitar la adquisición de suministros básicos.
+
+### Artículo 3. Cuantía de la prestación.
+
+La cuantía de la prestación, que se abona en un pago único, es equivalente al importe diario del indicador de renta de suficiencia mensual de Cataluña (IRSC) vigente, por los días transcurridos entre el 14 de marzo y el 6 de mayo de 2020, ambos incluidos. De esta cuantía se deducen los ingresos percibidos durante el mismo periodo por prestaciones de servicios llevadas a cabo durante el periodo referido.
+
+> Se modifica por el art. 11 del Decreto-ley 29/2020, de 28 de julio. [Ref. BOE-A-2020-12361](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12361)
+
+### Artículo 4. Finalidad de la prestación.
+
+La finalidad de la prestación extraordinaria para suministros básicos a las personas profesionales de las artes escénicas, artes visuales, música y audiovisual, y otras actividades culturales suspendidas por razón de la crisis sanitaria en Cataluña es paliar la situación de necesidad material y de vulnerabilidad de estas personas y sus unidades familiares en Cataluña, que han sufrido una reducción drástica e involuntaria de sus ingresos económicos como consecuencia de las medidas adoptadas por la Resolución SLT/720/2020, de 13 de marzo, por la crisis sanitaria derivada del COVID-19, y durante el período comprendido entre el día 14 de marzo de 2020 y el día 6 de mayo de 2020 en el que no han podido obtener ingresos por las actividades suspendidas, o bien estos no han superado conjuntamente, en cómputo mensual, el importe del salario mínimo interprofesional.
+
+### Artículo 5. Naturaleza jurídica.
+
+5.1 La prestación regulada en este Decreto-ley se configura como una prestación social de carácter económico, extraordinaria y de pago único, que se otorga por el procedimiento de concurrencia no competitiva, hasta que se agote la dotación presupuestaria. La prestación tiene carácter puntual y, por tanto, se hará efectiva con un pago único mediante transferencia bancaria.
+
+5.2 La prestación extraordinaria para suministros básicos a personas profesionales de las artes escénicas, artes visuales, música y audiovisual, y otras actividades culturales suspendidas por razón de la crisis sanitaria en Cataluña atendiendo el objeto y su finalidad, no puede ser objeto de cesión, embargo o retención.
+
+### Artículo 6. Personas beneficiarias y requisitos.
+
+Las personas beneficiarias de la prestación por suministros básicos a personas profesionales de las artes escénicas, artes visuales, música y audiovisual, y otras actividades culturales suspendidas por razón de la crisis sanitaria en Cataluña, son las personas que acrediten el cumplimiento de los requisitos siguientes:
+
+a) Ser mayor de dieciocho años.
+
+b) Estar empadronado y residir legalmente en un municipio de Cataluña.
+
+c) Haber ejercido alguna actividad profesional, por cuenta propia o ajena, en situación de alta en el Régimen Especial de Autónomos de la Seguridad Social por actividades de las artes escénicas, artes visuales, música y audiovisual, y otras actividades culturales suspendidas por razón de la crisis sanitaria en Cataluña, en el Sistema Especial de Artistas del Régimen General de la Seguridad Social, o bien, en el caso de los técnicos, que hayan cotizado en el Régimen General de la Seguridad Social, por las mismas actividades, como mínimo 15 días en el año 2019.
+
+d) No haber percibido por prestaciones de servicios desarrolladas entre los días 14 de marzo y 6 de mayo, ningún tipo de ingresos o bien que estos no hayan superado conjuntamente, en cómputo mensual, el importe del salario mínimo interprofesional.
+
+> Se modifica por el art. 12 del Decreto-ley 29/2020, de 28 de julio. [Ref. BOE-A-2020-12361](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12361)
+
+### Artículo 7. Compatibilidades.
+
+7.1 Esta prestación es incompatible con la percepción de otras ayudas, prestaciones de desempleo y para el empleo, de cese de actividad, de prestaciones económicas percibidas de forma regular y periódicas, o con cualquier otra ayuda y prestación concedida por otras administraciones, entes públicos o privados, devengados entre el 14 de marzo de 2020 y el 6 de mayo de 2020, que superen conjuntamente el importe del salario mínimo interprofesional. En el caso de que los ingresos no superen este importe se deducen de la cuantía de la prestación.
+
+7.2 Esta prestación es incompatible con las demás prestaciones económicas que tiene reconocida la persona beneficiaria o a que pueda tener derecho por cualquiera de los sistemas de protección públicos o privados complementarios de la Seguridad Social, si su concesión puede conllevar la pérdida, la disminución o no concesión de aquellas.
+
+### Artículo 8. Procedimiento de tramitación y concesión.
+
+8.1 Los órganos competentes del Departamento de Cultura y del Departamento de Trabajo, Asuntos Sociales y Familias deben aprobar una resolución de convocatoria que se publicará en el «Diari Oficial de la Generalitat de Catalunya», que debe concretar el procedimiento de tramitación y concesión de la prestación, con un procedimiento de concurrencia no competitiva, hasta que se agote la dotación presupuestaria.
+
+8.2 Las personas susceptibles de ser beneficiarias de la prestación regulada en este Decreto-ley deben cumplimentar y presentar el formulario de solicitud normalizado. El plazo para presentar las solicitudes permanecerá abierto hasta el agotamiento de la dotación designada al efecto y, en todo caso, si la dotación designada no se ha agotado antes, hasta el 31 de agosto de 2020.
+
+8.3 Una vez revisadas las solicitudes y tras la comprobación de los requisitos de acceso, en el plazo quince días hábiles a contar desde la presentación de la solicitud, se dictará resolución de concesión o denegación de la prestación hasta que se agote la dotación presupuestaria y, en el plazo de quince días hábiles a contar desde la emisión de la resolución, se procederá a su abono mediante transferencia bancaria. Se declarará responsablemente en fase de tramitación el cumplimiento de los requisitos.
+
+8.4 El órgano tramitador hará un plan de verificación posterior que podrá conllevar la presentación, por parte de las personas solicitantes, de la documentación acreditativa del cumplimiento de los requisitos de acceso a la prestación. El otorgamiento de la prestación está sometido a disponibilidad presupuestaria.
+
+8.5 Finalizado el plazo establecido sin haberse notificado la resolución expresa, la solicitud se entenderá desestimada.
+
+8.6 El órgano competente para la tramitación y resolución de las solicitudes de la prestación extraordinaria para suministros básicos es la Dirección General de Prestaciones Sociales del Departamento de Trabajo, Asuntos Sociales y Familias.
+
+8.7 En el caso de denegación o inadmisión, sin perjuicio del recurso administrativo que corresponda, la persona solicitante puede presentar una nueva solicitud, siempre que no haya finalizado el plazo de presentación de solicitudes.
+
+> Se modifica el apartado 8.2 por el art. 13 del Decreto-ley 29/2020, de 28 de julio. [Ref. BOE-A-2020-12361](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12361)
+
+### Artículo 9. Causa de revocación y de reintegro de la prestación para suministros básicos.
+
+De acuerdo con lo dispuesto en el artículo 69.4 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, la inexactitud, falsedad u omisión de carácter esencial en la acreditación los requisitos que dan derecho a la prestación por suministros básicos determinará la imposibilidad de su percepción o su revocación y la obligación de reintegrar las cantidades percibidas.
+
+### Artículo 10. Financiación.
+
+10.1 La prestación extraordinaria para suministros básicos a personas profesionales de las artes escénicas, artes visuales, música y audiovisual, y de otras actividades culturales suspendidas en razón de la crisis sanitaria en Cataluña tiene una dotación presupuestaria de cinco millones de euros (5.000.000 de euros). El importe máximo destinado a esta ayuda se puede ampliar mediante resolución de la persona titular del órgano concedente, de acuerdo con las disponibilidades presupuestarias.
+
+10.2 Esta prestación puede ser cofinanciada con cargo a los fondos extraordinarios habilitados por la COVID-19. La parte de cofinanciación correspondiente a la Generalidad se realizará con cargo al presupuesto del Departamento de Cultura y del Departamento de Trabajo, Asuntos Sociales y Familias.
+
+> Se modifica el apartado 1 por la disposición final 1 del Decreto-ley 49/2020, de 1 de diciembre. [Ref. BOE-A-2021-1477](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1477)
+
+## CAPÍTULO III — Ayudas a las familias para hacer económicamente más accesibles las actividades de educación en el ocio del verano 2020
+
+> Se deroga por la disposición derogatoria.4 del Decreto-ley 5/2022, de 17 de mayo. [Ref. BOE-A-2022-10453](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10453)
+
+### Artículo 11 a 20.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria.4 del Decreto-ley 5/2022, de 17 de mayo. [Ref. BOE-A-2022-10453](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10453)
+
+## CAPÍTULO IV — Ayuda económica extraordinaria para entidades sin ánimo de lucro y empresas para la organización y funcionamiento de las actividades en el ámbito del ocio educativo en los requerimientos de la pandemia COVID-19
+
+### Artículo 21. Ayuda económica extraordinaria para la organización y funcionamiento de las actividades en el ámbito del ocio.
+
+Se crea una ayuda extraordinaria para las entidades organizadoras de actividades de ocio para minimizar el impacto económico en la adecuación de la organización y funcionamiento de estas actividades, los requisitos y medidas de prevención, higiene y protección establecidas por las autoridades sanitarias y acordadas en los órganos correspondientes, en el contexto de la crisis sanitaria.
+
+### Artículo 22. Finalidad.
+
+Esta ayuda podrá destinarse a las siguientes finalidades:
+
+1\. Para la adaptación de las infraestructuras de alojamiento, comida y pernoctación con el objetivo que garanticen las medidas sanitarias necesarias y pertinentes.
+
+2\. Para la adquisición de material de protección individual para los trabajadores y los niños y adolescentes, higiene y de control sanitario, tanto personales (mascarillas, pañuelos de papel, etc.) como colectivos (termómetros frontales, gel hidroalcohólico, productos desinfectantes, papeleras de pedal, dispensadores de toallas de un solo uso, etc.).
+
+3\. Para la adecuación y adquisición de material pedagógico, lúdico, deportivo, de papelería, necesario para cumplir las medidas establecidas por las autoridades sanitarias competentes.
+
+### Artículo 23. Cuantía.
+
+La cantidad a otorgar para cada persona solicitante se hará en función de las necesidades de cada organismo y según los criterios de priorización que se regulen en la resolución de convocatoria.
+
+### Artículo 24. Entidades beneficiarias y requisitos.
+
+Las entidades beneficiarias de la ayuda económica para la adquisición de materiales de protección individual y realización de las actividades de ocio educativo son las entidades que acrediten el cumplimiento de los requisitos siguientes:
+
+a) Que sean empresas o entidades sin ánimo de lucro.
+
+b) Que organicen actividades de verano en el ámbito del ocio educativo incluidas en el Decreto 267/2016 de actividades de ocio, como colonias, casales, campos de trabajo y rutas. Quedan excluidos de esta ayuda los centros y campus enmarcados en el ámbito deportivo (clubes, federaciones deportivas).
+
+c) Que las actividades objeto de la ayuda organizadoras cumplen las medidas de protección, prevención e higiene establecidas por las autoridades sanitarias y las acordadas en los ámbitos correspondientes.
+
+### Artículo 25. Incompatibilidades o exclusiones.
+
+No podrán solicitar esta ayuda las empresas y entidades siguientes:
+
+a) Las empresas y entidades sin ánimo de lucro que tengan un ERTE en activo en una actividad vinculada a las actividades de ocio educativo del verano.
+
+b) Las empresas, entidades y asociaciones sin ánimo de lucro enmarcadas y reguladas legalmente en el ámbito deportivo (clubes y federaciones deportivas) y organizadoras de actividades exclusivamente deportivas.
+
+### Artículo 26. Procedimiento de tramitación y concesión.
+
+El cumplimiento de los requisitos se acreditará mediante las declaraciones responsables que incluye la solicitud de ayuda económica y la presentación de la documentación acreditativa, cuando así se solicite.
+
+La situación de excepcionalidad obliga a tomar medidas de simplificación administrativa y, por este motivo, y de acuerdo con el artículo 35 de la Ley 26/2010, de 3 de agosto, de régimen jurídico y procedimiento de las administraciones públicas de Cataluña, el cumplimiento de los requisitos se acreditará en fase de tramitación mediante las declaraciones responsables indicadas en la solicitud, y se hará un plan de verificación posterior que podrá conllevar la presentación de la documentación acreditativa cuando así se solicite.
+
+### Artículo 27. Causa de extinción y reintegro.
+
+De acuerdo con lo dispuesto en el artículo 69.4 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, la inexactitud, falsedad u omisión de carácter esencial en la acreditación los requisitos que dan derecho a la prestación por suministros básicos determinará la imposibilidad de su percepción o su extinción y la obligación de reintegrar las cantidades percibidas.
+
+### Artículo 28. Financiación.
+
+La ayuda extraordinaria para entidades de base asociativa y sin ánimo de lucro y empresas previstas en el presente Decreto-ley tiene una dotación presupuestaria de un millón de euros.
+
+## CAPÍTULO V — Medida para la contratación de jóvenes en prácticas para entidades del sector del ocio educativo
+
+### Artículo 29. Objeto.
+
+El objeto de esta medida es regular una ayuda para la contratación de jóvenes en prácticas para impulsar las actividades del sector del ocio que se han visto afectadas por las medidas sanitarias adoptadas para superar la pandemia de la COVID-19.
+
+### Artículo 30. Finalidad.
+
+La finalidad de la medida es la contratación de 136 personas jóvenes mediante un contrato en prácticas, con el fin de impulsar y realizar proyectos de 6 meses, a partir del 1 julio de 2020, que incluyan propuestas para el ocio educativo del verano y su continuidad en otoño, con el fin de que puedan reforzar la atención a niños, adolescentes y jóvenes en las necesidades de estos, en el contexto de la COVID-19.
+
+También se pretende impulsar proyectos que trabajen el aprendizaje de las nuevas rutinas, que trabajen la educación emocional y el acompañamiento y vínculo comunitario de los chicos y chicas, y la prevención de la COVID-19, desde los espacios educativos del tiempo libre y las instalaciones juveniles.
+
+### Artículo 31. Entidades beneficiarias.
+
+31.1 Las entidades beneficiarias de la medida de ayuda para la contratación de jóvenes en prácticas para el impulso de las actividades del sector del ocio son las entidades sin ánimo de lucro y las empresas del sector del ocio educativo inscritas en el Censo de entidades juveniles de la Dirección General de Juventud y que justifiquen la realización de las actividades y proyectos descritos en el presente capítulo.
+
+31.2 No pueden solicitar estas ayudas las entidades y empresas siguientes:
+
+a) Las que tengan un expediente de regulación temporal de empleo vigente y que afecte a trabajadores con actividades vinculadas a las que son objeto de la ayuda.
+
+b) Las que estén enmarcadas y reguladas legalmente en el ámbito deportivo (clubes y federaciones deportivas) y organizadoras de actividades exclusivamente deportivas.
+
+### Artículo 32. Régimen jurídico.
+
+Esta medida de ayudas está vinculada, excepto con respecto a lo previsto en este capítulo, al programa de contratación en prácticas de personas jóvenes beneficiarias del Programa de garantía juvenil del Servicio Público de Empleo de Cataluña (SOC), aprobado por la Orden TSF/115/2018, de 12 de julio, por la que se aprueban las bases reguladoras para la concesión de subvenciones destinadas a incentivar la contratación en prácticas de personas jóvenes beneficiarias del Programa de garantía juvenil en Cataluña.
+
+La Agencia Catalana de la Juventud aprobará una resolución de convocatoria extraordinaria, en concurrencia competitiva, de las ayudas correspondientes al presente capítulo, la cual debe fijar los criterios para la selección de los proyectos.
+
+> Se modifica el segundo párrafo por la disposición final 2.1 del Decreto-ley 25/2020, de 16 de junio. [Ref. BOE-A-2020-8754](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8754)
+
+### Artículo 33. Personas destinatarias.
+
+La selección de las personas destinatarias se debe hacer de acuerdo con lo establecido en la base 7 de la Orden TSF/115/2018, de 12 de julio, por la que se aprueban las bases reguladoras para la concesión de subvenciones destinadas a incentivar la contratación en prácticas de personas jóvenes beneficiarias del Programa de garantía juvenil en Cataluña.
+
+Excepcionalmente, para esta medida, se puede iniciar el procedimiento de selección de las personas destinatarias con anterioridad a la Resolución de otorgamiento, con el fin de poder llevar a cabo la contratación urgente a partir del 1 de julio de 2020.
+
+La distribución de personas destinatarias entre las entidades beneficiarias se realizará de acuerdo con los criterios que se establezcan en la resolución de convocatoria, y cada empresa o entidad sin ánimo de lucro con personalidad jurídica propia podrá seleccionar un máximo de cuatro personas beneficiarias, a excepción de aquellas entidades de educación en el ocio inscritas en el censo de entidades juveniles en el ámbito de actuación “coordinación de entidades”, las cuales podrán seleccionar un máximo de cuatro personas beneficiarias para cada una de sus secciones efectivamente registradas en el censo mencionado.
+
+> Se modifica el párrafo tercero por la disposición final 2.2 del Decreto-ley 25/2020, de 16 de junio. [Ref. BOE-A-2020-8754](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8754)
+
+### Artículo 34. Cuantía.
+
+La cuantía de la ayuda es de 11.000,00 euros, por persona joven contratada.
+
+### Artículo 35. Financiación.
+
+La dotación presupuestaria para la contratación de personas jóvenes en prácticas es de 1.500.000,00 euros. La financiación proviene del Servicio Público de Empleo de Cataluña y será traspasado a la Agencia Catalana de la Juventud, exclusivamente para este fin.
+
+### Disposición adicional.
+
+Se modifica la disposición final segunda del Decreto-ley 7/2020, de 17 de marzo, de medidas urgentes en materia de contratación pública, de salud y gestión de residuos sanitarios, de transparencia, de transporte público y en materia tributaria y económica, que queda redactada de la siguiente forma:
+
+> «Segunda.
+
+> Las modificaciones a que se refiere este Decreto-ley, si afectan disposiciones de rango reglamentario, siguen manteniendo su rango normativo.»
+
+### Disposición transitoria.
+
+Las solicitudes de la prestación previstas en este Decreto-ley que hayan sido presentadas antes de finalizar el estado de alarma decretado por el Real Decreto 463/2020, de 14 de marzo, y sus prórrogas o, posteriormente, antes que se agote la dotación presupuestaria, y se encuentren pendientes de resolución en aquella fecha, se tramitarán de acuerdo con lo establecido en este Decreto-ley.
+
+### Disposición derogatoria.
+
+Se deroga el artículo 1.5.d del Decreto-ley 2/2020, de 21 de enero, de necesidades financieras del sector público en prórroga presupuestaria y de modificación del texto refundido de la legislación en materia de aguas de Cataluña, aprobado por el Decreto legislativo 3/2003, de 4 de noviembre.
+
+### Disposición final primera. Habilitación y autorización a los departamentos competentes.
+
+1\. Se faculta a los órganos competentes de los departamentos con competencias en materia de cultura y prestaciones sociales para que, en sus ámbitos de competencia, puedan aprobar las disposiciones necesarias para la efectividad y la ejecución de lo dispuesto en los capítulo II a V, respectivamente, de este Decreto-ley, así como para que se impulsen las medidas de gestión electrónica de expedientes y notificación de resoluciones mediante la publicación en el Tablón electrónico para la tramitación inmediata de la prestación creada en el artículo 2.
+
+2\. Se autoriza al departamento competente en materia de economía y hacienda a realizar las modificaciones presupuestarias necesarias para cumplir lo establecido en el presente Decreto-ley y adoptar las medidas que sean oportunas para hacer efectivo el pago de la prestación que se prevé.
+
+### Disposición final segunda.
+
+Este Decreto-ley entra en vigor el mismo día de su publicación en el «Diari Oficial de la Generalitat de Catalunya».
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación este Decreto-ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda lo hagan cumplir.
+
+Barcelona, 2 de junio de 2020.–El Presidente de la Generalidad de Cataluña, Joaquim Torra i Pla.–El Vicepresidente del Gobierno y Consejero de Economía y Hacienda, Pere Aragonès i Garcia.
+
+> Información relacionada
+
+> El Decreto-ley 21/2020, de 2 de junio, ha sido convalidado por Acuerdo del Parlamento de Cataluña, publicado por Resolución 845/XII de 8 de julio de 2020. [Ref. DOGC-f-2020-90278](https://www.boe.es/buscar/doc.php?id=DOGC-f-2020-90278)

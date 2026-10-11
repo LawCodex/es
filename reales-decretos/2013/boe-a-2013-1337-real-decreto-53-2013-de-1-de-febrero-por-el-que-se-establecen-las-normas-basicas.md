@@ -1,0 +1,4623 @@
+---
+title: "Real Decreto 53/2013, de 1 de febrero, por el que se establecen las normas básicas aplicables para la protección de los animales utilizados en experimentación y otros fines científicos, incluyendo la docencia"
+identifier: "BOE-A-2013-1337"
+eli: "https://www.boe.es/eli/es/rd/2013/02/01/53"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2013-02-01
+published: 2013-02-08
+in_force_from: 2013-02-09
+last_amended: 2025-12-04
+consolidated: 2026-06-05
+gazette: "Boletín Oficial del Estado núm. 34"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-1337"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 53/2013, de 1 de febrero, por el que se establecen las normas básicas aplicables para la protección de los animales utilizados en experimentación y otros fines científicos, incluyendo la docencia
+
+> Incluye las correcciones de errores publicadas en BOE núms. 100, de 26 de abril de 2013. [Ref. BOE-A-2013-4413](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4413). y 79, de 2 de abril de 2015. [Ref. BOE-A-2015-3574](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3574).
+
+El Tratado de Funcionamiento de la Unión Europea incluye, dentro de las disposiciones de aplicación general, en su artículo 13, la obligación de la Unión y de los Estados miembros de tener plenamente en cuenta el bienestar de los animales cuando formulen y apliquen algunas políticas, tales como la política de investigación, de desarrollo tecnológico y de mercado interior. En este ámbito, el 22 de septiembre de 2010, el Parlamento Europeo y el Consejo adoptaron la Directiva 2010/63/UE, relativa a la protección de los animales utilizados para fines científicos, que debe ser incorporada al ordenamiento jurídico español.
+
+La citada Directiva 2010/63/UE deroga la Directiva 86/609/CE, del Consejo, de 24 de noviembre de 1986, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros respecto a la protección de los animales utilizados para experimentación y otros fines científicos, que fue incorporada a nuestro ordenamiento a través del Real Decreto 223/1988, de 14 de marzo, el cual a su vez fue derogado y sustituido por el Real Decreto 1201/2005, de 10 de octubre, sobre protección de los animales utilizados para experimentación y otros fines científicos.
+
+Por otra parte, la Comisión Europea, a través de la Recomendación 2007/526/CE, de 18 de junio de 2007, estableció las líneas directrices relativas al alojamiento y al cuidado de los animales utilizados para experimentación y otros fines científicos que, por otra parte, se había adoptado en el ámbito del Consejo de Europa como Apéndice A del Convenio Europeo sobre la protección de los animales vertebrados utilizados con fines experimentales u otros fines científicos (ETS 123).
+
+La nueva directiva ha supuesto un importante avance en materia de bienestar animal, no solo porque adapta los requisitos generales mínimos a los avances científicos, sino también porque amplía el ámbito de aplicación de las normas de protección a los cefalópodos y a determinadas formas fetales de los mamíferos, y porque establece como principio general la promoción e implementación del «principio de las tres erres», es decir el reemplazo, la reducción y el refinamiento de los procedimientos, fomentando el uso de métodos alternativos a la experimentación con animales vivos.
+
+Aunque la protección que otorga este real decreto no puede extenderse hoy por hoy a los nuevos animales hasta que se reforme la Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio, esta norma se aprueba de manera que su protección se extenderá automáticamente en cuanto se introduzca el cambio previsto en la citada Ley. Lo mismo sucede con el régimen sancionador que ahora sólo se aplicará a las infracciones de procedimientos previstos en la Ley 32/2007 y quedará extendido en cuanto esta se reforme.
+
+Solo se podrán utilizar animales cuando su uso esté justificado por la finalidad que se persigue, valorando su oportunidad siempre en términos de sus potenciales beneficios. Se regulan detalladamente las condiciones mínimas en las que han de alojarse los animales y los cuidados que éstos han de recibir, así como los requisitos mínimos exigidos a los criadores, suministradores y usuarios de animales de experimentación, todo ello con el objetivo principal de garantizar su bienestar en la mayor medida posible. Se establecen así mismo las normas a las que deben atenerse los proyectos y procedimientos desde que se inician hasta que finalizan.
+
+Se marca como objetivo último el total reemplazo de los animales en los procedimientos y se fijan normas específicas para la utilización de determinados tipos de animales, como pueden ser los animales vagabundos y asilvestrados, la fauna silvestre, las especies amenazadas y los animales de compañía. En este sentido, se fijan unos requisitos especialmente estrictos en el caso de los primates no humanos.
+
+Se introducen también relevantes cambios en los requisitos formales de control a los que se deben someter los proyectos y procedimientos en los que se utilicen animales vivos. A este respecto se pueden destacar las normas que regulan la necesidad de evaluación previa de los proyectos, de evaluación retrospectiva de los mismos en determinados casos, la obligatoriedad de clasificar los procedimientos en función de su grado de severidad, las exigencias de transparencia e información, y otros muchos requisitos cuyo único objetivo es garantizar el mejor trato posible a los animales.
+
+Se establecen asimismo los criterios básicos en cuanto a la capacitación necesaria par la realización de determinadas funciones, en línea con los resultados del consenso entre los Estados miembros y la Comisión Europea para la elaboración de directrices que armonicen los requisitos para el reconocimiento de dicha capacitación y así facilitar el movimiento entre los Estados miembros.
+
+Otras novedades de importancia son la creación de una red de comités nacionales de bienestar y de puntos de contacto nacionales de coordinación en materia de implementación de las normas de protección y de los métodos alternativos. También se establece la obligatoriedad de que todos los criadores, suministradores y usuarios dispongan de órganos encargados del bienestar de los animales.
+
+Dada la entidad de las modificaciones que se introducen, de las que en este preámbulo solo se han citado algunas, por motivos de seguridad jurídica se ha determinado la conveniencia de promulgar una nueva norma que con rango de real decreto derogue y sustituya al Real Decreto 1201/2005, de 10 de octubre.
+
+Este real decreto se dicta en desarrollo de la Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio, en el ejercicio de la potestad reglamentaria que con carácter general atribuye al Gobierno el artículo 97 de la Constitución. Dado el carácter marcadamente técnico de esta disposición, se considera ajustada su adopción mediante real decreto.
+
+En la elaboración de este real decreto han sido consultados las comunidades autónomas y los sectores afectados.
+
+En su virtud, a propuesta de los Ministros de Agricultura, Alimentación y Medio Ambiente y de Economía y Competitividad, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 1 de febrero de 2013,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Objeto y finalidad.
+
+1\. El objeto del presente real decreto es establecer las normas aplicables para la protección de los animales utilizados, criados o suministrados con fines de experimentación y otros fines científicos, incluyendo la educación y docencia.
+
+Para ello, regula lo siguiente:
+
+a) El reemplazo y reducción de la utilización de animales en procedimientos y el refinamiento de la cría, el alojamiento, los cuidados y la utilización de animales en tales procedimientos.
+
+b) El origen, la cría, el marcado, los cuidados, el alojamiento y la eutanasia de los animales.
+
+c) Las actividades de los criadores, suministradores o usuarios.
+
+d) La evaluación y autorización de proyectos en cuyos procedimientos se utilicen animales.
+
+2\. Este real decreto tiene como finalidad asegurar dicha protección, y en particular que:
+
+a) El número de animales utilizados en los procedimientos se reduzca al mínimo, aplicando en lo posible métodos alternativos;
+
+b) no se les cause innecesariamente dolor, sufrimiento, angustia o daño duradero;
+
+c) se evite toda duplicación inútil de procedimientos; y que
+
+d) a los animales utilizados, criados o suministrados se les concedan los cuidados adecuados.
+
+#### Artículo 2. Ámbito de aplicación.
+
+1\. Este real decreto será de aplicación cuando se utilicen o se tenga previsto utilizar animales en procedimientos o cuando se críen animales específicamente para que sus órganos o tejidos puedan utilizarse con fines científicos.
+
+2\. El presente real decreto se aplicará hasta que a los animales contemplados en el primer apartado les haya sido aplicada la eutanasia, realojados o reintegrados a un hábitat o sistema zootécnico conveniente.
+
+3\. Se entenderán incluidos dentro del ámbito del presente real decreto todos los animales utilizados en los procedimientos, aunque se haya conseguido la eliminación del dolor, sufrimiento, angustia o daño duradero mediante el empleo satisfactorio de analgesia, anestesia u otros métodos.
+
+4\. El presente real decreto se aplicará a los animales a los que se refiere la Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio, y en todo caso a los animales siguientes:
+
+a) Animales vertebrados no humanos vivos, incluidos:
+
+1.º Las larvas autónomas para su alimentación, y
+
+2.º Los fetos de mamíferos a partir del último tercio de su desarrollo normal;
+
+b) Cefalópodos vivos.
+
+Se aplicará asimismo a los animales que se encuentren en una fase de desarrollo anterior si se va a permitir que el animal viva más allá de esa fase de desarrollo y como resultado de los procedimientos realizados sea probable que padezca dolor, sufrimiento, angustia o daño duradero después de haber alcanzado dicha fase de desarrollo.
+
+5\. Quedan excluidas del ámbito de aplicación:
+
+a) Las prácticas agropecuarias no experimentales;
+
+b) las prácticas veterinarias clínicas no experimentales;
+
+c) los estudios veterinarios clínicos necesarios en el marco de la obtención de la autorización de comercialización de medicamentos veterinarios;
+
+d) las prácticas realizadas con fines zootécnicos reconocidos;
+
+e) las prácticas realizadas con el objetivo principal de identificar un animal;
+
+f) las prácticas en las que no sea probable que se les ocasione dolor, sufrimiento, angustia o daño duradero equivalentes o superiores a los causados por la introducción de una aguja conforme a la buenas prácticas veterinarias.
+
+6\. El presente real decreto se aplicará sin perjuicio del Real Decreto 1599/1997, de 17 de octubre, sobre productos cosméticos y sus modificaciones, y la legislación de la Unión Europea que lo sustituya.
+
+> Se modifica el apartado 4 por el art. único.1 del Real Decreto 1386/2018, de 19 de noviembre. [Ref. BOE-A-2018-15797](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15797)
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 100, de 26 de abril de 2013. [Ref. BOE-A-2013-4413](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4413).
+
+#### Artículo 3. Definiciones.
+
+1\. A los efectos del presente real decreto, se entenderá como:
+
+a) Centro o establecimiento: Toda instalación, edificio, grupo de edificios u otros locales e instalaciones móviles, incluidos aquellos no totalmente cerrados o cubiertos
+
+b) Criador: Cualquier persona que críe animales de las especies incluidas en el anexo I con el fin de utilizarlos en procedimientos o para utilizar sus tejidos u órganos con fines científicos, así como cualquier persona que críe animales de otras especies principalmente con estos fines, con o sin ánimo de lucro.
+
+c) Eutanasia: La interrupción de la vida de un animal con el menor sufrimiento posible, de acuerdo con su especie y estado.
+
+d) Órgano competente: Los entes, autoridades o unidades administrativas de las comunidades autónomas y de las ciudades de Ceuta y Melilla competentes en cada una de las materias reguladas en este real decreto.
+
+e) Órgano habilitado: Organismo público, o asociación o sociedad privada, autorizada y designada por el órgano competente para realizar algunas de las funciones específicas que se establecen en el presente real decreto. Cabe distinguir, a este respecto, el órgano habilitado para la evaluación de proyectos que, conforme a lo dispuesto en el artículo 43, se prestará en régimen de libre concurrencia, de la habilitación para la realización de otras actuaciones de carácter técnico, que se regirán por lo que al efecto, disponga el órgano competente.
+
+f) Primate: Cualquier primate no humano.
+
+g) Procedimiento: La utilización, tanto invasiva como no invasiva, de un animal con fines experimentales u otros fines científicos, cuyos resultados sean predecibles o impredecibles, o con fines educativos siempre que dicha utilización pueda causarle al animal un nivel de dolor, sufrimiento, angustia o daño duradero equivalente o superior al causado por la introducción de una aguja conforme a las buenas prácticas veterinarias.
+
+Asimismo, se considera procedimiento cualquier intervención que de forma intencionada o casual provoque, o pueda provocar, el nacimiento de un animal, la eclosión de un huevo o la creación y mantenimiento de una línea de animales modificados genéticamente en las condiciones de dolor, sufrimiento, angustia o daño duradero citadas en el párrafo anterior.
+
+No se considera procedimiento la eutanasia de los animales cuando se realiza con el único fin de utilizar sus órganos o tejidos.
+
+Un procedimiento se considerará concluido cuando ya no se va a hacer ninguna observación ulterior para dicho procedimiento o, en el caso de nuevas líneas animales modificadas genéticamente, cuando la progenie no se observe ni se espere que experimente dolor, sufrimiento, angustia o daño duradero equivalente o superior al causado por la introducción de una aguja.
+
+h) Proyecto: Programa de trabajo con un objetivo científico definido y en el que se realicen uno o varios procedimientos.
+
+i) Suministrador: Cualquier persona, distinta del criador, que adquiera o mantenga animales con el fin de que éstos se utilicen en procedimientos o de que sus tejidos u órganos se utilicen con fines científicos, y suministre dichos animales con alguno de estos fines, con o sin ánimo de lucro.
+
+j) Usuario: Cualquier persona que utilice animales en procedimientos, con o sin ánimo de lucro.
+
+> Redactadas las letras b), d), y renombradas las siguientes conforme a la corrección de errores publicada en BOE núm. 100, de 26 de abril de 2013. [Ref. BOE-A-2013-4413](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4413).
+
+## CAPÍTULO II — Principios y condiciones generales
+
+#### Artículo 4. Principio de reemplazo, reducción y refinamiento.
+
+1\. Se utilizarán siempre que sea posible, en lugar de un procedimiento, métodos o estrategias de ensayo científicamente satisfactorios que no conlleven la utilización de animales vivos.
+
+2\. El número de animales utilizados se reducirá al mínimo siempre que ello no comprometa los objetivos del proyecto.
+
+3\. Las actividades relacionadas con la cría, el alojamiento y los cuidados, así como los métodos utilizados en procedimientos, se refinarán tanto como sea posible para eliminar o reducir al mínimo cualquier posible dolor, sufrimiento, angustia o daño duradero a los animales.
+
+4\. En lo relativo a la elección de los métodos, el principio de reemplazo, reducción y refinamiento, se aplicará conforme a lo dispuesto en el artículo 24. Cuando de esta elección resulte un procedimiento, éste se realizará conforme a lo establecido en el artículo 25.
+
+5\. Los órganos competentes se asegurarán de la aplicación de los apartados anteriores y contribuirán al desarrollo y validación de planteamientos alternativos que puedan aportar un nivel de información igual o superior al obtenido en procedimientos con animales, pero que no utilicen o utilicen menos animales o impliquen procedimientos menos dolorosos.
+
+6\. La Administración General del Estado y los órganos competentes darán los pasos que consideren apropiados para fomentar la investigación en este campo y velarán por la promoción de los planteamientos alternativos y la difusión de la información sobre éstos a escala nacional.
+
+#### Artículo 5. Finalidad de los procedimientos.
+
+La utilización de animales en los procedimientos sólo podrá tener lugar cuando persiga alguno de los siguientes fines:
+
+a) Investigación fundamental.
+
+b) Investigación traslacional o aplicada, y los métodos científicos con cualquiera de las finalidades siguientes:
+
+1.º La prevención, profilaxis, diagnóstico o tratamiento de enfermedades, mala salud u otras anomalías o sus efectos en los seres humanos, los animales o las plantas.
+
+2.º La evaluación, detección, regulación o modificación de las condiciones fisiológicas en los seres humanos, los animales o las plantas.
+
+3.º El bienestar de los animales, en particular la mejora de las condiciones de producción de los animales criados con fines agropecuarios.
+
+c) El desarrollo y la fabricación de productos farmacéuticos, alimentos, piensos y otras sustancias o productos, así como la realización de pruebas para comprobar su calidad, eficacia y seguridad, con cualquiera de las finalidades indicadas en la letra b).
+
+d) La protección del medio natural en interés de la salud o el bienestar de los seres humanos o los animales.
+
+e) La investigación dirigida a la conservación de las especies.
+
+f) La enseñanza superior o la formación para la adquisición o mejora de las aptitudes profesionales.
+
+g) La medicina legal y forense.
+
+#### Artículo 6. Condiciones generales de alojamiento y cuidado de los animales.
+
+1\. Los criadores, suministradores y usuarios deberán cumplir los siguientes requisitos en relación con el cuidado general y alojamiento de los animales:
+
+a) Se les proporcionará el alojamiento, entorno, alimentos, agua y cuidados que sean adecuados a su especie, condiciones fisiológicas y estado sanitario y que garanticen su adecuado estado general.
+
+b) Se reducirá en lo posible cualquier restricción que impida o limite las posibilidades de los animales de satisfacer sus necesidades fisiológicas y etológicas.
+
+c) Se verificarán a diario las condiciones ambientales en las que se críen, mantengan o utilicen los animales.
+
+d) Se dispondrá de medios que garanticen la eliminación en el plazo más breve posible de cualquier deficiencia que pueda provocar sufrimiento, dolor, angustia o daño duradero evitables que se descubra.
+
+e) Las normas de trabajo e instrucciones de uso de todos los elementos constarán por escrito.
+
+f) Se dispondrá por escrito un plan de actuación en caso de emergencia o catástrofe, que contemplará medidas en relación con los animales alojados, que podrá estar integrado con otros planes del establecimiento y que reflejará la adecuada coordinación con el resto de planes de emergencia del centro de trabajo
+
+2\. Los establecimientos o centros deben cumplir lo establecido en el anexo II, a más tardar en las fechas indicadas en el mismo.
+
+3\. Los órganos competentes podrán conceder excepciones a lo dispuesto en el apartado 1.a) y en el apartado 2, por razones científicas, de bienestar o de sanidad de los animales.
+
+#### Artículo 7. Métodos de eutanasia.
+
+1\. La eutanasia de los animales se realizará:
+
+a) Con el menor dolor, sufrimiento y angustia posibles.
+
+b) Por una persona capacitada.
+
+c) En un establecimiento de un criador, suministrador o usuario, salvo que se trate de un estudio de campo o que sea aplicable lo previsto en el apartado 1.b) del anexo III.
+
+2\. En relación con los animales a que se refiere el anexo III se utilizará el método de eutanasia adecuado tal como figura en dicho anexo.
+
+3\. El órgano competente podrá conceder excepciones al requisito establecido en el apartado 2:
+
+a) Para permitir el uso de otro método siempre que a partir de pruebas científicas se considere que el método posee al menos, la misma ausencia de crueldad; o bien
+
+b) si se justifica científicamente que la finalidad del procedimiento no puede conseguirse utilizando ninguno de los métodos de eutanasia contemplados en el anexo III.
+
+4\. Los letras b) y c) del apartado 1 y el apartado 2 no se aplicarán cuando sea necesario dar muerte a un animal en situaciones de emergencia por motivos de bienestar animal, sanidad animal, salud pública, orden público, o medioambientales.
+
+#### Artículo 8. Puesta en común de órganos y tejidos.
+
+La Administración General del Estado y los órganos competentes fomentarán, a través del comité regulado en el artículo 44, el establecimiento, entre usuarios y demás operadores, de programas para compartir órganos y tejidos. Estos programas podrán contemplar la creación de bases de datos compartidas y otras medidas de colaboración y difusión de información.
+
+#### Artículo 9. Transporte de los animales.
+
+1\. El transporte de los animales se realizará conforme a la normativa vigente, en particular, en materia de comercio, sanidad y bienestar animal.
+
+2\. Los contenedores de transporte garantizarán la contención de los animales, permitiéndoles al mismo tiempo la libertad de movimientos adecuada en función de su especie, edad y estado. Los vehículos de transporte dispondrán, cuando proceda, de sistemas de anclaje para evitar movimientos bruscos perjudiciales para el bienestar de los animales.
+
+3\. Si en el marco de un proyecto es necesario proceder al traslado de un animal, éste se acompañará de un documento de traslado emitido por el veterinario del centro de origen, cuyo período de validez no podrá ser superior al del documento sanitario de movimiento correspondiente y en el que deberán figurar, como mínimo, los datos que se recogen en el anexo IV.
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 100, de 26 de abril de 2013. [Ref. BOE-A-2013-4413](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4413).
+
+#### Artículo 10. Identificación de los animales.
+
+Todos los animales pertenecientes a especies con sistemas de identificación ya regulados deberán estar identificados conforme la normativa vigente en esta materia.
+
+#### Artículo 11. Identificación de los sistemas de confinamiento.
+
+Los sistemas de confinamiento de los animales deberán estar provistos de un sistema que permita consignar los datos de identificación de los animales allí alojados. A menos que no sea posible por las circunstancias o las características de los animales allí confinados, se especificarán como mínimo los datos que se relacionan en el anexo V.
+
+#### Artículo 12. Registros de los animales.
+
+Los criadores, suministradores y usuarios deberán registrar como mínimo los datos que se fijan en el anexo VI. Estos datos deberán conservarse al menos durante cinco años y estar a disposición del órgano competente, cuando éste lo solicite
+
+#### Artículo 13. Requisitos adicionales para perros, gatos y primates.
+
+1\. Los perros, gatos y primates deberán disponer, preferiblemente antes de su destete, de un marca identificativa, individual y permanente, realizada de forma que se les cause el menor dolor posible.
+
+2\. Cuando un perro, gato o primate sea trasladado desde un criador, suministrador o usuario a otro antes de su destete y no sea posible marcarlo previamente, el receptor del animal conservará, hasta que se proceda al marcado, un registro en el que consten al menos los datos de la madre.
+
+3\. El criador, suministrador o usuario que reciba un perro, gato o primate destetado que no esté marcado, deberá dotar al mismo, tan pronto como sea posible, de una marca identificativa, individual y permanente, realizada de forma que se le cause el menor dolor posible.
+
+4\. El criador, suministrador o usuario justificará, en su caso y cuando lo solicite el órgano competente, las razones por las que éstos animales no disponen de marca identificativa.
+
+5\. Los criadores, suministradores y usuarios deben conservar, sobre cada perro, gato y primate, los datos siguientes:
+
+a) Identidad.
+
+b) Lugar y fecha de nacimiento, cuando se conozcan.
+
+c) Si ha sido criado para utilizarlo en procedimientos.
+
+d) En el caso de los primates, si son descendientes de primates criados en cautividad.
+
+6\. Cada perro, gato y primate, tendrá un historial que acompañará al animal mientras éste se mantenga a los efectos del presente real decreto. El historial se creará cuando nazca el animal o tan pronto como sea posible y contendrá toda la información pertinente sobre los aspectos reproductivos, veterinarios y etológicos del individuo, así como de los proyectos en los que ha sido utilizado. En el caso de realojamiento, la información veterinaria y etológica del individuo que se considere pertinente acompañará al animal.
+
+7\. La información a que se refiere el presente artículo se conservará por lo menos durante tres años tras la muerte o el realojamiento del animal y se pondrá a disposición del órgano competente, previa solicitud del mismo.
+
+## CAPÍTULO III — Criadores, suministradores y usuarios
+
+#### Artículo 14. Requisitos generales.
+
+1\. Los establecimientos de los criadores, suministradores y usuarios deben disponer de las instalaciones y el equipo idóneos para las especies de animales alojados y, si efectúan procedimientos, para la realización de los mismos.
+
+2\. El diseño, construcción y funcionamiento de las instalaciones y equipos a que se refiere el apartado 1 garantizarán que los procedimientos se realicen con la máxima eficacia posible, y favorecerán la obtención de resultados fiables utilizando el menor número de animales y causando el menor grado de dolor, sufrimiento, angustia o daño duradero.
+
+3\. A los efectos de los apartados 1 y 2, deberán cumplir los requisitos establecidos en el anexo II, que les sean aplicables.
+
+4\. Cada criador, suministrador o usuario designará:
+
+a) Al menos un especialista responsable en bienestar de los animales, que será responsable *in situ* de la supervisión del bienestar y cuidado de los animales en el establecimiento.
+
+b) Al menos un veterinario, en adelante el veterinario designado, con conocimientos y experiencia en medicina de animales de laboratorio, o a un especialista debidamente cualificado, si fuera más apropiado, que tendrá, con independencia de las demás actividades que pueda desarrollar, funciones consultivas en relación con el bienestar y el tratamiento de los animales, sin perjuicio de lo dispuesto en el artículo 37 del Real Decreto Legislativo 1/2015, de 24 de julio, por el que se aprueba el texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, y sus decisiones y opiniones profesionales deberán ser tomadas en consideración por el usuario, criador o suministrador y por el órgano encargado del bienestar animal establecido en el artículo 37.
+
+c) Una o varias personas físicas que sean responsables *in situ* del cumplimiento de este real decreto, y en particular de que se hayan designado los especialistas indicados en las letras a) y b) de este apartado, que garanticen que el personal que se ocupa de los animales tiene acceso a la información específica sobre las especies alojadas en el establecimiento y que sean responsables de velar porque el personal esté adecuadamente formado, esté capacitado, tenga acceso a una formación continúa, y que, mientras no haya demostrado tal capacitación, esté sometido a supervisión por personal capacitado.
+
+5\. Una misma persona podrá realizar varias o todas las funciones a las que se hace referencia en este artículo, siempre que reúna los distintos requisitos de capacitación establecidos en este real decreto y demás normativa aplicable en cada caso.
+
+> Se modifica la letra b) del apartado 4 por el art. único.2 del Real Decreto 1386/2018, de 19 de noviembre. [Ref. BOE-A-2018-15797](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15797)
+
+#### Artículo 15. Requisitos aplicables al personal.
+
+1\. Los criadores, suministradores y usuarios dispondrán de suficiente personal *in situ*.
+
+2\. Las personas que realicen las funciones siguientes deberán poseer la capacitación previa adecuada:
+
+a) Cuidado de los animales.
+
+b) Eutanasia de los animales.
+
+c) Realización de los procedimientos.
+
+d) Diseño de los proyectos y procedimientos
+
+e) Asumir la responsabilidad de la supervisión in situ del bienestar y cuidados de los animales.
+
+f) Asumir las funciones de veterinario designado.
+
+3\. El personal que realice las funciones indicadas en las letras a), b) y c) del apartado 2 deberá reunir los requisitos de capacitación conforme a lo establecido en el apartado 6. El órgano competente podrá autorizar que personas que aún no hayan demostrado su total capacitación desempeñen esas funciones de forma temporal y bajo supervisión responsable.
+
+4\. El personal que realice las funciones indicadas en la letra d) del apartado 2 deberán haber recibido instrucción en una disciplina científica pertinente para el proyecto o procedimiento y un conocimiento específico de las especies involucradas, además de reunir los requisitos de capacitación conforme a lo establecido en el apartado 6.
+
+5\. El personal que realice las funciones indicadas en las letras e) y f) del apartado 2 deberá reunir los requisitos de capacitación conforme a lo establecido en el apartado 6.
+
+6\. Los órganos competentes garantizarán por medio de autorización u otros medios adecuados, la capacitación del personal para llevar a cabo las funciones relacionadas en el apartado 2.
+
+a) La capacitación del personal podrá tener una estructura modular basada, en su caso, en guías, directrices o recomendaciones publicadas por la Unión Europea.
+
+b) Los requisitos mínimos de formación previa o de otra índole se expresarán, en su caso, en resultados de aprendizaje. Para las funciones a), b), c) y d) se, basarán en los elementos establecidos en el anexo VII
+
+7\. El reconocimiento de la capacitación para la realización de las funciones relacionadas en el apartado 2 por parte de un órgano competente surtirá efecto en todo el territorio nacional.
+
+8\. El reconocimiento de la capacitación para la realización de las funciones relacionadas en el apartado 2 por parte de las autoridades competentes de otro Estado miembro surtirá efecto en todo el territorio nacional, conforme al principio de reciprocidad.
+
+#### Artículo 16. Autorización de criadores, suministradores y usuarios.
+
+1\. Los criadores, suministradores y usuarios y sus establecimientos deberán estar autorizados por el órgano competente con carácter previo al inicio de sus actividades. Dicha autorización estará condicionada al cumplimiento de, al menos, los requisitos establecidos en el presente real decreto. Cuando se simultaneen actividades de cría, aunque sea para uso propio, suministro o utilización de animales en procedimientos, se deberá solicitar autorización para todas y cada una de ellas.
+
+2\. Los criadores, suministradores y usuarios deberán solicitar la confirmación o renovación de su autorización:
+
+a) Ante cualquier cambio significativo de la estructura o de las actividades del criador, suministrador o usuario que pueda tener efectos negativos sobre el bienestar de los animales.
+
+b) Cuando vayan a criar, suministrar o utilizar nuevas especies.
+
+c) Transcurridos 10 años desde la emisión o última renovación de la autorización.
+
+3\. En la autorización se especificarán la persona o personas responsables de garantizar el cumplimiento de las disposiciones del presente real decreto, el especialista responsable del bienestar de los animales y el veterinario designado.
+
+4\. Si un criador, suministrador o usuario deja de cumplir los requisitos establecidos en el presente real decreto, el órgano competente adoptará las medidas correctoras apropiadas o exigirá que se adopten dichas medidas y, en su caso, suspenderá o retirará su autorización.
+
+5\. Cuando se suspenda o retire una autorización, el órgano competente se asegurará de que se tomen las medidas necesarias para que no se vea afectado negativamente el bienestar de los animales alojados en el establecimiento.
+
+#### Artículo 17. Registro de criadores, suministradores y usuarios.
+
+1\. Los criadores, suministradores y usuarios deben inscribirse en el Registro General de Explotaciones Ganaderas, creado y regulado por el Real Decreto 479/2004, de 26 de marzo, por el que se establece y regula el Registro General de Explotaciones Ganaderas, y, en su caso, en un registro específico a tales efectos.
+
+2\. Los centros integrados por unidades físicamente independientes entre sí se registrarán como un único centro, a menos que tengan un funcionamiento y una organización independientes, se localicen en municipios diferentes o que ello determine la competencia de distintos órganos.
+
+> Téngase en cuenta que la actualización del apartado 2, establecida por el art. único.1 del Real Decreto 1083/2025, de 2 de diciembre, [Ref. BOE-A-2025-24547](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24547), entra en vigor el 5 de junio de 2026, según determina su disposición final 3.
+
+> Redacción anterior:
+
+> "2. Los centros integrados por unidades físicamente independientes entre sí se registrarán como un único centro, a menos que tengan un funcionamiento y una organización independientes, o que ello determine la competencia de distintos órganos competentes."
+
+3\. Cuando se simultaneen actividades de cría, suministro o utilización de animales en procedimientos, en el registro se especificarán todas y cada una de ellas.
+
+4\. Cualquier modificación de los datos que figuren inscritos, derivada de ampliaciones, reducciones, traslados, cambios del personal responsable u otras circunstancias, así como en el caso de suspensión o cese de la actividad, o de cambio de titularidad, deberá ser comunicada al órgano competente en el plazo máximo de un mes desde que dicha modificación se haya producido, para que se efectúe la correspondiente modificación en el registro. En particular debe comunicarse el cambio de cualquiera de las personas a las que se refiere el artículo 14.4.
+
+> Se modifica el apartado 2, con efectos desde el 5 de junio de 2026, por el art. único.1 del Real Decreto 1083/2025, de 2 de diciembre. [Ref. BOE-A-2025-24547](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24547)
+
+#### Artículo 18. Requisitos adicionales para los criadores de primates.
+
+Los criadores de primates deberán tener una estrategia para aumentar el porcentaje de animales que sean descendientes de primates criados en cautividad.
+
+## CAPÍTULO IV — Animales utilizados en procedimientos
+
+#### Artículo 19. Animales criados para ser utilizados en procedimientos.
+
+Los animales pertenecientes a las especies enumeradas en el anexo I sólo podrán utilizarse en procedimientos cuando hayan sido criados a tal fin. Los órganos competentes podrán conceder excepciones a lo anterior si está justificado científicamente.
+
+#### Artículo 20. Animales de especies amenazadas.
+
+1\. No se utilizarán en procedimientos animales de las especies amenazadas incluidas en el anexo A del Reglamento (CE) n.º 338/97, del Consejo, de 9 de diciembre de 1996, relativo a la protección de especies de la fauna y flora silvestres mediante el control de su comercio, que no estén contemplados en los supuestos del artículo 7 de dicho Reglamento, salvo si se cumplen las dos condiciones siguientes:
+
+a) El procedimiento tiene una de las finalidades indicadas en el número 1 del apartado b), en el apartado c) o en el apartado e) del artículo 5 de este real decreto.
+
+b) Se ha justificado científicamente que la finalidad del procedimiento no puede conseguirse utilizando animales de otras especies.
+
+2\. El apartado primero no se aplicará a ninguna especie de primate, cuya utilización se atendrá a las disposiciones del artículo 21.
+
+#### Artículo 21. Primates.
+
+1\. No se utilizarán en los procedimientos los animales de las especies *Gorilla gorilla* (gorila), *Pan troglodytes*(chimpancé), *Pan paniscus* (bonobo o «chimpancé pigmeo») y *Pongo pygmaeus* (orangután).
+
+2\. No se utilizarán primates de las especies enumeradas en el anexo A del Reglamento (CE) n.º 338/97, del Consejo, de 9 de diciembre de 1996, que no estén contemplados en los supuestos del artículo 7, apartado 1 de dicho reglamento, salvo que se cumplan las dos condiciones siguientes:
+
+a) El procedimiento tiene una de las finalidades indicadas en:
+
+1.º El número 1 del apartado b) o en el apartado c) del artículo 5 del presente real decreto y se realiza con el fin de evitar, prevenir, diagnosticar o tratar enfermedades discapacitantes o que potencialmente puedan poner en peligro la vida de los seres humanos; o
+
+2.º El apartado e) del artículo 5.
+
+b) Se ha justificado científicamente que la finalidad del procedimiento no puede conseguirse utilizando animales diferentes de los primates ni con animales de especies no incluidas en el anexo A del Reglamento (CE) n.º 338/97, del Consejo, de 9 de diciembre de 1996.
+
+3\. El resto de primates no se utilizarán en procedimientos, salvo si se cumplen las dos condiciones siguientes:
+
+a) Se ha justificado científicamente que la finalidad del procedimiento no puede conseguirse utilizando animales no primates;
+
+b) el procedimiento tiene una de las finalidades indicadas en:
+
+1.º El número 1 del apartado b).o en el apartado c) del artículo 5 del presente real decreto y se realiza con fines de prevención, profilaxis, diagnóstico o tratamiento de enfermedades discapacitantes o que puedan poner en peligro la vida de seres humanos; o
+
+2.º Los apartados a) o e) del artículo 5.
+
+4\. Se entenderá por enfermedad discapacitante, a efectos de este real decreto, el proceso patológico que curse con una reducción de la capacidad física o psicológica normal de una persona.
+
+5\. Los primates incluidos en el anexo VIII, a partir de las fechas fijadas en el mismo, sólo podrán utilizarse en procedimientos si son descendientes de primates criados en cautividad o si proceden de colonias autosostenidas. Los órganos competentes podrán conceder excepciones a lo anterior si está justificado científicamente.
+
+A efectos del presente apartado, se entenderá como «colonia autosostenida» aquella en la que los animales se crían solo en el seno de la misma o proceden de otras colonias pero no son animales capturados en estado silvestre; y en la que además se mantiene a los animales de manera que estén acostumbrados a los seres humanos
+
+#### Artículo 22. Animales capturados en la naturaleza.
+
+1\. No se utilizarán en procedimientos animales capturados en la naturaleza, salvo autorización expresa del órgano competente, que podrá concederla previa justificación científica de que la finalidad del procedimiento no puede alcanzarse utilizando animales criados para su utilización en procedimientos.
+
+2\. La captura de animales en la naturaleza únicamente se efectuará por una persona competente con métodos que no causen dolor, sufrimiento, angustia o daño duradero que pueda evitarse. Todo animal que se encuentre herido o en mal estado de salud en el momento de su captura o con posterioridad a ésta deberá ser examinado por un veterinario, o en casos justificados, por otra persona capacitada, debiéndose adoptar las medidas necesarias para reducir al mínimo su sufrimiento. Solo excepcionalmente y previa justificación científica podrá el órgano competente autorizar que no se tomen estas medidas.
+
+#### Artículo 23. Animales asilvestrados y animales vagabundos de especies domésticas.
+
+No se utilizarán en procedimientos animales asilvestrados ni animales vagabundos de especies domésticas. El órgano competente podrá excepcionalmente autorizar su uso, siempre que se cumplan las siguientes condiciones:
+
+a) Existe una necesidad esencial de realizar estudios relacionados con la salud y bienestar de estos animales o con amenazas graves para el medio ambiente o para la salud humana o animal, y
+
+b) se ha justificado científicamente que la finalidad del procedimiento únicamente puede conseguirse utilizando animales vagabundos o animales asilvestrados.
+
+## CAPÍTULO V — Procedimientos y proyectos
+
+### Sección 1.ª Procedimientos
+
+#### Artículo 24. Elección de los métodos.
+
+1\. No deberá realizarse un procedimiento, si la normativa de la Unión Europea reconoce otro método u otra estrategia de ensayo para obtener el resultado perseguido que no implique la utilización de animales vivos.
+
+2\. Cuando se pueda elegir entre diversos procedimientos, se optará por aquellos que tengan las mayores probabilidades de proporcionar resultados satisfactorios y que cumplan el mayor número de los siguientes requisitos:
+
+a) Que utilicen el menor número de animales;
+
+b) que afecten a animales con la menor capacidad de sentir dolor, sufrimiento, angustia o daño duradero;
+
+c) que causen menor dolor, sufrimiento, angustia o daño duradero.
+
+#### Artículo 25. Condiciones generales de los procedimientos.
+
+1\. Con objeto de evitar duplicaciones innecesarias, los órganos competentes deberán aceptar los datos de otros Estados miembros obtenidos mediante procedimientos reconocidos por la legislación de la Unión Europea, salvo que deban realizarse otros procedimientos adicionales en relación con dichos datos para la protección de la salud pública, la seguridad o el medio ambiente.
+
+2\. Los procedimientos solo se podrán realizar si están incluidos dentro del marco de un proyecto autorizado de acuerdo con la sección 2.ª de este capítulo.
+
+3\. Los procedimientos deberán realizarse de forma que se evite a los animales cualquier dolor, sufrimiento, angustia o daño duradero que sean innecesarios.
+
+4\. Los procedimientos se realizarán en centros usuarios autorizados, salvo autorización del órgano competente, previa justificación científica de la necesidad o conveniencia de que se realicen fuera de dichos centros.
+
+5\. Los procedimientos únicamente podrán ser realizados por personas capacitadas o autorizadas de forma temporal en las condiciones establecidas en el artículo 15.3 bajo supervisión responsable.
+
+6\. Tan pronto como se haya conseguido la finalidad del procedimiento se tomarán las medidas adecuadas para minimizar el sufrimiento del animal.
+
+7\. La muerte como criterio de punto final de un procedimiento debe evitarse en lo posible y sustituirse por un criterio de finalización más humanitario que se pueda observar y aplicar en un momento anterior del procedimiento. En caso de que no pueda evitarse la muerte como criterio de punto final, el procedimiento estará concebido de tal manera:
+
+a) Que muera el menor número de animales posible; y
+
+b) que se reduzcan al mínimo posible la duración e intensidad del sufrimiento del animal y, en la medida de lo posible, se garantice una muerte sin dolor.
+
+#### Artículo 26. Anestesia y analgesia durante el procedimiento.
+
+1\. Los procedimientos deberán llevarse a cabo con anestesia general o local, salvo que se considere que es inapropiada porque:
+
+a) Es más traumática para el animal que el procedimiento en sí.
+
+b) Es incompatible con los fines del procedimiento.
+
+2\. Deberán utilizarse analgésicos u otros métodos idóneos para garantizar, en la medida de lo posible, que el dolor, el sufrimiento, la angustia o la lesión sean mínimos. Su aplicación, cuando proceda, debe ser realizada o supervisada por un veterinario.
+
+3\. Los procedimientos que impliquen lesiones graves que puedan causar dolores intensos no se llevarán a cabo sin anestesia.
+
+4\. No se suministrará a un animal ningún medicamento que impida o restrinja sus manifestaciones de dolor, salvo que haya recibido una dosis adecuada de anestesia o analgesia. En caso de que se suministre ese tipo de medicamentos deberá proporcionarse una justificación científica acompañada de una descripción del tratamiento por anestesia o analgesia, que estará a disposición del órgano competente.
+
+5\. Siempre que sea compatible con los fines del procedimiento, cuando se prevea que un animal va a sufrir dolor después de haberse recuperado de la anestesia, se le aplicará un tratamiento analgésico preventivo y paliativo, u otro método adecuado para calmar el dolor.
+
+#### Artículo 27. Clasificación de la severidad de los procedimientos.
+
+1\. Todos y cada uno de los procedimientos se clasificarán como «sin recuperación», «leves», «moderados» o «severos», en función de los criterios de clasificación establecidos en el anexo IX.
+
+2\. No se realizarán procedimientos si implican un nivel severo de dolor, sufrimiento o angustia que con probabilidad vaya a ser duradero y que no pueda ser aliviado, sin perjuicio del uso de lo establecido en la cláusula de salvaguardia enunciada en la disposición adicional segunda.
+
+#### Artículo 28. Fin del procedimiento.
+
+1\. Al término de todo procedimiento se decidirá si los animales deben mantenerse con vida o ser sacrificados. La decisión será tomada por un veterinario, en casos justificados, por otra persona capacitada.
+
+2\. Se deberá optar por la eutanasia de los animales siempre que sea probable que vayan a padecer un nivel moderado o severo de dolor, sufrimiento, angustia o daño duradero.
+
+3\. Cuando se vaya a conservar con vida a un animal, éste deberá recibir el cuidado y alojamiento acordes a su especie, condiciones fisiológicas y estado de salud.
+
+#### Artículo 29. Reutilización de animales en procedimientos.
+
+1\. Un animal que ya haya sido utilizado en uno o varios procedimientos, no deberá ser reutilizado en un nuevo procedimiento cuando en su lugar pudiera ser utilizado otro animal con el que no se haya realizado previamente ningún procedimiento, a menos que se den las condiciones siguientes:
+
+a) Que la severidad real de los procedimientos anteriores haya sido clasificada como «leve» o «moderada».
+
+b) Que se haya demostrado la recuperación total del estado de salud general y de buen estado del animal.
+
+c) Que el nuevo procedimiento se haya clasificado como leve, moderado o sin recuperación.
+
+d) Que cuente con asesoramiento veterinario favorable, realizado teniendo en cuenta las experiencias del animal a lo largo de toda su vida.
+
+2\. El órgano competente, en circunstancias excepcionales y previo examen veterinario, podrá autorizar la reutilización de un animal aunque no se cumpla lo dispuesto en la letra a) del apartado 1. Dicho animal no podrá haber sido utilizado más de una vez en un procedimiento que le haya provocado angustia y dolor severos o un sufrimiento equivalente.
+
+> Redactado conforme a la corrección de errores publicada en el BOE núm. 79, de 2 de abril de 2015. [Ref. BOE-A-2015-3574](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3574).
+
+#### Artículo 30. Puesta en libertad y realojamiento de animales.
+
+El órgano competente podrá autorizar que un animal pueda ser dado en adopción, realojado o devuelto a un hábitat, explotación u otro medio que sea adecuado para la especie de que se trate. Para ello deberán cumplirse las siguientes condiciones:
+
+a) Que su estado de salud lo permita.
+
+b) Que no suponga un peligro para la salud pública, la sanidad animal ni el medio ambiente.
+
+c) Que se hayan tomado las medidas adecuadas para salvaguardar el buen estado del animal.
+
+d) Que en el caso de realojamiento o adopción, los criadores, suministradores y usuarios tengan un programa adecuado que garantice su socialización.
+
+e) Que en el caso de liberación de animales silvestres en su hábitat, se disponga de un programa de adaptación adecuado.
+
+> Redactado conforme a la corrección de errores publicada en el BOE núm. 79, de 2 de abril de 2015. [Ref. BOE-A-2015-3574](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3574).
+
+### Sección 2.ª Proyectos
+
+#### Artículo 31. Tipos de proyectos.
+
+1\. Proyectos de tipo I: Aquellos proyectos en los que se den simultáneamente las tres circunstancias siguientes:
+
+a) Implican exclusivamente procedimientos clasificados como «sin recuperación», «leves» o «moderados».
+
+b) No utilizan primates.
+
+c) Se realizan para cumplir requisitos legales o reglamentarios, o con fines de producción o diagnóstico por métodos establecidos.
+
+Los proyectos tipo I podrán ser tramitados por un procedimiento simplificado y no ser sometidos a evaluación retrospectiva.
+
+2\. Proyectos de tipo II: Aquellos proyectos en los que se den simultáneamente las circunstancias siguientes:
+
+a) Implican exclusivamente procedimientos clasificados como «sin recuperación», «leves» o «moderados».
+
+b) No utilizan primates.
+
+Los proyectos tipo II quedarán sujetos al procedimiento de autorización y podrán no ser sometidos a evaluación retrospectiva.
+
+3\. Proyectos de tipo III: Los proyectos diferentes de los tipos I o II. Sin perjuicio de las autorizaciones adicionales a las que puedan estar condicionados determinados proyectos, todos los proyectos tipo III quedarán sujetos al procedimiento de autorización y serán sometidos posteriormente a una evaluación retrospectiva.
+
+#### Artículo 32. Condiciones generales de los proyectos.
+
+1\. Los proyectos de tipo I se llevarán a cabo de conformidad con la solicitud enviada al órgano competente, o, en el caso de que éste dé instrucciones en otro sentido, de acuerdo con las mismas.
+
+2\. Los proyectos de tipo II y III, se realizarán con arreglo a la correspondiente autorización.
+
+3\. Todos los proyectos tendrán una persona física que será responsable de su ejecución general, y en particular:
+
+a) Garantizará que se detenga cualquier procedimiento en el que se esté inflingiendo dolor, sufrimiento angustia o daño duradero innecesario a un animal en el curso del procedimiento.
+
+b) Se asegurará de que los proyectos se lleven a cabo conforme a los apartados 1 y 2 de este artículo.
+
+c) Velará porque en caso de no conformidad se adopten las medidas adecuadas y éstas medidas se registren.
+
+4\. Los órganos competentes podrán autorizar proyectos genéricos múltiples realizados por el mismo usuario, cuando deban realizarse para cumplir requisitos normativos, o cuando estos proyectos utilicen animales a efectos de producción o de diagnóstico con métodos establecidos.
+
+5\. No se podrá realizar ningún proyecto que no haya sido previamente evaluado con resultados favorables por el órgano habilitado conforme al artículo 34.
+
+6\. Cualquier cambio del proyecto que pueda tener un impacto negativo en el bienestar de los animales implicará una nueva evaluación y, cuando proceda, autorización del proyecto.
+
+7\. La documentación pertinente de los proyectos, incluidas las autorizaciones e informes de evaluación, se conservará a disposición del órgano competente durante al menos tres años desde la fecha de expiración de su período de autorización o del plazo establecido en el artículo 33.4.
+
+8\. La documentación de los proyectos que deban someterse a una evaluación retrospectiva se conservará hasta que se haya completado dicha evaluación, o, en su caso, hasta la expiración del plazo señalado en el apartado 7 de este artículo.
+
+#### Artículo 33. Solicitud y autorización de proyectos.
+
+1\. Para la comunicación y solicitud de autorización de un proyecto el usuario o la persona responsable del proyecto debe presentar al órgano competente la propuesta del proyecto, acompañada del informe del comité ético, de copia de la solicitud de evaluación del proyecto, y al menos la información correspondiente de entre la que se relaciona en el anexo X, y en el caso de los proyectos de tipo II y III, del resumen no técnico previsto en el artículo 36 del presente real decreto.
+
+La solicitud de evaluación del proyecto irá dirigida al órgano habilitado libremente elegido por el solicitante, de entre los que figuren en el listado de órganos habilitados, exceptuados aquellos en quienes concurran cualesquiera de las causas de abstención o recusación previstas en los artículos 28 y 29 de la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+La solicitud de evaluación del proyecto contendrá, al menos, la información o documentos que se relacionan en los apartados 4 a 14 del anexo X.
+
+2\. Los órganos competentes acusarán recibo al solicitante de todas las solicitudes de autorización en los términos previstos en el artículo 42.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+En caso de una solicitud incompleta o incorrecta, el órgano competente informará al solicitante de la necesidad de subsanar su solicitud de acuerdo con el artículo 71 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, así como de cualquier posible consecuencia sobre el período aplicable.
+
+3\. El órgano habilitado para la evaluación del proyecto, remitirá al solicitante o, a instancias de éste, al órgano competente, el resultado de la evaluación.
+
+4\. El plazo máximo para resolver y notificar la correspondiente resolución será de 40 días hábiles. Este periodo incluye la evaluación del proyecto, que deberá ser favorable. En los proyectos tipo II y III, y cuando esté justificado por la complejidad o la naturaleza multidisciplinaria del proyecto, el órgano competente podrá ampliar este plazo una vez por un periodo adicional no superior a 15 días hábiles. La ampliación y su duración deben motivarse debidamente y se notificarán al solicitante antes de la expiración del período inicial.
+
+5\. Las autorizaciones de proyectos se concederán por un período máximo de cinco años.
+
+6\. En la autorización del proyecto se especificará, al menos:
+
+a) El usuario que llevará a cabo el proyecto.
+
+b) El responsable del proyecto indicado en el artículo 32.3 de este real decreto.
+
+c) El establecimiento o, en el caso de trabajos de campo, lugares geográficos, donde se llevará a cabo.
+
+d) La necesidad, en su caso, de realizar una evaluación retrospectiva y, en tal caso, el plazo para su presentación.
+
+e) Cualesquiera otras condiciones específicas que establezca el órgano competente a la vista de la evaluación del proyecto.
+
+7\. El órgano competente podrá suspender la autorización de un proyecto si éste no se lleva a cabo de acuerdo con la autorización, y retirarla, previo expediente tramitado con audiencia del interesado.
+
+8\. Si se retira la autorización de un proyecto, se tomarán las medidas necesarias para que el bienestar de los animales no se vea afectado negativamente.
+
+#### Artículo 34. Evaluación de proyectos.
+
+1\. La evaluación de cada proyecto se realizará por el órgano habilitado con un nivel de detalle apropiado al tipo de proyecto y consistirá en verificar que el proyecto cumple los requisitos siguientes:
+
+a) Está justificado desde el punto de vista científico o educativo, o debe realizarse por imposición legal o reglamentaria;
+
+b) su finalidad justifica la utilización de animales; y
+
+c) está diseñado de manera que los procedimientos se realicen de la forma más humanitaria y respetuosa con el medio ambiente que sea posible.
+
+2\. La evaluación del proyecto incluirá:
+
+a) Una evaluación de su finalidad, de los beneficios científicos que se prevén alcanzar o de su valor docente;
+
+b) una evaluación de su conformidad con los requisitos de reemplazo, reducción y refinamiento;
+
+c) una evaluación y clasificación de sus procedimientos en función del grado de severidad;
+
+d) un análisis de los daños y beneficios, para determinar si los daños, el sufrimiento, el dolor y la angustia que se les puedan causar a los animales están justificados por los resultados esperados, teniendo en cuenta consideraciones éticas y los beneficios que, en definitiva, pueda suponer el proyecto para los seres humanos, los animales o el medio ambiente;
+
+e) Un examen de las situaciones y excepciones previstas en los artículos 6, 7, 9, 19, 20, 21, 22, 23, 25, 26 y 29; y
+
+f) una determinación en cuanto a si el proyecto debe evaluarse de forma retrospectiva y, en su caso, cuándo debería realizarse.
+
+3\. En la evaluación del proyecto podrá recurrirse al asesoramiento de expertos, en particular en los campos siguientes:
+
+a) Las áreas de aplicación científica para las que van a utilizarse los animales, incluidos el reemplazo, la reducción y el refinamiento en las respectivas áreas;
+
+b) El diseño experimental, con estadísticas, si procede;
+
+c) La práctica veterinaria, en animales silvestres o en la ciencia de animales de laboratorio, si procede;
+
+d) La zootecnia y el cuidado de las especies de animales que vayan a utilizarse.
+
+4\. El proceso de evaluación del proyecto deberá ser transparente, realizándose de modo imparcial, pudiendo integrar la opinión de partes independientes.
+
+> Se modifica la letra e) del apartado 2 por el art. único.1 del Real Decreto 118/2021, de 23 de febrero. [Ref. BOE-A-2021-2845](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2845)
+
+#### Artículo 35. Evaluación retrospectiva.
+
+1\. El órgano habilitado realizará una evaluación retrospectiva de aquellos proyectos:
+
+a) En los que se utilicen primates.
+
+b) En los que se incluyan procedimientos clasificados como «severos».
+
+c) En los contemplados en la disposición adicional segunda de este real decreto.
+
+d) En aquellos cuya evaluación según el artículo 34 así lo haya determinado.
+
+2\. Sin perjuicio de lo expuesto en el apartado 1 y salvo decisión en otro sentido del órgano competente, quedan eximidos de someterse a evaluación retrospectiva los proyectos tipo I y los proyectos tipo II en los que únicamente se incluyan procedimientos clasificados como «sin recuperación» o leves. Los proyectos de tipo II que incluyan procedimientos clasificados como «moderados» se someterán a evaluación retrospectiva cuando así se haya establecido en la autorización.
+
+3\. La evaluación retrospectiva se realizará sobre la base de la preceptiva documentación presentada por el usuario, y evaluará lo siguiente:
+
+a) Si se han alcanzado los objetivos del proyecto;
+
+b) el daño infligido a los animales, incluidos el número y las especies de animales utilizados, y la severidad de los procedimientos; y
+
+c) cualquiera de los elementos que puedan contribuir a una mejor aplicación del requisito de reemplazo, reducción y refinamiento.
+
+#### Artículo 36. Resúmenes no técnicos de los proyectos.
+
+1\. A efectos de su publicación, los órganos competentes presentarán a la Comisión Europea, por medios electrónicos, los resúmenes no técnicos de los proyectos así como las actualizaciones de estos, en un plazo máximo de seis meses desde su autorización. Dichos resúmenes, que serán presentados por los responsables de los proyectos, serán anónimos y, por ello, no contendrán denominaciones de usuarios, nombres de personas, ni ningún otro dato de carácter personal.
+
+2\. Siempre que la propiedad intelectual y la información confidencial queden protegidas, el resumen no técnico del proyecto incluirá, al menos, lo siguiente:
+
+a) Información sobre los objetivos del proyecto, incluidos los perjuicios y los beneficios previstos, así como el número y tipo de animales que van a utilizarse;
+
+b) La demostración del cumplimiento del requisito de reemplazo, reducción y refinamiento.
+
+3\. Los órganos competentes podrán exigir que el resumen no técnico del proyecto especifique si este debe someterse a una evaluación retrospectiva y, en tal caso, establecer el plazo. En tal caso, el resumen no técnico del proyecto debe actualizarse con los resultados de la evaluación retrospectiva en un plazo de seis meses a partir de la finalización de esta evaluación retrospectiva.
+
+4\. La información a que se refieren los apartados 1 y 3 se presentará para su publicación en el formato común que establezca la Comisión Europea.
+
+5\. Los órganos competentes para la autorización de proyectos podrán exigir que, en la evaluación de estos, se compruebe su coherencia con el respectivo resumen no técnico del proyecto.
+
+> Téngase en cuenta que el apartado 5, añadido por el art. único.2 del Real Decreto 1083/2025, de 2 de diciembre, [Ref. BOE-A-2025-24547](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24547), entra en vigor el 5 de junio de 2026, según determina su disposición final 3.
+
+> Se añade el apartado 5, con efectos desde el 5 de junio de 2026, por el art. único.2 del Real Decreto 1083/2025, de 2 de diciembre. [Ref. BOE-A-2025-24547](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24547)
+
+> Se modifica por el art. único.2 del Real Decreto 118/2021, de 23 de febrero. [Ref. BOE-A-2021-2845](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2845)
+
+## CAPÍTULO VI — Órgano encargado del bienestar de los animales
+
+#### Artículo 37. Creación de los órganos encargados del bienestar de los animales.
+
+1\. Cada criador, suministrador y usuario establecerá un órgano encargado del bienestar de los animales, en adelante «OEBA». En los usuarios, este órgano se denominará comité de ética de experimentación animal.
+
+2\. El OEBA se dotará de un reglamento interno que defina y desarrolle, su composición y su funcionamiento básico según criterios de confidencialidad y representatividad, que garantice la imparcialidad en las decisiones tomadas por el mismo. Quedarán eximidos de este requisito los OEBA unipersonales.
+
+#### Artículo 38. Funciones del OEBA.
+
+1\. El OEBA realizará como mínimo las funciones siguientes:
+
+a) Asesorar al personal que se ocupa de los animales sobre cuestiones relacionadas con el bienestar de los animales en cuanto a su adquisición, alojamiento, cuidado y utilización.
+
+b) Asesorar al personal sobre la aplicación del requisito de reemplazo, reducción y refinamiento, y mantenerlo informado sobre los avances técnicos y científicos en la aplicación de ese requisito.
+
+c) Establecer y revisar los procesos operativos internos con respecto al control, la comunicación y el seguimiento de la información relacionada con el bienestar de los animales.
+
+d) Asesorar sobre regímenes de realojamiento o adopción, incluida la socialización adecuada de los animales que vayan a realojarse o darse en adopción.
+
+e) En los usuarios, además elaborará el informe a que se alude en el artículo 33.1 y realizará el seguimiento de los proyectos teniendo en cuenta su efecto sobre los animales utilizados así como determinar y evaluar los elementos que mejor contribuyen al reemplazo, la reducción y el refinamiento.
+
+2\. Los comités de ética de experimentación animal podrán, además, cuando así lo determine el órgano competente, ser designados órganos habilitados para realizar la evaluación y la evaluación retrospectiva, siempre que cumplan los requisitos establecidos en los artículos 39 y 43.
+
+En este caso, el órgano habilitado deberá remitir un informe anual detallado de sus actividades al órgano competente, que incluirá como mínimo una relación de todos los proyectos que haya evaluado o evaluado retrospectivamente. Toda la documentación deberá tenerse a disposición del órgano competente durante un periodo mínimo de tres años.
+
+3\. Se conservarán, al menos durante tres años, los registros de las recomendaciones del OEBA y las decisiones adoptadas en relación con dichas recomendaciones. Estos registros se pondrán a disposición del órgano competente, a solicitud de éste.
+
+#### Artículo 39. Composición.
+
+1\. El OEBA debe estar integrado por personas con la experiencia y los conocimientos necesarios para velar por el bienestar y el cuidado de los animales. Estará formado como mínimo, por los siguientes miembros:
+
+a) En el caso de los criadores y suministradores, el OEBA estará formado como mínimo por la persona o las personas responsables del bienestar y cuidado de los animales.
+
+b) En el caso de los usuarios, el comité ético de experimentación animal estará formado como mínimo por la persona o las personas responsables del bienestar y cuidado de los animales y por un investigador u otro miembro científico.
+
+c) En el caso de que el comité ético de experimentación animal actúe como órgano habilitado para realizar la evaluación o la evaluación retrospectiva de los proyectos, su composición incluirá además investigadores u otros miembros científicos que no estén directamente relacionados en el proyecto y una persona con experiencia y conocimientos en bienestar de los animales que no tenga relación directa con el usuario ni con el proyecto.
+
+2\. Los miembros respetarán el principio de confidencialidad.
+
+3\. El OEBA recibirá el asesoramiento del veterinario designado, debiéndose conservar durante al menos tres años las aportaciones que éste realice.
+
+4\. Cuando el OEBA lo considere oportuno, solicitará el asesoramiento de expertos las cuales también respetarán el principio de confidencialidad.
+
+5\. Los órganos competentes podrán autorizar excepcionalmente que en pequeños criadores, suministradores y usuarios las funciones establecidas en el apartado 1 del artículo 38 sean asumidas por un OEBA de otro criador, suministrador o usuario autorizado. En ningún caso podrán acogerse a esta autorización excepcional los criadores, suministradores o usuarios de primates.
+
+## CAPÍTULO VII — Información, controles, comité y régimen sancionador
+
+#### Artículo 40. Inspecciones o controles.
+
+1\. Los controles oficiales realizados por los órganos competentes o bien por los órganos habilitados para realizar funciones de inspección o control, a los criadores, suministradores y usuarios, incluidos sus establecimientos, para comprobar el cumplimiento de este real decreto se realizarán de acuerdo con un programa nacional de control oficial de la protección de los animales utilizados con fines científicos, incluyendo la docencia (en adelante, PNCOFIC).
+
+2\. El diseño del PNCOFIC por el Ministerio de Agricultura, Pesca y Alimentación, el Ministerio de Ciencia, Innovación y Universidades y los órganos competentes de las comunidades autónomas permitirá:
+
+a) Dar respuesta a las obligaciones mencionadas en el apartado 1 del artículo 41 de este real decreto.
+
+b) Adaptar la frecuencia de los controles, que podrán realizarse con ocasión de controles efectuados con otros fines, en función de un análisis de riesgo que tenga en consideración, al menos:
+
+1.º Las especies y la cantidad de animales alojados;
+
+2.º El historial de cumplimiento o incumplimiento por parte del criador, suministrador o usuario;
+
+3.º En el caso de los usuarios, la cantidad y los tipos de proyectos que se desarrollan en los mismos;
+
+4.º Cualquier dato que pueda indicar un posible incumplimiento.
+
+c) Realizar un control oficial cada año, al menos una vez:
+
+1.º A todos los criadores, suministradores y usuarios de primates.
+
+2.º A un tercio de los demás usuarios.
+
+d) Realizar sin previo aviso una proporción adecuada de los controles oficiales.
+
+Una vez adoptado por los correspondientes Departamentos, el PNCOFIC se presentará en el Comité español para la protección de animales utilizados con fines científicos. Asimismo, se aprobarán las modificaciones que resulten oportunas en función de la experiencia en el ejercicio de las funciones de control y los cambios normativos u organizativos que se produzcan.
+
+El programa será revisado cada cinco años.
+
+3\. Los registros de los controles oficiales se conservarán durante al menos cinco años.
+
+> Téngase en cuenta que la actualización del artículo, establecida por el art. único.3 del Real Decreto 1083/2025, de 2 de diciembre, [Ref. BOE-A-2025-24547](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24547), entra en vigor el 5 de diciembre de 2026, según determina su disposición final 3.
+
+> Redacción anterior:
+
+> "Artículo 40. Inspecciones o controles.
+
+> 1\. Los órganos competentes o habilitados efectuarán controles o inspecciones regulares a los criadores, suministradores y usuarios, incluidos sus establecimientos, para comprobar el cumplimiento de este real decreto. Una proporción adecuada de inspecciones deberá realizarse sin previo aviso.
+
+> 2\. Los órganos competentes adaptarán la frecuencia de las inspecciones o controles, que podrán realizarse con ocasión de controles efectuados con otros fines, en función de un análisis de riesgo que tenga en consideración:
+
+> a) Las especies y la cantidad de animales alojados;
+
+> b) el historial de cumplimiento o incumplimiento por parte del criador, suministrador o usuario;
+
+> c) en el caso de los usuarios, la cantidad y los tipos de proyectos.
+
+> d) cualquier dato que pueda indicar un posible incumplimiento.
+
+> 3\. Los órganos competentes o habilitados inspeccionarán cada año, al menos una vez:
+
+> a) A todos los criadores, suministradores y usuarios de primates.
+
+> b) A un tercio de los demás usuarios.
+
+> 4\. Los órganos competentes que hayan designado órganos habilitados de acuerdo con el artículo 38.2 efectuarán controles regulares a dichos órganos habilitados.
+
+> 5\. Los registros de las inspecciones se conservarán durante al menos cinco años."
+
+> Se modifica, con efectos desde el 5 de diciembre de 2026, por el art. único.3 del Real Decreto 118/2021, de 23 de febrero. [Ref. BOE-A-2021-2845](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2845)
+
+#### Artículo 41. Coordinación, deber de información y publicidad de la información.
+
+1\. Los criadores, suministradores y usuarios comunicarán a los órganos competentes, en los plazos y forma que éstas establezcan, y en todo caso antes del 1 de marzo de cada año, los datos necesarios para que se puedan cumplir las obligaciones establecidas en la normativa nacional y de la Unión Europea.
+
+2\. El Ministerio de Ciencia, Innovación y Universidades es el punto de contacto a efectos de asesoramiento sobre la pertinencia normativa y conveniencia de los planteamientos alternativos propuestos para su validación.
+
+3\. El Ministerio de Agricultura, Pesca y Alimentación es el punto de contacto a efectos del cumplimiento de este real decreto.
+
+4\. Las comunidades autónomas y ciudades de Ceuta y Melilla comunicarán un punto de contacto al Ministerio de Agricultura, Pesca y Alimentación, y al Ministerio de Ciencia, Innovación y Universidades, dependiendo de la materia de que se trate, a efectos del cumplimiento de este real decreto.
+
+5\. Los puntos de contacto establecidos en el apartado anterior, a efectos del cumplimiento de la obligación de comunicación de información a la Comisión Europea, elaborarán informes con la frecuencia, el formato y el contenido que establezcan el Ministerio de Agricultura, Pesca y Alimentación y el Ministerio de Ciencia, Innovación y Universidades, en el ámbito de sus competencias, mediante resolución del respectivo órgano competente, y siempre en coordinación con las comunidades autónomas y ciudades de Ceuta y Melilla. Los órganos competentes de las comunidades autónomas remitirán la información necesaria para la elaboración de dichos informes a los respectivos Departamentos a más tardar el 30 de abril.
+
+6\. Con la información suministrada, el Ministerio de Agricultura, Pesca y Alimentación y el Ministerio de Ciencia, Innovación y Universidades, en el ámbito de sus competencias confeccionarán los pertinentes informes para su remisión en el plazo que fije la normativa europea respectiva a la Comisión Europea a través del cauce correspondiente.
+
+7\. El Ministerio de Agricultura, Pesca y Alimentación publicará anualmente, información estadística relativa a la utilización de animales, que incluirá información sobre la severidad real de los procedimientos, y sobre las especies y el origen de los primates utilizados en los procedimientos.
+
+8\. El Ministerio de Agricultura, Pesca y Alimentación y el Ministerio de Ciencia, Innovación y Universidades coordinarán con los órganos competentes las actuaciones precisas para la aplicación de este real decreto.
+
+> Téngase en cuenta que la actualización del artículo, establecida por el art. único.4 del Real Decreto 1083/2025, de 2 de diciembre, [Ref. BOE-A-2025-24547](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24547), entra en vigor el 5 de junio de 2026, según determina su disposición final 3.
+
+> Redacción anterior:
+
+> "Artículo 41. Coordinación, deber de información y publicidad de la información.
+
+> 1\. Los criadores, suministradores y usuarios comunicarán a los órganos competentes, en los plazos y forma que éstas establezcan, los datos necesarios para que se puedan cumplir las obligaciones establecidas en la normativa nacional y de la Unión Europea.
+
+> 2\. El Ministerio de Agricultura, Alimentación y Medio Ambiente es el punto de contacto a efectos del cumplimiento de este real decreto y a efectos de asesoramiento sobre la pertinencia normativa y conveniencia de los planteamientos alternativos propuestos para su validación, que establecen, respectivamente, los artículos 59.2 y 47.5 de la Directiva 2010/63/UE, de 22 de septiembre, relativa a la protección de los animales utilizados para fines científicos.
+
+> 3\. Las comunidades autónomas y ciudades de Ceuta y Melilla establecerán un punto de contacto a efectos del cumplimiento de este real decreto, que comunicarán al Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+> 4\. Los puntos de contacto establecidos en el apartado anterior, a efectos del cumplimiento de la obligación de comunicación de información a la Comisión Europea, elaborarán informes con la frecuencia, el formato y el contenido que establezca la Comisión Europea o, en su caso, el Ministerio de Agricultura, Pesca y Alimentación, en coordinación con las comunidades autónomas y las ciudades de Ceuta y Melilla. Dichos informes se remitirán anualmente al citado Ministerio, fijándose como fecha límite el 31 de marzo.
+
+> 5\. Con la información suministrada, el Ministerio de Agricultura, Alimentación y Medio Ambiente confeccionará los pertinentes informes para su remisión en plazo a la Comisión Europea a través del cauce correspondiente.
+
+> 6\. El Ministerio de Agricultura, Alimentación y Medio Ambiente publicará anualmente, en el modelo establecido por la Comisión Europea, información estadística relativa a la utilización de animales, que incluirá información sobre la severidad real de los procedimientos, y sobre las especies y el origen de los primates utilizados en los procedimientos.
+
+> 7\. El Ministerio de Agricultura, Alimentación y Medio Ambiente coordinará con los órganos competentes las actuaciones precisas para la aplicación de este real decreto."
+
+> Se modifica, con efectos desde el 5 de junio de 2026, por el art. único.4 del Real Decreto 118/2021, de 23 de febrero. [Ref. BOE-A-2021-2845](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2845)
+
+> Se modifica el apartado 4 por el art. único.3 del Real Decreto 118/2021, de 23 de febrero. [Ref. BOE-A-2021-2845](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2845)
+
+#### Artículo 42. Controles de la Comisión Europea.
+
+1\. Los órganos competentes prestarán a los expertos de la Comisión Europea toda la ayuda y asistencia que éstos necesiten para realizar los controles de la infraestructura y el funcionamiento de los controles oficiales nacionales previstos en el artículo 40. En esos controles, los representantes del Ministerio de Agricultura, Pesca y Alimentación y del Ministerio de Ciencia, Innovación y Universidades en el ámbito de sus competencias, podrán acompañar a los expertos de la Comisión Europea y a los representantes de los órganos competentes de las comunidades autónomas y ciudades de Ceuta y Melilla.
+
+2\. Los órganos competentes, el Ministerio de Agricultura, Pesca y Alimentación y el Ministerio de Ciencia, Innovación y Universidades, en el ámbito de sus competencias, establecerán los correspondientes mecanismos de coordinación y colaboración de las actuaciones relativas a la realización y resultados de estos controles mediante resolución del respectivo órgano competente.
+
+3\. Los órganos competentes adoptarán las medidas necesarias para tener en cuenta los resultados de los controles de la Comisión Europea.
+
+> Se modifica por el art. único.5 del Real Decreto 118/2021, de 23 de febrero. [Ref. BOE-A-2021-2845](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2845)
+
+#### Artículo 43. Órganos habilitados.
+
+1\. Solo podrán ser designados como órganos habilitados aquellos organismos de los cuales haya constancia de que:
+
+a) Poseen los conocimientos técnicos y los medios necesarios para la realización de las funciones y
+
+b) No existe conflicto de intereses para la realización de las funciones.
+
+2\. Sólo se podrán habilitar los órganos que cumplan las siguientes obligaciones:
+
+a) En la autorización que reciban se describen con precisión las tareas que dicho órgano habilitado puede llevar a cabo y las condiciones en las que puede realizarlas.
+
+b) Existe una coordinación efectiva y eficaz entre el órgano competente y el órgano habilitado.
+
+c) El órgano competente realiza supervisiones anuales de los órganos habilitados.
+
+3\. Los órganos habilitados para realizar funciones de control oficial:
+
+a) Deberán estar acreditados de acuerdo con la norma UNE-EN ISO/IEC 17020 «Criterios generales para el funcionamiento de los diversos tipos de organismos que realizan la inspección» o con otra norma que resulte más pertinente para las tareas delegadas de que se trate.
+
+b) Deberán comunicar al órgano competente, con regularidad y siempre que este último lo solicite, los resultados de los controles llevados a cabo. Si los resultados de los controles revelan o hacen sospechar un incumplimiento, el órgano habilitado informará inmediatamente de ello al órgano competente.
+
+4\. Los órganos habilitados para la evaluación y evaluación retrospectiva de proyectos:
+
+a) Serán designados, por un periodo máximo de diez años, renovables por los órganos competentes de acuerdo con un procedimiento reglado que garantice la libre concurrencia de todos aquéllos que cumplan los requisitos previstos en los apartados anteriores. Los órganos competentes de las comunidades autónomas, a efectos de información y para su publicidad a través de su sede electrónica, presentarán la relación de órganos habilitados para la evaluación de proyectos al Ministerio de Ciencia, Innovación y Universidades, a más tardar en el plazo de un mes desde su habilitación, inhabilitación o cese de actividad.
+
+b) Tendrán una composición tal que, al menos la mitad de los miembros que lo integren estarán en posesión de un certificado de capacitación expedido de acuerdo con lo establecido en la Orden ECC/566/2015, de 20 de marzo, por la que se establecen los requisitos de capacitación que debe cumplir el personal que maneje animales utilizados, criados o suministrados con fines de experimentación y otros fines científicos, incluyendo la docencia.
+
+c) Recogerán por escrito que los miembros del mismo que participen en la evaluación de un proyecto no podrán participar directamente en el desarrollo de éste.
+
+d) Establecerán mecanismos de forma que, para garantizar el cumplimiento de las disposiciones de establecidas en los apartados 1 y 2 del artículo 34 los proyectos tipo II y III, así como los afectados por la disposición adicional segunda de este real decreto, deberán ser evaluados por un mínimo de tres personas, una de la cuales deberá estar en posesión de un certificado de capacitación para la realización de la función de diseño de los proyectos y procedimientos, expedido de acuerdo a lo establecido en la Orden ECC/566/2015, de 20 de marzo.
+
+> Téngase en cuenta que la actualización del artículo, establecida por el art. único.6 del Real Decreto 1083/2025, de 2 de diciembre, [Ref. BOE-A-2025-24547](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24547), entra en vigor el 5 de diciembre de 2026, según determina su disposición final 3.
+
+> Redacción anterior:
+
+> "**Artículo 43. Órganos habilitados.**
+
+> 2\. En particular, solo se podrán habilitar para realizar funciones de control e inspección a órganos en las condiciones siguientes:
+
+> a) Se describen con precisión las tareas que dicho órgano habilitado puede llevar a cabo y las condiciones en las que puede realizarlas;
+
+> b) El órgano habilitado trabaja y está acreditado de acuerdo con la norma UNE-EN ISO/IEC 17020 «Criterios generales para el funcionamiento de los diversos tipos de organismos que realizan la inspección» o con otra norma que resulte más pertinente para las tareas delegadas de que se trate;
+
+> c) El órgano habilitado comunica al órgano competente, con regularidad y siempre que este último lo solicite, los resultados de los controles llevados a cabo. Si los resultados de los controles revelan o hacen sospechar un incumplimiento, el órgano habilitado informará inmediatamente de ello al órgano competente;
+
+> d) Existe una coordinación efectiva y eficaz entre el órgano competente y el órgano habilitado.
+
+> e) El órgano competente realiza auditorías o inspecciones de los órganos habilitados.
+
+> 3\. Los órganos habilitados para la evaluación de proyectos serán designados por los órganos competentes de acuerdo con un procedimiento reglado que garantice la libre concurrencia de todos aquellos que cumplan los requisitos previstos en los apartados anteriores. La relación de órganos habilitados, deberá mantenerse actualizada, debiendo remitirse copia de la misma al Ministerio de Economía y Competitividad, a los solos efectos de su publicidad a través de su sede electrónica."
+
+> Se modifican los apartados 2, 3 y se añade el 4, con efectos desde el 5 de diciembre de 2026, por el art. único.6 del Real Decreto 118/2021, de 23 de febrero. [Ref. BOE-A-2021-2845](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2845)
+
+#### Artículo 44. Comité español para la protección de animales utilizados con fines científicos.
+
+1\. De conformidad con lo previsto en el artículo 49 de la Directiva 2010/63/UE del Parlamento Europeo y del Consejo, de 22 de septiembre de 2010, se crea el Comité español para la protección de animales utilizados con fines científicos, en adelante el Comité, como órgano colegiado, de carácter interministerial, que será el órgano encargado de asesorar a la Administración General del Estado, las comunidades autónomas y las ciudades de Ceuta y Melilla y a los órganos encargados del bienestar de los animales previstos en el capítulo VI, en cuestiones relacionadas con la adquisición, cría, alojamiento, cuidado y utilización de animales en procedimientos, así como de garantizar que se comparten las mejores prácticas, y para la debida coordinación.
+
+El Comité intercambiará información con los Comités Nacionales del resto de Estados miembros sobre el funcionamiento de los órganos encargados del bienestar de los animales y la evaluación de proyectos, y compartirá las mejores prácticas en la Unión Europea.
+
+El Comité estará adscrito al Ministerio de Agricultura, Pesca y Alimentación a través de la Dirección General de Sanidad de la Producción Agroalimentaria y Bienestar Animal.
+
+2\. El Comité estará integrado por los siguientes miembros:
+
+a) Presidente: la persona titular de la Dirección General de Sanidad de la Producción Agroalimentaria y Bienestar Animal del Ministerio de Agricultura, Pesca y Alimentación.
+
+b) Vicepresidente: la persona titular de la Secretaría General de Investigación del Ministerio de Ciencia, Innovación y Universidades. En casos de vacante, ausencia, enfermedad u otra causa legal, el vicepresidente será sustituido por una persona funcionaria de carrera que ocupe un puesto de nivel 29 o superior, designada por éste.
+
+c) Vocales:
+
+1.º Por parte de la Administración General del Estado:
+
+i. Por parte de cada uno de los siguientes órganos, competentes en las materias que a continuación se citan, un funcionario de carrera que desempeñe un puesto de trabajo de nivel 26 o superior, todos ellos designados por los titulares de sus respectivas unidades: en protección de los animales utilizados con fines científicos y en sanidad animal del Ministerio de Agricultura, Pesca y Alimentación; en estrategias alternativas al uso de animales, en formación y capacitación del personal y en investigación del Ministerio de Ciencia, Innovación y Universidades; en sanidad humana, del Ministerio de Sanidad; en la evaluación de productos, sustancias y mezclas químicas, del Ministerio para la Transición Ecológica y el Reto Demográfico; y en animales de compañía del Ministerio de Derechos Sociales, Consumo y Agenda 2030.
+
+ii. Dos representantes, funcionarios de carrera, que desempeñen un puesto de trabajo de nivel 26 o superior en alguna de las entidades del sector público que tengan la condición de organismos públicos de investigación adscritos o vinculados a la Administración General del Estado, conforme a la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, así como un representante del Consejo de Universidades, y uno, funcionario de carrera que desempeñe un puesto de trabajo de nivel 26 o superior, de la Agencia Española de Medicamentos y Productos Sanitarios.
+
+2.º Por parte de las comunidades autónomas y de las ciudades de Ceuta y Melilla: un representante de cada una de las que acuerden integrarse en este órgano.
+
+3.º Por parte de las organizaciones no gubernamentales de carácter nacional que tengan como uno de sus objetivos principales la defensa del bienestar animal de los animales de experimentación: un representante, designado por el presidente del Comité, a propuesta de aquéllas.
+
+4.º Por parte de las asociaciones profesionales especializadas en los animales utilizados con fines científicos de carácter nacional: un representante, designado por el presidente del Comité, a propuesta de aquéllas.
+
+5.º Por parte de las organizaciones de carácter nacional que tengan como uno de sus objetivos principales el desarrollo y promoción de los métodos alternativos a la experimentación con animales: un representante, designado por el presidente del Comité, a propuesta de aquéllas.
+
+6.º Por parte de las asociaciones profesionales científicas de carácter nacional con intereses en el bienestar de los animales de experimentación: un representante, designado por el presidente del Comité, a propuesta de la Secretaría General de Investigación del Ministerio de Ciencia Innovación y Universidades.
+
+7.º Un representante del Consejo General de Colegios de la Profesión Veterinaria de España designado por el Presidente del Comité a propuesta del Presidente de dicho Consejo.
+
+d) Secretaría: un funcionario de carrera que desempeñe un puesto de trabajo de nivel 26 o superior del Ministerio de Agricultura, Pesca y Alimentación, que actuará con voz y sin voto, y que será designado por el presidente del comité. En casos de vacante, ausencia, enfermedad u otra causa legal, el secretario será sustituido por otro funcionario de carrera que ocupe un puesto de nivel 26 o superior en dicho Departamento, designado por el presidente.
+
+3\. Podrán asistir, previa invitación por el Presidente, con voz, pero sin voto, expertos independientes.
+
+4\. El Comité se reunirá mediante convocatoria de su Presidente o a solicitud de un tercio de sus miembros.
+
+5\. El funcionamiento del Comité no supondrá incremento del gasto público y será atendido con los medios materiales y de personal existentes en el Ministerio de Agricultura, Pesca y Alimentación.
+
+Los gastos en concepto de indemnización por realización de servicios, dietas y desplazamientos que se originen por la participación en reuniones de los integrantes del Comité, serán por cuenta de sus respectivas administraciones u organizaciones de origen.
+
+6\. El Comité podrá aprobar sus propias normas de funcionamiento. En todo lo que no esté previsto en ellas, se aplicará lo dispuesto en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Téngase en cuenta que la actualización del artículo, establecida por el art. único.7 del Real Decreto 1083/2025, de 2 de diciembre, [Ref. BOE-A-2025-24547](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24547), entra en vigor el 5 de diciembre de 2026, según determina su disposición final 3.
+
+> Redacción anterior:
+
+> "**Artículo 44. Comité español para la protección de animales utilizados con fines científicos**.
+
+> 1\. De conformidad con lo previsto en el artículo 49 de Directiva 2010/63/UE del Parlamento Europeo y del Consejo, de 22 de septiembre de 2010, relativa a la protección de los animales utilizados para fines científicos, se crea el Comité español para la protección de animales utilizados con fines científicos, en adelante el Comité, como órgano colegiado, de carácter interdepartamental, que será el órgano encargado de asesorar a la Administración General del Estado, las comunidades autónomas y las ciudades de Ceuta y Melilla y a los órganos encargados del bienestar de los animales previstos en el Capítulo VI, en cuestiones relacionadas con la adquisición, cría, alojamiento, cuidado y utilización de animales en procedimientos, así como de garantizar que se comparten las mejores prácticas, y para la debida coordinación.
+
+> El Comité intercambiará información con los Comités Nacionales del resto de Estados miembros sobre el funcionamiento de los órganos encargados del bienestar de los animales y la evaluación de proyectos, y compartirá las mejores prácticas en la Unión Europea.
+
+> El Comité estará adscrito al Ministerio de Agricultura, Alimentación y Medio Ambiente a través de la Dirección General de Producciones y Mercados Agrarios.
+
+> 2\. El Comité estará integrado por los siguientes miembros:
+
+> a) Presidente: El titular de la Dirección General de Producciones y Mercados Agrarios del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+> b) Vicepresidente, que sustituirá al presidente en caso de vacancia, ausencia o enfermedad: El titular de la Subdirección General de Productos Ganaderos del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+> c) Vocales:
+
+> 1.º Por parte de la Administración General del Estado:
+
+> Por parte de los Ministerios competentes: Un funcionario, con nivel al menos de Jefe de Servicio, de la Subdirección de Sanidad e Higiene Animal y Trazabilidad del Ministerio de Agricultura, Alimentación y Medio Ambiente; un representante, con nivel al menos de Jefe de Servicio en ambos casos, del Ministerio de Economía y Competitividad y del Ministerio de Sanidad, Servicios Sociales e Igualdad, designados por sus respectivos Subsecretarios.
+
+> Por parte de los organismos públicos de investigación: Un representante, con nivel al menos de Jefe de Servicio, de los organismos públicos de investigación adscritos a la Administración General del Estado, designado por la Secretaria de Estado de Investigación, Desarrollo e Innovación.
+
+> Por parte del Consejo de Universidades: Un representante designado por el mismo.
+
+> Cuando se vayan a tratar aspectos relativos a medicamentos, se integrará como vocal un representante, con nivel al menos de Jefe de Servicio, de la Agencia Estatal de Medicamentos y Productos Sanitarios, designado por su Director.
+
+> Cuando se vayan a tratar temas relativos a productos cosméticos, se integrará como vocal un representante de la unidad del Ministerio de Sanidad, Servicios Sociales e Igualdad, con competencia en productos cosméticos, con nivel al menos de Jefe de Servicio, designado por su Subsecretario.
+
+> Cuando se vayan a tratar temas relativos a educación, formación o capacitación del personal, se integrará como vocal un representante de la unidad del Ministerio de Educación, Cultura y Deporte con competencia en educación, con nivel al menos de Jefe de Servicio, designado por su Subsecretario.
+
+> 2.º Por parte de las comunidades autónomas y de las ciudades de Ceuta y Melilla: un representante de cada una de las que acuerden integrarse en esta Sección.
+
+> 3.º Por parte de las organizaciones no gubernamentales de carácter nacional que tengan como uno de sus objetivos principales la defensa del bienestar animal de los animales de experimentación: un representante, designado por el presidente del Comité, a propuesta de aquellas.
+
+> 4.º Por parte de las asociaciones profesionales especializadas en los animales utilizados con fines científicos de carácter nacional: un representante, designado por el presidente del Comité, a propuesta de aquellas.
+
+> 5.º Por parte de las organizaciones de carácter nacional que tengan como uno de sus objetivos principales el desarrollo y promoción de los métodos alternativos a la experimentación con animales: un representante, designado por el presidente del Comité, a propuesta de aquellas.
+
+> 6.º Un representante del Consejo General de Colegios Veterinarios de España designado por el Presidente del Comité a propuesta del Presidente de dicho Consejo.
+
+> 7.º Por parte de las asociaciones profesionales científicas de carácter nacional: un representante, designado por el presidente del Comité, a propuesta de aquellas.
+
+> d) Secretario: Un funcionario con nivel mínimo de jefe de servicio de la Subdirección General de Productos Ganaderos del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+> 3\. Podrán asistir, previa invitación por el Presidente, con voz pero sin voto, expertos independientes.
+
+> 4\. El Comité podrá crear grupos de trabajo conforme a lo establecido en el artículo 40.3 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+> 5\. El Comité podrá aprobar sus propias normas de funcionamiento. En todo lo que no esté previsto en ellas, se aplicará lo dispuesto en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> 6\. El Comité se reunirá mediante convocatoria de su Presidente o a solicitud de un tercio de sus miembros.
+
+> 7\. El funcionamiento del Comité no supondrá incremento del gasto público y será atendido con los medios materiales y de personal existentes en el Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+> Los gastos en concepto de indemnización por realización de servicios, dietas y desplazamientos que se originen por la participación en reuniones de los integrantes del Comité, serán por cuenta de sus respectivas administraciones u organizaciones de origen."
+
+> Se modifica, con efectos desde el 5 de diciembre de 2026, por el art. único.7 del Real Decreto 118/2021, de 23 de febrero. [Ref. BOE-A-2021-2845](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2845)
+
+#### Artículo 45. Régimen sancionador.
+
+El régimen de sanciones e infracciones de lo previsto en este real decreto se regirá por lo previsto en la Ley 32/2007, de 7 de noviembre, de protección de los animales en su explotación, transporte, experimentación o sacrificio, y en la normativa autonómica de aplicación, sin perjuicio de las responsabilidades civiles, penales o de otro orden que pudieran concurrir.
+
+#### Disposición adicional primera. Recursos humanos y materiales.
+
+Los registros previstos en este real decreto serán atendidos con los medios humanos y materiales existentes en el Ministerio de Agricultura, Alimentación y Medio Ambiente, sin que su creación y funcionamiento supongan incremento del gasto público. Asimismo, lo dispuesto en este real decreto no supondrá en ningún caso incremento ni de dotaciones, ni de retribuciones, ni de otros gastos de personal.
+
+#### Disposición adicional segunda. Cláusula de salvaguardia.
+
+1\. El órgano competente podrá tomar medidas provisionales para permitir excepcionalmente:
+
+a) La utilización de primates cuando no se realice con fines de prevención, profilaxis, diagnóstico o tratamiento de enfermedades discapacitantes o que puedan poner en peligro la vida de los seres humanos, siempre que se den simultáneamente las tres circunstancias siguientes:
+
+1.º No pueda alcanzarse dicha finalidad utilizando animales de otras especies.
+
+2.º Se tengan razones científicamente fundadas para considerar su utilización esencial.
+
+3.º Se empleen para:
+
+– Investigación traslacional o aplicada para la prevención, profilaxis, diagnóstico o tratamiento de enfermedades, mala salud u otras anomalías o sus efectos en los seres humanos o
+
+– El desarrollo y la fabricación de productos farmacéuticos, alimentos, y otras sustancias o productos, así como la realización de pruebas para comprobar su calidad, eficacia y seguridad en relación a humanos.
+
+b) La realización de un procedimiento aunque conlleve dolor, sufrimiento o angustia severos para los animales y sea probable que dichos efectos sean duraderos y no puedan ser aliviados, cuando, por razones excepcionales y científicamente fundadas, se considere necesaria la realización de dicho procedimiento.
+
+2\. El órgano competente que decida adoptar una medida provisional de este tipo informará inmediatamente al órgano con competencia en bienestar animal del Ministerio de Agricultura, Alimentación y Medio Ambiente, justificando su decisión y aportando pruebas de la situación que ha motivado la adopción de aquella.
+
+3\. El Ministerio de Agricultura, Alimentación y Medio Ambiente actuará en consecuencia y dará inmediatamente traslado a la Comisión y a los demás Estados miembros de la citada información y documentación.
+
+4\. Así mismo, el Ministerio de Agricultura, Alimentación y Medio Ambiente informará inmediatamente al órgano competente sobre la decisión que, en su caso, tome la Comisión Europea. El órgano competente adoptará inmediatamente las medidas oportunas para dar cumplimiento al contenido de la mencionada decisión.
+
+> Se modifica la letra a) del apartado 1 por el art. único.3 del Real Decreto 1386/2018, de 19 de noviembre. [Ref. BOE-A-2018-15797](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15797)
+
+#### Disposición transitoria primera. Criadores, suministradores y usuarios registrados de acuerdo con el Real Decreto 1201/2005, de 10 de octubre, sobre protección de los animales utilizados para experimentación y otros fines científicos.
+
+Los criadores, suministradores y usuarios registrados al amparo de lo dispuesto en el Real Decreto 1201/2005, de 10 de octubre, sobre protección de los animales utilizados para experimentación y otros fines científicos, que se encuentren en funcionamiento, deberán comunicar a los órganos competentes, en un plazo no superior a los seis meses a partir de la publicación del presente real decreto la información complementaria necesaria según lo dispuesto en el mismo.
+
+#### Disposición transitoria segunda. Proyectos y procedimientos en tramitación.
+
+1\. No se aplicará lo previsto en la sección 2.ª del capítulo V a procedimientos que se hayan aprobado antes del 1 de enero de 2013 y que finalicen antes del 1 de enero de 2018.
+
+2\. Los proyectos aprobados antes del 1 de enero de 2013 y que finalicen después del 1 de enero de 2018, deberán obtener una autorización conforme a este real decreto para su realización, a más tardar el 1 de enero de 2018.
+
+3\. Los procedimientos administrativos en tramitación en el momento de la entrada en vigor de este real decreto, serán resueltos de acuerdo con la normativa en vigor en el momento del inicio de los mismos.
+
+#### Disposición transitoria tercera. Modelos de informes preexistentes.
+
+En tanto la Comisión Europea no establezca nuevos modelos de informes para el cumplimento de lo dispuesto en el artículo 54 de la Directiva 2010/63/UE del Parlamento Europeo y del Consejo de 22 de septiembre de 2010, a los efectos de cumplimiento del deber de información, comunicación y publicidad establecido en el artículo 41 del presente real decreto los usuarios y los órganos competentes y el Ministerio de Agricultura, Alimentación y Medio Ambiente seguirán elaborando los informes conforme a lo establecido en el artículo 27 del Real Decreto 1201/2005, de 10 de octubre.
+
+#### Disposición transitoria cuarta. Categorías reconocidas conforme al Real Decreto 1201/2005, de 10 de octubre.
+
+Las personas facultadas por los órganos competentes para realizar las funciones correspondientes a las categorías establecidas conforme a las disposiciones del derogado Real Decreto 1201/2005, de 10 de octubre, mantendrán dicha facultad en referencia a las mencionadas funciones, sin perjuicio de los requisitos de adaptación a la nueva normativa que puedan adoptar dichos órganos.
+
+#### Disposición transitoria quinta. Personal capacitado para realizar las funciones relacionadas en el artículo 15.
+
+En el plazo de 12 meses a partir de la publicación del presente real decreto, el Ministerio de Economía y Competitividad, previo informe de los Ministerios de Educación, Cultura y Deporte y de Agricultura, Alimentación y Medio Ambiente desarrollará los requisitos de la formación del personal a que se refiere el artículo 15. A tales efectos podrá asistirse de un grupo de trabajo, establecido en el marco del Comité establecido en el artículo 44, en materia de educación, formación y capacitación del personal. En tanto en cuanto no se desarrollen los mencionados requisitos:
+
+1\. Se consideran capacitados para realizar las funciones del artículo 15.2.a) al personal reconocido u homologado como categoría A según se establece en el anexo I del Real Decreto 1201/2005, de 10 de octubre.
+
+2\. Se consideran capacitados para realizar las funciones del artículo 15.2.b) al personal reconocido u homologado como categoría A, B, y D2 según se establece en el anexo I del Real Decreto 1201/2005, de 10 de octubre.
+
+3\. Se consideran capacitados para realizar las funciones del artículo 15.2.c) al personal reconocido u homologado como categoría B y C según se establece en el anexo I del Real Decreto 1201/2005, de 10 de octubre. En este último caso se requiere que el personal haya recibido instrucción en una disciplina científica pertinente para el procedimiento realizado y tenga un conocimiento específico de las especies involucradas
+
+4\. Se consideran capacitados para realizar las funciones del artículo 15.2.d) al personal reconocido u homologado como categoría C según se establece en el anexo I del Real Decreto 1201/2005, de 10 de octubre y además hayan recibido una instrucción en una disciplina científica pertinente para el trabajo realizado y tenga un conocimiento específico de las especies involucradas.
+
+5\. Se considera capacitados para realizar las funciones del artículo 15.2.e) al personal reconocido u homologado como categoría D1 según se establece en el anexo I del Real Decreto 1201/2005, de 10 de octubre.
+
+6\. Se considera capacitado para realizar las funciones del artículo 15.2.f) al personal reconocido u homologado como categoría D2 según se establece en el anexo I del Real Decreto 1201/2005, de 10 de octubre.
+
+#### Disposición transitoria sexta. Disposiciones más estrictas.
+
+Los órganos competentes podrán mantener disposiciones cuyo objeto sea garantizar una mayor protección a los animales dentro de su territorio, siempre que las mismas estuvieran ya vigentes el 9 de noviembre de 2010, que sean compatibles con los principios generales del Tratado de Funcionamiento de la Unión Europea y que se comuniquen a la Comisión Europea en el plazo más breve posible. A estos efectos, los órganos competentes de las comunidades autónomas y ciudades de Ceuta y Melilla comunicarán antes del 1 de diciembre de 2012 a la Dirección General competente en materia de bienestar animal de la Administración General del Estado las disposiciones que hayan decidido mantener, para su comunicación por ésta en plazo a la Comisión Europea.
+
+#### Disposición transitoria séptima. Habilitación.
+
+Las comunidades autónomas autorizarán y designarán, en el plazo máximo de seis meses, de acuerdo con lo previsto en el artículo 43, a los órganos habilitados para la evaluación de proyectos, y remitirán, a los solos efectos de su publicidad, la relación de los mismos al Ministerio de Economía y Competitividad, el cual hará publica dicha lista a través de su sede electrónica, y la mantendrá debidamente actualizada a disposición de los interesados.
+
+Dispondrán de habilitación provisional en tanto no se dé publicidad al listado de órganos habilitados referido en el párrafo anterior, los comités de ética de experimentación animal, los cuales en su actuación deberán cumplir lo previsto en el artículo 43.1.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+A la entrada en vigor de este real decreto, quedan derogados:
+
+a) El Real Decreto 1201/2005, de 10 de octubre, sobre protección de los animales utilizados para experimentación y otros fines científicos.
+
+b) El artículo 11 del Real Decreto 751/2006, de 16 de junio, sobre autorización y registro de transportistas y medios de transporte de animales y por el que se crea el Comité español de bienestar y protección de los animales de producción.
+
+#### Disposición final primera. Carácter básico y título competencial.
+
+El presente real decreto tiene carácter básico y se dicta al amparo de las competencias reconocidas al Estado por la Constitución en su artículo 149.1.13.ª, 15.ª y 16.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica, de fomento y coordinación general de la investigación científica y técnica, y de bases y coordinación general de la sanidad.
+
+#### Disposición final segunda. Incorporación de derecho comunitario.
+
+Mediante este real decreto se incorpora a nuestro ordenamiento jurídico la Directiva 2010/63/UE, del Parlamento Europeo y del Consejo, de 22 de septiembre de 2010, relativa a la protección de los animales utilizados para fines científicos.
+
+#### Disposición final tercera. Facultad de modificación.
+
+Se faculta a la persona titular del Ministerio de Agricultura, Alimentación y Medio Ambiente para modificar los anexos de este real decreto, para su adaptación a la normativa comunitaria o internacional.
+
+#### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 1 de febrero de 2013.
+
+JUAN CARLOS R.
+
+La Vicepresidenta del Gobierno y Ministra de la Presidencia,
+
+SORAYA SÁENZ DE SANTAMARÍA ANTÓN
+
+## ANEXO I — Especies a las que se hace referencia en el artículo 19
+
+1\. Ratón *(Mus musculus).*
+
+2\. Rata *(Rattus norvegicus).*
+
+3\. Cobaya *(Cavia porcellus).*
+
+4\. Hámster sirio (dorado) *(Mesocricetus auratus).*
+
+5\. Hámster enano chino *(Cricetulus griseus).*
+
+6\. Jerbo de Mongolia *(Meriones unguiculatus).*
+
+7\. Conejo *(Oryctolagus cuniculus).*
+
+8\. Perro *(Canis familiaris).*
+
+9\. Gato *(Felis catus).*
+
+10\. Todas las especies de primates no humanos.
+
+11\. Rana [*Xenopus (laevis, tropicalis)*, Rana *(temporaria, pipiens)*].
+
+12\. Pez cebra (Danio rerio).
+
+## ANEXO II — Requisitos relativos a los establecimientos y al alojamiento y al cuidado de los animales
+
+Sección A: Sección general
+
+1\. Instalaciones.
+
+1.1 Funciones y diseño general.
+
+a) Todas las instalaciones deben construirse de forma que garanticen un ambiente que tenga en cuenta las necesidades fisiológicas y etológicas de las especies alojadas en ellas. Asimismo deben diseñarse y gestionarse con vistas a evitar el acceso de personas no autorizadas y la entrada o la huida de animales.
+
+b) Los establecimientos deben aplicar un programa activo de mantenimiento a fin de evitar y reparar cualquier defecto de los edificios o del material.
+
+1.2 Locales de alojamiento.
+
+a) Los establecimientos deben tener un programa eficiente de limpieza periódica de los locales y mantener un nivel higiénico satisfactorio.
+
+b) Las paredes, los techos y los suelos deben estar recubiertos de un material impermeable cuando sea necesario y resistente al gran desgaste causado por los animales y las operaciones de limpieza. Ese material de revestimiento no debe ser perjudicial para la salud de los animales ni propiciar el que los animales se lastimen. Los dispositivos o accesorios deben protegerse especialmente para evitar que los animales los estropeen o se hieran.
+
+c) Las especies que sean incompatibles, como depredadores y presas, o los animales que necesiten condiciones ambientales diferentes, deben estar alojados en locales diferentes y, en el caso de los depredadores y sus presas, fuera del alcance de su vista, olfato u oído.
+
+1.3 Locales con fines generales y especiales para la realización de procedimientos.
+
+a) Los establecimientos deben disponer, cuando proceda, de instalaciones de laboratorio para realizar pruebas sencillas de diagnóstico, necropsias, o para tomar muestras que deban someterse a investigaciones de laboratorio más amplias en algún otro sitio. Los locales para la realización de procedimientos con fines generales o especiales deben estar disponibles para situaciones en las que no sea aconsejable llevar a cabo procedimientos u observaciones en los locales de alojamiento.
+
+b) Deben existir instalaciones para permitir el aislamiento de los animales recién adquiridos hasta que se determine su estado sanitario y se evalúe y minimice el potencial riesgo sanitario para los demás animales.
+
+c) Debe disponerse de locales para alojar por separado a los animales enfermos o heridos.
+
+1.4 Locales de servicio.
+
+a) Los locales de almacenamiento deben diseñarse, utilizarse y mantenerse de manera que se preserve la calidad de los piensos y del material de cama. Esos locales deben ser en la medida de lo posible a prueba de parásitos e insectos. Los materiales de otro tipo, que puedan estar contaminados o suponer un peligro para los animales o el personal, deben almacenarse por separado.
+
+b) Los locales de limpieza y lavado deben ser lo bastante amplios para alojar las instalaciones necesarias para descontaminar y limpiar el material usado. El proceso de limpieza debe organizarse de tal forma que se mantengan separados los flujos de materiales limpios y sucios para evitar la contaminación del material recién limpiado.
+
+c) Los establecimientos deben adoptar medidas para el almacenamiento y la eliminación segura de los cadáveres y residuos de los animales en condiciones higiénicas satisfactorias.
+
+d) Cuando sea necesario llevar a cabo procedimientos quirúrgicos en condiciones asépticas, se dispondrá de una o más salas debidamente equipadas, así como de instalaciones para la recuperación postoperatoria.
+
+2\. El entorno y su control.
+
+2.1 Ventilación y temperatura.
+
+a) El aislamiento, la calefacción y la ventilación de los locales de alojamiento asegurarán que la circulación del aire, los niveles de polvo y las concentraciones de gas se mantengan dentro de unos límites que no sean nocivos para los animales alojados.
+
+b) La temperatura y la humedad relativa en los locales de alojamiento deben estar adaptada a las especies y a los grupos de edad de los animales alojados. La temperatura debe medirse y registrarse diariamente.
+
+c) Los animales no deben estar obligados a permanecer en zonas exteriores en condiciones climáticas que puedan ser potencialmente perjudiciales o puedan causarles angustia.
+
+2.2 Iluminación.
+
+a) Cuando la luz natural no garantice un ciclo adecuado de luz/oscuridad, debe preverse un sistema de iluminación controlada para satisfacer las necesidades biológicas de los animales y disponer de un medio de trabajo adecuado.
+
+b) La iluminación debe ser adecuada para realizar el manejo y la inspección de los animales, sin que esto suponga un estrés para los animales
+
+c) Deben preverse fotoperíodos regulares, con una intensidad de luz adaptada a las especies.
+
+d) Si se tienen animales albinos, la iluminación debe adaptarse para tener en cuenta su especial sensibilidad a la luz.
+
+2.3 Ruido y vibraciones.
+
+a) Los niveles de ruido, incluidos los ultrasonidos, no deben afectar negativamente al bienestar animal.
+
+b) Los establecimientos deben disponer de sistemas de alarma que, si son acústicos, emitan sonidos fuera del espectro audible sensible de los animales, cuando ello no interfiera con su audibilidad para los seres humanos.
+
+c) Los locales de alojamiento deben disponer, en su caso, de materiales de aislamiento y absorción acústica.
+
+d) Los equipos que provocan ruido o vibraciones, como los generadores eléctricos o los sistemas de filtración, no deben afectar negativamente al bienestar de los animales acuáticos.
+
+2.4 Sistemas de alarma y planes de contingencia.
+
+a) Los establecimientos que dependan de dispositivos mecánicos o eléctricos para el control y la regulación de las condiciones ambientales deben disponer de sistemas alternativos que garanticen que sigan funcionando los servicios esenciales y los dispositivos de alumbrado de emergencia, y que eviten que los propios sistemas de alarma dejen de funcionar.
+
+b) Los sistemas de calefacción y ventilación deben disponer de dispositivos de control y de alarma.
+
+c) Deben exponerse en lugar bien visible instrucciones claras sobre las actuaciones a desarrollar en caso de emergencia.
+
+d) Se debe disponer de planes eficaces de contingencia para garantizar la salud y el bienestar de los animales ante el eventual fallo de algún elemento zootécnico esencial.
+
+3\. Cuidados de los animales.
+
+3.1 Salud.
+
+a) Los establecimientos deben disponer de una estrategia para velar por el mantenimiento de un estado sanitario de los animales que garantice su bienestar y satisfaga los requisitos científicos. Esa estrategia debe incluir el control sanitario periódico, un programa de vigilancia microbiológica y planes de acción frente a los problemas sanitarios, la definición de parámetros sanitarios y protocolos para la introducción de nuevos animales.
+
+b) Una persona capacitada debe realizar al menos una vez al día un control de los animales. Dichos controles deben garantizar que todo animal enfermo o herido sea detectado y reciba los cuidados necesarios.
+
+3.2 Animales capturados en la naturaleza.
+
+a) En los lugares de captura, en caso de que fuera necesario trasladar a los animales para su examen o tratamiento, debe disponerse de contenedores y medios de transporte adaptados a las especies consideradas.
+
+b) Debe concederse una consideración especial y tomarse medidas adecuadas para la aclimatación, cuarentena, alojamiento, zootecnia, cuidados de los animales capturados en la naturaleza y, en su caso, disposiciones para su liberación al término de los procedimientos.
+
+3.3 Alojamiento y enriquecimiento.
+
+a) Alojamiento.
+
+Los animales, excepto los que sean por su naturaleza solitarios, deben ser alojados en grupos estables de individuos compatibles. Cuando se permita el alojamiento individual con arreglo al artículo 6.3, su duración debe limitarse al mínimo necesario, y debe mantenerse un contacto visual, auditivo, olfativo y/o táctil. La introducción o reintroducción de animales en grupos establecidos debe ser objeto de un seguimiento cuidadoso para evitar problemas de incompatibilidad o una perturbación de las relaciones sociales.
+
+b) Enriquecimiento ambiental.
+
+Todos los animales deben disponer de un espacio de la complejidad suficiente para permitirles expresar una amplia gama de comportamientos normales. Deben contar con cierto grado de control y elección de su entorno, para reducir los comportamientos inducidos por el estrés. Los establecimientos deben contar con técnicas de enriquecimiento adecuadas que amplíen la gama de actividades al alcance del animal y desarrollen su capacidad de adaptación, como el ejercicio físico, la búsqueda de comida y las actividades de manipulación y exploración en función de la especie. El enriquecimiento ambiental del recinto de animales debe adaptarse a las necesidades individuales y a las propias de la especie. Las estrategias de enriquecimiento de los establecimientos deben revisarse y actualizarse con regularidad.
+
+c) Recintos de animales.
+
+Los recintos deben fabricarse con materiales no perjudiciales para la salud de los animales. Deben diseñarse y construirse de manera que eviten causarles heridas. Si no son desechables, deben fabricarse con materiales resistentes a las técnicas de limpieza y descontaminación. El diseño de los suelos de los recintos debe estar adaptado a la especie y la edad de los animales y facilitar la eliminación de excrementos.
+
+3.4 Alimentación.
+
+a) La forma, la composición y la presentación de los piensos o de otros alimentos deben responder a las necesidades nutricionales y de comportamiento del animal.
+
+b) La dieta debe ser apetecible y no estar contaminada. En la selección de las materias primas y en la producción, la preparación y la presentación de los alimentos para los animales los establecimientos deben tomar medidas para reducir al mínimo la contaminación química, física y microbiológica.
+
+c) El envasado, el empaquetado, el transporte y el almacenamiento de los piensos deben planificarse de manera que se eviten su contaminación, deterioro o destrucción. Todos los comederos, tolvas y demás utensilios utilizados para la alimentación deben limpiarse de forma regular y, si resulta necesario, esterilizarse.
+
+d) Cada animal ha de tener acceso al alimento y disponer de espacio suficiente para limitar la competencia con otros animales.
+
+3.5 Agua.
+
+a) Todos los animales deben disponer permanentemente de agua de bebida no contaminada.
+
+b) Cuando se utilicen sistemas automáticos de aporte de agua, su funcionamiento debe ser objeto de inspección, mantenimiento y limpieza periódicos para evitar accidentes. Si se utilizan jaulas de suelo compacto, debe reducirse al mínimo el riesgo de inundación.
+
+c) Deben tomarse las medidas necesarias para adaptar el suministro de agua de los acuarios y terrarios a las necesidades y límites de tolerancia de cada especie de peces, anfibios y reptiles.
+
+3.6 Zonas de descanso.
+
+a) Los animales deben disponer siempre de estructuras de descanso o materiales de cama adaptados a la especie, así como estructuras o materiales de nidificación para los animales reproductores.
+
+b) En el recinto de animales, de acuerdo a las necesidades de cada especie, debe proporcionarse una superficie de reposo sólida y confortable para todos los animales. Todas las zonas para dormir deben mantenerse limpias y secas.
+
+3.7 Manejo.
+
+Los establecimientos deben elaborar programas de aclimatación y aprendizaje adecuados para los animales, los procedimientos y la duración del proyecto.
+
+Sección B: Secciones específicas
+
+1\. Ratones, ratas, jerbos, hámsteres y cobayas.
+
+En los cuadros siguientes sobre ratones, ratas, jerbos, hámsteres y cobayas, por «altura del recinto» se entiende la distancia vertical entre el suelo y la parte superior del recinto; Se debe disponer de esta altura en más del 50 por cien de la superficie mínima del suelo del recinto antes de introducir elementos de enriquecimiento.
+
+A la hora de planificar los procedimientos hay que tener en cuenta el crecimiento potencial de los animales a fin de garantizarles un espacio adecuado (como se indica en los cuadros 1.1 a 1.5) durante todo el estudio.
+
+Cuadro 1.1 Ratones
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="23%">
+<col width="15%">
+<col width="21%">
+<col width="13%">
+<col width="12%">
+<col width="16%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Peso corporal</p>
+<p class="cabeza_tabla">(g)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie del suelo por animal</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima del recinto</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6.2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">En reserva y durante los procedimientos.</td>
+<td class="cuerpo_tabla_izq">Hasta 20.</td>
+<td class="cuerpo_tabla_centro">330</td>
+<td class="cuerpo_tabla_centro">60</td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_centro" rowspan="7">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 20 a 25.</td>
+<td class="cuerpo_tabla_centro">330</td>
+<td class="cuerpo_tabla_centro">70</td>
+<td class="cuerpo_tabla_centro">12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 25 a 30.</td>
+<td class="cuerpo_tabla_centro">330</td>
+<td class="cuerpo_tabla_centro">80</td>
+<td class="cuerpo_tabla_centro">12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 30.</td>
+<td class="cuerpo_tabla_centro">330</td>
+<td class="cuerpo_tabla_centro">100</td>
+<td class="cuerpo_tabla_centro">12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Reproducción.</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">
+<p class="cuerpo_tabla_centro">330</p>
+<p class="cuerpo_tabla_izq">Para una pareja monógama (no consanguínea/consanguínea) o un trío (consanguíneo). Por cada hembra suplementaria y su camada deben añadirse otros 180 cm².</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">En reserva en criadores*.</td>
+<td class="cuerpo_tabla_izq">Menos de 20.</td>
+<td class="cuerpo_tabla_centro">950</td>
+<td class="cuerpo_tabla_centro">40</td>
+<td class="cuerpo_tabla_centro">12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">En reserva en criadores*.</td>
+<td class="cuerpo_tabla_izq">Menos de 20.</td>
+<td class="cuerpo_tabla_centro">1.500</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_centro">12</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6">
+<p class="cita">* Los ratones, una vez destetados, pueden permanecer con esas densidades de ocupación más elevadas, en el corto período comprendido entre el destete y la expedición, siempre que estén alojados en recintos más amplios con un enriquecimiento adecuado y esas condiciones de alojamiento no produzcan ninguna merma de bienestar, como, por ejemplo, mayor agresividad, morbilidad o mortalidad, estereotipias y otras anomalías de comportamiento, pérdida de peso u otras respuestas fisiológicas o conductuales al estrés.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Cuadro 1.2 Ratas
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="23%">
+<col width="15%">
+<col width="21%">
+<col width="13%">
+<col width="12%">
+<col width="16%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Peso corporal</p>
+<p class="cabeza_tabla">(g)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie del suelo por animal</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima del recinto</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">En reserva y durante los procedimientos*.</td>
+<td class="cuerpo_tabla_izq">Hasta 200.</td>
+<td class="cuerpo_tabla_centro">800</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_centro" rowspan="13">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 200 a 300.</td>
+<td class="cuerpo_tabla_centro">800</td>
+<td class="cuerpo_tabla_centro">250</td>
+<td class="cuerpo_tabla_centro">18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 300 a 400.</td>
+<td class="cuerpo_tabla_centro">800</td>
+<td class="cuerpo_tabla_centro">350</td>
+<td class="cuerpo_tabla_centro">18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 400 a 600.</td>
+<td class="cuerpo_tabla_centro">800</td>
+<td class="cuerpo_tabla_centro">450</td>
+<td class="cuerpo_tabla_centro">18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 600.</td>
+<td class="cuerpo_tabla_centro">1.500</td>
+<td class="cuerpo_tabla_centro">600</td>
+<td class="cuerpo_tabla_centro">18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Reproducción.</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">
+<p class="cuerpo_tabla_centro">800</p>
+<p class="cuerpo_tabla_izq">Madre y camada. Por cada animal adulto adicional, introducido de forma permanente en el recinto, deben añadirse otros 400 cm².</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">
+<p class="cuerpo_tabla_izq">Reserva en criadores**.</p>
+<p class="cuerpo_tabla_izq">Dimensión del recinto 1 500 cm².</p>
+</td>
+<td class="cuerpo_tabla_izq">Hasta 50.</td>
+<td class="cuerpo_tabla_centro">1.500</td>
+<td class="cuerpo_tabla_centro">100</td>
+<td class="cuerpo_tabla_centro">18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 50 a 100.</td>
+<td class="cuerpo_tabla_centro">1.500</td>
+<td class="cuerpo_tabla_centro">125</td>
+<td class="cuerpo_tabla_centro">18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 100 a 150.</td>
+<td class="cuerpo_tabla_centro">1.500</td>
+<td class="cuerpo_tabla_centro">150</td>
+<td class="cuerpo_tabla_centro">18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 150 a 200.</td>
+<td class="cuerpo_tabla_centro">1.500</td>
+<td class="cuerpo_tabla_centro">175</td>
+<td class="cuerpo_tabla_centro">18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">
+<p class="cuerpo_tabla_izq">Reserva en criadores**.</p>
+<p class="cuerpo_tabla_izq">Dimensión del recinto 2 500 cm².</p>
+</td>
+<td class="cuerpo_tabla_izq">Hasta 100.</td>
+<td class="cuerpo_tabla_centro">2.500</td>
+<td class="cuerpo_tabla_centro">100</td>
+<td class="cuerpo_tabla_centro">18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 100 a 150.</td>
+<td class="cuerpo_tabla_centro">2.500</td>
+<td class="cuerpo_tabla_centro">125</td>
+<td class="cuerpo_tabla_centro">18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 150 a 200.</td>
+<td class="cuerpo_tabla_centro">2.500</td>
+<td class="cuerpo_tabla_centro">150</td>
+<td class="cuerpo_tabla_centro">18</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6">
+<p class="cita">* En los estudios a largo plazo, si el espacio mínimo disponible para cada animal es inferior al indicado más arriba hacia el final de dichos estudios, debe darse prioridad al mantenimiento de estructuras sociales estables.</p>
+<p class="cita">** Las ratas, una vez destetadas, pueden permanecer con esas densidades de ocupación más elevadas en el corto período comprendido entre el destete y la expedición, siempre que estén alojadas en recintos más amplios con un enriquecimiento adecuado y esas condiciones de alojamiento no produzcan ninguna merma de bienestar como, por ejemplo, mayor agresividad, morbilidad o mortalidad, estereotipias y otras anomalías de comportamiento, pérdida de peso u otras respuestas fisiológicas o conductuales al estrés.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Cuadro 1.3 Jerbos
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="23%">
+<col width="15%">
+<col width="21%">
+<col width="13%">
+<col width="12%">
+<col width="16%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Peso corporal</p>
+<p class="cabeza_tabla">(g)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie del suelo por animal</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima del recinto</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">En reserva y durante los procedimientos.</td>
+<td class="cuerpo_tabla_izq">Hasta 40.</td>
+<td class="cuerpo_tabla_centro">1.200</td>
+<td class="cuerpo_tabla_centro">150</td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 40.</td>
+<td class="cuerpo_tabla_centro">1.200</td>
+<td class="cuerpo_tabla_centro">250</td>
+<td class="cuerpo_tabla_centro">18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Reproducción.</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">
+<p class="cuerpo_tabla_centro">1.200</p>
+<p class="cuerpo_tabla_izq">Pareja monógama o trío con descendencia.</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">18</td>
+</tr>
+</tbody>
+</table>
+
+Cuadro 1.4 Hámsteres
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="23%">
+<col width="15%">
+<col width="21%">
+<col width="13%">
+<col width="12%">
+<col width="16%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Peso corporal</p>
+<p class="cabeza_tabla">(g)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie del suelo por animal</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima del recinto</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">En reserva y durante los procedimientos.</td>
+<td class="cuerpo_tabla_izq">Hasta 60.</td>
+<td class="cuerpo_tabla_centro">800</td>
+<td class="cuerpo_tabla_centro">150</td>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_centro" rowspan="5">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 60 a 100.</td>
+<td class="cuerpo_tabla_centro">800</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">14</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 100.</td>
+<td class="cuerpo_tabla_centro">800</td>
+<td class="cuerpo_tabla_centro">250</td>
+<td class="cuerpo_tabla_centro">14</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Reproducción.</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">
+<p class="cuerpo_tabla_centro">800</p>
+<p class="cuerpo_tabla_izq">Madre o pareja monógama con camada.</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">14</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">En reserva en criadores*.</td>
+<td class="cuerpo_tabla_izq">Menos de 60.</td>
+<td class="cuerpo_tabla_centro">1.500</td>
+<td class="cuerpo_tabla_centro">100</td>
+<td class="cuerpo_tabla_centro">14</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6">
+<p class="cita">* Los hámsteres, una vez destetados, pueden permanecer con esas densidades de ocupación más elevadas, en el corto período comprendido entre el destete y la expedición, siempre que estén alojados en recintos más amplios con un enriquecimiento adecuado y esas condiciones de alojamiento no produzcan ninguna merma de bienestar, como, por ejemplo, mayor agresividad, morbilidad o mortalidad, estereotipias y otras anomalías de comportamiento, pérdida de peso u otras respuestas fisiológicas o conductuales al estrés.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Cuadro 1.5 Cobayas
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="23%">
+<col width="15%">
+<col width="21%">
+<col width="13%">
+<col width="12%">
+<col width="16%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Peso corporal</p>
+<p class="cabeza_tabla">(g)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie del suelo por animal</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima del recinto</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">En reserva y durante los procedimientos.</td>
+<td class="cuerpo_tabla_izq">Hasta 200.</td>
+<td class="cuerpo_tabla_centro">1.800</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">23</td>
+<td class="cuerpo_tabla_centro" rowspan="6">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 200 a 300.</td>
+<td class="cuerpo_tabla_centro">1.800</td>
+<td class="cuerpo_tabla_centro">350</td>
+<td class="cuerpo_tabla_centro">23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 300 a 450.</td>
+<td class="cuerpo_tabla_centro">1.800</td>
+<td class="cuerpo_tabla_centro">500</td>
+<td class="cuerpo_tabla_centro">23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 450 a 700.</td>
+<td class="cuerpo_tabla_centro">2.500</td>
+<td class="cuerpo_tabla_centro">700</td>
+<td class="cuerpo_tabla_centro">23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 700.</td>
+<td class="cuerpo_tabla_centro">2.500</td>
+<td class="cuerpo_tabla_centro">900</td>
+<td class="cuerpo_tabla_centro">23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Reproducción.</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">
+<p class="cuerpo_tabla_centro">2.500</p>
+<p class="cuerpo_tabla_izq">Pareja con camada. Por cada hembra reproductora suplementaria, deben añadirse otros 1.000 cm².</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">23</td>
+</tr>
+</tbody>
+</table>
+
+2\. Conejos. En el marco de una investigación de índole agropecuaria, cuando el objetivo del proyecto disponga que los animales se mantengan en condiciones similares a las de los animales de explotaciones comerciales, el alojamiento de los animales debe cumplir como mínimo las normas contempladas en el Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas.
+
+Debe preverse una plataforma dentro del recinto. Esa plataforma tiene que permitir que el animal se tumbe, se siente y se mueva fácilmente por debajo, pero no debe cubrir más del 40 por cien del suelo. Cuando, por razones de índole científica o veterinaria, no pueda utilizarse una plataforma, el recinto debe ser un 33 por cien mayor para un conejo solo, y un 60 por cien mayor para dos conejos. Cuando se prevea una plataforma para conejos de menos de 10 semanas de edad, la superficie de dicha plataforma debe ser, al menos, de 55 x 25 cm y su altura respecto al suelo debe ser adecuada para que los animales la utilicen.
+
+Cuadro 2.1 Conejos de más de 10 semanas
+
+El cuadro 2.1 se refiere tanto a las jaulas como a los cercados. La superficie de suelo suplementaria es, como mínimo, de 3 000 cm<sup>2</sup> por conejo para el tercero, el cuarto, el quinto y el sexto animal, mientras que deben añadirse, como mínimo, 2 500 cm<sup>2</sup> por cada conejo que se introduzca por encima de seis.
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="50%">
+<col width="10%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Peso corporal final</p>
+<p class="cabeza_tabla">(kg)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima de suelo para uno o dos animales socialmente armoniosos</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Menos de 3.</td>
+<td class="cuerpo_tabla_centro">3 500</td>
+<td class="cuerpo_tabla_centro">45</td>
+<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Entre 3 y 5.</td>
+<td class="cuerpo_tabla_centro">4 200</td>
+<td class="cuerpo_tabla_centro">45</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 5.</td>
+<td class="cuerpo_tabla_centro">5 400</td>
+<td class="cuerpo_tabla_centro">60</td>
+</tr>
+</tbody>
+</table>
+
+Cuadro 2.2 Conejas con camada
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="25%">
+<col width="25%">
+<col width="10%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Peso de la coneja</p>
+<p class="cabeza_tabla">(kg)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima del recinto</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Suplemento para las cajas nido</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Menos de 3.</td>
+<td class="cuerpo_tabla_centro">3.500</td>
+<td class="cuerpo_tabla_centro">1.000</td>
+<td class="cuerpo_tabla_centro">45</td>
+<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de.2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Entre 3 y 5.</td>
+<td class="cuerpo_tabla_centro">4.200</td>
+<td class="cuerpo_tabla_centro">1.200</td>
+<td class="cuerpo_tabla_centro">45</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 5.</td>
+<td class="cuerpo_tabla_centro">5.400</td>
+<td class="cuerpo_tabla_centro">1.400</td>
+<td class="cuerpo_tabla_centro">60</td>
+</tr>
+</tbody>
+</table>
+
+Cuadro 2.3 Conejos de menos de 10 semanas
+
+El cuadro 2.3 se refiere tanto a las jaulas como a los cercados.
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="25%">
+<col width="25%">
+<col width="10%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Edad</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima del recinto</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima de suelo por animal</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Entre el destete y 7 semanas.</td>
+<td class="cuerpo_tabla_centro">4.000</td>
+<td class="cuerpo_tabla_centro"> 800</td>
+<td class="cuerpo_tabla_centro">40</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Entre 7 y 10 semanas.</td>
+<td class="cuerpo_tabla_centro">4.000</td>
+<td class="cuerpo_tabla_centro">1.200</td>
+<td class="cuerpo_tabla_centro">40</td>
+</tr>
+</tbody>
+</table>
+
+Cuadro 2.4 Conejos: dimensiones óptimas de las plataformas para los recintos que tienen las dimensiones indicadas en el cuadro 2.1
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="25%">
+<col width="25%">
+<col width="10%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Edad en semanas</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Peso corporal final</p>
+<p class="cabeza_tabla">(kg)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión óptima</p>
+<p class="cabeza_tabla">(cm x cm)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura óptima desde el suelo del recinto</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Más de 10.</td>
+<td class="cuerpo_tabla_izq">Menos de 3.</td>
+<td class="cuerpo_tabla_centro">55 x 25</td>
+<td class="cuerpo_tabla_centro">25</td>
+<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Entre 3 y 5.</td>
+<td class="cuerpo_tabla_centro">55 x 30</td>
+<td class="cuerpo_tabla_centro">25</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 5.</td>
+<td class="cuerpo_tabla_centro">60 x 35</td>
+<td class="cuerpo_tabla_centro">30</td>
+</tr>
+</tbody>
+</table>
+
+3\. Gatos. Los gatos no deben estar alojados individualmente más de 24 horas seguidas. Los gatos que repetidamente se muestren agresivos hacia otros gatos solo deben ser alojados individualmente si no puede encontrarse un compañero compatible. Debe controlarse como mínimo una vez por semana el estrés social de todos los individuos alojados por parejas o en grupos. Las hembras en las dos últimas semanas de gestación o con crías de menos de cuatro semanas pueden ser alojadas individualmente.
+
+Cuadro 3. Gatos
+
+El espacio mínimo en el que se puede mantener a una gata y a su camada es el de un gato solo, aumentándose gradualmente de tal forma que cuando las crías tengan cuatro meses de edad, hayan sido realojadas ateniéndose a los requisitos de espacio indicados para los adultos.
+
+Las zonas para la comida y para las bandejas sanitarias no deben estar a una distancia inferior a 0,5 metros y no deben intercambiarse.
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="20%">
+<col width="20%">
+<col width="25%">
+<col width="10%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Suelo*</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Plataformas</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura</p>
+<p class="cabeza_tabla">(m)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo para un animal adulto.</td>
+<td class="cuerpo_tabla_centro">1,5</td>
+<td class="cuerpo_tabla_centro">0,5</td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Por cada animal adicional.</td>
+<td class="cuerpo_tabla_centro">0,75</td>
+<td class="cuerpo_tabla_centro">0,25</td>
+<td class="cuerpo_tabla_centro">–</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="5">
+<p class="cita">* Superficie de suelo con exclusión de las plataformas.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+4\. Perros. Los perros deberán ser trasladados cuando sea posible a una zona exterior en la que puedan hacer ejercicio. El alojamiento individual no debe prolongarse durante más de cuatro horas seguidas.
+
+El tamaño del recinto interior no debe ser inferior al 50 por cien del espacio mínimo disponible para los perros, según se detalla en el cuadro 4.1.
+
+Las dimensiones de espacio disponible que se indican en las tablas siguientes están basadas en las necesidades del Beagle, por lo que las razas gigantes, como el San Bernardo o el lobero irlandés deben disponer de un espacio considerablemente mayor que el indicado en el cuadro 4.1. Para las razas distintas al Beagle de experimentación, las necesidades de espacio disponible deben decidirse con asesoramiento del personal veterinario.
+
+Cuadro 4.1 Perros
+
+Los perros alojados en parejas o en grupo se pueden ver confinados, cada uno de ellos, a la mitad del espacio total proporcionado (2 m<sup>2</sup> para un perro de menos de 20 kg, 4 m<sup>2</sup> para uno de más de 20 kg), mientras estén sometidos a los procedimientos definidos en el presente real decreto, si dicho aislamiento es esencial para los fines científicos. El tiempo durante el cual el perro esté sometido a esas limitaciones no debe prolongarse más de cuatro horas seguidas.
+
+Una perra lactante y su camada deben disponer del mismo espacio que una perra sola de peso equivalente. El recinto de cría debe estar diseñado de tal manera que la perra pueda desplazarse a un compartimento anejo o a una plataforma separada de los cachorros.
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="11%">
+<col width="16%">
+<col width="20%">
+<col width="18%">
+<col width="10%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Peso</p>
+<p class="cabeza_tabla">(kg)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima de suelo para uno o dos animales</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Para cada animal adicional, añadir un mínimo de</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima</p>
+<p class="cabeza_tabla">(m)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 20.</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 20.</td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro">2</td>
+</tr>
+</tbody>
+</table>
+
+Cuadro 4.2 Perros: Espacio disponible después del destete
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="18%">
+<col width="20%">
+<col width="20%">
+<col width="17%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Peso del perro</p>
+<p class="cabeza_tabla">(kg)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima de suelo/animal</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima</p>
+<p class="cabeza_tabla">(m)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 5.</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro">0,5</td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro" rowspan="5">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 5 a 10.</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro">1,0</td>
+<td class="cuerpo_tabla_centro">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 10 a 15.</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro">1,5</td>
+<td class="cuerpo_tabla_centro">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 15 a 20.</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 20.</td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro">2</td>
+</tr>
+</tbody>
+</table>
+
+5\. Hurones.
+
+Cuadro 5. Hurones
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="18%">
+<col width="20%">
+<col width="20%">
+<col width="17%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima de suelo por animal</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Animales de hasta 600 g.</td>
+<td class="cuerpo_tabla_centro">4.500</td>
+<td class="cuerpo_tabla_centro">1.500</td>
+<td class="cuerpo_tabla_centro">50</td>
+<td class="cuerpo_tabla_centro" rowspan="4">1.de.enero de.2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Animales de más de 600 g.</td>
+<td class="cuerpo_tabla_centro">4.500</td>
+<td class="cuerpo_tabla_centro">3.000</td>
+<td class="cuerpo_tabla_centro">50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Machos adultos.</td>
+<td class="cuerpo_tabla_centro">6.000</td>
+<td class="cuerpo_tabla_centro">6.000</td>
+<td class="cuerpo_tabla_centro">50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Hembra y camada.</td>
+<td class="cuerpo_tabla_centro">5.400</td>
+<td class="cuerpo_tabla_centro">5.400</td>
+<td class="cuerpo_tabla_centro">50</td>
+</tr>
+</tbody>
+</table>
+
+6\. Primates. Los primates jóvenes no deben ser separados de su madre antes de que alcancen, dependiendo de la especie, una edad de seis a doce meses.
+
+El entorno debe permitir a los primates desarrollar un complejo programa diario de actividades. El recinto debe permitir a los primates adoptar un repertorio de conducta lo más amplio posible, darles una sensación de seguridad y ofrecer un entorno lo suficientemente complejo para que puedan correr, andar, trepar y saltar.
+
+Cuadro 6.1 Titíes y tamarinos
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="10%">
+<col width="25%">
+<col width="25%">
+<col width="15%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima de suelo de los recintos para 1* o 2 animales, más crías de hasta 5 meses</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Volumen mínimo por animal adicional de más de 5 meses</p>
+<p class="cabeza_tabla">(m³)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima del recinto</p>
+<p class="cabeza_tabla">(m)**</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Titíes.</td>
+<td class="cuerpo_tabla_centro">0,5</td>
+<td class="cuerpo_tabla_centro">0,2</td>
+<td class="cuerpo_tabla_centro">1,5</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Tamarinos.</td>
+<td class="cuerpo_tabla_centro">1,5</td>
+<td class="cuerpo_tabla_centro">0,2</td>
+<td class="cuerpo_tabla_centro">1,5</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="5">
+<p class="cita">* Los animales sólo se alojarán individualmente en circunstancias excepcionales.</p>
+<p class="cita">** El límite superior del recinto debe estar al menos a 1,8 m del suelo.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Los jóvenes titíes y tamarinos no deben ser separados de la madre antes de los ocho meses de edad.
+
+Cuadro 6.2 Saimiris
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="25%">
+<col width="25%">
+<col width="25%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima de suelo para 1* o 2 animales</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Volumen mínimo por cada animal adicional de más de 6 meses</p>
+<p class="cabeza_tabla">(m³)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima del recinto</p>
+<p class="cabeza_tabla">(m)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">2,0</td>
+<td class="cuerpo_tabla_centro">0,5</td>
+<td class="cuerpo_tabla_centro">1,8</td>
+<td class="cuerpo_tabla_centro">1 de enero de 2017</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="4">
+<p class="cita">* Los animales sólo se alojarán individualmente en circunstancias excepcionales.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Los jóvenes saimiris no deben ser separados de la madre antes de los seis meses de edad.
+
+Cuadro 6.3 Macacos y monos verdes*
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="25%">
+<col width="13%">
+<col width="13%">
+<col width="13%">
+<col width="11%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Volumen mínimo del recinto</p>
+<p class="cabeza_tabla">(m³)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Volumen mínimo por animal</p>
+<p class="cabeza_tabla">(m³)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima del recinto</p>
+<p class="cabeza_tabla">(m)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Animales de menos de 3 años de edad**.</td>
+<td class="cuerpo_tabla_centro">2,0</td>
+<td class="cuerpo_tabla_centro">3,6</td>
+<td class="cuerpo_tabla_centro">1,0</td>
+<td class="cuerpo_tabla_centro">1,8</td>
+<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Animales a partir de los 3 años de edad***.</td>
+<td class="cuerpo_tabla_centro">2,0</td>
+<td class="cuerpo_tabla_centro">3,6</td>
+<td class="cuerpo_tabla_centro">1,8</td>
+<td class="cuerpo_tabla_centro">1,8</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Animales para reproducción****.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3,5</td>
+<td class="cuerpo_tabla_centro">2,0</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6">
+<p class="cita">* Los animales sólo se alojarán individualmente en circunstancias excepcionales.</p>
+<p class="cita">** En un recinto de las dimensiones mínimas se pueden alojar hasta tres animales.</p>
+<p class="cita">*** En un recinto de las dimensiones mínimas se pueden alojar hasta dos animales.</p>
+<p class="cita">**** En las colonias reproductoras no hace falta espacio/volumen suplementario para los animales jóvenes de hasta 2 años alojados con su madre.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Los jóvenes macacos y monos verdes no deben ser separados de la madre antes de los ocho meses de edad.
+
+Cuadro 6.4 Babuinos*
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="25%">
+<col width="13%">
+<col width="13%">
+<col width="13%">
+<col width="11%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Volumen mínimo del recinto</p>
+<p class="cabeza_tabla">(m³)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Volumen mínimo por animal</p>
+<p class="cabeza_tabla">(m³)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima del recinto</p>
+<p class="cabeza_tabla">(m)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Animales** de menos de 4 años de edad.</td>
+<td class="cuerpo_tabla_centro">4,0</td>
+<td class="cuerpo_tabla_centro">7,2</td>
+<td class="cuerpo_tabla_centro">3,0</td>
+<td class="cuerpo_tabla_centro">1,8</td>
+<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Animales** a partir de los 4 años de edad.</td>
+<td class="cuerpo_tabla_centro">7,0</td>
+<td class="cuerpo_tabla_centro">12,6</td>
+<td class="cuerpo_tabla_centro">6,0</td>
+<td class="cuerpo_tabla_centro">1,8</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Animales para reproducción***.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">12,0</td>
+<td class="cuerpo_tabla_centro">2,0</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6">
+<p class="cita">* Los animales sólo se alojarán individualmente en circunstancias excepcionales.</p>
+<p class="cita">** En un recinto de las dimensiones mínimas se pueden alojar hasta 2 animales.</p>
+<p class="cita">*** En las colonias reproductoras no hace falta espacio/volumen suplementario para los animales jóvenes de hasta 2 años alojados con su madre.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Los jóvenes babuinos no deben separarse de la madre antes de los ocho meses de edad.
+
+7\. Otros animales de granja. En el marco de una investigación de índole agropecuaria, cuando el objetivo del proyecto disponga que los animales se mantengan en condiciones similares a las de los animales de las explotaciones comerciales, el alojamiento de los animales debe cumplir como mínimo las normas contempladas en el Real Decreto 348/200, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas, en el Real Decreto 1047/1994, de 20 de mayo, relativo a las normas mínimas de protección de terneros, y en el Real Decreto 1135/2002, de 31 de octubre, relativo a las normas mínimas para la protección de cerdos.
+
+Cuadro 7.1 Ganado bovino
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="14%">
+<col width="15%">
+<col width="20%">
+<col width="20%">
+<col width="16%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Peso corporal</p>
+<p class="cabeza_tabla">(kg)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima de suelo/animal</p>
+<p class="cabeza_tabla">(m²/animal)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud de comedero para la alimentación <em>ad libitum</em> de bovinos descornados</p>
+<p class="cabeza_tabla">(m/animal)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud de comedero para la alimentación restringida de bovinos descornados</p>
+<p class="cabeza_tabla">(m/animal)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 100.</td>
+<td class="cuerpo_tabla_coma">2,50</td>
+<td class="cuerpo_tabla_coma">2,30</td>
+<td class="cuerpo_tabla_centro">0,10</td>
+<td class="cuerpo_tabla_centro">0,30</td>
+<td class="cuerpo_tabla_centro" rowspan="6">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 100 a 200.</td>
+<td class="cuerpo_tabla_coma">4,25</td>
+<td class="cuerpo_tabla_coma">3,40</td>
+<td class="cuerpo_tabla_centro">0,15</td>
+<td class="cuerpo_tabla_centro">0,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 200 a 400.</td>
+<td class="cuerpo_tabla_coma">6,00</td>
+<td class="cuerpo_tabla_coma">4,80</td>
+<td class="cuerpo_tabla_centro">0,18</td>
+<td class="cuerpo_tabla_centro">0,60</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 400 a 600.</td>
+<td class="cuerpo_tabla_coma">9,00</td>
+<td class="cuerpo_tabla_coma">7,50</td>
+<td class="cuerpo_tabla_centro">0,21</td>
+<td class="cuerpo_tabla_centro">0,70</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 600 a 800.</td>
+<td class="cuerpo_tabla_coma">11,00</td>
+<td class="cuerpo_tabla_coma">8,75</td>
+<td class="cuerpo_tabla_centro">0,24</td>
+<td class="cuerpo_tabla_centro">0,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 800.</td>
+<td class="cuerpo_tabla_coma">16,00</td>
+<td class="cuerpo_tabla_coma">10,00</td>
+<td class="cuerpo_tabla_centro">0,30</td>
+<td class="cuerpo_tabla_centro">1,00</td>
+</tr>
+</tbody>
+</table>
+
+Cuadro 7.2 Ovinos y caprinos
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="12%">
+<col width="12%">
+<col width="15%">
+<col width="15%">
+<col width="15%">
+<col width="16%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Peso corporal</p>
+<p class="cabeza_tabla">(kg)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima de suelo/animal</p>
+<p class="cabeza_tabla">(m²/animal)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima de las separaciones entre recintos</p>
+<p class="cabeza_tabla">(m)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud de comedero para la alimentación <em>ad libitum</em></p>
+<p class="cabeza_tabla">(m/animal)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud de comedero para la alimentación restringida</p>
+<p class="cabeza_tabla">(m/animal)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Menos de 20.</td>
+<td class="cuerpo_tabla_centro">1,0</td>
+<td class="cuerpo_tabla_centro">0,7</td>
+<td class="cuerpo_tabla_centro">1,0</td>
+<td class="cuerpo_tabla_centro">0,10</td>
+<td class="cuerpo_tabla_centro">0,25</td>
+<td class="cuerpo_tabla_centro" rowspan="4">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 20 a 35.</td>
+<td class="cuerpo_tabla_centro">1,5</td>
+<td class="cuerpo_tabla_centro">1,0</td>
+<td class="cuerpo_tabla_centro">1,2</td>
+<td class="cuerpo_tabla_centro">0,10</td>
+<td class="cuerpo_tabla_centro">0,30</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 35 a 60.</td>
+<td class="cuerpo_tabla_centro">2,0</td>
+<td class="cuerpo_tabla_centro">1,5</td>
+<td class="cuerpo_tabla_centro">1,2</td>
+<td class="cuerpo_tabla_centro">0,12</td>
+<td class="cuerpo_tabla_centro">0,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 60.</td>
+<td class="cuerpo_tabla_centro">3,0</td>
+<td class="cuerpo_tabla_centro">1,8</td>
+<td class="cuerpo_tabla_centro">1,5</td>
+<td class="cuerpo_tabla_centro">0,12</td>
+<td class="cuerpo_tabla_centro">0,50</td>
+</tr>
+</tbody>
+</table>
+
+Cuadro 7.3 Cerdos y cerdos enanos
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="15%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Peso en vivo</p>
+<p class="cabeza_tabla">(kg)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto*</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima de suelo por animal</p>
+<p class="cabeza_tabla">(m²/animal)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Zona de reposo mínima por animal (en condiciones térmicamente neutras)</p>
+<p class="cabeza_tabla">(m²/animal)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 5.</td>
+<td class="cuerpo_tabla_centro">2,0</td>
+<td class="cuerpo_tabla_centro">0,20</td>
+<td class="cuerpo_tabla_centro">0,10</td>
+<td class="cuerpo_tabla_centro" rowspan="10">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 5 a 10.</td>
+<td class="cuerpo_tabla_centro">2,0</td>
+<td class="cuerpo_tabla_centro">0,25</td>
+<td class="cuerpo_tabla_centro">0,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 10 a 20.</td>
+<td class="cuerpo_tabla_centro">2,0</td>
+<td class="cuerpo_tabla_centro">0,35</td>
+<td class="cuerpo_tabla_centro">0,18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 20 a 30.</td>
+<td class="cuerpo_tabla_centro">2,0</td>
+<td class="cuerpo_tabla_centro">0,50</td>
+<td class="cuerpo_tabla_centro">0,24</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 30 a 50.</td>
+<td class="cuerpo_tabla_centro">2,0</td>
+<td class="cuerpo_tabla_centro">0,70</td>
+<td class="cuerpo_tabla_centro">0,33</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 50 a 70.</td>
+<td class="cuerpo_tabla_centro">3,0</td>
+<td class="cuerpo_tabla_centro">0,80</td>
+<td class="cuerpo_tabla_centro">0,41</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 70 a 100.</td>
+<td class="cuerpo_tabla_centro">3,0</td>
+<td class="cuerpo_tabla_centro">1,00</td>
+<td class="cuerpo_tabla_centro">0,53</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 100 a 150.</td>
+<td class="cuerpo_tabla_centro">4,0</td>
+<td class="cuerpo_tabla_centro">1,35</td>
+<td class="cuerpo_tabla_centro">0,70</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 150.</td>
+<td class="cuerpo_tabla_centro">5,0</td>
+<td class="cuerpo_tabla_centro">2,50</td>
+<td class="cuerpo_tabla_centro">0,95</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Verracos adultos (convencionales).</td>
+<td class="cuerpo_tabla_centro">7,5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1,30</td>
+</tr>
+</tbody>
+</table>
+
+Pueden confinarse cerdos en recintos más pequeños por un breve período de tiempo, por ejemplo dividiendo mediante separadores el recinto principal, cuando esté justificado por razones veterinarias o experimentales, como por ejemplo cuando se requiera un consumo individual de alimento.
+
+Cuadro 7.4 Équidos
+
+El lado más corto debe medir, como mínimo, 1,5 veces la altura a la cruz del animal. La altura de los recintos interiores debe ser tal que los animales puedan ponerse de pie sobre sus patas traseras.
+
+<table class="tabla_ancha">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" rowspan="2">Altura a la cruz (m)</th>
+<th class="cabeza_tabla" colspan="3">Superficie mínima de suelo/animal (m²/animal)</th>
+<th class="cabeza_tabla" rowspan="2">
+<p class="cabeza_tabla">Altura mínima del recinto</p>
+<p class="cabeza_tabla">(m)</p>
+</th>
+<th class="cabeza_tabla" rowspan="2">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Por cada animal alojado individualmente o en grupos de 3 animales como máximo</th>
+<th class="cabeza_tabla">Por cada animal alojado en grupos de 4 animales o más</th>
+<th class="cabeza_tabla">Caballeriza de cría/yegua con potro</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 1,40.</td>
+<td class="cuerpo_tabla_coma">9,0</td>
+<td class="cuerpo_tabla_centro">6,0</td>
+<td class="cuerpo_tabla_centro">16</td>
+<td class="cuerpo_tabla_centro">3,00</td>
+<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 1,40 a 1,60.</td>
+<td class="cuerpo_tabla_coma">12,0</td>
+<td class="cuerpo_tabla_centro">9,0</td>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_centro">3,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 1,60.</td>
+<td class="cuerpo_tabla_coma">16,0</td>
+<td class="cuerpo_tabla_centro">(2 x AC)² *</td>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_centro">3,00</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6">
+<p class="cita">* Con el fin de garantizar un espacio suficiente, las necesidades mínima de espacio para cada animal individual deben calcularse en función de la altura a la cruz (AC).</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+8\. Aves. En el marco de una investigación de índole agropecuaria, cuando el objetivo del proyecto establezca que los animales se mantengan en condiciones similares a las de los animales de granjas comerciales, el alojamiento de los animales debe cumplir como mínimo las normas contempladas en Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas, en el Real Decreto 3/2002, de 11 de enero, por el que se establecen las normas mínimas de protección de las gallinas ponedoras, y el Real Decreto 692/2010, de 20 de mayo, por el que se establecen las normas mínimas para la protección de los pollos destinados a la producción de carne y se modifica el Real Decreto 1047/1994, de 20 de mayo, relativo a las normas mínimas para la protección de terneros.
+
+Cuando se alojen aves capturadas en la naturaleza, deben respetarse los espacios mínimos disponibles especificados en los cuadros 8.1 a 8.10 siempre que el tiempo de alojamiento sea superior a 24 horas. En el caso de tiempos de alojamiento inferiores, se deben tomar medidas a fin de minimizar los riesgos para el bienestar animal.
+
+Cuadro 8.1 Gallinas
+
+Si por razones científicas no pudieran proporcionarse estas dimensiones mínimas, el experimentador debe justificar la duración del confinamiento, en consulta con el personal veterinario. En esas circunstancias, las aves pueden alojarse en recintos más pequeños, convenientemente enriquecidos, y con una superficie mínima de suelo de 0,75 m<sup>2</sup>.
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="20%">
+<col width="15%">
+<col width="15%">
+<col width="15%">
+<col width="15%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Masa corporal</p>
+<p class="cabeza_tabla">(g)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima por ave</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud mínima de comedero por ave</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 200.</td>
+<td class="cuerpo_tabla_centro">1,00</td>
+<td class="cuerpo_tabla_coma">0,025</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro" rowspan="7">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 200 a 300.</td>
+<td class="cuerpo_tabla_centro">1,00</td>
+<td class="cuerpo_tabla_coma">0,03</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_centro">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 300 a 600.</td>
+<td class="cuerpo_tabla_centro">1,00</td>
+<td class="cuerpo_tabla_coma">0,05</td>
+<td class="cuerpo_tabla_centro">40</td>
+<td class="cuerpo_tabla_centro">7</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 600 a 1 200.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_coma">0,09</td>
+<td class="cuerpo_tabla_centro">50</td>
+<td class="cuerpo_tabla_centro">15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 1 200 a 1 800.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_coma">0,11</td>
+<td class="cuerpo_tabla_centro">75</td>
+<td class="cuerpo_tabla_centro">15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 1 800 a 2 400.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_coma">0,13</td>
+<td class="cuerpo_tabla_centro">75</td>
+<td class="cuerpo_tabla_centro">15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 2 400.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_coma">0,21</td>
+<td class="cuerpo_tabla_centro">75</td>
+<td class="cuerpo_tabla_centro">15</td>
+</tr>
+</tbody>
+</table>
+
+Cuadro 8.2 Pavos domésticos
+
+Todos los lados del recinto deben medir, al menos, 1,5 m de largo. Si por razones científicas no pudieran proporcionarse estas dimensiones mínimas, el experimentador debe justificar la duración del confinamiento, en consulta con el personal veterinario. En esas circunstancias, las aves pueden alojarse en recintos más pequeños, convenientemente enriquecidos, y con una superficie mínima de suelo de 0,75 m<sup>2</sup> y una altura mínima de 50 cm en el caso de aves de menos de 0,6 kg, de 75 cm en el caso de aves de menos de 4 kg, y de 100 cm en el caso de aves de más de 4 kg. Esos recintos pueden utilizarse para alojar pequeños grupos de aves de acuerdo con el espacio mínimo disponible indicado en el cuadro 8.2.
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="20%">
+<col width="15%">
+<col width="15%">
+<col width="15%">
+<col width="15%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Masa corporal</p>
+<p class="cabeza_tabla">(kg)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima por ave</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud mínima de comedero por ave</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 0,3.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_coma">0,13</td>
+<td class="cuerpo_tabla_centro">50</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro" rowspan="9">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 0,3 a 0,6.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_coma">0,17</td>
+<td class="cuerpo_tabla_centro">50</td>
+<td class="cuerpo_tabla_centro">7</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 0,6 a 1.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_coma">0,30</td>
+<td class="cuerpo_tabla_centro">100</td>
+<td class="cuerpo_tabla_centro">15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 1 a 4.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_coma">0,35</td>
+<td class="cuerpo_tabla_centro">100</td>
+<td class="cuerpo_tabla_centro">15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 4 a 8.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_coma">0,40</td>
+<td class="cuerpo_tabla_centro">100</td>
+<td class="cuerpo_tabla_centro">15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 8 a 12.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_coma">0,50</td>
+<td class="cuerpo_tabla_centro">150</td>
+<td class="cuerpo_tabla_centro">20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 12 a 16.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_coma">0,55</td>
+<td class="cuerpo_tabla_centro">150</td>
+<td class="cuerpo_tabla_centro">20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 16 a 20.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_coma">0,60</td>
+<td class="cuerpo_tabla_centro">150</td>
+<td class="cuerpo_tabla_centro">20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 20.</td>
+<td class="cuerpo_tabla_centro">3,00</td>
+<td class="cuerpo_tabla_coma">1,00</td>
+<td class="cuerpo_tabla_centro">150</td>
+<td class="cuerpo_tabla_centro">20</td>
+</tr>
+</tbody>
+</table>
+
+Cuadro 8.3 Codornices
+
+<table class="tabla_ancha">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Masa corporal</p>
+<p class="cabeza_tabla">(g)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie por ave alojada en pareja</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie por ave adicional alojada en grupo</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud mínima de comedero por ave</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 150.</td>
+<td class="cuerpo_tabla_centro">1,00.</td>
+<td class="cuerpo_tabla_centro">0,5</td>
+<td class="cuerpo_tabla_centro">0,10</td>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 150.</td>
+<td class="cuerpo_tabla_centro">1,00.</td>
+<td class="cuerpo_tabla_centro">0,6</td>
+<td class="cuerpo_tabla_centro">0,15</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_centro">4</td>
+</tr>
+</tbody>
+</table>
+
+Cuadro 8.4 Patos y ocas
+
+Si por razones científicas no pudieran proporcionarse estas dimensiones mínimas, el experimentador debe justificar la duración del confinamiento, en consulta con el personal veterinario. En esas circunstancias, las aves pueden alojarse en recintos más pequeños, convenientemente enriquecidos, y con una superficie mínima de suelo de 0,75 m<sup>2</sup>. Esos recintos pueden utilizarse para alojar pequeños grupos de aves de acuerdo con el espacio mínimo disponible indicado en el cuadro 8.4.
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="20%">
+<col width="15%">
+<col width="15%">
+<col width="15%">
+<col width="15%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Masa corporal</p>
+<p class="cabeza_tabla">(g)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie por ave</p>
+<p class="cabeza_tabla">(m²)*</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud mínima de comedero por ave</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">
+<em>Patos</em>
+</td>
+<td class="cuerpo_tabla_centro" rowspan="9">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 300.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_centro">0,10</td>
+<td class="cuerpo_tabla_centro">50</td>
+<td class="cuerpo_tabla_centro">10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 300 a 1 200**.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_centro">0,20</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 1 200 a 3 500.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_centro">0,25</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 3 500.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_centro">0,50</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="5">
+<em>Ocas</em>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 500.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_centro">0,20</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 500 a 2 000.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_centro">0,33</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 2 000.</td>
+<td class="cuerpo_tabla_centro">2,00</td>
+<td class="cuerpo_tabla_centro">0,50</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">15</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6">
+<p class="cita"> * En esta superficie debe incluirse un estanque que tenga como mínimo una superficie de 0,5 m² por cada 2 m² de recinto y una profundidad mínima de 30 cm. El estanque puede ocupar hasta un 50 por cien de la superficie mínima del recinto.</p>
+<p class="cita">** Las aves que aún no tienen plumas pueden alojarse en recintos con una altura mínima de 75 cm.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Cuadro 8.5 Patos y ocas: Dimensiones mínimas de los estanques*
+
+<table class="tabla">
+<colgroup>
+<col width="20%">
+<col width="25%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla">Superficie (m²)</th>
+<th class="cabeza_tabla">Profundidad (cm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Patos.</td>
+<td class="cuerpo_tabla_centro">0,5</td>
+<td class="cuerpo_tabla_centro">30</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ocas.</td>
+<td class="cuerpo_tabla_centro">0,5</td>
+<td class="cuerpo_tabla_centro">Entre 10 y 30</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+<p class="cita">* Estas dimensiones corresponden a 2 m² de recinto. El estanque puede ocupar hasta un 50 por cien de la superficie mínima del recinto.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Cuadro 8.6 Palomas
+
+Los recintos deben ser largos y estrechos (por ejemplo, 2 m por 1 m), más que cuadrados, para que las aves puedan realizar vuelos breves.
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="20%">
+<col width="15%">
+<col width="15%">
+<col width="15%">
+<col width="15%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Tamaño del grupo</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud mínima de comedero por ave</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud mínima de percha por ave</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 6.</td>
+<td class="cuerpo_tabla_coma">2</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Entre 7 y 12.</td>
+<td class="cuerpo_tabla_coma">3</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro">30</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Por ave adicional más allá de 12.</td>
+<td class="cuerpo_tabla_coma">0,15</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro">30</td>
+</tr>
+</tbody>
+</table>
+
+Cuadro 8.7 Diamantes mandarín
+
+Los recintos deben ser largos y estrechos (por ejemplo, 2 m por 1 m) para que las aves puedan realizar vuelos breves. Para la realización de estudios de reproducción, pueden alojarse parejas en recintos más pequeños, adecuadamente enriquecidos, con una superficie mínima de suelo de 0,5 m<sup>2</sup> y una altura mínima de 40 cm. El experimentador debe justificar la duración del confinamiento, en consulta con el personal veterinario.
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Tamaño del grupo</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto</p>
+<p class="cabeza_tabla">(m²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Número mínimo de comederos</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 6.</td>
+<td class="cuerpo_tabla_coma">1,0</td>
+<td class="cuerpo_tabla_centro">100</td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro" rowspan="4">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Entre 7 y 12.</td>
+<td class="cuerpo_tabla_coma">1,5</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Entre 13 y 20.</td>
+<td class="cuerpo_tabla_coma">2,0</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Por ave adicional más allá de 20.</td>
+<td class="cuerpo_tabla_coma">0,05</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1 por cada 6 aves</td>
+</tr>
+</tbody>
+</table>
+
+| Tamaño del grupo | Dimensión mínima del recinto (m²) | Altura mínima (cm) | Longitud mínima del comedero por ave (cm) | Longitud mínima de la percha por ave (cm) |
+|---|---|---|---|---|
+| Hasta 6. | 2,0 | 200 | 5 | 30 |
+| 7 a 12. | 4,0 | 200 | 5 | 30 |
+| 13 a 20. | 6,0 | 200 | 5 | 30 |
+| Por ave suplementaria entre 21 y 50. | 0,25 |  | 5 | 30 |
+| Por ave suplementaria más allá de 50. | 0,15 |  | 5 | 30 |
+
+| Tamaño del grupo en ausencia de barreras visuales | Tamaño del grupo en presencia de barreras visuales | Dimensión mínima del recinto (m<sup>2</sup>) | Altura mínima (cm) |
+|---|---|---|---|
+| Hasta 10. | Hasta 15. | 2,4 | 180 |
+| 11 a 20. | 16 a 35. | 4,8 | 180 |
+| 21 a 30. | 36 a 60. | 7,3 | 180 |
+| Por ave suplementaria más allá de 30. | Por ave suplementaria más allá de 60. | 0,11 |  |
+
+<table class="tabla">
+<caption>
+<p class="centro_redonda">Cuadro 8.10 Carboneros comunes y herrerillos comunes</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col width="20%">
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Tamaño del grupo</th>
+<th class="cabeza_tabla">Dimensión mínima del recinto por ave (m²)</th>
+<th class="cabeza_tabla">Altura mínima (cm)</th>
+<th class="cabeza_tabla">Número mínimo de comederos</th>
+<th class="cabeza_tabla">Longitud mínima de la percha por ave (cm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">1.</td>
+<td class="cuerpo_tabla_coma">3</td>
+<td class="cuerpo_tabla_coma">180</td>
+<td class="cuerpo_tabla_coma">1</td>
+<td class="cuerpo_tabla_coma">100</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2-10(*) (del mismo sexo).</td>
+<td class="cuerpo_tabla_coma">1</td>
+<td class="cuerpo_tabla_coma">180</td>
+<td class="cuerpo_tabla_coma">2</td>
+<td class="cuerpo_tabla_coma">40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">1 hembra + 1 macho.</td>
+<td class="cuerpo_tabla_coma">2</td>
+<td class="cuerpo_tabla_coma">180</td>
+<td class="cuerpo_tabla_coma">2</td>
+<td class="cuerpo_tabla_coma">100</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="5">(*) Los grupos de un tamaño superior a diez sólo deben permitirse en el caso de que se haya concretado un plan de vigilancia con la frecuencia necesaria para detectar y mitigar la agresividad.</td>
+</tr>
+</tfoot>
+</table>
+
+9\. Anfibios.
+
+Cuadro 9.1 Urodelos acuáticos
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="18%">
+<col width="19%">
+<col width="24%">
+<col width="19%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud corporal*</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima de agua</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima de agua por animal adicional alojado en grupo</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Profundidad mínima del agua</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 10.</td>
+<td class="cuerpo_tabla_coma">262,5</td>
+<td class="cuerpo_tabla_coma">50</td>
+<td class="cuerpo_tabla_coma">13</td>
+<td class="cuerpo_tabla_centro" rowspan="5">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 10 a 15.</td>
+<td class="cuerpo_tabla_coma">525</td>
+<td class="cuerpo_tabla_coma">110</td>
+<td class="cuerpo_tabla_coma">13</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 15 a 20.</td>
+<td class="cuerpo_tabla_coma">875</td>
+<td class="cuerpo_tabla_coma">200</td>
+<td class="cuerpo_tabla_coma">15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 20 a 30.</td>
+<td class="cuerpo_tabla_coma">1.837,5</td>
+<td class="cuerpo_tabla_coma">440</td>
+<td class="cuerpo_tabla_coma">15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 30.</td>
+<td class="cuerpo_tabla_coma">3.150</td>
+<td class="cuerpo_tabla_coma">800</td>
+<td class="cuerpo_tabla_coma">20</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="5"> </td>
+</tr>
+</tfoot>
+</table>
+
+Cuadro 9.2 Anuros acuáticos*
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="18%">
+<col width="19%">
+<col width="24%">
+<col width="19%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud corporal **</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima de agua</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima de agua por animal adicional alojado en grupo</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Profundidad mínima del agua</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Menos de 6.</td>
+<td class="cuerpo_tabla_coma">160</td>
+<td class="cuerpo_tabla_coma">40</td>
+<td class="cuerpo_tabla_coma">6</td>
+<td class="cuerpo_tabla_centro" rowspan="4">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Entre 6 y 9.</td>
+<td class="cuerpo_tabla_coma">300</td>
+<td class="cuerpo_tabla_coma">75</td>
+<td class="cuerpo_tabla_coma">8</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 9 a 12.</td>
+<td class="cuerpo_tabla_coma">600</td>
+<td class="cuerpo_tabla_coma">150</td>
+<td class="cuerpo_tabla_coma">10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 12.</td>
+<td class="cuerpo_tabla_coma">920</td>
+<td class="cuerpo_tabla_coma">230</td>
+<td class="cuerpo_tabla_coma">12,5</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="5">
+<p class="cita">* Estas condiciones se aplican a los acuarios de mantenimiento, pero por razones de eficacia no se aplican a los acuarios utilizados para el apareamiento natural y la superovulación, ya que estos últimos procedimientos requieren acuarios más pequeños. Los espacios mínimos del cuadro corresponden a adultos de los tamaños indicados; los animales jóvenes y los renacuajos deben mantenerse aparte o modificarse las dimensiones del acuario proporcionalmente a la escala de tamaños.</p>
+<p class="cita">** Medida del extremo anterior de la cabeza a la cloaca.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Cuadro 9.3 Anuros semiacuáticos
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="18%">
+<col width="15%">
+<col width="17%">
+<col width="15%">
+<col width="15%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud corporal*</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto**</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima por animal adicional alojado en grupo</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima del recinto***</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Profundidad mínima del agua</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 5,0.</td>
+<td class="cuerpo_tabla_centro">1.500</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 5,0 a 7,5.</td>
+<td class="cuerpo_tabla_centro">3.500</td>
+<td class="cuerpo_tabla_centro">500</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_centro">10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 7,5.</td>
+<td class="cuerpo_tabla_centro">4.000</td>
+<td class="cuerpo_tabla_centro">700</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_centro">15</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6">
+<p class="cita">* Medida del extremo anterior de la cabeza a la cloaca.</p>
+<p class="cita">** Una tercera parte de tierra y dos terceras partes de agua donde los animales puedan sumergirse.</p>
+<p class="cita">*** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura de los recintos debe estar adaptada al equipamiento interior.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Cuadro 9.4 Anuros semiterrestres
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="18%">
+<col width="15%">
+<col width="17%">
+<col width="15%">
+<col width="15%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud corporal*</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto**</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima por animal adicional alojado en grupo</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima del recinto***</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Profundidad mínima del agua</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 5,0.</td>
+<td class="cuerpo_tabla_centro">1.500</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 5,0 a 7,5.</td>
+<td class="cuerpo_tabla_centro">3.500</td>
+<td class="cuerpo_tabla_centro">500</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_centro">10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 7,5.</td>
+<td class="cuerpo_tabla_centro">4.000</td>
+<td class="cuerpo_tabla_centro">700</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_centro">15</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6">
+<p class="cita">* Medida del extremo anterior de la cabeza a la cloaca.</p>
+<p class="cita">** Dos terceras partes de tierra y una tercera parte de agua donde los animales puedan sumergirse.</p>
+<p class="cita">*** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura de los recintos debe estar adaptada al equipamiento interior.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Cuadro 9.5 Anuros arborícolas
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="18%">
+<col width="19%">
+<col width="24%">
+<col width="19%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud corporal*</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Dimensión mínima del recinto**</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima por animal adicional alojado en grupo</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima del recinto***</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 3,0.</td>
+<td class="cuerpo_tabla_coma"> 900</td>
+<td class="cuerpo_tabla_centro">100</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 3,0.</td>
+<td class="cuerpo_tabla_coma">1.500</td>
+<td class="cuerpo_tabla_centro">200</td>
+<td class="cuerpo_tabla_centro">30</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="5">
+<p class="cita">* Medida del extremo anterior de la cabeza a la cloaca.</p>
+<p class="cita">** Dos terceras partes de tierra y una tercera parte de agua donde los animales puedan sumergirse.</p>
+<p class="cita">*** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura de los recintos debe estar adaptada al equipamiento interior.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+10\. Reptiles.
+
+Cuadro 10.1 Tortugas acuáticas
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="18%">
+<col width="19%">
+<col width="24%">
+<col width="19%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud corporal*</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie de agua mínima</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie de agua mínima por animal adicional alojado en grupo</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Profundidad mínima del agua</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 5.</td>
+<td class="cuerpo_tabla_coma">600</td>
+<td class="cuerpo_tabla_coma">100</td>
+<td class="cuerpo_tabla_coma">10</td>
+<td class="cuerpo_tabla_centro" rowspan="6">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 5 a 10.</td>
+<td class="cuerpo_tabla_coma">1.600</td>
+<td class="cuerpo_tabla_coma">300</td>
+<td class="cuerpo_tabla_coma">15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 10 a 15.</td>
+<td class="cuerpo_tabla_coma">3.500</td>
+<td class="cuerpo_tabla_coma">600</td>
+<td class="cuerpo_tabla_coma">20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 15 a 20.</td>
+<td class="cuerpo_tabla_coma">6.000</td>
+<td class="cuerpo_tabla_coma">1.200</td>
+<td class="cuerpo_tabla_coma">30</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 20 a 30.</td>
+<td class="cuerpo_tabla_coma">10.000</td>
+<td class="cuerpo_tabla_coma">2.000</td>
+<td class="cuerpo_tabla_coma">35</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 30.</td>
+<td class="cuerpo_tabla_coma">20.000</td>
+<td class="cuerpo_tabla_coma">5.000</td>
+<td class="cuerpo_tabla_coma">40</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="5">
+<p class="cita">* Medida en línea recta desde la parte delantera a la parte trasera del caparazón.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+Cuadro 10.2 Serpientes terrestres
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="18%">
+<col width="19%">
+<col width="24%">
+<col width="19%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Longitud corporal*</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima de suelo</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie mínima por animal adicional alojado en grupo</p>
+<p class="cabeza_tabla">(cm²)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Altura mínima del recinto**</p>
+<p class="cabeza_tabla">(cm)</p>
+</th>
+<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Hasta 30.</td>
+<td class="cuerpo_tabla_coma">300</td>
+<td class="cuerpo_tabla_coma">150</td>
+<td class="cuerpo_tabla_coma">10</td>
+<td class="cuerpo_tabla_centro" rowspan="5">1 de enero de 2017</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 30 a 40.</td>
+<td class="cuerpo_tabla_coma">400</td>
+<td class="cuerpo_tabla_coma">200</td>
+<td class="cuerpo_tabla_coma">12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 40 a 50.</td>
+<td class="cuerpo_tabla_coma">600</td>
+<td class="cuerpo_tabla_coma">300</td>
+<td class="cuerpo_tabla_coma">15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De más de 50 a 75.</td>
+<td class="cuerpo_tabla_coma">1.200</td>
+<td class="cuerpo_tabla_coma">600</td>
+<td class="cuerpo_tabla_coma">20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Más de 75.</td>
+<td class="cuerpo_tabla_coma">2.500</td>
+<td class="cuerpo_tabla_coma">1.200</td>
+<td class="cuerpo_tabla_coma">28</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="5">
+<p class="cita">* Medida del extremo anterior de la cabeza a la cola.</p>
+<p class="cita">** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura del recinto debe estar adaptada al equipamiento interior.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+11\. Peces.
+
+11.1 Suministro y calidad del agua.
+
+En todo momento debe facilitarse un suministro adecuado de agua de la calidad correcta. El flujo de agua en los sistemas de recirculación o con filtrado en los viveros debe ser suficiente como para mantener los parámetros de calidad del agua en unos niveles aceptables, en función de las características del sistema zootécnico empleado, de la especie y de los requisitos inherentes a la etapa vital. El agua suministrada debe filtrarse o tratarse a fin de eliminar las sustancias nocivas para los peces, cuando sea necesario. Los parámetros de calidad del agua deben situarse siempre dentro del intervalo aceptable para la fisiología y la actividad normal de la especie considerada y su fase de desarrollo.
+
+El flujo del agua debe ser adecuado para permitir a los peces nadar correctamente y mantener su comportamiento normal. Se debe conceder a los peces un tiempo adecuado para su aclimatación y adaptación a los cambios en las condiciones de calidad del agua. Se deben tomar las medidas oportunas para minimizar los cambios bruscos en los distinto parámetros que influyen en la calidad del agua. Se debe garantizar y comprobar que el flujo y el nivel del agua sean adecuados.
+
+11.2 Oxígeno, compuestos nitrogenados, dióxido de carbono, pH y salinidad.
+
+La concentración de oxígeno debe ser adecuada para las especies y el entorno en el que los peces se crían. Si resulta necesario, se recomienda oxigenar más el agua del vivero en función del sistema zootécnico empleado. Las concentraciones de dióxido de carbono y de los compuestos nitrogenados —amoniaco, nitrito y nitrato— deben mantenerse por debajo de niveles nocivos. La calidad del agua debe comprobarse mediante un programa de pruebas definido que tenga la frecuencia necesaria para detectar eventuales cambios en estos parámetros críticos, y en caso de detectarse cambios se deben tomar medidas para mitigarlos.
+
+El nivel de pH debe adaptarse a las necesidades de la especie y comprobarse a fin de mantenerlo lo más estable posible. La salinidad debe adaptarse a las necesidades de la especie de que se trate y a la fase de la vida del pez. Cualquier cambio de salinidad debe realizarse de manera gradual.
+
+11.3 Temperatura e iluminación.
+
+La temperatura debe mantenerse dentro del intervalo óptimo para la especie y la fase de desarrollo de los peces, y mantenerse lo más estable posible. Cualquier cambio de temperatura debe intervenir de forma gradual. Los peces deben mantenerse en el fotoperíodo adecuado.
+
+11.4 Densidad de ocupación y complejidad del entorno.
+
+La densidad de ocupación debe basarse en la totalidad de las necesidades de los peces en lo que se refiere a las condiciones del entorno, la salud y el bienestar. Los peces deben disponer de un volumen de agua suficiente para que puedan nadar normalmente, teniendo en cuenta su tamaño, edad, estado de salud y el sistema de alimentación utilizado. Debe facilitarse a los peces un enriquecimiento ambiental adecuado, como lugares para esconderse o sustrato de fondo, a menos que sus pautas de comportamiento sugieran que no es necesario.
+
+11.5 Alimentación y manipulación.
+
+Se alimentará a los peces con una dieta adecuada y con la cantidad y frecuencia adecuadas. Debe prestarse una atención especial a la alimentación de las larvas cuando se pasa de alimentos vivos a dietas artificiales. Si es necesario retirar el alimento por motivos ajenos al procedimiento (el transporte, por ejemplo), su duración debe ser lo más breve posible y se deben tener en cuenta el tamaño de los peces y la temperatura del agua.
+
+Siempre que sea posible, los peces deben manipularse sin extraerlos del agua. Se deben mantener las manipulaciones de los peces, tanto dentro como fuera del agua, en un nivel mínimo, y humedecer los equipos que vayan a entrar en contacto directo con ellos. Los peces no deben manipularse cuando la temperatura del agua se halle en uno de los límites de su intervalo de temperaturas tolerables.
+
+11.6 Peces cebra.
+
+11.6.1 Calidad del agua.
+
+<table class="tabla">
+<caption>
+<p class="centro_redonda">Cuadro 11.1 Requisitos aplicables a los parámetros del agua en los sistemas de alojamiento de peces cebra</p>
+</caption>
+<colgroup>
+<col width="35%">
+<col width="65%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Parámetros del agua</th>
+<th class="cabeza_tabla">Requisitos mínimo y máximo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Temperatura.</td>
+<td class="cuerpo_tabla_centro">24-29 °C</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Conductividad.</td>
+<td class="cuerpo_tabla_centro">150-1700 μS/cm²</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Dureza total.</td>
+<td class="cuerpo_tabla_centro">40-250 mg/L CaCO<sub>3</sub></td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">pH.</td>
+<td class="cuerpo_tabla_centro">6,5-8</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Compuestos nitrogenados.</td>
+<td class="cuerpo_tabla_centro">NH<sub>3</sub>/NH<sub>4</sub><sup>+</sup>&lt; 0,1(*), NO<sub>2</sub>- &lt; 0,3 mg/L, NO<sub>3</sub>- &lt; 25 mg/L</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Oxígeno disuelto.</td>
+<td class="cuerpo_tabla_centro">&gt; 5 mg/L</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="2">(*) o inferior al límite de detección. 0,1 mg/L indica la cantidad total de amoniaco, NH<sub>3</sub>/NH<sub>4</sub><sup>+</sup>. Esto corresponde a 0,002 mg/L de NH<sub>3</sub> a 28 °C y un pH de 7,5.mg/L.</td>
+</tr>
+</tfoot>
+</table>
+
+11.6.2 Iluminación.
+
+Durante la fase de luz, el nivel de intensidad lumínica debe mantenerse constante salvo en los breves períodos de transición de penumbra, si se utilizan. Debe haber oscuridad total durante la fase oscura.
+
+11.6.3 Densidad de ocupación y complejidad del entorno.
+
+No se utilizarán volúmenes de agua inferiores a un litro para los peces cebra adultos. La densidad de ocupación no debe superar los diez peces adultos por litro. El tamaño y la forma del vivero deben permitir a los peces desarrollar su comportamiento y actividad nadadora naturales.
+
+Se deben evitar los períodos prolongados de alojamiento individual.
+
+12\. Cefalópodos.
+
+12.1 Suministro y calidad del agua.
+
+En todo momento debe facilitarse un suministro adecuado de agua de la calidad correcta.
+
+El diseño del vivero y el caudal de agua deben satisfacer las necesidades del animal, entre ellas una oxigenación adecuada en función de su tamaño, etapa vital y necesidades conductuales. La temperatura del agua, la salinidad, el pH y los niveles de compuestos nitrogenados deben ser adecuados a las necesidades de las especies y formas de vida. En caso de necesidad, se deben emplear cubiertas para evitar huidas y la introducción fortuita de cuerpos extraños.
+
+Los cefalópodos dispondrán de tiempo suficiente para su aclimatación y adaptación a los cambios en las condiciones de calidad del agua.
+
+12.2 Iluminación.
+
+La intensidad lumínica y el fotoperíodo deben adaptarse a las necesidades de las especies.
+
+12.3 Alimentación.
+
+El régimen alimenticio de los cefalópodos debe adaptarse en función de la especie, fase de desarrollo y necesidades conductuales.
+
+12.4 Enriquecimiento y manipulación.
+
+Se debe proporcionar a los cefalópodos un nivel suficiente y adecuado de estímulos físicos, cognitivos y sensoriales para permitir desarrollar una amplia gama de comportamientos inherentes a su especie. Las condiciones de alojamiento deben tener en cuenta las necesidades sociales de cada especie (es decir, sus hábitos de vida en grupo o en solitario). Siempre que sea adecuado para la especie, el vivero debe dotarse de refugios o escondites.
+
+Siempre que sea posible, los cefalópodos deben manipularse sin extraerlos del agua. Se deben mantener las manipulaciones de los cefalópodos, tanto dentro como fuera del agua, en un nivel mínimo, y se humedecerán los equipos que vayan a entrar en contacto directo con ellos.
+
+<table class="tabla_ancha">
+<caption>
+<p class="centro_redonda">Cuadro 12.1 Cefalópodos</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Familia</th>
+<th class="cabeza_tabla">Grupo</th>
+<th class="cabeza_tabla">Longitud corporal (*) (cm)</th>
+<th class="cabeza_tabla">Superficie de agua mínima (cm²)</th>
+<th class="cabeza_tabla">Superficie de agua mínima por animal suplementario alojado en grupo (cm²)</th>
+<th class="cabeza_tabla">Profundidad mínima del agua (cm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">
+<em>Sepiidae.</em>
+</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Sepias.</td>
+<td class="cuerpo_tabla_izq">Hasta 2.</td>
+<td class="cuerpo_tabla_coma">100</td>
+<td class="cuerpo_tabla_coma">40</td>
+<td class="cuerpo_tabla_coma">7</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">&gt; 2 hasta 6.</td>
+<td class="cuerpo_tabla_coma">600</td>
+<td class="cuerpo_tabla_coma">200</td>
+<td class="cuerpo_tabla_coma">15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">&gt; 6 hasta 12.</td>
+<td class="cuerpo_tabla_coma">1 200</td>
+<td class="cuerpo_tabla_coma">400</td>
+<td class="cuerpo_tabla_coma">20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">&gt; 12.</td>
+<td class="cuerpo_tabla_coma">2 500</td>
+<td class="cuerpo_tabla_coma">1 000</td>
+<td class="cuerpo_tabla_coma">25</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">
+<em>Sepiolidae.</em>
+</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Sepiólidos (**).</td>
+<td class="cuerpo_tabla_izq">Hasta 1.</td>
+<td class="cuerpo_tabla_coma">50</td>
+<td class="cuerpo_tabla_coma">5</td>
+<td class="cuerpo_tabla_coma">5</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">&gt; 1 hasta 3.</td>
+<td class="cuerpo_tabla_coma">120</td>
+<td class="cuerpo_tabla_coma">50</td>
+<td class="cuerpo_tabla_coma">8</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">&gt; 3.</td>
+<td class="cuerpo_tabla_coma">150</td>
+<td class="cuerpo_tabla_coma">100</td>
+<td class="cuerpo_tabla_coma">12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">
+<em>Loliginidae.</em>
+</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Calamares (***)(****).</td>
+<td class="cuerpo_tabla_izq">Hasta 15.</td>
+<td class="cuerpo_tabla_coma">2 000</td>
+<td class="cuerpo_tabla_coma">400</td>
+<td class="cuerpo_tabla_coma">60</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">&gt; 15 hasta 25.</td>
+<td class="cuerpo_tabla_coma">4 500</td>
+<td class="cuerpo_tabla_coma">900</td>
+<td class="cuerpo_tabla_coma">90</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">&gt; 25.</td>
+<td class="cuerpo_tabla_coma">6 000</td>
+<td class="cuerpo_tabla_coma">1 200</td>
+<td class="cuerpo_tabla_coma">90</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">
+<em>Octopodidae.</em>
+</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Pulpos (****).</td>
+<td class="cuerpo_tabla_izq">Hasta 10.</td>
+<td class="cuerpo_tabla_coma">2 000</td>
+<td class="cuerpo_tabla_coma">600</td>
+<td class="cuerpo_tabla_coma">40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">&gt; 10 hasta 20.</td>
+<td class="cuerpo_tabla_coma">2 600</td>
+<td class="cuerpo_tabla_coma">700</td>
+<td class="cuerpo_tabla_coma">50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">&gt; 20.</td>
+<td class="cuerpo_tabla_coma">4 000</td>
+<td class="cuerpo_tabla_coma">1 200</td>
+<td class="cuerpo_tabla_coma">50</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6">
+<p class="parrafo">(*) Longitud del manto dorsal.</p>
+<p class="parrafo">(**) Grupo de hasta 40 individuos.</p>
+<p class="parrafo">(***) Se usarán preferentemente viveros cilíndricos. Para los viveros que no sean cilíndricos, los valores mínimos han de aumentarse en un 5 %.</p>
+<p class="parrafo">(****) Durante la fase juvenil y para larvaria, los calamares y pulpos deben alojarse en viveros cilíndricos con una ocupación máxima de veinte individuos recién nacidos por litro de agua, y se deben tomar medidas para limitar la interacción visual.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+> Téngase en cuenta que la actualización del anexo, establecida por el art. único.8 del Real Decreto 1083/2025, de 2 de diciembre, [Ref. BOE-A-2025-24547](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24547), entra en vigor el 5 de diciembre de 2026, según determina su disposición final 3.
+
+> Redacción anterior:
+
+> "2.3 Ruido.
+
+> a) Los niveles de ruido, incluidos los ultrasonidos, no deben afectar negativamente al bienestar animal.
+
+> b) Los establecimientos deben disponer de sistemas de alarma que, si son acústicos, emitan sonidos fuera del espectro audible sensible de los animales, cuando ello no interfiera con su audibilidad para los seres humanos.
+
+> c) Los locales de alojamiento deben disponer, en su caso, de materiales de aislamiento y absorción acústica.
+
+> 2.4 Sistemas de emergencia y de alarma.
+
+> a) Los establecimientos que dependan de dispositivos mecánicos o eléctricos para el control y la regulación de las condiciones ambientales deben disponer de sistemas alternativos que garanticen que sigan funcionando los servicios esenciales y los dispositivos de alumbrado de emergencia, y que eviten que los propios sistemas de alarma dejen de funcionar.
+
+> b) Los sistemas de calefacción y ventilación deben disponer de dispositivos de control y de alarma.
+
+> c) Deben exponerse en lugar bien visible instrucciones claras sobre las actuaciones a desarrollar en caso de emergencia."
+
+> "8. Aves. En el marco de una investigación de índole agropecuaria, cuando el objetivo del proyecto establezca que los animales se mantengan en condiciones similares a las de los animales de granjas comerciales, el alojamiento de los animales debe cumplir como mínimo las normas contempladas en Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas, en el Real Decreto 3/2002, de 11 de enero, por el que se establecen las normas mínimas de protección de las gallinas ponedoras, y el Real Decreto 692/2010, de 20 de mayo, por el que se establecen las normas mínimas para la protección de los pollos destinados a la producción de carne y se modifica el Real Decreto 1047/1994, de 20 de mayo, relativo a las normas mínimas para la protección de terneros.
+
+> Cuadro 8.1 Gallinas
+
+> [...]
+
+> Cuadro 8.7 Diamantes mandarín
+
+> Los recintos deben ser largos y estrechos (por ejemplo, 2 m por 1 m) para que las aves puedan realizar vuelos breves. Para la realización de estudios de reproducción, pueden alojarse parejas en recintos más pequeños, adecuadamente enriquecidos, con una superficie mínima de suelo de 0,5 m<sup>2</sup> y una altura mínima de 40 cm. El experimentador debe justificar la duración del confinamiento, en consulta con el personal veterinario.
+
+> <table class="tabla_ancha">
+> <colgroup>
+> <col width="20%">
+> <col width="20%">
+> <col width="20%">
+> <col width="20%">
+> <col width="20%">
+> </colgroup>
+> <thead>
+> <tr>
+> <th class="cabeza_tabla">Tamaño del grupo</th>
+> <th class="cabeza_tabla">
+> <p class="cabeza_tabla">Dimensión mínima del recinto</p>
+> <p class="cabeza_tabla">(m²)</p>
+> </th>
+> <th class="cabeza_tabla">
+> <p class="cabeza_tabla">Altura mínima</p>
+> <p class="cabeza_tabla">(cm)</p>
+> </th>
+> <th class="cabeza_tabla">Número mínimo de comederos</th>
+> <th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+> </tr>
+> </thead>
+> <tbody>
+> <tr>
+> <td class="cuerpo_tabla_izq">Hasta 6.</td>
+> <td class="cuerpo_tabla_coma">1,0</td>
+> <td class="cuerpo_tabla_centro">100</td>
+> <td class="cuerpo_tabla_centro">2</td>
+> <td class="cuerpo_tabla_centro" rowspan="4">1 de enero de 2017"</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Entre 7 y 12.</td>
+> <td class="cuerpo_tabla_coma">1,5</td>
+> <td class="cuerpo_tabla_centro">200</td>
+> <td class="cuerpo_tabla_centro">2</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Entre 13 y 20.</td>
+> <td class="cuerpo_tabla_coma">2,0</td>
+> <td class="cuerpo_tabla_centro">200</td>
+> <td class="cuerpo_tabla_centro">3</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Por ave adicional más allá de 20.</td>
+> <td class="cuerpo_tabla_coma">0,05</td>
+> <td class="cuerpo_tabla_centro"> </td>
+> <td class="cuerpo_tabla_centro">1 por cada 6 aves</td>
+> </tr>
+> </tbody>
+> </table>
+
+> "11. Peces.
+
+> 11.1 Suministro y calidad del agua.
+
+> En todo momento debe facilitarse un suministro adecuado de agua de la calidad correcta. El flujo de agua en los sistemas de recirculación o filtrado en los tanques deber ser suficiente como para mantener los parámetros de calidad del agua en unos niveles aceptables. El agua suministrada debe filtrarse o tratarse a fin de eliminar las sustancias nocivas para los peces, cuando sea necesario. Los parámetros de calidad del agua deben situarse siempre dentro de la gama aceptable para la fisiología y la actividad normal de la especie considerada y su estadio de desarrollo. El flujo del agua debe ser adecuado para permitir a los peces nadar correctamente y mantener su comportamiento normal. Se debe conceder a los peces un tiempo adecuado para su aclimatación y adaptación a los cambios en las condiciones de la calidad del agua.
+
+> 11.2 Oxígeno, compuestos nitrogenados, pH y salinidad.
+
+> La concentración de oxígeno debe ser adecuada para las especies y el entorno en el que los peces se mantienen. Si resulta necesario, debe suplementarse la aireación del agua del tanque. Deben mantenerse bajas las concentraciones de los compuestos nitrogenados.
+
+> El nivel de pH debe adaptarse a las necesidades de la especie y mantenerse lo más estable posible. La salinidad debe adaptarse a las necesidades de la especie de que se trate y a la fase de la vida del pez. Cualquier cambio de salinidad debe realizarse de manera gradual.
+
+> 11.3 Temperatura, iluminación, ruido.
+
+> La temperatura debe mantenerse dentro de la gama óptima para la especie de que se trate y lo más estable posible. Cualquier cambio debe producirse de forma gradual. Debe proporcionase a los peces el fotoperíodo adecuado. El nivel de ruido debe reducirse al mínimo, y en la medida de lo posible, los aparatos que provocan ruido o vibraciones, como los generadores eléctricos o los sistemas de filtración, deben estar separados de los tanques donde se alojan los animales.
+
+> 11.4 Densidad de ocupación y complejidad del entorno.
+
+> La densidad de ocupación debe basarse en la totalidad de las necesidades de los peces en lo que se refiere a las condiciones del entorno, la salud y el bienestar. Los peces deben disponer de un volumen de agua suficiente para que puedan nadar normalmente, teniendo en cuenta su tamaño, edad, estado de salud y el sistema de alimentación utilizado. Debe facilitarse a los peces un enriquecimiento ambiental adecuado, como lugares para esconderse o sustrato de fondo, a menos que sus pautas de comportamiento sugieran que no es necesario.
+
+> 11.5 Alimentación y manejo.
+
+> Los peces se alimentarán con una dieta adecuada y en cantidad y frecuencia adecuadas. Debe prestarse una atención especial a la alimentación de las larvas cuando se pasa de alimentos vivo a dietas artificiales. El manejo de los peces debe reducirse al mínimo posible."
+
+> Se modifican los apartados 2.3, 2.4, 8, 11 y añade un 12, con efectos de 5 de diciembre de 2026, por el art. único.8 del Real Decreto 118/2021, de 23 de febrero. [Ref. BOE-A-2021-2845](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2845)
+
+> Se modifica el Cuadro 1.1 de la sección B por el art. único.4 del Real Decreto 1386/2018, de 19 de noviembre. [Ref. BOE-A-2018-15797](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15797)
+
+> Redactados los Cuadros 6.2 y 7.4 conforme a la corrección de errores publicada en BOE núm. 100, de 26 de abril de 2013. [Ref. BOE-A-2013-4413](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4413).
+
+## ANEXO III — Métodos de eutanasia de los animales
+
+1\. Para la eutanasia de los animales, se utilizarán los métodos enumerados en el cuadro del punto 3.
+
+No obstante, se podrán utilizar otros métodos diferentes de los enumerados en el cuadro del punto 3:
+
+a) Si los animales están inconscientes, a condición de que no recobren el conocimiento antes de morir.
+
+b) Si los animales se utilizan en el marco de una investigación de índole agropecuaria, cuando el objetivo del proyecto disponga que los animales se mantengan en condiciones similares a las de los animales de las explotaciones comerciales, en cuyo caso, podrán ser sacrificados de conformidad con los requisitos establecidos en el anexo I del Reglamento (CE) n.º 1099/2009, del Consejo, de 24 de septiembre de 2009, relativo a la protección de los animales en el momento de la matanza.
+
+2\. La eutanasia de los animales debe completarse de una de las siguientes maneras:
+
+a) confirmación del cese permanente de la circulación;
+
+b) destrucción del cerebro;
+
+c) luxación cervical;
+
+d) desangramiento, o
+
+e) confirmación del comienzo del rigor mortis.
+
+El método de confirmación de la muerte debe ser el adecuado en función de la especie que se sacrifique.
+
+3\. Cuadro.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/293/24840_16413921_1.png)
+
+Requisitos:
+
+1) Debe utilizarse, en su caso, previa sedación del animal.
+
+2) Únicamente en reptiles grandes.
+
+3) Únicamente con liberación paulatina del gas. No utilizar en fetos de roedores y en roedores neonatos.
+
+4) Únicamente para aves de menos de 1 kg. Las aves de más de 250 g deben sedarse.
+
+5) Únicamente para roedores de menos de 1 kg. Los roedores de más de 150 g deben sedarse.
+
+6) Únicamente para conejos de menos de 1 kg. Los conejos de más de 150 g deben sedarse.
+
+7) Únicamente para aves de menos de 5 kg.
+
+8) Únicamente roedores de menos de 1 kg.
+
+9) Únicamente para conejos de menos de 5 kg.
+
+10) Únicamente en neonatos.
+
+11) Únicamente para aves de menos de 250 g.
+
+12) Únicamente si no se pueden utilizar otros métodos.
+
+13) Requiere material especial.
+
+14) Únicamente en cerdos.
+
+15) Únicamente en condiciones de campo por tiradores expertos.
+
+16) Únicamente en condiciones de campo por tiradores expertos, si no se pueden utilizar otros métodos.
+
+17) Para uso exclusivo con peces cebra (*Danio rerio*) ≥ 16 días tras la fertilización (dpf) y con una longitud corporal máxima de 5 cm. La temperatura del choque hipotérmico será ≤ 4 °C y con una diferencia de ≥ 20 °C con respecto a la temperatura del alojamiento. Los peces no entrarán en contacto directo con el hielo. El tiempo de exposición mínimo debe ser de 5 minutos.
+
+> Téngase en cuenta que la actualización del anexo, establecida por el art. único.9 del Real Decreto 1083/2025, de 2 de diciembre, [Ref. BOE-A-2025-24547](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24547), entra en vigor el 5 de diciembre de 2026, según determina su disposición final 3.
+
+> Redacción anterior:
+
+> "2. La eutanasia de los animales debe completarse por uno de los siguientes métodos:
+
+> a) Confirmación del cese permanente de la circulación.
+
+> b) Destrucción del cerebro.
+
+> c) Luxación cervical.
+
+> d) Desangramiento.
+
+> e) Confirmación del comienzo de *rigor mortis*.
+
+> 3\. Cuadro.
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2013/34/01337_14988803_image1.png)
+
+> Requisitos:
+
+> 1) Debe utilizarse, en su caso, previa sedación del animal.
+
+> 2) Únicamente en reptiles grandes.
+
+> 3) Únicamente con liberación paulatina del gas. No utilizar en fetos de roedores y en roedores neonatos.
+
+> 4) Únicamente para aves de menos de 1 kg. Las aves de más de 250 g deben sedarse.
+
+> 5) Únicamente para roedores de menos de 1 kg. Los roedores de más de 150 g deben sedarse.
+
+> 6) Únicamente para conejos de menos de 1 kg. Los conejos de más de 150 g deben sedarse.
+
+> 7) Únicamente para aves de menos de 5 kg.
+
+> 8) Únicamente roedores de menos de 1 kg.
+
+> 9) Únicamente para conejos de menos de 5 kg.
+
+> 10) Únicamente en neonatos.
+
+> 11) Únicamente para aves de menos de 250 g.
+
+> 12) Únicamente si no se pueden utilizar otros métodos.
+
+> 13) Requiere material especial.
+
+> 14) Únicamente en cerdos.
+
+> 15) Únicamente en condiciones de campo por tiradores expertos.
+
+> 16) Únicamente en condiciones de campo por tiradores expertos, si no se pueden utilizar otros métodos."
+
+> Se modifican los apartados 2 y 3, con efectos de 5 de diciembre de 2026, por el art. único.9 del Real Decreto 118/2021, de 23 de febrero. [Ref. BOE-A-2021-2845](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2845)
+
+> Redactado el apartado 3 conforme a la corrección de erratas publicada en BOE núm. 293, de 6 de diciembre de 2025. [Ref. BOE-A-2025-24840](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24840)
+
+## ANEXO IV — Datos mínimos para consignar en el documento de traslado al que se hace referencia en el artículo 9.3
+
+a) Remitente: identificación del centro de origen.
+
+b) Destinatario: número de registro, cuando se trate de un centro de la Unión Europea.
+
+c) Especie: número e identificación de los animales.
+
+d) Instrucciones claras sobre el suministro de agua, de alimentos y de cuidados especiales a los animales durante su transporte.
+
+e) Transportista: número de autorización para el transporte de animales vivos.
+
+f) Tipo e identificación del medio de transporte.
+
+g) Lugar, día y hora de salida previstos.
+
+h) Duración estimada del viaje.
+
+i) Firma y fecha de emisión.
+
+j) Cuando proceda, autorización del órgano competente del lugar de destino.
+
+## ANEXO V — Datos mínimos para la identificación en las jaulas o sistemas de confinamiento
+
+a) Especie.
+
+b) Raza (en su caso).
+
+c) Cepa (en su caso).
+
+d) Sexo.
+
+e) Fecha de nacimiento.
+
+f) Fecha de cruce (si son parejas).
+
+g) Número de animales.
+
+h) En los centros usuarios, código del proyecto u otro medio que permita la identificación del procedimiento y el responsable del mismo.
+
+i) Observaciones.
+
+## ANEXO VI — Datos mínimos que sobre los animales deben mantener los criadores, suministradores o usuarios
+
+a) Nombre y número de registro del centro.
+
+b) Número de animales presentes en el centro en el momento de abrir este registro, indicando la especie o especies a que pertenecen.
+
+c) Las entradas de los animales, la fecha en que se producen, indicando la especie, los nacimientos y las compras, haciendo constar su origen (con mención del nombre y dirección del centro criador o suministrador).
+
+d) Las salidas de los animales, la fecha en que se producen y la especie, haciendo constar su destino y destinatario (con mención del nombre y dirección del destinatario).
+
+e) Los animales muertos o a los que se haya aplicado eutanasia, utilizados o no utilizados en procedimientos, las causas de la muerte, cuando se conozcan, o, en su caso, el método de eutanasia utilizado.
+
+f) Los animales utilizados en procedimientos, indicando el proyecto.
+
+g) En su caso, las observaciones efectuadas durante el período de cuarentena.
+
+h) Los resultados de los exámenes sanitarios efectuados a los animales.
+
+i) Los resultados de las necropsias realizadas.
+
+j) Los casos de enfermedad.
+
+k) Los tratamientos administrados.
+
+l) Datos de identificación individual de perros, gatos, primates y demás animales para los que la identificación individual sea exigida por la normativa nacional o de la Unión Europea.
+
+m) Los datos que correspondan, en el caso de las especies de producción para las cuales la normativa exija la existencia y mantenimiento de un libro de registro u otros requisitos por razones de salud pública o sanidad animal.
+
+> Se modifica la letra e) por el art. único.5 del Real Decreto 1386/2018, de 19 de noviembre. [Ref. BOE-A-2018-15797](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15797)
+
+> Redactada la letra e) conforme a la corrección de errores publicada en BOE núm. 100, de 26 de abril de 2013. [Ref. BOE-A-2013-4413](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4413).
+
+## ANEXO VII — Elementos para establecer los requisitos mínimos relativos a la educación y formación del personal
+
+1\. Normativa nacional en vigor relacionada con la adquisición, zootecnia, cuidados y utilización de animales para fines científicos.
+
+2\. Principios éticos de la relación entre los seres humanos y los animales, valor intrínseco de la vida y argumentos a favor y en contra de la utilización de animales para fines científicos.
+
+3\. Biología fundamental y ajustada a cada una de las especies en relación con la anatomía, los aspectos fisiológicos, la reproducción, la genética y las modificaciones genéticas.
+
+4\. Etología, zootecnia y enriquecimiento ambiental.
+
+5\. Métodos para el manejo de cada una de las especies y procedimientos, cuando proceda.
+
+6\. Gestión de la salud e higiene de los animales.
+
+7\. Reconocimiento de la angustia, dolor y sufrimiento característicos de las especies más comunes de animales de laboratorio.
+
+8\. Anestesia, métodos para calmar el dolor y eutanasia
+
+9\. Uso de puntos finales humanitarios.
+
+10\. Requisitos de reemplazo, reducción y refinamiento.
+
+11\. Diseño de procedimientos y proyectos, cuando proceda.
+
+## ANEXO VIII — Especies y fechas a los que se refiere el artículo 21.5
+
+| Especie | Fecha |
+|---|---|
+| Tití común *(Callithrix jacchus).* | 1 de enero de 2013 |
+| Macaco cangrejero *(Macaca fascicularis).* | 5 años a partir de la publicación del estudio de viabilidad a que se refiere el artículo 10, apartado 1, párrafo cuarto de la Directiva 2010/63, de 22 de septiembre, siempre que el estudio no recomiende un plazo prorrogado. |
+| Macaco Rhesus *(Macaca mulatta).* | 5 años a partir de la publicación del estudio de viabilidad a que se refiere el artículo 10, apartado 1, párrafo cuarto de la Directiva 2010/63, de 22 de septiembre, siempre que el estudio no recomiende un plazo prorrogado. |
+| Otras especies de primates no humanos. | 5 años a partir de la publicación del estudio de viabilidad a que se refiere el artículo 10, apartado 1, párrafo cuarto de la Directiva 2010/63, de 22 de septiembre, siempre que el estudio no recomiende un plazo prorrogado. |
+
+## ANEXO IX — Clasificación de la severidad de los procedimientos
+
+La severidad de un procedimiento se determinará por el grado de dolor, sufrimiento, angustia o daño duradero que se prevé que pueda experimentar un animal de forma individual durante el procedimiento.
+
+Sección I: Categorías de severidad
+
+Sin recuperación: Los procedimientos que se realizan en su totalidad bajo anestesia general de la cual el animal no recupera la consciencia, deben clasificarse como «sin recuperación».
+
+Leve: Los procedimientos a consecuencia de los cuales los animales es probable que experimenten dolor, sufrimiento o angustia leves de corta duración, así como los procedimientos sin alteración significativa del buen estado o del estado general de los animales, deben clasificarse como «leves».
+
+Moderado: Los procedimientos a consecuencia de los cuales es probable que los animales experimenten dolor, sufrimiento o angustia moderados de corta duración, o leves pero duraderos, así como los procedimientos que pudieran causar una alteración moderada del buen estado o del estado general de los animales, deben clasificarse como «moderados».
+
+Severo: Los procedimientos a consecuencia de los cuales es probable que los animales experimenten dolor, sufrimiento o angustia intensos o moderados pero duraderos, así como los procedimientos que pudieran causar una alteración grave del buen estado o del estado general de los animales, deben clasificarse como «severos».
+
+Sección II: Criterios de clasificación
+
+La clasificación de la categoría de severidad tendrá en cuenta cualquier intervención o manipulación de un animal en un procedimiento determinado. Se basará en el efecto más severo que pueda experimentar un animal después de aplicar todas las técnicas apropiadas de refinamiento.
+
+En la asignación a un procedimiento de una categoría particular se han de tener en cuenta el tipo de procedimiento y otros muchos factores, los cuales habrán de considerarse caso por caso.
+
+Los factores relativos al procedimiento deben incluir:
+
+– Tipos de manipulación y manejo.
+
+– Naturaleza del dolor, sufrimiento, angustia o daño duradero causados por todos los elementos del procedimiento, así como su intensidad, duración, frecuencia y la multiplicidad de técnicas empleadas.
+
+– Sufrimiento acumulativo en el procedimiento.
+
+– Impedimento de expresar el comportamiento natural, incluidas las restricciones en los estándares de alojamiento, zootécnicos y de cuidado de los animales.
+
+En la sección III se establecen tipos de procedimientos atribuidos a cada categoría de severidad sobre la base de los factores relativos al tipo de procedimiento de que se trate. Facilitarán la primera indicación sobre la clasificación que sería la más adecuada para un determinado tipo de procedimiento.
+
+Sin embargo, a efectos de la clasificación final de severidad de los procedimientos, se han de tener en cuenta los siguientes factores adicionales, valorados caso por caso:
+
+– Tipo de especie y genotipo.
+
+– Madurez, edad y sexo del animal.
+
+– Grado de aprendizaje del animal para el procedimiento.
+
+– Si se reutiliza el animal, la severidad real de los procedimientos anteriores.
+
+– Métodos utilizados para reducir o suprimir el dolor, el sufrimiento y la angustia, incluidos el refinamiento de las condiciones de alojamiento, zootécnicas y de cuidado de los animales.
+
+– Uso de puntos finales humanitarios.
+
+Sección III: Tipos de procedimiento atribuidos a cada categoría de severidad sobre la base de los factores relativos al tipo de procedimiento
+
+1\. Leve:
+
+a) Administración de anestesia, salvo para el único propósito de eutanasia.
+
+b) Estudio farmacocinético donde se administra una única dosis y se recoge un número limitado de muestras de sangre (totalizando < 10 por cien del volumen circulante) y no se prevé que la sustancia cause ningún efecto nocivo detectable.
+
+c) Técnicas no invasivas de diagnóstico por imagen en animales (por ejemplo resonancia magnética) con la sedación o la anestesia apropiada.
+
+d) Procedimientos superficiales, por ejemplo biopsias de oreja y rabo, implantación subcutánea no quirúrgica de minibombas y transpondedores.
+
+e) Aplicación de dispositivos exteriores de telemetría que únicamente causan al animal un debilitamiento menor o una interferencia menor con la actividad y el comportamiento normales.
+
+f) Administración de sustancias por vía subcutánea, intramuscular, intraperitoneal, por sonda gástrica e intravenosa a través de los vasos sanguíneos superficiales, donde la sustancia sólo tiene un efecto leve en el animal, y los volúmenes se encuentran dentro de límites apropiados para el tamaño y la especie del animal.
+
+g) Inducción de tumores, o tumores espontáneos, que no causan ningún efecto nocivo clínico perceptible (por ejemplo nódulos pequeños, subcutáneos, no invasivos).
+
+h) Cría de animales genéticamente modificados que se prevé que dé lugar a un fenotipo con efectos leves.
+
+i) Alimentación con dietas modificadas, que no cubren las necesidades nutricionales de todos los animales y se prevé que causen una anomalía clínica leve en el periodo de estudio.
+
+j) Confinamiento a corto plazo (< 24h) en jaulas metabólicas.
+
+k) Estudios que implican la privación a corto plazo de compañeros sociales, enjaulado solitario a corto plazo de ratas o ratones adultos de estirpes gregarias.
+
+l) Modelos que exponen al animal a estímulos nocivos que se asocian brevemente con dolor, sufrimiento o angustia leve, y que el animal puede evitar.
+
+m) Una combinación o una acumulación de los siguientes ejemplos puede dar lugar a una clasificación leve:
+
+1.º Evaluación de la composición corporal a través de mediciones no invasivas y restricción mínima.
+
+2.º Supervisión ECG con técnicas no invasivas con una restricción mínima o nula de animales habituados.
+
+3.º Aplicación de dispositivos exteriores de telemetría que no se prevé que causen ningún impedimento a animales socialmente adaptados y que no interfieren con la actividad y el comportamiento normales.
+
+4.º Cría de animales genéticamente modificados que no se espera que tengan ningún fenotipo adverso clínicamente perceptible.
+
+5.º Adición a la dieta de marcadores inertes para seguir el paso de la digesta.
+
+6.º Retirada de la alimentación durante un periodo inferior a 24h en ratas adultas.
+
+7.º Ensayos en campo abierto.
+
+2\. Moderado:
+
+a) Aplicación frecuente de sustancias de prueba que producen efectos clínicos moderados, y extracción de muestras de sangre (> 10 por cien de volumen circulante) en un animal consciente en el plazo de algunos días sin sustitución del volumen.
+
+b) Estudios de determinación de la gama de dosis causante de toxicidad aguda, pruebas de toxicidad crónica/carcinogenicidad, con puntos finales no letales.
+
+c) Cirugía bajo anestesia general y analgesia apropiada, asociada con dolor o sufrimiento posquirúrgicos o alteración posquirúrgica de la condición general. Los ejemplos incluyen: toracotomía, craneotomía, laparotomía o orquiectomía, linfodenectomía, tiroidectomía, cirugía ortopédica con estabilización efectiva y cuidado de heridas, trasplante de órganos con tratamiento efectivo del rechazo, implantación quirúrgica de catéteres, o dispositivos biomédicos (por ejemplo transmisores de telemetría, minibombas, etc.).
+
+d) Modelos de inducción de tumores, o tumores espontáneos, que se prevé que causen dolor o angustia moderados o interferencia moderada con el comportamiento normal.
+
+e) Irradiación o quimioterapia con una dosis subletal, o con una dosis que de otro modo sería letal, pero con reconstitución del sistema inmunitario. Cabría esperar que los efectos nocivos fueran leves o moderados y que fueran efímeros (< 5 días).
+
+f) Cría de animales genéticamente modificados que se espera den lugar a un fenotipo con efectos moderados.
+
+g) Producción de animales genéticamente modificados mediante procedimientos quirúrgicos.
+
+h) Uso de jaulas metabólicas que impliquen una restricción moderada de movimientos durante un período duradero (hasta 5 días).
+
+i) Estudios con dietas modificadas que no cubren las necesidades nutricionales de todos los animales y que se espera que causen una anomalía clínica moderada en el periodo de estudio.
+
+j) Retirada de la alimentación durante 48 horas en ratas adultas.
+
+k) Provocación de reacciones de escape y evitación cuando el animal no pueda escapar o evitar el estímulo, y que se espera que de lugar a una angustia moderada.
+
+3\. Severo:
+
+a) Ensayos de toxicidad en los que la muerte sea el punto final, o en los que se prevean muertes y se causen estados fisiopatológicos intensos. Por ejemplo, ensayo de toxicidad aguda de dosis única (véanse las directrices de la OCDE sobre ensayos).
+
+b) Ensayos de dispositivos en las que el fracaso pueda causar dolor o angustia severos o la muerte del animal (por ejemplo dispositivos de reanimación cardiaca).
+
+c) Ensayo de potencia de una vacuna caracterizada por la alteración persistente del estado del animal, enfermedad progresiva que causa la muerte, asociada con dolor, angustia o sufrimiento moderado duradero.
+
+d) Irradiación o quimioterapia con una dosis letal sin reconstitución del sistema inmunitario, o reconstitución con la producción de enfermedad de injerto contra huésped;
+
+e) Modelos con inducción de tumores, o con tumores espontáneos, que se espera causen enfermedad mortal progresiva asociada con dolor, angustia o sufrimiento moderado duradero. Por ejemplo tumores que causan caquexia, tumores óseos invasivos, tumores que dan lugar a diseminación metastásica, y tumores que se permite que se ulceren.
+
+f) Intervenciones quirúrgicas y otras en animales bajo anestesia general que se espera den lugar a dolor, sufrimiento o angustia postoperatorios moderados severos o persistentes, o a una alteración severa y persistente de la condición general del animal. Producción de fracturas inestables, toracotomía sin analgesia adecuada, o traumatismo para producir el fallo multiorgánico.
+
+g) Trasplante de órgano donde es probable que el rechazo del órgano origine angustia o la alteración severa del estado general del animal (por ejemplo xenotransplante).
+
+h) Reproducción de animales con trastornos genéticos que se espera experimenten una alteración severa y persistente de su estado general, por ejemplo la enfermedad de Huntington, distrofia muscular, modelos de neuritis crónicas recurrentes.
+
+i) Uso de jaulas metabólicas que impliquen una restricción severa de los movimientos durante un período duradero.
+
+j) Descarga eléctrica ineludible (por ejemplo para producir indefensión aprendida);
+
+k) Aislamiento completo durante períodos duraderos de especies gregarias, por ejemplo perros y primates.
+
+l) Tensión de inmovilización para inducir úlceras gástricas o fallo cardiaco en ratas.
+
+m) Natación forzada o pruebas de ejercicio con el agotamiento como punto final.
+
+> Redactado conforme a la corrección de errores publicada en el BOE núm. 79, de 2 de abril de 2015. [Ref. BOE-A-2015-3574](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3574).
+
+## ANEXO X — Elementos a los que se refiere el artículo 33.1
+
+1\. Identificación del usuario y establecimiento en el que se llevarán a cabo los procedimientos del proyecto.
+
+2\. Responsable del proyecto indicado en el artículo 32.3 de este real decreto.
+
+3\. Visto bueno del responsable administrativo del usuario.
+
+4\. Relevancia y justificación de lo siguiente:
+
+a) Utilización de animales, incluyendo su origen, número estimado, especies y etapas de vida.
+
+b) Procedimientos.
+
+5\. Aplicación de métodos para reemplazar, reducir y refinar el uso de animales en procedimientos.
+
+6\. Uso de anestésicos, analgésicos y otros medios para aliviar el dolor.
+
+7\. Medidas para reducir, evitar y aliviar cualquier forma de sufrimiento de los animales a lo largo de toda su vida, cuando proceda.
+
+8\. Uso de puntos finales humanitarios.
+
+9\. Estrategia experimental o de observación y modelo estadístico para reducir al mínimo el número de animales utilizados, el dolor, sufrimiento, angustia y el impacto ambiental, cuando proceda.
+
+10\. Reutilización de animales y su efecto acumulativo sobre el animal.
+
+11\. Propuesta de clasificación de los procedimientos en función de su severidad.
+
+12\. Medidas para evitar la repetición injustificada de procedimientos, en su caso.
+
+13\. Condiciones de alojamiento, zootécnicas y de cuidado de los animales.
+
+14\. Métodos de eutanasia.
+
+15\. Capacitación de las personas que participan en el proyecto.

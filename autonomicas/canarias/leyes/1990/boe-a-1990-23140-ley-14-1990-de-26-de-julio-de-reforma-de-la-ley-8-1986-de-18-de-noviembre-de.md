@@ -1,0 +1,553 @@
+---
+title: "Ley 14/1990, de 26 de julio, de Reforma de la Ley 8/1986, de 18 de noviembre, de Régimen Jurídico de las Administraciones Públicas de Canarias"
+identifier: "BOE-A-1990-23140"
+eli: "https://www.boe.es/eli/es-cn/l/1990/07/26/14"
+type: act
+rank: "Ley"
+jurisdiction: es-canarias
+language: es
+department: "Comunidad Autónoma de Canarias"
+date: 1990-07-26
+published: 1990-09-19
+in_force_from: 1990-08-21
+last_amended: 2026-06-29
+consolidated: 2026-08-07
+gazette: "Boletín Oficial del Estado núm. 225"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-23140"
+retrieved: 2026-10-11
+---
+
+# Ley 14/1990, de 26 de julio, de Reforma de la Ley 8/1986, de 18 de noviembre, de Régimen Jurídico de las Administraciones Públicas de Canarias
+
+Téngase en cuenta que quedan derogadas las disposiciones de esta norma en aquello en que se opongan a lo dispuesto en la Ley 8/2015, de 1 de abril. [Ref. BOE-A-2015-4621](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4621), sin que afecte a la vigencia de las disposiciones que resultan de aplicación a la Administración pública de la Comunidad Autónoma, según establece su disposición derogatoria única.
+
+EL PRESIDENTE DEL GOBIERNO
+
+Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 11.7 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+
+PREÁMBULO
+
+El Estatuto de Autonomía de Canarias, aprobado por la Ley Orgánica 10/1982, de 10 de agosto, no efectuó un diseño acabado y preciso de la organización administrativa que debía asumir el ejercicio de las competencias ejecutivas atribuidas a Canarias al acceder a su autonomía, sino que dejó en manos del legislador regional (artículo 21.3) la definitiva determinación del modelo al que deberían ajustarse las Administraciones Públicas Canarias. No obstante, el Estatuto sí perfiló las líneas maestras a las que el Parlamento regional debería ajustarse al dibujar tal organización administrativa.
+
+En efecto, la norma básica de la Comunidad integró a los Cabildos Insulares en el entramado institucional de la Comunidad Autónoma, haciéndoles copartícipes de las funciones autonómicas, sin que ello supusiera mengua alguna en las competencias propias que históricamente asumieron las islas ni la desnaturalización de su carácter autónomo.
+
+En este marco amplio debe moverse el legislador regional quien ya asumió el reto planteado por el Estatuto, aprobando en la pasada legislatura la Ley 8/1986, de 18 de noviembre, de Régimen Jurídico de las Administraciones Públicas Canarias.
+
+Esta Ley, conocida como «Ley de Cabildos», perfiló la ordenación de las Administraciones Públicas de Canarias, regulando los criterios de distribución de competencias entre las mismas y las técnicas de relación entre todas ellas, centrándose, entre otras, en la figura de los Cabildos Insulares, tratando de dar contenido a su nueva condición de instituciones de la Comunidad Autónoma.
+
+Después de casi cuatro años de la entrada en vigor de dicha norma, el legislador canario ha considerado necesario producir un nuevo texto ordenador tendente a corregir algunos aspectos de la misma y, asimismo, ha procurado contar con el mayor consenso político.
+
+El Estatuto de Autonomía de Canarias, recogiendo criterios constitucionales, no se limita a crear unos nuevos poderes regionales, Parlamento y Gobierno, manteniendo a los Ayuntamientos y Cabildos Insulares en su posición histórica de Corporaciones Locales, sino que, sin perder tal carácter, eleva a éstos últimos a la categoría de Instituciones de la Comunidad Autónoma, dotándolos de iniciativa legislativa, configurándolos como representantes ordinarios del Gobierno de Canarias y obligados ejecutores de sus acuerdos, y permitiendo que el Gobierno Regional actúe sus competencias ejecutivas a través de las Administraciones Insulares, mediante diversas técnicas de traslación. Determinar el elenco y régimen jurídico de estas técnicas es objeto de la presente Ley, dando de este modo cumplimiento al mandato contenido en los artículos 21.3 y 22.3 del Estatuto de Autonomía.
+
+Para el desarrollo de estos preceptos de la norma institucional básica de Canarias y, parcialmente, de las previsiones contenidas en la Ley Reguladora de las Bases del Régimen Local, es necesario dictar una norma estructural que regule la actuación ejecutiva de la Comunidad Autónoma, bien sea directa, por su propia Administración, bien indirecta, mediante las técnicas de relación con los Cabildos Insulares y con los Ayuntamientos de su territorio, a las que nos acabamos de referir, reconduciéndola a la unidad, tanto de dirección como de responsabilidad, con sometimiento pleno a la Ley y al Derecho.
+
+La Ley pretende construir un ordenamiento coherente que refleje los principios políticos expuestos a partir de afirmaciones generales que sientan la definición de cada Administración Pública canaria, regula las técnicas de atribución de competencias propias a cada una de ellas y prevé las relaciones recíprocas, generando, en definitiva, una actuación administrativa eficaz y coordinada. Se desarrollan los instrumentos de gestión para aplicar aquel que resulte más adecuado, fijando el grado de intervención del Gobierno de Canarias en la necesidad de cumplir con la exigencia del interés general de la Región a satisfacer en cada caso concreto, de tal forma que, en presencia de aquel interés que afecte a la idea misma de región, la Comunidad Autónoma de Canarias actuará a través de su propia Administración Central o Territorial. Cuando el interés a cuya satisfacción tienda una competencia administrativa estatutaria, responda a un interés preponderantemente insular, la Ley la atribuye a los Cabildos, de forma que la función transferida se integra en el núcleo de competencias propias de los mismos, como entidades locales. De este modo se da contenido propio a la técnica de la transferencia, contrapuesta por el Estatuto de Autonomía a la mera delegación y, no mencionada, empero, por la Ley Básica de Régimen Local entre los instrumentos de gestión de competencias regionales por las entidades locales.
+
+Se refuerza la capacidad de actuación de las entidades locales en aquellas competencias cuya gestión administrativa territorial deba prestarse con referencia a las poblaciones de una isla o un municipio. Se huye entonces de la construcción de una Administración periférica regional burocratizada, permitiendo la Ley su ejercicio por los Cabildos Insulares o los Ayuntamientos canarios mediante la institución de la delegación.
+
+Cierra el elenco de técnicas de traslación de funciones previstos por la Ley, el reconocimiento de un instrumento que huérfano de toda regulación, ha sido muy utilizado desde el inicio de la actual etapa constitucional por las Administraciones Públicas para autolimitar sus respectivas esferas de autonomía en aras a la consecución de finalidades comunes de interés público. Se trata de los convenios o acuerdos interadministrativos permitidos y auspiciados por la Ley como técnica útil de colaboración concreta entre el Gobierno de Canarias, de un lado, y los Cabildos y municipios, de otro.
+
+La Ley regula el Régimen Jurídico, la organización y funcionamiento de la Administración propia de la Comunidad Autónoma inspirándose en los criterios de flexibilidad y máxima funcionalidad, renunciando a la congelación legal de una determinada estructura administrativa y permitiendo, en cambio, al responsable político de tal Administración, organizar libremente la misma de forma que pueda darse inmediata satisfacción a las necesidades de intereses sociales a los que aquéllas sirve.
+
+Afronta la Ley la regulación de los Cabildos Insulares en su doble consideración de Instituciones de la Comunidad Autónoma y de entidades locales. En el primero de estos aspectos se desarrollan las facultades conferidas a los mismos por el Estatuto de Autonomía en las materias de iniciativa legislativa ante el Parlamento Regional, representación ordinaria del Gobierno de Canarias y ejercicio de las competencias administrativas propias de la Comunidad Autónoma. Como Entidades locales se desarrollan los diversos sistemas de atribución de competencias, propias de su esfera de autonomía constitucionalmente garantizada iniciándose ya la incorporación a tal esfera de concretas funciones administrativas hasta ahora prestadas por la Administración de la Comunidad Autónoma. La Ley aborda también la normación de los municipios canarios como entidades locales mediante su remisión a la Ley reguladora de las Bases del Régimen Local.
+
+No obstante lo anterior, se procede a un pormenorizado desarrollo de las normas de organización y funcionamiento municipal contenidas en la citada Ley Básica.
+
+El legislador considera que la norma de desarrollo del Régimen Local canario debe realizarse con carácter unitario y propio y mandato al Gobierno a la elaboración de una norma de estas características.
+
+Las líneas básicas y razones o técnicas que sirven a la voluntad de la Ley han quedado expuestas y sólo terminan comprendiéndose con la articulación de las disposiciones que la cierran, que significan medidas de prudencia y agilidad administrativa para evitar vacíos y distorsiones que de no preverse, o impiden o puedan causar graves perjuicios a la vigencia de la norma. La Ley enmarca, por tanto, al conjunto de los mecanismos jurídicos que sirven a una voluntad integradora de distribución de competencias que hagan posible una actividad pública eficaz, desplegada tanto a partir de la entrada en vigor de la Ley como en el futuro desarrollo de cada sector de la acción administrativa, siempre sometida a los controles políticos que nuestra estructura democrática exige.
+
+En sus Disposiciones Adicionales Primera y Segunda, se describen, de forma no muy distinta a la contenida en la Ley que se modifica, la lista de competencias que se transfieren a los Cabildos Insulares y el enunciado de aquellas que, manteniéndose en la titularidad de la Administración Regional, su ejercicio pueda ser delegado por el Gobierno de Canarias en las Administraciones Insulares.
+
+En las Disposiciones Transitorias se regula principalmente el procedimiento a seguir para la efectiva asunción por los Cabildos Insulares de las competencias transferidas.
+
+## TÍTULO I — Disposiciones generales
+
+### CAPÍTULO I — Las Administraciones Públicas Canarias
+
+##### Artículo 1.
+
+Para la representación y gestión de sus intereses, Canarias, sus islas y sus municipios se institucionalizan, respectivamente, en la Comunidad Autónoma, con su Administración Pública, los Cabildos Insulares y los Ayuntamientos.
+
+##### Artículo 2.
+
+Las Administraciones Públicas de Canarias se regirán por la Constitución, Estatuto de Autonomía, la legislación básica del Estado, la presente Ley y por las normas dictadas en desarrollo de éstas, respondiendo su organización, funcionamiento y régimen competencial a los principios de eficacia, economía, descentralización y máxima proximidad a los ciudadanos.
+
+##### Artículo 3.
+
+El Gobierno de Canarias, conforme a las normas del Estatuto de Autonomía, en los términos de la presente Ley y bajo el control político del Parlamento, ejerce las funciones ejecutivas y administrativas que le corresponden y coordina el funcionamiento de las Administraciones Públicas canarias.
+
+##### Artículo 4.
+
+1\. La Administración Pública de la Comunidad Autónoma constituye el instrumento para el ejercicio de las funciones administrativas y la prestación de los servicios que dicha Comunidad deba realizar directamente.
+
+2\. Corresponde al Gobierno de Canarias la organización y dirección de la Administración Pública de la Comunidad a fin de adecuarla al cumplimiento de los fines que la justifican.
+
+##### Artículo 5.
+
+1\. Las islas tienen su organización gubernativa y administrativa propia en forma de Cabildos.
+
+2\. Los Cabildos Insulares son, simultáneamente, órganos de gobierno y administración de cada isla e Instituciones de la Comunidad Autónoma, de conformidad con lo dispuesto en los artículos 7.º y 22 del Estatuto de Autonomía.
+
+3\. La posición jurídica de los Cabildos, en cuanto órganos de Gobierno de la entidad local isla, queda determinada por la legislación básica del Estado, por la que dicte la Comunidad Autónoma en desarrollo de aquélla y por la presente Ley y sus competencias atribuidas o transferidas se sujetarán a las disposiciones sectoriales, ejerciéndolas en el régimen de autonomía garantizado por la Constitución.
+
+4\. En cuanto Instituciones de la Comunidad Autónoma, los Cabildos ejercen competencias y prestan servicio de aquélla de forma descentralizada, en los términos de la presente Ley.
+
+##### Artículo 6.
+
+Los Ayuntamientos son los órganos de gobierno y administración de los municipios en que se organizan territorialmente las islas. Gozan de autonomía plena para la gestión de los intereses que representan.
+
+##### Artículo 7.
+
+1\. También tendrán la consideración de Administraciones Públicas Canarias las entidades locales que puedan constituirse en el Archipiélago con arreglo a la legislación básica de régimen local:
+
+a) Las de ámbito territorial inferior al municipio.
+
+b) Las áreas metropolitanas.
+
+c) Las Mancomunidades de municipios.
+
+2\. Tendrán igual consideración las administraciones institucionales creadas de acuerdo con la Ley.
+
+3\. El instrumento por el que se constituyan las Administraciones Públicas a que hace referencia el apartado 1 de este artículo, podrá atribuir a las mismas todas o alguna de las potestades contenidas en los apartados e), f), g) y h) del número 1 del artículo 4 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+
+### CAPÍTULO II — Sistema de competencias
+
+##### Artículo 8.
+
+1\. Las Administraciones Públicas canarias aseguran, en su conjunto, el cumplimiento de las funciones administrativas derivadas de las competencias asumidas por la Comunidad Autónoma en virtud del Estatuto de Autonomía de Canarias, de la Ley Orgánica 11/1982, de 10 de agosto, de Transferencias Complementarias a Canarias, o de cualquier otra disposición estatal.
+
+2\. El Parlamento de Canarias, en ejercicio de su potestad legislativa, atribuirá competencias a las diferentes Administraciones por cualquiera de los títulos y con ajuste a los principios y las reglas establecidas en el Estatuto de Autonomía de Canarias, en la Ley reguladora de las Bases del Régimen Local y en la presente Ley.
+
+##### Artículo 9.
+
+El ejercicio de las competencias a las que se refiere el artículo anterior corresponderá a la Administración propia de la Comunidad Autónoma de Canarias siempre que, además de estar implicado un interés general de la región, concurran cualquiera de las siguientes circunstancias:
+
+a) Que la adecuada satisfacción del interés público y la defensa de los principios rectores establecidos en los artículos 1.º y 5.2 del Estatuto de Autonomía, hagan preciso el desempeño regional de las funciones que abarque la competencia.
+
+b) Que la naturaleza de la actividad o el servicio prestado impongan su organización regional por razones sociales, de eficacia o de economía.
+
+##### Artículo 10.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 3/2026, de 16 de junio. [Ref. BOE-A-2026-17189](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17189)
+
+##### Artículo 11.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 3/2026, de 16 de junio. [Ref. BOE-A-2026-17189](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17189)
+
+##### Artículo 12.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 3/2026, de 16 de junio. [Ref. BOE-A-2026-17189](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17189)
+
+##### Artículo 13.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 3/2026, de 16 de junio. [Ref. BOE-A-2026-17189](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17189)
+
+### CAPÍTULO III
+
+#### Sección 1.ª Relaciones interadministrativas
+
+##### Artículo 14.
+
+Las Administraciones Públicas Canarias deberán atenerse en sus relaciones recíprocas a los principios contenidos en el artículo 55 de la Ley reguladora de las Bases del Régimen Local, así como a los preceptos de este capítulo.
+
+#### Sección 2.ª Convenios de colaboración y sociedades mixtas
+
+##### Artículo 15.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 3/2026, de 16 de junio. [Ref. BOE-A-2026-17189](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17189)
+
+##### Artículo 16.
+
+1\. Por la Administración de la Comunidad Autónoma suscribirán los convenios de colaboración los titulares de los Departamentos competentes por razón de la materia, dando cuenta al Gobierno de Canarias.
+
+2\. Será preciso el previo acuerdo del Gobierno de Canarias para la celebración de convenios de colaboración que impliquen obligaciones de contenido económico.
+
+No obstante, no será precisa dicha autorización para la suscripción de convenios que tengan por objeto instrumentar la concesión de subvenciones nominadas, cualquiera que sea su importe.
+
+3\. Las entidades locales actuarán en los convenios a través de su Presidente, previa autorización expresa del Pleno de la Corporación otorgada por la mayoría simple de los asistentes a la sesión, salvo que el convenio se refiera a materia en las que se exija el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.
+
+4\. Trimestralmente se dará cuenta a la Comisión de Desarrollo Autonómico y Administración Territorial del Parlamento de Canarias de los convenios de colaboración suscritos por el Gobierno de Canarias con las entidades locales.
+
+> Se añade un segundo párrafo al apartado 2 por el art. 9.1 de la Ley 4/2001, de 6 de julio. [Ref. BOE-A-2001-14279](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-14279)
+
+##### Artículo 17.
+
+1\. Para la prestación de servicios con contenido económico que no impliquen el ejercicio de autoridad y que afecten a los intereses de dos o más Administraciones Públicas se podrán constituir sociedades anónimas cuyo capital pertenezca total o mayoritariamente a las entidades afectadas.
+
+2\. Los acuerdos de constitución, participación o adquisición de títulos representativos del capital de las citadas sociedades se adoptarán por las Administraciones interesadas en la forma prevista en las normas reguladoras de sus respectivos patrimonios.
+
+3\. Cuando las sociedades constituidas al amparo de los números anteriores tengan la condición de empresas públicas de la Comunidad Autónoma, su régimen jurídico se adecuará al de la Hacienda Pública de la Comunidad Autónoma de Canarias.
+
+#### Sección 3.ª Coordinación administrativa
+
+##### Artículo 18.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 3/2026, de 16 de junio. [Ref. BOE-A-2026-17189](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17189)
+
+##### Artículo 19.
+
+1\. Las entidades locales canarias deberán remitir periódicamente información sobre su actividad a la Administración de la Comunidad Autónoma en los términos previstos en la legislación básica estatal y en esta Ley.
+
+2\. En todo caso, la Administración de la Comunidad Autónoma, con el fin de comprobar la efectividad de la aplicación de la legislación autonómica, podrá recabar y obtener información concreta sobre la actividad insular y municipal e incluso la exhibición o remisión de copia autorizada de expedientes administrativos y la emisión de informes.
+
+3\. La Administración de la Comunidad Autónoma facilitará la participación de los representantes legales de las entidades locales canarias en los procedimientos de planificación, programación y gestión de obras y servicios que les afecten directamente, mediante los instrumentos que al efecto proponga la Comisión de Administración Territorial de la Comunidad Autónoma de Canarias prevista en el artículo 21 de esta Ley.
+
+##### Artículo 20.
+
+1\. La Comunidad Autónoma coordina las políticas fiscales, financieras, presupuestarias y de endeudamiento de los Cabildos Insulares y de los Ayuntamientos, en todos los aspectos de las mismas que puedan afectar a los intereses generales de la Región.
+
+2\. La coordinación, que en ningún caso limitará la autonomía financiera de las Corporaciones Locales garantizada por la Constitución y el Estatuto de Autonomía, se realizará mediante la aprobación, por Ley del Parlamento de Canarias, de un Plan Cuatrienal en el que se fijen los objetivos de ingresos, los máximos gastos y los límites de endeudamiento de las Administraciones canarias.
+
+3\. El proyecto del Plan previsto en el número anterior de este artículo será elaborado por el Gobierno de Canarias, previo informe preceptivo de la Comisión de Administración Territorial de la Comunidad Autónoma de Canarias.
+
+4\. Aprobado el Plan, sus directrices orientarán a los Cabildos Insulares y a los municipios en el ejercicio de sus potestades.
+
+5\. El Plan vinculará las políticas de fomento, transferencia y subvención del Gobierno Autónomo de Canarias.
+
+6\. El Gobierno de Canarias remitirá anualmente al Parlamento una Memoria explicativa del grado de cumplimiento de los objetivos trazados por el Plan.
+
+##### Artículo 21.
+
+1\. La Comisión de Administración Territorial de la Comunidad Autónoma de Canarias es el órgano para la colaboración permanente entre la Administración de dicha Comunidad y la de las entidades locales.
+
+2\. La Comisión de Administración Territorial será presidida por el Vicepresidente del Gobierno de Canarias.
+
+3\. Estará compuesta por un número igual de representantes de la Administración de la Comunidad Autónoma y de las Administraciones locales.
+
+1) La representación de la Comunidad Autónoma se integrará por:
+
+a) Los Consejeros competentes en materia de Régimen Local y Hacienda, con carácter permanente.
+
+b) Los Consejeros competentes en la materia en razón de los asuntos a tratar.
+
+c) El resto de miembros que designe el Gobierno al objeto de completar la paridad establecida.
+
+2) Las entidades locales estarán representadas por:
+
+a) Los Presidentes de los siete Cabildos Insulares.
+
+b) Los Alcaldes de los dos municipios que son sede de la capitalidad regional.
+
+c) Un Alcalde representante del resto de las Corporaciones Municipales por cada una de las Islas.
+
+4.1) Corresponderá a la Comisión de Administración Territorial emitir informes, dictámenes y pareceres acerca de los criterios precisos para la efectividad de la coordinación y colaboración entre las Administraciones Públicas de la Comunidad Autónoma de Canarias.
+
+2) Corresponden, asimismo, a la Comisión los siguientes cometidos:
+
+a) Información conjunta de carácter fiscal y financiero.
+
+b) Previsiones en relación al endeudamiento público, autonómico e insular, así como el seguimiento y evaluación de resultados de los mismos.
+
+c) Medidas tendentes a la armonización tributaria en el ámbito de la Comunidad Autónoma de Canarias.
+
+d) Armonización de criterios en orden a la política presupuestaria y la actividad financiera del sector público de la Comunidad Autónoma, de los Cabildos Insulares y municipios.
+
+e) Informar los estudios sobre actualización y reforma del Régimen Económico Fiscal para Canarias.
+
+f) Armonización o conjunción de criterios en la política de inversiones públicas de la Comunidad Autónoma, los Cabildos Insulares y municipios.
+
+5\. El Gobierno de Canarias reglamentará el funcionamiento de esta Comisión.
+
+##### Artículo 22.
+
+Corresponde al Gobierno de la Comunidad Autónoma de Canarias la facultad de resolver los conflictos de competencias entre los diversos Entes Locales de su ámbito territorial, antes de la intervención de la Jurisdicción Contencioso-Administrativa.
+
+##### Artículo 23.
+
+1\. Cuando la Administración de la Comunidad considere, en el ámbito de sus competencias, que un acto o acuerdo de una entidad local infringe el ordenamiento jurídico, podrá requerirle para que anule dicho acto o acuerdo.
+
+2\. El requerimiento practicado por el Consejero competente en materia de Régimen Local, deberá ser motivado y expresar la normativa que se estime vulnerada, formulándose en el plazo de quince días hábiles a partir de la recepción de la comunicación del acuerdo.
+
+3\. La Administración de la Comunidad Autónoma, a través de los Servicios Jurídicos del Gobierno de Canarias, podrá impugnar los actos y acuerdos de las entidades locales ante la Jurisdicción Contencioso-Administrativa en los términos previstos en los artículos 65 y 66 de la Ley reguladora de las Bases del Régimen Local.
+
+##### Artículo 24.
+
+El abono de los gastos ocasionados a la Administración Autonómica de Canarias como consecuencia de las medidas adoptadas en uso de la potestad de sustitución de las Corporaciones locales conferida por el artículo 60 de la Ley 7/1985, de 2 de abril, se exigirán de la entidad local deudora como ingresos de derecho público.
+
+##### Artículo 25.
+
+La facultad atribuida al Gobierno de Canarias por el artículo 61 de la Ley reguladora de las Bases del Régimen Local se ejercerá a propuesta del Consejero competente en la materia de Régimen Local, previo informe del Consejo Consultivo de Canarias y dando cuenta al Parlamento de Canarias.
+
+## TÍTULO II — De la Administración Pública de la Comunidad Autónoma de Canarias
+
+##### Artículo 26.
+
+La Administración de la Comunidad Autónoma sirve con objetividad los intereses generales, actúa de acuerdo con los principios constitucionales y estatutarios y con sometimiento pleno a la Ley y al Derecho.
+
+##### Artículo 27.
+
+1\. Bajo la superior dirección del presidente o presidenta del Gobierno de Canarias, la Administración pública de la comunidad autónoma se organiza en consejerías.
+
+2\. Cada una de las consejerías tendrá atribuida la gestión de áreas determinadas de la acción pública competencia de la comunidad autónoma.
+
+3\. La estructura orgánica y las sedes de las consejerías serán aprobadas por decreto del Gobierno de Canarias, a propuesta de la Presidencia del Gobierno. Del establecimiento de dicha estructura y sedes, así como de su modificación se dará cuenta al Parlamento en forma de comunicación para su debate ante en el Pleno de conformidad con el Reglamento del Parlamento de Canarias.
+
+4\. Corresponde al Gobierno la creación, organización y funcionamiento de órganos colegiados de la Administración pública autonómica a los que se atribuyan competencias decisorias, de propuesta o informes preceptivos, así como de seguimiento o control de órganos administrativos. Asimismo, corresponde al Gobierno la creación de órganos colegiados que estén integrados únicamente por personas dependientes de distintas consejerías o departamentos. Del ejercicio de dichas competencias se dará cuenta al Parlamento en forma de comunicación para su debate ante en el Pleno de conformidad con el Reglamento del Parlamento de Canarias.
+
+5\. La creación, organización y funcionamiento de órganos colegiados distintos de los establecidos en el apartado anterior se llevarán a cabo por disposición del departamento al que queden adscritos, atendiendo al sector material de las funciones que se le atribuyan. Del ejercicio de dichas competencias se dará cuenta al Parlamento en forma de comunicación para su debate ante en el Pleno de conformidad con el Reglamento del Parlamento de Canarias.
+
+> Se modifica por la disposición final 1.1 de la Ley 4/2023, de 23 de marzo. [Ref. BOE-A-2023-12668](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-12668)
+
+> Se deroga el apartado 5 por la disposición derogatoria 2 de la Ley 2/2000, de 17 de julio. [Ref. BOE-A-2000-15425](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-15425)
+
+##### Artículo 28.
+
+**(Suprimido).**
+
+> Se suprime por la disposición final 1.2 de la Ley 4/2023, de 23 de marzo. [Ref. BOE-A-2023-12668](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-12668)
+
+##### Artículo 29.
+
+1\. Los Consejeros dirigen sus respectivos Departamentos y en tal condición les corresponde:
+
+a) Ejercer la iniciativa, dirección e inspección de todos los servicios de la Consejería y las facultades que le correspondan respecto de los Organismos autónomos adscritos a la misma.
+
+b) Desempeñar la Jefatura Superior de Personal.
+
+c) Nombrar y cesar a los titulares de puestos de trabajo de libre designación.
+
+d) Otorgar o proponer, en su caso, las recompensas que procedan.
+
+e) Resolver, en última instancia, dentro de la vía administrativa, cuando no corresponda a una autoridad inferior, los recursos promovidos contra las resoluciones de los organismos y autoridades de la Consejería.
+
+f) Resolver los recursos de alzada interpuestos contra los actos dictados por los Cabildos Insulares en ejercicio de competencias delegadas.
+
+g) Incoar y resolver los expedientes de revisión de oficio de los actos del propio Departamento y de los Cabildos Insulares dictados en ejercicio de competencias delegadas.
+
+h) Resolver los conflictos de atribuciones que surjan entre autoridades administrativas dependientes del Departamento y suscitarlos con otras Consejerías.
+
+i) Suscitar cuestiones de competencia.
+
+j) Disponer los gastos propios de los Servicios de su Consejería no reservados al Gobierno de Canarias, dentro del importe de los créditos autorizados e interesar del órgano competente la ordenación de los pagos.
+
+k) Firmar en nombre de la Comunidad Autónoma los contratos y convenios de colaboración relativos a asuntos de su Consejería.
+
+l) Ejecutar los acuerdos del Gobierno de Canarias referidos al ámbito de competencias de su Consejería.
+
+m) Y cualesquiera otras facultades que les atribuyan las leyes.
+
+2\. Los restantes órganos de la Administración propia de la Comunidad Autónoma ejercen las competencias que les correspondan conforme a las normas que los regulen.
+
+##### Artículo 30.
+
+1\. La Administración Pública de la Comunidad Autónoma adecua sus estructuras y ordena su funcionamiento a la consecución de las mejores prestaciones públicas, con la mayor economía de medios que permita el cumplimiento de los fines que tiene encomendados conforme a lo dispuesto en el título I de la presente Ley.
+
+2\. La creación de todo órgano administrativo que suponga un incremento del gasto público irá precedida por un estudio económico de los costes de instalación y funcionamiento y del rendimiento de utilidad de sus servicios, así como de la justificación razonada de su procedencia conforme a los criterios previstos en el artículo 9 de esta Ley.
+
+##### Artículo 31.
+
+1\. La Administración Pública de la Comunidad se establece funciona y actúa bajo el principio de ordenación jerárquica de sus órganos:
+
+2\. La competencia se ejerce por los órganos que expresamente la tengan atribuida sin perjuicio de lo establecido en los números siguientes:
+
+3\. El ejercicio de las competencias propias podrá ser delegado en el órgano que, por la aplicación del principio de eficacia, sea más idóneo para ello.
+
+4\. Las delegaciones podrán ser avocadas por el órgano delegante, con carácter general o para la resolución de un determinado expediente.
+
+5\. Las delegaciones y las avocaciones de carácter general que se efectúen de acuerdo con los números anteriores deberán ser publicadas, para surtir efectos, en el «Boletín Oficial de la Comunidad de Canarias».
+
+##### Artículo 32.
+
+Las actuaciones ejecutadas por los órganos regionales o territoriales de la Administración de la Comunidad Autónoma, así como los actos administrativos emanados de los órganos de los Cabildos Insulares o Ayuntamientos canarios en el ejercicio de competencias delegadas por la Comunidad Autónoma, se imputarán a aquélla a los efectos de la responsabilidad patrimonial y de la representación y defensa en juicio, que se llevará a cabo por los Servicios Jurídicos del Gobierno de Canarias.
+
+##### Artículo 33.
+
+1\. La responsabilidad patrimonial de la Administración de la Comunidad Autónoma será exigible en los términos establecidos por la legislación básica del Estado, de acuerdo con lo dispuesto en el artículo 106.2 de la Constitución Española.
+
+2\. Los actos de la Administración Pública de la Comunidad sujetos al Derecho Administrativo se adoptarán conforme a las normas de procedimiento establecido por la legislación estatal, salvo en el caso de procedimientos especiales regulados por Ley de la Comunidad Autónoma en el marco de las competencias legislativas conferidas por el Estatuto de Autonomía.
+
+##### Artículo 33 bis.
+
+1\. Los actos administrativos de los órganos de la Administración pública adoptarán la forma siguiente:
+
+a) Decreto: los dictados por el presidente o presidenta.
+
+b) Orden: los dictados por el vicepresidente o vicepresidenta y los consejeros o consejeras.
+
+c) Resolución: los dictados por los demás órganos administrativos.
+
+2\. En cada órgano superior de la Administración pública autonómica deberá existir un registro de actos en el que se inscribirán todos los dictados por el mismo.
+
+> Se añade por la disposición final 1.3 de la Ley 4/2023, de 23 de marzo. [Ref. BOE-A-2023-12668](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-12668)
+
+##### Artículo 34.
+
+En el ejercicio de sus competencias, la Administración de la Comunidad gozará de las potestades y privilegios reconocidos a la Administración del Estado y, en todo caso, los siguientes:
+
+a) La presunción de legitimidad y la ejecutoriedad de sus actos, así como los poderes de ejecución forzosa y de revisión en vía administrativa.
+
+b) La potestad expropiatoria, incluida la declaración de urgente ocupación de los bienes afectados y el ejercicio de las restantes competencias de la legislación expropiatoria atribuidas a la Administración del Estado cuando se trate de materia de competencia de la Comunidad Autónoma.
+
+c) Los poderes de investigación, deslinde y recuperación de oficio en materia de bienes.
+
+d) La potestad de sanción, dentro de los límites que establezca el ordenamiento jurídico.
+
+e) La facultad de utilización del procedimiento de apremio.
+
+f) La inembargabilidad de sus bienes y derechos, así como los privilegios de prelación, preferencia y demás reconocidos a la Hacienda Pública para el cobro de sus créditos, sin perjuicio de los que correspondan en esta materia a la Hacienda Pública del Estado y en igualdad de derechos con las demás Comunidades Autónomas.
+
+g) La exención de toda obligación de garantía o caución ante cualquier organismo administrativo o Tribunal Jurisdiccional.
+
+## TÍTULO III — De la prohibición de Federaciones o Mancomunidades de Cabildos Insulares
+
+> Se deroga por la disposición derogatoria única de la Ley 8/2015, de 1 de abril. [Ref. BOE-A-2015-4621](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4621)
+
+##### Artículo 35.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única de la Ley 8/2015, de 1 de abril. [Ref. BOE-A-2015-4621](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4621)
+
+## TÍTULO IV — Los Cabildos Insulares
+
+> Se deroga por la disposición derogatoria única de la Ley 8/2015, de 1 de abril. [Ref. BOE-A-2015-4621](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4621)
+
+##### Artículos 36 a 55.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única de la Ley 8/2015, de 1 de abril. [Ref. BOE-A-2015-4621](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4621)
+
+## TÍTULO V — De los municipios canarios
+
+> Se deroga por la disposición derogatoria única.2 de la Ley 7/2015, de 1 de abril. [Ref. BOE-A-2015-4620](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4620)
+
+##### Artículos 56 a 169.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única.2 de la Ley 7/2015, de 1 de abril. [Ref. BOE-A-2015-4620](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4620)
+
+##### Disposición adicional primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única de la Ley 3/2026, de 16 de junio. [Ref. BOE-A-2026-17189](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17189)
+
+> Se modifica por el art. 1 de la Ley 8/2001, de 3 de diciembre. [Ref. BOE-A-2002-1379](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-1379)
+
+> Téngase en cuenta para su aplicación la disposición transitoria 1 de la citada ley.
+
+> Redactado el punto 17 conforme a la corrección de errores publicada en el BOC núm. 9, de 21 de enero de 2002. [Ref. BOE-A-2002-4925](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-4925)
+
+##### Disposición adicional segunda.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única de la Ley 3/2026, de 16 de junio. [Ref. BOE-A-2026-17189](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17189)
+
+> Se modifica por el art. 2 de la Ley 8/2001, de 3 de diciembre. [Ref. BOE-A-2002-1379](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-1379)
+
+> Se numera el párrafo existente como apartado 1 y se añaden los apartados 2 y 3 por el art. 5 de la Ley 4/1996, de 5 de noviembre. [Ref. BOE-A-1996-26158](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-26158)
+
+> Redactado conforrme a la corrección de errores publicada en el BOC num. 7, de 15 de enero de 1997. [Ref. BOE-A-1997-2168](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-2168)
+
+##### Disposición adicional tercera.
+
+1\. En las aglomeraciones urbanas de Las Palmas de Gran Canaria y Santa Cruz de Tenerife y a iniciativa de los municipios interesados y previa audiencia de los Cabildos respectivos, podrán constituirse Áreas Metropolitanas. Las iniciativas se referirán exclusivamente a la procedencia de constituir el Área Metropolitana, ámbito territorial de la misma, y servicios metropolitanos.
+
+2\. El Gobierno de Canarias mediante Decreto regulará el procedimiento para la tramitación de las iniciativas a que se refiere el número anterior.
+
+3\. Finalizados los expedientes, el Gobierno formulará los correspondientes Proyectos de Ley.
+
+##### Disposición adicional cuarta.
+
+El Gobierno de Canarias elaborará los estudios pertinentes en orden al posible establecimiento de regímenes especiales de los municipios que por su carácter histórico-artístico o el predominio de actividades turísticas, o sus excepcionales valores naturales y medioambientales, requieran una ordenación específica.
+
+##### Disposición adicional quinta.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única de la Ley 3/2026, de 16 de junio. [Ref. BOE-A-2026-17189](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17189)
+
+##### Disposición adicional sexta.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única de la Ley 3/2026, de 16 de junio. [Ref. BOE-A-2026-17189](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17189)
+
+##### Disposición transitoria primera.
+
+Hasta tanto no se actualicen las previsiones organizativas contenidas en los preceptos de esta Ley, subsistirán, con sus competencias y ámbitos territoriales de actuación, los órganos de la Administración de la Comunidad Autónoma constituidos.
+
+##### Disposición transitoria segunda.
+
+Los convenios de colaboración suscritos por el Gobierno de Canarias con los Cabildos Insulares o los Ayuntamientos de los municipios canarios con anterioridad a la entrada en vigor de esta Ley, continuarán surtiendo efecto durante los plazos de vigencia que en los mismos se hubieran establecido, aunque no cumplan los requisitos exigidos por esta Ley.
+
+##### Disposición transitoria tercera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única de la Ley 3/2026, de 16 de junio. [Ref. BOE-A-2026-17189](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17189)
+
+> Se modifica el apartado 1 por el art. 3 de la Ley 8/2001, de 3 de diciembre. [Ref. BOE-A-2002-1379](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-1379)
+
+##### Disposición transitoria cuarta.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única de la Ley 3/2026, de 16 de junio. [Ref. BOE-A-2026-17189](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17189)
+
+##### Disposición transitoria quinta.
+
+Hasta tanto se produce la acomodación definitiva de las Haciendas Territoriales a que se refiere el artículo 48 de esta Ley, las competencias transferidas se ejercerán por los Cabildos Insulares en el régimen de autonomía financiera que rige con carácter general la gestión de sus competencias propias. A tal fin:
+
+1\. En los ejercicios económicos siguientes a aquél en que haya tenido lugar la efectividad de la transferencia, Los Presupuestos Generales de la Comunidad Autónoma incluirán las dotaciones suficientes, para financiar a los Cabildos de la carga asumida con cada transferencia, basadas en los costes históricos actualizados de las transferencias de competencias de la Administración del Estado a esta Comunidad Autónoma, con arreglo a los siguientes criterios:
+
+a) Los créditos de personal se incrementarán en cada ejercicio en la misma proporción en que lo hagan las retribuciones y masa salarial de los funcionarios y personal al servicio de la Comunidad Autónoma.
+
+b) Los créditos de funcionamiento se incrementarán en cada ejercicio en la misma proporción que lo hagan los del capítulo II (Gastos de funcionamiento) de los Presupuestos Generales de la Comunidad Autónoma para ese ejercicio, con carácter homogéneo, entendiendo como tal la agregación del capítulo II reservada a la Comunidad Autónoma y el correspondiente a las transferencias a los Cabildos Insulares, relacionándose dicha suma con el coste del año anterior, en los mismos términos.
+
+c) Los créditos para gastos de inversión en reposición se incrementarán usando los mismos criterios señalados para los créditos de funcionamiento.
+
+2\. Por Ley del Parlamento de Canarias se asignarán a los Cabildos Insulares y según criterios socioeconómicos y de cuantificación objetiva de las cargas materiales asumidas, los fondos de inversión que procedan en relación con los asignados para el mismo fin en los Presupuestos Generales de la Comunidad Autónoma de cada ejercicio.
+
+##### Disposición transitoria sexta.
+
+El importe de las indemnizaciones impuestas al Cabildo Insular como consecuencia de su responsabilidad patrimonial podrá ser repercutido por éste a la Administración de la Comunidad Autónoma de Canarias siempre que su causa sea anterior a la fecha de efectividad de la transferencia y que, en los correspondientes expedientes administrativos o procesos jurisdiccionales en los que se declare la responsabilidad, se haya emplazado a los Servicios Jurídicos del Gobierno de Canarias, sin perjuicio de la personación del Cabildo Insular a través de su propia representación procesal.
+
+##### Disposición transitoria séptima.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única de la Ley 3/2026, de 16 de junio. [Ref. BOE-A-2026-17189](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17189)
+
+##### Disposición derogatoria.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan, contradigan o sean incompatibles con los preceptos de esta Ley y en especial el título II de la Ley Territorial 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, y la Ley 8/1986, de 18 de noviembre, de Régimen Jurídico de las Administraciones Públicas Canarias.
+
+##### Disposición final primera.
+
+Se autoriza al Gobierno de Canarias a desarrollar reglamentariamente los preceptos de esta Ley.
+
+##### Disposición final segunda.
+
+El Gobierno de Canarias remitirá al Parlamento un Proyecto de Ley de Organización y Funcionamiento de las Entidades Locales Canarias.
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, cooperen en su cumplimiento y que los Tribunales y autoridades a los que corresponda la cumplan y hagan cumplir.
+
+Santa Cruz de Tenerife, a 26 de julio de 1990.
+
+LORENZO OLARTE CULLEN,
+
+Presidente del Gobierno
+
+> Información relacionada
+
+> Téngase en cuenta que podrán adaptarse los procedimientos administrativos de la Comunidad Autónoma a la Ley 30/1992, de 26 de noviembre. [Ref. BOE-A-1992-26318](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-26318), en ejercicio de las competencias autonómicas y en uso de la autorización concedida por la Ley 5/1994, de 20 de julio. [Ref. BOE-A-1994-19658](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19658), por Decreto publicado únicamente en el "Boletín Oficial de Canarias".
+
+> Téngase en cuenta que en lo referente a delegaciones y transferencias de competencias a los Cabildos será aprobada disposición publicada unicamente en el "Boletín Oficial de Canarias", según establecen las disposiciones adicional 2 y transitoria 3 de la presente ley.

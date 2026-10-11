@@ -1,0 +1,483 @@
+---
+title: "Real Decreto 705/1997, de 16 de mayo, por el que se aprueba el Reglamento de la Ley 38/1994, de 30 de diciembre, reguladora de las Organizaciones Interprofesionales Agroalimentarias, modificada por la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social"
+identifier: "BOE-A-1997-11825"
+eli: "https://www.boe.es/eli/es/rd/1997/05/16/705"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1997-05-16
+published: 1997-06-03
+in_force_from: 1997-06-04
+last_amended: 2026-03-13
+consolidated: 2026-03-13
+gazette: "Boletín Oficial del Estado núm. 132"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-11825"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 705/1997, de 16 de mayo, por el que se aprueba el Reglamento de la Ley 38/1994, de 30 de diciembre, reguladora de las Organizaciones Interprofesionales Agroalimentarias, modificada por la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social
+
+Incluye la corrección de errores publicada en BOE núm. 157, de 2 de julio de 1997. [Ref. BOE-A-1997-14653](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-14653).
+
+La modificación de la Ley 38/1994, de 30 de diciembre, reguladora de las Organizaciones Interprofesionales Agroalimentarias, por la disposición adicional primera de la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, y la entrada en vigor del Real Decreto 839/1996, de 10 de mayo, por el que se establece la estructura orgánica básica de los Ministerios de Asuntos Exteriores, de Justicia, de Defensa, de Fomento, de Educación y Cultura, de Trabajo y Asuntos Sociales, de Industria y Energía, de Agricultura, Pesca y Alimentación, de Administraciones Públicas, de Sanidad y Consumo y de Medio Ambiente, y del Real Decreto 1890/1996, de 2 de agosto, por el que se aprueba la estructura orgánica básica del Ministerio de Agricultura, Pesca y Alimentación, hacían necesaria la modificación de la mayor parte de los artículos del Real Decreto 2070/1995, de 22 de diciembre, por el que se desarrolla la Ley 38/1994, de 30 de diciembre, reguladora de las Organizaciones Interprofesionales Agroalimentarias.
+
+El Gobierno, en pro de la simplificación administrativa y consciente de los inconvenientes que supone mantener vigente una norma modificada en su práctica totalidad por otra, opta por la derogación de aquélla y por desarrollar la Ley reguladora de organizaciones interprofesionales agroalimentarias mediante un Reglamento, que se aprueba en el presente Real Decreto.
+
+La modificación normativa otorga un claro protagonismo en el desarrollo de las organizaciones interprofesionales agroalimentarias a las distintas organizaciones de carácter representativo con intereses en los sectores de referencia. Un exponente de este principio es la acreditación de la representatividad mediante un baremo, que la propia organización solicitante del reconocimiento propone al Ministerio de Agricultura, Pesca y Alimentación para su aprobación. Este baremo incluye las reglas que miden la representatividad de las distintas ramas de actividad que componen la organización interprofesional agroalimentaria, mediante criterios de carácter técnico y económico que, pudiendo diferir de una rama a otra, deben mantenerse iguales para cada rama de actividad en todos aquellos aspectos que exijan la acreditación de la representatividad.
+
+El espíritu liberalizador, que otorga el protagonismo a los propios agentes en las decisiones esenciales de funcionamiento, lo que facilita el consenso y la vertebración de los sectores, no está reñido en la presente norma con los criterios de formalidad y de estabilidad en la acreditación de la representatividad, que tienen su expresión en un funcionamiento ágil del Registro de Organizaciones Interprofesionales Agroalimentarias y en la obligación de llevar los Libros de Registro de Miembros y de Acuerdos.
+
+El Reglamento supone una simplificación del procedimiento administrativo tanto en el reconocimiento de las organizaciones interprofesionales agroalimentarias como en la extensión de las normas. Se reducen prácticamente a la mitad los plazos fijados en la normativa que se deroga, estableciéndose un máximo de noventa días en el procedimiento de reconocimiento, y de ciento ochenta días, que pueden reducirse a noventa por el procedimiento de urgencia, en la extensión de normas, eliminándose el silencio negativo en ambos procedimientos.
+
+La transparencia en el procedimiento es otra de las características del Reglamento, estableciéndose la obligatoriedad de publicar en el «Boletín Oficial del Estado» los reconocimientos, revocaciones y retiradas y las extensiones de normas. Otro exponente de esta característica es el procedimiento de información pública que se establece para la extensión de normas.
+
+El Consejo General de Organizaciones Interprofesionales Agroalimentarias, al que se dota de fuerza a través del mecanismo de nombramiento por el Consejo de Ministros, se convierte en un órgano colegiado, operativo, de consulta y asesoramiento, al igual que la Comisión Permanente que de él emana. En el Consejo General de Organizaciones Interprofesionales Agroalimentarias participan como Vocales, además de los representantes de la Administración General del Estado, los de las Comunidades Autónomas, para las que se establecen unos criterios de representación, de carácter rotativo, que además de permitir la representación de todas, prima la presencia de aquéllas con mayor peso en el producto interior bruto (PIB) agroalimentario nacional y de aquéllas con mayor importancia en los sectores en los que se haya otorgado reconocimiento de organizaciones interprofesionales agroalimentarias. Las organizaciones representativas de la producción, la industria y el comercio, participan en el Consejo por su carácter general, ocupando catorce vocalías, teniendo grupos diferenciados las organizaciones profesionales agrarias, las cooperativas agrarias, los representantes de la producción pesquera y las organizaciones representativas de la industria y el comercio, para facilitar la elección y la composición equilibrada de la Comisión Permanente, ya que los miembros de ésta se eligen de entre y por los miembros de cada grupo de vocales.
+
+En la tramitación del presente Real Decreto han sido consultados las Comunidades Autónomas y el sector afectado.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Pesca y Alimentación, con la aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 16 de mayo de 1997,
+
+DISPONGO:
+
+### Artículo 1. Objeto.
+
+Se aprueba el Reglamento de la Ley 38/1994, de 30 de diciembre, reguladora de las Organizaciones Interprofesionales Agroalimentarias, modificada por la disposición adicional primera de la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, que figura como anexo al presente Real Decreto.
+
+### Artículo 2. Ayudas.
+
+Las organizaciones interprofesionales agroalimentarias, una vez reconocidas por el Ministerio de Agricultura, Pesca y Alimentación, podrán ser beneficiarias de las ayudas y subvenciones públicas que se establezcan, a fin de promover su funcionamiento y la realización de las finalidades para las que se constituyan.
+
+### Disposición adicional primera. Habilitación competencial.
+
+El presente Real Decreto se dicta al amparo de la competencia que atribuye al Estado el artículo 149.1.13.ª de la Constitución, sobre bases y coordinación de la planificación general de la actividad económica.
+
+### Disposición adicional segunda. Primera constitución del Consejo General.
+
+Para la primera constitución del Consejo General de las Organizaciones Interprofesionales Agroalimentarias, el derecho a representación de las seis Comunidades Autónomas, se regirá por lo establecido en el criterio a) de la norma 2.ª del apartado 1 del artículo 31 del Reglamento.
+
+### Disposición derogatoria única. Derogación normativa singular.
+
+Queda derogado el Real Decreto 2070/1995, de 22 de diciembre, por el que se desarrolla la Ley 38/1994, de 30 de diciembre, reguladora de las Organizaciones Interprofesionales Agroalimentarias.
+
+### Disposición final primera. Facultad de desarrollo.
+
+Se faculta a la Ministra de Agricultura, Pesca y Alimentación para que, en el ámbito de sus competencias, dicte cuantas disposiciones sean necesarias para el desarrollo y ejecución de este Real Decreto.
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 16 de mayo de 1997.
+
+JUAN CARLOS R.
+
+La Ministra de Agricultura, Pesca
+
+y Alimentación,
+
+LOYOLA DE PALACIO DEL VALLE-LERSUNDI
+
+## ANEXO — Reglamento de la Ley 38/1994, de 30 de diciembre, reguladora de las Organizaciones Interprofesionales Agrarias
+
+## CAPÍTULO I — Reconocimiento de las organizaciones interprofesionales agroalimentarias
+
+### Artículo 1. Condiciones para el reconocimiento.
+
+El Ministerio de Agricultura, Pesca y Alimentación otorgará el reconocimiento e inscribirá en el Registro creado por el artículo 14 de la Ley 38/1994, de 30 de diciembre, reguladora de las Organizaciones Interprofesionales Agroalimentarias y desarrollado en el capítulo V del presente Reglamento, a las organizaciones interprofesionales agroalimentarias, de ámbito estatal o superior al de una Comunidad Autónoma, que así lo soliciten, a través del procedimiento previsto en esta disposición, y cumplan las condiciones del artículo 4 de su Ley reguladora.
+
+### Artículo 2. Iniciación del procedimiento.
+
+Las organizaciones interprofesionales agroalimentarias interesadas en su reconocimiento conforme al artículo 4 de la Ley, dirigirán al Ministerio de Agricultura, Pesca y Alimentación solicitud de dicho reconocimiento, firmada por todas las organizaciones que la componen y acompañada por un ejemplar de los siguientes documentos:
+
+a) Escritura o acta de constitución y texto de los estatutos y, en su caso, reglamento de régimen interno de la organización interprofesional agroalimentaria. Dicha organización interprofesional agroalimentaria deberá tener personalidad jurídica propia y exclusiva para finalidades reconocidas a dichas organizaciones, así como carecer de ánimo de lucro.
+
+b) Memoria, en la que se detallen las finalidades, objetivos y previsión de actuaciones iniciales de la organización.
+
+c) Acreditación del grado de implantación de la organización interprofesional agroalimentaria, mediante un baremo, que propuesto por la organización interprofesional solicitante del reconocimiento y, previo su refrendo por los miembros de las distintas ramas de actividad de la misma, deberá ser aprobado por el Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+> Se modifica la letra c) por la disposición final.1.1 del Real Decreto 64/2015, de 6 de febrero. [Ref. BOE-A-2015-1159](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1159).
+
+### Artículo 3. Actos de instrucción.
+
+Los actos de instrucción necesarios para el conocimiento y comprobación de los datos en virtud de los cuales deba pronunciarse la resolución, se realizarán por la Dirección General de la Industria Alimentaria del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+> Se modifica por la disposición final 1.2 del Real Decreto 64/2015, de 6 de febrero. [Ref. BOE-A-2015-1159](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1159).
+
+### Artículo 4. Informes.
+
+La Dirección General de la Industria Alimentaria del Ministerio de Agricultura, Alimentación y Medio Ambiente solicitará, a efectos del reconocimiento, informe no vinculante del Consejo General de Organizaciones Interprofesionales Agroalimentarias. Asimismo podrán solicitarse cuantos informes sean necesarios para resolver.
+
+> Se modifica por la disposición final 1.3 del Real Decreto 64/2015, de 6 de febrero. [Ref. BOE-A-2015-1159](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1159).
+
+### Artículo 5. Alegaciones.
+
+Los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones y aportar documentos u otros elementos de juicio. Unos y otros serán tenidos en cuenta al redactar la correspondiente propuesta de resolución.
+
+### Artículo 6. Información pública y trámite de audiencia.
+
+1\. En el procedimiento de reconocimiento de las organizaciones interprofesionales agroalimentarias se realizará un trámite de información pública, mediante la publicación en el portal de internet del Departamento de los documentos recogidos en el artículo 2, a fin de que cualquier persona pueda formular las observaciones que estime oportunas en el plazo de 20 días.
+
+2\. Instruido el procedimiento e inmediatamente antes de redactar la propuesta de resolución, se pondrá de manifiesto tal circunstancia y el contenido del expediente a la organización solicitante o, en su caso, a sus representantes. Estos, en un plazo máximo de quince días, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes. Se podrá prescindir de este trámite de audiencia cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por la organización solicitante.
+
+> Se modifica por el art. único.1 del Real Decreto 188/2026, de 11 de marzo. [Ref. BOE-A-2026-5874](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5874)
+
+### Artículo 7. Propuesta de resolución.
+
+Finalizado el trámite de audiencia, el titular de la Dirección General de la Industria Alimentaria, por conducto del titular de la Secretaría General de Agricultura y Alimentación, elevará a la Ministra de Agricultura, Alimentación y Medio Ambiente la correspondiente propuesta de resolución.
+
+> Se modifica por la disposición final 1.4 del Real Decreto 64/2015, de 6 de febrero. [Ref. BOE-A-2015-1159](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1159).
+
+### Artículo 8. Resolución.
+
+1\. El expediente de reconocimiento de la organización interprofesional agroalimentaria se resolverá mediante orden ministerial en el plazo máximo de cuatro meses a partir del día siguiente a la fecha de entrada de la solicitud en el registro electrónico de la Administración competente para su tramitación.
+
+Dicha resolución se notificará a la organización interprofesional agroalimentaria solicitante, con las razones que la motivan.
+
+2\. Cuando no se haya dictado resolución expresa en el plazo anteriormente establecido, se podrá entender estimada la solicitud. Para su eficacia se requiere la emisión de la certificación prevista en el artículo 44 de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en el plazo de veinte días desde que fue solicitada o que, habiéndose solicitado, no se haya emitido transcurrido dicho plazo.
+
+3\. La resolución por la que se otorga reconocimiento a la organización interprofesional agroalimentaria será publicada en el «Boletín Oficial del Estado».
+
+> Se modifica el apartado 1 por el art. único.2 del Real Decreto 188/2026, de 11 de marzo. [Ref. BOE-A-2026-5874](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5874)
+
+> Se modifica el apartado 1 por la disposición final 1.5 del Real Decreto 64/2015, de 6 de febrero. [Ref. BOE-A-2015-1159](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1159).
+
+### Artículo 9. Revocación del reconocimiento.
+
+1\. El Ministro de Agricultura, Alimentación y Medio Ambiente, de oficio o a instancia de parte, revocará el reconocimiento de aquéllas organizaciones interprofesionales agroalimentarias que incurran en alguno de los supuestos previstos en el artículo 11 de la Ley, previa audiencia de dichas organizaciones e informe del Consejo General de Organizaciones Interprofesionales Agroalimentarias.
+
+2\. La resolución por la que se revoca o retira el reconocimiento de una organización interprofesional agroalimentaria, se notificará a dicha organización, con expresión de las razones que la motivan, y se publicará en el Boletín oficial del Estado a efectos informativos. Asimismo se procederá a inscribir la revocación en el registro de organizaciones interprofesionales agroalimentarias.
+
+3\. La resolución por la que se revoca o retira el reconocimiento de una organización interprofesional agroalimentaria, se notificará a dicha organización, con expresión de las razones que la motivan, y se publicará en el «Boletín Oficial del Estado» a efectos informativos.
+
+> Se modifican la rúbrica y los apartados 1 y 2 por la disposición final 1.6 del Real Decreto 64/2015, de 6 de febrero. [Ref. BOE-A-2015-1159](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1159).
+
+## CAPÍTULO II — Procedimiento para la extensión de normas
+
+### Artículo 10. Iniciación del procedimiento.
+
+Adoptado en el seno de una organización interprofesional agroalimentaria un acuerdo que cuente con el respaldo exigido en el artículo 8.2 de la Ley 38/1994, ésta podrá proponer al Ministerio de Agricultura, Pesca y Alimentación, la extensión de todas o algunas de sus normas al conjunto total de productores y operadores del sector o producto, así como, en su caso, la aportación económica necesaria para su efectividad por parte de aquéllos que no estén integrados en la organización interprofesional agroalimentaria.
+
+La organización interprofesional agroalimentaria dirigirá solicitud al Ministerio de Agricultura, Pesca y Alimentación de la propuesta de extensión de normas y, en su caso, de las aportaciones económicas necesarias para la aplicación del acuerdo, exponiendo los motivos de dicha solicitud y acompañada de los siguientes datos y documentos:
+
+a) Certificación del acta del órgano competente que adoptó el acuerdo de solicitud de extensión de la norma que incluirá el texto íntegro del acuerdo objeto de extensión.
+
+b) Período de vigencia que se propone.
+
+c) Acreditación del porcentaje de respaldo del acuerdo, según lo establecido en el artículo 8, apartado 2, de la Ley 38/1994. Dicho porcentaje, se acreditará conforme al baremo aprobado por el Ministerio de Agricultura, Pesca y Alimentación, al que se refiere el artículo 2 del presente Reglamento.
+
+d) Memoria justificativa y económica que fundamente la extensión de normas, con especificación del destino que se va a dar a los fondos recaudados, así como una distinción clara entre los gastos de funcionamiento de la organización y los gastos de la actividad a la que se dirige la extensión de normas. Las aportaciones de los no miembros únicamente podrán estar dirigidas a financiar estos últimos, y así debe hacerse constar en la memoria.
+
+e) En caso de que el procedimiento para el control y seguimiento de los acuerdos no haya sido establecido en los estatutos de la organización, esta última deberá remitir una certificación del acuerdo de control y seguimiento adoptado al respecto por su órganos de gobierno.
+
+### Artículo 11. Actos de instrucción.
+
+Los actos de instrucción necesarios para el conocimiento y comprobación de los datos en los que se fundamenta la extensión de norma se realizarán por la Dirección General de la Industria Alimentaria.
+
+En todo caso se solicitará a los Departamentos ministeriales que pudieran estar implicados, cuanta información o documentación se considere conveniente.
+
+> Se modifica por la disposición final 1.7 del Real Decreto 64/2015, de 6 de febrero. [Ref. BOE-A-2015-1159](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1159).
+
+### Artículo 12. Informes.
+
+La Dirección General de la Industria Alimentaria solicitará a efectos de extensión de normas, informe del Consejo General de Organizaciones Interprofesionales Agroalimentarias, el cual deberá ser emitido en el plazo máximo de un mes. En todo caso, los proyectos de órdenes de extensión de normas habrán de ser informados por la Secretaría General Técnica del Departamento. Asimismo podrán solicitarse cuántos informes y consultas sean necesarios en el procedimiento de elaboración de los proyectos de órdenes de extensión de normas.
+
+> Se modifica por la disposición final 1.8 del Real Decreto 64/2015, de 6 de febrero. [Ref. BOE-A-2015-1159](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1159).
+
+### Artículo 13. Información pública.
+
+El acuerdo para el que se solicita extensión de normas y, en su caso, las aportaciones económicas correspondientes, se someterá a información pública por la Dirección General de Alimentación mediante publicación en el portal de internet del Ministerio de Agricultura, Pesca y Alimentación, a fin de que cualquier persona pueda presentar las alegaciones que estime pertinentes en el plazo de 20 días.
+
+> Se modifica por el art. único.3 del Real Decreto 188/2026, de 11 de marzo. [Ref. BOE-A-2026-5874](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5874)
+
+> Se modifica por la disposición final 1.9 del Real Decreto 64/2015, de 6 de febrero. [Ref. BOE-A-2015-1159](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1159).
+
+### Artículo 14. Trámite de audiencia y propuesta de resolución.
+
+**(Suprimido)**
+
+> Se suprime por la disposición final 1.10 del Real Decreto 64/2015, de 6 de febrero. [Ref. BOE-A-2015-1159](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1159).
+
+### Artículo 15. Aprobación.
+
+La aprobación de la extensión de normas tendrá lugar mediante Orden del Ministerio de Agricultura, Alimentación y Medio Ambiente, que determinará el período de vigencia del acuerdo que se hace extensivo.
+
+Cuando la materia objeto de extensión de normas esté relacionada con la competencia de varios Departamentos ministeriales, se aprobará mediante orden ministerial conjunta.
+
+> Se modifica por la disposición final 1.11 del Real Decreto 64/2015, de 6 de febrero. [Ref. BOE-A-2015-1159](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1159).
+
+## CAPÍTULO III — Libros, control y seguimiento de las organizaciones interprofesionales agroalimentarias
+
+### Artículo 16. Control y seguimiento.
+
+1\. Las organizaciones interprofesionales agroalimentarias llevarán actualizados los siguientes libros:
+
+a) Libro de Registro de Miembros.
+
+b) Libro de Acuerdos.
+
+El Libro de Registro de Miembros contendrá los datos referentes a los miembros que la integran; fecha de adhesión y retirada; rama profesional en que se encuadran, y acreditación de la representatividad, debidamente actualizada, conforme al baremo aprobado por el Ministerio de Agricultura, Pesca y Alimentación, en el acto de reconocimiento.
+
+El Libro de Acuerdos registrará los acuerdos a que se refiere el artículo 7 de la Ley 38/1994, con expresión del respaldo obtenido por dicho acuerdo medido en tanto por cien de productores y operadores y de producciones afectadas.
+
+Los libros, para los que se admiten procedimientos informáticos, serán habilitados por el Registro de Organizaciones Interprofesionales Agroalimentarias.
+
+2\. El Ministerio de Agricultura, Pesca y Alimentación, en el ámbito de sus competencias, podrá realizar las inspecciones, controles y seguimientos que estime pertinentes.
+
+3\. El control y seguimiento del cumplimiento de los acuerdos deberá hacerse en el seno de la propia organización interprofesional agroalimentaria, a través del procedimiento establecido en sus estatutos o por acuerdo de sus órganos de gobierno, dando cuenta pormenorizada del mismo al Ministerio de Agricultura, Pesca y Alimentación.
+
+4\. La organización interprofesional agroalimentaria podrá denunciar ante los órganos jurisdiccionales y administrativos competentes, los incumplimientos y las actuaciones contrarias a la extensión de norma acordada.
+
+## CAPÍTULO IV — Procedimiento sancionador
+
+### Artículo 17. Iniciación y régimen aplicable.
+
+1\. El incumplimiento de las obligaciones derivadas de la Ley 38/1994, de 30 de diciembre, podrá dar lugar, sin perjuicio de las responsabilidades de otro orden que fueran exigibles, a la apertura del correspondiente expediente por parte del Ministerio de Medio Ambiente, y Medio Rural y Marino.
+
+2\. El procedimiento para la imposición de las sanciones establecidas en la Ley 38/1994, de 30 de diciembre, se ajustará a lo dispuesto en la Ley 39/2015, de 1 de octubre, y en la Ley 40/2015, de 1 de octubre. En los expedientes sancionadores cuya iniciación, de acuerdo con lo previsto en el artículo 18, corresponda a la persona titular de la Dirección General de Alimentación, el plazo máximo para resolver el procedimiento sancionador y notificar la resolución expresa será de seis meses.
+
+> Se modifica el apartado 2 por el art. único.4 del Real Decreto 188/2026, de 11 de marzo. [Ref. BOE-A-2026-5874](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5874)
+
+> Se modifica por el art. único.1 del Real Decreto 1668/2009, de 6 de noviembre. [Ref. BOE-A-2009-17651](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17651).
+
+### Artículo 18. Órganos competentes.
+
+El órgano competente para iniciar el expediente sancionador es el Director General de la Industria Alimentaria, que nombrará instructor al Subdirector General competente por razón de la materia o del sector. En el caso de los sectores oleícolas, lácteos y de aquellos otros que se determinen reglamentariamente, de acuerdo con lo establecido en el apartado 5 de la Disposición adicional primera de la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria, iniciará e instruirá el Director de la Agencia de Información y Control Alimentarios.
+
+> Se modifica por la disposición final 1.12 del Real Decreto 64/2015, de 6 de febrero. [Ref. BOE-A-2015-1159](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1159).
+
+> Se modifica por el art. único.2 del Real Decreto 1668/2009, de 6 de noviembre. [Ref. BOE-A-2009-17651](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17651).
+
+## CAPÍTULO V — Registro de Organizaciones Interprofesionales Agroalimentarias
+
+### Artículo 19. Registro de Organizaciones Interprofesionales Agroalimentarias.
+
+El Registro de Organizaciones Interprofesionales Agroalimentarias dependerá de la Dirección General de Política Alimentaria e Industrias Agrarias y Alimentarias, del Ministerio de Agricultura, Pesca y Alimentación y tendrá carácter público.
+
+### Artículo 20. Inscripciones.
+
+En el Registro de Organizaciones Interprofesionales Agroalimentarias, se efectuarán las inscripciones siguientes:
+
+a) El reconocimiento de la organización interprofesional agroalimentaria, otorgado mediante la correspondiente Orden ministerial.
+
+b) Revocación del reconocimiento de la organización interprofesional agroalimentaria, conforme a lo dispuesto en el artículo 11 de la Ley 38/1994.
+
+c) Suspensión o retirada del reconocimiento como consecuencia de la aplicación de los artículos 12 y 13 y disposición adicional tercera de la Ley 38/1994.
+
+d) Acuerdos adoptados por la organización interprofesional agroalimentaria que se refieran a alguna de las finalidades descritas en el artículo 3 de la Ley 38/1994.
+
+e) Los acuerdos de extensión de normas y, en su caso, de aportaciones económicas, que hayan sido aprobados mediante Orden ministerial.
+
+### Artículo 21. Condiciones de inscripción.
+
+1\. En el supuesto del párrafo a) del artículo anterior, a falta de resolución expresa del procedimiento de reconocimiento, la presentación de la certificación de acto presunto emitida conforme al artículo 44 de la Ley 30/1992, será título bastante para practicar las inscripciones registrales correspondientes.
+
+2\. En el supuesto c) del artículo anterior, la inscripción se realizará una vez que la sanción sea firme en vía administrativa.
+
+3\. En el supuesto d) del artículo anterior, con carácter previo a la inscripción en el Registro, el Ministerio de Agricultura, Pesca y Alimentación podrá constatar que los acuerdos de las organizaciones interprofesionales agroalimentarias, que se refieran a alguna de las finalidades reguladas en el artículo 3 de la Ley 38/1994, se ajustan a las normas y principios recogidos en la Ley 16/1989, de 17 de julio, de Defensa de la Competencia, y a las disposiciones reguladoras de esta materia en el Derecho Comunitario.
+
+4\. La inscripción registral se efectuará en el supuesto contemplado en el párrafo e), una vez publicada en el «Boletín Oficial del Estado» la Orden ministerial correspondiente.
+
+### Artículo 22. Comunicación de las Comunidades Autónomas.
+
+Cuando las Comunidades Autónomas reconozcan en su ámbito territorial, organizaciones interprofesionales agroalimentarias, al amparo de lo dispuesto en la disposición adicional segunda de la Ley 38/1994, comunicarán dicho reconocimiento al Registro de Organizaciones Interprofesionales Agroalimentarias del Ministerio de Agricultura, Pesca y Alimentación, a efectos informativos, así como la revocación o retirada del reconocimiento o cualquier otra incidencia inscrita en su Registro.
+
+## CAPÍTULO VI — Consejo General de Organizaciones Interprofesionales Agroalimentarias
+
+### Artículo 23. Composición.
+
+1\. El Consejo General de Organizaciones Interprofesionales Agroalimentarias, como órgano colegiado adscrito a la Secretaría General de Agricultura del Ministerio de Agricultura, Alimentación y Medio Ambiente, actuará en Pleno y en Comisión Permanente.
+
+2\. El Pleno del Consejo General de Organizaciones Interprofesionales Agroalimentarias estará integrado por:
+
+a) Presidente: El titular de la Secretaría General de Agricultura y Alimentación.
+
+b) Vicepresidente: El titular de la Dirección General de la Industria Alimentaria.
+
+c) Vocales:
+
+Tres representantes del Ministerio de Agricultura, Alimentación y Medio Ambiente, siendo uno de ellos el titular de la Secretaría General Técnica.
+
+Dos representantes del Ministerio de Economía y Competitividad.
+
+Un representante del Ministerio de Sanidad, Servicios Sociales e Igualdad.
+
+Siete representantes de las comunidades autónomas.
+
+Dos vocales por cada una de las organizaciones profesionales agrarias declaradas más representativas en el ámbito estatal.
+
+Dos representantes de las organizaciones de cooperativas agrarias.
+
+Cuatro representantes de las organizaciones de cooperativas pesqueras y de organizaciones de productores pesqueros reconocidas.
+
+Seis representantes de las organizaciones de la industria y del comercio alimentario.
+
+Un representante de las organizaciones de consumidores.
+
+Actuará como Secretario el titular de la Subdirección General de Estructura de la Cadena Alimentaria.
+
+3\. La Comisión Permanente estará integrada por:
+
+a) Presidente: El titular de la Dirección General de la Industria Alimentaria.
+
+b) Vicepresidente: El titular de la Secretaría General Técnica del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+c) Vocales:
+
+Dos representantes del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+Cuatro representantes de las comunidades autónomas.
+
+Un vocal por cada una de organizaciones profesionales agrarias declaradas más representativas en el ámbito estatal.
+
+Un representante de las organizaciones de cooperativas agrarias.
+
+Dos representantes de las organizaciones de cooperativas pesqueras y de organizaciones de productores pesqueros reconocidas.
+
+Tres representantes de las organizaciones de la industria y del comercio agroalimentario.
+
+Actuará como Secretario el Secretario del Consejo.
+
+> Se modifican la letra c) del apartado 2 y la letra c) del apartado 3 por la disposición final 1 de la Ley 1/2025, de 1 de abril. [Ref. BOE-A-2025-6597](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6597)
+
+> Se modifica por la disposición final 1.13 del Real Decreto 64/2015, de 6 de febrero. [Ref. BOE-A-2015-1159](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1159).
+
+> Se modifica por el art. único.1 del Real Decreto 1660/2000, de 29 de septiembre. [Ref. BOE-A-2000-17596](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-17596).
+
+> Redactado el apartado 2.5 y 8 conforme a la corrección de errores publicada en BOE núm. 157, de 2 de julio de 1997. [Ref. BOE-A-1997-14653](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-14653).
+
+### Artículo 24. Del Presidente del Pleno del Consejo.
+
+1\. Corresponderá al Presidente del Pleno del Consejo:
+
+a) Ostentar la representación del órgano.
+
+b) Acordar la convocatoria de las sesiones ordinarias y extraordinarias y la fijación del orden del día, teniendo en cuenta, en su caso, las peticiones de los demás miembros formuladas con la suficiente antelación.
+
+c) Presidir las sesiones y moderar el desarrollo de los debates.
+
+d) Dirimir con su voto los empates a efectos de adoptar acuerdos.
+
+e) Asegurar el cumplimiento de las leyes.
+
+f) Visar las actas y certificaciones de los acuerdos del órgano.
+
+g) Ejercer cuantas otras funciones sean inherentes a su condición de Presidente del órgano.
+
+2\. En casos de vacante, ausencia, enfermedad u otra causa legal, el Presidente será sustituido por el Vicepresidente y, en su defecto, por el miembro que establezca su reglamento de régimen interior.
+
+### Artículo 25. Del Vicepresidente del Pleno del Consejo.
+
+El Vicepresidente del Pleno del Consejo, además de sustituir al Presidente en los casos anteriormente citados, tendrá como funciones aquellas que el Presidente expresamente le delegue.
+
+### Artículo 26. Del Presidente y Vicepresidente de la Comisión Permanente.
+
+Las funciones del Presidente y Vicepresidente de la Comisión Permanente serán, dentro del ámbito funcional de ésta, las mismas que se indican para el Presidente y Vicepresidente del Pleno del Consejo.
+
+### Artículo 27. De los miembros del Consejo.
+
+1\. Corresponde a los miembros del Consejo:
+
+a) Participar en los debates de las sesiones.
+
+b) Ejercer su derecho al voto. No podrán abstenerse en las votaciones quienes por su cualidad de autoridades o personal al servicio de las Administraciones públicas, tengan la condición de miembros del Consejo General.
+
+c) Formular ruegos y preguntas.
+
+d) Obtener información precisa para cumplir las funciones asignadas.
+
+e) Cuantas otras funciones sean inherentes a su condición.
+
+2\. En casos de ausencia o enfermedad y, en general, cuando concurra alguna causa justificada, los miembros titulares serán sustituidos por sus suplentes.
+
+### Artículo 28. Del Secretario.
+
+Corresponde al Secretario del Consejo:
+
+a) Asistir a las reuniones con voz pero sin voto.
+
+b) Efectuar las convocatorias de las sesiones del Consejo y de la Comisión Permanente por orden de su Presidente, así como las citaciones a los miembros del mismo, que deben recibir dichas convocatorias con una antelación mínima de siete días a la fecha de las mismas.
+
+c) Recibir los actos de comunicación de los miembros con el Consejo y con la Comisión Permanente y, por tanto, las notificaciones, peticiones de datos, rectificaciones o cualquiera otra clase de escritos de los que deba tener conocimiento.
+
+d) Preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones.
+
+e) Expedir certificaciones de las consultas, dictámenes y acuerdos aprobados.
+
+f) Cuantas otras funciones sean inherentes a su condición de Secretario.
+
+### Artículo 29. Funciones del Pleno y convocatoria.
+
+1\. Las funciones del Pleno serán:
+
+a) Las que establece el artículo 15.3 de la Ley 38/1994.
+
+b) Informar sobre aquellos asuntos de trascendencia que le sometan las organizaciones interprofesionales agroalimentarias, incluso en la fase previa a su reconocimiento.
+
+c) Aprobar la memoria anual.
+
+d) Regular y aprobar el régimen de organización y funcionamiento interno.
+
+e) Solicitar cuanta información complementaria necesite sobre aquellos asuntos que se le sometan a consulta.
+
+2\. El Pleno se reunirá, previa convocatoria de su Presidente, a iniciativa propia o a propuesta de la Comisión Permanente. El Pleno celebrará como mínimo una sesión al año.
+
+### Artículo 30. Funciones de la Comisión Permanente y convocatoria.
+
+1\. Las funciones de la Comisión Permanente serán las siguientes:
+
+a) Adoptar las medidas necesarias para la aplicación de las líneas generales de actuación del Consejo aprobadas por el Pleno.
+
+b) Decidir la tramitación de las consultas y propuestas formuladas al Consejo.
+
+c) Proponer la contratación de consultas o dictámenes externos, bien a iniciativa propia o a propuesta del Presidente.
+
+d) Elevar al Presidente la propuesta de fijación de orden del día de las sesiones del Pleno y la fecha de su celebración.
+
+e) Solicitar la convocatoria de sesiones del Pleno, que deberá ser convocada por el Presidente o Vicepresidente.
+
+f) Fijar las directrices y disponer lo necesario para la elaboración del borrador de la memoria anual para su aprobación y elevación al Pleno.
+
+g) Recopilación y tratamiento de cuanta información y documentación sean necesarias para la elaboración de los informes a emitir por el Pleno.
+
+h) Seguimiento de los informes y dictámenes emitidos por el Pleno.
+
+i) Emitir los dictámenes que expresen el parecer del Consejo cuando el Pleno le hubiera delegado tal atribución.
+
+j) Cuantas otras funciones les sean otorgadas por el Pleno.
+
+2\. La Comisión Permanente se reunirá cuando su Presidente lo estime conveniente y, al menos, una vez cada seis meses.
+
+### Artículo 31. Nombramiento y cese.
+
+1\. Los miembros del Consejo serán nombrados por el presidente del Consejo, por un período de cuatro años de acuerdo con las siguientes normas:
+
+a) Los Vocales representantes de la Administración General del Estado, miembros titulares del Consejo, que tendrán rango al menos de Director General, serán propuestos por los respectivos Subsecretarios de los Departamentos representados.
+
+b) Los representantes de las comunidades autónomas serán propuestos por sus respectivas Administraciones. El derecho a representación para cada período de las comunidades autónomas se ejercerá de acuerdo con los siguientes criterios:
+
+1.º Las dos comunidades autónomas con mayor aportación al producto interior bruto (PIB) agroalimentario nacional.
+
+2.º Las dos comunidades autónomas con mayor importancia relativa medida en PIB agroalimentario, para todos aquellos sectores en los que haya reconocidas organizaciones interprofesionales agroalimentarias y no estén incluidas en el supuesto previsto en el párrafo a).
+
+3.º La comunidad autónoma con mayor aportación al PIB pesquero nacional no incluida en los supuestos previstos en los párrafos a) y b) anteriores.
+
+4.º Las dos comunidades autónomas que no hubieran estado representadas en el Consejo en períodos anteriores, atendiendo a los criterios previstos en los párrafos anteriores y siguiendo el orden alfabético en castellano.
+
+c) Los representantes de las diversas organizaciones representativas serán propuestos por aquellas entidades que al respecto se determine, en función de su representatividad.
+
+d) Cada Vocal tendrá un suplente que será propuesto y nombrado en la misma forma que el titular.
+
+> Se modifica por la disposición final 1.14 del Real Decreto 64/2015, de 6 de febrero. [Ref. BOE-A-2015-1159](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1159).
+
+> Se modifica el apartado 1.2 por el art. único.2 del Real Decreto 1660/2000, de 29 de septiembre. [Ref. BOE-A-2000-17596](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-17596).
+
+### Artículo 32. Funcionamiento del Consejo General de Organizaciones Interprofesionales Agroalimentarias.
+
+Sin perjuicio de las peculiaridades previstas en el presente Reglamento, el Consejo General de Organizaciones Interprofesionales Agroalimentarias ajustará su funcionamiento a lo dispuesto en el capítulo II del Título II de la Ley 30/1992.
+
+### Artículo 33. Recursos y medios.
+
+El Ministerio de Agricultura, Pesca y Alimentación facilitará al Consejo General de Organizaciones Interprofesionales Agroalimentarias, los recursos humanos, materiales y económicos necesarios para su funcionamiento.

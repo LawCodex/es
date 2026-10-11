@@ -1,0 +1,4637 @@
+---
+title: "Real Decreto 1338/2018, de 29 de octubre, por el que se regula el potencial de producción vitícola"
+identifier: "BOE-A-2018-14803"
+eli: "https://www.boe.es/eli/es/rd/2018/10/29/1338"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2018-10-29
+published: 2018-10-30
+in_force_from: 2018-10-31
+last_amended: 2026-08-27
+consolidated: 2026-08-27
+gazette: "Boletín Oficial del Estado núm. 262"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-14803"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1338/2018, de 29 de octubre, por el que se regula el potencial de producción vitícola
+
+Téngase en cuenta las previsiones establecidas por el Real Decreto 785/2023, de 17 de octubre, por el que se desarrollan determinadas disposiciones de la Unión Europea que establecen medidas para responder a problemas específicos en los sectores de frutas y hortalizas y vitivinícola causados por fenómenos meteorológicos adversos y por las perturbaciones del mercado. [Ref. BOE-A-2023-21476](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-21476)
+
+El Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 y (CE) n.º 1234/2007, establece un nuevo sistema para la gestión de plantaciones de viñedo en el ámbito de la Unión Europea basado en autorizaciones.
+
+Además, el Reglamento Delegado (UE) n.º 2015/560 de la Comisión, de 15 de diciembre, por el que se completa el Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo en lo que respecta al régimen de autorizaciones para plantaciones de vid y el Reglamento de Ejecución (UE) n.º 2015/561 de la Comisión, de 7 de abril de 2015, por el que se establecen disposiciones de aplicación del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo en lo que respecta al régimen de autorizaciones para plantaciones de vid, complementan esta normativa.
+
+Así, el artículo 63 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre, prevé un mecanismo de salvaguardia para nuevas plantaciones, en virtud del cual cada año se deben poner a disposición autorizaciones para nuevas plantaciones correspondientes al 1 % de la superficie plantada de viñedo, pero se da la posibilidad de aplicar un porcentaje menor a nivel nacional si se justifica debidamente. El artículo 64 de dicho Reglamento establece las normas relativas a la concesión de autorizaciones para nuevas plantaciones y fija los criterios de admisibilidad y prioridad que los Estados miembros pueden aplicar, estableciendo también las normas en el marco de la Unión relativas al procedimiento que deben seguir los Estados miembros en relación con las decisiones sobre el mecanismo de salvaguardia y la elección de criterios de admisibilidad y prioridad. Conviene desarrollar la aplicación de estas disposiciones. Se regulan además los aspectos relativos a las autorizaciones por replantación de viñedo y a las conversiones de derechos de plantación en autorizaciones que estén ya concedidos a 31 de diciembre de 2015. Hay que destacar que una de las novedades del nuevo régimen normativo de la Unión Europea es que ya no se pueden realizar transferencias de autorizaciones, salvo en casos muy específicos, lo que debe tener reflejo en la normativa española.
+
+Para la aplicación en el Reino de España de la normativa comunitaria sobre el sistema de autorizaciones de plantaciones de viñedo, se dictó el Real Decreto 772/2017, de 28 de julio, por el que se regula el potencial de producción vitícola.
+
+El Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre ha sido modificado por el Reglamento (UE) n.º 2017/2393, del Parlamento Europeo y del Consejo, de 13 de diciembre de 2017, por el que se modifican los Reglamentos (UE) n.º 1305/2013 relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER), (UE) n.º 1306/2013 sobre la financiación, gestión y seguimiento de la política agrícola común, (UE) n.º 1307/2013 por el que se establecen normas aplicables a los pagos directos a los agricultores en virtud de los regímenes de ayuda incluidos en el marco de la política agrícola común, (UE) n.º 1308/2013 por el que se crea la organización común de mercados de los productos agrarios y (UE) n.º 652/2014 por el que se establecen disposiciones para la gestión de los gastos relativos a la cadena alimentaria, la salud animal y el bienestar de los animales, y relativos a la fitosanidad y a los materiales de reproducción vegetal, introduciendo cambios en algunas disposiciones sobre el sistema de autorizaciones de viñedo.
+
+Dado que este Reglamento del Parlamento Europeo y del Consejo introduce nuevas disposiciones en la concesión de autorizaciones de nuevas plantaciones, en especial sobre la posibilidad de aplicar un nuevo criterio de admisibilidad, añadir la condición de joven a algún criterio de prioridad y de aplicar un límite máximo de superficie admisible por solicitante, conviene modificar la normativa nacional para permitir su aplicación en el Reino de España.
+
+Posteriormente, los Reglamentos de desarrollo de la Comisión han sido substituidos por el Reglamento Delegado (UE) n.º 2018/273 de la Comisión, de 11 de diciembre 2017, por el que se completa el Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo en lo que atañe al régimen de autorizaciones para plantaciones de vid, el registro vitícola, los documentos de acompañamiento, la certificación, el registro de entradas y salidas, las declaraciones obligatorias, las notificaciones y la publicación de la información notificada, y por el que se completa el Reglamento (UE) n.º 1306/2013 del Parlamento Europeo y del Consejo en lo que atañe a los controles y sanciones pertinentes, por el que se modifican los Reglamentos (CE) n.º 555/2008, (CE) n.º 606/2009 y (CE) n.º 607/2009 de la Comisión y por el que se derogan el Reglamento (CE) n.º 436/2009 de la Comisión y el Reglamento Delegado (UE) n.º 2015/560 de la Comisión, y el Reglamento de Ejecución (UE)n.º 2018/274 de la Comisión, de 11 de diciembre de 2017, por el que se establecen las normas de desarrollo del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo en lo que respecta al régimen de autorizaciones para plantaciones de vid, la certificación, el registro de entradas y salidas, las declaraciones obligatorias y las notificaciones, y del Reglamento (UE) n.º 1306/2013 del Parlamento Europeo y del Consejo en lo que respecta a los controles pertinentes, y por el que se deroga el Reglamento de Ejecución (UE) n.º 2015/561 de la Comisión.
+
+Dado que estos reglamentos modifican algunas definiciones y aspectos relativos al potencial productivo vitícola es conveniente por ello modificar la normativa nacional.
+
+Asimismo, dada la experiencia adquirida en la aplicación de dicha norma, corresponde establecer ciertas modificaciones en la misma, en especial en lo que se refiere a requisitos y baremación de las solicitudes de nuevas autorizaciones de plantación.
+
+Como quiera que se modifican diversos preceptos, por seguridad jurídica, se ha optado por un nuevo real decreto. Así, en el articulado se añaden las menciones a los artículos correspondientes del Reglamento (UE) n.º 2017/2393, del Parlamento Europeo y del Consejo, de 13 de diciembre de 2017, del Reglamento Delegado (UE) n.º 2018/273 de la Comisión, de 11 de diciembre de 2017, y del Reglamento de Ejecución (UE) n.º 2018/274 de la Comisión, de 11 de diciembre de 2017, y se modifican parcialmente los artículos 3, 6, 7, 8, 9, 10, 12, 14, 16, 17, 27 y 29, la Disposición adicional primera, la Disposición adicional segunda, la Disposición transitoria única, la Disposición derogatoria única, y la Disposición final segunda.
+
+Este real decreto se dicta al amparo de la competencia estatal en materia de bases y coordinación de la planificación general de la actividad económica, prevista en el artículo 149.1.13.ª de nuestra Constitución, y de la habilitación para el desarrollo y ejecución de la Ley 24/2003, de 10 de julio, de la Viña y el Vino incluida en la disposición final primera de dicha norma legal.
+
+El régimen de autorizaciones de viñedo no se aplicará en las Islas Canarias, ya que desde el 31 de diciembre de 2012 no se aplicaba el régimen transitorio de derechos de plantación de viñedo dispuesto en el artículo 25 (3) del Reglamento (UE) n.º 228/2013 del Parlamento Europeo y del Consejo, de 13 de marzo por el que se establecen medidas específicas en el sector agrícola en favor de las regiones ultraperiféricas de la Unión.
+
+La regulación que se contiene en este real decreto se ajusta a los principios contemplados en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Así, de acuerdo con los principios de necesidad y eficacia, se justifica esta norma en la necesidad de establecer una ordenación adecuada del sector vitivinícola. Se cumple el principio de proporcionalidad y la regulación se limita al mínimo imprescindible para aplicar la normativa de la Unión Europea, no estableciéndose autorizaciones más allá de lo previsto en la misma. En aplicación del principio de eficiencia, se limitan las cargas administrativas a las imprescindibles para la consecución de los fines descritos, siempre dentro del marco de la Unión Europea. En aplicación del principio de trasparencia, además de la audiencia pública, durante la tramitación de esta disposición han sido consultadas las comunidades autónomas, así como las entidades representativas de los sectores afectados. Y, en función el principio de seguridad jurídica, se deroga el Real Decreto 772/2017, de 28 de julio.
+
+En la elaboración de esta disposición se ha realizado la consulta a las comunidades autónomas y al sector, y la audiencia pública.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, con la aprobación previa de la Ministra de Política Territorial y Función Pública, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 26 de octubre de 2018,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Objeto.
+
+Este real decreto tiene como objeto establecer la normativa básica en materia de potencial vitivinícola necesaria para el desarrollo del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 y (CE) n.º 1234/2007; así como del Reglamento (CE) n.º 555/2008 de la Comisión, de 27 de junio de 2008, por el que se establecen normas de desarrollo del Reglamento (CE) n.º 479/2008 del Consejo, por el que se establece la organización común del mercado vitivinícola, en lo relativo a los programas de apoyo, el comercio con terceros países, el potencial productivo y los controles en el sector vitivinícola; del Reglamento (UE) n.º 2017/2393, del Parlamento Europeo y del Consejo, de 13 de diciembre de 2017, por el que se modifican los Reglamentos (UE) n.º 1305/2013 relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER), (UE) n.º 1306/2013 sobre la financiación, gestión y seguimiento de la política agrícola común, (UE) n.º 1307/2013 por el que se establecen normas aplicables a los pagos directos a los agricultores en virtud de los regímenes de ayuda incluidos en el marco de la política agrícola común, (UE) n.º 1308/2013 por el que se crea la organización común de mercados de los productos agrarios y (UE) n.º 652/2014 por el que se establecen disposiciones para la gestión de los gastos relativos a la cadena alimentaria, la salud animal y el bienestar de los animales, y relativos a la fitosanidad y a los materiales de reproducción vegetal; del Reglamento Delegado (UE) n.º 2018/273 de la Comisión, de 11 de diciembre 2017, por el que se completa el Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo en lo que atañe al régimen de autorizaciones para plantaciones de vid, el registro vitícola, los documentos de acompañamiento, la certificación, el registro de entradas y salidas, las declaraciones obligatorias, las notificaciones y la publicación de la información notificada, y por el que se completa el Reglamento (UE) n.º 1306/2013 del Parlamento Europeo y del Consejo en lo que atañe a los controles y sanciones pertinentes, por el que se modifican los Reglamentos (CE) n.º 555/2008, (CE) n.º 606/2009 y (CE) n.º 607/2009 de la Comisión y por el que se derogan el Reglamento (CE) n.º 436/2009 de la Comisión y el Reglamento Delegado (UE) 2015/560 de la Comisión; y del Reglamento de Ejecución (UE) n.º 2018/274 de la Comisión, de 11 de diciembre de 2017, por el que se establecen las normas de desarrollo del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo en lo que respecta al régimen de autorizaciones para plantaciones de vid, la certificación, el registro de entradas y salidas, las declaraciones obligatorias y las notificaciones, y del Reglamento (UE) n.º 1306/2013 del Parlamento Europeo y del Consejo en lo que respecta a los controles pertinentes, y por el que se deroga el Reglamento de Ejecución (UE) n.º 2015/561 de la Comisión.
+
+#### Artículo 2. Ámbito de aplicación.
+
+1\. Las disposiciones contenidas en este real decreto serán de aplicación únicamente al viñedo destinado a la producción de uva de vinificación.
+
+2\. El régimen de autorizaciones de viñedo no será de aplicación en la Comunidad Autónoma de las Islas Canarias.
+
+#### Artículo 3. Definiciones.
+
+1\. A los efectos de este real decreto serán de aplicación las definiciones establecidas en el Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre.
+
+2\. Asimismo, se entenderá como:
+
+a) “Viticultor”: la persona física o jurídica, o agrupación de personas físicas o jurídicas, con independencia de la forma jurídica de la agrupación o de sus miembros, que tenga a su disposición una superficie plantada de viñedo, en propiedad, o en régimen de arrendamiento o aparcería, o cualquier otra forma conforme a Derecho que pueda demostrar mediante documento liquidado de los correspondientes tributos, cuya vendimia se utilice para la producción comercial de productos vitivinícolas, o la superficie se beneficie de las excepciones para fines experimentales, para el establecimiento de colecciones de variedades de vid destinadas a la conservación de los recursos genéticos o para el cultivo de viñas madres de injertos contempladas en el artículo 3.2, del Reglamento Delegado (UE) 2018/273 de la Comisión, de 11 de diciembre de 2017. La persona física o jurídica ya inscrita en el Registro vitícola como viticultor de una superficie plantada de viñedo antes de la fecha de entrada en vigor de dicho reglamento se considera incluida en esta definición.
+
+b) «Propietario»: la persona física o jurídica o agrupación de personas físicas o jurídicas, con independencia de la forma jurídica de la agrupación o de sus miembros, o ente sin personalidad jurídica, que ostenta el derecho real de propiedad sobre la parcela donde se encuentra el viñedo.
+
+c) «Titular de autorización»: la persona que tiene inscrita la autorización a su nombre en el Registro Vitícola.
+
+d) «Titular de arranque»: Viticultor a cuyo nombre se emite la resolución de arranque.
+
+e) «Autoridad competente»: el órgano competente de la comunidad autónoma para la tramitación y resolución de los procedimientos contemplados en el presente real decreto.
+
+f) «Nueva plantación»: Las plantaciones para las que se concede una autorización de acuerdo al porcentaje de la superficie plantada de viñedo a 31 de julio del año anterior, que se pone anualmente a disposición de conformidad con el artículo 63 del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre.
+
+g) «Arranque»: la eliminación total de todas las cepas que se encuentren en una superficie plantada de vid. Este arranque incluye la eliminación tanto del portainjerto como de la parte aérea de la planta.
+
+h) «Plantación no autorizada»: plantación de viñedo realizada sin autorización, o plantación de viñedo realizada con autorizaciones de nuevas plantaciones cuando el solicitante haya creado condiciones artificiales para su concesión.
+
+i) «Titular del derecho de plantación»: la persona que tiene inscrito el derecho de plantación a su nombre en el Registro Vitícola antes del 31 de diciembre de 2015.
+
+j) «Variedad de uva de vinificación»: variedad de vid cultivada, de forma habitual, para la producción de uva destinada a la elaboración de vinos de consumo humano.
+
+k) “Portainjerto”: variedad de vid cultivada para la producción de material vegetativo de vid y de la que se obtenga la parte subterránea de la planta.
+
+l) «Superficie agraria»: la definida en el artículo 4.1.e) del Reglamento (UE) n.º 1307/2013 del Parlamento Europeo y del Consejo de 17 de diciembre de 2013, por el que se establecen normas aplicables a los pagos directos a los agricultores en virtud de regímenes de ayudas incluidos en el marco de la Política Agraria Común y por el que se derogan los Reglamentos (CE) n.º 637/2008 y (CE) n.º 73/2009 del Consejo.
+
+m) «Nuevo viticultor»: conforme a la 64.2.a) del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre, se entenderá como nuevo viticultor la persona que plante vides por primera vez y esté establecido en calidad de jefe de explotación.
+
+n) «Explotación»: la definida en el artículo 4.1.b) del Reglamento (UE) n.º 1307/2013 del Parlamento Europeo y del Consejo de 17 de diciembre de 2013, por el que se establecen normas aplicables a los pagos directos a los agricultores en virtud de regímenes de ayudas incluidos en el marco de la Política Agraria Común y por el que se derogan los Reglamentos (CE) n.º 637/2008 y (CE) n.º 73/2009 del Consejo.
+
+o) “Parcela vitícola”: superficie continua de terreno plantada de viñedo, cultivada por un viticultor y destinada a la producción comercial de productos vitivinícolas o que se beneficia de las excepciones para fines experimentales, para el establecimiento de colecciones de variedades de vid destinadas a la conservación de los recursos genéticos o para el cultivo de viñas madres de injertos contempladas en el artículo 3.2 del Reglamento Delegado n.º 2018/273, de la Comisión, de 11 de diciembre de 2017.
+
+p) «Superficie vitícola abandonada»: una superficie plantada de viñedo que desde hace más de cinco años ya no está sujeta a un cultivo regular para obtener un producto comercializable, sin perjuicio de los casos específicos definidos por las comunidades autónomas, cuyo arranque ya no da derecho al productor a obtener una autorización de replantación de conformidad con el artículo 66 del Reglamento (UE) n.º 1308/2013.
+
+q) «Productos vitivinícolas»: los productos enumerados en el anexo I, parte XII, del Reglamento (UE) n.º 1308/2013, excepto el vinagre de vino de los códigos NC 2209 00 11 y 2209 00 19.
+
+r) “Colección de variedades de vid”: una parcela de viñedo plantada con múltiples variedades de vino de vid en la que cada variedad no cuenta con más de 50 plantas.
+
+> Se modifican las letras a), k) y o) y se añade la r) por el art. único.1 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+## CAPÍTULO II — Régimen de autorizaciones para plantaciones de viñedo a partir del 1 de enero de 2016
+
+#### Artículo 4. Régimen de autorizaciones para plantaciones de viñedo.
+
+1\. Desde el 1 de enero de 2016, las plantaciones de viñedo de uva de vinificación pueden plantarse o replantarse únicamente si se concede una autorización de conformidad con las condiciones establecidas en el Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo de 17 de diciembre de 2013, en el Reglamento (UE) n.º 2017/2393, del Parlamento Europeo y del Consejo, de 13 de diciembre de 2017, el Reglamento de Ejecución (UE) n.º 2018/274, de la Comisión, de 11 de diciembre de 2017, el Reglamento Delegado n.º 2018/273 de la Comisión, de 11 de diciembre de 2017, y en el presente real decreto.
+
+2\. Las autorizaciones de plantación concedidas en virtud del presente real decreto se entenderán sin perjuicio del debido cumplimiento, para el ejercicio de la plantación, del resto de normativa aplicable, en especial en materia vitivinícola, medioambiental, de sanidad vegetal y de plantas de vivero.
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 684/2026, de 26 de agosto. [Ref. BOE-A-2026-18205](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18205)
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 111/2022, de 8 de febrero de 2022. [Ref. BOE-A-2022-2058](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2058)
+
+> Téngase en cuenta para su aplicación la disposición final única del citado Real Decreto.
+
+#### Artículo 5. Superficies exentas del régimen de autorizaciones para plantaciones de viñedo.
+
+1\. En virtud del artículo 3 del Reglamento Delegado (UE) n.º 2018/273, de la Comisión, de 11 de diciembre de 2017, la uva producida en superficies destinadas a fines experimentales, para el establecimiento de colecciones de variedades de vid destinadas a la conservación de los recursos genéticos o al cultivo de viñas madres de injertos, y los productos vinícolas obtenidos en dichos supuestos, no podrán comercializarse durante los periodos en que tenga lugar el experimento, el establecimiento de colecciones de variedades de vid destinadas a la conservación de recursos genéticos o el periodo de producción de viñas madres de injertos.
+
+Al término de dichos períodos, el productor deberá:
+
+a) Obtener una autorización de conformidad con los artículos 64, 66 o 68 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, para la superficie de que se trate, de manera que puedan comercializarse la uva producida en esa superficie y los productos vitivinícolas obtenidos a partir de esa uva; o
+
+b) Arrancar esa superficie, asumiendo el coste, de conformidad con el artículo 71.1, del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013.
+
+2\. Para beneficiarse de estas excepciones se deberá contar con el permiso de la autoridad competente de la comunidad autónoma de ubicación de la plantación por un periodo concreto de tiempo. La concesión del permiso estará sujeta, en el caso del establecimiento de colecciones de variedades de vid destinadas a la conservación de los recursos genéticos, a que el objeto de la misma sea la preservación de los recursos genéticos de las variedades de vid típicas de una determinada comunidad autónoma y a que la superficie de cada colección no supere las 2 hectáreas.
+
+3\. Las comunidades autónomas inscribirán dichas superficies en el registro vitícola y realizarán los controles sobre el terreno sistemáticos establecidos por el artículo 31.2.c) del Reglamento de Ejecución (UE) 2018/274 de la Comisión, de 11 de diciembre de 2017, pudiendo requerir a los titulares de las mismas toda aquella información necesaria para conceder el permiso y para realizar el control de la no comercialización de la producción de las mismas.
+
+4\. Las comunidades autónomas sancionarán a los titulares que incumplan la prohibición de la comercialización de la producción de las superficies exentas conforme al artículo 39.1.l) de la Ley 24/2003, de 10 de julio, de la Viña y el Vino.
+
+5\. En virtud de lo establecido en el artículo 3.3 del Reglamento Delegado (UE) 2018/273, de la Comisión, de 11 de diciembre de 2017, la plantación o replantación de superficies cuyo vino o cuyos productos vitícolas estén destinados exclusivamente al autoconsumo de la explotación de la persona física o grupo de personas físicas estará sujeta a las siguientes condiciones:
+
+a) Esa superficie no exceda de 0,1 ha;
+
+b) La persona física o grupo de personas físicas de que se trate no se dedique a la producción de vino o de otros productos vitivinícolas con fines comerciales en ninguna de sus superficies plantadas de viñedo.
+
+Las comunidades autónomas podrán decidir que estas superficies para autoconsumo estén sujetas a comunicación previa.
+
+En caso de que la persona natural o grupo de personas naturales quiera comercializar la producción de la superficie referida en el primer párrafo deberá obtener una autorización de nueva plantación de viñedo por 0,1 ha y ya no podrá disfrutar de ninguna exención para autoconsumo.
+
+6\. En virtud de lo establecido en el artículo 4 del Reglamento Delegado (UE) 2018/273, de la Comisión, de 11 de diciembre de 2017, un productor que haya perdido una determinada superficie plantada de vid como resultado de expropiaciones por causa de utilidad pública o interés social al amparo de la Ley de 16 de diciembre de 1954 sobre expropiación forzosa, tendrá derecho a plantar una nueva superficie, siempre que esa superficie plantada no exceda del 105 % de la superficie perdida en términos de cultivo puro. Las comunidades autónomas inscribirán la superficie nuevamente plantada en el registro vitícola.
+
+En cualquier caso, para poder hacer uso de esta potestad, el viñedo expropiado debe estar inscrito en Registro Vitícola en una situación que implique que está legalmente establecido, siendo la superficie que figura en el Registro Vitícola la que se tendrá en cuenta para el control de la superficie plantada. Asimismo, en el momento de hacer uso de esta potestad, el viñedo expropiado ha de estar previamente arrancado.
+
+7\. El arranque de las superficies que se beneficien de la excepción a que se refieren los apartados 1 y 5 de este artículo no dará lugar a una autorización de replantación en virtud del artículo 66 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013. No obstante, dicha autorización se concederá en caso de arranque de superficies objeto de nuevas plantaciones al amparo de la excepción a que se refiere el apartado 6 de este artículo.
+
+> Se modifican los apartados 2 y 3 por el art. único.1 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+> Se modifica por el art. único.2 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+### *Sección 1.ª Nuevas plantaciones*
+
+#### Artículo 6. Autorizaciones para nuevas plantaciones.
+
+1\. Para cada año, el Ministerio de Agricultura, Pesca y Alimentación fijará la superficie que se podrá conceder para autorizaciones para nuevas plantaciones, antes del 30 de diciembre del año anterior, y que deberá ser como máximo del 1 % en el ámbito nacional de la superficie plantada de viñedo a 31 de julio del año anterior.
+
+2\. Se podrá limitar la superficie disponible para autorizaciones en la zona geográfica delimitada de una denominación de origen protegida.
+
+3\. Para la determinación de los apartados 1 y 2, se deberán tener en cuenta los motivos recogidos en el artículo 63.3 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, y deberán basarse en:
+
+a) Un análisis de las perspectivas de mercado.
+
+b) Una previsión del impacto de las nuevas superficies que van a entrar en producción y de los derechos de plantación y autorizaciones concedidas todavía sin ejercer.
+
+c) Las recomendaciones de las organizaciones profesionales representativas que se realicen sobre los apartados 1 y 2 según lo establecido en el artículo 7.
+
+En caso de que del resultado del análisis de los elementos recogidos en las letras a), b) y c) se concluyera que la superficie a conceder para autorizaciones de nuevas plantaciones obtenida al aplicar el 1 % a la superficie plantada de viñedo del año anterior fuera insuficiente para garantizar un crecimiento sostenible, dicha superficie se calcularía aplicando el 1 % a la superficie plantada de viñedo de 1.026.066 hectáreas.
+
+Asimismo, si, calculada de la forma mencionada en el párrafo anterior, la superficie a poner a disposición para la concesión de autorizaciones de nuevas plantaciones para cada año hasta 2025, siguiera siendo insuficiente a la luz del análisis de los elementos a), b) y c), se podría ampliar de forma adicional en lo necesario, con la superficie de derechos de replantación que no fueron convertidos a 31 de diciembre de 2022, disponible para ese año de acuerdo al artículo 20.4 de este real decreto.
+
+4\. Antes de la fecha establecida en el apartado 1, el Ministerio de Agricultura, Pesca y Alimentación hará pública, mediante Resolución de la Dirección General de Producciones y Mercados Agrarios que se publicará en el “Boletín Oficial del Estado”, la decisión sobre el apartado 1, que deberá ser aplicada a la concesión de autorizaciones de ese año para nuevas plantaciones. Asimismo, se harán públicas, a través de la página web de dicho Ministerio, todas las recomendaciones realizadas con base en el artículo 7.
+
+> Se modifican los apartados 1 y 2 por el art. único.2 del Real Decreto 684/2026, de 26 de agosto. [Ref. BOE-A-2026-18205](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18205)
+
+> Se modifica por el art. único.3 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+#### Artículo 7. Recomendaciones sobre limitaciones a nuevas plantaciones.
+
+1\. En virtud del artículo 65 del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre, podrán realizar recomendaciones sobre los apartados 1 y 2 del artículo 6, las Organizaciones Interprofesionales que operen en el sector vitivinícola reconocidas de acuerdo con el artículo 157 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre, además de las que estén reconocidas de acuerdo a la legislación nacional y autonómica, así como los órganos de gestión de las Denominaciones de Origen Protegidas.
+
+2\. Las recomendaciones realizadas deberán ir precedidas de un acuerdo entre las partes representativas relevantes de la zona geográfica que se trate, y estar debidamente justificadas con base en un estudio sobre la existencia de un riesgo claramente demostrado de oferta excesiva de productos vinícolas en relación con las perspectivas de mercado para esos productos, o un riesgo bien demostrado de devaluación de una Denominación de Origen Protegida (DOP); o el deseo de contribuir al desarrollo de los productos en cuestión mientras se preserva su calidad.
+
+En la referida justificación podrá mencionarse si se han aplicado medidas de intervención en la oferta del producto de dicha DOP.
+
+Cuando una parte representativa relevante formule un parecer discrepante con dicho acuerdo podrá manifestar en un escrito las razones de dicha discrepancia, que habrá de acompañar al acuerdo para su valoración por la autoridad que haya de tomar la decisión.
+
+A estos efectos, para las recomendaciones presentadas por los Consejos Reguladores de las Denominaciones de Origen Protegidas de carácter supraautonómico, se entenderá que existe el acuerdo mencionado en el párrafo primero cuando la recomendación se realice con la aprobación del pleno del órgano de gestión de la Denominación de Origen Protegida supraautonómica siempre que ésta se haya constituido como Corporación de derecho público de acuerdo con la Ley 6/2015, de 12 de mayo, de Denominaciones de Origen e Indicaciones Geográficas Protegidas de ámbito territorial supraautonómico. Se entenderá por “zona geográfica de que se trate” la totalidad de la zona geográfica delimitada en el pliego de condiciones de la DOP en cuestión.
+
+3\. Las recomendaciones, acompañadas de la documentación a que se refiere el apartado 2, deberán contener la información mínima indicada en el anexo I.A y I.B.1, y se remitirán, antes del 1 de noviembre del año anterior al que se pretenda surtan efectos en las autorizaciones concedidas, al órgano de la autoridad competente que tomará la decisión sobre las misma, que será:
+
+a) El Ministerio de Agricultura, Pesca y Alimentación para las recomendaciones de limitación de autorizaciones de nueva plantación en el ámbito nacional, y para las recomendaciones de limitación de autorizaciones de nueva plantación en el ámbito de una DOP supraautonómica.
+
+b) La comunidad autónoma para las recomendaciones de limitación de autorizaciones de nueva plantación en el ámbito de una DOP que sólo se ubique en su territorio.
+
+4\. El Ministerio de Agricultura, Pesca y Alimentación enviará la documentación presentada en una recomendación de limitación según la letra a) del apartado anterior, a las comunidades autónomas dónde esté ubicada la DOP supraautonómica. Las comunidades autónomas remitirán un informe, que no será vinculante, en relación con dichas recomendaciones al Ministerio de Agricultura, Pesca y Alimentación, a más tardar el 20 de noviembre.
+
+5\. La comunidad autónoma que reciba una recomendación según la letra b) del apartado 3, comunicará al Ministerio de Agricultura, Pesca y Alimentación, a más tardar el 20 de noviembre, la siguiente información:
+
+a) Un certificado firmado por el titular de la Dirección General competente en la materia, de que la documentación analizada de la recomendación incluye toda la información exigida en el anexo I.B.1.
+
+b) Resolución del titular de la Dirección General competente por la que se adopta la decisión sobre la recomendación.
+
+c) Informe justificativo de dicha decisión con base en los motivos recogidos en el artículo 63.3 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre.
+
+6\. El órgano de la autoridad competente que reciba la recomendación observará el procedimiento establecido en los artículos 68 y siguientes de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+7\. Las decisiones sobre las recomendaciones de limitaciones en DOPs supraautonómicas serán publicadas, antes del 30 de diciembre del año anterior en el que se vayan a aplicar, mediante resolución de la Dirección General de Producciones y Mercados Agrarios y serán de aplicación desde el día de su publicación.
+
+Igualmente, mediante dicha resolución se harán púbicas las decisiones adoptadas por las comunidades autónomas respecto de las recomendaciones previstas en el apartado 3.b), que serán igualmente de aplicación desde la publicación de la citada resolución en el “Boletín Oficial del Estado”.
+
+8\. Las recomendaciones podrán tener una duración de hasta tres años. En caso de que quisiera modificarse una recomendación realizada para un periodo mayor a un año, deberá comunicarse antes del 1 de noviembre del año anterior al que se pretenda modificar dicha recomendación, mediante la presentación de la información solicitada en el anexo I.A y I.B.1 del presente real decreto.
+
+> Se modifican los apartados 2, 3, 4 y 7 por el art. único.4 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 664/2022, de 1 de agosto. [Ref. BOE-A-2022-12928](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12928)
+
+> Se modifica el apartado 7 por el art. único.2 del Real Decreto 111/2022, de 8 de febrero de 2022. [Ref. BOE-A-2022-2058](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2058)
+
+> Téngase en cuenta para su aplicación la disposición final única del citado Real Decreto.
+
+> Se declara la nulidad de los apartados 3, 4 y 7, en la redacción dada por el art. único.1 del Real Decreto 536/2019, de 20 de septiembre, nuevamente modificado en 2020 el apartado 7 como establece el fundamento jurídico tercero, por Sentencia del TS de 16 de diciembre de 2020. [Ref. BOE-A-2021-1858](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1858)
+
+> Se modifica el apartado 7 por el art. 3.1 del Real Decreto 558/2020, de 9 de junio. [Ref. BOE-A-2020-5899](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5899)
+
+> Se modifican los apartados 3, 4 y 7 por el art. único.1 del Real Decreto 536/2019, de 20 de septiembre. [Ref. BOE-A-2019-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-13412)
+
+#### Artículo 8. Criterios de admisibilidad.
+
+1\. Para que una solicitud sea considerada admisible, el solicitante deberá cumplir los siguientes requisitos:
+
+a) Tener a su disposición a fecha de apertura del plazo de solicitudes, para poder realizar una plantación de viñedo, en propiedad, o en régimen de arrendamiento o aparcería o cualquier otra forma conforme a derecho que pueda demostrar mediante documento liquidado de los correspondientes tributos, la superficie agraria para la que solicita la autorización en la comunidad autónoma que se va a plantar, hasta el momento de la comunicación de la plantación que debe realizarse de acuerdo a lo establecido en el artículo 11.7. La autoridad competente verificará dicha circunstancia, al menos, en el momento de la presentación de la solicitud y en el momento de la mencionada comunicación de la plantación.
+
+No se validará la solicitud de autorización para las nuevas plantaciones de viñedo cuando el uso de la superficie agraria sobre la que se solicita la autorización a fecha de apertura del plazo de solicitudes requiera de algún permiso o autorización administrativa para realizar el cambio de uso o la plantación del viñedo que no se disponga hasta esa fecha.
+
+No se considerarán como admisibles las superficies para las que ya se haya concedido una autorización de nueva plantación de viñedo en virtud del artículo 11 en convocatorias anteriores o que se haya concedido una autorización de replantación o por conversión, aunque no se haya procedido aún a la plantación de dicha autorización. Para ello no se tendrán en cuenta las superficies que hayan sido objeto de renuncias referidas en el artículo 11.5.
+
+Para la comprobación de este criterio de admisibilidad, las comunidades autónomas podrán tomar como base el Sistema de Información de Explotaciones Agrícolas y Ganaderas (SIEX) regulado por el Real Decreto 1054/2022, de 27 de diciembre, por el que se establece y regula el Sistema de información de explotaciones agrícolas y ganaderas y de la producción agraria, así como el registro autonómico de explotaciones agrícolas y el Cuaderno digital de explotación agrícola, y en cualquier otro registro que tengan dispuesto en el que pueda ser comprobado este requisito. En casos debidamente justificados, en especial cuando se constate más de un solicitante sobre la misma parcela, se podrá tener en cuenta otra documentación que verifique que el solicitante de la autorización cumple con el criterio.
+
+En caso de que el solicitante no sea el propietario de la superficie para la que solicita la autorización, el contrato de arrendamiento deberá estar liquidado de impuestos a fecha de apertura del plazo de solicitudes y,además, el solicitante deberá adjuntar a la solicitud el consentimiento del propietario para poder realizar la plantación de viñedo.
+
+b) Tener la capacidad y competencia profesionales adecuadas, que se considerará cumplida si el solicitante cumple a la fecha de apertura del plazo de solicitudes alguna de las siguientes condiciones:
+
+1.º Tener cinco años en los últimos diez de experiencia profesional acreditada, que se podrá justificar según establezca la comunidad autónoma, mediante una o varias de las siguientes opciones: alta en el Régimen de la Seguridad Social de la actividad agraria, o siendo titular de explotación en el Registro Autonómico de Explotaciones Agrícolas(RAEA) regulado por el Real Decreto 1054/2022, de 27 de diciembre, o siendo viticultor en el registro vitícola, o con la comprobación de tener ingresos agrarios. En caso de no poder cumplirlo, las comunidades autónomas podrán decidir que tres de los cinco años de experiencia profesional se podrán acreditar mediante la presentación de certificado de asistencia a cursos o seminarios de capacitación agraria con una duración de 30 horas lectivas por cada año no acreditado.
+
+2.º Haber superado las pruebas de capataz agrícola o estar en posesión de títulos académicos de la rama agraria como mínimo del nivel de formación profesional del sistema educativo de Técnico en aceites de oliva y vino, Técnico Superior en vitivinicultura, Técnico en producción agropecuaria, o Técnico Superior en paisajismo y medio rural.
+
+3.º Poseer certificado de asistencia y aprovechamiento a los cursos de instalación a la empresa agraria y otros cursos complementarios con una duración mínima de 150 horas, reconocidos por cualquier comunidad autónoma.
+
+4.º Solicitante al que se le haya concedido la ayuda a la creación de empresas para jóvenes agricultores en virtud del Reglamento (UE) n.º 1305/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER) y por el que se deroga el Reglamento (CE) n.º 1698/2005 del Consejo, mediante resolución favorable con fecha anterior a la apertura del plazo de solicitud de nuevas plantaciones.
+
+5.º Solicitante que posea una explotación agraria prioritaria, según el artículo 15 de la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias, mediante certificación expedida por el órgano correspondiente de la comunidad autónoma respectiva, con fecha anterior a la de apertura del plazo de solicitud de las nuevas plantaciones.
+
+6.º Cuando el solicitante sea una persona jurídica y alguna de las condiciones anteriores no pueda ser verificada directamente, se considerará que la misma, independientemente de su forma jurídica, tiene la capacidad y competencia profesionales adecuadas cuando:
+
+i) El control efectivo sobre la persona jurídica sea ejercido por una persona física o personas físicas que tiene dicha capacidad y competencia conforme a alguno de los apartados 1.° a 5.º Para ello, la persona física o personas físicas en cuestión deberá tener el poder de decisión dentro de dicha persona jurídica, lo que exige que su participación en el capital social de la persona jurídica sea más de la mitad del capital social total de esta y que posea más de la mitad de los derechos de voto dentro de la misma, y, en el supuesto que no exista capital social por la forma jurídica, que posea más de la mitad de los derechos de voto dentro de la misma.
+
+ii) En el caso concreto de la condición del apartado 2º, se podrá considerar cumplido por la persona jurídica que pueda demostrar que, al menos 3 de los últimos 5 años hasta la fecha de apertura del plazo de solicitudes ha tenido contratada de forma continua, a una persona física que cumple con el apartado 2º, o en el caso de que tenga un contrato de prestación de servicios, de al menos 3 años seguidos en los últimos 5 años hasta la fecha de apertura del plazo de solicitudes, para el establecimiento, mantenimiento y control de la plantación con una persona jurídica o profesional.
+
+7.º No obstante lo anterior, a los efectos previstos en esta letra b), cuando la persona solicitante sea una persona física, en el caso de que la superficie para la que se solicita la autorización de nueva plantación se ubique en una zona delimitada por una DOP para la que se haya establecido una limitación en el año de la solicitud, la comunidad autónoma que haya tomado la decisión con base en una recomendación según el artículo 7.5, podrá considerar obligatorio para que la solicitud sea admisible, y de forma adicional a alguno de los requisitos de los puntos 1.º a 5.º, que la persona solicitante haya estado dada de alta en el Régimen de la Seguridad Social de la actividad agraria, durante al menos dos años dentro de los cinco anteriores a la presentación de la solicitud.
+
+La imposición de este criterio de admisibilidad requerirá la emisión de un informe favorable por parte del Consejo Regulador presentado ante el órgano competente de la comunidad autónoma correspondiente, junto con la documentación que establece el artículo 7.3, y el envío de la conformidad de esa comunidad autónoma a la Dirección General de Producciones y Mercados Agrarios junto con la documentación del artículo 7.5.
+
+Cuando se trate de una DOP supraautonómica, la imposición de este criterio de admisibilidad de que el solicitante haya estado dado de alta en el Régimen de la Seguridad Social de la actividad agraria durante, al menos 2 años dentro de los cinco anteriores a la presentación de la solicitud, por parte de las comunidades autónomas afectadas, requerirá en todo caso la emisión de un informe favorable del Consejo Regulador de la DOP presentado según dispone el artículo 7.3, y el envío de la conformidad de todas las comunidades autónomas afectadas a la Dirección General de Producciones y Mercados Agrarios junto con la documentación a la que se refiere del artículo 7.4.
+
+La Dirección General de Producciones y Mercados Agrarios hará pública la obligación que deba aplicarse, en su caso, mediante la resolución mencionada en el artículo 7.7 de este real decreto, siempre que todas las comunidades autónomas referidas hayan manifestado su conformidad.
+
+c) Que el solicitante, a fecha de apertura del plazo de solicitudes, y en el momento de concesión de la autorización, si la comunidad autónoma lo considera oportuno y con sus propios medios, no tenga plantaciones de viñedo sin autorización de acuerdo a lo establecido en el artículo 71 del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre, o sin derecho de plantación de acuerdo a lo establecido en los artículos 85 bis y 85 ter del Reglamento (CE) n.º 1234/2007, del Consejo de 22 de octubre de 2007, por el que se crea una organización común de mercados agrícolas y se establecen disposiciones específicas para determinados productos agrícolas (Reglamento único para las OCM).
+
+2\. En caso de que la autorización de nueva plantación se solicite para plantar en una superficie que se encuentre dentro de la zona geográfica delimitada por una DOP que se superpone con varias DOPs, y que en el año de solicitud se aplique una limitación de superficie para las autorizaciones de nueva plantación en esa DOP que se superpone con varias DOPs, para que esa superficie solicitada se considere admisible, el solicitante deberá indicar en su solicitud si la producción de esa superficie se va a destinar o no a elaborar vino con dicha DOP, conforme a lo establecido en el anexo II.B, de forma que:
+
+a) Si indica en la solicitud que el destino de la producción va a ser la elaboración de vino con la DOP con limitaciones que se superpone con varias DOPs, la superficie solicitada admisible se contabilizará para el límite fijado por dicha DOP.
+
+b) Si indica en la solicitud que no destinará su producción a dicha DOP con limitaciones que se superpone con varias DOPs, el solicitante se comprometerá hasta el final del régimen de autorizaciones de viñedo a:
+
+1.º No utilizar ni comercializar las uvas producidas en esas nuevas plantaciones para producir vino con la DOP con limitaciones que se superpone con varias DOPs;
+
+2.º No arrancar ni replantar vides de esas nuevas plantaciones con la intención de hacer que la superficie replantada pueda optar a la producción de vino con la DOP con limitaciones que se superpone con varias DOPs.
+
+En el supuesto de que se aplique otra limitación para otra DOP en la superficie solicitada, la superficie solicitada admisible se contabilizará para el límite fijado por esa otra DOP.
+
+> Se modifica la letra b) del apartado 2 por el art. único.2 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+> Se modifican, con efectos de 1 de julio de 2023, el cuarto párrafo de la letra a) y el párrafo 1º de la letra b) del apartado 1 por el art. único.5 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+> Se modifica el apartado 2 por el art. único.3 del Real Decreto 111/2022, de 8 de febrero de 2022. [Ref. BOE-A-2022-2058](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2058)
+
+> Téngase en cuenta para su aplicación la disposición final única del citado Real Decreto.
+
+> Se modifica el apartado 1.b) .6º.i) y el primer párrafo del 7º por el art. único.2 del Real Decreto 536/2019, de 20 de septiembre. [Ref. BOE-A-2019-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-13412)
+
+#### Artículo 9. Presentación de solicitudes.
+
+1\. Los interesados presentarán su solicitud o solicitudes, entre el 15 de enero y el último día de febrero de cada año, ambos inclusive, ante la autoridad competente de la comunidad autónoma donde se vaya a plantar el viñedo. La solicitud podrá presentarse a través de cualquiera de los registros y medios previstos en el artículo 16 de la Ley 39/2015, de 1 de octubre.
+
+Conforme a lo establecido en el artículo 6 del Reglamento de Ejecución (UE) n.º 2018/273 de la Comisión, de 11 de diciembre 2017, de forma general las solicitudes deberán indicar la superficie solicitada y la localización específica de la superficie para la que se pide la autorización. Las solicitudes se presentarán conforme a un modelo que contenga, al menos, los datos que figuran en el anexo II.A.
+
+Solo en el caso de la superficie a la que se aplique el criterio de admisibilidad del artículo 8.2, se proporcionará, además, información sobre el destino de la producción según lo indicado en el segundo apartado del artículo 8, y los datos mínimos contenidos en el anexo II.B.
+
+2\. En la concesión de autorizaciones de nuevas plantaciones se tendrá en cuenta un límite máximo de superficie admisible por solicitante a nivel nacional de 5 hectáreas. Dicho límite máximo solo se tendrá en cuenta cuando el total de superficie admisible solicitada supere la superficie disponible para autorizaciones de nuevas plantaciones establecida según el artículo 6.1.
+
+En el caso de que, como resultado de aplicar dicho límite máximo a todos los solicitantes, la superficie admisible total a nivel nacional fuera inferior a la superficie disponible para autorizaciones de nuevas plantaciones establecida según el artículo 6.1, se irá repitiendo el ajuste de la superficie admisible de los solicitantes incrementando dicho límite, de 0,5 en 0,5 hectáreas, hasta conseguir que la superficie admisible total a nivel nacional no sea inferior a la superficie disponible establecida según el artículo 6.1.
+
+3\. En el supuesto de que se establezca una limitación para una DOP de acuerdo a los apartados 7 y 8 del artículo 7, se podrá aplicar a las solicitudes afectadas por dicha limitación un límite de superficie admisible por solicitante inferior al indicado en el apartado segundo, aunque en ningún caso se efectuará el ajuste mencionado en el último párrafo del apartado anterior. Este límite deberá ser aprobado por el órgano de la autoridad competente que corresponda según lo establecido en el artículo 7.3, tomando como base el propuesto por el Consejo Regulador de la misma. Para ello el Consejo Regulador remitirá al mencionado órgano competente, antes del 1 de noviembre del año anterior al que se pretenda surtan efectos en las autorizaciones concedidas, la siguiente información:
+
+a) Acuerdo adoptado por el órgano decisorio de la Organización, justificado mediante certificado firmado por el representante legal de la organización con fecha anterior al 1 de noviembre del año en el que se presente la propuesta de límite máximo.
+
+b) Número de hectáreas de límite máximo de superficie admisible para las solicitudes afectadas por la limitación de esa DOP de cada solicitante que se propone aplicar. El número de hectáreas no podrá ser superior al establecido como límite máximo a nivel nacional en el primer párrafo del apartado 2.
+
+c) Justificación del límite máximo de superficie admisible por solicitante propuesto en la letra b).
+
+En el caso de que el órgano de la autoridad competente que deba adoptar dicha decisión sea el de una comunidad autónoma, esta deberá incluir la decisión adoptada sobre dicho límite en la resolución referida en el artículo 7.5.b), que remitirá al Ministerio de Agricultura, Pesca y Alimentación a más tardar el 20 de noviembre.
+
+4\. Cuando el solicitante presente una solicitud por una superficie total que supere los límites de superficie admisible establecidos en los apartados 2 y 3 o cuando las presente en más de una comunidad autónoma independientemente de la superficie solicitada, deberá indicar el orden de preferencia para cada recinto SIGPAC que se recogerá en la solicitud, y que será tenido en cuenta al aplicar dicho límite. Este orden de preferencia será siempre único y debe considerar todos los recintos SIGPAC solicitados, aunque se presente más de una solicitud.
+
+4 bis. Las comunidades autónomas comprobarán que los solicitantes no hayan sido beneficiarios de pagos por arranque de acuerdo con el artículo 216.2 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, o del artículo 58.1.o) del Reglamento (UE) n.º 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, durante las diez campañas de comercialización siguientes a aquélla en la que tuvo lugar el arranque.
+
+Para la verificación de este criterio, la comunidad autónoma donde se presente la solicitud comprobará, a través del Sistema Informático de intercambio de Información para el Régimen de Autorizaciones de Plantaciones de Viñedo (SIAVI), si los solicitantes han sido beneficiarios de pagos por arranque en su comunidad autónoma o en cualquier otra. Para ello, las comunidades autónomas pondrán a disposición de las autoridades competentes la información de los beneficiarios de pagos por arranque y de la superficie arrancada a través de SIAVI, con la mayor brevedad posible y, como máximo, en el plazo de diez días desde que se concedió el pago de la ayuda.
+
+5\. Las comunidades autónomas examinarán las solicitudes recibidas en cuanto a su conformidad con los criterios de admisibilidad, y, una vez termine el periodo de presentación de solicitudes, notificarán a los solicitantes cuya solicitud haya sido excluida por no cumplir con los criterios de admisibilidad, una resolución indicando los motivos por los que se deniega la solicitud.
+
+6\. La autoridad competente de la comunidad autónoma remitirá al Ministerio de Agricultura, Pesca y Alimentación, antes del 1 de junio de cada año, la lista de solicitudes admisibles clasificadas por orden de puntuación, en función del grado de cumplimiento de los criterios de prioridad establecidos en el artículo 10 y tal y como se establece en el anexo III. Además, la comunidad autónoma indicará el orden de preferencia de cada recinto SIGPAC de la superficie admisible indicado en la solicitud de acuerdo al apartado 4. La información mínima que deberán enviar las comunidades se corresponderá con la recogida en el anexo IV. Excepcionalmente para 2020, debido a la aplicación del Real Decreto 463/2020 de 14 de marzo, la lista de solicitudes admisibles clasificadas podrá ser enviada a más tardar el 1 de julio de 2020.
+
+7\. El Ministerio de Agricultura, Pesca y Alimentación aplicará el límite máximo de superficie que corresponda según lo establecido en los apartados 2 y 3 y teniendo en cuenta la información recibida según el apartado 6. En caso de que se comprueben duplicidades en el orden de preferencia de dos o más recintos SIGPAC, o que no se haya definido un orden de preferencia en la solicitud, se dará prioridad al recinto con mayor superficie admisible para aplicar los límites de los apartados 2 y 3, y cuando los recintos sean de igual tamaño, el límite será aplicado a partes iguales entre los mismos.
+
+> Se añade el apartado 4 bis por el art. único.3 del Real Decreto 684/2026, de 26 de agosto. [Ref. BOE-A-2026-18205](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18205)
+
+> Se modifica el apartado 6 por el art. 3.2 del Real Decreto 558/2020, de 9 de junio. [Ref. BOE-A-2020-5899](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5899)
+
+#### Artículo 10. Criterios de prioridad.
+
+1\. Los criterios de prioridad con base en los cuales se elaborará la lista del apartado 6 del artículo 9 son los siguientes:
+
+a) Que el solicitante sea una persona física que en el año de la presentación de la solicitud no cumpla más de 40 años y sea un nuevo viticultor, o, si se trata de persona jurídica, que tenga como socio un nuevo viticultor que no cumpla más de 40 años en el año de presentación de la solicitud y ejerza un control efectivo por sí sólo o con otro u otros jóvenes nuevos viticultores en los términos previstos en el párrafo cuarto de esta letra a).
+
+Para la comprobación del requisito sobre la plantación por primera vez, en el momento de la apertura del plazo de solicitudes, se comprobará que el solicitante no haya sido inscrito como viticultor de ninguna parcela de viñedo en el Registro Vitícola.
+
+Para la comprobación de la condición del solicitante como jefe de explotación, se deberá comprobar que en el momento de apertura del plazo de solicitudes el solicitante es quien está asumiendo el riesgo empresarial de su explotación, para lo que la autoridad competente podrá solicitar toda la documentación que considere necesaria.
+
+Se considerará que una persona jurídica, independientemente de su forma jurídica, cumple este criterio de prioridad si reúne alguna de las condiciones establecidas en los puntos 1) y 2) del apartado A del anexo II del Reglamento Delegado (UE) n.º 2018/273 de la Comisión, de 11 de diciembre 2017. A estos efectos se entenderá que un nuevo viticultor ejerce el control efectivo sobre la persona jurídica por sí sólo o con otro u otros jóvenes nuevos viticultores, cuando tenga el poder de decisión dentro de dicha persona jurídica, lo que exige que su participación en el capital social de la persona jurídica sea más de la mitad del capital social total de esta y que posea más de la mitad de los derechos de voto dentro de la misma, y en el supuesto que no exista capital social por la forma jurídica, que tenga más de la mitad de los derechos de voto dentro de la misma.
+
+b) Que la persona solicitante sea un viticultor a fecha de apertura del plazo de solicitudes, persona física que en el año de la presentación de la solicitud no cumpla más de 40 años, y que, a fecha de apertura del plazo de solicitudes, y en el momento de concesión de la autorización si la comunidad autónoma lo considera oportuno y con sus propios medios, no tenga plantaciones de viñedo sin autorización de acuerdo a lo establecido en el artículo 71 del Reglamento (UE) n.° 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre, o sin derecho de plantación de acuerdo a lo establecido en los artículos 85 bis y 85 ter del Reglamento (CE) n.° 1234/2007 del Consejo, de 22 de octubre de 2007. Además, se deberá cumplir que a fecha de apertura del plazo de solicitudes no les haya vencido ninguna autorización para nueva plantación concedida anteriormente por no haber sido utilizada, no tenga plantaciones de viñedo abandonado en el Registro Vitícola desde hace ocho años hasta la fecha de apertura del plazo de solicitudes y no haya incumplido alguno de los compromisos indicados en los artículos 8.2.b) y 17.3 de este real decreto, en el artículo 10.a) del Real Decreto 740/2015, de 31 de julio, por el que se regula el potencial de producción vitícola, y se modifica el Real Decreto 1079/2014, de 19 de diciembre, para la aplicación de las medidas del programa de apoyo 2014-2018 al sector vitivinícola, y en el 10.1.a) del Real Decreto 772/2017 de 28 de julio, por el que se regula el potencial productivo vitícola.
+
+c) Que la superficie de las parcelas vitícolas de la explotación del solicitante inscrita en el Registro Vitícola a su nombre como viticultor en el inicio del plazo de presentación de la solicitud, sin que se puedan contabilizar las superficies acogidas a las excepciones previstas en el artículo 62.4 del Reglamento (UE) 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, se ajuste a los umbrales establecidos en el anexo V de pequeña o de mediana explotación vitícola correspondientes a la comunidad autónoma donde se ubique la mayor parte de la superficie inscrita en el Registro Vitícola de las parcelas vitícolas de la explotación del solicitante.
+
+Para la verificación de este criterio la comunidad autónoma donde se presente la solicitud comprobará, a través del Sistema Informático de intercambio de Información para el Régimen de Autorizaciones de Plantaciones de Viñedo (SIAVI), cuál es la suma total de la superficie inscrita en el Registro Vitícola de las parcelas de viñedo de su explotación, descontando las superficies acogidas a las excepciones previstas en el artículo 62.4 del Reglamento (UE) 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre, y, del mismo modo, comprobará cual es la comunidad autónoma donde se ubica la mayor parte de la superficie inscrita en el Registro Vitícola de las parcelas vitícolas de la explotación del solicitante, con el objeto de asignar a la solicitud admisible del solicitante la puntuación del anexo III que le corresponde en función de la suma total de superficie y del intervalo de umbrales del anexo V de la comunidad autónoma donde se ubica la mayor parte de la superficie inscrita en el Registro Vitícola de las parcelas vitícolas de la explotación del solicitante.
+
+Para ello las comunidades autónomas deberán cargar en SIAVI, a más tardar el 15 de enero del año de presentación de las solicitudes, el dato, vigente en el momento de la carga del total de superficie en el Registro Vitícola de las parcelas vitícolas de la explotación de cada viticultor.
+
+2\. La puntuación de los criterios establecidos en el apartado 1 será la recogida en el anexo III.
+
+> Se modifican las letra a) y c) del apartado 1 por el art. único.3 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+> Se modifica la letra c) del apartado 1 por el art. único.6 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+> Téngase en cuenta la disposición transitoria única del citado Real Decreto, en cuanto a la aplicación de los criterios de prioridad en 2023.
+
+> Se modifica el apartado 1.a) y b) por el art. único.3 del Real Decreto 536/2019, de 20 de septiembre. [Ref. BOE-A-2019-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-13412)
+
+#### Artículo 11. Autorizaciones de nueva plantación.
+
+1\. Una vez ordenadas todas las solicitudes admisibles enviadas por las comunidades autónomas al Ministerio de Agricultura, Pesca y Alimentación, a cada solicitud con mayor puntuación se le concederá toda la superficie solicitada antes de pasar a la siguiente solicitud, hasta que se agote la superficie disponible.
+
+A las solicitudes con una misma puntuación, para cuyo conjunto no hubiera suficiente superficie disponible para satisfacer la superficie solicitada, se les repartirá la superficie disponible a prorrata, tal y como está definido en el apartado A del anexo I del Reglamento de Ejecución (UE) n.º 2018/274 de la Comisión, de 11 de diciembre 2017.
+
+2\. En caso de que se haya limitado la superficie disponible para autorizaciones en zonas geográficas delimitadas de una Denominación de Origen Protegida específica en virtud de la decisión del artículo 7.7 y la superficie solicitada en dichas zonas sea superior a la superficie máxima fijada para esa zona según el artículo 6, estas se otorgarán hasta alcanzar la superficie fijada para esa zona en el procedimiento de concesión de autorizaciones conforme al apartado 1.
+
+3\. El Ministerio de Agricultura, Pesca y Alimentación remitirá a las comunidades autónomas, no más tarde del 1 de julio, las solicitudes para las que se podrá conceder autorizaciones y la superficie por la que se podrá conceder la autorización. Excepcionalmente para 2020, debido a la aplicación del Real Decreto 463/2020 de 14 de marzo, las solicitudes y superficie a conceder podrá ser remitida a más tardar el 15 de julio de 2020. Las comunidades autónomas deberán resolver las solicitudes y notificar las autorizaciones concedidas a los solicitantes antes del 1 de agosto de cada año. En caso de no haberse dictado y notificado la resolución correspondiente transcurrido dicho plazo, los solicitantes podrán entender desestimadas sus solicitudes por silencio negativo.
+
+4\. Las comunidades autónomas deberán informar a los solicitantes cuyas solicitudes admisibles no hayan sido totalmente estimadas, de cuáles han sido los motivos y del recurso que corresponda.
+
+5\. Los solicitantes a los que se conceda una autorización por menos del 50% de la superficie admisible total de su solicitud, podrán renunciar en su totalidad en el mes siguiente a la fecha de la notificación de la resolución. Las comunidades autónomas comunicarán a la Dirección General de Producciones y Mercados Agrarios a más tardar el 1 de octubre de cada año, la información sobre superficie objeto de renuncia referida en este párrafo e indicando la región y la zona de producción donde está ubicada la superficie desistida, para su remisión a la Comisión Europea en cumplimiento del artículo 33.2.a) del Reglamento de Ejecución (UE) n.º 2018/274 de la Comisión, de 11 de diciembre 2017. La superficie liberada por renuncias de un año se pondrá a disposición para la concesión de autorizaciones de nuevas plantaciones de forma adicional a la superficie máxima disponible que se establezca para el año siguiente en virtud del artículo 6.1.
+
+Las comunidades autónomas deberán proceder a resolver los recursos estimatorios aplicando a la superficie admisible el mismo prorrateo que se les hubiese aplicado a su solicitud de haber sido resueltas antes del 1 de agosto del año en que se presentó la solicitud y teniendo en cuenta que no se supere la superficie admisible máxima por solicitante aplicado en el procedimiento de concesión de autorizaciones de nuevas plantaciones del año en que se presentó la solicitud. Las comunidades autónomas comunicarán a la Dirección General de Producciones y Mercados Agrarios, a más tardar el 1 de octubre, conforme al anexo VI, la información sobre la superficie liberada por desistimientos y errores detectados después de la comunicación por el Ministerio de Agricultura, Pesca y Alimentación de la superficie a conceder según el apartado 3, y la información sobre la superficie concedida en los recursos que se hayan resuelto de forma estimatoria hasta ese momento y por errores, a fin de poder realizar un balance.
+
+El resultado del balance entre superficie liberada por desistimientos y errores y concedida por recursos estimatorios y errores se tendrá en cuenta a la hora de establecer la superficie máxima disponible para el año siguiente referida en el artículo 6.1. Para ello, el Ministerio de Agricultura, Pesca y Alimentación comunicará a las Organizaciones Interprofesionales que operen en el sector vitivinícola en el ámbito nacional y reconocidas de acuerdo con el artículo 157 del Reglamento (UE) número 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre, afectadas, el resultado del balance, que deberán tener en cuenta en la recomendación a presentar en su caso, a más tardar el 1 de noviembre del año anterior al que se vaya a aplicar.
+
+En caso de que la superficie resultante del balance entre superficie liberada por desistimientos, renuncias y errores, y la concedida por recursos estimatorios y errores sea superior a la superficie máxima disponible para autorizaciones de nuevas plantaciones fijada para una Denominación de Origen Protegida en ese año, esta superficie excedente se descontará del límite máximo de superficie disponible a adoptar en esa DOP para el año siguiente. Por el contrario, si la resultante de dicho balance es inferior a la mencionada superficie máxima disponible, dicha superficie se añadirá a la superficie disponible a adoptar en esa DOP para el año siguiente. Para ello, el Ministerio de Agricultura, Pesca y Alimentación comunicará a las comunidades autónomas y a los Consejos Reguladores afectados el resultado del balance que han de tener en cuenta en la recomendación a presentar en su caso, a más tardar el 1 de noviembre del año anterior al que se vaya a aplicar.
+
+6\. Las autorizaciones para nuevas plantaciones concedidas serán válidas hasta el último día de la tercera campaña de comercialización posterior a la campaña de comercialización en la que fueron concedidas.
+
+En el caso de que para la concesión de la autorización se haya solicitado la declaración jurada del solicitante respecto al compromiso al que se hace referencia en el artículo 8.2.b) en la resolución por la que se conceda la autorización condicionada al cumplimiento del compromiso no se especificará una fecha concreta en la que finalice su cumplimiento, sino que se deberá indicar que dicho compromiso se debe cumplir mientras se mantenga vigente el régimen de autorizaciones de viñedo.
+
+Los titulares de autorizaciones de nuevas plantaciones válidas concedidas antes del 1 de enero de 2025 no estarán sujetos a las sanciones administrativas a que se refiere artículo 26.1 de este real decreto, siempre que informen a la autoridad competente antes de la fecha de expiración de la autorización y, a más tardar, el 31 de diciembre de 2026, de que no tienen intención de hacer uso de su autorización.
+
+6 bis. Cuando un caso de causas de fuerza mayor o de circunstancias excepcionales, o las dos, a que se refiere el artículo 3.1, letras a) y c), del Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, sobre la financiación, la gestión y el seguimiento de la política agrícola común y por el que se deroga el Reglamento (UE) n.º 1306/2013, afecte gravemente a una zona dentro del ámbito territorial de una comunidad autónoma, dicha comunidad podrá prorrogar hasta doce meses la validez de las autorizaciones de nuevas plantaciones que se pretendan plantar en esa zona y que vayan a expirar al final de la campaña vitícola en la cual se ha producido las citadas causas de fuerza mayor o circunstancias excepcionales.
+
+Una vez determinada la zona, la autoridad competente aplicará la prórroga de forma automática y posteriormente informará de dicha circunstancia a los titulares afectados. La validez de estas autorizaciones de plantación sólo se prorrogará una vez en virtud de lo dispuesto en este apartado.
+
+A los titulares de una autorización de nueva plantación que comuniquen a la autoridad competente que concedió la autorización que no tienen intención de hacer uso de dicha autorización, a más tardar el 31 de diciembre de la campaña de comercialización siguiente a aquélla en la que se haya producido causas de fuerza mayor o de circunstancias excepcionales referidas en este apartado, no se aplicarán las sanciones administrativas previstas el artículo 26.1 de este real decreto.
+
+Además de lo dispuesto en este apartado, en caso de fuerza mayor o circunstancias excepcionales a que se refiere el artículo 3.1 del Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, la autoridad competente que concedió la autorización podrá eximir al titular de una autorización de nueva plantación afectada por dichos casos o circunstancias de las sanciones administrativas previstas en el artículo 26.1, siempre que se solicite previamente por el titular y se aprecie suficiente justificación.
+
+A más tardar el 1 de marzo de cada año, las comunidades autónomas informarán al Ministerio de Agricultura, Pesca y Alimentación sobre si han aplicado o no las excepciones previstas en este apartado 6 bis y, cuando proceda, le comunicarán la siguiente información:
+
+a) Las regiones en las que se han aplicado las excepciones mencionadas en este apartado y la justificación de que han sido afectadas por causas de fuerza mayor o de circunstancias excepcionales;
+
+b) la superficie cubierta por las autorizaciones de nuevas plantaciones cuya validez se haya prorrogado por un año en aplicación de este apartado;
+
+c) la superficie cubierta por las autorizaciones de nuevas plantaciones, expiradas o que fueran a expirar al final de la campaña vitícola en la cual se ha producido las causas de fuerza mayor o circunstancias excepcionales y por las que el viticultor titular de las mismas haya renunciado a la prórroga de su validez en aplicación de este apartado.
+
+7\. Una vez ejecutada la plantación de viñedo, el solicitante deberá comunicar la misma a la autoridad competente en el plazo que establezca la comunidad autónoma en la que se ha realizado la plantación, y siempre antes de la caducidad de la autorización.
+
+8\. La plantación no podrá arrancarse en un período mínimo de cinco años desde que se haya realizado la comunicación referida en el artículo 11.7, deberá permanecer en régimen de explotación y no se podrá cambiar su titularidad, ni venderse ni arrendarse a otra persona física o jurídica, salvo causa de fuerza mayor o circunstancias excepcionales previstas en el artículo 3.1 del Reglamento (UE) número 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, sobre financiación, gestión y seguimiento de la Política Agrícola Común y por el que se deroga el Reglamento (UE) número 1306/2013.
+
+En el caso de que el titular de una plantación procedente de autorizaciones de nuevas plantaciones pertenezca a una explotación de titularidad compartida, el titular podrá transferir la titularidad de la misma a dicha explotación en régimen de titularidad compartida, la cual deberá cumplir con las obligaciones que se establecen en el párrafo primero de este apartado, independientemente de la fecha en que la autorización de la nueva plantación fue concedida.
+
+9\. Las autoridades competentes de las comunidades autónomas revocarán de oficio todas las autorizaciones de nuevas plantaciones que concedieron y sean válidas a aquellos titulares que se les conceda una ayuda por arranque en virtud del artículo 216.1 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, o del artículo 58.1.o) del Reglamento (UE) 2021/2115, del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, cuando se resuelva favorablemente la solicitud de ayuda. Con el fin de que la autoridad competente pueda efectuar la revocación, la autoridad competente que resuelva favorablemente una ayuda al arranque pondrá la información de los beneficiarios de la ayuda y de la superficie arrancada a disposición de las comunidades autónomas, a través de SIAVI, con la mayor brevedad posible y, como máximo, en el plazo de diez días desde que se concedió el pago de la ayuda. Las comunidades autónomas dictarán las resoluciones de revocación antes de que finalice la campaña correspondiente a la resolución de las respectivas las ayudas, salvo que el cumplimiento del anterior plazo se produzca en la siguiente campaña, en cuyo caso la dictarán con la mayor brevedad posible. Las resoluciones de revocación que se dictaren surtirán efectos de modo inmediato.
+
+> Se modifica el apartado 6 y se añaden los apartados 6 bis y 9 por el art. único.4 del Real Decreto 684/2026, de 26 de agosto. [Ref. BOE-A-2026-18205](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18205)
+
+> Téngase en cuenta, en relación con el apartado 6, el periodo de validez de autorizaciones establecido en la disposición transitoria única del citado Real Decreto.
+
+> Se modifican los apartados 5, 6 y 8 por el art. único.4 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+> Se modifica el apartado 8 por la disposición final 1.1 del Real Decreto 526/2023, de 20 de junio. [Ref. BOE-A-2023-14681](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14681)
+
+> Se modifica el apartado 8 por el art. único.7 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+> Se modifica el apartado 6 por el art. único.4 del Real Decreto 111/2022, de 8 de febrero de 2022. [Ref. BOE-A-2022-2058](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2058)
+
+> Téngase en cuenta que los párrafos segundo, tercero y cuarto del apartado 6, son aplicables desde el 1 de enero de 2021, según establece la disposición transitoria única del citado Real Decreto.
+
+> Se modifica el apartado 6 por el art. único.1 del Real Decreto 201/2021, de 30 de marzo. [Ref. BOE-A-2021-5030](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5030)
+
+> Téngase en cuenta que esta modificación será aplicable desde el 1 de enero de 2020 según establece la disposición final única del citado Real Decreto.
+
+> Se modifican los apartados 3, 5 y 6 por el art. 3.3 del Real Decreto 558/2020, de 9 de junio. [Ref. BOE-A-2020-5899](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5899)
+
+> Se modifican los apartados 5 y 8 por el art. único.4 del Real Decreto 536/ 2019, de 20 de septiembre. [Ref. BOE-A-2019-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-13412)
+
+#### Artículo 12. Creación de condiciones artificiales.
+
+1\. En aplicación de lo establecido en el artículo 62 del Reglamento (UE) número 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, sobre financiación, gestión y seguimiento de la Política Agrícola Común y por el que se deroga el Reglamento (UE) número 1306/2013, y del artículo 4.6 del Reglamento Delegado (UE) número 2018/273 de la Comisión, de 11 de diciembre 2017, no se concederán autorizaciones de nuevas plantaciones de viñedo a personas físicas o jurídicas de las que se demuestre que ha creado artificialmente las condiciones exigidas para cumplir los criterios de admisibilidad o de prioridad establecidos en el presente real decreto.
+
+2\. La autoridad competente podrá tener en cuenta las siguientes operaciones, entre otras, a efectos de establecer una posible creación de condiciones artificiales para recibir una autorización de nuevas plantaciones de viñedo, pudiendo realizar para ello las comprobaciones, requerimientos o controles que considere necesarios:
+
+a) La declaración formal de superficies por encima de la superficie disponible bajo el criterio de admisibilidad para obtener ventaja frente a posibles prorrateos.
+
+b) La división artificial de explotaciones para obtener ventaja en la puntuación de solicitudes conforme a los criterios de prioridad, en especial las que resulten de la división en la que el nuevo titular tenga vinculación con el titular original y obtenga una ventaja derivada de dicha división. Con el fin de evitar este tipo de condiciones artificiales las comunidades autónomas podrán fijar una fecha de referencia para considerar el tamaño de explotación o validar el histórico de la explotación del solicitante.
+
+c) La creación de personas jurídicas con el único objetivo de cumplir los criterios de prioridad.
+
+d) La inscripción en el Registro Autonómico de Explotaciones Agrícolas, regulado por el Real Decreto 1054/2022, de 27 de diciembre, en cualquier otro registro o el alta en la seguridad social agraria con el único objetivo de cumplir los criterios de prioridad.
+
+e) La presentación de solicitudes por personas interpuestas, vinculadas de alguna forma al solicitante real, con el único objetivo de cumplir los criterios de prioridad.
+
+f) La solicitud en una comunidad autónoma donde no se presume el establecimiento del viñedo solicitado, sino la finalidad de obtener una mayor puntuación en los criterios de prioridad.
+
+g) La contratación de personal por parte de las personas jurídicas con la única intención de cumplir con los criterios de admisibilidad.
+
+h) Cuando un mismo solicitante alegue cumplir los criterios de prioridad a) y c) del apartado 1 del artículo 10, en la misma solicitud.
+
+> Se modifica el apartado 1 por el art. único.5 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+> Se modifica la letra d) del apartado 2, con efectos de 1 de julio de 2023, por el art. único.8 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+### *Sección 2.ª Replantaciones*
+
+#### Artículo 13. Autorizaciones para replantaciones.
+
+1\. Desde el 1 de enero de 2016, para poder replantar un viñedo arrancado, se debe obtener una autorización de replantación en los términos y condiciones establecidos en el Reglamento (UE) n.º 2018/273 de la Comisión, de 11 de diciembre 2017, en el Reglamento de Ejecución (UE) n.º 2018/274 de la Comisión, de 11 de diciembre 2017, y en el presente real decreto.
+
+2\. No se concederá ninguna autorización por el arranque de plantaciones no autorizadas.
+
+3\. No se concederá ninguna autorización de replantación a los beneficiarios de la ayuda al arranque en virtud del artículo 216.1 del Reglamento (UE) número 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, o del artículo 58.1.o) del Reglamento (UE) 2021/2115, del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, por la superficie arrancada para percibir dicha ayuda.
+
+> Se añade el apartado 3 por el art. único.5 del Real Decreto 684/2026, de 26 de agosto. [Ref. BOE-A-2026-18205](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18205)
+
+#### Artículo 14. Presentación de solicitud de arranque de viñedo.
+
+1\. Los viticultores que pretendan arrancar una superficie de viñedo, deberán presentar una solicitud ante la autoridad competente de la comunidad autónoma donde esté situada la superficie de viñedo a arrancar y que esté inscrita en el Registro Vitícola a su nombre en el momento de la presentación de la solicitud, en el plazo que determine cada comunidad autónoma.
+
+2\. Con el fin de evitar la creación de condiciones artificiales en el cumplimiento de lo establecido en el artículo 66.3 del Reglamento (UE) número 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, la comunidad autónoma podrá requerir al solicitante del arranque que presente, al menos, la declaración de cosecha de la parcela que se solicita arrancar, de la campaña o campañas anteriores a la de la solicitud de arranque, en la que se indique una producción equivalente a dicha superficie, salvo causa de fuerza mayor o circunstancias excepcionales previstas en el artículo 3.1 del Reglamento (UE) número 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
+
+3\. La solicitud podrá presentarse a través de cualquiera de los registros o medios previstos en el artículo 16 de la Ley 39/2015, de 1 de octubre.
+
+4\. Cuando el viticultor que pretenda realizar el arranque de la superficie de viñedo que está inscrita a su nombre en el Registro Vitícola, no sea el propietario de la parcela, deberá acompañar la documentación acreditativa del consentimiento del arranque del propietario, salvo que justifique debidamente ante la autoridad competente la innecesariedad del mismo.
+
+5\. Tras realizar las comprobaciones pertinentes, la autoridad competente emitirá una autorización de arranque y, una vez ejecutado el arranque por el viticultor, este deberá comunicarlo a la autoridad competente, quien, previa comprobación en campo, emitirá una resolución de arranque. Excepcionalmente para 2020 y 2021, cuando debido a circunstancias excepcionales derivadas de la pandemia COVID-19 no puedan realizarse los controles en campo previos a la resolución de arranque, las comunidades autónomas podrán realizar estas comprobaciones después de notificar dicha resolución, pudiendo, adicionalmente, solicitar a los viticultores que presenten una declaración responsable en relación a la superficie arrancada con anterioridad a la emisión de la resolución de arranque.
+
+No obstante lo anterior, en el caso de que el arranque afecte a toda la parcela vitícola o cuando se disponga de un sistema de teledetección que proporcione imágenes de una resolución igual o superior a 1 metro cuadrado, la comunidad autónoma podrá realizar la verificación del arranque realizado previa a la resolución de arranque mediante control administrativo en gabinete mediante esa técnica, siempre y cuando no interfiera con los controles de la ayuda a la reestructuración y reconversión de viñedos.
+
+6\. La solicitud de arranque por parte del viticultor y la notificación de la resolución de arranque por parte de la comunidad autónoma deberán producirse en la misma campaña, a efectos de verificación de lo dispuesto en el artículo 15.2. Excepcionalmente para 2020, y debido a las circunstancias excepcionales derivadas de la aplicación del Real Decreto 463/2020, de 14 de marzo, se podrán resolver y notificar resoluciones de arranques ejecutados en la campaña 2019/2020 con posterioridad al 31 de julio de 2020 en un número de días no superior a la duración del periodo de alarma sanitaria, siendo la efectividad de dichas resoluciones la misma que si se hubieran notificado el 31 de julio de 2020. El sentido del silencio administrativo será el establecido por la comunidad autónoma correspondiente y, en su defecto, el sentido del silencio administrativo será estimatorio.
+
+7\. Las comunidades autónomas deberán informar a los solicitantes cuyas solicitudes no hayan sido estimadas, de cuáles han sido los motivos y del recurso que corresponda.
+
+> Se modifica el apartado 2 por el art. único.6 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+> Se modifica el apartado 5 por el art. único.2 del Real Decreto 201/2021, de 30 de marzo. [Ref. BOE-A-2021-5030](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5030)
+
+> Se modifican los apartados 5 y 6 por el art. 3.4 del Real Decreto 558/2020, de 9 de junio. [Ref. BOE-A-2020-5899](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5899)
+
+#### Artículo 15. Lugar y plazo de presentación de solicitudes para autorizaciones para replantaciones.
+
+1\. El titular del arranque deberá presentar la solicitud de autorización para replantación ante la autoridad competente de la comunidad autónoma donde esté situada la superficie a plantar. La solicitud podrá presentarse en cualquiera de los registros o a través de los medios previstos en el artículo 16 de la Ley 39/2015, de 1 de octubre.
+
+2\. La solicitud deberá presentarse antes del final de la quinta campaña siguiente a la campaña en que se haya notificado la resolución de arranque indicada en el artículo 14.5. Si transcurrido este plazo no se ha solicitado la autorización para la replantación, se perderá el derecho a solicitarla.
+
+3\. Conforme al artículo 9.1 del Reglamento de Ejecución (UE) n.º 2018/274 de la Comisión, de 11 de diciembre 2017, las solicitudes deberán indicar el tamaño y la localización específica de la superficie arrancada y de la superficie a replantar para la que se pide la autorización. Se presentarán conforme a un modelo que contenga, al menos, los datos que figuran en el anexo VII.
+
+4\. El solicitante tendrá a su disposición, en propiedad, o en régimen de arrendamiento, aparcería, o cualquier otra forma conforme a derecho que pueda demostrar mediante documento liquidado de los correspondientes tributos, la superficie agraria para la que solicita la autorización de replantación, desde el momento en que presenta la solicitud hasta el momento de la comunicación de la plantación que debe realizarse de acuerdo a lo establecido en el artículo 19.5. La autoridad competente verificará dicha circunstancia, al menos, en el momento de la presentación de la solicitud y en el momento de la mencionada comunicación de la plantación. A los efectos del cumplimiento del presente apartado, se tendrá en cuenta lo establecido en los párrafos primero, segundo, cuarto y quinto del artículo 8.1.a).
+
+> Se modifica el apartado 2 por el art. 2.1 del Real Decreto 168/2025, de 4 de marzo. [Ref. BOE-A-2025-4323](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4323)
+
+> Esta modificación se aplicará retroactiva y automáticamente a todas las resoluciones de arranque que estén vigentes y que se hayan notificado con posterioridad a 31 de julio de 2022, según establece la disposición final única del citado Real Decreto, en la redacción dada por la disposición final 1 del Real Decreto 347/2025, de 22 de abril. [Ref. BOE-A-2025-8161](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8161)
+
+#### Artículo 16. Autorizaciones para replantación anticipada.
+
+1\. Las comunidades autónomas podrán conceder autorizaciones de replantación anticipada en los términos y condiciones recogidos en el apartado 2 del artículo 66 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo de 17 de diciembre, en el artículo 5 del Reglamento Delegado (UE) n.º 2018/273 de la Comisión, de 11 de diciembre 2017, en el apartado 3 del artículo 9 del Reglamento de Ejecución (UE) n.º 2018/274 de la Comisión, de 11 de diciembre 2017 y en el presente real decreto.
+
+No obstante lo dispuesto en el apartado 2 del artículo 66 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo de 17 de diciembre, cuando se haya concedido una autorización de replantación anticipada y el plazo para el arranque de la superficie comprometida en la misma venza en 2020, las comunidades autónomas podrán ampliar el plazo para el arranque hasta el 4 de mayo de 2021, en los casos en que, debido a la pandemia del Covid-19, el arranque fuera imposible y siempre que el viticultor presente una solicitud debidamente justificada ante la autoridad competente de la comunidad autónoma que concedió la autorización de replantación anticipada dentro del plazo que ella determine, interesando la prórroga del plazo de arranque.
+
+Dicha comunidad autónoma resolverá la solicitud en el plazo de dos meses a partir de la presentación de la solicitud de prórroga del plazo de arranque, debiendo informar de los motivos al solicitante, en caso de que deniegue su solicitud.
+
+La regulación del segundo párrafo del artículo 5 del Reglamento Delegado (UE) n.º 2018/273 de la Comisión (relativa a los casos en que el productor no llevara a cabo el arranque al término del cuarto año siguiente al de la plantación de las nuevas vides) se aplicará si el viticultor no realiza el arranque al final de la prórroga concedida en virtud de los párrafos 2 y 3 de este apartado.
+
+Los viticultores que deseen beneficiarse de esta prórroga no se podrán beneficiar de la ayuda a la cosecha en verde en virtud del artículo 47 del Reglamento (UE) no 1308/2013 del Parlamento Europeo y del Consejo de 17 de diciembre, sobre la superficie de la nueva plantación, ni sobre la superficie de la plantación a arrancar.
+
+2\. El compromiso al que se hace referencia en el segundo párrafo del apartado 3 del artículo 9 del Reglamento de Ejecución (UE) n.º 2018/274, de la Comisión, de 11 de diciembre 2017, deberá acompañarse de una garantía mediante aval de entidad bancaria, seguro de caución, ingreso en efectivo u otra garantía financiera. Las comunidades autónomas establecerán el valor de dicha garantía, que deberá tener en cuenta el importe de la nueva plantación a realizar y el de la plantación a arrancar. El incumplimiento de la obligación de arranque en el plazo señalado llevará aparejada la ejecución del aval, así como lo establecido en el artículo 25 de este real decreto.
+
+3\. El viticultor deberá justificar el derecho a poder realizar el arranque según lo establecido en el artículo 14.4.
+
+4\. El solicitante tendrá a su disposición en propiedad, o en régimen de arrendamiento aparcería o cualquier otra forma conforme a derecho que pueda demostrar mediante documento liquidado de los correspondientes tributos, la superficie agraria para la que solicita la autorización de replantación anticipada. La verificación de la disposición sobre la superficie, se realizará en el momento de la presentación de la solicitud y en el momento de la comunicación de la plantación que el solicitante deberá realizar de acuerdo a lo establecido en el artículo 19.5.
+
+A los efectos del cumplimiento del presente apartado, se tendrá en cuenta lo establecido en los párrafos primero, segundo, cuarto y quinto del artículo 8.1.a).
+
+5\. Las solicitudes podrán presentarse en los lugares y fechas previstos en los apartados 1 a 2 del artículo 15. Conforme al apartado 3 del artículo 9 del Reglamento de Ejecución (UE) n.º 2018/274, de la Comisión, de 11 de diciembre 2017, las solicitudes deberán indicar el tamaño y la localización específica de la superficie a arrancar y de la superficie a replantar para la que se pide la autorización. Las solicitudes se presentarán conforme a un modelo que contenga, al menos, los datos y la información que figuran en el anexo VIII.
+
+6\. Con el fin de evitar la creación de condiciones artificiales en el cumplimiento de lo establecido en el artículo 66.3 del Reglamento (UE) número 1308/2013, la comunidad autónoma podrá requerir al solicitante de la autorización de arranque anticipado que presente, al menos, la declaración de cosecha de la parcela que se solicita arrancar de la campaña o campañas anteriores a la de la solicitud de arranque, en la que se indique una producción equivalente a dicha superficie, salvo causa de fuerza mayor o circunstancias excepcionales previstas en el artículo 3.1 del Reglamento (UE) número 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
+
+> Se modifica el apartado 6 por el art. único.7 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+> Se modifica el apartado 1 por el art. 3.5 del Real Decreto 558/2020, de 9 de junio. [Ref. BOE-A-2020-5899](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5899)
+
+#### Artículo 17. Restricciones a la replantación.
+
+1\. De conformidad con el artículo 66.3 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, y en virtud del artículo 6 del Reglamento Delegado (UE) n.º 2018/273 de la Comisión, de 11 de diciembre 2017, se podrá restringir totalmente la concesión de las autorizaciones de replantación de viñedo si la superficie a replantar puede optar para la producción de vinos con una Denominación de Origen Protegida donde se ha aplicado una limitación de concesión a las nuevas plantaciones de acuerdo al artículo 7, y para la que se ha realizado una recomendación de acuerdo al artículo 18, justificada por la necesidad de evitar un riesgo bien demostrado de devaluación de una Denominación de Origen Protegida.
+
+2\. Las restricciones serán aplicables durante un año desde la fecha de publicación de la restricción aprobada según el artículo 18.7 a todas las solicitudes de autorizaciones que se presenten conforme al artículo 15. En el caso de que la recomendación en la que se base dicha restricción se haya realizado por un periodo superior a un año, dichas restricciones se podrán aplicar por el mismo plazo de la recomendación desde la fecha de publicación de la resolución.
+
+3\. En virtud del segundo párrafo del artículo 6 del Reglamento Delegado (UE) número 2018/273 de la Comisión, de 11 de diciembre 2017, el compromiso al que se hace referencia en el apartado b) sobre no utilizar ni comercializar las uvas producidas para producir vinos con denominación de origen protegida, y no arrancar y replantar vides con la intención de hacer que la superficie replantada pueda optar a la producción de vinos con la Denominación de Origen Protegida específica, se mantendrá mientras esté vigente el régimen de autorizaciones de viñedo. En el caso de que para la concesión de la autorización se haya solicitado la declaración responsable del solicitante respecto a dicho compromiso y por la que se concederá la autorización condicionada a su cumplimiento, no se especificará una fecha concreta en la que finaliza su cumplimiento, sino que se deberá indicar que dicho compromiso se debe cumplir mientras se mantenga vigente el régimen de autorizaciones de viñedo, incluso si dicho régimen es prorrogado mediante los reglamentos de la UE.
+
+> Se modifica el apartado 3 por el art. único.8 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+> Se modifica el apartado 1 por el art. único.9 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+> Se modifican los apartados 1 y 2 por el art. único.5 del Real Decreto 536/2019, de 20 de septiembre. [Ref. BOE-A-2019-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-13412)
+
+#### Artículo 18. Recomendaciones sobre restricciones a la replantación.
+
+1\. En virtud del artículo 65 del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre, podrán realizar recomendaciones para restringir la concesión de autorizaciones por replantación las Organizaciones Interprofesionales que operen en el sector vitivinícola, reconocidas de acuerdo al artículo 157 Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre, además de las que estén reconocidas de acuerdo a la legislación nacional y autonómica, así como los órganos de gestión de las Denominaciones de Origen Protegidas.
+
+2\. Las recomendaciones realizadas deberán ir precedidas de un acuerdo entre las partes representativas relevantes de la zona geográfica que se trate, y estar debidamente justificadas con base en un estudio sobre la necesidad de evitar un riesgo bien demostrado de devaluación de una Denominación de Origen Protegida.
+
+En la referida justificación podrá mencionarse si se han aplicado medidas de intervención en la oferta del producto de dicha DOP.
+
+Cuando una parte representativa relevante formule un parecer discrepante con dicho acuerdo podrá manifestar en un escrito las razones de dicha discrepancia, que habrá de acompañar al acuerdo para su valoración por la autoridad que haya de tomar la decisión.
+
+A estos efectos, para las recomendaciones presentadas por los Consejos Reguladores de las Denominaciones de Origen Protegidas de carácter supraautonómico, se entenderá que existe el acuerdo mencionado en el párrafo primero cuando la recomendación se realice con la aprobación del pleno del órgano de gestión de la Denominación de Origen Protegida supraautonómica siempre que ésta se haya constituido como Corporación de derecho público de acuerdo con la Ley 6/2015, de 12 de mayo, de Denominaciones de Origen e Indicaciones Geográficas Protegidas de ámbito territorial supraautonómico. Se entenderá por “zona geográfica de que se trate” la totalidad de la zona geográfica delimitada en el pliego de condiciones de la DOP en cuestión.
+
+3\. Las recomendaciones deberán contener la información mínima indicada en el anexo I.B.2), y se remitirán, acompañadas de la documentación a que se refiere el apartado anterior, antes del 1 de noviembre del año anterior al que se pretenda surtan efectos, al órgano de la autoridad competente que tomará la decisión sobre las mismas, que será:
+
+a) El Ministerio de Agricultura, Pesca y Alimentación para las recomendaciones de restricción de autorizaciones de replantación y por conversión de derechos en el ámbito de una DOP supraautonómica.
+
+b) La comunidad autónoma para las recomendaciones de restricciones de autorizaciones de replantación y por conversión de derechos en el ámbito de una DOP que sólo se ubique en su territorio.
+
+4\. El Ministerio de Agricultura, Pesca y Alimentación enviará la documentación presentada en una recomendación de restricción, según la letra a) del apartado anterior, a las comunidades autónomas donde esté ubicada la DOP supraautonómica.
+
+Las comunidades autónomas remitirán un informe, que no será vinculante, sobre la recomendación al Ministerio de Agricultura, Pesca y Alimentación, a más tardar el 20 de noviembre.
+
+5\. La comunidad autónoma que reciba una recomendación según la letra b) del apartado 3, comunicará al Ministerio de Agricultura, Pesca y Alimentación a más tardar el 20 de noviembre, la siguiente información:
+
+a) Un certificado firmado por el titular de la Dirección General competente en la materia, de que la documentación analizada incluye toda la información exigida en el anexo I.B.2.
+
+b) Resolución del titular de la Dirección General competente por la que se adopta la decisión sobre la recomendación.
+
+c) Informe justificativo de dicha decisión con base en los motivos recogidos en el artículo 63.3 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre.
+
+6\. El órgano de la autoridad competente que reciba la recomendación observará el procedimiento establecido en los artículos 68 y siguientes de la Ley 39/2015, de 1 de octubre.
+
+7\. Las decisiones sobre las recomendaciones de restricciones en DOPs supraautonómicas serán publicadas, antes del 30 de diciembre del año anterior en el que se vayan a aplicar, mediante resolución de la Dirección General de Producciones y Mercados Agrarios y serán de aplicación desde el día de su publicación.
+
+Igualmente, mediante dicha resolución se harán púbicas las decisiones adoptadas por las comunidades autónomas respecto de las recomendaciones previstas en el apartado 3.b), que serán igualmente de aplicación desde la publicación de la citada resolución en el “Boletín Oficial del Estado”.
+
+8\. Las recomendaciones podrán tener una duración de hasta tres años. En caso de que quisiera modificarse una recomendación realizada para un periodo mayor a un año, deberá comunicarse antes del 1 de noviembre del año anterior al que se pretenda modificar dicha recomendación mediante la presentación de la información solicitada en el anexo I.B.2) del presente real decreto.
+
+> Se modifican los apartados 2, 3, 4 y 7 por el art. único.10 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+> Se modifica el apartado 2 por el art. único.2 del Real Decreto 664/2022, de 1 de agosto. [Ref. BOE-A-2022-12928](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12928)
+
+> Se modifica el apartado 7 por el art. único.5 del Real Decreto 111/2022, de 8 de febrero de 2022. [Ref. BOE-A-2022-2058](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2058)
+
+> Téngase en cuenta para su aplicación la disposición final única del citado Real Decreto.
+
+> Se declara la nulidad de los apartados 3, 4 y 7, en la redacción dada por el art. único.6 del Real Decreto 536/2019, de 20 de septiembre, nuevamente modificado el apartado 7 en 2020, como establece el fundamento jurídico tercero, por Sentencia del TS de 16 de diciembre de 2020. [Ref. BOE-A-2021-1858](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1858)
+
+> Se modifica el apartado 7 por el art. 3.6 del Real Decreto 558/2020, de 9 de junio. [Ref. BOE-A-2020-5899](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5899)
+
+> Se modifican los apartados 3, 4 y 7 por el art. único.6 del Real Decreto 536/2019, de 20 de septiembre. [Ref. BOE-A-2019-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-13412)
+
+#### Artículo 19. Autorizaciones de replantación de viñedo.
+
+1\. Las autorizaciones concedidas corresponderán al equivalente de la superficie arrancada en cultivo puro.
+
+2\. Las comunidades autónomas deberán resolver las solicitudes y notificar las autorizaciones concedidas en el plazo de tres meses a partir de la presentación de solicitudes. El sentido del silencio administrativo será el establecido por la comunidad autónoma correspondiente y, en su defecto, el sentido será estimatorio.
+
+3\. Las comunidades autónomas deberán informar a los solicitantes cuyas solicitudes no hayan sido estimadas, de cuáles han sido los motivos y del recurso que corresponda.
+
+4\. Las autorizaciones concedidas tendrán un periodo de validez máximo de ocho campañas contadas a partir del final de la campaña en la que fueron concedidas.
+
+5\. Una vez ejecutada la plantación de viñedo, el solicitante deberá comunicar la misma a la autoridad competente en el plazo que establezca la comunidad autónoma en la que se ha realizado la plantación, y siempre antes de la caducidad de la autorización.
+
+> Se modifica el apartado 4 por el art. único.6 del Real Decreto 684/2026, de 26 de agosto. [Ref. BOE-A-2026-18205](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18205)
+
+> Téngase en cuenta, en relación con el apartado 4, el periodo de validez de autorizaciones establecido en la disposición transitoria única del citado Real Decreto.
+
+> Se modifica el apartado 4 por el art. único.6 del Real Decreto 111/2022, de 8 de febrero de 2022. [Ref. BOE-A-2022-2058](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2058)
+
+> Téngase en cuenta que los párrafos tercero, cuarto y quinto del apartado 4 son aplicables desde el 1 enero de 2021, según establece la disposición transitoria única del citado Real Decreto.
+
+> Se modifica el apartado 4 por el art. único.3 del Real Decreto 201/2021, de 30 de marzo. [Ref. BOE-A-2021-5030](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5030)
+
+> Téngase en cuenta que esta modificación será aplicable desde el 1 de enero de 2020 según establece la disposición final única del citado Real Decreto.
+
+> Se modifica el apartado 4 por el art. 3.7 del Real Decreto 558/2020, de 9 de junio. [Ref. BOE-A-2020-5899](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5899)
+
+### *Sección 3.ª Conversiones de derechos de plantación de viñedo en autorizaciones*
+
+> Se suprime por el art. único.7 del Real Decreto 684/2026, de 26 de agosto. [Ref. BOE-A-2026-18205](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18205)
+
+#### Artículo 20. Conversiones de derechos de plantación.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.7 del Real Decreto 684/2026, de 26 de agosto. [Ref. BOE-A-2026-18205](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18205)
+
+> Se añade el apartado 4 por el art. único.11 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+> Se modifica el apartado 3 por el art. único.4 del Real Decreto 201/2021, de 30 de marzo. [Ref. BOE-A-2021-5030](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5030)
+
+> Se añade el apartado 3 por el art. 3.8 del Real Decreto 558/2020, de 9 de junio. [Ref. BOE-A-2020-5899](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5899)
+
+#### Artículo 21. Lugar y plazo de presentación de solicitudes.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.7 del Real Decreto 684/2026, de 26 de agosto. [Ref. BOE-A-2026-18205](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18205)
+
+> Se modifica el apartado 1 por el art. único.5 del Real Decreto 201/2021, de 30 de marzo. [Ref. BOE-A-2021-5030](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5030)
+
+#### Artículo 22. Autorizaciones de plantación de viñedo por conversión de un derecho de plantación.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.7 del Real Decreto 684/2026, de 26 de agosto. [Ref. BOE-A-2026-18205](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18205)
+
+> Se modifica el apartado 3 por el art. único.6 del Real Decreto 201/2021, de 30 de marzo. [Ref. BOE-A-2021-5030](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5030)
+
+> Se modifica el apartado 3 por el art. 3.9 del Real Decreto 558/2020, de 9 de junio. [Ref. BOE-A-2020-5899](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5899)
+
+### *Sección 4.ª Disposiciones comunes al régimen de autorizaciones de plantaciones de viñedo*
+
+#### Artículo 23. Modificación de la localización de la superficie para la que se ha concedido una autorización.
+
+1\. De conformidad con lo establecido en el artículo 11 del Reglamento de Ejecución (UE) n.º 2018/274, de la Comisión, de 11 de diciembre 2017, en casos debidamente justificados, se podrán realizar modificaciones de la localización de la superficie para la que se ha concedido una autorización, siempre que la nueva superficie tenga el mismo tamaño en hectáreas y que la autorización siga siendo válida.
+
+2\. Para poder llevar a cabo una modificación, el titular de la autorización deberá solicitar de forma motivada dicha modificación, con anterioridad a la realización de la plantación, ante la autoridad competente que emitió la resolución de dicha autorización. La realización de la plantación deberá ser posterior a la resolución por parte de la autoridad competente de dicha modificación.
+
+En el caso de que la nueva superficie radique en otra comunidad autónoma, el titular de la autorización deberá presentar la solicitud de modificación ante la autoridad competente donde radique la nueva superficie donde se va a plantar. Esta autoridad comunicará a la autoridad competente que emitió la resolución de autorización informando de que va a solicitar una modificación en otra comunidad autónoma. En este caso se velará expresamente porque no concurra la creación de condiciones artificiales especificada en el artículo 12.2 apartado f).
+
+3\. La nueva superficie agraria deberá estar a disposición de la persona solicitante en propiedad, o en régimen de arrendamiento o aparcería, o cualquier otra forma conforme a derecho que pueda demostrar mediante documento liquidado de los correspondientes tributos, en el momento de la presentación de la solicitud de modificación y en el momento de la comunicación de la plantación, que la persona solicitante deberá realizar de acuerdo a lo establecido en el apartado 7.
+
+En el caso de que la solicitud sea para modificar la localización de una autorización concedida para una nueva plantación en virtud de la sección 1.ª, la persona solicitante deberá justificar que a fecha de apertura del plazo de presentación de solicitudes de la concesión de la autorización a modificar según el artículo 9, tenía a su disposición la superficie para la que se solicita la modificación.
+
+A los efectos del cumplimiento del presente apartado, se tendrá en cuenta lo establecido en los párrafos primero, segundo, cuarto y quinto del artículo 8.1.a).
+
+4\. En el caso de que la solicitud sea para modificar la localización de una autorización concedida para una nueva plantación en virtud de la sección 1ª, la nueva superficie no podrá estar localizada en una zona en la que se hubieran aplicado limitaciones en el año en el que se hubiera solicitado la modificación, y se hubiera alcanzado el límite máximo, mientras que la superficie inicial estaba situada fuera de esa zona.
+
+En el caso de que la solicitud sea para modificar la localización de una autorización concedida para replantación o por conversión de un derecho de plantación, y la nueva superficie estuviera localizada en una zona en la que se aplican restricciones en el año de la solicitud de la modificación, la autorización concedida quedará sometida a las mismas restricciones.
+
+No se podrá modificar la localización en las autorizaciones de replantación que se hayan concedido con un plazo de vigencia de seis años en virtud de lo establecido el segundo párrafo del artículo 19.4.
+
+5\. Las solicitudes deberán indicar el tamaño y la localización específica de la nueva superficie a plantar. Se presentarán conforme a un modelo que contenga, al menos, los datos que figuran en el anexo X.
+
+6\. El plazo de resolución y el sentido del silencio administrativo será el establecido por la comunidad autónoma correspondiente y, en su defecto, el plazo máximo de resolución será de tres meses desde el momento de presentación de la solicitud y el sentido del silencio administrativo estimatorio.
+
+7\. Una vez ejecutada la plantación de viñedo, el solicitante deberá comunicar la misma a la autoridad competente.
+
+> Se añade un tercer párrafo al apartado 4 por el art. único.7 del Real Decreto 111/2022, de 8 de febrero de 2022. [Ref. BOE-A-2022-2058](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2058)
+
+> Téngase en cuenta para su aplicación la disposición final única del citado Real Decreto.
+
+> Se modifica el apartado 3 por el art. único.7 del Real Decreto 536/2019, de 20 de septiembre. [Ref. BOE-A-2019-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-13412)
+
+#### Artículo 24. Transferencias de autorizaciones de plantaciones de viñedo, resoluciones de arranque y de derechos de plantación.
+
+1\. No se considerarán válidas conforme a este real decreto las transferencias de autorizaciones de plantación de viñedo posteriores al 1 de enero de 2016, concedidas en virtud de los artículos 64, 66 y 68 del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, ni de derechos de replantación de viñedo concedidos antes del 31 de diciembre de 2015.
+
+2\. No obstante, se podrán realizar transferencias de autorizaciones, resoluciones de arranque o de derechos de plantación cuyo periodo de validez no se haya alcanzado, en los siguientes supuestos y con las siguientes condiciones:
+
+a) Herencia por *mortis causa*o herencia anticipada. En el caso de heredar una autorización de plantación, el heredero deberá tener a su disposición la superficie concreta para la que fue concedida la autorización y estará obligado a cumplir los compromisos que se hubieran adquirido en el momento de la concesión de la autorización.
+
+b) Fusiones y escisiones de personas jurídicas. En caso de que el titular de la autorización de plantación no mantenga su personalidad jurídica, aquellas personas jurídicas creadas como consecuencia de la fusión o escisión y que prosigan con la producción de vino podrán utilizar las autorizaciones, resoluciones o los derechos, asumiendo todos los derechos y obligaciones del titular al que se le concedieron.
+
+La autoridad competente comprobará que los casos de fusión o escisión de personas jurídicas no responden al objetivo de crear condiciones artificiales para conseguir una autorización de una transferencia de autorizaciones de plantaciones de viñedo o resoluciones de arranque en una situación no excepcional e injustificada.
+
+c) Disolución de una explotación de titularidad compartida. En los casos en que se disuelva una explotación de titularidad compartida, como, por ejemplo, tras el divorcio o la separación de los dos propietarios de dicha explotación, y no se cree ninguna nueva persona jurídica o titularidad compartida, sino que una de las personas físicas propietarias de la explotación en régimen de titularidad compartida prosiga con la producción de vino, también se considerará aceptable la transferencia de autorizaciones a favor de la persona que prosiga con la producción de vino.
+
+> Se añade un segundo párrafo a la letra b) del apartado 2 por el art. único.8 del Real Decreto 684/2026, de 26 de agosto. [Ref. BOE-A-2026-18205](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18205)
+
+> Se añade la letra c) al apartado 2 por el art. único.12 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+#### Artículo 25. Penalizaciones y recuperación de costes.
+
+Los titulares de una plantación de viñedo sin autorización de plantación deberán arrancarla, asumiendo el coste, de acuerdo con el artículo 71.1 del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013. Además, la comunidad autónoma competente les impondrá una penalización con el importe mínimo establecido en el artículo 46 del Reglamento Delegado (UE) n.º 2018/273 de la Comisión, de 11 de diciembre de 2017. En los casos en que se estime que los ingresos anuales obtenidos en la superficie en la que se sitúan los viñedos en cuestión superan los 6.000 euros por hectárea, la autoridad competente aumentará los importes mínimos proporcionalmente a la renta media anual por hectárea estimada para esa superficie.
+
+En caso de que la autoridad competente tenga que garantizar el arranque de las plantaciones no autorizadas por sus propios medios, el coste a cargo del productor de conformidad con el artículo 71.2 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre, se calculará conforme al artículo 46 del Reglamento Delegado (UE) n.º 2018/273 de la Comisión, de 11 de diciembre 2017, y este coste se añadirá a la penalización aplicable.
+
+Las comunidades autónomas podrán considerar como plantación no autorizada las plantaciones de viñedo realizadas incumpliendo alguna de las condiciones esenciales de la autorización concedida.
+
+Queda prohibida la comercialización de la producción de una plantación realizada sin autorización hasta que sea arrancada conforme a lo establecido por el mencionado artículo 71. Las comunidades autónomas sancionarán a los titulares que incumplan la prohibición de su comercialización conforme al artículo 39.1 l) de la Ley 24/2003, de 10 de julio.
+
+> Se modifica por el art. único.13 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+> Se modifica por el art. único.7 del Real Decreto 201/2021, de 30 de marzo. [Ref. BOE-A-2021-5030](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5030)
+
+#### Artículo 26. Sanciones administrativas.
+
+1\. A los productores que no utilicen la autorización de nueva plantación que se les haya concedido durante su periodo de validez, les será de aplicación el régimen de sanciones previsto en la Ley 24/2003, de 10 de julio, de la Viña y del Vino, y en la normativa autonómica de aplicación, sin perjuicio de las responsabilidades civiles, penales o de otro orden a que hubiera lugar.
+
+Dichas sanciones no se aplicarán en los casos fijados en el artículo 3.1 del Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo de 2 de diciembre de 2021, ni cuando lo que no se haya utilizado durante su periodo de validez sea inferior a un 10 % hasta un máximo de 0,2 hectáreas.
+
+2\. Se considerarán incumplidas las condiciones esenciales de la autorización concedida en los siguientes casos:
+
+a) Incumplimiento de disponibilidad para plantar viñedo en la superficie recogida en la solicitud de autorización desde que se solicita hasta que se comunica la plantación.
+
+b) Incumplimiento del compromiso recogido en el punto 3) del criterio A) del anexo II del Reglamento Delegado (UE) número 2018/273, de la Comisión, de 11 de diciembre 2017, cuando fuera determinante para la concesión de la autorización correspondiente.
+
+c) Incumplimiento del compromiso recogido en la parte A) 2) a) y b) del anexo I del Reglamento Delegado (UE) número 2018/273 de la Comisión, de 11 de diciembre 2017, cuando fuera determinante para la concesión de la autorización correspondiente.
+
+d) Creación de condiciones artificiales de acuerdo con lo establecido en el artículo 12.
+
+e) Incumplimiento de lo establecido en el artículo 11.8.
+
+3\. El incumplimiento de las condiciones esenciales de la autorización concedida determinará la suspensión de los efectos de dicha autorización, o, en su caso, su revocación, debiéndose restablecer la situación al momento previo a su otorgamiento. Además, se deberá aplicar una sanción grave según lo recogido en el artículo 39.1.p) de la Ley 24/2003, de 10 de julio, a menos que la comunidad autónoma donde se ubique la plantación haya establecido en su normativa en virtud del tercer párrafo del artículo 25 que considera como plantaciones no autorizadas aquellas realizadas incumpliendo alguna de las condiciones esenciales de la autorización concedida, en cuyo caso se deberá aplicar lo establecido en los dos primeros párrafos del artículo 25.
+
+> Se modifica el apartado 1 por el art. único.9 del Real Decreto 684/2026, de 26 de agosto. [Ref. BOE-A-2026-18205](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18205)
+
+> Se modifica por el art. único.9 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+> Se modifica el apartado 1 por el art. 3.10 del Real Decreto 558/2020, de 9 de junio. [Ref. BOE-A-2020-5899](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5899)
+
+#### Artículo 27. Comunicaciones.
+
+1\. Las comunidades autónomas deberán remitir al Ministerio de Agricultura, Pesca y Alimentación la información recogida en los anexos necesaria para el cumplimiento de las obligaciones de comunicación a la Comisión Europea previstas en la normativa de la Unión Europea y el seguimiento y evaluación de las disposiciones del régimen de autorizaciones de plantaciones de viñedo.
+
+2\. A más tardar en el plazo de un mes desde la fecha de entrada en vigor de este real decreto, las comunidades autónomas remitirán al Ministerio de Agricultura, Pesca y Alimentación la información referida en el artículo 50.1.c) del Reglamento Delegado (UE) n.º 2018/273 de la Comisión, de 11 de diciembre 2017. Asimismo, remitirán al Ministerio de Agricultura, Pesca y Alimentación la información actualizada cada vez que se produzcan modificaciones en la misma.
+
+> Se modifica el apartado 1 por el art. único.8 del Real Decreto 111/2022, de 8 de febrero de 2022. [Ref. BOE-A-2022-2058](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2058)
+
+> Téngase en cuenta para su aplicación la disposición final única del citado Real Decreto.
+
+## CAPÍTULO III — Registro vitícola y disposiciones de control
+
+#### Artículo 28. Registro vitícola.
+
+1\. El Registro Vitícola de las comunidades autónomas contendrá información actualizada que incluirá, al menos, los detalles y especificaciones establecidos en el anexo XXII de este real decreto, conforme a la información establecida en los anexos III y IV del Reglamento Delegado (UE) número 2018/273 de la Comisión, de 11 de diciembre 2017, y en el anexo I del Real Decreto 1054/2022, de 27 de diciembre, por el que se establece y regula el Sistema de información de explotaciones agrícolas y ganaderas y de la producción agraria, así como el Registro autonómico de explotaciones agrícolas y el Cuaderno digital de explotación agrícola.
+
+2\. Además, las comunidades autónomas utilizarán la información gráfica y alfanumérica de identificación de parcelas del SIGPAC, previsto en el Real Decreto 1048/2022, de 27 de diciembre, sobre la aplicación, a partir de 2023, de las intervenciones en forma de pagos directos y el establecimiento de requisitos comunes en el marco del Plan Estratégico de la Política Agrícola Común, y la regulación de la solicitud única del sistema integrado de gestión y control.
+
+3\. Se deberá recoger en el registro vitícola información sobre el destino de la producción de las parcelas, cuando se aplique el artículo 8.2, el artículo 17.3 o el artículo 22.4 del presente real decreto.
+
+4\. El registro vitícola de las comunidades autónomas permitirá, a través de su interconexión con el Registro de Explotaciones Agrícolas de la comunidad autónoma, aportar información al SIEX creado y regulado en el Real Decreto 1054/2022, de 27 de diciembre, por el que se establece y regula el Sistema de información de explotaciones agrícolas y ganaderas y de la producción agraria, así como el Registro autonómico de explotaciones agrícolas y el Cuaderno digital de explotación agrícola. Para ello, deberán utilizarse, por parte de las comunidades autónomas, las herramientas electrónicas y procedimientos adecuados para ello. Si no dispusieran de tales herramientas y, en aras de conseguir un buen funcionamiento del sistema, se establecerá un periodo transitorio de un año desde la publicación del citado real decreto, para que las desarrollen.
+
+> Se modifica el apartado 1 por el art. único.10 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+> Se modifica el apartado 2 por el art. único.14 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+> Se añade, con efectos de 1 de julio de 2023, el apartado 4, por la disposición final 4 del Real Decreto 1054/2022, de 27 de diciembre. [Ref. BOE-A-2022-23054](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23054)
+
+#### Artículo 29. Controles.
+
+1\. Las autoridades competentes realizarán las actuaciones de control precisas para verificar el cumplimiento de lo establecido en el presente real decreto, conforme a lo establecido en la normativa de la Unión Europea aplicable, así como en cumplimiento de lo dispuesto en el artículo 31.2 del Reglamento de Ejecución (UE) n.º 2018/274 de la Comisión, de 11 de diciembre 2017, para mantener actualizada la información del registro vitícola.
+
+2\. El Ministerio de Agricultura, Pesca y Alimentación coordinará con las comunidades autónomas el establecimiento de mecanismos de colaboración e intercambio de información entre administraciones para el buen funcionamiento y gestión del régimen de autorizaciones de viñedo.
+
+3\. Sin perjuicio de lo anterior, las comunidades autónomas prestarán especial atención a la hora de realizar los controles en el régimen de autorizaciones de viñedo, a fin de evitar que los solicitantes eludan los criterios de prioridad o de admisibilidad o creen de manera artificial las condiciones y requisitos previstos en cada caso en el capítulo II de este real decreto.
+
+> Se modifica el apartado 1 por el art. único.15 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+## CAPÍTULO IV — Variedades de uva de vinificación y portainjertos.
+
+> Se modifica por el art. único.11 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+#### Artículo 30. Variedades de uva de vinificación y portainjertos.
+
+Para poder clasificar una variedad de uva de vinificación o para poder utilizar una variedad de portainjerto en España deberá estar previamente inscrita en el Registro de Variedades Comerciales de Vid para España o en los catálogos o registros de los demás Estados miembros de la Unión Europea.
+
+a) Variedades de uva de vinificación:
+
+De conformidad con el artículo 81 del Reglamento (UE) número 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, para elaborar los productos referidos en el anexo VII parte II de dicho reglamento sólo podrán utilizarse variedades de uva de vinificación que hayan sido clasificadas como «autorizadas».
+
+Para poder clasificar una variedad de uva de vinificación como autorizada en España deberá cumplir con las condiciones exigidas en el segundo párrafo del artículo 81.2 del citado reglamento:
+
+1.ª) la variedad en cuestión pertenece a la especie *Vitis vinifera* o procede de un cruce entre la especie *Vitis vinifera* y otras especies del género *Vitis*;
+
+2.ª) la variedad no es una de las siguientes: Noah, Othello, Isabelle, Jacquez, Clinton y Herbemont.
+
+b) Portainjertos utilizados:
+
+En relación con el material vegetal utilizado como portainjerto, obligatorio para elaborar los productos referidos en el anexo VII parte II de Reglamento (UE) número 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, en el territorio español a excepción de las Islas Canarias, deberá ser material de vid americana, o de sus cruzamientos, con probada resistencia a la filoxera, de acuerdo con el artículo 5 de Ley 24/2003, de 10 de julio.
+
+> Se modifica por el art. único.12 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+> Se modifica por el art. único.16 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+#### Artículo 30 bis. Modalidades de clasificación de variedades de uva de vinificación.
+
+1\. La clasificación de una variedad de uva, que cumpla los requisitos del artículo 30, como autorizada para vinificación en España se llevará a cabo por alguna de las siguientes modalidades:
+
+a) La inclusión de una variedad de uva de vinificación totalmente nueva en la lista oficial de variedades autorizadas en España, sin que la misma se encuentre clasificada previamente, deberá ser sometida a la evaluación a la que se hace referencia en el artículo 31. Una vez que dicha prueba demuestre una aptitud satisfactoria, esta variedad se incluirá dentro de la categoría de autorizadas.
+
+b) También se podrán clasificar variedades de uva de vinificación totalmente nuevas en la lista oficial de variedades autorizadas en España, cuando, no cumpliendo con lo exigido en la letra a), cumplan con todas las siguientes características:
+
+1.ª Antigüedad: si existen registros de su cultivo que puedan justificar la antigüedad de esa variedad en la región en la que se va a clasificar, los cuales se recogerán:
+
+i) Si la variedad se mantiene en cultivo *in situ*: mediante informe motivado del órgano competente de la comunidad autónoma donde está ubicado el cultivo in situ;
+
+ii) Si la variedad se mantiene conservada *ex situ*: mediante informe del organismo competente de la comunidad autónoma donde está conservada dicha variedad.
+
+2.ª Interés: si existe un grupo de viticultores o elaboradores, entidad u organismo o similar que ha presentado a la autoridad competente una solicitud de autorización motivada.
+
+3.ª Adaptación local: si existen estudios, proyectos de investigación, ensayos o plantaciones locales que de muestren que dicha variedad, cultivada en esa región, permite obtener un vino con calidad como mínimo comercial y cabal.
+
+En el caso de que la variedad de uva de vinificación que se pretenda clasificar en España esté previamente clasificada como autorizada en otro Estado miembro de la Unión Europea y que cumpla los requisitos citados en este apartado, se deberá justificar además que la región donde esté autorizada de acuerdo al artículo 81.2 del Reglamento (UE) número 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, y plantada cuenta con unas características agroclimáticas similares a las de la comunidad autónoma donde se pretende autorizar.
+
+Las variedades respecto de las que se haya demostrado que cumplen todas estas características se exceptuarán de ser sometidas a la evaluación previa a que se refiere el artículo 31.
+
+c) En caso de que una variedad de vinificación se encuentre previamente clasificada en España, no será de aplicación lo dispuesto en este artículo 31 y podrá ser incluida directamente dentro de la categoría de autorizada para el territorio de la comunidad autónoma que lo solicite y que demuestre tener condiciones agroclimáticas similares a las de las comunidades autónomas donde ya está autorizada dicha variedad.
+
+2\. Cuando la experiencia adquirida demuestre que una variedad de vid no cumple las exigencias requeridas para la categoría en que está clasificada, podrá ser suprimida. Asimismo, podrá restringirse motivadamente la plantación, el injerto sobre el terreno, y el sobreinjerto, de una variedad de vid en una determinada zona geográfica del territorio español cuando, en atención a las distintas condiciones agroclimáticas, o de otro orden vinculadas al cultivo, no se cumplan las exigencias requeridas para la categoría en que está clasificada en esa zona específica.
+
+> Se añade por el art. único.13 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+#### Artículo 31. Evaluación previa.
+
+La evaluación previa se efectuará basándose en los resultados de los exámenes analíticos y organolépticos de los correspondientes productos acabados, especificados en el anexo XX.
+
+#### Artículo 32. Sinonimias.
+
+El nombre principal y las sinonimias de la variedad clasificada serán aquéllas que figuren como tales en su inscripción en el Registro de Variedades Comerciales de Vid para España o en los catálogos o registros de los demás Estados miembros de la Unión Europea. El nombre principal de la variedad será obligatorio y será recogerá en primer lugar. En segundo lugar, tras el nombre principal se podrán enumerar las sinonimias que la comunidad autónoma considere que se deben clasificar en su territorio.
+
+> Se modifica por el art. único.17 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+#### Artículo 33. Administración competente.
+
+Las comunidades autónomas serán las responsables de clasificar en su ámbito territorial las variedades del género *Vitis*destinadas a la producción de uva de vinificación y a la obtención de material de producción vegetativa de la vid, debiendo para ello cumplir con lo establecido en los artículos 30, 30 bis, 31 y 32. Una vez clasificada siguiendo los criterios establecidos en dichos artículos, será incluida en la normativa de la comunidad autónoma que establece la lista oficial de variedades de uva de vinificación autorizadas en su ámbito territorial, y se podrán realizar plantaciones con dicha variedad en esa comunidad autónoma.
+
+> Se modifica por el art. único.14 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+> Se modifica por el art. único.18 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+#### Artículo 34. Modalidades de clasificación.
+
+**(Suprimido)**
+
+> Se suprime por la disposición final 3.1 del Real Decreto 683/2025, de 29 de julio. [Ref. BOE-A-2025-15746](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15746)
+
+> Se modifican las letras b) y c) del apartado 1 por el art. único.19 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+> Se modifica el apartado 1.b) por el art. único.9 del Real Decreto 111/2022, de 8 de febrero de 2022. [Ref. BOE-A-2022-2058](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2058)
+
+> Téngase en cuenta para su aplicación la disposición final única del citado Real Decreto.
+
+#### Artículo 35. Deber de colaboración.
+
+1\. Las comunidades autónomas comunicarán por medios electrónicos al Ministerio de Agricultura, Pesca y Alimentación, antes del 1 de enero de cada año, las modificaciones en la clasificación de variedades de uva de vinificación que figuran en el anexo XXI que hayan realizado en cumplimiento de lo previsto en el artículo 33.
+
+2\. Dicha comunicación incluirá lo siguiente:
+
+a) Una solicitud de modificación del anexo XXI para actualizar la clasificación de variedades autorizadas de su comunidad autónoma recogida en el mismo.
+
+b) Un certificado de que en la clasificación de las variedades por las que solicita la modificación se ha cumplido lo dispuesto en el artículo 33 de este real decreto, firmados por la persona responsable de la Dirección General competente en dicha comunidad.
+
+3\. El Ministerio de Agricultura, Pesca y Alimentación publicará anualmente, mediante orden ministerial en el “Boletín Oficial del Estado”, las modificaciones que se produzcan en el anexo XXI con base en las comunicaciones realizadas por las comunidades autónomas.
+
+> Se modifica el apartado 1 por la disposición final 3.2 del Real Decreto 683/2025, de 29 de julio. [Ref. BOE-A-2025-15746](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15746)
+
+> Se modifica por el art. único.20 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+#### Artículo 36. Prohibición de plantaciones con variedades no inscritas en la clasificación.
+
+1\. Quedan prohibidos la plantación, el injerto sobre el terreno, y el sobreinjerto, de variedades de uva de vinificación no inscritas en la clasificación. Estas restricciones no se aplicarán a las variedades de vid utilizadas en investigaciones científicas y experimentación.
+
+2\. Excepcionalmente, se podrá permitir la producción de material de producción vegetativa de la vid reservado exclusivamente para la exportación a terceros países, siempre que se efectúe un control adecuado de la producción, así como la producción de planta-injerto con viníferas producidas en otro Estado Miembro.
+
+#### Artículo 37. Información sobre la mención de una variedad en el etiquetado.
+
+En aplicación del artículo 100.3 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, sin perjuicio de que en el anexo XXI figuren como nombres de las variedades de vid autorizadas por cada comunidad autónoma, algunos que consisten o contienen, en todo o en parte, el nombre de una denominación de origen protegida o indicación geográfica protegida, dichos nombres no se podrán usar en el etiquetado de los vinos, salvo las excepciones establecidas en el artículo 50 del Reglamento Delegado (UE) 2019/33 de la Comisión, de 17 de octubre de 2018, y habrán de substituirse, en su caso, por un sinónimo que no incumpla dicho artículo.
+
+> Se añade por el art. único.21 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+#### Disposición adicional primera. Información adicional.
+
+Sin perjuicio de lo previsto en los artículos 9, 14, 21 y 24, las comunidades autónomas podrán requerir información adicional a los solicitantes únicamente cuando resulte pertinente para la aplicación del régimen de autorizaciones.
+
+#### Disposición adicional segunda. Aplicaciones informáticas.
+
+A los efectos previstos en los artículos 9.1, 15.3, 16.5, 21.2 y 23.5, y en los anexos II, y VII a X, las comunidades autónomas podrán establecer los correspondientes modelos de solicitud, si bien en este último caso, en dichos modelos se incluirán, al ser básicos, los datos que figuran en los anexos del presente real decreto, y las aplicaciones informáticas de dichos modelos deberán posibilitar que la parte referida a los datos mínimos de los anexos del presente real decreto sea accesible y reusable mediante sistemas entendibles por máquinas conforme a los protocolos y estándares de interoperabilidad que apruebe el Ministerio de Agricultura, Pesca y Alimentación, corriendo los costes de la interoperabilidad a cargo de las comunidades autónomas de que se trate.
+
+#### Disposición transitoria primera. Plantaciones ilegales de viñedo.
+
+1\. Seguirán aplicándose las disposiciones del capítulo III del Real Decreto 1244/2008, de 18 de julio, por el que se regula el potencial de producción vitícola, mientras no hayan sido arrancadas las superficies de viñedo plantadas después del 31 de agosto de 1998 sin un derecho de replantación, y las superficies plantadas antes del 31 de agosto de 1998 sin un derecho de replantación que no hubieran sido regularizadas antes del 1 de enero de 2010.
+
+2\. Seguirán aplicándose las disposiciones del Real Decreto 740/2015, de 31 de julio, por el que se regula el potencial de producción vitícola y se modifica el Real Decreto 1079/2014, de 19 de diciembre, para la aplicación de las medidas del programa de apoyo 2014-2018 al sector vitivinícola, mientras no hayan sido arrancadas las superficies de viñedo plantadas sin autorización desde el 1 de enero de 2016 hasta el 31 de julio de 2017.
+
+3\. Seguirán aplicándose las disposiciones del Real Decreto 772/2017, de 28 de julio, por el que se regula el potencial de producción vitícola, mientras no hayan sido arrancadas las superficies de viñedo plantadas sin autorización desde el 1 de agosto de 2017 hasta la entrada en vigor de este real decreto.
+
+> Se numera por la disposicion final 1 del Real Decreto 660/2024, de 9 de julio. [Ref. BOE-A-2024-14082](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-14082)
+
+> Su anterior denominación era disposición transitoria única.
+
+#### Disposición transitoria segunda. Destino de uva sujeta al compromiso sobre no utilizar ni comercializar las uvas producidas para producir vinos con Denominación de Origen Protegida Cava durante la vendimia 2024.
+
+En virtud de las circunstancias excepcionales producidas por la sequía que concurren en la vendimia 2024 en la Denominación de Origen Protegida Cava, se acuerda la suspensión temporal, exclusivamente para dicha vendimia,de la eficacia de la obligación derivada del compromiso de la letra a) del apartado 2) de las secciones A y B del anexo I del Reglamento Delegado (UE) 2018/273 de la Comisión, de 11 de diciembre de 2017, suscrito conforme a los artículos 8.2.b) y 17.3 de este real decreto, de modo que, si así lo acuerdan los operadores interesados mediante el correspondiente documento privado, se puedan destinar las uvas producidas, para producir vinos con Denominación de Origen Protegida Cava. Esta suspensión no prejuzga los compromisos adquiridos en virtud de dicha normativa una vez concluya dicha vendimia, ni otorga derecho alguno al viticultor para solicitar, para las vendimias posteriores a la de 2024, la suspensión del referido compromiso adquirido en virtud de los mencionados artículos del Real Decreto 1338/2018, de 29 de octubre.
+
+> Se añade por la disposicion final 1 del Real Decreto 660/2024, de 9 de julio. [Ref. BOE-A-2024-14082](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-14082)
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 772/2017, de 28 de julio, por el que se regula el potencial de producción vitícola, y el artículo 34.7 del Real Decreto 5/2018, de 12 de enero, para la aplicación de las medidas del programa de apoyo 2019/2023 al sector vitivinícola español.
+
+#### Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+#### Disposición final segunda. Autorización para la modificación del real decreto y sus anexos.
+
+Se autoriza al Ministro de Agricultura, Pesca y Alimentación a llevar a cabo las modificaciones de los anexos, fechas y plazos del presente real decreto, así como para realizar cuantas modificaciones en el articulado del mismo sean precisas cuando dichas modificaciones sean exigidas como consecuencia de la normativa de la Unión Europea. Asimismo, se le faculta para modificar el límite máximo de superficie admisible por solicitante en cómputo nacional.
+
+> Se modifica por el art. 3.11 del Real Decreto 558/2020, de 9 de junio. [Ref. BOE-A-2020-5899](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5899)
+
+#### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 29 de octubre de 2018.
+
+FELIPE R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+LUIS PLANAS PUCHADES
+
+## ANEXO I — Recomendaciones
+
+**Anexo I.A**
+
+**Información y documentación mínima de las recomendaciones de la Organización Interprofesional del Vino sobre la limitación de autorizaciones de nueva plantación a nivel nacional (artículo 7.3)**
+
+a) Organización interprofesional proponente, justificación de su representatividad en el ámbito nacional e importancia en el sector.
+
+b) Acuerdo adoptado por el órgano decisorio de la Organización, justificado mediante certificado firmado por el representante legal de la organización con fecha anterior al 1 de noviembre del año en el que se presente la recomendación.
+
+c) Recomendación propuesta: es el porcentaje recomendado que se propone conceder para autorizaciones de nuevas plantaciones para todo el territorio nacional, que deberá como máximo del 1 %.
+
+d) Justificación de la recomendación. Estudio que justifique la limitación por el motivo recogido en el artículo 63.3.a) del Reglamento (UE) n.° 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre.
+
+**Anexo I.B**
+
+**1. Información y documentación mínima de las recomendaciones de la organización interprofesional con representatividad en la zona geográfica de la DOP o Consejo Regulador de la DOP sobre la limitación de autorizaciones para nuevas plantaciones en el ámbito de una DOP (artículo 7.3)**
+
+a) Organización interprofesional con representatividad en la zona geográfica de la DOP o Consejo Regulador de la DOP y justificación de su representatividad en la zona geográfica de la DOP en cuestión e importancia económica y sectorial en la DOP.
+
+b) Acuerdo adoptado por el órgano decisorio de la organización interprofesional o Consejo Regulador, entre las partes representativas relevantes de la zona geográfica que se trate sobre la limitación de concesión de autorizaciones de nueva plantación, justificado mediante certificado firmado por el representante legal de la organización interprofesional o del Consejo Regulador con fecha anterior al 1 de noviembre del año en el que se presente la recomendación.
+
+c) Zona geográfica en la que se aplicaría la recomendación de limitar la concesión de autorizaciones de nuevas plantaciones.
+
+d) Periodo de aplicación de la recomendación.
+
+e) Estudio que justifique la recomendación de limitar la concesión de autorizaciones de nueva plantación con base en los motivos recogidos en el artículo 63.3 del Reglamento (UE) n.° 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre.
+
+f) Superficie máxima (hectáreas) para la concesión de autorizaciones de nuevas plantaciones y justificación de la superficie propuesta.
+
+2\. En caso de que la organización interprofesional con representatividad en la zona geográfica de la DOP o Consejo Regulador de la DOP proponga una limitación de autorizaciones para nuevas plantaciones en el ámbito de una DOP según el punto 1), la información y documentación mínima de las recomendaciones de la organización interprofesional con representatividad en la zona geográfica de la DOP o Consejo Regulador de la DOP sobre restricciones a las autorizaciones para replantación y autorizaciones por conversión de un derecho de plantación (artículos 18.3 y 22.4) será la siguiente:
+
+a) Acuerdo adoptado por el órgano decisorio de la organización interprofesional o Consejo Regulador, entre las partes representativas relevantes de la zona geográfica que se trate sobre la limitación de concesión de autorizaciones de nueva plantación, justificado mediante certificado firmado por el representante legal de la organización interprofesional o del Consejo Regulador con fecha anterior al 1 de noviembre del año en el que se presente la recomendación.
+
+b) Zona geográfica en la que se aplicaría la recomendación de restringir las autorizaciones de replantación y las autorizaciones por conversión de un derecho de plantación.
+
+c) Periodo de aplicación de la recomendación.
+
+d) Estudio que justifique la recomendación de restringir las autorizaciones de replantación y las autorizaciones por conversión de un derecho de plantación recogido en el artículo 6 del Reglamento Delegado (UE) n.° 2018/273 de la Comisión, de 11 de diciembre, por el que se completa el Reglamento (UE) n.° 1308/2013 del Parlamento Europeo y del Consejo en lo que respecta al régimen de autorizaciones para plantaciones de vid, y en el artículo 8 del Reglamento de Ejecución (UE) n.° 2018/274 de la Comisión, de 11 de diciembre, por el que se establecen disposiciones de aplicación del Reglamento (UE) n.° 1308/2013 del Parlamento Europeo y del Consejo, en lo que respecta al régimen de autorizaciones para plantaciones de vid.
+
+> Se modifica la letra c) del anexo I.A por el art. único.10 del Real Decreto 684/2026, de 26 de agosto. [Ref. BOE-A-2026-18205](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18205)
+
+> Se modifican los anexos I.A y I.B por el art. único.8 del Real Decreto 536/2019, de 20 de septiembre. [Ref. BOE-A-2019-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-13412)
+
+## ANEXO II — Solicitudes
+
+II.A
+
+Información mínima que debe contener la solicitud para la concesión de autorización para nueva plantación de viñedos
+
+![imagen del ANEXO II A](https://www.boe.es/datos/imagenes/disp/2018/262/14803_11135.png)
+
+(*) Si se consigna el criterio a) no se podrá consignar los criterios b) o c). (**) En caso de que la superficie total solicitada supere el límite de superficie admisible establecido según artículo 9.2 o en caso de que se solicite superficie en más de una comunidad autónoma, indicar el orden de preferencia de los recintos en el apartado 2.
+
+II.B
+
+Información mínima que debe contener la solicitud para la concesión de autorización para nueva plantación de viñedos en caso de que la superficie solicitada se ubique dentro de la zona geográfica de la DOP que se superpone con varias DOP´s en la que se haya aplicado limitaciones
+
+![imagen del ANEXO II B](https://www.boe.es/datos/imagenes/disp/2018/262/14803_11171.png)
+
+(*) Si se consigna el criterio a) no se podrá consignar los criterios b) o c).
+
+(**) En caso de que la superficie total solicitada supere el límite de superficie admisible establecido según artículos 9.2 y 9.3, o en caso de que se solicite superficie en más de una comunidad autónoma, indicar el orden de preferencia de los recintos en el apartado 2.
+
+## ANEXO III — Valoración de criterios de prioridad
+
+| Criterios de prioridad | Puntuación |
+|---|---|
+| Joven “nuevo viticultor” (artículo 10.1.a). | 1 |
+| Joven viticultor con buen comportamiento previo (artículo 10.1.b). | 0,5 |
+| Viticultor con pequeña/mediana explotación vitícola (artículo 10.1.c). |  |
+| Explotación pequeña. | 2 |
+| Explotación mediana. | 3 |
+
+> Se modifica por el art. único.22 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+> Téngase en cuenta la disposición transitoria única del citado Real Decreto, en cuanto a la aplicación de los criterios de prioridad en 2023.
+
+## ANEXO IV — Listado de solicitudes admisibles para nuevas plantaciones (artículo 9)
+
+Información mínima a incluir sobre las solicitudes admisibles:
+
+a) Datos del solicitante.
+
+b) Superficie solicitada, indicando DOP/IGP.
+
+c) Superficie admisible indicando DOP/IGP.
+
+d) Superficie no admisible indicando DOP/IGP.
+
+e) Orden de preferencia de cada recinto SIGPAC de la superficie admisible indicada en la solicitud, en caso de que corresponda.
+
+f) Puntuación asignada.
+
+Lista de solicitudes no admisibles para nuevas plantaciones por no cumplir criterio de admisibilidad.
+
+Información mínima a incluir sobre las solicitudes no admisibles:
+
+a) Datos del solicitante.
+
+b) Superficie solicitada, indicando DOP/IGP.
+
+c) Superficie no admisible indicando DOP/IGP.
+
+## ANEXO V — Tipos de pequeñas y medianas explotaciones vitícolas
+
+<table class="tabla">
+<colgroup>
+<col width="40%">
+<col width="30%">
+<col width="30%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla" colspan="2">Umbrales de tamaño en hectáreas*</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" rowspan="2">
+<p class="cabeza_tabla">Comunidad Autónoma</p>
+</th>
+<th class="cabeza_tabla">Explotación pequeña</th>
+<th class="cabeza_tabla">Explotación mediana</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">(ha)</th>
+<th class="cabeza_tabla">(ha)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Andalucía.</td>
+<td class="cuerpo_tabla_centro">≥0,5 a ≤ 3</td>
+<td class="cuerpo_tabla_centro">&gt;3 a ≤ 10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Aragón.</td>
+<td class="cuerpo_tabla_centro">≥0,5 a ≤ 5</td>
+<td class="cuerpo_tabla_centro">&gt;5 a ≤ 10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
+<td class="cuerpo_tabla_centro">≥0,1 a ≤ 1</td>
+<td class="cuerpo_tabla_centro">&gt;1 ≤ 6</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Illes Balears.</td>
+<td class="cuerpo_tabla_centro">≥0,5 a ≤ 4</td>
+<td class="cuerpo_tabla_centro">&gt;4 a ≤ 8</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cantabria.</td>
+<td class="cuerpo_tabla_centro">≥0,1 a ≤ 2</td>
+<td class="cuerpo_tabla_centro">&gt;2 a ≤ 6</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla-La Mancha.</td>
+<td class="cuerpo_tabla_centro">≥0,5 a ≤ 7</td>
+<td class="cuerpo_tabla_centro">&gt;7 a ≤ 18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_centro">≥0,5 a ≤ 7</td>
+<td class="cuerpo_tabla_centro">&gt;7 a ≤ 21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_centro">≥0,5 a ≤ 8</td>
+<td class="cuerpo_tabla_centro">&gt;8 a ≤ 20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Extremadura.</td>
+<td class="cuerpo_tabla_centro">≥0,5 a ≤ 8</td>
+<td class="cuerpo_tabla_centro">&gt;8 a ≤ 21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_centro">≥0,1 a ≤ 2</td>
+<td class="cuerpo_tabla_centro">&gt;2 a ≤ 4</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Comunidad de Madrid.</td>
+<td class="cuerpo_tabla_centro">≥0,5 a ≤ 2</td>
+<td class="cuerpo_tabla_centro">&gt;2 a ≤ 9</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región de Murcia.</td>
+<td class="cuerpo_tabla_centro">≥0,5 a ≤ 8</td>
+<td class="cuerpo_tabla_centro">&gt;8 a ≤ 23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Comunidad Foral de Navarra.</td>
+<td class="cuerpo_tabla_centro">≥0,5 a ≤ 7</td>
+<td class="cuerpo_tabla_centro">&gt;7 a ≤ 14</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">País Vasco.</td>
+<td class="cuerpo_tabla_centro">≥0,5 a ≤ 10</td>
+<td class="cuerpo_tabla_centro">&gt;10 a ≤ 21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">La Rioja.</td>
+<td class="cuerpo_tabla_centro">≥0,5 a ≤ 5</td>
+<td class="cuerpo_tabla_centro">&gt;5 a ≤ 11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Comunitat Valenciana.</td>
+<td class="cuerpo_tabla_centro">≥0,5 a ≤ 5</td>
+<td class="cuerpo_tabla_centro">&gt;5 a ≤ 10</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+<p class="cita">* Los umbrales entre las explotaciones pequeñas y medianas se han obtenido con base en los datos de los registros vitícolas de las comunidades autónomas y la superficie media de las explotaciones con Orientación Técnico-Económica Viticultura (OTE 35) de dimensión económica superior a 8.000 euros de Producción Estándar Total (PET) del Censo Agrario 2020 elaborado por el Instituto Nacional de Estadística (INE).</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+> Se modifica por el art. único.23 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+> Téngase en cuenta la disposición transitoria única del citado Real Decreto, en cuanto a la aplicación de los criterios de prioridad en 2023.
+
+## ANEXO VI — Información sobre superficie liberada por desistimientos u errores y concedida por recursos
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="16%">
+<col width="12%">
+<col width="16%">
+<col width="12%">
+<col width="16%">
+<col width="12%">
+<col width="16%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Comunidad Autónoma:</td>
+<td colspan="6"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha de comunicación:</td>
+<td colspan="6"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Campaña de la convocatoria:</td>
+<td colspan="6"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">Tipo de superficie</td>
+<td class="cuerpo_tabla_centro" colspan="2">superficie liberada por</td>
+<td class="cuerpo_tabla_centro" colspan="2">superficie liberada por errores **</td>
+<td class="cuerpo_tabla_centro" colspan="2">superficie concedida*** por</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">Nº de solicitudes</td>
+<td class="cuerpo_tabla_centro">Superficie liberada convertida en concedida**** objeto de desistimientos (has)</td>
+<td class="cuerpo_tabla_centro">Nº de solicitudes</td>
+<td class="cuerpo_tabla_centro">Superficie liberada convertida en concedida**** en la que se haya detectado error por (has)</td>
+<td class="cuerpo_tabla_centro">Nº de solicitudes</td>
+<td class="cuerpo_tabla_centro">Superficie concedida**** por recursos estimatorios o errores (has)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">Zona fuera de los límites geográficos de la DOP con limitación</td>
+<td> </td>
+<td> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">(1) zona DOP con limitación</td>
+<td> </td>
+<td> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">(2) zona DOP con limitación</td>
+<td> </td>
+<td> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">(3) zona DOP con limitación</td>
+<td> </td>
+<td> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">…</td>
+<td> </td>
+<td> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">TOTAL COMUNIDAD AUTÓNOMA</td>
+<td> </td>
+<td> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+Fecha límite de comunicación: 1 de octubre
+
+\* se considerarán sólo los desistimientos desde la comunicación al Ministerio de Agricultura, Pesca y Alimentación por las comunidades autónomas de la lista definitiva de superficies admisible según el artículo 11.3 hasta el día anterior a la fecha de la notificación de la resolución estimatoria de la superficie concedida.
+
+** se considerarán los errores detectados después de la comunicación por el Ministerio de Agricultura, Pesca y Alimentación a las comunidades autónomas de la superficie objeto de concesión según el artículo 11.3 y por los que esa superficie no se puede conceder.
+
+*** se considerará la superficie admitida por recursos resueltos favorablemente o por errores detectados después de la comunicación por el Ministerio de Agricultura, Pesca y Alimentación a las comunidades autónomas de la superficie objeto de concesión según el artículo 11.3 por los que esa superficie se ha de conceder.
+
+**** para obtener la superficie concedida se aplicará a la superficie admisible el mismo prorrateo que les hubiese aplicado a su solicitud de haberse resuelto como concedida antes del 1 de agosto del año en el que se presentó la solicitud.
+
+> Se modifica la nota al pie por el art. único.9 del Real Decreto 536/2019, de 20 de septiembre. [Ref. BOE-A-2019-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-13412)
+
+## ANEXO VII — Información mínima que debe contener la solicitud para la concesión de autorización de replantación de una superficie de viñedo
+
+![13557.png](https://www.boe.es/datos/imagenes/disp/2018/262/14803_13557.png)
+
+## ANEXO VIII — Información mínima que debe contener la solicitud para la concesión de autorización de replantación anticipada de una superficie de viñedo
+
+![13593.png](https://www.boe.es/datos/imagenes/disp/2018/262/14803_13593.png)
+
+## ANEXO IX — Solicitud mínima para la conversión de derechos de plantación en autorización de plantación de viñedo
+
+![13628.png](https://www.boe.es/datos/imagenes/disp/2018/262/14803_13628.png)
+
+## ANEXO X — Información mínima que debe contener la solicitud para la modificación de la localización de una autorización de plantación
+
+![13663.png](https://www.boe.es/datos/imagenes/disp/2018/262/14803_13663.png)
+
+## ANEXO XI — Autorizaciones
+
+<table class="tabla">
+<caption>
+<p class="centro_redonda">Cuadro A. Autorizaciones solicitadas para nuevas plantaciones</p>
+</caption>
+<colgroup>
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="5">Comunidad Autónoma:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha de Comunicación:</td>
+<td class="cuerpo_tabla_centro" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Año*:</td>
+<td class="cuerpo_tabla_centro" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">Provincia</td>
+<td class="cuerpo_tabla_centro" colspan="4">Número de hectáreas solicitadas para nuevas plantaciones que estén situadas en superficies que pueden ser admisibles a la producción de:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">Vino con DOP**</td>
+<td class="cuerpo_tabla_centro">Vino con IGP***</td>
+<td class="cuerpo_tabla_centro">sólo vino sin DOP/IGP</td>
+<td class="cuerpo_tabla_centro">Total</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">(1)</td>
+<td class="cuerpo_tabla_centro">(2)</td>
+<td class="cuerpo_tabla_centro">(3)</td>
+<td class="cuerpo_tabla_centro">(4)</td>
+<td class="cuerpo_tabla_centro">(5)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">1</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">...</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">TOTAL Comunidad Autónoma****</td>
+<td> </td>
+<td> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+\* Año en el que se abrió el plazo de solicitudes para autorizaciones de nuevas plantaciones del artículo 9.
+
+** Estas superficies también pueden ser admisibles para la producción de vino con IGP o vino sin IG; ninguna de las superficies comunicadas en la columna (2) debe ser incluida en la columna (3).
+
+*** Estas superficies también pueden ser admisibles para la producción de vino sin IG pero no de vino DOP; ninguna de las superficies comunicadas en la columna (3) debe ser incluida en la columna (4).
+
+**** Esta superficie deberá desglosarse por la DOP o IGP a la que pertenece.
+
+Fecha límite de la comunicación: 1 octubre.
+
+<table class="tabla">
+<caption>
+<p class="centro_redonda">Cuadro B. Autorizaciones concedidas para nuevas plantaciones</p>
+</caption>
+<colgroup>
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="5">Comunidad Autónoma:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha de Comunicación:</td>
+<td class="cuerpo_tabla_centro" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Año*:</td>
+<td class="cuerpo_tabla_centro" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">Provincia</td>
+<td class="cuerpo_tabla_centro" colspan="4">Número de hectáreas concedidas para nuevas plantaciones que estén situadas en superficies que pueden ser admisibles a la producción de:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">Vino con DOP**</td>
+<td class="cuerpo_tabla_centro">Vino con IGP***</td>
+<td class="cuerpo_tabla_centro">sólo vino sin DOP/IGP</td>
+<td class="cuerpo_tabla_centro">Total</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">(1)</td>
+<td class="cuerpo_tabla_centro">(2)</td>
+<td class="cuerpo_tabla_centro">(3)</td>
+<td class="cuerpo_tabla_centro">(4)</td>
+<td class="cuerpo_tabla_centro">(5)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">...</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">TOTAL Comunidad Autónoma****</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+\* Año en el que se abrió el plazo de solicitudes para autorizaciones de nuevas plantaciones del artículo 9.
+
+** Estas superficies también pueden ser admisibles para la producción de vino con IGP o vino sin IG; ninguna de las superficies comunicadas en la columna (2) debe ser incluida en la columna (3).
+
+*** Estas superficies también pueden ser admisibles para la producción de vino sin IG pero no de vino DOP; ninguna de las superficies comunicadas en la columna (3) debe ser incluida en la columna (4).
+
+**** Esta superficie deberá desglosarse por la DOP o IGP a la que pertenece.
+
+Fecha límite de la comunicación: 1 octubre.
+
+<table class="tabla">
+<caption>
+<p class="centro_redonda">Cuadro C. Autorizaciones para nuevas plantaciones rechazadas por los solicitantes (artículo 11.5)</p>
+</caption>
+<colgroup>
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="5">Comunidad Autónoma:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha de Comunicación:</td>
+<td class="cuerpo_tabla_izq" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Año*:</td>
+<td class="cuerpo_tabla_izq" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">Provincia</td>
+<td class="cuerpo_tabla_centro" colspan="4">Superficie rechazada por los solicitantes (Articulo 11(5)) que estén situadas en superficies que pueden ser admisibles a la producción de:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">Vino con DOP**</td>
+<td class="cuerpo_tabla_centro">Vino con IGP***</td>
+<td class="cuerpo_tabla_centro">sólo vino sin DOP/IGP</td>
+<td class="cuerpo_tabla_centro">Total</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">(1)</td>
+<td class="cuerpo_tabla_centro">(2)</td>
+<td class="cuerpo_tabla_centro">(3)</td>
+<td class="cuerpo_tabla_centro">(4)</td>
+<td class="cuerpo_tabla_centro">(5)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">1</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">...</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">TOTAL Comunidad Autónoma****</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+\* Año en el que se abrió el plazo de solicitudes para autorizaciones de nuevas plantaciones del artículo 9.
+
+** Estas superficies también pueden ser admisibles para la producción de vino con IGP o vino sin IG; ninguna de las superficies comunicadas en la columna (2) debe ser incluida en la columna (3).
+
+*** Estas superficies también pueden ser admisibles para la producción de vino sin IG pero no de vino DOP; ninguna de las superficies comunicadas en la columna (3) debe ser incluida en la columna (4).
+
+**** Esta superficie deberá desglosarse por la DOP o IGP a la que pertenece.
+
+Fecha límite de la comunicación: 1 octubre.
+
+<table class="tabla">
+<caption>
+<p class="centro_redonda">Cuadro D. Autorizaciones para nuevas plantaciones en zonas con limitaciones</p>
+</caption>
+<colgroup>
+<col width="16%">
+<col width="16%">
+<col width="16%">
+<col width="16%">
+<col width="18%">
+<col width="18%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="6">Comunidad Autónoma:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha de Comunicación:</td>
+<td class="cuerpo_tabla_izq" colspan="5"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Año*:</td>
+<td class="cuerpo_tabla_izq" colspan="5"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="6">Si se aplican las limitaciones para autorizaciones de nuevas plantaciones (artículo 6(2)):</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">Zonas geográfica delimitada por la DOP/IGP</td>
+<td class="cuerpo_tabla_centro" rowspan="2">Superficie solicitada (ha)</td>
+<td class="cuerpo_tabla_centro" rowspan="2">Superficie concedida (ha)</td>
+<td class="cuerpo_tabla_centro" rowspan="2">Superficie rechazada por los solicitantes (Articulo 11(5) de este Real Decreto) (ha)</td>
+<td class="cuerpo_tabla_centro" colspan="2">Superficie solicitada y no concedida (ha) por causas:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">Superación límites establecidos en el artículo 6(4)</td>
+<td class="cuerpo_tabla_centro">Incumplimiento criterios de admisibilidad del artículo 8.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">(1)</td>
+<td class="cuerpo_tabla_centro">(2)</td>
+<td class="cuerpo_tabla_centro">(3)</td>
+<td class="cuerpo_tabla_centro">(4)</td>
+<td class="cuerpo_tabla_centro">(5)</td>
+<td class="cuerpo_tabla_centro">(6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">1</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">...</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+\* Año en el que se abrió el plazo de solicitudes para autorizaciones de nuevas plantaciones del artículo 8 de este real decreto.
+
+Fecha límite de la comunicación: 1 octubre (para la primera vez: a más tardar el 1 de octubre de 2019).
+
+## ANEXO XII
+
+<table class="tabla">
+<caption>
+<p class="centro_negrita">Cuadro A. Autorizaciones concedidas para replantaciones</p>
+</caption>
+<colgroup>
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Comunidad Autónoma:</td>
+<td class="cuerpo_tabla_izq" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha de comunicación:</td>
+<td class="cuerpo_tabla_izq" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Campaña vitícola:</td>
+<td class="cuerpo_tabla_izq" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">Provincia</td>
+<td class="cuerpo_tabla_centro" colspan="4">Número de hectáreas efectivamente concedidas situadas en superficies admisibles a la producción de***:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">Vino con DOP*</td>
+<td class="cuerpo_tabla_centro">Vino con IGP**</td>
+<td class="cuerpo_tabla_centro">Vino sin DOP/IGP</td>
+<td class="cuerpo_tabla_centro">Total</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">(1)</td>
+<td class="cuerpo_tabla_centro">(2)</td>
+<td class="cuerpo_tabla_centro">(3)</td>
+<td class="cuerpo_tabla_centro">(4)</td>
+<td class="cuerpo_tabla_centro">(5)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<strong>TOTAL</strong>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Provincia origen de la autorización (a)</td>
+<td class="cuerpo_tabla_centro">Vino con DOP*</td>
+<td class="cuerpo_tabla_centro">Vino con IGP**</td>
+<td class="cuerpo_tabla_centro">Vino sin DOP/IGP</td>
+<td class="cuerpo_tabla_centro">Total</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<strong>TOTAL</strong>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> Código DOP (b)</td>
+<td class="cuerpo_tabla_centro">Vino con Denominación de Origen Protegida (DOP)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<strong>TOTAL</strong>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+\* Estas superficies también pueden ser admisibles para la producción de vino con IGP o vino sin IG; ninguna de las superficies comunicadas en la columna (2) debe ser incluida en la columna (3).
+
+** Estas superficies también pueden ser admisibles para la producción de vino sin IG pero no de vino DOP; ninguna de las superficies comunicadas en la columna (3) debe ser incluida en la columna (4).
+
+*** Datos referidos a la campaña vitícola anterior a la comunicación.
+
+(a) Se indicará la provincia de origen de la autorización cuando los derechos de replantación o arranques que originaron la misma provengan de otra comunidad autónoma, detallando la superficie concedida a partir de los mismos (vino con DOP, vino con IGP, vino sin DOP/IGP).
+
+(b) Se indicará el nombre de la DOP, identificada por su código, y el número de hectáreas del total recogido en la columna (2) que se localizan en la zona geográfica de esa DOP.
+
+**Fecha límite de la comunicación:** 1 octubre.
+
+<table class="tabla">
+<caption>
+<p class="centro_negrita">Cuadro B. Resoluciones de arranque concedidas</p>
+</caption>
+<colgroup>
+<col width="34%">
+<col width="33%">
+<col width="33%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Comunidad Autónoma:</td>
+<td class="cuerpo_tabla_izq" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha de comunicación:</td>
+<td class="cuerpo_tabla_izq" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Campaña vitícola:</td>
+<td class="cuerpo_tabla_izq" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">Nº de hectáreas totales en resoluciones de arranque concedidas*:</td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+\* No incluidas en las autorizaciones de replantación concedidas comunicadas en el cuadro A.
+
+Datos referidos a 31 de julio de la campaña vitícola anterior a la comunicación.
+
+Fecha límite de comunicación: 1 de octubre.
+
+> Se modifica la nota al pie del cuadro B por el art. único.10 del Real Decreto 536/2019, de 20 de septiembre. [Ref. BOE-A-2019-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-13412)
+
+## ANEXO XIII
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/21/2024_12700784_1.png)
+
+> Se modifica por el art. único.24 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+## ANEXO XIV — Inventario de superficies de viñedo
+
+<table class="tabla">
+<colgroup>
+<col width="14%">
+<col width="14%">
+<col width="14%">
+<col width="14%">
+<col width="14%">
+<col width="14%">
+<col width="14%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Comunidad Autónoma:</td>
+<td class="cuerpo_tabla_izq" colspan="6"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha de comunicación:</td>
+<td class="cuerpo_tabla_izq" colspan="6"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Campaña vitícola:</td>
+<td class="cuerpo_tabla_izq" colspan="6"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">Provincia</td>
+<td class="cuerpo_tabla_centro" colspan="6">Superficie realmente plantada con viñedo (ha) que son admisibles para la producción de***:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">Vino con Denominación de Origen Protegida (DOP)*</td>
+<td class="cuerpo_tabla_centro" colspan="2">Vino con Indicación Geográfica Protegida (IGP)**</td>
+<td class="cuerpo_tabla_centro" rowspan="2">Vino sin DOP/IGP y situado en una zona DOP/IGP</td>
+<td class="cuerpo_tabla_centro" rowspan="2">Vino sin DOP/IGP y situado fuera de una zona DOP/IGP</td>
+<td class="cuerpo_tabla_centro" rowspan="2">Total****</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">de los cuales están incluidos en la columna (2)</td>
+<td class="cuerpo_tabla_centro">de los cuales no están incluidos en la columna (2)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">(1)</td>
+<td class="cuerpo_tabla_centro">(2)</td>
+<td class="cuerpo_tabla_centro">(3)</td>
+<td class="cuerpo_tabla_centro">(4)</td>
+<td class="cuerpo_tabla_centro">(5)</td>
+<td class="cuerpo_tabla_centro">(6)</td>
+<td class="cuerpo_tabla_centro">(7)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<strong>TOTAL</strong>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">Código DOP (a)</td>
+<td class="cuerpo_tabla_centro">Vino con Denominación de Origen Protegida (DOP)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<strong>TOTAL</strong>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+\* Estas superficies también son admisibles para la producción de vino con IGP o vino sin IG.
+
+** Estas superficies también son admisibles para la producción de vino con DOP y vino sin IG (columna (3)), o sólo vino con IGP y vino sin IG (columna (4)). Ninguna de las superficies recogidas en las columnas (3) y (4) deben ser incluidas en las columnas (5) y (6).
+
+*** Datos referidos al 31 de julio de la campaña vitícola anterior. No se recoge en estos datos ni las superficies vitícolas abandonadas según la definición de artículo 3.2p) de este real decreto, ni la superficie de plantaciones para autoconsumo definidas en el artículo 3.3 del Reglamento Delegado (UE) 273/2018 de la Comisión.
+
+**** valores a introducir en esta columna: (7) = (2) + (4) + (5) + (6), .
+
+(a) Se indicará el nombre de la DOP, identificada por su código, y el número de hectáreas del total recogido en la columna (2) que se localizan en su zona geográfica de esa DOP.
+
+Fecha límite de la comunicación: 1 octubre
+
+> Se modifica el texto de la nota al pie por el art. único.25 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+## ANEXO XV — Inventario de variedades de uva de vinificación
+
+<table class="tabla">
+<colgroup>
+<col width="50%">
+<col width="50%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Comunidad Autónoma:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Fecha de la comunicación:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Campaña vitícola:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">Variedad</td>
+<td class="cuerpo_tabla_centro">Superficie plantada</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">(ha)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mezcla</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Resto</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">TOTAL*</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+Fecha límite de la comunicación: 1 de octubre.
+
+\* La superficie total tiene que coincidir con la declarada en el total de la columna (7) del Anexo XIV
+
+Datos referidos a 31 de julio de la campaña vitícola anterior.
+
+## ANEXO XVI
+
+<table class="tabla">
+<caption>
+<p class="centro_negrita">Cuadro A. Plantaciones y arranques realizados</p>
+</caption>
+<colgroup>
+<col width="20%">
+<col width="16%">
+<col width="16%">
+<col width="16%">
+<col width="16%">
+<col width="16%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Comunidad Autónoma:</td>
+<td class="cuerpo_tabla_izq" colspan="5"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha de comunicación:</td>
+<td class="cuerpo_tabla_izq" colspan="5"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Campaña vitícola (*):</td>
+<td class="cuerpo_tabla_izq" colspan="5"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="6">Superficie (ha)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">Vino con Denominación de Origen Protegida</td>
+<td class="cuerpo_tabla_centro">Vino con Indicación Geográfica Protegida</td>
+<td class="cuerpo_tabla_centro">Subtotal vinos DOP/IGP</td>
+<td class="cuerpo_tabla_centro">Vino sin DOP/IGP</td>
+<td class="cuerpo_tabla_centro">Total</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">(1)</td>
+<td class="cuerpo_tabla_centro">(2)</td>
+<td class="cuerpo_tabla_centro">(3)</td>
+<td class="cuerpo_tabla_centro">(4)</td>
+<td class="cuerpo_tabla_centro">(5)</td>
+<td class="cuerpo_tabla_centro">(6)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Plantaciones de viñedo realizadas (i)</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Arranques de viñedo realizados (ii)</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<strong>TOTAL</strong>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">Código DOP (a)</td>
+<td class="cuerpo_tabla_centro">Vino con Denominación de Origen Protegida (DOP)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<strong>TOTAL</strong>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+(i) Número de hectáreas plantadas situadas en superficies que pueden ser admisibles a la producción de vino con DOP, vino con IGP o vino sin DOP/IGP.
+
+(ii) Número de hectáreas arrancadas situadas en superficies que pueden ser admisibles a la producción de vino con DOP, vino con IGP o vino sin DOP/IGP.
+
+(a) Se indicará el nombre de la DOP, identificada por su código, y el número de hectáreas del total recogido en la columna (2) que se localizan en la zona geográfica de esa DOP.
+
+**Fecha límite de la comunicación:** 1 octubre.
+
+(*) Datos referidos a la campaña vitícola precedente a la de la comunicación.
+
+**Cuadro B. Información sobre derechos de plantación inscritos a 31 de diciembre de 2015 en el registro vitícola y sin convertir en autorizaciones a 31 de julio de la campaña precedente a la de la comunicación**
+
+<table class="tabla">
+<colgroup>
+<col class="row_column_1">
+<col class="row_column_2">
+</colgroup>
+<tbody>
+<tr class="row_column_3">
+<td>
+<p class="cuerpo_tabla_izq">Comunidad Autónoma:</p>
+</td>
+<td> </td>
+</tr>
+<tr class="row_column_4">
+<td>
+<p class="cuerpo_tabla_izq">Fecha de comunicación:</p>
+</td>
+<td> </td>
+</tr>
+<tr class="row_column_3">
+<td>
+<p class="cuerpo_tabla_izq">Campaña vitícola:</p>
+</td>
+<td> </td>
+</tr>
+<tr class="row_column_5">
+<td colspan="2">
+<p class="cuerpo_tabla_centro">Superficie (ha)</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td colspan="2">
+<p class="cuerpo_tabla_izq">Derechos de plantación inscritos en el Registro Vitícola sin convertir a 31 de julio:</p>
+</td>
+</tr>
+<tr class="row_column_4">
+<td>
+<p class="cuerpo_tabla_centro">Total (ha)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">Desglose por fecha de caducidad hasta el 31 de diciembre de 2025 (ha)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**Fecha límite de la comunicación:**1 octubre.
+
+<table class="tabla">
+<caption>
+<p class="centro_negrita">Cuadro C. Inventario de autorizaciones de plantación concedidas y no ejercidas</p>
+</caption>
+<colgroup>
+<col width="20%">
+<col width="16%">
+<col width="16%">
+<col width="16%">
+<col width="16%">
+<col width="16%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="6">Comunidad Autónoma:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Fecha de comunicación:</td>
+<td class="cuerpo_tabla_izq" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Campaña vitícola:</td>
+<td class="cuerpo_tabla_izq" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">Provincia</td>
+<td class="cuerpo_tabla_centro" colspan="5">Número de hectáreas concedidas y no ejercidas para autorizaciones de:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">Nuevas plantaciones (art. 6)</td>
+<td class="cuerpo_tabla_centro">Replantaciones (art. 13)</td>
+<td class="cuerpo_tabla_centro">Replantaciones anticipadas (art. 16)</td>
+<td class="cuerpo_tabla_centro">Por conversión de derechos de plantación (art. 22)</td>
+<td class="cuerpo_tabla_centro">Total</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">(1)</td>
+<td class="cuerpo_tabla_centro">(2)</td>
+<td class="cuerpo_tabla_centro">(3)</td>
+<td class="cuerpo_tabla_centro">(4)</td>
+<td class="cuerpo_tabla_centro">(5)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">TOTAL</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+Fecha límite de la comunicación: 1 de octubre.
+
+Datos referidos a 31 de julio de la campaña precedente a la de la comunicación.
+
+<table class="tabla">
+<caption>
+<p class="centro_negrita">Cuadro D. Inventario de autorizaciones de plantación concedidas y no utilizadas en su periodo de validez</p>
+</caption>
+<colgroup>
+<col width="20%">
+<col width="16%">
+<col width="16%">
+<col width="16%">
+<col width="16%">
+<col width="16%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="6">Comunidad Autónoma:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Fecha de comunicación:</td>
+<td class="cuerpo_tabla_izq" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Campaña vitícola:</td>
+<td class="cuerpo_tabla_izq" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">Provincia</td>
+<td class="cuerpo_tabla_centro" colspan="5">Número de hectáreas de autorizaciones no utilizadas en el periodo de validez establecido en el artículo 62.3 del Reglamento (UE) 1308/2013:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">Nuevas plantaciones (art. 6)</td>
+<td class="cuerpo_tabla_centro">Replantaciones (art. 13)</td>
+<td class="cuerpo_tabla_centro">Replantaciones anticipadas (art. 16)</td>
+<td class="cuerpo_tabla_centro">Por conversión de derechos de plantación (art. 22)</td>
+<td class="cuerpo_tabla_centro">Total</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">(1)</td>
+<td class="cuerpo_tabla_centro">(2)</td>
+<td class="cuerpo_tabla_centro">(3)</td>
+<td class="cuerpo_tabla_centro">(4)</td>
+<td class="cuerpo_tabla_centro">(5)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">TOTAL</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+Fecha límite de la comunicación: 1 de octubre (para la primera vez: a más tardar el 1 de octubre de 2019).
+
+Datos referidos a 31 de julio de la campaña precedente a la de la comunicación.
+
+**Cuadro E. Información sobre las autorizaciones prorrogadas hasta 31 de diciembre de 2022, objeto de renuncia sin la sanción administrativa del artículo 26.1 y retractadas de la renuncia comunicada hasta el 28 de febrero de 2021.**
+
+<table class="tabla_ancha">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Comunidad autónoma:</td>
+<td class="cuerpo_tabla_centro" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha de Comunicación</td>
+<td class="cuerpo_tabla_centro" colspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Campaña vitícola:</td>
+<td class="cuerpo_tabla_centro" colspan="4"> </td>
+</tr>
+<tr>
+<td class="sombra" rowspan="2">
+<p class="cuerpo_tabla_centro">Autorizaciones afectadas por los párrafos segundo, tercero y cuarto del artículo 11.6 y por los párrafos tercero, cuarto y quinto del artículo 19.4</p>
+</td>
+<td class="sombra" colspan="2">
+<p class="cuerpo_tabla_centro">De nueva plantación</p>
+</td>
+<td class="sombra" colspan="2">
+<p class="cuerpo_tabla_centro">De replantación</p>
+</td>
+</tr>
+<tr>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">N.º Titulares</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">N.º de hectáreas</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">N.º Titulares</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">N.º de hectáreas</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Prorrogadas hasta el 31 de diciembre de 2022.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Objeto de renuncia a 28 de febrero de 2021 sin sanción administrativa del artículo 26.1.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Retractadas a 28 de febrero de 2022 de la renuncia comunicada a 28 de febrero de 2021.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Fecha límite de comunicación: 1 de octubre de 2022.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+> Se añade el cuadro E por el art. único.10 del Real Decreto 111/2022, de 8 de febrero de 2022. [Ref. BOE-A-2022-2058](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2058)
+
+> Téngase en cuenta para su aplicación la disposición final única del citado Real Decreto.
+
+> Se sustituye la tabla del cuadro B por el art. único.8 del Real Decreto 201/2021, de 30 de marzo. [Ref. BOE-A-2021-5030](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5030)
+
+## ANEXO XVII — Distribución del número de explotaciones por intervalo de superficie de viñedo
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="9%">
+<col width="7%">
+<col width="7%">
+<col width="7%">
+<col width="7%">
+<col width="7%">
+<col width="7%">
+<col width="7%">
+<col width="7%">
+<col width="7%">
+<col width="7%">
+<col width="7%">
+<col width="7%">
+<col width="7%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Comunidad Autónoma:</td>
+<td class="cuerpo_tabla_izq" colspan="13"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha de la comunicación:</td>
+<td class="cuerpo_tabla_izq" colspan="13"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Campaña vitícola:</td>
+<td class="cuerpo_tabla_izq" colspan="13"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">Provincia</td>
+<td class="cuerpo_tabla_centro" colspan="12">Numero y superficie de las explotaciones vitícolas por intervalos de superficie</td>
+<td class="cuerpo_tabla_centro" rowspan="3">Superficie explotación media</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">&lt;= 0,50 ha.</td>
+<td class="cuerpo_tabla_centro" colspan="2">&gt; 0,50 y &lt;= 1,00 ha.</td>
+<td class="cuerpo_tabla_centro" colspan="2">&gt; 1,00 y &lt;= 2,00 ha.</td>
+<td class="cuerpo_tabla_centro" colspan="2">&gt; 2,00 y &lt;= 10,00 ha.</td>
+<td class="cuerpo_tabla_centro" colspan="2">&gt; 10,00 ha.</td>
+<td class="cuerpo_tabla_centro" colspan="2">Total</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">Numero</td>
+<td class="cuerpo_tabla_centro">Superficie</td>
+<td class="cuerpo_tabla_centro">Numero</td>
+<td class="cuerpo_tabla_izq">Superficie</td>
+<td class="cuerpo_tabla_centro">Numero</td>
+<td class="cuerpo_tabla_centro">Superficie</td>
+<td class="cuerpo_tabla_centro">Numero</td>
+<td class="cuerpo_tabla_centro">Superficie</td>
+<td class="cuerpo_tabla_centro">Numero</td>
+<td class="cuerpo_tabla_centro">Superficie</td>
+<td class="cuerpo_tabla_centro">Numero</td>
+<td class="cuerpo_tabla_centro">Superficie*</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Total</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+Fecha límite de la comunicación: 1 de octubre.
+
+\* La superficie total tiene que coincidir con la declarada en el total de la columna (7) del Anexo XIV.
+
+Datos referidos a 31 de julio de la campaña vitícola anterior.
+
+## ANEXO XVIII — Superficie plantada sin las autorizaciones correspondientes después del 31 de diciembre de 2015 y superficies arrancadas conforme a lo dispuesto en el artículo 71(3) del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre
+
+<table class="tabla">
+<colgroup>
+<col width="25%">
+<col width="25%">
+<col width="25%">
+<col width="25%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="4">Comunidad Autónoma:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha de comunicación:</td>
+<td class="cuerpo_tabla_izq" colspan="3"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Campaña vitícola o periodo(<sup>1</sup>):</td>
+<td class="cuerpo_tabla_izq" colspan="3"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">Provincia</td>
+<td class="cuerpo_tabla_centro" colspan="3">Superficies (ha) plantadas sin la autorización de plantación correspondiente después del 31.12.2015:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">Superficies arrancadas por los productores durante la campaña vitícola</td>
+<td class="cuerpo_tabla_centro">Superficies arrancadas por la Comunidad Autónoma durante la campaña vitícola</td>
+<td class="cuerpo_tabla_centro">Inventario de las superficies totales de plantaciones no autorizadas no arrancadas todavía al final de la campaña vitícola.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">(1)</td>
+<td class="cuerpo_tabla_centro">(2)</td>
+<td class="cuerpo_tabla_centro">(3)</td>
+<td class="cuerpo_tabla_centro">(4)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">1</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">...</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Total:</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+(1) Los datos de las comunicaciones estarán referidos a la campaña vitícola precedente a la comunicación. Fecha límite de la comunicación: 1 de octubre.
+
+## ANEXO XIX — Comunicaciones en virtud del artículo 230.1.b)i) del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre
+
+<table class="tabla">
+<caption>
+<p class="centro_redonda">Cuadro 1. Sanciones impuestas por las comunidades autónomas según los artículos 85 bis (3), 85 ter (4) y 85 quáter (2) del Reglamento (CE) n.º 1234/2007 del Consejo, de 22 de octubre de 2007</p>
+</caption>
+<colgroup>
+<col width="13%">
+<col width="12%">
+<col width="13%">
+<col width="12%">
+<col width="13%">
+<col width="12%">
+<col width="13%">
+<col width="12%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="8">Comunidad Autónoma:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="8">Campaña:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="8">Fecha de la comunicación:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="8">Sanción impuesta en la campaña*</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">Conforme a la legislación nacional o de la Comunidad Autónoma, según el artículo 85 bis(3) del Reglamento (CE) nº 1234/2007 del Consejo</td>
+<td class="cuerpo_tabla_centro" colspan="2">Conforme a la legislación comunitaria según el artículo 85 bis(3) del Reglamento (CE) nº 1234/2007 del Consejo</td>
+<td class="cuerpo_tabla_centro" colspan="2">Conforme a la legislación comunitaria según el artículo 85 ter(4) del Reglamento (CE) nº 1234/2007 del Consejo</td>
+<td class="cuerpo_tabla_centro" colspan="2">Conforme a la legislación comunitaria, según el artículo  85 quater(2) del Reglamento (CE) nº 1234/2007 del Consejo</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">€</td>
+<td class="cuerpo_tabla_centro">Superficie (ha)</td>
+<td class="cuerpo_tabla_centro">€</td>
+<td class="cuerpo_tabla_centro">Superficie (ha)</td>
+<td class="cuerpo_tabla_centro">€</td>
+<td class="cuerpo_tabla_centro">Superficie (ha)</td>
+<td class="cuerpo_tabla_centro">€</td>
+<td class="cuerpo_tabla_izq">Superficie (ha)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+\* Los datos estarán referidos a la campaña precedente.
+
+Fecha límite de la comunicación: 1 de octubre.
+
+<table class="tabla">
+<caption>
+<p class="centro_redonda">Cuadro 2. Comunicación anual sobre superficies plantadas sin derechos de plantación después del 31/8/1998</p>
+</caption>
+<colgroup>
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="5">Comunidad Autónoma:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="5">Campaña:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="5">Fecha de la comunicación:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="5">Superficie plantada sin derechos de plantación después del 31 /8/1998</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">detectadas en la campaña*</td>
+<td class="cuerpo_tabla_centro">arrancadas en la campaña*</td>
+<td class="cuerpo_tabla_centro">superficie sujeta a destilación</td>
+<td class="cuerpo_tabla_centro">volumen de vino destilado en la campaña*</td>
+<td class="cuerpo_tabla_centro">superficie sujeta a probar la no circulación</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">(ha)</td>
+<td class="cuerpo_tabla_centro">(ha)</td>
+<td class="cuerpo_tabla_centro">(ha)</td>
+<td class="cuerpo_tabla_centro">(hl)</td>
+<td class="cuerpo_tabla_centro">(ha)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+\* Los datos estarán referidos a la campaña precedente.
+
+Fecha límite de la comunicación: 1 de octubre.
+
+<table class="tabla">
+<caption>
+<p class="centro_redonda">Cuadro 3. Comunicación anual sobre superficies plantadas sin derechos de plantación antes de 1/9/1998</p>
+</caption>
+<colgroup>
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="5">Comunidad Autónoma:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="5">Campaña:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="5">Fecha de la comunicación:</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="5">Superficie plantada sin derechos de plantación antes del 1/9/1998</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">No regularizada hasta 31/12/2009</td>
+<td class="cuerpo_tabla_centro">arrancada en la campaña* (Reglamento (CE) nº 1234/2007 del Consejo art. 85 ter(4))</td>
+<td class="cuerpo_tabla_centro">superficie sujeta a destilación</td>
+<td class="cuerpo_tabla_centro">volumen de vino destilado en la campaña*</td>
+<td class="cuerpo_tabla_centro">superficie sujeta a probar la no circulación</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">(ha)</td>
+<td class="cuerpo_tabla_centro">(ha)</td>
+<td class="cuerpo_tabla_centro">(ha)</td>
+<td class="cuerpo_tabla_centro">(hl)</td>
+<td class="cuerpo_tabla_centro">(ha)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+\* Los datos estarán referidos a la campaña precedente.
+
+Fecha límite de la comunicación: 1 de octubre.
+
+## ANEXO XX — Examen de la aptitud para el cultivo de variedades de vid
+
+I. Realización del examen
+
+a) Definición de examen de aptitud: estudio de la aptitud agronómica, productiva, organoléptica y medioambiental, que se realizará en las condiciones de cultivo consideradas normales en la región en la que se pretenda autorizar dicha variedad. Se podrá incluir una nueva variedad de uva de vinificación en la clasificación cuando se hayan estudiado y superado todas las pruebas del presente examen.
+
+b) Objeto del examen de aptitud: evaluar si una variedad de uva de vinificación puede ser clasificada como autorizada para producir vino en la región donde se realiza. Para ello, la variedad deberá demostrar mediante dicho examen que tiene un comportamiento agronómico optimo, y puede producir vino de calidad. En caso de que la variedad se haya ensayado respecto alguna resistencia a alguna plaga, enfermedad o adaptación al cambio climático, se deberá incluir esa información en el ensayo en el apartado “características medioambientales”.
+
+c) Agentes encargados de la realización del examen de aptitud: serán organismos designados por la comunidad autónoma o bien bajo el control de la comunidad autónoma.
+
+1.º Condiciones del examen: el examen se realizará con material vegetal producido por un vivero productor debidamente registrado en ROPVEG. Si se trata de variedades ya registradas en el Registro español de variedades comerciales de vid o en el Catálogo Común europeo de variedades de vid, el material vegetal de las variedades podrá ser de las categorías especificadas en el Real Decreto 208/2003, de 21 de febrero, por el que se aprueba el Reglamento técnico de Control y Certificación de plantas vivero de vid, si se cumplen los requisitos establecidos para dicha categoría.
+
+Cuando se trate de variedades de reciente obtención, solicitadas para su inscripción en el Registro de variedades comerciales de vid, pero aún en periodo de evaluación para registro (esto es, no se ha finalizado aún el examen de distinción, homogeneidad y estabilidad), se prevé la posibilidad, como excepción, de comenzar con estos exámenes de aptitud desde el momento de solicitud a registro y pago de tasas, pudiendo simultanearse el examen de aptitud aquí definido con el proceso de registro de la variedad.
+
+Todo el material vegetal utilizado en la realización de los exámenes deberá ser material sano, libre de los correspondientes organismos nocivos establecidos en la normativa de sanidad vegetal, y acompañado de pasaporte fitosanitario cuando sea aplicable.
+
+2.º Las comunidades autónomas podrán determinar las normas de organización de la prueba y de recolección, de manera que pueda efectuarse un estudio estadístico riguroso, teniendo en cuenta los siguientes elementos:
+
+3.º Duración del examen: la admisión de una variedad de vid a la clasificación solo podrá tener lugar cuando en el examen se hayan tenido en cuenta al menos tres cosechas homogéneas en producción, en la comunidad autónoma en la que se va a ensayar, obtenidas de vides con al menos 4 años.
+
+4.º Se cultivarán y observarán como “variedades testigo” una o más variedades autorizadas de vid incluidas en el Registro de Variedades Comerciales de Vid en España o en otro catálogo o registro de un Estado miembro de la Unión Europea, y que se estén cultivando en condiciones agroclimáticas y con un manejo de cultivo similares, con el fin de compararlas en condiciones idénticas. Los resultados obtenidos en la variedad testigo tiene que constar en el estudio.
+
+5.º El material vegetal de la misma variedad se tratará de forma conjunta cuando las parcelas experimentales objeto del ensayo, tengan condiciones agroclimáticas y edafológicas similares. Por el contrario, en el caso de que las parcelas experimentales tengan unas características agroclimáticas y edafológicas diferenciadas el material vegetal se tratará de forma diferenciada.
+
+6.º El material vegetal y el vino resultante se someterá con regularidad a controles organolépticos y analíticos, conservándose por escrito el resultado de estos.
+
+7.º En cada proceso de vinificación se deberá realizar una evaluación en cata anónima del vino, obtenido de la variedad en examen, basado en el método de análisis sensorial.
+
+8.º Los criterios del apartado de “Características medioambientales” del apartado del contenido del examen, solamente tendrán carácter obligatorio cuando la variedad objeto de estudio se pretenda clasificar como resistente o tolerante a un determinado agente adverso (enfermedades, sequia, heladas…). Para la determinación de resistencias/tolerancias siempre se especificará el manejo de cultivo (tratamientos fitosanitarios, ecológico, riego…), tanto en la variedad objeto de estudio como en las variedades autorizadas testigo, en relación con la resistencia/tolerancia ante el agente adverso que se pretenda probar. Además, el estudio de la resistencia o la tolerancia comprenderá una comparación de los resultados obtenidos con la variedad estudiada y las variedades testigo en la/s parcela/s experimental con los obtenidos en otras parcelas/s cercanas que no son experimentales. Todas las posibles resistencias o tolerancias que presente la nueva variedad se graduaran de acuerdo con el sistema de notación, recogido en alguna de las listas oficiales de descriptores para variedades de vid y especies de vitis.
+
+II. Contenido del examen
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<colgroup>
+<col width="50%">
+<col width="50%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Ensayos a realizar</th>
+<th class="cabeza_tabla">Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">
+<strong>Características agronómicas</strong>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">
+<em>Criterios fenológicos descriptivos</em>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha de brotación de las yemas (50 % de las yemas en el estadio C de Baggiolini).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha de floración (50 % de las flores abiertas en eI estadio I de Baggiolini).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Fecha de envero (50 % de bayas maduras en el estadio M de Baggiolini).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Integral Térmica Eficaz (Winkler).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Datos climatológicos mensuales (formato climograma de Gaussen).</td>
+<td class="cuerpo_tabla_izq">Se deberá registrar este dato en el ensayo, obtenido a partir de los datos climatológicos obtenidos de la estación meteorológica más cercana a la parcela/s de ensayo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">
+<em>Criterios descriptivos relacionados con la producción de uva</em>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Peso medio de las bayas (g).</td>
+<td class="cuerpo_tabla_izq">Medido en una muestra de 200 bayas tomadas en la cosecha.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Número de racimos (Nb/m2 o por cepa).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Rendimiento de uva expresado en kg/m2 o por cepa.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Peso medio de un racimo (g).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Peso de madera de poda por cepa.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Otros criterios agronómicos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Precocidad de la variedad precoz/tardía: interés de la utilización de la variedad en un clima determinado…</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Criterios de rendimiento adaptados a una producción específica (bajo o alto rendimiento).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Adaptación a la mecanización o porte de la variedad.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">
+<strong>Características productivas</strong>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">
+<em>Sobre el mosto en la vendimia</em>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Acidez total (g de ácido tartárico/l).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">pH.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Densidad natural del mosto o del zumo (°Brix o °Baumé).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">
+<em>Sobre vinos</em>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Acidez total (g de ácido tartárico/l).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ácido tartárico (g/l).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Alcohol (g/l).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ácido málico (g/l).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Antocianinas (mg/l).</td>
+<td class="cuerpo_tabla_izq">(excluye vinos blancos)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Azúcares fermentables residuales (g/l).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">IPT (DO 280).</td>
+<td class="cuerpo_tabla_izq">(excluye vinos blancos)</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">pH.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">
+<strong>Características organolepticas</strong>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Una clasificación de dichos vinos según un sistema de notación o ficha de cata que se utilice habitualmente en la región de que se trate para los controles oficiales del vino, con indicación simultánea de los puntos concedidos a los diferentes vinos obtenidos a partir de las variedades testigos.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">
+<em>Criterios sensoriales - degustación</em>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Aspectos visuales.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Aspectos olfativos.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Aspectos gustativos.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valoración global del vino.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">
+<strong>Características medioambientales (sólo obligatorio para variedades resistentes/tolerantes)</strong>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">
+<em>Criterios genéticos</em>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Se indicará el % de Vitis Vinifera de la nueva variedad objeto de estudio.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Se indicará el nombre de los parentales de la nueva variedad objeto de estudio.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mecanismo de resistencia duradero o Durabilidad del mecanismo de resistencia (en particular a través del número de genes implicados).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">
+<em>Criterios de adaptación al cambio climático / sequía</em>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Adaptación del contenido de azúcar de las bayas y los mostos al cambio climático.</td>
+<td class="cuerpo_tabla_izq" rowspan="4"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Contenido en ácidos orgánicos de las uvas (ácido málico y tartárico).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Resistencia a las heladas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Adaptación al estrés hídrico.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">
+<em>Criterios a favor de la agroecología: resistencia o nivel de sensibilidad a las enfermedades</em>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Arquitectura de la vid (aireación) / Estructura del racimo (racimos compactos, sueltos, etc.).</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">
+<p class="cuerpo_tabla_izq">Para las variedades que reivindican una resistencia particular:</p>
+<p class="cuerpo_tabla_izq">Calificación del comportamiento de las variedades frente a las principales enfermedades (mildiu, oídio, podredumbre gris, podredumbre negra, antracnosis, excoriosis, etc.).</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Resistencia al Mildiu.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">*Observar las manchas de Mildiu sobre el conjunto de las hojas de 4 a 6 cepas, si es posible: aproximadamente 3 semanas después del comienzo de la floración. 1 = manchas no delimitadas y muy extensas, o limbo completamente parasitado - fructificaciones abundantes del hongo – manchas necróticas („puntos de tapicería«) muy marcadas -caida de hojas muy precoz; 3 = manchas no delimitadas y extensas - fructificaciones abundantes del hongo - numerosos puntos de tapicería - caída de hojas menos precoz que en la nota 1; 5 = - manchas delimitadas, de un diámetro de 1 a 2 cm - fructificaciones del hongo más o menos: abundantes - formación de puntos de tapicería irregular; 7 = manchas reducidas - raras fructificaciones - raros puntos de tapicería; 9 = manchas por puntos o ausencia de síntomas - prácticamente sin fructificaciones ni puntos de tapicería</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Resistencia al Oídio.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">**Observar las manchas de Oídio sobre el conjunto de las hojas de 4 a 6 cepas en dos períodos, si es posible:</p>
+<p class="cuerpo_tabla_izq">aproximadamente 3 semanas después del comienzo de la floración (hojas en crecimiento) y después de la vendimia o antes de las primeras heladas (hojas adultas). Tener en cuenta las condiciones climáticas que influyen en la enfermedad.</p>
+<p class="cuerpo_tabla_izq">1 = manchas en capas no delimitadas y muy extensas, o limbo enteramente parasitado - micelio y fructificaciones del hongo abundantes; 3 = amplias manchas extensas, algunas de las cuales delimitadas - limbo parcialmente parasitado - micelio y fructificaciones del hongo abundantes; 5 = manchas en general delimitadas, de un diámetro de 2 a 5 cm, aproximadamente; 7 = manchas delimitadas de tamaño reducido, de un diámetro de menos de 2 cm - micelio y fructificaciones del hongo raros (sólo una ligera crispación del limbo indica la presencia del Oídio); 9 = manchas por puntos o ausencia de síntomas - sin micelio prácticamente, ni fructificaciones visibles (solamente muy ligeras crispaciones del limbo).</p>
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="2">
+<p class="cita">*Según Lista descriptores para variedades de vid y especies de vitis. Código n.º OIV 452. Carácter: Hoja: grado de la resistencia a Plasmopara. IPGRI 9.2.3.</p>
+<p class="cita">** Según Lista descriptores para variedades de vid y especies de vitis. Código n.º OIV 455.Carácter: Hoja: grado de la resistencia a Oidio.IPGRI 9.2.5.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+> Se modifica por el art. único.15 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+> Se modifica por el art. único.26 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+## ANEXO XXI — Clasificación de las variedades autorizadas de vid de vinificación
+
+1\. Comunidad Autónoma de Andalucía
+
+Provincias: Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga, Sevilla
+
+Variedades autorizadas:
+
+Airén, B.
+
+Albariño, B.
+
+Albillo Mayor, B.
+
+Albillo Real, B.
+
+Arinto, B.
+
+Beba, B.
+
+Blanca Gordal, B.
+
+Bobal, T.
+
+Blauer Limberger, Blaufränkisch, Lemberger T.
+
+Cabernet Franc, T.
+
+Cabernet Sauvignon, T.
+
+Colombard, B.
+
+Chardonnay, B.
+
+Doradilla, B.
+
+Garnacha Blanca, B.
+
+Garnacha Tinta, T.
+
+Garnacha Tintorera T.
+
+Garrido Fino, B.
+
+Gewürztraminer, B.
+
+Graciano, T.
+
+Jaén Tinto, T.
+
+Lairen, B.
+
+Listán del Condado, B.
+
+Listán Prieto, T.
+
+Macabeo, Viura, B.
+
+Malbec, T.
+
+Malvasía Aromática, B.
+
+Marselán, T.
+
+Melonera, T.
+
+Mencía, T.
+
+Merlot, T.
+
+Molinera, T.
+
+Mollar Cano, T.
+
+Monastrell, T.
+
+Montúa, Chelva, B.
+
+Moscatel de Alejandría, Moscatel de Málaga, B.
+
+Moscatel de Grano Menudo, Moscatel Morisco, B.
+
+Moscatel Negro, T.
+
+Palomino Fino, Listán Blanco, B.
+
+Palomino, B.
+
+Pardina, Baladí, Baladí Verdejo, Calagraño, Jaén Blanco, B.
+
+Pedro Ximénez, B.
+
+Perruno, B.
+
+Petit Verdot, T.
+
+Pinot Noir, T.
+
+Prieto Picudo, T.
+
+Riesling, B.
+
+Rome, B.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo, T.
+
+Tintilla de Rota, T.
+
+Tinto Velasco, Frasco, Blasco, T.
+
+Torrontés, B.
+
+Verdejo, B.
+
+Vermentino, B.
+
+Vijariego Blanco, Bigiriego, Vigiriego, Vigiriega, B.
+
+Viognier, B.
+
+Zalema, B.
+
+2\. Comunidad Autónoma de Aragón
+
+Provincias: Huesca, Teruel, Zaragoza
+
+Variedades autorizadas:
+
+Agudelo, Chenin Blanc, B.
+
+Alarije, Malvasía Riojana, Rojal, B.
+
+Alcañón, B.
+
+Aubún, Murescola, T.
+
+Benedicto, T.
+
+Bobal, T.
+
+Cabernet Franc, T.
+
+Cabernet Sauvignon, T.
+
+Caladoc, T.
+
+Cariñena Blanca, Carignan blanc, B.
+
+Chardonnay, B.
+
+Derechero, T.
+
+Garnacha Blanca, B.
+
+Garnacha Peluda, T.
+
+Garnacha Roja, Garnacha Gris, T.
+
+Garnacha Tinta, T.
+
+Garnacha Tintorera, T.
+
+Gewürztraminer, B.
+
+Gonfaus, T.
+
+Graciano, T.
+
+Macabeo, Viura, B.
+
+Marselan, T.
+
+Mazuela, Cariñena, T.
+
+Merlot, T.
+
+Merseguera, B.
+
+Miguel del Arco, T.
+
+Monastrell, T.
+
+Morenillo, T.
+
+Moristel, Juan Ibáñez, Concejón, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Pardina, Robal, B.
+
+Parellada, B.
+
+Parraleta, T.
+
+Parrel, T.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo, Cencibel, T.
+
+Tempranillo blanco, B.
+
+Verdejo, B.
+
+Vidadillo, T.
+
+Viognier, B.
+
+Xarello, B.
+
+3\. Comunidad Autónoma del Principado de Asturias
+
+Variedades autorizadas:
+
+Albarín Blanco, B.
+
+Albariño, B.
+
+Albillo Mayor, B.
+
+Bruñal, Albarín Tinto, T.
+
+Carrasquín, T.
+
+Chardonnay, B.
+
+Garnacha Tinta, T.
+
+Garnacha Tintorera, T.
+
+Gewürztraminer, B.
+
+Godello, B.
+
+Graciano, T.
+
+Mencía, T.
+
+Merenzao, Verdejo Negro, T.
+
+Merlot, T.
+
+Moscatel de Grano Menudo, B.
+
+Palomino, B.
+
+Picapoll Blanco, Extra, B.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Treixadura, B.
+
+4\. Comunidad Autónoma de las Illes Balears
+
+Variedades autorizadas:
+
+Cabernet Sauvignon, T.
+
+Callet, T.
+
+Callet Negrella. T.
+
+Calop Blanco,B.
+
+Chardonnay, B.
+
+Escursac, T.
+
+Esperó de Gall, T.
+
+Fogoneu, T.
+
+Garnacha Blanca, B.
+
+Garnacha Tinta, T.
+
+Giró Ros, B.
+
+Giró Negre, T.
+
+Gorgollassa, T.
+
+Macabeo, Viura, B.
+
+Malvasía Aromática, Malvasía de Banyalbufar, B.
+
+Mancès de Tibús, T.
+
+Manto Negro, T.
+
+Merlot, T.
+
+Moll, Pensal Blanca, Prensal, B.
+
+Monastrell, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Parellada, B.
+
+Petit Verdot, T.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo, T.
+
+Viognier, B.
+
+5\. Comunidad Autónoma de Canarias
+
+Provincias: Las Palmas, Santa Cruz de Tenerife
+
+Variedades autorizadas:
+
+Albillo Criollo, B.
+
+Bastardo Blanco, Baboso Blanco, B.
+
+Bastardo Negro, T.
+
+Bermejuela, Marmajuelo, B.
+
+Breval, B.
+
+Bruñal, Baboso Negro, T.
+
+Burrablanca, B.
+
+Cabernet Sauvignon, T.
+
+Castellana Negra, T.
+
+Doradilla, B.
+
+Forastera Blanca, B.
+
+Gual, B.
+
+Listán Blanco de Canarias, B.
+
+Listán Negro, Almuñeco, T.
+
+Listán Prieto, T.
+
+Malvasía Aromática, B.
+
+Malvasía Rosada, T.
+
+Malvasía Volcánica, B.
+
+Merenzao, Tintilla, T.
+
+Merlot, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel Negro, T.
+
+Negramoll, T.
+
+Pedro Ximénez, B.
+
+Pinot Noir, T.
+
+Ruby Cabernet, T.
+
+Sabro, B.
+
+Syrah, T.
+
+Tempranillo, T.
+
+Torrontés, B.
+
+Verdello, B.
+
+Vijariego Blanco, Diego, B.
+
+Vijariego Negro, T.
+
+6\. Comunidad Autónoma de Cantabria
+
+Variedades autorizadas:
+
+Albarín Blanco, B.
+
+Albariño, B.
+
+Cabernet Sauvignon, T.
+
+Carrasquín, T.
+
+Chardonnay, B.
+
+Garnacha Tinta, T.
+
+Gewürztraminer, B.
+
+Godello, B.
+
+Graciano, T.
+
+Hondarrabi Beltza, Ondarrabi Beltza, T.
+
+Hondarrabi Zuri, Ondarrabi Zuri, B.
+
+Mencía, T.
+
+Merlot, T.
+
+Palomino, B.
+
+Riesling, B.
+
+Syrah, T.
+
+Tempranillo, Tinta de Toro, T.
+
+Treixadura, B.
+
+7\. Comunidad Autónoma de Castilla-La Mancha
+
+Provincias: Albacete, Ciudad Real, Cuenca, Guadalajara, Toledo
+
+Variedades autorizadas:
+
+Airén, B.
+
+Alarije, B.
+
+Albarín Blanco, B.
+
+Albariño, B.
+
+Albillo Dorado, B.
+
+Albillo Real, B.
+
+Bobal, T.
+
+Cabernet Franc, T.
+
+Cabernet Sauvignon, T.
+
+Colombard, B.
+
+Coloraillo, T.
+
+Chardonnay, B.
+
+Forcallat Tinta, T.
+
+Garnacha Blanca, B.
+
+Garnacha Peluda, T.
+
+Garnacha Tinta, T.
+
+Garnacha Tintorera, T.
+
+Gewürztraminer, B.
+
+Graciano, T.
+
+Macabeo, Viura, B.
+
+Malbec, T.
+
+Malvar, B.
+
+Malvasía Aromática, B.
+
+Marselan T.
+
+Mazuela, Cariñena, T.
+
+Mencía, T.
+
+Merlot, T.
+
+Merseguera, B.
+
+Mizancho, B.
+
+Monastrell, T.
+
+Montúa, Chelva, B.
+
+Moravia Agria, T.
+
+Moravia Dulce, Crudijera, T.
+
+Moribel, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Palomino, B.
+
+Pardillo, Marisancho, B.
+
+Pardina, Jaén Blanco, B.
+
+Parellada, B.
+
+Pedro Ximénez, B.
+
+Petit Verdot, T.
+
+Pinot Noir, T.
+
+Planta Nova, Tardana, B.
+
+Prieto Picudo, T.
+
+Riesling, B.
+
+Rojal Tinta, T.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo, Cencibel, T.
+
+Tinto de la Pámpana Blanca, T.
+
+Tinto Fragoso, T.
+
+Tinto Velasco, Frasco, T.
+
+Torrontés, B.
+
+Touriga Nacional, T.
+
+Verdejo, B.
+
+Verdoncho, B.
+
+Viognier, B.
+
+8\. Comunidad de Castilla y León
+
+Provincias: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid, Zamora
+
+Variedades autorizadas:
+
+Alarije, Rojal, B.
+
+Albarín Blanco, B.
+
+Albariño, B.
+
+Albillo Mayor, B.
+
+Albillo Real, B.
+
+Aurígera, B.
+
+Bastardo Negro, Puesto Mayor, T.
+
+Bobal, T.
+
+Bruñal, Albarín Tinto, T.
+
+Cabernet Sauvignon, T.
+
+Cabernet Eidos, T.
+
+Cenicienta, T.
+
+Chardonnay, B.
+
+Doña Blanca, Malvasía Castellana, B.
+
+Estaladiña, T.
+
+Gajo Arroba, T.
+
+Garnacha Blanca, B.
+
+Garnacha Roja, Garnacha Gris, T.
+
+Garnacha Tinta, T.
+
+Garnacha Tintorera, T.
+
+Garro, Mandón, T.
+
+Gewürztraminer, B.
+
+Godello, B.
+
+Graciano, T.
+
+Hondarrabi Beltza, T.
+
+Hondarrabi Zuri, B.
+
+Juan García, Mouratón, T.
+
+Macabeo, Viura, B.
+
+Malbec, T.
+
+Maturana Blanca, B.
+
+Maturana Tinta, T.
+
+Mencía, T.
+
+Merenzao, Bastardillo Chico, Negro Saurí T.
+
+Merlot, T.
+
+Merlot Khorus,T.
+
+Monastrell, T.
+
+Montúa, Chelva, B.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Mouraz, T.
+
+Palomino, B.
+
+Palomino Fino, Listán Blanco, B.
+
+Petit Verdot, T.
+
+Pinot Noir, T.
+
+Prieto Picudo, T.
+
+Rabigato, Puesta en Cruz, B.
+
+Riesling, B.
+
+Rufete, T.
+
+Rufete Serrano Blanco, B.
+
+Sauvignon Blanc, B.
+
+Sauvignon Rytos, B.
+
+Soreli, B.
+
+Syrah, T.
+
+Tempranillo Blanco, B.
+
+Tempranillo, Tinto Fino, Tinta del País, Tinta de Toro, T.
+
+Tijonera, T.
+
+Tinto Jeromo, T.
+
+Touriga Nacional, T.
+
+Treixadura, B.
+
+Verdejo, B.
+
+Viognier, B.
+
+9\. Comunidad Autónoma de Cataluña
+
+Provincias: Barcelona, Girona, Lleida, Tarragona
+
+Variedades autorizadas:
+
+Agudelo, Chenin Blanc, B.
+
+Airén, B.
+
+Alarije, Subirat Parent, B.
+
+Albariño, B.
+
+Alcañon, B.
+
+Belat, T.
+
+Bobal, T.
+
+Bornac,T.
+
+Botana, T.
+
+Bronsa,T.
+
+Cabernet Franc, T.
+
+Cabernet Sauvignon, T.
+
+Caladoc, T.
+
+Cariñena Blanca, Carignan blanc, B.
+
+Cariñena Gris, T.
+
+Chardonnay, B.
+
+Coromina, B.
+
+Forcada, B.
+
+Garnacha Blanca, Lladoner Blanco, Lledoner Blanc, B.
+
+Garnacha Peluda, Lledoner Pelut, T.
+
+Garnacha Roja, Garnacha Gris, T.
+
+Garnacha Tinta, Lladoner, Lledoner, T.
+
+Garnacha Tintorera, T.
+
+Garro, Mando, T.
+
+Gewürztraminer, B.
+
+Giró Ros, B.
+
+Godello, B.
+
+Gonfaus, T.
+
+Graciano, T.
+
+Incrocio Manzoni, B.
+
+Macabeo, Viura, B.
+
+Malbec, T.
+
+Malvasía Aromática, Malvasía de Sitges, B.
+
+Malvasía Blanca Roja, B.
+
+Marina Rion, B.
+
+Marselán, T.
+
+Mazuela, Cariñena, Samsó, T.
+
+Merlot, T.
+
+Merlot Khorus,T.
+
+Merseguera, Sumoll Blanco, B.
+
+Monastrell, Mataró, Mourvedre T.
+
+Moneu, T.
+
+Montori, Cua de Moltó, B.
+
+Morenillo, T.
+
+Moscatel de Alejandría, Moscatel de Málaga B.
+
+Moscatel de Grano Menudo, B.
+
+Parellada, Montonec, Montonega, B.
+
+Pedro Ximénez, B.
+
+Petit Verdot, T.
+
+Picapoll Blanco, B.
+
+Picapoll Negro, T.
+
+Pinot Noir, T.
+
+Pirene, T.
+
+Querol, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Selma Blanca, B.
+
+Solana, T.
+
+Soreli, B.
+
+Sumoll Tinto, T.
+
+Syrah, T.
+
+Tempranillo, Ull de Llebre, T.
+
+Trepat, T.
+
+Trobat, T.
+
+Verdejo, B.
+
+Vermentino, B.
+
+Verdil, B.
+
+Vidadillo, T.
+
+Vinyater, B.
+
+Viognier, B.
+
+Xarello, Cartoixa, Pansal, Pansa Blanca, B.
+
+Xarello rosado, T.
+
+10\. Comunidad Autónoma de Extremadura
+
+Provincias: Badajoz, Cáceres
+
+Variedades autorizadas:
+
+Alarije, Subirat Parent, B.
+
+Albillo Mayor, B.
+
+Albillo Real, B.
+
+Antáo Vaz, B.
+
+Arinto, B.
+
+Bastardo Blanco, B.
+
+Beba, B.
+
+Bobal, T.
+
+Borba, B.
+
+Bruñal, Albarín Tinto, Baboso Tinto, T.
+
+Cabernet Franc, T.
+
+Cabernet Sauvignon, T.
+
+Casteláo, T.
+
+Cayetana Blanca, B.
+
+Chardonnay, B.
+
+Colombard, B.
+
+Doña Blanca, Cigüente, B.
+
+Fernáo Pires, B.
+
+Garnacha Tinta, T.
+
+Garnacha Tintorera, T.
+
+Gewürztraminer, B.
+
+Graciano,Tinta Miúda,T.
+
+Gran Negro, T.
+
+Jaén Tinto, T.
+
+Macabeo, Viura, B.
+
+Malbec, T.
+
+Malvar, B.
+
+Mazuela, T.
+
+Merlot, T.
+
+Monastrell, T.
+
+Montúa, Chelva, Eva de los Santos, B.
+
+Morisca, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Pardina, Jaén Blanco, B.
+
+Parellada, B.
+
+Pedro Ximénez, B.
+
+Perruno, B.
+
+Petit Verdot, T.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Rufete, T.
+
+Rufete Serrano Blanco, B.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo, Cencibel, Tinto Fino, T.
+
+Tinto de la Pámpana Blanca, T.
+
+Torrontés, B.
+
+Touriga Nacional, T.
+
+Trincadeira, T.
+
+Verdejo, B.
+
+Viognier, B.
+
+Xarello, B.
+
+11\. Comunidad Autónoma de Galicia
+
+Provincias: A Coruña, Lugo, Ourense y Pontevedra
+
+Variedades autorizadas:
+
+Agudelo, Chenin Blanc, B.
+
+Albarín Blanco, Branco Lexítimo, B.
+
+Albariño, B.
+
+Albilla do Avia, B.
+
+Blanca de Monterrei, B.
+
+Brancellao, T.
+
+Bruñal, Albarín Tinto, T.
+
+Caíño Blanco, B.
+
+Caíño Bravo, T.
+
+Caíño Longo, T.
+
+Caíño Tinto, T.
+
+Castañal, T.
+
+Doña Blanca, Dona Branca, B.
+
+Espadeiro, Torneiro, T.
+
+Ferrón, T.
+
+Garnacha Tintorera, T.
+
+Godello, B.
+
+Gran Negro, T.
+
+Juan García, Mouratón, T.
+
+Lado, B.
+
+Loureira, Loureiro Blanco, Marqués, B.
+
+Loureiro Tinto, T.
+
+Macabeo, Viura, B.
+
+Mencía, T.
+
+Merenzao, María Ordoña, T.
+
+Palomino, B.
+
+Pedral, Dozal, T.
+
+Ratiño Gallega, B.
+
+Sousón, T.
+
+Tempranillo, T.
+
+Torrontés, B.
+
+Treixadura, B.
+
+12\. Comunidad de Madrid
+
+Variedades autorizadas:
+
+Airén, B.
+
+Albillo Real, B.
+
+Cabernet Sauvignon, T.
+
+Garnacha Blanca, B.
+
+Garnacha Tinta, T.
+
+Garnacha Tintorera, Negral, T.
+
+Graciano, T.
+
+Listán Prieto, T.
+
+Macabeo, Viura, B.
+
+Malvar, B.
+
+Merlot, T.
+
+Monastrell, T.
+
+Moscatel de Grano Menudo, B.
+
+Pardina, Jaén Blanco, B.
+
+Parellada, B.
+
+Petit Verdot, T.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo, Cencibel, Tinto Fino, T.
+
+Torrontés, B.
+
+13\. Comunidad Autónoma de la Región de Murcia
+
+Variedades autorizadas:
+
+Airén, B.
+
+Bonicaire, T.
+
+Cabernet Franc, T.
+
+Cabernet Sauvignon, T.
+
+Calblanque, B.
+
+Calnegre,T.
+
+Chardonnay, B.
+
+Carmolí, T.
+
+Forcallat Blanca, B.
+
+Forcallat Tinta, T.
+
+Garnacha Tinta, T.
+
+Garnacha Tintorera, T.
+
+Gebas,T.
+
+Gewürztraminer, B.
+
+Graciano, T.
+
+Macabeo, Viura, B.
+
+Malvasía Aromática, Malvasía de Sitges, B.
+
+Mencía, T.
+
+Merlot, T.
+
+Merseguera, B.
+
+Monastrell, T.
+
+Moravia Dulce, Crudijera, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Myrtia,T.
+
+Quipar, T.
+
+Pedro Ximénez, B.
+
+Petit Verdot, T.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Rojal Tinta, T.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo, Cencibel, T.
+
+Verdejo, B.
+
+Verdil, B.
+
+Viognier, B.
+
+14\. Comunidad Foral de Navarra
+
+Variedades autorizadas:
+
+Alarije, Malvasía Riojana, B.
+
+Albariño, B.
+
+Albillo Mayor, Turruntés, B.
+
+Bobal, T.
+
+Cabernet Franc, T.
+
+Cabernet Sauvignon, T.
+
+Chardonnay, B.
+
+Garnacha Blanca, B.
+
+Garnacha Roja, Garnacha Gris, T.
+
+Garnacha Tinta, T.
+
+Gewürztraminer, B.
+
+Graciano, T.
+
+Gros Manseng, B.
+
+Hondarrabi Zuri, B.
+
+Macabeo, Viura, B.
+
+Malbec, T.
+
+Maturana Blanca, B.
+
+Mazuela, Mazuelo, T.
+
+Merenzao, Maturana Tinta, T.
+
+Merlot, T.
+
+Monastrell, T.
+
+Moscatel de Grano Menudo, B.
+
+Moscatel de Grano Menudo Rojo, T.
+
+Musa, B.
+
+Oneca, B.
+
+Parellada, B.
+
+Petit Courbu, B.
+
+Petit Manseng, B.
+
+Petit Verdot, T.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo Blanco, B.
+
+Tempranillo, T.
+
+Tortozona Tinta, T.
+
+Verdejo, B.
+
+Viognier, B.
+
+Xarello, B.
+
+Xurra, B.
+
+15\. Comunidad Autónoma del País Vasco
+
+Provincias: Álava, Gipuzkoa, Bizkaia
+
+Variedades autorizadas:
+
+Alarije, Malvasía Riojana, B.
+
+Albariño, B.
+
+Albillo Mayor, Turruntés, B.
+
+Albillo Real, B.
+
+Bobal, T.
+
+Cabernet Franc, T.
+
+Cabernet Sauvignon, T.
+
+Chardonnay, B.
+
+Doña Blanca, Malvasia Castellana, B.
+
+Folle Blanche, B.
+
+Garnacha Blanca, B.
+
+Garnacha Tinta, T.
+
+Graciano, T.
+
+Gewürztraminer, B.
+
+Godello, B.
+
+Gros Manseng, B.
+
+Hondarrabi Beltza, Ondarrabi Beltza, T.
+
+Hondarrabi Zuri, Ondarrabi Zuri, B.
+
+Macabeo, Viura, B.
+
+Malbec, T.
+
+Maturana Blanca, B.
+
+Mazuela, Mazuelo, T.
+
+Merenzao, Maturana Tinta, T.
+
+Merlot, T.
+
+Monastrell, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Palomino, B.
+
+Parellada, B.
+
+Petit Courbu, B.
+
+Petit Manseng, B.
+
+Petit Verdot, T.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo Blanco, B.
+
+Tempranillo, T.
+
+Treixadura, B.
+
+Verdejo, B.
+
+Viognier, B.
+
+Xarello, B.
+
+16\. Comunidad Autónoma de La Rioja
+
+Variedades autorizadas:
+
+Alarije, Malvasía Riojana, B.
+
+Albariño, B.
+
+Albillo Mayor, Turruntés, B.
+
+Chardonnay, B.
+
+Garnacha Blanca, B.
+
+Garnacha Tinta, T.
+
+Gewürztraminer, B.
+
+Graciano, T.
+
+Hondarrabi Zuri, B.
+
+Macabeo, Viura, B.
+
+Maturana Blanca, B.
+
+Merenzao, Maturana Tinta, T.
+
+Mazuela, Mazuelo, T.
+
+Monastrell, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Parellada, B.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Tempranillo Blanco, B.
+
+Tempranillo, T.
+
+Verdejo, B.
+
+Viognier, B.
+
+Xarello, B.
+
+17\. Comunitat Valenciana
+
+Provincias: Alicante/Alacant, Castellón/Castelló, Valencia/València
+
+Variedades autorizadas:
+
+Airén, B.
+
+Alarije, Malvasía Riojana, Subirat Parent, B.
+
+Albariño, B.
+
+Bobal, T.
+
+Bonicaire, Embolicaire, T.
+
+Cabernet Franc, T.
+
+Cabernet Sauvignon, T.
+
+Chardonnay, B.
+
+Forcallat Blanca, B.
+
+Forcallat Tinta, T.
+
+Garnacha Blanca, B.
+
+Garnacha Tinta, Gironet, T.
+
+Garnacha Tintorera, T.
+
+Garro, Mando, T.
+
+Gewürztraminer, B.
+
+Godello, B.
+
+Graciano, T.
+
+Macabeo, Viura, B.
+
+Malbec, T.
+
+Marselan, T.
+
+Mazuela, T.
+
+Mencía, T.
+
+Merlot, T.
+
+Merseguera, Exquitsagos, Verdosilla, B.
+
+Miguel del Arco, T.
+
+Monastrell, T.
+
+Mondragón, T.
+
+Moravia Dulce, Crudijera, T.
+
+Moravia Agria T.
+
+Morenillo, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Pampolat, T.
+
+Parellada, B.
+
+Pedro Ximénez, B.
+
+Petit Verdot, T.
+
+Pinot Noir, T.
+
+Planta Fina de Pedralba, B.
+
+Planta Nova, Tardana, B.
+
+Prieto Picudo, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Semillon, B.
+
+Syrah, T.
+
+Tempranillo, Cencibel, Tinto Fino, T.
+
+Tinto de la Pámpana Blanca, T.
+
+Tortosí, B.
+
+Trepat, T.
+
+Valencí Blanco, B.
+
+Valencí Tinto, T.
+
+Verdejo, B.
+
+Verdil, B.
+
+Vermentino, B.
+
+Vidadillo, T.
+
+Viognier, B.
+
+Xarello, B.
+
+> Se modifica por el art. único.11 del Real Decreto 684/2026, de 26 de agosto. [Ref. BOE-A-2026-18205](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18205)
+
+> Se modifican los apartados 9 y 14 por la disposición final 3.3 del Real Decreto 683/2025, de 29 de julio. [Ref. BOE-A-2025-15746](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15746)
+
+> Se modifica la última variedad del punto 10 por el art. 2.2 del Real Decreto 168/2025, de 4 de marzo. [Ref. BOE-A-2025-4323](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4323)
+
+> Esta modificación produce efectos desde el 1 de febrero de 2025 según establece la disposición final única del citado Real Decreto.
+
+> Se modifica por el art. único.16 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)
+
+> Se modifican los apartados 1, 9 y 14 por la disposición final 1.2 a 4 del Real Decreto 526/2023, de 20 de junio. [Ref. BOE-A-2023-14681](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14681)
+
+> Se modifica el apartado 13 por la disposición final 2 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+> Se modifica por el art. único.27 del Real Decreto 32/2023, de 24 de enero. [Ref. BOE-A-2023-2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2024)
+
+> Se modifica por el art. único.11 del Real Decreto 111/2022, de 8 de febrero de 2022. [Ref. BOE-A-2022-2058](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2058)
+
+> Téngase en cuenta para su aplicación la disposición final única del citado Real Decreto.
+
+> Se modifica por el art. único. 9 del Real Decreto 201/2021, de 30 de marzo. [Ref. BOE-A-2021-5030](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5030)
+
+> Se modifica por el art. único del Real Decreto 450/2020, de 10 de marzo. [Ref. BOE-A-2020-3435](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3435)
+
+> Se modifica por el art. único.11 del Real Decreto 536/2019, de 20 de septiembre. [Ref. BOE-A-2019-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-13412)
+
+## ANEXO XXII — Información mínima común del Registro Vitícola
+
+Información de la explotación:
+
+1\. Superficie potencial para plantaciones de uva de vinificación en hectáreas (no aplicable en la Comunidad Autónoma de las Islas Canarias).
+
+– Tipo de superficie potencial para plantaciones de uva de vinificación.
+
+● Superficie de autorizaciones de nueva plantación, concedidas y aún no plantadas y sin caducar.
+
+● Superficie de autorizaciones de replantación, concedidas y aún no plantadas y sin caducar.
+
+● Superficie de autorización de conversión y aún no plantadas sin caducar.
+
+● “Superficie de resoluciones de arranque concedidas sin caducar y sin incluir en una autorización de replantación.”
+
+– Superficie potencial (ha).
+
+– Provincia donde está situada la superficie de la autorización/derecho/resolución.
+
+– Nombre de la DOP donde está situada la superficie de la autorización/derecho/resolución.
+
+Información de la parcela vitícola/unidad de superficie en el RV:
+
+2\. Datos del Cultivo Viña para vinificación.
+
+– Código de la parcela vitícola o de la unidad de superficie de viñedo en el Registro Vitícola o Referencia SIGPAC parcela de viñedo.
+
+– Tipo de autorización/derecho de origen de la superficie de viñedo plantada con uva de vinificación.
+
+– Fecha de concesión de la autorización/derecho.
+
+– Tipo de superficie plantada de uva de vinificación:
+
+● Fines comerciales.
+
+● Fines experimentales.
+
+● Cultivo de viñas madres de injerto.
+
+● Conservación de los recursos genéticos.
+
+● Sin autorización después del 31 de diciembre de 2015.
+
+● Sin derecho de replantación antes del 1 de enero de 2016.
+
+● Abandonada.
+
+● Autoconsumo.
+
+– Año de plantación.
+
+– Variedad.
+
+– Portainjerto.
+
+– Marco de plantación.
+
+– Sistema de conducción.
+
+– Superficie plantada de uva de vinificación admisible para:
+
+● la producción de vino con DOP. Nombre de la DOP.
+
+● la producción de vino con IGP (que no esté incluida en el apartado anterior).
+
+● la producción de vino sin DOP/IGP, pero están situadas en una zona geográfica de producción DOP/IGP.
+
+● la producción de vino sin DOP/IGP y están situadas fuera de una zona geográfica de producción DOP/IGP.
+
+3\. Datos de las ayudas a la reestructuración y reconversión de viñedos y la cosecha en verde.
+
+– Tipo de ayuda de viñedo.
+
+– Superficie donde se ha ejecutado una operación de ayuda.
+
+– Ejercicio de finalización de la operación (año).
+
+4\. Datos de destino de la producción (en aplicación del artículo 28.3).
+
+– Categoría (Kg):
+
+● Vino DOP.
+
+● Vino IGP.
+
+● Vinos varietales.
+
+● Sin indicación geográfica.
+
+● Otros.
+
+5\. Datos de la bodega (en aplicación del artículo 28.3).
+
+– NIF del titular.
+
+– Nombre.
+
+– Primer apellido.
+
+– Segundo apellido.
+
+– Razón social.
+
+– Provincia.
+
+– Municipio.
+
+> Se añade por el art. único.17 del Real Decreto 1308/2024, de 23 de diciembre. [Ref. BOE-A-2024-26928](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26928)

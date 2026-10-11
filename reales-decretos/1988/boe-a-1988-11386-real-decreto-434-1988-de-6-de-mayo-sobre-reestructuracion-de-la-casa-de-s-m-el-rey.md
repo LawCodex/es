@@ -1,0 +1,413 @@
+---
+title: "Real Decreto 434/1988, de 6 de mayo, sobre reestructuración de la Casa de S. M. el Rey"
+identifier: "BOE-A-1988-11386"
+eli: "https://www.boe.es/eli/es/rd/1988/05/06/434"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1988-05-06
+published: 1988-05-10
+in_force_from: 1988-05-11
+last_amended: 2026-02-27
+consolidated: 2026-02-27
+gazette: "Boletín Oficial del Estado núm. 112"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1988-11386"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 434/1988, de 6 de mayo, sobre reestructuración de la Casa de S. M. el Rey
+
+Iniciada la reestructuración de la Casa de Su Majestad el Rey por el Real Decreto 1677/1987, de 30 de diciembre, ha llegado el momento de completarla de tal forma que, aún sin estar integrada en la Administración del Estado, se apliquen a su organización y funcionamiento determinados principios y criterios de la misma.
+
+En el desarrollo de su cometido, las distintas dependencias de la Casa vienen manteniendo relaciones con las restantes de la Administración, presididas en todo momento por el mayor espíritu de colaboración y armonía. No obstante, para conseguir una mayor fluidez y más perfecta claridad en el grado en que dichas relaciones se mantienen, por el presente Real Decreto se regulan los niveles que han de reconocerse a los titulares de los órganos superiores de dirección de la Casa, si bien no se incluyen en esta regulación a los del Cuarto Militar y Guardia Real, por tratarse de destinos exclusivos para el personal militar que como tal presta sus servicios, y a los que es de aplicación su legislación específica.
+
+Con la nueva normativa se armoniza también el régimen del personal que presta sus servicios en la Casa de Su Majestad el Rey en puestos de carácter civil que hasta la fecha no ha tenido un trato unificado, tanto respecto a su promoción profesional como para la determinación de sus retribuciones complementarias, por razón de su procedencia y vinculación a sus Departamentos de origen. Al propio tiempo, trata de evitarse el posible perjuicio irrogado a aquellos Ministerios que, en algunos casos, no podían cubrir el puesto de trabajo antes desempeñado por el funcionario adscrito a la Casa de S.M. el Rey.
+
+Asimismo, con esta reestructuración se pretende evitar en lo posible, por razones de economía, la creación de órganos de funciones paralelas a los de la Administración del Estado, al establecer que sean los de ésta quienes presten los debidos asesoramientos y apoyos a aquélla.
+
+En su virtud, a propuesta del Presidente del Gobierno y previa deliberación del Consejo de Ministros en su reunión del día 6 de mayo de 1988,
+
+DISPONGO:
+
+## Artículo 1.
+
+1\. La Casa de Su Majestad el Rey es el Organismo que, bajo la dependencia directa de S.M. tiene como misión servirle de apoyo en cuantas actividades se deriven del ejercicio de sus funciones como Jefe de Estado.
+
+2\. Dentro de esta misión general y además de desempeñar los cometidos de carácter administrativo y económico que correspondan, deberá atender especialmente a las relaciones del Rey con los Organismos Oficiales, Entidades y particulares, a la seguridad de Su Persona y Real Familia, así como a la rendición de los honores reglamentarios y a la prestación del servicio de escoltas cuando proceda.
+
+Igualmente atenderá a la organización y funcionamiento del régimen interior de la residencia de la Familia Real.
+
+## Artículo 2.
+
+La Casa de Su Majestad el Rey estará constituida por:
+
+Jefatura.
+
+Secretaría General.
+
+Cuarto Militar y Guardia Real.
+
+> Se suprime el párrafo último por el art. único.A) del Real Decreto 999/2010, de 5 de agosto. [Ref. BOE-A-2010-12704](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12704).
+
+## Artículo 3.
+
+1\. Las funciones y responsabilidades de la Jefatura de la Casa de Su Majestad, además de las que le corresponden con arreglo a la legislación vigente, serán todas aquellas que aseguren el normal funcionamiento de la Casa, así como el cumplimiento de las misiones asignadas a la misma.
+
+Compete especialmente al Jefe de la Casa:
+
+– Ejercer la dirección e inspección de todos sus servicios.
+
+– Mantener comunicación con los Departamentos Ministeriales y otros Organismos superiores de la Administración del Estado o Instituciones para los asuntos que afecten a las funciones de la Casa, ya directamente, ya a través de la Secretaría General o delegando para asuntos concretos en el responsable del servicio que estime oportuno, dentro del nivel correspondiente.
+
+– Formular la propuesta de presupuesto de la Casa de Su Majestad el Rey.
+
+– Disponer los gastos propios de los Servicios de dicha Casa dentro del importe de los créditos autorizados y en la cuantía reservada a su competencia por determinación de S.M. el Rey.
+
+– Firmar los contratos relativos a asuntos propios de la Casa de S.M. el Rey.
+
+– Establecer las normas de coordinación precisas entre la Guardia Real y el Servicio de Seguridad.
+
+– Aprobar las cuentas anuales correspondientes a la liquidación de cada ejercicio económico.
+
+2\. Dependerán del Jefe de la Casa los órganos de la misma a que se refiere el artículo 2.
+
+Compete al Jefe de la Casa la asignación de funciones al personal integrado en la Secretaría General, Cuarto Militar y Guardia Real, así como la prestación de apoyos funcionales entre esos órganos, para garantizar el cumplimiento de las misiones que corresponden a la Casa de Su Majestad el Rey en este real decreto.
+
+3\. Dependerá directamente del Jefe de la Casa la Oficina de Intervención, a cuyo frente estará un Interventor, que pertenecerá al Cuerpo Superior de Interventores y Auditores del Estado y que ejercerá las funciones de control de la gestión económico-financiera, presupuestaria y contable conforme a las técnicas empleadas en la Administración del Estado. Tras la liquidación de cada ejercicio económico, elevará al Jefe de la Casa un informe resumen de los emitidos durante el año.
+
+4\. También dependerá directamente del Jefe de la Casa un Consejero Diplomático, que pertenecerá a la Carrera Diplomática y que prestará asistencia a la Casa de Su Majestad el Rey en el ámbito de las relaciones internacionales.
+
+> Se modifican los apartados 2, 3 y 4 por el art. único.1 del Real Decreto 297/2022, de 26 de abril. [Ref. BOE-A-2022-6765](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6765)
+
+> Se añade el apartado 4 por el art. 2.1 del Real Decreto 547/2014, de 27 de junio. [Ref. BOE-A-2014-6762](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6762).
+
+> Se añade el párrafo último del apartado 1 y se modifica el 3 por el art. único.B) y C) del Real Decreto 999/2010, de 5 de agosto. [Ref. BOE-A-2010-12704](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12704).
+
+> Se añade al apartado 3 por el art. único del Real Decreto 657/1990, de 25 de mayo. [Ref. BOE-A-1990-11723](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-11723).
+
+## Artículo 4.
+
+1\. La Secretaría General tiene a su cargo la tramitación de los asuntos que corresponden a la actividad y funciones de la Casa de Su Majestad el Rey, así como su resolución o propuesta y el despacho de los temas que requieran superior decisión.
+
+El Secretario General será el Segundo Jefe de la Casa de Su Majestad el Rey y le corresponderá la coordinación de todos los servicios de la misma, así como la sustitución del Jefe de la Casa de Su Majestad el Rey en caso de ausencia o enfermedad.
+
+2\. Al Secretario general como titular de aquélla, le corresponden las siguientes funciones:
+
+– Desempeñar la Jefatura del personal de la Casa y resolver cuantos asuntos se refieren al mismo, con excepción de los que afecten a la organización militar dependiente del Jefe del Cuarto Militar, por delegación del Jefe de la Casa.
+
+– Asumir la inspección de las dependencias de la Casa.
+
+– Disponer cuanto concierne al régimen interno de los servicios generales de la Casa y resolver los respectivos expedientes cuando no sea facultad privativa del Jefe de aquélla.
+
+– Proponer el Jefe de la Casa las resoluciones que estime procedentes en los asuntos de su competencia y cuya tramitación le corresponda.
+
+– Establecer el régimen interno de las oficinas de la Casa de S.M. el Rey.
+
+– Elevar anualmente al Jefe de la Casa un informe acerca de la marcha, coste y rendimiento de los servicios a su cargo y proponer las reformas que se encaminen a mejorar y perfeccionar los mismos.
+
+– Elaborar los proyectos de planes de actualización y los programas de necesidades de la Casa.
+
+– Confeccionar, una vez aprobada en los Presupuestos del Estado la cantidad global a que se refiere el artículo 65.1 de la Constitución, el proyecto del presupuesto propio de la Casa, con arreglo a los principios de rigor, economía y eficiencia, y elevarlo al Jefe de la Casa para su aprobación por Su Majestad el Rey.
+
+– Ordenar los pagos.
+
+– Elevar al Jefe de la Casa las cuentas anuales formuladas por la Unidad de Administración, Infraestructura y Servicios.
+
+– Cuidar de que tanto las operaciones económicas, como las liquidaciones e ingresos en la Hacienda Pública y Seguridad Social, de los diversos tributos y cotizaciones sociales, se realicen con los mismos criterios que los empleados por la Administración del Estado.
+
+3\. La Secretaría General se estructura en las siguientes Unidades:
+
+Gabinete de Planificación y Coordinación.
+
+Secretaría de Su Majestad la Reina.
+
+Servicio de Seguridad.
+
+Comunicación.
+
+Protocolo.
+
+Administración, Infraestructura y Servicios.
+
+> Se modifica el apartado 3 por el art. único del Real Decreto 372/2019, de 7 de junio. [Ref. BOE-A-2019-8505](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-8505)
+
+> Se modifica el apartado 3 por el art. 2.2 del Real Decreto 547/2014, de 27 de junio. [Ref. BOE-A-2014-6762](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6762).
+
+> Se añaden los cuatro últimos párrafos al apartado 2 y se modifica el apartado 3 por el art. único.D) y E) del Real Decreto 999/2010, de 5 de agosto. [Ref. BOE-A-2010-12704](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12704).
+
+## Artículo 5.
+
+1\. El Cuarto Militar constituye la representación de honor de la institución militar, al servicio inmediato del Rey, dentro de la Casa de Su Majestad.
+
+2\. Estará formado por:
+
+Un oficial general en situación administrativa de servicio activo, que será primer ayudante de Su Majestad el Rey y Jefe del Cuarto Militar, dependiendo de él a todos los efectos la Guardia Real, por delegación del Jefe de la Casa.
+
+Los ayudantes de campo de Su Majestad el Rey, de los empleos militares de coronel o capitán de navío, teniente coronel o capitán de fragata, comandante o capitán de corbeta, en situación administrativa de servicio activo, pertenecientes al Ejército de Tierra, la Armada, el Ejército del Aire y el Cuerpo de la Guardia Civil.
+
+Asimismo se integrarán en el Cuarto Militar los ayudantes de campo que, en un futuro, se designen a Su Alteza Real la Princesa de Asturias.
+
+Un Gabinete.
+
+3\. Tanto el Jefe del Cuarto Militar como los demás ayudantes de campo de Su Majestad el Rey y los ayudantes de campo de Su Alteza Real la Princesa de Asturias, al cesar en su cargo, conservarán el carácter de ayudantes honorarios.
+
+> Se modifican los apartados 2 y 3 por el art. único.1 del Real Decreto 772/2015, de 28 de agosto. [Ref. BOE-A-2015-9460](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9460).
+
+> Se modifica por el art. único del Real Decreto 1183/2006, de 13 de octubre. [Ref. BOE-A-2006-17955](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-17955).
+
+> Se modifica el apartado 3 por el art. 1 del Real Decreto 1033/2001, de 21 de septiembre. [Ref. BOE-A-2001-17894](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-17894).
+
+## Artículo 6.
+
+1\. La Guardia Real tendrá como cometidos esenciales:
+
+a) Proporcionar el servicio de guardia militar, rendir honores y dar escoltas solemnes a Su Majestad el Rey y a los miembros de su Real Familia que se determinen.
+
+b) Prestar análogos servicios a los Jefes de Estados extranjeros cuando así se ordene.
+
+c) Proporcionar, con su Unidad de Asistencia Sanitaria, atención sanitaria permanente a los miembros de la Familia Real en su residencia oficial y en las actividades que se determinen por la Jefatura de la Casa.
+
+2\. Estará constituida por una Jefatura y por Unidades a pie, a caballo y motorizada, así como por los servicios correspondientes.
+
+3\. Las Unidades de la Guardia Real ocuparán el primer lugar entre las fuerzas militares en los actos oficiales a los que asistan en cumplimiento de las misiones que les corresponden.
+
+4\. El Ministerio de Defensa prestará los apoyos de todo orden que precise la Guardia Real para el cumplimiento de sus misiones.
+
+> Se suprime el párrafo primero y se modifica el apartado 1 por el art. único.2 del Real Decreto 297/2022, de 26 de abril. [Ref. BOE-A-2022-6765](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6765)
+
+## Artículo 7.
+
+1\. El Servicio de Seguridad es responsable permanente de la seguridad inmediata de la Familia Real y, en su caso, de aquellos miembros de la familia y de la Casa del Rey que se determinen por el Ministerio del Interior. Para ello mantendrá el oportuno enlace con los órganos del Estado que ejercen su competencia en esta materia, conforme a las instrucciones dictadas al efecto.
+
+2\. Estará constituido por una Jefatura y Fuerzas de Seguridad del Estado.
+
+3\. El Ministerio del Interior –y el de Defensa en lo referente a la Guardia Civil y a la Guardia Real, cuando proceda– prestará los apoyos de todo orden que precise el Servicio de Seguridad para el cumplimiento de su misión.
+
+4\. Para el mejor desempeño de la función encomendada al Servicio, el Jefe del mismo, por delegación del Jefe de la Casa y en casos justificados por la urgencia podrá establecer las relaciones necesarias con cuantos Organismos sea preciso, así como solicitar su apoyo y colaboración.
+
+> Se modifica el apartado 3 por el art. único.3 del Real Decreto 297/2022, de 26 de abril. [Ref. BOE-A-2022-6765](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6765)
+
+> Se modifica el apartado 1 por el art. único.2 del Real Decreto 772/2015, de 28 de agosto. [Ref. BOE-A-2015-9460](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9460).
+
+## Artículo 8.
+
+El Personal de la Casa de Su Majestad el Rey podrá ser de las siguientes clases:
+
+a) De alta dirección.
+
+b) De dirección.
+
+c) Funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades Locales.
+
+d) Funcionarios eventuales.
+
+e) Personal laboral.
+
+> Se modifica por el art. único.3 del Real Decreto 772/2015, de 28 de agosto. [Ref. BOE-A-2015-9460](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9460).
+
+## Artículo 9.
+
+1\. La consideración de personal de alta dirección de la Casa de S. M. el Rey, a los efectos que en derecho procedan, se referirá sólo a quienes ostenten los cargos de Jefe de la Casa, Secretario General y Jefe del Cuarto Militar, los cuales estarán asimilados, respectivamente, a los Ministros, Secretarios de Estado y Subsecretarios.
+
+2\. Tendrán la consideración de personal de dirección el Consejero Diplomático, los Jefes titulares de las Unidades relacionadas en el artículo 4.3, así como el Interventor de la Casa de Su Majestad el Rey.
+
+3\. Tanto el personal de Alta Dirección como el de Dirección, así como aquel otro que en lo sucesivo se considere corno tal, será nombrado por Real Decreto.
+
+4\. El régimen de conflictos de intereses y de incompatibilidades del personal de alta dirección y dirección será el vigente para los altos cargos de la Administración General del Estado.
+
+El personal de alta dirección y dirección de la Casa de Su Majestad el Rey presentará una declaración de bienes y derechos patrimoniales en el plazo de tres meses desde su nombramiento y cese, respectivamente.
+
+5\. En las relaciones con los órganos de la Administración del Estado e Instituciones, los titulares de la Jefatura de la Casa, la Secretaría General, el Cuarto Militar y el personal de Dirección, se equiparan, respectivamente, a los Ministros, Secretarios de Estado, Subsecretarios y Directores Generales.
+
+6\. Respecto a precedencias en actos oficiales se estará a lo que en cada momento disponga el ordenamiento general de aquéllas en el Estado.
+
+> Se modifica el apartado 4 por el art. único.4 del Real Decreto 297/2022, de 26 de abril. [Ref. BOE-A-2022-6765](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6765)
+
+> Se modifica el apartado 1 y se añaden los apartados 4, 5 y 6 por el art. único.4 y 5 del Real Decreto 772/2015, de 28 de agosto. [Ref. BOE-A-2015-9460](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9460).
+
+> Se modifica el apartado 2 por el art. 2.3 del Real Decreto 547/2014, de 27 de junio. [Ref. BOE-A-2014-6762](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6762).
+
+> Se modifica el apartado 2 por el art. único.F) del Real Decreto 999/2010, de 5 de agosto. [Ref. BOE-A-2010-12704](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12704).
+
+## Artículo 10.
+
+1\. Todos los miembros civiles y militares de la Casa son nombrados y relevados libremente por S.M. el Rey, a tenor de lo dispuesto en el artículo 65.2 de la Constitución.
+
+2\. El personal militar, en activo, destinado en la Casa de S.M. cumplirá, a todos los efectos, las mismas condiciones que los destinados en el Cuartel General de su respectivo Ejército, con independencia de las que corresponden a los destinados en unidades armadas de la Casa.
+
+3\. A los funcionarios eventuales les será de aplicación el régimen jurídico previsto para el personal eventual en la Administración del Estado.
+
+4\. Al personal laboral le será de aplicación la legislación laboral correspondiente.
+
+5\. El personal civil y militar al servicio de la Casa de S.M. el Rey estará sometido a la normativa de incompatibilidades del personal al servicio de las Administraciones Públicas.
+
+> Se suprime el apartado 6 por el art. único.5 del Real Decreto 297/2022, de 26 de abril. [Ref. BOE-A-2022-6765](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6765)
+
+> Se añaden los apartados 5 y 6 por el art. único.6 del Real Decreto 772/2015, de 28 de agosto. [Ref. BOE-A-2015-9460](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9460).
+
+## Artículo 11.
+
+1\. Se confeccionará una relación de puestos de trabajo, de carácter no militar. dependientes de la Casa de Su Majestad el Rey Para su confección se procederá con los mismos criterios que se siguen en la Administración del Estado. Esta relación figurará como apéndice a la del Ministerio de la Presidencia.
+
+2\. Cuando un funcionario, civil o militar, pase a prestar servicio a la Casa de Su Majestad el Rey a uno de los puestos de trabajo a que se refiere el apartado anterior de este artículo, causará baja en el puesto donde esté destinado, y alta en el Ministerio de la Presidencia.
+
+> Se modifica por el art. único.7 del Real Decreto 772/2015, de 28 de agosto. [Ref. BOE-A-2015-9460](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9460).
+
+> Se modifican los apartados 1 y 3 por el art. único.G) del Real Decreto 999/32010, de 5 de agosto. [Ref. BOE-A-2010-12704](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12704).
+
+## Artículo 12.
+
+1\. El personal de alta dirección, de dirección y el personal laboral percibirán sus retribuciones con cargo a la dotación que para el mantenimiento de la Casa de Su Majestad el Rey figure en los Presupuestos Generales del Estado, en cumplimiento del artículo 65.1 de la Constitución. Anualmente se determinará en el Presupuesto de la Casa el importe de las retribuciones que, por todos los conceptos, corresponde a este personal, así como los complementos retributivos que se puedan libremente asignar a otro personal que presta servicio en la Casa.
+
+2\. El personal que sea funcionario de carrera del Estado, de las Comunidades Autónomas o de las Entidades Locales y los funcionarios eventuales percibirán sus retribuciones por el Ministerio de la Presidencia, Departamento en el que figuran como apéndice de su relación los puestos de trabajo desempeñados por estos funcionarios en la Casa.
+
+3\. El personal al servicio de la Casa de Su Majestad el Rey ejercerá sus funciones con sujeción a su Código de Conducta, que está integrado por los principios generales que se recogen en este real decreto y los criterios de actuación que se deberán aprobar en su desarrollo. Su vulneración determinará la pérdida de confianza a los efectos previstos en el artículo 65 de la Constitución, sin perjuicio de las responsabilidades disciplinarias o penales que procedan en los casos en que, además de incumplir el Código de Conducta, se contravengan también disposiciones legales.
+
+4\. El personal que presta servicios en la Casa de Su Majestad el Rey adecuará su conducta a los siguientes principios generales:
+
+a) Deberá velar en todo momento por los intereses generales, con sujeción y observancia de la Constitución y del resto de las normas que integran el ordenamiento jurídico.
+
+b) En el desarrollo de su actividad deberá actuar con arreglo a los siguientes principios: Objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, lealtad, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, protección del entorno medioambiental y respeto a la igualdad entre mujeres y hombres.
+
+c) Perseguirá el cumplimiento de la misión de la Casa de apoyar a Su Majestad el Rey en cuantas actividades se deriven del ejercicio de sus funciones como Jefe del Estado, así como a los demás miembros de la Familia Real en el ejercicio de sus funciones institucionales.
+
+d) Basará las relaciones con las diferentes Administraciones Públicas en los principios de colaboración y coordinación.
+
+e) Fomentará el trabajo en equipo y el espíritu de cooperación para obtener el mejor rendimiento de las capacidades personales y de los recursos disponibles.
+
+5\. El Jefe de la Casa aprobará los criterios de actuación del personal que presta servicios en este organismo, en aplicación de los principios generales establecidos en este real decreto.
+
+Los criterios de actuación aprobados se publicarán en la página web de la Casa de Su Majestad el Rey.
+
+> Se añaden los apartados 3, 4 y 5 por el art. único.6 del Real Decreto 297/2022, de 26 de abril. [Ref. BOE-A-2022-6765](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6765)
+
+> Se modifica por el art. único.8 del Real Decreto 772/2015, de 28 de agosto. [Ref. BOE-A-2015-9460](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9460).
+
+> Se modifica el apartado 2 por el art. único.G) del Real Decreto 999/32010, de 5 de agosto. [Ref. BOE-A-2010-12704](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12704).
+
+## Artículo 13.
+
+1\. Por razones de economía administrativa, la Casa de S.M. el Rey podrá utilizar medios personales y patrimoniales de Patrimonio Nacional, del Parque Móvil del Estado u otros organismos, conforme a lo dispuesto en su respectiva normativa reguladora.
+
+El Ministerio de Defensa proporcionará las capacidades en el ámbito de las tecnologías de la información y de las comunicaciones que resulten necesarias para garantizar el ejercicio de las funciones propias de la Jefatura del Estado.
+
+2\. Asimismo, y para evitar en cuanto sea posible la creación en la Casa de S. M. el Rey de órganos con funciones paralelas a los de la Administración del Estado, los distintos Departamentos de ésta proporcionarán a aquélla los informes, dictámenes o asesoramientos de cualquier naturaleza que la Casa solicite, así como cuantos otros apoyos sean necesarios y contribuyan a facilitar el cumplimiento de las misiones que tienen encomendadas.
+
+Por la Presidencia del Gobierno se establecerá con carácter general según los criterios o materias, el trámite a seguir para la solicitud, formalización y curso de las mencionadas informaciones.
+
+Con la misma finalidad, la Casa de S.M. el Rey podrá también suscribir convenios de colaboración en el ámbito de la Administración General del Estado.
+
+3\. La Casa de Su Majestad el Rey podrá también suscribir Convenios de colaboración en el ámbito de la Administración General del Estado o con otras entidades públicas, tanto por razones organizativas como funcionales, cuando en el ejercicio de sus actividades se requiera una colaboración continuada.
+
+4\. La asistencia jurídica, consistente en el asesoramiento, representación y defensa en juicio de la Casa de Su Majestad el Rey, corresponde al Servicio Jurídico del Estado cuyo centro directivo superior es la Abogacía General del Estado-Dirección del Servicio Jurídico, mediante la formalización del oportuno Convenio en los términos previstos en la Ley 52/1997, de 27 de noviembre, de Asistencia Jurídica del Estado e Instituciones Públicas, y su normativa de desarrollo.
+
+5\. La auditoría externa de las cuentas anuales formuladas por la Casa de Su Majestad el Rey se llevará a cabo por el Tribunal de Cuentas en los términos y condiciones que se convengan entre ambos organismos en un Convenio de colaboración firmado al efecto, con sujeción a las especialidades que vienen impuestas por los principios establecidos en el título II de la Constitución Española y, en particular, por las previsiones contenidas en sus artículos 56 y 65.
+
+El informe de auditoría se circunscribirá a reflejar si las cuentas anuales expresan en todos sus aspectos significativos la imagen fiel del patrimonio y de la situación financiera del organismo, así como de sus resultados y flujos de efectivo y del estado de liquidación del presupuesto, de conformidad con los principios y criterios contables aplicables según lo dispuesto en el artículo 16 de este real decreto.
+
+Las cuentas anuales y el informe de auditoría se publicarán en la página web de la Casa de Su Majestad el Rey.
+
+> Se añade el segundo párrafo del apartado 1 por el art. único del Real Decreto 139/2026, de 25 de febrero. [Ref. BOE-A-2026-4514](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4514)
+
+> Se añaden los apartados 3, 4 y 5 por el art. único.7 del Real Decreto 297/2022, de 26 de abril. [Ref. BOE-A-2022-6765](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6765)
+
+> Se modifica por el art. único.9 del Real Decreto 772/2015, de 28 de agosto. [Ref. BOE-A-2015-9460](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9460).
+
+## Artículo 14.
+
+En lo sucesivo, cualquier modificación de la Casa de Su Majestad que no afecte a la Administración Pública, y a tenor de lo previsto en el artículo 65 de la Constitución, será resuelta libremente por S.M. el Rey ya de una manera directa, ya en nombre suyo por el Jefe de Su Casa.
+
+El jefe de la Casa de S.M. el Rey dictará las normas de funcionamiento interno necesarias para la aplicación del presente Real Decreto.
+
+## Artículo 15.
+
+1\. La actividad contractual de la Casa de Su Majestad el Rey se ajustará a los principios de publicidad, concurrencia, transparencia, igualdad y no discriminación.
+
+2\. Por la Jefatura de la Casa se aprobarán las Instrucciones que deban regir la contratación, que se adecuarán a lo previsto en el párrafo anterior, previo informe del órgano al que corresponda su asesoramiento jurídico.
+
+Estas Instrucciones deberán publicarse en la página web de la Casa de Su Majestad el Rey.
+
+> Se modifica por el art. único.8 del Real Decreto 297/2022, de 26 de abril. [Ref. BOE-A-2022-6765](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6765)
+
+> Se modifica por el art. único.10 del Real Decreto 772/2015, de 28 de agosto. [Ref. BOE-A-2015-9460](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9460).
+
+## Artículo 16.
+
+1\. El régimen presupuestario y de contabilidad se ajustará a las técnicas y principios propios del sector público, respetando al mismo tiempo la autonomía presupuestaria reconocida en el artículo 65 de la Constitución Española.
+
+2\. Por la Jefatura de la Casa se aprobarán las Instrucciones que regulen el régimen presupuestario y de contabilidad, que se adecuarán a lo previsto en el párrafo anterior.
+
+Estas Instrucciones deberán publicarse en la página web de la Casa de Su Majestad el Rey.
+
+> Se añade por el art. único.9 del Real Decreto 297/2022, de 26 de abril. [Ref. BOE-A-2022-6765](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6765)
+
+## Artículo 17.
+
+Sin perjuicio de dar cumplimiento a las obligaciones que disponga la ley en esta materia, será objeto de publicación en la página web de la Casa de Su Majestad el Rey la siguiente información de carácter periódico:
+
+a) El presupuesto de la Casa de Su Majestad el Rey, que recogerá la distribución por Su Majestad de la cantidad global asignada para el sostenimiento de su Familia y Casa, de acuerdo a lo dispuesto por el artículo 65.1 de la Constitución.
+
+b) Los estados trimestrales de ejecución presupuestaria.
+
+c) El detalle de los contratos celebrados y Convenios suscritos por la Casa de Su Majestad el Rey.
+
+d) Las retribuciones percibidas por los miembros de la Familia Real.
+
+e) Las retribuciones percibidas por el personal de alta dirección y dirección en la Casa de Su Majestad el Rey.
+
+f) La relación anual de regalos institucionales que hayan sido recibidos por la Familia Real.
+
+g) Las autorizaciones de compatibilidad para actividades particulares o reconocimientos de compatibilidad de los altos cargos de la Casa de Su Majestad el Rey.
+
+h) Las indemnizaciones percibidas por los altos cargos de la Casa de Su Majestad el Rey con ocasión del cese en el cargo.
+
+i) Las cuentas anuales aprobadas junto con el informe de auditoría.
+
+j) El informe resumen anual del Interventor de la Casa de Su Majestad el Rey.
+
+k) La memoria anual de las actividades institucionales desarrolladas por la Familia Real.
+
+> Se añade por el art. único.10 del Real Decreto 297/2022, de 26 de abril. [Ref. BOE-A-2022-6765](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6765)
+
+## Disposición adicional única.
+
+De conformidad con la Normativa establecida por Su Majestad el Rey sobre regalos a favor de los miembros de la Familia Real, corresponde a la Casa de Su Majestad el Rey el registro y custodia de los regalos recibidos, así como su valoración para proponer, de acuerdo a la mencionada Normativa, su incorporación al patrimonio del Consejo de Administración de Patrimonio Nacional o su donación a una entidad sin ánimo de lucro que persiga fines de interés general.
+
+En todo caso, los regalos de carácter institucional se incorporarán al Patrimonio Nacional, de conformidad con lo dispuesto en la Ley 23/1982, de 16 de junio, reguladora del Patrimonio Nacional.
+
+La Casa de Su Majestad el Rey deberá publicar esta Normativa en su página web oficial, así como, con periodicidad anual, la relación de regalos institucionales que hayan sido recibidos por la Familia Real durante el año anterior.
+
+> Se añade por el art. único.11 del Real Decreto 297/2022, de 26 de abril. [Ref. BOE-A-2022-6765](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6765)
+
+## Disposición transitoria única.
+
+La auditoría externa del Tribunal de Cuentas se aplicará por primera vez a las cuentas anuales correspondientes al ejercicio económico siguiente a la fecha en que se firme el Convenio de colaboración previsto en el artículo 13 de este real decreto.
+
+> Se añade por el art. único.12 del Real Decreto 297/2022, de 26 de abril. [Ref. BOE-A-2022-6765](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6765)
+
+## Disposición derogatoria.
+
+Queda derogado el Real Decreto 310/1979, de 13 de febrero y todas las normas de igual o inferior rango que se opongan a lo dispuesto en el presente Real Decreto.
+
+## Disposición final primera.
+
+Por la Presidencia del Gobierno, a iniciativa de los Ministros interesados, se dictarán las disposiciones necesarias para el desarrollo del presente Real Decreto.
+
+> Se añade por el art. único.12 del Real Decreto 772/2015, de 28 de agosto. [Ref. BOE-A-2015-9460](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9460).
+
+## Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+> Se numera por el art. único.12 del Real Decreto 772/2015, de 28 de agosto. [Ref. BOE-A-2015-9460](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9460).
+
+Dado en Madrid a 6 de mayo de 1988.
+
+JUAN CARLOS R
+
+El Presidente del Gobierno.
+
+FELIPE GONZÁLEZ MÁRQUEZ

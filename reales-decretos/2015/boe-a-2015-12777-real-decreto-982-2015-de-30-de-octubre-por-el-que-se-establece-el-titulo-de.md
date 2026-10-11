@@ -1,0 +1,4095 @@
+---
+title: "Real Decreto 982/2015, de 30 de octubre, por el que se establece el título de Técnico Deportivo Superior en Baloncesto y se fijan su currículo básico y los requisitos de acceso"
+identifier: "BOE-A-2015-12777"
+eli: "https://www.boe.es/eli/es/rd/2015/10/30/982"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación, Cultura y Deporte"
+date: 2015-10-30
+published: 2015-11-26
+in_force_from: 2015-11-27
+last_amended: 2026-07-02
+consolidated: 2026-08-24
+gazette: "Boletín Oficial del Estado núm. 283"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-12777"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 982/2015, de 30 de octubre, por el que se establece el título de Técnico Deportivo Superior en Baloncesto y se fijan su currículo básico y los requisitos de acceso
+
+La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos.
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en su artículo 64.5 que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros.
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada Ley Orgánica 2/2006, de 3 de mayo, de Educación establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
+
+Este marco normativo hace necesario que ahora el Gobierno, previa consulta a las comunidades autónomas, actualice el título de Técnico Deportivo Superior en Baloncesto establecido al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, y que formará parte del Catálogo de las enseñanzas deportivas del sistema educativo, y estableciendo sus currículos básicos y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, de acuerdo con la Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa.
+
+El Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, define en el artículo 4 la estructura de estas enseñanzas, situando las de enseñanzas deportivas de grado superior como parte de la educación superior.
+
+Por otra parte, en su artículo 6 concreta el perfil profesional de dichos títulos, que incluirá la competencia general, las competencias profesionales, personales y sociales, con el fin de lograr que, en efecto, los títulos de enseñanzas deportivas respondan a las necesidades demandadas por los sistemas deportivo y productivo, y a los valores personales y sociales para ejercer una ciudadanía democrática. A este fin y como reflejo de la madurez alcanzada por la modalidad deportiva, se atribuye al ciclo de grado superior las competencias vinculadas al entrenamiento, dirección de equipos y deportistas de alto nivel o rendimiento y en determinados casos la conducción con altos niveles de dificultad en la modalidad o especialidad deportiva.
+
+A estos efectos procede determinar para cada título su identificación, su perfil profesional, el entorno profesional, las enseñanzas de los ciclos de enseñanzas deportivas y la acreditación de módulos debida a la experiencia docente, a la experiencia deportiva, así como los parámetros básicos de contexto formativo para cada módulo de enseñanza deportiva (espacios, equipamientos necesarios, titulaciones y especialidades del profesorado). Asimismo, en cada título también se determinarán los requisitos específicos de acceso, siendo propio de estos títulos la identificación de la carga lectiva que se acredita a través de estos requisitos, la vinculación con otros estudios, las convalidaciones, exenciones y equivalencias.
+
+El marcado carácter técnico de estas enseñanzas, definidas por la peculiaridad de sus procedimientos, materiales, equipos y prácticas específicas de cada modalidad, hace necesario un desarrollo que garantice un mínimo común denominador, claro y orientador, a través de una norma reglamentaria.
+
+Con el fin de facilitar el reconocimiento de créditos entre los títulos de Técnico Deportivo Superior y las enseñanzas conducentes a títulos universitarios y viceversa, en los ciclos de enseñanzas deportivas de grado superior se establecerá la equivalencia de cada módulo de enseñanza deportiva con créditos europeos, ECTS, tal y como se definen en el Real Decreto 1125/2003, de 5 de septiembre, por el que se establece el sistema europeo de créditos y el sistema de calificaciones en las titulaciones universitarias de carácter oficial y validez en todo el territorio nacional.
+
+El presente real decreto, que se dicta en desarrollo del Real Decreto 1363/2007, de 24 de octubre, establece y regula, en los aspectos y elementos básicos antes indicados, el título de Técnico Deportivo Superior en Baloncesto.
+
+Finalmente, este real decreto adapta al ámbito de las enseñanzas deportivas en baloncesto las previsiones del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, ya contenidas en el citado Real Decreto 1363/2007, de 24 de octubre, y desarrolla en este ámbito las previsiones de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas en el seno de las Conferencia Sectorial de Educación, han emitido dictamen el Consejo Escolar del Estado, y ha informado el Ministerio de Hacienda y Administraciones Públicas.
+
+En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte y previa deliberación del Consejo de Ministros en su reunión del día 30 de octubre de 2015,
+
+DISPONGO:
+
+## CAPÍTULO I — Objeto
+
+### Artículo 1. Objeto.
+
+1\. El objeto del presente real decreto es el establecimiento del título de Técnico Deportivo Superior en Baloncesto, con carácter oficial y validez en todo el territorio nacional, así como de su correspondiente currículo básico.
+
+2\. Lo dispuesto en este real decreto sustituye a la regulación del título de Técnico Deportivo Superior en Baloncesto contenido en el Real Decreto 234/2005, de 4 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Baloncesto
+
+3\. De conformidad con lo establecido en el Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, los elementos recogidos en el presente real decreto no constituyen una regulación del ejercicio de profesión titulada alguna.
+
+## CAPÍTULO II — Identificación del título y organización de las enseñanzas
+
+### Artículo 2. Identificación del título de Técnico Deportivo Superior en Baloncesto.
+
+El título de Técnico Deportivo Superior en Baloncesto queda identificado por los siguientes elementos:
+
+a. Denominación: Baloncesto.
+
+b. Nivel: Nivel 1: Técnico Superior del Marco Español de Cualificaciones para la Educación Superior, Enseñanzas Deportivas de Grado superior.
+
+c. Duración: 755 horas.
+
+d. Referente internacional: CINE-5b (Clasificación Internacional Normalizada de Educación).
+
+### Artículo 3. Organización de las enseñanzas conducentes al título de Técnico Deportivo Superior en Baloncesto.
+
+Las enseñanzas conducentes al Título de Técnico Deportivo Superior en Baloncesto se organizan en el ciclo de grado superior en baloncesto y tienen una duración de 755 horas.
+
+### Artículo 4. Especializaciones del título de Técnico Deportivo Superior en Baloncesto.
+
+1\. El título de Técnico Deportivo Superior en Baloncesto tendrá como especializaciones:
+
+a. Baloncesto de personas con discapacidad.
+
+b. Baloncesto en silla de ruedas.
+
+c. Dirección deportiva de baloncesto en el alto rendimiento.
+
+d. Scouting y análisis del Juego.
+
+e. Tiro (Lanzamiento a canasta).
+
+f. Defensa. y sistemas defensivos.
+
+g. Ataque y sistemas ofensivos.
+
+2\. El Ministerio de Educación, Cultura y Deporte, a propuesta del Consejo Superior de Deportes y previa consulta a los órganos competentes en materia de deportes de las comunidades autónomas y de la Federación Española de Baloncesto establecerá los objetivos, contenidos y criterios de evaluación de estas especializaciones.
+
+> Se modifica la letra a) del apartado 1 por el art. 7.1 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+## CAPÍTULO III — Perfil profesional y entorno profesional, personal y laboral deportivo del ciclo
+
+### Artículo 5. Perfil profesional del ciclo de grado superior en baloncesto.
+
+El perfil profesional del ciclo de grado superior en baloncesto queda determinado por su competencia general, sus competencias profesionales, personales y sociales, por la relación de cualificaciones y, en su caso, unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título y el entorno profesional, laboral y deportivo.
+
+### Artículo 6. Competencia general del ciclo de grado superior en baloncesto.
+
+La competencia general del ciclo de grado superior en baloncesto consiste en construir equipos de baloncesto, así como programar y dirigir el entrenamiento deportivo orientado hacia la obtención y mantenimiento del rendimiento en deportistas y equipos; organizar y dirigir la participación de estos en competiciones de alto nivel. Ejercer la dirección técnica y coordinar la intervención de técnicos especialistas y sus relaciones con la dirección deportiva y la directiva del club; programar y coordinar las tareas de los técnicos a su cargo; organizar competiciones propias de la iniciación y tecnificación deportiva; diseñar programas individuales de alta tecnificación para jugadores de baloncesto; y todo ello de acuerdo con los objetivos establecidos, el nivel óptimo de calidad, y en condiciones de seguridad.
+
+### Artículo 7. Competencias profesionales, personales y sociales del ciclo de grado superior en baloncesto.
+
+Las competencias profesionales, personales y sociales del ciclo de grado superior en baloncesto son las que se relacionan a continuación:
+
+a. Construir un equipo de baloncesto equilibrado, seleccionando jugadores de acuerdo con el proyecto deportivo y las exigencias de la competición de alto nivel.
+
+b. Valorar y clasificar al jugador de alto nivel de baloncesto en función de sus habilidades técnicas, físicas, psicológicas, tácticas, capacidad de juego y competitividad, para determinar los factores de rendimiento propios del baloncesto y optimizar todo su talento.
+
+c. Planificar la temporada y programar a corto, medio y largo plazo el entrenamiento, los programas individuales de desarrollo global o específico, los objetivos y medios necesarios de un equipo en el alto rendimiento, a partir de las valoraciones y análisis realizados sobre la competición, las condiciones del entorno y de cada uno de los jugadores y técnicos que lo conforman.
+
+d. Diseñar la sesión de entrenamiento colectiva o individual en el alto rendimiento, concretando la programación a corto plazo, adecuándola al equipo o al jugador y considerando las condiciones existentes de acuerdo con la programación general.
+
+e. Dirigir la sesión de entrenamiento en la etapa de alto rendimiento, solucionando las contingencias existentes, para conseguir la implicación y el rendimiento conforme a los objetivos propuestos, y dentro de las normas de seguridad requeridos.
+
+f. Dirigir a los equipos de baloncesto en competiciones de alto rendimiento, realizando los ajustes tácticos oportunos, controlando las contingencias que aparezcan, tomando las decisiones más adecuadas, conforme al reglamento y a los objetivos previstos.
+
+g. Dirigir y realizar coordinar el «scouting» del propio equipo y de los contrarios en la etapa de alto rendimiento, gestionando los recursos tecnológicos y humanos disponibles, y estableciendo criterios de eficiencia individual y colectiva.
+
+h. Constituir equipos técnicos de carácter multidisciplinar, y coordinar sus acciones dentro de la programación de un equipo de baloncesto en el alto rendimiento.
+
+i. Realizar la dirección técnica de un club de baloncesto, participando en la formación de los técnicos deportivos y estableciendo las programaciones de referencia de los equipos de categorías inferiores.
+
+j. Organizar y gestionar competiciones de baloncesto en categorías de formación, colaborando en la organización de eventos propios de la alta competición.
+
+k. Evaluar el proceso de preparación de un equipo y los resultados obtenidos, programando la recogida de la información y realizando su análisis para conseguir el ajuste y mejora permanente del rendimiento en la etapa de alto rendimiento deportivo.
+
+l. Transmitir personalmente, o a través de distintos medios de comunicación, un comportamiento ético personal y valores vinculados con el juego limpio, el respeto a los demás, al reglamento, y al cuidado del propio cuerpo.
+
+m. Mantener una identidad profesional y un espíritu de innovación y desarrollo profesional, que facilite la adaptación a los cambios que se produzcan en el baloncesto y en su entorno organizativo.
+
+### Artículo 8. Entorno profesional, laboral y deportivo del ciclo de grado superior en baloncesto.
+
+1\. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado, las Administraciones Autonómicas o Locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones, centros de tecnificación, centros de alto rendimiento y clubes deportivos y sociales, centros educativos, empresas de servicios deportivos, que ofrezcan actividades deportivo-recreativas, alto rendimiento en baloncesto.
+
+2\. Las ocupaciones y puestos de trabajo más relevantes para estos profesionales son las siguientes:
+
+a. Entrenador de baloncesto de alto nivel.
+
+b. Director deportivo.
+
+c. Director de escuelas deportivas.
+
+3\. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo con los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
+
+## CAPÍTULO IV — Estructura de las enseñanzas del ciclo de grado superior de enseñanza deportiva conducentes al título de Técnico Deportivo Superior en Baloncesto
+
+### Artículo 9. Estructura de ciclo de grado superior de baloncesto.
+
+1\. El ciclo de grado superior de baloncesto se estructura en módulos, agrupados en un bloque común y un bloque específico.
+
+2\. Los módulos de enseñanza deportiva del ciclo de grado superior de baloncesto son los que a continuación se relacionan:
+
+a. Módulos del bloque común:
+
+MED-C301 Factores fisiológicos del alto rendimiento.
+
+MED-C302 Factores psicosociales del alto rendimiento.
+
+MED-C303 Formación de formadores deportivos.
+
+MED-C304 Organización y gestión aplicada al alto rendimiento.
+
+b. Módulos del bloque específico:
+
+MED-BCBC301 Formación del jugador en la etapa de alto rendimiento.
+
+MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento.
+
+MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto
+
+MED-BCBC304 Táctica de ataque y defensa en la etapa de alto rendimiento.
+
+MED-BCBC305 Proyecto.
+
+MED-BCBC306 Formación práctica.
+
+3\. La distribución horaria del currículo básico del ciclo de grado superior en baloncesto se establece en el anexo I-B.
+
+4\. Los objetivos generales y los módulos de enseñanza deportiva del ciclo de grado superior en baloncesto quedan desarrollados en el anexo II.
+
+### Artículo 10. Ratio profesor/alumno.
+
+1\. Para impartir los módulos del bloque común y los contenidos relacionados con los resultados de aprendizaje de carácter conceptual de los módulos del bloque específico del ciclo de grado superior en baloncesto, la relación profesor/alumno será de 1/30.
+
+2\. Para impartir los contenidos relacionados con los resultados de aprendizaje de carácter procedimental de los módulos del bloque específico del ciclo de grado superior en baloncesto la relación profesor/alumno será la recogida en el anexo III.
+
+### Artículo 11. Módulo de formación práctica.
+
+Para iniciar los módulos de formación práctica del ciclo de grado superior en baloncesto, será necesario haber superado con anterioridad los módulos comunes y específicos de enseñanza deportiva que se establecen en el anexo IV.
+
+### Artículo 12. Determinación del currículo.
+
+Las Administraciones educativas establecerán los currículos correspondientes respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del Real Decreto 1363/2007, de 24 de octubre.
+
+### Artículo 13. Espacios y equipamientos deportivos.
+
+Los espacios y equipamientos mínimos necesarios para el desarrollo de las enseñanzas del ciclo de grado superior en baloncesto son los establecidos en el anexo V.
+
+## CAPÍTULO V — Acceso al ciclo de grado superior
+
+### Artículo 14. Requisitos generales de acceso al ciclo de grado superior en baloncesto.
+
+1\. Para acceder al ciclo de grado superior en baloncesto será necesario tener al menos alguno de los siguientes títulos: título de Bachiller, título de Técnico Superior, título universitario, certificado acreditativo de haber superado todas las materias del Bachillerato, o equivalente a efectos de acceso.
+
+2\. Además del requisito establecido en el apartado anterior será necesario estar en posesión del título de Técnico Deportivo en Baloncesto.
+
+### Artículo 15. Requisitos de acceso al ciclo de grado superior en baloncesto para personas sin el título de Bachiller.
+
+Se podrá acceder a las enseñanzas del ciclo de grado superior en baloncesto, sin los títulos que se hacen constar en el artículo 14.1 de este real decreto, siempre que el aspirante posea el título de técnico deportivo correspondiente, y además cumpla las condiciones de edad y supere la prueba correspondiente conforme al artículo 31.1.b) del Real Decreto 1363/2007, de 24 de octubre.
+
+## CAPÍTULO VI — Profesorado
+
+### Artículo 16. Requisitos de titulación del profesorado en centros públicos de la Administración educativa.
+
+Los requisitos de la titulación del profesorado en centros públicos se determinarán en función del bloque de enseñanza deportiva en que hayan de impartir la docencia:
+
+1\. La docencia en centros públicos de los módulos del bloque común que constituyen las enseñanzas deportivas del ciclo de grado superior en baloncesto, corresponde al profesorado de los cuerpos de catedráticos y profesores de enseñanza secundaria, según lo establecido en el anexo VI.
+
+2\. La docencia en centros públicos de los módulos del bloque específico que constituyen las enseñanzas deportivas del ciclo de grado superior en baloncesto, está especificada en el anexo VII-A y corresponde a:
+
+a. Profesores especialistas que posean el título de Técnico Deportivo Superior en Baloncesto, o aquellos no titulados que acrediten la experiencia en el ámbito laboral y deportivo, o la experiencia docente, detallada en el anexo VII-B.
+
+b. Profesores de la especialidad de Educación Física de los cuerpos de catedráticos y de profesores de enseñanza secundaria que posean el título de Técnico Deportivo Superior en Baloncesto.
+
+3\. Las Administraciones educativas podrán autorizar la docencia de los módulos del bloque específico atribuidos al profesor especialista a los miembros de los Cuerpos de catedráticos y profesores de enseñanza secundaria con la especialidad de Educación Física cuando carezcan del título de Técnico Deportivo Superior en Baloncesto, siempre que posean la formación diseñada al efecto o reconocida por dichas Administraciones educativas, o la experiencia laboral o deportiva o la experiencia docente, detallada en el anexo VII-B.
+
+### Artículo 17. Requisitos de titulación del profesorado en centros privados y de titularidad pública de Administraciones distintas a la educativa.
+
+Las titulaciones requeridas para la impartición de los módulos, tanto del bloque común, como del bloque específico, que forman el ciclo de enseñanza deportiva de grado superior en baloncesto, para el profesorado de los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, se concretan en el anexo VIII.
+
+## CAPÍTULO VII — Vinculación a otros estudios
+
+### Artículo 18. Acceso a otros estudios.
+
+1\. El título de Técnico Deportivo Superior en Baloncesto permite el acceso directo a las enseñanzas universitarias oficiales de grado en las condiciones de admisión que se establezcan.
+
+2\. A los efectos de facilitar el régimen de convalidaciones, se han asignado 64 créditos ECTS a la duración total de las enseñanzas del ciclo de grado superior establecidas en el artículo 3.
+
+3\. El número de créditos ECTS atribuido a cada uno de los módulos de enseñanza deportiva de este ciclo se establecen en el anexo I-A.
+
+### Artículo 19. Convalidación de estas enseñanzas.
+
+1\. El Ministerio de Educación, Cultura y Deporte, establecerá las convalidaciones que proceda otorgar del bloque común de las enseñanzas reguladas en el presente real decreto, a aquellos que acrediten estudios o el título de:
+
+a) Licenciado en Ciencias de la Actividad Física y el Deporte, regulado por el Real Decreto 1670/1993, de 24 de septiembre; por el que se establece el título universitario oficial de Licenciado en Ciencias de la Actividad Física y del Deporte y las directrices generales propias de los planes de estudios conducente a la obtención del mismo.
+
+b) Diplomado en Educación Física y Licenciado en Educación Física, regulados por el Real Decreto 790/1981, de 24 de abril, sobre Institutos Nacionales de Educación Física y las enseñanzas que imparten.
+
+c) Maestro Especialista en Educación Física, regulado por el Real Decreto 1440/1991, de 30 de agosto, por el que se establece el título universitario, oficial de Maestro, en sus diversas especialidades y las directrices generales propias de los planes de estudios conducentes a su obtención.
+
+d) Técnico Superior en Animación de Actividades Físicas y Deportivas, regulado por el Real Decreto 2048/1995, de 22 de diciembre por el que se establece el título de Formación Profesional de Técnico superior en Animación de Actividades Físicas y Deportivas y las correspondientes enseñanzas mínimas.
+
+e) Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural regulado por el Real Decreto 2049/1995, de 22 de diciembre por el que se establece el título de Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural y las correspondientes enseñanzas mínimas.
+
+f) Graduado regulado en la ordenación de la enseñanza universitaria oficial establecida en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales que acrediten la obtención de las competencias adecuadas.
+
+g) Las materias de bachillerato.
+
+h) Los títulos establecidos al amparo del Real Decreto 1913/1997, de 19 de diciembre por el que se configuran como enseñanzas de régimen especial las conducentes a la obtención de titulaciones de técnicos deportivos, se aprueban las directrices generales de los títulos y de las correspondientes enseñanzas mínimas.
+
+2\. Las convalidaciones de módulos de enseñanza deportiva de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, con los módulos de enseñanza deportiva del bloque específico del título de Técnico Deportivo Superior en baloncesto se establecen en el anexo IX.
+
+3\. Serán objeto de convalidación los módulos comunes y específicos de enseñanza deportiva con la misma denominación y código.
+
+4\. La superación de la totalidad de los módulos del bloque común del grado superior, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del ciclo de enseñanza deportiva de grado superior en baloncesto. La superación de la totalidad de los módulos del bloque común del ciclo de enseñanza deportiva de grado superior baloncesto, se convalidará por la totalidad de los módulos del bloque común, del grado superior, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre de Ordenación General del Sistema Educativo.
+
+### Artículo 20. Exención del módulo de formación práctica.
+
+Podrá ser objeto de exención total o parcial el módulo de formación práctica del ciclo de grado superior en baloncesto, en función de su correspondencia con la experiencia en el ámbito deportivo o laboral, detallada en el anexo X.
+
+### Disposición adicional primera. Referencia del título en el marco europeo.
+
+Una vez establecido el marco nacional de cualificaciones, de acuerdo con las recomendaciones europeas, se determinará el nivel correspondiente de estas titulaciones en el marco nacional y su equivalente europeo.
+
+### Disposición adicional segunda. Oferta a distancia de los módulos de enseñanza deportiva del presente título.
+
+Los módulos de enseñanza deportiva que se establecen en el anexo XI, podrán ofertarse a distancia siempre que se garantice que el alumno puede conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las Administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
+
+### Disposición adicional tercera. Referencias genéricas.
+
+Todas las referencias al alumnado, profesorado y titulaciones para las que en este real decreto se utiliza la forma del masculino genérico deben entenderse aplicables indistintamente a mujeres y a hombres.
+
+### Disposición adicional cuarta. Titulaciones equivalentes.
+
+El título de Técnico Deportivo Superior en Baloncesto, establecido en el Real Decreto 234/2005, de 4 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Baloncesto, se aprueban las correspondiente enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas, tendrá los mismos efectos profesionales y académicos que el título de Técnico Deportivo Superior en Baloncesto establecido en el presente real decreto.
+
+### Disposición transitoria única. Aplicabilidad de otras normas.
+
+1\. Hasta que sea de aplicación lo dispuesto en este real decreto, en virtud de lo establecido en sus disposiciones finales segunda y cuarta, serán de aplicación los aspectos que regulan las enseñanzas del título de Técnico Deportivo Superior en Baloncesto recogidos en el Real Decreto 234/2005, de 4 de marzo.
+
+2\. Así mismo, hasta que sea de aplicación la norma que regule, para el ámbito de gestión del Ministerio de Educación, Cultura y Deporte el currículo correspondiente al título de Técnico Deportivo Superior en Baloncesto, aquí regulado, serán de aplicación los aspectos del currículo del mencionado título establecidos en la Orden ECI/1458/2007, de 21 de mayo, por la que se establecen para el ámbito territorial de gestión directa del Ministerio de Educación y Ciencia, los currículos y las pruebas y requisitos de acceso, correspondientes a los títulos de Técnico Deportivo y de Técnico Deportivo Superior de Baloncesto.
+
+### Disposición derogatoria única. Derogación de normas.
+
+1\. Quedan derogados los aspectos del Real Decreto 234/2005, de 4 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Baloncesto, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas, relacionados con las enseñanzas del Título de Técnico Deportivo Superior en Baloncesto que constan en el mismo.
+
+2\. Quedan derogadas todas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+### Disposición final primera. Título competencial.
+
+El presente real decreto tiene carácter de norma básica y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución, para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+
+### Disposición final segunda. Implantación del Título.
+
+Las administraciones educativas podrán implantar, el nuevo currículo de estas enseñanzas desde el curso escolar 2015-2016.
+
+### Disposición final tercera. Autorización para el desarrollo.
+
+Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se autoriza al titular del Ministerio de Educación, Cultura y Deporte para la modificación y actualización de los anexos VI, VII-A, y VIII de este real decreto.
+
+### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 30 de octubre de 2015.
+
+FELIPE R.
+
+El Ministro de Educación, Cultura y Deporte,
+
+ÍÑIGO MÉNDEZ DE VIGO Y MONTOJO
+
+## ANEXO I-A — Distribución en créditos ECTS de la duración total de las enseñanzas
+
+|  | Equivalencia en créditos ECTS |
+|---|---|
+| *Bloque común* |  |
+| MED-C301 Factores fisiológicos del alto rendimiento. | 5 |
+| MED-C302 Factores psicosociales del alto rendimiento. | 3 |
+| MED-C303 Formación de formadores deportivos. | 4 |
+| MED-C304 Organización y gestión aplicada al alto rendimiento. | 4 |
+| Total. | 16 créditos ECTS |
+| *Bloque específico* |  |
+| MED-BCBC301 Formación del jugador en la etapa de alto rendimiento. | 5 |
+| MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento. | 8 |
+| MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto | 5 |
+| MED- BCBC304 Táctica de ataque y defensa en la etapa de alto rendimiento. | 5 |
+| MED- BCBC305 Proyecto. | 6 |
+| MED- BCBC306 Formación práctica. | 19 |
+| Total. | 48 créditos ECTS |
+| Total. | 64 créditos ECTS |
+
+## ANEXO I-B — Distribución horaria del currículo básico
+
+| Bloque común | Currículo básico |
+|---|---|
+| MED-C301 Factores fisiológicos del alto rendimiento. | 35 h. |
+| MED-C302 Factores psicosociales del alto rendimiento. | 25 |
+| MED-C303 Formación de formadores deportivos. | 30 h. |
+| MED-C304 Organización y gestión aplicada al alto rendimiento. | 20 h |
+| Total. | 110 h |
+| MED-BCBC301 Formación del jugador en la etapa de alto rendimiento. | 35 h |
+| MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento. | 50 h |
+| MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto | 35 h |
+| MED- BCBC304 Táctica de ataque y defensa en la etapa de alto rendimiento. | 35 h |
+| MED- BCBC305 Proyecto. | 40 h |
+| MED- BCBC306 Formación práctica. | 110 h |
+| Total. | 305 h |
+| Total. | 415 h |
+
+## ANEXO II — Objetivos generales y módulos de enseñanza deportiva del ciclo de grado superior en baloncesto
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos II.a hasta el II.k por el art. 7.2 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+## ANEXO II.a — Objetivos generales
+
+a. Analizar y valorar la competición, justificando los criterios de selección de jugadores en función de las características de la competición, del proyecto deportivo y de los objetivos marcados, para construir un equipo de baloncesto equilibrado y competitivo.
+
+b. Justificar y aplicar los procedimientos de análisis y los criterios de selección del jugador, atendiendo a las características técnicas, físicas, psicológicas, y tácticas, así como a su capacidad de juego individual y colectivo, y de su competitividad, para valorar y clasificar al jugador de baloncesto en el alto rendimiento.
+
+c. Analizar y valorar las condiciones del entorno del equipo, y de todos los miembros que pertenecen a él, así como las características de la competición, de las instalaciones y de la reglamentación que se aplica, para planificar la temporada de un equipo en el alto rendimiento.
+
+d. Elegir y justificar los procedimientos de determinación de los objetivos, medios, metodología, y evaluación, así como la temporalización de la carga, para programar la temporada de un equipo, o el desarrollo de uno o varios jugadores, en el alto rendimiento.
+
+e. Analizar la complejidad de las tareas y los factores relativos a la carga de trabajo, diseñando actividades en supuestos establecidos, procesos de aprendizaje y mejora, aplicando los principios y métodos del entrenamiento, para diseñar las sesiones de entrenamiento para jugadores y/o equipos en el alto rendimiento en baloncesto.
+
+f. Describir, elegir y demostrar las técnicas y estrategias de dirección de sesiones, de control de las contingencias propias del alto rendimiento en baloncesto, aplicando procedimientos de observación, dinamización y control, resolviendo supuestos, utilizando un lenguaje específico de baloncesto y su terminología específica en inglés, y aplicando normas de seguridad en la práctica, para dirigir sesiones de entrenamiento en el alto rendimiento.
+
+g. Analizar las estructuras tácticas y las contingencias propias del juego en esta etapa, teniendo en cuenta las características de los participantes, aplicando procedimientos establecidos, para dirigir a equipos competitivos en competiciones de este nivel en baloncesto.
+
+h. Valorar y argumentar la toma de decisiones del técnico durante la competición, así como la autoridad, el control emocional, la coherencia y el liderazgo, para dirigir a equipos competitivos en competiciones de este nivel en baloncesto.
+
+i. Aplicar y demostrar el conocimiento de las normas, el respeto al reglamento y a la aplicación del arbitraje en baloncesto de alto rendimiento, para dirigir a equipos de baloncesto en competiciones.
+
+j. Valorar, argumentar y prever situaciones tácticas y conceptos tácticos complejos presentes en la competición, aplicando tecnologías avanzadas en la observación del juego y utilizando la simbología específica del baloncesto, para realizar el «scouting» en equipos de alto rendimiento.
+
+k. Determinar el proceso de elaboración de un «scouting» de un equipo rival o propio, estableciendo las pautas y protocolos a seguir en la información que se debe recoger, analizar y preparar, para dirigir el trabajo de los técnicos del equipo.
+
+l. Analizar y justificar las necesidades de intervención de otros especialistas en la preparación de alto rendimiento, describiendo las funciones y objetivos a desarrollar, valorando el trabajo en equipo y la relación con la dirección deportiva, para determinar la constitución y coordinación de equipos técnicos de trabajo multidisciplinares.
+
+m. Identificar y analizar la características organizativas, medios materiales y humanos, aplicando procedimientos establecidos de gestión, tutoría, formación y comunicación, para dirigir técnicamente un club de baloncesto y coordinar recursos humanos y materiales de un club de baloncesto en sus equipos de categorías inferiores.
+
+n. Analizar y elaborar la estructura organizativa de las competiciones y eventos de baloncesto de formación, y analizar las características organizativas de competiciones de alto nivel, enumerando los requisitos administrativos, los medios materiales y humanos necesarios, aplicando el marco legal que las regula, para organizar y gestionar competiciones y eventos de baloncesto.
+
+ñ. Diseñar y justificar los procedimientos de recogida de información y valoración del rendimiento de jugadores y equipos en el alto nivel, analizando las variables que intervienen en supuestos, para evaluar la eficacia y eficiencia del proceso de entrenamiento y los resultados obtenidos en la competición.
+
+o. Describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los deportistas, aplicándolo en situaciones personales o en la relación con los medios de comunicación, para transmitir valores propios del baloncesto a través del comportamiento ético personal.
+
+p. Reconocer, promover y justificar los valores de compromiso, trabajo bien hecho y aprendizaje constante, describiendo los aspectos observables de la conducta que reflejan estos valores, para mantener el espíritu de responsabilidad individual, profesionalidad, esfuerzo personal, investigación e innovación en el desempeño de su labor como técnico.
+
+> Se numera como Anexo II.a por el art. 7.2.a) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.b — Módulo común de enseñanza deportiva: Factores fisiológicos del alto rendimiento
+
+Código: MED-C301
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Analiza los principales conceptos del metabolismo energético y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+a) Se han identificado los principales conceptos del metabolismo energético.
+
+b) Se han analizado las diferentes vías metabólicas y las principales fuentes de energía en relación con el ejercicio físico, incidiendo en los aspectos fisiológicos que determinan la resistencia.
+
+c) Se han analizado las principales adaptaciones fisiológicas al entrenamiento de los diferentes sistemas del organismo en relación con el metabolismo energético.
+
+d) Se han valorado las características del metabolismo energético en mujeres deportistas, así como sus adaptaciones fisiológicas al entrenamiento.
+
+RA-2. Analiza los principales componentes del sistema neuromuscular y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+a) Se ha analizado el sistema neuromuscular, incidiendo en los aspectos fisiológicos y mecánicos que determinan la fuerza, la velocidad y la amplitud de movimiento.
+
+b) Se ha descrito el concepto de fuerza y sus diferentes manifestaciones en relación con la actividad físico-deportiva.
+
+c) Se ha descrito el concepto de velocidad y sus diferentes manifestaciones en relación con la actividad físico-deportiva, así como su implicación en las capacidades coordinativas.
+
+d) Se han analizado las principales adaptaciones al entrenamiento en relación con el sistema neuromuscular.
+
+e) Se han valorado las características del sistema neuromuscular en mujeres deportistas, así como sus adaptaciones fisiológicas al entrenamiento.
+
+RA-3. Selecciona a los/las deportistas para la alta competición analizando los factores fisiológicos determinantes que influyen en el alto rendimiento.
+
+a) Se han identificado los principales factores fisiológicos determinantes y limitantes del alto rendimiento deportivo.
+
+b) Se han analizado los fundamentos de la evaluación de la capacidad funcional vinculados al alto rendimiento deportivo.
+
+c) Se han interpretado los resultados y diferencias entre hombres y mujeres en la evaluación de la capacidad funcional.
+
+d) Se ha interpretado la importancia de la valoración anatómica y fisiológica como elemento de selección de los/las deportistas en el alto rendimiento deportivo, empleando diferentes métodos y tecnologías fiables, válidas y sensibles.
+
+e) Se ha descrito la organización de los equipos de trabajo en el alto rendimiento deportivo, identificando las diferentes funciones y roles de los especialistas que los componen.
+
+RA-4. Colabora con la persona especialista en la determinación de la dieta y en la prescripción de ayudas ergogénicas analizando los principales conceptos de nutrición deportiva y los efectos nocivos de las sustancias dopantes para la salud.
+
+a) Se han identificado los principios fundamentales y los conceptos básicos de la nutrición, la suplementación y las ayudas ergogénicas en relación con el ámbito físico-deportivo.
+
+b) Se han interpretado los resultados de la valoración nutricional del deportista a partir de los datos de un supuesto práctico.
+
+c) Se han elaborado de manera justificada las estrategias de reposición de nutrientes, agua y sales minerales durante el entrenamiento y la competición, aplicándolas en supuestos prácticos basados en los conceptos de fisiología y nutrición deportiva estudiados.
+
+d) Se han identificado los principales aspectos en el diseño de la dieta de los y las deportistas, así como en la adecuada prescripción de suplementos y ayudas ergogénicas para la mejora del rendimiento físico-deportivo durante el entrenamiento y la competición, contemplando las necesidades nutricionales particulares de las mujeres y hombres deportistas de alto rendimiento.
+
+e) Se han identificado las principales sustancias dopantes y sus efectos nocivos para la salud.
+
+RA-5. Programa y dirige el entrenamiento del deportista aplicando los conceptos de carga, fatiga y recuperación.
+
+a) Se han clasificado los diferentes tipos de fatiga, central o periférica y aguda o crónica, así como sus mecanismos de producción.
+
+b) Se han analizado los efectos de la fatiga deportiva en el sistema neuromuscular, endocrino e inmunológico.
+
+c) Se han empleado diferentes medios y métodos para cuantificar la fatiga producida por el entrenamiento.
+
+d) Se han diseñado y aplicado diferentes medios y métodos de recuperación según el mecanismo de producción de la fatiga.
+
+e) Se ha valorado la importancia de la monitorización de la carga para una adecuada gestión del entrenamiento, con el propósito de prevenir el síndrome de sobreentrenamiento y reducir el riesgo de lesiones deportivas.
+
+f) Se han empleado diferentes métodos y tecnologías, validas, fiables y sensibles de monitorización de la carga de entrenamiento.
+
+RA-6. Programa y dirige el entrenamiento y/o la competición en condiciones especiales identificando sus bases y características más importantes.
+
+a) Se han analizado las causas y los efectos fisiológicos producidos por el entrenamiento y/o la competición en condiciones extremas de calor, frío y/o humedad.
+
+b) Se han diseñado entrenamientos y estrategias de mejora de la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de temperatura y/o humedad extrema.
+
+c) Se han identificado las bases y protocolos de entrenamiento controlado en calor utilizados como medio de mejora del rendimiento físico-deportivo.
+
+d) Se han analizado las causas y los efectos fisiológicos producidos por los entrenamientos y/o competición en altura, así como sus posibles efectos positivos y negativos sobre el rendimiento físico-deportivo.
+
+e) Se han diseñado entrenamientos en diferentes situaciones de altitud, así como estrategias de adaptación de los/las deportistas a dichas condiciones.
+
+f) Se han analizado los efectos fisiológicos producidos por cambios significativos de huso horario sobre el rendimiento del deportista en el entrenamiento y/o la competición.
+
+g) Se han diseñado entrenamientos en situaciones de cambio horario, así como estrategias de adaptación de los/las deportistas a dichas condiciones.
+
+h) Se ha valorado la colaboración con el grupo de especialistas en la dirección del entrenamiento en condiciones especiales (altitud, cambios horarios, frío, calor, humedad).
+
+Contenidos básicos
+
+RA-1. Analiza los principales conceptos del metabolismo energético y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+1\. Conceptos de metabolismo, catabolismo y anabolismo. Absorción, transporte y almacenamiento de nutrientes.
+
+2\. El ATP. Principales vías metabólicas:
+
+– Vías anaeróbicas: sistema ATP-PC, glucólisis anaeróbica y ciclo de Cori.
+
+– Vías aeróbicas: glucólisis aeróbica y ciclo de Krebs.
+
+3\. Fuentes de energía en relación con las diferentes vías metabólicas: ATP, PC, glucosa, glucógeno, ácidos grasos y proteínas.
+
+4\. Implicación fisiológica de las vías metabólicas en relación con la resistencia durante la actividad físico-deportiva.
+
+5\. El modelo trifásico y los principales hitos fisiológicos: umbrales ventilatorios, VO2max, umbrales lácticos y Máximo Estado Estable del Lactato (MLSS). Métodos directos e indirectos para su valoración y control. Aplicación a los modelos por zonas de intensidad para la planificación y control del entrenamiento.
+
+6\. Conceptos de eficiencia y economía energética. Relevancia en la práctica físico-deportiva.
+
+7\. Principales adaptaciones fisiológicas, agudas y crónicas, al entrenamiento de los diferentes sistemas del organismo en relación con el metabolismo energético.
+
+8\. El metabolismo energético en mujeres deportistas. Principales características de sus adaptaciones fisiológicas al entrenamiento.
+
+RA-2. Analiza los principales componentes del sistema neuromuscular y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+1\. Funciones de los diferentes tipos de músculos: cardiaco, liso y esquelético.
+
+2\. Tipos, componentes y estructura del músculo esquelético. El tendón como transmisor de fuerzas del sistema musculoesquelético y su relación con el ciclo estiramiento-acortamiento (CEA).
+
+3\. La fibra muscular y el sarcómero como unidad funcional básica del músculo. Teoría del filamento deslizante.
+
+4\. Concepto de unidad motora y tipos de fibras musculares. Relación con los principales aspectos fisiológicos y mecánicos que determinan la fuerza, la velocidad y la amplitud de movimiento.
+
+5\. Concepto de fuerza. Principales manifestaciones en relación con la actividad físico-deportiva: fuerza aplicada, fuerza máxima, producción de fuerza por unidad de tiempo (RFD) y fuerza útil. Curvas de fuerza-tiempo y de fuerza-velocidad. Aplicaciones prácticas del entrenamiento de fuerza basadas en la velocidad.
+
+6\. Concepto de velocidad. Principales manifestaciones en relación con la actividad físico-deportiva: velocidad de reacción, gestual y de desplazamiento. Implicaciones sobre las capacidades coordinativas.
+
+7\. Principales adaptaciones, agudas y crónicas al entrenamiento en relación con el sistema neuromuscular: estructurales, nerviosas y hormonales.
+
+8\. Características del sistema neuromuscular y adaptaciones fisiológicas al entrenamiento en mujeres deportistas.
+
+RA-3. Selecciona a los/las deportistas para la alta competición analizando los factores fisiológicos determinantes que influyen en el alto rendimiento.
+
+1\. Aspectos limitantes y factores fisiológicos determinantes del alto rendimiento deportivo.
+
+2\. Fundamentos, medios directos e indirectos y métodos avanzados para la evaluación de la capacidad funcional en el alto rendimiento deportivo. Identificación de la tecnología adecuada y orientaciones para la interpretación de los resultados.
+
+3\. La valoración anatómico-fisiológica como elemento para la selección de los/las deportistas en el alto rendimiento deportivo: medios y métodos. Utilización de tecnología fiable, válida y sensible para una adecuada evaluación.
+
+4\. Análisis e interpretación de los resultados en los estudios antropométricos y de composición corporal utilizados en el alto rendimiento deportivo.
+
+5\. Valoración de las diferencias entre hombres y mujeres.
+
+6\. Organización de los equipos de trabajo en el alto rendimiento deportivo. Diferentes funciones y roles de los especialistas que los componen.
+
+RA-4. Colabora con la persona especialista en la determinación de la dieta y en la prescripción de ayudas ergogénicas analizando los principales conceptos de nutrición deportiva y los efectos nocivos de las sustancias dopantes para la salud.
+
+1\. Principios fundamentales y conceptos básicos de la nutrición, la suplementación y las ayudas ergogénicas en relación con el ámbito físico-deportivo.
+
+2\. Suplementos y ayudas ergogénicas respaldados por la evidencia científica más utilizados en el alto rendimiento deportivo. Criterios para un uso adecuado.
+
+3\. Valoración y control nutricional del deportista de alto rendimiento: medios, métodos e interpretación de los resultados. Identificación de la tecnología adecuada para la evaluación.
+
+4\. La reposición de nutrientes, agua y sales minerales durante el entrenamiento y la competición: bases fisiológicas y estrategias de aplicación individualizadas utilizadas en el alto rendimiento deportivo.
+
+5\. Orientaciones para la colaboración con la persona especialista en el diseño de la dieta, así como en la prescripción de suplementos y ayudas ergogénicas para la mejora del rendimiento físico-deportivo durante el entrenamiento y la competición.
+
+6\. El dopaje en el deporte: concepto, clasificación y ejemplos de sustancias y métodos prohibidos más extendidos en la práctica deportiva.
+
+7\. Toma de conciencia de las repercusiones del dopaje en la salud de los/las deportistas. Consecuencias legales y sanciones deportivas.
+
+8\. El control antidopaje: normativa, organismos y principales métodos para la detección de sustancias prohibidas.
+
+RA-5. Programa y dirige el entrenamiento del deportista aplicando los conceptos de carga, fatiga y recuperación.
+
+1\. Binomio fatiga-recuperación: concepto y relación con el rendimiento deportivo.
+
+2\. Fatiga, sobrecarga y sobreentrenamiento: concepto, tipos, mecanismos de producción, indicadores y formas de prevención.
+
+3\. Efectos de la fatiga en el sistema neuromuscular, endocrino e inmunológico.
+
+4\. La recuperación: concepto, medios y métodos. Relación con los mecanismos de producción.
+
+5\. Principales estrategias de recuperación en alto rendimiento: sueño, nutrición, hidratación, crioterapia, prendas compresivas, masaje, hidroterapia, etc.
+
+6\. Principios de aplicación de las estrategias de recuperación: individualización, alternancia y especificidad.
+
+7\. Pruebas objetivas y subjetivas para cuantificar la fatiga en el alto rendimiento deportivo: marcadores fisiológicos y bioquímicos, test físicos y escalas subjetivas de bienestar.
+
+8\. Relación entre carga de entrenamiento y lesiones por sobreuso.
+
+9\. Nuevas tecnologías para la monitorización de la carga de entrenamiento en el alto rendimiento deportivo.
+
+RA-6. Programa y dirige el entrenamiento y/o la competición en condiciones especiales identificando sus bases y características más importantes.
+
+1\. Causas, efectos y respuestas fisiológicas producidos por el entrenamiento y/o la competición en condiciones extremas de calor, frío y/o humedad.
+
+2\. Diseño y elaboración de entrenamientos en situaciones de temperatura y/o humedad extrema.
+
+3\. Estrategias para facilitar la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de temperaturas y/o humedades extremas.
+
+4\. Diseño y elaboración de protocolos y sesiones de entrenamiento controlado en calor para la mejora del rendimiento físico-deportivo.
+
+5\. Respuesta fisiológica aguda, reposo vs. ejercicio y crónica. Efectos y adaptaciones a la altitud sobre el sistema cardiorrespiratorio, hormonal y neuromuscular.
+
+6\. Diseño y elaboración de programas de entrenamiento en altitud.
+
+7\. Estrategias de entrenamiento en condiciones de hipoxia.
+
+8\. Estrategias para facilitar la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de altitud.
+
+9\. Efectos y respuestas fisiológicas producidos por el cambio horario en los diferentes sistemas del organismo: alteraciones de los ritmos circadianos, frecuencia cardíaca y ventilatoria, función urinaria, gástrica y hormonal. Consecuencias sobre el rendimiento físico-deportivo.
+
+10\. Consideraciones y estrategias en la programación del entrenamiento y la competición para facilitar la adaptación de los/las deportistas en situaciones de cambio horario.
+
+> Se numera como Anexo II.b y se sustituye por el que figura como anexo I del Real Decreto 535/2026, de 30 de junio, según establece su art. 7.2.b) [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.c — Módulo común de enseñanza deportiva: Factores psicosociales del alto rendimiento
+
+Código: MED-C302
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Identifica los factores psicológicos del deportista analizando los principales conceptos de la psicología del deporte, sus efectos en el rendimiento y el bienestar del deportista.
+
+a) Se han identificado los objetivos y funciones de la psicología del deporte.
+
+b) Se han analizado las contribuciones de los factores psicológicos a la progresión y el rendimiento de los/las deportistas de alto nivel.
+
+c) Se han descrito las principales destrezas psicológicas del deportista que influyen en el rendimiento deportivo según la modalidad deportiva.
+
+d) Se ha argumentado la necesidad de integrar las destrezas psicológicas en la evaluación del rendimiento de los/las deportistas de alto nivel.
+
+e) Se han descrito las principales situaciones de riesgo para la salud mental y el bienestar psicológico del deportista.
+
+RA-2. Selecciona al/a la deportista para la alta competición, analizando las características psicológicas de los/las deportistas y equipos de alto nivel y las exigencias psicológicas del alto rendimiento.
+
+a) Se han definido las características psicológicas óptimas, de deportistas y equipos, que demanda el alto rendimiento deportivo en el entrenamiento y en la competición.
+
+b) Se han analizado específicamente peculiaridades psicológicas de las mujeres deportistas en el alto rendimiento.
+
+c) Se han analizado los condicionantes psicológicos y las consideraciones específicas de los/las deportistas con discapacidad en el alto rendimiento.
+
+d) Se han propuesto de forma justificada criterios psicológicos de selección de deportistas de alto nivel en función de las exigencias del entrenamiento y la competición de alto nivel.
+
+e) Se han aplicado procedimientos psicológicos de detección de deportistas de alto nivel, mediante la realización de entrevistas y la observación de deportistas en situaciones simuladas de competición y entrenamiento.
+
+f) Se ha argumentado la importancia de la incorporación de protocolos psicológicos en la detección de deportistas de alto nivel.
+
+RA-3. Valora el entorno del/de la deportista, analizando los aspectos sociales que afectan a su rendimiento deportivo y facilitan su formación académica.
+
+a) Se han reconocido los aspectos sociales del entorno que afectan al rendimiento de los diferentes tipos de deportista de alto nivel.
+
+b) Se han definido los aspectos sociales del entorno del/de la deportista que facilitan su formación académica.
+
+c) Se han aplicado procedimientos de evaluación del entorno del/de la deportista que afectan a su rendimiento, en un supuesto práctico debidamente caracterizado.
+
+d) Se han aplicado de manera justificada medios de gestión del entorno, en situaciones simuladas debidamente caracterizadas, que eviten la interferencia con la formación deportiva y académica del/de la deportista.
+
+e) Se ha argumentado la conveniencia de que el/la entrenador/a facilite al/a la deportista la posibilidad de compaginar la carrera deportiva con la formación académica y la conciliación de la vida familiar y deportiva.
+
+f) Se han localizado, en una situación simulada debidamente caracterizada, las ayudas y fuentes de información de que disponen los/las deportistas de alto nivel al llegar al final de su carrera deportiva, que facilitan su integración en la vida laboral.
+
+g) Se ha reconocido la importancia de incorporar el análisis de los aspectos sociales del entorno del/de la deportista en la evaluación de su rendimiento.
+
+h) Se ha valorado la actitud positiva del/de la entrenador/a hacia el reconocimiento y prevención de los problemas de inserción laboral más frecuentes en los/las deportistas de alto nivel.
+
+RA-4. Participa en la preparación psicológica del deportista de alto rendimiento, analizando y aplicando actividades y técnicas de mejora de las destrezas psicológicas.
+
+a) Se han descrito las características y estructura de las técnicas de preparación psicológica que influyen en la mejora del rendimiento deportivo.
+
+b) Se han puesto en práctica actividades de preparación psicológica que influyen en la mejora del rendimiento deportivo en un supuesto practico debidamente caracterizado.
+
+c) Se han aplicado métodos de preparación psicológica en la mejora del afrontamiento de la competición que los/las deportistas de alto nivel hacen en situaciones simuladas debidamente caracterizadas.
+
+d) Se han realizado sencillas secuencias de actividades que favorezcan la mejora de las destrezas psicológicas en función de las exigencias de la especialidad deportiva y las características del deportista de una situación simulada debidamente caracterizada.
+
+RA-5. Colabora en la planificación de la preparación psicológica del/de la deportista, analizando la estructura de la preparación y aplicando criterios de secuenciación de los procedimientos y métodos para afrontar la alta competición.
+
+a) Se ha reconocido la pertinencia de integrar la preparación psicológica en la programación de la preparación general del/de la deportista.
+
+b) Se han elaborado sesiones de entrenamiento de las diferentes destrezas psicológicas que influyen en el rendimiento del deportista de alta competición.
+
+c) Se ha planificado la preparación psicológica dirigida a mejorar el rendimiento deportivo en la alta competición distribuyendo las cargas de trabajo de las diferentes destrezas psicológicas a lo largo de la temporada.
+
+d) Se han integrado en un supuesto práctico de preparación deportiva los procedimientos psicológicos de mantenimiento de la motivación de los/las deportistas de alto nivel a lo largo de la temporada deportiva.
+
+e) Se han programado los procesos relacionados con la forma en que el/la deportista de alto nivel afronta la competición en un supuesto práctico.
+
+f) Se ha valorado la importancia de la gestión psicológica en el proceso de rehabilitación de lesiones en los/las deportistas de alto rendimiento.
+
+g) Se ha valorado la importancia de la gestión psicológica en el proceso de finalización de la etapa competitiva en la vida del deportista y tránsito a la vida lejos de la competición.
+
+RA-6. Coordina el equipo de personal técnico en ciencias aplicadas al deporte, identificando las funciones del/de la psicólogo/a y aplicando técnicas de liderazgo en la gestión de recursos humanos.
+
+a) Se han definido los roles del/de la profesional de la psicología, diferenciándolos de las funciones del entrenador y de la entrenadora.
+
+b) Se han descrito los diferentes estilos de liderazgo de que dispone el/la entrenador/a en la gestión del equipo del personal técnico especialista.
+
+c) Se han descrito las pautas para desarrollar la cohesión del grupo de los recursos humanos del staff técnico.
+
+d) Se han identificado aquellas pautas de comunicación que puede utilizar el/la entrenador/a que generan credibilidad en su equipo de técnicos/as especialistas.
+
+e) Se han aplicado los estilos de liderazgo, las técnicas de cohesión de grupo y las pautas de comunicación en la gestión de los recursos humanos del staff técnico en situaciones simuladas de trabajo en equipo.
+
+f) Se han descrito las pautas a seguir por parte del técnico en la incorporación de las aportaciones especializadas del/de la profesional de la psicología a la preparación del/de la deportista en función del grado de participación de la persona especialista con el/la deportista.
+
+g) Se ha justificado la conveniencia de disponer de equipos de personal técnico especialista en ciencias del deporte.
+
+h) Se han descrito los aspectos de la preparación deportiva susceptibles de ser derivados al/a la profesional de la psicología.
+
+Contenidos básicos
+
+RA-1. Identifica los factores psicológicos del deportista analizando los principales conceptos de la psicología del deporte, sus efectos en el rendimiento y el bienestar del deportista.
+
+1\. La psicología del deporte y el ejercicio físico: historia y evolución.
+
+2\. Objetivos principales de la psicología del deporte.
+
+3\. Funciones y áreas de estudio de la psicología del deporte.
+
+4\. Factores psicológicos y su contribución a la progresión y el rendimiento:
+
+– La personalidad y su estructura de análisis.
+
+– Motivación y competitividad.
+
+– *Arousal*, estrés y ansiedad.
+
+– Rasgos de la personalidad, estados emocionales y herramientas de medida: tests, inventarios y directrices para su uso.
+
+– Fases de desarrollo de la motivación de logro y la competitividad.
+
+– Teorías e hipótesis sobre el efecto del *arousal*y la ansiedad en la ejecución.
+
+– Destrezas psicológicas que influyen en el rendimiento deportivo como la regulación del *arousal*, visualización, autoconfianza, establecimiento de objetivos y concentración.
+
+– Contribuciones de las destrezas psicológicas del deportista a la progresión y el rendimiento de los/las deportistas de alto nivel según la modalidad deportiva.
+
+– La necesidad de integrar aspectos psicológicos en la evaluación del deportista para la mejora del rendimiento deportivo.
+
+– Influencia en el rendimiento deportivo de la motivación del deportista, los rasgos de personalidad, el nivel de competitividad o la gestión de la ansiedad.
+
+– El autoconcepto, la conducta Tipo A y su relevancia en la salud mental del deportista.
+
+RA-2. Selecciona al/a la deportista para la alta competición, analizando las características psicológicas de los/las deportistas y equipos de alto nivel y las exigencias psicológicas del alto rendimiento.
+
+1\. Características psicológicas óptimas de los/las deportistas y equipos de alto nivel en el entrenamiento y en la competición.
+
+2\. Modelo de salud mental positiva (Morgan 1979) para la predicción del éxito deportivo. El perfil de Iceberg.
+
+3\. Peculiaridades psicológicas y consideraciones específicas de la mujer deportista de alto rendimiento.
+
+4\. Condicionantes psicológicos y consideraciones específicas de los/las deportistas con discapacidad en el alto rendimiento.
+
+5\. Identificación del perfil psicológico de los/las deportistas y equipos de alto nivel.
+
+6\. Importancia de los aspectos psicológicos en los procesos de detección de deportistas de alto nivel.
+
+7\. Criterios psicológicos en la selección de deportistas de alto nivel.
+
+8\. Aplicación de procedimientos de selección psicológica de deportistas de alto nivel.
+
+9\. Métodos de evaluación de las destrezas psicológicas implicados en el entrenamiento y en la competición para su selección.
+
+10\. Registro y análisis de la actuación psicológica de los/las deportistas en entrenamiento y en competición para su selección.
+
+11\. La necesidad de integrar las destrezas psicológicas en la selección del deportista de alto nivel.
+
+RA-3. Valora el entorno del/de la deportista, analizando los aspectos sociales que afectan a su rendimiento deportivo y facilitan su formación académica.
+
+1\. Aspectos sociales del entorno del/de la deportista de alto nivel relacionados con el rendimiento deportivo y académico (familia, relaciones sociales y afectivas, centro educativo y/o laboral, club, federación, patrocinadores, representantes, medios de comunicación y redes sociales).
+
+2\. Características específicas del entorno de la mujer deportista.
+
+3\. Características específicas del entorno del/de la deportista con discapacidad en el alto rendimiento.
+
+4\. Interacciones entre las características psicológicas de los/las deportistas de alto nivel y los aspectos sociales de su entorno.
+
+5\. Aspectos sociales del entorno del/de la deportista relacionados con su formación académica.
+
+6\. Evaluación de los aspectos sociales del entorno del/de la deportista relacionados con su progresión deportiva.
+
+7\. Medios de gestión del entorno por parte del/de la entrenador/a para que no interfiera en la preparación deportiva, académica o en el rendimiento deportivo del/de la deportista (formación de las familias, educación de los medios de comunicación, gestión de las redes sociales).
+
+8\. Desarrollo de una actitud en el/la entrenador/a que facilite al/a la deportista compaginar sus estudios con la práctica deportiva.
+
+9\. Conciliación personal-familiar y deportiva, las expectativas de maternidad de las deportistas durante la vida deportiva.
+
+10\. Problemas de inserción laboral más frecuentes en deportistas de alto nivel. Identificación de las ayudas y fuentes de información que facilitan la integración de los/las deportistas de alto nivel a la vida laboral.
+
+11\. Evaluación de los efectos del entorno del deportista en su rendimiento deportivo.
+
+12\. La actitud positiva del/de la entrenador/a hacia el reconocimiento y la prevención de problemas de inserción laboral en los/las deportistas de alto nivel.
+
+13\. La integración de los aspectos sociales del entorno del/de la deportista en la evaluación de su rendimiento.
+
+RA-4. Participa en la preparación psicológica del deportista de alto rendimiento, analizando y aplicando actividades y técnicas de mejora de las destrezas psicológicas.
+
+1\. Técnicas para desarrollar y perfeccionar las habilidades psicológicas para la mejora del rendimiento.
+
+– Técnicas de reducción de la ansiedad.
+
+– Técnicas inductoras del *arousal*.
+
+– Ejercicios para trabajar los diferentes tipos de visualización.
+
+– Estrategias para trabajar la autoconfianza.
+
+– Principios básicos del establecimiento de objetivos.
+
+– Ejercicios para mejorar la concentración y el foco atencional.
+
+2\. Estrategias para conseguir un determinado estado mental para realizar conductas relevantes para la mejora del rendimiento y/o la salud psicológica.
+
+3\. Aplicación de situaciones de competitividad y cooperación como herramientas para el aumento del rendimiento.
+
+4\. Utilización del*Feedback*y técnicas de reforzamiento de la conducta.
+
+5\. Métodos aplicados para la preparación psicológica del afrontamiento de la competición deportiva de alto nivel.
+
+6\. Secuencias y progresiones de actividades para la mejora de las destrezas psicológicas específicas de la modalidad deportiva en función de las peculiaridades del deportista.
+
+RA-5. Colabora en la planificación de la preparación psicológica del/de la deportista, analizando la estructura de la preparación y aplicando criterios de secuenciación de los procedimientos y métodos para afrontar la alta competición.
+
+1\. Los programas de entrenamiento de las destrezas psicológicas y su integración en la planificación deportiva general.
+
+2\. Estructura y diseño de las sesiones de entrenamiento de las destrezas psicológicas del deportista de alta competición como unidad de programación.
+
+3\. Programas de sesiones para la mejora de las distintas destrezas psicológicas que influyen en el rendimiento deportivo.
+
+4\. Distribución de las cargas de trabajo de las distintas destrezas psicológicas a lo largo de la temporada deportiva.
+
+5\. Diseño y evaluación de programas de mejora de las destrezas psicológicas.
+
+6\. Procedimientos psicológicos para mantener la motivación de deportistas de alto nivel a lo largo de la temporada.
+
+7\. Métodos de preparación psicológica para mejorar el afrontamiento que los/las deportistas de alto nivel hacen de la competición.
+
+8\. Planificación de los procesos de afrontamiento de la competición implicados en el alto rendimiento deportivo.
+
+9\. Elaboración de programaciones deportivas que integren los procesos de motivación y de afrontamiento de la competición.
+
+10\. Relevancia del trabajo psicológico para deportistas de alto nivel en situaciones de riesgo para su salud mental:
+
+– Procesos de rehabilitación de lesiones.
+
+– Finalización de la etapa competitiva en la vida del deportista y tránsito a la vida lejos de la competición.
+
+RA-6. Coordina el equipo de personal técnico en ciencias aplicadas al deporte, identificando las funciones del/de la psicólogo/a y aplicando técnicas de liderazgo en la gestión de recursos humanos.
+
+1\. Funciones del/de la profesional de la psicología aplicada al deporte y del técnico en los programas de entrenamiento de las destrezas psicológicas:
+
+– Detección de necesidades.
+
+– Diseño de la planificación.
+
+– Implementación del programa.
+
+– Supervisión y evaluación del programa.
+
+2\. Estilos de liderazgo aplicados en la conducción de equipos de trabajo.
+
+3\. Pautas para el desarrollo de un buen liderazgo de equipos de trabajo.
+
+4\. Pautas para el desarrollo de la cohesión de grupo y su medición.
+
+5\. Análisis de la comunicación para generar credibilidad en el conjunto de especialistas en ciencias aplicadas al deporte.
+
+6\. Protocolos para integrar la aportación del/de la profesional de la psicología en la preparación de deportistas de alto nivel.
+
+7\. La necesidad de disponer de equipos técnicos multidisciplinares.
+
+8\. La derivación de aspectos de la preparación de deportistas de alto nivel a profesionales de la psicología. Pautas de actuación.
+
+> Se numera como Anexo II.c y se sustituye por el que figura como anexo II del Real Decreto 535/2026, de 30 de junio, según establece su art. 7.2.c) [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.d — Módulo común de enseñanza deportiva: Formación de formadores deportivos
+
+Código: MED-C303
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Elabora la programación didáctica de los módulos de enseñanzas deportivas, analizando la normativa de ordenación de las mismas, de los centros docentes, del profesorado y de la evaluación, aplicando los procesos de programación y secuenciación.
+
+a) Se ha analizado la organización básica de las enseñanzas deportivas en relación con el sistema educativo.
+
+b) Se ha analizado la normativa que rige el funcionamiento y organización de los diferentes tipos de centros docentes en los que se puede impartir las enseñanzas deportivas de régimen especial.
+
+c) Se han analizado las diferentes formas de colaboración entre las administraciones educativas y las federaciones deportivas, para impartir las enseñanzas deportivas.
+
+d) Se han relacionado las competencias del perfil profesional y los objetivos generales de un ciclo de enseñanzas deportivas con los resultados de aprendizaje de uno de los módulos y sus criterios de evaluación, mediante la valoración de sus características.
+
+e) Se han analizado los conceptos, procedimientos y actitudes que soportan los criterios de evaluación de los resultados de aprendizaje de un módulo específico de enseñanza deportiva.
+
+f) Se ha elaborado la programación didáctica de un módulo específico, en situaciones simuladas que concreten, entre otras, el tipo de enseñanza y el entorno docente.
+
+g) Se ha valorado justificadamente la importancia de programar en la formación de técnicos deportivos.
+
+RA-2. Elabora las sesiones de formación de técnicos deportivos de la programación didáctica conforme a sus elementos, valorando las características del alumnado adulto, y analizando, seleccionando y diseñando recursos didácticos propios de las enseñanzas deportivas.
+
+a) Se han valorado las características individuales y psicosociales del alumnado, en una situación simulada de formación de técnicos deportivos con un grupo diverso que incluya elementos de atención a las personas con discapacidad.
+
+b) Se han analizado las características de los recursos didácticos (actividades, tareas, materiales y medios) y las pautas didácticas que facilitan el proceso de enseñanza-aprendizaje presencial y a distancia, en un supuesto práctico de sesión de formación de técnicos deportivos.
+
+c) Se han seleccionado y diseñado actividades, tareas, materiales y medios didácticos (tradicionales, digitales y multimedia), en una sesión de trabajo donde se establezca el tipo de sesión (teórica, práctica, presencial y a distancia), el módulo específico, la concreción curricular y la estructura de sesión.
+
+d) Se han seleccionado y diseñado recursos didácticos alternativos en una situación simulada de una incidencia técnica, debidamente caracterizada de atención a una necesidad educativa especial o aplicación del principio de igualdad de oportunidades entre mujeres y hombres en la formación de técnicos deportivos.
+
+e) Se ha valorado justificadamente la importancia de seleccionar y diseñar recursos didácticos en la programación didáctica previamente a su utilización en la formación de técnicos deportivos, así como recursos didácticos alternativos frente a posibles incidencias y en atención a la diversidad.
+
+RA-3. Imparte formación de técnicos deportivos conforme a la programación didáctica, aplicando la metodología de enseñanza-aprendizaje y analizando la disposición docente que facilita el aprendizaje y la evaluación.
+
+a) Se han demostrado comportamientos y actitudes docentes que potencien y afiancen el rendimiento y la implicación del alumnado adulto en su formación deportiva, en situaciones simuladas de dirección de sesiones donde se establezcan las características del alumnado.
+
+b) Se han aplicado los estilos de enseñanza y las estrategias pedagógicas de fomento de los estilos de aprendizaje adecuados a la adquisición de competencias profesionales, en un supuesto practico debidamente caracterizado en el que se establezca el tipo de práctica, la modalidad de enseñanza, el módulo específico y las características del alumnado.
+
+c) Se ha dirigido una sesión de formación de enseñanzas deportivas, en un supuesto practico debidamente caracterizado en el que se establezca el tipo de sesión (teórica o práctica), la modalidad de enseñanza y la programación de la sesión.
+
+d) Se han aplicado recursos didácticos alternativos, en un supuesto práctico de una incidencia técnica y en otro de atención a la diversidad en la formación de técnicos deportivos, poniendo en práctica los recursos que resulten más adecuados en cada caso.
+
+e) Se han aplicado las estrategias, instrumentos y formas de evaluación de competencias profesionales en las enseñanzas deportivas, en una situación simulada donde se establezcan las características de los alumnos y los criterios de evaluación de los resultados de aprendizaje de un módulo específico.
+
+f) Se ha resuelto de forma argumentada una reclamación de calificación presentada por un/a alumno/a de enseñanzas deportivas, en una situación simulada en la que se concrete la comunidad autónoma y la normativa a utilizar.
+
+RA-4. Tutoriza técnicos deportivos en su proceso de formación específica (módulos específicos, de formación práctica y proyecto final), analizando y aplicando las estrategias y procedimientos específicos de tutorización.
+
+a) Se han comparado las diferentes estrategias y procedimientos que permiten establecer una línea de trabajo continua y coherente entre los módulos del bloque específico y los del bloque común de las enseñanzas deportivas.
+
+b) Se han analizado las estrategias y procedimientos de actuación en la tutorización de técnicos deportivos y en la dirección de su proyecto final, para su seguimiento y orientación.
+
+c) Se han categorizado y aplicado las diferentes formas de contacto y colaboración con los centros de prácticas para la formalización del convenio de colaboración del módulo de formación práctica.
+
+d) Se han concretado los conceptos, procedimientos y actitudes establecidos en los criterios de evaluación del módulo de formación práctica que deben formar parte del guion de la memoria de prácticas.
+
+e) Se ha valorado la importancia de que el alumnado en prácticas recoja en un diario de campo el registro de lo realizado como elemento de aprendizaje reflexivo.
+
+f) Se han elaborado de forma justificada los apartados clave a incluir en el guion de la presentación oral y escrita de un proyecto final de las enseñanzas deportivas, en un supuesto práctico en el que se establezca la temática del proyecto.
+
+g) Se han ejemplificado estrategias de orientación a aplicar a un/a supuesto/a alumno/a en una situación simulada de seguimiento realizado en un ciclo superior de las enseñanzas deportivas, detectando los momentos en los que habrían sido necesarias.
+
+h) Se ha evaluado una memoria de prácticas o un proyecto final, en una situación simulada donde se establezca dicho documento y los criterios de evaluación de los resultados de aprendizaje de un módulo de formación práctica o de proyecto final.
+
+i) Se ha elaborado de forma justificada el modelo de informe de evaluación, en un supuesto práctico en el que se establece el tipo de módulo a informar.
+
+RA-5. Promueve el desarrollo ético y moral de técnicos y deportistas de alto rendimiento, valorando el impacto que sus comportamientos y actitudes tienen a nivel social, especialmente a través de los medios de comunicación.
+
+a) Se han analizado los valores y antivalores más relevantes relacionados con el alto rendimiento deportivo en la prensa y en las redes sociales.
+
+b) Se han analizado las características que ha de tener el tratamiento de la información deportiva en los medios de comunicación para transmitir valores, especialmente haciendo efectiva la no promoción de la violencia y la valoración del éxito deportivo de otros colectivos normalmente menos valorados como mujeres y personas con discapacidad.
+
+c) Se ha valorado el impacto social de actitudes y comportamientos deportivos y antideportivos de miembros del cuerpo técnico y de deportistas de alto rendimiento, en supuestos prácticos de interacción con los medios de comunicación.
+
+d) Se han analizado los estereotipos de género u otro tipo, conductas de violencia, valores y antivalores, en un supuesto práctico de actuación del equipo de alto rendimiento frente a un conflicto, o en uno personal de resolución de una conducta poco ética y moral del equipo.
+
+e) Se han aplicado estrategias de desarrollo ético y moral personal y del equipo a reflejar en los comportamientos y actitudes ante los medios de comunicación, en un supuesto práctico de dirección de un equipo de alto rendimiento.
+
+f) Se han aplicado estrategias de resolución de conductas poco éticas y morales ante los medios de comunicación, en un supuesto práctico personal o de un deportista de alto rendimiento.
+
+Contenidos básicos
+
+RA-1. Elabora la programación didáctica de los módulos de enseñanzas deportivas, analizando la normativa de ordenación de las mismas, de los centros docentes, del profesorado y de la evaluación, aplicando los procesos de programación y secuenciación.
+
+1\. Enumeración de elementos y secuenciación de la programación didáctica.
+
+2\. Programación didáctica en enseñanza presencial y a distancia: características diferenciales.
+
+3\. Ubicación de las enseñanzas deportivas en el sistema educativo.
+
+– Ordenación, estructura y organización básica.
+
+– Sistema Nacional de Cualificaciones y Formación Profesional: oferta formativa en relación con las enseñanzas deportivas.
+
+4\. Normativa específica básica de las enseñanzas deportivas a tener en cuenta en la programación didáctica.
+
+– Centros de enseñanzas deportivas.
+
+– Características del profesorado de enseñanzas deportivas.
+
+– Perfil profesional de los ciclos de enseñanzas deportivas.
+
+– Objetivos generales de los diferentes ciclos de las enseñanzas deportivas.
+
+– Ciclos, bloques y módulos de las enseñanzas deportivas.
+
+– Elementos curriculares de los módulos de las enseñanzas deportivas.
+
+– Normativa de evaluación en las enseñanzas deportivas.
+
+RA-2. Elabora las sesiones de formación de técnicos deportivos de la programación didáctica conforme a sus elementos, valorando las características del alumnado adulto, y analizando, seleccionando y diseñando recursos didácticos propios de las enseñanzas deportivas.
+
+1\. Valoración de las características psicosociales del alumnado adulto propio de las enseñanzas deportivas.
+
+– Aprendizaje de personas adultas. Teorías cognitivas del aprendizaje.
+
+– Métodos de valoración psicosocial.
+
+– Implicaciones de las características psicosociales en el aprendizaje adulto.
+
+2\. Atención a la diversidad en el alumnado de enseñanzas deportivas, Principio de individualización en la enseñanza-aprendizaje y medidas para su fomento en las mismas.
+
+– Atención a las personas con discapacidad. Principio de normalización.
+
+– Principio de igualdad de oportunidades entre mujeres y hombres.
+
+– Adaptación curricular.
+
+– Situaciones de aprendizaje coeducativas, cooperativas e interactivas.
+
+3\. Elementos de la sesión en la planificación de sesiones en la formación de técnicos deportivos.
+
+– Concreción curricular.
+
+– Estructura.
+
+4\. Recursos didácticos a utilizar en las sesiones de formación técnicos deportivos. Características y criterios de selección y elaboración para enseñanza presencial y a distancia.
+
+– Actividades y tareas.
+
+– Medios didácticos: tradicionales, digitales (nuevas tecnologías –las TIC– aplicadas a la educación) y multimedia.
+
+– Materiales específicos de las disciplinas deportivas.
+
+– Pautas didácticas para la adecuación de los recursos didácticos.
+
+– Alternativas en caso de fallo técnico de los recursos didácticos y frente a otras posibles incidencias en las enseñanzas deportivas.
+
+– Diseño de los recursos didácticos para la individualización del proceso de enseñanza-aprendizaje y en atención a la diversidad en las enseñanzas deportivas.
+
+RA-3. Imparte formación de técnicos deportivos conforme a la programación didáctica, aplicando la metodología de enseñanza-aprendizaje y analizando la disposición docente que facilita el aprendizaje y la evaluación.
+
+1\. Desarrollo de la actitud de disposición del profesorado en la intervención docente en la formación de técnicos deportivos, para potenciar y afianzar el rendimiento y la implicación del alumnado adulto en el aprovechamiento de su formación.
+
+– Componentes cognitivos, afectivos y conductuales de la actitud de disposición docente.
+
+2\. Aspectos metodológicos de la enseñanza-aprendizaje en la formación de técnicos deportivos.
+
+– Estilos y estrategias de aprendizaje en personas adultas.
+
+– Modelos de formación del profesorado en las enseñanzas deportivas.
+
+– Estilos de enseñanza en modalidad presencial y a distancia.
+
+– Dirección de sesiones en la formación de técnicos deportivos.
+
+3\. Evaluación de la formación de técnicos deportivos.
+
+– Estrategias de evaluación.
+
+– Instrumentos de evaluación.
+
+– Formas de evaluación.
+
+– Pautas y proceso para la adecuada atención de reclamaciones de calificaciones.
+
+RA-4. Tutoriza técnicos deportivos en su proceso de formación específica (módulos específicos, de formación práctica y proyecto final), analizando y aplicando las estrategias y procedimientos específicos de tutorización.
+
+1\. Análisis de la relación curricular existente entre los distintos módulos de los bloques común y específico de las enseñanzas deportivas a tener en cuenta en la tutorización.
+
+– Implicaciones en el seguimiento y orientación en la tutorización.
+
+2\. Seguimiento educativo en la tutorización grupal, personal, presencial y a distancia de los módulos del bloque específico en la formación de técnicos deportivos.
+
+– Estrategias para la monitorización y control del proceso educativo.
+
+– Aplicaciones informáticas específicas de gestión y seguimiento.
+
+3\. Orientación educativa en la tutorización grupal, personal, presencial y a distancia de los módulos del bloque específico en la formación de técnicos deportivos.
+
+– Potenciación y afianzamiento del rendimiento y la implicación del alumnado adulto en el aprovechamiento de su formación deportiva.
+
+4\. Aspectos específicos a tener en cuenta en la tutorización del módulo de formación práctica de las enseñanzas deportivas.
+
+– Establecimiento de contactos y convenios con entidades colaboradoras.
+
+– Estrategias y procedimientos de actuación específicos en su seguimiento y orientación.
+
+– Memoria de prácticas.
+
+– Diario de campo.
+
+5\. Aspectos específicos a tener en cuenta en la tutorización del módulo de proyecto final de las enseñanzas deportivas.
+
+– Dirección y tutorización de proyectos: estrategias y procedimientos de actuación específicos en su seguimiento y orientación.
+
+– Proyecto.
+
+– Presentación oral.
+
+6\. Funciones y efectos específicos de la tutorización en el proceso de evaluación de los diferentes módulos de las enseñanzas deportivas.
+
+– Análisis de la progresión en la consecución de los criterios de evaluación de los resultados de aprendizaje de los distintos módulos a lo largo del ciclo de la enseñanza deportiva.
+
+– Elaboración de informes de evaluación.
+
+RA-5. Promueve el desarrollo ético y moral de técnicos y deportistas de alto rendimiento, valorando el impacto que sus comportamientos y actitudes tienen a nivel social, especialmente a través de los medios de comunicación.
+
+1\. Ética y moral en el deporte de alto rendimiento. Valores propios.
+
+– Antivalores más relevantes y comunes. Estereotipos y violencia en el deporte de alto rendimiento.
+
+– Valores y rendimiento deportivo.
+
+2\. Deporte de alto rendimiento, su impacto social y su desarrollo ético y moral en relación con los medios de comunicación.
+
+– Interacción de los diferentes agentes del ámbito del alto rendimiento deportivo con los medios de comunicación: deportistas y cuerpo técnico.
+
+– Análisis del contenido de la información deportiva en los medios de comunicación: transmisión de valores y valoración del éxito en mujeres y personas con discapacidad.
+
+– Repercusión mediática de actitudes y comportamientos deportivos y antideportivos de las/os deportistas y del cuerpo técnico ante los medios de comunicación.
+
+– Estrategias para el análisis y la difusión de valores deportivos a través de los medios.
+
+> Se numera como Anexo II.d y se sustituye por el que figura como anexo III del Real Decreto 535/2026, de 30 de junio, según establece su art. 7.2.d) [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.e — Módulo común de enseñanza deportiva: Organización y gestión aplicada al alto rendimiento
+
+Código: MED-C304
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Revisa las condiciones de seguridad de los recursos materiales y equipamientos deportivos en instalaciones de alto rendimiento, utilizando la normativa vigente y aplicando criterios de protección contra riesgos, además de medidas de protección avanzadas.
+
+a) Se ha identificado la normativa básica y complementaria relativa a la seguridad aplicable a un supuesto práctico donde se concretan las características de una instalación deportiva de alto rendimiento.
+
+b) Se han aplicado los principales criterios de seguridad que deben cumplir las instalaciones y equipamientos deportivos de instalaciones de alto rendimiento, en un supuesto práctico donde se establece el marco normativo a utilizar y las características específicas de la instalación.
+
+c) Se han analizado las características de un plan de emergencia y evacuación en una instalación deportiva de alto rendimiento.
+
+d) Se han detallado estrategias y medidas de protección avanzadas contra riesgos antisociales y de violencia en el deporte, aplicables a una situación simulada debidamente caracterizada propia del alto rendimiento.
+
+RA-2. Organiza competiciones y eventos propios del nivel de tecnificación deportiva, analizando los requisitos administrativos, medios materiales y humanos necesarios, en relación con el marco legal que las regula y valorando los criterios de igualdad de género y sostenibilidad.
+
+a) Se ha identificado la estructura organizativa y la persona responsable de la competición de tecnificación deportiva, diferenciando sus funciones esenciales a partir de la normativa vigente.
+
+b) Se han categorizado de manera justificada las estrategias o herramientas utilizables en la búsqueda de financiación o apoyo económico de eventos y competiciones deportivas.
+
+c) Se ha elaborado el procedimiento de comunicación y difusión de los resultados, así como la gestión del protocolo de manera eficiente, aplicables en eventos reales o simulados.
+
+d) Se ha valorado el impacto ambiental y social de la celebración de eventos deportivos acorde a criterios de sostenibilidad, mediante la participación en espacios de discusión y análisis colectivo.
+
+RA-3. Acompaña a deportistas o equipos a competiciones de alto nivel y alto rendimiento, identificando el marco legislativo y organizativo de dichas competiciones y analizando las normativas de aplicación a deportistas profesionales, deportistas de alto nivel y alto rendimiento.
+
+a) Se ha analizado la normativa deportiva de ámbito internacional y su relación con la estructura administrativa del deporte, mediante un escenario de estudio realista.
+
+b) Se ha descrito la organización, estructura y funciones de los organismos deportivos internacionales más importantes, mediante el análisis de casos prácticos.
+
+c) Se ha descrito el régimen disciplinario y antidopaje y su relación con los organismos del deporte.
+
+d) Se ha analizado la normativa que afecta a Deportistas de Alto Nivel y Alto Rendimiento en España, a través de la revisión de casos representativos.
+
+e) Se han analizado las características de los programas de ayuda a la preparación de Deportistas de Alto Nivel y Alto Rendimiento de los deportes olímpicos, a través de la revisión de programas de apoyo reales.
+
+RA-4. Identifica las formas jurídicas y estructuras de las organizaciones deportivas, relacionándolas con la normativa vigente y aplicando procedimientos básicos de gestión económica.
+
+a) Se ha distinguido el grado de responsabilidad de las personas propietarias y gestoras de organizaciones deportivas, en función de su forma jurídica, mediante el análisis comparativo de distintas estructuras organizativas.
+
+b) Se han identificado los procedimientos de creación y puesta en marcha de una organización deportiva, en un supuesto práctico de emprendimiento en el que se establece la forma jurídica y la estructura de la organización deportiva.
+
+c) Se han enumerado los trámites de obtención de apoyo económico exigidos por la normativa vigente en los procesos de creación de organizaciones deportivas, adecuándolos a las características de cada organización.
+
+d) Se han seleccionado los procedimientos de gestión económica esenciales en la organización deportiva, a partir de una organización ficticia.
+
+RA-5. Selecciona las oportunidades de empleo, identificando itinerarios formativos profesionales, realizando una autovaloración de características personales y reconociendo organizaciones útiles para el asesoramiento en la búsqueda.
+
+a) Se ha valorado la importancia de la formación permanente como factor clave en la empleabilidad y la adaptación a las exigencias del mercado laboral y de la modalidad deportiva, mediante la participación en espacios de discusión y análisis colectivo.
+
+b) Se han identificado los itinerarios formativos profesionales que completan su perfil profesional y aumentan su empleabilidad, a partir de la búsqueda en bases de datos educativas y ofertas formativas actualizadas.
+
+c) Se han descrito posibilidades de empleo relacionadas con su perfil profesional, a partir de la búsqueda de oportunidades en el mercado.
+
+d) Se han analizado y aplicado herramientas de autoevaluación de las aspiraciones, actitudes y formación vinculadas con la búsqueda de empleo.
+
+e) Se han seleccionado de manera justificada las organizaciones de asesoramiento en la búsqueda de empleo, a partir de la consulta de portales de empleo y orientación profesional.
+
+Contenidos básicos
+
+RA-1. Revisa las condiciones de seguridad de los recursos materiales y equipamientos deportivos en instalaciones de alto rendimiento, utilizando la normativa vigente y aplicando criterios de protección contra riesgos, además de medidas de protección avanzadas.
+
+1\. Instalaciones deportivas: concepto y características funcionales.
+
+2\. Fundamentos normativos sobre seguridad en las instalaciones deportivas.
+
+3\. La información sobre seguridad en las instalaciones deportivas. Interpretación de la señalización de seguridad. Accesibilidad en instalaciones deportivas.
+
+4\. Procedimientos de revisión de los equipamientos deportivos.
+
+5\. Análisis y aplicación de los planes de emergencia y evacuación.
+
+6\. Medidas básicas de protección para las personas usuarias y las personas trabajadoras.
+
+7\. Protección contra actos antisociales y violencia en el deporte.
+
+RA-2. Organiza competiciones y eventos propios del nivel de tecnificación deportiva, analizando los requisitos administrativos, medios materiales y humanos necesarios, en relación con el marco legal que las regula y valorando los criterios de igualdad de género y sostenibilidad.
+
+1\. Competiciones deportivas. Estructura organizativa básica. Funciones y responsabilidades.
+
+2\. Vías de apoyo económicas y materiales.
+
+3\. Apoyo a la esponsorización del deporte femenino, su importancia en la organización de eventos de esta naturaleza.
+
+4\. Organización de actos de protocolo.
+
+5\. Gestión y difusión de los resultados de las competiciones deportivas.
+
+6\. Sostenibilidad en competiciones y eventos deportivos.
+
+– Medidas para minimizar las afecciones en la Biodiversidad y de restauración de zonas afectadas. Preservación de zonas frágiles, patrimonio arqueológico, histórico y cultural.
+
+– Medidas de ahorro y uso eficiente del agua.
+
+– Gestión de residuos y limpieza.
+
+– Minimizar el uso de energía, fomento de energías renovables.
+
+RA-3. Acompaña a deportistas o equipos a competiciones de alto nivel y alto rendimiento, identificando el marco legislativo y organizativo de dichas competiciones y analizando las normativas de aplicación a deportistas profesionales, deportistas de alto nivel y alto rendimiento.
+
+1\. Deporte internacional. Normativa de referencia:
+
+– Carta Olímpica.
+
+– Carta Europea del Deporte: personas con discapacidad.
+
+– Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+– Convención sobre los derechos de las personas con discapacidad: resolución de la Asamblea General de la ONU del 13 de diciembre de 2006 (artículo 30.5).
+
+2\. Organismos Internacionales.
+
+– Estructura y funciones: Comité Paralímpico Internacional, Comité Olímpico Internacional. Tribunal de Arbitraje del Deporte. Agencia Mundial Antidopaje.
+
+– Régimen Disciplinario.
+
+3\. Deporte Profesional. Concepto.
+
+– Ley del deporte.
+
+– Ligas profesionales españolas. Características.
+
+4\. Deporte de Alto Nivel (DAN) y de Alto Rendimiento (DAR).
+
+– Normativa de aplicación DAN y DAR.
+
+– Plan ADO y «Team España». Características.
+
+– Plan ADOP. Características.
+
+– Programas de apoyo a las deportistas DAN y DAR.
+
+RA-4. Identifica las formas jurídicas y estructuras de las organizaciones deportivas, relacionándolas con la normativa vigente y aplicando procedimientos básicos de gestión económica.
+
+1\. Organizaciones y empresas deportivas. Formas jurídicas. Estructura y funciones.
+
+2\. Elección de la forma jurídica.
+
+3\. Requisitos legales de constitución de organizaciones deportivas y empresas.
+
+4\. Vías de financiación de las organizaciones y empresas deportivas. Ayudas y subvenciones. Tramitación de solicitudes de ayudas y subvenciones.
+
+5\. Nociones básicas de contabilidad.
+
+6\. Análisis de la información contable.
+
+RA-5. Selecciona las oportunidades de empleo, identificando itinerarios formativos profesionales, realizando una autovaloración de características personales y reconociendo organizaciones útiles para el asesoramiento en la búsqueda.
+
+1\. Valoración de la importancia de la formación permanente para la trayectoria laboral y profesional del personal técnico deportivo superior.
+
+2\. Identificación de los itinerarios formativos relacionados con el personal técnico deportivo superior.
+
+3\. El proceso de búsqueda de empleo.
+
+4\. Técnicas e instrumentos de búsqueda de empleo.
+
+5\. El proceso de toma de decisiones.
+
+6\. Análisis de los intereses, aptitudes y motivaciones personales para la carrera profesional.
+
+7\. Análisis del mercado de entidades públicas y privadas orientadas al asesoramiento en la búsqueda de empleo.
+
+> Se numera como Anexo II.e y se sustituye por el que figura como anexo IV del Real Decreto 535/2026, de 30 de junio, según establece su art. 7.2.e) [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.f — Módulo específico de enseñanza deportiva: Formación del jugador en la etapa de alto rendimiento
+
+Código: MED-BCBC301
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Clasifica y evalúa la capacidad de juego del deportista en la etapa de alto rendimiento, analizando su comportamiento en los conceptos que se aplican, así como la eficacia y eficiencia, aplicando técnicas de identificación y corrección de errores, modificando y construyendo tareas de rendimiento, y elaborando procesos completos de enseñanza.
+
+a. Se han analizado las capacidades de un jugador de baloncesto necesarias en la etapa de alto rendimiento.
+
+b. Se han explicado las características principales de cada concepto de juego en la etapa de alto rendimiento.
+
+c. Se han categorizado las acciones de los jugadores en función de los conceptos de juego aplicados.
+
+d. Se ha clasificado de forma justificada, a partir de un supuesto práctico, el nivel de capacidad de juego de las acciones de un jugador.
+
+e. Se ha analizado la eficacia y eficiencia de los procesos de acción-reacción de una situación de juego propuesta, en base al éxito, al tiempo y a los recursos invertidos para su desarrollo.
+
+f. Se han identificado las dificultades y problemas que presenta el jugador en la aplicación de los conceptos de juego en la etapa de rendimiento.
+
+g. Se han evaluado las acciones realizadas por el jugador en la etapa de alto rendimiento, en base a los estándares propios de la etapa.
+
+h. Se han diseñado y modificado tareas de evaluación de las capacidades de juego en la etapa de rendimiento.
+
+i. Se has elaborado tareas de corrección de errores sobre la observación de las acciones realizadas por jugadores en la etapa de rendimiento.
+
+j. Se ha construido un proceso completo de enseñanza a partir del análisis del comportamiento técnico-táctico, elaborando tareas de corrección de errores y de mejora de la capacidad de juego.
+
+k. Se ha valorado la importancia de evaluar el nivel de capacidad de juego de los deportistas en la etapa de rendimiento en baloncesto.
+
+2\. Clasifica y evalúa la ejecución de las habilidades técnicas ofensivas del jugador en la etapa de alto rendimiento, comprobando la eficacia y eficiencia de la ejecución, diseñando y modificando tareas de rendimiento para corregir errores o desarrollar las habilidades.
+
+a. Se han categorizado las distintas habilidades técnicas ofensivas propias del jugador según su posición en el campo.
+
+b. Se han analizado las habilidades técnicas ofensivas específicas de un jugador en un supuesto práctico, y sus características según su posición en el campo.
+
+c. Se ha analizado la eficacia y eficiencia de las habilidades técnicas ofensivas, en base al éxito, al tiempo y a los recursos invertidos para su ejecución.
+
+d. Se han identificado las dificultades y problemas que presenta el jugador en la ejecución de las habilidades técnicas ofensivas necesarias en la etapa de alto rendimiento.
+
+e. Se han propuesto modificaciones en la ejecución técnica, a partir de la realización de una habilidad técnica ofensiva por parte de un jugador en la etapa de alto rendimiento.
+
+f. Se ha clasificado y razonado el nivel de ejecución de habilidad técnica ofensiva de un jugador tras la observación en situaciones propuestas.
+
+g. Se han diseñado y modificado tareas de evaluación de las habilidades técnicas ofensivas de los jugadores en la etapa de alto rendimiento.
+
+h. Se han elaborado tareas de corrección de errores sobre la observación de las ejecuciones técnicas ofensivas realizadas por jugadores en la etapa de alto rendimiento.
+
+i. Se ha construido un proceso completo de enseñanza a partir del análisis de las habilidades técnicas ofensivas de un jugador, elaborando tareas de corrección de errores, y de mejora de las habilidades del jugador para la etapa de alto rendimiento.
+
+j. Se ha debatido la necesidad de evaluar el nivel de habilidad técnica ofensiva de un jugador para la etapa de alto rendimiento en baloncesto.
+
+k. Se ha justificado la importancia de la eficacia y la eficiencia de la ejecución de una habilidad técnica ofensiva en la etapa de rendimiento.
+
+3\. Clasifica y evalúa la ejecución de las habilidades técnicas defensivas del jugador en la etapa de alto rendimiento, comprobando la eficacia y eficiencia de la ejecución, diseñando y modificando tareas de rendimiento para corregir errores o desarrollar las habilidades.
+
+a. Se han categorizado las distintas habilidades técnicas defensivas propias del jugador según su posición en el campo.
+
+b. Se han analizado las habilidades técnicas defensivas específicas de un jugador en un supuesto práctico, y sus características según su posición en el campo.
+
+c. Se ha analizado la eficacia y eficiencia de las habilidades técnicas defensivas en base al éxito, al tiempo y a los recursos invertidos para su ejecución.
+
+d. Se han identificado las dificultades y problemas que presenta el jugador en la ejecución de las habilidades técnicas defensivas necesarias en la etapa de alto rendimiento.
+
+e. Se han propuesto modificaciones en la ejecución técnica, a partir de la realización de una habilidad técnica defensiva por parte de un jugador en la etapa de alto rendimiento.
+
+f. Se han clasificado y razonado el nivel de ejecución de habilidad técnica defensivas de un jugador tras la observación en situaciones propuestas.
+
+g. Se han diseñado y modificado tareas de evaluación de las habilidades técnicas defensivas de los jugadores en la etapa de alto rendimiento.
+
+h. Se han elaborado tareas de corrección de errores sobre la observación de las ejecuciones técnicas defensivas realizadas por jugadores en la etapa de alto rendimiento.
+
+i. Se ha construido un proceso completo de enseñanza a partir del análisis de las habilidades técnicas defensivas de un jugador, elaborando tareas de corrección de errores y de mejora de las habilidades del jugador para la etapa de alto rendimiento.
+
+j. Se ha debatido la necesidad de evaluar el nivel de habilidad técnica defensiva de un jugador para la etapa de alto rendimiento en baloncesto.
+
+k. Se ha justificado la importancia de la eficacia y la eficiencia de la ejecución de una habilidad técnica defensiva en la etapa de alto rendimiento.
+
+4\. Analiza el talento del jugador de baloncesto, comparando las características individuales que presenta cada deportista, diseñando tareas de mejora y optimización y adaptando los movimientos tácticos colectivos del equipo a las características individuales y a los objetivos de conjunto.
+
+a. Se ha expresado la diversidad de talento que se puede dar en un jugador de baloncesto en la etapa de alto rendimiento.
+
+b. Se ha explicado el perfil individual del jugador con talento en cada posición, analizando diversos ejemplos de jugadores conocidos.
+
+c. Se ha comprobado la optimización del talento de un jugador según el rendimiento del equipo.
+
+d. Se han comparado las características del talento de dos jugadores propuestos en la etapa de alto rendimiento.
+
+e. Se han diseñado tareas para maximizar el talento de los jugadores en la etapa de alto rendimiento.
+
+f. Se han analizado elementos metodológicos que potencian el desarrollo del talento de los jugadores en la etapa de alto rendimiento.
+
+g. Se han formulado soluciones a dificultades que presenta el jugador en la búsqueda de la excelencia.
+
+h. Se han diseñado movimientos tácticos en la etapa de alto rendimiento que favorecen la manifestación del talento de un jugador propuesto, justificando su composición.
+
+i. Se ha debatido la importancia de que el talento debe favorecer el rendimiento del equipo en la etapa de alto rendimiento.
+
+j. Se ha justificado la necesidad de poder ofrecer al jugador nuevos retos ante el acierto, o respuestas ante el desacierto, en el juego.
+
+Contenidos básicos
+
+1\. Clasifica y evalúa la capacidad de juego del deportista en la etapa de alto rendimiento, analizando su comportamiento en los conceptos que se aplican, así como la eficacia y eficiencia, aplicando técnicas de identificación y corrección de errores, modificando y construyendo tareas de rendimiento, y elaborando procesos completos de enseñanza.
+
+– Capacidad de juego en etapas de alto rendimiento.
+
+– Capacidades del base: estándares de la etapa.
+
+– Capacidades del escolta: estándares de la etapa.
+
+– Capacidades del alero: estándares de la etapa.
+
+– Capacidades del ala-pívot: estándares de la etapa.
+
+– Capacidades del pívot: estándares de la etapa.
+
+– Comportamiento técnico-táctico en la etapa de alto rendimiento.
+
+– Conceptos en situaciones de juego reducidas en la etapa de alto rendimiento.
+
+– Uno contra uno en la etapa de alto rendimiento.
+
+– Jugador con balón y su defensa en la etapa de alto rendimiento.
+
+– Ataque.
+
+– Eficacia y eficiencia desde el juego exterior.
+
+– Eficacia y eficiencia desde el juego interior.
+
+– Lectura de las acciones y reacciones defensivas.
+
+– Defensa.
+
+– Limitar y cerrar opciones.
+
+– Defensas inteligentes sobre «scouting» individual.
+
+– Jugador sin balón y su defensa en la etapa de alto rendimiento.
+
+– Ataque.
+
+– Lectura de juego desde el interior.
+
+– Lectura de juego desde el exterior.
+
+– Lectura de las acciones y reacciones defensivas.
+
+– Defensa.
+
+– Apoyo al equipo.
+
+– Reducir opciones al ataque.
+
+– Aplicación de análisis individual del rival.
+
+– Entrenamiento del uno contra uno en la etapa de alto rendimiento.
+
+– Velocidad, resultado y desgaste energético.
+
+– Diseño y modificación de tareas para la etapa de alto rendimiento.
+
+– Proceso completo de enseñanza del 1×1.
+
+– Evaluación del uno contra uno en la etapa de alto rendimiento.
+
+– Indicadores de evaluación en la ejecución del 1×1.
+
+– Criterios de observación de las acciones de 1×1 en el alto rendimiento.
+
+– Errores en el uno contra uno en la etapa de alto rendimiento:
+
+– Dificultades, problemas y errores más frecuentes en la etapa de alto rendimiento.
+
+– Causas y estrategias de resolución.
+
+– Dos contra dos en la etapa de alto rendimiento.
+
+– Ataque y defensa del «Bloqueo y Continuación» en la etapa de alto rendimiento.
+
+– Ataque.
+
+– Leer ventajas y desventajas desde el bloqueo directo.
+
+– Modificar las desventajas y convertirlas en lo contrario, con movimientos con o sin balón.
+
+– El pase a partir del bloqueo directo.
+
+– Dificultades del pase y cómo solucionarlas.
+
+– Posibles continuaciones y aperturas.
+
+– Lectura de las acciones y reacciones defensivas.
+
+– Defensa.
+
+– Diversidad de estructuras defensivas en la etapa de alto rendimiento.
+
+– Defensas inteligentes sobre «scouting» individual.
+
+– Ataque y defensa del juego «dentro-fuera» en la etapa de alto rendimiento.
+
+– Ataque.
+
+– Leer ventajas y desventajas.
+
+– Movimientos a favor del balón.
+
+– El pase como continuidad del juego.
+
+– Dificultades del pase y cómo solucionarlas.
+
+– Lectura de las acciones y reacciones defensivas.
+
+– Posibles continuaciones del juego «dentro-fuera».
+
+– Defensa.
+
+– Minimizar espacios.
+
+– Dificultar el pase.
+
+– Negar continuaciones.
+
+– Defensas inteligentes sobre ««scouting»» individual.
+
+– Entrenamiento del dos contra dos en la etapa de alto rendimiento.
+
+– Velocidad, resultado y desgaste energético.
+
+– Diseño y modificación de tareas.
+
+– Proceso completo de enseñanza del 2×2.
+
+– Evaluación del dos contra dos en la etapa de alto rendimiento.
+
+– Indicadores de evaluación en la ejecución del 2×2.
+
+– Criterios de observación de las acciones de 2×2.
+
+– Errores en el dos contra dos en la etapa de alto rendimiento:
+
+– Dificultades, problemas y errores más frecuentes.
+
+– Causas y estrategias de resolución.
+
+– Tres contra tres en la etapa de alto rendimiento.
+
+– Ataque y defensa del «Triángulo» en la etapa de alto rendimiento.
+
+– Ataque.
+
+– Juego con el poste alto y poste bajo.
+
+– El pase como elemento de construcción.
+
+– Leer ventajas y desventajas en el triángulo.
+
+– Dificultades del pase y cómo solucionarlas.
+
+– Lectura de las acciones y reacciones defensivas.
+
+– Posibles continuaciones.
+
+– Defensa.
+
+– Defensa del triángulo.
+
+– Limitación de opciones de salidas.
+
+– Defensas inteligentes sobre «scouting» individual.
+
+– Ataque y defensa de los bloqueos indirectos en la etapa de alto rendimiento.
+
+– Ataque.
+
+– Lectura de ventajas inteligentes para según qué jugador.
+
+– Ángulos de pases específicos.
+
+– Ángulos de bloqueos individualizados.
+
+– Lectura de las acciones y reacciones defensivas.
+
+– Dificultades de salidas del bloqueo y del propio bloqueo y propuestas de solución.
+
+– Posibles continuaciones del juego con bloqueos indirectos.
+
+– Defensa.
+
+– Defensa del jugador bloqueado.
+
+– Defensa del jugador bloqueador.
+
+– Defensa del jugador pasador.
+
+– Opciones de continuidad de la defensa tras el bloqueo.
+
+– Defensas inteligentes sobre «scouting» individual.
+
+– El tres contra tres como combinaciones de conceptos, o como conceptos con varios jugadores.
+
+– Tres contra tres desde «pasar y cortar».
+
+– Tres contra tres desde «dividir y doblar».
+
+– Tres contra tres desde «pase mano a mano».
+
+– Tres contra tres desde «bloqueo directo».
+
+– Tres contra tres desde «dentro-fuera».
+
+– Entrenamiento del tres contra tres en la etapa de alto rendimiento.
+
+– Velocidad, resultado y desgaste energético.
+
+– Diseño y modificación de tareas.
+
+– Proceso completo de enseñanza del 3×3.
+
+– Evaluación del tres contra tres en la etapa de alto rendimiento.
+
+– Indicadores de evaluación en la ejecución del 3×3.
+
+– Criterios de observación de las acciones de 3×3.
+
+– Errores en el tres contra tres en la etapa de alto rendimiento:
+
+– Dificultades, problemas y errores más frecuentes.
+
+– Causas y estrategias de resolución.
+
+– Cuatro contra cuatro en la etapa de alto rendimiento.
+
+– Ataque y defensa del bloqueo doble «Stack» en la etapa de alto rendimiento.
+
+– Ataque.
+
+– Lectura de ventajas inteligentes para según qué jugador sea el bloqueo.
+
+– Ángulos de pases específicos.
+
+– Ángulos del «bloqueo doble» individualizados.
+
+– Lectura de las acciones y reacciones defensivas.
+
+– Dificultades de salidas del bloqueo y del propio bloqueo y propuestas de solución.
+
+– Posibles continuaciones del juego con bloqueos dobles «stacks».
+
+– Defensa.
+
+– Defensa del jugador bloqueado.
+
+– Defensa de los jugadores bloqueadores.
+
+– Defensa del jugador pasador.
+
+– Opciones de continuidad de la defensa tras el bloqueo doble.
+
+– Defensas inteligentes sobre «scouting» individual.
+
+– Ataque y defensa del concepto bloquea al bloqueador «flex».
+
+– Ataque.
+
+– Lectura de ventajas del movimiento.
+
+– Ángulos de pases específicos.
+
+– Ángulos de bloqueos específicos.
+
+– Lectura de las acciones y reacciones defensivas.
+
+– Dificultades de salidas de los bloqueos y de los propios bloqueos y propuestas de solución.
+
+– Posibles continuaciones del juego con bloqueos «flex».
+
+– Defensa.
+
+– Defensa de los jugadores bloqueados.
+
+– Defensa de los jugadores bloqueadores.
+
+– Defensa del jugador pasador.
+
+– Opciones de continuidad de la defensa tras la secuencia «flex».
+
+– Defensas inteligentes sobre «scouting» individual.
+
+– El cuatro contra cuatro como combinaciones de conceptos con varios jugadores.
+
+– Cuatro contra cuatro desde «pasar, cortar y remplazar».
+
+– Cuatro contra cuatro desde «triángulo».
+
+– Cuatro contra cuatro desde «bloqueos indirectos».
+
+– Entrenamiento del cuatro contra cuatro en la etapa de alto rendimiento.
+
+– Velocidad, resultado y desgaste energético.
+
+– Diseño y modificación de tareas.
+
+– Proceso completo de enseñanza del 4×4.
+
+– Evaluación del cuatro contra cuatro en la etapa de alto rendimiento.
+
+– Indicadores de evaluación en la ejecución del 4×4.
+
+– Criterios de observación de las acciones de 4×4.
+
+– Errores en el cuatro contra cuatro en la etapa de alto rendimiento:
+
+– Dificultades, problemas y errores más frecuentes.
+
+– Causas y estrategias de resolución.
+
+2\. Clasifica y evalúa la ejecución de las habilidades técnicas ofensivas del jugador en la etapa de alto rendimiento, comprobando la eficacia y eficiencia de la ejecución, diseñando y modificando tareas de rendimiento para corregir errores o desarrollar las habilidades.
+
+– Habilidades técnicas ofensivas en la etapa de alto rendimiento.
+
+– Habilidades técnicas ofensivas del jugador interior (pívot).
+
+– Estándares para la etapa de alto rendimiento.
+
+– Movimientos sin balón.
+
+– Movimientos con balón.
+
+– La importancia de dominar gesto y su complementario.
+
+– El dominio de los movimientos de los maestros (superclases).
+
+– El tiro y el incremento del rango.
+
+– Espacios para jugar 1×1 en la etapa de alto rendimiento desde la posición de pívot (poste bajo).
+
+– Movimientos previos para generar la ventaja en el 1×1 desde el poste bajo.
+
+– Acciones más interesantes para 1×1 el poste bajo.
+
+– Dificultades del 1×1 del jugador interior en el poste bajo.
+
+– Espacios para jugar 1×1 en la etapa de alto rendimiento desde la posición de pívot (poste alto).
+
+– Movimientos previos para generar la ventaja en el 1×1 desde el poste alto.
+
+– Acciones más interesantes para 1×1 desde el poste alto.
+
+– Dificultades del 1×1 del jugador interior en el poste alto.
+
+– Máxima eficiencia y eficacia en los movimientos del jugador interior.
+
+– La percepción del juego del pívot: cómo observar su nivel y cómo mejorarlo.
+
+– Habilidades técnicas ofensivas de base.
+
+– Estándares para la etapa de alto rendimiento.
+
+– La percepción del juego en el base: cómo observar su nivel y cómo mejorarlo.
+
+– La anticipación.
+
+– La visión de juego.
+
+– La toma de decisiones del base: acertar más, y más rápido.
+
+– La ejecución del base en la etapa de rendimiento: precisión y velocidad.
+
+– Las manos del base.
+
+– La importancia de dominar un gesto y su complementario.
+
+– El dominio de los movimientos de los maestros (superclases).
+
+– Movimientos previos para generar la ventaja en el 1×1.
+
+– El tiro del base (el tiro tras bote y el tiro exterior).
+
+– El tiro y el incremento del rango.
+
+– Espacios para jugar 1×1 en la élite desde la posición de base.
+
+– Movimientos previos para generar la ventaja en el 1×1.
+
+– Acciones más interesantes para 1×1 exterior frontal.
+
+– Dificultades del 1×1 del base.
+
+– Habilidades técnicas ofensivas del jugador exterior (alero).
+
+– Estándares para la etapa de alto rendimiento.
+
+– La percepción del juego en el exterior: cómo observar su nivel y cómo mejorarlo.
+
+– La anticipación.
+
+– La visión de juego.
+
+– La ejecución del alero en la etapa de rendimiento: precisión y velocidad.
+
+– El tiro y el incremento del rango.
+
+– La importancia de dominar un gesto y su complementario.
+
+– El dominio de los movimientos de los maestros (superclases).
+
+– Espacios para jugar 1×1 en la élite desde la posición de alero.
+
+– Movimientos previos para generar la ventaja en el 1×1.
+
+– Acciones más interesantes para 1×1 exterior diagonal.
+
+– Acciones más interesantes para 1×1 exterior por línea de fondo.
+
+– Dificultades del 1×1 del alero.
+
+– Entrenamiento de las habilidades técnicas ofensivas para la etapa de alto rendimiento.
+
+– Velocidad y fuerza en la ejecución ofensiva: potencia técnica.
+
+– Diseño y modificación de tareas de habilidades técnicas.
+
+– Proceso completo de enseñanza de las habilidades técnicas ofensivas.
+
+– Evaluación de las habilidades técnicas ofensivas en la etapa de alto rendimiento.
+
+– Indicadores de evaluación en la ejecución de las habilidades técnicas ofensivas.
+
+– Criterios de observación de las habilidades técnicas ofensivas.
+
+– Errores en la ejecución de las habilidades técnicas ofensivas en la etapa de alto rendimiento:
+
+– Dificultades, problemas y errores más frecuentes.
+
+– Causas y estrategias de resolución.
+
+3\. Clasifica y evalúa la ejecución de las habilidades técnicas defensivas del jugador en la etapa de alto rendimiento, comprobando la eficacia y eficiencia de la ejecución, diseñando y modificando tareas de rendimiento para corregir errores o desarrollar las habilidades.
+
+– Habilidades técnicas defensivas para jugadores exteriores en la etapa de alto rendimiento.
+
+– Estándares para la etapa de alto rendimiento.
+
+– Defensa en el uno contra uno al jugador exterior con balón.
+
+– Utilización de manos.
+
+– Utilización del cuerpo.
+
+– Utilización de piernas.
+
+– Ángulos y espacios posicionales y de desplazamientos.
+
+– Defensa al recibir un bloqueo directo.
+
+– Defensa de un interior siendo exterior al poste bajo.
+
+– Defensa en el uno contra uno al jugador exterior sin balón.
+
+– Utilización de manos.
+
+– Utilización del cuerpo.
+
+– Utilización de piernas.
+
+– Ángulos y espacios posicionales y de desplazamientos.
+
+– Defensa previa tras un «miss match» con un interior.
+
+– Defensa al recibir un bloqueo indirecto.
+
+– Defensa al jugador que hace un bloqueo indirecto.
+
+– Defensa al recibir un bloqueo doble (stack).
+
+– Evolución defensiva de un jugador exterior en la etapa de alto rendimiento.
+
+– Conocimiento del reglamento en la defensa al jugador lejos del aro.
+
+– Habilidades defensivas para jugadores interiores en la etapa de alto rendimiento.
+
+– Estándares para la etapa de alto rendimiento.
+
+– Defensa en el uno contra uno al jugador interior con balón.
+
+– Utilización de manos.
+
+– Utilización del cuerpo.
+
+– Utilización de piernas.
+
+– Ángulos y espacios posicionales y de desplazamientos.
+
+– Defensa de un exterior lejos del aro.
+
+– Defensa en el uno contra uno al jugador interior sin balón.
+
+– Utilización de manos.
+
+– Utilización del cuerpo.
+
+– Utilización de piernas.
+
+– Ángulos y espacios posicionales y de desplazamientos.
+
+– Defensa previa tras un «miss match» con un exterior.
+
+– Defensa del jugador que realiza un bloqueo directo.
+
+– Defensa del jugador que realiza un bloqueo indirecto.
+
+– Defensa al jugador que recibe un bloqueo indirecto.
+
+– Defensa al jugador que realiza un bloqueo doble (stack).
+
+– Evolución defensiva de un jugador interior en la etapa de alto rendimiento.
+
+– Conocimiento del reglamento en la defensa al jugador cerca del aro.
+
+– Entrenamiento de las habilidades técnicas defensivas en la etapa de alto rendimiento.
+
+– Velocidad y fuerza en la ejecución defensiva: potencia técnica.
+
+– Diseño y modificación de tareas de habilidades técnicas.
+
+– Proceso completo de enseñanza de las habilidades técnicas defensivas.
+
+– Evaluación de las habilidades técnicas defensivas en la etapa de alto rendimiento.
+
+– Indicadores de evaluación en la ejecución de las habilidades técnicas defensivas.
+
+– Criterios de observación de las habilidades técnicas defensivas.
+
+– Errores en la ejecución de las habilidades técnicas defensivas en la etapa de alto rendimiento:
+
+– Dificultades, problemas y errores más frecuentes.
+
+– Causas y estrategias de resolución.
+
+4\. Analiza el talento del jugador de baloncesto, comparando las características individuales que presenta cada deportista, diseñando tareas de mejora y optimización y adaptando los movimientos tácticos colectivos del equipo a las características individuales y a los objetivos de conjunto.
+
+– Talento en un jugador de baloncesto en la etapa de alto rendimiento.
+
+– Características del talento de un jugador.
+
+– Perfil individual del jugador con talento en cada posición en la etapa de alto rendimiento.
+
+– Bases.
+
+– Escoltas.
+
+– Aleros.
+
+– Ala pívots.
+
+– Pívots.
+
+– Ejemplos reales.
+
+– Búsqueda de la excelencia en jugadores con talento.
+
+– Aspectos analizables.
+
+– Motivación.
+
+– Ser triunfador.
+
+– Inteligencia emocional.
+
+– Capacidad táctica.
+
+– Habilidad técnica.
+
+– Capacidad cognitiva.
+
+– Capacidad perceptiva.
+
+– Liderazgo.
+
+– Capacidad volitiva.
+
+– Propuestas de juego que maximizan el talento según posiciones y características en la etapa de alto rendimiento.
+
+– Propuestas tácticas ofensivas.
+
+– Propuestas tácticas defensivas.
+
+– Talento individual y rendimiento del equipo en la etapa de alto rendimiento.
+
+– Tareas que maximizan el talento de los jugadores en la etapa de alto rendimiento.
+
+– Metodologías favorecedoras de la potenciación del talento.
+
+– Soluciones a dificultades en la búsqueda de la excelencia.
+
+– Respuestas del técnico ante el jugador que domina el juego.
+
+– Anticipación a problemas futuros.
+
+– Mejora de la competición que experimenta el jugador.
+
+– Aprovechamiento de la capacidad volitiva.
+
+> Se numera como Anexo II.f por el art. 7.2.f) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.g — Módulo específico de enseñanza deportiva: Dirección de equipos en la etapa de alto rendimiento
+
+Código: MED-BCBC302
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Construye y lidera un equipo de alto rendimiento analizando la estructura y los criterios de composición de los equipos de esta etapa, y aplicando dinámicas de grupo avanzadas y distribución de roles.
+
+a. Se ha esquematizado la estructura de un equipo para la etapa de alto rendimiento.
+
+b. Se han expresado criterios para la construcción de una plantilla relacionándolos con las características técnicas de unos jugadores propuestos en la etapa de alto rendimiento.
+
+c. Se han analizado las funciones de la dirección deportiva en equipos de alto rendimiento.
+
+d. Se ha justificado la selección de jugadores en función de un proyecto deportivo de club propuesto.
+
+e. Se han expuesto las funciones principales de un técnico en la gestión de un equipo de alto rendimiento.
+
+f. Se han fundamentado las funciones de los restantes miembros de un equipo técnico multidisciplinar en un equipo de alto rendimiento.
+
+g. Se han formulado dinámicas de grupo avanzadas en equipos de alto rendimiento, a partir de situaciones formuladas.
+
+h. Se han definido roles a partir de una propuesta de plantilla con jugadores de alto rendimiento concretos.
+
+i. Se han analizado las características de un reglamento interno específico para un equipo de baloncesto en la etapa de alto rendimiento.
+
+j. Se ha valorado la importancia de una correcta gestión de un equipo de baloncesto para el buen funcionamiento del mismo.
+
+k. Se ha valorado la importancia de la colaboración en un equipo técnico multidisciplinar.
+
+l. Se ha justificado el trabajo conjunto en la construcción de una plantilla o equipo, del técnico y la dirección deportiva.
+
+2\. Demuestra las competencias profesionales propias del técnico de la etapa de alto rendimiento, analizando el contexto profesional del baloncesto, los valores necesarios para su formación continua, y aplicando procedimientos de comunicación con los medios y de creación de una marca personal.
+
+a. Se han analizado las competencias que debe mostrar el técnico en la etapa de alto rendimiento.
+
+b. Se han demostrado habilidades propias del entrenador de baloncesto, en supuestos debidamente caracterizados en la etapa de alto rendimiento.
+
+c. Se han argumentado los valores necesarios para la adquisición de conocimientos y mejora permanente como técnicos en la etapa de alto rendimiento.
+
+d. Se ha argumentado cómo debe ser la relación con los medios de comunicación en la etapa de alto rendimiento en el deporte profesional.
+
+e. Se han esquematizado la formación oficial de los técnicos deportivos.
+
+f. Se han analizado los procesos de innovación aplicados al desarrollo y mejora del alto rendimiento en baloncesto.
+
+g. Se han explicado las peculiaridades del deporte profesional y de la profesionalidad del técnico: estructuras, contratos y agencias.
+
+h. Se han diseñado rutas simuladas para la búsqueda de empleo como técnico de baloncesto.
+
+i. Se ha argumentado la necesidad de cuidar la imagen del técnico en el alto rendimiento.
+
+j. Se han explicado las funciones del seleccionador/entrenador y su representación institucional.
+
+k. Se ha diseñado una marca de entrenador propia utilizando las tecnologías de la información y la comunicación (TIC).
+
+l. Se ha valorado de forma comparada diferentes imágenes de entrenadores profesionales.
+
+m. Se ha justificado la utilidad del asesoramiento personal o coaching para el crecimiento del entrenador.
+
+3\. Gestiona el rendimiento de un equipo en un partido y/o competición, y coordina el trabajo del equipo técnico multidisciplinar durante el encuentro, empleando la terminología específica en inglés, aplicando estrategias en la toma de decisiones, en el control emocional y en el liderazgo del equipo en la etapa de alto rendimiento.
+
+a. Se han compilado las directrices más importantes para la gestión del rendimiento del equipo en partidos en la etapa de alto rendimiento.
+
+b. Se han diseñado de forma justificada las responsabilidades de cada miembro del equipo técnico en un partido en el alto rendimiento.
+
+c. Se ha argumentado cómo influyen los resultados en las dinámicas de los equipos en el alto rendimiento.
+
+d. Se han expresado conceptos específicos del alto rendimiento con un alto dominio del lenguaje específico de baloncesto.
+
+e. Se han expresado y comprendido frases íntegras en inglés con conceptos específicos baloncesto de alto rendimiento.
+
+f. Se han escogido y justificado decisiones, de entre varias propuestas, en situaciones simuladas de baloncesto en la etapa de alto rendimiento, donde aparezcan -entre otros- conceptos de autoridad y coherencia buscando la máxima eficacia.
+
+g. Se han demostrado gestos de liderazgo y control de estrés, en situaciones simuladas de partido.
+
+h. Se han elegido, de forma justificada, estrategias de afrontamiento de la derrota y la victoria post-partido, así como la gestión mediática del resultado tras un partido en el alto rendimiento.
+
+i. Se ha evaluado el comportamiento de los técnicos en diferentes tiempos muertos propuestos en competiciones de alto rendimiento.
+
+j. Se han diseñado las rotaciones previstas de un equipo en un partido simulado, teniendo en cuenta consideraciones propias del baloncesto de alto rendimiento.
+
+k. Se ha fundamentado la importancia del concepto basket-average en competiciones de alto rendimiento.
+
+4\. Dirige y coordina el trabajo del ««scouter»» o de los miembros del equipo técnico destinados a ello, mediante la utilización de herramientas específicas de tratamiento de la información multimedia en baloncesto.
+
+a. Se han explicado las características del «scouting» avanzado en equipos de alto rendimiento.
+
+b. Se ha estructurado el «scouting» del propio equipo y sus elementos más importantes en la etapa de alto rendimiento.
+
+c. Se ha estructurado el «scouting» del rival y sus elementos más importantes en la etapa de alto rendimiento.
+
+d. Se ha dirigido a un equipo técnico para hacer «scouting», en un supuesto práctico debidamente caracterizado.
+
+e. Se han desglosado las funciones del «scouter» en un equipo o club de alto rendimiento.
+
+f. Se han comparado herramientas específicas de «scouting» para el alto rendimiento.
+
+g. Se ha manejado una herramienta específica de «scouting» para el alto rendimiento propuesta, consiguiendo solucionar de forma autónoma un supuesto debidamente caracterizado.
+
+h. Se ha justificado la importancia del estudio de los rivales para una mejor eficacia en los equipos de la etapa de alto rendimiento.
+
+i. Se han comparado diversos «scouting» sobre un mismo equipo en la etapa de alto rendimiento y evaluado su calidad técnica.
+
+j. Se ha valorado la figura del «scouter» dentro de un club de alto rendimiento o selección.
+
+5\. Participa en la gestión técnica de clubes de baloncesto de alto rendimiento, demostrando conocimientos organizacionales de la estructura deportiva del club, elaborando programas de referencia para los equipos de categorías inferiores en base al proyecto deportivo del club, y colaborando en la formación de los técnicos de esos equipos aportando conocimientos específicos de baloncesto para su mejora permanente.
+
+a. Se han formulado los elementos que diferencian a un club amateur de un club de alto rendimiento.
+
+b. Se han estructurado los elementos que conforman la gestión técnica de clubes de alto rendimiento de baloncesto.
+
+c. Se ha definido la estructura organizativa estándar de un club de alto rendimiento.
+
+d. Se ha diseñado un programa de referencia para los equipos de categorías inferiores de un club, a partir de un supuesto debidamente caracterizado.
+
+e. Se ha analizado el proyecto deportivo de un supuesto club debidamente caracterizado, definiendo el programa de referencia de los equipos de categorías inferiores del mismo club.
+
+f. Se han comparado varios programas de referencia de categorías inferiores de diferentes clubes.
+
+g. Se ha creado el proyecto deportivo de un club de alto rendimiento a partir de unas premisas dadas.
+
+h. Se ha generado un programa de formación permanente de los técnicos de un club, en un supuesto práctico.
+
+i. Se ha justificado la importancia de la formación de los técnicos de un club para su desarrollo y crecimiento.
+
+6\. Participa en la organización de eventos de alto rendimiento, analizando la estructura de los diferentes modelos de eventos de este nivel, la estructura de las federaciones de baloncesto y de los distintos campeonatos existentes.
+
+a. Se han especificado las necesidades en la organización de un evento de alto rendimiento.
+
+b. Se han diseñado estructuralmente eventos de alto rendimiento, a partir de un supuesto debidamente caracterizado.
+
+c. Se han comparado diversos modelos de eventos, justificando sus similitudes y diferencias.
+
+d. Se ha desglosado la estructura competitiva completa de las Federaciones Autonómicas y de la Federación Española de Baloncesto.
+
+e. Se han comparado los distintos campeonatos de selecciones y clubes, expresando las características organizativas de los mismos.
+
+f. Se han formulado los protocolos de organización de un evento de baloncesto de alto rendimiento.
+
+g. Se han especificado los recursos necesarios en la organización de un evento de baloncesto de alto rendimiento, a partir de un supuesto debidamente caracterizado.
+
+h. Se han resuelto los problemas de organización de un supuesto práctico debidamente caracterizado de un evento de baloncesto de alto rendimiento.
+
+i. Se han especificado los actos protocolarios en un partido de selecciones o un evento internacional, y el comportamiento del entrenador y del equipo.
+
+j. Se ha justificado la necesidad de patrocinar el baloncesto y sus oportunidades.
+
+k. Se ha valorado la importancia del baloncesto de alto rendimiento como oferta de consumo de ocio.
+
+l. Se ha valorado la difusión del baloncesto de alto rendimiento como oferta en los medios de comunicación de consumo.
+
+m. Se ha valorado la importancia de la rentabilidad socio-económica del baloncesto en la etapa de alto rendimiento.
+
+7\. Participa como técnico en el desarrollo reglamentario de un partido de alto rendimiento, conociendo reglas, procedimientos e interpretaciones en distintas competiciones de esta etapa, justificando la necesidad de respetar y comprender las decisiones de los jueces.
+
+a. Se han formulado las normas aplicables en diversas situaciones de juego presentadas de baloncesto en el alto rendimiento.
+
+b. Se han narrado a partir del visionado de un partido de baloncesto de alto rendimiento, los procedimientos y mecánicas arbitrales presenciadas.
+
+c. Se han diferenciado las funciones de los distintos árbitros y jueces de mesa presentes en un partido de baloncesto de alto rendimiento.
+
+d. Se han enunciado las últimas interpretaciones del reglamento de baloncesto que se hagan por parte de los organismos competentes.
+
+e. Se han juzgado desde el punto de vista del reglamento, una serie de acciones de partido presentadas.
+
+f. Se han juzgado la actuación de técnicos, en partidos visualizados, en lo referente al respeto y comprensión del reglamento y de las decisiones arbitrales.
+
+g. Se ha valorado la dificultad de la toma de decisiones arbitrales en situaciones de juego real en el alto rendimiento.
+
+h. Se han comparado las reglas de juego e interpretaciones arbitrales en diferentes competiciones en el alto rendimiento.
+
+i. Se han argumentado acciones del técnico que permiten mostrar el respeto por el reglamento y los jueces que cuidan de su cumplimiento.
+
+Contenidos básicos
+
+1\. Construye y lidera un equipo de alto rendimiento analizando la estructura y los criterios de composición de los equipos de esta etapa, y aplicando dinámicas de grupo avanzadas y distribución de roles.
+
+– Estructura de equipos en la etapa de alto rendimiento.
+
+– Posiciones de juego.
+
+– Necesidades según competiciones.
+
+– Construcción de plantillas de clubes o selecciones.
+
+– Objetivos y condicionantes.
+
+– Estructuras de plantillas: modelos y ejemplos.
+
+– Selección de jugadores.
+
+– Informes de jugadores: elaboración, análisis e interpretación.
+
+– Exigencias en el puesto de base en el alto rendimiento.
+
+– Exigencias en el puesto de escolta en el alto rendimiento.
+
+– Exigencias en el puesto de alero en el alto rendimiento.
+
+– Exigencias en el puesto de ala-pívot en el alto rendimiento.
+
+– Exigencias en el puesto de pívot en el alto rendimiento.
+
+– Entrenador jefe.
+
+– Definición.
+
+– Funciones.
+
+– Dirección del grupo-equipo.
+
+– Dirección del entrenamiento del equipo.
+
+– Dirección del partido.
+
+– Relaciones con la prensa.
+
+– Relaciones con la directiva.
+
+– Otras.
+
+– Equipo técnico multidisciplinar: roles y funciones.
+
+– Equipos técnicos de clubes.
+
+– Equipos técnicos de selecciones.
+
+– Dirección deportiva.
+
+– Funciones en el alto rendimiento.
+
+– Relaciones con el técnico.
+
+– Relaciones con el equipo técnico multidisciplinar.
+
+– Relaciones con la plantilla.
+
+– Gestión de equipos de alto rendimiento.
+
+– Relaciones de los componentes del equipo técnico.
+
+– Dinámicas de grupo.
+
+– Resolución de problemas.
+
+– Afrontar soluciones.
+
+– Presión externa.
+
+– Distribución de roles.
+
+– Reglamento interno de equipos de alto rendimiento.
+
+2\. Demuestra las competencias profesionales propias del técnico de la etapa de alto rendimiento, analizando el contexto profesional del baloncesto, los valores necesarios para su formación continua, y aplicando procedimientos de comunicación con los medios y de creación de una marca personal.
+
+– Competencias del entrenador de baloncesto en el alto rendimiento.
+
+– Competencia comunicativa en el alto rendimiento.
+
+– Competencia pedagógica en el alto rendimiento.
+
+– Competencia directiva y gestora en el alto rendimiento.
+
+– Competencia en conocimientos del juego y científicos en el alto rendimiento.
+
+– Competencia social y en valores.
+
+– Competencia en aprender a aprender.
+
+– Habilidades del técnico en el alto rendimiento.
+
+– Liderazgo profesional.
+
+– Expresión oral y escucha.
+
+– Lenguaje no verbal.
+
+– Adaptación y flexibilidad.
+
+– Valores y ética del técnico en el alto rendimiento.
+
+– Aprendizaje permanente.
+
+– Técnico y medios de comunicación en el alto rendimiento.
+
+– Titulaciones deportivas.
+
+– La innovación.
+
+– La innovación.
+
+– Procesos aplicados al baloncesto.
+
+– Deporte profesional.
+
+– Profesionalidad del técnico.
+
+– Estructuras profesionales en el baloncesto.
+
+– Contratos de entrenadores.
+
+– Agencias de contratación y asesoramiento.
+
+– Empleo en el baloncesto.
+
+– Conceptos.
+
+– Procedimientos de búsqueda.
+
+– Imagen del técnico.
+
+– Elementos externos.
+
+– Elementos internos.
+
+– Especificaciones de seleccionador.
+
+– Representación institucional como seleccionador.
+
+– Estudio de casos.
+
+– Marca entrenador.
+
+– Elementos estructurales.
+
+– Creación de marca. Utilización de las tecnologías de la información y la comunicación (TIC).
+
+– Componentes virtuales.
+
+– Componentes presenciales.
+
+– Estudio de casos.
+
+– Asesoramiento personal o coaching.
+
+– Conceptos.
+
+– Proceso.
+
+– Herramientas.
+
+3\. Gestiona el rendimiento de un equipo en un partido y/o competición, y coordina el trabajo del equipo técnico multidisciplinar durante el encuentro, empleando la terminología específica en inglés, aplicando estrategias en la toma de decisiones, en el control emocional y en el liderazgo del equipo en la etapa de alto rendimiento.
+
+– Gestión del rendimiento de un equipo en partido y/o competición.
+
+– Diseño del «walkthrough» del partido.
+
+– Trabajo en el vestuario.
+
+– Gestión de los roles.
+
+– Planes alternativos.
+
+– Gestión de situaciones finales de partido.
+
+– Análisis del rendimiento post-partido.
+
+– Coordinación del equipo técnico.
+
+– Asignación de roles por puestos.
+
+– Funciones de cada rol en partido y/o competición.
+
+– Resultados en el alto rendimiento.
+
+– Influencias en los equipos.
+
+– Influencias en los cargos directivos.
+
+– Influencias en la afición.
+
+– Conceptos específicos de baloncesto en el alto rendimiento.
+
+– Nomenclatura específica.
+
+– Conceptos y combinaciones.
+
+– Terminología de baloncesto en inglés en el alto rendimiento.
+
+– Frases y construcciones.
+
+– Eficacia en la toma de decisiones en partido en el alto rendimiento.
+
+– Valores asociados a la toma de decisiones.
+
+– Autoridad.
+
+– Coherencia.
+
+– Liderazgo.
+
+– Control del estrés.
+
+– Gestión de la comunicación en los tiempos muertos.
+
+– Relación de los cambios del quinteto y el máximo rendimiento.
+
+– Rotaciones en partido según tipo de competición.
+
+– Rotaciones en competiciones regulares (ligas).
+
+– Rotaciones en competiciones de playoffs.
+
+– Rotaciones en competiciones de eliminatoria (final four o finales).
+
+– Control del basket-average.
+
+– Evaluación de la eficacia de la toma de decisiones en partido.
+
+– Gestión mediática del partido.
+
+– Victoria o derrota.
+
+4\. Dirige y coordina el trabajo del ««scouter»» o de los miembros del equipo técnico destinados a ello, mediante la utilización de herramientas específicas de tratamiento de la información multimedia en baloncesto.
+
+– «scouting» en el alto rendimiento.
+
+– Características.
+
+– «scouting» propio, estructura.
+
+– «scouting» del rival, estructura.
+
+– Trabajo de «scouting» colectivo.
+
+– Equipo técnico especialista.
+
+– Información previa.
+
+– Preparación del partido.
+
+– Elaboración de montajes e informes.
+
+– Prever situaciones.
+
+– Concepto «caballo de troya».
+
+– «Scouter».
+
+– Funciones en el alto rendimiento.
+
+– Habilidades necesarias.
+
+– Herramientas específicas de «scouting» para el alto rendimiento.
+
+– Aplicaciones específicas de baloncesto para la edición de movimientos tácticos.
+
+– Aplicaciones específicas para la edición de video en baloncesto.
+
+– Gestores integrales de intercambio de información de jugadores y equipos.
+
+5\. Participa en la gestión técnica de clubes de baloncesto de alto rendimiento, demostrando conocimientos organizacionales de la estructura deportiva del club, elaborando programas de referencia para los equipos de categorías inferiores en base al proyecto deportivo del club, y colaborando en la formación de los técnicos de esos equipos aportando conocimientos específicos de baloncesto para su mejora permanente.
+
+– Clubes de alto rendimiento.
+
+– Estructura organizativa.
+
+– Diferencias con el club amateur.
+
+– Gestión técnica de clubes.
+
+– Proyecto deportivo de club.
+
+– Estructura.
+
+– Programas de referencia para los equipos de categorías inferiores.
+
+– Programa de formación permanente de técnicos.
+
+– Creación de un proyecto deportivo de club.
+
+6\. Participa en la organización de eventos de alto rendimiento, analizando la estructura de los diferentes modelos de eventos de este nivel, la estructura de las federaciones de baloncesto y de los distintos campeonatos existentes.
+
+– Eventos de baloncesto en el alto rendimiento.
+
+– Necesidades de un evento.
+
+– Diseño estructural de eventos.
+
+– Fases de la organización de un evento.
+
+– Colaboración en eventos.
+
+– Modelos de eventos.
+
+– Estructura competitiva federativa y de clubes.
+
+– Estructura de competiciones de clubes de alto rendimiento.
+
+– Tipos de calendarios y competiciones. Sorteos.
+
+– Diferencias entre competiciones de clubes y selecciones.
+
+– Competiciones de las Federaciones Autonómicas de Baloncesto.
+
+– Competiciones de la Federación Española de Baloncesto (FEB).
+
+– Competiciones de la Federación Internacional de Baloncesto (FIBA).
+
+– Comparativa organizativa entre eventos de clubes y eventos de selecciones.
+
+– Organización y participación en eventos.
+
+– Protocolos de funcionamiento.
+
+– Gestión de recursos.
+
+– Resolución de problemas organizativos.
+
+– Gestión logística.
+
+– Representación institucional del técnico de baloncesto.
+
+– Protocolos institucionales en campeonatos.
+
+– Baloncesto como deporte de masas.
+
+– Baloncesto como espectáculo.
+
+– Baloncesto y consumo de ocio.
+
+– Baloncesto y patrocinio.
+
+– Baloncesto y medios de comunicación de consumo.
+
+– Baloncesto y rentabilidad.
+
+7\. Participa como técnico en el desarrollo reglamentario de un partido de alto rendimiento, conociendo reglas, procedimientos e interpretaciones en distintas competiciones de esta etapa, justificando la necesidad de respetar y comprender las decisiones de los jueces.
+
+– Articulado del reglamento oficial de baloncesto para el alto rendimiento.
+
+– Procedimientos y mecánicas arbitrales en el alto rendimiento.
+
+– Árbitros y jueces en el alto rendimiento.
+
+– Número de árbitros y jueces disponibles según competición.
+
+– Funciones de los árbitros y jueces según su rol.
+
+– Toma de decisiones arbitrales en partidos.
+
+– Interpretaciones del reglamento actualizadas.
+
+– Interpretaciones oficiales.
+
+– Interpretaciones arbitrales según competiciones.
+
+– Variaciones de las reglas según competiciones.
+
+– Entrenadores: comprensión y respeto de las reglas.
+
+– Análisis de situaciones de juego en el alto rendimiento.
+
+> Se numera como Anexo II.g por el art. 7.2.g) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.h — Módulo específico de enseñanza deportiva: Entrenamiento de alto rendimiento en baloncesto
+
+Código: MED-BCBC303
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Planifica la temporada de baloncesto en un equipo de alto rendimiento, analizando las características de la programación individual y colectiva a corto, medio, largo plazo y los periodos que las integran, eligiendo los procedimientos de determinación de objetivos, medios, metodología y evaluación, y categorizando las cargas específicas que se utilizan en él.
+
+a. Se han explicado los elementos que conforman la planificación de una temporada de baloncesto en el alto rendimiento y sus mecanismos de control.
+
+b. Se han argumentado las características de los diferentes períodos de una temporada en baloncesto.
+
+c. Se han argumentado los procedimientos de determinación de objetivos, medios, metodología y evaluación de los programas de entrenamiento, a corto, medio y largo plazo, para uno o varios jugadores.
+
+d. Se ha diseñado o modificado un programa individual de desarrollo global o específico (técnico, físico, psicológico o táctico), de un jugador de alto rendimiento propuesto, a partir de unas características definidas.
+
+e. Se han comparado los ciclos de trabajo en la temporada de un equipo de baloncesto en función de los objetivos competitivos.
+
+f. Se han seleccionado las cargas propias de cada momento de la temporada según los objetivos marcados.
+
+g. Se ha rectificado la planificación en un supuesto práctico, a partir de unas condiciones modificadas sobre las iniciales previstas.
+
+h. Se ha diferenciado la planificación de una temporada y la de un campeonato, analizando sus componentes y ciclos de trabajo.
+
+i. Se ha seleccionado instrumentos de evaluación de los programas individuales y colectivos.
+
+j. Se ha valorado el trabajo del equipo técnico multidisciplinar en la elaboración de la planificación de la temporada de un equipo de baloncesto.
+
+k. Se ha documentado la importancia de la puesta en marcha de programas individuales como herramienta para acelerar el progreso del jugador de baloncesto.
+
+2\. Programa, dirige y evalúa la condición física en la etapa de alto rendimiento, analizando las necesidades de intervención de otros especialistas y justificando las características de los medios y métodos de entrenamiento de las distintas capacidades físicas, a las demandas del alto rendimiento.
+
+a. Se ha explicado el perfil físico del jugador en el alto rendimiento según la posición de juego.
+
+b. Se han relacionado los objetivos del entrenamiento de la condición física del jugador de baloncesto en el alto rendimiento a la planificación y programación de referencia.
+
+c. Se han explicado las exigencias del nivel de condición física del jugador, teniendo en cuenta las características del baloncesto en el alto rendimiento.
+
+d. Se han explicado las funciones de los diferentes especialistas del equipo biomédico en el trabajo de readaptación del jugador según la lesión o patología producida.
+
+e. Se han expuesto las características de los medios, métodos de entrenamiento y sistemas de valoración de la condición física, y sus distintas capacidades, en el baloncesto de alto rendimiento.
+
+f. Se ha diseñado un ciclo de entrenamiento en baloncesto, argumentando el desarrollo de la condición física del jugador, concretando objetivos, medios, métodos, y evaluación, tanto del programa como del jugador.
+
+g. Se han analizado los errores más frecuentes en los programas de trabajo de la condición física del jugador de baloncesto en el alto rendimiento, valorando las causas y estableciendo propuestas de solución.
+
+h. Se han seleccionado instrumentos de evaluación de la condición física del jugador de baloncesto en la etapa de alto rendimiento.
+
+i. Se han generado tareas de desarrollo de la condición física del jugador de baloncesto en la etapa de alto rendimiento.
+
+j. Se han medido los resultados ofrecidos por los jugadores de baloncesto de un equipo de alto rendimiento, en cuanto al desarrollo de la condición física y de sus distintas capacidades, tanto en entrenamiento como en competición.
+
+k. Se han argumentado los medios de individualización del entrenamiento de la condición física en un equipo de baloncesto de alto rendimiento.
+
+l. Se ha argumentado la importancia de una buena coordinación de los técnicos y del equipo biomédico en el proceso de prevención, diagnóstico, recuperación y reentrenamiento para lograr el mejor y más pronto rendimiento del jugador tras una lesión o patología sufrida.
+
+3\. Diseña y dirige sesiones de entrenamiento colectivas e individuales para equipos o jugadores en la etapa de alto rendimiento, fundamentando los objetivos en este nivel, categorizando la complejidad, dificultad y carga de las tareas propias de este nivel y las variables que la modifican.
+
+a. Se han presentado las funciones de un equipo técnico multidisciplinar en una sesión de entrenamiento en la etapa de alto rendimiento y distribuido las mismas ante una sesión propuesta.
+
+b. Se ha analizado las diferencias entre las sesiones de entrenamiento según las etapas de progresión de los jugadores de alto rendimiento.
+
+c. Se ha fundamentado las variables que modifican las tareas de entrenamiento en la etapa de alto rendimiento.
+
+d. Se ha diseñado tareas en un supuesto práctico de sesión de un equipo en la etapa de alto rendimiento.
+
+e. Se ha generado una sesión de entrenamiento de un equipo de alto rendimiento en función de unos condicionantes definidos.
+
+f. Se ha generado una sesión de entrenamiento individual de un jugador de alto rendimiento en función de unos condicionantes definidos.
+
+g. Se ha modificado una sesión de entrenamiento, a partir de una situación indicada que altera las condiciones iniciales previstas.
+
+h. Se han argumentado propuestas de resolución de las contingencias que puedan surgir durante una sesión de entrenamiento en la etapa de alto rendimiento.
+
+i. Se han formulado técnicas de dinamización, control y observación de las sesiones de entrenamiento en la etapa de alto rendimiento.
+
+j. Se han analizado las variables que modifican las tareas en el alto rendimiento.
+
+k. Se ha construido una sesión que cumple la propuesta de carga prevista dentro de un microciclo definido de un equipo en la etapa de alto rendimiento.
+
+l. Se ha debatido sobre la improvisación en el diseño de sesiones y tareas en la etapa de alto rendimiento, y sus efectos en el logro del máximo rendimiento posible.
+
+m. Se ha valorado la eficacia de la dirección, organización y evaluación de la sesión de entrenamiento en cuanto al grado de cumplimiento de los objetivos propuestos.
+
+Contenidos básicos
+
+1\. Planifica la temporada de baloncesto en un equipo de alto rendimiento, analizando las características de la programación individual y colectiva a corto, medio, largo plazo y los periodos que las integran, eligiendo los procedimientos de determinación de objetivos, medios, metodología y evaluación, y categorizando las cargas específicas que se utilizan en él.
+
+– Planificación en baloncesto.
+
+– Elementos que la componen.
+
+– Influencias en la planificación en el alto rendimiento.
+
+– El trabajo del equipo técnico multidisciplinar en la planificación.
+
+– Diseño de objetivos.
+
+– Tipos de Planificación.
+
+– Planificación de temporada.
+
+– Estudio del calendario.
+
+– Pretemporada.
+
+– Elección de rivales.
+
+– Temporada o Fase regular.
+
+– Playoffs o fase final.
+
+– Postemporada.
+
+– Planificación de campeonato.
+
+– Concentraciones.
+
+– Campeonato.
+
+– Mecanismos de control del proceso de planificación.
+
+– Condicionantes del entorno.
+
+– Condicionantes de un equipo.
+
+– Recursos e instalaciones.
+
+– Otros condicionantes.
+
+– Condicionantes de los miembros del equipo.
+
+– Características y condiciones de los jugadores.
+
+– Programación.
+
+– Tipos de programación.
+
+– Programación a largo plazo.
+
+– Programación a medio plazo.
+
+– Programación a corto plazo.
+
+– Programación individual.
+
+– Estructura de la programación individual.
+
+– Programas individuales de desarrollo global del jugador.
+
+– Programas individuales de desarrollo específico del jugador.
+
+– Programas de desarrollo técnico.
+
+– Programas de desarrollo táctico.
+
+– Programas de desarrollo físico.
+
+– Programas de desarrollo psicológico.
+
+– Integración con la programación colectiva.
+
+– Programación colectiva.
+
+– Elementos de la programación.
+
+– Objetivos.
+
+– Medios.
+
+– Metodología.
+
+– Evaluación del programa y del deportista o equipo.
+
+– Instrumentos de evaluación.
+
+– Procedimientos para determinar elementos de la programación.
+
+– Carga de entrenamiento en el alto rendimiento.
+
+– Planificación de cargas.
+
+– Modelo de propuesta de valoración de cargas.
+
+– Las cargas en los ciclos de entrenamiento.
+
+– Ciclos de entrenamiento en el alto rendimiento.
+
+– Especificidades.
+
+2\. Programa, dirige y evalúa la condición física en la etapa de alto rendimiento, analizando las necesidades de intervención de otros especialistas y justificando las características de los medios y métodos de entrenamiento de las distintas capacidades físicas, a las demandas del alto rendimiento.
+
+– Perfiles físicos del jugador de la etapa de alto rendimiento.
+
+– Jugador en posiciones exteriores.
+
+– Jugador en posiciones interiores.
+
+– Entrenamiento de la condición física.
+
+– Objetivos en el alto rendimiento.
+
+– Condicionantes de la planificación y de la programación.
+
+– Condición física en baloncesto en el alto rendimiento.
+
+– Requerimientos y necesidades del base.
+
+– Requerimientos y necesidades del alero.
+
+– Requerimientos y necesidades del pívot.
+
+– Proceso de integración al entrenamiento colectivo.
+
+– Equipo biomédico en equipos de alto rendimiento.
+
+– Componentes y funciones.
+
+– Médico.
+
+– Fisioterapeuta.
+
+– Preparador Físico.
+
+– Psicólogo.
+
+– Nutricionista.
+
+– Fisiólogo.
+
+– Individualización del entrenamiento de la condición física en el alto rendimiento.
+
+– Bases y características del programa de entrenamiento individualizado.
+
+– Entrenamiento de las capacidades físicas en baloncesto de alto rendimiento.
+
+– Las capacidades físicas en baloncesto.
+
+– Entrenamiento de la resistencia en baloncesto de alto rendimiento.
+
+– Medios y métodos.
+
+– Método continuo.
+
+– Métodos fraccionados.
+
+– Sistemas de valoración y control.
+
+– Sistemas de valoración.
+
+– Sistemas de control.
+
+– Entrenamiento de la fuerza en baloncesto de alto rendimiento.
+
+– Medios y métodos.
+
+– Sistemas de control y valoración.
+
+– Entrenamiento de la velocidad en baloncesto de alto rendimiento.
+
+– Medios y métodos.
+
+– Sistemas de valoración y control.
+
+– Entrenamiento de la flexibilidad en baloncesto de alto rendimiento.
+
+– Medios y métodos.
+
+– Sistemas de valoración y control.
+
+– Ciclos de entrenamiento de la condición física en el alto rendimiento.
+
+– Características propias del baloncesto.
+
+– Condicionantes.
+
+– Errores en los programas de desarrollo de la condición física en el alto rendimiento.
+
+– Causas.
+
+– Propuestas de solución.
+
+– Evaluación de los programas de desarrollo de la condición física en el alto rendimiento.
+
+– Instrumentos de evaluación.
+
+– Herramientas de recogida de información.
+
+– Evaluación según rendimiento.
+
+– En competición.
+
+– En entrenamiento.
+
+– Tareas para desarrollar la condición física en el alto rendimiento.
+
+– Características.
+
+– Condicionantes.
+
+3\. Diseña y dirige sesiones de entrenamiento colectivas e individuales para equipos o jugadores en la etapa de alto rendimiento, fundamentando los objetivos en este nivel, categorizando la complejidad, dificultad y carga de las tareas propias de este nivel y las variables que la modifican.
+
+– La sesión de entrenamiento en baloncesto en la etapa de rendimiento.
+
+– Diferencias entre la sesión de entrenamiento según las etapas de progresión del jugador.
+
+– Tipos de sesiones en baloncesto para la etapa de rendimiento.
+
+– Según el número de participantes.
+
+– Sesiones de entrenamiento individuales.
+
+– Sesiones de entrenamiento colectivo.
+
+– Según el momento del microciclo.
+
+– Sesiones iniciales.
+
+– Sesiones de preparación.
+
+– Sesiones prepartido.
+
+– Sesiones post-partido.
+
+– Distribución de sesiones de entrenamiento en un microciclo en la etapa de alto rendimiento.
+
+– Sesiones dobles diarias.
+
+– Sesiones únicas diarias.
+
+– Propuestas y ejemplos de distribución.
+
+– La disposición de la carga en la sesión de entrenamiento en la etapa de alto rendimiento.
+
+– Evaluación de las sesiones en el alto rendimiento.
+
+– Procedimientos de observación.
+
+– Herramientas de recogida de información.
+
+– Instrumentos de evaluación.
+
+– Dirección de sesiones en la etapa de rendimiento.
+
+– Dinamización y coordinación de sesiones en el alto rendimiento.
+
+– El equipo técnico en la organización de sesiones.
+
+– Funciones.
+
+– Posicionamiento.
+
+– Contingencias durante las sesiones.
+
+– Tipos de contingencias en el alto rendimiento.
+
+– Propuestas de resolución.
+
+– Tareas complejas para la etapa de rendimiento.
+
+– Variables que modifican las tareas en la etapa de alto rendimiento.
+
+> Se numera como Anexo II.h por el art. 7.2.h) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.i — Módulo específico de enseñanza deportiva: Táctica de ataque y defensa en la etapa de alto rendimiento
+
+Código: MED-BCBC304
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Diseña el juego dinámico, a partir de la evaluación de su rendimiento en situaciones de partido, fundamentando el modelo de juego según las características de los jugadores, aplicando técnicas y estrategias de detección y corrección de errores, así como de elaboración de tareas de entrenamiento.
+
+a. Se han categorizado las diferentes propuestas de juego dinámico en la etapa de alto rendimiento, determinando su eficacia y puntos fuertes.
+
+b. Se ha argumentado la evolución histórica del juego dinámico.
+
+c. Se han explicado los conceptos y características del juego dinámico ofensivo y del defensivo.
+
+d. Se ha juzgado la idoneidad de los conceptos aplicados en un supuesto práctico de un juego de dinámico propuesto, en función de las características de los jugadores que lo realizan.
+
+e. Se han seleccionado de forma justificada conceptos tácticos-estratégicos del juego dinámico en la etapa de alto rendimiento en un supuesto práctico que establezca las características de los jugadores.
+
+f. Se ha evaluado la ejecución de una propuesta de juego dinámico en la etapa de alto rendimiento, identificando los errores, las causas de los mismos, y eligiendo la estrategia de corrección a utilizar.
+
+g. Se ha diseñado gráficamente una propuesta de juego dinámico ofensivo en la etapa de alto rendimiento con variantes en función de las respuestas defensivas.
+
+h. Se ha presentado una propuesta de juego dinámico defensivo en la etapa de alto rendimiento a partir de una serie de acciones ofensivas.
+
+i. Se han comparado diferentes propuestas clásicas reconocidas de juego dinámico en etapas de alto rendimiento, relacionándolas con distintos tipos de jugadores.
+
+j. Se han diseñado tareas de entrenamiento del juego dinámico en la etapa de alto rendimiento, describiendo los criterios y los indicadores de evaluación utilizados.
+
+k. Se ha justificado la necesidad de potenciar el juego dinámico en la etapa de alto rendimiento para fomentar el espectáculo del baloncesto.
+
+2\. Diseña el juego posicional, a partir de la evaluación de su rendimiento en situaciones de partido, fundamentando el modelo de juego según las características de los jugadores, aplicando técnicas y estrategias de detección y corrección de errores, así como de elaboración de tareas de entrenamiento.
+
+a. Se han explicado las diferentes propuestas de juego posicional en la etapa de alto rendimiento, determinando su eficacia y puntos fuertes.
+
+b. Se ha argumentado la evolución histórica del juego posicional.
+
+c. Se han explicado los conceptos y características del juego posicional ofensivo y del defensivo.
+
+d. Se ha juzgado la idoneidad de los conceptos aplicados en un supuesto práctico de un juego de posicional propuesto, en función de las características de los jugadores que lo realizan.
+
+e. Se han seleccionado de forma justificada conceptos tácticos-estratégicos del juego posicional en la etapa de alto rendimiento a partir de unos jugadores propuestos, buscando la máxima eficacia de los mismos.
+
+f. Se han reconocido los errores presentes en una propuesta de juego posicional en la etapa de alto rendimiento, verificadas las causas de los mismos y trazadas las estrategias de corrección utilizables.
+
+g. Se ha formulado gráficamente una propuesta de juego posicional ofensivo en la etapa de alto rendimiento con variantes en función de las respuestas defensivas.
+
+h. Se ha presentado una propuesta de juego posicional defensivo en la etapa de alto rendimiento a partir de una serie de acciones ofensivas.
+
+i. Se han argumentado respuestas defensivas a situaciones de juego ofensivo posicional, buscando reducir la eficacia del mismo y sus posibilidades de éxito.
+
+j. Se han comparado diferentes propuestas clásicas reconocidas de juego posicional en etapas de alto rendimiento, relacionándolas con distintos tipos de jugadores.
+
+k. Se han diseñado tareas de entrenamiento del juego posicional en la etapa de alto rendimiento, describiendo los criterios y los indicadores de evaluación que se utilizarán.
+
+l. Se ha debatido la importancia de diseñar el juego posicional a partir del talento de los jugadores en la etapa de alto rendimiento para fomentar su protagonismo en el juego.
+
+3\. Diseña el juego de espacios, a partir de la evaluación de su rendimiento en situaciones de partido, fundamentando el modelo de juego según las características de los jugadores, aplicando técnicas y estrategias de detección y corrección de errores, así como de elaboración de tareas de entrenamiento.
+
+a. Se han explicado diferentes propuestas de juego de espacios en la etapa de alto rendimiento, determinando su eficacia y puntos fuertes.
+
+b. Se ha argumentado la evolución histórica del juego de espacios.
+
+c. Se han explicado los conceptos y características del juego de espacios ofensivos y de la defensa de espacios.
+
+d. Se ha juzgado la idoneidad de los conceptos aplicados en un supuesto práctico de un juego de espacios propuesto, en función de las características de los jugadores que lo realizan.
+
+e. Se han seleccionado de forma justificada conceptos tácticos-estratégicos del juego de espacios en la etapa de alto rendimiento a partir de unos jugadores propuestos, buscando la máxima eficacia de los mismos.
+
+f. Se han reconocido los errores presentes en una propuesta de juego de espacios en la etapa de alto rendimiento, verificadas las causas de los mismos y trazadas las estrategias de corrección utilizables.
+
+g. Se ha formulado gráficamente una propuesta de juego de espacios defensivo en la etapa de alto rendimiento con variantes en función de las respuestas ofensivas.
+
+h. Se han argumentado respuestas ofensivas a situaciones de juego defensivo de espacios, buscando reducir la eficacia del mismo y sus posibilidades de éxito.
+
+i. Se han comparado diferentes propuestas clásicas reconocidas de juego de espacios en etapas de alto rendimiento, relacionándolas con distintos tipos de jugadores.
+
+j. Se ha presentado una propuesta de defensa de espacios en la etapa de alto rendimiento a partir de una serie de acciones ofensivas.
+
+k. Se han diseñado tareas de entrenamiento del juego de espacios en la etapa de alto rendimiento, describiendo los criterios y los indicadores de evaluación que se utilizarán.
+
+l. Se ha reconocido la importancia del juego de espacios en la etapa de alto rendimiento para plantear riquezas de propuestas tácticas en la táctica de un equipo.
+
+4\. Diseña otras formas de juego alternativas (defensas especiales y situaciones especiales condicionadas), a partir de la evaluación de su rendimiento en situaciones de partido, fundamentando el modelo de juego según las características de los jugadores, aplicando técnicas y estrategias de detección y corrección de errores, así como de elaboración de tareas de entrenamiento.
+
+a. Se han explicado diferentes propuestas de formas de juego en la etapa de alto rendimiento, determinando su eficacia y puntos fuertes.
+
+b. Se ha argumentado la evolución histórica de las formas de juego alternativas.
+
+c. Se han explicado los conceptos y características de estas formas de juego alternativas, tanto ofensivas como defensivas.
+
+d. Se ha juzgado la idoneidad de los conceptos aplicados en un supuesto práctico de un juego de alternativo propuesto, en función de las características de los jugadores que lo realizan.
+
+e. Se han seleccionado de forma justificada conceptos tácticos-estratégicos aplicados a formas de juego alternativas en la etapa de alto rendimiento a partir de unos jugadores propuestos, buscando la máxima eficacia de los mismos.
+
+f. Se han reconocido los errores presentes en una propuesta de juego alternativa en la etapa de alto rendimiento, verificadas las causas de los mismos y trazadas las estrategias de corrección utilizables.
+
+g. Se ha formulado gráficamente una propuesta de forma de juego defensivo alternativo en la etapa de alto rendimiento con variantes en función de las respuestas ofensivas.
+
+h. Se han argumentado respuestas ofensivas a situaciones de formas de juego defensivas alternativas, buscando reducir la eficacia del mismo y sus posibilidades de éxito.
+
+i. Se ha presentado una propuesta de juego defensivo alternativo en la etapa de alto rendimiento a partir de una serie de acciones ofensivas.
+
+j. Se han comparado diferentes propuestas de formas de juego alternativas en la etapa de alto rendimiento, relacionándolas con distintos tipos de jugadores.
+
+k. Se han diseñado tareas de entrenamiento de formas de juego alternativas en la etapa de alto rendimiento, describiendo los criterios y los indicadores de evaluación que se utilizarán.
+
+l. Se ha reconocido la importancia de desarrollar en un equipo, formas de juego alternativas en la etapa de alto rendimiento.
+
+Contenidos básicos
+
+1\. Diseña el juego dinámico, a partir de la evaluación de su rendimiento en situaciones de partido, fundamentando el modelo de juego según las características de los jugadores, aplicando técnicas y estrategias de detección y corrección de errores, así como de elaboración de tareas de entrenamiento.
+
+– El juego dinámico y su historia en el baloncesto profesional.
+
+– El juego dinámico y su relación con el espectáculo en baloncesto.
+
+– Características idóneas de los jugadores para un eficiente juego dinámico.
+
+– Juego dinámico ofensivo: conceptos.
+
+– Contraataque.
+
+– Espacios y momentos de inicio.
+
+– Disposición según número de jugadores, velocidades y desplazamientos.
+
+– Finalizaciones.
+
+– Seguir jugando.
+
+– Situaciones de 1×1 desde el exterior.
+
+– Situaciones de 2×2.
+
+– desde pick and roll.
+
+– de mano a mano.
+
+– juego con poste bajo.
+
+– Inversiones.
+
+– Transición.
+
+– Sistemas en transición.
+
+– Juego dinámico ofensivo a partir de respuestas defensivas.
+
+– Juego dinámico defensivo: conceptos.
+
+– Contraataque.
+
+– Responsabilidades individuales.
+
+– Ajustes y desajustes.
+
+– Seguir defendiendo.
+
+– Defensa del 1×1.
+
+– Defensa del «pick and roll».
+
+– Defensa de espacios.
+
+– Defensa de poste bajo.
+
+– Defensa de inicio de ataque posicional.
+
+– Juego dinámico defensivo a partir de acciones ofensivas.
+
+– Diseño y creación de tareas de entrenamiento del juego dinámico en la etapa de tecnificación.
+
+– Errores más frecuentes en el diseño del juego dinámico en equipos en la etapa de tecnificación y estrategias de corrección en esta etapa.
+
+– Diseño de juego dinámico para un equipo en etapa de alto rendimiento.
+
+– Evaluación del juego dinámico según criterios de eficacia y eficiencia.
+
+2\. Diseña el juego posicional, a partir de la evaluación de su rendimiento en situaciones de partido, fundamentando el modelo de juego según las características de los jugadores, aplicando técnicas y estrategias de detección y corrección de errores, así como de elaboración de tareas de entrenamiento.
+
+– El juego posicional: evolución histórica.
+
+– Ataque posicional en la etapa de alto rendimiento.
+
+– Espacios ofensivos según características de los jugadores.
+
+– «Spacing».
+
+– A partir de bloqueo directo.
+
+– A partir de balón interior.
+
+– A partir de penetraciones.
+
+– Con dos interiores.
+
+– «Pick and roll».
+
+– Bloqueo.
+
+– Mano a mano.
+
+– Central.
+
+– Lateral.
+
+– Frontal.
+
+– «Repick».
+
+– Ángulos de bloqueo cambiantes.
+
+– Ciego.
+
+– Según defensa: bloqueo liberado, bloqueo defendido.
+
+– Continuaciones.
+
+– Roll largo.
+
+– Roll corto.
+
+– Pop largo.
+
+– Pop estático.
+
+– Bloqueos Indirectos.
+
+– De salida.
+
+– Carretón.
+
+– «Zipper».
+
+– «Staggers».
+
+– «Flare».
+
+– «Stack».
+
+– Flex de salida.
+
+– De entrada.
+
+– «Box to box».
+
+– «Shuffle».
+
+– Flex de entrada.
+
+– Ciego.
+
+– Disposiciones de sistemas.
+
+– 1-4 alto.
+
+– 1-4 bajo.
+
+– 1-2-2.
+
+– 1-3-1.
+
+– 2-1-2.
+
+– No bilaterales.
+
+– Focus de sistemas.
+
+– 1c1 exterior.
+
+– 1c1 poste bajo.
+
+– «Pick&roll».
+
+– Tiradores.
+
+– Puertas atrás.
+
+– Cortes.
+
+– Poste alto.
+
+– Sistemas.
+
+– Largos/cortos.
+
+– Rígidos/abiertos.
+
+– Laterales o bilaterales.
+
+– Conversiones de sistemas.
+
+– Secuenciales.
+
+– Series ofensivas.
+
+– Movimientos sorpresa.
+
+– Movimientos mutables.
+
+– Movimientos de líneas.
+
+– De fondo campo delantero.
+
+– Focus específicos.
+
+– «Timming» de crono.
+
+– «Timming» de juego.
+
+– Movimientos de línea de banda en campo delantero.
+
+– Focus específicos.
+
+– «Timming» de posesión.
+
+– Defensa posicional en la etapa de alto rendimiento.
+
+– Aspectos complejos.
+
+– Agresividad.
+
+– Anticipación (negación).
+
+– Reacción al ataque.
+
+– Comunicación.
+
+– Proactividad.
+
+– Encadenación de esfuerzos.
+
+– Incomodidad del rival.
+
+– 1×1.
+
+– Defensa del tirador exterior.
+
+– Salida de bloqueos indirectos.
+
+– «Pick & pop».
+
+– Bloqueo + recibir bloqueo.
+
+– «Close out» o recuperaciones en situaciones estáticas o dinámicas.
+
+– Defensa de aclarados exteriores.
+
+– Defensa de poste bajo.
+
+– Defensa del jugador interior.
+
+– Defensa del jugador sin balón.
+
+– Tránsitos.
+
+– Lectura de bloqueos.
+
+– Defensa según «scouting».
+
+– 2×2 «Pick and roll».
+
+– Defensa del bloqueo.
+
+– Central normal.
+
+– Central hacia 2 exteriores abiertos.
+
+– Central con intercambio vertical de interiores.
+
+– Central con intercambio horizontal de interiores.
+
+– Lateral normal.
+
+– Lateral bajo.
+
+– Lateral hacia fuera –cambiado-.
+
+– Frontal hacia el centro.
+
+– Frontal con doble pick.
+
+– Frontal en vertical.
+
+– «Repick».
+
+– Defensa de las continuaciones.
+
+– Roll largo.
+
+– Roll corto.
+
+– Pop largo.
+
+– Pop corto.
+
+– Defensa según «scouting».
+
+– 3×3 Defensa de indirectos.
+
+– Indirectos de Salida.
+
+– Defensa de Carretón.
+
+– Defensa de «Zipper».
+
+– Defensa de «Flare».
+
+– De entrada.
+
+– «Shuffle».
+
+– Ciego.
+
+– 4×4 Defensa de indirectos.
+
+– Defensa de «staggers».
+
+– Defensa de «box to box».
+
+– Defensa de triple poste.
+
+– Defensa de «flex».
+
+– Defensa de «stack».
+
+– Diseño del juego posicional para la etapa de alto rendimiento.
+
+– Combinación de conceptos.
+
+– Características y talento de los jugadores.
+
+– Criterios para la detección de errores.
+
+– Estrategias de corrección de errores.
+
+– Diseño y creación de tareas de entrenamiento para mejorar el juego posicional en la etapa de alto rendimiento.
+
+– Evaluación del juego posicional según criterios de eficacia y eficiencia.
+
+3\. Diseña el juego de espacios, a partir de la evaluación de su rendimiento en situaciones de partido, fundamentando el modelo de juego según las características de los jugadores, aplicando técnicas y estrategias de detección y corrección de errores, así como de elaboración de tareas de entrenamiento.
+
+– El juego de espacios: evolución histórica.
+
+– Defensa de espacios en la etapa de alto rendimiento.
+
+– Defensa de espacios desde la disposición 1-2-2.
+
+– Consideraciones generales.
+
+– Variantes más comunes.
+
+– Movimientos y posicionamiento.
+
+– Defensa de espacios desde la disposición 2-1-2.
+
+– Consideraciones generales.
+
+– Variantes más comunes.
+
+– Movimientos y posicionamiento.
+
+– Defensa de espacios según «scouting».
+
+– Ataque a espacios en la etapa de alto rendimiento.
+
+– Conceptos.
+
+– Bloqueo directo en el ataque a espacios.
+
+– Sistemas estructurados de ataque a defensas de espacios.
+
+– Ataque a zona con disposición inicial 2-3.
+
+– Ataque a zona con disposición inicial 1-2-2.
+
+– Ataque a zona con disposición inicial 2-1-2.
+
+– Ataque a zona con disposición inicial 3-2.
+
+– Ataque a zona con disposición inicial 1-3-1.
+
+– Ataque a espacios según «scouting».
+
+– Diseño del juego de espacios en la etapa de alto rendimiento.
+
+– Combinación de conceptos.
+
+– Características y talento de los jugadores.
+
+– Criterios para la detección de errores.
+
+– Estrategias de corrección de errores.
+
+– Diseño y creación de tareas de entrenamiento para mejorar el juego de espacios en la etapa de alto rendimiento.
+
+– Evaluación del juego de espacios según criterios de eficacia y eficiencia.
+
+– El juego de espacios y la riqueza táctica.
+
+4\. Diseña otras formas de juego alternativas (defensas especiales y situaciones especiales condicionadas), a partir de la evaluación de su rendimiento en situaciones de partido, fundamentando el modelo de juego según las características de los jugadores, aplicando técnicas y estrategias de detección y corrección de errores, así como de elaboración de tareas de entrenamiento.
+
+– Defensas especiales.
+
+– Importancia del «scouting».
+
+– Defensas mutantes.
+
+– Variantes más comunes.
+
+– Movimientos y posicionamiento.
+
+– Defensa «match-up».
+
+– Consideraciones generales.
+
+– Variantes más comunes.
+
+– Movimientos y posicionamiento.
+
+– Defensas alternativas.
+
+– Variantes más comunes.
+
+– Movimientos y posicionamiento.
+
+– Ataques a defensas especiales.
+
+– Ataque a defensas mutantes.
+
+– Ataque a defensa «match-up».
+
+– Ataque a defensas alternativas.
+
+– Situaciones especiales condicionadas.
+
+– El tiempo del reloj.
+
+– El timming o tempo del movimiento.
+
+– El condicionante de faltas.
+
+– Saques de banda.
+
+– Situaciones de éxito.
+
+– Saques de fondo.
+
+– Situaciones de éxito.
+
+– Jugadas de últimos segundos.
+
+– Situaciones de éxito.
+
+– Importancia del «scouting».
+
+– Influencia de las características de los jugadores.
+
+> Se numera como Anexo II.i por el art. 7.2.i) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.j — Módulo de enseñanza deportiva: Proyecto
+
+Código: MED-BCBC305
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Diseña proyectos individuales o colectivos relacionados con las competencias del técnico deportivo superior en baloncesto, fundamentando el proyecto en la información recogida, desarrollando las fases que lo componen y realizando las previsiones de recursos humanos y materiales.
+
+a. Se ha elegido un tema que permite integrar los conocimientos adquiridos en los diferentes bloques y módulos del ciclo superior en baloncesto.
+
+b. Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto.
+
+c. Se han identificado las fases o partes que componen el proyecto y sus contenidos.
+
+d. Se han establecido los objetivos que se pretenden conseguir identificando su alcance.
+
+e. Se han valorado los aspectos que pueden facilitar o dificultar el desarrollo del proyecto.
+
+f. Se han previsto y priorizado los recursos materiales y personales necesarios, de acuerdo con los objetivos del proyecto.
+
+g. Se ha realizado el presupuesto económico correspondiente.
+
+h. Se han identificado las posibles fuentes de financiación del proyecto, en base a las necesidades del mismo.
+
+i. Se han identificado los aspectos que se deben controlar y de los que depende la calidad del proyecto.
+
+j. Se ha justificado la pertinencia y viabilidad del proyecto.
+
+k. Se ha valorado el rigor en la recogida de la información utilizada en la elaboración del proyecto.
+
+2\. Planifica y programa la ejecución del proyecto, determinando las fases o ciclos de preparación, la metodología utilizada y los recursos necesarios.
+
+a. Se han secuenciado y temporalizado las actividades ordenándolas en función de las necesidades de implantación del proyecto.
+
+b. Se ha elaborado la planificación del proyecto, periodizando y programando el entrenamiento y los recursos necesarios, cuando el proyecto esté dirigido al alto rendimiento deportivo en baloncesto.
+
+c. Se han determinado los recursos y la logística necesarios en cada actividad.
+
+d. Se han identificado los permisos y autorizaciones necesarios en cada una de las actividades.
+
+e. Se han determinado los procedimientos de actuación o ejecución de las actividades.
+
+f. Se han identificado los riesgos inherentes al desarrollo de las actividades, definiendo el plan de prevención de riesgos y los medios y equipos necesarios.
+
+g. Se han planificado la asignación de recursos materiales y humanos, y los tiempos de ejecución.
+
+h. Se ha hecho la valoración económica necesaria en la ejecución del proyecto.
+
+i. Se ha definido y elaborado la documentación necesaria en las previsiones y ejecución del proyecto.
+
+j. Se han relacionado/utilizado de una manera integradora y sinérgica los conceptos y procedimientos adquiridos en los diferentes módulos del ciclo superior en baloncesto.
+
+k. Se han tenido en cuenta criterios de sostenibilidad a la hora de elegir las actividades, la metodología y los recursos utilizados en el proyecto.
+
+3\. Selecciona los procedimientos de seguimiento y control de la elaboración y ejecución del proyecto, justificando las funciones dentro del proyecto, la selección de variables e instrumentos empleados.
+
+a. Se ha definido el procedimiento de evaluación de las actividades, utilizando y combinando diferentes instrumentos de evaluación.
+
+b. Se han definido los indicadores de calidad utilizados en la evaluación del proyecto.
+
+c. Se han definido los procedimientos de evaluación de las incidencias que puedan presentarse durante la realización del proyecto, su posible solución y registro.
+
+d. Se ha definido el procedimiento de gestión de los posibles cambios en los recursos, en las actividades o en la dinámica de cargas, en el caso del entrenamiento de alto rendimiento, incluyendo el sistema de registro de los mismos.
+
+e. Se ha definido y elaborado la documentación necesaria en la evaluación de las actividades del proyecto.
+
+f. Se ha establecido el procedimiento de participación en la evaluación de los jugadores o usuarios /clientes y se han elaborado los documentos específicos.
+
+g. Se ha establecido un sistema de garantía de cumplimiento del pliego de condiciones del proyecto cuando este exista.
+
+h. Se ha atendido a las consideraciones del tutor/director del proyecto durante la elaboración del mismo.
+
+i. Se ha cumplido con el seguimiento del proyecto según el procedimiento establecido por el tutor/director.
+
+j. Se ha mostrado una actitud de respeto y aceptación de las aportaciones realizadas por el tutor/director, integrando de forma constructiva las valoraciones recibidas en el proyecto.
+
+4\. Presenta el proyecto, seleccionando los aspectos relevantes del mismo, justificando las decisiones tomadas y utilizando los recursos didácticos y técnicos más adecuados en cada caso.
+
+a. Se ha definido y elaborado la documentación necesaria en la presentación y comunicación del proyecto.
+
+b. Se han utilizado los recursos didácticos y técnicos más adecuados para la presentación y comunicación del proyecto, incluyendo las nuevas tecnologías, de forma coherente con los objetivos del proyecto.
+
+c. Se ha presentado el proyecto, de forma clara, sintética, incluyendo los aspectos fundamentales que debía incluir la presentación.
+
+d. Se ha utilizado bibliografía actualizada en la fundamentación del trabajo, referenciándola de forma adecuado.
+
+e. Se ha contestado de forma precisa y justificada a las cuestiones realizadas sobre las características y fundamentación del proyecto.
+
+f. Se ha justificado suficientemente el proyecto y se ha argumentado su implementación.
+
+g. Se ha ajustado en la presentación del proyecto a la estructura definida y establecida en los criterios de evaluación.
+
+h. Se ha presentado el proyecto, ajustándose a las características formales, estructura y apartados establecidos por el tribunal.
+
+i. Se han justificado en la presentación del proyecto, las relaciones existentes entre los diferentes resultados de aprendizaje adquiridos en los diferentes módulos del ciclo superior en baloncesto.
+
+j. Se ha demostrado poseer una visión general del proyecto, relacionando la argumentación con la finalidad y las conclusiones del mismo.
+
+> Se numera como Anexo II.j por el art. 7.2.j) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.k — Módulo de enseñanza deportiva: Formación práctica
+
+Código: MED-BCBC306
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica la estructura organizativa y el funcionamiento del centro deportivo de prácticas (escuela deportiva, club, federación, empresa), relacionándola con su oferta de actividades de alto rendimiento deportivo, y las actividades de gestión del mismo.
+
+a. Se han fundamentado las relaciones del centro deportivo de prácticas de las federación deportiva española con la federación internacional de baloncesto.
+
+b. Se ha categorizado la estructura organizativa y el funcionamiento de las distintas áreas del centro deportivo de prácticas.
+
+c. Se han clasificado las relaciones jerárquicas dentro del centro deportivo de prácticas.
+
+d. Se ha revisado la oferta de actividades vinculadas al alto rendimiento deportivo.
+
+e. Se han relacionado las características del centro deportivo de prácticas con la normativa de responsabilidad de los técnicos que trabajan en el mismo.
+
+f. Se ha fundamentado la oferta de actividades orientada al alto rendimiento de baloncesto en las mujeres.
+
+g. Se han reconocido los valores presentes en las actividades de baloncesto del club o entidad deportiva.
+
+h. Se ha mantenido una actitud clara de respeto a las instalaciones y aplicado las normas internas y externas vinculadas a la misma.
+
+i. Se ha revisado el plan de actuación de emergencias de las instalaciones del centro deportivo de prácticas.
+
+j. Se ha identificado y analizado el Plan de Prevención de Riesgos Laborales del centro deportivo de prácticas.
+
+k. Se han revisado las condiciones laborales de los técnicos deportivos del centro deportivo de prácticas, en relación con la normativa sobre salud laboral.
+
+2\. Identifica la estructura organizativa y el funcionamiento del centro de formación de técnicos deportivos, relacionándola con su oferta formativa, analizando la normativa de aplicación, aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a. Se han fundamentado las relaciones del centro de formación de técnicos de baloncesto con la administración educativa correspondiente.
+
+b. Se ha categorizado la estructura organizativa y el funcionamiento del centro de formación de técnicos deportivos.
+
+c. Se han clasificado las relaciones jerárquicas dentro del centro de formación de técnicos deportivos.
+
+d. Se ha revisado la oferta de actividades vinculadas a la formación de técnicos deportivos en baloncesto.
+
+e. Se han analizado las características del centro de formación de técnicos deportivos, y la normativa sobre la responsabilidad del profesorado.
+
+f. Se ha esquematizado la normativa educativa y curricular vigente sobre formación de técnicos deportivos de baloncesto.
+
+g. Se ha colaborado en la organización de las actividades económicas del centro de trabajo.
+
+h. Se han reconocido los valores presentes en las actividades de baloncesto del club o entidad deportiva.
+
+i. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+3\. Colabora en la administración del centro deportivo de prácticas (escuela deportiva, club, federación, empresa…), aplicando procedimientos de gestión económica y contable.
+
+a. Se ha colaborado en la organización de las actividades económicas del centro de trabajo.
+
+b. Se ha identificado la forma jurídica utilizada en la constitución del centro deportivo de prácticas, y el grado de responsabilidad legal de los propietarios y gestores.
+
+c. Se ha colaborado en los procedimientos administrativos básicos de gestión del centro deportivo de prácticas.
+
+d. Se han realizado trámites de petición de ayudas a la gestión del centro deportivo de prácticas.
+
+e. Se ha colaborado en la gestión de ayudas económicas que utiliza o puede utilizar el centro deportivo de prácticas.
+
+f. Se ha confeccionado documentación administrativa y comercial necesaria en el desarrollo de la actividad deportiva.
+
+g. Se han identificado las obligaciones y exenciones fiscales y tributarias del centro deportivo de prácticas.
+
+h. Se ha realizado la declaración de impuestos del centro deportivo de prácticas.
+
+i. Se ha tenido una actitud de respeto y cumplimiento de la normativa y los procedimientos de gestión económica del centro deportivo de prácticas.
+
+4\. Actúa con autonomía, iniciativa y responsabilidad en el puesto de trabajo, demostrando comportamiento ético, habilidades personales de comunicación, trabajo en equipo, aplicando los procedimientos establecidos por el centro de prácticas (entidad deportiva, club, federación, empresa…).
+
+a. Se han identificado los requerimientos actitudinales del puesto de trabajo.
+
+b. Se han interpretado y cumplido las instrucciones recibidas y responsabilizado del trabajo asignado.
+
+c. Se ha demostrado compromiso con el trabajo bien hecho y la calidad del servicio, así como respeto a los procedimientos y principios propios del club o entidad deportiva.
+
+d. Se ha demostrado capacidad de trabajo en equipo y respeto a la jerarquía establecida en el club o entidad deportiva.
+
+e. Se han establecido una comunicación y relación eficaz con el técnico responsable de la actividad y los miembros del equipo, manteniendo un trato fluido y correcto.
+
+f. Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante, o imprevisto que se presente en la actividad.
+
+g. Se ha demostrado un comportamiento ético con los deportistas y los adversarios, en especial en presencia de los medios de comunicación.
+
+5\. Organiza y gestiona competiciones y eventos propios del nivel de la iniciación y la tecnificación deportiva, y colabora en los de alto rendimiento, participando en la gestión y diseño de la competición, aplicando criterios de sostenibilidad.
+
+a. Se ha propuesto la estructura y las funciones que se deben desempeñar en la organización de una competición o evento deportivo de tecnificación en baloncesto.
+
+b. Se han definido y aplicado los criterios de sostenibilidad en la organización de una competición o evento deportivo de tecnificación en baloncesto.
+
+c. Se han localizado y gestionado las posibles ayudas a la esponsorización del deporte femenino en la modalidad de baloncesto.
+
+d. Se ha gestionado la financiación de la organización de una competición o evento deportivo de tecnificación en baloncesto.
+
+e. Se ha realizado la gestión y difusión de los resultados de una competición o evento deportivo de tecnificación o alto rendimiento en baloncesto.
+
+f. Se ha participado en la gestión de personal y medios materiales de las diferentes áreas o comités de la organización de una competición o evento de tecnificación o alto rendimiento en baloncesto.
+
+g. Se ha colaborado en la organización y realización de actos protocolarios de apertura, entrega y clausura de una competición o evento deportivo de tecnificación o alto rendimiento en baloncesto.
+
+h. Se han tomado las medidas de seguridad y de atención a las emergencias en la organización de una competición o evento deportivo de tecnificación en baloncesto.
+
+i. Se ha actuado de manera flexible y adaptable a las circunstancias en la organización de la competición, respetando los protocolos y directrices establecidas.
+
+j. Se han elaborado los calendarios y designaciones arbitrales de la competición o evento deportivo organizado de baloncesto.
+
+6\. Orienta a los jugadores de alto nivel, y organiza, acompaña y dirige a los deportistas en su participación en actividades, competiciones y otros eventos de alto rendimiento en baloncesto, y aplicando la normativa relacionada.
+
+a. Se ha informado a los deportistas de alto nivel de la normativa que les afecta y los programas de ayuda que existen a nivel nacional y autonómico.
+
+b. Se ha orientado a los deportistas de alto nivel sobre las salidas profesionales de su actividad deportiva, y de la importancia de mantener una formación académica o profesional paralelas a la vida deportiva.
+
+c. Se ha revisado e informado a los deportistas de la normativa antidopaje de aplicación en las competiciones de alto rendimiento en las que se participa.
+
+d. Se ha realizado la inscripción del equipo en una competición de alto rendimiento en baloncesto, de acuerdo con los protocolos y normas establecidos.
+
+e. Se han realizado las operaciones de gestión del seguro de accidente y actividad de los miembros del equipo de baloncesto que participan en una competición de alto rendimiento, de acuerdo con las instrucciones y normas recibidas.
+
+f. Se ha reconocido y justificado la responsabilidad de un técnico en los desplazamientos de los equipos de baloncesto para asistir a una competición de alto rendimiento.
+
+g. Se ha elaborado el plan de viaje de un equipo de baloncesto para su participación en una competición de alto rendimiento, aplicando las instrucciones y procedimientos establecidos.
+
+h. Se ha informado al equipo de baloncesto de las características de la competición de alto rendimiento, interpretando la documentación sobre la misma.
+
+i. Se ha trasladado al equipo de baloncesto las instrucciones técnicas y tácticas para la competición de alto rendimiento, teniendo en cuenta las características de la competición y de los deportistas participantes.
+
+j. Se ha acompañado al equipo de baloncesto en las competiciones de alto rendimiento, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
+
+k. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de alto rendimiento en baloncesto, aplicando los procedimientos adecuados y respetando las normas de la misma.
+
+l. Se han aplicado criterios de valoración de la ejecución técnico-táctica del baloncesto, utilizando técnicas y procedimientos de observación adecuadas al alto rendimiento.
+
+m. Se han aplicado procedimientos de reclamación en una competición de alto rendimiento en baloncesto, utilizando el idioma adecuado, aplicando los protocolos y normas establecidos.
+
+7\. Colabora en la dirección de equipos durante la participación en actividades, competiciones y otros eventos de alto rendimiento de baloncesto, valorando las posibles situaciones tácticas del equipo y de sus contrincantes, las decisiones arbitrales, las características del entorno, y aplicando procedimientos establecidos.
+
+a. Se ha evaluado la influencia de las condiciones del entorno de la competición de alto rendimiento en baloncesto.
+
+b. Se ha colaborado en la dirección de equipos en competiciones de alto rendimiento, utilizando diferentes estrategias de manera eficaz y teniendo en cuenta las características del equipo rival y del entorno.
+
+c. Se ha utilizado el reglamento en la elección y aplicación de estrategias de dirección del equipo en la competición de alto rendimiento en baloncesto.
+
+d. Se ha colaborado en la evaluación de la ejecución técnico-táctica del equipo y de sus rivales en la competición de alto rendimiento, utilizando técnicas y procedimientos de observación adecuados.
+
+e. Se ha colaborado en la realización de reclamaciones en una competición de alto rendimiento de baloncesto, aplicando los protocolos y normas establecidos.
+
+f. Se ha valorado la importancia de la utilización de una estrategia de dirección de equipo acorde con la normativa, las características de la competición y las tendencias arbitrales en el alto rendimiento.
+
+g. Se han colaborado en la coordinación de las actividades de los diferentes miembros del equipo técnico antes, durante y después de las competiciones de alto rendimiento en baloncesto.
+
+h. Se ha demostrado empatía y generado credibilidad en el equipo durante la dirección en competiciones de alto rendimiento de baloncesto.
+
+8\. Planifica el entrenamiento a largo, medio y corto plazo de los jugadores de baloncesto, interpretando la información del deportista y del entorno, coordinando el equipo de especialistas, y aplicando los modelos, procedimientos y técnicas más adecuados.
+
+a. Se ha colaborado en la elaboración del programa de detección, identificación y selección del talento deportivo en baloncesto del centro deportivo de prácticas.
+
+b. Se han aplicado criterios de detección, identificación y selección del talento deportivo en baloncesto, en el centro deportivo de prácticas.
+
+c. Se ha seleccionado e interpretado la información del jugador o del equipo del centro deportivo de prácticas y de su entorno, necesarias en la elaboración de la programación a largo plazo.
+
+d. Se ha elaborado la programación/planificación a largo plazo del jugador o equipo, de acuerdo con los modelos utilizados en el centro deportivo de prácticas, e identificando las dinámicas de carga de los diferentes factores de rendimiento deportivo en baloncesto.
+
+e. Se han aplicado instrumentos de valoración de la condición física del jugador o equipo de alto rendimiento, interpretando y, en su caso, tratando la información resultante.
+
+f. Se han elaborado y aplicado instrumentos de registro del comportamiento técnico-táctico en entrenamiento y competición del jugador y del equipo de alto rendimiento, interpretando y, en su caso, tratando la información resultante.
+
+g. Se han aplicado instrumentos de valoración del perfil psicológico del jugador y del equipo, y de su comportamiento durante la competición, interpretando y, en su caso, tratando la información resultante.
+
+h. Se ha elaborado la programación a medio y corto plazo de los diferentes factores de rendimiento (condición física, técnicos, tácticos, psicológicos, de capacidad de juego, competitivos,...) del baloncesto, de acuerdo con la planificación del centro de prácticas y los objetivos y características de los jugadores y del equipo.
+
+i. Se ha elaborado el programa de una concentración de preparación, adaptándola a las necesidades específicas de los jugadores, del equipo, y del centro de formación prácticas.
+
+j. Se ha registrado, cuantificado y procesado la información sobre la carga de entrenamiento de un jugador y del equipo del centro deportivo de prácticas.
+
+k. Se han asignado objetivos y medios de trabajo al equipo biomédico, dentro de la planificación y programación del entrenamiento del jugador y del equipo.
+
+l. Se han incorporado las aportaciones del equipo biomédico en la planificación y programación del entrenamiento del jugador y del equipo.
+
+m. Se ha mostrado una actitud de rigor y objetividad en la aplicación de los instrumentos de valoración utilizados.
+
+9\. Organiza y dirige el entrenamiento de los jugadores y equipo de baloncesto, coordinando al equipo técnico, aplicando los medios y métodos específicos de entrenamiento de cada uno de los factores de rendimiento en baloncesto, y aplicando las nuevas tecnologías al registro del entrenamiento y la competición.
+
+a. Se ha generado credibilidad en el equipo de especialistas que colabora con el técnico en el centro deportivo de prácticas.
+
+b. Se ha gestionado el equipo técnico, demostrando liderazgo y potenciando la comunicación entre el equipo del centro deportivo de prácticas y el técnico.
+
+c. Se han aplicado medios y métodos de entrenamiento de los factores de rendimiento, y elegido las tareas de acuerdo con la programación del centro deportivo de prácticas.
+
+d. Se ha dirigido la sesión teniendo en cuenta la variedad e integración de los diferentes medios y métodos de entrenamiento, de acuerdo con la programación del centro deportivo de prácticas.
+
+e. Se han identificado y solucionado las contingencias que hayan surgido durante la sesión de entrenamiento del jugador o del equipo.
+
+f. Se ha adaptado el trabajo de la sesión a las condiciones reales del jugador o del equipo.
+
+g. Se han tenido en cuenta las lesiones más frecuentes en baloncesto y sus medidas preventivas, en la dirección de la sesión de entrenamiento.
+
+h. Se han elaborado y aplicado instrumentos de registro audiovisual del comportamiento técnico-táctico y la capacidad de juego: en entrenamiento y competición, del jugador o del equipo de alto rendimiento, interpretando y, en su caso, editando los registros realizados.
+
+i. Se han utilizado durante la sesión de entrenamiento del jugador o del equipo los registros audiovisuales del entrenamiento o la competición.
+
+j. Se ha colaborado en la organización y dirección de una concentración de preparación, seleccionando los medios y la logística adecuados a la situación del centro deportivo de prácticas.
+
+k. Se ha mantenido una actitud motivadora y empática con el jugador y el equipo durante la dirección de la concentración de preparación o la sesión de entrenamiento.
+
+10\. Colabora en el establecimiento de las ayudas ergogénicas y de los planes de trabajo complementario del jugador lesionado, aplicando los medios, métodos y procedimientos establecidos.
+
+a. Se ha programado el trabajo complementario de un jugador lesionado, teniendo en cuenta la programación del centro deportivo de prácticas.
+
+b. Se ha valorado las pautas alimentarias de los jugadores del centro deportivo de prácticas.
+
+c. Se han propuestos medidas de formación sobre alimentación deportiva a los jugadores del centro deportivo de prácticas.
+
+d. Se ha identificado las manifestaciones de fatiga durante el entrenamiento y la competición del jugador del centro deportivo de prácticas.
+
+e. Se han propuesto y aplicado medidas de recuperación de la fatiga de acuerdo con las posibilidades del centro deportivo de prácticas.
+
+f. Se ha colaborado en la prescripción y administración de ayudas ergogénicas en jugadores del centro deportivo de prácticas.
+
+g. Se ha informado al jugador de los riesgos y consecuencias en la salud, del uso de sustancias dopantes.
+
+h. Se ha mostrado una actitud de juego limpio y respeto por la salud del jugador en especial en lo referido al uso de sustancias dopantes.
+
+11\. Participa en la formación de técnicos deportivos, revisando la organización académica y curricular del centro, impartiendo clases y colaborando en la tutorización de los módulos de Proyecto y Formación Práctica.
+
+a. Se han identificado el tipo de centro docente de prácticas, el tipo de vinculación con la administración y la normativa que le es de aplicación a efectos de organización y funcionamiento.
+
+b. Se han identificado las responsabilidades del profesor especialista en baloncesto y del técnico deportivo superior en baloncesto, en la formación de los técnicos en la modalidad.
+
+c. Se han concretado los elementos de la programación didáctica de un módulo del bloque específico, atendiendo a su normativa de ordenación, a las características del alumnado, y el contexto del centro docente de prácticas.
+
+d. Se ha diseñado y colaborado en la realización de una presentación (de tareas y contenidos), atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características del alumno del centro docente de prácticas.
+
+e. Se ha colaborado en el diseño y dirección de una sesión de trabajo práctico o procedimental, atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características del alumno del centro docente de prácticas.
+
+f. Se ha participado en el proceso de evaluación de los alumnos del centro docente de prácticas.
+
+g. Se han tenido en cuenta la aplicación efectiva del principio de Igualdad de Oportunidades entre mujeres y hombres a la hora de seleccionar los recursos didácticos en la docencia del módulo específico de enseñanzas deportivas en baloncesto.
+
+h. Se han previsto y preparado de antemano recursos didácticos alternativos frente a posibles incidencias, incluyendo la atención a personas con discapacidad, en la dirección de la sesión del módulo específico de enseñanzas deportivas en baloncesto.
+
+i. Se han identificado las condiciones de seguimiento y tutorización de los distintos módulos del bloque específico de los ciclos inicial y final de grado medio en baloncesto, presenciales y a distancia, establecidos en el centro docente de prácticas.
+
+j. Se ha participado en el establecimiento de contactos y convenios con las entidades colaboradoras en el módulo de formación práctica en el centro docente de prácticas.
+
+k. Se han utilizado aplicaciones informáticas específicas en supuestos de gestión y seguimiento del módulo de formación práctica en el centro docente de prácticas.
+
+l. Se ha colaborado en la elaboración de informes de evaluación del módulo de formación práctica.
+
+m. Se participado en el asesoramiento y control de entrevistas y tutorías personalizadas en la dirección de proyectos dentro del centro docente de prácticas.
+
+12\. Colabora en la dirección del «scouting» del propio equipo de baloncesto de alto rendimiento y del rival, utilizando recursos tecnológicos avanzados y elaborando informes adecuados para el alto rendimiento.
+
+a. Se han interpretado situaciones tácticas presentes en la competición de alto rendimiento, a partir de un video o a tiempo real.
+
+b. Se han utilizado recursos tecnológicos avanzados para el logro de información relevante para la mejora del rendimiento del equipo o del jugador de baloncesto del centro deportivo de prácticas.
+
+c. Se han identificado situaciones tácticas complejas a partir del «scouting», o se han elaborado, a partir de la simbología específica de baloncesto.
+
+d. Se han confeccionados pautas y protocolos de observación para equipos de alto rendimiento de baloncesto del centro deportivo de prácticas.
+
+e. Se han elaborado herramientas para el registro de información específica extraída a partir del «scouting» de jugadores o equipos baloncesto del centro deportivo de prácticas.
+
+f. Se ha coordinado el trabajo del equipo técnico en el «scouting» de baloncesto del centro deportivo de prácticas.
+
+g. Se han elaborado informes de «scouting» para equipos de alto rendimiento en baloncesto tanto en lengua propia como en inglés.
+
+h. Se han identificado tecnologías avanzadas de observación propias del baloncesto, y descritas sus características y utilidades.
+
+i. Se ha mostrado una actitud de atención en las actuaciones de «scouting» con un equipo de alto rendimiento del centro deportivo de prácticas.
+
+13\. Participa en la construcción de un equipo, ayudando a seleccionar jugadores, valorando y clasificando sus habilidades y capacidades, de acuerdo con la competición de alto nivel.
+
+a. Se han revisado informes de jugadores elaborados por técnicos scouters del centro deportivo de prácticas.
+
+b. Se han confeccionado informes de jugadores de equipos de alto rendimiento de baloncesto.
+
+c. Se han valorado las habilidades técnicas ofensivas y defensivas de los jugadores del centro deportivo de prácticas.
+
+d. Se han valorado las capacidades competitivas, físicas, psicológicas y de juego de los jugadores del centro deportivo de prácticas.
+
+e. Se han clasificado a los jugadores, comparando sus características con los perfiles propios de los jugadores de alto nivel en baloncesto.
+
+f. Se han propuesto la incorporación de jugadores de baloncesto a los equipos del centro deportivo de prácticas en función con el proyecto deportivo del mismo y las exigencias de la competición.
+
+g. Se ha establecido criterios para la selección equilibrada de jugadores para los equipos de alto rendimiento del centro deportivo de prácticas.
+
+h. Se ha mostrado una actitud de escucha y consenso en la selección de jugadores con los responsables (técnicos y directivos) de los equipos de alto nivel de los centros deportivos de prácticas.
+
+i. Se ha fundamentado la selección de jugadores en función del análisis realizado de la competición de baloncesto de alto rendimiento donde competirá el equipo del centro deportivo de prácticas.
+
+14\. Colabora con la dirección técnica de un centro deportivo de prácticas, participando en las orientaciones que reciben los técnicos deportivos del mismo, y ayudando en la elaboración de las programaciones de referencia para sus jugadores y equipos.
+
+a. Se han diseñado programaciones de referencia para los equipos de categorías inferiores del centro deportivo de prácticas.
+
+b. Se han revisado los programas de referencia existentes en el centro deportivo de prácticas.
+
+c. Se han relacionado las necesidades detectadas en los jugadores y equipos de baloncesto del centro deportivo de prácticas, y las propuestas ofrecidas por la programación de referencia.
+
+d. Se ha esquematizado la continuidad de las programaciones de referencia para los jugadores y equipos de baloncesto del centro deportivo de prácticas.
+
+e. Se han confeccionado criterios de evaluación adecuados para poder obtener información del desarrollo y rendimiento de los jugadores y equipos del centro deportivo de prácticas.
+
+f. Se ha interpretado la información obtenida por las herramientas de evaluación utilizadas para poder mejorar la dirección técnica del centro deportivo de prácticas.
+
+g. Se han gestionado los recursos necesarios para el correcto desarrollo de las programaciones de referencia y de la formación de los técnicos.
+
+h. Se ha coordinado el trabajo de los técnicos de los distintos equipos de baloncesto del centro deportivo de prácticas.
+
+i. Se ha ayudado a los técnicos de baloncesto del centro de formación de prácticas en su formación continua.
+
+j. Se han explicado a los técnicos, métodos adecuados para la enseñanza del baloncesto en el centro deportivo de prácticas.
+
+k. Se ha utilizado el idioma inglés para explicar conceptos y terminología propia del baloncesto a los técnicos del centro deportivo de prácticas.
+
+l. Se ha demostrado una actitud de trabajo cooperativo y de escucha en el trato con los técnicos del centro deportivo de prácticas.
+
+m. Se han demostrado dotes de liderazgo en el trabajo con los técnicos de los equipos del centro deportivo de prácticas.
+
+> Se numera como Anexo II.k por el art. 7.2.k) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO III — Ratio profesor/alumno
+
+|  | Ratio profesor/alumno |
+|---|---|
+| MED-BCBC301 Formación del jugador en la etapa de alto rendimiento. | 1/30 |
+| MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento. | 1/30 |
+| MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto. | 1/30 |
+| MED-BCBC304 Táctica de ataque y defensa en la etapa de alto rendimiento. | 1/30 |
+| MED-BCBC305 Proyecto. | 1/30 |
+| MED-BCBC306 Formación práctica. | 1/10 |
+
+## ANEXO IV — Acceso módulo formación práctica
+
+| Acceso módulo formación práctica | Módulos a superar |
+|---|---|
+| MED- BCBC306 Formación práctica. | Del bloque común.<br>● MED-C301. Factores fisiológicos del alto rendimiento.<br>● MED-C303. Formación de formadores deportivos.<br>Del bloque específico.<br>● MED-BCBC301 Formación del jugador en la etapa de alto rendimiento.<br>● MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento.<br>● MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto. |
+
+## ANEXO V — Espacios y equipamientos mínimos del ciclo de grado superior
+
+Espacios: Ciclo de grado superior
+
+| Espacio formativo | Superficie m<sup>2 </sup>30 alumnos | Superficie m<sup>2 </sup>20 alumnos | Módulo de enseñanza deportiva |
+|---|---|---|---|
+| Aula polivalente. | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
+| Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | Módulos de enseñanza deportiva del bloque común. |
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">Espacio formativo.</th>
+<th class="cabeza_tabla">Módulo de enseñanza deportiva.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="3">Pista de baloncesto.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">MED-BCBC301 Formación del jugador en la etapa de alto rendimiento.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC304 Táctica de ataque y defensa en la etapa de alto rendimiento.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Equipamientos: Ciclo de grado superior
+
+| Equipamiento del aula polivalente | Módulo de enseñanza deportiva |
+|---|---|
+| ● Equipos audiovisuales. Cañón de proyección.<br>● PCs instalados en red con conexión a Internet.<br>● Software específico. | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
+
+| Equipamiento del gimnasio | Módulo de enseñanza deportiva |
+|---|---|
+| ● Balones medicinales (3kg, 4kg, 5kg).<br>● Colchonetas.<br>● Mancuernas de diferentes pesos.<br>● Barras de levantamientos.<br>● Discos (diversos pesos).<br>● Bancos para ejercicios de musculación: horizontal, inclinado y/o reclinable.<br>● Balones inflables 65cm.<br>● Gomas elásticas.<br>● Espalderas.<br>●· Bancos suecos. | Módulos de enseñanza deportiva del bloque común. |
+
+| Equipamiento pista de baloncesto | Módulo de enseñanza deportiva |
+|---|---|
+| ● Canasta de baloncesto<br>● Balón de baloncesto<br>● Material señalizador | MED-BCBC301 Formación del jugador en la etapa de alto rendimiento.<br>MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento.<br>MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto<br>MED-BCBC304 Táctica de ataque y defensa en la etapa de alto rendimiento. |
+
+## ANEXO VI — Requisitos de titulación del profesorado de los módulos del bloque común del ciclo de grado superior, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad que a continuación se detalla:
+
+| Módulo de enseñanza deportiva<br>Ciclo de grado superior | Especialidad | Cuerpo |
+|---|---|---|
+| MED-C301 Factores fisiológicos del alto rendimiento.<br>MED-C302 Factores psicosociales del alto rendimiento.<br>MED-C303 Formación de formadores deportivos. | ● Educación Física. | ● Catedráticos de Enseñanza Secundaria.<br>● Profesores de Enseñanza Secundaria. |
+| MED-C304 Organización y gestión aplicada al alto rendimiento. | ● Educación Física.<br>● Formación y organización laboral. | ● Catedráticos de Enseñanza Secundaria.<br>● Profesores de Enseñanza Secundaria. |
+
+## ANEXO VII-A — Requisitos de titulación del profesorado de los módulos del bloque específico de ciclo de grado superior, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<p class="cabeza_tabla">Ciclo de grado superior</p>
+</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">MED-BCBC301 Formación del jugador en la etapa de alto rendimiento.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto.</p>
+<p class="cuerpo_tabla_izq">MED- BCBC304 Táctica de ataque y defensa en la etapa de alto rendimiento.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC305 Proyecto.</p>
+<p class="cuerpo_tabla_izq">MED-BCBC306 Formación práctica.</p>
+</td>
+<td class="cuerpo_tabla_izq">● Educación Física con el título de Técnico Deportivo Superior en Baloncesto.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">● Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">● Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO VII-B — Condición de Profesor especialista en centros públicos de la administración educativa: acreditación de experiencia docente, o actividad en el ámbito deportivo y laboral
+
+| Módulos de enseñanza deportiva | Experiencia docente acreditable | Actividad en el ámbito deportivo y laboral |
+|---|---|---|
+| MED-BCBC301 Formación del jugador en la etapa de alto rendimiento.<br>MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento.<br>MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto.<br>MED-BCBC304 Táctica de ataque y defensa en la etapa de alto rendimiento.<br>MED-BCBC305 Proyecto.<br>MED-BCBC306 Formación práctica. | Al menos 100 horas de docencia acreditada en formación de entrenadores en el nivel 3 de baloncesto en las formaciones a las que se refiere la disposición adicional quinta y la disposición transitoria primera y del Real Decreto 1363/2007, de 24 de octubre, así como de la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre. | Al menos 2 años de ejercicio deportivo laboral relacionado con las competencias profesionales del ciclo superior, realizado en los 4 años inmediatamente anteriores al nombramiento. |
+
+En el caso de las formación a las que se refiere la adicional quinta del Real Decreto 1363/2007, de 24 de octubre, la Real Federación Española de Baloncesto, emitirá la correspondiente certificación de la experiencia docente en la que conste: las materias impartidas, el número de horas impartidas, la fecha del curso en el que se impartió la materia o materias, y la fecha de la resolución de reconocimiento de la formación por parte del Consejo Superior de Deportes junto con la fecha de publicación en el BOE.
+
+En el caso de las formaciones a las que se refiere la disposición transitoria primera de los Reales Decretos 1913/1997, de 19 de diciembre, y 1363/2007, de 24 de octubre, el órgano competente de la comunidad autónoma que autorizó las formaciones emitirá la correspondiente certificación de la experiencia docente en la que consten las materias y el número de horas impartidas.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+La Real Federación Española de Baloncesto emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+## ANEXO VIII — Los requisitos de titulación del profesorado en centros privados y de titularidad pública de administraciones distintas a la educativa
+
+Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
+
+Módulos del bloque común del ciclo de grado superior:
+
+| Módulo comunes de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED-C301 Factores fisiológicos del alto rendimiento. | ● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>● Licenciado o Graduado en Medicina. |
+| MED-C302 Factores psicosociales del alto rendimiento. | ● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>● Licenciado o Graduado en Psicología. |
+| MED-C303 Formación de formadores deportivos. | ● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
+| MED-C304 Organización y gestión aplicada al alto rendimiento. | ● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>● Licenciado o Graduado en Derecho. |
+
+Módulos del bloque específico del ciclo de grado superior:
+
+| Módulo específico de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED-BCBC301 Formación del jugador en la etapa de alto rendimiento.<br>MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento.<br>MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto<br>MED- BCBC304 Táctica de ataque y defensa en la etapa de alto rendimiento.<br>MED-BCBC305 Proyecto. | ● Técnico Deportivo Superior en Baloncesto. |
+| MED-BCBC306 Formación práctica. | ● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>● Técnico Deportivo Superior en Baloncesto. |
+
+## ANEXO IX — Convalidaciones entre módulos de enseñanza deportiva establecidos al amparo de la Ley Orgánica 1/1990 y los módulos de enseñanza deportiva del bloque específico del Técnico Deportivo Superior en baloncesto
+
+| Módulos superados del título de Técnico Deportivo Superior en Baloncesto LOGSE (Real Decreto 234/2005, de 4 de marzo). | Módulos convalidados del ciclo de grado superior en baloncesto. |
+|---|---|
+| ● Acciones técnico-tácticas individuales III.<br>● Detección y selección de talentos II. | MED-BCBC301 Formación del jugador en la etapa de alto rendimiento. |
+| ● Reglas de juego III.<br>● Dirección de equipos III.<br>● Dirección de partido II.<br>● Observación del juego II.<br>● Desarrollo profesional. | MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento. |
+| ● Metodología de la enseñanza y del entrenamiento de baloncesto III.<br>● Planificación y evaluación del entrenamiento de baloncesto III.<br>● Preparación física aplicada III.<br>● Psicología aplicada II.<br>● Seguridad deportiva II. | MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto. |
+| ● Acciones técnico-tácticas colectivas III.<br>● Sistema de juego II. | MED- BCBC304 Táctica de ataque y defensa en la etapa de alto rendimiento. |
+| ● Proyecto Final. | MED-BCBC305 Proyecto. |
+| ● Formación práctica. | MED-BCBC306 Formación práctica. |
+
+## ANEXO X — Exención total o parcial del módulo de formación práctica del ciclo de grado superior
+
+| MED-BCBC306 Formación práctica. | Experiencia en el ámbito laboral o deportivo |
+|---|---|
+| Exención total.<br>Exención parcial. | Duración: superior a 400 horas.<br>Actividad desarrollada:<br>Experiencia relacionada con la competencia general del ciclo de grado superior en baloncesto y los resultados de aprendizaje del módulo de formación práctica.<br>Periodo de tiempo que ha desarrollado la actividad:<br>Dos años anteriores a la finalización del curso. |
+
+La exención parcial del módulo de formación práctica, se concederá para aquellos resultados de aprendizaje del módulo, que sean concordantes con la experiencia laboral o deportiva acreditada.
+
+La exención total del módulo de formación práctica, se podrá conceder cuando exista una completa concordancia de la experiencia laboral o deportiva acreditada con la totalidad de los resultados de aprendizaje del correspondiente módulo.
+
+La Real Federación Española de Baloncesto emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+## ANEXO XI — Formación a distancia
+
+|  | Grado superior |
+|---|---|
+| Módulos bloque común. | MED-C301 Factores fisiológicos del alto rendimiento<br>MED-C302 Factores psicosociales del alto rendimiento.<br>MED-C303 Formación de formadores deportivos.<br>MED-C304 Organización y gestión aplicada al alto rendimiento. |
+| Módulos bloque específico. | MED-BCBC301 Formación del jugador en la etapa de alto rendimiento.<br>MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento.<br>MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto.<br>MED- BCBC304 Táctica de ataque y defensa en la etapa de alto rendimiento.<br>MED-BCBC305 Proyecto. |

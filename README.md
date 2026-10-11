@@ -8,7 +8,7 @@ Part of [LawCodex](https://github.com/LawCodex): the legislation of every countr
 - Jurisdiction: Spain (`es`), language: Spanish (castellano)
 - Source: BOE open-data API — <https://www.boe.es/datosabiertos/api/legislacion-consolidada>
 - Retrieved: 2026-10-11
-- Total: **277** norms (231 state-level, 46 autonomous-community)
+- Total: **2,024** norms (1,261 state-level, 763 autonomous-community)
 
 ## Coverage
 
@@ -19,15 +19,21 @@ in its latest consolidated version (all amendments applied, as published by the 
 
 | Directory | Category | Files |
 |---|---|---:|
-| `leyes-organicas/` | Leyes Orgánicas (incl. Estatutos de Autonomía, Código Penal) | 15 |
-| `leyes/` | Leyes | 66 |
-| `reales-decretos-legislativos/` | Reales Decretos Legislativos (textos refundidos) | 9 |
-| `reales-decretos-leyes/` | Reales Decretos-leyes | 15 |
-| `reales-decretos/` | Reales Decretos (incl. Código Civil, Código de Comercio) | 100 |
-| `ordenes/` | Órdenes ministeriales | 17 |
-| `resoluciones/` | Resoluciones | 6 |
-| `circulares/` | Circulares (Banco de España, CNMV...) | 3 |
-| | **Total state** | **231** |
+| `constitucion/` | Constitución Española (1978) | 1 |
+| `leyes-organicas/` | Leyes Orgánicas (incl. Estatutos de Autonomía, Código Penal) | 52 |
+| `leyes/` | Leyes | 220 |
+| `reales-decretos-legislativos/` | Reales Decretos Legislativos (textos refundidos) | 23 |
+| `reales-decretos-leyes/` | Reales Decretos-leyes | 66 |
+| `reales-decretos/` | Reales Decretos (incl. Código Civil, Código de Comercio) | 564 |
+| `decretos/` | Decretos (pre-1978 / misc.) | 9 |
+| `ordenes/` | Órdenes ministeriales | 192 |
+| `resoluciones/` | Resoluciones | 85 |
+| `circulares/` | Circulares (Banco de España, CNMV...) | 10 |
+| `instrucciones/` | Instrucciones | 7 |
+| `acuerdos/` | Acuerdos | 4 |
+| `acuerdos-internacionales/` | Acuerdos internacionales (tratados) | 27 |
+| `reglamentos/` | Reglamentos | 1 |
+| | **Total state** | **1,261** |
 
 ### Autonomous-community legislation (ámbito autonómico)
 
@@ -36,17 +42,24 @@ decretos legislativos, decretos-leyes) that were also published in the BOE.
 
 | Directory | Community | Files | By rank |
 |---|---|---:|---|
-| `autonomicas/aragon/` | Aragón | 2 | decretos-legislativos 1, leyes 1 |
-| `autonomicas/asturias/` | Principado de Asturias | 2 | leyes 2 |
-| `autonomicas/canarias/` | Canarias | 1 | leyes 1 |
-| `autonomicas/castilla-la-mancha/` | Castilla-La Mancha | 1 | leyes 1 |
-| `autonomicas/cataluna/` | Cataluña | 11 | decretos-legislativos 3, decretos-leyes 1, leyes 7 |
-| `autonomicas/comunitat-valenciana/` | Comunitat Valenciana | 13 | decretos-leyes 1, leyes 12 |
-| `autonomicas/extremadura/` | Extremadura | 7 | decretos-leyes 1, leyes 6 |
-| `autonomicas/la-rioja/` | La Rioja | 1 | leyes 1 |
-| `autonomicas/madrid/` | Comunidad de Madrid | 5 | leyes 5 |
-| `autonomicas/navarra/` | Comunidad Foral de Navarra | 3 | leyes-forales 3 |
-| | **Total autonomous** | **46** | |
+| `autonomicas/andalucia/` | Andalucía | 58 | decretos-legislativos 4, decretos-leyes 11, leyes 43 |
+| `autonomicas/aragon/` | Aragón | 13 | decretos-legislativos 4, leyes 9 |
+| `autonomicas/asturias/` | Principado de Asturias | 23 | decretos-legislativos 4, leyes 19 |
+| `autonomicas/canarias/` | Canarias | 44 | decretos-legislativos 3, decretos-leyes 3, leyes 38 |
+| `autonomicas/cantabria/` | Cantabria | 39 | decretos-legislativos 1, leyes 38 |
+| `autonomicas/castilla-la-mancha/` | Castilla-La Mancha | 29 | decretos-legislativos 2, leyes 27 |
+| `autonomicas/castilla-y-leon/` | Castilla y León | 12 | decretos-leyes 3, leyes 9 |
+| `autonomicas/cataluna/` | Cataluña | 139 | decretos-legislativos 14, decretos-leyes 16, leyes 108, resoluciones 1 |
+| `autonomicas/comunitat-valenciana/` | Comunitat Valenciana | 86 | decretos-legislativos 4, decretos-leyes 8, leyes 74 |
+| `autonomicas/extremadura/` | Extremadura | 24 | decretos-legislativos 1, decretos-leyes 7, leyes 16 |
+| `autonomicas/galicia/` | Galicia | 63 | decretos-legislativos 4, leyes 59 |
+| `autonomicas/illes-balears/` | Illes Balears | 90 | decretos-legislativos 5, decretos-leyes 21, leyes 64 |
+| `autonomicas/la-rioja/` | La Rioja | 22 | leyes 22 |
+| `autonomicas/madrid/` | Comunidad de Madrid | 29 | decretos-legislativos 2, leyes 27 |
+| `autonomicas/murcia/` | Región de Murcia | 20 | decretos-legislativos 2, decretos-leyes 3, leyes 15 |
+| `autonomicas/navarra/` | Comunidad Foral de Navarra | 49 | decretos-forales-legislativos 5, decretos-leyes-forales 1, leyes-forales 42, resoluciones 1 |
+| `autonomicas/pais-vasco/` | País Vasco | 23 | decretos-legislativos 2, leyes 20, resoluciones 1 |
+| | **Total autonomous** | **763** | |
 
 ### Codes
 
@@ -55,7 +68,8 @@ ordinary norms of various ranks (e.g. the *Código Civil* is a Real Decreto of 1
 *Código Penal* is Ley Orgánica 10/1995). They are stored under their rank and tagged
 `type: code` in the front matter:
 
-
+- [Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal](leyes-organicas/1995/boe-a-1995-25444-ley-organica-10-1995-de-23-de-noviembre-del-codigo-penal.md)
+- [Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil](reales-decretos/1889/boe-a-1889-4763-real-decreto-de-24-de-julio-de-1889-por-el-que-se-publica-el-codigo-civil.md)
 
 ## Not covered
 

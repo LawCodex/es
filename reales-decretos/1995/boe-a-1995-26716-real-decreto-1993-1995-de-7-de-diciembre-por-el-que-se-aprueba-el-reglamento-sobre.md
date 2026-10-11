@@ -1,0 +1,1955 @@
+---
+title: "Real Decreto 1993/1995, de 7 de diciembre, por el que se aprueba el Reglamento sobre colaboración de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social"
+identifier: "BOE-A-1995-26716"
+eli: "https://www.boe.es/eli/es/rd/1995/12/07/1993"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Seguridad Social"
+date: 1995-12-07
+published: 1995-12-12
+in_force_from: 1996-01-01
+last_amended: 2022-06-15
+consolidated: 2026-03-06
+gazette: "Boletín Oficial del Estado núm. 296"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-26716"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1993/1995, de 7 de diciembre, por el que se aprueba el Reglamento sobre colaboración de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social
+
+El texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto legislativo 1/1994, de 20 de junio, incorpora las modificaciones introducidas en el marco normativo regulador de la colaboración de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social por la disposición adicional decimocuarta de la Ley 4/1990, de 29 de junio, de Presupuestos Generales del Estado para 1990, y en la disposición adicional undécima de la Ley 22/1993, de 29 de diciembre, de Medidas fiscales, de reforma del régimen jurídico de la función pública y de la protección por desempleo. Con posterioridad, la Ley 42/1994, de 30 de diciembre, de Medidas fiscales, administrativas y de orden social, ha introducido diversas modificaciones en las prescripciones contenidas en dicha norma respecto de las referidas entidades. De entre las modificaciones introducidas por las normas anteriores, destaca la ampliación del ámbito funcional de la colaboración con la Seguridad Social de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales, que se extiende a la gestión de la prestación económica de incapacidad temporal por contingencias comunes de sus trabajadores protegidos y del subsidio por incapacidad temporal en el Régimen Especial de Trabajadores por Cuenta Propia o Autónomos y de los trabajadores por cuenta propia incluidos en el Régimen Especial Agrario de la Seguridad Social.
+
+Por otra parte, el Real Decreto 1221/1992, de 9 de octubre, sobre el patrimonio de la Seguridad Social, incluyó en su contenido la regulación de diferentes aspectos que afectan al patrimonio de la Seguridad Social adscrito a las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social.
+
+Finalmente, la experiencia acumulada desde la aprobación por Real Decreto 1509/1976, de 21 de mayo, del vigente Reglamento General sobre colaboración de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales en la gestión de la Seguridad Social, así como las importantes transformaciones producidas tanto en el sector, integrado por un menor número de entidades, de mayor volumen de recursos gestionados, como en el sistema de la Seguridad Social, aconsejan una revisión de aspectos concretos de la gestión de estas entidades, a efectos de adecuar la misma a las exigencias de la colaboración atribuida, acomodando la constitución y funcionamiento de las mismas a su marco legal básico, mediante su correspondiente desarrollo normativo y adaptando asimismo su gestión a las actuales características del sector; todo ello en orden a su actuación coordinada con los objetivos fijados con carácter general para el sistema de la Seguridad Social y a la obtención de una mayor eficacia y racionalización en la utilización de los recursos gestionados.
+
+Dicha iniciativa, que se enmarca en las acciones del Plan Integral de Modernización de la Gestión de la Seguridad Social, dentro del Ministerio de Trabajo y Seguridad Social, se concreta en la aprobación de un nuevo Reglamento General de Colaboración que responda a las finalidades antes expresadas.
+
+Así, el nuevo Reglamento incorpora y desarrolla las modificaciones recogidas en la disposición adicional decimocuarta de la Ley 4/1990, de 29 de junio, de Presupuestos Generales del Estado para 1990, en lo referente a denominación, supresión de la prohibición de asociación de las entidades de carácter público o asimilado, requisitos para su constitución y funcionamiento, patrimonio histórico, auditorías, medidas cautelares y prohibiciones e incompatibilidades aplicables a quienes desempeñan funciones directivas, así como las variaciones introducidas por el artículo 39 de la Ley 42/1994, de 30 de diciembre, de Medidas fiscales, administrativas y de orden social, relativas al tratamiento estatutario de la responsabilidad de los directivos, establecimiento de derramas para la reposición de las reservas obligatorias, incompatibilidades de los cargos directivos y constitución en cada Mutua de una Comisión de control y seguimiento como órgano de participación institucional en el control y seguimiento de la gestión desarrollada, con composición paritaria entre representantes de empresarios asociados y trabajadores protegidos.
+
+Asimismo, a efectos de dotar a estas entidades de una mayor solvencia y capacidad económico-financiera, se introducen modificaciones en cuanto a la dotación y materialización de las reservas, se adecua la cuantía de la fianza reglamentaria a la función de garantía que tiene atribuida y se regula la responsabilidad mancomunada de los asociados y los cauces para hacerla efectiva, así como la administración y contabilidad del patrimonio histórico, teniendo en cuenta su afectación al fin social.
+
+De igual forma, en orden a racionalizar el gobierno de estas entidades, se limita el número máximo de miembros de la Junta directiva, institucionalizándose la figura del Director Gerente, de carácter profesional, regulándose el procedimiento para su designación y el régimen de responsabilidades, incompatibilidades y prohibiciones aplicable al mismo. Asimismo y en aras a la mayor eficacia y agilidad en la gestión, sin merma del debido control, se revisa el sistema de autorizaciones y comunicaciones a que están sometidas estas entidades en diversos aspectos de su gestión, sobre todo de índole patrimonial, y se define asimismo el concepto de gastos de administración, adecuando su límite máximo.
+
+Por último, en lo que afecta a la colaboración en la gestión de la prestación económica por incapacidad temporal derivada de contingencias comunes y en la gestión del subsidio por incapacidad temporal en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos y de los trabajadores por cuenta propia incluidos en el Régimen Especial Agrario de la Seguridad Social, modalidades establecidas en la disposición adicional undécima del texto refundido de la Ley General de la Seguridad Social, en la redacción dada por la disposición adicional duodécima de la Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros privados, se regulan las condiciones para dicha gestión, tratando aspectos tales como el ejercicio de la opción y su formalización, régimen de la prestación, registros, seguimiento y control de las prestaciones, régimen financiero y contabilidad.
+
+En su virtud, a propuesta del Ministro de Trabajo y Seguridad Social, con la aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 7 de diciembre de 1995,
+
+D I S P O N G O :
+
+##### Artículo único.
+
+Se aprueba el Reglamento General sobre colaboración en la gestión de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social que se inserta a continuación.
+
+##### Disposición derogatoria única.
+
+Queda derogado el Reglamento General sobre colaboración de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales en la gestión de la Seguridad Social, aprobado por Real Decreto 1509/1976, de 21 de mayo, y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el Reglamento General adjunto al presente Real Decreto.
+
+##### Disposición final única.
+
+El presente Real Decreto entrará en vigor el día 1 de enero de 1996.
+
+Dado en Madrid a 7 de diciembre de 1995.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Seguridad Social,
+
+JOSE ANTONIO GRIÑAN MARTINEZ
+
+## REGLAMENTO DE COLABORACION DE LAS MUTUAS DE ACCIDENTES DE TRABAJO Y ENFERMEDADES PROFESIONALES DE LA SEGURIDAD SOCIAL
+
+> Téngase en cuenta que quedan derogadas las referencias recogidas en este Reglamento a las Entidades Mancomunadas de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+### TITULO I — Disposiciones comunes
+
+#### CAPITULO I — Normas generales
+
+##### Artículo 1. Normas reguladoras.
+
+La colaboración en la gestión de la Seguridad Social atribuida en el apartado 1 del artículo 67 y en las disposiciones adicionales undécima y trigésima cuarta del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, a las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social (en adelante, mutuas), se regirá por las normas de este reglamento y sus disposiciones de aplicación y desarrollo, sin perjuicio de atenerse a las restantes normas de la referida ley y a las disposiciones legales o reglamentarias que le sean aplicables.
+
+> Se modifica por el art. único.1 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Se modifica por el art. único.1 del Real Decreto 1117/1998, de 5 de junio. [Ref. BOE-A-1998-14283](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-14283)
+
+##### Artículo 2. Concepto y caracteres.
+
+1\. Se considerarán Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social las asociaciones de empresarios que, debidamente autorizadas por el Ministerio de Trabajo e Inmigración y con tal denominación, se constituyan con el objeto de colaborar, bajo la dirección y tutela de dicho Ministerio, en la gestión de las contingencias de accidentes de trabajo y enfermedades profesionales del personal a su servicio, sin ánimo de lucro, con sujeción a las normas del presente Reglamento y con la responsabilidad mancomunada de sus miembros.
+
+De conformidad con lo establecido en la disposición adicional undécima.1 de la Ley General de la Seguridad Social, también podrán asumir la cobertura de la prestación económica por incapacidad temporal derivada de contingencias comunes del personal al servicio de los empresarios asociados.
+
+De acuerdo con lo establecido en las disposiciones adicionales undécima.2 y trigésima cuarta.3 de la Ley General de la Seguridad Social, asumirán la protección de la prestación económica por incapacidad temporal derivada de contingencias comunes y frente a las contingencias de accidentes de trabajo y enfermedades profesionales de los trabajadores incluidos en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos.
+
+Asimismo, podrán asumir la protección de las contingencias de accidentes de trabajo y enfermedades profesionales de los trabajadores por cuenta propia incluidos en el Régimen Especial de la Seguridad Social de los Trabajadores del Mar, de conformidad con lo establecido en el artículo 48.4 del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, aprobado por el Real Decreto 84/1996, de 26 de enero.
+
+2\. Las Mutuas, una vez inscritas en el Registro existente al efecto, tendrán personalidad jurídica propia y gozarán de plena capacidad para adquirir, poseer, gravar o enajenar bienes y realizar toda clase de actos y contratos o ejercitar derechos o acciones, todo ello ordenado a la realización de los fines que tienen encomendados y conforme a lo dispuesto en este Reglamento y en sus disposiciones de aplicación y desarrollo, pudiendo realizar su actividad de colaboración con la Seguridad Social en todo el territorio del Estado.
+
+> Se modifica el apartado 1 por el art. 4.1 del Real Decreto 1382/2008, de 1 de agosto. [Ref. BOE-A-2008-14777](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14777)
+
+> Se añaden los párrafos tercero y cuarto al apartado 1 por el art. único.2 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+##### Artículo 3. Patrimonio.
+
+1\. De conformidad con lo establecido en el apartado 4 del artículo 68 y en el apartado 1 del artículo 80 de la Ley General de la Seguridad Social, los ingresos procedentes de las cuotas de la Seguridad Social obtenidas por las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social como consecuencia de la gestión desarrollada, así como los bienes muebles o inmuebles en que puedan invertirse dichos ingresos, forman parte del patrimonio de la Seguridad Social y están afectados al cumplimiento de los fines de ésta. Asimismo, forman parte del patrimonio de la Seguridad Social las rentas y rendimientos de los bienes señalados y, en general, los derechos, acciones y recursos relacionados con los mismos.
+
+No obstante lo anterior, tales bienes, dada la gestión singularizada y el régimen económico-financiero establecidos para estas entidades, estarán sujetos a los resultados de dicha gestión pudiendo liquidarse en caso de ser necesario, sin perjuicio de la responsabilidad mancomunada de los empresarios asociados, para el pago de prestaciones u otras obligaciones derivadas de la misma y, a los mismos efectos, durante el proceso de liquidación de la Mutua.
+
+2\. Los bienes incorporados al patrimonio de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social con anterioridad a 1 de enero de 1967 o durante el período comprendido entre esa fecha y el 31 de diciembre de 1975, siempre que en este último caso se trate de bienes que provengan del 20 por 100 del exceso de excedentes, así como los que procedan de recursos distintos de los que tengan su origen en las cuotas de Seguridad Social, constituyen el patrimonio histórico de las Mutuas, cuya propiedad les corresponde en su calidad de asociación de empresarios, sin perjuicio de la tutela a que se refiere el artículo 71 de la Ley General de la Seguridad Social.
+
+Este patrimonio histórico se halla igualmente afectado estrictamente al fin social de la entidad, sin que de su dedicación a los fines sociales de la Mutua puedan derivarse rendimientos o incrementos patrimoniales, que a su vez constituyan gravamen para el patrimonio único de la Seguridad Social.
+
+##### Artículo 4. Utilización de bienes inmuebles integrantes del patrimonio histórico.
+
+1\. Sin perjuicio de lo establecido con carácter general en el apartado 2 del artículo anterior, el Ministerio de Trabajo y Seguridad Social podrá autorizar a aquellas Mutuas que cuenten con bienes inmuebles integrantes de su patrimonio histórico, destinados a ubicar centros y servicios asistenciales o administrativos para el desarrollo de las actividades propias de la colaboración con la Seguridad Social, la imputación en sus correspondientes cuentas de resultados, de un canon o coste de compensación por su utilización, por el importe y en las condiciones que se fijen por el citado Ministerio, a cuyo efecto se tendrá en cuenta, junto a otras circunstancias que pudieran establecerse, el valor de dichos inmuebles y la finalidad concreta a que los mismos se destinan.
+
+2\. El Ministerio de Trabajo y Seguridad Social podrá modificar, suspender o revocar las autorizaciones a que se refiere el presente artículo, en los supuestos de utilización del inmueble para fines distintos de los alegados en el expediente de autorización, inutilización temporal del inmueble u otros de naturaleza similar.
+
+##### Artículo 5. Ausencia de lucro.
+
+1\. La colaboración de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social no podrá servir de fundamento a operaciones de lucro mercantil, sin que, en consecuencia, pueda imputarse gasto alguno a cargo de estas entidades por actividades de mediación o captación de empresas asociadas o de trabajadores adheridos.
+
+A los efectos señalados en el párrafo anterior, no tendrá la consideración de operación de lucro mercantil la utilización por estas entidades, como complemento de su administración directa, de los servicios de terceros para gestiones de índole administrativa distintas de las de mediación o captación de empresas, teniendo en cuenta que los gastos derivados, cualquiera que sea su naturaleza, no podrán superar el importe que a tal efecto fije el Ministerio de Trabajo y Seguridad Social.
+
+2\. Asimismo, la actividad colaboradora de estas entidades no podrá dar lugar a la concesión de beneficios económicos de ninguna clase a favor de los empresarios asociados, ni a la sustitución de éstos en las obligaciones que se derivan de su condición de tales.
+
+##### Artículo 6. Exención tributaria.
+
+Las Mutuas gozarán de exención tributaria, en los términos que se establece para las Entidades Gestoras a las que aquéllas prestan su colaboración en el artículo 65 de la Ley General de la Seguridad Social.
+
+##### Artículo 7. Reparto de costes y gastos entre los asociados.
+
+Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en su colaboración en la gestión de la Seguridad Social, repartirán entre sus asociados, mediante la aportación por éstos de las correspondientes cuotas y la aplicación, en su caso, a los mismos, de la responsabilidad regulada en el artículo siguiente, el importe de los siguientes conceptos:
+
+a) El coste que se derive del régimen de prestaciones aplicable a las contingencias en que tienen autorizada la colaboración y conforme a lo establecido en los apartados correspondientes de este Reglamento.
+
+b) El coste de los servicios para la prevención de accidentes de trabajo y enfermedades profesionales a que se refiere el artículo 13 de este Reglamento, en función de lo que establezcan las disposiciones específicas que se aluden en el mismo.
+
+c) La contribución al sostenimiento de los Servicios Comunes y Sociales de la Seguridad Social, en la forma que se establezca por el Ministerio de Trabajo y Seguridad Social.
+
+d) Los gastos de administración de la entidad, con las limitaciones que al efecto se establecen en este Reglamento.
+
+##### Artículo 8. Responsabilidad de los asociados.
+
+1\. La responsabilidad mancomunada de los empresarios asociados se extenderá a todas las obligaciones que legal o contractualmente alcancen a la Mutua cuando ésta no las cumpliera a su debido tiempo, sin que los estatutos de la entidad puedan establecer ninguna limitación a este respecto.
+
+La responsabilidad del empresario asociado a una Mutua no terminará hasta la liquidación de las obligaciones sociales correspondientes al período durante el cual haya permanecido asociado a la misma, o que sean consecuencia de operaciones realizadas dentro de aquel período. No obstante, en caso de finalizar la asociación dicha responsabilidad prescribirá a los cinco años desde la fecha de cierre del ejercicio correspondiente.
+
+2\. El Ministerio de Trabajo y Seguridad Social, de conformidad con lo establecido en este Reglamento y en sus disposiciones de aplicación y desarrollo, podrá exigir de las Mutuas la ejecución de la responsabilidad mancomunada de sus socios cuando, una vez aplicadas la provisión y reservas, de conformidad y según lo previsto en este Reglamento, ello resulte preciso para asegurar el otorgamiento de las prestaciones a los trabajadores asegurados. Asimismo, el citado Ministerio podrá exigir la ejecución de dicha responsabilidad para el resarcimiento de los gastos indebidos y del exceso en los de administración en que pudieran incurrir, así como para el pago de las sanciones económicas que les sean impuestas.
+
+3\. Las derramas que en su caso resulten necesarias según lo previsto en los apartados anteriores, así como en el artículo 60.4 del presente Reglamento, serán establecidas de conformidad con lo dispuesto en los estatutos y sometidas a la aprobación del Ministerio de Trabajo y Seguridad Social.
+
+El sistema a utilizar para la determinación de las referidas derramas deberá salvaguardar en todo caso la igualdad de derechos y obligaciones de los empresarios asociados y la proporcionalidad con las cuotas de la Seguridad Social que les corresponda satisfacer en función de las contingencias protegidas en la Mutua.
+
+Si la Mutua correspondiente no procediese a la fijación de la derrama y se tratase de uno de los supuestos previstos en el artículo 74.1, párrafos a) y b), de la Ley General de la Seguridad Social, el Ministerio de Trabajo y Seguridad Social podrá establecer la derrama a aplicar, con base en lo establecido al respecto en los estatutos.
+
+4\. Dichas derramas tendrán el carácter de recursos de la Seguridad Social a efectos de lo dispuesto en el artículo 4 del Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social, aprobado por Real Decreto 1637/1995, de 6 de octubre, correspondiendo su recaudación, tanto en período voluntario como en la vía ejecutiva, a la Tesorería General de la Seguridad Social.
+
+##### Artículo 9. Condiciones para su constitución y funcionamiento.
+
+Las Mutuas, para constituirse y colaborar en la gestión de la Seguridad Social, habrán de reunir las siguientes condiciones:
+
+1.ª Que limiten su actividad a la expresada colaboración.
+
+2.ª Que concurran como mínimo cincuenta empresarios y treinta mil trabajadores, con un volumen anual de cuotas no inferior al que se determine en las disposiciones de aplicación y desarrollo del presente Reglamento.
+
+3.ª Que presten fianza como garantía del cumplimiento de sus obligaciones, en los términos establecidos en el artículo 19 de este Reglamento.
+
+##### Artículo 10. Cobertura.
+
+Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social habrán de aceptar toda proposición de asociación y de adhesión que les formulen, en los mismos términos y con igual alcance que las Entidades Gestoras de la Seguridad Social asumen la cobertura de que se trate.
+
+##### Artículo 11. Denominación.
+
+1\. En la denominación de la entidad se consignará obligatoriamente la expresión «Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social», seguida del número con que haya sido inscrita en el Registro. Expresión que deberá ser utilizada en todos los centros y dependencias de la entidad, así como en sus relaciones tanto con sus asociados, adheridos y trabajadores protegidos, como con terceros.
+
+Cuando las Mutuas utilicen anagramas o denominaciones abreviadas, en cualquier caso, utilizarán la expresión Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social seguida del número con que hayan sido inscritas.
+
+2\. En ningún caso podrá una Mutua emplear la denominación utilizada por otra entidad, cualquiera que sea su naturaleza, o que pueda inducir a confusión, sin que a tal efecto tengan carácter diferenciador las indicaciones relativas a la forma social o aquellas otras cuya utilización venga exigida por la normativa específica.
+
+3\. De conformidad con lo previsto en el artículo 361 del Reglamento del Registro Mercantil, aprobado por Real Decreto 1597/1989, de 29 de diciembre, y sin perjuicio de su naturaleza, las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social deberán inscribir su denominación en la Sección de denominaciones del Registro Mercantil Central, debiendo remitir, para su constancia, la correspondiente certificación al Ministerio de Trabajo y Seguridad Social.
+
+4\. Lo dispuesto en los apartados anteriores será de aplicación a la denominación que adopten las instalaciones y servicios a que se refiere el artículo 12.2 de este Reglamento, en la que se deberá consignar obligatoriamente la expresión «Centro Mancomunado de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social».
+
+##### Artículo 12. Servicios sanitarios y recuperadores.
+
+1\. Las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social podrán establecer instalaciones y servicios sanitarios y recuperadores para la prestación de la asistencia debida y la plena recuperación de los trabajadores incluidos en el ámbito de protección de las mutuas.
+
+La utilización de dichos servicios, en cuanto que se hallan destinados a la cobertura de prestaciones incluidas en la acción protectora de la Seguridad Social e integradas en el Sistema Nacional de Salud, deberá estar coordinada con los de las administraciones públicas sanitarias.
+
+La creación, modificación y supresión de las referidas instalaciones y servicios sanitarios y recuperadores, requerirán la autorización del Ministerio de Trabajo e Inmigración, previa valoración e informe, preceptivo y determinante, de las administraciones sanitarias competentes acerca de la ubicación y características de las instalaciones y servicios propuestos y de su adecuación a las finalidades que deben cumplir, y se ajustarán a lo establecido en esta materia en la normativa específica que resulte de aplicación en la comunidad autónoma donde se ubiquen, y en las disposiciones de aplicación y desarrollo. Si la creación o modificación de instalaciones y servicios sanitarios o recuperadores llevase consigo la realización de operaciones patrimoniales, se estará al trámite establecido en los artículos correspondientes de este reglamento.
+
+A los efectos previstos en el párrafo anterior, se entenderá por modificación de centros y servicios sanitarios y recuperadores toda actuación que se realice sobre éstos e implique variaciones sustanciales en el tipo de prestaciones sanitarias dispensadas desde ellos, independientemente de que conlleve o no cambios o alteraciones físicas de las instalaciones donde se ubican.
+
+En la planificación de instalaciones y servicios sanitarios y recuperadores a los que se refieren los párrafos anteriores, habrá de tenerse en cuenta la participación de la mutua, en su caso, en las entidades y centros mancomunados regulados en el título III de este reglamento.
+
+2\. Las instalaciones y servicios a que se refiere el apartado anterior deberán reunir las condiciones precisas para la correcta y eficaz prestación de la asistencia a la que están destinados. En tal sentido, las mutuas deberán acreditar ante el Ministerio de Trabajo e Inmigración la suficiencia de dichas instalaciones y servicios, otorgada por los órganos correspondientes de las comunidades autónomas competentes en la materia.
+
+3\. **(Derogado)**
+
+4\. **(Derogado)**
+
+5\. Atendiendo a las circunstancias concurrentes en cada caso, el Ministerio de Trabajo e Inmigración podrá autorizar a las mutuas la utilización de sus medios sanitarios y recuperadores para la prestación de asistencia en supuestos distintos de los previstos en el apartado anterior.
+
+6\. Las instalaciones y servicios a que se refiere el apartado 1 llevarán libros de asistencias y de reclamaciones, debiendo llevar al día los datos sobre su actividad, y estando obligados a aportar cuantos datos y estadísticas les sean requeridos por los órganos competentes, quedando asimismo sometidos a la inspección y control de las administraciones públicas sanitarias.
+
+7\. Los ingresos que las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social puedan generar en las instalaciones y servicios sanitarios y recuperadores a que se refiere este artículo, como consecuencia de la dispensa de prestaciones y servicios a personas ajenas a su colectivo de trabajadores protegidos tendrán, en todo caso, el carácter de recursos de la Seguridad Social, integrados como ingresos en las pertinentes rúbricas contables presupuestarias.
+
+> Se derogan los apartados 3 y 4 por la disposición derogatoria única del Real Decreto 1630/2011, de 14 de noviembre. [Ref. BOE-A-2011-18321](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18321).
+
+> Se modifica por el art. único.1 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+> Se añade el párrafo cuarto al apartado 2 por el art. único.3 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+##### Artículo 13. Actividades preventivas.
+
+1\. Las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, en su condición de colaboradoras en la gestión de la Seguridad Social, podrán desarrollar actividades para la prevención de los accidentes de trabajo y enfermedades profesionales a favor de las empresas asociadas y de sus trabajadores dependientes y de los trabajadores por cuenta propia adheridos que tengan cubiertas las contingencias citadas, en los términos y condiciones establecidos en el inciso primero del artículo 68.2.b) del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, en este reglamento y en sus disposiciones de aplicación y desarrollo.
+
+De estas actividades, que no implican atribución de derechos subjetivos a favor de dichos colectivos, quedarán excluidas aquellas obligaciones que los empresarios deban desarrollar a través de alguna de las modalidades de organización de la actividad preventiva, en cumplimiento de lo establecido en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+
+Las mutuas podrán establecer centros e instalaciones para la dispensación de las actividades previstas en este apartado. La creación, modificación y supresión de éstos requerirán autorización previa del Ministerio de Trabajo e Inmigración, en los términos establecidos en los artículos 26 a 29.
+
+2\. Con independencia de las actividades preventivas reguladas en el apartado anterior, y de conformidad con lo dispuesto en el artículo 32 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, las mutuas podrán participar, con cargo a su patrimonio histórico, en las sociedades mercantiles de prevención constituidas a este único fin.
+
+En ningún caso podrán las mutuas desarrollar directamente las funciones correspondientes a los servicios de prevención ajenos.
+
+3\. La participación en las sociedades mercantiles de prevención a la que se refiere el apartado anterior se ajustará a los siguientes requisitos:
+
+a) El objeto social de las sociedades de prevención será la actuación como servicio de prevención ajeno.
+
+b) La denominación social no podrá incluir el nombre de la mutua ni la expresión *“*mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social” o su acrónimo “MATEPSS”.
+
+c) **(Suprimido)**
+
+d) La actividad de las sociedades de prevención se desarrollará con total independencia y autonomía de los servicios de que dispongan las mutuas para la prevención de los accidentes de trabajo y enfermedades profesionales a que se refiere el apartado 1. A estos efectos, deberá disponer de la organización, las instalaciones, el personal propio y los equipos necesarios para el desarrollo de la actividad. En este sentido, ningún trabajador al servicio de la mutua, cualquiera que sea su categoría, podrá percibir retribución, incentivo o complemento salarial alguno de la sociedad de prevención por ningún concepto, ni los trabajadores de ésta podrán percibirlos de la mutua.
+
+Las sociedades de prevención podrán concertar el desarrollo de actividades preventivas en las mismas condiciones y con el mismo alcance previsto para los restantes servicios de prevención ajenos.
+
+e) Los rendimientos procedentes de las sociedades de prevención percibidos por las mutuas seguirán el régimen establecido para los ingresos de su patrimonio histórico.
+
+f) Los miembros de la junta directiva, los directores-gerentes, gerentes o asimilados, o cualquier otra persona que ejerza las funciones de dirección ejecutiva de una mutua, no podrán ejercer como administradores o miembros de los órganos de gobierno de las sociedades de prevención, ni ejercer o desarrollar funciones de dirección ejecutiva de ninguna clase en dichas sociedades, lo que no afecta a las funciones de intervención y representación en sede de la junta general de dichas sociedades, cuando sea convocada para la adopción de los acuerdos pertinentes.
+
+Asimismo, los administradores, miembros de los órganos de gobierno, gerentes o asimilados o cualquier otra persona que ejerza las funciones de dirección ejecutiva de una sociedad de prevención estarán sujetos, en relación con la mutua que posea su capital social, a las prohibiciones establecidas en el artículo 76 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto legislativo 1/1994, de 20 de junio.
+
+Será de aplicación a las sociedades de prevención, en su condición de servicio de prevención ajeno, lo establecido en materia de incompatibilidades en el artículo 17.c) del Reglamento de los servicios de prevención, aprobado por el Real Decreto 39/1997, de 17 de enero.
+
+g) La actuación desarrollada por la mutua en cuanto socio de una sociedad de prevención estará sometida al control y seguimiento de la comisión regulada en el artículo 37 de este reglamento, en los términos establecidos en el último párrafo del apartado 3 de dicho artículo.
+
+En todo caso, a la Intervención General de la Seguridad Social le corresponderán las competencias establecidas en su normativa de aplicación.
+
+4\. **(Suprimido)**
+
+5\. Los títulos recibidos por una mutua en virtud de las aportaciones dinerarias y no dinerarias efectuadas a la sociedad de prevención, así como el precio que pudieran obtener por posibles transmisiones, o el remanente que pudiera resultar con motivo del cese en sus actividades, forman parte del patrimonio histórico de la mutua.
+
+Las operaciones de transmisión de participaciones, así como de disolución y liquidación de las sociedades de prevención, se regirán por lo dispuesto en el Real Decreto Legislativo 1/2010, de 2 de julio, por el que se aprueba el texto refundido de la Ley de Sociedades de Capital y sus disposiciones de desarrollo.
+
+Las sociedades de prevención en las que participen las mutuas podrán realizar con otras sociedades de prevención o con terceros operaciones de fusión y demás modificaciones estructurales relacionadas con dichas sociedades, previo informe, en su caso, de la Comisión Nacional de la Competencia, y con sujeción a lo dispuesto en la Ley 3/2009, de 3 de abril, sobre modificaciones estructurales de las sociedades mercantiles y sus disposiciones de desarrollo. La sociedad resultante de las referidas operaciones deberá tener como fin único el señalado en el apartado 2.
+
+Para poder iniciar las operaciones mencionadas en los párrafos anteriores será requisito necesario e imprescindible que se haya producido la efectiva segregación de los medios atribuidos a la sociedad de prevención y, en concreto, que esté concluida la separación de las mutuas como servicio de prevención ajeno, para lo cual se requerirá auditoría previa de la Intervención General de la Seguridad Social, en los términos que establezca dicha intervención, de conformidad con las competencias atribuidas por la Ley 47/2003, 26 de noviembre, General Presupuestaria.
+
+> Se modifican los apartados 1, 2, 3 y 5 y se suprime el apartado 4 por el art. único.1 del Real Decreto 1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+> Se modifican las letras d) y f) del apartado 3 por el art.único.2 y 3 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+> Se modifica por el art. 1.1 del Real Decreto 688/2005, de 10 de junio. [Ref. BOE-A-2005-9877](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-9877)
+
+> Se modifica por el art. único.4 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+##### Artículo 14. Coordinación.
+
+1\. Las Mutuas coordinarán su actuación con las Entidades Gestoras y Servicios Comunes de la Seguridad Social, así como con las Administraciones públicas que tengan atribuidas competencias relacionadas con los distintos aspectos de la colaboración en la gestión que tienen encomendada.
+
+2.**(Derogado)**
+
+> Se deroga el apartado 2 por el art. único.4 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+> Se añade el apartado 2 y se numera el contenido existente como apartado 1 por el art. único del Real Decreto 1765/2007, de 28 de diciembre. [Ref. BOE-A-2007-22453](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22453)
+
+##### Artículo 15. Información y publicidad.
+
+1\. Las Mutuas estarán obligadas a facilitar al Ministerio de Trabajo y Seguridad Social cuantos datos les solicite en orden al adecuado y completo conocimiento de las actividades que desarrollan en el ejercicio de su colaboración en la gestión, así como respecto de la gestión y administración de su patrimonio histórico. Asimismo, facilitarán a las autoridades sanitarias la información sobre asistencia sanitaria y morbilidad que les requieran.
+
+2\. Los asociados, sus trabajadores y los adheridos, tendrán derecho a ser informados por las Mutuas acerca de los datos a ellos referentes que obren en las mismas. De igual derecho gozarán las personas que acrediten tener, de acuerdo con lo establecido en la Ley General de la Seguridad Social, un interés personal y directo.
+
+3\. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social podrán divulgar informaciones y datos referentes a su actuación, siempre que los mismos se limiten a la colaboración en la gestión ejercida por la Mutua y no contengan comparaciones con la llevada a cabo por otras Entidades.
+
+4\. En todo caso, el suministro de datos que puedan realizar las Mutuas estará sometido a lo establecido en la Ley Orgánica 5/1992, de 29 de octubre, de regulación del tratamiento automatizado de los datos de carácter personal.
+
+##### Artículo 16. Documentación y libros de reclamaciones.
+
+1\. Sin perjuicio de lo que, en su caso, puedan establecer disposiciones específicas, las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social deberán conservar, por un período mínimo de cinco años, la documentación relativa a prestaciones, contabilidad, justificación de ingresos y gastos y, en general, la derivada de la gestión que realizan.
+
+2\. Los beneficiarios podrán formular reclamaciones ante el órgano de dirección y tutela de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, dependiente del Ministerio de Empleo y Seguridad Social, con motivo de deficiencias en la gestión desarrollada por las entidades.
+
+Las mutuas dispondrán en todos sus centros, con independencia de los servicios que alberguen, de los libros de reclamaciones mencionados en el artículo 12.6, integrados por las correspondientes hojas, de cuya existencia darán conocimiento público y que estarán a disposición de los interesados. Las reclamaciones que se formulen serán remitidas por la mutua, sin más trámites ni practicar comunicaciones, a la Dirección General de Ordenación de la Seguridad Social en el plazo máximo de diez días siguientes a su presentación, adjuntando informe de la entidad sobre los hechos y circunstancias en que aquella se fundamente y su consideración sobre el objeto de la misma.
+
+Igualmente los interesados podrán formular sus quejas a la Dirección General citada, mediante internet, a través de la sede electrónica de la Secretaría de Estado de la Seguridad Social, así como a través de los medios establecidos en el artículo 38 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Se modifica por la disposición final 1 del Real Decreto 625/2014, de 18 de julio. [Ref. BOE-A-2014-7684](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7684).
+
+> Téngase en cuenta, sobre adaptación a las mutuas de los sistemas informáticos, lo establecido en la disposición adicional 3.
+
+#### CAPITULO II — Constitución
+
+##### Artículo 17. Solicitud.
+
+Los empresarios que deseen constituir una Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social deberán solicitar la oportuna autorización del Ministerio de Trabajo y Seguridad Social, mediante instancia firmada por todos ellos y acompañada de los documentos, por triplicado, que a continuación se detallan:
+
+1\. Acta en que conste el acuerdo de los empresarios para constituir la Mutua.
+
+2\. Relación nominal de los empresarios a que se refiere el apartado anterior, con expresión de la actividad económica, código o códigos de cuenta de cotización asignados, domicilio y número de trabajadores empleados por cada uno de ellos.
+
+3\. Estatutos cuya aprobación se solicite.
+
+4\. Modelos de documento de asociación a la entidad, así como del de proposición de asociación y de sus correspondientes anexos.
+
+5\. Estudio del volumen de cotización en concordancia con los datos a que se refiere el apartado 2.
+
+6\. Justificación de que la entidad dispondrá de instalaciones y servicios administrativos y sanitarios suficientes para garantizar el cumplimiento de los fines de la colaboración en la gestión de la Seguridad Social.
+
+En el aspecto sanitario deberán presentar un plan asistencial comprensivo del ámbito geográfico y poblacional de la Mutua; riesgos que son objeto de cobertura; prestaciones preventivas, curativas y rehabilitadoras, y recursos propios y ajenos con que se contará. Dicho plan deberá ser informado, con carácter preceptivo, por la autoridad sanitaria competente en materia de asistencia sanitaria de la Seguridad Social.
+
+7\. Documento en el que se obliguen a prestar, como trámite previo a la inscripción de la Mutua en el Registro, la fianza que a la misma corresponda.
+
+##### Artículo 18. Autorización e inscripción.
+
+1\. El Ministerio de Trabajo y Seguridad Social, previa comprobación de que concurren en la solicitud formulada los requisitos necesarios para la constitución de una Mutua y que sus estatutos no se oponen al ordenamiento jurídico, procederá a la aprobación de aquélla y de éstos. Si el Ministerio advirtiese la existencia de defectos subsanables que se opongan a la aprobación, lo advertirá a los promotores para que en un plazo de diez días procedan a su subsanación, con indicación de que, si así no lo hicieran, se les tendrá por desistidos de su petición, archivándose sin más trámites, con los efectos previstos en el artículo 42.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Aprobada la constitución de la Mutua y constituida la fianza, se procederá a la inscripción de la entidad en el correspondiente Registro, dependiente de la Secretaría General para la Seguridad Social.
+
+Notificada a la entidad la aprobación y subsiguiente inscripción, con expresión del número de Registro que le corresponda, la misma podrá comenzar su actuación.
+
+2\. Las inscripciones en el Registro se publicarán en el «Boletín Oficial del Estado».
+
+##### Artículo 19. Fianza.
+
+1\. La fianza prevista en el artículo 9.3 será constituida en la Caja General de Depósitos por los empresarios promotores de la entidad a disposición del Ministerio de Trabajo y Seguridad Social, bien en valores públicos anotados, bien mediante aval bancario o mediante seguro de caución. También podrá admitirse la aportación de bienes inmuebles en la proporción, términos y condiciones que se determinen en las disposiciones de desarrollo.
+
+2\. Las disposiciones de aplicación y desarrollo del presente Reglamento establecerán los términos y condiciones para constituir la fianza, así como la cuantía inicial de la misma, que no podrá ser inferior a 30.000.000 de pesetas.
+
+3\. La fianza quedará afecta al cumplimiento de las obligaciones de la Mutua y sólo se devolverá en caso de disolución y liquidación de la entidad, siempre que no exista ninguna responsabilidad pendiente que pueda afectarla.
+
+De conformidad con las prescripciones contenidas en el presente Reglamento, el Ministerio de Trabajo y Seguridad Social podrá acordar, de oficio o a solicitud de la Mutua correspondiente, la disponibilidad total o parcial de la fianza, en los supuestos a que se refieren los artículos 8.2 y 45.
+
+Acordada la disponibilidad de la fianza, la Mutua deberá reponerla en el plazo máximo de seis meses, incurriendo en caso contrario en la causa de disolución prevista en el artículo 38.3 del presente Reglamento.
+
+##### Artículo 20. Estatutos.
+
+1\. En los estatutos de las Mutuas, que deberán recoger expresamente su sometimiento al presente Reglamento y demás normativa de aplicación, se consignará necesariamente:
+
+1.º Denominación, objeto, domicilio social y duración de la entidad, que podrá ser limitada.
+
+2.º Régimen jurídico, con especificación de los extremos siguientes:
+
+a) Limitación de sus operaciones a aquéllas que tengan por finalidad la colaboración en la gestión de la Seguridad Social.
+
+b) Condiciones para la asociación y adhesión, así como los requisitos que hayan de cumplimentarse para la extinción de ambas.
+
+c) Derechos y deberes de los empresarios asociados y modo de hacerlos efectivos, con expresa declaración de que todos tendrán los mismos derechos y obligaciones.
+
+d) Declaración expresa de la responsabilidad mancomunada de los empresarios asociados y procedimiento para hacerla efectiva.
+
+e) Derechos y deberes de los trabajadores por cuenta propia adheridos y modo de hacerlos efectivos.
+
+f) Normas de gobierno y funcionamiento interior de la entidad, detallando el número de miembros que han de componer sus Juntas directivas; así como las atribuciones, régimen de incompatibilidades, nombramiento, remoción y sustitución de aquéllos y del Director Gerente; las facultades reservadas a las Juntas generales; los requisitos que han de observarse en la convocatoria de las Juntas directivas y generales, según revistan carácter ordinario o extraordinario, las formas de representación y las condiciones exigidas para la validez de los acuerdos.
+
+g) Responsabilidad de los asociados que desempeñen funciones directivas, así como del Director Gerente, y la forma de hacer efectiva dicha responsabilidad. A tal efecto se recogerá expresamente que responden frente a la Seguridad Social, la Mutua y los empresarios asociados, por el daño que causen por actos contrarios a la normativa aplicable o a los estatutos, así como por los realizados sin la diligencia con la que deben desempeñar el cargo. Asimismo deberá consignarse la responsabilidad solidaria de los miembros de la Junta directiva respecto de los acuerdos lesivos adoptados por la misma, salvo que prueben que, no habiendo intervenido en su adopción y ejecución, desconocían su existencia o conociéndola hicieron todo lo conveniente para evitar el daño o, al menos, se opusieron expresamente a él. De igual forma deberá señalarse que en ningún caso exonerará de responsabilidades la circunstancia de que el acto o acuerdo lesivo haya sido adoptado, autorizado o ratificado por la Junta general.
+
+h) Requisitos para hacer efectiva la prestación de asistencia social.
+
+i) Normativa referente a la modificación de los estatutos, con expresión del órgano competente para aprobarla y la mayoría exigida para adoptar el acuerdo correspondiente.
+
+j) Causas de disolución de la entidad, normas para practicar la liquidación y destino que haya de darse, de conformidad con lo establecido en el presente Reglamento, a los excedentes del patrimonio histórico que pudieran resultar, una vez terminado el proceso liquidatorio.
+
+3.º Régimen económico-administrativo, expresando:
+
+a) Normas sobre administración y disposición de los bienes y recursos de la Seguridad Social gestionados por la entidad.
+
+b) Las aportaciones ordinarias y extraordinarias de los asociados y adheridos y régimen aplicable a las mismas.
+
+c) La declaración de la no procedencia de repartir entre los asociados y adheridos beneficios económicos de ninguna clase.
+
+d) La prohibición de que los asociados que desempeñen cargos directivos perciban cualquier clase de retribución por su gestión, con excepción de la compensación que por la asistencia a las reuniones de la Junta directiva perciban sus miembros, así como de las compensaciones que correspondan a los miembros de los órganos de participación a que se refiere el artículo 32, todo ello en los términos que establezca el Ministerio de Trabajo y Seguridad Social.
+
+e) Declaración expresa de sometimiento a las normas contables contenidas en este Reglamento, así como a las emanadas del Ministerio de Trabajo y Seguridad Social y que se dispongan de aplicación para estas entidades.
+
+f) Normas sobre la constitución de reservas voluntarias y destino previsto para las mismas.
+
+g) Normas sobre contabilidad, administración y disposición del patrimonio histórico de la entidad, que deberán adaptarse a lo establecido en el párrafo e) anterior, así como en el capítulo VII del Título I de este Reglamento.
+
+2\. Toda modificación de los estatutos deberá someterse a la aprobación del Ministerio de Trabajo y Seguridad Social, el cual procederá en la forma establecida en el artículo 18.1 del presente Reglamento.
+
+#### CAPITULO III — Régimen económico-administrativo
+
+##### Artículo 21. Libros y registros.
+
+1\. Las Mutuas vendrán obligadas a llevar al día los siguientes libros:
+
+1.º Libro de Actas de cada uno de los órganos de gobierno de la entidad, de la Comisión de control y seguimiento y de la Comisión de prestaciones especiales.
+
+2.º Libros oficiales de contabilidad.
+
+3.º Libro de Actuaciones de la Inspección de Trabajo y Seguridad Social.
+
+2\. Todos estos libros serán diligenciados por el Ministerio de Trabajo y Seguridad Social, que procederá a sellar todos sus folios, los cuales deberán estar numerados correlativamente.
+
+3\. Las Mutuas llevarán asimismo obligatoriamente los registros siguientes:
+
+1.º Registros de empresas asociadas y de trabajadores por cuenta propia adheridos.
+
+2.º Registro de reconocimientos médicos.
+
+3.º Registros de contingencias.
+
+4\. Las Mutuas podrán llevar los libros y registros a que este artículo se refiere, así como los restantes que se establecen en el presente Reglamento, por sistemas informáticos, electrónicos u otros similares que, debidamente autorizados por el Ministerio de Trabajo y Seguridad Social, ofrezcan las mismas garantías que aquéllos.
+
+5\. Con independencia de lo establecido en los apartados anteriores, las Mutuas deberán llevar un control actualizado y pormenorizado por provincias, de asociados y adheridos, cotizaciones y prestaciones satisfechas, así como de los gastos e ingresos.
+
+6\. Los registros de reconocimientos médicos y de contingencias que se especifican en el presente Reglamento, deberán estar en todo caso a disposición de las autoridades sanitarias.
+
+##### Artículo 22. Contabilidad.
+
+1\. Las Mutuas llevarán su contabilidad al corriente y de forma clara y precisa, de manera que permita conocer en todo momento su verdadera situación económica y financiera y rendir, con referencia a cada ejercicio económico, que se ajustará al año natural, sus cuentas anuales.
+
+2\. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en su condición de Entidades Colaboradoras de la Seguridad Social y administradoras de fondos públicos, deberán ajustarse, dentro del régimen de la contabilidad pública, al Plan General de Contabilidad de la Seguridad Social, estando sometidas a la rendición de las cuentas de su gestión al Tribunal de Cuentas.
+
+El Ministerio de Trabajo y Seguridad Social establecerá las restantes normas para la contabilidad de dichas Entidades Colaboradoras, de acuerdo con las directrices del régimen general de la contabilidad pública.
+
+3\. Las cuentas anuales a rendir por las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social comprenderán, al menos, las siguientes: el balance de situación, las cuentas de resultados, los estados de liquidación del presupuesto y la memoria, en la que se incluirá el cuadro de financiación.
+
+##### Artículo 23. Presupuestos.
+
+1\. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social confeccionarán para cada ejercicio económico sus anteproyectos de presupuestos de ingresos y gastos en los que consignarán, con la debida separación, la totalidad de los recursos que prevean obtener y de las obligaciones que deban atender en dicho ejercicio derivadas de su función colaboradora con la Seguridad Social, que se formularán en términos de programas.
+
+2\. Dichos anteproyectos, así como el presupuesto resultante deberán ajustarse, en su elaboración y ejecución, a las normas y a los modelos que al efecto establezca el Ministerio de Trabajo y Seguridad Social. Una vez aprobados los anteproyectos por los respectivos órganos de gobierno de las Mutuas, serán remitidos al citado Ministerio para, previas las actuaciones que resulten necesarias de conformidad con lo previsto en las normas aludidas, proceder a su integración en el Presupuesto de la Seguridad Social, a los efectos de trámite oportunos.
+
+3\. El Ministerio de Trabajo y Seguridad Social establecerá el procedimiento para el adecuado seguimiento de la ejecución del presupuesto de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, mediante la remisión al mismo por las citadas entidades de la documentación y con la periodicidad que se determinen.
+
+##### Artículo 24. Gastos de administración.
+
+1\. Son gastos de administración de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, los derivados del sostenimiento y funcionamiento de sus servicios administrativos en el cumplimiento de los fines de la colaboración que tienen encomendados y los de administración complementaria de la directa. Los gastos de administración comprenderán los gastos de personal, gastos corrientes en bienes y servicios, gastos financieros y las amortizaciones de bienes inventariables afectos a esta actividad.
+
+2\. Con carácter general, el límite máximo para los gastos de administración de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social en cada ejercicio económico, vendrá establecido por la aplicación sobre la cifra de sus ingresos totales en dicho ejercicio, de la escala de porcentajes que establezca el Ministerio de Trabajo y Seguridad Social, determinado cada tramo de la misma en función del importe de las cuotas por accidente de trabajo y enfermedad profesional que la entidad hubiese obtenido en el mismo ejercicio.
+
+3\. No obstante lo dispuesto en el apartado anterior, de la cifra de los ingresos totales del ejercicio se deducirán los ingresos correspondientes, en su caso, a la gestión de la prestación económica de incapacidad temporal derivada de contingencias comunes de los trabajadores al servicio de sus empresas asociadas y de los trabajadores por cuenta propia adheridos conforme establece el artículo 79.1. El límite máximo de gastos de administración correspondiente a esta gestión en cada ejercicio, será el que asimismo se establezca por el Ministerio de Trabajo y Asuntos Sociales.
+
+4\. En la base de cálculo a que se refieren los apartados 2 y 3 anteriores, podrán computarse las bonificaciones en las cuotas empresariales de la Seguridad Social por medidas de fomento de empleo.
+
+También podrán ser computadas, en la forma que se establezca por el Ministerio de Trabajo y Seguridad Social, las cuotas devengadas pero no cobradas por corresponder a empresas morosas, siempre que el importe de dichas cotizaciones conste de modo fehaciente a la Tesorería General de la Seguridad Social en cualquiera de los documentos establecidos para la gestión recaudatoria.
+
+> Se modifica el apartado 3 por el art. único.5 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+##### Artículo 25. Operaciones patrimoniales.
+
+1\. Las operaciones relativas al patrimonio de la Seguridad Social adscrito a las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, por lo que se refiere a titularidad e inscripción, modos de adquisición, adscripción, enajenación, arrendamientos, cesiones y confección de inventario, se ajustarán a lo establecido sobre el particular en la sección 1.ª del capítulo VIII del Título I de la Ley General de la Seguridad Social, teniendo en cuenta las especificaciones que se contienen en el Real Decreto 1221/1992, de 9 de octubre, sobre el patrimonio de la Seguridad Social, así como en este Reglamento y en las normas de aplicación y desarrollo.
+
+2\. En todo caso y por lo que respecta a la información y documentación requerida para el trámite de los procedimientos a que se refieren los artículos 26, 27, 28, 29 y 30, siguientes, el Ministerio de Trabajo y Seguridad Social podrá dictar las normas necesarias en orden a precisar su contenido mínimo, así como a determinar la información complementaria a aportar.
+
+##### Artículo 26. Arrendamientos de inmuebles.
+
+Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social podrán tomar directamente en arrendamiento los bienes inmuebles que precisen para el cumplimiento de sus fines.
+
+La Mutua estará obligada a enviar al Ministerio de Trabajo y Seguridad Social una copia autorizada de la escritura notarial del contrato o del documento en que se hubiese formalizado, dentro del plazo de un mes a partir de la fecha de su formalización, acompañando certificación de agente de la propiedad inmobiliaria colegiado que acredite los precios usuales de arrendamiento en la zona de ubicación de los bienes arrendados.
+
+##### Artículo 27. Arrendamientos financieros.
+
+1\. En los supuestos de arrendamiento financiero o «leasing» de bienes, será necesario someter a la autorización previa del Ministerio de Trabajo y Seguridad Social los contratos que las Mutuas pretendan suscribir y en los que la cuantía total de la operación, incluyendo costes financieros e impuestos, exceda del importe que se fije por dicho Ministerio.
+
+2\. A tal efecto, las Mutuas deberán realizar la oportuna solicitud ante el Ministerio de Trabajo y Seguridad Social, acompañando el borrador o precontrato que formalizaría la operación, así como, en documento aparte, declaración suscrita por la persona con poder para obligar a la entidad en la misma, sobre su intención en relación con el ejercicio de la opción de compra al término del contrato. Tratándose de bienes inmuebles deberá acompañar además certificación expedida por agente de la propiedad inmobiliaria colegiado, relativa a la adecuación al mercado de las condiciones del contrato.
+
+Recibida en el Ministerio de Trabajo y Seguridad Social la documentación a que se refiere el párrafo anterior y si no se resuelve expresamente en el plazo de un mes, la autorización en todos los términos y condiciones del contrato y sobre el ejercicio de la opción de compra podrá entenderse concedida, de acuerdo con lo dispuesto en los artículos 43 y 44 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Cualquier variación posterior en dichas condiciones contractuales o sobre la intención declarada respecto al ejercicio de la opción de compra, deberá ser sometida a la autorización previa del Ministerio de Trabajo y Seguridad Social.
+
+##### Artículo 28. Inversiones reales.
+
+1\. Sin perjuicio de lo dispuesto en los artículos 23, 25 y 26 del Real Decreto 1221/1992, de 9 de octubre, respecto al modo de adquisición de inmuebles y bienes muebles y autorización de obras de ampliación y nueva planta a realizar por las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales, las citadas entidades no podrán contraer obligaciones con cargo a operaciones de capital por inversiones reales —Capítulo 6 del Presupuesto de Gastos— sin la previa autorización del Ministerio de Trabajo y Seguridad Social, salvo en aquellos supuestos en los que el importe unitario de la inversión no supere la cuantía que establezca el citado Ministerio, entendiéndose referido dicho importe a proyectos de inversión o inversiones completas, sin que pueda admitirse su fraccionamiento.
+
+Las propuestas de gasto que requieran de autorización a tenor de lo dispuesto en el párrafo anterior, deberán acompañarse con carácter general de los documentos siguientes:
+
+a) Memoria explicativa de las necesidades a satisfacer, así como de los factores sociales, técnicos, económicos y administrativos concurrentes.
+
+b) Estudio relativo al régimen de utilización y gastos de funcionamiento.
+
+c) Presupuesto, con desglose suficiente para su valoración.
+
+2\. Cuando la propuesta tenga por finalidad la adquisición de inmuebles ya construidos o terrenos, además de la documentación señalada en el número anterior se acompañarán planos, de situación, generales y de conjunto, tasación pericial de los mismos efectuada por técnico colegiado, oferta formal o precontrato de compraventa, copia del título de propiedad del ofertante y certificación registral actualizada de titulación y cargas.
+
+3\. En el supuesto de que las inversiones tengan por objeto la ejecución de obras de construcción, ampliación y remodelación de inmuebles, así como su reparación cuando, dada su importancia, suponga un incremento de la productividad, capacidad, rendimiento, eficiencia o alargamiento de su vida útil, además de la documentación de carácter general especificada en el apartado 1 anterior, se acompañarán igualmente planos, el pliego de condiciones técnicas particulares y un programa del posible desarrollo de los trabajos en tiempo y coste.
+
+Cuando las características de la inversión propuesta, a juicio del Ministerio de Trabajo y Seguridad Social, aconsejen contar ya en el momento de tramitar la autorización previa, con un proyecto completo redactado por técnico competente y visado por el Colegio Profesional correspondiente, se le comunicará así a la Mutua solicitante a efectos de su confección, lo que deberá cumplimentar en el plazo de un mes, a los efectos de trámite previstos en el artículo 76 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. No obstante y conforme a lo establecido en el artículo 87 de la citada Ley, en aquellos casos en que se prevea un período superior al mes para la redacción del proyecto requerido, la Mutua podrá desistir de su solicitud originaria sin perjuicio de la ulterior presentación de un nuevo expediente, una vez que la documentación haya sido completada.
+
+En el supuesto de que la inversión no resultase autorizada, la entidad podrá no obstante imputar los gastos originados por la redacción del proyecto y visado, al concepto oportuno del capítulo 2 de su presupuesto de gastos.
+
+4\. Si se observara que los datos aportados a la solicitud formulada fueran incompletos o no se ajustaran a lo previsto en los números anteriores, se requerirá a la Mutua para que proceda a su subsanación, concediéndose a tal efecto un plazo de diez días. Transcurrido dicho plazo sin que haya sido satisfecho el requerimiento, se le tendrá por desistida de su petición.
+
+En el trámite de las autorizaciones que afecten a la adquisición de inmuebles o realización de obras en los mismos, se requerirá el informe previo de la Tesorería General de la Seguridad Social, el cual tendrá el carácter de preceptivo y determinante.
+
+##### Artículo 29. Disposición de bienes.
+
+1\. Sin perjuicio de lo establecido en los artículos 25 y 26 del Real Decreto 1221/1992, de 9 de octubre, respecto de la disposición de los bienes muebles e inmuebles adscritos a las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales y que forman parte del patrimonio de la Seguridad Social, su baja en balance, cualquiera que sea su causa, estará sometida a la autorización del Ministerio de Trabajo y Seguridad Social, salvo que se trate de bienes muebles cuyo valor de coste no supere el importe que se determine por el citado Ministerio, en cuyo caso, la Mutua deberá comunicar al mismo la baja, al cierre del ejercicio en que se haya realizado.
+
+2\. Antes de proceder a la disposición de bienes inmuebles adscritos a las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, la Tesorería General de la Seguridad Social, dentro del mes siguiente a aquel en que se hubiese iniciado el oportuno expediente, dará conocimiento de la existencia de tales inmuebles a las restantes Mutuas operantes, por si alguna de ellas manifestase un interés justificado en su adscripción.
+
+Si así fuese y el interés se encontrase realmente justificado, la Tesorería General de la Seguridad Social, previa conformidad del Ministerio de Trabajo y Seguridad Social, procederá a la adscripción del inmueble a la entidad solicitante. En este supuesto la Mutua solicitante deberá efectuar una compensación financiera a aquélla que renuncia a la adscripción del inmueble, por el valor del mismo según precio de mercado debidamente acreditado por las Mutuas intervinientes en la operación, mediante certificación de los precios usuales de venta en la zona de ubicación de tales bienes, efectuada por agentes de la propiedad inmobiliaria colegiados. En caso de discrepancia en la valoración, que implique falta de acuerdo entre las Mutuas, la Tesorería General de la Seguridad Social fijará, de entre los valores propuestos y mediante tasación pericial, el valor definitivo.
+
+No obstante lo establecido en el párrafo anterior, en los supuestos en los que la adscripción o desadscripción del inmueble impliquen la creación, modificación, traslado o supresión de servicios o instalaciones sanitarias, recuperadoras o preventivas, para la concesión, en su caso, de la conformidad del Ministerio de Trabajo y Asuntos Sociales, será de aplicación lo establecido en los artículos 12.1 y 13 de este reglamento.
+
+3\. Lo dispuesto en el apartado anterior será también de aplicación cuando el cambio de adscripción se realice a favor de las entidades gestoras y servicios comunes de la Seguridad Social. En estos supuestos, con carácter previo a la concesión de la conformidad por parte del Ministerio de Trabajo y Asuntos Sociales, la Tesorería General de la Seguridad Social establecerá el valor de la compensación previa audiencia de la mutua y con arreglo a los precios de mercado.
+
+> Se añade el párrafo tercero al apartado 2 y se modifica el apartado 3 por el art. único.6 y 7 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+##### Artículo 30. *Recursos financieros*.
+
+1\. Los recursos financieros de la Seguridad Social administrados por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social se gestionarán a través de los correspondientes servicios de tesorería en los términos y condiciones que establezcan las disposiciones de aplicación y desarrollo.
+
+Dichos servicios de tesorería deberán mantener un saldo medio anual conjunto dentro de los límites mínimo y máximo que se establezcan por el Ministerio de Trabajo e Inmigración.
+
+2\. Los excedentes que en cada momento se produzcan sobre dicho saldo medio anual deberán materializarse en las inversiones financieras señaladas en el apartado siguiente.
+
+Dicha materialización deberá combinar seguridad y liquidez con la obtención de la adecuada rentabilidad.
+
+3\. Las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social solamente podrán adquirir valores que se concreten en activos financieros emitidos por el Estado, o por otras personas jurídicas públicas nacionales que cuenten con la calificación crediticia mínima que se establezca, otorgada por una agencia de calificación reconocida por la Comisión Nacional del Mercado de Valores y que estén admitidos a negociación en un mercado regulado o sistema multilateral de negociación.
+
+Teniendo en cuenta lo anterior y en orden al debido conocimiento de estas inversiones de las mutuas, bastará con que la operación formalizada se comunique al Ministerio de Trabajo e Inmigración dentro del plazo de un mes desde la fecha de su realización, dando cuenta asimismo a la Tesorería General de la Seguridad Social.
+
+4\. La enajenación de valores que formen parte de la cartera de las mutuas, cuando no sea para su sustitución, requerirá la autorización previa prevista en el artículo 22 del Real Decreto 1221/1992, de 9 de octubre, sobre el patrimonio de la Seguridad Social.
+
+No obstante, cuando la enajenación venga exigida para garantizar el saldo medio anual mínimo establecido para los servicios de tesorería, se llevará a cabo directamente sin que se requiera autorización previa, dando cuenta inmediata al Ministerio de Trabajo e Inmigración.
+
+5\. Sin perjuicio de lo establecido en el párrafo segundo del apartado anterior, las mutuas deberán mantener en cada momento del ejercicio económico al menos un importe de su activo equivalente al montante del 80 por ciento de sus reservas, materializado en efectivo o en algún tipo de activos financieros de los recogidos en el apartado 3.
+
+> Se modifica por el art. único.2 del Real Decreto 1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+##### Artículo 31. Materialización de las reservas y fondos propios.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.3 del Real Decreto 1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+#### CAPITULO IV — Organos de gobierno y de participación
+
+##### Artículo 32. Enumeración.
+
+1\. Los órganos colegiados de gobierno de las Mutuas serán la Junta general y la Junta directiva.
+
+2\. Las Mutuas nombrarán un Director Gerente, cuya designación, por su carácter profesional, deberá recaer en persona que no tenga la condición de asociado.
+
+3\. La participación institucional en el control y seguimiento de la gestión de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, se efectuará por la Comisión de control y seguimiento prevista en el artículo 37.
+
+4\. Asimismo, la participación de los trabajadores protegidos por la Mutua en la dispensa de las prestaciones y beneficios de asistencia social que otorgue la misma, se realizará a través de la Comisión de prestaciones especiales que se regula en el artículo 67.
+
+##### Artículo 33. Junta general.
+
+1\. La Junta general es el superior órgano de gobierno de la entidad, estando integrada por todos sus asociados, si bien sólo tendrán derecho de voto aquéllos que estuvieren al corriente en el cumplimiento de sus obligaciones sociales.
+
+2\. Formará parte de la Junta general un representante de los trabajadores al servicio de la entidad, que tendrá plenos derechos y será elegido de entre los miembros del comité o comités de empresa o de los delegados de personal, o en su caso, de los representantes sindicales del personal, elección que será efectuada entre los propios miembros de los mismos.
+
+Será elegido el representante que obtenga mayor número de votos. En caso de empate, la designación recaerá en aquél que haya obtenido más votos en las elecciones sindicales.
+
+La condición de miembro de la Junta general persistirá mientras dure el mandato de delegado, representante de personal o miembro del comité de empresa, de la persona que haya resultado elegida.
+
+En el caso de producirse vacante por cualquier causa, se cubrirá automáticamente por el representante de los trabajadores que fuese designado suplente.
+
+3\. La Junta general es la competente para conocer de aquellos asuntos que le atribuyan los estatutos y, en todo caso, de los siguientes:
+
+1.º Designación y remoción de los asociados que hayan de constituir la Junta directiva.
+
+2.º Aprobación, a propuesta de la Junta directiva, que deberá ser suscrita por cada uno de los miembros de ésta, de los anteproyectos de presupuestos y cuentas anuales.
+
+3.º Reforma de los estatutos.
+
+4.º Fusión, absorción y disolución.
+
+5.º Designación de los liquidadores, salvo en el supuesto previsto en el artículo 40.2.
+
+6.º Exigencia de responsabilidad a los miembros de la Junta directiva en los supuestos previstos en el artículo 34.9.
+
+##### Artículo 34. Junta directiva.
+
+1\. La Junta directiva se compondrá del número de asociados que se señale en los estatutos, sin que en ningún caso pueda ser superior a veinte miembros, formando parte de la misma el representante de los trabajadores a que se refiere el artículo 33.2.
+
+2\. No podrán formar parte de la Junta directiva:
+
+1.º Las empresas asociadas que no estén al corriente en el cumplimiento de sus obligaciones como mutualistas de la entidad y, en general, en el de las obligaciones derivadas de la legislación social, si las infracciones se hubieran tipificado como graves o muy graves, de conformidad con lo establecido en la Ley 8/1988, de 7 de abril, sobre infracciones y sanciones de orden social.
+
+2.º Las personas que, en su condición de agentes o comisionistas, se dediquen a la tramitación por cuenta de la Mutua, de convenios de asociación para la cobertura de los riesgos de accidentes de trabajo y enfermedades profesionales.
+
+3.º Cualquier persona, ni por sí mismo ni en representación de empresa asociada, que mantenga con la Mutua relación laboral, de prestación de servicios de carácter profesional o que, por cualquier otro concepto, perciba de la entidad prestaciones económicas, a excepción del representante de los trabajadores a que se refiere el artículo 33.2.
+
+4.º Las empresas o personas que formen parte de la Junta Directiva, la Comisión de Control y Seguimiento, la Comisión de Prestaciones Especiales o desempeñen la dirección ejecutiva de otra Mutua.
+
+3\. No podrá recaer en una misma persona y simultáneamente más de un cargo de la Junta directiva, ya sea por sí mismos como mutualistas, o en representación de otras empresas asociadas.
+
+4\. Los miembros de la Junta directiva no podrán comprar ni vender para sí mismos, ni directa ni por persona o entidad interpuesta, cualquier activo patrimonial de la entidad.
+
+A estos efectos, se entenderá que la operación se realiza por persona o entidad interpuesta cuando se ejecute por persona unida por vínculo de parentesco en línea directa o colateral, consanguinidad o afinidad, hasta el cuarto grado inclusive, por mandatario o fiduciario, o por cualquier sociedad en que los mismos tengan directa o indirectamente un porcentaje igual o superior al 25 por 100 del capital social o ejerzan en ella funciones que impliquen el ejercicio del poder de decisión.
+
+5\. La Junta general designará a los asociados que hayan de constituir la Junta directiva. El Director Gerente concurrirá con voz y sin voto a las reuniones de la Junta.
+
+6\. Los designados para formar parte de la Junta directiva no comenzarán a ejercer sus funciones hasta que sus nombramientos sean confirmados por el Ministerio de Trabajo y Seguridad Social.
+
+A tal efecto, las Mutuas deberán formular la correspondiente solicitud dentro de los quince días siguientes al de designación, acompañando la siguiente documentación:
+
+1.º Certificación del acuerdo correspondiente.
+
+2.º Nombre, apellidos, domicilio, nacionalidad, profesión, número de documento nacional de identidad, y si se trata de extranjeros, del de residencia o pasaporte de los designados, así como la razón social, domicilio, código o códigos de cuenta de cotización y número del documento de asociación de la empresa representada.
+
+3.º Certificación de la Tesorería General de la Seguridad Social de que la empresa representada se encuentra al corriente en el pago de cuotas a la Seguridad Social.
+
+4.º Declaraciones individuales, suscritas por los empresarios asociados elegidos o, en su caso, por los designados para actuar como miembros de la Junta Directiva en representación de los mismos, en las que manifiesten no estar incursos en los supuestos de incompatibilidad previstos en el apartado 2, párrafos 2.º, 3.º y 4.º, anteriores, así como tener conocimiento de la prohibición contenida en el apartado 4.
+
+Si dicho Ministerio no formulase reparo alguno en el plazo de quince días, en base al incumplimiento de alguno de los requisitos establecidos en este artículo, podrán entenderse confirmados los nombramientos, de acuerdo con lo dispuesto en los artículos 43 y 44 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y sin perjuicio de la obligación de resolver expresamente la solicitud; todo ello con independencia de que como consecuencia de nuevos hechos o de comprobaciones posteriores, pueda disponerse la remoción de sus cargos.
+
+7\. La Junta directiva, sin perjuicio de lo dispuesto en el artículo 35.1, tendrá a su cargo el gobierno directo e inmediato de la entidad, correspondiéndole la convocatoria de la Junta general y la ejecución de los acuerdos adoptados por la misma, así como las demás funciones que se establezcan en los estatutos, comprendiéndose entre ellas la exigencia de responsabilidad al Director Gerente, en los supuestos previstos en el artículo 35.5. Le corresponderán también las facultades de representación de la Mutua.
+
+8\. Cada uno de los miembros de la Junta directiva deberá suscribir los anteproyectos de presupuestos y cuentas anuales, antes de su remisión a la Junta general para su aprobación.
+
+9\. Los miembros de la Junta directiva responden frente a la Seguridad Social, la Mutua y los empresarios asociados, por el daño que causen por actos contrarios a la normativa aplicable o a los estatutos, así como por los realizados sin la diligencia con la que deben desempeñar el cargo.
+
+Así, responderán solidariamente de los acuerdos lesivos adoptados por la misma, salvo que prueben que, no habiendo intervenido en su adopción y ejecución, desconocían su existencia o conociéndola hicieron todo lo conveniente para evitar el daño o, al menos, se opusieron expresamente a él.
+
+En ningún caso exonerará de responsabilidades la circunstancia de que el acto o acuerdo lesivo haya sido adoptado, autorizado o ratificado por la Junta general.
+
+Los estatutos establecerán dicha responsabilidad y la forma de hacerla efectiva.
+
+> Se añade el párrafo 4º al apartado 2 y se modifica el párrafo 4º del apartado 6 por el art. 1.2.1 y 2 del Real Decreto 250/1997, de 21 de febrero. [Ref. BOE-A-1997-5222](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-5222)
+
+##### Artículo 35. Director Gerente.
+
+1\. La Junta directiva, bajo su vigilancia y sin perjuicio de su responsabilidad y de acuerdo con lo establecido en los estatutos, designará un Director Gerente, delegando en el mismo las funciones que en aquéllos se determinen.
+
+2\. No podrán ser Director Gerente:
+
+1.º Quienes pertenezcan al Consejo de Administración o desempeñen cualquier actividad remunerada en cualquier empresa asociada a la Mutua.
+
+2.º Quienes, ellos mismos, sus cónyuges o hijos sometidos a patria potestad, ostenten la titularidad de una participación igual o superior al 25 por 100 del capital social en cualquiera de las empresas asociadas a la Mutua.
+
+3.º Quienes, como consecuencia de un expediente sancionador, hubiesen sido suspendidos en sus funciones, hasta el tiempo que dure la suspensión.
+
+4.º Quienes, en su condición de agentes o comisionistas, se dediquen a la tramitación, por cuenta de la Mutua, de convenios de asociación para la cobertura de los riesgos de accidentes de trabajo y enfermedades profesionales.
+
+5.º Quienes formen parte de la Junta Directiva, la Comisión de Control y Seguimiento, la Comisión de Prestaciones Especiales o desempeñen la dirección ejecutiva de otra Mutua.
+
+6.º Quienes, bajo cualquier forma, tengan intereses opuestos a los de la Mutua.
+
+3\. El Director gerente no podrá comprar ni vender para sí mismo cualquier activo patrimonial de la entidad ni contratar con la mutua actividad mercantil alguna, ni directamente ni por persona o entidad interpuesta.
+
+A estos efectos, se entenderá que la operación se realiza por persona o entidad interpuesta cuando se ejecute por persona unida por vínculo de parentesco en línea directa o colateral, consanguinidad o afinidad, hasta el cuarto grado inclusive, por mandatario o fiduciario, o por cualquier sociedad en que tenga directa o indirectamente un porcentaje igual o superior al 25 por ciento del capital social o ejerza en ella funciones que impliquen el ejercicio de poder de decisión.
+
+4\. El Director Gerente no comenzará a ejercer sus funciones hasta que su nombramiento sea confirmado por el Ministerio de Trabajo y Seguridad Social.
+
+A tal efecto, las Mutuas deberán formular la correspondiente solicitud acompañando la siguiente documentación:
+
+1.º Certificación del correspondiente acuerdo en el que se realice la designación.
+
+2.º Datos personales y profesionales a que se refiere el apartado 6.2.º del artículo 34.
+
+3.º Copia del contrato a suscribir.
+
+4.º Declaración suscrita por el interesado en la que manifieste no estar incurso en los supuestos de incompatibilidad previstos en el apartado 2, así como tener conocimiento de la prohibición contenida en el apartado 3.
+
+Si dicho Ministerio no formulase reparo alguno en el plazo de quince días, en base al incumplimiento de alguno de los requisitos establecidos en este artículo, podrá entenderse confirmado su nombramiento, de acuerdo con lo dispuesto en los artículos 43 y 44 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y sin perjuicio de la obligación de resolver expresamente la solicitud; todo ello con independencia de que como consecuencia de nuevos hechos o de comprobaciones posteriores, pueda disponerse su remoción.
+
+5\. El Director Gerente responde frente a la Seguridad Social, la Mutua y los empresarios asociados, por el daño que cause por actos contrarios a la normativa aplicable o a los estatutos, así como por los realizados sin la diligencia con la que debe desempeñar el cargo. En ningún caso exonerará de responsabilidad la circunstancia de que el acto lesivo haya sido autorizado o ratificado por la Junta general.
+
+Los estatutos establecerán dicha responsabilidad así como la forma de hacerla efectiva.
+
+6\. Lo establecido en el apartado 3, será asimismo de aplicación a quienes ejerzan funciones de dirección ejecutiva en la Mutua.
+
+> Se modifica el apartado 3 por el art. único.5 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+> Se reenumera el apartado 2.5º como 2.6º y se añade el 2.5º por el art. 1.2.3 del Real Decreto 250/1997, de 21 de febrero. [Ref. BOE-A-1997-5222](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-5222)
+
+##### Artículo 36. Reuniones y acuerdos.
+
+1\. Tanto la Junta directiva como la general podrán reunirse, con carácter ordinario o extraordinario, en los casos y con los requisitos establecidos en los estatutos. En todo caso, la Junta general se reunirá con carácter ordinario una vez al año, para tratar de los asuntos a que se refiere el artículo 33.3.2.º
+
+2\. Los acuerdos de los órganos de gobierno se aprobarán por mayoría simple de los asistentes, salvo exigencia estatutaria expresa de una mayoría cualificada para determinados acuerdos. No obstante, los acuerdos relativos a la reforma de los estatutos, así como los referentes a fusión, absorción o disolución de la entidad, deberán ser tomados en Junta general extraordinaria, convocada expresamente al efecto, y precisarán para su aprobación, en primera convocatoria, una mayoría de dos tercios de los empresarios asociados a la Mutua que estuvieran al corriente en el cumplimiento de sus obligaciones sociales; los estatutos determinarán el número de asistentes y la mayoría que hayan de concurrir para que el acuerdo sea válido, en el caso de que sea preciso efectuar otras convocatorias.
+
+3\. De todas las reuniones se extenderán las correspondientes actas, que se transcribirán en los libros destinados a tal fin.
+
+4\. Las Mutuas comunicarán las convocatorias de las reuniones de sus Juntas generales, ordinarias o extraordinarias, al Ministerio de Trabajo y Seguridad Social, con quince días de antelación al señalado para la celebración de aquéllas y acompañando relación de los asuntos a tratar. El Ministerio de Trabajo y Seguridad Social podrá designar un representante para que pueda asistir a la celebración de las indicadas Juntas. Las Mutuas vienen obligadas a remitir al Ministerio de Trabajo y Seguridad Social, en el plazo de quince días desde su celebración, una copia certificada de las actas de las Juntas generales.
+
+##### Artículo 37. Comisión de control y seguimiento.
+
+1\. De conformidad con lo establecido en el número cinco del artículo 39, de la Ley 42/1994, de 30 de diciembre, de Medidas fiscales, administrativas y de orden social, la participación institucional en el control y seguimiento de cada una de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social se llevará a cabo a través de la Comisión de control y seguimiento.
+
+2\. El Ministerio de Trabajo y Seguridad Social regulará el número de miembros, con un máximo de diez, de la Comisión de control y seguimiento, atendiendo a la dimensión y características de cada Mutua.
+
+Del número de miembros de cada Comisión de control y seguimiento corresponderá la mitad a la representación de los trabajadores protegidos por la Mutua, a través de las organizaciones sindicales más representativas en el ámbito territorial de actuación de la entidad, y la otra mitad a la representación de los empresarios asociados a aquélla, elegidos a través de las organizaciones empresariales de mayor representatividad.
+
+Será presidente de la Comisión de control y seguimiento el que en cada momento lo sea de la propia Mutua. No podrá ser miembro de la misma cualquier otra persona que trabaje para la entidad o sea miembro de su Junta directiva.
+
+Tampoco podrán formar parte de la Comisión de Control y Seguimiento las empresas o personas que formen parte de la Junta Directiva, la Comisión de Control y Seguimiento, la Comisión de Prestaciones Especiales o desempeñen la dirección ejecutiva de otra Mutua.
+
+3\. Son competencias de la Comisión de Control y Seguimiento de cada Mutua, las siguientes:
+
+a) Conocer los criterios de actuación de la Mutua en las distintas modalidades de colaboración que tiene autorizadas.
+
+b) Participar en la elaboración del anteproyecto de presupuestos de la Mutua.
+
+c) Informar el proyecto de memoria anual, previo a su remisión a la Junta general.
+
+d) Tener conocimiento previo de las propuestas de nombramiento del Director-Gerente.
+
+e) Tener conocimiento y ser informada de la gestión llevada a cabo por la Entidad en las distintas modalidades de colaboración que tiene autorizadas.
+
+f) Proponer cuantas medidas estime necesarias para el mejor cumplimiento de los fines de la Mutua en los ámbitos de gestión autorizados, en el marco de los objetivos generales de la Seguridad Social.
+
+g) En general, poder solicitar cuanta información genérica se precise respecto a la gestión realizada por la Entidad en las distintas modalidades de colaboración que tiene autorizadas.
+
+Las Comisiones de Control y Seguimiento existentes en las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social serán informadas sobre las propuestas de alta realizadas por las Mutuas, en orden a seguir la evolución de los procesos de incapacidad temporal a cargo de las mismas. Con el fin específico de proponer cuantas medidas consideren necesarias para el mejor cumplimiento de esta actividad, las referidas Comisiones de Control y Seguimiento podrán crear en su seno grupos de trabajo con igual composición paritaria que las mismas.
+
+Asimismo, deberán conocer los criterios de actuación de la mutua en el desarrollo de las funciones preventivas llevadas a cabo al amparo de lo establecido en el artículo 32 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, serán informadas de la gestión desarrollada y podrán proponer cuantas medidas se estimen necesarias para el mejor cumplimiento de las citadas funciones.
+
+4\. De acuerdo con las previsiones anteriores, el Ministerio de Trabajo y Seguridad Social, previo informe del Consejo General del Instituto Nacional de la Seguridad Social, aprobará las reglas de funcionamiento de las Comisiones de control y seguimiento de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social.
+
+> Se añade el párrafo último al apartado 3 por el art. 1.2 del Real Decreto 688/2005, de 10 de junio. [Ref. BOE-A-2005-9877](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-9877)
+
+> Se añade el párrafo último al apartado 3 por la disposición adicional 2 del Real Decreto 1117/1998, de 5 de junio. [Ref. BOE-A-1998-14283](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-14283)
+
+> Se modifica el apartado 3 por el art. 1 del Real Decreto 576/1997, de 18 de febrero. [Ref. BOE-A-1997-8770](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8770)
+
+> Se añade el párrafo cuarto al apartado 2 por el art. 1.2.4 del Real Decreto 250/1997, de 21 de febrero. [Ref. BOE-A-1997-5222](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-5222)
+
+#### CAPITULO V — Disolución y liquidación
+
+##### Artículo 38. Causas de disolución.
+
+Las Mutuas cesarán en su colaboración con la Seguridad Social, con la consiguiente disolución de la entidad:
+
+1\. Por acuerdo adoptado en Junta general extraordinaria, convocada expresamente al efecto.
+
+2\. Por fusión o absorción de la entidad.
+
+3\. Por dejar de concurrir las condiciones necesarias para su constitución y funcionamiento.
+
+4\. Por el transcurso del plazo señalado en los estatutos para la actuación de la entidad.
+
+5\. Porque así lo acuerde el Ministerio de Trabajo y Seguridad Social en el supuesto de que el plan de viabilidad, rehabilitación o saneamiento a que se refiere el párrafo a) del apartado 2 del artículo 60 no haya conseguido remover las circunstancias que dieron lugar a su adopción, y no se prevea su remoción en el plazo máximo de un año.
+
+6\. Porque, tras la tramitación del oportuno expediente, así lo acuerde la Secretaría General para la Seguridad Social, a propuesta de la Inspección de Trabajo y Seguridad Social, de conformidad con lo dispuesto por el artículo 42 de la Ley 8/1988, de 7 de abril, sobre infracciones y sanciones en el orden social.
+
+##### Artículo 39. Propuesta y aprobación de la disolución.
+
+1\. Para que la disolución de la entidad surta efectos y se produzca su cese en la colaboración, será necesario que la misma sea aprobada por el Ministerio de Trabajo y Seguridad Social.
+
+2\. A efectos de lo dispuesto en el apartado anterior, cuando concurra alguna de las causas de disolución previstas en el artículo 38.1, 3 y 4, la entidad deberá comunicarla al Ministerio de Trabajo y Seguridad Social con una antelación mínima de tres meses a la fecha en que haya de producirse su cese en la colaboración. Si la causa es susceptible de remoción, la Mutua podrá solicitar de dicho Ministerio un plazo para removerla que no podrá exceder de un año.
+
+En caso de no existir la comunicación a que se hace mención en el párrafo anterior, y sin perjuicio de la responsabilidad de la entidad, así como de sus gestores y asociados que integren la Junta directiva, cualquiera de los mutualistas podrá ponerlo en conocimiento del Ministerio de Trabajo y Seguridad Social.
+
+3\. El Ministerio de Trabajo y Seguridad Social, como resultado de cualquiera de las comunicaciones previstas en el número anterior o de las comprobaciones relativas a la acreditación del supuesto previsto en el artículo 38.5, así como de las comunicaciones que pueda elevar la Inspección de Trabajo y Seguridad Social como consecuencia de su actuación, iniciará el correspondiente procedimiento para disponer la disolución de la entidad, el cual deberá ser resuelto en el plazo máximo de tres meses.
+
+4\. La aprobación de la disolución, que se publicará en el «Boletín Oficial del Estado», motivará la cancelación de la inscripción de la entidad en el Registro, con el consiguiente cese de la misma en la colaboración, apertura del proceso liquidatorio y subsiguiente inscripción provisional como Mutua en liquidación. La entidad a cuya denominación se agregará la expresión «en liquidación», conservará su capacidad para obrar durante el proceso liquidatorio en orden a los efectos del mismo, no pudiendo en el transcurso de dicho proceso continuar ejerciendo la colaboración, sin perjuicio de su responsabilidad por las obligaciones pendientes derivadas de hechos anteriores a la apertura del proceso liquidatorio.
+
+##### Artículo 40. Nombramiento de liquidadores.
+
+1\. Recibido en la entidad el acuerdo del Ministerio de Trabajo y Seguridad Social aprobando su disolución, aquélla procederá, en el plazo de dos meses, a designar de entre sus asociados a los que deban actuar como liquidadores, dando cuenta de tales nombramientos al Ministerio de Trabajo y Seguridad Social. A efectos de la comunicación de dichos nombramientos y de su confirmación será de aplicación el procedimiento establecido en el artículo 34.6. Los liquidadores tomarán posesión de sus cargos en plazo no superior a quince días a partir de su confirmación, asumiendo el gobierno directo de la entidad, sin perjuicio de las facultades que correspondan a la Junta general.
+
+En el supuesto de que los designados no sean confirmados o que por cualquier otra causa proceda su sustitución, será de aplicación el procedimiento establecido en el párrafo anterior, si bien el plazo para su designación será de un mes.
+
+2\. Cuando la entidad no efectúe el nombramiento, o sustitución en su caso, de los liquidadores, dentro de los quince días siguientes a la fecha en que proceda, el Ministerio de Trabajo y Seguridad Social quedará facultado para designarlos.
+
+3\. En tanto se perfeccionan los trámites correspondientes para la designación y toma de posesión de los liquidadores, el gobierno directo de la entidad continuará encomendado a la Junta directiva existente en el momento de acordarse la disolución de la Mutua.
+
+##### Artículo 41. Normas sobre contabilidad.
+
+1\. Todas las operaciones de liquidación se reflejarán contablemente bajo titulación específica.
+
+2\. Los liquidadores, en el plazo de dos meses desde su toma de posesión, darán cuenta de su actuación a la Junta general de la entidad y presentarán ante el Ministerio de Trabajo y Seguridad Social relación del saldo de las cuentas, que refleje la situación de la Mutua a la fecha de comienzo del proceso liquidatorio, acompañada de un informe sobre el plan financiero previsto para llevar a cabo la liquidación.
+
+##### Artículo 42. Colaboración de los directivos.
+
+Los Directores Gerentes estarán obligados a colaborar con los liquidadores en los actos de liquidación, así como a informar al Ministerio de Trabajo y Seguridad Social, a su requerimiento, sobre los hechos ocurridos durante el ejercicio de sus funciones.
+
+##### Artículo 43. Intervención.
+
+1\. El Ministerio de Trabajo y Seguridad Social designará a uno o varios Inspectores de Trabajo y Seguridad Social para que actúen como interventores del proceso liquidatorio.
+
+2\. Sin perjuicio de lo establecido en el apartado anterior, el órgano competente del Ministerio de Trabajo y Seguridad Social podrá, en virtud de las competencias que se le atribuyen por este Reglamento, someter a las entidades que se encuentren en proceso liquidatorio, a los controles y a la cumplimentación de las formalidades que se entiendan pertinentes.
+
+##### Artículo 44. Aprobación de la liquidación.
+
+1\. Terminado el proceso liquidatorio, los liquidadores redactarán un balance final de los resultados de la liquidación y la consiguiente memoria que deberá contener, según proceda, propuesta de aplicación del excedente o de cancelación del déficit resultante. Ambos documentos deberán ser remitidos al Ministerio de Trabajo y Seguridad Social, tan pronto como sean aprobados por la Junta general de la entidad.
+
+2\. El Ministerio de Trabajo y Seguridad Social, previo informe del interventor o interventores del proceso liquidatorio, aprobará el contenido de los citados documentos o formulará los reparos que estime pertinentes a fin de que sean subsanados por la entidad.
+
+3\. Notificada la aprobación, la entidad dispondrá de un plazo de noventa días para justificar la aplicación del excedente o la cancelación del déficit de liquidación ante el Ministerio de Trabajo y Seguridad Social, quien, si procede, aprobará la liquidación y su cese como Mutua en liquidación, con la consiguiente cancelación registral de tal situación, publicando dicha aprobación en el «Boletín Oficial del Estado».
+
+4\. Cuando por la existencia de prestaciones cuyo reconocimiento haya sido objeto de recurso ante la instancia competente, o por circunstancias de similar naturaleza, no sea previsible el período de tiempo en que podrán cumplimentarse los trámites que se establecen en el apartado 1, los liquidadores podrán, no obstante, solicitar del Ministerio de Trabajo y Seguridad Social que autorice la realización de dichos trámites al objeto de ultimar la liquidación, siempre que por la Mutua se acredite contar con activos suficientes, ya sea del patrimonio de la Seguridad Social o de su patrimonio histórico, que garanticen el cumplimiento de las obligaciones que puedan derivarse de tales circunstancias. En el caso de que dicho Ministerio acceda a lo solicitado, los aludidos activos serán transferidos a la Tesorería General de la Seguridad Social, en tanto se solventan las situaciones de que responden.
+
+5\. Si en la ejecución de los trámites a que se refiere el apartado 3, la cancelación del déficit resultante de la liquidación de la Mutua requiere exigir de los antiguos empresarios asociados la responsabilidad mancomunada que asumen, según lo dispuesto por el artículo 8 del presente Reglamento, por haberse agotado todos los bienes de la misma, será de aplicación lo previsto en los apartados 3 y 4 del citado artículo, a efectos de cálculo y recaudación de la correspondiente derrama.
+
+##### Artículo 45. Disponibilidad de la fianza.
+
+En el transcurso del proceso liquidatorio, el Ministerio de Trabajo y Seguridad Social, a instancia de los liquidadores y previo informe del interventor o interventores del referido proceso, podrá autorizar la disponibilidad total o parcial de la fianza para la cancelación de obligaciones pendientes, cuando las circunstancias concurrentes así lo aconsejen.
+
+##### Artículo 46. Distribución de excedentes.
+
+1\. Los excedentes que pudieran resultar, una vez terminado el proceso liquidatorio y garantizadas las obligaciones sociales, serán ingresados en la Tesorería General de la Seguridad Social.
+
+2\. A los excedentes del patrimonio histórico de la Mutua que pudieran resultar, se les dará la aplicación que al efecto se encuentre establecida en los estatutos, debidamente autorizados conforme a las prescripciones del presente Reglamento.
+
+3\. Independientemente de lo anterior, cuando durante el proceso liquidatorio, a la vista del desarrollo del mismo, de las obligaciones pendientes de la entidad y de los recursos existentes para satisfacerlas, se evidenciase que no será necesario realizar la totalidad de los bienes muebles e inmuebles de la Mutua en liquidación, en orden a la finalización de dicho proceso, los liquidadores lo pondrán en conocimiento del Ministerio de Trabajo y Seguridad Social, quien, previo informe del interventor o interventores del proceso liquidatorio así como de la Tesorería General de la Seguridad Social, podrá acordar su realización, o bien su entrega a dicho Servicio Común, como cumplimentación parcial de lo establecido en el apartado 1 anterior.
+
+#### CAPITULO VI — Fusión y absorción
+
+##### Artículo 47. Normas aplicables.
+
+1\. El Ministerio de Trabajo y Seguridad Social, en la forma y con las condiciones establecidas para la constitución de estas entidades y cumplidos los demás requisitos exigidos por el Derecho común, podrá autorizar la fusión de dos o más Mutuas para formar una nueva entidad.
+
+2\. El Ministerio de Trabajo y Seguridad Social podrá autorizar, de igual modo, la absorción de una o más Mutuas por otra ya existente, siempre que ésta, después de la absorción, reúna las condiciones señaladas en el artículo 9 y concordantes de este Reglamento.
+
+3\. La nueva Mutua que resulte de una fusión o la que absorba a otra u otras, se subrogará en todos los derechos y obligaciones de las que se extingan por tales causas, sin que se abra, respecto de éstas, proceso liquidatorio. La fianza reglamentaria de la entidad resultante estará constituida por la suma de las fianzas correspondientes a las Mutuas que la integran.
+
+El Ministerio de Trabajo y Seguridad Social, dentro de las prescripciones generales que se contienen en el presente Reglamento, podrá establecer en cada caso las normas de carácter particular que, conforme a las especiales circunstancias que concurran, deban regular cada proceso de integración.
+
+4\. No obstante lo dispuesto en el artículo 34.1 de este Reglamento, cuando la suma de los miembros de las Juntas Directivas incursas en el proceso de fusión o absorción supere el límite máximo establecido en el mismo, la Mutua que resulte de la fusión o la Mutua absorbente dispondrá de un plazo máximo de tres años, contados a partir de la fecha de efectos de la integración, para acomodar la composición de su Junta Directiva a lo dispuesto en dicho artículo.
+
+> Se añade el apartado 4 por el art. 1.3.1 del Real Decreto 250/1997, de 21 de febrero. [Ref. BOE-A-1997-5222](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-5222)
+
+##### Artículo 48. Solicitud.
+
+A los efectos previstos en el artículo anterior, las Mutuas afectadas deberán formular, con una antelación mínima de dos meses a la fecha en que haya de producirse la fusión o absorción, la oportuna solicitud acompañada de los documentos que a continuación se detallan:
+
+1\. Certificación de los acuerdos correspondientes adoptados por las respectivas Juntas generales extraordinarias.
+
+2\. Convenio de fusión o absorción precisando la fecha de efectos y sus condiciones, así como proyecto de estatutos de la nueva entidad, en el caso de fusión.
+
+3\. Balance de situación y estimación de las cuentas de resultados de cada una de las entidades, cerrados al día anterior al de adopción de los acuerdos.
+
+4\. Balance consolidado de la absorbente o de la nueva entidad.
+
+5\. Plan de saneamiento, previo a la fusión o absorción, en aplicación de lo establecido en el artículo 60.4 de este Reglamento, en el caso de que la entidad o entidades que se extinguen se encuentren en alguno de los supuestos contemplados en el mismo.
+
+##### Artículo 49. Autorización.
+
+El Ministerio de Trabajo y Seguridad Social, previa comprobación de que concurren los requisitos necesarios, de la viabilidad de la entidad resultante y de que las condiciones de la fusión o absorción, así como en su caso el proyecto de estatutos de la nueva entidad, no se oponen al ordenamiento jurídico, procederá a su autorización. Si el Ministerio advirtiese la existencia de defectos subsanables que no se opongan a la aprobación, lo comunicará a las entidades afectadas para que en un plazo de diez días procedan a su subsanación, con indicación de que, si así no lo hicieran, se les tendrá por desistidas de su petición, archivándose sin más trámites, con los efectos previstos en el artículo 42.1 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+#### CAPITULO VII — Administración y contabilidad del patrimonio histórico
+
+##### Artículo 50. Administración.
+
+1\. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social que sean propietarias de bienes y derechos integrantes del patrimonio histórico a que se refiere el artículo 3.2 del presente Reglamento, deberán realizar la administración de los mismos teniendo en cuenta su estricta afectación al fin social de la entidad.
+
+2\. Dicho patrimonio deberá estar materializado en bienes de inmovilizado directamente utilizados en la gestión de la entidad o invertido con criterios de seguridad, liquidez y rentabilidad, con sujeción a lo dispuesto en el artículo 30.2, con la única excepción de las participaciones en sociedades de prevención de acuerdo con lo dispuesto en el artículo 32 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, sin que estos bienes ni los rendimientos que en su caso produzcan puedan desviarse hacia larealización de actividades mercantiles, con la única excepción señalada, y sin que tampoco puedan derivarse de su utilización o administración beneficios de ningún tipo, que supongan vulneración del principio de igualdad de derechos de los empresarios asociados.
+
+Los rendimientos a que se refiere el párrafo anterior deberán revertir, en todo caso, al patrimonio histórico de la entidad y, cuando se deriven de inversiones financieras, les será de aplicación lo establecido en los apartados 2 y 3 del artículo 30.
+
+3\. En aquellos casos en que, debido a razones históricas, la materialización de este patrimonio no se ajuste en su totalidad a lo establecido en el apartado anterior, deberá comunicarse al Ministerio de Trabajo y Seguridad Social acompañando el plan previsto por la Mutua para su adaptación a lo indicado o, en su caso, justificación de los motivos que aconsejan mantener la situación existente.
+
+> Se modifica el apartado 2 por el art. único.4 del Real Decreto 1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+##### Artículo 51. Contabilidad.
+
+1\. La contabilidad del patrimonio histórico de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, se adaptará al Plan General de Contabilidad de la Seguridad Social y demás normas que resulten aplicables a estas entidades, conforme a lo previsto en el artículo 22 de este Reglamento.
+
+2\. La contabilidad del patrimonio histórico de las Mutuas se llevará en libros separados y su balance se incorporará a la memoria anual a que se refiere el artículo 22.3.
+
+##### Artículo 52. Rendición de cuentas.
+
+Con independencia de lo dispuesto en el apartado 2 del artículo anterior, las Mutuas vendrán obligadas a rendir, ante el Ministerio de Trabajo y Seguridad Social, las cuentas anuales de su patrimonio histórico con el detalle que por dicho Ministerio se determine. Dichas cuentas deben ser firmadas por todos los miembros de la Junta directiva.
+
+#### CAPITULO VIII — Normas sobre competencia, inspección y control y coordinación
+
+##### Artículo 53. Competencia.
+
+1\. Con la salvedad de las atribuidas expresamente a otro órgano en el presente Reglamento, la competencia del Ministerio de Trabajo y Seguridad Social en relación con las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social se ejercerá, a todos los efectos, a través de la Secretaría General para la Seguridad Social.
+
+2\. Las resoluciones que adopten la Secretaría General para la Seguridad Social y sus centros directivos dependientes, a tenor de las competencias que tengan atribuidas en relación con estas entidades colaboradoras, podrán ser objeto de recurso ordinario, de conformidad con lo dispuesto en la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. En cuanto a la imposición de sanciones, se estará a lo establecido en el capítulo VIII de la Ley 8/1988, de 7 de abril, sobre infracciones y sanciones de orden social.
+
+##### Artículo 54. Inspección.
+
+1\. De conformidad con lo dispuesto en los artículos 5.2.d) de la Ley General de la Seguridad Social; 1, 2 d), 3 II a), de la Ley 39/1962, de 21 de julio, sobre Ordenación de la Inspección de Trabajo; 2.2 de la Ley 8/1988, de 7 de abril, sobre infracciones y sanciones de orden social, y normas concordantes, la inspección de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social se realizará por la Inspección de Trabajo y Seguridad Social. Dicha inspección tiene por objeto la vigilancia del cumplimiento de las disposiciones que, comprendidas en el ámbito de actuación de este órgano de la Administración del Estado, se refieren a su constitución, organización, gestión y funcionamiento, señalando las responsabilidades en las que estas entidades pudieran incurrir.
+
+La función encomendada a la Inspección de Trabajo y Seguridad Social sobre las Mutuas se extiende tanto a su carácter de organizaciones empresariales con trabajadores a su servicio, como al de Entidades Colaboradoras de la Seguridad Social, sin perjuicio de lo establecido en el artículo 12.7 de este Reglamento, respecto a inspección y control de sus centros y servicios sanitarios.
+
+2\. La actuación de la Inspección de Trabajo y Seguridad Social, que se señala en el apartado anterior, se ejercerá de forma regular y periódica, de acuerdo con las normas que a tal efecto se fijen por el Ministerio de Trabajo y Seguridad Social y sin perjuicio de las actuaciones que, en cualquier momento, se consideren procedentes.
+
+3\. Las actuaciones de la Inspección de Trabajo y Seguridad Social se reflejarán en el libro a que hace referencia el artículo 21 y se pondrán en conocimiento de la Secretaría General para la Seguridad Social.
+
+##### Artículo 55. Infracciones y sanciones.
+
+En materia de infracciones, sanciones, procedimiento sancionador y demás medidas que independientemente de las sanciones puedan resultar procedentes como consecuencia de las infracciones cometidas, se estará a lo dispuesto en la Ley 8/1988, de 7 de abril, sobre infracciones y sanciones de orden social.
+
+##### Artículo 56. Control interno de la gestión económico-financiera.
+
+1\. En base a lo establecido en el artículo 1 del Real Decreto 3307/1977, de 1 de diciembre, por el que se establecen normas para la intervención en la Seguridad Social, según redacción dada al mismo por el Real Decreto 1373/1979, de 8 de junio, las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social estarán sujetas a control financiero por parte de la Intervención General de la Seguridad Social.
+
+2\. El control financiero sobre las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social podrá alcanzar a la comprobación de la situación y funcionamiento de su gestión en el aspecto económico-financiero, para verificar que se acomodan a la regularidad y a los principios de buena gestión financiera y son conformes a las disposiciones y directrices que las rijan, así como la verificación de la eficacia y eficiencia. Dicha función podrá ejercerse con carácter permanente en los términos que considere convenientes la Intervención General de la Seguridad Social, especialmente cuando la Mutua se halle incursa en alguno de los supuestos previstos en el artículo 74.1 de la Ley General de la Seguridad Social.
+
+3\. El control financiero podrá realizarse a través de procedimientos de auditoría u otras técnicas de control comprendiendo, en todo caso, la realización de la auditoría anual de cuentas a que se refiere el artículo 71 de la Ley General de la Seguridad Social.
+
+Para la realización de dicha auditoría, la Intervención General de la Seguridad Social, en caso de insuficiencia de medios personales propios, podrá solicitar la colaboración de entidades privadas, las cuales deberán ajustarse a las normas e instrucciones que determine dicho centro directivo, quien podrá, asimismo, efectuar a éstas las revisiones y los controles de calidad que estime convenientes. Dicha colaboración requerirá de la autorización ministerial prevista en el artículo 93 de la Ley General de la Seguridad Social.
+
+##### Artículo 57. Objetivos y alcance del control.
+
+El control financiero establecido en el artículo anterior podrá tener como objetivos los siguientes:
+
+a) Verificar el adecuado registro y contabilización de las operaciones realizadas y su fiel y regular reflejo en las cuentas y estados que, conforme a las disposiciones aplicables, deban rendir, así como la adecuación al ordenamiento jurídico de la gestión realizada.
+
+b) Comprobar que la gestión desarrollada por estas entidades se ha efectuado con arreglo a los principios de buena gestión financiera y, en especial, de economía, eficiencia y eficacia en la gestión de los recursos del Sistema de la Seguridad Social y el nivel de resultados obtenidos en relación con los objetivos propuestos, los medios utilizados y los efectos producidos en los programas presupuestarios correspondientes.
+
+Lo anterior se llevará a efecto sin perjuicio de las funciones y competencias atribuidas a la Inspección de Trabajo y Seguridad Social y demás órganos del Ministerio de Trabajo y Seguridad Social.
+
+##### Artículo 58. Informes de auditoría.
+
+1\. El informe definitivo de auditoría de cumplimiento, adicional al de auditoría de las cuentas anuales, una vez cumplido el trámite de remisión establecido en el cuarto párrafo del artículo 34.6 del Real Decreto 706/1997, de 16 de mayo, por el que se desarrolla el régimen de control interno ejercido por la Intervención General de la Seguridad Social, dará lugar, en el supuesto de conformidad al que se refiere dicho precepto, a que por el Ministerio de Trabajo e Inmigración se dicte la resolución que proceda de acuerdo con lo señalado en el informe.
+
+2\. Las resoluciones dictadas de conformidad con lo dispuesto en el apartado anterior contendrán, en su caso, las medidas y actuaciones que proceda adoptar por la mutua, entidad o centro mancomunado, de acuerdo con lo señalado en los informes de auditoría. Si procediera reintegrar cantidades al patrimonio de la Seguridad Social, en la misma resolución se fijará el plazo para su ingreso, transcurrido el cual se devengarán intereses de demora con arreglo a lo dispuesto en el artículo 17 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+> Se añade por el art. único.5 del Real Decreto 1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+> Se deroga por la disposición derogatoria única.d) del Real Decreto 706/1997, de 16 de mayo. [Ref. BOE-A-1997-11411](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-11411)
+
+##### Artículo 59. Supuestos de irregularidades de gestión.
+
+Si durante la realización del control financiero se detectasen irregularidades o deficiencias que pudieran ser constitutivas de alcance, malversación de fondos públicos, indicios de responsabilidad contable, administración indebida de fondos o graves deficiencias de gestión, se pondrá inmediatamente en conocimiento de la Secretaría General para la Seguridad Social para la adopción, en su caso, de las medidas que correspondan, sin perjuicio de la emisión del correspondiente informe de control financiero y de su trámite según lo indicado en el artículo precedente, así como de las restantes actuaciones a que, conforme a la gravedad de los hechos, hubiese lugar.
+
+##### Artículo 60. Adopción de medidas cautelares.
+
+1\. El Ministerio de Trabajo e Inmigración podrá adoptar las medidas cautelares contenidas en el apartado siguiente, cuando la mutua de accidentes de trabajo y enfermedades profesionales se halle en alguna de las siguientes situaciones:
+
+a) Cuando la reserva de estabilización por contingencias profesionales no alcance el 80 por ciento de su cuantía mínima.
+
+b) Situaciones de hecho, deducidas de comprobaciones efectuadas por la administración, que determinen desequilibrio económico-financiero, que pongan en peligro la solvencia o liquidez de la entidad, los intereses de los mutualistas y beneficiarios o el incumplimiento de las obligaciones contraídas, así como la insuficiencia o irregularidad de la contabilidad o administración, en términos que impidan conocer la situación de la entidad.
+
+2\. Con independencia de las sanciones que por los hechos anteriores y conforme a la legislación vigente proceda, las medidas cautelares a que se refiere el apartado anterior, de acuerdo con las características de la situación, podrán consistir en:
+
+a) Requerir a la entidad para que en el plazo de un mes presente un plan de viabilidad, rehabilitación o saneamiento a corto o medio plazo, aprobado por su Junta directiva, en el que se propongan las adecuadas medidas financieras, administrativas o de otro orden, formule previsión de los resultados y fije los plazos para su ejecución, a fin de superar la situación que dio origen a dicho requerimiento, y garantice en todo caso los derechos de los trabajadores protegidos y de la Seguridad Social.
+
+La duración del plan no será superior a tres años, según las circunstancias, y concretará en su forma y periodicidad las actuaciones a realizar.
+
+El Ministerio de Trabajo y Seguridad Social lo aprobará o denegará en el plazo de un mes y, en su caso, fijará la periodicidad con que la entidad deberá informar de su desarrollo.
+
+b) Convocar los órganos de gobierno de la entidad, designando la persona que deba presidir la reunión y dar cuenta de la situación.
+
+c) Suspender en sus funciones a todos o algunos de los directivos de la entidad, debiendo ésta designar las personas que, aceptadas previamente por el Ministerio de Trabajo y Seguridad Social, hayan de sustituirlos interinamente. Si la entidad no lo hiciera podrá dicho Ministerio proceder a su designación.
+
+d) Ordenar la ejecución de medidas correctoras de las tendencias desfavorables registradas en su desarrollo económico y en el cumplimiento de sus fines sociales durante los últimos ejercicios analizados.
+
+e) Intervenir la entidad para comprobar y garantizar el correcto cumplimiento de órdenes concretas emanadas del citado Ministerio cuando, en otro caso, pudieran infringirse tales órdenes y de ello derivarse perjuicio mediato o inmediato para los trabajadores protegidos y la Seguridad Social.
+
+3\. Para adoptar las medidas cautelares previstas en el apartado anterior, se instruirá el correspondiente procedimiento administrativo con audiencia previa de la entidad interesada. Tales medidas cesarán por acuerdo del Ministerio de Trabajo y Seguridad Social cuando hayan desaparecido las causas que las motivaron.
+
+4\. Con independencia de las medidas cautelares establecidas en el apartado 2, y de conformidad con lo establecido en el artículo 8 de este reglamento, el Ministerio de Trabajo e Inmigración podrá acordar, cuando se dé el supuesto previsto en el párrafo a) del apartado 1, y así se entienda necesario para garantizar la adecuada dispensación de las prestaciones por la entidad a sus trabajadores protegidos, la reposición de la reserva de estabilización por contingencias profesionales de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social hasta el importe mínimo previsto para la misma en este reglamento, mediante el establecimiento de la correspondiente derrama entre sus asociados, como ejecución parcial de la responsabilidad mancomunada que asumen en los resultados de la gestión de la mutua.
+
+> Se modifican los apartados 1 y 4 por el art. único.6 del Real Decreto 1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+### TITULO II — Colaboración en las distintas contingencias
+
+#### CAPITULO I — Gestión de la protección respecto a las contingencias de accidentes de trabajo y enfermedades profesionales del personal al servicio de los empresarios asociados.
+
+> Se modifica la rúbrica por el art. único.8 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+##### Artículo 61. Empresarios asociados.
+
+1\. Los empresarios asociados a una Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, para la cobertura de las contingencias de accidentes de trabajo y enfermedades profesionales, habrán de proteger en ella a la totalidad de sus trabajadores correspondientes a los centros de trabajo situados en la misma provincia, siempre que ésta se encuentre comprendida en el ámbito territorial de la Mutua. A estos efectos, se entenderá por centro de trabajo el definido como tal en la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto legislativo 1/1995, de 24 de marzo.
+
+2\. De conformidad con lo establecido en el artículo 10 de este Reglamento respecto al alcance de la cobertura que realizan en su colaboración con la Seguridad Social las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales, en los supuestos de incumplimiento por los empresarios asociados a las mismas de las obligaciones en materia de afiliación, de altas y bajas y de cotización, se estará a lo dispuesto en el apartado 3 del artículo 126 de la Ley General de la Seguridad Social, no pudiendo la Mutua proceder a la resolución o suspensión del convenio de asociación y estando obligada la entidad, por tanto, a hacerse cargo de las prestaciones económicas y sanitarias a que tengan derecho los trabajadores empleados por tales empresarios, sin perjuicio de las acciones legalmente previstas para el resarcimiento de los importes correspondientes.
+
+Corresponde a la mutua de que se trate la expedición de los partes médicos de baja, confirmación de baja y alta, así como la declaración del derecho al subsidio, su denegación, suspensión, anulación y declaración de extinción, en los procesos de incapacidad temporal derivados de las contingencias de accidentes de trabajo y enfermedades profesionales correspondientes a los trabajadores dependientes de las empresas asociadas comprendidos en el ámbito de la gestión de la mutua, en los términos establecidos en la normativa reguladora del régimen de la Seguridad Social aplicable. Asimismo, le corresponde acordar las sucesivas bajas, confirmación de baja y alta, expedidas en los procesos originados por las mismas patologías que causaron procesos derivados de las indicadas contingencias correspondientes a dichos trabajadores, en los términos y con el alcance antes mencionados, así como la declaración del derecho al subsidio, su denegación, suspensión, anulación y declaración de extinción.
+
+3\. Los empresarios, al suscribir el correspondiente «documento de asociación», o en su caso el «documento de proposición de asociación», deberán entregar a la Mutua informe emitido al respecto por el comité de empresa o delegado de personal, salvo que no existieran dichos órganos de representación por no exigirlo la normativa aplicable.
+
+> Se modifica el párrafo segundo del apartado 2 por el art. 5.1 del Real Decreto 1041/2005, de 5 de septiembre. [Ref. BOE-A-2005-15366](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15366)
+
+> Se añade el párrafo segundo al apartado 2 por el art. único.9 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Se modifica el apartado 1 por el art. 1.1 del Real Decreto 250/1997, de 21 de febrero. [Ref. BOE-A-1997-5222](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-5222)
+
+##### Artículo 62. Convenio de asociación.
+
+1\. En el convenio de asociación para la integración en la Mutua se determinarán los derechos y obligaciones de los asociados y de ésta, de acuerdo con los preceptos señalados en el artículo 1 de este Reglamento y en los estatutos de la entidad, con declaración expresa de la responsabilidad mancomunada de los asociados.
+
+2\. El convenio de asociación tendrá un plazo de vigencia de un año, debiendo coincidir en todo caso su vencimiento con el último día del mes, y se entenderá prorrogado tácitamente por períodos anuales, salvo denuncia en contrario del empresario, debidamente notificada, con un mes de antelación, como mínimo, a la fecha del vencimiento.
+
+Denunciado el convenio de asociación en la forma y plazo establecidos en el párrafo anterior, la Mutua deberá entregar al empresario, en el plazo de diez días desde la notificación de la denuncia, certificación acreditativa del cese y de la fecha de efectos del mismo.
+
+3\. El convenio se hará constar en un documento, que se denominará documento de asociación y que expresará, necesariamente, el nombre y apellidos del empresario individual y la denominación o razón social, si se trata de una persona jurídica, así como el domicilio, el código o códigos de cuenta de cotización asignados y la actividad o actividades económicas de la empresa; el documento de asociación señalará, asimismo, la fecha y hora en que comiencen y terminen sus efectos.
+
+4\. Cuando el convenio de asociación no pueda suscribirse de manera inmediata, irá precedido de una proposición de asociación que, aceptada por la Mutua y recogida en el documento correspondiente, que se denominará «documento de proposición de asociación», implicará que aquélla asumirá las obligaciones que se deriven de la asociación cuando ésta pueda ser efectiva.
+
+El asociado viene obligado a comunicar a la Mutua el código o códigos de cuenta de cotización que posea en el momento de la asociación, así como los que en lo sucesivo le asigne la Tesorería General de la Seguridad Social, aportando para ello copia diligenciada de los modelos oficiales de dicho Servicio Común.
+
+No obstante, en los supuestos de inicio de actividad y siempre que se acredite fehacientemente haber solicitado de la Tesorería General de la Seguridad Social la inscripción como empresario según lo dispuesto en la normativa de aplicación, el documento suscrito con la Mutua correspondiente surtirá plenos efectos desde el inicio de la actividad.
+
+5\. Los modelos de «documento de asociación» y de «documento de proposición de asociación» serán aprobados por el Ministerio de Trabajo y Seguridad Social.
+
+> Se modifica el apartado 3 por el art. 3 del Real Decreto 328/2009, de 13 de marzo. [Ref. BOE-A-2009-5128](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5128)
+
+##### Artículo 63. Régimen financiero.
+
+1\. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social constituirán en la Tesorería General de la Seguridad Social, hasta el límite de su responsabilidad, el valor actual del capital coste de las pensiones que, con arreglo a la Ley General de la Seguridad Social, se causen por invalidez o muerte debidas a accidente de trabajo. El Ministerio de Trabajo y Seguridad Social aprobará las tablas de mortalidad y la tasa de interés aplicables para la determinación de los valores aludidos.
+
+2\. En relación con la protección de accidentes de trabajo a que se refiere el presente capítulo, las Mutuas deberán reasegurar obligatoriamente en la Tesorería General de la Seguridad Social el 30 por 100 de las prestaciones de carácter periódico derivadas de los riesgos de invalidez, muerte y supervivencia que asumen respecto de sus trabajadores protegidos, correspondiendo como compensación a dicho Servicio común, el porcentaje de las cuotas satisfechas por las empresas asociadas por tales contingencias que se determine por el Ministerio de Trabajo y Seguridad Social.
+
+En relación con el exceso de pérdidas no reaseguradas según lo establecido en el párrafo anterior, las Mutuas podrán optar entre constituir los correspondientes depósitos en la Tesorería General de la Seguridad Social o formalizar con la misma un concierto facultativo en régimen de compensación entre las Mutuas concertantes.
+
+El Ministerio de Trabajo y Seguridad Social podrá disponer la sustitución de las obligaciones que se establecen en el presente número por la aplicación de otro sistema de compensación de resultados.
+
+3\. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social deberán ingresar en la Tesorería General de la Seguridad Social los capitales en la cuantía necesaria para constituir una renta cierta temporal durante veinticinco años, del 30 por 100 del salario de los trabajadores que fallezcan por consecuencia inmediata o mediata de accidente de trabajo sin dejar ningún familiar con derecho a pensión.
+
+4\. Con independencia de lo establecido en los apartados anteriores, cada mutua aplicará, para la compensación de los resultados deficitarios de su gestión que anualmente puedan producirse, la reserva de estabilización por contingencias profesionales.
+
+> Se modifica el apartado 4 por el art. único.7 del Real Decreto 1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+##### Artículo 64. Garantías.
+
+Las Mutuas podrán exigir a los asociados, al tiempo de convenir la asociación y en concepto de garantía del cumplimiento de sus obligaciones como tales, el ingreso, por una sola vez, de una cantidad equivalente al importe de un trimestre, como máximo, de las cuotas correspondientes. El importe de dicha garantía se devolverá a los asociados al cesar en dicha asociación, salvo que existiesen obligaciones pendientes correspondientes al período durante el que hayan permanecido asociados, en cuyo caso se hará la oportuna retención en la cuantía que corresponda, siempre teniendo en cuenta el límite temporal que se establece en el artículo 8.1.
+
+##### Artículo 65. Provisión y reserva.
+
+1\. Las mutuas constituirán obligatoriamente, al final de cada ejercicio, la reserva de estabilización por contingencias profesionales. Se dotará con el resultado económico positivo anual obtenido por las mutuas en su gestión de dichas contingencias y tendrá como destino corregir las posibles desigualdades de resultados económicos entre los diferentes ejercicios. La cuantía mínima de la reserva queda fijada en el 30 por ciento de la media anual de las cuotas percibidas en el último trienio por la mutua y por las expresadas contingencias.
+
+Una vez cubierta la cuantía mínima de la reserva de estabilización, las mutuas podrán destinar a incrementar la misma el 50 por ciento del resultado económico positivo anual no aplicado.
+
+2\. La provisión para contingencias en tramitación a constituir por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, así como el resto de las provisiones que se constituyan por dichas entidades, se dotarán y aplicarán de acuerdo con las normas contables del sector público.
+
+> Se modifica por el art. único.8 del Real Decreto 1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+##### Artículo 66. Resultados económicos positivos.
+
+1\. El resultado económico positivo anual obtenido por las mutuas en su gestión de las contingencias profesionales habrá de afectarse, en primer lugar, a la dotación de la reserva de estabilización citada en el artículo anterior.
+
+2\. El exceso del resultado económico positivo obtenido por la gestión de las contingencias profesionales, una vez dotada la indicada reserva de estabilización, se adscribirá a los fines generales de prevención y rehabilitación, mediante su ingreso, hasta el 31 de julio de cada ejercicio, en la cuenta especial del Fondo de Prevención y Rehabilitación.
+
+Los recursos de dicho fondo, previa autorización del Ministerio de Trabajo e Inmigración, se destinarán preferentemente a la realización de las siguientes actividades:
+
+Al fomento de las actuaciones extraordinarias de las empresas en la prevención de los accidentes de trabajo y de las enfermedades profesionales.
+
+A la creación o renovación de centros o servicios de prevención, recuperación y rehabilitación gestionados por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+A la adopción de medidas y procesos que contribuyan eficazmente y de manera contrastable a la reducción de la siniestralidad laboral, mediante un sistema de incentivos a las empresas que hayan cooperado especialmente a dicha reducción.
+
+> Se modifica por el art. único.9 del Real Decreto 1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+##### Artículo 67. Comisión de prestaciones especiales.
+
+1\. La Comisión de prestaciones especiales tendrá a su cargo la concesión de los beneficios de la asistencia social que hayan de ser satisfechos por la mutua con cargo a los créditos presupuestarios de cada ejercicio. A tal efecto, deberá tramitar un expediente para cada trabajador o sus derechohabientes en el que tendrá que dejar constancia de la concurrencia de una especial situación o estado de necesidad justificativa de la prestación de asistencia social.
+
+La asistencia social consiste en servicios y auxilios económicos que se conceden con carácter potestativo, tanto en su reconocimiento como en su cuantía, en atención a especiales estados y situaciones concretas de necesidad que se consideren precisos, estando claramente diferenciados de las prestaciones reglamentarias.
+
+A efectos de este artículo, debe entenderse por especiales estados y situaciones de necesidad derivados del accidente de trabajo o la enfermedad profesional aquellos que no se limitan a la pérdida de rentas salariales que cubre el sistema de la Seguridad Social a través de las prestaciones enumeradas en el artículo 42 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, sino aquellos en los que concurren circunstancias adicionales que empeoran la situación derivada de la mera pérdida de dichas rentas, haciendo precisa la adopción de medidas complementarias de asistencia social no incluidas en la acción protectora del sistema.
+
+Las mutuas colaboradoras podrán determinar el porcentaje de los gastos cuya cobertura van a sufragar atendiendo al especial estado o situación de necesidad del beneficiario. Para ello, tendrán en cuenta tanto las limitaciones en la capacidad laboral del trabajador que se hayan ocasionado como consecuencia del accidente de trabajo o de la enfermedad profesional como los efectos para la unidad de convivencia de la pérdida de ingresos debido al tiempo en que el trabajador se encuentre imposibilitado para trabajar, o durante el año siguiente al hecho causante de la contingencia en los supuestos en que el trabajador pierda su empleo o deba cesar en su actividad, cuando se trate de trabajadores por cuenta propia, a causa del accidente de trabajo o de la enfermedad profesional acaecidos.
+
+2\. La Comisión de prestaciones especiales estará constituida por el número de miembros establecido en los estatutos, de los que la mitad corresponderá a representantes de los trabajadores empleados por las empresas asociadas y la otra mitad a representantes de los empresarios asociados, designados por la Junta directiva. Su Presidente será elegido por la propia Comisión de entre sus miembros.
+
+La designación de los representantes de los trabajadores, que deberá recaer en trabajadores de las empresas asociadas, se hará por las organizaciones sindicales que hayan obtenido el 10 por 100 o más de delegados de personal y miembros de comités de empresa y de los correspondientes órganos de las Administraciones públicas en las provincias en las que radican las empresas asociadas, en términos proporcionales a los resultados obtenidos por aquéllas en dichas provincias.
+
+No podrán formar parte de la Comisión de Prestaciones Especiales las empresas o personas que formen parte de la Junta Directiva, la Comisión de Control y Seguimiento, la Comisión de Prestaciones Especiales o desempeñen la dirección ejecutiva de otra Mutua.
+
+3\. La Comisión de prestaciones especiales se reunirá para resolver sin demora los asuntos de su competencia, con la periodicidad que se indique en los estatutos de la Mutua.
+
+> Se modifica el apartado 1 por la disposición final 1.1 del Real Decreto 453/2022, de 14 de junio de 2022. [Ref. BOE-A-2022-9850](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9850)
+
+> Se modifica el apartado 1, párrafo primero por el art. único.10 del Real Decreto 1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+> Se añade el párrafo tercero al apartado 2 por el art. 1.2.5 del Real Decreto 250/1997, de 21 de febrero. [Ref. BOE-A-1997-5222](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-5222)
+
+##### Artículo 67 bis. Ayudas de asistencia social autorizadas y beneficiarios.
+
+1\. Las ayudas de asistencia social que puede reconocer la Comisión de prestaciones especiales a los trabajadores de las empresas asociadas, así como a los trabajadores por cuenta propia adheridos, a causa del accidente de trabajo o de la enfermedad profesional que hayan sufrido, así como a sus derechohabientes, son las que siguen:
+
+a) De rehabilitación y recuperación.
+
+1.ª Ayuda para costear la estancia de larga duración en un centro sociosanitario o residencial de trabajadores con especiales dificultades para el desarrollo de las actividades básicas de la vida diaria y grandes inválidos. Las dificultades para el desarrollo de actividades básicas de la vida diaria, así como la conveniencia del ingreso en un centro de esas características deberán ser acreditadas mediante informe médico por los facultativos de la mutua.
+
+2.ª Ayuda para costear los gastos de traslado, estancia y dietas del trabajador en un centro hospitalario, sociosanitario o residencial, así como del acompañante encargado de su cuidado.
+
+3.ª Ayuda para prótesis y ayudas técnicas no regladas cuya necesidad haya sido acreditada mediante informe de los facultativos de la mutua.
+
+4.ª Ayuda para tratamientos médicos o terapias no reglados recomendados por los facultativos de la mutua.
+
+b) Reorientación profesional y adaptación del puesto de trabajo.
+
+1.ª Ayudas para sufragar cursos para la formación profesional e inserción sociolaboral del trabajador que estén orientados a mejorar su formación o a facilitar su inserción sociolaboral en los supuestos de pérdida del empleo como consecuencia del accidente de trabajo o de la enfermedad profesional, incluida la concesión de becas durante el desarrollo de la formación profesional.
+
+2.ª Ayudas para sufragar los gastos de adaptación del local o puesto de trabajo donde el trabajador autónomo desarrolla su actividad, así como los medios de trabajo, a las necesidades surgidas tras el accidente de trabajo.
+
+c) Ayuda para la adaptación de los medios esenciales para el desarrollo de las actividades básicas de la vida diaria.
+
+1.ª Ayudas para sufragar el coste de la eliminación de barreras arquitectónicas en la vivienda habitual y el coste que pueda suponer la adaptación de la vivienda habitual.
+
+2.ª Ayuda para la adquisición de vivienda habitual adaptada.
+
+3.ª Ayuda para sufragar la adaptación del vehículo o la adquisición de vehículo adaptado al estado físico del trabajador derivado del accidente de trabajo o de la enfermedad profesional.
+
+4.ª Apoyo domiciliario para el desarrollo de las actividades básicas de la vida diaria cuando no exista un familiar o pareja de hecho de la unidad de convivencia que esté en condiciones de poder prestar el apoyo domiciliario.
+
+5.ª Ayuda para el acceso a las nuevas tecnologías de la información y comunicación cuando el trabajador, como consecuencia del accidente de trabajo o enfermedad profesional, presente importantes limitaciones sensoriales o de movilidad y así quede acreditado mediante informe emitido por los facultativos de la mutua.
+
+d) Otras prestaciones.
+
+1.ª Abono de un complemento al auxilio por defunción reconocido por la Seguridad Social al derechohabiente del trabajador fallecido como consecuencia de un accidente de trabajo o de una enfermedad profesional que se haya hecho cargo de los gastos de sepelio.
+
+2.ª Ayuda para la formación en el cuidado de las personas en situación de gran invalidez debido a un accidente de trabajo o a una enfermedad profesional de las personas beneficiarias que se ocupen de proporcionar ese cuidado.
+
+3.ª Ayuda de pago único para el pago del alquiler o amortización de créditos hipotecarios de la vivienda habitual cuando, como consecuencia del accidente de trabajo o de la enfermedad profesional, se produzca la pérdida del empleo o situación similar de vulnerabilidad, durante el año siguiente al hecho causante.
+
+Mediante orden de la persona titular del ministerio al que corresponda la tutela de las mutuas colaboradoras con la Seguridad Social se podrá ampliar el catálogo de prestaciones de asistencia social autorizadas a petición razonada de dichas entidades, debiendo incorporarse las nuevas prestaciones como anexo a este real decreto.
+
+2\. Las prestaciones de asistencia social podrán concederse a los trabajadores al servicio de los empresarios asociados y a los trabajadores autónomos adheridos por los daños sufridos como consecuencia de un accidente de trabajo o de una enfermedad profesional, aun con posterioridad a la pérdida del empleo o cese de la actividad por cuenta propia, siempre y cuando quede acreditado con el correspondiente informe médico que son consecuencia directa de dichas contingencias.
+
+Asimismo, podrán ser beneficiarios el cónyuge o la pareja de hecho del trabajador, aun en los casos en los que no tenga derechos sucesorios del trabajador fallecido, y los hijos del trabajador accidentado o afecto de enfermedad profesional. En ambos supuestos deberán constituir una unidad de convivencia con el trabajador, salvo en los supuestos de separación o divorcio, en los que únicamente se exigirá obligación de prestación de alimentos por parte del trabajador.
+
+En defecto de los anteriores, podrán ser beneficiarios los nietos y, a falta de ellos, los padres. En ambos supuestos deberán constituir una unidad de convivencia con el trabajador.
+
+Podrá ser beneficiario de la prestación de auxilio por defunción cualquier familiar, cónyuge o pareja de hecho que tenga la condición de derechohabiente y que haya asumido los gastos del deceso.
+
+3\. A efectos de lo dispuesto en este artículo, se entiende que constituyen unidad de convivencia con el trabajador las personas con las que convive en el mismo domicilio, con las que está unido mediante vínculo conyugal; como pareja de hecho inscrita en alguno de los registros específicos existentes en las comunidades autónomas o ayuntamientos del lugar de residencia, o cuya constitución conste mediante documento público; o mediante vínculo hasta el segundo grado en línea directa por consanguinidad o adopción.
+
+Se considerarán asimismo parte de la unidad de convivencia a efectos de poder ser beneficiarios de la ayuda prevista en el apartado 1.d).2.ª los hijos, nietos o padres del trabajador que no convivieran con él en el mismo domicilio al producirse el accidente de trabajo o manifestarse la enfermedad profesional, pero deban convivir con él con motivo de dicho accidente o enfermedad profesional, siempre que acrediten esta circunstancia.
+
+4\. Se podrán conceder distintas ayudas complementarias, o incluso la misma ayuda más de una vez, en el caso de que se produzca una nueva situación de necesidad a causa del accidente de trabajo o de la enfermedad profesional sufrida por el trabajador, siempre que dicha situación no haya quedado cubierta y las ayudas estén recogidas en la relación establecida en el apartado 1.
+
+> Se añade por la disposición final 1.2 del Real Decreto 453/2022, de 14 de junio de 2022. [Ref. BOE-A-2022-9850](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9850)
+
+##### Artículo 68. Registros.
+
+1\. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social llevarán un Registro de empresas asociadas en el que constarán los datos precisos para la completa identificación de cada una de ellas, que figurarán numeradas correlativamente por fechas de asociación de los respectivos empresarios. Entre tales datos constarán necesariamente: El nombre y apellidos del empresario individual y la denominación o razón social, si se trata de una persona jurídica, domicilio, actividad, código o códigos de cuenta de cotización asignados, fecha del documento de asociación y, en su caso, del de proposición de asociación y fecha en que se haya extinguido el primero de estos documentos.
+
+Asimismo deberá recoger si la empresa asociada tiene formalizada la cobertura de la prestación económica por incapacidad temporal derivada de contingencias comunes de su personal, así como las fechas de inicio y cese de la opción inicial y opciones sucesivas en dicha cobertura.
+
+2\. Las Mutuas deberán llevar el Registro de reconocimientos médicos a tenor de lo dispuesto en los artículos 196 y 197 de la Ley General de la Seguridad Social.
+
+La entidad conservará las copias, remitidas por las empresas, de los certificados de los reconocimientos inscritos en este Registro.
+
+Cuando ninguna de las empresas asociadas realice actividades que entrañen riesgo de enfermedad profesional, la Mutua no estará obligada a llevar el Registro que en el presente apartado se regula.
+
+3\. En el Registro de contingencias profesionales se harán constar ordenadamente los datos personales y profesionales del trabajador afectado por un accidente de trabajo o una enfermedad profesional, así como su domicilio, número de afiliación a la Seguridad Social, empresa a cuyo servicio se encontrase y código de cuenta de cotización de la misma, fechas de baja y alta médicas, así como aquellos datos relativos a la lesión producida que sean relevantes.
+
+#### CAPITULO II — Gestión de la prestación económica de incapacidad temporal por contingencias comunes del personal al servicio de los empresarios asociados.
+
+> Se modifica la rúbrica por el art. único.10 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+##### Artículo 69. Ejercicio de la opción.
+
+1\. Los empresarios que opten por formalizar la protección respecto de las contingencias de accidentes de trabajo y enfermedades profesionales de su personal con una Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social podrán, asimismo, optar porque la cobertura de la prestación económica por incapacidad temporal derivada de contingencias comunes de ese mismo personal se lleve a efecto por la misma Mutua.
+
+Dicha opción, que deberá aceptarse obligatoriamente por la Mutua, comprenderá a la totalidad de los trabajadores de los centros de trabajo protegidos por la entidad.
+
+2\. La opción deberá realizarse por el empresario en el momento de formalizar el convenio de asociación con la Mutua, yendo unida a la vigencia del mismo, de modo que, conforme a lo establecido en el artículo 62 de este Reglamento, se mantendrá por un período de un año, entendiéndose prorrogada tácitamente por períodos anuales.
+
+No obstante, respetando el período anual a que se alude en el párrafo anterior, el empresario podrá renunciar a esta cobertura por la Mutua sin que ello implique alterar sus restantes derechos y obligaciones como asociado a la entidad, a cuyo efecto cursará a la Mutua notificación, que deberá realizarse debidamente y con una antelación mínima de un mes a la fecha de vencimiento del convenio de asociación. Realizada esta renuncia, el empresario no podrá acogerse nuevamente a la cobertura por la Mutua de la prestación económica por incapacidad temporal por contingencias comunes de su personal, hasta el próximo vencimiento de su convenio de asociación, en cuyo momento podrá efectuar nueva comunicación al respecto a la entidad, también con una antelación mínima de un mes a la fecha de dicho vencimiento.
+
+En todo caso, la responsabilidad mancomunada de los empresarios alcanzará también a las obligaciones que se hubiesen generado durante el período o períodos que hubiesen tenido cubierta esta prestación con la Mutua, según lo dispuesto en el artículo 8 de este Reglamento.
+
+3\. En el momento de formalizar esta cobertura con una Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, el empresario deberá entregar a la entidad informe emitido al respecto por el comité de empresa o delegado de personal, salvo que no existieran dichos órganos por no exigirlo la normativa aplicable.
+
+> Se modifica el apartado 1 por el art. 1.1 del Real Decreto 250/1997, de 21 de febrero. [Ref. BOE-A-1997-5222](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-5222)
+
+##### Artículo 70. Formalización.
+
+1\. La opción a que se refiere el artículo anterior quedará formalizada en un anexo al «documento de asociación» del empresario a la Mutua, a que se refiere el artículo 62.3 de este Reglamento y en el que se recogerán los derechos y obligaciones del empresario y de la entidad.
+
+En los supuestos contemplados en el artículo 62.4 y si el empresario optase por formalizar la cobertura de la prestación económica de la incapacidad temporal por contingencias comunes de sus trabajadores con la Mutua, se suscribirá también el correspondiente anexo al «documento de proposición de asociación».
+
+2\. Una vez formalizada la cobertura, la Mutua asumirá la gestión de la prestación económica de incapacidad temporal por contingencias comunes del personal al servicio de sus asociados, en los mismos términos y con igual alcance que las entidades gestoras de la Seguridad Social.
+
+3\. Los modelos de anexo a que se refiere el apartado 1 del presente artículo serán aprobados por el Ministerio de Trabajo y Seguridad Social.
+
+##### Artículo 71. Régimen de la prestación.
+
+1\. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social deberán asumir la cobertura de la prestación económica por incapacidad temporal derivada de contingencias comunes, en favor de los trabajadores empleados por sus empresarios asociados que hayan ejercitado esta opción con igual alcance que las entidades gestoras de la Seguridad Social, con sujeción a las normas reguladoras de dicha prestación en el régimen de la Seguridad Social en que estén encuadrados y con las particularidades recogidas en el presente Reglamento.
+
+2\. La financiación de las funciones y actividades atribuidas a las Mutuas en virtud de lo establecido en el apartado anterior se efectuará mediante la entrega a las mismas, a través de la Tesorería General de la Seguridad Social, de la fracción de cuota que determine el Ministerio de Trabajo y Asuntos Sociales. A las cotizaciones percibidas por las Mutuas por este concepto no les será de aplicación lo establecido en la sección segunda del capítulo III del Reglamento General sobre cotización y liquidación de otros derechos de la Seguridad Social, aprobado por Real Decreto 2064/1995, de 22 de diciembre, respecto de la aportación para el sostenimiento de los servicios comunes y sociales de la Seguridad Social.
+
+Cuando, de conformidad con la normativa vigente al respecto y en base a las competencias que tiene atribuidas, la Tesorería General de la Seguridad Social acuerde la concesión de aplazamientos o fraccionamientos en la cotización de empresas con la cobertura de la incapacidad temporal derivada de contingencias comunes de su personal formalizada con Mutuas de Accidentes de Trabajo y Enfermedades Profesionales, por el citado servicio común se procederá a transferir a la Mutua correspondiente, al vencimiento de los sucesivos plazos de ingreso de cuotas por la empresa, la fracción de dichas cotizaciones que le corresponda, incrementada en la parte proporcional de los intereses a que se refiere el artículo 20.4 de la Ley General de la Seguridad Social que en su caso se hubiesen ingresado por la empresa.
+
+> Se modifica por el art. 1.2 del Real Decreto 576/1997, de 18 de febrero. [Ref. BOE-A-1997-8770](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8770)
+
+##### Artículo 72. Registros.
+
+1\. El Registro de empresas asociadas a que se refiere el artículo 68.1 de este Reglamento, contendrá en su estructura un apartado específico donde se consigne la opción u opciones sucesivas, por parte de las empresas en el mismo inscritas, para la formalización de la cobertura de la prestación económica de incapacidad temporal derivada de contingencias comunes de sus trabajadores con la Mutua, debiendo de especificarse la fecha de dicha opción, así como, en su caso, la de renuncia y fechas de las sucesivas opciones y renuncias.
+
+2\. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social llevarán un Registro de contingencias comunes, en el que se harán constar ordenadamente los datos de los trabajadores afectados por enfermedad común y accidente no laboral, cuya cobertura de la prestación económica por incapacidad temporal corresponde a la Mutua, incluyendo su nombre, domicilio, número de afiliación a la Seguridad Social, empresa para la que trabaja y código de cuenta de cotización de la misma, fecha de la baja, importe de las prestaciones satisfechas y fecha de alta.
+
+##### Artículo 73. Contabilidad, resultados y reservas.
+
+1\. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social deberán incluir en la memoria anual información relativa a las cotizaciones percibidas y las prestaciones económicas satisfechas, como consecuencia de su colaboración en la gestión de la prestación económica por incapacidad temporal derivada de contingencias comunes, de los trabajadores al servicio de aquellas de sus empresas asociadas que hayan optado por formalizar esta cobertura con la entidad.
+
+2\. El resultado anual de esta gestión se determinará por la diferencia entre los ingresos y los gastos correspondientes, imputados en función de la naturaleza de la prestación y en base a las reglas de contabilidad analítica que se determinen por la Intervención General de la Seguridad Social».
+
+3\. Los resultados positivos que se deriven de esta gestión, calculados según lo previsto en el apartado anterior, se mantendrán en una reserva denominada “reserva de estabilización de incapacidad temporal por contingencias comunes”, cuya cuantía máxima se establece en el 25 por ciento de las cuotas percibidas por la mutua en el ejercicio y por las expresadas contingencias y su destino exclusivo será atender los posibles resultados negativos futuros que se produzcan en dicha gestión.
+
+Cuando, debido a la existencia de resultados negativos o a la insuficiencia de los positivos derivados de esta gestión, la reserva de estabilización de incapacidad temporal por contingencias comunes no alcance un importe equivalente al 5 por ciento de las cuotas a que se refiere el párrafo anterior, la entidad podrá disponer para la cancelación del déficit, en su caso, y para su dotación hasta dicho importe, de los restantes resultados positivos obtenidos en el ejercicio, siempre que la reserva prevista en el artículo 65 se encuentre correctamente dotada. Si dichos resultados positivos fuesen asimismo insuficientes, la mutua podrá destinar a la misma finalidad el exceso constituido sobre la cuantía mínima de la reserva de estabilización por contingencias profesionales.
+
+Igualmente, cuando la reserva de estabilización de incapacidad temporal por contingencias comunes se encuentre dotada en su cuantía máxima, los resultados positivos que se deriven de esta gestión se ingresarán en el Fondo de Reserva de la Seguridad Social.
+
+No obstante, una vez que se establezca reglamentariamente el sistema de reducción de las cotizaciones por contingencias comunes de las empresas previsto en el artículo 73.4 de la Ley General de la Seguridad Social, en proporción a los ahorros de costes generados al sistema a través de los procesos de colaboración previstos en dicho artículo, podrá destinarse a dicho fin un porcentaje máximo del 10 por ciento de los referidos resultados positivos en los términos y condiciones que establezcan las disposiciones específicas de desarrollo.
+
+4\. En el caso de obtener un resultado negativo de esta gestión, que no pueda ser enjugado mediante el procedimiento establecido en el apartado anterior, el mismo deberá ser cancelado mediante la correspondiente derrama entre los empresarios asociados a la Mutua y que tuvieron formalizada esta cobertura con la misma en el ejercicio en que dicho resultado se obtiene.
+
+El importe individualizado de la derrama y los plazos para hacerla efectiva serán establecidos por la Mutua y sometidos a la Junta general que ha de aprobar las cuentas. A efectos de la determinación, aprobación y cobro de esta derrama, será de aplicación lo establecido en el artículo 8 de este Reglamento.
+
+No obstante lo dispuesto en los párrafos anteriores de este apartado, la Junta general de la entidad podrá acordar que el cobro de la derrama quede suspendido hasta un máximo de tres años, desde el fin del ejercicio en que el resultado negativo se haya producido, teniendo en cuenta que los posibles resultados positivos que se generen durante dicho período podrán aplicarse a la cancelación parcial o total del negativo, conforme a las normas previstas en el apartado 3 anterior.
+
+> Se modifican los apartados 2 y 3 por el art. único.11 del Real Decreto 1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+> Se modifican los apartados 2 y 3 por el art. único.11, 12 y 13 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> La modificación del apartado 3 surte efectos desde el 1 de enero de 2004, según establece la disposición final 2.
+
+> Se modifica por el art. 1.3 y 4 del Real Decreto 576/1997, de 18 de febrero. [Ref. BOE-A-1997-8770](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8770)
+
+> Su anterior numeración era art. 74.
+
+#### CAPITULO III — Gestión de la prestación económica por incapacidad temporal en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos
+
+> Se modifica el título por el art. 4.2 del Real Decreto 1382/2008, de 1 de agosto. [Ref. BOE-A-2008-14777](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14777)
+
+##### Artículo 74. Ejercicio de la opción.
+
+1\. Los trabajadores comprendidos en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos que, de forma obligatoria u opcional y en los términos establecidos en los artículos 47.2 y 3 y 47 bis.4 del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, incluyan dentro de su acción protectora la prestación económica por incapacidad temporal, deberán formalizar su protección con una mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+2\. A efectos de lo previsto en el apartado anterior, las mutuas habrán de aceptar toda proposición de adhesión que les formulen los trabajadores autónomos, en los mismos términos y con igual alcance que las entidades gestoras de la Seguridad Social. La falta de pago de cotizaciones a la Seguridad Social no podrá dar lugar a la resolución del convenio de adhesión, sin perjuicio de lo establecido en la normativa reguladora del régimen de la Seguridad Social de que se trate, respecto a las condiciones necesarias para tener derecho a la prestación.
+
+> Se modifica por el art. 4.3 del Real Decreto 1382/2008, de 1 de agosto. [Ref. BOE-A-2008-14777](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14777)
+
+> Se reenumera por el art. 1.3 del Real Decreto 576/1997, de 18 de febrero. [Ref. BOE-A-1997-8770](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8770)
+
+> Su anterior numeración era art. 75.
+
+##### Artículo 75. Formalización.
+
+1\. La relación del trabajador con la mutua se formalizará mediante la suscripción del correspondiente «documento de adhesión» que tendrá un plazo de vigencia de un año natural, entendiéndose prorrogado tácitamente por el mismo periodo, salvo denuncia expresa formulada por el interesado y debidamente notificada, antes del 1 de octubre del ejercicio anterior al que haya de surtir efectos la adhesión a otra entidad o la renuncia a la cobertura, y siempre que el interesado, en la fecha de solicitud del cambio de entidad, no se encuentre en baja por incapacidad temporal. En este último supuesto, se mantendrá la opción realizada con anterioridad, que podrá modificarse antes del día 1 de octubre del ejercicio siguiente y con efectos del 1 de enero posterior, siempre que en el momento de formular la nueva solicitud el interesado se encuentre en alta.
+
+No obstante lo anterior, si en la fecha de hacerse efectiva la opción realizada el interesado se encontrase en baja por incapacidad temporal, los efectos de dicha opción se demorarán al día 1 del mes siguiente a aquel en que se produzca la correspondiente alta.
+
+En todo caso, el ejercicio de la opción que se prevé en los párrafos anteriores de este apartado, quedará condicionada a que el interesado esté al corriente en el pago de cotizaciones a la Seguridad Social.
+
+En los supuestos de disolución de la mutua, por causa diferente a su fusión o absorción, los trabajadores por cuenta propia que hubiesen estado adheridos a ella deberán formalizar la cobertura de la incapacidad temporal con otra mutua de su elección, dentro de los 30 días siguientes a la fecha de efectos de la disolución, aunque en esta fecha el interesado se encuentre en situación de baja.
+
+2\. En el documento de adhesión previsto en el apartado 1 se recogerán los derechos y deberes del interesado y de la mutua, así como la fecha y hora en que nazcan y se extingan sus efectos. Asimismo deberá expresar necesariamente el nombre y apellidos del trabajador, la denominación o razón social, en su caso, su domicilio y actividad, así como el régimen y número de la Seguridad Social.
+
+3\. Por el Ministerio de Trabajo e Inmigración se establecerá el modelo de ''documento de adhesión'' previsto en los apartados anteriores.
+
+> Se modifica por el art. 4.4 del Real Decreto 1382/2008, de 1 de agosto. [Ref. BOE-A-2008-14777](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14777)
+
+> Se modifica el párrafo primero del apartado 1 y los apartados 2 y 3 por el art. único.14 y 15 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Se reenumera por el art. 1.3 del Real Decreto 576/1997, de 18 de febrero. [Ref. BOE-A-1997-8770](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8770)
+
+> Su anterior numeración era art. 76.
+
+##### Artículo 76. Régimen de la prestación.
+
+1\. La adhesión del trabajador por cuenta propia a una Mutua, mediante la firma del oportuno documento, será a los solos efectos de obtener la prestación económica por incapacidad temporal, en los términos y condiciones que resulten de la normativa correspondiente al régimen de Seguridad Social de que se trate, sin que por esta sola circunstancia adquiera la condición de asociado o mutualista de la entidad, ni sea tenido en cuenta a efectos de lo establecido en el artículo 9.2.
+
+2\. Las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social deberán asumir la cobertura de las prestaciones económicas a favor de los trabajadores por cuenta propia adheridos a aquellas en situación de incapacidad temporal, con igual alcance que las entidades gestoras de la Seguridad Social, con sujeción a lo establecido en el capítulo II del Real Decreto 1273/2003, de 10 de octubre, por el que se regula cobertura de las contingencias profesionales de los trabajadores incluidos en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, y la ampliación de la prestación por incapacidad temporal para los trabajadores por cuenta propia, y demás normativa de aplicación, con las particularidades recogidas en este reglamento.
+
+La financiación de las funciones y actividades atribuidas a las Mutuas en virtud de lo establecido en el párrafo anterior se efectuará mediante la entrega a las mismas, a través de la Tesorería General de la Seguridad Social, de la parte de cuota que determine el Ministerio de Trabajo y Asuntos Sociales, a la cual no le será de aplicación lo establecido en la sección segunda del capítulo III del Reglamento General sobre cotización y liquidación de otros derechos de la Seguridad Social, aprobado por Real Decreto 2064/1995, de 22 de diciembre, respecto de la aportación para el sostenimiento de los servicios comunes y sociales de la Seguridad Social.
+
+> Se modifica el párrafo primero del apartado 2 por el art. único.16 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Se reenumera y modifica por el art. 1.3 y 5 del Real Decreto 576/1997, de 18 de febrero. [Ref. BOE-A-1997-8770](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8770)
+
+> Su anterior numeración era art. 77.
+
+##### Artículo 77. Registros.
+
+1\. Las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social llevarán un registro de trabajadores por cuenta propia adheridos, en el que figurarán numerados correlativamente por fechas de adhesión, y que contendrá los datos a que se refiere el artículo 75.2.
+
+2\. De igual forma, llevarán un Registro de contingencias de trabajadores por cuenta propia adheridos en el que se harán constar ordenadamente los datos personales y profesionales del trabajador por cuenta propia afectado, naturaleza de la contingencia, fecha de baja y alta médicas, importe de la prestación satisfecha y clase y gravedad de la lesión.
+
+> Se modifica el apartado 1 por el art. único.17 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Se reenumera por el art. 1.3 del Real Decreto 576/1997, de 18 de febrero. [Ref. BOE-A-1997-8770](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8770)
+
+> Su anterior numeración era art. 78.
+
+##### Artículo 78. Obligaciones de los trabajadores.
+
+1\. El trabajador habrá de cumplir con las obligaciones que respecto a cotización, documentación, información y otras análogas, se deriven del régimen de Seguridad Social aplicable, así como de lo dispuesto en el presente Reglamento y demás normativa de aplicación.
+
+2\. Específicamente, los trabajadores por cuenta propia que se encuentren en incapacidad temporal vendrán obligados a presentar ante la correspondiente mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social la declaración a que se refiere el párrafo segundo del artículo 12 del Real Decreto 1273/2003, de 10 de octubre, en los términos y con los efectos previstos en este.
+
+> Se modifica el apartado 2 por el art. único.18 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Se reenumera y modifica por el art. 1.3 y 6 del Real Decreto 576/1997, de 18 de febrero. [Ref. BOE-A-1997-8770](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8770)
+
+> Su anterior numeración era art. 79.
+
+##### Artículo 79. *Régimen financiero.*
+
+1\. Los ingresos y gastos de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social derivados de la colaboración en la gestión de las prestaciones económicas de incapacidad temporal a favor de los trabajadores por cuenta propia adheridos se integrarán a todos los efectos con los demás ingresos y gastos obtenidos y realizados por estas entidades en la gestión de la referida prestación establecidos en el artículo 73.2.
+
+Teniendo en cuenta la integración de resultados que se establece en el párrafo anterior, las cotizaciones percibidas se incluirán en la base de cálculo del importe anual de la reserva de estabilización que se establece en el artículo 73.3. Asimismo, será de aplicación lo previsto en dicho apartado respecto del destino del exceso del resultado económico positivo resultante, en los términos establecidos en él.
+
+2\. Las mutuas facilitarán al Ministerio de Trabajo y Asuntos Sociales, con la periodicidad y en los términos que por este se establezcan, los datos económicos y demás información relativa a la modalidad de colaboración en la gestión regulada en este capítulo.
+
+> Se modifica el título y el apartado 1 por el art. único.12 del Real Decreto 1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+> Se modifica por el art. único.19 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Esta modificación tiene efectos desde el 1 de enero de 2004, según establece la disposición final 2.
+
+> Se reenumera por el art. 1.3 del Real Decreto 576/1997, de 18 de febrero. [Ref. BOE-A-1997-8770](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8770)
+
+> Su anterior numeración era art. 80.
+
+#### CAPÍTULO IV — Normas comunes a los capítulos II y III
+
+> Se añade por el art. 2 del Real Decreto 576/1997, de 18 de febrero. [Ref. BOE-A-1997-8770](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8770)
+
+##### Artículo 80. Contenido de la gestión.
+
+1\. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social concederán la prestación económica por incapacidad temporal derivada de contingencias comunes en la cuantía y demás condiciones que resulten de las normas aplicables al régimen de la Seguridad Social en el que estuvieran encuadrados los trabajadores de las empresas asociadas que hubieran ejercitado esta opción o aquellos otros que hubieran formulado su adhesión, y dispensarán la prestación con igual alcance que las entidades gestoras de la Seguridad Social.
+
+Corresponde a las mutuas la función de declaración del derecho al subsidio, así como las de su denegación, suspensión, anulación y declaración de extinción en los procesos de incapacidad temporal correspondientes a trabajadores dependientes de empresas asociadas y de los trabajadores por cuenta propia adheridos.
+
+La declaración del derecho a la prestación económica y su mantenimiento se efectuará previa comprobación de todos los hechos y condiciones establecidos en el artículo 128 del texto refundido de la Ley General de la Seguridad Social y del cumplimiento de los requisitos previstos en el artículo 130 de la misma ley, así como de los específicos establecidos para esta prestación en los distintos regímenes especiales que regulan el acceso al derecho de los trabajadores por cuenta propia, sin perjuicio del control sanitario de las altas y las bajas médicas por parte de los servicios públicos de salud en los términos y con el alcance establecidos en el Real Decreto 575/1997, de 18 de abril.
+
+Asimismo las mutuas asumirán el coste del subsidio de incapacidad temporal, el de la gestión administrativa que realicen en relación con estas prestaciones y de las actuaciones de control y seguimiento de la prestación económica y de la situación de incapacidad temporal, así como el de las actuaciones a que se refiere el artículo 82.
+
+2\. Los actos por los que se declare el derecho a la prestación económica o por los que se deniegue, suspenda, restrinja, anule o extinga el derecho, serán motivados y se formalizarán por escrito, quedando supeditada la eficacia de los mismos a su notificación a los beneficiarios, así como a los empresarios de aquellos beneficiarios que mantuvieran relación laboral, sin perjuicio de lo establecido en el artículo 81.
+
+No obstante lo dispuesto en el párrafo anterior, expedida el alta médica, se entenderá extinguido el derecho al subsidio con efectos del día siguiente al de su expedición, salvo que dicha fecha sea festivo o víspera de festivo, en cuyo caso el derecho se mantendrá en tales días.
+
+3\. Las Mutuas podrán instar la actuación de la Inspección de Servicios Sanitarios de la Seguridad Social en los términos que se reconoce a las empresas en la Orden del Ministerio de Trabajo de 21 de marzo de 1974. Igualmente, podrán poner en conocimiento de dicha Inspección cualquier hecho puesto de manifiesto en el desarrollo de sus funciones de colaboración para la adopción por los mismos de las actuaciones o medidas que correspondan en el ámbito de sus competencias materiales.
+
+4\. Asimismo, cuando debido a circunstancias concurrentes en una empresa, se considere ne cesario para el mejor control de los procesos de incapacidad temporal derivada de contingencias comunes, el Ministerio de Trabajo y Asuntos Sociales, a instancia de la Mutua afectada, podrá acordar la suspensión de la colaboración obligatoria a que se refiere el artículo 77 de la Ley General de la Seguridad Social. Dicha suspensión se levantará cuando hayan desaparecido las causas que la motivaron. De la suspensión, así como de su levantamiento, se dará traslado a la Tesorería General de la Seguridad Social a los efectos oportunos.
+
+> Se modifica el párrafo tercero del apartado 1 por el art. 5.2 del Real Decreto 1041/2005, de 5 de septiembre. [Ref. BOE-A-2005-15366](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15366)
+
+> Se modifica el apartado 1 por el art. único.20 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Se modifica por el art. 2 del Real Decreto 576/1997, de 18 de febrero. [Ref. BOE-A-1997-8770](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8770)
+
+##### Artículo 81. Actos de determinación inicial del subsidio y pagos provisionales.
+
+1\. Las cantidades que perciba el trabajador en concepto de subsidio de incapacidad temporal tendrán carácter provisional durante el plazo de dos meses contado desde la fecha en que se efectuó la liquidación y pago, adquiriendo carácter definitivo al término final de este plazo excepto en el caso de que la Mutua, con anterioridad a la finalización del mismo, adopte el acuerdo de reconocimiento del derecho a que se refiere el apartado 3 de este artículo. Durante este mismo plazo de tiem po, las Mutuas podrán dictar actos por los que determinen inicialmente y con carácter provisional el importe del subsidio.
+
+2\. Durante el período de tiempo señalado en el apartado anterior, las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social podrán revisar sus actos de determinación inicial del subsidio y regularizar total o parcialmente la cuantía de las prestaciones económicas que hayan sido pagadas con carácter provisional, lo que efectuarán mediante acuerdo motivado. Los acuerdos de regularización y los de revisión de los señalamientos provisionales serán motivados y se notificarán a las personas que menciona el apartado 2 del artículo 80 de este Reglamento.
+
+3\. La determinación definitiva del importe del subsidio se efectuará mediante el acto de declaración del derecho a que se refiere el apartado 2 del artículo 80 de este Reglamento, o por el transcurso del plazo señalado en el apartado 1 anterior.
+
+> Se añade por el art. 2 del Real Decreto 576/1997, de 18 de febrero. [Ref. BOE-A-1997-8770](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8770)
+
+##### Artículo 82. Actuaciones sanitarias de urgencia de las Mutuas.
+
+Cuando, transcurridos más de quince días a partir de la baja en el trabajo, la situación de incapacidad se prolongase a consecuencia de la demora en la práctica de las pruebas diagnósticas o en la aplicación de tratamientos médicos o quirúrgicos prescritos por el Servicio de Salud correspondiente, los servicios médicos de las Mutuas podrán llevar a cabo dichas pruebas o tratamientos, previo consentimiento informado del trabajador y con la conformidad de la autoridad sanitaria del Servicio de Salud correspondiente, una vez comprobada la adecuación y calidad de los mismos y en los términos y condiciones que se establezcan en los acuerdos y convenios a que se refiere el artículo 83.2.
+
+> Se añade por el art. 2 del Real Decreto 576/1997, de 18 de febrero. [Ref. BOE-A-1997-8770](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8770)
+
+##### Artículo 83. Cooperación y coordinación.
+
+1\. En el ámbito de la cooperación y coordinación entre las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, el Instituto Nacional de la Salud y los Servicios de Salud de las Comunidades Autónomas, las Mutuas podrán realizar los reconocimientos complementarios, pruebas médicas, informes, tratamientos e intervenciones quirúrgicas que se les interese, así como las actuaciones a que se refiere el artículo 82.
+
+2\. Los acuerdos y convenios correspondientes fijarán las compensaciones económicas que hayan de satisfacerse por el Servicio Público de Salud de que se trate como contraprestación por los servicios realizados por las Mutuas, así como la forma y condiciones en que aquellas compensaciones serán satisfechas.
+
+Dichos acuerdos y convenios deberán someterse previamente a la aprobación del Ministerio de Trabajo y Asuntos Sociales.
+
+> Se añade por el art. 2 del Real Decreto 576/1997, de 18 de febrero. [Ref. BOE-A-1997-8770](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8770)
+
+##### Artículo 84. *Reintegro de cantidades indebidamente percibidas.*
+
+Las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social comunicarán a la Tesorería General de la Seguridad Social sus acuerdos y las resoluciones judiciales por los que se declare la existencia de cantidades indebidamente percibidas por prestaciones económicas de incapacidad temporal gestionadas por las mismas, para que por aquélla se proceda a exigir su reintegro con arreglo a las normas establecidas en el Reglamento general de recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio. Los ingresos que se obtengan se transferirán por la Tesorería General de la Seguridad Social a la mutua correspondiente, momento en el cual se imputarán a su presupuesto de gastos, como minoración de las obligaciones del ejercicio corriente.
+
+> Se modifica por el art. único.13 del Real Decreto 1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+> Se añade por el art. 2 del Real Decreto 576/1997, de 18 de febrero. [Ref. BOE-A-1997-8770](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-8770)
+
+#### CAPÍTULO V
+
+## Gestión de la protección respecto de las contingencias de accidentes de trabajo y enfermedades profesionales de los trabajadores por cuenta propia
+
+> Se añade por el art. único.21 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final 2.
+
+##### Artículo 85. Trabajadores adheridos
+
+1\. De conformidad con lo establecido en el artículo 48.4 del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, los trabajadores por cuenta propia incluidos en el Régimen Especial de la Seguridad Social de los Trabajadores de Mar podrán optar por formalizar la gestión de la cobertura de las contingencias de accidentes de trabajo y enfermedades profesionales con una mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+Dicha opción deberá aceptarse obligatoriamente por la mutua. La falta de pago de cotizaciones a la Seguridad Social no podrá dar lugar a la resolución de la relación de adhesión resultante, sin perjuicio de lo establecido respecto de las condiciones de acceso a las prestaciones en la normativa reguladora del régimen de la Seguridad Social de que se trate.
+
+La adhesión tendrá un plazo de vigencia de un año, debiendo coincidir en todo caso su vencimiento con el último día del mes, y se entenderá prorrogada tácitamente por periodos anuales, salvo denuncia en contrario del trabajador por cuenta propia, debidamente notificada con un mes de antelación, como mínimo, a la fecha de vencimiento.
+
+2\. Los trabajadores incluidos en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos que protejan, con carácter voluntario u obligatorio, las contingencias de accidentes de trabajo y enfermedades profesionales en los términos establecidos en los artículos 47.4 y 47 bis.5 del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, deberán formalizar dicha cobertura con la misma mutua con la que tengan formalizada o formalicen la prestación económica por incapacidad temporal derivada de contingencias comunes.
+
+Los trabajadores incluidos en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios que no hubieran optado por la cobertura de la prestación por incapacidad temporal, deberán formalizar la protección de las contingencias profesionales por invalidez y muerte y supervivencia con la mutua de su elección.
+
+La propuesta de adhesión deberá aceptarse obligatoriamente por la mutua. La falta de pago de cotizaciones a la Seguridad Social no podrá dar lugar a la resolución de la relación de adhesión resultante, sin perjuicio de lo establecido respecto de las condiciones de acceso a las prestaciones en el artículo 5 del Real Decreto 1273/2003, de 10 de octubre, por el que se regula la cobertura de las contingencias profesionales de los trabajadores incluidos en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, y la ampliación de la prestación por incapacidad temporal para los trabajadores por cuenta propia.
+
+Dicha propuesta deberá realizarse por el trabajador en el momento de formalizar el documento de adhesión con la mutua, yendo unida a la vigencia del mismo, de modo que, conforme a lo establecido en el artículo 75, tendrá un plazo de vigencia de un año natural, prorrogable tácitamente por el mismo período.
+
+No obstante, en los supuestos de cobertura voluntaria de estas contingencias el trabajador podrá renunciar a ella en la forma, plazo y demás condiciones, y con los efectos establecidos en los artículos 47.4 y 47 bis.5 del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, sin que ello implique alterar sus restantes derechos y obligaciones como adherido. Realizada esta renuncia, el trabajador podrá acogerse nuevamente a la protección en la forma, plazos y demás condiciones y con los efectos establecidos en los referidos artículos, en cuyo caso, deberá formalizarla con la mutua con la que tenga formalizada o formalice la gestión de la prestación económica por incapacidad temporal derivada de contingencias comunes.
+
+> Se modifica por el art. 4.5 del Real Decreto 1382/2008, de 1 de agosto. [Ref. BOE-A-2008-14777](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14777)
+
+> Se añade por el art. único.21 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final 2.
+
+##### Artículo 86. Formalización.
+
+1\. La relación del trabajador por cuenta propia con la mutua, resultante del ejercicio de la opción o de la obligatoriedad de la cobertura de las contingencias profesionales por invalidez y muerte y supervivencia, a que se refieren, respectivamente, el apartado 1 y el párrafo segundo del apartado 2 del artículo 85, se formalizará mediante la suscripción del correspondiente ''documento de adhesión'', en el que se recogerán los derechos y obligaciones del trabajador por cuenta propia y de la mutua, así como la fecha y hora en que nazcan y se extingan sus efectos.
+
+2\. La cobertura opcional u obligatoria a que se refiere el párrafo primero del apartado 2 del artículo 85 se formalizará en un anexo al ''documento de adhesión'' para la gestión de la prestación económica por incapacidad temporal, establecido en el artículo 75.1, en el que se recogerán los derechos y obligaciones del trabajador y de la mutua, así como la fecha y hora en que nazcan y se extingan sus efectos.
+
+3\. Por el Ministerio de Trabajo e Inmigración se establecerán los correspondientes modelos de ''documento de adhesión'' y de anexo previstos en los apartados anteriores.
+
+> Se modifica por el art. 4.6 del Real Decreto 1382/2008, de 1 de agosto. [Ref. BOE-A-2008-14777](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14777)
+
+> Se añade por el art. único.21 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final 2.
+
+##### Artículo 87. Régimen de la cobertura.
+
+1\. La formalización de la protección mediante la firma, según proceda en cada caso, del documento de adhesión y anexo previstos en el artículo anterior será a ese único efecto, sin que por tal motivo el trabajador por cuenta propia adquiera la condición de asociado de la entidad, ni sea tenido en cuenta a efectos de lo establecido en el artículo 9.2.
+
+2\. Las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social deberán asumir la gestión de las prestaciones correspondientes con sujeción a lo establecido en la normativa por la que se regule la cobertura de las contingencias profesionales en el régimen de la Seguridad Social de que se trate, con las particularidades recogidas en este reglamento. Asimismo dispensarán a los trabajadores por cuenta propia que hayan formalizado dicha protección servicios preventivos en los términos establecidos en el párrafo primero del artículo 13, así como los beneficios de asistencia social previstos en el apartado 1 del artículo 67, en los términos establecidos en dicho artículo.
+
+Corresponde a la mutua de que se trate la expedición de los partes médicos de baja, confirmación de baja y alta, así como la declaración del derecho al subsidio, su denegación, suspensión, anulación y declaración de extinción, en los procesos de incapacidad temporal derivados de las referidas contingencias profesionales relativos a los trabajadores por cuenta propia adheridos, en los términos establecidos en la normativa reguladora del régimen de la Seguridad Social aplicable. Asimismo, le corresponde acordar las sucesivas bajas, confirmación de baja y alta, expedidas en los procesos originados por las mismas patologías que causaron procesos derivados de las indicadas contingencias correspondientes a dichos trabajadores, en los términos y con el alcance antes mencionados, así como la declaración del derecho al subsidio, su denegación, suspensión, anulación y declaración de extinción.
+
+3\. La financiación de las funciones y actividades atribuidas a las mutuas en virtud de lo establecido en el apartado anterior se efectuará mediante la entrega a estas, a través de la Tesorería General de la Seguridad Social, del importe de las cotizaciones efectuadas por las referidas contingencias por los trabajadores por cuenta propia afectados, de conformidad con lo establecido en la normativa reguladora del régimen de la Seguridad Social en que estén encuadrados, con las deducciones que resulten aplicables y, específicamente, las derivadas de lo previsto en la sección 2.a del capítulo III del Reglamento general sobre cotización y liquidación de otros derechos de la Seguridad Social, aprobado por el Real Decreto 2064/1995, de 22 de diciembre, respecto de la aportación para el sostenimiento de los servicios comunes y sociales de la Seguridad Social.
+
+> Se modifica el párrafo segundo del apartado 2 por el art. 5.3 del Real Decreto 1041/2005, de 5 de septiembre. [Ref. BOE-A-2005-15366](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15366)
+
+> Se añade por el art. único.21 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final 2.
+
+##### Artículo 88. Registros.
+
+1\. El Registro de trabajadores por cuenta propia adheridos a que se refiere el artículo 77.1 de este reglamento contendrá en su estructura un apartado específico para cada uno de los regímenes de la Seguridad Social a que se refiere este capítulo, donde se consignen la opción u opciones sucesivas, por parte de los trabajadores inscritos en él, para la formalización de la protección de las contingencias de accidentes de trabajo y enfermedades profesionales, debiendo especificarse la fecha de dicha opción, la de sus efectos, así como, en su caso, la fecha de renuncia y las fechas de las sucesivas opciones y renuncias, así como las de sus respectivos efectos.
+
+2\. De igual forma, el Registro de contingencias de trabajadores por cuenta propia adheridos previsto en el artículo 77.2 contendrá en su estructura un apartado específico para cada uno de dichos regímenes relativo a las contingencias de accidentes de trabajo y enfermedades profesionales de los trabajadores adheridos a que se refiere el apartado anterior, en el que se harán constar ordenadamente los datos personales y profesionales del trabajador afectado, fechas de baja y alta médica, así como aquellos datos relativos a la lesión producida que sean relevantes.
+
+> Se añade por el art. único.21 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final 2.
+
+##### Artículo 89. Obligaciones de los trabajadores.
+
+1\. El trabajador por cuenta propia adherido habrá de cumplir las obligaciones que respecto a cotización, documentación, información y otras análogas se deriven de las normas reguladoras de la protección de las contingencias de accidentes de trabajo y enfermedades profesionales en el régimen de la Seguridad Social aplicable, así como de lo dispuesto en este reglamento y demás normativa de aplicación.
+
+2\. Específicamente, los trabajadores que se encuentren en incapacidad temporal derivada de las contingencias de accidentes de trabajo y enfermedades profesionales vendrán obligados a presentar ante la correspondiente mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social la declaración a que se refiere el párrafo segundo del artículo 12 del Real Decreto 1273/2003, de 10 de octubre, en los términos y con los efectos previstos en él.
+
+> Se añade por el art. único.21 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final 2.
+
+##### Artículo 90. Régimen financiero.
+
+1\. Los ingresos y gastos de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social derivados de la colaboración en la gestión de la protección de las contingencias de accidentes de trabajo y enfermedades profesionales de los trabajadores adheridos se integrarán a todos los efectos con los demás ingresos y gastos obtenidos y realizados por estas entidades en la gestión de las referidas contingencias de accidentes de trabajo y enfermedades profesionales.
+
+Las mutuas facilitarán al Ministerio de Trabajo e Inmigración, con la periodicidad y en los términos que éste establezca, los datos económicos y demás información relativa a la modalidad de colaboración en la gestión regulada en este capítulo.
+
+2\. Teniendo en cuenta la integración de resultados que se establece en el apartado anterior, las cotizaciones percibidas se incluirán en la base de cálculo de los importes de la reserva de estabilización que se establece en el artículo 65.1. Asimismo, será de aplicación lo establecido en el artículo 63 en cuanto al régimen financiero.
+
+> Se modifica por el art. único.14 del Real Decreto 1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+> Se añade por el art. único.21 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final 2.
+
+### TÍTULO III — Colaboración y cooperación entre mutuas
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+#### CAPÍTULO I — Disposiciones comunes
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 91. Modalidades de colaboración y cooperación entre mutuas.
+
+1\. Con la finalidad de obtener la mayor eficacia y racionalización en la utilización de los recursos gestionados, las mutuas podrán establecer entre sí los mecanismos de colaboración y cooperación que sean necesarios para el mejor desarrollo de las competencias que tienen legalmente encomendadas.
+
+2\. Sin perjuicio de otras posibles fórmulas de colaboración que pudieran establecerse de conformidad con el apartado anterior, para la consecución de los fines señalados el Ministerio de Trabajo e Inmigración podrá autorizar a dos o más mutuas la puesta en común de los medios necesarios para el desarrollo de su gestión, que podrá revestir las siguientes modalidades:
+
+a) **(Derogada)**
+
+b) Centros mancomunados, para la puesta en común de medios con el fin de establecer instalaciones y servicios sanitarios y recuperadores para la prestación de la asistencia y la recuperación de los trabajadores incluidos en el ámbito de protección de las mutuas partícipes.
+
+3\. Las entidades y los centros mancomunados quedarán asimilados a las mutuas partícipes en el desarrollo de su actividad, la cual llevarán a cabo bajo la dirección y tutela del Ministerio de Trabajo e Inmigración.
+
+> Se deroga la letra a) del apartado 2 por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 92. Patrimonio y ausencia de lucro.
+
+1\. Los ingresos procedentes de las cuotas de la Seguridad Social de las mutuas partícipes y los que obtengan las entidades y los centros mancomunados como consecuencia de su gestión, así como los bienes muebles o inmuebles en que puedan invertirse dichos ingresos forman parte del patrimonio de la Seguridad Social y están afectados al cumplimiento de los fines de ésta.
+
+2\. Igual carácter y afectación tendrán los ingresos que las entidades y los centros mancomunados puedan generar en las instalaciones y servicios sanitarios y recuperadores puestos en común por las mutuas partícipes, como consecuencia de la dispensa de prestaciones y servicios a personas ajenas al colectivo de trabajadores protegidos por las mutuas partícipes.
+
+3\. La actividad de las entidades y los centros mancomunados en ningún caso podrá servir de fundamento a operaciones de lucro mercantil, ni a la concesión de beneficios de ninguna clase a favor de las mutuas partícipes.
+
+A estos efectos, no tendrán la consideración de operaciones de lucro mercantil la prestación de servicios y la realización de operaciones patrimoniales por parte de las mutuas partícipes a través de la entidad o centro mancomunado.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 93. Régimen jurídico.
+
+1\. Dadas las funciones que podrán asumir las entidades y los centros mancomunados, los mismos tienen la naturaleza de mutuas, estando sujetas a la normativa reguladora de éstas, y, específicamente, a la contenida en este reglamento, en el Real Decreto 1221/1992, de 9 de octubre, sobre el Patrimonio de la Seguridad Social, en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, y en la Ley 30/2007, de 30 de octubre, todo ello sin perjuicio de las particularidades previstas en el presente título.
+
+Asimismo, estarán sometidos al control interno ejercido por la Intervención General de la Seguridad Social, en los términos previstos en la citada Ley 47/2003, de 26 de noviembre, y en sus normas de desarrollo.
+
+2\. La resolución que autorice la constitución de las entidades y centros mancomunados aprobará los correspondientes estatutos, que recogerán, necesariamente, los derechos, obligaciones, forma de financiación por las mutuas partícipes, régimen de gobierno, administración, régimen económico y funciones a desarrollar, los cuales se ajustarán a las prescripciones contenidas en este Reglamento y demás normativa de aplicación.
+
+3\. Aprobada la constitución de las entidades y centros mancomunados, se procederá a su inscripción en el registro que se llevará a estos efectos, dependiente de la Secretaría de Estado de la Seguridad Social, debiendo publicarse dicha inscripción en el “Boletín Oficial del Estado”.
+
+4\. Una vez inscritos en el registro, las entidades y los centros mancomunados tendrán personalidad jurídica propia y gozarán de plena capacidad para adquirir, poseer, gravar o enajenar bienes y derechos y realizar toda clase de actos y contratos o ejercitar derechos o acciones en los mismos términos que las mutuas partícipes, todo ello ordenado a la realización de los fines que tienen encomendados y conforme a lo dispuesto en este reglamento y demás normativa de aplicación.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 94. Régimen económico y contable.
+
+Las entidades y los centros mancomunados confeccionarán y ejecutarán sus presupuestos y llevarán su contabilidad con arreglo a lo establecido para este tipo de entidades en la Ley 47/2003, de 26 de noviembre, y en su normativa de desarrollo.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 95. Criterios de participación.
+
+A los efectos de lo previsto en el apartado 2.a) del artículo 91, cuando la puesta en común de instrumentos, medios, instalaciones y servicios se realice sólo entre algunas de las mutuas partícipes, podrán establecerse los criterios para determinar la participación limitada a dichas mutuas partícipes.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 96. Efectos en las relaciones laborales de las mutuas partícipes.
+
+Cuando la constitución de una entidad o centro mancomunado o la adhesión a una entidad o centro ya constituidos tuviera alguna consecuencia en las relaciones laborales de los trabajadores de las mutuas partícipes, la adopción de las medidas relativas a los trabajadores requerirá el acuerdo con la representación de los trabajadores o, en su defecto, la acreditación de las negociaciones efectuadas en orden a la obtención de dicho acuerdo.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 97. Normativa supletoria.
+
+En todo lo no previsto en este título, será aplicable a las entidades y centros mancomunados la normativa de aplicación a las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, en iguales términos que éstas, en lo que no resulte incompatible con su naturaleza y características.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+#### CAPÍTULO II — Entidades mancomunadas
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en el Capítulo II seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 98. Constitución.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 99. Autorización e inscripción.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 100. Contenido de los Estatutos.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 101. Condiciones para la vinculación de las mutuas a la entidad mancomunada.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 102. Condiciones para la desvinculación de mutuas partícipes.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 103. Exclusión de mutuas partícipes.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 104. Órganos de gobierno y de gestión. Participación institucional.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 105. Junta de gobierno.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 106. Gerente.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 107. Responsabilidad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 108. Incompatibilidades.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 109. Prohibiciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 110. Régimen retributivo de los miembros de los órganos de gobierno, y de gestión.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 111. Disolución y liquidación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 112. Régimen económico-presupuestario.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 113. Financiación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 114. Aportaciones de las mutuas partícipes.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 115. Ausencia de lucro y resultados de la actividad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 116. Utilización compartida de inmuebles.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 117. Utilización de inmuebles por la entidad mancomunada.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Téngase en cuenta que lo establecido en este artículo seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+#### CAPÍTULO III — Centros mancomunados
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 118. Constitución, autorización e inscripción.
+
+1\. La constitución de centros mancomunados requerirá autorización del Ministerio de Trabajo e Inmigración, previa solicitud de las mutuas promotoras, a la que se acompañará la documentación señalada en el artículo 98.
+
+2\. Una vez comprobada la concurrencia en la solicitud de los requisitos exigidos para su constitución y que sus estatutos se ajustan al ordenamiento jurídico, el Ministerio de Trabajo e Inmigración procederá a aprobar la constitución del centro mancomunado y de los estatutos.
+
+3\. Aprobada la constitución del centro mancomunado, y verificadas su inscripción y publicación, se notificará a las mutuas promotoras, con expresión del número de registro que le corresponda, a partir de cuyo momento el centro mancomunado podrá comenzar su actuación.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 119. Contenido de los estatutos.
+
+Lo dispuesto en el artículo 100, en cuanto al contenido de los estatutos de las entidades mancomunadas y su modificación, será de aplicación a los centros mancomunados.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 120. Órganos de gobierno y de gestión. Participación institucional.
+
+Será de aplicación a los centros mancomunados lo establecido en el capítulo II del título III acerca de los órganos de gobierno y de gestión y en materia de participación institucional en las entidades mancomunadas.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Artículo 121. Disolución y liquidación.
+
+La disolución y liquidación de los centros mancomunados se ajustarán a lo dispuesto en el artículo 111, en lo que no resulte incompatible con su naturaleza y características.
+
+> Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. [Ref. BOE-A-2010-654](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-654)
+
+##### Disposición adicional primera. Condiciones de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social como empresarios y a efectos de Seguridad Social.
+
+Sin perjuicio de lo dispuesto en el presente Reglamento las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en su calidad de empresarios, estarán sujetas a las normas laborales y de Seguridad Social que en tal concepto les afecten.
+
+No obstante, dichas entidades asumirán respecto de su propio personal la protección de las contingencias de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, así como la cobertura de la prestación económica por incapacidad temporal derivada de contingencias comunes, sin que por ello adquieran el carácter de empresarios asociados a los efectos establecidos en el presente Reglamento.
+
+##### Disposición adicional segunda. Modificación de las primas de accidente de trabajo y enfermedad profesional por medidas de prevención.
+
+1\. De conformidad con lo establecido en el apartado 3 del artículo 108 de la Ley General de la Seguridad Social, la cuantía de las cotizaciones por accidentes de trabajo y enfermedades profesionales podrá reducirse hasta un 10 por 100, en el supuesto de empresas que se distingan por el empleo de medidas propias y eficaces de prevención, teniendo en cuenta la evolución de la accidentalidad en las mismas. Asimismo, dichas cotizaciones podrán aumentarse hasta un 10 por 100 en el caso de empresas que incumplan sus obligaciones en materia de higiene y seguridad en el trabajo, pudiendo llegar hasta un 20 por 100 de incremento en el caso de reiterado incumplimiento de las aludidas obligaciones.
+
+2\. El Ministerio de Trabajo y Seguridad Social podrá establecer la reducción o el incremento de cotizaciones a que se refiere el apartado anterior, conforme al procedimiento que se determine en las disposiciones de aplicación y desarrollo. Para la reducción, que se tramitará previa petición de la empresa, será necesario recabar informes técnicos sobre la situación de la empresa en cuanto a seguridad y salud laboral, así como los que el citado Ministerio estime convenientes.
+
+##### Disposición adicional tercera. Canon por utilización de inmuebles pertenecientes al patrimonio histórico.
+
+1\. Sin perjuicio de las facultades atribuidas al Ministerio de Trabajo y Seguridad Social en el artículo 4.1 del presente Reglamento, el importe del canon por la utilización de bienes inmuebles integrantes del patrimonio histórico, así como las condiciones para su imputación, se ajustarán inicialmente a lo establecido en esta disposición.
+
+2\. El importe del canon por la utilización de bienes inmuebles integrantes del patrimonio histórico a que se refiere el artículo 4 del presente Reglamento, se fija inicialmente en la cuantía equivalente al 6 por 100 del valor catastral que tenga asignado el inmueble a efectos del Impuesto sobre Bienes Inmuebles.
+
+3\. Autorizada la imputación del correspondiente canon, serán a cargo del patrimonio histórico de la Mutua, sin que quepa su repercusión en la cuenta de resultados de la gestión, todos los gastos inherentes a la propiedad del inmueble, tales como los de naturaleza impositiva, seguros, así como los gastos generales para el adecuado sostenimiento del inmueble y servicios, cuando éstos se deriven de la aplicación del régimen de la propiedad horizontal.
+
+Serán asimismo a cargo de dicho patrimonio los gastos de conservación de los inmuebles que no se deriven directamente de la actividad desarrollada en los mismos.
+
+4\. A efectos de la autorización a que se refiere la presente disposición, las Mutuas habrán de presentar ante el Ministerio de Trabajo y Seguridad Social la oportuna solicitud, acompañando la documentación oficial pertinente que acredite el valor catastral del inmueble en ese momento.
+
+En el caso de que el inmueble no tenga valor catastral asignado, se tendrán en cuenta transitoriamente las normas sobre valoración a efectos del impuesto sobre sociedades, así como la peritación técnica de su valor por la Tesorería General de la Seguridad Social.
+
+Las sucesivas modificaciones que en su caso se produzcan en los valores catastrales de los inmuebles darán lugar a la modificación automática del canon, sin más requisito que su comunicación y justificación ante el Ministerio de Trabajo y Seguridad Social.
+
+5\. Con independencia del canon que resulte de la aplicación de lo establecido en los números anteriores, podrá autorizarse la imputación de cánones superiores a los previstos en el apartado 2, cuando los así calculados resulten insuficientes para atender los gastos a que se refiere el primer párrafo del apartado 3 y ello se acredite fehacientemente por la Mutua ante el Ministerio de Trabajo y Seguridad Social.
+
+##### Disposición adicional cuarta. Limitación del gasto en administración complementaria de la directa.
+
+1\. Sin perjuicio de las atribuciones conferidas al Ministerio de Trabajo y Seguridad Social, el importe máximo a satisfacer por las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social como contraprestación de los servicios de terceros para gestiones de índole administrativa, a que se refiere el apartado 1 del artículo 5 de este Reglamento, inicialmente será el establecido en el apartado 2 de la disposición adicional vigésima cuarta de la Orden del Ministerio de Trabajo y Seguridad Social de 18 de enero de 1995.
+
+2\. No obstante lo establecido en el apartado anterior, en el supuesto de que la colaboración de las Mutuas en la gestión de la prestación económica por incapacidad temporal derivada de contingencias comunes diese lugar a la utilización de los servicios de terceros para la realización de gestiones administrativas complementarias de su administración directa, el importe de los gastos ocasionados en este caso no podrá superar el 1 por 100 de la fracción de cuota a que se refiere el artículo 71.2 de este Reglamento y correspondiente a aquellas empresas asociadas respecto de las que se realizan las gestiones.
+
+##### Disposición adicional quinta. Volumen mínimo de recaudación de cuotas.
+
+Sin perjuicio de lo previsto en el artículo 9.2 del presente Reglamento, el volumen anual de cuotas a que se refiere dicho apartado se fija, inicialmente, en 1.500 millones de pesetas por las contingencias de accidentes de trabajo y enfermedades profesionales.
+
+##### Disposición adicional sexta. Cuantía y modalidades de la fianza reglamentaria.
+
+1\. De conformidad con lo previsto en el artículo 19 del presente Reglamento y sin perjuicio de las modificaciones que posteriormente pueda establecer el Ministerio de Trabajo y Seguridad Social, la fianza reglamentaria de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social se regirá por lo establecido en la presente disposición.
+
+2\. El importe de la fianza reglamentaria de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social vendrá determinado, sin perjuicio del importe mínimo señalado en el artículo 19, por la aplicación sobre la cifra de cuotas efectivamente cobradas y reconocidas a favor de la Mutua por la Tesorería General de la Seguridad Social en el ejercicio de 1995, de la escala de porcentajes que figura a continuación:
+
+| Grupos que se establecen en los ingresos de cuotas | Porcentajes parciales para cada grupo de cuotas obtenidas |
+|---|---|
+| Primeros 10.000 millones de pesetas | 1 |
+| Siguientes de más 10.000 a 50.000 millones de pesetas | 0,5 |
+| De más de 50.000 millones de pesetas en adelante | 0,25 |
+
+Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social dispondrán de un plazo de tres meses, a contar desde la fecha en que por la Junta general se aprueben las cuentas y Balances del ejercicio 1995, para acomodar el importe de su fianza reglamentaria a la cuantía que corresponda de acuerdo con lo dispuesto en este apartado, sometiendo lo actuado a la aprobación del Ministerio de Trabajo y Seguridad Social.
+
+En el caso de Mutuas de nueva constitución, el Ministerio de Trabajo y Seguridad Social establecerá la cuantía inicial de su fianza reglamentaria, en función del volumen de recaudación de cuotas a que se refiere el artículo 17.5, sin perjuicio de su ulterior revisión en función de lo que se establezca en la resolución que autorice la constitución de la entidad.
+
+3\. La fianza a que se refiere el apartado anterior será constituida por los empresarios promotores o asociados de la entidad con fondos ajenos al patrimonio de la Seguridad Social, a disposición del Ministerio de Trabajo y Seguridad Social y podrá adoptar la siguiente configuración:
+
+a) Mediante valores públicos anotados, según el modelo oficial y demás requisitos que se determinen para su depósito en la Caja General de Depósitos.
+
+b) Aval bancario de carácter solidario, prestado por entidad de crédito, constituido a favor del Ministerio de Trabajo y Seguridad Social, por tiempo indefinido y en tanto el citado Ministerio no autorice su liberación. El citado aval, que deberá quedar inscrito en el Registro Especial de Avales, se ajustará al modelo que oficialmente se determine para su custodia en la Caja General de Depósitos.
+
+Los gastos, intereses y comisiones que se deriven de la constitución y mantenimiento del mencionado aval, serán abonados con cargo a fondos ajenos a la gestión o al patrimonio de la Seguridad Social, debiendo comunicar anualmente al Ministerio de Trabajo y Seguridad Social la situación del fondo que garantiza el citado aval.
+
+c) Seguro de caución constituido ante la Caja General de Depósitos y otorgado por entidad aseguradora autorizada por la Dirección General de Seguros del Ministerio de Economía y Hacienda. El correspondiente contrato deberá ajustarse a los requisitos establecidos en la disposición adicional segunda de la Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados, y formalizarse en el modelo que oficialmente se determine.
+
+Las primas y demás gastos que se deriven de la formalización y mantenimiento del seguro deberán ser abonados con cargo a fondos ajenos a la gestión o al patrimonio de la Seguridad Social.
+
+d) Podrán afectarse a la fianza exigida y hasta el límite del 50 por 100 de su importe, bienes inmuebles sitos en España y libres de cargas. En este supuesto se constituirá primera hipoteca sobre los inmuebles admitidos como fianza parcial, a favor de la Tesorería General de la Seguridad Social y por un importe igual al 70 por 100 del valor actual de tales inmuebles, de acuerdo con peritación que a tal efecto realizará el citado Servicio común, más un 25 por 100 sobre el importe así calculado para costas y gastos, cuya exigencia se efectuará en vía administrativa, en su caso, por el Ministerio de Trabajo y Seguridad Social, conforme a las disposiciones legales vigentes.
+
+Los gastos que ocasione la constitución y mantenimiento de la fianza por este procedimiento, serán igualmente financiados con cargo a fondos ajenos a la gestión o al patrimonio de la Seguridad Social.
+
+##### Disposición adicional séptima. Seguimiento presupuestario.
+
+Sin perjuicio de las normas que pueda establecer posteriormente el Ministerio de Trabajo y Seguridad Social, el seguimiento de la ejecución del presupuesto de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social a que se refiere el artículo 23 de este Reglamento, se ajustará a lo establecido en la Orden de dicho Ministerio de 5 de marzo de 1992.
+
+##### Disposición adicional octava. Límite para gastos de administración.
+
+1\. La escala para el cálculo del límite máximo de gastos de administración a que se refiere el artículo 24.2 del presente Reglamento, sin perjuicio de las modificaciones que posteriormente puedan establecerse por el Ministerio de Trabajo y Seguridad Social, será la que se incluye a continuación:
+
+| Grupos que se establecen en los ingresos de cuotas | Porcentajes<br>parciales para cada<br>grupo de los<br>ingresos totales |
+|---|---|
+| Primeros 10.000 millones de pesetas | 10 |
+| Siguientes de más de 10.000 a 50.000 millones de pesetas | 9,75 |
+| De 50.000 millones de pesetas en adelante | 7,5 |
+
+2\. Asimismo sin perjuicio de las atribuciones conferidas al citado ministerio, el límite máximo de gastos de administración correspondiente a la gestión de la prestación económica de incapacidad temporal derivada de contingencias comunes de los trabajadores al servicio de sus empresas asociadas y de los trabajadores por cuenta propia adheridos, a que se refieren el artículo 24.3, el artículo 73.2.b).2.º y el artículo 79.1, queda establecido en el cinco por ciento del importe de las cotizaciones obtenidas por la mutua por la colaboración en la referida gestión.
+
+> Se modifica el apartado 2 por el art. único.22 del Real Decreto 428/2004, de 12 de marzo. [Ref. BOE-A-2004-5650](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5650)
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final 2.
+
+##### Disposición adicional novena. Límites máximos para operaciones sin autorización previa.
+
+A efectos de lo establecido en los artículos 27.1 y 28.1 del presente Reglamento, y sin perjuicio de las facultades atribuidas al Ministerio de Trabajo y Seguridad Social en los referidos apartados, el importe máximo para suscribir contratos de arrendamiento financiero o «leasing» y para contraer obligaciones con cargo a conceptos de operaciones de capital por inversiones reales sin necesidad de autorización previa, se establece, inicialmente, en 25.000.000 de pesetas.
+
+Asimismo y conforme a lo dispuesto en el artículo 29.1 se establece también inicialmente en 25.000.000 de pesetas el importe máximo del valor de coste de los bienes muebles, para que las Mutuas puedan proceder a su baja en Balance sin necesidad de autorización previa.
+
+##### Disposición adicional décima. Reaseguro obligatorio.
+
+A efectos de lo establecido en el párrafo primero del apartado 2 del artículo 63 del presente Reglamento, y sin perjuicio de las facultades conferidas en el mismo al Ministerio de Trabajo y Seguridad Social para la determinación del porcentaje de las cuotas satisfechas por las empresas asociadas por riesgos de invalidez, muerte y supervivencia que corresponde a la Tesorería General de la Seguridad Social como compensación de las obligaciones que asume en concepto de reaseguro obligatorio, dicha participación se fija inicialmente en el 28 por 100.
+
+##### Disposición adicional undécima. Colaboración en la gestión de los subsidios por riesgo durante el embarazo y por riesgo durante la lactancia natural.
+
+El contenido de la colaboración en la gestión de subsidios por riesgo durante el embarazo y por riesgo durante la lactancia natural, atribuida a las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, comprenderá la declaración del derecho al subsidio, así como su denegación, suspensión, anulación y declaración de extinción y, en general, todas las actuaciones tendentes a comprobar los hechos, condiciones y requisitos necesarios para el acceso al derecho y su mantenimiento.
+
+Los actos por los que se declare el derecho a la prestación económica o por los que se deniegue, suspenda, restrinja, anule o extinga el derecho, serán motivados y se formalizarán por escrito, quedando supeditada la eficacia de los mismos a su notificación a los beneficiarios.
+
+> Se añade por la disposición final 3 del Real Decreto 295/2009, de 6 de marzo. [Ref. BOE-A-2009-4724](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4724)
+
+##### Disposición adicional duodécima. Colaboración en la gestión de la prestación por cuidado de menores afectados por cáncer u otra enfermedad grave.
+
+El resultado derivado de la gestión de la prestación por cuidado de menores afectados por cáncer u otra enfermedad grave, en los términos que se establezcan en las disposiciones de desarrollo específico, se incluirá en el resultado económico anual a que se refiere el artículo 66.
+
+> Se añade por el art. único.15 del Real Decreto 1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+##### Disposición transitoria primera. Adaptación de los estatutos y otras materias al presente Reglamento.
+
+1\. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social que actualmente colaboran en la gestión de las contingencias de accidente de trabajo y enfermedad profesional, así como sus instalaciones y servicios mancomunados, dispondrán de plazo hasta el 31 de diciembre de 1996, para la adaptación de sus estatutos a las disposiciones del presente Reglamento.
+
+2\. Asimismo, aquellas Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social cuya Junta directiva esté compuesta por un número de miembros superior al establecido en el artículo 34.1 dispondrán de plazo hasta el 31 de diciembre de 1996, para adaptar dicha composición a lo previsto en la referida disposición.
+
+No obstante, aquellas Mutuas constituidas en virtud de procesos de fusión o de absorción dispondrán de plazo hasta 31 de diciembre de 1998 para realizar dicha adaptación.
+
+3\. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en el plazo de tres meses desde la entrada en vigor del Real Decreto aprobatorio del presente Reglamento, deberán someter a la aprobación del Ministerio de Trabajo y Seguridad Social los modelos de «documento de asociación» y de «documento de proposición de asociación», así como de los anexos para la formalización de la cobertura de la prestación económica por incapacidad temporal derivada de contingencias comunes.
+
+> Se añade el párrafo segundo al apartado 2 por el art. 1.3.2 del Real Decreto 250/1997, de 21 de febrero. [Ref. BOE-A-1997-5222](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-5222)
+
+##### Disposición transitoria segunda. Adaptación de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social al volumen mínimo de recaudación.
+
+Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social que estén autorizadas para colaborar en la gestión de la Seguridad Social y no alcancen el volumen mínimo de cuotas establecido en la disposición adicional quinta, habrán de adecuarse al mismo en el plazo de un año contado desde la entrada en vigor del Real Decreto aprobatorio de este Reglamento, fecha en la que aquellas entidades que no reúnan dicha condición cesarán en la colaboración en la gestión de la Seguridad Social, con la apertura inmediata del consiguiente proceso de liquidación, que deberá ajustarse a lo dispuesto en el capítulo V del Título I del presente Reglamento.
+
+##### Disposición transitoria tercera. Acomodación de cánones por uso de inmuebles pertenecientes al patrimonio histórico.
+
+Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social que vengan imputando a sus cuentas de gestión cánones por la utilización de bienes inmuebles integrantes de su patrimonio histórico, deberán formular en el plazo de tres meses desde la entrada en vigor del Real Decreto aprobatorio del presente Reglamento, la correspondiente solicitud para su acomodación a lo establecido en el artículo 4 y disposición adicional tercera, acompañando la documentación a que se refiere el apartado 4 de dicha disposición adicional.
+
+##### Disposición transitoria cuarta. Adaptación de la cuantía de la fianza reglamentaria.
+
+No obstante el plazo establecido en el apartado 2 de la disposición adicional sexta, aquellas Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social que, por razones debidamente justificadas, no puedan ajustar el importe de su fianza reglamentaria a lo dispuesto en el artículo 19 y en la mencionada disposición adicional, podrán solicitar del Ministerio de Trabajo y Seguridad Social la ampliación de dicho plazo por el tiempo que entiendan necesario, con el límite de un año desde la entrada en vigor del Real Decreto aprobatorio del presente Reglamento. Agotado dicho plazo sin que el importe de la fianza reglamentaria alcance el exigido, incurrirán en la causa de disolución prevista en el artículo 38.3, en relación con el 9.3.
+
+##### Disposición transitoria quinta. Convenios de asociación.
+
+1\. Los convenios de asociación vigentes a la fecha de entrada en vigor del Real Decreto aprobatorio del presente Reglamento podrán ser denunciados por los empresarios asociados en los plazos y condiciones establecidos en los correspondientes documentos de asociación, en cuyo caso sus efectos terminarán el último día del mes de vencimiento recogido en los mismos. En caso contrario, se entenderán prorrogados hasta el último día del correspondiente mes del año siguiente al de vencimiento, siendo de aplicación para posteriores denuncias y prórrogas lo dispuesto al efecto en el artículo 62.2 de este Reglamento.
+
+2\. El contenido y datos que necesariamente deben hacerse constar en el documento de asociación, de conformidad con lo establecido en el artículo 62, serán de aplicación obligatoria para aquellos documentos que se suscriban a partir de la fecha de aprobación de los nuevos modelos, conforme a lo establecido en el apartado 3 de la disposición transitoria primera de éste Reglamento.
+
+No obstante lo dispuesto en el párrafo anterior, en el caso de ejercitarse la opción a que se refiere la disposición transitoria sexta, dichos contenido y datos deberán incorporarse ya al anexo al documento de asociación que se establece en el artículo 70.
+
+##### Disposición transitoria sexta. Ejercicio de la opción respecto de la cobertura de la incapacidad temporal por contingencias comunes.
+
+1\. Los empresarios asociados a una Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social en la fecha de entrada en vigor del Real Decreto aprobatorio de este Reglamento que, de conformidad con lo previsto en el apartado 1 de la disposición adicional undécima de la Ley General de la Seguridad Social, deseen optar porque la cobertura de la prestación económica por incapacidad temporal derivada de contingencias comunes respecto de su personal se lleve a cabo por la misma Mutua, deberán ejercitar la correspondiente opción en el plazo de dos meses desde dicha fecha de entrada en vigor.
+
+Realizada la opción, los derechos y obligaciones derivados de la misma serán exigibles desde el día 1 del quinto mes siguiente al de entrada en vigor del Real Decreto que aprueba este Reglamento y hasta el último día del mes de vencimiento recogido en el correspondiente documento de asociación, siendo de aplicación para posteriores prórrogas o denuncias lo dispuesto en el artículo 69.2 de este Reglamento.
+
+2\. En el caso de convenios de asociación cuya fecha de vencimiento se encuentre comprendida en alguno de los plazos previstos en el apartado anterior, el ejercicio de la opción será incompatible con la denuncia del convenio, operando su prórroga conforme a lo dispuesto en el apartado 1 de la disposición transitoria quinta. Si por el contrario, se optase por la denuncia del convenio vigente y por la asociación a otra Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, la empresa podrá ejercitar la opción respecto a la cobertura de la prestación económica por incapacidad temporal derivada de contingencias comunes al formalizar el nuevo convenio de asociación, aunque hubiese transcurrido el plazo de dos meses establecido en el párrafo primero del apartado 1 anterior.
+
+##### Disposición transitoria séptima. Ejercicio de la opción por los trabajadores por cuenta propia.
+
+Los trabajadores incluidos en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, así como los trabajadores por cuenta propia incluidos en el Régimen Especial Agrario de la Seguridad Social que, de conformidad con lo establecido en los artículos 1 y 4 del Real Decreto 2110/1994, de 28 de octubre, por el que se modifican determinados aspectos de la regulación de los Regímenes Especiales de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos, Agrario y de Empleados de Hogar, hayan optado por acogerse voluntariamente a la cobertura por la Seguridad Social de la protección del subsidio por incapacidad temporal, podrán optar inicialmente, en el plazo de dos meses desde la entrada en vigor del Real Decreto aprobatorio del presente Reglamento, porque la cobertura de dicha prestación se lleve a cabo por una Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, mediante la formalización del documento de adhesión previsto en el artículo 76.
+
+Realizada dicha opción, los derechos y obligaciones derivados de la misma serán exigibles desde el día 1 del quinto mes siguiente al de entrada en vigor del Real Decreto aprobatorio del presente Reglamento y hasta el 31 de diciembre de 1996, siendo de aplicación para posteriores prórrogas o denuncias lo establecido en el artículo 76.1 de este Reglamento.
+
+##### Disposición transitoria octava. Normas sobre contabilidad patrimonial y sobre presupuestos de las instalaciones y servicios mancomunados.
+
+1\. Sin perjuicio de lo establecido en el artículo 22 de este Reglamento y en tanto por el órgano competente del Ministerio de Trabajo y Seguridad Social no se dicten las normas al efecto, la contabilidad patrimonial de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social se continuará rigiendo por las normas vigentes a la entrada en vigor del Real Decreto aprobatorio del presente Reglamento.
+
+2\. Las referencias que se hacen en el presente Reglamento a las cuentas de resultados de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, se entenderán hechas a la cuenta de gestión en tanto la contabilidad de estas entidades se continúe rigiendo por el Plan de Contabilidad aprobado por Real Decreto 3261/1976, de 31 de diciembre.
+
+3\. Lo dispuesto en el tercer párrafo del apartado 2 del artículo 12 de este Reglamento, respecto de los presupuestos de las instalaciones y servicios mancomunados de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social no será de aplicación al ejercicio 1996, para el cual no contarán con presupuesto independiente de los de sus Mutuas partícipes, continuando rigiéndose a estos efectos por lo previsto en sus respectivos estatutos.
+
+##### Disposición transitoria novena. Cierre contable del ejercicio 1995.
+
+Lo establecido en el artículo 65 del presente Reglamento, respecto a dotación y cuantía de la provisión y reservas de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, será de aplicación al cierre contable correspondiente al ejercicio 1995.
+
+##### Disposición final primera. Facultades de aplicación y desarrollo.
+
+Se faculta al Ministro de Trabajo y Seguridad Social para dictar las disposiciones de aplicación y desarrollo del presente Reglamento.
+
+##### Disposición final segunda. Revalorización de pensiones por contingencias profesionales.
+
+Las disposiciones sobre revalorización o mejora periódica de las pensiones causadas por las contingencias de accidente de trabajo y enfermedad profesional, que se dicten en desarrollo de lo preceptuado en el artículo 48 de la Ley General de la Seguridad Social, determinarán la forma en que las Mutuas hayan de contribuir a tales medidas.
+
+##### Disposición final tercera. Revisión de la tarifa de primas por accidentes de trabajo.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 328/2009, de 13 de marzo. [Ref. BOE-A-2009-5128](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5128)

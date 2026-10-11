@@ -1,0 +1,575 @@
+---
+title: "Real Decreto 1214/1997, de 18 de julio, sobre organización del Centro de Investigaciones Sociológicas"
+identifier: "BOE-A-1997-16372"
+eli: "https://www.boe.es/eli/es/rd/1997/07/18/1214"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1997-07-18
+published: 1997-07-22
+in_force_from: 1997-07-23
+last_amended: 2026-06-12
+consolidated: 2026-06-15
+gazette: "Boletín Oficial del Estado núm. 174"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-16372"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1214/1997, de 18 de julio, sobre organización del Centro de Investigaciones Sociológicas
+
+Esta norma pasa a denominarse **"Real Decreto 1214/1997, de 18 de julio, por el que se aprueba el Estatuto del organismo autónomo Centro de Investigaciones Sociológicas"**, según establece el art. 4.1 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+El Centro de Investigaciones Sociológicas es un organismo autónomo que tiene por finalidad el estudio científico de la sociedad española. Tal carácter le fue conferido por la Ley 4/1990, de 29 de junio, de Presupuestos Generales del Estado, que en su artículo 84, uno, dispuso la transformación de la Dirección General del Centro de Investigaciones Sociológicas en un organismo autónomo de carácter administrativo. Su organización y funcionamiento fueron regulados por el Real Decreto 1526/1990, de 8 de noviembre.
+
+Posteriormente, fue dictada la Ley 39/1995, de 19 de diciembre, de Organización del Centro de Investigaciones Sociológicas. Esta Ley, que mantiene la naturaleza y funciones del centro previstas en la Ley 4/1990 y en el Real Decreto 1526/1990, garantiza la plena transparencia y acceso público a los resultados de la actividad científica del centro, además de una mayor vinculación del mismo con las Cortes Generales, con la finalidad de facilitar un mejor conocimiento de la sociedad española a sus legítimos representantes. Su disposición final primera habilita al Consejo de Ministros para modificar la estructura orgánica del organismo y a dictar cuantas disposiciones de aplicación y desarrollo de la Ley sean necesarias.
+
+La aprobación de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, ha supuesto un nuevo régimen regulador de los organismos autónomos, estableciéndose en su disposición transitoria tercera, la adaptación de los anteriormente existentes a las previsiones de dicha Ley. La adaptación se llevará a efecto por Real Decreto a propuesta conjunta de los Ministros de Administraciones Públicas y de Economía y Hacienda, de acuerdo con el Ministerio del que dependa el organismo, en aquellos casos en que la adecuación no exija incorporar peculiaridades respecto del régimen general en materia de personal, contratación y régimen fiscal.
+
+El presente Real Decreto procede a la adaptación del Centro de Investigaciones Sociológicas en el tipo de organismo autónomo regulado en la citada Ley 6/1997, a la vez que da cabal ejecución a las previsiones legales contenidas en la Ley 39/1995 y sustituye al Real Decreto 1526/1990, recogiendo gran parte de sus previsiones, que dotan al organismo de autonomía administrativa para el estudio científico de la sociedad española, con pleno sometimiento a las normas de toda Administración democrática y, en particular, a los principios de objetividad y neutralidad en su actuación, igualdad de acceso a sus datos y respeto al secreto estadístico y a los derechos de los ciudadanos.
+
+Ello supone modificar el régimen de actividades del centro, para incorporar las previsiones legales referidas a la elevación a las Cortes Generales de una memoria relativa a la ejecución del programa del año precedente. Asimismo, se desarrollan los principios de actuación en las investigaciones mediante encuesta, encaminados a garantizar la transparencia investigadora, la utilización de la información para el cumplimiento de los objetivos previstos y la protección de la intimidad de los encuestados.
+
+Por otro lado, se desarrollan las nuevas previsiones legales relativas al acceso al banco de datos, que hasta el momento habían sido reguladas mediante una Orden de 31 de marzo de 1993, garantizando la protección de la intimidad de las personas, regulando el acceso de Diputados y Senadores al mismo en el cumplimiento de sus funciones parlamentarias, y estableciendo unos mecanismos de seguimiento por parte de las Cortes Generales y las Comunidades Autónomas en cuyo ámbito territorial se hayan desarrollado las investigaciones. En íntima relación con lo anterior se desarrollan las previsiones legales relativas al conocimiento por las Cortes Generales y por las Comunidades Autónomas, en cuanto afecte a su ámbito, de las encuestas sobre intención de voto y valoración de partidos y líderes políticos.
+
+Por último, este Real Decreto desarrolla la estructura orgánica del centro, tomando como base la que se estableció mediante Real Decreto 1526/1990, e incorporando a la misma al Consejo Asesor previsto en el artículo 11 de la Ley 39/1995, formado por personas de reconocido prestigio en el ámbito de las ciencias sociales, con funciones consultivas y de asesoramiento respecto de los proyectos de investigación.
+
+En su virtud, a propuesta conjunta de los Ministros de Administraciones Publicas y de Economía y Hacienda, de acuerdo con el Ministerio de la Presidencia y con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 18 de julio de 1997,
+
+DISPONGO:
+
+## Artículo único. Aprobación del Estatuto del organismo autónomo Centro de Investigaciones Sociológicas.
+
+Se aprueba el Estatuto del organismo autónomo Centro de Investigaciones Sociológicas, cuyo texto se inserta a continuación.
+
+> Se añade por el art. 4.2 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 1. Naturaleza, denominación y régimen jurídico.
+
+1\. El Centro de Investigaciones Sociológicas, O.A., es un organismo autónomo de los previstos en el artículo 84.1.a).1, de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, con personalidad jurídica diferenciada, patrimonio y tesorería propios, así como autonomía de gestión, adscrito al Ministerio de Presidencia, Relaciones con las Cortes y Memoria Democrática, que tiene por finalidad el estudio científico de la sociedad española.
+
+2\. La denominación del organismo autónomo es Centro de Investigaciones Sociológicas, O.A.
+
+3\. Su actuación se rige por las leyes y disposiciones generales que le sean de aplicación y, en especial, por la Ley 39/1995, de 19 de diciembre, de Organización del Centro de Investigaciones Sociológicas; por la Ley 40/2015, de 1 de octubre; por la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; por la Ley 47/2003, de 26 de noviembre, General Presupuestaria; por la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014; por la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas; así como por este real decreto y sus normas de desarrollo.
+
+4\. El Centro de Investigaciones Sociológicas tendrá la consideración de servicio estadístico oficial de la Administración General del Estado, estando sujeto en sus actuaciones al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE, y a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y a la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública.
+
+> Se modifica por el art. único.1 del Real Decreto 485/2022, de 21 de junio. [Ref. BOE-A-2022-10295](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10295)
+
+> Se añade el apartado 3 por el art. único.1 del Real Decreto 923/2009, de 29 demayo. [Ref. BOE-A-2009-9542](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-9542).
+
+## Artículo 2. Principios de actuación.
+
+El Centro de Investigaciones Sociológicas respetará en su actuación los principios de interés general, objetividad, eficacia, economía y servicio a la ciudadanía, y específicamente:
+
+a) Principios de objetividad, neutralidad e imparcialidad en su actuación, de igualdad de acceso a sus datos y de respeto a los derechos de la ciudadanía, destacando el derecho a la protección de datos personales, y al secreto estadístico.
+
+b) Principios de transparencia y participación, entendidos respectivamente como la rendición de cuentas a la ciudadanía y como el compromiso de consulta y participación de las personas interesadas en la realización de sus trabajos.
+
+c) Principios de autonomía y responsabilidad, entendidos como la capacidad de gestionar con autonomía los medios puestos a su disposición para alcanzar los objetivos comprometidos, y asumiendo las consecuencias de los resultados alcanzados.
+
+d) Principios de colaboración y cooperación, entendidos respectivamente como la disposición de actuar con el resto de las administraciones públicas para el logro de fines comunes, y asumir compromisos específicos de forma voluntaria en aras de una acción común.
+
+e) Principios de calidad, rigor científico y mejora continua, entendidos como el compromiso sistemático con la autoevaluación y la utilización de modelos de excelencia que permitan establecer áreas de mejora, y prestar sus servicios de forma innovadora, cuando así sea preciso.
+
+f) Principios de ética profesional y responsabilidad pública, entendidos como el compromiso del personal del centro y, especialmente de su personal directivo e investigador, de observar en su actuación los valores contenidos en el código ético del centro, y en los de la normativa aplicable a los empleados públicos de la Administración General del Estado.
+
+> Se modifica por el art. único.2 del Real Decreto 485/2022, de 21 de junio. [Ref. BOE-A-2022-10295](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10295)
+
+## Artículo 3. Funciones.
+
+Son funciones del Centro de Investigaciones Sociológicas:
+
+a) La programación, diseño y realización de estudios que contribuyan al conocimiento científico de la sociedad española, principalmente mediante la ejecución de las encuestas que sean necesarias para llevar a cabo dichos estudios.
+
+b) La programación, diseño y realización de estudios que contribuyan al conocimiento científico de la realidad social de las diferentes Comunidades Autónomas***.***
+
+c) La realización de estudios que proporcionen diagnósticos sobre situaciones y asuntos sociales y sirvan de orientación a los poderes públicos en sus iniciativas normativas y ejecutivas.
+
+d) La creación y mantenimiento de bases de datos en las materias de su competencia.
+
+e) El desarrollo de trabajos de documentación y la difusión de los resultados de la actividad científica del organismo, así como de otros estudios de naturaleza académica que contribuyan al conocimiento científico de la sociedad española.
+
+f) La promoción y estímulo de la investigación social aplicada, mediante la organización de cursos y seminarios, la convocatoria de becas, ayudas y premios, y la participación en programas de formación de técnicos y especialistas en la materia.
+
+g) El fomento de la colaboración científica con centros universitarios y de investigación para la realización de proyectos de investigación conjuntos, para la formación de investigadores en ciencias sociales, para la participación en reuniones y congresos, tanto a nivel nacional como internacional, y para la realización de planes de intercambio y cooperación con entidades españolas y extranjeras especializadas.
+
+> Se suprime el último inciso de la letra b) por el art. único.2 de Real Decreto 923/2009, de 29 de mayo. [Ref. BOE-A-2009-9542](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-9542).
+
+## Artículo 4. Régimen de actividades.
+
+1\. El Centro de Investigaciones Sociológicas desarrollará sus actividades conforme a las disposiciones de un programa anual, comprensivo de las actuaciones previstas para el desarrollo de las funciones a que se refiere el artículo anterior, y de acuerdo con las consignaciones presupuestarias del centro.
+
+2\. El Centro de Investigaciones Sociológicas estará sometido a un control de eficacia, que será ejercido por el Ministerio de la Presidencia, sin perjuicio del control establecido al respecto por la Ley General Presupuestaria, con la finalidad de comprobar el grado de cumplimiento de los objetivos y la adecuada utilización de los recursos asignados.
+
+3\. Asimismo, en el primer trimestre de cada año, el Presidente del Centro, a través del Ministerio de la Presidencia, elevará al Congreso de los Diputados y al Senado, por conducto de sus respectivos Presidentes, una memoria relativa a la ejecución del programa correspondiente al ejercicio anterior. Su elaboración corresponde al Secretario general del Centro de Investigaciones Sociológicas.
+
+4\. El régimen jurídico de personal y de contratación, económico-financiero, patrimonial y presupuestario del Centro de Investigaciones Sociológicas se regirá por lo establecido en los artículos 100 a 102 de la Ley 40/2015, de 1 de octubre.
+
+5\. El régimen patrimonial del organismo será el establecido para los organismos autónomos en la Ley 33/2003, de 3 de noviembre, y en sus disposiciones complementarias.
+
+6\. El régimen de contratación será el determinado para las administraciones públicas en la Ley 9/2017, de 8 de noviembre.
+
+7\. El régimen presupuestario, económico-financiero, de contabilidad y control será el establecido por la Ley 47/2003, de 26 de noviembre. Sin perjuicio de las funciones atribuidas al Tribunal de Cuentas, el control interno de la gestión económico-financiera del organismo corresponde a la Intervención General de la Administración del Estado, y se realizará por la Intervención Delegada en el organismo, bajo la dependencia orgánica y funcional de la Intervención General de la Administración del Estado. Asimismo, corresponde a la Intervención General de la Administración del Estado la supervisión continua a la que se refiere el artículo 85.3 de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica por el art. único.3 del Real Decreto 485/2022, de 21 de junio. [Ref. BOE-A-2022-10295](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10295)
+
+## Artículo 5. Principios de la investigación empírica aplicada.
+
+1\. La investigación empírica aplicada que realice el organismo en el ejercicio de sus funciones quedará sometida a los siguientes principios institucionales:
+
+a) Universalismo, sin tener en cuenta ningún tipo de prejuicio personal, social, religioso, tradicional u otros.
+
+b) Comunidad, en cuanto a que los hallazgos propios de la actividad investigadora deben considerarse como un patrimonio común de la sociedad, evitando todo aquello que sea incompatible con el imperativo de comunicación y publicidad de los hallazgos.
+
+c) Desinterés, guiándose la investigación por la vocación de conocimiento, la curiosidad y la preocupación altruista, evitando intereses egoístas o parciales.
+
+d) Escepticismo organizado, considerando provisional cualquier juicio o hipótesis hasta que no se haya sometido a criterios empíricos y lógicos de verificación y revalidación.
+
+e) Voluntariedad de las respuestas, en especial cuando se inquiera acerca de cuestiones de tipo étnico, político, religioso o ideológico, así como sobre circunstancias que se refieran a la intimidad personal o familiar de las personas encuestadas.
+
+f) Transparencia investigadora, informando a las personas encuestadas respecto de la entidad que realiza el estudio y la naturaleza y finalidad de éste, así como de las garantías que les asisten en relación con la protección de sus datos de carácter personal.
+
+g) Especialidad, utilizando la información para las finalidades propias de la investigación y siempre dentro de los objetivos estatutarios del centro.
+
+h) Protección de los datos de carácter personal, de acuerdo con lo establecido en la Ley Orgánica 3/2018, de 5 de diciembre.
+
+2\. Para la realización de todos sus estudios telefónicos, el Centro de Investigaciones Sociológicas, como servicio estadístico oficial de la Administración General del Estado, tendrá acceso a las guías de abonados y a los datos que los operadores faciliten a la Comisión Nacional de los Mercados y la Competencia de acuerdo con la normativa aplicable.
+
+> Se modifica por el art. único.4 del Real Decreto 485/2022, de 21 de junio. [Ref. BOE-A-2022-10295](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10295)
+
+## Artículo 6. Banco de datos.
+
+1\. Las encuestas que el Centro de Investigaciones Sociológicas realice en el ejercicio de sus funciones, que en ningún caso contendrán datos que permitan la identificación personal, ingresarán en el banco de datos del centro, una vez haya concluido su proceso de elaboración técnica.
+
+2\. A la información científica disponible en el banco de datos del centro podrá tener acceso toda persona natural o jurídica, pública o privada, que lo solicite en los términos que establece el artículo siguiente del presente Real Decreto, con las limitaciones y condiciones a que se refieren los artículos 2, 10 y 11 del mismo.
+
+3\. El principio de público e igual acceso a la información del banco de datos del centro se entenderá, de acuerdo con la legislación vigente, sin perjuicio de la facultad de Diputados y Senadores de obtener del Centro de Investigaciones Sociológicas los datos, informes o documentos necesarios para el mejor cumplimiento de sus funciones parlamentarias, en los términos que contempla el artículo 8 del presente Real Decreto.
+
+4\. La disponibilidad de los resultados de las encuestas del centro requerirá la previa realización de las operaciones necesarias de verificación, depuración, anonimización, catalogación y carga informática de los datos. Estas tareas deberán estar concluidas, en todo caso, en el plazo máximo de tres meses a contar desde la fecha de finalización de los trabajos de campo y de la codificación y grabación de la información en soporte magnético.
+
+5\. La disponibilidad pública de la información del banco de datos del Centro de Investigaciones Sociológicas se entenderá sin perjuicio del derecho preferente del mismo a la difusión de su actividad científica.
+
+Este derecho preferente se concreta en la prioridad que el Centro de Investigaciones Sociológicas tiene para difundir resultados o investigaciones realizadas a partir de los resultados de las encuestas que elabora, previamente a su ingreso en el banco de datos.
+
+6\. Cada tres meses, el Presidente del centro elevará al Congreso de los Diputados y al Senado, por conducto de sus respectivos Presidentes, y a través del Ministerio de la Presidencia, la relación circunstanciada de los trabajos finalizados e ingresados en su banco de datos.
+
+Asimismo, cuando alguno de los trabajos incluidos en la relación tuviere como ámbito territorial el de una o más Comunidades Autónomas, el Presidente del centro lo pondrá simultáneamente en conocimiento de la Asamblea o Asambleas legislativas de la Comunidad o Comunidades Autónomas correspondientes, por conducto de sus respectivos Presidentes, y a través del Ministerio de la Presidencia.
+
+## Artículo 7. Acceso al banco de datos.
+
+1\. El banco de datos del Centro de Investigaciones Sociológicas contendrá los resultados finales de las encuestas elaboradas o financiadas por el organismo, previamente anonimizadas, así como la documentación necesaria para la correcta utilización de los datos. También estarán depositados los resultados de los estudios cualitativos que el centro promueva o elabore, y todos aquellos que sean subvencionados o financiados por el centro.
+
+2\. De conformidad con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el derecho de acceso será ejercido de forma que no se vea afectada la eficacia del funcionamiento del banco de datos del centro.
+
+3\. El acceso a la información del banco de datos del Centro de Investigaciones Sociológicas se solicitará en impresos normalizados y facilitados al efecto por el centro.
+
+En la solicitud, el interesado hará constar su expresa aceptación de las condiciones de acceso y utilización de los datos proporcionados por el centro, de conformidad con lo dispuesto en el presente Real Decreto.
+
+4\. En el plazo máximo de siete días hábiles, contados desde la fecha de recepción de la solicitud de acceso, se trasladará al solicitante un presupuesto del coste y una estimación del tiempo necesario para atender su petición.
+
+5\. Salvo en casos de especial urgencia o prioridad legal, las solicitudes serán atendidas por orden de recepción, a excepción de aquellas que, por su elevado volumen, supongan una notoria sobrecarga de trabajo que interfiera el normal funcionamiento del banco de datos, bien sea en perjuicio de terceros interesados, o de la propia actividad del centro.
+
+6\. Los datos se facilitarán en forma impresa o en soporte magnético, excepto en el caso de estudios que, por su antigüedad, no sean susceptibles de recuperación en dicho soporte, así como cuando ello pueda contravenir lo dispuesto en el apartado segundo de este artículo, o actuar en detrimento de la propiedad intelectual del Centro de Investigaciones Sociológicas sobre la información científica que el centro produce.
+
+El banco de datos del centro llevará un registro circunstanciado de las solicitudes de información recibidas y atendidas.
+
+7\. Los solicitantes de información del banco de datos no podrán ceder ésta a terceros, por cualquier procedimiento de difusión, ni hacer uso comercial de la misma sin la expresa y escrita autorización del Centro de Investigaciones Sociológicas. En el caso en que el solicitante sea una persona jurídica, el derecho de uso de los datos se extiende a todas las personas físicas a quienes alcanza. En todo caso, siempre que se utilice información elaborada por el centro, el solicitante deberá indicar la fuente.
+
+8\. En el caso de solicitar tabulaciones de datos a medida, el Centro de Investigaciones Sociológicas determinará si los cruces solicitados conservan un rigor científico suficiente, debido al tamaño de la muestra, como para ser suministrados al solicitante. En tales supuestos, el personal técnico del banco de datos podrá asesorar de oficio a los interesados, al objeto de satisfacer de la forma más adecuada sus requerimientos.
+
+9\. En ningún caso, el Centro de Investigaciones Sociológicas se hará responsable del rigor científico del tratamiento estadístico, de las interpretaciones analíticas o de otro tipo, ni de la presentación que los solicitantes puedan hacer de la información facilitada por el banco de datos del centro.
+
+> Se modifica el apartado 2 por el art. único.5 del Real Decreto 485/2022, de 21 de junio. [Ref. BOE-A-2022-10295](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10295)
+
+## Artículo 8. Acceso a los datos por parte de Diputados y Senadores.
+
+Sin perjuicio de lo dispuesto en el artículo anterior, los Diputados y Senadores podrán obtener del Centro de Investigaciones Sociológicas los datos, informes o documentos necesarios para el mejor cumplimiento de sus funciones, conforme a lo establecido en los Reglamentos del Congreso de los Diputados y del Senado para la obtención de datos de las Administraciones públicas.
+
+## Artículo 9. Datos de carácter electoral y político.
+
+1\. Sin perjuicio de lo dispuesto en el artículo 6, el Presidente del Centro de Investigaciones Sociológicas remitirá al Congreso de los Diputados y al Senado, por conducto de sus respectivos Presidentes, y a través del Ministerio de la Presidencia, un avance provisional de los resultados de sus encuestas que se refieran a intención de voto, valoración de partidos y valoración de líderes políticos.
+
+2\. Dichos avances provisionales se remitirán en un plazo no superior a quince días a contar de la fecha de finalización de los trabajos de campo y de la codificación y grabación de la información en soporte magnético.
+
+3\. Si la encuesta tuviere como ámbito territorial el de una o más Comunidades Autónomas, el avance provisional de resultados será remitido por el Presidente del centro a la Asamblea o Asambleas legislativas de la Comunidad o Comunidades Autónomas correspondientes, por conducto de sus respectivos Presidentes, y a través del Ministerio de la Presidencia.
+
+## Artículo 10. Convenios de colaboración.
+
+1\. Al margen de los supuestos previstos en el artículo 1.3, el Centro de Investigaciones Sociológicas podrá suscribir convenios de colaboración con entes y organismos públicos, que serán suscritos por el Presidente del Centro, y por los correspondientes órganos de la Administración General del Estado, Autonómica o Local, así como de cualquier entidad pública.
+
+2\. Dichos convenios habrán de especificar:
+
+a) La identidad de los órganos que celebran el convenio y la capacidad jurídica con la que actúa cada una de las partes.
+
+b) La competencia que ejerce cada Administración, en el caso de que el convenio se suscriba entre diferentes Administraciones.
+
+c) Las actuaciones que se acuerden desarrollar para su cumplimiento.
+
+d) La necesidad o no de establecer una organización para su gestión y el establecimiento de mecanismos de seguimientos del cumplimiento de los compromisos.
+
+e) En su caso, régimen financiero del convenio, la aplicación presupuestaria afectada y forma de pago.
+
+f) Plazo de vigencia y su posible prórroga, forma y plazos para la realización de los compromisos.
+
+g) La extinción por causas distintas a la prevista en el apartado anterior, así como la forma de terminar las actuaciones en curso para el supuesto de extinción.
+
+> Se modifica por el art. único.3 del Real Decreto 923/2009, de 29 de mayo. [Ref. BOE-A-2009-9542](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-9542).
+
+## Artículo 10 bis. Régimen de los estudios o trabajos objeto de encomienda.
+
+**(Suprimido).**
+
+> Se suprime por el art. único.6 del Real Decreto 485/2022, de 21 de junio. [Ref. BOE-A-2022-10295](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10295)
+
+> Se añade por el art. único.4 del Real Decreto 923/2009, de 29 de mayo. [Ref. BOE-A-2009-9542](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-9542).
+
+## Artículo 11. Régimen de propiedad y publicidad de los estudios y datos.
+
+1\. La propiedad de la información proporcionada por el banco de datos corresponderá al Centro de Investigaciones Sociológicas, o al órganó o institución que los hubiere encargado mediante el oportuno convenio de cooperación, en los términos previstos en el artículo anterior.
+
+2\. Sin perjuicio de las excepciones recogidas en la legislación vigente, los datos no podrán ser reproducidos o transmitidos, ni total ni parcialmente, cualquiera que sea el medio, sin la autorización expresa y escrita del centro.
+
+3\. Siempre que los datos facilitados por el Centro de Investigaciones Sociológicas sean objeto de publicación, los interesados deberán citar su procedencia y atenerse a las normas deontológicas básicas recogidas en las normas internacionales que rigen en la difusión de datos procedentes de encuestas de opinión, así como remitir al centro, para su conocimiento, un ejemplar de la publicación.
+
+## Artículo 12. Estructura orgánica.
+
+1\. Los órganos de gobierno del Centro de Investigaciones Sociológicas son la Presidencia y el Consejo Rector; los órganos ejecutivos son la Secretaría General, la Dirección General de Coordinación e Investigación, los departamentos dependientes de esta, y las restantes unidades de rango inferior que dependan de cada una de ellas.
+
+La Presidencia, con rango de Subsecretaría, se establece como el máximo órgano unipersonal de gobierno del organismo.
+
+Dependiendo de la Presidencia se encuentra la Dirección General de Coordinación e Investigación, con rango de Dirección General, de la cual dependen a su vez los siguientes órganos, con rango de subdirección general: el Departamento de Tecnologías de la Información y Comunicaciones, el Departamento de Banco de Datos, y el Departamento de Publicaciones y Fomento de la Investigación. Además, de estos Departamentos dependen las unidades de rango inferior que se adscriban a cada una de ellos y se determinen en la relación de puestos de trabajo del organismo.
+
+Asimismo, forma parte de la estructura orgánica, dependiendo de la Presidencia, la Secretaría General, con rango de subdirección general. De esta subdirección general dependen las unidades de rango inferior que se adscriban a la misma y se determinen en la relación de puestos de trabajo del organismo.
+
+Como órgano de apoyo y asistencia inmediata a la persona titular de la Presidencia, existirá un Gabinete, con el rango que se determine en la relación de puestos de trabajo. Cuatro de los puestos de trabajo del Gabinete podrán ser cubiertos por personal eventual que desempeñará funciones de confianza o asesoramiento especial. El nombramiento y cese del personal eventual serán libres entre quienes tengan acreditada experiencia y capacitación profesional. En todo caso, el cese tendrá lugar cuando se produzca el cese de la persona titular de la Presidencia.
+
+Asimismo, existirá una unidad de apoyo como órgano de asistencia de la Dirección General de Coordinación e Investigación, con el rango que se determine en la relación de puestos de trabajo.
+
+2\. El órgano consultivo del Centro de Investigaciones Sociológicas es el Consejo Asesor que cumplirá con el principio de presencia equilibrada de mujeres y hombres conforme al artículo 54 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, y con las previsiones de la Ley Orgánica 2/2024, de 1 de agosto, de representación paritaria y presencia equilibrada de mujeres y hombres.
+
+3\. Existirá una Intervención Delegada de la General de la Administración General del Estado adscrita al Presidente del organismo con rango de Subdirección General.
+
+4\. Los actos y resoluciones dictados por los órganos de gobierno, en el ámbito de sus respectivas competencias, pondrán fin a la vía administrativa. Dichos actos y resoluciones podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.
+
+> Se modifican los párrafos primero y segundo del apartado 1 y se añade el apartado 4 por el art. 4.3 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica por el art. único.1 del Real Decreto 166/2025, de 4 de marzo. [Ref. BOE-A-2025-4321](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4321)
+
+> Se modifica el apartado 1 por el art. único.7 del Real Decreto 485/2022, de 21 de junio. [Ref. BOE-A-2022-10295](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10295)
+
+## Artículo 12 bis. El Consejo Rector.
+
+1\. El Consejo Rector estará constituido por:
+
+a) La persona titular de la Presidencia del Organismo, que ostentará la Presidencia del Consejo Rector.
+
+b) Cinco vocales, designados por la persona titular del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, a propuesta de la persona titular de la Presidencia del organismo autónomo, que deberán tener rango al menos de Subdirector General o asimilado, entre los que se incluirá la persona titular de la Dirección General de Coordinación e Investigación.
+
+Actuará como secretario, con voz y sin voto, la persona titular de la Secretaría General del organismo, que será sustituida en caso de vacancia, ausencia, enfermedad u otra causa legal, por una persona funcionaria del subgrupo A1 adscrita a la Secretaría General.
+
+2\. En caso de vacancia, ausencia o enfermedad u otra causa legal de la persona que ostente la Presidencia, le suplirá por este orden, la persona titular de la Dirección General de Coordinación e Investigación, el Consejero o Consejera de mayor antigüedad y, a igualdad de antigüedad, quien tenga mayor jerarquía y edad.
+
+En caso de vacancia, ausencia, enfermedad u otra causa legal de los vocales y persona titular de la Secretaría, se procederá a la designación de su sustituto siguiendo los mismos criterios que para la designación de sus titulares.
+
+3\. Quien ejerza la presidencia podrá convocar a las reuniones del Consejo Rector a otro personal del organismo, por razones de su especialidad, que podrán asistir con voz, pero sin voto, a las reuniones de éste.
+
+4\. A propuesta de la Presidencia del Consejo Rector, podrán asistir a sus reuniones, con voz pero sin voto, expertos y profesionales de reconocido prestigio en materias relevantes para los objetivos y funciones del organismo. El número de expertos y profesionales no podrá ser superior al número de miembros del Consejo Rector que asistan a las correspondientes reuniones. Asimismo, no podrán percibir indemnizaciones por asistencia.
+
+5\. La creación y funcionamiento del Consejo Rector serán atendidos con los medios personales, técnicos y presupuestarios asignados al Organismo autónomo.
+
+> Se añade por el art. 4.4 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 12 ter. Funciones del Consejo Rector.
+
+Corresponderán al Consejo Rector las siguientes funciones:
+
+a) El seguimiento, supervisión y control superiores de la actuación del organismo.
+
+b) La aprobación de las propuestas de planes de actuación a los que se refiere el artículo 85 de la Ley 40/2015 de 1 de octubre.
+
+c) La aprobación de la propuesta de objetivos y de los indicadores para la medición de su cumplimiento.
+
+d) Aprobar el anteproyecto de presupuestos y aprobar las cuentas anuales del organismo.
+
+e) Elevar la propuesta de modificación de la estructura orgánica y de la relación de puestos de trabajo del organismo.
+
+f) La aprobación de la memoria anual y los informes de actividad.
+
+g) Ejercer las restantes atribuciones que le confiera el ordenamiento jurídico.
+
+> Se añade por el art. 4.5 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 13. Presidencia.
+
+1\. Al frente del organismo existirá una Presidencia, cuya persona titular será nombrada y separada del cargo por el Consejo de Ministros, mediante real decreto dictado a propuesta de la persona titular del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.
+
+2\. Corresponde a la persona titular de la Presidencia del centro:
+
+a) Ejercer la dirección superior del organismo, impulsar y coordinar los servicios del centro, en orden al cumplimiento de sus funciones, y presidir las reuniones del Consejo Asesor.
+
+b) Ostentar con carácter general la representación oficial del organismo, en particular en sus relaciones con organismos análogos, públicos o privados, nacionales o extranjeros.
+
+c) Proponer el anteproyecto de presupuesto del organismo.
+
+d) Ejecutar el presupuesto del organismo.
+
+e) Elaborar el programa anual de actividades del centro y coordinar su desarrollo, conforme a las funciones a que se refiere el artículo 3 del presente real decreto y de acuerdo con las consignaciones presupuestarias del centro.
+
+f) Aprobar la memoria relativa a la ejecución del programa correspondiente al ejercicio anterior y, a través del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes elevarla al Congreso de los Diputados y al Senado, por conducto de sus respectivos Presidentes.
+
+g) Elevar al Congreso de los Diputados y al Senado, y a las Asambleas Legislativas de las Comunidades Autónomas, en su caso, por conducto de sus respectivos Presidentes, y a través de Ministerio de la Presidencia, Justicia y Relaciones con las Cortes el contenido de los trabajos finalizados e ingresados en su banco de datos, así como el avance provisional de los resultados de las encuestas referidas a intención de voto, valoración de partidos y valoración de líderes políticos.
+
+h) Aprobar los proyectos de informatización y adscripción de material informático al centro.
+
+i) Suscribir los convenios en materia de investigaciones sociológicas.
+
+j) Contratar en nombre del organismo, disponer los gastos necesarios y ordenar los pagos.
+
+k) Proponer el nombramiento de la persona titular de la Secretaría General y del resto de Departamentos a la persona titular del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.
+
+l) Ejercer las competencias que, en materia de personal, le atribuyen las normas sobre función pública y organismos autónomos.
+
+m) Desempeñar, en general, cuantas otras funciones no estén expresamente encomendadas a otros órganos y le correspondan como máximo titular del organismo, conforme a la legislación vigente.
+
+3\. En caso de vacante, ausencia o enfermedad, la persona titular de la Presidencia será sustituida por la persona titular de la Dirección General de Coordinación e Investigación, de la Secretaría General y de los Departamentos de Tecnologías de la Información y Comunicaciones, de Publicaciones y Fomento de la Investigación y de Banco de Datos, por este orden.
+
+4\. Los actos y resoluciones de la Presidencia del organismo agotan la vía administrativa.
+
+> Se modifica por el art. único.2 del Real Decreto 166/2025, de 4 de marzo. [Ref. BOE-A-2025-4321](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4321)
+
+> Se modifica el apartado 3 por el art. único.8 del Real Decreto 485/2022, de 21 de junio. [Ref. BOE-A-2022-10295](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10295)
+
+## Artículo 14. Secretaría General.
+
+1\. El Secretario general, con categoría de Subdirector general, será nombrado y separado del cargo por el Ministro de la Presidencia a propuesta del Presidente del centro.
+
+2\. Le corresponderán las funciones siguientes:
+
+a) Dirigir la actividad económica y administrativa ordinarias del centro.
+
+b) Elaborar el anteproyecto de presupuesto del próximo ejercicio y la memoria sobre ejecución del programa por el organismo durante el ejercicio precedente, ambos para su elevación al Presidente del centro.
+
+c) Desempeñar, por delegación del Presidente, la jefatura del personal del centro.
+
+d) Desempeñar la Secretaría del Consejo Asesor.
+
+e) Desempeñar todas aquellas funciones que expresamente le encomiende el Presidente del centro.
+
+## Artículo 15. Dirección General de Coordinación e Investigación.
+
+1\. La persona titular de la Dirección General de Coordinación e Investigación será nombrada y separada del cargo por el Consejo de Ministros, mediante real decreto dictado a propuesta de la persona titular del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.
+
+2\. Le corresponderán las funciones siguientes:
+
+a) La planificación, coordinación y seguimiento del programa y actuaciones del centro en materia de investigación, en colaboración con las restantes unidades del organismo, con especial atención a los principios de actuación en investigación empírica aplicada regulados en el artículo 5 del presente real decreto.
+
+b) Ejecutar los proyectos de investigación que deba realizar el centro, por sí mismo o en colaboración con otras entidades.
+
+c) Dirigir la ejecución de los trabajos de campo.
+
+d) Dirigir el proceso de datos conducente a la explotación informática de las investigaciones.
+
+e) Velar por que el Centro de Investigaciones Sociológicas adecúe su actuación a las disposiciones en materia de transparencia, acceso a la información pública y buen gobierno en lo relativo a la normativa vigente a nivel europeo y/o estatal en materia de reutilización de la información del sector público y de gobernanza de los datos.
+
+f) Elaborar los informes de los correspondientes estudios realizados por el centro, por sí mismo o en colaboración con otras entidades, así como los informes y plan de actuación correspondientes a su Dirección General.
+
+g) La coordinación y apoyo a las actividades informáticas del organismo en colaboración del Departamento de Tecnologías de la Información y Comunicaciones.
+
+h) Desempeñar todas aquellas funciones que expresamente le haya encomendado la persona titular de la Presidencia del centro.
+
+3\. Depende de la Dirección General de Coordinación e Investigación los siguientes órganos con rango de subdirección general:
+
+a) Departamento de Tecnologías de la Información y Comunicaciones.
+
+b) Departamento de Banco de Datos.
+
+c) Departamento de Publicaciones y Fomento de la Investigación.
+
+> Se modifica por el art. único.3 del Real Decreto 166/2025, de 4 de marzo. [Ref. BOE-A-2025-4321](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4321)
+
+## Artículo 15 bis. Departamento de Tecnologías de la Información y Comunicaciones.
+
+1\. Al frente del Departamento de Tecnologías de la Información y Comunicaciones existirá una Dirección, con categoría de subdirección general, cuya persona titular será nombrada y separada del cargo por la persona titular del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática a propuesta de la persona titular de la Presidencia del centro.
+
+2\. Le corresponderán las funciones siguientes:
+
+a) La definición y supervisión de la aplicación de la estrategia sobre tecnologías de la información y las comunicaciones del centro, de acuerdo con las directrices de transformación digital adoptadas por la Administración General del Estado.
+
+b) El desarrollo de los sistemas de información necesarios para el funcionamiento de los servicios y para el análisis y explotación de datos disponibles para la evaluación de políticas públicas.
+
+c) El impulso de la transformación digital y la innovación tecnológica en el centro.
+
+d) La gestión y administración de las redes de comunicación de voz y datos.
+
+e) La implantación de medidas de seguridad informática.
+
+f) La coordinación y la supervisión de la política de protección de datos de carácter personal en el ámbito de las competencias del centro.
+
+g) La administración del dominio de Internet, el desarrollo de los portales web, la sede electrónica y la intranet del centro.
+
+h) Elaborar informes de situación y planes de actuación del Departamento que serán elevados a la persona titular de la Presidencia del centro.
+
+i) Desempeñar todas aquellas funciones que expresamente le sean encomendadas por la persona titular de la Presidencia del centro.
+
+> Se añade por el art. único.9 del Real Decreto 485/2022, de 21 de junio. [Ref. BOE-A-2022-10295](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10295)
+
+## Artículo 16. Departamento de Banco de Datos.
+
+1\. Al frente del Departamento de Banco de Datos existirá un existirá una Dirección, con rango de subdirección general, cuya persona titular será nombrada y separada del cargo por la persona titular del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes a propuesta de la persona titular de la Presidencia del centro.
+
+2\. Le corresponderán las funciones siguientes:
+
+a) Dirigir, mantener y coordinar el banco de datos del centro.
+
+b) Coordinar, en colaboración con el Departamento de Tecnologías de la Información y Comunicaciones, los proyectos relacionados con la gestión de datos.
+
+c) Dirigir y coordinar las actuaciones del banco de datos en todo lo referente a satisfacer solicitudes de información dirigidas al mismo.
+
+d) Fomentar la incorporación al banco de datos de otras bases de datos nacionales e internacionales en el ámbito de la Sociología.
+
+e) Elaborar informes de situación y planes de actuación del Departamento que serán elevados a la persona titular de la Presidencia del centro.
+
+f) Desempeñar todas aquellas funciones que expresamente le sean encomendadas por la persona titular de la Presidencia del centro.
+
+> Se modifica por el art. único.4 del Real Decreto 166/2025, de 4 de marzo. [Ref. BOE-A-2025-4321](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4321)
+
+> Se modifica el apartado 2 por el art. único.10 del Real Decreto 485/2022, de 21 de junio. [Ref. BOE-A-2022-10295](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10295)
+
+## Artículo 17. Departamento de Publicaciones y Fomento de la Investigación.
+
+1\. Al frente del Departamento de Publicaciones y Fomento de la Investigación existirá una Dirección, con rango de subdirección general, cuya persona titular será nombrada y separada del cargo por la persona titular del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes a propuesta de la persona titular de la Presidencia del centro.
+
+2\. Le corresponderán las funciones siguientes:
+
+a) Preparar, editar y difundir cuantas revistas, boletines, libros y cualesquiera otras publicaciones gestione el centro.
+
+b) Organizar y proyectar reuniones, cursos y seminarios sobre investigación en ciencias sociales, así como las becas, ayudas y premios relativos a dicha investigación.
+
+c) Dirigir la biblioteca del centro.
+
+d) Elevar a la persona titular de la Presidencia informaciones de situación y planes de actuación del Departamento.
+
+e) Mantener las relaciones del centro con organismos similares y centros universitarios, nacionales o extranjeros, en orden al fomento de la investigación, a través del estudio y ejecución de proyectos conjuntos, planes de intercambios, participación en reuniones y congresos y formación de investigadores.
+
+f) Desempeñar todas aquellas funciones que expresamente le encomiende la persona titular de la Presidencia del centro.
+
+> Se modifica por el art. único.5 del Real Decreto 166/2025, de 4 de marzo. [Ref. BOE-A-2025-4321](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4321)
+
+## Artículo 18. Consejo Asesor.
+
+1\. El Consejo Asesor es el órgano consultivo del Centro de Investigaciones Sociológicas, que estará formado por los siguientes miembros:
+
+a) La Presidencia.
+
+b) Los Consejeros y Consejeras.
+
+c) La Secretaría.
+
+2\. La Presidencia del Consejo Asesor recaerá sobre el titular de la Presidencia del Centro de Investigaciones Sociológicas. Corresponde a la Presidencia del Consejo Asesor:
+
+a) Ostentar la representación del Consejo Asesor y presidir sus reuniones.
+
+b) Nombrar a los Consejeros y Consejeras, previa propuesta de los órganos legitimados para ello.
+
+c) Convocar las reuniones ordinarias y extraordinarias del Consejo Asesor y fijar el orden del día de las mismas.
+
+d) Moderar el desarrollo de los debates y dirimir con su voto los empates, a efectos de adoptar acuerdos.
+
+3\. Los Consejeros y Consejeras, cuyo número no excederá de once, serán designados por la persona titular de la Presidencia, entre personas de reconocido prestigio en el campo de las ciencias sociales.
+
+Al menos cinco de ellos habrán de ser designados por la persona titular de la Presidencia a propuesta del Consejo de Universidades, entre Catedráticos y Profesores titulares de áreas de conocimiento relacionadas con el ámbito de actividades del Centro de Investigaciones Sociológicas.
+
+La persona titular de la Dirección General de Coordinación e Investigación ejercerá como Consejero con voz y voto.
+
+4\. La Secretaría del Consejo Asesor será desempeñada por la persona titular de la Secretaría General del Centro de Investigaciones Sociológicas.
+
+Sus funciones serán las siguientes:
+
+a) Asistir a las reuniones del Consejo con voz y sin voto.
+
+b) Preparar el acta de las reuniones y realizar las comunicaciones internas y con otros órganos que sean necesarias.
+
+c) Preparar el despacho de los asuntos.
+
+d) Expedir certificaciones de los acuerdos, dictámenes y consultas aprobados.
+
+5\. Asistirán a las reuniones del Consejo Asesor, con voz pero sin voto:
+
+a) Un representante del Instituto Nacional de Estadística y otro del Consejo Superior de Investigaciones Científicas, designados por los Presidentes de los respectivos organismos.
+
+b) Las personas titulares de las Direcciones de los Departamentos del Centro de Investigaciones Sociológicas, así como el resto del personal del organismo que sean convocados por la persona titular de la Presidencia del centro.
+
+6\. Las funciones del Consejo Asesor serán las siguientes:
+
+a) Prestar su asesoramiento sobre los proyectos de investigación y los programas de trabajo del centro.
+
+b) Ser informado de la actividad científica desarrollada por el Centro de Investigaciones Sociológicas, conocer los informes elaborados por cada Departamento, y elevar, en su caso, propuestas relacionadas con dicha actividad.
+
+c) Prestar su asesoramiento sobre todas aquellas cuestiones que le someta su Presidente, por iniciativa propia o de los distintos poderes públicos, relacionadas con el ámbito de actividades del centro.
+
+7\. El Consejo Asesor se reunirá, previa convocatoria de la persona titular de la Presidencia del centro, en sesiones ordinarias y extraordinarias:
+
+a) Las reuniones ordinarias tendrán una periodicidad semestral.
+
+b) Las reuniones extraordinarias se convocarán a iniciativa del Presidente o de dos terceras partes de los miembros del Consejo.
+
+8\. La pertenencia al Consejo Asesor no supondrá retribución alguna.
+
+9\. La suplencia de la Presidencia, en el caso de vacancia, ausencia o enfermedad la ejercerá la persona titular de la Dirección General de Coordinación e Investigación.
+
+10\. En todo lo no previsto en este artículo se aplicará el régimen existente para el funcionamiento de los órganos colegiados regulado en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica por el art. único.6 del Real Decreto 166/2025, de 4 de marzo. [Ref. BOE-A-2025-4321](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4321)
+
+> Se modifica el apartado 5.b) y 9 por el art. único.11 del Real Decreto 485/2022, de 21 de junio. [Ref. BOE-A-2022-10295](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10295)
+
+## Artículo 19. Recursos económicos.
+
+Los bienes y medios económicos del organismo serán los siguientes:
+
+a) Los créditos y subvenciones que anualmente se consignen en los Presupuestos Generales del Estado.
+
+b) Los bienes o derechos que constituyan su patrimonio, así como los productos y rentas del mismo.
+
+c) Los ingresos de derecho público o privado que le correspondan y, en particular, los que procedan de la venta de publicaciones, realización de cursos o seminarios, acceso al banco de datos, convenios de cooperación o de cualquier otra actividad relacionada con las funciones del centro.
+
+d) Cualquiera otros recursos económicos, ordinarios o extraordinarios, que esté legalmente autorizado a percibir.
+
+## Disposición adicional única. Actuación en períodos electorales.
+
+Durante los períodos electorales el Centro de Investigaciones Sociológicas ajustará su actuación a lo que determine la Administración Electoral, conforme a la Ley Orgánica 5/1985, de 19 de junio, y, en particular, sólo podrá publicar los sondeos o encuestas que realice en los términos previstos en el artículo 69 de la citada Ley Orgánica.
+
+## Disposición transitoria única. Unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General.
+
+Las unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General continuarán subsistentes y serán retribuidos con cargo a los mismos créditos presupuestarios, hasta que se aprueben las relaciones de puestos de trabajo adaptadas a la nueva estructura orgánica de este Real Decreto. Dicha adaptación en ningún caso podrá generar incremento de gasto público.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en el presente Real Decreto y, en particular, las siguientes:
+
+a) El Real Decreto 1526/1990, de 8 de noviembre, sobre organización del Centro de Investigaciones Sociológicas.
+
+b) La Orden del Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno, de 31 de marzo de 1993, sobre el acceso al banco de datos del Centro de Investigaciones Sociológicas.
+
+## Disposición final primera. Facultades de desarrollo.
+
+Se autoriza al Ministro de la Presidencia para que adopte las medidas necesarias para el desarrollo y ejecución del presente Real Decreto.
+
+## Disposición final segunda. Modificaciones presupuestarias.
+
+Por el Ministerio de Economía y Hacienda se llevarán a cabo las modificaciones presupuestarias precisas para el cumplimiento de lo previsto en el presente Real Decreto.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 18 de julio de 1997.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ

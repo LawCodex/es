@@ -1,0 +1,251 @@
+---
+title: "Orden FOM/3591/2008, de 27 de noviembre, por la que se aprueban las bases reguladoras de la concesión de ayudas para la formación en relación con el transporte por carretera"
+identifier: "BOE-A-2008-20042"
+eli: "https://www.boe.es/eli/es/o/2008/11/27/fom3591"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2008-11-27
+published: 2008-12-11
+in_force_from: 2008-12-12
+last_amended: 2017-02-02
+consolidated: 2026-03-05
+gazette: "Boletín Oficial del Estado núm. 298"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-20042"
+retrieved: 2026-10-11
+---
+
+# Orden FOM/3591/2008, de 27 de noviembre, por la que se aprueban las bases reguladoras de la concesión de ayudas para la formación en relación con el transporte por carretera
+
+En el ámbito del transporte público por carretera resulta necesario fomentar la formación de profesionales, tanto de transportistas como de trabajadores, promoviendo que se realicen más cursos especializados sobre la materia. Por ello, se estima procedente contribuir con fondos públicos, de acuerdo con los créditos presupuestarios consignados al efecto, a la realización de cursos de formación o seminarios por entidades públicas o privadas, sobre el transporte por carretera.
+
+Se hace preciso, en consecuencia, establecer las bases reguladoras de la concesión de estas ayudas de acuerdo con lo dispuesto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones y su Reglamento, aprobado por el Real Decreto 887/2006, de 21 de julio.
+
+En su virtud, dispongo:
+
+## Artículo 1. Finalidad y normativa de aplicación.
+
+1\. El objeto de esta Orden es la aprobación de las bases reguladoras de la concesión de ayudas para la formación en relación con el transporte por carretera.
+
+2\. Las subvenciones reguladas en esta Orden se regirán, en lo no previsto en ella, por lo dispuesto con carácter general para las ayudas y subvenciones públicas en la Ley 38/2003, de 17 de noviembre, General de Subvenciones y su Reglamento, aprobado por el Real Decreto 887/2006, de 21 de julio.
+
+## Artículo 2. Objeto de las ayudas.
+
+Las subvenciones, cuyas bases reguladoras se establecen en esta Orden, tienen por objeto fomentar la realización de cursos o seminarios sobre temas de interés para el sector del transporte por carretera con el fin de mejorar la formación de los profesionales del sector en su conjunto.
+
+## Artículo 3. Requisitos generales de los beneficiarios.
+
+1\. No podrán tener la condición de beneficiario las personas o entidades en quienes concurra alguna de las circunstancias previstas en el artículo 13.2 y 3 de la Ley 38/2003, de 17 noviembre, General de Subvenciones.
+
+2\. Sin perjuicio de la facultad de la Subdirección General de Gestión, Análisis e Innovación del Transporte Terrestre para exigir la presentación de otros documentos, la justificación de no estar incurso en las prohibiciones a que se refiere el apartado anterior, se llevará a cabo de acuerdo con lo que se disponga en la convocatoria.
+
+> Se modifica por el art. 1.1 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Artículo 4. Requisitos para el otorgamiento.
+
+1\. Podrán otorgarse estas ayudas a las asociaciones profesionales de transportistas o de empresas de actividades auxiliares y complementarias del transporte por carretera definidas en el artículo 1 de la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, con implantación, al menos, en tres Comunidades Autónomas y, en los mismos términos, a asociaciones profesionales de trabajadores. Excepcionalmente, podrán otorgarse a otras entidades sin ánimo de lucro, públicas o privadas, con vinculación acreditada al sector del transporte terrestre, que reúnan condiciones particularmente idóneas para aportar conocimientos sobre el transporte terrestre. Las ayudas se otorgarán para la realización de las siguientes actividades:
+
+Cursos de formación o perfeccionamiento para empresarios o trabajadores del sector del transporte por carretera y actividades auxiliares y complementarias del mismo, excepto aquellos cursos dirigidos a la obtención de certificados de capacitación profesional.
+
+Cursos o seminarios cuyo contenido esté directamente relacionado con el transporte por carretera.
+
+2\. El coste y duración de los cursos, así como cada una de las partidas integrantes del mismo, se ajustarán a los cursos tipo elaborados por la Dirección General de Transporte Terrestre, que se publicarán en la página Web del Ministerio de Fomento una vez que se haya publicado en el «Boletín Oficial del Estado» la convocatoria de las ayudas.
+
+3\. No podrán otorgarse estas ayudas a aquéllos que, habiendo sido beneficiarios de las mismas en alguno de los tres ejercicios anteriores, no las hubieran percibido, ni siquiera parcialmente, por haber renunciado íntegramente a ellas o por no haber aportado la documentación necesaria para su cobro.
+
+> Se modifica la referencia a la "Dirección General de Transportes por Carretera" por "Dirección General de Transporte Terrestre", según establece el art. 1.7 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+> Se añade el apartado 3 por el art. único de la Orden FOM/2423/2013, de 18 de diciembre. [Ref. BOE-A-2013-13638](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13638)
+
+## Artículo 5. Solicitudes.
+
+1\. Las personas jurídicas que deseen obtener las subvenciones deberán solicitarlo en la sede electrónica del Ministerio de Fomento acompañando los documentos necesarios para acreditar el cumplimiento de los requisitos establecidos para el otorgamiento de la ayuda solicitada. Las solicitudes se presentarán previamente a la realización de la actividad y deberán acompañarse del presupuesto detallado, de una descripción del contenido de los cursos o seminarios, especificándose el colectivo a que van dirigidos de acuerdo con lo que se determine en la convocatoria; asimismo podrán acompañarse de cuantos documentos se considere que pueden facilitar la valoración de los aspectos indicados en el artículo 7.2.
+
+La personalidad de la entidad solicitante deberá acreditarse mediante el documento de constitución, debidamente inscrito en el Registro que corresponda y tarjeta de identificación fiscal.
+
+El plazo de presentación de las solicitudes será de un mes, contado a partir del día siguiente al de la publicación del extracto de la convocatoria en el «Boletín Oficial del Estado».
+
+2\. Deberá, asimismo, adjuntarse a la solicitud declaración en la que se hagan constar las ayudas obtenidas o solicitadas de cualesquiera otros Departamentos, Administraciones o entes públicos o privados, nacionales e internacionales, relacionados con las actuaciones a subvencionar.
+
+3\. Además de los documentos expresamente determinados en esta Orden y en la convocatoria, los peticionarios de las subvenciones podrán acompañar su solicitud con cuantos otros consideren que pueden servir para justificarlas, especialmente para facilitar la estimación sobre el grado de fiabilidad de los datos y previsiones incluidos en los proyectos.
+
+4\. La Subdirección General de Gestión, Análisis e Innovación del Transporte Terrestre, una vez recibida la solicitud con la correspondiente documentación, podrá requerir al interesado para que, en el plazo de diez días, subsane las deficiencias observadas o aporte la documentación o información que se considere necesaria para la adecuada resolución de la petición, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su solicitud.
+
+> Se modifica por el art. 1.2 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Artículo 6. Procedimiento.
+
+El procedimiento de otorgamiento de las subvenciones se iniciará mediante convocatoria aprobada por el Secretario General de Transportes por delegación del Secretario de Estado de Infraestructuras, Transportes y Vivienda, cuyo extracto se publicará en el «Boletín Oficial del Estado». La convocatoria concretará la forma de acreditar el cumplimiento de los requisitos establecidos en esta Orden.
+
+El procedimiento se tramitará en régimen de concurrencia competitiva; la ordenación e instrucción se realizarán por la Subdirección General de Gestión, Análisis e Innovación del Transporte Terrestre. La evaluación de las solicitudes se llevará a cabo por una comisión de valoración presidida por el Subdirector General de Gestión, Análisis e Innovación del Transporte Terrestre o la persona que éste designe al efecto, y formarán parte de la misma tres vocales designados por el presidente, uno de la Subdirección General de Ordenación y Normativa de Transporte Terrestre, otro de la de Inspección del Transporte Terrestre y otro de la de Gestión, Análisis e Innovación del Transporte Terrestre.
+
+La Comisión de valoración podrá solicitar cuanta información estime necesaria y emitirá su informe concretando el resultado de la evaluación efectuada. El órgano instructor, a la vista del expediente y del informe del órgano colegiado, formulará la propuesta de resolución provisional, debidamente motivada, que deberá notificarse a los interesados en la forma que establezca la convocatoria, y se concederá un plazo de 10 días para presentar alegaciones.
+
+Examinadas las alegaciones aducidas en su caso por los interesados, se formulará la propuesta de resolución definitiva, que deberá expresar la relación de solicitantes para los que se propone la concesión de la subvención, y su cuantía, especificando su evaluación y los criterios de valoración seguidos para efectuarla.
+
+Al expediente se incorporará informe de la Subdirección General de Gestión, Análisis e Innovación del Transporte Terrestre en el que conste que, de la información que obra en su poder, se desprende que los beneficiarios cumplen todos los requisitos.
+
+> Se modifica por el art. 1.3 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Artículo 7. Criterios de valoración y ponderación de los mismos.
+
+1\. Para el otorgamiento de estas ayudas se valorará, en primer lugar, el que el solicitante sea miembro del Comité Nacional del Transporte por Carretera, destinándose a estas entidades la mayor parte de las cantidades disponibles.
+
+El 10 por 100, como mínimo, se otorgará a entidades que reúnan los requisitos necesarios y no pertenezcan al Comité Nacional del Transporte por Carretera.
+
+2\. Dentro de cada uno de los dos grupos indicados se ponderarán los siguientes criterios de valoración:
+
+La adecuación de los temas objeto de estudio al interés público del transporte por carretera y a las necesidades de formación del sector, hasta 10 puntos.
+
+El grado de representatividad o implantación de la entidad organizadora, hasta 5 puntos.
+
+La vinculación de la entidad al sector del transporte por carretera, hasta 5 puntos.
+
+El contenido concreto del curso, su duración y coste, hasta 10 puntos.
+
+El volumen de las acciones formativas objeto de estas ayudas en ejercicios anteriores y la correcta ejecución de las mismas, así como el cumplimiento de las condiciones de otorgamiento en los citados ejercicios, hasta 10 puntos.
+
+## Artículo 8. Cuantía máxima e individualizada.
+
+Las ayudas se otorgarán de acuerdo con las consignaciones presupuestarias disponibles en cada ejercicio y podrán cubrir, como máximo, el 90 por 100 del coste total de los cursos, salvo que sean impartidos por organismos públicos, en cuyo caso podrán cubrir hasta el 100 por 100.
+
+Para determinar la cuantía que corresponda otorgar para cada curso o seminario seleccionado, de acuerdo con los criterios indicados en el artículo anterior, se tendrán en cuenta los costes publicados en los cursos tipo a que se refiere el artículo 4.2.
+
+## Artículo 9. Otorgamiento.
+
+Las ayudas serán otorgadas mediante resolución dictada por el Secretario General de Transportes por delegación del Secretario de Estado de Infraestructuras, Transportes y Vivienda. La resolución se motivará, haciéndose referencia a los criterios de valoración que se hayan seguido y a su ponderación, contendrá la relación de beneficiarios que hayan obtenido la subvención, los cursos objeto de la subvención y la cuantía que corresponda a cada uno, haciéndose constar, de manera expresa, que el resto de las solicitudes han sido desestimadas. La resolución de otorgamiento podrá establecer condiciones de observancia obligatoria para los beneficiarios y se publicará en la Base de Datos Nacional de Subvenciones; en el “Boletín Oficial del Estado” se publicará una referencia a la resolución de otorgamiento indicando su ubicación así como los recursos que procedan, en su caso, en vía administrativa y judicial, el órgano ante el que hubieran de presentarse y el plazo para interponerlos. Sin perjuicio de su publicación, la Subdirección General de Gestión, Análisis e Innovación del Transporte Terrestre comunicará electrónicamente a los que hayan resultado beneficiarios esta circunstancia, así como la cuantía otorgada, requiriéndoles para que aporten la documentación necesaria para el pago de la subvención.
+
+El plazo para resolver y publicar la resolución será de seis meses desde la fecha de publicación del extracto de la convocatoria en el “Boletín Oficial del Estado”. Transcurrido este plazo sin haberse publicado la resolución, los interesados podrán entender desestimada su solicitud. La resolución que se adopte pondrá fin a la vía administrativa y contra la misma los interesados podrán interponer recurso potestativo de reposición o, directamente, contencioso-administrativo.
+
+> Se modifica por el art. 1.4 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Artículo 10. Requisitos para el pago y justificación del cumplimiento de la finalidad y de la aplicación de los fondos.
+
+1\. Procederá, en principio, el pago de las subvenciones una vez que se haya justificado documentalmente la realización de las actividades y gastos para los que fueron otorgadas, en los plazos establecidos en la resolución de otorgamiento y en los términos previstos en el apartado 4.
+
+2\. No obstante lo anterior, el pago podrá realizarse de forma inmediata a su otorgamiento, aun cuando no se haya justificado documentalmente la realización de los gastos a cuya financiación vayan dirigidas las ayudas, cuando se presente resguardo acreditativo de la constitución de una garantía ante la Caja General de Depósitos a disposición de la Dirección General de Transporte Terrestre por el importe total de la subvención o, en su caso, de la parte de la misma respecto de la que no se haya realizado la preceptiva justificación del gasto, de acuerdo con lo dispuesto en el Reglamento de la Caja General de Depósitos, aprobado por Real Decreto 161/1997, de 7 de febrero. En estos casos, se entenderá que los rendimientos financieros que se generen por los fondos librados a los beneficiarios compensan el coste de la garantía y, en consecuencia, no se considerarán incremento del importe de la subvención.
+
+La garantía se constituirá por tiempo indefinido y será ejecutada si no se produce la justificación de los gastos previstos en el plazo determinado en la resolución de otorgamiento.
+
+La garantía será total o parcialmente cancelada por acuerdo del Director General de Transporte Terrestre, tan pronto como se compruebe de conformidad la referida justificación de la realización de la actividad y de los gastos subvencionados, o bien cuando se hubieran reintegrado las correspondientes cantidades.
+
+3\. En todo caso, antes del 1 de octubre del año en que hayan sido otorgadas las ayudas, a no ser que se indique otra fecha en la resolución de otorgamiento, el solicitante de la subvención tendrá que presentar, bien la justificación de los gastos de los cursos o seminarios, aportando la documentación a que se refiere el apartado siguiente, bien el resguardo acreditativo de la constitución de la garantía en caso de no haberse realizado.
+
+4\. Cuando se realice el pago habiéndose constituido garantía deberá justificarse la realización de los cursos o seminarios y los correspondientes gastos antes de que transcurra un mes desde la finalización de la actividad y, en todo caso, antes del 31 de julio del año siguiente al del otorgamiento de la ayuda. La justificación del cumplimiento de la finalidad para la que se otorgó la subvención se hará mediante cuenta justificativa en la que se incluirán la carta de pago, los justificantes de gasto y la declaración sobre los ingresos percibidos por la ejecución de los cursos. Los gastos se acreditarán mediante facturas y demás documentos de valor probatorio equivalente. Deberá aportarse, además, relación de asistentes a los cursos o seminarios, número del DNI y firma de cada uno, salvo en aquellos supuestos en que, por concurrir causas que lo justifiquen, el Director General de Transporte Terrestre exima del cumplimiento de este requisito.
+
+5\. De acuerdo con lo dispuesto en el artículo 70. 3 del Reglamento de la Ley General de Subvenciones, el plazo para presentar la justificación definida en los apartados 3 y 4 podrá ampliarse a petición del beneficiario cuando la aportación de los documentos que la integren presente dificultades especiales que deberán motivarse suficientemente. Ante la falta de presentación de la justificación en plazo, se requerirá al beneficiario para que ésta sea presentada en el plazo improrrogable de quince días. La falta de presentación en este último plazo llevará consigo la exigencia del reintegro. La presentación de la cuenta justificativa en este plazo adicional podrá sancionarse de acuerdo con lo dispuesto en la Ley General de Subvenciones.
+
+6\. La Dirección General de Transporte Terrestre llevará a cabo la comprobación de la justificación documental de la subvención de acuerdo con el plan anual de actuación que elabore al efecto. Dicho plan deberá indicar si la comprobación alcanza a la totalidad de las subvenciones o a una muestra de las concedidas y, en este último caso, su forma de selección.
+
+> Se modifica por el art. 1.5 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Artículo 11. Obligaciones de los beneficiarios.
+
+Los beneficiarios de las ayudas estarán obligados a hacer constar, en la publicidad y difusión de los cursos o seminarios, que han sido subvencionados por la Dirección General de Transporte Terrestre del Ministerio de Fomento.
+
+En los supuestos en que los cursos o seminarios subvencionados no sean gratuitos para los asistentes, la entidad organizadora únicamente podrá percibir de aquéllos la cantidad correspondiente a la parte del coste no subvencionada.
+
+Asimismo, estarán obligados a facilitar, en todo momento, cuanta información les sea requerida por el Tribunal de Cuentas y por la Dirección General de Transporte Terrestre a efectos de control de las subvenciones otorgadas.
+
+> Se modifican las referencias a la "Dirección General de Transportes por Carretera" por "Dirección General de Transporte Terrestre", según establece el art. 1.7 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Artículo 12. Subcontratación.
+
+1\. Los beneficiarios de las subvenciones podrán subcontratar la realización de los cursos o seminarios hasta el total de la actividad subvencionada.
+
+2\. De acuerdo con lo dispuesto en el artículo 29 de la Ley General de Subvenciones, cuando la actividad concertada con terceros exceda del 20 por 100 del importe de la subvención y dicho importe sea superior a 60.000 euros, la subcontratación estará sometida al cumplimiento de los siguientes requisitos:
+
+a) Que el contrato se celebre por escrito.
+
+b) Que su celebración se autorice previamente por el Dirección General de Transporte Terrestre. Esta autorización deberá otorgarse en el plazo de quince días desde la solicitud, entendiéndose otorgada si transcurre dicho plazo sin notificarse la resolución.
+
+3\. No podrá fraccionarse un contrato con el objeto de disminuir la cuantía del mismo y eludir el cumplimiento de los requisitos exigidos en el apartado anterior.
+
+4\. En ningún caso podrá concertarse por el beneficiario la ejecución total o parcial de las actividades subvencionadas con:
+
+a) Personas o entidades incursas en alguna de las circunstancias del artículo 3.1.
+
+b) Personas o entidades que hayan percibido otras subvenciones para la realización de la actividad objeto de contratación.
+
+c) Intermediarios o asesores en los que los pagos se definan como un porcentaje del coste total de la operación, a menos que dicho pago esté justificado con referencia al valor de mercado del trabajo realizado o los servicios prestados.
+
+d) Personas o entidades vinculadas con el beneficiario, salvo que la contratación se realice de acuerdo con las condiciones normales de mercado y se autorice previamente por la Dirección General de Transporte Terrestre.
+
+e) Personas o entidades solicitantes de ayuda o subvención en la misma convocatoria.
+
+5\. De acuerdo con el artículo 31.3 de la Ley General de Subvenciones, cuando el importe del gasto subvencionable supere las cuantías establecidas en el Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, para el contrato menor, el beneficiario deberá solicitar, como mínimo, tres ofertas de diferentes proveedores, con carácter previo a la contracción del compromiso para la realización del curso o seminario, salvo que por las especiales características de los gastos subvencionables no exista en el mercado suficiente número de entidades que lo puedan realizar.
+
+La elección entre las ofertas presentadas, que deberán aportarse en la justificación, se realizará conforme a criterios de eficiencia y economía, debiendo justificarse expresamente en una memoria la elección cuando no recaiga en la propuesta económica más ventajosa.
+
+6\. No obstante lo dispuesto en los apartados anteriores, las acciones formativas podrán realizarse por las entidades que estén integradas en la beneficiaria o por las mismas entidades que integran a ésta. En estos casos las citadas entidades tendrán asimismo la consideración de beneficiarias.
+
+> Se modifican el primer párrafo del apartado 5 y las referencias a la "Dirección General de Transportes por Carretera" por "Dirección General de Transporte Terrestre", según establece el art. 1.6 y 7 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Artículo 13. Compatibilidad de las ayudas.
+
+En los términos establecidos en el párrafo siguiente, las ayudas reguladas en esta orden son compatibles con cualesquiera otras de otros Departamentos, administraciones o entes públicos o privados, nacionales o internacionales, otorgadas para subvencionar la misma actividad.
+
+Las cantidades que se obtengan por el beneficiario para los mismos cursos o seminarios se detraerán de la cantidad máxima a otorgar en virtud de lo dispuesto en el artículo 8.
+
+## Artículo 14. Incumplimiento.
+
+1\. Procederá el reintegro de las cantidades percibidas y la exigencia del interés de demora desde el momento del pago de la subvención, en los casos en que el beneficiario no justifique el cumplimiento de la finalidad para la que se le otorgó, la obtenga sin reunir las condiciones requeridas para ello o incumpla la finalidad para la que le fue concedida o las condiciones impuestas con motivo de la concesión. Las cantidades a reintegrar tendrán, a efectos de su cobranza, la consideración de ingresos de derecho público.
+
+2\. Para graduar los incumplimientos se tendrán en cuenta criterios de proporcionalidad, el grado de realización de los cursos o seminarios, de su justificación y la cuantía de los gastos realizados, así como todas las circunstancias concurrentes que permitan comprobar la efectiva realización de los cursos o seminarios y la asistencia de alumnos a los mismos. En todo caso, se tendrán en cuenta las siguientes normas:
+
+El reintegro será total cuando no se realicen los cursos o seminarios. Cuando se realicen parcialmente, será proporcional a la parte no realizada.
+
+La obtención concurrente de subvenciones o ayudas que no hayan sido previamente comunicadas, conforme a lo previsto en el artículo 5.2, dará lugar al reintegro total de las cantidades percibidas, o parcial en el caso de que la ayuda concurrente sea inferior a la otorgada de acuerdo con esta Orden.
+
+La falta de presentación en plazo de la documentación requerida dará lugar al reintegro o cancelación de las ayudas en relación con las actividades a que afecte.
+
+Las cantidades entregadas y no utilizadas deberán reintegrarse en su totalidad.
+
+## Disposición adicional única. Delegación de competencias.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a) de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Orden.
+
+## Disposición final primera. Ejecución.
+
+Se faculta al Director o Dirección General de Transporte Terrestre para dictar las resoluciones necesarias para la aplicación de esta Orden, así como para resolver las dudas concretas que en relación con la misma se susciten.
+
+> Se modifica la referencia a la "Dirección General de Transportes por Carretera" por "Dirección General de Transporte Terrestre", según establece el art. 1.7 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Disposición final segunda. Entrada en vigor.
+
+Esta Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 27 de noviembre de 2008.–La Ministra de Fomento, Magdalena Álvarez Arza.
+
+## ANEJO I — Modelo de solicitud
+
+## (Derogado)
+
+> Se deroga por la disposición derogatoria única.a) de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## ANEJO II — Documentación a aportar en el momento de la solicitud
+
+## (Derogado)
+
+> Se deroga por la disposición derogatoria única.a) de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## ANEJO III — Documentación a aportar una vez concedida la subvención para que pueda realizarse su pago
+
+## (Derogado)
+
+> Se deroga por la disposición derogatoria única.a) de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## ANEJO IV — Memoria justificativa
+
+## (Derogado)
+
+> Se deroga por la disposición derogatoria única.a) de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)

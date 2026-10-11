@@ -1,0 +1,2828 @@
+---
+title: "Orden APA/423/2020, de 18 de mayo, por la que se establece un plan de gestión para la conservación de los recursos pesqueros demersales en el mar Mediterráneo"
+identifier: "BOE-A-2020-5163"
+eli: "https://www.boe.es/eli/es/o/2020/05/18/apa423"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2020-05-18
+published: 2020-05-20
+in_force_from: 2020-05-21
+last_amended: 2026-07-16
+consolidated: 2026-07-16
+gazette: "Boletín Oficial del Estado núm. 142"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2020-5163"
+retrieved: 2026-10-11
+---
+
+# Orden APA/423/2020, de 18 de mayo, por la que se establece un plan de gestión para la conservación de los recursos pesqueros demersales en el mar Mediterráneo
+
+Incluye la corrección de errores publicada por Orden APA/506/2020, de 3 de junio. [Ref. BOE-A-2020-5784](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5784)
+
+El estado de los recursos pesqueros demersales en el mar Mediterráneo se encuentra en una situación precaria, estando la mayoría de los mismos clasificados como sobreexplotados por las principales evaluaciones científicas.
+
+A su vez, de estos recursos dependen de forma directa el trabajo y la actividad de los pescadores de la modalidad de arrastre de fondo y artes menores, así como un elevado número de personas dedicadas a actividades complementarias derivadas del ejercicio de esa actividad que se desarrollan en los distintos puertos y lonjas del área pesquera referida.
+
+Por consiguiente, las medidas de conservación de los recursos pesqueros aunque tengan una visión fundamentalmente biológica con el objeto de mejorar la situación de las poblaciones, deben de tener en cuenta también la situación socioeconómica de los colectivos que las explotan, como, por lo demás, exige la legislación pesquera.
+
+En el marco normativo europeo, el Reglamento (CE) n.º 1967/2006 del Consejo de 21, de diciembre de 2006, relativo a las medidas de gestión para la explotación sostenible de los recursos pesqueros en el mar Mediterráneo y por el que se modifica el Reglamento (CE) n.º 2847/93 y se deroga el Reglamento (CE) n.º 1626/94, establece, en su artículo 19, que los Estados miembros aprobarán planes de gestión plurianuales en sus aguas territoriales para determinadas poblaciones pesqueras.
+
+En este sentido, el Reglamento (UE) n.º 1380/2013 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, sobre la Política Pesquera Común, por el que se modifican los Reglamentos (CE) n.º 1954/2003 y (CE) n.º 1224/2009 del Consejo y se derogan los Reglamentos (CE) n.º 2371/2002 y (CE) n.º 639/2004 del Consejo y la Decisión 2004/585/CE del Consejo, que fundamenta la PPC en el principio precautorio y el enfoque ecosistémico, para alcanzar los objetivos de explotación sostenible, establece en su parte III, entre otras cuestiones, los tipos de medidas de conservación aplicables y los principios, objetivos y contenido de los planes plurianuales que se regulen.
+
+Por su parte, mediante el Reglamento (UE) 2019/1022 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, por el que se establece un plan plurianual para la especies demersales en el Mediterráneo occidental y por el que se modifica el Reglamento (UE) n.º 508/2014, se da contenido y respuesta a lo dispuesto en los artículos 9 y 10 del citado Reglamento (UE) 1380/2013 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013. El modelo adoptado en este nuevo plan plurianual constituye un cambio sustancial con respecto del modelo de gestión aplicado hasta ahora en la gestión integral de los recursos pesqueros en el mar Mediterráneo, estableciendo, entre otras medidas, una reducción del esfuerzo pesquero en la modalidad de pesca de arrastre de fondo supeditada a la evolución de la situación de las poblaciones con objeto de lograr la mortalidad por pesca adecuada al rendimiento máximo sostenible con el objetivo puesto en 2025.
+
+Como indica su artículo 3, el plan se basará en un régimen de gestión del esfuerzo pesquero destinado a contribuir al logro de los objetivos de la PPC y en particular aplicará el criterio de precaución a la gestión pesquera, y tendrá como objetivo asegurar que la explotación de los recursos biológicos marinos vivos restablezca y mantenga las poblaciones de especies capturadas por encima de los niveles que puedan producir el rendimiento máximo sostenible, contribuyendo a eliminar los descartes, evitando y reduciendo todo lo posible las capturas no deseadas, y a que se cumpla la obligación de desembarque.
+
+El nuevo plan de gestión integral para la modalidad de pesca de arrastre de fondo adoptado en nuestro Derecho interno deberá ser, por tanto, coherente con el enfoque adoptado en el nuevo plan plurianual europeo aprobado mediante el citado Reglamento (UE) 2019/1022 del Parlamento Europeo y el Consejo, de 20 de junio de 2019.
+
+Para adaptar los nuevos requisitos y medidas técnicas establecidos en dicho Reglamento, se establecen como medidas principales un régimen de esfuerzo pesquero para los buques de la modalidad de arrastre de fondo basado en un máximo de días de actividad para la pesquería demersal de costa y la pesquería de profundidad, así como el establecimiento de zonas de veda para la flota de arrastre o de zonas de veda en la que se garantice la supervivencia de los juveniles de merluza.
+
+Con ello, se pretende alcanzar antes de 2025 los objetivos biológicos, así como de gestión de los recursos adecuados, de modo que se consiga que los puntos de referencia de mortalidad pesquera regresen a los límites aconsejables para una explotación sostenible de las poblaciones de las principales especies conforme a las previsiones establecidas en el citado Reglamento (UE) 2019/1022 del Parlamento Europeo y del Consejo de 20, de junio de 2019.
+
+Conforme al artículo 9.2 del citado Reglamento, es obligación de cada Estado miembro decidir un método de asignación del esfuerzo pesquero máximo admisible a buques o grupos de buques que enarbolen su pabellón. Se determina, además, que los Estados miembros aplicarán criterios transparentes y objetivos, incluidos aquellos de carácter medioambiental, social y económico, pudiéndose incluir, entre otros, el impacto de la pesca en el medio ambiente, el historial del cumplimiento, la contribución a la economía local y los niveles históricos de captura.
+
+Por su parte, y de modo complementario a lo anterior, en nuestro ordenamiento jurídico interno, la Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado, establece entre sus fines el de velar por la explotación equilibrada y responsable de los recursos pesqueros, favoreciendo su desarrollo sostenible y adoptar las medidas precisas para proteger, conservar y regenerar dichos recursos y sus ecosistemas, adaptando el esfuerzo de la flota a la situación de los mismos. En este sentido, la propia Ley reconoce en su exposición de motivos que «el régimen de acceso a los recursos pesqueros y el derecho constitucional a la libertad de empresa, están necesariamente limitados por la patente escasez de los recursos pesqueros que justifica la adopción por la Ley de medidas de limitación de la actividad pesquera, ya que, sin perjuicio de la consideración de los intereses individuales, el ordenamiento jurídico ha de garantizar y amparar el fin social común de los recursos pesqueros. Esta confrontación ente el derecho a pescar y la obligación del Estado de delimitar el contenido del derecho de propiedad en relación con cada tipo de bienes, conforme establecen los artículos 33, 40, 45, 128 y 130 de la Constitución, es el núcleo de la regulación de la actividad pesquera contenida en esta Ley. En principio, las posibilidades de pesca generadas por el buque en razón de su habitualidad en el caladero y de su idoneidad, son consecuencia de su inclusión en el censo correspondiente. Dicho derecho no conlleva la exclusividad en el aprovechamiento de los recursos».
+
+Conviene, por tanto, buscar un mecanismo que garantice que el consumo de los días de pesca asignados al Reino de España se realiza de forma racional. El artículo 27 de la Ley 3/2001, de 26 de marzo, otorga al Ministro de Agricultura, Pesca y Alimentación la posibilidad de proceder a la distribución de las posibilidades de pesca con la finalidad de mejorar la gestión y el control de la actividad, así como para favorecer la planificación empresarial. Los criterios que se prevén para dicho reparto son la habitualidad (actividad pesquera desarrollada históricamente, cifrada en volumen de capturas, esfuerzo de pesca, tiempo o presencia en zona, en cada caso), características técnicas y los demás parámetros del buque, así como otras posibilidades de pesca de que disponga, que optimicen la actividad del conjunto de la flota. Una vez aplicados estos parámetros se valorarán las posibilidades de empleo así como las condiciones socio-laborales de los trabajadores.
+
+Por ello, se procede a asignar el esfuerzo pesquero disponible mediante el uso de criterios contenidos en el citado artículo 27 de la Ley 3/2001, de 26 de marzo. Toda vez que el esfuerzo se agrupa por tipología de buques, las diferencias entre ellos en materia medioambiental son inexistentes al trabajar todos bajo similares parámetros, por lo que no procede incluir entre los criterios expresos los de carácter medioambiental dada su simetría en cada grupo. Teniendo en cuenta, además, la importancia del asociacionismo y el arraigo de estructuras de comercialización conjunta que existen a lo largo de la costa mediterránea española, se considera adecuado fomentar la posibilidad de hacer una gestión conjunta del esfuerzo por parte de las distintas entidades reconocidas en la Ley 3/2001, de 26 de marzo.
+
+Dado que la segmentación del esfuerzo por tamaño de eslora hace que las diferencias en cuanto al empleo medio por buque sean mínimas, el criterio principal que se justifica aplicar debe ser el del esfuerzo histórico, medido como el máximo de actividad en cualquiera de los años de referencia 2014-2018. De ese modo no se perjudicará a aquellos barcos que hayan tenido que estar parados en puerto por causas como averías mecánicas o enfermedad de miembros de su tripulación en algún momento durante alguno de los años de referencia, contribuyendo al empleo de criterios transparentes y objetivos a que insta la normativa europea, dando cumplimiento, al propio tiempo, a los mandatos del legislador nacional en este punto.
+
+Sin embargo, la menor actividad de ciertos buques en el periodo de años seleccionados como referencia (2014 a 2018) como consecuencia de vedas o paradas voluntarias acordadas por el sector, obliga a establecer dentro de la norma un mecanismo por el que se asigne un complemento a los buques que hubieran realizado esas paradas y por tanto presenten un menor esfuerzo total histórico frente a los que no hicieron parada alguna. De este modo se asegura la neutralidad en el empleo de los parámetros de reparto con respecto de quienes más contribuyeron a la recuperación del stock.
+
+Así mismo, se establece un máximo de asignación de 260 de días de pesca al año de actividad por buque en cualquier año del periodo comprendido entre 2014-2018 al ser esta cifra el resultado de faenar cinco días por semana y doce horas por día en la mar, conforme a lo establecido en el artículo 9 del Real Decreto 1440/1999, de 10 de septiembre, por el que se regula el ejercicio de la pesca con artes de arrastre de fondo en el caladero nacional del Mediterráneo. Sin embargo, la norma permite que en circunstancias excepcionales se autorice un horario mayor. Al respecto, este horario se ha modificado en varias ocasiones para permitir el acceso de los buques a caladeros alejados de la costa y conviene ahora generalizar esa ampliación para el acceso a caladero a más de 24 millas de la costa, así como de la flota de arrastre de Cartagena por la escasez de la plataforma cercana a dicho puerto, de modo que se favorezca el uso de las zonas de pesca más alejadas y poder así hacer uso de la posibilidad que otorga el Reglamento (UE) 2019/1022 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, repartiendo, al propio tiempo, el peso de la actividad en diversas localizaciones.
+
+En todo caso, en este momento se considera conveniente mantener la plena vigencia de la Orden APA/3238/2006, de 13 de octubre, por la que se establece un plan de pesca de arrastre de fondo en determinadas zonas del litoral surmediterráneo, de la Orden APA/1728/2005, de 3 de junio, por la que se regula la actividad de los buques de arrastre peninsulares que faenan en aguas profundas en los caladeros de las islas de Ibiza y Formentera, para continuar manteniendo sus objetivos, y de la orden ARM/3019/2011, de 3 de noviembre, por la que se establecen las disposiciones necesarias para regular la actividad de los buques de arrastre de fondo que operan en caladeros lejanos del Golfo de León, como normas especiales.
+
+Por otra parte, debido a que los objetivos del citado Reglamento están establecidos para ser alcanzados en 2025, y con el objetivo de mantener el equilibrio social y territorial de la flota de arrastre en el Mediterráneo durante el desarrollo de este plan, se justifica la total restricción de la transmisibilidad de días pesca, conforme ampara el artículo 28 de la Ley 3/2001, de 26 de marzo. Se trata, por lo tanto, de una medida que responde a la posibilidad de restringir las transmisiones de posibilidades en determinadas categorías o censos, y que permitirá una adaptación paulatina y equilibrada de la situación de partida a las nuevas exigencias.
+
+Por lo demás, en cumplimiento de lo dispuesto en el artículo 11 del citado Reglamento, este plan regula el establecimiento de cierres espacio-temporales para las flotas que utilicen artes de arrastre de fondo, anzuelos o enmalles dirigidas a la captura de las especies de merluza europea (*Merluccius merluccius*), gamba blanca (*Parapenaeus longirostris*), cigala (*Nephrops norvegicus*), salmonete de fango (*Mullus barbatus*), gamba roja del Mediterráneo (*Aristeus anntenatus*) y langostino moruno (*Aristaeomorpha foliacea*).
+
+Las coordenadas de dichas zonas se refieren al Datum WGS 84, equivalente al ETSR 89, debido a que la cartografía náutica oficial está referida a WGS 84, y ello aporta una mayor precisión al ser el mismo de la cartografía náutica de la zona.
+
+A la vista de la situación expuesta, se hace necesario elaborar un nuevo Plan de Gestión para la conservación de los recursos pesqueros en el mar Mediterráneo, incluyendo al mismo tiempo nuevas medidas respecto al vigente plan para la conservación de las especies y limitación del esfuerzo establecido en la Orden AAA/2808/2012, de 21 de diciembre, por la que se establece un Plan de Gestión Integral para la conservación de los recursos pesqueros en el Mediterráneo afectados por las pesquerías realizadas con redes de cerco, redes de arrastre y artes fijos y menores, para el período 2013-2017 (que se ha venido prorrogando en los últimos ejercicios), que permita lograr en la fecha prevista los objetivos señalados y singularmente que los puntos de referencia biológica de las principales poblaciones regresen a unos límites seguros y se exploten de una manera sostenible conforme a lo dispuesto en la normativa europea de referencia, todo ello sin olvidar la necesaria estabilidad social y económica que debe mantener el sector que profesionalmente ejerce esta actividad.
+
+En su tramitación se ha recabado informe del Instituto Español de Oceanografía. Asimismo, se ha efectuado el trámite de consulta a las comunidades autónomas con litoral en el mar Mediterráneo y al sector pesquero afectado.
+
+Se ha efectuado el trámite de comunicación a la Comisión Europea previsto en los apartados 2 y 7 del artículo 19 del Reglamento (CE) n.º 1967/2006 del Consejo, de 21 de diciembre de 2006, relativo a las medidas de gestión para la explotación sostenible de los recursos pesqueros en el mar Mediterráneo.
+
+Asimismo, en cumplimiento de lo previsto en el artículo 26.6 de la Ley 50/1997, de 27 de noviembre, del Gobierno, este proyecto se ha sometido al procedimiento de audiencia e información públicas.
+
+Esta norma se adecua a los principios de buena regulación a que se refiere el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En este sentido, se garantizan los principios de necesidad y eficacia puesto que la norma resulta el instrumento más indicado para los intereses que se persiguen, siendo el principal la regulación del esfuerzo pesquero en las pesquerías de arrastre en las áreas de pesca delimitadas en esta norma; el principio de proporcionalidad ya que contiene la regulación imprescindible para atender a las necesidades que se pretenden cubrir; y el principio de seguridad jurídica ya que es coherente con el resto del ordenamiento jurídico nacional y de la Unión Europea, asegurando su correcta incardinación y cohonestación con el resto de la regulación existente en la materia, lo que a su vez permite cumplir con las obligaciones adquiridas por el Reino de España «ad extra». Por lo demás, la norma es coherente con los principios de eficiencia, en tanto que la norma asegura la máxima eficacia de sus postulados con los menores costes posibles inherentes a su aplicación, y transparencia al haberse garantizado una amplia participación en su elaboración.
+
+La presente orden se dicta en virtud del artículo 31 de la Ley 3/2001, de 26 de marzo, y de la disposición final segunda del Real Decreto 1440/1999, de 10 de septiembre, por el que se regula la pesca con artes de arrastre de fondo en el caladero nacional del Mediterráneo.
+
+En su virtud, con la aprobación previa de la Ministra de Política Territorial y Función Pública y de acuerdo con el Consejo de Estado, dispongo:
+
+## Artículo 1. Objeto.
+
+El objeto de la presente orden es establecer un plan de gestión para la conservación de los recursos demersales del mar Mediterráneo a través de la gestión y asignación del esfuerzo pesquero en las pesquerías de la modalidad de arrastre de fondo, así como el establecimiento de cierres espacio-temporales para las flotas que utilicen artes de arrastre de fondo, anzuelos o enmalles dirigidas a la captura de las especies de merluza europea (*Merluccius merluccius*), gamba blanca (*Parapenaeus longirostris*), cigala (*Nephrops norvegicus*), salmonete de fango (*Mullus barbatus*), gamba roja del Mediterráneo (*Aristeus anntenatus*) y langostino moruno (*Aristaeomorpha foliacea*).
+
+Igualmente, se aplicará a las capturas accesorias efectuadas al pescar las especies mencionadas y a cualquier otra especie demersal capturada en esa zona y complementaria a las ya existentes, con el objeto de reducir la mortalidad por pesca.
+
+## Artículo 2. Ámbito de aplicación.
+
+1\. Todas las medidas contenidas en esta orden serán de aplicación a todos los buques de pabellón español autorizados a ejercer la pesca de arrastre de fondo en el Mediterráneo.
+
+2\. Tales medidas se aplicarán a los buques señalados en el apartado 1 que faenen dentro de las subdivisiones geográficas de la Comisión General de Pesca del Mediterráneo (zonas GSA) 1, 2, 5, 6 y 7, sea en aguas españolas o fuera de ellas cuando puedan hacerlo gracias a la normativa vigente.
+
+3\. En el caso de los buques de pabellón español autorizados para ejercer la pesca con artes de anzuelo y enmalles dirigidas a la captura de especies demersales, solo se aplicarán las medidas establecidas en los artículos 3, 11, 12, 13 y 17 de la presente orden.
+
+4\. Se excluye del ámbito de aplicación de esta orden a las zonas GSA 8, 9, 10 y 11, en las que no está permitido faenar a buques de la modalidad de arrastre de fondo de pabellón español.
+
+5\. En el caso de los buques que ejerzan la pesca recreativa solo le serán de aplicación las medidas establecidas en los artículos 3, 11, 13 y 17.
+
+> Se añade el apartado 5 por el art. único.1 de la Orden APA/241/2023, de 3 de marzo. [Ref. BOE-A-2023-6444](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6444)
+
+## Artículo 3. Puntos de referencia biológicos y de conservación.
+
+Según lo establecido en los artículos 4 y 5 del Reglamento (UE) 2019/1022 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, por el que se establece un plan plurianual para la especies demersales en el Mediterráneo occidental y por el que se modifica el Reglamento (UE) n.º 508/2014, los intervalos de valor F<sub>RMS</sub>, los puntos de referencia de precaución, expresados en biomasa de la población reproductora (B<sub>pa</sub>) y los puntos de referencia límites, expresados en biomasa de la población reproductora (B<sub>lim</sub>), se establecerán por el Comité Científico Técnico y Económico de la Pesca u otro organismo científico independiente similar reconocido a escala internacional o de la Unión Europea y deberán alcanzar el valor de rendimiento máximo sostenible en 2025.
+
+## Artículo 4. Días de pesca para la flota del censo de arrastre de fondo en el Mediterráneo.
+
+1\. Se considera día de pesca cualquier período consecutivo de veinticuatro horas o parte de dicho período durante el cual el buque está ausente del puerto, conforme a lo dispuesto en el artículo 2 del Reglamento (UE) 2019/1022 del Parlamento Europeo y del Consejo, de 20 de junio de 2019.
+
+2\. A efectos del cómputo de días de pesca realizados, quedan excluidas aquellas actividades de acompañamiento de otros buques, aquellos días en los que el buque ejerza actividad pesquera en el marco de un proyecto de investigación y aquellas actividades que puedan ser incluidas como exenciones en el régimen de esfuerzo, indicadas en el artículo 29 del Reglamento (CE) núm. 1224/2009 del Consejo, de 20 de noviembre de 2009, por el que se establece un régimen comunitario de control para garantizar el cumplimiento de las normas de la política pesquera común, que son, tránsitos por la zona de esfuerzo con los artes de pesca amarrados y estibados, salidas de puerto con fines distintos a actividad pesquera, sin llevar artes ni pescado a bordo y los supuestos de una emergencia que suponga que el buque no haya podido pescar una vez iniciada la marea, por estar prestando asistencia a otro buque pesquero que precise ayuda urgente o por estar transportando a una persona herida que precise atención médica urgente.
+
+3\. Cada día de pesca computado se clasificará como día de pesca de costera mixta o de profundidad atendiendo bien a la composición de capturas que figure en la declaración de desembarque del diario electrónico de a bordo (DEA) o en el diario en formato papel en los casos que proceda, bien conforme a la nota de venta de ese día, bien según los datos que proporcione el sistema de localización de buques (VMS), dependiendo de la eslora del buque, o bien conforme a cualquier otro medio probatorio que derive de cualesquiera otras obligaciones para ejercer la actividad a que se sujete el concreto buque, conforme a las siguientes reglas:
+
+a) En el caso de capturarse más del 20 %, en kg de peso vivo, independientemente de la cantidad capturada de especies de profundidad, esto es la gamba roja del Mediterráneo (*Aristeus anntenatus*) y el langostino moruno (*Aristaeomorpha foliacea*), en la composición de capturas, se contabilizará un día a la pesquería de profundidad.
+
+b) En el caso de capturarse del 5 % al 20 %, en kg de peso vivo, o al menos 10 kg, de especies de profundidad, esto es, la gamba roja del Mediterráneo (*Aristeus anntenatus*) y el langostino moruno (*Aristaeomorpha foliacea*), se computará medio día a la pesquería de profundidad y medio día a la pesquería de costera.
+
+c) En el caso de capturarse menos del 5 %, en kg de peso vivo, y menos de 10 kg, de especies de profundidad, es decir, la gamba del Mediterráneo (*Aristeus anntenatus*) y el langostino moruno (*Aristaeomorpha foliacea*), se computará como un día asignado a la pesquería de costera.
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden APA/731/2026, de 7 de julio. [Ref. BOE-A-2026-15552](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15552)
+
+> Se modifican los apartados 1 y 2 por el art. único.2 de la Orden APA/241/2023, de 3 de marzo. [Ref. BOE-A-2023-6444](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6444)
+
+## Artículo 5. Asignación de días de pesca.
+
+1\. El régimen de gestión de esfuerzo pesquero estará basado en el esfuerzo total permitido para todos los buques de la modalidad de arrastre de fondo del caladero Mediterráneo en función de su actividad pesquera desarrollada históricamente.
+
+2\. La base del cálculo de la asignación se realizará de forma anual en función de la cifra de días de pesca atribuidos al Reino de España por el Consejo de la Unión Europea, mediante la adopción del correspondiente Reglamento.
+
+Dichos días, conforme a lo establecido en el Reglamento (UE) 2019/1022, del Parlamento Europeo y del Consejo, de 20 de junio de 2019, estarán estratificados por segmentos de eslora de los buques y clasificados en función de la pesquería de especies costeras demersales (*Merluccius merluccius, Nephrops norvegicus, Parapenaeus longilostris*y*Mullus barbatus*) y de especies de profundidad (*Aristeus antennatus*y*Aristaeomorpha foliacea*).
+
+En cumplimiento de lo dispuesto en el artículo 7 del mencionado Reglamento, el anexo I recoge los datos de referencia del esfuerzo pesquero total permitido para cada segmento de eslora y pesquería, correspondientes a la media del periodo 2015-2017, que sirven de valor de referencia para el cálculo del esfuerzo pesquero máximo admisible en el Reino de España.
+
+3\. Los días totales de pesca de los que disponga el Reino de España cada año se asignarán del siguiente modo, de acuerdo con lo dispuesto en el artículo 27.3 de la Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado:
+
+a) Inicialmente, se llevará a cabo el reparto del 90% de los días totales asignados al Reino de España por el Consejo de la Unión Europea a través de la adopción del correspondiente reglamento. Este 90% se repartirá atendiendo a los siguientes criterios:
+
+1.º Un 92 % se asignará de forma proporcional a la actividad de los buques. Para ello, se considerará para cada buque el número máximo de días de actividad en cualquier año del periodo 2014-2018, con un máximo de 260 días al año.
+
+2.º El 8 % restante se asignará de forma proporcional a las paradas temporales u otras paradas voluntarias de la actividad pesquera realizadas por los buques durante los años 2014-2018. Se considerará la suma de todos los días realmente parados en ese periodo.
+
+b) La asignación de días que corresponde a cada buque o grupo de buques conforme a la letra a) se dividirá entre las pesquerías de costera y de profundidad conforme a la normativa comunitaria. Para ello, se separarán los días totales asignados a cada buque entre ambas pesquerías, costera y profundidad, de acuerdo con la proporción de su actividad entre ambas en los años 2019 y 2020.
+
+Los buques que no hayan faenado en alguna de las dos pesquerías durante el periodo que se toma como referencia para definir el perfil, no tendrán asignación de días para dicha pesquería, de tal forma que el total de sus días serán asignados a la pesquería en la que conste que han realizado la actividad pesquera.
+
+c) Con objeto de ajustar la asignación de días de pesca a la actividad real, los buques que lo deseen podrán, para cada año, renunciar a días de alguna de las dos pesquerías (costera o profundidad), de tal forma que el total de sus días serán asignados a la otra pesquería de la pesquería a la que se renuncia. Esta solicitud se puede efectuar según el modelo normalizado de solicitud indicado en el anexo II, en el caso de aquellos buques que soliciten gestión conjunta conforme el artículo 6, o comunicándolo expresamente a la Dirección General de Pesca Sostenible, en el caso de aquellos buques que decidan gestionar sus días de forma individual.
+
+Los interesados dirigirán la solicitud a la Dirección General de Pesca Sostenible, indicando que desean renunciar a alguno de los dos tipos de pesquerías para ese mismo año. Los sujetos a que se refiere el artículo 14.2 de la Ley 39/2015, de 1 de octubre, deberán presentar su solicitud en el registro electrónico accesible a través de la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación. Asimismo, conforme a lo dispuesto en el artículo 14.3 de la Ley 39/2015, de 1 de octubre, los sujetos no obligados presentarán asimismo sus solicitudes en el registro electrónico disponible en la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación.
+
+El reconocimiento de la solicitud se llevará a cabo mediante la resolución anual de la Secretaría General de Pesca de asignación de los días de pesca entre los buques y grupos de buques.
+
+Contra la resolución del procedimiento, que no agota la vía administrativa, podrá interponerse recurso de alzada ante el Ministro de Agricultura, Pesca y Alimentación, en el plazo máximo de un mes, contado a partir del día siguiente al de su publicación, o en cualquier momento a partir del día siguiente a aquel en que transcurriera el plazo para resolver y notificar, de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+d) Un 3 % de los días totales asignados al Reino de España anualmente se empleará para incentivar el uso de dispositivos de arrastre con puertas voladoras.
+
+Para participar en el reparto de este 3 %, los armadores de los buques que así lo deseen deberán presentar a la Dirección General de Pesca Sostenible una declaración responsable en la que se comprometan a utilizar un dispositivo de arrastre con puertas voladoras a una determinada fecha en cada año.
+
+Dicho porcentaje se asignará linealmente, en cada tramo de eslora y tipo de pesquería de arrastre, costera o profundidad, entre aquellos buques en relación con los cuales se hubiese presentado la declaración responsable. En la resolución anual de la Secretaría General de Pesca de asignación de días de pesca se identificará la lista de buques objeto de dicho reparto.
+
+El cumplimiento de este compromiso por parte de los responsables de los buques será objeto de comprobación por parte de los servicios de inspección de la Secretaría General de Pesca, así como, en su caso, del resto de agentes competentes en materia de control de cumplimiento de la normativa pesquera.
+
+La tenencia a bordo o el uso de un arte de arrastre que no presente estas puertas voladoras por parte de los buques que hayan presentado su compromiso dará lugar a la pérdida de los días de pesca que le hayan sido asignados conforme al reparto mencionado en el párrafo anterior, que aún no hayan consumido, y sin perjuicio de las posibles sanciones que puedan imponerse de acuerdo con lo previsto en el título V de la Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado.
+
+En caso de que la asignación lineal mencionada, sumada a la asignación proveniente del apartado a), supere para un buque los 260 días anuales, dicha asignación lineal será disminuida hasta alcanzar dicha cifra. En caso de sobrante de la asignación de este 3 % en algún tramo de eslora, hechos los cálculos señalados en esta letra d), dichos días de pesca se sumarán a la asignación llevada a cabo bajo el punto a).
+
+e) El 7 % restante de los días totales asignados al Reino de España por el Consejo de la Unión Europea, a través de la adopción del correspondiente reglamento, se dejarán como reserva.
+
+Dicha reserva tendrá por objeto cubrir una eventual asignación de días a aquellos posibles buques que entren en funcionamiento, bien porque estando en situación de baja provisional a fecha de 1 de enero de cada año se reactiven, o bien porque se den de alta por nueva construcción a partir de una baja. Para ello, antes del 31 de mayo del año del periodo de gestión deberán comunicar a la Dirección General de Pesca Sostenible dicha reactivación o entrada en funcionamiento, y su asignación se realizará teniendo en cuenta los criterios del apartado a) correspondientes al propio buque que se reactiva o al buque al que substituyen, incluyendo en lo que respecta al número máximo de días de actividad, así como paradas realizadas en el periodo 2014-2018.
+
+A los buques inscritos en el censo de arrastre de fondo en el Mediterráneo que se encuentren en situación de baja provisional y que no tengan actividad pesquera desarrollada históricamente en el periodo de referencia, o aquellos buques de nueva construcción que substituyeran a buques de baja definitiva sin actividad en dicho periodo, se les asignará como histórico el máximo el de los tres años anteriores más próximos al periodo de referencia 2014-2018, así como se computarán las paradas realizadas en ese mismo periodo.
+
+Una vez que se hayan asignado días de la reserva a los buques que o se hayan reactivado o hayan entrado en funcionamiento, de acuerdo a lo establecido en los párrafos anteriores, si siguen quedando días disponibles de cada una de las dos pesquerías (costera o de profundidad) se redistribuirán a partir del 1 de julio de cada año a las diferentes entidades asociativas que realicen la actividad en modelo gestión conjunta con la siguiente proporción: Un 30 % en idéntica proporción respecto al número existente de entidades y un 70 % en función del número de buques que las conforman.
+
+f) Los días de pesca asignados a los buques que causen baja provisional o definitiva pasarán automáticamente a formar parte de la reserva regulada en el apartado e).
+
+g) Si se produjera una asignación adicional de días de pesca por parte de la Unión Europea como consecuencia del cumplimiento de las condiciones establecidas en el denominado mecanismo de compensación u otras disposiciones, estos se asignarán a los buques que cumplan con dichas condiciones y siguiendo los criterios de la letra a).
+
+> Se modifica la letra d) y el primer párrafo de la letra e) de apartado 3 por el art. único.1 de la Orden APA/312/2025, de 31 de marzo. [Ref. BOE-A-2025-6576](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6576)
+
+> Se modifica el apartado 3 por el art. único.3 de la Orden APA/241/2023, de 3 de marzo. [Ref. BOE-A-2023-6444](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6444)
+
+> Redactada la letra d) conforme a la corrección de errores publicada por Orden APA/288/2023, de 16 de marzo. [Ref. BOE-A-2023-7725](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7725)
+
+## Artículo 6. Solicitud de la gestión conjunta de los días de pesca.
+
+1\. Las cofradías de pescadores, asociaciones de armadores, organizaciones de productores pesqueros y otras entidades representativas del sector pesquero, reconocidas al amparo de la Ley 3/2001, de 26 de marzo, podrán solicitar la gestión conjunta de los días de pesca asignados a sus respectivos buques asociados con carácter anual.
+
+Dentro de una misma entidad de gestión conjunta, se permite también la creación de subgrupos.
+
+Cada subgrupo que se pudiera crear dentro de una entidad de gestión conjunta tiene que estar formado por buques de un mismo tramo de eslora y al menos debe estar conformado por un mínimo de dos buques, salvo que no hubiera originalmente más de un buque en dicha gestión conjunta y tramo de eslora.
+
+2\. Para poder realizar la gestión conjunta, así como la creación de subgrupos dentro de la gestión conjunta, los interesados deberán cumplimentar la solicitud conforme al modelo normalizado indicado en el anexo II, indicando la relación de buques que forman parte de su asociación, así como los subgrupos, en caso de que los haya conforme al procedimiento descrito en el artículo 5.3.c), antes del 23 de diciembre del año anterior correspondiente.
+
+Aquellos que estén interesados en gestionar sus días de forma individual, no será necesario que cursen ninguna solicitud a la Dirección General de Pesca Sostenible del Ministerio de Agricultura, Pesca y Alimentación.
+
+3\. La gestión conjunta supondrá, en todo caso, el seguimiento global anual del consumo de los días de pesca asignados a la entidad asociativa solicitante llevado a cabo por parte de sus buques asociados.
+
+> Se modifica por el art. único.4 de la Orden APA/241/2023, de 3 de marzo. [Ref. BOE-A-2023-6444](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6444)
+
+## Artículo 7. Listado anual de asignación de los días de pesca.
+
+1\. La Secretaría General de Pesca publicará en la página web del Departamento, antes del 15 de enero de cada año, una resolución provisional con el listado de días de pesca asignados a cada buque o grupo de buques, clasificados por segmentos de eslora y para ambas pesquerías, costera mixta y de profundidad.
+
+En el caso de que los buques opten por gestionar sus días de forma conjunta, se sumarán los días con los que cada uno contribuye a dicha gestión, para cada una de las dos pesquerías, figurando en la resolución de asignación una única cifra para dicha entidad de gestión conjunta, o para los subgrupos que se encuentren bajo ella, así como el nombre de los buques que la componen.
+
+Aquellos buques que no se encuentren en los listados presentados por las entidades y asociaciones mencionadas en el artículo 6 se incluirán de oficio como asignados a una gestión de forma individual en la citada resolución.
+
+2\. Durante los quince días posteriores a la publicación de la resolución provisional, los interesados, tanto individuales como las entidades solicitantes del modelo de gestión conjunta conforme a lo dispuesto en el artículo 6, podrán modificar su solicitud.
+
+Transcurrido el plazo de quince días, la Secretaría General de Pesca publicará en el «Boletín Oficial del Estado» la resolución definitiva con el listado de días de pesca asignados a cada buque o grupo de buques.
+
+3\. Contra la resolución definitiva, que no pone fin a la vía administrativa, podrá interponerse recurso de alzada ante el Ministro de Agricultura, Pesca y Alimentación en el plazo máximo de un mes, contado a partir del día siguiente a la publicación, de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+Podrá entenderse desestimado el recurso interpuesto cuando transcurrido el plazo máximo de tres meses para dictar y notificar la resolución del recurso no haya recaído resolución, conforme a lo dispuesto en el artículo 122 de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica el apartado 1 por el art. único.5 de la Orden APA/241/2023, de 3 de marzo. [Ref. BOE-A-2023-6444](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6444)
+
+## Artículo 8. Restricción en la transmisibilidad de los días de pesca para la flota de arrastre de fondo en el Mediterráneo.
+
+1\. Conforme a la posibilidad que otorga el artículo 28.1.c) de la Ley 3/2001, de 26 de marzo, se restringe totalmente la transmisión de días de pesca entre buques, independientemente de su modelo de gestión, conjunta o individual, y tanto de forma temporal como definitiva, de modo que no se autorizará ninguna de ellas
+
+2\. Previa comunicación conforme al apartado 5, los días asignados en gestión conjunta a un grupo de buques de los mencionados en el artículo 6 podrán disfrutarse por cualquiera de los buques del grupo, aun en el caso de que estén en tramos de eslora diferentes, aunque para ello deberán respetar las ratios de conversión entre los segmentos de eslora fijados en el anexo IV.
+
+3\. Previa comunicación conforme al apartado 5, se permite la conversión de días entre subgrupos del mismo tramo de eslora dentro de una misma entidad de gestión conjunta.
+
+4\. Previa comunicación conforme al apartado 5, los días asignados de una pesquería, de profundidad o costera, tanto a las entidades de gestión conjunta como a aquellos buques que han optado por la gestión individual, pueden convertirse a la otra pesquería, de profundidad o costera, aplicando los factores de conversión establecidos en el anexo V.
+
+5\. Conforme a los apartados 2, 3 y 4, tanto para comunicar la conversión entre segmentos de eslora, como para comunicar la conversión entre diferentes pesquerías, los interesados deberán presentar un escrito que deberán dirigir a la Dirección General de Ordenación Pesquera y Acuicultura del Ministerio de Agricultura, Pesca y Alimentación, motivando la concurrencia de los requisitos exigidos en dichos apartados. Dichas comunicaciones se dirigirán por medios electrónicos a la Dirección General de Pesca Sostenible, a través de la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación.
+
+Los sujetos a que se refiere el artículo 14.2 de la Ley 39/2015, de 1 de octubre, deberán presentar tal comunicación en el registro electrónico accesible a través de la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación. Asimismo, conforme a lo dispuesto en el artículo 14.3 de la Ley 39/2015, de 1 de octubre, los sujetos no obligados presentarán, asimismo, sus comunicaciones en el registro electrónico disponible en la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación.
+
+> Se modifica por el art. único.6 de la Orden APA/241/2023, de 3 de marzo. [Ref. BOE-A-2023-6444](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6444)
+
+## Artículo 9. Mecanismo de optimización anual de los días de pesca asignados.
+
+1\. Si a fecha 1 de octubre existieran días de pesca disponibles, dichos días podrán asignarse a través del denominado mecanismo de optimización anual.
+
+Por días disponibles de pesca se entenderán aquéllos que resulten de la diferencia entre los días de pesca que anualmente tengan asignados los buques o grupos de buques y todavía no hayan utilizado a 1 de octubre, y los días de pesca que dicho buque o grupo de buques realmente pueda llegar a utilizar entre el 1 de octubre y el 31 de diciembre, de acuerdo con la regulación relativa a los días máximos de actividad semanales.
+
+2\. La asignación de los días disponibles del mecanismo de optimización anual se llevará a cabo desagregadamente para cada segmento de eslora, e internamente en cada uno de ellos en función de la asignación relativa con la que cada buque o grupo de buques participa en su segmento de eslora en el reparto inicial del 90% de los días según el artículo 5, apartados a) a d).
+
+Si se diera el caso de que a algún buque le correspondan más días de pesca que aquellos necesarios para terminar el año, una vez sumados los días disponibles más los que se le asignarían por el presente mecanismo de optimización anual, esos días sobrantes se repartirán entre el resto de buques que necesiten días de pesca para terminar el año de acuerdo a lo descrito en el párrafo anterior.
+
+3\. La Secretaría General de Pesca publicará, a partir del 1 de octubre, en su caso, mediante resolución en el "Boletín Oficial del Estado", la asignación de los días disponibles entre los buques o grupos de buques que hayan agotado la totalidad de sus días anuales o cuyos días disponibles a esa fecha no sean suficientes para faenar según el máximo permitido de actividad semanal hasta el 31 de diciembre de ese año.
+
+Contra dicha resolución, que no agota la vía administrativa, podrá interponerse recurso de alzada ante el Ministro de Agricultura, Pesca y Alimentación, en el plazo máximo de un mes, contado a partir del día siguiente al de su publicación, de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+4\. Debido a que los días disponibles hasta final de año pueden ir variando a partir del cálculo y resolución inicial, dependiendo de los consumos que se vayan registrando, se llevarán a cabo revisiones cada dos semanas para recalcular los días disponibles, así como las asignaciones de estos días en función de la situación de cada buque o grupo de buques.
+
+> Se modifica por el art. único.7 de la Orden APA/241/2023, de 3 de marzo. [Ref. BOE-A-2023-6444](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6444)
+
+## Artículo 10. Tiempo de permanencia en la mar.
+
+1\. Se autoriza a aquellos buques de arrastre que faenen a más de 24 millas de la costa a permanecer hasta quince horas por día en la mar. Para ello deberán ejercitar al menos el 70 % del tiempo de la actividad pesquera de ese día en zonas que se encuentren a esa distancia mínima.
+
+2\. Esta medida no podrá aplicarse en las zonas reguladas por la Orden APA/1728/2005, de 3 de junio, por la que se regula la actividad de los buques de arrastre peninsulares que faenan en aguas profundas de los caladeros de las islas de Ibiza y Formentera, que mantiene su vigencia.
+
+3\. Durante los meses de julio, agosto, septiembre y diciembre se autoriza excepcionalmente a los buques de arrastre con puerto base en Cartagena, cuando salgan de dicho puerto y regresen al mismo, a permanecer hasta quince horas por día en la mar cuando faenen al oeste del meridiano 0° 15′ 00″ W y entre los paralelos 37° 33′ 00″ N y 37° 47′ 00″ N.
+
+> Se modifica el apartado 3 por el art. único.8 de la Orden APA/241/2023, de 3 de marzo. [Ref. BOE-A-2023-6444](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6444)
+
+## Artículo 10 bis. Tallas mínimas.
+
+1\. En el ámbito de aplicación de la presente orden se deberán respetar las tallas mínimas de referencia de conservación previstas en el anexo IX del Reglamento (UE) 2019/1241, del Parlamento Europeo y del Consejo, así como las previstas en el anexo II del Real Decreto 560/1995, de 7 de abril, por el que se establecen las tallas mínimas de determinadas especies pesqueras.
+
+2\. Sin perjuicio de lo dispuesto en el apartado 1, se establecen las siguientes tallas mínimas de referencia de conservación en el ámbito de aplicación de la presente orden:
+
+a) Gamba roja del Mediterráneo *(Aristeus antennatus)* se fija en 25 mm de longitud cefalotorácica (CL).
+
+b) Cigala *(Nephrops norvegicus)* se fija en 25 mm de longitud cefalotorácica (CL).
+
+3\. Las especies indicadas en el apartado 2 del presente artículo estarán sujetas a la regulación de la obligación de desembarque y sus excepciones, conforme a lo dispuesto en el artículo 15 del Reglamento (UE) No 1380/2013, del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, sobre la Política Pesquera Común, y su normativa europea y nacional de desarrollo.
+
+> Téngase en cuenta que los apartados 2 y 3, añadidos por el art. único.2 de la Orden APA/312/2025, de 31 de marzo, [Ref. BOE-A-2025-6576](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6576), entran en vigor el 1 de junio de 2025, según determina su disposición final única.
+
+> Se añade por el art. único.2 de la Orden APA/312/2025, de 31 de marzo. [Ref. BOE-A-2025-6576](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6576)
+
+> Téngase en cuenta que los apartados 2 y 3 entran en vigor el 1 de junio de 2025, según establece su disposición final única.
+
+## Artículo 10 ter. Implantación de copos con mallas cuadradas de tamaño mínimo de 45 milímetros para pesquería de costera y de tamaño mínimo de 50 milímetros para pesquería de profundidad.
+
+1\. Con objeto de mejorar la selectividad de los artes de arrastre en el Mediterráneo, se establecen las siguientes medidas:
+
+a) Para los buques que realicen pesquería de costera, la obligatoriedad de utilizar una red de arrastre con tamaño mínimo de malla cuadrada de 45 milímetros en el copo.
+
+b) Para los buques que realicen pesquería de profundidad, la obligatoriedad de utilizar una red de arrastre con tamaño mínimo de malla cuadrada de 50 milímetros en el copo.
+
+En ambos casos, será de aplicación lo dispuesto en el artículo 16 del Real Decreto 502/2022, de 27 de junio, por el que se regula el ejercicio de la pesca en los caladeros nacionales.
+
+2\. Aquellos buques que realicen pesquería mixta (costera y profundidad), deberán utilizar el copo de la red de arrastre que cumpla con la malla mínima del tipo de pesquería que realicen en esa marea, de manera que los copos de la red de arrastre que no se puedan utilizar deberán ir correctamente estibados a bordo.
+
+3\. El cumplimiento de esta obligación será objeto de comprobación por parte de los servicios de inspección de la Secretaría General de Pesca, así como, en su caso, del resto de agentes competentes en materia de control de cumplimiento de la normativa pesquera.
+
+4\. La Administración certificará todos los aparejos que en el momento de la inspección cumplan con las dimensiones mínimas exigidas. Para ello los sujetos a que se refiere el artículo 14.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, deberán presentar su solicitud, dirigida a la Delegación o Subdelegación de Gobierno correspondiente, por medios electrónicos en el registro electrónico accesible en la sede electrónica asociada del Ministerio de Política Territorial y Memoria Democrática. Quienes no estén sujetos al cumplimiento de esta obligación prevista en el artículo 14.2 podrán presentar su solicitud en cualquiera de los lugares establecidos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre.
+
+La certificación será realizada por la Administración tras la medición por parte de los inspectores de pesca, que harán una comprobación in situ. Si el aparejo cumple con los requisitos técnicos, se marcará con al menos 4 precintos el copo y desde la Administración se hará entrega de un certificado donde conste la fecha de la actuación. Esta certificación tendrá una validez de un año. Una vez con el certificado expedido, los servicios de inspección pesquera podrán verificar la disposición de los precintos, pero no será necesario realizar una segunda medición.
+
+Los buques que ya tengan instaladas las redes preceptivas también podrán solicitar la certificación, con el mismo periodo de validez.
+
+> Téngase en cuenta que los apartados 1 y 2, añadidos por el art. único.3 de la Orden APA/312/2025, de 31 de marzo, [Ref. BOE-A-2025-6576](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6576), entran en vigor el 1 de junio de 2025, según determina su disposición final única.
+
+> Se añade por el art. único.3 de la Orden APA/312/2025, de 31 de marzo. [Ref. BOE-A-2025-6576](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6576)
+
+> Téngase en cuenta que los apartados 1 y 2 entran en vigor el 1 de junio de 2025, según establece su disposición final única.
+
+## Artículo 11. Cierres espacio-temporales para la protección de los recursos pesqueros demersales.
+
+1\. Con objeto de cumplir con lo dispuesto en el artículo 11 del Reglamento (UE) 2019/1022 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, en el que se regulan las zonas de veda, y el artículo 12 de la Ley 3/2001, de 26 de marzo, en el anexo III se establecen las coordenadas de los polígonos y los periodos de veda de los mismos.
+
+2\. La veda se establecerá para todos los buques pesqueros que utilicen artes de arrastre y, en su caso, para anzuelos o enmalles para la captura de especies demersales.
+
+## Artículo 12. Paradas temporales.
+
+De acuerdo con lo previsto en el artículo 19 del Reglamento (UE) 2019/1022 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, las medidas de paralización temporal adoptadas para lograr los objetivos del plan se considerarán una paralización temporal de las actividades pesqueras a efectos del artículo 33.1.a) y c) del Reglamento (UE) 508/2014 del Parlamento Europeo y del Consejo, de 15 de mayo de 2014, relativo al Fondo Europeo Marítimo y de Pesca, y por el que se derogan los Reglamentos (CE) n.º 2328/2003, (CE) n.º 861/2006, (CE) n.º 1198/2006 y (CE) n.º 791/2007 del Consejo, y el Reglamento (UE) n.º 1255/2011 del Parlamento Europeo y del Consejo.
+
+## Artículo 13. Seguimiento, vigilancia, control y evaluación del plan de gestión.
+
+1\. El plan de gestión se aplicará desde la entrada en vigor de la presente orden y se evaluará antes del 31 de diciembre de 2025 para proceder, en su caso, a su modificación en función del contenido de los indicadores que sobre los objetivos marcados contengan los informes científicos disponibles.
+
+2\. Para el control y seguimiento de los días de pesca asignados en virtud de la presente orden, la Dirección General de Ordenación Pesquera y Acuicultura se basará en los datos recopilados del sistema de localización de buques vía satélite, los diarios de pesca y las notas de venta. A tal efecto, y como continuación de los anteriores planes de gestión, todos los buques del censo de arrastre de fondo del Mediterráneo continuarán con el sistema de localización de buques vía satélite instalado a bordo y operativo, independientemente de su eslora.
+
+> Se modifica por el art. único.9 de la Orden APA/241/2023, de 3 de marzo. [Ref. BOE-A-2023-6444](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6444)
+
+## Artículo 14. Cese de la actividad en caso de agotamiento de los límites de esfuerzo pesquero.
+
+1\. Con independencia de que la gestión sea individual o conjunta, una vez agotado el esfuerzo pesquero asignado según los criterios de cómputo del artículo 4, los buques deberán cesar la actividad de pesca dirigida a la pesquería en cuestión.
+
+2\. En caso de gestión conjunta, las entidades representativas a la que se refiere el artículo 6 serán responsables de garantizar que todos los buques incluidos en la unidad de gestión conjunta ajustan su actividad pesquera al esfuerzo asignado.
+
+En este sentido, deberán controlar del consumo realizado por cada uno de ellos conforme a los ratios de conversión indicados en el artículo 8.2, así como comunicar a los titulares de la licencias de los buques que participan en la gestión conjunta el agotamiento del esfuerzo asignado.
+
+Una vez agotado el esfuerzo asignado de forma conjunta, todos los buques implicados en tal gestión conjunta deberán cesar la actividad dirigida a la pesquería en cuestión. En caso de que la entidad representativa no haya comunicado fehacientemente a sus asociados la situación del consumo de los días de pesca, de acuerdo a lo dispuesto en el artículo 91.2.b) de la Ley 3/2001, de 26 de marzo, responderá de forma solidaria junto con el patrón y el titular de la licencia si alguno de los buques implicados en la gestión conjunta continúa con su actividad.
+
+3\. Con independencia de que la gestión sea individual o conjunta, una vez agotado el esfuerzo pesquero asignado los buques de pesca no podrán salir de puerto, salvo que dispongan de esfuerzo asignado en relación con otra pesquería que no esté cerrada.
+
+Por ello, tras el agotamiento de todo el esfuerzo pesquero asignado, solo se autorizará la salida de puerto del buque en el caso de que esta sea necesaria a efectos de realizar reparaciones en el buque, para permitir al buque volver a su puerto base o para la realización de actividades no relacionadas con las pesquerías reguladas en el presente plan de gestión. Las solicitudes se dirigirán a la Dirección General de Ordenación Pesquera y Acuicultura del Ministerio de Agricultura, Pesca y Alimentación y podrán presentarse por medios electrónicos en la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación o en cualquiera de los lugares previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. No obstante, los sujetos a que se refiere el artículo 14.2 de la Ley 39/2015, de 1 de octubre, deberán presentar su solicitud por medios electrónicos, en la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación
+
+La Dirección General de Ordenación Pesquera y Acuicultura dictará resolución en el plazo máximo de quince días desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración competente para su tramitación publicándolo en la sede electrónica en los términos previstos en los artículos 40 y siguientes de la Ley 39/2015, de 1 de octubre.
+
+Si en el plazo de quince días no se hubiera resuelto la solicitud podrá entenderse desestimada con arreglo a lo dispuesto en la disposición adicional sexta de la Ley 3/2001, de 26 de marzo.
+
+Contra la resolución del procedimiento, que no agota la vía administrativa, podrá interponerse recurso de alzada ante la Secretaría General de Pesca, en el plazo máximo de un mes, contado a partir del día siguiente al de su publicación, o en cualquier momento a partir del día siguiente a aquel en que transcurriera el plazo para resolver y notificar, de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+## Artículo 15. Cierre de pesquerías.
+
+1\. A efectos de garantizar el cumplimiento del esfuerzo pesquero asignado y sin perjuicio de las obligaciones recogidas en el artículo 14, la Dirección General de Ordenación Pesquera y Acuicultura podrá acordar el cierre precautorio de las pesquerías, con carácter general o en relación con un grupo de buques, incluso aunque determinados buques todavía dispongan de esfuerzo asignado sin consumir.
+
+2\. Una vez evaluada la situación, la Dirección General de Ordenación Pesquera y Acuicultura podrá, en su caso, reabrir la pesquería para los buques que aún dispongan de esfuerzo pesquero o acordar el cierre definitivo de la pesquería.
+
+3\. La Dirección General de Ordenación Pesquera y Acuicultura publicará tanto los cierres precautorios como definitivos de la pesquería correspondiente, así como su posible reapertura, en la página web del Ministerio de Agricultura, Pesca y Alimentación, y desplegarán sus efectos a partir de la fecha que en el mismo se indique.
+
+4\. Una vez acordado el cierre de la pesquería, sea precautorio o definitivo, los buques de pesca no podrán salir de puerto, salvo que dispongan de esfuerzo en relación con otra pesquería que no esté cerrada.
+
+Por ello, tras el agotamiento de todo el esfuerzo pesquero asignado, solo se autorizará la salida de puerto del buque en el caso de que esta sea necesaria a efectos de realizar reparaciones en el buque, para permitir al buque volver a su puerto base o para la realización de actividades no relacionadas con las pesquerías reguladas en el presente plan de gestión. Las solicitudes se dirigirán a la Dirección General de Ordenación Pesquera y Acuicultura del Ministerio de Agricultura, Pesca y Alimentación y podrán presentarse por medios electrónicos en la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación o en cualquiera de los lugares previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. No obstante, los sujetos a que se refiere el artículo 14.2 de la Ley 39/2015, de 1 de octubre, deberán presentar su solicitud por medios electrónicos, en la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación.
+
+La Dirección General de Ordenación Pesquera y Acuicultura dictará resolución en el plazo máximo de quince días desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración competente para su tramitación publicándolo en la sede electrónica en los términos previstos en los artículos 40 y siguientes de la Ley 39/2015, de 1 de octubre.
+
+Si en el plazo de quince días no se hubiera resuelto la solicitud podrá entenderse desestimada con arreglo a lo dispuesto en la disposición adicional sexta de la Ley 3/2001, de 26 de marzo.
+
+Contra la resolución del procedimiento, que no agota la vía administrativa, podrá interponerse recurso de alzada ante la Secretaría General de Pesca, en el plazo máximo de un mes, contado a partir del día siguiente al de su publicación, o en cualquier momento a partir del día siguiente a aquel en que transcurriera el plazo para resolver y notificar, de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+## Artículo 16. Superación del esfuerzo pesquero asignado.
+
+Sin perjuicio de las responsabilidades en que pueda incurrirse conforme a lo dispuesto en el artículo 17, la superación del esfuerzo pesquero asignado conllevará la deducción de dicho exceso del esfuerzo pesquero que se asigne en el ejercicio siguiente, siguiendo los mismos criterios establecidos en el artículo 106 sobre deducción del esfuerzo pesquero del Reglamento (CE) n.º 1224/2009 del Consejo, de 20 de noviembre de 2009, por el que se establece un régimen comunitario de control para garantizar el cumplimiento de las normas de la política pesquera común.
+
+a) En el caso de gestión individual, la deducción será directa para el buque según los días de pesca que se hayan sobrepasado el año anterior.
+
+b) En caso de gestión conjunta, la deducción correspondiente se aplicará de forma proporcional a cada buque teniendo en cuenta el segmento de eslora al que pertenece el buque o buques causantes del exceso. Asimismo, en caso de que el buque o buques causantes del exceso de esfuerzo abandonen la gestión conjunta en el ejercicio siguiente, contarán con la parte proporcional de la deducción en la asignación de sus días para el año siguiente.
+
+## Artículo 17. Infracciones y sanciones.
+
+El incumplimiento de lo dispuesto en la presente orden se sancionará de acuerdo con lo previsto en el título V de la Ley 3/2001, de 26 de marzo.
+
+## Artículo 18. Hábitats protegidos.
+
+Queda prohibida la pesca con modalidad de arrastre de fondo sobre los lechos de *Posidonia oceanica* u otras fanerógamas marinas, en los fondos coralígenos y de maërl, de conformidad con lo previsto en los apartados 1, 2, 3 y 4 del artículo 4 del Reglamento (CE) núm. 1967/2006 del Consejo, de 21 de diciembre de 2006, relativo a las medidas de gestión para la explotación sostenible de los recursos pesqueros en el mar Mediterráneo y por el que se modifica el Reglamento (CEE) núm. 2847/93 y se deroga el Reglamento (CE) núm. 1626/94.
+
+> Se añade por el art. único.10 de la Orden APA/241/2023, de 3 de marzo. [Ref. BOE-A-2023-6444](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6444)
+
+## Disposición adicional única. Obligación de estiba separada.
+
+Se deberán respetar las condiciones de estiba separada de las especies demersales sujetas al presente plan, conforme a lo establecido en el artículo 44 del Reglamento (CE) 1224/2009, de 20 de noviembre.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el apartado b) del artículo 2 de la Orden AAA/2808/2012, de 21 de diciembre, por la que se establece un Plan Integral para la conservación de los recursos pesqueros en el mar Mediterráneo afectados por las pesquería realizadas con redes de cerco, redes de arrastre y artes fijos y menores, para el período 2013-2017, prorrogada hasta el 31 de diciembre de 2020 por la Orden APA/1254/2019, de 20 de diciembre.
+
+## Disposición transitoria única. Tramitación de solicitudes para la gestión conjunta de buques durante el año 2020.
+
+Para el año 2020, las asociaciones presentarán las solicitudes establecidas en el artículo 6 en los 15 días naturales siguientes a la entrada en vigor de esta orden y la Secretaría General de Pesca emitirá la resolución provisional prevista en el artículo 7.1 en el plazo de diez días desde la finalización del plazo para presentación de las solicitudes.
+
+> Redactado conforme a la corrección de errores publicada por Orden APA/506/2020, de 3 de junio. [Ref. BOE-A-2020-5784](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5784)
+
+## Disposición final primera. Modificación de la Orden AAA/2808/2012, de 21 de diciembre, por la que se establece un Plan de Gestión Integral para la conservación de los recursos pesqueros en el Mediterráneo afectados por las pesquería realizadas con redes de cerco, redes de arrastre y artes fijos y menores, para el período 2013-2017, prorrogada hasta el 31 de diciembre de 2020 por la Orden APA/1254/2019, de 20 de diciembre.
+
+El artículo 3 queda redactado como sigue:
+
+«Artículo 3. Objetivos del Plan: Puntos de referencia de conservación.
+
+1\. El Plan plurianual garantizará que los puntos de referencia de las poblaciones de especies pelágicas, mencionadas en el artículo 2, regresen a unos límites biológicos seguros y se exploten de manera sostenible.
+
+2\. Los objetivos citados en el apartado 1 se alcanzarán reduciendo el patrón de la tasa de explotación para las especies pelágicas hasta llegar a los límites biológicos sostenibles establecidos en el artículo 2, mediante la continuidad y progresión en la limitación del esfuerzo pesquero y en la aplicación de las medidas de gestión y normas de explotación que contiene el articulado del propio Plan.»
+
+## Disposición final segunda. Título competencial.
+
+Esta orden se dicta al amparo de lo establecido en el artículo 149.1.19.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de pesca marítima y en materia de ordenación del sector pesquero.
+
+## Disposición final tercera. Habilitación a la Secretaría General de Pesca.
+
+Se faculta a la Secretaría General de Pesca, oído el sector, para modificar el contenido de los anexos.
+
+## Disposición final cuarta. Habilitación a la Secretaría General de Pesca.
+
+Se faculta a la Secretaría General de Pesca para establecer, oído el sector, topes de captura o desembarque, incluso diferenciados por grupos de buques, cuando para una población o grupo de poblaciones de una determinada especie se establezcan límites máximos de capturas u otras limitaciones por parte de la Unión Europea en forma de posibilidades de pesca anuales para España a través del correspondiente reglamento, al objeto de evitar un agotamiento prematuro o un sobrepasamiento de dicha asignación.
+
+> Se modifica por el art. único.11 de la Orden APA/241/2023, de 3 de marzo. [Ref. BOE-A-2023-6444](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6444)
+
+> La anterior disposición final cuarta pasa a ser la quinta, conforme a la corrección de errores publicada por Orden APA/288/2023, de 16 de marzo. [Ref. BOE-A-2023-7725](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7725)
+
+## Disposición final quinta. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+> Se renumera como Disposición final quinta por el art. único.11 de la Orden APA/241/2023, de 3 de marzo. [Ref. BOE-A-2023-6444](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6444)
+
+> Redactada conforme a la corrección de errores publicada por Orden APA/288/2023, de 16 de marzo. [Ref. BOE-A-2023-7725](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7725)
+
+Madrid, 18 de mayo de 2020.–El Ministro de Agricultura, Pesca y Alimentación, Luis Planas Puchades.
+
+## ANEXO I — Datos de referencia del esfuerzo total permitido<sup> (1)</sup>
+
+(1) Datos oficiales de referencia calculados con base en el artículo 7 del Reglamento (UE) 2019/1022 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, por el que se establece un plan plurianual para la pesca demersal en el Mediterráneo occidental y por el que se modifica el Reglamento (UE) n.º 508/2014.
+
+A) Arrastre de fondo para pesquería costera mixta: Merluza europea (*Merluccius merluccius*), gamba blanca (*Parapenaeus longirostris*), cigala (*Nephrops norvegicus*), salmonete de fango (*Mullus barbatus*)
+
+<table class="tabla_b_sica">
+<colgroup>
+<col class="row_column_1">
+<col class="row_column_2">
+<col class="row_column_3">
+</colgroup>
+<thead>
+<tr class="row_column_4">
+<td>
+<p class="cabeza_tabla">Segmento de eslora</p>
+</td>
+<td>
+<p class="cabeza_tabla">Año</p>
+</td>
+<td>
+<p class="cabeza_tabla">Días de pesca</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr class="row_column_5">
+<td rowspan="4">
+<p class="cuerpo_tabla_centro">&lt; 12 m</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2015</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3.014</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2016</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2.471</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2017</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2.049</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">Media</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2.511,3</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td rowspan="4">
+<p class="cuerpo_tabla_centro">≥ 12 m y &lt; 18 m</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2015</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">28.035,5</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2016</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">26.522</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2017</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">26.389</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">Media</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">26.982,2</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td rowspan="4">
+<p class="cuerpo_tabla_centro">≥ 18 m y &lt; 24 m</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2015</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">52.069</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2016</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">50.772,5</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2017</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">51.417</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">Media</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">51.419,5</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td rowspan="4">
+<p class="cuerpo_tabla_centro">≥ 24 m</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2015</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">18.309</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2016</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">18.298</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2017</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">17.529</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">Media</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">18.045,3</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+B) Arrastre de fondo para pesquería de profundidad: Gamba roja del Mediterráneo (*Aristeus antennatus*) y langostino moruno (*Aristaeomorpha foliacea*)
+
+<table class="tabla_b_sica">
+<colgroup>
+<col class="row_column_1">
+<col class="row_column_2">
+<col class="row_column_3">
+</colgroup>
+<thead>
+<tr class="row_column_4">
+<td>
+<p class="cabeza_tabla">Segmento de eslora</p>
+</td>
+<td>
+<p class="cabeza_tabla">Año</p>
+</td>
+<td>
+<p class="cabeza_tabla">Días de pesca</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr class="row_column_5">
+<td rowspan="4">
+<p class="cuerpo_tabla_centro">&lt; 12 m</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2015</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">0</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2016</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">0</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2017</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">0</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">Media</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">0</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td rowspan="4">
+<p class="cuerpo_tabla_centro">≥ 12 m y &lt; 18 m</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2015</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1.300,5</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2016</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1.312</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2017</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1.185</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">Media</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1.265,8</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td rowspan="4">
+<p class="cuerpo_tabla_centro">≥ 18 m y &lt; 24 m</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2015</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">13.116</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2016</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">11.924,5</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2017</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">11.031</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">Media</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12.023,8</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td rowspan="4">
+<p class="cuerpo_tabla_centro">≥ 24 m</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2015</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">10.853</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2016</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9.712</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">2017</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9.655</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_centro">Media</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">10.073,3</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifican los apartados A) y B) por el art. único.1 de la Orden APA/85/2025, de 27 de enero. [Ref. BOE-A-2025-1716](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1716)
+
+## ANEXO II — Modelo de solicitud de días de actividad pesquera en gestión conjunta
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/60/6444_12910201_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/60/6444_12910201_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/60/6444_12910201_3.png)
+
+> Se modifica por el art. único.12 de la Orden APA/241/2023, de 3 de marzo. [Ref. BOE-A-2023-6444](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6444)
+
+## ANEXO III — Vedas para las especies demersales
+
+A) Subzona Geográfica 2 (GSA2). Queda prohibida la pesca con artes de arrastre en profundidades menores de 100 metros en la zona de la isla de Alborán, conforme a lo establecido en la orden APA/767/2018, de 19 de junio por la que se modifica la Orden de 8 de septiembre de 1998, por la que se establece una reserva marina y una reserva de pesca en el entorno de la isla de Alborán y se regula el ejercicio de la pesca en los caladeros adyacentes.
+
+B) Subzona geográfica 5 (GSA5):
+
+El polígono formado por la unión de las siguientes coordenadas geográficas quedará cerrado para pesca con artes de arrastre, artes de anzuelo y enmalles los meses indicados a continuación.
+
+![1](https://www.boe.es/datos/imagenes/disp/2020/208/09015_5057.png)
+
+C) Subzona Geográfica 7 (GSA7). El polígono formado por la unión de las siguientes coordenadas geográficas quedará cerrado para pesca con artes de arrastre, artes de anzuelo y enmalles los meses indicados a continuación.
+
+<table class="tabla_b_sica">
+<colgroup>
+<col class="row_column_8">
+<col class="row_column_9">
+</colgroup>
+<thead>
+<tr class="row_column_10">
+<td colspan="2">
+<p class="cabeza_tabla">Subárea GSA7</p>
+</td>
+</tr>
+<tr class="row_column_10">
+<td colspan="2">
+<p class="cabeza_tabla">Noviembre-abril</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr class="row_column_10">
+<td rowspan="2">
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–42°40’N</p>
+</td>
+</tr>
+<tr class="row_column_10">
+<td>
+<p class="cuerpo_tabla_centro">4°20’N</p>
+</td>
+</tr>
+<tr class="row_column_10">
+<td rowspan="2">
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–42°40’N</p>
+</td>
+</tr>
+<tr class="row_column_10">
+<td>
+<p class="cuerpo_tabla_centro">5°00’E</p>
+</td>
+</tr>
+<tr class="row_column_10">
+<td rowspan="2">
+<p class="cuerpo_tabla_centro">3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–43°10’N</p>
+</td>
+</tr>
+<tr class="row_column_10">
+<td>
+<p class="cuerpo_tabla_centro">5°00’E</p>
+</td>
+</tr>
+<tr class="row_column_10">
+<td rowspan="2">
+<p class="cuerpo_tabla_centro">4</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–43°10’N</p>
+</td>
+</tr>
+<tr class="row_column_10">
+<td>
+<p class="cuerpo_tabla_centro">4°50’E</p>
+</td>
+</tr>
+<tr class="row_column_10">
+<td rowspan="2">
+<p class="cuerpo_tabla_centro">5</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–43°03’N</p>
+</td>
+</tr>
+<tr class="row_column_10">
+<td>
+<p class="cuerpo_tabla_centro">4°45’E</p>
+</td>
+</tr>
+<tr class="row_column_10">
+<td rowspan="2">
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–43°03’N</p>
+</td>
+</tr>
+<tr class="row_column_10">
+<td>
+<p class="cuerpo_tabla_centro">4°20’E</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+En la zona delimitada por la frontera franco-española y entre el borde oeste de la FRA CGPM regulada por la Orden AAA/1857/2012, de 22 de agosto, por la que se establece una zona restringida para la pesca de especies demersales en el Golfo de León por el otro lado, se prohíbe la pesca de especies demersales entre la isóbata de 90 a 100 m durante los meses de enero a abril y de septiembre a diciembre.
+
+D) Subzona Geográfica 1 (GSA1):
+
+El polígono formado por la unión de las siguientes coordenadas geográficas quedará cerrado para pesca con artes de arrastre, artes de anzuelo y enmalles los meses indicados a continuación.
+
+![2](https://www.boe.es/datos/imagenes/disp/2020/208/09015_5226.png)
+
+E) Subzona Geográfica 6 (GSA6):
+
+Los polígonos formados por la unión de las siguientes coordenadas geográficas en: el “Subárea de Cataluña”, “Área de interés pesquero Rosas-Palamós”, “Área de interés pesquero para la merluza de Rosas”, “Área de repoblación de Blanes-Palamós”, “Bol de terra al vapor de Palamós” y “Núcleo Mars d’Enterra” quedará cerrado para pesca con artes de arrastre, artes de anzuelo y enmalles los meses indicados a continuación.
+
+Los polígonos formados por la unión de las siguientes coordenadas geográficas en las subáreas de Castellón, Valencia y Alicante, “Zona de exclusión Sant Carles de la Ràpita” y “Bol de Tossa” quedarán cerrados para la pesca con artes de arrastre en los meses indicados a continuación. Adicionalmente, la subárea de Alicante también queda cerrada a la pesca con palangre de fondo.
+
+<table class="tabla">
+<colgroup>
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Subárea Cataluña</th>
+<th class="cabeza_tabla" colspan="2">Subárea Castellón</th>
+<th class="cabeza_tabla" colspan="2">Subárea Valencia</th>
+<th class="cabeza_tabla" colspan="2">Subárea Alicante</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="2">1 mayo - 30 junio</th>
+<th class="cabeza_tabla" colspan="2">1 mayo - 30 septiembre</th>
+<th class="cabeza_tabla" colspan="2">1 mayo - 30 septiembre</th>
+<th class="cabeza_tabla" colspan="2">1 junio - 31 agosto</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">40° 23,208' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">40° 06,000' N</td>
+<td class="cuerpo_tabla_izq" colspan="2" rowspan="6">El espacio delimitado por la franja entre 150 y 210 metros de profundidad dentro de las siguientes coordenadas:</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">37° 43,408´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 12,078' E</td>
+<td class="cuerpo_tabla_centro">01° 09,000' E</td>
+<td class="cuerpo_tabla_centro">00° 29,639´ W</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">40° 34,032' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">40° 10,500' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">37° 52,872´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 15,306' E</td>
+<td class="cuerpo_tabla_centro">01° 06,500' E</td>
+<td class="cuerpo_tabla_centro">00° 25,607´ W</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">40° 57,336' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">40° 03,500' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">38° 02,320´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 16,788' E</td>
+<td class="cuerpo_tabla_centro">00° 58,000' E</td>
+<td class="cuerpo_tabla_centro">00° 20,816´ W</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">40° 53,862' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">39° 41,835' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">39° 41.4174' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">38° 04,607´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 21,420' E</td>
+<td class="cuerpo_tabla_centro">00° 35,894' E</td>
+<td class="cuerpo_tabla_centro">00° 38.0550' E</td>
+<td class="cuerpo_tabla_centro">00° 18,104´ W</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">40° 48,822' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">39° 41,034' N</td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro">39° 41.3136' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">38° 14,243´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 21,834' E</td>
+<td class="cuerpo_tabla_centro">00° 40,070' E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 38.6034' E</td>
+<td class="cuerpo_tabla_centro">00° 05,810´ W</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_centro">40° 41,388' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_centro">39° 55,500' N</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro">38° 53.0580' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_centro">38° 14,671´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 22,494' E</td>
+<td class="cuerpo_tabla_centro">00° 53,500' E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 20.2440' E</td>
+<td class="cuerpo_tabla_centro">00° 00,205´ W</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">7</td>
+<td class="cuerpo_tabla_centro">40° 32,544' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">7</td>
+<td class="cuerpo_tabla_centro">40° 06,000' N</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro">38° 52.9980' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">7</td>
+<td class="cuerpo_tabla_centro">38° 21,792´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 21,489' E</td>
+<td class="cuerpo_tabla_centro">01° 09,000' E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 25.5540' E</td>
+<td class="cuerpo_tabla_centro">00° 10,734´ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">8</td>
+<td class="cuerpo_tabla_centro">40° 25,440' N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">8</td>
+<td class="cuerpo_tabla_centro">38° 22,435´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 18,030' E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 16,248´ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">9</td>
+<td class="cuerpo_tabla_centro">40° 22,878' N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">9</td>
+<td class="cuerpo_tabla_centro">38° 29,119´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 18,114' E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 18,689´ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">10</td>
+<td class="cuerpo_tabla_centro">38° 32,032´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 21,582´ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">11</td>
+<td class="cuerpo_tabla_centro">38° 38,276´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 23,028´ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">12</td>
+<td class="cuerpo_tabla_centro">38° 45,218´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 21,672´ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">13</td>
+<td class="cuerpo_tabla_centro">38° 53,184´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 16,036´ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">14</td>
+<td class="cuerpo_tabla_centro">38° 53,022´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 22,469´ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">15</td>
+<td class="cuerpo_tabla_centro">38° 45,544´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 25,791´ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">16</td>
+<td class="cuerpo_tabla_centro">38° 39,622´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 29,537´ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">17</td>
+<td class="cuerpo_tabla_centro">38° 29,261´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 25,288´ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">18</td>
+<td class="cuerpo_tabla_centro">38° 21,367´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 17,966´ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">19</td>
+<td class="cuerpo_tabla_centro">38° 16,097´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 08,835´ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">20</td>
+<td class="cuerpo_tabla_centro">38° 07,893´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 08,431´ W</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">21</td>
+<td class="cuerpo_tabla_centro">37° 59,380´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 20,183´ W</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">22</td>
+<td class="cuerpo_tabla_centro">37° 42,121´ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 26,634´ W</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<colgroup>
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+<col>
+</colgroup>
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Área de Interés Pesquero Roses-Palamós</th>
+<th class="cabeza_tabla" colspan="2">Área de Interés Pesquero para la Merluza de Roses</th>
+<th class="cabeza_tabla" colspan="2">Área de Repoblación Blanes-Palamós</th>
+<th class="cabeza_tabla" colspan="3">Núcleo Mars D'Enterra</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="2">1 enero - 31 diciembre</th>
+<th class="cabeza_tabla" colspan="2">1 enero - 31 diciembre</th>
+<th class="cabeza_tabla" colspan="2">1 enero - 31 diciembre</th>
+<th class="cabeza_tabla" colspan="3">1 enero - 31 diciembre</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">41°58,800’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">42°11,000’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">41° 35,338’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">41° 49’909 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03°31,500’ E</td>
+<td class="cuerpo_tabla_centro">03°25,000’ E</td>
+<td class="cuerpo_tabla_centro">03° 17,513’ E</td>
+<td class="cuerpo_tabla_centro">03° 10’923 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">41°59,000’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">42°11,000’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">41° 34,661 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">41° 49’939 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03°30,350’ E</td>
+<td class="cuerpo_tabla_centro">03°26,500’ E</td>
+<td class="cuerpo_tabla_centro">03° 16,980’ E</td>
+<td class="cuerpo_tabla_centro">03° 11’873 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">42°01,880’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">42°09,000’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">41° 33,633’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">41° 48’836 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03°31,650’ E</td>
+<td class="cuerpo_tabla_centro">03°27,000’ E</td>
+<td class="cuerpo_tabla_centro">03° 14,628’ E</td>
+<td class="cuerpo_tabla_centro">03° 12’062 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">42°01,600’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">42°07,000’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">41° 32,729’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">41° 46’282 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03°32,800’ E</td>
+<td class="cuerpo_tabla_centro">03°27,000’ E</td>
+<td class="cuerpo_tabla_centro">03° 12,163’ E</td>
+<td class="cuerpo_tabla_centro">03° 10’667 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">42°04,500’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">41° 31,980’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">41° 46’184 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">03°27,000’ E</td>
+<td class="cuerpo_tabla_centro">03° 08,302’ E</td>
+<td class="cuerpo_tabla_centro">03° 09’944 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_centro">42°04,500’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_centro">41° 32,440’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_centro">41° 49’909 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">03°23,500’ E</td>
+<td class="cuerpo_tabla_centro">03° 07,380’ E</td>
+<td class="cuerpo_tabla_centro">03° 10’914 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">7</td>
+<td class="cuerpo_tabla_centro">42°07,000’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">7</td>
+<td class="cuerpo_tabla_centro">41° 33,870’ N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">03°23,500’ E</td>
+<td class="cuerpo_tabla_centro">03° 10,102' E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">8</td>
+<td class="cuerpo_tabla_centro">42°09,500’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">8</td>
+<td class="cuerpo_tabla_centro">41° 35,087’ N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">03°24,000’ E</td>
+<td class="cuerpo_tabla_centro">03° 13,829’ E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">9</td>
+<td class="cuerpo_tabla_centro">41° 35,427’ N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">03° 15,634’ E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">10</td>
+<td class="cuerpo_tabla_centro">41° 35,773’ N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">03°16,834’ E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<colgroup>
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+</colgroup>
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Bol de Terra al Vapor de Palamós</th>
+<th class="cabeza_tabla" colspan="2">Zona de Exclusión Sant Carles de La Ràpita</th>
+<th class="cabeza_tabla" colspan="2">Bol de Tossa</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="2">1 enero - 31 diciembre</th>
+<th class="cabeza_tabla" colspan="2">Enero - diciembre</th>
+<th class="cabeza_tabla" colspan="2">1 enero - 31 diciembre</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">41° 45,501´N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">40° 32,830’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">41° 40,408' N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 23,280' E</td>
+<td class="cuerpo_tabla_centro">00° 44,990’ E</td>
+<td class="cuerpo_tabla_centro">02° 48,177' E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">41° 44,197' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">40° 36,540’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">41° 40,216' N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 22,423' E</td>
+<td class="cuerpo_tabla_centro">00° 48,290’ E</td>
+<td class="cuerpo_tabla_centro">02° 50,933' E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">41° 42,874' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">40° 35,950’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">41° 40,216' N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 21,422' E</td>
+<td class="cuerpo_tabla_centro">00° 50,470’ E</td>
+<td class="cuerpo_tabla_centro">02° 53,090' E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">41° 39,552' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">40° 34,770’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">41° 40,528' N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 19,100' E</td>
+<td class="cuerpo_tabla_centro">00° 48,970’ E</td>
+<td class="cuerpo_tabla_centro">02° 55,737' E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">41° 39,085´N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">40° 32,830’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">41º 41,473´N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 20,306´E</td>
+<td class="cuerpo_tabla_centro">00° 44,990’ E</td>
+<td class="cuerpo_tabla_centro">02º 57,472´E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_centro">41° 42,416´N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_centro">41º 43,555´N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 22,618´E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">02º 56,763´E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">7</td>
+<td class="cuerpo_tabla_centro">41° 44,131´N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 23,798´E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+F) Subzona Geográfica 1 (GSA1):
+
+Los polígonos formados por la unión de las siguientes coordenadas geográficas que quedarán cerrados para la pesca con artes de arrastre, durante los meses indicados a continuación:
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Cierre cigala y gamba blanca</th>
+<th class="cabeza_tabla" colspan="2">Cierre gamba roja</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="2">Del 1 al 30 de abril</th>
+<th class="cabeza_tabla" colspan="2">1 de enero-31 de diciembre</th>
+</tr>
+</thead>
+<colgroup>
+<col width="6%">
+<col width="30%">
+<col width="6%">
+<col width="30%">
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">36° 39′6000 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">36° 28′8000 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 46′2000 W</td>
+<td class="cuerpo_tabla_centro">02° 56′4000 W</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">36° 42′0000 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">36° 31′8000 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 46′2000 W</td>
+<td class="cuerpo_tabla_centro">02° 56′4000 W</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">36° 40′2000 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">36° 34′2000 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 42′0000 W</td>
+<td class="cuerpo_tabla_centro">02° 44′4000 W</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">36° 37′8000 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">36° 31′2000 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 42′0000 W</td>
+<td class="cuerpo_tabla_centro">02° 44′4000 W</td>
+</tr>
+</tbody>
+</table>
+
+G) Subzona Geográfica 5 (GSA5):
+
+Los polígonos formados por la unión de las siguientes coordenadas geográficas que quedarán cerrados para la pesca con artes de arrastre, durante los meses indicados a continuación:
+
+<table class="tabla">
+<colgroup>
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+</colgroup>
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Zona 1 Norte Menorca</th>
+<th class="cabeza_tabla" colspan="2">Zona 2 Este Menorca</th>
+<th class="cabeza_tabla" colspan="2">Zona Noroeste Mallorca</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="2">1 de septiembre - 31 de marzo</th>
+<th class="cabeza_tabla" colspan="2">1 de abril - 31 agosto</th>
+<th class="cabeza_tabla" colspan="2">1 de abril - 31 de agosto</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">40° 17,6047 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">39° 59,7847 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">40° 01,2237 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">04° 01,9724 E</td>
+<td class="cuerpo_tabla_centro">04° 16,2002 E</td>
+<td class="cuerpo_tabla_centro">03° 01,7287 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">40° 12,3231 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">40° 01,5966 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">40° 05,8287 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">04° 12,0738 E</td>
+<td class="cuerpo_tabla_centro">04° 19,2485 E</td>
+<td class="cuerpo_tabla_centro">03° 11,5679 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">40° 01,5046 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">39° 51,1276 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">39° 57,7501 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">04° 11,8837 E</td>
+<td class="cuerpo_tabla_centro">04° 25,2056 E</td>
+<td class="cuerpo_tabla_centro">03° 12,8339 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">40° 03,9036 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">39° 44,5223 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">39° 56,2629 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">04° 01,7650 E</td>
+<td class="cuerpo_tabla_centro">04° 20,9734 E</td>
+<td class="cuerpo_tabla_centro">03° 02,5178 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">39° 48,4125 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4° 05,7284 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_centro">39° 50,6200 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">04° 00,000 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">7</td>
+<td class="cuerpo_tabla_centro">39° 54,6800 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">04° 02,6000 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<colgroup>
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+</colgroup>
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Zona Norte Ibiza</th>
+<th class="cabeza_tabla" colspan="2">Zona Sureste Formentera</th>
+</tr>
+<tr>
+<th class="cabeza_tabla" colspan="2">1 de septiembre - 31 de marzo</th>
+<th class="cabeza_tabla" colspan="2">1 de septiembre - 31 de marzo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">39° 22,7734 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">38° 39,1302 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 28,9552 E</td>
+<td class="cuerpo_tabla_centro">01° 31,2269 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">39° 25,1300 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">38° 41,2826 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 59,3293 E</td>
+<td class="cuerpo_tabla_centro">01°34,1100 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">39° 04,9022 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">38° 49,5858 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 36,6815 E</td>
+<td class="cuerpo_tabla_centro">01° 53,8463 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">39° 06,6333 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">38° 29,1182 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 29,3024 E</td>
+<td class="cuerpo_tabla_centro">01° 53,7108 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">38° 20,8063 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">01° 22,8464 E</td>
+</tr>
+</tbody>
+</table>
+
+H) Subzona Geográfica 6 (GSA6):
+
+1\. Los polígonos formados por la unión de las coordenadas geográficas mostradas a continuación en el área “Cigala de Palamós”, “Bol de Les Bruixes de Blanes”, “Cigala de Barcelona”, “Cigala de Vilanova”, “Bol del Port de Barcelona”, “Tarragona”, “Cambrils”, “L'Ametlla”, “Barques La Rápita”, “Fora La Rápita”, “Merluza de Barcelona”, “Merluza de Vilanova” y “Merluza de Arenys”, “Les Moletes” y “Roca dels Feliu”. Estas zonas quedarán cerradas de forma permanente para la pesca con artes de arrastre, enmalles y anzuelos. En el caso de las vedas establecidas para las áreas “Roca dels Feliu” y “Les Moletes”, también quedarán cerradas de forma permanente para la pesca recreativa.
+
+No obstante lo dispuesto en el párrafo anterior, en el área “Roca dels Feliu” se permitirá la pesca con artes menores desde el 1 de abril al 30 de septiembre.
+
+2\. El polígono formado por la unión de las coordenadas geográficas mostradas a continuación en el área “Veda permanente de Castellón”, quedará cerrado de forma permanente para la pesca con artes de arrastre.
+
+<table class="tabla">
+<colgroup>
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Área “Cigala de Palamós”</th>
+<th class="cabeza_tabla" colspan="2">Zona “Bol de Les Bruixes de Blanes”</th>
+<th class="cabeza_tabla" colspan="2">Área “Cigala de Barcelona”</th>
+<th class="cabeza_tabla" colspan="2">Área “Merluza de Barcelona”</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">1 de enero-31 de diciembre</td>
+<td class="cuerpo_tabla_centro" colspan="2">1 enero-31 de diciembre</td>
+<td class="cuerpo_tabla_centro" colspan="2">1 de enero-31 de diciembre</td>
+<td class="cuerpo_tabla_centro" colspan="2">1 de enero-31 de diciembre</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">41° 43’ 7940 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">41° 35’ 1700 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">41° 16’ 3080 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">41° 13’ 8170 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 28’ 0000 E</td>
+<td class="cuerpo_tabla_centro">03° 08’ 4500 E</td>
+<td class="cuerpo_tabla_centro">02° 23’ 6700 E</td>
+<td class="cuerpo_tabla_centro">02° 08’ 6270 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">41° 43’ 5170 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">41° 36’ 0500 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">41° 18’ 2500 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">41° 12’ 8170 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 28’ 7640 E</td>
+<td class="cuerpo_tabla_centro">03° 09’ 6500 E</td>
+<td class="cuerpo_tabla_centro">02° 29’ 4100 E</td>
+<td class="cuerpo_tabla_centro">02° 09’ 5360 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">41° 40’ 7080 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">41° 37’ 4800 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">41° 16’ 0800 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">41° 09’ 5620 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 27’ 2530 E</td>
+<td class="cuerpo_tabla_centro">03° 11’ 9300 E</td>
+<td class="cuerpo_tabla_centro">02° 30’ 0000 E</td>
+<td class="cuerpo_tabla_centro">02° 03’ 6560 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">41° 40’ 9250 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">41° 37’ 0500 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">41° 15’ 6720 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">41° 10’ 1130 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 26’ 5180 E</td>
+<td class="cuerpo_tabla_centro">03° 12’ 8200 E</td>
+<td class="cuerpo_tabla_centro">02° 27’ 3180 E</td>
+<td class="cuerpo_tabla_centro">02° 03’ 0680 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">41° 43’ 7940 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">41° 35’ 6700 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">41° 16’ 3080 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">41° 13’ 8170 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">03° 28’ 0000 E</td>
+<td class="cuerpo_tabla_centro">03° 10’ 3600 E</td>
+<td class="cuerpo_tabla_centro">02° 23’ 6700 E</td>
+<td class="cuerpo_tabla_centro">02° 08’ 6270 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_centro">41° 35’ 1700 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">03° 08’ 4500 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<colgroup>
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Área “Merluza de Vilanova”</th>
+<th class="cabeza_tabla" colspan="2">Área “Cigala de Vilanova”</th>
+<th class="cabeza_tabla" colspan="2">Zona “Merluza de Arenys”</th>
+<th class="cabeza_tabla" colspan="2">Área “Bol del Port de Barcelona”</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">1 de enero-31 de diciembre</td>
+<td class="cuerpo_tabla_centro" colspan="2">1 de enero-31 de diciembre</td>
+<td class="cuerpo_tabla_centro" colspan="2">1 de enero-31 de diciembre</td>
+<td class="cuerpo_tabla_centro" colspan="2">1 de enero-31 de diciembre</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">41° 09’ 6400 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">41° 05’ 7820 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">41° 27’ 4000 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">41° 21’ 3749 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">02° 02’ 1400 E</td>
+<td class="cuerpo_tabla_centro">01° 54’ 1890 E</td>
+<td class="cuerpo_tabla_centro">02° 39’ 2900 E</td>
+<td class="cuerpo_tabla_centro">02° 12’ 7972 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">41° 08’ 679' N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">41° 03’ 5550 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">41° 31’ 0200 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">41° 21’ 3131 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">02° 02’ 1970 E</td>
+<td class="cuerpo_tabla_centro">01° 55’ 0990 E</td>
+<td class="cuerpo_tabla_centro">02° 45’ 2700 E</td>
+<td class="cuerpo_tabla_centro">02° 14’ 7061 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">41° 06’ 6960 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">41° 03’ 3900 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">41° 32’ 9400 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">41° 15’ 3090 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 58’ 0050 E</td>
+<td class="cuerpo_tabla_centro">01° 54’ 2040 E</td>
+<td class="cuerpo_tabla_centro">02° 46’ 7500 E</td>
+<td class="cuerpo_tabla_centro">02° 11’ 4102 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">41° 07’ 5660 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">41° 05’ 7820 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">41° 32’ 6000 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">41° 16’ 7954 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 58’ 3300 E</td>
+<td class="cuerpo_tabla_centro">01° 54’ 1890 E</td>
+<td class="cuerpo_tabla_centro">02° 47’ 6500 E</td>
+<td class="cuerpo_tabla_centro">02° 08’ 8971 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">41° 09’ 6400 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">41° 30’ 3000 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">41° 21’ 3749 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">02° 02’ 1400 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">02° 46’ 4500 E</td>
+<td class="cuerpo_tabla_centro">02° 12’ 7972 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_centro">41° 26’ 3700 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">02° 40’ 1800 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">7</td>
+<td class="cuerpo_tabla_centro">41° 27’ 4000 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">02° 39’ 2900 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<colgroup>
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Área “Tarragona”</th>
+<th class="cabeza_tabla" colspan="2">Zona “Cambrils”</th>
+<th class="cabeza_tabla" colspan="2">Zona “L'Ametlla”</th>
+<th class="cabeza_tabla" colspan="2">Área “Barques La Rápita”</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">1 de enero - 31 de diciembre</td>
+<td class="cuerpo_tabla_centro" colspan="2">1 de enero - 31 de diciembre</td>
+<td class="cuerpo_tabla_centro" colspan="2">1 de enero - 31 de diciembre</td>
+<td class="cuerpo_tabla_centro" colspan="2">1 de enero - 31 de diciembre</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">41° 03’ 4790 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">40° 46’ 3200 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">40° 36’ 5620 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">40° 27’ 9620 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 29’ 4680 E</td>
+<td class="cuerpo_tabla_centro">01° 21’ 0290 E</td>
+<td class="cuerpo_tabla_centro">01° 19’ 9470 E</td>
+<td class="cuerpo_tabla_centro">00° 48’ 5070 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">41° 02’ 2660 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">40° 45’ 6800 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">40° 33’ 7820 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">40° 28’ 2900 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 30’ 1340 E</td>
+<td class="cuerpo_tabla_centro">01° 21’ 4800 E</td>
+<td class="cuerpo_tabla_centro">01° 20’ 1140 E</td>
+<td class="cuerpo_tabla_centro">00° 52’ 2100 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">41° 04’ 3010 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">40° 41’ 4930 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">40° 31’ 2300 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">40° 26’ 3240 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 39’ 8520 E</td>
+<td class="cuerpo_tabla_centro">01° 21’ 7260 E</td>
+<td class="cuerpo_tabla_centro">01° 18’ 6860 E</td>
+<td class="cuerpo_tabla_centro">00° 53’ 9580 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">41° 05’ 2260 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">40° 39’ 0550 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">40° 30’ 6520 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">40° 25’ 7600 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 39’ 7770 E</td>
+<td class="cuerpo_tabla_centro">01° 21’ 6700 E</td>
+<td class="cuerpo_tabla_centro">01° 17’ 2650' E</td>
+<td class="cuerpo_tabla_centro">00° 50’ 4310 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">41° 03’ 4790 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">40° 37’ 4500 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">40° 28’ 6660 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">40° 27’ 9620 N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 29’ 4680 E</td>
+<td class="cuerpo_tabla_centro">01° 21’ 9900 E</td>
+<td class="cuerpo_tabla_centro">01° 16’ 3880 E</td>
+<td class="cuerpo_tabla_centro">00° 48’ 5070 E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_centro">40° 37’ 4800 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_centro">40° 27’ 7840 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">01° 20’ 9700 E</td>
+<td class="cuerpo_tabla_centro">01° 18’ 1200 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">7</td>
+<td class="cuerpo_tabla_centro">40° 44’ 3290 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">7</td>
+<td class="cuerpo_tabla_centro">40° 29’ 3040 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">01° 19’ 7800 E</td>
+<td class="cuerpo_tabla_centro">01° 18’ 2400 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">8</td>
+<td class="cuerpo_tabla_centro">40° 46’ 1960 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">8</td>
+<td class="cuerpo_tabla_centro">40° 30’ 4170 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">01° 20’ 4120 E</td>
+<td class="cuerpo_tabla_centro">01° 18’ 5730 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">9</td>
+<td class="cuerpo_tabla_centro">40° 31’ 1190 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">01° 20’ 3030 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">10</td>
+<td class="cuerpo_tabla_centro">40° 33’ 7610 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">01° 21’ 4170 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">11</td>
+<td class="cuerpo_tabla_centro">40° 36’ 6060 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">01° 21’ 2650 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">12</td>
+<td class="cuerpo_tabla_centro">40° 36’ 5620 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">01° 19’ 9470 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla">
+<colgroup>
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+<col width="5%">
+<col width="20%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Área “Fora La Rápita”</th>
+<th class="cabeza_tabla" colspan="2">Veda Permanente de Castellón</th>
+<th class="cabeza_tabla" colspan="2">Área “Les Moletes”</th>
+<th class="cabeza_tabla" colspan="2">Roca dels Feliu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">1 de enero - 31 de diciembre</td>
+<td class="cuerpo_tabla_centro" colspan="2">1 enero- 31 diciembre</td>
+<td class="cuerpo_tabla_centro" colspan="2">1 de enero - 31 de diciembre</td>
+<td class="cuerpo_tabla_centro" colspan="2">1 enero- 31 diciembre</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">40° 12’ 1040 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">39° 48, 215’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">39° 31’ 0500 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_centro">38° 41, 750’ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 11’ 4220 E</td>
+<td class="cuerpo_tabla_centro">00° 49, 813’ E</td>
+<td class="cuerpo_tabla_centro">00° 11’ 4550 E</td>
+<td class="cuerpo_tabla_centro">00° 16, 000’ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">40° 12’ 6080 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">39° 51, 017’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">39° 31’ 4680 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_centro">38° 43, 400’ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 10’ 0250 E</td>
+<td class="cuerpo_tabla_centro">00° 52, 900’ E</td>
+<td class="cuerpo_tabla_centro">00° 12’ 3210 E</td>
+<td class="cuerpo_tabla_centro">00° 21, 000’ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">40° 19’ 3280 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">39° 55, 910’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">39° 31’ 2060 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_centro">38° 44’ 800’ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 14’ 6360 E</td>
+<td class="cuerpo_tabla_centro">00° 58, 223’ E</td>
+<td class="cuerpo_tabla_centro">00° 12’ 6810 E</td>
+<td class="cuerpo_tabla_centro">00° 22, 200’ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">40° 18’ 9470 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">39° 57, 670’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">39° 30’ 9520 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_centro">38° 47, 400’ N</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 15’ 8130 E</td>
+<td class="cuerpo_tabla_centro">01° 00, 057’ E</td>
+<td class="cuerpo_tabla_centro">00° 12’ 8870 E</td>
+<td class="cuerpo_tabla_centro">00° 17, 250’ E</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">40° 12’ 1040 N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">40° 04, 912’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_centro">39° 30’ 5190 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">01° 11’ 4220 E</td>
+<td class="cuerpo_tabla_centro">01° 05, 352’ E</td>
+<td class="cuerpo_tabla_centro">00° 12’ 3130 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_centro">40° 10, 248’ N</td>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_centro">39° 30’ 7450 N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">01° 10, 320’ E</td>
+<td class="cuerpo_tabla_centro">00° 12’ 0100 E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">7</td>
+<td class="cuerpo_tabla_centro">40° 12, 519’ N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">01° 06, 833’ E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">8</td>
+<td class="cuerpo_tabla_centro">40° 08, 097’ N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">01° 03, 581’ E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">9</td>
+<td class="cuerpo_tabla_centro">39° 58, 841’ N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 57, 411’ E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">10</td>
+<td class="cuerpo_tabla_centro">39° 58, 143’ N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 56, 693’ E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">11</td>
+<td class="cuerpo_tabla_centro">39° 52, 025’ N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 51, 088’ E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" rowspan="2">12</td>
+<td class="cuerpo_tabla_centro">39° 49, 545’ N</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">00° 48, 175’ E</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+</tr>
+</tbody>
+</table>
+
+I) Representaciones cartográficas de las vedas descritas en los apartados A) a H).
+
+1\. Mapa de vedas temporales y permanentes de la GSA1 y GSA2:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/196/13834_12012955_1.png)
+
+2\. Mapa de vedas temporales de la GSA5:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/196/13834_12012955_2.png)
+
+3\. Mapa de vedas temporales y permanentes de la GSA6:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/196/13834_12012955_3.png)
+
+4\. Mapa de vedas temporales de la GSA7:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/196/13834_12012955_4.png)
+
+J) Zonas de veda espaciotemporal. Queda prohibida la pesca con artes de arrastre de fondo a los buques españoles en las aguas exteriores de las siguientes zonas marítimas, durante las fechas que se indican:
+
+a) El litoral de la provincia de Girona:
+
+– En la zona comprendida entre la frontera con Francia y la demora de 95° trazada desde la Illa de Carall Bernat en posición 42° 02,50’ de latitud Norte y 3° 13,72’ de longitud Este, del 22 de octubre al 22 de noviembre (ambos inclusive).
+
+– En la zona comprendida entre la demora 112° trazada desde la Illa de Carall Bernat en posición 42° 02,50’ de latitud Norte y 3° 13,72’ de longitud Este y la demora de 120° trazada desde el faro de Tossa en posición 41° 43,00’ de latitud Norte y 2° 56,02’ de longitud Este, del 30 de septiembre al 1 de noviembre (ambos inclusive).
+
+– En la zona comprendida entre la demora 130° trazada desde el faro de Tossa en posición 41° 43,00’ de latitud Norte y 2° 56,02’ de longitud Este hasta la demora de 135° trazada desde la desembocadura del río Tordera en situación 41° 39,00’ de latitud Norte y 2° 46,80’ de longitud Este, del 19 de febrero al 22 de marzo (ambos inclusive).
+
+b) El litoral de la provincia de Barcelona, de la siguiente manera:
+
+– En la zona comprendida entre la demora de 165° trazada desde la desembocadura del río Tordera en situación 41° 39,00’ de latitud Norte y 002° 46,80’ de longitud Este, hasta la demora de 155° trazada desde la Punta de San Genís, en situación de 41° 29,90’ de latitud Norte y 002° 23,40’ de longitud Este, del 31 de agosto al 30 de septiembre (ambos inclusive).
+
+– En la zona comprendida entre la demora de 155° trazada desde la Punta de San Genís, en situación de 41° 29,90’ de latitud Norte y 002° 23,40’ de longitud Este, y la demora de 147° trazada desde Torre Barona, en situación de 41° 15,9’ de latitud Norte y 001° 57,7’ de longitud Este, del 1 de octubre al 1 de noviembre (ambos inclusive).
+
+– En la zona comprendida entre la demora de 147° trazada desde Torre Barona en situación de 41° 15,9’ de latitud Norte y 001° 57,7’ de longitud Este, hasta la demora de 176° trazada desde la central térmica de Cubelles, en situación de 41° 12,2’ de latitud Norte y 001° 39,40’ de longitud Este, del 23 de febrero al 10 de marzo (ambos inclusive) y del 3 al 16 de agosto (ambos inclusive).
+
+c) En parte de litoral de la provincia de Tarragona:
+
+– En la zona comprendida entre la demora de 176°, trazada desde la central térmica de Cubelles, en situación 41° 12,2’ de latitud Norte y 1° 39,4’ de longitud Este y la demora de 123° trazada desde la gola Sur del río Ebro, en situación 40° 40,9’ de latitud Norte y 0° 51,3’ en latitud Este, del 2 de mayo al 2 de junio (ambos inclusive).
+
+d) En el resto del litoral de Tarragona, desde la zona comprendida entre la demora de 123° trazada desde la gola Sur del río Ebro, en situación 40° 40,90’ de latitud Norte y 0° 51,30’ de longitud Este, y el litoral de Castellón hasta la demora de 121° trazada desde la desembocadura del rio Mijares, en situación 39° 54,492’ de latitud Norte y 0° 00,739’ de longitud Oeste, del 31 de julio al 31 de agosto (ambos inclusive).
+
+– Desde la demora de 121° trazada desde la desembocadura del rio Mijares, en situación 39° 54,492’ de latitud Norte y 0° 00,739’ de longitud Oeste, hasta el paralelo de Almenara, en situación de 39° 44,40’, del 1 al 30 de septiembre (ambos inclusive).
+
+e) El litoral de la provincia de Valencia/València, y norte de Alicante/Alacant, desde el paralelo de Almenara, situado en 39° 44,40’ de latitud Norte hasta la demora de 90° trazada en situación 38° 44,00’ de latitud Norte en el Cabo de la Nao, del 1 al 31 de octubre (ambos inclusive).
+
+f) El resto del litoral de la provincia de Alicante/Alacant, de la siguiente manera:
+
+– Calpe y Altea: En la zona comprendida desde la demora de 145° trazada en situación de 38° 44’ 19" latitud Norte y 000° 13' 00" longitud Este en el Cabo de la Nao, hasta la demora de 130° trazada desde la punta de la Escaleta, en situación 38° 31,60' de latitud Norte y 0° 05,47' de longitud Oeste, del 1 de mayo al 31 de mayo (ambos inclusive).
+
+– Villajoyosa: En la zona comprendida desde la demora de 130° trazada desde la punta de la Escaleta, en situación 38° 31,60’ de latitud Norte y 0° 05,47’ de longitud Oeste hasta la demora de 145° trazada desde El Campello en situación de 38° 25,712’ latitud Norte y 0° 23,006’ de longitud Oeste, del 1 al 29 de noviembre (ambos inclusive).
+
+– Santa Pola y Torrevieja: En la zona comprendida entre la demora de 120° trazada desde el Mojón en el punto situado en 37° 50,90’ latitud Norte y 00° 45,70’ longitud Oeste, hasta la demora de 140° trazada desde el punto situado en 38° 21,19’ de latitud Norte y 00° 24,162’ longitud Oeste, en el Cabo de L´Horta, del 1 al 30 de septiembre (ambos inclusive).
+
+g) El litoral de la Comunidad Autónoma de las Illes Balears, de la siguiente manera:
+
+– En todo el litoral de las Islas Baleares entre la isóbata de 150 y 500 metros, del 1 de febrero al 5 de marzo (ambos inclusive).
+
+– En el litoral de la Isla de Mallorca:
+
+● Del 16 de septiembre al 17 de octubre, en la totalidad del polígono formado por las siguientes coordenadas:
+
+39° 10,83’ N/002° 32,00’ E.
+
+39° 08,83’ N/002° 38,00’ E.
+
+38° 52,00’’ N/002° 43,83’ E.
+
+38° 54,00’ N/002° 32,00’ E.
+
+● Del 1 de noviembre al 8 de diciembre, en la totalidad del polígono formado por las siguientes coordenadas:
+
+39° 50,00’ N/002° 30,00’ E.
+
+39° 52,00’ N/002° 30,00’ E.
+
+39° 52,00’ N/002° 35,00’ E.
+
+39° 53,00’ N/002° 35,00’ E.
+
+h) El litoral de la Comunidad Autónoma de la Región de Murcia, desde la zona comprendida entre la demora de 120° trazada desde el Mojón en el punto situado en 37° 50,90’ de latitud Norte y 0° 45,70’ de longitud Oeste, hasta la demora de 165° trazada desde el punto 37° 22,50’ de latitud Norte y 1° 37,50’ de longitud Oeste, del 1 al 31 de octubre (ambos inclusive).
+
+i) El litoral de las provincias de Almería y Granada (desde la zona comprendida entre la demora de 165° trazada desde el punto 37° 22,50’ de latitud Norte y 1° 37,50’ de longitud Oeste, hasta el meridiano 003° 47,1’’ de longitud Oeste) y la zona de la reserva de pesca del entorno de la isla de Alborán y caladeros adyacentes regulada en el artículo 2.1 de la Orden de 8 de septiembre de 1998, por la que se establece una reserva marina y una reserva de pesca en el entorno de la isla de Alborán y se regula el ejercicio de la pesca en los caladeros adyacentes, del 1 de febrero al 5 de marzo (ambos inclusive).
+
+– El litoral de la provincia de Málaga (salvo Marbella) y el litoral mediterráneo de la provincia de Cádiz, desde el meridiano de Torre de la Caleta situado en 003° 47,1’ de longitud Oeste hasta el meridiano situado en longitud 005° 36,58’ W, del 1 al 31 de octubre (ambos inclusive).
+
+– Marbella, desde el meridiano del Río Guadalmansa situado en 36° 27,1’ de latitud Norte y 005° 03,9’ de longitud Oeste hasta el meridiano de Casa del Fuerte situado en 36° 31,5’ de latitud Norte y 004° 37,7’ de longitud Oeste, del 1 al 30 de noviembre (ambos inclusive).
+
+K) **(Suprimido)**
+
+L) **(Suprimido)**
+
+> Se modifica el apartado J) por el art. 1 de la Orden APA/281/2026, de 23 de marzo. [Ref. BOE-A-2026-7106](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7106)
+
+> Se modifica el apartado J) por el art. único de la Orden APA/85/2026, de 9 de febrero. [Ref. BOE-A-2026-3277](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3277)
+
+> Se modifica el apartado J) y se suprimen los apartados K) y L) por el art. único.2 de la Orden APA/85/2025, de 27 de enero. [Ref. BOE-A-2025-1716](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1716)
+
+> Se modifica el apartado J) y se añade el apartado L) por el art. único de la Orden APA/499/2024, de 27 de mayo. [Ref. BOE-A-2024-10740](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10740)
+
+> Se añade el apartado K) por el art. único de la Orden APA/412/2024, de 5 de mayo de 2024. [Ref. BOE-A-2024-9306](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-9306)
+
+> Se modifica el apartado J) por el art. único de la Orden APA/146/2024, de 19 de febrero. [Ref. BOE-A-2024-3434](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-3434)
+
+> Se modifica el apartado H) e I) y se añade el J) por el art. único de la Orden APA/80/2023, de 30 de enero. [Ref. BOE-A-2023-2571](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2571)
+
+> Se modifican los apartados E, G y H) y se añade el I) por el art. único de la Orden APA/799/2022, de 5 de agosto. [Ref. BOE-A-2022-13834](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13834)
+
+> Redactados los apartados E) y H) conforme a la corrección de errores publicada por Orden APA/825/2022, de 24 de agosto. [Ref. BOE-A-2022-14203](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14203)
+
+> Se añaden los apartados F), G) y H) por el art. único de la Orden APA/1397/2021, de 10 de diciembre. [Ref. BOE-A-2021-20620](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20620)
+
+> Redactados los apartados G) y H) conforme a la corrección de errores publicada por Orden APA/5/2022, de 4 de enero. [Ref. BOE-A-2022-555](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-555)
+
+> Se modifica el apartado B) y se añaden los apartados D) y E) por el art. unico.1 a 3 de la Orden APA/753/2020, de 31 de julio. [Ref. BOE-A-2020-9015](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9015)
+
+## ANEXO IV — Ratios de conversión de días de pesca según los segmentos de eslora
+
+a) Días de segmento superior utilizados por buque de cualquier segmento inferior 1:1.
+
+b) Días de segmento inferior respecto a segmento inmediatamente superior 1:1.
+
+c) Días de segmento inferior respecto a segmento siguiente al inmediatamente superior 1,2:1.
+
+d) Días de segmento de menos de 12 metros a segmento de más de 24 metros 1,3:1.
+
+## ANEXO V — Ratios de conversión de días de pesca entre pesquerías
+
+a) Un día de la pesquería de costera equivale a 1,238 días de la pesquería de profundidad del mismo segmento de eslora.
+
+b) Un día de la pesquería de profundidad equivale a 0,854 días de la pesquería de costera del mismo segmento de eslora.
+
+> Se añade por el art. único.13 de la Orden APA/241/2023, de 3 de marzo. [Ref. BOE-A-2023-6444](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6444)

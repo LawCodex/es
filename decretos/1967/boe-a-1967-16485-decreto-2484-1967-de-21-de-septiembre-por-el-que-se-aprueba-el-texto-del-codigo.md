@@ -1,0 +1,6807 @@
+---
+title: "Decreto 2484/1967, de 21 de septiembre, por el que se aprueba el texto del Código Alimentario Español"
+identifier: "BOE-A-1967-16485"
+eli: "https://www.boe.es/eli/es/d/1967/09/21/2484"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1967-09-21
+published: 1967-10-17
+in_force_from: 1975-03-13
+last_amended: 2026-02-27
+consolidated: 2026-02-27
+gazette: "Boletín Oficial del Estado núm. 248"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1967-16485"
+retrieved: 2026-10-11
+---
+
+# Decreto 2484/1967, de 21 de septiembre, por el que se aprueba el texto del Código Alimentario Español
+
+La Organización Mundial de la Salud (O. M. S.), la Organización de las Naciones Unidas para la Agricultura y la Alimentación (F. A. O.) y la Comisión de Industrias Agrícolas y Alimentarias (C. I. I. A.) vienen ocupándose desde hace años de que los distintos Gobiernos lleven a cabo estudios técnicos sanitarios sobre las condiciones que han de reunir los alimentos destinados al consumo humano, lo cual ha traído como consecuencia la preparación y perfeccionamiento de Códigos Alimentarios Nacionales.
+
+Con esta finalidad, por lo que se refiere a España, se creó por Orden de veintinueve de marzo de mil novecientos sesenta, una Subcomisión de Expertos, dentro de la Comisión Interministerial Técnico-Sanitaria, a fin de redactar un Proyecto de Código Alimentario Español.
+
+Cumplido por dicha Comisión el encargo recibido, examinado el Proyecto por la misma, redactado por los Organismos del Estado y de la Organización Sindical interesados en la materia e informado favorablemente por la Comisión Interministerial para la Ordenación Alimentaria creada por Decreto mil seiscientos sesenta y cuatro/mil novecientos sesenta y seis, de dieciséis de junio, se ha considerado conveniente la aprobación de dicho Código, que se pondrá en vigor en la forma que se prevé en el presente Decreto.
+
+En su virtud, a propuesta del Ministro Subsecretario de la Presidencia del Gobierno y previa deliberación del Consejo de Ministros en su reunión del día dieciocho de agosto de mil novecientos sesenta y siete.
+
+DISPONGO:
+
+###### Artículo primero.
+
+Se aprueba el texto del Código Alimentario Español que se inserta a continuación.
+
+El Consejo de Ministros acordará por Decreto la entrada en vigor de las distintas partes que componen el mismo.
+
+###### Artículo segundo.
+
+**(Derogado)**
+
+> Se deroga por la disposición final. 4 del Decreto 2519/1974, de 9 de agosto. [Ref. BOE-A-1974-1482](https://www.boe.es/buscar/doc.php?id=BOE-A-1974-1482).
+
+Así lo dispongo por el presente Decreto, dado en Madrid a veintiuno de septiembre de mil novecientos sesenta y siete.
+
+Francisco Franco
+
+El Ministro Subsecretario de la Presidencia del Gobierno.
+
+Luis Carrero Blanco
+
+## CÓDIGO ALIMENTARIO ESPAÑOL
+
+### PRIMERA PARTE — Principios generales
+
+#### Capítulo I — 1.01.00. Código Alimentario Español
+
+###### 1.01.01. Concepto.
+
+El Código Alimentario es el cuerpo orgánico de normas básicas y sistematizadas relativas a los alimentos, condimentos, estimulantes y bebidas, sus primeras materias correspondientes, utensilios y enseres de uso y consumo doméstico.
+
+A tales efectos, tiene como finalidad:
+
+a) Definir qué ha de entenderse por alimentos, condimentos estimulantes, bebidas y demás productos y materias a que alcanza esta codificación.
+
+b) Determinar las condiciones mínimas que han de reunir aquéllos.
+
+c) Establecer las condiciones básicas de los distintos procedimientos de preparación, conservación, envasado, distribución, transporte, publicidad y consumo de alimentos.
+
+###### 1.01.02. Aplicación.
+
+Las disposiciones de este Código son de estricta aplicación en todo el territorio nacional.
+
+a) En cuanto a lo que en éste se consuma o pretenda consumir, cualquiera que sea el país o territorio de su origen.
+
+b) En cuanto a los que en éste se obtenga, elabore o manipule cualquiera que sea el país o territorio donde haya de consumirse, si bien podrán tenerse en cuenta a efectos de exportación las legislaciones de los países de destino, con las correspondientes indicaciones en los envases.
+
+A su acatamiento y observancia están obligadas todas las personas físicas y jurídicas, cualquiera que sea su nacionalidad, en tanto en cuanto se hallen en territorio español, incluso en forma transitoria o accidental.
+
+#### Capítulo II — 1.02.00. Alimentos, productos y útiles alimentarios
+
+###### 1.02.01. Alimentos.
+
+**(Derogado).**
+
+###### 1.02.02. Nutrientes.
+
+**(Derogado).**
+
+###### 1.02.03. Productos dietéticos y de régimen.
+
+**(Derogado).**
+
+###### 1.02.04. Productos sucedáneos.
+
+Tendrá esta consideración todo producto que, sin fines engañosos o fraudulentos y con expresa declaración de la finalidad perseguida, pretenda sustituir en todo o en parte a un alimento.
+
+###### 1.02.05. Alimentos fundamentales.
+
+Son los que constituyen una proporción importante de la ración alimenticia habitual en las distintas regiones españolas.
+
+###### 1.02.06. Alimentos perecederos.
+
+Son los que, por sus características, exigen condiciones especiales de conservación en sus periodos de almacenamiento y transporte.
+
+###### 1.02.07. Alimento impropio.
+
+**(Derogado).**
+
+###### 1.02.08. Alimento adulterado.
+
+Tendrá la consideración de adulterado todo alimento al que se haya adicionado o sustraído cualquier sustancia para variar su composición, peso o volumen, con fines fraudulentos o para encubrir o corregir cualquier defecto debido a ser de inferior calidad o a tener ésta alterada.
+
+###### 1.02.09. Alimento falsificado.
+
+Tendrá la consideración de falsificado todo alimento en el que se haga concurrir alguna de las siguientes circunstancias:
+
+a) Que haya sido preparado o rotulado para simular otro conocido.
+
+b) Que su composición real no corresponda a la declarada y comercialmente anunciada.
+
+c) Cualquier otra capaz de inducir a error al consumidor.
+
+###### 1.02.10. Alimento alterado.
+
+Tendrá la consideración de alterado todo alimento que durante su obtención, preparación, manipulación, almacenamiento o tenencia, y por causas no provocadas deliberadamente, haya sufrido tales variaciones en sus caracteres organolépticos, composición química o valor nutritivo, que su aptitud para la alimentación haya quedado anulada o sensiblemente disminuida, aunque se mantenga inocuo.
+
+###### 1.02.11. Alimento no contaminado.
+
+**(Derogado).**
+
+###### 1.02.12. Alimento nocivo.
+
+**(Derogado).**
+
+###### 1.02.13. Productos alimentarios.
+
+Tendrán la consideración de productos alimentarios todas las materias no nocivas, en sentido absoluto o relativo, que, sin valor nutritivo, puedan ser utilizadas en la alimentación.
+
+###### 1.02.14. Útiles alimentarios.
+
+Tendrán la consideración de útiles alimentarios los vehículos de transporte, maquinaria, utillajes, recipientes, envases, embalajes, etiquetas y precintos de todas clases en cuanto usualmente se utilicen para la elaboración, fraccionamiento, conservación, transporte, rotulación, precintado y exposición de alimentos o de productos alimentarios.
+
+Tendrán la misma consideración los productos, materias, utensilios y enseres de uso y consumo doméstico.
+
+###### 1.02.15. Prohibiciones.
+
+En interés de la salud y conveniencia pública, quedan prohibidos, en cuanto al consumo humano se refiere, la fabricación, almacenamiento, manipulación, publicidad, venta, empleo, o tenencia de los alimentos, productos y útiles alimentarios que no cumplan las exigencias establecidas en este Código y en las Reglamentaciones complementarias.
+
+> Se derogan los apartados 1.02.01, 1.02.02, 1.02.03, 1.02.07, 1.02.11, 1.02.12, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo III — 1.03.00. Industrias y Establecimientos Alimentarios
+
+###### 1.03.01. Empresas.
+
+**(Derogado).**
+
+###### 1.03.02. Locales.
+
+Tendrán la consideración de locales en las Industrias y Establecimientos Alimentarios las factorías, complejos industriales y comerciales, unidades fabriles fijas y móviles, naves, edificios, lonjas, almacenes, silos, depósitos fijos y móviles, recintos, cobertizos, mercados, tiendas, escaparates, vitrinas, quioscos, puestos fijos o móviles y cerrados o al aire, en cuando se destinen, de modo permanente, temporal o circunstancial a alguno de los fines a que se refiere el artículo anterior.
+
+###### 1.03.03. Instalaciones y elementos industriales.
+
+Tendrán la consideración de instalaciones y elementos de las Industrias y Establecimientos Alimentarios toda clase de instalaciones fijas y móviles (hornos, agua, luz, fuerza, calefacción, ventilación, acondicionamiento de aire, ascensores, montacargas, cintas transportadoras, elevadores y material similar, transportes interiores, motores, herramientas, moldes, útiles y genéricamente, cuanto sea preciso utilizar en forma permanente o circunstancial a alguno de los fines a que se refiere el artículo 1.03.01 de este Código.
+
+###### 1.03.04. Personal.
+
+Tendrá la consideración de personal de las Industrias y Establecimientos Alimentarios el directivo, técnico, administrativo y obrero que, con retribución o sin ella, en los locales de la Empresa o en cualesquiera otros, dedique alguna actividad aun en forma circunstancial a cualquiera de los fines a que se refiere este Código.
+
+###### 1.03.05. Condiciones generales.
+
+**(Derogado).**
+
+###### 1.03.06. Prohibiciones.
+
+**(Derogado).**
+
+###### 1.03.07. Clasificación.
+
+Las Industrias y Establecimientos Alimentarios se ajustarán a la Clasificación Nacional de Actividades Económicas.
+
+###### 1.03.08. Registro Alimentario.
+
+Las Industrias y Establecimientos Alimentarios, en sus diversas actividades, serán objeto de inscripción obligatoria, de acuerdo con las normas que se fijen al efecto en la Reglamentación correspondiente.
+
+> Se derogan los apartados 1.03.01, 1.03.05, 1.03.06, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+### SEGUNDA PARTE — Condiciones generales de los materiales, tratamientos y personal relacionado con los alimentos, establecimientos e industrias de la alimentación
+
+#### Capítulo IV — 2.04.00. Condiciones generales del material relacionado con los alimentos, aparatos y envases Rotulación y precintado. Envasado
+
+#### (Derogado)
+
+> Se deroga por la disposición derogatora única.a).i del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 1.ª Aparatos, utensilios y envolventes
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatora única.a).i del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+> Se derogan los apartados 2.04.01, 2.04.02 y 2.04.03 por la disposición derogatoria del Real Decreto 397/1990, de 16 de marzo. [Ref. BOE-A-1990-7739](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-7739).
+
+> Téngase en cuenta la disposición transitoria, para su aplicación.
+
+##### Sección 2.ª Rotulación y etiquetado
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatora única.a).i del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo V — 2.05.00. Conservación de alimentos
+
+###### 2.05.01. Alimento conservado.
+
+Son los que, después de haber sido sometidos a tratamientos apropiados, se mantienen en las debidas condiciones higiénico-sanitarias, para el consumo durante un tiempo variable.
+
+###### 2.05.02. Procedimientos de conservación.
+
+Se autoriza los siguientes procedimientos de conservación:
+
+a) Por el frío.
+
+b) Por el calor.
+
+c) Por radiaciones.
+
+d) Por desecación, deshidratación y liofilización.
+
+e) Por salazón.
+
+f) Por ahumado.
+
+g) Por encurtido.
+
+h) Por escabechado.
+
+i) Por otros procedimientos.
+
+###### 2.05.03. Conservación por el frío.
+
+Es el procedimiento que consiste en someter los alimentos a la acción de bajas temperaturas, para reducir o eliminar las actividades microbianas y enzimáticas y para mantener determinadas condiciones físicas y químicas del alimento mediante los siguientes procesos:
+
+a) Refrigeración.
+
+b) Congelación.
+
+En estos tratamientos se tendrá en cuenta, fundamentalmente, la temperatura, la humedad relativa, la circulación y renovación del aire, la estiba y la densidad y duración del almacenamiento que requiere cada alimento conservado.
+
+###### 2.05.04. Refrigeración.
+
+Consiste en someter los alimentos a la acción de bajas temperaturas, sin alcanzar las de congelación. La temperatura deberá mantenerse uniforme, durante el período de conservación, dentro de los límites de tolerancia admitidos, en su caso, y ser la apropiada para cada tipo de producto.
+
+###### 2.05.05. Congelación.
+
+Consiste en someter los alimentos a temperaturas iguales o inferiores a las necesarias, para que la mayoría de su agua congelable se encuentre en forma de hielo. Durante el período de conservación, la temperatura se mantendrá uniforme de acuerdo con las exigencias y tolerancias permitidas en cada producto.
+
+La descongelación consiste en someter los alimentos congelados a procedimientos adecuados que permitan que su temperatura sea en todos sus puntos superior a la de congelación.
+
+###### 2.05.06. Conservación por el calor.
+
+Consiste en someter los alimentos a la acción del calor a temperatura y tiempos suficientes para reducir o eliminar la acción de los microorganismos y enzimas mediante los siguientes procedimientos:
+
+a) Esterilización.
+
+b) Pasteurización.
+
+###### 2.05.07. Esterilización.
+
+La esterilización es el proceso por el que se destruyen en los alimentos todas las formas de vida de microorganismos patógenos o no patógenos, a temperaturas adecuadas, aplicadas de una sola vez o por tindalización.
+
+En el ámbito industrial alimentario se considera también como esterilización el proceso por el que se destruyen o inactivan por un período determinado de tiempo, todas las formas de vida de los microorganismos capaces de producir alteraciones en los alimentos en condiciones normales de almacenamiento.
+
+###### 2.05.08. Pasteurización.
+
+Es el proceso por el cual se destruyen las formas vegetativas de los microorganismos patógenos de los alimentos, y se destruye o inactiva la casi totalidad de la flora banal, sometiendo los alimentos a temperaturas variables, en función del tiempo de tratamiento, de forma que no sufran modificaciones esenciales en su composición y se asegure su conservación a temperatura adecuada durante un período de tiempo no inferior a cuarenta y ocho horas.
+
+La cocción es un proceso por el que ciertos alimentos se someten a la acción del agua o su vapor, a temperaturas y períodos de tiempo variables de acuerdo con las exigencias de cada producto.
+
+###### 2.05.09. Conservación por radiaciones.
+
+Consiste en someter los alimentos a la acción de radiaciones, obtenidas por procedimientos autorizados con el fin de:
+
+a) Inhibir la germinación de ciertos alimentos vegetales.
+
+b) Combatir infestaciones por insectos.
+
+c) Contribuir a la destrucción de la flora microbiana, cuyo control total descansa, además, en la aplicación de otros métodos de conservación.
+
+El empleo de este método debe asegurar que no se alteran las propiedades esenciales de los alimentos.
+
+###### 2.05.10. Desecación, deshidratación y liofilización.
+
+Son procedimientos que se basan, dentro de la técnica respectiva, en la reducción del contenido de agua de los alimentos:
+
+a) Desecación, reducción del contenido de agua de los alimentos utilizando las condiciones ambientales naturales.
+
+b) Deshidratación, reducción del contenido de agua de los alimentos por acción del calor artificial.
+
+c) Liofilización, reducción del contenido de agua de los alimentos mediante congelación y sublimación de aquélla.
+
+###### 2.05.11. Salazón.
+
+Consiste en tratar los alimentos por la sal comestible y otros condimentos, en su caso en condiciones y tiempos apropiados para cada producto, mediante los siguientes procesos:
+
+a) Salazón en seco.- Consiste en aplicar la sal con o sin otros condimentos a los alimentos.
+
+b) Salazón en salmuera.- Consiste en tratar los alimentos con soluciones salinas de concentración variable.
+
+###### 2.05.12. Ahumado.
+
+Consiste en someter los alimentos a la acción de los productos procedentes de la combustión incompleta de maderas autorizadas de primer uso, pudiendo mezclarse en distintas proporciones con plantas aromáticas inofensivas.
+
+Igualmente podrán utilizarse los productos naturales condensados procedentes de la combustión de las maderas permitidas.
+
+###### 2.05.13. Encurtido.
+
+Consiste en someter a la acción del vinagre, de origen vínico, con o sin adición de sal, azúcares u otros condimentos los alimentos vegetales en su estado natural, los que han sido tratados con salmuera o los que han sufrido una fermentación láctica.
+
+###### 2.05.14. Escabechado.
+
+Consiste en someter los alimentos de origen animal crudos, cocidos o aritos a la acción del vinagre de origen vínico y de la sal con o sin adición de otros condimentos.
+
+###### 2.05.15. Otros procedimientos.
+
+Los alimentos se podrán someter también, a otros tratamientos de conservación autorizados, con azúcares, aceites, líquidos alcohólicos, productos alimenticios naturales y aditivos permitidos, sujetándose en todos los casos a límites de tolerancia.
+
+###### 2.05.16. Condiciones específicas.
+
+**(Derogado).**
+
+###### 2.05.17. Prohibiciones.- Queda prohibido:
+
+a) Recongelar alimentos que habiendo sido congelados hayan experimentado un aumento de temperatura que los haga perder sus características específicas.
+
+b) En el ahumado, utilizar como combustible maderas resinosas, excepto las de abeto, maderas que proporcionen olor o sabor desagradables, juncos, zuros de maíz y otros materiales que depositen hollín sobre el alimento y materiales de desecho o que puedan desprender sustancias tóxicas.
+
+c) Utilizar en la conservación de los alimentos materias primas que no reúnan las condiciones exigidas en el Código Alimentario Español y disposiciones que lo desarrollan.
+
+###### 2.05.18.
+
+**(Derogado).**
+
+> Se derogan los apartados 2.05.16, 2.05.18, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+> Se modifica por el art. único del Real Decreto 1353/1983, de 27 de abril. [Ref. BOE-A-1983-15102](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-15102).
+
+#### Capítulo VI — 2.06.00. Almacenamiento y transporte
+
+#### (Derogado)
+
+> Se deroga por la disposición derogatora única.a).i del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo VII — 2.07.00. Preparación culinaria
+
+#### (Derogado)
+
+> Se deroga por la disposición derogatoria única.f) del Real Decreto 3484/2000, de 29 de diciembre. [Ref. BOE-A-2001-809](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-809).
+
+#### Capítulo VIII — 2.08.00. Condiciones generales que debe cumplir el personal relacionado con los alimentos, establecimientos e industrias de la alimentación
+
+#### (Derogado)
+
+> Se deroga por la disposición derogatora única.a).i del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo IX — 2.09.00. Condiciones generales de los juguetes, útiles de Colegio y material de uso doméstico
+
+> Téngase en cuenta que se deroga el presente Capítulo en lo referente a la seguridad de los juguetes, útiles de uso infantil y artículos de broma, según establece la disposición derogatoria del Real Decreto 2330/1985, de 6 de noviembre. [Ref. BOE-A-1985-26094](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-26094).
+
+> Véase el art. 1 y la disposición derogatoria del Real Decreto 841/1985, de 25 de mayo. [Ref. BOE-A-1985-10433](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-10433)., en cuanto a las condiciones de los apartados 2.09.02 a 2.09.05 y 2.09.10 en relación con la letras h) del apartado 2.09.01 y el art. 1 y la disposición derogatoria del Real Decreto 106/1985, de 23 de enero. [Ref. BOE-A-1985-2051](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-2051)., en cuanto a las condiciones de los apartados 2.09.02 a 2.09.05 y 2.09.10 en relación con las letras f) y g) del apartado 2.09.01.
+
+###### 2.09.01. Contenido.
+
+Los objetos y utensilios, así como los útiles de trabajo, que puedan estar en contacto con la piel o las mucosas se ajustarán a las condiciones generales del presente Capítulo. Se considerarán, entre otros, incluidos en el mismo:
+
+a) Juguetes infantiles.
+
+b) Material escolar.
+
+c) Material de escritorio.
+
+d) Instrumentos musicales.
+
+e) Útiles de barbería y peluquería.
+
+f) Objetos de adorno o uso personal.
+
+g) Ropas y tapicerías.
+
+h) Mobiliario.
+
+i) Coches y vehículos infantiles.
+
+j) Pinturas, barnices y lacas de uso en los anteriores.
+
+###### 2.09.02. Fabricación.
+
+En la fabricación de objetos y productos para los fines consignados en el artículo anterior se observarán rigurosamente las siguientes prevenciones:
+
+a) Se prohíbe emplear plomo, cinc o las aleaciones que tengan más del 10 por 100 de estos metales, aunque se hallen revestidos de un metal inofensivo.
+
+b) Se prohíbe la presencia de arsénico y sus compuestos en cualquier cantidad.
+
+c) Los productos y todas las partes de los objetos que puedan estar en contacto con la piel o las mucosas han de ser fabricadas con materiales inocuos de los especificados en el Capítulo IV.
+
+###### 2.09.03. Colorantes permitidos.
+
+Los colorantes y pigmentos empleados en la fabricación de objetos para los fines indicados, sus pinturas, barnices y lacas, se ajustarán, en lo que sea de aplicación, a lo consignado en el Capítulo XXXI.
+
+Se consideran inocuas a estos fines y se permiten las sales insolubles de bario, cadmio y cromo, el óxido de cinc, el litopón y el azul de Prusia. Todos los colores metálicos incorporados por fusión al vidrio y los esmaltes, con tal que no cedan plomo o cinc por tratamiento con solución de ácido acético al 4 por 100 durante veinticuatro horas, a temperatura ambiente.
+
+###### 2.09.04. Colorantes prohibidos.
+
+Se consideran, entre otros, colorantes nocivos, cuyo uso queda prohibido a estos efectos:
+
+a) Los colorantes minerales que contengan antimonio, arsénico, cobre, mercurio, uranio, más de un 1 por 100 de plomo, el óxido de cromo y las sales solubles o carbonatos do bario, cadmio, cromo y cinc.
+
+b) Los colorantes orgánicos que contengan ácido pícrico, dinitro-cresol, o que no figuren en las listas positivas de este Código.
+
+c) Las purpurinas no podrán ser a base de cobre o sus aleaciones.
+
+###### 2.09.05. Coloreado del caucho.
+
+Los objetos y piezas de caucho o de sucedáneos del mismo, ya sean elásticos o endurecidos, podrán estar coloreados con sulfuro de antimonio o cadmio y compuestos de cinc insolubles en agua.
+
+###### 2.09.06. Pinturas infantiles.
+
+Los lápices de color y pinturas Infantiles no podrán contener otros colorantes o pigmentos que los autorizados en el artículo 2.09.03.
+
+###### 2.09.07. Pinturas y tinta china.
+
+La tinta china, los colores al pastel o al óleo y otros pigmentos de uso artístico o técnico podrán contener sustancias no permitidas siempre que lleven claramente especificado en sus envolturas que no son apropiados para el uso escolar, doméstico o de escritorio.
+
+###### 2.09.08. Tintas y otros.
+
+Las tintas, ya sean para escritura, para imprenta o litografía, gomas de borrar y de pegar, papeles usuales y de calco para uso escolar o de escritorio, estarán exentos de arsénico, plomo y otras sustancias nocivas.
+
+###### 2.09.09. Pinturas para la construcción.
+
+Los colores y pigmentos al agua y cola empleados en la pintura no contendrán arsénico ni plomo.
+
+###### 2.09.10. Textiles, papeles y cueros.
+
+Los tejidos y fibras textiles empleados en la confección de cortinas, tapices, tapetes, alfombras y tapicería de muebles, los papeles pintados, máscaras y otros artículos domésticos de cartón o de papel, las flores artificiales y los artículos de cuero de uso personal o doméstico deberán estar exentos de arsénico.
+
+###### 2.09.11. Productos varios.
+
+La crin, seda, guata, pelote, residuos textiles y otros productos semejantes deberán desinfectarse por las industrias correspondientes antes de ser usados en la fabricación y relleno de tapicerías de muebles, colchones, almohadas y otros objetos de uso doméstico, guantes de trabajo, cepillos y objetos similares.
+
+> Se deroga en lo referente a la seguridad de los juguetes, útiles de uso infantil y artículos de broma, por la disposición derogatoria del Real Decreto 2330/1985, de 6 de noviembre. [Ref. BOE-A-1985-26094](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-26094).
+
+> Téngase en cuenta la disposición transitoria, para su aplicación.
+
+> Véase el art. 1 y la disposición derogatoria del Real Decreto 841/1985, de 25 de mayo. [Ref. BOE-A-1985-10433](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-10433)., en cuanto a las condiciones de los apartados 2.09.02 a 2.09.05 y 2.09.10 en relación con la letras h) del apartado 2.09.01.
+
+> Téngase en cuenta la disposición transitoria, para su aplicación.
+
+> Véase el art. 1 y la disposición derogatoria del Real Decreto 106/1985, de 23 de enero. [Ref. BOE-A-1985-2051](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-2051)., en cuanto a las condiciones de los apartados 2.09.02 a 2.09.05 y 2.09.10 en relación con las letras f) y g) del apartado 2.09.01.
+
+> Téngase en cuenta la disposición transitoria, para su aplicación.
+
+### TERCERA PARTE — Alimentos y bebidas
+
+#### Capítulo X — 3.10.00. Carnes y derivados
+
+> Ref. BOE-A-2002-5205
+
+> Se deroga, en lo referente a las carnes de toro, por la disposición derogatoria única.1 del Real Decreto 260/2002, de 8 de marzo. [Ref. BOE-A-2002-5205](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-5205).
+
+##### Sección 1.ª Generalidades sobre carnes y despojos
+
+> Téngase en cuenta que esta Sección se deroga en cuanto se oponga por la disposición derogatoria del Real Decreto 179/1985, de 6 de febrero. [Ref. BOE-A-1985-2692](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-2692), la disposición derogatoria del Real Decreto 1915/1984, de 26 de septiembre. [Ref. BOE-A-1984-24269](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-24269) y la disposición derogatoria del Real Decreto 3263/1976, de 26 de noviembre. [Ref. BOE-A-1977-3081](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-3081), en lo que afecta al ámbito exclusivo de la reglamentación que aprueban.
+
+###### 3.10.01. Definición y caracteres de la carne.
+
+**(Derogado).**
+
+###### 3.10.02. Canal.
+
+**(Derogado).**
+
+###### 3.10.03. Clase.
+
+Se entiende por clase el tipo de carne que dentro de cada especie animal proporciona la canal en general. Se establecerán distintas clases de carne, según la edad, características musculares, estado de engrasamiento del animal y demás circunstancias que se estipulen en las reglamentaciones complementarias de este Capítulo.
+
+###### 3.10.04. Categoría.
+
+Se entiende por categoría el tipo de carne que dentro de la canal proporciona cada región anatómica en particular. Las reglamentaciones complementarias establecerán las distintas categorías de carne en las diferentes especies animales y canales.
+
+###### 3.10.05. Clasificaciones de las carnes.
+
+A efectos de este Código se establecen las cuatro clasificaciones siguientes:
+
+a) Según la especie animal productora: Carnes de bóvidos, de ovinos, de cápridos, de súidos, de équidos, de camélidos y de cetáceos.
+
+b) Según la clase de canal.
+
+Las normas para la apreciación de caracteres de clasificación en las distintas canales para su inclusión en las clases correspondientes serán señaladas por las reglamentaciones y legislación complementaria de este Código.
+
+c) Según la categoría.
+
+Las normas para la separación adecuada de las regiones anatómicas de la canal y formar las piezas que integran las distintas categorías de carne serán señaladas por la legislación complementaria de este Código.
+
+d) Según la forma en que han sido conservadas y su aptitud para el consumo humano: Carnes frescas, refrigeradas, congeladas, defectuosas, impropias y nocivas.
+
+###### 3.10.06. Despojos.
+
+**(Derogado).**
+
+> Se derogan los apartados 3.10.01, 3.10.02, 3.10.06, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+> Se deroga en cuanto se oponga por la disposición derogatoria del Real Decreto 179/1985, de 6 de febrero. [Ref. BOE-A-1985-2692](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-2692)., en lo que afecta al ámbito exclusivo de la reglamentación que aprueba.
+
+> Téngase en cuenta la disposición transitoria, para su aplicación.
+
+> Se deroga en cuanto se oponga por la disposición derogatoria del Real Decreto 1915/1984, de 26 de septiembre. [Ref. BOE-A-1984-24269](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-24269)., en lo que afecta al ámbito exclusivo de la reglamentación que aprueba.
+
+> Se deroga en cuento se oponga por la disposición derogatoria del Real Decreto 3263/1976, de 26 de noviembre. [Ref. BOE-A-1977-3081](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-3081).
+
+##### Sección 2.ª Disposiciones comunes sobre carnes
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatora única.a).ii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+> Se modifica el párrafo segundo del apartado 3.10.09.f) por el art. único del Real Decreto 504/1986, de 21 de febrero. [Ref. BOE-A-1986-6861](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-6861).
+
+> Se deroga en cuanto se oponga por la disposición derogatoria del Real Decreto 179/1985, de 6 de febrero. [Ref. BOE-A-1985-2692](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-2692)., en lo que afecta al ámbito exclusivo de la reglamentación que aprueba.
+
+> Téngase en cuenta la disposición transitoria, para su aplicación
+
+> Se deroga en cuanto se oponga por la disposición derogatoria del Real Decreto 1915/1984, de 26 de septiembre. [Ref. BOE-A-1984-24269](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-24269)., en lo que afecta al ámbito exclusivo de la reglamentación que aprueba.
+
+> Téngase en cuenta la disposición transitoria, para su aplicación
+
+> Se deroga en cuento se oponga por la disposición derogatoria del Real Decreto 3263/1976, de 26 de noviembre. [Ref. BOE-A-1977-3081](https://www.boe.es/buscar/doc.php?id=BOE-A-1977-3081).
+
+##### Sección 3.ª Derivados cárnicos
+
+###### 3.10.19. Denominación genérica.
+
+Con el nombre genérico de derivados cárnicos se designan los productos alimenticios preparados total o parcialmente con carnes o despojos de las especies autorizadas en este Código para tal fin y sometidos a operaciones específicas antes de su puesta al consumo.
+
+###### 3.10.20. Clasificación.
+
+Los derivados cárnicos se clasifican en:
+
+a) Salazones, ahumados y adobados.
+
+b) Tocinos.
+
+c) Embutidos, charcutería y fiambres.
+
+d) Extractos y caldos de carne.
+
+e) Tripas.
+
+###### 3.10.21. Salazones, ahumados y adobados.
+
+Se entiende por salazones cárnicos las carnes sometidas a la acción prolongada del cloruro sódico, ya en forma sólida o de salmuera, que garantice su conservación por un periodo más o menos largo de tiempo.
+
+La salazón puede preceder a las operaciones de secado y ahumado, y cuando las carnes han sufrido estas últimas se denominan ahumadas. Dentro de este grupo se incluyen, entre otros, los jamones y paletillas.
+
+En el caso de adición a la sal de especias o condimentos varios, al derivado cárnico se le aplicará el término de «adobado», incluyéndose en este grupo la carne picada. Esta es la que, teniendo por base el picado obtenido en la forma que se indica en el apartado f) del artículo 3.10.09 de este Código, ha sido adicionada de ajo, perejil y otros condimentos autorizados, pudiendo añadirse tocino en proporción nunca superior al 2 por 100.
+
+###### 3.10.22. Tocino.
+
+Es el tejido adiposo subcutáneo, fresco, de cerdo sano, libre de tejidos no grasos, de color ligeramente blanco rosáceo, olor «sui generis», de consistencia compacta y untosa, obtenido por despiece según normas determinadas para su consumo en fresco, salado, condimentado o industrializado.
+
+Los caracteres organolépticos de las hojas de tocino deben ser constantes, sea cual fuere la región anatómica de donde procedan. El tocino debe ser homogéneo, y su punto de fusión oscilar entre 35 grados y 50 grados centígrados.
+
+Tocino entreverado. Es el que presenta cierta cantidad de fibras musculares entre el tejido adiposo.
+
+Panceta. Es el tocino entreverado fresco, salado o adobado.
+
+Bacón. Es el tocino entreverado de cerdos apropiados sometido a los procesos de salazón, adobo y ahumado.
+
+###### 3.10.23. Embutidos.
+
+Con el nombre genérico de embutidos se designan aquellos derivados, preparados a partir de las carnes autorizadas en el artículo 3.10.01, picadas o no, sometidas o no a procesos de curación, adicionadas o no de despojos comestibles y grasas de cerdo, productos vegetales, condimentos y especias e introducidos en tripas naturales o artificiales.
+
+Los embutidos se clasifican en:
+
+a) Embutidos de carne.
+
+b) Embutidos de vísceras.
+
+c) Embutidos de sangre.
+
+d) Fiambres.
+
+Embutidos crudos. Son los que han sido sometidos únicamente al adobo y amasado antes de llenado en tripa, madurados o no, y sometidos posteriormente al secado y ahumado o no. No contendrán tejido fibroso, cartílagos ni sebos.
+
+Embutidos escaldados. Son los preparados con carne finamente picada, sometidos durante un tiempo variable a la acción del agua de 70 a 80 grados y ahumados o no posteriormente.
+
+###### 3.10.24. Embutidos de carnes.
+
+Reciben este nombre los elaborados con las carnes autorizadas en el artículo 3.10.01, con los caracteres especiales que determinen las reglamentaciones correspondientes y grasa de cerdo exclusivamente.
+
+Por su composición, se considerarán «puro» o «mezcla», según contengan carne de una o más especies. Por su elaboración, «crudos» (frescos y curados) y «escaldados». Por su consistencia, duros, blandos y pastosos. Por su color, encarnados y blancos, según tengan o no pimentón.
+
+Elaboraciones tradicionales:
+
+Chorizo. Es el embutido crudo, curado y encarnado elaborado con carne de cerdo o de cerdo y vacuno, metido en tripa natural o artificial de diámetro superior a 22 milímetros. El de diámetro inferior se denominará «longaniza».
+
+Embuchado. Es el embutido duro, crudo y encarnado elaborado con lomo de cerdo (músculo ileoespinal), desprovisto de grasa, aponeurosis y tendones, sometido o no a adobo e introducido en tripa cular de porcino o vacuno u otro tipo que se autorice.
+
+Cuando el lomo de cerdo se divide en grandes trozos que permiten su identificación, y éstos sean sometidos al mismo proceso que el embuchado, el derivado cárnico se denomina «morcón».
+
+Salchichón. Es el embutido crudo, curado y blanco elaborado con carne de cerdo o de cerdo y vacuno, con la adición de cubitos de tocino o tocino finamente picado, metidos en tripa artificial o natural, cular o semicular, porcina o vacuna, de 40 milímetros de diámetro como mínimo.
+
+Cuando el diámetro de la tripa sea inferior al señalado, el derivado cárnico se denomina «longaniza imperial» o «fuet».
+
+Salchichas. Son embutidos blandos, crudos, encarnados o blancos, elaborados con carne de cerdo o de cerdo y vacuno picada en finos trozos, mezclados con grasa de cerdo y metidos en tripa natural o artificial de 18-28 milímetros de diámetro como máximo.
+
+Salchichas tipo Francfort. Son embutidos escaldados, elaborados con carne de cerdo, vacuno o sus mezclas y grasa de cerdo, finísimamente picadas e introducidas en tripa natural o artificial de 18-28 milímetros de diámetro como máximo, sufriendo el proceso de ahumado y después el de escaldado.
+
+Cuando el escaldado se verifica antes que el ahumado, el derivado se denomina «salchicha tipo Viena».
+
+Butifarra. Es un embutido generalmente blanco elaborado con carne de cerdo o de cerdo y vacuno introducido en tripa natural delgada de cerdo o vacuno y cocido o no lentamente en agua hirviendo.
+
+Butifarrón. Es un embutido blanco elaborado con carne de cerdo o de cerdo y vacuno, picada en trozos finos y gruesos, introducida en tripa cular o semicular de cerdo o vacuno o artificial, templado a la estufa a no más de 20 grados centígrados y cocido en agua caliente, sin llegar a la ebullición, seguido de oreo y secado.
+
+Sobrasada. Es un embutido crudo, blando y encarnado elaborado con carne de cerdo o de cerdo y vacuno, tocino y condimentos, sometido al adobo, amasado y maduración antes de llenado en tripa y posterior desecación.
+
+Otras elaboraciones. Cualquier otra elaboración será motivo de las reglamentaciones complementarias.
+
+###### 3.10.25. Embutidos de vísceras.
+
+Son aquellos que, además de los componentes de los embutidos de carne, contienen trozos de vísceras cocidas o encalladas antes de ser embutidos.
+
+Corresponden a este grupo las distintas clases de sabadeñas, longanizas gallegas, salchichas de hígado, etc., que serán definidos en la reglamentación correspondiente.
+
+###### 3.10.26. Embutidos de sangre.
+
+Son aquellos de consistencia blanda o semiblanda, crudos o cocidos, en los que su principal constituyente es la sangre, a la que se ha adicionado carne, vísceras, manteca, tocino y productos vegetales varios, introducidos en tripa ancha.
+
+Corresponden a este grupo las distintas clases de botagueñas y morcillas, que serán definidas en las reglamentaciones correspondientes.
+
+###### 3.10.27. Fiambres.
+
+Son productos de variada composición, constituidos por carne de cerdo, de vacuno, tocino o sus mezclas, aves y sus mollejas, huevo, leche y especias varias, formando bloques debidamente protegidos del exterior per finas hojas de tocino, celofán u otras materias autorizadas y contenidos en membranas animales o cualquier otro envolvente autorizado.
+
+Jamón de York. Es el pernil o brazuelo del cerdo deshuesado, descortezado o no, bien sazonado, nitrificado y cocido, moldeado y recubierto de envolturas autorizadas o enlatado.
+
+Mortadela. Es un fiambre compuesto de carne de cerdo, sola o mezclada con la de vacuno, finamente picada y majada, limpia de grasa y aponeurosis, adicionada de tocino y embutida en vejiga, tripa gruesa o cualquier otro envolvente autorizado, ahumada y cocida posteriormente a 90 grados.
+
+Roulada. Es el fiambre compuesto de envoltura, relleno o pasta y decorado. La envoltura es una capa de tocino inferior a tres milímetros de espesor; la pasta está constituida por mezclas de carne de cerdo, vacuno y tocino con sal y especias. Los decorados se hacen con diversos elementos, lengua, molleja de aves, huevo, sangre, etc. El conjunto es sometido a cocción.
+
+Galantinas. Son productos en cuya composición entran carnes y vísceras de porcino y vacuno, carnes y vísceras de aves, adicionados o no de pescado y marisco, leche, nata, huevos, setas y otros vegetales.
+
+Pastas de hígado. Son productos elaborados a base de esta víscera picada, procedente de pato, oca, cerdo o vacuno, mezcladas con grasa de ave o de cerdo.
+
+Chicharrones. Son productos elaborados con trozos de piel, orejas, tocino de papada y residuo de fusión de pellas, todo ello de reses porcinas, así como carnes y lengua de vacuno, aglutinados por gelatina y prensados en moldes adecuados.
+
+No se excluyen otros preparados que, en su día, recoja la reglamentación correspondiente.
+
+###### 3.10.28. Características de los embutidos.
+
+Las reglamentaciones correspondientes y disposiciones complementarias indicarán con detalle la composición y características que deben reunir los distintos embutidos, fiambres y otros derivados cárnicos.
+
+En su elaboración podrá emplearse la sal comestible, en cantidad máxima de 35 partes por 1.000, especias, condimentos y los aditivos autorizados a estos fines, incluidos en las listas positivas de este Código.
+
+No se permitirá la adición de féculas, salvo autorización expresa, para determinados tipos de embutidos.
+
+###### 3.10.29. Denominaciones.
+
+Los embutidos podrán designarse, además de con el nombre correspondiente a su composición y características, con el apelativo de la región o zona de procedencia.
+
+###### 3.10.30. Extractos y caldos de carne.
+
+**(Derogado)**
+
+###### 3.10.31. Gelatinas alimenticias.
+
+Son los preparados obtenidos por extracción al calor de tendones, cartílagos, huesos. etc., con adición o no de condimentos, especias, sal de cocina y azúcar. Diluidas en agua después de calentadas y metidas en un molde; por reenfriamiento, las gelatinas toman la forma de aquél.
+
+###### *3.10.32. Envasado de extractos y gelatinas.*
+
+*Los envases conteniendo extractos de carne llevarán en su cara exterior una inscripción indicando su contenido, de acuerdo con lo expuesto en el artículo 3.10.30 de este Código, pudiendo figurar en éste además la representación gráfica de la especie animal de que procedan, clase o categoría de carne o víscera que sirvió de base para su elaboración.*
+
+*Los embalajes conteniendo envases de caldos concentrados llevarán una etiqueta con una indicación del producto que contienen y cantidad del mismo, en caracteres bien visibles, en letras y cifras de una altura mínima de cuatro milímetros y un espesor mínimo de cinco milímetros.*
+
+*Los extractos de carne elaborados con destino exclusivo a la exportación podrán ajustarse a las exigencias de los países destinatarios, y llevarán impreso en los envases, en gruesos caracteres, la palabra «EXPORT».*
+
+*El material de los envases y embalajes para extractos de carnes y gelatinas se ajustará a lo dispuesto en el Capítulo IV de este Código.*
+
+> Téngase en cuenta que se derogan los aspectos referidos a extractos de carne del apartado 3.10.32 por la disposición derogatoria única del Real Decreto 2452/1998, de 17 de noviembre. [Ref. BOE-A-1998-26925](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-26925).
+
+###### 3.10.33. Sucedáneos de extractos.
+
+Son los productos o preparados que por sus características organolépticas se parecen a las extractos de carne. No podrán ser designados con nombres parecidos a éstos y que induzcan a error al consumidor, siendo considerados productos sucedáneos e incluidos, por tanto, en el artículo 1.02.04 de este Código.
+
+###### 3.10.34. Conservas cárnicas.
+
+Por su carácter especial, estos derivados cárnicos se ajustarán a lo dispuesto en el Capítulo XXVI de este Código.
+
+###### 3.10.35. Manipulaciones generales.
+
+**(Derogado).**
+
+###### 3.10.36. Prohibiciones.
+
+**(Derogado).**
+
+> Se derogan los apartados 3.10.35 y 3.10.36, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+> Se deroga el apartado 3.10.30 y los aspectos referidos a extractos de carne del apartado 3.10.32 por la disposición derogatoria única del Real Decreto 2452/1998, de 17 de noviembre. [Ref. BOE-A-1998-26925](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-26925).
+
+##### Sección 4.ª Tripas
+
+###### 3.10.37. Tripas naturales.
+
+A efectos de este Código, se entiende por tripas naturales diversas regiones del aparato digestivo y vejigas de bóvidos, óvidos, súidos y équidos y piel de aves, que, previas las operaciones pertinentes, se utilizan en la elaboración de embutidos.
+
+Precederán de animales sanos, sacrificados bajo control sanitario y estarán elaborados en industrias autorizadas para este fin. Su empleo será preferente en los embutidos denominados puros.
+
+###### 3.10.38. Tripas artificiales.
+
+Son las obtenidas, mediante distintos proceses técnicos, de tejidos animales sanos, sacrificados bajo control sanitario o de diversos materiales celulósicos autorizados, en industrias registradas oficialmente.
+
+###### 3.10.39. Clasificación de tripas.
+
+La reglamentación correspondiente especificará los distintos tipos de tripas naturales y artificiales con respecto a su origen, región animal de precedencia, tamaño y diámetro.
+
+###### 3.10.40. Manipulaciones de tripas naturales.
+
+**(Derogado).**
+
+###### 3.10.41. Conservación de tripas naturales.
+
+**(Derogado).**
+
+###### 3.10.42. Industrias de tripas naturales.
+
+**(Derogado).**
+
+###### 3.10.43. Prohibiciones.
+
+**(Derogado).**
+
+> Se derogan los apartados 3.10.40, 3.10.41, 3.10.42, 3.10.43, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo XI — 3.11.00. Aves y Caza
+
+##### Sección 1.ª Aves
+
+> Téngase en cuenta que se deroga la presente sección, en cuanto se oponga, por la disposición derogatoria del Real Decreto 179/1985, de 6 de febrero. [Ref. BOE-A-1985-2692](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-2692)., en lo que afecta al ámbito exclusivo de la reglamentación que aprueba.
+
+###### 3.11.01. Denominación genérica.
+
+**(Derogado).**
+
+###### 3.11.02. Características.
+
+**(Derogado).**
+
+###### 3.11.03. Clasificación de las aves.
+
+A efectos de este Código y según la especie, sexo y edad, se distinguen las siguientes clases de aves:
+
+a) Gallo, gallina, capón y pollo.
+
+b) Pavo, pato, ganso, gallina de Guinea y paloma.
+
+c) Faisán, perdiz, codorniz, tórtola, zorzal y otros.
+
+Dentro de estas clases, las reglamentaciones complementarias de este Código señalarán distintos tipos comerciales, en atención al peso, edad, estado de carnes y destino de las aves.
+
+###### 3.11.04. Clasificación de las carnes de ave.
+
+A efectos de este Código se distinguen las siguientes clases:
+
+a) Frescas, refrigeradas y congeladas.
+
+b) Alteradas.
+
+c) Defectuosas.
+
+d) Nocivas.
+
+Son de aplicación para las carnes de ave lo que para carnes en general se establece en los artículos 3.10.01 y 3.10.14 al 3.10.19, ambos inclusive, de este Código.
+
+###### 3.11.05. Despojos de aves.
+
+Se distinguen dos grupos:
+
+a) Internos. Son las partes comestibles, pulmón, corazón, hígado, bazo, molleja o ventrículo subcenturiado e intestino o gallinejas, que se extraen de las cavidades pulmonar y abdominal de las aves comestibles. Son también conocidos con la denominación de «menudillos de aves».
+
+b) Externos. Son las partes comestibles procedentes de la preparación del cuerpo de las aves que comprenden cabeza, cuello, alas y tarsos.
+
+###### 3.11.06. Manipulaciones.
+
+**(Derogado).**
+
+###### 3.11.07. Personal.
+
+**(Derogado).**
+
+###### 3.11.08. Prohibiciones.
+
+**(Derogado).**
+
+###### 3.11.09. Transporte.
+
+**(Derogado).**
+
+###### 3.11.10. Establecimientos de venta.
+
+**(Derogado).**
+
+###### 3.11.11. Venta de aves enteras.
+
+**(Derogado).**
+
+###### 3.11.12. Venta de aves troceadas.
+
+**(Derogado).**
+
+###### 3.11.13. Venta de despojos.
+
+**(Derogado).**
+
+###### 3.11.14. Derivados de ave.
+
+**(Derogado).**
+
+> Se derogan los apartados 3.11.01, 3.11.02, 3.11.06, 3.11.07, 3.11.08, 3.11.09, 3.11.10, 3.11.11, 3.11.12, 3.11.13, 3.11.14, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+> Se deroga en cuanto se oponga por la disposición derogatoria del Real Decreto 179/1985, de 6 de febrero. [Ref. BOE-A-1985-2692](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-2692)., en lo que afecta al ámbito exclusivo de la reglamentación que aprueba.
+
+> Téngase en cuenta la disposición transitoria, para su aplicación
+
+##### Sección 2.ª Mamíferos de caza y similares
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatora única.a).ii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo XII — 3.12.00. Pescados y derivados
+
+##### Sección 1.ª Pescados
+
+###### 3.12.01. Denominación genérica.
+
+A efectos de este Código se comprende en la denominación genérica de «pescados» a los animales vertebrados comestibles, marinos o de agua dulce (peces, mamíferos, cetáceos y anfibios) frescos o conservados por distintos procedimientos autorizados.
+
+###### 3.12.02. Denominación específica.
+
+A las especies más importantes de consumo o que son objeto de comercio exterior se las designará con sus nombres vernaculares o científicos, con arreglo a la siguiente enumeración:
+
+TELEOSTEOS
+
+Acipenseriformes
+
+Esturión («Acipenser Sturio» Linneo).
+
+Clupeiformes
+
+Sábalo («Alosa alosa» Linneo).
+
+Saboga («Alosa fallax» Lac).
+
+Espadín («Clupea sprattus» Linneo).
+
+Sardina («Sardina pilchardus» Walbaum).
+
+Alacha («Sardinella aurita» Cuvier).
+
+Machuelo («Sardinella eba» Lowe).
+
+Boquerón o anchoa («Engraulis encrasicholus» Linneo).
+
+Arenque («Clupea harengus» Llaneo).
+
+Salmoniformes
+
+Salmón («Salmo salar» Linneo).
+
+Reo o trucha marisca («Salmo trutta trutta» Linneo).
+
+Trucha de río («Salmo trutta fario» Linnee).
+
+Trucha arco iris («Salmo irideus» Gibbons).
+
+Cipriniformes
+
+Carpa («Cyprinus carpio» Linneo).
+
+Tenca («Tinca tinca» Linneo).
+
+Barbo («Barbus» sp. sp.).
+
+Bogas de río («Chondrostoma» sp. sp).
+
+Cachos («Leuciscus» sp. sp.).
+
+Anguiliformes
+
+Angula (joven) («Anguilla anguila» Linneo).
+
+Anguila (adulta) («Anguilla anguilla» Linneo).
+
+Congrio («Conger conger» Linneo).
+
+Pretomizoniformes
+
+Lamprea («Pretomyzon marinus» Linneo).
+
+Escombriformes y afines
+
+Atún («Thunnus thynnus» Linneo).
+
+Albacora («Germo atalunga» Bonnaterra).
+
+Rabil («Germo albacora» Lowe).
+
+Patudo («Germo obesus» Lowe).
+
+Listado («Euthynnus Katsawonus pelamis» Linneo).
+
+Bacoreta («Euthynnus alleteratus. Rafinesco).
+
+Bonito («Sarda sarda» Bloch).
+
+Tasarte («Oreynopsis unicolor» Geoffroy).
+
+Carita («Scomberomorus maculatas» Mitchill).
+
+Melva («Auxis thazard» Lacépede).
+
+Caballa («Scomber scombrus» Linneo),.
+
+Estornino («Scomber colias» Gmelin).
+
+Pez espada («Xiphias gladius» Linneo).
+
+Aguja («Belone belone» Linneo).
+
+Paparda («Scomberesox saurus» Walbaum).
+
+Carangiformes
+
+Jureles y chicharros («Trachurus» sp. sp.).
+
+Anjova («Pomatomus saltator» Linneo).
+
+Japuta o palometa negra («Brama rali» Bloch).
+
+Palometón («Caesiomorus amia» Linneo).
+
+Perciformes y afines
+
+Lubina («Morene labrax» Linneo).
+
+Mero («Serranus guaza» Linneo).
+
+Cherne («Serranus caninus» Linneo).
+
+Cherne de Ley («Serranus aeneus» Geoffroy).
+
+Cherna («Polyprion americanum» Schneider).
+
+Dentón («Dentex dentex» Linneo).
+
+Sama de pluma («Dentex filosus» Valenciennes).
+
+Cachucho («Dentex macrophtalmus» Bloch).
+
+Breca («Pagellus arythrius» Linneo).
+
+Besugo («Pagellus cantabricus» Asso).
+
+Aligote («Pagellus acame» Asso).
+
+Dorada («Sparus aurata» Linneo).
+
+Pardo («Sparus pagrus» Linnee).
+
+Boga («Boops boops» Linneo).
+
+Burro («Parapristipoma mediterraneum» Guichenot).
+
+Salmonete («Mullus» sp. sp.).
+
+Rascacios («Scorpaena» sp. sp.).
+
+Corvina («Johnius regius» Asso).
+
+Lisa («Mugil» sp. sp.).
+
+Rape («Lophius piscatorius» Linneo).
+
+Serranos («Paracentropristis» sp. sp.).
+
+Sargos («Diplodus» sp. sp.).
+
+Gallineta («Heliocolenus dactylopterus» D.).
+
+Gallineta nórdica («Sebastes marinus» L.).
+
+Cabracho («Scorpaena acrofa» L.).
+
+Chanquete («Aphia minuta» R.).
+
+Pleuronectiformes
+
+Rodaballo («Scophthalmus maximus» Linneo).
+
+Gallo («Lepidorhombus boscil» Risso).
+
+Lenguado («Solea solea» Linneo).
+
+Acedía («Dicologoglossa cuneata» Moreau).
+
+Halibut o Fletan («Hippoglossus-hippoglossus» L.).
+
+Platija («Platlchthys flesus» L.).
+
+Gadiformes
+
+Bacalao («Gadus morhua» Linneo).
+
+Eglefino («Gadus aegleflnus» Linneo).
+
+Faneca («Gadus luscus» Linneo).
+
+Abadejo («Gadus pollachius» Linneo).
+
+Bacaladilla («Gadus poutassou» Risso).
+
+Brotola («Phycis» sp. sp.).
+
+Maruca («Molva molva» Linneo).
+
+Merluza («Merlucius merlucius» Linneo).
+
+Pescadilla («Merlucius merlucius» Linneo).
+
+Elasmobranquios
+
+Batoideos (Géneros «Raia», «Torpedo», «Desyatis», Myliobatis», etc.).
+
+Escualos (Géneros «Scylliorhinus», «Mustelus», «Galeus», «Squalus», «Prionace», etc.).
+
+Anfibios
+
+Rana («Rana», sp. sp.).
+
+Mamíferos cetáceos
+
+Ballenas («Balaena» sp. sp.).
+
+Rorcuales («Balaenoptera» sp. sp.).
+
+Cachalote («Physeter catodon»).
+
+Calderón («Globicephalus melas»).
+
+Orca («Orcynus orca»).
+
+Delfín («Delphinus delphis» Linneo).
+
+Pez mular («Grampus griseus»).
+
+###### 3.12.03. Características.
+
+Las reglamentaciones correspondientes establecerán las características sanitarias, de calidad y dimensiones mínimas, que deben reunir les pescados destinados a consumo humano, en fresco o conservado.
+
+###### 3.12.04. Clasificación.
+
+A efectos de este Código, los pescados se clasifican en.
+
+a) Pescados frescos.
+
+b) Pescados congelados.
+
+c) Pescados salados.
+
+d) Pescados ahumados.
+
+e) Pescados desecados.
+
+###### 3.12.05. Pescados frescos.
+
+Son aquellos que no han sufrido desde su captura ninguna operación dirigida a su conservación, excepto la adición de hielo troceado puro o mezclado con sal o que hayan sido conservados a bordo de los pesqueros con agua de mar o salmuera refrigerada.
+
+###### 3.12.06. Pescados congelados.
+
+Son aquellos, enteros o fraccionados, eviscerados, inalterados y frescos que han sido sometidos a la acción del frío hasta lograr en el centro de los mismos y en un período de tiempo no superior a dos horas que la temperatura pase de 0 grados a —5 grados centígrados. Esos productos se mantendrán, seguidamente, en el congelador a temperatura de —23 grados centígrados o inferiores hasta su congelación completa. La temperatura final a la salida del congelador no deberá ser superior a —18 grados centígrados, y la de conservación del orden de —25 a —30 grados centígrados.
+
+Los pescados congelados presentarán al corte una carne compacta, de aspecto céreo, no evidenciándose a simple vista cristales ni agujas de hielo.
+
+Durante la descongelación no deben presentar una exudación muy marcada, y descongelados deben tener el aspecto, la consistencia y el olor de los frescos, no percibiéndose ningún signo de rancidez y recongelación.
+
+###### 3.12.07. Pescados salados.
+
+Son aquellos pescados frescos, enteros o fraccionados, eviscerados e inalterados, que han sido sometidos a la acción prolongada de la sal común en forma sólida o de salmuera.
+
+Los pescados salados, en su calidad de productos acabados, mantendrán unas condiciones óptimas en sus características, consistencia firme al tacto, gusto salado y coloración variable, según el método y la especie preparada (amarillo claro o rosa).
+
+Los pescados frescos recubiertos simplemente de una moderada capa de sal no se considerarán salados.
+
+###### 3.12.08. Pescados ahumados.
+
+Son aquellos enteros, o fraccionados, eviscerados e inalterados, que, sometidos previamente a la acción de la salmuera y posterior desecación, han sufrido la acción del humo de madera, de acuerdo con lo establecido en el Capítulo V de este Código.
+
+Los pescados ahumados presentarán consistencia firme al tacto, serán traslúcidos, su coloración podrá oscilar del amarillo dorado claro al amarillo dorado oscuro y no presentarán manchas, sabores ni olores anormales. A la presión de los dedos no deben trasudar agua.
+
+###### 3.12.09. Pescados desecados.
+
+Son aquellos, enteros o fraccionados, eviscerados e inalterados, sometidos a la acción del aire seco o de cualquier procedimiento autorizado para reducir su contenido en agua durante un período de tiempo variable, según las condiciones ambientales y sus dimensiones, suficientes para conseguir una conservación más o menos prolongada. Su riqueza en agua no será superior al 15 por 100.
+
+Todo exceso de humedad o de sal, la presencia de sangre coagulada u otros productos, coloraciones y sabores anormales, así como la existencia de hongos, insectos y ácaros, motivará la retención del producto para su estudio más detallado, si fuera preciso, antes de su decomiso.
+
+###### 3.12.10. Manipulaciones.
+
+**(Derogado).**
+
+###### 3.12.11. Envases.
+
+**(Derogado).**
+
+###### 3.12.12. Transportes.
+
+**(Derogado).**
+
+> Se derogan los apartados 3.12.10, 3.12.11, 3.12.12, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 2.ª Productos derivados
+
+###### 3.12.13. Derivados de los pescados.
+
+Son los productos obtenidos a partir de pescados de buena calidad y comprobado estado de frescura, para cuya elaboración se han utilizado procedimientos tecnológicos que garantizan su salubridad de un modo absoluto.
+
+###### 3.12.14. Clasificación.
+
+A efectos de este Código, los derivados de los pescados se clasifican en:
+
+a) Semiconservas.
+
+b) Conservas.
+
+c) Sopas de pescado y bullabesas.
+
+d) Platos cocinados.
+
+###### 3.12.15. Semiconservas de pescado.
+
+Son aquellos productos estabilizados por un tratamiento apropiado y mantenidos en recipientes impermeables al agua a presión normal. Su tiempo de conservación es limitado y puede prolongarse almacenándoles en frigoríficos.
+
+Los pescados semiconservados podrán presentarse enteros, troceados en filetes lisos y en filetes enrollados. Como líquidos de cobertura, se utilizarán aceites comestibles y vinagres, solos o mezclados entre sí, sustancias aromáticas, aderezos, condimentos y especias.
+
+Todos los productos utilizados en las semiconservas reunirán las condiciones exigidas en este Código y reglamentaciones correspondientes.
+
+###### 3.12.16. Otros derivados.
+
+La elaboración y manipulaciones de conservas de pescado, sopa de pescado y bullabesas y de platos cocinados, quedan reguladas en el Capítulo XXVI de este Código y reglamentaciones correspondientes.
+
+##### Sección 3.ª Disposiciones comunes
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatora única.a).ii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo XIII — 3.13.00. Mariscos (Crustáceos y moluscos) y derivados
+
+##### Sección 1.ª Moluscos (crustáceos y moluscos)
+
+###### 3.13.01. Denominación genérica.
+
+A efectos de este Código, se comprende en la denominación genérica de «mariscos» a los animales invertebrados comestibles, marinos o continentales (crustáceos y moluscos), frescos o conservados por distintos procedimientos autorizados, que se relacionan en el artículo siguiente.
+
+###### 3.13.02. Denominación específica.
+
+A las especies más importantes de consumo o que son objeto de comercio exterior se las designará con sus nombres vernaculares y científicos, con arreglo a la siguiente enumeración:
+
+Crustáceos
+
+Decápodos macruros
+
+Bogavante («Homarus vulgaris» M. H. Edwards).
+
+Langosta («Palinurus vulgaris» Latr.).
+
+Langosta mora («Palinurus mauritanicus» Gruvel).
+
+Langosta real («Palinurus regius» Gruvel).
+
+Cigala («Nephrops norvegicus» Linneo).
+
+Cigarra («Scyllarides latus» Latr.).
+
+Santiaguiño («Scyllarus arctus» Linneo).
+
+Carabinero («Plesiopenaeus edwardsianus» Johnson).
+
+Langostino moruno o «chorizo» («Aristeomorpha foliacea» Risso).
+
+Gamba roja («Aristeus antennatus» Risso).
+
+Gamba («Penaeus longirostris» Lucas).
+
+Langostino («Penaeus keraturus» Lamark).
+
+Camarón («Leander serratus» Pennant).
+
+Quisquilla («Crangon crangon» Linneo).
+
+Cangrejo de río («Astacus panipel» Linneo).
+
+Decápodos braquiuros
+
+Buey («Cancer pagurus» Linneo).
+
+Cangrejo común («Carcinus maenas» Linneo).
+
+Nécora («Portunus paber» Linneo).
+
+Pateixo («Polybius henslowi» Leach).
+
+Barrilete («Gelassimus tangani» Eyd).
+
+Centollo («Mais squinado» Rondelet).
+
+Cirrípedos
+
+Percebe («Pollicipes cornucopieae» Leach).
+
+MOLUSCOS
+
+Bivalbo
+
+Almeja fina («Tapes decussatus» Linneo).
+
+Almeja babosa («Tapes pullastra» Wood.).
+
+Almeja dorada («Tapes aureus» Gmlin.).
+
+China («Venus gallina» Linneo).
+
+Almejón de sangre («Callista chione» Linneo).
+
+Berberecho («Cardium edule» Linneo).
+
+Ostra («Ostrea edulis» Linneo).
+
+Ostión («Gryphaea engulata» Lamark).
+
+Vieira («Pecten maximus» Linneo).
+
+Zamburiña («Chlamis varius» Linneo).
+
+Volandeira («Chlamis opercularis» Linneo).
+
+Mejillón («Mytilus edulis» Linneo).
+
+Dátil de mar («Lithodomus lithophagus» Linneo).
+
+Navajas («Solen» sp. sp.).
+
+Escupiña («Venus verrucosa» Linneo).
+
+Coquina («Donax trunculus» Linneo).
+
+Univalvos
+
+Bígaro («Littorina littorea» Linneo).
+
+Cañaílla («Murex brandaris» Llnneo).
+
+Busano («Murex trunculus» Linneo).
+
+Cefalópodos
+
+Calamar («Loligo vulgaris» Lamark).
+
+Volador («Illex illecebrosus coindeti» Verany).
+
+Potas («Ommastrephes» sp. y «Todarodes» sp.).
+
+Jibia («Sepia officinalis» Linneo).
+
+Choco («Sepia orbygnyiana» y «Sepia elegans» D’Obighy).
+
+Globito («Sepiola rondeleti» Leach).
+
+Pulpo («Octopus vulgaris» Lamark).
+
+Pulpo almizclado («Eledone moschata» Leach).
+
+Pulpo blanco («Eledone aldrovandi» Rafinesco).
+
+###### 3.13.03. Clasificación.
+
+A efectos de este Código, los mariscos se clasifican en:
+
+a) Mariscos frescos.
+
+b) Mariscos congelados.
+
+c) Mariscos deshidratados o liofilizados.
+
+d) Mariscos cocidos.
+
+###### 3.13.04. Estación depuradora.
+
+**(Derogado).**
+
+###### 3.13.05. Mariscos frescos.
+
+Son aquellos moluscos y crustáceos que, hallándose en posesión de los caracteres organolépticos que garanticen su salubridad, no han sufrido ninguna operación dirigida a su conservación, excepto la refrigeración o la adición de hielo troceado, solo o mezclado con sal, desde el momento de su captura hasta el de su venta al consumidor.
+
+###### 3.13.06. Mariscos congelados.
+
+Son aquellos crustáceos o moluscos, enteros o fraccionados, inalterados y frescos, que han sido sometidos a la acción del frío hasta lograr, en el centro de los mismos, en un periodo de tiempo no superior a dos horas, que la temperatura pase de 0 grados a —5 grados centígrados. Estos productos se mantendrán seguidamente en el congelador a temperaturas de —23 grados centígrados o inferiores, hasta su congelación completa. La temperatura durante el almacenamiento no será superior a —23 grados centígrados.
+
+Los mariscos congelados presentarán al corte una carne compacta, de aspecto céreo, no evidenciándose a simple vista cristales ni agujas de hielo.
+
+Los mariscos descongelados deben tener el aspecto, la consistencia y el olor de los frescos.
+
+###### 3.13.07. Mariscos deshidratados o liofilizados.
+
+Son aquellos moluscos o crustáceos frescos, enteros o fraccionados, a los que se ha privado de su contenido en agua, hasta reducirla al 5 por 100 como máximo por la acción de métodos autorizados, debiendo ser envasados al vacío o con gas inerte.
+
+###### 3.13.08. Mariscos cocidos.
+
+Son aquellos moluscos y crustáceos frescos que han sufrido convenientemente la acción del vapor de agua o del agua en ebullición, sola o con la adición de sal u otros condimentos, siendo enfriados seguidamente.
+
+###### 3.13.09. Origen y manipulación de los mariscos.
+
+**(Derogado).**
+
+###### 3.13.10. Prohibiciones.
+
+Queda prohibido.
+
+I) La captura, industrialización, comercialización, circulación y venta de mariscos de cualquier clase:
+
+a) Durante las épocas de veda.
+
+b) En toda época y lugar cuando no alcancen la talla mínima o no reúnan las condiciones de salubridad establecidas.
+
+Las especies cultivadas procedentes de parques y viveros, así corno las congeladas que hayan sufrido este proceso de conservación con anterioridad al comienzo de la veda o las que tengan su origen en la importación, se exceptuarán de esta prohibición en lo que respecta al apartado a), precisando para su circulación por el territorio nacional una guía de duración limitada.
+
+II a IX.**(Derogados)**
+
+###### 3.13.11. Envases.
+
+**(Derogado).**
+
+###### 3.13.12. Transporte.
+
+**(Derogado).**
+
+> Se derogan los apartados 3.13.04, 3.13.09, 3.13.11, 3.13.12 y los puntos II a IX por la disposición derogatora única.a).iii y iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 2.ª Productos derivados
+
+###### 3.13.13. Derivados de los mariscos.
+
+Son los productos constituidos total o parcialmente por crustáceos y moluscos de buena calidad, de comprobado estado de frescura y elaborados por procedimientos tecnológicos que garanticen su salubridad.
+
+###### 3.13.14. Clasificación.
+
+A efectos de este Código. los derivados de los mariscos se clasifican en:
+
+a) Semiconservas.
+
+b) Conservas.
+
+c) Sopas de mariscos y bullabesas.
+
+d) Platos cocinados.
+
+###### 3.13.15. Semiconservas de mariscos.
+
+Son aquellos productos a base de crustáceos y moluscos estabilizados con un tratamiento apropiado y mantenidos en recipientes impermeables al agua a presión normal. Su tiempo de conservación es limitado y puede prolongarse almacenándolos en frigoríficos.
+
+Los mariscos semiconservados podrán presentarse enteros, troceados, y como líquidos de cobertura se utilizarán aceites, vinagres, sus diluciones y sus mezclas a distintas proporciones, sustancias aromáticas, hortalizas, especias, etc.
+
+Todos los productos utilizados en las semiconservas de mariscos reunirán las condiciones sanitarias que garantizarán la atoxicidad y salubridad del producto acabado.
+
+###### 3.13.16. Otros derivados.
+
+Tendrán esta consideración las conservas de mariscos, sopas de mariscos y bullabesas y platos cocinados cuya elaboración y manipulaciones quedan regulada en el Capítulo XXVI de este Código.
+
+##### Sección 3.ª Caracoles
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatora única.a).ii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo XIV — 3.14.00. Huevos y derivados
+
+##### Sección 1.ª Huevos
+
+###### 3.14.01. Denominación.
+
+Con la denominación genérica de huevos se entiende única y exclusivamente los huevos de gallináceas. Los huevos de otras aves se designarán indicando además la especie de que procedan.
+
+###### 3.14.02. Clasificación.
+
+A efectos de este Código, los huevos se clasifican en.
+
+a) Frescos.
+
+b) Refrigerados.
+
+c) Conservados.
+
+d) Defectuosos.
+
+e) Averiados.
+
+###### 3.14.03. Huevos frescos.
+
+Son aquellos que, presentando un olor y sabor característicos, no han sufrido más manipulaciones que una limpieza en seco. Observados al ovoscopio, aparecerán completamente claros, sin sombra alguna, con yema apenas perceptible y cámara de aire pequeña, de no más de siete milímetros de altura. La cáscara será fuerte, homogénea y limpia; la clara firme, transparente, sin enturbiamiento, y la yema, de color uniforme, pudiendo oscilar del amarillo claro al anaranjado rojizo, sin adherencias con la cáscara y conservándose centrada y entera.
+
+###### 3.14.04. Huevos refrigerados.
+
+Son aquellos enteros que se mantienen durante un tiempo superior a quince días, sin exceder de treinta días, desde su puesta, aislados del medio ambiente, en cámaras frigoríficas o en locales con temperaturas que no excedan de 4 grados centígrados.
+
+###### 3.14.05. Huevos conservados.
+
+Son los que han permanecido en cámara frigorífica, a 0 grados centígrados, por un periodo superior a treinta días e inferior a seis meses.
+
+###### 3.14.06. Huevos defectuosos.
+
+Son los rotos, incluso parcialmente, pero con las membranas intactas; los que, sin estar alterados, presentan un olor y sabor que no son los característicos; los que al ovoscopio aparecen con una sombra oscura, y los que tienen una cámara de aire superior a 12 milímetros de altura.
+
+###### 3.14.07. Huevos averiados.
+
+Son los procedentes de gallináceas o palmípedas, impropios para el consumo humano por concurrir en ellos algunas de las siguientes circunstancias:
+
+a) Tener mal olor o sabor.
+
+b) Estar contaminados por bacterias u hongos.
+
+c) Estar podridos.
+
+d) Tener la clara de color verdoso.
+
+e) Ser sanguíneos o incubados.
+
+f) Tener cámara de aire superior a 20 milímetros de altura y muy movible.
+
+g) Haber sido conservados por procedimientos no autorizados.
+
+###### 3.14.08. Prohibiciones.
+
+Queda prohibido.
+
+a) El lavado de los huevos frescos, a no ser que se destinen a la preparación de derivados, en cuyo caso deberán partirse inmediatamente después de lavados.
+
+b) **(Derogado).**
+
+c) La venta directa para consumo humano de huevos defectuosos.
+
+> Se deroga el apartado 3.14.08.b) por la disposición derogatora única.a).iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 2.ª Derivados
+
+###### 3.14.09. Derivados de los huevos.
+
+Son los productos constituidos total o parcialmente con huevo de gallina, desprovisto de cáscara y destinados a servir de materia prima para la elaboración de productos alimenticios.
+
+Los derivados obtenidos con huevos distintos a los de gallina se designarán indicando además la especie animal de que procedan.
+
+Serán elaborados por procedimientos tecnológicos que ineludiblemente presupongan la aplicación de un proceso de pasterización de las materias primas. No contendrán microorganismos patógenos vivos ni más de 150.000 gérmenes por gramo o centímetro cúbico de producto elaborado.
+
+> Téngase en cuenta que se derogan los criterios microbiológicos recogidos en este apartado por la disposición derogatora única.a).v del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+###### 3.14.10. Clasificación.
+
+Los derivados de los huevos se clasifican en:
+
+a) Primarios, constituidos por contenido entero del huevo, o por la clara separada de la yema o por la yema aislada.
+
+b) Secos, son los productos derivados de los huevos, obtenidos por deshidratación o desecación de un derivado primario.
+
+c) Productos compuestos, son los obtenidos a partir de un derivado primario o seco, mezclados con otras sustancias nutritivas, para obtener un producto final cuyo contenido mínimo de huevo sea del 50 por 100.
+
+###### 3.14.11. Huevos congelados.
+
+Son derivados primarios, procedentes de huevos frescos, refrigerados o defectuosos constituidos por huevo homogeneizado y colado.
+
+Estos huevos, previa pasterización en estado líquido, se congelarán a temperaturas de —35 grados a —40 grados centígrados, y su conservación deberá hacerse a temperaturas continuas de —18 grados o —23 grados centígrados.
+
+El huevo entero, batido y congelado, contendrá un mínimo de 25 por 100 de extracto seco, y la yema congelada, un mínimo de 43 por 100. Se podrá añadir a la yema sal o azúcares, hasta un máximo total del 10 por 100 de la materia seca.
+
+###### 3.14.12. Huevo en polvo.
+
+Es un derivado seco obtenido por evaporación del agua de constitución del huevo mediante procedimientos tecnológicos autorizados. Tendrá la misma composición que el residuo seco del huevo fresco; no contendrá más de 150.000 gérmenes por gramo, y ninguno patógeno, ni sustancia alguna extraña a la composición natural del huevo, ni más de un 5 por 100 de humedad.
+
+> Téngase en cuenta que se derogan los criterios microbiológicos recogidos en este apartado por la disposición derogatora única.a).v del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+###### 3.14.13. Yema de huevo deshidratada.
+
+Es un derivado seco obtenido de la yema por eliminación del agua. Responderá a las condiciones exigidas para el «huevo en polvo».
+
+###### 3.14.14. Clara de huevo desecada.
+
+Es un derivado seco obtenido de la clara por eliminación del agua. No contendrá más de un 15 por 100 de humedad y responderá a las demás condiciones exigidas para el «huevo en polvo».
+
+> Se derogan los criterios microbiológicos recogidos en los apartados 3.14.09 y 3.14.12 por la disposición derogatora única.a).v del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 3.ª Disposiciones comunes
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatora única.a).ii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo XV — 3.15.00. Leches y derivados
+
+##### Sección 1.ª Leches
+
+###### 3.15.01. Definición.
+
+Se entiende por leche natural el producto íntegro, no alterado ni adulterado y sin calostros, del ordeño higiénico, regular, completo e ininterrumpido de las hembras mamíferas domésticas sanas y bien alimentadas.
+
+###### 3.15.02. Denominación.
+
+Con la denominación genérica de leche se comprende única y exclusivamente la leche natural de vaca. Las leches producidas por otras hembras de animales domésticos se designarán indicando además el nombre de la especie correspondiente: leche de oveja, leche de cabra, leche de burra, leche de yegua y leche de camella.
+
+###### 3.15.03. Clasificación.
+
+Según el tratamiento que se aplique a las leches naturales se clasifican en: leches higienizadas, leches certificadas, leches especiales (concentradas, desnatadas, fermentadas o acidificadas, enriquecidas, adicionadas de aromas y/o estimulantes) y leches conservadas (esterilizadas, evaporadas, condensadas y en polvo).
+
+###### 3.15.04. Definición de las distintas clases de leche.
+
+3.15.04.1. Leche higienizada: Es la leche natural sometida a un proceso tecnológico autorizado que asegure la total destrucción de los gérmenes patógenos y la casi totalidad de la flora banal, sin modificación sensible de su naturaleza físico-química, características biológicas y cualidades nutritivas.
+
+3.15.04.2. Leche certificada: Es la procedente de explotaciones ganaderas, en las que los procesos de producción, obtención, envasado y distribución están sometidos a un riguroso control sanitario oficial que garantice la inocuidad y valor nutritivo del producto.
+
+3.15.04.3. Leches especiales: Son las procedentes de la leche natural mediante ciertas operaciones que cambian o modifican su composición característica:
+
+a) Leche concentrada a un cuarto o a un quinto de su volumen como máximo. Son las leches naturales higienizadas, enteras, que han sido privadas de parte de su agua de constitución hasta reducirlas a un cuarto o a un quinto de su volumen primitivo como máximo.
+
+b) Leches desnatadas. Son las higienizadas o conservadas, privadas parcial o totalmente de su contenido graso natural, con la modificación relativa de los demás componentes normales.
+
+c) Leches fermentadas o acidificadas. Son las modificadas por la acción microbiana o fermentos lácticos, que son específicos para cada uno de esos tipos de leche.
+
+d) Leches enriquecidas. Son las modificadas mediante la adición de principios inmediatos, minerales y/o vitaminas que reúnan las condiciones establecidas para alimentos enriquecidos en la sección V del Capítulo XXVI.
+
+e) Leches adicionadas de aromas y/o estimulantes. Son las modificadas mediante la adición de sustancias aromáticas y/o estimulantes autorizados.
+
+3.15.04.4. Leches conservadas: Son las procedentes de la leche natural manipulada industrialmente para asegurar la duración de su aprovechamiento alimenticio por más de treinta días:
+
+a) Leche esterilizada. Es la leche natural sometida a un proceso tecnológico tal que asegure la destrucción de los gérmenes y la inactividad de sus formas de resistencia.
+
+b) Leche evaporada. Con esta denominación se conoce la leche esterilizada privada de parte de su agua de constitución hasta adquirir las características señalada en el apartado 3.15.05.5, b).
+
+c) Leche condensada. Es la leche higienizada «concentrada con azúcar», privada de parte de su agua de constitución y cuya conservación se consigue mediante la adición de sacarosa.
+
+d) Leche en polvo. Es el producto seco y pulverulento que se obtiene mediante la deshidratación de la leche natural, o de la total o parcialmente desnatada, higienizada al estado líquido antes o durante el proceso de fabricación.
+
+###### 3.15.05. Características de las leches.
+
+En el momento de su venta reunirán las siguientes características:
+
+3.15.05.1. Leches naturales.
+
+a) Leche natural (vaca):
+
+Materia grasa, como mínimo 3 por 100 en peso.
+
+Lactosa, como mínimo 4,2 por 100 en peso.
+
+Proteínas, como mínimo 3,2 por 100 en peso.
+
+Cenizas, como mínimo 0,65 por 100 en peso.
+
+Extracto seco magro, como mínimo 8,2 por 100 en peso.
+
+Acidez, expresada en ácido láctico, como máximo 0,2 gramos por 100 mililitros de leche.
+
+Impurezas macroscópicas expresadas en grados de la escala de impurezas, como máximo grado 1.
+
+Prueba de la reductasa microbiana con azul de metileno, más de dos horas.
+
+b) Leche natural de oveja:
+
+Materia grasa, como mínimo 7 por 100 en peso.
+
+Lactosa, como mínimo 4,6 por 100 en peso.
+
+Proteínas, como mínimo 4,7 por 100 en peso.
+
+Cenizas, como mínimo 1 por 100 en peso.
+
+Extracto seco magro, corno mínimo 10,3 por 100 en peso.
+
+Acidez, expresada en ácido láctico, como máximo 0,3 gramos por 100 mililitros de leche.
+
+Impurezas macroscópicas, como máximo grado 1.
+
+Prueba de la reductasa microbiana con azul de metileno, más de dos horas.
+
+c) Leche natural de cabra:
+
+Materia grasa, como mínimo 3,3 por 100 en peso.
+
+Lactosa, como mínimo 4 por 100 en peso.
+
+Proteínas, como mínimo 3,8 por 100 en peso.
+
+Extracto seco magro, como mínimo 8,4 por 100 en peso.
+
+Acidez, expresada en ácido láctico, como máximo 0,2 gramos por 100 mililitros de leche.
+
+Impurezas macroscópicas, como máximo grado 1.
+
+Prueba de la reductasa microbiana con azul de metileno, más de dos horas.
+
+d) Leches naturales de burra y de yegua.
+
+Materia grasa, como mínimo 1,5 por 100 en peso.
+
+Lactosa, como mínimo 6,4 por 100 en peso.
+
+Proteínas, corno mínimo 2,1 por 100 en peso.
+
+Cenizas, corno mínimo 0,3 por 100 en peso.
+
+Extracto seco magro, como mínimo 8,8 por 100 en peso.
+
+Acidez expresada en ácido láctico, como máximo 0,2 gramos por 100 mililitros de leche.
+
+Impurezas macroscópicas, corno máximo grado 1.
+
+Prueba de la reductasa microbiana con azul de metileno, más de dos horas.
+
+e) Leche natural de camella.
+
+Materia grasa, corno mínimo 5 por 100 en peso.
+
+Lactosa, como mínimo 3,3 por 100 en peso.
+
+Proteínas, como mínimo 3 por 100 en peso.
+
+Cenizas, como mínimo 0,8 por 100 en peso.
+
+Extracto seco magro, como mínimo 6,9 por 100 en peso.
+
+Acidez, expresada en ácido láctico, como máximo 0,2 gramos por 100 mililitros de leche.
+
+Impurezas macroscópicas, como máximo grado 1.
+
+Prueba de la reductasa microbiana con azul de metileno, más de dos horas.
+
+3.15.05.2. Leches higienizadas.
+
+Las mismas señaladas para la leche natural en el apartado 3.15.05.1, con las variaciones siguientes:
+
+Acidez, expresada en ácido láctico, como máximo 0,19 gramos por 100 mililitros de leche.
+
+Impurezas macroscópicas, como máximo grado 0.
+
+Menos de 100.000 colonias de gérmenes por mililitro de leche.
+
+Ausencia de coliformes en 0,1 mililitros de leche.
+
+Prueba de la fosfatasa, negativa.
+
+> Téngase en cuenta que se derogan los criterios microbiológicos recogidos en este apartado por la disposición derogatora única.a).v del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+3.15.05.3. Leches certificadas.
+
+Las mismas establecidas para la leche natural en el apartado 3.15.05.1 de este Código, excepto impurezas macroscópicas; grado 0; acidez, expresada en ácido láctico, máximo 0,19 gramos por 100 mililitros de leche, y la prueba de la reductasa con azul de metileno, que será superior a cinco horas.
+
+3.15.05.4. Leches especiales.
+
+a) Leches concentradas a un cuarto o a un quinto de su volumen como máximo. Estas leches, una vez reconstituidas, poseerán las mismas características de composición establecidas para la leche higienizada.
+
+b) Leche desnatada. Las mismas de la leche higienizada o esterilizada, con excepción de las siguientes.
+
+En el caso de la leche totalmente desnatada: Materia grasa, máximo 1 por 100 en peso.
+
+En el caso de la leche semidesnatada: Materia grasa, mínimo 1 por 100 en peso.
+
+El extracto seco vendrá dado, en cada caso, por la fórmula E = 8,45 + 0,92 G; siendo E igual al tanto por ciento de extracto seco total en peso y G igual al tanto por ciento de materia grasa en peso.
+
+c) Leches fermentadas o acidificadas.
+
+Acidez, expresada en ácido láctico, de 0,5 a 1,5 gramos por 100 mililitros.
+
+Las demás características serán determinadas, en cada caso, por la reglamentación correspondiente.
+
+d) Leches enriquecidas. En el caso de las leches albuminosas y dextrino-malteadas, se ajustarán a las mismas características establecidas para las leches en polvo.
+
+Las leches vitaminadas poseerán las mismas características de las leches higienizadas o esterilizadas. En caso de preparación en forma líquida, la reglamentación correspondiente establecerá sus características.
+
+e) Leches adicionadas de aromas y/o estimulantes. Las señaladas para las leches higienizadas, esterilizadas, acidificadas o fermentadas, desnatadas o no, con las específicas que señale la reglamentación correspondiente.
+
+3.15.05.5. Leches conservadas.
+
+a) Leche esterilizada. Las señaladas para la leche higienizada, con ausencia de gérmenes vivos en un mililitro de leche después de incubación a 37 grados centígrados y 55 grados centígrados durante cuarenta y ocho horas.
+
+b) Leche evaporada:
+
+Materia grasa, como mínimo, 7,5 por 100 en peso.
+
+Extracto seco magro, como mínimo, 20,5 por 100 en peso.
+
+Impurezas macroscópicas, grado 0.
+
+Ausencia de gérmenes vivos en 1 mililitro de leche, después de incubación a 37 grados centígrados y a 55 grados centígrados durante cuarenta y ocho horas.
+
+c) Leche condensada:
+
+Materia grasa, como mínimo, 8 por 100 en peso.
+
+Extracto seco magro (sin azúcar), como mínimo 22 por 100 en peso.
+
+Impurezas macroscópicas, grado 0.
+
+La proporcionalidad de azúcar variará de un mínimo a un máximo, fijado por las siguientes fórmulas.
+
+Mínimo por ciento igual a sesenta y dos coma cinco menos cero coma seiscientos veinticinco multiplicado por E (62,5 – 0,625 x E).
+
+Máximo por ciento igual a sesenta y cuatro coma cinco menos cero coma seiscientos cuarenta y cinco multiplicado por E (64,5 – 0,645 x E).
+
+Siendo el factor E igual al tanto por ciento de extracto seco total sin azúcar.
+
+Menos de 30.000 colonias de gérmenes por gramo.
+
+Ausencia de coliformes en 0,1 gramos.
+
+Prueba de la fosfatasa, negativa.
+
+d) Leche en polvo.
+
+Color uniforme, blanco o cremoso claro, carente de color amarillo o pardo, característicos de un producto recalentado, así como de cualquier otro artificial. Olor y sabor fresco y puro, antes y después de su reconstitución.
+
+Ausencia de conservadores, neutralizantes o de cualquier otra sustancia ajena a la composición de la leche incluidos en las listas positivas de este Código.
+
+Humedad, máximo 5 por 100 en peso.
+
+Materia grasa, como mínimo, 26 por 100 en peso para la leche entera y 1,5 por 100 como máximo para la desnatada.
+
+Acidez, expresada en ácido láctico, 1,45 por 100 en peso como máximo para la leche entera y 1,85 por 100 como máximo para la leche desnatada.
+
+Acidez de la grasa, expresada en ácido oleico, máximo del 2 por 100 en peso de la grasa.
+
+Ausencia de impurezas macroscópicas.
+
+Indice de solubilidad: Para la leche entera, 1 mililitro como máximo, para la leche desnatada, 1,25 mililitros como máximo.
+
+Las leches en polvo parcialmente desnatadas, cuyos contenidos grasos estén comprendidos entre el 1,5 y el 26 por 100, responderán a las características precedentes con la excepción de la acidez, expresada en ácido láctico, cuyo máximo por 100 gramos de polvo vendrá dado por la siguiente fórmula:
+
+Máximo por ciento igual a uno coma ochocientos setenta y cuatro menos cero coma cero ciento sesenta y tres multiplicado por el porcentaje graso de la leche en polvo (Máximo por ciento = 1,874 – 0,0163 x % graso de la leche en polvo).
+
+Menos de 100.000 colonias de gérmenes por gramo de leche en polvo.
+
+Ausencia de coliformes en 0,1 gramos de leche en polvo.
+
+Prueba de la fosfatasa, negativa.
+
+> Téngase en cuenta que se derogan los criterios microbiológicos recogidos en este apartado por la disposición derogatora única.a).v del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+###### 3.15.06. Preparación de las distintas clases de leche, su envasado, consumo y venta.
+
+A partir del momento de su obtención, se exigirá obligatoriamente.
+
+3.15.06.1. Leches naturales.
+
+**(Derogado).**
+
+3.15.06.2. Leches higienizadas.
+
+**(Derogado).**
+
+3.15.06.3. Leches certificadas.
+
+**(Derogado).**
+
+3.15.06.4. Leches especiales.
+
+a) Leches concentradas a un cuarto o a un quinto de su volumen como máximo. Serán preparadas a partir de la leche natural con las características señaladas en el punto 3.15.05.1, a).
+
+— Para su venta y consumo se cumplirán los requisitos exigidos en el apartado 3.15.06.2.
+
+— Los envases llevarán las mismas indicaciones señaladas para la leche higienizada, con la adición de la expresión «Leche concentrada» y la fórmula de reconstitución.
+
+b) Leches desnatadas. Las destinadas al consumo directo habrán de estar higienizadas o esterilizadas.
+
+— Para su venta y consumo se cumplirán los requisitos exigidos en les artículos 3.15.05.2 y 3.15.06.5.
+
+— Será obligatorio que los envases lleven inscritos en colores distintivos la indicación de «Leche desnatada» o «Leche parcialmente desnatada», y en este último caso se señalará a continuación el correspondiente porcentaje graso.
+
+c) Leches fermentadas o acidificadas. Para su obtención se partirá de la leche natural, concentrada o no, entera o total o parcialmente desnatada; en estos dos últimos casos habrá que indicar en el cierre del envase el porcentaje graso y la fecha límite de consumo. En los envases de yogourt y kefir se pondrán cápsulas de distinto color según que hayan sido elaboradas con leche total o desnatada.
+
+d) Leches enriquecidas.
+
+Leches albuminosas: Se preparan a partir de la leche desnatada y fermentada, enriquecida en su contenido proteico mediante la adición de prótidos lácticos totales, de caseína o sus sales.
+
+Esta leche se prepara preferentemente en polvo, siendo obligatorio consignar en el envase la composición centesimal.
+
+Leche dextrino-malteada: Se preparará a partir de la leche higienizada o esterilizada entera, o total o parcialmente desnatada, fermentada o no y adicionada de dextrino-maltosa u otros carbohidratos autorizados.
+
+Su preparación se hará preferentemente en polvo, siendo obligatorio consignar en el envase la composición centesimal.
+
+La venta de estos tipos de leche se ajustará a lo establecido para las leches en polvo contenidas en el apartado 3.15.06.5. En el caso de efectuarse la fabricación en forma líquida, la reglamentación correspondiente establecerá las características exigidas.
+
+Leches vitaminadas: Se prepararán a partir de leches higienizadas o esterilizadas, enteras, total o parcialmente desnatadas y mediante su enriquecimiento con una o varias vitaminas.
+
+Su preparación se hará preferentemente al estado líquido, en forma concentrada o no, ajustándose en sus características, así como en su venta y consumo, al articulado referente a las leches higienizadas y esterilizadas. Será obligatorio consignar en el envase lo dispuesto en el artículo 3.26.34.
+
+e) Leches adicionadas de aromas y/o estimulantes: La elaboración se hará preferentemente en forma líquida, pudiéndose preparar a partir de leche natural, concentrada o no, total o parcialmente desnatada, y en todo caso se consignará en el envase la clase de leche utilizada y el nombre del aroma y/o del estimulante añadido. Su venta se ajustará a lo establecido para las leches higienizadas y esterilizadas.
+
+3.15.06.5. Leches conservadas.
+
+a) Leche esterilizada completa o desnatada.
+
+— Partir de la leche natural, con las características señaladas en el apartado 3.15.05.1.
+
+— Operaciones previas a la esterilización: limpieza de la leche por filtro o centrífuga y homogeneización. El envasado, que podrá ser realizado antes o después de la esterilización, se hará en recipientes limpios, esterilizados y de cierre hermético.
+
+— La venta de leche esterilizada sólo podrá efectuarse en envases de capacidad no superior a dos litros, que llevarán reseñados en forma clara e indeleble en el cuerpo del mismo el nombre del centro esterilizador y la indicación de leche esterilizada, y en el cierre el mes y el año en que se ha efectuado la esterilización. En el caso de leche esterilizada desnatada, se aplicará lo establecido en el apartado 3.15.06.4, b).
+
+b) Leche evaporada.
+
+— Partir de la leche natural.
+
+— Antes de la esterilización la leche será sometida a las operaciones previas de limpieza por filtro o centrífuga, normalización y homogeneización. El envasado previo o posterior a la esterilización se realizará en recipientes limpios, estériles y de cierre hermético debidamente autorizados.
+
+— Se autoriza la adición de sustancias estabilizadoras autorizadas por este Código y necesarias al proceso de fabricación contenidas en las listas positivas.
+
+— La venta de leche concentrada se efectuará en envases previamente autorizados, herméticamente cerrados.
+
+— Los envases irán litografiados o revestidos de una etiqueta en la que figure la denominación del producto, su peso neto, fórmula de reconstitución y equivalencia en leche natural, trimestre y año de fabricación y nombre de la entidad productora o de la que garantice la fabricación y sus domicilios.
+
+— Se admite la venta de «Leche desnatada evaporada» siempre que tenga como mínimo un 20 por 100 en peso de extracto seco total precedente de la leche y de que en la etiqueta o litografía vaya seguida la denominación del producto de la palabra «Desnatada».
+
+c) Leche condensada: Se preparará a partir de la leche natural higienizada, concentrada o no, total o parcialmente desnatada, envasada en recipientes que resulten apropiados a la naturaleza del producto y garanticen su inalterabilidad, esterilizados y herméticamente cerrados.
+
+— Se permite la adición de sustancias estabilizadoras autorizadas por este Código y necesarias al proceso de fabricación, contenidas en las listas positivas.
+
+— Los envases irán grabados, litografiados o revestidos de etiqueta, figurando en ellos los datos relativos a la denominación del producto, peso neto, fórmula de reconstitución y equivalencia en leche natural, trimestre y año de fabricación y el nombre y domicilio de la empresa productora, o de la que garantice la fabricación.
+
+— Se admite la venta de «Leche desnatada condensada» siempre que tenga como mínimo un 24 por 100 en peso de extracto seco total procedente de la leche y de que en la etiqueta o rótulo vaya seguida la denominación del producto de la palabra «Desnatada».
+
+d) Leche en polvo: Se obtendrá a partir de la leche natural o de la leche total o parcialmente desnatada, higienizada al estado líquido antes o durante el proceso de fabricación y sin adición de neutralizantes, conservadores o cualquier otra sustancia ajena a la composición de la leche.
+
+— Se permite la adición de sustancias estabilizadoras autorizadas por este Código y necesarias al proceso de fabricación, contenidas en las listas positivas.
+
+— Se envasará en recipientes herméticamente cerrados que aseguren protección total contra contaminaciones, absorción de la humedad y acción de la luz.
+
+— Sobre los envases figurará la denominación del producto (leche entera en polvo, leche desnatada en polvo o leche parcialmente desnatada en polvo), su peso neto, instrucciones de reconstitución y equivalencia en leche natural, trimestre y año de fabricación y el nombre y domicilio de la empresa productora o de la que garantice la fabricación. Cuando se trate de leche parcialmente desnatada, se indicará además la proporcionalidad en peso de la materia grasa que contenga el producto.
+
+Las reglamentaciones correspondientes determinarán las condiciones mínimas que deben reunir los establecimientos de venta de leche y derivados.
+
+###### 3.15.07. Transporte.
+
+**(Derogado).**
+
+###### 3.15.08. Prohibiciones generales.
+
+**(Derogado).**
+
+> Se derogan los apartados 3.15.06.1, 3.15.06.2, 3.15.06.3, 3.15.07, 3.15.08, por la disposición derogatora única.a).iii y v del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 2.ª Derivados de la leche
+
+###### 3.15.09. Concepto y clasificación.
+
+Son distintos productos obtenidos a partir de la leche mediante tratamientos tecnológicos adecuados.
+
+Se distinguirán los siguientes grupos:
+
+a. Nata.
+
+b. Mantequilla.
+
+c. Quesos y quesos fundidos.
+
+d. Sueros lácteos.
+
+e. Caseina.
+
+f. Requesón.
+
+###### 3.15.10. Nata.
+
+Se entiende por nata de leche o simplemente nata el producto rico en materia grasa separado de la leche por reposo o por centrifugación.
+
+La nata se elaborará con leche de vaca, procedente de animales que no padezcan procesos infecciosos, peligrosos para la salud pública, y forzosamente habrá de ser sometida a un tratamiento de higienización.
+
+Si se fabrica con leche de otras especies deberá añadirse a la palabra nata la de la especie de que proceda.
+
+###### 3.15.11. Nata homogeneizada.
+
+Se entiende por nata homogeneizada o nata uniforme la sometida a un proceso mecánico que subdivide los glóbulos grasos y asegura una emulsión mejor.
+
+###### 3.15.12. Nata esterilizada.
+
+Se entiende por nata esterilizada la sometida a tratamientos físicos que aseguren la destrucción de los gérmenes y la inactivación de sus formas de resistencia.
+
+###### 3.15.13. Características de las natas.
+
+Las natas destinadas a consumo directo deberán reunir los requisitos siguientes.
+
+a) Menos de 100.000 colonias de gérmenes por mililitro.
+
+b) Ausencia de coliformes en 0,1 mililitros.
+
+c) Acidez, expresada en ácido láctico, como máximo, 0,65 gramos por 100 mililitros.
+
+d) Prueba de la fosfatasa negativa.
+
+e) Prueba de la reductasa microbiana con azul de metileno, más de dos horas.
+
+f) No presentará aspectos grumoso, filamentoso, coposo, ni tendrá mal sabor o mal olor.
+
+g) No sobrepasará los límites de impurezas establecidos en las listas de tolerancias, complementarias del Capítulo XXXV de este Código.
+
+h) Materia grasa, como mínimo, 18 por 100 en peso.
+
+Las características de su materia grasa corresponderán a las de la leche.
+
+> Téngase en cuenta que se derogan los criterios microbiológicos recogidos en este apartado por la disposición derogatora única.a).v del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+###### 3.15.14. Clasificación de las natas.
+
+De acuerdo con su contenido en grasa, las natas se clasificarán en:
+
+Doble nata: La que contenga como mínimo 50 por 100 en peso de grasa.
+
+Nata: La que contenga como mínimo 30 por 100 en peso de grasa.
+
+Nata delgada: La que contenga como mínimo 18 por 100 en peso de grasa.
+
+###### 3.15.15. Manipulaciones.
+
+En la preparación, conservación y venta de natas queda permitido.
+
+a) La adición de microorganismos de la fermentación acidófila (streptococcus cremoris y lactis).
+
+b) La adición de microorganismos productores del aroma de la mantequilla (Leuconostoc citrovorus y L. paracitrovorus).
+
+c) **(Derogado).**
+
+d) La adición de glucosa o sacarosa en una proporción no superior al 10 por 100 en peso, con declaración en el envase.
+
+e) La incorporación de gases inocuos para la elaboración de nata «batida o montada».
+
+###### 3.15.16. Prohibiciones.
+
+En la preparación, conservación y venta de natas queda prohibido.
+
+a) La adulteración por adición o sustracción de elementos propios o no de la leche y sustitución de la grasa por otras extrañas.
+
+b) **(Derogado).**
+
+c) El empleo de la palabra «nata» para designar otros productos.
+
+d) y e) **(Derogados).**
+
+###### 3.15.17. Conservación.
+
+**(Derogado).**
+
+###### 3.15.18. Envasado y rotulación.
+
+**(Derogado).**
+
+###### 3.15.19. a 3.15.25
+
+**(Derogados)**
+
+###### 3.15.26. a 3.15.33
+
+**(Derogados)**
+
+###### 3.15.34. Sueros lácteos.
+
+Con la denominación de «sueros lácteos» o «sueros de lechería» se entienden los líquidos formados por parte de los componentes de la leche que resultan de diversos procesos de elaboración de productos lácteos, y son:
+
+a) Suero del queso: Es el líquido residual de la elaboración de queso.
+
+b) Suero de mantequilla o mazada: Es el líquido resultante del batido que separa la materia grasa de la nata.
+
+c) Suero en polvo: Se obtiene a partir del suero de queso sometido a manipulaciones de desecación.
+
+###### 3.15.35. Características bacteriológicas.
+
+**(Derogado).**.
+
+###### 3.15.38. Prohibiciones.
+
+**(Derogado).**
+
+###### 3.15.37. Caseína.
+
+A efectos de este Código, con el nombre de caseína se entiende la materia protéica separada por procedimientos tecnológicos autorizados de las demás proteínas de la leche desnatada.
+
+###### 3.15.38. Características.
+
+Debe presentarse en forma de polvo blanco, libre de puntos negros, insípida, de olor débil, no desagradable y con la siguiente composición, según el método de preparación:
+
+Humedad, máximo: Al cuajo, 12 por 100 en peso; por precipitación ácida, 10 por 100 en peso.
+
+Materia grasa, máximo: Al cuajo, 1 por 100 en peso; por precipitación ácida, 2,5 por 100 en peso.
+
+Acidez, máximo: Al cuajo, 0,2 por 100 en peso; por precipitación ácida, 2,5 por 100 en peso.
+
+Proteínas (Nitrógeno por 6,39), mínimo: Al cuajo, de 78 a 82 por 100 en peso; por precipitación ácida, de 78 a 84 por 100 en peso.
+
+Sales minerales, máximo: Al cuajo, de 7 a 8 por 100 en peso; por precipitación ácida, de 2 a 3 por 100 en peso.
+
+###### 3.15.39. Requesón.
+
+Se entiende por requesón el producto obtenido precipitando por el calor, en medio ácido, las proteínas que existen en el suero del queso para formar una masa blanda.
+
+###### 3.15.40. Características.
+
+La composición del requesón será.
+
+Humedad, máximo 69 por 100 en peso.
+
+Materia grasa, máximo 5,25 por 100 en peso, sobre extracto seco.
+
+Proteínas, mínimo 19 por 100 en peso.
+
+Lactosa, 10 por 100 en peso como mínimo.
+
+###### 3.15.41. Manipulaciones.
+
+La manipulación, conservación, transporte y venta del requesón estará sujeta a las mismas condiciones que para los quesos frescos se fijan en este Código.
+
+> Se derogan los apartados 3.15.17, 3.15.18, 3.15.35, 3.15.38, 3.15.15.c, 3.15.16.b,d y e por la disposición derogatora única.a).iii y iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+> Se derogan los apartados 3.15.19 a 3.15.25 por el art. único del Real Decreto 200/2009, de 23 de febrero. [Ref. BOE-A-2009-3790](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-3790).
+
+> Se derogan los apartados 3.15.26 a 3.15.33 por la disposición derogatoria única del Real Decreto 1113/2006, de 29 de septiembre. [Ref. BOE-A-2006-17436](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-17436).
+
+> Se modifican los apartados 3.15.09, 3.15.26 a 3.15.31 y 3.15.33 por el art. 1 del Real Decreto 503/1986, de 21 de febrero. [Ref. BOE-A-1986-6860](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-6860).
+
+##### Sección 3.ª Cuajo
+
+###### 3.15.42. Cuajo.
+
+Es el extracto líquido, pastoso o en polvo procedente de la maceración de los cuajares de los rumiantes lactantes.
+
+###### 3.15.43. Características.
+
+Se distinguen:
+
+Cuajo líquido o solución de cuajo con el poder coagulante o «título mínimo» del uno partido por diez mil (1: 10.000).
+
+Cuajo sólido, con un poder coagulante o «título mínimo» del uno partido por cuarenta mil (1: 40.000).
+
+En ambos casos no deben existir más de 25 coliformes por gramo.
+
+> Téngase en cuenta que se derogan los criterios microbiológicos recogidos en este apartado por la disposición derogatora única.a).v del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+###### 3.15.44. Manipulaciones.
+
+En la elaboración del cuajo se permite:
+
+a) La adición de sal.
+
+b) y c)**(Derogados).**
+
+###### 3.15.45. Prohibiciones.
+
+Se prohíbe adicionar al cuajo productos que falseen el poder coagulante del mismo.
+
+###### 3.15.46. Envasado y rotulación.
+
+El almacenamiento y transporte del cuajo se efectuará en recipientes cerrados al abrigo de la luz y de la humedad y a temperatura adecuada.
+
+En las etiquetas de los envases de cuajo, además de lo establecido en el Capítulo IV de este Código, se consignará el modo de empleo, con la indicación del título mínimo y la fecha de envasado.
+
+> Se deroga el apartado 3.14.44.b y c por la disposición derogatora única.a).iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo XVI — 3.16.00. Grasas comestibles
+
+##### Sección 1.ª Disposiciones comunes
+
+###### 3.16.01. Grasas comestibles.
+
+Son los productos de origen animal o vegetal cuyos constituyentes principales son glicéridos naturales de los ácidos grasos, conteniendo como componentes menores otros lípidos.
+
+Se aplicará la denominación genérica de aceites a los productos grasos líquidos a la temperatura de 20 grados centígrados, y la de sebos y mantecas, o simplemente grasas, a los productos grasos sólidos a la misma temperatura.
+
+###### 3.16.02. Caracteres de las grasas comestibles.
+
+Los aceites deberán tener un aspecto limpio y transparente, a la temperatura de 15 a 20 grados centígrados, olor y sabor agradables, con los aromas propios y característicos de cada aceite, correspondientes a los frutos y semillas de que procedan. Las grasas sólidas, a excepción de la margarina, fundidas, deberán ser claras y transparentes, sin contener sustancias en suspensión o posos deberán tener un aspecto limpio, con olor y sabor agradables.
+
+Las características químicas generales, a excepción de la margarina, serán las siguientes:
+
+Humedad y materias volátiles, en estufa a 105 grados centígrados, no superior a 0,1 por 100.
+
+Impurezas insolubles en el éter de petróleo, calculadas sobre grasa seca, no superior a 0,5 por 100.
+
+Acidez libre, expresada en ácido oleico y referida a grada seca, no superior a 3 por 100 para los aceites vírgenes de oliva y cacahuete, y no superior a —0,15 por 100 para aceites y grasas refinados.
+
+Las grasas y aceites refinados no deberán acusar ni trazas del disolvente utilizado en la extracción, dando reacción negativa en el ensayo de jabón.
+
+###### 3.16.03. Materias primas.
+
+Para la obtención de grasas comestibles se emplearán materias primas adecuadas, susceptibles de producir, con tratamiento correcto, un producto bien terminado en todos sus aspectos y sin ningún defecto.
+
+###### 3.16.04. Obtención de grasas comestibles.
+
+Los procedimientos permitidos para la obtención de grasas comestibles de las semillas o frutos oleaginosos y de los tejidos o depósitos adiposos de animales son los siguientes:
+
+a) Presión, previa trituración o no, de la materia prima.
+
+b) Fusión, por tratamiento térmico de la materia prima, sin sobrepasar la temperatura de 100 grados centígrados.
+
+c) Extracción con los disolventes permitidos, seguida de la eliminación completa de éstos.
+
+###### 3.16.05. Disolventes.
+
+Los disolventes utilizables para la extracción de grasas y aceites comestibles serán los que se determinen en la reglamentación complementaria de este Código, debiéndose ajustar las especificaciones fijadas para cada uno, con las siguientes condiciones generales:
+
+a) Deberán ser productos de características químicas bien definidas de origen natural o de síntesis, sin que exista la posibilidad de que contengan impurezas que tengan una clara acción nociva sobre el organismo.
+
+b) Deberán ser fácilmente separables, por destilación con o sin arrastre de vapor, de la mezcla grasa-disolvente, pudiéndose eliminar hasta los últimos residuos, sin someter el aceite a calentamientos excesivos, de acuerdo con lo que se determina en 3.16.04. b).
+
+c) El disolvente destilará en un 99,99 por 100 a una temperatura que no sobrepase los 95 grados centígrados.
+
+d) No contendrá residuos metálicos, especialmente plomo, que puedan quedar retenidos por el aceite.
+
+###### 3.16.07. Tratamiento de grasas comestibles.
+
+Se permite:
+
+a) La clarificación por un proceso mecánico: sedimentación, centrifugación o filtración.
+
+b) La desmucilaginación, por los anteriores métodos o por el empleo de sales inorgánicas o ácidos diluidos.
+
+c) La neutralización con lejías acuosas alcalinas y lavado posterior.
+
+d) La decoloración, por tratamiento con tierras decolorantes inofensivas y carbón activo.
+
+e) La desodorización, por tratamiento en corriente de vapor de agua, a presión normal o reducida.
+
+f) La desmargarinización, por enfriamiento a bajas temperaturas y separación subsiguiente.
+
+###### 3.16.07. Condiciones para la obtención o tratamiento.
+
+Para permitir un procedimiento de obtención o tratamiento de grasas comestibles, no consignado en 3.16.06, serán indispensables las siguientes condiciones:
+
+a) Que no resulte de su aplicación una merma del valor alimenticio del producto obtenido, respecto al procedente de otros métodos autorizados.
+
+b) Que no produzca cambios perjudiciales en la estructura natural de los componentes.
+
+c) Que se haya comprobado la acción inocua de los productos por pruebas biológicas.
+
+###### 3.16.08. Grasas comestibles refinadas.
+
+Se considerará refinado todo aceite o grasa que, mediante tratamientos autorizados, haya sido neutralizado, decolorado y desodorizado.
+
+###### 3.16.09. Grasas comestibles alteradas.
+
+Se considera alterada toda grasa comestible que presente los siguientes caracteres:
+
+a) Olor, sabor o color extraño a su naturaleza.
+
+b) Acidez, humedad o impurezas superiores a las permitidas en cada caso.
+
+###### 3.16.10. a 3.16.12.
+
+**(Derogados)**.
+
+###### 3.16.13. Prohibiciones.
+
+En la obtención o tratamiento de las grasas comestibles se prohíbe:
+
+a) Cualquier práctica que, a la presión ordinaria, las someta a temperaturas superiores a las admisibles para cada tipo de grasa y en la que se prevea una alteración sustancia de su estructura química.
+
+b) El empleo de disolventes que no reúnan les condiciones especificadas en 3.16.05.
+
+c) El tratamiento con aire, oxígeno, ozono u otras sustancias químicas oxidantes.
+
+d) La neutralización por medios o con sustancias distintas de las autorizadas.
+
+e) La esterificación a partir de los componentes, aunque éstos sean de origen natural.
+
+f) La mezcla de grasas comestibles, de distinta naturaleza, excepto en el caso de las transformadas.
+
+> Se derogan los apartados 3.16.10, 3.16.11, 3.16.12, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 2.ª Aceites de oliva
+
+Los aceites de oliva y de orujo de oliva se regirán por lo previsto en el Real Decreto 760/2021, de 31 de agosto, por el que se aprueba la norma de calidad de los aceites de oliva y de orujo de oliva.
+
+> Se modifica por la disposición final 2 del Real Decreto 760/2021, de 31 de agosto. [Ref. BOE-A-2021-14318](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14318)
+
+##### Sección 3.ª Aceites vegetales comestibles
+
+Los aceites vegetales comestibles se regirán por lo previsto en el Real Decreto 351/2025, de 30 de abril, por el que se aprueba la norma de calidad de los aceites vegetales comestibles.
+
+> Se modifica por la disposición final 2 del Real Decreto 351/2025, de 30 de abril. [Ref. BOE-A-2025-9738](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-9738)
+
+##### Sección 4.ª Grasas animales, grasas vegetales, grasas hidrogenadas alimenticias y grasas transformadas
+
+Las grasas animales, grasas vegetales, grasas hidrogenadas alimenticias y grasas transformadas quedan reguladas por el Real Decreto 1011/1981, de 10 de abril, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, circulación y comercio de grasas comestibles (animales, vegetales y anhidras), margarinas, minarinas y preparados grasos.
+
+> Se modifica por el art. 1.1 del Real Decreto 142/2026, de 25 de febrero. [Ref. BOE-A-2026-4519](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4519)
+
+> Se deroga el apartado 3.16.32, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 5.ª
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 1.2 del Real Decreto 142/2026, de 25 de febrero. [Ref. BOE-A-2026-4519](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4519)
+
+##### Sección 6.ª
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 1.2 del Real Decreto 142/2026, de 25 de febrero. [Ref. BOE-A-2026-4519](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4519)
+
+##### Sección 7.ª
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 1.2 del Real Decreto 142/2026, de 25 de febrero. [Ref. BOE-A-2026-4519](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4519)
+
+> Se deroga el apartado 3.16.47. f) por la disposición derogatora única.a) iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo XVII — 3.17.00. Cereales
+
+###### 3.17.01. Denominación genérica.
+
+Se conocerá bajo la denominación de cereal a las plantas gramíneas y a sus frutos maduros, enteros, sanos y secos. También se considerará en este epígrafe el alforfón o trigo sarraceno, de la familia de las Poligonáceas.
+
+###### 3.17.02. Usos alimenticios.
+
+Cualquier cereal de los definidos en este Código podrá ser utilizado para la alimentación humana o del ganado.
+
+Se considerarán útiles para la alimentación los siguientes cereales:
+
+1.º Alpiste («Phalaris canariensis». L.).
+
+2.º Arroz («Oryza Sativa», L.).
+
+3.º Avena («Avena Sativa», L.).
+
+4.º Cebada («Hordeum Vulgare», L.).
+
+5.º Centeno («Secale Cereale», L.).
+
+6.º Maíz («Zea Mays», L.).
+
+7.º Mijo («Panicum Miliaceum», L.), Panizo («Setarin Italica P.», L.) y Panizo de Daimiel («Pennisetum glaucum»).
+
+8.º Sorgo («Sorghum Vulgare», Pers.).
+
+9.º Trigo («Triticum», L.).
+
+10.º Alforfón o trigo sarraceno («Fagopyrum Esculentum» Moench).
+
+Las reglamentaciones correspondientes indicarán los que deben ser destinados para consumo humano o para piensos.
+
+###### 3.17.03. Transporte.
+
+**(Derogado).**
+
+###### 3.17.04. Almacenamiento.
+
+El almacenamiento podrá realizarse en paneras, bodegas, cámaras, almacenes horizontales (graneros) y verticales (silos).
+
+Cualquiera que sea el sistema de almacenamiento, los granos deberán hallarse en buen estado de conservación, para lo cual será necesario:
+
+a) Que estén comercialmente limpios, sanos y secos.
+
+b) Los porcentajes máximos admitidos para materias extrañas y humedad serán los que se establezcan por el organismo competente.
+
+c) Cuando el porcentaje de materias extrañas sea superior al normal se podrá someter el grano a un proceso de limpia previo al almacenamiento.
+
+d) Cuando el contenido de humedad del grano sea superior al normal, se podrá proceder a la desecación del mismo, según métodos y normas industriales adecuadas a cada cereal, debidamente controlados, para evitar el posible deterioro de la mercancía por excesivo recalentamiento.
+
+###### 3.17.05. Graneros.
+
+Los graneros deberán estar constituidos de materiales idóneos y dotados de medios adecuados para facilitar la carga y descarga a granel y poder realizar trasiegos del grano cuando sea necesario.
+
+###### 3.17.06. Silos.
+
+Los silos deberán reunir las siguientes características:
+
+a) Serán de fábrica de ladrillo, hormigón armado, paredes metálicas, de bloques o de cualquier otro material de uso corriente en la construcción.
+
+b) Estarán integrados por depósitos o celdas de forma prismática o cilíndrica y de altura variable.
+
+c) Estarán provistos de maquinaria adecuada para poder realizar la pesada de la mercancía, la limpia de ésta y el trasiego entre celdas.
+
+d) Dispondrán de instalaciones adecuadas de carga y descarga, apropiadas según se prevea la recepción y salida de productos por carretera, ferrocarril, vía fluvial o marítima.
+
+e) Todos los silos dispondrán de los medios adecuados que permitan la desinfección del grano depositado cuando sea necesario.
+
+###### 3.17.07. Saneamiento de almacenes.
+
+**(Derogado).**
+
+###### 3.17.08. Saneamiento de mercancías.
+
+**(Derogado).**
+
+###### 3.17.09. Desecación.
+
+Los silos, almacenes o fábricas de harinas que dispongan de instalaciones de secado, cuando reciban grano con elevada humedad, que dificulte su conservación, someterán el producto a un proceso de desecación para rebajar su contenido en agua hasta límites variables, según el grano y climatología de la región, y que garanticen su conservación.
+
+La temperatura máxima que deberá emplearse para el secado se fijará en el oportuno reglamento, según se trate de productos dedicados a la siembra, a la alimentación humana o a la de los animales.
+
+###### 3.17.10. Fumigación.
+
+**(Derogado).**
+
+###### 3.17.11. Alpiste.
+
+Se considerará come alpiste («Phalaris Canariensis», L.) la planta y los frutos procedentes de la mencionada especie. Las características tipo serán las siguientes:
+
+Peso mínimo del hectolitro, 75 kilogramos.
+
+Humedad máxima, 13 por 100.
+
+Elementos extraños, máximo, 1 por 100.
+
+###### 3.17.12. Arroz.
+
+Es el fruto procedente de la especie «Oryza sativa», L.:
+
+a) Las características tipo serán las que para cada campaña se fijen oficialmente, detallándose la tolerancia en cuanto se refiera a humedad, medianos, granos manchados, amarillos y cobrizos, impurezas, etc.
+
+b) Denominaciones:
+
+Arroz cáscara: Granos de arroz revestidos por las glumas.
+
+Arroz descascarillado o integral: Granos de arroz sin glumas, pero revestidos aún por el pericarpio.
+
+Arroz pulido o blanco: Grano sin pericarpio y pulido mediante tratamiento mecánico.
+
+Arroz glaseado o perlado: Granos sin pericarpio, tratados con talco o glucosa.
+
+c) Para la estimación de defectos se utilizarán las siguientes denominaciones:
+
+1\. Medianos. Son fragmentos de granos de tamaño inferior a tres cuartas partes de un grano.
+
+2\. Granos amarillos. Son granos que, por haber sufrido un proceso de fermentación, se ha modificado su color normal en más de la mitad de su superficie. El color que presenta va del amarillo claro al amarillo anaranjado.
+
+3\. Granos manchados. Se considera manchado el grano que presenta en menos de la mitad de su superficie un color distinto al normal (amarillento, rojizo, etc.).
+
+4\. Granos rojos y veteados rojos. Se denominan granos rojos aquellos granos de arroz elaborado en los que la cutícula roja cubre al menos el 25 por 100 de la superficie del grano. Se llaman granos veteados rojos los que presentan vetas rojas de una longitud igual a la mitad o más de la del grano entero, pero sin llegar a cubrir el 25 por 100 de la superficie del grano.
+
+5\. Granos yesosos. Son los granos que se presentan totalmente opacos y harinosos, ofreciendo aspecto de yeso.
+
+6\. Granos verdes. Se llaman granos verdes los que, por no estar suficientemente maduros en el momento de la recolección, presentan su superficie de color verdoso o verde hoja seca.
+
+7\. Granos picados. Son aquellos que, por picadura de insecto durante su maduración, tienen una mancha circular penetrante de color oscuro.
+
+8\. Impurezas. Por impurezas se entienden los granos de arroz revestidos, cáscara, semillas extrañas y otras materias.
+
+###### 3.17.13. Avena.
+
+Son los frutos procedentes de la especie «Avena sativa», L. Las características tipo serán las que para cada campaña se fijen oficialmente, detallándose la tolerancia en cuanto se refiera a humedad, cuerpos extraños, granos de otros cereales, etc.
+
+###### 3.17.14. Cebada.
+
+Son los frutos sanos y secos procedentes de las diferentes especies de «Hordeum». Las características tipo serán las que para cada campaña se fijen oficialmente, detallándose la tolerancia en cuanto se refiera a humedad, cuerpos extraños, granos de otros cereales, etc.
+
+###### 3.17.15. Centeno.
+
+Son los frutos procedentes de la especie «Secale cereale», L. Las características tipo serán las que para cada campaña se fijen oficialmente, detallándose la tolerancia en cuanto se refiera a humedad, cuerpos extraños, granos de otros cereales, etc.
+
+###### 3.17.16. Maíz.
+
+Es el fruto procedente de la especie de «Zea mays», L. Las características tipo serán las que para cada campaña se fijen oficialmente, detallándose la tolerancia en cuanto se refiera a humedad, cuerpos extraños, granos de otros cereales, etc.
+
+###### 3.17.17. Mijo, Panizo y Panizo de Daimiel.
+
+Se entenderá por mijo los frutos procedentes del «Panicum miliaceum», L.; por panizo, los procedentes del «Setaria italica P», L., y por panizo de Daimiel, los procedentes del «Pennisetum glaucum».
+
+Las características tipo de cada uno de ellos serán las siguientes:
+
+a) Mijo.
+
+Peso mínimo del hectolitro, 68 kilogramos.
+
+Humedad máxima, 14 por 100.
+
+Elementos extraños que no sean cereal base, 1 por 100.
+
+b) Panizo.
+
+Peso mínimo del hectolitro, 76 kilogramos.
+
+Humedad máxima, 14 por 100.
+
+Elementos extraños que no sean cereal base, 1 por 100.
+
+c) Panizo de Daimiel.
+
+Peso mínimo del hectolitro, 72 kilogramos.
+
+Humedad máxima, 13 por 100.
+
+Elementos extraños que no sean cereal base, 1 por 100.
+
+###### 3.17.18. Trigos.
+
+Son los frutos procedentes de las diferentes especies del género «Triticum», L. Las características tipo serán las que para cada campaña se fijen oficialmente, detallándose la tolerancia en cuanto se refiera a humedad, cuerpos extraños, granos de otros cereales, etc.
+
+###### 3.17.19. Alfarfón.
+
+Es el fruto del «Fagopyrum Esculentum, Moench». Las características tipo serán las siguientes:
+
+Peso mínimo del hectolitro, 62 kilogramos.
+
+Humedad máxima, 13 por 100.
+
+Elementos extraños que no sean de cereal base, 1 por 100.
+
+###### 3.17.20. Sorgo.
+
+Es el fruto procedente del «Sorghum Vulgare», Pers. Las características tipo serán las que para cada campaña se fijen oficialmente, detallándose la tolerancia en cuanto se refiera a humedad, cuerpos extraños, granos de otros cereales, etc.
+
+###### 3.17.21. Semillas de siembra.
+
+Las semillas para la siembra se proporcionarán en la forma que se señale de acuerdo con las normas oficiales.
+
+###### 3.17.22. Semillas Puras.
+
+Para todo lo referente a semillas puras se tendrán en cuenta las reglas internacionales de análisis de semillas, aprobadas en España.
+
+En el reglamento correspondiente se indicarán las características de pureza, poder germinativo y valor real de las diferentes especies y variedades.
+
+###### 3.17.23. Manipulaciones.
+
+Queda permitido el pulimento, glaseado o abrillantado de los cereales a los que se haya sometido previamente a un proceso de descortezado o privación de sus capas externas. Se pueden emplear la glucosa, talco y grasas comestibles, siempre que el aumento de peso por esta operación no sea superior al 0,6 por 100 sobre el peso final.
+
+Queda permitido el tratamiento de los granos de cereales con el anhídrido sulfuroso, siempre que el contenido en SO<sub>2</sub> no exceda del 0,04 por 100 sobre el peso final.
+
+###### 3.17.24. Prohibiciones.
+
+Queda prohibido el abrillantado del arroz con productos que no estén expresamente autorizados en este Código.
+
+> Se derogan los apartados 3.17.03, 3.17.07, 3.17.08, 3.17.10, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo XVIII — 3.18.00. Leguminosas
+
+##### Sección 1.ª Legumbres secas
+
+###### 3.18.01. Denominación.
+
+Con la denominación genérica de «Legumbres secas» se conocerán las semillas secas, limpias y sanas y separadas de la vaina, procedentes de plantas de la familia de las leguminosas, de uso corriente en el país y que directa o indirectamente resulten adecuadas para la alimentación.
+
+###### 3.18.02. Clasificación.
+
+A efectos de este Código se consideran legumbres secas las siguientes:
+
+a) Judía.
+
+Judía común, «Phaseolus vulgaris», L., exp. Savi.
+
+Judía de España o judía escarlata, «Phaseolus multiflorus», Wild.
+
+Judía de Lima, «Phaseolus lunatus», L.
+
+Judía carilla, «Vigna sinensis», L.
+
+b) Lenteja, «Lens sculenta», Moench.
+
+c) Garbanzo, «Cicer arietinum», L.
+
+d) Guisante seco, «Pisum sativum», S.
+
+e) Haba seca, «Vicia faba», L.
+
+f) Altramuz:
+
+Altramuz blanco, «Lupinus albus», L.
+
+Altramuz amarillo, «Lupinus luteus», L.
+
+Altramuz azul, «Lupinus angustifolius», L.
+
+g) Soja, «Glycine Soja», L., Sub y Lucc.
+
+h) Cacahuete, «Arachls hypogea», L.
+
+i) Garrofa, «Ceratonia siliqua», L.
+
+j) Algarroba, «Vicia monanthos».
+
+##### Sección 2.ª Derivados
+
+###### 3.18.03. Derivados de leguminosas.
+
+Son los productos obtenidos por la elaboración de legumbres secas, aptos para la alimentación o destinados a servir de materia prima para fabricación de productos alimenticios.
+
+###### 3.18.04. Clasificación.
+
+Los derivados de leguminosas se clasifican en:
+
+a) Legumbres mondadas.
+
+b) Purés de legumbres.
+
+c) Harinas de legumbres.
+
+###### 3.18.05. Legumbres mondadas.
+
+Son los cotiledones sin tegumentos, procedentes de las semillas secas de leguminosas.
+
+###### 3.18.06. Purés de legumbres.
+
+Son los productos obtenidos por trituración de las semillas secas de leguminosas mondadas.
+
+###### 3.18.07. Harinas de legumbres.
+
+Es el producto resultante de la molienda de las legumbres secas, despojadas de la parte cortical.
+
+##### Sección 3.ª Disposiciones comunes
+
+###### 3.18.08. Condiciones especiales.
+
+Las legumbres secas y sus derivados presentarán un aspecto, olor y sabor normales, sin señales de haber sido atacadas por hongos, bacterias, insectos, ácaros o roedores, y su contenido máximo de humedad será del 15 por 100.
+
+Las características tipo serán las que para cada campaña se fijen oficialmente, detallándose la tolerancia en cuanto se refiere a humedad, cuerpos extraños, impurezas, manchados, partidos y malformaciones.
+
+Los purés y harinas de legumbres deberán contener, como mínimo, un 20 por 100 de proteínas, tolerándose máximos del 3 por 100 de grasas y 6 por 100 de cenizas. En los purés y harinas de garbanzos se tolerarán un mínimo del 17 por 100 de proteínas y un máximo del 8 por 100 de grasa, y en la harina de soja desengrasada un mínimo del 40 por 100 de proteínas.
+
+Las legumbres secas y sus derivados que no reúnan estas condiciones serán considerados «alimento alterado».
+
+###### 3.18.09. Prohibiciones.
+
+Queda prohibido:
+
+a) **(Derogado).**
+
+b) El consumo humano de las semillas y derivados que contengan en cantidades tóxicas, glucósidos cianogenéticos y alcaloides.
+
+c) El consumo humano de los turtos crudos obtenidos de la extracción de aceites de leguminosas.
+
+d) Los tratamientos de las legumbres con pesticidas, en cuanto no se ajusten a lo dispuesto en los Capítulos XXXV y XXXVII de este Código y disposiciones complementarias.
+
+###### 3.18.10. Envasado.
+
+Los purés y harinas de legumbres deberán venderse envasados, indicando en el rótulo o etiqueta, además de los datos establecidos en el artículo 2.04.17 de este Código la especie de que procedan, y si son mezclas de varias, las especies y la proporción de cada una de ellas. Se autoriza su mezcla con harinas de cereales, cuando se especifiquen las especies y su proporción.
+
+###### 3.18.11. Conservación.
+
+Para la conservación de los purés y harinas de legumbres se tendrán en cuenta las normas especificadas en el Capítulo XX de este Código para las harinas de cereales.
+
+> Se deroga el apartado 3.18.09.a) por la disposición derogatora única.a) iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo XIX — 3.19.00. Tubérculos y derivados
+
+##### Sección 1.ª Patatas
+
+###### 3.19.01. Denominación.
+
+Con la denominación genérica de «Patatas» se conocerán los tubérculos procedentes de la planta «Solanum tuberosum» L., sanos, maduros, limpios de tierra u otras impurezas y que, en su estado natural o debidamente conservados, sean aptos para el consumo humano.
+
+###### 3.19.02. Clasificación.
+
+A efectos de este Código las patatas se clasifican en:
+
+a) Patatas frescas.
+
+b) Patatas peladas.
+
+###### 3.19.03. Patatas frescas.
+
+Son las que se presentan en su estado natural para destinarlas al consumo humano, pudiendo ser sometidas previamente a procesos de calibrado, selección y lavado. Se distinguen dos clases:
+
+a) Patatas corrientes.
+
+b) Patatas de calidad.
+
+La reglamentación correspondiente señalará las características de cada clase.
+
+###### 3.19.04. Patatas peladas.
+
+Son las obtenidas a partir de «patatas frescas de calidad», a las que se ha desprovisto de la piel y acondicionado convenientemente para mantenerlas durante un cierto tiempo en buen estado sanitario y con su alto nivel de calidad.
+
+###### 3.19.05. Condiciones especiales y tolerancias.
+
+Además de las condiciones establecidas en el Capítulo VI, se establecen las siguientes:
+
+a) En el almacenamiento de «patatas frescas» se mantendrán las condiciones ambientales adecuadas que impidan la excesiva pérdida de agua, el desarrollo de organismos parásitos, el crecimiento de los brotes o la excesiva acumulación de azúcares.
+
+b) Las tolerancias en las «patatas frescas» para los residuos de productos fitoterapéuticos serán las autorizadas en el Capítulo XXXVII de este Código y reglamentaciones complementarias.
+
+c) **(Derogado).**
+
+d) En el almacenamiento y transporte se mantendrá el producto a temperatura superior a 5 grados e inferior a 35 grados centígrados.
+
+###### 3.19.06. Prohibiciones.
+
+Queda prohibido:
+
+a) Tratar las «patatas frescas» con productos que comuniquen mal sabor al tubérculo.
+
+b) El consumo humano y la distribución para el mismo de «patatas frescas» heladas o que hayan brotado.
+
+> Se deroga el apartado 3.19.05.c) por la disposición derogatora única.a) iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 2.ª Derivados de las patatas
+
+###### 3.19.07. Derivados.
+
+Son los productos obtenidos por la elaboración de patatas, aptos para la alimentación, o destinados a servir de materia prima para fabricación de productos alimenticios.
+
+###### 3.19.08. Clasificación.
+
+Los derivados de patatas se clasifican en:
+
+a) Patatas conservadas.
+
+b) Patatas deshidratadas.
+
+c) Patatas congeladas.
+
+d) Patatas fritas.
+
+e) Harina de patata.
+
+f) Fécula de patata.
+
+g) Gránulos y copos de patata.
+
+h) Otros productos.
+
+###### 3.19.09. Patatas conservadas.
+
+Son las obtenidas a partir de «patatas peladas», dispuestas adecuadamente en envases herméticos.
+
+###### 3.19.10. Patatas deshidratadas.
+
+Son las obtenidas a partir de «patatas frescas», lavadas y peladas o no que han sufrido proceso técnico de industrialización hasta reducir su contenido acuoso a una proporción no superior al 10 por 100, en frío.
+
+###### 3.19.11. Patatas congeladas.
+
+Son las preparadas a partir de «patatas frescas», lavadas, peladas, cortadas en formas diversas, fritas en aceite o grasa comestible y congeladas; se presentarán en envases con cierre de ajuste adecuado para garantizar su conservación y distribución mediante transporte frigorífico hasta el punto final de venta.
+
+###### 3.19.12. Patatas fritas.
+
+Son las obtenidas a partir de «patatas frescas», lavadas y peladas, cortadas y fritas en aceite o grasa comestible; se conservarán en envases con cierre de ajuste adecuado.
+
+###### 3.19.13. Harina de patata.
+
+Es el producto obtenido a partir de «patatas frescas» mediante pelado, cocido, desecado, molido, tamizado y conservado adecuadamente en envases con cierre de ajuste adecuado.
+
+###### 3.19.14. Fécula de patata.
+
+Es el producto obtenido a partir de «patatas frescas», lavadas, peladas y trituradas, con decantación y desecación de los granos de almidón. Se conservará en envases con cierre de ajuste adecuado.
+
+###### 3.19.15. Gránulos y copos de patata.
+
+Son productos obtenidos a partir de «patatas frescas», lavadas y peladas, mediante un proceso de cocción, enfriado y deshidratado de características determinadas. Su conservación se hará en envases con cierre de ajuste adecuado.
+
+###### 3.19.16. Otros productos.
+
+Son todos aquellos que por sus características de preparación no están incluidos en las clasificaciones anteriores. Deberán ser autorizados previamente.
+
+###### 3.19.17. Condiciones especiales.
+
+Se establecen las siguientes:
+
+a) En la preparación de patatas conservadas, deshidratadas y fritas y copos de patata, se podrán emplear los aditivos autorizados en las listas positivas complementarias del libro IV de este Código.
+
+b) Los «gránulos de patata» tendrán consistencia adecuada para convertirse rápidamente en puré cuando se mezclen con un líquido caliente o hirviendo.
+
+c) El envase de los «copos de patata» será opaco, impermeable y suficientemente consistente.
+
+###### 3.19.18. Prohibiciones.
+
+Queda prohibido:
+
+Contenidos de humedad, superiores al 3 por 100 en las «patatas fritas», al 7 por 100 en la «harina de patata» y al 5 por 100 en los «gránulos y copos de patata».
+
+##### Sección 3.ª Otros tubérculos y sus derivados
+
+###### 3.19.19. Boniatos y batatas.
+
+Son los tubérculos de distintas variedades de la planta «Ipomea Batatas» L., sanos, maduros, limpios de tierra u otras impurezas y que, en su estado natural o debidamente conservados, resulten aptos para el consumo humano.
+
+###### 3.19.20. Chufas.
+
+Son las tubérculos de la planta «Cyperus esculentus», sanos, maduros, limpios de tierra u otras impurezas, sometidos o no a un proceso de calibrado y selección, que resulten aptos para el consumo humano o elaboración de horchata.
+
+###### 3.19.21. Clases de chufas.
+
+A efectos de este Código se considera sólo el tubérculo lavado y seco, distinguiéndose dos clases:
+
+a) Chufa granza.
+
+b) Chufa cosechero o de calidad.
+
+La reglamentación correspondiente señalará las características de cada clase.
+
+###### 3.19.22. Derivados.
+
+Son los productos obtenidos por la elaboración de boniatos, batatas o chufas, aptos para la alimentación o destinados a servir de materia prima para la fabricación de productos alimenticios.
+
+Las reglamentaciones correspondientes fijarán las características y calidades comerciales de estos productos.
+
+###### 3.19.23. Conservación.
+
+Desecados en el grado conveniente los tubérculos o derivados, se mantendrán en condiciones ambientales apropiadas, que impidan el desarrollo de organismos parásitos y la putrefacción. En todo caso, el contenido de agua no deberá exceder del adecuado para que no se produzcan alteraciones.
+
+#### Capítulo XX — 3.20.00. Harinas y derivadas
+
+##### Sección 1.ª Molineria
+
+###### 3.20.01. Molienda y molturación.
+
+En lo que respecta a este Capítulo, es la operación mediante la cual los granos de cereales y/o leguminosas, libres de materias extrañas (semillas adventicias, cuerpos extraños y granos diversos) y debidamente dispuestos, son triturados y reducidos a partículas de diversos tamaños, separables entre sí por medios mecánicos.
+
+###### 3.20.02. Productos de molinería.
+
+Son los productos obtenidos por molturación de los cereales y/o leguminosas, industrialmente limpios, y que se destinen al consumo humano. Se clasifican en dos grupos:
+
+a) Productos integrados por las sustancias de mejor calidad, procedentes de la parte interna del grano.
+
+b) Subproductos, formados por el resto de las partículas procedentes del grano.
+
+###### 3.20.03. Grado de extracción.
+
+Es la cantidad de harina de unas características determinadas que se obtiene en la molturación de 100 kilogramos de grano limpio, referidos una y otro al mismo tanto por ciento de humedad.
+
+###### 3.20.04. Rendimientos:
+
+Comercial.
+
+Es la cantidad de harina de unas características determinadas extraída de 100 kilogramos de grano comercial.
+
+Técnico.
+
+Es la cantidad de harina de unas características determinadas extraída de 100 kilogramos de grano comercial, una vez deducidas y separadas del mismo las impurezas o restos de limpia.
+
+###### 3.20.05. Definición.
+
+Deberá entenderse por harina sin otro calificativo el producto de la molturación del trigo industrialmente limpio. Las harinas de otros cereales y/o leguminosas deberán llevar adicionado a su nombre genérico el del grano del cual procedan.
+
+###### 3.20.06. Características de la harina.
+
+De modo genérico, serán las siguientes:
+
+a) La humedad de la harina no excederá del 15 por 100.
+
+b) El gluten seco no será inferior al 5,5 por 100.
+
+c) El contenido de cenizas, insolubles en ácido clorhídrico al 10 por 100, referido a sustancia seca, no será superior al 3 por 1.000.
+
+La reglamentación correspondiente especificará el contenido máximo de acidez y cenizas totales, expresadas ambas sobre sustancia seca para cada tipo de harina.
+
+d) Las harinas estarán exentas de toda clase de impurezas, cualquiera que sea su origen.
+
+###### 3.20.07. Harina enriquecida.
+
+Bajo esta denominación se incluye la harina a la que se ha adicionado algún producto que eleve su valor nutritivo.
+
+Se permite el enriquecimiento de las harinas con los productos y en las proporciones máximas fijadas en las listas positivas complementarias del Capítulo XXXVI de este Código. Las harinas enriquecidas deberán reunir las condiciones exigidas a las harinas ordinarias, haciéndose constar en la etiqueta de los envases el tipo o calidad y su condición de enriquecido.
+
+###### 3.20.08. Harina acondicionada.
+
+Bajo esta denominación se comprende la harina cuyas características organolépticas y plásticas se modifiquen o complementen para mejorarlas, mediante tratamientos físicos o adición de productos debidamente autorizados.
+
+Estas harinas se expenderán en envases apropiados, presentados con etiqueta en la que figure de manera clara y bien visible la leyenda «Harina acondicionada», fecha de su envasado y referencia numérica de la autorización para realizar el acondicionamiento.
+
+###### 3.20.09. Harina mezclada.
+
+**(Derogado).**
+
+###### 3.20.10. Harina integral.
+
+**(Derogado).**
+
+###### 3.20.11. Harinas alteradas.
+
+Se considerarán como alteradas, averiadas y enfermas, todas las que tengan olor anormal, sabor ácido o en las que el gluten presenta propiedades anormales.
+
+###### 3.20.12. Harinas envasadas.
+
+Los envases que contengan harinas han de llevar obligatoriamente etiqueta en la que, además de los requisitos exigidos en el Capítulo IV de este Código, se harán figurar los siguientes:
+
+a) Leyenda con la palabra «Harina» y la denominación del cereal de que proceda la misma.
+
+b) Denominación o tipo comercial de la harina, conforme a las características que establezca la reglamentación correspondiente.
+
+c) Peso neto del contenido.
+
+d) En el caso de harinas enriquecidas o acondicionadas, leyenda con el nombre comercial y denominación y dosis del aditivo utilizado.
+
+e) Fecha de elaboración.
+
+f) Cualquier característica técnica que el fabricante voluntariamente quiera garantizar, y que sea distinta a las correspondientes al tipo comercial reglamentado.
+
+Las harinas destinadas para condimentación se expenderán envasadas.
+
+###### 3.20.13. Almacenamiento.
+
+**(Derogado).**
+
+###### 3.20.14. Transporte de harinas.
+
+**(Derogado).**
+
+###### 3.20.15. Sémolas y semolinas.
+
+**(Derogado).**
+
+###### 3.20.16. Harinas especiales.
+
+Son las obtenidas mediante procesos especiales de elaboración, distinguiéndose, a efectos de este Código, las siguientes:
+
+a) Malteadas.
+
+b) Dextrinadas.
+
+c) Preparadas.
+
+d) De yuca y otras procedencias.
+
+Deberán presentarse al consumo en envases con etiqueta en la que figurará denominación que recuerde el proceso especial seguido para su elaboración o alguna de las características distintivas de estas harinas.
+
+###### 3.20.17. Harinas malteadas.
+
+**(Derogado).**
+
+###### 3.20.18. Harinas dextrinadas.
+
+Son aquellas que, por tratamiento térmico o por adición de una pequeña cantidad de ácido no perjudicial, contengan dextrina.
+
+###### 3.20.19. Dextrina.
+
+Es el producto obtenido por tratamiento técnico de fécula de patata o de maíz y ha de responder a las siguientes características:
+
+a) Polvo blanco o amarillento soluble en agua fría en proporción mínima del 25 por 100, calculado sobre materia seca.
+
+b) Contenido máximo del 12 por 100 de humedad, 15 por 10.000 de sustancias insolubles en agua, 5 por 1.000 de cenizas y acidez máxima del 4 por 1.000, calculada en ácido sulfúrico.
+
+c)**(Derogado).**
+
+###### 3.20.20. Harinas preparadas.
+
+Son las mezclas de harinas especiales, con productos lácteos y otras sustancias nutritivas.
+
+Estas harinas se designarán añadiendo las palabras «malteada», «destrinada» precedidas del nombre «preparada» e indicando en los envases los elementos que entran en su composición.
+
+###### 3.20.21. Harina de yuca.
+
+Obtenida por molienda de la pulpa lavada y deshidratada de yuca (Gen. Manihot).
+
+> Se derogan los apartados 3.20.13, 3.20.14, el segundo párrafo del apartado 3.20.08, y 3.20.19.c) por la disposición derogatora única.a).iii e iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+> Se derogan los apartados 3.20.09, 3.20.10, 3.20.15 y 3.20.17 por la disposición derogatoria única del Real Decreto 677/2016, de 16 de diciembre. [Ref. BOE-A-2016-11951](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11951).
+
+##### Sección 2.ª Productos amilaceos
+
+###### 3.20.22. A efectos de este Código se establece la siguiente clasificación:
+
+a) Féculas y almidones.
+
+b) Arrurruz.
+
+c) Tapioca.
+
+d) Sagú.
+
+e) Inulina.
+
+###### 3.20.23. Féculas y almidones.
+
+Son las materias amiláceas que se obtienen por tratamientos adecuados de determinadas especies de tubérculos, rizomas, raíces tuberosas, granos de cereales y de leguminosas, así como de otras partes de los vegetales.
+
+###### 3.20.24. Arrurruz.
+
+Son las féculas extraídas de los rizomas, de la «Maranta arundinácea», L.; «Canna cocinea», L.; «Canna edulis», L., y otras especies.
+
+###### 3.20.25. Tapioca.
+
+Es la fécula extraída de la raíz de yuca, género «Manihot», lavada y desecada, en granos duros e irregulares.
+
+###### 3.20.26. Sagú.
+
+Es la fécula extraída de la médula de la palmera sagú, género «Metroxylon».
+
+###### 3.20.27. Inulina.
+
+Es la fécula extraída de los tubérculos de la patata («Helianthus tuberosum», L.), la dalia («Dahlia pinnata», Cav.) y de las raíces de la achicoria («Cichorium intybus», L.).
+
+###### 3.20.28. Denominaciones, manipulación y empleo de materias amiláceas.
+
+Serán de aplicación las siguientes normas:
+
+a) Las denominaciones de fécula o almidón serán completadas, en todo caso, con el nombre de la planta de que procedan.
+
+b) El arrurruz se denominará, indistintamente, con ese nombre y con el de «almidón de maranta».
+
+c) En la elaboración de tapiocas se utilizarán procedimientos tecnológicos que garanticen la eliminación de sustancias tóxicas.
+
+d) La «inulina» podrá utilizarse libremente como materia prima para la industria.
+
+e) La denominación de los sucedáneos del «sagú» y de la «tapioca» se completará con el nombre de la materia prima de que procedan.
+
+##### Sección 3.ª Productos varios
+
+###### 3.20.29. Granos mondados.
+
+Se conocerá con tal nombre a los granos de cereales, privados de pericarpio, glumas y brácteas por procedimientos mecánicos. Sus cenizas serán inferiores al 3 por 100 sobre sustancia seca.
+
+###### 3.20.30. Granos perlados.
+
+Son los granos mondados que han sufrido una operación destinada a redondear los extremos para darles una forma más o menos esférica.
+
+###### 3.20.31. Granos inflados.
+
+Se conocerá con este nombre el producto resultante de la rotura del endospermo en los granos mediante procedimientos industriales, que produzca su hinchamiento.
+
+###### 3.20.32. Granos machacados.
+
+Se conocerá con el nombre de granos machacados o aplastados a los productos que resulten de privarles de parte de su pericarpio por medio de cilindros o por laminado.
+
+La calidad de estos productos dependerá de la proporción de tegumentos y cenizas que contengan.
+
+###### 3.20.33. Grañones.
+
+**(Derogado).**
+
+###### 3.20.34. Copos de cereal.
+
+Es el producto resultante de someter el grano mondado a la acción del vapor de agua y posteriormente al laminado y tostado. Podrá llevar ingredientes autorizados.
+
+###### 3.20.35. Gofio.
+
+Es el producto obtenido por tostación de las harinas de trigo o maíz o de sus granos someramente machacados con posterior pulverización.
+
+> Se deroga el apartado 3.20.33 por la disposición derogatoria única del Real Decreto 677/2016, de 16 de diciembre. [Ref. BOE-A-2016-11951](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11951).
+
+##### Sección 4.ª Productos de panadería
+
+###### 3.20.36 a 3.20.45
+
+**(Derogados)**
+
+> Téngase en cuenta que la derogación de los apartados 3.20.36 a 3.20.45, establecida por la disposición derogatoria única del Real Decreto 308/2019, de 26 de abril. [Ref. BOE-A-2019-6994](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6994), produce efectos desde el 1 de julio de 2019, según determina su disposición final tercera.
+
+> Redacción anterior:
+
+> "**3.20.36. Pan.**
+
+> Se designará con el nombre de pan al producto resultante de la cocción de una masa obtenida por la mezcla de harina de trigo, sal comestible y agua potable, fermentada por la adición de levaduras activas. Cuando se empleen harinas de otros cereales, el pan se designará con el apelativo correspondiente a la clase de cereal que se utilice.
+
+> **3.20.37. Denominaciones.**
+
+> Quedan permitidas para los elaborados con harina de trigo las siguientes denominaciones principales:
+
+> a) «Pan bregado, de miga dura, español o candeal». Es el obtenido mediante elaboración especial, en la cual es indispensable el uso de cilindros refinadores.
+
+> b) «Pan de flama» o de miga blanda. Es el obtenido con mayor proporción de agua que el anterior y no está refinado por cilindros.
+
+> c) «Pan integral». Con este nombre se designará un pan elaborado con harina integral o a partir de grañones convenientemente tratados.
+
+> d) «Pan de Viena» o «pan francés». Se designará con estos nombres al pan de flama elaborado a base de masa blanda, entre cuyos ingredientes entran, además de los citados, el azúcar, la leche o ambos al mismo tiempo.
+
+> e) «Pan de gluten». Se designará con este nombre el pan de harina de trigo enriquecida con gluten en proporción no inferior al 30 por 100 de gluten seco.
+
+> Si la cantidad de gluten seco fuera superior al 16 por 100 e inferior al 30 por 100, se denominará «Pan glutinado».
+
+> f) «Pan especial». Se designará con este nombre toda clase de pan diferente a las anteriores y que tenga alguna cualidad característica: no llevar sal, no llevar levadura, llevar grasas o algún otro complemento panario o la forma de moldeado.
+
+> Otras denominaciones podrán ser autorizadas en las reglamentaciones correspondientes.
+
+> **3.20.38. Características del pan.**
+
+> Las características de las diversas clases de pan, excepto los integrales y de gluten, serán las siguientes:
+
+> a) Color de la miga: blanca, crema o amarillenta.
+
+> b) Color de la corteza: dorada, uniforme y brillante o mate, según la clase de pan, y estará exenta de manchas.
+
+> c) Olor agradable y suave, exento de rancidez o de cualquier otro anormal.
+
+> d) Sabor agradable característico: ni agrio ni amargo.
+
+> e) La corteza al tacto será más o menos fina, según la clase de pan, y no deberá resultar excesivamente dura, debiendo quebrarse y crujir ligeramente al hacer presión sobre la pieza.
+
+> f) Textura: la miga será suave al tacto y tendrá una textura de alvéolos finos y gruesos, de paredes delgadas, distribuidos regularmente según la clase de pan.
+
+> g) La acidez no será superior al 5 por 1.000, expresada en ácido láctico, referida a materia seca y determinada sobre extracto acuoso.
+
+> h) Examen al microscopio: estará exento de gránulos de almidón de otros cereales, de mohos, de residuos de insectos, huevos o larvas, o de cualquier otra materia extraña que denote un deficiente estado higiénico-sanitario.
+
+> i) La humedad del pan no podrá ser superior del 30 por 100 para los casos a), c) y e) del artículo 3.20.37 y del 35 por 100 para los b) y d) del mismo artículo.
+
+> La reglamentación correspondiente fijará los límites máximos del contenido de humedad conforme al peso y forma de las piezas, sin rebasar los límites antes establecidos.
+
+> **3.20.39. Pan enriquecido.**
+
+> Es el elaborado con harinas enriquecidas.
+
+> **3.20.40. Complementos panarios.**
+
+> En la elaboración de artículos de panadería y bollería se permitirá la incorporación a la masa panaria de las siguientes sustancias alimenticias:
+
+> a) Gluten de trigo seco o húmedo, no desnaturalizado.
+
+> b) Leche entera, concentrada, en polvo, total o parcialmente desengrasada, o suero lácteo.
+
+> c) Huevos frescos o en polvo.
+
+> d) Harina de leguminosas (soja, habas, guisantes, lentejas y judías), en proporción inferior al 3 por 100 del peso de la harina empleada y la de soja hasta 5 por 100.
+
+> e) Harina de malta o extracto de malta y azúcares comestibles.
+
+> f) Grasas comestibles.
+
+> g) Esencia de limón y naranja.
+
+> h) Cacao, vainilla y otras especies.
+
+> Queda prohibido agregar a los artículos de panadería y bollería sustancias diferentes a las reseñadas anteriormente.
+
+> **3.20.41. Agua para panificación.**
+
+> El agua empleada para elaborar el pan será potable, y no podrá adicionársele sustancia extraña alguna.
+
+> El agua utilizada en las panaderías deberá reunir las condiciones anteriores, aunque no se utilice directamente en la elaboración del pan.
+
+> **3.20.42. Condiciones de venta.**
+
+> El pan se expenderá en establecimientos autorizados. Para su venta o consumo directo fuera de los mismos se presentará protegido con envoltura apropiada.
+
+> En los establecimientos de elaboración o de venta se observarán especialmente las siguientes reglas:
+
+> a) Las harinas y primeras materias se almacenarán en depósitos que reunirán las condiciones generales consignadas en el Capítulo VI, sin que se permita el apilamiento en los mismos locales de elaboración.
+
+> b) Los productos elaborados que no lleven envolturas deberán tenerse en estantes o vitrinas, protegidos con medios que eviten el acceso de insectos y en perfecto estado de limpieza. No se permitirá el amontonamiento sobre el suelo.
+
+> **3.20.43. Prohibiciones.**
+
+> Queda prohibido poner a la vitrina con la designación:
+
+> a) De huevo o con huevo: Los productos panarios que lleven menos de 150 gramos de huevos frescos o su equivalente en huevo en polvo por kilogramo de harina empleada.
+
+> b) De leche o con leche: Los productos panarios que lleven menos de 50 gramos de leche en polvo, o sus equivalentes de otros productos lácteos autorizados, por kilogramo de harina empleada.
+
+> **3.20.44. Condiciones de transporte.**
+
+> El transporte se hará de acuerdo con lo dispuesto en el Capítulo VI. Los productos de panadería que no lleven envolturas se harán en bolsas o recipientes apropiados. Los vehículos llevarán dispositivos que eviten la contaminación durante el transporte.
+
+> **3.20.45. Pan rallado.**
+
+> Es el producto resultante de la trituración industrial del pan de trigo.
+
+> El pan rallado se elaborará únicamente en las fábricas de pan y se expenderá exclusivamente empaquetado en envases cerrados, con la rotulación correspondiente.
+
+> No se permite fabricar pan rallado con restos del mismo procedentes de establecimientos de consumo."
+
+###### *3.20.46. Productos de bollería.*
+
+*Son aquellos elaborados de masa panaria fermentada y cocida a la que se han añadido complementos panarios en cantidades que modifiquen sus características básicas.*
+
+> Véase el art. 2 y las definiciones incluidas en la norma de calidad contenida en el Real Decreto 496/2010, de 30 de abril. [Ref. BOE-A-2010-7714](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7714)., que sustituyen el apartado 3.20.46.
+
+> Se derogan los apartados 3.20.36 a 3.20.45, con efectos de 1 de julio de 2019, por la disposición derogatoria única del Real Decreto 308/2019, de 26 de abril. [Ref. BOE-A-2019-6994](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6994)
+
+> Véase el art. 2 y las definiciones incluidas en la norma de calidad contenida en el Real Decreto 496/2010, de 30 de abril. [Ref. BOE-A-2010-7714](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7714)., que sustituyen el apartado 3.20.46.
+
+##### Sección 5.ª Otros derivados de harinas
+
+###### 3.20.47. Pastas alimenticias.
+
+Con este nombre se designarán los productos obtenidos por desecación de una masa no fermentada confeccionada con harinas, sémolas finas o semolinas procedentes de trigo duro o recio («Triticum Durum») o trigo candeal («Triticum vulgare») o sus mezclas y agua potable.
+
+Las reglamentaciones correspondientes determinarán las distintas calidades de estas pastas, exigiéndose para la calidad primera que sea elaborada exclusivamente con sémolas o semolinas procedentes de trigo duro.
+
+###### 3.20.48. Pastas alimenticias compuestas.
+
+Son aquellas que elaboradas exclusivamente con sémolas o semolinas de trigo duro, se les ha incorporado alguna o algunas de las siguientes sustancias alimenticias: gluten, huevos, leche, carnes, grasas comestibles, hortalizas y verduras desecadas, sus jugos y extractos, harina de soja y otras leguminosas y sal.
+
+Se hará constar esta circunstancia en la etiqueta del envase, así como la cantidad añadida de cada uno de ellos.
+
+El contenido en sal comestible, expresado en cloruro de sodio, será inferior al 1,5 por 100, calculado en materia seca.
+
+En las elaboradas con huevos, que no sean de gallina, se deberá hacer constar la naturaleza del huevo empleado.
+
+###### 3.20.49. Prohibiciones.
+
+Queda prohibido:
+
+a) Poner a la venta con la designación de «pastas alimenticias de huevo» productos que contengan menos de 150 gramos de huevos frescos o congelados o 40 gramos de huevo en polvo entero, por kilogramo de harina, de sémola o semolina.
+
+b) Contener cualquier colorante u otras sustancias no autorizadas en este Capítulo.
+
+c)**(Derogado).**
+
+###### *3.20.50. Productos de pastelería y repostería.*
+
+*Son los productos no fermentados de diversa forma, tamaño y composición, considerados de fantasía y elaborados a base de harina de trigo o de otras procedencias, con féculas, azúcares, grasas comestibles y otros productos alimenticios.*
+
+> Véase el art. 2 y las definiciones incluidas en la norma de calidad contenida en el Real Decreto 496/2010, de 30 de abril. [Ref. BOE-A-2010-7714](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7714)., que sustituyen el apartado 3.20.50.
+
+###### 3.20.51. Manipulaciones y rotulación.
+
+**(Derogado).**
+
+###### 3.20.52. Prohibiciones.
+
+Queda prohibido:
+
+a) La fabricación y consumo de productos de repostería y pastelería cuya denominación no corresponda a su composición.
+
+b) La utilización de cualquier color que imite el de la yema de huevo y el uso de agentes conservadores no incluidos en las listas positivas.
+
+###### 3.20.53. Masas fritas.
+
+Son los productos formados por una masa integrada por agua potable, harina de cereales y patata, adicionados o no de levaduras, sal y azúcar, fritos en aceite comestible.
+
+Podrán llevar además leche, miel, especias, otros productos alimenticios y los aditivos autorizados en las listas positivas complementarias de este Código.
+
+Se denominarán churros, buñuelos, frutas de sartén o con aquellos otros nombres que correspondan al tipo y forma de presentación, en sus diferentes variedades.
+
+###### 3.20.54. Manipulaciones.
+
+**(Derogado).**
+
+###### 3.20.55. Polvos para productos de confitería y repostería.
+
+Son los formados por una mezcla en la que figuran varias de las siguientes sustancias:
+
+a) Harina de cereales o de leguminosas.
+
+b) Féculas de cereales, de patata o de otros tubérculos.
+
+c) Huevo en polvo.
+
+d) Leche en polvo, entera o desgrasada y/o sueros lácteos.
+
+e) Frutos secos, deshidratados o enteros.
+
+f) Zumos concentrados de frutas.
+
+g) Vainilla, cacao, canela, extractos de café.
+
+h) Especias y aromas autorizados.
+
+i)**(Derogado).**
+
+j) Levadura natural o gasificantes autorizados.
+
+k) Azúcares y sal comestible.
+
+l) Grasas comestibles.
+
+###### 3.20.56. Manipulaciones y rotulación.
+
+Los polvos para productos de confitería y repostería irán siempre convenientemente envasados y etiquetados.
+
+Los productos cuya denominación indique que contienen leche o productos lácteos deberán tener, como mínimo, una riqueza del 10 por 100 de éstos, expresados en materia seca.
+
+Los productos cuya denominación indique que contienen huevo, deberán llevar como mínimo 150 gramos de huevo fresco o su equivalente en polvo por cada kilogramo.
+
+Los elaborados deberán contener los elementos correspondientes a su denominación.
+
+###### 3.20.57. Prohibiciones.
+
+Queda prohibido:
+
+a) El empleo o la adición de harinas de bellota y residuos de molturación.
+
+b) Emplear sal comestible en proporción superior al 5 por 100, expresada en cloruro sódico.
+
+###### 3.20.58. Galletas.
+
+Son los productos obtenidos por la tostación de una masa elaborada con harinas, grasas comestibles, azúcares, productos aromáticos diversos, sal y otros productos alimenticios.
+
+###### 3.20.59. Galleta molida.
+
+Producto resultante de la molturación industrial de la galleta de barco, elaborada con masa galletera, sin azúcar, no fermentada y cocida.
+
+###### 3.20.60. Manipulaciones y rotulación.
+
+**(Derogado).**
+
+###### 3.20.61. Levadura prensada húmeda.
+
+Es el producto obtenido por proliferación del «Saccharomyces cerevisiae», de fermentación alta, en medios azucarados adecuados.
+
+###### 3.20.62. Características.
+
+Las levaduras prensadas tendrán las siguientes:
+
+a) Color: puede variar del blanco al crema.
+
+b) Olor: característico, agradable y ligeramente alcohólico, pero no amoniacal repulsivo.
+
+c) Sabor: casi insípido, característico y nunca repugnante.
+
+d) Estabilidad: manteniendo el bloque de levadura en termostato a 30 grados centígrados, durante un mínimo de tres días, no debe descomponerse ni desprender olores desagradables.
+
+e) Actividad fermentativa: será capaz de fermentar los azúcares presentes en la masa y en un tiempo de tres a cuatro horas. En la reglamentación correspondiente se indicará el método «standard» de determinación.
+
+f) Humedad: no superior al 75 por 100.
+
+g) Pureza: no contendrá microorganismos patógenos, no contendrá cargas amiláceas, no contendrá otras materias extrañas a la levadura.
+
+h) Presentación: toda pastilla, bloque o recipiente que contenga levadura deberá llevar las indicaciones mencionadas en el Capítulo IV y además la fecha de envasado en fábrica.
+
+###### 3.20.63. Levadura deshidratada.
+
+Productos obtenidos por la deshidratación de levaduras seleccionadas («Saccharomyces cerevisiae») u otras especies (diversas razas y variedades) cultivadas en medios azucarados y nitrogenados apropiados. Puede presentarse en polvo, granulada o comprimida.
+
+###### 3.20.64. Características.
+
+Las levaduras deshidratadas tendrán las siguientes:
+
+a) Humedad: no más del 8 por 100 de su peso.
+
+b) Cenizas sulfúricas: no más del 9 por 100, calculado sobre materia seca.
+
+c) La materia grasa no será superior al 4 por 1.000.
+
+d) La cifra de proteína total no será inferior al 50 por 100, calculado sobre materia seca.
+
+e) Estará exenta de almidón, azúcares y sustancias extrañas.
+
+###### 3.20.65. Gasificantes.
+
+Son las sustancias de elaboración que se caracterizan por producir gas carbónico sin afectar al gluten de la pasta de trigo.
+
+Estarán compuestos por productos activos que se incluyen en las listas positivas de este Código.
+
+###### 3.20.66. Manipulaciones y rotulación.
+
+Se observarán las siguientes normas:
+
+a) Como diluyente de los productos activos utilizados se emplearán féculas.
+
+b) Los gasificantes que se utilicen tendrán que desprender al menos 4.500 centímetros cúbicos de gas por cada 100 gramos de producto en condiciones normales. En la correspondiente reglamentación habrán de fijarse las cantidades de gas que habrá de desprender cada uno de los productos que se empleen.
+
+c) La cantidad de gasificante agregada a cada kilogramo de harina para su elaboración posterior deberá desprender al menos 1.500 centímetros cúbicos de anhídrido carbónico en condiciones normales, y su excedente de bicarbonato sódico, después de la reacción, no será superior a tres gramos.
+
+d) La proporción de los distintos gasificantes deberá estar autorizada.
+
+e) Estos productos estarán finalmente pulverizados y responderán al uso que se indique en el rótulo.
+
+f) Los envases serán apropiados al contenido, inatacables por las sustancias que entren en la composición del producto y los rótulos deberán ajustarse a lo establecido en el Capítulo IV de este Código.
+
+> Se derogan los apartados 3.20.51, 3.20.54, 3.20.60, 3.20.49.c) y 3.20.55.i) por la disposición derogatora única.a).iii y iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+> Véase el art. 2 y las definiciones incluidas en la norma de calidad contenida en el Real Decreto 496/2010, de 30 de abril. [Ref. BOE-A-2010-7714](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7714)., que sustituyen el apartado 3.20.50.
+
+#### Capítulo XXI — 3.21.00. Hortalizas y verduras
+
+##### Sección 1.ª Hortalizas, verduras y legumbres
+
+###### 3.21.01. Productos hortícolas.
+
+Con la denominación genérica de «Hortaliza» se designa a cualquier planta herbácea hortícola en sazón que se puede utilizar como alimento, ya sea en crudo o cocinada.
+
+La denominación de «Verdura» distingue a un grupo de hortalizas en las que la parte comestible está constituida por sus órganos verdes (hojas, tallos o inflorescencias), y la de «Legumbres frescas» a los frutos y semillas no maduros de las hortalizas leguminosas.
+
+###### 3.21.02. Clasificación de las hortalizas.
+
+A efectos de este Código se establecen las tres clasificaciones siguientes:
+
+a) Por la parte de la planta a que pertenecen: Frutos, bulbos, coles, hojas y tallos tiernos, inflorescencias, legumbres verdes, pepónides, raíces y tallos jóvenes.
+
+b) Por su forma de presentación al consumidor. Hortaliza fresca, desecada, deshidratada y congelada.
+
+c) Por su calidad comercial: Las que determine la reglamentación correspondiente.
+
+###### 3.21.03. Frutos.
+
+Se distinguen, entre otras, las siguientes especies y variedades botánicas para el consumo:
+
+| Nombre generalizado | Nombre científico |
+|---|---|
+| Berenjena | Solanum melongena, L. |
+| Guindilla | Capsicum annuum, L., var. fasciculatum y conoides, Bailey. |
+| Maíz dulce | Zea mays, var. saccharaturn. |
+| Pimiento dulce | Capsicum annuum, L., var. grosum, Bailey. |
+| Pimiento picante | Capsicum annuum, L., var. longum, Bailey. |
+
+###### 3.21.04. Bulbos.
+
+Se distinguen, entre otras, las siguientes especies y variedades botánicas para el consumo:
+
+| Nombre generalizado | Nombre científico |
+|---|---|
+| Ajo | Allium sativum, L. |
+| Cebolla | Allium cepa, L. |
+| Puerro | Allium porrum, L. |
+| Cebolleta francesa | Allium fistulosum, L. |
+| Chalote | Allium ascalonicum, L. |
+
+###### 3.21.05. Coles.
+
+Se distinguen, entre otras, las siguientes especies y variedades botánicas para el consumo.
+
+| Nombre generalizado | Nombre científico |
+|---|---|
+| Berza | Brassica oleracea, L, var. Acephala, D. C. |
+| Broculi | Brassica oleracea, L, var. Botrytis, f. cymosa, Duch. |
+| Broculi americana | Brassica oleracea, L., var. Italica, Planck. |
+| Col de Bruselas | Brassica oleracea, L., var. Gemmifera Zenker. |
+| Coliflor | Brassica oleracea, L. var. Botrytis f. cauliflora, Duch |
+| Col de Milán | Brasscia oleracea, L., var. Bullata, D. C. |
+| Lombarda | Brassica oleracea, L., var. Capitata f. D. C. |
+| Repollo | Brassica rubra oleracea L., var. capitata f. alba, D. C. |
+| «Bordes» | Híbridos de coliflor y de broculi. |
+
+###### 3.21.06. Hojas y tallos tiernos.
+
+Se distinguen, entre otras, las siguientes especies y variedades para el consumo:
+
+| Nombre generalizado | Nombre científico |
+|---|---|
+| Acedera | Rumez actosa, L. |
+| Acelgaza | Beta vulgaris, L., var. Cycla, L. |
+| Berro | Nasturtium officinalis, R. Br. |
+| Borraja | Borrago officinalis, L. |
+| Cardo | Cynara Cardunculus, L. |
+| Endivis | Cichorium Intybus, L. |
+| Escarola | Cichorium Endivia, L. |
+| Espinaca | Spinacia oleracea, L. |
+| Grelos | Brassica Napus, L. |
+| Lechuga | Lactuca sativa, L. |
+| Mastuerzo | Lepidium sativum, L. |
+
+###### 3.21.07. Inflorescencia.
+
+Se distingue, entre otras, la siguiente variedad de consumo:
+
+| Nombre generalizado | Nombre científico |
+|---|---|
+| Alcachofa (alcaucil) | Cynara Scolymus, L. |
+
+###### 3.21.08. Legumbres verdes.
+
+Se distinguen, entre otras, las siguientes especies y variedades botánicas para el consumo:
+
+| Nombre generalizado | Nombre científico |
+|---|---|
+| Guisante | Pisum sativum, L. var. vulgare, L. |
+| Haba | Vicia faba, L., var. mayor L. |
+| Judía | Phaseolus vulgaris, Savi |
+| Tirabeque | Pisum sativum, L. var. macrocarpon, Ser. |
+
+###### 3.21.09. Pepónides.
+
+Se distinguen, entre otras, las siguientes especies y variedades botánicas para el consumo:
+
+| Nombre generalizado | Nombre científico |
+|---|---|
+| Calabacín | Curcubita pepo, L. var. medullusa, Alef |
+| Calabaza | Curcubita pepo, L. |
+| Calabaza de cidra o confitera | Curcubita máxima, Duch |
+| Pepino | Cucumis sativus, L. |
+
+###### 3.21.10. Raíces.
+
+Se distinguen, entre otras, las siguientes especies y variedades botánicas para el consumo:
+
+| Nombre generalizado | Nombre científico |
+|---|---|
+| Achicoria | Cichorium Intybus, L. |
+| Apio | Apium graveolens, L. |
+| Colinabo | Brassica oleracea, L., var. napobrassica, L. |
+| Colirrábano | Brassica oleracea, L., var. caulorapa, L. |
+| Chirivía | Pastinaca sativa, L. |
+| Escorzonera (salsifi negro) | Scorzonera hispánica, L. |
+| Nabo | Brassica napus, L., var. sculenta |
+| Nabo gallego o redondo | Brassica rapa, L., var. sculenta |
+| Rabanito | Raphanus sativus, L., var. radicula |
+| Rábano | Raphanus sativus, L., var. Alba |
+| Remolacha de mesa | Raphanus sativus, L., var. Cruenta, L. |
+| Salsifi | Tragopogon porrifolius, L. |
+| Zanahoria | Dacus carota L., var. sativa, D. C. |
+
+###### 3.21.11. Tallos jóvenes.
+
+Se distinguen, entre otras, las siguientes variedades de consumo:
+
+| Nombre generalizado | Nombre científico |
+|---|---|
+| Apio | Apium graveolens, L. |
+| Espárrago de huerta y triguero | Asparragus officinalis, L. |
+
+###### 3.21.12. Condiciones generales.
+
+Las hortalizas destinadas para el consumo en fresco, para la desecación o deshidratación, para la congelación y para la elaboración de derivados y conservas, reunirán las siguientes condiciones:
+
+a) Estarán recién recolectadas o en perfectas condiciones de conservación, desprovistas de humedad exterior anormal y sin olor ni sabor extraños.
+
+b) Estar exentas de lesiones o traumatismos de origen físico o mecánico que afecten a su presentación o apariencia.
+
+c) Estar exentas de artrópodos, gusanos, moluscos y de partes o excrementos de cualquiera de ellos.
+
+d) Estar exentas de enfermedades criptogámicas.
+
+e) Estar libres de partes marchitas y de materias extrañas adheridas a su superficie.
+
+f) y g) **(Derogados).**
+
+###### 3.21.13. Almacenamiento y transporte.
+
+**(Derogado).**
+
+###### 3.21.14. Hortalizas desecadas.
+
+Son las privadas de parte del agua de constitución, por exposición al aire y radiación solar.
+
+###### 3.21.15. Hortalizas deshidratadas.
+
+Son las desecadas por procedimientos tecnológicos apropiados.
+
+###### 3.21.16. Mezcla juliana o de hierbas.
+
+Es la mezcla de hortalizas cortadas y desecadas o deshidratadas.
+
+Los diversos componentes requerirán el mismo tiempo de remojo y cocción.
+
+###### 3.21.17. Condiciones generales para los productos desecados y deshidratados.
+
+Se establecen las siguientes:
+
+a) Procederán de hortalizas, verduras o legumbres recién recolectadas o en perfectas condiciones de conservación, sanas y limpias, privadas de pedúnculos, partes leñosas, fibrosas o dañadas y, en general, de las que usualmente no sean comestibles.
+
+b) Aquellas que lo precisen se cortarán en formas finas que aseguren mejor desecación.
+
+c) Como tratamientos previos a la desecación se admiten la lejía caliente y el anhídrido sulfuroso, gaseoso o en disolución, pero nunca el residuo que quede de este último en las hortalizas y verduras será superior a 12,5 gramos por 1.000 en peso.
+
+d) No podrán contener más del 12 por 100 de agua, del 10 por 100 de cenizas totales ni del 15 por 1.000 de cenizas solubles en ácido clorhídrico.
+
+e) La capacidad de reconstitución para cada clase de producto desecado se establecerá en las reglamentaciones complementarias.
+
+f) El envasado se hará en condiciones que aseguren una perfecta protección de la humedad y del contacto directo con el aire.
+
+###### 3.21.18. Hortalizas y verduras congeladas.
+
+Son las sometidas a procesos tecnológicos adecuados con disminución de temperatura hasta grados inferiores al de congelación.
+
+Las hortalizas y verduras congeladas habrán de cumplir las normas generales del artículo 3.21.12 y las específicas que se señalen en las reglamentaciones correspondientes.
+
+> Se deroga el apartado 3.21.13 y 3.21.12.f) y g), por la disposición derogatora única.a).iii e iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 2.ª Hongos o setas
+
+**(Derogada)**
+
+> Se deroga por la disposión derogatoria única del Real Decreto 30/2009, de 16 de enero. [Ref. BOE-A-2009-1110](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1110).
+
+##### Sección 3.ª Derivados de hortalizas y verduras
+
+###### 3.21.24. Encurtidos.
+
+Son las hortalizas y verduras que después de haber sido curadas en salmuera o de haber sufrido una fermentación láctica se conservan en vinagre y sal con o sin adición de azúcares o condimentos («encurtidos ácidos») o en vinagre con azúcares y condimentos («encurtidos dulces»).
+
+Los encurtidos se ajustarán a las condiciones siguientes:
+
+a) Todos los ingredientes cumplirán las exigencias de este Código para cada uno de ellos.
+
+b) No contendrán anhídrido sulfuroso, sulfitos, bisulfitos o metabisulfitos en cantidades superiores a las señaladas en las listas de tolerancia de este Código, aun cuando las hortalizas, verduras o legumbres utilizadas hayan sido tratadas con alguno de ellos.
+
+c)**(Derogado).**
+
+d) La acidez no deberá ser inferior al 2 por 100 en ácido acético, y el cloruro sódico no deberá ser menor del 2,5 por 100, con excepción de los encurtidos esterilizados en sus propios envases.
+
+###### 3.21.25. Chucrut.
+
+Son las diversas variedades hortícolas de la «Brassica olerácea», L., sometidas a un proceso tecnológico adecuado de maceración y fermentación láctea con 2 a 3 por 100 de sal y condimentos. El chucrut debe presentar buen estado de conservación, de sabor ácido característico con una acidez no inferior al 1 por 100, expresada en ácido láctico.
+
+Para su obtención ha de partirse de hortalizas que se ajusten a las condiciones generales del artículo 3.21.12; debiendo ajustarse los demás ingredientes a las exigencias de este Código para cada uno de ellos.
+
+Los recipientes donde se someta la hortaliza al proceso de fermentación se instalarán en locales adecuados, renovándose cada vez el líquido que cubre la masa por una salmuera previamente hervida.
+
+###### 3.21.26. Extractos de verduras, legumbres y hortalizas.
+
+Son productos obtenidos por extracción de estas materias con o sin ayuda de agua potable y ulterior concentración hasta la consistencia adecuada.
+
+> Se deroga el apartado 3.21.24.c) por la disposición derogatora única.a).iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo XXII — 3.22.00. Frutas y derivados
+
+##### Sección 1.ª Frutas
+
+###### 3.22.01. Definición y caracteres de la fruta.
+
+Con la denominación genérica de frutas se comprende, a efectos de este Código, el fruto, la infrutescencia, la semilla o las partes carnosas de órganos florales, que hayan alcanzado un grado adecuado de madurez y sean propias para el consumo humano.
+
+Las frutas frescas se presentarán para el consumo enteras, sanas y limpias, exentas de toda humedad externa anormal y carecerán de olor o sabor extraños. Deberán presentar aspecto y desarrollo normales, según la variedad, estación y zona de producción.
+
+###### 3.22.02. Fruta sana.
+
+Es la fruta que no posee señales evidentes de haber sido atacada por hongos, bacterias, virus, insectos, ácaros, roedores, aves o sufrir cualquier otra lesión de origen físico o mecánico que afecte a su integridad. No presentarán señales de descomposición, aunque sea de forma parcial. Las reglamentaciones correspondientes señalarán las tolerancias admitidas a este respecto.
+
+###### 3.22.03. Fruta limpia.
+
+Es la fruta que presenta su epidermis libre de cuerpos extraños adheridos a su superficie. Tampoco deberán contener residuos de productos empleados en su tratamiento en cantidad superior a los límites de tolerancia señalados en este Código.
+
+###### 3.22.04. Madurez comercial.
+
+Es el estado que precede a la maduración fisiológica de la fruta y que permite que los frutos puedan soportar el transporte y manipulación, ser almacenada en buenas condiciones hasta el momento de su consumo y responder a las exigencias comerciales que se establezcan en el oportuno reglamento.
+
+###### 3.22.05. Clasificación de las frutas.
+
+A efectos de este Código se establecen las tres clasificaciones que seguidamente se señalan:
+
+a) Por su naturaleza, frutas carnosas, secas y oleaginosas.
+
+b) Por su estado, frutas frescas, desecadas, deshidratadas y congeladas.
+
+e) Por su calidad comercial, las que se determinen en cada caso por la reglamentación correspondiente.
+
+###### 3.22.06. Frutas carnosas.
+
+Son aquellas cuya parte comestible posee en su composición cuando menos el 50 por 100 de agua. Se distinguen entre otras las siguientes especies de consumo:
+
+| Nombre generalizado | Nombre científico |
+|---|---|
+| Acerola | Crataegus azarolus, L. |
+| Aguacate | Persea americana, Mill |
+| Albaricoque | Prunus armeniaca, L. |
+| Arándano | Vaccinium myrtillus, L. |
+| Azufaifa | Zyzyphus vulgaris, Lam. |
+| Bergamota | Citrus Bergamia Risso |
+| Breva (primero de los dos frutos anuales de la higuera) | Ficus carica, L. |
+| Calabaza para dulce | Cucurbita ficifolia, W., y Cucurbita maxima, Duch. |
+| Caqui | Diospyrus Kaki, L. |
+| Casis (grosella negra) | Ribes nigrum, L. |
+| Cereza | Prunus avium, L. |
+| Cidra | Citrus Medica, var. macrocarpa Risso. |
+| Ciruela | Prunus domestica, L. |
+| Chirimoya | Annona cherimolia, Mill. |
+| Dátil | Phoenix dactylifera, L. |
+| Frambuesa | Rubus ideaeus, L. |
+| Fresa | Fragaria vesca, L. |
+| Fresón | Fragaria elatior, Ehrh.; F. Virginiana, Duch; F. Chiloensis, Duch |
+| Granada | Punica Granatum, L. |
+| Granadilla | Passiflora quadrangularis, L. |
+| Grosella | Ribes sp. |
+| Guanábana | Annona muricata, L. |
+| Guayaba | Annona squamosa, L. |
+| Guayabo | Psidium guajava, L. |
+| Guinda | Prunus cerasus, L. |
+| Higo (segundo de los frutos de la higuera). | Ficus carica L. |
+| Higo chumbo | Opuntia sp. |
+| Lima | Citrus limetta, Anet. |
+| Limón | Citrus limonis, Osbeck |
+| Madroño | Arbutus Unedo, L. |
+| Mandarina | Citrus deliciosa, Ten |
+| Mango | Mangifera indica, L. |
+| Manzana | Pyrus Malus, L. |
+| Manzanilla | Crataegus pubescens, Stued |
+| Melocotón | Prunus persica, Sieb y Zuce |
+| Melón | Cucumis Melo, L. |
+| Membrillo | Cidonia vulgaris. Pers. |
+| Mora | Morus nigra, L. |
+| Naranja agria | Citrus Aurantium, L. |
+| Naranja dulce | Citrus sinensis, L. |
+| Níspero | Mespilus germanica, L. |
+| Níspero del Japón | Eriobotrya japonica, L. |
+| Papaya | Carica Papaya, L. |
+| Pera | Pyrus communis, L., y otras especies. |
+| Piña | Ananas sativus, Schult. |
+| Plátano | Musa paradisiaca, L. |
+| Pomelo | Citrus decumana, L |
+| Sandía | Citrullus vulgaris, Schered |
+| Serbol | Sorbus domestica, L. |
+| Tamarindo | Tamarindus indica, L. |
+| Tomate | Solanum lycopersicon Mill. |
+| Uva | Vitis vinifera, L. |
+| Zarzamora | Rubus fruticosus, L. |
+
+###### 3.22.07. Frutas secas o de cáscara.
+
+Son aquellas cuya parte comestible posee en su composición menos del 50 por 100 de agua. Se distinguen las siguientes variedades de consumo:
+
+| Nombre generalizado | Nombre científico |
+|---|---|
+| Almendra | Prunus Amygdalus, Stokes. (Amigdalus comunis.) |
+| Avellana | Corylus Avellana, L. |
+| Castaña | Castanea vesca, G. |
+| Nuez | Junglans regia, L. |
+| Nuéz de Málaga | Caryia olivaeformis, Koch. |
+| Piñón | Pinus Pinea, L. |
+
+Las frutas secas, además de presentarse al consumidor en su forma natural, con o sin cáscara pueden adoptar las siguientes formas.
+
+1\. Almendra tostada: Es la almendra que ha sido sometida a la acción del calor seco hasta incipiente consistencia vítrea, conservando el tegumento seminal (o piel).
+
+2\. Almendra pelada: Es la almendra tostada a la que previamente se le ha desprovisto del tegumento o piel.
+
+3\. Almendra salada: Es la almendra tostada con sal.
+
+4\. Almendra pelada y salada: Es la almendra pelada a la que se ha añadido sal durante la tostación.
+
+5\. Almendra repelada: Es la que sin tostación ha sido desprovista del tegumento o piel.
+
+6\. Avellana tostada: Es la avellana pelada o no, sometida al calor seco.
+
+7\. Avellana salada: Es la avellana tostada en presencia de sal.
+
+8\. Castaña asada: Es la castaña sometida a la acción del calor seco.
+
+9\. Castaña pelada: Es la castaña asada despojada de los tegumentos que la recubren.
+
+En las Reglamentaciones correspondientes se fijarán las clases comerciales de cada uno de estos productos.
+
+###### 3.22.08. Frutas y semillas oleaginosas.
+
+Son aquellas empleadas para la obtención de grasas y para el consumo humano. Entre otras se distinguen las siguientes especies y variedades botánicas.
+
+| Nombre generalizado | Nombre científico |
+|---|---|
+| Aceituna u oliva | Olea europaea sativa, Hoffg. Link. |
+| Cacahuete | Arachis Hypogea, L. |
+| Coco | Cocos nucifera, L. |
+| Girasol | Helianthus annuuss, L. |
+| Sésamo o ajonjolí | Sesamuna orientale, L. |
+
+Las frutas y semillas oleaginosas, además de presentarse al consumidor en su forma natural, pueden adoptar las siguientes:
+
+**(Derogado lo relativo a las aceitunas de mesa)**
+
+Cacahuete tostado. Es el cacahuete que ha sido sometido a la acción del calor seco, conservando el tegumento seminal.
+
+Cacahuete tostado y pelado. Es el cacahuete tostado desprovisto del tegumento seminal.
+
+Cacahuete tostado, pelado y salado. Es el cacahuete tostado y desprovisto del tegumento seminal en presencia de sal.
+
+Coco molido. Es el producto resultante de la molienda o trituración industrial de la parte carnosa blanca comestible de Cocos nucifera L.
+
+El coco molido se expenderá empaquetado en bolsas cerradas. En las mismas figurará la razón social o nombre del fabricante y sitio de elaboración.
+
+Semillas de girasol tostadas. Es la semilla de girasol sometida a la acción del calor seco.
+
+Semillas de girasol tostadas y saladas. Es la semilla de girasol tostada en presencia de sal.
+
+###### 3.22.09. Fruta fresca.
+
+Es la destinada al consumo inmediato sin sufrir tratamiento alguno que afecte a su estado natural.
+
+Los frutos deben de haber sido recogidos a mano o con aparato recolector adecuado, y en el momento de la recolección deben tener la madurez comercial adecuada para que se presenten al consumidor en condiciones normales.
+
+No deberán contener residuos de pesticidas superiores a los tolerados en los Capítulos XXXV y XXXVII de este Código, ni serán tratados con productos que no estén autorizados en el mismo.
+
+Las frutas carnosas que no hayan alcanzado la madurez adecuada y se destinen a la industrialización, deberán expenderse y almacenarse, independiente y aisladamente, de las frutas maduras para consumo directo, debiendo colocarse bien visible un letrero que indique el estado y destino de las mismas.
+
+###### 3.22.10. Fruta desecada.
+
+Es el producto obtenido a partir de frutas frescas, a las que se ha reducido la proporción de humedad por la acción natural del aire y del sol.
+
+Las frutas destinadas a la desecación deberán ser limpias y sanas, y haber alcanzado la maduración adecuada, tendrán el aroma, color y sabor característico de la variedad.
+
+Como tratamientos previos a la desecación se admitirán la lejía caliente y el anhídrido sulfuroso gaseoso o en disolución, pero nunca el residuo que quede de este último en la fruta será superior a 12,5 gramos por 1.000 en peso.
+
+Los tratamientos previos inmediatos a la desecación empleados para las pasas de Denia se darán exclusivamente con lejía de sosa cáustica del 1 al 7,5 por 1.000 en peso, o con lejías de carbonato de sodio, en una proporción que no exceda del 5 por 1.000 en peso.
+
+Se prohíbe desecar frutos desechados para el consumo en fresco que estén enfermos o tengan daño físico, mecánico o parasitario, así como los que estén insuficientemente maduros.
+
+Las reglamentaciones que se establezcan para cada clase de fruta determinarán los límites máximos de humedad en cada caso.
+
+###### 3.22.11. Tipos de fruta desecada.
+
+Las frutas desecadas de consumo, entre otras, son las siguientes:
+
+1\. **(Derogado)**
+
+2\. Albaricoque desecado: Se puede presentar entero o en mitades con o sin hueso.
+
+3\. Castaña desecada o pelada: Es la desecada libre del mesocarpio y tegumento.
+
+4\. Ciruela pasa: Es la ciruela entera desecada naturalmente.
+
+5\. Dátil: Se distinguen, entre otras, las clases: «jugosos o blandos» y «secos o duros», según su contenido en agua.
+
+6\. Higos-pasa: Según el color de su epidermis pueden ser blancos y «negros». Se pueden presentar en forma redondeada, aplanada, prensados en hileras compactas y adicionados o no de sustancias autorizadas.
+
+7\. Manzanas desecadas: Se pueden presentar con o sin piel, enteras, seccionadas longitudinalmente o en tiras.
+
+8\. Medallones: Melocotones desecados sin piel ni huesos, que han sido aplanados para cerrar el hueco del hueso, tomando la forma de un disco.
+
+9\. Melocotones deshuesados en mitades: Son los melocotones desecados, sin hueso, con o sin piel, partidos longitudinalmente por la mitad. Se indicará en el envase, con un rótulo, cuando se expendan a granel, la presencia o no de piel.
+
+10\. Melocotones en tiras: Son melocotones sin piel ni hueso que han sido cortados en tiras o lonchas largas y luego desecados.
+
+11\. Pelones o melocotones con hueso: Son los melocotones desecados sin piel, pero con hueso.
+
+12\. Peras desecadas: Antes de su desecación pueden someterse a la acción del anhídrido sulfuroso gaseoso o en disolución (sulfitos o metabisulfitos). Se presentan con o sin piel, seccionados longitudinalmente en mitades o en tiras.
+
+13\. Uvas pasas: Se presentan en racimos o en granos sueltos. Además de la denominación de «uvas pasas», podrán llevar el nombre de la variedad de que procedan.
+
+###### 3.22.12. Fruta deshidratada.
+
+Es el producto obtenido a partir de frutas carnosas frescas a las que se ha reducido la proporción de humedad mediante procesos apropiados y autorizador. El grado de humedad residual será tal que impida toda alteración posterior.
+
+###### 3.22.13. Envasado y rotulación.
+
+Los envases para frutas serán de cualquier material que, adaptándose a las condiciones generales del Capítulo IV de este Código, las proteja de daños durante el transporte y almacenamiento. En los reglamentos correspondientes se podrán fijar unos envases tipo para ciertas categorías de frutas.
+
+Los envases que contengan frutas deberán rotularse con arreglo a la variedad y clase de su contenido, según se establezca en las correspondientes reglamentaciones.
+
+Las frutas secas, peladas, tostadas o saladas, así como los cacahuetes y semillas de girasol, tostados y salados, se expenderán en envases cerrados.
+
+###### 3.22.14. Transporte.
+
+Para efectos de este Código se considerará:
+
+a) Expedición a granel, la carga directa en un medio de transporte cualquiera.
+
+b) Expedición a granel en embalaje, cuando el producto se expenda embalado sin ordenación especial.
+
+c) Expedición envasada, la embalada, clasificada y ordenada convenientemente.
+
+En las reglamentaciones correspondientes se indicará el embalaje adecuado para las distintas calidades de fruta.
+
+###### 3.22.15. Almacenamiento.
+
+**(Derogado).**
+
+> Se deroga el apartado 3.22.15, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+> Se derogan los apartados 3.22.8 y 3.22.11 en lo que se refiere a las aceitunas de mesa por la disposición derogatoria única.a) del Real Decreto 679/2016, de 16 de diciembre. [Ref. BOE-A-2016-11953](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11953).
+
+##### Sección 2.ª Derivados de frutas
+
+###### 3.22.16. Concepto genérico.
+
+A efecto de este Código tienen la consideración de «Derivados de frutas» los zumos, néctares, derivados de tomate y confecciones obtenidos a partir de cualquier tipo o variedad de fruta o fruto frescos, mediante tratamiento o manipulación adecuados.
+
+###### 3.22.17. Zumos y néctares.
+
+Se integran en este grupo los siguientes productos.
+
+1\. Zumos frescos de fruta: Son jugos obtenidos a partir de frutos sanos, frescos, maduros y lavados obtenidos por proceso industrial autorizado. No podrán diluirse ni presentar indicio alguno de fermentación. Estarán constituidos por el líquido sólo, clarificado, o por el liquido y pulpa en suspensión correspondiente al endocarpio, y estarán exentos de restos de epicarpio, mesocarpio y semillas. La pulpa estará finamente dividida.
+
+2\. Zumos naturales: Son los zumos frescos que han sido estabilizados por tratamiento físico autorizado que garantice su conservación. Debe existir la posibilidad de hacerlos fermentar.
+
+3\. Zumos conservados: Son los zumos frescos o naturales a los que se ha añadido algún agente conservador, incluido en las listas positivas complementarias del Capítulo XXXIII.
+
+4\. Zumos básicos de frutas: Son zumos frescos cuya conservación definitiva está asegurada por procedimientos físicos o agentes conservadores incluidos en las listas positivas complementarias del Capítulo XXXIII y que no se pueden consumir en estado natural, sino que sirven de base a otros productos.
+
+5\. Zumos concentrados: Son los obtenidos a partir de zumos frescos o zumos naturales, mediante la extracción del 50 por 100, como mínimo, del agua de constitución empleando procesos tecnológicos autorizados y podrán conservarse para procedimientos físicos. Estos concentrados, diluidos en agua potable y devueltos a su densidad original, han de presentar las mismas características de los zumos empleados. En el oportuno reglamento se indicarán las denominaciones según el grado de concentración.
+
+6\. Zumos concentrados conservados: Son los zumos concentrados a los que se ha añadido algún agente conservador incluido en las listas positivas complementarias del Capítulo XXXIII.
+
+7\. Zumos ligeramente azucarados: Son los zumos frescos, naturales, concentrados y conservados, a los que se ha añadido alguno de los edulcorantes naturales señalados en 3.22.19, cuarta. La cantidad total de edulcorantes añadidos será Inferior a 70 gramos, expresados en sacarosa, por kilogramo de zumo.
+
+8\. Zumos azucarados: Son los zumos frescos, naturales, concentrados y conservados a los que se ha añadido edulcorantes naturales señalados en 3.22.19, cuarta, en cantidad superior a 70 e inferior a 150 gramos por kilogramo de producto.
+
+9\. Zumos gasificados: Serán los procedentes de los zumos de frutas anteriormente definidos a los que se ha añadido anhídrido carbónico puro.
+
+10\. Néctares: Son los productos obtenidos con zumos frescos, naturales y conservados a los que se ha añadido un jarabe del mismo grado Brix que el zumo original, en proporción superior al 40 por 100 e inferior al 60 por 100. Los azúcares totales expresados en sacarosa serán inferiores al 30 por 100.
+
+11\. Zumo deshidratado de frutas: Es el obtenido a partir de zumos frescos clasificados en los que el contenido en agua es inferior al 10 por 100.
+
+12\. Crema de frutas: El producto procedente de la molturación de frutas frescas, sanas, limpias y maduras que han sufrido una homogeneización posterior y que se conservan por procedimientos físicos.
+
+13\. Crema de frutas diluida: Producto obtenido a partir de la crema de frutas mediante adición de agua, jarabe o zumo natural y conservable por procedimientos físicos.
+
+###### 3.22.18. Cortezas.
+
+Se denominarán así los productos elaborados con el epicarpio y mesocarpio (flavedo y albedo) de los frutos cítricos.
+
+Corteza al natural. Las conservadas en estado fresco por medio de anhídrido sulfuroso o cloruro sódico. Cantidad máxima residual de anhídrido sulfuroso, 0,2 gramos por kilogramo, y de cloruro sódico, 25 gramos por kilogramo.
+
+Corteza deshidratada o desecada. Es aquella cuyo contenido en agua se ha reducido menos del 10 por 100.
+
+Corteza edulcorada. A la que se han añadido los edulcorantes naturales señalados en 3.22.19, cuarta. Se distinguirán tres tipos principales: confitadas, en almíbar o escarchadas.
+
+###### 3.22.19. Elaboración de zumos y néctares.
+
+Se ajustarán a las siguientes normas.
+
+1.ª Las frutas destinadas a la fabricación deberán ser sanas, maduras, estarán bien lavadas y no presentarán señales de ataques de insectos, infecciones criptogámicas ni de podredumbre, con las tolerancias que señalen las reglamentaciones complementarias.
+
+2.ª Los zumos estarán desprovistos de trozos de corteza o de piel, albedos y semillas en fragmentos duros, con las tolerancias que señalen las reglamentaciones complementarias.
+
+3.ª Los zumos deberán conservar el color y sabor característicos, excluyéndose aquellos que tengan color, olor y sabor anormales.
+
+4.ª Se admiten como edulcorantes el azúcar, la glucosa, la fructosa y la miel. También se admite el empleo de zumo de uva concentrado, en cantidad no superior al del zumo tratado, expresado éste siempre en zumo fresco.
+
+5.ª **(Derogado).**
+
+6.ª Se admiten como clarificantes la albúmina, gelatina, caseína, tierra de infusorios y bentonita.
+
+7.ª Se permite la adición de preparados enzimáticos que puedan facilitar la filtración y que se autoricen previamente.
+
+8.ª Los zumos deberán conservar las características de sabor, aroma y valor nutritivo propias de las frutas de procedencia.
+
+9.ª En las reglamentaciones correspondientes se establecerán las categorías comerciales, teniendo en cuenta los caracteres físicos, químicos y organolépticos.
+
+10.ª Se admite la adición posterior de aromas recuperados durante el proceso tecnológico de concentración.
+
+11.ª Se autoriza la adición de ácido cítrico en cantidad máxima de 5 gramos por kilogramo de zumo fresco.
+
+12.ª Se autoriza la adición máxima de 100 miligramos de ácido ascórbico por litro de zumo fresco.
+
+###### 3.22.20. Prohibiciones.
+
+En la elaboración y manipulaciones de zumos y néctares se prohíbe:
+
+a) La adición de cualquier sustancia no autorizada en el presente Capítulo.
+
+b) Añadir agua al zumo obtenido por expresión.
+
+c) Añadir a los zumos el producto de extracción de los orujos y frutos agotados de ácidos orgánicos y de aromas no autorizados en este Capítulo.
+
+d)**(Derogado).**
+
+###### 3.22.21. Envasado y venta.
+
+Se ajustará a las siguientes normas.
+
+1.ª Los zumos frescos se prepararán exclusivamente a partir de frutas frescas.
+
+2.ª Los zumos naturales, concentrados, conservados, edulcorados, azucarados y néctares se presentarán siempre envasados, y en la etiqueta figurará claramente la clase de fruta con que ha sido elaborado. Si se trata de zumo azucarado se indicará en gramos la cantidad de azúcar añadida por kilogramo de zumo tratado; cuando sean gaseados se especificará esta condición. Si se trata de zumo concentrado se indicará el grado de concentración con relación al zumo fresco o natural.
+
+Si se trata de zumo conservado, se especificará el nombre y cantidad del conservador utilizado.
+
+3.ª **(Derogado).**
+
+###### 3.22.22. Derivados de tomate.
+
+Se consideran como tales el tomate al natural y los zumos, purés, pastas y concentrados de tomate.
+
+###### 3.22.23. Tomate al natural.
+
+Producto obtenido de tomates enteros o partidos, desprovistos de la epidermis o no y envasados sin otro líquido que su propio jugo. El mínimo de extracto seco será del 4 por 100. El valor máximo del pH será de 4,5. El contenido de calcio no sobrepasará las 26 centésimas de gramo por kilogramo de producto preparado. El ácido cítrico presente no excederá del 2 por 1.000 en peso.
+
+###### 3.22.24. Zumo de tomate.
+
+Producto obtenido por presión del fruto maduro, desprovisto de la epidermis, de pedúnculo y semillas. Podrá contener sal comestible añadida. Contendrá como máximo 0,01 por 100 de cobre en materia seca e igual cantidad de arsénico, plomo y cinc que la autorizada en los jugos y zumos. El recuento microscópico de hongos por el método Howard no sobrepasará el 30 por 100 de campos positivos.
+
+###### 3.22.25. Puré, pasta y concentrados de tomate.
+
+Son los productos obtenidos del fruto triturado, pasado por tamiz y convenientemente concentrado. Podrán contener sal comestible añadida. La acidez total expresada en ácido cítrico anhidro y referida a los sólidos totales deducida la sal, no excederá del 14 por 100. El examen microscópico de hongos por el método Howard no sobrepasará el 40 por 100 de campos positivos para cualquiera de estos derivados.
+
+Los sólidos totales, deducida la sal, en estos derivados se hallarán comprendidos entre las siguientes cifras: Del 7 al 12 por 100 en el puré de tomate; del 12 al 18 por 100 en la pasta de tomate; del 18 al 28 por 100 en el concentrado simple de tomate; del 28 al 30 por 100 en el concentrado doble y más del 30 por 100 en el concentrado triple.
+
+###### 3.22.26. Características generales de los derivados de tomate.
+
+1\. Los productos derivados del tomate se elaborarán a partir de frutos maduros, sanos, seleccionados, limpios y sin muestras de podredumbre.
+
+2\. Se entiende por tomate entero aquel que mantiene su forma original, aun cuando parezca algo aplastado, magullado y recortado.
+
+3\. La presencia de partículas de epidermis, semillas y puntos negros no afectará el buen aspecto del producto.
+
+4\. En la elaboración de purés, pastas y concentrados no se podrán utilizar residuos de tomate que hayan servido para la elaboración de zumo ni purés de otros vegetales.
+
+5\. En los purés, pastas y concentrados se podrá añadir azúcar en proporción no superior al 20 por 100, expresado en sacarosa sobre materia seca, haciendo constar de forma bien visible en la etiqueta la palabra «azucarado».
+
+6\. Los purés, pastas y concentrados podrán contener sal comestible, siempre que se especifique en sus etiquetas, en cantidad no superior al 15 por 100 del residuo seco (deducida la sal), para los purés de concentración superior al 20 por 100 y 3 por 100 del peso del producto para los purés de concentración igual o inferior al 20 por 100.
+
+7\. A los derivados de tomate no se les podrá añadir espesantes, edulcorantes artificiales, colorantes naturales o artificiales. Podrán utilizarse conservadores autorizados para este fin en las listas positivas de este Código.
+
+8\. La reglamentación correspondiente establecerá las calidades comerciales de estos derivados atendiendo a sus caracteres físicos, químicos y organolépticos.
+
+###### 3.22.27. Confecciones de frutas.
+
+Se da este nombre genérico a los productos obtenidos a partir de frutas frescas o de sus zumos sometidos o no a un proceso de preparación mecánica previo, tratadas, en todo caso, por cocción con o sin materias azucaradas, y que se conservan posteriormente mediante procedimientos adecuados.
+
+###### 3.22.28. Denominaciones.
+
+Se integran en este grupo los siguientes productos.
+
+1.º Compota: Es la confección preparada con fruta entera o partida en trozos regulares y con solución azucarada. No contendrá una riqueza superior al 15 por 100 de azúcares, expresada en sacarosa.
+
+2.º Confitura: Es la confección preparada con solución azucarada y frutas partidas irregularmente, pero cuyo origen puede reconocerse. La riqueza en azúcares no será inferior al 50 por 100, expresada en sacarosa.
+
+3.º Mermelada: Es la confección en que el azúcar está íntimamente mezclada con el fruto previamente tamizado y cuyo origen no se puede identificar morfológicamente. La riqueza en azúcares podrá variar entre el 45 y el 63 por 100, expresada en sacarosa.
+
+4.º Pasta: Es la mermelada en que los frutos se han triturado y pasado por tamiz cociéndose hasta consistencia de pasta.
+
+5.º Jalea: Es el producto elaborado a partir de zumos de frutas y azúcares hasta consistencia semisólida o gelatinosa. Al elaborarlo pueden incluirse algunos trozos de frutas. La cantidad de azúcar no será superior a una vez y media el peso del zumo natural.
+
+6.º Pulpa: Es el producto elaborado a partir de fruta fresca que contiene elementos pastosos, trozos partidos y trozos mayores que no estén destinados al consumo directo.
+
+7.º Pectina de fruta: Es el producto líquido elaborado a partir de residuos de frutas con adición de ácido tartárico o láctico. Contendrá, al menos, el 25 por 100 de pectina, expresado en pectato cálcico.
+
+8.º Pectina en polvo: Es el producto en polvo obtenido a partir de la pectina de frutas. En solución acuosa al 10 por 100, debe reunir las características de la pectina de frutas.
+
+9.º Purés: Son productos obtenidos a partir de pulpas con o sin azúcar, esta última se utiliza en la proporción máxima del 35 por 100.
+
+10\. Fruta hilada: Es el producto obtenido a partir de frutas frescas, mediante troceo adecuado, cocción y prensado o no, pero adicionado de sacarosa.
+
+11\. Crema de frutas: Es el producto obtenido mediante la cocción de pulpa tamizada, con adición o no de azúcar, especias y otros aromas autorizados, hasta obtener una masa semisólida de consistencia homogénea.
+
+El azúcar puede utilizarse en la elaboración en proporción máxima del 60 por 100. Se autoriza la adición de aromas en proporción no superior al 1 por 100.
+
+12\. a) Frutas en almíbar: Son los productos obtenidos a partir de frutos enteros, medios frutos, segmentos, tiras o cubos a los que se ha adicionado un jarabe de cobertura y que se pueden conservar. La graduación mínima del jarabe debe ser de 14 grados.
+
+b) Macedonia, ensalada y cóctel de frutas: Mezcla de frutas de diferente origen en almíbar.
+
+13\. Fruta confitada: Es el producto obtenido por la cocción reiterada de los frutos en jarabes, de concentraciones crecientes, hasta quedar completamente impregnados de azúcar. Recibirá la denominación de la fruta de procedencia, y presentará una capa exterior de azúcares.
+
+14\. Fruta glaseada: Es la fruta confitada y presentada en seco, recubierta de una capa de azúcar en polvo o cristalizada con o sin aglutinante autorizado en las listas positivas de este Código.
+
+###### 3.22.29. Clasificación de las confecciones.
+
+Se distinguen las siguientes clases:
+
+a) De una sola fruta: Cuando en su elaboración interviene una sola clase de fruta. Recibirá el nombre de la fruta con que se elaboró.
+
+b) De varias frutas: Cuando en su elaboración intervienen dos o más clases de fruta. Recibirá el nombre de las frutas utilizadas.
+
+c) Mezcla: Si se elaboran empleando confecciones varias, se indicará claramente la naturaleza de la mezcla.
+
+###### 3.22.30. Condiciones de las jaleas.
+
+Se exigen las siguientes:
+
+a) El color de la jalea será el natural, y no estará oscurecido por sobrecocción.
+
+b) La jalea será transparente o translúcida, presentará el interior homogéneo, sin partículas de pulpa, burbujas, cristales visibles de azúcar, mohos, ni signos de fermentación.
+
+c) Al vaciar la jalea en el recipiente que se utilice como envase, deberá mantener la forma del interior de éste, temblará al ser movida sin sufrir deformaciones ni agrietarse. Deberá cortarse fácilmente con una cuchara, y el corte habrá de ser brillante. No será pegajosa ni gomosa ni presentará cristales al ser degustada. No presentará separación de líquidos (sinéresis).
+
+###### 3.22.31. Prohibiciones.
+
+En la elaboración y manipulaciones de las confecciones se prohíbe:
+
+a) Emplear frutas que estén sucias, enmohecidas o que presenten color, olor o sabor extraños.
+
+b) Emplear pulpas o frutas alteradas, que hayan sufrido alguna fermentación o que tengan olor o sabor a quemado.
+
+c) Emplear residuos de frutas o fruta seca.
+
+d) La adición de colorantes artificiales, materias minerales, agentes espesantes u otras sustancias no contenidas en las frutas.
+
+e) La adición de más del 5 por 100 de pectina, calculada en pectato cálcico.
+
+f) La adición de más del 5 por 1.000 de ácido tartárico o ácido láctico.
+
+g) a i)**(Derogados).**
+
+j) El consumo humano de las almendras amargas, semillas de melocotón y albaricoque o de otras partes de frutos que contengan, en cantidades tóxicas, glucósidos cianogenéticos.
+
+> Se deroga el apartado 3.22.19 ,norma 5ª, 3.22.20.d), 3.22.21, norma 3ª, 3.22.31.g), h) e i) por la disposición derogatora única.a).iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo XXIII — 3.23.00. Edulcorantes naturales y derivados
+
+##### Sección 1.ª Azúcares y derivados del azúcar
+
+###### 3.23.01. Azúcar.
+
+Con el nombre especifico de azúcar (sacarosa) se designa exclusivamente el producto obtenido industrialmente de la caña de azúcar («Saccharum officinarum», L.), de la remolacha azucarera («Beta vulgaris», L., var. rapa) y de otras plantas sacarinas, en suficiente estado de pureza para la alimentación humana.
+
+###### 3.23.02. Clasificación.
+
+A efectos de este Código se distinguen las siguientes clases de azúcares y derivados del azúcar:
+
+a) Azúcares crudos: Azúcar terciado, azúcar blanquilla, azúcar pilé y azúcar granulado.
+
+b) Azúcares refinados: Azúcar refinado, azúcar de pilón, azúcar cortadillo, azúcar cande, azúcar granulado.
+
+c) Melazas: Melado, melaza de caña, melaza de remolacha.
+
+d) Derivados del azúcar: Azúcar glacé, azúcar caramelizado.
+
+e) Otros azúcares: Azúcar invertido, jarabe de fécula, azúcar de fécula, glucosa anhidra, jarabe de maltosa lactosa.
+
+###### 3.23.03. Azúcar rubio, moreno o terciado.
+
+Es el azúcar crudo de color amarillento o pardo, pegajoso al tacto, soluble casi totalmente en agua, dando una solución amarillenta y turbia.
+
+Contendrá como mínimo 85 por 100 de sacarosa calculada sobre materia seca y un máximo de cenizas sulfúricas de 4 por 100.
+
+El residuo insoluble en agua caliente no será superior al 0,15 por 100.
+
+###### 3.23.04. Azúcar blanco cristalizado o azúcar blanquilla.
+
+Es el proveniente de los primeros productos de extracción, de color blanco o ligeramente amarillento, soluble totalmente en agua.
+
+Contendrá un mínimo de 99,7 por 100 de sacarosa calculada sobre materia seca.
+
+El residuo insoluble en agua caliente no será superior al 0,15 por 100.
+
+###### 3.23.05. Azúcar pilé.
+
+Es el procedente de los primeros productos de extracción, aglomerado en las centrífugas y desmenuzado en terrones de tamaño irregular. De color blanco y soluble totalmente en agua.
+
+###### 3.23.06. Azúcar refinado.
+
+Es el obtenido a partir de un azúcar crudo por refinación técnica, de color blanco brillante, completamente soluble en agua dando una solución límpida y de reacción neutra.
+
+Contendrá un mínimo de 99,9 por 100 de sacarosa, 0,5 por 100 de cenizas sulfatadas calculadas sobre materia seca y el residuo insoluble en agua caliente no será superior al 0,05 por 100.
+
+###### 3.23.07. Azúcar pilón.
+
+Es el azúcar refinado, cuando se presenta en panes de forma cónica.
+
+###### 3.23.08. Azúcar granulado.
+
+Es el azúcar refinado o crudo cuando se presenta en cristales más o menos gruesos.
+
+###### 3.23.09. Azúcar cuadradillo o cortadillo.
+
+Es el azúcar granulado, cuando se presenta cortado en forma de prisma cuadrangular. Si se presenta empaquetado se denomina «Azúcar estuchado».
+
+###### 3.23.10. Azúcar cande.
+
+Es el azúcar refinado cuando se presenta en grandes cristales transparentes y de disolución difícil.
+
+###### 3.23.11. Melada.
+
+El producto siruposo que se obtiene por evaporación del jugo purificado de la caña antes de concentrarlo al punto de cristalización.
+
+Deberá reunir las siguientes condiciones:
+
+a) No contener menos del 75 por 100 de sólidos totales y más del 6 por 100 de cenizas y una acidez fija no mayor del 1 por 100, expresada en ácido láctico.
+
+b) Ausencia de esencias, conservadores y, en general, de sustancias extrañas a su naturaleza.
+
+###### 3.23.12. Melaza de caña.
+
+Líquido más o menos viscoso, de color pardo oscuro, que queda como residuo en la fabricación del azúcar de caña o de la refinación de la misma.
+
+Deberá reunir las siguientes condiciones:
+
+a) No contener menos del 75 por 100 de sólidos totales, de los que el 35 por 100, como máximo, serán azúcares reductores expresados en glucosa; más del 12 por 100 de cenizas.
+
+b) Ausencia de esencias, conservadores y, en general, de sustancias extrañas a su naturaleza.
+
+###### 3.23.13. Melaza de remolacha.
+
+Tiene características análogas a la melaza de caña, pero sabor y olor desagradables y reacción alcalina o neutra, pudiendo alcanzar en algunos casos reacción ligeramente ácida, sin que pierda sus cualidades características.
+
+Su composición oscilará entre los siguientes límites:
+
+a) Sacarosa, de 45 a 50 por 100.
+
+b) Azúcar invertido, de 0 a 2 por 100.
+
+c) Agua, de 15 a 25 por 100.
+
+d) Sustancias minerales, un 15 por 100 como máximo.
+
+###### 3.23.14. Azúcar glacé.
+
+Es la mezcla de azúcar en polvo con 0,5 por 100 de fécula de arroz o maíz.
+
+3.23.15. Azúcar caramelizado, azúcar quemado o caramelo.
+
+Es el obtenido por la acción calorífica sobre el azúcar natural, neutralizado o no con carbonatos alcalinos químicamente puros.
+
+###### 3.23.16. Azúcar invertido.
+
+Es el producto obtenido por hidrólisis de soluciones de azúcar, y constituidos por mezcla de sacarosa, glucosa y fructosa.
+
+Se presenta como líquido denso, viscoso y contendrá, como máximo, 30 por 100 de sacarosa, 35 por 100 de agua, 0,35 por 100 de acidez expresada en ácido sulfúrico y 0,5 por 100 de sustancias minerales.
+
+###### 3.23.17. Jarabe de glucosa o glucosa líquida.
+
+Es el producto incoloro o ligeramente amarillento obtenido de cualquier clase de almidón comestible, por sacarificación con ácidos y eliminación de estos últimos.
+
+Su concentración mínima será de 41 grados Baumé y contendrá, como máximo, el 1 por 100 de cenizas y 0,1 por 100 de acidez, expresada en ácido sulfúrico.
+
+###### 3.23.18. Azúcar de fécula.
+
+Es el obtenido por hidrólisis incompleta del almidón comestible, mediante diversos procedimientos tecnológicos y concentración hasta consistencia sólida.
+
+Se presenta en trozos o gránulos pegajosos, ligeramente amarillentos y totalmente solubles en agua.
+
+Tendrá, como máximo, 20 por 100 de humedad, 15 por 100 de dextrina, 1,5 por 100 de sustancias minerales y 0,1 por 100 de acidez, expresada en ácido sulfúrico.
+
+EL contenido mínimo de azúcares reductores será, expresado en glucosa, del 65 por 100.
+
+###### 3.23.19. Glucosa anhidra (dextrosa).
+
+Es el azúcar de fécula refinado y cristalizado. Responderá a las siguientes características:
+
+a) Polvo blanco cristalino.
+
+b) Reacción neutra.
+
+c) La solución al 50 por 100 será transparente e incolora.
+
+d) Tendrá, como máximo, 2 por 100 de humedad, 0,25 por 100 de sales minerales, 0,6 por 100 de maltosa y, como mínimo, 98 por 100 de glucosa calculada sobre materia seca.
+
+###### 3.23.20. Jarabe de maltosa.
+
+Es el obtenido por tratamiento enzimático de productos feculentos, y ha de responder a las siguientes características:
+
+a) Líquido siruposo, incoloro o débilmente amarillento.
+
+b) Reacción neutra.
+
+c) Concentración mínima de 43 grados Baumé.
+
+d) Contenido mínimo de 45 por 100 de materias reductoras, calculado en maltosa.
+
+e) No dará reacciones de cloruros o sulfatos.
+
+###### 3.23.21. Lactosa.
+
+Es un producto obtenido del suero de la leche, que se presentará en cristales o en polvo, inodoro y completamente soluble en agua, dando un líquido neutro.
+
+Contendrá, como máximo, 0,5 por 100 de sustancias minerales, 3 por 100 de humedad y, como mínimo, 95 por 100 de lactosa.
+
+###### 3.23.22. Materias extrañas.
+
+Se tolerará la adición de anhídrido sulfuroso o sus derivados a los jarabes de fécula, jarabe de maltosa y azúcar de fécula, pero en proporción limitada a 40 miligramos de SO<sub>2</sub> por kilogramo de producto.
+
+###### 3.23.23. Prohibiciones.
+
+En la elaboración, fabricación y consumo de sustancias azucaradas, queda prohibido:
+
+a) Otras manipulaciones que las técnicas destinadas a la afinación y refinación.
+
+b) La adición de edulcorantes artificiales o cualquier sustancia no autorizada en este Capítulo.
+
+c) La presencia de sustancias insolubles, incluso el almidón, en límites que excedan a los autorizados.
+
+d) **(Derogado).**
+
+e) La presencia de sustancias reductoras en el azúcar refinado.
+
+f) La presencia de ácido oxálico, ácido sulfúrico y anhídrido sulfuroso en el azúcar invertido.
+
+g) La presencia de dextrina en la glucosa anhidra.
+
+h) La presencia de almidón, fructosa y sacarosa en la glucosa anhidra, lactosa, azúcar de fécula, jarabe de fécula y jarabe de maltosa.
+
+i) La presencia de rafinosa en el melado y melaza de caña.
+
+j) La presencia de glucosa en la lactosa.
+
+k) La presencia de cloruros alcalinos en la dextrina.
+
+l) La presencia de cloruros y sulfatos en el jarabe de maltosa.
+
+ll) La venta a granel para el consumo.
+
+m) El empleo directo en la alimentación humana de melaza de remolacha.
+
+> Se deroga el apartado 3.23.23.d) por la disposición derogatora única.a).iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 2.ª Miel
+
+###### 3.23.24. Miel.
+
+Es el producto azucarado natural, elaborado por las abejas («Apis mellifica», L., y otras especies), a partir del néctar de las flores y otras exudaciones de las plantas, sin adición alguna, y que ha de responder a las siguientes características:
+
+a) Líquida, muy viscosa, pastosa o sólida, de color variable, olor aromático y sabor dulce agradable.
+
+b) Agua, no más del 22,5 por 100 del peso.
+
+c) Sólidos totales, no menos del 77,5 por 100 del peso.
+
+d) Sustancias insolubles, no más del 1 por 100 de los sólidos totales.
+
+e) Cenizas, más del 0,1 y menos del 0,6 por 100.
+
+f) Azúcares reductores, no menos del 70 por 100.
+
+g) Sacarosa, no más del 3 por 100.
+
+h) Dextrinas, no más del 8 por 100.
+
+i) Oximetil-furfurol, no más del 0,5 por 100.
+
+j) Indice de diastasas, no menos de un 8 ni más de un 10.
+
+k) Acidez máxima de 5 grados expresados en mililitros de lejía alcalina décimo-normal por 100 gramos del producto.
+
+###### 3.23.25. Denominaciones.
+
+Las mieles responderán, por su obtención y características, a las siguientes denominaciones:
+
+a) Miel en panal o en secciones: Cuando se presenta en los panales naturales no desoperculados, y envueltos cada uno en hojas de papel o plástico transparentes.
+
+b) Miel virgen o miel de gota: El producto que fluye espontáneamente de los panales al romperlos.
+
+c) Miel cruda: El producto extraído del panal por medios mecánicos.
+
+d) Miel cruda centrifugada: El producto obtenido exclusivamente por centrifugación.
+
+e) Miel cruda prensada: El producto obtenido exclusivamente por presión en frío.
+
+f) Miel gomosa: El producto obtenido por presión en caliente.
+
+g) Miel sobrecalentada o desenzimada: La que se ha sometido a la acción de temperaturas superiores a 70 grados centígrados.
+
+h) Miel batida: La obtenida por golpeo de los panales.
+
+i) Meloja: El producto siruposo obtenido por concentración de los líquidos acuosos procedentes del lavado de los panales.
+
+j) Mieles aromáticas: Con las denominaciones que responderán al aroma natural que posean.
+
+###### 3.23.26. Prohibiciones.
+
+En la elaboración, conservación y envasado de la miel, queda prohibido:
+
+a) Alimentar las abejas artificialmente, con azúcar o sustancias distintas a la propia miel, durante su período normal de producción.
+
+b) La caramelización o adición de caramelo.
+
+c) La adición de agua.
+
+d) La adición de cualquier clase de azúcar, melaza, dextrina, fécula, agar, gelatina y tanino.
+
+e) La adición de colorantes naturales o artificiales, edulcorantes artificiales, conservadores, sustancias aromáticas y cualquier otra extraña.
+
+f) Que exceda del 3 por 100 el contenido de impurezas constituidas por polen, cera, residuos de insectos y otras sustancias insolubles.
+
+g) El fraccionamiento del contenido de los envases y la venta a granel.
+
+###### 3.23.27. Otras prohibiciones.
+
+Se prohíbe asimismo:
+
+a) La elaboración y venta de sucedáneos de la miel.
+
+b) La utilización del nombre de «Miel» para cualquier producto azucarado de naturaleza distinta y el uso en las etiquetas de los envases de tales productos de nombres o dibujos de abejas, panales o colmenas, o cualquier otro que pueda llevar a confusión.
+
+c) La denominación o declaración de miel en aquellos productos que no la contengan.
+
+d) La sustitución de la miel en los productos alimenticios en que figure su nombre, o en los que por su tradicional preparación se presuma su existencia.
+
+###### 3.23.28. Envasado.
+
+**(Derogado).**
+
+###### 3.23.29. Mieles alteradas.
+
+Se considerarán así, y por tanto no aptas para el consumo ni para confitería:
+
+a) Las que tengan color, olor o sabor anormales.
+
+b) Las que tengan sustancias insolubles en suspensión que, por dilución, den sedimento en cantidad que exceda al 1 por 100.
+
+c) Las que por su análisis químico, examen microscópico del sedimento u organoléptico, acusen enfermedad, alteración o defectos.
+
+d) Las que tengan características o composición distintas a las consignadas en este Código.
+
+> Se deroga el apartado 3.23.28, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 3.ª Jarabes
+
+###### 3.23.30. Jarabes.
+
+Son líquidos viscosos constituidos por solución de azúcar en agua, en zumos de frutas, en infusiones o decocciones vegetales, o bien por mezcla de éstas con sustancias extraídas de vegetales.
+
+El producto terminado tendrá una graduación mínima de 62 grados Brix.
+
+La denominación de jarabe, jarabe simple o jarabe de azúcar será exclusiva de las disoluciones de azúcar en agua potable con la graduación indicada.
+
+La denominación de jarabe de zumo, acompañada de la indicación de la especie o especies predominantes de frutas que entran en su fabricación, se aplicará a los que contengan tales zumos, ya sean naturales, conservados o concentrados, con contenido mínimo del 30 por 100 expresado en términos de zumo de fuerza natural.
+
+La denominación de almíbar se aplicará a la solución acuosa de azúcar, en caliente, destinada a líquido de cobertura o a confecciones de confitería y repostería.
+
+###### 3.23.31. Manipulaciones.
+
+En la elaboración y envasado de jarabes se autorizan las operaciones siguientes:
+
+a) La adición de aromas naturales o artificiales, caramelo y colorantes permitidos, glucosa o jarabe de glucosa, azúcar invertido y jarabe de maltosa, jugos refinados y concentrados de remolacha o caña de azúcar, ácidos cítrico, tartárico y láctico químicamente puros y agentes conservadores autorizados, todo ello en las dosis permitidas.
+
+b) La decantación, centrifugación y filtración.
+
+c) La clarificación y decoloración con albúmina de huevo, gelatina alimenticia, tanino, carbón activo, seguida de la consiguiente filtración.
+
+d) La pasterización y esterilización térmica.
+
+e) Asimismo se autoriza la presencia de componentes tisulares de la pulpa de piña y de frutas cítricas o trozos de cáscaras de estas últimas en cantidades que no excedan del 5 por 100.
+
+###### 3.23.32. Prohibiciones.
+
+En la elaboración, conservación y consumo de jarabes queda prohibido:
+
+a) La utilización de agua no potable para la elaboración del producto, así como para la limpieza de maquinaria, materiales y envases.
+
+b) La utilización o presencia de sustancias espumígenas o mucilaginosas, edulcorantes artificiales, melazas, anhídrido sulfuroso o sus compuestos en cantidad que exceda de 200 miligramos de SO<sub>2</sub> por kilogramo, y de alcohol en cantidad superior al 2 por 100 en volumen.
+
+c) La venta y consumo de jarabes alterados, que son los que presentan coloración, aspecto o sabor anormal, los que están fermentados o en fermentación y los agrios con acidez que exceda a la de su composición normal.
+
+###### 3.23.33. Envasado y rotulación.
+
+Los jarabes se expenderán envasados, en recipientes precintados, con etiquetas en las que, además de los datos exigidos por este Código con carácter general, habrán de constar las siguientes especificaciones:
+
+a) En los elaborados con zumos de fruta, la denominación «Jarabe de zumo» o «Jarabe de …. (la fruta correspondiente)».
+
+b) Los elaborados con esencias naturales llevarán la denominación «Jarabe de esencia …. (nombre de la fruta)», aunque lleven añadido zumo, si no llega éste a la proporción exigida.
+
+c) Los de vegetales llevarán la denominación correspondiente.
+
+d) Los elaborados con aromas artificiales autorizados podrán ser vendidos haciéndose constar en sus etiquetas, prospectos y toda clase de anuncios que son imitaciones, por medio de las palabras «fantasía» o «imitación». No podrán llevar representaciones de árboles, frutas o plantas aromáticas que lleven a confusión sobre su composición verdadera.
+
+##### Sección 4.ª Productos de confitería
+
+###### *3.23.34. Caramelos.*
+
+*Son pastas de azúcar y glucosa, concentradas al calor, endurecidas sin cristalizar al enfriarse, quebradizas y, generalmente, aromáticas y coloreadas.*
+
+*Se designan como caramelos blandos o pastillas los que, por contener mantequilla, cacao, grasas comestibles u otras sustancias alimenticias, tienen consistencia blanda.*
+
+*El caramelo puede estar relleno de pastas de fruta, mermeladas o cremas, en cuyo caso reciben la denominación de caramelo relleno.*
+
+###### *3.23.35. Confite.*
+
+*Es pasta maciza hecha con azúcar, de variado tamaño y forma, aromatizada y coloreada. Se distinguen los siguientes:*
+
+*a) Confites menudos: De forma más o menos esférica y variados colores y sabores.*
+
+*b) Confites rellenos: Rellenos de variadas sustancias y cuya cubierta, de consistencia variable, es de azúcar y glucosa con sustancias alimenticias diversas, ácidos, esencias y colorantes permitidos. El relleno puede ser de masas de fruta, frutas enteras, cacao, coco, yema de huevo, jarabes, licores u otras sustancias alimenticias.*
+
+###### *3.23.36. Goma de mascar.*
+
+*Modalidad de confite con una base masticatoria plástica, conteniendo azúcar, glucosa, aromatizantes, colorantes y otros ingredientes autorizados. La base masticatoria puede estar constituida por gomas y resinas naturales y las de síntesis autorizadas, bálsamos, aceites comestibles, grasas alimenticias y ceras.*
+
+###### *3.23.37. Peladillas.*
+
+*Productos obtenidos al gragear frutos secos enteros hasta que quedan recubiertos de una capa continua de azúcar, añadida o no de otras sustancias alimenticias aromáticas o colorantes y pulimentada mecánicamente.*
+
+###### *3.23.38. Garrapiñado.*
+
+*Producto formado por frutos secos mondados o sin mondar, tostados o no, revestidos de una capa de azúcar caramelizada, grumosa, de espesor variable. No llevarán otro colorante que el producido por el caramelizado.*
+
+> Véase el art. 2 y las definiciones incluidas en la norma de calidad contenida en el Real Decreto 348/2011, de 11 de marzo. [Ref. BOE-A-2011-5394](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5394)., que sustituyen los apartados 3.23.34 a 3.23.38.
+
+###### *3.23.39. Productos de confitería.*
+
+*Son los que utilizándose el azúcar como principal componente llevan además huevos enteros y sus componentes aislados, pulpa de coco o almendras o pastas de frutas con o sin harina y otros productos alimenticios consignados en 3.23.43.*
+
+> Véase el art. 2 y las definiciones incluidas en la norma de calidad contenida en el Real Decreto 496/2010, de 30 de abril. [Ref. BOE-A-2010-7714](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7714)., que sustituyen el apartado 3.23.39.
+
+###### 3.23.40. Pastas de confitería.
+
+Productos formados por azúcar y frutos secos, frutas desecadas, cereales, harinas, féculas, aceites, mantequilla u otros productos alimenticios.
+
+Se distinguen entre otras las siguientes:
+
+a) Crocante: Pasta de frutos secos endurecida con caramelo.
+
+b) Alfeñique: Pasta de azúcar y aceite de almendras dulces.
+
+c) Aljófar: Pasta de azúcar y especias.
+
+d) Capuchina: Pasta de azúcar, féculas alimenticias y yema de huevo.
+
+e) Azucarillos o bolados: Pasta esponjosa seca hecha con clara de huevo, almíbar, azúcar y zumo de limón o de otras frutas.
+
+###### 3.23.41. Mazapán.
+
+Masa obtenida por cocción de una mezcla de almendras crudas, peladas y molidas con azúcar y glucosa, sin adición de féculas.
+
+El producto terminado no tendrá más de 20 por 100 de agua, 68 por 100 de azúcares totales y 4 miligramos de ácido cianhídrico por 100 gramos.
+
+El mazapán podrá estar relleno o recubierto con diversos preparados de confitería y pastelería. La cobertura o relleno deberá distinguirse del mazapán. Se tolerará como máximo un 3 por 100 de harina o fécula.
+
+###### 3.23.42. Mazapán con fécula.
+
+Es el mazapán elaborado con adición de harinas o féculas alimenticias. El producto terminado tendrá la composición del definido en el artículo 3.23.41 y su contenido en almidón no sobrepasará del 15 por 100, expresado en materia seca.
+
+En la rotulación de las etiquetas o envases figurará su condición de elaborado con féculas.
+
+###### 3.23.43. Turrón.
+
+Masa obtenida por amasado de almendras peladas, crudas o tostadas y miel. En ella puede agregarse clara de huevo, albúmina o gelatina alimenticia o sustituirse la almendra por piñones, avellanas, cacahuetes, nueces, yema de huevo, coco y frutas confitadas; la miel podrá sustituirse total o parcialmente por azúcar y glucosa.
+
+No se permitirá la adición de harina, almidón ni de materias colorantes.
+
+###### 3.23.44. Turrón con fécula.
+
+Es el turrón elaborado con la adición de harinas o féculas alimenticias, con un contenido máximo de almidón del 15 por 100, calculado sobre materia seca.
+
+###### 3.23.45. Manipulaciones.
+
+Con exclusión de los casos específicos señalados en este Capítulo, para la elaboración de productos de confitería se autoriza, además del uso del azúcar comestible, el de los siguientes productos:
+
+1\. Agua potable.
+
+2\. Harinas y féculas que reúnan las condiciones exigidas.
+
+3\. Leche entera, condensada o deshidratada.
+
+4\. Nata, mantequilla o grasas comestibles.
+
+5\. Especias y alimentos estimulantes.
+
+6\. Esencias permitidas.
+
+7.**(Derogado).**
+
+8\. Pastas de frutas y frutas confitadas.
+
+9\. Pulpa de coco.
+
+10\. Huevo entero o sus componentes aislados.
+
+11\. Acido cítrico y bitartrato potásico, en proporción que no exceda de 25 gramos por kilogramo de producto elaborado.
+
+12\. Glucosa o jarabe de glucosa.
+
+13\. Gasificantes incluidos en las listas positivas de este Código.
+
+La reglamentación correspondiente especificará las características de composición y calidad de cada tipo.
+
+###### 3.23.46. Prohibiciones.
+
+En la elaboración de los productos de confitería se prohíbe utilizar:
+
+a) Edulcorantes artificiales.
+
+b) Esencias no permitidas.
+
+c)**(Derogado).**
+
+d) Nitrobenceno y esencia de almendras amargas que contenga ácido cianhídrico.
+
+e) Productos o sustancias que, aun siendo inertes, puedan dañar al ser ingeridas.
+
+###### 3.23.47 y 3.23.48.
+
+**(Derogados).**
+
+> Se derogan los apartados 3.23.47, 3.23.48 y 3.23.45, punto 7, 3.23.46.c) por la disposición derogatora única.a).iii e iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+> Véase el art. 2 y las definiciones incluidas en la norma de calidad contenida en el Real Decreto 348/2011, de 11 de marzo. [Ref. BOE-A-2011-5394](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5394)., que sustituyen los apartados 3.23.34 a 3.23.38.
+
+> Véase el art. 2 y las definiciones incluidas en la norma de calidad contenida en el Real Decreto 496/2010, de 30 de abril. [Ref. BOE-A-2010-7714](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7714)., que sustituyen el apartado 3.23.39.
+
+#### Capítulo XXIV — 3.24.00. Condimentos y especias
+
+##### Sección 1.ª Sal
+
+###### 3.24.01. Sal para alimentación.
+
+Es el producto constituido por cloruro sódico en condiciones que le hacen apto para usos alimenticios y se conoce con el nombre «sal comestible» o simplemente «sal».
+
+###### 3.24.02. Clasificación.
+
+A efectos de este Código se distinguen las siguientes clases de sal de alimentación:
+
+a) Piedra o gema.
+
+b) Marina.
+
+c) De fuente o mineral.
+
+d) Común.
+
+e) Sales especiales.
+
+###### 3.24.03. Sal piedra o gema.
+
+Es la procedente de yacimientos naturales.
+
+###### 3.24.04. Sal marina.
+
+Es la procedente de la evaporación del agua de mar.
+
+###### 3.24.05. Sal de fuente o mineral.
+
+Es la procedente de la evaporización de aguas minerales.
+
+###### 3.24.06. Sal común.
+
+Es la sal piedra, marina o mineral, purificada por lavado o por disolución seguida de cristalización. En la reglamentación correspondiente se establecerán las diferencias granulométricas entre sus calidades gruesas, finas y entrefinas.
+
+###### 3.24.07. Sales especiales.
+
+Están constituidas por sal, a la que se han agregado diversas sustancias autorizadas, que se declararán en la rotulación de los envases.
+
+Entre ellas se distinguen las siguientes:
+
+a) Sal de mesa: La que contiene añadido fosfato sódico, cálcico, silicatos o carbonatos magnésico y cálcico o sustancias incluidas en las listas positivas de aditivos de este Código.
+
+b) Sal yodada: La que contiene añadido yoduro sódico o potásico en la proporción conveniente para que el producto terminado contenga de 10 a 15 partes de yodo por 1.000.000.
+
+c) Sal fluorada: La que contenga de 90 a 135 partes por 1.000.000 de flúor.
+
+d) Sal yodo-fluorada: La que contenga conjuntamente yodo y flúor en los límites establecidos.
+
+e) Otras sales: Las que elaboradas con sal se les han añadido otras sustancias alimenticias o incluidas en las listas positivas de este Código.
+
+###### 3.24.08. Características de la sal comestible.
+
+Los caracteres y composición de la sal comestible, cualquiera que sea su origen, serán los siguientes:
+
+a) Cristales blancos, inodoros, solubles en agua sin residuo perceptible a simple vista y con sabor salino franco.
+
+b) No contendrá una proporción de agua mayor de 5 por 100.
+
+c) Su residuo insoluble no será mayor de 5 decigramos por 100 gramos ni excederá su contenido de sales de calcio, magnesio y potasio del 1 por 100, expresadas, respectivamente, en óxidos cálcico, magnésico o potásico y calculadas sobre producto seco.
+
+d) Estará exenta de nitratos, nitritos y sales amónicas.
+
+e) Se tolera la presencia de sal magnésica, calculada en óxido magnésico, hasta 2 por 100, sobre producto seco, cuando el producto vaya a destinarse a la salazón, en cuyo caso se denominará «sal de salazón».
+
+f)**(Derogado).**
+
+###### 3.24.09. Manipulaciones.
+
+**(Derogado).**
+
+###### 3.24.10. Envasado y transporte.
+
+**(Derogado).**
+
+###### 3.24.11. Casos especiales.
+
+En cuanto al consumo de sal se establecen los siguientes casos especiales:
+
+a) Se prohíbe utilizar en la alimentación sal procedente de proceso químicos, recuperación de salazones, salmueras o de otros usos industriales.
+
+b) La sal gema, con una riqueza mínima de 96 por 100 de cloruro sódico sobre materia seca, podrá utilizarse únicamente para la alimentación de animales.
+
+###### 3.24.12. Salmueras.
+
+Se designan con este nombre las disoluciones en agua potable de sal comestible, adicionadas o no de azúcar, vinagre o ácido láctico, otras sustancias autorizadas y aromatizadas o no con diversas especias o plantas.
+
+###### 3.24.13. Preparación y uso de salmuera.
+
+Se observarán las siguientes normas:
+
+a) Su preparación se efectuará con agua potable y sal comestible o de salazón que reúna las condiciones mínimas especificadas en este Código.
+
+b) Tendrán reacción ácida y la flora microbiana estará exenta de bacterias patógenas.
+
+c) **(Derogado).**
+
+d) Las salmueras en uso deberán renovarse cuando absorban más de 10 por 100 de yodo décimo normal.
+
+e) Se prohíbe su preparación con sal recuperada de salazones, salmueras, pesca y otros usos industriales.
+
+> Se derogan los apartados 3.24.09, 3.24.10, 3.24.08.f) y 3.24.13.c) por la disposición derogatora única.a).iii e iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 2.ª Vinagres
+
+**(Sin contenido).**
+
+> Véase el art. 2 del Real Decreto 661/2012, de 13 de abril. [Ref. BOE-A-2012-5529](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5529), que sustituye el contenido de esta sección.
+
+##### Sección 3.ª Especias
+
+###### 3.24.21. Condimentos aromáticos.
+
+Se designa con el nombre de especias o de condimentos aromáticos a las plantas, frescas o desecadas, enteras o molidas, que, por tener sabores u olores característicos, se destinan a la condimentación o a la preparación de ciertas bebidas.
+
+###### 3.24.22. Clasificación.
+
+Cada especie responderá a la denominación característica y composición propia. Las principales, distinguiéndose conforme a la parte vegetal que las constituyen, se clasifican en:
+
+a) Cortezas: Canela.
+
+b) Flores o partes florales: Alcaparra, azafrán y clavo.
+
+c) Frutos: Anís, apio, badiana, cardamomo, cilantro, comino, enebro, hinojo, pimentón, pimienta de Cayena, pimienta inglesa, pimienta negra y vainilla.
+
+d) Hojas y sumidades: Ajedrea, artemisa, estragón, té de roca, laurel, menta, orégano, perejil, poleo, romero, salvia, tomillo y espliego.
+
+e) Rizomas y raíces: Cálamo, cedoaria, galanga y jengibre.
+
+f) Semillas: Macis, mostaza, nuez moscada y pimienta blanca.
+
+###### 3.24.23. Canela.
+
+Es la corteza desecada y privada de la mayor parte de su capa epidérmica procedente del «Cinnamomum zeylanicum», Breyne; «C. casia», Blume, y «C. Burmani», Blume y otras especies.
+
+No debe tener más del 14 por 100 de humedad, ni 6 por 100 de cenizas y 2 por 100 de sílice.
+
+No contendrá menos de 4,5 por 100 de extracto alcohólico ni 8 por 1.000 de extracto etéreo volátil.
+
+###### 3.24.24. Alcaparras.
+
+Son los botones florales del «Capparis spinosa», L., y «C. ovata», Desp., conservados en vinagre, salmuera o sal seca.
+
+No contendrán más de 30 por 100 de materia nitrogenada ni de 5 por 100 de materia grasa, calculados sobre la sustancia privada del líquido de cobertura y seca.
+
+###### 3.24.25. Azafrán.
+
+Es el constituido por los estigmas desecados del «Crocus sativus», L., con las tolerancias máximas de estilos y restos florales que se especifiquen para las diversas calidades en la reglamentación correspondiente.
+
+No sobrepasará las cifras máximas siguientes: Humedad y materias volátiles, 15 por 100; cenizas, 8 por 100; sílice, 2 por 100; fibra bruta, 6 por 100; extracto etéreo, entre 35 y 145 por 1.000.
+
+###### 3.24.26. Clavo de especia.
+
+Es el botón floral maduro y desecado del «Caryophyllus aromaticus», L.
+
+No sobrepasará las cifras siguientes: Humedad, 15 por 100; cenizas, 8 por 100; sílice, 1 por 100; fibra bruta, máxima 10 por 100 y, como mínimo, 10 por 100 de extracto etéreo volátil.
+
+###### 3.24.27. Anís.
+
+Constituido por los frutos sanos, limpios y desecado del «Pimpinella anisum», L.
+
+No sobrepasará las cifras siguientes: Humedad, máximo 15 por 100; cenizas, máximo, 10 por 100; sílice, 2 por 100; esencia, mínimo, 1,5 por 100; fibra bruta, 25 por 100.
+
+###### 3.24.28. Apio.
+
+Frutos sanos, limpios y desecados del «Apium graveolens», L. No sobrepasará las cifras siguientes: Humedad, máximo 15 por 100; cenizas, máximo 10 por 100; sílice, máximo 2 por 100.
+
+###### 3.24.29. Badiana.
+
+Frutos sanos, limpios y desecados de «Illicium verum», Hooker. No sobrepasará las cifras siguientes: Humedad, máximo 15 por 100; cenizas, máximo 5 por 100; sílice, máximo 1 por 100; fibra bruta, máximo 30 por 100; aceite esencial, mínima 3,5 por 100.
+
+###### 3.24.30. Cardamomo.
+
+Fruto sano, limpio y desecado de «Elettaria cardomomun», White y Matan, y otras especies afines.
+
+No sobrepasará las cifras siguientes: Humedad, máximo 12 por 100; cenizas, máximo 10 por 100; sílice, máximo 3 por 100; fibra bruta, máximo 20 por 100; aceite esencial, mínimo 2 por 100.
+
+###### 3.24.31. Cilantro.
+
+Frutas sanos, maduros, limpios y desecados del «Coriandrum sativum», L. No sobrepasará las cifras siguientes: Humedad, máximo 10 por 100; cenizas, máximo 7 por 100; sílice, 1,5 por 100; fibra bruta, 30 por 100; aceite esencial, mínimo 0,6 por 100.
+
+###### 3.24.32. Comino.
+
+Frutos sanos, limpios y desecados del «Cuminum Cyminum», L., o de la «Margotia gumnifera», Lge., respectivamente, «comino ordinario» y «comino romano» o «largo» y «comino rústico». No sobrepasará de las cifras siguientes: Humedad, 14 por 100; cenizas, 12 por 100; sílice, 4 por 100; fibra bruta, máximo 7 por 100; aceite esencial, mínimo 1,5 por 100.
+
+###### 3.24.33. Enebro.
+
+Son las arcéstides carnosas, maduras y sanas, limpias y desecadas del «Juniperus communis», L. No sobrepasará de las cifras siguientes: Humedad, máximo 30 por 100; cenizas, máximo 3 por 100; fibra bruta, máximo 22 por 100; aceite esencial, mínimo 0,4 por 100.
+
+###### 3.24.34. Hinojo.
+
+Frutos sanos, maduros, limpios y desecados del «Foeniculum vulgare», Miller. No sobrepasará las cifras siguientes: Humedad, máximo 14 por 100; cenizas, máximo 9 por 100; sílice, máximo 2 por 100; fibra bruta, máximo 15 por 100; aceite esencial, mínimo 3 por 100.
+
+###### 3.24.35. Pimentón.
+
+Producto obtenido de la molienda de los frutos maduros, sanos, limpios y secos del pimiento «Capsicum annum», L., o «C. longum», D. C., o parte de los mismos, exentos de materias extrañas. Se podrán distinguir los tipos dulce, agridulce y picante.
+
+La reglamentación correspondiente establecerá los límites y características de los distintos tipos o calidades.
+
+Cualquiera que sea su calidad no sobrepasará las cifras siguientes: Humedad, máximo 14 por 100; extracto etéreo sobre sustancia seca, máximo 25 por 100; fibra bruta sobre materia seca, máximo 30 por 100; cenizas totales sobre materia seca, máximo 10 por 100; sílice sobre materia seca, máximo 1 por 100.
+
+###### 3.24.36. Pimienta de Cayena.
+
+Frutos enteros desecados del «Capsicum frutescens», L., y «C. baccatum.», L., y «C. fastigiatum», Bl. No sobrepasará las siguientes cifras, Humedad, máximo 9 por 100; cenizas, máximo 8 por 100; sílice, 1,25 por 100; fibra bruta, 28 por 100; extracto etéreo volátil, no menos de 15 por 100.
+
+###### 3.24.37. Pimienta de Jamaica.
+
+Frutos desecados enteros o molidos del «Pimenta Officinalis», Berg.
+
+No sobrepasará las cifras siguientes: Cenizas, máximo 6 por 100; sílice, máximo 0,4 por 100; fibra bruta, máximo 25 por 100; extracto etéreo volátil, no menos de 3 por 100.
+
+###### 3.24.38. Pimienta negra.
+
+Es el fruto incompletamente maduro y seco procedente del «Piper nigrum», L., con no más del 5 por 100 de pedúnculos y granos abortados.
+
+No sobrepasará de las siguientes cifras: Humedad, máximo 14 por 100; cenizas, máximo 7 por 100; sílice, máximo 1,5 por 100; fibra bruta, máximo 14 por 100; extracto etéreo volátil, no menos de 5,5 por 100.
+
+###### 3.24.39. Vainilla.
+
+Fruto inmaduro fermentado y desecado de la «Vanilla planifolia», Andrews, y «V. pompona», Schiede.
+
+No sobrepasará las cifras siguientes: Humedad, máximo 30 por 100; cenizas, máximo 6 por 100; sílice, máximo 12 por 10.000; extracto alcohólico, no menos del 46 por 100; vainilla natural, no menos del 1,5 por 100; extracto etéreo fijo, entre 6 y 10 por 100.
+
+###### 3.24.40. Ajedrea.
+
+Hojas y sumidades floridas, limpias, frescas o desecadas de la «Satureja hortensis», L. El producto seco no sobrepasará las cifras siguientes: Cenizas, máximo 10 por 100; sílice, máximo 0,5 por 100; aceite esencial, no menos del 0,7 por 100.
+
+###### 3.24.41. Artemisa y espliego.
+
+Hojas y sumidades sanas, limpias y secas de «Arthemisia vulgaris», L., y «Lavandula spica», L., respectivamente, con un contenido de cenizas no superior al 8 por 100, expresado en materia seca.
+
+###### 3.24.42. Estragón.
+
+Hojas y sumidades sanas, limpias y secas de la «Arthemisia dracunculus, L.
+
+###### 3.24.43. Té de roca.
+
+Tallos, hojas y flores de la «Jasonia glutinosa», D. C. Limpios y secos, con un contenido máximo del 45 por 100 de fibra bruta, 1 por 100 de sílice y 10 por 100 de humedad.
+
+###### 3.24.44. Laurel.
+
+Hojas sanas, limpias y secas del «Laurus nobilis», L. No sobrepasará de las cifras siguientes: Humedad, máximo 15 por 100; cenizas, máximo 6 por 100; sílice, máximo 1 por 100; fibra bruta, máximo 30 por 100; aceite esencial, no menos del 2 por 100.
+
+###### 3.24.45. Menta (hierbabuena).
+
+Hojas y sumidades floridas, sanas, limpias, frescas o secas de la «Mentha piperita», L., «M. viridis», L., «M. aquatica» L., u otras. El producto seco no tendrá más de 15 por 100 de humedad.
+
+###### 3.24.46. Orégano y mejorana.
+
+Hojas y sumidades floridas, sanas, limpias y secas de «Origanum vulgare», L., y «O. virens», Hoffgg, orégano, «O. majorana», L. «Majorana cultivata», o de jardín, y «Thymus Mastichina», L., mejorana silvestre, respectivamente. No sobrepasarán las cifras siguientes: Humedad, máximo 15 por 100; cenizas, máximo 16 por 100; sílice, máximo 0,5 por 100; fibra bruta, máximo 25 por 100; extracto alcohólico, mínimo 13 por 100.
+
+###### 3.24.47. Perejil.
+
+Plantas sanas y limpias, frescas o desecadas del «Petroselinum sativum», Hofpm.
+
+###### 3.24.48. Poleo y romero.
+
+Hojas y sumidades floridas de la «Menta pulegium», L., o «Rozmarinus officinalis., L., respectivamente, recogidas en el período de floración. El producto seco no tendrá más del 15 por 100 de humedad.
+
+###### 3.24.49. Salvia.
+
+Plantas sanas, limpias, frescas o desecadas de la «Salvia officinalis.», L., y «S. lavandulaefolia», Walp. El producto seco no sobrepasará las cifras siguientes: Cenizas, máximo 10 por 100; sílice, máximo 1 por 100; fibra bruta, máximo 25 por 100; aceite esencial, no menos del 1 por 100.
+
+###### 3.24.50. Tomillo.
+
+Planta y sumidades floridas, sanas, limpias y secas del «Thymus vulgaris», L.: «T. Eygis», L., y «T. piperella», L., o «pebrella». El producto seco no sobrepasará las cifras siguientes: Cenizas, máximo 12 por 100; sílice, máximo 4 por 100; aceite esencial, no menos del 1,5 por 100.
+
+###### 3.24.51. Cálamo.
+
+Rizoma sano, limpio y seco del «Acorus calamus», L., entero o descortezado. El producto no sobrepasará las cifras siguientes. Entero: Humedad, máximo 12 por 100; cenizas, máximo 6 por 100; sílice, máximo 1 por 100; fibra bruta, máximo 1 por 100. Descortezado: Humedad, máximo 13 por 100; cenizas, máximo 3 por 100; sílice, máximo 0,3 por 100; fibra bruta, máximo 45 por 1.000.
+
+###### 3.24.52. Cedoaria.
+
+Rizoma sano y desecado de la «Curcuma Zedoaria», Rosc. El producto no sobrepasará las cifras siguientes: Humedad, máximo 18 por 100; cenizas, máximo 5 por 100; fibra bruta, máximo 5 por 100; fécula, máximo 50 por 100.
+
+###### 3.24.53. Galanga.
+
+Rizoma sano de la «Alpinia Officinarum», Hange, y otras especies del mismo género. El producto no sobrepasará las cifras siguientes: Humedad, 15 por 100; cenizas, máximo 8 por 100; fibra bruta, máximo 17 por 100.
+
+###### 3.24.54. Jengibre.
+
+Rizoma lavado y desecado del «Zingiber officinale», Rosc., entero (gris) o descortezado (blanco). El producto no sobrepasará las cifras siguientes: Humedad, máximo 14 por 100; cenizas, máximo 7,5 por 100 (gris) y 10 por 100 (blanco); sílice, máximo 2 por 100; fibra bruta, máximo 9 por 100; óxido cálcico, máximo 1 por 100 (gris) y 2 por 100 (blanco); aceite esencial, no menos del 1 por 100.
+
+###### 3.24.55. Macis.
+
+Arilo desecado de la nuez moscada «Myristica fragans», Houttyl. El producto no sobrepasará las cifras siguientes: Humedad, máximo 17 por 100; cenizas, máximo 3 por 100; sílice, máximo 5 por 1.000; fibra bruta, máximo 10 por 100 y no menos del 4 por 100 de esencia. El extracto etéreo debe oscilar entre 20 y 30 por 100, y el alcohólico entre 19 y 25 por 100.
+
+###### 3.24.56. Mostaza.
+
+Semillas de la «Sinapis alba», L., «mostaza blanca» o de la «Brassica nigra», Koch, «mostaza negra» o de especies afines. Los productos desengrasados no sobrepasarán las cifras siguientes: Humedad, máximo 14 por 100; fibra bruta, 17 por 100; almidón, 1,5 por 100, con un mínimo de 0,4 por 100 de aceite esencial; ceniza, 6 por 100; sílice, 1,5 por 100.
+
+###### 3.24.57. Nuez moscada.
+
+Semilla desprovista del arilo de la «Myristica fragans», Houttyl, y recubierta a veces con una delgada cobertura de cal. El producto no sobrepasará las cifras siguientes: Extracto etéreo no volátil, mínimo 25 por 100; cenizas, máximo 5 por 100; sílice, máximo 0,5 por 100; fibra bruta, máximo 10 por 100 y no menos del 2 por 100 de aceite esencial.
+
+###### 3.24.58. Pimienta blanca.
+
+Es el fruto maduro y privado de la parte externa del pericarpio procedente del «Piper nigrum», L. No sobrepasará de las siguientes cifras: Humedad, máximo 18 por 100; cenizas, máximo 3,5 por 100; sílice, máximo 3 por 1.000; fibra bruta, máximo 9 por 100; extracto etéreo fijo, no más del 6 por 100.
+
+###### 3.24.59. Denominaciones.
+
+Toda especia entera o molida debe llevar el nombre vulgar de la especie vegetal de procedencia.
+
+Las mezclas de especias se pueden admitir bajo un nombre de fantasía o con denominación genérica de «Condimento», con la designación de sus componentes principales o por el de su empleo, indicando preceptivamente estos nombres en las etiquetas de sus envases.
+
+###### 3.24.60. Manipulaciones.
+
+La elaboración de cualquier especia se realizará mediante molienda completa de la misma, sin adición o merma de componente alguno, con las excepciones siguientes:
+
+a) En el pimentón podrá añadirse aceite de oliva en proporción que no exceda del 10 por 100 en peso del pimentón seco. Al producto se le denominará «pimentón aceitado».
+
+b) En la mostaza molida se permite la separación de su grasa por medios mecánicos. Al producto se le denominará «mostaza desengrasada».
+
+c) En la vainilla molida se permite la mezcla con azúcar en proporción no mayor del 75 por 100. Al producto se le denominará «polvo de vainilla azucarado». La mezcla que contenga al menos 10 por 100 de vainilla molida se le llamará «azúcar de vainilla». Puede sustituirse en esta última la vainilla molida por su extracto o esencia total en proporción correspondiente, en cuyo caso se denominará «azúcar de extracto o esencia de vainilla», respectivamente.
+
+d) En el clavo de especia molido la separación parcial de la esencia, siempre que el producto quede con un mínimo de 5 por 100 de esta última.
+
+###### 3.24.61. Prohibiciones.
+
+Queda prohibido en la elaboración, molienda y comercialización de las especias, las adiciones, presencia y operaciones siguientes:
+
+a) La extracción de sus principios activos, ya sea parcial o total, con las excepciones del artículo anterior y el empleo o mezcla de las especias agotadas.
+
+b) El reforzamiento de las especias enteras o molidas con sus principios activos, esencias o extractos.
+
+c) La adición a las especias enteras o molidas de azúcar, fécula, aceites, polvos vegetales extraños, sal común o sustancias minerales, aunque sean inocuas, con las excepciones permitidas.
+
+d) La adición de materias colorantes, edulcorantes artificiales, sustancias oxidantes o reductoras, aceites minerales y, en general, de cualquier sustancia ajena a su naturaleza.
+
+e) La presencia de insectos en cualquiera de sus fases de desarrollo y otras impurezas que denoten un deficiente estado higiénico sanitario.
+
+f) La venta de toda especia entera o molida cuyas características no correspondan con el nombre bajo el que se expenda o esté averiada o alterada.
+
+g) En la badiana si contiene falsa badiana (shikimi), «Illicium religiosum», Sieb, será inmediatamente decomisada.
+
+h) El azafrán no contendrá flores de «alazor», «caléndula», «cardo», o de otros vegetales.
+
+i) El enebro que contenga arcéstides de «sabina rastrera» («Juniperus sabina», var., humilis, Hook) o albar («J. Thurifera», L.), será decomisado.
+
+j) El hinojo, comino y anís, si contienen cicuta («Conium maculatum», L.), serán decomisados.
+
+###### 3.24.62. Especias industriales.
+
+Podrá autorizarse el comercio de las especias destinadas a la preparación de esencias u otros usos y que no reúnan las condiciones establecidas, siempre que en sus envases y documentos comerciales se les denomine «especia industrial impropia para el consumo humano».
+
+###### 3.24.63. Envasado y rotulación.
+
+Las especias enteras o en polvo se venderán envasadas y rotuladas en las condiciones establecidas en el Capítulo IV.
+
+Todo alimento preparado que por su carácter o apariencia permita o presuma que posee alguna de las especias nombradas en este Capítulo y no la contenga, llevará en la rotulación de sus envases la indicación clara de la procedencia del sabor o aroma que le imprime dicho carácter.
+
+##### Sección 4.ª Condimentos preparados
+
+###### 3.24.64. Concepto.
+
+Son aquellas mezclas de especias, entre sí o con otras sustancias alimenticias, dispuestas para empleo inmediato o utilización culinaria.
+
+###### 3.24.65. Clasificación.
+
+A los efectos de este Código se distinguen como principales los siguientes:
+
+a) Azúcar vanillado.
+
+b) Extracto de estragón.
+
+c) Pimienta de apio.
+
+d) **(Sin contenido)**
+
+###### 3.24.66. Azúcar vainillado.
+
+Mezcla de azúcar con vainilla sintética o etil-vainillina en proporciones mínimas de 7 ó 2 por 1.000, respectivamente. No podrá destinarse al consumo ni venderse bajo los nombres de «Vainilla azucarada», «Azúcar de vainilla», o de «Extracto o esencia de vainilla».
+
+###### 3.24.67. Extracto de estragón.
+
+Macerado preparado a partir de estragón con vinagre y adición de sal comestible.
+
+###### 3.24.68. Pimienta de apio.
+
+Mezcla de grano de apio molido o apio deshidratado molido con pimienta negra molida. Tendrá como mínimo 70 por 100 de pimienta negra.
+
+###### 3.24.69. Vinagre aromático.
+
+**(Sin contenido)**
+
+> Véase el art. 2 del Real Decreto 661/2012, de 13 de abril. [Ref. BOE-A-2012-5529](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5529)., que sustituye el contenido de los apartados 3.24.65.d) y 3.24.69 por las disposiciones contenidas en la norma de calidad para la elaboración y la comercialización de los vinagres.
+
+> Véase el art. 2 del Real Decreto 661/2012, de 13 de abril. [Ref. BOE-A-2012-5529](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5529)., que sustituye el contenido de los apartados 3.24.65.d) y 3.24.69.
+
+##### Sección 5.ª Mostaza de mesa
+
+###### 3.24.70. Mostaza de mesa.
+
+Mezcla homogénea de mostaza en polvo y de vinagre o vino y agua con o sin adición de sal, azúcar y otras especias.
+
+Podrá llevar harinas o féculas alimenticias, siempre que la cifra de almidón referida a sustancia seca no sobrepase el 25 por 100 y los ácidos tartárico o cítrico, aceite comestible, conservadores y colorantes naturales incluidos en las listas positivas de este Código.
+
+El producto no sobrepasará las cifras siguientes, referidas a sustancia seca: fibra bruta, 12 por 100; nitrógeno total, 5 por 100; esencia de mostaza, 0,1 por 100.
+
+##### Sección 6.ª Salsas
+
+###### 3.24.71. Concepto genérico.
+
+Salsa, a efectos de este Código, es la composición o mezcla de varias sustancias comestibles utilizable para acompañar a la comida o a los preparados alimenticios.
+
+###### 3.24.72. Clasificación.
+
+Se distinguen como principales las siguientes:
+
+a) Salsa mayonesa.
+
+b) Salsa de ensalada.
+
+c) Escabeche.
+
+d) Salsa de tomate.
+
+e) Salsas picantes.
+
+###### 3.24.73. Salsa mayonesa.
+
+Emulsión espesa formada básicamente por aceite vegetal alimenticio, huevos o yemas de huevo y vinagre o zumo de limón.
+
+Podrá contener agua, sal, azúcar o glucosa, féculas alimenticias, ácidos cítrico, tartárico o láctico y especias, con excepción del azafrán.
+
+El producto terminado y dispuesto para el consumo, ya sea envasado o elaborado en los restaurantes, no tendrá menos del 65 por 100 de extracto etéreo. Deberá declararse la presencia de féculas cuando sobrepase al 0,5 por 100.
+
+Cuando la naturaleza de su empleo así lo exija, podrá diluirse en su volumen de leche, denominándose entonces «mayonesa atenuada» y no tendrá menos de 35 por 100 de extracto etéreo.
+
+###### 3.24.74. Salsa de ensalada.
+
+Emulsión formada básicamente por aceite vegetal alimenticio, huevos o yema de huevo, vinagre o zumo de limón y harinas o féculas. Podrá contener o no agua, sal, azúcar, o glucosa, especias, agentes emulgentes o los ácidos cítrico, tartárico o láctico.
+
+El producto terminado no contendrá menos de 35 por 100 de extracto etéreo.
+
+###### 3.24.75. Escabeche.
+
+Salsa o adobo con vino o vinagre, hojas de laurel, sal y otros ingredientes, para conservas de pescados y otros usos.
+
+Su acidez no será inferior al 1,5 por 100, expresada en ácido acético. La reglamentación correspondiente señalará las características de los distintos tipos.
+
+###### 3.24.76. Salsa de tomate.
+
+Mezcla cocinada de pulpa de tomate, aceite vegetal comestible y sal. El producto elaborado no tendrá más de 5 por 100 de cloruro sódico ni menos de 10 por 100 de aceite, y la cantidad de extracto seco desengrasado oscilará entre 16 y 18 por 100.
+
+###### 3.24.77. Salsa picante «curry».
+
+Es la mezcla de varias especias de gusto muy picante constituida principalmente con diversas pimientas, jengibre con o sin condimentos o sustancias alimenticias, siempre que el nombre de ellas figure en los rótulos. Podrán colorarse con sustancias naturales incluidas en las listas positivas de este Código.
+
+El contenido de cloruro sódico no excederá de 5 por 100 en materia seca.
+
+###### 3.24.78. Salsa picante «catchup».
+
+.Es la salsa de tomate preparada con cebolla, pimiento, azúcar, mostaza, champiñón, pimienta, vinagre y otros ingredientes autorizados.
+
+Su extracto seco no será menor de 35 por 100.
+
+##### Sección 7.ª Disposiciones comunes
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatora única.a).ii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo XXV — 3.25.00. Aumentos estimulantes y derivados
+
+##### Sección 1.ª Cafés y derivados
+
+###### 3.25.01. a 3.25.08.
+
+**(Derogados).**
+
+> Téngase en cuenta que el contenido de los apartados 3.25.01 a 3.25.08, queda sustituido por las definiciones, denominaciones y características incluidas en la norma de calidad contenida en el Real Decreto 1676/2012, de 14 de diciembre. [Ref. BOE-A-2012-15656](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15656).
+
+###### 3.25.09. Infusión de café.
+
+Es la preparada por la lixiviación o infusión en agua caliente o vapor de café tostado y molido. Estará libre de sucedáneos y de sustancias extrañas.
+
+###### 3.25.10. Manipulaciones.
+
+En la elaboración y venta de café se permite:
+
+a) La mezcla entre sí de cafés de diversas clases o tipos, siempre que se declare en la etiqueta la proporción de cada uno.
+
+b) La descafeinización por procedimientos autorizados, que no dejen en el producto residuos de las sustancias empleadas en la extracción.
+
+c) La molienda, en la elaboración de café molido envasado con las condiciones que reglamentariamente se fijen y, a petición del comprador de café en grano tostado natural y/o torrefacto, únicamente en aparatos colocados a la vista del público.
+
+###### 3.25.11. Prohibiciones.
+
+No se permite:
+
+a) La tostación o torrefacción de cafés que contengan granos y semillas extrañas al café, materias inertes y otras impurezas; los granos partidos de café no se considerarán materias extrañas.
+
+b) El proceso industrial de tostado y torrefacto del café en grano que produzca mermas superiores al 20 por 100 o inferiores al 12 por 100, referidas al peso en crudo.
+
+c) Cualquier tratamiento destinado a producir aumento en el peso del café.
+
+d) La venta para el consumo humano de cafés «agotados» y de sus mezclas con otros cafés en cualquier proporción.
+
+e) La descafeinización por procedimientos que eliminen o reduzcan la proporción de los otros componentes activos.
+
+f) La extracción, con carbón activo, de la cafeína de una bebida preparada con café.
+
+g) **(Derogado).**
+
+h) La venta de mezclas de productos descafeinados con otros que no hayan sido sometidos a este tratamiento, así como la mezcla de café con sucedáneos.
+
+> Téngase en cuenta que se modifica la letra h) en cuanto que autoriza la prohición existente de mezclar solubles de café, descafeinados o no, con solubles de sucedáneos de café, por el art. 1 del Real Decreto 2362/1985, de 4 de diciembre. [Ref. BOE-A-1985-26581](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-26581).
+
+i) El tratamiento del café con hidróxidos y carbonatos alcalinos o alcalino-térreos, sus combinaciones, ácido sulfuroso o sus sales.
+
+j) La adición de agua, agentes conservadores, colorantes, aceites minerales, resinas, glicerina, taninos, melazas, bórax y otras materias extrañas al producto.
+
+k) La elaboración de cafés y sus derivados, alterados o con caracteres organolépticos anormales.
+
+l)**(Derogado).**
+
+m) La venta a granel del café y sus derivados, no pudiendo fraccionarse los envases ni aun en presencia del comprador.
+
+n) El empleo de la palabra «café» en cualquier producto que no proceda de la semilla del café.
+
+ñ) La venta de cualquier producto que no responda a la definición del café con la forma que recuerde los granos de café.
+
+o) La venta de los cafés pobres en cafeína y los «agotados» con la denominación de «café descafeinado».
+
+p) La utilización de calificativos, tales como «desintoxicados» o «atóxicos» en los productos descafeinados.
+
+###### 3.25.12. y 3.25.13.
+
+**(Derogados).**
+
+> Se derogan los apartados 3.25.12 y 3.25.13, 3.25.11.l) por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+> Se derogan los apartados 3.25.01 a 3.25.08 por el art. 2 del Real Decreto 1676/2012, de 14 de diciembre. [Ref. BOE-A-2012-15656](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15656).
+
+> Téngase en cuenta que su contenido queda sustituido por las definiciones, denominaciones y características incluidas en la norma de calidad contenida en el mismo
+
+> Se modifica el apartado 3.25.11.h), en cuanto que autoriza la prohición existente de mezclar solubles de café, descafeinados o no, con solubles de sucedáneos de café, por el art. 1 del Real Decreto 2362/1985, de 4 de diciembre. [Ref. BOE-A-1985-26581](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-26581).
+
+> Se deroga la letra g) del apartado 3.25.11 y se modifica el apartado 3.25.10.c) por el art. 3 y la disposición final del Real Decreto 1597/1982, de 9 de julio. [Ref. BOE-A-1982-18525](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-18525).
+
+##### Sección 2.ª Sucedáneos del café y derivados
+
+###### 3.25.14. Sucedáneos del café.
+
+Es el producto sólido o líquido o mezcla de productos compuesto de partes comestibles de vegetales o extractos de vegetales, tostado y destinado a efectuar preparaciones que reemplacen el café como bebida fruitiva.
+
+###### 3.25.15. Clasificación.
+
+A efectos de este Código se distinguen entre otras las siguientes clases de sucedáneos del café:
+
+a) Achicoria.
+
+b) Malta tostada.
+
+e) Cebada tostada.
+
+###### 3.25.16. Achicoria.
+
+Es el producto elaborado con la rata de la planta «Cichorium intybus», L., convenientemente lavada, limpia, troceada, tostada, molida y tamizada.
+
+Contendrá, como mínimo, 50 por 100 de materia seca soluble en agua, y, como máximo, 15 por 100 de humedad. Sus cenizas totales no excederán del 10 por 100 sobre materia seca.
+
+###### 3.25.17. Malta tostada.
+
+Es el producto obtenido por tostado de la malta.
+
+Contendrá, como mínimo, 25 por 100 de materia seca soluble en agua, y como máximo, 8 por 100 de humedad. Sus cenizas totales no excederán del 3 por 100 sobre materia seca.
+
+###### 3.25.18. Cebada tostada.
+
+Es el producto obtenido por el tostado de la cebada, añadiendo en el proceso de elaboración el 10 por 100 de azúcar o glucosa.
+
+Contendrá como mínimo, 12 por 100 de materia seca soluble en agua, y, como máximo, 6 por 100 de humedad. Sus cenizas totales no excederán del 3 por 100 sobre materia seca.
+
+###### 3.25.19. Materias primas.
+
+Las primeras materias utilizadas en la elaboración de sucedáneos deberán ser de buena calidad, bien conservadas y estarán exentas de principios tóxicos y alcalóidicos, así como de cualquier otra sustancia cuya presencia no se permita en los alimentos destinados para el consumo humano.
+
+###### 3.25.20. Manipulaciones.
+
+En la elaboración y consumo de sucedáneos del café se permite:
+
+a) La adición a la achicoria y malta de azúcar o glucosa en proporción no superior al 10 por 100 en peso.
+
+b) La adición a la achicoria de aceites comestibles en proporción no superior al 3 por 100 en peso.
+
+c) La adición a la malta y cebada tostada de aceites vegetales, azúcares, jarabes y goma arábica en proporción total no superior al 2 por 100 en peso.
+
+d) La comercialización en forma de grano, granulado o prensado, molido con textura de sémola o polvo, concentrado líquido y extracto seco soluble.
+
+###### 3.25.21. Prohibiciones.
+
+No se permite:
+
+a) La adición de materias inertes sin valor alimenticio.
+
+b) La elaboración y venta para el consumo humano de sucedáneos alterados, enmohecidos, agrios, quemados o con caracteres organolépticos anormales.
+
+c) La elaboración y venta de sucedáneos que contengan granos y semillas extrañas u otras impurezas o estén mezclados con cafés «agotados».
+
+d) La venta para el consumo humano de sucedáneos del café «agotados» y de sus mezclas con otros sucedáneos en cualquier proporción.
+
+e) La adición de agentes conservadores, colorantes, aceites minerales, resinas, glicerina, taninos y melazas, bórax y otras materias extrañas al producto.
+
+f)**(Derogado).**
+
+g) El empleo en cualquier sucedáneo de las palabras «café», «esencia o extracto de café», «descafeinado» o vocablos análogos, simples o compuestos, que pueda inducir a error o engaño al consumidor.
+
+h) La venta, con el nombre de achicoria, malta tostada o cebada tostada, con o sin otro calificativo, de cualquier producto que no se adapte a las definiciones del sucedáneo correspondiente.
+
+i) La venta de sucedáneos con aspecto o forma similar a la del grano de café, que pueda inducir a confusión o engaño.
+
+j) **(Derogado).**
+
+###### 3.25.22. y 3.25.23.
+
+**(Derogados).**
+
+> Se derogan los apartados 3.25.22 y 3.25.23 y 3.25.21.f) y j) por la disposición derogatora única.a).iii e iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 3.ª Té y derivados
+
+###### 3.25.24. Té.
+
+Son las hojas jóvenes y las yemas, sanas y limpias de las distintas especies del género botánico «Thea», en buen estado de conservación, convenientemente preparadas para el consumo humano y poseyendo el aroma y gusto característico de su variedad y zona de producción.
+
+###### 3.25.25. Clasificación.
+
+A efectos de este Código se distinguen las siguientes clases de té y derivados:
+
+a) Té verde.
+
+b) Té negro.
+
+c) Té descafeinado.
+
+d) Extracto soluble de té.
+
+###### 3.25.26. Té verde.
+
+Es el té preparado, sin el proceso de fermentación, y que no haya sufrido disminución alguna de sus principios activos.
+
+Contendrá, como mínimo, 1 por 100 de cafeína y 28 por 100 de extracto acuoso, y, como máximo, 12 por 100 de humedad. Sus cenizas totales, expresadas en materia seca, no excederán del 7 por 100, debiendo ser soluble en agua al menos el 30 por 100 de ellas.
+
+###### 3.25.27. Té negro.
+
+Es el té convenientemente elaborado por fermentación, aunque conservando sus mismos principios activos.
+
+Contendrá, como mínimo, 1 por 100 de cafeína y 25 por 100 de extracto acuoso, y, como máximo, 12 por 100 de humedad. Sus cenizas totales, expresadas en materia seca, no excederán del 7 por 100, debiendo ser solubles en agua al menos el 30 por 100 de ellas.
+
+###### 3.25.28. Té descafeinado.
+
+Es el té, verde o negro, desprovisto de la mayor parte de su cafeína.
+
+Contendrá, como máximo, 1 por 1000 de cafeína. Sus restantes características corresponderán, según el caso, a las establecidas en los artículos 3.25.26 y 3.25.27 de este Código.
+
+###### 3.25.29. Extracto soluble de té.
+
+Es el producto, soluble en agua, obtenido por parcial o total evaporación de la infusión de té.
+
+Contendrá, como mínimo, 4 por 100 de cafeína, y, como máximo, 4 por 100 de humedad.
+
+###### 3.25.30. Manipulaciones.
+
+En la elaboración y consumo de té se permite:
+
+a) La mezcla entre sí de diversas especies de té.
+
+b) La presencia de los pecíolos de sus hojas, en mayor o menor cantidad, según el origen del té.
+
+###### 3.25.31. Prohibiciones.
+
+No se permite:
+
+a) El envasado para la venta de tés que contengan hojas y tallos extraños al té, materias inertes y otras impurezas.
+
+b) El tratamiento destinado a producir aumento en su peso.
+
+c) La venta para el consumo humano de tés «agotados».
+
+d) La mezcla de tés verdes con negros dentro de un mismo envase, aun cuando sean del mismo origen.
+
+e) La adición de agua, agentes conservadores, colorantes y otras materias extrañas al producto.
+
+f) El envasado y venta de tés y derivados, alterados o con caracteres organolépticos anormales.
+
+g) y h)) **(Derogados).**
+
+i) El empleo de la palabra «té» en cualquier producto que no proceda de las especies del género botánico «Thea».
+
+j) La utilización de calificativos tales como «desintoxicados» o «atóxicos» en los productos descafeinados.
+
+###### 3.25.32. y 3.25.33.
+
+**(Derogados).**
+
+> Se derogan los apartados 3.25.32 y 3.25.33 y 3.25.31.g) y h) por la disposición derogatora única.a).iii y iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 4.ª Estimulantes varios
+
+###### 3.25.34. Hierba mate.
+
+Son las hojas de ciertas especies del géneros «Illex», en buen estado de conservación y convenientemente preparadas para el consumo, poseyendo las propiedades estimulantes, aroma y gustos característicos de la especie a que pertenecen.
+
+###### 3.25.35. Cola (nuez de cola).
+
+Es la semilla de la «Cola vera», K. Sch.
+
+Para su utilización en el consumo humano deberá reunir las características fundamentales siguientes:
+
+a) Contendrá, como mínimo, 2,2 por 100 de cafeína, y, como máximo, 12 por 100 de humedad.
+
+b) Sus cenizas totales no excederán del 3 por 100.
+
+###### 3.25.36. Otras especies.
+
+Las semillas y plantas de diferentes especies aromáticas, utilizadas en la elaboración de otras infusiones estimulantes, tales como anís, manzanilla, menta y poleo, se ajustarán a lo dispuesto en el Capítulo XXIV de este Código y disposiciones en vigor de genérica aplicación.
+
+###### 3.25.37. Prohibiciones.
+
+No se permite:
+
+a) La venta de productos que contengan saponinas, materias inertes y otras impurezas.
+
+b) El envasado y venta de productos alterados, o con caracteres organolépticos anormales.
+
+c) La presencia de palos o ramas secas jóvenes en proporción superior al 15 por 100 y pecíolos y pedúnculos florales en la misma proporción.
+
+d) Las manipulaciones, en su caso, que por analogía no se autorizan para el té.
+
+###### 3.25.38. Comercialización.
+
+**(Derogado).**
+
+> Se deroga el apartado 3.25.38, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 5.ª Cacao y derivados
+
+###### 3.25.39. Clasificación.
+
+A efectos de este Código se distinguen los siguientes productos:
+
+a) Semilla de cacao.
+
+b) Cacao descascarillado o cacao en grano.
+
+c) Pasta de cacao.
+
+d) Manteca de cacao.
+
+e) Torta de cacao.
+
+f) Cacao en polvo.
+
+###### 3.25.40. Semilla de cacao.
+
+Es la procedente del cacaotero «Theobroma cacao», L., separada del resto del fruto fermentada y desecada.
+
+Sus características fundamentales serán:
+
+a) Aspecto, olor y sabor característicos.
+
+b) Contendrá, como máximo, 7 por 100 de humedad y 5 por 100 de impurezas (granos defectuosos y otros desperdicios de cacao) en materia seca desengrasada.
+
+###### 3.25.41. Cacao descascarillado.
+
+Es el procedente de los granos de cacao limpios, tostados o no, y desprovistos de su cáscara dentro de las tolerancias admitidas.
+
+Sus características fundamentales serán:
+
+a) Contendrá, como máximo, 6 por 100 de humedad y 4 por 100 de impurezas (cascarilla y otros desperdicios de cacao) en materia seca desengrasada).
+
+b) Las cenizas totales no excederán del 10 por 100, en materia seca desengrasada, con un 0,3 por 100 de cenizas insolubles en ácido clorhídrico como máximo.
+
+###### 3.25.42. Pasta de cacao.
+
+Es el producto obtenido por la molturación del cacao descascarillado tostado, con las características indicadas en 3.25.41.
+
+Contendrá, como mínimo, el 50 por 100 de manteca de cacao en materia seca. Cuando se elabore con fines industriales podrá denominarse «Cobertura amarga».
+
+###### 3.25.43. Manteca de cacao comestible o de presión.
+
+Es el producto obtenido por presión del cacao descascarillado, o de la pasta de cacao.
+
+Sus características fundamentales serán:
+
+a) Masa sólida que funde al paladar, de color blanco o amarillento, con olor y sabor a cacao.
+
+b) Tendrá acidez inferior al 2,25 por 100, expresada en ácido oleico.
+
+c) Contendrá, corno máximo, 0,5 por 100 de humedad e impurezas.
+
+d) No contendrá grasas extrañas ni ninguna otra adición.
+
+###### 3.25.44. Torta de cacao.
+
+Es el producto que resulta después de la separación de la manteca de cacao por presión.
+
+Contendrá, como mínimo, 10 por 100 de manteca de cacao, y como máximo, 4 por 100 de impurezas (cascarilla, embriones y otros desperdicios del cacao) en materia seca desengrasada.
+
+###### 3.25.45. Cacao en polvo.
+
+Es el producto obtenido de la pulverización de la torta de cacao.
+
+Según su contenido en materia grasa, será:
+
+a) «Normal», el que contiene un mínimo de 20 por 100 de manteca de cacao en materia seca, y, como máximo, 8 por 100 de humedad y 4 por 100 de impurezas en materia seca desengrasada.
+
+b) «Semidesengrasado», el que contiene un mínimo del 100 por 100 de manteca de cacao, sin llegar al 20 por 100, ambos en materia seca, y sin que varíen los demás componentes.
+
+###### 3.25.46. Cacao azucarado en polvo.
+
+Es el obtenido de la mezcla de polvo de cacao y azúcar. Contendrá, como mínimo, 32 por 100 de «cacao en polvo», normal o semidesengrasado, con ausencia total de otras sustancias.
+
+###### 3.25.47. Manipulaciones.
+
+Se permite:
+
+a) Solubilizar el cacao descascarillado, la pasta y torta de cacao y el cacao en polvo con carbonatos o hidróxidos alcalinos, carbonato y óxidos magnésicos, soluciones amoniacales o vapor de agua. A los productos así tratados podrá añadirse 0,5 por 100, como máximo, de ácidos cítrico o tartárico.
+
+Los cacaos en polvo solubilizados no contendrán más del 14 por 100 de cenizas sobre materia seca desengrasada, y su alcalinidad no excederá del 5 por 100, expresada en carbonato potásico, en materia seca desengrasada.
+
+b) Purificar la manteca de cacao por filtración o centrifugación y desodorizarla con vapor de agua.
+
+c) Adicionar lecitina vegetal pura, en proporción no superior al 0,3 por 100 en el cacao en polvo. Su declaración no es obligatoria.
+
+###### 3.25.48. Prohibiciones.
+
+No se permite:
+
+a) Emplear grasas extrañas, ni aceites minerales en la elaboración de estos productos.
+
+b) Adicionar cascarillas de cacao, sustancias inertes, harinas o féculas, dextrinas y otros productos extraños, así como conservadores, colorantes, edulcorantes artificiales y otras sustancias no mencionadas en el artículo anterior.
+
+c) Utilizar cacaos en mal estado de conservación o atacados por parásitos, con síntomas de enranciamiento y sustancias nocivas.
+
+d) La venta a granel de las distintas clases de cacao, no pudiendo fraccionarse los envases, ni aun en presencia del público.
+
+e) Sustituir la denominación de estos productos por otros que comprendan o tengan relación con la palabra chocolate.
+
+###### 3.25.49. y 3.25.50.
+
+**(Derogados).**
+
+> Se derogan los apartados 3.25.49 y 3.25.50, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 6.ª Chocolate y derivados
+
+###### 3.25.51. Chocolate.
+
+Es el producto obtenido por la mezcla íntima y homogénea de cantidades variables de cacao en polvo o pasta de cacao y azúcar finamente pulverizada, adicionada o no de manteca de cacao.
+
+Contendrá, como mínimo, el 35 por 100 de componentes del cacao. El contenido en cacao seco desengrasado no será nunca inferior al 14 por 100 ni el de manteca de cacao inferior al 18 por 100, todo ello expresado sobre materia seca.
+
+Se denominará «chocolate fino» el que contenga más del 26 por 100 de manteca de cacao, sin exceder del 32 por 100, todo ello expresado sobre materia seca, y «chocolate fundente» si excediera de dicho 32 por 100.
+
+###### 3.25.52. Chocolate con leche.
+
+Es el producto homogéneo obtenido de cantidades variables de los componentes del chocolate, descrito en el artículo anterior, adicionados de leche, desengrasada o no.
+
+Contendrá corno mínimo en materia seca, 4 por 100 de cacao seco desengrasado; 22 por 100 de componentes totales del cacao; 10,5 por 100 de los sólidos desengrasados de la leche en sus proporciones naturales, y 20 por 100 de materia grasa total.
+
+Se denominará «chocolate a la nata» el que contenga más de 7 por 100 de grasa de la leche, siempre que el extracto seco magro de la misma se encuentre comprendido entre el 3 y el 14 por 100.
+
+###### 3.25.53. Chocolate con frutos secos o con cereales.
+
+Es el «chocolate» o «chocolate con leche» al que se han adicionado, enteros o troceados, almendras, avellanas, nueces y piñones o granos de cereales tostados o insuflados.
+
+El contenido mínimo en tales frutos o granos será del 8 por 100, sin sobrepasar el 40 por 100.
+
+La masa del chocolate, una vez separada en su totalidad de tales adiciones, responderá, según el caso, a las características establecidas en los artículos 3.25.51 y 3.25.52 de este Código.
+
+###### 3.25.54. Chocolate con frutas.
+
+Es el «chocolate» o «chocolate con leche» adicionado de frutas, enteras o troceadas, desecadas o confitadas.
+
+El contenido mínimo en tales frutas será del 5 por 100, sin sobrepasar el 40 por 100.
+
+La masa del chocolate, una vez separada en su totalidad de tales adiciones, responderá, según el caso, a las características establecidas en los artículos 3.25.51 y 3.25.52 de este Código.
+
+###### 3.25.55. Cobertura dulce.
+
+Es la mezcla de pasta de cacao y azúcar, con o sin adición de manteca de cacao para fines industriales.
+
+Contendrá, como mínimo, 31 por 100 de manteca de cacao y 35 por 100 de componentes del cacao, expresados sobre materia seca.
+
+###### 3.25.56. Cobertura con leche.
+
+Es la cobertura que, ajustándose a las características propias del chocolate con leche, contiene un 31 por 100, como mínimo, de grasa total, expresado sobre materia seca.
+
+###### 3.25.57. Manipulaciones.
+
+Se permite:
+
+a) Aromatizar el chocolate y las coberturas con especias y sustancias aromáticas autorizadas.
+
+b) Adicionar lecitina vegetal pura en proporción no superior al 3 por 1.000. Su declaración no es obligatoria.
+
+c) Reemplazar parcialmente la sacarosa por glucosa, fructosa o lactosa, en cantidades no superiores al 5 por 100 del peso total del producto terminado, sin declaración específica. Cantidades superiores precisarán su mención cuantitativa en la etiqueta.
+
+###### 3.25.58. Prohibiciones.
+
+No se permite:
+
+a) Emplear en la elaboración de chocolates y coberturas cascarilla de cacao, harinas y féculas, dextrina, sustancias inertes y otros productos no autorizados en este Código.
+
+b) Utilizar aceites minerales, semillas y tortas de oleaginosas, grasas concretas, grasas hidrogenadas y cualquier otra ajena a la manteca de cacao, con excepción de la grasa de la leche.
+
+c) Adicionar productos que entorpezcan la identificación de las grasas del chocolate.
+
+d) Adicionar conservadores, colorantes, edulcorantes artificiales y otras sustancias no mencionadas en el artículo anterior.
+
+e) Poner a la venta chocolates y coberturas alteradas o en mal estado de conservación.
+
+###### 3.25.59. Almacenamiento y transporte.
+
+**(Derogado).**
+
+###### 3.25.60. Envasado y rotulación.
+
+Se observarán las siguientes normas:
+
+a) y b) **(Derogados).**
+
+c) En la documentación comercial y etiquetas se consignará lo previsto en el Capítulo IV de este Código, indicando claramente la clase de elaboración, con arreglo a las denominaciones indicadas en los artículos 3.25.51 al 3.25.56 del mismo, incluyendo, en su caso, el nombre de frutos secos, frutas o cereales adicionados.
+
+d) a f) **(Derogados).**
+
+> Se derogan los apartados 3.25.59 y 3.25.60.a), b), d), e) y f) por la disposición derogatora única.a).iii y iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 7.ª Derivados especiales del cacao, del chocolate y de la manteca de cacao
+
+###### 3.25.61. Derivados especiales.
+
+Tendrán esta consideración los productos preparados con determinada proporción de cacao, manteca de cacao, chocolate o coberturas, que a continuación se enumeran:
+
+a) Cacao azucarado en polvo, con harina.
+
+b) Chocolate con harina.
+
+c) Chocolates especiales.
+
+d) Chocolates de régimen.
+
+e) Chocolates rellenos.
+
+f) Bombones de chocolate y artículos de confitería, de cacao y chocolate.
+
+g) Derivados de manteca de cacao.
+
+###### 3.25.62. Cacao azucarado en polvo y con harina.
+
+Es el cacao azucarado en polvo adicionado de harinas de trigo o arroz, sus féculas o la de maíz, para su consumo cocido.
+
+Sus características fundamentales son.
+
+Contenidos mínimos de 32 por 100 de cacao en polvo y 50 por 100 de azúcares en materia seca, y máximo de 15 por 100 de harinas de trigo o arroz, sus féculas o la de maíz.
+
+###### 3.25.63. Chocolate con harina.
+
+Es el «chocolate» o «chocolate con leche» elaborado con harinas de trigo o arroz, sus féculas o la de maíz para su consumo cocido.
+
+Sus características fundamentales son:
+
+Contendrá, como mínimo, 14 por 100 de cacao seco y desengrasado, 16 por 100 de manteca de cacao, y máximo de 15 por 100 de harinas de trigo o arroz, sus féculas o la de maíz.
+
+###### 3.25.64. Chocolates especiales.
+
+Son el «chocolate» o «chocolate con leche», adicionado de miel, extracto de malta, huevos, café, concentrados y zumos de frutas, que formen un todo homogéneo con la masa del chocolate.
+
+Sus características fundamentales serán, según el caso, las establecidas para el «chocolate» y el «chocolate con leche», modificadas por los alimentos añadidos.
+
+El contenido en café del «chocolate al café» no será inferior al 15 por 1.000 de café tostado natural molido, o a la cantidad correspondiente de extracto de café.
+
+###### 3.25.65. Chocolates de régimen.
+
+Son aquellos productos derivados del cacao o chocolate que, cumpliendo los mínimos establecidos en este Capítulo para las proporciones de manteca de cacao y cacao seco desengrasado, se ajusten a lo dispuesto en les artículos 3.26.26 al 3.26.29, ambos inclusive.
+
+Estos productos deberán presentarse de tal forma que no puedan confundirse con el cacao en polvo, el chocolate u otros de sus derivados. En la envoltura, además de la fórmula cualitativa, se consignará, de manera destacada, la expresión «Chocolate dietético» o «Chocolate de régimen».
+
+###### 3.25.66. Chocolates rellenos.
+
+Son preparados de composición variada, presentados en forma de barras o tabletas, recubiertas de chocolates o coberturas, con o sin leche, cuyo interior o «relleno» está constituido por diversos productos de confitería o licores.
+
+La cobertura exterior de chocolate representará, como mínimo, el 35 por 100 del peso total.
+
+El «relleno» deberá distinguirse de la cobertura exterior y responder a las características exigidas para los productos que los componen.
+
+###### 3.25.67. Bombones de chocolate y artículos de confitería de cacao y chocolate.
+
+Son preparados de forma y composición variada, con un contenido mínimo del 10 por 100 de chocolate, designados con la denominación que caracteriza a cada uno de ellos.
+
+Las características fundamentales del chocolate serán, según el caso, las establecidas para el «chocolate», «chocolate fino», «chocolate fundente», «chocolate con leche» y coberturas.
+
+Las características de las masas y rellenos responderán a las exigidas para las primeras materias empleadas en su elaboración, con las variaciones propias de sus distintos componentes.
+
+Cuando estos productos lleven el nombre de una fruta, deberán contener en sus masas o rellenos al menos el 5 por 100 de la fruta o la cantidad correspondiente de zumo, concentrado o pulpa.
+
+Los preparados con licores no deberán contener más alcohol, calculado en alcohol absoluto, que el de 6 por 100 del producto total.
+
+###### 3.25.68. Derivados de manteca de cacao.
+
+Son mezclas en distintas proporciones de manteca de cacao con azúcar y componentes naturales de la leche, con un mínimo del 20 por 100 de manteca de cacao, 14 por 100 de los componentes sólidos de la leche y un máximo del 55 por 100 de azúcar.
+
+###### 3.25.69. Características de los componentes.
+
+La composición del cacao y chocolate utilizados en la elaboración de sus derivados cumplirán las características señaladas en este Capítulo para el cacao en polvo, chocolate, chocolate con leche o coberturas, admitiéndose las manipulaciones indicadas en sus artículos 3.25.47 y 3.25.57.
+
+El resto de los componentes de estos derivados deberán, asimismo, reunir las condiciones exigidas para cada uno de ellos en este Código, permitiéndose únicamente aquellas manipulaciones autorizadas para los respectivos productos de confitería y pastelería.
+
+###### 3.25.70. Manipulaciones.
+
+En la elaboración y comercio de derivados especiales del cacao y del chocolate se permite:
+
+a) Barnizar los derivados de fantasía del chocolate con goma laca o benjuí.
+
+b) Aromatizar los derivados del cacao con arreglo a lo dispuesto para el chocolate en el artículo 3.25.57 de este Código.
+
+c) Adicionar a los derivados del cacao y chocolate lecitina vegetal pura en las proporciones señaladas en este Capítulo.
+
+###### 3.25.71. Prohibiciones.
+
+En la elaboración y comercio de derivados especiales del cacao y del chocolate se prohíbe:
+
+a) Añadir al cacao y chocolate utilizados las sustancias prohibidas en los artículos 3.25.48 y 3.25.58 de este Código.
+
+b) Emplear dibujos relacionados con las frutas u otros alimentos añadidos cuando los chocolates rellenos, bombones de chocolate y artículos de confitería de cacao o chocolate se hayan aromatizado con aromas artificiales autorizados.
+
+c) La fabricación, elaboración y venta de sucedáneos del cacao, del chocolate y derivados de ambos.
+
+d) La adición en la masa de los chocolates especiales de pastas de frutos secos.
+
+###### 3.25.72. Almacenamiento y transporte.
+
+**(Derogado).**
+
+###### 3.25.73. Envasado y rotulación.
+
+Se observarán, por analogía, las mismas normas establecidas en los artículos 3.25.50 y 3.25.60 de este Código, y además las siguientes:
+
+a) En las denominaciones específicas de los chocolates rellenos se reflejarán las características de la cobertura y contenido interior.
+
+b) Podrá usarse la denominación al «cacao» en los productos alimenticios sólidos a los que, por adición practicada, contengan un mínimo del 10 por 100 de cacao en materia seca, y en los líquidos que contengan un mínimo del 6 por 100.
+
+c) Los productos alimenticios adicionados de cacao que no alcancen los mínimos establecidos en el apartado anterior podrán denominarse «Gusto a cacao».
+
+d) En la propaganda y etiquetas se indicará claramente la clase de elaboración con arreglo a las denominaciones indicadas en el artículo 3.25.61 de este Código, complementándolas con los datos necesarios para identificar el tipo de preparado alimenticio a que corresponde.
+
+e) En la rotulación y etiquetado del «chocolate especial» se declararán sus componentes. En las del «cacao en polvo con harina» y «chocolate con harina» se hará constar además la indicación «Para su consumo cocido».
+
+En la reglamentación correspondiente se fijarán características de las envolturas y otros detalles que permitan distinguir estas derivados de los cacaos y chocolates a que se refieren los artículos 3.25.39 y 3.25.51 al 3.25.54 de este Código.
+
+> Se deroga el apartado 3.25.72, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 8.ª Tabaco
+
+###### 3.25.74. Tabaco.
+
+Son las hojas de diversas variedades de la especie «Nicotiana Tabacum», L., convenientemente desecadas, fermentadas, elaboradas y conservadas.
+
+###### 3.25.75. Clasificación.
+
+A efectos de este Código los tabacos genuinos y tratados se clasificarán, en función de su contenido en alcaloides, en los siguientes grupos:
+
+a) Tabaco genuino.
+
+b) Tabaco pobre en nicotina.
+
+c) Tabaco desnicotinizado.
+
+###### 3.25.76. Tabaco genuino.
+
+Es el elaborado con sus hojas, sin contaminación alguna, y que responde al aroma y gustos características de su clase, variedad y zona de producción.
+
+Contendrá, como mínimo, 8 por 1.000 de alcaloides totales, expresados en nicotina sobre materia seca, y, como máximo, 15 por 100 de humedad.
+
+###### 3.25.77. Tabaco pobre en nicotina.
+
+Es el «tabaco genuino» cuyo contenido en nicotina sea superior al 4 por 1.000, pero sin exceder del 8 por 1.000 sobre materia seca.
+
+###### 3.25.78. Tabaco desnicotinizado.
+
+Es el «tabaco genuino» cuyo contenido en nicotina no exceda del 4 por 1.000 sobre materia seca.
+
+###### 3.25.79. Manipulaciones.
+
+En la elaboración de tabaco, cigarros y cigarrillos se permite utilizar o adicionar:
+
+a) Agua, amoníaco, ácido acético, láctico, cítrico y tartárico.
+
+b) Azúcar de caña, de higos, de arce o invertida, glucosa, melaza, miel, regaliz, sustancias aromáticas autorizadas y agua de rosas.
+
+c) Mentol, vainillina, cumarina, cacao, goma, cloruro sódico, nitratos, carbonatos, cloruros alcalinos y hasta 1 por 100 de cal en forma de agua de cal.
+
+d) Jugos concentrados de frutas y extractos o partes de haba Tonka («Dipterix odorata», Willd), meliloto («Mellilotus officinalis», Ders.), asperilla («Asperula odorata», L.), vainilla de carolina («Liatrix odoratissima», Mich.) y otras especies que contengan cumarina.
+
+f) Glicerina, etilenglicol o propilenglicol.
+
+g) Los edulcorantes artificiales y productos conservadores autorizados para estas elaboraciones en las listas positivas complementarias de los Capítulos XXXI y XXXIII de este Código.
+
+h) En la elaboración de cigarros y cigarrillos, el empleo de adhesivos a base de agua con caseína, almidón, dextrina, goma tragacanto o arábiga y otros productos inofensivos.
+
+###### 3.25.80. Papeles para cigarrillos.
+
+**(Suprimido).**
+
+###### 3.25.81. Filtros.
+
+Los filtros para cigarros y cigarrillos, así como aquellos para utilizarse en pipas y boquillas, estarán formados por una base inerte filtrante, impregnada o no por sustancias absorbentes fijas.
+
+###### 3.25.82. Prohibiciones.
+
+En la elaboración, publicidad y consumo del tabaco no se permite:
+
+a) Cualquier tratamiento destinado a producir en las elaboraciones de tabaco un aumento de peso fraudulento.
+
+b) La presencia de arsénico, plomo, cinc y otros metales nocivos en el tabaco, cigarros y cigarrillos.
+
+c) La adición de vegetales extraños y otras impurezas.
+
+d) Emplear denominaciones tales como «desintoxicado», «atóxico», «nicotina neutralizada» o vocablos y expresiones similares, que induzcan a error o engaño al fumador.
+
+e) Utilizar en la propaganda de los cigarrillos con filtro expresiones que exageren sus propiedades (antialquitranes, antigases y antinicotínicas), así como otras indicaciones que induzcan a excesos en el hábito de fumar.
+
+f) Utilizar en la propaganda de los cigarrillos con filtro substancias nocivas o volátiles al contacto con el humo de tabaco.
+
+###### 3.25.83. Almacenamiento y transporte.
+
+En el almacenamiento y transporte de las elaboraciones de tabaco, además de las condiciones establecidas en el Capítulo VI de este Código, se mantendrán las condiciones ambientales adecuadas, con absoluta separación de otros productos, evitándose la absorción de olores extraños.
+
+###### 3.25.84. Envasado.
+
+Los envases para la venta de elaboraciones de tabaco se ajustarán en cuanto a su contenido, etiquetado, rotulación y precintado a lo dispuesto en el Capítulo IV de este Código y disposiciones complementarias.
+
+Las hojas metálicas utilizadas para envolver directamente el tabaco y sus elaboraciones no deberán contener más de 1 por 100 de plomo, 3 por 100 de antimonio y estarán exentas de arsénico.
+
+> Se suprime el apartado 3.25.80 por la disposición final 2 del Real Decreto 579/2017, de 9 de junio. [Ref. BOE-A-2017-6585](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-6585)
+
+#### Capítulo XXVI — 3.26.00. Conservas animales y vegetales. Platos preparados. Productos dietéticos y de régimen
+
+##### Sección 1.ª Conservas
+
+###### 3.26.01. Conservas.
+
+Productos obtenidos a partir de alimentos perecederos de origen animal o vegetal, con o sin adición de otras sustancias autorizadas, contenidos en envases apropiados, herméticamente cerrados tratados exclusivamente por el calor, en forma que asegure su conservación.
+
+Semi-conservas. Son productos establecidos para un tiempo limitado, por un tratamiento apropiado y mantenidos en recipientes impermeables al agua a presión normal. Su duración de utilización puede prolongarse almacenándolos en frigoríficos.
+
+Platos preparados. Son los productos obtenidos por mezcla y condimentación de alimentos animales y vegetales, con o sin adición de otras sustancias autorizadas, contenidas en envases apropiados, herméticamente cerrados y tratados por el calor u otro procedimiento que asegure su conservación, y prestos a ser consumidos después de un simple calentamiento.
+
+###### 3.26.02. Clasificación.
+
+Se distinguen principalmente:
+
+a) Carne.
+
+b) Pescado, moluscos y crustáceos.
+
+c) Frutas.
+
+d) Verduras.
+
+e) Platos preparados.
+
+###### 3.26.03. Manipulaciones.
+
+En la preparación y obtención de las conservas, semiconservas y platos preparados serán preceptivas las siguientes normas:
+
+a) El lavado de las materias primas, con agua potable, en instalaciones técnicas que aseguren una limpieza efectiva.
+
+b) El escaldado, en aquellos productos que lo necesiten, exclusivamente con vapor de agua o agua a temperatura de 80-100 grados centígrados.
+
+c) El tratamiento de aquellos productos que industrialmente lo precisen con anhídrido sulfuroso gaseoso o en disolución, pero nunca el residuo que quede de este último en las conservas será superior a 12,5 gramos por 1.000 en peso.
+
+d) El pelado de las frutas con soluciones alcalinas, temperaturas adecuadas o cualquier otro método autorizado.
+
+e) El vacío parcial en el espacio de cabeza de los envases por inyección de vapor, cerradores de vacío u otro procedimiento técnico adecuado.
+
+f) La esterilización de los envases cerrados se hará en autoclave o por cualquier otro método autorizado. Su enfriamiento posterior se realizará con agua higienizada.
+
+En las reglamentaciones correspondientes se detallarán las condiciones de tiempo, temperatura y presión en relación con la naturaleza del producto y tamaño de los envases.
+
+g) La comprobación de las materias primas, envases y lotes de fabricación, en cuanto a normas de calidad, cifras analíticas, exámenes microscópicos y microbiológicos y, en general, cuantas pruebas exijan una garantía de fabricación correcta y se establezcan en las reglamentaciones complementarias.
+
+###### 3.26.04. Sustancias complementarias.
+
+Se autoriza agregar, cuando convenga y en las proporciones que autorice la reglamentación en cada caso, los productos que se indican:
+
+a) Agua potable, edulcorantes naturales y sorbitol.
+
+b) Zumos vegetales, vinos, alcoholes y aguardientes.
+
+c) Grasas alimenticias.
+
+d) Especias, condimentos y aromatizantes autorizados.
+
+e) Aditivos incluidos para este uso en las listas positivas de este Código.
+
+f) Acidulantes y neutralizantes incluidos en las listas positivas, complementarias de este Código.
+
+###### 3.26.05. Características.
+
+Las conservas deben satisfacer las exigencias generales siguientes:
+
+a) Estar en perfecto estado de consumo.
+
+b) Proceder de materia prima que no esté alterada, ni presente síntomas de descomposición, con la madurez y tamaño convenientes.
+
+c) Exentas de materias extrañas.
+
+d) Estar envasadas, en condiciones técnicas apropiadas, con materiales que resistan al tratamiento y a la acción de los componentes del producto.
+
+e) Haber sufrido esterilización, de forma que proporcione al producto la máxima estabilidad en condiciones de consumo.
+
+f) Haber sufrido un tratamiento térmico tal que garantice la inactivación de esporas de «C. Botulinum» u otros esporulados.
+
+g) Las materias primas a conservar satisfarán las condiciones y requisitos ordenados en este Código y reglamentaciones complementarias.
+
+###### 3.26.06. a 3.26.08.
+
+**(Derogados).**
+
+> Se derogan los apartados 3.26.06 a 3.26.08, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 2.ª Platos precocinados y preparados congelados
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.f) del Real Decreto 3484/2000, de 29 de diciembre. [Ref. BOE-A-2001-809](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-809).
+
+##### Sección 3.ª Preparados alimenticios especiales
+
+###### 3.26.13. Concepto.
+
+Son aquellos productos que, sin reunir las condiciones de los precocinados y platos preparados, proporcionan, por medio de una simple dilución o calentamiento, determinados alimentos de inmediato consumo.
+
+###### 3.26.14. Clasificación.
+
+Se distinguen entre otros los siguientes:
+
+a) Preparados para caldos.
+
+b) Preparados para sopas.
+
+c) Preparados para flanes, cremas.
+
+d) Preparados para desayunos.
+
+###### 3.26.15. a 3.26.20
+
+**(Derogados)**
+
+###### 3.26.21. Preparados para flanes, cremas y postres instantáneos.
+
+Estarán constituidos por mezclas de productos de molinería y féculas autorizadas, polvo de leche entera o magra, polvo de huevo, azúcar, jugos de fruta concentrados en polvo y otros diferentes ingredientes, como cacao, almendras y nueces molidas, frutas desecadas enteras o partidas, especias, sustancias aromáticas y otros productos alimenticios. Podrán contener colorantes y espesantes permitidos en las listas positivas.
+
+Los espesantes básicos para «pudings» o «cremas» y con este destino exclusivo, tendrán como mínimo 25 por 100 de sustancias espesantes autorizadas en las listas positivas.
+
+Se advertirá en las instrucciones para su empleo la dosis por litro de leche y la necesidad de su pronto consumo, a no ser que se conserve en refrigerador en condiciones que impidan su contaminación.
+
+###### 3.26.22. Prohibiciones.
+
+Queda prohibido:
+
+a) La adición de harinas, féculas y aditivos no consignados en este Código.
+
+b) La presencia de residuos y tortas procedentes de la extracción de zumos de frutas o de aceites.
+
+###### 3.26.23. Preparados para desayunos.
+
+Son los productos para ser consumidos después de interposición o dilución con leche o agua, en algunos casos con ayuda del calor o cocción subsiguientes. Constituidos principalmente por mezcla de algunos de los productos siguientes: cereales, harinas de cereales o de leguminosas, féculas o productos derivados de su hidrólisis, leche desecada o condensada, polvo de huevo, así como grasas alimenticias, polvo de cacao y aromatizantes, sometidos o no a tratamientos técnico complementarios.
+
+###### 3.26.24. Envasado y rotulación de los preparados alimenticios especiales.
+
+Los preparados alimenticios especiales deberán ser envasados y rotulados en recipientes o envolturas que reúnan las condiciones especificadas en el Capítulo IV de este Código y adecuadas a la naturaleza del producto y en forma que éste conserve sus cualidades organolépticas y permita su dosificación.
+
+En los rótulos figurarán, además, los siguientes datos:
+
+a) Peso neto o el volumen del producto.
+
+b) Composición cualitativa relacionando los componentes con su nombre usual, por orden decreciente de su proporción. Si contiene sal o aditivos figurarán en todo caso en último lugar.
+
+c) Número del lote, fechas de elaboración y de caducidad en clave, cuando sea limitada su conservación.
+
+d) Peso o volumen del alimento que debe resultar, dispuesto para el consumo, expresado en número de platos o raciones, que se entiende cada uno de 250 gramos en peso y un cuarto de litro en volumen, salvo indicación en contrario. Si el tamaño del envase no permite consignar en él las indicaciones del empleo, figurarán éstas en prospecto adjunto.
+
+###### 3.26.25. Prohibiciones comunes.
+
+En la preparación y venta de todos los preparados alimenticios especiales queda prohibido:
+
+a) La venta a granel.
+
+b) El empleo de toda indicación, signo o modo de presentación susceptible de inducir a error en el comprador, sobre la naturaleza, calidades sustanciales, composición, peso, volumen o número de raciones.
+
+> Se derogan los apartados 3.26.15 a 3.26.20 por la disposición derogatoria única del Real Decreto 2452/1998, de 17 de noviembre. [Ref. BOE-A-1998-26925](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-26925).
+
+##### Sección 4.ª Productos dietéticos y de régimen
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatora única.a).ii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+##### Sección 5.ª Alimentos enriquecidos y sustancias enriquecedoras
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatora única.a).ii del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo XXVII — 3.27.00. Aguas y hielo
+
+##### Sección 1.ª Aguas de consumo
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 1423/1982, de 18 de junio. [Ref. BOE-A-1982-16316](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-16316).
+
+> Téngase en cuenta la disposición transitoria, para su aplicación.
+
+##### Sección 2.ª Aguas minerales y de mesa
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 1164/1991, de 22 de julio. [Ref. BOE-A-1991-19201](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-19201).
+
+##### Sección 3.ª Hielo
+
+###### 3.27.25. Hielo alimenticio.
+
+Es únicamente el artificial, fabricado a partir de agua potable, que ofrezca los siguientes caracteres:
+
+a) Ser inodoro, incoloro e insípido y estar exento de impurezas visibles.
+
+b) Dar por fusión un líquido que satisfaga las condiciones de pureza y potabilidad exigidas para las aguas.
+
+###### 3.27.26. Clasificación.
+
+Se distinguirán las siguientes clases de hielo alimenticio:
+
+a) Mate u opaco: Elaborado, por congelación, con agua potable en reposo. Con aspecto lechoso.
+
+b) Claro o semitransparente: Elaborado por congelación de agua potable, agitada mecánicamente durante el proceso. Transparente en todo su espesor, excepto el núcleo, que será opaco.
+
+c) Cristalino: Preparado exclusivamente con agua destilada o desionizada y privada de aire. Debe ser transparente en toda su masa.
+
+###### 3.27.27. Prohibición.
+
+Se prohíbe destinar a la refrigeración de productos alimenticios hielo que no se ajuste a las condiciones que establecen los dos artículos anteriores.
+
+###### 3.27.28. Hielo para usos especiales.
+
+La elaboración de hielo con agua de mar, con soluciones de sal o de otros productos deberá autorizarse exclusivamente con destino a fines específicos y con caracteres tales que no puedan confundirse en ningún caso con el hielo alimenticio.
+
+#### Capítulo XXVIII — 3.28.00. Helados
+
+#### (Derogado)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 618/1998, de 17 de abri. [Ref. BOE-A-1998-9963](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-9963).
+
+#### Capítulo XXIX — 3.29.00. Bebidas no alcohólicas
+
+###### 3.29.01. Denominación genérica.
+
+Se considerarán bebidas no alcohólicas o refrescantes aquellas bebidas no fermentadas, carbónicas o no, preparadas con agua potable o mineral, ingredientes característicos y demás productos autorizados en este Capítulo.
+
+###### 3.29.02. Componentes.
+
+Las bebidas no alcohólicas o refrescantes deberán contener fundamentalmente uno o varios de los siguientes ingredientes:
+
+a) Zumos de frutas.
+
+b) Extractos de frutas o de partes de plantas comestibles.
+
+c) Frutas, tubérculos y semillas disgregados.
+
+d) Esencias naturales, agentes aromáticos y sustancias sápidas.
+
+e) Edulcorantes naturales.
+
+f) Anhídrido carbónico.
+
+g) Agua potable.
+
+h) Agua mineral.
+
+###### 3.29.03. Clasificación.
+
+Las bebidas no alcohólicas o refrescantes se clasificarán en los siguientes grupos:
+
+a) Aguas gaseadas.
+
+b) Gaseosas.
+
+c) Bebidas de zumos de frutas.
+
+d) Bebidas de extractos.
+
+e) Bebidas de frutas, de tubérculos y de semillas disgregados.
+
+f) Bebidas aromatizadas.
+
+###### 3.29.04. Aguas gaseadas.
+
+Bebidas inodoras, transparentes e incoloras, constituidas por agua potable y anhídrido carbónico exclusivamente (agua de Seltz), o que, además, contengan sales minerales y entre ellas bicarbonato sódico (agua de soda).
+
+No se permite ninguna otra adición, y el producto elaborado, dispuesto para la venta, responderá fundamentalmente a las siguientes características:
+
+a) Ocho volúmenes de anhídrido carbónico, como mínimo, en el agua de Seltz y tres volúmenes en el agua de soda, en condiciones normales, por unidad de volumen de producto.
+
+b) Tres decigramos de bicarbonato sódico, como mínimo, por litro de agua de soda.
+
+###### 3.29.05. Gaseosas.
+
+Bebidas transparentes e incoloras, preparadas con agua potable y anhídrido carbónico, con la eventual adición de ácidos cítrico, tartárico y láctico, aromas de frutos cítricos, edulcorantes naturales o artificiales incluidos en las listas positivas.
+
+Se permitirá la presencia o utilización de las sustancias y en las proporciones indicadas en los párrafos a), c), e) y k) del artículo 3.20.12 de este Código, y el producto elaborado, dispuesto para la venta, responderá fundamentalmente a las siguientes características:
+
+a) Un volumen, como mínimo, de anhídrido carbónico, en condiciones normales, por unidad de volumen de producto.
+
+b) Aromas de frutos cítricos en cantidad adecuada.
+
+###### 3.29.06. Bebidas de zumos de frutas.
+
+Elaboradas con zumos de dicha procedencia, agua potable o mineral, azúcar y otros productos autorizados, adicionados o no de anhídrido carbónico.
+
+Se permite la presencia o utilización de esencias y aromas naturales, y la de las sustancias y en las proporciones indicadas en los incisos a), c) al e) y h) al f) del artículo 3.29.12 de este Código, y el producto elaborado dispuesto para la venta responderá fundamentalmente a las siguientes características:
+
+a) Zumos cítricos, en proporción de 6 y 8 por 100 en peso, como mínimo, respectivamente, para las bebidas de limón y naranja.
+
+b) Zumos de manzana y albaricoques, en proporción del 16 por 100 en peso, como mínimo.
+
+c) Zumos de uvas, en proporción del 22 por 100 en peso, como mínimo.
+
+d) Zumos de otras frutas, en proporción del 6 por 100 en peso, como mínimo.
+
+e) Azúcares totales, como mínimo 8 por 100 en peso.
+
+f) Un volumen de anhídrido carbónico. Como mínimo en las gaseadas, en condiciones normales, por unidad de volumen de producto.
+
+###### 3.29.07. Bebidas de extractos.
+
+Bebidas, carbónicas o no, elaboradas con extractos de frutas o de partes de plantas comestibles, agua potable, edulcorantes naturales y otros productos autorizados.
+
+Se permite la presencia o utilización de las sustancias y en las proporciones indicadas en los incisos a) al h), j) y ll) del artículo 3.29.12 de este Código, y el producto elaborado dispuesto para la venta responderá fundamentalmente a las siguientes características:
+
+a) Extractos en proporciones adecuadas.
+
+b) Ocho por 100 en peso, como mínimo, de azúcares totales.
+
+c) Un volumen, como mínimo, de anhídrido carbónico en las gaseadas, en condiciones normales, por unidad de volumen de producto.
+
+###### 3.29.08. Bebidas de disgregados de frutas, de tubérculos y semillas.
+
+Bebidas, carbónicas o no, preparadas con dichos ingredientes, interpuestos o emulsionados, con agua potable, azúcar y otros productos autorizados.
+
+El producto elaborado, dispuesto para la venta, responderá fundamentalmente a las siguientes características:
+
+A) Horchatas:
+
+a) Tubérculos o semillas disgregados en proporción adecuada para su emulsión (10 por 100 de chufa o 5 por 100 de almendra, en peso).
+
+b) 10 por 100 en peso, como mínimo, de azúcares totales.
+
+Se permitirá la presencia o utilización de las sustancias y en las proporciones indicadas en los párrafos d), e) y j) del artículo 3.29.12 de este Código.
+
+B) Bebidas de frutas disgregadas:
+
+a) Frutas disgregadas.
+
+b) Ocho por 100 en peso, como mínimo, de azúcares totales.
+
+c) Un volumen de anhídrido carbónico, como mínimo, en las gaseadas, en condiciones normales, por unidad de volumen de producto.
+
+Se permitirá la presencia o utilización de zumos, esencias naturales, agentes aromáticos y las sustancias y proporciones indicadas en las párrafos a), c) al j), l) y ll) del artículo 3.29.12 de este Código.
+
+###### 3.29.09. Bebidas aromatizadas.
+
+Bebidas, carbónicas o no, preparadas con agua potable o mineral, esencias naturales deterpenadas, agentes aromáticos, edulcorantes naturales o artificiales y otros productos autorizados.
+
+Se permite la presencia o utilización de todas las sustancias y en las proporciones indicadas en el artículo 3.29.12 de este Código, y el producto elaborado, dispuesto para la venta, responderá fundamentalmente a las siguientes características:
+
+a) Esencias naturales deterpenadas y agentes aromáticos en proporciones adecuadas.
+
+b) Seis por 100 en peso, como mínimo, de azúcares totales o su equivalente en edulcorantes artificiales incluidos en las listas positivas de este Código.
+
+c) Un volumen de anhídrido carbónico, como mínimo, en las gaseadas, en condiciones normales, por unidad de volumen de producto.
+
+###### 3.29.10. Condiciones generales de las bebidas.
+
+Las bebidas no alcohólicas deberán satisfacer las siguientes condiciones generales:
+
+a) Estar elaboradas exclusivamente con los productos autorizados para cada clase de bebidas.
+
+b) Poseer aspecto normal, color, olor y sabor característicos.
+
+c) Estar exentas de impurezas y microorganismos nocivos.
+
+d) Cumplir las exigencias de este Capítulo en cuanto a la utilización o presencia de aditivos.
+
+e) No contener mayor cantidad de alcohol etílico que el procedente de las materias primas autorizadas.
+
+###### 3.29.11. Condiciones generales de los componentes.
+
+Las materias primas utilizadas en su elaboración se ajustarán a las condiciones que para cada una de ellas se exigen en los correspondientes Capítulos de este Código y demás disposiciones de aplicación.
+
+El anhídrido carbónico utilizado para la preparación y despacho de estas bebidas reunirá las siguientes condiciones:
+
+a) Ser químicamente puro.
+
+b) Poseer olor y sabor característicos.
+
+c) No contener más del 1 por 1.000 del aire en volumen.
+
+d) Estar exento de productos empireumáticos, ácidos nitroso y sulfhídrico, anhídrido sulfuroso y otras impurezas.
+
+e) No contener óxido de carbono en proporción superior al 2 por 1.000 en volumen.
+
+###### 3.29.12. Adiciones.
+
+En las bebidas no alcohólicas, además de los componentes fundamentales citados en el artículo 3.29.02 de este Código, según los casos, se permitirá la adición o presencia de:
+
+a) Acidos tartárico, cítrico, málico y láctico, en las proporciones máximas del 0,9, 0,6, 0,5 y 0,3 por 100 en peso, respectivamente.
+
+b) Acido fosfórico, en la proporción máxima del 0,07 por 100 en peso.
+
+c) Citrato sódico y cloruro sódico, en las proporciones máximas del 0,05 por 100 y 0,1 por 100 en peso, respectivamente.
+
+d) Acido ascórbico en la proporción máxima del 0,03 por 100 en peso.
+
+e) Glucosa, fructuosa o azúcar invertido, en cantidad no superior al 10 por 100 de la sacarosa añadida.
+
+f) Cafeína, en la proporción máxima del 0,015 por 100 en peso.
+
+g) Quinina, en la proporción máxima del 0,01 por 100 en peso.
+
+h) Colorantes naturales y caramelo.
+
+i) Colorantes artificiales, incluidos en las listas positivas de este Código.
+
+j) Conservadores químicos incluidos en las listas positivas de este Código.
+
+k) Sustancias sápidas incluidas en las listas positivas de este Código.
+
+l) Pectinas de frutas, gomas y resinas vegetales, gelatinas y agar-agar.
+
+ll) Aditivos procedentes de las materias primas utilizadas para la elaboración en proporción correspondiente a su dilución.
+
+Los productos a que se refieren los incisos h) al ll) de este artículo se permitirán en las proporciones que autorice este Código.
+
+###### 3.29.13. Bebidas imitación de las alcohólicas.
+
+No se permitirá la elaboración y venta de bebidas que imiten la cerveza, el vino, la sidra y otras bebidas alcohólicas.
+
+###### 3.29.14. Bebidas lácteas.
+
+Las bebidas no alcohólicas preparadas con productos lácteos, aunque entren en su composición frutas disgregadas, extractos vegetales, esencias o agentes aromáticos, responderán a las condiciones establecidas en el Capítulo XV de este Código.
+
+###### 3.29.15. Bebidas de consumo inmediato.
+
+Las bebidas refrescantes, carbónicas o no, preparadas en el momento de su consumo, con los ingredientes indicados en el artículo 3.29.02 de este Código, acompañados o no, de bebidas alcohólicas, helado, estimulantes y otros productos, se ajustarán a las condiciones exigidas para les materias primas utilizadas.
+
+###### 3.29.16. Productos en polvo.
+
+Los productos en polvo destinados a la preparación, por simple dilución, de las distintas clases de bebidas incluidas en el artículo 3.29.03 de este Código, no podrán contener otros ingredientes que los autorizados para cada una de ellas, además del bicarbonato sódico en la proporción necesaria.
+
+###### 3.29.17. Prohibiciones.
+
+**(Derogado).**
+
+###### 3.29.18. Manipulaciones.
+
+En la preparación de bebidas no alcohólicas se observarán las siguientes prescripciones:
+
+a) b) y c) **(Derogados).**
+
+d) Los tapones o cierres de los envases llevarán consignada la marca registrada o el nombre del fabricante.
+
+e) En las etiquetas de las bebidas de «zumos de frutas» a que se refiere el artículo 3.29.06 de este Código se consignará la proporción de zumo contenida.
+
+###### 3.29.19. Publicidad.
+
+En la propaganda, rotulación y etiquetado no se permitirá:
+
+a) El empleo de palabras o frases que induzcan a confusión con los zumos de frutas.
+
+b) La mención «contiene zumo» y «bebida de zumo», o similares, cuando lo contengan en menos proporción que la exigida en el artículo 3.29.06.
+
+c) La utilización de dibujos, diseños y representaciones de frutas.
+
+d) El uso de las palabras «pasterizada», «esterilizada» o menciones análogas en las bebidas que contengan sustancias conservadoras.
+
+e) El empleo de calificativos tales como «puro» o «natural» en las bebidas a las que se haya adicionado conservadores químicos o colorantes artificiales.
+
+> Se deroga el apartado 3.29.17, y 3.29.18.a), b) y c) y la referencia al contenido de las etiquetas del d) por la disposición derogatora única.a).iii y iv del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Capítulo XXX — 3.30.00. Bebidas alcohólicas
+
+##### Sección 1.ª Generalidades
+
+**(Derogada)**
+
+> Se deroga por el art. único.1 de la Orden de 9 de diciembre de 1971. [Ref. BOE-A-1971-1580](https://www.boe.es/buscar/doc.php?id=BOE-A-1971-1580).
+
+##### Sección 2.ª Mostos y mistelas
+
+**(Derogada)**
+
+> Se deroga por el art. único.1 de la Orden de 9 de diciembre de 1971. [Ref. BOE-A-1971-1580](https://www.boe.es/buscar/doc.php?id=BOE-A-1971-1580).
+
+##### Sección 3.ª Vinos
+
+**(Derogada)**
+
+> Se deroga por el art. único.1 de la Orden de 9 de diciembre de 1971. [Ref. BOE-A-1971-1580](https://www.boe.es/buscar/doc.php?id=BOE-A-1971-1580).
+
+##### Sección 4.ª Disposiciones comunes a mostos, mistelas y vinos
+
+**(Derogada)**
+
+> Se deroga por el art. único.1 de la Orden de 9 de diciembre de 1971. [Ref. BOE-A-1971-1580](https://www.boe.es/buscar/doc.php?id=BOE-A-1971-1580).
+
+##### Sección 5.ª Subproductos de la uva
+
+**(Derogada)**
+
+> Se deroga por el art. único.1 de la Orden de 9 de diciembre de 1971. [Ref. BOE-A-1971-1580](https://www.boe.es/buscar/doc.php?id=BOE-A-1971-1580).
+
+##### Sección 6.ª Alcoholes
+
+**(Derogada)**
+
+> Se deroga por el art. único.1 de la Orden de 9 de diciembre de 1971. [Ref. BOE-A-1971-1580](https://www.boe.es/buscar/doc.php?id=BOE-A-1971-1580).
+
+##### Sección 7.ª Bebidas espirituosas
+
+**(Derogada)**
+
+> Se deroga por el art. único.1 de la Orden de 9 de diciembre de 1971. [Ref. BOE-A-1971-1580](https://www.boe.es/buscar/doc.php?id=BOE-A-1971-1580).
+
+##### Sección 8.ª Sidras
+
+**(Derogada)**
+
+> Se deroga por el art. único.1 de la Orden de 9 de diciembre de 1971. [Ref. BOE-A-1971-1580](https://www.boe.es/buscar/doc.php?id=BOE-A-1971-1580).
+
+##### Sección 9.ª Cervezas
+
+Las cervezas quedan reguladas por el Real Decreto 678/2016, de 16 de diciembre, por el que se aprueba la norma de calidad de la cerveza y de las bebidas de malta.
+
+> Se modifica por el art. 1.3 del Real Decreto 142/2026, de 25 de febrero. [Ref. BOE-A-2026-4519](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4519)
+
+##### Sección 10.ª Bebidas derivadas de vino
+
+**(Derogada)**
+
+> Se deroga por el art. único.1 de la Orden de 9 de diciembre de 1971. [Ref. BOE-A-1971-1580](https://www.boe.es/buscar/doc.php?id=BOE-A-1971-1580).
+
+### CUARTA PARTE — Aditivos e impurezas de los alimentos
+
+#### Capítulo XXXI — 4.31.00. Aditivos. Sustancias que modifican los caracteres organolépticos
+
+#### (Derogado)
+
+> Se deroga por la disposición derogatoria del Real Decreto 1111/1991, de 12 de julio. [Ref. BOE-A-1991-18409](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-18409).
+
+##### Sección 1.ª Aditivos
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 1111/1991, de 12 de julio. [Ref. BOE-A-1991-18409](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-18409).
+
+##### Sección 2.ª Sustancias que modifican los caracteres organolépticos
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 1111/1991, de 12 de julio. [Ref. BOE-A-1991-18409](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-18409).
+
+#### Capítulo XXXII — 4.32.00. Estabilizadores de los caracteres físicos
+
+#### (Derogado)
+
+> Se deroga por la disposición derogatoria del Real Decreto 1111/1991, de 12 de julio. [Ref. BOE-A-1991-18409](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-18409).
+
+#### Capítulo XXXIII — 4.33.00. Sustancias que impiden las alteraciones químicas y biológicas
+
+#### (Derogado)
+
+> Se deroga por la disposición derogatoria del Real Decreto 1111/1991, de 12 de julio. [Ref. BOE-A-1991-18409](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-18409).
+
+#### Capítulo XXXIV — 4.34.00. Correctores de cualidades plásticas
+
+#### (Derogado)
+
+> Se deroga por la disposición derogatoria del Real Decreto 1111/1991, de 12 de julio. [Ref. BOE-A-1991-18409](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-18409).
+
+#### Capítulo XXXV — 4.35.00. Impurezas
+
+###### 4.35.01. Clasificación.
+
+Las impurezas de los alimentos se clasifican en los siguientes grupos:
+
+a) Sustancias químicas extrañas cuya presencia no está permitida.
+
+b) Sustancias químicas residuales procedentes de tratamientos autorizados.
+
+c) Semillas y otras partículas comestibles, de igual o distinta naturaleza a la del alimento que las contenga.
+
+d) Materias inertes, semillas extrañas y otras partículas no comestibles.
+
+e) Materias cuya presencia prejuzgue un deficiente estado higiénico-sanitario.
+
+###### 4.35.02. Alimentos prohibidos.
+
+Se consideran alimentos y bebidas no aptos para el consumo humano los que contengan impurezas, cualquiera que sea su proporción, de las comprendidas en los incisos a) y e) del artículo anterior o los que contengan mayor cantidad que la tolerada en las clasificadas en los incisos b), e), y d) del mismo artículo.
+
+Tampoco se autorizará la venta ni utilización, para consumo humano de alimentos o bebidas que contengan:
+
+a) Antibióticos, hormonas y medicamentos procedentes de tratamientos biológicos y terapéuticos de los animales.
+
+b) Residuos de aceites minerales, de coadyuvantes de las materias plásticas y otros no permitidos.
+
+c) Productos desnaturalizantes.
+
+d) Residuos de desinfectantes, detergentes, jabones, lejías y productos análogos.
+
+e) Excrementos de roedores, restos de parásitos, residuos de comida, tabaco y otras impurezas cuya presencia prejuzgue un deficiente estado higiénico-sanitario.
+
+###### 4.35.03. Listas de tolerancias.
+
+En las listas de tolerancias complementarias a este Capítulo se fijará la proporción de «impurezas» permitida dentro de límites que no produzcan efectos perjudiciales al consumidor.
+
+Dichas listas serán revisadas periódicamente por la Subcomisión de Expertos del Código Alimentario Español.
+
+En las listas de tolerancia se especificarán:
+
+a) Los límites máximos de las sustancias químicas residuales procedentes de tratamientos autorizados.
+
+b) Limites máximos de elementos metálicos y sustancias radiactivas que puedan contener los alimentos.
+
+e) Tiempo mínimo que debe transcurrir entre los tratamientos fitoterapéuticos y la fecha de recolección.
+
+###### 4.35.04. Otras tolerancias.
+
+La cantidad máxima permitida de materias inertes, semillas y otras partículas, comestibles o no, procedentes de la recolección de los productos y obtención de alimentos, será la especificada en función de las calidades comerciales y límites fijados por este Código y reglamentaciones correspondientes. La tolerancia de estas impurezas se referirá al conjunto de todas ellas.
+
+Las reglamentaciones correspondientes establecerán:
+
+a) El tiempo mínimo que debe transcurrir entre el final de los tratamientos terapéuticos y el sacrificio o la producción de alimentos de origen animal.
+
+b) Los productos desnaturalizantes que deben ser utilizados para aquellos alimentos que no puedan ser destinados al consumo humano.
+
+###### 4.35.05. Residuos de sustancias químicas.
+
+Cuando se autorice en un alimento la presencia de residuos de dos o más sustancias químicas, el contenido total no deberá superar la cantidad máxima que corresponda proporcionalmente a cada una.
+
+### QUINTA PARTE — Productos relacionados directamente con los alimentos
+
+#### Capítulo XXXVI — 5.36.00. Alimentos para animales
+
+###### 5.36.01. Piensos.
+
+Genéricamente, tendrán esta consideración todas las materias naturales y productos elaborados, de cualquier origen, que, por separado o convenientemente mezclados entre sí, resulten aptos para la alimentación animal.
+
+###### 5.36.02. Clasificación.
+
+A efectos de este Código se distinguen las siguientes clases:
+
+a) Piensos simples o de base.
+
+b) Piensos compuestos.
+
+c) Piensos compuestos completos.
+
+d) Piensos compuestos complementarios.
+
+e) Piensos líquidos.
+
+f) Piensos melazados.
+
+g) Piensos especiales.
+
+###### 5.36.03. Piensos simples o de base.
+
+Son los de origen vegetal o animal, en estado natural o conservados, y los subproductos resultantes de su normal elaboración, que satisfacen de una manera parcial o total las necesidades de los animales.
+
+###### 5.36.04. Piensos compuestos.
+
+Son los preparados por mezcla conveniente de dos o más simples.
+
+###### 5.36.05. Piensos compuestos completos.
+
+Son los preparados por la mezcla de piensos de base o simples, corregidos y suplementados convenientemente para cubrir las necesidades de mantenimiento y producción de los animales.
+
+###### 5.36.06. Piensos compuestos complementarios.
+
+Son los que sirven para complementar o suplementar cualquier otro pienso, con el fin de satisfacer todas las necesidades de los animales.
+
+###### 5.36.07. Piensos líquidos.
+
+Son los que presentan sus ingredientes en estado líquido.
+
+###### 5.36.08. Piensos melazados.
+
+Son los piensos compuestos complementarios o completos, que contienen melaza en proporción superior al 10 por 100.
+
+###### 5.36.09. Piensos especiales.
+
+Son los productos alimenticios preparados y acondicionados especialmente para determinados animales, como perros y gatos, y los de acuarios y vivarios.
+
+###### 5.36.10. Materias primas para piensos.
+
+Son todos los ingredientes utilizados para la elaboración de los piensos, para satisfacer las exigencias nutritivas de los animales o con una finalidad utilitaria determinada.
+
+Por su forma y origen se clasifican en:
+
+a) Productos de origen vegetal o animal que se presentan en su forma natural y tienen caracteres organolépticos propios.
+
+b) Subproductos industriales que presentan una forma definida.
+
+c) Materias naturales o subproductos industriales, sometidos a diversos procesos, físicos, químicos o fermentativos.
+
+d) Materias resultantes de diversos procesos físicos o bioquímicos que modifiquen fundamentalmente la composición de la materia prima original.
+
+e) Sustancias naturales o artificiales utilizadas como aditivos o correctivos.
+
+###### 5.36.11. Condiciones de las materias primas.
+
+Deberán ser las siguientes:
+
+a) No modificarán los caracteres propios de los productos para consumo humano que se obtengan de animales que las ingieran.
+
+b) Que la proporción de impurezas o residuos no dificulte o impida su utilización directa, o en la elaboración de piensos.
+
+c) Cumplirán las exigencias analíticas, de composición, distribución, envasado, rotulado y registro que puedan indicarse en este Código o en las reglamentaciones correspondientes.
+
+d) Que se autorice expresamente su uso, si se trata de materia que no se haya utilizado tradicionalmente para pienso.
+
+###### 5.36.12. Correctores de piensos.
+
+Son productos de diversos orígenes, que se adicionan a los piensos en proporciones reducidas, con el fin de equilibrar su composición o su valor nutritivo.
+
+###### 5.36.13. Aditivos para piensos.
+
+Son todas aquellas sustancias que, sin tener valor nutritivo «per se», son adicionadas intencionalmente a los piensos con una finalidad utilitaria.
+
+Se clasifican en los siguientes grupos:
+
+a) Aditivos comunes: Son, además de los autorizados como tales para la alimentación humana, los que puedan autorizarse para piensos con una finalidad tecnológica, en tanto no tengan toxicidad para los animales ni acción residual en los productos que de éstos se obtengan.
+
+b) Aditivos especiales: Son los que se utilizan con la finalidad de incrementar, mejorar, modificar las producciones animales, o facilitar su explotación.
+
+Han de ser inocuos para los animales y no originar peligros residuales para el hombre.
+
+La venta de estos aditivos, para ser utilizados en los piensos, se hará en unidades determinadas con la garantía que se determine en la reglamentación correspondiente.
+
+c) Aditivos de prescripción: Son los que se utilizan con una finalidad terapéutica o para estimular las producciones de los animales.
+
+Por su posible toxicidad se utilizarán accidentalmente y bajo prescripción y vigilancia profesional. Se hará la denuncia correspondiente cuando en período sospechoso se sacrifique algún animal alimentado con piensos que contengan estos aditivos.
+
+###### 5.36.14. Listas positivas de aditivos.
+
+Como complementarias de las listas positivas de aditivos utilizados en la alimentación humana, se establecen otras listas positivas de aditivos comunes y especiales propios para piensos, exigiéndose para que un aditivo de piensos pueda ser incluido en tales listas las siguientes condiciones:
+
+a) Ser inocuo.
+
+b) Establecer las dosis máximas en que pueda ser empleado.
+
+c) Que los residuos que dejen en los animales, o en los productos destinados al consumo humano, no lleguen a los límites permitidos, en el tiempo normal de consumo.
+
+d) Que existan procedimientos analíticos precisos para la determinación de estos elementos, tanto en los piensos como en los productos destinados al consumo humano.
+
+En dichas listas positivas se fijarán límites de tolerancia y tiempo de supresión de su empleo «ante mortem».
+
+Las exigencias analíticas y sistemas de producción y venta se ajustarán en cuanto pueda relacionarse con los alimentos humanos, a lo establecido en este Código y en las reglamentaciones correspondientes.
+
+###### 5.36.15. Impurezas y residuos.
+
+Además de las normas generales establecidas en el Capítulo XXXV de este Código, serán de aplicación las específicas siguientes:
+
+a) En casos especiales de materias primas que tengan condiciones determinadas de cultivo o de obtención, se pueden permitir residuos más elevados de pesticidas u otros que para alimentos de consumo humano pero condicionado siempre a utilizarlas para piensos en proporción determinada para que el total residual no sea alterado.
+
+b) Se permiten en la normal composición de las materias primas tolerancias superiores a las establecidas para consumo humano, siempre que no las contengan los productos de ellas derivados.
+
+c) Se establecen listas positivas por los siguientes conceptos.
+
+1\. Tratamientos pesticidas permitidos en piensos almacenados.
+
+2\. Residuos permitidos en materias primas determinadas.
+
+3\. Límites de contaminantes permitidos en general.
+
+4\. Límites permitidos de productos ocasionales o normales que requieren límites de tolerancia.
+
+###### 5.36.16. Manipulaciones.
+
+La elaboración, preparación, envasado y venta de piensos o alimentos para animales se ajustarán a las siguientes normas fundamentales y a las que determine la reglamentación correspondiente:
+
+a) Sólo se fabricarán piensos con materias primas permitidas y en los límites autorizados.
+
+b) Se presentarán en forma que no sean confundibles con los destinados a la alimentación humana.
+
+c) Cuando contengan algún aditivo especial llevarán en la etiqueta la denominación y composición del mismo. Si contuvieran «Aditivos de prescripción», la etiqueta llevará, además, una marca en rojo con las inscripciones «Piensos prescripción» o «Medicamentados».
+
+d) En el envase de los piensos especiales se indicará claramente su aplicación, rotulándose con la frase «Alimentos para animales».
+
+e) La utilización de carnes crudas o de vísceras procedentes de decomisos para la alimentación de animales requiere autorización especial que señale las condiciones de empleo.
+
+###### 5.36.17. Prohibiciones.
+
+Queda prohibido:
+
+a) El empleo de correctores y aditivos que no figuren en las listas positivas correspondientes.
+
+b) La fabricación de piensos con materias primas que no sean idóneas.
+
+c) La utilización de piensos alterados, adulterados y falsificados, o con impurezas o residuos en mayor proporción que la permitida en los «límites de tolerancia» complementarios al presente Capítulo.
+
+d) La fabricación de piensos especiales con carnes de animales que hayan padecido enfermedades infecciosas, salvo que se esterilicen previamente.
+
+c) El empleo de estos alimentos para el consumo humano.
+
+#### Capítulo XXXVII — 5.37.00. Fertilizantes y parasiticidas
+
+##### Sección 1.ª Fertilizantes
+
+###### 5.37.01. Denominación.
+
+Se consideran fertilizantes todas aquellas sustancias naturales o sintéticas que se añaden al suelo o a la planta para poner a disposición de éstas sustancias nutritivas necesarias para su desarrollo.
+
+En este Código se regula su empleo en cuanto concierne a la salud pública.
+
+###### 5.37.02. Almacenamiento.
+
+Se realizará de forma que no puedan contaminar los alimentos y bebidas.
+
+###### 5.37.03. Transporte.
+
+No podrán ser transportados al mismo tiempo en vehículos que sirvan para llevar productos destinados al consumo humano.
+
+###### 5.37.04. Rotulación.
+
+En las etiquetas figurará la formulación de los elementos activos que entren en su composición y la riqueza en los mismos. Los elementos activos se designarán con el nombre común, y junto a ellos, entre paréntesis, el nombre químico. También se indicarán las prevenciones y normas que deben observarse durante su empleo.
+
+###### 5.37.05. Condiciones especiales.
+
+Durante la producción y aplicación de fertilizantes se observarán las normas sanitarias genéricas para toda clase de industrias.
+
+Los abonos que se empleen por vía foliar dejarán de aplicarse, en el periodo que se fije para cada uno de ellos, antes de la recolección, de forma que los residuos que puedan quedar en la planta sean inferiores a los límites que señale la oportuna reglamentación.
+
+###### 5.37.06. Aguas residuales.
+
+Las aguas residuales de población no pueden emplearse para el riego de terrenos que tengan cultivos agrícolas destinados al consumo si no han sido sometidas a un tratamiento previo de purificación.
+
+Se establecerá comprobación periódica por laboratorio autorizado para garantizar que el tratamiento se realiza en las debidas condiciones.
+
+##### Sección 2.ª Parasiticidas
+
+###### 5.37.07. Denominación.
+
+Se considera parasiticida, plaguicida o producto fitosanitario todo producto químico que se aplica directamente sobre el suelo, la planta o sobre parte de ella, cuando está en el campo o en el almacén, y que sirva para proteger a los vegetales del desarrollo de alguna plaga.
+
+En este Código se regulará su empleo, en cuanto concierne a la salud pública.
+
+###### 5.37.08. Almacenamiento.
+
+Ha de realizarse en locales suficientemente ventilados, y la concentración de productos volátiles en el medio ambiente no excederá los límites máximos indicados en las listas positivas.
+
+En las paredes de los almacenes y sitios de producción habrá profusión de carteles que indiquen los auxilios inmediatos que hay que prestar a toda persona que pueda sufrir síntomas de intoxicación por la acción de tales productos.
+
+Se realizará de forma que no puedan contaminar los alimentos y bebidas.
+
+###### 5.37.09. Transporte.
+
+Los productos parasiticidas no podrán, por ningún concepto, transportarse en un mismo vehículo junto con sustancias alimenticias o que sirvan para preparación de alimentos. Ha de hacerse de forma que no pueda producirse contaminación.
+
+###### 5.37.10. Contenido en principio activo.
+
+Las normas contenidas en esta Sección y en las listas positivas se refieren al contenido en principio activo, y se aplicarán a los preparados que los contengan, ya sea como componentes únicos o combinados con otro u otros.
+
+###### 5.37.11. Toxicidad.
+
+Se denomina DL<sub>50</sub> dosis letal media, la cantidad de plaguicida, puro o técnico, en miligramos por kilogramo de peso vivo del animal de que se trata, necesario para producir la muerte de la mitad del número de animales sobre los que se ensaya.
+
+Se denomina TL a la concentración de producto en la atmósfera, a partir de la cual hay riesgo para las personas. Se expresará para productos gaseosos en partes por millón, y para los que están en forma de partículas ligeras, en miligramos por metro cúbico.
+
+###### 5.37.12. Rotulación.
+
+Con el fin de normalizar la terminología, se diferenciará claramente: el nombre común, el nombre químico y el nombre comercial.
+
+En las etiquetas figurará claramente la formulación, indicando los principios activos que entran en la composición y su riqueza. Los elementos activos figurarán con el nombre común y, junto a éste, entre paréntesis, el nombre químico.
+
+También figurarán en las etiquetas la forma de manejo y dosis máxima del producto a aplicar en cada tratamiento.
+
+En los envases, o en prospectos aparte, figurarán claramente las normas a aplicar en casos de intoxicación por estos productos.
+
+###### 5.37.13. Envases.
+
+Los envases se utilizarán exclusivamente para el uso a que están destinados. Una vez vacíos, los envases que hayan contenido tales productos se destruirán o se devolverán a fábrica para el mismo uso. En ningún caso podrán ser utilizados para contener alimentos, forrajes o agua potable.
+
+###### 5.37.14. Manipulación.
+
+En la manipulación y empleo de estos productos, se observarán las siguientes precauciones:
+
+a) Todo parasiticida tóxico se guardará en local o mueble habitualmente cerrado, y el envase será de tal forma que evite toda confusión con productos alimenticios, debiendo llevar en letras gruesas y llamativas la palabra «Veneno» y el símbolo gráfico correspondiente.
+
+b) Las personas que hayan manejado parasiticidas tóxicos, al terminar su trabajo se lavarán bien la cara, manos y cualquier otra zona de la piel que hubiera estado al descubierto. Si hubieran manejado productos muy tóxicos, al final de la jornada deberán tomar ducha o baño completos.
+
+c) Durante el trabajo se exigirá el uso de ropa especial, de la que se despojará el operario para comer y al finalizar el trabajo.
+
+d) Se usarán gafas protectoras y caretas o respiradores cuando se traten o manejen productos irritantes o tóxicos, ya se trate de polvos, líquidos o gases.
+
+e) Cuando se opere con herbicidas, se evitará la inhalación y el contacto directo con la piel.
+
+f) Una vez aplicados los parasiticidas que sean tóxicos para las personas, animales domésticos o ganado, deberá quedar constancia visible para impedir la entrada en los lugares tratados de personas y animales que puedan sufrir sus efectos.
+
+g) Los productos fuertemente tóxicos deben aplicarse solamente por personal experto.
+
+h) Se observarán estrictamente los plazos que han de transcurrir desde el último tratamiento hasta la recolección, y que se indican en la lista que figura como anejo a las disposiciones de esta sección. Cuando se observe que a pesar del tiempo transcurrido queda producto adherido en la planta, fruto o semilla, deberá lavarse antes de su venta para el consumo.
+
+###### 5.37.15. Prohibiciones.
+
+Se prohíbe:
+
+a) Utilizar como parasiticidas productos distintos de los autorizados o en dosis que excedan de las máximas fijadas, o no respetando las limitaciones que figurarán de una manera clara en los envases.
+
+b) La utilización o abandono de caldos sobrantes y aguas de lavado, de modo que puedan contaminar de alguna forma las aguas potables.
+
+c) Pulverizar de cara al viento.
+
+d) Fumar, beber o comer durante los tratamientos sin haberse lavado previamente las manos o cualquier otra zona de la piel que hubiera quedado al descubierto durante la aplicación o manipulación del producto tóxico.
+
+e) Tratar cualquier planta a partir del momento en que resulte difícil la eliminación de residuos del producto.
+
+f) El empleo de arsenicales a partir de las cinco semanas después de la floración en melocotoneros, ciruelos y almendros; después de la floración de los albaricoques y cerezos; del trasplante del tabaco; del envero de la uva; en cultivos hortícolas y en frutales asociados a dichos cultivos.
+
+g) Segar la hierba o pastar el ganado en los pastizales o bordes del campo hasta quince días después del tratamiento, de acuerdo con las especificaciones que se incluyen en las listas positivas.
+
+#### Capítulo XXXVIII — 5.38.00. Artículos higiénicos y de uso doméstico
+
+> Téngase en cuenta que se deroga el presente Capítulo en lo referente a la seguridad de los juguetes, útiles de uso infantil y artículos de broma, según establece la disposición derogatoria del Real Decreto 2330/1985, de 6 de noviembre. [Ref. BOE-A-1985-26094](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-26094).
+
+###### 5.38.01. Clasificación.
+
+A efectos de este Código, se clasifican en la forma que a continuación se indica, siéndoles de aplicación obligatoria las disposiciones del mismo, en cuanto se destinen al uso humano, ya sea personal, doméstico o para trabajos y servicios artesanos:
+
+a) Cosméticos.
+
+b) Productos de tocador.
+
+c) Jabones de lavar y detergentes.
+
+d) Lejías de blanqueo.
+
+e) Barnices, ceras y encáusticos.
+
+f) Combustibles domésticos.
+
+g) Aire ambiente.
+
+h) Productos para limpieza en seco.
+
+i) Tintes domésticos.
+
+j) Aparatos de tejidos y para la plancha.
+
+k) Velas, cerillas y bengalas.
+
+l) Objetos para inocentadas.
+
+###### 5.38.02. a 5.38.14.
+
+**(Derogados)**
+
+###### 5.38.15. Jabones de lavar.
+
+Los productos técnicos denominados jabones para uso doméstico reunirán las condiciones siguientes:
+
+a) No tendrán olor desagradable ni en solución acuosa calentada a 50 grados centígrados ni residual perceptible en los tejidos y objetos llevados con él.
+
+b) No dañarán los objetos en que se empleen ni las manos del usuario.
+
+Deberán responder a las siguientes exigencias.
+
+Alcalinidad libre en óxido de sodio, máximo 0,2 por 100.
+
+Carbonato sódico, máximo 4 por 100.
+
+En el «jabón blando o en pasta» se tolerará hasta 0,8 por 100 de alcalinidad libre en óxido de sodio.
+
+###### 5.38.16. Detergentes.
+
+Son las sustancias activadoras de superficie distintas al jabón que, poseyendo acción limpiadora, sean inocuas y biológicamente desagradables. Como tales se considerarán las siguientes, ya sean solas o mezcladas entre sí, con cargas y aditivos:
+
+a) Derivados sulfonados y ésteres sulfúricos.
+
+b) Bases de amonio cuaternario y derivados.
+
+c) Aminas y amidas sustituidas y algunos derivados de alcoholes alifáticos.
+
+d) Otras sustancias orgánicas con la acción definida.
+
+Las cantidades de jabón que pudiesen llevar añadidas no sobrepasarán el 15 por 100.
+
+No podrá emplearse el nombre de detergente para las mezclas de sales minerales o de éstas con jabones.
+
+###### 5.38.17. Sustancias para la limpieza.
+
+Los productos técnicamente denominados sustancias para la limpieza corresponden a carbonatos simples. Podrán llevar jabones o detergentes.
+
+###### 5.38.18. Prohibición.
+
+En los jabones, detergentes y sustancias limpiadoras no se permite la adición y presencia de:
+
+a) Peróxido de sodio ni otros oxidantes cáusticos.
+
+b) Nitrobenzol.
+
+###### 5.38.19. Lejías y polvos de blanqueo.
+
+Son los preparados usados en la limpieza por sus propiedades decolorantes y desinfectantes.
+
+Se distinguen los siguientes productos.
+
+Lejía de cloro. Es la solución de hipoclorito alcalino con un contenido en cloro activo no superior al 10 por 100 ni inferior al 2 por 100, y una alcalinidad total máxima, expresada en carbonato sódico, de 1,5 por 100.
+
+Concentrado de lejía. Corresponde exclusivamente a disoluciones de hipoclorito alcalino cuyo contenido en cloro activo exceda del 10 por 100, con una alcalinidad máxima expresada en carbonato sódico del 3 por 100.
+
+Polvos blanqueantes. Corresponderá al producto técnico, denominado químicamente, clorohipoclorito cálcico, con un contenido en cloro activo no inferior al 28 por 100.
+
+Polvos decolorantes. Corresponderán a mezclas alcalinas, entre cuyos componentes figura una persal, con un contenido mínimo de oxígeno activo del 5 por ciento.
+
+###### 5.38.20. Venta de lejías.
+
+Se observarán las siguientes normas:
+
+a) No se permitirá la venta a granel de las lejías de blanqueo.
+
+b) Las lejías se expenderán en envases que no entrañen riesgo en su manejo y que, por su forma, color y otras características, sean totalmente inconfundibles con los de bebidas y otros productos alimenticios.
+
+c) En las etiquetas se declarará, además de lo dispuesto en el Capítulo IV de este Código, el contenido en cloro activo del producto envasado a la salida de fábrica y la indicación «Veneno» en caracteres bien visibles.
+
+d) En las lejías se tolerará una merma en el contenido de cloro activo, respecto a la cifra declarada, del 10 por 100. En las concentradas, dichas tolerancias se aumentarán proporcionalmente hasta un máximo de 18 por 100.
+
+###### 5.38.21. Barnices, ceras y encáusticos.
+
+Los productos empleados como barnices, ceras y encáusticos para lustrar muebles y suelos, deberán estar constituidos por sustancias apropiadas, quedando expresamente prohibida la presente en los mismos de las siguientes:
+
+a) Hidrocarburos halogenados o aromáticos.
+
+b) Nitrobenzol y compuestos amílicos.
+
+c) Disolventes combustibles con punto de inflamación inferior a 30 grados centígrados, por el método de Abe, a presión normal.
+
+d) Sustancias irritantes y tóxicas.
+
+###### 5.38.22. Rotulación.
+
+Los barnices, ceras y encáusticos se presentarán rotulados con arreglo a las normas del Capítulo IV de este Código.
+
+No se permitirá el uso del nombre de «cera de abejas», «cera pura», «cera fina», «cera extra» o el empleo de la palabra «abeja» o «colmena», o sus representaciones gráficas, aunque formen parte de la marca, cuando el producto no esté fabricado exclusivamente con la de abejas.
+
+Cuando contengan disolventes inflamables, deberán llevar visiblemente escrito en los envases «Muy inflamable». No acercarlo al fuego».
+
+###### 5.38.23. Productos para limpiar el calzado.
+
+Las cremas y otros productos del calzado y objetos de cuero no podrán contener nitrobenzol ni colorantes no autorizados. Se tolera la anilina y toluidinas en cifras inferiores al 1 por 1.000.
+
+###### 5.38.24. Productos para limpiar metales.
+
+Los productos de limpieza de metales o para platear en casa estarán exentos de cianuros y nitrobenceno.
+
+###### 5.38.25. Combustibles domésticos.
+
+A efectos de este Código, se distinguen los siguientes:
+
+a) Alcohol desnaturalizado.
+
+b) Carburo cálcico.
+
+c) Gas del alumbrado.
+
+d) Gases comprimidos.
+
+e) Butano doméstico.
+
+f) Propano doméstico.
+
+g) Butano-propano doméstico.
+
+h) Petróleo lampante.
+
+i) Carbón.
+
+j) Gasolina doméstica.
+
+k) Gasolina para carburación.
+
+###### 5.38.26. Alcohol desnaturalizado.
+
+El destinado a usos domésticos deberá responder a las siguientes exigencias:
+
+a) Graduación alcohólica no inferior a 90 grados.
+
+b) Aldehídos y alcoholes superiores, no menos del 1 por 100.
+
+###### 5.38.27. Carburo cálcico.
+
+El destinado a usos domésticos deberá responder a las siguientes exigencias:
+
+a) Granulado esponjoso, sin más de 6 por 100 de polvo fino.
+
+b) Las impurezas totales no pasarán del 5 por 100.
+
+c) Estará exento de azufre, fosfuro cálcico, compuestos arsenicales y nitrados.
+
+###### 5.38.28. Gas del alumbrado.
+
+El gas del alumbrado o gas ordinario para usos domésticos deberá responder a las siguientes exigencias:
+
+Oxido carbónico, máximo 15 por 100 en volumen.
+
+Amoníaco por metro cúbico, máximo tres decigramos.
+
+Azufre total por metro cúbico, siete decigramos.
+
+Ácido sulfúrico, indicios.
+
+Arsénico, exento.
+
+###### 5.38.29. Gases comprimidos.
+
+Los gases comprimidos o líquidos para usos domésticos deberán responder a las siguientes exigencias:
+
+Etano y acetileno, máximo 3 por 100 en volumen.
+
+Metano e hidrocarburos superiores al butano, exentos.
+
+###### 5.38.30. Butano doméstico.
+
+Es la mezcla de hidrocarburos compuesta por butano, butenos o sus mezclas.
+
+Sus características serán las siguientes:
+
+a) En vasija abierta, el 95 por 100 de sus componentes debe evaporarse a la temperatura de un grado centígrado.
+
+b) El contenido de compuestos sulfurados, hidrógeno sulfurado y mercaptanes será inferior al límite de sensibilidad de la reacción con plumbito de sodio alcalino.
+
+c) Estará exento de agua.
+
+d) Tendrá el olor característico.
+
+###### 5.38.31. Propano doméstico.
+
+Sus características serán:
+
+a) Deberá contener, al menos, el 95 por 100 de propano, de propeno o de sus mezclas. El resto estará constituido por etano, eteno, butano y butenos.
+
+b) El contenido de hidrocarburos más pesados que el propeno no excederá del 2 por 100 en volumen.
+
+c) El contenido de compuestos sulfurados, hidrógeno sulfurado y mercaptanes será inferior al límite de sensibilidad de la reacción con plumbito de sodio alcalino.
+
+d) No debe contener agua manifiesta en el ensayo con bromuro de cobalto.
+
+e) Tendrá el olor característico.
+
+###### 5.38.32. Butano-propano doméstico.
+
+Las mezclas de butano y propano doméstico se podrán comercializar con específica designación de su carácter y de la proporción de sus componentes.
+
+###### 5.38.33. Envasado y conducción. Gases comprimidos.
+
+Las vasijas para contener los gases domésticos liquidados, los tubos de conducción y los aparatos para su empleo deberán reunir las características que fije la oportuna reglamentación.
+
+###### 5.38.34. Petróleo lampante.
+
+Es el destinado a la iluminación y a la calefacción. Deberá reunir las características siguientes:
+
+a) Límpido e incoloro.
+
+b) Por destilación, como mínimo, deberá destilar el 50 por 100 antes de 255 grados, y el 80 por 100, antes de 285 grados centígrados, comprendidas las pérdidas.
+
+c) Punto de inflamabilidad: Igual o superior a 40 grados centígrados, por el método de Lechaire.
+
+d) Azufre: No más del 13 por 10.000 de azufre y negativo el ensayo sobre lámina de cobre.
+
+e) Depósito por enfriamiento: Enfriado a 15 grados centígrados bajo cero, no debe dar más del 2 por 100 de depósito.
+
+###### 5.38.35. Carbón.
+
+La antracita, hulla y carbón de coque para usos domésticos podrá contener, como máximo, 15 por 1.000 de azufre total y estarán exentos de arsénico.
+
+###### 5.38.36. Gasolina doméstica.
+
+Tendrá las siguientes características:
+
+a) Para usos cosméticos: Totalmente límpida, incolora y exenta de plomo.
+
+b) Para limpieza y combustión: Límpida, incolora, aun en los casos de largo almacenamiento, con un máximo de 15 mililitros cúbicos de plomotetraetilo por litro.
+
+###### 5.38.37. Gasolina para carburación.
+
+Las gasolinas para carburación se colorearán artificialmente.
+
+Los recipientes, tanques, cisternas y los surtidores de gasolina para carburación, si ésta contiene plomo, llevarán bien visible el siguiente rótulo: «Esta gasolina contiene plomo (tetraetilo). «No puede ser empleada en usos domésticos ni artesanos».
+
+###### 5.38.38. Aire ambiente.
+
+El de los espacios confinados, sean éstos domésticos o de concurrencia pública de personas, no deberá contener cantidades superiores, a las que se indican, de impurezas.
+
+Anhídrido carbónico, máximo 1.500 partes por 1.000.000.
+
+Oxido de carbono, máximo 200 partes por 1.000.000.
+
+Amoníaco, máximo 50 partes por 1.000.000.
+
+Hidrógeno sulfurado, máximo 15 centésimas partes por 1.000.000.
+
+Anhídrido sulfuroso, máximo 20 partes por 1.000.000.
+
+Acido clorhídrico, máximo 100 partes de 1.000.000.
+
+Halógenos libros, máximo dos partes por 1.000.000.
+
+Sulfuro de carbono, máximo 0,1 parte por 1.000.000.
+
+Otras sustancias nocivas, ausencia.
+
+###### 5.38.39. Productos purificadores del aire.
+
+Los productos destinados a la purificación o aromatización del ambiente no podrán contener nitrobenzol, hidrocarburos halogenados de carácter tóxico o irritante ni otras sustancias volátiles de carácter nocivo.
+
+###### 5.38.40. Productos para limpiar la ropa.
+
+Los envases de productos líquidos o pastosos destinados a la limpieza doméstica de prendas de vestir y que contengan líquidos volátiles, tales como hidrocarburos volátiles (bencina de petróleo, benzol) y halogenados (tetracloruro de carbono, di o tricloroetileno, diclorobenceno o similares), deberán rotularse con las siguientes inscripciones: «Peligro de inhalar sus vapores. «Usese en lugar ventilado o ante una ventana abierta»; y si son inflamables, llevarán la indicación: «Peligro. Inflamable».
+
+###### 5.38.41. Tintes domésticos.
+
+Los productos usados para la tinción doméstica de vestidos y otros artículos confeccionados no podrán contener plomo, arsénico, parafenilenodiamina libre, ácido pícrico, coralina u otras sustancias nocivas que puedan ser absorbidas por la piel.
+
+###### 5.38.42. Industrias para limpiar la ropa y de tintorería.
+
+Las instalaciones para limpieza en seco de prendas de vestir con líquidos inflamables, halogenados u otras sustancias tóxicas, así como las de tintorería, no podrán establecerse en locales que sirvan a la vez de vivienda.
+
+Las operaciones se harán por personal especializado en aparatos cerrados de circuito continuo.
+
+###### 5.38.43. Aprestos.
+
+Queda prohibido el uso de compuestos de plomo, arsénico y otros metales tóxicos en los aprestos de tejidos y para la plancha.
+
+###### 5.38.44. Velas.
+
+Las velas, incluidas las de fantasía, no podrán contener colorantes ni sustancias con arsénico, antimonio, mercurio o plomo.
+
+###### 5.38.45. Productos pirógenos y explosivos.
+
+Queda prohibida la elaboración, tenencia, circulación y venta:
+
+a) De cerillas u otros materiales pirógenos que contengan en su composición fósforo blanco.
+
+b) De los llamados «mixtos de cazoleta», pistones, bengalas, fuegos artificiales y demás productos explosivos de uso infantil o domésticos que contengan fósforo blanco.
+
+c) De los polvos o cilindros llamados «serpientes de faraón», hechas a base de sulfocianato de mercurio y otras sustancias tóxicas.
+
+###### 5.38.46. Objetos para inocentadas.
+
+Queda prohibida la fabricación de objetos de engaño o imitación que contengan en todo o en parte arena, limaduras metálicas, polvos de vidrio u otras sustancias peligrosas o nocivas.
+
+Las imitaciones de alimentos, empleadas como juguetes infantiles, sólo podrán hacerse con sustancias apropiadas para la alimentación humana.
+
+> Se derogan los apartados 5.38.02 a 5.38.14 por la disposición derogatoria.1 del Real Decreto 349/1988, de 15 de abril. [Ref. BOE-A-1988-9636](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-9636).
+
+> Se deroga en lo referente a la seguridad de los juguetes, útiles de uso infantil y artículos de broma, por la disposición derogatoria del Real Decreto 2330/1985, de 6 de noviembre. [Ref. BOE-A-1985-26094](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-26094).
+
+> Téngase en cuenta la disposición transitoria, para su aplicación.
+
+> Información relacionada
+
+> El Código Alimentario Español entra en vigor el 13 de marzo de 1975, excepto los capítulos X, XI, XII, XIII, XV, XVI, XXI, XXII y XXVI, que son aplicables a partir del 13 de septiembre de 1975, según establece el art. 1 del Decreto 2519/1974, de 9 de agosto. [Ref. BOE-A-1974-1482](https://www.boe.es/buscar/doc.php?id=BOE-A-1974-1482)., por mandato del art. 1 del Decreto que aprueba el citado código.

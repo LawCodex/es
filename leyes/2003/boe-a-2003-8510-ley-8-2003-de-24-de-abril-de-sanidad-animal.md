@@ -420,8 +420,6 @@ Con el objetivo de asegurar el buen estado sanitario de las especies cinegética
 
 2\. Reglamentariamente se establecerán los requisitos de sanidad animal que los diferentes terrenos tanto de aprovechamiento cinegético como de régimen especial recogidos en el título II deberán cumplir. Estos requisitos incluirán, en especial, los sistemas de vigilancia para detectar la presencia de enfermedades y las actuaciones que en el caso de riesgo de transmisión éstas deberán abordarse tanto por las Administraciones competentes como por los responsables o gestores de los terrenos.
 
-> Téngase en cuenta que este artículo añadido por la disposición final 3 de la Ley 21/2015, de 20 de julio. [Ref. BOE-A-2015-8146](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8146). entra en vigor el 21 de octubre de 2015, según determina su disposición final 7.
-
 > Se añade por la disposición final 3 de la Ley 21/2015, de 20 de julio. [Ref. BOE-A-2015-8146](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8146).
 
 ###### Artículo 17. Actuaciones inmediatas en caso de sospecha.

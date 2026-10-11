@@ -1,0 +1,213 @@
+---
+title: "Resolución de 21 de noviembre de 2005, de la Dirección General de Transportes por Carretera, sobre la inspección y control por riesgos inherentes al transporte de mercancías peligrosas por carretera"
+identifier: "BOE-A-2005-19689"
+eli: "https://www.boe.es/eli/es/res/2005/11/21/(3)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2005-11-21
+published: 2005-11-30
+in_force_from: 2005-12-20
+last_amended: 2026-02-21
+consolidated: 2026-02-23
+gazette: "Boletín Oficial del Estado núm. 286"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2005-19689"
+retrieved: 2026-10-11
+---
+
+# Resolución de 21 de noviembre de 2005, de la Dirección General de Transportes por Carretera, sobre la inspección y control por riesgos inherentes al transporte de mercancías peligrosas por carretera
+
+La Directiva 95/50/CE del Consejo, de 6 de octubre, relativa a procedimientos uniformes de control del transporte de mercancías peligrosas por carretera, reguló determinados aspectos de los controles que se realizan con el fin de prevenir los riesgos inherentes al transporte de mercancías peligrosas, persiguiendo la armonización de los procedimientos. Esta Directiva, en lo que afecta a los procedimientos de realización de los controles, fue incorporada al ordenamiento interno por resolución de la Dirección General de Ferrocarriles y Transportes por Carretera de 21 de noviembre de 1996. Posteriormente, la Directiva 2001/26/CE, de 7 de mayo, del Parlamento Europeo y del Consejo, modificó el documento o lista de control previsto en la anterior Directiva, dando lugar a la aprobación de una nueva resolución de la Dirección General de Transportes por Carretera de 3 de octubre de 2001, por la que se modificó la de 21 de noviembre de 1996. Finalmente, la Directiva 2004/112/CE de la Comisión, de 13 de diciembre, por la que se adapta al progreso técnico la Directiva 95/50/CE, ha modificado nuevamente el régimen de estos controles exigiendo nuevamente revisar las resoluciones antes citadas.
+
+Teniendo en cuenta que las infracciones enumeradas en las citadas Directivas están todas recogidas en el ordenamiento interno, así como la posibilidad de adoptar medidas especiales en relación con los vehículos, se considera necesario incorporar al ordenamiento únicamente las normas referentes a los procedimientos de estos controles, que habrán de cumplirse por los órganos encargados de realizar la inspección y el control en carretera, así como las que afectan a la obligación de asistencia a otros Estados miembros. Por otra parte, razones de claridad aconsejan aprobar una nueva resolución que sustituya a las anteriores en la materia.
+
+En su virtud, de acuerdo con el informe de la Comisión para la Coordinación del Transporte de Mercancías Peligrosas, esta Dirección General, ha resuelto:
+
+## Primero. Normas aplicables.
+
+Los órganos competentes para la inspección y control del transporte someterán a control, por motivos de seguridad inherente al transporte de mercancías peligrosas por carretera, una proporción representativa de los transportes de este tipo.
+
+Dichos controles se efectuarán de acuerdo con el artículo 3 del Reglamento (CEE) número 4060/1989, y con el artículo 1 del Reglamento (CEE) número 3912/1992.
+
+## Segundo. Realización de los controles.
+
+Los controles a que se refiere el punto anterior serán realizados por personal con los conocimientos adecuados, utilizando la lista de control que se incluye como anexo I de la presente resolución. Un ejemplar, de dicha lista, que refleje los controles realizados por la Administración, deberá entregarse al conductor del vehículo, con el fin de que éste pueda presentarlo cuando se solicite para simplificar o evitar, en lo posible, controles ulteriores.
+
+Independientemente de los controles generales sobre el transporte de mercancías peligrosas a que se refiere esta resolución, podrán realizarse actuaciones específicas de control sin que sean exigibles los requisitos que se establecen en el párrafo anterior.
+
+Los controles, en principio, se efectuarán aleatoriamente, abarcando una amplia porción de la red de carreteras.
+
+Los lugares elegidos para la realización de los controles deberán ofrecer la posibilidad de regularizar las condiciones de realización del transporte cuyo incumplimiento se detectase así como, cuando dicha regularización inmediata no resultara posible, de inmovilizar el vehículo de acuerdo con la normativa vigente, in situ o en lugar destinado a tal efecto sin que ello represente peligro alguno para la seguridad.
+
+Asimismo, siempre que ello no represente peligro para la seguridad, podrán recogerse muestras de los productos transportados para analizarlas en laboratorios reconocidos por la autoridad competente, en los supuestos previstos en la legislación vigente.
+
+Los controles no deberán rebasar un tiempo razonable.
+
+## Tercero. Controles preventivos.
+
+Cuando se observen en carretera infracciones que comprometan la seguridad del transporte de mercancías peligrosas, podrán efectuarse controles preventivos en locales de la empresa que realiza el transporte, con el fin de garantizar el cumplimiento futuro de las condiciones de seguridad establecidas en la legislación vigente.
+
+Si se hubiera comprobado la comisión de una o más infracciones que comprometan la seguridad del transporte de mercancías peligrosas, deberá exigirse a la empresa infractora la adopción de las medidas necesarias para impedir que en el futuro se repitan aquéllas, quedando garantizado el cumplimiento de la legislación vigente.
+
+## Cuarto. Comunicación de infracciones.
+
+Las infracciones graves o reiteradas que comprometan la seguridad del transporte de mercancías peligrosas y que sean cometidas con un vehículo matriculado o por una empresa residente en otro Estado de la Comunidad Europea, deberán comunicarse a las autoridades competentes de dicho Estado. En estos casos podrá solicitarse a dichas autoridades que adopten las medidas adecuadas.
+
+Cuando, por el contrario, se reciba de otro Estado de la Comunidad Europea dicha comunicación en relación con un vehículo matriculado o una empresa residente en España que hubiera cometido una infracción grave o reiterada en su territorio, se pondrán en conocimiento del Estado afectado los resultados de las medidas que, en su caso, se adopten.
+
+## Quinto. Comunicación de datos y actuaciones.
+
+En caso de que, al realizarse un control de un vehículo matriculado en otro Estado de la Comunidad Europea, los datos recogidos induzcan a pensar que se han cometido infracciones graves o reiteradas que no pueden detectarse en dicho control, se comunicará al otro Estado con el objeto de aclarar la situación.
+
+Cuando tal comunicación se reciba de otro Estado de la Comunidad Europea en relación con un vehículo matriculado en España, los resultados de las actuaciones que, en su caso, se lleven a cabo, se comunicarán a las autoridades competentes de dicho Estado.
+
+## Sexto. Informe a la Comisión Europea.
+
+Cada año natural y como máximo un año después de que finalice el mismo se remitirá a la Comisión Europea un informe, conforme al modelo que se incluye como anexo III.
+
+## Séptimo. Derogaciones.
+
+Quedan sin efecto las resoluciones de 21 de noviembre de 1996, sobre la inspección y control por riesgos inherentes al transporte de mercancías peligrosas por carretera, y la de 3 de octubre de 2001, por la que se modifica la lista de control del transporte de mercancías peligrosas por carretera.
+
+Madrid, 21 de noviembre de 2005.‒El Director General, Juan Miguel Sánchez García.
+
+## ANEXO I — Lista de control para los controles de carreteras
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/47/3979_16656561_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/47/3979_16656561_2.png)
+
+> Se modifica por el apartado único.1 de la Resolución de 12 de febrero de 2026. [Ref. BOE-A-2026-3979](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3979)
+
+## ANEXO II — Infracciones
+
+A los efectos de la presente resolución, la lista que figura a continuación, que no es exhaustiva y está clasificada en tres categorías de riesgo (siendo la categoría I la que presenta el riesgo más grave), da unas orientaciones sobre lo que debe considerarse una infracción.
+
+Se determinará la categoría de riesgo correspondiente teniendo en cuenta las circunstancias particulares de una infracción, a discreción del organismo o agente responsable del control, lo cual implica que una infracción puede subir o bajar de categoría de riesgo.
+
+Las infracciones que no figuren en la lista correspondiente se clasificarán con arreglo a las descripciones de las categorías de riesgo.
+
+En caso de que haya varias infracciones por unidad de transporte, solo se tendrá en cuenta a efectos de notificación (conforme al modelo de impreso normalizado que se establece en el anexo III) la categoría de riesgo más grave.
+
+1\. Categoría de riesgo
+
+Esta categoría se refiere a las infracciones de las disposiciones del ADR que conlleven un riesgo elevado de muerte, lesiones personales graves o daños medioambientales considerables. Si se detectan estas infracciones durante algún control en carretera, normalmente darán lugar a medidas correctoras inmediatas y adecuadas, como la inmovilización del vehículo; si se observan durante los controles en las instalaciones de las empresas, estas infracciones estarán sujetas normalmente a otras medidas adecuadas.
+
+Entre los incumplimientos pertenecientes a esta categoría figuran los siguientes:
+
+1\. Transporte de mercancías peligrosas cuyo transporte esté prohibido.
+
+2\. Transporte de mercancías peligrosas en un medio de contención prohibido o no homologado que ponga en peligro vidas humanas o el medio ambiente en un grado tal que motive una decisión de inmovilizar el vehículo.
+
+3\. Transporte de mercancías peligrosas sin identificación como tales en el vehículo, de modo que supongan un peligro para las vidas humanas o el medio ambiente en un grado tal que motive una decisión de inmovilizar el vehículo.
+
+4\. Fuga de sustancias peligrosas.
+
+5\. Transporte en algún modo de transporte prohibido.
+
+6\. Transporte a granel en un vehículo o contenedor que no sea estructuralmente adecuado.
+
+7\. Transporte en un vehículo sin el certificado de aprobación ADR adecuado.
+
+8\. La utilización de un vehículo que haya dejado de cumplir las normas de homologación y suponga un peligro inmediato (si no es así se clasifica en la categoría de riesgo II).
+
+9\. Utilización de bultos, cisternas, contenedores o vehículos no homologados (aprobados) o no autorizados.
+
+10\. Utilización de bultos que no se ajusten a las instrucciones de embalaje aplicables; el uso de cisternas, vehículos o contenedores que no cumplan las disposiciones aplicables.
+
+11\. Incumplimiento de las disposiciones relativas al embalaje en común.
+
+12\. Incumplimiento de las normas relativas a la sujeción, manipulación y estiba de la carga.
+
+13\. Incumplimiento de las normas sobre precauciones relativas a las mercancías alimentarias, otros objetos de consumo y alimentos para animales.
+
+14\. Incumplimiento de las normas que regulan las prohibiciones de cargamento en común de los bultos.
+
+15\. Incumplimiento de las disposiciones que limitan las cantidades transportadas en una unidad de transporte, incluido el grado/razón/nivel de llenado admisible de cisternas o bultos.
+
+16\. Transporte de mercancías peligrosas sin llevar a bordo los documentos necesarios o sin llevarlos en un formato electrónico adecuado, si está permitido.
+
+17\. Transporte de mercancías peligrosas en bultos que no lleven el marcado, el etiquetado o cualquier otra señalización obligatoria.
+
+18\. Transporte de mercancías peligrosas sin placas-etiquetas, panel naranja, marcas o cualquier otra señalización que resulte obligatoria en contenedores, MEMU, cisternas o vehículos.
+
+19\. Información incompleta o incorrecta sobre la sustancia transportada que permita determinar si hay una infracción que entre en la categoría de riesgo I (por ejemplo, número ONU, designación oficial de transporte o grupo de embalaje).
+
+20\. Incumplimiento de la obligación del conductor de estar en posesión de un certificado de formación profesional válido.
+
+21\. Utilización de fuego o utilización de una luz que no esté protegida.
+
+22\. Incumplimiento de la prohibición de fumar.
+
+23\. Incumplimiento de la obligación de la empresa de designar consejero de seguridad habilitado para las mercancías de que se trate, cuando resulte exigible.
+
+24\. Incumplimiento del capítulo 1.10 del ADR sobre disposiciones de protección, cuando sea necesario.
+
+2\. Categoría de riesgo II
+
+Esta categoría se refiere a las infracciones de las disposiciones del ADR que conlleven un riesgo de lesiones personales o daños medioambientales. Si se detectan estas infracciones durante algún control en carretera, normalmente darán lugar a medidas correctoras adecuadas, como la rectificación de las deficiencias *in situ* cuando sea posible y, a más tardar, al término de la operación de transporte en curso; si se observan durante los controles en las instalaciones de las empresas, estas infracciones estarán sujetas normalmente a otras medidas adecuadas.
+
+Entre los incumplimientos pertenecientes a esta categoría figuran los siguientes:
+
+1\. Utilización de una unidad de transporte con más de un remolque o semirremolque.
+
+2\. Utilización de un vehículo que ya no cumpla las normas de homologación sin crear por ello un peligro inmediato.
+
+3\. Incumplimiento de la obligación de llevar extintores de incendios adecuados en estado de funcionamiento o llevar equipos de extinción de incendios que no cumplan las disposiciones aplicables.
+
+4\. No llevar a bordo del vehículo el equipamiento que exige el ADR o las instrucciones escritas.
+
+5\. Incumplimiento de lo dispuesto sobre las fechas de pruebas e inspecciones y de los períodos de utilización de los embalajes/envases, recipientes, grandes recipientes para granel (GRG/IBC), grandes embalajes, cisternas, vehículos o contenedores.
+
+6\. Transporte de bultos con envases, embalajes, recipientes, GRG o grandes embalajes deteriorados, incluidos los vacíos sin limpiar.
+
+7\. Transporte de mercancías embaladas en un vehículo o contenedor que no sea estructuralmente adecuado.
+
+8\. Incumplimiento de la obligación de cerrar correctamente las cisternas, los vehículos, los contenedores o los bultos (incluidos los vacíos y sin limpiar).
+
+9\. Los bultos, las cisternas, los vehículos, los contenedores, las MEMU o cualquier otro medio de contención llevan etiquetas, marcas, placas-etiquetas, paneles naranja, placas, rótulos o cualquier otra señalización incorrecta.
+
+10\. Incumplimiento de la obligación de llevar instrucciones escritas de conformidad con el ADR.
+
+11\. La falta de vigilancia o de estacionamiento adecuados de un vehículo.
+
+12\. Transportar personas, que no sean miembros de la tripulación, en unidades de transporte que lleven mercancías peligrosas.
+
+13\. Incumplimiento de las disposiciones establecidas en la sección 7.5.10 del ADR sobre las precauciones que deben tomarse para evitar la acumulación de cargas electrostáticas durante las operaciones de llenado y vaciado.
+
+14\. Incumplimiento de las disposiciones normativas relativas a la llegada, estancia y salida de los lugares de carga o descarga.
+
+15\. Incumplimiento de las disposiciones normativas relativas a las funciones, las obligaciones y los certificados pertinentes de los consejeros de seguridad de la empresa, cuando sea necesario.
+
+16\. Incumplimiento de las disposiciones normativas sobre el período mínimo de conservación del documento de transporte de mercancías peligrosas y de la información y documentación adicionales que se especifican en el ADR.
+
+17\. Incumplimiento de las disposiciones normativas relativas a la formación de las personas que participan en operaciones de transporte de mercancías peligrosas.
+
+18\. Incumplimiento de la obligación de presentar a las autoridades competentes los documentos o informes requeridos o que se esté obligado a remitir.
+
+3\. Categoría de riesgo III
+
+Se refiere a las infracciones de las disposiciones del ADR que conlleven un riesgo bajo de lesión personal o daños medioambientales y para las que no sea necesario tomar medidas correctoras apropiadas en carretera, sino que la empresa podrá tomarlas más adelante; si se observan durante los controles en las instalaciones de las empresas, estas infracciones estarán sujetas normalmente a otras medidas adecuadas.
+
+Entre los incumplimientos pertenecientes a esta categoría figuran los siguientes:
+
+1\. Incumplimiento de las obligaciones relativas al tamaño de las marcas, etiquetas, placas, placas-etiquetas, paneles o cualquier otra señalización exigible o al tamaño de las letras, números, figuras o símbolos.
+
+2\. Incumplimiento de la obligación de llevar, en la documentación de transporte, la información exigible, a excepción de la información incluida en la categoría de riesgo I.
+
+3\. Incumplimiento de la obligación del conductor de llevar el certificado de formación a bordo del vehículo, siempre que existan pruebas de que el conductor está en posesión de él.
+
+4\. Incumplimiento de la obligación de que cada miembro de la tripulación lleve consigo un documento de identificación con fotografía.
+
+5\. La falta de sujeción o colocación correcta de las etiquetas, placas-etiquetas, paneles naranja, marcas, placas o cualquier otra señalización exigible.
+
+6\. La presentación fuera de plazo, a las autoridades competentes, de los documentos o informes requeridos o que se esté obligado a remitir.
+
+> Se modifica por el apartado único.2 de la Resolución de 12 de febrero de 2026. [Ref. BOE-A-2026-3979](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3979)
+
+## ANEXO III — Modelo impreso normalizado para la elaboración del informe sobre infracciones y sanciones que debe dirigirse a la Comisión Infracciones y Sanciones
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/286/19689_8576969_image2.png)

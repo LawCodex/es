@@ -1,0 +1,1912 @@
+---
+title: "Real Decreto 1050/2020, de 1 de diciembre, de creación de treinta y tres unidades judiciales COVID-19 correspondientes a la programación de 2020"
+identifier: "BOE-A-2020-15393"
+eli: "https://www.boe.es/eli/es/rd/2020/12/01/1050"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 2020-12-01
+published: 2020-12-02
+in_force_from: 2020-12-03
+consolidated: 2026-04-14
+gazette: "Boletín Oficial del Estado núm. 315"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2020-15393"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1050/2020, de 1 de diciembre, de creación de treinta y tres unidades judiciales COVID-19 correspondientes a la programación de 2020
+
+La situación generada como consecuencia de la pandemia del COVID-19 exige, en el ámbito de la Administración de Justicia, la adopción de medidas inmediatas para conseguir una activación económica eficaz y la tutela de los derechos y libertades más afectados con carácter general.
+
+La Administración de Justicia también ha sufrido una ralentización significativa como consecuencia de la crisis sanitaria del COVID-19, por lo que se debe procurar dar una salida ágil al volumen de procedimientos suspendidos y acumulados desde que se decretó el estado de alarma mediante el Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, prorrogado por el Real Decreto 476/2020, de 27 de marzo, el Real Decreto 487/2020, de 10 de abril, el Real Decreto 492/2020, de 24 de abril, el Real Decreto 514/2020, de 8 de mayo, y el Real Decreto 537/2020, de 22 de mayo.
+
+Para evitar la formación de una importante entrada de asuntos en los órganos judiciales como consecuencia de este extenso periodo de ralentización estructural de la Administración de Justicia, es necesario implantar de manera urgente un conjunto de actuaciones encaminadas a agilizar y acelerar la reactivación de la actividad judicial ordinaria.
+
+Además, es importante afrontar y resolver los problemas generados por la propia crisis en el normal funcionamiento de la Administración de Justicia, canalizando el previsible incremento de la litigiosidad.
+
+La respuesta del Estado debe lograr que nadie se quede atrás en la recuperación y la Administración de Justicia debe contribuir a su consecución con todos los elementos posibles. El impacto que la buena marcha de la Administración de Justicia tiene en la economía es indudable y por ello es preciso conseguir que la situación provocada por la emergencia sanitaria no se vea agravada.
+
+Para ello, en la disposición adicional decimonovena del Real Decreto-ley 11/2020, de 31 de marzo, por el que se adoptan medidas urgentes complementarias en el ámbito social y económico para hacer frente al COVID-19, se establece la aprobación a propuesta del Ministerio de Justicia, a la mayor brevedad posible y en todo caso en el plazo máximo de 15 días, de un Plan de actuación para agilizar la actividad judicial en los órdenes jurisdiccionales social y contencioso-administrativo, así como en el ámbito de los Juzgados de lo Mercantil, con la finalidad de contribuir al objetivo de una rápida recuperación económica tras la superación de la crisis.
+
+El Gobierno, en el Consejo de Ministros de 7 de julio de 2020, aprobó el Plan de actuación previsto en la disposición adicional decimonovena del Real Decreto-ley 11/2020, de 31 de marzo, por el que se adoptan medidas urgentes complementarias en el ámbito social y económico para hacer frente al COVID-19, y así poder aliviar la acumulación de litigios derivada de la crisis sanitaria. Su objetivo es recuperar la normalidad en los órganos judiciales y aportar mecanismos, recursos y soluciones a las necesidades inmediatas de la Justicia. El Plan se despliega en dos fases, principalmente, en los órdenes de lo social, de lo mercantil y de lo contencioso-administrativo, y afecta a un total de 315 juzgados. En una primera fase, entre el 1 de septiembre y el 31 de diciembre de 2020, la intervención tendrá lugar en los juzgados con mayor carga de trabajo. La segunda fase, se iniciará el 1 de enero de 2021, y se dispondrá de información más completa respecto al volumen de demandas presentadas y su tiempo de resolución, lo que permitirá definir la extensión de las medidas a aplicar para su desarrollo posterior. En el citado plan se contemplan medidas estructurales, como la creación de nuevas unidades, objeto del presente real decreto, para absorber y minimizar el impacto del incremento de procedimientos. En definitiva, se trata de un plan de actuaciones por objetivos sobre las que habrá un seguimiento constante y que permitirá la posibilidad de cambiar y acelerar respuestas a los distintos escenarios que puedan darse en los juzgados en esta etapa.
+
+Es necesario proceder a la creación de estas treinta y tres nuevas unidades judiciales y que puedan dedicarse todas o algunas de ellas con carácter exclusivo al conocimiento de procedimientos asociados a la COVID-19, de conformidad con el apartado 2 del artículo 19 de la Ley 3/2020, de 18 de septiembre, de medidas procesales y organizativas para hacer frente a la COVID-19 en el ámbito de la Administración de Justicia, y que sea factible la efectividad de algunas de estas unidades judiciales a finales del presente año.
+
+Con la finalidad de adecuar la planta judicial a las necesidades derivadas de la crisis provocada por la COVID-19 y para garantizar a la ciudadanía la efectividad de la protección judicial de sus derechos, en la disposición adicional quinta de la Ley 3/2020, de 18 de septiembre, se dispone una previsión de creación de nuevas unidades judiciales, en un plazo de tres años, de las cuales un tercio se crearán en el primer año, por lo que el Gobierno dotará las partidas presupuestarias necesarias y suficientes para su atención.
+
+La Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial, en su artículo 20.1 faculta al Gobierno para modificar el número y composición de los órganos judiciales establecidos en dicha ley, mediante la creación de Secciones y Juzgados. Así, al amparo de esta habilitación legal, corresponde al Gobierno la creación de nuevas unidades judiciales, con las finalidades establecidas en la disposición adicional quinta de la Ley 3/2020, de 18 de septiembre.
+
+Este real decreto centra su objeto en la creación de treinta y tres nuevas unidades judiciales, que, atendiendo a la carga de trabajo existente y siendo presupuestariamente posible la efectividad de las plazas de Magistrado/a en órganos colegiados y la entrada en funcionamiento de los juzgados, son necesarias desde un punto de vista estructural, por cuanto las necesidades de carácter coyuntural se pueden solucionar con otras medidas de racionalización, que establece la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+
+Como consecuencia de lo anterior, se dispone la creación y constitución de treinta nuevos juzgados y la dotación de tres plazas de Magistrado/a en órganos colegiados, una plaza de Magistrado/a en la Sala de lo Contencioso-administrativo de la Audiencia Nacional y una plaza de Magistrado/a correspondiente al orden civil y penal para la Sección 7.ª de la Audiencia Provincial de Cádiz, con sede en Algeciras, dentro de la línea de actuación iniciada en 2018 en el Plan Integral de Campo de Gibraltar en la lucha contra el narcotráfico y el crimen organizado, y una plaza de Magistrado/a correspondiente al orden civil para la Sección 3.ª de la Audiencia Provincial de Valladolid.
+
+Asimismo, y dentro de la línea de actuación iniciada por este Gobierno de adopción de medidas urgentes complementarias en el ámbito social y económico para hacer frente a la COVID-19, atendiendo a las necesidades en cuanto al volumen de carga de trabajo y a una mejor optimización de los recursos personales y materiales disponibles, de conformidad con lo establecido en el párrafo segundo del artículo 20.1 de la Ley 38/1988, de 28 de diciembre, se establece la transformación de juzgados, previo informe del Consejo General del Poder Judicial y previa audiencia de las comunidades autónomas afectadas.
+
+En concreto, se procede a transformar los Juzgados de Primera Instancia número 4 de Huelva, número 4 de Jaén y número 3 de Albacete y el Juzgado de Primera Instancia e Instrucción número 1 de Toledo, en funcionamiento y que actualmente compatibilizan la materia de lo Mercantil, en Juzgados de lo Mercantil número 1 de Huelva, número 1 de Jaén, número 1 de Albacete y número 1 de Toledo.
+
+Como consecuencia de la transformación citada, mediante este real decreto, y con la finalidad de evitar disfunciones en su funcionamiento, se procede a modificar el número y la denominación de los Juzgados de Primera Instancia de Huelva, Jaén y Albacete y de los Juzgados de Primera Instancia e Instrucción de Toledo, desde la fecha de efectividad de la transformación.
+
+Asimismo, el Juzgado de lo Mercantil número 2 de Badajoz y uno de los dos Juzgados de lo Mercantil de nueva creación de Murcia, se crean con la finalidad de que el Consejo General del Poder Judicial, a petición de la Sala de Gobierno correspondiente, pueda acordar el desplazamiento de su sede a los partidos judiciales de Mérida y de Cartagena, respectivamente, conforme dispone el artículo 269.2 de la Ley Orgánica 6/1985, de 1 de julio.
+
+De conformidad con el artículo 20.4 de la Ley 38/1988, de 28 de diciembre, se procede a la modificación de los siguientes anexos de dicha ley: anexo III (Audiencia Nacional), anexo V (Audiencias Provinciales), anexo VI (Juzgados de Primera Instancia e Instrucción), anexo IX (Juzgados de lo Social) y anexo XII (Juzgados de lo Mercantil).
+
+Este real decreto ha sido informado por el Consejo General del Poder Judicial y las comunidades autónomas afectadas.
+
+En su virtud, a propuesta del Ministro de Justicia, con el informe de la Ministra de Hacienda, y previa deliberación del Consejo de Ministros en su reunión del día 1 de diciembre de 2020,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+Este real decreto tiene como objeto:
+
+a) Contribuir a agilizar y acelerar la reactivación de la actividad judicial ordinaria y concretar y adecuar la planta judicial a las necesidades existentes, mediante la creación y constitución de treinta y tres unidades judiciales COVID-19, consistentes en treinta juzgados y en tres plazas de Magistrado/a en órganos colegiados.
+
+b) Transformar los Juzgados de Primera Instancia número 4 de Huelva, número 4 de Jaén y número 3 de Albacete y el Juzgado de Primera Instancia e Instrucción número 1 de Toledo, en funcionamiento y que actualmente compatibilizan la materia de lo Mercantil, en Juzgados de lo Mercantil número 1 de Huelva, número 1 de Jaén, número 1 de Albacete y número 1 de Toledo, y como consecuencia de la transformación realizada, y con la finalidad de evitar disfunciones en su funcionamiento, modificar el número y la denominación de los Juzgados de Primera Instancia de Huelva, Jaén y Albacete y de los Juzgados de Primera Instancia e Instrucción de Toledo desde la fecha de efectividad de la transformación.
+
+c) Modificar la planta judicial prevista en los anexos III, V, VI, IX, y XII de la Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial.
+
+## Artículo 2. Modificación de la planta judicial.
+
+Se amplía la planta judicial de conformidad con lo dispuesto en el artículo 20.4 de la Ley 38/1988, de 28 de diciembre, para lo cual el anexo III (Audiencia Nacional), anexo V (Audiencias Provinciales), anexo VI (Juzgados de Primera instancia e Instrucción), anexo IX (Juzgados de lo Social) y anexo XII (Juzgados de lo Mercantil), quedan modificados en los aspectos referidos en el anexo del presente real decreto, permaneciendo inalterados en los restantes términos.
+
+## Artículo 3. Dotación de una plaza de Magistrado/a en la Audiencia Nacional.
+
+Se dota una plaza de Magistrado/a para la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+
+## Artículo 4. Dotación de plazas de Magistrado/a en Audiencias Provinciales.
+
+De acuerdo con lo establecido en los artículos 81 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, y 14 de la Ley 38/1988, de 28 de diciembre, respectivamente, se dotan las siguientes plazas de Magistrado/a:
+
+a) Una plaza de Magistrado/a en la Audiencia Provincial de Cádiz, correspondiente al orden civil y penal, Sección 7.ª, con sede en Algeciras.
+
+b) Una plaza de Magistrado/a en la Audiencia Provincial de Valladolid, correspondiente al orden civil, Sección 3.ª
+
+## Artículo 5. Creación y constitución de juzgados.
+
+Conforme a lo dispuesto en los artículos 20.1, 41, 43.2, y 46 bis de la Ley 38/1988, de 28 de diciembre, se crean y se constituyen los siguientes juzgados:
+
+a) Un Juzgado de Primera Instancia: Número 9 de Burgos.
+
+b) Un Juzgado de Primera Instancia e Instrucción: Número 9 de Toledo.
+
+c) Quince Juzgados de lo Social:
+
+Número 5 de Córdoba.
+
+Número 4 de Huelva.
+
+Número 6 de Palma de Mallorca.
+
+Número 8 de Zaragoza.
+
+Número 11 de Las Palmas de Gran Canaria.
+
+Número 9 de Santa Cruz de Tenerife.
+
+Número 2 de Cuenca.
+
+Número 4 de Toledo.
+
+Número 4 de León.
+
+Número 5 de Castellón de la Plana.
+
+Número 7 de A Coruña.
+
+Número 4 de Lugo.
+
+Número 7 de Vigo.
+
+Número 5 de Badajoz.
+
+Número 45 de Madrid.
+
+d) Trece Juzgados de lo Mercantil:
+
+Número 2 de Cádiz.
+
+Número 2 de Granada.
+
+Número 4 de Palma de Mallorca.
+
+Número 3 de Las Palmas de Gran Canaria.
+
+Número 2 de Valladolid.
+
+Número 4 de Alicante.
+
+Número 5 de Valencia.
+
+Número 2 de Badajoz.
+
+Número 17 de Madrid.
+
+Número 18 de Madrid.
+
+Número 3 de Murcia.
+
+Número 4 de Murcia.
+
+Número 3 de Bilbao.
+
+## Artículo 6. Transformación de juzgados y modificación de la denominación y del número de juzgados.
+
+1\. Los Juzgados de Primera Instancia número 4 de Huelva, número 4 de Jaén y número 3 de Albacete y el Juzgado de Primera Instancia e Instrucción número 1 de Toledo, en funcionamiento y que actualmente compatibilizan la materia de lo Mercantil, se transforman en Juzgados de lo Mercantil número 1 de Huelva, número 1 de Jaén, número 1 de Albacete y número 1 de Toledo.
+
+2\. Como consecuencia de la transformación prevista en el apartado anterior, se modifica la denominación y el número de los Juzgados de Primera Instancia de Huelva, Jaén y Albacete y de los Juzgados de Primera Instancia e Instrucción de Toledo, desde la fecha de efectividad de la transformación citada.
+
+## Artículo 7. Relaciones de puestos de trabajo del personal al servicio de la Administración de Justicia.
+
+Las relaciones de puestos de trabajo de los Letrados de la Administración de Justicia y de los funcionarios de los Cuerpos de Gestión Procesal y Administrativa, de Tramitación Procesal y Administrativa y de Auxilio Judicial y del personal al servicio de los Institutos de Medicina Legal y Ciencias Forenses de los órganos judiciales a que se refieren los artículos 5 y 6 del presente real decreto serán determinadas con arreglo a la Ley Orgánica 6/1985, de 1 de julio; al Reglamento Orgánico del Cuerpo de Secretarios Judiciales, aprobado mediante el Real Decreto 1608/2005, de 30 de diciembre; y al Reglamento de los Institutos de Medicina Legal, aprobado mediante Real Decreto 386/1996, de 1 de marzo, así como la normativa aplicable a los funcionarios de los Cuerpos de Gestión Procesal y Administrativa, de Tramitación Procesal y Administrativa y de Auxilio Judicial.
+
+## Disposición transitoria única. Conocimiento de asuntos asignados en los juzgados transformados.
+
+De conformidad con el párrafo tercero del artículo 20.1 de la Ley 38/1988, de 28 de diciembre, los juzgados en funcionamiento transformados por el presente real decreto conservarán su competencia para la tramitación hasta la conclusión de los procedimientos pendientes.
+
+## Disposición final primera. Título competencial.
+
+El presente real decreto se dicta al amparo de lo dispuesto en el artículo 149.1. 5.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de Administración de Justicia.
+
+## Disposición final segunda. Habilitación.
+
+Se faculta al Ministro de Justicia para adoptar en el ámbito de su competencia cuantas medidas exige la ejecución de este real decreto.
+
+## Disposición final tercera. Fecha de efectividad de las plazas de Magistrado/a en órganos colegiados, de la entrada en funcionamiento de juzgados, de la efectividad de la transformación y de la modificación de la denominación y del número de juzgados.
+
+1\. De conformidad con lo dispuesto en el artículo 20.5 de la Ley 38/1988, de 28 de diciembre, y en el apartado 2 del artículo 19 de la Ley 3/2020, de 18 de septiembre, de medidas procesales y organizativas para hacer frente al COVID-19 en el ámbito de la Administración de Justicia, se establece la fecha de efectividad de las tres plazas de Magistrado/a en órganos colegiados y de entrada en funcionamiento de trece juzgados para el día 31 de diciembre de 2020:
+
+a) Sala de lo Contencioso-administrativo de la Audiencia Nacional, una plaza de Magistrado/a.
+
+b) Audiencia Provincial de Cádiz, una plaza de Magistrado/a correspondiente al orden civil y penal, Sección 7.ª, con sede en Algeciras.
+
+c) Audiencia Provincial de Valladolid, una plaza de Magistrado/a correspondiente al orden civil, Sección 3.ª
+
+d) 6 Juzgados de lo Social:
+
+Número 5 de Córdoba.
+
+Número 4 de Huelva.
+
+Número 11 de Las Palmas de Gran Canaria.
+
+Número 2 de Cuenca.
+
+Número 5 de Castellón de la Plana.
+
+Número 45 de Madrid.
+
+e) 7 Juzgados de lo Mercantil:
+
+Número 2 de Cádiz.
+
+Número 2 de Granada.
+
+Número 4 de Alicante.
+
+Número 5 de Valencia.
+
+Número 17 de Madrid.
+
+Número 18 de Madrid.
+
+Número 3 de Murcia.
+
+2\. De conformidad con lo dispuesto en el artículo 20.5 de la Ley 38/1988, de 28 de diciembre, la fecha de entrada en funcionamiento de los juzgados que se crean y constituyen en este real decreto, a excepción de los trece mencionados en el apartado 1 de esta disposición final tercera, será fijada por el Ministro de Justicia, oído el Consejo General del Poder Judicial, y publicada en el «Boletín Oficial del Estado».
+
+3\. La fecha de efectos de la transformación de juzgados a que se refiere el artículo 6 será el día 1 de enero de 2021.
+
+## Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 1 de diciembre de 2020.
+
+FELIPE R.
+
+El Ministro de Justicia,
+
+JUAN CARLOS CAMPO MORENO
+
+## ANEXO — Modificación de los anexos III, V, VI, IX y XII de la Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial
+
+Los anexos III, V, VI, IX y XII de la Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial, quedan redactados en los términos que se indican a continuación:
+
+## ANEXO III — Audiencia Nacional
+
+|  |  | Presidente<br> de Sala | Magistrados |  |
+|---|---|---|---|---|
+| Presidente Audiencia Nacional. | 1 |  |  |  |
+| Sala de lo Penal. |  | 1 | 16 | 4 Secciones |
+| Sala de Apelación. |  | 1 | 2 |  |
+| Sala de lo Contencioso-Administrativo. |  | 1 | 40 | 8 Secciones |
+| Sala de lo Social. |  | 1 | 2 |  |
+| Totales. | 1 | 4 | 60 |  |
+| Total. | 65 |  |  |  |
+
+## ANEXO V — Audiencias provinciales
+
+| Provincia sede | Magistrados | Jurisdicción |
+|---|---|---|
+| *Andalucía* |  |  |
+| Almería. | 14 |  |
+| Cádiz. | 16 | Partidos Judiciales 1, 4, 6, 9, 10, 11, 13 y 14. |
+| Algeciras. | 6 | Partidos Judiciales 3, 5 y 8. |
+| Ceuta. | 3 | Partido Judicial 12. |
+| Jerez de la Frontera. | 5 | Partidos Judiciales 2, 7 y 15. |
+| Córdoba. | 12 |  |
+| Granada. | 19 |  |
+| Huelva. | 10 |  |
+| Jaén. | 11 |  |
+| Málaga. | 36 | Partidos Judiciales 1, 2, 3, 4, 5, 6, 7, 9, 10, 11 y 12. |
+| Melilla | 3 | Partido Judicial 8. |
+| Sevilla. | 36 |  |
+| Total. | 171 |  |
+| *Castilla y León* |  |  |
+| Ávila. | 3 |  |
+| Burgos. | 11 |  |
+| León. | 11 |  |
+| Palencia. | 5 |  |
+| Salamanca. | 6 |  |
+| Segovia. | 3 |  |
+| Soria. | 3 |  |
+| Valladolid. | 14 |  |
+| Zamora. | 4 |  |
+| Total. | 60 |  |
+| Total nacional. | 961 |  |
+
+## ANEXO VI — Juzgados de Primera Instancia e Instrucción
+
+<table class="tabla">
+<thead>
+<tr>
+<th class="cabeza_tabla">Provincia</th>
+<th class="cabeza_tabla">Partido<br> Judicial<br> Número</th>
+<th class="cabeza_tabla">Primera<br> Instancia</th>
+<th class="cabeza_tabla">Instruc.</th>
+<th class="cabeza_tabla" colspan="2">Primera Instancia e Instrucción</th>
+</tr>
+</thead>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">
+<em>Andalucía</em>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Almería.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">4</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">6</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">6</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro" colspan="2">23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">39</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cádiz.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">6</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">4 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">5</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">5 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">13</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">15</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_centro" colspan="2">36</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">68</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Córdoba.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro" colspan="2">21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">40</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Granada.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro">19</td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">5 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">4</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">19</td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro" colspan="2">20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">48</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Huelva.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">5</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro" colspan="2">14</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">27</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Jaén.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">5</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro" colspan="2">22</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">32</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Málaga.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">5</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro">21</td>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">6</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">39</td>
+<td class="cuerpo_tabla_centro">28</td>
+<td class="cuerpo_tabla_centro" colspan="2">23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">90</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Sevilla.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">5</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_centro">21</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">4</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">4</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">7 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">13</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">15</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">30</td>
+<td class="cuerpo_tabla_centro">21</td>
+<td class="cuerpo_tabla_centro" colspan="2">42</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">93</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total CC.AA.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">437</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<em>Castilla y León</em>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ávila.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">5 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro" colspan="2">9</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Burgos.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro" colspan="2">9</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">22</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">León.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">8 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro" colspan="2">15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">31</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Palencia.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">7 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro" colspan="2">10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Salamanca.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro" colspan="2">6</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">19</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Segovia.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">6 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro" colspan="2">9</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Soria.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">4 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro" colspan="2">6</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Valladolid.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro">15</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">15</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro" colspan="2">4</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">25</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Zamora.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">6 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro" colspan="2">11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total CC.AA.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">142</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">
+<em>Castilla-La Mancha</em>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Albacete.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro" colspan="2">10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ciudad Real.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">7 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">3</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro" colspan="2">25</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">25</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cuenca.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">4 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro" colspan="2">10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Guadalajara.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">1</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">13</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Toledo.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">7 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">6 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">8 Servidos por Magistrados</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">4</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2">2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro">0</td>
+<td class="cuerpo_tabla_centro" colspan="2">31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">31</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total CC.AA.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">99</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total nacional.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2463</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro" colspan="2"> </td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO IX — Juzgados de lo Social
+
+| Provincia sede | Número de Juzgados |
+|---|---|
+| *Andalucía* |  |
+| Almería. | 5 |
+| Cádiz. | 3 Extiende su jurisdicción a los partidos judiciales 1, 4, 9, 13 y 14 |
+| Algeciras. | 2 Extiende su jurisdicción a los partidos judiciales 3, 5 y 8 |
+| Ceuta. | 1 Extiende su jurisdicción al partido judicial número 12 |
+| Jerez de la Frontera. | 3 Extiende su jurisdicción a los partidos judiciales 2, 6, 7, 10, 11 y 15 |
+| Córdoba. | 5 |
+| Granada. | 7 Extiende su jurisdicción a los partidos judiciales 1, 2, 3, 5, 6, 7 y 8 |
+| Motril. | 1 Extiende su jurisdicción a los partidos judiciales 4 y 9 |
+| Huelva. | 4 |
+| Jaén. | 4 |
+| Málaga. | 13 Extiende su jurisdicción a los partidos judiciales 1, 2, 3, 4, 5, 6, 7, 9, 10, 11 y 12 |
+| Melilla. | 1 Extiende su jurisdicción al partido judicial número 8 |
+| Sevilla. | 12 |
+| Total. | 61 |
+| *Aragón* |  |
+| Huesca. | 1 |
+| Teruel. | 1 |
+| Zaragoza. | 8 |
+| Total. | 10 |
+| *Illes Balears* |  |
+| Palma. | 6 Extiende su jurisdicción a los partidos judiciales 2, 3, 4 y 7 |
+| Ciutadella de Menorca. | 1 Extiende su jurisdicción a los partidos judiciales 1 y 6 |
+| Eivissa. | 1 Extiende su jurisdicción al partido judicial número 5 |
+| Total. | 8 |
+| *Canarias* |  |
+| Las Palmas de Gran Canaria. | 11 Extiende su jurisdicción a los partidos judiciales 2, 5, 6, 7 y 8 |
+| Arrecife. | 2 Extiende su jurisdicción al partido judicial número 1 |
+| Galdar. | 1 Extiende su jurisdicción al partido judicial número 4 |
+| Puerto del Rosario. | 2 Artículo 269 LOPJ. Extiende su jurisdicción al partido judicial número 3 |
+| Santa Cruz de Tenerife. | 9 |
+| Total. | 25 |
+| *Castilla y León* |  |
+| Ávila. | 1 |
+| Burgos. | 3 |
+| León. | 4 Extiende su jurisdicción a los partidos judiciales 1, 2, 3, 5 y 6 |
+| Ponferrada. | 2 Extiende su jurisdicción a los partidos judiciales 4 y 7 |
+| Palencia. | 2 |
+| Salamanca. | 2 |
+| Segovia. | 1 |
+| Soria. | 1 |
+| Valladolid. | 5 |
+| Zamora. | 2 |
+| Total. | 23 |
+| *Castilla-La Mancha* |  |
+| Albacete. | 3 |
+| Ciudad Real. | 3 |
+| Cuenca. | 2 |
+| Guadalajara. | 2 |
+| Toledo. | 3 Extiende su jurisdicción a los partidos judiciales 1, 2, 3, 5, 6 y 7 |
+| Talavera de la Reina. | 1 Artículo 269 LOPJ. Extiende su jurisdicción al partido judicial número 4 |
+| Total. | 14 |
+| *Comunitat Valenciana* |  |
+| Alicante/Alacant. | 7 Extiende su jurisdicción a los partidos judiciales 2, 3, 5, 6, 7, 10, 11 y 12 |
+| Benidorm. | 2 Extiende su jurisdicción a los partidos judiciales 1 y 9 |
+| Elche/Elx. | 3 Extiende su jurisdicción a los partidos judiciales 4, 8 y 13 |
+| Castellón de la Plana/Castelló. | 5 |
+| Valencia. | 18 |
+| Total. | 35 |
+| *Extremadura* |  |
+| Badajoz. | 5 |
+| Cáceres. | 2 Extiende su jurisdicción a los partidos judiciales 1, 2, 3, 5, 6 y 7 |
+| Plasencia. | 1 Artículo 269 LOPJ. Extiende su jurisdicción al partido judicial número 4 |
+| Total. | 8 |
+| *Galicia* |  |
+| A Coruña. | 7 Extiende su jurisdicción a los partidos judiciales 1, 4, 6, 7, 8 y 14 |
+| Ferrol. | 2 Extiende su jurisdicción a los partidos judiciales 3 y 9 |
+| Santiago de Compostela. | 4 Extiende su jurisdicción a los partidos judiciales 2, 5,10, 11, 12 y 13 |
+| Lugo. | 4 |
+| Ourense. | 4 |
+| Pontevedra. | 4 Extiende su jurisdicción a los partidos judiciales 2, 4, 5, 8, 9, 12 y 13 |
+| Vigo. | 7 Extiende su jurisdicción a los partidos judiciales 1, 3, 6, 7, 10 y 11 |
+| Total. | 32 |
+| *Madrid* |  |
+| Madrid. | 45 Extiende su jurisdicción a los partidos judiciales 1, 5, 7, 11, 12, 15, 19 y 21 |
+| Alcalá de Henares. | 1 Extiende su jurisdicción a los partidos judiciales 2, 4,13 y 14 |
+| Getafe. | 1 Extiende su jurisdicción a los partidos judiciales 8, 9, 10, 16 y 20 |
+| Móstoles. | 3 Extiende su jurisdicción a los partidos judiciales 3, 6, 17 y 18 |
+| Total. | 50 |
+| Total nacional. | 383 |
+
+## ANEXO XII — Juzgados de lo Mercantil
+
+|  | Número<br> Juzgados<br> Mercantiles | Jurisdicción |
+|---|---|---|
+| *Andalucía* |  |  |
+| Almería. | 1 | Ámbito provincial. |
+| Cádiz. | 2 | Ámbito provincial. |
+| Córdoba. | 1 | Ámbito provincial. |
+| Granada. | 2 | Ámbito provincial. |
+| Huelva. | 1 | Ámbito provincial. |
+| Jaén. | 1 | Ámbito provincial. |
+| Málaga. | 2 | Ámbito provincial. |
+| Sevilla. | 3 | Ámbito provincial. |
+| Total. | 13 |  |
+| *Illes Balears* |  |  |
+| Palma. | 4 | Ámbito provincial. |
+| Total. | 4 |  |
+| *Canarias* |  |  |
+| Las Palmas de Gran Canaria. | 3 | Ámbito provincial. |
+| Santa Cruz de Tenerife. | 2 | Ámbito provincial. |
+| Total. | 5 |  |
+| *Castilla y León* |  |  |
+| Ávila. | 1 | Ámbito provincial. |
+| Burgos. | 1 | Ámbito provincial. |
+| León. | 1 | Ámbito provincial. |
+| Palencia. | 1 | Ámbito provincial. |
+| Salamanca. | 1 | Ámbito provincial. |
+| Segovia. | 1 | Ámbito provincial. |
+| Soria. | 1 | Ámbito provincial. |
+| Valladolid. | 2 | Ámbito provincial. |
+| Zamora. | 1 | Ámbito provincial. |
+| Total. | 10 |  |
+| *Castilla-La Mancha* |  |  |
+| Albacete. | 1 | Ámbito provincial. |
+| Ciudad Real. | 1 | Ámbito provincial. |
+| Cuenca. | 1 | Ámbito provincial. |
+| Guadalajara. | 1 | Ámbito provincial. |
+| Toledo. | 1 | Ámbito provincial. |
+| Total. | 5 |  |
+| *Comunitat Valenciana* |  |  |
+| Alicante/Alacant. | 3 | Ámbito provincial (Nacional como Juzgado de Marca Comunitaria).<br> Extiende su jurisdicción a los partidos 1, 2, 3, 5, 6, 7, 9, 10, 11 y 12. |
+| Elche/Elx. | 1 | Art. 269 LOPJ.<br> Extiende su jurisdicción a los partidos 4, 8 y 13. |
+| Castellón de la Plana/Castelló. | 1 | Ámbito provincial. |
+| Valencia. | 5 | Ámbito provincial. |
+| Total. | 10 |  |
+| *Extremadura* |  |  |
+| Badajoz. | 2 | Ámbito provincial. |
+| Cáceres. | 1 | Ámbito provincial. |
+| Total. | 3 |  |
+| *Madrid* |  |  |
+| Madrid. | 18 | Ámbito provincial. |
+| Total. | 18 |  |
+| *Murcia* |  |  |
+| Murcia. | 4 | Ámbito provincial. |
+| Total. | 4 |  |
+| *País Vasco* |  |  |
+| Vitoria-Gasteiz. | 1 | Ámbito provincial. |
+| Donostia-San Sebastián. | 1 | Ámbito provincial. |
+| Bilbao. | 3 | Ámbito provincial. |
+| Total. | 5 |  |
+| Total nacional. | 111 |  |

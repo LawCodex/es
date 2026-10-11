@@ -1,0 +1,594 @@
+---
+title: "Real Decreto 1011/1981, de 10 de abril, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, circulación y comercio de grasas comestibles (animales, vegetales y anhidras), margarinas, minarinas y preparados grasos"
+identifier: "BOE-A-1981-12421"
+eli: "https://www.boe.es/eli/es/rd/1981/04/10/1011"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1981-04-10
+published: 1981-06-01
+in_force_from: 1981-06-21
+last_amended: 2026-02-27
+consolidated: 2026-02-27
+gazette: "Boletín Oficial del Estado núm. 130"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-12421"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1011/1981, de 10 de abril, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, circulación y comercio de grasas comestibles (animales, vegetales y anhidras), margarinas, minarinas y preparados grasos
+
+El Decreto dos mil quinientos diecinueve/mil novecientos setenta y cuatro, de nueve de agosto, regula la entrada en vigor, aplicación y desarrollo del Código Alimentario Español respetando la vigencia de las normas especiales en materia alimentaria, en cuanto no sean expresamente modificadas para adaptarlas a la sistemática, principios básicos y características técnicas que el Código contiene.
+
+Por otra parte, las Secciones primera, cuarta, quinta sexta y séptima del capítulo dieciséis, que se ocupan de disposiciones comunes de las grasas comestibles y de las definiciones y características de las grasas animales, vegetales, hidrogenadas y transformadas, precisa, dada la evolución de la tecnología, una actualización y complementación con el fin de conseguir una regulación de este sector específico.
+
+En su virtud, a propuesta de los Ministros de Trabajo, Sanidad y Seguridad Social, Industria y Energía, Agricultura y Economía y Comercio, de acuerdo con el informe favorable de la Comisión Interministerial para la Ordenación Alimentaria y previa deliberación del Consejo de Ministros en su reunión del día diez de abril de mil novecientos ochenta y uno,
+
+DISPONGO:
+
+#### Artículo único.
+
+Se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, circulación y comercio de grasas comestibles (animales, vegetales y anhidras), margarinas, minarinas y preparados grasos, que se adjunta al presente Decreto.
+
+#### Disposición transitoria primera.
+
+Las reformas y adaptaciones de las instalaciones, derivadas de las nuevas exigencias incorporadas a esta Reglamentación que no sean consecuencias de disposiciones legales vigentes y en especial de lo dispuesto en el Decreto dos mil quinientos diecinueve/ mil novecientos setenta y cuatro, de nueve de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, serán llevadas a cabo en el plazo de dieciocho meses a contar desde la publicación en el «Boletín Oficial del Estado» de la presente Reglamentación.
+
+El mismo plazo será aplicado a la exigencia del contenido en materia grasa especificada en el artículo veinticinco de esta Reglamentación con respecto a la margarina, manteniéndose hasta entonces lo establecido en el punto cinco de la Orden del Ministerio de la Gobernación de cuatro de junio de mil novecientos cincuenta y seis («Boletín Oficial del Estado» de veintitrés de junio).
+
+#### Disposición transitoria segunda.
+
+Durante el mismo plazo, los industriales que actualmente están dedicados a la fabricación de grasas comestibles (animales, vegetales y anhidras), margarinas, minarinas y preparados grasos podrán seguir utilizando las existencias en almacén o contratadas de los envases, cierres, envolturas o etiquetas de todo tipo que tuvieran en uso y que no se ajusten a lo dispuesto en esta Reglamentación.
+
+Después de la publicación del presente Decreto todo encargo de envases, cierres, envolturas o etiquetas se ajustará a lo establecido en el texto de la presente Reglamentación.
+
+#### Disposición derogatoria.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el contenido de la presente Reglamentación.
+
+Dado en Madrid a diez de abril de mil novecientos ochenta y uno.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+PÍO CABANILLAS GALLAS
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA PARA LA ELABORACIÓN, CIRCULACIÓN Y COMERCIO DE GRASAS COMESTIBLES (ANIMALES, VEGETALES Y ANHIDRAS), MARGARINAS, MINARINAS Y PREPARADOS GRASOS
+
+### TÍTULO PRELIMINAR — Ámbito de aplicación
+
+#### Artículo 1.
+
+La presente Reglamentación tiene por objeto definir, a efectos legales, lo que se entiende por grasas comestibles y preparados grasos, con exclusión de los aceites comestibles, y fijar con carácter obligatorio las normas de elaboración, circulación, comercialización y, en general, la ordenación jurídica de tales productos. Será de aplicación, asimismo, a los productos importados.
+
+Esta Reglamentación obliga a todos los fabricantes manipuladores y comerciantes de grasas comestibles y preparados grasos y, en su caso, a los importadores.
+
+Se consideran industriales, fabricantes o preparadores de grasas y preparados grasos aquellas personas naturales o jurídicas que, en uso de las autorizaciones concedidas por los organismos oficiales competentes, dedican su actividad a la fabricación, manipulación o preparación de los productos indicados en el título I de la presente Reglamentación.
+
+### TÍTULO PRIMERO — Definiciones y tipos de grasas comestibles y derivados
+
+#### Art. 2. Grasas comestibles.
+
+A efectos de esta Reglamentación, se entiende por grasas comestibles los productos de origen animal, vegetal o sus mezclas que reúnan las características y especificaciones exigidas por esta Reglamentación y cuyos componentes principales sean glicéridos de los ácidos grasos, pudiendo tener otros componentes menores.
+
+#### Art. 3. Grasas animales.
+
+Son las obtenidas, por distintos procedimientos, a partir de diversos depósitos adiposos de determinados animales en adecuado estado sanitario. Entre ellas se pueden distinguir:
+
+1\. Manteca de cerdo: Se entiende por manteca de cerdo la grasa obtenida de los tejidos grasos limpios y sanos del cerdo (sus scrofa), en buenas condiciones sanitarias, en el momento de su sacrificio, y apto para el consumo humano. Los tejidos grasos no contendrán huesos, piel desprendida, piel de la cabeza, orejas, rabos, órganos, tráquea, vasos sanguíneos grandes desperdicios de grasas, recortes, sedimentos, residuos de prensado y similares y estarán exentos de tejido muscular y de sangre.
+
+2\. Grasa de cerdo fundida: Se entiende por grasa fundida la obtenida por fusión procedente de los tejidos del cerdo (sus scrofa) en buenas condiciones sanitarias, en el momento de su sacrificio, y apto para el consumo humano.
+
+La grasa de cerdo fundida podrá contener grasa de los huesos (convenientemente limpios), grasa de pieles desprendidas, de la cabeza, de las orejas, de los rabos, y de otros tejidos.
+
+3\. Primeros jugos: Se entiende por primeros jugos, el producto que se obtiene fundiendo mediante suave calentamiento la grasa del corazón, membranas, riñones y mesenterio de animales bovinos (Bos taurus) en buenas condiciones sanitarias en el momento de su sacrificio, y apto para el consumo humano. La materia prima no debe contener grasa de recortes.
+
+4\. Sebos comestibles: Se entiende por sebo comestible el producto obtenido por la fusión de tejidos grasos, limpios y sanos (incluyendo las grasas de recortes) y de músculos y huesos de animales bovinos (Bos taurus) y/o ovinos (Ovis aries), en buenas condiciones sanitarias, en el momento de su sacrificio, apto para el consumo humano.
+
+5\. Otras grasas animales: Bajo esta denominación se recogen las grasas comestibles obtenidas de animales sanos en el momento de captura y/o sacrificio, destacándose de entre ellas las grasas de animales marinos, aves, caprinos, conejos, caza, etc.
+
+#### Art. 4. Grasas vegetales.
+
+Son las obtenidas, por distintos procedimientos, de frutos o semillas sanos y limpios. Entre ellas podemos distinguir fundamentalmente las siguientes:
+
+1\. Manteca de coco: Es la grasa procedente del fruto del cocotero (Coco-nucífera L) adecuadamente refinada.
+
+2\. Grasa de palmiste: Es la grasa obtenida de la semilla del fruto de la palmera (Elaeís guineensis L) adecuadamente refinada.
+
+3\. Manteca de palma: Es la grasa obtenida exclusivamente de la pulpa del fruto de la palmera (Elaeis guineensis L) adecuadamente refinada.
+
+4\. Manteca de cacao: Es la grasa obtenida de las semillas del cacao o de otros productos semidesgrasados derivados de la semilla del cacao.
+
+> Se deroga el punto 5 por la disposición derogatoria.b) del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Art. 5. Grasas anhidras.
+
+A efectos de esta Reglamentación, se entiende por grasa anhidra, la constituida por aceites y/o grasas comestibles y sus mezclas, de aspecto homogéneo y con una humedad no superior a 0,5 por 100. Estas grasas se destinan a la alimentación a través de industrias alimentarias o para uso doméstico en preparaciones culinarias.
+
+#### Art. 6. Margarina.
+
+Es el alimento extensible, en forma de emulsión líquida o plástica, usualmente del tipo agua-aceite, obtenido principalmente a partir de grasas y aceites comestibles que no procedan fundamentalmente de la leche.
+
+#### Art. 7. Minarina.
+
+Es el alimento en forma de emulsión líquida o plástica, principalmente del tipo agua en aceite, obtenido a partir de grasas y aceites comestibles que no procedan fundamentalmente de la leche. Se caracteriza por su bajo contenido graso.
+
+#### Art. 8. Preparados grasos.
+
+Son los productos de aspecto graso elaborados con grasas comestibles autorizadas en esta norma como ingrediente primario. Además, podrán formar parte de su composición el agua, los aceites comestibles, otros ingredientes alimenticios, y los aditivos y aromas alimentarios autorizados para este tipo de productos. La denominación de venta será “preparado graso”.
+
+> Se modifica por el art. 2.1 del Real Decreto 142/2026, de 25 de febrero. [Ref. BOE-A-2026-4519](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4519)
+
+> Se deroga la segunda frase por la disposición derogatoria.b) del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+#### Art. 9. Definiciones complementarias. Ingrediente fundamental.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.2 del Real Decreto 142/2026, de 25 de febrero. [Ref. BOE-A-2026-4519](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4519)
+
+### TÍTULO II — Condiciones de las industrias, de los materiales y del personal
+
+> Se deroga, en todo lo referente a las grasas animales fundidas, por la disposición derogatoria única.6 del Real Decreto 1904/1993, de 29 de octubre. [Ref. BOE-A-1994-3253](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-3253).
+
+#### Art. 10. Requisitos industriales.
+
+Las industrias y establecimientos de elaboración y manipulación de grasas comestibles habrán de reunir las condiciones mínimas siguientes:
+
+1\. Todos los locales destinados a la preparación, elaboración, envasado y, en general, a la manipulación de grasas comestibles estarán debidamente aislados de cualesquiera otros anejos a sus cometidos específicos.
+
+2\. En cuanto a las instalaciones industriales, deberán cumplir los preceptos generales y específicos dictados para este tipo de industrias por los Ministerios de Industria y Energía, Agricultura, Economía y Comercio y Trabajo, Sanidad y Seguridad Social.
+
+3\. Les serán de aplicación los Reglamentos vigentes de recipientes a presión electrotécnicos para alta y baja tensión y, en general, cualesquiera otros de carácter industrial que conforme a su naturaleza o fin corresponda.
+
+4\. Los recipientes, máquinas y conducciones destinados a estar en contacto con los productos acabados, sus materias primas o con los productos intermedios serán de materiales que no alteren las características de su contenido, ni la de ellos mismos. Serán impermeables a las sustancias grasas y resistentes a su acción disolvente.
+
+> Téngase en cuenta que queda derogado este artículo, en todo lo referente a las grasas animales fundidas, por la disposición derogatoria única.6 del Real Decreto 1904/1993, de 29 de octubre. [Ref. BOE-A-1994-3253](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-3253).
+
+> Se deroga, en todo lo referente a las grasas animales fundidas, por la disposición derogatoria única.6 del Real Decreto 1904/1993, de 29 de octubre. [Ref. BOE-A-1994-3253](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-3253).
+
+#### Art. 11. Requisitos higiénico-sanitarios.
+
+De modo genérico las industrias de manipulación, elaboración y envasado de grasas comestibles deberán reunir las condiciones mínimas siguientes:
+
+1\. Los locales de elaboración o manipulación, almacenamiento y sus anexos, en todo caso, deberán ser adecuados para el uso a que se destinan, con emplazamiento y orientación apropiados, accesos fáciles y amplios situados a conveniente distancia de cualquier causa posible de contaminación o insalubridad y separados rigurosamente de viviendas o locales donde pernocte o haga sus comidas cualquier clase de personal.
+
+2\. En su construcción o reparación se utilizarán materiales verdaderamente idóneos y, en ningún caso, susceptibles de originar intoxicaciones o contaminaciones. Los pavimentos serán impermeables, lavables e ignífugos, dotándolos de los sistemas de desagüe precisos. Las paredes y techos se construirán con materiales que permitan su conservación en perfectas condiciones de limpieza.
+
+3\. La ventilación e iluminación, naturales o artificiales, serán las reglamentarias y, en todo caso, apropiadas a la capacidad y volumen del local, según la finalidad a que se destine.
+
+4\. Dispondrán en todo momento de agua corriente potable, a presión, fría y caliente, en cantidad suficiente para la elaboración, manipulación y preparación de sus productos. Podrá utilizarse agua de otra calidad en generadores de vapor instalaciones industriales frigoríficas, bocas de incendio y servicios auxiliares, siempre que no exista conexión entre esta red y la de agua potable.
+
+5\. Dispondrán de servicios higiénicos y vestuarios en número y con sus características acomodadas a lo que prevean las autoridades competentes.
+
+6\. Todos los locales de estas industrias o establecimientos se mantendrán limpios. La limpieza habrá de llevarse a cabo por los medios más apropiados para no levantar polvo ni provocar alteraciones o contaminaciones.
+
+7\. Contarán con servicios, defensas y utillajes e instalaciones adecuadas en su construcción y emplazamiento para garantizar la conservación de las grasas y otras materias primas en óptimas condiciones de limpieza e higiene y su no contaminación por la proximidad o contacto con cualquier clase de residuos, aguas residuales, humos, suciedad y materias extrañas, así como por la presencia de insectos, roedores, aves y otros animales.
+
+8\. Deberán poder mantener las apropiadas condiciones ambientales de manera que los productos intermedios o elaborados no sufran alteraciones o cambios en sus características normales. Igualmente deberán permitir la protección de las grasas contra la acción directa de la luz solar, cuanto ésta les pueda perjudicar.
+
+9\. Permitirán la rotación de las existencias y remociones periódicas en función del tiempo de almacenamiento y condiciones de conservación que exija cada producto.
+
+10\. Cualesquiera otras condiciones técnicas, sanitarias, higiénicas y laborales establecidas o que se establezcan en sus respectivas competencias por los Organismos de la Administración Pública.
+
+11\. Los equipos de manipulación, almacenamiento y conducciones de las grasas comestibles deberán ser practicables o desmontables para limpieza periódica fácil. Cuando para facilitar la limpieza, además de agua o vapor de agua, se utilicen detergentes, desincrustantes y desinfectantes, éstos deberán ser de composición autorizada para estar en contacto con los alimentos, por su inocuidad y, en todo caso, deberán ser eliminados hasta el límite de su detección analítica o hasta las proporciones máximas establecidas por la Dirección General correspondiente del Ministerio de Trabajo, Sanidad y Seguridad Social.
+
+> Téngase en cuenta que queda derogado este artículo, en todo lo referente a las grasas animales fundidas, por la disposición derogatoria única.6 del Real Decreto 1904/1993, de 29 de octubre. [Ref. BOE-A-1994-3253](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-3253).
+
+> Se deroga, en todo lo referente a las grasas animales fundidas, por la disposición derogatoria única.6 del Real Decreto 1904/1993, de 29 de octubre. [Ref. BOE-A-1994-3253](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-3253).
+
+#### Art. 12. Condiciones generales de los materiales.
+
+Todos los materiales de las máquinas y demás elementos que estén en contacto con materias primas o auxiliares, artículos en curso de elaboración y envases serán de características tales que no puedan transmitir a las grasas propiedades nocivas y originar, en contacto con ellas reacciones químicas, físicas o biológicas perjudiciales.
+
+Todo material que tenga contacto con las grasas comestibles, en cualquier momento de su manipulación, elaboración o envasado, deberá cumplir las siguientes condiciones, además de aquellas otras que específicamente se señalen en esta Reglamentación:
+
+1\. Estar fabricado en materias primas adecuadas y/o autorizadas para el fin a que se destinan.
+
+2\. No transmitir a las grasas comestibles con las que se ponga en contacto sustancias tóxicas o que puedan contaminarlas.
+
+3\. No ceder sustancia alguna ajena a la composición normal de las grasas comestibles o que aun no siéndolo, exceda del contenido autorizado en las mismas.
+
+4\. No alterar las características de composición ni los caracteres organolépticos de las grasas comestibles.
+
+> Téngase en cuenta que queda derogado este artículo, en todo lo referente a las grasas animales fundidas, por la disposición derogatoria única.6 del Real Decreto 1904/1993, de 29 de octubre. [Ref. BOE-A-1994-3253](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-3253).
+
+> Se deroga, en todo lo referente a las grasas animales fundidas, por la disposición derogatoria única.6 del Real Decreto 1904/1993, de 29 de octubre. [Ref. BOE-A-1994-3253](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-3253).
+
+#### Art. 13. Condiciones generales referentes al personal.
+
+1\. La higiene personal de todos los empleados será extremada y deberán cumplir las obligaciones generales, control de estado sanitario y aquellas otras que especifica el Código Alimentario Español en sus artículos 2.08.04 al 2.08.06, ambos inclusive.
+
+2\. El personal que trabaje en tareas de manipulación, elaboración y envasado de los productos objeto de esta Reglamentación vestirá ropa adecuada y cumplirá con las normas higiénicas más estrictas.
+
+> Téngase en cuenta que queda derogado este artículo, en todo lo referente a las grasas animales fundidas, por la disposición derogatoria única.6 del Real Decreto 1904/1993, de 29 de octubre. [Ref. BOE-A-1994-3253](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-3253).
+
+> Se deroga, en todo lo referente a las grasas animales fundidas, por la disposición derogatoria única.6 del Real Decreto 1904/1993, de 29 de octubre. [Ref. BOE-A-1994-3253](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-3253).
+
+### TÍTULO III — Registro sanitario
+
+#### Art. 14. Identificación de la industria.
+
+**(Derogado)**
+
+> Se deroga por el art. 10 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### TÍTULO IV — Características de los productos regulados por esta Reglamentación
+
+#### Art. 15. Grasas comestibles.
+
+Las grasas no líquidas, una vez fundidas, deberán ser claras y transparentes, sin contener sustancias en suspensión o posos, deberán tener un aspecto limpio con olor y sabor agradables o neutros.
+
+1\. Las características químicas generales, con excepción de los que vengan específicamente expuestas en cada caso, serán las siguiente:
+
+| Materias volátiles en estufa a 105º C, máximo | 0,3 % |
+|---|---|
+| Impurezas insolubles en éter de petróleo, expresadas sobre materia seca, máximo | 0,05 % |
+| Acidez libre, expresada en ácido oleico y referida a grasa seca, máximo en grasas refinadas | 0,15 % |
+| Índice de peróxidos (miliequivalentes de oxígeno activo por kg. de grasa) | < 10 |
+
+> Se derogan los límites de metales pesados por el art. 10 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se deroga el apartado 2 por el art. único.c) del Real Decreto 135/2010, de 12 de febrero. [Ref. BOE-A-2010-3032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3032).
+
+> Se modifica según las especificaciones mencionadas en el art. único del Real Decreto 1356/1991, de 13 de septiembre. [Ref. BOE-A-1991-23408](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-23408).
+
+> Se deroga el párrafo 2 por la disposición derogatoria del Real Decreto 472/1990, de 6 de abril. [Ref. BOE-A-1990-8949](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-8949).
+
+> Se modifica el apartado 2 por el art. único del Real Decreto 3141/1982, de 12 de noviembre. [Ref. BOE-A-1982-30780](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-30780).
+
+#### Art. 16. Grasa de cerdo.
+
+De modo genérico, tanto la manteca como la grasa fundida presentarán color blanco cuando estén sólidas, con olor y sabor característicos, exentos de olores y sabores extraños. En ningún caso será admisible como característico el olor a descomposición a putrefacción de la proteína del tejido de procedencia.
+
+Estas grasas para su uso comestible sin transformación, deberán cumplir las especificaciones siguientes:
+
+|  | Manteca<br>de cerdo | Grasa fundida de cerdo |
+|---|---|---|
+| Densidad relativa (40º C./agua a 20º C.) | 0,896-0,904 | 0,894-0,906 |
+| Índice de refracción (n<sub>D</sub> 40º C.) | 1.448-1.460 | 1.448-1.461 |
+| Título (OC) | 32-45 | 32-45 |
+| Índice de saponificación (mg. de KOH/gr. de grasa) | 192-203 | 192-203 |
+| Índice de yodo (Wijs) | 45-70 | 45-70 |
+| M. insaponificable | < 10 gr./kg. | < 12 gr./kg. |
+| Índice de acidez (mg. de KOH/gr. de grasa) | < 1,0 mg. | < 2,0 mg. |
+| Índice de peróxidos (miliequivalentes de oxígeno activo/kg, de grasa) | < 3 | < 10 |
+| Materia volátil a 105º C (máximo) | 0,3 % m/m. | 0,3 % m/m. |
+| Impurezas (máximo) | 0,05 % m/m. | 0,05 % m/m. |
+| Contenido de jabón (máximo) | Ninguno | 0.005 % m/m. |
+
+> Se derogan los límites de metales pesados por el art. 10 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se modifica por el art. único.1 del Real Decreto 1356/1991, de 13 de septiembre. [Ref. BOE-A-1991-23408](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-23408).
+
+#### Art. 17. Sebos alimenticios.
+
+Los denominados primeros jugos y los sebos alimenticios, pera uso comestible sin transformación cumplirán las siguientes especificaciones:
+
+|  | Primeros jugos | Sebos comestibles |
+|---|---|---|
+| Caracteres organolépticos | Color blanco, cremoso o amarillo pálido. Olor y sabor característicos y exentos de olores y sabores extraños. Sin olor a proteína en descomposición. | Color blanco sucio o amarillo pálido. Olor y sabor característicos y exentos de olores y sabores extraños. Sin olor a proteína en descomposición. |
+| Densidad relativa (40º C./agua a 20º C.) | 0,893-0,898 | 0,893-0,904 |
+| Índice de refracción (n<sub>D</sub> 40º C.) | 1.448-1.460 | 1.448-1.460 |
+| Título (ºC) | 42,5-47 | 40-49 |
+| Índice de soponización (mg. KOH/gr. de grasa) | 190-200 | 190-202 |
+| Índice de yodo (Wijs) | 32-47 | 32-50 |
+| M. insaponificable | <10 gr/Kg. | <12 gr/Kg. |
+| Índice de acidez (mg. de KOH/gr. de grasa) | < 1mg./gr. | < 2,0 mg./gr. |
+| Índice de peróxidos (miliequivalentes de oxígeno activo/Kg. de grasa) | < 3 | < 10 |
+| Materia volátil a 105º C. (máximo) | 0,3 % m/m. | 0,3 % m/m. |
+| Impurezas (máximo) | 0,05 % m/m. | 0,05 % m/m. |
+| Contenido en jabón (máximo) | Ninguno | 0,005 % m/m. |
+
+> Se derogan los límites de metales pesados por el art. 10 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se modifica por el art. único.1 del Real Decreto 1356/1991, de 13 de septiembre. [Ref. BOE-A-1991-23408](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-23408).
+
+#### Art. 18. Otras grasas animales.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.2 del Real Decreto 142/2026, de 25 de febrero. [Ref. BOE-A-2026-4519](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4519)
+
+#### Art. 19. Manteca de coco.
+
+Esta grasa, para uso comestible sin transformación, deberá cumplir las especificaciones siguientes:
+
+| Caracteres organolépticos | Masa de consistencia que varía de sólida a líquida, según la temperatura ambiente, de color blanco marfil, inodora, insípida o de sabor suave característico. |
+|---|---|
+| Densidad a 40º C./agua a 15º C | 0,907-0,909 |
+| Índice de refracción n<sub>D</sub> 40º C) | 1.448-1.450 |
+| Título (ºC) | 20-25 |
+| Índice de saponificación (mg. de KOH/gramos) de grasa | 248-265 |
+| Índice de yodo (Wijs) | 6-11 |
+| Materia insaponificable | < 0,5 % |
+| Índice de acidez (mg. de KOH/gr. de grasa) | < 0,3 |
+| Índice de peróxidos (miliequivalentes de oxígeno activo/Kg. de grasa) | < 10 |
+| Materia volátil a 105º C. (máximo) | 0,2 % m/m. |
+| Índice de Reichert-Meissi (*) | 6-8 |
+| Índice de Polenske (*) | 14-18 |
+| Índice de Kirchner (*) | 1-2 |
+| Impurezas (máximo) | 0,05 % m/m. |
+| Contenido en jabón (máximo) | 50 p. p. m. |
+| Metales pesados (máximo): |  |
+| Hierro | 1,0 p. p. m. |
+| Cobre | 0,2 p. p. m. |
+| Plomo | 0,1 p. p. m. |
+| Arsénico | 0,1 p. p. m. |
+
+(*) El valor de estos índices es orientativo, no excluyendo su determinación la posibilidad de utilizar, para diferenciación, la técnica de cromatografía de gases.
+
+> Se modifica por el art. único.2 del Real Decreto 1356/1991, de 13 de septiembre. [Ref. BOE-A-1991-23408](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-23408).
+
+#### Art. 20. Grasa de palmiste.
+
+Esta grasa, para su uso comestible sin transformar, deberá cumplir las especificaciones siguientes:
+
+| Caracteres organolépticos | Líquido oleoso o masa de consistencia entre sólida y líquida, según la temperatura ambiente, de color amarillo claro, olor característico y sabor agradable, suave y un tanto aromático. |
+|---|---|
+| Densidad a 40º C./agua a 15º C | 0,903-0,908 |
+| Índice de refracción n<sub>D</sub> 40º C) | 1.449-1.452 |
+| Título (ºC) | 23-29 |
+| Índice de saponificación (mg. de KOH/gramos) de grasa | 237-252 |
+| Índice de yodo (Wijs) | 14-22 |
+| Materia insaponificable | < 0,8 % |
+| Índice de acidez (mg. de KOH/gr. de grasa) | < 0,3 |
+| Índice de peróxidos (miliequivalentes de oxígeno activo/Kg. de grasa) | < 10 |
+| Índice de Reichert-Meissi (*) | 4-7 |
+| Índice de Polenske (*) | 9-11 |
+| Índice de Kirchner (*) | 0,5-1,0 |
+| Materia volátil a 105º C. (máximo) | 0,2 % m/m. |
+| Impurezas (máximo) | 0,05 % m/m. |
+| Contenido en jabón (máximo) | 50 p. p. m. |
+
+(*) El valor de estos índices es orientativo, no excluyendo su determinación la posibilidad de utilizar, para diferenciación, la técnica de cromatografía de gases.
+
+| Metales pesados (máximo): |  |
+|---|---|
+| Hierro | 1,0 p. p. m. |
+| Cobre | 0,2 p. p. m. |
+| Plomo | 0,1 p. p. m. |
+| Arsénico | 0,1 p. p. m. |
+
+> Se modifica por el art. único.3 del Real Decreto 1356/1991, de 13 de septiembre. [Ref. BOE-A-1991-23408](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-23408).
+
+#### Art. 21. Manteca de palma.
+
+Esta grasa, para su uso comestible, sin transformación, deberá cumplir las especificaciones siguientes:
+
+| Caracteres organolépticos | Masa pastosa o sólida a temperatura ambiente, de color amarillo claro o rojizo e inestable térmicamente. |
+|---|---|
+| Densidad a 40º C./agua a 15º C | 0,890-0,900 |
+| Índice de refracción n<sub>D</sub> 40º C) | 1.453-1.460 |
+| Título (ºC) | 38-46 |
+| Índice de saponificación (mg. de KOH/gramos) de grasa | 195-206 |
+| Índice de yodo (Wijs) | 45-58 |
+| Materia insaponificable | 0,5-1,2 % |
+| Índice de acidez (mg. de KOH/gr. de grasa) | 0,3 |
+| Índice de peróxidos (miliequivalentes de oxígeno activo/Kg. de grasa) | < 10 |
+| Índice de Reichert-Meissi (*) | 1 |
+| Índice de Polenske (*) | 1 |
+| Índice de Kirchner (*) | 1 |
+| Materia volátil a 105º C. (máximo) | 0,2 % m/m. |
+| Impurezas (máximo) | 0,05 % m/m. |
+| Contenido en jabón (máximo) | 50 p. p. m. |
+| Metales pesados (máximo): |  |
+| Hierro | 1,0 p. p. m. |
+| Cobre | 0,2 p. p. m. |
+| Plomo | 0,1 p. p. m. |
+| Arsénico | 0,1 p. p. m. |
+
+(*) El valor de estos índices es orientativo, no excluyendo su determinación la posibilidad de utilizar, para diferenciación, la técnica de cromatografía de gases.
+
+> Se modifica por el art. único.4 del Real Decreto 1356/1991, de 13 de septiembre. [Ref. BOE-A-1991-23408](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-23408).
+
+#### Art. 22. Manteca de cacao comestible.
+
+Las características de esta grasa serán las que establece la Reglamentación Técnico-Sanitaria para la elaboración, circulación y comercio del cacao, chocolate, productos derivados y sucedáneas del chocolate, aprobada por Decreto 3610/1975, de 5 de diciembre.
+
+#### Art. 23. Otras grasas vegetales.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.2 del Real Decreto 142/2026, de 25 de febrero. [Ref. BOE-A-2026-4519](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4519)
+
+#### Art. 24. Grasas anhidras.
+
+Estas grasas dispuestas para su empleo habrán de ser masas de aspecto homogéneo, sólidas, fluidas o en polvo y con las siguientes características.
+
+– Extracto al éter de petróleo (de 30 a 60 grados de punto de ebullición) en proporción no inferior al 96 por 100.
+
+– Acidez de la materia grasa inferior al 0,5 por 100 expresado en ácido oleíco.
+
+– Humedad no superior al 0,5 por 100.
+
+#### Art. 25. Margarinas.
+
+El producto terminado y dispuesto para el consumo, reunirá las siguientes características fundamentales:
+
+– Masa amarillenta con plasticidad adecuada para su manipulación y apropiados caracteres organelépticos.
+
+– Extracto al éter de petróleo (de 30 a 80 grados de punto de ebullición) 80 por 100 en peso, como mínimo.
+
+– Prueba de fosfatasa, negativa.
+
+– Acidez de la grasa, 0,5 por 100 como máximo expresado en ácido oleíco.
+
+– Punto de fusión (deslizamiento) a 38º centígrados o inferior, para las margarinas de boca.
+
+#### Art. 26. Minarinas.
+
+El producto terminado y dispuesto para el consumo, reunirá las siguientes características fundamentales.
+
+– Extracto al éter de petróleo (de 30 a 60 grados de punto de ebullición) no superior al 41 por 100 ni inferior al 39 por 100.
+
+– Humedad mínima, 50 por 100.
+
+– Acidez de la grasa, 0,5 por 100 como máximo expresado en ácido oleíco.
+
+– Prueba de fosfatasa, negativa.
+
+#### Art. 27. Otras grasas comestibles y preparados grasos.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria.b) del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+### TÍTULO V — Manipulaciones permitidas y prohibiciones
+
+#### Art. 28. Manipulaciones permitidas.
+
+Los procedimientos permitidos para la obtención de grasas comestibles de las semillas o frutos oleaginosos y de los tejidos o depósitos adiposos de animales son los siguientes:
+
+1\. Presión, previa trituración o no de la materia prima.
+
+2\. Fusión por tratamiento térmico de la materia prima, sin sobrepasar la temperatura de 100º centígrados.
+
+3\. Otros procedimientos de extracción en caldera cerrada, hasta 200º centígrados en atmósfera inerte, vacío o vapor de agua a presión, siempre que después sufran un procedimiento de refinación completo.
+
+4\. Extracción con los disolventes permitidos, seguida de la eliminación de éstos hasta el límite señalado en el artículo 15.
+
+5\. Además de los tratamientos particulares autorizados en algunos artículos de esta Reglamentación, se permiten, con carácter general los siguientes:
+
+a) La clarificación, por un proceso mecánico: sedimentación, centrifugación o filtración.
+
+b) **(Derogado)**
+
+c) **(Derogado)**
+
+d) **(Derogado)**
+
+e) La desodorización por tratamiento en corriente de vapor de agua a presión reducida.
+
+f) El fraccionamiento por enfriamiento y separación subsiguiente.
+
+6\. Se podrán autorizar otros tratamientos para la obtención de grasas comestibles, siempre que cumplan las condiciones siguientes:
+
+a) Que no resulte de su aplicación una merma del valor alimenticio específico del producto obtenido, respecto al procedente de otros métodos autorizados.
+
+b) Que no produzcan cambios perjudiciales en la estructura natural de los componentes.
+
+c) Que se haya comprobado la acción inocua de los productos por pruebas biológicas.
+
+7.**(Derogado)**
+
+8\. En el caso específico de las grasas animales, además de los tratamientos ya citados, se permiten las siguientes manipulaciones: lavado con agua, secado, picado o trituración, difusión y agitación simultánea, clarificación por sedimentación separación de fracciones que sean líquidas, semilíquidas, plásticas y sólidas o concretas, a temperatura de 20º centígrados.
+
+9\. En el caso de elaboración de margarinas, grasas anhidras y otros productos definidos en los artículos 7.º y 8.º, se autoriza el tratamiento de grasas por procedimientos tales como la hidrogenación, el fraccionamiento, la interesterificación y otros que cumplan lo establecido en el punto 6 de este artículo.
+
+10\. En la elaboración de grasas comestibles, se podrán utilizar los aditivos autorizados para estos fines por la Dirección General correspondiente del Ministerio de Trabajo, Sanidad v Seguridad Social.
+
+11\. A las margarinas, grasas anhidras y otros productos definidos en los artículos 7.º y 8.º se podrán incorporar otros ingredientes alimenticios, sustancias enriquecedoras, condimentos, aditivos y agentes aromáticos autorizados por la Dirección General correspondiente del Ministerio de Trabajo, Sanidad y Seguridad Social, para estos fines.
+
+12\. Los preparados grasos definidos en el artículo 8.º podrán llevar incorporado los aditivos que se encuentren autorizados en los productos a que van dirigidos.
+
+> Se derogan los apartados 5.b), c) y d) por la disposición derogatoria única.2 del Real Decreto 773/2023, de 3 de octubre. [Ref. BOE-A-2023-20563](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-20563)
+
+> Se deroga el apartado 7 por disposición derogatoria del Real Decreto 472/1990, de 6 de abril. [Ref. BOE-A-1990-8949](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-8949).
+
+#### Art. 29. Prohibiciones.
+
+En la obtención, tratamiento, manipulación y comercialización de las grasas comestibles se prohíbe:
+
+1\. Cualquier práctica que a la presión ordinaria las someta a temperaturas superiores a las admisibles para cada tipo de grasa y en la que se prevea una alteración de la estructura química del producto que pueda resultar nociva para el consumidor.
+
+2\. El empleo de disolventes no autorizados en el artículo anterior.
+
+3\. El tratamiento con oxígeno, ozono y otras sustancias químicas oxidantes.
+
+4\. La neutralización por medios o con sustancias distintas de las autorizadas.
+
+5\. Las síntesis de los triglicéridos a partir de cualquiera de sus componentes, aunque éstos sean de origen natural.
+
+6\. La mezcla de grasas comestibles de distinta naturaleza que se prohíba en el Código Alimentario Español, Reglamentaciones y normas específicas, sin indicación expresa en la rotulación del envase.
+
+7\. La utilización de aceites y grasas polimerizados, oxidados o que no cumplan con sus respectivas especificaciones en margarinas, grasas anhidras y otros productos grasos definidos en los artículos 7.º y 8.º
+
+8\. La incorporación de grasas distintas a la que se comercializa como pura y de un sólo origen.
+
+9\. Las grasas anhidras no podrán destinarse al consumo directo de boca.
+
+### TÍTULO VI — Almacenamiento y transporte
+
+#### Art. 30. Almacenamiento y transporte de grasas.
+
+**(Derogado)**
+
+> Se deroga por el art. 10 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### TÍTULO VII — Envasado, etiquetado y rotulación
+
+#### Art. 31. Envasado.
+
+**(Derogado)**
+
+> Se deroga por el art. 10 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+#### Art. 32. Rotulación y etiquetado.
+
+En los envases de grasas comestibles dispuestos para la venta al consumidor, tanto a nivel industrial como al público, deberán figurar los datos que se especifican a continuación, en tamaño de letra suficientemente legible y en español:
+
+1\. **(Derogado)**
+
+2\. **(Derogado)**
+
+3\. **(Derogado)**
+
+4\. **(Derogado)**
+
+5\. **(Derogado)**
+
+6\. **(Derogado)**
+
+7\. **(Derogado)**
+
+8\. **(Derogado)**
+
+9\. En el caso de las margarinas, grasas anhidras y minarinas:
+
+– En el caso de que se les incorpore sal comestible, en proporción superior al 0,5 por 100, deberá llevar una referencia a tal efecto en el envase.
+
+No podrá calificarse a uno de estos productos como «al huevo» o «con huevo», aunque lo contenga, si se le ha añadido un colorante natural o artificial.
+
+10\. En el caso de los preparados grasos, debe indicarse, además, en la rotulación del envase el porcentaje de materia grasa. No podrá emplearse la palabra crema o cualquier otra que induzca a error en la denominación de los preparados grasos con destino a la venta directa al público.
+
+> Se derogan todos los apartados excepto el segundo guión y el inciso final del apartado 9 y el apartado 10, por el art. 10 del Real Decreto176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### TÍTULO VIII — Exportación e importación
+
+> Se deroga, en todo lo referente a las grasas animales fundidas, por la disposición derogatoria única.4 del Real Decreto 218/1999, de 5 de febrero. [Ref. BOE-A-1999-4526](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4526).
+
+#### Art. 33. Exportación.
+
+Las grasas comestibles destinadas a la exportación se ajustarán a las disposiciones reglamentarias exigidas por el país de destino. Cuando estas disposiciones no aseguren el cumplimiento de las especificaciones técnicas que fija esta Reglamentación, no podrán comercializarse en España sin la autorización del Ministerio de Economía y Comercio y previo informe favorable de la Dirección General correspondiente del Ministerio de Trabajo, Sanidad y Seguridad Social.
+
+> Téngase en cuenta que queda derogado este artículo, en todo lo referente a las grasas animales fundidas, por la disposición derogatoria única.4 del Real Decreto 218/1999, de 5 de febrero. [Ref. BOE-A-1999-4526](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4526).
+
+> Se deroga, en todo lo referente a las grasas animales fundidas, por la disposición derogatoria única.4 del Real Decreto 218/1999, de 5 de febrero. [Ref. BOE-A-1999-4526](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4526).
+
+#### Art. 34. Importación.
+
+**(Derogado)**
+
+> Se deroga por el art. 10 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402)
+
+> Se deroga, en todo lo referente a las grasas animales fundidas, por la disposición derogatoria única.4 del Real Decreto 218/1999, de 5 de febrero. [Ref. BOE-A-1999-4526](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4526).
+
+> Se modifica por el art. único.5 del Real Decreto 1356/1991, de 13 de septiembre. [Ref. BOE-A-1991-23408](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-23408).
+
+### TÍTULO IX — Responsabilidad y competencias
+
+#### Art. 35. Responsabilidad.
+
+**(Derogado)**
+
+> Se deroga por el art. 10 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402)
+
+#### Art. 36. Competencias.
+
+**(Derogado)**
+
+> Se deroga por el art. 10 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).

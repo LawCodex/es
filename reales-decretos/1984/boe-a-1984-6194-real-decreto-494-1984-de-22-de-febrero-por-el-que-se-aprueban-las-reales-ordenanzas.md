@@ -1,0 +1,667 @@
+---
+title: "Real Decreto 494/1984, de 22 de febrero, por el que se aprueban las Reales Ordenanzas del Ejército del Aire"
+identifier: "BOE-A-1984-6194"
+eli: "https://www.boe.es/eli/es/rd/1984/02/22/494"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Defensa"
+date: 1984-02-22
+published: 1984-03-12
+in_force_from: 1984-04-01
+last_amended: 2012-03-06
+consolidated: 2026-01-20
+gazette: "Boletín Oficial del Estado núm. 61"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1984-6194"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 494/1984, de 22 de febrero, por el que se aprueban las Reales Ordenanzas del Ejército del Aire
+
+Incluye la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+La disposición final segunda de la Ley 85/1978, de 29 de diciembre, autoriza al Gobierno a dictar en desarrollo de la misma, las disposiciones necesarias para adecuar a los principios generales de dicha Ley las normas de vida de las unidades militares.
+
+En su virtud, a propuesta del Ministro de Defensa, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 22 de febrero de 1984,
+
+DISPONGO:
+
+##### Art. 1.
+
+Se aprueban las Reales Ordenanzas del Ejército del Aire que se insertan a continuación.
+
+##### Art. 2.
+
+El presente Real Decreto y el texto reglamentario que por el mismo se aprueba entrarán en vigor el día 1 de abril de 1984.
+
+##### Disposición final.
+
+Por el Ministro de Defensa se dictarán cuantas disposiciones sean necesarias para la aplicación y desarrollo de este Real Decreto.
+
+##### Disposición derogatoria.
+
+Quedan derogadas todas aquellas disposiciones de igual o inferior rango que se opongan a lo preceptuado en este Real Decreto. El Ministerio de Defensa publicará, antes del 1 de abril de 1984, la tabla de disposiciones derogadas.
+
+Dado en Madrid a 22 de febrero de 1984.
+
+JUAN CARLOS R.
+
+El Ministro de Defensa,
+
+NARCISO SERRA SERRA
+
+## REALES ORDENANZAS DEL EJÉRCITO DEL AIRE
+
+## TRATADO PRELIMINAR — Del Ejército del Aire
+
+##### Arts. 1 a 11.
+
+**(Derogados)**
+
+> Se derogan los arts. 1 a 5 por la disposición derogatoria única.2.c) del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074). y los arts. 6 a 11, que se mantenían vigentes con rango de orden ministerial, por la disposición derogatoria única.1 de la Orden Ministerial 13/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012.
+
+## TRATADO PRIMERO — Del mando
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+### TÍTULO I — Conceptos generales
+
+##### Arts. 12 a 20.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1.c) del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+### TÍTULO II — Del mando en los escalones superiores
+
+##### Arts. 21 a 23.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.2.c) del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+### TÍTULO III — Del mando en las Unidades Aéreas
+
+> Se les atribuye el rango de orden ministerial a los arts. 24 a 109, que integran este título, según establece la disposición derogatoria única.4.c).3º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+##### Arts. 24 a 109.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Orden Ministerial 13/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012.
+
+### TÍTULO IV — Del Comandante de Aeronave
+
+> Se les atribuye el rango de orden ministerial a los arts. 110 a 129, que integran este título, según establece la disposición derogatoria única.4.c).3º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 110 a 129.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Orden Ministerial 13/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012.
+
+### TÍTULO V — De la asignación y sucesión de mando
+
+> Se les atribuye el rango de orden ministerial a los arts. 130 a 139, que integran este título, según establece la disposición derogatoria única.4.c).3º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 130 a 139.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Orden Ministerial 13/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012.
+
+## TRATADO SEGUNDO — Del Régimen Interior
+
+### TÍTULO VI — Conceptos generales
+
+> Se les atribuye el rango de orden ministerial a los arts. 140 a 147, que integran este título, según establece la disposición derogatoria única.4.c).3º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 140 a 147.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Orden Ministerial 13/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012.
+
+### TÍTULO VII — De los actos
+
+> Se les atribuye el rango de orden ministerial a los arts. 148 a 180, que integran este título, según establece la disposición derogatoria única.4.c).3º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 148 a 180.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Orden Ministerial 13/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012.
+
+### TÍTULO VIII — De los toques de ordenanza
+
+> Se les atribuye el rango de orden ministerial a los arts. 181 a 183, que integran este título, según establece la disposición derogatoria única.4.c).3º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 181 a 183.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Orden Ministerial 13/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012.
+
+### TÍTULO IX — De los servicios
+
+> Se les atribuye el rango de orden ministerial a los arts. 184 a 288, que integran este título, según establece la disposición derogatoria única.4.c).3º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 184 a 288.
+
+**(Derogados)**
+
+> Se derogan los arts. 184 a 212 y 214 a 288 por la disposición derogatoria única.1 de la Orden Ministerial 13/2012, de 28 de febrero, publicada en el Boletín Oficial del Ministerio de Defensa de 6 de marzo de 2012 y el art. 213 por la disposición derogatoria única.1 del Real Decreto 194/2010, de 26 de febrero. [Ref. BOE-A-2010-4219](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4219).
+
+### TÍTULO X — De la asistencia religiosa
+
+> Téngase en cuenta que continúan vigentes y mantienen el rango de real decreto los arts. 289 a 299, que integran este título, según establece la disposición derogatoria única.4.b).3º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Art. 289.
+
+Los mandos del Ejército del Aire respetarán y protegerán el derecho a la libertad religiosa de sus subordinados, en los términos previstos por la Constitución, y por la Ley Orgánica de Libertad Religiosa. Cuando coexistan fieles de distintas iglesias, confesiones o comunidades religiosas, cuidarán de la armonía en sus relaciones.
+
+##### Art. 290.
+
+Concederán el tiempo necesario para el cumplimiento de los deberes religiosos, siempre que no se perturbe el servicio ni el régimen de vida de las Unidades y Organismos, y procurarán proporcionar, en el propio ámbito militar, lugares y medios adecuados para el desarrollo de las actividades religiosas.
+
+##### Art. 291.
+
+Prestarán a los capellanes y a los demás ministros autorizados el apoyo que precisen para el desempeño de sus funciones, y respetarán y harán respetar su derecho y su deber de mantener el secreto de lo que no pueden revelar por razón de su ministerio.
+
+##### Art. 292.
+
+Los actos religiosos de culto o de formación y las reuniones de miembros de iglesias, confesiones o comunidades religiosas legalmente reconocidas, que se celebren dentro de las Bases, Aeródromos y Acuartelamientos, se ajustarán a las disposiciones generales sobre reuniones en recintos militares. La autorización correspondiente podrá concederse de manera general para actos que se celebren con periodicidad.
+
+##### Art. 293.
+
+Los miembros del Ejército del Aire recibirán asistencia religiosa de los capellanes militares o de ministros contratados o autorizados de confesiones legalmente reconocidas. La coordinación de los servicios religiosos de distintas confesiones comprendiendo la regulación de horarios, el uso alternativo de locales y otros pormenores, corresponderá al mando militar a propuesta de los encargados de prestar la asistencia religiosa.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+##### Art. 294.
+
+No podrán ser obligados a declarar sobre su ideología, religión o creencias, pero pueden ser preguntados a los solos efectos de facilitar la organización de la asistencia religiosa, si bien podrán abstenerse de contestar si así lo desean.
+
+##### Art. 295.
+
+Con ocasión del fallecimiento de un miembro del Ejército del Aire, y con independencia de las honras fúnebres que le correspondan podrán autorizarse la organización de exequias, con los ritos propios de la religión que profesara el finado.
+
+##### Art. 296.
+
+El capellán católico, como párroco de los miembros de la Unidad u Organismo y de su familiares, que profesen esta religión, ejercerá su acción pastoral sobre ellos y llevará a cabo su ministerio de acuerdo con lo dispuesto en el Reglamento del Cuerpo Eclesiástico.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+##### Art. 297.
+
+Su actuación pastoral y los actos religiosos que tengan lugar en la Unidad u Organismo deberán ser programados de acuerdo con el Jefe respectivo. En las Bases, Aeródromos y Acuartelamientos ocupados por más de una Unidad u Organismo estos actos podrán realizarse en común bajo la coordinación de su Jefe.
+
+##### Art. 298.
+
+Con ocasión de ejercicios de tiro, marchas, maniobras y actos que entrañen especial riesgo, los capellanes militares se situarán en el puesto de socorro o en otro de fácil y rápida localización designado por el mando.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+##### Art. 299.
+
+Cuando haya capellanes de otras religiones desempeñarán funciones análogas, en las mismas condiciones que los católicos, en consonancia con los acuerdos que el Estado haya establecido con la iglesia, confesión o comunidad religiosa correspondiente.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+### TÍTULO XI — De la sanidad e higiene
+
+> Téngase en cuenta que continúan vigentes y mantienen el rango de real decreto los arts.300 a 306, que integran este título, según establece la disposición derogatoria única.4.b).3º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Art. 300.
+
+El estado de salud e higiene del personal y las condiciones higiénicas de los locales, instalaciones y zonas libres será preocupación constante de todos los mandos y muy especialmente de los Jefes de Unidad.
+
+##### Art. 301.
+
+Se atenderá a que el personal disponga de las instalaciones higiénicas convenientes y se vigilará que vista las prendas apropiadas a la estación, clima y servicio que preste, y que la duración de éste sea la adecuada al esfuerzo a desarrollar y a las condiciones meteorológicas reinantes.
+
+##### Art. 302.
+
+Los facultativos llevarán a cabo reconocimientos médicos periódicos para comprobar el estado de salud del personal y se tomarán medidas para impedir la difusión de enfermedades transmisibles y para la prevención de las toxicomanías.
+
+##### Art. 303.
+
+Se efectuarán las vacunaciones reglamentarias de acuerdo con el calendario previsto, así como las extraordinarias, y se cumplimentarán las disposiciones de profilaxis específicas que la legislación preceptúa para determinadas enfermedades infecciosas.
+
+##### Art. 304.
+
+Se inspeccionarán con frecuencia los locales y dependencias para comprobar el estado de higiene de los mismos y se realizarán, en su caso, las oportunas acciones de desinfección, desinsectación y desratización.
+
+##### Art. 305.
+
+Se vigilarán las condiciones higiénicas de los alimentos y bebidas, del personal encargado de manipularlos y del utensilio de los comedores, cocinas, bares y cantinas. Se estudiará y valorará por los facultativos la ración alimenticia diaria a fin de que sea la adecuada a las condiciones climáticas y estacionales y al tipo de actividad a desarrollar.
+
+Se comprobará periódicamente la potabilidad del agua y se atenderá a que sus características la hagan adecuada para el uso.
+
+##### Art. 306.
+
+En las prácticas, ejercicios y otras actividades que entrañen especial riesgo, se establecerá un puesto de socorro, en el lugar apropiado, con el personal y material idóneo.
+
+### TÍTULO XII — De las actividades culturales, deportivas y recreativas
+
+##### Arts. 307 a 311.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.2.c) del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+## TRATADO TERCERO — De la disciplina
+
+### TÍTULO XIII — Conceptos generales
+
+##### Arts. 312 a 317.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.2.c) del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+### TÍTULO XIV — De las manifestaciones externas de la disciplina
+
+> Téngase en cuenta que se les atribuye el rango de orden ministerial a los arts. 318 a 358, que integran este título, según establece la disposición derogatoria única.4.c).3º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Art. 318.
+
+La disciplina halla su expresión externa en las muestras de respeto y subordinación entre militares, quienes a estos efectos se atendrán al orden jerárquico de empleo y antigüedad, independientemente del Ejército, Arma, Cuerpo o Escala a que pertenezcan.
+
+##### Art. 319.
+
+La corrección en el saludo y en la uniformidad, el tratamiento debido y la cortesía en las relaciones entre los militares, constituyen testimonio de mutuo respeto y de formación castrense, que han de ser practicados y exigidos con exactitud.
+
+##### Art. 320.
+
+El militar tratará con respeto y atención a sus superiores y subordinados y distinguirá a sus mandos directos, hasta en los actos fuera de servicio, adaptándose en este caso a las circunstancias particulares del momento.
+
+#### Del saludo
+
+##### Art. 321.
+
+Todo militar saludará a las Banderas y Estandartes de las Unidades y durante la interpretación del Himno Nacional. También saludará militarmente a Sus Majestades los Reyes, a S. A. R. el Príncipe de Asturias, a los Infantes de España, al Presidente y al Vicepresidente del Gobierno y al Ministro de Defensa, en la forma y de acuerdo con lo reglamentariamente dispuesto.
+
+Al embarcar o desembarcar de un buque de la Armada saludará a la Bandera, dándole frente en el momento de pisar o abandonar la cubierta.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+##### Art. 322.
+
+El saludo entre militares constituye una muestra de respeto mutuo. Se efectuará por el de menor jerarquía y será correspondido por el superior. Entre los de igual empleo el saludo se practicará de acuerdo con las reglas dictadas por el compañerismo y la buena educación. Su ejecución se regirá por lo establecido en los reglamentos.
+
+##### Art. 323.
+
+Los alumnos de las Academias o Escuelas de Formación de oficiales saludarán a los oficiales y responderán al que reciban de los suboficiales y clases de tropa y marinería. Los alumnos de las Academias o Escuelas de Formación de suboficiales saludarán a los oficiales y suboficiales y responderán al que reciban de las clases de tropa y marinería.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+##### Art. 324.
+
+En los lugares de trabajo en común o de encuentro frecuente, el militar saludará la primera vez que coincida con cada uno de sus superiores y cuando posteriormente se dirija a ellos, bien sea por su propia iniciativa o por haber sido llamado por éstos.
+
+##### Art. 325.
+
+Si por la actividad que esté desarrollando no puede efectuar el saludo reglamentario, adoptará la postura más correcta que le sea posible y empleará la fórmula verbal de saludo que figura en el artículo siguiente.
+
+##### Art. 326.
+
+Todo militar que deba dirigirse de palabra a un superior se cuadrará ante él, le saludará y le dirá «a la orden de (tratamiento) mi (empleo del superior)», cuando tenga tratamiento de Excelencia o Señoría y «a sus órdenes, mi (empleo del superior)» cuando tenga el de usted, quedando luego en la posición de firmes mientras no se le indique otra cosa. Al despedirse se cuadrará, empleará la fórmula «ordena (tratamiento) alguna cosa, mi (empleo del superior)» y volverá a saludar. Cuando encontrándose en formación haya de dar parte de novedades, permanecerá saludando mientras lo expone; el superior lo recibirá de igual forma.
+
+##### Art. 327.
+
+Quedará dispensado de la obligación de saludar, si se encuentra desempeñando un servicio o función que exija una atención que le impida distraerse de su cometido.
+
+##### Art. 328.
+
+A los militares de Ejércitos extranjeros saludará en iguales casos que a los del propio, en justa correspondencia y con la oportuna flexibilidad para adaptarse a las diferentes costumbres o normas.
+
+##### Art. 329.
+
+Saludará a los superiores que vistan de paisano cuando conozca su condición o aquéllos se den a conocer. Cuando no vaya de uniforme, empleará la fórmula verbal de saludo además de las normales de cortesía.
+
+##### Art. 330.
+
+En los actos oficiales a los que asistan autoridades civiles, les saludará siguiendo las normas usuales de respeto y cortesía.
+
+#### De la uniformidad y policía
+
+##### Art. 331.
+
+El uniforme, por su significación ha de vestirse con propiedad y corrección, portando las prendas y ostentando las divisas, emblemas, condecoraciones y distintivos reglamentarios para cada ocasión. Como norma general, el militar permanecerá de uniforme en su destino.
+
+##### Art. 332.
+
+No se podrán ostentar sobre el uniforme divisas, emblemas, condecoraciones y distintivos sin previa autorización. El diseño, forma, material y circunstancias en que puedan usarse se ajustarán a los reglamentos correspondientes.
+
+##### Art. 333.
+
+El militar cuidará su aspecto, compostura y policía personal ateniéndose a las disposiciones que los regulan.
+
+##### Art. 334.
+
+Los militares profesionales y de complemento podrán vestir de paisano fuera de los actos de servicio, salvo en las ocasiones en que se ordene lo contrario. Dentro de los establecimientos militares sólo podrán hacerlo en los lugares, a las horas y en las circunstancias que se autorice.
+
+Los demás militares podrán ser autorizados para vestir de paisano durante los permisos y las horas de paseo.
+
+##### Art. 335.
+
+Al vestir de paisano, el militar no podrá utilizar prendas que se identifiquen claramente como constitutivas del uniforme.
+
+##### Art. 336.
+
+La autoridad militar correspondiente podrá ordenar que, para determinados actos de servicio, el militar vista de paisano. Igualmente podrá prohibir el uso del uniforme en aquellos casos y actividades ajenas al servicio, en los que el llevarlo pueda perjudicar los intereses o la imagen de las Fuerzas Armadas.
+
+##### Art. 337.
+
+En los actos académicos, sociales y religiosos, a los que el militar asista de uniforme, deberá usar el adecuado a la ceremonia, de acuerdo con las correspondencias reglamentariamente establecidas.
+
+##### Art. 338.
+
+En campaña, el militar llevará el uniforme reglamentario, con las divisas de su empleo. Si cayera prisionero, el llevarlo probará su condición militar y, como tal, acogido a los Convenios internacionales en esta materia.
+
+##### Art. 339.
+
+Todo militar será provisto, según las necesidades de cada actividad, del equipo y prendas reglamentarias de uniforme, emblemas y distintivos, así como de las condecoraciones. La autoridad competente determinará lo que debe proporcionarse con cargo al interesado.
+
+#### De los tratamientos
+
+##### Art. 340.
+
+Todo militar recibirá, tanto de palabra como por escrito, el tratamiento que tenga legalmente reconocido por razón de la dignidad, autoridad, empleo o cargo y condecoraciones que posea. En el ámbito militar sólo se emplearán los tratamientos señalados en este título. En sus relaciones con autoridades civiles, el militar les dará el tratamiento que legalmente les corresponda.
+
+##### Art. 341.
+
+Los Reyes de España tienen el tratamiento de Majestad; el Príncipe de Asturias y los Infantes de España el de Alteza Real; el Presidente y el Vicepresidente del Gobierno, el Ministro de Defensa y los Oficiales Generales el de Excelencia; los Coroneles y Capitanes de Navío el de Señoría, y los restantes miembros de las Fuerzas Armadas el de usted. Las distintas formas de expresión oral y escrita de estos tratamientos serán las reglamentariamente establecidas.
+
+##### Art. 342.
+
+Los Caballeros Grandes Cruces y Laureados de la Real y Militar Orden de San Fernando tendrán el tratamiento superior al que por su empleo les corresponda. Los condecorados con la Medalla Militar Individual recibirán el del empleo inmediato superior al suyo. Los Caballeros de la Real y Militar Orden de San Hermenegildo, en la categoría de Gran Cruz, tendrán el de Excelencia y, en la de Placa, el de Señoría. Los poseedores de la Gran Cruz del Mérito Militar, Naval o Aeronáutico, con distintivo blanco, el de Excelencia.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+##### Art. 343.
+
+Los Jueces militares, en el ejercicio de su cargo, recibirán el tratamiento de Señoría, si no tuvieran otro superior por razón de empleo o condecoración.
+
+##### Art. 344.
+
+En mensajes cursados entre componentes de las Fuerzas Armadas por asuntos del servicio se omitirán los tratamientos.
+
+#### De las presentaciones y visitas
+
+##### Art. 345.
+
+Todo militar con motivo de su incorporación, cese o ausencia temporal del destino, ascenso, cambio de situación o realización de comisiones, se presentará a sus superiores para ponerse a sus órdenes o despedirse, de acuerdo con lo que se detalla en el presente título.
+
+En ejercicios, maniobras y campaña, estas normas se aplicarán con la debida flexibilidad para adaptarse a la situación.
+
+##### Art. 346.
+
+Los Oficiales Generales solicitarán audiencia ante su Majestad el Rey y el Ministro de Defensa cuando sean promovidos a cada uno de los empleos de General y al hacerse cargo de los sucesivos destinos que se les confieran. Los Tenientes Generales también lo harán, en la misma circunstancias, ante el Presidente del Gobierno.
+
+Los Coroneles que sean designados para el mando de Unidad o Centro solicitarán audiencia ante su Majestad el Rey y el Ministro de Defensa al hacerse cargo del mismo.
+
+##### Art. 347.
+
+Los oficiales y suboficiales al ascender, incorporarse a un nuevo destino o cesar en él por cualquier causa, se presentarán a los siguientes mandos y autoridades:
+
+— Los oficiales Generales, al General Jefe del Estado Mayor del Aire, a sus respectivos mandos orgánicos y operativos, al Capitán General de Región Aérea o al General Jefe de Zona Aérea y a la autoridad territorial de nivel inferior a las anteriores que les corresponda, en función de sus cargos o destinos, cuando sea de mayor empleo.
+
+— Los Jefes de Ala o Unidad inferior independiente, a sus mandos orgánico y operativo, al Capitán General de Región Aérea o al General Jefe de Zona Aérea y a la autoridad territorial de nivel inferior a las anteriores que les corresponda, en función de sus cargos o destinos, cuando sea de mayor empleo.
+
+— Los restantes oficiales particulares y los suboficiales, al mando de su Unidad u Organismo y a sus mandos directos.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+##### Art. 348.
+
+La presentación ante el Jefe de la Unidad u Organismo se realizará en el momento de la incorporación, que se hará en el plazo establecido, y a los demás mandos, dentro de los tres días hábiles siguientes. En el caso de despedida se efectuarán con suficiente anticipación a la marcha.
+
+##### Art. 349.
+
+Cuando para efectuar la presentación fuera necesario trasladarse a una plaza distinta a la del destino, se hará por oficio o mensaje, pero el mando o la autoridad correspondiente podrá ordenar que se haga personalmente.
+
+##### Art. 350.
+
+Los Oficiales Generales y Particulares y los Suboficiales que se ausenten de la localidad de su destino para disfrutar permiso, licencia, o en comisión de servicio, se presentarán antes de su marcha y el día de reincorporación a sus Jefes directos, si residen en la misma localidad, haciéndolo por oficio o mensaje en caso contrario.
+
+##### Art. 351.
+
+En los permisos y licencias y con objeto de facilitar su localización en caso necesario, dejarán en su destino constancia de su domicilio eventual e informarán de los cambios que se produzcan. Cuando la estancia en su residencia transitoria se prevea superior a un mes, comunicarán por escrito o verbalmente su presencia a la autoridad local más caracterizada del Ejército del Aire o, en su defecto, a la de la Guardia Civil.
+
+##### Art. 352.
+
+Los oficiales y suboficiales que asistan a un curso fuera de su destino se presentarán, tanto al ausentarse como al reincorporarse, a sus Jefes directos. Al llegar al Centro de enseñanza se presentarán a su Director o Jefe.
+
+Aquellos que se desplacen en comisión de servicio se presentarán ante el mando cerca del cual vayan comisionados y, siempre que la comisión tenga una duración superior a setenta y dos horas, a la autoridad del Ejército del Aire en la localidad en la que se encuentren o, en su defecto, a la autoridad más caracterizada de los otros Ejércitos.
+
+La presentación de los que se desplacen formando parte de una unidad se efectuará ante la autoridad del Ejército del Aire en la localidad en la que se encuentren o, en su defecto, ante la autoridad más caracterizada de los otros Ejércitos.
+
+En los casos citados anteriormente, cuando se trate de un grupo formando unidad o comisión sólo se presentará el más caracterizado, salvo que la autoridad ante quien se efectúa disponga otra cosa.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+##### Art. 353.
+
+Cuando una unidad o comisión se traslade al extranjero, su mando se presentará o comunicará su presencia, según corresponda, a la representación diplomática o consular y al Agregado Aéreo o de Defensa si residen en la localidad. De no ser así, lo comunicará por la vía más adecuada. De igual modo lo hará el militar que se desplace aisladamente con carácter oficial.
+
+##### Art. 354.
+
+Los que se ausenten al extranjero en viaje privado, siempre que la duración de su estancia en el país de que se trate sea superior a quince días, deberán presentarse o comunicar su presencia al Agregado Aéreo o, en su defecto, al de Defensa. Caso de no existir éstos, al representante diplomático o consular de España.
+
+##### Art. 355.
+
+En todos los casos indicados, y con la debida antelación, los oficiales Generales y Particulares y los suboficiales se despedirán de las mismas autoridades y en la misma forma que hicieron la presentación.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+##### Art. 356.
+
+En caso de declaración de guerra, conflicto armado o emergencia, todo militar del Ejército del Aire se incorporará inmediatamente a su Unidad u Organismo, y de encontrarse en residencia eventual se presentará al mando más caracterizado de su Ejército en la misma o, en su defecto, a cualquiera de los otros Ejércitos. Si no lo hubiera, se trasladará al lugar más próximo, donde lo haya. De encontrarse en el extranjero se presentará o establecerá contacto con la representación diplomática o consular más próxima.
+
+##### Art. 357.
+
+Con motivo de su incorporación o cese en el destino, los oficiales Generales y los Jefes de Unidad independiente, excepto los destinados en Madrid, visitarán a la máxima autoridad de cada uno de los otros Ejércitos residentes en la localidad, si son de mayor empleo o antigüedad. También lo harán a los mandos equivalentes residentes en la localidad, como acto de cortesía a las autoridades civiles con las que deban relacionarse habitualmente y, con carácter de devolución, a los mandos de inferior empleo de los otros Ejércitos que les hubieran visitado.
+
+Los restantes oficiales y los suboficiales, como demostración de cortesía o compañerismo, saludarán a todos los superiores y a los del mismo empleo de la Unidad y Organismo al que se incorporen o en el que cesen.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+##### Art. 358.
+
+Cuando alguna de las autoridades militares de los otros Ejércitos, a que hace referencia el artículo anterior, cese por cualquier causa, los mandos correspondientes del Ejército del Aire visitarán a la entrante si concurren en ella las mismas circunstancias que se daban en la saliente.
+
+### TÍTULO XV — De las recompensas, premios y sanciones
+
+##### Arts. 359 a 364.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.2.c) del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+## TRATADO CUARTO — De la seguridad
+
+### TÍTULO XVI — Preceptos generales
+
+> Mantienen el rango de real decreto los arts. 365 a 374, que integran este título, según establece la disposición derogatoria única.4.b).3º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 365 a 374.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 del Real Decreto 194/2010, de 26 de febrero. [Ref. BOE-A-2010-4219](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4219).
+
+### TÍTULO XVII — De la seguridad en los establecimientos del Ejército del Aire
+
+> Mantienen el rango de real decreto los arts. 375 a 382, que integran este título, según establece la disposición derogatoria única.4.b).3º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 375 a 382.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 del Real Decreto 194/2010, de 26 de febrero. [Ref. BOE-A-2010-4219](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4219).
+
+### TÍTULO XVIII — De las guardias de seguridad
+
+> Mantienen el rango de real decreto los arts. 383 a 441, que integran este título, según establece la disposición derogatoria única.4.b).3º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 383 a 441.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 del Real Decreto 194/2010, de 26 de febrero. [Ref. BOE-A-2010-4219](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4219).
+
+### TÍTULO XIX — De la Policía Aérea
+
+> Mantienen el rango de real decreto los arts. 442 a 452, que integran este título, según establece la disposición derogatoria única.4.b).3º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Arts. 442 a 452.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 del Real Decreto 194/2010, de 26 de febrero. [Ref. BOE-A-2010-4219](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4219).
+
+## TRATADO QUINTO — De los honores y ceremonias
+
+### TÍTULO XX — De los actos solemnes y su ceremonial
+
+> Téngase en cuenta que se les atribuye el rango de orden ministerial a los arts. 453 a 472, que integran este título, según establece la disposición derogatoria única.4.c).3º del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).
+
+##### Art. 453.
+
+En conmemoración de efemérides relevantes de la vida nacional y militar o con ocasión de acontecimientos significativos, las Fuerzas Armadas celebrarán actos solemnes que, en su desarrollo, se ajustarán al ceremonial que dispone este tratado y a las prescripciones del reglamento correspondiente, quedando a la iniciativa de quien los organice las normas de detalle exigidas por el lugar, las características de los participantes y otros condicionamientos. Los honores y ceremonias se simplificarán o suspenderán cuando circunstancias excepcionales lo aconsejen.
+
+##### Art. 454.
+
+Las principales ceremonias militares se realizarán con motivo de los actos del juramento y honores a la Bandera de España y su entrega a Unidades; paradas y desfiles; honores a las Autoridades; tomas de posesión de mando, entrega de despachos, títulos o diplomas e imposición de condecoraciones; honras fúnebres y homenaje a los que dieron su vida por la Patria; festividades de los Santos Patronos y otras conmemoraciones relevantes de carácter nacional o castrense.
+
+##### Art. 455.
+
+Las Unidades y Organismos podrán realizar, también, previa autorización del mando correspondiente, ceremonias de carácter particular con ocasión de festividades locales y efemérides y tradiciones propias.
+
+##### Art. 456.
+
+El Ejército del Aire conservará con respeto todas aquellas tradiciones, usos y costumbres que mantengan vivo su espíritu y perpetúen el recuerdo de su historia.
+
+##### Art. 457.
+
+Se evitará la proliferación de actos y se procurará, en lo posible, su coincidencia a fin de no entorpecer la misión principal de las Unidades. El ceremonial será sencillo y su duración se ajustará a lo estrictamente necesario para no restarles solemnidad.
+
+##### Art. 458.
+
+Las ceremonias se desarrollarán, como norma general, atendiendo al siguiente orden: formación y revista por el mando de la Fuerza, incorporación de la Bandera, si procede, recepción de la autoridad que presida, realización del acto propiamente dicho, desfile si corresponde, despedida de la Bandera y retirada de las Fuerzas.
+
+##### Art. 459.
+
+La autoridad o mando que tenga la responsabilidad de organizar el acto dictará una orden en la que precisará su finalidad, condiciones de ejecución y normas logísticas de coordinación y de seguridad.
+
+##### Art. 460.
+
+Cuando la solemnidad y las circunstancias lo aconsejen, la autoridad que presida, o el Jefe de la Unidad u Organismo, dirigirá una alocución resaltando el significado del acto y los valores morales y militares que encierra.
+
+##### Art. 461.
+
+Las ceremonias militares de especial contenido espiritual podrán ir precedidas de los actos religiosos que por tradición correspondan.
+
+Con la debida antelación, se hará advertencia de que aquellos que no profesen la correspondiente religión quedan dispensados de asistir al acto religioso.
+
+##### Art. 462.
+
+Las ceremonias en que intervengan Fuerzas de más de un Ejército serán presididas por la autoridad expresamente designada para ello o, en su defecto, por el Oficial General o Particular más antiguo de los presentes con mando sobre alguna de las Unidades participantes.
+
+##### Art. 463.
+
+Por razón de las características de los medios empleados, el orden de formación en parada será: Unidades a pie, Unidades a caballo y a lomo y Unidades sobre vehículos.
+
+En los desfiles, este orden se podrá alterar cuando razones técnicas así lo aconsejen.
+
+El desfile de las Unidades en vuelo deberá coordinarse con el de las demás Fuerzas.
+
+##### Art. 464.
+
+Cuando concurran Fuerzas de más de un Ejército, dentro de lo señalado en el artículo anterior y siempre ocupando el puesto de Cabeza de Guardia Real, el Ejército que organice el desfile o parada cederá el puesto preferente a las Fuerzas participantes de los otros dos, cuyo orden relativo será inverso al de la entidad de las Fuerzas que participen.
+
+Cuando razones orgánicas o funcionales aconsejen la constitución de diversas agrupaciones, se respetarán, dentro de cada una de ellas, el orden de prioridad fijado en el párrafo anterior.
+
+##### Art. 465.
+
+Cuando desfilen los alumnos de las Academias de formación de Oficiales y Suboficiales, lo harán en cabeza de la formación o inmediatamente detrás de la Guardia Real, precisamente por ese orden y, dentro de él, según lo establecido en el artículo anterior.
+
+##### Art. 466.
+
+Para destacar la trascendencia y significado del Juramento ante la Bandera se celebrará un acto solemne y público presidido por una autoridad militar.
+
+El Jefe de la Unidad u Organismo tomará el juramento mediante la siguiente fórmula: «¡Soldados!, ¿juráis por Dios y por vuestro honor y prometéis a España, besando con unción su Bandera, obedecer y respetar al Rey, y a vuestros Jefes, no abandonarles nunca y derramar, si es preciso, en defensa de la soberanía e independencia de la Patria, de su unidad e integridad territorial y del ordenamiento constitucional, hasta la última gota de vuestra sangre?».
+
+Los soldados contestarán: «¡Sí, lo juramos!».
+
+El que tomó el juramento replicará: «Si así lo hacéis, la Patria os lo agradecerá y premiará, y si no mereceréis su desprecio y su castigo, como indignos hijos de ella», y añadirá «Soldados. ¡Viva España!» y «!Viva el Rey!», que serán contestados con los correspondientes «¡Viva!».
+
+A continuación podrá intervenir el Capellán militar, que si lo hiciere pronunciará la siguiente invocación: «Ruego a Dios que os ayude a cumplir lo que habéis jurado y prometido».
+
+En la fórmula del juramento la expresión Soldados podrá ser sustituida por la que convenga, de conformidad con la condición militar de los que juran.
+
+##### Art. 467.
+
+Tendrán Bandera o Estandarte, desde el momento de su constitución, las Unidades y Organismos que reúnan las condiciones reglamentariamente establecidas. Para su entrega oficial se celebrará una ceremonia solemne, en la que tomarán parte, además de la Unidad que va a recibirla, representaciones de otras Unidades y, si es posible, de otros Ejércitos.
+
+La Bandera será entregada al Jefe de la Unidad u Organismo, que, tras recibirla, se dirigirá a la formación mediante la siguiente fórmula: «Soldados, la Bandera es el símbolo de la Patria inmortal; los que tenemos el honor de estar alistados bajo ella, estamos obligados a defenderla hasta perder la vida. Soldados, en garantía de que juráis y prometéis entregaros a su servicio... (ordenará los movimientos de armas reglamentarios para su Unidad efectúe una salva de honor)».
+
+Terminada la descarga y descansadas las armas, dirá: «Soldados, ¡Viva España!», que será contestado con el correspondiente «¡Viva!».
+
+Cuando la Bandera sea donada por alguna Institución, la entrega se realizará por un representante de la misma.
+
+##### Art. 468.
+
+La entrega de mando de una Unidad independiente u Organismo tendrá lugar en una ceremonia solemne presidida por la autoridad militar que se designe, en la que formará la Unidad completa con su Bandera.
+
+El mando saliente ordenará el movimiento de armas sobre el hombro y a continuación la autoridad que presida el acto dará posesión al entrante mediante la siguiente fórmula:
+
+«De orden de Su Majestad el Rey, se reconocerá al... (empleo y nombre) como... (Jefe o Director) del... (Unidad u Organismo), respetándole y obedeciéndole en todo lo que mandare concerniente al servicio. ¡Viva España!». Será contestado con el correspondiente «¡Viva!». Cuando la autoridad diga la frase «De orden de Su Majestad el Rey», saludarán tanto ella como los mandos saliente y entrante y todos los restantes de la formación hasta nivel Sección.
+
+A partir de ese momento el nuevo Jefe ostenta el mando de la Unidad u Organismo y para hacerlo patente ordenará deshacer el movimiento de armas.
+
+La toma de posesión del mando se publicará en la Orden correspondiente.
+
+##### Art. 469.
+
+En la entrega de mando en los escalones superiores, Mandos Aéreos y Logísticos, la formación se llevará a efecto con la totalidad o con una representación de las fuerzas a sus ordenes, siguiendo las mismas formalidades citadas anteriormente.
+
+En el caso de Organismos que no cuenten con fuerzas, la entrega de mando se realizará en el lugar del mismo que se estime más apropiado.
+
+La toma de posesión del mando se publicará en la Orden correspondiente.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+##### Art. 470.
+
+Al designado para el mando de una Unidad no incluida en el artículo 468 se le dará a conocer por su Jefe inmediato superior ante la Unidad que vaya a mandar, en su primera formación con armas. En el caso de Oficiales y Suboficiales destinados en una unidad tipo Escuadrilla serán presentados ante ella por su Capitán.
+
+Se utilizará la fórmula siguiente: «De orden del... (Jefe de Unidad o Centro o autoridad de la que haya emanado el nombramiento), se reconocerá al... (empleo y nombre) como Jefe de... (Unidad), respetándole y obedeciéndole en todo lo que mandare concerniente al servicio. ¡Viva España!». Será contestado con el correspondiente «¡Viva!».
+
+Los destinos de Oficiales y Suboficiales sin mando directo de Unidad se darán a conocer exclusivamente en la Orden, requisito que se seguirá también en todos los casos anteriormente dichos.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. [Ref. BOE-A-1984-7808](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7808).
+
+##### Art. 471.
+
+La imposición de condecoraciones se efectuará en una ceremonia especialmente organizada a dicho fin o durante la celebración de otro acto solemne.
+
+Cuando se trate de la Cruz Laureada de San Fernando, Medalla Militar y Medallas del Ejército, Naval o Aérea, concedidas con carácter individual o colectivo, se hará en una solemne ceremonia especialmente organizada para este fin.
+
+##### Art. 472.
+
+También se celebrarán actos con motivo de entregas de despachos, nombramientos, títulos o diplomas y despedida de los soldados de cada llamamiento o reemplazo, así como en las festividades de las Fuerzas Armadas.
+
+### TÍTULO XXI — De los honores militares
+
+##### Arts. 473 a 479.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.2.c) del Real Decreto 96/2009, de 6 de febrero. [Ref. BOE-A-2009-2074](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2074).

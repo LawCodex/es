@@ -268,12 +268,6 @@ El suministro de los medicamentos y productos sanitarios hasta el lugar de desti
 
 6\. A efectos de garantizar la independencia de las decisiones relacionadas con la prescripción, dispensación, y administración de medicamentos respecto de intereses comerciales se prohíbe el ofrecimiento directo o indirecto de cualquier tipo de incentivo, bonificaciones, descuentos, primas u obsequios, por parte de quien tenga intereses directos o indirectos en la producción, fabricación y comercialización de medicamentos a los profesionales sanitarios implicados en el ciclo de prescripción, dispensación y administración de medicamentos o a sus parientes y personas de convivencia. Esta prohibición será asimismo de aplicación cuando el ofrecimiento se realice a profesionales sanitarios que prescriban productos sanitarios. Se exceptúan de la anterior prohibición los descuentos por pronto pago o por volumen de compras, que realicen los distribuidores a las oficinas de farmacia, siempre que no se incentive la compra de un producto frente al de sus competidores y queden reflejados en la correspondiente factura. Estos descuentos podrán efectuarse para los medicamentos financiados con cargo al Sistema Nacional de Salud, siempre que se lleve un registro mensual de tales descuentos en las empresas titulares de los mismos y en las entidades de distribución, interconectado telemáticamente con el Ministerio de Sanidad, Servicios Sociales e Igualdad.
 
-> Téngase en cuenta que esta última actualización del apartado 6, establecida por la disposición final 20.1 de la Ley 48/2015, de 29 de octubre. [Ref. BOE-A-2015-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11644). entra en vigor el 1 de enero de 2016.
-
-> Redacción anterior:
-
-> "6. A efectos de garantizar la independencia de las decisiones relacionadas con la prescripción, dispensación y administración de medicamentos respecto de intereses comerciales, se prohíbe el ofrecimiento directo o indirecto de cualquier tipo de incentivo, bonificaciones, descuentos, primas u obsequios por parte de quien tenga intereses directos o indirectos en la producción, fabricación y comercialización de medicamentos a los profesionales sanitarios implicados en el ciclo de prescripción, dispensación y administración de medicamentos o a sus parientes y personas de convivencia. Esta prohibición será asimismo de aplicación cuando el ofrecimiento se realice a profesionales sanitarios que prescriban productos sanitarios. Se exceptúan de la anterior prohibición los descuentos por pronto pago o por volumen de compras que realicen los distribuidores a las oficinas de farmacia. Estos podrán alcanzar hasta un máximo de un 10 % para los medicamentos financiados con cargo al Sistema Nacional de Salud, siempre que no se incentive la compra de un producto frente al de sus competidores y queden reflejados en la correspondiente factura."
-
 > Se modifica el apartado 6, con efectos desde el 1 de enero de 2016, por la disposición final 20.1 de la Ley 48/2015, de 29 de octubre. [Ref. BOE-A-2015-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11644).
 
 #### Artículo 5. Garantías de defensa de la salud pública.
@@ -413,18 +407,6 @@ Los organismos públicos promoverán la utilización de las denominaciones ofici
 La denominación del medicamento no podrá confundirse con una denominación oficial española o una denominación común internacional ni inducir a error sobre las propiedades terapéuticas o la naturaleza del medicamento.
 
 Los medicamentos genéricos deberán designarse con una denominación oficial española de principio activo y, en su defecto, con la denominación común internacional o bien, si esta no existiese, con la denominación común usual o científica de dicha sustancia, acompañada, en su caso, del nombre o marca del titular o fabricante; asimismo, podrán denominarse con una marca siempre que no pueda confundirse con una denominación oficial española o una denominación común internacional ni inducir a error sobre las propiedades terapéuticas o la naturaleza del medicamento. Se identificarán, además, con las siglas EFG (Equivalente Farmacéutico Genérico).
-
-> Téngase en cuenta que esta última actualización del apartado 2, establecida por la disposición final 20.2 de la Ley 48/2015, de 29 de octubre. [Ref. BOE-A-2015-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11644). entra en vigor el 1 de enero de 2016.
-
-> Redacción anterior:
-
-> "2. La denominación del medicamento podrá consistir en un nombre de fantasía que no pueda confundirse con la denominación común o en una denominación común o científica acompañada de una marca o del nombre del titular de la autorización de comercialización.
-
-> La denominación del medicamento no podrá confundirse con una denominación oficial española o con una denominación común internacional ni inducir a error sobre las propiedades terapéuticas o la naturaleza del medicamento.
-
-> Los medicamentos genéricos deberán designarse con una denominación oficial española de principio activo y, en su defecto, con la denominación común internacional o bien, si ésta no existiese, con la denominación común usual o científica de dicha sustancia, acompañada, en su caso, del nombre o marca del titular o fabricante; asimismo, podrán denominarse con una marca siempre que no pueda confundirse con una denominación oficial española o con una denominación común internacional ni inducir a error sobre las propiedades terapéuticas o la naturaleza del medicamento.
-
-> Podrán identificarse con las siglas EFG (Equivalente Farmacéutico Genérico) aquellos medicamentos que determine la Agencia Española de Medicamentos y Productos Sanitarios en razón de su intercambiabilidad."
 
 3\. El Ministerio de Sanidad, Servicios Sociales e Igualdad establecerá un Código Nacional de Medicamentos de general aplicación que facilite su pronta identificación y podrá exigir que sus números o claves figuren en el etiquetado de los medicamentos.
 
@@ -1484,12 +1466,6 @@ c) Para los procesos crónicos cuya prescripción se corresponda con la continui
 
 4\. Cuando la prescripción se realice por principio activo, el farmacéutico dispensará el medicamento de precio más bajo de su agrupación homogénea.
 
-> Téngase en cuenta que esta última actualización del apartado 4, establecida por la disposición final 20.3 de la Ley 48/2015, de 29 de octubre. [Ref. BOE-A-2015-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11644). entra en vigor el 1 de enero de 2016.
-
-> Redacción anterior:
-
-> "4. Cuando la prescripción se realice por principio activo, el farmacéutico dispensará el medicamento de precio más bajo de su agrupación homogénea y, en el caso de igualdad, el medicamento genérico o el medicamento biosimilar correspondiente."
-
 5\. En todo caso, la prescripción de un medicamento para su utilización en condiciones diferentes a las establecidas en su ficha técnica deberá ser autorizada, previamente, por la comisión responsable de los protocolos terapéuticos u órgano colegiado equivalente en cada comunidad autónoma.
 
 > Se modifica el apartado 4, con efectos desde el 1 de enero de 2016, por la disposición final 20.3 de la Ley 48/2015, de 29 de octubre. [Ref. BOE-A-2015-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11644).
@@ -1515,14 +1491,6 @@ c) Para los procesos crónicos cuya prescripción se corresponda con la continui
 4\. Quedarán exceptuados de esta posibilidad de sustitución aquellos medicamentos que, por razón de sus características de biodisponibilidad y estrecho rango terapéutico, determine el Ministerio de Sanidad, Servicios Sociales e Igualdad.
 
 5\. Cuando la prescripción se realice por denominación comercial, si el medicamento prescrito tiene un precio superior al precio menor de su agrupación homogénea, el farmacéutico sustituirá el medicamento prescrito por el de precio más bajo de su agrupación homogénea. En el caso de los medicamentos biosimilares, se respetarán las normas vigentes según regulación específica en materia de sustitución e intercambiabilidad.
-
-> Téngase en cuenta que esta última actualización del apartado 5, establecida por la disposición final 20.4 de la Ley 48/2015, de 29 de octubre. [Ref. BOE-A-2015-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11644). entra en vigor el 1 de enero de 2016.
-
-> Redacción anterior:
-
-> "5. Cuando la prescripción se realice por denominación comercial, si el medicamento prescrito tiene un precio superior al precio menor de su agrupación homogénea, el farmacéutico sustituirá el medicamento prescrito por el de precio más bajo de su agrupación homogénea y, en caso de igualdad, dispensará el medicamento genérico.
-
-> En el caso de los medicamentos biosimilares, se respetarán las normas vigentes según regulación específica en materia de sustitución e intercambiabilidad."
 
 > Se modifica el apartado 5, con efectos desde el 1 de enero de 2016, por la disposición final 20.4 de la Ley 48/2015, de 29 de octubre. [Ref. BOE-A-2015-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11644).
 

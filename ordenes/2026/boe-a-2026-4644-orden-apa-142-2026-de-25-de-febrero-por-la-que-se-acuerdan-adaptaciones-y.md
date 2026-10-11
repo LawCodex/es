@@ -1,0 +1,140 @@
+---
+title: "Orden APA/142/2026, de 25 de febrero, por la que se acuerdan adaptaciones y concreciones relativas a la ayuda y a las actuaciones de reparación previstas en los artículos 9 y 12 del Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan medidas urgentes en respuesta a los daños causados por diversos fenómenos meteorológicos adversos, de especial afectación en las comunidades autónomas de Andalucía y Extremadura"
+identifier: "BOE-A-2026-4644"
+eli: "https://www.boe.es/eli/es/o/2026/02/25/apa142"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2026-02-25
+published: 2026-02-27
+last_amended: 2026-05-29
+consolidated: 2026-06-04
+gazette: "Boletín Oficial del Estado núm. 52"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2026-4644"
+retrieved: 2026-10-11
+---
+
+# Orden APA/142/2026, de 25 de febrero, por la que se acuerdan adaptaciones y concreciones relativas a la ayuda y a las actuaciones de reparación previstas en los artículos 9 y 12 del Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan medidas urgentes en respuesta a los daños causados por diversos fenómenos meteorológicos adversos, de especial afectación en las comunidades autónomas de Andalucía y Extremadura
+
+El capítulo III del Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan medidas urgentes en respuesta a los daños causados por diversos fenómenos meteorológicos adversos, de especial afectación en las comunidades autónomas de Andalucía y Extremadura establece medidas en materia agraria y pesquera relacionadas con los fenómenos meteorológicos adversos ocurridos desde el 1 de enero de 2026, que están generando pérdidas en cultivos y sistemas agrarios con elevada relevancia económica.
+
+Dentro de las diferentes medidas de apoyo que ha aprobado el Gobierno a través del Ministerio de Agricultura, Pesca y Alimentación, se encuentra el conjunto de actuaciones que van a contribuir a la recuperación de la capacidad productiva a través de la restauración de caminos agrarios e infraestructuras asociadas y recuperación de comunidades de regantes y comunidades de usuarios del agua afectadas por las borrascas, como medida necesaria para apoyar la recuperación de las explotaciones agrarias afectadas.
+
+En concreto, el artículo 12 del Real Decreto-ley 5/2026, de 17 de febrero, faculta de manera excepcional al Ministerio de Agricultura, Pesca y Alimentación, para proceder a través de encargos a la Empresa de Transformación Agraria, SA, SME, MP (TRAGSA) en su condición de medio propio, a realizar las actuaciones que se estimen más adecuadas para la recuperación urgente de los caminos agrarios de uso público que se consideren esenciales para la actividad agraria e infraestructuras asociadas y de las infraestructuras de las comunidades de regantes y comunidades de usuarios del agua que hayan sido afectadas por las borrascas ocurridas en diferentes municipios de España desde el 1 de enero de 2026 y hasta la fecha de entrada en vigor del citado real decreto-ley.
+
+Tales actuaciones se realizarán en estrecha coordinación con las respectivas comunidades autónomas, como administraciones competentes sobre el territorio y más próximas a los afectados.
+
+Se dicta la presente orden ministerial para asegurar la correcta aplicación de las medidas anteriormente indicadas.
+
+Asimismo, se concreta en esta orden que en las relaciones de beneficiarios a las que hace referencia el artículo 9.8.a) del Real Decreto-ley 5/2026, de 17 de febrero, se especificará el régimen de encuadramiento de la ayuda de forma que no se sobrepase en ningún caso los topes que establece la normativa europea para las ayudas de minimis.
+
+El artículo 8.4 del citado real decreto-ley faculta al Ministro de Agricultura, Pesca y Alimentación para aprobar, mediante orden ministerial, las modificaciones, adaptaciones y concreciones que resulten precisas.
+
+En su virtud, resuelvo:
+
+## Primero. Objeto y fundamento de la orden.
+
+Esta orden tiene por objeto:
+
+a) Establecer los canales para la comunicación de los daños en caminos agrarios de uso público e infraestructuras de riego de uso común susceptibles de reparación o acondicionamiento, así como fijar el plazo máximo para la presentación de dichas comunicaciones.
+
+b) Establecer el sistema de verificación de daños causados por las borrascas que han afectado a las Comunidades Autónomas de Andalucía y Extremadura entre el 1 de enero y el 20 de febrero de 2026, así como el establecimiento de las condiciones y compromisos aplicables.
+
+c) Establecer los criterios de prioridad para el comienzo y desarrollo de las actuaciones.
+
+La orden se adopta al amparo de los artículos 8.4 y 12 del Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan medidas urgentes en respuesta a los daños causados por diversos fenómenos meteorológicos adversos, de especial afectación en las comunidades autónomas de Andalucía y Extremadura.
+
+## Segundo. Obras elegibles.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación llevará a cabo, a través de encargos a la Empresa de Transformación Agraria, SA, SME, MP (TRAGSA), obras de reparación y acondicionamiento de caminos agrarios de uso público de acceso a las parcelas e instalaciones agrarias u obras de reparación en las infraestructuras de riego afectadas perteneciente a una comunidad de regantes o de usuarios del agua, siempre que estos daños hayan sido causados por las borrascas acaecidas entre el 1 de enero y el 20 de febrero.
+
+2\. Las obras tendrán por objeto exclusivamente la reparación y restitución a su estado anterior, de las infraestructuras, equipamientos o instalaciones dañadas. Comprenderán las siguientes actuaciones detalladas en el artículo 12 del Real Decreto-ley 5/2026, de 17 de febrero:
+
+a) Reparación y acondicionamiento de caminos agrarios de uso público de acceso a las diferentes parcelas e instalaciones agrarias. Se entiende por reparación y acondicionamiento la recuperación del trazado, la plataforma o la estructura geométrica del camino que hubieran resultado alterados como consecuencia de las borrascas. No comprende los trabajos ordinarios de mantenimiento, conservación y limpieza.
+
+b) Limpieza y si procede reparación de balsas o sistemas de almacenamiento de agua para el riego, acequias, canales y compuertas y otros elementos de la infraestructura de riego afectados, perteneciente a una comunidad de regantes o de usuarios del agua. Quedan excluidas las actuaciones de mantenimiento ordinario de dichas infraestructuras.
+
+c) Otras actuaciones que se determinen en el encargo correspondiente.
+
+## Tercero. Elaboración de las propuestas de los caminos agrarios de uso público para su reparación y acondicionamiento.
+
+1\. La propuesta de relación de caminos agrarios susceptibles de actuación en cada provincia se realizará por la persona titular de la Subdelegación del Gobierno en la provincia, asistido a tales efectos por un comité asesor de carácter técnico que presidirá, y que estará integrado por una persona en representación de la Diputación Provincial y la persona responsable que designe, en cada caso, la consejería competente en materia de agricultura y desarrollo rural de la Junta de Andalucía y de la Junta de Extremadura. Formarán parte también del citado comité, como apoyo técnico de su presidente, el funcionario o funcionaria correspondiente del área funcional de agricultura y pesca, el gerente provincial del medio propio TRAGSA y el responsable que designe la Sociedad Mercantil Estatal de Infraestructuras Agrarias, SA (SEIASA).
+
+2\. La diputación provincial, en estrecha colaboración con los ayuntamientos afectados y de acuerdo con las indicaciones de la Subdelegación del Gobierno, recopilará la información sobre los caminos agrarios susceptibles de reparación, integrando a tales efectos la información propia y la recabada de las restantes entidades de su ámbito territorial.
+
+Dicha información se presentará en un fichero excel normalizado identificando los caminos agrarios afectados por término municipal y sus coordenadas. Asimismo, la diputación provincial recabará para cada término municipal afectado, una declaración responsable de la causalidad de daños y el consentimiento para actuar en ellos, firmada por el alcalde o alcaldesa y por el técnico correspondiente del ayuntamiento o, en caso de no existir, por el técnico de asistencia a municipios de la respectiva diputación.
+
+El modelo normalizado del citado excel será proporcionado por el Ministerio de Agricultura, Pesca y Alimentación.
+
+3\. Los representantes de las distintas Administraciones en el Comité garantizarán el conocimiento y coordinación de las actuaciones relativas a caminos agrarios gestionadas por cada una de ellas, a fin de evitar ineficiencias y duplicación de esfuerzos.
+
+## Cuarto. Determinación de caminos agrarios e infraestructuras de riego objeto de reparación y acondicionamiento.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, a través de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria, determinará los caminos agrarios de uso público y las infraestructuras de riego de uso común en los que deban realizarse trabajos de reparación y acondicionamiento.
+
+2\. A estos efectos, solo se admitirán las propuestas presentadas por las personas y a través de los medios establecidos en este apartado, tanto para los daños en caminos agrarios como para los daños en infraestructuras de riego de titularidad de comunidades de regantes y de usuarios del agua para riego.
+
+3\. Las comunicaciones de daños se dirigirán a la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria del Ministerio de Agricultura, Pesca y Alimentación, a la que serán remitidas por:
+
+a) Las personas titulares de la Subdelegación del Gobierno correspondiente, en el caso de los caminos agrarios y sus infraestructuras asociadas, trasladando a estos efectos la relación o relaciones elaboradas de acuerdo con lo dispuesto en el apartado tercero de esta orden. A estos efectos se les suministrará por el Ministerio de Agricultura, Pesca y Alimentación un modelo normalizado que deberá cumplimentar.
+
+b) Las personas que ostenten la representación de las comunidades de regantes y comunidades de usuarios del agua afectadas.
+
+En este caso las comunicaciones se presentarán en la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación https://sede.mapa.gob.es/siendo necesario adjuntar a las mismas una declaración responsable de la causalidad de daños, consecuencia de las borrascas y el consentimiento para actuar, firmados. Estos documentos estarán disponibles para su descarga junto con las instrucciones del procedimiento en la citada sede electrónica.
+
+4\. Las comunicaciones deberán presentarse con anterioridad al 15 de abril de 2026. Las comunicaciones presentadas con posterioridad a dicha fecha no serán atendidas.
+
+## Quinto. Análisis de las comunicaciones recibidas.
+
+1\. Recibida una comunicación de daños según lo establecido en el apartado anterior, la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria, a través de la Subdirección General de Regadíos, Caminos Naturales e Infraestructuras Rurales, realizará de oficio cuantas actuaciones se estimen necesarias para la determinación, conocimiento y comprobación de la información presentada, verificando la adecuación de su contenido a lo establecido en esta orden.
+
+2\. En concreto, la Dirección General podrá requerir informes de entidades terceras, mediante los que verificará si el daño reportado tiene su origen en las borrascas acaecidas entre el 1 de enero y el 20 de febrero y está incluido entre las obras elegibles, de acuerdo con lo contemplado en el apartado segundo de esta orden, así como su coste de reparación.
+
+3\. A la vista de la mencionada verificación y valoración, la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria fijará el alcance máximo de las obras susceptibles de ser ejecutadas.
+
+## Sexto. Criterios de priorización.
+
+Las obras de reparación de caminos agrarios de uso público e infraestructuras asociadas, así como de las infraestructuras de comunidades de regantes y comunidades de usuarios del agua dañadas comenzarán a la mayor brevedad, una vez se hayan verificado las comunicaciones de la manera indicada en el apartado quinto de la presente orden ministerial.
+
+Tras ello, las obras de reparación aprobadas por el Ministerio de Agricultura, Pesca y Alimentación se ejecutarán a través de los correspondientes encargos al medio propio TRAGSA, según las priorizaciones fijadas por el Ministerio a través de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria, de acuerdo con los siguientes criterios:
+
+a) Infraestructuras cuya operatividad resulte esencial por motivos agronómicos que, de no efectuarse en tiempo, comprometan la producción agraria.
+
+b) Se priorizarán actuaciones que beneficien a una mayor cantidad de explotaciones agrarias y por tanto de agricultores.
+
+c) Asimismo, se priorizarán actuaciones que puedan ejecutarse rápidamente para reducir el impacto socioeconómico directo e indirecto de la zona agraria afectada.
+
+## Séptimo. Régimen de ayudas de Estado para determinados perceptores de la ayuda extraordinaria para compensar la pérdida de renta en las explotaciones agrarias y acuícolas afectadas, prevista en el artículo 9 del Real Decreto-ley 5/2026, de 17 de febrero.
+
+Las ayudas previstas en el artículo 9 del Real Decreto-ley 5/2026, de 17 de febrero, sin perjuicio de lo dispuesto en su apartado 1 (que se aplicará en los casos previstos en el último párrafo de este dispositivo) se ajustan a la Comunicación de la Comisión Directrices aplicables a las ayudas estatales en los sectores agrícola y forestal y en las zonas rurales 2022/C 485/01, y en particular a su parte II, capítulo 1, sección 1.2.1.1 “Ayudas destinadas a reparar los perjuicios causados por desastres naturales o por otros acontecimientos de carácter excepcional”, y en consecuencia se sujetan, en concreto, a las siguientes condiciones:
+
+La ayuda es abonada directamente a los interesados que, figurando como elegibles en las relaciones publicadas por el FEGA en su sede electrónica en aplicación del apartado a) del artículo 9.8 del Real Decreto-ley 5/2026, hayan aceptado expresamente la ayuda y presentado la correspondiente declaración responsable conforme a la Orden APA/283/2026, de 27 de marzo, en atención a la relación causal directa entre los daños sufridos por los perceptores y el desastre natural o el acontecimiento de carácter excepcional objeto del citado real decreto-ley, los cuales han sido evaluados por medio del Estudio de impacto de las últimas incidencias meteorológicas (“tren de borrascas”) sobre los principales sectores agrarios en Andalucía y Badajoz, elaborado al efecto por la empresa pública “Tecnologías y Servicios Agrarios, SA, S.M.E., M.P.” (Tragsatec), lo que permite cumplir el requisito de que sea una autoridad pública, experto independiente reconocido por la autoridad que concede la ayuda o empresa de seguros. El importe de la ayuda asciende a una cuantía equivalente al 30 por ciento de los ingresos agrarios declarados, en los términos previstos en el artículo 9.4.
+
+Los daños considerados incluyen daños materiales a bienes, tales como edificios, equipos, maquinaria, existencias y medios de producción; pérdidas de ingresos derivadas de la destrucción total o parcial de la producción agrícola y de los medios de producción agrícola; y otros costes que ha soportado el beneficiario debido al desastre natural o al acontecimiento de carácter excepcional. No se han tenido en cuenta los costes que no fueran consecuencia del desastre natural o acontecimiento de carácter excepcional, y que el beneficiario tendría que haber sufragado.
+
+Dado que todos los beneficiarios han acreditado antes del pago, mediante declaración responsable, que otras ayudas y cualesquiera otros pagos recibidos para indemnizar por los daños, incluidos los pagos en virtud de pólizas de seguro, no superan el 100 % de los costes subvencionables, esta ayuda deberá tenerse en cuenta por la respectiva Administración competente a efectos de la percepción de otras ayudas o pagos en caso de que se superase dicho importe.
+
+El impuesto sobre el valor añadido (IVA) no es subvencionable.
+
+Estas subvenciones podrán acumularse con otras ayudas de Estado siempre que esas ayudas tengan por objeto costes subvencionables identificables diferentes, o bien sean los mismos costes subvencionables, que se superpongan parcial o totalmente, cuando esa acumulación no supere la intensidad máxima de ayuda o el importe de la ayuda aplicable a este tipo de ayuda en el marco de las Directrices. En particular, no podrán acumularse con ayudas notificadas conforme al apartado 1.1.1.1, Ayudas a la inversión en explotaciones agrícolas vinculadas a la producción agrícola primaria, con respecto de los gastos previstos el punto (152), letra d).
+
+La Base de Datos Nacional de Subvenciones publicará durante al menos diez años el texto completo del régimen de ayudas y de sus disposiciones de aplicación o base jurídica para las ayudas individuales, o un enlace a ellos; la identidad de la autoridad otorgante; el nombre de cada uno de los beneficiarios, la forma e importe de las ayudas otorgadas a cada beneficiario, la fecha de la concesión, el tipo de empresa (pyme o gran empresa), la región en la que está situado el beneficiario (a nivel NUTS II) y el principal sector económico en el que el beneficiario desarrolla sus actividades (a nivel de grupo NACE).
+
+Los perceptores para los que la aplicación del porcentaje del 30% de sus ingresos anuales arroje una cantidad inferior a 5.000 euros; quienes hayan percibido la ayuda de acuerdo con el artículo 9.5 del real decreto-ley; los titulares de pólizas de seguros agrarios que hayan declarado siniestro; los titulares de explotaciones acuícolas; y los titulares de explotaciones agrícolas dedicadas exclusivamente dentro de las zonas afectadas a cultivos industriales o cereales, oleaginosas y proteaginosas, percibirán las ayudas que en su caso les correspondan en el marco del Reglamento (UE) 2024/3118 de la Comisión, de 10 de diciembre de 2024.
+
+> Se modifica por el apartado primero de la Orden APA/530/2026, de 13 de mayo. [Ref. BOE-A-2026-11585](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11585)
+
+## Séptimo bis. Cuentas corrientes previstas en el artículo 9.8 c) del Real Decreto-ley 5/2026, de 17 de febrero.
+
+A los efectos de las cuentas corrientes a que hace referencia el artículo 9.8 c) del real decreto-ley, el FEGA podrá emplear las cuentas corrientes que obren en poder de dicho organismo.
+
+> Se añade por el apartado primero de la Orden APA/530/2026, de 13 de mayo. [Ref. BOE-A-2026-11585](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11585)
+
+## Octavo. Eficacia.
+
+La presente orden producirá efectos desde el día de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 25 de febrero de 2026.–El Ministro de Agricultura, Pesca y Alimentación, Luis Planas Puchades.

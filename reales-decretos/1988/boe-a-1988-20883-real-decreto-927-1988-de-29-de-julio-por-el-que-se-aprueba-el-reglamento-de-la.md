@@ -1,0 +1,988 @@
+---
+title: "Real Decreto 927/1988, de 29 de julio, por el que se aprueba el Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, en desarrollo de los títulos II y III de la Ley de Aguas"
+identifier: "BOE-A-1988-20883"
+eli: "https://www.boe.es/eli/es/rd/1988/07/29/927"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Obras Públicas y Urbanismo"
+date: 1988-07-29
+published: 1988-08-31
+in_force_from: 1988-09-01
+last_amended: 2024-10-23
+consolidated: 2026-05-08
+gazette: "Boletín Oficial del Estado núm. 209"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1988-20883"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 927/1988, de 29 de julio, por el que se aprueba el Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, en desarrollo de los títulos II y III de la Ley de Aguas
+
+Incluye la corrección de errores publicada en BOE núm. 234, de 29 de septiembre de 1988. [Ref. BOE-A-1988-22574](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-22574)
+
+Téngase en cuenta que el Reglamento aprobado por el presente Real Decreto pasa a denominarse "**Reglamento de la Administración Pública del Agua"**, según establece el art. 2.1 del Real Decreto 665/2023, de 18 de julio. [Ref. BOE-A-2023-18806](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-18806)
+
+La Ley 29/1985, de 2 de agosto, de Aguas, autorizó al Gobierno, en su disposición final segunda, para dictar, a propuesta del Ministerio de Obras Públicas y Urbanismo, las disposiciones reglamentarias necesarias para su cumplimiento.
+
+Por Real Decreto 849/1986, de 11 de abril, se aprobó el Reglamento del Dominio Público Hidráulico, que desarrollaba los títulos preliminar I, IV, V, VI y VII de la Ley de Aguas, materias que reclamaban un inmediato desarrollo a nivel reglamentario, que permitiese la aplicación de la Ley.
+
+Posteriormente, por Real Decreto 650/1987, de 8 de mayo, se definieron, con carácter reglamentario, los ámbitos territoriales de los Organismos de cuenca y de los Planes Hidrológicos en cumplimiento de lo establecido en los artículos 20.3 y 38.2 de la Ley de Aguas.
+
+En el Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica se desarrollan los títulos II y III de la Ley de Aguas, lo que permitirá la constitución de los Organismos de cuenca previstos en la Ley, así como la del Consejo Nacional del Agua, y consecuentemente, la elaboración de los Planes Hidrológicos, en los cuales, se tendrá en cuenta, aquella normativa de la Comunidad Económica Europea, relativa a los objetivos de calidad para las aguas continentales que figuran en las directivas 75/440/CEE, 76/160/CEE, 78/659/CEE, y 79/923/CEE.
+
+En su virtud, a propuesta del Ministro de Obras Públicas y Urbanismo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 29 de julio de 1988,
+
+D I S P O N G O :
+
+###### Artículo único.
+
+Se aprueba el Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, que desarrolla los títulos II y III de la Ley 29/1985, de 2 de agosto, de Aguas, que figura como anexo al presente Real Decreto.
+
+###### Disposición derogatoria.
+
+Quedan derogadas las disposiciones contenidas en el apartado tercero del anexo del Real Decreto 2473/1985, de 27 de diciembre, por el que se aprueba la tabla de vigencias a que se refiere el apartado 3 de la disposición derogatoria de la Ley 29/1985, de 2 de agosto, de conformidad con lo dispuesto en el citado Real Decreto.
+
+###### Disposición final primera.
+
+Se faculta al Ministro de Obras Públicas y Urbanismo para dictar cuantas disposiciones sean necesarias para el cumplimiento de lo establecido en el citado Reglamento.
+
+###### Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca a 29 de julio de 1988.
+
+JUAN CARLOS R.
+
+El Ministro de Obras Públicas y Urbanismo,
+
+JAVIER LUIS SÁENZ COSCULLUELA
+
+## REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL AGUA
+
+> Se modifica el título por el art. 2.1 del Real Decreto 665/2023, de 18 de julio. [Ref. BOE-A-2023-18806](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-18806)
+
+## TÍTULO I — De la Administración Pública del Agua
+
+### CAPÍTULO I — Principios generales
+
+###### Artículo 1.
+
+El ejercicio de las funciones del Estado, en materia de aguas, se someterá a los siguientes principios:
+
+1\. Unidad de gestión, tratamiento integral, economía del agua, desconcentración, descentralización, coordinación, eficacia y participación de los usuarios.
+
+2\. Respeto de la unidad de la cuenca hidrográfica, de los sistemas hidráulicos y del ciclo hidrológico.
+
+3\. Compatibilidad de la gestión pública del agua con la ordenación del territorio, la conservación y protección del medio ambiente y la restauración de la naturaleza (artículo 13 de la LA).
+
+###### Artículo 2.
+
+1\. Se entiende por cuenca hidrográfica el territorio en que las aguas fluyen al mar a través de una red de cauces secundarios que convergen en un cauce principal único. La cuenca hidrográfica, como unidad de gestión del recurso, se considera indivisible (artículo 14 de la LA).
+
+2\. **(Derogado)**
+
+3\. El ámbito territorial de los Organismos de cuenca comprenderá una o varias cuencas hidrográficas indivisas, con la sola limitación derivada de las fronteras internacionales.
+
+> Se deroga el apartado 2 por la disposición derogatoria única.a) del Real Decreto 907/2007, de 6 de julio. [Ref. BOE-A-2007-13182](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13182)
+
+> Redactado el apartado 1 conforme la corrección de errores publicada en BOE núm. 234, de 29 de septiembre de 1988. [Ref. BOE-A-1988-22574](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-22574)
+
+###### Artículo 3.
+
+A efectos administrativos, los acuíferos situados en el ámbito territorial de un Organismo de cuenca dependerán de este Organismo.
+
+###### Artículo 4.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 907/2007, de 6 de julio. [Ref. BOE-A-2007-13182](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13182)
+
+###### Artículo 5.
+
+1\. En los expedientes de concesión o de investigación de las aguas subterráneas de los acuíferos situados en los ámbitos territoriales de dos o más Organismos de cuenca, así como en los de autorización de vertidos de sustancias susceptibles de contaminar los acuíferos, el Organismo de cuenca o Administración Hidráulica de la Comunidad Autónoma a quien corresponda su tramitación, dará preceptiva audiencia a las demás Administraciones Hidráulicas u Organismos de cuenca en cuyo ámbito esté situado el acuífero.
+
+2\. Los expedientes de declaración de acuífero sobreexplotado, o en el proceso de salinización, así como los de afección a aprovechamientos preexistentes, que se refieran a estos acuíferos serán iniciados por una cualquiera de las Administraciones Hidráulicas a quienes afecte, dando audiencia a las demás y correspondiendo la resolución a la Dirección General de Obras Hidráulicas.
+
+###### Artículo 6.
+
+En relación con el dominio público hidráulico y en el marco de las competencias que le son atribuidas por la Constitución, el Estado ejercerá, especialmente, las funciones siguientes:
+
+a) La planificación hidrológica y la realización de los planes estatales de infraestructura hidráulica o cualquier otro estatal que forme parte de aquélla.
+
+b) La adopción de las medidas precisas para el cumplimiento de los acuerdos y convenios internacionales en materia de aguas.
+
+c) El otorgamiento de concesiones referentes al dominio público hidráulico en las cuencas hidrográficas que excedan del ámbito territorial de una sola Comunidad Autónoma.
+
+d) El otorgamiento de autorizaciones referentes al dominio público hidráulico, así como la tutela de éste, en las cuencas hidrográficas que excedan del ámbito territorial de una sola Comunidad Autónoma. La tramitación de las mismas podrá, no obstante, ser encomendada a las Comunidades Autónomas (artículo 15 de la LA).
+
+###### Artículo 7.
+
+1\. La Comunidad Autónoma que en virtud de su Estatuto de Autonomía ejerza competencia sobre el dominio público hidráulico en cuencas hidrográficas comprendidas íntegramente dentro de su territorio, ajustará el régimen jurídico de su administración hidráulica a las siguientes bases:
+
+a) Aplicación de los principios establecidos en el artículo 13 de la Ley de Aguas.
+
+b) La representación de los usuarios en los órganos colegiados de la Administración Hidráulica no será inferior al tercio de los miembros que los integren.
+
+c) Un Delegado del Gobierno en dicha Administración asegurará la comunicación con los Organismos de la Administración del Estado, a efectos de la elaboración del plan hidrológico de la cuenca, del cumplimiento de la legislación hidráulica estatal y de las previsiones de la planificación hidrológica.
+
+2\. Los actos y acuerdos que infrinjan la legislación hidráulica del Estado o no se ajusten a la planificación hidrológica y afecte a su competencia en materia hidráulica, podrán ser impugnados directamente por el Delegado del Gobierno en la administración hidráulica ante la jurisdicción contencioso-administrativa, con petición expresa de suspensión por razones de interés general. El Tribunal, si estima fundada esta petición, acordará la suspensión en el primer trámite siguiente a la presentación de la impugnación. A estos efectos se considerará, en todo caso, como contrario al interés general cualquier acto o acuerdo que no se ajuste a la planificación hidrológica (artículo 16 de la LA).
+
+3\. Los usuarios a que se refiere el párrafo b), del apartado 1, serán exclusivamente aquellos que ostenten dicho carácter en relación con aguas de las cuencas comprendidas íntegramente en la Comunidad Autónoma.
+
+> Ref. BOE-A-1992-4037
+
+###### Artículo 8.
+
+Los Delegados del Gobierno en las Administraciones Hidráulicas de las Comunidades Autónomas a que se refiere el artículo anterior serán designados y separados libremente por el Consejo de Ministros, a propuesta del Ministro de Obras Públicas y Urbanismo.
+
+> Téngase en cuenta que se suprimen las menciones a los Delegados del Gobierno en las Adminsitraciones Hidráulicas de las Comunidades Autónomas, según establece la disposición adicional 1 del Real Decreto 11/1992, de 14 de febrero. [Ref. BOE-A-1992-4037](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-4037)
+
+###### Artículo 9.
+
+1\. A los efectos de lo establecido en el artículo 7.2, la Administración Hidráulica de la Comunidad Autónoma pondrá en conocimiento del Delegado del Gobierno en la misma, en el plazo máximo de quince días, las autorizaciones, concesiones y demás actos y acuerdos, relativos al dominio público hidráulico, pudiendo recabar el Delegado del Gobierno cualquier otra información que estime necesaria para el adecuado desempeño de sus funciones.
+
+2\. La impugnación por el Delegado del Gobierno de los actos y acuerdos a que se refiere el artículo 7.2, deberá realizarse en el plazo de treinta días a partir de aquél en que tenga conocimiento de ellos.
+
+> Ref. BOE-A-1992-4037
+
+###### Artículo 10.
+
+El Ministerio de Obras Públicas y Urbanismo dotará a las Delegaciones del Gobierno en las Administraciones Hidráulicas Autonómicas, con cargo a los presupuestos del Ministerio, de cuantos servicios técnicos, jurídicos y administrativos fueran necesarios para el desempeño de las funciones que la Ley les encomienda.
+
+### CAPÍTULO II — Observatorio de la gestión del agua en España y Sello de gestión transparente del agua
+
+> Se añade por la disposición final 2.1 del Real Decreto 1085/2024, de 22 de octubre. [Ref. BOE-A-2024-21701](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-21701)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto. [Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+#### Sección 1.ª Observatorio de la gestión del agua en España
+
+> Se añade por la disposición final 2.1 del Real Decreto 1085/2024, de 22 de octubre. [Ref. BOE-A-2024-21701](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-21701)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto. [Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+###### Artículo 11. Observatorio de la gestión del agua en España.
+
+1\. El Observatorio de la gestión del agua en España se crea como una plataforma disponible en el portal de internet del Ministerio para la Transición Ecológica y el Reto Demográfico para proporcionar información sistemática sobre la gestión del agua en España con el fin de fomentar la transparencia en su gestión.
+
+2\. Esta información tendrá su origen en los datos y previsiones hidrológicas generados por los organismos de cuenca y administraciones equivalentes de las demarcaciones hidrográficas intracomunitarias, dando cumplimiento a lo establecido en el artículo 33 de la Ley 10/2001, de 5 de julio, del Plan Hidrológico Nacional, y los datos suministrados por los usuarios del agua, conforme a lo establecido en el artículo 55 del TRLA y otra información que se genere, ya sea por elaboración propia o por solicitud a terceras personas, o bien porque forme parte de su fondo documental. Asimismo, la información podrá proceder de otras administraciones, organismos de cuenca, universidades, usuarios, centros de investigación, organizaciones del sector u organismos públicos, que deberán colaborar en todo momento para la remisión de la información que les sea requerida.
+
+3\. En todos los casos será competencia de la Dirección General del Agua la recopilación, y mantenimiento de la documentación del mismo, así como asegurar, antes de su publicación, que la información sea congruente con la finalidad principal del Observatorio. Asimismo, comprobará que la información tiene un nivel de calidad suficiente y que las fuentes son rigurosas y fiables, si fuera necesario mediante contraste de la información con personas u organizaciones especializadas.
+
+> Se añade por la disposición final 2.2 del Real Decreto 1085/2024, de 22 de octubre. [Ref. BOE-A-2024-21701](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-21701)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto. [Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+###### Artículo 12. Funcionalidades del Observatorio de la gestión del agua en España.
+
+El Observatorio de la gestión del agua en España tendrá, al menos, las siguientes funcionalidades:
+
+Recopilar y divulgar los datos sobre los recursos hídricos disponibles y los usos del agua en situaciones ordinarias y extremas, sirviendo de centro de análisis de la situación actual y su evolución en un marco de adaptación al cambio climático.
+
+Publicar informes de seguimiento de la evolución de los recursos hídricos con el fin de promover la reducción con consumo del agua, la reutilización, la lucha contra la contaminación, la gestión digital y la mejora de la eficiencia en el uso del agua.
+
+Canalizar la información disponible sobre la gestión del agua en España y fomentar la transparencia en la gestión de la misma, divulgando las buenas prácticas de los usuarios que hayan obtenido el Sello de gestión transparente del agua.
+
+Reforzar el valor informativo de los datos recopilados para promover las buenas prácticas en la gestión del agua, y en especial, la utilización de recursos hídricos no convencionales, como son la reutilización del agua y la desalación, que tendrán una sección específica dentro del Observatorio.
+
+Divulgar investigaciones y estudios sobre aspectos relevantes relacionados con los usos del agua con el fin de que, entre otros aspectos, puedan dar respuesta a las cuestiones frecuentemente requeridas por gestores, usuarios, organizaciones y ciudadanía.
+
+> Se añade por la disposición final 2.3 del Real Decreto 1085/2024, de 22 de octubre. [Ref. BOE-A-2024-21701](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-21701)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto. [Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+#### Sección 2.ª Sello de gestión transparente del agua
+
+> Se añade por la disposición final 2.4 del Real Decreto 1085/2024, de 22 de octubre. [Ref. BOE-A-2024-21701](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-21701)
+
+###### Artículo 13. El Sello de gestión transparente del agua.
+
+1\. Se crea y se regula el Sello de gestión transparente del agua, como un distintivo público que se concederá, a quienes cumplan con los objetivos de transparencia de la información y buena gestión del agua en el ámbito de sus competencias.
+
+2\. El otorgamiento del Sello corresponderá a la persona titular de la Secretaría de Estado de Medio Ambiente del Ministerio para la Transición Ecológica y el Reto Demográfico en el ámbito de las demarcaciones hidrográficas intercomunitarias, y a los órganos que determinen las Comunidades Autónomas en el ámbito de las de demarcaciones hidrográficas intracomunitarias.
+
+3\. El Sello se representará con el logotipo que se diseñe en la orden que regule su concesión.
+
+> Se añade por la disposición final 2.5 del Real Decreto 1085/2024, de 22 de octubre. [Ref. BOE-A-2024-21701](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-21701)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto. [Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+> Se modifica la letra b) por el art. 1 del Real Decreto 439/1994, de 11 de marzo. [Ref. BOE-A-1994-7652](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-7652)
+
+###### Artículo 14. Procedimiento para la obtención del Sello de gestión transparente del agua. Requisitos y facultades asociadas al mismo.
+
+1\. Mediante orden de la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico se desarrollará el procedimiento para la concesión del Sello en el ámbito de las demarcaciones hidrográficas intercomunitarias. En la citada orden se establecerán, entre otros aspectos, las distintas categorías del sello en función de los distintos usos del agua y la eficiencia asociada a los mismos, los requisitos necesarios para obtener el sello, la vigencia del mismo, su prórroga o renovación, así como el control por parte de la administración del cumplimiento de las condiciones en que se otorgue, pudiendo acordar, en su caso, su revocación. Los beneficiarios podrán proceder a la renuncia voluntaria del sello.
+
+2\. El sello se concederá sin perjuicio de otros distintivos relacionados con el agua que se puedan establecer, por el Estado o las Comunidades Autónomas, en aplicación de las competencias que en cada caso correspondan.
+
+3\. El Sello de gestión transparente del agua será otorgado conforme a lo que establezca la orden que lo regule, reconociendo a los usuarios que, además de cumplir la normativa, dispongan de herramientas y tecnologías destacadas en la gestión del agua y el control del uso, que permitan alcanzar una mayor eficacia en el uso del agua, umbrales significativos en la reducción de los consumos del agua, la minimización de las pérdidas o fugas, la reutilización de los recursos hídricos, la protección de la calidad del agua a través de actuaciones de lucha contra la contaminación puntual y difusa, el fomento de la renaturalización de las cuencas hidrográficas, la digitalización, y que disponga de herramientas que permitan una adecuada transparencia y eficiencia en la gestión de la información sobre la gestión del agua.
+
+4\. La obtención del Sello conllevará las siguientes facultades:
+
+a) El empleo del logotipo del Sello en las actividades propias de las personas físicas o jurídicas distinguidas, con fines de comunicación y publicidad.
+
+b) La participación en los actos públicos, jornadas, premios y cualquier otro tipo de actividades que desarrolle el Ministerio para la Transición Ecológica y el Reto Demográfico o las comunidades autónomas, en su caso.
+
+5\. Las personas físicas y jurídicas distinguidas con el Sello en cualquiera de sus tipologías asumirán los siguientes compromisos:
+
+a) Utilizar el Sello de acuerdo con los fines establecidos en este real decreto.
+
+b) Mantener los requisitos y las circunstancias que motivaron la concesión del Sello durante toda su vigencia.
+
+c) Elaborar y remitir un informe anual de seguimiento.
+
+d) Comunicar la pérdida o cualquier modificación de los requisitos establecidos para la concesión del Sello.
+
+6\. El Ministerio para la Transición Ecológica y el Reto Demográfico se compromete a la realización de las siguientes actividades:
+
+a) Publicitar a través del Observatorio de la gestión del agua en España las distintas actividades desarrolladas, los resultados alcanzados, así como las buenas prácticas desarrolladas por los usuarios del agua que hayan obtenido este Sello en sus distintas categorías.
+
+b) Fomentar la inclusión de los requisitos para la gestión transparente y eficiente del agua en la convocatoria de ayudas, premios y subvenciones.
+
+c) Fomentar la colaboración con los usuarios que hayan obtenido el Sello con el fin de promover su utilización.
+
+d) Realizar el seguimiento y control del cumplimiento de los requisitos y condiciones para el otorgamiento del sello.
+
+> Se añade por la disposición final 2.6 del Real Decreto 1085/2024, de 22 de octubre. [Ref. BOE-A-2024-21701](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-21701)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto. [Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+> Se modifica por el art. 1 del Real Decreto 2068/1996, de 13 de septiembre. [Ref. BOE-A-1996-21762](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-21762)
+
+> Se modifica el apartado 2 por el art.1 del Real Decreto 439/1994, de 11 de marzo. [Ref. BOE-A-1994-7652](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-7652)
+
+###### Artículo 15.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto. [Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+> Se modifica por el art. 1 del Real Decreto 2068/1996, de 13 de septiembre. [Ref. BOE-A-1996-21762](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-21762)
+
+> Se modifica por el art. 1 del Real Decreto 117/1992, de 14 de febrero. [Ref. BOE-A-1992-4037](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-4037)
+
+###### Artículo 16.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto. [Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+> Se modifican los apartados 1.c) y e) por el art. 1 del Real Decreto 2068/1996, de 13 de septiembre. [Ref. BOE-A-1996-21762](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-21762)
+
+> Se modifican los apartados 1.d) y e) por el art.1 del Real Decreto 439/1994, de 11 de marzo. [Ref. BOE-A-1994-7652](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-7652)
+
+> Se modifica el último párrafo del apartado 1.d) y se suprime el 1.f) por el art. 1 del Real Decreto 117/1992, de 14 de febrero. [Ref. BOE-A-1992-4037](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-4037)
+
+###### Artículo 17.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto.[Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+###### Artículo 18.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto. [Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+> Se modifica el apartado 1 por el art. 2 del Real Decreto 2068/1996, de 13 de septiembre. [Ref. BOE-A-1996-21762](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-21762)
+
+> Se modifica el apartado 1 por el art.2 del Real Decreto 439/1994, de 11 de marzo. [Ref. BOE-A-1994-7652](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-7652)
+
+> Se modifica por los arts. 1 y 2 del Real Decreto 117/1992, de 14 de febrero. [Ref. BOE-A-1992-4037](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-4037)
+
+> Redactado el apartado 1 conforme a la corrección de errores núm. 234, de 29 de septiembre de 1988. [Ref. BOE-A-1988-22574](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-22574)
+
+###### Artículo 19.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto. [Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+#### Sección 3.ª Competencia
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto. [Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+###### Artículo 20.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto.[Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 234, de 29 de septiembre de 1988. [Ref. BOE-A-1988-22574](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-22574)
+
+###### Artículo 21.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto. [Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+#### Sección 4.ª Servicios
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto. [Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+###### Artículo 22.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto. [Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+###### Artículo 23.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1383/2009, de 28 de agosto. [Ref. BOE-A-2009-13929](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13929)
+
+### CAPÍTULO III — De los Organismos de cuenca
+
+#### Sección 1.ª Configuración y funciones
+
+###### Artículo 24.
+
+1\. Los Organismos de cuenca a que se refiere el artículo 19 de la Ley de Aguas son, con la denominación de Confederaciones Hidrográficas, Entidades de derecho público con personalidad jurídica propia y distinta de la del Estado, adscritas a efectos administrativos al Ministerio de Obras Públicas y Urbanismo y con plena autonomía funcional.
+
+2\. Dispondrán de autonomía para regir y administrar por sí los intereses que les sean confiados, para adquirir y enajenar los bienes y derechos que puedan constituir su propio patrimonio, para contratar y obligarse, y para ejercer ante los Tribunales todo género de acciones, sin más limitaciones que las impuestas por las leyes. Sus actos y resoluciones agotan la vía administrativa (artículo 20.2 de la LA).
+
+3\. Los Organismos de cuenca se regirán por la legislación aplicable a las Entidades estatales autónomas en todo lo no previsto en la Ley de Aguas o en sus Reglamentos (artículo 20.4 de la LA).
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 234, de 29 de septiembre de 1988. [Ref. BOE-A-1988-22574](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-22574)
+
+###### Artículo 25.
+
+Son funciones de los Organismos de cuenca:
+
+a) La elaboración del plan hidrológico de cuenca, así como su seguimiento y revisión.
+
+b) La administración y control del dominio público hidráulico.
+
+c) La administración y control de los aprovechamientos de interés general o que afecten a más de una Comunidad Autónoma.
+
+d) El proyecto, la construcción y explotación de las obras realizadas con cargo a los fondos propios del Organismo, y las que les sean encomendadas por el Estado.
+
+e) Las que se deriven de los convenios con Comunidades Autónomas, Corporaciones Locales y otras Entidades públicas o privadas, o de los suscritos con los particulares (artículo 21 de la LA).
+
+###### Artículo 26.
+
+Los Organismos de cuenca tendrán, para el desempeño de sus funciones, además de las que se contemplan expresamente en otros artículos de la Ley de Aguas, las siguientes atribuciones y cometidos:
+
+a) El otorgamiento de autorizaciones y concesiones referentes al dominio público hidráulico, salvo las relativas a las obras y actuaciones de interés general del Estado, que corresponderán al Ministerio de Obras Públicas y Urbanismo.
+
+b) La inspección y vigilancia del cumplimiento de las condiciones de concesiones y autorizaciones relativas al dominio público hidráulico.
+
+c) La realización de aforos, estudios de hidrología, información sobre crecidas y control de la calidad de las aguas.
+
+d) El estudio, proyecto, ejecución, conservación, explotación y mejora de las obras incluidas en sus propios planes, así como de aquéllas otras que pudieran encomendárseles.
+
+e) La definición de objetivos y programas de calidad de acuerdo con la planificación hidrológica.
+
+f) La prestación de toda clase de servicios técnicos relacionados con el cumplimiento de sus fines específicos y, cuando les fuera solicitado, el asesoramiento a la Administración del Estado, Comunidades Autónomas, Corporaciones Locales y demás Entidades públicas o privadas, así como a los particulares (artículo 22 de la LA).
+
+###### Artículo 27.
+
+Los Organismos de cuenca y las Comunidades Autónomas podrán establecer una mutua colaboración en el ejercicio de sus respectivas competencias, especialmente mediante la incorporación de aquéllas a la Junta de Gobierno de dichos Organismos (artículo 23 de la LA).
+
+#### Sección 2.ª Órganos de gobierno y administración
+
+##### Subsección 1.ª Clasificación
+
+###### Artículo 28.
+
+1\. Son órganos de gobierno de los Organismos de cuenca la Junta de Gobierno y el Presidente.
+
+2\. Son órganos de gestión, en régimen de participación, para el desarrollo de las funciones que específicamente les atribuye la Ley de Aguas, la Asamblea de Usuarios, la Comisión de Desembalse, las Juntas de Explotación y las Juntas de Obras.
+
+3\. Es órgano de planificación el Consejo del Agua de la cuenca (artículo 24 de la LA).
+
+##### Subsección 2.ª Órganos de gobierno
+
+###### Artículo 29.
+
+1\. La Junta de Gobierno de cada Organismo de cuenca estará integrada por:
+
+1.º El Presidente, que será el del Organismo de cuenca.
+
+2.º Dos Vicepresidentes:
+
+a) El Vicepresidente primero, elegido por los Vocales de la Junta de Gobierno representantes de las Comunidades Autónomas incorporadas al Organismo de cuenca de acuerdo con el artículo 23 de la Ley de Aguas.
+
+b) El Vicepresidente segundo, que será el Vicepresidente segundo del Consejo del Agua de la cuenca.
+
+3.º Los Vocales:
+
+a) En representación de la Administración del Estado, un Vocal por cada uno de los Ministerios de Obras Públicas y Urbanismo, Economía y Hacienda, Agricultura, Pesca y Alimentación e Industria y Energía, así corno por los Ministerios de Defensa e Interior, en caso de que dichos Departamentos lo solicitasen.
+
+b) Las Comunidades Autónomas que hubiesen decidido incorporarse al Organismo de cuenca de acuerdo con lo previsto en el artículo 23 de la Ley de Aguas, estarán representadas en la Junta de Gobierno, al menos, por un Vocal. El total de Vocales representantes y su distribución se establecerá en cada caso en función del número de Comunidades Autónomas integrantes de la cuenca hidrográfica y de la superficie y población de las mismas en ella comprendida, incluyendo para el cómputo al Vicepresidente primero.
+
+c) En representación de los usuarios, al menos, un tercio del total de Vocales de la Junta. La representación de los distintos tipos de uso será proporcionada a los respectivos intereses implicados, incluyendo para el cómputo al Vicepresidente segundo. En todo caso habrá, al menos, un Vocal representante por cada uno de los usos de abastecimiento de agua, regadíos y aprovechamientos energéticos.
+
+d) También formarán parte de la Junta de Gobierno el Comisario de Aguas, el Director técnico y el Jefe de la Oficina de Planificación Hidrológica.
+
+e) El Secretario general del Organismo, que actuará como Secretario de la Junta, con voz, pero sin voto.
+
+2\. En los Reales Decretos constitutivos de los Organismos de cuenca se determinará la composición de sus Juntas de Gobierno.
+
+###### Artículo 30.
+
+La designación de los diversos Vocales de la Junta de Gobierno se efectuará del modo siguiente:
+
+a) Los Vocales por la Administración del Estado serán designados por el Ministro del Departamento que representen.
+
+b) Los Vocales representantes de las Comunidades Autónomas serán designados por el órgano autonómico competente al efecto.
+
+c) Los Vocales representantes de los usuarios serán elegidos de entre los miembros de la Asamblea de Usuarios, por los representantes en la misma de cada uno de los diversos usos del agua.
+
+###### Artículo 31.
+
+1\. Corresponde a la Junta de Gobierno:
+
+a) Proponer el plan de actuación del Organismo.
+
+b) Formular sus presupuestos.
+
+c) Concertar, en su caso, las operaciones de crédito necesarias para las finalidades concretas relativas a su gestión.
+
+d) Preparar los asuntos que se hayan de someter al Consejo del Agua de la cuenca.
+
+e) Adoptar los acuerdos relativos a actos de disposición sobre el patrimonio del Organismo.
+
+f) La declaración de acuíferos sobreexplotados y la determinación de los perímetros a que se refiere el artículo 54 de la Ley de Aguas.
+
+g) Y, en general, deliberar sobre aquellos asuntos que sean sometidos a su consideración por cualquiera de sus miembros (artículo 26 de la LA).
+
+2\. El plan de actuación, una vez aprobado por el Presidente, será elevado, por el mismo, al Ministerio de Obras Públicas y Urbanismo para su conocimiento.
+
+3\. La Junta de Gobierno se reunirá cada vez que la convoque su Presidente y, al menos, una vez cada trimestre.
+
+###### Artículo 32.
+
+El Presidente del Organismo de cuenca será nombrado y cesado por el Consejo de Ministros a propuesta del Ministro de Obras Públicas y Urbanismo (artículo 27 de la LA).
+
+###### Artículo 33.
+
+1\. Corresponde al Presidente del Organismo de cuenca:
+
+a) Ostentar la representación legal del Organismo.
+
+b) Presidir la Junta de Gobierno, la Asamblea de Usuarios, la Comisión de Desembalse y el Consejo del Agua.
+
+c) Cuidar que los acuerdos de los órganos colegiados se ajusten a la legalidad vigente.
+
+d) Desempeñar la superior función directiva y ejecutiva del Organismo.
+
+e) En general, el ejercicio de cualquier otra función que no esté expresamente atribuida a otro órgano (artículo 28.1 de la LA).
+
+2\. En el marco de los párrafos d) y e) del apartado anterior, le corresponderá de manera especial:
+
+a) Aprobar el plan de actuación del Organismo.
+
+b) Ordenar la ejecución de los acuerdos de la Junta de Gobierno y de los demás órganos colegiados que preside.
+
+e) Ejercer las facultades de contratación propias del Organismo.
+
+d) Autorizar los gastos que se realicen con cargo a créditos del presupuesto del Organismo y ordenar los pagos correspondientes.
+
+e) Desempeñar la Jefatura de Personal y Servicios.
+
+f) Otorgar las concesiones y autorizaciones de aprovechamiento del dominio público hidráulico y las autorizaciones relativas al régimen de policía de aguas y cauces, excepto aquéllas cuya resolución corresponda al Ministerio de Obras Públicas y Urbanismo.
+
+g) Aplicar las normas del Reglamento del Dominio Público Hidráulico en materia de policía de aguas y sus cauces, incluido el régimen sancionador, dentro de los límites de su competencia.
+
+h) Resolver los recursos administrativos que se deduzcan contra las resoluciones de las Comunidades de Usuarios y del propio Organismo de cuenca con excepción de los que correspondan por su contenido a la Junta de Gobierno del Organismo o al Ministerio de Obras Públicas y Urbanismo.
+
+i) Aplicar el régimen fiscal en materia de dominio público hidráulico.
+
+j) Autorizar la redacción y aprobar definitivamente los proyectos de obras, instalaciones y suministros que hayan de ser realizados con cargo a los fondos propios del Organismo.
+
+k) Ejercer las funciones expropiatorias en materia de aguas, en los términos previstos en la legislación vigente.
+
+l) Informar a la Dirección General de Obras Hidráulicas sobre los efectos sociales de los proyectos correspondientes a obras que se encomienden al Organismo por el Ministerio de Obras Públicas y Urbanismo.
+
+m) Informar las propuestas de nombramiento y cese del Comisario de Aguas, del Director técnico y del Secretario general.
+
+###### Artículo 34.
+
+Los actos y acuerdos de los Órganos colegiados del Organismo de cuenca que puedan constituir infracción de leyes o no se ajusten a la planificación hidrológica podrán ser impugnados por el Presidente ante la Jurisdicción Contencioso-Administrativa. La impugnación producirá la suspensión del acto o acuerdo, pero el Tribunal deberá ratificarla o levantarla en un plazo no superior a treinta días. El procedimiento será el establecido en el artículo 118 de la Ley Reguladora de la Jurisdicción Contencioso-Administrativa (artículo 28.2 de la LA).
+
+##### Subsección 3.ª Órganos de gestión en régimen de participación
+
+###### Artículo 35.
+
+La Asamblea de Usuarios, integrada por todos aquellos usuarios que forman parte de las Juntas de Explotación, tiene por finalidad coordinar la explotación de las obras hidráulicas y de los recursos de agua en toda la cuenca, sin menoscabo del régimen concesional y derechos de los usuarios (artículo 29 de la LA).
+
+###### Artículo 36.
+
+Podrán asistir a las sesiones de la Asamblea de Usuarios, con voz pero sin voto:
+
+a) Un representante de cada uno de los Ministerios de Agricultura, Pesca y Alimentación y de Industria y Energía.
+
+b) Dos representantes de las Comunidades Autónomas de cuyo territorio, al menos el 25 por 100, quede incluido dentro de la cuenca hidrográfica, y hayan decidido incorporarse al Organismo de cuenca de acuerdo con lo previsto en el artículo 23 de la Ley de Aguas.
+
+c) Un representante de las Comunidades Autónomas de cuyo territorio la porción incluida en la cuenca hidrográfica sea Inferior al 25 por 100, y hayan decidido incorporarse al Organismo de cuenca de acuerdo con lo previsto en el artículo 23 de la Ley de Aguas.
+
+d) En representación del Organismo de cuenca:
+
+El Comisario de Aguas.
+
+El Director técnico.
+
+El Jefe de la Oficina de Planificación Hidrológica.
+
+e) Los Vocales componentes de la Asamblea podrán ser acompañados de un máximo de dos asesores en las materias que hayan de ser tratadas en el orden del día. En todo caso, la voz y el voto corresponderán exclusivamente a los Vocales representantes.
+
+###### Artículo 37.
+
+Compete a la Asamblea de Usuarios:
+
+a) Conocer las cuestiones que se susciten entre dos o más Juntas de Explotación y proponer al Presidente las oportunas resoluciones.
+
+b) Entender y debatir, en su caso, aquellos asuntos que el Presidente considere oportuno presentar y, de manera especial, la Memoria anual de actividades del Organismo.
+
+c) Informar los presupuestos anuales de ingresos y gastos de las Juntas de Explotación.
+
+d) Proponer los representantes de los usuarios en la Comisión de Desembalse, según lo previsto en el artículo 47.2.
+
+###### Artículo 38.
+
+1\. En caso de vacante, ausencia, o enfermedad del Presidente de la Asamblea, éste será sustituido por el Director técnico, y en su defecto, por el Comisario de Aguas.
+
+2\. La Asamblea de Usuarios se reunirá en sesión ordinaria una vez al año, y en sesión extraordinaria siempre que lo soliciten la tercera parte, al menos, de los miembros de la Asamblea o cuando así lo decida el Presidente.
+
+3\. Ejercerá las funciones de Secretario de la Asamblea, con voz pero sin voto, el Secretario general del Organismo de cuenca.
+
+###### Artículo 39. Competencias de las Juntas de explotación referidas en el artículo 40 de este reglamento.
+
+1\. Las Juntas de explotación tienen por finalidad coordinar, respetando los derechos derivados de las correspondientes concesiones y autorizaciones, la explotación de las obras hidráulicas y de los recursos de agua de aquel conjunto de ríos, río, tramo de río o unidad hidrogeológica o masa de agua subterránea, cuyos aprovechamientos estén especialmente interrelacionados (artículo 32 del TRLA).
+
+Cuando la junta de explotación gestione recursos de aguas subterráneas en una masa de agua declarada en riesgo se llamará Junta de explotación para la gestión de la masa de agua subterránea.
+
+2\. Las propuestas formuladas por las Juntas de explotación en el ámbito de sus competencias se trasladarán a la presidencia del organismo de cuenca y serán de obligado cumplimiento y aplicación a todos los usuarios, tanto personas físicas como jurídicas beneficiados por las obras hidráulicas cuya explotación se coordina a través de las respectivas Juntas de explotación.
+
+3\. El ámbito de las Juntas de explotación será fijado por la presidencia del organismo de cuenca, oída la Junta de Gobierno, así como el nombramiento de sus componentes.
+
+> Se modifica por el art. 2.2 del Real Decreto 665/2023, de 18 de julio. [Ref. BOE-A-2023-18806](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-18806)
+
+###### Artículo 40.
+
+1\. Formarán parte de las Juntas de Explotación:
+
+a) El Director técnico, que ostentará su presidencia.
+
+b) Los miembros del Organismo de cuenca que sean designados al efecto por el Presidente, que asistirán con voz pero sin voto.
+
+c) Los representantes de los usuarios afectados, que podrán ser acompañados por un máximo de dos asesores en las materias que hayan de ser tratadas en el orden del día. En todo caso, la voz y el voto corresponderán exclusivamente a los Vocales representantes.
+
+2\. Podrán asistir a las reuniones de las Juntas de Explotación, como asesores con voz pero sin voto, un representante de cada uno de los Ministerios de Agricultura, Pesca y Alimentación y de Industria y Energía.
+
+3\. Actuará como Secretario de cada Junta de Explotación un funcionario designado por el Director técnico.
+
+###### Artículo 41.
+
+La representación en las Juntas de Explotación de los usuarios con derechos inscritos o en trámite de inscripción en el Registro de Aguas, quedará formada como sigue:
+
+a) Por cada municipio, mancomunidad, consorcio o Empresa pública o privada, titulares de concesiones de abastecimiento de aguas para más de 100.000 habitantes, un representante por cada 100.000 habitantes, hasta un máximo de cuatro.
+
+b) Por la agrupación única de todos los restantes municipios, mancomunidades, consorcios y Empresas públicas o privadas, que sean concesionarios de abastecimientos de aguas, un representante por cada 100.000 habitantes o fracción, hasta un máximo de seis, sin que en ningún caso pueda tener un municipio más de un representante.
+
+c) Por cada Comunidad de Regantes con superficie mayor de 3.000 hectáreas, el número de representantes se establecerá en función de su superficie regable con arreglo a la siguiente tabla:
+
+| Comunidades de Regantes<br>con superficie comprendida entre | Representantes |
+|---|---|
+| 3.000 y 10.000 hectáreas | 2 |
+| 10.001 y 20.000 hectáreas | 3 |
+| 20.001 y 40.000 hectáreas | 4 |
+| 40.001 y 60.000 hectáreas | 5 |
+| 60.001 hectáreas y superiores | 6 |
+
+d) Por la agrupación de las restantes Comunidades de Regantes, que será única, el número de representantes se establecerá en función de la superficie regable total, conforme a la siguiente tabla:
+
+| Superficie regable total<br>comprendida entre | Representantes |
+|---|---|
+| 0 y 3.000 hectáreas | 1 |
+| 3.001 y 10.000 hectáreas | 2 |
+| 10.001 y 20.000 hectáreas | 3 |
+| 20.001 y 40.000 hectáreas | 4 |
+| 40.001 y 60.000 hectáreas | 5 |
+| 60.001 hectáreas y superiores | 6 |
+
+e) Con independencia de los representantes que correspondan por aplicación de los apartados anteriores se designará un representante por cada Junta Central o Comunidad General constituida.
+
+f) El Instituto Nacional de Reforma y Desarrollo Agrario o los Órganos correspondientes de las Comunidades Autónomas, según proceda, representarán los intereses de los usuarios de las zonas regables en las que actúen, en tanto se constituyan las correspondientes Comunidades de Usuarios, como si de éstas se tratase, de acuerdo con lo indicado en los apartados c) y d).
+
+g) Cada Empresa productora de energía eléctrica con potencia hidroeléctrica instalada superior a 50.000 kVA, un representante por cada 50.000 kVA o fracción, hasta un máximo de cuatro.
+
+h) La agrupación voluntaria única de las restantes Empresas productoras de energía hidroeléctrica podrá tener un representante por cada 50.000 kVA o fracción, hasta un máximo de seis.
+
+i) La agrupación voluntaria única de los restantes usuarios industriales podrá tener un representante por cada 20 Hm<sup>3</sup>/año, de agua consumida.
+
+j) Por los restantes aprovechamientos, agrupados o no en Comunidades de Usuarios, la Junta de Gobierno, a petición de los interesados, y ponderando su importancia, determinará el número de representantes hasta un total de seis como máximo.
+
+###### Artículo 42.
+
+1\. La designación de estos representantes de los usuarios se realizará conforme a los siguientes procedimientos:
+
+a) Los representantes de cada Municipio, Mancomunidad, Consorcio o Empresa a que se refiere el artículo 41, a), serán designados de acuerdo con la legislación aplicable en cada caso.
+
+b) El representante de cada agrupación a que se refiere el párrafo b) del artículo anterior será elegido en el plazo señalado por el Presidente del Organismo de cuenca, por compromisarios nombrados por las Entidades agrupadas, computándose a estos efectos un voto por cada 500 habitantes servidos.
+
+c) Las Comunidades de Regantes con superficie mayor de 3.000 hectáreas designarán sus propios representantes.
+
+d) Cada una de las Comunidades de Regantes con superficie propia inferior a 3.000 hectáreas a que se refiere el artículo anterior designará un compromisario. Todos los compromisarios, en el plazo que determine el Presidente del Organismo de cuenca, elegirán a sus representantes en la Junta de Explotación correspondiente, mediante votación en la cual se asignará a cada compromisario un voto por cada 100 hectáreas.
+
+e) Los representantes de las Sociedades productoras de energía hidroeléctrica serán designados conforme a lo establecido en sus Estatutos, o por acuerdo entre las Sociedades agrupadas según los casos, o elegidos entre las mismas, computándose a estos efectos un voto por cada 1.000 kVA.
+
+f) Los representantes de los restantes usuarios industriales serán elegidos entre ellos computando a estos efectos un voto por cada 100.000 metros cúbicos/año de agua consumida.
+
+2\. La designación de cada representante irá acompañada de la de un suplente que sustituirá al titular por causa justificada ante el Presidente de la Junta con anterioridad a cada reunión.
+
+3\. Las relaciones de titulares y suplentes serán puestas en conocimiento del Presidente del Organismo de cuenca, en un plazo de diez días.
+
+###### Artículo 43.
+
+1\. La designación de los Vocales representantes se realizará para períodos de seis años, contados a partir de la fecha de su toma de posesión en la primera reunión de la Junta a la que hubiesen de asistir, pudiendo cada Vocal cesante ser reelegido.
+
+2\. Para mejor asegurar la continuidad de la actuación de la Junta, los Vocales se renovarán por mitades cada tres años, determinándose por sorteo, al constituirse por primera vez la Junta de Explotación, quienes habrán de cesar al terminar el primer periodo de tres años.
+
+3\. Sin perjuicio de lo dispuesto en los apartados anteriores, los Vocales representantes podrán ser removidos y sustituidos por los mismos procedimientos previstos para su designación.
+
+###### Artículo 44.
+
+Las Juntas de Explotación celebrarán dos reuniones ordinarias anuales, pudiendo igualmente reunirse con carácter extraordinario cuando así lo acuerde su Presidente, bien por propia iniciativa, bien a petición de la tercera parte de los Vocales representantes.
+
+###### Artículo 44 bis. Composición de la Junta de explotación para la gestión de masas de agua subterráneas declaradas en riesgo de no alcanzar el buen estado.
+
+1\. En las masas de agua subterráneas declaradas en riesgo de no alcanzar el buen estado, de acuerdo con el artículo 56 del TRLA, la composición de la Junta de explotación para la gestión de la masa de agua subterránea será la siguiente:
+
+a) El Comisario de aguas, que ostentará su presidencia. En su ausencia, la presidencia del organismo designará otro miembro del organismo de cuenca.
+
+b) Cuatro miembros del organismo de cuenca que sean designados al efecto por la presidencia del Organismo de cuenca, en calidad de vocales, de los cuales uno será el secretario de la Junta de explotación para la gestión de la masa de agua subterránea de que se trate.
+
+c) Dos personas representantes, en calidad de vocales, por cada comunidad autónoma en cuyo territorio se encuentre la masa de agua subterránea, representando a las competencias medioambientales y a las actividades agrarias.
+
+d) Seis personas representantes de la comunidad de usuarios constituida, que podrán ser acompañados por un máximo de tres asesores en las materias que hayan de ser tratadas en el orden del día. En todo caso, la voz y el voto corresponderán exclusivamente a los seis vocales representantes.
+
+e) Una persona representante, en calidad de vocal, de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., a través del Centro Nacional del Instituto Geológico y Minero de España, que ostente la condición de funcionario de carrera y ocupe un puesto de trabajo con un nivel administrativo 24 o superior.
+
+f) Una persona representante de cada una de las Comunidades de Usuarios de Aguas Subterráneas o de Aguas Superficiales, que el organismo de cuenca haya declarado como partes interesadas por razones hidrogeológicas, que actuarán como vocales.
+
+g) Dos personas representantes de entidades del tercer sector u organizaciones no gubernamentales que sean integrantes del Consejo del Agua de la Demarcación, en calidad de vocales, que desarrollen actividades relacionadas con las aguas subterráneas y sus ecosistemas dependientes.
+
+h) Una persona representante en calidad de vocal, de las organizaciones profesionales agrarias más representativas en el ámbito geográfico de la masa de agua.
+
+i) En caso de que el organismo de cuenca tenga constancia de la afección a abastecimientos en la masa de agua declarada, podrá designar una persona representante, en calidad de vocal, de la Federación Española de Municipios y Provincias.
+
+j) Además, el organismo de cuenca a propuesta de la presidencia podrá designar hasta tres representantes de usuarios, asociaciones u otras administraciones, que asistirán como asesores sin voto, cuando así se estime oportuno por razones hidrogeológicas, de forma que el estado de la masa afecte a derechos de terceros o espacios naturales, así a los ecosistemas y usos superficiales asociados al buen estado de estas masas.
+
+2\. Además de los miembros establecidos en apartado uno, cuando se trate de acuíferos compartidos conforme a lo establecido en el artículo 7 de la Ley 10/2001, de 5 de julio, del Plan Hidrológico Nacional, además formarán parte de cada una de las Juntas de explotación para la gestión de la masa de agua subterránea de cada una de las masas de agua subterránea que conforman el acuífero compartido, en calidad de vocales, las siguientes personas:
+
+a) Una persona representante de la Dirección General del Agua del Ministerio para la Transición Ecológica y el Reto Demográfico, que ostente la condición de funcionario de carrera y ocupe un puesto de trabajo con un nivel administrativo 24 o superior.
+
+b) Una persona representante de cada uno de los organismos de cuenca distintos del señalado en el apartado anterior en cuya demarcación también se ubique el acuífero compartido, que ostente la condición de funcionario de carrera y ocupe un puesto de trabajo con un nivel administrativo 20 o superior.
+
+c) Una persona representante de las organizaciones profesionales agrarias más representativas en el ámbito geográfico del acuífero compartido.
+
+d) Una persona representante de la Federación Española de Municipios y Provincias por cada demarcación hidrográfica incluida en el ámbito geográfico del acuífero compartido, en caso de que no estuviera ya designada.
+
+> Se modifican los apartados 1.e) y 2.a) y b) por la disposición final 2.7 del Real Decreto 1085/2024, de 22 de octubre. [Ref. BOE-A-2024-21701](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-21701)
+
+> Se añade por el art. 2.3 del Real Decreto 665/2023, de 18 de julio. [Ref. BOE-A-2023-18806](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-18806)
+
+###### Artículo 45.
+
+1\. Corresponde a la Comisión de Desembalse deliberar y formular propuestas al Presidente del Organismo sobre el régimen adecuado de llenado y vaciado de los embalses y acuíferos de la cuenca, atendidos los derechos concesionales de los distintos usuarios (artículo 31 de la LA).
+
+2\. Formulada la propuesta por los Vocales con voz y voto, el Presidente recabará informe del Comisario de Aguas, del Director técnico y del Jefe de Explotación. En el caso de que la propuesta formulada sea unánime y los informes favorables a la misma, la citada propuesta será vinculante; en los demás casos el Presidente resolverá a la vista de los antecedentes.
+
+###### Artículo 46.
+
+1\. La Comisión de Desembalse celebrará sesión al menos dos veces al año, una en el mes de octubre para la preparación de los programas de llenado de embalses y otra en la primavera siguiente para revisar los anteriores programas a la vista de los recursos disponibles, y en cualquier ocasión cuando la convoque el Presidente o lo solicite la tercera parte al menos de los Vocales.
+
+2\. La Comisión de Desembalse actuará en Pleno o por Secciones. Actuará por Secciones cuando se trate del régimen de un embalse, o sistemas de embalses de explotación independiente, sin conexión directa con los restantes. En este caso el Presidente podrá delegar sus funciones en el Director técnico o en el Comisario de Aguas.
+
+###### Artículo 47.
+
+1\. Serán Vocales natos, el Comisario de Aguas, el Director técnico, el Jefe de Explotación, que actuará como Secretario; un representante del Ministerio de Agricultura, Pesca y Alimentación, otro del Ministerio de Industria y Energía y un representante de «Red Eléctrica Española, Sociedad Anónima». Estos Vocales actuarán tanto si la Comisión se reúne en sesión plenaria como por Secciones.
+
+2\. Los representantes de los usuarios serán nombrados por la Junta de Gobierno a propuesta de la Asamblea de Usuarios, de modo que la totalidad de los usuarios y las Entidades que ostenten algún derecho sobre embalses determinados queden representados en la Comisión de forma individual o colectiva. Estos Vocales actuarán en las Secciones a que estén afectos, y en la reunión del Pleno.
+
+3\. Todos los Vocales tendrán voz y voto excepto el Comisario de Aguas, el Director técnico y el Jefe de Explotación, que no tendrán voto.
+
+###### Artículo 48.
+
+Las actas de las reuniones, tanto plenarias como por Secciones acompañadas de los programas respectivos, serán remitidas, previa la oportuna aprobación del Presidente del Organismo de cuenca, a la Dirección General de Obras Hidráulicas para su conocimiento.
+
+###### Artículo 49.
+
+1\. En casos de avenidas u otras circunstancias de tipo excepcional se constituirán automáticamente en Comité Permanente el Presidente del Organismo, el Comisario de Aguas, el Director técnico y el Jefe de Explotación. Este Comité Permanente podrá adoptar las medidas que estime oportunas, incluso embalses y desembalses extraordinarios, sin necesidad de oír a la Comisión de Desembalse de la cuenca, debiendo dar cuenta inmediata de su actuación a la Dirección General de Obras Hidráulicas y poner en conocimiento de la propia Comisión el conjunto de medidas adoptadas. Todo ello sin perjuicio de lo regulado al efecto en materia de protección civil.
+
+2\. El Comité Permanente será Órgano de información y asesoramiento de las autoridades competentes en materia de protección civil en las emergencias por inundaciones.
+
+3\. El Comité Permanente se constituirá a la mayor brevedad posible, por iniciativa de cualquiera de sus miembros. Durante el plazo que transcurra entre el momento en que se conozca la emergencia y la constitución del Comité Permanente antes indicado, quien haya promovido su constitución podrá acordar medidas con carácter de urgencia debiendo ponerlas en conocimiento del Comité, tan pronto como se constituya, así como del Gobernador civil de la provincia.
+
+###### Artículo 50.
+
+La Junta de Gobierno, a petición de los futuros usuarios de una obra ya aprobada, para realizar por la Confederación Hidrográfica, podrá constituir la correspondiente Junta de Obras, en la que participarán tales usuarios, a fin de que estén directamente informados del desarrollo e incidencias de la obra, tanto si se realiza por cuenta exclusiva del Estado, como si se lleva a cabo con la participación económica de los interesados, siempre y cuando el coste total de las obras proyectadas sea superior a mil millones de pesetas, cifra que se actualizará automáticamente cada cinco años, en función de los sucesivos índices anuales de precios al consumo.
+
+###### Artículo 51.
+
+1\. Las Juntas de Obras estarán integradas por:
+
+a) El Director técnico, que actuará como Presidente.
+
+b) El Jefe del Área o Departamento correspondiente.
+
+c) El personal del Organismo de cuenca encargado de la dirección de las obras.
+
+d) Un número variable de representantes de los usuarios, de modo que integren los intereses de los distintos aprovechamientos tanto presentes como previstos.
+
+2\. La Junta de Gobierno, a propuesta del Director técnico, establecerá el número de vocales que corresponda según los distintos tipos de aprovechamientos afectados y efectuará sus nombramientos a medida que se vayan constituyendo las distintas agrupaciones de usuarios, a propuesta de las mismas.
+
+3\. Actuará como Secretario de la Junta de Obras un funcionario del Organismo de cuenca, designado por el Director técnico.
+
+###### Artículo 52.
+
+Las funciones de las Juntas de Obras se ejercerán durante el período de ejecución de las obras, hasta su liquidación, en cuyo momento se disolverá.
+
+##### Subsección 4.ª Órgano de planificación
+
+###### Artículo 53.
+
+1\. Corresponde al Consejo del Agua elevar al Gobierno, a través del Ministerio de Obras Públicas y Urbanismo el Plan Hidrológico de cuenca y sus ulteriores revisiones. Asimismo podrá informar las cuestiones de interés general para la cuenca y las relativas a la mejor ordenación, explotación y tutela del dominio público hidráulico.
+
+2\. Las Comunidades Autónomas, cuyo territorio forme parte total o parcialmente de una cuenca hidrográfica se incorporarán al Consejo del Agua correspondiente para participar en la elaboración de la planificación hidrológica y demás funciones del mismo (artículo 33 de la LA).
+
+###### Artículo 54.
+
+1\. El Consejo del Agua de la cuenca estará constituido por el Presidente, dos Vicepresidentes, un Secretario y los Vocales que más adelante se concretan.
+
+2\. Será Presidente del Consejo el del Organismo de cuenca.
+
+3\. La Vicepresidencia Primera corresponderá al Vocal que resulte elegido por los que representen a las Comunidades Autónomas, cuyo territorio esté comprendido, en todo o en parte, dentro de la cuenca. La Vicepresidencia Segunda recaerá sobre el Vocal que resulte elegido por los Vocales representantes de los usuarios.
+
+###### Artículo 55.
+
+1\. Serán Vocales de dicho Consejo del Agua:
+
+a) En representación de la Administración General del Estado, y por los Ministerios que se citan:
+
+Economía y Hacienda, un vocal.
+
+Interior, un vocal.
+
+Medio Ambiente, tres vocales.
+
+Industria y Energía, dos vocales.
+
+Agricultura, Pesca y Alimentación, tres vocales.
+
+Administraciones Públicas, un vocal.
+
+Fomento, un vocal.
+
+Sanidad y Consumo, un vocal.
+
+Defensa, un vocal.
+
+b) En representación de las Comunidades Autónomas la distribución de Vocales que corresponde al Consejo del Agua de cada Organismo de cuenca figurará en los Reales Decretos constitutivos de dichos Organismos. Dicha representación no será inferior a la que corresponda a los diversos Departamentos ministeriales señalados en el apartado a).
+
+c) En representación de los Servicios Técnicos del Organismo de cuenca:
+
+El Comisario de Aguas.
+
+El Director técnico.
+
+El Jefe de la Oficina de Planificación Hidrológica, con voz pero sin voto.
+
+d) En representación de los usuarios:
+
+Un número de Vocales que, computado el Vicepresidente Segundo, no será inferior al tercio total de Vocales del Consejo. Los Vocales serán elegidos de entre los miembros de la Asamblea de Usuarios, por los representantes en la misma de cada una de las diversas clases de aprovechamientos, respetando la proporcionalidad que existe en la propia Asamblea.
+
+Las organizaciones profesionales del sector agrario con mayor implantación podrán designar un representante en el Consejo por cada cincuenta vocales o fracción de los que integran el mismo.
+
+e) En representación de las organizaciones ecologistas con mayor implantación, un vocal nombrado por el Ministro de Obras Públicas, Transportes y Medio Ambiente, a propuesta de dichas organizaciones, por cada cincuenta vocales o fracción del total de los que integran el Consejo.
+
+2\. Como Secretario del Consejo, con voz pero sin voto, actuará el Secretario general del Organismo de cuenca.
+
+> Se modifica la letra a) del apartado 1 por el art. 3 del Real Decreto 2068/1996, de 13 de septiembre. [Ref. BOE-A-1996-21762](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-21762)
+
+> Se añade el párrafo segundo de la letra d) y la letra e) al apartado 1 por el art. 3 del Real Decreto 439/1994, de 11 de marzo. [Ref. BOE-A-1994-7652](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-7652)
+
+###### Artículo 56.
+
+1\. El Consejo podrá actuar en pleno y en Comisiones. Existirá en todo caso una Comisión de Planificación Hidrológica para cada uno de los Planes Hidrológicos que se prevean en el ámbito territorial del Organismo de cuenca.
+
+2\. La Comisión de Planificación Hidrológica estará presidida por el Presidente del Consejo del Agua e integrada por vocales de dicho Consejo, en la siguiente forma: dos representantes de cada uno de los Ministerios de Obras Públicas, Transportes y Medio Ambiente, de Agricultura, Pesca y Alimentación y de Industria y Energía; un representante de cada una de las Comunidades Autónomas afectadas por el Plan Hidrológico; un número de representantes de los usuarios equivalente a la tercera parte del total de miembros de la Comisión, debiendo estar representados siempre los usos de abastecimiento de agua, regadíos y usos energéticos; un representante de las organizaciones profesionales del sector agrario con implantación en el mismo y otro de las organizaciones ecologistas con mayor implantación de entre los nombrados por el Ministro de Obras Públicas, Transportes y Medio Ambiente. Además, se integrarán en la Comisión el Comisario de Aguas, el Director técnico y el Jefe de la Oficina de Planificación.
+
+3\. El Órgano de apoyo técnico del Consejo del Agua será la oficina de Planificación Hidrológica del Organismo de cuenca.
+
+> Se modifica el apartado 2 por el art. 3.3 del Real Decreto 439/1994, de 11 de marzo. [Ref. BOE-A-1994-7652](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-7652)
+
+#### Sección 3.ª Hacienda y Patrimonio
+
+###### Artículo 57.
+
+Los bienes del Estado y los de las Comunidades Autónomas adscritos o que puedan adscribirse a los Organismos de cuenca para el cumplimiento de sus fines, conservarán su calificación jurídica originaria, correspondiendo tan solo al Organismo su utilización, administración y explotación, con sujeción a las disposiciones legales vigentes en la materia (artículo 35 de la LA).
+
+###### Artículo 58.
+
+Con independencia de tales bienes y para el mejor cumplimiento de sus fines, los Organismos de cuenca podrán poseer un patrimonio propio integrado por:
+
+a) Los bienes y derechos que figuren en el patrimonio de las actuales Confederaciones Hidrográficas.
+
+b) Los que en el futuro pudieran adquirir con los fondos procedentes de su Presupuesto.
+
+c) Los que por cualquier título jurídico pudieran recibir del Estado, de las Comunidades Autónomas, de Entidades públicas o privadas o de los particulares (artículo 36 de la LA).
+
+###### Artículo 59.
+
+Tendrán la consideración de ingresos del Organismo de cuenca los siguientes:
+
+a) Los productos y rentas de su patrimonio y los de la explotación de las obras cuando les sea encomendada por el Estado, las Comunidades Autónomas, las Corporaciones Locales y los particulares.
+
+b) Las remuneraciones por el estudio y redacción de proyectos, dirección y ejecución de las obras que les encomiende el Estado, las Comunidades Autónomas o las Corporaciones Locales, así como las procedentes de la prestación de servicios facultativos y técnicos.
+
+c) Las asignaciones presupuestarias del Estado, Comunidades Autónomas y Corporaciones Locales.
+
+d) Los procedentes de la recaudación de tasas, exacciones y precios autorizados al Organismo.
+
+e) Los reintegros de los anticipos otorgados por el Estado para la construcción de obras hidráulicas que realice el propio Organismo.
+
+f) El producto de las posibles aportaciones acordadas por los usuarios, para obras o actuaciones específicas, así como cualquier otra percepción autorizada por disposición legal (artículo 37 de la LA).
+
+###### Artículo 60.
+
+Dentro del párrafo a) del artículo anterior, se considerarán incluidos entre otros los siguientes ingresos:
+
+1\. Productos y rentas del patrimonio derivados de:
+
+a) Venta y arrendamiento de parcelas, solares, edificios, máquinas y otros bienes y derechos.
+
+b) Bienes patrimoniales y sobrantes procedentes de desafección de bienes expropiados con cargo al Estado y que no sean objeto de reversión.
+
+c) Explotación de aprovechamientos hidroeléctricos, agrícolas, forestales, canteras y otros.
+
+2\. Productos y rentas de la explotación de obras que le sea encomendada.
+
+###### Artículo 61.
+
+Dentro del párrafo b) del artículo 59 se considerarán incluidos, entre otros, los siguientes ingresos:
+
+1\. Los derivados de la prestación de trabajos facultativos de replanteo, dirección, inspección y liquidación de obras del Estado contemplados en el Decreto 137/1960.
+
+2\. Los derivados de actuaciones y trabajos facultativos a que se refieren los Decretos 139/1960 y 140/1960, que sean precisas en las tramitaciones de concesiones y autorizaciones de competencia del Ministerio de Obras Públicas y Urbanismo.
+
+3\. Los derivados de los Convenios para la prestación de servicios facultativos, técnicos, jurídicos y administrativos, incluidos los análisis de laboratorios, concertados con Administraciones o Corporaciones locales y otras Entidades públicas o privadas, o con particulares.
+
+4\. El importe de estas tasas e ingresos queda afectado al Presupuesto del Organismo, quedando éste a su vez autorizado para la liquidación y recaudación sin ingreso en el Tesoro Público.
+
+###### Artículo 62.
+
+Como asignaciones presupuestarias de otras Administraciones y Corporaciones, contempladas en el artículo 59, c), se incluyen, entre otras, las siguientes:
+
+1\. Transferencias corrientes del Estado y de otras Administraciones o Corporaciones Locales.
+
+2\. Transferencias de capital del Estado y de otras Administraciones o Corporaciones Locales.
+
+###### Artículo 63.
+
+Entre los conceptos contemplados en el párrafo d) del artículo 59 se incluirán los siguientes:
+
+1\. Cánones de ocupación y utilización de bienes de dominio público hidráulico previstos en el artículo 104 de la Ley de Aguas y de otros bienes de dominio público afectos al Organismo.
+
+2\. Canon de regulación y tarifa de utilización del agua a que hace referencia el artículo 106 de la Ley de Aguas.
+
+3\. Canon de vertido destinado a la protección y mejora del medio receptor de cada cuenca hidrográfica contemplado en el artículo 105 de la Ley de Aguas y los ingresos que se deriven de la aplicación de artículo 99 de dicha Ley.
+
+4\. Canon por explotación de saltos de pie de presa, o similares, previstos en el artículo 133 del Reglamento del Dominio Público Hidráulico y en general cualquier otra tasa, exacción, gravamen o precio que, para el cumplimiento de los fines del Organismo, pudiera establecerse.
+
+5\. Cualquier indemnización establecida como compensación de daños y perjuicios al dominio público hidráulico, al patrimonio propio del Organismo de cuenca o a los bienes del Estado o de las Comunidades Autónomas, adscritos a dicho Organismo. Igualmente tendrán carácter de indemnización las cantidades que se establezcan para compensar incrementos de gasto en la explotación motivados por incumplimiento de normas legales vigentes, e infracciones administrativas.
+
+###### Artículo 64.
+
+Tendrán carácter de reintegros, a que se refiere el artículo 59, e), los correspondientes a anticipos otorgados por el Estado, de acuerdo con la legislación aplicable, para la construcción de obras hidráulicas que sean realizadas por el Organismo, tanto si son financiadas con fondos propios del mismo como si son ejecutadas por encargo del Estado.
+
+###### Artículo 65.
+
+Se entienden como productos de aportaciones acordadas por los usuarios para obras o actuaciones específicas, citadas en el párrafo f) del artículo 59, cualesquiera que dichos usuarios o beneficiarios satisfagan con los citados fines y con cargo a sus presupuestos o patrimonio.
+
+###### Artículo 66.
+
+Igualmente se consideran comprendidos en el párrafo correspondiente del artículo 59 cualquier otro concepto de ingreso, ya sea por sustitución de uno de los vigentes, por la aparición de un nuevo hecho impositivo o por cualquier otra circunstancia, equivalente o de idéntica naturaleza a los detallados en los artículos 60 al 65, ambos inclusive.
+
+###### Artículo 67.
+
+1\. La recaudación de los recursos económico-financieros contemplados en los artículos anteriores, se hará mediante ingreso en una cuenta corriente del Organismo de cuenca y financiarán los gastos del Organismo con carácter general, a excepción de lo que en los artículos siguientes se dispone para el canon de ocupación, vertido y demás conceptos a que se refiere el artículo 63, 3.
+
+2\. Las obligaciones pecuniarias ingresadas en cuenta especial habilitada al efecto en el Banco de España a que se refiere el artículo 339, 2, del Reglamento del Dominio Público Hidráulico se incorporarán automáticamente al Presupuesto del Organismo de cuenca, cuando se trate de daños a la calidad del agua o de otros daños en los que no sea posible identificar y separar actuaciones aisladas para efectuar las reparaciones o inversiones que requiera la restitución a su estado primitivo de los bienes de dominio público afectados, debido al carácter global o general de las actuaciones adecuadas, que incluyan dicha restitución.
+
+###### Artículo 68.
+
+1\. En el presupuesto del Organismo de cuenca se establecerá la debida separación entre los ingresos y los gastos de cualquier naturaleza, exceptuando los de una segunda clase constituida por los ingresos y gastos correspondientes únicamente a protección y mejora del dominio público hidráulico y mejora de la calidad de las aguas.
+
+2\. Corresponderán a esta segunda clase los siguientes ingresos:
+
+a) Los ingresos previstos en concepto de canon de ocupación o utilización en aplicación del artículo 104 de la Ley de Aguas.
+
+b) Los ingresos previstos en concepto de canon de vertidos autorizados en aplicación del artículo 105 de la Ley de Aguas.
+
+c) Los ingresos derivados del cobro de indemnizaciones por daños y perjuicios ocasionados al dominio público hidráulico en aplicación del artículo 110, 1, de la Ley de Aguas, y sólo en la parte que se determina en el artículo 67, 2.
+
+d) Los ingresos derivados de la aplicación del artículo 99 de la Ley de Aguas, distinguiendo las cantidades necesarias para inversiones en modificación y acondicionamiento de las instalaciones de depuración de aguas residuales, de las que sean necesarias para la explotación, mantenimiento y conservación de las mismas.
+
+e) Subvenciones específicas del Estado, Comunidades Autónomas y otras Entidades Públicas, Empresas privadas o particulares, para estos fines.
+
+3\. Corresponderán a la segunda clase los gastos siguientes:
+
+a) Los gastos de personal, funcionamiento, contratos de obras, suministros y servicios, o de cualquier otra naturaleza necesarios para el control, vigilancia, investigación y actuaciones precisas para la protección y mejora del medio receptor de cada cuenca hidrográfica.
+
+b) Los gastos de cualquier naturaleza producidos por actuaciones que de forma global o general reparen los daños y perjuicios producidos al dominio público hidráulico por infractores.
+
+c) Los gastos de cualquier naturaleza que provengan de la aplicación del artículo 99 de la Ley de Aguas, distinguiéndolos análogamente a lo preceptuado en el punto 1, d), del presente artículo para los ingresos.
+
+d) Las subvenciones o ayudas que en aplicación del artículo 102 de la Ley de Aguas se concedan como auxilios del Estado a las Comunidades Autónomas, Corporaciones Locales, Empresas y particulares.
+
+e) Las transferencias que, de acuerdo con el artículo 295, 4, del Reglamento del Dominio Público Hidráulico sea preciso realizar para cumplimentar Convenios entre el Organismo de cuenca y otras Administraciones públicas para la protección y mejora de la calidad de las aguas y del dominio público hidráulico.
+
+4\. Los ingresos previstos en el presupuesto del Organismo de cuenca a que se refiere el apartado 2 del presente artículo servirán únicamente para la financiación de los gastos a que se refiere el apartado 3. Los créditos correspondientes a estos gastos tendrán la consideración de créditos generados por la efectiva recaudación por derechos afectados, y figurarán como créditos ampliables en el presupuesto del Organismo de cuenca, correspondiendo la autorización de las ampliaciones concretas al Presidente del Organismo.
+
+5\. Corresponde a la Dirección General de Obras Hidráulicas la coordinación y seguimiento de aquellos gastos de los distintos Organismos de cuenca correspondientes al artículo 68, 3, e), en relación con el desarrollo del artículo 295, 4, del Reglamento del Dominio Público Hidráulico.
+
+###### Artículo 69.
+
+1\. Las obligaciones pecuniarias procedentes de las indemnizaciones a que se refiere el artículo 110, 1, de la Ley de Aguas, se ingresarán en la cuenta del Organismo de cuenca en el Banco de España, contabilizándose dentro de las operaciones extrapresupuestarias, en el concepto: «Indemnizaciones por daños al dominio público hidráulico», cuando no proceda su incorporación al presupuesto del Organismo de cuenca, de acuerdo con el artículo 67, 2.
+
+2\. Todos los gastos que se precise realizar para restituir a su estado primitivo el dominio público afectado, se harán efectivos, previa justificación o factura, con cargo a esta cuenta.
+
+## TÍTULO II — De la planificación hidrológica
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 907/2007, de 6 de julio. [Ref. BOE-A-2007-13182](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13182)
+
+###### Artículos 70 a 120.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a) del Real Decreto 907/2007, de 6 de julio. [Ref. BOE-A-2007-13182](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13182)
+
+###### Disposición adicional primera.
+
+En los ámbitos territoriales en que no existan los Organismos de cuenca a que se refiere el artículo 20 de la Ley de Aguas, las funciones del Estado que dicha Ley atribuye a los citados Organismos serán ejercidas por el Ministerio de Obras Públicas y Urbanismo, en la forma que estime conveniente.
+
+###### Disposición adicional segunda.
+
+A partir del 31 de diciembre de 1989, el Ministerio de Obras Públicas y Urbanismo podrá requerir a los Organismos de cuenca y a las Administraciones hidráulicas de las Comunidades Autónomas que ejerzan competencias sobre el dominio público hidráulico en cuencas hidrográficas comprendidas íntegramente dentro de su territorio, la presentación del Plan Hidrológico. Si transcurrido seis meses desde la fecha del requerimiento, éste no fuera atendido se estará a lo dispuesto en el artículo 111.
+
+## ANEXOS NÚMEROS 1, 2, 3 Y 4
+
+**(Derogados)**
+
+> Se derogan por la disposicón derogatoria única.a) del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+> Información relacionada
+
+> Sentencia del TC 118/1998, de 4 de junio, [Ref. BOE-T-1998-15728](https://www.boe.es/buscar/doc.php?id=BOE-T-1998-15728), en cuanto a la aplicación de determinados preceptos a las Comunidades Autónomas del País Vasco y Cantabria.

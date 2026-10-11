@@ -1,0 +1,2031 @@
+---
+title: "Decreto Legislativo 1/1999, de 7 de octubre, por el que se aprueba el texto refundido de la Ley de Régimen Financiero y Presupuestario de Galicia"
+identifier: "BOE-A-1999-23410"
+eli: "https://www.boe.es/eli/es-ga/dlg/1999/10/07/1"
+type: legislative_decree
+rank: "Decreto Legislativo"
+jurisdiction: es-galicia
+language: es
+department: "Comunidad Autónoma de Galicia"
+date: 1999-10-07
+published: 1999-12-08
+in_force_from: 1999-11-06
+last_amended: 2025-12-31
+consolidated: 2026-02-16
+gazette: "Boletín Oficial del Estado núm. 293"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-23410"
+retrieved: 2026-10-11
+---
+
+# Decreto Legislativo 1/1999, de 7 de octubre, por el que se aprueba el texto refundido de la Ley de Régimen Financiero y Presupuestario de Galicia
+
+Incluye la corrección de errores publicada en el DOGA núm. 218 de 11 de noviembre de 1999.
+
+La disposición adicional octava de la Ley 6/1998, de 29 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Galicia para 1999, autorizó al Gobierno gallego para la elaboración, en el plazo de un año, del texto refundido de la Ley 11/1992, de 7 de octubre, de Régimen Financiero y Presupuestario de Galicia.
+
+En uso de dicha autorización se redactó el correspondiente texto refundido, en el que se incorporan al texto inicial de la Ley 11/1992 las modificaciones sufridas por ésta desde su entrada en vigor, así como algunas actualizaciones terminológicas y correcciones gramaticales que no inciden en el fondo de la disposición.
+
+En consecuencia, de acuerdo con lo previsto en el artículo 10.1.a) del Estatuto de Autonomía para Galicia, aprobado por la Ley Orgánica 1/1981, de 6 de abril, y en el artículo 4.4 de la Ley 1/1983, de 22 de febrero, reguladora de la Junta y de su Presidente, a propuesta del Consejero de Economía y Hacienda, de acuerdo con el Consejo Consultivo de Galicia, y previa deliberación del Consejo de la Junta de Galicia en su reunión de 7 de octubre de 1999,
+
+DISPONGO:
+
+##### Artículo único.
+
+De conformidad con la disposición adicional octava de la Ley 6/1998, de 29 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Galicia para 1999, se aprueba el texto refundido de la Ley 11/1992, de 7 de octubre, de Régimen Financiero y Presupuestario de Galicia, que se inserta a continuación.
+
+##### Disposición adicional única. Remisiones y normativas a la Ley 11/1992.
+
+Las remisiones y referencias normativas a la Ley 11/1992, de 7 de octubre, de Régimen Financiero y Presupuestario de Galicia, se entenderán hechas, en lo sucesivo, al texto refundido de la Ley de Régimen Financiero y Presupuestario de Galicia.
+
+##### Disposición final única. Entrada en vigor.
+
+El presente Decreto Legislativo y el texto refundido que se aprueba entrarán en vigor el día siguiente al de su publicación en el «Diario Oficial de Galicia».
+
+Santiago de Compostela, 7 de octubre de 1999.
+
+| El Presidente, | El Consejero de Economía y Hacienda, |
+|---|---|
+| José Manuel Fraga Iribarne. | José Antonio Orza Fernández. |
+
+## TEXTO REFUNDIDO DE LA LEY DE RÉGIMEN FINANCIERO Y PRESUPUESTARIO DE GALICIA
+
+## TÍTULO PRELIMINAR — Principios generales
+
+##### Artículo 1. Concepto.
+
+1\. La Hacienda Pública de Galicia está constituida por el conjunto de derechos y obligaciones de contenido económico y financiero cuya titularidad le corresponde a la Comunidad Autónoma de Galicia.
+
+2\. Constituyen materias propias de la Hacienda Pública de Galicia, con independencia de la normativa que las regule, las siguientes:
+
+a) El procedimiento presupuestario en sus distintas fases de elaboración, gestión y liquidación.
+
+b) El sistema de contabilidad a que debe someterse a la actuación económica de los órganos competentes del sector público gallego.
+
+c) El régimen de su patrimonio.
+
+d) La contratación en régimen de derecho administrativo.
+
+e) La regulación de sus ingresos de derecho público y privado.
+
+f) Las normas de asignación y gestión de los recursos públicos y el control de eficacia y eficiencia en el empleo de los mismos.
+
+g) El endeudamiento y la concesión de avales y otras garantías.
+
+h) La organización y regulación de la Tesorería.
+
+i) Los procedimientos generales de funcionamiento de los órganos responsables de la Hacienda Pública gallega.
+
+j) Las prerrogativas de la Hacienda Pública gallega y las responsabilidades derivadas de la actuación de sus órganos y del personal a su servicio.
+
+k) Cualquier otra que tuviese relación con el contenido de la Hacienda Pública gallega.
+
+##### Artículo 2. Criterios y fines.
+
+1\. La distribución y gestión de los recursos públicos se realizará teniendo en cuenta criterios de eficacia y eficiencia.
+
+2\. La acción del Gobierno para la prestación de servicios públicos y la dotación de infraestructuras públicas básicas y sociales de la Comunidad se hará conforme a los principios de equidad, solidaridad y equilibrio territorial.
+
+##### Artículo 3. Normativa reguladora.
+
+1\. Constituye el objeto de la presente Ley la regulación de la actividad económico-financiera de la Comunidad Autónoma de Galicia, sin perjuicio de lo que se disponga en otras Leyes especiales.
+
+2\. La actividad económico-financiera de la Comunidad Autónoma de Galicia se regirá:
+
+a) Por la presente Ley y por las demás Leyes especiales y normas concordantes que sobre la materia dicte el Parlamento de Galicia.
+
+b) Por las Leyes de Presupuestos Generales de la Comunidad Autónoma.
+
+c) Por las normas reglamentarias que se dicten en el desarrollo de la presente Ley.
+
+3\. Tendrán carácter supletorio las demás normas del ordenamiento jurídico administrativo y, en su defecto, el derecho privado, respetando la prelación de normas del derecho civil gallego.
+
+4\. Las Leyes anuales de Presupuestos Generales de la Comunidad Autónoma podrán contener normas relacionadas con su actividad económico-financiera con vigencia permanente o con vigencia temporal superior al período anual al que las mismas correspondan.
+
+Cuando en dichas normas legales concurra alguna de estas circunstancias, habrá que tener en cuenta lo siguiente:
+
+a) De tratarse de normas de vigencia permanente, se establecerá así de forma expresa, incluyendo, en su caso, la tabla de derogaciones motivada por la entrada en vigor de la nueva norma legal.
+
+b) De tratarse de normas de vigencia temporal, se definirá con precisión su plazo de vigencia y las normas de ordenamiento jurídico que quedan afectadas, así como los efectos sobre las mismas a la entrada en vigor de la nueva normativa a lo largo del plazo en el que la misma sea aplicable.
+
+##### Artículo 4. Principios presupuestarios y control.
+
+1\. La actividad económica-financiera de la Comunidad Autónoma de Galicia estará sometida al régimen de presupuesto anual y a los principios de control interno, de contabilidad y de unidad de caja que se determinan en la presente Ley.
+
+2\. Todas las actividades que den lugar al reconocimiento de derechos y obligaciones de contenido económico o al manejo de fondos públicos deberán estar controladas o intervenidas conforme a las normas de esta Ley y sometidas al régimen de rendimiento de cuentas al Consejo de Cuentas y al Tribunal de Cuentas, de acuerdo con las disposiciones que los regulan.
+
+3\. La Intervención General de la Comunidad Autónoma será el órgano encargado de la ejecución de las funciones de control interno y de contabilidad reguladas en la presente Ley.
+
+4\. La Comunidad Autónoma de Galicia, de acuerdo con los procedimientos legales establecidos, podrá exigir las indemnizaciones económicas que sean procedentes a los responsables de la custodia y del manejo de los fondos públicos por los perjuicios que pudiesen ocasionar, con independencia de las demás responsabilidades de carácter civil, penal o disciplinario en que pudiesen incurrir.
+
+##### Artículo 5. Reserva legal.
+
+Se regularán por Ley del Parlamento de Galicia las siguientes materias:
+
+a) Los Presupuestos Generales de la Comunidad Autónoma y la concesión de créditos extraordinarios y suplementos de créditos de la Junta de Galicia y de los organismos autónomos en los términos contemplados en esta Ley.
+
+b) El establecimiento, la modificación o la supresión de sus propios tributos y de las exenciones y bonificaciones que les afecten.
+
+c) El establecimiento, la modificación y la supresión de los recargos sobre los impuestos del Estado.
+
+d) La emisión y el régimen de la deuda pública y demás operaciones de crédito.
+
+e) El régimen de patrimonio de la Comunidad Autónoma.
+
+f) La creación y supresión de los organismos autónomos en los términos que se prevén en esta Ley.
+
+g) Los Convenios y acuerdos de cooperación con otras Comunidades Autónomas previstos en el artículo 35 del Estatuto de Autonomía.
+
+h) El régimen y la concesión de avales y otras garantías por la Comunidad Autónoma.
+
+i) La coordinación presupuestaria de las Diputaciones Provinciales de Galicia, en concordancia con la Ley 5/1997, de 22 de julio, de Administración Local de Galicia.
+
+j) Las demás materias relativas a la Hacienda Pública gallega que, según las Leyes, se deban regular con este rango.
+
+##### Artículo 6. Competencia del Consejo de la Junta.
+
+Será competencia del Consejo de la Junta, en el marco de las materias reguladas en esta Ley:
+
+a) La determinación de las directrices básicas de política económica y financiera, de acuerdo con el Estatuto de Autonomía de Galicia.
+
+b) La elaboración de los Presupuestos Generales de la Comunidad Autónoma.
+
+c) La autorización de los gastos que según las Leyes requieran su aprobación.
+
+d) La aprobación de los Reglamentos para su aplicación.
+
+e) Cualquier otra que precise conocimiento o aprobación de la Junta y cuya competencia no esté reservada al Parlamento de Galicia.
+
+##### Artículo 7. Competencia de la Consejería de Economía y Hacienda.
+
+Será competencia de la Consejería de Economía y Hacienda:
+
+a) La administración, gestión y recaudación de los derechos de la Hacienda de la Comunidad Autónoma.
+
+b) La ordenación de pagos en los términos establecidos en la presente Ley.
+
+c) La elaboración del anteproyecto de Ley de Presupuestos Generales de la Comunidad Autónoma.
+
+d) El control de eficacia y eficiencia respecto a los objetivos previstos en los Presupuestos Generales de la Comunidad.
+
+e) El ejercicio directo de las demás funciones de control interno reguladas en esta Ley y la dirección y ejecución de la contabilidad pública.
+
+f) La ejecución o dirección de la política económica y financiera aprobada por la Junta, en la forma que ésta determine.
+
+g) El desarrollo de las actividades inherentes al ejercicio de la tutela financiera sobre los entes locales, que tiene atribuida la Comunidad en el artículo 49 del Estatuto de Autonomía.
+
+h) Las funciones ejecutivas en materia de ordenamiento y control de las instituciones de crédito corporativo público y territorial y de las Cajas de Ahorro que operen en su territorio, en los términos previstos en el artículo 30 del Estatuto de Autonomía.
+
+i) Las demás funciones y competencias que le asigne la normativa legal vigente.
+
+##### Artículo 8. Competencia de las Consejerías.
+
+Será competencia de las Consejerías:
+
+a) La elaboración de su anteproyecto de presupuesto.
+
+b) La administración y gestión de los créditos para gastos incluidos en los presupuestos y que estén adscritos a las mismas.
+
+c) La autorización de los gastos propios de la Consejería, salvo que la misma esté reservada al Consejo de la Junta.
+
+d) La propuesta del pago de obligaciones a la Consejería de Economía y Hacienda.
+
+e) Las demás que les confiera la normativa legal vigente.
+
+##### Artículo 9. Competencia de los organismos autónomos.
+
+1\. Son funciones de los organismos autónomos de la Comunidad Autónoma en el ámbito de sus respectivas competencias:
+
+a) La elaboración de su anteproyecto de presupuestos de gastos e ingresos.
+
+b) La administración, gestión y recaudación de sus propios derechos económicos, sin perjuicio del establecido en el artículo 45 de la Ley 11/1996, de 30 de diciembre, de presupuestos generales de la Comunidad Autónoma de Galicia para 1997.
+
+c) La autorización de los gastos contenidos en sus presupuestos y la ordenación de sus pagos.
+
+d) Las demás que les atribuyan las normas legales vigentes.
+
+2\. Lo previsto en el apartado 1 anterior se entiende sin perjuicio de lo que pudiese establecerse en uso de lo dispuesto en el artículo 11.2.
+
+> Se modifica la letra b) del apartado 1 por el art. 44.1 de la Ley 5/2025, de 23 de diciembre. [Ref. BOE-A-2026-3385](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3385)
+
+##### Artículo 10. Prerrogativas.
+
+A la Comunidad Autónoma de Galicia, en el ejercicio de las competencias a las que se refiere la presente Ley, le corresponderán en todo momento las mismas prerrogativas e idéntico trato fiscal que la Ley tenga establecidos para el Estado.
+
+##### Artículo 11. Organismos autónomos.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 16/2010, de 17 de diciembre. [Ref. BOE-A-2011-2544](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2544).
+
+##### Artículo 12. Sociedades públicas autonómicas.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 16/2010, de 17 de diciembre. [Ref. BOE-A-2011-2544](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2544).
+
+##### Artículo 13. Convenios, acuerdos y transferencias.
+
+1\. En los Convenios con otras Comunidades Autónomas para la gestión y prestación de servicios de exclusiva competencia de las mismas, y en los acuerdos de cooperación que se suscriban a tenor de lo dispuesto en los apartados 1 y 2 del artículo 35 del Estatuto de Autonomía, deberán establecerse las cláusulas precisas para asegurar en todo momento la aplicación de la presente Ley en el caso de que se proceda a comprometer recursos de la Hacienda Pública gallega para el desarrollo de los mismos.
+
+2\. En los casos en que, conforme a lo dispuesto en el artículo 36 del Estatuto de Autonomía, se transfieran o deleguen a la Comunidad Autónoma facultades y competencias no asumidas en el mismo, que por su naturaleza den origen al manejo y a la distribución de los fondos públicos, serán aplicables a la gestión financiera de dichos fondos los preceptos de la presente Ley, sin perjuicio de las formas de control que se reserve el Estado.
+
+## TÍTULO I — Del contenido de la Hacienda de la Comunidad
+
+### CAPÍTULO I — De los recursos
+
+##### Artículo 14. Recursos de la Hacienda autonómica.
+
+Constituyen derechos económicos de la Hacienda Pública gallega:
+
+1\. Los rendimientos de los impuestos, de las tasas y de las contribuciones especiales que establezca la Comunidad Autónoma.
+
+2\. Los rendimientos de los tributos cedidos por el Estado.
+
+3\. La participación en los ingresos del Estado por impuestos directos e indirectos, incluidos los monopolios fiscales.
+
+4\. Las dotaciones para la nivelación de los servicios mínimos.
+
+5\. El importe de los precios derivados de los servicios prestados por la Comunidad o por la concesión de cánones por aprovechamientos especiales, ya sean de propia creación o como consecuencia de traspasos de los servicios estatales.
+
+6\. Los ingresos procedentes del Fondo de Compensación Interterritorial o de otros fondos de análoga naturaleza.
+
+7\. Los recargos sobre impuestos estatales.
+
+8\. Cualquier otra asignación a favor de la Comunidad Autónoma contemplada en los presupuestos generales del Estado o en los de otros entes públicos.
+
+9\. El producto de la emisión de la deuda pública y del recurso al crédito.
+
+10\. Los rendimientos del patrimonio de la Comunidad Autónoma.
+
+11\. Los legados, las donaciones y cualquier otro ingreso de derecho privado.
+
+12\. El producto de las multas y sanciones impuestas en el ámbito de su competencia.
+
+13\. En su caso, las participaciones que establezcan las Leyes en los ingresos por tributos del Estado para recuperar los costes sociales producidos por actividades contaminantes o que deterioren el medio ambiente o que generen riesgos de especial gravedad para el medio físico y humano de Galicia.
+
+14\. Las subvenciones que pueda recibir la Comunidad Autónoma.
+
+15\. Cualquier otro recurso de derecho público o privado que obtenga o le corresponda a la Comunidad Autónoma.
+
+##### Artículo 15. Destino.
+
+Los recursos de la Comunidad Autónoma gallega y de cada uno de sus organismos autónomos estarán destinados a satisfacer el conjunto de sus obligaciones respectivas, salvo que por Ley se establezca su afectación para fines determinados.
+
+##### Artículo 16. Administración de los recursos.
+
+1\. La administración general de los recursos de la Hacienda Pública gallega, así como la dirección y la coordinación general de sus procedimientos, corresponde a la Consejería de Economía y Hacienda, con los controles que la Ley establezca.
+
+2\. En la misma forma, corresponde a los órganos rectores de los organismos autónomos y demás entes públicos con personalidad jurídica propia la administración de los recursos específicos que les correspondan para el cumplimiento de sus fines.
+
+3\. Las personas o entidades que tengan a su cargo la administración de los recursos de la Hacienda Pública gallega dependerán de la Consejería de Economía y Hacienda o de los órganos de administración de los organismos autónomos, y demás entes públicos, en todo lo relativo a su gestión, aplicación y rendimiento de cuentas.
+
+4\. Estarán obligadas a la prestación de fianza aquellas personas o entidades que manejen fondos o valores públicos, en la cuantía y forma que determinen las disposiciones reglamentarias.
+
+##### Artículo 17. Gestión de los tributos.
+
+1\. La gestión, incluyendo todas las fases del procedimiento, de los tributos propios de la Comunidad Autónoma, de los impuestos cedidos y de los recargos sobre impuestos del Estado que pueda establecer la Comunidad Autónoma se ajustará:
+
+a) A las disposiciones del Estatuto de Autonomía.
+
+b) A lo dispuesto en la presente Ley.
+
+c) A las demás Leyes del Parlamento de Galicia.
+
+d) A las disposiciones reglamentarias aprobadas por la Junta en desarrollo de esta Ley y demás Leyes citadas.
+
+e) A las normas de desarrollo que las Leyes o los Reglamentos autoricen dictar al Consejero de Economía y Hacienda.
+
+f) A la Ley General Tributaria y a las disposiciones dictadas en su desarrollo, con la consideración de derecho supletorio en los casos en los que sea preceptiva su aplicación.
+
+2\. En la gestión de los tributos cedidos por el Estado se tendrá en cuenta, además, lo que disponga la correspondiente normativa.
+
+##### Artículo 18. Disponibilidad de bienes y derechos.
+
+1\. La gestión de los bienes patrimoniales y de sus rendimientos, tanto de la Comunidad Autónoma como de sus organismos autónomos, se ajustará a lo dispuesto en las Leyes del Parlamento de Galicia aplicables en cada caso.
+
+2\. No podrán ser enajenados, gravados ni arrendados los derechos de la Hacienda de la Comunidad Autónoma, salvo en los supuestos y en las condiciones previstas en las Leyes.
+
+3\. Tampoco se concederán exenciones, condonaciones, rebajas ni moratorias en el pago de los derechos a favor de la Hacienda Pública gallega, salvo en los casos y en la forma que se determinen en las Leyes.
+
+##### Artículo 19. Garantías.
+
+1\. Para realizar el cobro de los tributos y demás recursos de derecho público que correspondan, la Hacienda Pública gallega estará en posesión de las prerrogativas legalmente establecidas, gozando en todo momento de las mismas facultades y garantías que las demás Administraciones Públicas de ámbito estatal o territorial.
+
+2\. Las providencias de apremio acreditativas del descubierto ante la Hacienda de la Comunidad de las deudas por tributos y demás ingresos de derecho público, expedidas por los funcionarios competentes según los reglamentos, serán títulos suficientes para iniciar su cobro por vía de apremio y tendrán la misma fuerza ejecutiva que la sentencia judicial para proceder contra los bienes y derechos de los deudores.
+
+3\. La efectividad de los derechos de la Hacienda de la Comunidad no contemplados en el apartado 1 del artículo 21 se exigirá de acuerdo con las normas de procedimiento aplicables en cada caso.
+
+> Se modifica el apartado 2 por el art. 9 de la Ley 14/2004, de 29 de diciembre. [Ref. BOE-A-2005-1722](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1722).
+
+> Redactado conforme a la corrección de errores publicada en el DOGA núm. 39, de 25 de febrero de 2005.
+
+##### Artículo 20. Suspensión del procedimiento de apremio.
+
+1\. En ningún caso se podrán suspender los procedimientos administrativos de apremio en virtud de recursos interpuestos por los interesados, si no se realiza el pago del débito, se consigna su importe o se garantiza éste en la forma reglamentariamente establecida.
+
+2\. Si contra dichos procedimientos se estableciesen reclamaciones en concepto de tercería o por otra acción de carácter civil, por persona que no tenga ninguna responsabilidad con la Hacienda de la Comunidad en virtud de obligación o gestión propia o transmitida, se suspenderán dichos procedimientos sólo en la parte que se refiera a los bienes o derechos controvertidos, una vez que se efectuase su embargo o, en su caso, su anotación preventiva en el registro público correspondiente, y se sustanciará este incidente en la vía administrativa como trámite previo a la judicial.
+
+3\. Cuando las reclamaciones formuladas en vía administrativa fuesen denegadas, proseguirá el procedimiento de apremio a no ser que de la ejecución puedan derivarse perjuicios de imposible o difícil reparación; en tal caso la Administración Pública podrá acordar la suspensión de aquél, siempre que se adopten las medidas reglamentarias de aseguramiento de los respectivos créditos.
+
+4\. Asimismo, podrá suspenderse el procedimiento de apremio sin los requisitos establecidos en el punto 1 de este artículo si el interesado demuestra que ha existido en su perjuicio error material o aritmético en la determinación de la deuda que se le exija.
+
+5\. Podrán aplazarse o fraccionarse las cantidades debidas a la Hacienda de la Comunidad en los casos y con los procedimientos que reglamentariamente se establezcan. Dichas cantidades devengarán intereses de demora y deberán garantizarse excepto en los casos siguientes:
+
+a) Cuando sean inferiores a la cifra que, por norma jurídica de rango suficiente, fije la Consejería de Economía y Hacienda.
+
+b) Cuando el deudor carezca de bienes o créditos suficientes para garantizar la deuda y la ejecución de su patrimonio afectase al mantenimiento de la capacidad productiva y del nivel de empleo de la actividad del sector económico respectivo, o bien produjese graves quiebras para el interés de la Comunidad Autónoma, si así lo acuerda el Consejero de Economía y Hacienda.
+
+##### Artículo 21. Intereses de demora.
+
+1\. Las cantidades adeudadas a la Hacienda de la Comunidad Autónoma devengarán intereses de demora desde el día siguiente al de su vencimiento. Se incluyen en este apartado las cantidades recaudadas a través de entidades colaboradoras, cuentas restringidas, oficinas liquidadoras y demás entidades recaudadoras por cuenta de la Hacienda de la Comunidad que no sean ingresadas por dichas entidades en la Tesorería en los plazos establecidos.
+
+2\. Excepto lo establecido en leyes especiales, el interés de demora resultará de la aplicación, para cada año o período de los que integran el período de cálculo, del interés legal fijado en la Ley de presupuestos del Estado para dichos ejercicios.
+
+> Se modifica el apartado 2 por el art. 10 de la Ley 14/2004, de 29 de diciembre. [Ref. BOE-A-2005-1722](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1722).
+
+> Se modifica por el art. 3 de la Ley 8/1999, de 30 de diciembre. [Ref. BOE-A-2000-2189](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-2189).
+
+##### Artículo 22. Integridad de la Hacienda.
+
+1\. No se podrá transigir sobre los derechos de la Hacienda de la Comunidad, ni someter a arbitraje las contiendas que se susciten respecto de los mismos, sino mediante decreto acordado por la Junta de Galicia.
+
+2\. La suscripción por la Hacienda de la Comunidad de los acuerdos de Convenios en procesos concursales previstos en la Ley de Enjuiciamiento Civil y en la Ley de Suspensión de Pagos requerirá únicamente autorización del Consejero de Economía y Hacienda.
+
+3\. Los actos y contratos realizados en perjuicio de la Hacienda de la Comunidad por los que resulten deudores de la misma serán rescindibles conforme a las disposiciones legales que les sean aplicables.
+
+##### Artículo 23. Prescripción.
+
+1\. Salvo lo establecido por las Leyes reguladoras de los diferentes recursos, prescribirá a los cinco años el derecho de la Hacienda de la Comunidad:
+
+a) A reconocer o liquidar créditos a su favor, computándose el citado plazo desde el día en el que el derecho pudo ejercitarse.
+
+b) Al cobro de los créditos reconocidos o liquidados, que se contará desde la fecha de su notificación o, si ésta no fuese preceptiva, desde su vencimiento.
+
+2\. En todo caso, el plazo de prescripción a que se refiere el punto anterior será de cuatro años para todos los recursos derivados de los tributos propios de la Comunidad Autónoma.
+
+3\. La prescripción quedará interrumpida:
+
+a) ) Por la interposición de reclamaciones o recursos de cualquier clase, la remisión del tanto de culpa a la jurisdicción penal o la presentación de denuncia ante el Ministerio Fiscal, así como por las actuaciones realizadas con conocimiento formal del beneficiario o entidad colaboradora en el curso de dichos recursos.
+
+b) Por cualquier actuación del obligado conducente al reconocimiento, liquidación o pago de la deuda».
+
+c) Por cualquier acción administrativa, realizada con conocimiento formal del obligado, conducente al reconocimiento, liquidación o cobro de la deuda
+
+4\. Los derechos declarados prescritos serán dados de baja en cuentas, previa tramitación del oportuno expediente, en el que, en su caso, se declarasen las responsabilidades a que hubiese lugar, salvo que procediese su tramitación en pieza separada en la forma dispuesta en el título VI de esta Ley.
+
+5\. Se autoriza al Consejero de Economía y Hacienda para que pueda disponer la no liquidación de deudas o la anulación y baja en contabilidad de deudas ya liquidadas cuando su ejecución resulte antieconómica.
+
+A estos efectos, dicha Consejería determinará previamente el límite cuantitativo en el que se considere que se produce tal efecto.
+
+> Se modifica el apartado 3.a) por el art. 11 de la Ley 14/2004, de 29 de diciembre. [Ref. BOE-A-2005-1722](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1722).
+
+> Se modifica el apartado 3 por el art. 15 de la Ley 7/2002, de 27 de diciembre. [Ref. BOE-A-2003-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-1810).
+
+> Se declara la vigencia permanente del artículo completo por la disposición adicional 2 de la Ley 8/1999, de 30 de diciembre. Ref. BOE-A-2000-2189.
+
+> Téngase en cuenta que el apartado 2 tenía vigencia exclusiva para el año 1999, según se establece en la disposición adicional 3 del presente texto refundido.
+
+### CAPÍTULO II — De las obligaciones
+
+##### Artículo 24. Nacimiento y exigibilidad.
+
+1\. Las obligaciones económicas de la Comunidad y de sus organismos autónomos nacen de la Ley, de los negocios jurídicos y de los actos y hechos que, conforme a derecho, las generen.
+
+2\. El pago de las obligaciones sólo será exigible a la Hacienda de la Comunidad en la medida que resulte de la ejecución de sus presupuestos, de sentencia judicial firme o de operaciones de Tesorería legalmente autorizadas.
+
+3\. Cuando dichas obligaciones tengan por causa prestaciones o servicios a la Administración de la Comunidad, el pago no podrá realizarse mientras el acreedor no cumpla o garantice, conforme a la Ley, su respectiva obligación.
+
+##### Artículo 25. Inembargabilidad.
+
+1\. Los Tribunales, Jueces y autoridades administrativas no podrán despachar ni dictar mandamiento de ejecución o providencia de embargo contra los derechos, fondos, valores y demás bienes de la Hacienda de la Comunidad.
+
+2\. El cumplimiento de las resoluciones que determinen obligaciones a cargo de la Comunidad o de sus organismos autónomos corresponderá exclusivamente a la autoridad administrativa que sea competente. Si no existiese crédito en el presupuesto en vigor o fuese insuficiente el disponible, se solicitará del Parlamento, dentro de los tres meses siguientes a la notificación de la resolución, la concesión de un crédito extraordinario o de un suplemento de crédito.
+
+##### Artículo 26. Intereses.
+
+Si el pago de las obligaciones de la Comunidad no se le hiciese efectivo al acreedor en el plazo de los tres meses siguientes al día de la notificación de la resolución judicial o del reconocimiento de la propia obligación, éste tendrá derecho al abono de los correspondientes intereses de demora sobre la cantidad debida al tipo establecido en el apartado 2 del artículo 21, siempre que reclame por escrito el cumplimiento de la obligación.
+
+##### Artículo 27. Prescripción.
+
+1\. Salvo lo establecido en las Leyes especiales, prescribirán a los cinco años:
+
+a) El derecho al reconocimiento o a la liquidación de toda obligación, computándose el plazo desde el momento en el que ésta sea exigible conforme a derecho.
+
+b) El derecho a exigir el pago de las obligaciones reconocidas o liquidadas. El plazo se contará desde la fecha de notificación del reconocimiento o de la liquidación de la respectiva obligación.
+
+2\. La petición por escrito del reconocimiento o del cumplimiento de la obligación, o de la efectividad de su pago, por parte de los acreedores legítimos, o de los que se subroguen en sus derechos, mediante la presentación de los documentos justificativos de su derecho, interrumpirá la prescripción, según lo dispuesto en el Código Civil, salvo lo establecido en Leyes especiales.
+
+3\. Las obligaciones que prescribiesen serán dadas de baja en las cuentas respectivas, previa tramitación del oportuno expediente.
+
+## TÍTULO II — De las operaciones de endeudamiento
+
+### CAPÍTULO I — De las operaciones de endeudamiento
+
+##### Artículo 28. Endeudamiento.
+
+Constituyen el endeudamiento público los capitales tomados a préstamo por la Junta de Galicia o por sus organismos autónomos. La emisión de Deuda Pública o la concertación de otras operaciones de crédito, su administración, conversión o extinción, así como la prescripción de los capitales y de sus intereses, se regularán por las disposiciones de esta Ley.
+
+##### Artículo 29. Denominación y autorización.
+
+1\. Las operaciones de crédito y la emisión de Deuda Pública las podrán llevar a cabo la Comunidad o sus organismos autónomos, recibiendo en el primer caso la denominación de «Deuda de la Comunidad Autónoma de Galicia» y en el segundo la de «Deuda de los organismos autónomos».
+
+2\. El endeudamiento, tanto de la Comunidad Autónoma como de sus organismos autónomos, tendrá que ser autorizado por Ley, la cual, sin perjuicio de fijar cualquier otra característica de las operaciones de endeudamiento por realizar, deberá señalar el importe máximo autorizado. La Junta de Galicia podrá determinar a lo largo del período de autorización límites inferiores a dicho importe si así lo aconsejasen circunstancias de política económica.
+
+##### Artículo 30. Destino.
+
+1\. La deuda y demás operaciones de crédito concertadas por la Comunidad o por sus organismos autónomos por plazo superior a un año se destinarán exclusivamente a la financiación de gastos de capital.
+
+2\. La cuantía de las anualidades de amortización, incluido capital e intereses, no podrá exceder del 25 por 100 de los ingresos corrientes previstos en los presupuestos generales de la Comunidad Autónoma en cada año.
+
+##### Artículo 31. Deuda de Tesorería.
+
+1\. En el endeudamiento que la Comunidad Autónoma lleve a cabo con personas físicas o jurídicas para atender necesidades transitorias de Tesorería, cualquiera que sea la forma como se documente, el plazo de reembolso será inferior a un año.
+
+En la Ley de Presupuestos de cada año se autorizará el límite máximo de estas operaciones para cada ejercicio.
+
+2\. El producto de la Deuda de Tesorería a que se refiere el apartado anterior se contabilizará independientemente en las cuentas de operaciones del Tesoro. Los gastos e intereses que motive serán imputados al presupuesto de la Comunidad antes del cierre del ejercicio, y a dicha deuda será aplicable, de proceder, lo establecido en los artículos 38 y 39 de esta Ley.
+
+3\. En todo caso, a partir del momento en el que el montante total anual de estas operaciones transitorias exceda del 5 por 100 del estado de gastos, se deberá dar cuenta trimestralmente al Parlamento de la evolución de las mismas.
+
+##### Artículo 32. Importe máximo.
+
+1\. En las autorizaciones de endeudamiento incluidas en la Ley de Presupuestos Generales de la Comunidad y en otras Leyes especiales, el importe máximo autorizado deberá entenderse, salvo disposición contraria, como variación neta de la posición deudora de la Comunidad o de cada uno de los organismos autónomos a los que dicha autorización se refiera, computada a la finalización del período al que se extienda la autorización.
+
+2\. Queda excluido de lo dispuesto en el párrafo anterior la Deuda de Tesorería a que se refiere el artículo 31.
+
+##### Artículo 33. Autorización de la emisión o contracción.
+
+1\. Las emisiones de Deuda Pública u operaciones de crédito que realicen la Comunidad o sus organismos autónomos tendrán que ser autorizadas, en todo caso, por el Consejero de Economía y Hacienda dentro de los límites señalados por la Ley, al que le corresponderá, asimismo, autorizar las características técnicas de las mismas y su tipo de interés, si éstos no fuesen determinados por su Ley de creación.
+
+Tales actos de endeudamiento, cuando éste tenga un plazo de vencimiento superior a un año, podrán ser formalizados dentro del ejercicio presupuestario en el que la Ley autorice su creación o del ejercicio siguiente.
+
+2\. Cuando se trate de conseguir una mejor administración de la Deuda Pública emitida o de las operaciones de crédito formalizadas, la Junta de Galicia, a propuesta del Consejero de Economía y Hacienda, podrá acordar su conversión o renegociación y dará cuenta al Parlamento de Galicia dentro de los treinta días siguientes y siempre que no se altere el equilibrio financiero de aquéllas, ni se perjudiquen, en su caso, los derechos económicos de los poseedores.
+
+##### Artículo 34. Contabilización.
+
+Sin perjuicio de lo dispuesto en el artículo 36, el producto de las emisiones continuas de títulos de pago o cualquier otro título emitido por la Comunidad Autónoma con vencimiento igual o inferior a dieciocho meses, así como el importe de las amortizaciones de los mismos, se contabilizarán independientemente en cuentas de Tesorería, aplicándose el saldo neto de dichas operaciones, al final del ejercicio presupuestario, al presupuesto de la Comunidad.
+
+Los gastos por intereses o de cualquier otra naturaleza derivados de su emisión o amortización se aplicarán al presupuesto, siguiendo las normas generales determinadas en esta Ley.
+
+##### Artículo 35. Suscripción y transmisión.
+
+1\. La Deuda Pública podrá estar representada por títulos-valores o cualquier otro documento que formalmente la reconozca.
+
+2\. En la suscripción y transmisión de la Deuda Pública negociable sólo será preceptiva la intervención de fedatario público cuando aquélla esté representada por títulos-valores y así lo disponga la legislación aplicable a los mismos. No será preceptiva, en todo caso, para las operaciones con títulos de pago o títulos análogos emitidos por la Comunidad o sus organismos autónomos en los que los títulos-valores se extingan por su transformación en anotaciones en cuenta.
+
+##### Artículo 36. Aplicación presupuestaria.
+
+El producto que se obtenga de la Deuda Pública y demás operaciones de crédito, así como su amortización e intereses, se aplicará al presupuesto de la Comunidad o de sus organismos autónomos correspondientes, sin perjuicio de lo dispuesto en el artículo 34.
+
+##### Artículo 37. Competencia y atribuciones del Consejero de Economía y Hacienda.
+
+Con las limitaciones que se derivan del contenido del presente capítulo, se faculta al Consejero de Economía y Hacienda para:
+
+1\. Proceder a autorizar la emisión o contracción de Deuda Pública y demás operaciones de crédito de la Comunidad o de sus organismos autónomos respectivos, determinando su representación en títulos-valores, títulos de pago u otros documentos que formalmente la reconozcan; señalar o concertar su plazo, tipo de interés y demás características, y formalizar, en su caso, en representación de la Comunidad Autónoma, tales operaciones, pudiendo delegar dicha representación en un funcionario de la Consejería cuando la formalización de la operación se realice en el extranjero.
+
+2\. Utilizar para la colocación de emisiones de Deuda Pública cualquier técnica financiera relativa a su oferta, intereses, plazo o cualquier otra condición de las mismas, siempre que su uso no represente la creación de situaciones distintas a las derivadas de las prácticas usualmente aceptadas en los mercados financieros.
+
+3\. Proceder de acuerdo con las condiciones de la emisión o de la contracción, o de mutuo acuerdo con los acreedores, al reembolso anticipado, total o parcial, de la Deuda Pública o de los préstamos concertados o a la modificación de alguna de sus condiciones cuando la situación del mercado u otras circunstancias así lo aconsejen.
+
+4\. Cualquier otra operación usual en el mercado financiero, siempre que no perjudique a los acreedores o se realice de común acuerdo con éstos y no esté expresamente excluida por la normativa aplicable.
+
+5\. Encomendarles el ejercicio de las facultades expuestas en los números anteriores en relación con la Deuda Pública emitida o contraída por los organismos autónomos a sus correspondientes órganos rectores.
+
+##### Artículo 38. Beneficios.
+
+1\. La Deuda Pública de la Comunidad gozará de los mismos beneficios que la Deuda Pública del Estado y se sujetará a las demás normas que le sean aplicables según su modalidad y características, y conforme a lo previsto por las Leyes.
+
+2\. A los títulos al portador de la Deuda Pública que fuesen robados o hurtados, o que sufriesen extravío o destrucción, les será aplicable el procedimiento previsto por la legislación mercantil, salvo que se dictasen procedimientos administrativos especiales que total o parcialmente sustituyesen a aquél.
+
+##### Artículo 39. Prescripción.
+
+La obligación de reembolso de los capitales de la Deuda Pública y el pago de sus intereses prescribirán de acuerdo con el procedimiento y con los plazos establecidos por la normativa vigente para la Deuda Pública del Estado.
+
+### CAPÍTULO II — De las garantías
+
+##### Artículo 40. Garantía por aval.
+
+1\. La Comunidad Autónoma podrá afianzar las obligaciones derivadas de créditos concertados por personas naturales o jurídicas, públicas o privadas, con domicilio social en Galicia, mediante el otorgamiento del correspondiente aval de la Tesorería, en la forma establecida en la presente Ley.
+
+2\. Los citados avales los autorizará la Junta de Galicia, a propuesta del Consejero de Economía y Hacienda, y serán publicados en el «Diario Oficial de Galicia».
+
+##### Artículo 41. Importe.
+
+El importe máximo de los avales que podrá conceder la Comunidad Autónoma durante el año será determinado en la Ley de Presupuestos Generales de la Comunidad.
+
+##### Artículo 42. Beneficiarios.
+
+1\. La Comunidad Autónoma podrá avalar las operaciones de crédito que a favor de sus organismos autónomos, sociedades públicas y corporaciones locales sitas en su territorio concedan las entidades de crédito legalmente establecidas.
+
+Asimismo, podrá prestarles un segundo aval a las empresas privadas que tengan fijado su domicilio social o la radicación de sus negocios en Galicia.
+
+2\. Los créditos avalados en la forma indicada en el apartado anterior, en el caso de que los beneficiarios sean empresas privadas, solamente podrán tener como finalidad financiar la creación, reconversión y reestructuración de medianas y pequeñas empresas que, mediante la presentación de un plan económico-financiero, demuestren la capacidad y el dimensionamiento necesario para hacer viable su continuidad. En este supuesto cada aval individualizado no podrá exceder del 2 por 100 del límite global autorizado en la Ley de Presupuestos Generales de la Comunidad.
+
+3\. La Intervención General de la Comunidad Autónoma controlará la debida aplicación de los créditos avalados.
+
+Trimestralmente se dará cuenta al Parlamento de los avales existentes, de los nuevos avales concedidos y, en su caso, de los riesgos efectivos a los que la Tesorería de la Comunidad tuviese que hacer frente.
+
+##### Artículo 43. Obligaciones.
+
+1\. Los avales otorgados por la Comunidad Autónoma tendrán carácter subsidiario y obligarán a su Tesorería, por el importe del principal y de los intereses, sólo en el caso de no poder satisfacerlos el deudor principal o el primer avalista.
+
+2\. Podrá convenirse la renuncia al beneficio de excusión previsto en el artículo 1.830 del Código Civil si se garantizasen créditos concertados por sus organismos autónomos y entes públicos, corporaciones locales existentes en su territorio o, para cada caso, si se autorizase dicha renuncia por Ley del Parlamento de Galicia.
+
+3\. Los avales otorgados por la Comunidad Autónoma se documentarán en la forma en la que reglamentariamente se determine y devengarán a favor de su Tesorería la comisión que para cada caso se establezca.
+
+##### Artículo 44. Autorización legal.
+
+Para la concesión de cualquier otra forma de aval de la no prevista en el presente capítulo será precisa autorización mediante la correspondiente Ley, la que determinará por lo menos la identidad de los avalados y el límite y plazo del correspondiente aval.
+
+##### Artículo 45. Avales de los organismos autónomos.
+
+1\. Los organismos autónomos y entes públicos podrán prestar avales dentro del límite máximo fijado con esta finalidad para cada ejercicio por la correspondiente Ley de Presupuestos Generales, siempre que los beneficiarios sean sociedades públicas o mercantiles en cuyo capital participen. De los avales que concedan, así como de la situación de los existentes, deberán rendirle cuenta anual a la Consejería de Economía y Hacienda.
+
+Sin embargo, el Instituto Gallego de Promoción Económica podrá conceder avales, dentro del límite máximo fijado, a aquellas empresas privadas, participadas o no por este instituto, y para aquellas operaciones que reúnan las condiciones y cumplan los requisitos que se establezcan por acuerdo del Consejo de la Junta de Galicia a propuesta de la Consejería de Economía y Hacienda. El citado acuerdo se publicará en el «Diario Oficial de Galicia».
+
+Asimismo, a los avales concedidos en virtud de este artículo deberá dárseles publicidad en el «Diario Oficial de Galicia».
+
+2\. Los avales así concertados cumplirán las condiciones establecidas en el artículo 43.1 de la presente Ley, salvo acuerdo de la Junta autorizando a la renuncia del beneficio de excusión previsto en el artículo 1.830 del Código Civil.
+
+## TÍTULO III — De los Presupuestos Generales de la Comunidad Autónoma
+
+### CAPÍTULO I — Contenido y aprobación
+
+##### Artículo 46. Concepto.
+
+1\. Los Presupuestos Generales de la Comunidad Autónoma constituyen la expresión cifrada, conjunta y sistemática de:
+
+a) Las obligaciones que, como máximo, se podrán reconocer y los derechos que se prevean liquidar por parte de la Comunidad y de sus organismos autónomos durante el ejercicio presupuestario.
+
+b) Los objetivos que se pretendan conseguir con la utilización de los recursos financieros consignados en los mismos.
+
+c) Las estimaciones de los flujos financieros de las sociedades públicas.
+
+d) La totalidad de los gastos e ingresos de los demás entes públicos.
+
+e) Los beneficios fiscales estimados.
+
+2\. Los Presupuestos Generales de la Comunidad Autónoma se enmarcarán en un escenario plurianual que contenga las líneas básicas de la actuación a medio plazo del sector público gallego.
+
+3\. Los Presupuestos Generales de la Comunidad Autónoma se presentarán y se aprobarán de forma que los estados de gastos no superen los recursos totales previstos en los respectivos estados de ingresos.
+
+4\. Previa autorización del consejero de Economía y Hacienda podrán gestionarse como operaciones extra presupuestarias aquellas en que la actividad de la Comunidad Autónoma, de sus organismos autónomos y de las sociedades públicas autonómicas de carácter no mercantil se limite a la realización de funciones de intermediación en su gestión.
+
+En todo caso, tendrán la consideración de operaciones extra presupuestarias aquellas generadas en los procedimientos de liquidación de los patrimonios diferidos a favor de la Comunidad Autónoma de Galicia como consecuencia de procesos de sucesión legal intestada. En el momento de adquirir firmeza la resolución de liquidación, se procederá a imputar al presupuesto los derechos y obligaciones que correspondan a la Comunidad Autónoma.
+
+> Se modifica el apartado 4 por la disposición final 1.1 de la Ley 2/2013, de 27 de febrero. [Ref. BOE-A-2013-4088](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4088).
+
+> Se modifica el apartado 4 por el art. 13 de la Ley 9/2003, de 23 de diciembre. [Ref. BOE-A-2004-1674](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1674).
+
+##### Artículo 46 bis. Principios de la gestión económico-financiera.
+
+1\. Los sujetos que integran el sector público autonómico orientarán su gestión económico-financiera al cumplimiento de la eficacia en la consecución de los objetivos fijados y de la eficiencia en la asignación y utilización de recursos públicos, en un marco de objetividad y transparencia en su actividad administrativa.
+
+2\. La programación y ejecución de la actividad económico-financiera del sector público autonómico tendrán como finalidad la obtención de los resultados concretados en los objetivos fijados así como el seguimiento y rendición de cuentas de los mismos, y contribuirán a la continua mejora de los procedimientos, servicios y prestaciones públicas, de acuerdo con las políticas de gasto establecidas por el Consejo de la Xunta y en función de los recursos disponibles.
+
+3\. Los titulares de los servicios, organismos y demás entes instrumentales que componen el sector público autonómico serán responsables de la consecución de los objetivos fijados, promoviendo un uso eficiente de los recursos públicos y prestando un servicio de calidad a los ciudadanos.
+
+> Se añade por el art. 55 de la Ley 13/2015, de 24 de diciembre. [Ref. BOE-A-2016-2017](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2017).
+
+##### Artículo 46 ter. Planificación económica.
+
+1\. En aplicación del principio de orientación a resultados, la actuación económica a medio plazo del sector público autonómico estará ordenada en un plan estratégico o de gobierno (PEG).
+
+2\. El Plan estratégico es el instrumento que fija la finalidad última de los actos de gobierno y precisa, jerarquiza y establece prioridades, ordenando y dotando de coherencia al conjunto de actividades que la Xunta llevará a cabo a medio plazo.
+
+3\. El Plan estratégico debe ajustarse al marco financiero plurianual de la Comunidad Autónoma y contar con una definición de los objetivos estratégicos y operativos coherente con la de los programas plurianuales de gasto, así como de indicadores que permitan seguir su consecución.
+
+> Se añade por el art. 56 de la Ley 13/2015, de 24 de diciembre. [Ref. BOE-A-2016-2017](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2017).
+
+##### Artículo 46 quater. Planes sectoriales y transversales.
+
+1\. Las diferentes secciones y servicios del sector público autonómico deben desarrollar las estrategias priorizadas en el Plan estratégico dentro del campo de su competencia a través de planes sectoriales o transversales.
+
+2\. Plan sectorial es un conjunto ordenado de actuaciones sectoriales que colaboran en la consecución de uno o varios objetivos estratégicos para Galicia.
+
+3\. Plan transversal es un conjunto ordenado de actuaciones que abarcan varias políticas de gasto o departamentos de la Comunidad Autónoma al objeto de alcanzar uno o varios objetivos estratégicos para Galicia.
+
+4\. Los citados planes tendrán un contenido mínimo, que consistirá en una diagnosis de la situación, en objetivos estratégicos y operativos y en indicadores y sistemas de información que permitan su seguimiento y evaluación. En todo caso, los referidos planes deben contener los objetivos e indicadores que en el Plan estratégico se refieran al área de actuación de este.
+
+5\. Las previsiones económicas y presupuestarias que contengan los citados planes serán coherentes con las del marco presupuestario plurianual vigente en cada momento. Con dicha finalidad, estos documentos deberán ser informados por la consejería competente en materia de hacienda.
+
+6\. A estos efectos, todo documento que trate de ordenar la actividad plurianual con carácter sectorial o transversal de uno o varios servicios de la Administración autonómica, independientemente de su denominación, tendrá la consideración de plan y deberá ajustarse a lo establecido en este artículo.
+
+7\. La estructura de la planificación sectorial y transversal debe ajustarse a la clasificación funcional del presupuesto de la Comunidad Autónoma e incardinarse en el PEG.
+
+> Se añade por el art. 57 de la Ley 13/2015, de 24 de diciembre. [Ref. BOE-A-2016-2017](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2017).
+
+##### Artículo 46 quinquies. Asignación presupuestaria y gestión orientada a resultados.
+
+1\. Los programas plurianuales de las consejerías atenderán a la consecución de los objetivos que se establezcan en la planificación estratégica de Galicia y en las concreciones sectoriales y transversales y recogerán los indicadores precisos para garantizar su seguimiento.
+
+2\. Las asignaciones presupuestarias a los centros gestores de gasto se efectuarán teniendo en cuenta, entre otras circunstancias, el nivel de cumplimiento de los objetivos en ejercicios anteriores.
+
+3\. Los objetivos de carácter instrumental se deberán poner en relación con los objetivos finales a los que sirven.
+
+4\. Los sistemas de gestión y control del gasto público deberán orientarse a asegurar la consecución de los resultados previstos mediante la realización de los objetivos operativos y estratégicos finales de los programas presupuestarios y a proporcionar información sobre su cumplimiento, las desviaciones que pudieran producirse y sus causas.
+
+5\. Corresponde al departamento competente en materia de hacienda establecer la metodología a seguir para la definición y la evaluación de los indicadores precisos para la planificación y la programación financiera, así como para el desarrollo del control de la eficacia y la eficiencia vinculada a la ejecución presupuestaria.
+
+6\. Los titulares de los centros gestores del gasto responsables de los distintos programas presupuestarios formularán un balance de resultados y un informe de gestión relativos al cumplimiento de los objetivos fijados para ese ejercicio no programa plurianual correspondiente al citado centro gestor del gasto, que se incorporarán a la memoria de las correspondientes cuentas anuales.
+
+7\. La comprobación del grado de cumplimiento de un programa presupuestario se efectuará en función de los resultados cuando estos sean mensurables e identificables. Cuando los resultados no sean mensurables, la efectividad del programa se hará mediante indicadores que permitan su medición indirecta.
+
+> Se añade por el art. 58 de la Ley 13/2015, de 24 de diciembre. [Ref. BOE-A-2016-2017](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2017).
+
+##### Artículo 47. El ejercicio presupuestario.
+
+El ejercicio presupuestario coincidirá con el año natural y a él se imputarán:
+
+a) Los derechos liquidados en el transcurso del mismo, cualquiera que sea el período al que correspondan.
+
+b) Las obligaciones reconocidas hasta el 31 de diciembre del correspondiente ejercicio, como consecuencia de adquisiciones, obras, suministros, prestaciones de servicios u otro tipo de gastos realizados con cargo a los créditos respectivos dentro del correspondiente año natural, sin perjuicio de lo dispuesto en el punto 2 del artículo 60.
+
+##### Artículo 48. Contenido.
+
+1\. Los presupuestos generales de la Comunidad Autónoma estarán integrados:
+
+a) Por el presupuesto de la Comunidad.
+
+b) Por los presupuestos de los organismos autónomos.
+
+c) Por los presupuestos de las agencias públicas autonómicas.
+
+d) Por los presupuestos de explotación y de capital de las sociedades mercantiles del artículo 12 de esta ley y de aquéllas en las que concurran los requisitos determinados por el Sistema Europeo de Cuentas para integrarse en el sector de la administración pública autonómica de Galicia.
+
+e) Por los presupuestos de los entes públicos a que hace referencia el artículo 12 de esta ley.
+
+f) Por los presupuestos de explotación y capital de las fundaciones del sector público autonómico en las que concurran los requisitos determinados por el Sistema Europeo de Cuentas para integrarse en el sector de la administración pública autonómica de Galicia.
+
+g) Por los presupuestos de los consorcios en los que concurran los requisitos determinados por el Sistema Europeo de Cuentas para integrarse en el sector de la administración pública autonómica de Galicia.
+
+h) En todo caso, por los presupuestos de las demás entidades que estén clasificadas como administración pública de la Comunidad Autónoma de Galicia de acuerdo con las normas del Sistema Europeo de Cuentas, salvo las universidades públicas.
+
+2\. Los presupuestos generales de la Comunidad Autónoma contendrán:
+
+a) Los estados de gastos, en los que se especificarán en la forma establecida los créditos necesarios para dar cumplimiento a las obligaciones.
+
+b) Los estados de ingresos, en los que se detallarán las estimaciones de los derechos económicos que se liquidarán durante el ejercicio presupuestario.
+
+c) Los estados financieros de los organismos autónomos comerciales, industriales o financieros a que hace referencia el artículo 11 de esta ley.
+
+d) Los estados financieros de las sociedades públicas autonómicas, entes de derecho público y demás entidades con personalidad jurídica propia que formen parte del sector administraciones públicas, según el Sistema Europeo de Cuentas.
+
+> Se modifica por el art. único de la Ley 3/2009, de 23 de junio. [Ref. BOE-A-2009-11679](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-11679).
+
+##### Artículo 49. Estructura.
+
+Los Presupuestos Generales de la Comunidad Autónoma se ajustarán, en cuanto a su estructura, a las siguientes reglas:
+
+Primera:
+
+a) Los estados de gastos se confeccionarán aplicando una clasificación funcional por programas. Asimismo, las clasificaciones orgánica y económica informarán, respectivamente, sobre el agente que realiza el gasto y la naturaleza del mismo.
+
+b) Para cada programa de gasto se establecerán los objetivos que se pretenden conseguir con los recursos que se le asignen, así como, siempre que sea posible, los indicadores de seguimiento que se consideren adecuados para analizar el grado de consecución de los mismos.
+
+c) Se presentarán con separación los gastos corrientes y los gastos de capital, y su clasificación económica se regirá por los siguientes criterios:
+
+1\. En los créditos para gastos corrientes se distinguirán los de funcionamiento de los servicios, los gastos financieros y las transferencias corrientes.
+
+2\. En los créditos para gastos de capital se distinguirán los de inversiones reales, las transferencias de capital y las variaciones de activos y pasivos financieros.
+
+Segunda: Los estados de ingresos presentarán una clasificación económica distinguiendo los correspondientes a operaciones corrientes y a operaciones de capital.
+
+##### Artículo 50. Competencias de las Consejerías.
+
+1\. Corresponde a la Consejería de Economía y Hacienda determinar, con carácter general, las estructuras básicas de los presupuestos y los demás estados financieros correspondientes a la Comunidad, a sus organismos autónomos y a los demás entes y sociedades públicas.
+
+2\. Las distintas Consejerías adoptarán dichas estructuras básicas y las desarrollarán en función de sus propias necesidades de gestión y de las de los organismos autónomos, entes y sociedades públicas a ellas adscritas.
+
+3\. Los objetivos e indicadores de seguimiento a los que hace referencia el artículo 49.Primera.b) los establecerán las Consejerías, los organismos autónomos y demás entes públicos, de acuerdo con la Consejería de Economía y Hacienda.
+
+##### Artículo 50 bis. Oficina presupuestaria.
+
+1\. En el ámbito de la Administración general de la Comunidad Autónoma de Galicia, en cada sección presupuestaria, bajo la dependencia de la correspondiente secretaría general técnica, se identificará un órgano, con nivel mínimo de servicio, que desarrollará como mínimo las siguientes funciones, sin perjuicio de aquellas otras que pudieran establecerse en los decretos de estructura orgánica:
+
+a) Formular, en términos de objetivos y programas de gasto, incluso plurianuales, los planes de actuación y proyectos de los servicios presupuestarios dependientes.
+
+b) El estudio e informe económico de los actos y disposiciones con repercusión económico-financiera en los presupuestos de gastos e ingresos.
+
+c) Informar y proponer, en su caso, a la comisión presupuestaria que corresponda la revisión de los programas de gasto y desarrollar y aplicar las instrucciones para la elaboración del presupuesto anual.
+
+d) La elaboración y tramitación del anteproyecto anual de presupuestos de la sección y la coordinación de los correspondientes a las entidades instrumentales dependientes, el seguimiento de la ejecución de los créditos presupuestarios y la tramitación de sus modificaciones.
+
+e) El seguimiento del grado de realización de los objetivos respecto a los programas y actuaciones que se determinen en la ley anual de presupuestos generales de la Comunidad Autónoma.
+
+f) El análisis y coordinación de cuantos recursos financieros tiene asignados la sección, así como la coordinación y seguimiento de la aplicación de los fondos europeos u otros finalistas que financien programas o proyectos de la sección y de sus entidades dependientes, sin perjuicio de las funciones atribuidas a las otras unidades y órganos de la sección.
+
+2\. En las entidades públicas contempladas en el presupuesto consolidado de la Comunidad Autónoma de Galicia cuya normativa específica confiera carácter limitativo a los créditos de su presupuesto de gastos, se establecerán las unidades necesarias para dar cumplimiento a lo señalado en la letra d) del número anterior.
+
+3\. Por orden de la consejería competente en materia de hacienda se aprobará el desarrollo reglamentario relativo a la realización de estas funciones y el procedimiento a seguir para el ejercicio de cada una de ellas.
+
+> Se añade por el art. 7.1 de la Ley 3/2018, de 26 de diciembre. [Ref. BOE-A-2019-3997](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3997)
+
+##### Artículo 51. Elaboración de los Presupuestos Generales.
+
+El procedimiento para la elaboración de los Presupuestos Generales de la Comunidad Autónoma se ajustará a las siguientes normas:
+
+1\. Los órganos estatutarios de la Comunidad Autónoma y las Consejerías remitirán a la de Economía y Hacienda antes del 1 de julio sus respectivos estados de gastos debidamente documentados y ajustados a las normas que les sean aplicables y a las directrices establecidas por la Junta.
+
+2\. Dentro del mismo plazo y con las mismas formalidades indicadas en el punto anterior, cada una de las Consejerías remitirá:
+
+a) Los anteproyectos de presupuestos de gastos e ingresos de los organismos autónomos que tengan adscritos, formando un sólo presupuesto para cada organismo, incluyendo en los que tengan carácter comercial, industrial o financiero los estados financieros a que hace referencia el artículo 82 de la presente Ley.
+
+b) Los anteproyectos de presupuestos de ingresos y gastos de los entes públicos, a los que hace referencia el artículo 12 de esta Ley, que le estén adscritos.
+
+c) Los anteproyectos de presupuestos de explotación y capital de las sociedades públicas que tengan adscritas.
+
+3\. El anteproyecto de presupuesto de ingresos de la Comunidad Autónoma en el que se recoja la estimación de los recursos derivados de sus fuentes generales de financiación lo elaborará la Consejería de Economía y Hacienda.
+
+4\. Teniendo en cuenta los estados de ingresos y gastos mencionados y el marco macroeconómico en el que se contenga la previsible actividad económica del ejercicio presupuestario siguiente, la Consejería de Economía y Hacienda formulará el anteproyecto de Ley de Presupuestos Generales de la Comunidad Autónoma y lo someterá a acuerdo de la Junta.
+
+5\. Junto con el anteproyecto de Ley de Presupuestos Generales de la Comunidad Autónoma se remitirá al Consejo de la Junta la siguiente documentación:
+
+a) La cuenta consolidada de los Presupuestos Generales de la Comunidad Autónoma.
+
+b) Una memoria explicativa de su contenido y de las principales diferencias existentes en los mismos en relación con el presupuesto en vigor.
+
+c) La liquidación de los presupuestos del año anterior y un avance de los del ejercicio corriente.
+
+d) Un informe económico y financiero.
+
+e) Un anexo de inversiones reales, que contendrá la valoración de los proyectos de inversión pública que se van a realizar y su distribución territorial. En el caso de inversiones plurianuales, se indicará la inversión de cada año.
+
+Dentro de dicho anexo de inversiones reales, se distinguirán los proyectos de inversión en vinculantes y no vinculantes. Los créditos destinados a proyectos de inversión a los que se les dé carácter vinculante no podrán destinarse a la financiación de otros proyectos, salvo por autorización del Consejero de Economía y Hacienda. Trimestralmente se comunicará a la Comisión 3.ª, de Economía, Hacienda y Presupuestos, del Parlamento de Galicia, la relación de las autorizaciones realizadas, en el caso de haberlas.
+
+f) Un anexo de transferencias.
+
+g) Un anexo de personal.
+
+##### Artículo 52. Remisión al Parlamento.
+
+El Proyecto de Ley de Presupuestos Generales de la Comunidad Autónoma, acompañado de la documentación establecida en el apartado 5 del artículo anterior, se remitirá al Parlamento de Galicia antes del 20 de octubre, a los efectos del artículo 53.1 del Estatuto de Autonomía de Galicia.
+
+##### Artículo 53. Presupuestos de las Diputaciones Provinciales.
+
+La Junta remitirá igualmente al Parlamento de Galicia los presupuestos de las Diputaciones Provinciales, a los efectos previstos en la disposición adicional tercera del Estatuto de Autonomía y en la Ley 5/1997, de 22 de julio, de Administración Local de Galicia.
+
+##### Artículo 53 bis. Comparecencia de los titulares de la presidencia de las diputaciones provinciales ante la comisión parlamentaria.
+
+Sin perjuicio de la competencia de los plenos de las diputaciones provinciales para la aprobación de sus presupuestos en uso de su autonomía constitucional y estatutariamente garantizada, el Parlamento de Galicia tomará conocimiento de ellos desde la perspectiva de los intereses generales comunitarios directamente afectados. A estos efectos, deberán comparecer ante la comisión parlamentaria competente, de acuerdo con el Reglamento del Parlamento de Galicia, las personas titulares de la presidencia de las diputaciones.
+
+> Se añade por la disposición final 1 de la Ley 9/2017, de 26 de diciembre. [Ref. BOE-A-2018-1753](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1753)
+
+##### Artículo 54. Prórroga de los Presupuestos Generales.
+
+Si la Ley de Presupuestos Generales no fuese aprobada por el Parlamento de Galicia antes del primer día del ejercicio económico en el que tenga que aplicarse, se considerarán automáticamente prorrogados los del ejercicio inmediato anterior.
+
+1\. La Consejería de Economía y Hacienda podrá elaborar, en su caso, los correspondientes estados de gastos en los que se detallarán los importes de los créditos prorrogados. Dichos importes serán el resultado de realizar en los créditos iniciales del presupuesto prorrogado las operaciones siguientes:
+
+a) Se excluirán aquellos gastos que correspondan a actuaciones que deban quedar ultimadas al finalizar el ejercicio cuyos presupuestos se prorrogan, así como aquellos que no se consideren necesarios para el ejercicio que se inicia.
+
+b) En los indicados estados de gastos se incluirán aquellos créditos que correspondan a actuaciones de urgente iniciación o cobertura, siempre que tengan cabida dentro de las bajas motivadas por lo indicado en el apartado a) anterior.
+
+c) El Consejero de Economía y Hacienda determinará qué modificaciones presupuestarias de las realizadas durante el ejercicio, cuyos presupuestos se prorrogan, se consolidarán en los estados de gastos a que hace referencia el apartado a).
+
+2\. Durante el período de prórroga será aplicable a los estados de gastos resultantes de lo dispuesto en el apartado anterior lo contenido en el capítulo II de este título III.
+
+3\. Una vez aprobados los Presupuestos Generales de la Comunidad se procederá a imputarles a los mismos las operaciones realizadas durante el período de prórroga, de acuerdo con las instrucciones que al efecto dicte la Consejería de Economía y Hacienda.
+
+En caso de no existir en los presupuestos aprobados créditos a los que imputarles expedientes de gasto tramitados durante el período de prórroga, la Consejería o el organismo autónomo afectado propondrá a la Consejería de Economía y Hacienda aquellos créditos del presupuesto aprobado con cargo a los cuales deberá efectuarse la imputación.
+
+4\. La Consejería de Economía y Hacienda confeccionará, asimismo, los estados de ingresos que tendrán vigencia durante el período de prórroga y que se elaborarán en función de las previsiones que puedan derivarse bien de la liquidación de los presupuestos de ingresos del ejercicio prorrogado o de cualquier otro dato válido para sustentar dichas previsiones, siempre que no suponga la introducción de ningún cambio en la normativa legal vigente durante cuyo ejercicio se prorroga el presupuesto.
+
+5\. El texto de la Ley de Presupuestos correspondiente a los que se prorrogan también se prorrogará en sus propios términos, excepto aquellas disposiciones que por sus propias características sólo pudiesen tener exclusiva vigencia durante el respectivo año natural.
+
+##### Artículo 55. Derechos y obligaciones reconocidas.
+
+1\. Los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos por su importe íntegro, quedando prohibido atender obligaciones mediante minoración de los derechos que se van a liquidar o ya ingresados, a no ser por autorización expresa de una Ley.
+
+2\. Se exceptúan de lo dispuesto en el punto anterior las devoluciones de ingresos que se declaren indebidos por tribunal o autoridad competentes y el reembolso del coste de las garantías aportadas por los contribuyentes para obtener la suspensión cautelar del pago de deudas tributarias impugnadas, en cuanto las mismas sean declaradas improcedentes y dicha declaración adquiera firmeza.
+
+3\. A efectos de este artículo se entenderá por importe íntegro el que resulte después de aplicar los beneficios fiscales que sean procedentes, los que deberán ser objeto de contabilización independiente. El importe de los beneficios fiscales que afecten a los tributos propios de la Comunidad Autónoma se incluirán en la Ley de Presupuestos Generales de la Comunidad Autónoma.
+
+> Se modifica el apartado 2 por el art. 4 de la Ley 8/1999, de 30 de diciembre. [Ref. BOE-A-2000-2189](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-2189).
+
+##### Artículo 55 bis. Fondo de Contingencia de Ejecución Presupuestaria.
+
+1\. En las secciones 50.01 y 23 del presupuesto de la Xunta de Galicia se dotará un fondo para atender a las necesidades que pudieran surgir en el ejercicio corriente y fueran inaplazables, de carácter no discrecional y que no tuvieran en todo o en parte la adecuada dotación presupuestaria.
+
+2\. Este fondo se dotará por importe conjunto del 2% del total de los recursos propios para operaciones no financieras, siendo dedicado únicamente a financiar, cuando proceda, las modificaciones siguientes:
+
+a) Las ampliaciones de crédito reguladas en el artículo 64 y el correspondiente de la Ley de presupuestos de cada ejercicio.
+
+b) Los créditos extraordinarios y suplementos de crédito que se instrumenten mediante norma de rango legal, de conformidad con lo previsto en el artículo 62.
+
+Los créditos extraordinarios y suplementos de crédito del Servicio Gallego de Salud.
+
+c) Las incorporaciones de crédito recogidas en el artículo 71, excepto las que se financien con fondos que hayan de ingresarse durante el ejercicio corriente.
+
+En ningún caso podrá aplicarse el fondo para financiar modificaciones cuya finalidad fuera dar cobertura a gastos o actuaciones derivadas de decisiones discrecionales de la Administración y que carecieran de cobertura presupuestaria.
+
+3\. En el expediente de aplicación del fondo la sección solicitante deberá acreditar que no cuenta con disponibilidad en su presupuesto para financiar la necesidad sobrevenida.
+
+4\. La aplicación del Fondo de Contingencia se aprobará, a propuesta del consejero de Hacienda, mediante acuerdo del Consello de la Xunta previamente a la autorización de las respectivas modificaciones de crédito.
+
+5\. La Xunta de Galicia remitirá al Parlamento de Galicia, a través del consejero de Hacienda, un informe trimestral acerca del empleo del fondo regulado en este artículo.
+
+> Se añade por la disposición final 1.2 de la Ley 2/2013, de 27 de febrero. [Ref. BOE-A-2013-4088](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4088).
+
+### CAPÍTULO II — De los créditos y de sus modificaciones
+
+##### Artículo 56. Autorización de créditos.
+
+1\. Los créditos consignados en los estados de gastos se destinarán exclusivamente a las finalidades específicas para las que fueron autorizados por la Ley de Presupuestos o por las modificaciones aprobadas conforme a esta Ley.
+
+2\. Los créditos autorizados en los programas de gastos tienen carácter limitativo y vinculante a nivel de concepto. Sin embargo, los créditos destinados a gastos de personal, excepto los que se refieren a incentivos al rendimiento, y los gastos en bienes corrientes y servicios tendrán carácter vinculante a nivel de artículo.
+
+3\. En el presupuesto correspondiente a los servicios transferidos del INSALUD la vinculación anterior se entenderá referida a sus grupos de programas, atendidos el alcance y grado de pormenor de su estructura en la citada clasificación, en tanto en cuanto dicha estructura difiera de la establecida con carácter general para la Comunidad Autónoma.
+
+4\. En todo caso, tendrán carácter vinculante, con el nivel de desglose económico con el que aparezcan en los estados de gastos, los créditos destinados a atenciones protocolarias y representativas y los declarados ampliables conforme al artículo 64 de esta Ley.
+
+##### Artículo 57. Nulidad de obligaciones.
+
+1\. No podrán adquirirse compromisos de gastos por cuantía superior al importe de los créditos figurados en los estados de gastos, siendo nulos de pleno derecho los actos administrativos y las disposiciones generales con rango inferior a Ley que infrinjan la expresada norma, sin perjuicio de las responsabilidades a que haya lugar.
+
+2\. Se exceptúan de lo dispuesto en el número 1 anterior aquellos compromisos de gastos que reglamentariamente se determinen, cuando la imputación corresponda a créditos ampliables o que se adquieran como consecuencia de las necesidades propias del normal funcionamiento de los servicios y su importe exacto sea de difícil previsión por corresponder a obligaciones de tracto sucesivo.
+
+##### Artículo 58. Gastos plurianuales.
+
+1\. Podrán adquirirse compromisos de gastos de carácter plurianual, aunque su ejecución haya de iniciarse en el ejercicio siguiente, cuando su contenido coincida con los que a continuación se especifican:
+
+a) Inversiones y transferencias de capital.
+
+b) Transferencias corrientes derivadas de normas con rango de ley, o que se concediesen a través de convocatorias o firma de convenios, previa autorización del compromiso plurianual por parte del Consello de la Xunta.
+
+c) Gastos en bienes y servicios cuya contratación bajo las modalidades establecidas en la Ley de contratos del sector público no pudiera ser estipulada o resultase antieconómica por plazo que comprenda un solo ejercicio presupuestario.
+
+d) Arrendamientos de bienes inmuebles que vayan a ser utilizados por organismos o servicios de la Comunidad Autónoma.
+
+e) Cargas financieras derivadas de operaciones de endeudamiento de la Comunidad o de sus organismos autónomos.
+
+f) Activos financieros.
+
+g) Convenios con universidades y otras instituciones o centros docentes cuando aquellos hayan de ejecutarse durante cursos académicos coincidentes con dos ejercicios presupuestarios.
+
+2\. La autorización o realización de los gastos de carácter plurianual se subordinará a los créditos que para cada ejercicio se consignen en los Presupuestos Generales de la Comunidad Autónoma.
+
+3\. El número de ejercicios a los que pueden aplicarse los gastos incluidos en las letras a), b), c), f) y g) del número 1 no podrá ser superior a cuatro.
+
+El gasto que en estos casos se comprometiese con cargo a ejercicios futuros no podrá exceder del resultado de aplicar al crédito inicial, a nivel de concepto, los siguientes porcentajes: en el ejercicio inmediato siguiente el 70 %, en el segundo ejercicio el 60 % y en los ejercicios tercero y cuarto el 50 %. Tampoco podrá ser inferior al 10 % del importe total del expediente de gasto, en ninguno de los años a los que se extienda su ejecución material, salvo, en su caso, en el último ejercicio.
+
+El total de los importes comprometidos con cargo a ejercicios futuros en el conjunto de los conceptos que definen un nivel de vinculación no podrá sobrepasar los porcentajes arriba indicados, calculados sobre el crédito inicial de ese conjunto de conceptos.
+
+En los contratos de obra de carácter plurianual, con excepción de los realizados bajo la modalidad de abono total del precio, se efectuará una retención adicional de crédito del 10 % del importe de adjudicación, en el momento en que la misma se realizase. Esta retención se aplicará al ejercicio en que finalice el plazo fijado en el contrato para la terminación de la obra o al siguiente, según el momento en que se prevea realizar el pago de la certificación final. Estas retenciones computarán dentro de los porcentajes establecidos en este artículo.
+
+4\. También podrá ser diferido el pago del precio de compra de las adquisiciones de bienes inmuebles cuando el importe exceda de 350 millones de pesetas, sin que en ningún caso el desembolso inicial a la firma de la escritura pueda ser inferior al 30 por 100 del precio, pudiendo distribuirse libremente el resto hasta en cuatro anualidades sucesivas a los respectivos vencimientos dentro de las limitaciones del punto anterior.
+
+5\. Con independencia de lo establecido en los números anteriores para los programas y proyectos de gastos de capital que se especifiquen en las Leyes de Presupuestos, podrán adquirirse compromisos de gastos que tengan que extenderse a ejercicios futuros hasta el importe que para cada una de las anualidades se determine.
+
+A estos efectos, cuando en los créditos presupuestarios se encuentren incluidos proyectos de las características señaladas anteriormente, los porcentajes a que se refiere el número 3 de este artículo se aplicarán sobre dichos créditos, una vez deducida la anualidad correspondiente a estos proyectos.
+
+6\. El Consello de la Xunta, a propuesta del Conselleiro de Economía y Hacienda, podrá modificar los porcentajes señalados en el número 3 de este artículo y los importes que se fijen con arreglo a lo dispuesto en el número 5, así como modificar el número de anualidades en casos especialmente justificados, a petición de la correspondiente Consellería y previos los informes que se estimen oportunos, y, en todo caso, el de la Dirección General competente en materia de presupuestos.
+
+Este procedimiento será igualmente de aplicación en el caso de los contratos de obras que se efectúen bajo la modalidad de abono total de los mismos, según lo previsto en el artículo 99.2 del texto refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto Legislativo 2/2000, de 16 de junio, bien se pacte el abono total del precio de una sola vez o se fraccione en distintas anualidades, que no podrán ser superiores a diez desde la fecha fijada para la conclusión de las obras.
+
+7\. Los compromisos de gastos de carácter plurianual a que hace referencia el presente artículo serán adecuadamente contabilizados de forma independiente.
+
+8\. El Consejo de la Xunta, a propuesta de la persona titular de la consejería competente en materia de hacienda, podrá establecer unos porcentajes de límite de compromiso de gasto a ejercicios futuros inferiores, previa justificación de su necesidad para garantizar la senda de estabilidad presupuestaria comprometida en el marco presupuestario plurianual.
+
+> Se añade el apartado 8 por el art. 11 de la Ley 15/2010, de 28 de diciembre. [Ref. BOE-A-2011-2546](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2546).
+
+> Se modifican los apartados 1 y 3 por la disposición final 1.1 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-4369](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4369).
+
+> Se modifica el apartado 6 por el art. 21 de la Ley 3/2002, de 29 de abril. [Ref. BOE-A-2002-11079](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-11079).
+
+> Se modifica el apartado 3 por el art. 3 de la Ley 5/2000, de 28 de diciembre. [Ref. BOE-A-2001-1381](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-1381).
+
+> Se modifican los apartados 1 y 3 por el art. 5 de la Ley 8/1999, de 30 de diciembre. [Ref. BOE-A-2000-2189](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-2189).
+
+##### Artículo 59. Anulación de créditos.
+
+1\. Los créditos destinados a atender gastos que en el último día del ejercicio presupuestario no estén afectados al cumplimiento de obligaciones reconocidas quedarán anulados de pleno derecho, salvo las excepciones contempladas en el artículo 71 de la presente Ley.
+
+2\. A pesar de lo indicado en el número anterior, la anulación de créditos que por disposición legal tengan el carácter de incorporables no impedirá la continuación de la tramitación en forma provisional de expedientes de gastos con base en los mismos, condicionados a que al dictarse el acuerdo de autorización del compromiso de gasto exista crédito adecuado y suficiente.
+
+En ningún caso esta tramitación provisional podrá generar derechos a favor de terceros.
+
+##### Artículo 60. Regulación de obligaciones.
+
+1\. Con cargo a los créditos consignados en los estados de gastos sólo podrán contraerse obligaciones derivadas de adquisiciones, obras, prestaciones de servicios y demás gastos en general que hayan sido realizados en el año natural del correspondiente ejercicio presupuestario.
+
+2\. Sin embargo, se aplicarán a los créditos del presupuesto vigente en el momento de la expedición de órdenes de pago las siguientes obligaciones:
+
+a) Las que resulten del reconocimiento y liquidación de atrasos a favor del personal que perciba sus retribuciones con cargo a los Presupuestos Generales de la Comunidad Autónoma.
+
+b) Las derivadas de compromisos de gastos debidamente adquiridos en ejercicios anteriores.
+
+c) Las que tengan su origen en sentencias judiciales.
+
+En aquellos casos en que no exista crédito adecuado en el ejercicio corriente, a iniciativa de la Consejería correspondiente, el Consejero de Economía y Hacienda podrá determinar los créditos a los cuales habrá de imputarse el pago de estas obligaciones.
+
+> Se modifica el apartado 2 por el art. 4 de la Ley 5/2000, de 28 de diciembre. [Ref. BOE-A-2001-1381](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-1381).
+
+##### Artículo 61. Normativa aplicable.
+
+1\. Las modificaciones de los créditos presupuestarios se ajustarán a lo dispuesto en esta Ley y en las Leyes anuales de Presupuestos.
+
+2\. Todo acuerdo de modificación presupuestaria deberá indicar expresamente, además de la sección o ente público a que se refiera, el programa, servicio u organismo autónomo, artículo, concepto y subconcepto, en su caso, afectados por la misma, incluso en aquellos casos en los que el crédito se consigne o sea vinculante a nivel de artículo.
+
+Las limitaciones establecidas en el artículo 68 de la presente Ley se entenderán referidas a nivel de concepto para aquellos casos en los que la vinculación establecida lo sea a nivel de artículo.
+
+La correspondiente propuesta de modificación presupuestaria deberá expresar ineludiblemente la incidencia de la misma en la consecución de los objetivos previstos, así como las razones que la justifican.
+
+3\. No tendrán la condición de modificaciones presupuestarias ni la redistribución de créditos ni los movimientos interproyectos que no alteren el nivel de vinculación de los créditos contemplado en el artículo 56 o en las leyes anuales de presupuestos.
+
+4\. El procedimiento de gestión de los expedientes de modificaciones presupuestarias que afecten a la Administración general, organismos autónomos, agencias públicas autonómicas y restantes entidades públicas contempladas en el presupuesto consolidado de la Comunidad Autónoma de Galicia cuya normativa específica confiera carácter limitativo a los créditos de su presupuesto de gastos se desarrollará por orden de la consejería competente en materia de hacienda. En esta orden también se desarrollará el procedimiento de gestión de las figuras previstas en el número 3 de este artículo.
+
+> Se añaden los apartados 3 y 4 por el art. 7.2 de la Ley 3/2018, de 26 de diciembre. [Ref. BOE-A-2019-3997](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3997)
+
+##### Artículo 62. Créditos extraordinarios y suplementos.
+
+1\. Cuando deba realizarse algún gasto con cargo a los Presupuestos Generales de la Comunidad Autónoma que no pueda demorarse hasta el ejercicio siguiente y no exista crédito en los estados de gastos, o sea insuficiente y no ampliable el consignado, el Consejero de Economía y Hacienda, previo informe de la Dirección General competente en materia de presupuestos, someterá al acuerdo de la Junta, para su remisión al Parlamento, un Proyecto de Ley de concesión de un crédito extraordinario en el primer caso o de un suplemento de crédito en el segundo, en el que se especificarán necesariamente los recursos con que se financiará el gasto que por estas causas se genera, y el detalle del concepto presupuestario que se debe crear o que es suplementado.
+
+2\. A pesar de lo indicado en el punto anterior, si la necesidad de crédito extraordinario o de suplemento de crédito se produce en un organismo autónomo y los mismos no suponen aumento en los créditos del Presupuesto de la Comunidad Autónoma, se observarán las siguientes normas:
+
+a) Su concesión será facultad del Consejero de Economía y Hacienda si su importe no excede del 5 por 100 del presupuesto de gastos del organismo autónomo correspondiente, y de la Junta de Galicia cuando, superando dicho porcentaje, no sobrepasa el 10 por 100 del citado presupuesto de gastos. Dichos porcentajes se aplicarán de forma conjunta y acumulada para ambas clases de modificaciones de crédito y a lo largo del mismo ejercicio presupuestario.
+
+b) En el expediente de modificación presupuestaria emitirá informe la Consejería a la que esté adscrito el organismo autónomo que lo promueva, justificando debidamente la necesidad y urgencia del gasto y proponiendo los recursos con que se financiará el incremento que se propone.
+
+c) La Junta de Galicia dará cuenta trimestralmente al Parlamento de Galicia de los créditos extraordinarios y suplementos de crédito concedidos al amparo de lo previsto en el apartado a) del presente número.
+
+##### Artículo 63. Anticipos de Tesorería.
+
+La Junta de Galicia, a propuesta del Consejero de Economía y Hacienda, podrá, excepcionalmente, conceder anticipos de Tesorería para atender gastos inaplazables, hasta un límite del 2 por 100 de los créditos autorizados por la Ley de Presupuestos Generales de la Comunidad, en los siguientes casos:
+
+a) Cuando, dentro de la tramitación del expediente de crédito extraordinario o suplemento de crédito, recayese acuerdo favorable de la Junta para remitirle al Parlamento el correspondiente Proyecto de Ley.
+
+b) Cuando se promulgue una Ley en la que se establezcan obligaciones para cuyo cumplimiento sea precisa la concesión de un crédito extraordinario o de un suplemento de crédito.
+
+c) Si el Parlamento de Galicia no aprobase el Proyecto de Ley de concesión de crédito extraordinario o del suplemento de crédito, el importe del anticipo de Tesorería será cancelado mediante minoración en los créditos que ocasionen menor trastorno en los servicios públicos de la respectiva Consejería u organismo autónomo.
+
+##### Artículo 64. Créditos ampliables.
+
+1\. A pesar de lo dispuesto en los artículos 56 y 57 de esta Ley, tendrán, excepcionalmente, la condición de créditos ampliables:
+
+a) Aquellos que se especifiquen de manera singular en la Ley de Presupuestos Generales de la Comunidad Autónoma y con las condiciones que en la misma se determinen.
+
+b) Los que se destinen a cubrir los gastos de los servicios traspasados por la Administración del Estado, cuando sean ampliadas las transferencias en las respectivas materias y por el importe del coste efectivo de todas las ampliaciones, mientras éste no se integre en la base de cálculo para obtener el porcentaje de la participación en los ingresos del Estado.
+
+c) Las cuotas de Seguridad Social y la prestación familiar, así como las aportaciones que, en su caso, le corresponda efectuar a la Comunidad Autónoma al régimen de previsión social de sus funcionarios.
+
+d) Los que se destinen al pago de intereses, amortizaciones del principal y gastos derivados de la Deuda Pública emitida por la Comunidad Autónoma o a operaciones de crédito concertadas por ella.
+
+e) Los créditos destinados a la cobertura de necesidades de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia.
+
+f) Los destinados al pago de productos farmacéuticos procedentes de recetas médicas.
+
+g) Los créditos cuya ejecución corresponda a una Consejería y que su cuantía se module por la aportación de otras Consejerías u organismos autónomos, previa retención del crédito correspondiente en los estados de gasto afectados. A estos créditos no les serán aplicables las limitaciones a que se refiere el artículo 68 de esta Ley.
+
+2\. El expediente de ampliación de créditos deberá establecer la fuente de financiación de dicha ampliación, distinguiendo si el mismo se financia con retenciones en otros créditos, con mayores recursos que se vayan a obtener, con remanente de Tesorería, con endeudamiento dentro de los límites autorizados o con otras formas de financiación que no entrañen déficit presupuestario.
+
+> Se modifica el apartado 1.e) por el art. 61.1 de la Ley 7/2022, de 27 de diciembre. [Ref. BOE-A-2023-6382](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6382)
+
+##### Artículo 65. Competencias del Consejo de la Junta.
+
+1\. Corresponde al Consejo de la Junta, a propuesta del Consejero de Economía y Hacienda, y a iniciativa de las Consejerías correspondientes:
+
+a) Autorizar transferencias de créditos entre programas incluidos en distinto grupo de función, correspondientes a servicios u organismos autónomos de una misma Consejería.
+
+b) Autorizar transferencias de créditos entre uno o varios programas incluidos en la misma función, correspondientes a servicios u organismos autónomos de diferentes Consejerías.
+
+c) Autorizar transferencias de crédito entre programas incluidos en distintas funciones, correspondientes a servicios u organismos autónomos de diferentes Consejerías, siempre que se trate de reorganizaciones administrativas o que se produzcan como consecuencia de la aplicación de los recursos procedentes del Fondo Europeo de Desarrollo Regional o del Fondo Social Europeo.
+
+d) Autorizar transferencias de créditos a propuesta del Consejero de Economía y Hacienda de las dotaciones no utilizadas en los programas de las distintas secciones del presupuesto a los distintos conceptos del programa de imprevistos y funciones no clasificadas, habilitando los créditos que sean necesarios para su posterior reasignación.
+
+2\. De cada modificación acordada en virtud de lo dispuesto en este artículo se dará cuenta de modo singular, en el plazo máximo de treinta días, a la Comisión de Economía, Hacienda y Presupuestos, con remisión de copia del correspondiente expediente.
+
+##### Artículo 66. Facultades de la Consejería de Economía y Hacienda.
+
+Corresponden al Consejero de Economía y Hacienda, además de las competencias genéricas atribuidas a los titulares de las Consejerías, las siguientes de carácter específico:
+
+a) Resolver los expedientes de modificaciones presupuestarias, en los supuestos en los que éstos estén atribuidos a los titulares de las distintas Consejerías y exista discrepancia en la Consejería respectiva con el informe de la intervención delegada.
+
+b) Autorizar transferencias de crédito entre uno o varios programas incluidos en la misma o distinta función, dentro del mismo grupo de funciones, correspondientes a servicios u organismos autónomos de una misma Consejería, con la creación de nuevos conceptos presupuestarios, si ello fuese preciso.
+
+c) Autorizar transferencias de créditos desde el programa de imprevistos y funciones no clasificadas a los conceptos y artículos de los demás programas de gasto, cualquiera que sea la función o sección a que corresponda.
+
+La Consejería o el organismo autónomo que solicite la transferencia deberá justificar la imposibilidad de atender las insuficiencias mediante reajuste de sus créditos. A tal efecto, deberá procederse a una revisión de conjunto de los oportunos programas de gasto, poniendo de manifiesto las desviaciones que en la consecución de los objetivos previstos motivaría la modificación presupuestaria propuesta.
+
+d) Introducir, previo informe de la Consejería correspondiente, las variaciones que sean precisas en los presupuestos de servicios transferidos del IMSERSO y del INSALUD, al objeto de adaptarlos a los resultantes de la aprobación por las Cortes Generales de los Presupuestos Generales de la Seguridad Social.
+
+e) Autorizar las incorporaciones de crédito previstas en el artículo 71 de esta Ley.
+
+f) Autorizar las generaciones de crédito previstas en los artículos 69 y 70 de esta Ley.
+
+g) Autorizar las ampliaciones de crédito cuando éstos tengan tal carácter por disposición de Ley.
+
+h) Introducir en los estados de gastos las modificaciones precisas para adecuar los créditos afectados por transferencias finalistas procedentes de los Presupuestos Generales de la Administración del Estado y de las Comunidades Europeas, y los demás recursos de igual carácter y procedencia. Esta autorización implicará el aumento o la disminución de las consignaciones previstas, así como la incorporación o creación de los correspondientes conceptos presupuestarios si así procede.
+
+##### Artículo 67. Facultades de los Consejeros.
+
+1\. Los titulares de las Consejerías podrán autorizar, previo informe de la Intervención Delegada correspondiente, las transferencias de créditos entre diferentes conceptos del capítulo II, de un mismo programa, correspondientes a un mismo o diferente servicio u organismo autónomo dependiente de la Consejería, siempre que no afecten a créditos de atenciones protocolarias o representativas, ni supongan desviación en la consecución de los objetivos previstos para el programa respectivo.
+
+En tanto el capítulo II tenga carácter limitativo y vinculante a nivel de artículo, esta autorización comporta la creación, en su caso, de nuevos conceptos presupuestarios de los previstos en la clasificación económica.
+
+2\. En caso de discrepancia con el informe emitido por la Intervención Delegada sobre la modificación presupuestaria propuesta, se remitirá el expediente a la Consejería de Economía y Hacienda a los efectos previstos en el artículo 66.a) de la presente Ley.
+
+3\. Los Presidentes de los órganos estatutarios de la Comunidad Autónoma tendrán las mismas competencias establecidas en este artículo en relación con las modificaciones presupuestarias de su respectivo presupuesto, sin perjuicio del principio de autonomía presupuestaria del Parlamento de Galicia.
+
+4\. En todo caso, una vez autorizadas las modificaciones presupuestarias incluidas en los números 1 y 3, se remitirán a la Dirección General competente en materia de presupuestos de la Consejería de Economía y Hacienda, para instrumentar su ejecución.
+
+##### Artículo 68. Limitaciones.
+
+1\. Las transferencias de crédito de cualquier clase estarán sujetas a las siguientes limitaciones:
+
+a) No afectarán a los créditos ampliables ni a los extraordinarios concedidos durante el ejercicio.
+
+b) No podrán minorarse los créditos incorporados como consecuencia de remanentes de ejercicios anteriores, ni los que fuesen incrementados con suplementos o transferencias, salvo cuando afecten a créditos de personal.
+
+c) No podrán incrementarse créditos que como consecuencia de otras transferencias fuesen objeto de minoración, salvo cuando afecten a créditos de personal.
+
+2\. Respecto del presupuesto de los servicios transferidos del INSALUD las limitaciones contenidas en los apartados b) y c) anteriores se entenderán referidas a los presupuestos totales de la entidad gestora, aun cuando los mismos se desarrollen de modo descentralizado a través de los distintos centros de gastos.
+
+3\. Las anteriores limitaciones no afectarán a las transferencias de créditos que se refieran al programa de imprevistos y funciones no clasificadas o realizadas al amparo del artículo 60.2 de la presente Ley, ni serán de aplicación cuando se trate de créditos modificados a consecuencia de reorganizaciones administrativas, de acuerdos de transferencias de servicios o que amparen gastos financiados exclusivamente o cofinanciados con transferencias finalistas del Estado o con fondos de la Unión Europea.
+
+4\. Los créditos correspondientes a financiación condicionada estarán sujetos a las limitaciones específicas que les sean aplicables; de no existir éstas será aplicable lo determinado en el número 1 de este artículo.
+
+> Se modifica el apartado 3 por el art. 16 de la Ley 7/2002, de 27 de diciembre. [Ref. BOE-A-2003-1810](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-1810).
+
+> Se modifica el apartado 3 por el art. 5 de la Ley 5/2000, de 28 de diciembre. [Ref. BOE-A-2001-1381](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-1381).
+
+##### Artículo 69. Generación de crédito.
+
+1\. Podrán generar crédito en los estados de gastos de los presupuestos los ingresos efectivos, los derechos liquidados y los compromisos firmes de ingresos derivados de las siguientes operaciones:
+
+a) Aportaciones de otras Administraciones Públicas o de personas físicas o jurídicas para financiar gastos que por su naturaleza estén comprendidos en los fines u objetivos encomendados a la Comunidad Autónoma o a sus organismos autónomos.
+
+b) Enajenación de bienes de la Comunidad o de sus organismos autónomos.
+
+c) Prestación de servicios.
+
+d) Reembolso de los préstamos destinados a atenciones sociales y a la promoción y al fomento de la actividad económica y cultural de Galicia.
+
+e) Créditos del exterior para financiar inversiones públicas.
+
+f) Liquidaciones de herencias abintestato o intestadas diferidas a favor de la Comunidad Autónoma de Galicia.
+
+2\. Las generaciones de crédito a que se hace referencia en el número anterior únicamente podrán realizarse por el exceso de ingresos sobre las cifras inicialmente presupuestadas, y cuando se deriven de operaciones incluidas en el apartado c) se destinarán únicamente a cubrir gastos de la misma naturaleza que los que se originaron por la prestación del servicio.
+
+3\. Las generaciones de crédito se efectuarán en el mismo ejercicio en que se ha producido el ingreso, salvo cuando tenga lugar en el último trimestre del año o cuando se trate de fondos procedentes de la Unión Europea o de la Administración Central del Estado, casos en que podrá generarse crédito en el ejercicio siguiente, siempre que se justifique la imposibilidad de tener tramitada la generación en el mismo ejercicio en que se ha producido el ingreso. En este caso, el límite a que se refiere el punto anterior se entenderá referido al presupuesto de origen.
+
+> Se añade la letra f) al apartado 1 por la disposición final 2 de la Ley 6/2023, de 2 de noviembre. [Ref. BOE-A-2023-24124](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-24124)
+
+> Se modifica el apartado 2 por la disposición final 1.2 de la Ley 16/2008, de 23 de diciembre. [Ref. BOE-A-2009-4369](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4369).
+
+> Se modifica el apartado 3 por el art. 6 de la Ley 5/2000, de 28 de diciembre. [Ref. BOE-A-2001-1381](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-1381).
+
+##### Artículo 70. Reposición.
+
+Los ingresos derivados del reintegro de pagos indebidos con cargo a créditos presupuestarios podrán reponer estos últimos en las condiciones que se establezcan reglamentariamente.
+
+##### Artículo 71. Incorporaciones.
+
+1\. A pesar de lo dispuesto en el artículo 59 de esta Ley, podrán incorporarse a los estados de gastos del presupuesto correspondiente al ejercicio inmediato siguiente:
+
+a) Los créditos extraordinarios y los suplementos de crédito, así como las transferencias de crédito, que se concediesen o autorizasen, respectivamente, en el último mes del ejercicio presupuestario y que, por causas justificadas, no pudiesen ser utilizados durante el mismo.
+
+b) Los créditos que contemplen compromisos de gastos anteriores al último mes del ejercicio presupuestario y que no pudiesen ejecutarse al final del ejercicio económico por causas justificadas.
+
+Será preciso que tales compromisos de gastos alcanzasen la fase de disposición en contabilidad antes del último mes del ejercicio.
+
+c) Los créditos destinados a operaciones de capital.
+
+d) Los créditos autorizados en función de la efectiva recaudación de derechos afectados a los mismos.
+
+e) Los créditos generados por las operaciones enumeradas en el artículo 69 de la presente Ley.
+
+2\. Los remanentes incorporados según lo previsto en el número anterior únicamente podrán ser aplicados dentro del ejercicio presupuestario en el que la incorporación se acuerde, a excepción de los que correspondan a créditos financiados por el Fondo de Compensación Interterritorial o por fondos o subvenciones finalistas procedentes de la Unión Europea o de otras Administraciones públicas, que podrán ser incorporados en tanto persista el derecho a la percepción del ingreso que los financia.
+
+En los supuestos a) y b) de dicho número la incorporación se hará para los mismos gastos que motivaron en cada caso la concesión, la autorización y el compromiso.
+
+3\. Los créditos correspondientes a financiación condicionada serán incorporables de acuerdo con la normativa que les sea aplicable en cada caso. De no existir ésta, se regirán por las normas de la presente Ley.
+
+4\. El Consejero de Economía y Hacienda podrá acordar, con carácter general, la incorporación automática al ejercicio siguiente de los créditos a que se refiere el apartado d) del número 1 anterior.
+
+5\. De las incorporaciones a que se refieren los apartados 1 y 3 se dará cuenta al Parlamento.
+
+### CAPÍTULO III — Ejecución y liquidación
+
+##### Artículo 72. Autorización de gasto.
+
+1\. Corresponde a los órganos estatutarios, salvo lo que establezcan otras Leyes aplicables, a los Consejeros y demás órganos de la Comunidad Autónoma que tuviesen dotaciones diferenciadas en sus estados de gastos autorizar los gastos referentes a los servicios a su cargo, excepto en los casos reservados por las Leyes a la competencia de la Junta de Galicia, así como autorizar los actos de disposición de créditos y de reconocimiento de obligaciones, y proponer al Consejero de Economía y Hacienda la ordenación de los correspondientes pagos.
+
+2\. Con la misma reserva legal corresponde a los Presidentes o Directores de los organismos autónomos de la Comunidad la autorización y disposición de gastos y créditos, respectivamente, el reconocimiento de obligaciones y el ordenamiento de los pagos que correspondan a los mismos.
+
+3\. Reglamentariamente, el Consejo de la Junta de Galicia podrá establecer las competencias y los trámites que debe realizar directamente la Consejería de Economía y Hacienda, respecto de la contabilidad y de la tesorería para los organismos autónomos y entes que por sus características se estime oportuno, sin perjuicio de la normativa que les sea aplicable.
+
+4\. Las facultades a las que se hace referencia en este artículo podrán ser objeto de delegación o desconcentración en los términos que reglamentariamente se establezca.
+
+##### Artículo 73. Fases del gasto.
+
+La gestión económica y financiera de los créditos incluidos en los presupuestos de la Administración general de la Comunidad Autónoma de Galicia y de sus organismos autónomos, agencias públicas y demás entidades públicas contempladas en el presupuesto consolidado de la Comunidad Autónoma con presupuestos de gastos de carácter limitativo se estructurará de acuerdo con las siguientes fases:
+
+1\. La autorización del gasto, que es el acto en virtud del cual la autoridad competente acuerda la realización de un gasto, calculado en forma cierta o aproximada, reservando a tal fin la totalidad o una parte del crédito presupuestario legalmente destinado a garantizar el cumplimiento de las obligaciones que puedan ser consecuencia de aquél, teniendo en cuenta la naturaleza económica de las mismas.
+
+2\. La disposición, que es el acto en virtud del que se acuerda, concierta o determina, según los casos, después de cumplir los trámites que de acuerdo con el derecho procedan, la cuantía concreta que debe alcanzar el compromiso económico para la realización de todo tipo de prestaciones.
+
+Con los actos de disposición queda formalizada la reserva del crédito por un importe y unas condiciones exactamente determinados.
+
+3\. El reconocimiento de la obligación, que es la operación de contraer en cuentas los créditos exigibles contra la Comunidad de Galicia que deban acreditarse como contraprestación económica derivada de los acuerdos, de los conciertos o de las normas resolutorias que determinen la disposición de un crédito, una vez realizada y justificada adecuadamente la correspondiente prestación y efectuada la pertinente liquidación.
+
+4\. El ordenamiento del pago, que es la operación en virtud de la cual el ordenador competente, previa propuesta de pago realizado por quien ha reconocido la existencia de la obligación, expide la orden de pago contra la Tesorería de la Comunidad a favor del respectivo acreedor.
+
+> Se suprime el primer inciso de la letra a) y toda la letra b) por el art. 7.2 a 5 de la Ley 3/2018, de 26 de diciembre. [Ref. BOE-A-2019-3997](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3997)
+
+##### Artículo 74. Ordenación general de los pagos.
+
+1\. La ordenación general de pagos de la Comunidad corresponde al Consejero de Economía y Hacienda, pudiendo delegar dicha competencia de acuerdo con los procedimientos legales aplicables.
+
+2\. Al objeto de facilitar el servicio de ordenamiento de pagos, se podrán establecer ordenamientos secundarios bajo la dependencia del Consejero de Economía y Hacienda o de la autoridad en la que delegue sus competencias sobre la materia.
+
+3\. Los servicios y las funciones de los ordenamientos de pagos se dispondrán reglamentariamente a propuesta del Consejero de Economía y Hacienda.
+
+##### Artículo 75. Plan de disposición.
+
+La expedición de órdenes de pago con cargo al presupuesto de la Comunidad y de sus organismos autónomos deberá ajustarse al plan que sobre disposición de fondos de la Tesorería establezca anualmente la Consejería de Economía y Hacienda.
+
+##### Artículo 76. Tramitación.
+
+1\. Las órdenes de pago se expedirán una vez que se justificase documentalmente ante el órgano competente para reconocer la respectiva obligación, la realización de la prestación o el derecho del acreedor, conforme a los acuerdos por los que en su día se autorizaron y comprometieron los correspondientes gastos.
+
+2\. Los ordenadores de pagos podrán recibir las propuestas y librar las correspondientes órdenes de pago mediante la utilización de procesos informáticos. En este supuesto la documentación justificativa del gasto realizado podrá quedar en aquellos centros en los que se reconocieron las correspondientes obligaciones, para su posterior inclusión, en su caso, en la Cuenta General de la Comunidad Autónoma o para su puesta a disposición de los órganos de control competentes.
+
+3\. En los casos contemplados en el número anterior, a los ordenadores de pagos no les serán exigibles responsabilidades que procedan de trámites anteriores a su participación en el proceso de gestión presupuestaria, considerándose en estos casos que la referencia que en el artículo 122 y siguientes de la presente ley se hace a las responsabilidades de los ordenadores de pago se entenderá referida a los órganos que reconozcan las obligaciones o propongan el ordenamiento del pago.
+
+##### Artículo 77. Pagos a justificar.
+
+1\. Tendrán el carácter de pagos a justificar los fondos librados para atender gastos que no puedan ir acompañados de la documentación justificativa a que se hace referencia en el artículo anterior.
+
+2\. Podrán expedirse órdenes de pago a justificar en los supuestos siguientes:
+
+a) Cuando los documentos justificativos no puedan adjuntarse antes de efectuar la propuesta de pago.
+
+b) Cuando se considere conveniente la utilización de este sistema para agilizar significativamente la gestión de los créditos.
+
+c) Cuando las órdenes de pago tengan por objeto satisfacer gastos en localidades donde no existan dependencias del organismo autónomo de que se trate.
+
+3\. La Consejería de Economía y Hacienda, oídas las Consejerías, previo informe de la Intervención General, establecerá las normas generales que regulen la expedición de órdenes de pago a justificar, así como los límites cuantitativos de las mismas y los conceptos presupuestarios a los que son aplicables.
+
+4\. Las órdenes de pago cursadas con el carácter de justificar se aplicarán a los créditos presupuestarios que correspondan y sus perceptores quedarán obligados a justificar la aplicación de las cantidades recibidas en el plazo de tres meses, estando sujetos al régimen de responsabilidades previsto en la presente Ley. En los casos excepcionales podrá concederse una prórroga adicional por otro período igual para cumplimentar en todo o en parte la citada justificación.
+
+5\. En el curso de los dos meses siguientes a la fecha de recepción de la documentación justificativa a que se refieren los números anteriores, el órgano competente procederá a la aprobación o al reparo de la cuenta rendida.
+
+6\. No tendrán la condición de pagos a justificar las provisiones de fondos de carácter permanente que se realicen a pagadurías, cajas y habilitaciones para la atención de gastos periódicos o repetitivos. Estos anticipos de caja fija tendrán la consideración de operaciones extrapresupuestarias y su cuantía global no podrá exceder del 10 por 100 del capítulo destinado a gastos corrientes en bienes y servicios del presupuesto vigente en cada momento. Reglamentariamente se ordenará el procedimiento de concesión de anticipos de caja fija, su justificación e imputación al presupuesto y demás aspectos relacionados con los mismos.
+
+##### Artículo 78. Fases de los derechos económicos.
+
+1\. La gestión presupuestaria de los derechos económicos incluidos en los presupuestos de la Administración general de la Comunidad Autónoma y de sus organismos autónomos, agencias públicas y demás entidades públicas contempladas en el presupuesto consolidado de la Comunidad Autónoma con presupuestos de gastos de carácter limitativo se realizará a través de las siguientes fases:
+
+a) Compromiso de ingreso, que es el acto en base al cual se reconoce en cuentas el derecho a liquidar un determinado recurso por una cuantía cierta en el momento en que se cumplan las condiciones o trámites que se contemplan en el título jurídico del que nace la expectativa del derecho a su percepción.
+
+A estos efectos, tendrán la consideración de títulos jurídicos habilitantes las leyes, reglamentos, resoluciones y acuerdos promulgados, aprobados, dictados o adoptados por órganos estatales, autonómicos o locales, así como los convenios y contratos celebrados con estos órganos u otras entidades públicas o privadas.
+
+b) Contraído del recurso, que es el acto por el que se liquida el ingreso y se reconoce en cuentas el derecho definitivo a su percepción por su exacta cuantía, una vez cumplidas las condiciones exigidas para la perfección del derecho.
+
+c) Recaudación del recurso, que constituye el proceso a través del cual la Tesorería de la Comunidad ingresa en sus cajas el importe del derecho reconocido o cuando, en su caso, se procede a su ingreso en formalización.
+
+2\. El desarrollo de las distintas fases se realizará teniendo en cuenta el principio de mantenimiento del equilibrio económico-financiero y condicionado a las garantías de estabilidad presupuestaria y a la sostenibilidad financiera establecidas en la normativa estatal y autonómica.
+
+3\. Podrán acumularse en un mismo acto una o varias de las fases de gestión presupuestaria.
+
+> Se añade por el art. 7.6 de la Ley 3/2018, de 26 de diciembre. [Ref. BOE-A-2019-3997](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3997)
+
+> Se deroga, con efectos de 25 de septiembre de 2007, por la disposición derogatoria única.2.a) de la Ley 9/2007, de 13 de junio. [Ref. BOE-A-2007-13828](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13828).
+
+> Se modifica por el art. 12 de la Ley 14/2004, de 29 de diciembre. [Ref. BOE-A-2005-1722](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1722).
+
+> Redactado conforme a la corrección de errores publicada en el DOGA núm. 39, de 25 de febrero de 2005.
+
+> Se modifica por el art. 6 de la Ley 8/1999, de 30 de diciembre. [Ref. BOE-A-2000-2189](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-2189).
+
+##### Artículo 79. Normas especiales en la gestión presupuestaria de los derechos económicos por transferencias corrientes y de capital.
+
+1\. Respecto a los derechos económicos procedentes de transferencias corrientes y de capital, la competencia para la realización de los actos de gestión presupuestaria corresponderá:
+
+a) Cuando se trate de derechos que corresponden al presupuesto de la Administración general de la Comunidad Autónoma y cuando se modifiquen las previsiones iniciales de las entidades públicas contempladas en el presupuesto consolidado de la Comunidad Autónoma con presupuestos de gastos de carácter limitativo, a la dirección general competente en materia de presupuestos, a través del órgano que tenga atribuida la gestión presupuestaria de los ingresos procedentes de transferencias corrientes y de capital.
+
+b) Salvo la excepción prevista en la letra a) de este número, cuando se trate de ingresos que corresponden al presupuesto de las entidades públicas instrumentales con presupuesto de carácter limitativo, a los órganos que dentro de las mismas tengan atribuida la gestión presupuestaria en materia de ingresos.
+
+2\. En aplicación de lo previsto en los artículos 64 y 69, la formalización de compromisos firmes de ingresos no presupuestados inicialmente se ajustará a las siguientes especialidades:
+
+a) A solicitud de las consejerías o de las entidades públicas contempladas en el presupuesto consolidado de la Comunidad Autónoma con presupuestos de gastos de carácter limitativo, los expedientes de formalización del compromiso de ingreso y de generación de crédito o ampliación se tramitarán simultáneamente por la dirección general competente en materia de presupuestos, a través de los órganos que tengan atribuidas las correspondientes funciones.
+
+b) Cuando se trate de transferencias que corresponden a recursos contemplados en la ley reguladora del sistema de financiación de las comunidades autónomas, la tramitación simultánea de los expedientes de formalización del compromiso de ingreso y de generación o ampliación se realizará de oficio por la dirección general competente en materia de presupuestos.
+
+3\. El contraído de los recursos procedentes de la Unión Europea se efectuará una vez certificada, ante la unidad estatal o comunitaria administradora de estos recursos, la realización del gasto financiado con las transferencias de dichos recursos.
+
+Sin perjuicio de lo anterior, podrán contraerse estos recursos en el mismo ejercicio en que se realizó el gasto que financian sin esperar a la tramitación de la certificación a que se refiere el párrafo anterior, cuando las disposiciones recogidas en el Sistema europeo de cuentas nacionales y regionales o en las disposiciones que lo desarrollan vinculen la imputación temporal de estos recursos a la ejecución material del gasto en lugar de su certificación.
+
+Con carácter general, sin perjuicio de las excepciones que, en el marco del proceso de elaboración del presupuesto anual, establezca la dirección general competente en materia de presupuestos, la gestión de estos recursos se incluirá dentro del presupuesto de la Administración general, aunque el beneficiario sea cualquiera de las entidades incluidas en el ámbito del sector público autonómico definido según la Ley 16/2010, de 17 de diciembre, de organización y funcionamiento de la Administración general y del sector público autonómico de Galicia, o se trate de entidades que estén contempladas en el presupuesto consolidado de la Comunidad Autónoma con presupuestos de gastos de carácter limitativo.
+
+Realizada esta gestión presupuestaria, las entidades percibirán los recursos correspondientes desde la sección presupuestaria por la que reciben las transferencias corrientes y de capital.
+
+4\. Los anticipos de fondos europeos percibidos para financiar gastos en fase de ejecución podrán tener, transitoriamente, tratamiento extrapresupuestario o de pasivo financiero, que se cancelará en el momento en que se certifique el gasto y se efectúe el contraído del recurso y la aplicación del recaudado, según proceda, como transferencia corriente o de capital.
+
+5\. No podrán tener tratamiento extrapresupuestario los anticipos de fondos previstos en el número anterior cuando la Administración general de la Comunidad Autónoma o sus entes instrumentales con presupuesto de carácter limitativo resulten beneficiarios de ayudas financiadas con fondos europeos gestionados por la Administración general del Estado para los que se convenga la realización de anticipos reembolsables.
+
+6\. Los ingresos por transferencias corrientes y de capital que no pudieran identificarse por el órgano de la dirección general competente en materia de presupuestos que tenga atribuida su gestión, al no figurar claramente especificada su procedencia, quedarán contabilizados en cuentas extrapresupuestarias, que los contemplarán como pendientes de aplicación hasta su correcta identificación.
+
+7\. La devolución de ingresos procedentes de transferencias corrientes o de capital ya aplicadas al presupuesto y materialmente ingresadas en cuentas de Tesorería solo podrá realizarse como consecuencia de disposición, resolución o acuerdo en el que se establezca su exigencia a la Administración general o a las entidades públicas instrumentales que los percibieron.
+
+Al objeto de mantener el equilibrio presupuestario, podrá requerirse del órgano o entidad que gestionó la transferencia recibida que comunique los créditos de su presupuesto de gastos que financiarán la correspondiente devolución. En ningún caso el expediente de devolución incluirá las cantidades exigidas por intereses o conceptos análogos, siendo la devolución de dichas cantidades a cargo del gestor de la transferencia.
+
+8\. Por orden de la consejería competente en materia de hacienda se desarrollarán los procedimientos de gestión presupuestaria que correspondan para cada una de las especialidades previstas en los números 1 a 7 de este artículo, determinándose los órganos competentes en cada caso.
+
+> Se modifica el apartado 3 por el art. 61.2 de la Ley 7/2022, de 27 de diciembre. [Ref. BOE-A-2023-6382](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6382)
+
+> Se modifican los apartados 4 y 5 por el art. 43 de la Ley 18/2021, de 27 de diciembre. [Ref. BOE-A-2022-3415](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3415)
+
+> Se modifica por el art. 7.7 de la Ley 3/2018, de 26 de diciembre. [Ref. BOE-A-2019-3997](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3997)
+
+> Se deroga, con efectos de 25 de septiembre de 2007, por la disposición derogatoria única.2.a) de la Ley 9/2007, de 13 de junio. [Ref. BOE-A-2007-13828](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13828).
+
+> Se modifica por el art. 13 de la Ley 14/2004, de 29 de diciembre. [Ref. BOE-A-2005-1722](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1722).
+
+> Se modifica por el art. 7 de la Ley 8/1999, de 30 de diciembre. [Ref. BOE-A-2000-2189](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-2189).
+
+##### Artículo 80. Liquidación.
+
+1\. El presupuesto de cada ejercicio se liquidará en cuanto a la recaudación de derechos liquidados y al pago de obligaciones reconocidas a 31 de diciembre del año natural correspondiente, y quedarán a cargo de la Tesorería de la Comunidad Autónoma los derechos pendientes de cobro y las obligaciones pendientes de pago según sus respectivas contracciones.
+
+2\. No obstante, se aplicarán al ejercicio corriente los ingresos procedentes de derechos liquidados que no sean exigibles en el momento del cierre del ejercicio presupuestario en virtud del aplazamiento o fraccionamiento.
+
+3\. Los demás ingresos que se realicen una vez cerrado el ejercicio presupuestario respectivo quedarán desafectados del destino específico que, en su caso, les correspondiese, sin perjuicio de su reconocimiento y nueva afectación con cargo al presupuesto del ejercicio en curso, en aquellos otros supuestos que así se determinen.
+
+> Se modifica el apartado 2 por el art. 61.3 de la Ley 7/2022, de 27 de diciembre. [Ref. BOE-A-2023-6382](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6382)
+
+##### Artículo 81. Remanentes de Tesorería.
+
+1\. El remanente de Tesorería de la Comunidad o de cada uno de sus organismos autónomos administrativos con referencia a un ejercicio presupuestario determinado estará formado por la suma de las disponibilidades líquidas y los derechos reconocidos pendientes de cobro, menos las obligaciones reconocidas pendientes de pago, según la situación que los mismos presenten a 31 de diciembre del ejercicio anterior.
+
+2\. Se entenderá por remanente de Tesorería disponible aquel que no esté afectado a la financiación específica de determinados gastos.
+
+El remanente de Tesorería disponible podrá afectarse en su totalidad o en parte a la financiación del presupuesto inicial de gastos o a la financiación de modificaciones presupuestarias, una vez que sea suficientemente comprobada su disponibilidad.
+
+3\. La diferencia que en cada momento exista entre el remanente disponible y el afectado a la financiación del presupuesto inicial o de modificaciones presupuestarias a lo largo del ejercicio constituirá el remanente líquido.
+
+4\. En el caso de resultar un remanente de Tesorería negativo a lo largo del ejercicio, el organismo autónomo afectado instruirá el oportuno expediente de modificación presupuestaria ante la Consejería de Economía y Hacienda, en el que se propondrá la baja en aquellos créditos que considere adecuados para la financiación de aquél.
+
+En el presupuesto que no sea de organismos autónomos el Consejo de la Junta, a propuesta de la Consejería de Economía y Hacienda, dará de baja créditos de las distintas Consejerías. De no ser posible, en el presupuesto siguiente se enjugarán con menores gastos.
+
+### CAPÍTULO IV — Normas de especial aplicación para los organismos autónomos y para las agencias públicas autonómicas
+
+> Se modifica el título por el art. 12.1 de la Ley 12/2011, de 26 de diciembre. [Ref. BOE-A-2012-1252](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1252).
+
+##### Artículo 82. Presupuestos de los organismos autónomos y de las agencias públicas autonómicas.
+
+1\. De los presupuestos de los organismos autónomos y de las agencias públicas autonómicas formarán parte los siguientes estados financieros:
+
+a) Cuenta de operaciones comerciales, en su caso.
+
+b) Estado demostrativo de la variación del fondo de maniobra.
+
+c) Cuenta financiera con resultado en términos de contabilidad nacional.
+
+2\. El resultado que se derive de los estados financieros correspondientes a las letras a) y b) del apartado anterior tendrá el adecuado reflejo en el presupuesto de ingresos del organismo autónomo o agencia pública autonómica respectiva.
+
+3\. Las operaciones propias de la actividad específica de estos entes instrumentales, recogidas en la cuenta de operaciones comerciales, no estarán sometidas al régimen de limitaciones establecido en el artículo 56 de la presente ley para los créditos incluidos en los estados de gastos de sus presupuestos.
+
+4\. La consejería competente en materia de hacienda establecerá las estructuras de los estados financieros indicados adaptados a sus distintas especialidades, así como los criterios generales que se aplicarán para la imputación de gastos a cuenta de operaciones comerciales, según el principio general de que, excepto los gastos generales de personal, se le podrán imputar a esta todos aquellos gastos que forman parte directa o indirectamente del coste de los productos vendidos, de los servicios prestados o de los bienes producidos.
+
+5\. El ejercicio presupuestario coincidirá con el año natural, sin perjuicio de los ajustes necesarios cuando las operaciones que realicen los organismos autónomos y las agencias públicas autonómicas estén vinculadas a un ciclo productivo distinto, que no podrá ser superior a doce meses.
+
+> Se modifica por el art. 12.2 de la Ley 12/2011, de 26 de diciembre. [Ref. BOE-A-2012-1252](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1252).
+
+### CAPÍTULO V — Normas de especial aplicación a las entidades instrumentales del sector público autonómico con presupuesto estimativo
+
+> Se modifica el título por el art. 13.1 de la Ley 12/2011, de 26 de diciembre. [Ref. BOE-A-2012-1252](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1252).
+
+##### Artículo 82 bis. Presupuesto.
+
+1\. Son entidades instrumentales del sector público autonómico con presupuesto estimativo las entidades públicas empresariales, las sociedades mercantiles públicas autonómicas, las fundaciones del sector público autonómico, los consorcios públicos autonómicos y demás entidades instrumentales del sector público autonómico no recogidas en el presupuesto consolidado.
+
+2\. Dichas entidades elaborarán un presupuesto de explotación que detallará los recursos y dotaciones anuales correspondientes. Asimismo, formarán un presupuesto de capital con el mismo detalle.
+
+Los presupuestos de explotación y de capital se integrarán en los presupuestos generales de la Comunidad Autónoma.
+
+Los presupuestos de explotación y de capital estarán constituidos por una previsión de la cuenta de resultados y del cuadro de financiación del correspondiente ejercicio. Como anexo a dichos presupuestos, se añadirá una previsión del balance de la entidad, así como la documentación complementaria que determine la Consejería de Hacienda.
+
+3\. Las entidades remitirán los presupuestos y anexos señalados en el apartado anterior, referidos al ejercicio relativo al proyecto de presupuestos generales de la Comunidad Autónoma, a la liquidación del último ejercicio cerrado y al avance de la liquidación del ejercicio corriente.
+
+4\. Junto con los presupuestos de explotación y de capital, las entidades remitirán una memoria explicativa de su contenido, de la ejecución del ejercicio anterior y de la previsión de la ejecución del ejercicio corriente.
+
+> Se añade por el art. 13.2 de la Ley 12/2011, de 26 de diciembre. [Ref. BOE-A-2012-1252](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1252).
+
+##### Artículo 83. Plan de actuación, inversiones y financiación.
+
+1\. Las entidades instrumentales del sector público autonómico con presupuesto estimativo conforme a lo dispuesto en el artículo 82 bis de la presente ley formularán y actualizarán, de forma anual, un plan de actuación, inversiones y financiación.
+
+2\. No están obligadas a presentar dicho plan aquellas entidades instrumentales que, de acuerdo con lo dispuesto en la normativa contable vigente, puedan presentar balance abreviado, excepto que reciban con cargo a los presupuestos generales de la Comunidad Autónoma subvenciones de explotación o capital u otra aportación de cualquier naturaleza. Tampoco tendrán que presentar el plan de actuación, inversiones y financiación las fundaciones del sector público autonómico.
+
+3\. Las entidades instrumentales del sector público autonómico con presupuesto estimativo que posean, directa o indirectamente, la mayoría del capital social de una o varias sociedades mercantiles deberán presentar sus presupuestos de explotación y capital y, en su caso, sus planes de actuación, inversiones y financiación de forma individual y consolidada con dichas sociedades mercantiles, relacionando las sociedades objeto de presentación consolidada. Esta norma no se aplicará a aquellas sociedades mercantiles autonómicas que, a su vez, estén participadas mayoritariamente, de modo directo o indirecto, por otra entidad que deba elaborar los presupuestos de explotación y de capital.
+
+> Se modifica por el art. 14 de la Ley 12/2011, de 26 de diciembre. [Ref. BOE-A-2012-1252](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1252).
+
+##### Artículo 84. Definición, contenido y tramitación del plan de actuación, inversiones y financiación.
+
+1\. El plan de actuación, inversiones y financiación es la expresión plurianual de la estrategia, actuaciones y financiación de un ente instrumental. En él se concretará cómo desarrollará su objeto a medio plazo y cómo contribuirá a conseguir los objetivos de los programas presupuestarios que lo financian, en su caso.
+
+Este plan estará integrado por los presupuestos y anexos determinados en el artículo 82 bis de la presente ley, y, junto con la documentación indicada en el apartado siguiente, reflejará los datos económico-financieros previstos para el ejercicio que corresponde al proyecto de presupuestos generales de la Comunidad Autónoma y a los dos ejercicios siguientes, según las líneas estratégicas y objetivos definidos para la entidad.
+
+2\. Dicho plan contendrá la información de carácter complementario siguiente:
+
+a) Hipótesis de la evolución de los principales indicadores macroeconómicos que hubiesen servido de base para la elaboración del plan de actuación, inversiones y financiación, que, salvo excepción motivada, será la contenida en la envolvente económico-financiera del presupuesto.
+
+b) Premisas principales de formulación del plan, de acuerdo con las líneas estratégicas de la entidad.
+
+c) Previsiones plurianuales de los objetivos a alcanzar e indicadores de seguimiento de las mismas.
+
+d) Memoria de las principales actuaciones de la entidad.
+
+e) Programa de inversiones.
+
+f) Plan financiero del período, que cuantificará los recursos y las fuentes externas de financiación.
+
+g) La restante documentación que determine la consejería competente en materia de hacienda.
+
+3\. Los presupuestos de explotación y de capital se remitirán, por las entidades instrumentales con presupuesto estimativo, conjuntamente con el plan de actuación, inversiones y financiación actualizado, a la consejería a la que estén adscritos, para su posterior remisión, antes del 10 de julio de cada año, a la consejería competente en materia de hacienda. La estructura básica y la documentación complementaria de dichos documentos se establecerá por la consejería competente en materia de hacienda.
+
+4\. El plan de actuación, inversiones y financiación se someterá al acuerdo del Consejo de la Xunta de Galicia antes del 1 de mayo de cada año, a propuesta de la persona titular de la consejería competente en materia de hacienda. A estos efectos, las entidades elaborarán oportunamente las adaptaciones que sean precisas, dimanantes del proceso de aprobación por el Parlamento de Galicia de sus presupuestos de explotación y de capital, y las remitirán a la consejería competente en materia de hacienda a través del departamento del que dependan.
+
+5\. Cuando una consejería no hubiese remitido en tiempo y forma el plan de actuación, inversiones y financiación de alguna de las entidades instrumentales que tuviese adscritas, se entenderá prorrogado el último presentado. Sin embargo, se ajustarán las transferencias de funcionamiento en función de las normas de prórroga previstas en el artículo 54 de la presente ley.
+
+> Se modifica por el art. 15 de la Ley 12/2011, de 26 de diciembre. [Ref. BOE-A-2012-1252](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1252).
+
+##### Artículo 85. Modificaciones presupuestarias.
+
+1\. Las entidades instrumentales con presupuesto estimativo dirigirán su funcionamiento a la consecución de los objetivos recogidos en sus presupuestos de explotación y de capital y en sus programas de actuación, inversiones y financiación, en su caso. Estos objetivos deben ser coherentes con los del programa que contenga las partidas que financian la entidad.
+
+2\. Cuando alguna de las entidades a que se refiere el apartado anterior reciba con cargo a los presupuestos generales de la Comunidad Autónoma subvenciones de explotación o de capital u otra aportación de cualquier naturaleza, las autorizaciones de las variaciones anuales que supongan incremento de dotaciones de sus presupuestos de explotación y capital se ajustarán a lo siguiente:
+
+a) Si la variación corresponde a las transferencias de funcionamiento y aportaciones autonómicas recogidas en los presupuestos generales de la Comunidad Autónoma de Galicia, la competencia corresponderá a la autoridad competente para tramitar las correspondientes modificaciones del presupuesto de la Comunidad Autónoma.
+
+b) Si la variación no corresponde a dichas transferencias y aportaciones autonómicas, será competencia de la persona titular de la Consejería de Hacienda cuando su importe no exceda del 10% de cada tipo de gasto por naturaleza (personal, resto de gasto corriente, inversiones reales o financieras, transferencias y subvenciones de capital y endeudamiento neto) y del Consejo de la Xunta de Galicia en los demás casos.
+
+3\. Requerirá autorización del Consejo de la Xunta el incremento de la cuantía total que las entidades instrumentales dediquen a la financiación de los planes de actuación, inversiones y financiación de cualquier otra entidad instrumental autonómica en la que participen.
+
+4\. Cuando una entidad instrumental adquiera compromisos plurianuales que se deberán financiar con aportaciones del presupuesto de la Comunidad Autónoma, la consejería financiadora deberá solicitar el informe al que hace referencia el artículo 58 de la presente ley.
+
+5\. El procedimiento de gestión de los expedientes de modificaciones presupuestarias que afecten a las entidades instrumentales contempladas en el número 1 se desarrollará por orden de la consejería competente en materia de hacienda.
+
+> Se añade el apartado 5 por el art. 7.8 de la Ley 3/2018, de 26 de diciembre. [Ref. BOE-A-2019-3997](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3997)
+
+> Se modifica por el art. 16 de la Ley 12/2011, de 26 de diciembre. [Ref. BOE-A-2012-1252](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1252).
+
+##### Artículo 86. Convenios con la Administración general de la Comunidad Autónoma, con los organismos autónomos y con las agencias públicas autonómicas.
+
+1\. En los supuestos en los que se estipulen convenios y contratos programa con la Administración general de la Comunidad Autónoma, con los organismos autónomos o con las agencias públicas autonómicas que den lugar a regímenes particulares de gestión, tanto por las entidades a que se refiere el apartado Uno del artículo 82 bis de la presente ley como por cualquier otra que reciba subvenciones de explotación y de capital, avales u otra aportación de naturaleza distinta con cargo a los presupuestos generales de la Comunidad Autónoma de Galicia, se establecerán, por lo menos, las correspondientes cláusulas sobre las siguientes materias:
+
+a) Hipótesis macroeconómicas y sectoriales que sirvan de base al acuerdo.
+
+b) Objetivos de la política de personal, rentabilidad, productividad o reestructuración técnica de la explotación económica, así como métodos indicadores de evaluación de aquellos.
+
+c) Aportaciones con cargo a los presupuestos generales de la Comunidad Autónoma en las distintas modalidades a que se refiere este apartado.
+
+d) Medios a emplear para adaptar los objetivos acordados a las variaciones habidas en el respectivo entorno económico.
+
+e) Efectos que se deriven del incumplimiento de los compromisos acordados.
+
+f) Control, por la Consejería de Hacienda, de la ejecución del convenio y de los resultados derivados de su aplicación.
+
+2\. El control anterior no excluirá lo que pueda corresponder a los respectivos departamentos u organismos de los que dependan las entidades que hubiesen suscrito el correspondiente convenio, o a las comisiones de seguimiento en el caso de los contratos programa.
+
+3\. La suscripción del convenio o contrato programa a que se refieren los apartados anteriores no excluirá la elaboración, de forma coherente con los mismos, del presupuesto de explotación y de capital y del plan de actuación, inversiones y financiación (PAIF).
+
+> Se modifica por el art. 17 de la Ley 12/2011, de 26 de diciembre. [Ref. BOE-A-2012-1252](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1252).
+
+## TÍTULO IV — De la Tesorería
+
+##### Artículo 87. Concepto.
+
+1\. Constituyen la Tesorería de la Comunidad Autónoma de Galicia todos los recursos financieros, sean dinero, valores, créditos y los demás productos de las operaciones de endeudamiento de su Administración general, organismos autónomos, agencias públicas autonómicas, entidades públicas empresariales y entidades públicas instrumentales de consulta o asesoramiento, que se generen tanto por operaciones presupuestarias como extrapresupuestarias.
+
+2\. Las disponibilidades de la Tesorería y las variaciones que puedan sufrir están sujetas al régimen de intervención y deben ser registradas de conformidad con las normas de contabilidad pública. Podrán establecerse procedimientos especiales de anotación en cuenta para aquellos movimientos internos de efectivo entre las distintas cuentas operativas de la Tesorería que determine el consejero competente en materia de hacienda.
+
+> Se modifica por el art. 19 de la Ley 2/2017, de 8 de febrero. [Ref. BOE-A-2017-3823](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-3823)
+
+##### Artículo 88. Funciones.
+
+Son funciones propias de la Tesorería:
+
+a) El pago de las obligaciones de la Administración general de la Comunidad Autónoma y de las entidades públicas instrumentales señaladas en el artículo anterior y la gestión recaudatoria de los derechos económicos de la hacienda pública gallega, sin perjuicio de lo establecido en el artículo 10 de la Ley 15/2010, de 28 de diciembre, de medidas fiscales y administrativas.
+
+b) Instrumentar y servir al principio de unidad de caja, mediante la centralización de todos los fondos y valores generados por operaciones presupuestarias y extrapresupuestarias.
+
+c) Distribuir en el tiempo y en el territorio las disponibilidades dinerarias para la satisfacción puntual de las obligaciones de la Comunidad Autónoma.
+
+d) Velar por la obtención de la idónea rentabilidad de los recursos disponibles de la Comunidad Autónoma sin menoscabo de los fines propios de la Tesorería.
+
+e) Responder de los avales contraídos por la Comunidad Autónoma conforme a las disposiciones de esta ley.
+
+f) Las demás funciones que se deriven o relacionen con las anteriormente enumeradas.
+
+> Se modifica la letra a) por el art. 44.2 de la Ley 5/2025, de 23 de diciembre. [Ref. BOE-A-2026-3385](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3385)
+
+> Se modifica por el art. 20 de la Ley 2/2017, de 8 de febrero. [Ref. BOE-A-2017-3823](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-3823)
+
+##### Artículo 89. Situación de los fondos de la Comunidad Autónoma.
+
+1\. Con carácter general la Tesorería de la Comunidad Autónoma situará los fondos públicos en el Banco de España o en las entidades de crédito y ahorro que operen en Galicia, en cuentas de las que, en todo caso, poseerá la titularidad.
+
+2\. La Tesorería de la Comunidad Autónoma podrá instrumentar todas aquellas operaciones activas que considere convenientes para mantener la adecuada rentabilidad de los fondos a su cargo, guiada en todo caso por el principio de seguridad en su colocación.
+
+3\. El régimen general de autorizaciones para la situación y colocación de fondos, la naturaleza de las cuentas, el control y la disposición de los fondos y de los servicios de colaboración que se vayan a concertar con las entidades financieras indicadas en el párrafo anterior lo establecerá la consejería competente en materia de hacienda.
+
+> Se modifica por el art. 21 de la Ley 2/2017, de 8 de febrero. [Ref. BOE-A-2017-3823](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-3823)
+
+##### Artículo 90. Situación de los fondos de las entidades públicas instrumentales.
+
+1\. Los fondos de los organismos autónomos, de las agencias públicas autonómicas y de las entidades públicas empresariales, así como de las entidades públicas instrumentales de consulta y asesoramiento, se situarán en cuentas diferenciadas con la autorización expresa de la consejería competente en materia de hacienda y bajo el control de la Tesorería, utilizando rúbricas que contengan la denominación general de «Entidades públicas instrumentales de la Comunidad Autónoma de Galicia», y tendrán la consideración, a todos los efectos, de fondos de la propia Tesorería.
+
+2\. Dichos fondos podrán estar situados en el Banco de España o en otras entidades de crédito y ahorro que operen en Galicia, y necesitarán autorización expresa de la consejería competente en materia de hacienda para la apertura de cada cuenta y para la determinación de sus condiciones de funcionamiento, previa solicitud motivada y con expresión de la finalidad de su apertura.
+
+La Tesorería de la Comunidad Autónoma podrá recabar del órgano administrativo gestor cualquier dato tendente a comprobar el cumplimiento de las condiciones en las que se autorizó la apertura de la cuenta y podrá ordenar su cancelación o suspender su utilización si se comprueba que no subsisten las condiciones que motivaron la autorización de apertura.
+
+3\. Las entidades financieras indicadas en el punto anterior tienen para con la Tesorería de la Comunidad Autónoma, a su solicitud, las mismas obligaciones de información que para con las consejerías y las entidades públicas instrumentales titulares de las cuentas abiertas en ellas.
+
+4\. La consejería competente en materia de hacienda podrá proponer al Consejo de la Xunta que las operaciones de ingreso y de ordenación y realización material del pago de las entidades públicas instrumentales a las que les sea de aplicación lo dispuesto en este artículo las realice la dirección general competente en materia de tesorería, para lo cual se establecerá el correspondiente procedimiento.
+
+5\. Lo dispuesto en el presente artículo será también de aplicación a las entidades públicas instrumentales a que hace referencia la disposición transitoria tercera de la Ley16/2010, de 17 de diciembre, de organización y funcionamiento de la Administración general y del sector público autonómico de Galicia, que aún no hayan adaptado su regulación a las determinaciones del título III de la citada ley.
+
+> Se modifica por el art. 22 de la Ley 2/2017, de 8 de febrero. [Ref. BOE-A-2017-3823](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-3823)
+
+> Se modifica el apartado 4 por la disposición final 10 de la Ley 14/2013, de 26 de diciembre. [Ref. BOE-A-2014-1586](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1586).
+
+##### Artículo 91. Ingresos y medios de pago.
+
+1\. Los ingresos a favor de la Tesorería podrán realizarse en el Banco de España, en las cajas de la propia Tesorería o de sus entidades colaboradoras, o bien en las que se habiliten en las entidades públicas instrumentales a las que se hace referencia en el artículo anterior.
+
+2\. Los medios de pago admisibles por las cajas de la Tesorería podrán consistir en dinero de curso legal, cheques nominativos, giros, transferencias o cualquier otro medio de pago legalmente establecido. La consejería competente en materia de hacienda establecerá las condiciones que tendrán que cumplir y el momento en el que en cada caso se producirá la liberación de la deuda.
+
+3\. La Tesorería podrá dar cumplimiento a sus obligaciones por cualquiera de los medios de pago a que se hace referencia en el apartado anterior.
+
+> Se modifica por el art. 23 de la Ley 2/2017, de 8 de febrero. [Ref. BOE-A-2017-3823](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-3823)
+
+##### Artículo 91 bis. Prescripción de los depósitos y garantías en efectivo constituidos ante la Caja General de Depósitos de la Comunidad Autónoma.
+
+Los depósitos y garantías en efectivo constituidos en la Caja General de Depósitos de la Comunidad Autónoma respecto de los cuales no se realice ninguna gestión por parte de los interesados en el ejercicio de su derecho de propiedad prescribirán a favor de la Hacienda de la Comunidad Autónoma en el plazo de veinte años.
+
+> Se añade por el art. 24 de la Ley 2/2017, de 8 de febrero. [Ref. BOE-A-2017-3823](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-3823)
+
+##### Artículo 92. Flujos financieros.
+
+Para una mejor gestión de la Tesorería y un adecuado análisis de su funcionamiento, deberá elaborarse trimestralmente un cuadro de seguimiento de los flujos financieros derivados de la actividad del sector público autonómico afectado por lo dispuesto en este título, en el marco de las previsiones de un presupuesto monetario.
+
+> Se modifica por el art. 25 de la Ley 2/2017, de 8 de febrero. [Ref. BOE-A-2017-3823](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-3823)
+
+## TÍTULO V — Del control interno y de la contabilidad
+
+### CAPÍTULO I — Del control interno
+
+#### Sección primera. Aspectos generales
+
+##### Artículo 93. Control interno de la actividad económico-financiera.
+
+1\. El control interno de la actividad económico-financiera de la Comunidad, de sus organismos autónomos y entes públicos y de las sociedades públicas lo ejercerá la Intervención General, sin perjuicio de las competencias del Consejo de Cuentas de Galicia y, en su caso, del Tribunal de Cuentas.
+
+2\. La Intervención General de la Comunidad Autónoma ejercerá sus funciones de control interno con plena autonomía respecto a los órganos responsables de la gestión controlada.
+
+##### Artículo 94. Su ejercicio.
+
+1\. El ejercicio del control interno se realizará a través de la función interventora y del control financiero.
+
+2\. La función interventora tiene por objeto controlar todos los actos, documentos y expedientes de la Comunidad y de sus organismos autónomos de los que pudiesen derivarse derechos y obligaciones de contenido económico, así como los ingresos y pagos que de ellos se deriven y, en general, la recaudación, la inversión o la aplicación de los fondos públicos, a fin de asegurar que la gestión de los órganos controlados se ajuste a las disposiciones aplicables a cada caso.
+
+3\. El control financiero lo ejercerá la Intervención General de conformidad con lo prevenido en cada caso y en la forma que reglamentariamente se establezca respecto de los servicios de la Comunidad, de los organismos autónomos, de los entes públicos y de las sociedades públicas para comprobar su adecuado funcionamiento tanto en el aspecto organizativo como en el económico-financiero.
+
+Asimismo, se ejercerá el control financiero respecto a las sociedades mercantiles, empresas, entidades y particulares por razón de las subvenciones, créditos, avales y demás ayudas de la Comunidad o de sus organismos autónomos, concedidos con cargo a los Presupuestos Generales de la Comunidad. En este caso el control financiero tendrá por objeto comprobar la adecuada y correcta obtención y utilización de las indicadas subvenciones y ayudas y el cumplimiento de los objetivos que con ellas se pretenden alcanzar.
+
+4\. A pesar de lo dispuesto en el apartado 3 de este artículo, por acuerdo de la Junta de Galicia, a propuesta del Consejero de Economía y Hacienda, podrá establecerse el control interno realizado a través de la función interventora en organismos autónomos, sociedades y entes públicos.
+
+#### Sección segunda. De la función interventora
+
+##### Artículo 95. Fases.
+
+1\. La función interventora se ejercerá a través de las siguientes fases:
+
+a) La fiscalización o intervención previa de todo acto, documento o expediente susceptible de producir derechos y obligaciones de contenido económico o movimiento de fondos y valores.
+
+b) La intervención formal del ordenamiento del pago.
+
+c) La intervención material del pago.
+
+d) La intervención de la aplicación de las cantidades destinadas a obras, suministros, adquisiciones y servicios, que comprenderá el examen documental y, en su caso, la comprobación material.
+
+2\. Son inherentes a la función interventora las siguientes competencias:
+
+a) Interponer recursos y reclamaciones en los supuestos contemplados en las disposiciones vigentes.
+
+b) Solicitar de los órganos competentes el asesoramiento jurídico o los informes técnicos que se precisen en función de la naturaleza del acto, documento o expediente intervenido, así como los antecedentes y documentos necesarios para el ejercicio de dicha función.
+
+##### Artículo 96. Principios.
+
+1\. La función interventora se ejercerá conforme a los principios de autonomía funcional, ejercicio desconcentrado, jerarquía interna y actuación contradictoria.
+
+2\. El ejercicio de la función interventora se organizará de forma desconcentrada a través de las intervenciones delegadas situadas o próximas a los órganos sometidos a control. El Interventor general de la Comunidad podrá avocar el ejercicio de la función respecto a cualquier acto o expediente que estime oportuno.
+
+Reglamentariamente se establecerá la competencia de los Interventores delegados del Interventor general de la Comunidad.
+
+##### Artículo 97. Intervención limitada.
+
+1\. No estarán sometidos a intervención previa:
+
+a) Los gastos de obras, de gestión de servicios públicos, de suministro, de consultoría y asistencia y de servicios, por importe inferior al que en su caso se establezca en la Ley de presupuestos de cada año
+
+b) Los gastos de carácter periódico y demás de tracto sucesivo, una vez intervenido el gasto correspondiente al período inicial del acto o contrato de que se deriven, o sus modificaciones, así como aquellos otros gastos que de acuerdo con la normativa vigente se hagan efectivos a través del sistema de anticipos de caja fija.
+
+c) La autorización y disposición de las subvenciones que figuren en los presupuestos con asignación nominativa.
+
+2\. La Junta de Galicia podrá acordar, previo informe de la Intervención General de la Comunidad Autónoma, que la intervención previa en cada una de las Consejerías o en sus distintos servicios, organismos autónomos o sociedades y entes públicos se limite a comprobar los extremos siguientes:
+
+a) La existencia de crédito presupuestario y que éste es el adecuado a la naturaleza del gasto o de la obligación que se propone contraer.
+
+En los casos en que se trate de contraer compromisos de gastos de carácter plurianual se comprobará, además, si se cumple lo preceptuado en el artículo 58 de esta Ley.
+
+b) Que las obligaciones o gastos se generan por órganos competentes.
+
+c) Aquellos otros extremos que, por su transcendencia en el proceso de gestión, determine el Consejo de la Junta, a propuesta del Consejero de Economía y Hacienda, previo informe de la Intervención General de la Comunidad Autónoma.
+
+Los Interventores delegados podrán formular las observaciones complementarias que consideren convenientes, sin que las mismas tengan, en ningún caso, efectos suspensivos en la tramitación de los expedientes correspondientes.
+
+3\. Lo dispuesto en el apartado anterior no será de aplicación respecto a las obligaciones o de los gastos de cuantía indeterminada y de aquellos otros que deban ser aprobados por el Consejo de la Junta.
+
+4\. Las obligaciones o los gastos sometidos a la fiscalización limitada a que se refiere el apartado 2 de este artículo serán objeto de otra plena con posterioridad, ejercida sobre una muestra representativa de los actos, documentos o expedientes que dieron origen a la referida fiscalización, mediante la aplicación de técnicas de muestreo o auditoría, a fin de verificar que se ajustan a las disposiciones aplicables en cada caso y determinar el grado de cumplimiento de la legalidad en la gestión de los créditos.
+
+Los Interventores delegados que realicen las fiscalizaciones con posterioridad deberán emitir informe escrito en el que hagan constar cuantas observaciones y conclusiones se deduzcan de las mismas. Estos informes se remitirán al titular de la Consejería para que formule, en su caso, y en el plazo de quince días, las alegaciones que considere oportunas, y posteriormente se elevarán a la Intervención General de la Comunidad Autónoma.
+
+La Intervención General de la Comunidad Autónoma dará cuenta al Consejo de la Junta y a los centros directivos que resulten afectados de los resultados más importantes de la fiscalización realizada con posterioridad y, en su caso, propondrá las actuaciones que resulten aconsejables para asegurar que la administración de los recursos públicos se ajuste a las disposiciones aplicables en cada caso.
+
+5\. Con independencia de lo dispuesto en el número anterior, el Consejero de Economía y Hacienda, a propuesta del Interventor general de la Comunidad Autónoma, podrá acordar en qué casos la función interventora será ejercida sobre una muestra y no sobre el total de actos, documentos o expedientes sujetos a la intervención previa.
+
+La Intervención General determinará en estos casos los procedimientos que se deban aplicar para la selección, la identificación y el tratamiento de la muestra de procedimiento.
+
+6\. En los términos que se determinen por resolución de la persona titular de la Intervención General de la Comunidad Autónoma, podrá acordarse que la comprobación de las cuestiones objeto de verificación, tanto en régimen general como en régimen de fiscalización limitada, se realice mediante validaciones efectuadas de modo automático, a través de las aplicaciones informáticas que dan soporte a los sistemas de control.
+
+7\. La fiscalización previa de los derechos será sustituida por la inherente a la toma de razón en contabilidad, y se establecerán las actuaciones comprobatorias posteriores que determine la Intervención General de la Comunidad Autónoma.
+
+> Se modifica el apartado 6 y se añade el 7 por el art. 55 de la Ley 10/2023, de 28 de diciembre. [Ref. BOE-A-2024-2777](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2777)
+
+> Se modifica el apartado 1.a) por el art. 14 de la Ley 9/2003, de 23 de diciembre. [Ref. BOE-A-2004-1674](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1674).
+
+> Se modifica el apartado 1.a) por el art. 20 de la Ley 3/2002, de 29 de abril. [Ref. BOE-A-2002-11079](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-11079).
+
+> Se modifica el apartado 1 por el art. 7 de la Ley 5/2000, de 28 de diciembre. [Ref. BOE-A-2001-1381](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-1381).
+
+##### Artículo 98. Documentación y plazo.
+
+1\. La Intervención ejercerá la función interventora a la vista del expediente original completo una vez reunidos todos los justificantes y emitidos los informes preceptivos y que esté, por lo tanto, en disposición de que se dicte acuerdo por quien corresponda.
+
+2\. El expediente será fiscalizado en el plazo de diez días contados a partir del siguiente a la fecha de recepción, que se reducirá a cinco días computados de igual forma cuando se declarase urgente la tramitación del expediente o se aplicase el régimen especial de fiscalización previsto en el número 2 del artículo 97.
+
+3\. Cuando la Intervención haga uso de la facultad a que se refiere el apartado b) del número 2 del artículo 95, se suspenderá el plazo mencionado en el número 2 anterior, debiendo darle cuenta de dicha circunstancia al órgano gestor proponente del gasto.
+
+##### Artículo 99. Reparos y reclamaciones.
+
+1\. Si la Intervención se manifestase en desacuerdo con el fondo o con la forma de los actos, expedientes o documentos examinados, deberá formular sus reparos por escrito. Dichos reparos deberán ser motivados con razonamientos fundados en normas que apoyen el criterio sustentado y deberán contener todas las objeciones realizadas al expediente.
+
+2\. Cuando la disconformidad se refiera al reconocimiento o a la liquidación de derechos a favor de la Hacienda de la Comunidad Autónoma, las observaciones se formularán en notas de reparos y, en caso de subsistir la discrepancia, mediante la interposición de los recursos o de las reclamaciones que procedan.
+
+##### Artículo 100. Suspensión del expediente.
+
+1\. Si los reparos afectan a la autorización y disposición de gastos, al reconocimiento de obligaciones o al ordenamiento de pagos, se originará la suspensión de la tramitación del expediente, hasta que aquéllos no sean subsanados en los siguientes casos:
+
+a) Cuando se basen en la insuficiencia o inadecuación del crédito al que se proponga imputar el gasto, la obligación o el pago.
+
+b) Cuando se aprecien graves irregularidades en la documentación justificativa de las órdenes de pago o no se acredite suficientemente el derecho del perceptor.
+
+c) Cuando el gasto se proponga a un órgano que carezca de competencia para su aprobación.
+
+d) Cuando se omitan en el expediente requisitos o trámites que se consideren esenciales a juicio de la Intervención o cuando ésta estime que la continuación del procedimiento pudiese causar quiebras económicas a la Comunidad Autónoma o a un tercero.
+
+e) Cuando el reparo sea consecuencia de comprobaciones de materiales de obras, suministros, adquisiciones y servicios.
+
+2\. La Intervención podrá fiscalizar favorablemente, a pesar de los defectos que se observen en el expediente, siempre que los requisitos o los trámites incumplidos no sean esenciales.
+
+En estos supuestos la eficacia de la fiscalización quedará condicionada a la reparación de aquellos defectos con anterioridad a la aprobación del expediente. El órgano gestor remitirá a la Intervención la documentación justificativa de que se repararon dichos defectos.
+
+De no reparar el órgano gestor los defectos indicados, para la continuación del expediente se considerará formulado el correspondiente reparo.
+
+Lo previsto en este número no será aplicable en aquellos supuestos en los que la fiscalización previa se realice de forma limitada, de conformidad con lo dispuesto en el número 2 del artículo 97 de la presente Ley.
+
+##### Artículo 101. Discrepancia.
+
+1\. Cuando el órgano al que se dirija el reparo lo acepte, deberá reparar las deficiencias observadas y remitir de nuevo las actuaciones a la Intervención.
+
+2\. Cuando el órgano gestor no acepte el reparo deducido, formulará discrepancia, que deberá ser motivada con citas de los preceptos legales en los que sustente su criterio.
+
+La discrepancia se resolverá de la siguiente forma:
+
+a) Si el reparo fuese formulado por una Intervención Delegada, corresponderá a la Intervención General de la Comunidad conocer de la discrepancia y su resolución será obligada para aquélla.
+
+b) Si el reparo fuese formulado por la Intervención General de la Comunidad o ésta confirmase en todo o en parte el de una Intervención Delegada y subsista la discrepancia, corresponderá a la Junta de Galicia adoptar una resolución definitiva.
+
+##### Artículo 102. Omisiones.
+
+1\. En los supuestos en los que, de acuerdo con lo dispuesto en este capítulo, la fiscalización previa de la aprobación del gasto o del reconocimiento de la obligación fuesen preceptivas y se omitiesen, no se podrá reconocer la obligación, ni tramitar el pago ni intervenir favorablemente estas actuaciones hasta que se conozca o resuelva dicha omisión en los términos previstos en este artículo.
+
+2\. Si el Interventor general de la Comunidad o sus delegados al conocer un expediente observasen alguna de las omisiones indicadas en el número anterior lo manifestarán a la autoridad que iniciase aquél y emitirán al mismo tiempo su opinión respecto de la propuesta, con el fin de que, uniendo este informe a las actuaciones, pueda el titular de la Consejería de que aquélla proceda someter lo actuado a la decisión de la Junta de Galicia para que adopte la resolución a que hubiese lugar.
+
+Este informe, que no tendrá naturaleza de fiscalización, pondrá de manifiesto, como mínimo, los siguientes extremos:
+
+Las infracciones del ordenamiento jurídico que, a juicio del Interventor, se produjeran en el momento en el que se adoptó el acto de aprobación del gasto sin fiscalización o intervención previa.
+
+Las prestaciones que se realizasen como consecuencia de dicho acto.
+
+La posibilidad y conveniencia de revisión de los actos dictados con infracción del ordenamiento.
+
+Los Interventores delegados darán cuenta de su informe a la Intervención General de la Comunidad Autónoma en el momento de su emisión.
+
+3\. Si el titular de la Consejería acordase someter el expediente a la decisión de la Junta de Galicia, lo comunicará al Consejero de Economía y Hacienda, por conducto de la Intervención General de la Comunidad, con diez días de antelación a la reunión del Consejo en el que se conozca el asunto.
+
+Al expediente se unirá una memoria que incluya una explicación de la omisión de la preceptiva fiscalización o intervención previa y, en su caso, las observaciones que estime convenientes respecto del informe de la Intervención.
+
+La Secretaría del Consejo comunicará a la Consejería correspondiente, a la de Economía y Hacienda y a la Intervención General de la Comunidad el acuerdo adoptado sobre el expediente para su toma de razón y cumplimiento en sus propios términos.
+
+#### Sección tercera. Del control financiero
+
+##### Artículo 103. Finalidad y principios.
+
+1\. El control financiero al que se refiere el artículo 94 de la presente Ley tiene por finalidad procurar que la gestión económico-financiera del sector público gallego se adecue a los principios de legalidad, economía, eficacia y eficiencia.
+
+2\. El control financiero se ejercerá con plena autonomía e independencia respecto a las autoridades y entidades de las que se controle su gestión, y podrá realizarse en régimen ordinario o en régimen permanente.
+
+3\. El control financiero se ejercerá mediante la realización de auditorías u otros tipos de control de conformidad con el que se establezca reglamentariamente.
+
+##### Artículo 104. Auditorías y clases.
+
+1\. Las auditorías a que se refiere el artículo anterior consistirán en la comprobación posterior de la actividad económico-financiera del ente controlado, realizada de forma sistemática y mediante la aplicación de determinados procedimientos de revisión a operaciones o actos singulares seleccionados al efecto.
+
+2\. Dichas auditorías, en función de los objetivos y del alcance que para cada control se establezcan, podrán ser de las siguientes clases:
+
+a) Auditoría financiera, que tendrá por objeto la emisión de un dictamen sobre si la información contable del órgano controlado se presenta de acuerdo con los principios, con los criterios y con las normas contables que sean aplicables.
+
+b) Auditoría de cumplimiento, que tiene por objeto determinar si en la gestión de las operaciones que den lugar a derechos y obligaciones de contenido económico, en la gestión de los ingresos y pagos y en la recaudación, custodia, inversión o aplicación en general de los recursos se ha cumplido con la legalidad y con las normas y directrices, internas o externas, que resulten aplicables.
+
+c) Auditoría operativa, cuyo objeto es la evaluación de la eficacia y la eficiencia alcanzadas en la gestión de los recursos públicos adscritos a una entidad para el cumplimiento de sus objetivos. Este sistema de auditoría será el utilizado para la evaluación del grado de cumplimiento de los objetivos físicos y financieros previstos en los programas de gasto.
+
+d) Auditorías de sistemas y procedimientos, cuya finalidad es recomendar y proponer mejoras y modificaciones parciales o generales, en los procedimientos de gestión económico-financiera, sobre la base de las posibles debilidades o disfuncionalidades detectadas en su revisión.
+
+##### Artículo 105. Iniciación y desarrollo.
+
+1\. El control financiero ordinario se iniciará por acuerdo del Interventor general de la Comunidad, quien delimitará la clase y el alcance del control que se va a efectuar, y se desarrollará directamente por medio de funcionarios o equipos de control destacados temporalmente al efecto y dirigido por Interventores dependientes del Interventor general.
+
+2\. El control financiero permanente se realizará de acuerdo con las siguientes características:
+
+a) Lo ejercerá la Intervención General de la Comunidad a través de las Intervenciones Delegadas en los servicios, organismos, sociedades y entes públicos en los que se encuentre establecido este régimen de control, sin perjuicio de las actuaciones de control ordinario que, con carácter excepcional y alcance limitado, pueda realizar directamente el citado centro directivo.
+
+b) Las actuaciones y los trabajos necesarios para su desarrollo se efectuarán de forma permanente y continuada a lo largo de los diferentes ejercicios, y no se requerirá acuerdo expreso de la Intervención General de la Comunidad Autónoma para su iniciación.
+
+c) Dichas actuaciones se realizarán, como regla general, sobre la base del principio de proximidad temporal respecto a la actividad o de los actos objeto de control.
+
+d) La Intervención Delegada encargada del control financiero permanente deberá recibir información permanente, actualizada y detallada de la actividad objeto de control, de sus objetivos y del avance en su cumplimiento, en la forma y con la periodicidad que dicha oficina determina, a fin de tener un conocimiento completo de la misma.
+
+##### Artículo 106. Ámbito de aplicación.
+
+1\. El control financiero permanente será aplicable en los siguientes entes del sector público de Galicia, siempre que, de conformidad con lo dispuesto en el apartado 4 del artículo 94 de esta Ley, no esté establecida la función interventora:
+
+a) Los organismos autónomos de la Comunidad de carácter industrial, comercial, financiero o análogo.
+
+b) El Ente Público Radiotelevisión de Galicia.
+
+c) Las Consejerías, servicios, organismos autónomos de carácter administrativo, sociedades y entes públicos, cualquiera que sea su denominación y forma jurídica, en que así se determine, de conformidad con lo previsto en el punto siguiente.
+
+2\. La aplicación del régimen de control financiero permanente a las Consejerías, servicios, organismos, sociedades y entes en los que actualmente no se encuentre establecido se efectuará:
+
+a) Mediante orden del Consejero de Economía y Hacienda a propuesta de la Intervención General de la Comunidad, en los supuestos de Consejerías, servicios u organismos autónomos en los que ya exista Intervención Delegada.
+
+b) Mediante acuerdo de la Junta a propuesta del Consejero de Economía y Hacienda, en los supuestos de servicios, sociedades o entes públicos en los que no exista Intervención Delegada de la Intervención General de la Comunidad.
+
+3\. La relación de dependencia y las condiciones de funcionamiento de los Interventores delegados en el ejercicio del control financiero permanente serán las mismas que las vigentes para la función interventora.
+
+4\. Para la aplicación de lo dispuesto en este artículo las Intervenciones Delegadas encargadas del control financiero permanente podrán requerir información referida a:
+
+a) Derechos y obligaciones, compras y ventas.
+
+b) Inversiones y otros contratos.
+
+c) Cobros y pagos.
+
+d) Composición y detalle de saldos en contabilidad.
+
+e) Operaciones que se vayan a realizar o en curso de especial significación o importancia.
+
+f) Existencias de fondos, de materiales y de bienes de cualquier naturaleza.
+
+g) Cualquier otro aspecto financiero u organizativo que se considere de interés en atención a las características del ente controlado.
+
+Las Intervenciones Delegadas deberán recibir un ejemplar de las cuentas y de otros estados anuales, así como de los que se elaboren con otra periodicidad, y tendrán acceso directo a los sistemas de información de los que se deriven dichas cuentas y estados.
+
+5\. Si en el ejercicio del control financiero permanente se pusiesen de manifiesto graves irregularidades, se dará cuenta a la Intervención General, proponiendo, en su caso, la sustitución de ese procedimiento de control por el ejercicio de la función interventora.
+
+6\. Los Interventores delegados deberán elaborar para cada ente un plan anual de actuación, que se someterá a la aprobación de la Intervención General de la Comunidad.
+
+Dicho plan contendrá el detalle de las actuaciones que se van a realizar y su calendario de ejecución, así como la periodicidad de los informes y de las fechas previstas de emisión.
+
+Los planes de actuación incluirán, en todo caso, la realización de:
+
+a) Auditoría permanente de cumplimiento.
+
+b) Revisiones de registros y procedimientos contables y de las existencias y de los movimientos de fondos.
+
+c) Auditoría financiera de las cuentas anuales.
+
+d) Auditoría de programas sobre el nivel de realización de objetivos y análisis de las causas de las desviaciones.
+
+Los citados planes incluirán, además, si procede, la realización de otras auditorías operativas, de sistemas y procedimientos u otros tipos de control de los previstos en el artículo 104 de esta Ley, en los casos y con el alcance en los que así se determine.
+
+##### Artículo 107. Plan anual de auditorías.
+
+1\. El control financiero ordinario enmarcará su actuación en un plan anual de auditorías que se debe realizar en cada ejercicio, cuya elaboración corresponde a la Intervención General de la Comunidad.
+
+2\. El plan comprenderá las entidades sobre las que se realizarán controles financieros de carácter ordinario en el ejercicio económico a que se refiera, con indicación, en cada caso, del tipo de control que se debe realizar y del alcance del mismo.
+
+3\. El plan tendrá carácter abierto y podrá ser modificado para la realización de controles específicos, en atención a los medios disponibles y por otras razones debidamente ponderadas.
+
+4\. Para el desarrollo del control financiero ordinario, la Intervención General de la Comunidad podrá solicitar la colaboración de empresas privadas de auditorías, que deberán ajustarse a las normas e instrucciones que determine dicho centro directivo.
+
+Para solicitar dicha colaboración será necesaria una orden del Consejero de Economía y Hacienda, en la que se especificará la insuficiencia de los servicios de la Intervención General de la Comunidad que justifique dicha colaboración.
+
+##### Artículo 108. Resultado e informes.
+
+1\. Del resultado de las actuaciones de control financiero ordinario o permanente se emitirá informe con la estructura, con el procedimiento y con el contenido que reglamentariamente se determine.
+
+2\. Los informes derivados de las actuaciones de control financiero ordinario se elevarán a la Intervención General de la Comunidad para su remisión al Consejero de Economía y Hacienda y a los órganos responsables y de tutela de los servicios u organismos controlados.
+
+3\. Los informes que tengan su origen en actuaciones de control financiero permanente se remitirán al titular de la gestión y, además, a la Intervención General de la Comunidad cuando éstos tengan un carácter general o hayan sido realizados por alguna circunstancia especial.
+
+### CAPÍTULO II — De la contabilidad
+
+##### Artículo 109. Régimen.
+
+1\. La Administración de la Comunidad Autónoma, de sus organismos autónomos y de las sociedades públicas de Galicia queda sometida al régimen de contabilidad pública en los términos previstos en esta Ley.
+
+2\. La sujeción al régimen de contabilidad pública comporta la obligación de rendir cuentas de las respectivas operaciones y transacciones económicas, cualquiera que sea su naturaleza, al Tribunal de Cuentas y al Consejo de Cuentas de Galicia.
+
+3\. Lo dispuesto en el párrafo anterior es aplicable al empleo de los fondos a justificar y al de las transferencias corrientes y de capital con cargo a los Presupuestos Generales de la Comunidad Autónoma, cualquiera que sea el perceptor de las mismas.
+
+4\. Las obligaciones que se determinen en el presente artículo se entenderán sin perjuicio de las facultades que la Constitución le confiere al Tribunal de Cuentas.
+
+##### Artículo 110. Competencias de la Consejería de Economía y Hacienda.
+
+Es competencia de la Consejería de Economía y Hacienda la organización de la contabilidad pública al servicio de los siguientes fines:
+
+a) Registrar la ejecución de los Presupuestos Generales de la Comunidad en sus distintas fases.
+
+b) Conocer el movimiento y la situación de la Tesorería.
+
+c) Reflejar las variaciones, la composición y la situación del patrimonio de la Comunidad y del inventario de bienes afectados a los fines de los organismos autónomos y de las sociedades públicas.
+
+d) Proporcionar los datos necesarios para la formación y el rendimiento de la Cuenta General de la Comunidad, así como de las demás cuentas, estados y documentos que deban elaborarse o remitirse al Consejo de Cuentas de Galicia y al Tribunal de Cuentas.
+
+e) Facilitar los datos y otros antecedentes necesarios para la confección de las cuentas económicas del sector público estatal.
+
+f) Rendir la información económica y financiera que sea necesaria para la toma de decisiones tanto en el orden político como en el de gestión.
+
+##### Artículo 111. Funciones de la Intervención General como centro directivo.
+
+La Intervención General de la Comunidad Autónoma es el centro directivo de la contabilidad pública de Galicia y le corresponden las siguientes funciones:
+
+a) Someter a la decisión del Consejero de Economía y Hacienda el Plan de Contabilidad Pública de Galicia, al que se adaptarán los organismos, las corporaciones y las demás entidades comprendidas en el sector público de Galicia, manteniendo la debida coordinación con el Plan General de Contabilidad Pública.
+
+b) Promover el ejercicio de la potestad reglamentaria en lo tocante a la determinación de la estructura, justificación, tramitación y rendimiento de cuentas, informes y demás documentos relativos a la contabilidad pública, pudiendo dictar al efecto circulares e instrucciones por los procedimientos que se determinen en las Leyes y en los Reglamentos.
+
+c) Aprobar los planes parciales o especiales de contabilidad pública que se elaboren conforme al Plan de Contabilidad Pública de Galicia, o al Plan General de Contabilidad del Sector Privado, respecto a las sociedades públicas.
+
+d) Inspeccionar la contabilidad de toda clase de organismos públicos de la Comunidad Autónoma.
+
+##### Artículo 112. Funciones como centro gestor.
+
+1\. Como centro gestor de la contabilidad pública, corresponde a la Intervención General:
+
+a) Formar la Cuenta General de la Comunidad Autónoma y elaborar la memoria que acompaña a la misma.
+
+b) Preparar y examinar las cuentas que se deban rendir al Consejo de Cuentas de Galicia y al Tribunal de Cuentas, y formular las observaciones que, en su caso, se estimen necesarias.
+
+c) Solicitar la presentación de cuentas, estados y otros documentos sujetos a examen crítico.
+
+d) Centralizar la información deducida de la contabilidad de las corporaciones, organismos, entidades y demás agentes que integran el sector público de Galicia.
+
+e) Elaborar las cuentas económicas del sector público de Galicia, de acuerdo con el sistema de cuentas en vigor para todo el Estado.
+
+f) Vigilar e impulsar las actividades de las oficinas de contabilidad de todos los organismos y servicios de la Comunidad.
+
+2\. Todos los informes y dictámenes económico-contables que deban evacuar las entidades sometidas al régimen de contabilidad pública deberán ser solicitados a través de la Intervención General de la Comunidad Autónoma.
+
+3\. A los efectos previstos en este artículo, el rendimiento de toda clase de cuentas por los procedimientos ordinarios se deberá realizar a través de la Intervención General.
+
+##### Artículo 113. Soporte documental.
+
+La contabilidad pública se llevará en libros, registros y cuentas, según los procedimientos técnicos establecidos que sean más convenientes por la índole de las operaciones y de las situaciones que en ellos deban anotarse, sin perjuicio de que las sociedades públicas se ajusten a las disposiciones del Código de Comercio, a las que se dicten en su desarrollo y al Plan General de Contabilidad vigente para las empresas españolas.
+
+##### Artículo 114. Cuentadantes.
+
+Serán cuentadantes de las cuentas que tengan que rendirse al Consejo de Cuentas de Galicia y, en su caso, al Tribunal de Cuentas:
+
+a) Los funcionarios que tengan a su cargo la gestión de los ingresos y la realización de los gastos, así como las demás operaciones de la Administración de la Comunidad.
+
+b) Los Presidentes o Directores de los organismos autónomos, sociedades públicas y demás entes que conforman el sector público de Galicia.
+
+c) Los particulares que, excepcionalmente, administren, recauden o custodien fondos o valores de la Comunidad, sin perjuicio de que sean intervenidas las respectivas operaciones.
+
+d) Los perceptores de las transferencias a que se refieren los artículos 78 y 109.3 de esta Ley.
+
+##### Artículo 115. Forma y plazos.
+
+Las cuentas y la documentación que se les deban rendir al Consejo de Cuentas de Galicia y al Tribunal de Cuentas se formarán y se cerrarán por períodos trimestrales, excepto las correspondientes a los organismos autónomos, sociedades públicas y demás entes que conforman el sector público de Galicia, que lo serán anualmente.
+
+##### Artículo 116. Sociedades públicas, entes y organismos.
+
+La contabilidad pública de las sociedades públicas, entes y organismos queda sometida a la verificación ordinaria y extraordinaria a cargo de los funcionarios dependientes del Interventor general de la Comunidad y de los que, en su caso, designe el Tribunal de Cuentas o el Consejo de Cuentas.
+
+##### Artículo 117. Publicidad e información.
+
+1\. La Consejería de Economía y Hacienda publicará en el «Diario Oficial de Galicia» los siguientes datos trimestrales:
+
+a) Del movimiento del tesoro por operaciones presupuestarias y extrapresupuestarias, y de su situación.
+
+b) De las operaciones de ejecución del Presupuesto de la Comunidad Autónoma y de sus modificaciones.
+
+c) De las demás que se consideren de interés.
+
+2\. Los organismos autónomos, las entidades públicas y las sociedades mercantiles con participación mayoritaria de la Junta remitirán trimestralmente a la Consejería de Economía y Hacienda un estado de su situación financiera, de acuerdo con la estructura que ésta determine.
+
+3\. Trimestralmente, el Consejero de Economía y Hacienda dará cuenta a la Comisión 3.ª de Economía, Hacienda y Presupuestos, del estado de ejecución presupuestaria.
+
+### CAPÍTULO III — De la Cuenta General de la Comunidad
+
+##### Artículo 118. Estructura.
+
+1\. La Cuenta General de la Comunidad Autónoma comprenderá todas las operaciones presupuestarias, patrimoniales y de tesorería llevadas a cabo durante el ejercicio por todas las entidades incluidas en las leyes de presupuestos de la Comunidad Autónoma de cada ejercicio.
+
+2\. La Cuenta General de la Comunidad Autónoma constará de los siguientes documentos:
+
+a) Cuenta de la Administración general de la Comunidad Autónoma.
+
+b) Cuenta de las entidades en régimen de presupuesto limitativo.
+
+c) Cuenta de las entidades en régimen de presupuesto estimativo.
+
+> Se modifica por el art. 9.1 de la Ley 7/2019, de 23 de diciembre. [Ref. BOE-A-2020-1849](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1849)
+
+##### Artículo 119. Contenido.
+
+1\. La Cuenta de la Administración general de la Comunidad Autónoma se formará con base en los estados y documentos que determine la consejería competente en materia de hacienda.
+
+Como mínimo, deberán figurar en la Cuenta de la Administración general de la Comunidad Autónoma los siguientes documentos:
+
+a) La liquidación del presupuesto, especificando los créditos iniciales y sus modificaciones, así como la liquidación de los estados de ingresos y gastos en sus distintas fases de gestión presupuestaria.
+
+b) Un estado demostrativo de los compromisos de gastos adquiridos con cargo a ejercicios futuros, haciendo uso de lo dispuesto en el artículo 58.
+
+c) Un estado demostrativo de la evolución y situación de los derechos que se deben cobrar y de las obligaciones que se deben pagar procedentes de ejercicios anteriores.
+
+d) Un estado demostrativo de la situación de la tesorería y de las operaciones realizadas durante el ejercicio.
+
+e) Un estado demostrativo del endeudamiento público.
+
+f) El resultado del ejercicio económico, que recogerá la determinación del superávit, el déficit o nivelación de la liquidación del presupuesto, el remanente de tesorería resultante y la variación de los activos y pasivos financieros.
+
+2\. La Cuenta de las entidades en régimen de presupuesto limitativo se formará con base en los estados y documentos que determine la consejería competente en materia de hacienda.
+
+Como mínimo, deberán figurar en la cuenta de las entidades en régimen de presupuesto limitativo los siguientes documentos:
+
+a) Las cuentas anuales de todas las entidades en régimen de presupuesto limitativo incluidas en la Ley de presupuestos de la Comunidad Autónoma para cada ejercicio, según lo regulado en el plan de contabilidad que les sea de aplicación.
+
+b) La liquidación del presupuesto, especificando los créditos iniciales y sus modificaciones, así como la liquidación de los estados de ingresos y gastos en sus distintas fases de gestión presupuestaria.
+
+c) Un estado demostrativo de los compromisos de gastos adquiridos con cargo a ejercicios futuros, haciendo uso de lo dispuesto en el artículo 58.
+
+d) Un estado demostrativo de la evolución y situación de los derechos que se deben cobrar y de las obligaciones que se deben pagar procedentes de ejercicios anteriores.
+
+e) Un estado demostrativo de la situación de la tesorería y las operaciones realizadas durante el ejercicio.
+
+f) El resultado del ejercicio económico, que recogerá la determinación del superávit, el déficit o nivelación de la liquidación del presupuesto, el remanente de tesorería resultante y la variación de los activos y pasivos financieros.
+
+3\. La Cuenta de las entidades en régimen de presupuesto estimativo se formará con base en los estados y documentos que determine la consejería competente en materia de hacienda.
+
+Como mínimo, deberán figurar en la cuenta de las entidades en régimen de presupuesto estimativo las cuentas anuales de todas las entidades en régimen de presupuesto estimativo incluidas en la Ley de presupuestos de la Comunidad Autónoma para cada ejercicio, según lo dispuesto en el plan de contabilidad que les sea de aplicación.
+
+4\. La consejería competente en materia de hacienda establecerá la estructura y el contenido de las cuentas y estados a que se hace referencia en este artículo, así como de las demás cuentas que deban rendir las entidades del sector público de la Comunidad Autónoma de Galicia.
+
+> Se modifica por el art. 9.2 de la Ley 7/2019, de 23 de diciembre. [Ref. BOE-A-2020-1849](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1849)
+
+##### Artículo 120. Información complementaria.
+
+1\. La Cuenta General de la Comunidad Autónoma irá acompañada de una memoria explicativa de las principales magnitudes en la que se proporcione una visión global del conjunto del sector público de la Comunidad Autónoma. En todo caso, se incluirá información relativa al movimiento y situación de los avales o préstamos concedidos.
+
+La consejería competente en materia de hacienda establecerá la estructura y el contenido de la memoria a que se refiere este artículo.
+
+2\. La Intervención General de la Comunidad Autónoma podrá incorporar al expediente relativo a la Cuenta General aquella información complementaria que considere necesaria para mejorar la comprensión de los documentos que forman parte de la Cuenta.
+
+> Se modifica por el art. 9.3 de la Ley 7/2019, de 23 de diciembre. [Ref. BOE-A-2020-1849](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1849)
+
+##### Artículo 121. Revisión y aprobación.
+
+1\. La Cuenta General de la Comunidad Autónoma de cada año se remitirá, previo acuerdo del Consejo de la Xunta de Galicia, al Consejo de Cuentas y al Tribunal de Cuentas, antes del 30 de septiembre del año siguiente al que se refiere.
+
+2\. La Cuenta General de la Comunidad Autónoma deberá ser aprobada por el Parlamento de Galicia a efectos de dar cumplimiento a lo dispuesto en el apartado b) del artículo 10 del Estatuto de Autonomía.
+
+> Se modifica el apartado 1 por el art. 2 de la Ley 8/2015, de 7 de agosto. [Ref. BOE-A-2015-10234](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10234).
+
+## TÍTULO VI — De las responsabilidades
+
+##### Artículo 122. Sujetos responsables.
+
+1\. Las autoridades, los funcionarios y los empleados de la Comunidad Autónoma en cualquiera de sus servicios, organismos autónomos, entes públicos o sociedades públicas que, por dolo, culpa o negligencia adopten resoluciones, ejecuten acciones o incurran en omisiones con infracción de las disposiciones de esta Ley, estarán obligados a indemnizar a la Hacienda de la Comunidad por los daños y perjuicios que sean consecuencia de aquéllos, con independencia de la responsabilidad penal o disciplinaria que les pueda corresponder.
+
+2\. Estarán sujetos a la obligación de indemnizar a la Hacienda de la Comunidad, además de las autoridades, de los funcionarios y de los empleados a los que se hace referencia en el número 1 anterior, los Interventores, Tesoreros y ordenadores de pagos que, con dolo, culpa, negligencia o ignorancia inexcusable, no salvasen su actuación en el correspondiente expediente mediante observación escrita acerca de la improcedencia o ilegalidad del acto o resolución.
+
+Ello dejando a salvo lo dispuesto en el artículo 76.3 de la presente Ley.
+
+3\. La responsabilidad de quien participe en la resolución o en el acto será mancomunada, excepto cuando concurra dolo, en el que será solidaria.
+
+##### Artículo 123. Tipificación de las infracciones.
+
+Constituyen infracciones que dan origen a la obligación de indemnizar según determina el artículo anterior:
+
+a) Incurrir en el alcance o malversación en la administración de fondos de la Comunidad.
+
+b) Administrar los recursos y demás derechos de la Hacienda de la Comunidad incumpliendo las normas reguladoras de su gestión, liquidación, inspección, recaudación o ingreso en las cajas de la Tesorería.
+
+c) Comprometer gastos y ordenar pagos sin crédito suficiente o infringiendo de otro modo las disposiciones legales aplicables a la ejecución y gestión de los presupuestos y de las operaciones de Tesorería.
+
+d) Dar lugar a pagos indebidos al liquidar las obligaciones o al expedir documentos en virtud de las funciones que se tengan encomendadas.
+
+e) No rendir cuentas reglamentarias exigidas o presentadas con graves defectos.
+
+f) No justificar la aplicación de los fondos a que se refiere el artículo 77 de esta Ley.
+
+g) Cualquier otro acto o resolución dictada con infracción de lo dispuesto en la presente Ley o de la normativa aplicable a la gestión y administración del patrimonio.
+
+##### Artículo 124. Instrucción y resolución.
+
+1\. Sin perjuicio de las competencias y del conocimiento de los hechos por parte del Consejo de Cuentas de Galicia y del Tribunal de Cuentas, la responsabilidad por los actos, omisiones y resoluciones tipificados en el artículo anterior será determinada y exigida mediante expediente administrativo instruido al interesado.
+
+2\. El acuerdo de incoación, el nombramiento de Juez instructor y la resolución del expediente corresponderán a la Junta cuando se trate de personas que, de conformidad con el ordenamiento vigente, tengan la condición de autoridad y al Consejero de Economía y Hacienda en los demás casos.
+
+3\. En la tramitación del expediente se dará audiencia a los interesados y su resolución contendrá el pronunciamiento sobre los daños y perjuicios causados a los bienes y derechos de la Hacienda de la Comunidad, imponiéndoles a los responsables la obligación de indemnizar en la cuantía y en el plazo que se determine.
+
+##### Artículo 125. Ejecución.
+
+1\. Los daños y perjuicios declarados en la resolución del expediente a que se refiere el artículo anterior tendrán la consideración de derechos de la Hacienda de la Comunidad, gozarán del régimen previsto en el artículo 19 de esta Ley y podrá procederse a su cobro, en su caso, por la vía de apremio.
+
+2\. La Hacienda de la Comunidad tendrá derecho a exigir el interés previsto en el artículo 21 de la presente Ley sobre el importe de los alcances, malversaciones, daños y perjuicios a sus bienes y derechos, desde el día en el que éstos se hubiesen causado.
+
+3\. Cuando, a consecuencia de la insolvencia de los obligados que deben indemnizar, haya que proceder contra los responsables subsidiarios declarados como tales en el expediente, los intereses a que hace referencia el punto anterior serán exigidos desde la fecha en la que fuesen requeridos para realizar el pago.
+
+##### Artículo 126. Diligencias previas.
+
+Tan pronto como se tenga noticia de un alcance, malversación, daño o perjuicio a la Hacienda de la Comunidad, o transcurriesen los plazos señalados en el artículo 77 de la presente Ley sin que se justificasen las órdenes de pago a las que el mismo se refiere, los superiores jerárquicos de los presuntos responsables y los ordenadores de pagos, respectivamente, instruirán las diligencias previas oportunas y adoptarán, con igual carácter, las medidas necesarias para asegurar los derechos de la Hacienda de la Comunidad, dando cuenta inmediata al Consejo de Cuentas de Galicia, al Consejero de Economía y Hacienda y, en su caso, al Tribunal de Cuentas, para que procedan de acuerdo con sus competencias y conforme a los procedimientos establecidos.
+
+##### Disposición adicional primera. Definición de empresa pública.
+
+A los efectos de esta Ley, la definición que en la normativa autonómica se hace de la empresa pública se entenderá referida, en lo sucesivo, a las sociedades públicas establecidas en ésta.
+
+##### Disposición adicional segunda. Rendición de cuentas al Parlamento.
+
+La Consejería de Economía y Hacienda, dentro de los primeros quince días hábiles de cada mes, dará cuenta a la Comisión de Economía, Hacienda y Presupuestos de todas las modificaciones que se realicen de acuerdo con lo previsto en esta Ley.
+
+##### Disposición adicional tercera. Vigencia del artículo 23, apartado 2.
+
+El apartado 2 del artículo 23 de esta Ley, en la redacción dada por el artículo 8 de la Ley 7/1998, de 30 de diciembre, de Medidas Tributarias, de Régimen Presupuestario, Función Pública y Gestión («Diario Oficial de Galicia» del 31, corrección de errores en el «Diario Oficial de Galicia» de 12 de febrero de 1999), tendrá la vigencia determinada en la disposición final primera de esa Ley, sin perjuicio de la que establezcan Leyes futuras.
+
+##### Disposición adicional cuarta. Fundaciones del sector público.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 25 de septiembre de 2007, por la disposición derogatoria única.2.a) de la Ley 9/2007, de 13 de junio. [Ref. BOE-A-2007-13828](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13828).
+
+> Se añade por el art. 14 de la Ley 14/2004, de 29 de diciembre. [Ref. BOE-A-2005-1722](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1722).
+
+##### Disposición adicional quinta. Agencias públicas autonómicas.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria.1 de la Ley 16/2010, de 17 de diciembre. [Ref. BOE-A-2011-2544](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2544).
+
+> Se añade por la disposición final 1 de la Ley 16/2007, de 26 de diciembre. [Ref. BOE-A-2008-2988](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-2988).
+
+> Redactado conforme a la corrección de errores publicada en el DOGA núm. 43, de 29 de febrero de 2008.
+
+##### Disposición derogatoria única.
+
+Quedan derogadas las Leyes que se citan en las tablas adjuntas y cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta Ley.
+
+1\. En virtud de su incorporación al texto refundido de la Ley de Régimen Financiero y Presupuestario de Galicia, quedan derogadas las siguientes normas:
+
+Ley 11/1992, de 7 de octubre, de Régimen Financiero y Presupuestario de Galicia.
+
+Disposición adicional tercera de la Ley 14/1992, de 29 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Galicia para 1993.
+
+Artículos 8, 23, 38, 39 y 40 de la Ley 1/1994, de 30 de marzo, de Presupuestos Generales de la Comunidad Autónoma de Galicia para 1994.
+
+Disposiciones adicionales novena, décima y undécima de la Ley 11/1995, de 28 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Galicia para 1996.
+
+Artículos 4 y 5 de la Ley 2/1998, de 8 de abril, de Medidas Tributarias, de Régimen Presupuestario, Función Pública, Patrimonio, Organización y Gestión.
+
+Artículos 3, 4, 5, 6 y 8 de la Ley 7/1998, de 30 de diciembre, de Medidas Tributarias, de Régimen Presupuestario, Función Pública y Gestión.
+
+2\. En virtud de lo establecido en la disposición derogatoria de la Ley 11/1992, de 7 de octubre, de Régimen Financiero y Presupuestario de Galicia, está derogada la Ley 30/1984, de 3 de abril, de Gestión Económica y Financiera Pública de Galicia.

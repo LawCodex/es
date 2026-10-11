@@ -1,0 +1,6433 @@
+---
+title: "Real Decreto 1211/1990, de 28 de septiembre, por el que se aprueba el Reglamento de la Ley de Ordenación de los Transportes Terrestres"
+identifier: "BOE-A-1990-24442"
+eli: "https://www.boe.es/eli/es/rd/1990/09/28/1211"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Transportes, Turismo y Comunicaciones"
+date: 1990-09-28
+published: 1990-10-08
+in_force_from: 1990-10-28
+last_amended: 2026-06-10
+consolidated: 2026-06-12
+gazette: "Boletín Oficial del Estado núm. 241"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-24442"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1211/1990, de 28 de septiembre, por el que se aprueba el Reglamento de la Ley de Ordenación de los Transportes Terrestres
+
+La Ley de Ordenación de los Transportes Terrestres, de 30 de julio de 1987 (LOTT), implicó una profundísima transformación en cuanto a la filosofía y los principios de ordenación del transporte terrestre anteriormente vigentes, lo cual significa que las soluciones concretas a los distintos problemas de transporte terrestre que con anterioridad a la citada Ley se contenían a nivel reglamentario deban sufrir asimismo cambios muy importantes. A tal fin, en el presente Reglamento se lleva a cabo la concreción de los principios y reglas contenidas en la LOTT realizándose una masiva derogación (que afecta a 182 Decretos y a 576 Órdenes) de las anteriores normas reglamentarias.
+
+En la redacción del Reglamento no se ha seguido de forma absolutamente fiel la estructura formal de la Ley desarrollada: ello se debe, fundamentalmente, a tres razones: A que existen preceptos legales susceptibles de consideración individualizada que no resultaba necesario desarrollar y que, por tanto, no se incluyen en el Reglamento; a que se ha estimado conveniente en ocasiones agrupar cuestiones que, si bien se trataban en la Ley separadamente, deben tener una regulación reglamentaria homogénea; y, por último, a que el desarrollo que el Reglamento hace de determinados temas reclama, en ocasiones, una estructuración diferente.
+
+Se ha pretendido que el Reglamento tenga, sin perjuicio de su carácter ejecutivo de la Ley, una sustantividad propia, realizando el tratamiento de las distintas cuestiones de forma completa y comprensible por sí misma; por ello, si bien no se repiten, según se ha dicho, preceptos de la Ley que no era preciso desarrollar y que no eran necesarios para la adecuada comprensión de los temas tratados, sí se incluyen preceptos tomados de la Ley que resultan necesarios para dar una visión global de las materias reguladas.
+
+El título I del Reglamento comienza por la determinación de las reglas correspondientes a la aplicabilidad del mismo, estableciéndose al efecto que dicha aplicabilidad será en todo caso directa cuando se trate de transportes de competencia estatal, aunque las funciones ejecutivas sobre las mismas hayan sido delegadas a las Comunidades Autónomas. Es de advertir que las regulaciones que se contienen a lo largo del articulado han de entenderse referidas primariamente a transportes de competencia estatal, por lo que, salvo en algún caso excepcional, justificado por razones concretas, las referencias orgánicas se realizan a órganos de la Administración del Estado, sin perjuicio de la aplicación, en principio supletoria, pero en algunos casos –como, por ejemplo, en los relativos a la legislación mercantil o las condiciones de obtención de títulos profesionales o a cuestiones que hayan de considerarse como materias básicas reservadas constitucionalmente a la competencia estatal (tales como la configuración básica del régimen concesional)– directa, a los transportes sobre los que ostenten competencia las Comunidades Autónomas; todo ello de acuerdo con el propósito expresado en el preámbulo de la LOTT de constituir en cuanto ello resulte posible, un marco normativo homogéneo para el sistema común de transporte terrestre.
+
+Lógicamente, en su aplicación a estos transportes de competencia autonómica (o local), las disposiciones del Reglamento han de interpretarse, en todo cuanto al ejercicio de las competencias administrativas se refiere, alusivas a los órganos que ejerzan las mismas en el ámbito que les es propio.
+
+Se contienen asimismo en el título I, relativo a las disposiciones comunes a los distintos modos de transportes, preceptos referidos al cumplimiento del contrato de transportes, incluyéndose dentro de los mismos reglas sobre limitación de responsabilidad, carga y descarga, seguros, contratos-tipo y Juntas Arbitrales, atribuyéndose a estas últimas no sólo funciones de arbitraje, para las cuales se regula un procedimiento sumario, sino otras referentes a la información sobre condiciones de cumplimiento de los contratos y depósito, subasta y peritación de las mercancías. Se trata en estos preceptos, fundamentalmente de, respetando las normas del Código de Comercio, establecer las reglas complementarias necesarias para la solución de los problemas propios del contrato de transportes en la época actual.
+
+Se regula igualmente en este título la inspección del transporte terrestre, estableciendo las reglas organizativas y de actuación que posibiliten la eficacia de la misma en su labor de garantizar el respeto a la normativa reguladora del transporte. Dentro de dichas reglas merecen destacarse las relativas a la obligación de colaborar con la inspección, a las facultades de sus miembros y a la colaboración específica con la misma de un número determinado de Agentes de la Agrupación de Tráfico de la Guardia Civil.
+
+También se incluyen en el título I las reglas sobre la tramitación, aprobación y efectos de los planes de transporte, dando en ellas una importante participación a las Comunidades Autónomas; las relativas al transporte realizado sucesivamente por varias Empresas distintas, las que se refieren al régimen tarifario de los distintos tipos de transporte y actividades auxiliares y complementarias de éste: las que tratan de la participación de las asociaciones de cargadores y usuarios en las funciones administrativas, y las relativas al Consejo Nacional de Transportes Terrestres, cuya composición se estructura mediante la participación en el mismo de representantes de los cargadores, de los transportistas y de los demás sectores afectados.
+
+En el título II, en el cual se contienen las disposiciones comunes a los distintos tipos de transporte por carretera y a las actividades auxiliares y complementarias de éste, se incluyen, en primer lugar, las reglas sobre las condiciones previas de carácter personal para el ejercicio de las actividades de transporte, entre las que son de destacar las relativas a la capacitación profesional, la honorabilidad y la capacidad económica, habiéndose realizado una regulación de las mismas que recoge las últimas prescripciones de la Comunidad Económica Europea sobre la materia.
+
+En la regulación general que se lleva a cabo de los títulos administrativos habilitantes (autorizaciones y concesiones) para la realización del transporte por carretera y de las actividades auxiliares y complementarias de éste, se prevén las excepciones a la regla general de disponer de los mismos, las cuales están fundamentalmente referidas al transporte realizado en vehículos de pequeña capacidad.
+
+Se realiza, también en este título, una definición de los distintos tipos de vehículos utilizados para el transporte y se establecen reglas relativas al Registro General de Transportistas, a las fianzas y a la obligatoriedad de realizar el transporte con medios propios, previniéndose, no obstante, la posibilidad de utilizar la colaboración de otros transportistas con determinadas condiciones y limitaciones.
+
+La regulación que se realiza de Cooperativas y Sociedades de comercialización va dirigida a facilitar el establecimiento de las mismas como instrumento efectivo para paliar los problemas de comercialización que fundamentalmente las pequeñas y medianas Empresas tienen, al mismo tiempo que a través de determinadas exigencias se posibilita un funcionamiento adecuado de las mismas.
+
+Por último, se regula en el título II la colaboración de las asociaciones de transportistas con la Administración, estableciendo las reglas de organización y funcionamiento del Comité Nacional del Transporte por Carretera, integrado por las asociaciones de transportistas por carretera y de actividades auxiliares y complementarias del mismo en función de su respectiva representatividad, de acuerdo con las reglas que el Reglamento concreta.
+
+En el título III, relativo a los transportes regulares de viajeros por carretera, Se concretan las reglas para realizar el establecimiento de los mismos sobre la base de la exclusividad en la prestación, así como para realizar los concursos de adjudicación de las concesiones de su explotación que garanticen la concurrencia de las ofertas y la selección entre éstas de la más favorable para el interés público.
+
+Por lo que se refiere a la explotación de los servicios, se flexibilizan las reglas sobre la misma, si bien la Administración conserva siempre un control que garantiza que los intereses de los usuarios no resulten perjudicados.
+
+Se establecen previsiones sobre inclusión de nuevos tráficos en las concesiones y sobre prestación de servicios correspondientes a varias concesiones con un mismo vehículo sin solución de continuidad, si bien se subordina la preceptiva autorización administrativa de dichas situaciones a que quede debidamente justificado en el expediente la improcedencia del establecimiento de un servicio independiente.
+
+Se contemplan distintas modalidades de régimen tarifario, previniéndose la posibilidad de facturar la prestación de servicios complementarios al transporte y la compensación de las obligaciones de servicio público que sean impuestas a los concesionarios. Por otra parte, se establecen las reglas para realizar la unificación de concesiones y se prevén los supuestos de extinción y caducidad de las mismas, estableciendo el procedimiento para declarar esta última.
+
+En la regulación que se realiza de las concesiones zonales se exige el respeto de los derechos de los titulares de los servicios lineales que hayan de incorporarse a las mismas, y en cuanto a los servicios de baja utilización y rentabilidad, se establece un régimen específico, concretándose las previsiones legales sobre su forma de adjudicación y explotación.
+
+Respecto a los servicios regulares temporales, se establece su forma de adjudicación, previendo, en determinados supuestos, una situación de preferencia para los titulares de concesiones de servicios permanentes coincidentes, y determinando unas reglas de explotación, en general, análogas a las de los servicios regulares permanentes.
+
+Por lo que, se refiere a los servicios regulares de uso especial (de escolares y obreros, especialmente), se establecen los criterios concretos de distinción con los servicios de uso general estableciendo a tal efecto la conceptuación de los mismos de tal forma que se garantice la especificidad de los usuarios. En cuanto a la autorización para su prestación, se sigue con carácter general el criterio de autorizar a la Empresa escogida por los usuarios o sus representantes, si bien en determinados casos de coincidencia absoluta con servicios regulares de uso general o de coincidencia parcial si median circunstancias especiales, se prevé la preferencia de los titulares de los referidos servicios de uso general, estableciendo las reglas para ejercerla.
+
+En el título IV, referido a los transportes discrecionales y a distintos tipos de transportes específicos, se determinan los criterios de otorgamiento de las autorizaciones de transporte discrecional, las cuales podrán ser de ámbito nacional o local, teniendo estas últimas un radio de 100 kilómetros desde el lugar donde estén domiciliadas.
+
+En los referidos criterios de otorgamiento de autorizaciones se prevé: que no existan limitaciones cuantitativas al otorgamiento de autorizaciones de transporte de mercancías ni de viajeros, de ámbito local, ni tampoco al de autorizaciones de transporte de mercancías de ámbito nacional en vehículos ligeros; por el contrario, en relación con las autorizaciones de ámbito nacional de mercancías en vehículos pesados y de viajeros en autobús, se prevé el establecimiento de cupos o contingentes, determinados de acuerdo con parámetros objetivos, y se establecen las reglas básicas para la distribución de los mismos.
+
+Se señalan también en este título las reglas sobre disponibilidad de vehículos y sustitución de los mismos, así como las relativa la transmisión de autorizaciones, siendo novedosa en este último aspecto la previsión de que no sea obligatoria la transferencia del vehículo para realizar la de la autorización: también se concretan los criterios de aplicabilidad de tarifas y los límites máximos a la utilización de la colaboración de otros transportistas.
+
+En cuanto a los transportes discrecionales de viajeros, se prevé además, la regla de obligatoriedad de la contratación global de la capacidad total del vehículo, si bien se contemplan excepciones en los casos especiales y tasados que se especifican.
+
+Por lo que se refiere al transporte de viajeros en automóviles de turismo (taxis), se determinan las reglas de coordinación del otorgamiento de la correspondiente licencia municipal de transporte urbano y la autorización de transporte interurbano, a fin de que, salvo casos excepcionales, los taxistas dispongan de ambas, remitiendo a sus reglas específicas los criterios de otorgamiento de las licencias municipales. Se prevé, por otra parte, la existencia de áreas de prestación conjunta del servicio del taxi que engloben varios municipios, existiendo una licencia única.
+
+En cuanto a los transportes turísticos, se posibilita su prestación incluso con reiteración de itinerario y calendario, pero se establecen requisitos concretos que los mismos deben cumplir a fin de garantizar su efectivo carácter turístico y la no realización de competencia improcedente a las líneas regulares de viajeros de uso general.
+
+Respecto al transporte sanitario se establecen, a fin de garantizar los derechos de los usuarios, las condiciones generales que deben cumplir las Empresas que los realicen y los vehículos con los que se lleve a cabo, remitiendo a un desarrollo posterior la concreción pormenorizada de los requisitos técnico-sanitarios exigidos a dichos vehículos.
+
+El transporte funerario pasa a ser conceptuado como transporte privado complementario de las Empresas de pompas fúnebres, debiendo, por tanto, ser realizado en todo caso por éstas junto con el resto de los servicios que prestan. Se garantiza que dicho transporte pueda finalizar en cualquier lugar del territorio nacional.
+
+Por lo que se refiere al transporte de mercancías peligrosas y al de productos perecederos, se realiza una remisión a sus normas específicas, existiendo respecto a aquél una previsión de excepciones temporales determinadas por el Ministerio de Transportes, Turismo y Comunicaciones a fin de realizar las pruebas previas tendentes a la actualización de dichas normas.
+
+En relación con el transporte urbano, se clarifica el régimen de competencias administrativas en relación con el mismo, previéndose a tal efecto que los municipios deberán respetar en el ejercicio de sus funciones las normas estatales y autonómicas sobre transportes. Se establecen reglas de coordinación de las líneas de transporte de viajeros urbanos e interurbanos, a fin de evitar coincidencias y actuaciones en competencia, disfuncionales. Por otra parte, y en cuanto a los servicios de taxi, se unifican las licencias anteriormente existentes en una categoría única, la de auto-taxis, previéndose que las actuales licencias de clase e) se transformen en autorizaciones de arrendamiento de vehículos con conductor.
+
+Por lo que se refiere al transporte internacional, se prevé la exigencia de una capacitación profesional específica y de la obligatoriedad de inscripción en un registro especial, y se determinan los criterios concretos de otorgamiento y distribución, entre los transportistas españoles, de las autorizaciones de transporte internacional ya correspondan estas a cupos acordados por tratados bilaterales o a cupos correspondientes a organizaciones internacionales o tratados multilaterales.
+
+En cuanto a las líneas regulares de transporte internacional de viajeros, se prevé la subordinación de la adjudicación de su explotación a la conformidad de los Estados extranjeros implicados, contemplándose, en función de la necesidad de lograr dicha conformidad, reglas específicas distintas de las generales correspondientes a las líneas regulares nacionales, las cuales se aplican de forma supletoria.
+
+En cuanto a los transportes privados, la regulación de los mismos se realiza concretando las reglas que habrán de cumplirse en su prestación, las cuales van fundamentalmente dirigidas a garantizar que no se realicen bajo la cobertura de los mismos transportes que en realidad sean públicos.
+
+En el título V, dedicado a las actividades auxiliares y complementarias del transporte por carretera, se realiza una clarificación de la naturaleza de la intervención de las agencias de transporte de mercancías y de los ámbitos material y territorial a los que puede extenderse dicha intervención; se establecen requisitos necesarios para el ejercicio de la actividad de agencia previendo que no existan limitaciones cuantitativas otorgamiento de autorizaciones para el mismo y sí, únicamente, condiciones de carácter cualitativo, distinguiéndose, respecto a éstas, las agencias de carga completa de las de carga fraccionada.
+
+Por lo que se refiere a las agencias de transporte de viajeros cuya actividad, según se establece en la LOTT es realizada por las agencias de viajes reguladas por la normativa de turismo, se contempla asimismo naturaleza de su actuación y el ámbito de ésta en el campo de los transportes, reservándoles la organización y contratación de los servicios turísticos y previendo la forma de control de sus actividades en dicho campo del transporte.
+
+Respeto a los transitarios, se regula su ámbito de intervención –siempre ligado al transporte internacional o a aquel en que exista tránsito aduanero–, y se prevén los requisitos necesarios para la obtención de las correspondientes autorizaciones, que son similares a las de agencia, salvo la posible exigencia de una capacitación profesional distinta y de una fianza que puede ser asimismo diferente.
+
+En relación con los almacenistas-distribuidores, se concreta que el transporte en el que intervienen es sucesivo a un previo contrato de depósito que formalizan con sus clientes, pudiendo realizar la distribución de las mercancías, bien por si mismos actuando como transportistas, bien encomendándoselo a otros y actuando, por tanto, de forma similar a las agencias de transporte.
+
+En relación con las tarifas a aplicar, se establece que agencias y transitarios deberán respetar las tarifas que, en su caso, estén establecidas en los transportes en los que intervengan, tanto en sus relaciones con los cargadores como con los transportistas cuyos servicios utilicen; los precios que los almacenistas-distribuidores perciban de sus clientes serán libres, si bien estarán obligados a pagar a los transportistas cuyos servicios utilicen las tarifas que, en su caso, se hallen establecidas.
+
+En la regulación del arrendamiento de vehículos sin conductor se contemplan tanto los requisitos que deberán cumplir las Empresas arrendadoras para poder ejercer la actividad romo las condiciones que deberán observarse por los transportistas que pretendan utilizar vehículos arrendados, debiendo referirse previamente, como norma general, a dichos vehículos las correspondientes autorizaciones de transporte: se prevé, no obstante, un régimen especial de carácter más flexible para la utilización de vehículos ligeros de mercancías arrendados en el transporte privado complementario, y para la utilización temporal de vehículos arrendados cuando aquellos a los que estuvieran referidas las autorizaciones de transporte se encuentren averiados.
+
+Dentro de la actividad de arrendamiento con conductor se encuadra fundamentalmente la actividad que legalmente venían realizando los vehículos provistos de licencia municipal de la clase C, llamados especiales o de abono, estableciéndose en relación con la misma las reglas precisas para perfilar con nitidez la actividad, realizando su necesaria distinción de los servicios de taxis.
+
+Respecto a las estaciones de transportes de viajeros y de mercancías, se establecen las condiciones que han de reunir y los procedimientos para realizar su construcción y explotación, coordinándose la competencia municipal que expresamente se reconoce sobre las mismas con la posibilidad de control e intervención por parte de las Comunidades Autónomas y, en su caso, del Estado. Como regla general, si bien sujeta a excepciones, se determina que la construcción y/o explotación de las estaciones se realizará mediante concurso.
+
+En cuanto a los Centros de Información y Distribución de Cargas, se distinguen los establecidos por la Administración y los creados por asociaciones de cargadores, agencias, transitarios o almacenistas-distribuidores. Se prevé que, en todo caso, los Centros hayan de contar con un Reglamento de funcionamiento que determine el régimen de admisión, información y distribución de las cargas, y que al trence de los mismos exista una Junta Rectora que establezca las líneas básicas de su actuación.
+
+En el título VI, relativo al régimen sancionador y de control, se especifican las conductas comprendidas en cada uno de los distintos tipos infractores relacionados en la LOTT como muy graves, graves y leves se establecen asimismo las condiciones esenciales de las concesiones y autorizaciones administrativas de los distintos tipos de transporte y de actividades auxiliares y complementarias del mismo, a los efectos de la posible caducidad e imposición de sanciones que su vulneración implique, y se concretan no sólo las sanciones pecuniarias que las distintas infracciones implican, sino también las consecuencias de ocre tipo, como son la retirada provisional o definitiva de autorizaciones y la paralización y precintado de vehículos.
+
+Se ha pretendido, con la regulación que en este título se hace, evitar toda inseguridad jurídica, reduciendo al mínimo la discrecionalidad administrativa mediante una predeterminación casuística de las consecuencias de las distintas conductas infractoras.
+
+Por lo que se refiere al procedimiento sancionador, basado en el procedimiento general de la Ley de Procedimiento Administrativo, el cual se aplica en todo lo no expresamente previsto en el Reglamento, se establecen los requisitos que deberán cumplir las denuncias y actas de infracción que se levanten, y se prevén los mecanismos necesarios para la constatación de los hechos y para garantizar los derechos del inculpado.
+
+Respecto a la efectividad del cumplimiento de las sanciones, se regula el procedimiento de cobro de las sanciones pecuniarias, incluyendo las especialidades relativas a los supuestos de infracciones cometidas por personas que no tengan su residencia en territorio español, y se establecen las reglas para llevar a cabo el precintado de vehículos y de locales cuando haya sido impuesta dicha sanción previniendo al efecto la intervención del Gobernador civil de la provincia en la que esté domiciliado el vehículo o situado el local a precintar.
+
+Se regulan, por último, en este título VI los documentos de control del transporte, dentro de los cuales reviste especial importancia la declaración de porte, la cual se establece en principio con carácter obligatorio para los transportes de mercancías de vehículos pesados provistos de autorización de ámbito superior al local, si bien, fin el fin de evitar una posible burocratización excesiva del sistema, se prevé que el Ministerio de Transportes, Turismo y Comunicaciones pueda exceptuar de dicha obligatoriedad a determinados transportes del tipo citado siempre que los mismos no estén sometidos a tarifas obligatorias.
+
+El título VII está dedicado al establecimiento, construcción y explotación de transportes ferroviarios, regulándose en el mismo de forma separada la construcción de ferrocarriles y la explotación de los mismos.
+
+Por lo que se refiere al establecimiento de nuevas líneas ferroviarias, se determinan en el Reglamento las reglas que habrán de observarse para la elaboración del correspondiente proyecto, especificando el contenido del mismo y determinando el procedimiento para su tramitación y aprobación.
+
+En cuanto a la construcción, se prevé que la misma pueda ser realizada por el Ministerio de Transportes, Turismo y Comunicaciones con cargo a los presupuestos que le corresponda administrar, por RENFE con cargo a los suyos, por las Empresas privadas o mixtas a las que se les adjudique la construcción y posterior explotación de la línea, o bien mediante convenio específico del Ministerio de Transportes, Turismo y Comunicaciones o, en su caso, del Gobierno con otras Entidades públicas o privadas.
+
+Por lo que se refiere a la construcción por el Ministerio de Transportes, Turismo y Comunicaciones, la misma se realizará normalmente en forma indirecta llevándose a cabo la contratación de las obras mediante concurso, si bien se prevé que el Ministerio pueda contratar directamente la realización de las obras con RENFE.
+
+Cuando la realización de las obras haya sido encomendada a RENFE con cargo a sus propios presupuestos de inversión, según lo previsto en el correspondiente contrato-programa de la misma con el Estado, la actividad de construcción se realizará con independencia presupuestaria y funcional de la de explotación de los servicios.
+
+La construcción por Empresas privadas o mixtas, a las que se les encomiende conjuntamente la posterior explotación del servicio, se realizará por la Empresa a la que se adjudique la correspondiente concesión administrativa de construcción y explotación, realizándose normalmente dicha adjudicación mediante concurso. Se prevé, no obstante, la utilización de los demás procedimientos de explotación indirecta previstos en la legislación de contratación administrativa y, expresamente, la contratación directa con Empresas mixtas en las que participen la propia Administración o RENFE, cuando existan razones especiales que lo justifiquen. A tal efecto se regulan las condiciones de adjudicación del correspondiente concurso y se determinan las reglas de extinción de las concesiones, las cuales no podrán tener una duración superior a noventa y nueve años.
+
+En cuanto a la construcción mediante convenio específico con Entidades públicas o privadas, se trata de una fórmula que, no obstante el carácter especial con el que expresamente se establece, puede tener gran importancia práctica en las futuras líneas ferroviarias a construir, ya que la misma puede permitir, siempre previa justificación de su procedencia, fórmulas variadas, tales como la participación de una Empresa privada o mixta en la construcción, a cambio de un canon sobre los ingresos o los resultados de la posterior explotación.
+
+Por lo que se refiere a la explotación ferroviaria, se prevé que la misma pueda realizarse bien por RENFE (lo cual será preceptivo cuando se trate de líneas pertenecientes a la Red Nacional Integrada), bien por la Empresa privada o mixta a la que se le adjudique la concesión de explotación, adjudicación que normalmente se realizará mediante concurso, si bien se prevé la posibilidad de utilizar las demás fórmulas de gestión indirecta previstas en la legislación de contratación administrativa y, especialmente, la contratación directa con Empresas mixtas.
+
+En la regulación de la explotación ferroviaria realizada por RENFE, teniendo en cuenta que en la base de la misma no existe una concesión que defina por sí misma la posición de la Empresa explotadora, se han previsto diversas cuestiones relativas al régimen que RENFE habrá de seguir, tales como la posibilidad de realizar las actividades complementarias que resulten necesarias o convenientes, las condiciones para cesar en la explotación de alguna línea o servicio, la posibilidad de realizar obras de mantenimiento y conservación de las líneas, la posibilidad de establecer por sí misma las tarifas a aplicar dentro de los limites en su caso establecidos por la Administración, la procedencia de realizar la explotación de forma tendente a lograr el equilibrio económico-financiero según lo previsto en el correspondiente contrato-programa, y la aplicabilidad general a la misma de las normas sobre derechos y obligaciones en las concesiones de explotaciones ferroviarias.
+
+En la regulación de la explotación indirecta por medio de Empresas privadas o mixtas, se determina que el plazo de las correspondientes concesiones no podrá ser superior a cincuenta años, y se establecen las reglas para la celebración y resolución de los concursos tendentes a su adjudicación. En cuanto a las condiciones conforme a las cuales deberá realizarse la explotación, se establece la sujeción de dicha explotación a los reglamentos de funcionamiento que apruebe el Ministerio de Transportes, Turismo y Comunicaciones, se realizan previsiones sobre la posibilidad de introducir modificaciones por parte de la Empresa concesionaria, y se establecen de forma casuística los derechos y obligaciones de las Empresas concesionarias.
+
+Se cierra el título VII con la regulación de la construcción y explotación de ferrocarriles de transporte privado y apartaderos, determinándose las reglas que habrán de observarse para que la Administración autorice el establecimiento de los mismos previniendo la posibilidad de utilización de terrenos de dominio público y determinando un régimen de libertad en la explotación por parte de la Empresa autorizada; en relación con los apartaderos, la referida autorización se considerará otorgada por silencio administrativo si, en el plazo de un mes desde que se realice la solicitud, la Administración no se pronuncia sobre la misma.
+
+En el título VIII, relativo a la Policía de Ferrocarriles, se establecen las reglas de conceptuación y delimitación de las zonas de dominio público, servidumbre y afección, que por estar inmediatas al ferrocarril están sujetas a una serie de limitaciones en cuanto a las obras y actividades que se pueden realizar en las mismas. En la regulación de las referidas limitaciones, que lógicamente son más intensas en la zona de dominio público que en la servidumbre y en ésta que en la de afección, se establece la prohibición de realizar cualquier obra o actividad en la zona de dominio público, salvo casos excepcionales debidamente autorizados: en la zona de servidumbre se establece la prohibición de realizar edificaciones y reedificaciones, salvo casos excepcionales debidamente justificados en los que la Empresa explotadora lo autorice, siendo la autorización de dicha Empresa requisito asimismo necesario para realizar otras actividades susceptibles de afectar al ferrocarril; en la zona de afección se exige la autorización de la Empresa ferroviaria para la realización de construcciones u otras actividades que puedan afectar al ferrocarril, permitiéndose expresamente los cultivos agrícolas.
+
+En cuanto a la necesidad de obtener las referidas autorizaciones de la Empresa explotadora de la línea para ejercitar actividades susceptibles de afectar al ferrocarril, se prevé la posibilidad de que los solicitantes puedan recurrir ante la Administración a fin de evitar que dicha autorización sea denegada por causas improcedentes.
+
+Por lo que se refiere al régimen sancionador, se concreta la cuantía de las multas a imponer por los distintos tipos de vulneraciones de la legislación ferroviaria, dentro de los límites previstos en la LOTT, y se establece que la competencia para la imposición de las referidas sanciones corresponderá a la Dirección General de Transportes Terrestres, cuando se refieran a infracciones que hayan sido cometidas por las Empresas explotadoras de los ferrocarriles, y a los Gobernadores civiles cuando correspondan a infracciones cometidas por usuarios o terceros en general.
+
+Dentro de las disposiciones adicionales procede destacar las concreciones que se realizan respecto al régimen jurídico de los teleféricos, así como de los funiculares y de los ferrocarriles predominantemente urbanos; las previsiones de que todas las referencias que se realicen en el Reglamento a RENFE, excepto las relacionadas con la Red Nacional Integrada, hayan de entenderse aplicables a FEVE y, en su caso, a otras Empresas publicas ferroviarias; y el mandato de adscripción a la Dirección General de Transportes Terrestres de los medios personales y materiales necesarios para la realización de las nuevas funciones que en el Reglamento se le encomiendan.
+
+En las disposiciones transitorias, entre otras cuestiones, se establece el régimen de adaptación de las anteriores autorizaciones de ámbito local al nuevo radio de acción previsto en el Reglamento, así como el relativo a la conversión de las actuales autorizaciones de taxis de las clases B y C, que conforme al Reglamento quedan suprimidas: se determina un plazo para solicitar autorización de transporte en autobús o en vehículos de mercancías de carácter exclusivamente urbano por parte de las personas que lo vinieran realizando legalmente; y se señala que la exigencia de cumplimentar la declaración de porte será efectiva tan pronto como el Ministerio de Transportes, Turismo y Comunicaciones dicte las reglas necesarias para su distribución, formulación y control.
+
+En su virtud, a propuesta del Ministro de Transportes, Turismo y Comunicaciones, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 28 de septiembre de 1990,
+
+DISPONGO:
+
+## TÍTULO I — Disposiciones comunes a los distintos modos de transporte
+
+### CAPÍTULO I — Ámbito de aplicación, régimen competencial y principios de ordenación administrativa
+
+##### Artículo 1.
+
+1\. Las disposiciones del presente Reglamento serán de aplicación en relación con los transportes terrestres y con las actividades auxiliares y complementarias del transporte por carretera definidos en el artículo 1 de la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres (en adelante LOTT).
+
+2\. Las competencias administrativas reguladas en este Reglamento serán ejercidas por las Comunidades Autónomas en las cuales se hallen delegadas por la Ley Orgánica 5/1987, de 30 de julio, por los órganos de la Administración del Estado a los que específicamente les estén atribuidas o se les atribuyan y, en su defecto, por la Dirección General de Ferrocarriles y Transportes por Carretera.
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 2.
+
+Las reglas fundamentales que habrá de seguir la Administración en su actuación de ordenación del transporte de conformidad con los principios generales y directrices establecidos en la LOTT, serán las siguientes:
+
+a) Satisfacción de las necesidades de los usuarios con el mayor grado de eficacia posible y la utilización más adecuada de los recursos sociales.
+
+b) Régimen de concurrencia entre los distintos modos de transporte y libertad de elección del usuario entre éstos, siendo las únicas limitaciones las derivadas de dar cumplimiento al apartado a) anterior.
+
+c) Potenciación y liberalización de la actuación empresarial en un sistema de mercado, realizándose las actuaciones necesarias para remediar las disfunciones de éste cuando se produzcan.
+
+d) Colaboración interadministrativa, procurándose en todo momento la coordinación de las actuaciones de la Administración del Estado, con las Comunidades Autónomas y las Entidades Locales en sus respectivas competencias, a fin de hacer posible el mandamiento de un sistema común de transporte y de facilitar y simplificar a los administrados sus relaciones con la Administración.
+
+e) Participación social en las funciones administrativas, facilitándose y potenciándose la colaboración de los agentes sociales con la Administración y, muy especialmente, la de las Asociaciones representativas de Empresas del sector del transporte y de usuarios.
+
+### CAPÍTULO II — Disposiciones relativas al cumplimiento del contrato de transporte
+
+#### Sección 1.ª Responsabilidad
+
+##### Artículo 3.
+
+**(Suprimido).**
+
+> Se suprime por el art. 2.1 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.1 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 4.
+
+**(Suprimido).**
+
+> Se suprime por el art. 2.1 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se añade el apartado 3 por el art. único.2 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+#### Sección 2.ª Seguros
+
+##### Artículo 5.
+
+**(Suprimido).**
+
+> Se suprime por el art. 2.1 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+#### Sección 3.ª Juntas arbitrales del transporte
+
+##### Artículo 6.
+
+1\. De conformidad con lo previsto en el artículo 38 de la LOTT, corresponde a las Juntas Arbitrales del Transporte el ejercicio de las siguientes funciones:
+
+a) Resolver las controversias de carácter mercantil surgidas en relación con el cumplimiento de los contratos de transporte terrestre y de aquellos otros que tengan por objeto la prestación de las actividades auxiliares y complementarias del transporte reguladas en la LOTT.
+
+Quedan, en todo caso, excluidas de la competencia de las Juntas las controversias de carácter laboral, penal o tributario.
+
+b) Acordar el depósito de mercancías transportadas y, en su caso, enajenarlas, en los supuestos en que así se encuentra previsto en la Ley 15/2009, de 11 de noviembre, del Contrato de Transporte Terrestre de Mercancías.
+
+c) Realizar las funciones de peritación previstas en la Ley 15/2009, de 11 de noviembre, del Contrato de Transporte Terrestre de Mercancías.
+
+2\. Las funciones previstas en el punto anterior serán ejercidas por las Juntas en relación con los transportes terrestres y, asimismo, con los que se desarrollen en virtud de un único contrato por más de un modo de transporte siempre que uno de éstos sea terrestre.
+
+> Se modifica el apartado 1 por el art. 2.2 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 7.
+
+1\. La localización geográfica y el ámbito territorial de las Juntas Arbitrales del Transporte serán determinados por las correspondientes Comunidades Autónomas en las que estén situadas cuando las mismas hayan asumido las competencias al efecto delegadas por la Ley Orgánica 5/1987, de 30 de julio, o, en otro caso, por la Dirección General de Transportes Terrestres.
+
+2\. Salvo que las partes hayan pactado previamente y por escrito la sumisión a una Junta concreta, la competencia territorial de las Juntas Arbitrales para realizar las actuaciones previstas en el apartado 1.a) del artículo anterior, vendrá determinada, a elección del demandante, por el origen o destino del transporte o por el domicilio de la empresa prestadora del servicio.
+
+Cuando el demandante sea un consumidor o usuario de los definidos en la legislación para la defensa de los consumidores y usuarios, podrá optar además por la Junta competente en el lugar en que tenga su residencia habitual.
+
+Cuando una controversia se plantee ante más de una Junta, será competente aquella ante la que se hubiera suscitado con anterioridad, debiendo abstenerse en su favor las restantes.
+
+3\. Las funciones previstas en el las letras b) y c) del apartado 1 del artículo anterior se realizarán por la Junta competente en el territorio en el que estén situadas las mercancías.
+
+> Se modifican los apartados 2 y 3 por el art. 2.3 y 4 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica el apartado 2 por el art. único.3 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 8.
+
+1\. Las Juntas Arbitrales del Transporte estarán compuestas por el presidente y por un mínimo de dos y un máximo de cuatro vocales, designados todos ellos por las comunidades autónomas a que se refiere el apartado 1 del artículo anterior, o, en su caso, por la Dirección General de Transportes por Carretera. Deberán, en todo caso, formar parte de las Juntas los dos Vocales representantes de los cargadores o usuarios y de las empresas del sector del transporte a que se refieren los apartados 3 y 4 de este artículo, sin perjuicio de lo dispuesto en el ar­tículo 9.7.
+
+2\. El Presidente y, en caso de estimarlo procedente, dos Vocales como máximo, serán designados entre personal de la Administración con conocimiento de las materias de competencia de la Junta. El Presidente habrá de ser Licenciado en Derecho.
+
+3\. Una de las dos vocalías obligatorias será ocupada por un representante de los cargadores o de los usuarios.
+
+A tal efecto se designarán dos personas, que actuarán, respectivamente, en las controversias, según las mismas se refieran a transportes de viajeros o de mercancías; la primera de ellas será nombrada a propuesta de las asociaciones representativas de los usuarios y la segunda de las asociaciones representativas de los cargadores o de la Cámara Oficial de Comercio, Industria y Navegación correspondiente, según determine el órgano competente para realizar la designación.
+
+4\. La vocalía obligatoria restante será ocupada por el representante de las empresas de transporte o de actividades auxiliares y complementarias de éste.
+
+A tal efecto podrán designarse varias personas en representación de los diversos sectores del transporte, que no podrán exceder de los que constituyan sección independiente en el Comité Nacional del Transporte por Carretera, existiendo como mínimo un representante del sector de las empresas de transporte de viajeros y otro del de mercancías. Se designará, asimismo, al menos un representante de las empresas de transporte por ferrocarril y podrá designarse otro de las empresas de transporte por cable.
+
+Según determine el órgano competente, el nombramiento de las personas a que se refiere el párrafo anterior se realizará a propuesta del órgano institucionalizado de representación de las empresas de transporte existentes, en su caso, en el territorio de la comunidad autónoma de que se trate, de las asociaciones representativas del sector en dicho territorio o del Comité Nacional del Transporte por Carretera y de RENFE o, en su caso, otras empresas ferroviarias.
+
+5\. Las distintas personas a que se refiere el punto anterior actuarán según cual fuere el sector del transporte al que se refiera la controversia. Cuando el conflicto se suscite entre dos Empresas transportistas o de actividades auxiliares y complementarias del transporte, no actuará el Vocal representante de los cargadores o usuarios a que se refiere el punto 3, siendo las dos vocalías obligatorias ocupadas por los representantes de los dos sectores a que correspondan las Empresas en conflicto, cuando éstos fueren diferentes y estuvieran designados representantes distintos para ambas o actuando solamente el único Vocal competente cuando no se den estas últimas circunstancias.
+
+6\. El órgano competente sobre cada Junta de Arbitraje del Transporte designará asimismo el Secretario de ésta, pudiendo recaer dicho cargo en uno de los Vocales miembros de la Administración que, en su caso, existan. Se adscribirá a la Secretaría de la Junta el personal auxiliar que, resulte preciso para el funcionamiento de la Junta.
+
+Podrán designarse miembros suplentes, tanto del Presidente como de los Vocales y Secretario de las Juntas.
+
+7\. En las controversias que puedan surgir entre los empresarios del sector y los usuarios definidos por el artículo primero, apartados 2 y 3, de la Ley 26/1984, de 19 de junio, General para la Defensa de los Consumidores y Usuarios, las Juntas Arbitrales estarán compuestas por un Presidente y dos vocalías, que serán designadas de la forma siguiente: El Presidente y una vocalía según lo establecido en los apartados 1 y 4 de este artículo, y la otra vocalía será ocupada por un representante de las Asociaciones de Consumidores y Usuarios, designado a propuesta del Consejo de Consumidores contemplado en los artículos 5.º y concordantes del Real Decreto 825/1990, de 22 de junio.
+
+> Se modifican los apartados 1 y 4 por el art. único.4 y 5 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 9.
+
+1\. La posibilidad de acción ante las Juntas para promover el arbitraje previsto en la letra a) del artículo 6 prescribirá en los mismos plazos en que se produciría si se tratara de una acción judicial que se plantease ante los Tribunales de justicia.
+
+2\. Las actuaciones arbitrales de las Juntas serán instadas por escrito firmado por el actor o sus representantes, en el que se expresará el nombre y domicilio del reclamante y de la persona contra la que se reclama, haciendo exposición de los fundamentos de hecho y de derecho en los que se justifique la reclamación, especificando de forma clara y precisa la petición y proponiendo las pruebas que se estimen pertinentes.
+
+3\. Por la secretaría de las Juntas será remitida copia de la reclamación a la parte contra la que se reclame, señalándose en ese mismo escrito fecha para la vista, que será comunicada también al demandante.
+
+No obstante, el Presidente podrá acordar que se prescinda de la vista oral cuando la cuantía de la controversia no exceda de 100 euros. En ese supuesto, la secretaría de la Junta comunicará este acuerdo al reclamante y lo notificará a la parte contra la que se reclame, indicando a esta última que dispone de un plazo de diez días para formular las alegaciones que estime convenientes.
+
+4\. En la vista, que será oral, las partes podrán alegar lo que a su derecho convenga y aportar o proponer las pruebas que estimen pertinentes. La Junta dictará su laudo, una vez oídas las partes y practicadas o recibidas las pruebas que considere oportunas, en el plazo previsto en la legislación general de arbitraje.
+
+El presidente podrá decidir por sí solo cuestiones de ordenación, tramitación e impulso del procedimiento.
+
+5\. En el caso de que el reclamante o su representante no asistiera a la vista se le tendrá por desistido en su reclamación, a menos que el demandado se oponga a ello y la Junta le reconozca un interés legítimo en obtener una solución definitiva del litigio.
+
+La inasistencia de la parte reclamada no impedirá la celebración de la vista ni que se dicte el laudo.
+
+6\. Para la comparecencia ante la Junta de Arbitraje no será necesaria la asistencia de abogado ni procurador.
+
+Las partes podrán conferir su representación mediante escrito dirigido a la Junta de que se trate.
+
+En relación con las notificaciones a las partes, que se realizarán por la secretaría de las Juntas, será de aplicación la legislación de procedimiento administrativo.
+
+7\. El laudo se acordará por mayoría simple de los miembros de la Junta, dirimiendo los empates el voto de calidad del presidente. La inasistencia de cualquiera de los miembros de la Junta, con excepción del presidente, no impedirá que se celebre la vista ni que se dicte el laudo.
+
+8\. Los laudos no requerirán formalidades especiales y tendrán los efectos previstos en la legislación general de arbitraje, procediendo únicamente contra ellos la acción de anulación y de revisión por las causas específicamente previstas en dicha legislación. Transcurridos veinte días desde que fuera dictado el laudo, podrá obtenerse su ejecución forzosa ante el órgano judicial competente, siendo en tal caso aplicables, asimismo, las previsiones de la legislación general de arbitraje.
+
+9\. Los arbitrajes a que se refiere este artículo serán gratuitos, sin perjuicio de la obligatoriedad de satisfacer los gastos generados por la práctica de pruebas.
+
+El pago de las costas se regirá por lo dispuesto en la legislación general de arbitraje.
+
+10\. En lo no previsto en los apartados anteriores y en las normas de organización que, con el fin de homogeneizar y procurar la eficacia de su actuación, en su caso, determine el Ministro de Fomento, se aplicarán las reglas establecidas en la legislación general de arbitraje.
+
+11\. Las reglas procedimentales, en su caso, necesarias para la realización de las funciones de las Juntas previstas en las letras b), c) y d) del artículo 6, se determinarán por el Ministro de Fomento.
+
+> Se modifican los apartados 3 y 5 por el art. 2.5 y 6 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.6 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 10.
+
+1\. En ejecución de lo dispuesto en los artículos 32, 40 y 44 de la Ley 15/2009, de 11 de noviembre, del Contrato de Transporte Terrestre de Mercancías, las Juntas Arbitrales podrán actuar como depositarias de las mercancías transportadas en los siguientes supuestos:
+
+a) Cuando el porteador retenga las mercancías por impago del precio u otros gastos en los que haya incurrido con ocasión del transporte. En este caso, la solicitud de depósito y enajenación deberá presentarse ante la Junta en el plazo máximo de diez días naturales, contados de conformidad con lo dispuesto en el artículo 40.2 de la Ley 15/2009, de 11 de noviembre, del contrato de transporte terrestre de mercancías.
+
+b) Cuando surjan impedimentos al transporte sin que puedan solicitarse instrucciones al cargador o este no las facilite.
+
+c) Cuando no pueda realizarse la entrega, bien porque el destinatario no se halle en el domicilio indicado en la carta de porte, bien porque no se haga cargo de las mercancías en las condiciones establecidas en el contrato o se niegue a descargarlas correspondiéndole hacerlo o bien porque se niegue a firmar el documento de entrega, sin que en tales supuestos puedan solicitarse instrucciones al cargador o este no las facilite habiéndosele solicitado.
+
+d) Cuando las mercancías transportadas corran riesgo de perderse o de sufrir daños graves, sin que hubiera tiempo para realizar la entrega ni para que sus dueños dispusieran de ellas o dieran instrucciones al respecto.
+
+2\. Podrá solicitarse que una Junta Arbitral enajene las mercancías que han sido transportadas, en los siguientes supuestos:
+
+a) En el supuesto previsto en la letra a) del apartado anterior, siempre que la solicitud de enajenación se formalice en un plazo de diez días naturales, contados de conformidad con lo dispuesto en el artículo 40.2 de la Ley 15/2009, de 11 de noviembre, del contrato de transporte terrestre de mercancías.
+
+b) En los supuestos previstos en las letras b) y c) del apartado anterior, cuando los gastos de custodia sean excesivos en relación con el valor de la mercancía o bien cuando el porteador no haya recibido, en un plazo razonable, instrucciones de quien tiene el poder de disposición sobre las mercancías cuya ejecución resulte proporcionada a las circunstancias del caso.
+
+c) En todos los supuestos contemplados en la letra d) del artículo anterior.
+
+3\. Las actuaciones de las Juntas Arbitrales del Transporte previstas en este artículo no prejuzgarán la resolución de los posibles conflictos jurídicos que pudieran suscitarse en relación con el cumplimiento del contrato de transporte. La reparación de los posibles daños indebidos que tales actuaciones pudieran causar será por cuenta de quien haya promovido la actuación de la Junta.
+
+> Se modifica por el art. 2.7 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 11.
+
+1\. Las Juntas Arbitrales del Transporte únicamente podrán acordar el depósito o enajenación de mercancías a instancia de los interesados y, siempre que ello resulte posible, oirán previamente, de forma sumaria, a ambas partes.
+
+2\. La actuación de la Junta habrá de instarse por escrito en el que deberá indicarse la naturaleza y descripción de las mercancías, las razones por las que se solicita su depósito y, en su caso, su enajenación. El escrito deberá acompañarse de cuantos documentos justifiquen la solicitud.
+
+3\. Para el ejercicio de las funciones a que se refiere este artículo, las Juntas podrán disponer de locales u otros medios auxiliares adecuados o bien utilizar, a través de cualquier procedimiento admitido en derecho, espacios o medios ajenos, incluida la colaboración material de empresas o entidades públicas o privadas.
+
+Las Juntas podrán denegar el depósito de las mercancías cuando no sea posible disponer de locales adecuados para ello.
+
+4\. Sin perjuicio de lo dispuesto en los apartados anteriores, el Ministro de Fomento podrá establecer otras reglas procedimentales cuando lo estime necesario para el adecuado desarrollo de las funciones previstas en el artículo anterior.
+
+> Se modifica por el art. 2.8 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 12.
+
+1\. Como regla general, la enajenación de mercancías por parte de las Juntas Arbitrales se realizará mediante subasta, conforme a las reglas señaladas al efecto por el Ministro de Fomento, a la que darán la mayor publicidad posible.
+
+2\. Las Juntas solo podrán proceder a la venta directa de las mercancías en los siguientes supuestos:
+
+a) Cuando por su naturaleza o estado de conservación o por la concurrencia de un accidente u otra causa técnica sobrevenida, no sea posible promover la subasta sin riesgo de que las mercancías se pierdan.
+
+b) Cuando hubiera resultado desierta la subasta o el postor hubiera renunciado a la adjudicación.
+
+c) Cuando el escaso valor de las mercancías que hayan de ser enajenadas resulte desproporcionado en relación con los gastos que previsiblemente generaría su venta mediante un procedimiento de concurrencia y licitación públicas.
+
+3\. Cuando el género o características de la mercancía que haya de enajenarse así lo aconsejen, la Junta podrá acordar, a petición del solicitante de la enajenación o del propietario de las mercancías con el consentimiento de aquél, que la enajenación se realice por medio de persona o entidad especializada, pública o privada.
+
+4\. Cuando la causa de la enajenación sea la satisfacción del precio del transporte, únicamente se enajenará la cantidad de mercancía necesaria para satisfacer dicho precio, los gastos del transporte y los gastos ocasionados por el depósito y la enajenación de las mercancías. Si, como consecuencia de la naturaleza o características de la mercancía que haya de ser enajenada, fuera necesario vender una cantidad superior, el excedente de la venta será entregado a quien justifique su derecho.
+
+Si la cantidad obtenida con la enajenación de la mercancía no alcanza a cubrir en su totalidad la deuda y los gastos causados por la enajenación, el porteador podrá reclamar la diferencia.
+
+> Se modifica por el art. 2.9 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+#### Sección 4.ª Contratos-tipo
+
+##### Artículo 13.
+
+El Ministro de Transportes, Turismo y Comunicaciones, oídos el Consejo Nacional de Transportes Terrestres, el Comité Nacional del Transporte por Carretera y las asociaciones representativas de cargadores o usuarios, podrá establecer contratos-tipo o condiciones generales de contratación para las distintas clases de transporte terrestre y de actividades auxiliares y complementarias del transporte por carretera, en los que se determinarán los derechos y obligaciones recíprocas de las partes y las demás reglas concretas de cumplimiento de los contratos singulares.
+
+2\. Las reglas de los contratos-tipo o condiciones generales, cuando se refieran a contratos de transportes de mercancías por carretera o por ferrocarril, o transportes de viajeros en ferrocarril o autobús contratados por coche completo, incluyéndose, a tal efecto, los regulares de uso especial, o a arrendamiento de vehículos, con o sin conductor, serán aplicables en forma subsidiaria o supletoria a las que libremente pacten las partes de forma escrita en los correspondientes contratos singulares.
+
+3\. En los transportes de viajeros por carretera en vehículos de turismo o en autobús con contratación por asiento y en los transportes de viajeros por ferrocarril o por cable, asimismo con contratación por asiento, los contratos-tipo o condiciones generales de contratación aprobados por la Administración se aplicarán con carácter imperativo, pudiendo, no obstante, incluirse cláusulas anexas a dichos contratos-tipo que se apliquen únicamente con carácter subsidiario o supletorio a los que pacten las partes.
+
+4\. No obstante lo dispuesto en los apartados anteriores, las Empresas de transporte podrán ofrecer a los usuarios condiciones más favorables a las establecidas en los contratos-tipo, teniendo en este caso, estas últimas, el carácter de condiciones mínimas.
+
+5\. Los contratos-tipo o condiciones generales de contratación aprobados por el Ministro de Transportes, Turismo y Comunicaciones, o un extracto autorizado de los mismos, deberán estar expuestos al público en los locales en los que las Empresas de transporte o de actividades auxiliares y complementarias del mismo realicen la contratación del transporte o expidan los correspondientes billetes.
+
+6\. El Ministro de Transportes, Turismo y Comunicaciones podrá, asimismo, aprobar contratos-tipo en relación con la contratación entre transportistas e intermediarios del transporte, así como en relación con la colaboración entre transportistas prevista en el artículo 48.2, de este Reglamento, siendo sus cláusulas aplicables de forma subsidiaria o supletoria a las que libremente pacten las partes de forma escrita.
+
+### CAPÍTULO III — Los Servicios de Inspección del Transporte Terrestre
+
+##### Artículo 14.
+
+1\. La función inspectora de los transportes terrestres y de las actividades auxiliares y complementarias del transporte por carretera será desempeñada por el personal adscrito a las distintas Administraciones Públicas, que legal o reglamentariamente la tenga asignada.
+
+2\. Los Servicios de Inspección, además de sus funciones de control del cumplimiento de la legalidad vigente, asesorarán y colaborarán con las Empresas de transporte para facilitar el cumplimiento de dicha legalidad.
+
+3\. La estructura orgánica de los Servicios de Inspección del Transporte Terrestre será determinada por las referidas Administraciones Públicas.
+
+Dichos Servicios contarán con el personal de apoyo que sea preciso; para lo cual, las Administraciones Públicas competentes habilitarán a las personas que consideren idóneas entre el diverso personal a su servicio, estando facultadas las mismas para denunciar las infracciones cometidas contra la normativa reguladora de los transportes terrestres.
+
+4\. Los miembros de la Inspección del Transporte Terrestre, en casos de necesidad para un eficaz cumplimiento de su función, podrán solicitar, a través del Gobernador civil o el Delegado del Gobierno, el apoyo de las Unidades o Destacamentos de las Fuerzas y Cuerpos de Seguridad del Estado y Policías de las Comunidades Autónomas y de las Entidades Locales.
+
+##### Artículo 15.
+
+1\. Sin perjuicio de la cooperación regulada en el punto 4 del artículo anterior, y conforme a lo dispuesto en el artículo 32, 3, de la LOTT, en los territorios en que esté atribuida la vigilancia del transporte a la Guardia Civil, dentro de cada Subsector de la Agrupación de Tráfico de aquélla existirá un número suficiente de agentes que tendrá como dedicación preferente dicha vigilancia.
+
+2\. El número de agentes correspondiente a cada provincia a que se refiere el punto anterior se determinará en el plazo máximo de un año, a partir de la entrada en vigor de este Reglamento, previo acuerdo de los órganos competentes del Ministerio del Interior y del de Transportes, Turismo y Comunicaciones, atendiendo al número de vehículos que compongan el parque de cada provincia, a la importancia del tráfico y del transporte en la misma y a los demás factores o circunstancias que al efecto resulten relevantes.
+
+3\. Los órganos de las distintas Administraciones Públicas a los que directamente o por delegación correspondan las funciones de dirección de las actuaciones de inspección podrán impartir directamente, a través de sus mandos naturales, a los agentes específicamente encargados de la vigilancia del transporte a que se refiere este artículo, las directrices, orientaciones e instrucciones que se consideren oportunas para una eficaz realización de aquélla, sin perjuicio de la coordinación por los Gobernadores civiles o Delegados del Gobierno a que se refiere el artículo siguiente.
+
+##### Artículo 16.
+
+1\. Los órganos competentes en materia de transportes perseguirán el aumento de la eficacia de la función inspectora a través de la elaboración periódica de planes de inspección, los cuales darán un carácter sistemático a las actuaciones inspectoras, y determinarán, en su caso, las líneas generales directrices de las operaciones de control referidas a servicios o actividades que puedan requerir actuaciones especiales.
+
+La elaboración de dichos planes se llevará a efecto de forma coordinada con los órganos competentes para la vigilancia del transporte terrestre en vías urbanas o interurbanas, a fin de lograr el adecuado ajuste en el ejercicio de las distintas competencias de vigilancia e inspección. Asimismo, en dicha elaboración podrá recabarse la colaboración del Comité Nacional del Transporte por Carretera.
+
+2\. El Ministerio de Fomento podrá determinar en todo momento los criterios de actuación prioritaria de los Servicios de Inspección en relación con los transportes de su competencia, ya se ejerza ésta directamente por la Administración del Estado o, por delegación, por las comunidades autónomas. Dichos criterios orientarán tal actuación prioritaria hacia aquellas infracciones que en cada momento tengan más repercusión social o impliquen una mayor perturbación en la ordenación y seguridad del transporte, incidiendo fundamentalmente, en todo caso, sobre aquéllas que resulten lesivas para la libre y ordenada competencia entre las empresas que operan en el mercado.
+
+3\. Los órganos de las Administraciones Públicas competentes en materia de transportes comunicarán a los mandos naturales de las Fuerzas y Cuerpos de Seguridad encargados de la vigilancia del transporte por carretera en las provincias afectadas las instrucciones que consideren precisas para el mejor cumplimiento de los referidos planes de actuación, bien a través de los Subdelegados del Gobierno, cuando dichas Fuerzas dependan de la Administración del Estado, o, en otro caso, a través de los órganos competentes de las Administraciones autonómicas o locales; sin perjuicio de impartir directamente las instrucciones a los agentes específicamente dedicados a la vigilancia del transporte, conforme a lo previsto en el apartado 3 del artículo anterior.
+
+4\. Deberá procurarse la actuación coordinada de los Servicios de Inspección del Transporte Terrestre del Estado con los de las comunidades autónomas y las entidades locales.
+
+> Se modifica por el art. único.7 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 17.
+
+De conformidad con lo dispuesto en el apartado 1 del artículo 33 de la LOTT, el personal de los Servicios de Inspección del Transporte Terrestre tendrá, en el ejercicio de sus funciones, la consideración de autoridad.
+
+Los funcionarios de la Inspección del Transporte Terrestre que ejerzan funciones de dirección, teniendo el carácter de Técnicos de Inspección, que hayan sido nombrados y formalmente acreditados para el ejercicio de las mismas por la Administración correspondiente, gozarán de plena independencia en el desarrollo de las actuaciones inspectoras, con sujeción a las instrucciones que impartan sus superiores jerárquicos y a las prescripciones de los planes previstos en el artículo anterior.
+
+Quienes cometieran atentados o desacatos de hecho o de palabra contra el personal de la Inspección en acto de servicio o con motivo de éste, incurrirán en las responsabilidades a que hubiere lugar según la legislación vigente. Dichos funcionarios o agentes deberán poner tales actos en conocimiento de los órganos competentes, a fin de que se insten los oportunos procedimientos y se ejerciten, en su caso, las acciones legales que procedan al efecto.
+
+> Se modifica por el art. único.8 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 18.
+
+1\. Los Servicios de Inspección realizarán sus funciones en relación con las empresas públicas o privadas de transporte o que realicen actividades auxiliares y complementarias del transporte, con los cargadores y usuarios y, en general, con todas las personas y entidades que se vean afectadas por las normas de ordenación de los transportes terrestres.
+
+2\. En relación con el transporte por carretera y con las actividades auxiliares y complementarias del mismo las actuaciones de control de los Servicios de Inspección se realizarán mediante la aplicación del régimen establecido en el título VI de este Reglamento; en relación con el transporte por ferrocarril, las normas de aplicación serán las incluidas en el título VIII del mismo.
+
+> Se modifica el apartado 1 por el art. único.9 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 19.
+
+Los titulares de los servicios y actividades a los que se refiere este reglamento, los titulares de empresas en cuyas instalaciones se realicen actividades de transporte terrestre o relacionadas con éste, así como quienes ocupen la posición de cargador o remitente, mero expedidor o destinatario o consignatario en un transporte de mercancías, los usuarios de un transporte de viajeros y, en general, las personas afectadas por sus preceptos, vendrán obligadas a facilitar al personal de la Inspección del Transporte Terrestre, en el ejercicio de sus funciones, el acceso a sus vehículos e instalaciones y la inspección de la carga o pasaje transportados a bordo de aquéllos, así como el examen de los documentos, libros de contabilidad, facturas, títulos de transporte y datos estadísticos que estén obligados a llevar y cualquier otro extremo o información relativos a las condiciones de prestación de los servicios realizados que resulte necesaria para verificar el cumplimiento de las obligaciones contenidas en la legislación de transportes. Dicha obligación alcanzará, en todo caso, a todos aquellos libros, documentos de gestión, control o estadísticas cuya cumplimentación o llevanza obligatoria venga establecida por la normativa económica, fiscal, social y laboral o medioambiental que resulte de aplicación a los sujetos anteriormente señalados. Por cuanto se refiere a los usuarios del transporte de viajeros, estarán obligados a identificarse a requerimiento del personal de la inspección cuando éste se encuentre realizando sus funciones en relación con el servicio utilizado por aquéllos.
+
+A tal efecto, los Servicios de Inspección podrán recabar la documentación precisa para el mejor cumplimiento de su función en la propia empresa o bien requerir su presentación en las oficinas públicas correspondientes, o la comparecencia en éstas del empresario o sus representantes, en los términos establecidos en la legislación de procedimiento administrativo. En las inspecciones llevadas a cabo en carretera, el conductor tendrá la consideración de representante de la empresa en relación con la documentación que existe obligación de llevar a bordo del vehículo y la información que le sea requerida respecto del servicio realizado.
+
+Cuando la documentación que se solicite sea la acreditativa del cumplimiento de las obligaciones relativas a los tiempos de conducción y descanso de los conductores, la empresa no podrá excusarse de aportarla por la ausencia del empresario o la persona responsable de su llevanza o custodia.
+
+La exigencia a que se refiere este artículo únicamente podrá ser realizada en la medida en que resulte necesaria para verificar el cumplimiento de las obligaciones contenidas en la legislación de transporte terrestre.
+
+> Se modifica por el art. único.10 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 20.
+
+En el ejercicio de su función, los miembros de la Inspección del Transporte Terrestre están autorizados para:
+
+a) Desarrollar materialmente su actuación en cualquier lugar en que se desarrollen actividades afectadas por la legislación de los transportes terrestres. No obstante, cuando se trate de domicilios de personas físicas o jurídicas, será precisa la previa obtención del oportuno mandamiento judicial.
+
+b) Realizar las pruebas, investigaciones o exámenes que resulten necesarios para cerciorarse de la observancia de las disposiciones legales vigentes en materia de transportes terrestres.
+
+En especial, los miembros de la Inspección del Transporte Terrestre y los agentes de las unidades o destacamentos de las Fuerzas que legalmente tienen atribuida la vigilancia del mismo, cuando existan indicios fundados de exceso de peso, manipulación o funcionamiento inadecuado imputable al transportista del tacógrafo o del limitador de velocidad u otros instrumentos de control que exista obligación de llevar instalados en los vehículos, podrán ordenar el traslado del vehículo hasta la báscula de pesaje, taller autorizado o zona de control que resulte más adecuada para su examen, siempre que no suponga un recorrido de ida superior a treinta kilómetros. No obstante cuando los mencionados lugares se encuentren situados en el mismo sentido de la marcha que siga el vehículo no existirá limitación en relación con la distancia a recorrer.
+
+El conductor del vehículo así requerido vendrá obligado a conducirlo, acompañado por los miembros de la Inspección del Transporte Terrestre o los agentes de las unidades o destacamentos de las fuerzas intervinientes, hasta los lugares citados, así como a facilitar las operaciones de pesaje y verificación, corriendo los gastos de éstas, en caso de producirse, por cuenta del denunciado, si se acredita la infracción, y, en caso contrario, de la Administración competente para la incoación, en su caso, del correspondiente expediente sancionador.
+
+En los supuestos de traslados a talleres autorizados, éstos estarán obligados a prestar el servicio de intervención técnica sobre tacógrafos, limitadores de velocidad u otros instrumentos que exista obligación de llevar instalados en el vehículo, a todos aquellos agentes de la Inspección o de las Fuerzas de vigilancia del transporte, sin ningún tipo de discriminación y realizarán las verificaciones pertinentes con la máxima diligencia a fin de no perturbar la actuación inspectora.
+
+> Se modifica por el art. único.11 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 21.
+
+1\. El personal adscrito a la Inspección estará provisto del documento acreditativo de su condición, que le podrá ser requerido cuando ejercite sus funciones; debiendo, en este caso, exhibirlo.
+
+2\. El personal a que se refiere el punto anterior estará obligado a guardar secreto profesional respecto a los hechos que conozca en el ejercicio de sus funciones, sin perjuicio de la realización de las actuaciones de colaboración administrativa previstas en el artículo 23.
+
+##### Artículo 22.
+
+De conformidad con lo dispuesto en el apartado 2 del artículo 33 de la LOTT los hechos constatados por los miembros de los Servicios de Inspección del Transporte Terrestre y los agentes de las fuerzas que legalmente tengan atribuida la vigilancia del mismo tendrán valor probatorio cuando se formalicen en documento público, observando los requisitos legales pertinentes, sin perjuicio de las pruebas que en defensa de sus respectivos derechos o intereses puedan señalar o aportar los propios administrados. No obstante, la inspección actuante deberá aportar cuantos elementos probatorios sobre el hecho denunciado resulten posibles.
+
+> Se modifica por el art. único.12 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 23.
+
+Si, en su actuación, el personal de los Servicios de Inspección del Transporte Terrestre descubriese hechos que pudiesen ser constitutivos de infracción de la normativa reguladora de otros sectores, especialmente en lo referente al ámbito laboral, fiscal y de seguridad vial, lo pondrá en conocimiento de los órganos competentes en función de la materia de que se trate.
+
+Similares actuaciones a las previstas en el párrafo anterior deberán realizar los órganos de cualquier sector de la actividad administrativa que tengan co­nocimiento de infracciones de las normas de ordenación de los transportes terrestres.
+
+Con objeto de conseguir la coordinación requerida para dar cumplimiento a lo dispuesto en este artículo, los órganos que ostenten competencias sobre cada una de las distintas materias afectadas deberán prestarse la asistencia activa y cooperación que resulte necesaria al efecto.
+
+> Se modifica por el art. único.13 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 24.
+
+1\. La función inspectora podrá ser ejercida de oficio o como consecuencia de petición fundada de los cargadores, usuarios o de sus Asociaciones, así como de las Empresas o Asociaciones de transportistas o de actividades auxiliares o complementarias del transporte.
+
+2\. Las Asociaciones representativas de transportistas o de actividades auxiliares o complementarias del transporte podrán colaborar en el ejercicio de la inspección del mismo:
+
+a) Poniendo en conocimiento de la Inspección hechos que pudieran ser constitutivos de infracción, aportando, en su caso, pruebas para la constatación de los mismos.
+
+b) Proporcionando los datos que les requiera la Inspección, a fin de facilitar la confección de los planes y programas de inspección y participando, cuando sean requeridas para ello, en la elaboración de los mismos.
+
+c) Solicitando la actuación de los Servicios de Inspección en aquellos supuestos de grave y reiterado incumplimiento de la normativa vigente en materia de transportes terrestres.
+
+d) En cualquier otra forma que, no estando prevista en las letras anteriores y por estimarse que pueda coadyuvar a la mejor consecución de los fines públicos que en cada caso se persigan, se determine por el Ministerio de Transportes, Turismo y Comunicaciones.
+
+### CAPÍTULO IV — Otras disposiciones
+
+#### Sección 1.ª Planes de transporte
+
+##### Artículo 25.
+
+Los planes de transporte regulados en los artículos 15 y 16 de la LOTT podrán ser generales o estar referidos únicamente a determinados modos o clases de transporte. Por razón de su ámbito podrán ser nacionales, cuando afecten a todo el Estado, y territoriales, cuando se extiendan únicamente a una parte de éste.
+
+##### Artículo 26.
+
+1\. La iniciativa para la elaboración de planes de transporte de competencia estatal se ejercerá por la Dirección General de Transportes Terrestres o por otros órganos administrativos del Estado o de las Comunidades Autónomas competentes para la ordenación del transporte en el territorio a que los mismos se refieran. Dicha iniciativa se realizará bien de oficio o a instancia de las Asociaciones representativas de transportistas o de cargadores o usuarios, del Comité Nacional del Transporte por Carretera o de otro órgano administrativo.
+
+2\. El órgano que ejercite la iniciativa remitirá el correspondiente anteproyecto a la Dirección General de Transportes Terrestres y ésta, salvo que tras los estudios técnicos precisos decidiera su no tramitación, realizará las modificaciones que en su caso resulten pertinentes, y lo someterá a información pública por un plazo de treinta días, recabando los informes del Consejo Nacional de Transportes Terrestres y del Comité Nacional del Transporte por Carretera, que deberán ser emitidos en ese mismo plazo.
+
+Si el plan afectara al diseño general de la red de transportes regulares de viajeros, o implicara restricciones o condicionamientos generales para el acceso al mercado, será asimismo preceptivo el informe de la Conferencia Nacional de Transportes o, por delegación de ésta, el de la Comisión de Directores generales de Transporte del Estado y de las Comunidades Autónomas.
+
+Deberá en todo caso solicitarse el informe de las Comunidades Autónomas cuyo territorio esté afectado por el Plan, siendo de treinta días el plazo para la emisión del mismo.
+
+3\. La aprobación de los planes corresponderá al Ministro de Transportes, Turismo y Comunicaciones, salvo que los mismos impliquen el comprometer recursos presupuestarios, en cuyo caso la aprobación corresponderá al Gobierno.
+
+No obstante lo anterior, cuando el plan deba afectar a transportes cuya ordenación corresponda a diversos órganos administrativos, su aprobación se realizará conjuntamente por todos ellos. Si debieran contener prescripciones relativas a las infraestructuras, será necesaria la participación en su elaboración, y la conformidad en su aprobación, de los órganos competentes sobre éstas.
+
+4\. En los planes deberán preverse mecanismos de modificación y adaptación de los mismos a las nuevas necesidades surgidas, a los cambios en las circunstancias concurrentes y a las variaciones que la experiencia en su aplicación aconseje.
+
+#### Sección 2.ª Transporte sucesivo
+
+##### Artículo 27.
+
+1\. Las Empresas que realicen transporte público en un determinado modo podrán contratar, en nombre propio con otros transportistas debidamente autorizados, la realización de transportes en un modo diferente, siempre que los mismos sean antecedentes o subsiguientes de los que ellos realicen directamente y supongan un complemento de éstos que se lleve a cabo sin solución de continuidad.
+
+El contrato de dichas Empresas con los cargadores o usuarios podrá ser único para todo el recorrido del transporte, y las mismas tendrán respecto al transporte que contraten con otras Empresas, las obligaciones y responsabilidades administrativas legalmente atribuidas a la agencias de transporte, si bien el Ministro de Transportes, Turismo y Comunicaciones, en razón del carácter específico de la actividad, no asimilable a la de las agencias, podrá establecer diferenciaciones con las normas generales aplicables a éstas, especialmente en relación con el régimen tarifario.
+
+2\. Análogo régimen al establecido en el punto anterior será aplicable a las Empresas de transporte por carretera que contraten con otras la realización de transportes, asimismo por carretera, antecedentes o subsiguientes y de carácter complementario de los que ellas realicen directamente, siempre que los mismos superen los límites y se cumplan las condiciones tendentes a garantizar dicha complementariedad que, en su caso, determine el Ministro de Transportes, Turismo y Comunicaciones.
+
+3\. Las Empresas transportistas que realicen, en un mismo modo, o en modos diferentes, transportes sucesivos y complementarios entre sí, podrán, mediante los oportunos pactos y a través de los instrumentos jurídicos previstos en ellos, contratar conjuntamente con el usuario o cargador la realización de la totalidad del transporte, debiéndose cumplir las condiciones en su caso establecidas por la Administración.
+
+4\. Lo previsto en los puntos anteriores se entenderá sin perjuicio de la aplicación del régimen de responsabilidad jurídico-privada previsto en el Código de Comercio, o el que en su caso resulte de aplicación conforme a lo dispuesto en los tratados internacionales suscritos por España.
+
+#### Sección 3.ª Régimen tarifario
+
+##### Artículo 28.
+
+Los transportes públicos regulares permanentes de viajeros de uso general estarán sujetos a tarifas máximas obligatorias que se determinarán en el correspondiente título concesional o autorización especial.
+
+Dichas tarifas obligatorias deberán estar expuestas al público de conformidad con lo previsto en este Reglamento y con lo que el Ministro de Fomento determine.
+
+El Ministro de Fomento podrá extender la obligatoriedad de exponer al público otros precios que apliquen las empresas transportistas o que desarrollen actividades auxiliares y complementarias del transporte, aunque no vengan determinados mediante tarifas administrativas de obligado cumplimiento.
+
+> Se modifica por el art. único.1 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+> Se modifica el apartado 3 por el art. único.14 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica el apartado 8 y se deroga el apartado 9 por el art. único.1 y la disposición derogatoria única del Real Decreto 366/2002, de 19 de abril. [Ref. BOE-A-2002-8737](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8737)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 29.
+
+El Ministerio de Fomento elaborará y mantendrá actualizados, previa audiencia del Comité Nacional del Transporte por Carretera y de las asociaciones más representativas de los usuarios del transporte, sendos observatorios en los que se contemple la evolución de los costes de los transportes de viajeros y de mercancías, a los que dará difusión a través de los medios que se consideren más eficaces para facilitar su conocimiento por empresas y particulares.
+
+De conformidad con lo dispuesto en el artículo 18 de la LOTT, el objeto de dichos observatorios será exclusivamente informativo y no supondrá, en ningún caso, limitación a la libre fijación de precios por las partes contratantes de transportes discrecionales de viajeros y mercancías o de actividades auxiliares y complementarias del transporte.
+
+> Se modifica por el art. 2.10 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.15 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifican los apartados 2 y 4 por el art. único.2 del Real Decreto 366/2002, de 19 de abril. [Ref. BOE-A-2002-8737](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8737)
+
+#### Sección 4.ª Participación de las Asociaciones de cargadores y usuarios en las funciones administrativas
+
+##### Artículo 30.
+
+1\. Las Asociaciones representativas de los cargadores, debidamente inscritos en el Registro a tal efecto existente, en la Dirección General de Transportes Terrestres, y de usuarios, inscritas en el Registro General de Asociaciones de Consumidores y Usuarios, serán consultadas en la forma que, a fin de garantizar su adecuada participación, el Ministro de Transportes, Turismo y Comunicaciones determine, en la elaboración de las disposiciones y resoluciones administrativas referentes al transporte que les afecten.
+
+2\. El Ministro de Transportes, Turismo y Comunicaciones podrá institucionalizar dicha participación mediante la creación de Organismos de representación administrativa de cargadores y usuarios en los que éstos estén representados a través de sus Asociaciones.
+
+#### Sección 5.ª El consejo nacional de transportes terrestres
+
+##### Artículo 31.
+
+1\. El Consejo Nacional de Transportes Terrestres es el órgano superior de asesoramiento, consulta y debate sectorial de la Administración en asuntos que afecten al funcionamiento del sistema de transportes. El Consejo estará estructurado en dos Secciones, una de Transporte de Viajeros y otra de Transporte de Mercancías. El presidente y los consejeros miembros de cada una de las secciones serán designados por el Ministro de Fomento, de acuerdo con la siguiente estructura:
+
+a) Sección de Transporte de Viajeros:
+
+1.º Seis consejeros, representantes de las empresas de transporte público de viajeros, designados a propuesta del Comité Nacional del Transporte por Carretera.
+
+2.º Dos consejeros, representantes de las agencias de viaje, designados a propuesta del Comité Nacional del Transporte por Carretera.
+
+3.º Un consejero, representante de las estaciones de transporte de viajeros, designado a propuesta del Comité Nacional del Transporte por Carretera.
+
+4.º Siete consejeros, representantes de los usuarios, seis de los cuales serán designados por el Consejo de Consumidores y Usuarios y uno por el Comité Español de Representantes de Minusválidos (CERMI).
+
+5.º Dos consejeros, representantes de los trabajadores del sector de transporte de viajeros, designados a propuesta de las centrales sindicales más representativas en dicho sector.
+
+6.º Dos consejeros, representantes de las empresas de fabricación y carrozado de vehículos industriales de viajeros, designados a propuesta de las asociaciones representativas de las mismas.
+
+7.º Cuatro consejeros, representantes de las empresas ferroviarias, nombrados a propuesta conjunta de RENFE-operadora, FEVE y las asociaciones de empresas ferroviarias, y otro más designado a propuesta del administrador de infraestructuras ferroviarias.
+
+8.º Un consejero, representante de las empresas de transporte aéreo no regular, nombrado a propuesta de las asociaciones representativas de las mismas.
+
+9.º Dos consejeros, designados entre expertos en transportes terrestres de reconocido prestigio.
+
+10.º Un mínimo de cinco consejeros, designados entre miembros de la Administración, especializados en materias que afecten al funcionamiento del sistema de transportes. Dichos consejeros tendrán voz, pero no voto. Al menos dos de ellos serán designados a propuesta de la Conferencia Nacional del Transporte o, por delegación de ésta, de la Comisión de Directores Generales de Transporte del Estado y de las Comunidades Autónomas. Otro de los designados estará especialmente cualificado por su conocimiento del sector ferroviario.
+
+b) Sección de Transporte de Mercancías:
+
+1.º Seis consejeros, representantes de las empresas de transporte público de mercancías por carretera, designados a propuesta del Comité Nacional del Transporte por Carretera.
+
+2.º Tres consejeros, representantes de las empresas dedicadas a actividades auxiliares y complementarias del transporte de mercancías, designados a propuesta del Comité Nacional del Transporte por Carretera.
+
+3.º Seis consejeros, representantes de las empresas cargadoras, designados a propuesta de las asociaciones representativas de éstas.
+
+4.º Un consejero, representante de los usuarios, designado por el Consejo de Consumidores y Usuarios.
+
+5.º Dos consejeros, representantes de los trabajadores del sector de transporte de mercancías, designados a propuesta de las centrales sindicales más representativas en dicho sector.
+
+6.º Dos consejeros, representantes de las empresas fabricantes de vehículos industriales de mercancías, de carrozado de dichos vehículos y de fabricación de remolques y semirremolques, designados a propuesta de las asociaciones representativas de las mismas.
+
+7.º Un consejero, designado a propuesta del Consejo Superior de Cámaras Oficiales de Comercio, Industria y Navegación.
+
+8.º Cuatro consejeros representantes de las empresas de transporte ferroviario, nombrados a propuesta conjunta de RENFE-operadora, FEVE y las asociaciones de empresas ferroviarias, y otro más designado a propuesta del administrador de infraestructuras ferroviarias.
+
+9.º Un consejero, representante de las empresas de transporte aéreo de carga, nombrado a propuesta de las asociaciones representativas de las mismas.
+
+10.º Un consejero, representante de las empresas de transporte marítimo, nombrado a propuesta de las asociaciones representativas de las mismas.
+
+11.º Dos consejeros designados entre expertos en transportes terrestres de reconocido prestigio.
+
+12.º Un mínimo de cinco consejeros designados entre miembros de la Administración especializados en materias que afecten al funcionamiento del sistema de transporte. Dichos consejeros tendrán voz, pero no voto. Al menos dos de ellos serán designados a propuesta de la Conferencia Nacional del Transporte o, por delegación de ésta, de la Comisión de Directores Generales de Transporte del Estado y de las Comunidades Autónomas. Otro de los designados estará especialmente cualificado por su conocimiento del sector ferroviario.
+
+2\. Además de los Consejeros a que se refiere el punto anterior, existirán un mínimo de dos y un máximo de cuatro Consejeros que podrán ser comunes para las dos Secciones del Consejo, y que actuarán con voz pero sin voto, a los cuales corresponderá la preparación de los asuntos a debatir y la redacción, en su caso, de los correspondientes informes o propuestas, contando a tal efecto con el apoyo de los medios personales y materiales a que se refiere el punto 6 del artículo siguiente.
+
+Los referidos Consejeros, uno de los cuales actuará en cada sección como Secretario, serán designados por el Ministro de Transportes, Turismo y Comunicaciones a propuesta del propio Consejo, y serán retribuidos por la Administración.
+
+3\. Los Presidentes de cada una de las dos secciones del Consejo serán designados a propuesta de los Consejeros de la misma, aprobada por mayoría simple, pudiendo recaer dicha designación en uno de ellos.
+
+La Presidencia del Consejo la obstentarán por turno rotativo anual los Presidentes de las secciones, correspondiendo la misma al año en el que sea constituido el Consejo al Presidente de la Sección de Mercancías.
+
+> Se modifica el apartado 1 por el art. único.16 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica el apartado 1 por la disposición adicional 4 del Real Decreto 2387/2004, de 30 de diciembre. [Ref. BOE-A-2004-21908](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-21908)
+
+##### Artículo 32.
+
+1\. El Consejo Nacional de Transportes Terrestres podrá ser consultado por los órganos administrativos a los que corresponda la dirección de la ordenación del transporte, en todos aquellos asuntos de su competencia cuya trascendencia así lo haga aconsejable.
+
+Será en todo caso preceptivo el informe del Consejo Nacional de Transportes Terrestres en todas aquellas cuestiones respecto a las que ello se encuentre previsto en este Reglamento, así como en las que, cuando así lo recomiende la mejor ordenación del transporte, se determinen por el Gobierno o por el Ministro de Transportes, Turismo y Comunicaciones.
+
+2\. Independientemente de las consultas que le sean formuladas, el Consejo Nacional de Transportes Terrestres podrá proponer a los órganos administrativos competentes la elaboración de las normas o la adopción de los acuerdos de ordenación o control del transporte que estime necesarios, elaborando a tal efecto los correspondientes informes justificativos,
+
+3\. Las actuaciones del Consejo serán realizadas por la Sección de Transporte de Viajeros o por la de Mercancías según en cada caso corresponda por razón de la materia a tratar. Cuando se trate de cuestiones que afecten tanto al sector de transporte de viajeros como al de mercancías intervendrán simultánea pero diferenciadamente ambas secciones, cada una de las cuales emitirá su informe o producirá su acuerdo.
+
+4\. Los Reglamentos de organización y funcionamiento de cada una de las dos Secciones del Consejo, serán aprobados de forma diferenciada por mayoría absoluta de los miembros de éstas, debiendo ser ratificados por el Ministerio de Transportes, Turismo y Comunicaciones.
+
+Cuando no resulte posible la aprobación de los referidos Reglamentos mediante el mediante el procedimiento ordinario previsto en el párrafo anterior, el Ministro de Transportes, Turismo y Comunicaciones podrá establecer Reglamentos provisionales que dejarán de aplicarse tan pronto como se disponga de los aprobados mediante dicho procedimiento ordinario.
+
+5\. Los acuerdos del Consejo se tomarán y los informe se aprobarán por mayoría simple de sus miembros, salvo que voten en contra de los mismos el 25 por 100 o más de los miembros con derecho a voto, en cuyo caso, será necesaria mayoría absoluta de los miembros con derecho a voto.
+
+Cuando no sea posible obtener las mayorías previstas en el párrafo anterior no existirá informe o acuerdo formal de Consejo, sin perjuicio de que puedan ser remitidas a la Administración las distintas opiniones sostenidas.
+
+Los miembros discrepantes del acuerdo o informe podrán salvar su voto contrario, elaborando en su caso un informe justificativo que será asimismo remitido a la Administración.
+
+Los Consejeros que conforme a lo previsto en el artículo anterior tengan voz pero no voto, podrán reflejar en todo caso su opinión, que será remitida a la Administración junto con el informe o acuerdo oficial del Consejo.
+
+El Presidente tendrá voto de calidad y dirimirá con el mismo los posibles empates.
+
+6\. El Ministerio de Transportes, Turismo y Comunicaciones pondrá a disposición del Consejo los medios personales y materiales necesarios para la realización de sus funciones.
+
+## TÍTULO II — Disposiciones de aplicación general a los transportes por carretera y a las actividades auxiliares y complementarias de los mismos
+
+### CAPÍTULO I — Condiciones previas de carácter personal para el ejercicio de la actividad
+
+##### Artículo 33.
+
+1\. De conformidad con lo dispuesto en el artículo 42.1 de la LOTT, la realización de transporte público de viajeros y mercancías estará supeditada a la posesión de una autorización que habilite para ello, expedida por el órgano competente de la Administración General del Estado o, en su caso, por el de aquella Comunidad Autónoma en que se domicilie dicha autorización, cuando esta facultad le haya sido delegada por el Estado.
+
+2\. No obstante lo dispuesto en el apartado anterior, en ejecución de lo que se establece en el artículo 42.2 de la LOTT, no será necesaria la previa obtención de autorización para realizar las siguientes modalidades de transporte público:
+
+a) Transportes realizados en vehículos cuya velocidad máxima autorizada no supere los 40 kilómetros por hora.
+
+b) Transportes realizados en vehículos que lleven unidos de forma permanente máquinas o instrumentos tales como los destinados a grupos electrógenos, grúas de elevación, equipos de sondeo, etc., constituyendo dichas máquinas o instrumentos el uso exclusivo del vehículo. Esta exención incluirá el transporte a bordo de tales vehículos de aquellas piezas, herramientas u otros adminículos que resulten necesarios para el correcto funcionamiento de la máquina o equipo o la adecuada prestación de los servicios a que se encuentran destinados.
+
+c) Transportes realizados en vehículos de menos de 3 ruedas.
+
+d) Transportes de mercancías realizados en vehículos cuya masa máxima autorizada no sea superior a 2 toneladas.
+
+Asimismo, estarán exentos los transportes de mercancías realizados en vehículos de la categoría N1 que utilicen como fuente de energía combustibles alternativos, cuya masa máxima autorizada no sea superior a 2,5 toneladas, siempre que su capacidad de carga útil no se incremente respecto de un vehículo equivalente cuya masa máxima autorizada no sea superior a 2 toneladas.
+
+e) Transportes realizados íntegramente en recintos cerrados dedicados a actividades distintas del transporte terrestre, salvo en aquellos supuestos en que, por concurrir circunstancias de especial repercusión en el transporte de la zona, el órgano competente de la Administración de transportes, mediante resolución motivada, establezca expresamente la obligatoriedad de autorización.
+
+f) Transportes de equipajes en remolques arrastrados por vehículos destinados al de viajeros.
+
+g) Transportes de basuras e inmundicias de carácter doméstico realizados en vehículos especialmente acondicionados para ello o que, en cualquier caso, hubiesen sido adquiridos con este fin por la correspondiente Entidad local.
+
+h) Transportes de dinero, valores y mercancías preciosas realizados en vehículos especialmente acondicionados para ello.
+
+i) Transportes de medicamentos, de aparatos y equipos médicos, y de otros artículos necesarios en casos de ayudas urgentes y, en particular, de catástrofes naturales.
+
+j) Transportes realizados con ocasión de la impartición de clases prácticas destinadas a la obtención del permiso de conducción o del certificado de aptitud profesional de los conductores (CAP).
+
+k) Transportes realizados utilizando vehículos históricos conceptuados como tales de conformidad con lo dispuesto en el Reglamento de Vehículos Históricos, aprobado por el Real Decreto 1247/1995, de 14 de julio.
+
+> Se modifica la letra d) del apartado 2 por el art. 1.1 del Real Decreto 242/2022, de 5 de abril. [Ref. BOE-A-2022-5520](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5520)
+
+> Se modifica por el art. 2.11 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 34.
+
+La obtención y mantenimiento de las distintas clases de autorizaciones de transporte público de viajeros o mercancías por carretera estará supeditada al cumplimiento de los requisitos establecidos en el artículo 43 de la LOTT que en cada caso correspondan.
+
+> Se modifica por el art. 2.12 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 35.
+
+1\. A efectos del cumplimiento de lo dispuesto en el artículo 43.1.a) de la LOTT, cuando el titular de la autorización tenga nacionalidad española o de algún otro Estado miembro de la Unión Europea, del Espacio Económico Europeo, o de cualquier otro Estado a cuyos ciudadanos se extienda dicho régimen de aplicación, así como a los miembros de sus familias, habrá de resultar acreditado que cuenta con el correspondiente Número de Identificación Fiscal y que dicho Número no haya sido revocado por la Agencia Estatal de Administración Tributaria, y que cumple con los requisitos exigibles en la normativa aplicable a todos ellos.
+
+Cuando el titular de la autorización tenga una nacionalidad distinta a las anteriores, habrá de acreditarse que cuenta con una autorización de residencia de larga duración o de residencia temporal y trabajo y, como en el supuesto anterior, con el correspondiente Número de Identificación Fiscal vigente y no revocado.
+
+2\. En la comprobación del cumplimiento de los requisitos señalados en el apartado anterior, el órgano competente deberá atenerse exclusivamente a los datos obrantes en los correspondientes registros del Ministerio del Interior y, en su caso, en los de la Agencia Estatal de Administración Tributaria.
+
+> Se modifica por el art. 2.13 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 36.
+
+1\. A efectos del cumplimiento de lo dispuesto en el artículo 43.1.b) de la LOTT, habrá de resultar acreditado que la persona jurídica titular de la autorización reúne las siguientes condiciones:
+
+a) Que se encuentra inscrita en el Registro Mercantil o, en su caso, en el registro público que corresponda.
+
+b) Que tiene personalidad jurídica propia e independiente de la de aquellas personas que, en su caso, la integren.
+
+c) Que tiene ánimo de lucro.
+
+d) Que la realización de transporte público forma parte de su objeto social.
+
+2\. En la comprobación del cumplimiento de las condiciones señaladas en el apartado anterior, el órgano competente deberá atenerse exclusivamente a los datos obrantes en el Registro Mercantil, cuando la empresa estuviera obligada a inscribirse en este.
+
+En caso contrario, la empresa habrá de acreditar documentalmente el cumplimiento de las mencionadas condiciones.
+
+3\. No obstante lo dispuesto con carácter general en este artículo, en caso de fallecimiento del titular de la autorización, podrá realizarse su novación subjetiva en favor de sus herederos de forma conjunta, por un plazo máximo de dos años.
+
+Transcurrido dicho plazo, o antes si se produjera la adjudicación hereditaria, deberá cumplirse el requisito señalado en el apartado 1, revocándose, en caso contrario, dicha autorización. A tal efecto, se entenderá que se cumple el citado requisito cuando la autorización se ponga a nombre bien de uno de los coherederos como persona física, bien de una sociedad mercantil en la que participe como socio al menos uno de los coherederos.
+
+> Se modifica por el art. 2.14 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica el apartado 1 por el art. único.17 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 37.
+
+1\. De conformidad con lo dispuesto en los artículos 42.1 y 43.1.c) de la LOTT, como regla general las autorizaciones se domiciliarán en el lugar en que, conforme a los datos obrantes en los registros de la Agencia Estatal de Administración Tributaria, se encuentre el domicilio fiscal de la empresa.
+
+No obstante, cuando la empresa pretenda que la autorización se domicilie en un lugar distinto, deberá acreditar documentalmente los siguientes extremos:
+
+a) Que su actividad principal no es la de transporte.
+
+b) Que la explotación de su actividad de transporte se desarrolla principalmente en ese lugar, en el que cuenta con un establecimiento de cuyo uso dispone en virtud de cualquier título jurídicamente válido.
+
+2\. No obstante lo dispuesto en el apartado anterior, las autorizaciones de transporte interurbano en vehículos de turismo se domiciliarán en el lugar en que se encuentre domiciliada la licencia que habilita a su titular para realizar transporte urbano con el vehículo de que se trate.
+
+Las autorizaciones de arrendamiento de vehículos con conductor se domiciliarán en el lugar en que lo esté el vehículo a que hayan de referirse.
+
+3\. El cambio del domicilio de la empresa habrá de ser puntualmente comunicado al órgano competente para el otorgamiento de la autorización, quedando condicionada la modificación de esta a que se acrediten idénticos requisitos a los señalados en este artículo en relación con el nuevo domicilio.
+
+> Se modifica por el art. 2.15 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica la letra c) por el art. único.18 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 38.
+
+1\. Las autorizaciones de transporte habilitan para realizar transporte exclusivamente con los vehículos que se les hayan vinculado mediante la inscripción de su matrícula en el Registro de Empresas y Actividades de Transporte.
+
+2\. A efectos del cumplimiento de lo dispuesto en el artículo 43.1.d) de la LOTT, habrá de resultar acreditado que los vehículos con capacidad de tracción propia que se vayan a utilizar para realizar transporte al amparo de la autorización se encuentran matriculados en España y su titular dispone de ellos en propiedad, arrendamiento financiero o arrendamiento ordinario, de conformidad con lo dispuesto en el artículo 54.2 de la LOTT.
+
+En la comprobación del cumplimiento de este requisito, el órgano competente deberá atenerse exclusivamente a los datos obrantes en los registros de la Jefatura Central de Tráfico.
+
+Cuando el titular de la autorización pretenda adscribir a esta un vehículo del que disponga en arrendamiento ordinario, deberá acreditar documentalmente la existencia del oportuno contrato con una empresa arrendadora.
+
+3\. No obstante, los vehículos vinculados a títulos habilitantes para la realización de transporte público de mercancías podrán estar matriculados en otro Estado miembro, siempre que se respete el límite temporal máximo previsto en la legislación nacional a efectos de su matriculación obligatoria en España.
+
+Cuando el titular de la autorización pretenda adscribir a esta un vehículo del que sea propietario, deberá acreditarlo mediante cualquier medio admitido en derecho.
+
+Cuando el titular de la autorización pretenda adscribir a esta un vehículo del que disponga en arrendamiento ordinario, deberá acreditar documentalmente la existencia del oportuno contrato con una empresa arrendadora.
+
+> Se añade el apartado 3 por el art. único del Real Decreto 613/2024, de 2 de julio. [Ref. BOE-A-2024-13421](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13421)
+
+> Se modifica por el art. 2.16 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta, para los vehículos adscritos a las autorizaciones de transporte de viajeros en autobús, lo dispuesto en la disposición transitoria 1 del citado Real Decreto.
+
+> Se modifica por el art. único.19 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+##### Artículo 39.
+
+A efectos del cumplimiento de lo dispuesto en el artículo 43.1.e) de la LOTT, el titular de la autorización deberá comunicar al órgano competente para su otorgamiento la dirección de correo electrónico de que dispone para celebrar y documentar a distancia el contrato de transporte con sus clientes.
+
+El cambio de dicha dirección de correo electrónico habrá de ser puntualmente comunicado, asimismo, al referido órgano competente.
+
+> Se modifica por el art. 2.17 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 40.
+
+1\. A efectos del cumplimiento de lo dispuesto en el artículo 43.1.f) de la LOTT en relación con las obligaciones fiscales de la empresa, habrá de resultar acreditado que esta reúne las siguientes condiciones:
+
+a) Que se encuentra en situación de alta en el Censo de Obligados Tributarios, en el epígrafe correspondiente al ejercicio profesional de la actividad de transporte que resulte pertinente en función de la clase de autorización de que se trate.
+
+b) Que no tiene deudas con el Estado o una Comunidad Autónoma en período ejecutivo.
+
+2\. En la comprobación del cumplimiento de las condiciones señaladas en el apartado anterior, el órgano competente deberá atenerse exclusivamente a los datos obrantes en los registros de la Agencia Estatal de Administración Tributaria o del órgano de la Comunidad Autónoma que, en su caso, cumpla idénticas funciones.
+
+No obstante, aunque el cumplimiento del requisito señalado en la letra b) del apartado anterior no se deduzca de los datos obrantes en dichos registros, podrá considerarse cumplido si el interesado acredita documentalmente que sus deudas pendientes han sido aplazadas o fraccionadas por el órgano competente o que se ha acordado su suspensión con ocasión de la impugnación de las correspondientes liquidaciones.
+
+> Se modifica por el art. 2.18 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+### CAPÍTULO II — Títulos habilitantes
+
+##### Artículo 41.
+
+1\. A efectos del cumplimiento de lo dispuesto en el artículo 43.1.f) de la LOTT en relación con las obligaciones de carácter laboral y social de la empresa, habrá de resultar acreditado que esta reúne las siguientes condiciones:
+
+a) Que se encuentra inscrita en el régimen de la Seguridad Social que corresponda.
+
+b) Que se encuentra al corriente en el pago de las cuotas o de otras deudas con la Seguridad Social.
+
+2\. En la comprobación del cumplimiento de las condiciones señaladas en el apartado anterior, el órgano competente deberá atenerse exclusivamente a los datos obrantes en los registros de la Tesorería General de la Seguridad Social.
+
+No obstante, aunque el cumplimiento del requisito señalado en la letra b) del apartado anterior no se deduzca de los datos obrantes en dichos registros, podrá considerarse cumplido si el interesado acredita documentalmente que sus deudas pendientes con la Seguridad Social están aplazadas o fraccionadas por esta o se ha acordado su suspensión con ocasión de su impugnación.
+
+3\. Sin perjuicio de lo dispuesto en los dos apartados anteriores, quienes intervengan como porteadores en la realización de un transporte únicamente podrán ejercer su actividad utilizando personal encuadrado en su propia organización empresarial, de conformidad con lo que se dispone en el artículo 54.3 de la LOTT.
+
+No obstante, se admitirá que las unidades móviles de fabricación de explosivos sean conducidas por personal ajeno a la empresa, siempre que así resulte necesario por razones de seguridad en aplicación de su normativa específica.
+
+En todo caso, los conductores de los vehículos utilizados para la realización de un transporte deberán encontrarse en situación de alta en el Régimen de la Seguridad Social que, en cada caso, corresponda.
+
+> Se modifica por el art. 2.19 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se añade la letra n) al apartado 2 por el art. único.2 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+> Se modifica por el art. único.20 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 42.
+
+1\. De conformidad con lo que se dispone en el artículo 51 de la LOTT, la Administración deberá visar bienalmente todas las autorizaciones de transporte, con arreglo a los plazos que, a tal efecto, señale la Dirección General de Transporte Terrestre del Ministerio de Fomento.
+
+No obstante, la Dirección General de Transporte Terrestre podrá establecer una frecuencia distinta en relación con alguna modalidad de autorizaciones de transporte cuando las condiciones exigidas para su obtención, o una parte significativa de estas, ya sean objeto de revisión periódica por otras circunstancias.
+
+2\. En dicho visado, el órgano que en cada caso resulte competente para la expedición de las autorizaciones deberá comprobar que continúan cumpliéndose todas las condiciones exigidas para su obtención y mantenimiento.
+
+Cuando, con ocasión del visado, se detecte el incumplimiento de alguna de tales condiciones, el órgano competente requerirá al titular de la autorización para que, en un plazo de diez días, acredite su efectivo cumplimiento. De no resultar acreditado tal extremo en el referido plazo,la autorización perderá automáticamente su validez, sin necesidad de una declaración expresa de la Administración en ese sentido, si bien el órgano competente deberá notificarlo a quien era su titular.
+
+En el caso de autorizaciones referidas a un conjunto de vehículos, cuando solo se hubiese detectado el incumplimiento de los requisitos relativos a un determinado vehículo, únicamente se excluirá este de la relación de los que se encuentren vinculados a la autorización.
+
+3\. Las autorizaciones de transporte público invalidadas por no haber sido acreditados los requisitos exigidos para su visado podrán ser rehabilitadas por el órgano competente para su expedición, si así se solicita, dentro del período de un año contado a partir de la notificación prevista en el apartado anterior y resulta acreditado el cumplimiento de todas las condiciones exigidas para su obtención y mantenimiento.
+
+> Se modifica por el art. 2.20 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica el párrafo primero del apartado 1 por el art. único.3 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+##### Artículo 43.
+
+1\. Lo dispuesto en el artículo anterior no es óbice para que la Administración pueda comprobar en cualquier momento el adecuado cumplimiento de las condiciones exigidas para la obtención y mantenimiento de una autorización de transporte por parte de su titular.
+
+Cuando, con ocasión de una de dichas comprobaciones, detecte el incumplimiento de alguna de tales condiciones, el órgano competente deberá proceder a su suspensión, en los términos previstos en el artículo 52 de la LOTT.
+
+2\. En todo caso, los Servicios de Inspección del Transporte Terrestre deberán controlar anualmente al menos al veinticinco por ciento de las empresas obligadas a cumplir el requisito de competencia profesional cuyas autorizaciones no hayan de ser visadas ese año, con el objeto específico de comprobar que continúan contando con una persona que ejerza las funciones de gestor de transporte con la vinculación señalada en el artículo 111.
+
+Sin perjuicio de la incoación del correspondiente procedimiento sancionador, cuando detecten el incumplimiento de esa condición deberán comunicarlo inmediatamente, en ejecución de lo que se dispone en el artículo 143.3 de la LOTT, a la Oficina Territorial de Registro de Empresas y Actividades de Transporte competente por razón del domicilio de la autorización, la cual, a su vez, deberá proceder de conformidad con lo dispuesto en el artículo 52 de la LOTT.
+
+> Se modifica por el art. 2.21 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.21 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 44.
+
+1\. Quien pretenda obtener una autorización de transporte público de viajeros en autobús nueva deberá acreditar que dispone, en los términos previstos en el artículo 38, al menos de un vehículo que, en el momento de solicitar la autorización, no podrá superar la antigüedad de dos años, contados desde su primera matriculación.
+
+La adscripción de nuevos vehículos a una autorización de transporte público de viajeros en autobús ya existente estará condicionada a que resulte acreditado que la capacidad financiera de la empresa se ajusta al nuevo número de vehículos. En todo caso, los nuevos vehículos deberán cumplir las condiciones señaladas en el artículo 38.
+
+2\. Quien pretenda obtener una autorización de transporte público de mercancías nueva deberá acreditar que dispone, en los términos previstos en el artículo 38, al menos de un vehículo.
+
+La adscripción de nuevos vehículos a una autorización de transporte público de mercancías ya existente, así como la sustitución de alguno de los que ya se encontraban adscritos, deberá ser autorizada por el órgano competente mediante su anotación registral. El otorgamiento de dicha autorización estará condicionado al cumplimiento de los siguientes requisitos:
+
+a) El nuevo vehículo deberá cumplir las condiciones señaladas en el artículo 38.
+
+b) La capacidad financiera de la empresa deberá ser suficiente en relación con el número de vehículos resultante de la nueva adscripción.
+
+3\. Los titulares de las autorizaciones de transporte público de viajeros en autobús o de mercancías podrán excluir en cualquier momento los vehículos que tengan por conveniente de la relación de los que se encontrasen adscritos a la autorización, comunicándoselo al órgano competente a efectos de que realice la oportuna anotación registral.
+
+4\. En ningún caso se otorgará una nueva autorización cuando el interesado sea titular de otra autorización de transporte de mercancías o viajeros cuya validez se encuentre, por cualquier causa suspendida o se halle en período de rehabilitación tras haber sido caducada por falta de visado, salvo que previamente renuncie a ésta.
+
+> Se modifica el apartado 2 por el art. 1.2 del Real Decreto 242/2022, de 5 de abril. [Ref. BOE-A-2022-5520](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5520)
+
+> Se anula el inciso destacado del apartado 2, en la redacción dada por el art. 2.22 del Real Decreto 70/2019, de 15 de febrero, por Sentencia del TS de 28 de septiembre de 2020. [Ref. BOE-A-2020-13688](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13688)
+
+> En el mismo sentido se pronuncia la Sentencia del TS de 29 de septiembre de 2020. [Ref. BOE-A-2020-15068](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15068)
+
+> Se modifica por el art. 2.22 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se suprime por el art. único.4 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+##### Artículo 45.
+
+Las autorizaciones de transporte público de viajeros en autobús y de transporte público de mercancías podrán ser transmitidas a otros titulares, siempre que la Administración así lo autorice, realizando la oportuna anotación a favor del nuevo titular en el Registro de Empresas y Actividades de Transporte.
+
+El otorgamiento de dicha autorización estará condicionado al cumplimiento de los siguientes requisitos:
+
+a) Que el adquirente no sea previamente titular de una autorización de transporte igual a la que pretende adquirir.
+
+b) Que el adquirente pase a disponer, a través de cualquiera de las modalidades previstas en el artículo 38, de todos los vehículos que se encuentren adscritos a la autorización en el momento de ser transmitida.
+
+c) Que el adquirente cumpla todos los requisitos exigidos para la obtención de la autorización que pretende adquirir, con excepción de los relativos a la antigüedad inicial de los vehículos señalada en el artículo anterior.
+
+> Se modifica por el art. 2.23 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se suprime el apartado 3 por el art. único.5 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+##### Artículo 46.
+
+De conformidad con lo dispuesto en el artículo 146.5 de la LOTT, el pago de las sanciones pecuniarias, impuestas mediante resolución que ponga fin a la vía administrativa, por infracciones a la legislación de transportes será requisito necesario para que la Administración otorgue al infractor cualquier nueva autorización o lleve a cabo cualquiera de las actuaciones relativas al visado, rehabilitación o transmisión de autorizaciones preexistentes o levante su suspensión.
+
+> Se modifica por el art. 2.24 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+### CAPÍTULO III — Reglas y exigencias generales
+
+##### Artículo 47.
+
+El Registro de Empresas y Actividades de Transporte se llevará por medios electrónicos de conformidad con lo dispuesto en este Reglamento.
+
+> Se modifica por el art. 2.25 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica el apartado 4 por el art. único.22 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 48.
+
+Corresponde a la Dirección General de Transporte Terrestre del Ministerio de Fomento la realización de las funciones atribuidas a la Oficina Central del Registro de Empresas y Actividades de Transporte.
+
+Tendrán la consideración de Oficinas Territoriales todos aquellos centros de la Administración General del Estado o de las Comunidades Autónomas a los que, en virtud de competencias propias o delegadas, corresponda otorgar alguno de los títulos habilitantes exigidos por las normas de ordenación de los transportes terrestres, adoptar cualquier resolución en relación con los contratos de gestión de los servicios públicos de transporte regular de viajeros de uso general de competencia estatal o imponer sanciones por la comisión de alguna de las infracciones relacionadas en los artículos 197, 198 y 199.
+
+> Se modifica por el art. 2.26 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.23 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 49.
+
+1\. Son funciones de la Oficina Central del Registro de Empresas y Actividades de Transporte:
+
+a) El diseño, desarrollo y mantenimiento de los programas y aplicaciones informáticas de gestión del Registro.
+
+b) El mantenimiento de las instalaciones y equipamiento necesario para el adecuado funcionamiento del servidor central del Registro.
+
+c) La inscripción de la pérdida de honorabilidad de una persona y su comunicación a esta y al órgano competente por razón del territorio, en los términos previstos en los artículos 118 y 120.
+
+d) El mantenimiento del Portal Público de Consulta regulado en el apartado siguiente, que deberá resultar accesible.
+
+e) El mantenimiento de los bancos de preguntas y supuestos prácticos que hayan de utilizarse en los exámenes para la obtención de las distintas habilitaciones y certificaciones personales establecidas en la legislación de transportes terrestres.
+
+2\. En ejecución de lo que se dispone en el artículo 53.6.a) de la LOTT, la Oficina Central del Registro mantendrá operativo el Portal Público de Consulta al Registro de Empresas y Actividades de Transporte, mediante el que se dará publicidad plena, a través de la página web del Ministerio de Fomento, a los siguientes datos:
+
+a) Títulos habilitantes en vigor de los que, en cada momento, se encuentra en posesión una persona, identificada por su nombre o razón social y Número de Identificación Fiscal, con indicación, en su caso, de la matrícula de los vehículos adscritos a estos.
+
+b) Contenido íntegro y actualizado de los contratos de gestión de los servicios públicos de transporte regular de viajeros de uso general de titularidad estatal, así como de sus anexos.
+
+3\. Excepcionalmente, la Oficina Central realizará la anotación relativa a una actuación administrativa referida a uno de los títulos, contratos o sanciones a que hace referencia el artículo 53.1 de la LOTT, cuando no le resulte posible hacerlo por razones técnicas a la Oficina Territorial correspondiente.
+
+> Se modifica por el art. 2.27 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 50.
+
+1\. Corresponde a cada una de las Oficinas Territoriales del Registro de Empresas y Actividades de Transporte la inscripción de las actuaciones que realice en relación con los títulos, contratos y sanciones a que hace referencia el artículo 53.1 de la LOTT, de conformidad con lo dispuesto en este Reglamento.
+
+Excepcionalmente, cuando en un determinado supuesto no le resulte posible hacerlo por razones técnicas, la Oficina Territorial de que se trate podrá solicitar que la inscripción de una determinada actuación se realice por la Oficina Central del Registro, acompañando su petición de la resolución motivada del órgano competente en que se acuerde dicha actuación.
+
+2\. Cualquier certificación o informe relativo a los datos obrantes en el Registro en relación con una empresa, título habilitante o contrato de gestión deberá ser emitida por la Oficina Territorial a la que corresponda su anotación.
+
+A estos efectos, el interesado deberá concretar la empresa, título habilitante o contrato a que se refiere su solicitud, no admitiéndose las solicitudes genéricas o que pretendan un volcado de todos los datos del Registro.
+
+Las certificaciones o informes sobre las sanciones impuestas a una empresa se emitirán, en todo caso, por el órgano competente sobre la autorización en que aquella se ampara para realizar transporte.
+
+3\. Corresponde asimismo a las Oficinas Territoriales el mantenimiento de los terminales y demás equipamiento necesario para acceder al servidor central del Registro.
+
+> Se modifica por el art. 2.28 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica el apartado 1 por el art. único.24 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+### CAPÍTULO IV — Gestión electrónica de los procedimientos
+
+> Se añade por el art. 2.29 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 51.
+
+1\. En ejecución de lo dispuesto en el artículo 56 de la LOTT, los órganos administrativos competentes para el otorgamiento de las distintas autorizaciones y habilitaciones contempladas en dicha Ley y en sus normas de desarrollo, llevarán a cabo cualquier notificación, requerimiento o comunicación que hayan de realizar a los titulares o solicitantes de las mismas por medios electrónicos, resultando de aplicación, a tal efecto, lo dispuesto en la legislación general sobre procedimiento administrativo común de las Administraciones públicas en materia de notificaciones electrónicas.
+
+2\. Los titulares o solicitantes de las autorizaciones y habilitaciones reguladas en la LOTT y en sus normas de desarrollo, deberán formular cualquier solicitud o comunicación relativa a dichas autorizaciones y habilitaciones a través de la sede electrónica del Ministerio de Fomento, utilizando para ello las aplicaciones específicas que, en su caso, haya diseñado la Oficina Central del Registro de Empresas y Actividades de Transporte.
+
+3\. Cualquier alegación, comunicación o remisión de documentación a la Administración por parte de la empresa interesada en el curso de un procedimiento de inspección o sancionador habrá de ser realizada por aquella utilizando, asimismo, medios electrónicos, en los términos previstos en el apartado anterior.
+
+> Se modifica por el art. 2.30 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 52.
+
+Las notificaciones que los órganos competentes de la Administración de transportes hayan de realizar a personas físicas que no sean titulares o solicitantes de alguna de las autorizaciones o habilitaciones contempladas en la LOTT se podrán realizar por medios electrónicos cuando aquellas así lo hayan solicitado o consentido expresamente. Esta solicitud o consentimiento podrá, en todo caso, emitirse y recabarse por medios electrónicos.
+
+Cuando no se dé el supuesto anteriormente señalado, las notificaciones se dirigirán al domicilio del interesado que figure en el registro o registros en que deba estar inscrito legalmente.
+
+> Se modifica por el art. 2.32 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 9/2013, de 4 de julio. [Ref. BOE-A-2013-7320](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7320).
+
+> Se modifica por el art. único.25 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 53.
+
+Deberán utilizar los programas y aplicaciones informáticas diseñados por la Oficina Central del Registro de Empresas y Actividades de Transporte para su gestión todos aquellos órganos administrativos que, ya sea en el ejercicio de competencias propias o delegadas, tramiten alguno de los procedimientos señalados a continuación:
+
+a) Otorgamiento, visado, modificación, suspensión o extinción de títulos que habiliten para el ejercicio de las actividades y profesiones reguladas en la LOTT o en las normas dictadas para su desarrollo.
+
+b) Adjudicación, modificación o extinción de contratos de gestión de servicios públicos de transporte regular de viajeros de uso general de titularidad estatal.
+
+c) Instrucción y resolución de procedimientos sancionadores por la comisión de infracciones relacionadas en los artículos 197, 198 y 199.
+
+> Se modifica por el art. 2.33 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 9/2013, de 4 de julio. [Ref. BOE-A-2013-7320](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7320).
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+### CAPÍTULO V — Colaboración de las Asociaciones Profesionales con la Administración
+
+##### Artículo 54.
+
+Las funciones de colaboración del sector empresarial del transporte por carretera con la Administración previstas en la legislación vigente, así como la participación en el Comité Nacional de Transportes por Carretera en representación de dicho sector, estarán reservadas a las asociaciones profesionales de transportistas y de empresas de actividades auxiliares y complementarias del transporte por carretera legalmente constituidas que ostenten una representación significativa.
+
+> Se modifica por el art. único.26 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 55.
+
+1\. La representatividad de las asociaciones profesionales de transportistas y de empresas de actividades auxiliares y complementarias del transporte por carretera, a efectos de su colaboración y participación en funciones administrativas, se hará constar en el Registro de Empresas y Actividades de Transporte. Dicha representatividad se establecerá en relación con cada una de las distintas clases o modalidades de transporte por carretera o de actividades auxiliares o complementarias de este que constituyan sección o subsección en el Comité Nacional del Transporte por Carretera, determinándose la misma en función de los siguientes criterios:
+
+a) Para cada clase o modalidad de transporte, la representatividad vendrá determinada en función del número de empresas miembro de cada asociación y del número de vehículos que aquellas tengan adscritos a las autorizaciones de que sean titulares.
+
+A los efectos previstos en esta letra, la representatividad de las asociaciones de transporte urbano de viajeros en autobús vendrá determinada por el número de empresas miembro de cada asociación y el número de vehículos destinados a esta modalidad de transporte de que sean titulares aquellas.
+
+Para determinar la representatividad de las asociaciones de transporte público internacional de mercancías se tendrán en cuenta el número de empresas miembro de cada asociación y el número de autorizaciones de transporte internacional o de copias autorizadas de estas de que sean titulares, tanto si se trata de licencias comunitarias como de otras autorizaciones bilaterales o multilaterales.
+
+b) La representatividad de las asociaciones de operadores de transporte de mercancías se determinará en función del número de empresas miembro de cada asociación titulares de autorización de operador de transporte o habilitadas para intermediar en la contratación de transporte de conformidad con lo dispuesto en la letra a) del artículo 159.1 y del número de trabajadores que aquellas tengan en situación de alta en el régimen que corresponda de la Seguridad Social.
+
+c) La representatividad de las asociaciones de arrendadores de vehículos sin conductor se determinará en función del número de empresas miembro de cada asociación y del número de locales de sede central y sucursales o locales auxiliares de los que aquellas sean titulares y hayan sido debidamente comunicados a la Administración.
+
+d) La representatividad de las asociaciones no comprendidas en las letras anteriores vendrá determinada en función del número de sus empresas miembro.
+
+2\. Salvo que el Ministro de Fomento, a propuesta del Comité Nacional del Transporte por Carretera, establezca un criterio diferente en razón a las variaciones que se produzcan en la configuración del mercado de los transportes, especialmente respecto a número de empresas, títulos habilitantes y vehículos, las representatividad de las asociaciones señaladas en el apartado anterior se medirá de acuerdo con las siguientes fórmulas:
+
+a) La representatividad de las asociaciones a que se refiere la letra a) del apartado anterior será igual a la suma del número de empresas asociadas, multiplicado por 0,20, más el número de vehículos que estas tengan adscritos a las autorizaciones de transporte de la clase de que se trate de las que tales empresas sean titulares, multiplicado por 0,80.
+
+b) La representatividad de las asociaciones a que se refiere la letra b) del apartado anterior será igual a la suma del número de empresas asociadas, multiplicado por 0,20, más el número de trabajadores que estas tengan en situación de alta en la Seguridad Social, multiplicado por 0,80.
+
+c) La representatividad de las asociaciones a que se refiere la letra c) del apartado anterior será igual a la suma del número de empresas asociadas, multiplicado por 0,80, más el número de locales de sede central y sucursales o locales auxiliares de que estas sean titulares, multiplicado por 0,20.
+
+d) La representatividad de las asociaciones a que se refiere la letra d) del apartado anterior será igual al número de sus empresas asociadas.
+
+3\. A efectos de la determinación de la representatividad a que se refiere el apartado anterior, las asociaciones deberán suministrar a la Administración los correspondientes datos y actualizar los mismos utilizando medios electrónicos en la forma y condiciones que, con el fin de facilitar y agilizar la constatación de la referida representatividad, establezca el Ministerio de Fomento.
+
+> Se modifica por el art. 2.34 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.27 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 56.
+
+1\. De conformidad con lo previsto en el artículo 57 de la LOTT las Asociaciones profesionales de transportistas y de Empresas de actividades auxiliares y complementarias del transporte por carretera, debidamente inscritas en el Registro a que se refiere el artículo 49, y que superen los límites de afiliación que, en su caso, a fin de garantizar un adecuado grado que, en su caso, a fin de garantizar un adecuado grado de representatividad, determine el Ministerio de Transportes, Turismo y Comunicaciones, sin perjuicio de otras funciones que le sean propias, tendrán las siguientes facultades de colaboración con la Administración:
+
+a) Colaborar en las funciones de gestión y trámite propias de la Administración de Transporte, que, en su caso, ésta les encomiende, entre las cuales podrán incluirse la preparación de escritos y expedientes y la compulsa de documentos.
+
+b) **(Suprimida).**
+
+c) Participar en los órganos consultivos o de asesoramiento que se constituyan por la Administración para asuntos relacionados con el transporte, y, especialmente, en el Comité Nacional de Transportes por Carretera.
+
+d) Acreditar ante la Administración de Transportes el cumplimiento por parte de sus socios de los requisitos o circunstancias que aquélla expresamente prevea.
+
+e) Ser consultadas directamente por la Administración y participar en el procedimiento de elaboración de proyectos normativos y de adopción de acuerdos administrativos cuando expresamente se las requiera a tal efecto.
+
+f) Promover iniciativas normativas, planificadoras, de inspección, o de otro tipo, ante la Administración, tendentes a la mejor ordenación del transporte.
+
+2\. La actuación ante la Administración de Transportes, en representación de sus socios, de las asociaciones profesionales de transportistas y de actividades auxiliares y complementarias del transporte por carretera, se realizará de conformidad con lo previsto en el artículo 24 de la Ley de Procedimiento Administrativo de 17 de julio de 1958.
+
+> Se suprime la letra b) del apartado 1 por el art. 2.35 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 57.
+
+1\. El Departamento de Transporte de Viajeros del Comité Nacional del Transporte por Carretera se estructura en las siguientes secciones:
+
+a) Sección de transporte público interurbano de viajeros en autobús.
+
+b) Sección de transporte público urbano de viajeros en autobús.
+
+c) Sección de transporte público interurbano de viajeros en vehículos de turismo.
+
+d) Sección de arrendamiento de vehículos con conductor.
+
+e) Sección de transporte público sanitario.
+
+f) Sección de arrendamiento de vehículos sin conductor.
+
+g) Sección de agencias de viajes.
+
+h) Sección de estaciones de autobuses.
+
+2\. El Departamento de Transporte de Mercancías del Comité Nacional del Transporte por Carretera se estructura en las siguientes secciones:
+
+a) Sección de transporte público nacional de mercancías.
+
+b) Sección de transporte público internacional de mercancías.
+
+c) Sección de operadores de transporte de mercancías.
+
+d) Sección de centros de transporte y logística de mercancías.
+
+> Se modifica por el art. 2.36 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 58.
+
+1\. Las asociaciones profesionales estarán representadas en las distintas secciones y, en su caso, subsecciones del Comité con un número de votos igual al porcentaje de representatividad que las mismas tengan, por aplicación de los criterios establecidos en el artículo 55, en relación con el conjunto de asociaciones que formen parte de la sección de que se trate. Las fracciones de dichos porcentajes inferiores a la unidad se suprimirán adoptando la cifra anterior o posterior según que las mismas sean respectivamente iguales o inferiores a 0,5 o superiores a dicha fracción.
+
+2\. El Ministro de Fomento, con el fin de procurar un eficaz funcionamiento del Comité, asegurando la debida representatividad de sus miembros, podrá determinar la exigencia de límites mínimos de afiliación, así como de implantación territorial, de las asociaciones, a efectos de posibilitar su participación en el Comité.
+
+> Se modifica por el art. 2.37 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 59.
+
+1\. Los Reglamentos de Organización y Funcionamiento del Comité Nacional de Transporte por Carretera serán aprobados de forma diferenciada por el Pleno de cada uno de los departamentos del mismo por mayoría absoluta, debiendo ser homologados por el Ministerio de Transportes, Turismo y Comunicaciones.
+
+Cuando no resulte posible la aprobación de los Reglamentos de Organización y Funcionamiento a través del procedimiento ordinario previsto en el párrafo anterior, el Ministerio de Transportes, Turismo y Comunicaciones podrá establecer Reglamentos provisionales que dejarán de aplicarse tan pronto como se disponga de los Reglamentos aprobados por el referido procedimiento ordinario.
+
+2\. Los informes, colaboraciones y actuaciones de todo tipo que correspondan al Comité serán realizados por la sección o secciones o, en su caso, subsecciones, primordialmente afectadas del Departamento de Transportes de Viajeros o de Transporte de Mercancías según corresponda, llevándose a cabo, en su caso, la correspondiente determinación por la Administración. Cuando un asunto afecte tanto al Departamento de Transporte de Viajeros como al de Transporte de Mercancías, cada uno de dichos Departamentos emitirá su informe de modo independiente.
+
+Los correspondientes acuerdos, si hubiere lugar a ello, se adoptarán por mayoría simple, salvo que en los Reglamentos a que se refiere el punto anterior se establezca otro sistema, según el número de votos que, de conformidad con lo previsto en el artículo anterior, correspondan a cada asociación, deberán en todo caso recogerse las posiciones minoritarias a efectos de su conocimiento y valoración por la Administración.
+
+##### Artículo 60.
+
+1\. Cuando un asunto afecte a más de una o a todas las secciones del Departamento de Transporte de Viajeros, los acuerdos serán adoptados conjuntamente por las secciones afectadas o por el pleno del Departamento.
+
+A tal efecto el número de votos que corresponderá a cada sección será el siguiente:
+
+a) Sección de transporte público interurbano de viajeros en autobús: 50 votos.
+
+b) Sección de transporte público urbano de viajeros en autobús: 15 votos.
+
+c) Sección de transporte público interurbano de viajeros en vehículos de turismo: 15 votos.
+
+d) Sección de arrendamiento de vehículos con conductor: 3 votos.
+
+e) Sección de transporte público sanitario: 5 votos.
+
+f) Sección de agencias de viaje: 15 votos.
+
+g) Sección de arrendamiento de vehículos sin conductor: 7 votos.
+
+h) Sección de estaciones de autobuses: 5 votos.
+
+2\. Cuando un asunto afecte a más de una o a todas las secciones del Departamento de Transporte de Mercancías, los acuerdos serán adoptados conjuntamente por las secciones afectadas o por el pleno del Departamento.
+
+A tal efecto el número de votos que corresponderá a cada sección será el siguiente:
+
+a) Sección de transporte público nacional de mercancías: 55 votos.
+
+b) Sección de transporte público internacional de mercancías: 20 votos.
+
+c) Sección de operadores de transporte de mercancías: 45 votos.
+
+d) Sección de centros de transporte y logística de mercancías: 5 votos.
+
+3\. A efectos de las votaciones que afecten a más de una sección, el número de votos que corresponderá a cada asociación integrante de cada una de las secciones afectadas, vendrá determinado por la aplicación de la fórmula siguiente:
+
+D = (S x V)/100
+
+En la cual:
+
+D = número de votos que corresponde a la asociación de que se trate en las votaciones que afecten a más de una sección del Departamento.
+
+S = número de votos que corresponde a la sección en que se encuentra incluida la asociación de que se trate conforme a lo previsto en este artículo.
+
+V = número de votos que corresponden a la asociación de que se trate dentro de la sección a la que pertenece.
+
+> Se modifica por el art. 2.38 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## TÍTULO III — Transportes regulares de viajeros
+
+### CAPÍTULO I — Establecimiento de servicios regulares permanentes de uso general
+
+##### Artículo 61.
+
+De conformidad con lo que se dispone en el artículo 70 de la LOTT, el establecimiento de un nuevo servicio público de transporte regular de viajeros de uso general se acordará por la Administración, bien por propia iniciativa o bien por iniciativa de los particulares, teniendo en cuenta las demandas actuales y potenciales de transporte, los medios existentes para servirlas, las repercusiones de su inclusión en la red de transporte, y el resto de las circunstancias sociales que afecten o sean afectadas por dicho establecimiento.
+
+> Se modifica por el art. 2.39 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 62.
+
+Los particulares, u otras Entidades públicas o privadas, podrán solicitar a la Dirección General de Transporte Terrestre que promueva el establecimiento de un nuevo servicio público de transporte regular de viajeros de uso general. A tal efecto, deberán hacer constar en su solicitud los datos esenciales del servicio que propongan y las razones que, a su juicio, justificarían su establecimiento.
+
+La formulación de dicha solicitud no implicará, en ningún caso, la adquisición por el solicitante de derecho o preferencia alguna en orden a la gestión del servicio que, en su caso, pudiera llegar a crearse.
+
+Cuando la Dirección General de Transporte Terrestre aprecie la existencia de razones objetivas de interés general que pudieran justificar el establecimiento del servicio solicitado, iniciará el procedimiento tendente a ello. En caso contrario, denegará la petición y su resolución al efecto pondrá fin a la vía administrativa.
+
+> Se modifica por el art. 2.40 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 63.
+
+El procedimiento para establecer un nuevo servicio se iniciará por la Dirección General de Transporte Terrestre del Ministerio de Fomento mediante la elaboración de un anteproyecto, en el que incluirá:
+
+a) Memoria justificativa de la necesidad del servicio y de la procedencia de su establecimiento.
+
+b) Descripción detallada de los tráficos a realizar y plano de los itinerarios previstos, con los datos principales de las poblaciones comprendidas, así como de las coincidencias relevantes de itinerario con otros servicios preexistentes.
+
+c) Estudio de las demandas potenciales de transporte y de los medios ya existentes para atenderlas, así como de las repercusiones de la inclusión del nuevo servicio en la red de transporte.
+
+d) Estudio económico de las condiciones de explotación del servicio.
+
+e) Propuesta acerca de la modalidad administrativa de gestión del servicio y, en su caso, previsión del plazo de vigencia del contrato de gestión.
+
+f) Cualesquiera otras circunstancias o análisis que la Dirección General de Transporte Terrestre estime precisas para determinar la necesidad del servicio, su configuración o su régimen de explotación.
+
+> Se modifica por el art. 2.41 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.28 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 64.
+
+1\. El estudio económico de las condiciones de explotación del servicio contenido en el anteproyecto deberá reflejar, al menos, los siguientes extremos:
+
+a) El volumen anual de tráfico previsto.
+
+b) El número de expediciones que habrían de realizarse y el número y características de los vehículos que deberían utilizarse para prestar del servicio, atendiendo al volumen de tráfico previsto.
+
+c) Las instalaciones fijas cuya utilización se considere precisa para el adecuado desarrollo del servicio.
+
+d) La dotación de personal mínima con que sería necesario contar para garantizar la adecuada prestación del servicio.
+
+e) La estructura de costes del servicio.
+
+f) El índice de ocupación previsto.
+
+g) Una estimación de los costes vehículo-kilómetro y viajero-kilómetro que generaría la prestación del servicio.
+
+h) En su caso, los criterios acerca de la compensación de las obligaciones de servicio público que recaerían sobre el futuro contratista del servicio.
+
+2\. Como regla general, el estudio económico solo tendrá en cuenta el número mínimo de vehículos que sería necesario adscribir de forma exclusiva o predominante a la prestación del servicio para garantizar su continuidad en condiciones ordinarias.
+
+3\. El estudio económico no podrá contemplar la utilización de estaciones de transporte que no cumplan las condiciones previstas en los artículos 183 y 184, salvo que no exista otra alternativa para la adecuada prestación del servicio.
+
+4\. Para determinar la dotación mínima de personal, el estudio económico únicamente tendrá en cuenta el número de conductores que resultaría imprescindible para atender las expediciones previstas cumpliendo las condiciones establecidas en la reglamentación sobre jornada laboral y sobre tiempos de conducción y descanso de los conductores.
+
+> Se modifica por el art. 2.42 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se añade el apartado 4 por el art. único.29 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 65.
+
+1\. En aplicación de lo que se dispone en el artículo 72.1 de la LOTT, como regla general los servicios de nueva creación no podrán incluir tráficos coincidentes con los que ya se encuentren atendidos por otros servicios públicos de transporte regular de viajeros de uso general preexistentes.
+
+Únicamente se podrán incluir tráficos que coincidan con los de otros servicios en los siguientes supuestos:
+
+a) Cuando el servicio deba prestarse en la zona de influencia de núcleos urbanos con una población de derecho igual o superior a 50.000 habitantes, hasta las distancias máximas siguientes medidas en línea recta desde el centro de dichos núcleos:
+
+Poblaciones de más de un millón de habitantes, 20 kilómetros.
+
+Poblaciones de entre 500.001 y un millón de habitantes, 15 kilómetros.
+
+Poblaciones de entre 150.001 y 500.000 habitantes, 10 kilómetros.
+
+Poblaciones de entre 50.000 y 150.000 habitantes, 5 kilómetros.
+
+No obstante, mediante acuerdo conjunto del Ministerio de Fomento y de la Comunidad Autónoma afectada, por razones fundadas de interés general, podrán establecerse distancias distintas en relación con poblaciones concretas.
+
+b) Cuando la Administración requiera al contratista de un servicio público de transporte regular de uso general que aumente el número de expediciones que viene realizando, por resultar estas insuficientes para atender un incremento de la demanda, y aquel manifieste expresa o tácitamente su desinterés en atenderlas, sin que la Administración decida imponerle dicho aumento con carácter forzoso.
+
+En todos los casos señalados en la letra a), deberá justificarse en el anteproyecto elaborado por la Dirección General de Transporte Terrestre tanto la conveniencia de establecer tráficos coincidentes como que los servicios que los incluyen son globalmente distintos.
+
+2\. La Administración establecerá las medidas que, en su caso, resulten precisas para coordinar y armonizar las condiciones de prestación de los servicios coincidentes, tales como el régimen tarifario, la frecuencia y horario de las expediciones u otras. A tal efecto, podrá señalar condiciones para los tráficos coincidentes distintas a las establecidas para el resto de los atendidos por los servicios de que se trate.
+
+> Se modifica por el art. 2.43 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica la letra d) del apartado 1 por el art. único.30 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+### CAPÍTULO II — Adjudicación de la explotación de los servicios regulares permanentes de uso general
+
+##### Artículo 66.
+
+1\. De conformidad con lo dispuesto en el artículo 71 de la LOTT, los servicios públicos de transporte regular de viajeros de uso general se prestarán, como regla general, por la empresa a la que la Administración adjudique el correspondiente contrato de gestión en la modalidad de concesión.
+
+No obstante, cuando existan razones especiales que lo justifiquen, las cuales deberán acreditarse en el anteproyecto elaborado por la Dirección General de Transporte Terrestre, la Administración podrá decidir que la gestión del servicio se lleve a cabo a través de cualquier otra de las modalidades de contratación previstas en la legislación general sobre contratos del sector público para esta clase de contratos.
+
+La duración del contrato de gestión de un servicio público de transporte regular de viajeros de uso general se determinará de conformidad con lo dispuesto en el artículo 72.4 de la LOTT.
+
+A tal efecto, únicamente se tendrán en cuenta aquellas características del servicio reflejadas en el estudio económico incluido en el anteproyecto elaborado por la Dirección General de Transporte Terrestre, valorando muy especialmente el volumen de tráfico previsto y la amortización de los vehículos y demás activos que, en su caso, hayan de adscribirse exclusiva o predominantemente a la prestación del servicio.
+
+2\. Excepcionalmente, procederá la gestión pública directa de un servicio público de transporte regular de viajeros de uso general cuando así lo justifique un interés público concreto o cuando la gestión indirecta no se ajuste a su especial carácter o naturaleza o resulte inadecuada para satisfacer los objetivos económicos o sociales perseguidos con su establecimiento.
+
+Cuando se den tales circunstancias, que deberán resultar acreditadas en el anteproyecto elaborado por la Dirección General de Transporte Terrestre, la Administración podrá prestar directamente el servicio de que se trate, utilizando para ello cualquiera de las fórmulas que sobre la gestión empresarial pública admite la legislación vigente.
+
+> Se modifica por el art. 2.44 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 67.
+
+1\. La Dirección General de Transporte Terrestre anunciará, en la página web del Ministerio de Fomento, la apertura de un período de información pública del anteproyecto de establecimiento del nuevo servicio y, simultáneamente, recabará el informe del Consejo Nacional de Transportes Terrestres y de las Comunidades Autónomas afectadas por los tráficos del servicio.
+
+2\. Durante los treinta días siguientes a dicho anuncio, el anteproyecto podrá ser examinado en la página web del Ministerio de Fomento.
+
+Dentro de ese plazo, los interesados podrán formular a la Dirección General de Transporte Terrestre las alegaciones que estimen convenientes a través de la Sede Electrónica del Ministerio de Fomento.
+
+3\. Finalizado el plazo de información pública, el Ministro de Fomento, a propuesta de la Dirección General de Transporte Terrestre, previa valoración técnica, económica y jurídica de las alegaciones presentadas y de los informes emitidos, y una vez introducidas las modificaciones que, como consecuencia de estos, estime pertinentes, elevará el anteproyecto de establecimiento del nuevo servicio al Consejo de Ministros para su aprobación, previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+> Se modifica por el art. 2.45 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.31 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 68.
+
+1\. En ejecución de lo que se dispone en el artículo 73.2 de la LOTT, la Dirección General de Transporte Terrestre del Ministerio de Fomento, tomando como base el proyecto aprobado por el Consejo de Ministros, aprobará el pliego de cláusulas administrativas particulares y prescripciones técnicas por las que se haya de regir el contrato de gestión de servicio público de transporte regular de viajeros por carretera de que se trate.
+
+2\. El pliego contendrá las siguientes cláusulas administrativas particulares:
+
+a) Los tráficos que definen el servicio.
+
+b) El itinerario o las infraestructuras por los que concretamente haya de discurrir el servicio, cuando resulte pertinente.
+
+c) La modalidad de contratación de la gestión del servicio, atendiendo a lo dispuesto en el artículo 66.
+
+d) El procedimiento que se seguirá para la adjudicación del contrato, atendiendo a lo dispuesto en el artículo 73.1 de la LOTT y, cuando esta haya de llevarse a cabo mediante procedimiento abierto, el régimen de ponderación de bajas temerarias o desproporcionadas, en concordancia con las prescripciones del artículo 74.4 de la referida ley.
+
+e) Las condiciones mínimas de solvencia técnica, profesional y económica que, en su caso, deberá cumplir el contratista a fin de que resulte garantizada la adecuada prestación del servicio de que se trate de forma continuada. Asimismo, en caso de presentación de proposiciones conjuntas según lo dispuesto en el artículo 80.2, las reglas de acumulación de solvencia técnica y profesional y la forma de acreditar las condiciones del artículo 69, además de los requisitos mínimos a exigir a la persona jurídica titular del contrato en caso de que la proposición conjunta sea la oferta mejor valorada. En cuanto a las reglas para acumular la solvencia económica, se seleccionarán las que resulten más apropiadas de entre las descritas en el artículo 69 y se acumularán mediante suma aritmética.
+
+f) El derecho del contratista a hacer propia, en su caso, la totalidad o una parte de los ingresos derivados de la explotación del servicio.
+
+g) Los criterios o fórmulas de aplicación para la revisión de las tarifas que hayan de abonar los usuarios.
+
+h) Otras compensaciones a las que, en su caso, tenga derecho el contratista por la prestación del servicio, indicando los parámetros sobre cuya base habrán de calcularse.
+
+i) El canon o participación que, en su caso, haya de satisfacer el contratista a la Administración y los parámetros sobre cuya base habrá de calcularse, conforme a criterios de proporcionalidad, sin que afecte significativamente a la estructura de costes del servicio.
+
+j) Las instalaciones fijas que haya de aportar el contratista para la prestación del servicio, únicamente cuando así se hubiese previsto expresamente en el proyecto aprobado por el Consejo de Ministros y resulte acreditado que persisten las circunstancias que, en su momento, justificaron dicha previsión.
+
+k) Las máquinas o herramientas o, en su caso, los medios electrónicos, informáticos o telemáticos de que deberá proveerse el contratista para facilitar a la Administración el adecuado control de los datos de explotación del servicio y de los ingresos generados por su prestación.
+
+l) El compromiso del contratista de someterse al arbitraje de las Juntas Arbitrales del Transporte en relación con cualquier controversia con los usuarios acerca de la prestación del servicio.
+
+m) El plazo de duración del contrato.
+
+n) Cualesquiera otros pactos o condiciones que estime pertinentes la Dirección General de Transporte Terrestre para definir correctamente los derechos y obligaciones de la Administración titular del servicio y del contratista.
+
+3\. El pliego contendrá las siguientes prescripciones técnicas:
+
+a) La clase y el número mínimo de vehículos que el contratista deberá adscribir a la prestación del servicio.
+
+b) Las condiciones mínimas de seguridad, accesibilidad y medioambientales que deberán reunir los vehículos destinados a la prestación del servicio.
+
+c) Las condiciones mínimas de confort y habitabilidad u otras características técnicas que, en su caso, la Dirección General de Transporte Terrestre estime necesario que cumplan los vehículos destinados a la prestación del servicio.
+
+d) La antigüedad máxima de los vehículos adscritos a la prestación del servicio, cuando resulte pertinente.
+
+e) La dotación mínima de personal que el contratista deberá adscribir a la prestación del servicio.
+
+f) Cuando se trate de un servicio que ya venía prestándose, los empleados del anterior contratista en cuya relación laboral deberá subrogarse el adjudicatario.
+
+g) Las rutas de transporte que integran el servicio y el número de expediciones de transporte que, como mínimo, deberá realizar el contratista en cada una de ellas.
+
+h) Las prestaciones que, como mínimo, deberán recibir los viajeros además de su transporte y el de sus equipajes.
+
+i) El régimen tarifario de aplicación a los viajeros.
+
+j) El valor anual medio estimado del contrato.
+
+k) Cualesquiera otras prescripciones relativas a las condiciones de prestación del servicio que estime pertinentes la Dirección General de Transporte Terrestre.
+
+4\. En el propio pliego de condiciones y en el anuncio de licitación del contrato, la Dirección General de Transporte Terrestre detallará la documentación a presentar por los licitadores, los elementos del pliego sobre los que aquellos podrán proponer variantes o mejoras y los criterios de valoración que se aplicarán en la selección del contratista.
+
+> Se modifica la letra e) del apartado 2 por el art. 1.1 del Real Decreto 182/2026, de 11 de marzo. [Ref. BOE-A-2026-5716](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5716)
+
+> Téngase en cuenta, para los expedientes de contratación iniciados antes de la entrada en vigor del citado Real Decreto, lo establecido en su disposición final 2.
+
+> Se modifica el apartado 2 por la disposición final 15.1 de la Ley 9/2025, de 3 de diciembre. [Ref. BOE-A-2025-24545](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24545)
+
+> Se modifica por el art. 2.46 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.32 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 69.
+
+1\. A los efectos previstos en el artículo 68.2.e) en relación con la solvencia técnica y profesional del contratista, deberá resultar acreditado, en todo caso, que este cumple las siguientes condiciones:
+
+a) Que cuenta con aquella o aquellas autorizaciones de transporte público que correspondan en función del tipo de vehículos que hayan de adscribirse a la prestación del servicio.
+
+b) Que dispone del número de vehículos amparados en tales autorizaciones y la experiencia suficientes para garantizar la adecuada prestación de forma continuada de los servicios señalados en el pliego de cláusulas administrativas particulares y prescripciones técnicas.
+
+El pliego de cláusulas administrativas particulares y prescripciones técnicas podrá exigir, además, que el contratista cumpla determinadas normas en materia de gestión de calidad, sistemas de gestión ambiental, sistemas de gestión de la seguridad y salud en el trabajo u otras que demuestren su solvencia en la gestión de una determinada área empresarial; circunstancia que deberá acreditar a través de la correspondiente certificación expedida por el organismo o entidad competente.
+
+2\. A los efectos previstos en el artículo 68.2.e) en relación con la solvencia económica del contratista, deberá resultar acreditado, en todo caso, que este cumple alguna de las condiciones siguientes:
+
+a) Que dispone del volumen mínimo de fondos propios que expresamente se determine en el pliego de cláusulas administrativas particulares y prescripciones técnicas en función del valor anual medio del contrato, estimado en el momento en que se anuncie su licitación.
+
+b) Que su cifra global de negocios en alguno de los tres ejercicios previos a la licitación del contrato alcanza, al menos, el valor que expresamente se determine en el pliego de cláusulas administrativas particulares y prescripciones técnicas en función del valor anual medio del contrato, estimado en el momento en que se anuncie su licitación.
+
+c) Que dispone de una garantía financiera o un seguro de indemnización por riesgos profesionales que cubra su responsabilidad hasta una determinada cuantía.
+
+> Se modifica por el art. 2.47 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica la letra a) del apartado 1 por el art. único.33 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 70.
+
+1\. A los efectos previstos en el artículo 68.2.f), como regla general los servicios públicos de transporte regular de viajeros de uso general se explotarán en la modalidad de concesión, por la que el contratista los gestionará a su propio riesgo y ventura, haciendo suyos la totalidad de los ingresos derivados de su explotación.
+
+En todo caso, tendrán la consideración de ingresos derivados de la explotación del servicio tanto los que se obtengan por la prestación de expediciones ordinarias, como los obtenidos de la realización de las expediciones de calidad reguladas en el artículo 101 y cualesquiera otros obtenidos como consecuencia de la condición de contratista del servicio.
+
+2\. Cuando la Administración hubiese optado por otra modalidad de gestión, el pliego de cláusulas administrativas particulares y prescripciones técnicas habrá de determinar su participación en los ingresos derivados de la explotación del servicio.
+
+3\. A los efectos previstos en el artículo 68.2.i), el pliego de cláusulas administrativas particulares y prescripciones técnicas del contrato únicamente podrá prever compensaciones económicas al contratista distintas a las previstas en los apartados anteriores cuando la protección de un interés público concreto, que deberá haberse acreditado en el proyecto de establecimiento del servicio aprobado por el Consejo de Ministros, justifique que se establezcan tarifas que no cubran los costes generados por su prestación más un beneficio razonable para el contratista.
+
+Dichas compensaciones no podrán rebasar la cifra que resulte de la aplicación de la siguiente fórmula:
+
+S = (C + B) – (T + I)
+
+En la que:
+
+S = conjunto de compensaciones añadidas a la prevista en el apartado 2 de este artículo.
+
+C = costes de explotación del servicio.
+
+B = beneficio razonable del contratista, determinado conforme a los criterios establecidos al efecto en el proyecto aprobado por el Consejo de Ministros.
+
+T = ingresos obtenidos por el contratista como consecuencia de la aplicación de lo previsto en los apartados 1 y 2 de este artículo.
+
+I = cualquier otro ingreso o beneficio directa o indirectamente obtenido por el contratista como consecuencia de la exclusividad en la prestación del servicio.
+
+En ningún caso podrán concederse al contratista compensaciones directas o indirectas por la prestación del servicio que no se encuentren expresamente previstas en el pliego de cláusulas administrativas particulares y prescripciones técnicas del contrato.
+
+> Se modifica por el art. 2.48 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.34 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 71.
+
+1\. A los efectos previstos en el artículo 68.3.a), el pliego de cláusulas administrativas particulares y prescripciones técnicas determinará el número mínimo y la clase de vehículos, autobuses y/o turismos, que el contratista deberá adscribir de forma permanente a la prestación de los servicios objeto del contrato, de acuerdo con las características propias del tráfico a atender y el número y frecuencia de expediciones a realizar.
+
+A tal efecto, el pliego podrá exigir que los vehículos correspondan a una categoría predeterminada.
+
+2\. A los efectos previstos en el artículo 68.3.b), el pliego de cláusulas administrativas particulares y prescripciones técnicas determinará las condiciones mínimas de seguridad, accesibilidad y medioambientales que deberán cumplir los vehículos adscritos a la prestación del servicio.
+
+En la determinación de las condiciones de accesibilidad de los vehículos deberán tenerse en cuenta, en todo caso, las reglas que resulten de aplicación de conformidad con lo dispuesto en la legislación sobre condiciones de accesibilidad y no discriminación de las personas con discapacidad en relación con la utilización de los modos de transporte.
+
+3\. A los efectos previstos en el artículo 68.3.c), el pliego de cláusulas administrativas particulares y prescripciones técnicas determinará las condiciones mínimas de confort y habitabilidad de los vehículos adscritos a la prestación del servicio, atendiendo a las características de su itinerario y duración de los viajes.
+
+4\. A los efectos previstos en el artículo 68.3.d), el pliego de cláusulas administrativas particulares y prescripciones técnicas determinará la antigüedad máxima para los vehículos que se adscriban a la prestación del servicio, una vez cumplida la cual deberán ser sustituidos por otros que no la rebasen y cumplan las demás condiciones técnicas y de confort y habitabilidad exigidas en aquel.
+
+> Se modifica por el art. 2.49 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se añade el apartado 3 por el art. único.35 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 72.
+
+1\. A los efectos previstos en el artículo 68.3.e), el pliego de cláusulas administrativas particulares y prescripciones técnicas determinará la dotación mínima de personal que el contratista deberá adscribir a la prestación del servicio, atendiendo al resto de características de este y, muy especialmente, al número mínimo y frecuencia de expediciones a realizar.
+
+La dotación mínima de personal se constreñirá al número mínimo de conductores necesario para cubrir las expediciones señaladas en el propio pliego, teniendo en cuenta, a tal efecto, la reglamentación sobre jornada laboral de los conductores, así como el tiempo máximo de conducción que permite a un conductor la reglamentación sobre tiempos de conducción y descanso de los conductores.
+
+2\. A los efectos previstos en el artículo 68.3.f), cuando el servicio se viniese prestando con anterioridad por otro contratista, el pliego de cláusulas administrativas particulares y prescripciones técnicas determinará el número, coste y condiciones laborales de los empleados de aquel en cuya relación laboral deberá subrogarse el nuevo contratista para cubrir la dotación mínima de personal señalada en el pliego de conformidad con lo dispuesto en el apartado anterior.
+
+> Se modifica por el art. 2.50 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica el apartado 4 por el art. único.36 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 73.
+
+1\. A los efectos previstos en el artículo 68.3.g), el pliego de cláusulas administrativas particulares y prescripciones técnicas establecerá las rutas y el número mínimo de expediciones que deberá realizar el contratista, así como su calendario y frecuencia temporal.
+
+2\. Se denomina expedición a cada circulación independiente con horario diferenciado realizada entre la totalidad o una parte de los núcleos de población comunicados por el servicio.
+
+Se considera que todos los vehículos que realizan simultáneamente una misma circulación forman parte de una sola expedición.
+
+Se denomina ruta al conjunto de expediciones que atienden el tráfico de idénticos núcleos de población.
+
+> Se modifica por el art. 2.51 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se deroga el apartado 3 por la disposición derogatoria única.1 de la Ley 9/2013, de 4 de julio. [Ref. BOE-A-2013-7320](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7320).
+
+> Se modifica el apartado 2 por el art. único.37 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 74.
+
+1\. A los efectos previstos en el artículo 68.3.i), el régimen tarifario del servicio podrá establecerse:
+
+a) Mediante una única tarifa viajero-kilómetro para todas las expediciones que integran el servicio.
+
+b) Mediante tarifas viajero-kilómetro diferenciadas para cada una de las expediciones o rutas que integran el servicio.
+
+c) Mediante tarifas zonales por viajero para cada zona por las que discurra el servicio, independientemente del número de kilómetros realizados.
+
+d) Mediante un precio único por viajero para todas las expediciones que integran el servicio, independientemente de los kilómetros realizados.
+
+2\. En los supuestos previstos en las letras a) y b), el precio del billete para cada viaje será el resultante de multiplicar la tarifa establecida por la distancia en kilómetros entre sus puntos de origen y destino.
+
+El pliego de cláusulas administrativas particulares y prescripciones técnicas podrá, no obstante, prever un mínimo de percepción cualquiera que sea la distancia recorrida, el cual tendrá, asimismo, la consideración de precio tarifario.
+
+3\. Para determinar la distancia en kilómetros entre el origen y el destino de un viaje se estará a los datos obrantes en el Mapa Oficial de Carreteras editado por el Ministerio de Fomento.
+
+No obstante, cuando un mismo tráfico pueda atenderse por distintas infraestructuras, el precio único de ese trayecto, sea cual fuere la infraestructura utilizada, se determinará teniendo en cuenta la de menor distancia kilométrica.
+
+> Se modifica por el art. 2.52 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.38 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+### CAPÍTULO III — Explotación de las concesiones
+
+##### Artículo 75.
+
+A los efectos previstos en el artículo 68.3.j), el valor total del contrato se determinará sumando el importe de las compensaciones que, en su caso, percibirá el contratista de conformidad con lo dispuesto en el artículo 70.3 a los ingresos que obtendrá de la venta de billetes teniendo en cuenta las tarifas del servicio y el número de viajeros-kilómetro transportado a lo largo de todo el plazo de vigencia del contrato. A tal fin, únicamente se tendrán en cuenta los viajeros transportados en las expediciones expresamente previstas en el pliego de cláusulas administrativas particulares y prescripciones técnicas del contrato.
+
+El valor anual medio del contrato se obtendrá dividiendo el valor anterior por el número de años de vigencia del contrato.
+
+Para estimar el valor medio o total del contrato referido a un período de su vigencia que aún no se haya cumplido, la Dirección General de Transporte Terrestre del Ministerio de Fomento realizará una valoración del número de viajeros-kilómetro que previsiblemente utilizará el servicio durante ese período, de conformidad con el estudio de demanda realizado al efecto.
+
+No obstante, cuando el pliego de cláusulas administrativas particulares y prescripciones técnicas esté referido a un nuevo contrato cuyo objeto sea un servicio que ya se prestaba con anterioridad, tomará como base de su estimación el número de viajeros que vinieron utilizando el servicio durante los últimos años.
+
+> Se modifica por el art. 2.53 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica el apartado 1 por el art. único.39 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 76.
+
+1\. En aplicación de lo que se dispone en el artículo 74 de la LOTT, únicamente podrán tenerse en cuenta en orden a la adjudicación del contrato aquellas variantes o mejoras ofrecidas por los licitadores que expresamente se hayan previsto en el pliego de condiciones del contrato.
+
+Los criterios señalados a tal efecto por la Dirección General de Transporte Terrestre deberán estar relacionados, en todo caso, con el régimen económico y tarifario, la seguridad, la eficacia o la calidad y frecuencia del servicio objeto del contrato y tendrán especialmente en cuenta factores ambientales y la mejor integración con la red de servicios públicos de transporte de viajeros que vertebran el territorio.
+
+2\. De conformidad con lo dispuesto en el artículo 74 de la LOTT, los criterios de valoración de las mejoras ofertadas por los licitadores que se establezcan en el pliego de condiciones darán preponderancia a aquellos que puedan valorarse mediante cifras o porcentajes obtenidos a través de la mera aplicación de fórmulas señaladas en el pliego de condiciones del contrato.
+
+En todo caso, las mejoras establecidas de conformidad con lo dispuesto en el artículo 77 de este Reglamento deberán valorarse mediante la aplicación de fórmulas señaladas al efecto.
+
+> Se modifica por el art. 2.54 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 77.
+
+Para la adjudicación del contrato se valorará, en todo caso, de conformidad con las reglas señaladas en el propio pliego, la propuesta del licitador de prestar los servicios a tarifas inferiores o realizando un mayor número de expediciones a las señaladas originalmente por la Dirección General de Transporte Terrestre en el pliego de cláusulas administrativas particulares y prescripciones técnicas.
+
+> Se modifica por el art. 2.55 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.40 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 78.
+
+1\. Para la adjudicación del contrato podrá valorarse, de conformidad con las reglas señaladas en el propio pliego, la propuesta del licitador de reducir la antigüedad máxima de los vehículos que presten el servicio señalada originalmente por la Dirección General de Transporte Terrestre en el pliego de cláusulas administrativas particulares y prescripciones técnicas.
+
+2\. Asimismo, las reglas señaladas en el pliego de condiciones podrán determinar que se valoren otras mejoras en las condiciones de seguridad o calidad de los vehículos, tales como las que propongan la incorporación de ayudas a la conducción o sistemas de protección no exigidos en el pliego o un mayor nivel de confort y ergonomía o su equipamiento con dispositivos que permitan que los viajeros puedan acceder durante el viaje al uso de las tecnologías digitales de la información y la comunicación.
+
+> Se modifica por el art. 2.56 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.41 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 79.
+
+1\. Para la adjudicación del contrato podrá valorarse, de conformidad con las reglas señaladas en el pliego de cláusulas administrativas particulares y prescripciones técnicas, el compromiso del licitador de obtener una certificación, expedida por una entidad certificadora acreditada, que demuestre la calidad de su gestión en la prestación de servicios públicos de transporte de viajeros.
+
+2\. Asimismo, las reglas señaladas en el pliego de condiciones podrán determinar que se valoren otras mejoras propuestas por el licitador en relación con la atención al público y la comercialización del servicio, tales como las siguientes:
+
+a) Mejora de las condiciones de contratación con los usuarios específicamente previstas en el propio pliego de cláusulas administrativas particulares y prescripciones técnicas o de las que se encuentren establecidas en las condiciones generales de contratación de los servicios públicos de transporte regular de viajeros por carretera de uso general que, en su caso, haya aprobado el Ministro de Fomento.
+
+b) Establecimiento de sistemas para el control de los equipajes.
+
+c) Establecimiento de canales de comercialización de los títulos de transporte o de sistemas de información a los usuarios no previstos en el propio pliego de cláusulas administrativas particulares y prescripciones técnicas o en las condiciones generales de contratación de los servicios públicos de transporte regular de viajeros de uso general que, en su caso, haya aprobado el Ministro de Fomento.
+
+d) Establecimiento de descuentos a los usuarios no previstos en el propio pliego de cláusulas administrativas particulares y prescripciones técnicas.
+
+3\. Las reglas señaladas en el pliego podrán establecer, asimismo, que se valore el compromiso del licitador de obtener determinadas certificaciones normalizadas o someterse a determinadas auditorías en materia de seguridad, de eficiencia energética o de accesibilidad.
+
+> Se modifica por el art. 2.57 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.42 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 80.
+
+1\. Podrán presentar proposiciones todas aquellas empresas que cumplan las condiciones mínimas de solvencia técnica, profesional y económica exigidas en el pliego de cláusulas administrativas particulares y prescripciones técnicas del contrato.
+
+No obstante lo dispuesto en el artículo 69.1.a), se admitirá la presentación de proposiciones por empresas que no estén en posesión de la oportuna autorización de transporte siempre que hagan constar su compromiso de obtenerla antes de la adjudicación del contrato, en caso de que su proposición sea la mejor valorada.
+
+2\. Varias empresas podrán presentar una proposición conjunta, sin necesidad de constituir una unión temporal ni ninguna otra forma de colaboración empresarial, siempre que hagan constar expresamente su compromiso de constituir una persona jurídica que cumpla las exigencias señaladas en los artículos 43.1.b) de la LOTT y 36 de este reglamento antes de la adjudicación del contrato, en caso de que su oferta sea la mejor valorada.
+
+En el supuesto regulado en este apartado, las empresas que presenten la proposición conjunta deberán acreditar las condiciones de solvencia técnica, profesional y económica exigidas en el artículo 69 y en el pliego de cláusulas administrativas particulares y prescripciones técnicas del contrato, acumulándose a efectos de la determinación de la solvencia las características acreditadas por cada una de ellas. En caso de que la oferta de la proposición conjunta sea la mejor valorada, la persona jurídica resultante titular del contrato deberá disponer de los requisitos de solvencia exigidos por el pliego de cláusulas administrativas particulares y prescripciones técnicas del contrato.
+
+El órgano de contratación podrá exigir que determinados tráficos del contrato, en el caso de una proposición conjunta, sean prestados directamente por una de las empresas participantes en ésta, siempre que así se haya previsto en el pliego con indicación de los tráficos concretos a los que se refiera.
+
+Ninguna de las empresas que formulen una proposición conjunta podrá presentar otra proposición alternativa, ya sea individualmente o junto con otras.
+
+> Se modifica el apartado 2 por el art. 1.2 del Real Decreto 182/2026, de 11 de marzo. [Ref. BOE-A-2026-5716](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5716)
+
+> Téngase en cuenta, para los expedientes de contratación iniciados antes de la entrada en vigor del citado Real Decreto, lo establecido en su disposición final 2.
+
+> Se modifica el apartado 2 por la disposición final 15.2 de la Ley 9/2025, de 3 de diciembre. [Ref. BOE-A-2025-24545](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24545)
+
+> Se modifica por el art. 2.58 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.43 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 81.
+
+La presentación de una proposición implicará la aceptación por el licitador de las condiciones señaladas en las cláusulas administrativas particulares del pliego y su compromiso, en caso de resultar adjudicatario, de prestar el servicio, durante toda la vigencia del contrato, de conformidad con las prescripciones técnicas señaladas en aquel con las mejoras que, en su caso, haya propuesto.
+
+> Se modifica por el art. 2.59 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 82.
+
+1\. La Dirección General de Transporte Terrestre requerirá al licitador que haya presentado la oferta mejor valorada para que, en el plazo de cuatro meses, presente la siguiente documentación:
+
+a) Acreditación de hallarse al corriente en el cumplimiento de sus obligaciones tributarias y con la Seguridad Social, o bien autorización a la Dirección General de Transporte Terrestre para que obtenga directamente la información que lo acredite.
+
+b) Acreditación de estar en posesión de la autorización de transporte público que corresponda de conformidad con lo dispuesto en el artículo 69.1.a).
+
+c) Relación de los vehículos, identificados por sus matrículas, que quedarán adscritos a la prestación del servicio público contratado, que deberán, a su vez, estar adscritos a la autorización de transporte público de que es titular.
+
+d) Acreditación de que dichos vehículos cumplen las condiciones técnicas y de accesibilidad, habitabilidad y confort señaladas en el pliego de cláusulas administrativas particulares y prescripciones técnicas, con las mejoras ofrecidas en su proposición.
+
+e) Calendario y cuadro de horarios con arreglo a los que realizará las expediciones de transporte a que se haya comprometido en su proposición.
+
+f) Ubicación geográfica concreta de los puntos de parada de las distintas expediciones, incluyendo tanto las que se realicen para atender los tráficos que integran el servicio, como las que tengan un carácter puramente técnico.
+
+g) Estructura de costes de la prestación del servicio, cuando el licitador no hubiese estado obligado a acompañar su proposición económica del correspondiente estudio justificativo.
+
+h) Acreditación del resto de mejoras contenidas en su oferta, de conformidad con lo que al efecto se señale en el pliego de cláusulas administrativas particulares y prescripciones técnicas.
+
+i) Acreditación de haber constituido una garantía del cumplimiento del contrato, en cuantía equivalente al cinco por ciento del valor total estimado de aquél a disposición de la Dirección General de Transporte Terrestre del Ministerio de Fomento.
+
+2\. Excepcionalmente, cuando el licitador que haya presentado la oferta mejor valorada justifique la imposibilidad de acreditar alguno de los extremos exigidos en las letras b), c), d) o f) del apartado anterior por causas no imputables a su voluntad, la Dirección General de Transporte Terrestre podrá concederle, mediante resolución motivada, una ampliación del plazo para acreditarlo, que no podrá ser superior a dos meses.
+
+3\. Cuando el licitador no acredite en el plazo señalado la totalidad de los extremos requeridos de conformidad con lo dispuesto en los apartados anteriores, se entenderá que retira su oferta y la Dirección General de Transporte Terrestre procederá a recabar la misma documentación al licitador siguiente, por el orden en que hayan quedado clasificadas las ofertas.
+
+> Se modifica por el art. 2.60 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.45 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 83.
+
+1\. Los vehículos que el licitador que haya presentado la oferta mejor valorada adscriba a la prestación del servicio deberán cumplir la totalidad de las condiciones técnicas y de habitabilidad y confort señaladas en el pliego de cláusulas administrativas particulares y prescripciones técnicas del contrato, con las mejoras que, en su caso, haya ofertado en su proposición.
+
+No obstante, cuando el contrato tuviese por objeto un servicio que ya se venía prestando con anterioridad y así se prevea en el pliego, el licitador que haya presentado la oferta mejor valorada podrá adscribir a su prestación, por un plazo máximo de dos años contado desde la formalización del nuevo contrato, los mismos vehículos que venía utilizando el anterior contratista, aunque no cumplan las condiciones técnicas, de habitabilidad o de confort señaladas en este. Tal posibilidad estará condicionada a que dichos vehículos hayan quedado adscritos a la autorización de transporte público de que es titular el citado licitador y cumplan los requisitos de antigüedad y accesibilidad exigidos por el nuevo contrato.
+
+2\. En cualquiera de los supuestos previstos en el apartado anterior, los vehículos que el licitador que haya presentado la oferta mejor valorada adscriba a la prestación del servicio no podrán superar la antigüedad máxima señalada en el pliego de cláusulas administrativas particulares y prescripciones técnicas o la que, en su caso, haya ofertado en su proposición y deberán ser sustituidos antes de que la rebasen.
+
+> Se modifica por el art. 2.61 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.46 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 84.
+
+1\. A los efectos previstos en el artículo 82.1.f), el licitador que haya presentado la oferta mejor valorada deberá señalar los puntos concretos en que las distintas expediciones habrán de realizar las paradas necesarias para recoger y dejar viajeros y, en su caso, aquellos otros en que pretenda realizar otras paradas por razones de carácter técnico.
+
+Los referidos puntos de parada se identificarán en todo caso por sus coordenadas geográficas, así como por su dirección postal, cuando se encuentren en suelo urbano, o por la denominación de la infraestructura y punto kilométrico concretos en que se ubiquen, cuando no sea así. Tratándose de una estación de transporte de viajeros, se hará constar dicha circunstancia, así como el carácter público o privado de aquella y su titularidad.
+
+El licitador que haya presentado la oferta mejor valorada deberá contar previamente con el informe favorable del órgano o entidad competente sobre la infraestructura en que pretenda realizar cada una de las paradas.
+
+2\. Las paradas que hayan de realizarse en poblaciones que dispongan de estaciones de transporte de viajeros que cumplan los requisitos señalados en los artículos 183 y 184 deberán ubicarse en estas, salvo en aquellos supuestos excepcionales en que la Dirección General de Transporte Terrestre del Ministerio de Fomento, previo informe del correspondiente Ayuntamiento, autorice otro lugar de parada diferente.
+
+> Se modifica por el art. 2.62 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.47 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 85.
+
+1\. Cuando el licitador que haya presentado la oferta mejor valorada acredite adecuadamente los extremos señalados en el artículo 82, la Dirección General de Transporte Terrestre del Ministerio de Fomento procederá a adjudicarle el contrato.
+
+2\. La adjudicación del contrato dará lugar a su formalización de conformidad con lo dispuesto al efecto en el artículo 75.1 de la LOTT y en la legislación general sobre contratos del sector público.
+
+El contrato deberá reproducir íntegramente la totalidad de las cláusulas administrativas particulares y las prescripciones técnicas contenidas en el pliego, con las mejoras ofertadas por el adjudicatario en su proposición.
+
+3\. El contrato se acompañará de sendos anexos en los que se recogerán, respectivamente, la relación de los vehículos adscritos por el adjudicatario a la prestación del servicio, la ubicación de los puntos de parada de las distintas expediciones, el calendario y número de expediciones que integren cada ruta de transporte y los cuadros de horarios y precios del servicio en el momento de adjudicación del contrato, los cuales deberán ser actualizados por la Dirección General de Transporte Terrestre del Ministerio de Fomento cada vez que alguno de estos extremos sea modificado.
+
+4\. La fecha de formalización del contrato constituirá el día a partir del cual se iniciará el cómputo de su plazo de duración.
+
+5\. Tan pronto se formalice el contrato, la Dirección General de Transporte Terrestre procederá a inscribirlo en el Registro de Empresas y Actividades de Transporte, haciendo constar su contenido íntegro y el de sus anexos.
+
+> Se modifica por el art. 2.63 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.48 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 86.
+
+El contratista deberá iniciar la prestación del servicio dentro de los siete días siguientes al de la formalización del contrato, debiendo comunicárselo previamente a la Dirección General de Transporte Terrestre.
+
+Cuando, en ejecución de lo dispuesto en el artículo 82.3.d) de la LOTT, el contrato haya de resolverse como consecuencia del incumplimiento de lo dispuesto en el párrafo anterior, la Dirección General de Transporte Terrestre lo adjudicará al licitador que presentó la proposición mejor valorada después de la inicialmente seleccionada, debiendo cumplirse, a tal efecto, lo dispuesto en el artículo 82 de este Reglamento.
+
+> Se modifica por el art. 2.64 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.49 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 87.
+
+1\. La Administración podrá optar por la adjudicación directa del contrato de gestión de un servicio público de transporte regular de viajeros de uso general, cuando se den las circunstancias previstas para ello en el artículo 73.1 de la LOTT.
+
+Asimismo, podrá optar por la adjudicación directa de un contrato cuando se den las circunstancias de emergencia señaladas en el artículo 85 de la LOTT. En este supuesto no será de aplicación lo previsto en el artículo 88.4 de este reglamento, requiriéndose únicamente informe de la Comisión Delegada del Gobierno para Asuntos Económicos, para lo cual podrá solicitarse la adición al orden del día de urgencia.
+
+2\. En tales supuestos, la Dirección General de Transporte Terrestre del Ministerio de Fomento elaborará el correspondiente pliego de cláusulas administrativas particulares y prescripciones técnicas del contrato y podrá adjudicarlo a cualquier empresa que cuente con la autorización de transporte público que resulte pertinente en función de los vehículos que hayan de ser adscritos a la prestación del servicio.
+
+El adjudicatario deberá presentar idéntica documentación a la prevista en el artículo 82 de este Reglamento y aceptar expresamente el contenido del pliego de cláusulas administrativas particulares y prescripciones técnicas del contrato.
+
+Por lo demás, serán de aplicación al procedimiento de adjudicación directa las reglas contenidas en la legislación general sobre contratos del sector público en relación con los contratos menores.
+
+> Se modifica el apartado 1 por la disposición final 1.1 del Real Decreto-ley 14/2026, de 9 de junio. [Ref. BOE-A-2026-12516](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12516)
+
+> Se modifica por el art. 2.65 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.50 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 88.
+
+1\. Cuando, por cualquier causa, se extinga la vigencia del contrato de gestión de un servicio público de transporte regular de viajeros de uso general, la Dirección General de Transporte Terrestre del Ministerio de Fomento deberá proceder, de conformidad con lo previsto en este Reglamento, a la adjudicación de un nuevo contrato que tenga por objeto la gestión de ese mismo servicio, salvo que concurran razones que aconsejen su supresión.
+
+2\. La Dirección General de Transporte Terrestre podrá introducir en el pliego de cláusulas administrativas particulares y prescripciones técnicas del nuevo contrato cuantas modificaciones sean necesarias sobre las señaladas en el anteriormente vigente para ajustarlas a los cambios que haya experimentado la demanda o el resto de la red de transportes públicos de viajeros o para mejorar la eficacia del servicio.
+
+No será de aplicación lo dispuesto en los artículos 61, 62, 63, 64 y 67 cuando las modificaciones que la Dirección General de Transporte Terrestre introduzca en los tráficos del servicio no supongan un aumento o disminución superior al veinte por ciento de la población atendida por este el día en que se extinguió el anterior contrato.
+
+Cuando resulte preciso un cambio de mayor magnitud, se entenderá que el servicio es esencialmente distinto del anterior y deberá tramitarse conforme al procedimiento para el establecimiento de un nuevo servicio.
+
+A efectos de lo dispuesto en este Reglamento, se entenderá que la población atendida por un servicio en cada momento es el conjunto de habitantes de derecho de todos los núcleos de población en que ha de realizar paradas para tomar viajeros.
+
+3\. No será de aplicación la limitación establecida en el apartado anterior cuando la Dirección General de Transporte Terrestre, atendiendo a razones de eficacia, decida concentrar los servicios que eran objeto de dos o más contratos previamente extinguidos en uno solo.
+
+4\. Cuando la modificación de las condiciones de prestación del servicio implique el otorgamiento de nuevas subvenciones públicas para su compensación o el incremento de las que ya se venían otorgando, dicha modificación requerirá el acuerdo del Consejo de Ministros, previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+Se considerará que existe tal incremento si la cantidad que se consigne en el pliego de la licitación o resolución de modificación supera el importe consignado en el pliego de bases utilizado en la licitación del contrato preexistente, una vez actualizado su importe de conformidad con la fórmula aplicable para la revisión de precios establecida en el pliego del contrato.
+
+> Se modifica el apartado 4 por la disposición final 1.2 del Real Decreto-ley 14/2026, de 9 de junio. [Ref. BOE-A-2026-12516](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12516)
+
+> Se modifica por el art. 2.66 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.51 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 89.
+
+1\. El contratista de un servicio público de transporte regular de viajeros de uso general está obligado a transportar a todas aquellas personas que lo soliciten, en las condiciones señaladas en el contrato de gestión del servicio de que se trate y sus anexos y de acuerdo con lo dispuesto en las condiciones generales de contratación de los servicios públicos de transporte regular de viajeros de uso general que, en su caso, hayan sido aprobadas por el Ministro de Fomento.
+
+2\. La utilización de los servicios públicos de transporte regular de viajeros de uso general se contratará por plazas.
+
+En ejecución de lo dispuesto en el apartado 1, el contratista del servicio estará obligado a contratar con todos aquellos usuarios que lo deseen y abonen el precio del transporte, expendiéndoles el correspondiente título de viaje, salvo que ello implicase sobrepasar las plazas ofrecidas en la expedición de que se trate.
+
+3\. El contratista únicamente podrá impedir la utilización del servicio por un viajero que estuviese en posesión del correspondiente título de viaje cuando concurra alguna de las siguientes circunstancias:
+
+a) Que la persona o su equipaje no reúnan las condiciones mínimas de sanidad, salubridad e higiene necesarias para evitar cualquier riesgo o incomodidad para los restantes usuarios.
+
+b) Que la persona porte objetos que por su volumen, composición u otras causas supongan peligro o incomodidad para los otros viajeros o el vehículo.
+
+c) Que la persona altere las normas elementales de educación y convivencia.
+
+d) Las demás que, en su caso, se determinen en las condiciones generales de contratación de los servicios de transporte público regular de viajeros de uso general aprobadas por el Ministro de Fomento.
+
+4\. Los contratistas de los servicios públicos de transporte regular de viajeros de uso general deberán disponer de aplicaciones informáticas que permitan a los usuarios acceder a un formulario en el que realizar las reclamaciones que estimen pertinentes por medios electrónicos.
+
+Los referidos formularios electrónicos de reclamaciones deberán permitir que el usuario consigne su nombre, apellidos y número de documento nacional de identidad; la dirección postal o electrónica donde desea que se le comunique cualquier información o resolución adoptada en relación con su reclamación; los hechos objeto de la reclamación, con indicación, en su caso, de la expedición concreta en que tuvieron lugar; la fecha y, en su caso, la hora en que se produjeron los hechos objeto de la reclamación, y la fecha en que la formula.
+
+El formulario deberá permitir al reclamante consignar, asimismo, cualesquiera otros datos que considere de interés para el mejor conocimiento de su reclamación, entre los que se podrá incluir la identificación de un testigo presencial de los hechos que dan lugar a aquella.
+
+La aplicación informática a través de la que los usuarios puedan realizar sus reclamaciones deberá estar diseñada de tal forma que aquellos puedan conservar un justificante de haberlas formulado, con independencia de que lo hayan hecho utilizando los medios puestos a su disposición por el contratista o desde cualquier otro dispositivo electrónico.
+
+Formulada una reclamación por un usuario, el contratista del servicio deberá contestarle en un plazo no superior a treinta días, informándole, en su caso, de las medidas adoptadas al respecto.
+
+5\. En los locales en que el contratista del servicio expenda billetes, así como en las estaciones en que este realice paradas, aquel deberá tener a disposición del público los medios necesarios para acceder a la aplicación informática en la que los usuarios puedan formular sus reclamaciones, cuando así lo justifique el volumen de usuarios o de servicios de conformidad con los criterios que, a tal efecto, determine el Ministerio de Fomento.
+
+Sin perjuicio de lo anteriormente dispuesto, todas las páginas Web donde puedan adquirirse o reservarse los títulos de viaje deberán integrar un enlace directo a la aplicación informática en la que los usuarios puedan formular sus reclamaciones.
+
+6\. Las aplicaciones a través de las que los usuarios puedan formular sus reclamaciones deberán permitir que el órgano de la Administración de transportes competente sobre la infraestructura o el servicio de que se trate pueda acceder directamente y en cualquier momento a conocer las que hubiesen sido presentadas.
+
+Sin perjuicio de ello, el contratista deberá proporcionar cuantos datos relativos a la explotación del servicio le sean requeridos por la Dirección General de Transporte Terrestre del Ministerio de Fomento, conforme a las especificaciones y formato que esta le solicite.
+
+7\. Las aplicaciones a través de las que los usuarios puedan formular sus reclamaciones, así como los formularios diseñados a tal efecto, deberán cumplir las condiciones que se encuentren señaladas por la Dirección General de Transporte Terrestre a efectos de garantizar la disponibilidad, integridad, inalterabilidad e inviolabilidad de su contenido.
+
+8\. Lo dispuesto en el apartado 4 se aplicará sin perjuicio de que el contratista haya de cumplir, además, con cuantas otras obligaciones le imponga la legislación de transporte o de consumo en relación con las posibles reclamaciones de los usuarios, ni del derecho de estos a formular sus reclamaciones por cualquier otro medio.
+
+> Se modifica por el art. 2.67 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta, para las aplicaciones y formularios a que se refiere este artículo, la disposición transitoria 7 del citado Real Decreto.
+
+##### Artículo 90.
+
+1\. El contratista de un servicio público de transporte regular de viajeros de uso general está obligado a atender la totalidad de los tráficos que lo integran de conformidad con lo señalado en el contrato.
+
+2\. Se entenderá que se producen los hechos que determinan la aplicación de lo dispuesto en las letras f) y g) del artículo 82.3 y el artículo 140.14 de la LOTT, si durante más de diez días consecutivos el contratista no realiza ninguna parada en un lugar en que estuviese obligado a hacerla para tomar y dejar viajeros.
+
+En el cómputo de ese plazo no se tendrán en cuenta aquellos días en que el contratista no estuviese obligado a realizar ninguna parada en el lugar de que se trate.
+
+Cuando el contratista solo estuviese obligado a efectuar la parada si así se lo demanda previamente un usuario, se considerará que ha interrumpido el servicio, a los efectos anteriormente señalados, cuando desatienda alguna de tales demandas en más de cinco ocasiones consecutivas.
+
+Cualquier interrupción de los tráficos del servicio inferior a las señaladas en el párrafo anterior se considerará constitutiva de la infracción tipificada en el artículo 140.27.2 de la LOTT.
+
+Se considerarán causas que justifican la interrupción del servicio la huelga, el cierre patronal legalmente autorizado y las demás ajenas a la voluntad del empresario que igualmente impidan dicha prestación.
+
+3\. Cuando los Servicios de Inspección del Transporte Terrestre conozcan de una interrupción injustificada del servicio, y con independencia de la iniciación del procedimiento sancionador que corresponda, lo comunicarán al órgano competente de la Administración titular del servicio.
+
+> Se modifica por el art. 2.68 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.52 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 90 bis.
+
+**(Sin contenido)**
+
+> Se suprime por la disposición final 1.1 del Real Decreto 284/2021, de 20 de abril. [Ref. BOE-A-2021-6624](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6624)
+
+> Se añade por el art. único del Real Decreto 1387/2011, de 14 de octubre. [Ref. BOE-A-2011-17017](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17017).
+
+##### Artículo 91.
+
+1\. Cuando concurran circunstancias que así lo justifiquen de conformidad con lo dispuesto en el artículo 75.3 de la LOTT, la Dirección General de Transporte Terrestre, previa audiencia del contratista, podrá modificar los tráficos señalados inicialmente en el contrato, bien suprimiendo alguno de estos o bien añadiendo alguno nuevo que no se encuentre ya atendido por otro servicio público de transporte regular de viajeros de uso general.
+
+2\. Las modificaciones de tráficos que la Dirección General de Transporte Terrestre introduzca a lo largo de toda la vigencia de un contrato no podrán suponer un aumento o disminución superior al veinte por ciento de la población atendida por el servicio en la fecha en que se inició su prestación.
+
+3\. No será de aplicación la limitación establecida en el apartado anterior cuando el aumento de tráficos sea debido a la adopción por parte de la Administración de una medida de emergencia, en los términos previstos en el artículo 85 de la LOTT, o a una concentración de los derechos y obligaciones dimanantes de distintos contratos acordada de conformidad con lo dispuesto en el artículo 81 de la referida Ley.
+
+> Se modifica por el art. 2.69 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.53 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+### CAPÍTULO IV — Modificación de las condiciones de prestación y extinción de los contratos
+
+> Se modifica por el art. 2.70 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 92.
+
+1\. El contratista de un servicio público de transporte regular de viajeros de uso general está obligado a realizar el número mínimo de expediciones establecidas en el contrato durante toda su vigencia, con la frecuencia que este señale.
+
+No obstante, el contrato podrá prever que determinadas paradas incluidas en una expedición únicamente se realicen cuando así lo hayan demandado expresamente los usuarios que vayan a abordar o a abandonar en ellas el vehículo. La realización de estas paradas no supondrá, en ningún caso, la aplicación a estos usuarios de un precio distinto al que corresponda por aplicación de la tarifa señalada en el contrato.
+
+2\. Cuando concurra alguna de las circunstancias señaladas en el artículo 75.3 de la LOTT, la Dirección General de Transporte Terrestre podrá modificar el número mínimo de expediciones inicialmente señalado en el contrato.
+
+> Se modifica por el art. 2.71 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.54 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 93.
+
+1\. Sin perjuicio de lo dispuesto en el artículo anterior, el contratista podrá aumentar o reducir el número de expediciones que viniese realizando, siempre que respete el mínimo señalado en el contrato.
+
+A tal efecto, deberá notificarlo a la Dirección General de Transporte Terrestre del Ministerio de Fomento con una antelación mínima de quince días, pudiendo esta prohibirlo o señalar limitaciones por razones de interés general que deberá justificar en la correspondiente resolución.
+
+En todo caso, el aumento o reducción de expediciones así notificado no podrá ser puesto en práctica por el contratista hasta que transcurran siete días desde que lo haya anunciado al público, sin que dicho anuncio pueda ser previo al cumplimiento del plazo señalado en el párrafo anterior.
+
+Cuando tenga lugar la mencionada modificación, la Dirección General de Transporte Terrestre deberá realizar la oportuna actualización del anexo correspondiente del contrato.
+
+2\. El contratista estará obligado a realizar el número de expediciones que hubiese notificado de conformidad con lo dispuesto en este artículo, mientras no notifique, en idénticos términos, un nuevo aumento o disminución.
+
+3\. No será necesaria la notificación prevista en los apartados anteriores cuando se trate de aumentos coyunturales de expediciones para atender puntas de demanda.
+
+> Se modifica por el art. 2.72 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 94.
+
+El contratista deberá prestar el servicio con arreglo al calendario y horarios que hubiese manifestado a la Administración de conformidad con lo dispuesto en el artículo 82. No obstante, podrá modificarlos, debiendo cumplir, a tal efecto, idénticas reglas a las señaladas en el artículo anterior.
+
+En todo caso, deberá garantizarse la adecuada coordinación horaria entre distintas expediciones del servicio.
+
+Cualquier modificación del calendario u horario de prestación del servicio dará lugar a la actualización del anexo correspondiente del contrato por parte de la Dirección General de Transporte Terrestre.
+
+> Se modifica por el art. 2.73 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica el apartado 3 por el art. único.55 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 95.
+
+1\. El contratista podrá modificar la ubicación de una parada del servicio, debiendo cumplir, a tal efecto, idénticas reglas a las señaladas en el artículo 93, acreditando, en todo caso, que cuenta con el informe favorable para ello del órgano o entidad competente sobre la infraestructura en que pretende la nueva ubicación.
+
+2\. Por su parte, la Administración únicamente podrá imponer el cambio de ubicación de una parada para mejorar la atención a los usuarios o por razones derivadas de la ordenación del tráfico rodado o de la seguridad vial.
+
+3\. La modificación de algún punto de parada del servicio dará lugar, en todo caso, a la actualización del anexo correspondiente del contrato por parte de la Dirección General de Transporte Terrestre.
+
+> Se modifica por el art. 2.74 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.56 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 96.
+
+1\. Como regla general, las expediciones de un servicio público de transporte regular de viajeros de uso general habrán de ser realizadas por los vehículos adscritos a su prestación y que, a tal efecto, se encuentren incluidos en la relación que el contratista comunicó a la Dirección General de Transporte Terrestre de conformidad con lo previsto en el artículo 82.
+
+La utilización de tales vehículos para la realización de otros transportes estará condicionada a que resulte asegurada la correcta prestación del servicio a que se encuentran adscritos.
+
+2\. Cuando la totalidad o alguno de los vehículos adscritos a la prestación del servicio se encuentre amparado por una autorización de transporte público interurbano de viajeros en vehículos de turismo o de arrendamiento de vehículos con conductor, no serán de aplicación las limitaciones establecidas en el artículo 125 de este real decreto y 91.2 de la LOTT en tanto se encuentren prestando alguna de las expediciones de dichos servicios.
+
+3\. La Dirección General de Transporte Terrestre únicamente podrá modificar el número mínimo de vehículos o conductores señalados en el contrato cuando así resulte justificado como consecuencia del aumento o disminución de los tráficos o del número mínimo de expediciones señalados en aquel.
+
+En ningún caso se podrán rebajar las características técnicas, de habitabilidad, accesibilidad y confort o aumentar la antigüedad máxima de los vehículos señalada en el contrato.
+
+4\. No obstante lo dispuesto en el apartado 1, la Dirección General de Transporte Terrestre, a propuesta del contratista, podrá autorizar que este utilice en la prestación del servicio otros vehículos adscritos a la autorización de transporte de que sea titular, previa comprobación de que cumplen todos los requisitos señalados en el contrato.
+
+Dichos vehículos deberán ser expresamente identificados por su matrícula en la autorización y se relacionarán como vehículos de apoyo en el correspondiente anexo del contrato.
+
+> Se modifica el apartado 2 por la disposición final 1.2 del Real Decreto 284/2021, de 20 de abril. [Ref. BOE-A-2021-6624](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6624)
+
+> Se modifica por el art. 2.75 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.57 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 97.
+
+1\. Sin perjuicio de lo dispuesto en el artículo anterior, para hacer frente a intensificaciones de tráfico que no puedan ser atendidas por los vehículos adscritos a la prestación del servicio, el contratista podrá utilizar otros que no lo estén, ya disponga de ellos en nombre propio o bien le hayan sido cedidos con conductor por otro transportista a título de colaboración. Dichos vehículos deberán cumplir las condiciones técnicas y de habitabilidad, accesibilidad y confort establecidas en el contrato de gestión del servicio de que se trate.
+
+Esta utilización de vehículos no adscritos al servicio únicamente podrá llevarse a cabo por vía de refuerzo, debiendo, en consecuencia, utilizarse en cada expedición al menos uno de los adscritos.
+
+2\. Excepcionalmente, cuando al contratista no le resulte posible reforzar el servicio mediante vehículos que cumplan las condiciones exigidas en el contrato, podrá servirse de otros, ya sean propios o ajenos, de categoría o características inferiores, si bien en dicho supuesto deberá compensar a los usuarios que hayan de viajar en ellos de conformidad con lo que, a tal efecto, se encuentre establecido en las condiciones generales de contratación de los servicios públicos de transporte regular de viajeros de uso general que, en su caso, hayan sido aprobadas por el Ministro de Fomento.
+
+3\. El volumen de tráfico que el contratista atienda por vía de refuerzo no podrá exceder del treinta por ciento del volumen de tráfico anual del servicio, medido en vehículos-kilómetro.
+
+4\. Cuando el vehículo utilizado para reforzar una expedición del servicio se encuentre amparado por una autorización de transporte público interurbano de viajeros en vehículos de turismo o de arrendamiento de vehículos con conductor, no serán de aplicación las limitaciones establecidas en el artículo 125 de este real decreto y 91.2 de la LOTT en tanto se encuentre prestándola.
+
+5\. El contratista deberá reflejar en su contabilidad los contratos que celebre con otros transportistas para reforzar el servicio de que se trate.
+
+6\. Los tráficos atendidos por vía de refuerzo mediante vehículos ajenos se considerarán, no obstante, prestados por el contratista del servicio, que responderá, en todo caso, frente a la Administración del exacto cumplimiento del contrato de gestión del servicio y frente a los usuarios de las responsabilidades derivadas del contrato mercantil de transporte.
+
+Sin perjuicio de ello, el transporte realizado con ocasión del refuerzo por los vehículos no adscritos al contrato estará sujeto al cumplimiento de todas las obligaciones relativas al uso del tacógrafo, tiempos de conducción y descanso de los conductores y expedición y conservación de documentos de control exigibles al transporte discrecional de viajeros.
+
+> Se modifica el apartado 4 por la disposición final 1.2 del Real Decreto 284/2021, de 20 de abril. [Ref. BOE-A-2021-6624](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6624)
+
+> Se modifica por el art. 2.76 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.58 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+### CAPÍTULO V — Servicios regulares permanentes de uso general con condiciones especiales de prestación
+
+##### Artículo 98.
+
+1\. La Dirección General de Transporte Terrestre podrá autorizar la utilización de un mismo vehículo para servir conjuntamente los tráficos de dos servicios públicos de transporte regular de viajeros de uso general que presenten puntos de contacto, a fin de que determinadas expediciones de uno y otro se presten sin solución de continuidad en el recorrido.
+
+Se entenderá que se produce solución de continuidad en la prestación de dos servicios, cuando el viajero que pretenda utilizarlos consecutivamente haya de transbordar de vehículo.
+
+2\. Para que proceda el otorgamiento de la autorización prevista en el apartado anterior, deberán cumplirse los siguientes requisitos:
+
+a) Que la autorización sea solicitada conjuntamente por los contratistas de los servicios implicados, indicando expresamente las expediciones o rutas que se verán afectadas.
+
+b) Que las expediciones que se pretende solapar tengan una parada común en la que puedan tomar o dejar viajeros, sin que sus respectivos horarios de llegada y salida disten en dicha parada más de quince minutos entre sí.
+
+c) Que la conveniencia de que los servicios implicados se presten sin solución de continuidad resulte acreditada en una valoración global, en la que se tendrán en cuenta tanto los intereses de los contratistas como de los usuarios de aquellos.
+
+d) Que los tráficos que se pretende solapar no estén ya atendidos sin solución de continuidad por otro servicio público de transporte regular de viajeros de uso general preexistente.
+
+3\. El solape de expediciones de dos servicios previsto en este artículo deberá atenerse a las siguientes reglas:
+
+a) El otorgamiento de la autorización no implica ninguna modificación de los tráficos de los servicios afectados.
+
+b) La realización de los tráficos de cada servicio por el contratista del otro supone una forma especial de colaboración entre transportistas, resultando de aplicación, en consecuencia, todas las reglas señaladas en el artículo 97, con excepción de lo dispuesto en el párrafo segundo de su apartado 1 en relación con la necesidad de que el servicio se preste por vía de refuerzo.
+
+c) El otorgamiento de la autorización no implica, por sí mismo, ninguna modificación del número de expediciones, calendario, horarios o itinerario de los servicios implicados.
+
+Cuando se pretenda que las expediciones que se solapan se realicen con un horario, calendario o itinerario distinto a los que, hasta ese momento, viniesen siendo cumplidos en cada servicio, será necesario que estos se modifiquen simultáneamente, de conformidad con lo previsto en este Reglamento.
+
+d) El otorgamiento de la autorización no altera el régimen tarifario de los servicios implicados, de tal forma que el precio cobrado a los usuarios de las expediciones solapadas será la suma de los precios correspondientes a los trayectos realizados sobre el itinerario de cada uno de los servicios, conforme a sus respectivas tarifas.
+
+e) La realización sin solución de continuidad de las expediciones que, conforme a la autorización, hayan de solaparse será obligatoria.
+
+Los contratistas no podrán solapar expediciones cuya realización sin solución de continuidad no se encuentre prevista en la autorización.
+
+f) La autorización se otorgará por un plazo de validez limitado, que no podrá superar al de extinción del contrato de gestión de aquel de los servicios implicados que lo tenga más próximo.
+
+4\. La validez de la autorización para solapar expediciones de dos servicios se extinguirá en los siguientes supuestos:
+
+a) Cuando concluya el plazo de validez por el que fue otorgada.
+
+b) Cuando el titular de alguno de los servicios implicados renuncie expresamente a la autorización.
+
+c) Cuando se incumplan las condiciones señaladas en la propia autorización
+
+d) Cuando la Administración establezca un servicio público de transporte regular de viajeros de uso general nuevo e independiente que atienda de forma unificada los tráficos hasta ese momento implicados en la autorización.
+
+e) Cuando se resuelva cualquiera de los contratos de gestión de los servicios públicos solapados.
+
+> Se modifica por el art. 2.77 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 99.
+
+1\. Cuando lo soliciten conjuntamente los contratistas de dos servicios públicos de transporte regular de viajeros de uso general cuyos itinerarios coincidan en algún tramo, la Dirección General de Transporte Terrestre podrá autorizar que uno de ellos atienda tráficos correspondientes al otro, recogiendo y dejando viajeros en las paradas que ambos servicios tengan en común.
+
+2\. El otorgamiento de la autorización a que se refiere el apartado anterior estará condicionado a que el número de expediciones realizadas para atender un servicio por la empresa que no es contratista de su gestión no sea superior al que esté obligada a realizar la que sí lo es.
+
+3\. La prestación de servicios al amparo de la autorización regulada en este artículo deberá atenerse a las siguientes reglas:
+
+a) El otorgamiento de la autorización no supone modificación alguna de los tráficos de los servicios implicados.
+
+b) El otorgamiento de la autorización no modifica el número de expediciones, calendario, horarios o itinerario de los servicios implicados. En consecuencia, no exime a los contratistas de los servicios afectados de realizar por sí mismos las expediciones a que estén obligados.
+
+c) El otorgamiento de la autorización regulada en este artículo no altera el régimen tarifario de los servicios implicados, de tal forma que el precio cobrado a los usuarios que se desplacen en un determinado tráfico deberá ser el que corresponda por aplicación de la tarifa señalada en el contrato en que dicho tráfico se encuentra incluido.
+
+d) La prestación del tráfico ajeno por parte del transportista autorizado será obligatoria en todas las expediciones señaladas en la autorización.
+
+Por el contrario, dicho transportista no podrá atender el tráfico ajeno en expediciones no señaladas expresamente en la autorización.
+
+e) Las expediciones realizadas por la empresa que no es la contratista del servicio deberán distar al menos treinta minutos de las que realice, anterior o posteriormente, el contratista.
+
+f) La autorización regulada en este artículo se otorgará por un plazo de validez limitado, que no podrá superar al de extinción del contrato de gestión de aquel de los servicios implicados que lo tenga más próximo.
+
+4\. Transcurridos seis meses desde el otorgamiento de la autorización, la Administración titular del servicio autorizado a atender tráficos del otro analizará su impacto económico sobre el correspondiente contrato de gestión, introduciendo en este las modificaciones que, en su caso, resulten precisas para restablecer su equilibrio financiero.
+
+En todo caso, deberá atender a dicho restablecimiento, revisando su régimen tarifario, cuando el índice de ocupación de las expediciones que discurren por las paradas afectadas por la autorización hubiese aumentado en ese período en más de un veinte por ciento.
+
+A partir de esa primera comprobación, el órgano competente llevará a cabo, con periodicidad anual, una nueva revisión del impacto económico de la autorización, introduciendo, cuando así proceda, las modificaciones que resulten pertinentes en los términos anteriormente señalados.
+
+5\. La validez de la autorización regulada en este artículo se extinguirá en los siguientes supuestos:
+
+a) Cuando concluya el plazo de validez por el que fue otorgada.
+
+b) Cuando el titular de alguno de los servicios implicados renuncie expresamente a ella.
+
+c) Cuando se incumplan las condiciones señaladas en la propia autorización.
+
+d) Cuando se resuelva cualquiera de los contratos de gestión de los servicios públicos afectados.
+
+> Se modifica por el art. 2.78 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 100.
+
+1\. Los servicios públicos de transporte regular de viajeros de uso general se prestarán respetando las tarifas establecidas en el correspondiente contrato de gestión, con las actualizaciones que hayan tenido lugar de conformidad con lo dispuesto en los artículos 68.3.i) y 74.
+
+Las tarifas señaladas en el contrato tendrán la consideración de máximas. En consecuencia el contratista podrá cobrar a los usuarios cualquier precio inferior al que resultaría de su aplicación.
+
+No obstante, cuando el contratista reciba cualquier clase de compensación de las previstas en los artículos 68.2.i) y 70.3, únicamente podrá aplicar tarifas inferiores a las máximas señaladas en el contrato o aplicar cualquier género de descuentos o rebajas a los usuarios no establecidos en aquel dando cuenta, con una antelación mínima de quince días, a la Dirección General de Transporte Terrestre del Ministerio de Fomento, la cual podrá prohibirlas o limitarlas.
+
+2\. Además de los descuentos a los usuarios que, en su caso, se encuentren señalados en el contrato, el contratista deberá aplicarles todos aquellos otros que se encuentren legal o reglamentariamente establecidos, aunque no se hubiesen señalado expresamente en aquel.
+
+El contratista deberá realizar también los descuentos que resulten obligatorios de conformidad con lo dispuesto en este artículo sobre el precio de las expediciones de calidad que, en su caso, le hubiesen sido autorizadas de conformidad con lo dispuesto en el artículo 101.
+
+3\. A los efectos señalados en el artículo 82.3.f) de la LOTT, se considerará que el incumplimiento reiterado del régimen tarifario del servicio por parte del contratista justifica la resolución del contrato cuando aquel hubiese sido sancionado en diez o más ocasiones por la comisión de la infracción tipificada en el artículo 140.27.5 de la LOTT en relación con ese contrato.
+
+> Se modifica por el art. 2.79 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 101.
+
+1\. El contratista podrá solicitar que la Dirección General de Transporte Terrestre le autorice a realizar expediciones en condiciones de mayor comodidad o calidad a las previstas en el contrato o en las que los viajeros reciban prestaciones suplementarias a las señaladas en aquel, cuyo precio podrá fijar libremente.
+
+El otorgamiento de dicha autorización estará condicionado a que quede garantizado que todos los usuarios que así lo deseen pueden utilizar el servicio en otras expediciones en las condiciones previstas en el contrato a los precios que resulten de la aplicación de las tarifas contempladas en este.
+
+El número de expediciones autorizadas conforme a lo previsto en este artículo no podrá exceder del cincuenta por ciento de las que se realicen en un mismo día con idéntico origen y destino, ni desplazar a las ordinarias de los horarios más demandados.
+
+2\. La resolución de la Dirección General de Transporte Terrestre detallará cuáles son las condiciones de prestación de las expediciones cuya realización se autorice de conformidad con lo dispuesto en este artículo y el contratista deberá comunicarle antes de comenzar a realizarlas el calendario y horario y los precios que aplicará en dichas expediciones.
+
+La prestación de las expediciones reflejadas en la resolución de la Dirección General de Transporte Terrestre, así como el cumplimiento del calendario, horario y régimen de precios comunicado por el contratista será obligatorio para este, mientras no se le autorice otra cosa por parte de la Dirección General.
+
+El otorgamiento de la autorización y las condiciones de prestación de las expediciones a que hace referencia este artículo deberá ser reflejado por la Dirección General de Transporte Terrestre en el correspondiente anexo del contrato.
+
+3\. El contratista deberá reflejar separadamente en su contabilidad los ingresos que se deriven de la prestación de expediciones de calidad.
+
+4\. No será necesaria la autorización regulada en este artículo cuando se trate de servicios complementarios, de utilización opcional por parte de los usuarios, que se presten en las expediciones ordinarias y se cobren de forma diferenciada únicamente a los usuarios que los utilicen.
+
+> Se modifica por el art. 2.80 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 102.
+
+1\. A los efectos previstos en el artículo 68.2.g), la revisión periódica de las tarifas de los servicios públicos de transporte regular de viajeros de uso general se llevará a cabo teniendo en cuenta lo dispuesto al efecto en la legislación general aplicable en materia de revisión de valores monetarios y de contratos del sector público, con las concreciones que, en su caso, se hayan establecido para su aplicación a esta clase de servicios.
+
+2\. Fuera de la revisión tarifaria periódica prevista en el apartado anterior, las tarifas de un servicio público de transporte regular de viajeros de uso general solo podrán ser modificadas por la Dirección General de Transporte Terrestre de conformidad con lo dispuesto en el artículo 19.3 de la LOTT.
+
+3\. La revisión de las tarifas de un servicio que dé lugar a su modificación deberá ser reflejada por la Dirección General de Transporte Terrestre en el cuadro de precios recogido en el correspondiente anexo del contrato.
+
+> Se modifica por el art. 2.81 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 103.
+
+Cuando la Administración acuerde la concentración en un solo contrato de todos los derechos y obligaciones dimanantes de diferentes contratos de gestión de servicios públicos de transporte regular de viajeros de uso general preexistentes, en aplicación de lo dispuesto en el artículo 81 de la LOTT, el contrato unificado resultante tendrá como plazo de duración la media de los años de vigencia que les resten a los contratos que se unifiquen, ponderados por el factor vehículos-kilómetro anuales.
+
+La tarifa señalada en el contrato unificado se determinará teniendo en cuenta los costes generados por la prestación conjunta de los servicios preexistentes, y un beneficio empresarial equivalente a la media obtenida con la explotación independiente de dichos servicios durante los tres últimos años, ponderada por el factor vehículos-kilómetro.
+
+> Se modifica por el art. 2.83 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 104.
+
+1\. Previamente a la aprobación de la resolución mediante la que se modifique el contrato de gestión de un servicio público de transporte regular de viajeros de uso general en ejecución de lo previsto en los artículos 91, 92.2, 95.2, 102.2 ó 103, la Dirección General de Transporte Terrestre anunciará, en la página web del Ministerio de Fomento, la apertura de un período de información pública y, simultáneamente, recabará el informe del contratista del servicio y de las Comunidades Autónomas afectadas por los tráficos de este, durante un período de quince días.
+
+Las citadas modificaciones contractuales deberán ser objeto de inscripción en el Registro de Empresas y Actividades de Transporte a los efectos previstos en los artículos 85.5 y 49.2.b).
+
+2\. No podrá introducirse ninguna de las modificaciones señaladas en el apartado anterior hasta que hayan transcurrido tres años desde la formalización inicial del contrato de gestión, o dos desde su última modificación, ni cuando falte un período inferior a dos años para la terminación de su vigencia, salvo que se trate de incluir tráficos que venían siendo atendidos por un servicio público de transporte regular de viajeros de uso general y que, como consecuencia de una renovación contractual, hubiesen quedado sin servicio.
+
+3\. Cuando la modificación de las condiciones de prestación del servicio implique el otorgamiento de nuevas subvenciones públicas para su compensación o el incremento de las que ya se venían otorgando, dicha modificación requerirá el acuerdo del Consejo de Ministros, previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+4\. No tendrán la consideración de modificación contractual:
+
+a) La sustitución de los vehículos adscritos a la prestación del servicio, cuando no afecte a las condiciones que estos hayan de cumplir de conformidad con lo establecido en el contrato.
+
+b) El aumento o reducción de expediciones previsto en el artículo 93.
+
+c) La modificación de horarios prevista en el artículo 94.
+
+d) La modificación de puntos de parada prevista en el artículo 95.1.
+
+e) La autorización para utilizar un mismo vehículo para servir conjuntamente los tráficos de dos servicios que presenten puntos de contacto prevista en el artículo 98.
+
+f) La autorización para atender un tráfico de otro servicio de forma compartida prevista en el artículo 99.
+
+g) La revisión periódica de tarifas prevista en el artículo 102.
+
+h) La autorización de expediciones de calidad prevista en el artículo 101.
+
+> Se modifica por el art. 2.84 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+### CAPÍTULO VI — Transportes regulares de uso especial
+
+> Se añade por el art. 2.85 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 105.
+
+1\. Los transportes regulares de uso especial, salvo lo dispuesto en el punto siguiente, sólo podrán autorizarse por la Administración cuando los grupos homogéneos y específicos de usuarios a los que vayan a servir tengan un único centro concreto de actividad común (colegio, fábrica, cuartel u otro similar), en el que el transporte tenga su origen o destino, sin que resulte suficiente el ejercicio de una actividad común y el origen o destino en una única población.
+
+2\. No obstante lo previsto en el punto anterior, podrán autorizarse servicios de uso especial aun existiendo varios centros de actividad en los que el transporte tenga su origen o destino, cuando por su carácter de establecimientos de la misma Empresa o de similar actividad, unido en su caso a la inmediata proximidad geográfica o a otras circunstancias concurrentes, quede en todo caso garantizado que van a servir a un grupo homogéneo y específico de usuarios, cualitativamente diferentes de los de los servicios de uso general. A tal efecto, en el procedimiento de otorgamiento de la primera autorización para tales servicios deberá informar el Consejo Nacional de Transportes Terrestres y el Comité Nacional del Transporte por Carretera u órganos equivalentes de las Comunidades Autónomas.
+
+##### Artículo 106.
+
+1\. La autorización administrativa especial precisa para la realización de transportes regulares de uso especial se otorgará a las empresas que hayan convenido previamente la realización del transporte con los representantes de los usuarios a través del correspondiente contrato o precontrato, siempre que cuenten con los vehículos necesarios para llevarlo a cabo adscritos a la autorización de transporte público de viajeros que corresponda.
+
+Transcurridos quince días desde que el interesado haya solicitado una autorización de transporte regular de uso especial sin que el órgano competente la haya denegado o establecido expresamente condiciones o limitaciones en relación con su prestación, el transporte se entenderá provisionalmente autorizado y el solicitante podrá comenzar a realizarlo.
+
+Transcurridos tres meses, contados desde la fecha de la solicitud, sin que el órgano competente hubiese dictado resolución expresa, la autorización se entenderá otorgada.
+
+2\. Se considerarán representantes de los usuarios, las personas que, en base a su específica posición respecto a éstos, asuman la relación con el transportista, tales como órganos administrativos competentes sobre centros escolares, propietarios o directores de colegios o centros de producción, representantes de asociaciones de padres de alumnos o de trabajadores, u otros similares.
+
+> Se modifica el apartado 1 por el art. 2.86 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.59 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 107.
+
+1\. La autorización de transporte regular de uso especial determinará las condiciones de prestación del servicio según lo previsto en el correspondiente contrato o precontrato, estableciendo en especial la ruta o rutas a seguir, con expresión de los tráficos a realizar, los puntos de origen y destino y paradas, así como los vehículos con los que el transportista autorizado deberá realizar con carácter general el transporte, los cuales habrán de encontrarse adscritos a la autorización de transporte público de viajeros de que sea titular.
+
+Cuando la autorización se hubiese otorgado en los términos señalados en los párrafos segundo y tercero del artículo 106.1, su titular deberá prestar el servicio con los vehículos y de conformidad con las condiciones señaladas en el contrato o precontrato aportado junto con su solicitud.
+
+2\. Además de los vehículos a los que se refiere el apartado anterior, el titular de la autorización de transporte especial podrá utilizar otros, propios o ajenos, siempre que cumplan las condiciones técnicas exigidas en el correspondiente contrato y se encuentren amparados por la correspondiente autorización de transporte público, si bien, los tráficos atendidos por vehículos distintos a los señalados en la autorización de transporte especial no podrán exceder anualmente del 50 por 100 del total, salvo que en la correspondiente autorización se establezca, en atención al elevado volumen de la demanda que haya de atenderse u otras circunstancias especiales, un porcentaje diferente.
+
+3\. Los vehículos con los que se presten los servicios de transporte regular de uso especial deberán estar amparados por la autorización de transporte público de viajeros que en cada caso corresponda en función de sus características.
+
+Cuando el vehículo utilizado para realizar la totalidad o una parte de las expediciones de un transporte regular de uso especial se encuentre amparado por una autorización de transporte público interurbano de viajeros en vehículos de turismo o de arrendamiento de vehículos con conductor, no serán de aplicación las limitaciones establecidas en los artículos 125 de este real decreto y 91.2 de la LOTT en tanto se encuentre prestándolas.
+
+> Se modifica el apartado 3 por la disposición final 1.2 del Real Decreto 284/2021, de 20 de abril. [Ref. BOE-A-2021-6624](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6624)
+
+> Se modifica por el art. 2.87 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 108.
+
+Las autorizaciones para la realización de transportes regulares de uso especial se otorgarán por el plazo al que se refiera el correspondiente contrato con los usuarios, sin perjuicio de que el órgano en cada caso competente pueda exigir su visado con una determinada periodicidad a fin de constatar el mantenimiento de las condiciones que justificaron su otorgamiento.
+
+> Se modifica por el art. único.60 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 927/1998, de 14 de mayo. [Ref. BOE-A-1998-12158](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-12158)
+
+## TÍTULO IV — Transportes discrecionales y distintos tipos específicos de transportes
+
+### CAPÍTULO I — Transportes públicos discrecionales de mercancías y de viajeros: Autorizaciones y régimen jurídico
+
+#### Sección 1.ª Autorizaciones
+
+##### Artículo 109.
+
+De conformidad con lo dispuesto en el artículo 43.2 de la LOTT, para la obtención y mantenimiento de las autorizaciones de transporte público de viajeros en autobús y de transporte público de mercancías en vehículos que puedan superar las 3,5 toneladas de masa máxima autorizada, deberá resultar acreditado que la empresa cumple, además de la condiciones señaladas en el artículo 43.1 de la LOTT, los requisitos de establecimiento, competencia profesional, honorabilidad y capacidad financiera, con las concreciones señaladas en este Reglamento.
+
+> Se modifica por el art. 2.88 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 110.
+
+1\. A efectos del cumplimiento de lo dispuesto en el artículo 44.a) de la LOTT, en relación con el requisito de establecimiento, el titular de la autorización deberá conservar en el lugar en que esta se encuentre domiciliada sus documentos contables, de gestión de personal o relativos a los tiempos de conducción y descanso de los conductores, así como cualesquiera otros relacionados con su actividad de transporte en orden a su examen por la Administración de transporte o su remisión a requerimiento de esta.
+
+2\. El requisito exigido en el artículo 44.b) de la LOTT se considerará cumplido cuando la empresa cumpla la condición regulada en el artículo 38 de este Reglamento.
+
+3\. El requisito exigido en el artículo 44.c) de la LOTT se considerará cumplido cuando la empresa cumpla la condición regulada en el artículo 39 de este Reglamento y cuente, además, con el equipamiento administrativo y técnico y las instalaciones que, en su caso, resulten preceptivos.
+
+> Se modifica por el art. 2.89 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.61 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 111.
+
+1\. De conformidad con lo dispuesto en el artículo 47 de la LOTT, a efectos del cumplimiento del requisito de competencia profesional, habrá de resultar acreditado que la empresa cuenta en todo momento con una persona física que ejerce las funciones de gestor de transporte con arreglo a lo dispuesto en este Reglamento.
+
+No obstante, aunque constate que se incumple dicha condición, el órgano competente podrá permitir que la autorización continúe vigente por un plazo máximo de tres meses en los casos de muerte o incapacidad física sobrevenida de la persona que venía desarrollando esta función en la empresa, contado desde la fecha del fallecimiento o la incapacitación; circunstancias que deberán ser acreditadas documentalmente por el titular de la autorización o, en su caso, por sus herederos.
+
+2\. No obstante lo dispuesto en el apartado anterior, cuando la función de gestor de transporte se viniera cumpliendo personalmente por el empresario individual titular de la autorización y este falleciera o sufriera incapacidad física, los herederos forzosos definidos como tales por el Código Civil o, en su caso, por las respectivas legislaciones de las comunidades autónomas podrán continuar la actividad de la empresa durante un plazo máximo de seis meses, aun cuando no cumplan el requisito de competencia profesional. Dicho plazo podrá prorrogarse por otro de tres meses cuando se justifiquen las dificultades o imposibilidad de obtener el certificado de competencia profesional a que se refiere el artículo 114.
+
+> Se modifica por el art. 2.90 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.62 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 112.
+
+A efectos de cumplir el requisito relativo a la dirección efectiva y permanente de las actividades de transporte de la empresa, exigido en el artículo 47.a) de la LOTT, el gestor de transporte deberá desarrollar, al menos, las siguientes funciones en la empresa:
+
+a) Verificar que la empresa cuenta con cuantas autorizaciones, licencias o permisos resulten exigibles para prestar los servicios y actividades de transporte que realice y que continúa cumpliendo en todo momento los requisitos exigidos para su obtención.
+
+b) Supervisar que los contratos de transporte y demás documentación mercantil emitida o suscrita por la empresa en relación con la contratación de operaciones y actividades de transporte se ajusten a la legalidad vigente.
+
+c) Supervisar que todos aquellos otros transportistas u operadores de transporte de mercancías con los que, en su caso, la empresa contrate servicios o actividades de transporte se encuentren autorizados para prestarlos.
+
+d) Supervisar que la empresa cumpla adecuadamente cuantas obligaciones le incumban en relación con la expedición, suscripción, utilización y conservación de documentos de control relativos a su actividad de transporte.
+
+e) Supervisar que la contabilidad de la empresa refleje adecuadamente todas las operaciones que guarden relación con su actividad de transporte.
+
+f) Organizar el trabajo de los conductores de la empresa teniendo en cuenta la reglamentación vigente sobre jornada laboral y sobre tiempos de conducción y descanso.
+
+g) Supervisar que todos los vehículos utilizados por la empresa se encuentren habilitados para circular, habiendo superado las inspecciones técnicas que resulten exigibles, y tienen instalados y en condiciones de funcionar el tacógrafo, el limitador de velocidad y cuantos otros instrumentos de control sean obligatorios.
+
+h) Señalar los criterios bajo los que se llevará a cabo el mantenimiento de los vehículos de la empresa.
+
+i) Supervisar que todos los conductores de la empresa sepan cómo utilizar correctamente el tacógrafo y hayan sido instruidos acerca del adecuado cumplimiento de la legislación en materia de tiempos de conducción y descanso.
+
+j) Supervisar la asignación de vehículos y conductores de la empresa a cada uno de los servicios que aquella realice.
+
+k) Supervisar que los conductores a los que se asigne cada servicio se encuentran en posesión de cuantos permisos, habilitaciones o certificaciones en vigor resulten exigibles para llevarlo a cabo y conocen las condiciones de transporte que hayan de tenerse en cuenta por razón de sus características.
+
+l) Supervisar que los vehículos asignados a cada servicio se adecúan a las características de este y se encuentran correctamente señalizados y acondicionados para realizarlo y que sus conductores conocen el peso y las dimensiones máximas de la carga y el número máximo de viajeros que pueden transportar.
+
+m) Supervisar que la prestación de los servicios públicos de transporte regular de viajeros de uso general de que la empresa sea, en su caso, contratista se ajusta a lo establecido en el correspondiente contrato de gestión y en la legislación que resulte aplicable.
+
+n) Supervisar que la prestación de los transportes regulares de viajeros de uso especial que, en su caso, realice la empresa, se ajusta a las prescripciones señaladas en la correspondiente autorización especial.
+
+> Se modifica por el art. 2.91 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta para su aplicación lo establecido en la disposición transitoria 3 del citado Real Decreto.
+
+> Se modifica por el art. único.63 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 113.
+
+1\. A efectos de cumplir el requisito de vinculación con la empresa, exigido en el artículo 47.b) de la LOTT, habrá de resultar acreditado que se cumple alguna de las siguientes condiciones:
+
+a) Cuando el titular de la autorización de transporte sea una persona física, esta podrá ser el gestor de transporte de la empresa, debiendo resultar acreditado que se encuentra en situación de alta en el régimen de la Seguridad Social que corresponda.
+
+En caso contrario, el gestor de transporte deberá estar dado de alta por el titular de la autorización en el Régimen General de la Seguridad Social a tiempo completo en un grupo de cotización no inferior al que corresponda a los jefes administrativos y de taller.
+
+No obstante, se admitirá que ese gestor esté afiliado en situación de alta en el Régimen Especial de Trabajadores Autónomos de la Seguridad Social cuando guarde con el titular de la autorización una relación de parentesco de las que justifican esa posibilidad conforme a las normas aplicables en la materia.
+
+b) Cuando el titular de la autorización sea una persona jurídica, su gestor de transporte podrá ser cualquiera de las personas físicas que, en su caso, la integren, siempre que resulte acreditado que su participación en el capital social es igual o superior al quince por ciento y que dicha persona se encuentra en situación de alta en el régimen de la Seguridad Social que corresponda.
+
+En cualquier otro caso, el gestor de transporte deberá estar dado de alta por la empresa titular de la autorización en el Régimen General de la Seguridad Social a tiempo completo en un grupo de cotización no inferior al que corresponda a los jefes administrativos y de taller.
+
+2\. La participación del gestor de transporte en el capital social de la empresa habrá de ser acreditada documentalmente por esta, cuando así resulte pertinente a los efectos previstos en la letra b) del apartado anterior.
+
+En la comprobación del cumplimiento del resto de condiciones señaladas en el apartado anterior, el órgano competente deberá atenerse exclusivamente a los datos obrantes en el Registro de Empresas y Actividades de Transporte y en los registros de la Tesorería General de la Seguridad Social.
+
+3\. Una misma persona podrá ejercer como gestor de transporte de distintas personas jurídicas cuando el capital de estas pertenezca en más de un cincuenta por ciento a un mismo titular, bastando en dicho supuesto con que cumpla los requisitos previstos en la letra b) del apartado 1 en una de tales personas jurídicas, si bien deberá realizar la totalidad de las funciones previstas en el artículo 112 en cada una de ellas.
+
+> Se modifica por el art. 2.92 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta, en cuanto al cumplimiento del apartado 1.a), lo establecido en la disposición transitoria 4 del citado Real Decreto.
+
+> Se modifica por el art. único.64 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 114.
+
+1\. De conformidad con lo dispuesto en el artículo 47.c) de la LOTT, el gestor de transporte de la empresa habrá de estar en posesión del certificado expedido por la Administración que acredite su competencia profesional para el transporte por carretera de viajeros o de mercancías, según corresponda, de conformidad con los criterios y procedimiento que reglamentariamente se encuentren establecidos al efecto.
+
+2\. Los certificados de competencia profesional serán expedidos por el Director General de Transporte Terrestre del Ministerio de Fomento o por el órgano competente de las Comunidades Autónomas a las que dicha competencia les haya sido delegada por el Estado, teniendo en cuenta al efecto las reglas contenidas en el anexo II de este Reglamento.
+
+El órgano que expida el certificado deberá realizar la oportuna inscripción en el Registro de Empresas y Actividades de Transporte.
+
+3\. En la comprobación del cumplimiento de la condición regulada en este artículo, el órgano competente deberá atenerse exclusivamente a los datos obrantes en el Registro de Empresas y Actividades de Transporte.
+
+> Se modifica por el art. 2.93 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.65 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 115.
+
+1\. A efectos de lo dispuesto en el artículo 45 de la LOTT, tanto el propio titular de la autorización, ya sea una persona física o jurídica, como el gestor de transporte de la empresa a título personal, deberán cumplir el requisito de honorabilidad.
+
+2\. En la comprobación del cumplimiento de las condiciones señaladas en el apartado anterior, el órgano competente deberá atenerse exclusivamente a los datos obrantes en el Registro de Empresas y Actividades de Transporte y en el Registro Europeo de Empresas de Transporte por Carretera.
+
+> Se modifica por el art. 2.94 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.66 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 116.
+
+1\. Las personas físicas o jurídicas condenadas a pena de inhabilitación especial que impida el ejercicio de las profesiones de transportista, de intermediario en la contratación de transportes o de gestor de transporte por la comisión de cualquier delito, mientras dure dicha inhabilitación perderán la honorabilidad salvo que, tras la instrucción del correspondiente procedimiento, el órgano competente acuerde que dicha pérdida de honorabilidad resultaría desproporcionada.
+
+2\. Asimismo, las personas físicas o jurídicas, sancionadas mediante resolución firme en vía administrativa por la comisión de cualquiera de las infracciones señaladas en el apartado A del anexo I de este Reglamento o que hayan alcanzado un Índice de Reiteración Infractora (en adelante IRI) con valor igual o superior a tres perderán la honorabilidad salvo que, tras la instrucción del correspondiente procedimiento, el órgano competente acuerde que dicha pérdida de honorabilidad resultaría desproporcionada.
+
+Cuando las infracciones que pudieran determinar la pérdida de la honorabilidad de una empresa guarden relación con el ámbito de funciones que corresponde desarrollar a su gestor de transporte, este perderá su honorabilidad, salvo que, tras la instrucción del correspondiente procedimiento, el órgano competente acuerde que dicha pérdida de honorabilidad resultaría desproporcionada.
+
+3\. La privación de la honorabilidad tendrá la misma duración que la inhabilitación a que haya sido condenada la persona de que se trate en el supuesto contemplado en el apartado 1.
+
+En los demás supuestos previstos en el apartado 2 tendrá una duración de 365 días, igualmente contados desde la fecha de su inscripción registral.
+
+4\. La privación de la honorabilidad a una persona conllevará las siguientes consecuencias:
+
+a) La suspensión de las autorizaciones de transporte de viajeros en autobús, de transporte de mercancías en vehículos que puedan superar las 3,5 toneladas de masa máxima autorizada o de operador de transporte de mercancías de las que fuese titular, en los términos previstos en el artículo 52 de la LOTT, si bien dichas autorizaciones no podrán ser visadas mientras su titular se encuentre inhabilitado de conformidad con lo dispuesto en este artículo.
+
+b) Su inhabilitación para ser titular de una de tales autorizaciones durante el período que corresponda de conformidad con lo dispuesto en el apartado anterior.
+
+c) Su inhabilitación para ejercer la actividad de gestor de transporte durante el período que corresponda de conformidad con lo dispuesto en el apartado anterior.
+
+> Se suprime el último párrafo del apartado 4 por la disposición final 1 del Real Decreto 724/2019, de 13 de diciembre. [Ref. BOE-A-2019-18017](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18017)
+
+> Se modifica por el art. 2.95 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.67 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+#### Sección 2.ª Régimen jurídico
+
+##### Artículo 117.
+
+1\. El IRI de una empresa vendrá determinado por la aplicación de las siguientes reglas:
+
+a) Cuando el infractor sea titular de una autorización de transporte de mercancías o de viajeros en autobús, su IRI se calculará conforme a la siguiente fórmula:
+
+IRI = [I + (i / 3)] / V
+
+b) Cuando el infractor no sea titular de una autorización de transporte de mercancías o de viajeros en autobús, su IRI se calculará conforme a la siguiente fórmula:
+
+IRI = I + (i / 3)
+
+2\. Los factores que integran las fórmulas del apartado anterior quedan definidos de la siguiente manera:
+
+I = número de infracciones señaladas en el apartado B del anexo I de este Reglamento cometidas por una persona en un plazo igual o inferior a 365 días, que hayan sido sancionadas mediante resolución que ponga fin a la vía administrativa;
+
+i = número de infracciones señaladas en el apartado C del anexo I de este Reglamento cometidas por una persona en un plazo igual o inferior a 365 días, que hayan sido sancionadas mediante resolución que ponga fin a la vía administrativa;
+
+V = número medio de vehículos adscritos a la autorización de transporte de mercancías o de viajeros en autobús de la que era titular la persona de que se trate durante los 365 días anteriores a la comisión de la última de las infracciones tenidas en cuenta para calcular los factores “I” e “i”.
+
+3\. Las condenas penales y las resoluciones sancionadoras dictadas por una autoridad distinta a la Administración de transportes que hayan de ser tenidas en cuenta para determinar la pérdida de la honorabilidad de una persona o que deban ser tenidas en cuenta para determinar su IRI, se inscribirán en el Registro de Empresas y Actividades de Transporte por la Oficina Central del Registro cuando sean comunicadas a la Dirección General de Transporte Terrestre por la autoridad que las dictó o por el órgano competente de la Administración de transportes en el territorio en que fueron dictadas.
+
+> Se modifica por el art. 2.96 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.68 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 118.
+
+1\. En el momento en que se produzca la inscripción en el Registro de Empresas y Actividades de Transporte de una condena o resolución sancionadora que, conforme a lo dispuesto en el artículo 116, pudiera determinar la pérdida de honorabilidad del infractor, la Oficina Central del Registro comunicará esa circunstancia a las personas que pudieran verse afectadas por dicha pérdida y al órgano competente para el otorgamiento de autorizaciones de transporte público en el territorio en que se domicilie el infractor, identificando las resoluciones mediante las que fueron sancionadas las correspondientes infracciones.
+
+> Se modifica por el art. 2.97 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.69 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 119.
+
+**(Anulado)**
+
+> Téngase en cuenta que este artículo se anula, en la redacción dada por el art. 2.98 del Real Decreto 70/2019, de 15 de febrero, por Sentencia del TS de 15 de octubre de 2020. [Ref. BOE-A-2020-15069](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15069), en el mismo sentido Sentencia del TS de 22 de octubre de 2020. [Ref. BOE-A-2020-16028](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-16028)
+
+> Redacción anterior:
+
+> "En aquellos supuestos en que el transporte se realice al amparo de una autorización específicamente referida al vehículo de que se trate, deberá llevarse a bordo de éste el original de la tarjeta en que se documente dicha autorización.
+
+> Cuando se realice al amparo de una autorización referida al conjunto de vehículos de la empresa para los que la Administración haya expedido las correspondientes copias certificadas, deberá llevarse a bordo del vehículo la copia que corresponda, cuando ésta se encuentre expresamente referida a aquél, o cualquiera de las copias de que disponga la empresa en caso contrario."
+
+> Se anula, en la redacción dada por el art. 2.98 del Real Decreto 70/2019, de 15 de febrero, por Sentencia del TS de 15 de octubre de 2020. [Ref. BOE-A-2020-15069](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15069), en el mismo sentido Sentencia del TS de 22 de octubre de 2020. [Ref. BOE-A-2020-16028](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-16028)
+
+> Se modifica por el art. 2.98 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.70 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 120.
+
+La resolución dictada por el órgano competente en materia de autorizaciones en relación con la pérdida de honorabilidad pondrá fin a la vía administrativa y deberá ser notificada para su inscripción a la Oficina Central del Registro de Empresas y Actividades de Transporte.
+
+> Se modifica por el art. 2.99 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 121.
+
+1\. A efectos del cumplimiento de lo dispuesto en el artículo 46.a) de la LOTT en relación con el requisito de capacidad financiera, habrá de resultar acreditado que la empresa no está declarada insolvente ni en concurso.
+
+En la comprobación del cumplimiento de dicha condición, el órgano competente deberá atenerse exclusivamente a los datos obrantes en el Registro Mercantil o, en su caso, en el Registro Público Concursal.
+
+No obstante, aun cuando la empresa haya sido declarada en concurso, el órgano competente para el otorgamiento de la correspondiente autorización podrá considerar que continúa cumpliendo el requisito de capacidad financiera cuando llegue al convencimiento de que existen perspectivas realistas de saneamiento financiero en un plazo máximo de seis meses; circunstancia que deberá hacer constar expresamente en una resolución motivada que habrá de inscribirse en el Registro de Empresas y Actividades de Transporte.
+
+2\. A efectos del cumplimiento de lo dispuesto en el artículo 46.b) de la LOTT, habrá de resultar acreditado que la empresa dispone, al menos, de un capital y reservas por un importe mínimo de 9.000 euros, cuando utilice un solo vehículo, y de 5.000 euros más por cada vehículo adicional utilizado.
+
+En la comprobación del cumplimiento de dicha condición, el órgano competente deberá atenerse a los datos obrantes en el Registro Mercantil, o en el registro público que corresponda, y a la documentación complementaria aportada, en su caso, por el interesado, cuando el titular de la autorización sea una persona jurídica.
+
+Cuando se trate de un empresario individual, se presumirá que cumple la condición siempre que ninguno de los vehículos adscritos a la autorización rebase la antigüedad de doce años contada desde su primera matriculación y disponga de ellos en alguna de las siguientes modalidades:
+
+a) Propiedad o arrendamiento financiero, circunstancias en cuya comprobación el órgano competente deberá atenerse exclusivamente a los datos obrantes en los registros de la Jefatura Central de Tráfico.
+
+b) Arrendamiento ordinario, contratado por un plazo no inferior a 24 meses, circunstancia que habrá de ser documentalmente acreditada por el interesado.
+
+3\. Cuando no se cumplan las exigencias señaladas en el apartado anterior, el titular de la empresa deberá acreditar documentalmente alguna de las dos siguientes condiciones:
+
+a) Que dispone de una garantía prestada por una entidad financiera o de seguros, mediante la que esta se convierte en garante solidario de dicha empresa frente a sus acreedores hasta la cuantía que corresponda de conformidad con lo dispuesto en el apartado 2 de este artículo.
+
+b) Que una entidad financiera acredita que la empresa tienen acceso a crédito hasta la cuantía que corresponda de conformidad con lo dispuesto en el apartado 2 de este artículo.
+
+> Se modifica por el art. 2.100 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+##### Artículo 122.
+
+1\. Los transportes discrecionales de viajeros se deberán realizar como regla general mediante la contratación global por el transportista de la capacidad total del vehículo.
+
+No obstante, con carácter excepcional, el órgano administrativo competente en función del lugar donde se inicie el servicio podrá autorizar la contratación por plaza con pago individual para determinados servicios en los que se den conjuntamente al menos tres de las cuatro siguientes circunstancias:
+
+a) Que el transporte venga motivado por acontecimientos de afluencia masiva de público, no pudiendo la demanda ser satisfecha adecuadamente por los servicios regulares permanentes de uso general existentes.
+
+b) Que por el carácter ocasional del servicio no proceda el establecimiento de transportes regulares permanentes, temporales o de uso especial.
+
+c) Que los servicios no se presten con reiteración de itinerario, calendario y horario, teniendo cada transporte una finalidad específica e independiente.
+
+d) Que el transporte se organice con un objetivo o finalidad común a la totalidad de los viajeros.
+
+Cuando la petición se justifique en el cumplimiento de las circunstancias previstas en los apartados b) y c) se valorará la inexistencia de agencia de viajes en la población de que se trate.
+
+En la correspondiente autorización, la cual podrá tener carácter único o temporal, se concretarán el viaje o viajes autorizados y, en su caso, el tiempo de duración de la misma.
+
+2\. Las autorizaciones de transporte discrecional de mercancías habilitarán para realizar transportes con reiteración o no de itinerario, calendario u horario.
+
+Podrá contratarse la capacidad total o parcial del vehículo al que estén referidas tales autorizaciones.
+
+### CAPÍTULO II — Reglas sobre determinados tipos específicos de transporte
+
+#### Sección 1.ª Transporte público en automóviles de turismo
+
+##### Artículo 123.
+
+El otorgamiento de las autorizaciones habilitantes para la realización de transportes discrecionales interurbanos en vehículos de turismo estará condicionado a que el solicitante sea previamente titular de la licencia municipal que habilite para la prestación de la misma clase de servicios en el ámbito urbano.
+
+La autorización de transporte interurbano deberá domiciliarse en el mismo municipio que hubiese otorgado la licencia de transporte urbano.
+
+La pérdida o retirada por cualquier causa legal de la licencia de transporte urbano dará lugar a la cancelación de la autorización habilitante para la realización de transporte interurbano, salvo que se den las circunstancias previstas en el artículo siguiente.
+
+> Se modifica por el art. único.71 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 124.
+
+Excepcionalmente, podrán otorgarse autorizaciones habilitantes para la prestación de servicios interurbanos, aun cuando el municipio competente no hubiese otorgado previamente la correspondiente licencia municipal, si concurren las siguientes circunstancias:
+
+a) Que haya sido denegada la correspondiente licencia municipal habilitante para la realización de transporte urbano, o no haya recaído resolución expresa en el plazo de tres meses a partir de su petición.
+
+b) Que la autorización haya de domiciliarse en un núcleo de población de menos de 5.000 habitantes.
+
+c) Que la oferta de transporte público discrecional en vehículos de turismo en la zona geográfica de que se trate, sea insuficiente para atender adecuadamente las necesidades de transporte interurbano, debiendo quedar dicha circunstancia plenamente justificada en el expediente.
+
+> Se modifica por el art. único.72 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 125.
+
+Como regla general, los servicios a que se refiere esta sección, salvo en los supuestos exceptuados en los artículos 126 y 127, deberán iniciarse en el término municipal en que se encuentre domiciliada la autorización de transporte.
+
+A tal efecto, se entenderá, en principio, que el origen o inicio del transporte se produce en el lugar en que son recogidos los pasajeros de forma efectiva.
+
+> Se modifica por el art. único.73 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+##### Artículo 126.
+
+1\. No obstante lo dispuesto en el artículo anterior, en las zonas en las que exista interacción o influencia recíproca entre los servicios de transporte de varios municipios, de forma tal que la adecuada ordenación de tales servicios trascienda el interés de cada uno de los mismos, los entes competentes para el otorgamiento de las autorizaciones de transporte interurbano podrán establecer o autorizar Áreas Territoriales de Prestación Conjunta en las que los vehículos debidamente autorizados estarán facultados para la prestación de cualquier servicio, ya tenga carácter urbano o interurbano, que se realice íntegramente dentro de dichas Áreas, incluso si excede o se inicia fuera del término del municipio en que esté residenciado el vehículo.
+
+2\. El establecimiento de Áreas Territoriales de Prestación Conjunta podrá realizarse a través de cualquiera de los procedimientos previstos en el artículo 114 de la LOTT o directamente por el Ente competente para el otorgamiento de las autorizaciones de transporte interurbano, siendo en todo caso necesaria para tal establecimiento la conformidad de éste y el informe favorable de, al menos, las dos terceras partes de los municipios que se proponga incluir en las mismas, debiendo representar dichos municipios como mínimo el 75 por 100 del total de la población del Área.
+
+3\. Las autorizaciones habilitantes para realizar servicios en las Áreas Territoriales de Prestación Conjunta serán otorgadas por el Ente competente para el establecimiento del Área, o por el que designen las normas reguladoras de ésta, y, a efectos de lo dispuesto en el artículo 123, tendrán análoga consideración a la de las licencias municipales.
+
+En el procedimiento de adjudicación de dichas autorizaciones deberán observarse los requisitos específicos establecidos para el otorgamiento de licencias municipales, siendo de aplicación las normas relativas a éstas en los servicios que se presten íntegramente dentro de dichas Áreas.
+
+4\. El Ente competente para el establecimiento o autorización del Área Territorial de Prestación Conjunta lo será asimismo para realizar, con sujeción a la normativa general, cuantas funciones de regulación y ordenación del servicio resulten necesarias. Dicho Ente podrá delegar el ejercicio de sus funciones en los órganos rectores designados por las normas reguladoras del Área, en alguno de los municipios integrados en la misma o en otra Entidad pública preexistente o constituida a tal efecto, siempre que exista informe favorable de los municipios cuyo número y población sean como mínimo los necesarios para la creación del Área.
+
+> Se modifica el apartado 3 por el art. único.74 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 127.
+
+1\. No obstante lo dispuesto con carácter general en el artículo 125, los servicios de recogida de viajeros en puertos y aeropuertos que hayan sido previa y expresamente contratados, podrán ser prestados al amparo de autorizaciones de transporte discrecional en vehículo de turismo domiciliadas en municipios distintos a aquél en que se ubica el puerto o aeropuerto de que se trate, siempre que el destino de tales servicios se encuentre en el municipio en que esté domiciliada la autorización.
+
+El Ministro de Fomento, y en sus respectivos ámbitos territoriales las comunidades autónomas que, por delegación del Estado ostenten la competencia para el otorgamiento de las autorizaciones de transporte discrecional en vehículos de turismo, podrán extender el régimen señalado en este apartado a los servicios de recogida de viajeros en estaciones ferroviarias o de autobuses, cuando entiendan que ello contribuirá a dotar de una mayor fluidez y eficacia al sistema general de transporte público de viajeros.
+
+2\. Sin perjuicio de lo dispuesto en el apartado anterior, cuando las autorizaciones domiciliadas en el término municipal en que se ubiquen puertos o aeropuertos, u otros apartados, tales como, estaciones ferroviarias o de autobuses, ferias, mercados u otros similares en los que se genere un tráfico importante que afecte a varios municipios, no basten para atender ésta demanda de transporte, el ente competente en materia de transporte interurbano podrá establecer, previo informe de los municipios afectados, un régimen específico que incluya la posibilidad de que vehículos con autorización de transporte interurbano domiciliada en otros municipios realicen servicios con origen en los referidos puntos de generación de tráfico.
+
+3\. Los órganos en cada caso competentes pondrán especial atención en la vigilancia y control del cumplimiento de las condiciones exigibles para la prestación de los servicios que, con arreglo a lo dispuesto en los apartados anteriores, se inicien fuera del municipio en que se encuentre domiciliada la autorización; pudiendo limitarse o prohibirse por el órgano que ostente la competencia en el lugar de destino la realización de dichos servicios a quienes hubiesen incumplido tales condiciones de forma reiterada.
+
+> Se modifica por el art. único.75 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+#### Sección 2.ª Transportes turísticos y realizados con contratación individual
+
+##### Artículo 128.
+
+1\. Los transportes turísticos habrán de prestarse, en todo caso, en el marco de una combinación previa, vendida u ofrecida en venta por una agencia de viajes con arreglo a un precio global en la que, aparte del servicio de transporte de ida al punto de destino y vuelta al punto de origen en un mismo modo o en modos diferentes, se incluyan, al menos, dos de las siguientes prestaciones complementarias:
+
+a) Alojamiento durante al menos una noche.
+
+b) Manutención alimenticia, sin que se consideren incluidos en este concepto los servicios de restauración a bordo del vehículo, en estaciones de transporte de viajeros o durante la realización de paradas intermedias entre origen y destino de duración inferior a tres horas.
+
+c) Otros servicios turísticos no accesorios del transporte o del alojamiento y que constituyan una parte significativa de la combinación, tales como la asistencia a cursos, conferencias o eventos deportivos, realización de excursiones o visitas a centros de interés cultural o turístico, entradas para la asistencia a un espectáculo en el lugar de destino, alquiler de vehículos o servicio de guía turística, la cual exigirá la presencia de, al menos, una persona especializada, distinta del conductor, que realice tal función y, deberá venir justificada por la realización de una visita a un lugar o centro de interés cultural o turístico.
+
+No obstante, en los servicios en que la ida y la vuelta al punto de destino se realice en menos de ocho horas, bastará que juntamente con el transporte se realice una de las prestaciones complementarias citadas.
+
+2\. No obstante la exigencia general de que los transportes turísticos incluyan los trayectos de ida y vuelta, podrá admitirse, siempre que no queden desnaturalizados dicha regla general ni el carácter turístico del servicio, que alguno o algunos de los usuarios contraten etapas aisladas de los mismos.
+
+3\. Tendrán asimismo el carácter de turísticos los transportes de viajeros por carretera con origen o destino en aeropuertos, puertos o estaciones ferroviarias, contratados con agencias de viaje conjuntamente con el correspondiente transporte aéreo, marítimo o ferroviario, como continuación o antecedente de éste, siempre que el precio del transporte por carretera no exceda del 40 por 100 del realizado en el otro modo.
+
+4\. Los transportes turísticos podrán ser objeto de contratación individual y cobro por asiento, facilitándose a cada viajero un billete en el que se especificará que se trata de un servicio turístico, el trayecto que comprende, las prestaciones complementarias incluidas y el precio total.
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+##### Artículo 129.
+
+Cuando los transportes turísticos revistan carácter periódico y se presten con reiteración de itinerario, resultando coincidentes con un servicio de transporte regular de viajeros de uso general, el precio de la combinación contratada en la que estén incluidos deberá ser, al menos, un treinta por ciento superior a la tarifa del transporte en el servicio regular. Serán de aplicación, a efectos de apreciación de la coincidencia, las reglas establecidas en los artículos 64 y 65 de este Reglamento.
+
+Dicho requisito podrá ser, no obstante, exonerado por el órgano administrativo competente en relación con la línea regular con la que se produzca la coincidencia, a petición de la agencia de viajes, cuando en el correspondiente expediente, y oídos en el plazo de quince días la empresa titular de la línea, el Consejo Nacional de Transportes Terrestres y el Comité Nacional del Transporte por Carretera, quede suficientemente justificada la posibilidad de realizar la combinación contratada a los precios ofrecidos y la especificidad de los usuarios que impida que se realice una competencia injustificada para la línea regular coincidente.
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+##### Artículo 130.
+
+A fin de garantizar el cumplimiento de los requisitos establecidos en los artículos anteriores, las agencias de viaje deberán comunicar a la Administración los transportes turísticos realizados con reiteración de itinerario y carácter periódico o reiteración de calendario que pretendan llevar a cabo, especificando las condiciones de prestación, las tarifas y el resto de los servicios que vayan a integrar la combinación que se va a ofrecer a la venta. La Administración prohibirá la realización del correspondiente transporte cuando en el expediente no quede suficientemente justificado el cumplimiento de las condiciones exigibles.
+
+Los correspondientes servicios podrán comenzar a prestarse a partir de los treinta días de su comunicación a la Administración, si ésta no ha hecho manifestación expresa en otro sentido.
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+##### Artículo 131.
+
+Independientemente de los transportes turísticos definidos en los artículos anteriores de esta sección, las agencias de viaje podrán realizar transportes discrecionales de viajeros con contratación individual y cobro por asiento, sin que sea exigible que los mismos vayan acompañados de las prestaciones señaladas en el artículo 128, siempre que aquéllos revistan carácter ocasional y esporádico, y vayan dirigidos a un grupo homogéneo de usuarios, teniendo el transporte un objetivo o finalidad común a todos ellos.
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+##### Artículo 132.
+
+Cuando las empresas titulares de la explotación de servicios regulares de viajeros que atiendan tráficos coincidentes con los de los servicios a que se refiere esta sección realicen la denuncia de cualquier infracción que se produzca en el establecimiento o la prestación de los mismos, la Administración estará obligada a realizar la correspondiente investigación tendente a la exigencia de las responsabilidades en su caso existentes.
+
+#### Sección 3.ª Transporte sanitario
+
+##### Artículo 133.
+
+1\. Transporte sanitario es aquel que se realiza para el desplazamiento de personas enfermas, accidentadas o por otra razón sanitaria en vehículos especialmente acondicionados al efecto.
+
+2\. Los servicios de transporte sanitario podrán prestarse con vehículos adecuados para el traslado individual de enfermos en camilla, dotados o no de equipamientos que permitan medidas asistenciales, o con vehículos acondicionados para el transporte colectivo de enfermos no aquejados de enfermedades transmisibles.
+
+##### Artículo 134.
+
+1\. Las características técnicas, así como el equipamiento sanitario y la dotación de personal de cada uno de los distintos tipos de vehículos sanitarios previstos en el artículo anterior, serán determinados por Real Decreto a propuesta conjunta de los Ministros de Sanidad y Consumo y de Transportes, Turismo y Comunicaciones.
+
+2\. Todos los vehículos de transporte sanitario, ya fueren de transporte público, privado u oficial, deberán contar con una certificación técnico-sanitaria expedida por el órgano competente en materia de sanidad en el lugar en que dicho vehículo esté residenciado, acreditativa del cumplimiento de las condiciones técnico-sanitarias a que se refiere el punto anterior.
+
+La referida certificación técnico-sanitaria, a partir de cumplirse el segundo año de antigüedad del vehículo, deberá ser renovada anualmente, previa inspección, llevada a cabo por el órgano competente, de los aspectos del vehículo o sus elementos que tengan repercusión a efectos sanitarios. Además de la inspección anual a efectos de renovación, los órganos sanitarios podrán realizar cuantas inspecciones estimen precisas, y procederán conforme a los artículos 31.2 y 37 de la Ley General de Sanidad en el caso de que las mismas resultasen desfavorables.
+
+##### Artículo 135.
+
+1\. Para la realización de transporte sanitario será necesaria la previa obtención de la correspondiente autorización administrativa, otorgada bien para transporte público o para transporte privado. A efectos de control, la Administración expedirá una copia de dicha autorización referida a cada uno de los vehículos que la empresa pretenda utilizar a su amparo, previa comprobación de que cuenta con la certificación técnico-sanitaria regulada en el artículo anterior.
+
+2\. Las autorizaciones para la realización de transporte público sanitario serán otorgadas por el órgano estatal o autonómico competente en materia de transporte interurbano.
+
+La decisión administrativa sobre el otorgamiento de la autorización tendrá carácter reglado, pudiendo revestir carácter negativo, únicamente, cuando se incumpla alguna condición o requisito que resulte preceptivo, o cuando así deba resultar de la aplicación de los criterios de prestación del servicio y de distribución territorial del mismo debidamente aprobados.
+
+> Se modifica el apartado 1 por la disposición final 1.1 del Real Decreto 836/2012, de 25 de mayo. [Ref. BOE-A-2012-7655](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-7655).
+
+> Se modifica el apartado 2 por el art. único.76 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 136.
+
+1\. Para el otorgamiento de las autorizaciones de transporte sanitario será necesaria la previa obtención de la certificación técnico-sanitaria que se regula en el artículo 134. Cuando la certificación técnico-sanitaria sea suspendida, retirada o no renovada en el plazo establecido, se considerará automáticamente invalidada la autorización de transporte sanitario, aun cuando dicha invalidez no haya sido formalmente declarada por la Administración.
+
+2\. Los vehículos a los que estén referidas las autorizaciones de transporte sanitario deberán cumplir las condiciones de antigüedad máxima que, tanto a efectos del otorgamiento de la autorización como de mantenimiento de la misma, se determine por Orden conjunta de los Ministros de Transportes, Turismo y Comunicaciones y de Sanidad y Consumo.
+
+3\. Las autorizaciones de transporte sanitario deberán especificar el tipo de vehículos para el que las mismas se conceden, y habilitarán para la realización de transporte tanto urbano como interurbano en todo el territorio nacional.
+
+Las referidas autorizaciones deberán estar domiciliadas en la localidad en la que los vehículos tengan su base de operaciones, debiendo ser modificada dicha domiciliación cuando pasen a prestar servicios con carácter habitual en otra localidad.
+
+##### Artículo 137.
+
+Para la obtención de las autorizaciones de transporte sanitario deberán cumplirse los siguientes requisitos específicos:
+
+a) Autorizaciones de transporte público:
+
+1\. Disposición de medios que permitan la inmediata localización las veinticuatro horas del día. En poblaciones de más de 20.000 habitantes, disposición de un local abierto al público, con nombre o título registrado.
+
+2\. Obtención previa de la certificación técnico-sanitaria regulada en el artículo 134.
+
+3\. Disposición del número mínimo de vehículos que se determine por Orden del Ministro de la Presidencia, dictada a propuesta de los Ministros de Fomento y de Sanidad, Servicios Sociales e Igualdad. Dicho mínimo no podrá en ningún caso ser superior a 10.
+
+b) Autorizaciones de transporte privado.
+
+Además de los establecidos con carácter general en los artículos 157 y 158, deberá haberse obtenido previamente la certificación técnico-sanitaria prevista en el artículo 134.
+
+> Se modifica el apartado 3 de la letra a) por la disposición final 1.2 del Real Decreto 836/2012, de 25 de mayo. [Ref. BOE-A-2012-7655](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-7655).
+
+##### Artículo 138.
+
+1\. Por los Ministros de Transportes, Turismo y Comunicaciones y de Sanidad y Consumo, podrán establecerse tarifas obligatorias en horquilla en relación con los servicios de transporte sanitario.
+
+Podrán acordarse tarifas inferiores a las mínimas en los casos de contrataciones de duración superior a seis meses o en los que se garantice un volumen significativo de transporte, en los términos que se fijen.
+
+2\. Las Empresas de transporte público sanitario deberán estar en condiciones de ofrecer sus servicios a los posibles usuarios las veinticuatro horas de cada día.
+
+#### Sección 4.ª Transporte funerario
+
+##### Artículo 139.
+
+1\. El transporte funerario deberá ser realizado por empresas de pompas fúnebres legalmente establecidas, teniendo la consideración de transporte privado complementario.
+
+2\. En la realización de los servicios de transporte funerario deberán respetarse las normas vigentes de policía mortuoria, debiendo cumplir los vehículos todos aquellos requisitos técnicos y sanitarios que, en su caso, establezcan los Ministerios de Industria, Turismo y Comercio y de Sanidad y Consumo.
+
+3\. Todas las empresas legalmente dedicadas a la realización de transportes funerarios podrán desarrollar esta clase de servicios en todo el territorio nacional, con independencia de su origen o recorrido, hasta el lugar en que se realice el enterramiento o se conduzca el cadáver.
+
+> Se modifica por el art. único.77 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 927/1998, de 14 de mayo. [Ref. BOE-A-1998-12158](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-12158)
+
+#### Sección 5.ª Transporte de mercancías peligrosas y de mercancías perecederas
+
+##### Artículo 140.
+
+1\. El transporte de mercancías peligrosas deberá realizarse respetando las reglas específicas dirigidas a prevenir los riesgos inherentes al mismo, las cuales serán establecidas por el Gobierno, y de conformidad con lo que éste determine, por el Ministerio de Transportes, Turismo y Comunicaciones o por otros Ministerios afectados dentro; de sus respectivas competencias, previo informe de la Comisión Interministerial de Coordinación del Transporte de Mercancías Peligrosas, teniendo en cuenta lo dispuesto en la normativa internacional para el transporte de dichas mercancías.
+
+2\. El transporte de mercancías peligrosas realizado por las Fuerzas Armadas y de Seguridad del Estado se regirá por sus propias normas específicas, las cuales se ajustarán, en cuanto sus peculiares características lo permitan, a las condiciones técnicas y de seguridad establecidas con carácter general.
+
+3\. Los transportes de productos perecederos que hayan de ser realizados en vehículos especialmente acondicionados para los mismos se llevarán a cabo según reglas establecidas por el Ministro de Transportes, Turismo y Comunicaciones, o por otros Ministros afectados dentro de sus respectivas competencias, de acuerdo con la legislación sobreprotección de los consumidores y usuarios y en las Reglamentaciones Técnico-Sanitarias, teniendo en cuenta lo dispuesto en la normativa internacional para el transporte de dichos productos.
+
+### CAPÍTULO III — Transporte urbano
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículos 141 a 143.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+### CAPÍTULO IV — Transporte internacional
+
+##### Artículo 144.
+
+Las empresas españolas que pretendan realizar transportes internacionales de viajeros o de mercancías sujetos a la autorización de los países extranjeros por los que estos hayan de discurrir o de las organizaciones internacionales en las que dichos países estén integrados, deberán obtener previamente la referida autorización.
+
+Dichas autorizaciones serán distribuidas por la Dirección General de Transporte Terrestre entre las empresas que las soliciten y para su obtención deberá resultar acreditado que dichas empresas son titulares de la autorización que en cada caso resulte pertinente para realizar transporte en territorio nacional conforme a lo dispuesto en este Reglamento.
+
+> Se modifica por el art. 2.101 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 145.
+
+**(Suprimido).**
+
+> Se suprime por el art. 2.102 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 146.
+
+**(Suprimido).**
+
+> Se suprime por el art. 2.102 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 147.
+
+**(Suprimido).**
+
+> Se suprime por el art. 2.102 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 148.
+
+**(Suprimido).**
+
+> Se suprime por el art. 2.102 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 149.
+
+**(Suprimido).**
+
+> Se suprime por el art. 2.102 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 150.
+
+Cuando la realización de transportes internacionales de mercancías o discrecionales de viajeros estuviera sujeta a la autorización de los países extranjeros por los que éstos discurran, la distribución de tales autorizaciones que corresponda realizar a la Administración española se ajustará a las reglas que determine el Ministro de Fomento según los criterios que a continuación se explicitan:
+
+1\. Cuando se trate de autorizaciones correspondientes a países y modalidades de transporte cuyo número resulte en principio suficiente para atender cuantas demandas se realicen, dichas autorizaciones se distribuirán por la Dirección General de Ferrocarriles y Transportes por Carretera, según las solicitudes que realicen las empresas que las precisen, de acuerdo con las reglas que, en su caso, se encuentren establecidas conforme a lo previsto en el artículo 151.
+
+2\. Excepcionalmente, cuando el número de autorizaciones correspondientes a un determinado país o modalidad de transporte de que disponga la Administración española resulte insuficiente para atender todas las demandas que realicen las empresas, se distribuirán entre los solicitantes de tal forma que, en la medida en que el contingente disponible lo permita, se asigne a cada empresa el mismo número de autorizaciones que le fueron asignadas y utilizó debidamente en años anteriores. Si, después de alcanzado este objetivo, aún sobrasen autorizaciones del referido contingente, éstas serán distribuidas entre los solicitantes con idénticos criterios a los señalados en el párrafo 1 de este artículo para el caso general.
+
+A los efectos anteriormente previstos, la Dirección General de Ferrocarriles y Transportes por Carretera deberá hacer pública la relación de Estados y modalidades de transporte respecto de los que exista insuficiencia de autorizaciones.
+
+Cuando las circunstancias concurrentes en el mercado de transporte internacional con un determinado país así lo aconsejen, el Ministro de Fomento podrá supeditar el otorgamiento de las autorizaciones a que se refiere este artículo para la realización de transportes privados que no se encuentre liberalizado a que el contingente disponible sea suficiente para garantizar la cobertura de todos los transportes públicos que sean demandados.
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 151.
+
+La solicitud de autorizaciones de transporte internacional de mercancías y de viajeros de carácter discrecional, así como la realización material de su otorgamiento y su distribución temporal, se llevarán a cabo de conformidad con las reglas que para garantizar el más adecuado aprovechamiento de las mismas determine el Ministro de Fomento, que podrá retirar dichas autorizaciones y establecer limitaciones al otorgamiento de otras nuevas, en relación con las empresas que hagan un uso indebido de las mismas o vulneren las normas reguladoras del transporte internacional.
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 152.
+
+**(Suprimido).**
+
+> Se suprime por el art. 2.102 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 153.
+
+**(Suprimido).**
+
+> Se suprime por el art. 2.102 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 154.
+
+En ejecución de lo previsto en el artículo 101.1.b) de la LOTT, los transportes privados particulares de viajeros habrán de realizarse en vehículos de turismo. No obstante, las familias numerosas de categoría especial podrán utilizar para su desplazamiento vehículos de mayor capacidad, siempre que no superen las 17 plazas, incluida la del conductor.
+
+Los transportes privados particulares de mercancías habrán de llevarse a cabo en vehículos cuya masa máxima autorizada no sea superior a 6 toneladas, salvo que se trate del transporte de máquinas, animales o complementos destinados a la práctica personal de una actividad deportiva o recreativa que, por sus características, no resulte posible transportar en un vehículo que no supere dicho límite.
+
+> Se modifica por el art. 2.103 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+##### Artículo 155.
+
+1\. A efectos del cumplimiento de lo dispuesto en el artículo 103.1 de la LOTT, la realización de transportes privados complementarios estará supeditada a la posesión de una autorización que habilite para ello expedida por el órgano competente de la Administración General del Estado o, en su caso, por el de aquella Comunidad Autónoma en que se domicilie la autorización, cuando esta facultad le haya sido delegada por el Estado.
+
+Las autorizaciones de transporte privado complementario habilitan para realizar transporte exclusivamente con los vehículos que se les hayan vinculado mediante la inscripción de su matrícula en el Registro de Empresas y Actividades de Transporte.
+
+2\. No obstante, no será necesaria la previa obtención de autorización para realizar las siguientes modalidades de transporte:
+
+a) Transportes que presenten idénticas características a las señaladas en el artículo 33.2 de este Reglamento.
+
+b) Transportes privados particulares definidos en el artículo 101 de la LOTT.
+
+c) Transportes oficiales definidos en el artículo 105 de la LOTT.
+
+d) Transporte de viajeros en vehículos de turismo, salvo que se trate de transporte sanitario.
+
+e) Transporte de mercancías en vehículos cuya masa máxima autorizada no supere las 3,5 toneladas.
+
+f) Transporte funerario, que podrá realizarse libremente en todo el territorio nacional por prestadores de servicios funerarios, con independencia de su origen o recorrido.
+
+> Se modifica por el art. 2.104 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+### CAPÍTULO V — Transportes privados
+
+##### Artículo 156.
+
+1\. A efectos del cumplimiento de lo dispuesto en el artículo 102.1 de la LOTT, habrá de resultar acreditado que la actividad principal del solicitante de la autorización no es la de transporte.
+
+En la comprobación del cumplimiento de este requisito, el órgano competente deberá atenerse exclusivamente a los datos obrantes en el Censo de Obligados Tributarios.
+
+2\. En ningún caso podrá otorgarse una autorización de transporte privado complementario a quien sea titular de una de transporte público.
+
+3\. A los efectos previstos en el artículo 102.2.b) de la LOTT, cuando la actividad principal que justifique el otorgamiento de la autorización se preste de forma ambulante, el vehículo con el que se practique tendrá la consideración de establecimiento de la empresa.
+
+> Se modifica por el art. 2.105 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica el apartado 2 por el art. único.78 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 157.
+
+A efectos del cumplimiento de lo dispuesto en el artículo 104 de la LOTT, habrá de resultar acreditada la necesidad de transportar y su proporcionalidad en relación con la carga útil o número de plazas de los vehículos que se pretenda utilizar al amparo de la autorización.
+
+Cuando se trate de una autorización de transporte de mercancías, el interesado acreditará dicho requisito presentando la documentación justificativa del volumen de mercancías que adquiera, manufacture y venda habitualmente, así como del número de sus clientes y proveedores.
+
+Cuando se trate de una autorización de transporte de viajeros, el interesado acreditará el requisito presentando la documentación justificativa del número de trabajadores propios, proveedores y clientes que asisten a sus centros con habitualidad.
+
+Cuando se trate de una autorización de transporte sanitario privado complementario, el interesado acreditará el requisito presentando la documentación justificativa del número de personas accidentadas o enfermas que necesitan ser trasladadas habitualmente desde o hasta sus centros.
+
+> Se modifica por el art. 2.106 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica la letra b) por el art. único.79 del Real Decreto 1225/2006, de 27 de octubre.[Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 158.
+
+Las autorizaciones de transporte privado complementario quedarán sujetas a lo dispuesto en los artículos 42, 43 y 46, y sus titulares deberán comunicar al órgano competente para su otorgamiento la dirección de correo electrónico de que disponen.
+
+> Se modifica por el art. 2.107 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.80 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+## TÍTULO V — Actividades auxiliares y complementarias del transporte por carretera
+
+### CAPÍTULO I — Agencias de transporte
+
+#### Sección 1.ª Agencias de transporte de mercancías
+
+##### Artículo 159.
+
+1\. De conformidad con lo que se dispone en el artículo 119.1 de la LOTT, quienes pretendan intermediar en la contratación de transportes de mercancías por carretera deberán obtener una autorización de operador de transporte de mercancías.
+
+No obstante, no estarán obligados a obtener dicha autorización para intermediar en la contratación de transporte de mercancías:
+
+a) Los titulares de autorizaciones de transporte público de mercancías que hubiesen acreditado para su obtención disponer de un capital y reservas por un importe igual o superior al establecido en la letra d) del artículo siguiente.
+
+b) Los titulares de autorizaciones de transporte público de mercancías que se limiten a intermediar en la contratación de otros transportistas para atender demandas de porte que excedan coyunturalmente de su propia capacidad de transporte, siempre que el número de vehículos ajenos utilizados como consecuencia de esa intermediación no supere en ningún momento al de su propia capacidad de transporte medida en número de vehículos.
+
+c) Las cooperativas de transportistas y sociedades de comercialización, en tanto que su intermediación se limite a la comercialización de los transportes prestados por aquellos de sus socios que sean titulares de autorización de transporte de mercancías.
+
+2\. Sin perjuicio de lo dispuesto en el apartado anterior, el órgano competente que expida o vise una autorización de transporte público de mercancías cuyo titular cumpla el requisito señalado en su letra a), deberá inscribirlo como operador de transporte en el Registro de Empresas y Actividades de Transporte.
+
+3\. La actividad de intermediación en la contratación de transporte no quedará desvirtuada por el hecho de que en su desarrollo se utilicen exclusivamente medios telefónicos, informáticos o telemáticos que obvien la relación directa y personal entre el intermediario y sus clientes.
+
+> Se modifica por el art. 2.108 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica el apartado 1 por el art. único.81 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 160.
+
+A efectos del cumplimiento de lo dispuesto en el artículo 119.2 de la LOTT, el otorgamiento de la autorización de operador de transporte de mercancías estará condicionado a que se acredite el cumplimiento de los requisitos señalados en las letras a), b), c), e) y f) del artículo 43.1 de la LOTT, en idénticos términos a los establecidos en los artículos 35, 36, 37, 39, 40 y 41 de este Reglamento.
+
+Además, deberá resultar acreditado el cumplimiento de las siguientes condiciones:
+
+a) Cumplimiento del requisito de establecimiento, en los términos previstos en los apartados 1 y 3 del artículo 110 de este Reglamento.
+
+b) Cumplimiento del requisito de competencia profesional, en los términos previstos en los artículos 111, 113 y 114, así como en las letras a), b), c), d) y e) del artículo 112 de este Reglamento.
+
+c) Cumplimiento del requisito de honorabilidad, en los términos previstos en los artículos 115 a 120 de este Reglamento, ambos inclusive.
+
+d) Cumplimiento del requisito de capacidad financiera, en los términos previstos en el artículo 121 de este Reglamento, debiendo, a tal efecto, resultar acreditado que la empresa dispone, al menos, de un capital y reservas por un importe mínimo de 60.000 euros.
+
+> Se modifica por el art. 2.109 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículo 161.
+
+Las autorizaciones de operador de transporte de mercancías quedarán sujetas a lo dispuesto en los artículos 42, 43 y 46.
+
+> Se modifica por el art. 2.110 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica el apartado 2 por el art. único.6 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+##### Artículos 162 a 166.
+
+**(Suprimidos).**
+
+> Se suprimen por el art. 2.111 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+### CAPÍTULO II — Transitarios
+
+> Se suprime por el art. 2.111 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículos 167 a 170.
+
+**(Suprimidos).**
+
+> Se suprimen por el art. 2.111 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+### CAPÍTULO III — Almacenistas-distribuidores
+
+> Se suprime por el art. 2.111 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+##### Artículos 171 a 173.
+
+**(Suprimidos).**
+
+> Se suprimen por el art. 2.111 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+### CAPÍTULO IV — Arrendamientos de vehículos
+
+#### Sección 1.ª Arrendamiento sin conductor
+
+##### Artículo 174.
+
+**(Suprimido).**
+
+> Se suprime por el art. único.8 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+> Se modifica por el art. único del Real Decreto 858/1994, de 29 de abril. [Ref. BOE-A-1994-11237](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-11237)
+
+##### Artículo 175.
+
+**(Suprimido).**
+
+> Se suprime por el art. único.8 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+> Se modifica por el art. único.83 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+> Se modifica por el art. único del Real Decreto 858/1994, de 29 de abril. [Ref. BOE-A-1994-11237](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-11237)
+
+##### Artículo 176.
+
+1\. Los contratos de arrendamiento de vehículos sin conductor deberán celebrarse en los locales u oficinas de la empresa arrendadora, si bien su formalización y la entrega efectiva de los vehículos a los usuarios podrán llevarse a cabo en un lugar diferente, siempre que quede garantizada la contratación previa.
+
+Dichos contratos podrán asimismo ser celebrados en las delegaciones que la empresa arrendadora tenga en hoteles, agencias de viajes, complejos turísticos o centros similares.
+
+2\. A efectos de control administrativo, la formalización de los contratos de arrendamiento deberá realizarse de conformidad con las prescripciones establecidas por el Ministro de Obras Públicas, Transportes y Medio Ambiente, debiendo incluirse en aquéllos los datos que dicho Ministro determine.
+
+3\. Las empresas arrendadoras podrán realizar arrendamiento de sus vehículos utilizando la colaboración de otras empresas arrendadoras que contraten directamente con los clientes.
+
+La responsabilidad administrativa por cualquier infracción relativa a las normas reguladoras del arrendamiento de vehículos corresponderá conjunta y solidariamente a la empresa propietaria del vehículo y a la empresa colaboradora.
+
+Para la realización de la colaboración prevista en este punto en relación con empresas y vehículos extranjeros deberán cumplirse las reglas establecidas por el Ministerio de Economía y Hacienda.
+
+4\. Los precios de la actividad de arrendamiento de vehículos sin conductor no estarán sujetos a tarifa administrativa, si bien las empresas arrendadoras de vehículos de turismo deberán tener expuestos al público dichos precios con arreglo a las normas que a tal efecto establezca el Ministro de Obras Públicas, Transportes y Medio Ambiente.
+
+> Se modifican los apartados 1 y 3 por el art. único.9 y 10 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+> Se modifica por el art. único del Real Decreto 858/1994, de 29 de abril. [Ref. BOE-A-1994-11237](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-11237)
+
+##### Artículo 177.
+
+El contrato de arrendamiento, salvo lo dispuesto en la sección 2.ª de este capítulo, deberá referirse únicamente a la puesta a disposición del vehículo sin conductor, no pudiendo ir acompañado de otro concertado con la misma empresa relativo al personal conductor o acompañante.
+
+> Se modifica por el art. único.11 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+> Se modifica la letra a) por el art. único.84 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 178.
+
+1\. Cuando el vehículo arrendado vaya a destinarse a la realización de cualquier tipo de transporte sujeto a autorización será necesario que el arrendatario sea titular de esta y lo adscriba a la misma.
+
+A fin de acreditar la disponibilidad del vehículo arrendado a efectos de dicha adscripción, será suficiente un precontrato o documento análogo en el que las partes se comprometan a realizar el arrendamiento y en el que figure el plazo de duración de este, la identificación de la empresa arrendadora y los datos del vehículo de que se trate.
+
+No obstante, una vez formalizado el contrato de arrendamiento definitivo, el arrendatario deberá comunicarlo a la Administración competente sobre la autorización de que se trate.
+
+2\. Las prescripciones de este artículo y del anterior no serán de aplicación en los supuestos de utilización, por empresas de transporte, de vehículos de otros transportistas, a través de las fórmulas de colaboración legalmente previstas.
+
+> Se modifica el apartado 1 por el art. 2.112 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica el apartado 1 por el art. único.12 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+> Se modifica por el art. único.85 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 858/1994, de 29 de abril. [Ref. BOE-A-1994-11237](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-11237)
+
+##### Artículo 179.
+
+1\. No obstante lo dispuesto en el artículo anterior, cuando un vehículo adscrito a una autorización de transporte de viajeros o de mercancías se encuentre averiado, el titular de aquella podrá sustituirlo provisionalmente por otro arrendado de las mismas características sin necesidad de adscribirlo expresamente a dicha autorización.
+
+A tal efecto, el transportista deberá comunicarlo al órgano administrativo competente sobre la autorización, acompañando un certificado del taller en el que se encuentre en reparación el vehículo averiado, en el que se exprese la presunta duración de dicha reparación.
+
+El transportista arrendatario únicamente podrá realizar transporte con ese vehículo arrendado cuando lleve a bordo el referido certificado del taller en que se encuentre en reparación el vehículo averiado y un justificante de haber puesto en conocimiento de la Administración la correspondiente avería, en el que consten la matrícula del vehículo averiado y la del arrendado para sustituirlo temporalmente. Dicho justificante, que será expedido por la Administración de forma inmediata, tendrá el plazo de validez que determine el órgano competente en función de la presunta duración de la reparación.
+
+Excepcionalmente, cuando el vehículo utilizado para sustituir a otro averiado en los términos establecidos en este apartado fuera propiedad del taller que realiza la reparación o del fabricante o concesionario de la marca de vehículos a que pertenece el averiado y hubiese sido cedido por estos sin exigir otra contraprestación que el resarcimiento de los costes generados por la utilización del vehículo, no será preciso que dicho taller, fabricante o concesionario sea una empresa profesionalmente dedicada a la actividad de arrendamiento de vehículos sin conductor.
+
+2\. Los vehículos arrendados a que se refiere este artículo deberán cumplir los requisitos, en su caso, exigibles a los sustituidos, no exonerando su utilización de contar con los seguros que en su caso resulten preceptivos.
+
+> Se modifica el apartado 1 por el art. 2.113 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+#### Sección 2.ª Arrendamiento con conductor
+
+##### Artículo 180.
+
+1\. Fuera de los supuestos de colaboración entre transportistas legalmente previstos, únicamente podrán arrendarse con conductor los vehículos de turismo. Dicho arrendamiento tendrá a todos los efectos administrativos la consideración de transporte discrecional de viajeros.
+
+2\. Para la realización de la actividad de arrendamiento con conductor será precisa la obtención, para cada vehículo que se pretenda dedicar a la misma, de la correspondiente autorización administrativa que habilite al efecto.
+
+> Se modifica el apartado 1 por el art. único.13 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+> Se modifica por el art. único.86 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 181.
+
+1\. Para el otorgamiento de las autorizaciones de arrendamiento de vehículos con conductor será necesario que el solicitante cumpla todos los requisitos exigidos en el artículo 43.1 de la LOTT, con las especificaciones que se indican en el apartado siguiente.
+
+2\. En ejecución de lo que se dispone en la letra d) del citado artículo 43.1 de la LOTT, las empresas dedicadas a la actividad de arrendamiento con conductor habrán de disponer en todo momento, en propiedad o arrendamiento financiero, de al menos siete vehículos dedicados a esta actividad.
+
+La empresa podrá disponer en propiedad, arrendamiento financiero o arrendamiento ordinario del resto de vehículos que, en su caso, pretenda adscribir a autorizaciones de arrendamiento de vehículos con conductor.
+
+> Téngase en cuenta que se anulan los dos primeros párrafos del apartado 2, en la redacción dada por el Real Decreto 1057/2015, de 20 de noviembre. [Ref. BOE-A-2015-12574](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12574), por Sentencia del Tribunal Supremo de 4 de junio de 2018. [Ref. BOE-A-2018-10126](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10126).
+
+Los vehículos a los que hayan de estar referidas las autorizaciones de arrendamiento con conductor, no tendrán una capacidad superior a 9 plazas, incluida la del conductor, y deberán reunir, sin perjuicio de cualesquiera otras que supongan una mejora de sus condiciones, las siguientes características:
+
+a) Motor con una potencia igual o superior a 12 caballos de vapor fiscales (CVF).
+
+b) Longitud mínima exterior, medida de extremo a extremo del vehículo, igual o superior a 4,60 metros.
+
+No será necesario el cumplimiento de las exigencias contenidas en las dos letras anteriores cuando el vehículo que se pretenda adscribir a la autorización utilice como fuente de energía la electricidad, el hidrógeno, los biocarburantes, los combustibles sintéticos y parafínicos, el gas natural, el gas licuado del petróleo o cualquier otra que así se señale expresamente por resultar alternativa a los combustibles fósiles clásicos.
+
+Los vehículos no podrán continuar dedicados a la actividad de arrendamiento con conductor a partir de que alcancen una antigüedad superior a diez años, contados desde su primera matriculación. No obstante, no existirá limitación alguna en cuanto a la antigüedad del vehículo, cuando el mismo tenga una potencia fiscal igual o superior a 28 CVF o se trate de un vehículo histórico de los definidos como tales en la reglamentación sobre tráfico, circulación de vehículos a motor y seguridad vial.
+
+> Se anulan los dos primeros párrafos del apartado 2, en la redacción dada por el Real Decreto 1057/2015, de 20 de noviembre. [Ref. BOE-A-2015-12574](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12574), por Sentencia del Tribunal Supremo de 4 de junio de 2018. [Ref. BOE-A-2018-10126](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10126).
+
+> Se deroga el apartado 3 por la disposición derogatoria única del Real Decreto-ley 3/2018, de 20 de abril. [Ref. BOE-A-2018-5451](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-5451)
+
+> Se modifica por el art. único.1 del Real Decreto 1057/2015, de 20 de noviembre. [Ref. BOE-A-2015-12574](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12574).
+
+> Téngase en cuenta la disposición transitoria única del citado Real Decreto para la aplicación del apartado 2. No obstante, esta disposición fue anulada por Sentencia del Tribunal Supremo de 4 de junio de 2018. [Ref. BOE-A-2018-10126](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10126).
+
+> Se declara la nulidad de las letras a), b) y f) del apartado 1 por Sentencia del TS de 14 de febrero de 2012. [Ref. BOE-A-2012-4022](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4022).
+
+> Se modifica el apartado 1 por el art. único.14 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+##### Artículo 182.
+
+1\. Cuando los vehículos adscritos a las autorizaciones de arrendamiento de vehículos con conductor estén ocupados por personas ajenas a la empresa titular de la autorización, únicamente podrán circular si se justifica que están prestando un servicio previamente contratado.
+
+A tal efecto, el contrato de arrendamiento de vehículos con conductor deberá haber sido cumplimentado previamente a que se inicie la prestación del servicio contratado, debiendo llevarse a bordo del vehículo la documentación acreditativa de dicha contratación, conforme a lo que se determine por el Ministro de Fomento.
+
+Los vehículos adscritos a las autorizaciones de arrendamiento de vehículos con conductor no podrán, en ningún caso, circular por las vías públicas en busca de clientes ni propiciar la captación de viajeros que no hubiesen contratado previamente el servicio permaneciendo estacionados a tal efecto.
+
+2\. **(Derogado).**
+
+3\. De conformidad con lo dispuesto en los artículos 17.1 y 18 de la LOTT, los precios de la actividad de arrendamiento de vehículos con conductor no estarán sujetos a tarifa administrativa, si bien las correspondientes empresas deberán tener a disposición del público información de los que apliquen.
+
+4\. Los vehículos dedicados a la actividad de arrendamiento con conductor no podrán llevar signos externos de identificación que induzcan a confusión con la actividad de los taxis.
+
+Sin perjuicio de ello, aquellas comunidades autónomas que, por delegación del Estado, hubieran asumido competencias en materia de autorizaciones de arrendamiento de vehículos con conductor podrán exigir que los vehículos amparados en autorizaciones de esta clase se identifiquen externamente mediante algún distintivo.
+
+5\. Cuando los vehículos se encuentren prestando servicios en territorio distinto al de la comunidad autónoma en que se encuentre domiciliada la autorización en la que se amparan, éstos deberán llevar a bordo la correspondiente autorización en el salpicadero, en lugar visible desde el exterior, salvo que se encuentren identificados por uno de los distintivos a que hace referencia el segundo párrafo del artículo 182.4.
+
+6\. La empresa deberá tener cubierta, mediante uno o varios seguros u otras garantías financieras, su responsabilidad civil por los daños que pudieran sufrir los viajeros como consecuencia del transporte.
+
+> Se deroga el apartado 2 por la disposición derogatoria única del Real Decreto-ley 13/2018, de 28 de septiembre. [Ref. BOE-A-2018-13179](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-13179)
+
+> Se derogan los dos primeros párrafos del apartado 5 por la disposición derogatoria única del Real Decreto-ley 3/2018, de 20 de abril. [Ref. BOE-A-2018-5451](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-5451)
+
+> Se modifica por el art. único.2 a 6 del Real Decreto 1057/2015, de 20 de noviembre. [Ref. BOE-A-2015-12574](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12574).
+
+### CAPÍTULO V — Estaciones de transporte
+
+##### Artículo 183.
+
+De conformidad con lo establecido en el ar­tícu­lo 127 de la LOTT, tendrán la consideración de estaciones de transporte por carretera de viajeros o de mercancías, los lugares destinados a concentrar las salidas, llegadas y tránsitos a las poblaciones de los vehículos de transporte público que reúnan las condiciones mínimas establecidas en los artículos siguientes.
+
+En ningún caso tendrán la consideración de estaciones de transporte los terrenos e instalaciones destinados únicamente a garaje, estacionamiento de vehículos o almacenamiento de mercancías.
+
+> Se modifica por el art. único.87 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 184.
+
+1\. Para alcanzar tal consideración a efectos de la ordenación del transporte, las estaciones de transporte de viajeros deberán cumplir las siguientes condiciones:
+
+a) Contar con accesos, para entradas y salidas de los vehículos, configurados de modo que no produzcan interferencias entre los mismos ni alteraciones sensibles en la capacidad de circulación normal por las vías colindantes.
+
+b) Contar con accesos para entradas y salidas de los viajeros, independientes de los vehículos.
+
+c) Poseer dársenas cubiertas en número suficiente para los aparcamientos simultáneos que se precisen.
+
+d) Tener andenes cubiertos para subida y bajada de viajeros.
+
+e) Contar con zonas de espera independientes de los andenes.
+
+f) Contar con instalaciones de servicios sanitarios.
+
+g) Poseer dependencias, de uso común o individualizado, para la facturación, consigna y venta de billetes, así como oficina de información, ya sean explotadas por medios propios o a través de terceros.
+
+2\. El Ministro de Fomento, previo informe del Comité Nacional del Transporte por Carretera y del Consejo Nacional de Transportes Terrestres, podrá establecer una clasificación de estaciones de transporte en diversas categorías, en función de la dotación y servicios con que éstas cuenten, a efectos de facilitar la planificación en relación con el establecimiento de esta clase de infraestructuras y la información a sus usuarios.
+
+> Se modifica el apartado 1 por el art. único.15 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+> Se modifica por el art. único.88 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 185.
+
+Para alcanzar tal consideración a efectos de la planificación del transporte, las estaciones de transporte de mercancías deberán cumplir las siguientes condiciones:
+
+a) Ubicación en zona próxima a los núcleos de contratación o intercambio y generación de cargas.
+
+b) Carácter público, esto es, que puedan ser utilizadas por cualquier vehículo de transporte o transportista legalmente establecido, con las únicas restricciones que se establezcan en sus normas específicas de explotación.
+
+c) Acoger en su recinto un conjunto de servicios e instalaciones donde se desarrollen actividades relacionadas o vinculadas al transporte e integrados, a su vez, en funciones o tareas específicas de la estación o al servicio de la misma, tales como almacenaje, manipulación, clasificación, depósito, grupaje o distribución de las mercancías.
+
+d) Poseer, dentro de una zona identificada y delimitada, accesos controlados para los vehículos, así como contar con playas, viales de maniobra y aparcamientos adecuados para vehículos pesados.
+
+e) Contar con naves de consolidación y fraccionamiento de cargas dotadas de muelles para recibir o expedir las mercancías, así como con naves de almacenamiento.
+
+f) Contar con instalaciones para la atención de las tripulaciones de los vehículos, tales como lugar de restauración, sala de descanso o de espera, así como de los servicios adecuados destinados al aseo personal.
+
+> Se modifica por el art. único.16 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+> Se modifica por el art. único.89 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 186.
+
+Tendrán la consideración de centros de transporte de mercancías aquéllas estaciones de transporte que dispongan de una superficie mínima de 150.000 metros cuadrados, de los cuales al menos 25.000 deberán estar ocupados por naves y almacenes destinados a actividades relacionadas con el transporte y la logística, siempre que sean gestionadas por una autoridad única, pública, privada o mixta, que garantice el desarrollo y la permanencia en el tiempo de los servicios y actividades para los que la instalación fue concebida.
+
+> Se modifica por el art. único.90 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 187.
+
+Como categoría específica, tendrán la consideración de centros de transporte de mercancías especializados aquellos cuya actividad se desarrolle, principal o preferentemente, en relación con una determinada clase de mercancías o modalidad de transportes, tales como los dedicados al transporte de mercancías peligrosas, mercancías perecederas, cargas fraccionadas u otros.
+
+> Se modifica por el art. único.91 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+### CAPÍTULO VI — Centro de información y distribución de cargas
+
+##### Artículos 188 a 192.
+
+**(Suprimidos).**
+
+> Se suprimen por el art. único.17 del Real Decreto 919/2010, de 16 de julio. [Ref. BOE-A-2010-12534](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12534)
+
+## TÍTULO VI — Régimen sancionador y de control de los transportes por carretera y de las actividades auxiliares y complementarias de los mismos
+
+### CAPÍTULO I — Reglas generales sobre responsabilidad
+
+##### Artículo 193.
+
+La imputación de la responsabilidad administrativa por las infracciones de las normas reguladoras de los transportes por carretera y de sus actividades auxiliares y complementarias se realizará de conformidad con lo previsto en el artículo 138.1 de la LOTT.
+
+La responsabilidad de un determinado sujeto no excluirá la que legalmente corresponda a otro, aún en el supuesto de que aquélla se derive en ambos casos de lo dispuesto en un mismo apartado del artículo 138.1 de la LOTT.
+
+> Se modifica por el art. único.92 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 194.
+
+1\. La responsabilidad administrativa se exigirá a las personas físicas o jurídicas, a que se refiere el artículo 138.1 de la LOTT, independientemente de que las acciones u omisiones de que dicha responsabilidad derive hayan sido materialmente realizadas por ellas o por el personal de su Empresa, sin perjuicio de que puedan deducir las acciones que a su juicio resulten procedentes contra las personas a las que sean materialmente imputables las infracciones, y repercutir, en su caso, sobre las mismas dicha responsabilidad, de conformidad con lo establecido en el artículo 138 de la LOTT.
+
+2\. No se incurrirá en la responsabilidad prevista en este Reglamento cuando las acciones y omisiones se hayan producido como consecuencia de fuerza mayor, caso fortuito, o actuación determinante e insalvable de terceros, circunstancias cuya concurrencia, salvo que, sea apreciada de oficio, deberá ser probada por quien las alegue.
+
+##### Artículo 195.
+
+Si un mismo hecho infractor fuera susceptible de ser calificado con arreglo a dos o más supuestos de infracción, se impondrá únicamente la sanción que corresponda al más grave de los mismos.
+
+### CAPÍTULO II — Infracciones
+
+##### Artículo 196.
+
+Las infracciones de las normas reguladoras del transporte por carretera se clasifican en muy graves, graves y leves.
+
+##### Artículo 197.
+
+Se reputarán infracciones muy graves:
+
+1\. En aplicación de lo dispuesto en el artículo 140.1 de la LOTT, la realización de transportes públicos careciendo del título habilitante que, en su caso, resulte preceptivo para su prestación de conformidad con lo dispuesto en la LOTT y en las normas dictadas para su ejecución y desarrollo.
+
+En la aplicación de lo dispuesto en el párrafo anterior, habrá de considerarse que carecen de validez para amparar la realización de transporte los títulos habilitantes que se encuentren suspendidos en aplicación de lo que se establece en los artículos 52 de la LOTT o no hayan sido visados cuando así resulte exigible.
+
+Cuando la realización del transporte de que se trate requiriese disponer de más de un título habilitante, resultará constitutiva de esta infracción la carencia de cualquiera de ellos, aunque se disponga de los demás.
+
+No se apreciará la infracción contemplada en este punto cuando los hechos deban reputarse infracción leve de conformidad con lo dispuesto en el artículo 199.1.
+
+2\. En aplicación de lo dispuesto en los apartados 2 del grupo 10 y 2 del grupo 11 del anexo I del Reglamento (UE) 2016/403, la realización de un transporte internacional o de cabotaje sin llevar a bordo la correspondiente licencia comunitaria o una copia auténtica de esta, cuando no deba ser calificada conforme al apartado anterior.
+
+3\. En aplicación de lo dispuesto en el artículo 140.2 de la LOTT, la contratación como porteador o la facturación en nombre propio de servicios de transporte sin ser previamente titular de autorización de transporte o de operador de transporte de mercancías.
+
+En todo caso, incurrirán en esta infracción quienes, aun siendo integrantes de una persona jurídica titular de una autorización de transporte o de operador de transporte de mercancías, contraten o facturen en nombre propio la prestación de servicios de transporte a terceros o a la propia persona jurídica de la que formen parte sin ser ellos mismos, a su vez, titulares de tal autorización.
+
+No se apreciará la infracción tipificada en este punto cuando los hechos deban reputarse infracción leve de conformidad con lo dispuesto en el artículo 199.1.
+
+4\. En aplicación de lo dispuesto en el artículo 140.3 de la LOTT, el arrendamiento de un vehículo cuando vaya acompañado por la prestación de servicios de conducción o cualquier otra forma de cesión del uso de un vehículo cuyo titular preste servicios de conducción al cesionario.
+
+Incurrirán en esta infracción tanto el arrendador o cedente como el arrendatario o cesionario.
+
+No se producirá esta infracción cuando el arrendador o cedente sea titular de la autorización de transporte que en cada caso corresponda.
+
+5\. En aplicación de lo dispuesto en el artículo 140.4 de la LOTT, la cesión, expresa o tácita, de títulos habilitantes por parte de sus titulares a favor de otras personas.
+
+A tal efecto, habrá de considerarse que, en todo caso, incurrirán en esta infracción quienes permitan el uso, temporal o permanente, de un título habilitante expedido a su favor por otra persona física o jurídica.
+
+6\. En aplicación de lo dispuesto en el artículo 140.5 de la LOTT, la organización o establecimiento de un transporte regular de viajeros de uso general sin haber sido contratado por la Administración competente para gestionar un servicio público de esas características, con independencia de que los medios utilizados sean propios o ajenos.
+
+7\. En aplicación de lo dispuesto en el artículo 140.6 de la LOTT, la venta individualizada de las plazas de un transporte de viajeros, así como la prestación o venta de servicios integrados en una serie de expediciones que atiendan, de forma reiterada, tráficos preestablecidos, cuando no se posea otra habilitación que la autorización de transporte regulada en el artículo 42 de la LOTT.
+
+En esta misma infracción incurrirán quienes presten servicios turísticos incumpliendo las condiciones legalmente señaladas para ello.
+
+8\. En aplicación de lo dispuesto en el artículo 140.7 de la LOTT, la falsificación de alguno de los títulos que habiliten para el ejercicio de las actividades y profesiones reguladas en esta Ley y en las normas dictadas para su ejecución y desarrollo o de alguno de los datos que deban constar en aquellos.
+
+La responsabilidad por dicha infracción corresponderá tanto a las personas que hubiesen falsificado el título, o colaborado en su falsificación o comercialización a sabiendas del carácter ilícito de su actuación, como a las que lo hubiesen utilizado para encubrir la realización de transportes o actividades no autorizados.
+
+9\. En aplicación de lo dispuesto en el artículo 140.8 de la LOTT, el falseamiento de los documentos que hayan de ser aportados como requisito para la obtención de cualquier título, certificación o documento que haya de ser expedido por la Administración a favor del solicitante o de cualquiera de los datos que deban constar en aquellos.
+
+10\. En aplicación de lo dispuesto en el artículo 140.9 de la LOTT y en el apartado 10 del grupo 2 del anexo I del Reglamento (UE) 2016/403, el falseamiento de cualesquiera documentos contables, estadísticos o de control que la empresa se encuentre obligada a llevar o de los datos obrantes en los mismos.
+
+En todo caso, se considerará que las siguientes conductas constituyen supuestos de falseamiento:
+
+a) La utilización indebida de las hojas, tarjetas u otros elementos del tacógrafo destinada a modificar la información recogida por este o a anular o alterar el normal funcionamiento de los aparatos de control instalados en el vehículo.
+
+b) La falsificación, disimulación, eliminación o destrucción de los datos contenidos en las hojas de registro o almacenados y transferidos del tacógrafo o de la tarjeta de conductor.
+
+c) La presentación de documentos, de carácter público o privado, con objeto de justificar fraudulentamente la carencia de hojas de registro, tarjetas de conductor u otros elementos o medios de control que exista la obligación de llevar en el vehículo.
+
+11\. En aplicación de lo dispuesto en el artículo 140.10 de la LOTT y en los apartados 9 del grupo 2 y 4 del grupo 6 del anexo I del Reglamento (UE) 2016/403, la manipulación del tacógrafo, del limitador de velocidad o de alguno de sus elementos, así como la de otros instrumentos o medios de control que exista la obligación de llevar instalados en el vehículo, con objeto de alterar su funcionamiento o modificar sus mediciones.
+
+En esta misma infracción incurrirán quienes instalen cualquier clase de elementos mecánicos, electrónicos o de otra naturaleza con la misma finalidad, aunque no se encuentren en funcionamiento en el momento de realizarse la inspección.
+
+La responsabilidad por esta infracción corresponderá, en todo caso, al transportista que tenga instalado en su vehículo el aparato o instrumento manipulado y, asimismo, a aquellas personas que lo hubiesen manipulado o colaborado en su instalación o comercialización.
+
+12\. En aplicación de lo dispuesto en el artículo 140.11 de la LOTT, el falseamiento de las condiciones que determinaron que una empresa se beneficiase de la exención de responsabilidad contemplada en el artículo 138.4 de la LOTT.
+
+13\. En aplicación de lo dispuesto en el artículo 140.12 de la LOTT, la negativa u obstrucción a la actuación de los Servicios de Inspección del Transporte Terrestre o de las fuerzas encargadas de la vigilancia del transporte que imposibiliten total o parcialmente el ejercicio de las funciones que legal o reglamentariamente tengan atribuidas, así como la desatención total o parcial a sus instrucciones o requerimientos o el quebrantamiento de la orden de inmovilizar un vehículo.
+
+En todo caso, incurrirá en esta infracción toda empresa cuyos propietarios, empleados, auxiliares o dependientes nieguen o dificulten el acceso al personal de los servicios de inspección a los locales o vehículos en que obligatoriamente deba encontrarse depositada la documentación de la empresa o a dicha documentación.
+
+En los supuestos de requerimientos relativos al cumplimiento de la legislación sobre tiempos de conducción y descanso de los conductores, se considerará cometida una infracción distinta por cada vehículo o conductor del que no se aporte la documentación solicitada o se aporte de tal forma que imposibilite su control.
+
+En todo caso, se considerará que las siguientes conductas constituyen supuestos de obstrucción a la labor inspectora:
+
+a) La desobediencia a las órdenes, verbales o escritas, impartidas en el ejercicio de sus funciones por los Servicios de Inspección del Transporte Terrestre o por los agentes a quienes corresponden las labores de vigilancia y control del transporte y, en especial, el incumplimiento de las órdenes de traslado de los vehículos en los supuestos legalmente previstos.
+
+b) La negativa de una empresa o sus representantes a facilitar a los Servicios de Inspección del Transporte Terrestre o los agentes a quienes corresponden las labores de vigilancia y control del transporte información acerca del origen, destino, fecha, vehículo o conjunto de vehículos utilizados o cualquier otro dato relativo a un servicio de transporte que resulte relevante para la actuación inspectora en curso.
+
+c) La remisión a la Administración de información extraída del tacógrafo digital o de la tarjeta del conductor sin la correspondiente firma digital u otros elementos destinados a garantizar su autenticidad.
+
+14\. En aplicación de lo dispuesto en el artículo 140.13 de la LOTT, la realización de transporte interior en España con vehículos matriculados en el extranjero incumpliendo las condiciones que definen las operaciones de cabotaje de conformidad con lo dispuesto en la reglamentación de la Unión Europea por la que se establecen normas comunes de acceso al mercado del transporte internacional de mercancías por carretera o por la que se establecen normas comunes de acceso al mercado internacional de los servicios de autocares y autobuses, aunque quien los realice sea titular de licencia comunitaria.
+
+15\. En aplicación de lo dispuesto en el artículo 140.14 de la LOTT, la interrupción de los servicios señalados en el contrato de gestión de un servicio público de transporte regular de viajeros de uso general, sin que medie consentimiento de la Administración ni otra causa que lo justifique, en los términos señalados en el artículo 90.2 de este Reglamento.
+
+16\. En aplicación de lo dispuesto en el artículo 140.15 de la LOTT y en el grupo 9 del anexo I del Reglamento (UE) 2016/403, la realización de transportes, carga o descarga de mercancías peligrosas cuando concurra alguna de las siguientes circunstancias:
+
+16.1 En aplicación de lo dispuesto en el artículo 140.15.1 de la LOTT, no informar sobre la inmovilización del vehículo a causa de accidente o incidente grave, o no adoptar las medidas de seguridad y protección que correspondan en tales supuestos, excepto en aquellos casos en que ello hubiera resultado imposible.
+
+16.2 En aplicación de lo dispuesto en los apartados 2 y 18 del artículo 140.15 de la LOTT y el apartado 4 del grupo 9 del anexo I del Reglamento (UE) 2016/403, utilizar bultos, vehículos, contenedores o cualesquiera otros recipientes o depósitos que presenten fugas.
+
+16.3 En aplicación de lo dispuesto en el artículo 140.15.3 de la LOTT y en el apartado 6 del grupo 9 del anexo I del Reglamento (UE) 2016/403, carecer del certificado de aprobación del vehículo expedido por el organismo competente, donde se acredite que responde a las prescripciones reglamentariamente exigibles para el transporte al que va destinado, así como llevar dicho certificado caducado o llevar uno distinto al exigido para la mercancía transportada.
+
+16.4 En aplicación de lo dispuesto en el artículo 140.15.4 de la LOTT, transportar mercancías a granel cuando ello no esté autorizado por la regulación específica aplicable.
+
+16.5 En aplicación de lo dispuesto en el artículo 140.15.5 de la LOTT, utilizar vehículos, depósitos o contenedores que carezcan de paneles, placas o etiquetas de peligro o, en su caso, de cualquier otra señalización o marca exigible, así como llevarlos ilegibles.
+
+En todo caso, el transporte de mercancías peligrosas en bultos que carezcan de las etiquetas de peligro o de cualquier otra marca o identificación exigible se considerará un supuesto constitutivo de esta infracción.
+
+16.6 En aplicación de lo dispuesto en el artículo 140.15.6 de la LOTT y en el apartado 1 del grupo 9 del anexo I del Reglamento (UE) 2016/403, transportar mercancías por carretera cuando no esté permitido hacerlo.
+
+16.7 En aplicación de lo dispuesto en el artículo 140.15.7 de la LOTT y en el apartado 2 del grupo 9 del anexo I del Reglamento (UE) 2016/403, utilizar vehículos o depósitos distintos a los prescritos en las normas que regulen el transporte de las mercancías de que se trate o que carezcan de aprobación.
+
+En todo caso, las siguientes conductas se considerarán supuestos constitutivos de esta infracción:
+
+a) La utilización de cisternas, vehículos batería o contenedores de gas de elementos múltiples cuyo uso no esté permitido para el transporte de la mercancía peligrosa de que se trate.
+
+b) El transporte de mercancías peligrosas utilizando vehículos o depósitos que se encuentren gravemente deteriorados o carezcan de alguno de los requisitos técnicos exigidos para su homologación.
+
+c) El transporte y la carga de mercancías peligrosas, excepto las consideradas como alimenticias, utilizando cisternas que hayan contenido productos alimenticios, alimentos o alimentos para animales.
+
+d) El transporte y la carga de productos alimenticios, alimentos o alimentos para animales, excepto los considerados como peligrosos, en cisternas destinadas al transporte de mercancías peligrosas, aún en el caso de que no hayan llegado a contener esta clase de mercancías o de que se hubiesen limpiado después de contenerlas.
+
+16.8 En aplicación de lo dispuesto en el artículo 140.15.8 de la LOTT y el apartado 11 del grupo 9 del anexo I del Reglamento (UE) 2016/403, no llevar a bordo del vehículo una carta de porte que cubra todas las mercancías transportadas, o llevarla sin consignar cuáles sean estas.
+
+En todo caso, se considerará incluida en esta infracción la falta de información sobre las mercancías transportadas que impida determinar el nivel de gravedad de la infracción.
+
+16.9 En aplicación de lo dispuesto en el artículo 140.15.9 de la LOTT, transportar mercancías careciendo del permiso, autorización especial o autorización previa que, en su caso, sea necesario o incumpliendo las condiciones señaladas en ellos.
+
+16.10 En aplicación de lo dispuesto en el artículo 140.15.10 de la LOTT y en el apartado 14 del grupo 9 del anexo I del Reglamento (UE) 2016/403, incumplir la prohibición de fumar específicamente señalada en la legislación sobre transporte de mercancías peligrosas.
+
+16.11 En aplicación de lo dispuesto en el artículo 140.15.11 de la LOTT y el apartado 3 del grupo 9 del anexo I del Reglamento (UE) 2016/403, no identificar en el exterior del vehículo el transporte de mercancías peligrosas de que se trate.
+
+16.12 En aplicación de lo dispuesto en el artículo 140.15.12 de la LOTT y en el apartado 13 del grupo 9 del anexo I del Reglamento (UE) 2016/403, utilizar fuego o luces no protegidas, así como aparatos de alumbrado portátiles, con superficies capaces de producir chispas.
+
+16.13 En aplicación de lo dispuesto en el artículo 140.15.13 de la LOTT, consignar de forma inadecuada en la carta de porte la mercancía transportada.
+
+16.14 En aplicación de lo dispuesto en el artículo 140.15.14 de la LOTT y en el apartado 10 del grupo 9 del anexo I del Reglamento (UE) 2016/403, incumplir las normas sobre el grado de llenado o sobre la limitación de las cantidades a transportar por unidad de transporte.
+
+16.15 En aplicación de lo dispuesto en el artículo 140.15.15 de la LOTT, utilizar vehículos, depósitos o contenedores con paneles, placas, etiquetas de peligro o cualquier otra señalización o marca exigible no adecuados a la mercancía transportada.
+
+16.16 En aplicación de lo dispuesto en el artículo 140.15.16 de la LOTT, incumplir las normas de embalaje en común en un mismo bulto.
+
+16.17 En aplicación de lo dispuesto en el artículo 140.15.17 de la LOTT y los apartados 8 y 9 del grupo 9 del anexo I del Reglamento (UE) 2016/403, incumplir las prohibiciones de cargamento en común de bultos o las normas sobre sujeción o estiba de la carga.
+
+En todo caso, el transporte de mercancías peligrosas en bultos incumpliendo las normas sobre protección y segregación de la carga se considerará un supuesto constitutivo de la infracción contemplada en este punto.
+
+16.18 En aplicación de lo dispuesto en el artículo 140.15.18 de la LOTT, utilizar envases o embalajes no autorizados por las normas que resulten de aplicación para el transporte de la mercancía de que se trate.
+
+Se considerará incluido en esta infracción el uso de envases o embalajes no homologados o que se encuentren gravemente deteriorados o que carezcan de alguno de los requisitos técnicos exigidos.
+
+16.19 En aplicación de lo dispuesto en el artículo 140.15.19 de la LOTT, transportar, cargar o descargar mercancías peligrosas cuando las empresas involucradas en tales operaciones no tengan el preceptivo consejero de seguridad o tengan uno que no se encuentre habilitado para actuar como tal en relación con la materia o actividad de que se trate.
+
+16.20 En aplicación de lo dispuesto en el apartado 5 del grupo 9 del anexo I del Reglamento (UE) 2016/403, transportar mercancías a granel en un contenedor, vehículo o depósito que no sea estructuralmente adecuado.
+
+16.21 En aplicación de lo dispuesto en el apartado 7 del grupo 9 del anexo I del Reglamento (UE) 2016/403, transportar mercancías en un vehículo que haya dejado de cumplir las normas exigidas por la reglamentación que específicamente le resulte de aplicación creando un peligro inmediato.
+
+La responsabilidad por la comisión de las infracciones contempladas en este punto 16 corresponderá:
+
+a) Al transportista, por la infracción contemplada en los apartados 16.1 y 16.10.
+
+b) Al transportista y al cargador, por las infracciones contempladas en los apartados 16.2, 16.3, 16.4, 16.5, 16.11, 16.15, 16.20 y 16.21.
+
+c) Al transportista y al cargador o expedidor, según el caso, por las infracciones contempladas en los apartados 16.6, 16.7, 16.8, 16.9 y 16.17.
+
+d) Al transportista, al cargador y al descargador, por la infracción contemplada en el apartado 16.12.
+
+e) Al cargador o expedidor, según el caso, por las infracciones contempladas en los apartados 16.13, 16.14, 16.16 y 16.18.
+
+f) A la empresa obligada a tener consejero de seguridad, por la infracción contemplada en el apartado 16.19.
+
+A los efectos previstos en este punto y en los artículos 198.6 y 199.8, tendrá la consideración de expedidor la persona física o jurídica por cuya orden y cuenta se realiza el envío de la mercancía peligrosa y figura como tal en la carta de porte, con independencia de que sea ella misma o un tercero el destinatario de las mercancías así expedidas. Se considerará cargador o descargador la persona física o jurídica que efectúa o bajo cuya responsabilidad se realizan las operaciones de carga o descarga de la mercancía peligrosa.
+
+A los efectos previstos en este punto y en el artículo 198.6, se considerarán cisternas todos aquellos depósitos, incluidos sus equipos de servicio y de estructura, a los que el Acuerdo Europeo sobre Transporte Internacional de Mercancías Peligrosas por Carretera atribuye tal calificación.
+
+A los efectos previstos en este punto y en el artículo 198.6, se entenderá incluida en el concepto de carta de porte cualquier otra documentación de acompañamiento exigible por su normativa específica.
+
+A los efectos previstos en este punto y en el artículo 198.6, deberá considerarse que el concepto de envases y embalajes incluye los grandes recipientes para granel y los grandes embalajes según aparezca en su correspondiente instrucción de embalaje.
+
+17\. En aplicación de lo dispuesto en el artículo 140.16 de la LOTT, la realización de actividades de transporte público o la intermediación en su contratación, incumpliendo alguno de los requisitos exigidos para la obtención y mantenimiento de la autorización que, en su caso, resulte preceptiva, excepto en aquellos supuestos en que el requisito incumplido sea el señalado en el apartado f) del artículo 43.1 de la LOTT.
+
+En todo caso, se considerará que constituye un supuesto de incumplimiento de los requisitos exigidos para la obtención y mantenimiento de una autorización de transporte, a los efectos señalados en este punto, que la persona que ocupa el puesto de gestor de transporte en la empresa no desarrolle alguna de las funciones señaladas en el artículo 112.
+
+Idéntica consideración deberá atribuirse al supuesto en que la empresa titular de una autorización de transporte no disponga del número mínimo de vehículos o conductores, o de los locales, instalaciones o equipamiento técnico o administrativo que resulten obligatorios para su obtención y mantenimiento o que aquellos de los que dispone no reúnan las condiciones requeridas.
+
+Asimismo, incurrirán en esta infracción quienes no comuniquen al Registro de Empresas y Actividades de Transporte el cambio de su domicilio o de la ubicación de sus centros de explotación o de los locales de que deban disponer a efectos del cumplimiento del requisito de establecimiento o quienes no dispongan en dichos locales de los documentos que estén obligados a conservar a disposición de la Administración en los términos señalados en el artículo 110.1.
+
+18\. En aplicación de lo dispuesto en el artículo 140.17 de la LOTT, la contratación de servicios de transporte por parte de transportistas, agencias de transporte, transitarios, almacenistas-distribuidores, operadores logísticos o cualquier otro profesional del transporte con transportistas u operadores de transporte de mercancías no autorizados.
+
+En todo caso, incurrirá en esta infracción la persona jurídica profesionalmente dedicada al transporte que contrate a alguna de las personas que la integran para que realice un servicio de transporte, o abone las facturas que estas le expidan por tal concepto, cuando dichas personas no sean, a su vez, titulares de una autorización de transporte o de operador de transporte de mercancías.
+
+19\. En aplicación de lo dispuesto en el artículo 140.18 de la LOTT y en el apartado 1 del grupo 7 del anexo I del Reglamento (UE) 2016/403, la realización de transportes públicos o privados utilizando conductores que carezcan del certificado de aptitud profesional o de la tarjeta de cualificación (CAP) en vigor.
+
+20\. En aplicación de lo dispuesto en el artículo 140.19 de la LOTT, el incumplimiento de la obligación de suscribir el seguro exigido en el artículo 21.1 de la LOTT o tenerlo suscrito con una cobertura insuficiente.
+
+21\. En aplicación de lo dispuesto en el artículo 140.20 de la LOTT y en los apartados 1 del grupo 2 y 1 del grupo 6 del anexo I del Reglamento (UE) 2016/403, la carencia del tacógrafo, del limitador de velocidad o de alguno de sus elementos, así como la de otros instrumentos o medios de control que exista la obligación de llevar instalados en el vehículo.
+
+En esta misma infracción incurrirán quienes llevando instalado el tacógrafo no lo utilicen o lleven instalado un tacógrafo no homologado.
+
+22\. En aplicación de lo dispuesto en el apartado 2 del grupo 6 del anexo I del Reglamento (UE) 2016/403, llevar instalado en el vehículo un dispositivo limitador de velocidad que no sea conforme a las prescripciones técnicas aplicables.
+
+23\. En aplicación de lo dispuesto en el artículo 140.21 de la LOTT y en los apartados 11 y 12 del grupo 2 del anexo I del Reglamento (UE) 2016/403, la carencia significativa de hojas de registro o de datos registrados en el tacógrafo o en las tarjetas de los conductores que exista obligación de conservar en la sede de la empresa.
+
+Se considerará incluida en esta infracción la conservación de registros sin cumplir la estructura de campo o la extensión del fichero reglamentariamente establecidas.
+
+A los efectos previstos en este punto, se considerará que la carencia de hojas de registro o de datos registrados en el tacógrafo es significativa cuando resulte acreditado que falta el reflejo de más de un treinta por ciento de los kilómetros realizados por un vehículo o por un conductor durante el período requerido. A dicha circunstancia se equiparará el hecho de que la documentación aportada no permita, por causa imputable a la empresa, determinar el número total de kilómetros realizados durante dicho período.
+
+24\. En aplicación de lo dispuesto en el artículo 140.22 de la LOTT y en los apartados 4, 5 y 6 del grupo 2 del anexo I del Reglamento (UE) 2016/403, no llevar insertada en el tacógrafo la tarjeta de conductor o la hoja de registro de los tiempos de conducción y descanso cuando ello resulte exigible, utilizar una tarjeta de la que el conductor no sea titular o una tarjeta falsificada o que se hubiera obtenido sobre la base de declaraciones falsas o documentos falsificados.
+
+25\. En aplicación de lo dispuesto en el apartado 3 del grupo 2 del anexo I del Reglamento (UE) 2016/403, la posesión o utilización por un conductor de más de una tarjeta de conductor a su nombre.
+
+26\. En aplicación de lo dispuesto en el artículo 140.23 de la LOTT, el exceso igual o superior al 20 por ciento en los vehículos N3 e igual o superior al 25 por ciento en los vehículos N2 y N1 sobre la masa máxima total que tenga autorizada el vehículo de que se trate.
+
+Cuando el vehículo se encuentra amparado por una autorización especial que le permita circular con una masa superior a la que, de otro modo le correspondería, el señalado porcentaje deberá referirse a la masa máxima señalada en dicha autorización especial.
+
+La responsabilidad por esta infracción corresponderá tanto al transportista como al cargador, al expedidor y al intermediario que hubiesen intervenido en el transporte o su contratación, salvo que alguno de ellos pruebe que no le resulta imputable.
+
+En los transportes de paquetería y mudanzas no se exigirá responsabilidad por esta infracción al cargador ni al expedidor, salvo que se pruebe que su actuación resultó determinante de aquel.
+
+27\. En aplicación de lo dispuesto en el artículo 140.23 de la LOTT, el exceso igual o superior al 50 por ciento en los vehículos N2 y N1 e igual o superior al 40 por ciento en los vehículos N3 sobre la masa máxima por eje que tenga autorizada el vehículo de que se trate.
+
+Cuando el vehículo se encuentra amparado por una autorización especial que le permita circular con una masa por eje superior a la que, de otro modo le correspondería, el señalado porcentaje deberá referirse a la masa máxima por eje señalada en dicha autorización especial.
+
+La responsabilidad por esta infracción corresponderá a quien hubiera realizado la estiba de la mercancía a bordo del vehículo o bajo cuyas instrucciones se hubiera realizado esta.
+
+En los transportes de paquetería y mudanzas no se exigirá responsabilidad por esta infracción al cargador ni al expedidor, salvo que se pruebe que su actuación resultó determinante de aquel.
+
+28\. En aplicación de lo dispuesto en el artículo 140.24 de la LOTT y en el apartado 16 del grupo 2 del anexo I del Reglamento (UE) 2016/403, la utilización en el tacógrafo de hojas de registro o tarjetas de conductor que se encuentren manchadas o estropeadas de tal manera que impidan la lectura de los datos registrados.
+
+29\. En aplicación de lo dispuesto en el artículo 140.25 de la LOTT y en los apartados 13, 14 y 15 del grupo 2 del anexo I del Reglamento (UE) 2016/403, la utilización incorrecta de las hojas de registro o la tarjeta del conductor, la retirada no autorizada de dichas hojas o tarjeta cuando ello incida en el registro de datos, así como la utilización de una misma hoja de registro o de la tarjeta de conductor durante un período de tiempo superior al que corresponda, cuando ello dé lugar a una pérdida de datos o a una superposición de registros que impida su lectura.
+
+30\. En aplicación de lo dispuesto en el artículo 140.26 de la LOTT y en el apartado 19 del grupo 2 del anexo I del Reglamento (UE) 2016/403, el uso incorrecto del selector de actividades del tacógrafo.
+
+31\. En aplicación de lo dispuesto en los apartados 17 y 26 del grupo 2 del anexo I del Reglamento (UE) 2016/403, el incumplimiento de la obligación de efectuar registros manuales por el conductor.
+
+Asimismo queda incluida en esta infracción la falta de consignación por el conductor de toda la información no registrada durante los períodos de avería o funcionamiento defectuoso del tacógrafo, cuando sea obligatorio hacerlo.
+
+32\. En aplicación de lo dispuesto en el artículo 140.27 de la LOTT, la prestación de servicios públicos de transporte regular de viajeros de uso general cuando se dé alguna de las siguientes circunstancias:
+
+32.1 La falta de explotación del servicio por el propio contratista de la Administración, salvo los supuestos de colaboración expresamente permitidos.
+
+32.2 El incumplimiento de los tráficos o del número mínimo de expediciones establecidos en el contrato de gestión del servicio público de que se trate, cuando no deba calificarse conforme a lo señalado en el punto 15 de este artículo.
+
+32.3 Denegar la venta de billetes o el acceso al vehículo a quienes los hubieran adquirido, salvo que se den circunstancias legal o reglamentariamente establecidas que lo justifiquen.
+
+Asimismo, se incurrirá en esta infracción si se impide a ciertas categorías de usuarios, o a quienes pretendan acceder al servicio en determinadas localidades o zonas geográficas, adquirir o reservar billetes por cualquiera de los procedimientos utilizados por la empresa con carácter general, o reciben un trato discriminatorio respecto al resto de los usuarios en relación con dicha adquisición o reserva.
+
+32.4 La realización del servicio transbordando injustificadamente a los usuarios durante el viaje.
+
+32.5 El incumplimiento del régimen tarifario previsto en el contrato de gestión del servicio público de que se trate.
+
+32.6 El incumplimiento de las condiciones de accesibilidad a los vehículos establecidas con carácter general para todos los servicios públicos de transporte regular de viajeros de uso general o especialmente señalados en el pliego de condiciones o el contrato del servicio de que se trate.
+
+Asimismo, incurrirá en esta infracción la empresa contratista del servicio cuyo personal impida o dificulte su utilización a personas con discapacidad, incluso si no existe obligación de que los vehículos se encuentren adaptados para ello, siempre que, en este último supuesto, dichas personas aporten los medios que les resulten precisos para acceder y abandonar el vehículo e instalarse en una plaza ordinaria.
+
+33\. En aplicación de lo dispuesto en el artículo 140.28 de la LOTT, la realización de transportes regulares de viajeros de uso especial incumpliendo cualquiera de las condiciones señaladas en la correspondiente autorización con el carácter de esenciales, cuando dicho incumplimiento no se encuentre expresamente tipificado de otra manera.
+
+34\. En aplicación de lo dispuesto en el artículo 140.29 de la LOTT, en los transportes de uso especial de escolares y de menores, la ausencia de una persona mayor de edad idónea, distinta del conductor, que conozca el funcionamiento de los mecanismos de seguridad del vehículo, encargada del cuidado de los menores, cuando ello resulte obligatorio.
+
+35\. En aplicación de lo dispuesto en el artículo 140.30 de la LOTT, en los transportes de uso especial de escolares y de menores, la falta de plaza o asiento para cada menor así como la inexistencia de plazas cercanas a las puertas de servicio que sean necesarias para personas de movilidad reducida.
+
+36\. En aplicación de lo dispuesto en el artículo 140.31 de la LOTT, la contratación de servicios de transporte terrestre de mercancías por parte de transportistas, agencias de transporte, transitarios, almacenistas distribuidores, operadores logísticos o cualquier otro profesional del transporte incumpliendo la obligación de hacerlo en nombre propio, así como la contratación de servicios públicos de transporte regular de viajeros de uso general en concepto de porteador por quien no se encuentre habilitado para ello.
+
+37\. En aplicación de lo dispuesto en el artículo 140.32 de la LOTT, la realización de transportes de mercancías o discrecionales de viajeros incumpliendo las condiciones establecidas en el artículo 54 de la LOTT.
+
+En idéntica infracción incurrirán las empresas o personas que actúen como colaboradores incumpliendo las obligaciones que les afecten.
+
+En todo caso incurrirán en esta infracción los titulares de autorizaciones de transporte público de mercancías y las cooperativas de transportistas y sociedades de comercialización que intermedien en la contratación de transportes incumpliendo las condiciones establecidas en el artículo 159.1 de este reglamento.
+
+38\. En aplicación de lo dispuesto en el artículo 140.33 de la LOTT y en el apartado 8 del grupo 2 del anexo I del Reglamento (UE) 2016/403, el inadecuado funcionamiento imputable al transportista del tacógrafo, del limitador de velocidad o de alguno de sus elementos, así como el de otros instrumentos o medios de control que exista la obligación de llevar instalados en el vehículo, cuando no deba calificarse conforme a lo señalado en el punto 11 de este artículo.
+
+39\. En aplicación de lo dispuesto en el artículo 140.34 de la LOTT y en los apartados 2, 7 y 25 del grupo 2 del anexo I del Reglamento (UE) 2016/403, la utilización del tacógrafo sin haber realizado su calibrado o revisión periódica en los plazos y forma establecidos, habiendo sido inspeccionado o reparado en un taller no autorizado o careciendo de los precintos o placas preceptivos, salvo que deba calificarse según lo dispuesto en el apartado 21.
+
+40\. En aplicación de lo dispuesto en el artículo 140.35 de la LOTT y en los apartados 21, 22, 23 y 24 del grupo 2 del anexo I del Reglamento (UE) 2016/403, la carencia a bordo del vehículo de las hojas de registro de los tiempos de conducción y descanso ya utilizadas o de los documentos de impresión que resulte obligatorio llevar, con independencia del tipo de tacógrafo, analógico o digital, que se esté utilizando.
+
+En la misma infracción se incurrirá cuando no se lleve a bordo del vehículo la tarjeta del conductor, aunque se esté utilizando un tacógrafo analógico, cuando resulte necesaria para apreciar las condiciones de conducción durante el período anterior exigible.
+
+41\. En aplicación de lo dispuesto en el artículo 140.36 de la LOTT, el incumplimiento por un centro de alguna de las condiciones que le fueron exigidas para obtener la autorización habilitante para impartir cursos preceptivos para la obtención o mantenimiento de alguna de las cualificaciones reguladas por las normas de ordenación del transporte.
+
+42\. En aplicación de lo dispuesto en el artículo 140.37 de la LOTT, el incumplimiento de la legislación aplicable en materia de tiempos de conducción y descanso de los conductores en los siguientes supuestos:
+
+42.1 En aplicación de lo dispuesto en el artículo 140.37.1 de la LOTT y en los apartados 4 y 7 del grupo 1 del anexo I del Reglamento (UE) 2016/403, el exceso igual o superior al 50 por ciento en los tiempos máximos de conducción diaria sin hacer una pausa o descanso de cuatro horas y media como mínimo.
+
+42.2 En aplicación de lo dispuesto en el artículo 140.37.2 de la LOTT y en los apartados 10 y 13 del grupo 1 del anexo I del Reglamento (UE) 2016/403, el exceso igual o superior al 25 por ciento en los tiempos máximos de conducción semanal o bisemanal.
+
+42.3 En aplicación de lo dispuesto en el artículo 140.37.3 de la LOTT y en los apartados 3 y 6 del grupo 1 del anexo I del Reglamento (UE) 2016/403, el exceso igual o superior a dos horas en los tiempos máximos de conducción diaria, salvo que deba calificarse conforme a lo dispuesto en el apartado 42.1.
+
+42.4 En aplicación de lo dispuesto en el artículo 140.37.4 de la LOTT y en el apartado 15 del grupo 1 del anexo I del Reglamento (UE) 2016/403, la conducción durante seis o más horas sin respetar las pausas reglamentariamente exigidas.
+
+42.5 En aplicación de lo dispuesto en el artículo 140.37.5 de la LOTT y en los apartados 17, 19, 21 y 23 del grupo 1 del anexo I del Reglamento (UE) 2016/403, la disminución del descanso diario normal en más de dos horas y media o del reducido o fraccionado en más de dos horas, incluso cuando se realice conducción en equipo.
+
+42.6 En aplicación de lo dispuesto en el artículo 140.37.6 de la LOTT y en los apartados 25 y 27 del grupo 1 del anexo I del Reglamento (UE) 2016/403, la disminución del descanso semanal normal en más de nueve horas o del reducido en más de cuatro.
+
+No se computarán como descanso los períodos en que no se hayan cumplido todas las condiciones señaladas al efecto en la reglamentación comunitaria sobre tiempos de conducción y descanso.
+
+42.7 En aplicación de lo dispuesto en los apartados 9 y 12 del grupo 1 del anexo I del Reglamento (UE) 2016/403, la conducción de sesenta y cinco o más horas, sin superar las setenta, en los tiempos máximos de conducción semanal o la conducción de ciento cinco o más horas, sin superar las ciento doce y media, en los tiempos máximos de conducción bisemanal.
+
+42.8 En aplicación de lo dispuesto en el apartado 28 del grupo 1 del anexo I del Reglamento (UE) 2016/403, iniciar el descanso semanal superando seis períodos consecutivos de veinticuatro horas después de un período de descanso semanal anterior, cuando el exceso sea igual o superior a doce horas.
+
+42.9 En aplicación de lo dispuesto en el apartado 29 del grupo 1 del anexo I del Reglamento (UE) 2016/403, en un único transporte internacional discrecional de viajeros, iniciar el descanso semanal superando doce períodos consecutivos de veinticuatro horas después del período de descanso semanal anterior, cuando el exceso sea igual o superior a doce horas.
+
+42.10 En aplicación de lo dispuesto en el apartado 30 del grupo 1 del anexo I del Reglamento (UE) 2016/403, en un único transporte internacional discrecional de viajeros, la realización de doce períodos consecutivos de veinticuatro horas sin llevar a cabo un descanso semanal de al menos sesenta y cinco horas.
+
+42.11 En aplicación de lo dispuesto en el apartado 31 del grupo 1 del anexo I del Reglamento (UE) 2016/403, en un único transporte internacional discrecional de viajeros, la realización de un período de conducción igual o superior a cuatro horas y media, entre las 22 y las 6 horas, si el vehículo no cuenta con varios conductores.
+
+43\. En aplicación de lo dispuesto en el artículo 140.38 de la LOTT, el transporte de objetos o encargos distintos de los equipajes de los viajeros al amparo de una autorización de transporte público de viajeros, incumpliendo las condiciones que resulten exigibles de conformidad con las normas internas o internacionales que resulten de aplicación.
+
+44\. En aplicación de lo dispuesto en los apartados 2 y 5 del grupo 4 del anexo I del Reglamento (UE) 2016/403, el exceso igual o superior al 10 por ciento e inferior al 20 por ciento en los vehículos N3 e igual o superior al 15 e inferior al 25 por ciento en los vehículos N2 sobre la masa máxima total que tenga autorizada el vehículo de que se trate.
+
+A efectos de responsabilidad, serán de aplicación idénticas reglas a las establecidas en el apartado 26.
+
+45\. En aplicación de lo dispuesto en el apartado 3 del grupo 10 del anexo I del Reglamento (UE) 2016/403, la realización de transportes públicos o privados utilizando para la conducción del vehículo los servicios de una persona que, debiendo estar en posesión del certificado de conductor de tercer país, carezca de este o incumpla alguna de las condiciones que dieron lugar a su expedición.
+
+46\. En aplicación de lo dispuesto en el apartado 3 del grupo 11 del anexo I del Reglamento (UE) 2016/403, la realización de servicios regulares internacionales de viajeros careciendo de la autorización preceptiva.
+
+Se considerará, en todo caso, incluida en esta infracción la utilización de una autorización caducada, anulada, suspendida o falsificada, así como la utilización de una autorización no referida al servicio que se está prestando.
+
+> Se modifica el primer párrafo del apartado 16.7 y los apartados 19 y 26 por la disposición final 1.3 a 5 del Real Decreto 284/2021, de 20 de abril. [Ref. BOE-A-2021-6624](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6624)
+
+> Se modifica por el art. 2.114 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.93 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+##### Artículo 198.
+
+Se reputarán infracciones graves:
+
+1\. En aplicación de lo dispuesto en el artículo 141.1 de la LOTT, el incumplimiento de la obligación de devolver a la Administración una autorización o licencia de transporte, alguna de sus copias o cualquier otra documentación cuando, por haber sido revocada o por cualquier otra causa legal o reglamentariamente establecida, debiera haber sido devuelta, siempre que el documento de que se trate conserve apariencia de validez.
+
+2\. En aplicación de lo dispuesto en los apartados 1 y 4 del grupo 4 del anexo I del Reglamento (UE) 2016/403, el exceso igual o superior al 5 e inferior al 10 por ciento en los vehículos N3 e igual o superior al 5 e inferior al 15 por ciento en los vehículos N2 sobre la masa máxima total que tenga autorizada el vehículo de que se trate.
+
+A efectos de responsabilidad, serán de aplicación idénticas reglas a las establecidas en el artículo 197.26.
+
+3\. En aplicación de lo dispuesto en el artículo 141.2 de la LOTT, el exceso igual o superior al 15 e inferior al 25 por ciento en los vehículos N1 sobre la masa máxima total que tenga autorizada el vehículo de que se trate y el exceso igual o superior al 30 e inferior al 50 por ciento en los vehículos N2 y N1 e igual o superior al 25 e inferior al 40 por ciento en los vehículos N3 sobre la masa máxima por eje que tenga autorizada el vehículo de que se trate.
+
+A efectos de responsabilidad, serán de aplicación idénticas reglas a las establecidas en el artículo 197.27.
+
+4\. En aplicación de lo dispuesto en el artículo 141.3 de la LOTT, no pasar la revisión periódica de algún instrumento o medio de control que exista la obligación de llevar instalado en el vehículo, en los plazos y forma establecidos, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en el artículo 197.39.
+
+5\. En aplicación de lo dispuesto en el artículo 141.4 de la LOTT, la obstrucción que dificulte gravemente la actuación de los Servicios de Inspección del Transporte Terrestre o de las fuerzas encargadas de la vigilancia del transporte cuando no concurra alguno de los supuestos que, conforme a lo señalado en el artículo 197.13, implicarían que se reputase infracción muy grave.
+
+En los supuestos de requerimientos relativos al cumplimiento de la legislación sobre tiempos de conducción y descanso de los conductores se considerará cometida una infracción distinta por cada vehículo o conductor del que se aporte la documentación solicitada en tiempo y forma distinta a la requerida.
+
+6\. En aplicación de lo dispuesto en el artículo 141.5 de la LOTT y en el grupo 9 del anexo I del Reglamento (UE) 2016/403, la realización de transportes, carga o descarga de mercancías peligrosas cuando concurra alguna de las siguientes circunstancias:
+
+6.1 En aplicación de lo dispuesto en el artículo 141.5.1 de la LOTT y en el apartado 24 del grupo 9 del anexo I del Reglamento (UE) 2016/403, no llevar a bordo las instrucciones escritas que resulten exigibles.
+
+6.2 En aplicación de lo dispuesto en el artículo 141.5.2 de la LOTT y en el apartado 19 del grupo 9 del anexo I del Reglamento (UE) 2016/403, incumplir lo dispuesto en las normas de aplicación o en las correspondientes instrucciones escritas acerca del equipamiento del vehículo o de los miembros de la tripulación.
+
+6.3 En aplicación de lo dispuesto en el artículo 141.5.3 de la LOTT y en el apartado 18 del grupo 9 del anexo I del Reglamento (UE) 2016/403, carecer de los extintores o cualesquiera otros medios de extinción de incendios que resulten obligatorios en función del vehículo o la carga transportada, o disponer de unos cuya correcta utilización no esté garantizada.
+
+A tal efecto, se considerará que no se encuentra garantizada la correcta utilización de un extintor cuando no esté adecuadamente precintado, no haya sido objeto de las inspecciones reglamentarias, no lleve una marca de conformidad con una norma reconocida por la autoridad competente o no cumpla cualquier otro requisito prescrito por el Acuerdo Europeo sobre Transporte Internacional de Mercancías Peligrosas por Carretera.
+
+6.4 En aplicación de lo dispuesto en el artículo 141.5.4 de la LOTT, transportar viajeros en unidades que transporten mercancías peligrosas fuera de los supuestos en que las normas reguladoras de esta clase de transportes lo permitan.
+
+6.5 En aplicación de lo dispuesto en el artículo 141.5.5 de la LOTT, transportar mercancías peligrosas en vehículos de viajeros en cantidades no permitidas.
+
+6.6 En aplicación de lo dispuesto en el artículo 141.5.6 de la LOTT y en el apartado 22 del grupo 9 del anexo I del Reglamento (UE) 2016/403, utilizar bultos o cisternas en el transporte que no estén correctamente cerrados, incluso cuando estas últimas se encuentren vacías si no han sido previamente limpiadas.
+
+6.7 En aplicación de lo dispuesto en el artículo 141.5.7 de la LOTT y en el apartado 21 del grupo 9 del anexo I del Reglamento (UE) 2016/403, transportar bultos de mercancía en un contenedor que no sea estructuralmente adecuado.
+
+6.8 En aplicación de lo dispuesto en el artículo 141.5.8 de la LOTT, carecer del certificado de limpieza de la cisterna en los casos que sea necesario.
+
+6.9 En aplicación de lo dispuesto en el artículo 141.5.9 de la LOTT, incumplir las disposiciones sobre fechas de ensayo, inspección y plazos de utilización de envases y embalajes o recipientes.
+
+6.10 En aplicación de lo dispuesto en el artículo 141.5.10 de la LOTT y en el apartado 20 del grupo 9 del anexo I del Reglamento (UE) 2016/403, transportar bultos utilizando envases o embalajes, grandes recipientes para granel y grandes embalajes deteriorados o transportar envases o embalajes vacíos, sucios o deteriorados, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en el artículo 197.16.18.
+
+6.11 En aplicación de lo dispuesto en el artículo 141.5.11 de la LOTT, no consignar en la carta de porte alguno de los datos que deben figurar en ella o hacerlo inadecuadamente, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en los apartados 8 y 13 del artículo 197.16.
+
+6.12 En aplicación de lo dispuesto en el apartado 23 del grupo 9 del anexo I del Reglamento (UE) 2016/403, utilizar etiquetas, marcas o rótulos incorrectos en el vehículo o el contenedor, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en el artículo 197.16.15.
+
+6.13 En aplicación de lo dispuesto en el artículo 141.5.12 de la LOTT, etiquetar o marcar inadecuadamente los bultos.
+
+6.14 En aplicación de lo dispuesto en el artículo 141.5.13 de la LOTT, incumplir la obligación de conectar a tierra los vehículos cisterna durante las maniobras de carga o descarga, cuando resulte exigible.
+
+6.15 En aplicación de lo dispuesto en el artículo 141.5.14 de la LOTT, no realizar en las plantas cargadoras o descargadoras las comprobaciones que sean obligatorias antes, durante o después de la carga.
+
+6.16 En aplicación de lo dispuesto en el artículo 141.5.15 de la LOTT, incumplir los consejeros de seguridad las obligaciones que les atribuye su normativa específica.
+
+6.17 En aplicación de lo dispuesto en el artículo 141.5.16 de la LOTT, incumplir la obligación de remitir a las autoridades competentes el informe anual y los partes de accidentes.
+
+6.18 En aplicación de lo dispuesto en el artículo 141.5.17 de la LOTT, incumplir la obligación de conservar los informes anuales durante el plazo legalmente establecido.
+
+6.19 En aplicación de lo dispuesto en el artículo 141.5.18 de la LOTT, no proporcionar a los trabajadores que intervienen en el manejo de mercancías peligrosas la formación adecuada para prevenir riesgos ocasionales.
+
+6.20 En aplicación de lo dispuesto en el apartado 17 del grupo 9 del anexo I del Reglamento (UE) 2016/403, transportar mercancías en un vehículo que haya dejado de cumplir las normas de homologación cuando no cree un peligro inmediato.
+
+La responsabilidad por la comisión de las infracciones contempladas en este punto corresponderá:
+
+a) Al transportista por las infracciones contempladas en los apartados 6.1, 6.2, 6.3, 6.4 y 6.5.
+
+b) Al transportista y al cargador por las infracciones contempladas en los apartados 6.6, 6.7, 6.10, 6.12 y 6.20.
+
+c) Al transportista y al cargador o descargador, según el caso, por la infracción contemplada en el apartado 6.8.
+
+d) Al cargador por la infracción contemplada en el apartado 6.9.
+
+e) Al cargador o expedidor, según el caso, por las infracciones contempladas en los apartados 6.11 y 6.13.
+
+f) Al cargador o descargador por las infracciones contempladas en los apartados 6.14 y 6.15.
+
+g) A la empresa obligada a tener consejero de seguridad por la infracción contemplada en los apartados 6.16, 6.17 y 6.18.
+
+h) A la empresa de quien dependan los trabajadores por la infracción contemplada en el apartado 6.19.
+
+7\. En aplicación de lo dispuesto en el artículo 141.6 de la LOTT y en el apartado 5 del grupo 11 del anexo I del Reglamento (UE) 2016/403, la utilización de títulos habilitantes en condiciones distintas a las establecidas con carácter general o señaladas específicamente en el propio título, salvo que el incumplimiento de dichas condiciones ya estuviera tipificado de forma expresa en esta ley.
+
+En todo caso, se considerará incluida en esta infracción la realización de paradas en el curso de un transporte regular internacional de viajeros que no se correspondan con las señaladas en la autorización en que se ampara.
+
+8\. En aplicación de lo dispuesto en el artículo 141.7 de la LOTT, la oferta de servicios de transporte sin disponer del título habilitante exigible para realizarlos o para intermediar en su contratación o llevar a cabo esa intermediación incumpliendo las condiciones legal o reglamentariamente exigidas para ello, tanto si se realiza de forma individual a un único destinatario o se hace pública para conocimiento general a través de cualquier medio.
+
+9\. En aplicación de lo dispuesto en el artículo 141.8 de la LOTT, el arrendamiento de vehículos con conductor fuera de las oficinas o locales que reglamentariamente se determinen, así como la búsqueda o recogida de clientes que no hayan sido contratados previamente.
+
+En esta misma infracción incurrirán aquellos arrendadores de vehículos con conductor que incumplan las limitaciones que definen la prestación habitual del servicio en el territorio en que se encuentre domiciliada la autorización en que se amparan.
+
+10\. En aplicación de lo dispuesto en el artículo 141.9 de la LOTT y en el apartado 4 del grupo 10 del anexo I del Reglamento (UE) 2016/403, la realización de transportes públicos o privados sin llevar a bordo el certificado de conductor de tercer país o una copia auténtica válida del mismo, cuando este resulte preceptivo, cuando no deba ser calificada de conformidad con el artículo 197.45.
+
+11\. En aplicación de lo dispuesto en el apartado 4 del grupo 11 del anexo I del Reglamento (UE) 2016/403, la realización de servicios regulares internacionales de pasajeros sin llevar a bordo la correspondiente autorización, existiendo esta, cuando esta resulte preceptiva, cuando no deba ser calificada de conformidad con el artículo 197.46.
+
+12\. En aplicación de lo dispuesto en el apartado 2 del grupo 7 del anexo I del Reglamento (UE) 2016/403, la realización de transportes públicos o privados sin que el conductor del vehículo lleve consigo su tarjeta de cualificación CAP o, en su caso, el permiso de conducción con la marca de acuerdo con la legislación nacional de su país de residencia cuando no deba ser calificada de conformidad con lo dispuesto en el artículo 197.19.
+
+13\. En aplicación de lo dispuesto en el artículo 141.10 de la LOTT, la prestación de un servicio público de transporte regular de viajeros de uso general incumpliendo alguna de las condiciones u obligaciones impuestas al contratista en el correspondiente contrato de gestión, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en los puntos 15 ó 32 del artículo 197.
+
+Asimismo, incurrirá en esta infracción el contratista del servicio que incumpla la obligación de transporte gratuito del equipaje de los viajeros en los supuestos y hasta el límite en que ello resulte obligatorio.
+
+14\. En aplicación de lo dispuesto en el artículo 141.11 de la LOTT, la utilización de hojas de registro de los tiempos de conducción y descanso no homologadas o que resulten incompatibles con el tacógrafo utilizado.
+
+15\. En aplicación de lo dispuesto en el artículo 141.12 de la LOTT, la falta de consignación de datos en una hoja de registro o documento de impresión de los tiempos de conducción y descanso, cuando las normas de la Unión Europea reguladoras de la materia le atribuyan la consideración de infracción grave.
+
+16\. En aplicación de lo dispuesto en el artículo 141.13 de la LOTT, la carencia no significativa de hojas de registro, de documentos de impresión o de datos registrados en el tacógrafo o en las tarjetas de los conductores que exista obligación de conservar en la sede de la empresa a disposición de la Administración.
+
+17\. En aplicación de lo dispuesto en el apartado 3 del grupo 6 del anexo I del Reglamento (UE) 2016/403, utilizar un dispositivo de limitación de velocidad instalado por un taller no autorizado.
+
+18\. En aplicación de lo dispuesto en el artículo 141.14 de la LOTT, la realización de transportes privados careciendo de la autorización, certificación o licencia que, en su caso, resulte preceptiva para ello de conformidad con las normas reguladoras del transporte terrestre.
+
+No se apreciará la infracción prevista en este punto cuando los hechos deban reputarse infracción leve de conformidad con lo dispuesto en el artículo 199.1.
+
+19\. En aplicación de lo dispuesto en el artículo 141.15 de la LOTT, la venta de billetes para servicios no autorizados de transporte de viajeros, salvo que deba reputarse infracción muy grave, de conformidad con los puntos 6 ó 7 del artículo 197.
+
+Asimismo, incurrirán en esta infracción los titulares de industrias o servicios que, aun siendo ajenos al transporte, permitan que tales billetes se vendan en los locales o establecimientos en que desarrollan su actividad.
+
+20\. En aplicación de lo dispuesto en el artículo 141.16 de la LOTT, la realización de transportes públicos interurbanos de viajeros en vehículos de turismo cuando se de alguna de las siguientes circunstancias:
+
+20.1 Haberse iniciado el servicio en un término municipal no autorizado.
+
+20.2 Incumplimiento del régimen tarifario que resulte de aplicación.
+
+21\. En aplicación de lo dispuesto en el artículo 141.17 de la LOTT y en el apartado 6 del grupo 11 del anexo I del Reglamento (UE) 2016/403, la carencia, falta de diligenciado o falta de datos esenciales de la documentación de control, estadística o contable cuya cumplimentación resulte obligatoria.
+
+Asimismo, serán constitutivas de dicha infracción la ocultación o falta de conservación de dicha documentación, así como su falta de comunicación a la Administración o la demora injustificada en dicha comunicación, incumpliendo lo que al efecto se determine reglamentariamente.
+
+En idéntica infracción incurrirán aquellas empresas que carezcan del documento en que preceptivamente hayan de formularse las reclamaciones de los usuarios, que nieguen u obstaculicen su uso o que oculten su contenido o retrasen injustificadamente su comunicación a los Servicios de Inspección del Transporte Terrestre que en cada caso resulten competentes.
+
+No se apreciará la infracción contemplada en este punto cuando los hechos comprobados deban reputarse infracción muy grave de conformidad con lo dispuesto en los puntos 13, 23, 24 o 40 del artículo 197 o calificarse conforme a lo señalado en los puntos 10 o 13 de este artículo.
+
+22\. En aplicación de lo dispuesto en el artículo 141.18 de la LOTT, la salida de los vehículos dedicados al arrendamiento con conductor del lugar en que habitualmente se encuentren guardados o estacionados sin llevar a bordo la documentación exigible o llevándola incorrectamente cumplimentada.
+
+23\. En aplicación de lo dispuesto en el artículo 141.19 de la LOTT, la desatención por el destinatario de un transporte de mercancías del requerimiento que le formule una Junta Arbitral del Transporte para que ponga a su disposición las mercancías que hubiese recibido, cuando corresponda que sean depositadas en ejecución de lo dispuesto en el artículo 38.3 de la LOTT.
+
+24\. En aplicación de lo dispuesto en el artículo 141.20 de la LOTT, la impartición de cursos que resulten preceptivos para la obtención o mantenimiento de alguna de las cualificaciones reguladas por las normas de ordenación del transporte, cuando se de alguna de las siguientes circunstancias:
+
+24.1 Que los profesores no reúnan las condiciones de titulación o formación específica exigidas para impartir la materia de que se trate.
+
+24.2 Que el curso impartido no se ajuste al modelo previamente homologado.
+
+24.3 Que el curso impartido no se ajuste a las características del que fue comunicado al órgano administrativo competente.
+
+24.4 Que no se haya puesto en conocimiento del órgano administrativo competente, por los medios y en el plazo previstos para ello, que el profesor o la materia impartida no coinciden con los que hubiesen sido inicialmente comunicados.
+
+24.5 Que no se haya puesto en conocimiento del órgano administrativo competente, por los medios y en el plazo previstos para ello, la falta de asistencia injustificada de un cincuenta por ciento o más de los alumnos inscritos en el curso.
+
+25\. En aplicación de lo dispuesto en el artículo 141.21 de la LOTT, la realización de transportes de productos alimenticios o mercancías perecederas utilizando un vehículo que carezca del certificado de conformidad para el transporte de mercancías perecederas o tenerlo caducado o falseado.
+
+La responsabilidad por la comisión de esta infracción corresponderá tanto al transportista como al expedidor.
+
+26\. En aplicación de lo dispuesto en el artículo 141.22 de la LOTT, la contratación de servicios de transporte por parte de cargadores o usuarios habituales con transportistas u operadores de transporte de mercancías no autorizados, cuando no deba reputarse muy grave de conformidad con lo dispuesto en el artículo 197.18.
+
+27\. En aplicación de lo dispuesto en el artículo 141.23 de la LOTT, la prestación de servicios de transporte de viajeros con vehículos que incumplan las prescripciones técnicas sobre accesibilidad de personas con movilidad reducida que, en cada caso, les resulten de aplicación, salvo que deba reputarse infracción muy grave de conformidad con lo dispuesto en el artículo 197.32.6.
+
+28\. En aplicación de lo dispuesto en el artículo 141.24 de la LOTT, el incumplimiento de la legislación aplicable en materia de tiempos de conducción y descanso de los conductores en los siguientes supuestos, salvo que deba reputarse infracción muy grave de conformidad con lo establecido en el artículo 197.42:
+
+28.1 En aplicación de lo dispuesto en el artículo 141.24.1 de la LOTT y en los apartados 8 y 11 del grupo 1 del anexo I del Reglamento (UE) 2016/403, el exceso igual o superior a sesenta horas, sin superar sesenta y cinco, en el tiempo máximo de conducción semanal, o el exceso igual o superior a cien horas, sin superar ciento cinco, en el tiempo máximo de conducción bisemanal.
+
+28.2 En aplicación de lo dispuesto en el artículo 141.24.2 de la LOTT y en los apartados 2 y 5 del grupo 1 del anexo I del Reglamento (UE) 2016/403, el exceso igual o superior a una hora e inferior a dos horas en los tiempos máximos de conducción diaria.
+
+28.3 En aplicación de lo dispuesto en el artículo 141.24.3 de la LOTT y en el apartado 14 del grupo 1 del anexo I del Reglamento (UE) 2016/403, la conducción durante cinco o más horas, sin alcanzar las seis, sin respetar las pausas reglamentariamente establecidas.
+
+28.4 En aplicación de lo dispuesto en el artículo 141.24.4 de la LOTT y en los apartados 16, 18, 20 y 22 del grupo 1 del anexo I del Reglamento (UE) 2016/403, la disminución del descanso diario normal en más de una hora y media o del reducido o fraccionado en más de una hora, incluso cuando se realice conducción en equipo, salvo que deba calificarse conforme a lo dispuesto en el artículo 197.42.5.
+
+28.5 En aplicación de lo dispuesto en el artículo 141.24.5 de la LOTT y en los apartados 24 y 26 del grupo 1 del anexo I del Reglamento (UE) 2016/403, la disminución del descanso semanal normal en más de tres horas o del reducido en más de dos.
+
+No se computarán como descanso los períodos en que no se hayan cumplido todas las condiciones señaladas al efecto en la reglamentación comunitaria sobre tiempos de conducción y descanso.
+
+28.6 En aplicación de lo dispuesto en el apartado 28 del grupo 1 del anexo I del Reglamento (UE) 2016/403, iniciar el descanso semanal superando seis períodos consecutivos de veinticuatro horas después del período de descanso semanal anterior, cuando el exceso sea igual o superior a tres horas e inferior a doce.
+
+28.7 En aplicación de lo dispuesto en el apartado 29 del grupo 1 del anexo I del Reglamento (UE) 2016/403, en un único transporte internacional discrecional de viajeros, iniciar el descanso semanal superando doce períodos consecutivos de veinticuatro horas después del período de descanso semanal anterior, cuando el exceso sea superior a tres horas, pero no a doce.
+
+28.8 En aplicación de lo dispuesto en el apartado 30 del grupo 1 del anexo I del Reglamento (UE) 2016/403, en un único transporte internacional discrecional de viajeros, realizar doce períodos consecutivos de veinticuatro horas llevando a cabo un descanso semanal igual o inferior a sesenta y siete, aunque no a sesenta y cinco, horas continuadas.
+
+28.9 En aplicación de lo dispuesto en el apartado 31 del grupo 1 del anexo I del Reglamento (UE) 2016/403, en un único transporte internacional discrecional de viajeros, la realización de un período de conducción superior a tres e inferior a cuatro horas y media, entre las 22 y las 6 horas, si el vehículo no cuenta con varios conductores.
+
+29\. En aplicación de lo dispuesto en el apartado 18 del grupo 2 del anexo I del Reglamento (UE) 2016/403, en los supuestos de conducción en equipo, utilizar la hoja de registro incorrecta o introducir la tarjeta de conductor en la ranura incorrecta.
+
+30\. Cualquiera de las infracciones previstas en el artículo anterior, cuando por su naturaleza, ocasión o circunstancia no deba ser calificada como muy grave, debiendo justificarse la existencia de dichas circunstancias y motivarse la resolución correspondiente.
+
+> Se modifica el apartado 2 por la disposición final 1.6 del Real Decreto 284/2021, de 20 de abril. [Ref. BOE-A-2021-6624](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6624)
+
+> Se modifica por el art. 2.115 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.94 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+##### Artículo 199.
+
+Se reputarán infracciones leves:
+
+1\. En aplicación de lo dispuesto en el artículo 142.1 de la LOTT, la realización de transportes públicos o privados, así como la contratación como porteador o la facturación en nombre propio de servicios de transporte, careciendo de la autorización o licencia que, en su caso, resulte preceptiva, siempre que se acredite que en el momento de realizarlos o contratarlos, se cumplían todos los requisitos exigidos para su obtención y que esta se ha solicitado dentro de los 15 días siguientes a la notificación del inicio del expediente sancionador.
+
+2\. En aplicación de lo dispuesto en el artículo 142.2 de la LOTT el exceso superior al 2,5 e inferior al 5 por ciento sobre la masa máxima total en los vehículos N3 y superior al 5 por ciento e inferior al 15 por ciento para los vehículos N1.
+
+A efectos de responsabilidad, serán de aplicación idénticas reglas a las establecidas en el artículo 197.26.
+
+3\. En aplicación de lo dispuesto en el artículo 142.2 de la LOTT, el exceso igual o superior al 20 e inferior al 30 por ciento en los vehículos N2 y N1 e igual o superior al 15 e inferior al 25 por ciento en los vehículos N3 sobre la masa máxima por eje que tenga autorizada el vehículo de que se trate.
+
+4\. En aplicación de lo dispuesto en el artículo 142.3 de la LOTT, la utilización de hojas de registro de los tiempos de conducción y descanso manchadas o estropeadas cuando, no obstante, los datos registrados resulten legibles; la utilización de hojas durante un período mayor a aquel para el que esté previsto, cuando no haya supuesto la pérdida de datos, y la retirada no autorizada de tales hojas cuando ello no afecte a los datos registrados.
+
+Se considerará asimismo incluida en esta infracción la falta o insuficiencia de papel en el que deben imprimirse las actividades de los conductores registradas por el tacógrafo digital, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en el artículo 197.24.
+
+5\. En aplicación de lo dispuesto en el artículo 142.4 de la LOTT, la falta de consignación de datos en una hoja de registro o documento de impresión de los tiempos de conducción y descanso, cuando las normas de la Unión Europea reguladoras de la materia le atribuyan la consideración de infracción leve.
+
+6\. En aplicación de lo dispuesto en el artículo 142.5 de la LOTT, la inexistencia de algún rótulo o aviso cuya exhibición para conocimiento público resulte obligatoria.
+
+7\. En aplicación de lo dispuesto en el artículo 142.6 de la LOTT, el incumplimiento en los transportes interurbanos de viajeros contratados por plaza con pago individual de la obligación de expedir los correspondientes títulos de transporte a los usuarios o de las normas establecidas para su despacho o devolución, o expedirlos incumpliendo cualquier otra condición exigible.
+
+8\. En aplicación de lo dispuesto en el artículo 142.7 de la LOTT, la realización de transporte de mercancías peligrosas cuando concurra alguna de las siguientes circunstancias:
+
+8.1 No llevar a bordo los documentos relativos al vehículo que resulten obligatorios, poseyéndolos, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en el artículo 197.16.3.
+
+8.2 Utilizar paneles, placas, etiquetas, marcas, letras, figuras o símbolos cuyo tamaño no se ajuste al exigido.
+
+8.3 No llevar a bordo del vehículo un documento de identificación con fotografía para cada miembro de la tripulación, cuando sea exigible.
+
+8.4 No llevar correctamente sujetas las placas, paneles o etiquetas de peligro.
+
+8.5 Utilizar documentos de transporte o acompañamiento en los que no se haya hecho constar toda la información obligatoria, cuando no deba reputarse infracción grave o muy grave de conformidad con lo dispuesto en el artículo 198.6.11 y en los apartados 8 ó 13 del artículo 197.16.
+
+8.6 No incluir en los informes anuales o en los partes de accidentes alguno de los datos exigibles por la normativa vigente.
+
+8.7 No comunicar a los órganos competentes la identidad de los consejeros de seguridad con que cuente la empresa y sus áreas de responsabilidad.
+
+8.8 No conservar los informes anuales durante el plazo reglamentariamente establecido, siempre que hubieran sido remitidos a los órganos competentes.
+
+8.9 Remitir a las autoridades competentes el informe anual o los partes de accidente fuera de los plazos reglamentariamente establecidos.
+
+La responsabilidad por la comisión de las infracciones contempladas en este punto corresponderá:
+
+a) Al transportista por las infracciones contempladas en los apartados 8.1, 8.2, 8.3 y 8.4.
+
+b) Al cargador o expedidor, según el caso, por la infracción contemplada en el apartado 8.5.
+
+c) A la empresa obligada a tener consejero de seguridad por las infracciones contempladas en los apartados 8.6, 8.7, 8.8 y 8.9.
+
+9\. En aplicación de lo dispuesto en el artículo 142.8 de la LOTT, la realización de transportes públicos o privados sin llevar a bordo del vehículo la documentación formal que acredite la posibilidad legal de prestarlos o que resulte exigible para la determinación de la clase de transporte que se está realizando, salvo que dicha infracción deba ser calificada como muy grave o grave conforme a lo dispuesto en los apartados 1 y 2 del artículo 197 y en el artículo 198.18.
+
+Se considerará incluido asimismo en esta infracción el incumplimiento de la obligación de que dicha documentación se encuentre en lugar visible desde el exterior del vehículo, en los casos en los que así se exija expresamente en las disposiciones reguladoras de la modalidad de transporte de que se trate.
+
+10\. En aplicación de lo dispuesto en el artículo 142.9 de la LOTT, el arrendamiento de vehículos sin conductor incumpliendo las condiciones que reglamentariamente se determinen, salvo que deba reputarse infracción muy grave de conformidad con lo dispuesto en los apartados 4 ó 37 del artículo 197.
+
+11\. En aplicación de lo dispuesto en el artículo 142.10 de la LOTT, la realización de transportes regulares de viajeros de uso especial incumpliendo alguno de los requisitos establecidos en la correspondiente autorización sin atribuirle carácter esencial.
+
+12\. En aplicación de lo dispuesto en el artículo 142.11 de la LOTT, el trato desconsiderado de palabra u obra con los usuarios por parte del personal de la empresa en el transporte de viajeros.
+
+13\. En aplicación de lo dispuesto en el artículo 142.12 de la LOTT, en el transporte escolar y de menores, el incumplimiento por la entidad contratante de su obligación de exigir al transportista los documentos o justificantes que resulte preceptivo con arreglo a las normas que regulan la seguridad en dichos transportes.
+
+14\. En aplicación de lo dispuesto en el artículo 142.13 de la LOTT, en el transporte de viajeros, la carencia de cambio de moneda metálica o billetes hasta la cantidad que, en su caso, se encuentre reglamentariamente determinada.
+
+15\. En aplicación de lo dispuesto en el artículo 142.14 de la LOTT, el incumplimiento por los usuarios de los transportes de viajeros de las siguientes prohibiciones:
+
+15.1 Impedir o forzar la apertura o cierre de las puertas de acceso a los vehículos.
+
+15.2 Manipular los mecanismos de apertura o cierre de las puertas de acceso al vehículo o de cualquiera de sus compartimentos previstos para su accionamiento exclusivo por el personal de la empresa transportista.
+
+15.3 Hacer uso sin causa justificada de cualquiera de los mecanismos de seguridad o socorro instalados en el vehículo para casos de emergencia.
+
+15.4 Abandonar el vehículo o acceder a este fuera de las paradas en su caso establecidas al efecto, salvo causa justificada.
+
+15.5 Realizar, sin causa justificada, cualquier acto susceptible de distraer la atención del conductor o entorpecer su labor cuando el vehículo se encuentre en marcha.
+
+15.6 Viajar en lugares distintos a los habilitados para los usuarios.
+
+15.7 Viajar careciendo de un título de transporte suficiente para amparar la utilización del servicio de que se trate.
+
+15.8 Toda acción injustificada que pueda implicar deterioro o causar suciedad en los vehículos o estaciones de transporte.
+
+16\. En aplicación de lo dispuesto en el artículo 142.15 de la LOTT, la impartición de cursos que resulten preceptivos para la obtención o mantenimiento de alguna de las cualificaciones reguladas por las normas de ordenación del transporte, sin haber puesto en conocimiento del órgano administrativo competente, por los medios y en el plazo previstos para ello, la falta de asistencia injustificada de un veinticinco por ciento o más de los alumnos inscritos en el curso, salvo que deba reputarse infracción grave de conformidad con lo dispuesto en el artículo 198.24.
+
+17\. En aplicación de lo dispuesto en el artículo 142.16 de la LOTT, la realización de transporte de mercancías perecederas sin llevar en el vehículo las marcas de identificación e indicaciones reglamentarias o llevándolas en lugares distintos a los establecidos.
+
+La responsabilidad por la comisión de las infracciones contempladas en este punto corresponderá al transportista o, en su caso, al titular del vehículo.
+
+18\. En aplicación de lo dispuesto en el artículo 142.17 de la LOTT, todo exceso en los tiempos máximos de conducción, así como la disminución de los períodos de descanso, salvo que deba reputarse infracción grave o muy grave de conformidad con lo dispuesto en los artículos 198.28 o 197.42.
+
+19\. En aplicación de lo dispuesto en el artículo 142.18 de la LOTT, la falta de comunicación de cualquier dato o circunstancia que deba figurar en el Registro de Empresas y Actividades de Transportes o que exista obligación por otra causa de poner en conocimiento de la Administración, cuando no deba ser calificada de conformidad con lo dispuesto en los artículos 197.17, 198.24 o 199.16.
+
+20\. Cualquiera de las infracciones previstas en el artículo anterior, cuando, por su naturaleza, ocasión o circunstancias, no deba ser calificada como grave, debiendo justificarse la existencia de dichas circunstancias y motivarse la resolución correspondiente.
+
+> Se modifica el apartado 2 por la disposición final 1.7 del Real Decreto 284/2021, de 20 de abril. [Ref. BOE-A-2021-6624](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6624)
+
+> Se modifica por el art. 2.116 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.95 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+##### Artículo 200.
+
+1\. Tendrán la consideración de infracciones independientes las que se cometan en relación con distintas expediciones de transporte, aun cuando los hechos infrinjan los mismos o semejantes preceptos.
+
+No obstante, tratándose de servicios públicos de transporte regular de viajeros de uso general, cuando el incumplimiento de que se trate guarde relación directa con la actividad administrativa desarrollada en las oficinas de la empresa o con el vehículo utilizado y resulte acreditado que no podría haber sido corregido hasta el regreso de este a la sede empresarial de la que inicialmente partió, dicho incumplimiento se considerará constitutivo de una sola infracción, aunque se hubiera mantenido durante las distintas expediciones parciales realizadas entre tanto.
+
+2\. Sin perjuicio de lo dispuesto en el apartado anterior, en aquellas expediciones en que la tripulación del vehículo esté formada por más de un conductor, los posibles incumplimientos en materia de tiempos de conducción y descanso de los conductores cometidos por cada uno de ellos constituirán infracciones independientes.
+
+> Se modifica por el art. 2.117 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.96 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1830/1999, de 3 de diciembre. [Ref. BOE-A-1999-24068](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24068)
+
+### CAPÍTULO III — Sanciones
+
+##### Artículo 201.
+
+En ejecución de lo que se dispone en el artículo 143.1 de la LOTT y en el Reglamento (UE) 2016/403, las sanciones por las infracciones reseñadas en los artículos anteriores se graduarán dentro de las horquillas siguientes:
+
+a) Se sancionarán con multa de 100 a 200 euros las infracciones señaladas en los puntos 14, 15, 16, 17, 18, 19 y 20 del artículo 199.
+
+b) Se sancionarán con multa de 201 a 300 euros las infracciones señaladas en los puntos 9, 10, 11, 12 y 13 del artículo 199.
+
+c) Se sancionarán con multa de 301 a 400 euros las infracciones señaladas en los puntos 1, 2, 3, 4, 5, 6, 7 y 8 del artículo 199.
+
+d) Se sancionarán con multa de 401 a 600 euros las infracciones señaladas en los puntos 21, 22, 23, 24, 25, 26, 27, 28.1, 28.2, 28.3, 28.4, 28.5, 28.7, 28.8, 28.9 y 29 del artículo 198.
+
+e) Se sancionarán con multa de 601 a 800 euros las infracciones señaladas en los puntos 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 y 20 del artículo 198.
+
+f) Se sancionarán con multa de 801 a 1.000 euros las infracciones señaladas en los puntos 1, 2, 3, 4, 5, 6, 7, 8 y 28.6 del artículo 198.
+
+g) Se sancionará con multa de 1.001 a 2.000 euros las infracciones señaladas en los puntos 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42.3, 42.4, 42.5, 42.6, 42.7, 42.9, 42.10, 42.11, 43, 44 y 46 del artículo 197.
+
+h) Se sancionará con multa de 2.001 a 4.000 euros las infracciones señaladas en los puntos 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 42.8 y 45 del artículo 197.
+
+i) Se sancionarán con multa de 4.001 a 6.000 euros las infracciones señaladas en los puntos 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 42.1 y 42.2 del artículo 197.
+
+j) Se sancionarán con multa de 6.001 a 18.000 euros las infracciones reseñadas en el apartado i) cuando el responsable de las mismas ya hubiera sido sancionado, mediante resolución que ponga fin a la vía administrativa, por la comisión de cualquier otra infracción muy grave de las señaladas en esta Ley en los 12 meses anteriores.
+
+k) Cuando fuera de aplicación lo previsto en el artículo 198.30 la cuantía de la sanción que en su caso corresponda imponer estará comprendida dentro de los límites establecidos en los apartados d), e) y f). Cuando fuera de aplicación lo previsto en el 199.20, la cuantía de la sanción estará comprendida dentro de los límites establecidos en los apartados a), b) y c).
+
+> Se modifica por el art. 2.118 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.97 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+##### Artículo 202.
+
+En ejecución de lo que se dispone en el artículo 143.4 de la LOTT y atendiendo a los criterios señalados por el Reglamento (UE) 2016/403 en relación con la gravedad de diversas infracciones, deberá ordenarse la inmediata inmovilización del vehículo hasta que se supriman los motivos determinantes de la infracción, en los siguientes supuestos:
+
+a) Cuando sean detectadas durante su comisión en carretera infracciones que deban ser denunciadas de acuerdo con lo previsto en los puntos 1, 2, 11, 13, 16.6, 16.7, 16.11, 16.18, 21, 24, 26, 27, 42.1, 42.2 o 44 del artículo 197 o en los puntos 2 o 3 del artículo 198.
+
+b) Cuando se detecte durante su comisión en carretera el incumplimiento de los tiempos de conducción diaria o de los períodos obligatorios de pausa o descanso diario, salvo que la infracción deba reputarse leve y la distancia que todavía deba recorrer el vehículo para alcanzar su destino no sea superior a 30 kilómetros.
+
+c) Cuando sean detectadas en carretera conductas infractoras en las que concurran circunstancias que puedan entrañar peligro para la seguridad, aun cuando no concurra ninguno de los supuestos señalados anteriormente.
+
+A los efectos previstos en este artículo, los miembros de los Servicios de Inspección del Transporte Terrestre o los agentes de las fuerzas encargadas de la vigilancia del transporte actuantes habrán de retener la documentación del vehículo y, en su caso, la de la mercancía, hasta que se subsanen las causas que dieron lugar a la inmovilización, siendo, en todo caso, responsabilidad del transportista la custodia del vehículo, su carga y pertenencias.
+
+Cuando la inmovilización del vehículo pueda entrañar un peligro para la seguridad, el transportista vendrá obligado a trasladar el vehículo hasta el lugar que designe la autoridad actuante. En caso de no hacerlo, tal medida podrá ser adoptada por aquella. Los gastos que pudieran originar las operaciones anteriormente señaladas serán, en todo caso, por cuenta del transportista, quien deberá abonarlos como requisito previo a la recuperación del vehículo.
+
+La autoridad actuante únicamente podrá optar por no inmovilizar el vehículo en los supuestos anteriormente indicados, cuando concurran circunstancias bajo las que esa medida entrañaría un mayor peligro para la seguridad, las cuales deberán quedar documentadas expresamente en su denuncia.
+
+Cuando el transportista no subsane los hechos que dieron lugar a la inmovilización del vehículo en el plazo de 15 días, el órgano competente para iniciar el expediente sancionador podrá ordenar su traslado desde el lugar en que inicialmente se hubiese inmovilizado a otro en el que quedará depositado hasta la subsanación de los referidos hechos. Los gastos que puedan ocasionarse por el traslado y depósito del vehículo serán por cuenta del titular de la autorización a cuyo amparo se estuviese realizando transporte o, en su defecto, del titular del vehículo, el cual deberá abonarlos o garantizar su pago como requisito previo a la recuperación del vehículo.
+
+En los supuestos de inmovilización de vehículos que transporten viajeros, y a fin de que estos sufran la menor perturbación posible, será responsabilidad del transportista cuyo vehículo haya sido inmovilizado buscar los medios alternativos necesarios para hacer llegar a los viajeros a su destino. De no hacerlo, dichos medios podrán ser establecidos por la Administración. Los gastos que genere la adopción de tales medidas, serán en todo caso, de cuenta del transportista. Si se negara a satisfacerlos, quedará inmovilizado el vehículo hasta que aquellos fueran satisfechos, aunque hubieran desaparecido las causas de la infracción.
+
+> Se modifica por el art. 2.119 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.98 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+### CAPÍTULO IV — Procedimiento sancionador
+
+> Se modifica por el art. 1.1 del Real Decreto 1772/1994, de 5 de agosto. [Ref. BOE-A-1994-19268](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19268)
+
+##### Artículo 203.
+
+No se impondrá sanción alguna por las infracciones relacionadas en los artículos 197, 198 y 199 sino en virtud de procedimiento instruido conforme a las normas contenidas en este Reglamento, y en lo no previsto por estas, a las establecidas en la legislación general sobre procedimiento administrativo común y régimen jurídico del sector público que resulten de aplicación a los procedimientos sancionadores.
+
+> Se modifica por el art. 2.120 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.99 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. 1.1 del Real Decreto 1772/1994, de 5 de agosto. [Ref. BOE-A-1994-19268](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19268)
+
+##### Artículo 204.
+
+La competencia para resolver los procedimientos sancionadores previstos en el presente título corresponderá, según los casos, a las comunidades autónomas a las que les esté atribuida de conformidad con lo previsto en la normativa vigente en relación con los transportes terrestres, a los Subdelegados del Gobierno de la provincia en que se haya cometido la infracción cuando derive de una inspección o control en frontera de transportes internacionales o a los órganos centrales de la Administración del Estado a los que le esté expresamente conferida.
+
+Cuando la competencia corresponda a las comunidades autónomas, la incoación, instrucción y resolución se realizarán por los órganos que determine su normativa aplicable.
+
+En los supuestos en que la competencia para resolver los procedimientos sancionadores esté atribuida a los Subdelegados del Gobierno, la incoación e instrucción corresponderá a los órganos que integran las áreas funcionales del Ministerio de Fomento.
+
+Lo dispuesto en los párrafos anteriores se entenderá sin perjuicio de la competencia de la Dirección General de Transportes por Carretera para tramitar y resolver los procedimientos incoados por los servicios directamente dependientes de la misma imponiendo las sanciones que, en su caso, correspondan. En este supuesto, será competente para resolver los procedimientos sancionadores el Director General. La incoación e instrucción de los procedimientos corresponderá a los órganos y unidades que integran la Subdirección General de Inspección de los Transportes por Carretera.
+
+> Se modifica por el art. único.100 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. 1.1 del Real Decreto 1772/1994, de 5 de agosto. [Ref. BOE-A-1994-19268](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19268)
+
+##### Artículo 205.
+
+El procedimiento para la imposición de las sanciones previstas en este reglamento se iniciará de oficio por acuerdo del órgano competente, bien por propia iniciativa o ya sea como consecuencia de orden superior, de actas o informes suscritos por los servicios de inspección, de la petición razonada de otros órganos o por denuncia.
+
+El plazo máximo en que deberá notificarse la resolución del procedimiento sancionador será de un año, contado desde la fecha de iniciación del procedimiento. En el supuesto de no haberse notificado la resolución del procedimiento en dicho plazo, se producirá la caducidad del mismo, debiendo dictarse, en todo caso, resolución expresa de caducidad del expediente.
+
+> Se modifica por el art. único.101 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. 1.1 del Real Decreto 1772/1994, de 5 de agosto. [Ref. BOE-A-1994-19268](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19268)
+
+##### Artículo 206.
+
+Las denuncias de particulares, instituciones o asociaciones habrán de formularse por escrito al órgano competente.
+
+Dichas denuncias no vincularán al órgano competente acerca de la posible incoación de un procedimiento sancionador, si bien deberá comunicar al denunciante su decisión al respecto.
+
+> Se modifica por el art. único.102 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. 1.1 del Real Decreto 1772/1994, de 5 de agosto. [Ref. BOE-A-1994-19268](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19268)
+
+##### Artículo 207.
+
+1\. En toda denuncia formulada por las Fuerzas y Cuerpos de Seguridad encargados de la vigilancia del transporte terrestre, así como en las actas o informes suscritos por los Servicios de Inspección habrá de consignarse una sucinta exposición de los hechos; la matrícula del vehículo que, en su caso, hubiese intervenido en aquellos; la identidad de la persona o personas presuntamente responsables de la infracción y en su caso del título habilitante a cuyo amparo se realizó la actividad objeto de la denuncia, acta o informe; la identidad, condición y destino del denunciante, que podrá realizarse a través de su número de registro personal, así como aquellas otras circunstancias y datos que contribuyan a determinar el tipo de infracción.
+
+2\. En las denuncias formuladas por particulares deberán constar además de los datos señalados en el apartado anterior, el nombre y apellidos, domicilio, número de documento nacional de identidad, o del documento equivalente en el caso de extranjeros.
+
+Cuando se trate de denuncias formuladas en nombre de sociedades, asociaciones o instituciones, los datos indicados en el párrafo anterior se referirán al representante de las mismas que suscriba el escrito, debiendo hacer constar también el nombre de la persona jurídica representada, así como su domicilio y el código de identificación fiscal o de otro Registro en que legalmente deban estar inscritas.
+
+> Se modifica el apartado 1 por el art. 2.121 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.103 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. 1.1 del Real Decreto 1772/1994, de 5 de agosto. [Ref. BOE-A-1994-19268](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19268)
+
+##### Artículo 208.
+
+Cuando en las actas o informes de los Servicios de Inspección o en las denuncias formuladas se observe la existencia de hechos que pudiesen ser constitutivos de infracción de la normativa reguladora de otros sectores, especialmente en lo referente al ámbito laboral, fiscal y de seguridad vial, se pondrán en conocimiento de los órganos competentes en función de la materia de que se trate.
+
+Si una vez iniciada por éstos la tramitación, se desprende de sus actuaciones la indebida calificación o la existencia de una infracción de distinta naturaleza, deberán devolver el expediente al órgano competente en materia de transporte para que continúe la instrucción del expediente.
+
+> Se modifica por el art. único.104 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. 1.1 del Real Decreto 1772/1994, de 5 de agosto. [Ref. BOE-A-1994-19268](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19268)
+
+##### Artículo 209.
+
+Con anterioridad a la iniciación del procedimiento sancionador, el órgano administrativo competente para su instrucción llevará a cabo de oficio cuantas actuaciones resulten adecuadas para la determinación, conocimiento y comprobación de los hechos en virtud de los cuales haya de dictarse la resolución, pudiendo, en su caso, acordar el archivo de las actuaciones cuando de éstas no se derivara responsabilidad.
+
+A tal fin, y con objeto de establecer la posible existencia de alguno de los supuestos de reincidencia o habitualidad en la conducta infractora contemplados en este capítulo, deberán consultarse, en todo caso, los antecedentes obrantes en el Registro General de Transportistas y de Empresas de Actividades Auxiliares y Complementarias del Transporte.
+
+> Se modifica por el art. único.105 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. 1.1 del Real Decreto 1772/1994, de 5 de agosto. [Ref. BOE-A-1994-19268](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19268)
+
+##### Artículo 210.
+
+1\. Recibida la información del Registro de Empresas y Actividades de Transporte, el instructor designado al efecto formalizará el correspondiente acuerdo de iniciación, que se notificará al denunciado y en el que hará constar la identificación del presunto responsable, los hechos que se le imputan, con expresión del precepto infringido, del precepto sancionador aplicable y de la sanción que, en su caso, habría de serle impuesta; la identidad del propio instructor del procedimiento, con expresión del régimen de recusación, y de la del órgano competente para resolver el procedimiento sancionador y la norma que le atribuye tal competencia, advirtiendo la posibilidad de hacer efectiva la sanción de forma anticipada, plazo para ello, porcentaje de reducción y cuantía a ingresar de conformidad con lo previsto en el artículo 146.3 de la LOTT; medidas de carácter provisional que, en su caso, se hayan acordado por el órgano competente para iniciar el procedimiento sancionador, sin perjuicio de las que se puedan adoptar durante el mismo; indicándole que dispone de un plazo de quince días para manifestar lo que a su derecho convenga, aportando o proponiendo las pruebas de que, en su caso, intente valerse, con la advertencia de que en caso de que no se efectúen alegaciones en el plazo previsto, el acuerdo de iniciación podrá considerarse propuesta de resolución.
+
+Como regla general, la notificación al denunciado y las alegaciones que este formule en su caso se llevarán a cabo por medios electrónicos, de conformidad con lo dispuesto en el artículo 51.
+
+No obstante, cuando por las razones que fuere resultase necesario notificar al presunto infractor por otros medios, se considerará que su domicilio es el que figura en el Registro de Empresas y Actividades de Transporte, cuando se trate del titular de alguna de las autorizaciones o habilitaciones reguladas en la legislación de transporte, y el que figure en el registro o registros en que legalmente deban estar inscritas, cuando se trate de otro tipo de empresas.
+
+2\. En aquellos casos en que la infracción que da lugar al expediente sancionador pudiera conllevar, por sí misma o por acumulación con otras, la pérdida de honorabilidad de la empresa y de su gestor de transporte, el acuerdo de iniciación deberá hacerlo constar así.
+
+En este supuesto, el acuerdo de iniciación habrá de notificarse también al gestor de transporte de la empresa, con indicación de que dispone de un plazo de quince días para formular alegaciones.
+
+3\. En ejecución de lo que se dispone en el artículo 146.3 de la LOTT, en todos aquellos supuestos en que el interesado decida voluntariamente hacer efectiva la sanción antes de que transcurran los 30 días siguientes a la notificación del expediente sancionador, la cuantía pecuniaria de la sanción inicialmente propuesta se reducirá en un 30 por ciento.
+
+El pago de la sanción con la reducción del 30 por ciento implicará la conformidad con los hechos denunciados, la renuncia a formular alegaciones y la terminación del procedimiento, debiendo, no obstante, dictarse resolución expresa.
+
+Por el contrario, la formulación de alegaciones por el interesado implicará su renuncia a acogerse posteriormente a la referida reducción por pago anticipado.
+
+> Se modifica por el art. 2.122 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.106 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. 1.1 del Real Decreto 1772/1994, de 5 de agosto. [Ref. BOE-A-1994-19268](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19268)
+
+##### Artículo 211.
+
+Se dará traslado al denunciante de las alegaciones del denunciado, salvo que no aporten datos nuevos o distintos de los inicialmente constatados por el propio denunciante, para que informe en el plazo máximo de quince días. De no emitirse el citado informe en plazo, podrán proseguirse las actuaciones como corresponda. Si tales alegaciones se formularan en procedimiento incoado por denuncia de particulares, el denunciante será requerido además para que aporte pruebas sobre la veracidad de los hechos no admitidos por el denunciado.
+
+Cuando así resulte necesario para averiguar o calificar correctamente los hechos o para determinar las posibles responsabilidades, el instructor acordará la apertura de un período de prueba. No obstante, podrá rechazar de forma motivada la realización de aquellas pruebas que hubiesen propuesto el denunciado u otros interesados en el procedimiento cuando considere que resultan improcedentes para determinar el alcance de los hechos denunciados o la posible responsabilidad de los sujetos intervinientes.
+
+> Se modifica por el art. único.107 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. 1.1 del Real Decreto 1772/1994, de 5 de agosto. [Ref. BOE-A-1994-19268](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19268)
+
+##### Artículo 212.
+
+Ultimada la instrucción del procedimiento, el órgano instructor formulará propuesta de resolución, que se notificará al interesado para que, en el plazo de quince días, pueda presentar las alegaciones, documentos e informaciones que estime pertinentes. No obstante, se prescindirá de dicha notificación cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el propio interesado, siempre que en la notificación de la iniciación del expediente se hubiese advertido a este que, de no efectuar alegaciones, dicha iniciación podría ser considerada propuesta de resolución.
+
+Practicada, en su caso, la audiencia al interesado, el órgano instructor elevará la propuesta de resolución al órgano que legal o reglamentariamente tenga atribuida la competencia sancionadora para que dicte la resolución que proceda.
+
+Cuando así se considere oportuno para garantizar la eficacia de la resolución sancionadora, ésta podrá suspender, cautelarmente y de forma expresa, el derecho del sancionado a transmitir los títulos habilitantes para la realización de transporte y los vehículos de que sea titular durante el tiempo que resulte estrictamente necesario para ello.
+
+> Se modifica el primer párrafo por el art. 2.123 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.108 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. 1.1 del Real Decreto 1772/1994, de 5 de agosto. [Ref. BOE-A-1994-19268](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19268)
+
+##### Artículo 213.
+
+1\. El pago de la sanción pecuniaria con anterioridad a que se dicte la resolución sancionadora implicará la terminación del procedimiento, debiendo señalarse así en la correspondiente resolución sancionadora.
+
+2\. La resolución del procedimiento sancionador se notificará al interesado, el cual podrá interponer recurso de alzada contra aquella dentro del plazo de un mes, contado a partir del día siguiente a aquel en que tenga lugar la notificación.
+
+3\. Las resoluciones que pongan fin a la vía administrativa serán recurribles ante el orden jurisdiccional contencioso-administrativo.
+
+> Se modifican los apartados 1 y 2 por el art. 2.124 y 125 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.109 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. 1.1 del Real Decreto 1772/1994, de 5 de agosto. [Ref. BOE-A-1994-19268](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19268)
+
+##### Artículo 214.
+
+Los órganos de las distintas Administraciones Públicas competentes para sancionar las infracciones previstas en la legislación de los transportes terrestres comunicarán en un plazo de treinta días las sanciones que impongan al Registro General de Transportistas y de Empresas de Actividades Auxiliares y Complementarias del Transporte, con objeto de que se realice su anotación en éste.
+
+El plazo de treinta días mencionado en el párrafo anterior comenzará a contarse a partir del día en que se dictó la resolución sancionadora que puso fin a la vía administrativa.
+
+Las comunicaciones que se remitan para su anotación en el Registro contendrán como mínimo los datos siguientes: número de expediente; nombre y apellidos y domicilio del infractor; número de su documento nacional de identidad o código de identificación fiscal, en su caso; matrícula del vehículo, en su caso; Identificación del título o títulos habilitantes a cuyo amparo se realizó la actividad infractora; fecha de la infracción; breve exposición de los hechos sancionados y preceptos infringidos, así como la sanción impuesta; fecha de la resolución sancionadora y en la que adquiere firmeza y todos aquellos datos que se consideren necesarios. La información del Registro relativa a infracciones y sanciones estará a disposición de todas las Administraciones Públicas a las que afecte o interese.
+
+> Se modifica el párrafo tercero por el art. 2.126 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.110 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. 1.1 del Real Decreto 1772/1994, de 5 de agosto. [Ref. BOE-A-1994-19268](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19268)
+
+##### Artículo 215.
+
+1\. Las sanciones pecuniarias habrán de ser satisfechas en el plazo de quince días contados a partir del día siguiente a aquel en que se dictó la resolución que puso fin a la vía administrativa.
+
+2\. La ejecución de las resoluciones sancionadoras se llevará a efecto según lo dispuesto en la legislación general sobre procedimiento administrativo común y en la normativa general de recaudación.
+
+3.**(Suprimido).**
+
+4\. El pago de las sanciones pecuniarias señaladas en el presente reglamento, impuestas por resolución que ponga fin a la vía administrativa, será requisito necesario para que proceda el otorgamiento de nuevos títulos habilitantes para la realización de cualquier clase de transporte interior o internacional por carretera o de alguna de sus actividades auxiliares y complementarias, así como para la realización del visado, la transmisión o la modificación de cualquiera de aquellos de que ya fuera titular el infractor.
+
+Asimismo, dicho pago será requisito exigible para que proceda la autorización administrativa a la transferencia de los vehículos con los que se hayan cometido las infracciones a las que las referidas sanciones correspondan.
+
+> Se modifica el apartado 2 y se suprimen el 3 y el 5 por el art. 2.127 a 129 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica el apartado 4 por el art. único.111 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. 1.1 del Real Decreto 1772/1994, de 5 de agosto. [Ref. BOE-A-1994-19268](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19268)
+
+##### Artículo 216.
+
+A los efectos señalados en el artículo 146.4 de la LOTT, en relación con la imposición y ejecución de sanciones por infracciones que se detecten en carretera habiendo sido cometidas por personas que no tengan su residencia en territorio español serán de aplicación las siguientes normas:
+
+a) La denuncia formulada por los Servicios de Inspección del Transporte Terrestre o por los agentes actuantes de las Fuerzas y Cuerpos de Seguridad del Estado y Policías Autónomas o Locales encargados de la vigilancia del transporte terrestre fijará provisionalmente la cuantía de la sanción, teniendo en cuenta la que se apareja en la LOTT a la infracción denunciada.
+
+b) El interesado podrá optar por pagar la sanción propuesta en el momento de recibir la denuncia, depositar su importe o garantizar su pago.
+
+c) Cuando el interesado opte por pagar o depositar el importe de la sanción, la denuncia que se le entrega tendrá efectos de notificación del inicio del procedimiento sancionador. La autoridad o el agente denunciante deberá entregar al interesado el escrito de denuncia, en el que hará constar que se ha procedido al pago o al depósito del importe de la sanción, o bien podrá entregar, conjuntamente con la denuncia, un recibo de pago o depósito de la cantidad correspondiente.
+
+d) Cuando el interesado pague voluntariamente la sanción propuesta en el momento de la denuncia, se aplicará lo dispuesto en el artículo 146.3 de la LOTT en relación con el pago anticipado de sanciones pecuniarias.
+
+e) Cuando el interesado se limite a depositar el importe de la sanción propuesta, el expediente sancionador deberá tramitarse siguiendo el procedimiento sancionador señalado con carácter general, en el que se le reconocerán idénticos derechos que a los residentes en España. Este depósito no dará lugar a reducción alguna del importe de la sanción.
+
+La cantidad depositada deberá ser remitida al órgano competente para la tramitación del procedimiento y quedará a resultas de la resolución final del expediente sancionador.
+
+Si dicha resolución no impone sanción alguna o reduce el importe de la propuesta en la denuncia, el órgano competente deberá poner a disposición del interesado o de su representante la cantidad que en cada caso proceda.
+
+f) Cuando el interesado opte por afianzar el pago de la sanción propuesta, habrá de señalar una persona o entidad que constituya caución suficiente de dicho pago, la cual deberá cumplir las condiciones señaladas al efecto por el Ministro de Fomento.
+
+g) En los supuestos en que el interesado, ya sea el transportista o un tercero, no haga efectivo ni deposite el importe de la sanción propuesta ni afiance su pago, la autoridad o el agente denunciante procederá a la inmovilización del vehículo y, en su caso, a retener la correspondiente copia de la licencia comunitaria, aplicando al efecto las reglas contenidas en el artículo 143.4 de la LOTT.
+
+Dicha inmovilización se levantará, permitiendo la marcha del vehículo, si con posterioridad el interesado procede al pago de la sanción propuesta, deposita su importe o garantiza su pago.
+
+> Se modifica por el art. 2.130 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.112 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. 1.1 del Real Decreto 1772/1994, de 5 de agosto. [Ref. BOE-A-1994-19268](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-19268)
+
+### CAPÍTULO V — Precintados
+
+##### Artículos 217 a 221.
+
+**(Suprimidos).**
+
+> Se suprimen por el art. 2.131 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+### CAPÍTULO VI — Documentos de control
+
+##### Artículo 222.
+
+1\. Los vehículos destinados a la realización de transporte por carretera deberán tener instalado y llevar en funcionamiento durante su prestación el tacógrafo, el limitador de velocidad, así como otros mecanismos o instrumentos de control reglamentariamente exigidos o que resulten obligatorios de conformidad con las disposiciones contenidas en los convenios internacionales suscritos por España o en la normativa directamente aplicable en la Unión Europea.
+
+Durante la realización de los servicios y actividades reguladas en este reglamento, deberán llevarse a bordo del vehículo, debidamente cumplimentados, los documentos de control administrativo que, en su caso, se establezcan. En los transportes internacionales se emplearán los documentos de control establecidos en los convenios suscritos por España.
+
+Los vehículos en que los referidos servicios se realicen deberán, por su parte, encontrarse señalizados mediante los rótulos y distintivos que, para la exacta identificación de las características del servicio o del título habilitante a cuyo amparo se prestan, sean exigidos por la normativa en vigor.
+
+Las personas que realicen los servicios y actividades previstos en este reglamento deberán cumplimentar y conservar en su domicilio empresarial, durante el plazo que se establezca a los efectos previstos en el artículo 19, la documentación de carácter administrativo o estadístico que, en su caso, se establezca.
+
+A efectos de contabilidad, las empresas titulares de concesiones o autorizaciones de transporte público regular de viajeros de uso general deberán tratar cada una de ellas como una actividad separada, gestionándola como una división contable independiente, distinta de cualquier otra actividad que realicen, esté o no relacionada con el transporte de viajeros.
+
+2\. La documentación de control exigida de conformidad con lo dispuesto en este artículo únicamente podrá ser cumplimentada por medios electrónicos cuando los soportes y aplicaciones utilizadas para ello permitan transformar su contenido en signos de escritura legibles y reúnan las características que se encuentren señaladas por la Dirección General de Transporte Terrestre a efectos de garantizar la disponibilidad, integridad, inalterabilidad e inviolabilidad de su contenido.
+
+El personal de los Servicios de Inspección del Transporte Terrestre así como los agentes de las fuerzas de vigilancia del transporte en carretera deberán poder, en el ejercicio de sus funciones, obtener copia del contenido de esa documentación.
+
+Cuando la referida copia se expida utilizando medios electrónicos, tanto estos como aquella deberán, asimismo, ajustarse a las características señaladas al efecto por la Dirección General de Transporte Terrestre.
+
+> Se añade el apartado 2 por el art. 2.132 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Se modifica por el art. único.114 del Real Decreto 1225/2006, de 27 de octubre. [Ref. BOE-A-2006-19826](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19826)
+
+> Se modifica por el art. único del Real Decreto 1136/1997, de 11 de julio. [Ref. BOE-A-1997-16472](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-16472)
+
+## TÍTULO VII — Establecimiento, construcción y explotación de transportes ferroviarios
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 9/2013, de 4 de julio. [Ref. BOE-A-2013-7320](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7320).
+
+##### Artículos 223 a 277.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única.1 de la Ley 9/2013, de 4 de julio. [Ref. BOE-A-2013-7320](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7320).
+
+## TÍTULO VIII — Policía de Ferrocarriles
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 9/2013, de 4 de julio. [Ref. BOE-A-2013-7320](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7320).
+
+##### Artículos 278 a 299.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única.1 de la Ley 9/2013, de 4 de julio. [Ref. BOE-A-2013-7320](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7320).
+
+##### Disposición adicional primera.
+
+Los informes previstos en este Reglamento, respecto a los que en el mismo o en sus normas complementarias no se prevea expresamente plazo de emisión, deberán ser emitidos en el plazo de un mes.
+
+Transcurrido el plazo correspondiente sin que el informe haya sido emitido, podrá continuarse la tramitación y, en su caso, concluirse el procedimiento.
+
+##### Disposición adicional segunda.
+
+1\. A los efectos previstos en la disposición adicional tercera de la LOTT, se considerarán estaciones de invierno o esquí aquellos centros turísticos básicamente dedicados a la práctica del esquí y demás deportes de nieve y montaña, que formen un conjunto coordinado de medios de remonte mecánicos, pistas e instalaciones complementarias, de uso público, que reúnan como mínimo las siguientes condiciones:
+
+a) Instalaciones de remonte acordes con las características de la estación.
+
+b) Pistas adecuadas para la práctica del esquí y demás deportes de nieve y montaña.
+
+c) Maquinaria para el acondicionamiento y mantenimiento de las pistas.
+
+d) Suministros de agua y de energía eléctrica e instalaciones de saneamiento y de eliminación de basuras.
+
+e) Servicio telefónico conectado a la red nacional o, en su defecto, enlace radiotelefónico con punto de escucha permanente.
+
+f) Servicios de información general de la estación y de seguridad en las pistas.
+
+g) Puesto de socorro con equipo de primeros auxilios y medios de salvamento y de evacuación.
+
+h) Instalaciones de refugio y/o de hostelería.
+
+i) Instalaciones para recepción, taquillas, oficinas administrativas y talleres.
+
+j) Aparcamientos de vehículos y medios para mantenerlos en condiciones de utilización.
+
+k) Personal adecuado, tanto de los medios de remonte como de los restantes servicios de la estación.
+
+2\. Las tarifas que se hallen fijadas para las concesiones de los servicios de transporte en teleférico u otros medios en los que la tracción se haga por cable y no exista camino terrestre de rodadura podrán ser modificadas cuando el ente competente, ponderando las circunstancias concurrentes, así lo autorice.
+
+Cuando el servicio de transporte en los medios a que se refiere el artículo anterior se contrate conjuntamente con otras prestaciones complementarias no sujetas a tarifas administrativas, podrá realizarse una facturación global cuyo importe no estará sujeto a control administrativo.
+
+3\. La zona de influencia de los teleféricos prevista en el artículo 9.5 de la Ley 4/1964, de 24 de abril, y 6 de su Reglamento, podrá ser común a dos o más instalaciones independientes que se hallen situadas dentro de la misma estación de invierno o esquí y sean de la misma titularidad que ésta.
+
+##### Disposición adicional tercera.
+
+Serán de aplicación a FEVE y, en su caso, a otras Empresas públicas a las que se atribuya la gestión de transportes públicos ferroviarios, las disposiciones de este Reglamento que hacen referencia a RENFE, excepto las que se refieren a la relación de esta última Empresa con la Red Nacional Integrada de Transporte Ferroviario.
+
+El Ministro de Transportes, Turismo y Comunicaciones podrá, no obstante, determinar las adaptaciones de las referidas disposiciones que resulten necesarias, de acuerdo con las específicas características de dichas Empresas o de los servicios que exploten.
+
+##### Disposición adicional cuarta.
+
+Las normas establecidas en este Reglamento, en relación con el transporte ferroviario, se aplicarán al transporte en funicular en lo que no se oponga a la específica naturaleza de éste, pudiendo realizar el Ministro de Transportes, Turismo y Comunicaciones las adaptaciones que resulten necesarias. Serán, en todo caso, de aplicación, en relación con la tracción de los funiculares, las normas técnicas reguladoras del transporte por cable.
+
+##### Disposición adicional quinta.
+
+Las normas contenidas en el presente Reglamento se aplicarán a los ferrocarriles de carácter predominantemente urbano, ya discurran sobre la superficie o por debajo de la misma, así como a los que discurran por un solo raíl, en lo que no se oponga a su específica naturaleza, y de forma supletoria a las normas que regulen específicamente los mismos.
+
+##### Disposición adicional sexta.
+
+Las cuantías pecuniarias establecidas en el presente Reglamento, con excepción de las previstas en el artículo 3, cuya modificación corresponderá, en todo caso, al Gobierno, se adecuarán a los cambios de valor adquisitivo de la moneda según los índices oficiales del Instituto Nacional de Estadística, realizando a tal efecto el Ministro de Transportes, Turismo y Comunicaciones las necesarias concreciones.
+
+##### Disposición adicional séptima.
+
+Se adscribirán a la Dirección General de Transportes Terrestres los medios personales y materiales necesarios para llevar a cabo las funciones de ordenación, control e inspección ferroviaria, así como de apoyo al Consejo Nacional de Transportes Terrestres, a la Conferencia Nacional del Transporte y a la Comisión de Directores generales de Transporte del Estado y de las Comunidades Autónomas, reglamentariamente previstas. A tal efecto se realizarán las oportunas modificaciones en la relación de puestos de trabajo correspondiente a dicha Dirección General.
+
+##### Disposición adicional octava.
+
+Los informes que, según se prevé en este Reglamento, resulta preceptivo recabar de los distintos órganos consultivos regulados en el mismo, no serán exigibles en tanto que dichos órganos no se hayan constituido de manera efectiva.
+
+##### Disposición adicional novena.
+
+La obligación de cumplimentar la declaración de porte se exigirá a partir de que sean determinadas por el Ministro de Transportes, Turismo y Comunicaciones las reglas para su distribución, formulación y control, previstas en el punto 2 del artículo 222.
+
+##### Disposición adicional décima.
+
+Las tarifas obligatorias correspondientes a transportes regulares de uso especial y a transportes discrecionales de viajeros vigentes hasta la entrada en vigor de este Reglamento quedarán convertidas, cuando dicha entrada en vigor se produzca, en tarifas de referencia.
+
+##### Disposición adicional undécima.
+
+Se faculta al Ministro de Transportes, Turismo y Comunicaciones para dictar las disposiciones necesarias para la aplicación y desarrollo de este Reglamento, así como para resolver las dudas que en relación con el mismo se susciten.
+
+##### Disposición transitoria primera.
+
+1\. Las actuales autorizaciones de transporte público de viajeros, de mercancías y mixtos de ámbito local, así como de transporte privado de mercancías de dicho ámbito, quedarán convertidas en las autorizaciones de ámbito local previstas en el artículo 111 de este Reglamento.
+
+2\. Las actuales autorizaciones de transporte privado de viajeros de ámbito inferior al nacional quedarán convertidas en autorizaciones de transporte privado de ámbito nacional.
+
+3\. Las actuales autorizaciones de transporte público de viajeros, de mercancías y mixtos de ámbito comarcal, así como de transporte privado de mercancías de dicho ámbito, conservarán su vigencia, estando su régimen jurídico sometido a las disposiciones de este Reglamento.
+
+##### Disposición transitoria segunda.
+
+A los efectos de lo previsto en el punto 1 del artículo 143, las actuales licencias municipales de la clase B serán canjeadas a la entrada en vigor de este Reglamento por licencias municipales de auto-taxis, si bien los correspondientes vehículos únicamente estarán obligados a estar provistos de contador taxímetro cuando realicen servicios que discurran íntegramente por suelo urbano o urbanizable o cuando así lo determine para facilitar el control tarifario el Ministro de Transportes, Turismo y Comunicaciones o, en su caso, la correspondiente Comunidad Autónoma o el respectivo Ayuntamiento, para el ámbito de sus competencias.
+
+Las actuales licencias municipales de la clase C, salvo que proceda su conversión en autorizaciones para transporte sanitario o funerario serán canjeadas por autorizaciones de arrendamiento de vehículos con conductor de las previstas en el artículo 180 de este Reglamento, siéndoles de aplicación el régimen jurídico de éstas, con excepción de la exigencia de un número mínimo de vehículos y de las características requeridas a éstos, si bien los vehículos que en su momento les sustituyan deberán cumplir estas últimas. Las autorizaciones de la serie VT de transporte interurbano de que, en su caso, dispusieran los titulares de las referidas licencias de la clase C quedarán sin efecto.
+
+##### Disposición transitoria tercera.
+
+Las actuales autorizaciones de transporte público en furgón fúnebre serán canjeadas por las autorizaciones de transporte privado complementario para la realización de transporte funerario previstas en el artículo 139 de este Reglamento, siéndoles de aplicación el régimen jurídico de las mismas.
+
+##### Disposición transitoria cuarta.
+
+1\. Las personas que, antes del día 1 de enero de 1988 vinieran realizando legalmente transporte discrecional urbano de viajeros en autobús o de mercancías en vehículos pesados, sin estar provistas de autorización administrativa, podrán solicitar en el plazo de doce meses a partir de la entrada en vigor de este Reglamento, una autorización habilitante para la realización de transporte urbano en el municipio de que se trate, reconociéndoseles a tal efecto la capacitación profesional para la realización de transporte exclusivamente urbano.
+
+2\. La autorización a que se refiere el punto anterior será otorgada por el correspondiente Ayuntamiento cuando se trate de transporte de viajeros, o por la respectiva Comunidad Autónoma o, en su caso, por el Estado, cuando se trate de transporte de mercancías o mixto, especificándose el municipio al que cada autorización corresponda. Para el otorgamiento de dicha autorización no serán exigibles los requisitos de antigüedad máxima del vehículo establecidos con carácter general, si bien deberá justificarse el cumplimiento por el mismo de las condiciones técnicas exigibles.
+
+3\. La justificación de la realización efectiva del transporte a que se refiere esta disposición se efectuará por los titulares de los vehículos utilizados para ello a través de la correspondiente documentación de carácter fiscal o de la Seguridad Social, facturas o cualquier otro medio de prueba adecuado.
+
+##### Disposición transitoria quinta.
+
+Las cooperativas de transportistas y sociedades de comercialización actualmente existentes que tengan un capital inferior a 10.000.000 de pesetas deberán haber aumentado efectivamente su capital hasta, al menos, esa cifra antes del 1 de julio de 1992.
+
+##### Disposición transitoria sexta.
+
+1\. El cumplimiento de la obligación de tener asegurada su responsabilidad civil de forma ilimitada por los daños que causen con ocasión del transporte, impuesta en el punto 1 del artículo 5.º a las Empresas de transporte público de viajeros por carretera, por ferrocarril y por cable, no será exigible hasta el 1 de abril de 1991 a las Empresas que vinieran realizando legalmente dichos transportes en el momento de la entrada en vigor de este Reglamento.
+
+2\. El plazo transitorio establecido en el punto anterior no será de aplicación en relación con aquellos transportes cuya específica normativa reguladora exigía el cumplimiento de la mencionada obligación de aseguramiento desde antes de la entrada en vigor de este Reglamento, respecto a los cuales deberán las Empresas continuar cumpliéndola sin interrupción.
+
+##### Disposición transitoria séptima.
+
+Los actuales concesionarios de servicios regulares permanentes de uso general habrán de adecuar la cuantía de la fianza definitiva correspondiente a los mismos a las previsiones del artículo 74 de este Reglamento antes del día 1 de abril de 1991.
+
+##### Disposición sobre derogaciones y vigencias.
+
+1\. Normas reguladoras del transporte por carretera que quedan derogadas:
+
+A) Decretos y Reales Decretos:
+
+Decreto de 2 de febrero de 1933, aprueba el Reglamento para la ejecución de la Ley de 18 de julio de 1932 que creó las Juntas de Detasas.
+
+Decreto de 11 de enero de 1934, sobre estaciones de transporte por carretera.
+
+Decreto de 8 de abril de 1936, sobre expedición de autorizaciones de transporte de viajeros de ferias, fiestas, mercados y romerías con sus equipajes y mercancías.
+
+Decreto de 30 de mayo de 1936, organiza las Inspecciones de Circulación y Transportes por Carretera.
+
+Decreto de 22 de junio de 1936, aprueba el Reglamento de las Juntas de Detasas.
+
+Decreto de 20 de octubre de 1938, que amplía competencias de las Juntas de Detasas al sector del transporte por carretera.
+
+Decreto de 8 de mayo de 1942, que organiza la inspección e intervención en los servicios de ferrocarriles, tranvías y trolebuses.
+
+Decreto de 9 de diciembre de 1949, aprueba el Reglamento para la aplicación de la Ley de Ordenación de los Transportes Mecánicos por Carretera de 27 de diciembre de 1947.
+
+Decreto de 16 de diciembre de 1949, aprueba el Reglamento para la aplicación de la Ley de Coordinación de los Transportes Mecánicos Terrestres de 27 de diciembre de 1947.
+
+Decreto de 5 de febrero de I953, sobre ejecución de fallos de las Juntas de Detasas.
+
+Decreto de 16 de diciembre de 1955, sobre concesión de preferencia de tanteo en la convalidación de antiguas concesiones de líneas de transporte coincidentes prácticamente con los ferrocarriles a los peticionarios que reúnan ciertas condiciones.
+
+Decreto de 26 de abril de 1957, atribuye al MOP a competencia para regular e interpretar la materia referente a pases y billetes gratuitos o con rebajas de precios en las líneas regulares de viajeros.
+
+Decreto 141/1960, de 4 de febrero, convalida la tasa de coordinación.
+
+Decreto 1666/1960, de 21 de julio, delimita las competencias en materia de tráfico, circulación y transportes.
+
+Decreto 321/1962, de 15 de febrero, sobre modificación del artículo 45 del Reglamento de Ordenación de los Transportes por Carretera de 9 de diciembre de 1949.
+
+Decreto de 29 de marzo de 1962, sobre regulación de las Agencias de Viajes.
+
+Decreto 2023/1962, de 8 de agosto, que modifica el párrafo primero del artículo 146 del Reglamento de Ordenación de los Transportes por Carretera de 9 de diciembre de 1949.
+
+Decreto 1943/1964, de 2 de julio, regulador de las actividades de las Agencias de Transportes.
+
+Decreto 576/1966, de 3 de marzo, sobre ordenación de los transportes de mercancías por carretera.
+
+Decreto 2008/1966, de 14 de julio, modifica el Decreto 490/1962, de 8 de marzo, que fijó los pesos máximos para circular por vías públicas.
+
+Artículo 3 del Decreto 2149/1967, de 19 de agosto, que prevé la asunción por la jurisdicción ordinaria de la competencia de las Juntas de tasas.
+
+Decreto 1832/1968, de 11 de julio, por el que se modifica el artículo 61 del Reglamento de Ordenación de los Transportes por Carretera de 9 de diciembre de 1949.
+
+Decreto 3067/1968, de 28 de noviembre, ordena el tráfico de detalle de RENFE.
+
+Decreto 1364/1969, de 19 de junio, regulador de los servicios reguladores de transporte internacional de viajeros.
+
+Decreto 2237/1969, de 17 de julio, sobre la inspección de transporte por carretera.
+
+Decreto 1968/1972, de 6 de julio, regulador de las formas de colaboración entre transportistas.
+
+Decreto 1044/1973, de 17 de mayo, sobre circulación de vehículos destinados al transporte escolar.
+
+Real Decreto 1754/1976, de 6 de febrero, sobre Reglamento Nacional para los Transportes de Mercancías Peligrosas.
+
+Real Decreto 2101/1976, de 10 de agosto, sobre aplicación del Reglamento Nacional para los Transportes de Mercancías Peligrosas.
+
+Real Decreto 1721/1978, de 2 de junio, sobre Juntas de Conciliación e Información.
+
+Real Decreto 1415/I978, de 6 de junio, sobre regulación del transporte público en las Islas Canarias.
+
+Decreto 358/1979, de 13 de febrero, sobre régimen de explotación de los servicios públicos regulares de transporte de viajeros por carretera en zonas de débil tráfico.
+
+Real Decreto 1999/1979, de 29 de junio, sobre nuevo textil del TPC, excepto Anexo 1 y Apéndice 1 (en los marginales no modificados por el Real Decreto 1723/1984 por el que se da nueva redacción al Reglamento Nacional de Mercancías Peligrosas, aprobado por dicho Real Decreto 1999/1979) que se mantienen vigentes.
+
+Real Decreto 2000/1979, de 29 de julio, sobre normativa de carga y control de la cantidad cargada en transportes de mercancías peligrosas.
+
+Real Decreto 2174/1979, de 3 de agosto, por el que se autoriza, bajo determinadas condiciones, la agrupación de expediciones en los transportes de mercancías por carretera.
+
+Real Decreto 1424/1980, de 4 de julio, sobre transporte urbano colectivo de viajeros.
+
+Real Decreto 1677/1980, de 29 de agosto, sobre aplazamiento de los artículos 4 y 8, marginal 10.171 y Anejo III del TPC.
+
+Real Decreto 2052/1981, de 4 de septiembre, que establece determinadas infracciones y sanciones en el transporte por carretera y específica competencias en la tramitación de los expedientes sancionadores.
+
+Real Decreto 2512/1981, de 19 de octubre, por el que se establecen las normas básicas de los Centros de Información y Distribución de Cargas.
+
+Real Decreto 2965/1981, de 13 de noviembre, sobre delegación de funciones a diversos Entes preautonómicos en materia de transportes.
+
+Real Decreto 1415/1982, de 30 de abril, sobre seguridad en el transporte escolar.
+
+Real Decreto 1540/1984, de 8 de junio, por el que se deroga parcialmente el Decreto 576/1966, de 3 de marzo, sobre Ordenación de los Transportes Mecánicos por Carretera.
+
+Real Decreto 1561/1984, de 18 de julio, regulador de la actividad de alquiler de vehículos sin conductor.
+
+Real Decreto 2025/1984, de 17 de octubre, sobre coordinación de las competencias administrativas en relación con los servicios de transporte público de viajeros en automóviles de turismo.
+
+Real Decreto 383/1985, de 20 de marzo, por el que se prorroga por seis meses el plazo concedido por Real Decreto 1723/1984 para su entrada en vigor en lo que se refiere a los transportes en régimen de distribución y reparto de mercancías peligrosas por carretera.
+
+Real Decreto 615/1985, de 20 de marzo, que suprime la exigencia de vehículos reserva en las concesiones de servicios públicos regulares de transporte por carretera.
+
+Real Decreto 1209/1985, de 19 de junio, en su Disposición Adicional Tercera (encomienda a la Dirección General de Transportes Terrestres y a las Direcciones Provinciales del Departamento las funciones que estaban asignadas al extinto Organismo Autónomo «Servicios Central y Provinciales de las Juntas de Detasas»).
+
+Real Decreto 2146/1985, de 23 de octubre, de aclaración y actualización del régimen jurídico de la actividad de alquiler de automóviles sin conductor.
+
+Real Decreto 666/1986, de 21 de febrero, que modifica los artículos 36, 39 y 143 a 147 del Reglamento de Ordenación de los Transportes Mecánicos por Carretera de 9 de diciembre de 1949.
+
+Real Decreto 1408/1986, de 26 de mayo, por el que se aprueba el Reglamento regulador de la inspección y del Régimen Sancionador de los Transportes Mecánicos por Carretera.
+
+Real Decreto 262/1987, de 13 de febrero, regulador de la utilización de vehículos arrendados para la realización de transporte por carretera.
+
+Real Decreto 216/1988, de 4 de marzo, regula las condiciones de capacitación profesional, honorabilidad y capacidad económica para el ejercicio profesional de la actividad del transporte público por carretera.
+
+B) Órdenes ministeriales:
+
+Real Orden de 22 de junio de 1929, Reglamento para la explotación de los servicios públicos de transporte por carretera.
+
+Orden ministerial de 17 de julio de 1934, complementaria del Decreto de 11 de enero de 1934 sobre estaciones de transporte por carretera.
+
+Orden ministerial de 28 de marzo de 1935, autoriza el transporte de leche en los vehículos de viajeros.
+
+Orden ministerial de 20 de abril de 1936, sobre procedimiento de otorgamiento de autorizaciones de transporte para ferias, fiestas, mercados y romerías.
+
+Orden ministerial de 6 de junio de 1936, en aplicación del Decreto de 30 de mayo de 1936, de inspección.
+
+Orden ministerial de 28 de diciembre de 1938, aprueba el Reglamento de las Juntas de Detasas.
+
+Orden ministerial de 30 de julio de 1942, sobre normas de inspección de ferrocarriles, tranvías, trolebuses y servicios de transporte por carretera.
+
+Orden ministerial de 21 de enero de 1943, sobre normas para la expedición de billetes de viajeros en transportes regulares por carretera.
+
+Orden ministerial de 6 de septiembre de 1944, sobre nuevas normas de inspección de servicios de ferrocarriles, tranvías, trolebuses y servicios de transporte por carretera.
+
+Orden ministerial de 9 de febrero de 1945, establece diversas reglas sobre los servicios provinciales de la inspección por carretera.
+
+Orden ministerial de 25 de mayo de 1945, sobre servicios de transporte por carretera.
+
+Orden ministerial de 8 de junio de 1945 sobre Hoja de Ruta y Libro Registro de Expediciones en los transportes públicos por carretera.
+
+Orden ministerial de 9 de julio de 1985 sobre Libro de Reclamaciones.
+
+Orden ministerial de 3 de agosto de 1946 sobre servicios de alquiler discrecionales por concesionarios de servicio público de transporte de viajeros por carretera.
+
+Orden ministerial de 11 de diciembre de 1946 sobre billetes de ida y vuelta en los servicios públicos de transporte por carretera.
+
+Orden ministerial de 12 de junio de 1947 sobre nuevos modelos de Hojas de Ruta en servicios de transporte A. B y C.
+
+Orden ministerial de 10 de enero de 1948 dicta normas complementarias del Decreto-ley de 2 de septiembre de 1947 sobre Juntas de Detasas.
+
+Orden ministerial de 8 de junio de 1949, dispone que se constituyan, con carácter provisional, las Juntas de Coordinación de los Transportes.
+
+Orden ministerial de 29 de diciembre de 1949 sobre concursos para adjudicación de concesiones de servicios regulares de transporte de viajeros.
+
+Orden ministerial de 29 de diciembre de 1949 sobre servicios regulares de transporte de mercancías.
+
+Orden ministerial de 31 de enero de 1950, aprueba el Reglamento de Régimen Interior de las Juntas de Coordinación de los Transportes.
+
+Orden ministerial de 31 de marzo de 1950 sobre modificaciones en las condiciones de prestación de los servicios públicos regulares de transporte de viajeros por carretera.
+
+Orden ministerial de 20 de abril de 1950 sobre instrucción a observar en la celebración de los concursos para la concesión de líneas regulares.
+
+Orden ministerial de 16 de mayo de 1950 sobre normas de visado y establecimiento de la obligación de llevar visible la tarjeta de transporte (reformada en su artículo 5 por Orden ministerial de 1 de diciembre de 1973 y complementada por Orden ministerial de 28 de diciembre de 1950).
+
+Orden ministerial de 30 de mayo de 1950 sobre establecimiento de servicios regulares de transporte de viajeros de interés general (Orden comunicada).
+
+Orden ministerial de 21 de junio de 1950, señala plazo para la expedición de las tarjetas de transporte.
+
+Orden ministerial de 31 de octubre de 1950 sobre solicitud de tarjeta de transporte para la realización de servicios de carga fraccionada y de radio de acción nacional (aclarada por Orden ministerial de 30 de junio de 1951).
+
+Orden ministerial de 14 de noviembre de 1950 sobre prórroga en la tramitación de tarjetas de transporte.
+
+Orden ministerial de 28 de diciembre de 1950 sobre normas para la obtención de las tarjetas de transporte de mercancías.
+
+Orden ministerial de 10 de marzo de 1951 sobre transporte internacional, excepto sus artículos 2 y 3.
+
+Orden ministerial de 30 de marzo de 1951, establece la competencia de la Dirección General de Transportes Terrestres para el otorgamiento de las autorizaciones de Agencia de transportes y la aprobación del Reglamento y tarifas.
+
+Orden ministerial de 7 de mayo de 1951, aprobó el Reglamento tipo de la Agrupación de transportistas provinciales.
+
+Orden ministerial de 19 de mayo de 1951 sobre depósito de fianzas colectivas de servicios discrecionales.
+
+Orden ministerial de 30 de junio de 1951 sobre otorgamiento de tarjetas de carga fraccionada.
+
+Orden ministerial de 3 de julio de 1951 sobre normas provisionales para determinar el grado de coincidencia y fijar el canon.
+
+Orden ministerial de 10 de julio de 1951 sobre servicios a través de fronteras de Seo de Urgell y Puigcerdá.
+
+Orden ministerial de 12 de julio de 1951 sobre expresión de itinerarios prohibidos en tarjetas expedidas conforme al artículo 37 del Reglamento de Ordenación de 1949.
+
+Orden ministerial de 14 de julio de 1951, reguladora de los servicios «a forfait» de las Agencias de Viajes.
+
+Orden ministerial de 14 de julio de 1951 (reformada por Orden ministerial de 28 de mayo de 1953) sobre transporte de pescado fresco.
+
+Orden ministerial de 25 de agosto de 1951 sobre servicios discrecionales a través de la frontera de La Línea de la Concepción.
+
+Orden ministerial de 27 de agosto de 1951, aprobó el Reglamento-tipo de las Agencias de Transporte de Mercancías.
+
+Orden ministerial de 11 de febrero de 1952, modificó el Reglamento-tipo de las Agencias de Transporte de Mercancías.
+
+Orden ministerial de 11 de febrero de 1952 sobre acarreos de recogida y entrega a domicilio.
+
+Orden ministerial de 31 de mayo de 1952 sobre fianzas colectivas de Agencias de Transporte.
+
+Orden ministerial de 3 de junio de 1952 sobre normas para determinar la coincidencia y fijar el canon.
+
+Orden ministerial de 23 de agosto de 1952 sobre autorización provisional de servicios regulares de transporte de viajeros de interés general.
+
+Orden ministerial de 30 de marzo de 1953 sobre tramitación de expedientes de Agencias de Transporte que radiquen en poblaciones no capitales de provincia.
+
+Orden ministerial de 1 de julio de 1953 sobre modificación del artículo 111 del Reglamento de Ordenación de 1949.
+
+Orden ministerial de 31 de julio de 1953 sobre visado de autorizaciones.
+
+Orden ministerial de 31 de julio de 1953, modifica la Orden ministerial de 3 de julio de 1952, sobre normas para la fijación del canon (modificada por Órdenes ministeriales de 30 de junio de 1956 y 29 de julio de 1957).
+
+Orden ministerial de 9 de septiembre de 1953, modifica los artículos 1 y 2 de la Orden ministerial de 31 de julio de 1953 sobre canon de coincidencia.
+
+Orden ministerial de 3 de marzo de 1954 sobre recargos por retraso en el abono del canon de coincidencia.
+
+Orden ministerial de 15 de julio de 1954 sobre autorizaciones de servicios discrecionales de ferias, fiestas, mercados y romerías, tanto de viajeros como mixtos.
+
+Orden ministerial de 25 de noviembre de 1954 sobre autorizaciones de Agencias de Transporte.
+
+Orden ministerial de 11 de enero de 1955, cierra admisión de solicitudes de líneas de servicio público regular de transporte de viajeros por carretera.
+
+Orden ministerial de 28 de marzo de 1955 sobre servicios «a forfait» prestados por Agencias de Viaje (modifica la Orden ministerial de 14 de julio de 1951).
+
+Orden ministerial de 1 de marzo de 1956, ordena los servicios regulares de mercancías MR.
+
+Orden ministerial de 5 de abril de 1956 en aplicación de la Orden ministerial de 1 de marzo de 1956 sobre servicios MR.
+
+Orden ministerial de 6 de junio de 1956 sobre prórroga en la aplicación de la Orden ministerial de 1 de marzo de 1956 sobre servicios MR.
+
+Orden ministerial de 7 de junio de 1956, deja en suspenso la aplicación de la Orden ministerial de 1 de marzo de 1956 sobre servicios MR.
+
+Orden ministerial de 30 de junio de 1956 sobre canon de coincidencia.
+
+Orden ministerial de 29 de julio de 1956, deroga el artículo 2 de la Orden ministerial de 31 de julio de 1953 en cuanto a servicios de Agencias de Viajes y establece canon de coincidencia para algunos servicios.
+
+Orden ministerial de 31 de mayo de 1958 sobre transporte de fruta y verduras frescas (prorrogada por Órdenes ministeriales de 7 de junio de 1958 y 28 de abril de 1960).
+
+Orden ministerial de 29 de julio de 1957 sobre canon de coincidencia.
+
+Orden ministerial de 29 de julio de 1957 sobre vehículos de viajeros dedicados a Agencias de Viaje y a ferias y mercados.
+
+Orden ministerial de 18 de marzo de 1958 sobre transportes discrecionales de viajeros.
+
+Orden ministerial de 15 de abril de 1958, deroga parcialmente la Orden ministerial de 29 de julio de 1957 sobre canon de coincidencia.
+
+Orden ministerial de 26 de febrero de 1959 sobre canon de coincidencia.
+
+Orden ministerial de 31 de diciembre de I959 sobre supresión de la renovación semestral de las tarjetas MR provisionales.
+
+Orden ministerial de 18 de febrero de 1960 sobre expedición de visados de autorizaciones.
+
+Orden ministerial de 7 de diciembre de 1960 sobre transporte de personas relacionadas con el servicio en los vehículos dedicados al transporte de mercancías tanto en cabina como en caja.
+
+Orden ministerial de 19 de enero de 1961 sobre viajeros sin billete en servicios regulares de transporte por carretera.
+
+Orden ministerial de 18 de abril de 1961 sobre exención del canon de coincidencia de los servicios discrecionales internacionales efectuados en vehículos extranjeros.
+
+Orden ministerial de 18 de noviembre de 1961 sobre redondeo del precio de billetes en los servicios regulares de viajeros.
+
+Orden ministerial de 22 de marzo de 1962 sobre servicios que realicen los comerciantes o almacenistas en vehículos de su propiedad fuera del término municipal.
+
+Orden ministerial de 25 de marzo de 1962 sobre transporte de industriales feriantes y de sus familiares y dependientes en los propios camiones que efectúan el traslado del material de feria.
+
+Orden ministerial de 25 de marzo de 1962 sobre transporte de colmenas (modificada por Orden ministerial de 23 de agosto de 1963).
+
+Orden ministerial de 19 de julio de 1962 por la que se excluye a Ceuta y Melilla de la aplicación del Reglamento de Ordenación de 1949.
+
+Orden ministerial de 22 de agosto de 1962 sobre supresión de fianzas colectivas de agencias de transporte.
+
+Orden ministerial de 22 de agosto de 1962 sobre facultades para recogida y reparto a domicilio de los servicios públicos discrecionales de mercancías.
+
+Orden ministerial de 22 de agosto de 1962 sobre obligatoriedad de la hoja de ruta en los servicios de transportes de mercancías por carretera.
+
+Orden ministerial de 23 de agosto de 1962, deroga la Orden ministerial de 25 de noviembre de 1954 y admite nuevas peticiones para apertura de agencias de transporte.
+
+Orden ministerial de 25 de agosto de 1962 sobre modificación del artículo 24 del Reglamento-tipo de agencias de transporte, y que fija el plazo máximo para apertura al público de las agencias de transporte que se autoricen.
+
+Orden ministerial de 26 de febrero de 1963, Reglamento de Agencias de Viaje.
+
+Orden ministerial de 9 de octubre de 1963 sobre exención de autorización a los transportes fronterizos de mercancías entre Francia y España.
+
+Orden ministerial de 25 de febrero de 1964 sobre régimen TIR.
+
+Orden ministerial de 4 de noviembre de 1964, aprueba el Reglamento Nacional de Servicios Urbanos de Transporte en Automóviles Ligeros.
+
+Orden ministerial de 5 de enero de 1966 sobre régimen TIR.
+
+Orden ministerial de 22 de febrero de 1966 sobre devolución del importe de billetes anulados de servicios regulares de viajeros.
+
+Orden ministerial de 30 de abril de 1966 sobre regulación de los servicios de transporte público de carga fraccionada.
+
+Orden ministerial de 30 de julio de 1966 sobre canon de coincidencia.
+
+Orden ministerial de 26 de octubre de 1966 sobre funcionamiento de empresas dedicadas al alquiler de vehículos sin conductor.
+
+Orden ministerial de 10 de junio de 1967 sobre exención de autorización, en régimen de reciprocidad, en servicios de transporte internacional.
+
+Orden ministerial de 10 de junio de 1967 sobre exención de autorizaciones previas en transporte internacional.
+
+Orden ministerial de 30 de junio de 1967 sobre admisión de solicitudes de servicios públicos regulares de viajeros.
+
+Orden ministerial de 30 de noviembre de 1967 sobre apertura de admisión de instancias de servicios de transporte regular de viajeros.
+
+Orden ministerial de 11 de marzo de 1968 sobre definición y tramitación de hijuelas y concesiones.
+
+Orden ministerial de 8 de octubre de 1968, establece los distintivos de los vehículos de transporte de mercancías.
+
+Orden ministerial de 4 de febrero de 1969, admite los distintivos de dimensiones reducidas para vehículos de transporte de mercancías de hasta 1.000 kg. de carga útil y declara exentos a los vehículos mixtos de la obligación de llevar los mismos.
+
+Orden ministerial de 7 de junio de 1969, suprime el tránsito entre Gibraltar y La Línea de la Concepción.
+
+Orden ministerial de 27 de septiembre de 1969 sobre distintivos de los vehículos (completada por las Órdenes ministeriales de 30 de enero, 30 de marzo, 30 de mayo, 28 de agosto y 31 de octubre de 1970, todas ellas sobre prórrogas para la colocación de distintivos).
+
+Orden ministerial de 12 de febrero de 1971, establece el abono del canon de coincidencia por transportistas extranjeros.
+
+Orden ministerial de 15 de marzo de 1971, por la que se regulan los transportes de determinadas mercancías con carga fraccionada.
+
+Orden ministerial de 26 de abril de 1971, modifica la cuantía del canon de coincidencia para servicios discrecionales.
+
+Orden ministerial de 7 de mayo de 1971, suspende la tramitación de peticiones de agencias de transporte.
+
+Orden ministerial de 24 de junio de 1971 (declarada nula por el Tribunal Supremo).
+
+Orden ministerial de 21 de septiembre de 1971 sobre prohibiciones en vehículos de servicio público de transporte de viajeros.
+
+Orden ministerial de 31 de diciembre de 1971 sobre modificación de la cuantía del canon de coincidencia para servicios discrecionales.
+
+Orden ministerial de 29 de febrero de 1972 sobre autorización para transporte de pescado fresco con carga fraccionada.
+
+Orden ministerial de 24 de marzo de 1972, regula los transportes internacionales de viajeros de carácter discrecional.
+
+Orden ministerial de 29 de marzo de 1972, modifica la Orden ministerial de 31 de diciembre de 1971 sobre transporte de pescado fresco.
+
+Orden ministerial de 29 de junio de 1972, regula el canon de coincidencia de los servicios discrecionales de mercancías.
+
+Orden ministerial de 30 de junio de 1972 sobre repercusión del canon de coincidencia en las tarifas de los servicios discrecionales de mercancías.
+
+Orden ministerial de 5 de julio de 1972 (declarada nula por el Tribunal Supremo) (establecía contingente de autorizaciones de servicio discrecional de mercancías de ámbito local).
+
+Orden ministerial de 27 de octubre de 1972 sobre autorizaciones para servicios discrecionales de transporte de viajeros.
+
+Orden ministerial de 27 de octubre de 1972 sobre modificaciones en la cuantía del canon de coincidencia para servicios discrecionales de viajeros.
+
+Orden ministerial de 27 de octubre de 1972 sobre modificación del canon de coincidencia en los servicios internacionales de viajeros.
+
+Orden ministerial de 27 de octubre de 1972 sobre declaraciones de viajes en servicios discrecionales de viajeros.
+
+Orden ministerial de 27 de octubre de 1972 sobre hijuelas y prolongaciones en servicios regulares de viajeros.
+
+Orden ministerial de 23 de diciembre de 1972 sobre canon de coincidencia para servicios discrecionales.
+
+Orden ministerial de 31 de diciembre de 1972 sobre autorizaciones para servicios públicos discrecionales de viajeros.
+
+Orden ministerial de 26 de marzo de 1973 sobre ordenación del tráfico de detalle de RENFE.
+
+Orden ministerial de 10 de abril de 1913, modifica la Orden ministerial de 26 de octubre de 1966 de exención de la obligación de tarjeta de transporte a empresas de alquiler de vehículos sin conductor.
+
+Orden ministerial de 24 de abril de 1973, de colaboración de transportistas.
+
+Orden ministerial de 29 de septiembre de 1973 sobre percepción mínima a abonar por los viajeros sin billete en líneas regulares.
+
+Orden ministerial de 23 de noviembre de 1973 sobre normas para los servicios internacionales de mercancías peligrosas.
+
+Orden ministerial de 10 de diciembre de 1973, modifica la Orden ministerial de 16 de mayo de 1950 relativa a la tarjeta de transporte.
+
+Orden ministerial de 6 de julio de 1974 sobre autorización de vehículos acondicionados para llevar automóviles.
+
+Orden ministerial de 3 de octubre de 1974, determina las condiciones para otorgar autorizaciones de servicios discrecionales de transporte público de mercancías.
+
+Orden ministerial de 3 de octubre de 1974, determina las condiciones para otorgar autorizaciones de servicios discrecionales de transporte público de viajeros.
+
+Orden ministerial de 18 de diciembre de 1974 sobre liberalización de determinados servicios de transporte internacional de viajeros y mercancías.
+
+Orden ministerial de 12 de febrero de 1975 sobre sanciones a viajeros sin billete en servicios regulares.
+
+Orden ministerial de 20 de febrero de 1975, establece distintivos de los vehículos de transporte de viajeros. Orden ministerial de 28 de viajeros, de 1975 sobre redondeo en precios de billetes de servicios públicos regulares.
+
+Orden ministerial de 7 de noviembre de 1975, regula el otorgamiento de autorizaciones de transporte de viajeros.
+
+Orden ministerial de 7 de noviembre de 1975, regula el otorgamiento de autorizaciones de transporte de mercancías.
+
+Orden ministerial de 10 de marzo de 1976, modifica las cuantías del canon de coincidencia.
+
+Orden ministerial de 10 de marzo de 1976 sobre nuevos modelos de hoja de ruta.
+
+Orden ministerial de 11 de junio de 1976 sobre moratoria para el abono del canon de coincidencia.
+
+Orden ministerial de 28 de junio de 1976 sobre otorgamiento de autorizaciones de transporte público discrecional de viajeros.
+
+Orden ministerial de 28 de junio de 1976 sobre otorgamiento de autorizaciones de transporte público discrecional de mercancías.
+
+Orden ministerial de 31 de julio de 1976 sobre nulidad del apartado 5 D de la Orden ministerial de 27 de octubre de 1972 sobre hijuelas y prolongaciones de servicios regulares de viajeros.
+
+Orden ministerial de 30 de septiembre de 1976 sobre radio de acción de las cabezas tractoras.
+
+Orden ministerial de 6 de noviembre de 1976 por la que se establece el modelo-tipo del pliego para los concursos de servicios regulares de viajeros.
+
+Orden ministerial de 28 de diciembre de 1976 sobre procedimiento para otorgamiento de autorizaciones de transporte privado de viajeros y mercancías.
+
+Orden ministerial de 29 de diciembre de 1976 sobre procedimiento para concesión de autorizaciones de transporte público discrecional de viajeros.
+
+Orden ministerial de 29 de diciembre de 1976 sobre procedimiento para concesión de autorizaciones de transporte público de mercancías.
+
+Orden ministerial de 29 de marzo de 1977, modifica el procedimiento de visado de tarjetas de transporte discrecional.
+
+Orden ministerial de 4 de agosto de 1977 sobre cuantía del canon de coincidencia.
+
+Orden ministerial de 29 de octubre de 1977 sobre normas específicas para liquidación de los déficit en servicios de transporte en Madrid y Barcelona.
+
+Orden ministerial de 16 de diciembre de 1977, modifica el Reglamento Nacional de Servicios Urbanos de Transportes en Automóviles Ligeros.
+
+Orden ministerial de 29 de diciembre de 1977 sobre procedimiento para concesión de autorizaciones de los transportes públicos discrecionales de viajeros.
+
+Orden ministerial de 29 de diciembre de 1977 sobre procedimiento para concesión de autorizaciones de transportes públicos discrecionales de mercancías.
+
+Orden ministerial de 29 de diciembre de 1977 sobre régimen de autorizaciones de los transportes discrecionales públicos y privados en Las Palmas y Santa Cruz de Tenerife.
+
+Orden ministerial de 21 de febrero de 1978, designa autoridad competente para el ADR al Subdirector general de Explotación de la Dirección General de Transportes Terrestres.
+
+Orden ministerial de 23 de junio de 1978, crea las Juntas Consultivas.
+
+Orden ministerial de 23 de junio de 1978, establece la Declaración de Porte.
+
+Orden ministerial de 29 de junio de 1978 sobre cupos sobrantes de autorizaciones de transporte de mercancías de ámbito comarcal y local.
+
+Orden ministerial de 31 de julio de 1978 sobre canon de coincidencia de vehículos extranjeros.
+
+Orden ministerial de 25 de agosto de 1978 sobre recogida de leche fresca y su transporte a los centros de conservación e industrialización.
+
+Orden ministerial de 27 de septiembre de 1978 sobre forma de entrada en vigor de la Orden ministerial de 23 de junio de 1978, que estableció la Declaración administrativa de Porte.
+
+Orden ministerial de 25 de octubre de 1978 por la que se autoriza a las empresas transportistas a repercutir en las facturas de sus clientes el importe de los peajes legalmente establecidos, cuando transporten mercancías peligrosas por autopistas.
+
+Orden ministerial de 21 de noviembre de 1978 sobre fijación de los límites de responsabilidad en el transporte de equipajes y encargos en los servicios públicos regulares de viajeros.
+
+Orden ministerial de 30 de diciembre de 1978 sobre carga y descarga de vehículos destinados al transporte de mercancías.
+
+Orden ministerial de 29 de enero de 1979 sobre comisión de estudio y definición de los servicios públicos de viajeros de largo recorrido.
+
+Orden ministerial de 14 de febrero de 1979 que deroga parcialmente la Orden ministerial de 11 de febrero de 1952.
+
+Orden ministerial de 29 de junio de 1979, regula el otorgamiento de autorizaciones de transporte público discrecional de mercancías.
+
+Orden ministerial de 29 de junio de 1979, regula el otorgamiento de autorizaciones de transporte público discrecional de viajeros.
+
+Orden ministerial de 23 de julio de 1979 sobre autorización de servicios públicos discrecionales de carga fraccionada de fruta y verduras frescas.
+
+Orden ministerial de 29 de septiembre de 1979 sobre viajeros sin billete.
+
+Orden ministerial de 24 de octubre de 1979 sobre incremento de la percepción mínima a cobrar a los viajeros desprovistos de billetes.
+
+Orden ministerial de 24 de octubre de 1979 sobre unificación de concesiones de servicios públicos regulares de transporte de viajeros por carretera.
+
+Orden ministerial de 28 de noviembre de 1979, modifica determinados preceptos referentes al canon de coincidencia.
+
+Orden ministerial de 14 de febrero de 1980, normas sobre el transporte internacional de mercancías de las empresas españolas.
+
+Orden ministerial de 27 de marzo de 1980, establece el régimen y programa para la realización de los cursos de formación específica de conductores de vehículos que transporten mercancías peligrosas.
+
+Orden ministerial de 27 de junio de 1980, regula el régimen de otorgamiento de autorizaciones de transporte de viajeros.
+
+Orden ministerial de 27 de junio de 1980, regula el otorgamiento de autorizaciones de transporte de mercancías.
+
+Orden ministerial de 2 de agosto de 1980, complementa la anterior.
+
+Orden ministerial de 27 de diciembre de 1980, regula el régimen de otorgamiento de autorizaciones de transporte de viajeros.
+
+Orden ministerial de 27 de diciembre de 1980, regula el régimen de otorgamiento de autorizaciones de transporte de mercancías.
+
+Orden ministerial de 18 de marzo de 1981 por la que se aprueban los modelos de ciertos documentos en relación con la explotación de Estaciones Centro y Despachos Centrales.
+
+Orden ministerial de 17 de julio de 1981 sobre inspección de los servicios y actividades del transporte por carretera, de competencia del Ministerio de Transportes, Turismo y Comunicaciones.
+
+Orden ministerial de 30 de noviembre de 1981, modifica la Orden ministerial de 30 de abril de 1966 sobre prestación de servicios públicos de transporte de mercancías con carga fraccionada.
+
+Orden ministerial de 30 de noviembre de 1981, aprueba el Reglamento-tipo regulador de los servicios de transporte público de mercancías por carretera con carga fraccionada.
+
+Orden ministerial de 21 de diciembre de 1981 sobre financiación de vehículos de servicios regulares de viajeros con crédito oficial.
+
+Orden ministerial de 8 de abril de 1982, suspende provisionalmente la prohibición de circular por la noche entre ciertas horas en servicios de transporte internacional de viajeros.
+
+Orden ministerial de 28 de junio de 1982, desarrolla el Real Decreto 1415/1982, de 30 de abril, sobre seguridad en transporte escolar.
+
+Orden ministerial de 28 de julio de 1982, deja sin efecto hasta el 31 de diciembre de 1982 la prohibición de circular de veintidós a cinco horas en servicios de transporte internacional de viajeros.
+
+Orden ministerial de 5 de octubre de 1982, establece normas complementarias para aplicación del Real Decreto 1415/1982, de 30 de abril, sobre seguridad en el transporte escolar.
+
+Orden ministerial de 9 de diciembre de 1982, admite el paso por la frontera de Gibraltar por razones humanitarias.
+
+Orden ministerial de 30 de junio de 1982 sobre acceso a las autorizaciones de transporte internacional de mercancías por las empresas españolas.
+
+Orden ministerial de 7 de octubre de 1983 sobre adquisición de básculas móviles de pesaje de vehículos destinadas al transporte de mercancías por carretera.
+
+Orden ministerial de 23 de diciembre de 1983, reguladora del régimen jurídico del otorgamiento, modificación y extinción de las autorizaciones de transporte público discrecional de mercancías por carretera.
+
+Orden ministerial de 23 de diciembre de 1983, reguladora del régimen jurídico del otorgamiento, modificación y extinción de las autorizaciones de transporte público discrecional de viajeros por carretera.
+
+Orden ministerial de 10 de febrero de 1984, flexibiliza las Órdenes ministeriales de los años 1969 y 1982 sobre tránsito con Gibraltar.
+
+Orden ministerial de 11 de junio de 1984 sobre financiación por crédito oficial de vehículos de transporte de viajeros y mercancías.
+
+Orden ministerial de 19 de junio de 1984 sobre normalización de situaciones.
+
+Orden ministerial de 28 de septiembre de 19834 sobre redondeo en el precio de los billetes de servicios regulares de viajeros.
+
+Orden ministerial de 24 de octubre de 1984, desarrolla el Real Decreto 1561/1984, de 18 de julio, regulador de la actividad de alquiler de automóviles sin conductor.
+
+Orden ministerial de 26 de diciembre de 1984 sobre validez a efectos de visado y canje de las autorizaciones temporales otorgadas al amparo de la Orden ministerial de 19 de junio de 1984 sobre normalización de situaciones.
+
+Orden ministerial de 27 de diciembre de 1984 por la que se suprime la declaración administrativa de porte para determinados servicios de transporte de mercancías por carretera y se suspende temporalmente la exigencia de las hojas de ruta para los mismos.
+
+Orden ministerial de 23 de mayo de 1985 sobre normalización de situaciones en materia de agencias de transporte, transitorios, cooperativas y otros, en relación con la contratación de servicios públicos discrecionales de transporte de mercancías por carretera.
+
+Orden ministerial de 27 de mayo de 1985, regula el transporte internacional de mercancías por carreteras sujeto a autorización contingentada, realizado por empresas y cooperativas españolas.
+
+Orden ministerial de 26 de agosto de 1985 por la que se autoriza la convalidación de autorizaciones de las series MR, MDF y MDFC por otras de transporte público discrecional de mercancías por carretera en régimen de carga completa.
+
+Orden ministerial de 12 de noviembre de 1985 sobre créditos subvencionados para la renovación de flota.
+
+Orden ministerial de 27 de diciembre de 1985 por la que se modifican los límites de responsabilidad y régimen del transporte de equipajes y encargos con declaración de valor de las concesiones de servicios públicos regulares de viajeros por carretera, y las percepciones a cobrar a los viajeros que no vayan provistos del correspondiente billete.
+
+Orden ministerial de 27 de enero de 1986 sobre prestación de transporte público de mercancías con autorizaciones de transporte de la serie DC.
+
+Orden ministerial de 21 de febrero de 1986 que suspende la tramitación de peticiones de autorizaciones de transporte público de mercancías de carga fraccionada.
+
+Orden ministerial de 8 de abril de 1986 sobre asignación de autorizaciones del contingente comunitario para el transporte internacional de mercancías.
+
+Orden ministerial de 28 de mayo de 1986 que modifica y complementa la Orden ministerial de 23 de diciembre de 1983 de régimen jurídico de otorgamiento de autorizaciones de mercancías.
+
+Orden ministerial de 23 de julio de 1986, por la que se introducen modificaciones y queda en suspenso temporalmente el punto 9 del artículo 5 de la Orden ministerial de 23 de diciembre de 1983 sobre régimen jurídico de otorgamiento de autorizaciones de transporte público de mercancías.
+
+Orden ministerial de 28 de enero de 1987 sobre el libro de reclamaciones de servicios de transporte público.
+
+Orden ministerial de 23 de diciembre de 1987, sobre ejecución de sanciones de precintado de vehículos y clausura de locales.
+
+Orden ministerial de 21 de abril de 1988 que regula las pruebas para la obtención del certificado de capacitación para el ejercicio de las profesiones de transportistas, agencias de transporte, transitario y almacenista-distribuidor.
+
+Orden ministerial de 23 de mayo de 1988 sobre cumplimiento y reconocimiento de la capacitación profesional y de otros requisitos exigibles para el ejercicio de las actividades de transportista, de agencia de transporte, transitario y de almacenista-distribuidor.
+
+Orden ministerial de 30 de septiembre de 1988 por la que se aprueba el modelo oficial de certificado de capacitación profesional para las actividades de transportista, agencia de transporte, transitario y almacenista distribuidor.
+
+2\. Normas reguladoras del transporte por ferrocarril que quedan derogadas:
+
+A) Decretos y Reales Decretos:
+
+Real Decreto de 29 de abril de 1853, examen de expedientes.
+
+Real Decreto de 14 de julio de 1854, interrupción de servidumbres y caminos para la construcción de ferrocarriles.
+
+Real Decreto de 15 de febrero de 1856, pliego de condiciones generales para la concesión de ferrocarriles.
+
+Real Decreto de 11 de marzo de 1857, divisiones para el servicio ferroviario.
+
+Real Decreto de 13 de febrero de 1866, carácter de la concesión.
+
+Real Decreto de 19 de enero de 1872, divisiones e inspección.
+
+Decreto de 29 de mayo de 1873, inspección y vigilancia.
+
+Decreto de 4 de octubre de 1873, velocidades de los trenes.
+
+Real Decreto de 30 de junio de 1876, velocidades de los trenes.
+
+Real Decreto de 6 de julio de 1877, inspección y vigilancia administrativa.
+
+Real Decreto de 24 de mayo de 1878, Reglamento de la Ley General de Ferrocarriles.
+
+Capítulos I, II, IX y X del Real Decreto de 8 de septiembre de 1878, Reglamento de Policía de Ferrocarriles.
+
+Real Decreto de 8 de agosto de 1882, rebajas a los braceros.
+
+Real Decreto de 18 de julio de 1889, nuevas bases sobre la inspección.
+
+Real Decreto de 24 de marzo de 1891, Reglamento de transporte de mercancías inflamables.
+
+Real Decreto de 19 de agosto de 1891, conducción de correo y servicio telegráfico.
+
+Real Decreto de 1 de septiembre de 1895, inspección administrativa e intervención del Estado.
+
+Real Decreto de 15 de septiembre de 1895, Reglamento para la Intervención del Estado.
+
+Real Decreto de 7 de junio de 1898, transporte de correo.
+
+Real Decreto de 14 de agosto de 1899, reorganiza la inspección.
+
+Real Decreto de 15 de diciembre de 1899, concesiones y obras de tranvías eléctricos.
+
+Real Decreto de 15 de febrero de 1901, abandono del servicio por los agentes.
+
+Real Decreto de 15 de mayo de 1907, traslado de dementes.
+
+Real Decreto de 20 de marzo de 1908, tranvías.
+
+Real Decreto de 17 de junio de 1910, fianzas en las subastas de tranvías.
+
+Real Decreto de 12 de agosto de 1912, Reglamento de Ferrocarriles Secundarios y Estratégicos.
+
+Real Decreto de 4 de octubre de 1912, Reglamento de Ferrocarriles.
+
+Real Decreto de 5 de mayo de 1913, conducción de presos.
+
+Real Decreto de 17 de junio de 1913, subastas de las concesiones de tranvías.
+
+Real Decreto de 22 de septiembre de 1917, resguardos nominativos garantía de interés en los ferrocarriles secundarios y estratégicos.
+
+Real Decreto de 9 de marzo de 1917, medidas para acrecentar el material.
+
+Real Decreto de 22 de septiembre de 1917, reglamentación del artículo 17 de la Ley de 23 de febrero de 1912, que modificaba la Ley de Ferrocarriles Secundarios y Estratégicos.
+
+Real Decreto de 1 de diciembre de 1917, requisición y estadística.
+
+Real Decreto de 13 de diciembre de 1917, facturación de carbones.
+
+Real Decreto de 21 de diciembre de 1917, intervención del Estado en las fábricas que construyen material ferroviario.
+
+Real Decreto de 10 de enero de 1918, retraso injustificado de los trenes de mercancías.
+
+Real Decreto de 15 de febrero de 1918 para descongestionar el tráfico.
+
+Real Decreto de 15 de febrero de 1918, tráfico de mercancías en las zonas próximas a las costas.
+
+Real Decreto de 14 de marzo de 1918, ferrocarriles para el servicio de las cuencas carboníferas.
+
+Real Decreto de 28 de junio de 1918, parcelas segregadas de vías férreas.
+
+Real Decreto de 5 de septiembre de 1918, abastecimiento de aguas para ferrocarriles.
+
+Real Decreto de 29 de septiembre de 1918, interventores del Estado.
+
+Real Decreto de 16 de octubre de 1918, velocidad de los tranvías.
+
+Real Decreto de 16 de enero de 1919, inspección administrativa y mercantil.
+
+Real Decreto de 30 de junio de 1919, explotación en caso de movilización.
+
+Real Decreto de 5 de julio de 1920, inspección de ferrocarriles.
+
+Real Decreto de 14 de mayo de 1921, supresión de restricciones para la facturación de mercancías entre zonas próximas a las costas.
+
+Real Decreto de 13 de noviembre de 1922, atribuye facultad sancionadora al M. O. P.
+
+Real Decreto de 11 de diciembre de 1924, facturación de moluscos.
+
+Real Decreto de 25 de diciembre de 1925, competencia en materia de tarifación.
+
+Real Decreto de 24 de abril de 1926, régimen de tarifas.
+
+Real Decreto de 12 de febrero de I927, Delegaciones Especiales de Transporte.
+
+Real Decreto de 1 de abril de 1927, subrogación de los municipios en lugar del Estado para las reversiones.
+
+Real Decreto de 5 de septiembre de 1927, equipajes de los trenes.
+
+Real Decreto de 22 de junio de 1928, clasifica los pasos a nivel y acuerda la supresión gradual de guardería de los mismos.
+
+Real Decreto de 22 de febrero de 1929, autoriza la construcción y explotación de bienes de ferrocarril de interés local.
+
+Real Decreto de 22 de diciembre de 1930, alta inspección de las líneas de tranvías.
+
+Decreto de 22 de junio de 1932, inspección.
+
+Decreto de 2I de julio de 1932, Reglamento para la inspección administrativa y mercantil.
+
+Decreto de 27 de septiembre de 1932, establece Comisarías del Estado.
+
+Decreto de 19 de octubre de 1932, aprueba el Reglamento para el funcionamiento de las Comisarías creadas por Decreto de 27 de septiembre de 1932.
+
+Decreto de 2 febrero de 1933, Reglamento de las Juntas de Detasas.
+
+Decreto de 19 de julio de 1934, concesiones de transporte por carretera de clase A) a las compañías ferroviarias.
+
+Decreto de 4 de diciembre de 1934, recepción parcial de obras en construcción.
+
+Decreto de 21 de marzo de 1935, pases de circulación.
+
+Decreto de 26 de marzo de 1935, facultades en orden a expropiación.
+
+Decreto de 2 de julio de 1935, pases de libre circulación y billetes.
+
+Decreto de 24 de febrero de 1936, líneas automóviles.
+
+Decreto de 22 de junio de 1936, Reglamento del Consejo de Obras Públicas e Inspecciones.
+
+Decreto de 25 de agosto de 1938, Reglamento para Régimen de las Grandes Compañías.
+
+Decreto de 13 de octubre de 1938, pases gratuitos y billetes reducidos.
+
+Decreto de 8 de septiembre de 1939, aprueba el Reglamento de la Junta Superior de Ferrocarriles.
+
+Decreto de 14 de marzo de 1941, crea la Comisaría del Material Ferroviario.
+
+Decreto de 31 de marzo de 1941, ordena la constitución de la Delegación de la Ordenación del Transporte.
+
+Decreto de 31 de mayo de 1941, aprueba el Reglamento de la Comisaría del Material Ferroviario.
+
+Decreto de 11 de julio de 1941, organiza la RENFE.
+
+Decreto de 14 de julio de 1941, modifica el Consejo de Administración de RENFE.
+
+Decreto de 4 de diciembre de 1941, modifica el Consejo de Administración de RENFE.
+
+Decreto de 6 de diciembre de 1941 aprueba el Reglamento de la Junta Superior de Ferrocarriles y Transporte por Carretera.
+
+Decreto de 30 de diciembre de 1941, utilización del material de los ferrocarriles de vía estrecha.
+
+Decreto de 21 de febrero de 1942, Reglamento de la Federación de Compañías de Ferrocarriles de Vía Estrecha.
+
+Decreto de 8 de mayo de 1942, regula la inspección e intervención de los ferrocarriles.
+
+Decreto de 20 de octubre de 1942, amplía el Decreto de 13 de octubre de 1938, pases gratuitos y billetes reducidos.
+
+Decreto de 18 de junio de 1943, modifica la Junta Superior de Ferrocarriles y Transportes por Carretera.
+
+Decreto de 23 de julio de 1943, preferencia de materiales para la construcción de ferrocarriles.
+
+Decreto de 30 de diciembre de 1944, simplificación y aumento de tarifas de RENFE.
+
+Decreto de 11 de abril de 1945, simplificación y aumento de tarifas en los ferrocarriles de vía estrecha.
+
+Decreto de 19 de octubre de 1945, dependencia y atribuciones de la Comisaría del Material Ferroviario.
+
+Decreto de 14 de diciembre de 1945, ordenación de las tarifas de RENFE.
+
+Decreto de 28 de diciembre de 1945, crea el Consejo Superior de Ferrocarriles y Transportes por Carretera.
+
+Decreto de 11 de enero de 1946, Vocal del Ministerio de Trabajo en el Consejo Superior de Ferrocarriles y Transportes por Carretera.
+
+Decreto de 8 de febrero de 1946, modifica el Decreto de 28 de diciembre de 1941, Consejo Superior de Ferrocarriles y Transportes por Carretera.
+
+Decreto de 15 de marzo de 1946, facultades de los Ingenieros de las Divisiones.
+
+Decreto de 31 de mayo de 1946, viajes gratuitos del personal de la Guardia Civil y Cuerpo General de Policía.
+
+Decreto de 17 de mayo de 1946, autoriza a los ferrocarriles de vía estrecha a implantar la nomenclatura, clasificación de mercancías, cuadros de gastos accesorios y condiciones de aplicación de las tarifas de RENFE.
+
+Decreto de 9 de octubre de 1946, normas para el transporte en vagones particulares.
+
+Decreto de 18 de octubre de 1946, denominación de la Junta de Estudios y Enlaces Ferroviarios.
+
+Decreto de 17 de enero de 1947, reorganiza la RENFE, excepto los artículos 27, 31 y 46.
+
+Decreto de 24 de octubre de I947, limita el disfrute de los vagones particulares.
+
+Decreto de 5 de diciembre de 1947, competencia en materia de sanciones de la Comisaría del Material Ferroviario.
+
+Decreto de 29 de octubre de 1948, modifica el Comité de Gerencia de RENFE.
+
+Decreto de 20 de enero de 1950, aprobación de proyectos de modificación y ampliación de ferrocarriles.
+
+Decreto de 22 de diciembre de 1950, pasos a nivel.
+
+Decreto de 5 de febrero de 1953, ejecución de las sentencias de las Juntas de Detasas.
+
+Decreto de 13 de marzo de 1953, suministro de traviesas para ferrocarriles.
+
+Decreto 475/1959, de 2 de abril, sanción a los viajeros sin billete.
+
+Decreto 564/1959, de 9 de abril, desinsectación de locales y vehículos de transporte.
+
+Decreto 1032/1959, de 27 de julio, modifica los coeficientes de corrección de las tarifas de RENFE.
+
+Decreto 1803/1959, de 15 de octubre, suprime la Comisaría del Material Ferroviario.
+
+Decreto 16/1960, de 14 de enero, autoriza a RENFE a establecer tarifas especiales, reducidas, eventuales y transitorias.
+
+Decreto 111/1960, de 28 de enero, modifica la Composición del Consejo Superior de Ferrocarriles y Transportes por Carretera.
+
+Decreto 232/1963, de 7 de febrero, funcionamiento y organización de la Delegación del Gobierno en RENFE.
+
+Decreto 2408/1962, de 20 de septiembre, revisión de normas de supresión de pasos a nivel.
+
+Decreto de 26 de diciembre de 1963, reorganiza el Consejo Superior de Ferrocarriles y Transportes por Carretera con la nueva denominación de Consejo Superior de Transportes Terrestres.
+
+Decreto de 2 de julio de 1964, amplía la composición del Consejo Superior de Transportes Terrestres.
+
+Decreto 3439/1964, de 22 de octubre, transporte de la correspondencia pública por RENFE.
+
+Decreto 3233/1964, de 28 de octubre, modifica el Decreto de 26 de diciembre de 1963, de creación del Consejo Superior de Transportes Terrestres.
+
+Decreto 4109/1964, de 17 de diciembre, organización y funciones de la Delegación del Gobierno en RENFE.
+
+Decreto 2927/1965, de 24 de septiembre, Estatuto de FEVE.
+
+Decreto 1479/1966, de 2 de junio, amplía la composición del Consejo Superior de Transportes Terrestres.
+
+Decreto 1820/1967, de 20 de julio, tabla de disposiciones vigentes en materias reguladas por el Estatuto de RENFE.
+
+Decreto 3067/1968, de 28 de noviembre, ordenación del tráfico de detalle en RENFE.
+
+Decreto 909/1969, de 9 de mayo, reestructura la Delegación del Gobierno en RENFE.
+
+Decreto 913/1969, de 8 de mayo, reorganiza el Consejo Superior de Transportes Terrestres.
+
+Decreto de 22 de febrero de 1973, estructura del Consejo Superior de Transportes Terrestres.
+
+Real Decreto 2422/1978, de 25 de agosto, revisa las normas sobre pasos a nivel.
+
+Real Decreto 931/1979, de 4 de abril, estructura y funciones del Instituto de Estudios de Transportes y Comunicaciones.
+
+Real Decreto 2630/1979, de 28 de septiembre, sanciones por uso injustificado de aparatos de alarma.
+
+Real Decreto 2905/1980, de 30 de diciembre, modifica el Real Decreto 931/1979, de 4 de abril, sobre estructura y funciones del Instituto de Estudios de Transportes y comunicaciones.
+
+B) Quedan derogadas, asimismo, las siguientes Órdenes ministeriales.
+
+Real Orden de 27 de mayo de 1856, proyectos de ferrocarriles.
+
+Real Orden de 4 de septiembre de 1860, causas por accidente.
+
+Real Orden de 10 de enero de 1863, sobre transportes, plazos y horas de despacho.
+
+Real Orden de 24 de enero de 1863, objetos olvidados,
+
+Real Orden de 26 de agosto de 1863, vigilancia por los Alcaldes.
+
+Real Orden de 27 de octubre de 1863, efectos deteriorados o extraviados.
+
+Real Orden de 18 de octubre de 1864, evitación de siniestros.
+
+Real Orden de 22 de abril de 1865, obliga a expedir billetes y admitir efectos por las líneas de enlace.
+
+Real Orden de 19 de agosto de 1865, faltas cometidas en los transportes.
+
+Real Orden de 2 de octubre de 1865, billetes para niños.
+
+Real Orden de 9 de enero de 1868, calefacción en los trenes.
+
+Orden ministerial de 21 de enero de 1869, tarifas especiales en casos de urgencia.
+
+Orden ministerial de 15 de febrero de 1869, obras de mejora y ampliación.
+
+Orden ministerial de 9 de marzo de 1869, pasos a nivel.
+
+Orden ministerial de 20 de mayo de 1869, trenes especiales.
+
+Orden ministerial de 20 de mayo de 1869, apeaderos.
+
+Orden ministerial de 28 de octubre de 1869, billetes de niños.
+
+Real Orden de 26 de abril de 1871, conducción de caudales.
+
+Real Orden de 1 de junio de 1871, carácter de los resguardos talonarios.
+
+Real Orden de 26 de julio de 1871, organización de trenes y conducción del correo.
+
+Real Orden de 19 de enero de 1872, transporte de locos y enfermos.
+
+Real Orden de 9 de febrero de 1872, pago de portes.
+
+Real Orden de 23 de mayo de 1872, concesiones y dominio público.
+
+Real Orden de 8 de agosto de 1872, materias inflamables.
+
+Real Orden de 23 de agosto de 1872, hierbas en las vías.
+
+Real Orden de 5 de septiembre de 1872, máquinas exploradoras.
+
+Orden ministerial de 24 de marzo de 1873, compañías en combinación.
+
+Orden ministerial de 28 de marzo de 1873, inspección facultativa.
+
+Orden ministerial de 9 de abril de 1873, inspección de Sociedades ferroviarias.
+
+Orden ministerial de 29 de mayo de 1873, tranvías.
+
+Orden ministerial de 29 de mayo de 1873, inspección y vigilancia.
+
+Real Orden de 24 de agosto de 1875, contravenciones.
+
+Real Orden de 20 de septiembre de 1875, contravenciones.
+
+Real Orden de 31 de marzo de 1880, crea una inspección especial.
+
+Real Orden de 27 de julio de 1880, embargos y retención de mercancías.
+
+Real Orden de 7 de junio de 1881, locomotoras con ténder delante.
+
+Real Orden de 30 de junio de 1881, prevención de incendios.
+
+Real Orden de 26 de mayo de 1884, derechos de tanteo en tranvías.
+
+Real Orden de 10 de febrero de 1885, transporte gratuito de jornaleros.
+
+Real Orden de 8 de enero de 1886, atribución de competencias a tos Gobernadores Civiles en materia de policía.
+
+Real Orden de 2 de agosto de 1887, devolución del importe del billete por haber obligado a viajar en clase inferior.
+
+Real Orden de 19 de julio de 1888, enajenación de terrenos sobrantes.
+
+Real Orden de 27 de julio de 1888, multas por retraso.
+
+Real Orden de 15 de enero de 1889, telegramas oficiales.
+
+Real Orden de 7 de marzo de 1889, vigencia de cuadros de marcha.
+
+Real Orden de 11 de marzo de 1889, carruajes de lujo.
+
+Real Orden de 26 de agosto de 1889, derecho de entrada de los inspectores en las estaciones y dependencias.
+
+Real Orden de 14 de septiembre de 1889, gastos de inspección.
+
+Real Orden de 14 de mayo de 1891, vigilancia.
+
+Real Orden de 29 de julio de 1891, atribuciones a los ingenieros de las divisiones.
+
+Real Orden de 23 de abril de 1893, tramos metálicos.
+
+Real Orden de 13 de julio de 1895, discos.
+
+Real Orden de 23 de octubre de 1895, inspección del Gobierno.
+
+Real Orden de 18 de enero de 1896, transportes militares.
+
+Real Orden de 13 de mayo de 1897, tarifas de los billetes de andén e inversión de su producto.
+
+Real Orden de 26 de agosto de 1899, Reglamento del servicio de inspección y vigilancia.
+
+Real Orden de 31 de octubre de 1899, competencia para la inspección técnica de los tranvías económicos.
+
+Real Orden de 20 de diciembre de 1899, circulación de los inspectores.
+
+Real Orden de 13 de noviembre de 1900, material para el tráfico.
+
+Real Orden de 30 de noviembre de 1900, carga y descarga.
+
+Real Orden de 5 de diciembre de 1900, revisión de tarifas.
+
+Real Orden de 24 de enero de 1901, revisión de trozos metálicos.
+
+Real Orden de 1 de abril de 1901, tranvías eléctricos.
+
+Real Orden de 31 de octubre de 1901, funciones fiscales de las divisiones.
+
+Real Orden de 30 de diciembre de 1901, ferrocarriles mineros.
+
+Real Orden de 1 de febrero de 1902, retraso de ferrocarriles mixtos.
+
+Real Orden de 7 de febrero de 1902, Precios de transporte.
+
+Real Orden de 25 de febrero de 1902, instrucción para puentes metálicos.
+
+Real Orden de 7 de octubre de 1902, para aplicar tarifas especiales.
+
+Real Orden de 12 de mayo de 1903, mercancías a gran velocidad y coches de tercera.
+
+Real Orden de 5 de octubre de 1903, tranvías.
+
+Real Orden de 22 de enero de 1904, interventores del Estado.
+
+Real Orden de 1 de julio de 1904, concesión de unificación del material.
+
+Real Orden de 7 de octubre de 1904, tracción eléctrica.
+
+Real Orden de 1 de diciembre de 1905, cuestión de transportes.
+
+Real Orden de 1 de diciembre de 1905, inspección de tranvías.
+
+Real Orden de 1 de marzo de 1906, prohíbe la venta de billetes fuera de las estaciones y agencia de las compañías.
+
+Real Orden de 11 de octubre de 1906, proyectos de tarifas especiales.
+
+Real Orden de 9 de febrero de 1907, substracciones en transportes.
+
+Real Orden de 12 de noviembre de 1907, tarifas especiales.
+
+Real Orden de 4 de enero de 1908, velocidades.
+
+Real Orden de 17 de febrero de 1908, instalaciones eléctricas, servidumbre de ferrocarriles.
+
+Real Orden de 24 de febrero de 1908, inspección y vigilancia.
+
+Real Orden de 8 de octubre de 1908, condiciones del talón de transporte.
+
+Real Orden de 10 de octubre de 1908, responsabilidad de las compañías en las substracciones.
+
+Real Orden de 22 de noviembre de 1908, inspección.
+
+Real Orden de 15 de junio de 1909, coches celulares vacíos.
+
+Real Orden de 7 de noviembre de 1909, deslinde de responsabilidades.
+
+Real Orden de 29 de noviembre de 1909, deslinde de responsabilidades.
+
+Real Orden de 18 de mayo de 1910, contratación y depósito de mercancías, tarifas de almacenaje.
+
+Real Orden de 9 de noviembre de 1910, inspección del material.
+
+Real Orden de 19 de noviembre de 1913, servicio de rectificación de portes.
+
+Real Orden de 2 de diciembre de 1913, transportes de piedra para obras del Estado.
+
+Real Orden de 3 de febrero de 1914, servicios sanitarios e higiénicos.
+
+Real Orden de 6 de abril de 1914, proyectos de tarifas especiales de transporte de mercancías.
+
+Real Orden de 5 de febrero de 1915, plazos para verificar los transportes.
+
+Real Orden de 24 de abril de 1915, espera en trenes en combinación.
+
+Real Orden de 20 de noviembre de 1915, desinfección de vagones de ganado.
+
+Real Orden de 18 de agosto de 1916, movilización del material de transporte de carbón.
+
+Real Orden de 3 de noviembre de 1916, medidas para evitar paralizaciones del material.
+
+Real Orden de 17 de noviembre de 1916, prohíbe las facturaciones a la orden y al portador y señala los tipos de percepción por almacenaje.
+
+Real Orden de 13 de enero de 1917, limita la reexpedición de mercancías.
+
+Real Orden de 19 de enero de 1917, adquisición de material.
+
+Real Orden de 10 de marzo de 1917, transportes preferentes.
+
+Real Orden de 12 de marzo de 1917, medidas para acrecentar el material.
+
+Real Orden de 24 de abril de 1917, transporte de carbón.
+
+Real Orden de 1 de mayo de 1917, aprovechamiento del material móvil.
+
+Real Orden de 9 de mayo de 1917, venta de mercancías facturadas.
+
+Real Orden de 11 de mayo de 1917, instrucciones para subastas.
+
+Real Orden de 22 de mayo de 1917, tiempos de transporte para mercancías.
+
+Real Orden de 1 de junio de 1917, para regular e intensificar el tráfico.
+
+Real Orden de 8 de junio de 1917, infracciones cometidas por las compañías.
+
+Real Orden de 25 de junio de 1917, para regular e intensificar el tráfico.
+
+Real Orden de 4 de julio de 1917, transporte de carbones.
+
+Real Orden de 6 de agosto de 1917, transporte de carbón.
+
+Real Orden de 18 de agosto de 1917, materiales inútiles de hierro y acero.
+
+Real Orden de 30 de agosto de 1917, transporte de carbón.
+
+Real Orden de 19 de septiembre de 1917, transporte de carbones.
+
+Real Orden de 26 de noviembre de 1917, formalidades de los talones de transporte.
+
+Real Orden de 15 de diciembre de 1917, derechos de estadía de vagones y repeso de mercancías.
+
+Real Orden de 27 de diciembre de 1917, limitación temporal de los servicios.
+
+Real Orden de 4 de febrero de 1918, facturación de mercancías con destino a poblaciones que tengan varias estaciones.
+
+Real Orden de 3 de julio de 1918, facturación por las personas obligadas a suministros.
+
+Real Orden de 17 de julio de 1918, ferrocarriles secundarios con Caja de Emisión.
+
+Real Orden de 11 de octubre de 1918, formalidades para la emisión de obligaciones y cédulas sobre anualidades.
+
+Real Orden de 23 de octubre de 1918, transporte de remolacha.
+
+Real Orden de 26 de octubre de 1918, tráfico de naranjas.
+
+Real Orden de 6 de noviembre de 1918, transporte de remolacha.
+
+Real Orden de 8 de noviembre de 1918, causas por accidentes.
+
+Real Orden de 11 de enero de 1919, tráfico de carbones.
+
+Real Orden de 5 de febrero de 1919, derechos de almacenaje y paralización del material.
+
+Real Orden de 18 de febrero de 1919, derechos de almacenaje y paralización del material.
+
+Real Orden de 7 de marzo de 1919, derechos de almacenaje y paralización del material.
+
+Real Orden de 12 de marzo de 1919, derechos de almacenaje y paralización del material.
+
+Real Orden de 7 de mayo de 1919, competencia para reglamentar la explotación de ferrocarriles.
+
+Real Orden de 8 de septiembre de 1919, recargo de tarifas.
+
+Real Orden de 26 de noviembre de 1919, aumento del material carril y de tracción.
+
+Real Orden de 20 de septiembre de 1920, transporte de pescado fresco en hielo.
+
+Real Orden de 29 de octubre de 1920, venta de mercancías y derechos de almacenaje y estadía de vagones.
+
+Real Orden de 30 de noviembre de 1920, derechos de almacenaje de mercancías y estadía de vagones.
+
+Real Orden de 23 de noviembre de 1920, distribución de vagones y prorrateo del material de carga.
+
+Real Orden de 9 de mayo de 1921, facturación de mercancías.
+
+Real Orden de 30 de julio de 1921 concede preferencia a los transportes militares.
+
+Real Orden de 1 de septiembre de 1921, expediciones muy preferentes.
+
+Real Orden de 28 de octubre de 1921, transportes preferentes.
+
+Real Orden de 9 de diciembre de 1921, transporte preferente de mercancías.
+
+Real Orden de 14 de diciembre de 1921, recargo de almacenaje y estadía de vagones.
+
+Real Orden de 20 de febrero de 1922, transporte de pescado.
+
+Real Orden de 22 de febrero de 1922, transporte de ganado y de carnes frescas.
+
+Real Orden de 13 de marzo de 1922, derechos por paralizaciones de vagones.
+
+Real Orden de 23 de marzo de 1922, plazo de expedición, transporte, transmisión y entrega de mercancías.
+
+Real Orden de 16 de septiembre de 1922, Reglamento provisional de oficinas ambulantes.
+
+Real Orden de 13 de noviembre de 1922, multas a concesionarios o arrendatarios.
+
+Real Orden de 13 de enero de 1923, plazos de las expediciones de gran velocidad.
+
+Real Orden de 25 de febrero de 1923, intensifica la labor inspectora.
+
+Real Orden de 10 de octubre de 1923, consultas e información pública sobre régimen ferroviario.
+
+Real Orden de 10 de noviembre de 1923, anulando pases de libre circulación.
+
+Real Orden de 17 de noviembre de 1923, pases gratuitos.
+
+Real Orden de 24 de noviembre de 1923, pases gratuitos.
+
+Real Orden de 11 de diciembre de 1923, pases gratuitos.
+
+Real Orden de 13 de febrero de 1924, transporte preferente de mercancías.
+
+Real Orden de 28 de marzo de 1924, pases gratuitos.
+
+Real Orden de 26 de abril de 1924, plazos reglamentarios de transporte.
+
+Real Orden de 6 de mayo de 1924, casos en que no es exigible a los remitentes la guía de origen y sanidad.
+
+Real Orden de 6 de mayo de 1924, embarque de ganado.
+
+Real Orden de 25 de junio de 1924, facultad de los Ayuntamientos para intervenir ciertas obras en terrenos de las compañías.
+
+Real Orden de 30 de septiembre de 1924, desarrolla el Estatuto Ferroviario.
+
+Real Orden de 15 de diciembre de 1924, concesión de tranvías por los Ayuntamientos.
+
+Real Orden de 6 de julio de 1925, aprueba el Reglamento Sanitario de las Vías Férreas.
+
+Real Orden de 10 de septiembre de 1925, facturaciones de verduras frescas y hortalizas destinadas a la exportación.
+
+Real Orden de 15 de octubre de 1926, facultad de los Ayuntamientos para intervenir ciertas obras en terrenos, de las compañías.
+
+Real Orden de 17 de febrero de 1927, enajenación de materiales inútiles.
+
+Real Orden de 5 de marzo de 1927, plazos reglamentarios de transporte.
+
+Real Orden de 23 de marzo de 1928, inspección de los tranvías urbanos e interurbanos.
+
+Real Orden de 24 de marzo de 1928, plazo para la descarga de mercancías.
+
+Real Orden de 12 de mayo de 1928, suprime los plazos reglamentarios de transporte de carácter extraordinario.
+
+Real Orden de 26 de junio de 1928, señalización de pasos a nivel.
+
+Real Orden de 15 de agosto de 1928, subrogación de los municipios en lugar del Estado para las reversiones.
+
+Real Orden de 9 de marzo de 1928, depósito provisional para los concursos o subastas de ferrocarriles,
+
+Real Orden de 21 de diciembre de 1929, pasos a nivel.
+
+Real Orden de 1 de abril de 1930, pases de alta inspección.
+
+Real Orden de 21 de abril de 1930, normas para el cruce de coches por pasos a nivel.
+
+Orden ministerial de 23 de abril de 1931, pases de circulación.
+
+Orden ministerial de 20 de mayo de 1931, pases de circulación.
+
+Orden ministerial de 3 de junio de 1931, pases de circulación.
+
+Orden ministerial de 30 de julio de 1931, proyectos de mejora de instalación de ferrocarriles.
+
+Orden ministerial de 27 de octubre de 1931, remisión de los productos por sus fabricantes.
+
+Orden ministerial de 25 de febrero de 1932, informes sobre detasas.
+
+Orden ministerial de 10 de marzo de 1932, instrucciones a los interventores.
+
+Orden ministerial de 7 de noviembre de 1932, horas de facturación.
+
+Orden ministerial de 16 de noviembre de 1932, autoriza la modificación de los horarios de facturación.
+
+Orden ministerial de 8 de diciembre de 1932, sistema administrativo y explotación de las compañías.
+
+Orden ministerial de 18 de agosto de 1933, seguros en billetes de ida y vuelta.
+
+Orden ministerial de 2 de marzo de 1934, plazas de transporte en gran velocidad.
+
+Orden ministerial de 6 de marzo de 1934, reglas para facilitar los transportes.
+
+Orden ministerial de 11 de abril de 1934, normas para la recepción de obras de explanación, fábrica y túneles.
+
+Decreto de 20 de septiembre de 1934, pasos a nivel.
+
+Orden ministerial de 23 de agosto de 1934, normas para encargarse el Estado de la explotación de ferrocarriles.
+
+Orden ministerial de 12 de marzo de 1935, adquisición de material de industrias españolas.
+
+Orden ministerial de 15 de marzo de 1935, adquisición de automotores.
+
+Orden ministerial de 28 de marzo de 1935, revisión en ruta de pases de circulación.
+
+Orden ministerial de 2 de mayo de 1935, billetes de niños.
+
+Orden ministerial de 29 de julio de 1935, servidumbres eléctricas.
+
+Orden ministerial de 25 de noviembre de 1935, concesión de pases y billetes gratuitos.
+
+Orden ministerial de 6 de diciembre de 1935, concesiones de líneas automóviles de la clase A.
+
+Orden ministerial de 28 de enero de 1936, dispositivos de seguridad en los pasos a nivel.
+
+Orden ministerial de 20 de marzo de 1936, sobre automotores.
+
+Orden ministerial de 5 de junio de 1936, cumplimiento del Decreto de 2 de julio de 1935 sobre pases de libre circulación.
+
+Orden ministerial de 15 de septiembre de 1936, subasta de mercancías detenidas.
+
+Orden ministerial de 26 de septiembre de 1936, normas para la subasta de las mercancías detenidas.
+
+Orden ministerial de 7 de abril de 1937, impulsando el tráfico ferroviario.
+
+Orden ministerial de 15 de julio de 1937, derechos de paralización y almacenaje.
+
+Orden ministerial de 23 de julio de 1937, adquisición de automotores.
+
+Orden ministerial de 9 de diciembre de 1937, normas para ejecución de obras.
+
+Orden ministerial de 16 de diciembre de 1938, pases gratuitos y billetes reducidos.
+
+Orden ministerial de 28 de diciembre de 1938, Reglamento de la Junta de Detasas.
+
+Orden ministerial de 29 de mayo de 1939, complementa la Orden ministerial de 28 de diciembre de 1938 sobre Juntas de Detasas.
+
+Orden ministerial de 10 de julio de 1939, necesidad de autorización para la adquisición de material móvil.
+
+Orden ministerial de 7 de septiembre de 1939, reclamaciones a las compañías.
+
+Orden ministerial de 29 de septiembre de 1939, modifica el Reglamento de las Juntas de Detasas.
+
+Orden ministerial de 23 de noviembre de 1939, inspección de tranvías.
+
+Orden ministerial de 30 de noviembre de 1939, multas a las compañías ferroviarias.
+
+Orden ministerial de 15 de diciembre de 1939, pases gratuitos y billetes reducidos.
+
+Orden ministerial de 10 de enero de 1940, descarga urgente de mercancías.
+
+Orden ministerial de 11 de enero de 1940, utilización de vagones abiertos.
+
+Orden ministerial de 7 de febrero de 1940, utilización de vagones de techo malo y abiertos.
+
+Orden ministerial de 17 de febrero de 1940, autoriza el limite de facturaciones al detalle.
+
+Orden ministerial de 21 de febrero de 1940, autoriza la subasta de mercancías sobre vagón.
+
+Orden ministerial de 30 de marzo de 1940, suspende determinadas facturaciones con empalme.
+
+Orden ministerial de 3 de abril de 1940, reduce los plazos de la Orden ministerial de 21 de febrero de 1940 para la subasta de mercancías.
+
+Orden ministerial de 10 de mayo de 1940, clasifica los transportes por ferrocarril.
+
+Orden ministerial de 28 de mayo de 1940, deroga la exención de derechos de paralización de los transportes militares.
+
+Orden ministerial de 4 de junio de 1940, incluye los abonos entre las mercancías preferentes.
+
+Orden ministerial de 4 de julio de 1940, facturaciones de mercancías para apartaderos particulares.
+
+Orden ministerial de 8 de julio de 1940, suministro de carbón.
+
+Orden ministerial de 10 de julio de 1940, complementa la Orden ministerial de 8 de julio de 1940 sobre suministro de carbón.
+
+Orden ministerial de 17 de julio de 1940, normas para el transporte de carbón.
+
+Orden ministerial de 13 de agosto de 1940, régimen de los vagones carboneros.
+
+Orden ministerial de 14 de agosto de 1940, pases gratuitos y billetes reducidos.
+
+Orden ministerial de 30 de septiembre de 1940, alta inspección de los tranvías.
+
+Orden ministerial de 31 de octubre de 1940, normas para el transporte de arroz por ferrocarril.
+
+Orden ministerial de 5 de noviembre de 1940, regula las facturaciones de carbón.
+
+Orden ministerial de 7 de noviembre de 1940, parque móvil mancomunado.
+
+Orden ministerial de 7 de noviembre de 1940, cobro en domingo de derechos de paralización y almacenaje de mercancías.
+
+Orden ministerial de 28 de noviembre de 1940, normas para transportes preferentes.
+
+Orden ministerial de 28 de noviembre de 1940, prioridad de carga de carbón para su consumo en los ferrocarriles.
+
+Orden ministerial de 3 de diciembre de 1940, reorganización de las Delegaciones Especiales de Transportes.
+
+Orden ministerial de 19 de diciembre de 1940, transbordo de mercancías.
+
+Orden ministerial de 2 de enero de 1941, intervención de las Juntas de Detasas en la condonación de derechos de almacenaje.
+
+Orden ministerial de 7 de enero de 1941, canon de urgencia y preferencia.
+
+Orden ministerial de 25 de enero de 1941, datos de destinatario y estación de destino en las facturaciones.
+
+Orden ministerial de 27 de enero de 1941, regulación de los transportes militares.
+
+Orden ministerial de 12 de febrero de 1941, zonas para la agrupación de las compañías en federaciones.
+
+Orden ministerial de 15 de febrero de 1941, facturación de patatas de siembra.
+
+Orden ministerial de 28 de febrero de 1941, carga y paralización de material.
+
+Orden ministerial de 11 de marzo de 1941, autoriza el cobro de suplementos de butaca.
+
+Orden ministerial de 26 de abril de 1941, suspende la actuación de las Delegaciones Especiales y disuelve la Junta Auxiliar.
+
+Orden ministerial de 1 de mayo de 1941, construcción de vehículos que vayan sobre carriles.
+
+Orden ministerial de 12 de mayo de 1941, transportes militares.
+
+Orden ministerial de 16 de mayo de 1941, carga de cemento en ferrocarriles.
+
+Orden ministerial de 16 de mayo de 1941, régimen de cargues en apartaderos.
+
+Orden ministerial de 14 de junio de 1941, normas para el transporte de mercancías.
+
+Orden ministerial de 15 de abril de 1942, facultad para imponer multas del delegado para la ordenación del transporte.
+
+Orden ministerial de 20 de junio de 1942, inspección de tranvías.
+
+Orden ministerial de 30 de julio de 1942, inspección de ferrocarriles.
+
+Orden ministerial de 31 de julio de 1942, paquetes postales.
+
+Orden ministerial de 14 de agosto de 1942, Reglamento para el transporte de paquetes postales.
+
+Orden ministerial de 2 de octubre de 1942, regula el uso de vagones particulares.
+
+Orden ministerial de 20 de octubre de 1942, pases gratuitos y billetes reducidos.
+
+Orden ministerial de 21 de octubre de 1942, sanciones a los usuarios.
+
+Orden ministerial d. 17 de diciembre de 1942, uso de vagones particulares.
+
+Orden ministerial de 21 de diciembre de 1942, responsabilidad de los funcionarios por la paralización de vagones.
+
+Orden ministerial de 21 de enero de 1943, uso, cesión y transferencia de vagones particulares.
+
+Orden ministerial de 12 de marzo de 1943, suministro de traviesas para ferrocarriles.
+
+Orden ministerial de 10 de abril de 1943, reclamaciones por incumplimiento del contrato de transporte.
+
+Orden ministerial de 5 de agosto de 1943, sanciones por demora en la utilización del material ferroviario.
+
+Orden ministerial de 14 de abril de 1944, transporte de mercancías por el Ejército del Aire.
+
+Orden ministerial de 20 de abril de 1944, complementa el Decreto de 13 de octubre de 1938, pases gratuitos y billetes reducidos.
+
+Orden ministerial de 26 de abril de 1944, alquiler de vagones particulares.
+
+Orden ministerial de 20 de mayo de 1944, crea la Junta de Enlaces Ferroviarios.
+
+Orden ministerial de 26 de julio de 1944, normas para coordinar los transportes de ferrocarril y de carretera.
+
+Orden ministerial de 28 de julio de 1944, explotación de líneas automóviles por la RENFE.
+
+Orden ministerial de 6 de septiembre de 1944, normas para la inspección e intervención de ferrocarriles, tranvías y trolebuses.
+
+Orden ministerial de 18 de septiembre de 1944, instrucciones para el abastecimiento de traviesas a RENFE.
+
+Orden ministerial de 31 de octubre de 1944, valoración de proyectos de trolebuses.
+
+Orden ministerial de 4 de diciembre de 1944, aprueba el Reglamento de aplicación de la Ley de 5 de octubre de 1940, de concesión de trolebuses.
+
+Orden ministerial de 30 de diciembre de 1944, aclara el canon de urgencia y preferencia regulado por la Orden ministerial de 7 de enero de 1941.
+
+Orden ministerial de 2 de junio de 1945, reservas de madera en aprovechamientos para traviesas.
+
+Orden ministerial de 19 de agosto de 1945, competencias para autorizar las transferencias de vagones particulares.
+
+Orden ministerial de 15 de octubre de 1945, billetes de mutilados ciegos.
+
+Orden ministerial de 26 de octubre de 1945, modifica la Orden ministerial de 6 de septiembre de 1944 sobre inspección.
+
+Orden ministerial de 15 de noviembre de 1945, dependencia y funciones de la Comisaría del Material Ferroviario.
+
+Orden ministerial de 11 de enero de 1946, organización del Consejo Superior de Ferrocarriles y Transportes por Carretera.
+
+Orden ministerial de 12 de abril de 1946, normas sobre contratación, inspección y recepción de material; suprime la Delegación del Material Ferroviario.
+
+Orden ministerial de 24 de abril de 1946, autoriza a los ferrocarriles explotados por el Estado a implantar la nomenclatura, clasificación de mercancías, cuadros de gastos accesorios y condiciones de aplicación de las tarifas de RENFE.
+
+Orden ministerial de 27 de abril de 1946, normas generales técnicas de electrificación.
+
+Orden ministerial de 22 de mayo de 1946, modifica el Reglamento de 4 de diciembre de 1944 de trolebuses.
+
+Orden ministerial de 1 de junio de 1946, normas para la venta de suplementos de cama.
+
+Orden ministerial de 7 de agosto de 1946, aclara el Reglamento de Trolebuses de 14 de diciembre de 1944.
+
+Orden ministerial de 31 de octubre de 1946, desarrolla el Decreto de 9 de octubre de 1946 sobre vagones particulares.
+
+Orden ministerial de 16 de enero de 1947, desarrolla el Decreto de 9 de octubre de 1946 sobre vagones particulares.
+
+Orden ministerial de 20 de febrero de 1947, autorización de transferencia de vagones particulares de vía estrecha.
+
+Orden ministerial de 30 de octubre de 1947, desarrolla el Decreto de 24 de octubre de 1947 sobre vagones particulares.
+
+Orden ministerial de 30 de diciembre de 1947, tarifa al retorno de material vacío en los ferrocarriles de vía estrecha.
+
+Orden ministerial de 10 de enero de 1948, desarrolla el Decreto-ley de 2 de septiembre de 1947, sobre Juntas de Detasas.
+
+Orden ministerial de 19 de febrero de 1948, modifica la Orden ministerial de 12 de abril de 1946, sobre construcción y transferencia de vagones particulares.
+
+Orden ministerial de 30 de noviembre de 1948, prohíbe el cargue de carbón en vagones particulares cerrados.
+
+Orden ministerial de 11 de diciembre de 1948, modifica la Orden ministerial de 1 de junio de 1946 sobre suplementos de cama.
+
+Orden ministerial de 8 de junio de 1949, crea las Juntas de Coordinación de Transportes.
+
+Orden ministerial de 18 de octubre de 1950, recargo en suplementos de cama y coche-salón.
+
+Orden ministerial de 24 de febrero de 1951, Reglamento Orgánico de los Ferrocarriles Explotados por el Estado.
+
+Orden ministerial de 9 de junio de 1951, inspección.
+
+Orden ministerial de 26 de noviembre de 1951, normas para los proyectos.
+
+Orden ministerial de 10 de enero de 1952, concesiones de transporte por carretera de las compañías ferroviarias.
+
+Orden ministerial de 29 de enero de 1952, suministro de traviesas.
+
+Orden ministerial de 6 de febrero de 1952, Comisiones mixtas para la ordenación de las explotaciones de tranvías.
+
+Orden ministerial de 3 de junio de 1952, abono del canon de coincidencia al ferrocarril.
+
+Orden ministerial de 27 de julio de 1952, construcción y conservación de ferrocarriles de vía normal.
+
+Orden ministerial de 15 de julio de 1953, desarrolla el Decreto de 13 de marzo de 1953 sobre suministro de traviesas.
+
+Orden ministerial de 31 de julio de 1953, normas para la fijación del canon de coincidencia.
+
+Orden ministerial de 5 de noviembre de 1953, modifica la Orden ministerial de 29 de enero de 1952 sobre suministro de traviesas.
+
+Orden ministerial de 24 de noviembre de 1953, convenio entre la Dirección General de Correos y los ferrocarriles españoles para el servicio de los paquetes postales internacionales.
+
+Orden ministerial de 18 de enero de 1954, modifica la Orden ministerial de 15 de julio de 1953 sobre suministro de traviesas.
+
+Orden ministerial de 22 de febrero de 1954, coeficientes para nuevas tarifas de RENFE.
+
+Orden ministerial de 24 de febrero de 1954, modifica la Orden ministerial de 24 de febrero de 1951, Reglamento Orgánico de los Ferrocarriles Explotados por el Estado.
+
+Orden ministerial de 3 de diciembre de 1955, exceptúa de cánones de urgencia a los vagones particulares.
+
+Orden ministerial de 30 de junio de 1956, canon de coincidencia; agencias de viaje y servicios de ferias y mercados.
+
+Orden ministerial de 30 de junio de 1956, modifica el Reglamento de Ferrocarriles Explotados por el Estado.
+
+Orden ministerial de 22 de diciembre de 1956, transporte en vagones abiertos.
+
+Orden ministerial de 26 de junio de 1957, derecho de tanteo en las enajenaciones procedentes de levantes.
+
+Orden ministerial de 29 de julio de 1957, canon de coincidencia.
+
+Orden ministerial de 10 de diciembre de 1957, plazo para el levante de un ferrocarril.
+
+Orden ministerial de 24 de diciembre de 1958, modifica el Reglamento de Ferrocarriles Explotados por el Estado.
+
+Orden ministerial de 19 de enero de 1959, modifica el Reglamento de Ferrocarriles Explotados por el Estado.
+
+Orden ministerial de 26 de febrero de 1959, recargos por retraso en el pago del canon de coincidencia.
+
+Orden ministerial de 6 de abril de 1959, exhibición de billetes; prórroga del viaje; sanciones.
+
+Orden ministerial de 5 de junio de 1959, sanciones a los viajeros sin billete en ferrocarriles explotados por el Estado y de vía estrecha.
+
+Orden ministerial de 15 de octubre de 1959, divisiones inspectoras e interventoras de los ferrocarriles de vía estrecha.
+
+Orden ministerial de 18 de febrero de 1960, clasificación periódica de mercancías para su preferencia en el cargue.
+
+Orden ministerial de 23 de marzo de 1960, sanción a viajeros sin billete en tranvías y trolebuses.
+
+Orden ministerial de 28 de septiembre de 1960, Reglamento del Consejo Superior de Ferrocarriles y Transportes por Carretera.
+
+Orden ministerial de 8 de febrero de 1962, redondeo en el precio de los billetes de los tranvías.
+
+Orden ministerial de 28 de mayo de 1963, mínima de percepción de viajeros sin billete, de prolongación de viaje o cambio de clase sin previo aviso.
+
+Orden ministerial de 10 de abril de 1964, modifica el Reglamento de Ferrocarriles Explotados por el Estado.
+
+Orden ministerial de 11 de abril de 1964, modifica el Reglamento de Ferrocarriles Explotados por el Estado.
+
+Orden ministerial de 14 de abril de 1964, constituye una comisión especial en el seno del Consejo Superior de Transportes Terrestres.
+
+Orden ministerial de 3 de julio de 1964, billetes sin derecho a asiento en RENFE.
+
+Orden ministerial de 15 de julio de 1964, Reglamento de Régimen Interior del Consejo Superior de Transportes Terrestres.
+
+Orden ministerial de 13 de abril de 1965, colaboración de los funcionarios de la Dirección General de Transportes Terrestres con la Delegación del Gobierno en RENFE.
+
+Orden ministerial de 25 de octubre de 1972, percepción mínima en los casos de viajeros sin billete en los Ferrocarriles Metropolitanos de Madrid y Barcelona y Suburbano de Madrid.
+
+Orden ministerial de 26 de marzo de 1973, tráfico de detalle.
+
+Orden ministerial de 29 de septiembre de 1973, percepción mínima de viajeros sin billete.
+
+Orden ministerial de 29 de noviembre de 1974, Reglamento de Régimen Interior del Consejo Superior de Transportes Terrestres.
+
+Orden ministerial de 12 de febrero de 1975, sanciones a usuarios desprovistos de billete en FEVE.
+
+Orden ministerial de 30 de enero de 1978, modifica el Reglamento de Régimen Interior del Consejo Superior de Transportes Terrestres.
+
+Orden ministerial de 8 de noviembre de 1978, percepción mínima en caso de viajeros sin billete en los Ferrocarriles Metropolitanos de Madrid y Barcelona y en el Suburbano de Madrid.
+
+Orden ministerial de 28 de noviembre de 1978, delega atribuciones en materia de pasos a nivel en el Delegado del Gobierno en RENFE.
+
+Orden ministerial de 19 de julio de 1979, desarrolla la estructura orgánica del Instituto de Estudios de Transportes y Comunicaciones.
+
+Orden ministerial de 29 de septiembre de 1979, percepción mínima a cobrar a los viajeros sin billete, por prolongación de viaje o cambio de clase sin previo aviso en RENFE.
+
+Orden ministerial de 11 de septiembre de 1930, sustitución del Presidente del Instituto de Estudios de Transportes y Comunicaciones en casos de vacante, ausencia o enfermedad.
+
+Orden ministerial de 29 de junio de 1981, Reglamento de Régimen Interior del Instituto de Estudios de Transportes y Comunicaciones.
+
+Orden ministerial de 24 de septiembre de 1982, sanciones a usuarios desprovistos de billete en ferrocarriles de vía estrecha.
+
+Orden ministerial de 11 de julio de 1983, percepciones mínimas en casos de viajeros sin billete en el Metropolitano y en el Suburbano de Madrid.
+
+3\. Se derogan, asimismo, cuantas otras normas reguladoras del transporte terrestre, de igual o inferior rango, se opongan a lo dispuesto en el presente Reglamento.
+
+4\. Quedan vigentes las siguientes normas reguladoras del transporte por carretera:
+
+A) Decretos y Reales Decretos:
+
+Decreto de 7 de julio de 1936 por el que se aprueba el Reglamento Sanitario de los Transportes Terrestres.
+
+Decreto 490/1962, de 8 de marzo, sobre pesos y dimensiones máximas de los vehículos para circular por las vías públicas.
+
+Decreto 1216/1967, de 1 de junio, sobre pesos y dimensiones máximas de los vehículos para circular por las vías públicas.
+
+Decreto 763/1979, de 16 de marzo, por el que se aprueba el Reglamento Nacional de los Servicios Urbanos e Interurbanos en Vehículos Ligeros.
+
+Real Decreto 1999/1979, de 29 de junio, sobre nuevo texto del TPC, en su apéndice 1 y anejo 1 (en los marginales no modificados por el Real Decreto 1723/1984).
+
+Real Decreto 1468/1981, de 22 de mayo, sobre normativa de carga y control de la cantidad cargada en el transporte de mercancías peligrosas.
+
+Real Decreto 2619/1981, de 24 de julio, relativo a las competencias en materia de mercancías peligrosas de los distintos Ministerios, y por el que se regula la Comisión Interministerial de Coordinación del Transporte de Mercancías Peligrosas.
+
+Real Decreto 722/1982, de 5 de marzo, que modifica el Real Decreto 1488/1981 sobre transporte de mercancías peligrosas.
+
+Real Decreto 236/1983, de 9 de febrero, sobre modificación parcial del Real Decreto 763/1979, de 16 de marzo (por el que se aprueba el Reglamento Nacional de los Servicios Urbanos e Interurbanos en Vehículos Ligeros).
+
+Real Decreto 2296/1983, de 25 de agosto, sobre tráfico y circulación de vehículos escolares y de menores.
+
+Real Decreto 635/1984, de 26 de marzo, sobre garantía de prestación de servicios mínimos en materia de transportes por carretera.
+
+Real Decreto 1723/1984, de 20 de junio, por la que se da nueva redacción al Reglamento Nacional de Mercancías Peligrosas (TPC), aprobado por Real Decreto 1999/1979, de 29 de junio.
+
+Real Decreto 2029/1986, de 28 de junio, que establece con carácter opcional nuevos límites para los pesos y dimensiones de los vehículos y modifica el artículo 55 del Código de la Circulación.
+
+Real Decreto 1420/1988, de 4 de noviembre, por el que se crea la Empresa Nacional de Transporte de Viajeros por Carretera (ENATCAR) y se aprueba su Estatuto de organización y funcionamiento.
+
+Real Decreto 1080/1989, de 1 de septiembre, por el que se realizan diversas modificaciones en el Reglamento Nacional de los Servicios Urbanos e Interurbanos de Transporte en Automóviles Ligeros (aprobado por Real Decreto 763/1979, de 16 de marzo).
+
+B) Órdenes ministeriales:
+
+Orden ministerial de 9 de marzo de 1942, dictando con carácter general las normas para la aplicación del beneficio de la reducción de precio en favor de las familias numerosas en los billetes de ferrocarriles establecido en la Ley de 1 de agosto y Reglamento, para su aplicación, de 16 de octubre de 1941.
+
+Orden ministerial de 27 de febrero de 1946 sobre concesión de pases en los servicios públicos de transporte de viajeros por carretera.
+
+Orden ministerial de 3 de agosto de 1950 sobre tarifas de facturación de equipajes y encargos en las estaciones.
+
+Artículo 2.° (modificado por Orden ministerial de 30 de julio de 1966) y artículo 3.° de la Orden ministerial de 10 de marzo de 1951 sobre transporte internacional.
+
+Orden ministerial de 13 de febrero de 1965, deroga la Orden ministerial de 25 de agosta de 1951 sobre servicios de transporte por carretera con Gibraltar.
+
+Orden ministerial de 10 de abril de 1973, regula los servicios discrecionales que se efectúan desde Andorra.
+
+Orden ministerial de 7 de marzo de 1975 sobre autorizaciones especiales permanentes de circulación.
+
+Orden ministerial de 21 de octubre de 1977 sobre homologación de paneles de señalización para vehículos que transporten mercancías peligrosas.
+
+Orden ministerial de 27 de septiembre de 1978, modifica el documento de la autorización especial permanente de circulación.
+
+Orden ministerial de 14 de marzo de 1980 por la que se nombra autoridad competente en materia de ADR al Director general de Transportes Terrestres.
+
+Orden ministerial de 27 de noviembre de 1930 sobre modificación del formato de la libreta individual de conducción.
+
+Orden ministerial de 5 de mayo de 1981 por la que se regula la homologación de empresas de transporte por carretera de mudanzas.
+
+Orden ministerial de 16 de septiembre de 1982 por la que se modifica el artículo 3.° de la Orden ministerial de 5 de mayo de 1981 (reguladora de la homologación de empresas de transporte por carretera de mudanzas).
+
+Orden ministerial de 17 de marzo de 1983 sobre derogación de la prohibición de circular a ciertas horas de la noche por vehículos de transporte internacional de viajeros establecida por Orden ministerial de 24 de marzo de 1972.
+
+Orden ministerial de 18 de diciembre de 1984 por la que se publica la relación de mercancías peligrosas en función de su peligrosidad en el transporte por carretera, de conformidad con lo establecido en la disposición final quinta del Real Decreto 1723/1984, de 20 de junio.
+
+Orden ministerial de 20 de febrero de 1985 sobre transporte internacional de mercancías peligrosas por carretera.
+
+Orden ministerial de 23 de octubre de 1985 por la que se aprueban las instrucciones para la actuación de los servicios de intervención en accidentes en el transporte de mercancías peligrosas por carretera.
+
+Orden ministerial de 31 de septiembre de 1986 sobre liberalización de determinados servicios de transporte internacional de viajeros y mercancías.
+
+Orden ministerial de 31 de julio de 1987 sobre régimen jurídico de otorgamiento, modificación y extinción de autorizaciones de transporte de mercancías.
+
+Orden ministerial de 31 de julio de 1987, reguladora de las agencias de transporte de mercancías.
+
+Orden ministerial de 2 de septiembre de 1987 sobre cursos de formación específica para conductores de vehículos que transporten mercancías peligrosas.
+
+Orden ministerial de 30 de diciembre de 1987 sobre tramitación de convalidaciones, conversiones o canjes de autorizaciones de transporte por carretera y sobre distintivos que deben llevar los vehículos.
+
+Orden ministerial de 11 de febrero de 1988 sobre distribución de los cupos de autorizaciones de transporte internacional, tanto de contingentes bilaterales, como del contingente comunitario y de autorizaciones multilaterales CEMT (y corrección de errores por Orden ministerial de 18 de febrero de 1988).
+
+Orden ministerial de 22 de febrero de 1988 sobre otorgamiento, modificación y extinción de autorizaciones de transporte de viajeros.
+
+Orden ministerial de 14 de abril de 1988 sobre sustitución de concesiones de transporte regular de viajeros por carretera en aplicación de la disposición transitada segunda de la LOTT.
+
+Orden ministerial de 30 de septiembre de 1988 sobre fórmula de distribución del contingente anual de autorizaciones VD nacional.
+
+Orden ministerial de 30 de diciembre de 1988, que desarrolla el Real Decreto 262/1987, de 13 de febrero, sobre autorizaciones de vehículos arrendados.
+
+Orden ministerial de 11 de abril de 1989 sobre comunidades de bienes.
+
+Orden ministerial de 23 de junio de 1989 por la que se aprueba el modelo-tipo del pliego de condiciones de los concursos de servicios regulares de viajeros.
+
+Orden ministerial de 18 de enero de 1990 sobre reglas para la determinación del continente de autorizaciones de transporte de mercancías en vehículos peseros de ámbito nacional.
+
+Orden ministerial de 31 de enero de 1990 por la que se constituye una comisión consultiva de la Dirección General de Transportes Terrestres.
+
+Orden ministerial de 8 de febrero de 1990 por la que se desarrolla el Real Decreto 1689/1989, de 29 de diciembre, sobre compensación al transporte de mercancías con origen o destino en las islas Canarias.
+
+Orden ministerial de 23 de febrero de 1990 por la que se establece un nuevo marco tarifado para los servicios públicos discrecionales de transporte de mercancías por carretera contratados en régimen de carga completa.
+
+Orden ministerial de 23 de febrero de 1990, de revisión de tarifas de los servicios públicos regulares permanentes de uso general de viajeros por carretera.
+
+Orden ministerial de 28 de febrero de 1990 por la que se modifican y complementan diversos aspectos del régimen jurídico de otorgamiento, modificación y extinción de las autorizaciones de transporte de viajeros y mercancías.
+
+Orden ministerial de 9 de marzo de 1990 por la que se establecen las normas relativas a la protección de los animales en el transporte internacional.
+
+Orden ministerial de 15 de junio de 1990 sobre régimen tarifario de los servicios públicos de viajeros en vehículos de menos de 10 plazas incluido el conductor.
+
+Orden ministerial de 20 de julio de 1990 sobre modificación de tarifas de los servicios públicas discrecionales regulares de uso especial de transporte de viajeros por carretera en vehículos de más de nueve plazas, incluido el conductor.
+
+5\. Quedan vigentes las siguientes normas reguladoras del transporte por ferrocarril:
+
+A) Decretos y Reales Decretos:
+
+Capítulos III, IV, V, VI, VII y VIII del Real Decreto de 8 de septiembre de 1878, Reglamento de Policía de Ferrocarriles.
+
+Real Decreto de 24 de marzo de 1891, Reglamento de Transportes Militares por ferrocarril.
+
+Real Decreto de 10 de mayo de 1901, cómputo del retraso de los trenes.
+
+Real Decreto de 19 de abril de 1907, colocación del furgón.
+
+Real Decreto de 22 de mayo de 1919, ferrocarriles portátiles.
+
+Real Decreto de 6 de abril de 1927, viajeros en las plataformas.
+
+Decreto de 21 de julio de 1933, prohíbe otorgar nuevas concesiones de tranvías y la ampliación de las existentes.
+
+Decreto de 7 de julio de 1936, Reglamento Sanitario de Transportes.
+
+Decreto de 26 de septiembre de 1941, almacenaje, derechos excepcionales.
+
+Decreto de 4 de diciembre de 1941, extiende la aplicación del Decreto de 26 de septiembre de 1941 a las demás compañías concesionarias.
+
+Decreto de 4 de diciembre de 1941, extiende la aplicación del Decreto de 26 de septiembre de 1941 a los ferrocarriles de vía estrecha explotados directamente por el Estado.
+
+Artículos 27, 31 y 46 del Decreto de 17 de enero de 1947, Reglamento Orgánico de RENFE.
+
+Decreto de 28 de enero de 1949, material empleado en la explotación de ferrocarriles.
+
+Decreto de 23 de marzo de 1956, competencia exclusiva del MTTC en materia de pases y billetes reducidos.
+
+Decreto 1067/1959, de 18 de junio, vagones particulares.
+
+Decreto 1342/1959, de 23 de septiembre, explotación económica de los ferrocarriles de vía estrecha.
+
+Decreto 2037/1959, de 12 de noviembre, expropiación forzosa; se declaran de urgencia las obras para ferrocarriles.
+
+Decreto 664/1960, de 7 de abril, autoriza a establecer tarifas especiales a los ferrocarriles de vía estrecha,
+
+Decreto 298/1963, de 14 de febrero, Delegación Especial de Hacienda en RENFE.
+
+Decreto 2170/1964, de 23 de julio, Estatuto de RENFE.
+
+Decreto 690/1966, de 17 de marzo, guardería y conservación de tramos de líneas clausuradas pero no desmanteladas.
+
+Decreto 1779/1967, de 22 de julio, pago a RENFE de transportes y servicios prestados al Estado.
+
+Decreto 1083/1968, de 9 de mayo, transporte de correspondencia pública por ferrocarriles de vía estrecha.
+
+Decreto 885/1971, de 26 de abril, límites máximos de variación de las tarifas de RENFE.
+
+Decreto 584/1974, de 21 de febrero, Estatuto de FEVE.
+
+Real Decreto 1620/1978, de 23 de junio, transporte de la correspondencia por RENFE.
+
+Real Decreto 266/1980, de 8 de febrero, garantías de prestación de servicios esenciales en situaciones de paro en RENFE.
+
+Real Decreto 495/1980, de 14 de marzo, garantía de prestación de servicios esenciales en situaciones de paro en el Metropolitano de Madrid.
+
+Real Decreto 592/1981, de 27 de marzo, garantía de prestación de servicios esenciales en situaciones de paro en «Ferrocarriles Vascos».
+
+Real Decreto 2296/1981, de 3 de agosto, señalización de estaciones en las Comunidades Autónomas.
+
+Real Decreto 334/1982, de 12 de febrero, señalización de estaciones en las Comunidades Autónomas.
+
+Real Decreto 359/1984, de 22 de febrero, garantía de prestación de servicios esenciales en situaciones de paro en FEVE.
+
+Real Decreto 879/1989, de 2 de junio, por el que se aprueba el Reglamento Nacional para el Transporte de Mercancías Peligrosas por Ferrocarril (TPF).
+
+Real Decreto 1480/1989, de 24 de noviembre, sobre realización de inventario y clasificación jurídica de los bienes adscritos a los servicios gestionados por RENFE.
+
+Real Decreto 719/1990, de 1 de junio, sobre realización del inventario y clasificación jurídica de los bienes adscritos a los servicios gestionados por FEVE.
+
+B) Órdenes ministeriales:
+
+Real Orden de 18 de noviembre de 1862, bultos de mano que pueden llevar los viajeros.
+
+Real Orden de 23 de febrero de 1863, circulación de trenes, normas sobre prevenciones.
+
+Real Orden de 15 de abril de 1863, entrada y salida de trenes en las estaciones.
+
+Real Orden de 23 de septiembre de 1863, accidentes ferroviarios; normas de actuación.
+
+Real Orden de 15 de octubre de 1863, denominación de estaciones.
+
+Real Orden de 13 de octubre de 1867, resolución de dudas sobre facturación de equipajes.
+
+Real Orden de 26 de agosto de 1871, competencia de los Gobernadores civiles para reglamentar el acceso a los patios de las estaciones.
+
+Real Orden de 8 de agosto de 1872, Reglamento General de Señales.
+
+Real Orden de 5 de julio de 1881, avisos de llegada y retrasos de los trenes.
+
+Real Orden de 7 de julio de 1881, colocación del furgón.
+
+Real Orden de 14 de julio de 1881, Reglamento de Circulación por Vía Única.
+
+Real Orden de 24 de octubre de 1881, autoriza la doble tracción.
+
+Real Orden de 1 de febrero de 1887, normas generales de aplicación de tarifas.
+
+Real Orden de 14 de mayo de 1887, interpreta y aclara la anterior.
+
+Real Orden de 21 de noviembre de 1888, freno, campana de alarma y señales.
+
+Real Orden de 1 de julio de 1890, normas sobre transporte combinado.
+
+Real Orden de 29 de julio de 1891, aparatos de alarma.
+
+Real Orden de 29 de febrero de 1892, prescripciones sobre frenos.
+
+Real Orden de 29 de febrero de 1892, alteración de cruzamientos; complementa el Reglamento de Circulación por Vía Única.
+
+Real Orden de 13 de mayo de 1892, aplica el Reglamento de Transportes Militares a la Guardia Civil.
+
+Real Orden de 12 de septiembre de 1893, complementa el Reglamento de Transportes Militares.
+
+Real Orden de 7 de noviembre de 1893, colocación de vehículos en la composición de los trenes.
+
+Real Orden de 14 de julio de 1894, prohíbe el almacenaje de explosivos en las estaciones durante más de cuarenta y ocho horas.
+
+Real Orden de 31 de agosto de 1896, complementa el Reglamento de Transportes Militares.
+
+Real Orden de 14 de enero de 1897, pasos a nivel de servicio particular.
+
+Real Orden de 8 de junio de 1900, causas justificativas de la negativa a transporte de materias explosivas
+
+Real Orden de 26 de julio de 1900, señales de alarma y frenos de vacío.
+
+Real Orden de 27 de agosto de 1900, aparatos de alarma.
+
+Real Orden de 20 de enero de 1903, obligación de servicio combinado entre compañías de ferrocarriles.
+
+Real Orden de 31 de marzo de 1903, aparatos de alarma.
+
+Real Orden de 3 de agosto de 1905, utilización del libro de reclamaciones.
+
+Real Orden de 27 de noviembre de 1906, calefacción en los trenes.
+
+Real Orden de 16 de enero de 1907, merma en las mercancías transportadas.
+
+Real Orden de 22 de septiembre de 1908, obligaciones del personal ferroviario en caso de accidente.
+
+Real Orden de 12 de diciembre de 1911, complementa el Real Decreto de 24 de marzo de 1891 sobre transportes militares.
+
+Real Orden de 8 de febrero de 1918, complementa el Real Decreto de 24 de marzo de 1891 sobre transportes militares.
+
+Real Orden de 19 de julio de 1918, publicidad de las tarifas.
+
+Real Orden de 12 de agosto de 1920, horario para recepción y llegada de géneros frescos.
+
+Real Orden de 8 de octubre de 1921, almacenaje; derechos excepcionales.
+
+Real Orden de 3 de meso de 1922, excepciones a la anterior.
+
+Real Orden de 10 de octubre de 1923, normas de seguridad en los pasos a nivel.
+
+Real Orden de 25 de febrero de 1928, nomenclatura y sistematización de tarifas especiales.
+
+Real Orden de 25 de octubre de 1929, anuncio de la llegada de las mercancías.
+
+Orden ministerial de 7 de noviembre de 1932, horario de recepción y retirada de mercancías.
+
+Orden ministerial de 30 de diciembre de 1933, subasta de objetos perdidos.
+
+Orden ministerial de 18 de julio de 1934, complementa la Orden ministerial de 25 de octubre de 1929, anuncio de llegada de las mercancías.
+
+Orden ministerial de 19 de junio de 1935, itinerarios de cuadros de marcha.
+
+Orden ministerial de 14 de julio de 1938, normas sobre transporte ferroviario de material militar.
+
+Orden ministerial de 9 de diciembre de 1939, autoriza sobreplazo en el transporte.
+
+Orden ministerial de 2 de diciembre de 1940, paralización del material; derechos excepcionales.
+
+Orden ministerial de 9 de diciembre de 1940, itinerarios y horarios.
+
+Orden ministerial de 28 de febrero de 1941, modifica la Real Orden de 19 de julio de 1918, publicidad de tarifas.
+
+Orden ministerial de 31 de marzo de 1941, complementa la Real Orden de 25 de octubre de 1929, anuncio de la llegada de las mercancías.
+
+Orden ministerial de 13 de mayo de 1941, complementa la Real Orden de 25 de octubre de 1929, anuncio de la llegada de las mercancías.
+
+Orden ministerial (Ministerio del Aire) de 13 de junio de 1941, transporte ferroviario de efectos del Ejército del Aire.
+
+Orden ministerial de 24 de noviembre de 1941, derechos de paralización en casos de diferencia de repeso.
+
+Orden ministerial de 9 de marzo de 1942, billetes de precio reducido para familias numerosas.
+
+Orden ministerial de 18 de enero de 1945, definición y régimen de los contenedores.
+
+Orden ministerial de 24 de junio de 1949, modifica la Orden ministerial de 2 de diciembre de 1940, paralización de material, derechos excepcionales.
+
+Orden ministerial de 21 de septiembre de 1953, Reglamento de señales de RENFE.
+
+Orden ministerial de 23 de marzo de 1954, tramitación de las solicitudes de ayuda a los ferrocarriles vía estrecha.
+
+Orden ministerial de 2 de abril de 1955, suprime la obligatoriedad de las operaciones de carga y descarga en domingo.
+
+Orden ministerial de 13 de junio de 1955, suprime los derechos de almacenaje y paralización en domingo.
+
+Orden ministerial de 16 de junio de 1955, restablece la facturación de expedientes a la orden y al portador.
+
+Orden ministerial de 22 de julio de 1958, modifica las tarifas de RENFE, establece el mínimo de recorrido y la tasa de expedición.
+
+Orden ministerial de 9 de agosto de 1958, plazos de expedición, transporte, tramitación, entrega de las mercancías.
+
+Orden ministerial de 27 de mayo de 1959, publicada mediante Resolución de 22 de julio 1959, por la que se aprueba la reglamentación de vagones particulares.
+
+Orden ministerial de 15 de julio de 1960, complementa la Orden ministerial de 22 de julio de 1958, en materia de kilómetros y recorrido mínimo.
+
+Orden ministerial de 17 de julio de 1961, suprime los almacenajes y paralizaciones en días festivos entre semana.
+
+Orden ministerial de 7 de diciembre de 1961, subasta y venta de expediciones no retiradas por sus consignatarios.
+
+Orden ministerial de 28 de diciembre de 1962, atribuye a RENFE los fondos procedentes de recargos y paralizaciones y de la recaudación por billetes de andén.
+
+Orden ministerial de 30 de diciembre de 1967, uso de semibarreras automáticas en los pasos a nivel.
+
+Orden ministerial de 26 de marzo de 1969, procedimiento para la enajenación de bienes inmuebles de RENFE.
+
+Orden ministerial de 27 de enero de 1972, uso de dobles semibarreras en los pasos a nivel.
+
+Orden ministerial de 20 de noviembre de 1973, normas para la venta de suplementos de cama.
+
+Orden ministerial de 17 de julio de 1981, asesoramiento en la decoración de estaciones del Consejo Asesor de Artes Plásticas.
+
+Orden ministerial de 3 de mayo de 1982, señalización de pasos a nivel.
+
+Orden ministerial de 20 de julio de 1990 por la que se autoriza la modificación de tarifas en los Ferrocarriles de Vía Estrecha (FEVE).
+
+##### Disposición final única. Habilitación normativa.
+
+Se faculta a la persona titular del Ministerio de Transportes, Movilidad y Agenda Urbana para modificar, mediante orden ministerial, el porcentaje de penalización aplicable a las preguntas y supuestos prácticos resueltos erróneamente en la corrección de los exámenes de obtención del certificado de competencia profesional para el transporte por carretera.
+
+> Se añade por el art. 1.4 del Real Decreto 242/2022, de 5 de abril. [Ref. BOE-A-2022-5520](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5520)
+
+Dado en Madrid a 28 de septiembre de 1990.
+
+JUAN CARLOS R.
+
+El Ministerio de Transporte, Turismo y Comunicaciones
+
+JOSE BARRIONUEVO PEÑA
+
+## ANEXO I — Infracciones administrativas cuya comisión afecta al cumplimiento del requisito de honorabilidad
+
+A. Infracciones administrativas cuya comisión dará lugar a la pérdida del requisito de honorabilidad
+
+1\. La realización de transportes públicos careciendo del título habilitante que, en su caso, resulte preceptivo para su prestación, tipificada en los artículos 140.1 de la LOTT y 197.1 de este Reglamento y en los apartados 1 del grupo 10 y 1 del grupo 11 del anexo I del Reglamento (UE) 2016/403.
+
+2\. La contratación como porteador o la facturación en nombre propio de servicios de transporte sin ser previamente titular de autorización de transporte o de operador de transporte de mercancías, tipificada en los artículos 140.2 de la LOTT y 197.3 de este Reglamento.
+
+3\. El arrendamiento de un vehículo cuando vaya acompañado por la prestación de servicios de conducción o cualquier otra forma de cesión del uso de un vehículo cuyo titular preste servicios de conducción al cesionario, tipificada en los artículos 140.3 de la LOTT y 197.4 de este Reglamento.
+
+4\. La cesión, expresa o tácita, de títulos habilitantes por parte de sus titulares a favor de otras personas, tipificada en los artículos 140.4 de la LOTT y 197.5 de este Reglamento.
+
+5\. La organización o establecimiento de un transporte regular de viajeros de uso general sin haber sido contratado por la Administración competente para gestionar un servicio público de esas características, con independencia de que los medios utilizados sean propios o ajenos, tipificada en los artículos 140.5 de la LOTT y 197.6 de este Reglamento.
+
+6\. La venta individualizada de las plazas de un transporte de viajeros, así como la prestación o venta de servicios integrados en una serie de expediciones que atiendan, de forma reiterada, tráficos preestablecidos, cuando no se posea otra habilitación que la autorización de transporte regulada en el artículo 42 de la LOTT, tipificada en los artículos 140.6 de dicha Ley y 197.7 de este Reglamento.
+
+7\. La falsificación de alguno de los títulos que habilitan para el ejercicio de las actividades y profesiones reguladas en la LOTT y en las normas dictadas para su ejecución y desarrollo o de alguno de los datos que deban constar en aquellos, tipificada en los artículos 140.7 de la citada Ley y 197.8 de este Reglamento.
+
+8\. El falseamiento de los documentos que hayan de ser aportados como requisito para la obtención de cualquier título, certificación o documento que haya de ser expedido por la Administración a favor del solicitante o de cualquiera de los datos que deban constar en aquellos, tipificada en los artículos 140.8 de la LOTT y 197.9 de este Reglamento.
+
+9\. El falseamiento de cualesquiera documentos contables, estadísticos o de control que la empresa se encuentre obligada a llevar o de los datos obrantes en los mismos, incluida la falsificación, disimulación, eliminación o destrucción de los datos contenidos en las hojas de registro o almacenados en la memoria del tacógrafo o de la tarjeta de conductor, tipificada en los artículos 140.9 de la LOTT y 197.10 de este Reglamento y en el apartado 10 del grupo 2 del anexo I del Reglamento (UE) 2016/403.
+
+10\. La manipulación del tacógrafo, del limitador de velocidad o de alguno de sus elementos, así como la de otros instrumentos o medios de control que exista la obligación de llevar instalados en el vehículo, con objeto de alterar su funcionamiento o modificar sus mediciones, tipificada en los artículos 140.10 de la LOTT y 197.11 de este Reglamento y en los apartados 9 del grupo 2 y 4 del grupo 6 del anexo I del Reglamento (UE) 2016/403.
+
+11\. El falseamiento de las condiciones que determinaron que una empresa se beneficiase de la exención de responsabilidad contemplada en el artículo 138.4 de la LOTT, tipificada en los artículos 140.11 de dicha Ley y 197.12 de este Reglamento.
+
+12\. La interrupción de los servicios señalados en el contrato de gestión de un servicio público de transporte regular de viajeros de uso general, sin que medie consentimiento de la Administración ni otra causa que lo justifique, en los términos previstos en el artículo 90.2 de este Reglamento, tipificada en los artículos 140.14 de la LOTT y 197.15 de este Reglamento.
+
+13\. Transportar mercancías peligrosas por carretera cuando no esté permitido hacerlo, tipificada en los artículos 140.15.6 de la LOTT y 197.16.6 de este Reglamento y en el apartado 1 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+14\. Utilizar para el transporte de mercancías peligrosas vehículos o depósitos distintos a los prescritos en las normas que regulen el transporte de las mercancías de que se trate o que carezcan de aprobación, tipificada en los artículos 140.15.7 de la LOTT y 197.16.7 de este Reglamento y en el apartado 2 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+15\. No identificar el transporte de mercancías peligrosas en el exterior del vehículo, tipificada en los artículos 140.15.11 de la LOTT y 197.16.11 de este Reglamento y en el apartado 3 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+16\. Utilizar en el transporte de mercancías peligrosas envases o embalajes no autorizados por las normas que resulten de aplicación para el transporte de la mercancía de que se trate, tipificada en los artículos 140.15.18 de la LOTT y 197.16.18 de este Reglamento.
+
+17\. La realización de actividades de transporte público o la intermediación en su contratación, incumpliendo alguno de los requisitos exigidos para la obtención y mantenimiento de la autorización que, en su caso, resulte preceptiva, excepto en aquellos supuestos en que los requisitos incumplidos sean los señalados en el artículo 43.1.f) de la LOTT, tipificada en los artículos 140.16 de dicha Ley y 197.17 de este Reglamento.
+
+18\. La contratación de servicios de transporte por parte de transportistas, agencias de transporte, transitarios, almacenistas-distribuidores, operadores logísticos o cualquier otro profesional del transporte con transportistas u operadores de transporte de mercancías no autorizados, tipificada en los artículos 140.17 de la LOTT y 197.18 de este Reglamento.
+
+19\. **(Sin contenido)**
+
+20\. La carencia del tacógrafo, del limitador de velocidad o de alguno de sus elementos, así como la de otros instrumentos o medios de control que exista la obligación de llevar instalados en el vehículo, tipificada en los artículos 140.20 de la LOTT y 197.21 de este Reglamento y en el apartado 1 del grupo 2 y el apartado 1 del grupo 6 del anexo I del Reglamento (UE) 2016/403.
+
+21\. No llevar insertada en el tacógrafo la tarjeta de conductor o la hoja de registro de los tiempos de conducción y descanso, utilizar una tarjeta falsificada, utilizar una tarjeta de la que el conductor no sea titular, u obtenida con declaraciones o documentos falsos, tipificada en los artículos 140.22 de la LOTT y 197.24 de este Reglamento y en los apartados 4, 5 y 6 del grupo 2 del anexo I del Reglamento (UE) 2016/403.
+
+22\. El exceso igual o superior al 20 por ciento en los vehículos N3 e igual o superior al 25 por ciento en los vehículos N2 sobre la masa máxima total que tenga autorizadas el vehículo de que se trate, tipificada en los artículos 140.23 de la LOTT y 197.26 de este Reglamento.
+
+23\. El exceso igual o superior al cincuenta por ciento en los tiempos de conducción diaria sin hacer una pausa o descanso de cuatro horas y media como mínimo, tipificada en los artículos 140.37.1 de la LOTT y 197.42.1 de este Reglamento y en los apartados 4 y 7 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+24\. El exceso igual o superior al veinticinco por ciento en los tiempos máximos de conducción semanal o bisemanal, tipificada en los artículos 140.37.2 de la LOTT y 197.42.2 de este Reglamento y en los apartados 10 y 13 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+25\. Utilización de un vehículo que no haya superado la inspección técnica que, en su caso, resulte obligatoria, tipificada en el artículo 76.o) del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, aprobado por el Real Decreto Legislativo 6/2015, de 30 de octubre, y en el apartado 1 del grupo 5 del anexo I del Reglamento (UE) 2016/403.
+
+26\. Falta de mantenimiento de las condiciones de seguridad del vehículo utilizado cuando ello provoque deficiencias muy graves en el dispositivo de frenado, el sistema de dirección, las ruedas y neumáticos, la suspensión o el chasis o en otros equipos que podrían crear un riesgo inmediato para la seguridad vial que motivaría una decisión de inmovilizar el vehículo, tipificada en el artículo 77.ll) del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, y en el apartado 2 del grupo 5 del anexo I del Reglamento (UE) 2016/403.
+
+27\. Conducir un vehículo de transporte de viajeros o mercancías sin estar en posesión del permiso de conducción adecuado, tipificada en el artículo 77.k) del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, y en el apartado 1 del grupo 8 del anexo I del Reglamento (UE) 2016/403.
+
+B. Infracciones administrativas que afectan al factor “I” del IRI
+
+1\. La realización de un transporte internacional o de cabotaje sin llevar a bordo la correspondiente licencia comunitaria o una copia auténtica de esta, cuando no deba ser calificada conforme al artículo 140.1, tipificada en el artículo 197.2 de este Reglamento y en el apartado 2 del grupo 10 y el apartado 2 del grupo 11 del anexo I del Reglamento (UE) 2016/403.
+
+2\. La negativa u obstrucción a la actuación de los Servicios de Inspección del Transporte Terrestre o de las fuerzas encargadas de la vigilancia del transporte que imposibiliten total o parcialmente el ejercicio de las funciones que legal o reglamentariamente tengan atribuidas, así como la desatención total o parcial a sus instrucciones o requerimientos o el quebrantamiento de la orden de inmovilizar un vehículo, tipificada en los artículos 140.12 de la LOTT y 197.13 de este Reglamento y en el apartado 20 del grupo 2 del anexo I del Reglamento (UE) 2016/403.
+
+3\. En el transporte de mercancías peligrosas, utilizar bultos, vehículos, contenedores o cualquier otro recipiente o depósito que presenten fugas, tipificada en los artículos 140.15.2 y 140.15.18 de la LOTT y 197.16.2 de este Reglamento y en el apartado 4 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+4\. En el transporte de mercancías peligrosas, carecer del certificado de aprobación del vehículo expedido por el organismo competente, donde se acredite que responde a las prescripciones reglamentariamente exigibles para el transporte al que va destinado, así como llevar dicho certificado caducado o llevar uno distinto al exigido para la mercancía transportada, tipificada en los artículos 140.15.3 de la LOTT y 197.16.3 de este Reglamento y en el apartado 6 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+5\. En el transporte de mercancías peligrosas, no llevar a bordo del vehículo una carta de porte que cubra todas las mercancías transportadas, o llevarlas sin consignar cuáles son estas, incluyendo la falta de información sobre las mercancías que impida determinar la gravedad de la infracción, tipificada en los artículos 140.15.8 de la LOTT y 197.16.8 de este Reglamento y en el apartado 11 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+6\. En el transporte de mercancías peligrosas, incumplir la prohibición de fumar específicamente señalada en la legislación sobre transporte de mercancías peligrosas, tipificada en los artículos 140.15.10 de la LOTT y 197.16.10 de este Reglamento y en el apartado 14 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+7\. En el transporte de mercancías peligrosas, utilizar fuego o luces no protegidas, así como aparatos de alumbrado portátiles, con superficies capaces de producir chispas, tipificada en los artículos 140.15.12 de la LOTT y 197.16.12 de este Reglamento y en el apartado 13 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+8\. En el transporte de mercancías peligrosas, incumplir las normas sobre el grado de llenado o sobre la limitación de las cantidades a transportar por unidad de transporte, tipificada en los artículos 140.15.14 de la LOTT y 197.16.14 de este Reglamento y en el apartado 10 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+9\. En el transporte de mercancías peligrosas, incumplir las prohibiciones de cargamento en común de bultos o las normas sobre sujeción o estiba de la carga, tipificada en los artículos 140.15.17 de la LOTT y 197.16.17 de este Reglamento y en los apartados 8 y 9 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+10\. En el transporte de mercancías peligrosas, transportar mercancías a granel en un contenedor, vehículo o depósito que no sea estructuralmente adecuado, tipificada en el artículo 197.16.20 de este Reglamento y en el apartado 5 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+11\. En el transporte de mercancías peligrosas, transportar mercancías en un vehículo que haya dejado de cumplir las normas de homologación creando un peligro inmediato, tipificada en el artículo 197.16.21 de este Reglamento y en el apartado 7 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+12\. Llevar instalado en el vehículo un dispositivo limitador de velocidad que no sea conforme a las prescripciones técnicas aplicables, tipificada en el artículo 197.22 de este Reglamento y en el apartado 2 del grupo 6 del anexo I del Reglamento (UE) 2016/403.
+
+12 bis La realización de transportes públicos o privados utilizando conductores que carezcan del certificado de aptitud profesional o de la tarjeta de cualificación (CAP) en vigor, tipificada en el artículo 140.18 de la LOTT y en el apartado 1 del grupo 7 del anexo I del Reglamento (UE) 2016/403.
+
+13\. La carencia significativa de hojas de registro o de datos registrados en el tacógrafo o en las tarjetas de los conductores que exista obligación de conservar en la sede de la empresa, tipificada en los artículos 140.21 de la LOTT y 197.23 de este Reglamento y en los apartados 11 y 12 del grupo 2 del anexo I del Reglamento (UE) 2016/403.
+
+14\. La posesión o utilización por un conductor de más de una tarjeta de conductor a su nombre, tipificada en el artículo 197.25 de este Reglamento y en el apartado 3 del grupo 2 del anexo I del Reglamento (UE) 2016/403.
+
+15\. La utilización en el tacógrafo de hojas de registro o tarjetas de conductor que se encuentren manchadas o estropeadas de tal manera que impidan la lectura de los datos registrados, tipificada en los artículos 140.24 de la LOTT y 197.28 de este Reglamento y en el apartado 16 del grupo 2 del anexo I del Reglamento (UE) 2016/403.
+
+16\. La utilización incorrecta de las hojas de registro o la tarjeta del conductor, la retirada no autorizada de dichas hojas o tarjeta cuando ello incida en el registro de datos, así como la utilización de una misma hoja de registro o de la tarjeta de conductor durante un período de tiempo superior al que corresponda, cuando ello dé lugar a una pérdida de datos o a una superposición de registros que impida su lectura, tipificada en los artículos 140.25 de la LOTT y 197.29 de este Reglamento y en los apartados 13, 14 y 15 del grupo 2 del anexo I del Reglamento (UE) 2016/403.
+
+17\. El uso incorrecto del selector de actividades del tacógrafo, tipificada en los artículos 140.26 de la LOTT y 197.30 de este Reglamento y en el apartado 19 del grupo 2 del anexo I del Reglamento (UE) 2016/403.
+
+18\. El incumplimiento de la obligación de efectuar registros manuales, incluyendo la falta de consignación por el conductor de toda la información necesaria no registrada durante los períodos de avería o funcionamiento defectuoso del tacógrafo, tipificada en el artículo 197.31 de este Reglamento y en los apartados 17 y 26 del grupo 2 del anexo I del Reglamento (UE) 2016/403.
+
+19\. El inadecuado funcionamiento imputable al transportista del tacógrafo, del limitador de velocidad o de alguno de sus elementos, así como el de otros instrumentos o medios de control que exista la obligación de llevar instalados en el vehículo, cuando no deba calificarse conforme a lo señalado en el artículo 140.10 de la LOTT, tipificada en los artículos 140.33 de dicha Ley y 197.38 de este Reglamento y en el apartado 8 del grupo 2 del anexo I del Reglamento (UE) 2016/403.
+
+20\. La utilización del tacógrafo sin haber realizado su calibrado o revisión periódica en los plazos y forma establecidos, habiendo sido inspeccionado o reparado en un taller no autorizado o careciendo de los precintos o placas preceptivos, salvo que deba calificarse según lo dispuesto en el artículo 140.20 de la LOTT, tipificada en los artículos 140.34 de dicha Ley y 197.39 de este Reglamento y en los apartados 2, 7 y 25 del grupo 2 del anexo I del Reglamento (UE) 2016/403.
+
+21\. La carencia a bordo del vehículo de las hojas de registro de los tiempos de conducción y descanso ya utilizadas o de los documentos de impresión que resulte obligatorio llevar, con independencia del tipo de tacógrafo, analógico o digital, que se esté utilizando, tipificada en los artículos 140.35 de la LOTT y 197.40 de este Reglamento y en los apartados 21, 22, 23 y 24 del grupo 2 del anexo I del Reglamento (UE) 2016/403.
+
+22\. El exceso igual o superior a dos horas en los tiempos máximos de conducción diaria, salvo que deba calificarse conforme a lo dispuesto en el artículo 140.37.1 de la LOTT, tipificada en los artículos 140.37.3 de dicha Ley y 197.42.3 de este Reglamento y en los apartados 3 y 6 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+23\. La conducción durante seis o más horas sin respetar las pausas reglamentariamente exigidas, tipificada en los artículos 140.37.4 de la LOTT y 197.42.4 de este Reglamento y en el apartado 15 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+24\. La disminución del descanso diario normal en más de dos horas y media o del reducido o fraccionado en más de dos horas, incluso cuando se realice conducción en equipo, tipificada en los artículos 140.37.5 de la LOTT y 197.42.5 de este Reglamento y en los apartados 17, 19, 21 y 23 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+25\. La disminución del descanso semanal normal en más de nueve horas o del reducido en más de cuatro, tipificada en los artículos 140.37.6 de la LOTT y 197.42.6 de este Reglamento y en los apartados 25 y 27 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+26\. La conducción de sesenta y cinco o más horas, sin superar las setenta, en los tiempos máximos de conducción semanal o la conducción de ciento cinco o más horas, sin superar las ciento doce y media, en los tiempos máximos de conducción bisemanal, tipificada en el artículo 197.42.7 de este Reglamento y en los apartados 9 y 12 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+27\. El inicio del descanso semanal superando seis períodos consecutivos de veinticuatro horas después de un período de descanso semanal anterior, cuando el exceso sea igual o superior a doce horas, tipificada en el artículo 197.42.8 de este Reglamento y en el apartado 28 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+28\. En un único transporte internacional discrecional de viajeros, iniciar el descanso semanal superando doce períodos consecutivos de veinticuatro horas después del período de descanso semanal anterior, cuando el exceso sea igual o superior a doce horas, tipificada en el artículo 197.42.9 de este Reglamento y en el apartado 29 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+29\. En un único transporte internacional discrecional de viajeros, realizar doce períodos consecutivos de veinticuatro horas sin llevar a cabo un descanso semanal de al menos sesenta y cinco horas, tipificada en el artículo 197.42.10 de este Reglamento y en el apartado 30 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+30\. En un único transporte internacional discrecional de viajeros, la realización de un período de conducción igual o superior a cuatro horas y media, entre las 22 y las 6 horas, si el vehículo no cuenta con varios conductores, tipificada en el artículo 197.42.11 de este Reglamento y en el apartado 31 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+31\. El exceso igual o superior al 10 e inferior al 20 por ciento en los vehículos N3 e igual o superior al 15 e inferior al 25 por ciento en los vehículos N2 sobre la masa máxima total que tenga autorizada el vehículo de que se trate, tipificada en el artículo 197.44 de este Reglamento y en los apartados 2 y 5 del grupo 4 del anexo I del Reglamento (UE) 2016/403.
+
+32\. La realización de transportes públicos o privados utilizando para la conducción del vehículo los servicios de una persona que requiera el certificado de conductor de tercer país careciendo de este o incumpliendo alguna de las condiciones que dieron lugar a su expedición, tipificada en el artículo 197.45 de este Reglamento y en el apartado 3 del grupo 10 del anexo I del Reglamento (UE) 2016/403.
+
+33\. La realización de servicios regulares internacionales de pasajeros sin disponer de la correspondiente autorización válida, tipificada en el artículo 197.46 de este Reglamento y en el apartado 3 del grupo 11 del anexo I del Reglamento (UE) 2016/403.
+
+34\. Conducir un vehículo que transporte mercancías peligrosas careciendo de la autorización especial que habilita para hacerlo, tipificada en el artículo 77.k) del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, y en el apartado 12 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+35\. El exceso igual o superior al 20 por ciento de la longitud máxima admisible del vehículo utilizado, tipificada en el artículo 77.ll) del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, y en el apartado 8 del grupo 4 del anexo I del Reglamento (UE) 2016/403.
+
+36\. El exceso igual o superior a 3,10 metros de la anchura máxima admisible del vehículo utilizado, tipificada en el artículo 77.ll) del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, y en el apartado 10 del grupo 4 del anexo I del Reglamento (UE) 2016/403.
+
+37\. Transportar animales sin que las separaciones sean suficientemente resistentes como para soportar el peso de aquellos, tipificada en el artículo 14 de la Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio, y en el apartado 1 del grupo 12 del anexo I del Reglamento (UE) 2016/403.
+
+38\. Salario vinculado a la distancia recorrida o al volumen de mercancías transportado, tipificada en el apartado 32 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+39\. Organización del trabajo del conductor inapropiada o inexistente, instrucciones dadas al conductor para permitirle cumplir la legislación inapropiadas o inexistentes, tipificada en el apartado 33 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+40\. Superación del tiempo de trabajo semanal máximo de 48 horas, si ya se han agotado las posibilidades de ampliarlo a 60 horas, siendo el exceso superior o igual a 60 horas, tipificada en el artículo 7.5 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, y en el apartado 2 del grupo 3 del anexo I del Reglamento (UE) 2016/403.
+
+41\. Superación del tiempo de trabajo semanal máximo de 60 horas si no se ha concedido una excepción con arreglo al artículo 8 de la Directiva 2002/15/CE del Parlamento Europeo y del Consejo, de 11 de marzo de 2002, relativa a la ordenación del tiempo de trabajo de las personas que realizan actividades móviles de transporte por carretera, siendo el exceso igual o superior a 70 horas, tipificada en el artículo 7.5 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, y en el apartado 4 del grupo 3 del anexo I del Reglamento (UE) 2016/403.
+
+42\. Pausa obligatoria insuficiente de duración igual o inferior a 10 minutos cuando se trabaja durante un período comprendido entre 6 y 9 horas, tipificada en el artículo 7.5 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, y en el apartado 6 del grupo 3 del anexo I del Reglamento (UE) 2016/403.
+
+43\. Pausa obligatoria insuficiente de duración igual o inferior a 20 minutos cuando se trabaja durante un período de más de 9 horas, tipificada en el artículo 7.5 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, y en el apartado 8 del grupo 3 del anexo I del Reglamento (UE) 2016/403.
+
+44\. Tiempo de trabajo diario, igual o superior a 13 horas, por cada período de 24 horas cuando se efectúe trabajo nocturno si no se ha concedido una excepción con arreglo al artículo 8 de la Directiva 2002/15/CE, tipificada en el artículo 7.5 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, y en el apartado 10 del grupo 3 del anexo I del Reglamento (UE) 2016/403.
+
+45\. Empresario que falsifica registros del tiempo de trabajo o que se niega a proporcionarlos al agente encargado del control, tipificada en el artículo 6.4 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, y en el apartado 11 del grupo 3 del anexo I del Reglamento (UE) 2016/403.
+
+46\. Conductores por cuenta ajena o autónomos que falsifican registros del tiempo de trabajo o que se niegan a proporcionarlos al agente encargado del control, tipificada en el apartado 12 del grupo 3 del anexo I del Reglamento (UE) 2016/403.
+
+C. Infracciones administrativas que afectan al factor “i” del IRI
+
+1\. La disminución del descanso diario normal en más de una hora y media o del reducido o fraccionado en más de una hora, incluso cuando se realice conducción en equipo, salvo que deba calificarse conforme a lo dispuesto en los artículos 140.37.5 de la LOTT y 197.42.5 de este Reglamento, tipificada en los artículos 141.24.4 de la LOTT y 198.28.4 de este Reglamento y en los apartados 16, 18, 20 y 22 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+2\. El exceso igual o superior al 5 e inferior al 10 por ciento en los vehículos N3 e igual o superior al 5 e inferior al 15 por ciento en los vehículos N2 sobre la masa máxima total que tenga autorizada el vehículo de que se trate, tipificada en el artículo 198.2 de este Reglamento y en los apartados 1 y 4 del grupo 4 del anexo I del Reglamento (UE) 2016/403.
+
+3\. En el transporte de mercancías peligrosas, no llevar a bordo las instrucciones escritas que resulten exigibles, tipificada en los artículos 141.5.1 de la LOTT y 198.6.1 de este Reglamento y en el apartado 24 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+4\. En el transporte de mercancías peligrosas, incumplir lo dispuesto en las normas de aplicación o en las correspondientes instrucciones escritas acerca del equipamiento del vehículo o de los miembros de la tripulación, tipificada en los artículos 141.5.2 de la LOTT y 198.6.2 de este Reglamento y en el apartado 19 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+5\. En el transporte de mercancías peligrosas, carecer de los extintores o cualesquiera otros medios de extinción de incendios que resulten obligatorios en función del vehículo o la carga transportada, o disponer de unos cuya correcta utilización no esté garantizada, tipificada en los artículos 141.5.3 de la LOTT y 198.6.3 de este Reglamento y en el apartado 18 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+6\. En el transporte de mercancías peligrosas, utilizar bultos o cisternas que no estén correctamente cerrados, incluso cuando estos últimos se encuentren vacíos si no han sido previamente limpiados, tipificada en los artículos 141.5.6 de la LOTT y 198.6.6 de este Reglamento y en el apartado 22 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+7\. En el transporte de mercancías peligrosas, transportar bultos de mercancía en un contenedor que no sea estructuralmente adecuado, tipificada en los artículos 141.5.7 de la LOTT y 198.6.7 de este Reglamento y en el apartado 21 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+8\. En el transporte de mercancías peligrosas, transportar bultos utilizando embalajes, grandes recipientes para granel y grandes embalajes deteriorados o transportar embalajes vacíos sucios o deteriorados, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en el artículo 140.15.18, tipificada en los artículos 141.5.10 de la LOTT y 198.6.10 de este Reglamento y en el apartado 20 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+9\. En el transporte de mercancías peligrosas, utilizar etiquetas, marcas o rótulos incorrectos en el vehículo o el contenedor, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en el artículo 140.15.15, tipificada en los artículos 141.5.12 de la LOTT y 198.6.12 de este Reglamento y en el apartado 23 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+10\. En el transporte de mercancías peligrosas, transportar mercancías en un vehículo que haya dejado de cumplir las normas de homologación cuando no cree un peligro inmediato, tipificada en el artículo 198.6.20 de este Reglamento y en el apartado 17 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+11\. La realización de paradas en el curso de un transporte regular internacional de viajeros que no se correspondan con las señaladas en la autorización en que se ampara, tipificada en los artículos 141.6 de la LOTT y 198.7 de este Reglamento y en el apartado 5 del grupo 11 del anexo I del Reglamento (UE) 2016/403.
+
+12\. La realización de transportes públicos o privados sin llevar a bordo el certificado de conductor de tercer país o una copia auténtica válida del mismo, tipificada en los artículos 141.9 de la LOTT y 198.10 de este Reglamento y en el apartado 4 del grupo 10 del anexo I del Reglamento (UE) 2016/403.
+
+13\. La realización de servicios regulares internacionales de pasajeros sin llevar a bordo la correspondiente autorización, existiendo ésta, cuando no deba ser calificada de conformidad con el artículo 140.1 de la LOTT, tipificada en el artículo 198.11 de este Reglamento y en el apartado 4 del grupo 11 del anexo I del Reglamento (UE) 2016/403.
+
+14\. La realización de transportes públicos o privados sin que el conductor del vehículo lleve consigo su tarjeta de cualificación CAP o, en su caso, el permiso de conducción con la marca de acuerdo con la legislación nacional de su país de residencia, cuando no deba ser calificada de conformidad con lo dispuesto en el artículo 140.18 de la LOTT, tipificada en el artículo 198.12 de este Reglamento y en el apartado 2 del grupo 7 del anexo I del Reglamento (UE) 2016/403.
+
+15\. La utilización de un dispositivo de limitación de velocidad cuya instalación no haya sido realizada por un taller autorizado, tipificada en el artículo 198.17 de este Reglamento y en el apartado 3 del grupo 6 del anexo I del Reglamento (UE) 2016/403.
+
+16\. La carencia, falta de diligenciado o falta de datos esenciales de la documentación de control, estadística o contable cuya cumplimentación resulte obligatoria, tipificada en los artículos 141.17 de la LOTT y 198.21 de este Reglamento y en el apartado 6 del grupo 11 del anexo I del Reglamento (UE) 2016/403.
+
+17\. El exceso igual o superior a sesenta horas, sin superar sesenta y cinco, en el tiempo máximo de conducción semanal, o el exceso igual o superior a cien horas, sin superar ciento cinco, en el tiempo máximo de conducción bisemanal, tipificadas en el artículo 141.24.1 de la LOTT y 198.28.1 de este Reglamento y en los apartados 8 y 11 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+18\. El exceso igual o superior a una hora e inferior a dos horas en los tiempos máximos de conducción diaria, tipificada en los artículos 141.24.2 de la LOTT y 198.28.2 de este Reglamento y en los apartados 2 y 5 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+19\. La conducción durante cinco o más horas, sin alcanzar las seis, sin respetar las pausas reglamentariamente establecidas, tipificada en los artículos 141.24.3 de la LOTT y 198.28.3 de este Reglamento y en el apartado 14 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+20\. La disminución del descanso semanal normal en más de tres horas o del reducido en más de dos, tipificada en los artículos 141.24.5 de la LOTT y 198.28.5 de este Reglamento y en los apartados 24 y 26 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+21\. Iniciar el descanso semanal superando seis períodos consecutivos de veinticuatro horas después del período de descanso semanal anterior, cuando el exceso sea superior a tres horas e inferior a doce, tipificada en el artículo 198.28.6 de este Reglamento y en el apartado 28 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+22\. En un único transporte internacional discrecional de viajeros, iniciar el descanso semanal superando doce períodos consecutivos de veinticuatro horas después del período de descanso semanal anterior, cuando el exceso sea superior a tres horas, pero no a doce, tipificada en el artículo 198.28.7 de este Reglamento y en el apartado 29 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+23\. En un único transporte internacional discrecional de viajeros, realizar doce períodos consecutivos de veinticuatro horas llevando a cabo un descanso semanal igual o inferior a sesenta y siete, aunque no a sesenta y cinco, horas continuadas, tipificada en el artículo 198.28.8 de este Reglamento y en el apartado 30 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+24\. En un único transporte internacional discrecional de viajeros, la realización de un período de conducción superior a tres e inferior a cuatro horas y media, entre las 22 y las 6 horas, si el vehículo no cuenta con varios conductores, tipificada en el artículo 198.28.9 de este Reglamento y en el apartado 31 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+25\. En los supuestos de conducción en equipo, utilizar la hoja de registro incorrecta o introducir la tarjeta de conductor en la ranura incorrecta, tipificada en el artículo 198.29 de este Reglamento y en el apartado 18 del grupo 2 del anexo I del Reglamento (UE) 2016/403.
+
+26\. El exceso igual o superior al 2 por ciento pero inferior al 20 por ciento de la longitud máxima admisible del vehículo utilizado, tipificada en el artículo 76.o) del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, y en el apartado 7 del grupo 4 del anexo I del Reglamento (UE) 2016/403.
+
+27\. El exceso igual o superior a 2,65 metros pero inferior a 3,10 metros de la anchura máxima admisible del vehículo utilizado, tipificada en el artículo 76.o) del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, y en el apartado 9 del grupo 4 del anexo I del Reglamento (UE) 2016/403.
+
+28\. La utilización de un permiso de conducción dañado o ilegible o que no se ajuste al modelo común, tipificada en el artículo 75.c) del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, y en el apartado 2 del grupo 8 del anexo I del Reglamento (UE) 2016/403.
+
+29\. Aparcar inadecuadamente o sin vigilancia un vehículo que transporte mercancías peligrosas, tipificada en el artículo 76.d) del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, y en el apartado 15 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+30\. Transportar mercancías peligrosas utilizando una unidad de transporte que comprenda más de un remolque o semirremolque, que no cumpla con las condiciones establecidas en el Acuerdo Europeo sobre Transporte Internacional de Mercancías Peligrosas por Carretera (ADR) y el resto de la normativa internacional dictada para su aplicación, tipificada en el artículo 77.ll) del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, y en el apartado 16 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+
+31\. La utilización en el transporte de animales de rampas de carga y descarga con superficies resbaladizas, con falta de protecciones laterales o demasiado pronunciadas, tipificada en el artículo 14 de la Ley para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio, y en el apartado 2 del grupo 12 del anexo I del Reglamento (UE) 2016/403.
+
+32\. La utilización en el transporte de animales de plataformas elevadoras o pisos superiores que no cuenten con barreras de seguridad para impedir que los animales se caigan o escapen durante las operaciones de carga y descarga, tipificada en el artículo 14 de la Ley para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio, y en el apartado 3 del grupo 12 del anexo I del Reglamento (UE) 2016/403.
+
+33\. Transportar animales utilizando medios no aprobados para la realización de viajes largos o no aprobados para el tipo de animales transportados, tipificada en el artículo 14 de la Ley para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio, y en el apartado 4 del grupo 12 del anexo I del Reglamento (UE) 2016/403.
+
+34\. Transportar animales sin la documentación requerida válida, sin el cuaderno de a bordo, sin la autorización del transportista o sin el certificado de competencia, tipificada en el artículo 14 de la Ley para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio, y en el apartado 5 del grupo 12 del anexo I del Reglamento (UE) 2016/403.
+
+35\. El incumplimiento de la edad mínima de los cobradores, tipificada en el artículo 8.4 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, y en el apartado 1 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
+
+36\. La superación del tiempo de trabajo semanal máximo de 48 horas, si ya se han agotado las posibilidades de ampliarlo a 60 horas, siendo el exceso superior o igual a 56 horas e inferior a 60 horas, tipificada en el artículo 7.5 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, y en el apartado 1 del grupo 3 del anexo I del Reglamento (UE) 2016/403.
+
+37\. La superación del tiempo de trabajo semanal máximo de 60 horas si no se ha concedido una excepción con arreglo al artículo 8, siendo el exceso igual o superior a 65 horas e inferior a 70 horas, tipificada en el artículo 7.5 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, y en el apartado 3 del grupo 3 del anexo I del Reglamento (UE) 2016/403.
+
+38\. La realización de una pausa obligatoria insuficiente de más de 10 minutos, pero igual o inferior a 20 minutos, cuando se trabaja durante un período comprendido entre 6 y 9 horas, tipificada en el artículo 7.5 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, y en el apartado 5 del grupo 3 del anexo I del Reglamento (UE) 2016/403.
+
+39\. La realización de una pausa obligatoria insuficiente de más 20 minutos pero igual o inferior a 30 minutos, cuando se trabaja durante un período de más de 9 horas, tipificada en el artículo 7.5 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, y en el apartado 7 del grupo 3 del anexo I del Reglamento (UE) 2016/403.
+
+40\. Tiempo de trabajo diario igual o superior a 11 horas pero inferior a 13 horas, por cada período de 24 horas cuando se efectúe trabajo nocturno si no se ha concedido una excepción con arreglo al artículo 8 de la Directiva 2002/15/CE, tipificada en el artículo 7.5 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, y en el apartado 9 del grupo 3 del anexo I del Reglamento (UE) 2016/403.
+
+> Se modifican los puntos 14 y 22 y se suprime el 19 del apartado A, se añade el punto 12 bis al apartado B y se modifica el punto 2 del apartado C, por la disposición final 1.8 a 11 del Real Decreto 284/2021, de 20 de abril. [Ref. BOE-A-2021-6624](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6624)
+
+> Se añade por el art. 2.133 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## ANEXO II — Régimen de obtención del certificado de competencia profesional para el transporte por carretera
+
+1\. Obtención del certificado de competencia profesional
+
+1.1 En aplicación de lo dispuesto en el artículo 8.7 del Reglamento (CE) 1071/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen las normas comunes relativas a las condiciones que han de cumplirse para el ejercicio de la profesión de transportista por carretera, el órgano competente de conformidad con lo dispuesto en el artículo 114.1 de este Reglamento expedirá el certificado de competencia profesional para el transporte por carretera, tanto en la modalidad de viajeros como de mercancías, a favor de las personas que estén en posesión del título de Formación Profesional de Técnico Superior en Transporte y Logística, establecido por el Real Decreto 1572/2011, de 4 de noviembre.
+
+1.2 Las personas que no cumplan lo dispuesto en el apartado anterior, solo podrán obtener el certificado de competencia profesional para el transporte por carretera, de viajeros o de mercancías, previa superación de un examen que se regirá por lo dispuesto en el artículo 8 del Reglamento (CE) 1071/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen las normas comunes relativas a las condiciones que han de cumplirse para el ejercicio de la profesión de transportista por carretera, con las concreciones señaladas en este anexo.
+
+1.3 No obstante lo dispuesto en el apartado anterior, el Director General de Transporte Terrestre del Ministerio de Fomento podrá eximir de la realización del examen para la obtención del certificado a los titulares de una determinada titulación universitaria o de formación profesional superior cuya obtención implique haberse examinado de todas las materias que integran el programa contenido en el anexo I del citado Reglamento (CE) 1071/2009.
+
+2\. Competencia para la realización de exámenes
+
+La realización de los exámenes a que hace referencia el apartado 1.2 corresponderá a la Dirección General de Transporte Terrestre del Ministerio de Fomento o, en sus respectivos territorios, al órgano competente de las Comunidades Autónomas a las que dicha competencia les haya sido delegada por el Estado.
+
+3\. Tribunal de revisión de exámenes
+
+El órgano competente para la realización de los exámenes designará un Tribunal de revisión de exámenes, cuya función será resolver las reclamaciones que, en su caso, sean formuladas por un aspirante a la obtención del certificado en relación con el contenido o la calificación de alguna de las preguntas o supuestos prácticos que se le hubiesen planteado en el examen.
+
+Dicho Tribunal estará formado por cinco miembros: el presidente, tres vocales y el secretario, que actuará con voz y voto, pudiendo designarse miembros suplentes de los anteriores.
+
+Al menos el Presidente y otros dos miembros del Tribunal deberán ser funcionarios públicos que posean titulación superior y estén especializados en las materias sobre las que versan los exámenes.
+
+4\. Requisitos para concurrir al examen
+
+4.1 En aplicación de lo dispuesto en el artículo 8.1 del Reglamento (CE) 1071/2009, únicamente podrán concurrir al examen las personas que acrediten hallarse previamente en posesión de alguno de los siguientes títulos de formación:
+
+Título de Bachiller o equivalente.
+
+Título de Técnico, acreditativo de haber superado las enseñanzas de una formación profesional de grado medio, sea cual fuere la profesión a que se encuentre referido.
+
+Título de Técnico Superior, acreditativo de haber superado las enseñanzas de una formación profesional de grado superior, sea cual fuere la profesión a que se encuentre referido.
+
+Cualquier título acreditativo de haber superado unas enseñanzas universitarias de grado o postgrado.
+
+4.2 Se aplicarán idénticas reglas a las establecidas en el artículo 8.2 del Reglamento (CE) 1071/2009 para determinar la Comunidad Autónoma en que el aspirante a la obtención del certificado deberá examinarse.
+
+5\. Programa del examen
+
+El programa del examen para la obtención del certificado de competencia profesional estará integrado por la lista de materias señaladas al efecto en el anexo I del Reglamento (CE) 1071/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen las normas comunes relativas a las condiciones que han de cumplirse para el ejercicio de la profesión de transportista por carretera.
+
+6\. Forma del examen
+
+6.1 El examen tendrá únicamente forma escrita y se realizará utilizando exclusivamente los medios electrónicos que el órgano competente facilite al examinando.
+
+6.2 El examen deberá realizarse utilizando la aplicación informática y el banco de preguntas y casos prácticos elaborados específicamente para ello, cuyo diseño y mantenimiento corresponderá a la Dirección General de Transporte Terrestre del Ministerio de Fomento.
+
+7\. Contenido y duración del examen
+
+7.1 El examen constará de dos pruebas:
+
+La primera prueba consistirá en contestar a 200 preguntas, cada una de las cuales contará con cuatro respuestas alternativas, sobre las materias que integran el programa.
+
+La segunda prueba consistirá en resolver cuatro supuestos prácticos que requieran aplicar el conocimiento de las materias que integran el programa a casos concretos. A tal efecto, el aspirante, tras realizar los cálculos y valoraciones precisos, deberá elegir entre ocho respuestas alternativas en cada uno de los supuestos.
+
+7.2 El tiempo para la realización de cada una de las pruebas de que consta el examen será de dos horas.
+
+8\. Criterios de corrección
+
+La prueba de preguntas concretas tendrá una puntuación máxima de 200 puntos. Cada pregunta correctamente respondida puntuará 1 punto y cada respuesta errónea se penalizará descontando un tercio del valor de una respuesta correcta.
+
+La prueba de supuestos prácticos tendrá igualmente una puntuación máxima de 200 puntos. Cada supuesto correctamente resuelto puntuará 50 puntos y cada supuesto erróneo se penalizará descontando un tercio del valor de un supuesto correcto.
+
+Para aprobar el examen deberá obtenerse una puntuación no inferior al 50 por ciento de los puntos posibles en cada una de las dos partes, debiendo obtenerse un mínimo del 60 por ciento del total de puntos atribuibles para el conjunto de las dos pruebas.
+
+9\. Mecánica del examen
+
+9.1 Cuando un aspirante a la obtención del certificado solicite realizar el examen, el órgano competente lo convocará, señalándole un día y hora determinados, para que lo realice.
+
+9.2 Cuando el examinando inicie el examen, la aplicación seleccionará aleatoriamente 200 preguntas del banco integrado en la aplicación.
+
+9.3 El examinando responderá las preguntas mediante la aplicación, pudiendo dar por terminada la prueba en el momento que estime conveniente.
+
+Si el examinando no hubiera dado por concluida la prueba con anterioridad, la aplicación la dará por terminada automáticamente en el momento en que hayan transcurrido dos horas desde que aquel inició el examen.
+
+9.4 Tan pronto como el examinando dé por terminada la prueba anterior o, en su caso, sea la propia aplicación la que la finalice, esta generará la segunda prueba, seleccionando, asimismo de forma aleatoria, cuatro supuestos prácticos del banco integrado en la aplicación.
+
+9.5 Como en el caso de las preguntas, el examinando resolverá los supuestos prácticos mediante la aplicación, señalando la contestación que estime adecuada.
+
+El examinando podrá dar por concluida esta segunda prueba cuando estime conveniente y, en cualquier caso, la aplicación la dará por terminada automáticamente en el momento en que hayan transcurrido dos horas desde que aquel inició la prueba.
+
+9.6 Concluida la segunda prueba, la aplicación calificará automáticamente el examen y el examinando podrá obtener una copia impresa tanto del examen como de la calificación obtenida.
+
+9.7 Cuando un examinando obtenga la calificación necesaria para aprobar, quedará automáticamente inscrito en el Registro de Empresas y Actividades de Transporte como persona que ha acreditado su competencia para el transporte en la modalidad que corresponda.
+
+9.8 La aplicación de gestión de los exámenes contará con un archivo histórico en el que se guarden todos los exámenes realizados en los últimos cinco años y su calificación.
+
+10\. Revisión de exámenes
+
+10.1 Cuando un examinando estime que una de las preguntas o supuestos prácticos que integraban su examen era erróneo o le ha sido mal calificado por la aplicación, podrá formular la correspondiente reclamación ante el Tribunal de revisión de exámenes nombrado al efecto por el órgano competente.
+
+10.2 Cuando el Tribunal de revisión de exámenes estime necesario anular esa pregunta o supuesto práctico por ser erróneo o encontrarse mal planteado, procederá a recalificar el examen.
+
+Cuando se anule una pregunta, la calificación necesaria para superar esa prueba se reducirá en 0,50 puntos y la necesaria para aprobar el examen también en 0,50.
+
+Cuando se anule un supuesto práctico, la calificación necesaria para superar esa prueba se reducirá en 25 puntos y la necesaria para aprobar el examen también en 25.
+
+10.3 Contra la resolución del Tribunal de revisión de exámenes, el examinando podrá interponer recurso ante el órgano que lo nombró.
+
+10.4 Cuando la anulación de una pregunta o supuesto práctico dé lugar a que un examinando apruebe el examen, el órgano competente para la realización del examen dictará resolución expresa y la comunicará a la Oficina Central del Registro de Empresas y Actividades de Transporte para que lleve a cabo la correspondiente inscripción.
+
+10.5 Siempre que una pregunta o un supuesto práctico de un examen sean anulados, ya sea por el Tribunal de revisión de exámenes o en vía de recurso, deberá notificarse a la Oficina Central del Registro de Empresas y Actividades de Transporte a fin de que realice la oportuna revisión del banco de preguntas integrado en la aplicación.
+
+> Se modifica el apartado 8 por el art. 1.3 del Real Decreto 242/2022, de 5 de abril. [Ref. BOE-A-2022-5520](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5520)
+
+> Se modifica el apartado 8 por la disposición final 1.12 del Real Decreto 284/2021, de 20 de abril. [Ref. BOE-A-2021-6624](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6624)
+
+> Se añade por el art. 2.134 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta que los apartados 3, 5, 6, 7, 8, 9 y 10, no serán de aplicación hasta el 1 de enero de 2022, según se establece en la disposición transitoria 5 del citado Real Decreto, en la redacción dada por la disposición final 7 del Real Decreto-ley 26/2020, de 7 de julio. [Ref. BOE-A-2020-7432](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7432)

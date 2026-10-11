@@ -1,0 +1,266 @@
+---
+title: "Decreto-ley 4/2019, de 29 de marzo, del Consell, de prestación del servicio de transporte público discrecional de personas viajeras mediante arrendamiento de vehículos con conductor"
+identifier: "DOGV-r-2019-90405"
+type: decree_law
+rank: "Decreto-ley"
+jurisdiction: es-comunitat-valenciana
+language: es
+department: "Comunitat Valenciana"
+date: 2019-03-29
+published: 2019-04-01
+in_force_from: 2019-04-02
+last_amended: 2026-06-05
+consolidated: 2026-06-05
+gazette: "Diari Oficial de la Comunitat Valenciana núm. 8519"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=DOGV-r-2019-90405"
+retrieved: 2026-10-11
+---
+
+# Decreto-ley 4/2019, de 29 de marzo, del Consell, de prestación del servicio de transporte público discrecional de personas viajeras mediante arrendamiento de vehículos con conductor
+
+PREÁMBULO
+
+El Real decreto ley 13/2018, de 28 de septiembre, por el que se modifica la Ley 16/1987, de 30 de julio, de ordenación de los transportes terrestres, en materia de arrendamiento de vehículos con conductor, en su disposición adicional primera, habilita a las comunidades autónomas que por delegación del Estado sean competentes para otorgar autorizaciones de arrendamiento de vehículos con conductor de ámbito nacional, a modificar las condiciones de explotación de las autorizaciones concedidas dentro de los ámbitos territoriales propios de cada comunidad autónoma, sin perjuicio de las competencias que puedan corresponder a las entidades locales en lo relativo al establecimiento o modificación de las citadas condiciones de explotación respecto de los servicios que discurran íntegramente dentro de su ámbito territorial.
+
+A raíz de la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, se publicó la Ley 25/2009, de 22 de diciembre, de modificación de diversas Leyes, entre ellas la Ley 16/1987, de ordenación de transportes terrestres (LOTT). Con esta modificación de la LOTT se dejó sin amparo legal las limitaciones cuantitativas al otorgamiento de autorizaciones de arrendamiento de vehículos con conductor (VTC). Dicha circunstancia ha dado lugar a la emisión de diferentes sentencias firmes dictadas por los tribunales, en virtud de las cuales el número de autorizaciones concedidas para el arrendamiento de vehículos con conductor se ha incrementado considerablemente y es previsible que, en un futuro inmediato, siga aumentando, lo que genera una distorsión en el mercado del transporte discrecional de personas viajeras, al concurrir en un mismo espacio tanto el taxi como el VTC, ya que ambos realizan actividades similares.
+
+Además, la presencia de un mayor número de vehículos en las ciudades puede generar problemas de movilidad, de protección del medio ambiente, de contaminación atmosférica y de gestión de tráfico por lo que resulta conveniente una nueva regulación que restablezca el necesario equilibrio entre estas dos formas de prestación de transporte público a personas viajeras.
+
+Como señala el Real decreto ley 13/2018 en su preámbulo, el rápido crecimiento de esta modalidad de transporte puede dar lugar a un desequilibrio entre oferta y demanda de transporte en vehículos de turismo que provoque un deterioro general de los servicios, en perjuicio de las personas viajeras, lo cual pone de manifiesto la necesidad de que, progresivamente, las regulaciones aplicables al taxi y el arrendamiento con conductor vayan aproximándose en la medida en que ello contribuya a un tratamiento armónico de las dos modalidades de transporte de personas viajeras en vehículos de turismo.
+
+Asimismo se considera conveniente establecer un periodo razonable mínimo de *vacatio legis* en cuanto a la entrada en vigor del régimen de precontratación mínimo establecido, para la adaptación del sector de las empresas de VTC, con el objetivo de facilitar el despliegue de las medidas técnicas adecuadas para su aplicación.
+
+La extraordinaria y urgente necesidad que justifica la adopción de las medidas incluidas en el decreto ley se hace extensiva a la tramitación de una regulación de los VTC en el ámbito de la Comunitat Valenciana, y está justificada por la concentración que se viene produciendo de los servicios de arrendamiento de vehículos con conductor en ámbitos estrictamente urbanos y metropolitanos, y que comienza a afectar de manera inmediata y significativa a la ordenación del transporte en el ámbito urbano y en el de las áreas de prestación conjunta del taxi. Recientemente se ha hecho patente la conflictividad social en el sector del transporte discrecional de personas viajeras en vehículos de turismo como consecuencia de los desajustes en la oferta y demanda, que pone de manifiesto la exigencia inmediata para que se fije un marco estable que garantice el derecho de la ciudadanía a emplear estas formas de transporte en condiciones óptimas y equilibradas para ambos sectores.
+
+Por ello, el decreto ley se configura como el instrumento jurídico adecuado para realizar una regulación que restrinja al máximo los problemas que puedan derivarse de la situación descrita.
+
+La Generalitat ostenta la competencia exclusiva en materia de transportes terrestres que transcurran íntegramente por su territorio conforme a lo establecido en el artículo 49.1.15.ª del Estatut d’Autonomia de la Comunitat Valenciana, aprobado por Ley orgánica 5/1982, de 1 de julio, en relación con lo establecido en el artículo 148.1.5.ª de la Constitución Española, que dispone que son competencia de las comunidades autónomas «los ferrocarriles y carreteras cuyo itinerario transcurra íntegramente en el territorio de la comunidad autónoma y, en los mismos términos, el transporte desarrollado por estos medios o por cable».
+
+En uso de las atribuciones conferidas por el artículo 44.4 del Estatut d’Autonomia de la Comunitat Valenciana, el artículo 58 de la ley 5/1983, de 30 de diciembre, del Consell, la disposición adicional primera del Real decreto ley 13/2018, de 28 de septiembre, el artículo 5 de la Ley orgánica 5/1987, de 30 de julio, de delegación de facultades del Estado en las comunidades autónomas en relación con los transportes por carretera y por cable, y el artículo 49.1.8.ª del Estatut d’Autonomia, a propuesta de la consellera de Vivienda, Obras Públicas y Vertebración del Territorio, y previa deliberación del Consell, en la reunión de 22 de marzo de 2019,
+
+DECRETO
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+El objeto de este decreto ley es regular el transporte de personas viajeras en vehículos de turismo en régimen de arrendamiento con conductor (VTC) que se realice íntegramente dentro del territorio de la Comunitat Valenciana.
+
+## Artículo 2. Prestación de servicios de arrendamiento de vehículos con conductor.
+
+La prestación del servicio de arrendamiento de vehículos con conductor únicamente podrá realizarse por aquellas personas, físicas o jurídicas, que sean titulares de la correspondiente autorización administrativa que les habilite para ello, expedida por la conselleria competente en materia de transporte por delegación del Estado. Esta autorización estará referida a cada uno de los vehículos mediante los cuales se realiza la actividad.
+
+## Artículo 3. Contratación de servicios.
+
+La contratación habrá de realizarse siempre por la capacidad total del vehículo sin que, en ningún caso, pueda realizarse una contratación individual o por plazas.
+
+> Se modifica por el texto que figura en el apartado 1 del Anexo I del Decreto-ley 5/2026, de 29 de mayo, según establece su artículo 1. [Ref. DOGV-r-2026-90144](https://www.boe.es/buscar/doc.php?id=DOGV-r-2026-90144)
+
+## Artículo 4. Registro de comunicaciones de los servicios de arrendamiento de vehículos con conductor.
+
+1\. Todos los servicios de transporte que discurran íntegramente por el territorio de la Comunitat Valenciana, o con inicio o finalización en ella, prestados por vehículos de titulares de autorizaciones de arrendamiento de vehículos con conductor, deberán comunicarse, previamente a su realización, al Registro de comunicaciones a que se refiere el artículo 2 del Real decreto 1076/2017, de 29 de diciembre, por el que se establecen normas complementarias, en materia de arrendamiento de vehículos con conductor, al Reglamento de la Ley de ordenación de los transportes terrestres, aprobado por Real decreto 1211/1990, de 28 de septiembre.
+
+2\. Las comunicaciones al Registro deberán ser facilitadas por las personas titulares de autorizaciones de arrendamiento de vehículos con conductor, o sus conductores, y los datos mínimos que deben contener son los establecidos en el artículo 24 de la Orden FOM/36/2008, de 9 de enero, por la que se desarrolla la sección segunda del capítulo IV del título V, en materia de arrendamiento de vehículos con conductor, del Reglamento de la Ley de ordenación de los transportes terrestres, debiendo quedar debidamente acreditado la hora y minuto de la precontratación y del inicio del servicio.
+
+## Artículo 5. Condiciones de prestación de los servicios.
+
+1\. Los vehículos adscritos a las autorizaciones de arrendamiento de vehículos con conductor no podrán, en ningún caso, circular por las vías públicas en busca de clientela ni propiciar la captación de personas viajeras que no hubiesen contratado previamente el servicio en la forma establecida en el artículo 3.
+
+La prohibición de circular por las vías públicas en busca de clientela incluye el estacionamiento en las citadas vías públicas, debiendo estacionar en garajes o aparcamientos no ubicados en la propia vía pública.
+
+2\. Queda prohibido el estacionamiento en lugares de concentración y generación de demanda de servicios de transporte de personas viajeras como puertos, aeropuertos, estaciones de ferrocarril y de autobuses, centros comerciales y de ocio, instalaciones deportivas, hoteles, paradas de taxis, hospitales o cualquier otro establecimiento similar, que pueda propiciar la captación de clientela.
+
+> Se modifica el apartado 1 por el texto que figura en el apartado 2 del Anexo I del Decreto-ley 5/2026, de 29 de mayo, según establece su artículo 1. [Ref. DOGV-r-2026-90144](https://www.boe.es/buscar/doc.php?id=DOGV-r-2026-90144)
+
+## Artículo 6. Descanso obligatorio.
+
+1\. Todos los vehículos adscritos a autorizaciones de arrendamiento de vehículos con conductor deberán realizar un descanso obligatorio.
+
+2\. El sistema de descanso obligatorio será establecido por la conselleria competente en materia de transporte.
+
+## Artículo 7. Especificaciones técnicas del vehículo.
+
+1\. Cada vez que se sustituya uno de los vehículos que están adscritos a autorizaciones VTC se hará por otro vehículo con etiqueta Eco o con etiqueta Cero Emisiones, de acuerdo con los distintivos ambientales para vehículos definidos por la Dirección General de Tráfico.
+
+2\. Lo establecido en el apartado primero no será aplicable a aquellas autorizaciones otorgadas de acuerdo con el cumplimiento de los criterios previstos en el artículo 99.5 a) último párrafo de la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres. En estos casos y, durante toda la vida de la autorización, el vehículo adscrito a la misma deberá ser de la tipología prevista en dicha normativa.
+
+No obstante, lo anterior, de conformidad con el artículo 99.5 b) de la Ley 16/1987, de 30 de julio, el otorgamiento de las autorizaciones de arrendamiento de vehículos con conductor estará condicionado por las siguientes especificaciones:
+
+a) Por parte de la conselleria con competencias en materia de transporte terrestre se elaborará un estudio técnico que analice el cumplimiento de los criterios establecidos en el artículo 99.5 b) de la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres.
+
+b) Dicho estudio técnico deberá analizar criterios objetivos relativos a la mejora de la calidad del aire, gestión del transporte, del tráfico y del espacio público, establecidos para el ámbito territorial de la Comunitat Valenciana.
+
+3\. Todos los vehículos adscritos a autorizaciones VTC residenciadas en el territorio de la Comunitat Valenciana, que realicen transporte de personas viajeras por la misma deberán llevar el distintivo que se regula en la Orden 12/2016, de 23 de noviembre, de la Conselleria de Vivienda, Obras Públicas y Vertebración del Territorio, por la que se crea un distintivo para la identificación de los vehículos de alquiler con conductor en la Comunitat Valenciana.
+
+> Se modifica por el texto que figura en el apartado 3 del Anexo I del Decreto-ley 5/2026, de 29 de mayo, según establece su artículo 1. [Ref. DOGV-r-2026-90144](https://www.boe.es/buscar/doc.php?id=DOGV-r-2026-90144)
+
+## Artículo 8. Régimen sancionador.
+
+1\. El incumplimiento de lo establecido en este decreto ley por lo que respecta a los servicios interurbanos se considerará infracción muy grave o grave, de acuerdo con lo establecido en los artículos 140 y 141, respectivamente, de la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres.
+
+2\. El incumplimiento de lo establecido en este decreto ley por lo que respecta a los servicios urbanos se regula en los artículos siguientes.
+
+3\. En relación con las autorizaciones de arrendamiento de vehículos con conductor de ámbito urbano domiciliadas en la Comunitat Valenciana, de conformidad con lo preceptuado en la legislación reguladora del régimen local, la competencia para incoar, instruir y resolver los procedimientos sancionadores por alguna de las infracciones previstas en el presente Decreto ley, así como, si procede, para la revisión en vía administrativa de los actos derivados de dichos procedimientos sancionadores, podrá ser objeto de delegación a los ayuntamientos que así lo soliciten y cumplan los requisitos generales exigibles en aquella legislación.
+
+> Se modifica por el texto que figura en el apartado 4 del Anexo I del Decreto-ley 5/2026, de 29 de mayo, según establece su artículo 1. [Ref. DOGV-r-2026-90144](https://www.boe.es/buscar/doc.php?id=DOGV-r-2026-90144)
+
+## Artículo 9. Inspección.
+
+1\. El personal con funciones de inspección nombrado por la Administración competente, a efectos del control de las condiciones de explotación establecidas en materia de arrendamiento de vehículos con conductor tienen, en los actos de servicio y en los actos motivados por éstos, la consideración de agentes de la autoridad en el ejercicio de sus funciones. Este personal ejercerá las funciones inspectoras correspondientes y dará cuenta de las infracciones detectadas a los órganos administrativos competentes.
+
+2\. La función inspectora puede ser ejercida de oficio, bien por propia iniciativa o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia.
+
+3\. Las personas físicas o jurídicas que llevan a cabo las actividades de arrendamiento de vehículos con conductor deben facilitar al personal con funciones de inspección, en ejercicio de las funciones que les corresponden, las tareas de inspección de sus vehículos e instalaciones, el examen de la documentación y de los datos en formato digital vinculados con el ejercicio de la actividad, siempre que sea necesario para la verificación del cumplimiento de las obligaciones establecidas por el presente Decreto ley, la normativa que lo desarrolle y el resto de normativa vigente.
+
+4\. Las actas de inspección deben reflejar claramente las circunstancias de los hechos o actividades que pueden ser constitutivos de infracción, los datos personales del presunto infractor o infractora y de la persona inspeccionada, la conformidad o disconformidad motivada de las personas interesadas y las disposiciones que, en su caso, se consideren infringidas.
+
+5\. Los hechos constatados en las actas extendidas por el personal de la inspección tienen valor probatorio y gozan de presunción de veracidad, sin perjuicio de las pruebas que puedan aportar las personas interesadas que puedan desvirtuar la presunción de veracidad de los hechos que constan en las actas.
+
+> Se añade por el texto que figura en el apartado 5 del Anexo I del Decreto-ley 5/2026, de 29 de mayo, según establece su artículo 1. [Ref. DOGV-r-2026-90144](https://www.boe.es/buscar/doc.php?id=DOGV-r-2026-90144)
+
+## Artículo 10. Sujetos infractores.
+
+1\. Son sujetos infractores:
+
+a) La persona física o jurídica titular de la autorización habilitada provisionalmente para la realización de servicios urbanos, en el caso de las infracciones cometidas en los servicios de arrendamiento de vehículos con conductor amparados por la preceptiva autorización.
+
+b) En las infracciones cometidas con ocasión de la realización del arrendamiento de vehículos con conductor llevado a cabo sin la cobertura de la preceptiva autorización habilitada provisionalmente para la realización de servicios urbanos, la persona física o jurídica propietaria o arrendataria del vehículo o titular de la actividad.
+
+A los efectos previstos en este apartado, se considerará titular de la actividad a la persona física o jurídica que materialmente la lleve a cabo en nombre propio, la organice o asuma la correspondiente responsabilidad empresarial.
+
+c) En el caso de las infracciones consistentes en la oferta de servicios de arrendamiento de vehículos con conductor sin disponer del título habilitante preceptivo para realizarlos, se considerarán responsables a las personas físicas o jurídicas que comercialicen u ofrezcan estos servicios de transporte y las personas físicas o jurídicas que materialmente lleven a cabo la prestación de los servicios de transporte.
+
+d) La persona física o jurídica que utilice la autorización de otra y la persona a cuyo nombre se haya expedido la autorización, salvo que ésta última acredite que no ha dado su consentimiento, en el caso de las infracciones cometidas en servicios de arrendamiento de vehículos con conductor.
+
+e) La persona física o jurídica a quien va destinado el precepto infringido o a quien las normas correspondientes atribuyan específicamente la responsabilidad, y, en general, terceras personas a cuya actividad no se refieren las letras a), b), c) y d) que lleven a cabo actividades reguladas por las disposiciones aplicables en materia de arrendamiento de vehículos con conductor.
+
+2\. La responsabilidad administrativa se exigirá a las personas físicas o jurídicas a las que se refiere el apartado 1, independientemente de que las acciones u omisiones de las que derive esta responsabilidad hayan sido materialmente realizadas por ellas o por el personal de su empresa, sin perjuicio de que puedan iniciar las acciones que a su juicio procedan contra las personas a las que sean materialmente imputables las infracciones.
+
+> Se añade por el texto que figura en el apartado 5 del Anexo I del Decreto-ley 5/2026, de 29 de mayo, según establece su artículo 1. [Ref. DOGV-r-2026-90144](https://www.boe.es/buscar/doc.php?id=DOGV-r-2026-90144)
+
+## Artículo 11. Infracciones muy graves.
+
+Son infracciones muy graves:
+
+a) Realizar servicios de arrendamiento de vehículos con conductor de carácter urbano sin la preceptiva habilitación provisional habilitante.
+
+b) Realizar la actividad de arrendamiento de vehículos con conductor de carácter urbano habiendo falsificado los documentos que sirvieron de base para su habilitación provisional.
+
+c) Ceder expresa o tácitamente los títulos habilitantes por parte de sus titulares, a favor de otras personas físicas o jurídicas.
+
+d) Contratar como portador o facturar en nombre propio servicios de arrendamiento de vehículos con conductor de carácter urbano sin ser previamente titular de la preceptiva habilitación provisional habilitante.
+
+e) Ofrecer servicios de arrendamiento de vehículos con conductor de carácter urbano sin disponer del título habilitante preceptivo para realizarlos.
+
+f) Prestar un servicio de arrendamiento de vehículos con conductor de carácter urbano en un ámbito territorial que no se corresponda con el de la autorización administrativa habilitante.
+
+g) Captar o recoger clientes con un vehículo adscrito a una autorización administrativa habilitada provisionalmente para la realización de servicios de arrendamiento de vehículos con conductor de carácter urbano sin que estos clientes hayan contratado previamente el servicio.
+
+h) Circular por las vías públicas con un vehículo adscrito a una autorización administrativa habilitada provisionalmente para la realización de servicios de arrendamiento de vehículos con conductor de carácter urbano en busca de clientes.
+
+i) Obstruir la actuación del personal con funciones de inspección de forma que se impida el ejercicio de las funciones que legal o reglamentariamente tienen atribuidas.
+
+j) Prestar los servicios de arrendamiento de vehículos con conductor mediante personas distintas de la titular de la autorización administrativa habilitada provisionalmente para la realización de servicios urbanos habilitante o que no hayan sido contratadas por aquélla.
+
+> Se añade por el texto que figura en el apartado 5 del Anexo I del Decreto-ley 5/2026, de 29 de mayo, según establece su artículo 1. [Ref. DOGV-r-2026-90144](https://www.boe.es/buscar/doc.php?id=DOGV-r-2026-90144)
+
+## Artículo 12. Infracciones graves.
+
+Son infracciones graves:
+
+a) No llevar los distintivos previstos en este decreto ley, o llevarlos de forma no conforme a las condiciones exigidas en normativa citada en el mismo.
+
+b) Incumplir las condiciones legales o reglamentariamente establecidas en relación con las autorizaciones administrativas habilitadas provisionalmente para la realización de servicios de arrendamiento de vehículos con conductor de carácter urbano en lo que concierne a los horarios y calendario de descanso en la prestación del servicio o a las características técnicas del vehículo.
+
+c) El incumplimiento de la obligación de suscribir los seguros preceptivos o tenerlos suscritos con una cobertura insuficiente.
+
+d) Estacionar en la vía pública un vehículo adscrito a una autorización administrativa habilitadas provisionalmente para la realización de servicios de arrendamiento de vehículos con conductor de carácter urbano y propiciar la captación de clientes que no hayan contratado previamente el servicio.
+
+e) No comunicar por vía electrónica los datos exigidos en el registro de comunicaciones de los servicios de carácter urbano de arrendamiento de vehículos con conductor o comunicarlos de forma incorrecta o incompleta.
+
+f) La salida de los vehículos dedicados al arrendamiento con conductor del lugar en el que habitualmente estén estacionados o su circulación sin disponer de la documentación exigible.
+
+g) Realizar servicios de carácter urbano o actividades de transporte incumpliendo alguna de las condiciones exigidas para la obtención y mantenimiento de las autorizaciones administrativas habilitadas provisionalmente para la realización de servicios de arrendamiento de vehículos con conductor de carácter urbano, que no se encuentren incluidas en alguno de los apartados anteriores.
+
+> Se añade por el texto que figura en el apartado 5 del Anexo I del Decreto-ley 5/2026, de 29 de mayo, según establece su artículo 1. [Ref. DOGV-r-2026-90144](https://www.boe.es/buscar/doc.php?id=DOGV-r-2026-90144)
+
+## Artículo 13. Infracciones leves.
+
+Son infracciones leves:
+
+a) No llevar a bordo del vehículo la documentación formal que sea exigible para acreditar la posibilidad legal de prestar el servicio.
+
+b) No cumplir las normas generales de policía que se determinen legal o reglamentariamente, salvo que el incumplimiento sea calificado de infracción grave o muy grave.
+
+> Se añade por el texto que figura en el apartado 5 del Anexo I del Decreto-ley 5/2026, de 29 de mayo, según establece su artículo 1. [Ref. DOGV-r-2026-90144](https://www.boe.es/buscar/doc.php?id=DOGV-r-2026-90144)
+
+## Artículo 14. Sanciones.
+
+1\. Las sanciones por las infracciones tipificadas en los artículos anteriores se graduarán de acuerdo con la repercusión social del hecho infractor y su intencionalidad, con la naturaleza de los perjuicios causados, con especial atención a quienes afecten a las condiciones de competencia o a la seguridad, con la magnitud del beneficio ilícitamente obtenido, y con la reincidencia o habitualidad en la conducta infractora, según las siguientes reglas:
+
+a) Se sancionarán con una multa de 501 a 1.000 euros las infracciones previstas en el artículo 13.
+
+b) Se sancionarán con una multa de 1.001 a 3.000 euros las infracciones previstas en el artículo 12.
+
+c) Se sancionarán con una multa de 3.001 a 6.000 euros las infracciones previstas en el artículo 11.
+
+2\. Se sancionarán con una multa de 3.001 a 6.000 euros las infracciones tipificadas en el artículo 12, cuando el responsable de éstas ya haya sido sancionado, mediante una resolución que ponga fin a la vía administrativa, por la comisión de cualquier infracción grave de las previstas en el artículo 12 en los dos años anteriores,
+
+3\. La imposición de tres sanciones en el período de dos años, mediante una resolución firme en la vía administrativa, por la comisión de las infracciones tipificadas en el artículo 11, contado desde la imposición de la primera de éstas, en servicios realizados al amparo de una misma autorización de arrendamiento de vehículos con conductor, podrá dar lugar a la revocación de ésta.
+
+> Se añade por el texto que figura en el apartado 5 del Anexo I del Decreto-ley 5/2026, de 29 de mayo, según establece su artículo 1. [Ref. DOGV-r-2026-90144](https://www.boe.es/buscar/doc.php?id=DOGV-r-2026-90144)
+
+## Artículo 15. Inmovilización de los vehículos.
+
+El personal con funciones de inspección ordenará la inmovilización inmediata del vehículo en caso de que se detecten conductas que constituyan infracciones muy graves, previstas en el artículo 11.
+
+A dichos efectos, dicho personal retendrá la documentación del vehículo, incluida, en su caso, la correspondiente licencia o autorización para la prestación del servicio, hasta que se subsanen las causas que dieron lugar a la inmovilización. Es responsabilidad del denunciado, en todo caso, la custodia del vehículo, de sus pertenencias y gastos que esta inmovilización pueda ocasionar, así como buscar los medios alternativos necesarios para hacer llegar a los viajeros a su destino.
+
+La inmovilización de los vehículos se realizará de conformidad con las siguientes condiciones:
+
+a) El personal con funciones de inspección formularán la correspondiente denuncia y fijarán provisionalmente la cuantía de la sanción.
+
+b) El importe de la sanción debe ser abonado en el momento de la denuncia en concepto de depósito y debe entregarse al denunciado el recibo de depósito de la cantidad correspondiente. Este depósito debe hacerse efectivo con tarjeta de crédito.
+
+La cantidad debe ser entregada como resultado del acuerdo que en definitiva adopte la autoridad competente, a la que debe remitirse esta cantidad con la denuncia.
+
+c) Si se deja sin efecto la denuncia o se reduce el importe de la sanción, debe ponerse a disposición del interesado o de su representante la cantidad que sea procedente en cada caso.
+
+d) No podrá devolverse, en ningún caso, la documentación del vehículo o dejar sin efecto la medida cautelar de inmovilización del vehículo hasta que no se haga efectivo el importe provisional, en concepto de depósito, de la sanción.
+
+> Se añade por el texto que figura en el apartado 5 del Anexo I del Decreto-ley 5/2026, de 29 de mayo, según establece su artículo 1. [Ref. DOGV-r-2026-90144](https://www.boe.es/buscar/doc.php?id=DOGV-r-2026-90144)
+
+## Disposición adicional primera. Ejercicio de competencias y habilitación a los entes locales.
+
+Las entidades locales, en el ejercicio de sus competencias, podrán modificar las condiciones de explotación del artículo 182.1 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, para garantizar el control efectivo de las condiciones de prestación de los servicios, respetando los criterios de proporcionalidad que establece la normativa vigente. A estos efectos podrán:
+
+a) [Suprimida].
+
+b) Ampliar el listado de instalaciones de lugares de generación de demanda de servicios de transporte y establecer una distancia mínima en la que estaría prohibido el aparcamiento desde dichas instalaciones, a las que se hace referencia en el artículo 5.
+
+c) Establecer requisitos adicionales a las especificaciones técnicas de los vehículos previstos en el artículo 7.
+
+> Se modifica por el texto que figura en el apartado 6 del Anexo I del Decreto-ley 5/2026, de 29 de mayo, según establece su artículo 1. [Ref. DOGV-r-2026-90144](https://www.boe.es/buscar/doc.php?id=DOGV-r-2026-90144)
+
+## Disposición adicional segunda. Incidencia presupuestaria.
+
+La aplicación y desarrollo de este decreto ley no podrá tener incidencia alguna en la dotación de gasto asignada a la conselleria competente por razón de la materia y, en todo caso, deberá ser atendida con sus medios personales y materiales.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango que se opongan a lo dispuesto en el presente Decreto ley.
+
+## Disposición final primera. Modificación de la ley 6/2011, de movilidad de la Comunitat Valenciana.
+
+Se modifica el apartado 2.c del artículo 3 de la Ley 6/2011, de 1 de abril, de la Generalitat, de movilidad de la Comunitat Valenciana, que queda redactado en los siguientes términos:
+
+«c) La provisión de los servicios de transporte público dentro de los núcleos urbanos. En concreto le corresponderá la regulación, ordenación e intervención administrativa de los servicios de transporte público urbano, que tengan lugar dentro de su ámbito territorial, prestados mediante el arrendamiento de vehículos con conductor u otras modalidades similares.»
+
+## Disposición final segunda. Habilitación para el desarrollo reglamentario.
+
+El Consell y la persona titular de la conselleria competente en materia de transporte podrán dictar las disposiciones necesarias para el desarrollo, ejecución y cumplimiento de este decreto ley en el ámbito de sus respectivas competencias.
+
+## Disposición final tercera. Entrada en vigor.
+
+Este decreto ley entrará en vigor el día siguiente al de su publicación en el Diari Oficial de la Generalitat Valenciana, excepto el artículo 3.1, y el apartado a de la disposición adicional primera, que entrarán en vigor en el plazo de dos meses a contar desde la publicación.
+
+València, 29 de marzo de 2019.−El president de la Generalitat, Ximo Puig i Ferrer.−La consellera de Vivienda, Obras Públicas y Vertebración del Territorio, María José Salvador Rubert.

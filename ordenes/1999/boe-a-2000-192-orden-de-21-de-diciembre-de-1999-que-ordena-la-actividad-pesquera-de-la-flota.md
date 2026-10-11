@@ -1,0 +1,243 @@
+---
+title: "Orden de 21 de diciembre de 1999 que ordena la actividad pesquera de la flota española que faena en la zona de regulación de la organización de pesca del Atlántico noroccidental"
+identifier: "BOE-A-2000-192"
+eli: "https://www.boe.es/eli/es/o/1999/12/21/(6)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1999-12-21
+published: 2000-01-05
+in_force_from: 2000-01-06
+last_amended: 2012-08-30
+consolidated: 2026-02-02
+gazette: "Boletín Oficial del Estado núm. 4"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2000-192"
+retrieved: 2026-10-11
+---
+
+# Orden de 21 de diciembre de 1999 que ordena la actividad pesquera de la flota española que faena en la zona de regulación de la organización de pesca del Atlántico noroccidental
+
+La Orden de 17 de octubre de 1988, por la que se ordena la actividad pesquera de la flota española en el área de regulación de la Organización de Pesquerías del Atlántico Noroccidental (NAFO), regula la actividad de los buques dirigidos a las diferentes pesquerías del área.
+
+El desarrollo de pesquerías dirigidas a nuevas especies, la práctica desaparición de la flota potera especializada y la regulación por parte de NAFO de algunas especies como fletán negro y camarón, hacen necesaria una nueva regulación de la actividad de los buques españoles dirigidos a estas nuevas pesquerías.
+
+La modificación de la estructura de las flotas que operan habitualmente en el área de regulación de NAFO y la asignación de nuevas posibilidades de pesca a España, tanto en términos de cuotas como de días de pesca hace también necesario el establecimiento de criterios para su asignación entre las empresas propietarias de los buques habituales en las pesquerías.
+
+Asimismo, la posible futura regulación de nuevas especies obliga a determinar los criterios de acceso y, en su caso, de reparto de las posibilidades asignadas a España entre las empresas propietarias de los barcos con habitualidad en la pesquería de estas nuevas especies.
+
+En la elaboración de esta Orden ha sido consultado el sector afectado.
+
+La presente Orden se dicta sobre la base de la competencia exclusiva en materia de pesca marítima establecida en el artículo 149.1.19 de la Constitución.
+
+En su virtud,
+
+DISPONGO:
+
+## Artículo 1. Ámbito de aplicación.
+
+Las normas contenidas en la presente Orden serán de aplicación a todos los buques de pabellón español que ejerzan su actividad en el área de regulación de la Organización de Pesca del Atlántico Noroccidental (NAFO).
+
+## Artículo 2. Censos de buques.
+
+Sólo se autorizará la actividad pesquera en el área de regulación de NAFO a los buques relacionados en los censos siguientes:
+
+I. Censo de la Flota Bacaladera.
+
+II. Censo de la Flota Arrastrera Congeladora NAFO, integrado por todos aquellos buques que, figurando en el Censo de Flota Operativa, se encuentren en uno de los siguientes supuestos:
+
+a) Buques incluidos en el Censo de Flota Arrastrera Congeladora.
+
+b) Buques que pueda acreditarse hayan faenado en el área de regulación de NAFO con autorización administrativa.
+
+c) Buques que hayan adquirido posibilidades de pesca sobre especies reguladas, conforme a lo establecido en la presente Orden.
+
+## Artículo 3. Solicitudes de inclusión en el censo.
+
+Los armadores de los buques que se encuentren incluidos en el supuesto b) del artículo anterior, podrán solicitar, en el plazo de treinta días a partir de la entrada en vigor de la presente Orden, a la Secretaría General de Pesca Marítima, su inclusión en el Censo de la Flota Arrastrera Congeladora NAFO.
+
+Los armadores de los buques que se encuentren incluidos en el supuesto c) del artículo anterior, deberán solicitar su inclusión en el censo, acompañada de la documentación acreditativa de la asignación de posibilidades de pesca.
+
+## Artículo 4. Esfuerzo pesquero.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Orden de 22 de marzo de 2000. [Ref. BOE-A-2000-6267](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-6267)
+
+## Artículo 5. Baja en el censo.
+
+La baja en el censo de la Flota Arrastrera Congeladora NAFO se producirá en los supuestos siguientes:
+
+1\. A petición propia del armador.
+
+2\. Por paralización definitiva.
+
+3\. Por cesión total y definitiva de las posibilidades de pesca asignadas.
+
+4\. Por sustitución definitiva por otro buque.
+
+> Se modifica por el art. único de la Orden de 22 de marzo de 2000. [Ref. BOE-A-2000-6267](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-6267)
+
+## Artículo 6. Sustitución en el censo.
+
+Los armadores de los buques incluidos en los censos, podrán sustituir un buque por otro siempre que las condiciones técnicas y demás parámetros del buque sustituto no incidan en el esfuerzo pesquero de forma superior al buque sustituido.
+
+La sustitución deberá ser previamente comunicada a la Secretaría General de Pesca Marítima.
+
+> Se modifica por el art. único de la Orden de 22 de marzo de 2000. [Ref. BOE-A-2000-6267](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-6267)
+
+## Artículo 7. Permiso temporal de pesca.
+
+El ejercicio de la actividad pesquera en el área de regulación de NAFO estará condicionado a la obtención del correspondiente Permiso Temporal de Pesca (PTP), en el que se hará constar la especie o grupo de especies a capturar y la zona de pesca autorizada, así como aquellas otras condiciones específicas que se consideren necesarias para el desarrollo de la actividad pesquera.
+
+## Artículo 8. Captura de especies reguladas.
+
+Los buques que ejerzan su actividad en el área de regulación de NAFO sólo podrán dirigir sus capturas hacia aquellas especies reguladas para las que dispongan posibilidades de pesca.
+
+## Artículo 9. Captura de especies no reguladas.
+
+Por razones de conservación de los recursos y de racionalización de la actividad pesquera, se podrán establecer en el Permiso Temporal de Pesca correspondiente, condiciones específicas para la pesca dirigida a especies no reguladas, previo informe del Instituto Español de Oceanografía.
+
+## Artículo 10. Captura incidental de especies reguladas y especies en moratoria.
+
+1\. Las capturas incidentales de especies reguladas y especies en moratoria, se ajustarán a lo dispuesto en la reglamentación comunitaria y a lo que se establezca en los Permisos Temporales de Pesca.
+
+2\. Los buques de empresas que no dispongan de posibilidades de pesca de bacalao podrán mantener a bordo dicha especie accesoria siempre que las capturas posean una talla superior a 55 centímetros.
+
+Las capturas de bacalao de talla inferior a 55 centímetros no podrán retenerse a bordo, transbordarse, desembarcarse o descargarse, ni depositarse, debiendo devolverse inmediatamente al mar tras su captura, de conformidad con lo dispuesto en el artículo 11 de la Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado. Las capturas accesorias de bacalao sólo podrán desembarcarse en los puertos autorizados para las descargas de fletán negro.
+
+> Se modifica el apartado 2 por el art. único.1 de la Orden APA/2137/2005, de 23 de junio. [Ref. BOE-A-2005-11531](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11531)
+
+## Artículo 11. Reparto de posibilidades de pesca.
+
+1\. El reparto entre los buques de posibilidades de pesca de especies hasta ahora no reguladas, se realizará de acuerdo con los criterios siguientes:
+
+a) La habitualidad en la actividad pesquera, cifrada en volumen de capturas, esfuerzo de pesca, tiempo o presencia en zona.
+
+b) Las características técnicas.
+
+c) Los demás parámetros del buque, así como otras posibilidades de pesca de que disponga.
+
+2\. El cálculo del reparto de posibilidades de pesca entre los buques habituales en una pesquería, se realizará sobre la base de la documentación aportada en cumplimiento de las obligaciones establecidas en los artículos 20 y 21.
+
+3\. Cuando se produzca un incremento de las posibilidades de pesca, la asignación efectuada a cada buque o grupo de buques se incrementará proporcionalmente, de modo que mantengan entre sí la misma posición relativa. De quedar posibilidades de pesca sobrantes, éstas se distribuirán preferentemente entre buques que, reuniendo características técnicas idóneas para la pesquería en cuestión, hayan resultado afectados por medidas de reducción de las posibilidades de pesca.
+
+4\. Cuando se produzca una reducción de las posibilidades de pesca, la asignación efectuada a cada buque o grupo de buques se reducirá proporcionalmente, de modo que mantengan entre sí la misma posición relativa.
+
+## Artículo 12. Plan de pesca.
+
+1\. Las entidades asociativas o, en su caso, cada armador individual, presentarán, antes del 15 de noviembre de cada año, un plan parcial de pesca ante la Secretaría General de Pesca Marítima, teniendo en cuenta las cuotas o los días de pesca asignados a España para cada una de las especies.
+
+2\. La Secretaría General de Pesca Marítima, sobre la base de los planes parciales presentados, aprobará anualmente un plan de pesca en el que se establecerán las posibilidades de pesca por barco o asociación.
+
+Para la gestión de la actividad de pesca se utilizarán los conceptos de días de pesca y cuotas asignadas por barco o asociación.
+
+## Artículo 13. Acceso a otras zonas de pesca.
+
+Los buques incluidos en el plan de pesca para un año determinado en la zona de pesca de NAFO, no podrán durante ese año acceder a otras zonas de pesca distintas de las del Atlántico Norte sin expresa autorización de la Secretaría General de Pesca Marítima, que será otorgada en base a las previsiones del Plan de Pesca anual.
+
+## Artículo 14. Pesquería de fletán negro.
+
+Las posibilidades de pesca anuales asignadas a España para la captura de fletán negro que corresponden a las entidades asociativas y las empresas propietarias de los buques habituales en la pesquería se concretan en los porcentajes recogidos en el anexo I.
+
+## Artículo 15. Pesquería del bacalao.
+
+Las posibilidades de pesca anuales asignadas a España para la captura de bacalao que corresponden a las entidades asociativas y las empresas propietarias de los buques habituales en la pesquería se concretan en los porcentajes recogidos en el anexo II.
+
+## Artículo 16. Pesquería del camarón.
+
+Las posibilidades de pesca anuales asignadas a España para la captura de camarón se repartirán entre las empresas propietarias de los buques habituales en la pesquería recogidos en los anexos III y IX.
+
+> Se modifica por el art. único.1 de la Orden AAA/1858/2012, de 22 de agosto. [Ref. BOE-A-2012-11222](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-11222)
+
+## Artículo 17. Pesquería de especies planas.
+
+En el límite de las posibilidades de pesca anuales asignadas a España para la captura de platija limanda y mendo, podrán ejercer pesca dirigida a estas especies las empresas propietarias de los buques habituales en la pesquería recogidos en el anexo IV.
+
+## Artículo 18. Pesquería de gallineta, raya y locha.
+
+Las posibilidades de pesca anuales asignadas a España para la captura de gallineta, raya y locha se repartirán entre las empresas propietarias de los buques habituales en la pesquería recogidos en los Anexos V, VI, VII y VIIII.
+
+> Se modifica por el art. único.2 de la Orden APA/2137/2005, de 23 de junio. [Ref. BOE-A-2005-11531](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11531)
+
+## Artículo 19. Cesión de posibilidades de pesca.
+
+1\. Las empresas propietarias podrán ceder total o parcialmente y con carácter temporal o definitivo las posibilidades de pesca asignadas a sus buques.
+
+2\. Las cesiones temporales y las cesiones parciales, tanto de carácter temporal como definitivo, deberán producirse entre los buques incluidos en los censos establecidos en el artículo 2 de la presente Orden.
+
+3\. La cesión de cuota de pesca deberá ser previamente comunicada a la Secretaría General de Pesca Marítima.
+
+> Se modifica por el art. único de la Orden de 22 de marzo de 2000. [Ref. BOE-A-2000-6267](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-6267)
+
+## Artículo 20. Exceso de capturas.
+
+El exceso de capturas sobre las posibilidades de pesca asignadas a un buque o asociación durante un año determinado se descontará en el año siguiente de las posibilidades de pesca asignadas a dicho buque o asociación a no ser que el exceso sea compensado mediante cesión o intercambio de otros buques o asociaciones.
+
+## Artículo 21. Documentos.
+
+Los capitanes o patrones de los buques deberán llevar el Diario de Pesca y cumplimentar la declaración de desembarque previstos en la normativa comunitaria, contabilizando la totalidad de capturas por especie y zona estadística.
+
+## Artículo 22. Obligaciones del armador o entidad asociativa.
+
+Los armadores de los buques, capitanes, patrones o sus representantes, bien directamente o a través de la entidades asociativas correspondientes, estarán obligados a comunicar y remitir a la Secretaría General de Pesca Marítima:
+
+1\. La fecha y puerto de desembarque, con un mínimo de setenta y dos horas de antelación.
+
+2\. Copia de la declaración de desembarque, cada vez que ésta se produzca en la que se harán constar las cantidades de las distintas especies desembarcadas en peso procesado, indicando zona estadística de procedencia y tipo de procesado.
+
+3\. Una comunicación cada quince días, que contenga como mínimo la siguiente información:
+
+a) Capturas, efectuadas durante la quincena anterior, en peso vivo, indicando especie y zona estadística.
+
+b) Días de pesca.
+
+## Artículo 23. Transbordos.
+
+Los capitanes y patrones de los buques o sus representantes deberán cumplir la normativa comunitaria y nacional en la materia.
+
+## Artículo 24. Infracciones y sanciones.
+
+El incumplimiento de las normas establecidas en la presente Orden será sancionado de conformidad con lo dispuesto en la Ley 14/1998, de 1 de junio, por la que se establece el régimen de control para protección de los recursos pesqueros.
+
+## Disposición transitoria primera.
+
+El Plan Parcial de Pesca para el año 2000 será presentado en el plazo de un mes desde la entrada en vigor de la presente Orden.
+
+> Se numera por el art. único.3 de la Orden APA/2137/2005, de 23 de junio. [Ref. BOE-A-2005-11531](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11531)
+
+## Disposición transitoria segunda.
+
+Los buques autorizados conforme a lo previsto en el artículo 7, deberán permanecer fuera del caladero de NAFO por un periodo mínimo de 4 meses consecutivos mientras se mantenga el plan de recuperación del fletán negro.
+
+La Dirección General de Recursos Pesqueros de la Secretaría General de Pesca Marítima podrá autorizar periodos de permanencia superiores en función de la disponibilidad de recursos de pesca existentes.
+
+> Se añade por el art. único.3 de la Orden APA/2137/2005, de 23 de junio. [Ref. BOE-A-2005-11531](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11531)
+
+## Disposición derogatoria.
+
+Queda derogada cualquier norma de igual o inferior rango que se oponga a lo establecido en la presente disposición y expresamente la Orden de 17 de octubre de 1988, por la que se ordena la actividad pesquera de la flota española que faena en la zona de regulación de la Organización de la Pesca del Atlántico Noroccidental (NAFO).
+
+## Disposición final primera. Actualización de censos.
+
+La Secretaría General de Pesca Marítima confeccionará anualmente los censos y la correspondiente actualización del contenido de los anexos, recogiendo las variaciones habidas en el año precedente, para su publicación en el «Boletín Oficial del Estado».
+
+## Disposición final segunda. Aplicación.
+
+Por el Secretario general de Pesca Marítima se adoptarán, en el ámbito de sus competencias, las medidas y resoluciones necesarias para la aplicación de lo dispuesto en la presente Orden.
+
+## Disposición final tercera. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 21 de diciembre de 1999.
+
+POSADA MORENO
+
+Ilmos. Sres.: Secretario general de Pesca Marítima, Director general de Recursos Pesqueros y Director general de Estructuras y Mercados Pesqueros.
+
+## ANEXOS
+
+> Se han omitido los Anexos. Consúltese el [PDF oficial](https://www.boe.es/boe/dias/2000/01/05/pdfs/A00370-00374.pdf#page=3) y las correspondientes resoluciones de actualización.

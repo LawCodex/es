@@ -1,0 +1,465 @@
+---
+title: "Real Decreto 7/1997, de 10 de enero, de estructura orgánica y funciones del Instituto de la Cinematografía y de las Artes Audiovisuales"
+identifier: "BOE-A-1997-1450"
+eli: "https://www.boe.es/eli/es/rd/1997/01/10/7"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1997-01-10
+published: 1997-01-28
+in_force_from: 1997-01-29
+last_amended: 2026-06-12
+consolidated: 2026-06-17
+gazette: "Boletín Oficial del Estado núm. 24"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-1450"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 7/1997, de 10 de enero, de estructura orgánica y funciones del Instituto de la Cinematografía y de las Artes Audiovisuales
+
+Esta norma pasa a denominarse **«Real Decreto 7/1997, de 10 de enero, por el que se aprueba el Estatuto del organismo autónomo Instituto de la Cinematografía y de las Artes Audiovisuales»**, según establece el art. 2.1 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+Incluye la corrección de errores publicada en BOE núm. 31, de 5 de febrero de 1997. [Ref. BOE-A-1997-2342](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-2342)
+
+Una vez creado el nuevo Ministerio de Educación y Cultura, según el Real Decreto 758/1996, de 5 de mayo, y establecida su estructura orgánica básica por los Reales Decretos 839/1996, de 10 de mayo, y 1887/1996, de 2 de agosto, resulta conveniente proceder a la revisión de la estructura orgánica y funciones del organismo autónomo Instituto de la Cinematografía y de las Artes Audiovisuales, antes dependiente del Ministerio de Cultura y que ahora lo es del nuevo Departamento, al que queda adscrito a través de la Secretaría de Estado de Cultura.
+
+Dicha revisión se lleva a cabo en cumplimiento de lo establecido en la disposición final tercera del citado Real Decreto 839/1996, y en uso de la autorización conferida al Gobierno por el artículo 76 de la Ley 42/1994, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social, y supone, fundamentalmente, una nueva distribución de funciones entre las cuatro Subdirecciones Generales dependientes del Director general del organismo, más acorde con las líneas de actuación del mismo: Fomento de la cinematografía y artes audiovisuales, proyección exterior y relaciones institucionales, y preservación del patrimonio cinematográfico.
+
+En su virtud, a propuesta conjunta de los Ministros de Administraciones Públicas y de Economía y Hacienda, de acuerdo con el Ministerio de Educación y Cultura y previa deliberación del Consejo de Ministros en su reunión del día 10 de enero de 1997,
+
+DISPONGO:
+
+## Artículo único.
+
+Se aprueba el Estatuto del organismo autónomo Instituto de la Cinematografía y de las Artes Audiovisuales.
+
+> Se añade por el art. 2.2 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 1. Naturaleza y régimen jurídico.
+
+1\. El Instituto de la Cinematografía y de las Artes Audiovisuales es un organismo autónomo de los previstos en el artículo 98.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, adscrito al Ministerio de Cultura a través de la Secretaría de Estado de Cultura, con personalidad jurídica pública diferenciada y plena capacidad de obrar, tesorería y patrimonio propios, y autonomía en su gestión. Su denominación es Instituto de la Cinematografía y de las Artes Audiovisuales, O.A.
+
+2\. Corresponde al Ministerio de Cultura la dirección estratégica, la evaluación de los resultados de su actividad y el control de eficacia, este último a través de la inspección de servicios, en los términos previsto en los artículos 85 y 98.2 de la Ley 40/2015, de 1 de octubre. El organismo estará sometido a la supervisión continua del Ministerio de Hacienda, a través de la Intervención General de la Administración del Estado, conforme a lo dispuesto en el artículo 85.3 de dicha ley.
+
+3\. El Instituto de la Cinematografía y de las Artes Audiovisuales O.A. se rige, además de por lo dispuesto en la Ley 40/2015, de 1 de octubre, y por este Estatuto, por la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas; la Ley 47/2003, de 26 de noviembre, General Presupuestaria; la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, y por el resto de las normas de derecho administrativo general y especial que le sean de aplicación. En defecto de norma administrativa, se aplicará el derecho común.
+
+> Se modifica por el art. 2.3 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 1 bis. Potestades administrativas.
+
+Al Instituto de la Cinematografía y de las Artes Audiovisuales O.A., dentro de la esfera de sus competencias, le corresponde el ejercicio de las potestades administrativas precisas para el cumplimiento de sus fines, en los términos establecidos en el presente Estatuto y de acuerdo con la legislación aplicable, salvo la potestad expropiatoria.
+
+> Se añade por el art. 2.4 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 2. Fines.
+
+Corresponde al Instituto de la Cinematografía y de las Artes Audiovisuales O.A. la consecución de los siguientes fines:
+
+a) El fortalecimiento y apoyo de toda la cadena de valor del tejido creativo e industrial que opera en el ámbito de la cinematografía y del audiovisual, con especial atención a los sectores independientes por constituir elementos esenciales de la diversidad cultural.
+
+b) El respaldo a los autores y autoras y al pleno ejercicio de los derechos de propiedad intelectual, en un contexto que salvaguarde la autonomía creativa, que permita alcanzar la mayor calidad, libertad y diversidad artística posible de las producciones cinematográficas y audiovisuales.
+
+c) La mejora de la competitividad de empresas y profesionales del sector de la cinematografía y del audiovisual a nivel nacional e internacional, así como su adaptación a las nuevas tecnologías, formatos y hábitos de consumo.
+
+d) La proyección exterior de la cinematografía y del audiovisual español, con especial estímulo de las coproducciones internacionales.
+
+e) La protección y difusión del patrimonio cinematográfico y audiovisual español.
+
+f) El desempeño de las actuaciones de colaboración, cooperación y coordinación con las Comunidades Autónomas en materia de la cinematografía y el audiovisual, de acuerdo con los principios rectores de las relaciones interadministrativas establecidos en la normativa vigente.
+
+> Se modifica por el art. 2.5 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 3. Funciones.
+
+1\. El Instituto de la Cinematografía y de las Artes Audiovisuales O.A., en el ámbito de la Administración General del Estado, y sin perjuicio de las competencias de otros departamentos ministeriales, ejercerá las siguientes funciones, de acuerdo con la normativa reguladora de la cinematografía y la cultura audiovisual correspondiente:
+
+a) La ordenación de diversos aspectos sustantivos de la actividad cinematográfica y audiovisual desarrollada en España, que incluye, al menos: el reconocimiento de la nacionalidad española de las obras audiovisuales; su calificación en atención a la protección de las personas menores de edad; la aprobación de las coproducciones internacionales; el control de asistencia, rendimientos y visionados de las películas cinematográficas y otras obras audiovisuales; el control de la cuota de pantalla; la recuperación, restauración, conservación, investigación y difusión del patrimonio cinematográfico y audiovisual español; y la gestión del Registro Administrativo de Empresas Cinematográficas y Audiovisuales.
+
+b) El establecimiento de medidas de fomento para la creación, producción, distribución, exhibición y promoción en el interior y exterior de películas cinematográficas y otras obras audiovisuales, para la difusión de obras de interés cultural, para la conservación del patrimonio cinematográfico y para la formación de profesionales, mediante la concesión de subvenciones.
+
+c) El fomento de la producción independiente con incentivos específicos y medidas que faciliten la competitividad y desarrollo de estas empresas.
+
+d) El estímulo de las coproducciones internacionales, a través de medidas que fomenten su formalización, así como mediante el impulso para la suscripción de los correspondientes convenios internacionales.
+
+e) El establecimiento de medidas para facilitar el acceso a créditos en condiciones favorables para los diferentes ámbitos de la actividad cinematográfica y audiovisual, mediante la minoración de cargas financieras y ampliación del sistema de garantías bancarias.
+
+f) El apoyo, en el marco de la legislación tributaria, a la aplicación de distintas medidas o regímenes que contribuyan al fomento de la cinematografía y del audiovisual.
+
+g) La suscripción de convenios con entidades públicas o privadas para el desarrollo de las funciones estatales atribuidas.
+
+h) El fomento del conocimiento y difusión del cine en los diferentes ámbitos educativos y la promoción de la accesibilidad en línea de las obras cinematográficas y la integración de sus contenidos en el sistema educativo, así como la creación de programas de formación en la cultura cinematográfica y audiovisual, y actividades de asistencia a las salas de exhibición cinematográfica.
+
+i) El fomento de actividades de I+D+i en el ámbito cinematográfico y audiovisual y la aplicación de nuevos formatos y tecnologías que se vayan incorporando en el sector. Asimismo, el fomento y la difusión de la investigación en cinematografía y en conservación y restauración de archivos fílmicos.
+
+j) El fomento, en el ámbito cinematográfico y audiovisual, de la igualdad de género y de la incorporación de mujeres, profesionales jóvenes y del talento emergente, así como de personas con otros orígenes nacionales o étnicos y de personas con discapacidad.
+
+k) El establecimiento de medidas que favorezcan el desarrollo sostenible y que reduzcan el impacto ambiental, que contribuyan a la transición digital, que mejoren la accesibilidad universal a las personas con discapacidad y que fortalezcan la cohesión social y territorial.
+
+l) El fomento de la labor de los órganos competentes para actuar contra las actividades vulneradoras de los derechos de propiedad intelectual y especialmente en la prevención de las mismas, así como la colaboración con cualquier órgano o entidad en aquellas actividades que se hallen encaminadas a la protección y defensa de la propiedad intelectual.
+
+m) La promoción de la autorregulación para que los diferentes agentes implicados en la actividad cinematográfica y audiovisual adopten de forma voluntaria directrices, entre sí y para sí y sean responsables del desarrollo de estas directrices, así como del seguimiento y aplicación de su cumplimiento.
+
+n) El establecimiento de premios en reconocimiento de una trayectoria profesional, de una destacada labor en la puesta en valor del patrimonio cinematográfico y audiovisual o de una aportación sobresaliente en el ámbito cinematográfico español.
+
+ñ) La promoción de la cinematografía y de las artes audiovisuales españolas, así como las relaciones con organismos e instituciones internacionales y extranjeras de fines similares.
+
+o) La gestión recaudatoria de las tasas y precios públicos que le corresponda percibir.
+
+p) El ejercicio de la potestad sancionadora de acuerdo con el régimen previsto en el artículo 36 del Real Decreto 1084/2015, de 4 de diciembre, por el que se desarrolla la Ley 55/2007, de 28 de diciembre, del Cine.
+
+2\. El Instituto de la Cinematografía y de las Artes Audiovisuales O.A., y los órganos de las Comunidades Autónomas con competencia en materia cinematográfica y audiovisual se relacionarán entre sí de acuerdo con los principios rectores de las relaciones interadministrativas, y actuarán mediante las técnicas de colaboración y cooperación que consideren oportunas.
+
+> Se modifica por el art. 2.6 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 4. Órganos de gobierno.
+
+Los órganos de gobierno del Instituto de la Cinematografía y de las Artes Audiovisuales, O.A., son, de acuerdo con lo dispuesto en el artículo 90.1 de la Ley 40/2015, de 1 de octubre, los siguientes:
+
+a) La Presidencia.
+
+b) El Consejo Rector.
+
+> Se modifica por el art. 2.7 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 5. Presidencia.
+
+1\. La Presidencia del Instituto de la Cinematografía y de las Artes Audiovisuales, O.A., corresponde a la persona titular del Ministerio de Cultura.
+
+2\. La Presidencia es, junto con el Consejo Rector, el máximo órgano de gobierno del organismo y le corresponden las siguientes funciones:
+
+a) Ejercer la alta dirección y representación institucional del organismo.
+
+b) Presidir el Consejo Rector, ordenando sus correspondientes convocatorias y fijando sus respectivos órdenes del día teniendo en cuenta las peticiones que formulen los miembros.
+
+c) Resolver los procedimientos sancionadores por infracciones muy graves, de acuerdo con la legislación aplicable en materia cinematográfica y audiovisual.
+
+3\. Los actos y resoluciones de la Presidencia ponen fin a la vía administrativa. Contra tales actos y resoluciones cabrá interponer recurso ante el orden jurisdiccional contencioso-administrativo, sin perjuicio del recurso potestativo de reposición previsto en el artículo 123 de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica por el art. 2.8 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 5 bis. Consejo Rector.
+
+1\. El Consejo Rector se constituye junto con la Presidencia como el máximo órgano de gobierno del Instituto de la Cinematografía y de las Artes Audiovisuales O.A.
+
+2\. En todo aquello no previsto en el presente estatuto, el Consejo Rector se someterá al régimen establecido para los órganos colegiados de la Administración General del Estado y de las entidades de derecho público vinculadas o dependientes de ella en la Ley 40/2015, de 1 de octubre.
+
+3\. La creación y funcionamiento del Consejo Rector serán atendidos con los medios personales, técnicos y presupuestarios asignados al Organismo autónomo.
+
+> Se añade por el art. 2.9 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 5 ter. Composición del Consejo Rector.
+
+1\. El Consejo Rector estará integrado por los siguientes miembros:
+
+a) La persona titular del Ministerio de Cultura, que ejercerá la Presidencia del Consejo Rector.
+
+b) La persona titular de la Dirección, que ejercerá la vicepresidencia del Consejo Rector.
+
+c) Cuatro vocales, designados por la persona titular del Ministerio de Cultura a propuesta de la persona titular de la Dirección, que deberán tener rango, al menos, de Subdirector o Subdirectora General o asimilado.
+
+d) Un vocal, designado por la persona titular del Ministerio de Cultura a propuesta de la persona titular de la Secretaría de Estado de Cultura, que deberá tener rango, al menos, de Subdirector o Subdirectora General o asimilado.
+
+e) Un vocal, designado por la persona titular del Ministerio de Cultura a propuesta de la persona titular de la Subsecretaría de Cultura, que deberá tener rango, al menos, de Subdirector o Subdirectora General o asimilado.
+
+2\. La persona titular de la Presidencia designará para desempeñar la Secretaría del Consejo Rector a un funcionario o funcionaria que preste servicios en el organismo, perteneciente a cuerpos o escalas del Subgrupo A1, con voz, pero sin voto. En caso de vacancia, ausencia, enfermedad u otra causa legal, se designará del mismo modo y con los mismos requisitos a la persona sustituta.
+
+3\. La condición de miembro del Consejo Rector se perderá por cesar en el cargo que determinó su nombramiento o por revocación del nombramiento.
+
+4\. La persona titular de la Presidencia podrá convocar a las reuniones del Consejo Rector a otro personal del organismo, por razón de su especialidad, que podrá asistir con voz, pero sin voto.
+
+> Se añade por el art. 2.10 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 5 quater. Funciones del Consejo Rector.
+
+Corresponderán al Consejo Rector las siguientes funciones:
+
+a) El seguimiento, supervisión y control superiores de la actuación del Instituto de la Cinematografía y de las Artes Audiovisuales O.A.
+
+b) La aprobación de la propuesta de los Planes de Actuación del organismo.
+
+c) La aprobación de la propuesta de objetivos y de los indicadores para la medición de su cumplimiento.
+
+d) La aprobación del anteproyecto de presupuestos.
+
+e) La aprobación de la memoria anual y los informes de actividad.
+
+f) La aprobación de las cuentas del organismo, para su remisión al Tribunal de Cuentas por conducto de la Intervención General de la Administración del Estado.
+
+g) El ejercicio de las restantes atribuciones que le confiera el ordenamiento jurídico.
+
+> Se añade por el art. 2.11 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 6. La Dirección.
+
+1\. La Dirección del Instituto de la Cinematografía y de las Artes Audiovisuales, O.A., con rango de dirección general, es el órgano ejecutivo de la entidad y ostenta la representación legal de la misma.
+
+2\. La persona titular de la Dirección será nombrada de conformidad con lo previsto en el artículo 66.2 de la Ley 40/2015, de 1 de octubre.
+
+En atención a las características de las funciones que la Dirección tiene atribuidas, para su nombramiento no será preciso que ostente la condición de funcionario.
+
+> Se modifica por el art. 2.12 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica el apartado 1 por el art. único del Real Decreto 1322/2004, de 28 de mayo. [Ref. BOE-A-2004-10005](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-10005).
+
+> Redactado el apartado 2.f) conforme a la corrección de errores publicada en BOE núm. 31, de 5 de febrero de 1997. [Ref. BOE-A-1997-2342](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-2342)
+
+## Artículo 6 bis. Funciones de la Dirección.
+
+Corresponden a la Dirección las siguientes funciones:
+
+a) Ejercer la máxima dirección del personal y de los servicios y actividades del Instituto de la Cinematografía y de las Artes Audiovisuales, O.A.
+
+b) Diseñar la estructura organizativa y la propuesta de la relación de puestos de trabajo del organismo.
+
+c) Elevar al Consejo Rector para su aprobación la propuesta de Plan Anual de Actuación del organismo, así como la propuesta de objetivos y de los indicadores para la medición de su cumplimiento.
+
+d) Elevar al Consejo Rector para su aprobación el anteproyecto de presupuesto y la propuesta de la memoria de actividades del organismo.
+
+e) Contratar al personal en régimen de derecho laboral, previo cumplimiento de la normativa aplicable al respecto.
+
+f) Adjudicar y formalizar los contratos.
+
+g) Aprobar gastos y ordenar pagos dentro de los límites presupuestarios del Instituto de la Cinematografía y de las Artes Audiovisuales O.A.
+
+h) Autorizar la expedición de órdenes de pago a justificar con cargo al presupuesto de gastos del organismo, designando al órgano competente para gestionar dichos pagos.
+
+i) Acordar la elaboración de estudios e informes por iniciativa de la propia entidad y aprobarlos a propuesta del órgano competente, en su caso.
+
+j) Diseñar las políticas de fomento de la cinematografía y del audiovisual, así como conceder las subvenciones que corresponda otorgar al Instituto de la Cinematografía y de las Artes Audiovisuales, O.A.
+
+k) Celebrar convenios y acuerdos con entidades públicas y privadas que sean precisos para el cumplimiento de los fines del organismo.
+
+l) Aprobar la calificación por edades de las películas cinematográficas y otras obras audiovisuales para su exhibición pública o distribución, así como adoptar los acuerdos necesarios para establecer el sistema de regulación en esta materia.
+
+m) Reconocer la nacionalidad española de las películas cinematográficas y otras obras audiovisuales.
+
+n) Aprobar las coproducciones internacionales con empresas extranjeras de las películas cinematográficas y otras obras audiovisuales.
+
+ñ) Otorgar el certificado cultural de las películas cinematográficas y otras obras audiovisuales a los efectos de las subvenciones que otorga el organismo, así como de las deducciones fiscales previstas en la normativa tributaria.
+
+o) La cooperación con las comunidades autónomas en materia cinematográfica y audiovisual, así como la dirección del Grupo de trabajo en dicha materia, en el seno de la Conferencia Sectorial de Cultura.
+
+p) Emitir los informes y dictámenes requeridos por la legislación aplicable en materia cinematográfica y audiovisual.
+
+q) Promover e impulsar la suscripción de convenios y acuerdos internacionales de coproducción cinematográfica y audiovisual.
+
+r) Convocar los premios Nacionales de Cinematografía y del Patrimonio Cinematográfico y Audiovisual.
+
+s) Iniciar los procedimientos sancionadores y resolver los correspondientes a infracciones graves y leves, de acuerdo con la legislación aplicable en materia cinematográfica y audiovisual.
+
+t) Ejercer las restantes atribuciones que le confiera el ordenamiento jurídico, así como las que en el presente Estatuto no se asignen a otro órgano específico.
+
+> Se añade por el art. 2.13 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 7. Estructura orgánica.
+
+1\. Dependen de la Dirección las siguientes unidades con nivel orgánico de Subdirección General:
+
+a) Secretaría General.
+
+b) Subdirección General de Fomento de la Industria Cinematográfica y Audiovisual.
+
+c) Subdirección General de Promoción y Relaciones Internacionales.
+
+d) Filmoteca Española.
+
+2\. Corresponde a la Secretaría General.
+
+a) La elaboración de los planes de actuación, así como la memoria de actividad del organismo.
+
+b) El diseño y coordinación de las políticas estratégicas del organismo, en colaboración con el resto de las unidades y, en especial, las relativas al fomento de la creación audiovisual, así como a la creación de audiencias y públicos.
+
+c) La elaboración, impulso y coordinación del Plan de Alfabetización en Cultura Cinematográfica y Audiovisual.
+
+d) La asistencia a la dirección general en el grupo de trabajo relativo a la cinematografía y el audiovisual, en el seno de la Conferencia Sectorial de Cultura.
+
+e) El análisis, elaboración y tramitación de los proyectos normativos que corresponda proponer al organismo en su ámbito competencial.
+
+f) La gestión y administración de los recursos humanos del organismo, así como la propuesta de modificación de su estructura organizativa y de la relación de puestos de trabajo.
+
+g) La elaboración de los planes de formación del personal y la planificación, dirección y gestión de la acción social y la prevención de riesgos laborales, sin perjuicio de las competencias atribuidas a otras unidades.
+
+h) La administración y gestión económico-financiera y presupuestaria.
+
+i) La elaboración del anteproyecto de presupuestos.
+
+j) La preparación y tramitación de los expedientes de contratación, así como la asistencia y apoyo al órgano de contratación en la adjudicación de los contratos.
+
+k) El conocimiento, seguimiento y coordinación de la tramitación de los convenios que suscriba el organismo.
+
+l) La tramitación de los pagos que se realicen mediante los procedimientos especiales de pago a justificar y anticipo de caja fija a través de la Caja Pagadora Central del organismo.
+
+m) La gestión de los servicios generales y de régimen interior, así como la formación del inventario de los bienes del organismo.
+
+n) La gestión administrativa del derecho de acceso a la información pública y de la publicidad activa que corresponde al organismo, sin perjuicio de las competencias de la Unidad de Información de Transparencia del ministerio.
+
+ñ) La asistencia jurídica a los órganos de gobierno y ejecutivos del organismo.
+
+o) La dirección y administración de los servicios en materia de tecnologías de la información y comunicaciones del organismo.
+
+p) La gestión del Canal interno de información, así como el mantenimiento de la información contenida en el Sistema de Información Administrativa.
+
+q) La verificación y control del cumplimiento de las obligaciones establecidas en la legislación de ámbito estatal aplicable a la materia cinematográfica y audiovisual.
+
+r) La instrucción y tramitación de los procedimientos sancionadores que se deriven de las competencias del organismo.
+
+3\. Corresponde a la Subdirección General de Fomento de la Industria Cinematográfica y Audiovisual:
+
+a) El diseño y la gestión de las subvenciones a la creación, producción y exhibición cinematográfica y audiovisual española.
+
+b) La tramitación de los expedientes relativos a las siguientes materias: calificación por edades para su exhibición pública o distribución; reconocimiento de la nacionalidad española de las películas cinematográficas y otras obras audiovisuales; aprobación de las coproducciones internacionales y obtención del certificado cultural.
+
+c) La elaboración de los informes y dictámenes requeridos en cuanto al control y seguimiento de la obligación de promoción de obra audiovisual europea.
+
+d) La gestión del Registro Administrativo de Empresas Cinematográficas y Audiovisuales.
+
+e) La recopilación, tratamiento y elaboración de estadísticas y de documentación sobre la actividad cinematográfica y audiovisual.
+
+f) La coordinación de estas funciones, en el ámbito de sus respectivas competencias, con las Comunidades Autónomas.
+
+4\. Corresponde a la Subdirección General de Promoción y Relaciones Internacionales:
+
+a) El diseño y la gestión de las subvenciones a la distribución nacional e internacional de películas cinematográficas y otras obras audiovisuales, a la organización de festivales y certámenes nacionales e internacionales que se celebren en España y a la participación de la producción cinematográfica y audiovisual española en eventos internacionales.
+
+b) La tramitación de las subvenciones nominativas.
+
+c) Las relaciones con organismos, programas e instituciones internacionales, con atención especial a los europeos e iberoamericanos.
+
+d) La negociación y participación en la tramitación de convenios y acuerdos internacionales de coproducción cinematográfica y audiovisual.
+
+e) La tramitación de las cuotas internacionales que sufrague el organismo, tanto voluntarias como de carácter obligatorio.
+
+f) La tramitación de los expedientes para el otorgamiento del Premio Nacional de Cinematografía.
+
+g) La coordinación de estas funciones, en ámbito de sus respectivas competencias, con las Comunidades Autónomas.
+
+5\. Corresponde a la Filmoteca Española:
+
+a) La recuperación, restauración, conservación analógica y digital, catalogación, investigación y difusión del patrimonio cinematográfico español, así como de cualquier otro elemento relacionado con la práctica de la cinematografía, y del resto del patrimonio audiovisual cuando así lo establezca la normativa específica correspondiente.
+
+b) La digitalización de colecciones y fondos fílmicos y no fílmicos en cualquier soporte, tanto de los propios como si proceden de depósito legal, depósitos voluntarios, donaciones, herencias o legados.
+
+c) La gestión del Centro de Conservación y Restauración de Fondos Fílmicos Carlos Saura.
+
+d) La gestión del Cine Doré como sala de exhibición de la Filmoteca Española.
+
+e) La gestión de préstamos de películas y reproducciones de fondos fílmicos.
+
+f) Prestación de servicios de biblioteca, archivo y documentación de fondos no fílmicos.
+
+g) La difusión del patrimonio cinematográfico español mediante la organización de ciclos y sesiones, exposiciones o cualquier otra actividad de promoción de la cultura audiovisual, sin fines de lucro.
+
+h) La difusión de la cultura cinematográfica y audiovisual a través de programas educativos y pedagógicos.
+
+i) La realización y fomento de investigaciones y estudios, con una especial atención a la filmografía del cine español.
+
+j) La colaboración en sus actividades con las filmotecas establecidas en las Comunidades Autónomas, con las que se encuentran integradas en la Federación Internacional de Archivos Fílmicos (FIAF) así como con las prestadoras del servicio público de comunicación audiovisual para contribuir a la difusión del patrimonio cinematográfico y favorecer el acceso de la ciudadanía al mismo.
+
+k) La ayuda a la formación profesional en técnicas de documentación, preservación y restauración del patrimonio cinematográfico.
+
+l) El diseño y la gestión de las subvenciones para la creación de materiales de preservación en cualquier formato original, así como para la digitalización de obras originalmente analógicas, en ambos casos susceptibles de integrar el patrimonio cinematográfico.
+
+m) La tramitación de los expedientes para el otorgamiento del Premio Nacional del Patrimonio Cinematográfico y Audiovisual.
+
+> Se modifica por el art. 2.14 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 8. Órganos colegiados.
+
+1\. Dependerán del Instituto de la Cinematografía y de las Artes Audiovisuales O.A los siguientes órganos colegiados:
+
+a) La Comisión de Calificación de Películas Cinematográficas y la Comisión de ayudas a la producción de largometrajes y cortometrajes reguladas en el Real Decreto 1084/2015, de 4 de diciembre.
+
+b) Los órganos de apoyo y asesoramiento para el otorgamiento del resto de las subvenciones que otorgue el organismo, regulados en sus correspondientes bases reguladoras.
+
+2\. A estos órganos les será de aplicación el régimen jurídico establecido en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre. En su composición se procurará la participación, en su caso, de los diferentes sectores profesionales relacionados con la materia para la que se precisa su conocimiento o competencia. Asimismo, la composición se ajustará al principio de presencia equilibrada de mujeres y hombres que establece el artículo 54 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+> Se modifica por el art. 2.15 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 9. Régimen de personal.
+
+El Instituto de la Cinematografía y de las Artes Audiovisuales O.A. estará integrado por personal funcionario y laboral.
+
+Este personal quedará vinculado al organismo por una relación sujeta a las normas del Derecho administrativo o del Derecho laboral que le sea de aplicación, de conformidad con lo dispuesto en el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre.
+
+> Se añade por el art. 2.16 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 10. Régimen de contratación.
+
+El régimen jurídico aplicable para la contratación se ajustará a lo dispuesto en la legislación sobre contratación del sector público, de conformidad con lo establecido en el artículo 100.2 de la Ley 40/2015, de 1 de octubre.
+
+> Se añade por el art. 2.17 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 11. Régimen económico-financiero y patrimonial.
+
+1\. Los recursos económicos del Instituto de la Cinematografía y de las Artes Audiovisuales O.A. son los siguientes:
+
+a) Los bienes y valores que constituyen su patrimonio.
+
+b) Los productos y rentas de dicho patrimonio.
+
+c) Las consignaciones específicas que tuvieren asignadas en los presupuestos generales del Estado.
+
+d) Las transferencias corrientes o de capital que procedan de la Administración o entidades públicas.
+
+e) Las donaciones, legados, patrocinios y otras aportaciones de entidades privadas y de particulares.
+
+f) Cualquier otro recurso que estén autorizados a percibir, según las disposiciones por las que se rijan o que pudieran serles atribuidos.
+
+2\. El Instituto de la Cinematografía y de las Artes Audiovisuales O.A. contará, para el cumplimiento de sus fines, además de con su patrimonio propio, con aquellos bienes que le sean adscritos por la Administración General del Estado, los bienes y derechos que adquiera en el curso de su gestión, o que le sean aportados por cualquier persona, pública o privada, y por cualquier título, que se incluirán en el inventario de bienes y derechos del organismo y se gestionará de conformidad con lo dispuesto en la Ley 33/2003, de 3 de noviembre.
+
+> Se añade por el art. 2.18 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 12. Régimen presupuestario, de contabilidad y control económico-financiero.
+
+El régimen presupuestario, económico-financiero, de intervención, control financiero y contabilidad y rendición de cuentas será el establecido para los organismos autónomos en la Ley 47/2003, de 26 de noviembre, y demás disposiciones que regulen la materia y le resulten de aplicación.
+
+Sin perjuicio de las competencias de fiscalización atribuidas al Tribunal de Cuentas, el control interno de la gestión económico-financiera del Organismo corresponde a la Intervención General de la Administración del Estado, y se realizará en las condiciones y en los términos establecidos en la Ley 47/2003, de 26 de noviembre, por la Intervención Delegada en el Organismo, bajo la dependencia orgánica y funcional de la Intervención General de la Administración del Estado.
+
+> Se añade por el art. 2.19 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Disposición adicional primera. Supresión de órganos.
+
+Quedan suprimidas las siguientes unidades con nivel orgánico de Subdirección General:
+
+a) Departamento de Protección.
+
+b) Departamento de Promoción.
+
+## Disposición adicional segunda. Relaciones laborales de carácter especial.
+
+Cuando el titular de la Filmoteca Española esté vinculado con el Instituto de la Cinematografía y de las Artes Audiovisuales por una relación laboral, ésta se entenderá incluida entre las de carácter especial, previstas en el artículo 2.a) del Estatuto de los Trabajadores.
+
+## Disposición transitoria única. Unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General.
+
+Las unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General continuarán subsistentes y serán retribuidos con cargo a los mismos créditos presupuestarios, hasta que se aprueben las relaciones de puestos de trabajo adaptadas a la estructura orgánica de este Real Decreto. Dicha adaptación, en ningún caso, podrá suponer incremento de gasto público.
+
+Las unidades y puestos de trabajo encuadrados en los órganos suprimidos por este Real Decreto se adscribirán provisionalmente, mediante Resolución del Director del organismo, hasta tanto entre en vigor la nueva relación de puestos de trabajo, a los órganos regulados en el presente Real Decreto, en función de las atribuciones que éstos tengan asignadas.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a lo establecido en el presente Real Decreto y, en particular, el título IV del Real Decreto 565/1985, de 24 de abril, por el que se establece la estructura orgánica básica del Ministerio de Cultura y de sus organismos autónomos.
+
+## Disposición final primera. Facultades de desarrollo.
+
+Se autoriza a la Ministra de Educación y Cultura para que, previo cumplimiento de los trámites legales oportunos, adopte las medidas necesarias para el desarrollo y ejecución del presente Real Decreto.
+
+## Disposición final segunda. Modificaciones presupuestarias.
+
+Por el Ministerio de Economía y Hacienda se llevarán a cabo las modificaciones presupuestarias precisas para el cumplimiento de lo previsto en el presente Real Decreto.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 31, de 5 de febrero de 1997. [Ref. BOE-A-1997-2342](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-2342)
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 10 de enero de 1997.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ

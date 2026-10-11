@@ -1,0 +1,4069 @@
+---
+title: "Real Decreto 901/2021, de 19 de octubre, por el que se establece el título de Técnico Deportivo Superior en Balonmano y se fijan su currículo básico y los requisitos de acceso"
+identifier: "BOE-A-2021-18142"
+eli: "https://www.boe.es/eli/es/rd/2021/10/19/901"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación y Formación Profesional"
+date: 2021-10-19
+published: 2021-11-06
+in_force_from: 2021-11-07
+last_amended: 2026-07-02
+consolidated: 2026-08-24
+gazette: "Boletín Oficial del Estado núm. 266"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2021-18142"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 901/2021, de 19 de octubre, por el que se establece el título de Técnico Deportivo Superior en Balonmano y se fijan su currículo básico y los requisitos de acceso
+
+La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos.
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en su artículo 64.5 que el Gobierno, previa consulta a las comunidades autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros.
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada Ley Orgánica 2/2006, de 3 de mayo, establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
+
+Las enseñanzas de Técnico Deportivo y Técnico Deportivo Superior en balonmano fueron reguladas en el año 2004, mediante el Real Decreto 361/2004, de 5 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Balonmano, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas. En la Ley Orgánica 2/2006, de 3 de mayo, se establecen nuevas previsiones en la ordenación de las enseñanzas deportivas, así mismo, se ha producido una evidente evolución en la comprensión del juego del balonmano y en la mejora de los medios y métodos de enseñanza técnica y táctica. Todo ello hace aconsejable la actualización de los currículos de estas enseñanzas.
+
+Este marco normativo y la necesidad de actualizar las enseñanzas deportivas en balonmano para adaptarlas a la nueva situación, hace necesario que ahora el Gobierno, previa consulta a las comunidades autónomas, y tras cumplir con los trámites de consulta pública previa y de audiencia e información pública, recogidos en el artículo 26 de la Ley 50/1997, de 27 de noviembre, del Gobierno, actualice el título de Técnico Deportivo Superior en Balonmano, establecido al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo y que formará parte del catálogo de las enseñanzas deportivas del sistema educativo, fijando su currículo básico y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.3 y artículo 6 bis 1 c) de la Ley Orgánica 2/2006, de 3 de mayo.
+
+El Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, define en el artículo 4 la estructura de estas enseñanzas, situando las enseñanzas deportivas de grado superior como parte de la educación superior.
+
+Por otra parte, en su artículo 6 establece que los ciclos de enseñanza deportiva responderán a un determinado perfil profesional definido por las competencias y funciones características que configuran un conjunto coherente desde el punto de vista del sistema deportivo. Este perfil profesional, de acuerdo con el artículo 19, incluirá la competencia general, las competencias profesionales, personales y sociales propias del sistema deportivo, con el fin de lograr que, en efecto, los títulos de enseñanzas deportivas respondan a las necesidades demandadas por los sistemas deportivo y productivo, y a los valores personales y sociales necesarios para ejercer una ciudadanía democrática. A este fin y como reflejo de la madurez alcanzada por la modalidad deportiva, se atribuye al ciclo de grado superior las competencias vinculadas al entrenamiento, dirección de equipos y deportistas de alto nivel o rendimiento en la modalidad o especialidad deportiva.
+
+A estos efectos procede determinar para cada título su identificación, su perfil profesional, el entorno profesional, las enseñanzas del ciclo de enseñanza deportiva y la acreditación de módulos debida a la experiencia docente, a la experiencia deportiva, así como los parámetros básicos de contexto formativo para cada módulo de enseñanza deportiva (espacios, equipamientos necesarios, titulaciones y especialidades del profesorado). Asimismo, en cada título también se determinarán los requisitos específicos de acceso, siendo propio de estos títulos la identificación de la carga lectiva que se acredita a través de estos requisitos, la vinculación con otros estudios, las convalidaciones, exenciones y equivalencias.
+
+El marcado carácter técnico de estas enseñanzas, definidas por la peculiaridad de sus procedimientos, materiales, equipos y prácticas específicas de cada modalidad, hace necesario un desarrollo que garantice un mínimo común denominador, claro y orientador, a través de una norma reglamentaria, lo que garantiza el principio de seguridad jurídica establecido en artículo 129.1 de la Ley 39/2015, de 1 de octubre.
+
+Con el fin de facilitar el reconocimiento de créditos entre los títulos de Técnico Deportivo Superior y las enseñanzas conducentes a títulos universitarios y viceversa, en los ciclos de enseñanzas deportivas de grado superior se establecerá la equivalencia de cada módulo de enseñanza deportiva con créditos europeos, ECTS, tal y como se definen en el Real Decreto 1125/2003, de 5 de septiembre, por el que se establece el sistema europeo de créditos y el sistema de calificaciones en las titulaciones universitarias de carácter oficial y validez en todo el territorio nacional.
+
+Asimismo, cabe mencionar que el este real decreto se ajusta a los principios de buena regulación contenidos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, entre ellos, los principios necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencias y eficiencia, en tanto que persigue el interés general al facilitar la adecuación de la oferta formativa a las demandas del sector productivo y del sistema deportivo, ampliar la oferta de las enseñanzas deportivas, avanzar en la integración de las enseñanzas deportivas de régimen especial en el conjunto del sistema educativo y reforzar la cooperación entre las administraciones educativas, así como con las federaciones deportivas; no existiendo ninguna alternativa regulatoria menos restrictiva de derechos, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Del mismo modo, durante el procedimiento de elaboración de la norma se ha permitido la participación activa de las personas potencialmente destinatarias a través del trámite de audiencia e información pública y quedan justificados los objetivos que permite la ley. El presente real decreto, que se dicta en desarrollo de la Ley Orgánica 2/2006, de 3 de mayo, y de la Ley 10/1990, de 15 de octubre, del Deporte, y en cumplimiento del Real Decreto 1363/2007, de 24 de octubre, establece y regula, en los aspectos y elementos básicos antes indicados, el título de Técnico Deportivo Superior en Balonmano.
+
+Finalmente, este real decreto adapta al ámbito de las enseñanzas deportivas en balonmano las previsiones del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, ya contenidas en el Real Decreto 1363/2007, de 24 de octubre, y desarrolla en este ámbito las previsiones de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas y las ciudades de Ceuta y Melilla, en el seno de las Conferencia Sectorial de Educación, y han emitido informe el Consejo Escolar del Estado y el Ministerio de Política Territorial.
+
+En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, y previa deliberación del Consejo de Ministros en su reunión del día 19 de octubre de 2021,
+
+DISPONGO:
+
+## CAPÍTULO I — Objeto
+
+### Artículo 1. Objeto.
+
+Este real decreto tiene por objeto el establecimiento del título de Técnico Deportivo Superior en Balonmano, con carácter oficial y validez en todo el territorio nacional, así como de su correspondiente currículo básico y los requisitos de acceso.
+
+## CAPÍTULO II — Identificación del título y organización de las enseñanzas
+
+### Artículo 2. Identificación del título de Técnico Deportivo Superior en Balonmano.
+
+El título de Técnico Deportivo Superior en Balonmano queda identificado por los siguientes elementos:
+
+a) Denominación: Balonmano.
+
+b) Nivel: nivel I: Técnico Superior del Marco Español de Cualificaciones para la Educación Superior: Enseñanzas deportivas de grado superior.
+
+c) Duración: 755 horas.
+
+d) Referente internacional: CINE-5b (Clasificación Internacional Normalizada de Educación).
+
+### Artículo 3. Organización de las enseñanzas conducentes a los títulos de Técnico Deportivo Superior en Balonmano.
+
+Las enseñanzas conducentes al título de Técnico Deportivo Superior en Balonmano se organizan en el ciclo de grado superior en balonmano y tienen una duración de 755 horas.
+
+### Artículo 4. Especializaciones del título de Técnico Deportivo Superior en Balonmano.
+
+1\. El título de Técnico Deportivo Superior en Balonmano tendrá las siguientes especializaciones:
+
+a) Balonmano de personas con discapacidad.
+
+b) Balonmano Playa.
+
+c) Preparación Física, prevención y readaptación de lesiones en balonmano.
+
+d) Análisis del rendimiento en balonmano.
+
+2\. El Ministerio de Educación y Formación Profesional, a propuesta del Consejo Superior de Deportes y previa consulta a los órganos competentes en materia de deportes de las comunidades autónomas y de la Real Federación Española de Balonmano establecerá los objetivos, contenidos y criterios de evaluación de estas especializaciones.
+
+> Se modifica la letra a) del apartado 1 por el art. 10.1 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+## CAPÍTULO III — Perfil profesional y entorno profesional, personal y laboral deportivo del ciclo
+
+### Artículo 5. Perfil profesional del ciclo de grado superior en balonmano.
+
+El perfil profesional del ciclo de grado superior en balonmano queda determinado por su competencia general, sus competencias profesionales, personales y sociales, por la relación de cualificaciones y, en su caso, unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título y el entorno profesional, laboral y deportivo.
+
+### Artículo 6. Competencia general del ciclo de grado superior en balonmano.
+
+La competencia general del ciclo de grado superior en balonmano consiste en programar y dirigir el entrenamiento deportivo orientado hacia la obtención y mantenimiento del rendimiento en jugadores y jugadoras y en equipos; organizar, tutelar y dirigir su participación en competición de alto nivel; coordinar la intervención de personal técnico especialista programar y coordinar las tareas de los técnicos y técnicas a su cargo; organizar competiciones y eventos propios de la iniciación y tecnificación deportiva; todo ello de acuerdo con los objetivos establecidos, el nivel óptimo de calidad y en la condiciones de seguridad.
+
+### Artículo 7. Competencias profesionales, personales y sociales del ciclo de grado superior en balonmano.
+
+Las competencias profesionales, personales y sociales del ciclo de grado superior en balonmano son las que se relacionan a continuación:
+
+a) Analizar las condiciones de entrenamiento disponibles, las características de la competición, y el entorno del equipo y las personas que lo integran, para la planificación del entrenamiento hacia el alto rendimiento.
+
+b) Analizar y valorar los factores de rendimiento: condicionales, técnicos, tácticos, estratégicos, psicosociales, propios del balonmano para la planificación del entrenamiento.
+
+c) Seleccionar jugadores o jugadoras en función de sus capacidades relacionadas con las exigencias de la competición de alto nivel para construir un equipo de balonmano equilibrado de acuerdo con el proyecto deportivo.
+
+d) Diseñar programas de entrenamiento a medio y largo plazo que garanticen tanto la mejora individual como colectiva en el alto rendimiento, a partir de las valoraciones y análisis realizados en los jugadores y el equipo y las condiciones iniciales del entorno deportivo.
+
+e) Programar a corto plazo el entrenamiento tanto individual como colectivo en el alto rendimiento adecuándolo al grupo y a las condiciones existentes de acuerdo con la programación general.
+
+f) Dirigir la sesión de entrenamiento de diferentes grados de complejidad de acuerdo a las exigencias del alto rendimiento, solucionando las contingencias existentes, para conseguir la implicación y el rendimiento conforme a los objetivos propuestos, y dentro de las normas de seguridad requeridas.
+
+g) Planificar y dirigir los partidos en competiciones de alto nivel, tomando las decisiones más adecuadas y realizando las orientaciones y los ajustes tácticos oportunos, para el desarrollo de la competición, conforme a los objetivos previstos y al reglamento de juego, todo ello dentro de los valores éticos vinculados al juego limpio, el respeto a los demás y al propio cuerpo.
+
+h) Dirigir, realizar y coordinar tanto la evaluación del equipo propio y sus integrantes como el análisis de los rivales en el alto rendimiento, estableciendo las pautas y protocolos de recogida de información y gestionando los recursos tecnológicos y humanos disponibles.
+
+i) Configurar equipos multidisciplinares de trabajo, y coordinar sus acciones dentro de la programación de un equipo de balonmano de la alta competición.
+
+j) Dirigir y coordinar recursos humanos, participar en la formación de los técnicos deportivos y organizar los recursos materiales, en una escuela o club de balonmano estableciendo las programaciones de referencia.
+
+k) Organizar y gestionar competiciones y eventos propios de la alta competición en balonmano.
+
+l) Evaluar el proceso de preparación y los resultados obtenidos, programando la recogida de la información y realizando su análisis para conseguir el ajuste y mejora permanente del entrenamiento dirigido al alto rendimiento deportivo.
+
+m) Transmitir a través del comportamiento ético personal valores vinculados con el juego limpio, el respeto a los demás, y al respeto y cuidado del propio cuerpo.
+
+n) Mantener una identidad profesional y un espíritu de innovación y actualización que facilite la adaptación a los cambios que se produzcan en el balonmano y en su entorno organizativo.
+
+### Artículo 8. Entorno profesional, laboral y deportivo del ciclo de grado superior en balonmano.
+
+1\. Las personas que obtienen este título desarrollan su actividad profesional tanto en el ámbito público, ya sea en la Administración General del Estado, las administraciones autonómicas o locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, como trabajador autónomo y en patronatos deportivos, entidades deportivas municipales, federaciones, centros de tecnificación, centros de alto rendimiento y clubes deportivos y sociales, centros educativos, empresas de servicios, que ofrezcan actividades deportivo-recreativas de guiado, alto rendimiento de la especialidad deportiva.
+
+2\. Se ubica en los sectores del deporte, el ocio y tiempo libre y el turismo.
+
+3\. Las ocupaciones y puestos de trabajo más relevantes para estos profesionales son las siguientes:
+
+a) Profesor o profesora en escuelas de balonmano.
+
+b) Entrenador o entrenadora de balonmano.
+
+c) Formador o formadora de técnicos de grado medio y superior.
+
+d) Gestor o gestora de entidades de balonmano.
+
+e) Organizador u organizadora de actividades en balonmano.
+
+f) Director técnico en entidades de balonmano.
+
+4\. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo con los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
+
+## CAPÍTULO IV — Estructura de las enseñanzas del ciclo de grado superior de enseñanza deportiva conducente al título de Técnico Deportivo Superior en Balonmano
+
+### Artículo 9. Estructura del ciclo de grado superior en balonmano.
+
+1\. El ciclo de grado superior en balonmano se estructura en módulos, agrupados en bloque común y bloque específico.
+
+2\. Los módulos comunes de enseñanza deportiva del ciclo de grado superior en balonmano son los que a continuación se relacionan:
+
+MED-C301 Factores fisiológicos del alto rendimiento.
+
+MED-C302 Factores psicosociales del alto rendimiento.
+
+MED-C303 Formación de formadores deportivos.
+
+MED-C304 Organización y gestión aplicada al alto rendimiento.
+
+3\. Los módulos específicos de enseña deportiva del ciclo de grado superior en balonmano, son los que a continuación se relacionan:
+
+MED-BMBM301 Metodología para el alto rendimiento en balonmano.
+
+MED-BMBM302 Formación técnico táctica individual en alto rendimiento en balonmano.
+
+MED-BMBM303 Juego colectivo ofensivo en alto rendimiento en balonmano.
+
+MED-BMBM304 Juego colectivo defensivo en alto rendimiento en balonmano.
+
+MED-BMBM305 Dirección deportiva en alto rendimiento.
+
+MED-BMBM306 Dirección de equipo en alto rendimiento.
+
+MED-BMBM307 Preparación física en el alto rendimiento en balonmano.
+
+MED-BMBM308 Proyecto final.
+
+MED-BMBM309 Formación práctica.
+
+4\. La distribución horaria del currículo básico del ciclo de grado superior en balonmano se relaciona en el anexo I-B.
+
+5\. Los objetivos generales y los módulos de enseñanza deportiva del ciclo de grado superior en balonmano en el anexo II.
+
+### Artículo 10. Ratio profesor/alumno.
+
+1\. Para impartir los módulos del bloque común, la relación profesor/alumno será de 1/30.
+
+2\. Para impartir los módulos del bloque específico del ciclo de grado superior en balonmano, la relación profesor/alumno será la recogida en el anexo III.
+
+### Artículo 11. Módulo de formación práctica.
+
+Para iniciar el módulo de formación práctica del ciclo de grado superior en balonmano, será necesario haber superado con anterioridad los módulos comunes y específicos de enseñanza deportiva que se establecen en el anexo IV.
+
+### Artículo 12. Determinación del currículo.
+
+Las administraciones educativas establecerán el currículo correspondiente, respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+
+### Artículo 13. Espacios y equipamientos deportivos.
+
+Los espacios y equipamientos mínimos necesarios para el desarrollo de las enseñanzas del ciclo de grado superior en balonmano son los establecidos en el anexo V.
+
+## CAPÍTULO V — Acceso al ciclo de grado superior
+
+### Artículo 14. Requisitos generales de acceso al ciclo de grado superior en balonmano.
+
+1\. Para acceder al ciclo de grado superior en balonmano será necesario tener el título de Bachiller u otra titulación equivalente a efectos de acceso de acuerdo con lo establecido en la disposición adicional duodécima del Real Decreto 1363/2007, de 24 de octubre, así como el título de Técnico Deportivo en Balonmano.
+
+2\. También se podrá acceder al ciclo de grado superior en balonmano, estando en posesión del título de Bachiller u otra titulación equivalente a efectos de acceso de acuerdo con lo establecido en la disposición adicional duodécima del Real Decreto 1363/2007, de 24 de octubre, y el título de Técnico Deportivo en Balonmano regulado en el Real Decreto 361/2004, de 5 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Balonmano, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas.
+
+### Artículo 15. Requisitos de acceso al ciclo de grado superior en balonmano para personas sin título de bachiller.
+
+Se podrá acceder a las enseñanzas del ciclo de grado superior en balonmano sin el título de Bachiller, siempre que el aspirante posea el título de técnico deportivo correspondiente y además cumpla las condiciones de edad y supere la prueba a la que se refiere el artículo 31.1.b) del Real Decreto 1363/2007, de 24 de octubre.
+
+## CAPÍTULO VI — Profesorado
+
+### Artículo 16. Requisitos de titulación del profesorado en centros públicos de la Administración educativa.
+
+Los requisitos de la titulación del profesorado en centros públicos se determinarán en función del bloque de enseñanza deportiva en que hayan de impartir la docencia:
+
+1\. La docencia en centros públicos de los módulos del bloque común que constituyen las enseñanzas deportivas del ciclo de grado superior en balonmano, corresponde al profesorado de los cuerpos de catedráticos y profesores de enseñanza secundaria, según lo establecido en el anexo VI.
+
+2\. La docencia en centros públicos de los módulos del bloque específico que constituyen las enseñanzas deportivas del ciclo de grado superior en balonmano, está especificada en el anexo VII-A y corresponde a:
+
+a) Profesores de la especialidad de Educación Física de los cuerpos de catedráticos y de profesores de enseñanza secundaria que posean el título de Técnico Deportivo Superior en Balonmano, o estén en posesión de la homologación al título de Técnico Deportivo Superior en Balonmano.
+
+b) Profesores especialistas que posean el título de Técnico Deportivo Superior en Balonmano, o estén en posesión de la homologación al título de Técnico Deportivo Superior en Balonmano, o aquellas personas no tituladas que acrediten la experiencia en el ámbito laboral y deportivo, o la experiencia docente, detallada en el anexo VII-B.
+
+3\. Las administraciones educativas podrán autorizar la docencia de los módulos del bloque específico atribuidos al profesorado especialista, a los miembros de los Cuerpos de catedráticos y profesores de enseñanza secundaria con la especialidad de Educación física, cuando carezcan del título de Técnico Deportivo Superior en Balonmano, siempre que posean la formación diseñada al efecto o reconocida por dichas administraciones educativas, o la experiencia laboral o deportiva o la experiencia docente, detallada en el anexo VII B.
+
+### Artículo 17. Requisitos de titulación del profesorado en centros privados y de titularidad pública de administraciones distintas a la educativa.
+
+Las titulaciones requeridas para la impartición de los módulos tanto del bloque común, como del bloque específico que forman el ciclo de grado superior en balonmano, para el profesorado de los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, se concretan en el anexo VIII.
+
+## CAPÍTULO VII — Vinculación a otros estudios
+
+### Artículo 18. Acceso a otros estudios.
+
+1\. El título de Técnico Deportivo Superior en Balonmano permite el acceso directo a las enseñanzas universitarias oficiales de grado en las condiciones de admisión que se establezcan.
+
+2\. A los efectos de facilitar el régimen de convalidaciones se han asignado 63 créditos ECTS a la duración total de las enseñanzas del ciclo de grado superior en balonmano.
+
+3\. El número de créditos ECTS atribuido a cada uno de los módulos de enseñanza deportiva de este ciclo se establecen en el anexo I-A.
+
+### Artículo 19. Convalidación de estas enseñanzas.
+
+1\. El Ministerio de Educación y Formación Profesional establecerá las convalidaciones que proceda otorgar del bloque común de las enseñanzas reguladas en el presente real decreto a aquellos que acrediten estudios o el título de:
+
+a) Licenciado en Ciencias de la Actividad Física y el Deporte, regulado por el Real Decreto 1670/1993, de 24 de septiembre, por el que se establece el título universitario oficial de Licenciado en Ciencias de la Actividad Física y del Deporte y las directrices generales propias de los planes de estudios conducente a la obtención del mismo.
+
+b) Diplomado en Educación Física y Licenciado en Educación Física, regulados por el Real Decreto 790/1981, de 24 de abril, sobre Institutos Nacionales de Educación Física y las enseñanzas que imparten.
+
+c) Maestro Especialista en Educación Física, regulado por el Real Decreto 1440/1991, de 30 de agosto, por el que se establece el título universitario, oficial de Maestro, en sus diversas especialidades y las directrices generales propias de los planes de estudios conducentes a su obtención.
+
+d) Cualquier título de la familia de actividades físicas y deportivas de la formación profesional del sistema educativo regulado por el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo, y declarados equivalentes.
+
+e) Graduado, regulado en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales que acrediten la obtención de las competencias adecuadas.
+
+f) Las materias de bachillerato.
+
+g) Los títulos establecidos al amparo del Real Decreto 1913/1997, de 19 de diciembre, por el que se configuran como enseñanzas de régimen especial las conducentes a la obtención de titulaciones de técnicos deportivos, se aprueban las directrices generales del título y de las correspondientes enseñanzas mínimas.
+
+2\. Las convalidaciones de módulos de enseñanza deportiva del título establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, con los módulos de enseñanza deportiva del bloque específico del título de Técnico Deportivo Superior en Balonmano se establecen en el anexo IX.
+
+3\. Serán objeto de convalidación los módulos comunes y específicos de enseñanza deportiva con la misma denominación y código.
+
+4\. La superación de la totalidad de los módulos del bloque común del grado superior, en cualquiera de las modalidades o especialidades deportivas del título establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, se convalidará por la totalidad de los módulos del bloque común del ciclo de grado superior en balonmano. La superación de la totalidad de los módulos del bloque común del ciclo de grado superior en balonmano, se convalidará por la totalidad de los módulos del bloque común, del grado superior, del título establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre.
+
+### Artículo 20. Exención del módulo de formación práctica.
+
+Podrá ser objeto de exención total o parcial el módulo de formación práctica del ciclo de grado superior en balonmano, en función de su correspondencia con la experiencia en el ámbito deportivo o laboral, detallada en el anexo X.
+
+### Disposición adicional primera. Regulación del ejercicio de la profesión.
+
+De conformidad con lo establecido en el Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, los elementos recogidos en el presente real decreto no constituyen una regulación del ejercicio de profesión titulada alguna.
+
+### Disposición adicional segunda. Referencia del título en el marco europeo.
+
+Una vez establecido el marco nacional de cualificaciones, de acuerdo con las recomendaciones europeas, se determinará el nivel correspondiente de este título en el marco nacional y su equivalente europeo.
+
+### Disposición adicional tercera. Oferta a distancia de los módulos de enseñanza deportiva de los presentes títulos.
+
+Los módulos de enseñanza deportiva que se establecen en el anexo XI, podrán ofertarse a distancia siempre que se garantice que el alumnado puede conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
+
+### Disposición adicional cuarta. Titulaciones equivalentes.
+
+El título de Técnico Deportivo superior en Balonmano, establecido en el Real Decreto 361/2004, de 5 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Balonmano, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas, tendrá los mismos efectos profesionales y académicos que el título de Técnico Deportivo Superior en Balonmano establecidos en el presente real decreto.
+
+### Disposición transitoria única. Aplicabilidad transitoria del Real Decreto 361/2004, de 5 de marzo y de la Orden ECI/494/2005, de 21 de mayo.
+
+1\. Hasta el curso académico 2022-2023, será de aplicación lo dispuesto en el Real Decreto 361/2004, de 5 de marzo.
+
+2\. Así mismo, hasta que sea de aplicación la norma que regule, para el ámbito de gestión del Ministerio de Educación y Formación Profesional el currículo correspondiente al título de Técnico Deportivo Superior en Balonmano, aquí regulado, será de aplicación lo establecido en la Orden ECI/494/2005, de 23 de febrero, por la que se establecen para el ámbito territorial de gestión directa del Ministerio de Educación y Ciencia, los currículos y las pruebas y requisitos de acceso, correspondientes a los títulos de Técnico Deportivo y de Técnico Deportivo Superior de Balonmano.
+
+### Disposición derogatoria única. Derogación de normas.
+
+1\. Queda derogado el Real Decreto 361/2004, de 5 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Balonmano, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas.
+
+2\. Quedan derogadas todas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+### Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia
+
+### Disposición final segunda. Implantación del nuevo currículo.
+
+Las administraciones educativas que impartan las enseñanzas de grado superior de balonmano conducentes al título de Técnico Deportivo Superior en Balonmano al amparo del Real Decreto 361/2004, de 5 de marzo, deberán implantar el nuevo currículo de estas enseñanzas antes del inicio el curso escolar 2022/2023. No obstante, podrán anticipar al año académico 2021-2022 la implantación de estas enseñanzas.
+
+### Disposición final tercera. Autorización para la actualización de los anexos.
+
+Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales y a las nuevas especialidades docentes de los cuerpos de profesor de enseñanza secundaria o catedrático de enseñanza secundaria, se autoriza al titular del Ministerio de Educación y Formación Profesional para la modificación y actualización de los anexos VI, VII-A y VIII de este real decreto.
+
+### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 19 de octubre de 2021.
+
+FELIPE R.
+
+La Ministra de Educación y Formación Profesional,
+
+MARÍA DEL PILAR ALEGRÍA CONTINENTE
+
+## ANEXO I-A — Distribución en créditos ECTS de la duración total de las enseñanzas
+
+|  | Equivalencia en créditos ECTS |
+|---|---|
+| *Bloque común* |  |
+| MED-C301 Factores fisiológicos del alto rendimiento. | 5 |
+| MED-C302 Factores psicosociales del alto rendimiento. | 3 |
+| MED-C303 Formación de formadores deportivos. | 4 |
+| MED-C304 Organización y gestión aplicada al alto rendimiento. | 4 |
+| Total bloque común. | 16 créditos ECTS |
+| *Bloque específico* |  |
+| MED-BMBM 301 Metodología para el alto rendimiento en balonmano. | 3 |
+| MED-BMBM 302 Formación técnico táctica individual en alto rendimiento en balonmano. | 5 |
+| MED-BMBM 303 Juego colectivo ofensivo en alto rendimiento en balonmano. | 5 |
+| MED-BMBM 304 Juego colectivo defensivo en alto rendimiento en balonmano. | 4 |
+| MED-BMBM 305 Dirección deportiva en alto rendimiento. | 3 |
+| MED-BMBM 306 Dirección de equipo en alto rendimiento. | 3 |
+| MED-BMBM 307 Preparación física en el alto rendimiento en balonmano. | 2 |
+| MED-BMBM 308 Proyecto final. | 6 |
+| MED-BMBM 309 Formación práctica. | 16 |
+| Total bloque específico. | 47 créditos |
+| Total. | 63 créditos ECTS |
+
+## ANEXO I-B — Distribución horaria del currículo básico
+
+|  | Currículo básico<br>–<br>Horas |
+|---|---|
+| *Bloque común* |  |
+| MED-C301 Factores fisiológicos del alto rendimiento. | 30 |
+| MED-C302 Factores psicosociales del alto rendimiento. | 22 |
+| MED-C303 Formación de formadores deportivos. | 28 |
+| MED-C304 Organización y gestión aplicada al alto rendimiento. | 20 |
+| Total bloque común. | 100 |
+| *Bloque específico* |  |
+| MED-BMBM 301 Metodología para el alto rendimiento en balonmano. | 15 |
+| MED-BMBM 302 Formación técnico táctica individual en alto rendimiento en balonmano. | 30 |
+| MED-BMBM 303 Juego colectivo ofensivo en alto rendimiento en balonmano. | 30 |
+| MED-BMBM 304 Juego colectivo defensivo en alto rendimiento en balonmano. | 22 |
+| MED-BMBM 305 Dirección deportiva en alto rendimiento. | 15 |
+| MED-BMBM 306 Dirección de equipo en alto rendimiento | 15 |
+| MED-BMBM 307 Preparación física en el alto rendimiento en balonmano. | 13 |
+| MED-BMBM 308 Proyecto final. | 37 |
+| MED-BMBM 309 Formación práctica. | 100 |
+| Total bloque específico. | 277 |
+| Total. | 377 |
+
+## ANEXO II — Objetivos generales y módulos de enseñanza deportiva del ciclo de grado superior en balonmano
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos II.a hasta el II.n por el art. 10.2 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+## ANEXO II.a — Objetivos generales
+
+a. Analizar y valorar la competición, justificando los criterios de selección de jugadores en función de las características de la competición, del proyecto deportivo y de los objetivos marcados, para construir un equipo de balonmano equilibrado y competitivo.
+
+b. Seleccionar y justificar los procedimientos de la valoración del entorno del jugador y equipo, de los medios materiales e instalaciones disponibles, identificando sus características y aplicando los procedimientos, para analizar las condiciones del alto rendimiento.
+
+c. Seleccionar y justificar los procedimientos de análisis de los factores de rendimiento, identificando sus características y aplicando los procedimientos establecidos, para valorar los factores de rendimiento propios del balonmano.
+
+d. Justificar y aplicar los procedimientos de análisis y los criterios de selección del jugador, atendiendo a sus características relacionadas con los factores de rendimiento en la alta competición.
+
+e. Elegir y justificar los procedimientos de determinación de los objetivos, medios y métodos del entrenamiento, y la temporalización de la carga, aplicando los principios del entrenamiento y del aprendizaje motor aplicables, para diseñar programas a medio y largo plazo.
+
+f. Analizar la complejidad de las tareas y los factores relativos a la carga de trabajo, diseñando actividades en supuestos establecidos y aplicando los principios y métodos del entrenamiento, para concretar las sesiones de trabajo.
+
+g. Describir, elegir y demostrar las técnicas y estrategias de dirección de sesiones, de control de las contingencias propias del alto rendimiento en balonmano, aplicando procedimientos de observación, dinamización y control, para dirigir sesiones en condiciones de alta exigencia.
+
+h. Justificar los aspectos que definen una estrategia de juego en partidos de alto nivel y los procedimientos de asimilación por parte de los jugadores, teniendo en cuenta las características de los equipos, jugadores y aplicando procedimientos establecidos.
+
+i. Evaluar la toma de decisiones del técnico durante la competición, así como su comportamiento personal para dirigir competiciones de este nivel en balonmano.
+
+j. Analizar la aplicación de las normas de juego con respecto a la acción de los jueces, para planificar y dirigir partidos en competiciones de alto nivel.
+
+k. Analizar los procedimientos utilizados en el análisis y la evaluación técnico-táctica en el balonmano de alto nivel, aplicando tecnologías en la observación del juego, para dirigir y realizar la evaluación del juego y la competición.
+
+l. Analizar y justificar las necesidades de intervención de otros especialistas en la preparación de alto rendimiento, describiendo las funciones y objetivos a desarrollar, para determinar la constitución y coordinación de equipos de trabajo multidisciplinares.
+
+m. Identificar y analizar las características organizativas, medios materiales y humanos, aplicando procedimientos establecidos de gestión y comunicación, para coordinar recursos humanos y organizar los recursos materiales de una escuela de balonmano.
+
+n. Analizar y elaborar la estructura organizativa de las competiciones y eventos propios del nivel de tecnificación deportiva en balonmano, y analizar las características organizativas de competiciones de alto nivel, enumerando los requisitos administrativos, los medios materiales y humanos necesarios, aplicando el marco legal que las regula, para organizar y colaborar en la gestión de competiciones y eventos.
+
+ñ. Diseñar y justificar los procedimientos de recogida de información y valoración del proceso de alto rendimiento, analizando las variables que intervienen en supuestos, para evaluar el proceso de entrenamiento y los resultados obtenidos en la competición.
+
+o. Describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los jugadores, para transmitir valores propios de la actividad deportiva a través del comportamiento ético personal.
+
+p. Reconocer, promover y justificar los valores de compromiso, trabajo bien hecho y aprendizaje constante, describiendo los aspectos observables de la conducta, que reflejan estos valores, para mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el desempeño de su labor como técnico.
+
+> Se numera como Anexo II.a por el art. 10.2.a) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.b — Módulo común de enseñanza deportiva: Factores fisiológicos del alto rendimiento
+
+Código: MED-C301
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Analiza los principales conceptos del metabolismo energético y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+a) Se han identificado los principales conceptos del metabolismo energético.
+
+b) Se han analizado las diferentes vías metabólicas y las principales fuentes de energía en relación con el ejercicio físico, incidiendo en los aspectos fisiológicos que determinan la resistencia.
+
+c) Se han analizado las principales adaptaciones fisiológicas al entrenamiento de los diferentes sistemas del organismo en relación con el metabolismo energético.
+
+d) Se han valorado las características del metabolismo energético en mujeres deportistas, así como sus adaptaciones fisiológicas al entrenamiento.
+
+RA-2. Analiza los principales componentes del sistema neuromuscular y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+a) Se ha analizado el sistema neuromuscular, incidiendo en los aspectos fisiológicos y mecánicos que determinan la fuerza, la velocidad y la amplitud de movimiento.
+
+b) Se ha descrito el concepto de fuerza y sus diferentes manifestaciones en relación con la actividad físico-deportiva.
+
+c) Se ha descrito el concepto de velocidad y sus diferentes manifestaciones en relación con la actividad físico-deportiva, así como su implicación en las capacidades coordinativas.
+
+d) Se han analizado las principales adaptaciones al entrenamiento en relación con el sistema neuromuscular.
+
+e) Se han valorado las características del sistema neuromuscular en mujeres deportistas, así como sus adaptaciones fisiológicas al entrenamiento.
+
+RA-3. Selecciona a los/las deportistas para la alta competición analizando los factores fisiológicos determinantes que influyen en el alto rendimiento.
+
+a) Se han identificado los principales factores fisiológicos determinantes y limitantes del alto rendimiento deportivo.
+
+b) Se han analizado los fundamentos de la evaluación de la capacidad funcional vinculados al alto rendimiento deportivo.
+
+c) Se han interpretado los resultados y diferencias entre hombres y mujeres en la evaluación de la capacidad funcional.
+
+d) Se ha interpretado la importancia de la valoración anatómica y fisiológica como elemento de selección de los/las deportistas en el alto rendimiento deportivo, empleando diferentes métodos y tecnologías fiables, válidas y sensibles.
+
+e) Se ha descrito la organización de los equipos de trabajo en el alto rendimiento deportivo, identificando las diferentes funciones y roles de los especialistas que los componen.
+
+RA-4. Colabora con la persona especialista en la determinación de la dieta y en la prescripción de ayudas ergogénicas analizando los principales conceptos de nutrición deportiva y los efectos nocivos de las sustancias dopantes para la salud.
+
+a) Se han identificado los principios fundamentales y los conceptos básicos de la nutrición, la suplementación y las ayudas ergogénicas en relación con el ámbito físico-deportivo.
+
+b) Se han interpretado los resultados de la valoración nutricional del deportista a partir de los datos de un supuesto práctico.
+
+c) Se han elaborado de manera justificada las estrategias de reposición de nutrientes, agua y sales minerales durante el entrenamiento y la competición, aplicándolas en supuestos prácticos basados en los conceptos de fisiología y nutrición deportiva estudiados.
+
+d) Se han identificado los principales aspectos en el diseño de la dieta de los y las deportistas, así como en la adecuada prescripción de suplementos y ayudas ergogénicas para la mejora del rendimiento físico-deportivo durante el entrenamiento y la competición, contemplando las necesidades nutricionales particulares de las mujeres y hombres deportistas de alto rendimiento.
+
+e) Se han identificado las principales sustancias dopantes y sus efectos nocivos para la salud.
+
+RA-5. Programa y dirige el entrenamiento del deportista aplicando los conceptos de carga, fatiga y recuperación.
+
+a) Se han clasificado los diferentes tipos de fatiga, central o periférica y aguda o crónica, así como sus mecanismos de producción.
+
+b) Se han analizado los efectos de la fatiga deportiva en el sistema neuromuscular, endocrino e inmunológico.
+
+c) Se han empleado diferentes medios y métodos para cuantificar la fatiga producida por el entrenamiento.
+
+d) Se han diseñado y aplicado diferentes medios y métodos de recuperación según el mecanismo de producción de la fatiga.
+
+e) Se ha valorado la importancia de la monitorización de la carga para una adecuada gestión del entrenamiento, con el propósito de prevenir el síndrome de sobreentrenamiento y reducir el riesgo de lesiones deportivas.
+
+f) Se han empleado diferentes métodos y tecnologías, validas, fiables y sensibles de monitorización de la carga de entrenamiento.
+
+RA-6. Programa y dirige el entrenamiento y/o la competición en condiciones especiales identificando sus bases y características más importantes.
+
+a) Se han analizado las causas y los efectos fisiológicos producidos por el entrenamiento y/o la competición en condiciones extremas de calor, frío y/o humedad.
+
+b) Se han diseñado entrenamientos y estrategias de mejora de la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de temperatura y/o humedad extrema.
+
+c) Se han identificado las bases y protocolos de entrenamiento controlado en calor utilizados como medio de mejora del rendimiento físico-deportivo.
+
+d) Se han analizado las causas y los efectos fisiológicos producidos por los entrenamientos y/o competición en altura, así como sus posibles efectos positivos y negativos sobre el rendimiento físico-deportivo.
+
+e) Se han diseñado entrenamientos en diferentes situaciones de altitud, así como estrategias de adaptación de los/las deportistas a dichas condiciones.
+
+f) Se han analizado los efectos fisiológicos producidos por cambios significativos de huso horario sobre el rendimiento del deportista en el entrenamiento y/o la competición.
+
+g) Se han diseñado entrenamientos en situaciones de cambio horario, así como estrategias de adaptación de los/las deportistas a dichas condiciones.
+
+h) Se ha valorado la colaboración con el grupo de especialistas en la dirección del entrenamiento en condiciones especiales (altitud, cambios horarios, frío, calor, humedad).
+
+Contenidos básicos
+
+RA-1. Analiza los principales conceptos del metabolismo energético y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+1\. Conceptos de metabolismo, catabolismo y anabolismo. Absorción, transporte y almacenamiento de nutrientes.
+
+2\. El ATP. Principales vías metabólicas:
+
+– Vías anaeróbicas: sistema ATP-PC, glucólisis anaeróbica y ciclo de Cori.
+
+– Vías aeróbicas: glucólisis aeróbica y ciclo de Krebs.
+
+3\. Fuentes de energía en relación con las diferentes vías metabólicas: ATP, PC, glucosa, glucógeno, ácidos grasos y proteínas.
+
+4\. Implicación fisiológica de las vías metabólicas en relación con la resistencia durante la actividad físico-deportiva.
+
+5\. El modelo trifásico y los principales hitos fisiológicos: umbrales ventilatorios, VO2max, umbrales lácticos y Máximo Estado Estable del Lactato (MLSS). Métodos directos e indirectos para su valoración y control. Aplicación a los modelos por zonas de intensidad para la planificación y control del entrenamiento.
+
+6\. Conceptos de eficiencia y economía energética. Relevancia en la práctica físico-deportiva.
+
+7\. Principales adaptaciones fisiológicas, agudas y crónicas, al entrenamiento de los diferentes sistemas del organismo en relación con el metabolismo energético.
+
+8\. El metabolismo energético en mujeres deportistas. Principales características de sus adaptaciones fisiológicas al entrenamiento.
+
+RA-2. Analiza los principales componentes del sistema neuromuscular y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+1\. Funciones de los diferentes tipos de músculos: cardiaco, liso y esquelético.
+
+2\. Tipos, componentes y estructura del músculo esquelético. El tendón como transmisor de fuerzas del sistema musculoesquelético y su relación con el ciclo estiramiento-acortamiento (CEA).
+
+3\. La fibra muscular y el sarcómero como unidad funcional básica del músculo. Teoría del filamento deslizante.
+
+4\. Concepto de unidad motora y tipos de fibras musculares. Relación con los principales aspectos fisiológicos y mecánicos que determinan la fuerza, la velocidad y la amplitud de movimiento.
+
+5\. Concepto de fuerza. Principales manifestaciones en relación con la actividad físico-deportiva: fuerza aplicada, fuerza máxima, producción de fuerza por unidad de tiempo (RFD) y fuerza útil. Curvas de fuerza-tiempo y de fuerza-velocidad. Aplicaciones prácticas del entrenamiento de fuerza basadas en la velocidad.
+
+6\. Concepto de velocidad. Principales manifestaciones en relación con la actividad físico-deportiva: velocidad de reacción, gestual y de desplazamiento. Implicaciones sobre las capacidades coordinativas.
+
+7\. Principales adaptaciones, agudas y crónicas al entrenamiento en relación con el sistema neuromuscular: estructurales, nerviosas y hormonales.
+
+8\. Características del sistema neuromuscular y adaptaciones fisiológicas al entrenamiento en mujeres deportistas.
+
+RA-3. Selecciona a los/las deportistas para la alta competición analizando los factores fisiológicos determinantes que influyen en el alto rendimiento.
+
+1\. Aspectos limitantes y factores fisiológicos determinantes del alto rendimiento deportivo.
+
+2\. Fundamentos, medios directos e indirectos y métodos avanzados para la evaluación de la capacidad funcional en el alto rendimiento deportivo. Identificación de la tecnología adecuada y orientaciones para la interpretación de los resultados.
+
+3\. La valoración anatómico-fisiológica como elemento para la selección de los/las deportistas en el alto rendimiento deportivo: medios y métodos. Utilización de tecnología fiable, válida y sensible para una adecuada evaluación.
+
+4\. Análisis e interpretación de los resultados en los estudios antropométricos y de composición corporal utilizados en el alto rendimiento deportivo.
+
+5\. Valoración de las diferencias entre hombres y mujeres.
+
+6\. Organización de los equipos de trabajo en el alto rendimiento deportivo. Diferentes funciones y roles de los especialistas que los componen.
+
+RA-4. Colabora con la persona especialista en la determinación de la dieta y en la prescripción de ayudas ergogénicas analizando los principales conceptos de nutrición deportiva y los efectos nocivos de las sustancias dopantes para la salud.
+
+1\. Principios fundamentales y conceptos básicos de la nutrición, la suplementación y las ayudas ergogénicas en relación con el ámbito físico-deportivo.
+
+2\. Suplementos y ayudas ergogénicas respaldados por la evidencia científica más utilizados en el alto rendimiento deportivo. Criterios para un uso adecuado.
+
+3\. Valoración y control nutricional del deportista de alto rendimiento: medios, métodos e interpretación de los resultados. Identificación de la tecnología adecuada para la evaluación.
+
+4\. La reposición de nutrientes, agua y sales minerales durante el entrenamiento y la competición: bases fisiológicas y estrategias de aplicación individualizadas utilizadas en el alto rendimiento deportivo.
+
+5\. Orientaciones para la colaboración con la persona especialista en el diseño de la dieta, así como en la prescripción de suplementos y ayudas ergogénicas para la mejora del rendimiento físico-deportivo durante el entrenamiento y la competición.
+
+6\. El dopaje en el deporte: concepto, clasificación y ejemplos de sustancias y métodos prohibidos más extendidos en la práctica deportiva.
+
+7\. Toma de conciencia de las repercusiones del dopaje en la salud de los/las deportistas. Consecuencias legales y sanciones deportivas.
+
+8\. El control antidopaje: normativa, organismos y principales métodos para la detección de sustancias prohibidas.
+
+RA-5. Programa y dirige el entrenamiento del deportista aplicando los conceptos de carga, fatiga y recuperación.
+
+1\. Binomio fatiga-recuperación: concepto y relación con el rendimiento deportivo.
+
+2\. Fatiga, sobrecarga y sobreentrenamiento: concepto, tipos, mecanismos de producción, indicadores y formas de prevención.
+
+3\. Efectos de la fatiga en el sistema neuromuscular, endocrino e inmunológico.
+
+4\. La recuperación: concepto, medios y métodos. Relación con los mecanismos de producción.
+
+5\. Principales estrategias de recuperación en alto rendimiento: sueño, nutrición, hidratación, crioterapia, prendas compresivas, masaje, hidroterapia, etc.
+
+6\. Principios de aplicación de las estrategias de recuperación: individualización, alternancia y especificidad.
+
+7\. Pruebas objetivas y subjetivas para cuantificar la fatiga en el alto rendimiento deportivo: marcadores fisiológicos y bioquímicos, test físicos y escalas subjetivas de bienestar.
+
+8\. Relación entre carga de entrenamiento y lesiones por sobreuso.
+
+9\. Nuevas tecnologías para la monitorización de la carga de entrenamiento en el alto rendimiento deportivo.
+
+RA-6. Programa y dirige el entrenamiento y/o la competición en condiciones especiales identificando sus bases y características más importantes.
+
+1\. Causas, efectos y respuestas fisiológicas producidos por el entrenamiento y/o la competición en condiciones extremas de calor, frío y/o humedad.
+
+2\. Diseño y elaboración de entrenamientos en situaciones de temperatura y/o humedad extrema.
+
+3\. Estrategias para facilitar la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de temperaturas y/o humedades extremas.
+
+4\. Diseño y elaboración de protocolos y sesiones de entrenamiento controlado en calor para la mejora del rendimiento físico-deportivo.
+
+5\. Respuesta fisiológica aguda, reposo vs. ejercicio y crónica. Efectos y adaptaciones a la altitud sobre el sistema cardiorrespiratorio, hormonal y neuromuscular.
+
+6\. Diseño y elaboración de programas de entrenamiento en altitud.
+
+7\. Estrategias de entrenamiento en condiciones de hipoxia.
+
+8\. Estrategias para facilitar la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de altitud.
+
+9\. Efectos y respuestas fisiológicas producidos por el cambio horario en los diferentes sistemas del organismo: alteraciones de los ritmos circadianos, frecuencia cardíaca y ventilatoria, función urinaria, gástrica y hormonal. Consecuencias sobre el rendimiento físico-deportivo.
+
+10\. Consideraciones y estrategias en la programación del entrenamiento y la competición para facilitar la adaptación de los/las deportistas en situaciones de cambio horario.
+
+> Se numera como Anexo II.b y se sustituye por el que figura en el Anexo I del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 10.2.b)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.c — Módulo común de enseñanza deportiva: Factores psicosociales del alto rendimiento
+
+Código: MED-C302
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Identifica los factores psicológicos del deportista analizando los principales conceptos de la psicología del deporte, sus efectos en el rendimiento y el bienestar del deportista.
+
+a) Se han identificado los objetivos y funciones de la psicología del deporte.
+
+b) Se han analizado las contribuciones de los factores psicológicos a la progresión y el rendimiento de los/las deportistas de alto nivel.
+
+c) Se han descrito las principales destrezas psicológicas del deportista que influyen en el rendimiento deportivo según la modalidad deportiva.
+
+d) Se ha argumentado la necesidad de integrar las destrezas psicológicas en la evaluación del rendimiento de los/las deportistas de alto nivel.
+
+e) Se han descrito las principales situaciones de riesgo para la salud mental y el bienestar psicológico del deportista.
+
+RA-2. Selecciona al/a la deportista para la alta competición, analizando las características psicológicas de los/las deportistas y equipos de alto nivel y las exigencias psicológicas del alto rendimiento.
+
+a) Se han definido las características psicológicas óptimas, de deportistas y equipos, que demanda el alto rendimiento deportivo en el entrenamiento y en la competición.
+
+b) Se han analizado específicamente peculiaridades psicológicas de las mujeres deportistas en el alto rendimiento.
+
+c) Se han analizado los condicionantes psicológicos y las consideraciones específicas de los/las deportistas con discapacidad en el alto rendimiento.
+
+d) Se han propuesto de forma justificada criterios psicológicos de selección de deportistas de alto nivel en función de las exigencias del entrenamiento y la competición de alto nivel.
+
+e) Se han aplicado procedimientos psicológicos de detección de deportistas de alto nivel, mediante la realización de entrevistas y la observación de deportistas en situaciones simuladas de competición y entrenamiento.
+
+f) Se ha argumentado la importancia de la incorporación de protocolos psicológicos en la detección de deportistas de alto nivel.
+
+RA-3. Valora el entorno del/de la deportista, analizando los aspectos sociales que afectan a su rendimiento deportivo y facilitan su formación académica.
+
+a) Se han reconocido los aspectos sociales del entorno que afectan al rendimiento de los diferentes tipos de deportista de alto nivel.
+
+b) Se han definido los aspectos sociales del entorno del/de la deportista que facilitan su formación académica.
+
+c) Se han aplicado procedimientos de evaluación del entorno del/de la deportista que afectan a su rendimiento, en un supuesto práctico debidamente caracterizado.
+
+d) Se han aplicado de manera justificada medios de gestión del entorno, en situaciones simuladas debidamente caracterizadas, que eviten la interferencia con la formación deportiva y académica del/de la deportista.
+
+e) Se ha argumentado la conveniencia de que el/la entrenador/a facilite al/a la deportista la posibilidad de compaginar la carrera deportiva con la formación académica y la conciliación de la vida familiar y deportiva.
+
+f) Se han localizado, en una situación simulada debidamente caracterizada, las ayudas y fuentes de información de que disponen los/las deportistas de alto nivel al llegar al final de su carrera deportiva, que facilitan su integración en la vida laboral.
+
+g) Se ha reconocido la importancia de incorporar el análisis de los aspectos sociales del entorno del/de la deportista en la evaluación de su rendimiento.
+
+h) Se ha valorado la actitud positiva del/de la entrenador/a hacia el reconocimiento y prevención de los problemas de inserción laboral más frecuentes en los/las deportistas de alto nivel.
+
+RA-4. Participa en la preparación psicológica del deportista de alto rendimiento, analizando y aplicando actividades y técnicas de mejora de las destrezas psicológicas.
+
+a) Se han descrito las características y estructura de las técnicas de preparación psicológica que influyen en la mejora del rendimiento deportivo.
+
+b) Se han puesto en práctica actividades de preparación psicológica que influyen en la mejora del rendimiento deportivo en un supuesto practico debidamente caracterizado.
+
+c) Se han aplicado métodos de preparación psicológica en la mejora del afrontamiento de la competición que los/las deportistas de alto nivel hacen en situaciones simuladas debidamente caracterizadas.
+
+d) Se han realizado sencillas secuencias de actividades que favorezcan la mejora de las destrezas psicológicas en función de las exigencias de la especialidad deportiva y las características del deportista de una situación simulada debidamente caracterizada.
+
+RA-5. Colabora en la planificación de la preparación psicológica del/de la deportista, analizando la estructura de la preparación y aplicando criterios de secuenciación de los procedimientos y métodos para afrontar la alta competición.
+
+a) Se ha reconocido la pertinencia de integrar la preparación psicológica en la programación de la preparación general del/de la deportista.
+
+b) Se han elaborado sesiones de entrenamiento de las diferentes destrezas psicológicas que influyen en el rendimiento del deportista de alta competición.
+
+c) Se ha planificado la preparación psicológica dirigida a mejorar el rendimiento deportivo en la alta competición distribuyendo las cargas de trabajo de las diferentes destrezas psicológicas a lo largo de la temporada.
+
+d) Se han integrado en un supuesto práctico de preparación deportiva los procedimientos psicológicos de mantenimiento de la motivación de los/las deportistas de alto nivel a lo largo de la temporada deportiva.
+
+e) Se han programado los procesos relacionados con la forma en que el/la deportista de alto nivel afronta la competición en un supuesto práctico.
+
+f) Se ha valorado la importancia de la gestión psicológica en el proceso de rehabilitación de lesiones en los/las deportistas de alto rendimiento.
+
+g) Se ha valorado la importancia de la gestión psicológica en el proceso de finalización de la etapa competitiva en la vida del deportista y tránsito a la vida lejos de la competición.
+
+RA-6. Coordina el equipo de personal técnico en ciencias aplicadas al deporte, identificando las funciones del/de la psicólogo/a y aplicando técnicas de liderazgo en la gestión de recursos humanos.
+
+a) Se han definido los roles del/de la profesional de la psicología, diferenciándolos de las funciones del entrenador y de la entrenadora.
+
+b) Se han descrito los diferentes estilos de liderazgo de que dispone el/la entrenador/a en la gestión del equipo del personal técnico especialista.
+
+c) Se han descrito las pautas para desarrollar la cohesión del grupo de los recursos humanos del staff técnico.
+
+d) Se han identificado aquellas pautas de comunicación que puede utilizar el/la entrenador/a que generan credibilidad en su equipo de técnicos/as especialistas.
+
+e) Se han aplicado los estilos de liderazgo, las técnicas de cohesión de grupo y las pautas de comunicación en la gestión de los recursos humanos del staff técnico en situaciones simuladas de trabajo en equipo.
+
+f) Se han descrito las pautas a seguir por parte del técnico en la incorporación de las aportaciones especializadas del/de la profesional de la psicología a la preparación del/de la deportista en función del grado de participación de la persona especialista con el/la deportista.
+
+g) Se ha justificado la conveniencia de disponer de equipos de personal técnico especialista en ciencias del deporte.
+
+h) Se han descrito los aspectos de la preparación deportiva susceptibles de ser derivados al/a la profesional de la psicología.
+
+Contenidos básicos
+
+RA-1. Identifica los factores psicológicos del deportista analizando los principales conceptos de la psicología del deporte, sus efectos en el rendimiento y el bienestar del deportista.
+
+1\. La psicología del deporte y el ejercicio físico: historia y evolución.
+
+2\. Objetivos principales de la psicología del deporte.
+
+3\. Funciones y áreas de estudio de la psicología del deporte.
+
+4\. Factores psicológicos y su contribución a la progresión y el rendimiento:
+
+– La personalidad y su estructura de análisis.
+
+– Motivación y competitividad.
+
+– *Arousal*, estrés y ansiedad.
+
+– Rasgos de la personalidad, estados emocionales y herramientas de medida: tests, inventarios y directrices para su uso.
+
+– Fases de desarrollo de la motivación de logro y la competitividad.
+
+– Teorías e hipótesis sobre el efecto del *arousal*y la ansiedad en la ejecución.
+
+– Destrezas psicológicas que influyen en el rendimiento deportivo como la regulación del *arousal*, visualización, autoconfianza, establecimiento de objetivos y concentración.
+
+– Contribuciones de las destrezas psicológicas del deportista a la progresión y el rendimiento de los/las deportistas de alto nivel según la modalidad deportiva.
+
+– La necesidad de integrar aspectos psicológicos en la evaluación del deportista para la mejora del rendimiento deportivo.
+
+– Influencia en el rendimiento deportivo de la motivación del deportista, los rasgos de personalidad, el nivel de competitividad o la gestión de la ansiedad.
+
+– El autoconcepto, la conducta Tipo A y su relevancia en la salud mental del deportista.
+
+RA-2. Selecciona al/a la deportista para la alta competición, analizando las características psicológicas de los/las deportistas y equipos de alto nivel y las exigencias psicológicas del alto rendimiento.
+
+1\. Características psicológicas óptimas de los/las deportistas y equipos de alto nivel en el entrenamiento y en la competición.
+
+2\. Modelo de salud mental positiva (Morgan 1979) para la predicción del éxito deportivo. El perfil de Iceberg.
+
+3\. Peculiaridades psicológicas y consideraciones específicas de la mujer deportista de alto rendimiento.
+
+4\. Condicionantes psicológicos y consideraciones específicas de los/las deportistas con discapacidad en el alto rendimiento.
+
+5\. Identificación del perfil psicológico de los/las deportistas y equipos de alto nivel.
+
+6\. Importancia de los aspectos psicológicos en los procesos de detección de deportistas de alto nivel.
+
+7\. Criterios psicológicos en la selección de deportistas de alto nivel.
+
+8\. Aplicación de procedimientos de selección psicológica de deportistas de alto nivel.
+
+9\. Métodos de evaluación de las destrezas psicológicas implicados en el entrenamiento y en la competición para su selección.
+
+10\. Registro y análisis de la actuación psicológica de los/las deportistas en entrenamiento y en competición para su selección.
+
+11\. La necesidad de integrar las destrezas psicológicas en la selección del deportista de alto nivel.
+
+RA-3. Valora el entorno del/de la deportista, analizando los aspectos sociales que afectan a su rendimiento deportivo y facilitan su formación académica.
+
+1\. Aspectos sociales del entorno del/de la deportista de alto nivel relacionados con el rendimiento deportivo y académico (familia, relaciones sociales y afectivas, centro educativo y/o laboral, club, federación, patrocinadores, representantes, medios de comunicación y redes sociales).
+
+2\. Características específicas del entorno de la mujer deportista.
+
+3\. Características específicas del entorno del/de la deportista con discapacidad en el alto rendimiento.
+
+4\. Interacciones entre las características psicológicas de los/las deportistas de alto nivel y los aspectos sociales de su entorno.
+
+5\. Aspectos sociales del entorno del/de la deportista relacionados con su formación académica.
+
+6\. Evaluación de los aspectos sociales del entorno del/de la deportista relacionados con su progresión deportiva.
+
+7\. Medios de gestión del entorno por parte del/de la entrenador/a para que no interfiera en la preparación deportiva, académica o en el rendimiento deportivo del/de la deportista (formación de las familias, educación de los medios de comunicación, gestión de las redes sociales).
+
+8\. Desarrollo de una actitud en el/la entrenador/a que facilite al/a la deportista compaginar sus estudios con la práctica deportiva.
+
+9\. Conciliación personal-familiar y deportiva, las expectativas de maternidad de las deportistas durante la vida deportiva.
+
+10\. Problemas de inserción laboral más frecuentes en deportistas de alto nivel. Identificación de las ayudas y fuentes de información que facilitan la integración de los/las deportistas de alto nivel a la vida laboral.
+
+11\. Evaluación de los efectos del entorno del deportista en su rendimiento deportivo.
+
+12\. La actitud positiva del/de la entrenador/a hacia el reconocimiento y la prevención de problemas de inserción laboral en los/las deportistas de alto nivel.
+
+13\. La integración de los aspectos sociales del entorno del/de la deportista en la evaluación de su rendimiento.
+
+RA-4. Participa en la preparación psicológica del deportista de alto rendimiento, analizando y aplicando actividades y técnicas de mejora de las destrezas psicológicas.
+
+1\. Técnicas para desarrollar y perfeccionar las habilidades psicológicas para la mejora del rendimiento.
+
+– Técnicas de reducción de la ansiedad.
+
+– Técnicas inductoras del *arousal*.
+
+– Ejercicios para trabajar los diferentes tipos de visualización.
+
+– Estrategias para trabajar la autoconfianza.
+
+– Principios básicos del establecimiento de objetivos.
+
+– Ejercicios para mejorar la concentración y el foco atencional.
+
+2\. Estrategias para conseguir un determinado estado mental para realizar conductas relevantes para la mejora del rendimiento y/o la salud psicológica.
+
+3\. Aplicación de situaciones de competitividad y cooperación como herramientas para el aumento del rendimiento.
+
+4\. Utilización del*Feedback*y técnicas de reforzamiento de la conducta.
+
+5\. Métodos aplicados para la preparación psicológica del afrontamiento de la competición deportiva de alto nivel.
+
+6\. Secuencias y progresiones de actividades para la mejora de las destrezas psicológicas específicas de la modalidad deportiva en función de las peculiaridades del deportista.
+
+RA-5. Colabora en la planificación de la preparación psicológica del/de la deportista, analizando la estructura de la preparación y aplicando criterios de secuenciación de los procedimientos y métodos para afrontar la alta competición.
+
+1\. Los programas de entrenamiento de las destrezas psicológicas y su integración en la planificación deportiva general.
+
+2\. Estructura y diseño de las sesiones de entrenamiento de las destrezas psicológicas del deportista de alta competición como unidad de programación.
+
+3\. Programas de sesiones para la mejora de las distintas destrezas psicológicas que influyen en el rendimiento deportivo.
+
+4\. Distribución de las cargas de trabajo de las distintas destrezas psicológicas a lo largo de la temporada deportiva.
+
+5\. Diseño y evaluación de programas de mejora de las destrezas psicológicas.
+
+6\. Procedimientos psicológicos para mantener la motivación de deportistas de alto nivel a lo largo de la temporada.
+
+7\. Métodos de preparación psicológica para mejorar el afrontamiento que los/las deportistas de alto nivel hacen de la competición.
+
+8\. Planificación de los procesos de afrontamiento de la competición implicados en el alto rendimiento deportivo.
+
+9\. Elaboración de programaciones deportivas que integren los procesos de motivación y de afrontamiento de la competición.
+
+10\. Relevancia del trabajo psicológico para deportistas de alto nivel en situaciones de riesgo para su salud mental:
+
+– Procesos de rehabilitación de lesiones.
+
+– Finalización de la etapa competitiva en la vida del deportista y tránsito a la vida lejos de la competición.
+
+RA-6. Coordina el equipo de personal técnico en ciencias aplicadas al deporte, identificando las funciones del/de la psicólogo/a y aplicando técnicas de liderazgo en la gestión de recursos humanos.
+
+1\. Funciones del/de la profesional de la psicología aplicada al deporte y del técnico en los programas de entrenamiento de las destrezas psicológicas:
+
+– Detección de necesidades.
+
+– Diseño de la planificación.
+
+– Implementación del programa.
+
+– Supervisión y evaluación del programa.
+
+2\. Estilos de liderazgo aplicados en la conducción de equipos de trabajo.
+
+3\. Pautas para el desarrollo de un buen liderazgo de equipos de trabajo.
+
+4\. Pautas para el desarrollo de la cohesión de grupo y su medición.
+
+5\. Análisis de la comunicación para generar credibilidad en el conjunto de especialistas en ciencias aplicadas al deporte.
+
+6\. Protocolos para integrar la aportación del/de la profesional de la psicología en la preparación de deportistas de alto nivel.
+
+7\. La necesidad de disponer de equipos técnicos multidisciplinares.
+
+8\. La derivación de aspectos de la preparación de deportistas de alto nivel a profesionales de la psicología. Pautas de actuación.
+
+> Se numera como Anexo II.c y se sustituye por el que figura en el Anexo II del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 10.2.c)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.d — Módulo común de enseñanza deportiva: Formación de formadores deportivos
+
+Código: MED-C303
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Elabora la programación didáctica de los módulos de enseñanzas deportivas, analizando la normativa de ordenación de las mismas, de los centros docentes, del profesorado y de la evaluación, aplicando los procesos de programación y secuenciación.
+
+a) Se ha analizado la organización básica de las enseñanzas deportivas en relación con el sistema educativo.
+
+b) Se ha analizado la normativa que rige el funcionamiento y organización de los diferentes tipos de centros docentes en los que se puede impartir las enseñanzas deportivas de régimen especial.
+
+c) Se han analizado las diferentes formas de colaboración entre las administraciones educativas y las federaciones deportivas, para impartir las enseñanzas deportivas.
+
+d) Se han relacionado las competencias del perfil profesional y los objetivos generales de un ciclo de enseñanzas deportivas con los resultados de aprendizaje de uno de los módulos y sus criterios de evaluación, mediante la valoración de sus características.
+
+e) Se han analizado los conceptos, procedimientos y actitudes que soportan los criterios de evaluación de los resultados de aprendizaje de un módulo específico de enseñanza deportiva.
+
+f) Se ha elaborado la programación didáctica de un módulo específico, en situaciones simuladas que concreten, entre otras, el tipo de enseñanza y el entorno docente.
+
+g) Se ha valorado justificadamente la importancia de programar en la formación de técnicos deportivos.
+
+RA-2. Elabora las sesiones de formación de técnicos deportivos de la programación didáctica conforme a sus elementos, valorando las características del alumnado adulto, y analizando, seleccionando y diseñando recursos didácticos propios de las enseñanzas deportivas.
+
+a) Se han valorado las características individuales y psicosociales del alumnado, en una situación simulada de formación de técnicos deportivos con un grupo diverso que incluya elementos de atención a las personas con discapacidad.
+
+b) Se han analizado las características de los recursos didácticos (actividades, tareas, materiales y medios) y las pautas didácticas que facilitan el proceso de enseñanza-aprendizaje presencial y a distancia, en un supuesto práctico de sesión de formación de técnicos deportivos.
+
+c) Se han seleccionado y diseñado actividades, tareas, materiales y medios didácticos (tradicionales, digitales y multimedia), en una sesión de trabajo donde se establezca el tipo de sesión (teórica, práctica, presencial y a distancia), el módulo específico, la concreción curricular y la estructura de sesión.
+
+d) Se han seleccionado y diseñado recursos didácticos alternativos en una situación simulada de una incidencia técnica, debidamente caracterizada de atención a una necesidad educativa especial o aplicación del principio de igualdad de oportunidades entre mujeres y hombres en la formación de técnicos deportivos.
+
+e) Se ha valorado justificadamente la importancia de seleccionar y diseñar recursos didácticos en la programación didáctica previamente a su utilización en la formación de técnicos deportivos, así como recursos didácticos alternativos frente a posibles incidencias y en atención a la diversidad.
+
+RA-3. Imparte formación de técnicos deportivos conforme a la programación didáctica, aplicando la metodología de enseñanza-aprendizaje y analizando la disposición docente que facilita el aprendizaje y la evaluación.
+
+a) Se han demostrado comportamientos y actitudes docentes que potencien y afiancen el rendimiento y la implicación del alumnado adulto en su formación deportiva, en situaciones simuladas de dirección de sesiones donde se establezcan las características del alumnado.
+
+b) Se han aplicado los estilos de enseñanza y las estrategias pedagógicas de fomento de los estilos de aprendizaje adecuados a la adquisición de competencias profesionales, en un supuesto practico debidamente caracterizado en el que se establezca el tipo de práctica, la modalidad de enseñanza, el módulo específico y las características del alumnado.
+
+c) Se ha dirigido una sesión de formación de enseñanzas deportivas, en un supuesto practico debidamente caracterizado en el que se establezca el tipo de sesión (teórica o práctica), la modalidad de enseñanza y la programación de la sesión.
+
+d) Se han aplicado recursos didácticos alternativos, en un supuesto práctico de una incidencia técnica y en otro de atención a la diversidad en la formación de técnicos deportivos, poniendo en práctica los recursos que resulten más adecuados en cada caso.
+
+e) Se han aplicado las estrategias, instrumentos y formas de evaluación de competencias profesionales en las enseñanzas deportivas, en una situación simulada donde se establezcan las características de los alumnos y los criterios de evaluación de los resultados de aprendizaje de un módulo específico.
+
+f) Se ha resuelto de forma argumentada una reclamación de calificación presentada por un/a alumno/a de enseñanzas deportivas, en una situación simulada en la que se concrete la comunidad autónoma y la normativa a utilizar.
+
+RA-4. Tutoriza técnicos deportivos en su proceso de formación específica (módulos específicos, de formación práctica y proyecto final), analizando y aplicando las estrategias y procedimientos específicos de tutorización.
+
+a) Se han comparado las diferentes estrategias y procedimientos que permiten establecer una línea de trabajo continua y coherente entre los módulos del bloque específico y los del bloque común de las enseñanzas deportivas.
+
+b) Se han analizado las estrategias y procedimientos de actuación en la tutorización de técnicos deportivos y en la dirección de su proyecto final, para su seguimiento y orientación.
+
+c) Se han categorizado y aplicado las diferentes formas de contacto y colaboración con los centros de prácticas para la formalización del convenio de colaboración del módulo de formación práctica.
+
+d) Se han concretado los conceptos, procedimientos y actitudes establecidos en los criterios de evaluación del módulo de formación práctica que deben formar parte del guion de la memoria de prácticas.
+
+e) Se ha valorado la importancia de que el alumnado en prácticas recoja en un diario de campo el registro de lo realizado como elemento de aprendizaje reflexivo.
+
+f) Se han elaborado de forma justificada los apartados clave a incluir en el guion de la presentación oral y escrita de un proyecto final de las enseñanzas deportivas, en un supuesto práctico en el que se establezca la temática del proyecto.
+
+g) Se han ejemplificado estrategias de orientación a aplicar a un/a supuesto/a alumno/a en una situación simulada de seguimiento realizado en un ciclo superior de las enseñanzas deportivas, detectando los momentos en los que habrían sido necesarias.
+
+h) Se ha evaluado una memoria de prácticas o un proyecto final, en una situación simulada donde se establezca dicho documento y los criterios de evaluación de los resultados de aprendizaje de un módulo de formación práctica o de proyecto final.
+
+i) Se ha elaborado de forma justificada el modelo de informe de evaluación, en un supuesto práctico en el que se establece el tipo de módulo a informar.
+
+RA-5. Promueve el desarrollo ético y moral de técnicos y deportistas de alto rendimiento, valorando el impacto que sus comportamientos y actitudes tienen a nivel social, especialmente a través de los medios de comunicación.
+
+a) Se han analizado los valores y antivalores más relevantes relacionados con el alto rendimiento deportivo en la prensa y en las redes sociales.
+
+b) Se han analizado las características que ha de tener el tratamiento de la información deportiva en los medios de comunicación para transmitir valores, especialmente haciendo efectiva la no promoción de la violencia y la valoración del éxito deportivo de otros colectivos normalmente menos valorados como mujeres y personas con discapacidad.
+
+c) Se ha valorado el impacto social de actitudes y comportamientos deportivos y antideportivos de miembros del cuerpo técnico y de deportistas de alto rendimiento, en supuestos prácticos de interacción con los medios de comunicación.
+
+d) Se han analizado los estereotipos de género u otro tipo, conductas de violencia, valores y antivalores, en un supuesto práctico de actuación del equipo de alto rendimiento frente a un conflicto, o en uno personal de resolución de una conducta poco ética y moral del equipo.
+
+e) Se han aplicado estrategias de desarrollo ético y moral personal y del equipo a reflejar en los comportamientos y actitudes ante los medios de comunicación, en un supuesto práctico de dirección de un equipo de alto rendimiento.
+
+f) Se han aplicado estrategias de resolución de conductas poco éticas y morales ante los medios de comunicación, en un supuesto práctico personal o de un deportista de alto rendimiento.
+
+Contenidos básicos
+
+RA-1. Elabora la programación didáctica de los módulos de enseñanzas deportivas, analizando la normativa de ordenación de las mismas, de los centros docentes, del profesorado y de la evaluación, aplicando los procesos de programación y secuenciación.
+
+1\. Enumeración de elementos y secuenciación de la programación didáctica.
+
+2\. Programación didáctica en enseñanza presencial y a distancia: características diferenciales.
+
+3\. Ubicación de las enseñanzas deportivas en el sistema educativo.
+
+– Ordenación, estructura y organización básica.
+
+– Sistema Nacional de Cualificaciones y Formación Profesional: oferta formativa en relación con las enseñanzas deportivas.
+
+4\. Normativa específica básica de las enseñanzas deportivas a tener en cuenta en la programación didáctica.
+
+– Centros de enseñanzas deportivas.
+
+– Características del profesorado de enseñanzas deportivas.
+
+– Perfil profesional de los ciclos de enseñanzas deportivas.
+
+– Objetivos generales de los diferentes ciclos de las enseñanzas deportivas.
+
+– Ciclos, bloques y módulos de las enseñanzas deportivas.
+
+– Elementos curriculares de los módulos de las enseñanzas deportivas.
+
+– Normativa de evaluación en las enseñanzas deportivas.
+
+RA-2. Elabora las sesiones de formación de técnicos deportivos de la programación didáctica conforme a sus elementos, valorando las características del alumnado adulto, y analizando, seleccionando y diseñando recursos didácticos propios de las enseñanzas deportivas.
+
+1\. Valoración de las características psicosociales del alumnado adulto propio de las enseñanzas deportivas.
+
+– Aprendizaje de personas adultas. Teorías cognitivas del aprendizaje.
+
+– Métodos de valoración psicosocial.
+
+– Implicaciones de las características psicosociales en el aprendizaje adulto.
+
+2\. Atención a la diversidad en el alumnado de enseñanzas deportivas, Principio de individualización en la enseñanza-aprendizaje y medidas para su fomento en las mismas.
+
+– Atención a las personas con discapacidad. Principio de normalización.
+
+– Principio de igualdad de oportunidades entre mujeres y hombres.
+
+– Adaptación curricular.
+
+– Situaciones de aprendizaje coeducativas, cooperativas e interactivas.
+
+3\. Elementos de la sesión en la planificación de sesiones en la formación de técnicos deportivos.
+
+– Concreción curricular.
+
+– Estructura.
+
+4\. Recursos didácticos a utilizar en las sesiones de formación técnicos deportivos. Características y criterios de selección y elaboración para enseñanza presencial y a distancia.
+
+– Actividades y tareas.
+
+– Medios didácticos: tradicionales, digitales (nuevas tecnologías –las TIC– aplicadas a la educación) y multimedia.
+
+– Materiales específicos de las disciplinas deportivas.
+
+– Pautas didácticas para la adecuación de los recursos didácticos.
+
+– Alternativas en caso de fallo técnico de los recursos didácticos y frente a otras posibles incidencias en las enseñanzas deportivas.
+
+– Diseño de los recursos didácticos para la individualización del proceso de enseñanza-aprendizaje y en atención a la diversidad en las enseñanzas deportivas.
+
+RA-3. Imparte formación de técnicos deportivos conforme a la programación didáctica, aplicando la metodología de enseñanza-aprendizaje y analizando la disposición docente que facilita el aprendizaje y la evaluación.
+
+1\. Desarrollo de la actitud de disposición del profesorado en la intervención docente en la formación de técnicos deportivos, para potenciar y afianzar el rendimiento y la implicación del alumnado adulto en el aprovechamiento de su formación.
+
+– Componentes cognitivos, afectivos y conductuales de la actitud de disposición docente.
+
+2\. Aspectos metodológicos de la enseñanza-aprendizaje en la formación de técnicos deportivos.
+
+– Estilos y estrategias de aprendizaje en personas adultas.
+
+– Modelos de formación del profesorado en las enseñanzas deportivas.
+
+– Estilos de enseñanza en modalidad presencial y a distancia.
+
+– Dirección de sesiones en la formación de técnicos deportivos.
+
+3\. Evaluación de la formación de técnicos deportivos.
+
+– Estrategias de evaluación.
+
+– Instrumentos de evaluación.
+
+– Formas de evaluación.
+
+– Pautas y proceso para la adecuada atención de reclamaciones de calificaciones.
+
+RA-4. Tutoriza técnicos deportivos en su proceso de formación específica (módulos específicos, de formación práctica y proyecto final), analizando y aplicando las estrategias y procedimientos específicos de tutorización.
+
+1\. Análisis de la relación curricular existente entre los distintos módulos de los bloques común y específico de las enseñanzas deportivas a tener en cuenta en la tutorización.
+
+– Implicaciones en el seguimiento y orientación en la tutorización.
+
+2\. Seguimiento educativo en la tutorización grupal, personal, presencial y a distancia de los módulos del bloque específico en la formación de técnicos deportivos.
+
+– Estrategias para la monitorización y control del proceso educativo.
+
+– Aplicaciones informáticas específicas de gestión y seguimiento.
+
+3\. Orientación educativa en la tutorización grupal, personal, presencial y a distancia de los módulos del bloque específico en la formación de técnicos deportivos.
+
+– Potenciación y afianzamiento del rendimiento y la implicación del alumnado adulto en el aprovechamiento de su formación deportiva.
+
+4\. Aspectos específicos a tener en cuenta en la tutorización del módulo de formación práctica de las enseñanzas deportivas.
+
+– Establecimiento de contactos y convenios con entidades colaboradoras.
+
+– Estrategias y procedimientos de actuación específicos en su seguimiento y orientación.
+
+– Memoria de prácticas.
+
+– Diario de campo.
+
+5\. Aspectos específicos a tener en cuenta en la tutorización del módulo de proyecto final de las enseñanzas deportivas.
+
+– Dirección y tutorización de proyectos: estrategias y procedimientos de actuación específicos en su seguimiento y orientación.
+
+– Proyecto.
+
+– Presentación oral.
+
+6\. Funciones y efectos específicos de la tutorización en el proceso de evaluación de los diferentes módulos de las enseñanzas deportivas.
+
+– Análisis de la progresión en la consecución de los criterios de evaluación de los resultados de aprendizaje de los distintos módulos a lo largo del ciclo de la enseñanza deportiva.
+
+– Elaboración de informes de evaluación.
+
+RA-5. Promueve el desarrollo ético y moral de técnicos y deportistas de alto rendimiento, valorando el impacto que sus comportamientos y actitudes tienen a nivel social, especialmente a través de los medios de comunicación.
+
+1\. Ética y moral en el deporte de alto rendimiento. Valores propios.
+
+– Antivalores más relevantes y comunes. Estereotipos y violencia en el deporte de alto rendimiento.
+
+– Valores y rendimiento deportivo.
+
+2\. Deporte de alto rendimiento, su impacto social y su desarrollo ético y moral en relación con los medios de comunicación.
+
+– Interacción de los diferentes agentes del ámbito del alto rendimiento deportivo con los medios de comunicación: deportistas y cuerpo técnico.
+
+– Análisis del contenido de la información deportiva en los medios de comunicación: transmisión de valores y valoración del éxito en mujeres y personas con discapacidad.
+
+– Repercusión mediática de actitudes y comportamientos deportivos y antideportivos de las/os deportistas y del cuerpo técnico ante los medios de comunicación.
+
+– Estrategias para el análisis y la difusión de valores deportivos a través de los medios.
+
+> Se numera como Anexo II.d y se sustituye por el que figura en el Anexo III del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 10.2.d)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.e — Módulo común de enseñanza deportiva: Organización y gestión aplicada al alto rendimiento
+
+Código: MED-C304
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Revisa las condiciones de seguridad de los recursos materiales y equipamientos deportivos en instalaciones de alto rendimiento, utilizando la normativa vigente y aplicando criterios de protección contra riesgos, además de medidas de protección avanzadas.
+
+a) Se ha identificado la normativa básica y complementaria relativa a la seguridad aplicable a un supuesto práctico donde se concretan las características de una instalación deportiva de alto rendimiento.
+
+b) Se han aplicado los principales criterios de seguridad que deben cumplir las instalaciones y equipamientos deportivos de instalaciones de alto rendimiento, en un supuesto práctico donde se establece el marco normativo a utilizar y las características específicas de la instalación.
+
+c) Se han analizado las características de un plan de emergencia y evacuación en una instalación deportiva de alto rendimiento.
+
+d) Se han detallado estrategias y medidas de protección avanzadas contra riesgos antisociales y de violencia en el deporte, aplicables a una situación simulada debidamente caracterizada propia del alto rendimiento.
+
+RA-2. Organiza competiciones y eventos propios del nivel de tecnificación deportiva, analizando los requisitos administrativos, medios materiales y humanos necesarios, en relación con el marco legal que las regula y valorando los criterios de igualdad de género y sostenibilidad.
+
+a) Se ha identificado la estructura organizativa y la persona responsable de la competición de tecnificación deportiva, diferenciando sus funciones esenciales a partir de la normativa vigente.
+
+b) Se han categorizado de manera justificada las estrategias o herramientas utilizables en la búsqueda de financiación o apoyo económico de eventos y competiciones deportivas.
+
+c) Se ha elaborado el procedimiento de comunicación y difusión de los resultados, así como la gestión del protocolo de manera eficiente, aplicables en eventos reales o simulados.
+
+d) Se ha valorado el impacto ambiental y social de la celebración de eventos deportivos acorde a criterios de sostenibilidad, mediante la participación en espacios de discusión y análisis colectivo.
+
+RA-3. Acompaña a deportistas o equipos a competiciones de alto nivel y alto rendimiento, identificando el marco legislativo y organizativo de dichas competiciones y analizando las normativas de aplicación a deportistas profesionales, deportistas de alto nivel y alto rendimiento.
+
+a) Se ha analizado la normativa deportiva de ámbito internacional y su relación con la estructura administrativa del deporte, mediante un escenario de estudio realista.
+
+b) Se ha descrito la organización, estructura y funciones de los organismos deportivos internacionales más importantes, mediante el análisis de casos prácticos.
+
+c) Se ha descrito el régimen disciplinario y antidopaje y su relación con los organismos del deporte.
+
+d) Se ha analizado la normativa que afecta a Deportistas de Alto Nivel y Alto Rendimiento en España, a través de la revisión de casos representativos.
+
+e) Se han analizado las características de los programas de ayuda a la preparación de Deportistas de Alto Nivel y Alto Rendimiento de los deportes olímpicos, a través de la revisión de programas de apoyo reales.
+
+RA-4. Identifica las formas jurídicas y estructuras de las organizaciones deportivas, relacionándolas con la normativa vigente y aplicando procedimientos básicos de gestión económica.
+
+a) Se ha distinguido el grado de responsabilidad de las personas propietarias y gestoras de organizaciones deportivas, en función de su forma jurídica, mediante el análisis comparativo de distintas estructuras organizativas.
+
+b) Se han identificado los procedimientos de creación y puesta en marcha de una organización deportiva, en un supuesto práctico de emprendimiento en el que se establece la forma jurídica y la estructura de la organización deportiva.
+
+c) Se han enumerado los trámites de obtención de apoyo económico exigidos por la normativa vigente en los procesos de creación de organizaciones deportivas, adecuándolos a las características de cada organización.
+
+d) Se han seleccionado los procedimientos de gestión económica esenciales en la organización deportiva, a partir de una organización ficticia.
+
+RA-5. Selecciona las oportunidades de empleo, identificando itinerarios formativos profesionales, realizando una autovaloración de características personales y reconociendo organizaciones útiles para el asesoramiento en la búsqueda.
+
+a) Se ha valorado la importancia de la formación permanente como factor clave en la empleabilidad y la adaptación a las exigencias del mercado laboral y de la modalidad deportiva, mediante la participación en espacios de discusión y análisis colectivo.
+
+b) Se han identificado los itinerarios formativos profesionales que completan su perfil profesional y aumentan su empleabilidad, a partir de la búsqueda en bases de datos educativas y ofertas formativas actualizadas.
+
+c) Se han descrito posibilidades de empleo relacionadas con su perfil profesional, a partir de la búsqueda de oportunidades en el mercado.
+
+d) Se han analizado y aplicado herramientas de autoevaluación de las aspiraciones, actitudes y formación vinculadas con la búsqueda de empleo.
+
+e) Se han seleccionado de manera justificada las organizaciones de asesoramiento en la búsqueda de empleo, a partir de la consulta de portales de empleo y orientación profesional.
+
+Contenidos básicos
+
+RA-1. Revisa las condiciones de seguridad de los recursos materiales y equipamientos deportivos en instalaciones de alto rendimiento, utilizando la normativa vigente y aplicando criterios de protección contra riesgos, además de medidas de protección avanzadas.
+
+1\. Instalaciones deportivas: concepto y características funcionales.
+
+2\. Fundamentos normativos sobre seguridad en las instalaciones deportivas.
+
+3\. La información sobre seguridad en las instalaciones deportivas. Interpretación de la señalización de seguridad. Accesibilidad en instalaciones deportivas.
+
+4\. Procedimientos de revisión de los equipamientos deportivos.
+
+5\. Análisis y aplicación de los planes de emergencia y evacuación.
+
+6\. Medidas básicas de protección para las personas usuarias y las personas trabajadoras.
+
+7\. Protección contra actos antisociales y violencia en el deporte.
+
+RA-2. Organiza competiciones y eventos propios del nivel de tecnificación deportiva, analizando los requisitos administrativos, medios materiales y humanos necesarios, en relación con el marco legal que las regula y valorando los criterios de igualdad de género y sostenibilidad.
+
+1\. Competiciones deportivas. Estructura organizativa básica. Funciones y responsabilidades.
+
+2\. Vías de apoyo económicas y materiales.
+
+3\. Apoyo a la esponsorización del deporte femenino, su importancia en la organización de eventos de esta naturaleza.
+
+4\. Organización de actos de protocolo.
+
+5\. Gestión y difusión de los resultados de las competiciones deportivas.
+
+6\. Sostenibilidad en competiciones y eventos deportivos.
+
+– Medidas para minimizar las afecciones en la Biodiversidad y de restauración de zonas afectadas. Preservación de zonas frágiles, patrimonio arqueológico, histórico y cultural.
+
+– Medidas de ahorro y uso eficiente del agua.
+
+– Gestión de residuos y limpieza.
+
+– Minimizar el uso de energía, fomento de energías renovables.
+
+RA-3. Acompaña a deportistas o equipos a competiciones de alto nivel y alto rendimiento, identificando el marco legislativo y organizativo de dichas competiciones y analizando las normativas de aplicación a deportistas profesionales, deportistas de alto nivel y alto rendimiento.
+
+1\. Deporte internacional. Normativa de referencia:
+
+– Carta Olímpica.
+
+– Carta Europea del Deporte: personas con discapacidad.
+
+– Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+– Convención sobre los derechos de las personas con discapacidad: resolución de la Asamblea General de la ONU del 13 de diciembre de 2006 (artículo 30.5).
+
+2\. Organismos Internacionales.
+
+– Estructura y funciones: Comité Paralímpico Internacional, Comité Olímpico Internacional. Tribunal de Arbitraje del Deporte. Agencia Mundial Antidopaje.
+
+– Régimen Disciplinario.
+
+3\. Deporte Profesional. Concepto.
+
+– Ley del deporte.
+
+– Ligas profesionales españolas. Características.
+
+4\. Deporte de Alto Nivel (DAN) y de Alto Rendimiento (DAR).
+
+– Normativa de aplicación DAN y DAR.
+
+– Plan ADO y «Team España». Características.
+
+– Plan ADOP. Características.
+
+– Programas de apoyo a las deportistas DAN y DAR.
+
+RA-4. Identifica las formas jurídicas y estructuras de las organizaciones deportivas, relacionándolas con la normativa vigente y aplicando procedimientos básicos de gestión económica.
+
+1\. Organizaciones y empresas deportivas. Formas jurídicas. Estructura y funciones.
+
+2\. Elección de la forma jurídica.
+
+3\. Requisitos legales de constitución de organizaciones deportivas y empresas.
+
+4\. Vías de financiación de las organizaciones y empresas deportivas. Ayudas y subvenciones. Tramitación de solicitudes de ayudas y subvenciones.
+
+5\. Nociones básicas de contabilidad.
+
+6\. Análisis de la información contable.
+
+RA-5. Selecciona las oportunidades de empleo, identificando itinerarios formativos profesionales, realizando una autovaloración de características personales y reconociendo organizaciones útiles para el asesoramiento en la búsqueda.
+
+1\. Valoración de la importancia de la formación permanente para la trayectoria laboral y profesional del personal técnico deportivo superior.
+
+2\. Identificación de los itinerarios formativos relacionados con el personal técnico deportivo superior.
+
+3\. El proceso de búsqueda de empleo.
+
+4\. Técnicas e instrumentos de búsqueda de empleo.
+
+5\. El proceso de toma de decisiones.
+
+6\. Análisis de los intereses, aptitudes y motivaciones personales para la carrera profesional.
+
+7\. Análisis del mercado de entidades públicas y privadas orientadas al asesoramiento en la búsqueda de empleo.
+
+> Se numera como Anexo II.e y se sustituye por el que figura en el Anexo IV del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 10.2.e)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.f — Módulo específico de enseñanza deportiva: Metodología para el alto rendimiento en balonmano
+
+Código: MED-BMBM301
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Fundamenta la preparación para el alto rendimiento en balonmano (ATR), la complejidad del juego, su estructura y organización, identificando y analizando los factores determinantes del rendimiento en competición, los condicionantes de la preparación y los niveles de acción individual, grupal y de equipo.
+
+a. Se han justificado las teorías y modelos explicativos de los deportes de equipo.
+
+b. Se ha fundamentado la complejidad de los deportes de equipo, así como su estructura y dinámica.
+
+c. Se ha analizado los factores de rendimiento en balonmano desde una perspectiva sistémica.
+
+d. Se ha justificado y argumentado los condicionantes de la preparación para el alto rendimiento en balonmano, así como su integración en el proceso de entrenamiento.
+
+e. Se han justificado y argumentado las características de la dimensión competición, la dimensión juego y sus diferentes niveles de acción: individual, grupal y de equipo.
+
+f. Se ha identificado la influencia de las capacidades perceptivas, cognitivas y coordinativas en el nivel de acción individual, y su repercusión en los niveles de acción grupal y de equipo.
+
+g. Se han identificado los niveles de integración de las capacidades perceptivas, cognitivas y coordinativas en función de los objetivos a conseguir en el entrenamiento.
+
+h. Se ha justificado la importancia del desarrollo de la actitud competitiva en el entrenamiento de alto rendimiento en balonmano.
+
+2\. Planifica y programa a medio y largo plazo equipos de alto rendimiento, analizando y aplicando criterios específicos, así como diseña y desarrolla modelos de juego para estos equipos elaborando tareas específicas para implantarlo y desarrollarlo, integrando las mismas en la planificación anual del equipo.
+
+a. Se han justificado y argumentado los fundamentos de la planificación y programación en balonmano de alto rendimiento.
+
+b. Se han aplicado criterios específicos relacionados con las características y nivel de jugadores, equipo, objetivos, infraestructura y sistema de competición para planificar y programar en el balonmano de alto rendimiento.
+
+c. Se han justificado los objetivos de la evaluación y se han aplicado técnicas e instrumentos para el control de la planificación y programación de equipo de alto rendimiento en balonmano.
+
+d. Se han justificado y argumentado los fundamentos, objetivos y las principales características a tener en cuenta para la creación de un modelo de juego.
+
+e. Se ha diseñado un modelo de juego integrando las acciones individuales, grupales y colectivas en cada una de las fases.
+
+f. Se ha elaborado tareas específicas para la implantación y desarrollo de un modelo de juego.
+
+g. Se han realizado los ajustes necesarios derivados de la aplicación y el entrenamiento del modelo de juego.
+
+3\. Diseña sesiones de entrenamiento en función del periodo de preparación y el calendario de competición, aplicando métodos y medios de entrenamiento, criterios y estrategias de optimización de las condiciones en las que se desarrollan, utilizando las variables de complejidad propias del balonmano de este nivel.
+
+a. Se han identificado los fundamentos y principios de la metodología del alto rendimiento, así como los factores a integrar en el entrenamiento.
+
+b. Se ha justificado y argumentado los criterios específicos de orientación e integración de los diferentes contenidos en el entrenamiento al alto rendimiento.
+
+c. Se han aplicado métodos y medios de preparación propios del entrenamiento de alto rendimiento.
+
+d. Se han argumentado las características de las sesiones de entrenamiento: tipos, estructura, condicionantes y organización.
+
+e. Se han diseñado diferentes sesiones de entrenamiento en función del periodo de preparación, y/o el calendario de competición.
+
+f. Se han justificado y argumentado la aplicación de variables de complejidad para la optimización del entrenamiento de alto rendimiento.
+
+g. Se han identificado y justificado los factores y condicionantes principales para la optimización de la organización de los entrenamientos.
+
+h. Se han aplicado estrategias de optimización de la organización de los entrenamientos.
+
+i. Se han argumentado las principales características del entrenamiento individualizado.
+
+j. Se han diseñado sesiones de entrenamiento individualizadas.
+
+Contenidos básicos
+
+1\. Fundamenta la preparación para el alto rendimiento en balonmano (ATR), la complejidad del juego, su estructura y organización, identificando y analizando los factores determinantes del rendimiento en competición, los condicionantes de la preparación y los niveles de acción individual, grupal y de equipo.
+
+– Paradigma, teorías y modelos de juego y competición en deportes de equipo.
+
+– Complejidad y deportes de equipo: estructura y dinámica.
+
+– Los factores a integrar en el entrenamiento del balonmano de alto rendimiento.
+
+– Condicionantes de la preparación en el alto rendimiento en balonmano:
+
+– La persona deportista.
+
+– El sistema de entrenamiento.
+
+– El sistema de rendimiento.
+
+– El proceso integrado de entrenamiento.
+
+– La perspectiva sistémica y su aplicación al análisis del balonmano.
+
+– La dimensión juego en el ATR:
+
+– Variables que definen la dimensión juego.
+
+– El ciclo de juego como proceso.
+
+– Los niveles de acción y los episodios de confrontación: individuales, grupales y colectivos.
+
+– La dimensión competición en el ATR:
+
+– Concepto: definición y carácter de la competición.
+
+– Variables que definen la dimensión competición.
+
+– El papel de la competición en la formación de un rendimiento a largo plazo.
+
+– Preparación para la competición.
+
+– Las Unidades de competición.
+
+– El nivel de acción individual:
+
+– Las capacidades perceptivas.
+
+– Las capacidades cognitivas: la toma de decisiones.
+
+– Las capacidades coordinativas.
+
+– El nivel de acción individual en el alto rendimiento deportivo.
+
+– El nivel de acción grupal.
+
+– El nivel de acción de equipo.
+
+– La actitud competitiva.
+
+2\. Planifica y programa a medio y largo plazo equipos de alto rendimiento, analizando y aplicando criterios específicos, así como diseña y desarrolla modelos de juego para estos equipos elaborando tareas específicas para implantarlo y desarrollarlo, integrando las mismas en la planificación anual del equipo.
+
+– Planificación y programación en alto rendimiento:
+
+– Modelos de planificación y su evolución.
+
+– Modelos contemporáneos y tendencias actuales.
+
+– Criterios específicos a considerar para la estructuración y desarrollo de la planificación y organización temporal del entrenamiento en el balonmano de alto rendimiento:
+
+– Características de los modelos de planificación en el balonmano de alto rendimiento. Criterios a considerar.
+
+– Periodización del entrenamiento:
+
+– Modelos de periodización en balonmano.
+
+– Criterios de selección del modelo de periodización en función de las características y nivel de jugadores, equipo, objetivos, infraestructura y sistema de competición.
+
+– La evaluación de la planificación y periodización:
+
+– Objetivos de la evaluación.
+
+– Técnicas e Instrumentos para la evaluación.
+
+– Objetivos de la creación de un modelo de juego.
+
+– Características de un modelo de juego.
+
+– Aplicación y entrenamiento del modelo a las fases del juego:
+
+– La integración de las acciones individuales y grupales en la construcción del modelo de juego.
+
+– El entrenamiento del modelo de juego.
+
+– Ajustes y modificaciones del modelo de juego.
+
+3\. Diseña sesiones de entrenamiento en función del periodo de preparación y el calendario de competición, aplicando métodos y medios de entrenamiento, criterios y estrategias de optimización de las condiciones en las que se desarrollan, utilizando las variables de complejidad propias del balonmano de este nivel.
+
+– Metodología del entrenamiento en alto rendimiento en balonmano:
+
+– Objetivos del entrenamiento de alto rendimiento.
+
+– Criterios para la orientación e integración de los contenidos del entrenamiento para el alto rendimiento.
+
+– Relación entre la lógica del juego y lógica metodológica del entrenamiento.
+
+– Métodos y medios de entrenamiento en el alto rendimiento.
+
+– Variables y grados de complejidad en el alto rendimiento.
+
+– La sesión de entrenamiento: tipos, estructura, organización y condicionantes específicos.
+
+– Factores a tener en cuenta en el diseño y elaboración de sesiones de entrenamiento orientada a diferentes fases del juego y a diferentes contenidos del mismo.
+
+– Selección, secuenciación y utilización de contenidos.
+
+– Selección, secuenciación y utilización de variables de complejidad.
+
+– Las situaciones y tareas de entrenamiento:
+
+– Características y exigencias de las tareas en balonmano.
+
+– Las tareas prioritarias o preferenciales.
+
+– Los condicionantes o factores de las tareas en el alto rendimiento.
+
+– Estrategias metodológicas para la gestión y optimización de las condiciones de entrenamiento de alto rendimiento:
+
+– La organización previa de los entrenamientos de ATR.
+
+– El entrenamiento individualizado en la optimización del entrenamiento de alto rendimiento.
+
+> Se numera como Anexo II.f por el art. 10.2.f) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.g — Módulo específico de enseñanza deportiva: Formación técnico táctica individual en alto rendimiento en balonmano
+
+Código: MED-BMBM302
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica los fundamentos de la toma de decisiones en el juego de alto rendimiento y los fundamentos de la ejecución mecánica de las acciones de juego, argumentando la importancia de ambos aspectos en el resultado final de las mismas y analizando los criterios de construcción de tareas utilizables.
+
+a. Se han justificado las limitaciones sensitivas y la influencia cognitiva de la percepción.
+
+b. Se ha argumentado la influencia de los procesos conscientes e inconscientes en la toma de decisiones.
+
+c. Se ha argumentado la capacidad de tomar decisiones anticipándose a los hechos y la influencia de la experiencia en estos procesos.
+
+d. Se ha justificado el papel de las emociones y sentimientos en la toma de decisiones.
+
+e. Se ha argumentado la influencia que provoca el jugador que actúa en el entorno y cómo esto condiciona los procesos de percepción y toma de decisión.
+
+f. Se ha explicado la evolución histórica de los procesos de entrenamiento para la mejora de la Táctica Individual.
+
+g. Se han fundamentado los criterios de construcción de tareas para la mejora de la toma de decisiones en el balonmano de alto rendimiento.
+
+h. Se ha argumentado la importancia de los ajustes mecánicos, en el aumento de la eficacia y la eficiencia, y las consecuencias que esto implica en el desarrollo de la técnica en el balonmano de alto rendimiento.
+
+i. Se ha justificado la importancia de la técnica, aparte de la eficacia y la eficiencia, como responsable de la imagen visual que el jugador ofrece a los adversarios y compañeros en el desarrollo del juego y las consecuencias que esto tiene en la interactuación entre los participantes en la acción.
+
+j. Se han fundamentado los criterios de construcción de tareas/ejercicios para la mejora de la técnica (eficacia y eficiencia mecánica en la técnica) en el balonmano de alto rendimiento.
+
+2\. Diseña tareas de entrenamiento de las acciones individuales en el juego de ataque en el alto rendimiento, analizando los factores tácticos de las mismas, justificando las exigencias específicas de adaptación a las diferentes fases del juego ofensivo y a los distintos puestos específicos.
+
+a. Se han analizado los objetivos tácticos del ataque, argumentando las consecuencias técnicas y tácticas que conlleva este análisis en el entrenamiento de alto rendimiento en balonmano.
+
+b. Se ha valorado el dominio de los recursos técnico/tácticos individuales ofensivos, como requisito necesario para el desarrollo del juego de ataque de alto rendimiento en balonmano.
+
+c. Se ha argumentado la garantía de seguridad y precisión como requisitos comunes exigibles en la técnica de cualquier acción específica del juego de ataque en el alto rendimiento en balonmano.
+
+d. Se ha argumentado la capacidad de aumentar el peligro en la portería rival como base de la evaluación táctica de cualquier acción individual ofensiva en el juego de ataque en el alto rendimiento en balonmano.
+
+e. Se han analizado cada uno de los factores tácticos del movimiento de balón, argumentando las consecuencias técnicas que conlleva este análisis en el entrenamiento de alto rendimiento en balonmano.
+
+f. Se han analizado cada uno de los factores tácticos de los desplazamientos ofensivos, argumentando las consecuencias técnicas que conlleva este análisis en el entrenamiento de alto rendimiento en balonmano.
+
+g. Se han analizado cada uno de los factores tácticos del lanzamiento, argumentando las consecuencias técnicas que conlleva este análisis en el entrenamiento de alto rendimiento en balonmano.
+
+h. Se ha explicado el binomio fijación-pase como una de las bases individuales para la construcción del juego de ataque en el alto rendimiento en balonmano.
+
+i. Se han argumentado las diferencias existentes en las acciones específicas de ataque cuando se abordan cada una de las fases del ataque (contraataque y ataque posicional).
+
+j. Se han argumentado las diferencias existentes en la realización de las acciones de ataque en función del puesto específico que se ocupa.
+
+k. Se han elaborado tareas de entrenamiento centradas en la mejora de los desplazamientos ofensivos, movimiento del balón o lanzamientos en el alto rendimiento en balonmano, y se han argumentado las diferencias en función del acento técnico o táctico que se pretenda dar.
+
+l. Se ha evaluado la realización de desplazamientos ofensivos, movimiento del balón o lanzamientos en el alto rendimiento en balonmano, en un supuesto práctico debidamente caracterizado de situación de juego de repliegue defensivo, identificando los factores que han propiciado el resultado obtenido.
+
+m. Se ha evaluado la realización de desplazamientos ofensivos, movimiento del balón o lanzamientos en el alto rendimiento en balonmano, en un supuesto práctico debidamente caracterizado de situación de juego de defensa posicional, identificando los factores que han propiciado el resultado obtenido.
+
+3\. Diseña tareas de entrenamiento de las acciones individuales en el juego de defensa en el alto rendimiento, analizando los factores tácticos de las mismas, justificando las exigencias específicas de adaptación a las diferentes fases del juego defensivo y a los distintos puestos específicos.
+
+a. Se han analizado los objetivos tácticos de la defensa, argumentando las consecuencias técnicas y tácticas que conlleva este análisis en el entrenamiento de alto rendimiento en balonmano.
+
+b. Se ha valorado el dominio de los recursos técnico/tácticos individuales defensivos, como requisito necesario en el desarrollo del juego de defensa en el alto rendimiento en balonmano.
+
+c. Se ha argumentado la necesidad del dominio de los recursos defensivos individuales para condicionar el movimiento de los atacantes y las implicaciones técnico/tácticas que esto tiene en el desarrollo del entrenamiento defensivo de cara al alto rendimiento en balonmano.
+
+d. Se ha argumentado la necesidad del dominio de los recursos defensivos individuales para condicionar el movimiento del balón por parte de los atacantes y las implicaciones técnico/tácticas que esto tiene en el desarrollo del entrenamiento defensivo de cara al alto rendimiento en balonmano.
+
+e. Se han analizado los distintos tipos de ayudas en el juego defensivo, argumentando las consecuencias técnico y tácticas que conlleva este análisis en el entrenamiento de alto rendimiento en balonmano.
+
+f. Se ha valorado la capacidad de disuasión como un recurso imprescindible en el juego defensivo de alto rendimiento en balonmano.
+
+g. Se han analizado las bases técnicas y tácticas en las que se sustenta la capacidad de disuasión al movimiento de los atacantes, argumentando las consecuencias que tiene este análisis en el entrenamiento de alto rendimiento en balonmano.
+
+h. Se han analizado las bases técnicas y tácticas en que se sustenta la capacidad de disuasión al movimiento del balón, argumentando las consecuencias que tiene este análisis en el entrenamiento de alto rendimiento en balonmano.
+
+i. Se han argumentado las diferencias existentes en las acciones específicas de la defensa cuando se abordan en cada una de las fases de la defensa.
+
+j. Se han argumentado las diferencias existentes en la realización de las acciones de defensa en función del puesto específico que se ocupa.
+
+k. Se han elaborado tareas de entrenamiento centradas en la mejora del marcaje, las ayudas y el trabajo defensivo hacia el balón en el alto rendimiento en balonmano, y se han argumentado las diferencias en función del acento técnico o táctico que se pretenda dar.
+
+l. Se ha evaluado la realización del marcaje, las ayudas y el trabajo defensivo hacia el balón en el alto rendimiento en balonmano, en un supuesto práctico debidamente caracterizado de situación de juego de repliegue defensivo, identificando los factores que han propiciado el resultado obtenido.
+
+m. Se ha evaluado la realización del marcaje, las ayudas y el trabajo defensivo hacia el balón en el alto rendimiento en balonmano, en un supuesto práctico debidamente caracterizado de situación de juego de defensa posicional, identificando los factores que han propiciado el resultado obtenido.
+
+4\. Diseña tareas de entrenamiento de las acciones de juego del portero en el alto rendimiento, analizando las características de las mismas, justificando las exigencias específicas de adaptación a las características antropométricas del jugador y a las diferentes fases del juego defensivo y a los distintos puestos específicos.
+
+a. Se han justificado las características específicas de la posición de base del portero en función de cada zona de lanzamiento, en el juego de alto rendimiento en balonmano.
+
+b. Se han justificado las características específicas de los desplazamientos del portero en función de cada zona de lanzamiento, en el juego de alto rendimiento en balonmano.
+
+c. Se han justificado las características específicas de las paradas en función de las zonas de lanzamiento, en el juego de alto rendimiento en balonmano.
+
+d. Se ha argumentado la importancia del entrenamiento táctico del portero, en el juego de alto rendimiento en balonmano.
+
+e. Se ha justificado la importancia del aumento de la capacidad perceptiva en el portero de alto rendimiento en balonmano, argumentando las consecuencias que conlleva en el diseño del entrenamiento específico.
+
+f. Se han descrito los elementos que facilitan la toma de decisiones en el juego de los porteros de alto rendimiento en balonmano, argumentando la relación con los estímulos que proporcionan los atacantes.
+
+g. Se ha argumentado la diferencia entre anticipación física y anticipación mental.
+
+h. Se ha justificado la importancia de las interceptaciones de balón y de las disuasiones de pase por parte del portero en el repliegue defensivo, argumentando las limitaciones reglamentarias específicas del portero en esta tarea.
+
+i. Se ha valorado la importancia de la participación del portero en el contraataque, argumentando la transcendencia tanto de la puesta en juego del balón como la posible función de apoyo.
+
+j. Se ha aplicado la metodología de construcción de las tareas específicas del portero.
+
+k. Se ha evaluado la realización de las tareas específicas del portero en el alto rendimiento en balonmano, en un supuesto práctico debidamente caracterizado de situación de juego, identificando los factores que han propiciado el resultado obtenido.
+
+Contenidos básicos
+
+1\. Identifica los fundamentos de la toma de decisiones en el juego de alto rendimiento y los fundamentos de la ejecución mecánica de las acciones de juego, argumentando la importancia de ambos aspectos en el resultado final de las mismas y analizando los criterios de construcción de tareas utilizables.
+
+Características del entrenamiento táctico individual.
+
+– La evolución del entrenamiento Táctico Individual.
+
+– Consideraciones sobre la percepción que afectan al proceso de toma de decisiones:
+
+– Limitaciones sensitivas de la percepción.
+
+– Los aspectos cognitivos de la percepción.
+
+– Consideraciones sobre el tratamiento de la información que afectan al proceso de toma de decisiones:
+
+– El procesamiento de la información:
+
+– Captación simultánea del flujo de información por vías conscientes e inconscientes.
+
+– La atención como selectora de la información que se trata de forma consciente.
+
+– La información difusa inconsciente como complemento simultáneo de la información consciente y de los procesos atencionales.
+
+– La capacidad de anticipación como característica que afecta a las respuestas que se generan en el juego:
+
+– Potencialidades y debilidades de los procesos de anticipación.
+
+– La experiencia como fuente que nutre y afina las respuestas anticipadas.
+
+– El jugador que decide como ente involucrado en la información que se genera y analiza.
+
+– El papel de las emociones y los sentimientos.
+
+– La construcción de tareas para la mejora de la toma de decisiones en el juego:
+
+– Estudio detallado de los factores a tener en cuenta en la construcción de ejercicios para la mejora táctica individual en el alto rendimiento en balonmano.
+
+– La actuación del entrenador durante la práctica como factor que influye decisivamente en el entrenamiento táctico individual. Estudio de los factores a tener en cuenta en el entrenamiento de alto rendimiento en balonmano.
+
+– La necesidad de basar los ejercicios en una estructura que jerarquice el trabajo enfocado al Alto Rendimiento en Balonmano.
+
+Características del entrenamiento técnico.
+
+– Los conceptos de eficacia y eficiencia.
+
+– La mejora de la eficacia mecánica en la técnica para el alto rendimiento en balonmano:
+
+– El análisis biomecánico de las acciones específicas de juego:
+
+– La evaluación de la eficacia mecánica.
+
+– Importancia y necesidad del entrenamiento analítico para la mejora de la ejecución de las acciones de juego en el Alto Rendimiento en Balonmano.
+
+– El proceso de generalización de los gestos técnicos: de la técnica cerrada a la técnica adaptativa.
+
+– La mejora de la eficiencia mecánica en la técnica para el alto rendimiento en balonmano:
+
+– Importancia del ahorro energético en el juego: implicaciones en el desarrollo de la técnica.
+
+– La reducción de gestos.
+
+– Un propósito que condiciona la ejecución: la interactuación con compañeros y oponentes, y las consecuencias mecánicas de este propósito:
+
+– La disminución del tiempo de reacción de los adversarios.
+
+– La reducción de información como medio que dificulta la actuación de los adversarios.
+
+– La emisión de información falsa.
+
+– La construcción de tareas para la mejora técnica:
+
+– Tareas relacionadas con el aumento de eficacia mecánica en las acciones de juego.
+
+– La disminución de «gestos parásitos» innecesarios en el diseño de tareas de entrenamiento y su relación con el aumento de la eficiencia.
+
+– Consideraciones sobre la influencia de la interactuación con oponentes y compañeros a la hora de diseñar tareas que mejoren la capacidad técnica de los jugadores.
+
+2\. Diseña tareas de entrenamiento de las acciones individuales en el juego de ataque en el alto rendimiento, analizando los factores tácticos de las mismas, justificando las exigencias específicas de adaptación a las diferentes fases del juego ofensivo y a los distintos puestos específicos.
+
+– Análisis de los objetivos tácticos del ataque:
+
+– Cómo se evalúan las «circunstancias de lanzamiento».
+
+– Cómo se evalúa la calidad del lanzamiento.
+
+– La seguridad y la precisión como exigencia común en la técnica de las acciones ofensivas en el alto rendimiento en balonmano:
+
+– La seguridad como garantía de conservar la posesión del balón.
+
+– La precisión como base de la continuidad fluida del juego ofensivo.
+
+– La utilización del bote en el juego de ataque en el alto rendimiento en balonmano:
+
+– Recursos para la protección del balón mientras se bota.
+
+– La ejecución del bote unitario.
+
+– La ejecución del bote continuado.
+
+– La utilización táctica del bote:
+
+– En el contraataque.
+
+– En el ataque posicional.
+
+– La mejora táctica general del pase para el juego de alto rendimiento en balonmano:
+
+– La mejora de la capacidad de elección. Importancia del campo visual.
+
+– Recursos para superar la oposición de los defensores al pase.
+
+– La mejora técnica del pase para el juego de alto rendimiento en balonmano:
+
+– La mejora de la seguridad en el juego de alto rendimiento en balonmano.
+
+– La mejora de la precisión en el juego de alto rendimiento en balonmano.
+
+– Los pases «fundamentales» y su utilización razones de la conveniencia de su empleo.
+
+– Los pases «no fundamentales» y su utilización.
+
+– La eliminación de movimientos superfluos en la ejecución del pase.
+
+– El pase en el contraataque:
+
+– Exigencias técnicas.
+
+– Exigencias tácticas.
+
+– Importancia del campo visual en anchura y en profundidad.
+
+– Mantener la anchura.
+
+– El pase en el ataque posicional:
+
+– La importancia del binomio «fijar/pasar».
+
+– La circulación intencional del balón: degradar una defensa con el trabajo colectivo de pase.
+
+– Pases aislados que rompen una defensa: los pases de gol.
+
+– La mejora técnica general de las recepciones de balón para el juego de alto rendimiento en balonmano:
+
+– La seguridad.
+
+– La precisión: Mejorar las posibilidades de fluidez en la acción continuada.
+
+– La mejora táctica de las recepciones para el juego de alto rendimiento en balonmano:
+
+– Las recepciones en el contraataque.
+
+– Las recepciones en el ataque posicional.
+
+– La construcción de tareas para el entrenamiento del movimiento del balón en alto rendimiento deportivo en balonmano:
+
+– Las tareas de carácter general.
+
+– Las tareas para el contraataque.
+
+– Las tareas para el ataque posicional.
+
+– Los desplazamientos ofensivos en el alto rendimiento en balonmano:
+
+– La mejora general de las bases técnicas de los desplazamientos ofensivos:
+
+– La eliminación de movimientos superfluos.
+
+– El juego sin balón.
+
+– Las fintas en el alto rendimiento en balonmano:
+
+– El juego en posesión del balón.
+
+– Las fintas en el ataque posicional.
+
+– Las fintas en el contraataque.
+
+– La construcción de tareas para el entrenamiento de los desplazamientos en alto rendimiento deportivo en balonmano:
+
+– Las tareas de carácter general.
+
+– Las tareas para el contraataque.
+
+– Las tareas para el ataque posicional.
+
+– Las fijaciones ofensivas en el juego de alto rendimiento en balonmano:
+
+– Las fijaciones en el contraataque:
+
+– La utilización del bote para forzar las fijaciones.
+
+– Las fijaciones en el ataque posicional.
+
+– El lanzamiento en el alto rendimiento en balonmano:
+
+– El refuerzo de la técnica básica (mejora de la potencia y la precisión):
+
+– Relación con la mejora física específica de los jugadores.
+
+– El estudio detallado de los factores mecánicos que influyen en la potencia de los lanzamientos.
+
+– La mejora sistemática de la «técnica/táctica evolucionada» del lanzamiento:
+
+– La mejora de la variedad.
+
+– La mejora de la observación.
+
+– La mejora de la sorpresa.
+
+– Características específicas de los lanzamientos según los puestos.
+
+– La construcción de tareas para el entrenamiento del lanzamiento en alto rendimiento deportivo en balonmano:
+
+– Las tareas de carácter general.
+
+– Las tareas para el contraataque.
+
+– Las tareas para el ataque posicional.
+
+– La construcción de tareas, para el entrenamiento en el alto rendimiento en balonmano, donde se integran los desplazamientos de los jugadores, el movimiento del balón y los lanzamientos.
+
+3\. Diseña tareas de entrenamiento de las acciones individuales en el juego de defensa en el alto rendimiento, analizando los factores tácticos de las mismas, justificando las exigencias específicas de adaptación a las diferentes fases del juego defensivo y a los distintos puestos específicos.
+
+– Análisis de los objetivos tácticos de la defensa:
+
+– Evaluación de la capacidad de evitar goles.
+
+– Evaluación de la capacidad de recuperación del balón.
+
+– El marcaje y los desplazamientos en el juego de alto rendimiento en balonmano:
+
+– La variación de los elementos que definen el marcaje (situación, distancia, orientación y gesto) en función de los objetivos tácticos.
+
+– El condicionamiento de la actividad del atacante:
+
+– Condicionar el movimiento de los atacantes.
+
+– Condicionar el movimiento del balón.
+
+– Los aspectos tácticos del marcaje en el alto rendimiento en balonmano:
+
+– Variación de los aspectos intencionales para aumentar la incertidumbre ofensiva.
+
+– Los desplazamientos defensivos en el alto rendimiento en balonmano.
+
+– Los desplazamientos defensivos y el marcaje en el repliegue defensivo.
+
+– Los desplazamientos defensivos y el marcaje en función de los puestos específicos defensivos.
+
+– La colaboración con el portero en situaciones de penetración de los atacantes.
+
+– Las ayudas defensivas en el alto rendimiento en balonmano:
+
+– Asumir las situaciones de desventaja numérica defensiva. Defender 1×2:
+
+– Defender 1×2 en situaciones imprevistas.
+
+– Defender 1×2 en situaciones previsibles.
+
+– Defender en desventaja en la defensa posicional.
+
+– Defender en desventaja en situaciones de repliegue defensivo.
+
+– La defensa en desventaja en función de los puestos específicos defensivos.
+
+– La construcción de tareas para el entrenamiento del marcaje y las ayudas en el alto rendimiento deportivo en balonmano:
+
+– Las tareas de carácter general.
+
+– Las tareas para el repliegue defensivo:
+
+– De carácter eminentemente técnico.
+
+– De carácter eminentemente táctico.
+
+– Las tareas para la defensa posicional:
+
+– De carácter eminentemente técnico.
+
+– De carácter eminentemente táctico.
+
+– Oponerse al movimiento del balón en el juego de alto rendimiento en balonmano:
+
+– La contribución de las interceptaciones estáticas a la impenetrabilidad ante el balón de la estructura defensiva.
+
+– La contribución de las interceptaciones dinámicas al aumento de la zona de influencia de los defensores.
+
+– Las interceptaciones y la disuasión del movimiento del balón en situaciones de repliegue.
+
+– Las interceptaciones y la disuasión del movimiento del balón en función de los puestos específicos:
+
+– Los condicionantes que implican en la capacidad de interceptación (estática y dinámica) el tipo de marcaje que se efectúa.
+
+– El blocaje de balón en el juego de alto rendimiento en balonmano:
+
+– La contribución al juego defensivo.
+
+– La disuasión al lanzamiento.
+
+– La colaboración entre portero y defensor en lanzamientos a distancia.
+
+– Las ayudas defensivas ante lanzamientos a distancia (colaboración en el blocaje).
+
+– La construcción de tareas para el entrenamiento de las interceptaciones y los blocajes en el alto rendimiento deportivo en balonmano:
+
+– Las tareas de carácter general.
+
+– Las tareas para el repliegue defensivo:
+
+– De carácter eminentemente técnico.
+
+– De carácter eminentemente táctico.
+
+– Las tareas para la defensa posicional:
+
+– De carácter eminentemente técnico.
+
+– De carácter eminentemente táctico.
+
+– La construcción de tareas, para el entrenamiento en el alto rendimiento en balonmano, donde se integran la oposición al movimiento de los atacantes con la oposición al movimiento de balón.
+
+4\. Diseña tareas de entrenamiento de las acciones de juego del portero en el alto rendimiento, analizando las características de las mismas, justificando las exigencias específicas de adaptación a las características antropométricas del jugador y a las diferentes fases del juego defensivo y a los distintos puestos específicos.
+
+– Contenidos técnicos para el juego del portero en el alto rendimiento en balonmano:
+
+– La posición básica específica en función de las zonas de lanzamiento.
+
+– Los desplazamientos específicos en función de la zona.
+
+– Las paradas en el juego de alto rendimiento en balonmano:
+
+– Ante lanzamientos exteriores.
+
+– Ante lanzamientos de los pivotes.
+
+– Ante lanzamientos de los extremos.
+
+– En el repliegue defensivo (cuando no se consigue evitar el lanzamiento).
+
+– Los pases de contraataque:
+
+– Pases largos tensos.
+
+– Pases largos parabólicos.
+
+– Los pases medios.
+
+– Los pases cortos.
+
+– La construcción de tareas para el entrenamiento técnico del portero en el alto rendimiento en balonmano:
+
+– La construcción de tareas relacionadas con las paradas.
+
+– La construcción de tareas relacionadas con los pases de contraataque.
+
+– Contenidos tácticos para el juego del portero en el alto rendimiento en balonmano:
+
+– Marco teórico:
+
+– Importancia del entrenamiento táctico para el juego del portero en el alto rendimiento en balonmano.
+
+– La mejora de la capacidad perceptiva en el alto rendimiento en balonmano.
+
+– Elementos para facilitar la toma de decisiones.
+
+– Diferencia entre respuesta táctica e intuición («pensar para no pensar»).
+
+– Diferencia entre anticipación física y anticipación mental.
+
+– Progresión en la toma de decisiones.
+
+– Los estímulos del juego:
+
+– Las zonas de lanzamiento (puestos específicos).
+
+– La lateralidad del lanzador.
+
+– La trayectoria.
+
+– El impulso.
+
+– El armado de brazo.
+
+– El recorrido del brazo.
+
+– Los lanzamientos de habilidad.
+
+– El portero en el contraataque:
+
+– El contraataque directo.
+
+– El primer pase.
+
+– El contra-gol.
+
+– Actuación como apoyo en situaciones de emergencia.
+
+– El portero en el repliegue:
+
+– Disuasiones.
+
+– Interceptaciones.
+
+– Consideraciones reglamentarias en ambos casos.
+
+– La construcción de tareas tácticas para el entrenamiento del portero en el alto rendimiento en balonmano:
+
+– Cómo introducir el trabajo específico de táctica del portero en la sesión de entrenamiento.
+
+– Consideraciones para en trabajo táctico.
+
+– Situaciones especiales: Actuar para sorprender.
+
+– Metodología para la construcción de tareas.
+
+– Progresión en los contenidos.
+
+> Se numera como Anexo II.g por el art. 10.2.g) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.h — Módulo específico de enseñanza deportiva: Juego colectivo ofensivo en alto rendimiento en balonmano
+
+Código: MED-BMBM30
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Evalúa la resolución de situaciones de ventaja numérica o espacial en el juego de alto rendimiento en balonmano, justificando las exigencias específicas de adaptación de las tareas de entrenamiento a las diferentes fases del juego ofensivo (contraataque y ataque posicional) y a los distintos puestos específicos.
+
+a. Se ha argumentado la importancia de aumentar el porcentaje de resolución positiva de situaciones de juego con ventaja numérica ofensiva, simple y compleja, en una parte de la zona eficaz (zona potencial de conseguir gol) en el alto rendimiento en balonmano.
+
+b. Se han analizado las ventajas ofensivas que representan las situaciones de superioridad numérica ofensiva, argumentando las consecuencias técnicas y tácticas que conlleva este análisis en el entrenamiento de alto rendimiento en balonmano.
+
+c. Se ha argumentado la importancia de aumentar el porcentaje de resolución positiva de situaciones de juego con ventaja espacial en el alto rendimiento en balonmano.
+
+d. Se han analizado las ventajas ofensivas que representan el aumento del espacio de maniobra con poca densidad de defensores en una parte de la zona eficaz, argumentando las consecuencias técnicas y tácticas que conlleva este análisis en el entrenamiento de alto rendimiento en balonmano.
+
+e. Se han argumentado los aspectos diferenciales en la resolución de las situaciones de ventaja numérica en función de la fase del ataque y en función del puesto específico en el que se produzcan.
+
+f. Se han argumentado los aspectos diferenciales en la resolución de las situaciones de ventaja espacial en función de la fase del ataque y en función del puesto específico en el que se produzcan.
+
+g. Se han elaborado tareas de entrenamiento de resolución de situaciones de ventaja numérica y espacial, para el alto rendimiento en balonmano, en un supuesto práctico debidamente caracterizado.
+
+h. Se ha evaluado la resolución de una situación de ventaja numérica en un supuesto práctico debidamente caracterizado de situación de juego de ataque posicional, identificando los factores que han propiciado el resultado obtenido.
+
+i. Se ha evaluado la resolución de una situación de ventaja numérica en un supuesto práctico debidamente caracterizado de situación de juego de contraataque, identificando los factores que han propiciado el resultado obtenido.
+
+j. Se ha evaluado la resolución de una situación de ventaja espacial en un supuesto práctico debidamente caracterizado de situación de juego de ataque posicional, identificando los factores que han propiciado el resultado obtenido.
+
+k. Se ha evaluado la resolución de una situación de ventaja espacial en un supuesto práctico debidamente caracterizado de situación de juego de contraataque, identificando los factores que han propiciado el resultado obtenido.
+
+2\. Evalúa la creación de situaciones de ventaja, numérica, espacial o temporal en el juego de alto rendimiento en balonmano, a través de procedimientos tácticos colectivos entre dos o más jugadores, justificando las exigencias específicas de adaptación de las tareas de entrenamiento a las diferentes fases del juego ofensivo (contraataque y ataque posicional) y a los distintos puestos específicos.
+
+a. Se ha argumentado la importancia de aumentar la capacidad de crear ventajas a través de acciones coordinadas entre grupos pequeños de atacantes (2 o 3 jugadores) en el juego de alto rendimiento en balonmano.
+
+b. Se han analizado las exigencias de la realización de las acciones coordinadas entre atacantes en el juego de alto rendimiento, argumentado las diferencias con el juego en la etapa de tecnificación.
+
+c. Se ha argumentado la posibilidad de utilizar procedimientos tácticos iguales para lograr diferentes objetivos tácticos.
+
+d. Se ha analizado la posibilidad de combinar, simultáneamente, procedimientos tácticos diferentes, argumentando las consecuencias técnicas y tácticas que conlleva este análisis en el entrenamiento de alto rendimiento en balonmano.
+
+e. Se han analizado la posibilidad de encadenar, de forma sucesiva, procedimientos tácticos, semejantes o diferentes, argumentando las consecuencias técnicas y tácticas que conlleva este análisis en el entrenamiento de alto rendimiento en balonmano.
+
+f. Se ha analizado la utilización de los diferentes procedimientos tácticos ofensivos en función de las fases del ataque en que se realizan, argumentando la idoneidad de su aplicación según la fase en que se está actuando y las consecuencias técnicas y tácticas que conlleva en el entrenamiento de alto rendimiento en balonmano.
+
+g. Se ha analizado la utilización de los diferentes procedimientos tácticos ofensivos en función de los puestos específicos en que se realizan, argumentando la idoneidad de su aplicación según el puesto en que se está actuando y las consecuencias técnicas y tácticas que conlleva en el entrenamiento de alto rendimiento en balonmano.
+
+h. Se han elaborado tareas de entrenamiento de creación de situaciones de ventaja numérica y espacial, a través de los diversos procedimientos tácticos colectivos ofensivos, para el alto rendimiento en balonmano, en un supuesto práctico debidamente caracterizado.
+
+i. Se ha evaluado la creación, a través de los diversos procedimientos tácticos colectivos ofensivos, de una situación de ventaja numérica, en un supuesto práctico debidamente caracterizado de situación de juego de ataque posicional, identificando los factores que han propiciado el resultado obtenido.
+
+j. Se ha evaluado la creación, a través de los diversos procedimientos tácticos colectivos ofensivos, de una situación de ventaja espacial, en un supuesto práctico debidamente caracterizado de situación de juego de contraataque, identificando los factores que han propiciado el resultado obtenido.
+
+3\. Establece los fundamentos del funcionamiento de los sistemas para las diferentes fases del ataque en el alto rendimiento en balonmano, argumentando la interpretación dada en la aplicación de los mismos en diferentes etapas históricas por los equipos más destacados.
+
+a. Se han analizado las opciones estructurales de los sistemas de juego para las diferentes fases del ataque, justificando las consecuencias que conlleva en el diseño de los mismos.
+
+b. Se ha argumentado la evolución histórica de las estructuras de los sistemas de juego para las diferentes fases del ataque, citando ejemplos de casos reales en el juego de alto rendimiento en balonmano.
+
+c. Se ha analizado la intencionalidad de la circulación colectiva de balón en los sistemas de juego para las diferentes fases del ataque, justificando las consecuencias que conlleva en el diseño de los mismos.
+
+d. Se ha argumentado la evolución histórica del movimiento colectivo de balón en los sistemas de juego para las diferentes fases del ataque, citando ejemplos de casos reales en el juego de alto rendimiento en balonmano.
+
+e. Se han analizado las opciones del movimiento coordinado de jugadores en los sistemas de juego para las diferentes fases del ataque, justificando las consecuencias que conlleva en el diseño de los mismos.
+
+f. Se ha argumentado la evolución histórica del movimiento coordinado de jugadores en los sistemas de juego para las diferentes fases del ataque, citando ejemplos de casos reales en el juego de alto rendimiento en balonmano.
+
+g. Se han evaluado sistemas históricos de ataque posicional, identificando las características estructurales, los criterios de circulación del balón y los movimientos coordinados de los jugadores y las consecuencias que estas decisiones tuvieron en el desarrollo de estos sistemas.
+
+4\. Elabora, para el alto rendimiento, sistemas ofensivos de juego adaptados a las diferentes fases del ataque (contraataque y ataque posicional), aplicando criterios de adaptación a las características de los propios jugadores, a las características del rival y a la estrategia global del juego.
+
+a. Se ha justificado la elección de una estructura para elaborar un sistema de ataque posicional, valorando tanto las características de los jugadores del propio equipo como las características individuales y colectivas de equipo rival.
+
+b. Se ha justificado la elección del carácter que debe predominar en el movimiento de balón al diseñar un sistema de ataque posicional, valorando tanto las características de los jugadores del propio equipo como las características individuales y colectivas de equipo rival.
+
+c. Se ha justificado la elección del carácter que debe predominar en el movimiento coordinado de los jugadores al diseñar un sistema de ataque posicional, valorando tanto las características de los jugadores del propio equipo como las características individuales y colectivas de equipo rival.
+
+d. Se ha fundamentado la adaptación del sistema de ataque posicional a situaciones de desequilibrio numérico.
+
+e. Se ha fundamentado la adaptación del sistema de ataque posicional a situaciones extraordinarias, valorando la asunción de riesgos.
+
+f. Se ha justificado la elección de reparto de funciones en la iniciación del sistema de contraataque.
+
+g. Se ha justificado la elección de una estructura para el transporte de balón en el contraataque.
+
+h. Se ha justificado la elección de formas de finalización, tanto en situaciones simples (pocos jugadores atacantes y defensores implicados) como en situaciones complejas.
+
+i. Se ha diseñado un sistema de ataque, estableciendo de manera justificada, entre otros elementos, la estructura, el carácter del movimiento del balón y el movimiento coordinado de los jugadores, las adaptaciones a situaciones extraordinarias, la elección de funciones y estructura de transporte del balón en el contraataque, y las formas de finalización, en un supuesto práctico debidamente caracterizado donde se establecen las características de los jugadores propios y rivales.
+
+j. Se han elaborado tareas de entrenamiento de un sistema de ataque, en un supuesto práctico debidamente caracterizado en el que se establece las condiciones de trabajo y el objetivo a trabajar (la estructura, el carácter del movimiento del balón y el movimiento coordinado de los jugadores, las adaptaciones a situaciones extraordinarias, la elección de funciones y estructura de transporte del balón en el contraataque, y las formas de finalización).
+
+Contenidos básicos
+
+1\. Evalúa la resolución de situaciones de ventaja numérica o espacial en el juego de alto rendimiento en balonmano, justificando las exigencias específicas de adaptación de las tareas de entrenamiento a las diferentes fases del juego ofensivo (contraataque y ataque posicional) y a los distintos puestos específicos.
+
+– La importancia en el alto rendimiento en balonmano de la resolución positiva de las situaciones de ventaja.
+
+– Aumentar el rendimiento en el juego de alto nivel:
+
+– El aumento de rendimiento por la ampliación de las capacidades.
+
+– El aumento del rendimiento por la disminución de los errores. Hacer bien lo fácil.
+
+– Tipos de ventajas ofensivas:
+
+– La superioridad numérica ofensiva.
+
+– La ampliación de espacio.
+
+– Las ventajas gestuales y temporales.
+
+– La resolución de situaciones de superioridad numérica ofensiva en el alto rendimiento:
+
+– Resolver en el tiempo útil.
+
+– La resolución de situaciones simples:
+
+– Mejorar la identificación de estas situaciones en el juego real.
+
+– Las superioridades numéricas simples en el contraataque.
+
+– Las superioridades numéricas simples en el ataque posicional. Las peculiaridades derivadas de los puestos específicos.
+
+– El diseño de tareas para el entrenamiento de resolución de situaciones de superioridad numérica simple.
+
+– La resolución de situaciones complejas:
+
+– Las superioridades numéricas complejas en el contraataque.
+
+– Las superioridades numéricas complejas en el ataque posicional.
+
+– El diseño de tareas para el entrenamiento de resolución de situaciones de superioridad numérica compleja.
+
+– El aumento de eficacia como consecuencia de la ampliación de espacios:
+
+– Ampliar sorprendiendo.
+
+– Ampliar moviéndose en anchura.
+
+– Ampliar atrayendo en profundidad.
+
+– Ampliar moviéndose a la espalda de un defensor.
+
+– La importancia de la respuesta.
+
+– La importancia de las trayectorias de ataque.
+
+– El diseño de tareas para el entrenamiento de resolución de situaciones de ampliación de espacio.
+
+2\. Evalúa la creación de situaciones de ventaja, numérica, espacial o temporal en el juego de alto rendimiento en balonmano, a través de procedimientos tácticos colectivos entre dos o más jugadores, justificando las exigencias específicas de adaptación de las tareas de entrenamiento a las diferentes fases del juego ofensivo (contraataque y ataque posicional) y a los distintos puestos específicos.
+
+– La utilización de los procedimientos tácticos en el juego de alto rendimiento en balonmano.
+
+– Los procedimientos tácticos en el contraataque:
+
+– Procedimientos que facilitan el transporte de balón.
+
+– Procedimientos más adecuados para emplear en la finalización.
+
+– El diseño de tareas para el entrenamiento de los procedimientos tácticos en situaciones de contraataque.
+
+– Los procedimientos tácticos en el ataque posicional:
+
+– La adaptación al espacio y tiempo útil.
+
+– Los procedimientos que buscan superioridad numérica, ajustes para su utilización en el juego de alto rendimiento en balonmano:
+
+– El pase y va. Adaptación a los puestos específicos.
+
+– Los cruces fijando a un defensor: Los cruces por detrás del jugador con balón, los cruces por delante del jugador con balón.
+
+– Los bloqueos: Los bloqueos en 2.ª línea defensiva, los bloqueos exteriores en 1.ª línea defensiva.
+
+– Los procedimientos que aceptan la igualdad numérica: importancia del dominio en el juego de alto rendimiento en balonmano:
+
+– Los cruces sin fijación de un defensor. Los cruces por detrás del defensor.
+
+– Las permutas: Dificultar la identificación de oponente de los defensores, adaptación a los puestos específicos.
+
+– Los bloqueos: Los bloqueos en 1.ª línea defensiva para liberar un espacio
+
+– Las cortinas: adaptación según los puestos específicos.
+
+– Las pantallas: En situaciones dinámicas de juego, en saques de golpe franco.
+
+– Procedimientos específicos en saques de golpe franco.
+
+– La combinación simultánea de procedimientos en el juego de alto rendimiento en balonmano.
+
+– El encadenamiento de procedimientos de forma sucesiva y coordinada en el juego de alto rendimiento en balonmano.
+
+– El diseño de tareas para el entrenamiento de los procedimientos tácticos en situaciones de ataque posicional.
+
+3\. Establece los fundamentos del funcionamiento de los sistemas para las diferentes fases del ataque en el alto rendimiento en balonmano, argumentando la interpretación dada en la aplicación de los mismos en diferentes etapas históricas por los equipos más destacados.
+
+– La importancia de la estructura en la construcción de un sistema de ataque en el juego de alto rendimiento en balonmano. Razones en que se basa la determinación de las estructuras de los sistemas de ataque posicional:
+
+– El propósito: amenazar toda la zona eficaz (en anchura y profundidad y con persistencia en el tiempo).
+
+– Los cambios de estructura durante el ataque: transformaciones del sistema.
+
+– La estructura en situaciones de desigualdad numérica:
+
+– Superioridades.
+
+– Inferioridades.
+
+– Ejemplos históricos de la utilización de diferentes estructuras y las transformaciones de las mismas en el juego posicional ofensivo de alto rendimiento en balonmano.
+
+– Las estructuras del contraataque en el alto rendimiento deportivo en balonmano:
+
+– La estructura en la iniciación del contraataque: reparto de responsabilidades.
+
+– La estructura para el transporte de balón en el contraataque.
+
+– La estructura para la finalización del contraataque.
+
+– Ejemplos históricos de la utilización de diferentes estructuras en el contraataque de alto rendimiento en balonmano.
+
+– La importancia de la intencionalidad colectiva de la circulación del balón en la construcción de un sistema de ataque posicional en el alto rendimiento en balonmano:
+
+– La relación entre velocidad colectiva de balón y la acción de juego del jugador con balón.
+
+– Los recursos colectivos en la circulación del balón en el juego ofensivo de alto rendimiento en balonmano.
+
+– Ejemplos históricos de la utilización de diferentes formas de circulación de balón en los sistemas de ataque posicional de alto rendimiento en balonmano.
+
+– La importancia del movimiento coordinado de jugadores (circulación de jugadores) en la construcción de un sistema de ataque posicional en el alto rendimiento en balonmano:
+
+– Los sistemas donde se mantienen los puestos específicos (sistemas «estáticos»).
+
+– Los sistemas con cambios frecuentes en los puestos específicos (sistemas «circulantes»):
+
+– La exigencia de eficacia individual de los jugadores en diversos puestos.
+
+– Tipos de cambios de puestos: Movimientos por delante de los defensores, movimientos a la espalda de los defensores, combinación de movimientos al frente y a la espalda de los jugadores.
+
+– Ventajas e inconvenientes en cada uno de los casos.
+
+– Ejemplos históricos de la utilización de diferentes formas de circulación de jugadores en los sistemas de ataque posicional de alto rendimiento en balonmano.
+
+– La importancia del movimiento coordinado de jugadores y transporte balón en la construcción del sistema de contraataque en el alto rendimiento en balonmano:
+
+– El movimiento de jugadores y transporte de balón en la fase de construcción del contraataque:
+
+– El contraataque directo.
+
+– El contraataque por oleadas.
+
+– El contraataque escalonado.
+
+– El movimiento de jugadores y transporte de balón en la fase de finalización del contraataque.
+
+– Ejemplos históricos de la utilización de diferentes formas de movimiento coordinado de jugadores y transporte balón en la construcción del sistema de contraataque en el alto rendimiento en balonmano.
+
+– Las adaptaciones para situaciones especiales:
+
+– Finales de partido.
+
+– Amenaza de «Time-out».
+
+– Situaciones derivadas del resultado momentáneo del partido.
+
+– Ejemplos históricos de la utilización de diferentes adaptaciones en situaciones especiales en el juego de alto rendimiento en balonmano.
+
+4\. Elabora, para el alto rendimiento, sistemas ofensivos de juego adaptados a las diferentes fases del ataque (contraataque y ataque posicional), aplicando criterios de adaptación a las características de los propios jugadores, a las características del rival y a la estrategia global del juego.
+
+La construcción de un sistema de juego para el ataque posicional en el alto rendimiento en balonmano.
+
+– La determinación de los tres soportes básicos del sistema:
+
+– La estructura.
+
+– El carácter de la circulación del balón.
+
+– El carácter del movimiento coordinado de los jugadores.
+
+– Las razones a considerar para la determinación de los soportes básicos:
+
+– Las características de los propios jugadores.
+
+– Las características de los jugadores adversarios.
+
+– Las características del sistema defensivo al que atacar.
+
+– La determinación de la actuación en situaciones extraordinarias:
+
+– Las situaciones de inferioridad numérica.
+
+– Las situaciones de superioridad numérica por exclusión de adversarios.
+
+– Las situaciones de superioridad numérica 7X6 por salida del propio portero.
+
+– La amenaza de pasivo.
+
+– Las situaciones de final de partido (o de tiempo).
+
+– El diseño de tareas para el entrenamiento de los sistemas de juego de ataque posicional en el alto rendimiento en balonmano:
+
+– El diseño de tareas para el entrenamiento de la utilización de diversas estructuras y las transformaciones estructurales en los sistemas ofensivos del juego de alto rendimiento en balonmano.
+
+– El diseño de tareas para el entrenamiento de la circulación del balón en los sistemas ofensivos del juego de alto rendimiento en balonmano.
+
+– El diseño de tareas para el entrenamiento de la circulación de jugadores en los sistemas ofensivos del juego de alto rendimiento en balonmano.
+
+– El diseño de tareas integrales para el entrenamiento de los sistemas ofensivos en el juego de alto rendimiento en balonmano.
+
+La construcción de un sistema de juego para el contraataque en el alto rendimiento en balonmano.
+
+– La determinación de la actuación en cada una de las fases del contraataque:
+
+– La iniciación: reparto de responsabilidades cuando el adversario pierde el control del balón.
+
+– El transporte de balón: estructura de apoyos para la subida del balón.
+
+– La finalización. En situaciones simples. Procedimientos a utilizar en función del balance y situación de los defensores, en situaciones complejas.
+
+– Las razones a considerar para la determinación del sistema de contraataque:
+
+– Las características de los propios jugadores.
+
+– Las características de los jugadores adversarios.
+
+– Las características del sistema de repliegue del rival.
+
+– La determinación de la actuación en situaciones extraordinarias:
+
+– Las situaciones de inferioridad numérica.
+
+– Las situaciones de superioridad numérica por exclusión de adversarios.
+
+– La situación del marcador.
+
+– Las situaciones de final de partido (o de tiempo).
+
+– El diseño de tareas para el entrenamiento de los sistemas de juego de contraataque en el alto rendimiento en balonmano:
+
+– El diseño de tareas para el entrenamiento de la utilización de diversas estructuras del contraataque.
+
+– El diseño de tareas para el entrenamiento movimiento coordinado de jugadores y transporte de balón en los sistemas de contraataque del juego de alto rendimiento en balonmano.
+
+– El diseño de tareas para el entrenamiento de la finalización del contraataque.
+
+– El diseño de tareas integrales para el entrenamiento de los sistemas de contraataque en el juego de alto rendimiento en balonmano.
+
+> Se numera como Anexo II.h por el art. 10.2.h) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.i — Módulo específico de enseñanza deportiva: Juego colectivo defensivo en alto rendimiento en balonmano
+
+Código: MED-BMBM304
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Evalúa la resolución de situaciones puntuales de desventaja defensiva numérica, en el juego de alto rendimiento en balonmano, justificando las exigencias específicas de adaptación de las tareas de entrenamiento a las diferentes fases del juego defensivo (repliegue defensivo y defensa posicional) y a los distintos puestos específicos.
+
+a. Se ha argumentado la importancia de aumentar el porcentaje de resolución positiva de situaciones de juego con desventaja numérica defensiva, simple y compleja, tanto en la defensa posicional como en el repliegue defensivo, en el juego de alto rendimiento en balonmano.
+
+b. Se ha analizado la capacidad colectiva de intervenir sobre los movimientos ofensivos de los oponentes, en situaciones de inferioridad numérica defensiva argumentando las consecuencias técnicas y tácticas que conlleva este análisis en el entrenamiento de alto Rendimiento en balonmano.
+
+c. Se ha analizado la capacidad colectiva de intervenir sobre el movimiento ofensivo del balón, a través de las interceptaciones y de la disuasión de los pases, argumentando las consecuencias técnicas y tácticas que conlleva este análisis en el entrenamiento de alto rendimiento en balonmano.
+
+d. Se han justificado las bases, tanto mecánicas como intencionales, de la actuación colectiva de los defensores en situaciones de inferioridad numérica, argumentando las consecuencias técnicas y tácticas que conlleva este análisis en el entrenamiento de alto rendimiento en balonmano.
+
+e. Se han justificado los aspectos diferenciales en la resolución de las situaciones de inferioridad numérica defensiva en función de la fase del ataque y en función del puesto específico en que se produzcan.
+
+f. Se han elaborado tareas de entrenamiento de resolución de situaciones de desventaja numérica defensiva, para el alto rendimiento en balonmano, en un supuesto práctico debidamente caracterizado.
+
+g. Se ha evaluado la resolución de una situación de desventaja numérica defensiva en un supuesto práctico debidamente caracterizado de situación de juego de defensa posicional, identificando los factores que han propiciado el resultado obtenido.
+
+2\. Evalúa la capacidad defensiva de contrarrestar las acciones colectivas de los atacantes, en el juego de alto rendimiento en balonmano, mediante la realización de procedimientos tácticos colectivos defensivos, entre dos o más jugadores, justificando las exigencias específicas de adaptación de las tareas de entrenamiento a las diferentes fases del juego defensivo (repliegue defensivo y defensa posicional) y a los distintos puestos específicos.
+
+a. Se ha justificado la importancia de coordinar la actuación de los defensores, en el juego de alto rendimiento en balonmano, para contrarrestar los procedimientos tácticos colectivos de los atacantes.
+
+b. Se han analizado las exigencias de la realización de las acciones coordinadas entre defensores en el juego de alto rendimiento y se han argumentado las diferencias con el juego en la etapa de tecnificación.
+
+c. Se han analizado las opciones de contrarrestar cada uno de los procedimientos tácticos ofensivos, mediante la utilización de los correspondientes procedimientos tácticos de colaboración defensiva, argumentando las consecuencias técnicas y tácticas que conlleva este análisis en el entrenamiento de Alto Rendimiento en balonmano.
+
+d. Se ha argumentado la posibilidad de utilizar procedimientos tácticos defensivos distintos para lograr contrarrestar acciones ofensivas iguales.
+
+e. Se ha analizado la utilización de los distintos procedimientos tácticos defensivos en función de las diferentes fases del juego defensivo en que se realizan, argumentando la idoneidad de su aplicación según la fase en que se está actuando y las consecuencias técnicas y tácticas que conlleva en el entrenamiento de alto rendimiento en balonmano.
+
+f. Se ha analizado la utilización de los distintos procedimientos tácticos defensivos en función de los puestos en que se realizan, argumentando la idoneidad de su aplicación según la fase en que se está actuando y las consecuencias técnicas y tácticas que conlleva en el entrenamiento de alto rendimiento en balonmano.
+
+g. Se han elaborado tareas de entrenamiento para evitar situaciones de des ventaja numérica y espacial en defensa, a través de los diversos procedimientos tácticos colectivos defensivos, para el alto rendimiento en balonmano, en un supuesto práctico debidamente caracterizado.
+
+h. Se ha evaluado la capacidad de evitar, a través de los diversos procedimientos tácticos colectivos defensivos, de una situación de ventaja numérica o espacial, en un supuesto práctico debidamente caracterizado de situación de juego de ataque posicional, identificando los factores que han propiciado el resultado obtenido.
+
+3\. Establece los fundamentos del funcionamiento de los sistemas para las diferentes fases de la defensa en el alto rendimiento en balonmano, argumentando la interpretación dada en la aplicación de los mismos en diferentes etapas históricas por los equipos más destacados.
+
+a. Se han analizado pormenorizadamente las opciones estructurales de los sistemas de juego para las diferentes fases de la defensa, justificando las consecuencias que conlleva en el diseño de los mismos.
+
+b. Se ha argumentado la evolución histórica de las estructuras de los sistemas de juego para las diferentes fases de la defensa, citando ejemplos de casos reales en el juego de alto rendimiento en balonmano.
+
+c. Se ha analizado pormenorizadamente las prioridades establecidas en trabajo táctico de colaboración entre defensores en los sistemas de juego para las diferentes fases de la defensa, justificando las consecuencias que conlleva en el diseño de los mismos.
+
+d. Se ha argumentado la evolución histórica del trabajo táctico de colaboración entre defensores en los sistemas de juego para las diferentes fases de la defensa, citando ejemplos de casos reales en el juego de alto rendimiento en balonmano.
+
+e. Se han analizado pormenorizadamente las prioridades intencionales establecidas en la actuación defensiva de los jugadores en los sistemas de juego para las diferentes fases de la defensa, justificando las consecuencias que conlleva en el diseño de los mismos.
+
+f. Se ha argumentado la evolución histórica de las prioridades intencionales establecidas en la actuación defensiva de los jugadores en los sistemas de juego para las diferentes fases de la defensa, citando ejemplos de casos reales en el juego de alto rendimiento en balonmano.
+
+g. Se han evaluado sistemas históricos de defensa posicional, identificando las características estructurales, las prioridades marcadas en trabajo táctico de colaboración entre defensores y las prioridades intencionales establecidas y las consecuencias que estas decisiones tuvieron en el desarrollo de estos sistemas.
+
+4\. Elabora, para el alto rendimiento, sistemas de juego defensivos, adaptados a las diferentes fases de la defensa (repliegue defensivo y defensa posicional), aplicando criterios de adaptación a las características de los propios jugadores, a las características del rival y a la estrategia global del juego.
+
+a. Se ha justificado la elección de una estructura para elaborar un sistema de defensa posicional, valorando tanto las características de los jugadores del propio equipo como las características individuales y colectivas de equipo rival.
+
+b. Se ha justificado la elección prioridades establecidas, en trabajo táctico de colaboración entre defensores, al diseñar un sistema de defensa posicional, valorando tanto las características de los jugadores del propio equipo como las características individuales y colectivas de equipo rival.
+
+c. Se ha justificado la elección las prioridades intencionales establecidas, en la actuación defensiva de los jugadores, al diseñar un sistema de defensa posicional, valorando tanto las características de los jugadores del propio equipo como las características individuales y colectivas de equipo rival.
+
+d. Se ha fundamentado la adaptación del sistema de defensa posicional a situaciones de desequilibrio numérico.
+
+e. Se ha fundamentado la adaptación del sistema de defensa posicional a situaciones extraordinarias, valorando la asunción de riesgos.
+
+f. Se ha justificado la elección de reparto de funciones en la iniciación del sistema de repliegue defensivo.
+
+g. Se ha justificado la asignación de funciones, en el diseño del sistema de repliegue defensivo, para impedir o ralentizar el acceso del balón a la zona eficaz del campo propio.
+
+h. Se han justificado la elección de normas para la actuación en la defensa de temporización, hasta que se consigue organizar el sistema de defensa posicional establecido.
+
+i. Se han fundamentado las bases para la construcción de tareas para el entrenamiento de las diversas características de los sistemas de defensa posicional y repliegue defensivo elegidos.
+
+Contenidos básicos
+
+1\. Evalúa la resolución de situaciones puntuales de desventaja defensiva numérica, en el juego de alto rendimiento en balonmano, justificando las exigencias específicas de adaptación de las tareas de entrenamiento a las diferentes fases del juego defensivo (repliegue defensivo y defensa posicional) y a los distintos puestos específicos.
+
+La resolución positiva de situaciones en desventaja numérica.
+
+– La importancia en el alto rendimiento en balonmano de la resolución colectiva positiva de las situaciones de desventaja numérica defensiva:
+
+– Aumentar el rendimiento en el juego defensivo de alto nivel:
+
+– La mejora del rendimiento por la ampliación de las capacidades para evitar situaciones de desventaja numérica defensiva.
+
+– La mejora del rendimiento por el aumento de situaciones de desventaja numérica que se resuelven positivamente.
+
+– La resolución colectiva de situaciones de desventaja numérica defensiva en el alto rendimiento:
+
+– La regla de oro del reparto de oponentes en estas situaciones: evitar la auto- fijación:
+
+– La ambigüedad en el reparto de oponentes en las situaciones de desventaja numérica defensiva.
+
+– La anticipación sobre los impares.
+
+– La disuasión del movimiento de los atacantes.
+
+– Las faltas tácticas.
+
+– La actuación sobre el movimiento de balón:
+
+– La disuasión de pases hacia la zona de inferioridad: importancia de la acción coordinada de los jugadores:
+
+– Defender la propia zona.
+
+– La actuación sobre balones lejanos: aumentar la zona de influencia.
+
+– Evitar la continuidad del juego/Retrasar la continuidad del juego.
+
+– Aspectos diferenciales de la resolución positiva de situaciones de desventaja numérica defensivas en las diferentes fases del juego:
+
+– Las situaciones de desventaja numérica en el repliegue defensivo.
+
+– Las situaciones de desventaja numérica en la defensa posicional:
+
+– Ajustes diferenciales según los puestos específicos.
+
+– El diseño de tareas para el entrenamiento de las situaciones de desventaja numérica defensiva:
+
+– Las tareas para defender inferioridades previstas.
+
+– Las tareas para la defensa de inferioridades de aparición imprevista.
+
+– Las tareas en el repliegue defensivo.
+
+– Las tareas en la defensa posicional.
+
+2\. Evalúa la capacidad defensiva de contrarrestar las acciones colectivas de los atacantes, en el juego de alto rendimiento en balonmano, mediante la realización de procedimientos tácticos colectivos defensivos, entre dos o más jugadores, justificando las exigencias específicas de adaptación de las tareas de entrenamiento a las diferentes fases del juego defensivo (repliegue defensivo y defensa posicional) y a los distintos puestos específicos.
+
+Las acciones coordinadas entre defensores como medio para contrarrestar el juego ofensivo del rival.
+
+– La importancia de la utilización de los procedimientos tácticos defensivos en el juego de alto rendimiento en balonmano.
+
+– La utilización de los procedimientos tácticos defensivos en el juego de alto rendimiento en balonmano:
+
+– Los procedimientos tácticos en el repliegue defensivo:
+
+– Procedimientos que dificultan la progresión del balón y los jugadores ofensivos.
+
+– Procedimientos más adecuados para emplear en la fase final del repliegue.
+
+– El diseño de tareas para el entrenamiento de los procedimientos tácticos en situaciones de repliegue defensivo.
+
+– Los procedimientos tácticos en la defensa posicional:
+
+– La adaptación al espacio y tiempo útil.
+
+– Los procedimientos para contrarrestar permutas y cruces ofensivos en el juego de alto rendimiento:
+
+– Los deslizamientos:
+
+– Ventajas e inconvenientes de su utilización en el alto rendimiento.
+
+– Los cambios de oponentes:
+
+– Con defensores en la misma profundidad.
+
+– Con defensores en línea diferente.
+
+– Resolver el 2x2 en cruce con actuación 1x2 del defensor más avanzado y respuesta adaptativa del más atrasado:
+
+– Ventajas e inconvenientes de su utilización en el alto rendimiento.
+
+– Los procedimientos para contrarrestar los bloqueos en el juego de alto rendimiento:
+
+– La superación individual de los bloqueos: aspectos mecánicos e intencionales.
+
+– Los contrabloqueos:
+
+– Tipos de contrabloqueos.
+
+– Los procedimientos colectivos para oponerse a los lanzamientos en el juego de alto rendimiento:
+
+– La colaboración en el blocaje: la barrera defensiva en el alto rendimiento.
+
+– La colaboración defensa portero:
+
+– Ante lanzamientos exteriores.
+
+– Ante las penetraciones de atacantes.
+
+– Los ajustes derivados de la adaptación a los diferentes puestos específicos del sistema defensivo.
+
+– El diseño de tareas para el entrenamiento de los procedimientos tácticos en situaciones de defensa posicional.
+
+3\. Establece los fundamentos del funcionamiento de los sistemas para las diferentes fases de la defensa en el alto rendimiento en balonmano, argumentando la interpretación dada en la aplicación de los mismos en diferentes etapas históricas por los equipos más destacados.
+
+Los fundamentos de la construcción de los sistemas de juego defensivos en el balonmano de alto rendimiento. Referencias históricas.
+
+– Importancia de la estructura en la construcción de un sistema defensivo en el juego de alto rendimiento. Criterios para la determinación de la estructura:
+
+– Las defensas zonales: Proteger la zona eficaz:
+
+– La tendencia: Mantener la estructura de ocupación zonal.
+
+– La distribución de los jugadores en el alto rendimiento:
+
+– Distribución en una o varias líneas.
+
+– La posibilidad de cambios estructurales en un mismo periodo defensivo.
+
+– El reparto de responsabilidades:
+
+– El reparto de responsabilidades fijo.
+
+– La ambigüedad en el reparto de responsabilidades:
+
+– El marcaje al pivote por pares.
+
+– La flotación.
+
+– La anticipación sorpresiva a los impares.
+
+– La combinación de criterios de reparto según las zonas de la defensa o los puestos específicos.
+
+– Las defensas individuales. Control de cada uno de los atacantes:
+
+– La tendencia: evitar los cambios de oponente, seguir al oponente directo.
+
+– La zona de aplicación.
+
+– La asignación de oponentes:
+
+– La asignación de oponentes fijos.
+
+– La asignación de oponentes variable en cada ciclo defensivo, según distintos criterios.
+
+– La asignación mixta.
+
+– Las defensas mixtas. Ocupación de la zona eficaz por un grupo de jugadores y asignación individual de otros:
+
+– La tendencia: evitar los cambios de oponente del jugador (o los jugadores) que tienen asignación individual.
+
+– El reparto de responsabilidades de los jugadores que defienden en zona.
+
+– La estructura defensiva en situaciones de desigualdad numérica:
+
+– Superioridades.
+
+– Inferioridades.
+
+– Ejemplos históricos de la utilización de diferentes estructuras y las transformaciones de las mismas en el juego posicional defensivo de alto rendimiento en balonmano.
+
+– Las estructuras del repliegue defensivo en el alto rendimiento deportivo en balonmano:
+
+– La estructura en la iniciación del repliegue (en el momento de la pérdida de balón): Reparto de responsabilidades.
+
+– La estructura para dificultar el transporte de balón por parte de los atacantes durante el repliegue.
+
+– La estructura en la defensa de temporización.
+
+– Ejemplos históricos de la utilización de diferentes estructuras en el repliegue defensivo en el juego de alto rendimiento en balonmano.
+
+– La importancia de las pautas de colaboración y ayuda en la construcción de un sistema defensivo posicional en el juego de alto rendimiento en balonmano:
+
+– La exigencia de las ayudas ante errores en cualquier sistema defensivo.
+
+– Las ayudas preventivas: utilización optativa y su influencia en el sistema de juego:
+
+– Los sistemas sin ayudas preventivas: sistemas individualizados (en «línea de tiro»).
+
+– Los sistemas con ayudas preventivas: sistemas compactos en zona de balón:
+
+– La densidad defensiva en zona de balón.
+
+– La basculación defensiva.
+
+– La implicación en zonas alejadas del balón.
+
+– Las pautas de colaboración: las prioridades en la utilización de procedimientos tácticos y su influencia en el sistema defensivo posicional:
+
+– La actuación ante cruces y permutas.
+
+– La actuación ante bloqueos.
+
+– La actuación ante otros medios tácticos ofensivos.
+
+– La colaboración ante lanzamientos: estructura de la barrera defensiva.
+
+– La utilización de la colaboración defensa portero.
+
+– La variación de pautas en función de puestos específicos.
+
+– Ejemplos históricos de la utilización de diferentes formas de ayuda y colaboración en los sistemas defensivos posicionales de alto rendimiento en balonmano.
+
+– La importancia del trabajo coordinado entre las acciones defensivas sobre los atacantes y las acciones hacia el balón en la construcción del sistema de repliegue defensivo en el alto rendimiento en balonmano:
+
+– La actuación defensiva sobre los atacantes.
+
+– La actuación defensiva hacia el balón:
+
+– Las interceptaciones.
+
+– La disuasión de pases.
+
+– El diseño de tareas para el entrenamiento del trabajo coordinado sobre los atacantes y sobre el balón en los sistemas de repliegue defensivo del juego de alto rendimiento en balonmano.
+
+– Ejemplos históricos de la utilización de diferentes formas de trabajo coordinado sobre los atacantes y sobre el balón en la construcción del sistema repliegue defensivo en el alto rendimiento en balonmano.
+
+– La importancia de las prioridades en la intencionalidad de las acciones individuales de los defensores en la construcción, tanto de un sistema defensivo posicional, como en el diseño del repliegue defensivo en el juego de alto rendimiento en balonmano:
+
+– Las defensas de tendencia reactiva: dejar la iniciativa al atacante y reaccionar en consecuencia.
+
+– Las defensas de tendencia anticipativa: atacar al atacante.
+
+– La utilización combinada de los conceptos anteriores:
+
+– La ambigüedad como arma de defensa.
+
+– El condicionamiento del ataque como argumento intencional en la construcción del sistema defensivo:
+
+– Condicionar el movimiento de los atacantes.
+
+– Condicionar el movimiento de balón.
+
+– La utilización combinada del condicionamiento de movimiento de atacantes y de balón.
+
+– Ejemplos históricos de la utilización de diferentes criterios intencionales en los sistemas de defensa posicional y de repliegue de alto rendimiento en balonmano.
+
+– Las adaptaciones para situaciones especiales:
+
+– Desigualdad numérica.
+
+– Finales de partido.
+
+– Situaciones derivadas del resultado momentáneo del partido.
+
+– Ejemplos históricos de la utilización de diferentes adaptaciones en situaciones especiales en el juego de alto rendimiento en balonmano.
+
+4\. Elabora, para el alto rendimiento, sistemas de juego defensivos, adaptados a las diferentes fases de la defensa (repliegue defensivo y defensa posicional), aplicando criterios de adaptación a las características de los propios jugadores, a las características del rival y a la estrategia global del juego.
+
+La construcción de un sistema de juego para la defensa posicional en el alto rendimiento en balonmano.
+
+– La determinación de los tres soportes básicos del sistema:
+
+– La estructura.
+
+– Las pautas de colaboración y ayuda.
+
+– Las prioridades intencionales en las acciones defensivas individuales.
+
+– Las razones a considerar para la determinación de los soportes básicos:
+
+– Las características de los propios jugadores.
+
+– Las características de los jugadores adversarios.
+
+– Las características del sistema de ataque del rival:
+
+– Estructura.
+
+– Las características de la circulación del balón.
+
+– Las características de la circulación de jugadores.
+
+– La determinación de la actuación en situaciones extraordinarias:
+
+– Las situaciones de inferioridad numérica.
+
+– Las situaciones de superioridad numérica por exclusión de adversarios.
+
+– Las situaciones de inferioridad numérica 7X6 por salida del portero adversario.
+
+– La amenaza de pasivo.
+
+– Las situaciones de final de partido (o de tiempo).
+
+– El diseño de tareas para el entrenamiento de los sistemas de juego de defensa posicional en el alto rendimiento en balonmano:
+
+– El diseño de tareas para el entrenamiento de la utilización de diversas estructuras y las transformaciones estructurales.
+
+– El diseño de tareas para el entrenamiento de las ayudas y pautas de colaboración en los sistemas defensivos posicionales del juego de alto rendimiento en balonmano.
+
+– El diseño de tareas para el entrenamiento de los aspectos intencionales en el sistema defensivo posicional.
+
+La construcción de un sistema de juego para el repliegue defensivo en el alto rendimiento en balonmano:
+
+– La determinación de la actuación en cada una de las fases del repliegue:
+
+– La iniciación:
+
+– Reparto de responsabilidades cuando se pierde el control del balón.
+
+– La oposición al transporte de balón en el contraataque del rival:
+
+– La acción sobre los jugadores atacantes.
+
+– La acción sobre el balón.
+
+– La defensa de temporización:
+
+– Ocupar la zona eficaz con los jugadores disponibles.
+
+– Parar el balón.
+
+– La organización del sistema posicional de defensa previsto.
+
+– La adaptación a dificultades en los cambios de jugadores ataque/defensa.
+
+– Las razones a considerar para la determinación del sistema de repliegue defensivo:
+
+– Las características de los propios jugadores.
+
+– Las características de los jugadores adversarios.
+
+– Las características del sistema de contraataque del rival.
+
+– La determinación de la actuación en situaciones extraordinarias:
+
+– Las situaciones de inferioridad numérica.
+
+– Las situaciones de superioridad numérica por exclusión de adversarios.
+
+– La situación del marcador.
+
+– Las situaciones de final de partido (o de tiempo).
+
+– El diseño de tareas para el entrenamiento de los sistemas de repliegue defensivo en el alto rendimiento en balonmano:
+
+– El diseño de tareas para el entrenamiento de la utilización de diversas estructuras del repliegue defensivo.
+
+– El diseño de tareas para el entrenamiento de los aspectos intencionales en el sistema defensivo de repliegue.
+
+> Se numera como Anexo II.i por el art. 10.2.i) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.j — Módulo específico de enseñanza deportiva: Dirección deportiva en alto rendimiento
+
+Código: MED-BMBM305
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Elabora programas técnicos de referencia en base al proyecto deportivo del club, interpretando los planes y la estructura del club y demostrando conocimiento de programación.
+
+a. Se ha diseñado un programa técnico que sirva de referencia para los equipos de categorías inferiores de un club, a partir de un supuesto debidamente caracterizado.
+
+b. Se ha analizado el proyecto deportivo de un supuesto club debidamente caracterizado, definiendo los programas de referencia de los equipos de categorías inferiores del mismo club.
+
+c. Se ha elaborado el proyecto deportivo de un club de alto rendimiento a partir de unas premisas dadas.
+
+2\. Coordina la actividad de otros técnicos y colabora en su formación permanente, analizando sus funciones y demostrando conocimientos de la dirección deportiva.
+
+a. Se han analizado las funciones de la dirección deportiva en equipos de tecnificación y alto rendimiento.
+
+b. Se han identificado las características de un club profesional de balonmano.
+
+c. Se han identificado las funciones de coordinación o dirección de equipos en la etapa de tecnificación y alto rendimiento.
+
+d. Se han identificado los procedimientos de selección, comunicación y coordinación de técnicos para la etapa de tecnificación y alto rendimiento en balonmano.
+
+e. Se han identificado los criterios de distribución de tareas entre el equipo de técnicos en los distintos equipos, eventos y competiciones de tecnificación y alto rendimiento en balonmano.
+
+f. Se ha interiorizado la necesidad de coordinación y participación de los equipos técnicos como medio eficaz y eficiente en la puesta en práctica de dirección de equipos en la etapa de tecnificación y alto rendimiento en balonmano.
+
+g. Se ha generado un programa de formación permanente de los técnicos de un club, en un supuesto práctico.
+
+h. Se ha justificado la importancia de la formación de los técnicos de un club para su desarrollo y crecimiento.
+
+3\. Participa en la organización técnica de eventos de alto rendimiento, analizando la estructura de los diferentes modelos de eventos, campeonatos y federaciones e instituciones implicadas en este nivel.
+
+a. Se han especificado las necesidades en la organización técnica de un evento de alto rendimiento en balonmano.
+
+b. Se han diseñado estructuralmente eventos de alto rendimiento, a partir de un supuesto debidamente caracterizado.
+
+c. Se han comparado diversos modelos de eventos, justificando sus similitudes y diferencias.
+
+d. Se han comparado los distintos campeonatos de selecciones y clubes de alto nivel, expresando las características organizativas de los mismos.
+
+e. Se han formulado los protocolos de organización de los aspectos técnicos de un evento de balonmano de alto rendimiento.
+
+f. Se han especificado los recursos necesarios en la organización técnica de un evento de balonmano de alto rendimiento, a partir de un supuesto debidamente caracterizado.
+
+g. Se han resuelto los problemas de organización técnica de un supuesto práctico debidamente caracterizado de un evento de balonmano de alto rendimiento.
+
+4\. Detecta, selecciona y mantiene el seguimiento de talentos, fundamentando los perfiles de rendimiento en balonmano y las características de cada etapa de desarrollo del jugador, analizando los sistemas de detección, selección y seguimiento.
+
+a. Se han identificado los diferentes perfiles de rendimiento en balonmano, así como la influencia de los factores genéticos, la experiencia y el entorno del jugador en el desarrollo del talento/experto en balonmano.
+
+b. Se han caracterizado los conceptos y las fases del proceso de detección, identificación y selección de talentos en balonmano.
+
+c. Se han analizado los programas de detección, identificación y selección de talentos deportivos en balonmano establecidos por las administraciones deportivas de acuerdo con las características específicas del balonmano.
+
+d. Se han seleccionado los criterios de adaptación de los programas de detección, identificación y selección de talentos adecuados al balonmano.
+
+e. Se han seleccionado los medios materiales y humanos necesarios en la implantación de un programa de detección, identificación y selección de talentos en balonmano.
+
+f. Se han analizado las características de las diferentes capacidades y modos de comportamiento que determinan el perfil del jugador de alto rendimiento.
+
+g. Se han seleccionado los valores de referencia que determinan la evolución de las capacidades y modos de comportamiento del jugador a lo largo de las diferentes etapas de la vida deportiva de los talentos en balonmano.
+
+h. Se han seleccionado, de forma justificada, los criterios de detección, identificación y selección de talentos en función de la etapa deportiva del jugador.
+
+i. Se han seleccionado y relacionado las técnicas e instrumentos de observación y análisis y registro de las capacidades y modos de comportamiento del jugador en diferentes etapas de su desarrollo.
+
+j. Se ha elaborado un proyecto de programa de detección, identificación y selección de talentos en balonmano.
+
+k. Se ha justificado la necesidad de respetar los intereses y necesidades del individuo en el proceso de desarrollo de los talentos deportivos en balonmano.
+
+Contenidos básicos
+
+1\. Elabora programas técnicos de referencia en base al proyecto deportivo del club, interpretando los planes y la estructura del club y demostrando conocimiento de programación.
+
+– Los clubes de alto rendimiento:
+
+– Estructura organizativa.
+
+– Diferencias con el club amateur.
+
+– Gestión técnica de clubes.
+
+– Proyecto deportivo de club:
+
+– Estructura deportiva.
+
+– Programas de referencia para los equipos de categorías inferiores.
+
+– Programa de formación permanente de técnicos.
+
+– Creación de un proyecto deportivo de un club.
+
+2\. Coordina la actividad de otros técnicos y colabora en su formación permanente, analizando sus funciones y demostrando conocimientos de la dirección deportiva.
+
+– Características, competencias y relaciones de los diferentes técnicos que trabajan en la etapa de tecnificación y alto rendimiento dentro del grupo deportivo:
+
+– Organigramas de clubes, escuelas y otros centros en la etapa de tecnificación y en el alto rendimiento.
+
+– Funcionamiento y organización de clubes y otros centros en el alto rendimiento.
+
+– Normativa y legislación básica.
+
+– Funciones específicas del director deportivo.
+
+– La selección de técnicos para la etapa de tecnificación y alto rendimiento:
+
+– Definición de funciones y perfiles de técnicos.
+
+– Ideas básicas de criterios de selección.
+
+– Ideas básicas de los procesos de selección.
+
+– Asignación de tareas y roles en el proceso de aprendizaje y dirección de equipos, en la etapa de tecnificación y alto rendimiento del balonmano.
+
+– El entrenador y la representación institucional.
+
+– Estructura de la formación de entrenadores:
+
+– Reglada.
+
+– Continua.
+
+– Elaboración de planes de formación.
+
+3\. Participa en la organización técnica de eventos de alto rendimiento, analizando la estructura de los diferentes modelos de eventos, campeonatos y federaciones e instituciones implicadas en este nivel.
+
+– Características específicas de los diferentes eventos de balonmano en el alto rendimiento:
+
+– Estructura competitiva de federaciones en el alto rendimiento.
+
+– Estructura de competiciones de clubes de alto rendimiento.
+
+– Diferencias entre competiciones de clubes y selecciones.
+
+– Competiciones y eventos organizados por la Federación Española de Balonmano.
+
+– Competiciones y eventos organizados por la Federación Europea de Balonmano.
+
+– Competiciones y eventos organizados por la Federación Internacional de Balonmano.
+
+– La organización técnica de eventos y competiciones:
+
+– Diseño.
+
+– Fases de la organización.
+
+– Protocolos de funcionamiento en cada tipo de competición y evento.
+
+– Gestión de recursos.
+
+– Resolución de problemas organizativos.
+
+4\. Detecta, selecciona y mantiene el seguimiento de talentos, fundamentando los perfiles de rendimiento en balonmano y las características de cada etapa de desarrollo del jugador, analizando los sistemas de detección, selección y seguimiento.
+
+– Modelos de detección en función del sistema de desarrollo deportivo.
+
+– Perfiles de rendimiento en balonmano:
+
+– La importancia de los factores genéticos. Detección y selección del talento deportivo.
+
+– La importancia del aprendizaje significativo. Experiencia, práctica y factores de entrenabilidad.
+
+– La importancia del entorno del jugador.
+
+– La identificación del talento en balonmano.
+
+– El desarrollo del talento en balonmano.
+
+– El seguimiento y control del talento en balonmano.
+
+– Tipos de valoración en la detección del talento deportivo en balonmano:
+
+– Biomédica.
+
+– Condicional.
+
+– Motriz.
+
+– Toma de decisión.
+
+– Psicológica y social.
+
+– Entorno vital y de entrenamiento.
+
+– Instrumentos de evaluación de cualidades motoras específicas del balonmano.
+
+– Instrumentos de registro y seguimiento de datos de la evolución del jugador.
+
+> Se numera como Anexo II.j por el art. 10.2.j) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.k — Módulo específico de enseñanza deportiva: Dirección de equipo en alto rendimiento
+
+Código: MED-BMBM306
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Construye y lidera un equipo multidisciplinar de técnicos y jugadores de alto rendimiento de balonmano, aplicando competencias profesionales, analizando la estructura y los criterios de composición de los equipos de esta etapa. Selecciona, prepara y organiza el material de progresión individual, colectivo, y de seguridad en balonmano, en ascensiones, y aristas, analizando las características técnicas, y aplicando protocolos de higiene, mantenimiento y revisión pertinentes.
+
+a. Se ha valorado la importancia de una correcta gestión y coordinación de un grupo de trabajo multidisciplinar para el buen funcionamiento un equipo de balonmano.
+
+b. Se han identificado las funciones principales de un entrenador en la gestión de un equipo de alto rendimiento.
+
+c. Se han definido las funciones de los restantes miembros de un equipo técnico multidisciplinar en un equipo de alto rendimiento.
+
+d. Se han analizado las relaciones del entrenador con el resto de los colaboradores técnicos y los profesionales que componen el grupo deportivo.
+
+e. Se han analizado las relaciones entre los diferentes estamentos que inciden en el rendimiento del grupo deportivo.
+
+f. Se han explicado razonadamente criterios para la composición de una plantilla relacionándolos con el proyecto deportivo del club en la etapa de alto rendimiento.
+
+g. Se han definido roles a partir de una propuesta de plantilla con jugadores de alto rendimiento concretos.
+
+2\. Gestiona el rendimiento de un equipo en un partido y/o competición de balonmano, aplicando estrategias en la toma de decisiones, en el control emocional y en el liderazgo, controlando reglas, procedimientos de observación y análisis, en competiciones del equipo en la etapa de alto rendimiento.
+
+a. Se han compilado las directrices más importantes para la gestión del rendimiento del equipo en partidos en la etapa de alto rendimiento.
+
+b. Se han comprendido de forma justificada las responsabilidades de cada miembro del equipo técnico en un partido en el alto rendimiento.
+
+c. Se han escogido y justificado decisiones, de entre varias propuestas, en situaciones simuladas de un partido de balonmano en la etapa de alto rendimiento.
+
+d. Se han demostrado capacidad de liderazgo y control personal, en situaciones simuladas de partido.
+
+e. Se han elegido, de forma justificada, estrategias de afrontamiento de la derrota y la victoria después del partido, así́ como la gestión mediática del resultado tras un partido en el alto rendimiento.
+
+f. Se ha evaluado el comportamiento de los entrenadores en diferentes tiempos muertos propuestos en competiciones de alto rendimiento.
+
+g. Se han formulado las normas aplicables en diversas situaciones de juego presentadas de balonmano en el alto rendimiento.
+
+h. Se han diferenciado las funciones de los distintos árbitros y jueces de mesa presentes en un partido de balonmano de alto rendimiento.
+
+i. Se han enunciado las últimas interpretaciones del reglamento de balonmano que se hagan por parte de los organismos competentes.
+
+j. Se han juzgado desde el punto de vista del reglamento, una serie de acciones de partido presentadas.
+
+k. Se han juzgado la actuación de entrenadores, en partidos visualizados, en lo referente al respeto y comprensión del reglamento y de las decisiones arbitrales.
+
+l. Se han comparado las reglas de juego e interpretaciones arbitrales en diferentes competiciones en el alto rendimiento.
+
+3\. Dirige y coordina el trabajo de análisis y evaluación del entrenamiento y de la competición, mediante la utilización de herramientas específicas de tratamiento de la información multimedia en balonmano.
+
+a. Se han explicado las características del análisis y evaluación en el alto rendimiento.
+
+b. Se ha justificado la importancia de la evaluación del propio equipo y del análisis de los rivales para mejorar la eficacia en los equipos de la etapa de alto rendimiento.
+
+c. Se ha estructurado la evaluación del propio equipo y sus elementos más importantes en la etapa de alto rendimiento.
+
+d. Se ha estructurado el análisis de los rivales y sus elementos más importantes en la etapa de alto rendimiento.
+
+e. Se ha dirigido a un equipo técnico para analizar y evaluar al propio equipo y a los rivales en un supuesto práctico debidamente caracterizado.
+
+f. Se han comparado herramientas específicas de análisis y evaluación para el alto rendimiento.
+
+g. Se ha manejado, al menos, una herramienta específica de análisis y evaluación técnico-táctica para el alto rendimiento, consiguiendo solucionar de forma autónoma un supuesto debidamente caracterizado.
+
+Contenidos básicos
+
+1\. Construye y lidera un equipo multidisciplinar de técnicos y jugadores de alto rendimiento de balonmano, aplicando competencias profesionales, analizando la estructura y los criterios de composición de los equipos de esta etapa.
+
+– El grupo deportivo en el alto rendimiento en balonmano:
+
+– Estructura del grupo deportivo en el alto rendimiento en balonmano:
+
+– Jugadores.
+
+– Colaboradores técnicos:
+
+– Entrenadores asistentes.
+
+– Preparadores físicos y recuperadores.
+
+– Delegados.
+
+– Médico y fisioterapeuta de equipo:
+
+– Profesiones de apoyo:
+
+– Fisiólogos del ejercicio.
+
+– Traumatólogos.
+
+– Psicólogos.
+
+– Etc.
+
+– Otros estamentos del entorno del grupo:
+
+– Prensa.
+
+– Directivos.
+
+– Competencias que desarrollar por el entrenador como elemento central del funcionamiento del grupo deportivo:
+
+– Psicopedagógicas.
+
+– Técnico-tácticas.
+
+– De gestión, coordinación y liderazgo.
+
+– De aprendizaje permanente e innovación.
+
+– Tipos de relaciones que se dan entre los componentes del grupo deportivo.
+
+– Los niveles de toma de decisiones de los diferentes integrantes del grupo deportivo. Diferentes implicaciones.
+
+– Estructura de base de los equipos (plantillas) en la etapa de alto rendimiento:
+
+– Número y distribución por puestos específicos
+
+– Análisis de necesidades según objetivos, número de competiciones, etc.
+
+– Construcción de plantillas de clubes y selecciones:
+
+– Objetivos y condicionantes.
+
+– La importancia de la distribución y aceptación de roles.
+
+– Equilibrio presente y futuro.
+
+– La distribución y aceptación de roles en el equipo deportivo.
+
+– La comunicación del entrenador con el equipo técnico y los jugadores:
+
+– Expresión oral y escucha.
+
+– Lenguaje no verbal.
+
+– Comunicación no deseada.
+
+2\. Gestiona el rendimiento de un equipo en un partido y/o competición de balonmano, aplicando estrategias en la toma de decisiones, en el control emocional y en el liderazgo, controlando reglas, procedimientos de observación y análisis, en competiciones del equipo en la etapa de alto rendimiento.
+
+– Preparación de un partido:
+
+– Distribución de responsabilidades.
+
+– Elaboración y puesta en marcha del plan.
+
+– Los momentos previos.
+
+– Análisis, evaluación y toma de decisiones durante la competición:
+
+– Comparativa de las circunstancias de competición con el diseño previo.
+
+– La toma de decisión durante la competición.
+
+– Actitud del entrenador y su equipo de trabajo.
+
+– El descanso.
+
+– Los tiempos muertos.
+
+– Las situaciones especiales.
+
+– El autocontrol en situaciones críticas.
+
+– Análisis y evaluación y actuación después del partido:
+
+– Actuación en el post-partido.
+
+– Toma de decisiones para el futuro inmediato.
+
+– Gestión mediática del partido.
+
+– Análisis del articulado del reglamento oficial de balonmano para el alto rendimiento.
+
+– Árbitros, delegados y auxiliares en el alto rendimiento:
+
+– Funciones.
+
+– Tendencia arbitral en el alto rendimiento:
+
+– Toma de decisiones arbitrales en partidos.
+
+– Interpretaciones arbitrales según competiciones.
+
+– Actualizaciones del reglamento.
+
+3\. Dirige y coordina el trabajo de análisis y evaluación del entrenamiento y de la competición, mediante la utilización de herramientas específicas de tratamiento de la información multimedia en balonmano.
+
+– El análisis y la evaluación en el alto rendimiento en balonmano:
+
+– Características básicas.
+
+– Evaluar a mi equipo:
+
+– Evaluación individual y grupal en los equipos deportivos.
+
+– Evaluación de los aspectos condicionales.
+
+– Evaluación de los aspectos psicológicos.
+
+– Evaluación de los aspectos sociales.
+
+– Evaluación de los aspectos relacionado son el control motor.
+
+– Evaluación de los aspectos tácticos.
+
+– Análisis de los rivales:
+
+– Características básicas.
+
+– Aspectos a considerar:
+
+– Individuales.
+
+– Colectivos.
+
+– Situaciones especiales.
+
+– Etc.
+
+– Distribución y coordinación de funciones en el análisis y evaluación en un equipo de alto rendimiento.
+
+– Herramientas de análisis y evaluación:
+
+– Características.
+
+– Herramientas de elaboración propia.
+
+– Herramientas existentes en el mercado.
+
+> Se numera como Anexo II.k por el art. 10.2.k) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.l — Módulo específico de enseñanza deportiva: Preparación física en el alto rendimiento en balonmano
+
+Código: MED-BMBM307
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora las conductas motrices específicas de cada puesto, así como las particularidades en la competición de alto rendimiento deportivo, diseñando instrumentos y medios de valoración de la condición física específica.
+
+a. Se han elaborado instrumentos de recogida de la información sobre la condición física específica de cada puesto específico del balonmano, atendiendo a las características individuales del jugador de alto rendimiento.
+
+b. Se han descrito las situaciones óptimas de aplicación de las diferentes pruebas de valoración de la condición física específica, su utilidad en el alto rendimiento, así como las situaciones adecuadas e inadecuadas de implementación.
+
+c. Se han elaborado medios de valoración de la condición física específica adaptados a la situación particular de un equipo de alto rendimiento.
+
+d. Se han interpretado las acciones con elevada exigencia condicional e importancia en el rendimiento de la competición y el entrenamiento en alto rendimiento, e identificado su influencia en la programación del entrenamiento.
+
+e. Se han aplicado, en un supuesto práctico debidamente caracterizado, diferentes formas de trasmisión de la información sobre la valoración condicional de los deportistas, utilizándose como herramienta de conocimiento del deportista y motivación para el entrenamiento.
+
+2\. Diseña programas de preparación física en balonmano, utilizando adecuadamente materiales y métodos avanzados propios del alto rendimiento en balonmano.
+
+a. Se han reconocido los diferentes modelos de programación y analizado las situaciones adecuadas para su aplicación en el alto rendimiento dentro de la programación de referencia.
+
+b. Se han aplicado, en varios supuestos prácticos debidamente caracterizados, diferentes modelos de programación a partir de las características de los equipos y del calendario de competición.
+
+c. Se han analizado los diferentes tipos de distribución de las cargas y valorado su adecuación en función del momento de la temporada.
+
+d. Se han aplicado, en un supuesto práctico debidamente caracterizado, los medios básicos y específicos de entrenamiento condicional ajustados a la programación de referencia.
+
+e. Se han descrito y analizado los métodos avanzados de las diferentes capacidades físicas determinantes para el alto rendimiento en balonmano.
+
+f. Se ha descrito la ondulación de las cargas condicionales para alcanzar el nivel óptimo de condición física en los momentos de competición decisivos, así como su implementación en el contexto de la programación de referencia.
+
+g. Se ha valorado la utilidad de los medios de entrenamiento avanzados de la condición física específica para el alto rendimiento en balonmano.
+
+3\. Coordina, diseña y dirige sesiones de desarrollo de la condición física del balonmano propias del alto rendimiento en balonmano, aplicando estrategias y herramientas de dirección, organización y control de un equipo de alto nivel.
+
+a. Se ha analizado la estructura y las características de los diferentes tipos de sesión de enseñanza-entrenamiento en el alto rendimiento en balonmano.
+
+b. Se han analizado los principios metodológicos relacionados con la elaboración y organización de sesiones de entrenamiento en el en balonmano.
+
+c. Se han clasificado los objetivos y principios fundamentales de la organización de la sesión de balonmano en el alto rendimiento en balonmano en función de los objetivos programados.
+
+d. Se han elaborado y justificado ejercicios con prioridad condicional en el contexto de alto rendimiento para el logro de los diferentes objetivos propuestos en la programación de referencia.
+
+e. Se han analizado las características de los diferentes tipos y formas de realizar el conocimiento de resultados en el alto rendimiento en balonmano, y su idoneidad en función de los objetivos programados.
+
+f. Se han elaborado sesiones de desarrollo de la condición física con diferentes tipos de organización, en función de los objetivos propuestos en cada tipo de sesión.
+
+g. Se ha dirigido un supuesto práctico de sesión de entrenamiento, debidamente caracterizado para la etapa de alto rendimiento.
+
+h. Se ha valorado la importancia de la trasmisión de los contenidos a realizar y del conocimiento de los resultados durante la sesión en el alto rendimiento en balonmano.
+
+4\. Aplica ciclos, sesiones y ejercicios con prioridad en la prevención de lesiones, readaptación de una lesión tras alta médica y vuelta al entrenamiento en grupo y competición de un equipo de alto nivel.
+
+a. Se ha reconocido las diferentes propuestas de prevención de lesiones, la evidencia científica sobre la que se sustenta y analizado las situaciones adecuadas para su aplicación en el alto rendimiento dentro de la programación de referencia.
+
+b. Se han elaborado, en varios supuestos prácticos debidamente caracterizados, diferentes propuestas de prevención de lesiones en función de las características concretas de un equipo de alto rendimiento.
+
+c. Se han descrito, analizado y reconocido las diferentes fases en la recuperación de un jugador en alto rendimiento tras una lesión.
+
+d. Se han aplicado, en varios supuestos prácticos debidamente caracterizados, diferentes programas de readaptación y vuelta al entrenamiento a partir de las características de la lesión y la evolución del jugador.
+
+e. Se han analizado y reconocido los aspectos (o las variables) más relevantes en la vuelta a la competición de alto nivel tras una lesión.
+
+f. Se han aplicado, en varios supuestos prácticos debidamente caracterizados, programas de control y valoración de la evolución de un jugador tras una lesión hasta la vuelta a la competición.
+
+Contenidos básicos
+
+1\. Valora las conductas motrices específicas de cada puesto, así como las particularidades en la competición de alto rendimiento deportivo, diseñando instrumentos y medios de valoración de la condición física específica.
+
+– Instrumentos de recogida de información específica para cada puesto específico en la competición de alto rendimiento.
+
+– Medios de valoración aplicados al alto rendimiento en balonmano: seguridad, utilidad y eficiencia.
+
+– Estadísticos avanzados, análisis e interpretación de datos, tecnologías de última generación, e interpretación de resultados relacionados con la mejora de la condición física.
+
+– Medios de valoración de la condición física específica adaptados al contexto específico de cada equipo y a las necesidades de cada jugador: pruebas de valoración, cuestionarios, test específicos.
+
+– Acciones relevantes en el rendimiento físico del entrenamiento y la competición en alto rendimiento y su influencia en la programación del entrenamiento.
+
+– Estrategias de comunicación eficaz aplicadas en la trasmisión de la información y de la motivación, vinculadas con los aspectos de la preparación física en el alto rendimiento.
+
+2\. Diseña programas de preparación física en balonmano, utilizando adecuadamente materiales y métodos avanzados propios del alto rendimiento en balonmano.
+
+– Modelos de programación de preparación física en el alto rendimiento en balonmano y supuestos prácticos de aplicación.
+
+– Periodización del entrenamiento de las diferentes capacidades físicas específicas, distribución de las cargas y su aplicación en función del momento de la temporada.
+
+– Bloques de preparación física adecuados a cada sesión en los diferentes tipos de microciclos propios de la temporada en alto rendimiento.
+
+– Medios básicos y específicos de entrenamiento condicional propios del alto rendimiento en balonmano.
+
+– Tapering o puesta a punto en alto rendimiento en balonmano.
+
+– Entrenamiento avanzado de las capacidades físicas relevantes para el alto rendimiento en balonmano: velocidad, fuerza, resistencia y flexibilidad.
+
+– Medios y materiales de entrenamiento condicional propios del alto rendimiento.
+
+3\. Coordina, diseña y dirige sesiones de desarrollo de la condición física del balonmano propias del alto rendimiento en balonmano, aplicando estrategias y herramientas de dirección, organización y control de un equipo de alto nivel.
+
+– Estructura, características y principios metodológicos predominantes de los diferentes tipos de sesión en función de los esfuerzos y las acciones propias de cada sesión en el alto rendimiento en balonmano.
+
+– Tareas propias del entrenamiento en alto rendimiento en función de la carga y complejidad de los diferentes factores implicados.
+
+– El papel de preparador físico en la coordinación de sesiones de desarrollo de desarrollo físico con elevado nivel de individualización.
+
+– Coordinación, organización y dirección de las sesiones de condición física en el alto rendimiento en balonmano para la búsqueda de la máxima individualización en la sesión.
+
+– La organización de sesiones de condición física en el alto rendimiento. Formas avanzadas para el logro de objetivos específicos e individuales de cada jugador.
+
+– La sesión de entrenamiento de condición física en el alto rendimiento: contingencias particulares del alto rendimiento y adaptación a la casuística de cada equipo.
+
+– Estrategias y dinámicas de grupo en las sesiones de desarrollo de condición física adecuadas al alto rendimiento en balonmano.
+
+– Estrategias de comunicación eficaz para la trasmisión de los contenidos de la sesión de preparación física y de los resultados obtenidos en la misma.
+
+4\. Aplica ciclos, sesiones y ejercicios con prioridad en la prevención de lesiones, readaptación de una lesión tras alta médica y vuelta al entrenamiento en grupo y competición de un equipo de alto nivel.
+
+– Programas de entrenamiento y tipos de ejercicios orientados a la prevención de lesiones en deportistas de equipo de alto nivel.
+
+– Propuestas de aplicación y estrategias prácticas para la prevención de lesiones en deportistas de alto nivel.
+
+– Diferentes modelos de readaptación en las lesiones más frecuentes en balonmano de alto nivel.
+
+– Características, tipo de entrenamiento y ejercicios propios de las diferentes fases en la readaptación de las lesiones más frecuentes en balonmano.
+
+– Reentrenamiento. Tipos de entrenamiento para la vuelta al entrenamiento y la competición de alto nivel.
+
+– Control y valoración en la recuperación, readaptación y vuelta al entrenamiento del jugador de balonmano de alto nivel tras una lesión.
+
+– Propuestas prácticas de vuelta al entrenamiento en grupo tras las lesiones más frecuentes en balonmano.
+
+> Se numera como Anexo II.l por el art. 10.2.l) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.m
+
+**Módulo de enseñanza deportiva: Proyecto final**
+
+Código: MED-BMBM308
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Selecciona, prepara y organiza el material de progresión individual, colectiva y de seguridad en balonmano, en ascensiones, y aristas, analizando las características técnicas, y aplicando protocolos de higiene, mantenimiento y revisión pertinentes.
+
+a. Se ha elegido un tema que permite integrar los conocimientos adquiridos en los diferentes bloques y módulos del ciclo superior en balonmano.
+
+b. Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto.
+
+c. Se han identificado las fases o partes que componen el proyecto y sus contenidos.
+
+d. Se han establecido los objetivos que se pretenden conseguir identificando su alcance.
+
+e. Se han valorado los aspectos que pueden facilitar o dificultar el desarrollo del proyecto.
+
+f. Se han previsto y priorizado los recursos materiales y personales necesarios, de acuerdo con los objetivos del proyecto.
+
+g. Se ha realizado el presupuesto económico correspondiente.
+
+h. Se han identificado las posibles fuentes de financiación del proyecto, en base a las necesidades del mismo.
+
+i. Se han identificado los aspectos que se deben controlar y de los que depende la calidad del proyecto.
+
+j. Se ha justificado la pertinencia y viabilidad del proyecto.
+
+k. Se ha valorado el rigor en la recogida de la información utilizada en la elaboración del proyecto.
+
+2\. Planifica y programa la ejecución del proyecto, determinando las fases o ciclos de preparación, la metodología utilizada y los recursos necesarios.
+
+a. Se han secuenciado y temporalizado las actividades ordenándolas en función de las necesidades de implantación del proyecto.
+
+b. Se ha elaborado la planificación del proyecto, periodizando y programando el entrenamiento y los recursos necesario, cuando el proyecto esté dirigido al alto rendimiento deportivo en balonmano.
+
+c. Se han determinado los recursos y la logística necesarios en cada actividad.
+
+d. Se han identificado los permisos y autorizaciones necesarios en cada una de las actividades.
+
+e. Se han determinado los procedimientos de actuación o ejecución de las actividades.
+
+f. Se han identificado los riesgos inherentes al desarrollo de las actividades, definiendo el plan de prevención de riesgos y los medios y equipos necesarios.
+
+g. Se han planificado la asignación de recursos materiales y humanos, y los tiempos de ejecución.
+
+h. Se ha hecho la valoración económica necesaria en la ejecución del proyecto.
+
+i. Se ha definido y elaborado la documentación necesaria en las previsiones y ejecución del proyecto.
+
+j. Se han relacionado/utilizado de una manera integradora y sinérgica los conceptos y procedimientos adquiridos en los diferentes módulos del ciclo superior en balonmano.
+
+k. Se han tenido en cuenta criterios de sostenibilidad a la hora de elegir las actividades, la metodología y los recursos utilizados en el proyecto.
+
+3\. Selecciona los procedimientos de seguimiento y control de la elaboración y ejecución del proyecto, justificando las funciones dentro del proyecto, la selección de variables e instrumentos empleados.
+
+a. Se ha definido el procedimiento de evaluación de las actividades, utilizando y combinando diferentes instrumentos de evaluación.
+
+b. Se han definido los indicadores de calidad utilizados en la evaluación del proyecto.
+
+c. Se han definido los procedimientos de evaluación de las incidencias que puedan presentarse durante la realización del proyecto, su posible solución y registro.
+
+d. Se ha definido el procedimiento de gestión de los posibles cambios en los recursos, en las actividades o en la dinámica de cargas, en el caso del entrenamiento de alto rendimiento, incluyendo el sistema de registro de los mismos.
+
+e. Se ha definido y elaborado la documentación necesaria en la evaluación de las actividades del proyecto.
+
+f. Se ha establecido el procedimiento de participación en la evaluación de los jugadores y se han elaborado los documentos específicos.
+
+g. Se ha establecido un sistema de garantía de cumplimiento del pliego de condiciones del proyecto cuando este exista.
+
+h. Se ha atendido a las consideraciones del tutor/director del proyecto durante la elaboración del mismo.
+
+i. Se ha cumplido con el seguimiento del proyecto según el procedimiento establecido por el tutor/director
+
+j. Se ha mostrado una actitud de respeto y aceptación de las aportaciones realizadas por el tutor/director, integrando de forma constructiva las valoraciones recibidas en el proyecto.
+
+4\. Presenta el proyecto, seleccionando los aspectos relevantes del mismo, justificando las decisiones tomadas y utilizando los recursos didácticos y técnicos más adecuados en cada caso.
+
+a. Se ha definido y elaborado la documentación necesaria en la presentación y comunicación del proyecto.
+
+b. Se han utilizado los recursos didácticos y técnicos más adecuados para la presentación y comunicación del proyecto, incluyendo las nuevas tecnologías, de forma coherente con los objetivos del proyecto.
+
+c. Se ha presentado el proyecto, de forma clara, sintética, incluyendo los aspectos fundamentales que debía incluir la presentación.
+
+d. Se ha utilizado bibliografía actualizada en la fundamentación del trabajo, referenciándola de forma adecuada.
+
+e. Se ha contestado de forma precisa y justificada a las cuestiones realizadas sobre las características y fundamentación del proyecto.
+
+f. Se ha justificado suficientemente el proyecto y se ha argumentado su implementación.
+
+g. Se ha ajustado en la presentación del proyecto a la estructura definida y establecida en los criterios de evaluación.
+
+h. Se ha presentado el proyecto, ajustándose a las características formales, estructura y apartados establecidos por el tribunal.
+
+i. Se han justificado en la presentación del proyecto, las relaciones existentes entre los diferentes resultados de aprendizaje adquiridos en los diferentes módulos del ciclo superior en balonmano.
+
+j. Se ha demostrado poseer una visión general del proyecto, relacionando la argumentación con la finalidad y las conclusiones del mismo.
+
+> Se numera como Anexo II.m por el art. 10.2.m) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.n — Módulo de enseñanza deportiva: Formación práctica
+
+Código: MED-BMBM309
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica la estructura organizativa y el funcionamiento del centro deportivo de prácticas, relacionándola con su oferta de actividades de alto rendimiento deportivo y las actividades de gestión del mismo, aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a. Se han fundamentado las relaciones del centro deportivo de prácticas de la Federación Española de Balonmano con las federaciones internacionales.
+
+b. Se ha categorizado la estructura organizativa y el funcionamiento de las distintas áreas del centro deportivo de prácticas.
+
+c. Se han clasificado las relaciones jerárquicas dentro del centro deportivo de prácticas.
+
+d. Se ha revisado la oferta de actividades vinculadas al alto rendimiento deportivo en balonmano.
+
+e. Se han relacionado las características del centro deportivo de prácticas con la normativa de responsabilidad de los técnicos que trabajan en el mismo.
+
+f. Se ha fundamentado la oferta de actividades orientada al alto rendimiento de balonmano en las mujeres.
+
+g. Se han reconocido los valores presentes en las actividades de balonmano del centro deportivo de prácticas.
+
+h. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+i. Se ha revisado el plan de actuación de emergencias de las instalaciones del centro deportivo de prácticas.
+
+j. Se ha identificado y analizado el Plan de Prevención de Riesgos Laborales del centro deportivo de prácticas.
+
+k. Se han revisado las condiciones laborales de los técnicos deportivos del centro deportivo de prácticas, en relación con la normativa sobre salud laboral.
+
+2\. Identifica la estructura organizativa y el funcionamiento del centro de formación de técnicos deportivos, relacionándola con su oferta formativa, analizando la normativa de aplicación, aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a. Se han fundamentado las relaciones del centro de formación de técnicos en balonmano con la administración educativa correspondiente.
+
+b. Se ha categorizado la estructura organizativa y el funcionamiento del centro de formación de técnicos deportivos.
+
+c. Se han clasificado las relaciones jerárquicas dentro del centro de formación de técnicos deportivos.
+
+d. Se ha revisado la oferta de actividades vinculadas a la formación de técnicos deportivos en la modalidad deportiva.
+
+e. Se han analizado las características del centro de formación de técnicos deportivos, y la normativa sobre la responsabilidad del profesorado.
+
+f. Se ha esquematizado la normativa educativa y curricular vigente sobre formación de técnicos deportivos de balonmano.
+
+g. Se ha colaborado en la organización de las actividades económicas del centro de trabajo.
+
+h. Se han reconocido los valores presentes en las actividades de balonmano del club o entidad deportiva.
+
+i. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+3\. Colabora en la administración del centro deportivo de prácticas, aplicando procedimientos de gestión económica y contable.
+
+a. Se ha colaborado en la organización de las actividades económicas del centro deportivo de prácticas.
+
+b. Se ha identificado la forma jurídica utilizada en la constitución del centro deportivo de prácticas, y el grado de responsabilidad legar de los propietarios y gestores.
+
+c. Se ha colaborado en los procedimientos administrativos básicos de gestión del centro deportivo de prácticas.
+
+d. Se han realizado trámites de petición de ayudas a la gestión del centro deportivo de prácticas.
+
+e. Se ha colaborado en la gestión de ayudas económicas que utiliza o puede utilizar el centro deportivo de prácticas.
+
+f. Se ha confeccionado documentación administrativa y comercial necesaria en el desarrollo de la actividad deportiva.
+
+g. Se han identificado las obligaciones y exenciones fiscales y tributarias del centro deportivo de prácticas.
+
+h. Se ha realizado la declaración de impuestos del centro deportivo de prácticas.
+
+i. Se ha tenido una actitud de respeto y cumplimiento de la normativa y los procedimientos de gestión económica del centro deportivo de prácticas.
+
+4\. Actúa con autonomía, iniciativa y responsabilidad en el puesto de trabajo, demostrando comportamiento ético, habilidades personales de comunicación, trabajo en equipo, respeto por el medio ambiente, y aplicando los procedimientos establecidos por el centro deportivo de prácticas.
+
+a. Se han identificado los requerimientos actitudinales del puesto de trabajo.
+
+b. Se han interpretado y cumplido las instrucciones recibidas y responsabilizado del trabajo asignado.
+
+c. Se ha demostrado compromiso con el trabajo bien hecho y la calidad del servicio, así como respeto a los procedimientos y principios propios del centro deportivo de prácticas.
+
+d. Se ha demostrado capacidad de trabajo en equipo y respeto a la jerarquía establecida en el centro deportivo de prácticas.
+
+e. Se ha establecido una comunicación y relación eficaz con el técnico responsable de la actividad y los miembros del equipo, manteniendo un trato fluido y correcto.
+
+f. Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante o imprevisto que se presente en la actividad.
+
+g. Se ha demostrado un comportamiento ético con los jugadores del propio equipo y los adversarios, en especial en presencia de los medios de comunicación.
+
+5\. Organiza y gestiona competiciones y eventos propios del nivel de la iniciación y la tecnificación deportiva, y colabora en los de alto rendimiento, participando en la gestión y diseño de la competición, aplicando criterios de sostenibilidad.
+
+a. Se ha propuesto la estructura y las funciones que se deben desempeñar en la organización de una competición o evento deportivo de tecnificación en balonmano.
+
+b. Se han definido y aplicado los criterios de sostenibilidad en la organización de una competición o evento deportivo de tecnificación en balonmano.
+
+c. Se han localizado y gestionado las posibles ayudas para patrocinar el deporte femenino en la modalidad de balonmano.
+
+d. Se ha gestionado la financiación de la organización de una competición o evento deportivo de tecnificación en balonmano.
+
+e. Se ha realizado la gestión y difusión de los resultados de una competición o evento deportivo de tecnificación o alto rendimiento en balonmano.
+
+f. Se ha participado en la gestión de personal y medios materiales de los diferentes áreas o comités de la organización de una competición o evento de tecnificación o alto rendimiento en balonmano.
+
+g. Se ha colaborado en la organización y realización de actos protocolarios de apertura, entrega y clausura de una competición o evento deportivo de tecnificación o alto rendimiento en balonmano.
+
+h. Se han tomado las medidas de seguridad y de atención a las emergencias en la organización de una competición o evento deportivo de tecnificación en balonmano.
+
+i. Se ha actuado de manera flexible y adaptable a las circunstancias en la organización de la competición, respetando los protocolos y directrices establecidas.
+
+j. Se han elaborado calendarios de una competición de tecnificación o alto rendimiento en balonmano.
+
+6\. Orienta a los deportistas de alto nivel, y organiza, acompaña y dirige a los deportistas en su participación en actividades, competiciones y otros eventos internacionales o de alto nivel en balonmano, aplicando la normativa relacionada.
+
+a. Se ha informado a los jugadores de alto nivel de la normativa que les afecta y los programas de ayuda que existen a nivel nacional y autonómico.
+
+b. Se ha orientado a los jugadores de alto nivel sobre las salidas profesionales de su actividad deportiva, y de la importancia de mantener una formación académica o profesional paralelas a la vida deportiva.
+
+c. Se ha revisado e informado a los jugadores de la normativa antidopaje de aplicación en las competiciones internacionales o de alto nivel en las que se participa.
+
+d. Se ha realizado la inscripción de un equipo en una competición internacional o de alto nivel en balonmano de acuerdo con los protocolos y normas establecidos.
+
+e. Se han realizado las operaciones de gestión del seguro de accidente y actividad de los miembros de un equipo de balonmano que participan en una competición internacional o de alto nivel, de acuerdo con las instrucciones y normas recibidas.
+
+f. Se ha reconocido y justificado la responsabilidad de un técnico en los desplazamientos de los equipos de balonmano para asistir a una competición internacional o de alto nivel.
+
+g. Se ha elaborado el plan de viaje de un equipo de balonmano para su participación en una competición internacional o de alto nivel, aplicando las instrucciones y procedimientos establecidos.
+
+h. Se ha informado al equipo de balonmano de las características de la competición internacional o de alto nivel, interpretando la documentación sobre la misma.
+
+i. Se han trasladado al equipo de balonmano las instrucciones técnicas y tácticas para la competición internacional o de alto nivel, teniendo en cuenta las características de la competición y del equipo.
+
+j. Se ha acompañado equipo de balonmano en las competiciones internacionales o de alto nivel, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
+
+k. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición internacional o de alto nivel en balonmano, aplicando los procedimientos adecuados y respetando las normas de la misma.
+
+l. Se han aplicado criterios de valoración de la ejecución técnico-táctica del balonmano, utilizando técnicas y procedimientos de observación adecuados para el alto rendimiento.
+
+m. Se han aplicado procedimientos de reclamación en una competición internacional o de alto rendimiento en balonmano, utilizando el idioma adecuado, aplicando los protocolos y normas establecidos.
+
+7\. Colabora en la dirección de jugadores y equipos durante la participación en actividades, competiciones y otros eventos internacionales o de alto nivel de balonmano, valorando las posibles situaciones tácticas del equipo y de sus contrincantes, las decisiones arbitrales, las características del entorno y aplicando procedimientos establecidos.
+
+a. Se ha evaluado la influencia de las condiciones ambientales y del entorno de la competición de alto nivel en balonmano.
+
+b. Se ha colaborado en la dirección del equipo en competiciones de alto rendimiento, utilizando diferentes estrategias de manera eficaz y teniendo en cuenta las características del contrincante y del entorno.
+
+c. Se ha utilizado el reglamento en la elección y aplicación de estrategias de dirección del equipo en la competición de alto nivel.
+
+d. Se ha colaborado en la evaluación de la ejecución técnico-táctica de los deportistas y el equipo, así como de sus contrincantes en la competición de alto nivel, utilizando técnicas y procedimientos de observación adecuados.
+
+e. Se ha colaborado en la realización de reclamaciones en una competición internacional o de alto nivel de balonmano, aplicando los protocolos y normas establecidos.
+
+f. Se ha valorado la importancia de la utilización de una estrategia de dirección del equipo acorde con la normativa, las características del entorno de competición y las tendencias arbitrales en la alta competición.
+
+g. Se ha colaborado en la coordinación de las actividades de los diferentes miembros del equipo técnico antes, durante y después de las competiciones de alto nivel en balonmano.
+
+h. Se ha demostrado empatía y generado credibilidad en el equipo, durante la dirección en competiciones de alto nivel de balonmano.
+
+8\. Planifica el entrenamiento a largo, medio y corto plazo de los jugadores de balonmano, interpretando la información del deportista y del entorno, coordinando el equipo de especialistas, y aplicando los modelos, procedimientos y técnicas más adecuados.
+
+a. Se ha colaborado en la elaboración del programa de detección, identificación y selección de talentos deportivos en balonmano del centro deportivo de prácticas.
+
+b. Se han aplicado criterios de detección, identificación y selección de talentos deportivos en balonmano, en el centro deportivo de prácticas.
+
+c. Se ha seleccionado e interpretado la información del jugador y del equipo del centro deportivo de prácticas y de su entorno, necesarias en la elaboración de la programación a largo plazo.
+
+d. Se ha elaborado la planificación a largo plazo de los jugadores y del equipo de acuerdo con los modelos utilizados en el centro deportivo de prácticas e identificando las dinámicas de carga de los diferentes factores de rendimiento deportivo en balonmano.
+
+e. Se han aplicado instrumentos de valoración de la condición física del jugador de alto nivel, interpretando y, en su caso, tratando la información resultante.
+
+f. Se han elaborado y aplicado instrumentos de registro del comportamiento técnico-táctico en entrenamiento y competición del jugador de alto nivel, interpretando y, en su caso, tratando la información resultante.
+
+g. Se han aplicado instrumentos de valoración del perfil psicológico del jugador y de su comportamiento durante la competición, interpretando y, en su caso, tratando la información resultante.
+
+h. Se ha elaborado la programación a medio y corto plazo de los diferentes factores de rendimiento (condicionales, técnicos, psicológicos, etc.) del balonmano, de acuerdo con la planificación del centro de prácticas y los objetivos y características del equipo.
+
+i. Se ha elaborado el programa de una concentración de preparación, adaptándola a las necesidades específicas de los jugadores y del equipo del centro de formación práctica.
+
+j. Se ha registrado, cuantificado y procesado la información sobre la carga de entrenamiento de un jugador y del equipo del centro deportivo de prácticas.
+
+k. Se han asignado objetivos y medios de trabajo al equipo de técnicos especialistas en ciencias aplicadas al deporte, dentro de la planificación y programación del entrenamiento de los jugadores y del equipo.
+
+l. Se han incorporado las aportaciones de los técnicos especialistas en ciencias aplicadas al deporte en la planificación y programación del entrenamiento de los jugadores y del equipo.
+
+m. Se ha mostrado una actitud de rigor y objetividad en la aplicación de los instrumentos de valoración utilizados.
+
+9\. Organiza y dirige el entrenamiento de los jugadores y del equipo de alto nivel, coordinando equipos de técnicos especialistas, aplicando los medios y métodos específicos de entrenamiento de cada uno de los factores de rendimiento en balonmano, y aplicando las nuevas tecnologías al registro del entrenamiento y la competición.
+
+a. Se ha generado credibilidad en el equipo de técnicos especialistas que colaboran con el técnico en el centro deportivo de prácticas.
+
+b. Se gestionado el equipo de técnicos especialistas, demostrando liderazgo y potenciando la comunicación entre el equipo del centro deportivo de prácticas y el técnico.
+
+c. Se han aplicado medios y métodos de entrenamiento de los factores de rendimiento, y elegido las tareas de acuerdo con la programación del centro deportivo de prácticas.
+
+d. Se ha dirigido la sesión teniendo en cuenta la variedad e integración de los diferentes medios y métodos de entrenamiento, de acuerdo con la programación del centro deportivo de prácticas.
+
+e. Se han identificado y solucionado las contingencias que hayan surgido durante la sesión de entrenamiento del equipo.
+
+f. Se ha adaptado el trabajo de la sesión a las condiciones reales del equipo.
+
+g. Se han tenido en cuenta las lesiones más frecuentes en balonmano y sus medidas preventivas, en la dirección de la sesión de entrenamiento.
+
+h. Se han elaborado y aplicado instrumentos de registro audiovisual del comportamiento técnico-táctico: en entrenamiento y competición, del jugador y del equipo de alto nivel, interpretando y, en su caso, editando los registros realizados.
+
+i. Se han utilizado durante la sesión de entrenamiento del equipo los registros audiovisuales del entrenamiento o la competición.
+
+j. Se ha colaborado en la organización y dirección de una concentración de preparación, seleccionando los medios y la logística adecuados a la situación del centro deportivo de prácticas.
+
+k. Se ha mantenido una actitud motivadora y empática con los jugadores y el equipo durante la dirección de la concentración de preparación o la sesión de entrenamiento.
+
+10\. Colabora en el establecimiento de las ayudas ergogénicas y de los planes de trabajo complementario del jugador lesionado, aplicando los medios, métodos y procedimientos establecidos.
+
+a. Se ha programado el trabajo complementario de un jugador lesionado, teniendo en cuenta la programación del centro deportivo de prácticas.
+
+b. Se han valorado las pautas alimentarias de los jugadores del centro deportivo de prácticas.
+
+c. Se han propuestos medidas de formación sobre alimentación deportiva a los jugadores del centro deportivo de prácticas.
+
+d. Se ha identificado las manifestaciones de fatiga durante el entrenamiento y la competición del jugador del centro deportivo de prácticas.
+
+e. Se han propuesto y aplicado medidas de recuperación de la fatiga de acuerdo con las posibilidades del centro deportivo de prácticas.
+
+f. Se ha colaborado en la prescripción y administración de ayudas ergogénicas a los jugadores del centro deportivo de prácticas.
+
+g. Se ha informado al jugador de los riesgos y consecuencias en la salud, del uso de sustancias dopantes.
+
+h. Se ha mostrado una actitud de juego limpio y respeto por la salud del jugador en especial en lo referido al uso de sustancias dopantes.
+
+11\. Participa en la formación de técnicos deportivos, revisando a la organización académica y curricular del centro, impartiendo clases y colaborando en la tutorización de los módulos de Formación Práctica y Proyecto Final.
+
+a. Se han identificado el tipo de centro docente de prácticas, el tipo de vinculación con la administración y la normativa que les es de aplicación a efectos de organización y funcionamiento.
+
+b. Se han identificado las responsabilidades del profesor especialista en balonmano y del técnico deportivo superior en balonmano, en la formación de los técnicos en la modalidad.
+
+c. Se han concretado los elementos de la programación didáctica de un módulo del bloque específico, atendiendo a su normativa de ordenación, a las características del alumnado, y el contexto del centro docente de prácticas.
+
+d. Se ha diseñado y colaborado en la realización de una presentación de tareas y contenidos, atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características del alumnado del centro docente de prácticas.
+
+e. Se ha colaborado en el diseño y dirección de una sesión de trabajo práctico o procedimental, atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características de los alumnos del centro docente de prácticas.
+
+f. Se ha participado en el proceso de evaluación de los alumnos del centro docente de prácticas.
+
+g. Se ha tenido en cuenta la aplicación efectiva del principio de igualdad de oportunidades entre mujeres y hombres a la hora de seleccionar los recursos didácticos en la docencia del módulo específico de enseñanzas deportivas en balonmano.
+
+h. Se han previsto y preparado de antemano recursos didácticos alternativos frente a posibles incidencias, incluyendo la atención a personas con discapacidad, en la dirección de la sesión del módulo específico de enseñanzas deportivas en balonmano.
+
+i. Se han identificado las condiciones de seguimiento y tutorización de los distintos módulos del bloque específico de los ciclos inicial y final de grado medio en balonmano, presenciales y a distancia, establecidos en el centro docente de prácticas.
+
+j. Se ha participado en el establecimiento de contactos y convenios con las entidades colaboradoras en el módulo de formación práctica en el centro docente de prácticas.
+
+k. Se han utilizado aplicaciones informáticas específicas en supuestos de gestión y seguimiento del módulo de formación práctica en el centro docente de prácticas.
+
+l. Se ha colaborado en la elaboración de informes de evaluación del módulo de formación práctica
+
+m. Se ha participado en el asesoramiento y control de entrevistas y tutorías personalizadas en la dirección de proyectos dentro del centro docente de prácticas.
+
+12\. Colabora en la dirección de la evaluación del propio equipo de balonmano de alto rendimiento y del análisis del rival, utilizando recursos tecnológicos avanzados y elaborando informes adecuados para el alto rendimiento. Participa en la formación de técnicos deportivos, revisando a la organización académica y curricular del centro, impartiendo clases y colaborando en la tutorización de los módulos de Formación Práctica y Proyecto Final.
+
+a. Se han interpretado situaciones tácticas presentes en la competición de alto rendimiento, a partir de un vídeo o a tiempo real.
+
+b. Se han utilizado recursos tecnológicos avanzados para el logro de información relevante para la mejora del rendimiento del equipo o del jugador de balonmano del centro deportivo de prácticas.
+
+c. Se han confeccionado pautas y protocolos de observación para equipos de alto rendimiento de balonmano del centro deportivo de prácticas.
+
+d. Se han elaborado herramientas para el registro de información específica extraída a partir de la toma de datos de jugadores o equipos balonmano del centro deportivo de prácticas.
+
+e. Se ha coordinado el trabajo del equipo técnico en el análisis de la competición de balonmano del centro deportivo de prácticas.
+
+f. Se han elaborado informes de análisis de la competición para equipos de alto rendimiento en balonmano.
+
+g. Se han identificado tecnologías avanzadas de observación propias del balonmano.
+
+h. Se ha mostrado una actitud de atención en las actuaciones de análisis de la competición con un equipo de alto rendimiento del centro deportivo de prácticas.
+
+13\. Participa en la construcción de un equipo, ayudando a seleccionar jugadores, valorando y clasificando sus habilidades y capacidades, de acuerdo con la competición de alto nivel. Colabora en la dirección de la evaluación del propio equipo de balonmano de alto rendimiento y del análisis del rival, utilizando recursos tecnológicos avanzados y elaborando informes adecuados para el alto rendimiento. Participa en la formación de técnicos deportivos, revisando a la organización académica y curricular del centro, impartiendo clases y colaborando en la tutorización de los módulos de Formación Práctica y Proyecto Final.
+
+a. Se han revisado informes de jugadores elaborados por técnicos analistas del centro deportivo de prácticas.
+
+b. Se han confeccionado informes de jugadores de equipos de alto rendimiento de balonmano.
+
+c. Se han valorado las habilidades técnicas ofensivas y defensivas de los jugadores del centro deportivo de prácticas.
+
+d. Se han valorado las capacidades competitivas, físicas, psicológicas y de juego de los jugadores del centro deportivo de prácticas.
+
+e. Se ha clasificado a los jugadores, comparando sus características con los perfiles propios de los jugadores de alto nivel en balonmano.
+
+f. Se ha propuesto la incorporación de jugadores de balonmano a los equipos del centro deportivo de prácticas en función del proyecto deportivo del mismo y las exigencias de la competición.
+
+g. Se han establecido criterios para la selección equilibrada de jugadores para los equipos de alto rendimiento del centro deportivo de prácticas.
+
+h. Se ha mostrado una actitud de escucha y consenso en la selección de jugadores con los responsables (técnicos y directivos) de los equipos de alto nivel de los centros deportivos de prácticas.
+
+i. Se ha fundamentado la selección de jugadores en función del análisis realizado de la competición de balonmano de alto rendimiento donde competirá́ el equipo del centro deportivo de prácticas.
+
+14\. Colabora con la dirección técnica de un centro deportivo de prácticas, participando en las orientaciones que reciben los técnicos deportivos del mismo, y ayudando en la elaboración de las programaciones de referencia para sus jugadores y equipos.
+
+a. Se han diseñado programaciones de referencia para los equipos de categorías inferiores del centro deportivo de prácticas.
+
+b. Se han revisado los programas de referencia existentes en el centro deportivo de prácticas.
+
+c. Se han relacionado las necesidades detectadas en los jugadores y equipos de balonmano del centro deportivo de prácticas, y las propuestas ofrecidas por la programación de referencia.
+
+d. Se ha esquematizado la continuidad de las programaciones de referencia para los jugadores y equipos de balonmano del centro deportivo de prácticas.
+
+e. Se han confeccionado criterios de evaluación adecuados para poder obtener información del desarrollo y rendimiento de los jugadores y equipos del centro deportivo de prácticas.
+
+f. Se ha interpretado la información obtenida por las herramientas de evaluación utilizadas para poder mejorar la dirección técnica del centro deportivo de prácticas.
+
+g. Se han gestionado los recursos necesarios para el correcto desarrollo de las programaciones de referencia y de la formación de los técnicos.
+
+h. Se ha coordinado el trabajo de los técnicos de los distintos equipos de balonmano del centro deportivo de prácticas.
+
+i. Se ha ayudado a los técnicos de balonmano del centro de formación de prácticas en su formación continua.
+
+j. Se han explicado a los técnicos, métodos adecuados para la enseñanza del balonmano en el centro deportivo de prácticas.
+
+k. Se ha demostrado una actitud de trabajo cooperativo y de escucha en el trato con los técnicos del centro deportivo de prácticas.
+
+l. Se han demostrado dotes de liderazgo en el trabajo con los técnicos de los equipos del centro deportivo de prácticas.
+
+> Se numera como Anexo II.n por el art. 10.2.n) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO III — Ratio profesor/alumno
+
+| Bloque específico ciclo de grado superior | Ratio profesor/alumno |
+|---|---|
+| MED-BMBM 301 Metodología para el alto rendimiento en balonmano. | 1/30 |
+| MED-BMBM 302 Formación técnico táctica individual en alto rendimiento en balonmano. | 1/30 |
+| MED-BMBM 303 Juego colectivo ofensivo en alto rendimiento en balonmano. | 1/30 |
+| MED-BMBM 304 Juego colectivo defensivo en alto rendimiento en balonmano. | 1/30 |
+| MED-BMBM 305 Dirección deportiva en alto rendimiento. | 1/30 |
+| MED-BMBM 306 Dirección de equipo en alto rendimiento. | 1/30 |
+| MED-BMBM 307 Preparación física en el alto rendimiento en balonmano. | 1/30 |
+| MED-BMBM 308 Proyecto final. | 1/30 |
+| MED-BMBM 309 Formación práctica. | 1/30 |
+
+## ANEXO IV — Acceso módulo formación práctica
+
+| Acceso módulo formación práctica | Módulos a superar |
+|---|---|
+| MED-BMBM 309 Formación práctica. | Del bloque común.<br>– MED-C301. Factores fisiológicos del alto rendimiento.<br>– MED-C303. Formación de formadores deportivos.<br>Del bloque específico<br>– MED-BMBM 301 Metodología para el alto rendimiento en balonmano.<br>– MED-BMBM 302 Formación técnico táctica individual en alto rendimiento en balonmano.<br>– MED-BMBM 303 Juego colectivo ofensivo en alto rendimiento en balonmano.<br>– MED-BMBM 304 Juego colectivo defensivo en alto rendimiento en balonmano.<br>– MED-BMBM 305 Dirección deportiva en alto rendimiento.<br>– MED-BMBM 306 Dirección de equipo en alto rendimiento.<br>– MED-BMBM 307 Preparación física en el alto rendimiento en balonmano. |
+
+## ANEXO V — Espacios y equipamientos mínimos del ciclo de grado superior
+
+| Espacio formativo | Superficie m<sup>2</sup><br>30 alumnos | Superficie m<sup>2</sup><br>20 alumnos | Módulo de enseñanza deportiva |
+|---|---|---|---|
+| Aula polivalente. | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
+| Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común.<br>MED-BMBM 301 Metodología para el alto rendimiento en balonmano.<br>MED-BMBM 307 Preparación física en el alto rendimiento en balonmano. |
+
+| Espacio formativo | Módulo de enseñanza deportiva |
+|---|---|
+| – Pista de balonmano. | MED-BMBM 301 Metodología para el alto rendimiento en balonmano.<br>MED-BMBM 302 Formación técnico táctica individual en alto rendimiento en balonmano.<br>MED-BMBM 303 Juego colectivo ofensivo en alto rendimiento en balonmano.<br>MED-BMBM 304 Juego colectivo defensivo en alto rendimiento en balonmano.<br>MED-BMBM 306 Dirección de equipo en alto rendimiento.<br>MED-BMBM 307 Preparación física en el alto rendimiento en balonmano. |
+
+Equipamientos: ciclos de grado superior
+
+| Equipamiento del aula polivalente | Módulo de enseñanza deportiva |
+|---|---|
+| Equipos audiovisuales. Cañón de proyección.<br>PC instalados en red con conexión a Internet.<br>Software específico. | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
+
+| Equipamiento del gimnasio | Módulo de enseñanza deportiva |
+|---|---|
+| – Balones medicinales (3kg, 4kg, 5kg).<br>– Colchonetas.<br>– Mancuernas de diferentes pesos.<br>– Barras de levantamientos.<br>– Discos (diversos pesos).<br>– Bancos para ejercicios de musculación: horizontal, inclinado y/o reclinable.<br>– Balones inflables 65cm.<br>– Gomas elásticas.<br>– Espalderas.<br>– Bancos suecos. | MED-BMBM 301 Metodología para el alto rendimiento en balonmano.<br>MED-BMBM 307 Preparación física en el alto rendimiento en balonmano. |
+
+| Equipamiento de los módulos del bloque específico | Módulo de enseñanza deportiva |
+|---|---|
+| – Porterías de balonmano.<br>– Balones de balonmano.<br>– Material señalizador. | MED-BMBM 301 Metodología para el alto rendimiento en balonmano.<br>MED-BMBM 302 Formación técnico táctica individual en alto rendimiento en balonmano.<br>MED-BMBM 303 Juego colectivo ofensivo en alto rendimiento en balonmano.<br>MED-BMBM 304 Juego colectivo defensivo en alto rendimiento en balonmano.<br>MED-BMBM 306 Dirección de equipo en alto rendimiento.<br>MED-BMBM 307 Preparación física en el alto rendimiento en balonmano. |
+
+## ANEXO VI — Requisitos del profesorado de los módulos del bloque común del ciclo de grado superior, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad que a continuación se detalla:
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<p class="cabeza_tabla">Ciclo de Grado Superior</p>
+</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C301 Factores fisiológicos del alto rendimiento.</td>
+<td class="cuerpo_tabla_izq">– Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">MED-C302 Factores Psicosociales del alto rendimiento.</p>
+<p class="cuerpo_tabla_izq">MED-C303 Formación de formadores deportivos.</p>
+</td>
+<td class="cuerpo_tabla_izq">– Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">– Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C304 Organización y gestión aplicada al alto rendimiento.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Educación física.</p>
+<p class="cuerpo_tabla_izq">– Formación y organización laboral.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO VII A — Requisitos de titulación del profesorado de los módulos del bloque específico del ciclo de grado superior, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
+
+<table class="tabla_ancha" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<p class="cabeza_tabla">Ciclo de Grado Superior</p>
+</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">MED-BMBM 301 Metodología para el alto rendimiento en balonmano.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM 302 Formación técnico táctica individual en alto rendimiento en balonmano.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM 303 Juego colectivo ofensivo en alto rendimiento en balonmano.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM 304 Juego colectivo defensivo en alto rendimiento en balonmano.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM 305 Dirección deportiva en alto rendimiento.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM 306 Dirección de equipo en alto rendimiento.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM 307 Preparación física en el alto rendimiento en balonmano.</p>
+</td>
+<td class="cuerpo_tabla_izq">– Educación Física con el título de Técnico Deportivo Superior en Balonmano.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">– Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">MED-BMBM 308 Proyecto final.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM 309 Formación práctica.</p>
+</td>
+<td class="cuerpo_tabla_izq">– Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">– Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO VII B — Condición de Profesor especialista en centros públicos de la administración educativa: Acreditación de experiencia docente, o actividad en el ámbito deportivo y laboral
+
+| Módulos enseñanza deportiva | Experiencia docente acreditable | Actividad en el ámbito deportivo y laboral |
+|---|---|---|
+| MED-BMBM 301 Metodología para el alto rendimiento en balonmano.<br>MED-BMBM 302 Formación técnico táctica individual en alto rendimiento en balonmano.<br>MED-BMBM 303 Juego colectivo ofensivo en alto rendimiento en balonmano.<br>MED-BMBM 304 Juego colectivo defensivo en alto rendimiento en balonmano.<br>MED-BMBM 305 Dirección deportiva en alto rendimiento.<br>MED-BMBM 306 Dirección de equipo en alto rendimiento.<br>MED-BMBM 307 Preparación física en el alto rendimiento en balonmano.<br>MED-BMBM 308 Proyecto final.<br>MED-BMBM 309 Formación práctica. | Cualquiera de las siguientes opciones:<br>– Al menos 100 horas de docencia acreditada en formación de entrenadores en el nivel 3 de la modalidad o especialidad deportiva correspondiente en las formaciones a las que se refiere la disposición adicional quinta y la disposición transitoria primera y del Real Decreto 1363/2007, de 24 de octubre, así como de la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre.<br>– Al menos 75 horas de docencia acreditada en la formación de los técnicos deportivos superiores en balonmano, regulada por el Real Decreto 361/2004, de 5 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Balonmano, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas. | Al menos 4 años de ejercicio deportivo laboral relacionado con las competencias profesionales del ciclo superior correspondiente, realizado en los 6 años inmediatamente anteriores al nombramiento. |
+
+En el caso de las formación a las que se refiere la adicional quinta del RD 1363/2007, de 24 de octubre, la Real Federación Española de Balonmano, emitirá la correspondiente certificación de la experiencia docente en la que conste: las materias impartidas, el número de horas impartidas, la fecha del curso en el que se impartió la materia o materias, y la fecha de la resolución de reconocimiento de la formación por parte del Consejo Superior de Deportes junto con la fecha de publicación en el BOE.
+
+En el caso de las formaciones a las que se refiere la disposición transitoria primera de los Real Decreto 1913/1997, de 19 de diciembre y Real Decreto 1363/2007, de 24 de octubre el órgano competente de la Comunidad autónoma que autorizó las formaciones emitirá la correspondiente certificación de la experiencia docente en la que consten las materias y el número de horas impartidas.
+
+En el caso de las formaciones a las que se refiere el Real Decreto 361/2004, de 5 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Balonmano, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas, la correspondiente Administración educativa emitirá la certificación de la experiencia docente en la que consten los módulos y el número de horas impartidas.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+La Real Federación Española de Balonmano emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+## ANEXO VIII — Requisitos de titulación del profesorado en centros privados y de titularidad pública de administraciones distintas a la educativa
+
+Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
+
+| Módulos comunes de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED-C301 Factores fisiológicos del alto rendimiento. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>– Licenciado o Graduado en Medicina. |
+| MED-C302 Factores Psicosociales del alto rendimiento. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>– Licenciado o Graduado en Psicología. |
+| MED-C303 Formación de formadores deportivos. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
+| MED-C304 Organización y gestión aplicada al alto rendimiento. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>– Licenciado o Graduado en Derecho. |
+
+| Módulo específico de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED-BMBM 301 Metodología para el alto rendimiento en balonmano.<br>MED-BMBM 302 Formación técnico táctica individual en alto rendimiento en balonmano.<br>MED-BMBM 303 Juego colectivo ofensivo en alto rendimiento en balonmano.<br>MED-BMBM 304 Juego colectivo defensivo en alto rendimiento en balonmano.<br>MED-BMBM 305 Dirección deportiva en alto rendimiento.<br>MED-BMBM 306 Dirección de equipo en alto rendimiento.<br>MED-BMBM 307 Preparación física en el alto rendimiento en balonmano.<br>MED-BMBM 308 Proyecto final.<br>MED-BMBM 309 Formación práctica. | – Técnico Deportivo Superior en Balonmano. |
+| MED-BMBM 308 Proyecto final.<br>MED-BMBM 309 Formación práctica. | – Técnico Deportivo Superior en Balonmano.<br>– Grado en Ciencias de la Actividad Física y el Deporte. |
+
+## ANEXO IX — Convalidaciones entre módulos de enseñanza deportiva establecidos al amparo de la Ley Orgánica 1/1990 y los módulos de enseñanza deportiva del bloque específico del ciclo de grado superior en balonmano regulado en el presente real decreto
+
+La superación de los módulos de la primera columna regulados en el RD 361/2004, de 5 de marzo, conllevan la convalidación de los módulos de enseñanza deportiva de la segunda columna.
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulos superados del título de grado superior de Técnico Deportivo Superior en Balonmano LOGSE (Real Decreto 318/2000, de 3 de marzo)</th>
+<th class="cabeza_tabla">Módulos convalidados del ciclo de grado superior en balonmano</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Metodología del entrenamiento del balonmano.</td>
+<td class="cuerpo_tabla_izq">MED-BMBM 301 Metodología para el alto rendimiento en balonmano.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Formación técnica y táctica individual del balonmano III.</p>
+<p class="cuerpo_tabla_izq">Reglas del juego III.</p>
+</td>
+<td class="cuerpo_tabla_izq">MED-BMBM 302 Formación técnico táctica individual en alto rendimiento en balonmano.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">Juego colectivo ofensivo y defensivo II.</td>
+<td class="cuerpo_tabla_izq">MED-BMBM 303 Juego colectivo ofensivo en alto rendimiento en balonmano.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-BMBM 304 Juego colectivo defensivo en alto rendimiento en balonmano.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Desarrollo profesional III.</td>
+<td class="cuerpo_tabla_izq">MED-BMBM 305 Dirección deportiva en alto rendimiento.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Dirección de equipos.</td>
+<td class="cuerpo_tabla_izq">MED-BMBM 306 Dirección de equipo en alto rendimiento.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Preparación física específica II.</p>
+<p class="cuerpo_tabla_izq">Seguridad en balonmano II.</p>
+</td>
+<td class="cuerpo_tabla_izq">MED-BMBM 307 Preparación física en el alto rendimiento en balonmano.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Proyecto final.</td>
+<td class="cuerpo_tabla_izq">MED-BMBM 308 Proyecto final.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Formación práctica.</td>
+<td class="cuerpo_tabla_izq">MED-BMBM 309 Formación práctica.</td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO X — Exención total o parcial del módulo de formación práctica del ciclo de grado superior
+
+| MED-BMBM309 Formación práctica | Experiencia ámbito laboral o deportivo |
+|---|---|
+| Exención total.<br>Exención parcial. | Duración: Superior a 500 horas.<br>Actividad desarrollada: Experiencia relacionada con la competencia general del ciclo de grado superior en balonmano.<br>Periodo de tiempo que ha desarrollado la actividad: Tres años anteriores a la finalización del curso. |
+
+La exención parcial del módulo de formación práctica, se concederá para aquellos resultados de aprendizaje del módulo, que sean concordantes con la experiencia laboral o deportiva acreditada.
+
+La exención total del módulo de formación práctica, se podrá conceder cuando exista una completa concordancia de la experiencia laboral o deportiva acreditada con la totalidad de los resultados de aprendizaje del correspondiente módulo.
+
+La experiencia deportiva se acreditará mediante certificado expedido por la Real Federación Española de Balonmano, en la que consten los rendimientos obtenidos, la competición o eventos en los que se obtuvieron, y el periodo de tiempo durante el que se mantuvieron.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+## ANEXO XI — Formación a distancia
+
+|  | Grado superior |
+|---|---|
+| Módulos bloque común. | MED-C301 Factores fisiológicos del alto rendimiento.<br>MED-C302 Factores Psicosociales del alto rendimiento.<br>MED-C303 Formación de formadores deportivos.<br>MED-C304 Organización y gestión aplicada al alto rendimiento. |
+| Módulos bloque específico. | MED-BMBM 301 Metodología para el alto rendimiento en balonmano.<br>MED-BMBM 302 Formación técnico táctica individual en alto rendimiento en balonmano.<br>MED-BMBM 303 Juego colectivo ofensivo en alto rendimiento en balonmano.<br>MED-BMBM 304 Juego colectivo defensivo en alto rendimiento en balonmano.<br>MED-BMBM 305 Dirección deportiva en alto rendimiento.<br>MED-BMBM 306 Dirección de equipo en alto rendimiento.<br>MED-BMBM 307 Preparación física en el alto rendimiento en balonmano.<br>MED-BMBM 308 Proyecto final. |

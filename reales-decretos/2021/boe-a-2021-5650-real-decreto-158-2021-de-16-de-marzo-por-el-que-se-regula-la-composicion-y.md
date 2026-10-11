@@ -1,0 +1,321 @@
+---
+title: "Real Decreto 158/2021, de 16 de marzo, por el que se regula la composición y funciones del Consejo Asesor para la Promoción Estratégica y Comercial de Canarias"
+identifier: "BOE-A-2021-5650"
+eli: "https://www.boe.es/eli/es/rd/2021/03/16/158"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Comercio y Turismo"
+date: 2021-03-16
+published: 2021-04-10
+in_force_from: 2021-04-11
+last_amended: 2026-02-12
+consolidated: 2026-02-12
+gazette: "Boletín Oficial del Estado núm. 86"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2021-5650"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 158/2021, de 16 de marzo, por el que se regula la composición y funciones del Consejo Asesor para la Promoción Estratégica y Comercial de Canarias
+
+La Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, creó en su artículo 18.2, con sede en Canarias, el Consejo Asesor para la Promoción del Comercio con África Occidental (CAPCAO), con el objetivo de fomentar las relaciones comerciales con los países africanos de esta zona.
+
+En el Real Decreto 417/1996, de 1 de marzo, se regulan la composición y funciones del Consejo Asesor para la Promoción del Comercio con África Occidental.
+
+En nuestro ordenamiento, la Ley 8/2018, de 5 de noviembre, por la que se modifica la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, comprende un conjunto de medidas económicas destinadas a potenciar la cohesión económica, social y territorial del archipiélago y la competitividad de sus sectores estratégicos. Por otro lado, se han realizado profundos cambios estructurales en la economía española e internacional y la condición de región ultraperiférica de Canarias en la Unión Europea, a través de la promoción de las islas como plataforma atlántica y la posibilidad de establecer Zonas Francas en todo su territorio.
+
+En particular, se dispone la creación, con sede en Canarias, del Consejo Asesor para la Promoción Estratégica y Comercial de Canarias (CAPECC) el cual, sustituye y actualiza al antiguo CAPCAO, ampliando su estrategia con nuevos enfoques dirigidos al fomento de la internacionalización de la económica canaria en un marco geográfico de actuación más amplio. En esta línea, la Administración General del Estado y la Comunidad Autónoma de Canarias potenciarán su colaboración a efectos de definir y alcanzar objetivos comunes en el marco de política comercial de promoción de la internacionalización de la economía española.
+
+En la legislación citada se establece que la composición y funciones de este Consejo se desarrollarán mediante norma reglamentaria.
+
+De acuerdo con lo dispuesto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, este real decreto se adecua a los principios de buena regulación.
+
+En cuanto a su necesidad y eficacia, la presente norma está justificada en razones de interés general ya que se orienta al cumplimiento de los objetivos de internacionalización de la economía canaria, estableciendo mecanismos de colaboración y cooperación entre las diferentes Administraciones públicas y las empresas privadas dentro del marco constitucional competencial, mejorando la eficacia en la actuación de cada uno de las partes intervinientes.
+
+Respecto al principio de proporcionalidad, la iniciativa normativa no restringe ningún derecho ni impone cargas administrativas ni presupuestarias. Por otro lado, se instrumentan mecanismos que permiten a organismos, destinatarios y usuarios finales el conocimiento de todas las decisiones que se adopten por el CAPECC a través de la memoria anual, las actas de reuniones y la divulgación de las mismas, garantizando el principio de seguridad jurídica y la adecuación de la norma al resto del ordenamiento jurídico.
+
+La aplicación del principio de transparencia queda garantizada mediante la definición clara de los objetivos de esta iniciativa, asimismo, se ha dado cumplimiento a este principio con la participación en la elaboración de la norma de la Comunidad Autónoma de Canarias.
+
+El real decreto se dicta al amparo de la competencia exclusiva del Estado atribuida por el artículo 149.1.10.ª y 18.ª de la Constitución Española sobre las bases del régimen aduanero y arancelario y comercio exterior y, las bases del régimen jurídico de la Administraciones públicas, respectivamente; tal y como recoge la disposición final primera.
+
+Asimismo, y de acuerdo con el artículo 25 de la Ley 50/1997, de 27 de noviembre, del Gobierno, el real decreto se encuentra incluido en el Plan Anual Normativo de la Administración General del Estado 2020.
+
+En su virtud, a propuesta de la Ministra de Industria, Comercio y Turismo, con la aprobación previa de la Ministra de Política Territorial y Función Pública, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 16 de marzo de 2021,
+
+DISPONGO:
+
+## Artículo 1. Objeto y fines.
+
+El objeto de este real decreto es regular la composición y funciones del Consejo Asesor para la Promoción Estratégica y Comercial de Canarias (en adelante, CAPECC).
+
+Sus fines son el apoyo y asesoramiento para el fomento de la internacionalización de la economía canaria.
+
+## Artículo 2. Naturaleza jurídica y adscripción.
+
+El CAPECC es un órgano colegiado de naturaleza administrativa y se rige por lo dispuesto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y en la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, y en el presente real decreto.
+
+Se adscribe al Ministerio de Economía, Comercio y Empresa a través de la Secretaría de Estado de Comercio.
+
+> Se modifica por el art. único.1 del Real Decreto 89/2026, de 11 de febrero. [Ref. BOE-A-2026-3214](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3214)
+
+## Artículo 3. Principios rectores del CAPECC.
+
+El CAPECC persigue su objeto conforme a los principios de eficiencia, transparencia y buen gobierno, para lo cual promoverá las buenas prácticas y códigos de conducta, con lealtad institucional y respeto al orden de distribución de competencias establecido en la Constitución Española.
+
+## Artículo 4. Composición del CAPECC.
+
+El CAPECC estará integrado por los siguientes miembros:
+
+a) Presidencia: la persona titular de la Secretaría de Estado de Comercio, cuyo voto tendrá carácter dirimente.
+
+b) Vicepresidencia primera: la persona titular de la Consejería de Economía, Industria, Comercio y Autónomos del Gobierno de Canarias.
+
+c) Vicepresidencia segunda: la persona titular de la Delegación del Gobierno en la Comunidad Autónoma de Canarias.
+
+d) Vicepresidencia tercera: la persona titular de la Consejería de Turismo y Empleo del Gobierno de Canarias.
+
+e) Vicepresidencia cuarta: la persona titular de la Consejería de Hacienda y Relaciones con la Unión Europea del Gobierno de Canarias.
+
+f) Vicepresidencia quinta: la persona titular de la Presidencia del Consorcio de la Zona Especial Canaria.
+
+g) Vocalías:
+
+1.º La persona titular de la Dirección General de Inteligencia Económica y Comercial del Ministerio de Economía, Comercio y Empresa.
+
+2.º La persona titular de la Secretaría General Técnica del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+
+3.º La persona titular de la Consejería Delegada de la Entidad Pública Empresarial ICEX, España Exportación e Inversiones (ICEX).
+
+4.º La persona titular de la Dirección General de Política Económica del Ministerio de Economía, Comercio y Empresa.
+
+5.º La persona titular de la Dirección General de Asuntos Económicos con África del Gobierno de Canarias.
+
+6.º La persona titular de la Viceconsejería de Economía e Internacionalización del Gobierno de Canarias.
+
+7.º Las personas titulares de los Cabildos Insulares de Fuerteventura, la Palma, Lanzarote, el Hierro, Gran Canaria, Tenerife y la Gomera.
+
+8.º Una persona representante del Ministerio de Transportes y Movilidad Sostenible con rango de Director General.
+
+9.º La persona titular de la Dirección General del Instituto de Turismo de España (TURESPAÑA, O.A.).
+
+10.º La persona que ostente la Presidencia de la Sociedad Mercantil Estatal para la Gestión de la Innovación y las Tecnologías Turísticas, SA, M.P. (SEGITTUR).
+
+11.º La persona que ostente la Dirección General del Consorcio Casa África.
+
+12.º Una persona representante del Ministerio de Hacienda con rango de Director General, nombrada por la persona titular de la Secretaría de Estado de Hacienda.
+
+13.º Las personas que asuman la Presidencia de las Cámaras Oficiales de Comercio, Industria, Servicios y Navegación de Gran Canaria, de Santa Cruz de Tenerife, de Lanzarote y de Fuerteventura.
+
+14.º La persona titular de la Consejería Delegada de la Sociedad Canaria de Fomento Económico, SA. (PROEXCA).
+
+15.º Delegados Especiales del Estado en los Consorcios de las Zonas Francas de Gran Canaria y de Santa Cruz de Tenerife.
+
+16.º Las personas titulares de las Direcciones Territoriales de Comercio de las Palmas y de Santa Cruz de Tenerife.
+
+En la designación de las vocalías se respetará el principio de presencia equilibrada, de conformidad con lo dispuesto en el artículo 54 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+> Se modifica por el art. único.2 del Real Decreto 89/2026, de 11 de febrero. [Ref. BOE-A-2026-3214](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3214)
+
+## Artículo 5. Comité Ejecutivo.
+
+1\. Adscrito al CAPECC se crea un Comité Ejecutivo cuyo objeto será el apoyo mediante el seguimiento e impulso de las acciones necesarias para materializar los acuerdos adoptados y el ejercicio de las funciones que éste le asigne.
+
+2\. Su composición es la siguiente:
+
+a) Presidencia: la persona titular de la Dirección General de Inteligencia Económica y Comercial del Ministerio de Economía, Comercio y Empresa.
+
+b) Vocalías:
+
+1.º La persona titular de la Dirección General de Asuntos Económicos con África del Gobierno de Canarias.
+
+2.º La persona titular de la Viceconsejería de Economía e Internacionalización del Gobierno de Canarias.
+
+3.º Una persona en representación de la Consejería de Turismo y Empleo del Gobierno de Canarias con rango de Director General designada por la persona titular de dicha Consejería atendiendo a méritos profesionales.
+
+4.º Representantes de los Cabildos Insulares de Fuerteventura, la Palma, Lanzarote, el Hierro, Gran Canaria, Tenerife y la Gomera con rango de Director General, designados por la persona titular de dichos Cabildos atendiendo a méritos profesionales.
+
+5.º Una persona en representación de PROEXCA con rango de Director, designada por la persona titular de dicho organismo atendiendo a méritos profesionales.
+
+6.º Una persona en representación del Consorcio de la Zona Especial Canaria con rango de Director General, designada por la persona titular de dicho Consorcio atendiendo a méritos profesionales.
+
+7.º Una persona en representación de las Cámaras Oficiales de Comercio, Industria, Servicios y Navegación de Gran Canaria, Santa Cruz de Tenerife, Fuerteventura y Lanzarote con rango de Director General, designada por la persona titular de dichas Cámaras atendiendo a méritos profesionales.
+
+8.º Una persona en representación de ICEX, E.P.E. con rango de Director General, designada por la persona titular de dicho organismo atendiendo a méritos profesionales.
+
+9.º Una persona en representación del Consorcio Casa África con rango de Director General, designada por la persona titular de dicho Consorcio atendiendo a méritos profesionales.
+
+10.º Una persona en representación de TURESPAÑA, O.A. con rango de Director General, designada por la persona titular de dicho organismo atendiendo a méritos profesionales.
+
+11.º Una persona en representación de SEGITTUR, S.M.E. con rango de Director General, designada por la persona titular de dicho organismo atendiendo a méritos profesionales.
+
+12.º La persona que asuma la Delegación Especial del Estado en el Consorcio de la Zona Franca de Gran Canaria y la persona que asuma la Delegación Especial del Estado en el Consorcio de la Zona Franca de Santa Cruz de Tenerife.
+
+13.º Una persona en representación de la Dirección Territorial de Comercio de Las Palmas y otra de la Dirección Territorial de Comercio de Santa Cruz de Tenerife con rango de Director General, designadas ambas por la persona titular de dichas Direcciones atendiendo a méritos profesionales.
+
+14.º La persona titular de la Subdirección de Relaciones Institucionales y de Colaboración con las Comunidades Autónomas, del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+
+3\. En la designación de las vocalías del Comité Ejecutivo se respetará el principio de presencia equilibrada, de conformidad con lo dispuesto en el artículo 54 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+4\. A las reuniones del Comité Ejecutivo podrán asistir con voz, pero sin voto, aquellas personas vinculadas a la internacionalización de la economía canaria que sean invitadas por su Presidencia a propuesta de cualquiera de sus miembros.
+
+> Se modifica por el art. único.3 del Real Decreto 89/2026, de 11 de febrero. [Ref. BOE-A-2026-3214](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3214)
+
+## Artículo 6. Nombramiento y mandato.
+
+1\. Las vocalías del CAPECC serán designadas por la persona titular de la Secretaría de Estado de Comercio, mientras que las vocalías del Comité Ejecutivo serán designadas por la persona titular de la Dirección General de Inteligencia Económica y Comercial, todos ellos a propuesta de los correspondientes órganos de la Administración General del Estado, de la Administración de la Comunidad Autónoma de Canarias o de las entidades representadas mencionados en los artículos 4 y 5.
+
+2\. El mandato de las vocalías, salvo el de aquellos que lo sean por razón del cargo, será de dos años, que podrá ser renovado por periodos iguales. Podrá fijarse un plazo inferior si ello se considera oportuno.
+
+3\. En caso de vacante, ausencia o enfermedad de la persona titular de la Presidencia se seguirán las reglas de suplencia previstas en el artículo 11.2.
+
+Las vocalías podrán ser sustituidos por suplentes de los órganos o entidades a los que representan y que reúnan las mismas condiciones, siendo designados por el mismo procedimiento que los titulares.
+
+> Se modifica por el art. único.4 del Real Decreto 89/2026, de 11 de febrero. [Ref. BOE-A-2026-3214](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3214)
+
+## Artículo 7. Funciones del CAPECC.
+
+1\. El CAPECC tendrá las siguientes funciones:
+
+a) Actuar como instrumento de colaboración entre las Administraciones Públicas y agentes implicados a fin de definir los medios y objetivos comunes en el marco de política comercial de promoción de la internacionalización de la economía española.
+
+b) Proponer medidas de actuación con el objetivo de fomentar la internacionalización de la economía canaria impulsando la promoción de Canarias como plataforma atlántica, y las exportaciones de bienes y servicios, así como la atracción de inversión extranjera al archipiélago canario.
+
+c) Prestar asesoramiento en el diseño de programas de formación e información a empresas y otros agentes económicos de Canarias, así como de países africanos o iberoamericanos en temas relacionados con la internacionalización.
+
+d) Fomentar la constitución de sociedades y consorcios de exportación y cualquier otra actividad de apoyo a la exportación de productos tradicionales elaborados en Canarias, incluidas la creación de marcas y denominaciones de origen de dichos productos, y la promoción del símbolo gráfico de las regiones ultraperiféricas.
+
+e) Cualesquiera otras que se le atribuyan normativamente.
+
+2\. Los miembros del CAPECC no podrán atribuirse las funciones de representación reconocidas a este, salvo que expresamente se les hayan otorgado por una norma o por acuerdo válidamente adoptado, para cada caso concreto, por el propio órgano.
+
+## Artículo 8. Facultades de los miembros del CAPECC.
+
+Los miembros del órgano colegiado están facultados para:
+
+a) Recibir, con una antelación mínima de dos días, la convocatoria que contendrá el orden del día de las reuniones. La información sobre los temas que figuren en el orden del día estará a disposición de los miembros en igual plazo.
+
+b) Participar en los debates de las sesiones.
+
+c) Ejercer su derecho al voto y formular su voto particular, así como expresar el sentido de su voto y los motivos que lo justifican.
+
+d) Formular ruegos y preguntas.
+
+e) Obtener la información precisa para cumplir las funciones asignadas.
+
+f) Desempeñar cuantas otras funciones sean inherentes a su condición.
+
+## Artículo 9. Convocatorias y sesiones.
+
+1\. El CAPECC podrá constituirse, convocar y celebrar sus sesiones, y adoptar acuerdos y remitir actas, tanto de forma presencial como a distancia.
+
+En las sesiones que se celebren a distancia, se asegurará por medios electrónicos la identidad de los miembros, así como la veracidad del contenido de sus manifestaciones y el momento en que estas se producen. Se garantizará por dichos medios electrónicos la interactividad e intercomunicación entre los miembros en tiempo real. Entre otros, se considerarán válidos como medios electrónicos las audioconferencias y las videoconferencias.
+
+2\. Para la válida constitución del órgano a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá la asistencia, presencial o a distancia, del Presidente y Secretario o en su caso, de quienes les suplan, y la de la mitad, al menos, de sus miembros.
+
+Cuando estuvieran reunidos, de manera presencial o a distancia, el Presidente, el Secretario y todos los miembros del órgano colegiado o en su caso las personas que les suplan, estos podrán constituirse válidamente como órgano colegiado para la celebración de sesiones, deliberaciones y adopción de acuerdos sin necesidad de convocatoria previa cuando así lo decidan todos sus miembros.
+
+3\. Salvo que no resulte posible, las convocatorias serán remitidas a los miembros del órgano colegiado a través de medios electrónicos, haciendo constar en la misma el orden del día junto con la documentación necesaria para su deliberación cuando sea posible, las condiciones en las que se va a celebrar la sesión, el sistema de conexión y, en su caso, los lugares en que estén disponibles los medios técnicos necesarios para asistir y participar en la reunión.
+
+4\. No podrá ser objeto de deliberación o acuerdo ningún asunto que no figure incluido en el orden del día, salvo que asistan todos los miembros del órgano colegiado y sea declarada la urgencia del asunto por el voto favorable de la mayoría.
+
+5\. Los acuerdos serán adoptados por mayoría de votos. Cuando se asista a distancia, los acuerdos se entenderán adoptados en el lugar donde tenga la sede el órgano colegiado y, en su defecto, donde esté ubicada la presidencia.
+
+6\. Quienes acrediten la titularidad de un interés legítimo podrán dirigirse al Secretario para que les sea expedida certificación de sus acuerdos. La certificación será expedida por medios electrónicos, salvo que el interesado manifieste expresamente lo contrario y no tenga obligación de relacionarse con las Administraciones Públicas por esta vía.
+
+7\. A las reuniones del CAPECC podrán asistir con voz, pero sin voto, aquellas personas vinculadas a la internacionalización de la economía canaria que sean invitadas por su Presidencia a propuesta de cualquiera de sus miembros.
+
+> Se añade el apartado 7 por el art. único.5 del Real Decreto 89/2026, de 11 de febrero. [Ref. BOE-A-2026-3214](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3214)
+
+## Artículo 10. Actas.
+
+1\. En cada sesión que celebre el órgano colegiado se levantará acta por el Secretario, que especificará necesariamente los asistentes, el orden del día de la reunión, las circunstancias del lugar y tiempo en que se ha celebrado, los puntos principales de las deliberaciones, así como el contenido de los acuerdos adoptados.
+
+Podrán grabarse las sesiones que celebre el órgano colegiado. El fichero resultante de la grabación, junto con la certificación expedida por el Secretario de la autenticidad e integridad del mismo, y cuantos documentos en soporte electrónico se utilizasen como documentos de la sesión, podrán acompañar al acta de las sesiones, sin necesidad de hacer constar en ella los puntos principales de las deliberaciones.
+
+2\. El acta de cada sesión podrá aprobarse en la misma reunión o en la inmediata siguiente, pudiendo, no obstante, el Secretario emitir certificación sobre los acuerdos adoptados sin perjuicio de la ulterior aprobación de acta. El Secretario elaborará el acta con el visto bueno del Presidente y lo remitirá a través de medios electrónicos a los miembros del órgano colegiado, quienes podrán manifestar por los mismos medios su conformidad o reparos al texto, a efectos de su aprobación, considerándose, en caso afirmativo, aprobada en la misma reunión.
+
+Cuando se hubiese optado por la grabación de las sesiones celebradas o por la utilización de documentos en soporte electrónico, deberán conservarse de forma que se garantice la integridad y autenticidad de los ficheros electrónicos correspondientes y el acceso a los mismos por parte de los miembros del órgano colegiado.
+
+3\. En el acta figurará, a solicitud de los respectivos miembros del órgano, el voto contrario al acuerdo adoptado, su abstención y los motivos que la justifiquen o el sentido de su voto favorable.
+
+## Artículo 11. Presidencia del CAPECC.
+
+1\. Le corresponde a la Presidencia del CAPECC las siguientes competencias:
+
+a) Ostentar la representación del órgano.
+
+b) Acordar la convocatoria de las sesiones ordinarias y extraordinarias y la fijación del orden del día, teniendo en cuenta, en su caso, las peticiones de los demás miembros, siempre que hayan sido formuladas con la suficiente antelación.
+
+c) Presidir las sesiones, moderar el desarrollo de los debates y suspenderlos por causas justificadas.
+
+d) Dirimir con su voto los empates, a efectos de adoptar acuerdos.
+
+e) Asegurar el cumplimiento de las leyes.
+
+f) Visar las actas y certificaciones de los acuerdos del órgano.
+
+g) Ejercer cuantas otras funciones sean inherentes a su condición de Presidente del órgano.
+
+2\. En el caso de vacante, ausencia, enfermedad o cualquier otra causa legal, el Presidente del Consejo Asesor será sustituido por el Vicepresidente primero o bien, de forma sucesiva según el orden de vicepresidentes de este real decreto.
+
+## Artículo 12. Secretaría.
+
+1\. Actuarán como secretario en régimen de alternancia anual el titular de la Dirección Territorial de Comercio de Las Palmas y de la Dirección Territorial de Comercio de Santa Cruz de Tenerife. La designación y el cese, así como la sustitución temporal del Secretario en supuestos de vacante, ausencia o enfermedad, se realizará por acuerdo del Presidente.
+
+2\. Corresponden al secretario las siguientes funciones:
+
+a) Asistir a las reuniones con voz y voto.
+
+b) Efectuar la convocatoria de las sesiones del órgano por orden del Presidente, así como las citaciones a los miembros del mismo.
+
+c) Recibir los actos de comunicación de los miembros con el órgano, sean notificaciones, peticiones de datos, rectificaciones o cualquiera otra clase de escritos de los que deba tener conocimiento.
+
+d) Preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones.
+
+e) Expedir certificaciones de las consultas, dictámenes y acuerdos aprobados.
+
+f) Velar por la legalidad formal y material de las actuaciones del órgano y garantizar que los procedimientos, reglas de constitución y adopción de acuerdos sean conformes a Derecho.
+
+g) Cuantas otras funciones sean inherentes a su condición de Secretario.
+
+## Artículo 13. Régimen de funcionamiento.
+
+1\. El CAPECC se reunirá, al menos, una vez al año a propuesta de la Presidencia o la Vicepresidencia Primera.
+
+El Comité Ejecutivo se reunirá, a propuesta de su Presidencia, cuantas veces sea preciso para la consecución de sus fines en el periodo comprendido entre la celebración de las sesiones del CAPECC.
+
+2\. El CAPECC elaborará anualmente una memoria sobre las actividades desarrolladas en cumplimiento de sus funciones, que será presentada al titular del Ministerio de Economía, Comercio y Empresa una vez al año y publicada en la sede electrónica del mismo.
+
+3\. El CAPECC y su Comité Ejecutivo se regirán en cuanto a su funcionamiento interno por lo dispuesto en la Sección 3.ª del Capítulo II del Título Preliminar de la Ley 40/2015, de 1 de octubre.
+
+> Se modifican los apartados 1 y 2 por el art. único.6 del Real Decreto 89/2026, de 11 de febrero. [Ref. BOE-A-2026-3214](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3214)
+
+## Disposición adicional primera. Constitución del CAPECC.
+
+El CAPECC se constituirá en los tres meses siguientes a la entrada en vigor de este real decreto, debiendo las Administraciones Públicas y entidades representadas en el mismo proponer a sus representantes en el plazo de treinta días, a contar desde dicha fecha de entrada en vigor.
+
+## Disposición adicional segunda. Gastos de funcionamiento.
+
+Lo dispuesto en este real decreto no implicará incremento de gasto público, ya que la creación y funcionamiento del órgano colegiado será atendido con los medios personales, técnicos y presupuestarios asignados al órgano superior en el que se encuentra integrado.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado expresamente el Real Decreto 417/1996, de 1 de marzo, por el que se regula la composición y funciones del Consejo Asesor para la Promoción del Comercio con África Occidental.
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.10.ª y 18.ª de la Constitución Española, que atribuye al Estado competencia exclusiva sobre las bases del régimen aduanero y arancelario, y comercio exterior y la competencia estatal sobre las bases del régimen jurídico de la Administraciones públicas, respectivamente.
+
+## Disposición final segunda. Entrada en vigor.
+
+Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 16 de marzo de 2021.
+
+FELIPE R.
+
+La Ministra de Industria, Comercio y Turismo,
+
+MARÍA REYES MAROTO ILLERA

@@ -1,0 +1,793 @@
+---
+title: "Real Decreto 1221/1992, de 9 de octubre, sobre el patrimonio de la Seguridad Social"
+identifier: "BOE-A-1992-24743"
+eli: "https://www.boe.es/eli/es/rd/1992/10/09/1221"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Seguridad Social"
+date: 1992-10-09
+published: 1992-11-11
+in_force_from: 1992-11-12
+last_amended: 2023-01-25
+consolidated: 2026-05-04
+gazette: "Boletín Oficial del Estado núm. 271"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1992-24743"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1221/1992, de 9 de octubre, sobre el patrimonio de la Seguridad Social
+
+Incluye la corrección de errores publicada en BOE núm. 59, de 10 de marzo de 1993. [Ref. BOE-A-1993-6499](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-6499).
+
+Los artículos 48, 49 y 50 del Texto Refundido de la Ley General de la Seguridad Social, aprobado por Decreto 2065/1974, de 30 de mayo, regulan el patrimonio único de la Seguridad Social, como patrimonio diferenciado de el del Estado y afecto a sus fines. A su vez, el Real Decreto 255/1980, de 1 de febrero, atribuye a la Tesorería General de la Seguridad Social la titularidad y administración del patrimonio único de la Seguridad Social y determina genéricamente las facultades de las distintas entidades respecto de los elementos integrantes de dicho patrimonio. Asimismo, en virtud de lo dispuesto en los artículos 4. del Real Decreto-Ley 13/1980, de 3 de octubre, y de la Orden de 27 de enero de 1981, la Tesorería General de la Seguridad Social ha asumido también la titularidad de los bienes y derechos que tenía adscritos el extinguido servicio de Reaseguro de Accidentes de Trabajo. Posteriormente, el Real Decreto 1314/1984, de 20 de junio, asigna a la Tesorería General de la Seguridad Social la titularidad, gestión y administración de los bienes y derechos que constituyen el patrimonio único de la Seguridad Social en la forma y condiciones que se establezcan por el Ministerio de Trabajo y Seguridad Social, sin perjuicio de las facultades atribuidas a las Entidades Gestoras de la Seguridad Social y a las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social.
+
+La Ley 37/1988, de 28 de diciembre, de Presupuestos Generales del Estado para 1989, establece, en su artículo 13, que la contratación, en general, en el ámbito de la Seguridad Social se ajustará a lo dispuesto en el Texto Articulado de la Ley de Bases de Contratos del Estado, de 8 de abril de 1965, modificado por la Ley 5/1973, de 17 de marzo, y Reglamento General de Contratación del Estado, de 25 de noviembre de 1975, modificado por Real Decreto 2528/1986, de 28 de noviembre, y sus normas complementarias, con determinadas especialidades que igualmente fija; por otra parte, el artículo 13 de la Ley 33/1987, de 23 de diciembre, de Presupuestos Generales del Estado para 1988, contiene reglas específicas sobre adquisición a título oneroso, arrendamiento y enajenación de bienes inmuebles, así como sobre enajenación de títulos valores, integrados en el patrimonio de la Seguridad Social, y sobre la inembargabilidad de los bienes y derechos integrantes de dicho patrimonio.
+
+Asimismo, el citado artículo 13 de la Ley 33/1987, faculta al Ministro de Trabajo y Seguridad Social para determinar el procedimiento aplicable en orden a la adquisición y arrendamiento de los bienes afectos al cumplimiento de los fines de colaboración en la gestión de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, y dispone la aplicación supletoria de la legislación reguladora del patrimonio del Estado, si bien precisa que las referencias a determinados Organos del Ministerio de Economía y Hacienda deben entenderse hechas a los Organos del Ministerio de Trabajo y Seguridad Social que específica, lo que reitera el número tres del artículo 86 de la Ley 4/1990, de 29 de junio, de Presupuestos Generales del Estado para 1990.
+
+De otra parte, la disposición adicional decimocuarta de la mencionada Ley 4/1990 modifica, entre otros, el artículo 202 del Texto Refundido de la Ley General de la Seguridad Social, introduciendo determinadas prescripciones sobre el patrimonio de la Seguridad Social adscrito a las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, así como respecto al patrimonio «histórico» de las mismas.
+
+Por último, el artículo 105 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, introduce determinadas modificaciones respecto a las normas anteriormente citadas, estableciendo la competencia del Ministro de Sanidad y Consumo o del Director General del Instituto Nacional de la Salud, respecto a la autorización de los contratos encaminados a la adquisición o arrendamiento de bienes inmuebles en el ámbito de dicha Entidad Gestora de la Seguridad Social.
+
+La regulación general contenida en las Leyes y en los Reales Decretos citados, tanto por el volumen como por la trascendencia de esta materia en el ámbito de la Seguridad Social, precisa de una regulación que concrete el régimen jurídico de los mencionados bienes patrimoniales, especialmente en lo relativo a su titulación e inscripción, modos de adquisición, adscripción, enajenación, arrendamientos o cesiones con determinación de las facultades y obligaciones de cada Entidad Gestora, Servicio Común o Entidad Colaboradora de la Seguridad Social.
+
+A tal finalidad responde el presente Real Decreto, en el que, sin perjuicio del desarrollo de los preceptos legales y reglamentarios citados, se dispone la aplicación supletoria de la legislación reguladora del patrimonio del Estado, conforme a lo dispuesto en el número 8, artículo 13, de la Ley 33/1987, de 23 de diciembre.
+
+En su virtud, de conformidad con lo establecido en el artículo 4 de la Ley General de la Seguridad Social, y en el artículo 13 de la Ley 33/1987, de 23 de diciembre, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 9 de octubre de 1992,
+
+#### DISPONGO:
+
+> Redactados los párrafos segundo y séptimo conforme a la corrección de errores publicada en BOE núm. 59, de 10 de marzo de 1993. [Ref. BOE-A-1993-6499](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-6499).
+
+## Capítulo I — Normas generales
+
+##### Artículo 1. Regulación general.
+
+El patrimonio de la Seguridad Social se regirá por lo dispuesto en este Real Decreto y demás disposiciones complementarias y, en lo que en ellas no se halle previsto, se aplicará la legislación reguladora del Patrimonio del Estado, si bien las referencias que en la misma se efectúan al Ministro de Economía y Hacienda, Ministerio de Economía y Hacienda, Dirección General del Patrimonio del Estado, Delegación de Hacienda o unidades administrativas de los mismos se entenderán hechas, respectivamente, al Ministro de Trabajo y Seguridad Social, a la Dirección General de la Tesorería General de la Seguridad Social y a las Direcciones Provinciales de la Tesorería General de la Seguridad Social o unidades administrativas de las mismas.
+
+##### Artículo 2. Ambito de aplicación.
+
+La regulación contenida en el presente Real Decreto es de aplicación a las Entidades Gestoras y Servicios Comunes de la Seguridad Social, así como a las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en las cuestiones que afecten a los bienes, derechos, acciones y demás recursos que integran el patrimonio único de la Seguridad Social.
+
+##### Artículo 3. Titulación e inscripción.
+
+1\. Los bienes, derechos y demás recursos del patrimonio de la Seguridad Social se titularán a nombre de la Tesorería General de la Seguridad Social en los términos y condiciones que se establecen en este Real Decreto.
+
+2\. La Tesorería General de la Seguridad Social promoverá la inscripción, a su nombre, de los bienes y derechos inscribibles del patrimonio de la Seguridad Social, en los correspondientes registros.
+
+En los expedientes que se instruyan para la inscripción de los bienes y derechos de la Seguridad Social deberá ser oída la Asesoría Jurídica de la Tesorería General de la Seguridad Social, antes de la presentación de los títulos, en los correspondientes Registros Públicos.
+
+##### Artículo 4. Representación legal.
+
+Corresponde al Director general de la Tesorería General de la Seguridad Social la realización de los actos necesarios para el desempeño de las funciones que, de acuerdo con lo establecido en este Real Decreto, correspondan al citado Servicio Común, en relación con el patrimonio de la Seguridad Social.
+
+Lo dispuesto en el párrafo anterior, se entiende sin perjuicio de lo establecido sobre delegación de atribuciones en el Ministerio de Trabajo y Seguridad Social.
+
+##### Artículo 5. Inventario general de bienes y derechos de la Seguridad Social.
+
+1\. Compete a la Tesorería General de la Seguridad Social la formación, actualización y contabilización del Inventario general de bienes y derechos de la Seguridad Social respecto de aquellos bienes y derechos que constituyen el patrimonio íntegro de la Seguridad Social, cualquiera que sea la forma de adquisición y la entidad a la que figuren adscritos, a excepción de los bienes muebles adquiridos por la entidad o el servicio común que haya de utilizarlos y de los derechos de créditos derivados de operaciones corrientes de las mismas.
+
+Las entidades gestoras y los servicios comunes de la Seguridad Social, las mutuas colaboradoras con la Seguridad Social, así como las entidades y los organismos, que tengan adscritos por la Tesorería General de la Seguridad Social bienes inmuebles, registrarán estos contablemente, con señalamiento expreso del derecho de titularidad patrimonial por parte de ese servicio común, mediante la apertura de las oportunas cuentas coordinadas con las de la Tesorería General de la Seguridad Social.
+
+2\. El Inventario general no tiene la consideración de registro público y los datos reflejados en el mismo, así como los resultados de su agregación o explotación estadística, constituyen información de apoyo para la gestión interna y la definición de políticas de gestión activa del patrimonio.
+
+Estos datos no surtirán efectos frente a terceros ni podrán ser utilizados para hacer valer derechos frente a la Tesorería General de la Seguridad Social.
+
+Un ejemplar del Inventario general será remitido al Ministerio de Inclusión, Seguridad Social y Migraciones, al que anualmente se comunicarán, asimismo, las variaciones patrimoniales experimentadas en el ejercicio anterior.
+
+3\. El Inventario general cumplirá los siguientes requisitos:
+
+a) Actualizado. El Inventario reflejará los cambios que experimente el inmueble por razones legales o físicas.
+
+b) Histórico. El Inventario conservará los cambios que hayan acontecido en el inmueble, de manera que permita acceder a la evolución legal y física de los bienes inmuebles.
+
+c) Público. El Inventario será accesible con el alcance previsto en el apartado 2.
+
+d) Documental. El Inventario garantizará el acceso a los documentos de los que resulte la información registrada.
+
+e) Completo. El Inventario integrará toda la información relevante, en particular toda aquella información de acceso público.
+
+f) Permitirá la interoperabilidad con el resto de las herramientas y sistemas informáticos, especialmente los que contengan información contable, facilitando la conciliación contable.
+
+4\. La Tesorería General de la Seguridad Social publicará la relación de los bienes inmuebles que sean de su propiedad, de conformidad con lo previsto en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+
+5\. El inventario de los bienes muebles necesarios para el desenvolvimiento de los servicios, ornato y decoración de las respectivas dependencias se formará, actualizará y contabilizará por la entidad gestora, el servicio común o la mutua colaboradora con la Seguridad Social que los posea, use o disfrute.
+
+> Se modifica por el art. único.1 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+##### Artículo 6. Inembargabilidad del patrimonio y cumplimiento de las obligaciones de la Seguridad Social.
+
+1\. Conforme a lo establecido en el artículo 13 de la Ley 33/1987, de 23 de diciembre, de Presupuestos Generales del Estado para 1988, los bienes y derechos que integran el patrimonio de la Seguridad Social son inembargables. Ningún Tribunal ni Autoridad Administrativa podrá dictar providencia de embargo, ni despachar mandamientos de ejecución contra los bienes y derechos del patrimonio de la Seguridad Social, ni contra las rentas, frutos o productos del mismo.
+
+2\. El cumplimiento de las resoluciones judiciales, que determinen obligaciones a cargo de las Entidades de la Seguridad Social, corresponderá a la Autoridad Administrativa del Organismo que sea competente, por razón de la materia, conforme al procedimiento establecido al efecto.
+
+La Autoridad Administrativa del Organismo u Organismos a los que corresponda la ejecución acordará el pago en la forma y con los límites del respectivo Presupuesto.
+
+A estos efectos, salvo que se trate de créditos que tengan la consideración de ampliables, por figurar incluidos entre los que tengan tal carácter en la Ley General Presupuestaria o en la correspondiente Ley de Presupuestos Generales del Estado para el ejercicio de que se trate, y siempre que para el pago fuese necesario un crédito extraordinario o un suplemento de crédito, deberá solicitarse uno u otro por el procedimiento establecido al efecto, dentro de los tres meses siguientes al día de la notificación de la resolución judicial.
+
+3\. En lo no previsto en los números anteriores se estará a lo dispuesto en los artículos 44, 45 y 46 del Texto Refundido de la Ley General Presupuestaria, aprobado por Real Decreto Legislativo 1091/1988, de 23 de septiembre.
+
+##### Artículo 7. Adquisición y administración.
+
+1\. Corresponde a la Tesorería General de la Seguridad Social, bajo la dirección, vigilancia y tutela del Ministerio de Trabajo y Seguridad Social, la adquisición, disposición y administración de los bienes, derechos y demás recursos que integran el patrimonio de la Seguridad Social, sin perjuicio de las facultades que las Entidades Gestoras de la Seguridad Social, los Servicios Comunes de la misma y las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social tienen atribuidas, de acuerdo con lo establecido en el Real Decreto 255/1980, de 1 de febrero, así como de las facultades y autorizaciones que se regulan en el presente Real Decreto.
+
+2\. Los bienes muebles que hayan de ser utilizados por los Servicios Comunes de la Seguridad Social, que no tengan personalidad jurídica, serán adquiridos, administrados y gestionados por la Entidad Gestora o Servicio Común con personalidad a la que aquéllos estén adscritos, y de no existir tal adscripción por la Tesorería General de la Seguridad Social.
+
+## Capítulo II — Bienes inmuebles
+
+### Sección 1. Adquisición
+
+##### Artículo 8. Modos de adquisición.
+
+1\. La adquisición de los bienes inmuebles por la Tesorería General de la Seguridad Social podrá efectuarse por atribución de la Ley, a título oneroso, por herencia, legado o donación, por prescripción o por cualquier otro modo admitido en Derecho.
+
+2\. Las adquisiciones a título oneroso, de los bienes inmuebles de la Seguridad Social se efectuarán en la forma y por el procedimiento previsto en el artículo siguiente de este Real Decreto.
+
+3\. La aceptación de herencias, legados y donaciones de bienes inmuebles a favor de la Seguridad Social corresponde, previa autorización del Ministro de Trabajo y Asuntos Sociales, a la Tesorería General de la Seguridad Social, cualquiera que sea el Órgano de la Administración de la Seguridad Social que el testador o donante haya señalado como beneficiario. La aceptación de la herencia se entenderá siempre hecha a beneficio de inventario.
+
+4\. La prescripción adquisitiva de bienes inmuebles a favor de la Tesorería General de la Seguridad Social se regirá por las leyes comunes, sin perjuicio de lo establecido en disposiciones especiales.
+
+Los particulares podrán usucapir a su favor bienes de la Seguridad Social, de acuerdo con las leyes comunes.
+
+> Se modifica el apartado 3 por el art. único.1 del Real Decreto 939/2001, de 3 de agosto. [Ref. BOE-A-2001-17163](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-17163).
+
+##### Artículo 9. Procedimiento general para la adquisición.
+
+1\. La procedencia de adquisición, a título oneroso, de los edificios, terrenos en que los mismos hayan de construirse o demás inmuebles que un Organismos de la Seguridad Social precise para el cumplimiento de sus fines, se acordará por el Organismo correspondiente, quien dará traslado de dicho acuerdo a la Tesorería General de la Seguridad Social, previa instrucción del correspondiente expediente administrativo que iniciará y seguirá la Entidad Gestora o Servicio Común interesados en la adquisición.
+
+En el expediente se acreditará la necesidad del inmueble, cuya adquisición se pretenda, en orden al cumplimiento de los fines que dicha Entidad o Servicio tenga atribuidos; se describirán las características fundamentales que el inmueble haya de reunir; se acompañarán los informes técnicos, administrativos y cualesquiera otros que se estimen procedentes, anunciando y realizando dicha Entidad o Servicio el oportuno concurso o los trámites para su adquisición directa.
+
+2\. Las adquisiciones de inmuebles a título oneroso se efectuarán por la Tesorería General de la Seguridad Social, cualquiera que sea el valor de los bienes, y tendrán lugar mediante concurso público.
+
+3\. A efectos del concurso a que se refieren los apartados anteriores, se observarán las siguientes normas:
+
+a) El Organismo que acuerde la procedencia de la adquisición redactará los pliegos de cláusulas administrativas particulares y de prescripciones técnicas, los cuales deberán sujetarse a los modelos tipo de pliegos de cláusulas y prescripciones aprobados por la Tesorería General de la Seguridad Social.
+
+La resolución del Director general de la Entidad, convocando el concurso, será publicada en el "Boletín Oficial del Estado", debiendo el Organismo tramitar el correspondiente anuncio, en el que se hará constar, expresamente, el presupuesto de la adquisición objeto del concurso, la fianza provisional, en su caso, o el depósito, el lugar o lugares donde se pueden retirar los pliegos de cláusulas administrativas o cualquier otra documentación del concurso, los plazos y lugares de presentación de ofertas y la fecha y lugar de apertura de las proposiciones presentadas.
+
+b) Para la resolución del concurso y adjudicación provisional se formará una mesa que estará constituida por:
+
+El Director general de la Entidad que haya acordado la procedencia de la adquisición, que la presidirá y que podrá ser sustituido por un Subdirector general. No obstante, cuando el inmueble a adquirir haya de ser destinado a las necesidades de la Tesorería General de la Seguridad Social, la presidencia recaerá en el Subdirector general de Gestión de Patrimonio, Inversiones y Obras de la misma, que podrá ser asimismo sustituido por otro Subdirector general de dicha Tesorería General.
+
+El Subdirector general de Gestión de Patrimonio, Inversiones y Obras de la Tesorería General de la Seguridad Social, cuando no deba asumir la presidencia de la mesa conforme al párrafo anterior, o un funcionario de dicha Subdirección en otro caso, pudiendo ambos ser sustituidos cuando existan causas que lo justifiquen.
+
+El Jefe del Servicio Jurídico de la Administración de la Seguridad Social en la Entidad que haya acordado la adquisición.
+
+El Interventor Delegado de los Servicios Centrales de la Entidad que haya acordado la adquisición.
+
+Un funcionario de la Entidad que actuará como Secretario, sin voto.
+
+El Interventor Delegado de los Servicios Centrales de la Entidad podrá ser sustituido, cuando existan causas que lo justifiquen, por otro funcionario del Cuerpo Superior de Intervención y Contabilidad de la Seguridad Social o de la Escala de Intervención y Contabilidad a extinguir destinado en la Intervención Delegada en los Servicios Centrales de la Entidad. De igual modo, el Jefe del Servicio Jurídico de la Administración de la Seguridad Social en la Entidad podrá ser sustituido por otro Letrado del mismo.
+
+La mesa actuará conforme a lo dispuesto en las normas generales, en materia de procedimiento administrativo.
+
+La adjudicación se otorgará, con carácter provisional, a la proposición que hubiere obtenido mayor número de votos, decidiendo en caso de empate el del Presidente. Los vocales de la mesa que disientan del acuerdo de la mayoría podrán formular por escrito voto reservado contra dicho acuerdo, expresando las razones que apoyen al mismo.
+
+El acta de la reunión, las proposiciones presentadas y, en su caso, el voto o votos contrarios al acuerdo adoptado y los votos particulares por escrito que discrepen del voto mayoritario, serán sometidos al Director general de la Tesorería General de la Seguridad Social para la resolución definitiva.
+
+4\. No obstante lo previsto en el apartado 2, la Tesorería General de la Seguridad Social, previo informe de la Intervención General de la Seguridad Social y previa autorización del Ministerio de Trabajo y Asuntos Sociales, podrá adquirir directamente bienes inmuebles cuando lo considere preciso, en los siguientes casos:
+
+a) Cuando el propietario del bien a adquirir sea otra Administración pública o, en general, cualquier persona de derecho público o privado del sector público. A estos efectos, se entenderá por persona jurídica de derecho privado perteneciente al sector público la sociedad mercantil determinada en el artículo 15.3.a) de este Real Decreto.
+
+b) Cuando fuere declarado desierto un concurso público o éste resultase fallido, como consecuencia del incumplimiento de sus obligaciones por parte del adjudicatario.
+
+c) Cuando, por la relación jurídica existente entre el actual propietario y la Tesorería General de la Seguridad Social como arrendataria del bien, resulte más aconsejable para los intereses patrimoniales de la Seguridad Social la adquisición directa.
+
+d) Cuando exista urgencia o concurran otras circunstancias excepcionales, debidamente justificadas en el expediente.
+
+Asimismo, la Entidad gestora o Servicio común interesados podrán proponer y la Tesorería General podrá acordar la constitución, a título oneroso o gratuito, de derechos de superficie sobre terrenos de propiedad de personas físicas o jurídicas, en los términos establecidos en este artículo.
+
+> Se modifican los apartados 3 y 4 por el art. único.2 del Real Decreto 939/2001, de 3 de agosto. [Ref. BOE-A-2001-17163](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-17163).
+
+##### Artículo 10. Procedimiento de adquisición en el ámbito del Instituto Nacional de la Salud.
+
+1\. Conforme a lo establecido en el artículo 105 de la Ley 31/1990, de 27 de diciembre, corresponde al Director general del Instituto Nacional de la Salud autorizar los contratos de adquisición de bienes inmuebles que dicho Instituto precise para el cumplimiento de sus fines, previo informe de la Tesorería General de la Seguridad Social.
+
+Cuando se trate de contratos de cuantía superior a 100.000.000 de pesetas, será necesaria la autorización del Ministro de Sanidad y Consumo.
+
+2\. La adquisición de bienes inmuebles a título oneroso se efectuará mediante concurso público, salvo cuando el Ministro de Sanidad y Consumo, apreciando las peculiaridades de la necesidad a satisfacer o de la urgencia de la adquisición a efectuar, y previo informe de la Tesorería General de la Seguridad Social y de la Intervención General de la Seguridad Social, autorice la adquisición directa.
+
+3\. A efectos del concurso a que se refiere el número anterior, se observará lo previsto en el apartado 3.a), del artículo anterior.
+
+4\. Para la resolución del concurso y adjudicación del mismo, se formará una Mesa, presidida por el Director general del Instituto Nacional de la Salud o persona que designe, y de la que formará parte:
+
+El Jefe de la Asesoría Jurídica Central del Instituto Nacional de la Salud.
+
+El Interventor Central de dicha Entidad Gestora.
+
+El Subdirector general de Gestión de Patrimonio, Inversiones y Obras de la Tesorería General de la Seguridad Social, o persona que designe.
+
+Un funcionario de la Entidad que actuará como Secretario, sin voto.
+
+El Subdirector general de Gestión de Patrimonio, Inversiones y Obras y el Interventor Central de la Entidad podrán ser sustituidos, cuando existan causas que lo justifiquen, por un funcionario de la respectiva Unidad Administrativa. De igual modo, el Jefe de la Asesoría Jurídica Central del Instituto Nacional de la Salud podrá ser sustituido por otro Letrado de dicha Entidad.
+
+La Mesa actuará conforme a lo dispuesto en las normas generales en materia de Procedimiento Administrativo.
+
+La adjudicación se otorgará a la proposición que hubiese obtenido mayor número de votos, decidiendo, en caso de empate, el del Presidente.
+
+Los Vocales de la Mesa que disientan del acuerdo de la mayoría, podrán formular por escrito voto reservado contra dicho acuerdo, expresando las razones que amparan el mismo.
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 59, de 10 de marzo de 1993. [Ref. BOE-A-1993-6499](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-6499).
+
+##### Artículo 11. Formalización de los contratos de adquisición.
+
+Compete a la Tesorería General de la Seguridad Social realizar los trámites oportunos encaminados, en su caso, a la formalización administrativa o notarial de los correspondientes contratos, a la inscripción de los mismos en el Registro de la Propiedad, a su adscripción al Organo que haya acordado la adquisición del bien, así como para su inclusión en el Inventario de Bienes y Derechos de la Seguridad Social.
+
+### Sección 2. Adscripción
+
+##### Artículo 12. Adscripción de bienes inmuebles a las entidades gestoras y los servicios comunes de la Seguridad Social. Procedimiento y efectos.
+
+1\. Compete a la Tesorería General de la Seguridad Social adscribir a las entidades gestoras y a los servicios comunes de la Seguridad Social los inmuebles del patrimonio de la Seguridad Social necesarios para el desenvolvimiento de sus servicios, sin perjuicio de las facultades de dirección, vigilancia y tutela que corresponden al Ministerio de Inclusión, Seguridad Social y Migraciones.
+
+2\. Con carácter previo a la adscripción, se incoará un sumario expediente administrativo a instancia de la entidad interesada, que deberá acreditar su necesidad.
+
+El expediente de adscripción se entenderá implícito en el de adquisición cuando esta se lleve a cabo a solicitud de la entidad gestora o del servicio común de la Seguridad Social que la haya propuesto.
+
+3\. Las entidades gestoras y los servicios comunes de la Seguridad Social comunicarán anualmente el plan de necesidades de los inmuebles que precisen para el normal desenvolvimiento de sus servicios a la Tesorería General de la Seguridad Social, sin perjuicio de que, por razón fundada, pueda proponerse en cualquier momento la modificación de dicho plan. La Tesorería General de la Seguridad Social, a la vista de las disponibilidades existentes o mediante la adquisición de los inmuebles pertinentes, procederá a la adscripción a la entidad gestora o al servicio común solicitante.
+
+Por los órganos competentes de la Tesorería General de la Seguridad Social y de la entidad gestora o del servicio común a que los bienes hayan de destinarse, se suscribirá un acta de adscripción, en la que constarán los extremos contenidos en la orden de cuyo cumplimiento se trate.
+
+El original de dicha acta quedará en poder de la Tesorería General de la Seguridad Social y una copia de esta en la entidad gestora o en el servicio común destinatario del bien adscrito, que lo utilizará de acuerdo con el fin previsto, anotando la citada Tesorería General la adscripción en el Inventario general de bienes y derechos de la Seguridad Social.
+
+4\. Corresponderá a la entidad gestora o al servicio común de la Seguridad Social al que se adscriba un inmueble realizar, desde la fecha de adscripción y con cargo a su presupuesto de gastos, todos los actos de conservación, cualquiera que sea su naturaleza y alcance, defensa, mejora, servicios y suministros del inmueble adscrito, así como el abono de todos los tributos que lo graven, bien en su totalidad o bien en la parte que le corresponda cuando se disfrute en régimen de comunidad.
+
+Cuando el uso de un inmueble se encuentre compartido por dos o más entidades gestoras o servicios comunes de la Seguridad Social, la administración será ejercida por la entidad gestora o el servicio común que utilice mayor superficie y la totalidad de los gastos señalados en el párrafo anterior se prorrateará, exclusivamente, entre los usuarios en proporción a la superficie que ocupe cada uno de ellos en el inmueble, suscribiéndose, a tal efecto, un convenio.
+
+No obstante, cuando el inmueble sea utilizado parcialmente por la Tesorería General de la Seguridad Social, su administración corresponderá a dicho servicio común y este asumirá la totalidad de los gastos señalados en el párrafo primero, previa puesta a disposición por las entidades gestoras o los servicios comunes usuarios de los créditos necesarios en proporción a la superficie ocupada.
+
+Corresponderá a la entidad gestora o al servicio común que tenga adscrito un inmueble que sea compartido con otras administraciones públicas o con terceros adoptar o suscribir los convenios necesarios relativos a su uso y mantenimiento, de acuerdo con lo establecido en los párrafos anteriores.
+
+En el supuesto de que el inmueble se encuentre arrendado, total o parcialmente, a un tercero, la Tesorería General de la Seguridad Social ejercerá su administración, como titular de los derechos derivados de los contratos de arrendamiento. Si el uso del inmueble arrendado parcialmente estuviese compartido, será de aplicación lo dispuesto en el párrafo segundo, debiendo, en su caso, la entidad gestora o el servicio común que ostente la administración del inmueble facilitar a la Tesorería General de la Seguridad Social la documentación e información necesaria para el ejercicio de las funciones que le correspondan como arrendadora.
+
+5\. Cuando la entidad gestora o el servicio común que tuviera adscrito el bien inmueble dejare de necesitarlo para el desenvolvimiento de sus servicios, lo pondrá en conocimiento de la Tesorería General de la Seguridad Social para que, por la misma, se disponga sobre dicho bien.
+
+La entidad gestora o el servicio común deberá comunicar a la Tesorería General de la Seguridad Social, al menos con seis meses de antelación, la fecha en que dejará de necesitar el inmueble.
+
+La Tesorería General de la Seguridad Social dictará resolución de desadscripción, previa regularización, en su caso, de la situación física y jurídica del inmueble por la entidad gestora o el servicio común que lo tuviera adscrito.
+
+La entidad gestora o el servicio común al que figuraba adscrito el inmueble seguirá asumiendo los gastos a que se refiere el apartado anterior hasta el final del ejercicio económico en el que se dicte la resolución de desadscripción, salvo que antes de finalizar el mismo se produzca la adscripción a otra entidad gestora o servicio común o sea objeto de explotación por la Tesorería General de la Seguridad Social.
+
+> Se modifica por el art. único.2 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+> Se modifica el apartado 4 por el art. 4.1 del Real Decreto 1041/2005, de 5 de septiembre. [Ref. BOE-A-2005-15366](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15366).
+
+> Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 59, de 10 de marzo de 1993. [Ref. BOE-A-1993-6499](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-6499).
+
+##### Artículo 12 bis. Adscripción de bienes inmuebles a otras administraciones públicas o a entidades de derecho público con personalidad jurídica propia o vinculadas o dependientes de las mismas, distintas de las entidades gestoras y los servicios comunes de la Seguridad Social.
+
+1\. Compete a la persona titular del Ministerio de Inclusión, Seguridad Social y Migraciones adscribir los bienes inmuebles del patrimonio de la Seguridad Social a otras administraciones públicas o a entidades de derecho público con personalidad jurídica propia o vinculadas o dependientes de las mismas, distintas de las entidades gestoras y los servicios comunes de la Seguridad Social, para el cumplimiento de sus fines propios, que se presumen de utilidad pública. La adscripción no alterará la titularidad del bien.
+
+2\. A los efectos previstos en este artículo, tienen la consideración de administraciones públicas o entidades de derecho público con personalidad jurídica propia o vinculadas o dependientes de las mismas, la Administración General del Estado, las administraciones de las comunidades autónomas, las entidades que integran la Administración Local, los organismos públicos y entidades de derecho público vinculados o dependientes de las administraciones públicas, así como las universidades públicas.
+
+3\. El expediente se iniciará con una solicitud formulada por la administración o entidad interesada, a las que se refiere el apartado 1, en la que se identificará el bien cuya adscripción se solicita, así como la motivación de las causas que justifican la petición, que se presumirán de utilidad pública.
+
+La adscripción se acordará por la persona titular del Ministerio de Inclusión, Seguridad Social y Migraciones por un plazo determinado o para el cumplimiento de fines concretos o de carácter temporal. El acuerdo de adscripción deberá recoger, al menos, la identificación del inmueble y la administración pública o entidad de derecho público a la que se adscribe, el plazo y fin al que se destina y a cuyo cumplimiento queda vinculada la entidad beneficiaria durante todo el período de su duración, el régimen de uso y distribución de gastos y las causas de resolución.
+
+4\. Adoptado el acuerdo de adscripción, la aceptación de este por parte de los organismos mencionados en el apartado 2 deberá llevarse a cabo de conformidad con lo previsto en la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, así como en el Reglamento General de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, aprobado por el Real Decreto 1373/2009, de 28 de agosto.
+
+La entrega del inmueble se formalizará mediante la firma de la correspondiente acta, otorgada por representantes de la dirección provincial de la Tesorería General de la Seguridad Social donde radique el inmueble y de la administración pública o entidad de derecho público a la que se adscribe el inmueble. De dicho acto se tomará razón en el Registro de la Propiedad.
+
+5\. Corresponderá a la administración pública o entidad de derecho público a la que se adscriba el inmueble realizar, desde la fecha de adscripción, todos los actos de conservación, cualquiera que sea su naturaleza y alcance, defensa, mejora, servicios y suministros del inmueble adscrito, así como el abono de todos los tributos que lo graven, bien en su totalidad o bien en la parte que le correspondan cuando se disfrute en régimen de comunidad. En caso de que el inmueble adscrito se encuentre compartido con una o más entidades gestoras o servicios comunes, la administración será ejercida por la entidad gestora o el servicio común que utilice una mayor superficie y la participación en los gastos se prorrateará entre las administraciones o entidades usuarias en proporción a la superficie que ocupe cada una de ellas en el inmueble.
+
+6\. Durante el tiempo que dure la adscripción, los inmuebles deberán destinarse al cumplimiento de los fines que motivaron la misma, en la forma y con las condiciones que, en su caso, se hubiesen establecido en el correspondiente acuerdo.
+
+7\. La persona titular del Ministerio de Inclusión, Seguridad Social y Migraciones acordará de oficio la desadscripción de los bienes inmuebles cuando concurra alguna de las siguientes causas:
+
+a) Cumplimiento del fin que motivó la adscripción.
+
+b) Transcurso del plazo señalado en el acuerdo de adscripción.
+
+c) No uso del bien inmueble.
+
+d) Cambio de destino del bien inmueble.
+
+e) Incumplimiento de las obligaciones establecidas en el apartado 5.
+
+f) Cualquiera otra causa que se determine en el acuerdo de adscripción.
+
+En la instrucción del expediente de desadscripción deberá constatarse la concurrencia de alguna de las causas recogidas en el párrafo anterior, así como dar audiencia a la administración o entidad que tuviese adscrito el inmueble, al objeto de que formule las alegaciones procedentes.
+
+Acordada la desadscripción, los bienes revertirán a la Tesorería General de la Seguridad Social. No obstante, no procederá la reversión cuando la persona titular del Ministerio de Inclusión, Seguridad Social y Migraciones autorice el cambio de destino de los bienes adscritos, previa solicitud de la administración o entidad que lo tenga adscrito.
+
+Las mejoras y accesiones acometidas en el inmueble durante el periodo de adscripción se integrarán en el patrimonio de la Tesorería General de la Seguridad Social sin derecho a indemnización alguna a favor de la administración pública o entidad que lo tuviese adscrito, que tendrá que resarcir del deterioro experimentado en los bienes. Asimismo, serán a cargo de la administración pública o entidad a la que fue adscrito el inmueble, los gastos derivados de su conservación y mantenimiento, así como la subrogación en el pago de las obligaciones tributarias que afecten a los mismos, hasta la finalización del ejercicio económico en el que se produzca dicha reversión.
+
+> Se añade por el art. único.3 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+### Sección 3. Conservación
+
+##### Artículo 13. Conservación, mejora y defensa.
+
+1\. En relación con los bienes inmuebles del patrimonio de la Seguridad Social que las entidades gestoras y los servicios comunes tengan adscritos, a estos les corresponden las siguientes funciones:
+
+a) Realizar las actuaciones y obras necesarias en orden a su conservación integral.
+
+b) Efectuar las obras de mejora que estimen convenientes.
+
+c) Ejercitar las acciones posesorias que, en defensa de dichos bienes, procedan en Derecho.
+
+d) Cumplir las obligaciones fiscales que afecten a dichos bienes.
+
+Compete a la Tesorería General de la Seguridad Social tanto el ejercicio de las acciones dominicales para la protección de los derechos que se deriven de su titularidad sobre los bienes inmuebles que integran el patrimonio de la Seguridad Social como el ejercicio de las acciones posesorias respecto de los bienes inmuebles que utilicen los servicios comunes sin personalidad jurídica no adscritos a otra entidad gestora o servicio común con personalidad jurídica.
+
+2\. La conservación y mejora de los bienes inmuebles que integran el patrimonio de la Seguridad Social no adscritos a ninguna entidad gestora o servicio común de la Seguridad Social corresponde a la Tesorería General de la Seguridad Social, salvo en el supuesto a que se refiere el artículo 12.bis.5.
+
+En los casos de conservación o mejora de inmuebles cuyo uso sea compartido por dos o más entidades gestoras o servicios comunes de la Seguridad Social se estará a lo dispuesto en el artículo 12.4, salvo cuando la mejora solo afecte parcialmente al inmueble, en cuyo caso los gastos que se ocasionen corresponderán a las entidades o servicios beneficiados por la mejora.
+
+Las entidades gestoras o los servicios comunes de la Seguridad Social que realicen obras de conservación o de mejora en los bienes inmuebles que tengan adscritos remitirán a la Tesorería General de la Seguridad Social, una vez finalizadas dichas obras, la documentación precisa, al objeto de que por esta se efectúen las anotaciones oportunas en el Inventario general de bienes y derechos de la Seguridad Social.
+
+3\. Las obras de ampliación y nueva planta que se realicen en los bienes inmuebles propios de la Seguridad Social serán acordadas y ejecutadas por las entidades que los tuvieran adscritos y estuvieran interesadas en la edificación, de acuerdo con las normas que rigen la contratación administrativa.
+
+4\. La entidad interesada, una vez recibida definitivamente la obra nueva, remitirá a la Tesorería General de la Seguridad Social la documentación precisa al objeto de formalizar las escrituras correspondientes, instar las inscripciones procedentes en el Registro de la Propiedad y efectuar los cambios precisos en el Inventario general de bienes y derechos de la Seguridad Social.
+
+5\. Con carácter general, cuando una o varias entidades gestoras y la Tesorería General de la Seguridad Social estén interesadas en la construcción de una Oficina Integral de la Seguridad Social, la contratación de la ejecución de la obra, así como del servicio de redacción del proyecto y de dirección de la obra, corresponderá a la entidad gestora o al servicio común que vaya a ocupar una mayor superficie del inmueble, asumiendo con cargo a su presupuesto la totalidad de los gastos que ello conlleve.
+
+De la misma forma, el resto de los gastos necesarios para la puesta en funcionamiento del inmueble, así como los que se deriven de la adquisición del mobiliario, los asumirá con cargo a su presupuesto la entidad gestora o el servicio común que haya ejecutado la obra, en tanto la totalidad del inmueble permanezca adscrito a la misma o al mismo.
+
+6\. Con carácter excepcional, se podrá aplicar un criterio distinto al señalado en el apartado anterior, siempre y cuando se firme el oportuno convenio entre la entidad o entidades gestoras y la Tesorería General de la Seguridad Social interesadas en la construcción de la nueva oficina integral.
+
+> Se modifica por el art. único.4 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 59, de 10 de marzo de 1993. [Ref. BOE-A-1993-6499](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-6499).
+
+### Sección 4. Disposición
+
+##### Artículo 14. Atribuciones y regulación.
+
+1\. Las facultades para la enajenación, gravamen y demás actos de disposición de los bienes inmuebles que formen parte del patrimonio de la Seguridad Social corresponden a la Tesorería General de la Seguridad Social, previo informe de la Entidad a la que los citados bienes inmuebles estén adscritos, que las ejercerá bajo la dirección, vigilancia y tutela del Ministerio de Trabajo y Seguridad Social.
+
+2\. Antes de proceder a la disposición de un bien inmueble del patrimonio de la Seguridad Social, la Tesorería General dará conocimiento de ello a todas las entidades gestoras o servicios comunes de la Seguridad Social, así como a las mutuas colaboradoras con la Seguridad Social. Para que la disposición pueda llevarse a cabo, será necesario que, en el plazo máximo de diez días, ninguna de dichas entidades haya manifestado de forma expresa y justificada su interés en la adscripción del bien o derecho de que se trate. Esta previsión será de aplicación en todos los supuestos de adscripción de bienes inmuebles del patrimonio de la Seguridad Social.
+
+Si la Tesorería General de la Seguridad Social no encontrase justificado el interés en la adscripción que hubiese manifestado la Entidad, lo pondrá en conocimiento del Ministerio de Trabajo y Seguridad Social, para que por el mismo se adopte la decisión que proceda.
+
+> Se modifica el párrafo primero del apartado 2 por el art. único.5 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 59, de 10 de marzo de 1993. [Ref. BOE-A-1993-6499](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-6499).
+
+##### Artículo 15. Enajenación. Requisitos y formas.
+
+1\. La enajenación de bienes inmuebles del patrimonio de la Seguridad Social requerirá la previa autorización del Ministerio de Inclusión, Seguridad Social y Migraciones cuando su valor, según tasación pericial, no exceda de 20 millones de euros, y la del Consejo de Ministros en los demás casos.
+
+2\. En el expediente de enajenación deberá incluirse la tasación pericial del inmueble que a tal efecto se haya efectuado.
+
+La tasación mantendrá su validez durante el plazo de un año, contado desde su aprobación por la persona titular de la Dirección General de la Tesorería General de la Seguridad Social, y deberá regirse por lo dispuesto en la Ley 33/2003, de 3 de noviembre, así como en su Reglamento General, aprobado por el Real Decreto 1373/2009, de 28 de agosto.
+
+3\. La enajenación de los inmuebles podrá realizarse mediante subasta o adjudicación directa, de acuerdo con lo establecido en los apartados siguientes de este artículo, así como en el artículo 137 de la Ley 33/2003, de 3 de noviembre, y el capítulo II del título V de su Reglamento General, aprobado por el Real Decreto 1373/2009, de 28 de agosto.
+
+4\. La enajenación de bienes inmuebles se realizará mediante subasta pública, que podrá celebrarse al alza o a la baja cuando concurran razones debidamente justificadas, pudiendo ser en acto público o con presentación de posturas en sobre cerrado y apertura en acto público. Asimismo, podrá acudirse a sistemas de subasta electrónica. La modalidad de la subasta se determinará atendiendo a las circunstancias de la enajenación y la adjudicación se efectuará a favor del mejor postor.
+
+Si la subasta resultase fallida por renuncia del adjudicatario o por otras causas imputables al mismo, se podrá realizar la adjudicación a favor de la segunda oferta más ventajosa.
+
+Si quedara desierta la primera subasta, podrán celebrarse hasta tres subastas sucesivas más sobre el mismo bien, siendo el tipo de licitación el de la subasta inmediata anterior, que podrá reducirse hasta en un 15 por ciento en cada nueva subasta por resolución motivada del órgano competente.
+
+Dicha resolución corresponderá a la persona titular de la dirección provincial de la Tesorería General de la Seguridad Social en que radique el inmueble objeto de subasta, previa autorización de la persona titular de la Dirección General de la Tesorería General de la Seguridad Social.
+
+5\. Previa autorización del Consejo de Ministros o del Ministerio de Inclusión, Seguridad Social y Migraciones según el valor del inmueble señalado en el apartado 1, la enajenación podrá llevarse a cabo mediante adjudicación directa en los supuestos previstos en el artículo 137.4 de la Ley 33/2003, de 3 de noviembre.
+
+Cuando varios interesados se encontrasen en un mismo supuesto de adjudicación directa, se resolverá a favor de quién ofrezca el precio más alto.
+
+6\. Cuando se solicite la enajenación directa, si la Tesorería General de la Seguridad Social acordase iniciar el oportuno expediente, la dirección provincial de la Tesorería General de la Seguridad Social en cuyo ámbito radique el inmueble a enajenar y, para los radicados en Madrid, la Subdirección General de Gestión del Patrimonio de la Tesorería General de la Seguridad Social, salvo que otra cosa se determine, comunicarán al solicitante el propósito de vender el bien o derecho, con expresión del precio de venta y con indicación de que dicha comunicación y el cumplimiento de lo previsto en la misma en ningún caso generan derecho alguno a la enajenación en su favor. Si el bien o derecho tuviera cargas o gravámenes o fuera litigioso, se indicará expresamente.
+
+Para continuar el procedimiento de enajenación, el interesado deberá aceptar el precio y los términos de la venta y efectuar, en el plazo señalado en la comunicación, el depósito correspondiente en la forma y lugar designados al efecto. Dicho plazo podrá ampliarse por el mismo tiempo que el inicialmente concedido por causas debidamente justificadas.
+
+Si acordada la venta, el adquirente no atendiese a las obligaciones que le corresponden, se resolverá la misma con pérdida del depósito constituido en concepto de garantía al que hace referencia el apartado 7.
+
+La persona titular de la Dirección General de la Tesorería General de la Seguridad Social resolverá a este respecto declarando concluso el expediente de enajenación por adjudicación directa.
+
+Si el posible adquirente aceptase el precio, este deberá acompañar a su escrito de conformidad el resguardo acreditativo de haber consignado en las cuentas de los servicios centrales o de la dirección provincial de la Tesorería General de la Seguridad Social correspondiente, a disposición de la Tesorería General de la Seguridad Social, la correspondiente garantía.
+
+La Subdirección General de Gestión del Patrimonio de la Tesorería General de la Seguridad Social formulará la correspondiente propuesta de resolución ante la Dirección General de dicha Tesorería General, la cual, previo informe del Servicio Jurídico de la Administración de la Seguridad Social y de la Intervención General de la Seguridad Social, remitirá, en su caso, el expediente al Ministerio de Inclusión, Seguridad Social y Migraciones o, a través de él, al Consejo de Ministros, para su preceptiva autorización por quien proceda, en función de la cuantía de la enajenación.
+
+7\. La participación en procedimientos de adjudicación de inmuebles requerirá de la constitución de la correspondiente garantía, de conformidad con lo dispuesto en el artículo 137.6 de la Ley 33/2003, de 3 de noviembre.
+
+> Se modifica por el art. único.6 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+> Se modifican los apartados 1, 2 y 3 por el art. 4.2 del Real Decreto 1041/2005, de 5 de septiembre. [Ref. BOE-A-2005-15366](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15366).
+
+### Sección 5. Contratos de permuta y cesión de uso
+
+> Se modifica por el art. único.7 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+##### Artículo 16. Permuta de bienes inmuebles.
+
+1\. Los bienes inmuebles del patrimonio de la Seguridad Social declarados enajenables podrán ser permutados por otros ajenos, previa tasación pericial de unos y otros, siempre que la diferencia de valor entre los bienes a permutar resultante de la tasación no sea superior al 50 por ciento del que tenga mayor valor. Si la diferencia fuese mayor, el expediente se tramitará como enajenación con pago de parte del precio en especie.
+
+Corresponderá autorizar la permuta al órgano que, por razón de la cuantía, sea competente para autorizar la enajenación.
+
+2\. En el expediente deberá constar el informe del Servicio Jurídico de la Administración de la Seguridad Social y, cuando el valor del bien supere 1 millón de euros, el informe de la Intervención General de la Seguridad Social.
+
+3\. La diferencia de valor entre los bienes a permutar podrá ser abonada en metálico o mediante la entrega de otros bienes o derechos de naturaleza distinta.
+
+> Se modifica por el art. único.7 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+> Se modifica el apartado 2 por el art. 4.3 del Real Decreto 1041/2005, de 5 de septiembre. [Ref. BOE-A-2005-15366](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15366).
+
+> Se modifica por el art. único.3 del Real Decreto 939/2001, de 3 de agosto. [Ref. BOE-A-2001-17163](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-17163).
+
+##### Artículo 16. bis. Cesión de uso de bienes inmuebles. Disposiciones generales.
+
+1\. Los bienes inmuebles del patrimonio de la Seguridad Social que no resulten necesarios para el cumplimiento de sus fines podrán ser cedidos gratuitamente en uso para fines de utilidad pública o de interés de la Seguridad Social, previa solicitud de la entidad interesada.
+
+2\. La condición de bien inmueble susceptible de cesión de uso resultará de alguna o algunas de las siguientes circunstancias:
+
+a) No estar ocupado al tiempo de la solicitud.
+
+b) No estar incluido en el plan de enajenación o, de estarlo, que haya transcurrido más de un año sin que haya tenido lugar la disposición del bien.
+
+c) No haberse solicitado, por un tercero, la adquisición o explotación onerosa del bien en el año anterior a la solicitud de cesión de uso.
+
+d) Que los costes asociados a su mantenimiento, incluyendo los tributos, sean superiores a las ofertas que se hubieran recibido para su adquisición o explotación a título oneroso.
+
+Podrán ser objeto de cesión los inmuebles pendientes de regularización registral, siempre que esta circunstancia se ponga en conocimiento del cesionario y este asuma la obligación de realizar las actuaciones necesarias para su regularización.
+
+3\. La cesión de uso se llevará a cabo para la realización de actividades de utilidad pública o de interés de la Seguridad Social de la competencia de las entidades cesionarias, que no comporten un lucro para la entidad solicitante, tales como actividades de carácter sanitario y asistencial, actividades de carácter educativo, actividades dirigidas al bienestar e integración social y atención a colectivos desfavorecidos y de especial vulnerabilidad y, especialmente, actividades que presenten una especial confluencia con los fines perseguidos por el sistema de la Seguridad Social.
+
+4\. La cesión de uso de los bienes inmuebles del patrimonio de la Seguridad Social no implicará la adquisición de la titularidad ni de facultad dominical alguna sobre tales bienes por parte de las entidades cesionarias. La Tesorería General de la Seguridad Social conservará la titularidad del dominio de los bienes cedidos, así como las facultades a ella inherentes.
+
+> Se añade por el art. único.7 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+##### Artículo 16 ter. Entidades cesionarias.
+
+En los términos previstos en el artículo anterior, podrán ser cesionarias del uso de los bienes inmuebles del patrimonio de la Seguridad Social las asociaciones que, careciendo de ánimo de lucro, hayan sido declaradas de utilidad pública de conformidad con el artículo 32 de la Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación, así como las fundaciones constituidas en los términos del artículo 3 de la Ley 50/2002, de 26 de diciembre, de Fundaciones, y las organizaciones internacionales de protección social de las que forme parte España. Asimismo, cuando no proceda la adscripción, también podrán ser cesionarias las administraciones públicas y las universidades públicas, en los términos referidos en el artículo 12 bis.2, en cuyo caso, se presumirá la utilidad pública del fin para el que se solicite.
+
+> Se añade por el art. único.7 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+##### Artículo 16 quater. Procedimiento para formalizar las cesiones de uso de bienes inmuebles.
+
+1\. Las solicitudes de cesión de uso de bienes inmuebles, además de fundamentar que la petición trae causa en el cumplimiento de un fin vinculado a las actividades que se describen en el apartado 3 del artículo 16 bis, deberán identificar la entidad que formula la solicitud, así como el inmueble o parte de este cuya cesión de uso se solicita y el fin al que se pretende destinar, que en todo caso deberá ser de utilidad pública o interés de la Seguridad Social. Las solicitudes presentadas deberán ir acompañadas de los siguientes anexos:
+
+a) Documentación identificativa del representante legal de la entidad solicitante y acreditación de su poder de representación.
+
+b) En su caso, estatutos de la entidad solicitante.
+
+c) Certificación del acuerdo del órgano competente de la entidad solicitante por el que se acuerda solicitar la cesión de uso del inmueble.
+
+d) Certificado de hallarse al corriente en el cumplimiento de sus obligaciones tributarias y con la Seguridad Social y de que cuenta con los recursos y medios necesarios para el cumplimiento del fin o destino previstos. En ambos casos, el certificado podrá suplirse con la autorización para obtener de forma directa la acreditación de su cumplimiento.
+
+e) Memoria descriptiva de las actividades a desarrollar, con indicación de los medios materiales y personales de que dispone la entidad para la ejecución del proyecto, que acredite la ausencia de ánimo de lucro en la utilización del bien.
+
+2\. Cuando se reciba una solicitud de cesión de uso, la dirección provincial de la Tesorería General de la Seguridad Social en la que radique el inmueble elevará un informe a la Subdirección General de Gestión del Patrimonio de la Tesorería General de la Seguridad Social en el que se constatará la aportación de la documentación por parte de la entidad solicitante, el cumplimiento de los requisitos en los términos previstos en los dos artículos anteriores, así como la información a la que hacen referencia los párrafos a) y c) de la disposición adicional novena. Dicho informe deberá emitirse en el plazo de diez días desde la recepción de la solicitud, salvo que deba abrirse plazo para la subsanación de errores o cuando sea necesario requerir información complementaria a la entidad solicitante, en cuyo caso los plazos concedidos al efecto incrementarán el plazo de emisión del informe de la dirección provincial, en aplicación de lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+3\. Acreditado que el inmueble es susceptible de cesión en los términos previstos en los apartados anteriores, en el caso de que la solicitud no proceda de una administración pública o universidad pública, la Dirección General de la Tesorería General de la Seguridad Social publicará el inicio del expediente de cesión en el portal web de la Seguridad Social, con la finalidad de facilitar su conocimiento por aquellas entidades que pudieran ser cesionarias de conformidad con el artículo 16 ter. Estas entidades podrán presentar nuevas solicitudes durante el plazo de diez días desde la publicación, que serán tramitadas de forma simultánea.
+
+En caso de concurrencia de varias solicitudes de cesión, tendrá prioridad la solicitud presentada por administración pública frente a entidad privada.
+
+Con carácter supletorio, en caso de concurrencia de varias solicitudes de cesión de uso presentadas sobre un mismo bien inmueble, se atenderá a la utilidad pública generada por el proyecto y al interés para la actividad propia de la Seguridad Social. Si no existiera esa vinculación directa, las entidades solicitantes deberán aportar documentación para acreditar la incidencia social del proyecto, tales como el número de potenciales beneficiarios de la actividad a desarrollar o la especial vulnerabilidad, la gratuidad y el carácter inclusivo de la actividad a desarrollar, que serán criterios analizados por la persona competente de Ministerio de Inclusión, Seguridad Social y Migraciones para adoptar el correspondiente acuerdo de cesión.
+
+4\. La Subdirección General de Gestión del Patrimonio elaborará el borrador de la propuesta de cesión en el plazo de diez días desde la recepción del expediente o, en su caso, desde la recepción de los informes nuevos o ampliatorios que haya considerado necesario recabar para su elaboración. El borrador de la propuesta deberá ser informado por el Servicio Jurídico de la Administración de la Seguridad Social en un plazo de diez días.
+
+La Intervención General de la Seguridad Social emitirá informe previo en los expedientes de cesión de uso en los que la entidad solicitante sea una fundación pública o una asociación declarada de utilidad pública. Este informe deberá emitirse en el plazo de diez días.
+
+Una vez emitido el informe del Servicio Jurídico de la Administración de la Seguridad Social y, en su caso, el informe de la Intervención General de la Seguridad Social, la Tesorería General de la Seguridad Social, previa comunicación a la Dirección General de Patrimonio del Estado del Ministerio de Hacienda y Función Pública y en un plazo de diez días, elevará a la persona titular del Ministerio de Inclusión, Seguridad Social y Migraciones, a través de la Secretaría de Estado de Seguridad Social y Pensiones, la propuesta de cesión de uso firmada por la persona titular de la Dirección General de la Tesorería General de la Seguridad Social, acompañada de la documentación señalada en el apartado anterior.
+
+5\. La persona titular del Ministerio de Inclusión, Seguridad Social y Migraciones adoptará el acuerdo que considere procedente. El acuerdo de cesión de uso deberá incluir, al menos, la identificación del inmueble cuyo uso se cede y la entidad cesionaria, el plazo de duración de la cesión y la posibilidad de solicitar ulteriores prórrogas por la entidad cesionaria, la finalidad para la que se lleva a cabo la cesión de uso, a cuyo cumplimiento queda vinculada la entidad cesionaria durante todo el período de su duración, el régimen de uso y distribución de gastos y las causas de resolución, entre las que se recogerá la posibilidad de revocación unilateral de la cesión de uso, sin derecho a indemnización, por razones de interés público debidamente apreciadas por la Tesorería General de la Seguridad Social.
+
+El plazo máximo que podrá acordarse en la formalización de un acuerdo de cesión será de veinte años, y tendrá que justificarse en la propia naturaleza de la actividad a desarrollar en el inmueble. En ningún caso, la concesión de prórrogas sobre el plazo inicial de cesión podrá suponer una puesta a disposición del inmueble en favor de la entidad cesionaria por un plazo superior a treinta años. Todo esto se acordará sin perjuicio de las causas de revocación que se definen en el artículo siguiente y aquellas otras que puedan incluirse dentro del acuerdo de cesión de uso.
+
+6\. El acuerdo ministerial de cesión de uso deberá ser adoptado en el plazo máximo de noventa días desde la fecha en que la solicitud o, en su caso, la última solicitud haya tenido entrada en el registro electrónico de la dirección provincial competente para su tramitación. Transcurrido dicho plazo sin que hubiera recaído acuerdo, la solicitud se entenderá desestimada.
+
+7\. La cesión de uso se formalizará en escritura pública, salvo que el cesionario sea una administración pública o una universidad pública, en cuyo caso se formalizará en documento administrativo.
+
+La cesión de uso será objeto de inscripción en el Registro de la Propiedad. Cuando la cesión de uso sea a favor de una administración pública o de una universidad pública, el documento administrativo será título suficiente para la inscripción de dicho acto de disposición en el Registro de la Propiedad correspondiente.
+
+En todo caso, a la entidad cesionaria le corresponderá el abono de cuantos gastos se originen derivados de la formalización e inscripción de la cesión de uso.
+
+> Se añade por el art. único.7 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+##### Artículo 16 quinquies. Extinción y revocación de la cesión de uso.
+
+1\. Si los bienes inmuebles cuyo uso ha sido cedido no fuesen destinados al uso previsto dentro del plazo señalado en el acuerdo de cesión, dejaran de serlo posteriormente o la entidad cesionaria no cumpliera las condiciones y obligaciones establecidas en dicho acuerdo de cesión, la persona titular del Ministerio de Inclusión, Seguridad Social y Migraciones, a propuesta de la Tesorería General de la Seguridad Social y previo informe del Servicio Jurídico de la Administración de la Seguridad Social, acordará la revocación de la cesión de uso con la consiguiente reversión a dicha Tesorería General.
+
+Con carácter previo a la adopción del correspondiente acuerdo, se dará audiencia a la entidad cesionaria, al objeto de que formule las alegaciones procedentes.
+
+2\. La persona titular del Ministerio de Inclusión, Seguridad Social y Migraciones podrá declarar, a propuesta de la Tesorería General de la Seguridad Social y previo informe del Servicio Jurídico de la Administración de la Seguridad Social, la revocación unilateral de la cesión de uso concedida por razones de interés de la Seguridad Social, acordando su reversión a favor de dicha Tesorería General, sin derecho a resarcimiento o compensación económica para la entidad cesionaria.
+
+En estos supuestos, la entidad cesionaria tendrá un plazo máximo de seis meses para efectuar la entrega y puesta a disposición del inmueble a favor de la Tesorería General de la Seguridad Social.
+
+3\. El transcurso del plazo máximo acordado en el acuerdo de cesión supondrá la extinción de la cesión y la reversión automática del inmueble, salvo que se esté tramitando una prórroga dentro de los límites temporales previstos en el artículo 16. quater.5. Asimismo, la reversión del inmueble, por el cumplimiento del plazo de la cesión, se hará con todas las mejoras y accesiones, sin derecho a indemnización a favor del cesionario, que tendrá que resarcir del deterioro que se haya podido experimentar en los bienes.
+
+> Se añade por el art. único.7 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+##### Artículo 16 sexies. Cesión de inmuebles para el uso de las entidades gestoras y los servicios comunes de la Seguridad Social.
+
+La aceptación por la Tesorería General de la Seguridad Social de la cesión gratuita del uso o usufructo de bienes inmuebles a favor de alguna entidad gestora o servicio común corresponde a la persona titular de la Dirección General de la Tesorería General de la Seguridad Social, previa autorización de la persona titular del Ministerio de Inclusión, Seguridad Social y Migraciones, a propuesta de la entidad gestora o servicio común favorecido por el uso o disfrute.
+
+> Se añade por el art. único.7 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+### Sección 6. Contrato de arrendamiento
+
+> Se modifica por el art. único.8 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+##### Artículo 17. Normas específicas.
+
+1\. Cuando no se disponga de bienes inmuebles que respondan a las necesidades de las entidades gestoras o de los servicios comunes de la Seguridad Social para el cumplimiento de sus fines, la Tesorería General de la Seguridad Social podrá tomar en arrendamiento los bienes inmuebles que precise, a petición de la entidad gestora o del servicio común interesado, a través del procedimiento y con los requisitos establecidos en este artículo.
+
+Cuando el contrato de arrendamiento afecte a bienes inmuebles necesarios al Instituto Nacional de Gestión Sanitaria para el cumplimiento de sus fines, la autorización del mismo corresponderá a la persona titular de la Dirección de dicha entidad gestora. Si el contrato de arrendamiento fuese una cantidad superior a 900.000 euros de renta anual, será necesaria la autorización de la persona titular del Ministerio de Sanidad.
+
+2\. Cuando la Tesorería General de la Seguridad Social actúe como arrendataria, los arrendamientos se concertarán mediante concurso público, salvo en aquellos casos en que, a juicio del Ministerio de Inclusión, Seguridad Social y Migraciones o del Ministerio de Sanidad si se trata de arrendamientos que afecten al Instituto Nacional de Gestión Sanitaria, quede acreditada en el expediente la necesidad o conveniencia de concertarlos de modo directo debido a las condiciones del mercado inmobiliario, la urgencia de la contratación debida a acontecimientos imprevisibles o la especial idoneidad del bien para el cumplimiento de los fines de las entidades gestoras y los servicios comunes de la Seguridad Social.
+
+Los arrendamientos concertados mediante concurso público se regirán por lo establecido en las disposiciones que regulan la adquisición de bienes inmuebles por concurso en todo lo que sea compatible con su naturaleza.
+
+3\. Las propuestas de arrendamiento de inmuebles ajenos, así como las de novación y prórroga, serán sometidas a informe de la Oficina Técnica de Supervisión de Proyectos de la Tesorería General de la Seguridad Social, que incorporará el correspondiente estudio de mercado. Posteriormente será sometido al informe del Servicio Jurídico de la Administración de la Seguridad Social.
+
+Asimismo, si el arrendamiento se realiza por adjudicación directa, será preceptivo el informe previo de la Intervención General de la Seguridad Social.
+
+4\. Cuando la Tesorería General de la Seguridad Social actúe como arrendataria, corresponderá a la persona titular de la Dirección General de dicha Tesorería, previos los trámites oportunos, acordar el arrendamiento o su prórroga, salvo que esta conste de forma expresa en el contrato, en cuyo caso operará automáticamente, y excepto en los supuestos en que se comunique al arrendador la voluntad de no renovar el contrato.
+
+Igualmente, corresponderá a dicho órgano acordar la novación del arrendamiento, la resolución anticipada del mismo o el cambio de organismo ocupante. En los supuestos de novación de carácter subjetivo, podrá incorporarse al expediente el informe técnico emitido con ocasión de la concertación del arrendamiento y, en los supuestos de novación por reducción de la renta acordada, aquel podrá consistir en una ratificación de la nueva renta pactada.
+
+La formalización de los contratos de arrendamiento de bienes inmuebles y sus modificaciones se efectuará por la persona titular de la Dirección General de la Tesorería General de la Seguridad Social.
+
+5\. Cuando el inmueble arrendado esté ocupado por entidades distintas a la Tesorería General de la Seguridad Social y estas prevean dejarlo libre con anterioridad al término pactado, lo comunicarán a dicho servicio común con una antelación mínima de tres meses a la fecha prevista para el desalojo.
+
+> Se modifica por el art. único.8 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+> Se añade el párrafo tercero al apartado 1 y se modifica el apartado 3 por el art. 4.4 y 5 del Real Decreto 1041/2005, de 5 de septiembre. [Ref. BOE-A-2005-15366](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15366).
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 59, de 10 de marzo de 1993. [Ref. BOE-A-1993-6499](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-6499).
+
+##### Artículo 17 bis. Aprovechamiento y explotación de los bienes inmuebles del patrimonio de la Seguridad Social.
+
+1\. Los bienes inmuebles del patrimonio de la Seguridad Social que, no siendo necesarios para el cumplimiento de los fines de las entidades gestoras y de los servicios comunes de la Seguridad Social, no estén destinados a ser enajenados y sean susceptibles de aprovechamiento rentable podrán ser objeto de explotación por la Tesorería General de la Seguridad Social a través de un contrato de arrendamiento y, en su defecto, de cualquier negocio jurídico, típico o atípico.
+
+2\. Los contratos para la explotación de los bienes inmuebles del patrimonio de la Seguridad Social tendrán una duración que se fijará en atención a la naturaleza del bien o derecho objeto de explotación y al fin perseguido con la misma, sin que la duración inicial pueda ser superior a veinte años, sin perjuicio de la posibilidad de prórroga en los términos del apartado 4 del artículo 17 quater, no pudiendo exceder, incluidas las prórrogas, de treinta años.
+
+3\. Cuando la Tesorería General de la Seguridad Social actúe como arrendadora, podrán concertarse contratos de arrendamiento con opción de compra sobre los inmuebles del patrimonio de la Seguridad Social con sujeción a las mismas normas de competencia y procedimiento aplicables a las enajenaciones previstas en el artículo 15. Los términos y condiciones de esta opción de compra deberán ser definidos en el contrato, si bien, en todo caso, el precio será fijado de conformidad con lo previsto en el artículo 15.2.
+
+4\. En los contratos de arrendamiento podrá acordarse libremente por las partes que, durante un plazo determinado, la obligación del pago de la renta pueda reemplazarse total o parcialmente por el compromiso del arrendatario de reformar o rehabilitar el inmueble en los términos y condiciones pactadas. Al finalizar el arrendamiento, el arrendatario no podrá pedir, en ningún caso, compensación adicional por el coste de las obras realizadas en el inmueble. El incumplimiento por parte del arrendatario de la realización de las obras en los términos y condiciones pactadas podrá ser causa de resolución del contrato de arrendamiento.
+
+5\. La atribución del uso de bienes inmuebles por plazo inferior a treinta días o para la organización de conferencias, seminarios, presentaciones u otros eventos no se sujetará a los requisitos del presente capítulo. El órgano que ostente la disposición y uso fijará en el acto de autorización tanto las condiciones de la utilización como la contraprestación a satisfacer por el solicitante.
+
+> Se añade por el art. único.8 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+##### Artículo 17 ter. Capacidad.
+
+1\. Podrán concertar negocios jurídicos de explotación de bienes inmuebles del patrimonio de la Seguridad Social las personas físicas o jurídicas que gocen de capacidad de obrar de acuerdo con lo previsto en el Código Civil.
+
+2\. Si la explotación se realizara por concurso, en el pliego de condiciones particulares podrán recogerse requisitos adicionales sobre el adjudicatario, en atención al objeto del concurso.
+
+3\. La subrogación de un tercero en los derechos y obligaciones del adjudicatario quedará sometida a la expresa autorización de la persona titular de la Dirección General de la Tesorería General de la Seguridad Social.
+
+> Se añade por el art. único.8 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+##### Artículo 17 quater. Formas de adjudicación.
+
+1\. Los contratos de arrendamiento que formalice la Tesorería General de la Seguridad Social como arrendadora y aquellos otros que puedan definirse para la explotación de los bienes inmuebles del patrimonio de la Seguridad Social se adjudicarán por concurso, salvo que, por las peculiaridades del bien, la limitación de la demanda, la urgencia resultante de acontecimientos imprevisibles o la singularidad de la operación, proceda la adjudicación directa.
+
+2\. Las bases del correspondiente concurso o las condiciones de la explotación de los bienes inmuebles se someterán a informe previo del Servicio Jurídico de la Administración de la Seguridad Social.
+
+3\. Cuando la contratación del arrendamiento se realice mediante adjudicación directa, deberá aportarse al expediente una memoria que contenga los motivos que justifiquen la adjudicación directa. Asimismo, será preceptivo el informe previo de la Intervención General de la Seguridad Social.
+
+En cualquier caso, los arrendamientos concertados mediante contratación directa se regirán por lo establecido en las disposiciones que regulan la enajenación de bienes inmuebles por adjudicación directa en todo lo que sea compatible con su naturaleza.
+
+4\. A petición del adjudicatario podrá prorrogarse el contrato para la explotación de bienes inmuebles, por un plazo que no podrá exceder de la mitad del plazo inicial, si el resultado de la explotación hiciera aconsejable esta medida.
+
+> Se añade por el art. único.8 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+## Capítulo III — Bienes muebles
+
+### Sección 1. Normas generales
+
+##### Artículo 18. Adquisición: Atribuciones.
+
+Los bienes muebles necesarios para el desenvolvimiento de los servicios, el ornato y la decoración de las distintas dependencias de la Seguridad Social, podrán ser adquiridos por el Director general de la Entidad Gestora o Servicio Común que haya de utilizarlos, sin perjuicio de su atribución genérica a la Tesorería General de la Seguridad Social.
+
+##### Artículo 19. Régimen de las adquisiciones.
+
+1\. Los contratos para la adquisición, a título oneroso, de los bienes muebles necesarios para el desenvolvimiento de los servicios, ornato y decoración de los diferentes servicios y unidades administrativas de las Entidades Gestoras y Servicios Comunes de la Seguridad Social, se regirán, en los términos establecidos en el artículo 7, por lo dispuesto en la Ley y Reglamento de Patrimonio del Estado, salvo cuando tengan la consideración legal de suministro, en cuyo caso se ajustarán a lo dispuesto en la Ley y Reglamento de Contratos del Estado, Orden de 9 de septiembre de 1985, de contratación de Entidades Gestoras de la Seguridad Social, y normas complementarias.
+
+2\. La adquisición de bienes muebles por herencia, legado o donación en favor de la Seguridad Social corresponde a la Tesorería General de la Seguridad Social, sin perjuicio de que, por delegación o apoderamiento de ésta, puedan efectuarse también tales adquisiciones directamente por la Entidad gestora de la Seguridad Social que el testador o donante haya señalado como beneficiaria. La aceptación de herencia se entenderá hecha siempre a beneficio de inventario.
+
+> Se modifica el apartado 2 por el art. único.4 del Real Decreto 939/2001, de 3 de agosto. [Ref. BOE-A-2001-17163](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-17163).
+
+##### Artículo 20. Conservación y disposición.
+
+1\. La conservación de los bienes muebles a que se refiere el artículo anterior se realizará por cada una de las Entidades Gestoras y Servicios Comunes que los usen o posean.
+
+2\. La enajenación, el gravamen, y en general, todos los actos de disposición de los bienes muebles de la Seguridad Social, así como los actos de administración ordinaria de dichos bienes, se realizarán por las Entidades que los hayan adquirido.
+
+Tales actos se regirán, en los términos establecidos en el artículo 7, por lo dispuesto en la Ley y Reglamento de Patrimonio del Estado, salvo cuando tengan la consideración legal de suministro, en cuyo caso se ajustarán a lo dispuesto en la Ley y Reglamento de Contratos del Estado, Orden de 9 de septiembre de 1985, de contratación de Entidades Gestoras de la Seguridad Social, y normas complementarias.
+
+3\. En todo caso, la Entidad de la Seguridad Social comunicará a la Tesorería General el acto de disposición que se proyecte, al objeto de que dicho Servicio Común, si lo considera procedente, lo ponga en conocimiento del resto de las Entidades por si estuvieran interesadas en la adquisición de dichos bienes, y, en caso negativo, aquéllas procederán a su enajenación.
+
+Se entenderá que no existe interés en la adquisición del bien sobre el que se pretenda disponer, cuando la Tesorería General de la Seguridad Social no dé contestación a la comunicación efectuada, en el plazo de treinta días, a contar desde su recepción, salvo que, en dicho plazo, comunique a la Entidad Gestora afectada que ha puesto en conocimiento de las demás Entidades de la Seguridad Social el acto de disposición, las cuales, deberán contestar en el plazo de quince días. Transcurrido dicho plazo, se entenderá que no existe interés en la adquisición del bien de que se trate.
+
+No será necesaria la comunicación a la Tesorería General de la Seguridad Social, cuando se trate de bienes muebles obsoletos, amortizados o deteriorados por el uso.
+
+### Sección 2. Valores mobiliarios
+
+##### Artículo 21. Titulación.
+
+La Tesorería General de la Seguridad Social titulará a su nombre todos los valores mobiliarios que formen parte del patrimonio de la Seguridad Social, realizándose, a tal efecto, las operaciones necesarias, incluida la intervención de fedatarios públicos que acrediten la titularidad de los valores.
+
+##### Artículo 22. Adquisiciones y enajenaciones.
+
+1\. La adquisición por la Seguridad Social de acciones, obligaciones, bonos y demás títulos representativos de capital, sea por suscripción o compra, se acordará por el Consejo de Ministros, a propuesta del Ministro de Trabajo y Seguridad Social, previo informe de la Dirección General de la Tesorería General y de la Intervención de la Seguridad Social.
+
+Corresponderá a la Tesorería General de la Seguridad Social la tramitación del oportuno expediente y la formalización, en nombre de la Seguridad Social, de dichos actos.
+
+Los títulos o los resguardos de depósito correspondientes se custodiarán por la Tesorería General de la Seguridad Social.
+
+Corresponde al Ministerio de Trabajo y Seguridad Social el ejercicio de los derechos atribuidos a la Seguridad Social, como partícipe directo de empresas mercantiles.
+
+2\. La enajenación de títulos valores, ya sean éstos de renta variable o fija, se efectuará por la Tesorería General de la Seguridad Social, previa autorización del Ministro de Trabajo y Seguridad Social, cuando su valor no exceda del tres mil millones de pesetas, o del Consejo de Ministros, cuando sobrepase dicha cuantía.
+
+La enajenación se efectuará de acuerdo con el procedimiento establecido en el artículo 102 y concordantes de la Ley de Patrimonio del Estado, en relación con el artículo 201 y siguientes de su Reglamento de aplicación.
+
+Por excepción, los títulos de cotización calificada en los Mercados secundarios de Valores se enajenarán directamente en los mismos, sin que se requiera autorización previa para su venta, cuando ésta venga exigida para atender el pago de prestaciones reglamentariamente reconocidas, y el importe bruto de la venta no exceda de cien millones de pesetas. De las enajenaciones de tales títulos se dará cuenta inmediata al Ministerio de Trabajo y Seguridad Social.
+
+## Capítulo IV — Patrimonio adscrito a las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social
+
+##### Artículo 23. Adquisición de los bienes inmuebles para las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social.
+
+1\. La adquisición de los bienes inmuebles que las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social necesiten para el cumplimiento de los fines de la colaboración en la gestión, que se realice con cargo a los ingresos que obtengan como consecuencia de las primas de accidentes de trabajo y enfermedades profesionales, se efectuará por dichas Entidades, previa autorización del Ministerio de Trabajo y Seguridad Social.
+
+2\. La propiedad de los bienes inmuebles y demás derechos reales sobre los mismos que, conforme a lo establecido en el número 4 del artículo 202 de la Ley General de la Seguridad Social, formen parte del patrimonio de la Seguridad Social, adscritos a las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales se titularán y, en su caso, se inscribirán a nombre de la Tesorería General de la Seguridad Social, haciendo constar las facultades de uso y disfrute que sobre dichos bienes corresponden a las Mutuas.
+
+##### Artículo 24. Arrendamientos.
+
+1\. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social podrán tomar directamente en arrendamiento los bienes inmuebles que precisen para el cumplimiento de sus fines.
+
+2\. El órgano de la Mutua de Accidentes de Trabajo y Enfermedades Profesionales que haya formalizado el contrato estará obligado a enviar al Ministerio de Trabajo y Seguridad Social una copia autorizada de la escritura notarial del contrato o del documento en que se hubiere formalizado, dentro del plazo de un mes a partir de la fecha de su formalización.
+
+En los supuestos de operaciones de «leasing» será necesaria la autorización del Ministerio de Trabajo y Seguridad Social para que las Mutuas puedan hacer uso del derecho de opción de compra implícito en el contrato de arrendamiento.
+
+3\. Cuando las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, a tenor de lo dispuesto en el número 5 del artículo 12, comuniquen a la Tesorería General de la Seguridad Social que no necesitan alguno de los bienes integrados en el patrimonio de la Seguridad Social a ellas adscritos, dicho Servicio Común podrá arrendar dichos bienes en los términos establecidos en el número 3 del artículo 17.
+
+##### Artículo 25. Utilización y disposición de inmuebles.
+
+1\. La adscripción, conservación, disfrute, mejora, enajenación y demás actos de disposición de los bienes inmuebles que formen parte del patrimonio único de la Seguridad Social, que sean o hayan de ser utilizados por las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social para el cumplimiento de sus fines, se regirán por las normas contenidas en el Capítulo II, a excepción de lo dispuesto en los artículos 12.3 y 13.3, debiendo ajustarse la actuación de las Mutuas a lo que en dicho Capítulo se previene en relación con las Entidades Gestoras.
+
+Las obras de ampliación y nueva planta que se realicen en los bienes inmuebles integrados en el patrimonio de la Seguridad Social y adscritos a las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, y que sean precisas para el cumplimiento de los fines de aquéllas, serán realizadas por las propias Entidades, previa autorización del Ministerio de Trabajo y Seguridad Social.
+
+2\. La Tesorería General de la Seguridad Social, mediante expediente contradictorio incoado al efecto y previa autorización del Ministro de Trabajo y Asuntos Sociales, podrá dejar sin efecto la adscripción de bienes inmuebles del patrimonio de la Seguridad Social a las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, cuando por los órganos competentes se compruebe que los mismos son objeto de utilización insuficiente o inadecuada o no son objeto de utilización exclusiva, en orden al cumplimiento de los fines determinantes de la adscripción.
+
+3\. Los ingresos procedentes de las enajenaciones de los bienes inmuebles tendrán el carácter de recursos de la Seguridad Social y se integrarán en los presupuestos de ingresos de la misma, a través del presupuesto de la Mutua.
+
+> Se modifica el apartado 2 por el art. único.5 del Real Decreto 939/2001, de 3 de agosto. [Ref. BOE-A-2001-17163](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-17163).
+
+##### Artículo 26. Adquisición, conservación y disposición de bienes muebles.
+
+1\. Los ingresos que las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social obtengan como consecuencia de las primas de accidentes de trabajo y enfermedades profesionales, así como los bienes muebles en que puedan invertirse dichos ingresos, forman parte del patrimonio único de la Seguridad Social y están afectos al cumplimiento de los fines de ésta.
+
+2\. La adquisición de los bienes muebles que las Mutuas de Accidentes de Trabajo necesiten para el desenvolvimiento de los servicios, ornato y decoración de sus dependencias, y que las mismas realicen con cargo a los ingresos que obtengan como consecuencia de las primas de accidentes de trabajo y enfermedades profesionales, será realizada por las propias Entidades, pudiendo efectuar la misma de forma directa.
+
+3\. La enajenación y demás actos de disposición de los bienes muebles podrán realizarse directamente por las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales. No obstante lo anterior, se necesitará autorización expresa del Ministerio de Trabajo y Seguridad Social para disponer de aquellos bienes muebles cuyo valor de coste supere la cuantía que determine dicho Departamento.
+
+Lo establecido en el párrafo anterior se entiende sin perjuicio de que las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales puedan realizar, con respecto a los bienes muebles, los actos de conservación, disfrute y mejora que estimen precisos para el cumplimiento de sus fines.
+
+4\. Los ingresos procedentes de las enajenaciones de los bienes muebles tendrán el carácter de recursos de la Seguridad Social y se integrarán en el presupuesto de ingresos de la misma, a través del presupuesto de la Mutua.
+
+##### Artículo 27. Adquisición y enajenación de valores mobiliarios.
+
+1\. La adquisición por parte de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social de títulos valores, sean acciones, obligaciones, bonos o demás títulos representativos de capital, bien mediante suscripción o compra, se efectuará por las citadas Entidades, ateniéndose a las prescripciones contenidas en el artículo 12 de la Orden del Ministerio de Trabajo y Seguridad Social, de 2 de abril de 1984.
+
+Asimismo, se dará cuenta a la Tesorería General de la Seguridad Social de cuantas adquisiciones de títulos valores se realicen.
+
+2\. La enajenación de títulos valores que formen parte de la cartera de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, cuando no sea para su sustitución ni hubieran sido adquiridos con cargo a los ingresos procedentes de las primas de accidentes de trabajo y enfermedades profesionales, se llevará a cabo previas las autorizaciones contempladas en el artículo 22.
+
+No obstante, cuando la enajenación venga exigida para garantizar el saldo medio anual mínimo establecido para los servicios de tesorería a que se refiere el artículo 30.1 del Reglamento sobre colaboración de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, aprobado por el Real Decreto 1993/1995, de 7 de diciembre, se llevará a cabo directamente sin que se requiera autorización previa, dando cuenta inmediata al Ministerio de Trabajo e Inmigración.
+
+3\. Los ingresos procedentes de la enajenación de los títulos valores tendrán el carácter de recursos de la Seguridad Social, y se integrarán en el presupuesto de ingresos de la misma, a través del presupuesto de la Mutua.
+
+4\. Lo dispuesto en el apartado anterior se entenderá sin perjuicio de las facultades reservadas al Ministerio de Trabajo e Inmigración sobre la disponibilidad del exceso del resultado económico positivo obtenido por la gestión de las contingencias profesionales, de conformidad con el artículo 66 del Reglamento sobre colaboración de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+> Se modifican los apartados 2 y 4 por la disposición final 1 del Real Decreto1622/2011, de 14 de noviembre. [Ref. BOE-A-2011-17977](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17977).
+
+##### Disposición adicional primera. Bienes excluidos.
+
+1\. Quedan excluidos del ámbito de aplicación de este Real Decreto los bienes integrantes del patrimonio de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales que hayan sido incorporados al mismo con anterioridad al 1 de enero de 1967 o durante el período comprendido entre esta fecha y el 31 de diciembre de 1975, siempre que, en este último caso, se trate de bienes adquiridos con el 20 por 100 del exceso de excedentes o mediante recursos distintos de los que tengan su origen en las primas recaudadas por las diferentes Mutuas de Accidentes de Trabajo y Enfermedades Profesionales.
+
+Los indicados bienes y sus productos, rentas e intereses, constituyen el patrimonio histórico de las Mutuas, cuya propiedad les corresponde en su calidad de asociación de empresarios, sin perjuicio de la tutela a que se refiere el artículo 205 del texto refundido de la Ley General de la Seguridad Social, aprobado por Decreto 2065/1974, de 30 de mayo.
+
+2\. El patrimonio histórico a que se refiere el número anterior se halla afectado estrictamente al fin social de la Entidad, sin que de su dedicación a los fines sociales de la Mutua puedan derivarse rendimientos e incrementos patrimoniales que, a su vez, constituyan gravamen para el patrimonio único de la Seguridad Social, rigiéndose en todo lo demás por las normas contenidas en los Estatutos de cada Mutua, que se hubiesen aprobado con sujeción al Reglamento de Colaboración en la Gestión, de 6 de julio de 1967, y demás disposiciones complementarias.
+
+Sin perjuicio de lo establecido con carácter general en el párrafo anterior, las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social que cuenten con bienes inmuebles integrantes de su patrimonio histórico, destinados a ubicar centros y servicios sanitarios o administrativos para el desarrollo de las actividades propias de la colaboración con la Seguridad Social que tienen encomendada, podrán cargar en sus respectivas cuentas de gestión un canon o coste de compensación por la utilización de tales inmuebles, previa autorización y en las condiciones que se determinen por el Ministerio de Trabajo y Seguridad Social.
+
+##### Disposición adicional segunda. Titulación e inscripción de bienes.
+
+1\. A efectos de lo dispuesto en este Real Decreto se titularán y, en su caso, se inscribirán a nombre de la Tesorería General de la Seguridad Social:
+
+a) Los bienes, derechos y demás recursos que tuvieran adscritos o de los que dispusieran los Organismos extinguidos en virtud de los números 1, 2 y 3 de la disposición final primera del Real Decreto-Ley 36/1978, de 16 de noviembre.
+
+b) Los bienes, derechos y demás recursos que tuviera adscritos o de que dispusiera el extinguido Servicio de Reaseguro de Accidentes de Trabajo, en la fecha de entrada en vigor del Real Decreto-Ley 13/1980, de 3 de octubre.
+
+c) Los bienes inmuebles adscritos a las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales que formen parte del patrimonio de la Seguridad Social, de acuerdo con lo establecido en el número 4 del artículo 202 del texto refundido de la Ley General de la Seguridad Social, en la redacción dada al mismo por el número cuatro de la disposición adicional decimocuarta de la Ley 4/1990, de 29 de junio, de Presupuestos Generales del Estado para 1990, en el artículo 3 del Real Decreto 255/1980, de 1 de febrero, y en el artículo 1.1.d) del Real Decreto 1314/1984, de 20 de junio.
+
+d) Los bienes y derechos de la Asociación Nacional de Inválidos Civiles relacionados en el anexo II de la Orden de 15 de enero de 1980, así como los enumerados en el anexo I de dicha Orden, permaneciendo éstos adscritos al Instituto Nacional de Servicios Sociales.
+
+e) Los bienes, derechos y demás recursos que hayan podido adquirir hasta la entrada en vigor del Real Decreto 255/1980, de 1 de febrero, las Entidades Gestoras de la Seguridad Social creadas al amparo del artículo primero, uno, del Real Decreto-ley 36/1978, de 16 de noviembre.
+
+f) Los bienes, derechos y demás recursos integrantes del extinguido Organismo Autónomo Administración Institucional de la Sanidad Nacional, en los términos previstos en el Real Decreto 187/1987, de 23 de enero.
+
+2\. A los efectos de lo dispuesto en el número anterior, respecto a los bienes inmuebles y demás derechos reales que estuvieran adscritos o de que dispusieran los Organismos y Entidades relacionados en el número anterior, el Director General de la Tesorería General instará del Registro de la Propiedad la realización de los oportunos asientos o inscripciones sobre la titularidad de dichos bienes, librando, en su caso, la certificación a que se refiere el artículo 50.1 de la Ley General de la Seguridad Social, en relación con el artículo 206 de la Ley Hipotecaria.
+
+La inscripción de dichos bienes y derechos se efectuará a nombre de la Tesorería General, aunque figurasen como titulares de los mismos en los registros correspondientes Entidades u Organismos distintos de los relacionados en el número 1 de esta disposición adicional, que, por norma dictada al efecto, se extinguieron e integraron en otros ya existentes o de nueva creación, sin que se efectuasen las oportunas inscripciones registrales, a cuyo efecto por la Tesorería General se comunicarán al Registro las denominaciones de los sucesivos titulares y las disposiciones legales en virtud de las cuales se han operado las transmisiones.
+
+##### Disposición adicional tercera. Obligación de remitir relaciones de bienes a la Tesorería General de la Seguridad Social por las Entidades Gestoras.
+
+Las Entidades Gestoras y Servicios Comunes de la Seguridad Social que, a la entrada en vigor del presente Real Decreto, ostenten, usen o disfruten bienes inmuebles integrantes del patrimonio de la Seguridad Social, vendrán obligados a facilitar a la Tesorería General relación de tales bienes.
+
+Los bienes inmuebles o muebles que ocupen, usen o disfruten las nuevas Entidades Gestoras de la Seguridad Social, con motivo de la reforma del Sistema establecido por el Real Decreto-Ley 36/1978, de 16 de noviembre, y disposiciones posteriores y complementarias, se considerarán definitivamente adscritos, a todos los efectos, a la Entidad o Servicio que los detenta, usa o disfruta por cualquier título, correspondiendo a dicha Entidad o Servicio la realización de los actos de conservación, defensa o mejora que procedan con cargo a su Presupuesto de Gastos.
+
+##### Disposición adicional cuarta. Obligación de remitir relaciones de bienes a la Tesorería General de la Seguridad Social por las Entidades Colaboradoras.
+
+Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social remitirán, en el plazo de noventa días hábiles, contados a partir del siguiente al de la entrada en vigor del presente Real Decreto, certificación expedida por su representante legal en la que se contenga una relación detallada y valorada, a precios contables, de los bienes de carácter inventariable a que se refiere el artículo 3 del Real Decreto 255/1980, de 1 de febrero, separando los muebles de los inmuebles y con especificación de las características esenciales de éstos que permitan su identificación y localización señalando, en su caso, los datos registrales.
+
+##### Disposición adicional quinta. Titulación de los valores mobiliarios.
+
+A efectos de la titulación de los valores mobiliarios a que se refiere el artículo 21, la Tesorería General recabará de las entidades financieras en que los títulos se encuentren depositados la expedición de nuevos resguardos a nombre de la misma, y cuando se trate de títulos nominativos comunicará, en su caso, a las sociedades emisoras el nombre del nuevo titular de los mismos.
+
+##### Disposición adicional sexta. Adscripción de bienes a las Comunidades Autónomas.
+
+1\. Los bienes que integran el patrimonio único de la Seguridad Social que en el futuro hayan de adscribirse a alguna Comunidad Autónoma como consecuencia del traspaso de servicios, así como el cambio de destino de los ya adscritos y la retrocesión de los mismos, en su caso, a la Seguridad Social, se ajustará al procedimiento establecido en el Acuerdo de traspaso.
+
+2\. Los bienes, derechos y demás recursos que integran el patrimonio único de la Seguridad Social que se hayan adscrito en virtud de un Real Decreto de traspaso a una Comunidad Autónoma, con anterioridad a la entrada en vigor del presente Real Decreto, se regirán por lo establecido en el correspondiente Acuerdo de la Comisión Mixta de Transferencias. Estos criterios serán de aplicación, asimismo, a las nuevas adscripciones y retrocesiones de los mismos.
+
+##### Disposición adicional séptima. Exenciones tributarias.
+
+De conformidad con lo establecido en el artículo 5 del Real Decreto 255/1980, de 1 de febrero, están exentas de cualquier tipo de tributación, incluidas tasas y exacciones parafiscales, y de los derechos y honorarios notariales y registrales, las transmisiones, cesiones, subrogaciones o adscripciones de bienes y derechos que se deriven de la aplicación de lo dispuesto en el presente Real Decreto, respecto de la reordenación institucional y concentración de titularidad en la Tesorería General de la Seguridad Social.
+
+##### Disposición adicional octava. Integración de bienes y derechos de las Mutualidades de Previsión de los extinguidos Mutualismo Laboral e Instituto Nacional de Previsión.
+
+Los bienes, derechos y demás recursos de que disponían la Mutualidad de Previsión de Funcionarios del extinguido Mutualismo Laboral y la Mutualidad de la Previsión del extinguido Instituto Nacional de Previsión en la fecha de su integración en el Fondo Especial del Instituto Nacional de la Seguridad Social, autorizada por Acuerdo del Consejo de Ministros de 21 de abril de 1989, se integran en el patrimonio único de la Seguridad Social y les será de aplicación el régimen jurídico que para el mismo se establece en el presente Real Decreto.
+
+A tales efectos, dichos bienes, derechos y recursos se titularán e inscribirán a nombre de la Tesorería General de la Seguridad Social en los términos y condiciones establecidos en este Real Decreto.
+
+> Se añade por el art. único.6 del Real Decreto 939/2001, de 3 de agosto. [Ref. BOE-A-2001-17163](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-17163).
+
+##### Disposición adicional novena. Gestión activa. Plan de optimización.
+
+Corresponde a la Dirección General de la Tesorería General de la Seguridad Social la gestión activa y continúa del patrimonio inmobiliario de la Seguridad Social. La gestión activa es el conjunto de actuaciones que permiten la optimización del patrimonio y que deberán reflejarse periódicamente en un plan de optimización.
+
+El plan de optimización se realizará atendiendo a los informes que se elaboren por parte de las entidades gestoras y de los servicios comunes de la Seguridad Social, así como por el resto de los usuarios del patrimonio de la Seguridad Social. Estos informes incluirán, entre otras, las siguientes actuaciones:
+
+a) Identificación de las previsiones de necesidades presentes y futuras de espacios de las entidades gestoras y de los servicios comunes.
+
+b) Previsión de las inversiones necesarias para la mejora y el mantenimiento del patrimonio inmobiliario, con especial atención a las dirigidas a la eficiencia energética.
+
+c) Relación de gastos, incluidos los tributarios, que generan los inmuebles y medidas para su control y reducción.
+
+d) Relación de bienes inmuebles que no son necesarios para atender las necesidades presentes y futuras, diferenciando aquellos inmuebles que son susceptibles de enajenación o explotación económica que permita la obtención de un rendimiento económico de aquellos que no, teniendo estos últimos la consideración de bienes innecesarios y por tanto ociosos, y susceptibles de cesión.
+
+e) Iniciación y seguimiento de los procesos de enajenación o explotación económica, dando suficiente publicidad del proceso en los términos de este real decreto.
+
+f) Información sobre la depuración de la situación jurídica y legal de los bienes, priorizando aquellos que sean susceptibles de enajenación o explotación económica.
+
+g) Actuaciones de supervisión e inspección sobre el cumplimiento de los fines y condiciones a que estén sujetos los inmuebles adscritos o cedidos en uso.
+
+> Se añade por el art. único.9 del Real Decreto 37/2023, de 24 de enero. [Ref. BOE-A-2023-2028](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2028)
+
+> Téngase en cuenta, sobre la periodicidad y plan de optimización, la disposición adicional segunda del citado Real Decreto.
+
+##### Disposición derogatoria única. Cláusula derogatoria.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto y, expresamente, las siguientes:
+
+– Artículos 1, 2, 4, 6, 7 y disposición transitoria del Real Decreto 255/1980, de 1 de febrero, por el que se atribuye a la Tesorería General de la Seguridad Social la titularidad y administración del patrimonio único de la Seguridad Social.
+
+– Artículo 4 y disposición transitoria quinta del Real Decreto 1509/1976, de 21 de mayo, por el que se aprueba el Reglamento General sobre colaboración de las Mutuas Patronales de Accidentes de Trabajo en la gestión de la Seguridad Social.
+
+– Artículo 4 de la Orden de 27 de enero de 1981 por la que se regula la asunción por la Tesorería General de la Seguridad Social de las funciones que correspondían al extinguido Servicio de Reaseguro de Accidentes de Trabajo, de acuerdo con lo dispuesto en el Real Decreto-Ley 13/1980, de 3 de octubre.
+
+##### Disposición final primera. Carácter básico.
+
+El presente Real Decreto se dicta al amparo de la competencia exclusiva del Estado en materia de régimen económico de la Seguridad Social, prevista en el artículo 149.1.17. de la Constitución Española.
+
+##### Disposición final segunda. Facultades para el desarrollo de lo establecido en el Real Decreto.
+
+Se faculta al Ministro de Trabajo y Seguridad Social para dictar cuantas disposiciones de carácter general resulten necesarias en la aplicación y desarrollo del presente Real Decreto.
+
+##### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 9 de octubre de 1992.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Seguridad Social,
+
+LUIS MARTÍNEZ NOVAL

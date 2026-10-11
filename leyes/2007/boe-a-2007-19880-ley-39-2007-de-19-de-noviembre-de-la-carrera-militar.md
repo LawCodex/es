@@ -322,12 +322,6 @@ e) Emitir informe en la tramitación de los expedientes de ascensos honoríficos
 
 f) Ser oídos expresamente en los procedimientos disciplinarios por falta muy grave que afecten al personal de su respectivo Ejército, de conformidad con lo preceptuado en la Ley Orgánica de Régimen Disciplinario de las Fuerzas Armadas.
 
-> Téngase en cuenta que esta última actualización del apartado 1.f) establecida por la disposición final 3.1 de la Ley Orgánica 8/2014, de 4 de diciembre. [Ref. BOE-A-2014-12652](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12652). entra en vigor el 5 de marzo de 2015.
-
-> Redacción anterior:
-
-> f) Ser oídos en los expedientes disciplinarios extraordinarios que afecten a personal de su respectivo Ejército, de conformidad con lo preceptuado en la Ley Orgánica 8/1998, de 2 de diciembre, de Régimen Disciplinario de las Fuerzas Armadas.
-
 2\. Reglamentariamente se determinarán su composición y demás competencias.
 
 > Se modifica el apartado 1.f) por la disposición final 3.1 de la Ley Orgánica 8/2014, de 4 de diciembre. [Ref. BOE-A-2014-12652](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12652).
@@ -954,14 +948,6 @@ d) Imposición de sanción disciplinaria de baja en el centro docente militar de
 
 e) Imposición de condena en sentencia firme por delito doloso, teniendo en consideración el tipo de delito y la pena impuesta, previa tramitación de un expediente administrativo con audiencia del interesado.
 
-> Téngase en cuenta que esta modificación de los apartados 2.d) y e) establecida por la disposición final 3.2 de la Ley Orgánica 8/2014, de 4 de diciembre. [Ref. BOE-A-2014-12652](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12652). entra en vigor el 5 de marzo de 2015.
-
-> Redacción anterior:
-
-> d) Imposición de sanción disciplinaria por falta grave de acuerdo con lo dispuesto en la Ley Orgánica 8/1998, de 2 de diciembre, de Régimen Disciplinario de las Fuerzas Armadas.
-
-> e) Sentencia firme condenatoria por delito doloso.
-
 f) Pérdida de la nacionalidad española o, en el supuesto de extranjeros, la de origen sin adquirir la española u otra de las que permitan el acceso a la condición de militar de complemento o de militar de tropa y marinería.
 
 g) Incumplimiento, en contra de lo declarado por el interesado, de las condiciones del artículo 56 para optar a la convocatoria para el ingreso en el correspondiente centro docente militar de formación.
@@ -969,12 +955,6 @@ g) Incumplimiento, en contra de lo declarado por el interesado, de las condicion
 3\. El Ministro de Defensa determinará el cuadro de condiciones psicofísicas y los plazos para superar los planes de estudios de la formación militar general y específica y para obtener las titulaciones para el acceso a las diferentes escalas. Dichos plazos se podrán establecer para la superación de cada curso académico y de todo el proceso de formación.
 
 4\. La resolución del procedimiento disciplinario que acuerde la baja por el motivo expresado en el apartado 2.d) puede ser objeto de los recursos previstos en la Ley Orgánica de Régimen Disciplinario de las Fuerzas Armadas y contra la que ponga fin a la vía disciplinaria podrá interponerse recurso contencioso-disciplinario militar en los términos previstos en la Ley Orgánica 2/1989, de 13 de abril, Procesal Militar. En los demás supuestos del apartado 2 se estará a lo dispuesto en el artículo 141.
-
-> Téngase en cuenta que esta modificación del apartado 4 establecida por la disposición final 3.2 de la Ley Orgánica 8/2014, de 4 de diciembre. [Ref. BOE-A-2014-12652](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12652). entra en vigor el 5 de marzo de 2015.
-
-> Redacción anterior:
-
-> 4\. La resolución del expediente disciplinario que acuerde la baja por el motivo expresado en el apartado 2.d) podrá ser objeto del recurso contencioso-disciplinario militar regulado en la Ley Orgánica 8/1998, de 2 de diciembre, de Régimen Disciplinario de las Fuerzas Armadas, ante el Tribunal Militar Central. En los demás supuestos del apartado 2 se estará a lo dispuesto en el artículo 141.
 
 5\. Al causar baja los alumnos perderán su condición militar, salvo que la tuvieran antes de ser nombrados alumnos, y el empleo militar que hubieran podido alcanzar con carácter eventual y se resolverá el compromiso inicial de quien lo hubiese firmado. La baja en los centros docentes militares, de los que hayan accedido de conformidad con el artículo 57.1, conllevará la baja en el centro universitario de la defensa correspondiente.
 
@@ -1082,12 +1062,6 @@ Incluye la escala a la que se accede, los empleos, ascensos, destinos, especiali
 
 2\. **(Sin contenido)**
 
-> Téngase en cuenta que, según establece la disposición final 3.3 de la Ley Orgánica 8/2014, de 4 de diciembre. [Ref. BOE-A-2014-12652](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12652). el apartado 2 queda sin contenido desde el 5 de marzo de 2015.
-
-> Redacción anterior:
-
-> 2\. La cancelación de una anotación de sanción por falta grave o sanción disciplinaria extraordinaria, de acuerdo con lo establecido en la Ley Orgánica 8/1998, de 2 de diciembre, de Régimen Disciplinario de las Fuerzas Armadas, producirá el efecto de anular la inscripción en la hoja de servicios sin que pueda certificarse de ella, salvo cuando lo soliciten las autoridades competentes para ello a los exclusivos efectos de las evaluaciones reglamentarias, de la concesión de recompensas y de la asignación de aquellos destinos cuyo desempeño se considere incompatible con la naturaleza de las conductas que hubieren determinado las sanciones de que se trate. La posibilidad de certificar las anotaciones ya canceladas se extenderá a las penas impuestas en cualquier jurisdicción.
-
 3\. Las faltas de carácter académico y las disciplinarias leves de los alumnos de la enseñanza de formación limitarán sus efectos al periodo escolar y no figurarán en la hoja de servicios del interesado.
 
 > Se deja sin contenido el apartado 2 por la disposición final 3.3 de la Ley Orgánica 8/2014, de 4 de diciembre. [Ref. BOE-A-2014-12652](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12652).
@@ -1147,12 +1121,6 @@ a) El historial militar.
 b) La información complementaria aportada por el interesado, a instancia del órgano de evaluación o a iniciativa propia, sobre su actuación profesional que fuera de interés y pudiera no estar reflejada en su historial militar.
 
 c) Las certificaciones sobre cancelación de sanciones por falta grave y muy grave a las que se refiere la Ley Orgánica de Régimen Disciplinario de las Fuerzas Armadas.
-
-> Téngase en cuenta que esta última actualización del apartado c) establecida por la disposición final 3.4 de la Ley Orgánica 8/2014, de 4 de diciembre. [Ref. BOE-A-2014-12652](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12652). entra en vigor el 5 de marzo de 2015.
-
-> Redacción anterior:
-
-> c) Las certificaciones a que se refiere el artículo 80.2.
 
 d) Cualquier otro informe que estime oportuno el órgano de evaluación, especialmente los que completen la información sobre la actuación profesional de los interesados.
 
@@ -1664,8 +1632,6 @@ Se les facilitará el acceso a información sobre prestaciones a las que tienen 
 
 Podrán seguir identificándose con el empleo militar que hubieran alcanzado, siempre acompañado de la palabra "retirado".
 
-> Téngase en cuenta que el último párrafo añadido por la disposición final 3.7 de la Ley Orgánica 8/2014, de 4 de diciembre. [Ref. BOE-A-2014-12652](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12652). entra en vigor el 5 de marzo de 2015.
-
 > Se añade el último párrafo por la disposición final 3.7 de la Ley Orgánica 8/2014, de 4 de diciembre. [Ref. BOE-A-2014-12652](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12652).
 
 ##### Artículo 116. Pérdida de la condición de militar de carrera.
@@ -1721,42 +1687,6 @@ i) Por incumplimiento, en contra de lo declarado por el interesado, de las condi
 5\. Los militares de complemento y los militares de tropa y marinería que mantienen una relación de servicios de carácter temporal se encontrarán en la situación legal de desempleo a efectos de la protección correspondiente, cuando finalice el compromiso que tengan suscrito o se resuelva por causas independientes de su voluntad.
 
 6\. El Ministerio de Defensa gestionará y convendrá con instituciones públicas y entidades privadas acciones orientadas a la incorporación laboral de los militares de complemento y de los militares de tropa y marinería.»
-
-> Téngase en cuenta que esta modificación del artículo establecida por la disposición final 3.8 de la Ley Orgánica 8/2014, de 4 de diciembre. [Ref. BOE-A-2014-12652](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12652). entra en vigor el 5 de marzo de 2014.
-
-> Redacción anterior:
-
-> **Artículo 118. Finalización y resolución de compromisos de los militares con una relación de servicios profesionales de carácter temporal.**
-
-> 1\. Los compromisos de los militares de complemento y de los militares de tropa y marinería finalizarán en su fecha de vencimiento y se resolverán por las causas establecidas en el artículo 10.2 de la Ley 8/2006, de 24 de abril, de Tropa y Marinería para los compromisos de larga duración, siempre que el interesado haya cumplido al menos tres años entre el compromiso inicial y, en su caso, el de renovación, perdiendo su condición militar.
-
-> Durante los tres primeros años de compromiso éste se resolverá por alguna de las siguientes causas:
-
-> a) A petición expresa del interesado por circunstancias extraordinarias y en las condiciones que reglamentariamente se determinen.
-
-> b) Por la adquisición de la condición de militar de carrera o de militar de complemento.
-
-> c) Por el ingreso en un centro de formación de la Guardia Civil o de la Policía Nacional.
-
-> d) Por el ingreso en cuerpos y escalas de funcionarios o adquisición de la condición de personal laboral fijo de las Administraciones públicas y Organismos públicos dependientes de ellas. A estos efectos, tendrán la misma consideración el nombramiento como funcionario en prácticas y la designación para realizar los períodos de prueba en los procesos selectivos de personal laboral.
-
-> e) Por la pérdida de la nacionalidad española.
-
-> f) Por insuficiencia de facultades profesionales.
-
-> g) Por insuficiencia de condiciones psicofísicas.
-
-> h) Por la imposición de sanción disciplinaria extraordinaria por aplicación de la Ley Orgánica de Régimen Disciplinario de las Fuerzas Armadas.
-
-> i) Por condena por delito doloso.
-
-> j) Por incumplimiento, en contra de lo declarado por el interesado, de las condiciones para optar a la convocatoria para el ingreso en el correspondiente centro docente militar de formación.
-
-> También se resolverá el compromiso de los militares de complemento, así como el de los militares de tropa y marinería con menos de seis años de servicios, cuando se dé alguna de las circunstancias por las cuales un militar de carrera pasa a la situación de servicios especiales, según el artículo 109.1, o a la de excedencia por prestación de servicios en el sector público, regulada en el artículo 110.2. En este último supuesto también se resolverá el de los militares de tropa y marinería con compromiso de larga duración.
-
-> 2\. Los militares de complemento y los militares de tropa y marinería que mantienen una relación de servicios de carácter temporal se encontrarán en la situación legal de desempleo a efectos de la protección correspondiente, cuando finalice el compromiso que tengan suscrito o se resuelva por causas independientes de su voluntad.
-
-> 3\. El Ministerio de Defensa gestionará y convendrá con instituciones públicas y entidades privadas acciones orientadas a la incorporación laboral de los militares de complemento y de los militares de tropa y marinería.
 
 > Se modifica por la disposición final 3.8 de la Ley Orgánica 8/2014, de 4 de diciembre. [Ref. BOE-A-2014-12652](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12652).
 

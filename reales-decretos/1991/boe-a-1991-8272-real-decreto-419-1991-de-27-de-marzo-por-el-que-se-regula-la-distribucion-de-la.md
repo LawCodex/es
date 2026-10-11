@@ -1,0 +1,103 @@
+---
+title: "Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios en las apuestas deportivas del Estado y otros juegos gestionados por el Organismo Nacional de Loterías y Apuestas del Estado"
+identifier: "BOE-A-1991-8272"
+eli: "https://www.boe.es/eli/es/rd/1991/03/27/419"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1991-03-27
+published: 1991-04-05
+in_force_from: 1991-04-06
+last_amended: 2026-05-08
+consolidated: 2026-07-01
+gazette: "Boletín Oficial del Estado núm. 82"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-8272"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios en las apuestas deportivas del Estado y otros juegos gestionados por el Organismo Nacional de Loterías y Apuestas del Estado
+
+La Ley 10/1990, de 15 de octubre, del Deporte, establece en su disposición adicional undécima que el Consejo Superior de Deportes incorporará en sus presupuestos una partida específica correspondiente a la participación de los clubes de fútbol que participan en competiciones de carácter profesional en la recaudación íntegra de las Apuestas Deportivas del Estado en concepto de reestructuración y saneamiento o cualquier otro que pudiera establecerse, siendo esta participación fijada por Real Decreto. Asimismo, la disposición transitoria tercera, en su apartado 2.c), dispone que la Liga Profesional percibirá y gestionará el 1 por 100 de la recaudación íntegra de las Apuestas Deportivas del Estado reconocida por la legislación vigente a su favor.
+
+Con objeto de contribuir a la financiación de la futura Olimpiada de 1992, que ha de celebrarse en Barcelona, se considera necesario establecer, sobre la recaudación íntegra de las Apuestas Mutuas Deportivo Benéficas, un porcentaje temporal, hasta la celebración de este evento, respetándose los porcentajes que las Diputaciones Provinciales o Comunidades Autónomas Uniprovinciales tienen reconocidos por los Reales Decretos 918/1985, de 11 de junio, y 815/1988, de 15 de julio.
+
+Por otra parte, en los juegos gestionados por el Organismo Nacional de Loterías y Apuestas del Estado, se considera necesario adaptar algunos aspectos comerciales a la situación actual del mercado.
+
+En su virtud, a propuesta de los Ministros de Economía y Hacienda y de Educación y Ciencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 27 de marzo de 1991,
+
+DISPONGO:
+
+## Artículo 1.
+
+**(Derogado)**
+
+> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única.1 del Real Decreto 369/2026, de 6 de mayo. [Ref. BOE-A-2026-9959](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9959), entra en vigor el 1 de julio de 2026, según determina su disposición final 3.
+
+> Redacción anterior:
+
+> "**Artículo 1**.
+
+> 1\. El importe obtenido por la recaudación del Impuesto sobre actividades de juego en relación con las apuestas mutuas deportivas a que se refieren el artículo 48.11 y la disposición adicional tercera de la Ley 13/2011, de 27 de mayo, de regulación del juego, será distribuido por el Consejo Superior de Deportes de la siguiente forma:
+
+> a) El 49,95% para las Diputaciones Provinciales, a través de las respectivas Comunidades Autónomas.
+
+> b) El 45,50% para la Liga Nacional de Fútbol Profesional.
+
+> c) El 4,55% para la Real Federación Española de Fútbol con destino al fútbol no profesional.
+
+> 2\. El importe que se consignará para cada uno de los distintos beneficiarios en los Presupuestos Generales del Estado, y que podrá ser destinado a financiar tanto operaciones de naturaleza corriente como actuaciones de inversión, será el resultado de aplicar los anteriores porcentajes a la previsión de recaudación por el Impuesto sobre actividades del juego en relación con las apuestas mutuas deportivas de fútbol.
+
+> Las cantidades determinadas conforme a lo previsto en el apartado 1 tendrán la consideración de entregas a cuenta de la recaudación que finalmente se obtenga en cada ejercicio presupuestario por el citado impuesto y se librarán conforme a la normativa vigente. Excepcionalmente, las cantidades que correspondan a la Real Federación Española de Fútbol serán libradas en un pago único.
+
+> 3\. Finalizado el correspondiente ejercicio presupuestario, se procederá a realizar la liquidación definitiva de las entregas a cuenta en la forma prevista en el apartado tres de la disposición adicional tercera de la Ley 13/2011, de 27 de mayo, de regulación del juego."
+
+> Se deroga, con efectos de 1 de julio de 2026, por la disposición derogatoria única.1 del Real Decreto 369/2026, de 6 de mayo. [Ref. BOE-A-2026-9959](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9959)
+
+> Téngase en cuenta que las referencias que en la normativa vigente se hagan a este artículo, se entenderán realizadas al artículo 2 del citado real decreto, según establece su disposición adicional 2.
+
+> Se modifica por el art. único del Real Decreto 403/2013, de 7 de junio. [Ref. BOE-A-2013-6079](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6079).
+
+> Se modifican las letras c) y d) por el art. 1 del Real Decreto 258/1998, de 20 de febrero. [Ref. BOE-A-1998-4053](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-4053).
+
+> Téngase en cuenta el art. 2 en cuanto a la aplicación de la letra b).
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 1998, según establece la disposición final 2.
+
+## Artículo 2.
+
+1\. Salvo lo establecido para la Lotería Nacional, que se regirá por sus normas específicas, los demás juegos de ámbito estatal gestionados por la entidad pública empresarial Loterías y Apuestas del Estado dedicarán a premios un porcentaje de la recaudación obtenida no inferior al 55 por ciento, que será distribuido por la citada entidad entre las distintas categorías de aciertos. Dicho porcentaje podrá adaptarse en los supuestos previstos en el artículo 2 del Real Decreto 773/1989, de 23 de junio.
+
+En el supuesto de modalidades de Lotería Primitiva de comercialización conjunta o coordinada con otras loterías, el porcentaje que se destinará a premios no será inferior al 50 por ciento de la recaudación obtenida.
+
+2\. Dentro del porcentaje establecido para premios, la entidad pública empresarial Loterías y Apuestas del Estado podrá destinar en los juegos mutuos un 10 por ciento de la recaudación a dotar un premio por la cuantía del reintegro del importe jugado en los boletos agraciados. Con objeto de atender el importe global de los reintegros habidos, la mencionada entidad creará un fondo especial para cubrir las diferencias que, por defecto o exceso, sobre el porcentaje global destinado a premios, se pueda producir en cada sorteo o jornada.
+
+> Se modifica por el art. 4 del Real Decreto 208/2004, de 6 de febrero. [Ref. BOE-A-2004-2305](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2305).
+
+## Artículo 3.
+
+El Organismo Nacional de Loterías y Apuestas del Estado podrá encomendar la comercialización de la totalidad de sus productos a los puntos de venta integrados en su red comercial, en las condiciones que determine el Ministerio de Economía y Hacienda.
+
+## Disposición transitoria
+
+No obstante lo dispuesto en la letra e) del artículo 1.º, durante los ejercicios de 1991 y 1992, ambos inclusive, se destinará hasta un máximo de un 7 por 100 de la recaudación íntega anual, a la financiación de los Juegos Olímpicos de «Barcelona 92».
+
+El porcentaje será fijado por el Ministerio de Economía y Hacienda de acuerdo con los remanentes existentes.
+
+## Disposición derogatoria
+
+Quedan derogados los Reales Decretos 918/1985, de 11 de junio, y 815/1988, de 15 de julio, así como las demás disposiciones de igual o inferior rango, en lo que se oponga a la presente disposición.
+
+## Disposición final
+
+Por el Ministro de Economía y Hacienda se dictarán, en su caso, las normas complementarias al presente Real Decreto, que entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado», sin perjuicio de que sus efectos se retrotraigan al 1 de enero de 1991.
+
+Dado en Madrid a 27 de marzo de 1991.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ

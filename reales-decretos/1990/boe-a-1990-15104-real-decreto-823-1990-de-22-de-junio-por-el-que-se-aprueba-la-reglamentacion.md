@@ -1,0 +1,247 @@
+---
+title: "Real Decreto 823/1990, de 22 de junio, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, circulación y comercio de productos derivados de cacao, derivados de chocolate y sucedáneos de chocolate"
+identifier: "BOE-A-1990-15104"
+eli: "https://www.boe.es/eli/es/rd/1990/06/22/823"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1990-06-22
+published: 1990-06-28
+in_force_from: 1990-06-29
+last_amended: 2013-03-29
+consolidated: 2026-04-14
+gazette: "Boletín Oficial del Estado núm. 154"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-15104"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 823/1990, de 22 de junio, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, circulación y comercio de productos derivados de cacao, derivados de chocolate y sucedáneos de chocolate
+
+Incluye la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23084](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23084)
+
+El Decreto de la Presidencia del Gobierno 2484/1967, de 21 de septiembre («Boletín Oficial del Estado», de 17 al 23 de octubre), que aprueba el Código Alimentario Español, prevé que puedan ser objeto de reglamentaciones especiales las materias en el reguladas.
+
+En cumplimiento del mandato al efecto llevado a cabo por Decreto de la Presidencia del Gobierno 2519/1974, de 9 de agosto («Boletín Oficial del Estado», de 13 de septiembre), que regula la entrada en vigor, aplicación y desarrollo del Código Alimentario Español, se dicto el Decreto 3610/1975, de 5 de diciembre («Boletín Oficial del Estado», de 20 de enero de 1976), por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, circulación y comercio del cacao, chocolate, productos derivados y sucedáneos de chocolate, modificado posteriormente por el Real Decreto 2687/1976, de 16 de octubre («Boletín Oficial del Estado», de 26 de noviembre), y por el Real Decreto 2354/1986, de 10 de octubre («Boletín Oficial del Estado», de 8 de noviembre).
+
+Producido el ingreso del Reino de España en el seno de las Comunidades Europeas, se hizo preciso armonizar nuestro derecho con el comunitario que, en este caso, solo regulaba determinados productos contemplados en el ámbito de aplicación del Decreto 3610/1975, de 5 de diciembre. Hubiera cabido la posibilidad de derogar parcialmente este último Decreto manteniendo su vigencia para los productos no regulados por la legislación comunitaria.
+
+No obstante, habida cuenta de que el mencionado Decreto 3610/1975 había sido ya objeto de ulteriores modificaciones, de que se han producido nuevos avances tecnológicos y la aparición de nuevos productos en el mercado, así como, sobre todo, del deseo de una mayor claridad en aras de la seguridad jurídica, ha aparecido más oportuno, de igual forma que con el cacao y el chocolate, regular ahora, mediante una reglamentación técnico-sanitaria específica, la elaboración, circulación y comercio de productos derivados de cacao y derivados de chocolate, así como lo referente a los sucedáneos del chocolate.
+
+Todo ello sin que lo dispuesto en esta disposición sea obstáculo al principio de la libre circulación de mercancías establecido en los artículos 30 y 36 del Tratado Constitutivo de la Comunidad Económica Europea, así como de las obligaciones derivadas de otros Tratados o convenios internacionales.
+
+El presente Real Decreto se aprueba al amparo del artículo 40.2 de la Ley 14/1986, de 25 de abril, General de Sanidad, en relación con el artículo 2. Del mismo cuerpo legal y de acuerdo con lo establecido en el artículo 149.1.10.ª y 16.ª de la Constitución Española.
+
+En su virtud, a propuesta de los Ministros de Economía y Hacienda, de Industria y Energía, de Agricultura, Pesca y Alimentación, y de Sanidad y Consumo, oídos los sectores afectados, previo informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 22 de junio de 1990,
+
+DISPONGO:
+
+> Redactado el párrafo sexto conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23084](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23084)
+
+### Artículo único.
+
+Se aprueba la adjunta reglamentación técnico-sanitaria para la elaboración, circulación y comercio de productos derivados de cacao, derivados de chocolate y sucedáneos de chocolate.
+
+### Disposición transitoria primera.
+
+Las prescripciones a que se refieren los epígrafes 2.1, 2.2, 2.3, 2.4, 2.5.3, 2.6.2 del artículo 2.º; párrafos segundo y tercero del epígrafe 3.2; los epígrafes 3.3, 3.7, 3.8 del artículo 3.º; el epígrafe 6.10 del artículo 6.º; el epígrafe 9.6 del artículo 9.º; Los epígrafes 10.1 en su integridad, a excepción de los apartados 10.1.1 y del 10.1.2, 10.2 y 10.3 todos del artículo 10, no serán exigibles hasta pasados veinticuatro meses, a contar desde la fecha de publicación en el «Boletín Oficial del Estado» del presente Real Decreto y de la Reglamentación Técnico-Sanitaria aprobada por el mismo.
+
+### Disposición transitoria segunda.
+
+Exclusivamente durante el periodo al que se refiere la disposición transitoria primera, permanecerán vigentes aquellos preceptos de las disposiciones que se derogan por el presente Real Decreto que hagan referencia a las materias y aspectos concretos afectados por la disposición transitoria primera.
+
+### Disposición derogatoria.
+
+Quedan derogados el Decreto 3610/1975, de 5 de diciembre («Boletín Oficial del Estado», de 20 de enero de 1976); el Real Decreto 2687/1976, de 16 de octubre («Boletín Oficial del Estado», de 26 de noviembre); el Real Decreto 2354/1986, de 10 de octubre («Boletín Oficial del Estado», de 8 de noviembre), y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.
+
+### Disposición adicional.
+
+Lo dispuesto en el presente Real Decreto y en la Reglamentación Técnico-Sanitaria que se aprueba, se dicta al amparo de lo establecido en el artículo 149.1.10.ª y 16.ª de la Constitución.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23084](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23084)
+
+### Disposición final.
+
+El presente Real Decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 22 de junio de 1990.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes
+
+y de la Secretaria del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA PARA LA ELABORACIÓN, CIRCULACIÓN Y COMERCIO DE PRODUCTOS DERIVADOS DE CACAO, DE CHOCOLATE Y SUCEDÁNEOS DE CHOCOLATE
+
+## TÍTULO PRELIMINAR — Ámbito de aplicación
+
+### Artículo 1.
+
+La presente reglamentación tiene por objeto definir, a efectos legales, que se entiende por productos derivados de cacao, de chocolate y sucedáneos de chocolate y fijar, con carácter obligatorio, las normas de dichos productos:
+
+1.1 Esta reglamentación obliga a todos los fabricantes, elaboradores, envasadores, comerciantes o importadores de productos derivados de cacao, de chocolate y de sucedáneos de chocolate.
+
+1.2 Se consideran fabricantes o elaboradores de productos derivados de cacao, de chocolate y sucedáneos de chocolate, aquellas personas naturales o jurídicas que dedican su actividad a la fabricación de los productos definidos en esta Reglamentación.
+
+## TÍTULO I — Definiciones y denominaciones
+
+### Artículo 2.
+
+Con arreglo a la presente reglamentación, se entenderá por productos derivados de cacao, de chocolate y sucedáneos de chocolate los productos destinados a la alimentación humana, que se definen a continuación:
+
+2.1 Cacao azucarado en polvo con harina, cacao azucarado con harina: el producto destinado a su consumo, previa cocción, obtenido mediante la mezcla de cacao en polvo, de sacarosa y harina o fécula de trigo, arroz o maíz, en tal proporción que 100 gramos de producto contengan, como mínimo, 32 gramos de cacao en polvo y un porcentaje de harina comprendido entre un mínimo del 12 por 100 y un máximo del 18 por 100.
+
+2.2 Cacao familiar azucarado en polvo con harina, cacao familiar azucarado con harina: el producto destinado a su consumo, previa cocción, obtenido mediante la mezcla de cacao en polvo, sacarosa y harina o fécula de trigo, arroz o maíz, en tal proporción que 100 gramos de producto contengan, como mínimo, 25 gramos de cacao en polvo y un porcentaje de harina comprendido entre un mínimo del 12 por 100 y un máximo del 18 por 100.
+
+2.3 Cacao magro azucarado en polvo con harina, cacao magro azucarado con harina, cacao desgrasado azucarado en polvo con harina, cacao desgrasado azucarado con harina: el producto destinado a su consumo, previa cocción, obtenido mediante la mezcla de cacao magro en polvo, sacarosa y harina o fécula de trigo, arroz o maíz, en tal proporción que 100 gramos de producto contengan, como mínimo, 32 gramos de cacao magro en polvo y un porcentaje de harina comprendido entre un mínimo del 12 por 100 y un máximo del 18 por 100.
+
+2.4 Cacao magro familiar azucarado en polvo con harina, cacao magro familiar azucarado con harina, cacao desgrasado familiar azucarado en polvo con harina, cacao desgrasado familiar azucarado con harina: el producto destinado a su consumo, previa cocción, obtenido mediante la mezcla de cacao desgrasado en polvo, sacarosa y harina o fécula de trigo, arroz o maíz, en tal proporción que 100 gramos de producto contengan, como mínimo, 25 gramos de cacao desgrasado en polvo y un porcentaje mínimo del 12 por 100 de harina.
+
+2.5 Coberturas especiales con grasa vegetal: son los productos elaborados de acuerdo con las definiciones características de los distintos tipos de coberturas de chocolate, en las que se ha sustituido, total o parcialmente, la manteca de cacao por otras grasas comestibles y/o sus fracciones, hidrogenadas o no. Sus características serán las siguientes, expresadas sobre materia seca:
+
+2.5.1 Cobertura especial con grasa vegetal: Tendrá los valores mínimos: Grasa total 31 por 100, cacao seco desgrasado 14 por 100.
+
+2.5.2 Cobertura especial con grasa vegetal y leche: Tendrá los valores mínimos: grasa total 31 por 100, cacao seco desgrasado 4 por 100 y sólidos totales de leche 10 por 100.
+
+2.5.3 Cobertura especial con grasa vegetal blanca: Tendrá los valores mínimos: grasa total 31 por 100, sólidos totales de leche 14 por 100 y grasa butírica 3,5 por 100.
+
+2.6 Artículos de confitería:
+
+2.6.1 De cacao y chocolate: Son preparados de forma y composición variable con un contenido mínimo del 10 por 100 de chocolate y/o coberturas de chocolates. Asimismo podrán llevar coberturas especiales.
+
+2.6.2 De sucedáneos de chocolate: Son preparados de forma y composición variable con un contenido mínimo del 10 por 100 de sucedáneos de chocolate, y/o coberturas especiales.
+
+2.7 Sucedáneos de chocolate: son aquellos preparados que, bajo formatos o moldeados especiales y que son susceptibles por su presentación, aspecto o consumo de ser confundidos con el chocolate, cumplen los requisitos establecidos para este producto en la reglamentación técnico-sanitaria sobre los productos de cacao y chocolate destinados a la alimentación humana, excepto en que la manteca de cacao ha sido sustituida total o parcialmente por otras grasas vegetales comestibles o sus fracciones hidrogenadas o no hidrogenadas y la diferenciación clara en el etiquetado.
+
+La definición de ''sucedáneos de chocolate'' únicamente afecta a los preparados en los que se sustituya total o parcialmente la manteca de cacao por otras grasas vegetales, según se indica en el párrafo precedente y, por tanto, no es de aplicación a los productos a los que se les adicionen grasas vegetales distintas a la manteca de cacao, de acuerdo con lo establecido en el apartado 2 de la mencionada reglamentación técnico-sanitaria, sobre los productos de cacao y chocolate destinados a la alimentación humana.
+
+> Se modifica el apartado 2.7 por la disposición adicional única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599).
+
+> Redactado el apartado 2.5.2 conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23084](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23084)
+
+## TÍTULO II — Manipulaciones permitidas y prohibidas
+
+### Artículo 3. Manipulaciones permitidas.
+
+En la elaboración de derivados de cacao, de chocolate y sucedáneos de chocolate, se observaran las siguientes prescripciones:
+
+3.1 **(Derogado)**
+
+3.2 **(Derogado)**
+
+3.3 Con exclusión de los compuestos aromáticos que recuerdan el sabor de la materia grasa de la leche, se permite la adición de sustancias aromáticas naturales e idénticas a las naturales, así como la etilvainillina, a los productos contemplados en esta Reglamentación.
+
+3.4 **(Derogado)**
+
+3.5 Las grasas comestibles vegetales, hidrogenadas o no, distintas a la manteca de cacao, destinadas a los productos que puedan contenerla, serán de buena calidad, sin gustos ni olores extraños, cumpliendo lo dispuesto en la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio de grasas comestibles, animales, vegetales y anhídras, margarinas, minarinas y preparados grasos.
+
+3.6 Se permite la adición, como ingredientes, de otros productos alimenticios, siempre que se ajusten a su correspondiente normativa.
+
+3.7 La cantidad añadida de estos productos alimenticios, en relación con la masa total del producto, no puede ser:
+
+a) Ni inferior al 5 por 100 ni superior en total al 40 por 100, cuando sean añadidas en trozos visibles y separables.
+
+b) Superior al 30 por 100 en total, cuando se añaden de tal forma que prácticamente no se pueden discernir.
+
+c) Salvo lo dispuesto en el apartado a), superior al 40 por 100 en total, cuando se añadan al mismo tiempo en trozos separables y en forma que prácticamente no se pueda discernir.
+
+3.8 Se permite que los productos enumerados en el artículo 2.º contengan, en lugar de sacarosa:
+
+Glucosa cristalizada (dextrosa), fructosa, lactosa o maltosa, hasta un total de un 5 por 100 de la masa total del producto y sin que sea necesario declararlo.
+
+Glucosa cristalizada (dextrosa), en una proporción superior al 5 por 100, pero no superior al 20 por 100 de la masa total del producto.
+
+> Se derogan los apartados 1, 2 y 4 por el art. 48 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 170, de 17 de julio de 2013. [Ref. BOE-A-2013-7835](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7835).
+
+> Se derogan los apartados 3.2 y 3.4 por la disposición derogatoria única.71 del Real Decreto 145/1997, de 31 de enero. [Ref. BOE-A-1997-6156](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-6156).
+
+> Redactado el apartado 3.5 conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23084](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23084)
+
+### Artículo 4. Manipulaciones prohibidas.
+
+**(Derogado)**
+
+> Se deroga por el art. 48 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO III — Condiciones de las industrias, de los materiales y del personal
+
+### Artículo 5. Requisitos industriales.
+
+**(Derogado)**
+
+> Se deroga por el art. 48 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Artículo 6. Requisitos higiénico-sanitarios.
+
+**(Derogado)**
+
+> Se deroga por el art. 48 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Redactado el apartado 6.2 conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23084](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23084)
+
+### Artículo 7. Condiciones del personal.
+
+**(Derogado)**
+
+> Se deroga por el art. 48 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Artículo 8. Condiciones generales de los materiales.
+
+**(Derogado)**
+
+> Se deroga por el art. 48 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO IV — Envasado, etiquetado y rotulación
+
+### Artículo 9. Envasado.
+
+**(Derogado)**
+
+> Se deroga por el art. 48 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Artículo 10. Etiquetado y rotulación.
+
+El etiquetado y la rotulación de los envases deberán cumplir lo dispuesto en la norma general de etiquetado, presentación y publicidad de los productos alimenticios envasados, aprobada por Real Decreto 1122/1988, de 23 de septiembre («Boletín Oficial del Estado», de 4 de octubre), con las siguientes particularidades:
+
+10.1 Denominación del producto. Serán las previstas en la presente Reglamentación técnico-sanitaria contempladas en el título primero:
+
+10.1.1 Para los productos sucedáneos del chocolate y confitería de sucedáneos de chocolate, sus etiquetas podrán llevar en la cara principal el nombre comercial o de fantasía que elija el fabricante e, inmediatamente debajo, la mención «sucedáneo de chocolate».
+
+En los casos en que se haga uso de un nombre comercial o de fantasía, éste ira en la cara principal o anverso de la envoltura, quedando terminantemente prohibida la utilización de las palabras «cacao» o «chocolate», así como también los grupos de sílabas o letras que puedan recordar aquellas palabras («choco», «choc», «late», «cao», etc.). No obstante, la palabra «cacao» podrá figurar en la lista de ingredientes.
+
+10.1.2 Se permite el uso de la denominación «al chocolate», «de chocolate» o «con chocolate», en los productos alimenticios que, no dando lugar a confusión con el chocolate definido en la reglamentación de cacao y chocolate, contengan un mínimo del 8 por 100 de componentes de cacao en los productos sólidos y del 5 por 100 en los demás, calculado sobre materia seca. En caso de no alcanzarse estos límites, podrá emplearse la denominación «al cacao».
+
+10.1.3 Se prohíbe acompañar a la denominación de los productos contemplados en la presente Reglamentación una mención relativa a materias comestibles añadidas siguientes:
+
+La leche y los productos lácteos cuando el producto final contenga menos de los fijados por esta Reglamentación para ambos ingredientes.
+
+El café y los licores, cuando la cantidad de cada uno de ellos es inferior al 1 por 100 de la masa total del producto final.
+
+Los demás productos alimenticios añadidos en forma tal que prácticamente no se puedan discernir, cuando la cantidad de cada uno de ellos es inferior al 5 por 100 de la masa total del producto final.
+
+10.2 **(Derogado)**
+
+10.3 **(Derogado)**
+
+> Se derogan los apartados 2 y 3 por el art. 48 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Redactado el párrafo primero del apartado 10.1.1 conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23084](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23084)
+
+## TÍTULO V — Exportación e importación
+
+### Artículo 11. Exportación e importación.
+
+11.1 Los productos alimenticios contemplados en esta reglamentación, que se elaboren con destino exclusivo para su exportación, a países no pertenecientes a la Comunidad Económica Europea y no cumplan lo dispuesto en esta disposición deberán llevar impresa en su embalaje la palabra «EXPORT». Además su etiqueta deberá llevar la palabra EXPORT, o cualquier otro signo inequívocamente para evitar que el producto sea comercializado y consumido en España.
+
+11.2 **(Derogado)**
+
+> Se deroga el apartado 2 por el art. 48 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23084](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23084)

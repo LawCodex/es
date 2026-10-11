@@ -1,0 +1,1081 @@
+---
+title: "Real Decreto 949/2001, de 3 de agosto, por el que se regula el acceso de terceros a las instalaciones gasistas y se establece un sistema económico integrado del sector de gas natural"
+identifier: "BOE-A-2001-17027"
+eli: "https://www.boe.es/eli/es/rd/2001/08/03/949"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía"
+date: 2001-08-03
+published: 2001-09-07
+in_force_from: 2001-09-08
+last_amended: 2020-12-30
+consolidated: 2026-04-21
+gazette: "Boletín Oficial del Estado núm. 215"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-17027"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 949/2001, de 3 de agosto, por el que se regula el acceso de terceros a las instalaciones gasistas y se establece un sistema económico integrado del sector de gas natural
+
+La Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, establece en su disposición final segunda, que el Gobierno, en el ámbito de sus competencias, aprobará mediante Real Decreto las normas de desarrollo de la Ley.
+
+El Real Decreto-ley 6/2000, de 23 de junio, de medidas urgentes de intensificación de la competencia en mercados de bienes y servicios, establece en su artículo 8 que el Gobierno, mediante Real Decreto, aprobará en el plazo de seis meses un sistema económico integrado del sector de gas natural, que incluya el modelo para el cálculo de las tarifas de gas natural y de los peajes y cánones aplicables al uso por terceros de la red gasista, el sistema para determinar la remuneración que corresponda a cada uno de los titulares de las instalaciones gasistas y el procedimiento de reparto de los ingresos totales entre los distintos agentes que actúan en el sector gasista.
+
+La regulación objeto del presente Real Decreto pretende conjugar tres objetivos de la política energética y su aplicación al sector del gas natural, que se concretan en garantizar un desarrollo suficiente de las infraestructuras mediante un sistema de retribuciones que permita una adecuada rentabilidad de las inversiones, diseñar un sistema de tarifas, peajes y cánones basado en costes, con el fin de imputar a cada consumidor los costes en que incurra el sistema relativos a su consumo y por último regular el acceso de terceros a la red, de forma que su aplicación sea objetiva, transparente y no discriminatoria.
+
+La consecución de estos objetivos permitirá la seguridad de suministro y una liberalización efectiva en el sector, lo que conducirá a un servicio al consumidor final con la máxima calidad y precios competitivos.
+
+El Real Decreto, regula todos los aspectos relativos al acceso de terceros a las instalaciones gasistas, estableciendo, en primer lugar, las instalaciones incluidas en el régimen de acceso de terceros y los sujetos con derecho de acceso. Asimismo, establece el procedimiento a seguir para solicitar y contratar el acceso a instalaciones de terceros, simplificando el procedimiento actual, al limitar el número de contratos que deben realizarse. Recoge las posibles causas de denegación del acceso y desarrolla los derechos y obligaciones relativas al acceso de terceros de los diferentes sujetos afectados por el mismo.
+
+Con el fin de garantizar el correcto funcionamiento técnico del sistema, se desarrollan las líneas básicas que deben contener las Normas de Gestión Técnica del Sistema, elemento fundamental para el buen funcionamiento del mismo.
+
+En lo que respecta al sistema económico integrado del sector, se desarrolla el capítulo VII, del Título IV de la Ley del Sector de Hidrocarburos, estableciendo en primer lugar, la retribución de las actividades reguladas. Se configura el procedimiento de cálculo de las retribuciones para cada una de dichas actividades. La retribución de la actividad de regasificación y almacenamiento de gas natural licuado se establece a través del cobro de los correspondientes peajes y cánones. En el caso de las instalaciones de almacenamiento de gas natural y transporte, la retribución se calcula de forma individual para cada instalación y para las instalaciones de distribución, la retribución se calcula para el conjunto de la actividad de cada empresa distribuidora.
+
+En lo que respecta a las tarifas, peajes y cánones, se establecen los criterios generales para su determinación y la estructura de los mismos. Respecto a los peajes y cánones actuales hay que destacar que se extiende el peaje de regasificación a la carga de cisternas en plantas de regasificación y se incluye un nuevo canon de almacenamiento de gas natural licuado (GNL). Asimismo se establece un único peaje para el transporte y la distribución, en función de la presión a la que estén conectadas las instalaciones del consumidor y del volumen anual de gas consumido.
+
+En el sistema de tarifas, se opta por un sistema basado en costes, de acuerdo con lo previsto en el artículo 8 del Real Decreto-ley 6/2000, y en su estructura se mantiene un paralelismo con la estructura de peajes de transporte y distribución. Es decir, se abandona el sistema de usos y se aplica una estructura basada en niveles de presión y volumen de consumo.
+
+Por último, se establece el procedimiento de liquidaciones.
+
+Tal y como dispone la disposición final primera de la Ley 34/1998, del Sector de Hidrocarburos, la presente norma tiene carácter básico, de acuerdo con el artículo 149.1, 13.<sup>a</sup> y 25.<sup>a</sup>, de la Constitución, que atribuye al Estado competencias exclusivas sobre las bases y coordinación de la planificación general de la actividad económica y sobre las bases del régimen energético.
+
+De acuerdo con la disposición adicional undécima, apartado tercero, de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, el presente Real Decreto ha sido sometido a informe preceptivo de la Comisión Nacional de Energía.
+
+En su virtud, a propuesta del Vicepresidente Segundo del Gobierno para Asuntos Económicos y Ministro de Economía, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 3 de agosto de 2001,
+
+D I S P O N G O :
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Objeto.
+
+El presente Real Decreto tiene por objeto regular el funcionamiento del sistema gasista, en lo que se refiere al acceso de terceros a las instalaciones, determinando los criterios generales que deben regir el funcionamiento técnico del sistema, la retribución de las actividades reguladas, el sistema de tarifas, peajes y cánones, así como el procedimiento de liquidaciones.
+
+El presente Real Decreto se dicta en desarrollo de lo dispuesto en el Título IV de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, con el fin de garantizar la continuidad, calidad y seguridad del suministro de gas natural, coordinando la actividad de todos los sujetos que actúan en el sistema, respetando los principios de objetividad, transparencia y no discriminación.
+
+#### Artículo 2. Ámbito de aplicación.
+
+1\. Quedan incluidas en el ámbito de aplicación del presente Real Decreto las actividades reguladas de regasificación, transporte, almacenamiento y distribución.
+
+2\. Quedan excluidas del ámbito de aplicación del presente Real Decreto, las actividades relacionadas con el suministro de gases licuados del petróleo por canalización.
+
+3\. El sistema de tarifas de gas natural será también de aplicación a la distribución por canalización de los gases indicados en el artículo 56 de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos.
+
+## CAPÍTULO II — Acceso de terceros a las instalaciones gasistas
+
+#### Artículo 3. Instalaciones incluidas en el régimen de acceso de terceros.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 984/2015, de 30 de octubre. [Ref. BOE-A-2015-11725](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11725).
+
+#### Artículo 4. Sujetos con derecho de acceso.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 984/2015, de 30 de octubre. [Ref. BOE-A-2015-11725](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11725).
+
+#### Artículo 5. Solicitud de acceso.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 984/2015, de 30 de octubre. [Ref. BOE-A-2015-11725](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11725).
+
+> Se añade el párrafo tercero al apartado 2 y el apartado 3 por el art. 4 del Real Decreto 1766/2007, de 28 de diciembre. [Ref. BOE-A-2007-22455](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22455).
+
+> Se modifica el apartado 1 por la disposición adicional 1 del Real Decreto 1434/2002, de 27 de diciembre. [Ref. BOE-A-2002-25421](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25421).
+
+#### Artículo 6. Contratación del acceso a instalaciones gasistas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 984/2015, de 30 de octubre. [Ref. BOE-A-2015-11725](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11725).
+
+> Se modifica el apartado 8 por el art. 2.1 del Real Decreto 942/2005, de 29 de julio. [Ref. BOE-A-2005-13335](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-13335).
+
+> Se modifican los apartados 3 a 6, y se renumera el 6 y 7 como 7 y 8 por la disposición adicional 2 del Real Decreto 1434/2002, de 27 de diciembre. [Ref. BOE-A-2002-25421](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25421).
+
+#### Artículo 7. Condiciones mínimas de los contratos de acceso a las instalaciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 984/2015, de 30 de octubre. [Ref. BOE-A-2015-11725](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11725).
+
+> Se modifica el apartado 4 por la disposición adicional 3 del Real Decreto 1434/2002, de 27 de diciembre. [Ref. BOE-A-2002-25421](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25421).
+
+#### Artículo 8. Causas de denegación del acceso de terceros a las instalaciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 984/2015, de 30 de octubre. [Ref. BOE-A-2015-11725](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11725).
+
+> Se modifica la letra a) por la disposición adicional 4 del Real Decreto 1434/2002, de 27 de diciembre. [Ref. BOE-A-2002-25421](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25421).
+
+#### Artículo 9. Solicitud para poder denegar el acceso a causa de dificultades económicas graves derivadas de contratos de compra garantizada.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 984/2015, de 30 de octubre. [Ref. BOE-A-2015-11725](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11725).
+
+#### Artículo 10. Derechos y obligaciones de los titulares de las instalaciones relacionados con el acceso de terceros a las mismas.
+
+1\. Los titulares de las instalaciones en relación con las cuales pueda ejercerse el derecho de acceso tendrán los siguientes derechos:
+
+a) Percibir la remuneración económica que la legislación establezca.
+
+b) Exigir, de sus respectivos titulares, que las instalaciones conectadas a las de su propiedad cumplan los requisitos técnicos de seguridad y control establecidos que permitan un sistema fiable y eficaz.
+
+c) Exigir, de los agentes que incorporen gas al sistema, que el gas natural que se introduzca en sus instalaciones cumpla las especificaciones de calidad establecidas.
+
+d) Exigir de los sujetos con derecho de acceso la comunicación de sus programas de consumo y de cualquier incidencia que pueda hacer variar sustancialmente dichas previsiones.
+
+e) Acceder a los equipos de medición que sirvan para determinar la cantidad y calidad del gas que se introduce en sus instalaciones, así como estar presente en las verificaciones de la precisión de los mismos. Acceder y verificar los contadores de todos los clientes conectados a sus instalaciones.
+
+2\. Los titulares de instalaciones en relación con las cuales pueda ejercerse el derecho de acceso tendrán las siguientes obligaciones:
+
+a) Gestionar y operar sus instalaciones, en coordinación con otros titulares de instalaciones cuando la misma sea necesaria para garantizar los servicios de acceso contratados y en cualquier caso con el gestor técnico del sistema, y cuando la fiabilidad y seguridad del sistema interconectado lo requiera.
+
+b) Suscribir, en condiciones transparentes, homogéneas y no discriminatorias, los contratos de acceso con los sujetos con derecho de acceso a que se refiere el artículo 4 en los términos que se recogen en el presente Real Decreto y disposiciones que lo desarrollen.
+
+c) Realizar los servicios contratados en las cantidades y condiciones convenidas bajo las directrices del gestor técnico del sistema.
+
+d) Disponer de los equipos de medida, en aquellos puntos intermedios del sistema gasista en que sean necesarios para el buen funcionamiento del sistema tanto desde el punto de vista técnico como del económico, de acuerdo con lo que establezcan las Normas de Gestión Técnica del Sistema. Estos equipos serán, salvo acuerdo en contrario, propiedad de la empresa que realiza la entrega del gas a otra instalación.
+
+e) Facilitar la información necesaria al gestor técnico del sistema, a los sujetos con derecho de acceso y a otros titulares de instalaciones para el correcto funcionamiento del sistema y para la evaluación de posibilidad de nuevos contratos de acceso.
+
+f) Informar a la Dirección General de Política Energética y Minas del Ministerio de Economía en la forma que ésta determine, a la Comisión Nacional de Energía y al gestor técnico del sistema, sobre datos relativos al consumo, aprovisionamiento, existencias, y capacidades contratadas y disponibles.
+
+g) Comunicar al gestor técnico del sistema, con la debida antelación, los planes de mantenimiento e incidencias de sus instalaciones, en aquellos casos en los que se pueda ver afectada la red básica o de transporte secundario y modificar los mismos de acuerdo con las directrices de éste. Asimismo, comunicar las citadas incidencias a los sujetos que actúan en el sistema y consumidores afectados.
+
+h) Disponer de los equipos de medida necesarios para alquilar a los consumidores conectados a sus instalaciones que así lo soliciten y proceder a su instalación y mantenimiento, siempre y cuando el consumidor esté conectado a un gasoducto cuya presión de diseño sea igual o inferior a 4 bares.
+
+i) Proceder, por sí mismo o a través de terceros, a la lectura de los contadores de todos los consumidores conectados a sus instalaciones, y dar traslado del detalle de dichas lecturas a los comercializadores correspondientes. Además, los datos de lectura agregados por tipos de tarifas o peajes y por comercializadores se comunicarán al gestor técnico del sistema y al transportista que le suministra el gas, con el detalle necesario para la aplicación de los peajes y cánones y la realización del balance de red.
+
+j) Asegurar que los sistemas de medición, de su propiedad, del gas suministrado mantienen la precisión exigida de acuerdo con lo que establezcan las Normas de Gestión Técnica del Sistema. Para ello, gestionará la verificación periódica de sus equipos de medida de volumen y características del gas, y de las instalaciones de los puntos de suministro conectadas a sus redes, utilizando para ello los servicios de una entidad acreditada para tal fin.
+
+k) Efectuar el cálculo del balance físico del gas que pasa por sus instalaciones, en la forma y con la periodicidad que se determine en las Normas de Gestión Técnica del Sistema.
+
+l) Tener a disposición de quien lo solicite, el alcance y las condiciones económicas aplicables de los servicios específicos distintos de los regulados que puedan prestar.
+
+m) Garantizar el secreto de la información de carácter confidencial que haya sido puesta a su disposición.
+
+n) Suscribir y mantener actualizadas las correspondientes pólizas de seguros, con objeto de cubrir los riesgos que para personas o bienes puedan derivarse de las actividades ejercidas.
+
+3\. En todo caso, los titulares de instalaciones de distribución deberán proceder a las ampliaciones necesarias de sus instalaciones en caso de falta de capacidad para atender la demanda en su zona de distribución, sin perjuicio de lo que resulte de la aplicación del régimen que reglamentariamente se establezca para las acometidas.
+
+#### Artículo 11. Derechos y obligaciones de los sujetos con derecho de acceso.
+
+1\. Son derechos de los sujetos con derecho de acceso los siguientes:
+
+a) Contratar aquellos servicios de acceso a las instalaciones del sistema gasista que consideren más adecuados para sus intereses en las condiciones reguladas en el presente Real Decreto y disposiciones de desarrollo.
+
+b) Recibir el gas en las condiciones de regularidad establecidas y con la calidad y presión que se determine en el contrato.
+
+c) Solicitar, en caso de consumidores cualificados, la conexión mediante una línea directa a la red de gasoductos más próxima que reúna las condiciones técnicas adecuadas o solicitar la conexión al titular de las instalaciones de transporte o distribución de acuerdo con la normativa en vigor.
+
+d) Recibir, con la antelación suficiente, cualquier información referente a la operación del sistema gasista que pueda tener incidencia sobre la regularidad y calidad de suministro incluidos en los contratos de acceso suscritos.
+
+e) Proceder por sí mismo o a través de terceros a la lectura de los contadores de los clientes finales a los que suministren, en caso de los comercializadores, y de sus consumos propios, en caso de consumidores cualificados que se aprovisionen directamente, y dar traslado de dicha lectura al gestor técnico del sistema y al distribuidor al que estén conectados las instalaciones del consumidor final.
+
+f) Acceder y solicitar la verificación los contadores asociados a los suministros efectuados en virtud de los contratos de acceso suscritos.
+
+2\. Son obligaciones de los sujetos con derecho de acceso, las siguientes:
+
+a) Comunicar a los titulares de las instalaciones con quienes hayan suscrito los contratos de acceso y al gestor técnico del sistema su programa de aprovisionamiento y consumo así como cualquier incidencia que pueda hacer variar sustancialmente dichas previsiones.
+
+b) Los consumidores cualificados deberán disponer de los equipos de medida necesarios y permitir el acceso a los mismos por parte de los titulares de las instalaciones a las que estén conectados y mantenerlos dentro de los límites de precisión establecidos en los casos en que sean de su propiedad.
+
+c) Informar a la Dirección General de Política Energética y Minas del Ministerio de Economía, con el detalle, forma y periodicidad que ésta estime necesario, y a la Comisión Nacional de Energía, sobre datos relativos al consumo, al aprovisionamiento y existencias.
+
+d) Garantizar que el gas natural que introduzca en el sistema gasista cumpla las especificaciones de calidad establecidas.
+
+e) Aportar al sistema gasista el gas necesario para garantizar el suministro a sus clientes o a su propio consumo.
+
+f) Garantizar el secreto de la información de carácter confidencial que haya sido puesta a su disposición.
+
+g) Suscribir y mantener actualizadas las correspondientes pólizas de seguros con objeto de cubrir los riesgos que para personas o bienes puedan derivarse de las actividades ejercidas.
+
+#### Artículo 12. Derechos y obligaciones del gestor técnico del sistema.
+
+1\. El gestor técnico del sistema, como responsable de la gestión técnica de la red básica y de las redes de transporte secundario, deberá garantizar la continuidad y seguridad del suministro de gas natural y la correcta coordinación entre los puntos de acceso, los almacenamientos, el transporte y la distribución.
+
+En sus relaciones con los sujetos que operan y utilizan el sistema gasista actuará bajo los principios de objetividad, transparencia y no discriminación.
+
+2\. Son derechos del gestor técnico del sistema, en relación con el acceso de terceros, los siguientes:
+
+a) Percibir la retribución que la normativa vigente le reconozca.
+
+b) Exigir a los titulares de las instalaciones la información relativa a sus instalaciones necesaria para el correcto funcionamiento del sistema.
+
+c) Exigir a los sujetos con derecho de acceso la comunicación de sus programas de aprovisionamiento y consumo y de cualquier incidencia que pueda hacer variar sustancialmente dichas previsiones.
+
+d) Supervisar las actividades y operaciones de los distintos sujetos que intervienen en el sistema gasista, actuando como coordinador de las comunicaciones entre ellos.
+
+e) Exigir el estricto cumplimiento de las instrucciones que imparta para la correcta explotación del sistema gasista, mantenimiento de las instalaciones y adecuada cobertura de la demanda.
+
+3\. Son obligaciones del gestor técnico del sistema, relativas al acceso de terceros, las siguientes:
+
+a) Informar sobre la viabilidad de los contratos de acceso que los sujetos con derecho de acceso soliciten a los titulares de instalaciones, recabando la información de otros titulares de instalaciones que para ello sea necesario.
+
+b) Desarrollar los protocolos de comunicación para los diferentes sujetos que actúan en el sistema, así como actuar de coordinador de todos ellos, al objeto de diseñar y desarrollar un sistema de comunicaciones integrado para el control y supervisión de las operaciones del sistema.
+
+c) Coordinar las actuaciones de los titulares de las instalaciones en los puntos de acceso, los almacenamientos, el transporte y la distribución para garantizar la continuidad y seguridad del suministro a los consumidores con criterios de eficiencia.
+
+d) Impartir las instrucciones necesarias de operación a las instalaciones de transporte, incluidas las conexiones internacionales, a las instalaciones de regasificación y a las de almacenamiento de forma que se asegure la entrega de gas en las condiciones adecuadas en los puntos de salida de las redes de transporte, de acuerdo con los protocolos de actuación y operación.
+
+e) Ejecutar los mecanismos y procedimientos de actuación para prever y en su caso dar cobertura a situaciones transitorias de desbalance entre los programas de aprovisionamiento y el régimen de operaciones previsto en función de la demanda, de acuerdo con lo que se establezca en las Normas de Gestión Técnica del Sistema.
+
+f) Coordinar y modificar, en su caso, los planes de mantenimiento de instalaciones de la red básica de transporte y de transporte secundario, de forma que se asegure su funcionamiento y disponibilidad para garantizar la seguridad del sistema.
+
+g) Efectuar el cálculo y aplicación del balance diario de cada sujeto que utilice el sistema gasista y las existencias operativas y estratégicas del mismo.
+
+h) Constituir, operar y mantener una base general de datos y registro de la información necesaria para el seguimiento de las operaciones y determinación de repartos y balances.
+
+i) Garantizar el secreto de la información de carácter confidencial que haya sido puesta a su disposición.
+
+j) Garantizar la exactitud de los repartos y balances encomendados, así como velar por la fiabilidad del sistema gasista.
+
+k) Realizar estudios de seguimiento de la evolución de los coeficientes de pérdidas y autoconsumos asignados a cada instalación.
+
+l) Poner a disposición de los sujetos que actúan en el sistema aquella información no confidencial generada en la gestión técnica del sistema que se establezca, tanto en lo relativo a la capacidad de las instalaciones como en lo relativo a su utilización, mediante un sistema fácilmente accesible que garantice la actualidad de la información suministrada y el respeto a los principios de transparencia, objetividad y no discriminación.
+
+m) Proponer, con antelación suficiente, los desarrollos de la red básica y de transporte secundario que considere necesarios para evitar y resolver, en su caso, restricciones en las operaciones del sistema.
+
+n) Informar a la Dirección General de Política Energética y Minas del Ministerio de Economía y a la Comisión Nacional de Energía, así como a los sujetos que actúan en el sistema, con periodicidad anual, o en los casos en que existan restricciones en el sistema, sobre la capacidad disponible en las instalaciones de transporte de la red básica y en particular en los puntos de acceso al sistema, así como respecto de reservas de capacidad a futuro contratadas en firme.
+
+ñ) El gestor técnico del sistema, en su calidad de transportista, deberá desarrollar las obras de infraestructura encomendadas por el Ministerio de Economía, de acuerdo con lo previsto en la disposición adicional primera del presente Real Decreto.
+
+o) Suscribir y mantener actualizadas las correspondientes pólizas de seguros con objeto de cubrir los riesgos que para personas o bienes puedan derivarse de las actividades ejercidas.
+
+#### Artículo 13. Normas de Gestión Técnica del Sistema.
+
+1\. El gestor técnico del sistema, en colaboración con el resto de los sujetos implicados, elaborará una propuesta de las Normas de Gestión Técnica del Sistema, que elevará al Ministro de Economía para su aprobación o modificación.
+
+Las Normas de Gestión Técnica del Sistema serán aprobadas por el Ministro de Economía, previo informe de la Comisión Nacional de Energía, y tendrán por objeto garantizar el correcto funcionamiento técnico del sistema gasista y la continuidad, calidad y seguridad del suministro de gas natural. Las Normas de Gestión Técnica del Sistema seguirán las líneas y criterios básicos establecidos en el presente Real Decreto.
+
+El gestor técnico del sistema propondrá a la Dirección General de Política Energética y Minas, del Ministerio de Economía, los protocolos de detalle en relación a las Normas de Gestión Técnica del Sistema, los cuales serán objeto de aprobación o modificación por parte de ésta previo informe de la Comisión Nacional de Energía.
+
+2\. Las Normas de Gestión Técnica del Sistema, así como los protocolos de detalle que se aprueben por la Dirección General de Política Energética y Minas, serán de aplicación a todos los sujetos que accedan al sistema así como a los titulares de las instalaciones.
+
+3\. Además de los aspectos indicados en el artículo 65.2 de la Ley 34/1998, las Normas de Gestión Técnica del Sistema deberán regular, entre otros, los siguientes aspectos:
+
+a) Programaciones: los sujetos que hagan uso del derecho de acceso de terceros a las instalaciones deberán realizar programaciones en relación con el gas que estiman introducir, extraer, almacenar, suministrar o consumir en un período determinado. Se realizarán programaciones anuales, mensuales, semanales y diarias. En todo caso, el caudal nominado en las programaciones diarias, así como los programas mensuales de descarga de buques, tendrán carácter vinculante. Las Normas de Gestión Técnica del Sistema establecerán el contenido mínimo de cada una de las programaciones, los procedimientos y calendarios de comunicación así como los procedimientos de actuación en los casos de incumplimiento de las mismas.
+
+b) Balances: se efectuarán balances tanto físicos, para cada una de las instalaciones, como comerciales, para cada usuario que acceda a las instalaciones de terceros, teniendo estos últimos como mínimo alcance diario. Se regularán, entre otros aspectos, los siguientes: el alcance de cada uno de los balances, su contenido, los procedimientos de cálculo, así como los procedimientos, períodos y causas de revisión.
+
+c) Desbalances del sistema: se establecerán los procedimientos de actuación en caso de detectarse desviaciones en los aprovisionamientos o en la demanda que pudieran provocar desbalances del sistema por exceso o defecto de gas natural, activando las medidas necesarias para evitar la interrupción de los suministros así como minimizar los efectos de tales medidas sobre los restantes sujetos que operan en el sistema. Asimismo, se establecerán los procedimientos para determinar las repercusiones económicas que dichas medidas puedan llevar asociadas.
+
+d) Mermas y autoconsumos: se establecerán los procedimientos a seguir para determinar las cantidades a retener en concepto de mermas y autoconsumos para cada tipo de instalación.
+
+e) Mediciones: se establecerán los puntos donde deben realizarse las mediciones, el tipo de medición en cada uno de ellos y los criterios de reparto en función de las mismas.
+
+f) Mecanismos de comunicación: se establecerán las líneas para el desarrollo de un sistema de información que permita canalizar la comunicación y el flujo de información procedente de los distintos sujetos que intervienen en el conjunto de operaciones necesarias para la gestión del sistema.
+
+g) Capacidad de las instalaciones: se establecerán los criterios, normas y procedimientos para determinar, con criterios técnicos de general aceptación en la industria gasista, la capacidad máxima de las instalaciones que constituyen el sistema gasista enumeradas en el artículo 3 del presente Real Decreto, así como para la determinación de la capacidad efectivamente utilizada y la remanente en todo momento, definiendo para ello los factores de servicio, simultaneidad, márgenes de seguridad y cualquier otro parámetro que fuera relevante para tales determinaciones.
+
+#### Artículo 14. Emergencias y plan de mantenimiento.
+
+1\. El gestor técnico del sistema, en colaboración con los distintos sujetos que actúan en el sistema gasista, propondrá al Ministerio de Economía, los planes de emergencia que considere necesarios, detallando las existencias disponibles, su ubicación y período de reposición. Dichos planes y sus revisiones anuales serán objeto de aprobación o modificación por la Dirección General de Política Energética y Minas.
+
+2\. Los titulares de las instalaciones incluidas en el artículo 3 del presente Real Decreto deberán disponer de planes de mantenimiento elaborados de acuerdo con la reglamentación existente respecto a redes y acometidas, operación, mantenimiento, vigilancia, inspección y control.
+
+Cuando el mantenimiento a realizar en gasoductos o instalaciones afecte a la operación y, como consecuencia, a cualquier usuario del sistema gasista, se deberá informar, con la mayor antelación posible a los usuarios y comercializadores afectados y al gestor técnico del sistema, en caso de afectar a la operación de la red de transporte, del alcance, efectos y duración de dicho mantenimiento.
+
+## CAPÍTULO III — Retribución de las actividades reguladas
+
+#### Artículo 15. Retribución de las actividades reguladas.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de enero de 2021, por la disposición derogatoria única del Real Decreto 1184/2020, de 29 de diciembre. [Ref. BOE-A-2020-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17279)
+
+#### Artículo 16. Retribución de las actividades de regasificación, almacenamiento y transporte.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de enero de 2021, por la disposición derogatoria única del Real Decreto 1184/2020, de 29 de diciembre. [Ref. BOE-A-2020-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17279)
+
+> Se modifica el párrafo primero del apartado 6 por el art. 2.2 del Real Decreto 942/2005, de 29 de julio. [Ref. BOE-A-2005-13335](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-13335).
+
+#### Artículo 17. Inclusión de nuevas instalaciones en el sistema de retribución.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de enero de 2021, por la disposición derogatoria única del Real Decreto 1184/2020, de 29 de diciembre. [Ref. BOE-A-2020-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17279)
+
+#### Artículo 17 bis. Baja del sistema retributivo de instalaciones de transporte, regasificación y almacenamiento básico en extensión de vida útil.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de enero de 2021, por la disposición derogatoria única del Real Decreto 1184/2020, de 29 de diciembre. [Ref. BOE-A-2020-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17279)
+
+> Se añade por el art. 1.1 del Real Decreto 335/2018, de 25 de mayo. [Ref. BOE-A-2018-6998](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6998)
+
+> Esta modificación no será de aplicación hasta la aprobación, de acuerdo con lo establecido en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, de los valores aplicables a los nuevos peajes y cánones asociados al acceso de terceros a las instalaciones gasistas, según establece la disposición transitoria 2 del citado Real Decreto.
+
+#### Artículo 18. Costes acreditados de las instalaciones objeto de cierre.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de enero de 2021, por la disposición derogatoria única del Real Decreto 1184/2020, de 29 de diciembre. [Ref. BOE-A-2020-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17279)
+
+> Se modifica por el art. 1.2 del Real Decreto 335/2018, de 25 de mayo. [Ref. BOE-A-2018-6998](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6998)
+
+> Esta modificación no será de aplicación hasta la aprobación, de acuerdo con lo establecido en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, de los valores aplicables a los nuevos peajes y cánones asociados al acceso de terceros a las instalaciones gasistas, según establece la disposición transitoria 2 del citado Real Decreto.
+
+#### Artículo 19. Retribución por la actividad de gestión de compra-venta de gas por los transportistas.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de enero de 2021, por la disposición derogatoria única del Real Decreto 1184/2020, de 29 de diciembre. [Ref. BOE-A-2020-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17279)
+
+> Se modifica el apartado 3 por el art. 2.3 del Real Decreto 942/2005, de 29 de julio. [Ref. BOE-A-2005-13335](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-13335).
+
+#### Artículo 20. Retribución de la actividad de distribución.
+
+1**. (Derogado).**
+
+2.**(Derogado).**
+
+Los ingresos correspondientes a los derechos de acometidas serán facturados directamente por las empresas distribuidoras, no se incluirán en los costes reconocidos por la actividad de distribución ni estarán sujetos al régimen de liquidaciones.
+
+3 a 5.**(Derogados).**
+
+> Se deroga exceptuando el último párrafo del apartado 2 con efectos de 1 de enero de 2021, por la disposición derogatoria única del Real Decreto 1184/2020, de 29 de diciembre. [Ref. BOE-A-2020-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17279)
+
+> Se modifica el párrafo primero del apartado 5 por el art. 2.4 del Real Decreto 942/2005, de 29 de julio. [Ref. BOE-A-2005-13335](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-13335).
+
+#### Artículo 21. Retribución total de la distribución.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de enero de 2021, por la disposición derogatoria única del Real Decreto 1184/2020, de 29 de diciembre. [Ref. BOE-A-2020-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17279)
+
+#### Artículo 22. Retribución por la actividad de suministro de gas a tarifa.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de enero de 2021, por la disposición derogatoria única del Real Decreto 1184/2020, de 29 de diciembre. [Ref. BOE-A-2020-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17279)
+
+> Se modifica el apartado 3 por el art. 2.5 del Real Decreto 942/2005, de 29 de julio. [Ref. BOE-A-2005-13335](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-13335).
+
+#### Artículo 23. Retribución del gestor técnico del sistema.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de enero de 2021, por la disposición derogatoria única del Real Decreto 1184/2020, de 29 de diciembre. [Ref. BOE-A-2020-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17279)
+
+> Se modifica el párrafo segundo por el art. 2.6 del Real Decreto 942/2005, de 29 de julio. [Ref. BOE-A-2005-13335](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-13335).
+
+#### Artículo 24. Obligaciones de información.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de enero de 2021, por la disposición derogatoria única del Real Decreto 1184/2020, de 29 de diciembre. [Ref. BOE-A-2020-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17279)
+
+> Se modifica por el art. 2.7 del Real Decreto 942/2005, de 29 de julio. [Ref. BOE-A-2005-13335](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-13335).
+
+## CAPÍTULO IV — Tarifas, peajes y cánones
+
+### Sección 1.ª Disposiciones comunes
+
+#### Artículo 25. Criterios para la determinación de las tarifas, peajes y cánones.
+
+1\. El Ministro de Economía, mediante Orden ministerial, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dictará las disposiciones necesarias para el establecimiento de las tarifas de venta de gas natural, los precios de cesión de gas natural para los distribuidores, y de los peajes y cánones de los servicios básicos de acceso por terceros.
+
+Las Órdenes ministeriales establecerán los valores concretos de dichas tarifas y precios, o un sistema de determinación y actualización automático de los mismos. Asimismo, para los peajes y cánones, se establecerán los valores concretos o un sistema de determinación de los mismos y se modificarán anualmente o en los casos en que se produzcan causas que incidan en el sistema que así lo aconsejen.
+
+2\. Las tarifas, peajes y cánones serán únicos para todo el territorio nacional, en función del volumen, presión y forma de consumo y tendrán carácter de máximos. La estructura de tarifas, peajes y cánones podrá ser modificada en el futuro, si razones de optimización del sistema gasista, mercado o aplicación del desarrollo normativo de ámbito comunitario lo hacen aconsejable, por el procedimiento descrito en el apartado anterior.
+
+La aplicación a los consumidores y comercializadores de las tarifas, peajes y cánones por debajo de los valores máximos vigentes en cada momento será transparente, objetiva y no discriminatoria, teniendo la adecuada difusión entre los usuarios. A los anteriores efectos, las compañías comunicarán estas diferencias a la Comisión Nacional de Energía en el momento en que se produzcan.
+
+En cualquier caso, las diferencias entre las tarifas, peajes y cánones máximos aprobados y los que, en su caso, apliquen las empresas gasistas por debajo de los mismos, serán soportados por éstas.
+
+3\. Las tarifas, los peajes y cánones se establecerán de forma que su determinación responda en su conjunto a los criterios establecidos en el artículo 92 de la Ley 34/1998, y tengan los siguientes objetivos:
+
+a) Retribuir las actividades reguladas según se dispone en el capítulo III del presente Real Decreto.
+
+b) Asignar, de forma equitativa, entre los distintos consumidores, según su rango de presión, nivel de consumo y factor de carga, los costes imputables a cada tipo de suministro.
+
+c) Incentivar a los consumidores un uso eficaz para fomentar una mejor utilización del sistema gasista.
+
+d) No producir distorsiones entre el sistema de suministro en régimen de tarifas y el excluido del mismo.
+
+4\. Los peajes y cánones básicos no incluirán las mermas y autoconsumos correspondientes, los cuales serán compensados por los usuarios del sistema en unidades físicas, de acuerdo con las cantidades que se establezcan en las Normas de Gestión Técnica del Sistema.
+
+#### Artículo 26. Elementos generales de cálculo para las tarifas, peajes y cánones.
+
+1\. Los peajes y cánones se determinarán en base a los siguientes elementos:
+
+a) Previsiones de demanda de gas natural para el año de aplicación de los peajes y cánones. Para ello se tendrán en cuenta tanto las previsiones de demanda anual y mensual por zonas, niveles de consumo y rangos de presión, así como la demanda pico por zonas, niveles de consumo y rangos de presión, las previsiones de entrada de gas natural al sistema y la previsión de utilización de almacenamientos.
+
+b) La retribución a las actividades reguladas calculadas de acuerdo con lo previsto en el presente Real Decreto.
+
+c) Las previsiones de utilización de las instalaciones de regasificación, almacenamiento y transporte y distribución.
+
+d) Las desviaciones, en su caso, resultantes de la aplicación del régimen de liquidaciones del año anterior.
+
+2\. Las tarifas aplicables a los suministros de gas natural se determinarán mediante un sistema basado en costes. Se establecerá para cada una de las tarifas reguladas en el presente Real Decreto un precio que recogerá los siguientes costes:
+
+a) Coste de la materia prima: se determinará en base al coste medio de adquisición de la materia prima, en posición CIF, por parte de los transportistas con destino a tarifas, incluyendo aquellos costes necesarios para el posicionamiento del gas en la red básica.
+
+b) Costes de conducción: incluirá para cada una de las tarifas los costes medios de regasificación, transporte, distribución y almacenamiento imputables a la misma. En su cálculo se tendrán en cuenta las existencias mínimas de seguridad obligatorias y mermas y autoconsumos que correspondan.
+
+c) Costes de gestión de compra-venta de gas por los transportistas para el suministro de gas a las compañías distribuidoras para su venta a los mercados a tarifa.
+
+d) Costes de la actividad de los distribuidores para el suministro de gas imputables a cada una de las tarifas.
+
+e) Desviaciones, en su caso, resultantes de la aplicación del régimen de liquidaciones del año anterior.
+
+3\. Las tarifas de suministro de gas natural para usuarios finales, los peajes y los cánones, llevarán un recargo para la financiación de la Comisión Nacional de Energía, de acuerdo con lo dispuesto en la disposición adicional duodécima de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, y una cuota destinada a la retribución del gestor técnico del sistema, definida en el artículo 23 del presente Real Decreto.
+
+4\. Las empresas gasistas deberán entregar toda la documentación pertinente para el cálculo de dichas tarifas, peajes y cánones a la Dirección General de Política Energética y Minas del Ministerio de Economía.
+
+5\. Se adopta el kWh como unidad energética de referencia. El poder energético del gas natural se entenderá referido al poder calorífico superior (P.C.S.) medido en condiciones normales de presión y temperatura. Los valores unitarios de las tarifas, peajes y cánones regulados se referirán, por tanto, en kWh y kWh/día.
+
+6\. Los valores fijados en cada momento en las tarifas, peajes, cánones y precios son los correspondientes por la prestación por los transportistas y distribuidores a los usuarios de los servicios y actividades regulados.
+
+### Sección 2.ª Tarifas
+
+#### Artículo 27. Estructura de la tarifa de último recurso.
+
+La tarifa de último recurso del gas natural se descompondrá en diferentes escalones en función del volumen de consumo anual, estos escalones coincidirán con los niveles de los peajes de red local de la Circular 6/2020, de 22 de julio, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología para el cálculo de los peajes de transporte, redes locales y regasificación de gas natural.
+
+Estos escalones serán también empleados en las tarifas aplicadas por los distribuidores al suministro de gas manufacturados en territorios extrapeninsulares que no cuenten con conexión con la red de gasoductos.
+
+> Téngase en cuenta que esta modificación del artículo, efectuada por la disposición final 1 del Real Decreto 1184/2020, de 29 de diciembre. [Ref. BOE-A-2020-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17279), entra en vigor el 1 de octubre de 2021, según determina su dispocición final 5.
+
+> Redacción anterior:
+
+> "Artículo 27. Estructura de las tarifas de venta de gas natural.
+
+> Las tarifas de venta de gas natural deberán ser satisfechas a los distribuidores por los consumidores en régimen de suministro a tarifa.
+
+> La estructura de las tarifas de venta de gas natural será la siguiente de acuerdo con los distintos niveles de presión:
+
+> Grupo 1. Para consumidores conectados a un gasoducto cuya presión máxima de diseño sea superior a 60 bares.
+
+> 1\. Dentro de esta tarifa se distinguirán las siguientes por volumen de consumo:
+
+> Tarifa 1.1: consumo inferior o igual a 200.000.000 de kWh/año.
+
+> Tarifa 1.2: consumo superior a 200.000.000 de kWh/año e inferior o igual a 1.000.000.000 de kWh/año.
+
+> Tarifa 1.3: consumo superior a 1.000.000.000 de kWh/año.
+
+> Para cada una de las tarifas dentro de este grupo se determinará un término fijo aplicable al caudal diario a facturar y un término variable aplicable a los kWh consumidos.
+
+> Los usuarios acogidos a esta tarifa deberán disponer de equipos de telemedida capaces de realizar la medición como mínimo de caudales diarios.
+
+> 2\. La facturación del término fijo se realizará de acuerdo con el siguiente procedimiento:
+
+> a) En los casos en que el caudal diario máximo medido en el mes al consumidor se encuentre entre el 85 y el 105 por 100 del caudal máximo contratado por el mismo:
+
+> Qf = Qm
+
+> Qf: caudal diario a facturar.
+
+> Qm: caudal máximo diario medido para el consumidor.
+
+> b) En los casos en que el caudal diario máximo medido en el mes sea inferior al 85 por 100 del caudal máximo contratado por el consumidor:
+
+> Qf = 0,85 * Qd
+
+> Qd: caudal máximo diario contratado por el consumidor.
+
+> c) En los casos en que el caudal máximo diario medido para el consumidor, sea superior o igual al 105 por 100 del caudal máximo diario contratado para dicho consumidor:
+
+> Qf = Qm + 2*(Qm - 1,05*Qd)
+
+> Grupo 2. Para consumidores conectados a un gasoducto cuya presión de diseño sea superior a 4 bares e inferior o igual a 60 bares.
+
+> Dentro de esta tarifa se distinguirán las siguientes por volumen de consumo:
+
+> Tarifa 2.1: **(Suprimida)**
+
+> Tarifa 2.2:**(Suprimida)**
+
+> Tarifa 2.3:**(Suprimida)**
+
+> Tarifa 2.4: **(Suprimida)**
+
+> Tarifa 2.5: consumo superior a 100.000.000 de kWh/año e inferior o igual a 500.000.000 de kWh/año.
+
+> Tarifa 2.6: consumo superior a 500.000.000 de kWh/año.
+
+> Para cada una de las tarifas dentro de este grupo se determinará un término fijo aplicable a la capacidad máxima diaria contratada y un término variable aplicable a los kWh consumidos.
+
+> En aquellas instalaciones industriales que no dispongan de equipos de medida del caudal diario máximo, la empresa suministradora podrá, de forma temporal o permanente, instalar los equipos adecuados para este propósito sin cargo alguno para el usuario.
+
+> El caudal diario a facturar será el caudal diario contratado, no obstante en aquellos casos en que se compruebe que el caudal diario contratado es inferior al medido por la empresa suministradora, se tomará este último como base de facturación como mínimo durante un período de tres meses.
+
+> Aquellos consumidores con consumo anual superior a 30.000.000 de kWh, que dispongan en sus instalaciones de equipos de telemedida, podrán optar por el procedimiento de facturación del término fijo, descrito para las tarifas del grupo 1.
+
+> El Ministerio de Economía podrá modificar el umbral para acogerse a este sistema de facturación en función de la evolución de las condiciones del mercado.
+
+> Todos los consumidores incluidos en este nivel de presión con un consumo anual superior a 100.000.000 de kWh deberán contar en sus instalaciones con los equipos de telemedida adecuados para poder medir al menos caudales diarios, y tendrán un tratamiento individualizado en el cobro correspondiente a la facturación del caudal diario contratado, similar al dispuesto para las tarifas del grupo 1 del presente artículo, de forma que en los casos en que el caudal diario contratado no coincida con el caudal diario medido, se aplicará el procedimiento previsto en dicho apartado.
+
+> Grupo 3. Para consumidores conectados a un gasoducto cuya presión de diseño sea inferior o igual a 4 bares.
+
+> Dentro de esta tarifa se distinguirán las siguientes por volumen de consumo:
+
+> Tarifa 3.1: consumo inferior o igual a 5.000 kWh/año.
+
+> Tarifa 3.2: consumo superior a 5.000 kWh/año e inferior o igual a 50.000 kWh/año.
+
+> Tarifa 3.3: consumo superior a 50.000 kWh/año e inferior o igual a 100.000 kWh/año.
+
+> Tarifa 3.4: consumo superior a 100.000 kWh/año.
+
+> Para cada una de las tarifas de este grupo se determinará un término fijo en euros/mes y un término variable aplicable a los kWh consumidos por el usuario. Los términos fijos serán determinados tomando en consideración los teóricos factores de carga para cada grupo de consumidores.
+
+> Grupo 4. Para consumidores industriales de gas natural con carácter interrumpible.
+
+> La estructura de esta tarifa tendrá un único término variable en euros/kWh, que será aplicable al consumo total efectuado por el usuario industrial.
+
+> Para poder acogerse a esta tarifa, el usuario final deberá disponer y mantener operativa una instalación alimentada por otra fuente de energía alternativa. La prestación del servicio interrumpible será a petición del usuario, siendo las cláusulas de contratación resultado de acuerdo entre las dos partes, si bien el usuario tendrá derecho a que el plazo de preaviso para la suspensión del suministro no sea inferior a veinticuatro horas."
+
+> Se modifica, con efectos de 1 de octubre de 2021, por la disposición final 1 del Real Decreto 1184/2020, de 29 de diciembre. [Ref. BOE-A-2020-17279](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17279)
+
+> Se suprimen las tarifas del Grupo 2.1 a 4, a partir del 1 de julio de 2007, por la disposición transitoria 5 de la Ley 12/2007, de 2 de julio. [Ref. BOE-A-2007-12869](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12869).
+
+> Véase la mencionada disposición transitoria en cuanto a calendario de adaptación del sistema tarifario y aplicación del suministro de último recurso.
+
+#### Artículo 28. Precios de cesión de gas natural a otros transportistas y a los distribuidores.
+
+1\. El precio de cesión de gas natural de los transportistas a otros transportistas y a los distribuidores se determinará tomando en cuenta el coste de la materia prima, calculado en base al coste medio de adquisición de la materia prima, en posición CIF, por parte de los transportistas con destino a tarifas, la retribución correspondiente a la actividad de la gestión de la compra-venta de gas para su venta a los distribuidores con destino al mercado a tarifa y el coste medio de regasificación que corresponda.
+
+2\. Este precio de cesión también será de aplicación a la venta de gas natural licuado de los transportistas a los distribuidores para su suministro desde una planta satélite que suministre a varios consumidores, y no incluirá el coste del transporte desde el punto de carga de la cisterna hasta su destino, que será por cuenta del distribuidor.
+
+### Sección 3.ª Peajes y cánones
+
+#### Artículo 29. Definición de los peajes y cánones de los servicios básicos.
+
+1\. Los peajes y cánones que se regulan en el presente real decreto serán de aplicación a los sujetos con derecho de acceso, según se establece en la Ley 34/1998, de 7 de octubre, en el ejercicio del mismo.
+
+2\. Los peajes y cánones establecidos en este real decreto serán aplicables a los servicios básicos incluidos en el anexo del Real Decreto 984/2015, de 30 de octubre, por el que se regula el mercado organizado de gas y el acceso de terceros a las instalaciones del sistema de gas natural.
+
+3\. Por orden del Ministro de Energía, Turismo y Agenda Digital, previo informe de la Comisión Nacional de los Mercados y de la Competencia, se podrán definir peajes para productos de capacidad agregados que incluyan más de una instalación y para productos asociados que incluyan más de un servicio, así como coeficientes multiplicadores o reductores en función de la duración del servicio.
+
+4\. El responsable de la facturación del peaje o canon será el titular de la instalación, salvo que se ofrezcan productos de capacidad agregada en más de una instalación, en cuyo caso será el Gestor Técnico del Sistema el responsable de su facturación.
+
+> Se modifica por el art. 1.3 del Real Decreto 335/2018, de 25 de mayo. [Ref. BOE-A-2018-6998](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6998)
+
+> Esta modificación no será de aplicación hasta la aprobación, de acuerdo con lo establecido en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, de los valores aplicables a los nuevos peajes y cánones asociados al acceso de terceros a las instalaciones gasistas, según establece la disposición transitoria 2 del citado Real Decreto.
+
+> Se modifican los apartados 2.a) y b) por la disposición final 1 del Real Decreto 1716/2004, de 23 de julio. [Ref. BOE-A-2004-15457](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-15457).
+
+> Téngase en cuenta para su aplicación la disposición final 4.
+
+#### Artículo 30. Peaje de regasificación.
+
+Este peaje dará derecho al uso de las instalaciones necesarias para regasificar el gas natural licuado almacenado en una planta de regasificación. Incluirá un término fijo aplicable a la capacidad diaria contratada y un término variable en función de los kWh de gas regasificados y se facturará aplicando la siguiente fórmula:
+
+Pr = Tfr x Qr + Tvr x Vr
+
+Donde:
+
+Pr: importe mensual facturado, en euros.
+
+Tfr: término fijo de peaje de regasificación, en euro/kWh/día.
+
+Qr: capacidad diaria de regasificación contratada, en kWh/día.
+
+Tvr: término variable de peaje de regasificación, en euro/kWh.
+
+Vr: cantidad de gas natural regasificado en el período de facturación, expresado en kWh.
+
+> Se modifica por el art. 1.4 del Real Decreto 335/2018, de 25 de mayo. [Ref. BOE-A-2018-6998](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6998)
+
+> Esta modificación no será de aplicación hasta la aprobación, de acuerdo con lo establecido en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, de los valores aplicables a los nuevos peajes y cánones asociados al acceso de terceros a las instalaciones gasistas, según establece la disposición transitoria 2 del citado Real Decreto.
+
+#### Artículo 30 bis. Peaje de descarga de buques.
+
+Este peaje dará derecho al uso de las instalaciones necesarias para la descarga de GNL de un buque a la planta de regasificación, pudiendo ser diferente para cada planta. Incluirá un término fijo por operación y un término variable en función de los kWh de GNL descargados y se facturará por la aplicación de la fórmula siguiente:
+
+Pd = Tfd + Tvd x Vd
+
+Donde:
+
+Pd: importe facturado por operación, en euros.
+
+Tfd: término fijo por operación, en euros.
+
+Tvd: término variable, en euro/kWh.
+
+Vd: cantidad de GNL descargada, en kWh.
+
+> Se añade por el art. 1.5 del Real Decreto 335/2018, de 25 de mayo. [Ref. BOE-A-2018-6998](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6998)
+
+> Esta modificación no será de aplicación hasta la aprobación, de acuerdo con lo establecido en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, de los valores aplicables a los nuevos peajes y cánones asociados al acceso de terceros a las instalaciones gasistas, según establece la disposición transitoria 2 del citado Real Decreto.
+
+#### Artículo 30 ter. Peaje de carga de GNL a buque.
+
+1\. Este peaje dará derecho de uso de las instalaciones necesarias para la carga de GNL en buque desde una planta de regasificación, pudiendo ser diferente para cada planta. Incluirá un término fijo por operación y un término variable en función de los kWh de GNL cargado y se facturará mediante la aplicación de la fórmula siguiente:
+
+Pc = Tfg + Tvg x Vc
+
+Donde:
+
+Pc: importe facturado por operación.
+
+Tfg: término fijo por operación, en euros.
+
+Tvg: término variable, en euro/kWh.
+
+Vc: cantidad de GNL cargado en la operación, en kWh.
+
+2\. Se distinguen cuatro peajes de carga de buques, en función de la cantidad de GNL cargado y tipo de operación:
+
+a) Igual o inferior a 5.000 m<sup>3</sup>.
+
+b) Superior a 5.000 m<sup>3</sup> e igual o inferior a 15.000 m<sup>3</sup>.
+
+c) Superior a 15.000 m<sup>3</sup>.
+
+d) Servicio de puesta en frio.
+
+3\. Se distinguen cuatro tipos de servicio en función del número de cargas realizadas:
+
+a) Servicio de corto plazo. Supone la contratación de una carga.
+
+b) Servicio durante 30 días. Supone al menos la contratación de 3 cargas durante el periodo considerado.
+
+c) Servicio durante 90 días. Supone al menos la contratación de 5 cargas durante el periodo considerado.
+
+d) Servicio durante 365 días. Supone al menos la contratación de 12 cargas durante el periodo considerado.
+
+Los servicios contratados y no utilizados se facturarán aplicando el término fijo correspondiente y, en su caso, una penalización.
+
+4\. En el caso de trasvase de buque a buque en el pantalán de la planta de regasificación, sin usar los almacenamientos de GNL, se podrá aplicar un descuento sobre los valores anteriores.
+
+5\. Se considera servicio de puesta en frío, a los efectos de aplicación de este real decreto, cuando el barco metanero atraque en la planta de regasificación con un volumen de GNL inferior a su talón y cargue una cantidad adicional de GNL, siembre que el volumen final de GNL no supere dicho talón. En el caso de que se cargue una cantidad de GNL superior se considerará que se realizan dos operaciones diferentes, puesta en frío y carga de GNL a buque, aplicándose los peajes correspondientes a cada una de dichas operaciones. Se entiende por talón la cantidad mínima de GNL que ha de conservarse en los tanques de carga de un buque metanero para mantener la temperatura de operación.
+
+6\. En todos los casos anteriores, las mermas que se produzcan serán por cuenta del contratante del servicio, al igual que la entrega del gas necesario para la operación.
+
+7\. Por orden del Ministro de Energía, Turismo y Agenda Digital se podrán modificar los términos incluidos en los apartados 2 y 3, atendiendo a las condiciones y evolución del mercado.
+
+> Se añade por el art. 1.6 del Real Decreto 335/2018, de 25 de mayo. [Ref. BOE-A-2018-6998](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6998)
+
+> Esta modificación no será de aplicación hasta la aprobación, de acuerdo con lo establecido en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, de los valores aplicables a los nuevos peajes y cánones asociados al acceso de terceros a las instalaciones gasistas, según establece la disposición transitoria 2 del citado Real Decreto.
+
+#### Artículo 30 quater. Peaje de carga de cisternas.
+
+Este peaje dará derecho al uso de las instalaciones necesarias para la carga del GNL en vehículos cisternas. Incluirá un término fijo aplicable a la capacidad diaria contratada y un término variable en función de la cantidad cargada y se facturará mediante la aplicación de la fórmula siguiente:
+
+Pc = Tfc* Qm + Tvc*Vc
+
+Donde:
+
+Pc: importe mensual facturado, en euros.
+
+Tfc: término fijo del peaje de carga de GNL en cisternas, en euro/kWh/día.
+
+Tvc: término variable, en euro/kWh/día.
+
+Qm: capacidad diaria contratada, en kWh/día.
+
+Vc: cantidad de GNL cargado, en kWh.
+
+> Se añade por el art. 1.7 del Real Decreto 335/2018, de 25 de mayo. [Ref. BOE-A-2018-6998](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6998)
+
+> Esta modificación no será de aplicación hasta la aprobación, de acuerdo con lo establecido en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, de los valores aplicables a los nuevos peajes y cánones asociados al acceso de terceros a las instalaciones gasistas, según establece la disposición transitoria 2 del citado Real Decreto.
+
+#### Artículo 31. Determinación del peaje de transporte y distribución.
+
+El peaje aplicable por el uso del sistema de transporte y distribución se compondrá de dos términos: un término entrada al Punto Virtual de Balance (término de reserva de capacidad) y un término de salida o término de conducción que se diferenciará en función de la presión de diseño a la que se conecten las instalaciones del consumidor.
+
+P<sub>TD</sub> = Trc + Tc
+
+Donde:
+
+P<sub>TD</sub>: peaje de transporte y distribución.
+
+Trc: término de reserva de capacidad.
+
+Tc: término de conducción.
+
+A) Peaje de entrada al Punto Virtual de Balance desde la red de transporte.
+
+Este peaje dará derecho al uso de las instalaciones necesarias para el transporte del gas desde el punto de entrada a la red de transporte hasta el Punto Virtual de Balance. Se podrán establecer valores diferentes en función del punto de entrada. Incluirá un término fijo aplicable a la capacidad diaria contratada y se facturará aplicando la fórmula siguiente:
+
+Pr = Tfr*Qr
+
+Donde:
+
+Pr: importe mensual facturado, en euros.
+
+Tfr: término fijo, en euro/kWh/día.
+
+Qr: caudal diario contratado, en kWh/día.
+
+B) Término de conducción del peaje de transporte y distribución.
+
+El término de conducción del peaje de transporte y distribución será facturado por la empresa distribuidora titular de las instalaciones donde esté situado el punto de entrega del gas natural al consumidor final, al sujeto con contrato de acceso. En el caso de que el punto de entrega al consumidor final se encuentre conectado directamente a las instalaciones de un transportista, el término de conducción será facturado por la empresa transportista.
+
+Se establecen los siguientes escalones en función de la presión de diseño donde estén conectadas las instalaciones del consumidor final:
+
+Peaje 1. Consumidores cualificados conectados a un gasoducto cuya presión de diseño sea superior a 60 bares:
+
+El término de conducción del peaje para este tipo de suministros tendrá un término fijo aplicable al caudal diario a facturar para cada consumidor cualificado y un término variable aplicable a los kWh consumidos por el mismo.
+
+Asimismo, la cuantía de cada uno de los términos de esta parte del peaje se calculará en función del volumen de consumo del consumidor cualificado, distinguiéndose los siguientes niveles de consumo:
+
+Peaje 1.1 Consumo inferior o igual a 200.000.000 de kWh/año.
+
+Peaje 1.2 Consumo superior a 200.000.000 de kWh/año e inferior o igual a 1.000.000.000 de kWh/año.
+
+Peaje 1.3 Consumo superior a 1.000.000.000 de kWh/año.
+
+Para cada usuario del sistema de transporte y distribución, el peaje se calculará de acuerdo con la siguiente fórmula:
+
+Tc = Σ<sub>i=1..3</sub> [ Σ<sub>j=1..n</sub> ( Tfij * Qj + Tvij*Cj ) ]
+
+Donde:
+
+Tc: importe mensual en euros de facturación por término de conducción del peaje de transporte y distribución.
+
+Tfij: término fijo en euros/kWh/día, para el consumidor j de acuerdo con su volumen de consumo i.
+
+Qj: caudal diario a facturar correspondiente al consumidor j en kWh/día.
+
+Tvij: término variable para el consumidor j de acuerdo con su volumen de consumo i en euros/kWh.
+
+Cj: kWh de gas consumidos por el consumidor j.
+
+n: número de consumidores del comercializador con suministro a presión superior a 60 bares, en cada escalón de consumo.
+
+Donde:
+
+a) En los casos en que el caudal diario máximo medido en el mes al consumidor j se encuentre entre el 85 y el 105 por 100 del caudal máximo contratado para el mismo:
+
+Qj = Qmj
+
+Qmj: caudal máximo diario medido para el consumidor j.
+
+b) En los casos en que el caudal diario máximo medido en el mes al consumidor j sea inferior al 85 por 100 del caudal máximo contratado para el mismo:
+
+Qj = 0,85 *Qdj
+
+Qdj: caudal máximo diario contratado por el consumidor j.
+
+c) En los casos en que el caudal máximo diario medido para el consumidor j sea superior o igual al 105 por cien del caudal máximo diario contratado para dicho consumidor:
+
+Qj = Qmj + 2*(Qmj – 1,05*Qdj)
+
+Qmj: caudal máximo diario medido en las instalaciones del consumidor i.
+
+Todos los usuarios finales incluidos en este nivel de presión deberán contar con los equipos de telemedida en sus instalaciones adecuados para poder medir al menos caudales diarios.
+
+Peaje 2. Consumidores cualificados conectados a un gasoducto cuya presión de diseño sea superior a 4 bares e inferior o igual a 60 bares.
+
+El término de conducción del peaje para este tipo de suministros tendrá un término fijo aplicable al caudal diario a facturar para cada consumidor cualificado y un término variable aplicable a los kWh consumidos por el mismo.
+
+Asimismo, la cuantía de cada uno de los términos de esta parte del peaje se calculará en función del volumen de consumo del consumidor cualificado, distinguiéndose los siguientes niveles de consumo:
+
+Peaje 2.1 Consumo inferior o igual a 500.000 kWh/año.
+
+Peaje 2.2 Consumo superior a 500.000 de kWh/año e inferior o igual a 5.000.000 de kWh/año.
+
+Peaje 2.3 Consumo superior a 5.000.000 de kWh/año e inferior o igual a 30.000.000 de kWh/año.
+
+Peaje 2.4 Consumo superior a 30.000.000 de kWh/año e inferior o igual a 100.000.000 de kWh/año.
+
+Peaje 2.5 Consumo superior a 100.000.000 de kWh/año e inferior o igual a 500.000.000 de kWh/año.
+
+Peaje 2.6 Consumo superior a 500.000.000 de kWh/año.
+
+Para cada usuario de la red, este término del peaje se calculará mensualmente de acuerdo con la siguiente fórmula:
+
+Tc = Σ<sub>i=1..6</sub> [ Σ<sub>j=1..n</sub> ( Tfij * Qj + Tvij*Cj ) ]
+
+Donde:
+
+Tc: importe mensual en euros de facturación por el término de conducción del peaje de transporte y distribución.
+
+Tfij: término fijo en euros/kWh/día, para el consumidor j de acuerdo con su volumen de consumo i.
+
+Qj: caudal diario máximo a facturar correspondiente al consumidor j en kWh/día.
+
+Tvij: término variable para el consumidor j de acuerdo con su volumen de consumo i en euros/kWh.
+
+Cj: kWh de gas consumidos por el consumidor j.
+
+n: número de consumidores del comercializador con suministro a presión inferior a 60 bares y superior a 4 bares, en cada escalón de consumo.
+
+El caudal diario a facturar será el caudal diario contratado. No obstante, para aquellos consumidores cualificados en los que se comprobara que durante un mes el caudal diario contratado es inferior al caudal diario medio medido, se tomará este último como base de facturación por un período de tres meses.
+
+Aquellos consumidores cualificados con consumo superior a 30.000.000 de kWh/año y que dispongan de equipo de telemedida para poder medir caudales diarios, podrán optar a tener un tratamiento individualizado en el cobro correspondiente a la facturación del caudal contratado, similar al dispuesto en el peaje 1 del presente artículo, de forma que en los casos en que el caudal diario contratado no coincida con el caudal diario medido, se aplicará el procedimiento previsto en dicho apartado.
+
+El Ministerio de Economía, teniendo en cuenta la evolución del mercado, la evolución tecnológica de los equipos de control y su coste, podrá modificar el umbral de consumo para poder ser incluido en esta modalidad para la facturación del término fijo del peaje.
+
+Todos los consumidores cualificados incluidos en este nivel de presión con un consumo superior a 100.000.000 de kWh/año deberán contar en sus instalaciones con los equipos de telemedida adecuados para poder medir al menos caudales diarios, y tendrán un tratamiento individualizado en el cobro correspondiente a la facturación del caudal diario contratado, similar al dispuesto en el peaje 1 del presente artículo, de forma que en los casos en que el caudal diario contratado no coincida con el caudal diario medido, se aplicará el procedimiento previsto en dicho apartado.
+
+Peaje 3. Consumidores cualificados conectados a un gasoducto cuya presión de diseño sea inferior o igual a 4 bares.
+
+El término de conducción del peaje para el suministro a una presión inferior a 4 bares, tendrá un término fijo aplicable al número de consumidores cualificados para cada volumen de consumo del comercializador (euros/consumidor y mes) y un término variable aplicable a los kWh suministrados.
+
+Se establecerá un valor diferente para cada uno de los términos de este término de peaje, para cada uno de los siguientes escalones de consumo del consumidor cualificado:
+
+Peaje 3.1 Consumo inferior o igual a 5.000 kWh/año.
+
+Peaje 3.2 Consumo superior a 5.000 kWh/año e inferior o igual a 50.000 kWh/año.
+
+Peaje 3.3 Consumo superior a 50.000 kWh/año e inferior o igual a 100.000 kWh/año.
+
+Peaje 3.4 Consumo superior a 100.000 kWh/año.
+
+El término de conducción del peaje vendrá determinado por la siguiente fórmula:
+
+Tc = Σ<sub>i=1..4</sub> ( Tfi * Ni + Tvi*Ci )
+
+Donde:
+
+Tc: importe mensual en euros de facturación por el término de conducción del peaje de transporte y distribución.
+
+Tfi: término fijo para el escalón de consumo i en euros/consumidor.
+
+Ni: número de consumidores del comercializador correspondiente al escalón de consumo i.
+
+Tvi: término variable para el escalón de consumo i en euros/kWh.
+
+Ci: kWh consumidos por el conjunto de consumidores cualificados del comercializador en el escalón de consumo i.
+
+C) Peaje de entrada al Punto Virtual de Balance desde la red de distribución.
+
+Este peaje dará derecho al uso de las instalaciones necesarias para el transporte del gas desde el punto de entrada a la red de distribución hasta el Punto Virtual de Balance. Incluirá un término fijo aplicable a la capacidad de entrada contratada y se facturará aplicando la fórmula siguiente:
+
+Pd = Tfd x Qd
+
+Donde:
+
+Pd: importe mensual facturado, en euros.
+
+Tfd: término fijo, en euro/kWh/día.
+
+Qd: caudal diario contratado, en kWh/día.
+
+> Se modifica el primer párrafo y el apartado A) y se añade el apartado C) por el art. 1.8 del Real Decreto 335/2018, de 25 de mayo. [Ref. BOE-A-2018-6998](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6998)
+
+> Esta modificación no será de aplicación hasta la aprobación, de acuerdo con lo establecido en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, de los valores aplicables a los nuevos peajes y cánones asociados al acceso de terceros a las instalaciones gasistas, según establece la disposición transitoria 2 del citado Real Decreto.
+
+> Se modifica el párrafo primero del apartado B) por la disposición adicional 5 del Real Decreto 1434/2002, de 27 de diciembre. [Ref. BOE-A-2002-25421](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25421).
+
+#### Artículo 31 bis. Peaje de almacenamiento en el Punto Virtual de Balance.
+
+Este peaje dará derecho al uso de las instalaciones necesarias para el almacenamiento del gas en el Punto Virtual de Balance. Incluirá un término fijo que se aplicará a la capacidad diaria contratada y se facturará aplicando la fórmula siguiente:
+
+Pa = Tfp*Qp
+
+Donde:
+
+Pa: importe facturado, en euros.
+
+Tfp: término fijo, en euro/kWh/día.
+
+Qp: capacidad diaria de almacenamiento contratada, en kWh/día.
+
+> Se añade por el art. 1.9 del Real Decreto 335/2018, de 25 de mayo. [Ref. BOE-A-2018-6998](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6998)
+
+> Esta modificación no será de aplicación hasta la aprobación, de acuerdo con lo establecido en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, de los valores aplicables a los nuevos peajes y cánones asociados al acceso de terceros a las instalaciones gasistas, según establece la disposición transitoria 2 del citado Real Decreto.
+
+#### Artículo 32. Canon de almacenamiento subterráneo.
+
+Este peaje dará derecho al uso de las instalaciones necesarias para el almacenamiento de gas natural en los almacenamientos subterráneos, así como a su inyección y extracción. Incluirá tres términos fijos aplicables respectivamente a la capacidad contratada de almacenamiento, de inyección y de extracción y se facturará aplicando la fórmula siguiente:
+
+Ps = Tfs* Qfs + Tfi*Qfi +Te*Qfe
+
+Donde:
+
+Ps: importe mensual facturado, en euros.
+
+Tfs: termino fijo de almacenamiento, en euro/kWh.
+
+Tfi: término fijo de inyección, en euro/kWh/día.
+
+Tfe: término fijo de extracción, en euro/kWh/día.
+
+Qfs: Capacidad de almacenamiento contratada, en kWh.
+
+Qfi: Capacidad de inyección contratada, en kWh/día.
+
+Qfe: Capacidad de extracción contratada, en kWh/día.
+
+En el caso de que el usuario tenga contratados simultáneamente productos individualizados y asociados, para los productos de capacidad asociada de almacenamiento, inyección y extracción, los términos de capacidad contratada de inyección y extracción, Qfi y Qfe, se sustituirán por las cantidades de gas inyectado o extraído en el periodo de facturación, aplicándose el peaje correspondiente.
+
+> Se modifica por el art. 1.10 del Real Decreto 335/2018, de 25 de mayo. [Ref. BOE-A-2018-6998](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6998)
+
+> Esta modificación no será de aplicación hasta la aprobación, de acuerdo con lo establecido en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, de los valores aplicables a los nuevos peajes y cánones asociados al acceso de terceros a las instalaciones gasistas, según establece la disposición transitoria 2 del citado Real Decreto.
+
+#### Artículo 33. Canon de almacenamiento de GNL.
+
+Este peaje dará derecho al uso de las instalaciones necesarias para el almacenamiento de GNL en las plantas de regasificación. Incluirá un término fijo aplicable a la capacidad de almacenamiento contratada y se facturará de acuerdo a la siguiente fórmula:
+
+Pg = Tfg*Qg
+
+Donde:
+
+Pg: importe mensual facturado, en euros.
+
+Tfg: término fijo del canon de almacenamiento, en euro/kWh/día.
+
+Qg: capacidad de almacenamiento contratada, en kWh/día.
+
+> Se modifica por el art. 1.11 del Real Decreto 335/2018, de 25 de mayo. [Ref. BOE-A-2018-6998](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6998)
+
+> Esta modificación no será de aplicación hasta la aprobación, de acuerdo con lo establecido en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, de los valores aplicables a los nuevos peajes y cánones asociados al acceso de terceros a las instalaciones gasistas, según establece la disposición transitoria 2 del citado Real Decreto.
+
+#### Artículo 33 bis. Peaje de salida del Punto Virtual de Balance a tanque de planta de regasificación.
+
+Este peaje dará derecho al uso de las instalaciones necesarias para el transporte del gas desde el Punto Virtual de Balance hasta su entrega en forma de GNL en los tanques de una planta de regasificación. Incluirá un término fijo, aplicable a la capacidad diaria contratada y un término variable en función de los kWh de gas transferidos al tanque. Se facturará aplicando la siguiente fórmula:
+
+Pl = Tfl x Ql + Tvl x Cl
+
+Donde:
+
+Pl: importe mensual facturado, en euros.
+
+Tfl: término fijo, en euro/kWh/día.
+
+Ql: capacidad diaria contratada, en kWh/día.
+
+Tvl: término variable, en euro/kWh.
+
+Cl: cantidad de gas natural transportada, en kWh.
+
+> Se añade por el art. 1.12 del Real Decreto 335/2018, de 25 de mayo. [Ref. BOE-A-2018-6998](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6998)
+
+> Esta modificación no será de aplicación hasta la aprobación, de acuerdo con lo establecido en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, de los valores aplicables a los nuevos peajes y cánones asociados al acceso de terceros a las instalaciones gasistas, según establece la disposición transitoria 2 del citado Real Decreto.
+
+## CAPÍTULO V — Liquidaciones
+
+#### Artículo 34. Actividades sujetas a liquidación.
+
+1\. El sistema de liquidaciones incluirá las actividades reguladas de los sujetos que actúan en el sistema gasista, recogiendo los costes e ingresos relativos a las mismas.
+
+2\. Quedan sujetas a liquidación las actividades siguientes:
+
+a) La actividad de recepción, almacenamiento y regasificación de gas natural licuado (GNL) incluyendo las instalaciones de carga de cisternas de GNL.
+
+b) La actividad de almacenamiento de gas natural.
+
+c) La actividad de transporte por gasoducto de gas natural.
+
+d) La actividad de distribución por gasoducto de gas natural incluyendo las plantas satélites de GNL que suministren a varios consumidores.
+
+e) Actividades retribuidas con cuotas incluidas en las tarifas, peajes y cánones.
+
+3\. No quedan sujetas a liquidación las actividades siguientes:
+
+a) La actividad de gestión de la compra-venta de gas por los transportistas y el coste de la materia prima.
+
+b) La actividad de suministro de gas a tarifa.
+
+#### Artículo 35. Procedimiento de liquidación.
+
+1\. El procedimiento de liquidación se determinará por el Ministerio de Economía, fijando los valores, parámetros y plazos necesarios para la liquidación.
+
+2\. Los cobros y pagos a que den lugar las liquidaciones entre los agentes se determinarán por la Dirección General de Política Energética y Minas a propuesta de la Comisión Nacional de Energía, en la forma y plazos que se indiquen en el procedimiento de liquidaciones.
+
+3\. Se realizarán liquidaciones provisionales mensuales a cuenta de la definitiva que se efectuará cada año.
+
+#### Artículo 36. Ingresos y costes liquidables.
+
+1\. Se consideran ingresos liquidables a los efectos del sistema de liquidación los ingresos por aplicación de las tarifas, peajes y cánones vigentes a los suministros y accesos a las instalaciones de regasificación, almacenamiento de gas natural, transporte o distribución que hayan tenido lugar en el período objeto de liquidación. Se excluyen los ingresos correspondientes a las actividades no sujetas a liquidación.
+
+2\. En el procedimiento de liquidación se computarán los ingresos correspondientes por la aplicación de los peajes, cánones y tarifas máximas a las cantidades facturadas, con independencia de su cobro.
+
+3\. Tendrán la consideración de costes liquidables la retribución de las actividades de regasificación, transporte, almacenamiento de gas natural y distribución y las cuotas con destinos específicos.
+
+#### Artículo 37. Cuotas con destinos específicos.
+
+1\. Las cuotas con destinos específicos se fijarán como porcentajes sobre las tarifas y peajes. Se consideran cuotas con destinos específicos las siguientes:
+
+a) Los porcentajes destinados a la retribución del gestor técnico del sistema.
+
+b) Los recargos con destino a la Comisión Nacional de Energía.
+
+2\. Los porcentajes con cargo a tarifas de venta de gas natural serán recaudados por los distribuidores y puestos a disposición de cada uno de los sujetos a los que van destinados como ingresos propios en la forma y plazos establecidos normativamente.
+
+El porcentaje se aplicará por las empresas distribuidoras al importe de la facturación por venta de gas natural que resulte de la aplicación de las tarifas máximas. La cuantía será establecida por las disposiciones o resoluciones correspondientes, sin aducir los posibles descuentos que sobre las mismas puedan pactar las empresas distribuidoras y sus consumidores.
+
+3\. Los porcentajes con cargo a los peajes y cánones asociados al derecho de acceso por terceros a la red serán recaudados por las empresas titulares de instalaciones de regasificación, transporte y distribución, y almacenamiento, y puestos a disposición de los sujetos a los que van destinados como ingresos propios en la forma y plazos establecidos normativamente.
+
+Las empresas titulares citadas aplicarán el porcentaje sobre los peajes y cánones máximos establecidos sin deducir los posibles descuentos que sobre los mismos puedan pactarse entre los titulares de las instalaciones y sus usuarios.
+
+#### Artículo 38. Actuaciones de inspección y comprobación.
+
+1\. Para poder dar cumplimiento a lo establecido en los artículos 62 y 63, sobre contabilidad e información y separación de actividades respectivamente, así como en el capítulo VII, de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, sobre régimen económico de las actividades reguladas, los transportistas y distribuidores de gas natural por canalización, así como el gestor técnico del sistema, deberán proceder a la verificación contable de sus estados financieros, así como los consolidados de las agrupaciones de los mismos, en su caso, a través de una auditoría externa, según las directrices emanadas del Ministerio de Economía, a cuya Dirección General de Política Energética y Minas se remitirá el informe de dichas auditorías junto con las cuentas anuales y el informe de gestión, así como la desagregación de las cuentas anuales por las actividades de transporte y distribución, indicando los criterios utilizados.
+
+Las empresas gasistas mencionadas en el párrafo anterior deberán remitir trimestralmente al Ministerio de Economía los estados financieros provisionales referidos al período transcurrido entre el primero de enero de cada año y el último día del trimestre de que se trate.
+
+2\. A efectos de la retribución de las empresas o agrupaciones de empresas que actúen como sujetos de las actividades de transporte y distribución, se considerarán como ingresos procedentes de la facturación aquellos que resulten de aplicar las tarifas de los suministros realizados y los peajes o tarifas de acceso por uso de las redes autorizados como máximos por el Ministerio de Economía, sin que se puedan considerar otros distintos de los establecidos con carácter general en las normas sobre tarifas.
+
+3\. El Ministerio de Economía directamente o a través de la Comisión Nacional de Energía podrá inspeccionar las condiciones de la facturación de los mismos.
+
+Como resultado de estas actuaciones, el Ministerio de Economía podrá realizar una nueva liquidación de las cantidades que hayan sido objeto de comprobación o inspección.
+
+4\. El Ministerio de Economía, mediante Orden ministerial, previo informe de la Comisión Nacional de Energía, establecerá el contenido y plazo de la información que deben presentar las empresas para asegurar la adecuación de la liquidación. Asimismo se establecerá el procedimiento y plazos para el reparto de los ingresos que resulten de la aplicación para las cuotas con destinos específicos.
+
+#### Disposición adicional primera. Retribución a empresas distribuidoras de gases manufacturados de origen distinto al gas natural en territorios extrapeninsulares.
+
+Las empresas distribuidoras de gases manufacturados de origen distinto al gas natural (nafta y propano) que ejerzan su actividad en territorios extrapeninsulares que no dispongan de gas natural, tendrán derecho a percibir una retribución por el suplemento de coste que ello suponga. Estos costes estarán incluidos en la retribución de la actividad de distribución y sujetos a liquidación.
+
+#### Disposición adicional segunda. Planificación en materia de hidrocarburos.
+
+En el plazo de tres meses, desde la publicación del presente Real Decreto, el Ministerio de Economía, con la participación de las Comunidades Autónomas, iniciará los estudios para realizar una propuesta de planificación en materia de hidrocarburos, para su tramitación, conforme a lo establecido en el artículo 4 de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos.
+
+Dicha planificación se referirá a los aspectos indicados en el artículo 4 de la Ley 34/1998, y tendrá carácter obligatorio y de mínimo exigible para la garantía de suministro de hidrocarburos en lo referente a los gasoductos de la red básica y a las instalaciones de almacenamientos de reservas estratégicas de hidrocarburos.
+
+Las autorizaciones de construcción y explotación de los gasoductos de transporte y sus instalaciones complementarias, que de acuerdo con el artículo 4 de la Ley 34/1998, tienen carácter obligatorio en la planificación energética, se otorgarán por el Ministerio de Economía, mediante un sistema de concurso, de forma que se garantice la transparencia, objetividad y su concurrencia.
+
+En caso de falta de concurrencia, el Ministerio de Economía podrá encomendar al transportista que esté realizando las funciones de gestor técnico del sistema que lleve a cabo la realización de los proyectos y la subsiguiente construcción de las instalaciones.
+
+#### Disposición transitoria primera. Sistema de actualización de retribuciones.
+
+Con objeto de evaluar correctamente la aplicación del nuevo sistema de actualización de las retribuciones, lo dispuesto en el artículo 15, apartado 2, del presente Real Decreto se aplicará en un plazo no superior a dos años contados desde la fecha en que todos los consumidores tengan la condición de cualificados.
+
+#### Disposición transitoria segunda. Instalaciones.
+
+Aquellas instalaciones destinadas a dotar de la adecuada seguridad al sistema de gas natural que hubiesen sido objeto de concesión, antes de la entrada en vigor de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, tendrán el tratamiento recogido en la disposición transitoria sexta de la citada Ley, en el cálculo de la retribución a las instalaciones de transporte.
+
+#### Disposición transitoria tercera. Contratos de acceso en vigor.
+
+En el plazo de tres meses desde la entrada en vigor del presente Real Decreto, los contratos de acceso de terceros a instalaciones gasistas actualmente en vigor deberán adaptarse a lo dispuesto en el presente Real Decreto. Siendo de aplicación lo dispuesto en el presente Real Decreto desde su entrada en vigor, con independencia de la adaptación o no del contrato.
+
+#### Disposición transitoria cuarta. Duración mínima de los contratos.
+
+Los titulares de instalaciones de regasificación, transporte o almacenamiento que a la entrada en vigor de este Real Decreto, tengan contratos de acceso con plazo de vigencia superior a dos años que supongan más del 75 por 100 de la capacidad de sus instalaciones, podrán mantener los mismos, hasta su vencimiento, sin que éstos puedan prorrogarse o suscribir nuevos contratos con plazos superiores a dos años, en tanto no se cumpla lo dispuesto en el punto 5 del artículo 6.
+
+#### Disposición transitoria quinta. Almacenamiento operativo incluido en el peaje de regasificación.
+
+Desde la entrada en vigor del presente Real Decreto y hasta el 1 de enero de 2004, el almacenamiento operativo en planta incluido en el peaje de regasificación, a que hace referencia el párrafo a) del apartado 2 del artículo 29 será de cinco días.
+
+A partir del 1 de enero de 2004, aquellas instalaciones de regasificación que no dispongan de diez días de capacidad de almacenamiento en función de la capacidad contratada, deberán descontar del peaje máximo de regasificación la cuantía correspondiente al almacenamiento operativo entre los diez días establecidos y la capacidad real de almacenamiento de la instalación.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+A la entrada en vigor del presente Real Decreto queda derogada cualquier disposición que se oponga a lo dispuesto en el mismo, y en particular queda derogado el Real Decreto 1914/1997, de 19 de diciembre, por el que se establecen las condiciones de acceso de terceros a las instalaciones de recepción, regasificación, almacenamiento y transporte de gas natural.
+
+#### Disposición final primera. Carácter básico.
+
+De acuerdo con lo dispuesto en la disposición final primera de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, la presente norma tiene carácter básico, al amparo de lo establecido en el artículo 149.1, 15.ª y 25.ª, de la Constitución.
+
+#### Disposición final segunda. Procedimiento de liquidación.
+
+En el plazo de tres meses, desde la entrada en vigor del presente Real Decreto, el Ministro de Economía publicará, mediante Orden ministerial, el procedimiento de liquidación definido en el artículo 35.
+
+#### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca a 3 de agosto de 2001.
+
+JUAN CARLOS R.
+
+El Vicepresidente Segundo del Gobierno para Asuntos Económicos y Ministro de Economía,
+
+RODRIGO DE RATO Y FIGAREDO

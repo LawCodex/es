@@ -630,26 +630,6 @@ n) Criterios de graduación de los posibles incumplimientos de condiciones impue
 
 4\. Los beneficiarios deberán dar la adecuada publicidad del carácter público de la financiación de programas, actividades, inversiones o actuaciones de cualquier tipo que sean objeto de subvención, en los términos reglamentariamente establecidos.
 
-> Téngase en cuenta que esta redacción será de aplicación a las subvenciones convocadas o concedidas a partir del 1 de enero de 2016, según establece la disposición transitoria 10 de la Ley 15/2014, de 16 de septiembre. [Ref. BOE-A-2014-9467](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9467).
-
-> Redacción anterior:
-
-> "1. Los órganos administrativos concedentes publicarán en el diario oficial correspondiente, y en los términos que se fijen reglamentariamente, las subvenciones concedidas con expresión de la convocatoria, el programa y crédito presupuestario al que se imputen, beneficiario, cantidad concedida y finalidad o finalidades de la subvención.
-
-> 2\. Sin perjuicio de lo establecido en el apartado anterior, la publicidad de las subvenciones concedidas por entidades locales de menos de 50.000 habitantes podrá realizarse en el tablón de anuncios. Además, cuando se trate de entidades locales de más de 5.000 habitantes, en el diario oficial correspondiente se publicará un extracto de la resolución por la que se ordena la publicación, indicando los lugares donde se encuentra expuesto su contenido íntegro.
-
-> 3\. No será necesaria la publicación en el diario oficial de la Administración competente la concesión de las subvenciones en los siguientes supuestos:
-
-> a) Cuando las subvenciones públicas tengan asignación nominativa en los presupuestos de las Administraciones, organismos y demás entidades públicas a que se hace referencia en el artículo 3 de esta ley.
-
-> b) Cuando su otorgamiento y cuantía, a favor de beneficiario concreto, resulten impuestos en virtud de norma de rango legal.
-
-> c) Cuando los importes de las subvenciones concedidas, individualmente consideradas, sean de cuantía inferior a 3.000 euros. En este supuesto, las bases reguladoras deberán prever la utilización de otros procedimientos que, de acuerdo con sus especiales características, cuantía y número, aseguren la publicidad de los beneficiarios de las mismas.
-
-> d) Cuando la publicación de los datos del beneficiario en razón del objeto de la subvención pueda ser contraria al respeto y salvaguarda del honor, la intimidad personal y familiar de las personas físicas en virtud de lo establecido en la Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen, y haya sido previsto en su normativa reguladora.
-
-> 4\. Los beneficiarios deberán dar la adecuada publicidad del carácter público de la financiación de programas, actividades, inversiones o actuaciones de cualquier tipo que sean objeto de subvención, en los términos reglamentariamente establecidos."
-
 > Se modifica por el art. 30.2 de la Ley 15/2014, de 16 de septiembre. [Ref. BOE-A-2014-9467](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9467).
 
 > Téngase en cuenta que esta modificación será de aplicación a las subvenciones convocadas o concedidas a partir del 1 de enero de 2016, según establece la disposición transitoria 10 de la citada Ley.
@@ -783,12 +763,6 @@ c) Con carácter excepcional, aquellas otras subvenciones en que se acrediten ra
 1\. El procedimiento para la concesión de subvenciones se inicia siempre de oficio.
 
 2\. La iniciación de oficio se realizará siempre mediante convocatoria aprobada por el órgano competente, que desarrollará el procedimiento para la concesión de las subvenciones convocadas según lo establecido en este capítulo y de acuerdo con los principios de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. La convocatoria deberá publicarse en la BDNS y un extracto de la misma, en el "Boletín Oficial del Estado" de acuerdo con el procedimiento establecido en el artículo 20.8. La convocatoria tendrá necesariamente el siguiente contenido:
-
-> Téngase en cuenta que esta redacción del primer párrafo del apartado 2 será de aplicación a las subvenciones convocadas o concedidas a partir del 1 de enero de 2016, según establece la disposición transitoria 10 de la Ley 15/2014, de 16 de septiembre. [Ref. BOE-A-2014-9467](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9467).
-
-> Redacción anterior:
-
-> "La iniciación de oficio se realizará siempre mediante convocatoria aprobada por el órgano competente, que desarrollará el procedimiento para la concesión de las subvenciones convocadas según lo establecido en este capítulo y de acuerdo con los principios de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y tendrá necesariamente el siguiente contenido:"
 
 a) Indicación de la disposición que establezca, en su caso, las bases reguladoras y del diario oficial en que está publicada, salvo que en atención a su especificidad éstas se incluyan en la propia convocatoria.
 
@@ -1332,8 +1306,6 @@ Tendrán esta misma consideración los funcionarios de los órganos que tengan a
 
 5\. La cesión de datos de carácter personal que se deba efectuar a la Intervención General de la Administración del Estado para el ejercicio de sus funciones de control financiero conforme a lo dispuesto en el artículo anterior, en los apartados anteriores de este artículo o en otra norma de rango legal, no requerirá el consentimiento del afectado. En este ámbito no será de aplicación lo dispuesto en el apartado 1 del artículo 21 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
-> Téngase en cuenta que el apartado 5 entra en vigor el 17 de diciembre de 2014, según establece la disposición transitoria 10 de la Ley 15/2014, de 16 de septiembre. [Ref. BOE-A-2014-9467](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9467).
-
 > Se añade el apartado 5 por el art. 30.5 de la Ley 15/2014, de 16 de septiembre. [Ref. BOE-A-2014-9467](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9467).
 
 ##### Artículo 48. Deberes del personal controlador.
@@ -1526,8 +1498,6 @@ f) La falta de suministro de información por parte de las administraciones, org
 
 g) Las demás conductas tipificadas como infracciones graves en la normativa de la Unión Europea en materia de subvenciones.
 
-> Téngase en cuenta que el contenido de la letra f) entra en vigor el 17 de diciembre de 2014, según establece la disposición transitoria 10 de la Ley 15/2014, de 16 de septiembre. [Ref. BOE-A-2014-9467](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9467).
-
 > Se reordena la letra f) como g) y se añade una nueva f) por el art. 30.6 de la Ley 15/2014, de 16 de septiembre. [Ref. BOE-A-2014-9467](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9467).
 
 ##### Artículo 58. Infracciones muy graves.
@@ -1659,8 +1629,6 @@ b) Prohibición, durante un plazo de hasta cinco años, para celebrar contratos 
 c) Pérdida, durante un plazo de hasta cinco años, de la posibilidad de actuar como entidad colaboradora en relación con las subvenciones reguladas en esta ley.
 
 3\. El órgano competente para imponer estas sanciones podrá acordar su publicidad en la Base de Datos Nacional de Subvenciones.
-
-> Téngase en cuenta que el apartado 3 entra en vigor el 17 de diciembre de 2014, según establece la disposición transitoria 10 de la Ley 15/2014, de 16 de septiembre. [Ref. BOE-A-2014-9467](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9467).
 
 > Se añade el apartado 3 por el art. 30.8 de la Ley 15/2014, de 16 de septiembre. [Ref. BOE-A-2014-9467](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9467).
 

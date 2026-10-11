@@ -1,0 +1,3032 @@
+---
+title: "Real Decreto 357/1991, de 15 de marzo, por el que se desarrolla en materia de pensiones no contributivas la Ley 26/1990, de 20 de diciembre, por la que se establecen en la Seguridad Social prestaciones no contributivas"
+identifier: "BOE-A-1991-7270"
+eli: "https://www.boe.es/eli/es/rd/1991/03/15/357"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1991-03-15
+published: 1991-03-21
+in_force_from: 1991-03-22
+last_amended: 2007-05-12
+consolidated: 2026-07-16
+gazette: "Boletín Oficial del Estado núm. 69"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-7270"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 357/1991, de 15 de marzo, por el que se desarrolla en materia de pensiones no contributivas la Ley 26/1990, de 20 de diciembre, por la que se establecen en la Seguridad Social prestaciones no contributivas
+
+Incluye la corrección de erratas publicada en BOE núm. 81, de 4 de abril de 1991. [Ref. BOE-A-1991-8132](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-8132).
+
+La Ley 26/1990, de 20 de diciembre, por la que se establecen en la Seguridad Social prestaciones no contributivas faculta, en su disposición final segunda, al Gobierno para dictar las normas de desarrollo de la misma que permitan su aplicación real.
+
+A tal finalidad responde el presente Real Decreto, mediante el cual se efectúa el desarrollo reglamentario de la disposición legal citada en el ámbito de las pensiones de Seguridad Social, en su modalidad no contributiva.
+
+A través de la presente disposición se completan los preceptos legales contenidos en la Ley 26/1990, de 20 de diciembre, de acuerdo con las normas legales que se desarrollan, así como con las demás disposiciones de Seguridad Social que sean de aplicación. Asimismo, se introducen determinados preceptos procedimentales, concordes con lo establecido en la Ley de Procedimiento Administrativo.
+
+A efectos de la determinación del grado de minusvalía o enfermedad crónica, así como de la acreditación de la necesidad del concurso de otra persona, que tienen incidencia para el reconocimiento de la pensión de invalidez de la Seguridad Social, en su modalidad no contributiva, o del complemento de la pensión, se establece la aplicación de los baremos contenidos en la Orden del Ministerio de Trabajo y Seguridad Social de 8 de marzo de 1984, con la finalidad de que pueda aplicarse inmediatamente la Ley 26/1990 y evitar retrasos excesivos en el reconocimiento de las nuevas pensiones, con el consiguiente grave perjuicio para los posibles beneficiarios. No obstante, se prevé la elaboración y posterior promulgación de unos nuevos baremos que actualicen los vigentes, adecuándolos a las variaciones en el pronóstico de las enfermedades y a los avances médico-funcionales, así como a la aparición de nuevas patologías.
+
+Además, la aplicación de los baremos contenidos en la Orden de 8 de marzo de 1984 posibilita el acceso inmediato de los actuales perceptores de los subsidios económicos de la Ley 13/1982, de 7 de abril, de Integración Social de los Minusválidos, a las nuevas pensiones no contributivas, al no tener que acreditar de nuevo el grado de minusvalía reconocido.
+
+En su virtud, a propuesta conjunta de los Ministros de Trabajo y Seguridad Social y de Asuntos Sociales, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 15 de marzo de 1991,
+
+DISPONGO:
+
+## CAPÍTULO I — Pensión de invalidez en su modalidad no contributiva
+
+### Art. 1. Beneficiarios de la pensión de invalidez.
+
+Tendrán derecho a la pensión de invalidez de la Seguridad Social, en su modalidad no contributiva, las personas que cumplan los siguientes requisitos:
+
+a) Ser mayor de dieciocho años y menor de sesenta y cinco años de edad, en la fecha de la solicitud.
+
+b) Residir legalmente en territorio español y haberlo hecho durante cinco años, de los cuales dos deberán ser inmediatamente anteriores a la fecha de la solicitud.
+
+c) Estar afectadas por una minusvalía o por una enfermedad crónica, en un grado igual o superior al 65 por 100.
+
+d) Carecer de rentas o ingresos suficientes en los términos señalados en el artículo 11.
+
+> Redactado el apartado d) conforme a la corrección de erratas publicada en BOE núm. 81, de 4 de abril de 1991. [Ref. BOE-A-1991-8132](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-8132).
+
+### Art. 2. Complemento en pensiones de invalidez por necesidad de otra persona.
+
+La cuantía de la pensión de invalidez se incrementará con un complemento siempre que, siendo el porcentaje de minusvalía o enfermedad crónica del beneficiario igual o superior al 75 por 100, la aplicación del baremo a que se hace referencia en el artículo 4.º de este Real Decreto haya determinado la necesidad del concurso de otra persona para realizar los actos más esenciales de la vida, tales como vestirse, desplazarse, comer o análogos. El importe de dicho complemento será equivalente al 50 por 100 de la cuantía de la pensión que se fije anualmente en la correspondiente Ley de Presupuestos Generales del Estado.
+
+### Art. 3. Determinación del grado de minusvalía o enfermedad crónica.
+
+El grado de minusvalía o enfermedad crónica se determinará valorando tanto los factores físicos, psíquicos o sensoriales, como los factores sociales complementarios, mediante la aplicación de los baremos a que se refiere la disposición adicional segunda.
+
+### Art. 4. Baremo de necesidad del concurso de otra persona.
+
+La situación de dependencia y necesidad del concurso de otra persona se determinará mediante la aplicación del baremo a que se refiere la disposición adicional segunda de este Real Decreto.
+
+Este baremo se aplicará siempre que, cumpliendo los requisitos para ser beneficiario de la pensión de invalidez, el grado de minusvalía o enfermedad crónica del interesado sea igual o superior al 75 por 100.
+
+### Art. 5. Revisiones del grado de minusvalía o enfermedad crónica en caso de invalidez.
+
+1\. El grado de minusvalía o enfermedad crónica será revisable, en tanto que el beneficiario no haya cumplido los sesenta y cinco años, por alguna de las siguientes causas:
+
+a) Agravación o mejoría de la situación de minusvalía o enfermedad crónica.
+
+b) Variación de los factores sociales complementarios.
+
+c) Error de diagnóstico o en la aplicación del correspondiente baremo.
+
+2\. El Organismo gestor podrá revisar el grado de minusvalía o enfermedad crónica reconocido. A tal fin, en la propuesta del órgano de calificación de la minusvalía o enfermedad crónica se establecerá, cuando proceda en atención a las circunstancias concurrentes, el plazo máximo en que deba efectuarse la primera revisión del grado de minusvalía o enfermedad crónica que se declare. Asimismo, en cada una de las revisiones que se efectúen se determinará, en su caso, la fecha de la siguiente revisión.
+
+3\. La primera revisión del grado de minusvalía o enfermedad crónica podrá instarse, por parte del interesado, una vez que hayan transcurrido dos años desde la fecha en que se haya reconocido dicho grado. Las posteriores revisiones podrán instarse después de transcurrido un año desde la fecha de la resolución que haya resuelto la petición de revisión anterior. Los plazos precedentes no serán de aplicación cuando se acredite suficientemente la variación de los factores personales o sociales valorados.
+
+4\. Las revisiones reguladas en este artículo se realizarán con arreglo al procedimiento establecido en el capítulo IV de este Real Decreto para el reconocimiento del derecho a las pensiones.
+
+5\. Si como consecuencia de la revisión se reduce el grado inicialmente reconocido, los efectos económicos de la revisión tendrán lugar desde el día 1 del mes siguiente al que se haya dictado la resolución.
+
+Si como consecuencia de la revisión se incrementa el grado de minusvalía inicialmente reconocido y/o se declara la necesidad de concurso de otra persona, a efectos del complemento a que se refiere el artículo 2.º de este Real Decreto, los efectos económicos de la revisión tendrán lugar desde el día 1 del mes siguiente al de la solicitud del interesado, salvo que la revisión se hubiera producido de oficio, en cuyo supuesto los efectos económicos serán a partir del día 1 del mes siguiente a aquel en que se haya emitido el oportuno dictamen por el equipo de valoración y orientación a que se refiere el número 2 del artículo 21.
+
+### Art. 6. Compatibilidad y comunicación del ejercicio de actividades.
+
+1\. La percepción de la pensión de invalidez en su modalidad no contributiva no impedirá el ejercicio de aquellas actividades, sean o no lucrativas, compatibles con el estado de la persona con minusvalía y que no representen un cambio en su capacidad de trabajo, en tanto que las rentas que del mismo se deriven, sumadas, en su caso, con otros ingresos del pensionista o de las demás personas de la misma unidad económica, no superen los respectivos límites de recursos previstos en el artículo 11 de este Real Decreto, y sin perjuicio de que tales rentas sean tenidas en cuenta para la determinación de la cuantía de la pensión, de conformidad con lo establecido en el artículo 14.
+
+2\. Los perceptores de las pensiones de invalidez en su modalidad no contributiva, además de las obligaciones que para los mismos se prevén en el artículo 16, vendrán también obligados a comunicar al Organismo gestor correspondiente la realización de cualquier trabajo, sea por cuenta propia o ajena.
+
+> Redactado el apartado 1 conforme a la corrección de erratas publicada en BOE núm. 81, de 4 de abril de 1991. [Ref. BOE-A-1991-8132](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-8132).
+
+### Art. 7. Extinción del derecho a la pensión de invalidez.
+
+El derecho a la pensión de invalidez, en su modalidad no contributiva, se extinguirá cuando en el beneficiario concurra alguna de las siguientes circunstancias:
+
+a) Pérdida de su condición de residente legal o traslado de su residencia fuera de territorio español por tiempo superior al limite establecido en el número 2 del artículo 10 del presente Real Decreto.
+
+b) Mejoría de la minusvalía o enfermedad crónica padecidas que determine un grado inferior al 65 por 100.
+
+c) Disponer de rentas o ingresos suficientes, en los términos que se definen en el artículo 11 de este Real Decreto.
+
+d) Fallecimiento del beneficiario.
+
+## CAPÍTULO II — Pensión de jubilación en su modalidad no contributiva
+
+### Art. 8. Beneficiarios de la pensión de jubilación.
+
+Tendrán derecho a la pensión de jubilación, en su modalidad no contributiva, las personas que cumplan los siguientes requisitos:
+
+a) Haber cumplido los sesenta y cinco años de edad.
+
+b) Residir legalmente en territorio nacional y haberlo hecho durante diez años entre la edad de dieciséis años y la edad de devengo de la pensión, de los cuales dos deberán ser consecutivos e inmediatamente anteriores a la solicitud de la pensión.
+
+c) Carecer de rentas o ingresos suficientes en los términos establecidos en el artículo 11 de este Real Decreto.
+
+### Art. 9. Extinción del derecho a la pensión de jubilación.
+
+El derecho a la pensión de jubilación, en su modalidad no contributiva, se extinguirá cuando en el beneficiario concurra alguna de las siguientes circunstancias:
+
+a) Pérdida de la condición de residente legal o traslado de la residencia fuera de territorio español por tiempo superior al límite establecido en el número 2 del artículo 10 del presente Real Decreto.
+
+b) Disponer de rentas o ingresos suficientes en los términos que se definen en el artículo 11 de este Real Decreto.
+
+c) Fallecimiento del beneficiario.
+
+## CAPÍTULO III — Normas comunes a las pensiones de invalidez y jubilación, en sus modalidades no contributivas
+
+### Art. 10. Requisito de residencia legal.
+
+1\. El requisito de residencia legal para el reconocimiento y conservación del derecho a la pensión quedará acreditado siempre que teniendo el interesado domicilio en territorio español, resida en el mismo, ostentando la condición de residente.
+
+2\. La residencia continuada anterior a la solicitud de la pensión y la posterior al reconocimiento del derecho no se considerará interrumpida por las ausencias del territorio español inferiores a noventa días a lo largo de cada año natural, así como cuando la ausencia esté motivada por causas de enfermedad debidamente justificadas.
+
+### Art. 11. Carencia de rentas o ingresos.
+
+1\. Se considerará que existen rentas o ingresos insuficientes, cuando los que disponga o se prevea va a disponer el interesado, en cómputo anual, de enero a diciembre, sean inferiores a la cuantía, también en cómputo anual, de las pensiones no contributivas de la Seguridad Social que se fije en la correspondiente Ley de Presupuestos Generales del Estado.
+
+2\. No obstante lo dispuesto en el número anterior, cuando el solicitante carezca de rentas o ingresos suficientes, si convive con otras personas en una misma unidad económica, únicamente se entenderá cumplido dicho requisito cuando la suma de las rentas o ingresos computables de todos los integrantes de aquélla, en los términos previstos en el número anterior, sea inferior al límite de acumulación de recursos, equivalente a la cuantía, en cómputo anual, de la pensión más el resultado de multiplicar el 70 por 100 de dicha cifra por el número de convivientes, menos uno.
+
+Cuando la convivencia, dentro de una misma unidad económica, se produzca entre el solicitante y sus descendientes o ascendientes consanguíneos o por adopción en primer grado, el límite de acumulación de recursos será equivalente a dos veces y media la cuantía que resulte de aplicar lo dispuesto en el primer párrafo.
+
+### Art. 12. Rentas o ingresos computables.
+
+1\. A efectos de lo establecido en el artículo anterior se consideran rentas o ingresos computables. los bienes y derechos de que dispongan anualmente el beneficiario o la unidad económica de convivencia, derivados tanto del trabajo como del capital, así como cualesquiera otros sustitutivos de aquellos.
+
+2\. Se entenderá por rentas de trabajo las retribuciones, tanto dinerarias como en especie, derivadas del ejercicio de actividades por cuenta propia o ajena.
+
+Se equiparan a rentas de trabajo, las prestaciones reconocidas por cualquiera de los regímenes de previsión social, financiados con cargo a recursos públicos o privados.
+
+Asimismo, tendrán la consideración de ingresos sustitutivos de las rentas de trabajo, cualesquiera otras percepciones supletorias de éstas, a cargo de fondos públicos o privados.
+
+3\. Como rentas de capital se computarán la totalidad de los ingresos que provengan de elementos patrimoniales, tanto de bienes como de derechos, considerándose según sus rendimientos efectivos. De no existir, éstos se valorarán conforme a las normas establecidas en el Impuesto sobre la Renta de las Personas Físicas, a excepción de la vivienda habitualmente ocupada.
+
+4\. En todo caso se computarán las rentas o ingresos, de cualquier naturaleza, que se tenga derecho a percibir o disfrutar, salvo las asignaciones económicas por hijo a cargo, tenga o no la condición de persona con discapacidad, en sus distintas modalidades, otorgadas por el sistema de la Seguridad Social, el subsidio de movilidad y compensación para gastos de transporte, previsto en la Ley de integración social de los minusválidos, los premios o recompensas otorgados a personas con discapacidad en los centros ocupacionales, así como las prestaciones económicas y en especie otorgadas en aplicación de la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia.
+
+> Se modifica el apartado 4 por la disposición final 2.1 del Real Decreto 615/2007, de 11 de mayo. [Ref. BOE-A-2007-9690](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-9690)
+
+### Art. 13. Unidad económica de convivencia.
+
+Existirá unidad económica en todos los casos de convivencia de un beneficiario con otras personas, sean o no beneficiarios, unidas con aquél por matrimonio o por lazos de parentesco por consanguinidad o por adopción hasta el segundo grado.
+
+### Art. 14. Cálculo de las cuantías.
+
+1\. La cuantía de las pensiones, en su importe anual, será la que se fije en la correspondiente Ley de Presupuestos Generales del Estado. Su pago se fraccionará en catorce pagas correspondientes a cada uno de los meses del año y dos pagas extraordinarias que se devengarán en los meses de junio y noviembre.
+
+Cuando en una misma unidad económica concurra más de un beneficiario con derecho a pensión de esta misma naturaleza, la cuantía de cada una de las pensiones vendrá determinada en función de las siguientes reglas:
+
+Primera.–Al importe referido en el número 1 se le sumará el 70 por 100 de esa misma cuantía, tantas veces como número de beneficiarios, menos uno, existan en la unidad económica.
+
+Segunda.–La cuantía de la pensión para cada uno de los beneficiarios será igual al cociente de dividir el resultado de la suma prevista en la regla primera, por el número de beneficiarios con derecho a pensión.
+
+2\. De las cuantías individuales resultantes de la aplicación de lo establecido en el número anterior, calculadas en cómputo anual, se deducirán, en su caso, las rentas o ingresos anuales computables de que disponga cada beneficiario.
+
+3\. En los supuestos de convivencia del beneficiario o beneficiarios en una misma unidad económica con personas no beneficiarias, si la suma de los ingresos o rentas anuales de todos los componentes de la unidad económica, más los importes de la pensión o pensiones no contributivas calculadas conforme a lo dispuesto en los números anteriores superase el límite de acumulación de recursos establecido en el artículo 11, la pensión o pensiones se reducirán, para no sobrepasar dicho limite, disminuyéndose, por igual cuantía, cada una de las pensiones.
+
+4\. La cuantía mínima de la pensión a reconocer será, en cualquier caso, igual al 25 por 100 de la cuantía de la pensión a que se refiere el número 1 de este artículo, aunque el cálculo resultante de la aplicación de lo dispuesto en los números 2 y 3, hubiera dado un resultado inferior a dicho porcentaje.
+
+5.**(Sin efecto).**
+
+> Se deja sin efecto el apartado 5 por la disposición adicional 7.2 del Real Decreto 1464/2001, de 27 de diembre. [Ref. BOE-A-2001-24969](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24969).
+
+### Art. 15. Reconocimiento y efectos.
+
+1\. El reconocimiento del derecho a la pensión de jubilación o invalidez, en sus modalidades no contributivas, dará lugar a la asistencia sanitaria de la Seguridad Social, previo reconocimiento del derecho a la misma por el Instituto Nacional de la Seguridad Social, así como el acceso a los servicios sociales establecidos en el sistema para los pensionistas.
+
+A tal efecto, la Tesorería General de la Seguridad Social expedirá, en favor de los beneficiarios de las pensiones no contributivas de la Seguridad Social, el correspondiente documento que sirva para acreditar, en todo el territorio nacional, su condición de pensionistas de Seguridad Social.
+
+2\. Los efectos económicos de la pensión se producirán a partir del día primero del mes siguiente a aquél en que se hubiere presentado la solicitud.
+
+### Art. 16. Obligaciones de los beneficiarios.
+
+1\. Los perceptores de las pensiones de invalidez y jubilación, en sus modalidades no contributivas, vendrán obligados a comunicar, en el plazo máximo de treinta días desde la fecha en que se produzca, cualquier variación de su situación de convivencia, estado civil, residencia, recursos económicos propios o ajenos computables por razón de convivencia, y cuantas puedan tener incidencia en la conservación o en la cuantía de aquélla.
+
+Cuando del incumplimiento de esta obligación se derive una percepción indebida de prestaciones, el interesado, conforme a lo dispuesto en el artículo 56 de la Ley General de la Seguridad Social, deberá reintegrar las cantidades indebidamente percibidas, desde el primer día del mes siguiente a aquel en que hubiera variado la situación, cualquiera que sea el momento en que se detecte la variación, salvo que acción para solicitar la devolución hubiera prescrito, por transcurso del plazo de cinco años.
+
+2\. Conforme a lo establecido en la disposición adicional quinta de la Ley 2611990, de 20 de diciembre, los beneficiarios deberán presentar una declaración de los ingresos o rentas computables, de la respectiva unidad económica de convivencia, referidos al año inmediatamente anterior.
+
+Al mismo tiempo, declararán las posibles variaciones en los ingresos o rentas justificados, referidos al año en curso, a efectos de modificar, en su caso, la cuantía a abonar, según el importe vigente de la pensión.
+
+La declaración a que se refiere el primer párrafo de este número, deberá presentarse en el primer trimestre de cada año. Incumplida dicha obligación y previo requerimiento del Organismo gestor al beneficiario, con la advertencia expresa de las consecuencias del incumplimiento, se procederá, como medida cautelar, a suspender el pago de la pensión.
+
+### Art. 17. Variación de rentas o ingresos.
+
+En el supuesto de que el beneficiario viera incrementados o minorados las rentas o ingresos, inicialmente previstos, de los que, por su estimación en cómputo anual, de enero a diciembre, pudiera derivarse la modificación de la cuantía de la pensión que viniera percibiendo o la extinción del derecho a la misma, el Organismo gestor, sin perjuicio de la regularización que proceda una vez concluido el ejercicio económico de que se trate, revisará el importe de la pensión o interrumpirá el pago de ésta, con efectos del día primero del mes siguiente a aquel en que se hubiera producido la variación correspondiente.
+
+### Art. 18. Incompatibilidad entre prestaciones.
+
+1\. La condición de beneficiario de las modalidades no contributivas de las pensiones de la Seguridad Social es incompatible con la percepción de las pensiones asistenciales reguladas en la Ley 45/1960, de 21 de julio, así como con la de los subsidios de garantía de ingresos mínimos y de ayuda por tercera persona establecidos en la Ley 13/1982, de 7 de abril, y regulados por Real Decreto 383/1984, de 1 de febrero.
+
+En tal supuesto, deberá ejercitarse opción en favor de alguna de las prestaciones declaradas incompatibles.
+
+2\. Asimismo, la condición de pensionista de invalidez o jubilación en las modalidades no contributivas por parte del hijo con minusvalía es incompatible con el derecho de los padres o de aquél, cuando sea huérfano absoluto, a percibir la asignación económica por hijo a cargo regulada por los apartados 3.2 y 3.3 del artículo 167 del texto refundido de la Ley General de la Seguridad Social, en la redacción dada por el artículo 3.º de la Ley 26/1990, de 20 de diciembre.
+
+En tales supuestos deberá ejercerse la correspondiente opción que, en el caso de que los beneficiarios sean diferentes, deberá formularse previo acuerdo de ambos. A falta de acuerdo, prevalecerá el derecho a la pensión de Seguridad Social de invalidez o jubilación, en su modalidad no contributiva.
+
+En los casos en que se viniese percibiendo una pensión no contributiva y se optase en favor de la asignación económica por hijo minusválido a cargo, los efectos económicos de la pensión no contributiva se extenderán hasta el último día del mes anterior a aquél en que han de surtir efectos económicos las asignaciones por hijo a cargo reconocidas.
+
+> Redactado conforme a la correción de erratas publicada en BOE núm. 81, de 4 de abril de 1991. [Ref. BOE-A-1991-8132](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-8132).
+
+### Art. 19. Extinción de los efectos económicos de las pensiones de invalidez y jubilación.
+
+Los efectos económicos de las pensiones declaradas extinguidas, a tenor de lo previsto en los artículos 7.º y 9.º de este Real Decreto, se extenderán hasta el último día del mes en que se haya producido la causa determinante de su extinción, salvo en los supuestos en que la misma se haya producido por una modificación del grado de minusvalía declarado, en cuyo caso se estará a lo dispuesto en el número 5 del artículo 5.º
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 81, de 4 de abril. [Ref. BOE-A-1991-8132](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-8132).
+
+### Art. 20. Infracciones.
+
+El incumplimiento de las obligaciones de los beneficiarios, así como cualquier actuación dirigida a obtener o a conservar fraudulentamente la pensión, podrá ser objeto de las sanciones correspondientes de acuerdo con la gravedad de la infracción, conforme a la regulación contenida en la Ley 8/1988, de 7 de abril, sobre infracciones y sanciones de orden social.
+
+Las sanciones referidas se entienden sin perjuicio del reintegro de las cantidades indebidamente percibidas.
+
+## CAPÍTULO IV — Gestión de las pensiones de jubilación e invalidez, en las modalidades no contributivas
+
+### Art. 21. Competencia.
+
+1\. Corresponde al Instituto Nacional de Servicios Sociales o a los órganos correspondientes de las Comunidades Autónomas, a los que se les hubiese transferido las funciones y servicios de aquél en su territorio, la gestión de las pensiones de Seguridad Social por invalidez y jubilación, en sus modalidades no contributivas, así como la determinación del grado de minusvalía o enfermedad crónica, a efecto de la concesión de la pensión de invalidez no contributiva.
+
+2\. La determinación del grado de minusvalía o enfermedad crónica se efectuará previo dictamen de los equipos de valoración y orientación de las Direcciones Provinciales del Instituto Nacional de Servicios Sociales o de los órganos correspondientes de las Comunidades Autónomas a los que se les haya transferido las funciones y servicios de la citada Entidad gestora de la Seguridad Social en su territorio.
+
+### Art. 22. Procedimiento.
+
+1\. El procedimiento para el reconocimiento del derecho a las pensiones no contributivas de la Seguridad Social, por invalidez o jubilación, se iniciará por el interesado, su representante o por quien demuestre un interés legítimo para actuar en favor de personas con capacidad gravemente disminuida, y se ajustará a lo dispuesto en el presente Real Decreto y a la previsto, con carácter general, en la Ley de Procedimiento Administrativo.
+
+2\. Las resoluciones denegatorias de pensiones de invalidez, por no cumplir el requisito relativo al grado de minusvalía o enfermedad crónica o no alcanzar la puntuación mínima del baremo determinante de la situación de dependencia y necesidad del concurso de otra persona, deberán advertir expresamente de la limitación temporal para formular nueva solicitud en los términos establecidos en el número 3 del artículo 5.º de este Real Decreto.
+
+### Art. 23. Comprobación del cumplimiento de los requisitos.
+
+1\. La comprobación del cumplimiento de los requisitos que el interesado debe reunir en el momento de la solicitud, así como las circunstancias determinantes de la conservación del derecho a la pensión o su cuantía se efectuará preferentemente:
+
+a) El requisito de edad, mediante el documento nacional de identidad.
+
+b) El requisito de residencia legal, tanto actual como de los períodos exigidos, en territorio español, mediante certificación de los respectivos padrones municipales.
+
+c) La convivencia del interesado con otras personas en un mismo domicilio, a través de declaración del interesado, sin perjuicio de las presunciones legalmente establecidas respecto a la convivencia de los cónyuges, hijos menores o mayores incapacitados.
+
+d) La insuficiencia de recursos, en los términos a que se refieren los artículos 11 y 12 del presente Real Decreto, quedará acreditada cuando el órgano gestor obtenga por medios informáticos de la Administración tributaria la información necesaria al amparo de lo dispuesto en el artículo 113.1.d) de la Ley General Tributaria. Sin perjuicio de lo anterior el órgano gestor podrá solicitar o el interesado aportar voluntariamente otros documentos acreditativos de distinta procedencia a la de la Administración tributaria del cumplimiento del citado requisito.
+
+2\. Podrán comprobarse en todo momento las circunstancias que acreditan el derecho a la pensión, a su conservación y a la cuantía reconocida. A efectos de lo dispuesto en este artículo la entidad gestora realizará todas las comprobaciones pertinentes.
+
+> Se modifica por el art. único del Real Decreto 118/1998, de 30 de enero. [Ref. BOE-A-1998-3732](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3732).
+
+### Art. 24. Reclamación previa a la vía jurisdiccional del orden social.
+
+Las denegaciones presuntas y las resoluciones de los órganos gestores que recaigan sobre las pensiones a que se refiere este Real Decreto podrán ser objeto de reclamación previa a la vía jurisdiccional del orden social.
+
+Dicha reclamación previa se interpondrá ante el órgano que dictó la resolución, de conformidad con lo previsto en el artículo 71 del texto articulado de la Ley de Procedimiento Laboral, aprobado por Real Decreto Legislativo 521/1990, de 27 de abril.
+
+> Se modifica por el art. 2 del Real Decreto 1734/1994, de 29 de julio. [Ref. BOE-A-1994-18028](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-18028).
+
+### Art. 25. Revisión de las cuantías de las pensiones reconocidas.
+
+1\. Las pensiones reconocidas podrán ser revisadas de oficio por el órgano gestor o a solicitud del interesado o de su representante; cuando se produzca variación en cualquiera de los requisitos que dé lugar a modificación de la cuantía de aquéllas, sin perjuicio de lo dispuesto en el artículo 5.º de este Real Decreto.
+
+2\. Las revisiones se realizarán con arreglo al procedimiento establecido para el reconocimiento del derecho a las pensiones. En los casos en que la revisión de oficio se base en hechos, alegaciones o pruebas no aducidas por el interesado, el expediente se pondrá necesariamente de manifiesto a éste para que, en un plazo no inferior a diez ni superior a quince días hábiles, alegue y presente los documentos y justificaciones que estime pertinentes.
+
+3\. La regularización de las cuantías de pensión percibidas en el año inmediatamente anterior, que pueda producirse como consecuencia de la realización del control anual de recursos a que se refiere el artículo 16.2 de este Real Decreto, deberá estar efectuada el 31 de octubre de cada año. Transcurrido este plazo sin realizarse la revisión, se considerará definitiva la cuantía de pensión percibida en el año inmediatamente anterior, salvo que la cuantía que hubiese correspondido percibir fuese superior, o que el interesado no hubiese presentado en plazo la declaración de ingresos o rentas computables a que se refiere el párrafo primero de dicho precepto o no hubiese facilitado correctamente los datos objeto de declaración; en estos dos últimos supuestos vendrá obligado a devolver las cantidades que indebidamente haya podido percibir.
+
+### Art. 26. Comisiones de Seguimiento de la gestión de las pensiones no contributivas de la Seguridad Social.
+
+1\. La participación institucional en el control y vigilancia de la gestión de las pensiones no contributivas de la Seguridad Social se llevará a cabo conforme a lo previsto en el Real Decreto-ley 36/1978, de 16 de noviembre, a través de los órganos de participación institucional establecidos en el Instituto Nacional de Servicios Sociales o en las Comunidades Autónomas a quienes se les hayan transferido las funciones y servicios de dicha Entidad gestora de la Seguridad Social.
+
+2\. Además de los órganos de participación a que se refiere el número anterior y con el fin de facilitar el control y seguimiento especifico de la gestión de las pensiones no contributivas, se crean dependientes de las Comisiones Ejecutivas Provinciales del Instituto Nacional de Servicios Sociales o de los órganos de participación social que tengan establecidos o establezcan las Comunidades a quienes se les hayan transferido las funciones y servicios de aquél, las Comisiones de Seguimiento de la gestión de las pensiones no contributivas de la Seguridad Social.
+
+En las Comisiones de Seguimiento estarán representados, por partes iguales, los Sindicatos más representativos, las Organizaciones Empresariales y la Administración Pública.
+
+3\. El funcionamiento de las Comisiones de Seguimiento de la gestión de las pensiones no contributivas de la Seguridad Social se determinará por el Ministerio de Asuntos Sociales o por el órgano competente de las Comunidades Autónomas a que se refiere el número anterior.
+
+4\. Las funciones de las Comisiones de Seguimiento de las pensiones no contributivas de la Seguridad Social serán las siguientes:
+
+a) Recibir un informe periódico de los correspondientes órganos de gestión sobre la evolución de las pensiones no contributivas, así como de las medidas adoptadas respecto de la gestión de las mismas, incluyendo el seguimiento de los procedimientos de revisión de las pensiones.
+
+b) Formular iniciativas, propuestas y sugerencias en orden a la mejora de la gestión de las pensiones no contributivas.
+
+c) Establecer criterios para la elaboración de los planes específicos de actuación en materia de gestión de las pensiones no contributivas de la Seguridad Social, sin perjuicio de las competencias que corresponden al Ministerio de Asuntos Sociales y al Instituto Nacional de Servicios Sociales o a las Comunidades Autónomas que tengan transferidos los servicios y funciones de dicha Entidad gestora de la Seguridad Social.
+
+### Disposición adicional primera.
+
+Conforme a lo establecido en la disposición adicional primera de la Ley 26/1990, de 20 de diciembre, la cuantía de las pensiones no contributivas será en cómputo anual de 364.000 pesetas.
+
+Asimismo, y de acuerdo con la norma citada en el párrafo anterior, la cuantía de las pensiones no contributivas se actualizará en la correspondiente Ley de Presupuestos Generales del Estado, y respecto de la cuantía del ejercicio anterior, al menos, en el mismo porcentaje que en dicha Ley se establezca como incremento general de las pensiones contributivas de la Seguridad Social.
+
+### Disposición adicional segunda.
+
+1\. La determinación del grado de minusvalía o enferme-dad crónica, a efectos del reconocimiento de las pensiones de invalidez, en su modalidad no contributiva, se efectuará mediante la aplicación de los baremos contenidos en el anexo I de la Orden del Ministerio de Trabajo y Seguridad Social de 8 de marzo de 1984.
+
+Igualmente, la necesidad del concurso de tercera persona se determinará mediante la aplicación del baremo contenido en el anexo III de la Orden señalada en el párrafo anterior.
+
+Para la aplicación de lo dispuesto en los párrafos anteriores se tendrá en cuenta lo establecido en los artículos 3.º y 4.º, así como en el último párrafo del artículo 5.º de la citada Orden.
+
+2\. Los baremos citados en el número anterior serán objeto de actualización, mediante Real Decreto, a propuesta del Ministerio de Asuntos Sociales y previo informe del de Trabajo y Seguridad Social, con el fin de adecuarlos a las variaciones en el pronóstico de las enfermedades, a los avances médico-funcionales y a la aparición de nuevas patologías.
+
+### Disposición adicional tercera.
+
+1\. Cuando fuese formulada solicitud de pensión de jubilación o invalidez permanente, en sus modalidades contributivas, y la misma fuera denegada, la correspondiente Entidad gestora cursará al Organismo encargado del reconocimiento del derecho a las pensiones no contributivas de la Seguridad Social copia de la solicitud y de la resolución denegatoria para que, en su caso, y previa conformidad del interesado, tramite el oportuno expediente en orden al eventual otorgamiento de una pensión no contributiva. De la citada remisión se dará oportuna comunicación al interesado.
+
+En tales supuestos, y si se reconociera el derecho a una pensión de Seguridad Social no contributiva, la fecha de efectos económicos de las mismas será el día 1 del mes siguiente a aquella que hubiera correspondido a la pensión contributiva, siempre que el beneficiario cumpliese en dicha fecha los requisitos que condicionan la pensión no contributiva.
+
+2\. A los efectos previstos en el número anterior se presumirá afecto de una minusvalía igual al 65 por 100 a quien le haya sido reconocida, en la modalidad contributiva, una invalidez permanente, en el grado de incapacidad permanente absoluta para todo trabajo.
+
+Cuando la calificación en la modalidad contributiva hubiera sido la de gran invalidez se presumirá, a efectos de la modalidad no contributiva„ que el interesado está afecto de una minusvalía o enfermedad crónica en un grado igual o superior al 75 por 100 y necesitado del concurso de una tercera persona para realizar los actos más esenciales de la vida.
+
+### Disposición adicional cuarta.
+
+1\. De conformidad con lo establecido en la disposición adicional séptima de la Ley 26/1990, de 20 de diciembre, las oficinas del Registro Civil facilitarán a las Entidades encargadas de la gestión de las pensiones de la Seguridad Social, dentro de los veinte primeros días de cada mes, certificación global acreditativa de las personas fallecidas en el mes anterior, con sus datos de identidad.
+
+2\. Asimismo, conforme a lo previsto en la disposición señalada en el número anterior, las Administraciones Locales y las dependencias de la Hacienda Pública prestarán a las Entidades encargadas de la gestión de las prestaciones de la Seguridad Social la colaboración necesaria para el cumplimiento de sus funciones.
+
+### Disposición adicional quinta.
+
+Corresponde al Instituto Nacional de Servicios Sociales la constitución y actualización permanente del fichero técnico de todas las pensiones no contributivas de jubilación e invalidez que estén en vigor.
+
+A tal efecto, de conformidad con lo previsto en la disposición adicional séptima de la Ley 26/1990, de 20 de diciembre, por la que se establecen en la Seguridad Social prestaciones no contributivas, las Comunidades Autónomas que gestionen dichas pensiones facilitarán al Instituto Nacional de Servicios Sociales, antes del día 15 de cada mes, los datos relativos a las pensiones que hayan reconocido, modificado e extinguido durante el mes anterior en el formato que se incluye como anexo al presente Real Decreto, y de acuerdo con las prescripciones técnicas que se dicten por el Ministerio de Asuntos Sociales, consultadas las Comunidades Autónomas señaladas.
+
+Los órganos gestores de las Comunidades Autónomas podrán consultar dicho fichero en orden al reconocimiento o denegación de las solicitudes de pensión, así como al mantenimiento, variación o extinción de las ya reconocidas.
+
+A través de dicho fichero, y mediante su traslado al Banco de Datos de Pensiones Públicas gestionado por el Instituto Nacional de la Seguridad Social, se dará cumplimiento a lo establecido en la disposición adicional quinta, 2, de la Ley 26/1990, de 20 de diciembre, respecto de la integración en dicho Banco de Datos de las pensiones de invalidez y jubilación, en su modalidad no contributiva.
+
+### Disposición adicional sexta.
+
+En lo no previsto en la Ley 26/1990, de 20 de diciembre, y en el presente Real Decreto, se estará a lo dispuesto en las restantes normas reguladoras del sistema de la Seguridad Social que sean de aplicación.
+
+### Disposición adicional séptima.
+
+Cuando, en base a lo previsto en el número 2 de la disposición adicional cuarta de la Ley 26/1990, de 20 de diciembre, se establezcan conciertos con las Comunidades Autónomas, a los que no se les hubiese transferido los servicios del Instituto Nacional de Servicios Sociales, la gestión por aquéllas de las pensiones no contributivas se llevará a cabo de conformidad con el presente Real Decreto y con las disposiciones que se dicten en aplicación y desarrollo del mismo, así como con lo que se disponga en los citados conciertos.
+
+### Disposición transitoria primera.
+
+1\. Quienes, con anterioridad a la entrada en vigor del presente Real Decreto, fuesen beneficiarios de los subsidios de garantía de ingresos mínimos o de ayuda por tercera persona, previstos en la Ley 13/1982, de 7 de abril, de Integración Social de los Minusválidos, así como de las pensiones asistenciales, reguladas en la Ley 45/1960, de 21 de julio, podrán pasar a percibir una pensión no contributiva si reúnen los requisitos exigidos para ello, con arreglo a las siguientes normas:
+
+a) Los beneficiarios de las prestaciones citadas, menores de sesenta y cinco años, podrán solicitar la pensión de Seguridad Social por invalidez en su modalidad no contributiva.
+
+b) Los beneficiarios de las prestaciones citadas, con edad igual o superior a sesenta y cinco años, podrán solicitar la pensión de Seguridad Social por jubilación en su modalidad no contributiva.
+
+En los supuestos señalados en este número los solicitantes únicamente tendrán que presentar la solicitud de la pensión.
+
+2\. A los efectos previstos en el número anterior, los beneficiarios de los subsidios económicos de la Ley 13/1982 citados en el mismo que soliciten la pensión de invalidez no contributiva y, en su caso, el complemento por ayuda de tercera persona no tendrán que acreditar nuevamente el grado de su minusvalía, surtiendo efectos a tal finalidad el grado de minusvalía ya reconocido.
+
+Asimismo, se presumirá afectas de una minusvalía en un grado igual al 65 por 100 a aquellas personas que, con anterioridad a la entrada en vigor de este Real Decreto, sean beneficiarias de una pensión asistencial por razón de incapacidad o enfermedad y que, conforme a lo previsto en el número 1, soliciten una pensión de invalidez de Seguridad Social en su modalidad no contributiva.
+
+### Disposición transitoria segunda.
+
+Las solicitudes de reconocimiento de los subsidios de garantía de ingresos mínimos y por ayuda de tercera persona que a la entrada en vigor de la Ley 26/1990, de 20 de diciembre, se encuentren pendientes de resolución, se resolverán con arreglo a su normativa específica.
+
+### Disposición final primera.
+
+Sin perjuicio de las competencias que corresponden a las Comunidades Autónomas, se faculta a los Ministros de Trabajo y Seguridad Social y de Asuntos Sociales para dictar, en el ámbito de sus competencias respectivas, las disposiciones que sean necesarias para la aplicación y desarrollo de lo que se dispone en el presente Real Decreto.
+
+### Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 15 de marzo de 1991.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ
+
+## ANEXO — Fichero técnico de pensiones no contributivas
+
+<table class="tabla_ancha">
+<tr>
+<td rowspan="2">
+<p class="cabeza_tabla">N.º Ref.</p>
+</td>
+<td colspan="2">
+<p class="cabeza_tabla">Dato</p>
+</td>
+<td colspan="2">
+<p class="cabeza_tabla">Longitud</p>
+</td>
+<td rowspan="2">
+<p class="cabeza_tabla">Pos. en reg.</p>
+</td>
+<td rowspan="2">
+<p class="cabeza_tabla">Tipo de dato</p>
+</td>
+<td rowspan="2">
+<p class="cabeza_tabla">Descripción</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cabeza_tabla">Campo</p>
+</td>
+<td>
+<p class="cabeza_tabla">Subcampo</p>
+</td>
+<td>
+<p class="cabeza_tabla">C</p>
+</td>
+<td>
+<p class="cabeza_tabla">S</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Autonomía.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Clave numérica de la Autonomía.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Provincia.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Clave numérica de la Provincia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo de Pensión.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">5</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Clase de la pensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">4</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Situación de la pensión.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Situación de la pensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identificación.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">5</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo Ident.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">7</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo de identificación del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identif.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identificación del pensionista (D.N.I. o N.I.E.).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">7</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">D.C. DNI.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">17</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Dígitos de control del D.N.I. del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">8</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apellidos y Nombre.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">19</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apellidos y nombre del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">9</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Fecha Nacimiento.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">8</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Fecha de nacimiento del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Año.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">55</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Año de nacimiento del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mes.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">59</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mes de nacimiento del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Día.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">61</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Día de nacimiento del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">10</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Sexo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">63</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Sexto del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">11</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Estado Civil.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">64</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Estado civil del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Domicilio.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">65</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Domicilio del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">13</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código Postal.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">5</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">110</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código postal del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">14</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Localidad.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">30</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">106</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Nombre de la localidad de residencia del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">15</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Municipio.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">136</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código de municipio del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">16</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Nacionalidad.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">142</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código de la nacionalidad del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">17</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Número de la S.S.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">11</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">145</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Número de Afiliación a la Seguridad Social.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">18</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Ingr. pensionista.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">156</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Ingresos totales anuales del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">19</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Trabaja el pensionista.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">162</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Indicador de si trabaja el pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">20</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Pensión concurrente primera.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">163</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código de la primera pensión concurrente del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">21</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Pensión concurrente segunda.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">166</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código de la segunda pensión concurrente del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">22</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Rég. Procedencia.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">169</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código del Régimen de procedencia del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">23</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">N. Total Conviv.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">170</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Número total de convivientes con el pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identif. del primer Conviv.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">10</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">24</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo Identif.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">172</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo de identificación del conviviente (D.N.I. o N.I.E.).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">25</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identif.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">173</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identificación del conviviente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">26</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apell. y Nombre del primer Conviv.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">182</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apellidos y nombre del conviviente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">27</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Pens. de Jubilación o Invalidez.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">218</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identif. del segundo Conviv.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">10</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">28</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo Identif.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">219</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo de identificación del conviviente (D.N.I. o N.I.E.).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">29</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identif.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">220</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identificación del conviviente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">30</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apell. y Nombre del segundo Conviv.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">229</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apellidos y nombre del conviviente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">31</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Pens. de Jubilación o Invalidez.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">265</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identif. del tercer Conviv.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">10</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">32</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo Identif.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">266</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo de identificación del conviviente (D.N.I. o N.I.E.).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">33</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identf.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">267</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identificación del conviviente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">34</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apell. y Nombre del tercer Conviv.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">276</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apellidos y nombre del conviviente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">35</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Pens. de Jubilación o Invalidez.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">312</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identif. del cuarto Conviv.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">10</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo Identif.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">313</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo de identificación del conviviente (D.N.I. o N.I.E.).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">37</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identif.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">314</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identificación del conviviente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">38</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apell. y Nombre del cuarto Conviv.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">323</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apellidos y nombre del conviviente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">39</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Pens. de Jubilación o Invalidez.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">359</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identif. del quinto Conviv.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">10</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">40</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo Identif.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">360</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo de identificación del conviviente (D.N.I. o N.I.E.).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">41</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identif.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">361</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identificación del conviviente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">42</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apell. y Nombre del quinto Conviv.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">320</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apellidos y nombre del conviviente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">43</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Pens. de Jubilación o Invalidez.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">406</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identif. del sexto Conviv.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">10</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">44</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo Identif.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">407</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo de Identificación del conviviente (D.N.I. o N.I.E.).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">45</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identif.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">408</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identificación del conviviente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">46</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apell. y Nombre del sexto Conviv.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">417</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apellidos y nombre del conviviente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">47</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Pens. de Jubilación o Invalidez.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">453</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">48</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Ingr. Convivientes.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">7</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">454</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Ingresos totales anuales de los convivientes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">49</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Grado Minusvalía.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">461</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Grado de minusvalía del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Discapacidad primera.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Discapacidad primera del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">50</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">464</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código de discapacidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">51</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Diagnóst.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">468</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código del diagnóstico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">52</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Etiolog.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">471</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código de etiología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Discapacidad segunda.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Discapacidad segunda del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">53</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">473</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código de discapacidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">54</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Diagnóst.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">477</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código del diagnóstico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">55</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Etiolog.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">480</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código de etiología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Discapacidad tercera.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Discapacidad tercera del pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">56</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">482</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código de discapacidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">57</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Diagnóst.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">486</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código del diagnóstico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">58</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Etiolog.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">489</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código de etiología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">59</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Porcentaje discapac.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">491</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Porcentaje de la discapacidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">60</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Fact. Soc. y Complem.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">494</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Total del baremo de factores sociales y complementarios.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">61</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Necesidad otra pers.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">497</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Total baremo de necesidad de otra persona.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">62</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Fecha solicitud.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Fecha en que solicitó la pensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Año.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">499</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Año en que solicitó la pensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mes.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">501</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mes en que solicitó la pensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Día.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">503</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Día en que solicitó la pensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">63</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Fecha resolución.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Fecha de resolución de la pensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Año.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">505</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Año de resolución de la pensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mes.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">507</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mes de resolución de la pensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Día.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">509</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Día de resolución de la pensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">64</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Fecha Alta Nómina.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Año y mes de alta en nómina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Año.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">511</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Año de alta en nómina de la pensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mes.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">513</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Mes de alta en nómina de la pensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">65</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Importe Mensual.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">515</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Importe mensual de la pensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">66</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Compl. Neces. otra persona.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">521</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Importe mensual por complemento necesidad de otra persona.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">67</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Perceptor.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">527</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código de relación del perceptor con el pensionista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identif. Perceptor.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">12</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">68</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo Identif.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">528</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Tipo de identificación del perceptor.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">69</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identif.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">529</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Identificación del perceptor.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">70</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">D.C. DNI.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">2</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">538</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Dígitos de control del D.N.I. del perceptor.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">71</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apell. y Nombr. Percep.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">540</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Apellidos y nombre del perceptor.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">72</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Domicilio Perceptor.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">576</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Domicilio del perceptor.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">73</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Códig. Postal Percep.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">5</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">612</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código Postal del perceptor.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">74</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Localidad Perceptor.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">30</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">617</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Nombre de la localidad de residencia del perceptor.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">75</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Sistema de cobro.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">647</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Sistema de cobro de la pensión (76).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">76</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Entidad Bancaria.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">648</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código de entidad bancaria conforme al Consejo Superior Bancario (77).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">77</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Agencia Bancaria.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">4</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">652</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Código de agencia bancaria conforme al Consejo Superior Bancario (78).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">78</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Número de cuenta.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">15</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">656</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">A/N</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Número de cuenta bancaria (79).</p>
+</td>
+</tr>
+</table>
+
+Observaciones:
+
+1\. Los campos cuyo tipo sea numérico (N) se consignarán justificados a la derecha y rellenados por la izquierda a ceros.
+
+2\. Los campos cuyo tipo sea alfanumérico (A/N) se consignarán justificados a la izquierda y rellenados por la derecha a espacios excepto cuando se especifique el modo exacto en que deben ser consignados.
+
+3\. Se considerarán caracteres numéricos los siguientes: 0,1, 2, 3, 4, 5, 6, 7, 8, 9.
+
+4\. Si el número de convivientes es mayor que seis se registrarán en el ficho técnico prioritariamente aquéllos que posean ingresos.

@@ -1,0 +1,871 @@
+---
+title: "Orden DEF/253/2015, de 9 de febrero, por la que se regula el régimen de vacaciones, permisos, reducciones de jornada y licencias de los miembros de las Fuerzas Armadas"
+identifier: "BOE-A-2015-1620"
+eli: "https://www.boe.es/eli/es/o/2015/02/09/def253"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Defensa"
+date: 2015-02-09
+published: 2015-02-18
+in_force_from: 2015-02-19
+last_amended: 2026-07-31
+consolidated: 2026-07-31
+gazette: "Boletín Oficial del Estado núm. 42"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-1620"
+retrieved: 2026-10-11
+---
+
+# Orden DEF/253/2015, de 9 de febrero, por la que se regula el régimen de vacaciones, permisos, reducciones de jornada y licencias de los miembros de las Fuerzas Armadas
+
+Incluye la corrección de errores publicada en BOE núm. 51, de 28 de febrero de 2015. [Ref. BOE-A-2015-2114](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-2114).
+
+La Ley Orgánica 9/2011, de 27 de julio, de derechos y deberes de los miembros de las Fuerzas Armadas dispone en su artículo 22.3 que los militares tienen derecho a disfrutar de los permisos, vacaciones y licencias establecidos con carácter general para el personal al servicio de la Administración General del Estado, con las necesarias adaptaciones a la organización y funciones específicas de las Fuerzas Armadas que se determinen por orden del Ministro de Defensa.
+
+En ese mismo artículo, se señala que los militares estarán en disponibilidad permanente para el servicio, que las exigencias de esa disponibilidad se adaptarán a las características propias del destino y a las circunstancias de la situación, y que las necesidades del servicio prevalecerán sobre las fechas y duración de los permisos, vacaciones y licencias, si bien, las limitaciones que se produzcan deben estar razonadas, y que la aplicación del criterio de necesidades del servicio se hará siempre de forma justificada, motivada e individualizada, y que en todo caso, se comunicará al militar afectado la decisión adoptada.
+
+Por otra parte, el Real Decreto Ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad, establece en su exposición de motivos que la actual coyuntura económica y la necesidad de reducir el déficit público sin menoscabar la prestación de los servicios públicos esenciales, hace necesario mejorar la eficiencia de las Administraciones Públicas en el uso de los recursos públicos, con objeto de contribuir a la consecución del inexcusable objetivo de estabilidad presupuestaria, derivado del marco constitucional y de la Unión Europea. Entre las diferentes medidas que se exponen, se fijan los días por asuntos particulares y vacaciones, y se suspenden los pactos y acuerdos que contradigan lo dispuesto en el mencionado Real Decreto Ley 20/2012, de 13 de julio, modificando los artículos 48 y 50 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+
+En esta orden ministerial se contempla el régimen de vacaciones, permisos, reducciones de jornada y licencias que se aplicará al personal militar, que se ajusta a lo contemplado para el personal civil, si bien, con las adaptaciones a las características propias de la institución militar.
+
+Asimismo, se incluyen varias medidas orientadas a mejorar la conciliación de la vida personal, familiar y profesional. Entre las mismas consta el permiso para la asistencia a técnicas de fecundación o reproducción asistidas o la nueva modalidad en el disfrute del permiso por paternidad, permiso, que ofrece la posibilidad de disfrutarlo durante el periodo en el que transcurre el de maternidad, o bien, a continuación de la finalización de éste último.
+
+También, y con la citada finalidad de dar cumplimiento al principio de conciliación de la vida personal, familiar y profesional por una parte, y la formación y capacitación del militar, indispensables, por otra, la presente orden ministerial introduce unos criterios en la reducción de jornada por motivos de conciliación, referidos a la posible exoneración de las guardias, servicios y maniobras que tienen por objeto alcanzar el mencionado equilibrio entre conciliación, y formación y capacitación del personal militar.
+
+Se incluyen, también, nuevos permisos destinados a la formación del personal militar, como son aquellos orientados a la realización de cursos impartidos por otras administraciones ajenas a la Militar, así como aquellos previstos para orientar a los militares interesados en nuevas salidas profesionales.
+
+Por último, y como consecuencia de todo lo anteriormente expuesto, se procede a dar cumplimiento con esta orden ministerial, a la adaptación del régimen de permisos, vacaciones y licencias del personal militar conforme a las características propias de la organización y de las funciones específicas de las Fuerzas Armadas, tal y como se contempla en el mandato del artículo 22.3 de la Ley Orgánica 9/2011, de 27 de julio y en los artículos 5 y 6.2 de la Ley 39/2007, de 19 de noviembre, de la carrera militar.
+
+En la elaboración de esta orden ministerial han participado las asociaciones profesionales de miembros de las Fuerzas Armadas y durante su tramitación, fue informada por las asociaciones profesionales con representación en el Consejo de Personal de las Fuerzas Armadas, conforme al artículo 40.2.b) de la Ley Orgánica 9/2011, de 27 de julio, de derechos y deberes de los miembros de las Fuerzas Armadas. Finalmente, con arreglo a lo establecido en el artículo 49.1.c) de la citada ley orgánica, ha sido informada por el Consejo de Personal de las Fuerzas Armadas.
+
+En su virtud, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, y de acuerdo con el Consejo de Estado,
+
+DISPONGO:
+
+## CAPÍTULO I — Consideraciones Generales
+
+### Artículo 1. Objeto.
+
+Esta orden tiene por objeto fijar el régimen de permisos, vacaciones, reducciones de jornada y licencias para el personal militar, cuyo disfrute se configura como un derecho de carácter profesional, conforme al artículo 22.3 de la ley Orgánica 9/2011, de 27 de julio, de derechos y deberes de los miembros de las Fuerzas Armadas, para hacer efectivo el derecho al descanso del militar y la conciliación de la vida profesional, personal y familiar, y que será el establecido para el personal al servicio de la Administración General del Estado con las adaptaciones introducidas en la presente disposición.
+
+> Se modifica por el art. único.1 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+### Artículo 2. Ámbito de aplicación.
+
+1\. Esta orden ministerial será de aplicación a todos los militares en servicio activo o en situación de reserva conforme a lo que se establece en los artículos 108 y 113 de la Ley 39/2007, de 19 de noviembre, de la carrera militar, que estén destinados o en comisión de servicio en la estructura del Ministerio de Defensa.
+
+2\. La presente disposición será de aplicación supletoria para todo aquel personal militar que se encuentre destinado o comisionado en el extranjero o en departamentos, centros y organismos no dependientes del Ministerio de Defensa, cuando no cuenten con un régimen específico en lo que se refiere a la normativa regulada en esta disposición.
+
+3\. También será de aplicación a los reservistas cuando se incorporen a las unidades, centros y organismos del Ministerio de Defensa.
+
+### Artículo 3. Necesidades del servicio.
+
+1\. Las necesidades del servicio prevalecerán sobre las fechas y duración de los permisos, vacaciones, reducciones de jornada y licencias, si bien, las limitaciones que se produzcan deberán estar motivadas.
+
+2\. Las necesidades del servicio deberán estar sometidas a los criterios de oportunidad, proporcionalidad y excepcionalidad.
+
+3\. La aplicación del criterio de necesidades del servicio se hará siempre de forma justificada, motivada e individualizada y tomando en consideración el derecho a las medidas de conciliación de la vida profesional, personal y familiar y sus criterios de aplicación. En todo caso, se comunicará al militar afectado la decisión adoptada por escrito.
+
+> Se modifica el apartado 2 y se añade el 3 por el art. único.2 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+### Artículo 3 bis. Cómputo de tiempos.
+
+En el ámbito de esta orden ministerial, el cómputo de años de servicio se contabilizará desde la fecha de ingreso en las Fuerzas Armadas.
+
+> Se añade por la disposición final 1 de la Orden DEF/1363/2016, de 28 de julio. [Ref. BOE-A-2016-7689](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7689).
+
+### Artículo 3 ter. Acreditación.
+
+1\. Las circunstancias que den lugar al posible disfrute de permisos, reducciones de jornada y licencias para el personal militar deberán estar debidamente acreditadas y, en su caso, mediante el correspondiente informe facultativo, salvo para los permisos por días de asuntos particulares.
+
+2\. Se considera persona con discapacidad a todas aquellas a quienes se les haya reconocido un grado de discapacidad igual o superior al 33 %, de conformidad con el artículo 4.2 del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley General de Derechos de las Personas con Discapacidad y de su inclusión social.
+
+> Se añade por el art. único.3 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+### Artículo 4. Registro.
+
+Todas las unidades, centros y organismos anotarán los permisos, vacaciones, reducciones de jornada y licencias reguladas por la presente orden en el Sistema Informático de Personal del Ministerio de Defensa (SIPERDEF) o en el sistema informático que se encuentre en vigor en cada momento.
+
+## CAPÍTULO II — Vacaciones y permisos
+
+### Artículo 5. Vacaciones.
+
+1\. Las vacaciones constituyen el período de descanso retribuido al que los militares tienen derecho anualmente.
+
+2\. Los militares tendrán derecho a disfrutar por cada año natural de las vacaciones retribuidas que se fijan en la norma primera del anexo I.
+
+3\. Para determinar el número de días de vacaciones anuales al que se tiene derecho, no computarán como tal los periodos permanecidos como alumnos de la enseñanza de formación en centros docentes militares, en licencia por asuntos propios o por estudios sin retribución, en los supuestos en los que el militar se encuentre en suspensión de funciones o de empleo, ni en aquellas situaciones administrativas que conlleven la suspensión de la condición militar. Tampoco computará el tiempo permanecido en la situación de servicio activo pendiente de asignación de destino, ni en la de reserva sin ocupar destino, salvo en los supuestos de encontrarse en comisión de servicio.
+
+4\. En ningún caso, la distribución anual de la jornada puede alterar el número de días de vacaciones o de fiestas laborales de carácter retribuido y no recuperable.
+
+5\. Cuando el período de vacaciones previamente fijado o autorizado, y cuyo disfrute no se haya iniciado, pueda coincidir en el tiempo con una situación de incapacidad temporal, riesgo durante la lactancia, riesgo durante el embarazo o con los permisos por nacimiento para la madre biológica, por nacimiento para el progenitor diferente de la madre biológica, por adopción, guarda con fines de adopción o acogimiento tanto temporal como permanente, o permiso acumulado de lactancia, se podrán disfrutar en fecha distinta.
+
+6\. Cuando las situaciones o permisos indicados en el párrafo anterior impidan iniciar el disfrute de las vacaciones dentro del año natural al que correspondan, las mismas se podrán disfrutar en año natural distinto. En el supuesto de incapacidad temporal, el periodo de vacaciones se podrá disfrutar una vez haya finalizado dicha incapacidad y siempre que no hayan transcurrido más de dieciocho meses a partir del final del año en que se hayan originado.
+
+7\. Si durante el disfrute de vacaciones autorizado, sobreviniera el permiso por nacimiento para la madre biológica, por nacimiento para el progenitor diferente de la madre biológica, por adopción, guarda con fines de adopción o acogimiento tanto temporal como permanente, o una situación de incapacidad temporal, el periodo de vacaciones quedará interrumpido pudiendo disfrutarse el tiempo que reste en periodo distinto. En el caso de que la duración de los citados permisos o de dicha situación impida el disfrute de las vacaciones dentro del año natural al que correspondan, las mismas se podrán disfrutar durante el año natural posterior.
+
+8\. El militar que no haya podido disfrutar de sus vacaciones durante el año correspondiente por necesidades del servicio debidamente justificadas y motivadas por razones operativas o de funcionamiento de las unidades, centros y organismos, podrá disfrutar de dichas vacaciones durante el primer semestre del año siguiente al de devengo del periodo vacacional.
+
+9\. El militar que sea profesor en un centro docente de enseñanza militar y el que adquiera la condición de alumno de la enseñanza de formación tendrán condicionadas las vacaciones al calendario académico establecido por el correspondiente centro docente.
+
+10\. Las vacaciones se disfrutarán previa autorización y siempre que resulten compatibles con las necesidades del servicio.
+
+11\. El período de vacaciones anuales retribuidas de los militares no puede ser sustituido por una cuantía económica. En los casos de renuncia voluntaria deberá garantizarse en todo caso el disfrute de las vacaciones devengadas.
+
+No obstante lo anterior, en los casos de conclusión de la relación de servicios de los militares por causas ajenas a la voluntad de estos, tendrán derecho a solicitar el abono de una compensación económica por las vacaciones devengadas y no disfrutadas; y en particular, en los casos de retiro por incapacidad permanente o por fallecimiento, hasta un máximo de dieciocho meses.
+
+> Se modifican los apartados 5 y 7 por el art. único.1 y 2 de la Orden DEF/228/2024, de 11 de marzo. [Ref. BOE-A-2024-4861](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-4861)
+
+> Se añade el apartado 11 por el art. único.1 de la Orden DEF/1471/2021, de 21 de diciembre. [Ref. BOE-A-2021-21656](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21656)
+
+> Se modifica el apartado 3 por el art. único.4 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+### Artículo 6. Permisos.
+
+El permiso es el período de tiempo por el que se autoriza al militar para ausentarse temporalmente del destino por alguno de los motivos siguientes:
+
+a) Días por asuntos particulares. Por cada año natural, los militares tendrán derecho a disfrutar de los días por asuntos particulares que figuran en el anexo I, norma segunda, sin perjuicio de la concesión de los restantes permisos y licencias establecidas en la normativa vigente. El militar podrá distribuir dichos días a su conveniencia, previa autorización de sus superiores y respetando siempre las necesidades del servicio.
+
+Los días 24 y 31 de diciembre se considerarán festivos. En el caso de que estos dos días coincidan en festivo, sábado o día no laborable, se podrá hacer uso de dos días adicionales de permiso por asuntos particulares.
+
+Sin perjuicio de lo anterior, los días por asuntos particulares así como, en su caso, los días de permiso previstos en el párrafo anterior, podrán acumularse a los días de vacaciones que se disfruten de forma independiente conforme a lo que se establece en la norma primera del anexo I.
+
+Así mismo, cuando alguna o algunas festividades laborales de ámbito nacional, de carácter retribuido, no recuperable y no sustituible por las Comunidades Autónomas, coincidan con un sábado, el número de días de permiso por asuntos particulares se aumentarán como máximo en un día. Por resolución del Subsecretario de Defensa y con anterioridad al día 31 de diciembre del año en curso se determinará, en su caso, la incorporación de los días de permiso a los que se refiere este apartado, que serán de aplicación en el siguiente año.
+
+El militar que no haya podido disfrutar de este permiso durante el año correspondiente por necesidades del servicio debidamente justificadas y motivadas por razones operativas o de funcionamiento de las unidades, centros y organismos, podrá disfrutar del mismo, durante el primer semestre del año siguiente cuando las necesidades del servicio así lo permitan.
+
+b) Por accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que precise de reposo domiciliario. El militar tendrá derecho por accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que precise de reposo domiciliario del cónyuge, pareja de hecho o parientes hasta el primer y segundo grado por consanguinidad o afinidad, así como de cualquier otra persona distinta de las anteriores que conviva con el militar en el mismo domicilio y que requiera el cuidado efectivo de aquella, a los días que se determinan en la norma tercera del anexo I.
+
+b bis) Por fallecimiento. El militar tendrá derecho por fallecimiento del cónyuge, pareja de hecho o familiar dentro del primer y segundo grado de consanguinidad o afinidad a los días que se determinan en la norma tercera bis del anexo I.
+
+c) Traslado de domicilio. El militar tendrá derecho a los días que figuran en el anexo I, norma cuarta, por traslado de domicilio sin cambio de localidad de destino.
+
+d) Exámenes finales y pruebas definitivas de aptitud. El militar tendrá derecho a disfrutar para concurrir a exámenes finales y demás pruebas definitivas de aptitud y evaluación en centros oficiales, del tiempo indispensable para su realización, incluyendo los desplazamientos de ida y regreso al lugar del examen en el caso de que éste se celebre necesariamente, y no por opción del militar, fuera de la localidad de destino o residencia autorizada. Quienes hubieran iniciado estudios con anterioridad a la adquisición del destino podrán disfrutar del permiso para desplazarse a la localidad del examen o prueba definitiva de aptitud y evaluación.
+
+e) Participación en cursos de la Administración Civil. Al militar se le podrá conceder el tiempo destinado a la realización de cursos impartidos por la Administración Civil dirigidos a la capacitación profesional.
+
+f) Participación en cursos para la reorientación profesional. Al militar se le podrá conceder el tiempo destinado a la realización de cursos relacionados con aquellas salidas profesionales que afecten a un cambio en su trayectoria profesional.
+
+g) Cumplimiento de un deber inexcusable. Al militar se le podrán conceder permisos por el tiempo indispensable para el cumplimiento de un deber inexcusable de carácter público o personal y los relacionados con la conciliación de la vida familiar y profesional. A los efectos de lo dispuesto en este apartado, se entenderá por «deber inexcusable» la obligación que incumbe a una persona cuyo incumplimiento le genera una responsabilidad de índole civil, penal o administrativa.
+
+h) Por participación en competiciones oficiales de carácter nacional o internacional, así como en las concentraciones preparatorias de estas. El militar tendrá derecho a los días de permiso necesarios para asistir a competiciones oficiales de carácter internacional, así como a las concentraciones preparatorias de estas, de conformidad con el artículo 11.5 del Real Decreto 971/2007, de 13 de julio, sobre deportistas de alto nivel y alto rendimiento. Este permiso se concederá a los militares que acrediten su condición de deportistas de alto nivel de conformidad con el artículo 2.2 y 3 del Real Decreto 971/2007, de 13 de julio y la vigencia de dicha condición conforme al artículo 16 del citado real decreto.
+
+> Se modifica la letra b) y se añade la b bis) por el art. único.3 y 4 de la Orden DEF/228/2024, de 11 de marzo. [Ref. BOE-A-2024-4861](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-4861)
+
+> Se modifica la letra b) y se añade la h) por el art. único.5 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+## CAPÍTULO III — Permisos por motivos de conciliación de la vida personal, familiar y profesional y por razón de violencia de género
+
+### Artículo 7. Permisos por motivos de conciliación de la vida personal, familiar y profesional.
+
+Los permisos a que se refiere este artículo se concederán por los motivos siguientes:
+
+a) Matrimonio o registro o constitución formalizada por documento público de pareja de hecho. El militar tendrá derecho por matrimonio o registro o constitución formalizada por documento público de pareja de hecho a los días que figuran en la norma quinta del anexo I.
+
+b) Técnicas de fecundación o reproducción asistida. El militar tendrá derecho a ausentarse del trabajo para someterse a técnicas de fecundación o reproducción asistida por el tiempo necesario para su realización y previa justificación de la necesidad de la ausencia dentro de la jornada de trabajo.
+
+c) Personas dependientes. El militar que tenga personas dependientes a su cargo o hijos con discapacidad tendrá derecho a ausentarse del trabajo por el tiempo indispensable para asistir a reuniones de coordinación de su centro educativo ordinario de integración o de educación especial, donde reciba atención, tratamiento o para acompañarlo si ha de recibir apoyo adicional en el ámbito sanitario o social, o bien, para la realización de gestiones administrativas relacionadas con la discapacidad del hijo o la persona dependiente.
+
+d) Exámenes prenatales y técnicas de preparación al parto. La militar embarazada tendrá derecho a ausentarse del trabajo para la realización de exámenes prenatales y técnicas de preparación al parto, por el tiempo necesario para su práctica y previa justificación de la necesidad de su realización dentro de la jornada de trabajo. El mismo derecho tendrá el militar en caso de embarazo de su cónyuge o pareja de hecho por el tiempo necesario para su práctica y previa justificación de la necesidad de su realización dentro de la jornada de trabajo.
+
+Asimismo el militar, en los casos de adopción, guarda con fines de adopción o acogimiento, podrá ausentarse, previa justificación, el tiempo indispensable para la asistencia a las preceptivas sesiones de información y preparación y para la realización de los preceptivos informes psicológicos y sociales previos a la declaración de idoneidad, que deban realizarse dentro de la jornada de trabajo.
+
+A efectos de lo dispuesto en este apartado, el término de militar embarazada incluye también al personal militar trans gestante.
+
+e) Permiso por nacimiento para la madre biológica.
+
+La militar, en el caso de parto, tendrá derecho a un permiso por el tiempo y en las formas que se determinan en la norma sexta del anexo l.
+
+Durante el disfrute de este permiso una vez finalizado el período de descanso obligatorio se podrá participar en los cursos de formación que convoque la Administración.
+
+A efectos de lo dispuesto en este apartado, el término de madre biológica incluye también a las personas trans gestantes.
+
+f) Permiso por nacimiento para el progenitor diferente de la madre biológica.
+
+El militar padre o progenitor legalmente reconocido podrá disfrutar de un permiso por el nacimiento de un hijo, por el tiempo que se determina en la norma séptima del anexo I de esta orden.
+
+Durante el disfrute de este permiso, transcurridas las seis primeras semanas ininterrumpidas e inmediatamente posteriores a la fecha del nacimiento, se podrá participar en los cursos de formación que convoque la Administración.
+
+A efectos de lo dispuesto en este apartado, el término de madre biológica incluye también a las personas trans gestantes.
+
+f bis) Permiso por adopción, guarda con fines de adopción o acogimiento, tanto temporal como permanente.
+
+El militar, por adopción, guarda con fines de adopción o acogimiento, tanto temporal como permanente podrá disfrutar de un permiso por el tiempo que se determina en la norma séptima bis del anexo I de esta orden.
+
+Durante el disfrute de este permiso, transcurridas las seis primeras semanas ininterrumpidas e inmediatamente posteriores a la fecha de la resolución judicial o decisión administrativa, se podrá participar en los cursos de formación que convoque la Administración.
+
+g) El militar tendrá derecho por lactancia de un hijo menor de doce meses, al tiempo de ausencia del trabajo que figura en la norma octava del anexo l. El permiso contemplado en este apartado constituye un derecho individual del personal militar, sin que pueda transferirse su ejercicio al otro progenitor, adoptante, guardador o acogedor. Este permiso se incrementará proporcionalmente en los casos de parto, adopción, guarda con fines de adopción o acogimiento múltiple.
+
+El permiso por lactancia de un hijo menor de doce meses, en su modalidad de reducción de jornada diaria, es acumulable con la reducción de jornada por guarda legal y con los otros permisos a los que se tenga derecho, no contabilizándose aquél en la disminución de retribuciones.
+
+h) Disfrute a tiempo parcial. El militar padre o madre o progenitor legalmente reconocido podrá disfrutar de los permisos reconocidos en los párrafos e, f y f bis anteriores, en la modalidad de tiempo parcial, que será autorizado por el jefe de la unidad, centro u organismo previo informe del jefe inmediato del interesado en el que se acredite que quedan debidamente cubiertas las necesidades del servicio
+
+La parte del permiso que se disfrute a tiempo parcial podrá ser toda la duración del permiso o una parte del mismo, a excepción de las seis semanas de obligado descanso, y se concederá al militar la parte de la jornada solicitada, siempre que las necesidades del servicio lo permitan.
+
+El período durante el que se disfrute del permiso se ampliará proporcionalmente en función de la jornada de trabajo que se realice, sin que, en ningún caso, se pueda superar la duración establecida para los citados permisos.
+
+El disfrute del permiso en esta modalidad será ininterrumpido. Sólo podrá modificarse por iniciativa del interesado y debido a causas relacionadas con su salud o la del menor.
+
+El disfrute en esta modalidad es incompatible con la reducción de jornada o la flexibilidad horaria.
+
+i) Gestación. La militar en estado de gestación tendrá derecho al permiso que figura en la norma novena del anexo l.
+
+El término la militar en estado de gestación incluye al personal militar trans gestante.
+
+j) Permiso parental. El militar tendrá derecho a acogerse a un permiso para el cuidado de hijo, hija o menor acogido por tiempo superior a un año, hasta el momento en que el menor cumpla ocho años. Este permiso no tendrá carácter retribuido y tendrá una duración no superior a ocho semanas, continuas o discontinuas, podrá disfrutarse a tiempo completo, o en régimen de jornada a tiempo parcial, cuando las necesidades del servicio lo permitan y conforme a los términos que reglamentariamente se establezcan.
+
+Este permiso, constituye un derecho individual de los militares progenitores, adoptantes o acogedores, hombres o mujeres, sin que pueda transferirse su ejercicio.
+
+Cuando las necesidades del servicio lo permitan, corresponderá a los militares progenitores, adoptantes o acogedores especificar la fecha de inicio y fin del disfrute o, en su caso, de los períodos de disfrute, debiendo comunicarlo a su unidad con una antelación de quince días y realizándose por semanas completas.
+
+Cuando concurran en ambos progenitores, adoptantes o acogedores, por el mismo sujeto y hecho causante, las circunstancias necesarias para tener derecho a este permiso en los que el disfrute del permiso parental en el período solicitado altere seriamente el correcto funcionamiento de la unidad en la que ambos presten servicios, el jefe de la unidad podrá aplazar la concesión del permiso por un período razonable, justificándolo por escrito y después de haber ofrecido una alternativa de disfrute más flexible.
+
+A efectos de lo dispuesto en este apartado, el término de madre biológica incluye también a las personas trans gestantes.
+
+k) Los militares dispondrán de un permiso, por el tiempo indispensable, para la realización de los actos preparatorios de la donación de órganos o tejidos siempre que deban tener lugar dentro de la jornada de trabajo.
+
+> Se modifica el primer párrafo de la letra j) y se añade la letra k) por el art. único.1 y 2 de la Orden DEF/787/2026, de 23 de julio. [Ref. BOE-A-2026-16655](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16655)
+
+> Se modifican las letras a), d), e), f), i) y se añade la j) por el art. único.5 a 10 de la Orden DEF/228/2024, de 11 de marzo. [Ref. BOE-A-2024-4861](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-4861)
+
+> Se modifican las letras e), f) , g), h) y se añade la letra f bis) por el art. único.2 a 6 de la Orden DEF/1471/2021, de 21 de diciembre. [Ref. BOE-A-2021-21656](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21656)
+
+> Se modifican las letras d), e), f) y g) y se añade la i) por el art. único.6 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+> Redactado el párrafo h) conforme a la corrección de errores publicada en BOE núm. 51, de 28 de febrero de 2015. [Ref. BOE-A-2015-2114](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-2114).
+
+### Artículo 8. Permisos por razón de violencia de género o de violencia sexual.
+
+1\. Las militares víctimas de violencia de género o violencia sexual para hacer efectiva su protección o su derecho a la asistencia social integral tendrán derecho a la reducción de la jornada con disminución proporcional de la retribución o la reordenación del tiempo de trabajo a través de la adaptación del horario, de la aplicación del horario flexible o de otras formas de ordenación del tiempo de trabajo que sean aplicables, siempre que acredite tal situación de conformidad con el artículo 23 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género. En el supuesto anterior, la militar mantendrá sus retribuciones íntegras cuando reduzca su jornada en un tercio o menos.
+
+2\. Las faltas de asistencia totales o parciales de las militares víctimas de violencia de género o violencia sexual tendrán la consideración de justificadas por el tiempo y en las condiciones en que así lo determinen los servicios sociales de atención o salud, según proceda.
+
+> Se modifica por el art. único.3 de la Orden DEF/787/2026, de 23 de julio. [Ref. BOE-A-2026-16655](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16655)
+
+> Se modifica el apartado 1 por el art. único.7 de la Orden DEF/1471/2021, de 21 de diciembre. [Ref. BOE-A-2021-21656](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21656)
+
+> Se modifica el apartado 1 por el art. único.7 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+## CAPÍTULO IV — Reducción de jornada
+
+### Artículo 9. Reducción de jornada.
+
+1\. La reducción de jornada es el derecho del que disfruta el militar por el tiempo determinado para cada supuesto reconocido en esta orden ministerial con la finalidad de conciliar su vida personal, familiar y profesional.
+
+2\. La exoneración de las guardias, servicios, maniobras y actividades análogas, se considerará como medida accesoria al derecho que se reconoce en el apartado anterior.
+
+La mencionada exoneración tendrá vigencia tanto en los días hábiles, como inhábiles incluidos festivos y afectará a los actos institucionales y a las patronas que coincidan con días inhábiles incluidos festivos. Supondrá que la persona sobre la que se aplica solo realizará actividades dentro del horario habitual de trabajo de su unidad de destino, minorado de acuerdo con la reducción que tenga concedida. No se podrán realizar variaciones o adaptaciones del horario establecido con carácter general para posibilitar la prestación de guardias, servicios, maniobras y actividades análogas de este personal que contravengan la exoneración concedida, especialmente en el caso de lactancia.
+
+3\. En todos los casos, las necesidades del servicio se valorarán de manera individualizada, caso por caso, teniendo en cuenta las circunstancias específicas de la unidad, centro u organismo donde el militar preste servicios. Si las necesidades del servicio se vieran afectadas por circunstancias sobrevenidas, el jefe de la unidad, centro u organismo correspondiente y de manera motivada, podrá reconsiderar la exoneración de las guardias, servicios, maniobras o actividades análogas de las que el militar hubiera sido exonerado, comunicándoselo al interesado a la mayor brevedad posible y por escrito en cuanto las circunstancias lo permitan.
+
+4\. Las reducciones de jornada inferiores al tiempo mínimo que se determinan en los diferentes supuestos se atenderán con medidas de flexibilidad horaria.
+
+5\. En el caso del personal con jornada de trabajo en régimen de turnos, la reducción de jornada se habrá de realizar sobre el horario habitual de trabajo, por lo que corresponde aplicarla sobre el turno de mañana, tarde o noche que corresponda al militar según su asignación dentro de la Unidad.
+
+6\. En el caso de que el militar solicite, de forma reiterada, la renuncia al disfrute de la reducción de jornada y su posterior nueva concesión, el jefe de unidad podrá denegar lo solicitado si dichas peticiones se hicieran coincidir con períodos vacacionales, festivos o jornadas especiales, así como con comisiones de servicio asignadas con anterioridad a la solicitud.
+
+> Se añaden los apartados 5 y 6 por el art. único.8 de la Orden DEF/1471/2021, de 21 de diciembre. [Ref. BOE-A-2021-21656](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21656)
+
+> Se modifican los apartados 2 y 3 por el art. único.8 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+### Artículo 10. Reducción de jornada por razón de enfermedad muy grave.
+
+1\. El militar que tenga que atender a un familiar de primer grado, por razón de enfermedad muy grave, podrá solicitar una reducción de hasta el 50 por 100 de la jornada laboral, sin merma de sus retribuciones, por el plazo máximo de un mes. Durante este tiempo quedará exonerado de la realización de guardias, servicios, maniobras o actividades análogas que interfieran con el disfrute de esta reducción.
+
+2\. En el supuesto de que varios militares tengan derecho a esta reducción y que el sujeto causante sea el mismo podrán disfrutar de este permiso de manera parcial, respetando en todo caso el plazo máximo, y sólo se exonerará a uno de ellos de la realización de guardias, servicios y maniobras o actividades análogas.
+
+### Artículo 11. Reducción de jornada por participación en operación, despliegue o misión.
+
+1\. El militar tendrá derecho a la reducción de jornada de entre una hora a un medio de la jornada laboral por razón de la guarda legal de un menor de doce años, con la disminución proporcional de sus retribuciones, durante el tiempo que el otro progenitor, también militar, se encuentre participando en una operación, despliegue o misión en el extranjero o territorio nacional, por el tiempo que dure la mencionada actividad.
+
+2\. En este caso, el militar quedará exonerado de la realización de guardias, servicios, maniobras o actividades análogas en su lugar de destino que interfieran con el disfrute de la reducción de jornada.
+
+> Se modifica por el art. único.9 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+### Artículo 12. Reducción de jornada para el cuidado directo de una persona mayor que requiera especial dedicación o persona con discapacidad.
+
+1\. El militar que tenga a su cuidado directo alguna persona mayor que requiera especial dedicación o discapacitado psíquico, físico o sensorial que no desempeñe actividad retribuida, no considerando como tal la percepción de una pensión, tendrá derecho a una disminución de una hora a un medio de la jornada laboral diaria, con la disminución proporcional de sus retribuciones.
+
+2\. Tendrá el mismo derecho el militar que precise encargarse del cuidado directo de un familiar, hasta el segundo grado de consanguinidad o afinidad, que por razones de edad avanzada, accidente o enfermedad no pueda valerse por sí mismo y que no desempeñe actividad retribuida.
+
+3\. Ante los supuestos anteriores, el militar podrá quedar exonerado de la realización de guardias, servicios, maniobras o actividades análogas en su lugar de destino que interfieran con el disfrute de la reducción de jornada, cuando las necesidades del servicio lo permitan, si bien, en el caso de que el militar tenga a su cuidado directo una persona con discapacidad psíquica, física o sensorial, debidamente acreditado, quedará exonerado de la realización de guardias, servicios, maniobras o actividades análogas que interfieran con el disfrute de la reducción de jornada.
+
+> Se modifica el título por el art. único. 11 de la Orden DEF/228/2024, de 11 de marzo. [Ref. BOE-A-2024-4861](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-4861)
+
+> Se modifica el apartado 3 por el art. único.10 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+### Artículo 13. Reducción de jornada por razón de guarda legal de un hijo menor de doce años.
+
+1\. El militar tendrá derecho a una reducción de jornada por razón de la guarda legal de un hijo menor de doce años, de una hora a un medio de la jornada laboral, con la disminución proporcional de sus retribuciones.
+
+2\. El militar que disfrute de este derecho, cuando el menor no haya cumplido los 4 años quedará exonerado de la realización de guardias, servicios, maniobras o actividades análogas en su lugar de destino que interfieran con el disfrute de la reducción de jornada.
+
+3\. Cuando el menor por el que se haya concedido la reducción de jornada, tenga una edad comprendida entre los cuatro y hasta que cumpla los doce años, el militar podrá quedar exonerado, cuando las necesidades del servicio lo permitan, de la realización de las guardias, servicios, maniobras y actividades análogas en su lugar de destino.
+
+No obstante, el militar que disfrute de este derecho, cuando el otro progenitor, también militar, haya sido destinado con carácter forzoso o en comisión de servicio forzosa a otra área geográfica distinta a la del domicilio familiar, conforme la Orden ministerial 66/2016, de 29 de noviembre, quedará exonerado de la realización de guardias, servicios, maniobras o actividades análogas en su lugar de destino que interfieran con el disfrute de la reducción de jornada. Esta exoneración se mantendrá durante 1 año desde la fecha de incorporación al destino forzoso del otro progenitor.
+
+4\. Si al militar que disfruta reducción de jornada por guarda legal le fuera concedido permiso por maternidad o paternidad, se interrumpirán los efectos de la reducción de jornada, debiéndose percibir íntegramente las retribuciones que correspondan mientras dure el citado permiso.
+
+5\. Cuando el militar ostente la guarda y custodia legal del menor de doce años en régimen compartido, podrá solicitar la reducción de jornada únicamente durante los periodos en que se disfrute de la custodia del menor, acreditado conforme a lo establecido en el convenio regulador o sentencia firme en que se adopte dicho sistema.
+
+> Se modifica por el art. único.11 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+### Artículo 14. Reducción de jornada por razón de la guarda legal de un hijo menor de doce años cuando el militar sea progenitor o tutor de una familia monoparental.
+
+El militar tendrá derecho a la reducción de jornada por razón de la guarda legal de un hijo menor de doce años, de una hora a un medio de la jornada laboral, con la disminución proporcional de sus retribuciones, cuando sea progenitor o tutor en una familia monoparental, entendiéndose a estos efectos como tal la constituida por un solo progenitor con el que convive el hijo nacido o adoptado, responsable exclusivo de su cuidado y atención, como consecuencia de viudedad, divorcio o separación con un régimen de guarda y custodia exclusiva del menor, abandono familiar del otro progenitor, madres solteras o adopción por parte de personas solteras. En estos casos el militar quedará exonerado de la realización de guardias, servicios, maniobras o actividades análogas en su lugar de destino que interfieran con el disfrute de la reducción de jornada.
+
+> Se modifica por el art. único.12 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+### Artículo 15. Reducción de jornada en los casos de nacimientos de hijos prematuros o que tengan que permanecer en el hospital.
+
+El militar, en los casos de nacimientos de hijos prematuros o en los que, por cualquier motivo, éstos tengan que permanecer hospitalizados después del parto, podrá ausentarse del lugar del trabajo durante el período de hospitalización, hasta un máximo de dos horas diarias sin pérdida de retribuciones. Asimismo, tendrá derecho a reducir su jornada de trabajo hasta un máximo de dos horas adicionales a las anteriores y con la disminución proporcional de sus retribuciones. En los casos contemplados en este párrafo se exonerará al militar de la realización de guardias, servicios, maniobras o actividades análogas que interfieran con el disfrute de esta reducción.
+
+### Artículo 16. Reducción de jornada para el cuidado de un hijo menor de edad afectado por cáncer o cualquier otra enfermedad grave.
+
+1\. El militar tendrá derecho, siempre que ambas personas progenitoras, adoptantes, guardadoras con fines de adopción o acogedoras de carácter permanente trabajen, a una reducción de la jornada de trabajo de al menos la mitad de la duración de aquélla, percibiendo las retribuciones íntegras con cargo a los presupuestos del órgano o entidad donde venga prestando sus servicios, para el cuidado, durante la hospitalización y tratamiento continuado, del hijo o hija menor de edad, afectado por cáncer (tumores malignos, melanomas o carcinomas) o por cualquier otra enfermedad grave que implique un ingreso hospitalario de larga duración y requiera la necesidad de su cuidado directo, continuo y permanente acreditado por el informe del servicio público de salud u órgano administrativo sanitario de la comunidad autónoma o, en su caso, de la entidad sanitaria concertada correspondiente y, como máximo, hasta que el hijo o persona que hubiere sido objeto de acogimiento permanente o guarda con fines de adopción cumpla los 23 años. A estos efectos, el mero cumplimiento de los 18 años del hijo o del menor sujeto a acogimiento permanente o a guarda con fines de adopción, no será causa de extinción de la reducción de la jornada, si se mantiene la necesidad de cuidado directo, continuo y permanente.
+
+No obstante, cumplidos los 18 años, se podrá reconocer el derecho a la reducción de jornada hasta que la persona a su cargo cumpla los 23 años en los supuestos en que el padecimiento del cáncer o enfermedad grave haya sido diagnosticado antes de alcanzar la mayoría de edad, siempre que en el momento de la solicitud se acrediten los requisitos establecidos en los párrafos anteriores, salvo la edad.
+
+Asimismo, se mantendrá el derecho a esta reducción de jornada hasta que la persona a su cargo cumpla 26 años si, antes de alcanzar los 23 años, acreditara, además, un grado de discapacidad igual o superior al 65 por ciento.
+
+2\. Cuando concurran en ambos progenitores, adoptantes o acogedores de carácter preadoptivo o permanente, por el mismo sujeto y hecho causante, las circunstancias necesarias para tener derecho a esta reducción de jornada o, en su caso, puedan tener la condición de beneficiarios de la prestación establecida para este fin en el Régimen de Seguridad Social que les sea de aplicación, el militar tendrá derecho a la percepción de las retribuciones íntegras durante el tiempo que dure la reducción de su jornada de trabajo, siempre que el otro progenitor, adoptante o acogedor de carácter preadoptivo o permanente, sin perjuicio del derecho a reducción de jornada que le corresponda, no cobre sus retribuciones íntegras en virtud de este permiso o como beneficiario de la prestación establecida para este fin en el Régimen de la Seguridad Social que le sea de aplicación. En caso contrario, solo se tendrá derecho a la reducción de jornada, con la consiguiente reducción de retribuciones.
+
+3\. Asimismo, en el supuesto de que ambos presten sus servicios en el mismo órgano o entidad, se podrá limitar su ejercicio simultáneo por razones fundadas en el correcto funcionamiento del servicio.
+
+4\. En los casos contemplados en este apartado se exonerará al militar de la realización de guardias, servicios, maniobras o actividades análogas que interfieran con el disfrute de esta reducción.
+
+5\. Cuando la persona enferma contraiga matrimonio o constituya una pareja de hecho, tendrá derecho al permiso quien sea su cónyuge o pareja de hecho, siempre que acredite las condiciones para ser beneficiario.
+
+> Se modifica el apartado 1 y se añade el 5 por el art. único.12 y 13 de la Orden DEF/228/2024, de 11 de marzo. [Ref. BOE-A-2024-4861](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-4861)
+
+> Se modifica el apartado 1 por el art. único.9 de la Orden DEF/1471/2021, de 21 de diciembre. [Ref. BOE-A-2021-21656](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21656)
+
+### Artículo 16 bis. Reducción de jornada para víctimas del terrorismo.
+
+1\. Para hacer efectivo su derecho a la protección y a la asistencia social integral, los militares que hayan sufrido daños físicos o psíquicos como consecuencia de la actividad terrorista, su cónyuge o persona con análoga relación de afectividad, y los hijos de los heridos y fallecidos, siempre que ostenten la condición de militares y de víctimas del terrorismo de acuerdo con la legislación vigente, así como los militares amenazados en los términos del artículo 5 de la Ley 29/2011, de 22 de septiembre, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo, previo reconocimiento del Ministerio del Interior o de sentencia judicial firme, tendrán derecho a la reducción de la jornada de una hora a un medio de la jornada laboral con disminución proporcional de las retribuciones.
+
+2\. En estos casos, el militar podrá quedar exonerado, cuando las necesidades del servicio lo permitan, de la realización de las guardias, servicios, maniobras y actividades análogas en su lugar de destino.
+
+3\. Dicha medida será adoptada y mantenida en el tiempo en tanto que resulte necesaria para la protección y asistencia social integral de la persona a la que se concede, ya sea por razón de las secuelas provocadas por la acción terrorista, ya sea por la amenaza a la que se encuentra sometida, en los términos previstos reglamentariamente.
+
+> Se añade por el art. único.13 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+## CAPÍTULO IV BIS — Apoyo a la formación
+
+> Se añade por el art. único.14 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+### Artículo 16 ter. Cursos de formación profesional para el empleo.
+
+Los militares profesionales de tropa y marinería, con una relación de servicios de carácter temporal, a los que les falten menos de dos años para la finalización del compromiso de larga duración por edad, incluida la ampliación prevista en el artículo 17.1 de la Ley 8/2006, de 24 de abril, de tropa y marinería, quedarán exonerados de la realización de guardias y servicios de veinticuatro horas que les impidan la asistencia a los cursos de formación profesional, grado o de formación para el empleo que se encuentren realizando, cuando las faltas de asistencia acumuladas como consecuencia del servicio excedan la mitad del porcentaje establecido como causa de baja en la convocatoria del curso, y siempre y cuando se acredite el aprovechamiento del curso. Esta exoneración estará supeditada a las necesidades del servicio.
+
+La medida regulada en este artículo se podrá ampliar hasta completar la realización de dos cursos académicos completos en aquellos casos en los que el interesado lo precisara.
+
+> Se añade el último párrafo por el art. único.14 de la Orden DEF/228/2024, de 11 de marzo. [Ref. BOE-A-2024-4861](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-4861)
+
+> Se añade por el art. único.14 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+## CAPÍTULO V — Normas sobre licencias
+
+### Artículo 17. Licencias.
+
+1\. La licencia es el período de tiempo que, con carácter potestativo, se concede al militar profesional para ausentarse del destino que ocupa con la finalidad de atender asuntos de índole personal o para mejorar su preparación profesional.
+
+2\. El personal militar profesional podrá solicitar licencia por asuntos propios o por estudios, con excepción de los militares profesionales que mantienen una relación de servicios de carácter temporal, durante los dos primeros años de su compromiso inicial.
+
+### Artículo 18. Licencia por asuntos propios.
+
+1\. La licencia por asuntos propios podrá concederse por un plazo máximo de noventa días naturales en cada periodo de dos años de servicios efectivos prestados, contados desde la fecha de inicio de la primera de ellas.
+
+En el caso de que esta licencia se solicite por motivo de enfermedad grave de un familiar de primer grado, podrá concederse por cada año de servicios efectivos prestados.
+
+2\. La licencia por asuntos propios se concederá sin retribución alguna.
+
+> Se añade el segundo párrafo al apartado 1 por el art. único.15 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+### Artículo 19. Licencia por estudios.
+
+1\. La licencia por estudios podrá concederse para realizar aquéllos directamente relacionados con las funciones y actividades del puesto cuando no hayan sido convocados en el ámbito del Ministerio de Defensa, con el fin de consolidar, aumentar o actualizar la formación precisa para el desarrollo de sus cometidos.
+
+También podrá concederse para la realización de estudios que proporcionen la formación adecuada para que los militares de complemento y los de tropa y marinería con una relación de servicios de carácter temporal se puedan incorporar al ámbito laboral.
+
+2\. La licencia por estudios tendrá dos modalidades:
+
+a) Hasta cuarenta horas hábiles, con percepción solamente de las retribuciones básicas.
+
+b) Hasta tres meses o su equivalente a 90 días naturales, sin retribución alguna.
+
+3\. Sólo se podrá disfrutar de una licencia por estudios, en cualquiera de las dos modalidades anteriores, durante el año natural.
+
+> Se añade el segundo párrafo al apartado 1 por el art. único.16 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+## CAPÍTULO VI — Autoridades competentes y procedimientos para la concesión de vacaciones, permisos, reducciones de jornada y licencias
+
+### Artículo 20. Autoridades competentes para vacaciones, permisos y reducciones de jornada.
+
+El Jefe de Estado Mayor de la Defensa, el Subsecretario de Defensa, los Jefes de Estado Mayor del Ejército de Tierra, de la Armada y del Ejército del Aire, el Jefe de la Unidad Militar de Emergencias y el Secretario General de Política de Defensa podrán establecer los criterios para la concesión de vacaciones y permisos en el ámbito de sus respectivas competencias, determinando el personal que deba estar presente en las unidades, centros y organismos.
+
+> Se modifica por el art. único.10 de la Orden DEF/1471/2021, de 21 de diciembre. [Ref. BOE-A-2021-21656](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21656)
+
+### Artículo 21. Procedimiento para la solicitud de vacaciones y permisos.
+
+1\. Las vacaciones y permisos se solicitarán por conducto reglamentario al jefe de la unidad, centro u organismo de destino, quien tendrá competencia para concederlos o denegarlos motivadamente. En el caso de que el militar se encuentre realizando una comisión de servicio, realizará la solicitud al jefe de la unidad, centro u organismo donde esté comisionado.
+
+2\. Para solicitar un permiso, a excepción del permiso por asuntos particulares, deberá aportarse la documentación necesaria que justifique la causa del mismo, lo que podrá hacerse con carácter previo o con posterioridad.
+
+### Artículo 22. Procedimiento para la reducción de jornada.
+
+1\. La solicitud de reducción de jornada, acompañada de la justificación documental suficiente, se cursará por conducto reglamentario al jefe de la unidad, centro u organismo de destino, quien será competente para su concesión o denegación motivada, así como para la revocación de la reducción concedida o para la modificación de las condiciones de su concesión que deberán ser igualmente motivadas.
+
+2\. En caso de concesión, el jefe de la unidad, centro u organismo establecerá las condiciones del horario aprobado. Si la concesión lleva consigo disminución de retribuciones, deberá indicar las horas de reducción de jornada y porcentaje equivalente a efectos de la citada disminución, así como la exoneración o no de guardias, servicios, maniobras o actividades análogas.
+
+3\. En todos los casos deberá indicar que las condiciones establecidas podrán ser revocadas o modificadas cuando varíen las necesidades del servicio o cualquier otro condicionante, comunicándose al interesado esta circunstancia en el menor plazo de tiempo posible desde que se detecten las necesidades del servicio y por escrito en cuanto las circunstancias lo permitan.
+
+4\. Toda alteración de las circunstancias familiares que pudiera suponer modificaciones en las condiciones de la reducción de jornada concedida deberán ser comunicadas y notificadas por el personal militar afectado a su jefe de unidad, para que en su caso, proceda a realizar los cambios que se estimen oportunos. En caso de no aportar dicha documentación, el jefe de unidad podrá revocar la reducción de jornada en el supuesto de que, previo requerimiento al interesado, no la hubiera presentado.
+
+5\. La concesión de una reducción de jornada que traiga consigo una disminución proporcional de las retribuciones básicas y complementarias se entenderá sin perjuicio de las competencias sobre concesión o cese en la percepción de los complementos de dedicación especial y productividad atribuidas a las autoridades en la normativa vigente. La reducción de jornada es compatible con la percepción del complemento de dedicación especial, cuando corresponda de conformidad con el artículo 3.4 del Reglamento de retribuciones del personal de las Fuerzas Armadas, aprobado por Real Decreto 1314/2005, de 4 de noviembre.
+
+6\. El cálculo de la disminución proporcional de retribuciones se realizará de acuerdo con los criterios y fórmulas que figuran en el anexo II. Esta disminución afectará a los periodos en los que el personal con reducción de jornada se encuentre disfrutando del permiso de vacaciones, asuntos particulares y todos aquellos supuestos en los que no se diga lo contrario.
+
+> Se modifican los apartados 3 y 5 por el art. único.17 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+### Artículo 23. Concesión de vacaciones, permisos y reducciones de jornada.
+
+1\. El jefe de unidad, centro u organismo está obligado a dictar resolución expresa en todos los procedimientos y a notificarla. En caso de silencio administrativo, este será positivo conforme a lo dispuesto en el artículo 24 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, salvo que una norma con rango de Ley autorice el silencio negativo.
+
+2\. La autoridad que concedió las vacaciones o el permiso podrá ordenar la incorporación al destino cuando sobrevengan necesidades del servicio que así lo exijan.
+
+3\. Las solicitudes formuladas en los siguientes procedimientos se entenderán estimadas, sin que se hubiese dictado resolución expresa, una vez transcurridos los plazos máximos de resolución que se señalan a continuación:
+
+a) Permisos:
+
+i. Días por asuntos particulares: Diez días hábiles.
+
+ii. Fallecimiento, accidente, enfermedad muy grave, hospitalización o intervención quirúrgica sin hospitalización que precise reposo domiciliario acreditado, de un familiar dentro del primer y segundo grado de consanguinidad o afinidad: Un día hábil.
+
+iii. Traslado de domicilio: Diez días hábiles.
+
+iv. Exámenes finales y pruebas definitivas de aptitud: Diez días hábiles.
+
+v. Participación en cursos de la Administración Civil: Diez días hábiles.
+
+vi. Participación en cursos para la reorientación profesional: Diez días hábiles.
+
+vii. Cumplimiento de un deber inexcusable: Tres días hábiles.
+
+viii. Matrimonio: Diez días hábiles.
+
+ix. Técnicas de fecundación y reproducción asistida: Diez días hábiles.
+
+x. Personas dependientes a su cargo: Tres días hábiles.
+
+xi. Exámenes prenatales y técnicas de preparación al parto: Tres días hábiles.
+
+xii. Asistencia a las preceptivas sesiones de información y preparación y para la realización de los preceptivos informes psicológicos y sociales previos a la declaración de idoneidad en los casos de adopción, guarda con fines de adopción o acogimiento: Diez días hábiles.
+
+xiii. xiii. Por nacimiento para la madre biológica, nacimiento para el progenitor diferente de la madre biológica, adopción, guarda con fines de adopción o acogimiento.
+
+– Nacimiento: un día hábil.
+
+– Adopción, guarda con fines de adopción o acogimiento: tres días hábiles.
+
+xiv. Paternidad: Un día hábil.
+
+xv. Lactancia: Un día hábil.
+
+xvi. Gestación: Diez días hábiles.
+
+xvii. Permiso por razón de violencia de género: Un día hábil.
+
+b) Reducciones de jornada:
+
+i. Por razón de enfermedad muy grave: Un día hábil.
+
+ii. Por participación en operación, despliegue o misión: Diez días hábiles.
+
+iii. Para el cuidado directo de una persona mayor que requiera especial dedicación o discapacitado: Diez días hábiles.
+
+iv. Por razón de guarda legal de un hijo menor de doce años: Diez días hábiles.
+
+v. En los casos de nacimiento de hijos prematuros o que tengan que permanecer en el hospital: Un día hábil.
+
+vi. Para el cuidado de un hijo menor de edad afectado por cáncer o cualquier otra enfermedad grave: Un día hábil.
+
+vii. Para víctimas del terrorismo: Diez días hábiles.
+
+4\. En caso de que el interesado desista en un procedimiento de concesión de un permiso, reducción de jornada o licencia, todavía no finalizado, el jefe de unidad deberá resolver en los mismos plazos que los contemplados en el apartado anterior, teniendo, en su caso, el silencio carácter estimatorio.
+
+> Se modifica el apartado 3.a).xiii por el art. único.11 de la Orden DEF/1471/2021, de 21 de diciembre. [Ref. BOE-A-2021-21656](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21656)
+
+> Se modifica por el art. único.18 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+### Artículo 24. Autoridades competentes y procedimientos para las licencias.
+
+1\. Las autoridades competentes para la concesión de las licencias serán los Jefes de los Mandos y Jefatura de Personal, para los militares que ocupen puestos de las plantillas de los Ejércitos y de la Armada, y el Director General de Personal para el resto de militares.
+
+2\. La solicitud de licencia se presentará por escrito en la unidad, centro u organismo de destino o adscripción del interesado, indicando la fecha de inicio, lugar y duración, adjuntando para la licencia por estudios las características de los mismos y la justificación documental que acredite estar matriculado.
+
+3\. El jefe de unidad, centro u organismo informará la solicitud y la remitirá, en un plazo de cinco días hábiles, a la autoridad competente para resolver. Dicha autoridad resolverá y notificará al interesado su resolución en el plazo de un mes contando a partir de la recepción. En caso de silencio administrativo, este será positivo conforme a lo dispuesto en el artículo 24 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, salvo que una norma con rango de Ley autorice el silencio negativo.
+
+4\. La concesión de una licencia estará subordinada a las necesidades del servicio. Cuando circunstancias sobrevenidas lo exijan, la autoridad que concedió la licencia podrá ordenar la incorporación al destino.
+
+5\. El disfrute de la licencia se realizará de forma ininterrumpida.
+
+> Se modifica el apartado 3 por el art. único.19 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+### Artículo 25. Recursos.
+
+Contra las resoluciones y actos administrativos que se adopten en el ejercicio de las competencias atribuidas en esta orden ministerial, se podrán interponer los recursos administrativos y jurisdiccionales que sean pertinentes, de conformidad con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+
+En caso de recursos administrativos el mando o autoridad competente para resolverlos solicitará informe preceptivo a la Secretaría Permanente del Observatorio Militar para la Igualdad entre mujeres y hombres en las Fuerzas Armadas.
+
+> Se modifica por el art. único.20 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+### Disposición adicional única. Contención del gasto.
+
+Las medidas incluidas en esta norma serán atendidas con las disponibilidades presupuestarias existentes en cada ejercicio y no podrán suponer incremento de dotaciones ni retribuciones ni de otros gastos de personal.
+
+### Disposición transitoria primera. Licencias.
+
+1\. El personal que tenga concedida alguna de las licencias reguladas en la normativa hasta ahora en vigor les será de aplicación las disposiciones por las que se le concedió hasta la terminación de la misma, salvo que las condiciones que se contemplan en esta orden ministerial resultaran más favorables.
+
+2\. En cualquier caso, las licencias por asuntos propios concedidas hasta la entrada en vigor de la presente orden ministerial se contabilizarán a los efectos acumulativos contenidos en esta disposición.
+
+### Disposición transitoria segunda. Reducción de jornada.
+
+1\. El militar que disfrute de una reducción de jornada tendrá un plazo de seis meses desde la publicación de esta orden ministerial para comunicar el tipo de reducción de jornada del que disfruta y la causa que la motiva.
+
+2\. Los jefes de las unidades, centros u organismos con la información que reciban, realizarán las adaptaciones necesarias para aplicar los criterios que se fijan en el capítulo IV de esta orden ministerial.
+
+### Disposición transitoria tercera. Implementación progresiva del permiso de paternidad de dieciséis semanas.
+
+1\. Sin perjuicio de lo dispuesto en la norma séptima del anexo 1 sobre la duración del permiso de paternidad, se tendrán en cuenta los siguientes periodos escalonados de aplicación:
+
+a) En 2019: Permiso de ocho semanas, con cuatro semanas inmediatamente posteriores a la fecha del parto, decisión administrativa de guarda con fines de adopción o acogimiento, o resolución judicial por la que se constituya la adopción; y cuatro semanas disfrutadas de forma ininterrumpida, anteriores o sucesivas al descanso del otro progenitor. En caso de fallecimiento de la madre, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.
+
+b) En 2020: Permiso de doce semanas, con cuatro semanas inmediatamente posteriores a la fecha del parto, decisión administrativa de guarda con fines de adopción o acogimiento, o resolución judicial por la que se constituya la adopción; y ocho semanas disfrutadas de forma ininterrumpida, anteriores o sucesivas al descanso del otro progenitor. En caso de fallecimiento de la madre, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.
+
+c) En 2021: Permiso de dieciséis semanas, con cuatro semanas inmediatamente posteriores a la fecha del parto, decisión administrativa de guarda con fines de adopción o acogimiento, o resolución judicial por la que se constituya la adopción; y doce semanas disfrutadas de forma ininterrumpida, anteriores o sucesivas al descanso del otro progenitor.
+
+> Téngase en cuenta que esta disposición, añadida por el art. único.28 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786), entrará en vigor el mismo día que entre en vigor la norma que prevea la ampliación del permiso de paternidad hasta dieciséis semanas para el resto del personal al servicio de la Administración General del Estado, según establece la disposición final única de la citada Orden.
+
+> Se añade por el art. único.28 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+> Téngase en cuenta que esta modificación entrará en vigor el mismo día que entre en vigor la norma que prevea la ampliación del permiso de paternidad hasta dieciséis semanas para el resto del personal al servicio de la Administración General del Estado, según establece la disposición final única de la citada Orden.
+
+### Disposición derogatoria única. Derogación normativa.
+
+1\. Quedan derogadas la norma sexta, salvo su apartado 4, la norma séptima y la norma octava del anexo I y los anexos II y III de la Orden Ministerial 121/2006, de 4 de octubre, por la que se aprueban las normas sobre jornada y horario de trabajo, vacaciones, permisos y licencias de los militares de las Fuerzas Armadas.
+
+2\. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta orden ministerial.
+
+### Disposición final primera. Adaptación a Función Pública.
+
+El Subsecretario de Defensa mediante resolución modificará los anexos de esta orden ministerial, cuando se modifiquen las condiciones de vacaciones, permisos, reducciones de jornada y licencias para los empleados públicos de la Administración General del Estado y sus Organismos Autónomos.
+
+### Disposición final segunda. Habilitaciones.
+
+El Subsecretario de Defensa podrá definir los criterios de interpretación que sean necesarios para la aplicación de esta orden ministerial que, en cualquier caso se realizarán conforme a los criterios dictados para el personal al servicio de la Administración General del Estado, y siempre que la organización y funciones específicas de las Fuerzas Armadas lo permitan.
+
+### Disposición final tercera. Facultades de desarrollo.
+
+Se faculta al Subsecretario de Defensa a dictar cuantas disposiciones sean necesarias para la aplicación de las normas sobre vacaciones, permisos y licencias.
+
+### Disposición final cuarta. Operaciones en el exterior.
+
+El Jefe de Estado Mayor de la Defensa regulará la concesión y disfrute de los permisos del personal militar que participe en operaciones en el exterior.
+
+### Disposición final quinta. Entrada en vigor.
+
+La presente orden ministerial entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 9 de febrero de 2015.
+
+El Ministro de Defensa,
+
+Pedro Morenés Eulate
+
+## ANEXO I — Normas sobre vacaciones y permisos
+
+### Primera. Vacaciones.
+
+1\. Las vacaciones retribuidas por cada año natural tendrán la duración de veintidós días hábiles anuales o de los días que correspondan proporcionalmente si el tiempo de servicio durante el año fue menor. A estos efectos, los sábados se considerarán inhábiles, sin perjuicio de las adaptaciones que se establezcan para los horarios especiales.
+
+2\. Las vacaciones se disfrutarán, previa autorización y siempre que resulte compatible con las necesidades del servicio, dentro del año natural y hasta el 31 de enero del año siguiente, en periodos mínimos de cinco días hábiles consecutivos.
+
+3\. Sin perjuicio de lo anterior, de los días de vacaciones previstos en el párrafo anterior, se podrá solicitar el disfrute independiente de hasta cinco días hábiles por año natural que se podrán acumular a los días por asuntos particulares.
+
+4\. Al menos, diez días de las vacaciones deberán ser disfrutadas entre los días 15 de junio a 15 de septiembre, salvo que por las misiones específicas de la unidad o por necesidades del servicio se tengan que disfrutar en otro momento.
+
+5\. El personal destinado o que se encuentre en comisión de servicios en el extranjero y no esté desplegado con objeto de una misión en el exterior, tendrá derecho a siete días naturales de vacaciones adicionales, o a la parte proporcional al tiempo del año transcurrido en estas circunstancias, a añadir a lo dispuesto en esta norma.
+
+6\. En el supuesto de haber completado los años de antigüedad en la Administración que se indican, se tendrá derecho al disfrute de los siguientes días de vacaciones anuales:
+
+Quince años de servicio: Veintitrés días hábiles.
+
+Veinte años de servicio: Veinticuatro días hábiles.
+
+Veinticinco años de servicio: Veinticinco días hábiles.
+
+Treinta o más años de servicio: Veintiséis días hábiles.
+
+Dichos días se podrán disfrutar desde el día siguiente al de cumplimiento de los correspondientes años de servicio.
+
+7\. Los miembros de un matrimonio o pareja de hecho entre militares podrán disfrutar de, al menos, cinco días hábiles de vacaciones en las mismas fechas en el periodo de vacaciones escolares estivales, cuando tengan a su cargo un hijo menor de doce años y teniendo en cuenta las necesidades del servicio.
+
+### Segunda. Días por asuntos particulares.
+
+Por asuntos particulares seis días al año.
+
+Se reconocen hasta dos días adicionales de permiso por asuntos particulares desde el día siguiente al del cumplimiento del sexto trienio, incrementándose, como máximo, en un día adicional por cada trienio cumplido a partir del octavo.
+
+El militar que no haya podido disfrutar de sus días por asuntos particulares durante el año correspondiente por necesidades del servicio debidamente justificadas y motivadas por razones operativas o de funcionamiento de las unidades, centros y organismos, podrá disfrutar de dichos días durante el primer semestre del año siguiente*.*
+
+### Tercera. Accidente, enfermedad grave, hospitalización o intervención quirúrgica sin hospitalización que precise reposo domiciliario.
+
+Por accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que precise de reposo domiciliario del cónyuge, pareja de hecho o parientes hasta el primer grado por consanguinidad o afinidad, así como de cualquier otra persona distinta de las anteriores que conviva con el militar en el mismo domicilio y que requiera el cuidado efectivo de aquella, cinco días hábiles. Si el suceso se produce en distinta localidad de destino o residencia autorizada del militar, el plazo se ampliará en dos días hábiles si el militar debe desplazarse desde el extranjero por encontrarse allí destinado o entre archipiélagos, entre cualquiera de estos y las ciudades de Ceuta o Melilla, entre la península y cualquiera de los archipiélagos o las ciudades de Ceuta o Melilla y entre ambas.
+
+Cuando se trate de accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que precise de reposo domiciliario, de un familiar dentro del segundo grado de consanguinidad o afinidad, el permiso será de cuatro días hábiles. Si el suceso se produce en distinta localidad de destino o residencia autorizada del militar, el plazo se ampliará en dos días hábiles si el militar debe desplazarse desde el extranjero por encontrarse allí destinado o entre archipiélagos, entre cualquiera de estos y las ciudades de Ceuta o Melilla, entre la península y cualquiera de los archipiélagos o las ciudades de Ceuta o Melilla y entre ambas.
+
+### Tercera bis. Fallecimiento.
+
+Por fallecimiento del cónyuge, pareja de hecho o familiar dentro del primer grado de consanguinidad o afinidad, tres días hábiles cuando el suceso se produzca en la misma localidad del destino o residencia autorizada del militar, y cinco días hábiles, cuando sea en distinta localidad. En el caso de fallecimiento de familiar dentro del segundo grado de consanguinidad o afinidad, el permiso será de dos días hábiles cuando se produzca en la misma localidad y de cuatro días hábiles cuando sea en distinta localidad. Estos plazos se ampliarán en dos días hábiles si el militar debe desplazarse desde el extranjero por encontrarse allí destinado o entre archipiélagos, entre cualquiera de estos y las ciudades de Ceuta o Melilla, entre la península y cualquiera de los archipiélagos o las ciudades de Ceuta o Melilla y entre ambas.
+
+### Cuarta. Traslado de domicilio.
+
+Por traslado de domicilio sin cambio de localidad de destino, un día. Cuando el traslado de domicilio sea consecuencia de un cambio de destino, se tendrán en cuenta los plazos establecidos en el artículo 24 del Reglamento de destinos del personal militar profesional aprobado por Real Decreto 456/2011, de 1 de abril.
+
+### Quinta. Matrimonio, registro o constitución formalizada por documento público de pareja de hecho.
+
+Por matrimonio o registro o constitución formalizada por documento público de pareja de hecho, quince días.
+
+### Sexta. Permiso por nacimiento para la madre biológica.
+
+1\. La militar, en el caso de parto, tendrá derecho a un permiso de diecinueve semanas.
+
+En el supuesto de monoparentalidad, por existir una única persona progenitora, el permiso será de treinta y dos semanas.
+
+En los casos de parto prematuro y en aquellos en que, por cualquier otra causa, el neonato deba permanecer hospitalizado a continuación del parto, este permiso se ampliará en tantos días como el neonato se encuentre hospitalizado, con un máximo de trece semanas adicionales.
+
+En el supuesto de fallecimiento del hijo o hija, el periodo de duración del permiso no se verá reducido, salvo que, una vez finalizadas las seis semanas de descanso obligatorio, se solicite la reincorporación al puesto de trabajo.
+
+Este permiso se ampliará para ambos progenitores en dos semanas más en el supuesto de discapacidad del hijo o hija y, por cada hijo o hija a partir del segundo en los supuestos de parto múltiple, una para cada uno de los progenitores.
+
+En caso de fallecimiento de la madre, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.
+
+El permiso por el cuidado de menor se distribuye de la siguiente manera:
+
+1.º Seis semanas ininterrumpidas inmediatamente posteriores al parto, serán obligatorias y habrán de disfrutarse a jornada completa.
+
+2.º Once semanas, veintidós en el caso de monoparentalidad, que podrán distribuirse a voluntad de la madre, en períodos semanales a disfrutar de forma acumulada o interrumpida y ejercitarse desde la finalización del descanso obligatorio posterior al parto hasta que el hijo o la hija cumpla doce meses.
+
+3.º Dos semanas, cuatro en el caso de monoparentalidad, para el cuidado del menor que podrán distribuirse a voluntad de la madre, en períodos semanales de forma acumulada o interrumpida hasta que el hijo o la hija cumpla los ocho años.
+
+Este permiso, constituye un derecho individual de la madre biológica, sin que pueda transferirse su ejercicio.
+
+El permiso previsto en los apartados 2.º y 3.º podrá disfrutarse a jornada completa o a tiempo parcial, cuando las necesidades del servicio lo permitan y conforme a las reglas establecidas en la presente norma.
+
+En el caso del disfrute interrumpido del permiso se requerirá, para cada período de disfrute, un preaviso de al menos quince días y se realizará por semanas completas.
+
+En el caso de las semanas a que se refiere el párrafo 3.º, cuando concurran en ambas personas progenitoras, adoptantes, o acogedoras, por el mismo sujeto y hecho causante, y el período solicitado altere seriamente el correcto funcionamiento de la UCO en la que ambas presten servicios, el Jefe de la misma podrá aplazar la concesión del permiso por un período razonable, justificándolo por escrito y después de haber ofrecido una alternativa de disfrute más flexible.
+
+2\. En el supuesto de que por necesidades del servicio, la militar comisionada en una misión internacional, no hubiera disfrutado de este permiso, disfrutará del mismo a la vuelta de su comisión en el exterior, sin perjuicio del resto de permisos que le pudieran corresponder.
+
+### Séptima. Permiso por nacimiento para el progenitor diferente de la madre biológica.
+
+1\. Por nacimiento de un hijo o hija, el militar tendrá derecho a un permiso de diecinueve semanas.
+
+En el supuesto de monoparentalidad, por existir una única persona progenitora, el permiso será de treinta y dos semanas.
+
+En los casos de parto prematuro y en aquellos en que, por cualquier otra causa, el neonato deba permanecer hospitalizado a continuación del parto, este permiso se ampliará en tantos días como el neonato se encuentre hospitalizado, con un máximo de trece semanas adicionales.
+
+En el supuesto de fallecimiento del hijo o hija, el periodo de duración del permiso no se verá reducido, salvo que, una vez finalizadas las seis semanas de descanso obligatorio, se solicite la reincorporación al puesto de trabajo.
+
+Este permiso se ampliará para ambos progenitores en dos semanas más en el supuesto de discapacidad del hijo o hija y, por cada hijo o hija a partir del segundo en los supuestos de parto múltiple, una para cada uno de los progenitores.
+
+En caso de fallecimiento del progenitor distinto de la madre biológica, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.
+
+El permiso de cada uno de los progenitores por el cuidado de menor se distribuye de la siguiente manera:
+
+1.º Seis semanas ininterrumpidas inmediatamente posteriores al nacimiento del hijo o hija, serán obligatorias y habrán de disfrutarse a jornada completa.
+
+2.º Once semanas, veintidós en el caso de monoparentalidad, que podrán distribuirse a voluntad de aquellos, en períodos semanales a disfrutar de forma acumulada o interrumpida y ejercitarse desde la finalización del descanso obligatorio posterior al nacimiento hasta que el hijo o la hija cumpla doce meses.
+
+3.º Dos semanas, cuatro en el caso de monoparentalidad, para el cuidado del menor que podrán distribuirse a voluntad de aquellos, en períodos semanales de forma acumulada o interrumpida hasta que el hijo o la hija cumpla los ocho años.
+
+Este permiso constituye un derecho individual de las personas progenitoras, adoptantes o acogedoras, hombres o mujeres, sin que pueda transferirse su ejercicio.
+
+El permiso previsto en los apartados 2.º y 3.º podrá disfrutarse a jornada completa o a tiempo parcial, cuando las necesidades del servicio lo permitan, y en los términos que reglamentariamente se determinen, conforme a las reglas establecidas en la presente norma.
+
+En el caso del disfrute interrumpido del permiso se requerirá, para cada período de disfrute, un preaviso de al menos quince días y se realizará por semanas completas.
+
+En el caso de que se optara por el disfrute del presente permiso con posterioridad a la semana diecisiete del permiso por nacimiento, si el progenitor que disfruta de este último permiso hubiere solicitado la acumulación del tiempo de lactancia de un hijo menor de doce meses en jornadas completas del apartado g) del artículo 7, será a la finalización de ese período cuando se dará inicio al cómputo del periodo de las trece semanas restantes del permiso del progenitor diferente de la madre biológica.
+
+En el caso de las semanas a que se refiere el párrafo 3.º, cuando concurran en ambas personas progenitoras, por el mismo sujeto y hecho causante, y el período solicitado altere seriamente el correcto funcionamiento de la UCO en la que ambas presten servicios, el Jefe de la misma podrá aplazar la concesión del permiso por un período razonable, justificándolo por escrito y después de haber ofrecido una alternativa de disfrute más flexible.
+
+2\. En el supuesto de que por necesidades del servicio, el militar comisionado en una misión internacional, no hubiera disfrutado de este permiso, disfrutará del mismo a la vuelta de su comisión en el exterior, sin perjuicio del resto de permisos que le pudieran corresponder.
+
+### Séptima bis. Permiso por adopción, guarda con fines de adopción, o acogimiento tanto temporal como permanente.
+
+1\. Tendrá una duración de diecinueve semanas para cada adoptante, guardador o acogedor.
+
+En el supuesto de monoparentalidad, por existir una única persona progenitora, el permiso será de treinta y dos semanas.
+
+Este permiso se ampliará para ambos progenitores en dos semanas más en el supuesto de discapacidad del hijo o hija y, por cada hijo o hija a partir del segundo en los supuestos de adopción, guarda con fines de adopción o acogimiento múltiples, una para cada uno de los progenitores.
+
+El permiso de cada uno de los progenitores por el cuidado de menor se distribuye de la siguiente manera:
+
+1.º Seis semanas ininterrumpidas, inmediatamente posteriores a la resolución judicial por la que se constituye la adopción o bien de la decisión administrativa de guarda con fines de adopción o de acogimiento, serán obligatorias y habrán de disfrutarse a jornada completa.
+
+2.º Once semanas, veintidós en el caso de monoparentalidad, que podrán distribuirse a voluntad de aquellos, en períodos semanales a disfrutar de forma acumulada o interrumpida y ejercitarse desde la finalización del descanso obligatorio posterior al hecho causante dentro de los doce meses a contar desde la resolución judicial por la que se constituye la adopción o bien de la decisión administrativa de guarda con fines de adopción o de acogimiento.
+
+3.º Dos semanas, cuatro en el caso de monoparentalidad, para el cuidado del menor que podrán distribuirse a voluntad de aquellos, en períodos semanales de forma acumulada o interrumpida hasta que el hijo o la hija cumpla los ocho años.
+
+En ningún caso, un mismo menor podrá dar derecho a varios periodos de disfrute de este permiso.
+
+Este permiso, constituye un derecho individual de las personas progenitoras, adoptantes o acogedoras, hombres o mujeres sin que pueda transferirse su ejercicio.
+
+El permiso previsto en los apartados 2.º y 3.º podrá disfrutarse a jornada completa o a tiempo parcial, cuando las necesidades del servicio lo permitan, y en los términos que reglamentariamente se determinen, conforme a las reglas establecidas en la presente norma.
+
+En el caso del disfrute interrumpido del permiso se requerirá, para cada período de disfrute, un preaviso de al menos quince días y se realizará por semanas completas.
+
+En el caso de las semanas a que se refiere el párrafo 3.º, cuando concurran en ambas personas progenitoras, adoptantes, o acogedoras, por el mismo sujeto y hecho causante, y el período solicitado altere seriamente el correcto funcionamiento de la UCO en la que ambas presten servicios, el Jefe de la misma podrá aplazar la concesión del permiso por un período razonable, justificándolo por escrito y después de haber ofrecido una alternativa de disfrute más flexible.
+
+Si fuera necesario el desplazamiento previo de los progenitores al país de origen del adoptado, en los casos de adopción o acogimiento internacional, se tendrá derecho, además, a un permiso de hasta dos meses de duración, percibiendo durante este periodo exclusivamente las retribuciones básicas.
+
+Con independencia del permiso de hasta dos meses previsto en el párrafo anterior y para el supuesto contemplado en dicho párrafo, el permiso por adopción, guarda con fines de adopción o acogimiento, tanto temporal como permanente, podrá iniciarse hasta cuatro semanas antes de la resolución judicial por la que se constituya la adopción o la decisión administrativa o judicial de acogimiento.
+
+Los supuestos de adopción, guarda con fines de adopción o acogimiento, tanto temporal como permanente, previstos en esta norma serán los que así se establezcan en el Código Civil o en las leyes civiles de las comunidades autónomas que los regulen, debiendo tener el acogimiento temporal una duración no inferior a un año.
+
+2\. En el supuesto de que por necesidades del servicio, el militar comisionado en una misión internacional, no hubiera disfrutado de este permiso, disfrutará del mismo a la vuelta de su comisión en el exterior, sin perjuicio del resto de permisos que le pudieran corresponder.
+
+### Séptima ter. Consideraciones en la aplicación de los permisos de nacimiento, adopción, guarda con fines de adopción o acogimiento tanto temporal como permanente.
+
+En los casos previstos en las normas sexta, séptima y séptima bis el tiempo transcurrido durante el disfrute de estos permisos se computará como de servicio efectivo a todos los efectos, garantizándose la plenitud de derechos económicos de la militar y, en su caso, del otro progenitor militar, durante todo el periodo de duración del permiso, y, en su caso, durante los periodos posteriores al disfrute de este, si de acuerdo con la normativa aplicable, el derecho a percibir algún concepto retributivo se determina en función del periodo de disfrute del permiso.
+
+El personal militar que haya hecho uso del permiso por nacimiento, adopción, guarda con fines de adopción o acogimiento, tanto temporal como permanente, tendrá derecho, una vez finalizado el periodo de permiso, a reintegrarse a su puesto de trabajo en términos y condiciones que no le resulten menos favorables al disfrute del permiso, así como a beneficiarse de cualquier mejora en las condiciones de trabajo a las que hubieran podido tener derecho durante su ausencia.
+
+### Octava. Permiso por lactancia.
+
+1\. Por lactancia de un hijo menor de 12 meses, el militar tendrá derecho a una hora diaria de ausencia del trabajo, con posibilidad de fraccionar en media hora al inicio y al final de la jornada.
+
+2\. Se podrá sustituir el permiso por lactancia en la modalidad de reducción de jornada, por un permiso que acumule en jornadas completas el tiempo correspondiente. Dicho permiso se incrementará proporcionalmente en los casos de parto, adopción, guarda con fines de adopción o acogimiento múltiple.
+
+Esta modalidad se podrá disfrutar únicamente a partir de la finalización del permiso por nacimiento para la madre biológica, del permiso por adopción, guarda o acogimiento o del permiso por nacimiento del progenitor diferente a la madre biológica.
+
+El permiso por lactancia de un hijo menor de doce meses exonerará al solicitante de la realización de guardias, servicios, maniobras o actividades análogas que interfieran con el ejercicio de este derecho.
+
+En cualquier caso, la exoneración de las guardias, servicios, maniobras o actividades análogas se agotará una vez transcurrido el periodo que se determina en este anexo, cuando se opte por la acumulación del mencionado permiso en jornadas completas.
+
+### Novena. Gestación.
+
+La militar en estado de gestación tendrá derecho a un permiso desde el día primero de la semana 37 de embarazo, hasta la fecha de parto.
+
+En el supuesto de gestación múltiple este permiso podrá iniciarse el primer día de la semana 35 de embarazo, hasta la fecha de parto.
+
+> Se modifican las normas sexta.1, séptima.1, séptima bis.1 y se añade la séptima ter por el art. único.4 a 7 de la Orden DEF/787/2026, de 23 de julio. [Ref. BOE-A-2026-16655](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16655)
+
+> Téngase en cuenta, para su aplicación, los efectos retroactivos recogidos en la disposición transitoria única de la citada Orden.
+
+> Se modifican las normas tercera, quinta y se añade la tercera bis por el art. único.15 a 17 de la Orden DEF/228/2024, de 11 de marzo. [Ref. BOE-A-2024-4861](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-4861)
+
+> Se modifican las normas sexta, séptima, octava.2 y se añade la séptima bis por el art. único. 12 a 15 de la Orden DEF/1471/2021, de 21 de diciembre. [Ref. BOE-A-2021-21656](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21656)
+
+> Se modifican las normas primera, segunda, tercera, sexta y séptima y se añade la novena por el art. único.21 a 26 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)
+
+> Téngase en cuenta que la nueva redacción de la norma séptima entrará en vigor el mismo día que entre en vigor la norma que prevea la ampliación del permiso de paternidad hasta dieciséis semanas para el resto del personal al servicio de la Administración General del Estado, según determina la disposición final única de la citada Orden y seguirá vigente, hasta ese momento, la redacción anterior, según establece su disposición transitoria única.
+
+> Se modifica el apartado 2 de la norma primera y la norma segunda por el art. único.1 y 2 de la Resolución 431/38020/2018, de 1 de febrero de 2018. [Ref. BOE-A-2018-1606](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1606)
+
+> Se modifica la norma séptima por el artículo único de la Resolución 430/38026/2017, de 7 de febrero. [Ref. BOE-A-2017-1520](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1520).
+
+> Se añade el apartado 6 a la norma primera y se modifica la norma segunda por el art. único de la Resolución 430/13284/18, publicada en el Boletín Oficial del Ministerio de Defensa núm. 196, de 7 de octubre de 2015.
+
+## ANEXO II — Criterios y fórmulas para el cálculo de las retribuciones en los casos de reducción de jornada
+
+1\. Disminución de retribuciones por reducción de jornada.
+
+a) A quien se conceda una reducción de jornada se le aplicará una disminución proporcional de sus retribuciones básicas y complementarias, sin perjuicio de las competencias sobre concesión o cese en la percepción de los complementos de dedicación especial y productividad atribuidas a las Autoridades en la normativa vigente.
+
+b) El cálculo de la disminución proporcional de retribuciones se realizará de acuerdo con los criterios y fórmulas que figuran a continuación.
+
+2\. Criterios.
+
+La disminución proporcional de retribuciones en los casos en que se disfrute una reducción de jornada se calculará de acuerdo con los siguientes criterios:
+
+a) Para el cálculo del valor hora aplicable a la disminución de retribuciones en las pagas ordinarias, se tomará como base la totalidad de las retribuciones íntegras mensuales. La cantidad resultante se dividirá entre el número de días naturales del correspondiente mes y, a su vez, este resultado, se dividirá nuevamente, por el número de horas diarias que tenga obligación de cumplir, de acuerdo con el régimen de horario general de la UCO.
+
+b) Para el cálculo de la disminución de retribuciones, en los casos de exoneración de las guardias, servicios, maniobras o actividades análogas que impliquen actividad fuera del régimen de horario general de la UCO, se multiplicará el valor hora obtenido, según el punto anterior, por el número de días naturales del correspondiente mes y por el número de horas concedidas de reducción de jornada. El resultado obtenido se descontará de las retribuciones íntegras mensuales.
+
+c) En los casos de no exoneración de guardias, servicios, maniobras o actividades análogas que impliquen actividad fuera del régimen de horario general de la UCO, se multiplicará el valor hora, por el número de días naturales del correspondiente mes, descontados los días en que realizaron las guardias, servicios, maniobras o actividades análogas que impliquen actividad fuera del horario general y por el número de horas concedidas de reducción de jornada.
+
+No se descontarán los días de descanso obligatorio siguientes a los días en que realizaron las guardias, servicios, maniobras o actividades análogas; ni los días de descanso adicional que, en su caso, se concedieran.
+
+d) El importe íntegro de la paga extraordinaria afectada por un período de tiempo con reducción de jornada será el correspondiente a la suma de los respectivos importes de cada uno de los dos períodos, con y sin reducción de jornada, de los seis meses computables en dichas pagas, según el siguiente cálculo:
+
+1.º Para el período no afectado por la reducción de jornada en los seis meses anteriores a su devengo (diciembre a mayo, o junio a noviembre), se dividirá la cuantía íntegra de la paga extraordinaria que en la fecha de 1 de junio o 1 de diciembre, según los casos, se habría devengado en jornada completa, entre ciento ochenta y dos (ciento ochenta y tres en años bisiestos) o ciento ochenta y tres días, respectivamente, multiplicando este resultado por el número de días naturales en que se haya prestado servicio sin reducción de jornada.
+
+2.º Para el período afectado por la reducción de jornada, se aplicará el mismo sistema de cálculo anterior pero tomando como dividendo el importe de la paga extraordinaria reducido de forma proporcional a la propia reducción de jornada, multiplicando este resultado por el número de días naturales en que se haya prestado servicio con reducción de jornada.
+
+3\. Fórmulas.
+
+a) Cálculo de la paga ordinaria.
+
+v/h: Valor Hora.
+
+M: Número de días naturales del mes concedido de reducción de jornada.
+
+m: Número de días naturales del mes concedido de reducción de jornada, descontados los días que realiza guardias, servicios, maniobras o actividades análogas que se realicen fuera del horario habitual.
+
+RI: Retribuciones íntegras mensuales.
+
+Hg: Número de horas que tenga la obligación de cumplir (Horario general).
+
+Hr: Número de horas concedidas de reducción de jornada.
+
+DRI: Disminución de RI.
+
+1\. Se exonera de guardias, servicios, maniobras o actividades análogas que se realicen fuera del horario habitual.
+
+Fórmula: v/h = (RI /M)/Hg
+
+DRI = v/h × M × Hr
+
+2\. No se exonera de guardias, servicios, maniobras o actividades análogas que se realicen fuera del horario habitual.
+
+Fórmula: v/h = (RI/M)/Hg
+
+DRI = v/h × m × Hr.
+
+b) Cálculo de la paga extraordinaria.
+
+Pn: Importe de la paga extraordinaria correspondiente al período sin reducción de jornada.
+
+Pa: Importe de la paga extraordinaria correspondiente al período con reducción de jornada.
+
+RIpe: Cuantía íntegra de la paga extraordinaria correspondiente.
+
+k: 182 o 183 días, según corresponda.
+
+%: Porcentaje a reducir, de forma proporcional a la reducción de jornada solicitada, la cuantía de la paga extraordinaria correspondiente.
+
+D: Número de días naturales sin reducción de jornada en los seis meses anteriores al devengo de la paga extraordinaria.
+
+d: Número de días naturales con reducción de jornada en los seis meses anteriores al devengo de la paga extraordinaria.
+
+1.º Período no afectado por reducción de jornada.
+
+Fórmula: Pn = (Rlpe/k) × D
+
+2.º Período afectado por reducción de jornada.
+
+Fórmula: Pa = (Rlpe × %/k) × d
+
+4\. Retribuciones para el personal que disfrute de una reducción de jornada y no esté exonerado de la realización de guardias, servicios, maniobras o actividades análogas.
+
+En los casos de reducción de jornada sin exoneración de guardias, servicios, maniobras o actividades análogas, no se descontarán retribuciones ni los días en que se prestan las guardias, servicios o actividades análogas, ni aquellos en los que se disfruta de los descansos regulados en la Orden DEF/1363/2016, de 28 de julio, por la que se regulan la jornada y el régimen de horario habitual en el lugar de destino de los miembros de las Fuerzas Armadas.
+
+> Se añade el segundo párrafo a la letra c) del apartado 2 por el art. único.8 de la Orden DEF/787/2026, de 23 de julio. [Ref. BOE-A-2026-16655](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16655)
+
+> Se añade el apartado 4 por el art. único.27 de la Orden DEF/112/2019, de 9 de febrero. [Ref. BOE-A-2019-1786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1786)

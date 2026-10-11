@@ -1,0 +1,169 @@
+---
+title: "Orden de 8 de junio de 1981 por la que se ordena la actividad pesquera de la flota bacaladera"
+identifier: "BOE-A-1981-14614"
+eli: "https://www.boe.es/eli/es/o/1981/06/08/(6)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura y Pesca"
+date: 1981-06-08
+published: 1981-07-01
+in_force_from: 1981-07-01
+last_amended: 1994-07-18
+consolidated: 2026-02-02
+gazette: "Boletín Oficial del Estado núm. 156"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-14614"
+retrieved: 2026-10-11
+---
+
+# Orden de 8 de junio de 1981 por la que se ordena la actividad pesquera de la flota bacaladera
+
+Ilustrísimo señor:
+
+El Real Decreto 881/1980, de 28 de marzo, sobre ordenación de la actividad pesquera nacional sienta criterios generales a tener en cuenta para ordenar la actividad de la flota española tanto en aguas bajo jurisdicción pesquera española, coma fuera de estas aguas se ejerza en este caso, en caladeros sujetos a la jurisdicción de otros Estados o en zonas de alta mar sometidas o no a la reglamentación de organizaciones internacionales de pesca; en desarrollo y cumplimiento en su vertiente exterior del citado Real Decreto, resulta necesario ordenar la actividad pesquera de las Empresas bacaladeras españolas que habitualmente han venido pescando tanto por dentro como por fuera de las actuales zonas económicas exclusivas tradicionales en la pesca del bacalao y especies afines o asociadas.
+
+La ordenación de esta actividad se fundamenta en la grave crisis por que atraviesan tales Empresas debido a la reducida cuota de pesca asignada a España por los Estados ribereños de los caladeros tradicionales. Como objetivo de la ordenación se pretende, entre otros, alcanzar la óptima utilización de los recursos mediante la adecuación del número de unidades bacaladeras existentes en la actualidad con las posibilidades efectivas de pesca que permita aumentar el rendimiento de las unidades bacaladeras, mantener el máximo empleo y la actividad económica de los puertos, así como favorecer, en su caso, la renovación y la modernización de las flotas. Para alcanzar estos objetivos a corto y medio plazo, tanto la Administración, como el sector bacaladero deben disponer del correspondiente cauce jurídico que permita concretar los criterios a seguir en la ordenación de la actividad pesquera de la flota bacaladera, una de las más afectadas por el nuevo régimen jurídico internacional de la pesca marítima.
+
+En su virtud, en uso de la facultad concedida por la disposición final segunda del citado Real Decreto, de 28 de marzo,
+
+Este Ministerio, oído el sector bacaladero y a propuesta de la Subsecretaría de Pesca, ha tenido a bien disponer lo siguiente:
+
+## Artículo 1.
+
+La ordenación de la actividad pesquera de la flota bacaladera se realizará en base a las siguientes normas:
+
+Primera. Unidades bacaladeras con derecho a cuota de pesca.
+
+Uno. Tendrán derecho a cuota de pesca de bacalao y especies afines o asociadas las unidades bacaladeras que, habiendo pescado habitualmente en los caladeros tradicionales, se encuentren incluidas en el censo correspondiente.
+
+Dos. A tales efectos, con carácter de censo cerrado, se incluyen en el anexo I todas las unidades bacaladeras que el día 1 de noviembre de 1979 tenían derecho a cuotas de pesca de bacalao y especies afines o asociadas conforme al documento elaborado por el sector bacaladero.
+
+Tres. Conforme a la costumbre en el sector bacaladero se entiende por «unidad bacaladera» la unidad de explotación de pesca se encuentre formada por un solo buque (modalidad de pesca por «bou») o por dos buques (modalidad de pesca por «parejas»).
+
+Cuatro. Salvo las excepciones incluidas en el anejo I, en la modalidad de pesca por «parejas», sea formada por buques convencionales o por «bous», la cuota de pesca se distribuye por mitad a cada buque que constituye la unidad bacaladera.
+
+Segunda. Derechos de las Empresas bacaladeras.
+
+Uno. Cada empresa bacaladera participa en las pesquerías de bacalao y especies afines o asociadas con unos derechos equivalentes a las cuotas de pesca que correspondan a las unidades bacaladeras que posean incluidas en el anejo I.
+
+Dos. Las cuotas de pesca de cada una de las unidades bacaladeras incluidas en el censo podrán acumularse en otras unidades bacaladeras propiedad de la misma empresa bacaladera; siempre que tal empresa mantenga en la actividad bacaladera el menos un buque.
+
+Tres. Las empresas incluidas en el correspondiente censo oficial de unidades bacaladeras podrán enajenar, ceder o transmitir los derechos a cuotas de pesca de bacalao, siempre que esta transmisión suponga una mejor racionalización de la actividad pesquera, no perjudique a terceros y sea autorizada por la Secretaría General de Pesca Marítima.
+
+Tercera. Participación de los puertos y organizaciones de productores.
+
+Uno. Las empresas bacaladeras cuyas unidades se encuentren incluidas en el censo podrán hacer valor ante la Subsecretaria de Pesca los derechos de tales unidades bacaladeras bien directamente, bien a través de las organizaciones de productores (se denominen asociaciones de armadores o de cualquier otra manera) asentadas en los puertos de base de tales unidades.
+
+Dos. Cada puerto de base u organización de las citadas en el apartado anterior participan en las pesquerías del bacalao especies afines o asociadas en la proporción de las unidades que figuran en el anejo I. Esta proporción solo podrá variar por alguna de las causas previstas en esta disposición.
+
+Tres. Sin perjuicio de lo dispuesto en el número tres de la norma segunda, la Subsecretaria de Pesca podrá autorizar en caso de fuerza mayor la cesión temporal de cuotas de pesca entre empresas, puertos u organizaciones en ellas establecidas con el fin de evitar la inactividad de tales cuotas de pesca.
+
+Cuatro. Las unidades bacaladeras podrán cambiar de puerto de base previa autorización de la Subsecretaria de Pesca; en este supuesto, podrá variar la proporción establecida en la participación de los respectivos puertos. Asimismo, las empresas bacaladeras podrán cambiar de organización de productores, se afilien o no a otra organización; en ambos casos deberá variar la proporción en la participación de las organizaciones afectadas.
+
+Cuarta. Conservación de los derechos a cuotas de pesca.
+
+Uno. Las empresas bacaladeras cuyas unidades gocen en la actualidad de derechos a cuotas de pesca de bacalao y otras especies afines asociadas podrán conservar las mismas de manera acumulada cuando concurra alguna de las siguientes circunstancies:
+
+a) Venta de una unidad bacaladera censada o, en su caso, de uno de los buques que la integran a otra empresa española no incluida en el anejo I con el fin de dedicarla a otra actividad pesquera distinta de la bacaladera, si el acceso a la nueva zona de pesca no se encuentra contingentado, limitado ni representa, a juicio de la Subsecretaria de. Pesca, perjuicio alguno para la actividad pesquera de otras flotas españolas.
+
+b) Cambio de zona de pesca en las mismas condiciones establecidas en el apartado a).
+
+c) Desguace de alguna unidad bacaladera de su propiedad o de uno de los buques que la integran, siempre que la paralización suponga una mejor racionalización de la actividad y sea autorizada por la Secretaría General de Pesca Marítima. En este caso se aplicará lo dispuesto en el Real Decreto 222/1991, de 22 de febrero, y normas de desarrollo.
+
+d) Baja en la Lista Tercera del Registro Oficial de Buques y en el Censo de la Flota Pesquera Operativa.
+
+e) Cambio de modalidad de pesca dentro de la misma pesquería.
+
+f) Inmovilización voluntaria o forzosa de una unidad bacaladera o de uno de los buques que la integran con sujeción a lo que se disponga en el desarrollo de esta Orden.
+
+Dos. En el supuesto de exportación de uno o varios buques bacaladeros de los incluidos en el anejo I para constituir una empresa pesquera conjunta, sea o no bacaladera, las empresas bacaladeras del puerto o de la organización correspondiente podrán acordar por unanimidad que los derechos a las cuotas de pesca se acumulen a los derechos de las demás empresas bacaladeras del puerto y organización de productores.
+
+Tres. En lo sucesivo, solo se autorizará la constitución de empresas pesqueras conjuntas bacaladeras en aquellos países que tengan cuotas de pesca de bacalao en sus propias zonas económicas exclusivas, en las zonas económicas exclusivas de otros países o en las aguas sometidas a las competencias ordenadoras de una organización internacional de pesca.
+
+Quinta. Pérdida de los derechos a cuotas de pesca de bacalao y especies afines o asociadas.
+
+Uno. Las empresas bacaladeras propietarias de una sola unidad bacaladera con derecho a cuotas de pesca, de bacalao y especies afines o asociadas perderán el mismo en los siguientes supuestos:
+
+a) Venta de la unidad bacaladera o cambio de actividad pesquera.
+
+b) Baja en la Tercera Lista y en el Censo de la Flota Pesquera Operativa por pérdida total o por desguace de la unidad bacaladera, salvo que opte, en los plazos que se establezcan, por sustituirla por un buque bacaladero congelador de nueva construcción o por compra de otra unidad en explotación incluida en el Censo que figura en el anexo I, con sujeción a lo que se disponga en el desarrollo de esta Orden.
+
+c) Baja en Tercera Lista y en el Censo de la Flota Pesquera Operativa por pérdida total o por desguace de media unidad bacaladera cuando no resulte posible la explotación de la media unidad restante, salvo que se opte, en los plazos que se establezca, por sustituirlas bien por un buque bacaladero congelador de nueva construcción o por un buque congelador en explotación, bien por un buque en explotación incluido en el Censo que figura en el anexo I o, en su caso, opte por transformar la media unidad para dedicarla a la modalidad de pesca por ''bou''; en este último supuesto, la cuota de pesca será la correspondiente a la unidad bacaladera en su conjunto.
+
+Dos. Las empresas bacaladeras propietarias de varias unidades bacaladeras incluidas, en el censo perderán el derecho de acumular las cuotas de pesca a otras unidades de su propiedad en los siguientes supuestos:
+
+a) Venta de una unidad bacaladera censada o de uno de los buques que integran a otra empresa bacaladera española que tenga por objeto continuar ejerciendo la misma actividad.
+
+b) Cambio de actividad de pesca, si el acceso a la nueva zona se encuentra contingentado, limitado o representa a juicio de la Subsecretaría de Pesca, perjuicio para la actividad pesquera de otras flotas españolas.
+
+Tres. Salvo lo dispuesto en la norma VI para el supuesto de desguace con prima o subvención del Estado, la pérdida del derecho a cuotas de pesca o la pérdida del derecho de acumulación de cuotas de pesca prevista, respectivamente, en los apartados uno y dos de esta norma, beneficiarán a las demás empresas bacaladeras del puerto de base o de la organización a que estén afiliadas.
+
+Sexta. Desguace con prima o subvención del Estado.
+
+Cuando el pago de la ayuda total que pudiera corresponderle de las Administraciones Públicas por el desguace de una unidad bacaladera o de un buque de la misma sea asumido por el puerto de base o por la Organización en que se encuentre afiliada la Empresa propietaria, el derecho a la cuota de pesca se acumulará proporcionalmente al número de unidades que posea, a los derechos de las Empresas bacaladeras del puerto de base o, en su caso, de la Organización correspondiente. En este caso, no se podrá presentar expediente de ayuda por desguace a la Administración correspondiente.
+
+Séptima. Fusión de empresas bacaladeras.
+
+Uno. Con independencia de los beneficios fiscales comprendidos en el ordenamiento jurídico vigente, la empresa bacaladera resultante de la fusión o concentración de dos o más empresas bacaladeras propietarias de unidades censadas acumulará derechos a las cuotas de pesca de bacalao o especies afines, asociadas que pudieran corresponder a las empresas fusionadas.
+
+Dos. Cuando las empresas bacaladeras correspondan a puerto u organizaciones distintas, los derechos acumulados implicarán la variación en favor, a falta de pacto expreso en contrario, del puerto de base de los buques o de la organización a que se afilie la nueva empresa.
+
+Octava. Ejercicio de los derechos a cuotas de pesca.
+
+Uno. Las empresas pesqueras propietarias de unidades bacaladeras incluidas en el censo que figura en el anejo I tendrán derecho a participar, según su propio porcentaje, bien directamente, bien a través de los puertos u organizaciones, en los Planes de Pesca anuales para la distribución de las cuotas de bacalao y especies afines o asociadas asignadas a España.
+
+Dos. El ejercicio de la actividad bacaladera estará condicionado a la obtención además de las licencias de pesca de otro Estado en su caso, del correspondiente permiso temporal de pesca expedido por la Subsecretaria de Pesca, bien de manera individualizada para cada unidad bacaladera determinada, bien de manera general para los buques incluidos en los Planes de Pesca.
+
+Tres. Para el ejercicio de la pesos en las zonas de alta mar no sometidas a jurisdicción estatal alguna, estén o no bajo control de organizaciones internacionales de pesca, se necesitará en todo caso el permiso temporal de pesca expedido para cada unidad bacaladera individualmente por la Subsecretaria de Pesca.
+
+Novena. Renovación y modernización de la flota bacaladera.
+
+Uno. En los supuestos de desguace sin prima ni subvención del Estado y de exportación definitiva de buques, la empresa bacaladera titular podrá conservar sus derechos a cuotas de pesca si opta por la construcción de un nuevo buque cuyas características técnicas, a juicio de la Subsecretaría de Pesca, permitan un mejor aprovechamiento de la licencia de pesca y supongan un ahorro en el consume energético.
+
+Dos. Conforme a lo dispuesto en el Real Decreto 2517/ 1976, de 8 de octubre, sobre empresas pesqueras conjuntas, se exceptúa del supuesto anterior la exportación de buques por venta o aportación a una empresa pesquera conjunta en la que participe como inversora la empresa española propietaria de los buques.
+
+Tres. En el supuesto de pérdida total de una unidad bacaladera, o de uno de los buques que la integran, la empresa titular podrá conservar sus derechos si opta por la sustitución del mismo mediante compra o construcción de una nueva unidad cuyas características técnicas, en ambos casos, permitan a juicio de la Subsecretaria de Pesca un mejor aprovechamiento de las cuotas de pesca y supongan un ahorro en el consume energético.
+
+Décima. Planes de Pesca.
+
+Uno. Anualmente, después de cada negociación con los Estados ribereños interesados, la Subsecretaria de Pesca confeccionará el Plan de Pesca correspondiente a cada caladero en consideración a las cuotas de pesca concedidas y a la habitualidad de pesca de los buques en determinadas zonas de un caladero concreto.
+
+Dos. Con el fin de acomodar el plan de pesca a la realidad empresarial desarrollada en cada puerto u organización, la Subsecretaria de Pesca solicitara de los puertos u organizaciones propuesta fundamentada de distribución de las cuotas de pesca entre las unidades censadas. Salvo errores graves que sean debidamente impugnados por las empresas afectadas, la Subsecretaría de Pesca redactará el de pesca general en base a las propuestas parciales sometidas por los distintos puertos y organizaciones.
+
+Undécima. Revisión anual del censo.
+
+Uno. En los supuestos previstos en las normas cuarta y quinta, salvo lo dispuesto en el apartado dos, a), de esta última norma, den lugar o no a sustitución de un buque por otro, los buques causarán baja definitiva en el censo correspondiente.
+
+Dos. La Subsecretaria de Pesca confeccionara cada año, al día 1 de enero, los censos de las unidades bacaladeras y los porcentajes de coeficiente por puerto u organizaciones teniendo en cuenta las variaciones sufridas durante el año precedente.
+
+> Se modifica el punto 3 de la norma segunda por el art. único de la Orden de 12 de julio de 1994. [Ref. BOE-A-1994-16720](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-16720)
+
+> Se modifica el punto uno.c) y d) de la norma cuarta, el punto uno.b) y c) de la norma quinta y la norma sexta y se deroga el punto uno.d) y el punto dos.c) de la norma quinta y el punto uno de la norma sexta por el art. único y la disposición derogatoria de la Orden de 12 de junio de 1992. [Ref. BOE-A-1992-15389](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-15389)
+
+## Artículo 2.
+
+Se faculta a la Subsecretaría de Pesca, para que, mediante las oportunas resoluciones administrativas, desarrolle en conjunto o separadamente las normas de ordenación contenidas en esta disposición.
+
+## Artículo 3.
+
+La presente Orden entrará en vigor el día de su publicación en el «Boletín Oficial del Estado».
+
+## Disposición transitoria.
+
+La presente disposición se aplicará a cuantas situaciones contempladas en la misma se hayan producido a partir del día 1 de noviembre de 1979, en relación al anejo I.
+
+Lo que comunico a V. I. para su cumplimiento.
+
+Madrid, 8 de junio de 1981.
+
+LAMO DE ESPINOSA
+
+Ilmo. Sr. Subsecretario de Pesca.
+
+## ANEJO I
+
+## Lista de unidades bacaladeras al día 1 de noviembre de 1979
+
+> Se ha omitido el Anexo I. Consúltese el [PDF oficial](https://www.boe.es/boe/dias/1981/07/01/pdfs/A15013-15015.pdf#page=3), así como las correspondientes resoluciones de actualización del censo de unidades bacaladeras.

@@ -1,0 +1,824 @@
+---
+title: "Real Decreto 235/2018, de 27 de abril, por el que se establecen métodos de cálculo y requisitos de información en relación con la intensidad de las emisiones de gases de efecto invernadero de los combustibles y la energía en el transporte; se modifica el Real Decreto 1597/2011, de 4 de noviembre, por el que se regulan los criterios de sostenibilidad de los biocarburantes y biolíquidos, el Sistema Nacional de Verificación de la Sostenibilidad y el doble valor de algunos biocarburantes a efectos de su cómputo; y se establece un objetivo indicativo de venta o consumo de biocarburantes avanzados"
+identifier: "BOE-A-2018-5890"
+eli: "https://www.boe.es/eli/es/rd/2018/04/27/235"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Energía, Turismo y Agenda Digital"
+date: 2018-04-27
+published: 2018-05-01
+in_force_from: 2018-05-02
+last_amended: 2026-07-23
+consolidated: 2026-07-24
+gazette: "Boletín Oficial del Estado núm. 105"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-5890"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 235/2018, de 27 de abril, por el que se establecen métodos de cálculo y requisitos de información en relación con la intensidad de las emisiones de gases de efecto invernadero de los combustibles y la energía en el transporte; se modifica el Real Decreto 1597/2011, de 4 de noviembre, por el que se regulan los criterios de sostenibilidad de los biocarburantes y biolíquidos, el Sistema Nacional de Verificación de la Sostenibilidad y el doble valor de algunos biocarburantes a efectos de su cómputo; y se establece un objetivo indicativo de venta o consumo de biocarburantes avanzados
+
+<br> Norma derogada, con efectos de 31 de diciembre de 2027, por la disposición derogatoria única.2 del Real Decreto 611/2026, de 22 de julio. [Ref. BOE-A-2026-16011](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16011)
+
+I
+
+La Directiva 2009/30/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, por la que se modifica la Directiva 98/70/CE en relación con las especificaciones de la gasolina, el diésel y el gasóleo, se introduce un mecanismo para controlar y reducir las emisiones de gases de efecto invernadero, se modifica la Directiva 1999/32/CE del Consejo en relación con las especificaciones del combustible utilizado por los buques de navegación interior y se deroga la Directiva 93/12/CEE, introdujo un nuevo artículo 7 bis en la citada Directiva 98/70/CE, de 13 de octubre de 1998.
+
+El citado artículo estableció que, como máximo el 31 de diciembre de 2020, deben haberse reducido las emisiones de gases de efecto invernadero, durante el ciclo de vida por unidad de energía del carburante o por energía suministrados, hasta el 10 por ciento, un 6 por ciento con carácter obligatorio y el 4 por ciento restante indicativo, en comparación con el nivel medio de emisiones de gases de efecto invernadero por unidad de energía de los combustibles fósiles utilizados en la Unión Europea en 2010.
+
+Posteriormente, la Directiva (UE) 2015/652 del Consejo, de 20 de abril de 2015, por la que se establecen métodos de cálculo y requisitos de notificación de conformidad con dicha Directiva 98/70/CE del Parlamento Europeo y del Consejo, relativa a la calidad de la gasolina y el gasóleo, establece métodos de cálculo de las emisiones de gases de efecto invernadero de los combustibles y la energía producidos a partir de fuentes no biológicas, así como los requisitos para la notificación y la elaboración de los informes exigidos al respecto.
+
+La Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, tiene por objeto renovar, integrar y homogeneizar la distinta normativa legal vigente en materia de hidrocarburos, pretendiendo una regulación más abierta, en la que los poderes públicos salvaguarden los intereses generales a través de la propia normativa, limitando su intervención en los mercados al resultado de un análisis de proporcionalidad para garantizar que las medidas adoptadas son las menos restrictivas pero también las más eficaces y eficientes en el logro los fines que se persiguen. Paralelamente a esta apertura de la legislación, profundiza en los mecanismos de información detallada que los agentes del mercado deben suministrar a las Administraciones competentes, para permitir la medición de los resultados obtenidos y su contraste con los objetivos propuestos en materia de política energética.
+
+En lo que respecta a los productos derivados del petróleo, el artículo 53 de la citada ley, titulado obligaciones generales, establece que quienes en virtud del artículo 50 estén obligados a mantener existencias mínimas de seguridad, así como toda aquella compañía que preste servicios de logística de productos petrolíferos, quedan obligados a cumplir las directrices dictadas por el Ministerio de Industria y Energía (actualmente Ministerio de Energía, Turismo y Agenda Digital) respecto de sus instalaciones y mantenimiento, seguridad, calidad de los productos y aportación de información.
+
+En relación con el gas natural, el apartado 4 del artículo 62 de la misma ley, titulado contabilidad e información, establece que las entidades que actúen en el sistema gasista deberán proporcionar a la Administración competente la información que les sea requerida, recogiendo algunos supuestos concretos e indicando que también deberán proporcionar cualquier otra información que la Administración competente crea oportuna para el ejercicio de sus funciones.
+
+El presente real decreto incorpora al ordenamiento jurídico español lo previsto en la citada Directiva (UE) 2015/652 del Consejo, de 20 de abril de 2015, por la que se establecen métodos de cálculo y requisitos de notificación de conformidad con dicha Directiva 98/70/CE del Parlamento Europeo y del Consejo, relativa a la calidad de la gasolina y el gasóleo.
+
+II
+
+La Directiva 2009/28/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, relativa al fomento del uso de energía procedente de fuentes renovables y por la que se modifican y se derogan las Directivas 2001/77/CE y 2003/30/CE, define criterios de sostenibilidad para los biocarburantes y biolíquidos, relativos a la reducción de emisiones de gases de efecto invernadero y a la protección de tierras de elevado valor en cuanto a biodiversidad o tierras con elevadas reservas de carbono.
+
+La Directiva 2009/30/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, por la que se modifica la Directiva 98/70/CE en relación con las especificaciones de la gasolina, el diésel y el gasóleo, se introduce un mecanismo para controlar y reducir las emisiones de gases de efecto invernadero, se modifica la Directiva 1999/32/CE del Consejo en relación con las especificaciones del combustible utilizado por los buques de navegación interior y se deroga la Directiva 93/12/CEE, establece los mismos criterios de sostenibilidad para los biocarburantes.
+
+La disposición adicional decimosexta de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, habilita al Ministerio de Industria, Turismo y Comercio (actualmente Ministerio de Energía, Turismo y Agenda Digital) a dictar las disposiciones necesarias para regular un mecanismo de fomento de la incorporación de biocarburantes y otros combustibles renovables, destinado a lograr el cumplimiento de los objetivos establecidos al respecto.
+
+El Real Decreto 1597/2011, de 4 de noviembre, por el que se regulan los criterios de sostenibilidad de los biocarburantes y biolíquidos, el Sistema Nacional de Verificación de la Sostenibilidad y el doble valor de algunos biocarburantes a efectos de su cómputo, incorpora al ordenamiento jurídico nacional la Directiva 2009/28/CE de 23 de abril de 2009 y la Directiva 2009/30/CE de 23 de abril de 2009, antes citadas, estableciendo, entre otras cuestiones, la metodología de cálculo de las emisiones de gases de efecto invernadero de los biocarburantes y biolíquidos, las definiciones aplicables en dicho cálculo y la descripción de los agentes económicos integrados en la cadena de producción y comercialización de biocarburantes y biolíquidos, cuyas instalaciones y productos estarán sujetos a inspección y control en el marco del sistema nacional de verificación del cumplimiento de los criterios de sostenibilidad de los biocarburantes y biolíquidos.
+
+La Directiva (UE) 2015/1513 del Parlamento Europeo y del Consejo, de 9 de septiembre de 2015, por la que se modifican la Directiva 98/70/CE, relativa a la calidad de la gasolina y el gasóleo, y la Directiva 2009/28/CE, relativa al fomento del uso de energía procedente de fuentes renovables, introduce novedades en las mismas en relación con los criterios de sostenibilidad de los biocarburantes y biolíquidos, cuya incorporación al ordenamiento jurídico nacional se opera a través de la modificación del citado Real Decreto 1597/2011, de 4 de noviembre.
+
+La anteriormente citada directiva fue parcialmente transpuesta, en todo lo relativo a los objetivos de venta o consumo de biocarburantes, mediante el Real Decreto 1085/2015, de 4 de diciembre, de fomento de los Biocarburantes. A este respecto, dicho real decreto, prevé, según lo dispuesto en la directiva, en el apartado 4 de su artículo 2 que, por orden del Ministro de Industria, Energía y Turismo, actual Ministro de Energía, Turismo y Agenda Digital, previo informe a la Comisión del Gobierno para Asuntos Económicos, se establecerá un objetivo indicativo de venta o consumo de biocarburantes avanzados, entendidos estos como aquellos procedentes de materias primas que no compitan con los cultivos alimentarios. En aras a simplificar la transposición total de la referida directiva, el presente real decreto modifica el citado Real Decreto 1085/2015, de 4 de diciembre, estableciendo un objetivo indicativo de biocarburantes avanzados para el año 2020, habilitando al citado Ministro a modificarlo, previo informe a la Comisión Delegada del Gobierno para Asuntos Económicos, en función de la disponibilidad de los mismos y de las materias primas utilizadas para su fabricación, así como de la previsión de energía final suministrada en el transporte.
+
+Finalmente, se modifica el Real Decreto 1597/2011, de 4 de noviembre, para culminar el actualmente vigente sistema transitorio de verificación de la sostenibilidad, pasando a un sistema definitivo, de forma que los sujetos obligados en el real decreto deberán sustituir, a partir del 1 de enero de 2019, la declaración responsable sobre el cumplimiento de la sostenibilidad de los biocarburantes, actualmente exigida, por un informe de verificación de la sostenibilidad realizado por una entidad de verificación de la sostenibilidad.
+
+El presente real decreto cumple con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. El real decreto responde a la necesidad de transposición de directivas europeas. Es eficaz y proporcional, ya que regula los aspectos imprescindibles para que se pueda cumplir lo previsto en las mismas y es coherente con el resto del ordenamiento jurídico nacional y con el ordenamiento jurídico de la Unión Europea, habiéndose teniendo en cuenta el principio de transparencia. Asimismo, es eficiente, dado que su aplicación no impone cargas administrativas innecesarias o accesorias.
+
+El presente real decreto se estructura en seis artículos distribuidos en dos capítulos, una disposición adicional, una disposición transitoria, una disposición derogatoria, seis disposiciones finales y un anexo.
+
+De acuerdo con lo dispuesto en el artículo 5.2, a), así como en la disposición transitoria décima de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, este real decreto ha sido sometido a informe preceptivo de la citada Comisión Nacional de Mercados y Competencia.
+
+De conformidad con el artículo 26.6 de la Ley 50/1997, de 27 de noviembre, del Gobierno, este real decreto ha sido sometido a audiencia e información pública en el portal web del Ministerio de Energía, Turismo y Agenda Digital.
+
+Los artículos 149.1. 13.ª, 25.ª y 23.ª de la Constitución atribuyen al Estado competencia exclusiva sobre las bases y coordinación de la planificación general de la actividad económica, sobre las bases del régimen minero y energético y en materia de legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección, respectivamente. Este real decreto se ampara en dichos títulos competenciales, así como en la disposición final segunda de la Ley 34/1998, de 7 de octubre, que autoriza al Gobierno para aprobar, en el ámbito de sus competencias, mediante real decreto las normas de desarrollo de dicha ley, además del resto de fundamentos previamente referidos.
+
+En su virtud, a propuesta del Ministro de Energía, Turismo y Agenda Digital, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 27 de abril de 2018,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+Constituye el objeto del presente real decreto:
+
+a) Establecer un método de cálculo para determinar la intensidad de las emisiones de gases de efecto invernadero de los combustibles y la energía utilizados en el transporte y regular la remisión de información al respecto, según lo establecido en la Directiva (UE) 2015/652 del Consejo, de 20 de abril de 2015, por la que se establecen métodos de cálculo y requisitos de notificación de conformidad con la Directiva 98/70/CE del Parlamento Europeo y del Consejo, relativa a la calidad de la gasolina y el gasóleo.
+
+b) Establecer un objetivo indicativo de venta o consumo de biocarburantes avanzados.
+
+c) Adaptar los criterios de sostenibilidad de los biocarburantes y biolíquidos a lo establecido en la Directiva (UE) 2015/1513, del Parlamento Europeo y del Consejo, de 9 de septiembre de 2015, por la que se modifican la Directiva 98/70/CE, relativa a la calidad de la gasolina y el gasóleo, y la Directiva 2009/28/CE, relativa al fomento del uso de energía procedente de fuentes renovables.
+
+d) Completar el desarrollo del Sistema Nacional de Verificación de la Sostenibilidad de los biocarburantes y biolíquidos pasando a un sistema definitivo.
+
+### Artículo 2. Definiciones.
+
+1\. A efectos de lo dispuesto en el presente real decreto, además de las establecidas en el artículo 2 del Real Decreto 1597/2011, de 4 de noviembre, por el que se regulan los criterios de sostenibilidad de los biocarburantes y biolíquidos, el Sistema Nacional de Verificación de la Sostenibilidad y el doble valor de algunos biocarburantes a efectos de su cómputo, se aplicarán las siguientes definiciones:
+
+a) Emisiones desde la fuente o emisiones *upstream*: todas las emisiones de gases de efecto invernadero generadas antes de la entrada de la materia prima en la refinería o planta de procesamiento en la que se produjo un combustible al que hace referencia el anexo.
+
+b) Bitumen o betún natural: cualquier fuente de materias primas de refinería que:
+
+1.º Posea una densidad API (American Petroleum Institute) de 10 grados como máximo, cuando la materia prima está situada en un yacimiento en el lugar de extracción, definida con arreglo al método de ensayo D287 de la American Society for Testing and Materials (ASTM);
+
+2.º presente una viscosidad media anual a la temperatura del yacimiento superior al resultado de la ecuación: viscosidad (mPa*s) = 518,98<sup>(e-0,038T)</sup>, donde T es la temperatura en grados centígrados;
+
+3.º se ajuste a la definición de arenas bituminosas del código de la nomenclatura combinada (NC) 2714 que figura en el Reglamento (CEE) n.º 2658/87 del Consejo, de 23 de julio de 1987, relativo a la nomenclatura arancelaria y estadística y al arancel aduanero común, y
+
+4.º se caracterice por el hecho de que la movilización de la fuente de la materia prima se lleva a cabo mediante extracción minera o drenaje por gravedad asistido por temperatura, cuando la energía térmica se deriva principalmente de fuentes distintas a la propia fuente de la materia prima.
+
+c) Pizarra bituminosa: cualquier fuente de materia prima de refinería situada en una formación rocosa que contenga querógeno sólido y corresponda a la definición de pizarra bituminosa del código NC 2714 tal como figura en el Reglamento (CEE) n.º 2658/87 y la movilización de la fuente de la materia prima se logra mediante extracción minera o drenaje por gravedad asistido por temperatura.
+
+d) Crudo convencional: cualquier materia prima de refinería que posea una densidad API superior a 10 grados cuando está situada en un yacimiento en su lugar de origen, medida con el método de ensayo D287 de la ASTM, y que no corresponda a la definición del código NC 2714 que figura en el Reglamento (CEE) n.º 2658/87.
+
+e) Valor de referencia: nivel medio de las emisiones de gases de efecto invernadero por unidad de energía derivadas de los combustibles fósiles utilizados en la Unión Europea en 2010, cuyo valor es de 94,1 g de CO<sub>2</sub> eq/MJ.
+
+f) Emisiones de gases de efecto invernadero durante el ciclo de vida: todas las emisiones netas de CO<sub>2</sub>, CH<sub>4</sub> y N<sub>2</sub>O que puedan atribuirse al combustible (incluidos todos sus componentes mezclados) o a la energía suministrada. Se incluyen todas las etapas pertinentes desde la extracción o el cultivo, incluidos los cambios de uso del suelo, el transporte y la distribución, la producción y la combustión, con independencia del lugar donde se hayan producido las emisiones.
+
+g) Emisiones de gases de efecto invernadero por unidad de energía: la masa total de emisiones de gases de efecto invernadero en equivalentes de CO<sub>2</sub> asociada al combustible o a la energía suministrada, dividida por el contenido total de energía del combustible o de la energía suministrada (para el combustible, expresado como su poder calorífico inferior).
+
+h) Gasolina: cualquier aceite mineral volátil destinado a alimentar los motores de combustión interna de encendido por chispa para propulsar vehículos, de los códigos NC 2710 12 41, 2710 12 45, 2710 12 49 y 2710 12 50.
+
+i) Combustibles diésel: los gasóleos comprendidos en el código N 2710 19 43 utilizados para la propulsión de vehículos automóviles contemplados en las Directivas 70/220/CEE y 88/77/CEE.
+
+> Se modifica la letra a) y se añaden la f), g), h) e i) por la disposición final 3.1 y 2 del Real Decreto 376/2022, de 17 de mayo. [Ref. BOE-A-2022-8121](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-8121)
+
+## CAPÍTULO II — Información sobre la intensidad de emisiones de gases de efecto invernadero de los combustibles y la energía utilizados en el transporte
+
+### Artículo 3. Cálculo de la intensidad de las emisiones de gases de efecto invernadero de los combustibles y la energía suministrados en el transporte.
+
+1\. Para determinar la intensidad de las emisiones de gases de efecto invernadero de los combustibles y la energía suministrados en el transporte se utilizará el método de cálculo que figura en el anexo de este real decreto.
+
+2\. Las emisiones de gases de efecto invernadero durante el ciclo de vida, generadas por los combustibles y la electricidad, se compararán con el valor de referencia definido en el apartado e) del artículo 2, a los efectos de valorar la reducción de emisiones llevadas a cabo en el transporte.
+
+3\. Por resolución del Secretario de Estado de Energía se determinarán los valores medios nacionales de la intensidad de las emisiones de gases de efecto invernadero por defecto durante el ciclo de vida en relación con la electricidad consumida por motocicletas y vehículos eléctricos, según lo dispuesto en el punto 6 de la parte 2 del anexo.
+
+4\. Por orden de la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico se establecerá el procedimiento para la admisión y validación de la reducción de emisiones desde la fuente previstas en el anexo para el cálculo de la intensidad de las emisiones de gases de efecto invernadero de los combustibles y de la energía suministrados en el transporte, los requisitos que deben cumplir, así como la información a remitir por los sujetos del artículo 5 para su contabilización, pudiéndose completar o modificar lo previsto en el anexo a este respecto.
+
+> Se modifica el apartado 4 por la disposición final 3.3 del Real Decreto 376/2022, de 17 de mayo. [Ref. BOE-A-2022-8121](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-8121)
+
+### Artículo 4. Requisitos de información en relación con la intensidad de las emisiones de gases de efecto invernadero de los combustibles y la energía suministrados en el transporte.
+
+1\. Antes del 31 de mayo de cada año, los sujetos previstos en el artículo 5, deberán remitir a la Dirección General de Política Energética y Minas, a través de la sede electrónica del Ministerio de Energía, Turismo y Agenda Digital, información auditada, sobre la intensidad de las emisiones de gases de efecto invernadero de los combustibles y la energía suministrados en el transporte recogidos en el artículo 6, durante el año natural anterior. Esta información se pondrá a disposición de la Oficina Española de Cambio Climático, del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente.
+
+La empresa auditora deberá cumplir, al menos, los siguientes requisitos: ser auditor externo, ser independiente, disponer de las aptitudes generales necesarias para el desempeño de auditorías y disponer de aptitudes específicas relacionadas con el cálculo de emisiones de gases de efecto invernadero.
+
+En el caso de los biocarburantes, como parte de la remisión de información prevista, los sujetos obligados deberán informar sobre los procesos de producción de biocarburantes, los volúmenes de biocarburantes derivados de las distintas materias primas citadas en el anexo III del Real Decreto 1597/2011, de 4 de noviembre, y las emisiones de gases de efecto invernadero durante el ciclo de vida por unidad de energía, incluidos los valores medios provisionales de las emisiones estimadas provisionales resultantes del cambio indirecto del uso de la tierra procedentes de los biocarburantes.
+
+2\. El formato y demás requisitos necesarios para la presentación de la información se establecerá por resolución de la Dirección General de Política Energética y Minas, que se publicará en el «Boletín Oficial del Estado».
+
+### Artículo 5. Sujetos obligados a la remisión de información relativa a la intensidad de las emisiones de gases de efecto invernadero de los combustibles y la energía suministrados en el transporte.
+
+1\. Los sujetos obligados a remitir la información relativa a la intensidad de las emisiones de gases de efecto invernadero en el transporte serán los siguientes:
+
+1.º Los operadores al por mayor, regulados en el artículo 42 de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, por sus ventas anuales en el mercado nacional, excluidas las ventas a otros operadores al por mayor.
+
+2.º Las empresas que desarrollen la actividad de distribución al por menor de productos petrolíferos, regulada en el artículo 43 de la Ley 34/1998, de 7 de octubre, en la parte de sus ventas anuales en el mercado nacional no suministrado por los operadores al por mayor o por otros distribuidores al por menor.
+
+3.º Los consumidores de productos petrolíferos, en la parte de su consumo anual no suministrado por operadores al por mayor o por las empresas que desarrollen la actividad de distribución al por menor de productos petrolíferos.
+
+4.º Los operadores al por mayor de gases licuados del petróleo (GLP), regulados en el artículo 45 de la Ley 34/1998, de 7 de octubre, por sus ventas anuales en el mercado nacional, excluidas las ventas a otros operadores al por mayor.
+
+5.º Las empresas que desarrollen una actividad de comercialización al por menor de gases licuados del petróleo, reguladas en el artículo 46 de la Ley 34/1998, de 7 de octubre, en la parte de sus ventas anuales en el mercado nacional no suministrada por los operadores al por mayor.
+
+6.º Los consumidores de gases licuados del petróleo en la parte de su consumo anual no suministrada por los operadores al por mayor regulados o por las empresas que desarrollen una actividad de comercialización de gases licuados del petróleo.
+
+7.º Los comercializadores de gas natural, definidos en el artículo 58, de la Ley 34/1998, de 7 de octubre, por sus ventas anuales en el mercado nacional, excluidas las ventas a otros comercializadores.
+
+8.º Los consumidores directos en mercado, en la parte de sus consumos de carácter firme no suministrados por los comercializadores a que hace referencia el punto anterior que suministren gas natural, biogás o gases manufacturados para su uso en el transporte en estaciones de servicio.
+
+2\. Aquellos sujetos no incluidos en el apartado anterior, que consuman o pongan en el mercado alguno de los combustibles o energía contenidos en el apartado 1 del artículo 6, podrán optar por remitir la información prevista en el artículo 4. Asimismo, podrán optar por contribuir a objetivos que, en su caso, se establezcan en relación con la reducción de emisiones de gases de efecto invernadero en el transporte, en cuyo caso pasarán a convertirse en sujetos obligados a reportar información, según lo previsto en este artículo.
+
+3\. Dos o más de los sujetos indicados en los apartados 1 y 2 anteriores, podrán optar por realizar una comunicación conjunta de la información, computando la intensidad de sus emisiones de gases de efecto invernadero de forma consolidada, en cuyo caso, dicho grupo se considerará un único sujeto a los efectos de este real decreto.
+
+4\. Por orden del Ministro de Energía, Turismo y Agenda Digital se podrán establecer condiciones específicas que deben cumplir los sujetos del apartado 1 para estar incluidos en la obligación de remisión de información recogida en el artículo 4. Asimismo, se podrán establecer excepciones para determinados sujetos, en función de su grado de participación en la cadena de suministro de los combustibles o la energía y se podrá regular la forma de realizar la comunicación conjunta a que hace referencia el apartado 3.
+
+### Artículo 6. Combustibles y energía suministrados en el transporte a incluir en la remisión de información acerca de la intensidad de las emisiones de gases de efecto invernadero.
+
+1\. La obligación de remisión de información recogida en el artículo 4 será de aplicación a las ventas o consumos efectuados, por los sujetos obligados del artículo 5, de los siguientes combustibles y energía suministrados en el transporte:
+
+a) Combustibles utilizados para propulsar vehículos de carretera, máquinas móviles no de carretera, incluidos los buques de navegación interior cuando no se hallen en el mar y el ferrocarril, tractores agrícolas y forestales y embarcaciones de recreo cuando no se hallen en el mar.
+
+b) Electricidad destinada a vehículos de carretera, si se puede demostrar que se ha medido y verificado adecuadamente la electricidad suministrada para su uso en dichos vehículos.
+
+c) Biocarburantes para uso aéreo, siempre y cuando cumplan los criterios de sostenibilidad del Real Decreto 1597/2011, de 4 de noviembre.
+
+2\. Por orden del Ministro de Energía, Turismo y Agenda Digital podrán incluirse otros combustibles y energía suministrados para el transporte.
+
+### Disposición adicional única.
+
+Se deja sin efecto la Resolución de 2 de abril de 2014, de la Secretaría de Estado de Energía, por la que se aprueba el listado de materias primas para la fabricación de biocarburantes de doble cómputo a efectos del cumplimiento de las obligaciones de consumo y venta de biocarburantes con fines de transporte, de las obligaciones impuestas a los sujetos obligados en materia de energías renovables y del objetivo establecido para la utilización de la energía procedente de fuentes renovables en todas las formas de transporte.
+
+### Disposición transitoria única. Primer envío de la información prevista en el apartado 1 del artículo 4.
+
+El primer envío de la información prevista en el apartado 1 del artículo 4, a remitir por los sujetos obligados en el artículo 5, se efectuará antes del 31 de mayo de 2019, incluyendo los datos correspondientes a todo el año natural 2018.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente real decreto.
+
+### Disposición final primera. Modificación del Real Decreto 1597/2011, de 4 de noviembre, por el que se regulan los criterios de sostenibilidad de los biocarburantes y biolíquidos, el Sistema Nacional de Verificación de la Sostenibilidad y el doble valor de algunos biocarburantes a efectos de su cómputo.
+
+Se modifica el Real Decreto 1597/2011, de 4 de noviembre, por el que se regulan los criterios de sostenibilidad de los biocarburantes y biolíquidos, el Sistema Nacional de Verificación de la Sostenibilidad y el doble valor de algunos biocarburantes a efectos de su cómputo, en los siguientes términos:
+
+Uno. Se añaden los apartados 9 a 18 en el artículo 2, con la siguiente redacción:
+
+«9. Residuo: cualquier sustancia u objeto del cual su poseedor se desprenda o tenga la intención o la obligación de desprenderse. Quedan excluidas las sustancias que hayan sido modificadas o contaminadas de forma intencionada para ajustarlas a esta definición.
+
+10\. Cultivos ricos en almidón: los cultivos que incluyen, principalmente, cereales, con independencia de si se aprovechan solo los granos o la planta entera (como en el maíz verde), los cultivos de tubérculos y raíces (como la patata, el tupinambo, el boniato, la yuca y el ñame) y los cultivos de cormos (como la malanga y la colocasia).
+
+11\. Materiales lignocelulósicos: materias compuestas de lignina, celulosa y hemicelulosa, como la biomasa procedente de los bosques, los cultivos energéticos leñosos y los residuos y desechos de las industrias de base forestal.
+
+12\. Materias celulósicas no alimentarias: Las materias primas que se componen principalmente de celulosa y hemicelulosa y cuyo contenido de lignina es inferior al de los materiales lignocelulósicos. Se incluyen en esta definición los residuos de cultivos para alimentos y piensos (como la paja, los tallos, las envolturas y las cáscaras), los cultivos de hierbas energéticos con bajo contenido de almidón (como el ballico, el pasto varilla, el pasto elefante, la caña común, los cultivos de cobertura antes y después de los cultivos principales, etc.), los residuos industriales (incluidos los procedentes de cultivos para alimentos y piensos una vez extraídos los aceites vegetales, los azúcares, los almidones y las proteínas) y la materia procedente de residuos orgánicos.
+
+13\. Residuo de la transformación: sustancia que no es el producto o productos finales que el proceso de producción busca producir directamente; no es el objetivo primario del proceso de producción y el proceso no ha sido modificado de forma deliberada para producirlo.
+
+14\. Combustibles líquidos y gaseosos renovables de origen no biológico para el transporte: los combustibles líquidos o gaseosos distintos de los biocarburantes cuyo contenido energético provenga de fuentes de energía renovables distintas de la biomasa y que se utilizan en el transporte.
+
+15\. Residuos agrícolas, de la acuicultura, pesqueros y forestales: los residuos directamente generados por la agricultura, la acuicultura, la pesca y la explotación forestal; no incluyen los residuos procedentes de industrias conexas o de la transformación.
+
+16\. Biocarburantes y biolíquidos con bajo riesgo de cambio indirecto del uso de la tierra: aquellos biocarburantes y biolíquidos cuyas materias primas hayan sido producidas en el marco de regímenes que reduzcan el desplazamiento de la producción con fines distintos a los de producir biocarburantes y biolíquidos y que hayan sido producidas de acuerdo con los criterios de sostenibilidad para biocarburantes y biolíquidos establecidos en el artículo 4 de este real decreto.
+
+17\. Energía procedente de fuentes renovables: la energía procedente de fuentes renovables no fósiles, es decir, energía eólica, solar, aerotérmica, geotérmica, hidrotérmica y oceánica, hidráulica, biomasa, gases de vertedero, gases de plantas de depuración y biogás.
+
+18\. Biocarburantes avanzados: biocarburantes producidos a partir de materias primas y otros carburantes, enumerados en la parte A del anexo IV».
+
+Dos. Se modifica el artículo 4, apartado 1, que pasa a tener la siguiente redacción:
+
+«1. A partir del 1 de enero de 2018, la reducción de las emisiones de gases de efecto invernadero derivada del uso de biocarburantes y biolíquidos considerados para los fines contemplados en el artículo 3, apartado 1, será de un 60 por ciento como mínimo en el caso de los biocarburantes y biolíquidos producidos en instalaciones que empiecen a estar operativas después del 5 de octubre de 2015. Se considerará que una instalación está operativa cuando haya tenido lugar la producción física de biocarburantes o biolíquidos.
+
+En el caso de las instalaciones que estén operativas el 5 de octubre de 2015 o antes de esa fecha, la reducción de las emisiones de gases de efecto invernadero derivada del uso de biocarburantes y biolíquidos considerados para los fines contemplados en el artículo 3, apartado 1, será de un 35 por ciento como mínimo durante todo el año 2017, y del 50 por ciento como mínimo a partir del 1 de enero de 2018.
+
+Estas reducciones de las emisiones de gases de efecto invernadero derivada del uso de biocarburantes y biolíquidos se calculará conforme a lo dispuesto en el artículo 5 del presente real decreto».
+
+Tres. El apartado 2 se modifica y se suprime el apartado 3 del artículo 5, quedando aquel redactado como sigue:
+
+«2. Como alternativa a los valores reales de las emisiones en la etapa de cultivo, podrán utilizarse los valores promedio, correspondientes a un área geográfica determinada clasificada en el nivel NUTS 2 de la nomenclatura común de unidades territoriales estadísticas (NUTS), de conformidad con el Reglamento (CE) n.º 1059/2003, del Parlamento Europeo y del Consejo, de 26 de mayo de 2003, por la que se establece una nomenclatura común de las unidades territoriales estadísticas, en las que cabe esperar que las emisiones típicas de gases de efecto invernadero procedentes del cultivo de materias primas agrícolas sean inferiores o equivalentes a las emisiones contenidas en la tabla titulada “Valores por defecto desagregados para el cultivo” de la parte D del anexo I del presente real decreto, siempre que dichas zonas figuren en los informes remitidos por los Estados miembros a la Comisión para notificarle dicha circunstancia o en unos informes equivalentes a aquellos, elaborados por los organismos competentes en el caso de los territorios situados fuera de la Unión, siempre que estén reconocidos por la Comisión Europea a estos efectos, o en los niveles NUTS 3 o NUTS 4, que se recogen en las partes A y B, respectivamente, del anexo II».
+
+Cuatro. Se modifica el apartado 4 del artículo 8, que pasa a tener la siguiente redacción:
+
+«4. Las entidades de verificación de la sostenibilidad son las encargadas de realizar el informe de verificación de la sostenibilidad de los biocarburantes y biolíquidos a que hace referencia el artículo 11.1.c) de este real decreto. Dichas entidades deberán estar acreditadas, para realizar dicha actividad, como entidad de certificación de producto conforme a la norma UNE-EN ISO/IEC 17065 o norma que lo actualice o sustituya. Dicha acreditación deberá haber sido concedida por la Entidad Nacional de Acreditación (ENAC) o por otro organismo nacional de acreditación de los establecidos en el Reglamento (CE) 765/2008 del Parlamento Europeo y del Consejo, de 9 de julio de 2008, por el que se establecen los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos y por el que se deroga el Reglamento (CEE) n.º 339/93, siempre que el organismo que las haya otorgado se haya sometido con éxito al sistema de evaluación por pares previsto en dicho Reglamento».
+
+Cinco. Se modifican los tres primeros párrafos y se suprime el cuarto párrafo del apartado 1.c) del artículo 11, que pasan a tener la siguiente redacción:
+
+«c) Un informe de verificación de la sostenibilidad, emitido por una entidad de verificación de las definidas en el artículo 8 o por una entidad que participa al amparo de un régimen nacional o internacional voluntario reconocido por la Comisión a estos efectos o que actúa en el marco de un acuerdo bilateral o multilateral celebrado por la Unión Europea con terceros países, en el que conste que todos y cada uno de los agentes económicos del sistema han aplicado el sistema de balance de masa del artículo 7, que permite la trazabilidad del producto y que se ha cumplido:
+
+c.1) El requisito de reducción de emisiones de gases de efecto invernadero, indicando para cada partida el porcentaje de reducción conseguido, y las cantidades de biocarburantes y biolíquidos en unidades de energía correspondientes a cada categoría del grupo de materias primas enumeradas en la parte A del anexo III.
+
+Se indicará si se han utilizado para el cumplimiento de este requisito los valores por defecto, parciales o globales, recogidos en el anexo I de este real decreto, los valores promedio recogidos en el anexo II, o, los valores que figuran en los informes mencionados en el apartado 2 del artículo 5. Igualmente, se mencionará el tipo de proceso de fabricación utilizado para aquellos biocarburantes para los cuales existe más de un valor por defecto o más de un valor por defecto desagregado en el anexo I del presente real decreto, así como cuando se emplee un valor real para las emisiones».
+
+Seis. Se modifica el último párrafo del apartado 1.c. del artículo 11, quedando redactado como sigue:
+
+«En caso de que el biocarburante o biolíquido se hubiera producido a partir de desechos y/o residuos, con excepción de los residuos agrícolas, de la acuicultura, pesqueros y forestales, no se deberán incluir los requisitos c.2) y c.3), circunstancia que se indicará expresamente en el informe».
+
+Siete. Se modifica el apartado 3 del artículo 11, que queda redactado como sigue:
+
+«3. Con el fin de permitir la trazabilidad de toda esta información a lo largo de la cadena de producción, todos los agentes económicos del sistema nacional de verificación de la sostenibilidad de los biocarburantes y biolíquidos deberán disponer de un sistema auditable para las pruebas relacionadas con los informes que hagan o en que se basen que permita demostrar, en su caso, el cumplimiento de los criterios de sostenibilidad mencionados en los apartados 1, 2, 3 y 4 del artículo 4 de este real decreto, debiendo mantener dichas pruebas durante un período mínimo de cinco años».
+
+Ocho. Se modifica el apartado 2 del artículo 12, que queda redactado como sigue:
+
+«En caso de comprobarse la inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento que se acompañe o incorpore a los informes, así como el incumplimiento de los requisitos exigidos en el presente real decreto para aquellos biocarburantes y biolíquidos que se destinen a los fines recogidos en el artículo 3 de este real decreto, será de aplicación, con los efectos y sanciones que procedan, una vez incoado el correspondiente expediente sancionador, el título VI de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, sin perjuicio de la responsabilidades penales, civiles o administrativas a que hubiera lugar».
+
+Nueve. Se modifica el artículo 14, que queda redactado como sigue:
+
+«1. Para demostrar el cumplimiento de las obligaciones de venta o consumo de biocarburantes con fines de transporte y el objetivo establecido para la utilización de la energía procedente de fuentes renovables en todas las formas de transporte, se considerará que los biocarburantes producidos a partir de las materias primas enumeradas en el anexo IV equivalen al doble de su contenido en energía.
+
+Los biocarburantes producidos a partir de las materias primas enumeradas en el citado anexo IV no se contabilizarán a efectos del límite establecido en el apartado 3, artículo 2 del Real Decreto 1085/2015, de 4 de diciembre, de fomento de los Biocarburantes.
+
+2\. Cuando los biocarburantes se produzcan sólo parcialmente a partir de alguna de las sustancias o materiales mencionados en el apartado anterior, solo se aplicará la doble contabilización a la parte física del biocarburante fabricado a partir de dichas sustancias o materiales.
+
+3\. Para la certificación de los biocarburantes a efectos de lo dispuesto en este artículo, las materias primas y el biocarburante correspondiente deberán ir acompañados de la información y documentación que demuestre su procedencia y origen, en la forma y con la periodicidad que la entidad de certificación establezca. Asimismo, se podrán establecer aquellos otros requisitos que se estimen procedentes, en su caso, a los efectos de definir las medidas de control del doble cómputo, para reducir al mínimo el riesgo de que una misma partida se declare más de una vez o de que se modifiquen o se descarten de forma intencionada materias primas con el fin de quedar incluidas en el anexo IV. Asimismo, la entidad de certificación podrá definir qué se entiende por uso del aceite».
+
+Diez. Se suprimen los apartados 2 y 5 y se modifican los apartados 1 y 4 de la disposición transitoria única, quedando redactados estos últimos como sigue:
+
+«1. Hasta el 31 de diciembre de 2018, el informe de verificación de la sostenibilidad a que hace referencia el apartado 1.c) del artículo 11, podrá ser sustituido por una declaración responsable de cada uno de los agentes económicos del artículo 9, según el modelo aprobado por circular de la Comisión Nacional de los Mercados y la Competencia, en la que conste que:
+
+i. Se ha aplicado el sistema de balance de masa del artículo 7, que permite la trazabilidad del producto.
+
+ii. Se cumplen los criterios de sostenibilidad de los biocarburantes y biolíquidos.
+
+En el caso de que las partidas de biocarburantes y biolíquidos vendidas o consumidas hayan sido certificadas en el marco de un sistema voluntario reconocido por la Comisión Europea o se acojan a lo dispuesto en un acuerdo bilateral o multilateral celebrado por dicha Comisión, en la declaración responsable se deberá indicar tal extremo y la denominación del régimen voluntario o acuerdo aplicado.
+
+[…]
+
+4\. Los agentes económicos del Sistema Nacional de Verificación de la sostenibilidad de los biocarburantes y biolíquidos, deberán disponer de un sistema auditable de las pruebas relacionadas con las declaraciones que hagan o en las que se basen, manteniendo cualquier prueba durante un mínimo de cinco años, y adoptar las medidas necesarias para garantizar un nivel adecuado de auditoría independiente de la información que presenten y demostrar, en caso de que sea requerido, que la han llevado a cabo.
+
+En caso de comprobarse la inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento que se acompañe o incorpore a la declaración responsable, así como el incumplimiento de los requisitos exigidos en el presente real decreto, para aquellos biocarburantes y biolíquidos que se destinen a los fines recogidos en el artículo 3 del mismo real decreto, será de aplicación, con los efectos y sanciones que procedan, una vez incoado el correspondiente expediente sancionador, el título VI de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, sin perjuicio de la responsabilidades penales, civiles o administrativas a que hubiera lugar».
+
+Once. Se suprimen los apartados 3.d), 5.c) y 6 de la disposición final tercera y se modifican los apartados 1 y 4, que pasan a tener la siguiente redacción:
+
+«1. El Ministro de Energía, Turismo y Agenda Digital dictará las disposiciones necesarias para desarrollar las directrices para la realización del informe de verificación de la sostenibilidad previsto en el artículo 11.c, así como para la realización de las auditorías correspondientes, modificar los aspectos técnicos regulados en el articulado de este real decreto y actualizar el contenido de los anexos para adaptarlos a lo previsto en la normativa comunitaria o a la evolución del sector de producción de los biocarburantes.
+
+[…]
+
+4\. El Secretario de Estado de Energía podrá aprobar, mediante resolución, un listado de los desechos y/o residuos, además de los incluidos en el anexo IV, a efectos de lo previsto en el apartado 2 del artículo 3».
+
+Doce. Se modifica el punto 7 de la parte C del anexo I que pasa a tener el siguiente contenido:
+
+«7. Las emisiones anualizadas procedentes de las modificaciones en las reservas de carbono causadas por un cambio del uso de la tierra, e<sub>l</sub>, se calcularán dividiendo las emisiones totales por igual a lo largo de 20 años. Para el cálculo de esas emisiones, se aplicará la siguiente fórmula:
+
+e<sub>l</sub> = (CS<sub>R</sub> – CS<sub>A</sub>) × 3,664 × 1/20 × 1/P – e<sub>B</sub> (*)
+
+Siendo:
+
+e<sub>l</sub> = Las emisiones anualizadas de gases de efecto invernadero procedentes de las modificaciones en las reservas de carbono causadas por el cambio de uso de la tierra [expresadas como masa equivalente (gramos) de CO<sub>2</sub> por unidad de energía producida por biocarburantes o biolíquidos (megajulios)]. “Las tierras de cultivo” (**) y las tierras usadas para “cultivos vivaces” (***) se considerarán un único uso de la tierra.
+
+(*) Al dividir el peso molecular del CO<sub>2</sub> (44,010 g/mol) por el peso atómico del carbono (12,011 g/mol) se obtiene un cociente de 3,664.
+
+(**) Tierras de cultivo definidas por el Grupo Intergubernamental de Expertos sobre el Cambio Climático.
+
+(***) Los cultivos vivaces se definen como cultivos multianuales cuyo tallo no se recoge anualmente, como el monte bajo de rotación corta y la palmera de aceite.
+
+CS<sub>R</sub> = Las reservas de carbono por unidad de superficie asociadas al uso de la tierra de referencia [expresadas como masa de carbono (toneladas) por unidad de superficie, incluidos tanto el suelo como la vegetación]. El uso de la tierra de referencia será el uso de la tierra en enero de 2008, o bien 20 años antes de que se obtuvieran las materias primas, si esta fecha es posterior.
+
+CS<sub>A</sub> = Las reservas de carbono por unidad de superficie asociadas al uso real de la tierra [expresadas como masa de carbono (toneladas) por unidad de superficie, incluidos tanto el suelo como la vegetación]. En los casos en que las reservas de carbono se acumulen durante un período superior a un año, el valor de CS<sub>A</sub> será el de las reservas estimadas por unidad de superficie después de 20 años, o cuando el cultivo alcance su madurez, si esta fecha es anterior.
+
+P = La productividad de los cultivos (medida como la energía producida por los biocarburantes y biolíquidos por unidad de superficie al año).
+
+e<sub>B</sub> = Prima de 29 g CO<sub>2</sub> eq/MJ para el biocarburante o biolíquido cuya biomasa se obtiene de tierras degradadas restauradas según las condiciones establecidas en el punto 8.
+
+El cambio del uso de la tierra debe entenderse como referido a los cambios relativos a la cobertura del suelo entre las seis categorías que distingue el IPCC (tierras forestales, pastizales, tierras de cultivo, humedales, asentamientos y otras tierras), más una séptima categoría de cultivos vivaces. Esto significa, por ejemplo, que un cambio de pastizal a tierra de cultivo es un cambio en el uso del suelo, mientras que un cambio de un cultivo (como el maíz) a otro (como la colza) no lo es. Las tierras de cultivo incluyen las tierras en barbecho (es decir, tierras retiradas de la producción durante uno o varios años antes de ser cultivadas de nuevo). Un cambio de las actividades de gestión, la práctica de la labranza o la práctica del abonado no se consideran un cambio en el uso del suelo».
+
+Trece. Se añade un nuevo anexo III con el siguiente contenido:
+
+## «ANEXO III
+
+Parte A
+
+Emisiones estimadas provisionales de las materias primas de biocarburantes y biolíquidos, resultantes del cambio indirecto del uso de la tierra (g CO<sub>2</sub> eq/MJ). (1)
+
+| Grupo de materias primas | Media (2) | Intervalo interpercentil derivado del análisis de sensibilidad (3) |
+|---|---|---|
+| Cereales y otros cultivos ricos en almidón | 12 | 8 a 16 |
+| Azúcares | 13 | 4 a 17 |
+| Oleaginosas | 55 | 33 a 66 |
+
+Parte B
+
+Biocarburantes y biolíquidos para los que las emisiones estimadas resultantes del cambio indirecto del uso de la tierra se consideran cero
+
+Se considerará que las emisiones estimadas resultantes del cambio indirecto del uso de la tierra equivalen a cero en el caso de los biocarburantes y biolíquidos producidos a partir de las siguientes categorías de materias primas:
+
+1) Materias primas no incluidas en la parte A del presente anexo.
+
+2) Materias primas cuya producción haya llevado a un cambio directo del uso de la tierra, es decir, a un cambio de una de las siguientes categorías de cobertura del suelo establecidas por el IPCC: tierras forestales, pastizales, humedales, asentamientos y otras tierras, a tierras de cultivo o cultivos vivaces (4). En tal caso, deberá haberse calculado un valor e<sub>l</sub> (emisiones resultantes del cambio directo del uso de la tierra), de conformidad con el anexo I, parte C, punto 7.
+
+(1) Los valores medios aquí comunicados representan una media ponderada de los valores de materias primas modelados individualmente. La magnitud de los valores que se incluyen en el anexo es sensible a la serie de hipótesis de trabajo (como el tratamiento de los coproductos, la evolución de las cosechas, las reservas de carbono y el desplazamiento de otras materias) utilizadas en los modelos económicos empleados para su cálculo. Si bien no es posible calibrar plenamente el grado de incertidumbre asociado a dichos cálculos, se realizó un análisis de sensibilidad de dichos resultados basado en una variación aleatoria de los parámetros clave, denominado “análisis Monte Carlo”.
+
+(2) Los valores medios aquí incluidos representan una media ponderada de los valores de materias primas modelados individualmente.
+
+(3) La serie aquí incluida refleja el 90 % de los resultados utilizando los valores de los percentiles cinco y noventa y cinco resultantes del análisis. El percentil cinco sugiere un valor por debajo del cual se realizaron el 5 % de las observaciones (o sea, el 5 % de los datos totales usados mostraron resultados inferiores a 8, 4 y 33 g CO<sub>2</sub> eq/MJ). El percentil noventa y cinco sugiere un valor por debajo del cual se realizaron el 95 % de las observaciones (o sea, el 5 % de los datos totales usados mostraron resultados inferiores a 16, 17 y 66 g CO<sub>2</sub> eq/MJ).
+
+(4) Los cultivos vivaces se definen como cultivos multianuales cuyo tallo no se recoge anualmente, como el monte bajo de rotación corta y la palmera de aceite».
+
+Catorce. Se incluye un nuevo anexo IV con el siguiente contenido:
+
+## «ANEXO IV — Materias primas y carburantes de doble cómputo a efectos del cumplimiento de las obligaciones de venta o consumo de biocarburantes con fines de transporte y el objetivo establecido para la utilización de la energía procedente de fuentes renovables en todas las formas de transporte
+
+Parte A
+
+a) Algas cultivadas en estanques terrestres o fotobiorreactores.
+
+b) Fracción de biomasa de residuos municipales mezclados, pero no de residuos domésticos separados sujetos a los objetivos de reciclado establecidos en la letra a), del apartado 1 del artículo 22, de la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados.
+
+c) Biorresiduos recogidos de hogares particulares, es decir, residuos biodegradables de jardines, residuos alimenticios y de cocina procedentes de hogares, sujetos a la recogida separada, es decir, a la recogida en la que un flujo de residuos se mantiene por separado, según su tipo y naturaleza, para facilitar un tratamiento específico.
+
+d) Fracción de biomasa de residuos industriales no apta para su uso en la cadena alimentaria humana o animal, incluido material procedente de la venta al detalle o al por mayor y de la industria agroalimentaria o de la pesca y la acuicultura, con exclusión de las materias primas que figuran en la parte B del presente anexo.
+
+e) Paja.
+
+f) Estiércol animal y lodos de depuración.
+
+g) Efluentes de molinos de aceite de palma y racimos de palma vacíos de la fruta.
+
+h) Alquitrán de aceite de resina.
+
+i) Glicerol en bruto.
+
+j) Bagazo.
+
+k) Orujo de uva y lías de vino.
+
+l) Cáscaras de frutos secos.
+
+m) Envolturas.
+
+n) Residuos de mazorca limpios de germen de maíz.
+
+o) Fracción de biomasa de desechos y residuos de la silvicultura y de las industrias forestales, es decir cortezas, ramas, aclareos precomerciales, hojas, agujas, copas de árboles, serrín, virutas, lejía negra, lejía marrón, lodos de fibra, lignina y aceite de resina.
+
+p) Otras materias celulósicas no alimentarias definidas en el apartado 12 del artículo 2.
+
+q) Otras materias lignocelulósicas definidas en el apartado 11 del artículo 2, a excepción de las trozas de aserrío y las trozas para chapa.
+
+r) Combustibles líquidos y gaseosos renovables de origen no biológico para el transporte.
+
+s) Captura y utilización del carbono con fines de transporte, si la fuente de energía es renovable, de conformidad con el apartado 17 del artículo 2.
+
+t) Bacterias, si la fuente de energía es renovable de conformidad con el apartado 17 del artículo 2.
+
+Parte B
+
+a) Aceite de cocina usado.
+
+b) Grasas animales clasificadas en las categorías 1 y 2 con arreglo al Reglamento (CE) n.º 1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen las normas sanitarias aplicables a los subproductos animales y los productos derivados no destinados al consumo humano y por el que se deroga el Reglamento (CE) n.º 1774/2002».
+
+### Disposición final segunda. Modificación del Real Decreto 1085/2015, de 4 de diciembre, de fomento de los Biocarburantes.
+
+Se modifica el apartado 4 del artículo 2, del Real Decreto 1085/2015, de 4 de diciembre, de fomento de los Biocarburantes, que pasa a tener la siguiente redacción:
+
+«4. Se establece un objetivo indicativo del 0,1 por ciento, en contenido energético, de biocarburantes avanzados en el año 2020, para los sujetos obligados a acreditar el cumplimiento de los objetivos de venta o consumo de biocarburantes con fines de transporte, recogidos en el artículo 3. Dichos sujetos obligados deberán acreditar, ante la entidad de certificación, el objetivo alcanzado.
+
+El objetivo a que hace referencia el párrafo anterior es el porcentaje de ventas o consumos de biocarburantes avanzados sobre el total de gasolina y gasóleo vendidos o consumidos con fines de transporte, en contenido energético, incluyendo los biocarburantes, y se calculará para cada uno de los sujetos obligados citados.
+
+A estos efectos, se consideran biocarburantes avanzados los definidos en el apartado 18 del artículo 2 del Real Decreto 1597/2011, de 4 de noviembre, por el que se regulan los criterios de sostenibilidad de los biocarburantes y biolíquidos, el Sistema Nacional de Verificación de la Sostenibilidad y el doble valor de algunos biocarburantes a efectos de su cómputo.
+
+Por orden del Ministro de Energía, Turismo y Agenda Digital, previo informe a la Comisión Delegada del Gobierno para Asuntos Económicos, se podrá modificar el objetivo de biocarburantes avanzados, en función de la disponibilidad de los mismos y de las materias primas utilizadas para su fabricación, así como de la previsión de energía final suministrada en el transporte. Asimismo, se podrá establecer un factor multiplicador del contenido energético de los biocarburantes considerados avanzados».
+
+### Disposición final tercera. Título competencial.
+
+Este real decreto se dicta al amparo de lo previsto en el artículo 149.1. 13.ª, 25.ª y 23.ª de la Constitución, que atribuye al Estado competencia exclusiva sobre las bases y coordinación de la planificación general de la actividad económica, sobre las bases del régimen minero y energético y en materia de legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección, respectivamente.
+
+### Disposición final cuarta. Incorporación de normas del Derecho de la Unión Europea.
+
+Mediante este real decreto se incorpora al ordenamiento jurídico nacional:
+
+a) La Directiva (UE) 2015/652 del Consejo, de 20 de abril de 2015, por la que se establecen métodos de cálculo y requisitos de notificación de conformidad con la citada Directiva 98/70/CE.
+
+b) Parcialmente la Directiva (UE) 2015/1513 del Parlamento Europeo y del Consejo, de 9 de septiembre de 2015, por la que se modifican la Directiva 98/70/CE, relativa a la calidad de la gasolina y el gasóleo, y la Directiva 2009/28/CE, relativa al fomento del uso de energía procedente de fuentes renovables.
+
+### Disposición final quinta. Autorización para la modificación del anexo de este real decreto.
+
+Se autoriza al Ministro de Energía, Turismo y Agenda Digital a modificar, mediante orden, el anexo de este real decreto a fin de mantenerlo permanentemente actualizado de acuerdo con los avances técnicos y los actos y normas del Derecho Internacional y del Derecho de la Unión Europea.
+
+### Disposición final sexta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 27 de abril de 2018.
+
+FELIPE R.
+
+El Ministro de Energía, Turismo y Agenda Digital,
+
+ÁLVARO NADAL BELDA
+
+## ANEXO — Método de cálculo y requisitos de información de la intensidad de las emisiones de gases de efecto invernadero durante el ciclo de vida de los combustibles y la energía suministrados en el transporte
+
+Parte 1
+
+Cálculo de la intensidad de las emisiones de gases de efecto invernadero de los combustibles y de la energía suministrados en el transporte
+
+La intensidad de las emisiones de gases de efecto invernadero de los combustibles y de la energía suministrados se expresa en gramos equivalentes de dióxido de carbono por megajulio de combustible (g CO<sub>2</sub> eq/MJ).
+
+1\. Los gases de efecto invernadero que se tendrán en cuenta para calcular la intensidad de las emisiones de gases de efecto invernadero de los combustibles son el dióxido de carbono (CO<sub>2</sub>), el óxido nitroso (N<sub>2</sub>O) y el metano (CH<sub>4</sub>). A efectos del cálculo de la equivalencia en CO<sub>2</sub>, las emisiones de esos gases se asocian a los valores de emisión siguientes:
+
+CO<sub>2</sub>: 1; CH<sub>4</sub>: 25; N<sub>2</sub>O: 298
+
+2\. En el cálculo de las emisiones de gases de efecto invernadero no se tendrán en cuenta las emisiones procedentes de la fabricación de la maquinaria y equipos utilizados en la extracción, producción, refino y consumo de combustibles fósiles.
+
+3\. La intensidad de las emisiones de gases de efecto de invernadero durante el ciclo de vida de todos los combustibles y energía suministrados por un sujeto obligado se calcula utilizando la fórmula siguiente:
+
+![8457.png](https://www.boe.es/datos/imagenes/disp/2018/105/05890_8457.png)
+
+Donde:
+
+a) GEIi<sub>n</sub> = Intensidad de gases de efecto invernadero de un sujeto obligado a la remisión de información.
+
+b) n = Sujeto obligado del artículo 5.
+
+c) x = tipo de combustible y energía del artículo 6 de este real decreto, como figuran en el anexo I, cuadro 1, punto 17, letra c), del Reglamento (CE) n.º 684/2009 de la Comisión, de 24 de julio de 2009, por el que se establecen disposiciones de aplicación de la Directiva 2008/118/CE del Consejo en lo que respecta a los procedimientos informatizados aplicables a la circulación de productos sujetos a impuestos especiales en régimen suspensivo.
+
+d) MJ<sub>x</sub>= Energía total suministrada del combustible x, expresada en megajulios. Se calcula como sigue:
+
+1.º La cantidad de cada combustible por tipo de combustible: Se calcula a partir de los datos comunicados conforme al anexo I, cuadro 1, punto 17, letras d), f) y o), del Reglamento (CE) n.º 684/2009, de 24 de julio de 2009.
+
+Para obtener el contenido energético de los biocarburantes suministrados, determinado por el poder calorífico inferior, se utilizarán los factores de conversión recogidos en el anexo de la Orden ITC/2877/2008, de 9 de octubre, por la que se establece un mecanismo de fomento del uso de biocarburantes y otros combustibles renovables con fines de transporte.
+
+El contenido energético de los combustibles de origen no biológico suministrados, determinado por el poder calorífico inferior, se obtendrá de acuerdo con las densidades de energía establecidas en el apéndice 1 del informe «Well-to-Tank» del consorcio Centro Común de Investigación EUCAR-CONCAWE (JEC) (versión 4) de julio de 2013.
+
+2.º Coprocesamiento simultáneo de combustibles fósiles y biocarburantes: Por procesamiento se entenderá cualquier modificación, durante el ciclo de vida de un combustible o energía suministrados, que provoque un cambio en la estructura molecular del producto. La adición de agentes desnaturalizantes no constituye un procesamiento.
+
+La cantidad de biocarburantes coprocesados con combustibles de origen no biológico refleja el estado de los biocarburantes tras el procesamiento. La cantidad del biocarburante coprocesado con combustible de origen no biológico se determinará de acuerdo con el balance energético y la eficiencia del proceso combinado, según se establece en el anexo I, parte C, punto 18, del Real Decreto 1597/2011, de 4 de noviembre.
+
+Cuando se mezclan varios biocarburantes con carburantes fósiles, en el cálculo se tendrá en cuenta la cantidad y el tipo de cada uno de ellos, debiendo comunicarse esta información.
+
+Los biocarburantes suministrados que no cumplan con los criterios de sostenibilidad establecidos en el citado Real Decreto 1597/2011, de 4 de noviembre, se contabilizarán como si fuesen un combustible fósil.
+
+La mezcla E85 de gasolina y etanol, será objeto de un cálculo independiente a los fines del artículo 6 del Reglamento (CE) n.º 443/2009 del Parlamento Europeo y del Consejo, de 23 de abril de 2009, por el que se establecen normas de comportamiento en materia de emisiones de los turismos nuevos como parte del enfoque integrado de la Comunidad para reducir las emisiones de CO<sub>2</sub> de los vehículos ligeros.
+
+3.º Cantidad de electricidad consumida: Es la cantidad de electricidad consumida por las motocicletas o los vehículos de carretera para cuya notificación se aplicará la fórmula siguiente:
+
+Electricidad consumida = distancia recorrida (km) × eficiencia del consumo de electricidad (MJ/km).
+
+e) Reducción de las emisiones desde la fuente o *upstream* (REU).
+
+Se entiende por REU la reducción de las emisiones de gases de efecto invernadero desde la fuente declarada por un sujeto obligado, medida en gramos de CO<sub>2</sub>eq, cuantificada y notificada de conformidad con los requisitos siguientes, además de los que se dispongan según lo previsto en el apartado 4 del artículo 3:
+
+i. Admisibilidad.
+
+Las REU solo se aplicarán a la parte correspondiente a las emisiones desde la fuente de los valores medios por defecto de la gasolina, el gasóleo, el GNC o el GLP.
+
+Las REU obtenidas en cualquier país podrán contabilizarse como una reducción de las emisiones de gases de efecto invernadero respecto a los combustibles procedentes de cualquier fuente de materias primas suministrados por cualquier proveedor.
+
+Solo se contabilizarán las REU si están asociadas a proyectos iniciados después del 1 de enero de 2011.
+
+No será necesario demostrar que las REU no se habrían producido sin el requisito de información establecido en este real decreto.
+
+ii. Cálculo.
+
+Las REU se estimarán y validarán de acuerdo con principios y normas internacionales, en particular las normas ISO 14064, ISO 14065 e ISO 14066.
+
+Las REU y las emisiones de referencia deben someterse a un seguimiento, notificación y verificación que sean conformes con la norma ISO 14064 y la fiabilidad de sus resultados ha de ser equivalente a la del Reglamento de Ejecución (UE) 2018/2067 de la Comisión, de 19 de diciembre de 2018, relativo a la verificación de los datos y a la acreditación de los verificadores de conformidad con la Directiva 2003/87/CE del Parlamento Europeo y del Consejo y el Reglamento de Ejecución (UE) 2018/2066 de la Comisión, de 19 de diciembre de 2018, sobre el seguimiento y la notificación de las emisiones de gases de efecto invernadero en aplicación de la Directiva 2003/87/CE del Parlamento Europeo y del Consejo y por el que se modifica el Reglamento (UE) n.° 601/2012 de la Comisión. La verificación de los métodos de estimación de las REU se realizará de acuerdo con la norma ISO 14064-3, y el organismo encargado de esa verificación estará acreditado con arreglo a la norma ISO 14065.
+
+f) «GEIi<sub>x</sub>» es la intensidad de las emisiones de gases de efecto invernadero del combustible o energía x, expresada en gramos de CO<sub>2</sub> eq/MJ. Los sujetos obligados calcularán la intensidad de las emisiones de gases de efecto invernadero de cada combustible o energía de la manera siguiente:
+
+1.º Combustibles de origen no biológico: La intensidad de las emisiones de gases de efecto invernadero de los combustibles de origen no biológico es la «intensidad ponderada de las emisiones de gases de efecto invernadero durante el ciclo de vida» de los combustibles que figuran en la última columna del cuadro recogido en el punto 5 de la parte 2 de este anexo.
+
+2.º Electricidad: La electricidad se calcula según se describe en el punto 6 de la parte 2.
+
+3.º Biocarburantes: La intensidad de las emisiones de gases de efecto invernadero de los biocarburantes que cumplan los criterios de sostenibilidad del Real Decreto 1597/2011, de 4 de noviembre, se calcula con arreglo a dicha norma. Si los datos sobre dichas emisiones se obtuvieron en el marco de un acuerdo bilateral o multilateral o de un régimen voluntario, según lo previsto en el citado real decreto y reconocidos por la Comisión Europea, tales datos se podrán utilizar a estos efectos. La metodología para demostrar que los biocarburantes son sostenibles es la establecida en el citado Real Decreto 1597/2011, de 4 de noviembre.
+
+La intensidad de las emisiones de gases de efecto invernadero de los biocarburantes que no cumplan los criterios de sostenibilidad es igual a la intensidad de las emisiones de gases de efecto invernadero de los combustibles fósiles correspondientes obtenidos de petróleo crudo o gas convencionales.
+
+4.º Coprocesamiento simultáneo de combustibles de origen no biológico y biocarburantes: La intensidad de las emisiones de gases de efecto invernadero de los biocarburantes procesados simultáneamente con combustibles fósiles reflejará el estado de los biocarburantes tras el procesamiento.
+
+g) «FA» representa los factores de ajuste correspondientes a las eficiencias del grupo motopropulsor:
+
+| Tecnología de conversión predominante | Factor de eficiencia |
+|---|---|
+| Motor de combustión interna | 1 |
+| Grupo motopropulsor eléctrico con batería | 0,4 |
+| Grupo motopropulsor eléctrico con pila de combustible de hidrógeno | 0,4 |
+
+Parte 2
+
+Informes de los sujetos obligados sobre combustibles que no sean biocombustibles
+
+1\. REU de combustibles fósiles.
+
+Para que las REU sean admisibles a los fines del método de cálculo y remisión de información recogida en el Real Decreto 1597/2011, de 4 de noviembre, los sujetos obligados deberán remitir la siguiente información, según lo que se determine de acuerdo con el artículo 3.4:
+
+a) La fecha de inicio del proyecto, que debe ser posterior al 1 de enero de 2011;
+
+b) La reducción anual de las emisiones, en g de CO<sub>2</sub>eq;
+
+c) El período durante el cual han tenido lugar las reducciones declaradas;
+
+d) El lugar del proyecto más cercano a la fuente de las emisiones, en coordenadas de latitud y longitud, expresadas en grados hasta el cuarto decimal;
+
+e) Las emisiones anuales de referencia antes de la instalación de las medidas de reducción y las emisiones anuales después de la aplicación de dichas medidas, expresadas en g de CO<sub>2</sub>eq/MJ de materia prima producida;
+
+f) El número no reutilizable de certificado que identifique inequívocamente el sistema y las reducciones de emisiones de gases de efecto invernadero declaradas;
+
+g) El número no reutilizable que identifique inequívocamente el método de cálculo y el sistema correspondiente;
+
+h) Con carácter voluntario, cuando el proyecto esté relacionado con la extracción de petróleo, la relación petróleo/gas en solución (el valor medio anual histórico y el del año de notificación), la presión del yacimiento, la profundidad y la tasa de producción de crudo del pozo.
+
+2\. Origen.
+
+**(Suprimido)**
+
+3\. Lugar de adquisición.
+
+**(Suprimido)**
+
+4\. Pymes.
+
+**(Suprimido)**
+
+5\. Valores por defecto de la intensidad media de las emisiones de gases de efecto invernadero durante el ciclo de vida de combustibles distintos de los biocarburantes y de la electricidad.
+
+<table class="tabla_ancha">
+<colgroup>
+<col class="row_column_11">
+<col class="row_column_12">
+<col class="row_column_13">
+<col class="row_column_14">
+</colgroup>
+<thead>
+<tr class="row_column_15">
+<td>
+<p class="cabeza_tabla">Fuente de materias primas y procesos</p>
+</td>
+<td>
+<p class="cabeza_tabla">Tipo de combustible comercializado</p>
+</td>
+<td>
+<p class="cabeza_tabla">Intensidad de las emisiones de GEI durante el ciclo de vida (g CO<sub>2</sub> eq/MJ)</p>
+</td>
+<td>
+<p class="cabeza_tabla">Intensidad ponderada de GEI durante el ciclo de vida (g CO<sub>2</sub> eq/MJ)</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_izq">Crudo convencional.</p>
+</td>
+<td rowspan="5">
+<p class="cuerpo_tabla_izq">Gasolina.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">93,2</p>
+</td>
+<td rowspan="5">
+<p class="cuerpo_tabla_centro">93,3</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_izq">Gas natural a líquido.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">94,3</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_izq">Carbón a líquido.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">172</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_izq">Bitumen o betún natural.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">107</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_izq">Pizarra bituminosa.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">131,3</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_izq">Crudo convencional.</p>
+</td>
+<td rowspan="5">
+<p class="cuerpo_tabla_izq">Diésel o Gasóleo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">95</p>
+</td>
+<td rowspan="5">
+<p class="cuerpo_tabla_centro">95,1</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_izq">Gas natural a líquido.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">94,3</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_izq">Carbón a líquido.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">172</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_izq">Bitumen o betún natural.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">108,5</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_izq">Pizarra bituminosa.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">133,7</p>
+</td>
+</tr>
+<tr class="row_column_16">
+<td>
+<p class="cuerpo_tabla_izq">Cualquier fuente fósil.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Gas licuado de petróleo para motor de explosión.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">73,6</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">73,6</p>
+</td>
+</tr>
+<tr class="row_column_16">
+<td>
+<p class="cuerpo_tabla_izq">Gas natural (combinación UE).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Gas natural comprimido para motor de explosión.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">69,3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">69,3</p>
+</td>
+</tr>
+<tr class="row_column_16">
+<td>
+<p class="cuerpo_tabla_izq">Gas natural (combinación UE).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Gas natural licuado para motor de explosión.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">74,5</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">74,5</p>
+</td>
+</tr>
+<tr class="row_column_16">
+<td>
+<p class="cuerpo_tabla_izq">Reacción de Sabatier del hidrógeno a partir de la electrólisis de energías renovables de origen no biológico.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Metano sintético comprimido para motor de explosión.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3,3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">3,3</p>
+</td>
+</tr>
+<tr class="row_column_16">
+<td>
+<p class="cuerpo_tabla_izq">Gas natural obtenido mediante proceso de reformado con vapor.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Hidrógeno comprimido para pila de combustible.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">104,3</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">104,3</p>
+</td>
+</tr>
+<tr class="row_column_16">
+<td>
+<p class="cuerpo_tabla_izq">Electrólisis totalmente alimentada por energías renovables de origen no biológico.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Hidrógeno comprimido para pila de combustible.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9,1</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">9,1</p>
+</td>
+</tr>
+<tr class="row_column_16">
+<td>
+<p class="cuerpo_tabla_izq">Carbón.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Hidrógeno comprimido para pila de combustible.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">234,4</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">234,4</p>
+</td>
+</tr>
+<tr class="row_column_16">
+<td>
+<p class="cuerpo_tabla_izq">Carbón con captura de carbono y almacenamiento de las emisiones del proceso.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Hidrógeno comprimido para pila de combustible.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">52,7</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">52,7</p>
+</td>
+</tr>
+<tr class="row_column_5">
+<td>
+<p class="cuerpo_tabla_izq">Residuos plásticos derivados de materias primas fósiles.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Gasolina, diésel o gasóleo.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">86</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">86</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+6\. Electricidad.
+
+Los valores medios nacionales por defecto de las emisiones durante el ciclo de vida en relación con la electricidad consumida por motocicletas y vehículos eléctricos se establecerán con arreglo a las normas internacionales adecuadas, según se dispone en el apartado 3 del artículo 3 del presente real decreto.
+
+Los sujetos obligados a remitir información, en tanto en cuanto no estén regulados los valores anteriormente citados, podrán establecer valores de intensidad de las emisiones de gases de efecto invernadero (g CO<sub>2</sub> eq/MJ) por unidad de electricidad a partir de los datos comunicados a la Comisión Europea con arreglo a los siguientes actos:
+
+a) Reglamento (CE) n.º 1099/2008, del Parlamento Europeo y del Consejo, de 22 de octubre de 2008, relativo a las estadísticas sobre energía.
+
+b) Reglamento (UE) n.º 525/2013, del Parlamento Europeo y del Consejo, de 21 de mayo de 2013, relativo a un mecanismo para el seguimiento y la notificación de las emisiones de gases de efecto invernadero y para la notificación, a nivel nacional o de la Unión, de otra información relevante para el cambio climático, y por el que se deroga la Decisión n.º 280/2004/CE o
+
+c) Reglamento Delegado (UE) n.º 666/2014, de la Comisión de 12 de marzo de 2014, que establece los requisitos sustantivos para el sistema de inventario de la Unión y toma en consideración las modificaciones de los potenciales de calentamiento global y las directrices sobre inventarios acordadas internacionalmente con arreglo al Reglamento (UE) n.º 525/2013, del Parlamento Europeo y del Consejo.
+
+7\. Nombre comercial de la materia prima.
+
+**(Suprimido)**
+
+> Se modifica por la disposición final 3.4 a 6 del Real Decreto 376/2022, de 17 de mayo. [Ref. BOE-A-2022-8121](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-8121)

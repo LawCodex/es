@@ -1,0 +1,690 @@
+---
+title: "Real Decreto 781/2013, de 11 de octubre, por el que se establecen normas relativas a la elaboración, composición, etiquetado, presentación y publicidad de los zumos de frutas y otros productos similares destinados a la alimentación humana"
+identifier: "BOE-A-2013-10611"
+eli: "https://www.boe.es/eli/es/rd/2013/10/11/781"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2013-10-11
+published: 2013-10-12
+in_force_from: 2013-10-28
+last_amended: 2025-11-13
+consolidated: 2026-06-15
+gazette: "Boletín Oficial del Estado núm. 245"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-10611"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 781/2013, de 11 de octubre, por el que se establecen normas relativas a la elaboración, composición, etiquetado, presentación y publicidad de los zumos de frutas y otros productos similares destinados a la alimentación humana
+
+La Directiva 2001/112/CE del Consejo, de 20 de diciembre de 2001, relativa a los zumos de frutas y otros productos similares destinados a la alimentación humana, fue incorporada al ordenamiento jurídico nacional mediante el Real Decreto 1050/2003, de 1 de agosto, por el que se aprueba la Reglamentación técnico-sanitaria de zumos de frutas y de otros productos similares, destinados a la alimentación humana.
+
+Esta Directiva 2001/112/CE, de 20 de diciembre, ha sido objeto de sucesivas modificaciones, una de ellas por la Directiva 2009/106/CE de la Comisión, de 14 de agosto de 2009, que se dictó teniendo en cuenta la evolución de las normas internacionales pertinentes, en particular, la Norma General del Codex para Zumos (jugos) y Néctares de Frutas (Codex Stan 247-2005), y que fue transpuesta al ordenamiento jurídico nacional mediante Real Decreto 462/2011, de 1 de abril; otra, por la Directiva 2010/33/UE de la Comisión, de 21 de mayo de 2010, que corrige la versión española de la Directiva 2001/112/CE del Consejo, de 20 de diciembre.
+
+La Directiva 2012/12/UE del Parlamento Europeo y del Consejo, de 19 de abril de 2012, por la que se modifica la Directiva 2001/112/CE del Consejo relativa a los zumos de frutas y otros productos similares destinados a la alimentación humana, se ha dictado con los objetivos de adaptar al progreso técnico las normas sobre elaboración, composición y etiquetado de los zumos de frutas y otros productos similares destinados a la alimentación humana, tener en cuenta la evolución de las normas internacionales pertinentes, establecer nuevos requisitos de composición para los zumos de frutas, modificar las disposiciones específicas sobre etiquetado de la Directiva 2001/112/CE, de 20 de diciembre, e informar adecuadamente a los consumidores. La transposición de la Directiva 2012/12/UE, de 19 de abril, requeriría la modificación de la mayor parte del contenido del Real Decreto 1050/2003, de 1 de agosto.
+
+No obstante, en aras de la seguridad jurídica, se ha considerado conveniente elaborar el presente real decreto, con el objetivo de transponer la Directiva 2012/12/UE, de 19 de abril, y codificar las disposiciones vigentes en España, en aplicación de la Directiva 2001/112/CE, de 20 de diciembre. En consecuencia, procede derogar el Real Decreto 1050/2003, de 1 de agosto.
+
+Dado el carácter marcadamente técnico de los requisitos regulados en la presente disposición y la necesidad de establecer un marco normativo unitario, que sea de aplicación a todo el territorio nacional y asegure un tratamiento uniforme a todos los productores, el instrumento idóneo para establecerlos es el real decreto.
+
+En el proceso de tramitación de este real decreto, han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados, habiendo emitido informe favorable la Comisión Interministerial para la Ordenación Alimentaria.
+
+En su virtud, a propuesta del Ministro de Agricultura, Alimentación y Medio Ambiente y de la Ministra de Sanidad, Servicios Sociales e Igualdad, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de octubre de 2013,
+
+DISPONGO:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+1\. El objeto de esta norma es regular la elaboración, composición, etiquetado, presentación y publicidad de los zumos de frutas y otros productos similares destinados a la alimentación humana.
+
+2\. Los productos definidos en los Anexos I.A y I.B están sometidos a la legislación aplicable a los alimentos, salvo disposición en contrario de este real decreto.
+
+3\. Esta norma se aplicará a los productos definidos en los Anexos I.A y I.B que se comercialicen en la Unión Europea con arreglo al Reglamento (CE) Nº 178/2002, del Parlamento Europeo y del Consejo, de 28 de enero de 2002, por el que se establecen los principios y los requisitos generales de la legislación alimentaria, se crea la Autoridad Europea de Seguridad Alimentaria y se fijan procedimientos relativos a la seguridad alimentaria.
+
+## Artículo 2. Disposiciones específicas sobre etiquetado, presentación y publicidad.
+
+El Reglamento (UE) n.<sup>o</sup> 1169/2011 del Parlamento Europeo y del Consejo de 25 de octubre de 2011 sobre la información alimentaria facilitada al consumidor y por el que se modifican los Reglamentos (CE) n.<sup>o</sup> 1924/2006 y (CE) n.<sup>o</sup> 1925/2006 del Parlamento Europeo y del Consejo, y por el que se derogan la Directiva 87/250/CEE de la Comisión, la Directiva 90/496/CEE del Consejo, la Directiva 1999/10/CE de la Comisión, la Directiva 2000/13/CE del Parlamento Europeo y del Consejo, las Directivas 2002/67/CE, y 2008/5/CE de la Comisión, y el Reglamento (CE) n.<sup>o</sup> 608/2004 de la Comisión, se aplica a los productos definidos en el anexo I.A, con arreglo a las condiciones siguientes:
+
+1\. Las denominaciones que fija el anexo I.A se reservarán a los productos que figuran en él y, sin perjuicio de lo dispuesto en el párrafo siguiente, deberán utilizarse para designarlos comercialmente.
+
+Como alternativa a estos nombres de producto, en el anexo III se incluye una lista de denominaciones particulares. Cuando un operador utilice las denominaciones enumeradas en el anexo III, parte I, se utilizarán en la lengua y en las condiciones que en él se establecen. En lo que se refiere a las denominaciones enumeradas en el anexo III, parte II, se expresarán, al menos, en la lengua española oficial del Estado.
+
+2\. Cuando el producto proceda de una sola especie de fruta, la palabra “fruta” se sustituirá por el nombre de la misma.
+
+3\. En el caso de los productos elaborados a partir de dos o más frutas, excepto cuando se utilice zumo de limón, de lima, o de ambos, en las condiciones estipuladas en el anexo I.B.2, la denominación se compondrá de una lista de las frutas utilizadas, en orden decreciente según el volumen de los zumos o purés de frutas incluidos, tal como se indique en la lista de ingredientes. No obstante, en el caso de los productos elaborados a partir de tres o más frutas, la indicación de las frutas empleadas podrá sustituirse por la mención “varias frutas” o una indicación similar, o por el número de frutas utilizadas.
+
+4\. La declaración “los zumos de frutas contienen únicamente azúcares naturalmente presentes” podrá figurar en la etiqueta en el mismo campo visual que la denominación de venta de los productos contemplados en los apartados 1 y 2 del anexo I.A.
+
+5\. La reconstitución de los productos definidos en el anexo I.A en su estado original por medio de las sustancias estrictamente necesarias para esta operación no supone la obligación de mencionar en el etiquetado la lista de los ingredientes utilizados con tal fin. Deberá indicarse en el etiquetado la incorporación al zumo de frutas de una cantidad añadida de pulpa o de células conforme se definen en el anexo II.
+
+6\. Sin perjuicio de lo dispuesto en el artículo 22 del Reglamento (UE) n.<sup>o </sup>1169/2011 del Parlamento Europeo y del Consejo de 25 de octubre de 2011, en el caso de mezclas de zumo de frutas a partir de concentrado o de zumo de frutas con contenido reducido de azúcares a partir de concentrado con zumo de frutas o con zumo de frutas con contenido reducido de azúcares, así como en el caso del néctar de frutas obtenido total o parcialmente a partir de uno o más productos concentrados, el etiquetado deberá incluir la indicación “a partir de concentrado(s)” o “parcialmente a partir de concentrado(s)”, según proceda. Esta indicación deberá figurar junto a la denominación de venta, en caracteres claramente visibles y que destaquen sobre el fondo con nitidez.
+
+7\. En el caso del néctar de frutas, el etiquetado deberá incluir la indicación del contenido mínimo de zumo de frutas, de puré de frutas o de mezcla de estos ingredientes, mediante los términos “contenido de fruta: mínimo… %”. Esta mención deberá figurar en el mismo campo visual que la denominación de venta.
+
+> Téngase en cuenta que esta actualización del art. 2, establecida por el art. 3.1 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
+
+> Redacción anterior:
+
+> "Sin perjuicio de los requisitos de etiquetado, presentación y publicidad, establecidos para los productos alimenticios, a los productos definidos en el Anexo I.A, les serán de aplicación las condiciones siguientes:
+
+> 1\. Las denominaciones que fija el Anexo I.A se reservarán a los productos que figuran en él y, sin perjuicio de lo dispuesto en el párrafo siguiente, deberán utilizarse para designarlos comercialmente.
+
+> Como alternativa a estos nombres de producto, en el Anexo III se incluye una lista de denominaciones particulares que podrán utilizarse en la lengua y en las condiciones especificadas en el citado anexo III.
+
+> 2\. Cuando el producto proceda de una sola especie de fruta, la palabra «fruta» se sustituirá por el nombre de la misma.
+
+> 3\. En el caso de los productos elaborados a partir de dos o más frutas, excepto cuando se utilice zumo de limón, de lima, o de ambos, en las condiciones estipuladas en el anexo I.B.2, la denominación se compondrá de una lista de las frutas utilizadas, en orden decreciente según el volumen de los zumos o purés de frutas incluidos, tal como se indique en la lista de ingredientes. No obstante, en el caso de los productos elaborados a partir de tres o más frutas, la indicación de las frutas empleadas podrá sustituirse por la mención «varias frutas» o una indicación similar, o por el número de frutas utilizadas.
+
+> 4\. La reconstitución de los productos definidos en el anexo I.A en su estado original por medio de las sustancias estrictamente necesarias para esta operación no supone la obligación de mencionar en el etiquetado la lista de los ingredientes utilizados con tal fin.
+
+> Deberá indicarse en el etiquetado la incorporación al zumo de frutas de una cantidad añadida de pulpa o de células conforme se definen en el anexo II.
+
+> 5\. En el caso de mezclas de zumo de fruta y de zumo de fruta a partir de concentrado, y en el caso de néctar de frutas obtenido total o parcialmente a partir de uno o más productos concentrados, el etiquetado deberá incluir la indicación «a partir de concentrado(s)» o «parcialmente a partir de concentrado(s)», según proceda. Esta indicación deberá figurar junto a la denominación de venta, en caracteres claramente visibles y que destaquen del fondo con nitidez.
+
+> 6\. En el caso del néctar de frutas, el etiquetado deberá incluir la indicación del contenido mínimo de zumo de frutas, de puré de frutas o de mezcla de estos ingredientes, mediante los términos «contenido de fruta: mínimo … %». Esta mención deberá figurar en el mismo campo visual que la denominación de venta."
+
+> Se modifica, con efectos de 14 de junio de 2026, por el art. 3.1 del Real Decreto 1026/2025, de 12 de noviembre. [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947)
+
+## Artículo 3. Etiquetado de los zumos de frutas concentrados no destinados al consumidor final.
+
+En el etiquetado de los zumos de frutas concentrados contemplados en el Anexo I.A.2, no destinados al consumidor final, deberá figurar una mención que indique la presencia y la cantidad de zumo de limón, zumo de lima o agentes acidificantes añadidos autorizados por el Reglamento (CE) Nº 1333/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre aditivos alimentarios. Esta indicación figurará en uno de los lugares siguientes:
+
+a) En el envase,
+
+b) En una etiqueta unida al envase, o
+
+c) En un documento que lo acompañe.
+
+## Artículo 4. Materias primas, ingredientes, tratamientos y sustancias autorizados.
+
+Únicamente podrán utilizarse para la fabricación de los productos definidos en el anexo I.A los tratamientos y sustancias enumerados en el anexo I.B y las materias primas que sean conformes al anexo II. Además, los néctares de frutas se ajustarán a lo dispuesto en el anexo IV.
+
+> Téngase en cuenta que esta actualización del art. 4, establecida por el art. 3.2 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
+
+> Redacción anterior:
+
+> "Sin perjuicio de lo dispuesto en el Reglamento (CE) Nº 1333/2008, de 16 de diciembre, en la fabricación de los productos definidos en el anexo I.A, sólo podrán utilizarse los tratamientos y sustancias enumerados en el anexo I.B y las materias primas que sean conformes al anexo II. Además, los néctares de frutas se ajustarán a lo dispuesto en el anexo IV."
+
+> Se modifica, con efectos de 14 de junio de 2026, por el art. 3.2 del Real Decreto 1026/2025, de 12 de noviembre. [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947)
+
+## Disposición transitoria única. Comercialización de existencias de productos.
+
+Los productos comercializados o etiquetados antes del 28 de octubre de 2013 con arreglo al Real Decreto 1050/2003, de 1 de agosto, por el que se aprueba la Reglamentación técnico- sanitaria de zumos de frutas y de otros productos similares, destinados a la alimentación humana, podrán seguir comercializándose hasta el 28 de abril de 2015.
+
+La declaración «a partir del 28 de abril de 2015 ningún zumo de frutas contendrá azúcares añadidos» podrá figurar en la etiqueta, en el mismo campo visual que la denominación de los productos contemplados en el anexo I.A, puntos 1 a 5, hasta el 28 de octubre de 2016.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Se deroga el Real Decreto 1050/2003, de 1 de agosto, por el que se aprueba la Reglamentación técnico-sanitaria de zumos de frutas y de otros productos similares, destinados a la alimentación humana.
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en los artículos 149.1.13ª y 149.1.16ª de la Constitución Española, que atribuyen al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica y sobre bases y coordinación general de la sanidad, respectivamente.
+
+## Disposición final segunda. Incorporación de derecho de la Unión Europea.
+
+Este real decreto incorpora al derecho nacional la Directiva 2012/12/UE del Parlamento Europeo y del Consejo, de 19 de abril de 2012, por la que se modifica la Directiva 2001/112/CE del Consejo relativa a los zumos de frutas y otros productos similares destinados a la alimentación humana.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el 28 de octubre de 2013.
+
+Dado en Madrid, el 11 de octubre de 2013.
+
+JUAN CARLOS R.
+
+La Vicepresidenta del Gobierno y Ministra de la Presidencia,
+
+SORAYA SÁENZ DE SANTAMARÍA ANTÓN
+
+## ANEXO I.A — Denominaciones, definiciones y características de los productos
+
+1\. Zumo de frutas: el producto susceptible de fermentación, pero no fermentado, obtenido a partir de las partes comestibles de frutas sanas y maduras, frescas o conservadas por refrigeración o congelación, de una o varias especies mezcladas, que posea el color, el aroma y el sabor característicos del zumo de la fruta de la que procede.
+
+Se podrán reincorporar al zumo el aroma, la pulpa y las células obtenidos por los medios físicos apropiados que procedan de la misma especie de fruta.
+
+En el caso de los cítricos, el zumo de frutas procederá del endocarpio. No obstante, el zumo de lima podrá obtenerse a partir del fruto entero.
+
+Cuando los zumos se obtengan a partir de frutas que incluyan pepitas, semillas y pieles, no se incorporarán en el zumo partes o componentes de las pepitas, las semillas o la piel. La presente disposición no se aplicará a los casos en que las partes o los componentes de las pepitas, las semillas o la piel no puedan eliminarse mediante las buenas prácticas de fabricación.
+
+Se autoriza la mezcla de zumos de frutas y de puré de frutas en la producción del zumo de frutas.
+
+2\. Zumo de frutas a partir de concentrado: el producto obtenido al reconstituir zumo de frutas concentrado definido en el punto 3 con agua potable que cumpla los criterios establecidos en la Directiva (UE) 2020/2184 del Parlamento Europeo y del Consejo de 16 de diciembre de 2020, relativa a la calidad de las aguas destinadas al consumo humano, y el Real Decreto 3/2023, de 10 de enero, por el que se establecen los criterios técnico-sanitarios de la calidad del agua de consumo, su control y suministro.
+
+El contenido de sólidos solubles del producto acabado debe satisfacer el valor mínimo de grados Brix para el zumo reconstituido, especificado en el anexo V.
+
+Si un zumo a partir de concentrado se elabora con una fruta no mencionada en el anexo V, el nivel mínimo de grados Brix del zumo reconstituido corresponderá al nivel de grados Brix del zumo extraído de la fruta utilizada para elaborar el concentrado.
+
+Se podrán reincorporar al zumo de frutas a partir de concentrado el aroma, la pulpa y las células obtenidos por los medios físicos apropiados que procedan de la misma especie de fruta.
+
+El zumo de frutas a partir de concentrado se preparará según procesos de fabricación apropiados que mantengan las características físicas, químicas, organolépticas y nutricionales esenciales de un tipo medio de zumo de la fruta de la que procede.
+
+La mezcla de zumos de frutas y/o de zumos de frutas concentrados y de puré de frutas y/o de puré de frutas concentrado está autorizada para la producción de zumo de frutas a partir de concentrado.
+
+3\. Zumo de frutas concentrado: El producto obtenido a partir de zumo de una o varias especies de fruta por eliminación física de una parte determinada del agua. Cuando el producto esté destinado al consumo directo, la eliminación de agua será de al menos un 50 %.
+
+Se podrán reincorporar al zumo de frutas concentrado el aroma, la pulpa y las células obtenidos por los medios físicos apropiados que procedan de la misma especie de fruta.
+
+4\. Zumo de fruta extraído con agua: el producto obtenido por difusión en agua de:
+
+a) fruta pulposa entera cuyo zumo no puede extraerse por procedimientos físicos, o
+
+b) fruta entera deshidratada.
+
+5\. Zumo de frutas deshidratado/en polvo: el producto obtenido a partir de zumo de una o varias especies de fruta por eliminación física de la práctica totalidad del agua.
+
+6\. Néctar de frutas: el producto susceptible de fermentación, pero no fermentado que:
+
+a) se obtenga por adición de agua con o sin adición de azúcares y/o de miel a los productos definidos en los puntos 1 a 5, al puré de frutas, y/o al puré de frutas concentrado, y/o a una mezcla de estos productos, y
+
+b) sea conforme al anexo IV.
+
+Sin perjuicio de lo dispuesto en el Reglamento (CE) Nº 1924/2006 del Parlamento Europeo y del Consejo, de 20 de diciembre de 2006, relativo a las declaraciones nutricionales y de propiedades saludables en los alimentos, en el caso de la fabricación de néctares de frutas sin azúcares añadidos o con valor energético reducido, los azúcares se podrán sustituir total o parcialmente por edulcorantes, de conformidad con el Reglamento (CE) Nº 1333/2008, de 16 de diciembre.
+
+Se podrán reincorporar al néctar de frutas el aroma, la pulpa y las células obtenidos por los medios físicos apropiados que procedan de la misma especie de fruta.
+
+7\. Zumo de frutas con contenido reducido de azúcares: el producto obtenido a partir del zumo de frutas tal como se define en el punto 1, en el que se haya reducido la cantidad de azúcares naturalmente presentes en al menos un 30 % mediante un procedimiento autorizado en las condiciones establecidas en el apartado 3 del anexo I.B, que mantenga todas las demás características físicas, químicas, organolépticas y nutricionales esenciales de un tipo medio de zumo de la fruta de la que procede.
+
+El zumo de frutas con contenido reducido de azúcares podrá obtenerse mezclando zumo de frutas con contenido reducido de azúcares con zumo de frutas, puré de frutas, o ambos.
+
+8\. Zumo de frutas con contenido reducido de azúcares a partir de concentrado: el producto obtenido del zumo de frutas a partir de concentrado tal como se define en el punto 2, en el que se haya reducido la cantidad de azúcares naturalmente presentes en al menos un 30 % mediante un procedimiento autorizado en las condiciones establecidas en el apartado 3 del anexo I.B, que mantenga todas las demás características físicas, químicas, organolépticas y nutricionales esenciales de un tipo medio de zumo de la fruta de la que procede o el producto obtenido reconstituyendo con agua potable el zumo de frutas concentrado con contenido reducido de azúcar, tal como se define en el punto 9, que cumpla los criterios establecidos en la Directiva (UE) 2020/2184 del Parlamento Europeo y del Consejo de 16 de diciembre de 2020.
+
+El zumo de frutas con contenido reducido de azúcares a partir de concentrado podrá obtenerse mezclando zumo de frutas con contenido reducido de azúcares a partir de concentrado que contenga uno o más de los siguientes productos: zumo de frutas, zumo de frutas a partir de concentrado, zumo de frutas con contenido reducido de azúcares, puré de frutas concentrado y puré de frutas.
+
+9\. Zumo de frutas concentrado con contenido reducido de azúcares: el producto obtenido a partir de zumo de frutas concentrado, tal como se define en el punto 3, en el que se haya reducido la cantidad de azúcares naturalmente presentes en al menos un 30 % mediante un procedimiento autorizado en las condiciones establecidas en el apartado 3 del anexo I.B, y que mantenga todas las demás características físicas, químicas, organolépticas y nutricionales esenciales de un tipo medio de este producto, o el producto obtenido a partir de zumo de frutas con contenido reducido de azúcares, tal como se define en el punto 7, por eliminación física de una parte determinada del agua que lo constituye. Cuando el producto esté destinado al consumo directo, la eliminación de agua será de al menos un 50 %.
+
+> Téngase en cuenta que la actualización del primer párrafo del apartado 2 y los nuevos apartados 7, 8 y 9, establecidos por el art. 3.3 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entran en vigor el 14 de junio de 2026, según determina su disposición final 2.
+
+> Redacción anterior:
+
+> "2. Zumo de frutas a partir de concentrado: el producto obtenido al reconstituir zumo de frutas concentrado definido en el punto 3 con agua potable que cumpla los criterios establecidos en el Real Decreto 140/2003, de 7 de febrero, por el que se establecen los criterios sanitarios de la calidad del agua de consumo humano."
+
+> Se modifica el párrafo primero del apartado 2 y se añaden los apartados 7, 8 y 9, con efectos de 14 de junio de 2026, por el art. 3.3 del Real Decreto 1026/2025, de 12 de noviembre. [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947)
+
+## ANEXO I.B — Ingredientes, tratamientos y sustancias autorizados
+
+1\. Composición.
+
+La especie correspondiente al nombre botánico que figura en el anexo V se utilizará en la preparación de zumos de frutas, purés de frutas y néctares de frutas que lleven la denominación del producto correspondiente a la fruta o el nombre común del producto. Para las frutas de especies que no figuran en el anexo V, se utilizará el nombre botánico o común correcto.
+
+El nivel Brix para el zumo de frutas será el valor del zumo tal como se extrae de la fruta y no podrá modificarse, excepto si se mezcla con el zumo de una fruta de la misma especie.
+
+El nivel mínimo de grados Brix se establece en el anexo V para el zumo de frutas reconstituido y el puré de frutas reconstituido excluye los sólidos solubles de todo ingrediente o aditivo que haya podido añadirse en su caso.
+
+2\. Ingredientes autorizados.
+
+A los productos contemplados en el anexo I.A, sólo se les podrán añadir los siguientes ingredientes:
+
+a) Vitaminas y minerales autorizados por el Reglamento (CE) n.º 1925/2006 del Parlamento Europeo y del Consejo, de 20 de diciembre de 2006, sobre la adición de vitaminas, minerales y otras sustancias determinadas a los alimentos.
+
+b) Aditivos alimentarios autorizados con arreglo al Reglamento (CE) n.<sup>o</sup> 1333/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008; no obstante, no se permite utilizar edulcorantes en la elaboración de los productos enumerados en el anexo I.A, excepto en el caso de los néctares de frutas.
+
+Y, además:
+
+a) al zumo de frutas, al zumo de frutas a partir de concentrado, al zumo de frutas concentrado, al zumo de frutas con contenido reducido de azúcares, al zumo de frutas con contenido reducido de azúcares a partir de concentrado y al zumo de frutas concentrado con contenido reducido de azúcares: los aromas, las pulpas y las células restituidos.
+
+b) Al zumo de uva: sales de ácidos tartáricos restituidas.
+
+c) A los néctares de frutas: los aromas, las pulpas y las células restituidos; azúcares y/o miel, en una cantidad no superior al 20 % en peso respecto al peso total de los productos acabados contemplados en el anexo IV, parte I, al 15 % del peso total de los productos acabados contemplados en el anexo IV, parte II, y al 10 % del peso total de los productos acabados contemplados en el anexo IV, parte III; y/o edulcorantes.
+
+Solamente podrá declararse que no se han añadido azúcares a un néctar de frutas, así como efectuarse cualquier otra declaración que pueda tener el mismo significado para el consumidor, si no se ha añadido al producto ningún monosacárido ni disacárido, ni ningún alimento utilizado por sus propiedades edulcorantes, incluidos los edulcorantes definidos en el Reglamento (CE) n.º 1333/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008. Cuando se realice tal declaración, en el etiquetado deberá figurar asimismo la siguiente indicación: “contiene azúcares naturalmente presentes”.
+
+d) A los productos contemplados en la letra a, letra b.1.º), letra c, letra g, letra j del anexo III: azúcares y/o miel.
+
+e) A los productos definidos en el anexo I.A, puntos 1 a 9, con el fin de corregir el sabor ácido: zumo de limón y/o de zumo de lima y/o de zumo concentrado de limón y/o de zumo concentrado de lima, en una cantidad no superior a 3 gramos por litro de zumo, expresada en ácido cítrico anhidro.
+
+f) Al zumo de tomate y al zumo de tomate a partir de concentrado: sal, especias y hierbas aromáticas.
+
+g) Al zumo de frutas con contenido reducido de azúcares y al zumo de frutas con contenido reducido de azúcares a partir de concentrado: agua, en la medida estrictamente necesaria para compensar el agua perdida como consecuencia del proceso de reducción de azúcares.
+
+3\. Tratamientos y sustancias autorizados.
+
+A los productos contemplados en el anexo I.A solo se les podrán aplicar los tratamientos siguientes y añadir las sustancias siguientes:
+
+a) Procedimientos mecánicos de extracción,
+
+b) Los procedimientos físicos habituales, incluida la extracción (difusión) de agua «in line» de la parte comestible de fruta distinta de las uvas para la elaboración de zumos de fruta concentrados, siempre que los zumos de fruta resultantes cumplan los requisitos del anexo I.A, punto 1.
+
+c) Para los zumos de uva en los que se haya efectuado la sulfitación de las uvas mediante dióxido de azufre, se permite la desulfitación por procedimientos físicos, siempre que la cantidad total de SO<sub>2</sub> presente en el producto acabado no supere los 10 mg/l.
+
+d) Únicamente a los zumos de frutas con contenido reducido de azúcares, los zumos de frutas con contenido reducido de azúcares a partir de concentrado y los zumos de frutas concentrados con contenido reducido de azúcares: procedimientos para reducir la cantidad de azúcares naturalmente presentes, en la medida en que mantengan todas las demás características físicas, químicas, organolépticas y nutricionales esenciales de un tipo medio de zumo de la fruta de la que procede a partir de, a saber, la filtración por membrana y la fermentación con levadura.
+
+> Téngase en cuenta que la actualización del apartado 2 y la nueva letra d) del apartado 3, establecidos por el art. 3.4 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entran en vigor el 14 de junio de 2026, según determina su disposición final 2.
+
+> Redacción anterior:
+
+> "2. Ingredientes autorizados.
+
+> A los productos contemplados en el anexo I.A, sólo se les podrán añadir los siguientes ingredientes:
+
+> a) Vitaminas y minerales autorizados por el Reglamento (CE) Nº 1925/2006 del Parlamento Europeo y del Consejo, de 20 de diciembre de 2006, sobre la adición de vitaminas, minerales y otras sustancias determinadas a los alimentos.
+
+> b) Aditivos alimentarios autorizados por el Reglamento (CE) Nº 1333/2008, de 16 de diciembre.
+
+> Y, además:
+
+> a) A los zumos de frutas, los zumos de frutas a partir de concentrado y los zumos de frutas concentrados: los aromas, las pulpas y las células restituidos.
+
+> b) Al zumo de uva: sales de ácidos tartáricos restituidas.
+
+> c) A los néctares de fruta: aromas, pulpas y células restituidos; azúcares y/o miel en una cantidad no superior al 20 % en peso respecto al peso total de los productos acabados, y/o edulcorantes.
+
+> Solamente podrá declararse que no se han añadido azúcares a un néctar de frutas, así como efectuarse cualquier otra declaración que pueda tener el mismo significado para el consumidor, si no se ha añadido al producto ningún monosacárido ni disacárido, ni ningún alimento utilizado por sus propiedades edulcorantes, incluidos los edulcorantes definidos en el Reglamento (CE) Nº 1333/2008, de 16 de diciembre. Si los azúcares están naturalmente presentes en los néctares de frutas, en el etiquetado deberá figurar asimismo la siguiente indicación: «contiene azúcares naturalmente presentes».
+
+> d) A los productos contemplados punto 1, punto 2.a), punto 3, punto 5, segundo párrafo, y punto 8 del Anexo III: azúcares y/o miel.
+
+> e) A los productos definidos en el anexo I.A, puntos 1 a 6, con el fin de corregir el sabor ácido: zumo de limón y/o de zumo de lima y/o de zumo concentrado de limón y/o de zumo concentrado de lima, en una cantidad no superior a 3 gramos por litro de zumo, expresada en ácido cítrico anhidro.
+
+> f) Al zumo de tomate y al zumo de tomate a partir de concentrado: sal, especias y hierbas aromáticas."
+
+> Se modifica el apartado 2 y se añade la letra d) al apartado 3, con efectos de 14 de junio de 2026, por el art. 3.4 del Real Decreto 1026/2025, de 12 de noviembre. [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947)
+
+> Se derogan las letras d) a l) del punto 3 por la disposición derogatoria única.11 del Real Decreto 773/2023, de 3 de octubre. [Ref. BOE-A-2023-20563](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-20563)
+
+## ANEXO II — Definiciones de las materias primas
+
+A efectos del presente Real Decreto, se aplicarán las siguientes definiciones:
+
+1\. Frutas: todas las frutas.
+
+A efectos del presente real decreto, los tomates también se consideran una fruta.
+
+La fruta estará en buen estado, debidamente madura, y fresca o conservada mediante procedimientos físicos o por tratamientos, incluidos los tratamientos posteriores a la cosecha aplicados de conformidad con la legislación de la Unión.
+
+2\. Puré de frutas: el producto susceptible de fermentación, pero no fermentado, obtenido mediante procedimientos físicos adecuados, por ejemplo tamizando, triturando o desmenuzando la parte comestible de frutas enteras o peladas sin eliminar el zumo.
+
+3\. Puré de frutas concentrado: el producto obtenido a partir del puré de frutas por eliminación física de una proporción determinada del agua que lo constituye.
+
+El puré de frutas concentrado podrá contener aromas reconstituidos mediante procedimientos físicos apropiados, definidos en el anexo I.B.3, que deberán proceder de la misma especie de fruta.
+
+4\. Aroma: Sin perjuicio de lo dispuesto en el Reglamento(CE) Nº 1334/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre los aromas y determinados ingredientes alimentarios con propiedades aromatizantes utilizados en los alimentos, los aromas para la reconstitución se obtienen durante la transformación de la fruta mediante procedimientos físicos apropiados. Estos procedimientos físicos se pueden utilizar con el fin de preservar, conservar o estabilizar la calidad del aroma e incluirán el prensado, la extracción, la destilación, el filtrado, la adsorción, la evaporación, el fraccionamiento y la concentración.
+
+El aroma se obtiene a partir de las partes comestibles de la fruta; no obstante, también puede obtenerse a partir del aceite de presión en frío de cáscaras de cítricos y de compuestos de huesos de frutas.
+
+5\. Azúcares.
+
+a) Los azúcares definidos en el Real Decreto 1052/2003, de 1 de agosto, por el que se aprueba la Reglamentación técnico-sanitaria sobre determinados azúcares destinados a la alimentación humana.
+
+b) El jarabe de fructosa,
+
+c) Los azúcares obtenidos de frutas.
+
+6\. Miel. El producto definido en el Real Decreto 1049/2003, de 1 de agosto, por el que se aprueba la Norma de calidad relativa a la miel.
+
+7\. Pulpa o células. Los productos obtenidos de la parte comestible de fruta de la misma especie sin eliminar el zumo. Además, en lo referente a los cítricos, la pulpa y las células son los sacos de zumo obtenidos del endocarpio.
+
+## ANEXO III — Denominaciones particulares de determinados productos enumerados en el anexo I
+
+1\. Denominaciones particulares que solo pueden utilizarse en la lengua de la denominación:
+
+a) “vruchtendrank”, para el néctar de frutas;
+
+b) “Süßmost” solo se podrá emplear juntamente con las denominaciones de venta “Fruchtsaft” o “Fruchtnektar” para:
+
+1.º el néctar de frutas obtenido exclusivamente a partir de zumos de frutas, de zumos de frutas concentrados o de una mezcla de estos dos productos, no consumibles en estado natural en razón de su elevada acidez natural,
+
+2.º el zumo de frutas obtenido a partir de manzanas o de peras, cuando proceda con adición de manzanas, pero sin azúcares añadidos;
+
+c) “succo e polpa” o “sumo e polpa”, para el néctar de frutas obtenido exclusivamente a partir de puré de frutas y/o de puré de frutas concentrado;
+
+d) “æblemost”, sinónimo de zumo de manzana,
+
+e) “æblemost fra koncentrat”, sinónimo de zumo de manzana a partir de concentrado;
+
+f) “sur… saft”, completado mediante la indicación, en lengua danesa, de la fruta empleada, para el zumo sin adición de azúcares obtenido a partir de grosellas negras, cerezas, grosellas rojas, grosellas blancas, frambuesas, fresas o granos de saúco,
+
+g) “sød… saft” o “sødet… saft”, completado mediante la indicación, en lengua danesa, de la fruta empleada, para el zumo de esta misma fruta con más de 200 gramos de azúcar añadidos por litro;
+
+h) “äppelmust/äpplemust”, sinónimo de zumo de manzana;
+
+i) “mosto”, sinónimo de zumo de uva;
+
+j) “smiltsērkšķu sula ar cukuru” o “astelpaju mahl suhkruga” o “słodzony sok z rokitnika”, para zumos obtenidos a partir de “seabuckthorn” con un máximo de 140 gramos de azúcar añadidos por litro.
+
+2\. Denominaciones particulares que pueden utilizarse en una o varias de las lenguas oficiales de la Unión.
+
+a) “agua de coco”, para el producto que se extrae directamente del coco sin exprimir la pulpa, como sinónimo de zumo de coco.
+
+> Téngase en cuenta que esta actualización, establecida por el art. 3.5 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
+
+> Redacción anterior:
+
+> "Denominaciones particulares de determinados productos enumerados en el anexo I
+
+> 1\. «Vruchtendrank», para el néctar de frutas;
+
+> 2\. «Süßmost». La denominación «Süßmost» solo se podrá emplear juntamente con las denominaciones de venta «Fruchtsaft» o «Fruchtnektar» para:
+
+> a) El néctar de frutas obtenido exclusivamente a base de zumos de frutas, de zumos de frutas concentrados o de una mezcla de estos dos productos, no consumibles en estado natural en razón de su elevada acidez natural,
+
+> b) El zumo de fruta obtenido a partir de manzanas o de peras, cuando proceda con adición de manzanas, pero sin azúcares añadidos;
+
+> 3\. «Succo e polpa» o «sumo e polpa», para el néctar de frutas obtenido exclusivamente a partir de puré de frutas y/o de puré de frutas concentrado;
+
+> 4\. «Æblemost», para el zumo de manzana sin adición de azúcar;
+
+> 5\. «Sur … saft», completado mediante la indicación, en lengua danesa, de la fruta empleada, para el zumo sin adición de azúcares obtenido a partir de grosellas negras, cerezas, grosellas rojas, grosellas blancas, frambuesas, fresas o granos de saúco,
+
+> «Sød … saft» o «sødet … saft», completado mediante la indicación, en lengua danesa, de la fruta empleada, para el zumo de esta misma fruta, con adición de más de 200 gramos de azúcar por litro;
+
+> 6\. «Äpplemust», para el zumo de manzana sin adición de azúcar;
+
+> 7\. «Mosto», sinónimo de zumo de uva;
+
+> 8\. «Smiltsērkšķu sula ar cukuru» o «astelpaju mahl suhkruga» o «słodzony sok z rokitnika», para zumos obtenidos a partir de «seabuckthorn» con un máximo de 140 gramos de azúcar añadida por litro."
+
+> Se modifica, con efectos de 14 de junio de 2026, por el art. 3.5 del Real Decreto 1026/2025, de 12 de noviembre. [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947)
+
+## ANEXO IV — Disposiciones particulares aplicables a los néctares de frutas
+
+| Néctares de frutas a partir de | Contenido mínimo de zumo y/o de puré (% del volumen de producto acabado) |
+|---|---|
+| I. *Frutas de zumo ácido no consumibles en estado natural* |  |
+| Fruto de la pasión | 25 |
+| Hierba mora de Quito | 25 |
+| Grosellas negras | 25 |
+| Grosellas blancas | 25 |
+| Grosellas rojas | 25 |
+| Grosellas silvestres | 30 |
+| «Seabuckthorn» | 25 |
+| Endrinas | 30 |
+| Ciruelas | 30 |
+| Ciruelas silvestres | 30 |
+| Serbas | 30 |
+| Agavanzas | 40 |
+| Cerezas ácidas | 35 |
+| Otras cerezas | 40 |
+| Arándanos o mirtilos | 40 |
+| Granos de saúco | 50 |
+| Frambuesas | 40 |
+| Albaricoques | 40 |
+| Fresas | 40 |
+| Moras | 40 |
+| Arándanos rojos | 30 |
+| Membrillos (Cydonia oblonga L.) | 50 |
+| Limones y limas | 25 |
+| Otras frutas que pertenezcan a esta categoría | 25 |
+| II. *Frutas pobres en ácido o con mucha pulpa o muy aromatizadas, con zumo no consumible en estado natural* |  |
+| Mangos | 25 |
+| Plátanos | 25 |
+| Guayabas | 25 |
+| Papayas | 25 |
+| Lichis | 25 |
+| Acerolas | 25 |
+| Guanábanas | 25 |
+| Corazón de buey o cachimán | 25 |
+| Chirimoyas | 25 |
+| Granadas | 25 |
+| Anacardos | 25 |
+| Cajas | 25 |
+| Imbu | 25 |
+| Otras frutas que pertenezcan a esta categoría | 25 |
+| III. *Frutas de zumo consumible en estado natural* |  |
+| Manzanas | 50 |
+| Peras | 50 |
+| Melocotones | 50 |
+| Cítricos, salvo limones y limas | 50 |
+| Piñas | 50 |
+| Tomates | 50 |
+| Otras frutas que pertenezcan a esta categoría | 50 |
+
+> Téngase en cuenta que la actualización de la antepenúltima fila del epígrafe I, relativa a los «membrillos», establecida por el art. 3.6 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
+
+> Redacción anterior:
+
+> | "Membrillos | 50" |
+> |---|---|
+
+> Se modifica la antepenúltima fila del epígrafe I, relativa a los «membrillos», con efectos de 14 de junio de 2026, por el art. 3.6 del Real Decreto 1026/2025, de 12 de noviembre. [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947)
+
+## ANEXO V — Niveles mínimos de grados Brix para el zumo de frutas reconstituido y el puré de frutas reconstituido
+
+<table class="tabla">
+<tbody>
+<tr>
+<td>
+<p class="cabeza_tabla">Nombre común de la fruta</p>
+</td>
+<td>
+<p class="cabeza_tabla">Nombre botánico</p>
+</td>
+<td>
+<p class="cabeza_tabla">Niveles mínimos de grados Brix</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Manzana (*)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Malus domestica </em>Borkh.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">11,2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Albaricoque (**)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Prunus armeniaca </em>L.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">11,2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Plátano (**)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Musa x paradisiaca </em>L. (con exclusión de los plátanos hortaliza).</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">21,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Grosella negra (*)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Ribes nigrum </em>L.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">11,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Coco (*)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Cocos nucifera</em> L.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">4,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Uva (*)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Vitis vinifera </em>L. o sus híbridos</p>
+<p class="cuerpo_tabla_izq"><em>Vitis labrusca </em>L. o sus híbridos.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">15,9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Pomelo (*)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Citrus x paradisi </em>Macfad.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">10,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Guayaba (**)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Psidium guajava </em>L.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">8,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Limón (*)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Citrus limon </em>(L.) Burm. f.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">8,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Mango (**)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Mangifera indica </em>L.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">13,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Naranja (*)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Citrus sinensis </em>(L.) Osbeck.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">11,2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Fruto de la pasión (*)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Passiflora edulis </em>Sims.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">12,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Melocotón (**)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Prunus persica </em>(L.) Batsch var. persica.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">10,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Pera (**)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Pyrus communis </em>L.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">11,9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Piña (*)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Ananas comosus </em>(L.) Merr.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">12,8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Frambuesa (*)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Rubus idaeus </em>L.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">7,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Cereza agria (*)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Prunus cerasus </em>L.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">13,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Fresa (*)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Fragaria x ananassa </em>Duch.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">7,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Tomate (*)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Lycopersicon esculentum </em>Mill.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">5,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Mandarina (*)</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq"><em>Citrus reticulata </em>Blanco.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">11,2</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p class="cuerpo_tabla_izq">En el caso de los productos marcados con un asterisco (*), producidos como zumos, se determinará una densidad relativa mínima en relación con el agua a 20/20 °C.</p>
+<p class="cuerpo_tabla_izq">En el caso de los productos marcados con dos asteriscos (**), producidos como purés, solamente se determinará un valor mínimo Brix sin corregir (sin corrección de la acidez).</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Téngase en cuenta que la fila correspondiente a «Coco», añadida por el art. 3.7 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
+
+> Se añade la fila correspondiente al «Coco», con efectos de 14 de junio de 2026, por el art. 3.7 del Real Decreto 1026/2025, de 12 de noviembre. [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947)

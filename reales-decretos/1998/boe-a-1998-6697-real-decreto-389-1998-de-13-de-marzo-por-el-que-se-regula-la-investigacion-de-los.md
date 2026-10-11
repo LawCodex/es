@@ -1,0 +1,307 @@
+---
+title: "Real Decreto 389/1998, de 13 de marzo, por el que se regula la investigación de los accidentes e incidentes de aviación civil"
+identifier: "BOE-A-1998-6697"
+eli: "https://www.boe.es/eli/es/rd/1998/03/13/389"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1998-03-13
+published: 1998-03-23
+in_force_from: 1998-03-24
+last_amended: 2026-02-27
+consolidated: 2026-02-27
+gazette: "Boletín Oficial del Estado núm. 70"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-6697"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 389/1998, de 13 de marzo, por el que se regula la investigación de los accidentes e incidentes de aviación civil
+
+Incluye la corrección de erratas publicada en BOE núm. 81, de 4 de abril de 1998. [Ref. BOE-A-1998-8057](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-8057).
+
+La preocupación por reducir el número de accidentes e incidentes que provoca la pérdida de vidas humanas y causa cuantiosos daños ha determinado que uno de los objetivos prioritarios en materia de aviación civil sea la necesidad de contar con un elevado nivel de seguridad.
+
+Para atender este fin se ha considerado necesario, y en la práctica se ha revelado útil, hacer estudios técnicos para indagar en las causas de los accidentes y adoptar las medidas convenientes a fin de prevenirlos con el objetivo, en definitiva, de contribuir a disminuir su número.
+
+En España, la vigente Ley 48/1960, de 21 de julio, sobre Navegación Aérea, se ocupa de la investigación de los accidentes aéreos. En su desarrollo fue aprobado el Decreto 959/1974, de 28 de marzo, sobre investigación e informe de los accidentes de aviación civil, que instauró un completo procedimiento para, desde un punto de vista exclusivamente técnico, averiguar las causas de los accidentes y formular recomendaciones para la seguridad de la navegación aérea y además creó la Comisión de Investigación de Accidentes de Aviación Civil.
+
+En el plano internacional hay que mencionar el vigente Convenio de Aviación Civil Internacional elaborado en Chicago, el 7 de diciembre de 1944. En concreto, su anexo 13 establece las normas y métodos internacionales recomendados para la investigación de accidentes de aviación a realizar por los Estados contratantes.
+
+La importancia de este Convenio radica en que facilita hacer los trabajos de investigación con unidad de criterio y homogeneidad e incrementa el grado de cooperación de los Estados firmantes mediante las técnicas de colaboración en él previstas.
+
+En este marco normativo, el Consejo de la Unión Europea ha aprobado la Directiva 94/56/CE, de 21 de noviembre, que establece los principios fundamentales que rigen la investigación de los accidentes e incidentes de aviación civil.
+
+Las novedades de esta norma comunitaria se centran básicamente en dos aspectos: uno, el organismo o la entidad que realice la investigación tendrá independencia funcional para evitar cualquier conflicto de intereses y posible implicación en la causa del suceso que se investigue; dos, los investigadores deben contar con un status que les permita tener la libertad de acción necesaria para llevar a cabo una completa investigación técnica, sin ningún tipo de obstáculos o trabas y, en su caso, en cooperación con la autoridad judicial.
+
+Por todo ello, este Real Decreto persigue dos objetivos: el primero, incorporar al ordenamiento interno la Directiva 94/56/CE, de 21 de noviembre, y, el segundo, actualizar el procedimiento de investigación y diseñar, de acuerdo con el nuevo marco organizativo de la Administración General del Estado, las funciones de los distintos componentes del órgano colegiado, dotando a los investigadores de los medios adecuados para actuar con la eficacia debida para cumplir sus fines.
+
+En su virtud, a propuesta de los Ministros de Fomento y de Administraciones Públicas, con informe del Ministro de Defensa, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros, en su reunión del día 13 de marzo de 1998,
+
+### D I S P O N G O :
+
+## CAPÍTULO I — Disposiciones de carácter general
+
+#### Artículo 1. Objeto.
+
+El objeto de este Real Decreto es mejorar la seguridad aérea, a través de las investigaciones técnicas, cuya última finalidad será la prevención de futuros accidentes e incidentes.
+
+El propósito de esta actividad no es determinar ni establecer culpa o responsabilidad alguna.
+
+#### Artículo 2. Ámbito de aplicación.
+
+1\. Las investigaciones técnicas sobre los accidentes, incidentes graves e incidentes de aviación civil que ocurran en territorio del Estado español, se llevarán a cabo de acuerdo con lo preceptuado en esta norma y con las obligaciones internacionales asumidas por España, en especial las previstas en el Convenio sobre Aviación Civil Internacional, firmado en Chicago el 7 de diciembre de 1944, y su anexo 13.
+
+2\. Asimismo, será de aplicación el apartado anterior:
+
+a) A las investigaciones de accidentes ocurridos fuera del territorio del Estado español en los que estén involucradas aeronaves registradas en España, siempre que tales investigaciones no las lleve a cabo otro Estado.
+
+b) A las investigaciones de incidentes graves ocurridos fuera del territorio del Estado español en los que estén involucradas aeronaves registradas en España o explotadas por una empresa establecida en España, siempre que tales investigaciones no las lleve a cabo otro Estado.
+
+#### Artículo 3. Definiciones.
+
+A los efectos de la presente disposición se entenderá por:
+
+a) «Accidente», todo suceso, relacionado con la utilización de una aeronave, que tenga lugar en el período comprendido entre el momento en que una persona entre a bordo de la aeronave con intención de realizar un vuelo y el momento en que todas las personas que hayan entrado en el aparato con esa intención hayan desembarcado, y durante el cual:
+
+1) Una persona sufra lesiones mortales o graves como consecuencia de hallarse en la aeronave, o en contacto directo con alguna parte de la aeronave, entre las que se incluyen las partes que se hayan desprendido de la aeronave, o en exposición directa al chorro de un reactor, excepto en caso de que las lesiones obedezcan a causas naturales, hayan sido autoinflingidas o causadas por otras personas, o se trate de lesiones sufridas por pasajeros clandestinos escondidos fuera de las áreas destinadas normalmente a los pasajeros y la tripulación; o
+
+2) La aeronave sufra daños o roturas estructurales que alteren sus características de resistencia estructural, de funcionamiento o sus características de vuelo y que exigirían normalmente una reparación importante o el recambio del componente dañado excepto si se trata de un fallo o avería del motor, cuando el daño se limite al motor, su capó o accesorios; o de daños limitados a las hélices, extremos del ala, antenas, neumáticos, frenos o carenas, o a pequeñas abolladuras o perforaciones en el revestimiento; o
+
+3) La aeronave desaparezca o sea totalmente inaccesible.
+
+b) «Empresa», cualquier persona física o jurídica, tenga o no fines de lucro, o cualquier organismo oficial con o sin personalidad jurídica propia.
+
+c) «Causas», las acciones, omisiones, acontecimientos o condiciones o cualquier combinación de estos factores que hayan determinado el accidente o incidente.
+
+d) «Explotador», la persona, el organismo o la empresa que se dedique o pretenda dedicarse a la explotación de una o más aeronaves.
+
+e) «Incidente», todo suceso relacionado con la utilización de una aeronave, que no llegue a ser un accidente, y que afecte o pueda afectar a la seguridad de las operaciones.
+
+f) «Incidente grave», cualquier incidente en el que concurran circunstancias que indiquen que casi estuvo a punto de producirse un accidente.
+
+g) «Investigación», las actividades realizadas con el propósito de prevenir los accidentes e incidentes; estas actividades comprenden la reunión y análisis de la información, la elaboración de conclusiones, la determinación de las causas y, cuando proceda, la formulación de recomendaciones sobre seguridad.
+
+h) «Equipos de investigación», conjunto de personas que por sus conocimientos técnicos participan en una investigación, bajo la dirección del investigador encargado.
+
+i) «Investigador de campo», la persona con suficientes cualificaciones, que participará en las investigaciones bajo la dirección de un investigador encargado.
+
+j) «Investigador encargado», la persona responsable, en razón de sus cualificaciones, de la organización, realización y control de una investigación.
+
+k) «Investigador jefe», la persona responsable, en razón de su experiencia y cualificaciones, de la coordinación y designación de los investigadores encargados y demás personal en todas las investigaciones.
+
+l) «Lesión grave», cualquier lesión sufrida por una persona en un accidente que requiera hospitalización durante más de 48 horas, iniciándose dicha hospitalización dentro de un plazo de siete días contados a partir de la fecha en que se sufrió la lesión; u ocasione una fractura ósea (con excepción de las fracturas simples de la nariz o de los dedos de las manos o de los pies); u ocasione laceraciones que den lugar a hemorragias graves, lesiones de nervios, músculos o tendones; u ocasione daños a cualquier órgano interno; u ocasione quemaduras de segundo o tercer grado u otras quemaduras que afecten a más del 5 por 100 de la superficie del cuerpo; o sea imputable a la exposición, comprobada, a sustancias infecciosas o a radiaciones perjudiciales.
+
+m) «Lesión mortal», cualquier lesión sufrida por una persona en un accidente que provoque su muerte en el plazo de treinta días contados a partir de la fecha del accidente.
+
+n) «Recomendación sobre seguridad», toda propuesta del organismo investigador de accidentes del Estado que lleve a cabo la investigación técnica, basada en la información obtenida en dicha investigación y formulada con la intención de prevenir accidentes e incidentes.
+
+ñ) «Registrador de vuelo», cualquier tipo de registrador instalado en la aeronave a fin de facilitar la investigación de accidentes e incidentes.
+
+o) «Representante acreditado», persona designada por un Estado, en razón de sus cualificaciones, para los fines de participar en una investigación efectuada por otro Estado.
+
+> Redactado el apartado 2.o) conforme a la corrección de erratas publicada en BOE núm. 81, de 4 de abril de 1998. [Ref. BOE-A-1998-8057](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-8057).
+
+#### Artículo 4. Alcance.
+
+1\. Se investigarán todos y cada uno de los accidentes e incidentes graves.
+
+Se investigarán también los incidentes no contemplados en el párrafo anterior, en el caso de que el órgano investigador estime que se puedan obtener conclusiones en materia de seguridad aérea.
+
+2\. El alcance de las investigaciones y el proce dimiento que se adopte en la realización de éstas se harán teniendo en cuenta los principios y el objeto del presente Real Decreto, y en función de las enseñanzas que se pretendan extraer del accidente o incidente grave con el objeto de aumentar la seguridad aérea.
+
+> Redactado el apartado 2 conforme a la corrección de erratas publicada en BOE núm. 81, de 4 de abril de 1998. [Ref. BOE-A-1998-8057](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-8057).
+
+#### Artículo 5. Encomienda de actuaciones.
+
+En cualquier momento de la investigación de un accidente o incidente grave en el espacio aéreo español, la Comisión de Investigación de Accidentes e Incidentes de Aviación Civil podrá acordar y encomendar la realización de la misma a una autoridad responsable de otro Estado.
+
+Asimismo, la Comisión de Investigación de Accidentes e Incidentes de Aviación Civil podrá llevar a cabo la realización de una investigación fuera del espacio aéreo español, siempre que la autoridad responsable de otro Estado lo solicite expresamente.
+
+#### Artículo 6. Colaboración con la autoridad judicial.
+
+1\. Si iniciada una investigación técnica se observaran indicios de responsabilidad penal, se pondrán éstos en conocimiento de la autoridad judicial.
+
+2\. Si se hubieran iniciado actuaciones judiciales relativas al accidente o incidente, la investigación técnica podrá desarrollarse con la previa conformidad del órgano jurisdiccional que esté conociendo de aquéllas.
+
+## CAPÍTULO II — La Comisión de Investigación de Accidentes e Incidentes de Aviación Civil
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+#### Artículo 7. Naturaleza y funciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+#### Artículo 8. Composición.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+> Se modifica el apartado 2 por la disposición final 1.1 del Real Decreto 632/2013, de 2 de agosto. [Ref. BOE-A-2013-8567](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8567).
+
+> Se modifica por el art. único.1 del Real Decreto 629/2010, de 14 de mayo. [Ref. BOE-A-2010-8783](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8783).
+
+#### Artículo 9. Funcionamiento.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+#### Artículo 10. El Presidente.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+#### Artículo 11. El Secretario.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+#### Artículo 12. El equipo de investigación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+#### Artículo 13. Facultades de los investigadores.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+#### Artículo 14. Norma supletoria.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+## CAPÍTULO III — Del procedimiento
+
+#### Artículo 15. Medidas cautelares.
+
+1\. Cualquier persona que tenga conocimiento de un accidente o incidente de aviación civil lo comunicará inmediatamente a las autoridades más cercanas. Éstas, a su vez, lo harán saber urgentemente a la Secretaría de la Comisión de Investigación de Accidentes e Incidentes de Aviación Civil y, en su caso, a la autoridad judicial competente.
+
+2\. Las autoridades y sus agentes prestarán auxilio a todos los afectados por el accidente y adoptarán las medidas oportunas alrededor de la aeronave siniestrada, de su contenido y sus restos para garantizar su conservación y la del entorno afectado.
+
+3\. En cualquier caso, establecerán la vigilancia que garantice, en general, la conservación de los elementos de las posibles pruebas que pudieran servir para determinar las causas del accidente, impidiendo el acceso a la aeronave y a sus restos, y en particular, que nadie se acerque para reconocerlos, ni menos para actuar en ellos de cualquier forma, de manera que los tripulantes, pasajeros u otras personas puedan destruir, retirar o alterar de algún modo su estado o situación.
+
+Además, tomarán las medidas necesarias para extinguir los incendios y evitar que se puedan producir.
+
+#### Artículo 16. Obligación especial.
+
+1\. En particular, el piloto al mando, el propietario o el explotador de una aeronave deberán comunicar los accidentes o incidentes al director del aeropuerto donde ésta tenga su estacionamiento o donde aterrice aquélla y, al mismo tiempo, dará inmediatamente cuenta a la Secretaría de la Comisión.
+
+Asimismo, aportarán la información pertinente y la documentación, tanto de la aeronave como de la tripulación, a la Secretaría de la Comisión.
+
+2\. Las autoridades aeronáuticas, los directores de los aeropuertos, las agencias de control de tránsito aéreo y todos aquellos servicios que tengan información pertinente, la comunicarán y, en su caso, la aportarán a la Secretaría de la Comisión con ocasión de accidente, incidente grave o incidente.
+
+#### Artículo 17. Iniciación de la investigación.
+
+Desde el momento en que el Secretario de la Comisión tuviere conocimiento de un accidente o incidente grave de aviación civil ordenará el inicio de la investigación técnica y actuará de inmediato, de acuerdo con lo previsto en este Real Decreto.
+
+#### Artículo 18. Recogida de datos.
+
+El equipo investigador se trasladará por el medio más rápido posible al lugar del accidente, donde recogerán los datos, pruebas materiales, fotográficas, documentales y testificales.
+
+#### Artículo 19. Notificaciones.
+
+Previo conocimiento del Pleno, el Secretario de la Comisión enviará las notificaciones de los accidentes e incidentes graves a todos los Estados afectados.
+
+Además, les cursará las invitaciones para participar en la investigación. Los representantes acreditados de los Estados que participen en la investigación se integrarán en el equipo de investigación, bajo la dirección del investigador encargado.
+
+#### Artículo 20. Actuaciones.
+
+El investigador encargado con el equipo de investigación, al amparo de lo dispuesto en el artículo 12 de este Real Decreto, realizarán cuantos actos sean necesarios para la debida investigación técnica de los hechos ocurridos.
+
+#### Artículo 21. Informes y recomendaciones.
+
+1\. Al término de toda investigación se elaborará un informe técnico adecuado a la gravedad del accidente o incidente que podrá incluir recomendaciones sobre la forma de prevenirlos y, en general, sobre la seguridad aérea.
+
+2\. El informe técnico comprenderá una relación detallada de los datos obtenidos, la determinación de las causas, las demás circunstancias y el análisis que se hará siempre desde el punto de vista técnico y teniendo presente los objetivos enunciados en el apartado anterior, sin prejuzgar en ningún caso la decisión que pueda recaer en vía judicial.
+
+3\. Con respecto a las causas habrá de determinarse específicamente, de una forma clara y concisa, las anomalías, deficiencias, irregularidades y cualquier otra circunstancia que directa o indirectamente, haya podido tener relación con el mismo.
+
+4\. El Secretario de la Comisión elevará el informe al Pleno, que adoptará la resolución que proceda. Ésta tendrá, igual que todo el procedimiento, carácter exclusivamente técnico, sin que pueda suponer declaración o limitación de derechos ni de responsabilidades personales o pecuniarias.
+
+5\. El Secretario de la Comisión dispondrá lo que fuera necesario para que el informe técnico, una vez aprobado, sea notificado a la Comisión de la Unión Europea, a los Estados afectados, a las empresas y autoridades aeronáuticas nacionales y a todos aquellos interesados.
+
+6\. El informe sobre los incidentes deberá proteger el anonimato de las personas implicadas y se entregará a todas las partes que puedan beneficiarse de sus conclusiones en materia de seguridad.
+
+7\. El Pleno adoptará las medidas necesarias para que se tengan en cuenta las recomendaciones sobre seguridad y se ejecuten cuando así resulte procedente.
+
+8\. Las recomendaciones sobre seguridad no supondrán, en ningún caso, presunción de culpa o responsabilidad en relación con el accidente o incidente.
+
+#### Disposición adicional primera. Aplicación supletoria.
+
+En la tramitación de la investigación técnica de los accidentes e incidentes se observará, en lo no previsto en este Real Decreto, el anexo 13 del Convenio de Aviación Civil Internacional.
+
+#### Disposición adicional segunda. Tramitación de los incidentes no graves.
+
+La tramitación de la investigación de los incidentes no graves se ajustará, en lo que sea de aplicación, a lo dispuesto en el capítulo III de este Real Decreto.
+
+#### Disposición adicional tercera. Medios materiales y personales.
+
+1\. El Ministerio de Fomento dotará a la Secretaría de la Comisión de Investigación de Accidentes e Incidentes de Aviación Civil de los medios personales y materiales necesarios para el desempeño de sus funciones, sin que ello suponga incremento del gasto público.
+
+2\. En el caso de circunstancias excepcionales como consecuencia de gastos extraordinarios necesarios para llevar a cabo la investigación de accidentes e incidentes especialmente graves, la Comisión podrá disponer de fondos de emergencia adicionales con cargo a los créditos presupuestarios consignados al Ministerio de Fomento.
+
+> Se modifica por el art. único.2 del Real Decreto 629/2010, de 14 de mayo. [Ref. BOE-A-2010-8783](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8783).
+
+#### Disposición adicional cuarta. Coordinación entre la Agencia Estatal de Seguridad Aérea y la Comisión de Investigación de Accidentes e Incidentes de Aviación Civil, en materia de seguridad operacional.
+
+La Comisión de Investigación de Accidentes e Incidentes de Aviación Civil comunicará a la Agencia Estatal de Seguridad Aérea, a través del sistema de notificación obligatoria de sucesos en la aviación civil creado al amparo del Real Decreto 1334/2005, de 14 de noviembre, los incidentes de los que tenga conocimiento y sobre los que no vaya a instruir una investigación.
+
+La Agencia Estatal de Seguridad Aérea proporcionará a la Comisión de Investigación de Accidentes e Incidentes de Aviación Civil acceso a la base de datos de sucesos a la que se refiere el artículo 5 del mencionado Real Decreto 1334/2005 de 14 de noviembre. Por su parte, la Comisión remitirá a la Agencia Estatal de Seguridad Aérea, para su inclusión en la citada base de datos, información de los accidentes e incidentes graves sobre los que ha instruido una investigación.
+
+La comunicación de la información prevista en esta disposición se realizará en los términos autorizados por la Ley 21/2003, de 7 de julio.
+
+A los efectos de garantizar el ejercicio de las respectivas competencias en materia de incidentes de tránsito aéreo, la Agencia Estatal de Seguridad Aérea y la Comisión establecerán los mecanismos de coordinación oportunos.
+
+> Se añade por el art. único.3 del Real Decreto 629/2010, de 14 de mayo. [Ref. BOE-A-2010-8783](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8783).
+
+#### Disposición adicional quinta. Investigación técnica de los accidentes e incidentes de aviación de las aeronaves de Estado no militares.
+
+La Comisión de Investigación de Accidentes e Incidentes de Aviación Civil es competente para la investigación técnica de los accidentes e incidentes de aviación de las aeronaves de Estado no militares. En estos casos se respetaran las peculiaridades derivadas de la operación y del uso de la aeronave afectada.
+
+La Comisión de Investigación de Accidentes e Incidentes de Aviación Civil y las respectivas administraciones públicas afectadas, podrán establecer protocolos de colaboración en los que se concreten las peculiaridades a las que se ajustará la investigación de estos accidentes e incidentes de la aviación.
+
+> Se añade por el art. único.4 del Real Decreto 629/2010, de 14 de mayo. [Ref. BOE-A-2010-8783](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8783).
+
+#### Disposición transitoria única. Normas transitorias.
+
+El vocal de la Comisión de Investigación de Accidentes e Incidentes de Aviación Civil designado tras la entrada en vigor de lo previsto en el artículo 8.2, se integrará en el órgano que estuviera constituido en el momento de producirse la designación, cesando en su mandato cuando expire el mandato de la Comisión.
+
+> Se añade por la disposición final 1.2 del Real Decreto 632/2003, de 2 de agosto. [Ref. BOE-A-2013-8567](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8567).
+
+#### Disposición derogatoria primera. Derogación orgánica.
+
+Queda derogado el párrafo h) del apartado 1 del ar tículo 6 del Real Decreto 1886/1996, de 2 de agosto, de estructura orgánica básica del Ministerio de Fomento.
+
+Asimismo, se derogan las referencias al mencionado párrafo h) y a la Comisión de Investigación de Accidentes Aéreos, contenidas en el apartado 4 del artículo 6 del citado Real Decreto.
+
+#### Disposición derogatoria segunda. Derogación general.
+
+Queda derogado el Decreto 959/1974, de 28 de marzo, sobre investigación e informe de los accidentes de aviación civil y demás disposiciones de igual o inferior rango que se opongan a lo dispuesto en este Real Decreto.
+
+#### Disposición final primera. Facultades de desarrollo.
+
+Se autoriza al Ministro de Fomento para que adopte las medidas que sean necesarias para el desarrollo y ejecución de lo previsto en el presente Real Decreto.
+
+#### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 13 de marzo de 1998.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ

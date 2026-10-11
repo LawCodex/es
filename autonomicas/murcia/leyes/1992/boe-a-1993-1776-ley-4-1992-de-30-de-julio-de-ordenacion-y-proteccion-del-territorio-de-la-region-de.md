@@ -1,0 +1,467 @@
+---
+title: "Ley 4/1992, de 30 de julio, de Ordenación y Protección del Territorio de la Región de Murcia"
+identifier: "BOE-A-1993-1776"
+eli: "https://www.boe.es/eli/es-mc/l/1992/07/30/4"
+type: act
+rank: "Ley"
+jurisdiction: es-murcia
+language: es
+department: "Comunidad Autónoma de la Región de Murcia"
+date: 1992-07-30
+published: 1993-01-26
+in_force_from: 1992-09-03
+last_amended: 2001-05-17
+consolidated: 2026-04-07
+gazette: "Boletín Oficial del Estado núm. 22"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1993-1776"
+retrieved: 2026-10-11
+---
+
+# Ley 4/1992, de 30 de julio, de Ordenación y Protección del Territorio de la Región de Murcia
+
+Sea notorio a todos los ciudadanos de la Región de Murcia que la Asamblea Regional ha aprobado la Ley 4/1992, de 30 de julio, de Ordenación y Protección del Territorio de la Región de Murcia.
+
+Por consiguiente, al amparo del artículo 30, dos, del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+
+EXPOSICIÓN DE MOTIVOS
+
+El constante crecimiento de la población y de la actividad económica que la Región de Murcia ha mantenido en los últimos años, con los correspondientes cambios profundos en su distribución y características, somete a su territorio a un conjunto, cada vez mayor, de demandas sociales diferentes condicionadas por la multiplicidad de los distintos usos posibles del suelo.
+
+Estos usos y demandas se han concentrado tradicionalmente en los espacios urbanos y periurbanos y han motivado que exista una regulación jurídica detallada del uso del espacio, entendido como suelo urbano o urbanizable al darse una conciencia generalmente aceptada de la necesidad de que el crecimiento urbano siga un modelo previamente planificado mediante criterios racionales.
+
+Simultáneamente en el tiempo, surgió la necesidad de preservar ciertos espacios naturales para protegerlos de la influencia humana y conservar la naturaleza con la menor modificación posible producida por el hombre.
+
+La preocupación ante las actividades contaminantes producidas por el desarrollo económico también tuvo como consecuencia una legislación abundante al respecto, referida principalmente a los espacios urbanos y a los espacios naturales de especial protección.
+
+La Región de Murcia reúne, a pesar de su reducida extensión, una elevada riqueza de ambientes de gran calidad y singularidad natural, y espacios con un fuerte deterioro ambiental y ecológico.
+
+Las serranías, tanto de interior como costeras, con sus valles, vegas y campos; el litoral de playas arenosas y acantilados, o las zonas húmedas, son ejemplos claros de esta diversidad de ecosistemas que, de forma secular, han servido como fuente de alimento, energía, construcción y esparcimiento a las diversas culturas que han ocupado estos territorios.
+
+Si bien la problemática ambiental ha sido abordada por diferentes legislaciones promulgadas a nivel del Estado español, los mecanismos de tramitación y de gestión, en algunos casos, y las limitadas e insuficientes medidas de regulación y actuación, en otros, han puesto de manifiesto que cualquier medida dirigida a la protección de los valores naturales y los recursos del medio físico regional, requiere un tratamiento legal propio, con una visión integral de las causas y procesos que intervienen en su degradación y que esté basado en la ordenación y utilización racional de los recursos naturales en desarrollo social y económico de nuestro territorio.
+
+A efectos legislativos y de ordenación, el resto del territorio, el espacio rural, con muchísima mayor dimensión, se define de forma insuficiente como exclusión de lo urbano y lo natural. Sin embargo, este espacio rural está sometido, cada vez en mayor grado, a usos y demandas escasamente reguladas, poco coordinadas y que, a veces, compiten de forma estéril entre sí.
+
+Parece necesario integrar estos aspectos de lo rural, lo urbano y lo natural en un concepto más general del territorio que contemple conjuntamente la ordenación de los diferentes usos del suelo y los condicione al interés general, el uso racional y a la conservación del medioambiente.
+
+La Carta europea de ordenación del territorio conceptúa éste como la expresión espacial de las políticas económicas, social, cultural y ecológica de toda la sociedad.
+
+De otro lado, la gestión de la normativa medioambiente europea y el uso de fondos europeos destinados al asentamiento de actividad en la zona rural y de montaña, posibilitan hoy superar las escasas oportunidades de planificación que el espacio natural ha tenido en la legislación urbanística.
+
+En efecto, en el territorio así entendido, inciden aspectos como los asentamientos de población, más o menos concentrada y sus correspondientes servicios, las obras de infraestructura, la actividad agraria, los usos recreativos y el interés paisajístico, que necesitan normas y directrices para armonizar sus objetivos dentro de una política territorial unitaria.
+
+Son importantes, en este sentido y como otro ejemplo de la necesidad de una ordenación general particularmente importante en la Región de Murcia, las actuaciones de prevención de desastres naturales, inundaciones, sequías o fenómenos sísmicos, cuyo nivel de riesgo es un efecto social con origen en las peculiares circunstancias del territorio murciano.
+
+Por otra parte, en el territorio, entendido así de forma amplia, confluyen recursos económicos y naturales cuya aplicación debe ser asignada de forma racional, procurando el equilibrio en el desarrollo de las distintas comarcas en función de sus aptitudes y de unos niveles adecuados en la calidad de vida de todos sus habitantes, de la que es parte fundamental la prevención de riesgos del medio natural antes aludida.
+
+Espacios como la huerta de Murcia, el litoral mediterráneo de la Región, el mar Menor o las zonas más despobladas del norte de Murcia, cuyos territorios exceden el ámbito municipal, precisan una ordenación de rango superior, que cuide de forma racional el uso del territorio, especialmente el espacio rural, de forma integradora y equilibrada.
+
+Entre los principios que inspiran la promulgación de la presente Ley, es preciso destacar el respeto a la autonomía de los municipios para la gestión de sus respectivos intereses y, en concreto, el reconocimiento de la competencia municipal para la ordenación de su territorio en aquellas materias de interés puramente local o de ámbito municipal, sin perjuicio de que se dispongan los mecanismos precisos para la adaptación del planeamiento municipal al contenido de estos instrumentos de ordenación del territorio de carácter supramunicipal o de interés comunitario.
+
+Para conseguir ordenar estos aspectos e integrar de forma adecuada el territorio en el desarrollo regional, se promulga esta Ley, que debe permitir sentar las bases en la forma de proceder de la administración con respecto a la ordenación del territorio.
+
+Por consiguiente, los objetivos de esta Ley son diversos y se ajustan a unos principios de racionalidad, planificación y cooperación interadministrativa, con los que se pretende conseguir que las actuaciones territoriales se apoyen siempre en unos objetivos explícitamente formulados y en una valoración completa de sus consecuencias. Para conseguirlo, la Ley establece un procedimiento y crea unos instrumentos que abarcan toda la actuación administrativa, desde el momento de la planificación hasta el de la ejecución material, pasando por la programación temporal y presupuestaria.
+
+Estos instrumentos son las directrices de ordenación territorial, los programas de actuación territorial y las actuaciones de interés regional.
+
+El sistema territorial de referencia recogerá la información sobre los condicionantes físicos y jurídicos del territorio y será la base de la acción planificadora.
+
+Las directrices de ordenación territorial fijarán en un ámbito previamente definido los objetivos de la planificación y las normas y medios para alcanzarlos. En particular se desarrollarán, a la mayor brevedad, las directrices de regulación, protección y usos del espacio rural, así como la ordenación de los recursos naturales.
+
+Los programas de actuación territorial recogerán los compromisos de ejecución de las directrices, estableciendo los plazos y recursos necesarios para lograrlos.
+
+Las actuaciones de interés regional son actuaciones concretas sobre el territorio que, promovidas por entidades públicas o privadas, contribuyan a alcanzar los objetivos planteados por la política territorial.
+
+Estos instrumentos que crea la Ley, en concordancia con sus objetivos, están destinados a potenciar el uso racional del suelo con perspectivas de futuro, respetando las condiciones medioambientales, y constituyen un marco, tanto para la aplicación de la legislación urbanística, como para lograr cubrir con su desarrollo el vacío normativo en la legislación vigente sobre la ordenación territorial del espacio rural.
+
+La consideración de los problemas ambientales y de la conservación de la naturaleza está recogida a lo largo de toda la Ley, pero en especial se regulan las evaluaciones de impacto ambiental y evaluaciones de impacto territorial, a fin de prever con el mayor nivel de detalle los efectos de las actuaciones con incidencia ambiental o territorial incluyéndose, dentro de los supuestos de evaluación de impacto ambiental, de acuerdo con las tendencias actuales nacionales y europeas, a los planes o programas que pudieran tener incidencia ambiental.
+
+Especial mención cabe realizar a que los planes de ordenación de recursos naturales se definen con carácter de directrices subregionales.
+
+Por último el título VI regula la protección de espacios naturales y en una disposición adicional se reclasifican y declaran protegidos los más significativos, así como sus límites en un anexo específico.
+
+## TÍTULO PRELIMINAR
+
+> Se deroga por la disposición derogatoria 1.c) de la Ley autonómica 1/2001, de 24 de abril. [Ref. BOE-A-2001-18797](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18797).
+
+#### Artículos 1 a 5.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria 1.c) de la Ley autonómica 1/2001, de 24 de abril. [Ref. BOE-A-2001-18797](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18797).
+
+## TÍTULO PRIMERO — Del sistema territorial de referencia
+
+> Se deroga por la disposición derogatoria 1.c) de la Ley autonómica 1/2001, de 24 de abril. [Ref. BOE-A-2001-18797](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18797).
+
+#### Artículos 6 a 13.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria 1.c) de la Ley autonómica 1/2001, de 24 de abril. [Ref. BOE-A-2001-18797](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18797).
+
+## TÍTULO II — Instrumentos de ordenación del territorio
+
+> Se deroga por la disposición derogatoria 1.c) de la Ley autonómica 1/2001, de 24 de abril. [Ref. BOE-A-2001-18797](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18797).
+
+#### Artículos 14 a 30.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria 1.c) de la Ley autonómica 1/2001, de 24 de abril. [Ref. BOE-A-2001-18797](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18797).
+
+## TÍTULO III — Órganos de ordenación territorial
+
+> Se deroga por la disposición derogatoria 1.c) de la Ley autonómica 1/2001, de 24 de abril. [Ref. BOE-A-2001-18797](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18797).
+
+#### Artículo 31.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria 1.c) de la Ley autonómica 1/2001, de 24 de abril. [Ref. BOE-A-2001-18797](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18797).
+
+#### Artículo 32.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria 1.c) de la Ley autonómica 1/2001, de 24 de abril. [Ref. BOE-A-2001-18797](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18797).
+
+## TÍTULO IV — Procedimiento para la elaboración de los instrumentos de ordenación del territorio
+
+> Se deroga por la disposición derogatoria 1.c) de la Ley autonómica 1/2001, de 24 de abril. [Ref. BOE-A-2001-18797](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18797).
+
+#### Artículos 33 a 42.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria 1.c) de la Ley autonómica 1/2001, de 24 de abril. [Ref. BOE-A-2001-18797](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18797).
+
+## TÍTULO V — Adecuación de las actuaciones de las Administraciones Públicas en la Ordenación Territorial
+
+> Se deroga por la disposición derogatoria 1.c) de la Ley autonómica 1/2001, de 24 de abril. [Ref. BOE-A-2001-18797](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18797).
+
+#### Artículo 43.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria 1.c) de la Ley autonómica 1/2001, de 24 de abril. [Ref. BOE-A-2001-18797](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18797).
+
+#### Artículo 44.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria 1.c) de la Ley autonómica 1/2001, de 24 de abril. [Ref. BOE-A-2001-18797](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18797).
+
+## TÍTULO VI — Protección de espacios naturales
+
+### CAPÍTULO PRIMERO — De los planes de ordenación de los recursos naturales
+
+#### Artículo 45.
+
+De acuerdo con la Ley 4/1989, de 27 de marzo, de conservación de espacios naturales y de la fauna y flora silvestres, los planes de ordenación de los recursos naturales son el principal instrumento de planificación y gestión de dichos recursos en la Región de Murcia, y, en especial, de sus espacios naturales.
+
+#### Artículo 46.
+
+1\. Los efectos de los planes de ordenación de los recursos naturales tendrán el alcance que establezcan sus propias normas de aprobación.
+
+2\. Los instrumentos de ordenación territorial o física existentes que resulten contradictorios con los planes de ordenación de los recursos naturales deberán adaptarse a éstos.
+
+### CAPÍTULO II — De la tramitación de los planes
+
+#### Artículo 47.
+
+1\. El procedimiento de elaboración y aprobación de los planes de ordenación de los recursos naturales se ajustará a lo establecido en las siguientes normas:
+
+a) La iniciación del procedimiento corresponde a la Agencia Regional para el Medio Ambiente y la Naturaleza, que, de oficio o a instancia de parte, redactará un documento previo al Plan en que se contendrán los objetos y directrices para la ordenación de los recursos naturales del ámbito territorial de que se trate.
+
+El documento previo, una vez sometido a informe preceptivo del Consejo Asesor de Medio Ambiente, será el documento básico para la elaboración del plan de ordenación de recursos naturales.
+
+b) La aprobación inicial de los planes de ordenación de recursos naturales corresponde al Consejero competente en materia de medio ambiente, que acordará la apertura del trámite de información pública durante el plazo de dos meses, así como un trámite de audiencia a los Ayuntamientos a cuyo territorio afecte, a los interesados y a las asociaciones cuyos fines persigan el logro de los objetivos del artículo 2 de la Ley 4/1989, de 27 de marzo.
+
+La información pública del plan se completará con campañas de divulgación de los contenidos del mismo.
+
+c) La Agencia Regional para el Medio Ambiente y la Naturaleza elaborará, a la vista de las alegaciones y sugerencias presentadas, el correspondiente plan de ordenación de los recursos naturales que será aprobado definitivamente por el Consejo de Gobierno, mediante decreto, a propuesta del Consejero competente en materia de medio ambiente, previo informe de los consejos asesores de medio ambiente y de ordenación del territorio y urbanismo.
+
+2\. Cuando el plan de ordenación de recursos naturales afecte a un bien de interés cultural deberá someterse a informe de la Consejería competente en materia de cultura, de conformidad con lo previsto en la legislación aplicable sobre patrimonio histórico español.
+
+### CAPÍTULO III — De los espacios naturales protegidos
+
+#### Artículo 48.
+
+1\. Los espacios naturales de la Región de Murcia que en atención a sus valores, interés ecológico, científico, socioeconómico o cultural, necesiten de un régimen especial de protección y gestión, serán declarados en algunas de las siguientes categorías:
+
+a) Parques regionales.
+
+b) Reservas naturales.
+
+c) Monumentos naturales.
+
+d) Paisajes protegidos.
+
+La definición y los efectos de la declaración de cada una de estas figuras son los que se especifican en la citada Ley 4/1989, de 27 de marzo, siendo equivalente las categorías de parque a la de parques regionales.
+
+2\. La protección de un espacio natural mediante alguno de los regímenes especiales relacionados en el apartado anterior no excluye la posibilidad de que en determinadas áreas del mismo se constituyan otros núcleos de protección, siempre que adopten alguna de las modalidades establecidas en esta Ley.
+
+3\. Se declararán por ley regional los parques regionales y las reservas naturales. Los monumentos naturales y los paisajes protegidos serán declarados por decreto de Consejo de Gobierno.
+
+4\. En ambos casos corresponderá a la Agencia Regional para el Medio Ambiente y la Naturaleza el impulso y la tramitación administrativa de los expedientes para la declaración como espacio natural protegido.
+
+5\. En el procedimiento de declaración, cuando no vaya precedido de la aprobación previa de un plan de ordenación de recursos naturales, deberá otorgarse un trámite de audiencia a los interesados y recabar los informes de las administraciones y organismos públicos afectados, en particular, de las entidades locales y de las entidades científicas, conservacionistas o ecologistas. En todo caso es preceptivo el informe del Consejo Asesor Regional para el Medio Ambiente y la Naturaleza.
+
+6\. La declaración de los parques y reservas exige la previa elaboración y aprobación del correspondiente plan de ordenación de los recursos naturales de la zona, salvo el supuesto excepcional previsto en el artículo 15, apartado segundo, de la Ley 4/1989, de 27 de marzo.
+
+#### Artículo 49.
+
+1\. La Agencia Regional para el Medio Ambiente y la Naturaleza elaborará, en el plazo de un año a partir de la declaración correspondiente, los planes rectores de uso y gestión. Las Administraciones competentes en materia urbanística informarán preceptivamente dichos planes antes de su aprobación por decreto de Consejo de Gobierno.
+
+2\. Los planes rectores de uso y gestión tendrán como objetivo la ordenación de los recursos del espacio natural protegido para hacer posible la amortización de la conservación de valores naturales con el fomento socioeconómico y la promoción social.
+
+3\. Los planes rectores prevalecerán sobre el planeamiento urbanístico o de ordenación del territorio en los términos que establece el artículo 19.2 de la Ley 4/1989, de 27 de marzo.
+
+4\. En los monumentos naturales y paisajes protegidos, cuando razones de extensión, simplicidad de gestión u otras de similar índole lo aconsejen, mediante resolución de la Agencia Regional para el Medio Ambiente y la Naturaleza y previo informe del Consejo Asesor Regional del Medio Ambiente, se podrá sustituir la elaboración de los planes rectores de uso y gestión por aquellos planes o programas de actuación que se consideren necesarios para alcanzar las finalidades perseguidas en la declaración.
+
+5\. En los presupuestos generales de la Comunidad Autónoma se consignarán anualmente las cantidades necesarias para hacer frente al desarrollo de estos planes y programas de actuación.
+
+6\. Con el fin de contribuir al mantenimiento de los espacios naturales protegidos y compensar a las poblaciones afectadas, en sus disposiciones reguladoras podrán establecerse áreas de influencia socioeconómica, con especificación del régimen económico y compensación adecuada al tipo de limitaciones, en los términos que establece el artículo 18 de la Ley 4/1989, de 27 de marzo, para lo que la Administración Regional elaborará los correspondientes planes de actuación socioeconómica.
+
+#### Artículo 50.
+
+Los parques y reservas naturales protegidos deberán tener adscrito un director-conservador que asumirá la responsabilidad de dirigir y coordinar la gestión integral del espacio natural en colaboración con su equipo técnico.
+
+Para colaborar en la gestión de los parques regionales y reservas naturales se constituirán como órganos de participación, patronatos o juntas rectoras cuya composición y funciones se determinarán en sus disposiciones reguladoras. En las demás figuras su constitución será facultativa.
+
+### CAPÍTULO IV — Del régimen sancionador
+
+#### Artículo 51.
+
+1\. El régimen de infracciones y sanciones es el establecido en el título VI de la Ley 4/1989, de 27 de marzo, aplicándose en lo no previsto los artículos 133 a 137 de la Ley de Procedimiento Administrativo.
+
+2\. Asimismo, constituye infracción administrativa toda vulneración de las prescripciones contenidas en los planes de ordenación de recursos naturales y planes de rectores de uso y gestión.
+
+3\. La competencia para sancionar las infracciones leves y menos graves corresponde al Director de la Agencia Regional para el Medio Ambiente y la Naturaleza; las infracciones graves serán sancionadas por el Consejero competente en materia de medio ambiente, correspondiendo al Consejo de Gobierno la competencia para sancionar las infracciones muy graves.
+
+#### Disposición transitoria primera.
+
+El Consejo de Gobierno, a propuesta de la Consejería de Política Territorial, Obras Públicas y Medio Ambiente, aprobará el Reglamento de estructura y funcionamiento del Consejo Asesor de Ordenación del Territorio y Urbanismo.
+
+En tanto no se produzca su regulación reglamentaria, la composición, efectivos y medios del Consejo Asesor de Ordenación del Territorio y Urbanismo de la Región de Murcia, serán los que actualmente corresponden al Consejo Asesor Regional de Urbanismo de Murcia.
+
+#### Disposición transitoria segunda.
+
+En el plazo de cinco años el Consejo de Gobierno desarrollará los instrumentos de ordenación del territorio previstos en esta Ley, dando cuenta anualmente a la Asamblea Regional.
+
+#### Disposición adicional primera.
+
+Se modifica el párrafo primero del artículo 1.º, párrafo primero del artículo 8.º, el artículo 10 y el artículo 13 de la Ley 10/1986, de 19 de diciembre, de la Agencia Regional del Medio Ambiente y la Naturaleza, que quedarán como sigue:
+
+«Artículo 1.º, párrafo primero:
+
+Se crea la Agencia Regional para el Medio Ambiente y la Naturaleza como organismo autónomo de carácter administrativo, adscrito a la Consejería competente en la protección del medio ambiente, correspondiendo a su titular la adecuación de la política de este organismo autónomo a la general del Gobierno de la Región.»
+
+«Art. 8.º, párrafo primero:
+
+1\. El Consejo Asesor de Medio Ambiente estará constituido por un Presidente, un Vicepresidente, los Vocales y un Secretario.
+
+La presidencia la ostentará el titular de la Consejería correspondiente, y la vicepresidencia el Director de la Agencia.
+
+El Vicepresidente del Consejo sustituirá al Presidente en los casos de vacante o ausencia.
+
+Los Vocales, cuyo número estará comprendido entre un mínimo de 15 y un máximo de 25, representarán a otros órganos de la Comunidad Autónoma, Universidad, Consejo Superior de Investigaciones Científicas, organizaciones sindicales, empresariales y ecologistas, entidades locales y personas y entidades de reconocida cualificación en temas medioambientales.
+
+Como Secretario del Consejo actuará con voz y sin voto un funcionario, licenciado en Derecho, perteneciente a la Agencia designada por el Presidente.»
+
+«Art. 10:
+
+El Director de la Agencia será nombrado por Decreto, a propuesta del titular de la Consejería correspondiente.»
+
+«Art. 13:
+
+Contra los actos dictados por el Director de la Agencia procederá el recurso de alzada ante el Consejo competente en materia de protección del medio ambiente.»
+
+#### Disposición adicional segunda.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria 1.c) de la Ley autonómica 1/2001, de 24 de abril. [Ref. BOE-A-2001-18797](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-18797).
+
+#### Disposición adicional tercera.
+
+Uno. De conformidad con lo previsto en el título III de la Ley 4/1989, de 27 de marzo, de conservación de los espacios naturales y de la flora y fauna silvestres, y en concordancia con el título VI de la presente Ley, se reclasifican y declaran protegidos los siguientes espacios naturales de la región de Murcia:
+
+Se reclasifican con la categoría de parque los siguientes espacios con los límites y superficies que se señalan:
+
+1\. «Sierra Espuña», creado por Real Decreto 3157/1978, de 10 de noviembre, con una superficie de 9.961 hectáreas, situado en los términos municipales de Alhama de Murcia y Totana.
+
+> Véase el art. único de la Ley 6/1995, de 21 de abril, por el que se modifican los límites del parque regional de Sierra Espuña a que se refiere esta disposición. [Ref. BOE-A-1995-13300](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-13300).
+
+2\. “Carrascoy y El Valle”, integrados por el parque natural “Monte El Valle”, término municipal de Murcia, creado por Real Decreto 2611/1979, de 7 de septiembre, y por el Plan Especial de Protección “Sierras de Carrascoy y del Puerto”, términos municipales de Murcia, Fuente Álamo y Alhama de Murcia, aprobado definitivamente por Resolución de la Consejería de Política Territorial y Obras Públicas de 5 de junio de 1985. Los límites y superficies son los establecidos en el citado Real Decreto y en el Plan Especial de Protección.
+
+3\. “Sierra de la Pila”, en los términos municipales de Fortuna, Blanca, Abarán y Molina de Segura, con la superficie y límites previstos en el Plan Especial de Protección, aprobado definitivamente por Resolución de la Consejería de Política Territorial y Obras Públicas de 6 de mayo de 1985.
+
+4\. “Salinas y Arenales de San Pedro del Pinatar”, términos municipales de San Pedro del Pinatar y San Javier, con la misma superficie y límites contemplados en el Plan Especial de Protección denominado “Salinas de San Pedro del Pinatar, Coto de las Palomas y de la Llana y el Mojón”, aprobado definitivamente por Resolución de la Consejería de Política Territorial y Obras Públicas de 24 de mayo de 1985.
+
+5\. “Calblanque, Monte de las Cenizas y Peña del Águila”, término municipal de Cartagena y La Unión, afectado por el Plan Especial de Calblanque, aprobado definitivamente por Resolución de la Consejería de Política Territorial y Obras Públicas de 21 de marzo de 1987.
+
+La superficie y los límites son los previstos en el Plan General Municipal de Ordenación de Cartagena de especial protección para el área de Peña del Águila, vertientes al mar Mediterráneo de Atamaría y ámbito del Plan Especial de Calblanque. En el municipio de La Unión, la zona definida de especial protección de peña del Águila, sujeto a especial protección según las Normas Subsidiarias del planeamiento del término municipal.
+
+El Plan de Ordenación de los Recursos Naturales delimitará, con precisión, el ámbito de peña del Águila y monte de las Cenizas que afecta a los dos términos municipales.
+
+Dos. De conformidad con lo establecido en el artículo 21.1 de la Ley 4/1989, de 27 de marzo, y teniendo en cuenta que no se precisa previa elaboración de planes de ordenación de los recursos naturales, según lo dispuesto en su artículo 15.1 y sin perjuicio de su posterior elaboración si procede, se declaran los siguientes paisajes, conforme a los límites que se indican en el anexo a la presente Ley:
+
+1\. Humedal del Ajauque y Rambla Salada.
+
+2\. Cuatro Calas.
+
+3\. Espacios abiertos e islas del mar Menor.
+
+4\. Sierra de las Moreras.
+
+Tres. De conformidad con el artículo 21.1 de la Ley 4/1989, de 27 de marzo, y teniendo en cuenta lo establecido en el artículo 15.2, se declaran los espacios siguientes como parque y reserva natural, respectivamente, conforme a los límites que se indican en el anexo a la presente Ley, considerándose excepcional en cuanto a la previa elaboración y aprobación de los correspondientes planes de ordenación de los recursos naturales, dada la urgencia en la adopción de las medidas tendentes a su protección:
+
+1\. Calnegre y cabo Cope.
+
+2\. Sotos y bosques de ribera de Cañaverosa.
+
+Cuatro. Los espacios naturales siguientes deberán tener iniciado el trámite para la aprobación de los correspondientes planes de ordenación de los recursos naturales, en el plazo de un año a partir de la entrada en vigor de la presente Ley:
+
+1\. La Muela y cabo Tiñoso.
+
+2\. Cañón de los Almadenes.
+
+3\. Sierra de El Carche.
+
+4\. Islas e islotes del litoral mediterráneo.
+
+5\. Saladares del Guadalentín.
+
+6\. Barrancos de Gébar.
+
+7\. Cabezo Gordo.
+
+8\. Sierra Salinas.
+
+Cinco. Los decretos por los que se aprueban definitivamente los planes de ordenación de los recursos naturales, podrán, previo informe del Consejo Asesor Regional del Medio Ambiente y la Naturaleza, proponer el reajuste, en detalle, de las delimitaciones de los espacios naturales protegidos, a través del correspondiente procedimiento de declaración.
+
+> Véase el art. único de la Ley 6/1995, de 21 de abril, por el que se modifican los límites del parque regional de Sierra Espuña a que se refiere esta disposición. [Ref. BOE-A-1995-13300](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-13300).
+
+#### Disposición adicional cuarta.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria de la Ley autonómica 1/1995, de 8 de marzo. [Ref. BOE-A-1995-13295](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-13295).
+
+#### Disposición final
+
+Se autoriza al Consejo de Gobierno de la Comunidad Autónoma de Murcia para dictar cuantas disposiciones sean necesarias para desarrollar y aplicar el contenido de esta Ley, especialmente las reformas oportunas en la estructura y funciones de la Administración Regional para adaptarlas al cumplimiento de esta Ley.
+
+#### Disposición derogatoria
+
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en la presente Ley.
+
+## ANEXO
+
+**Límites del paisaje protegido del humedal del Ajauque y rambla Salada**
+
+El paisaje protegido de rambla Salada y Ajauque queda constituido por los cauces de dichas ramblas y los 100 metros de zona de policía medidos a partir del cauce de máximo caudal, a ambos lados de las mismas, además de los humedales asociados a ellas.
+
+Rambla Salada: Se protege el tramo comprendido entre el canal del trasvase Tajo-Segura y la cola del pantano de Santomera.
+
+Rambla de Ajauque: Este tramo queda delimitado desde la confluencia de las ramblas de Ajauque y el Cantalar hasta la cola del pantano de Santomera.
+
+**Límites del paisaje protegido de Cuatro Calas**
+
+Sureste: Ribera del mar Mediterráneo, desde el límite con la provincia de Almería hasta la playa de Calarreona.
+
+Norte: Desde la playa de Calarreona, rodeando por el oeste el suelo urbanizable del entorno de Calarreona hasta los depósitos de agua situados en cota 39 metros, y desde allí al kilómetro 3 de dicha carretera, alcanzando el camino que rodea al cabezo Alto.
+
+Suroeste: Continúa por este camino hasta el límite provincial a la altura del cabezo de Calacerrada y desde aquí por este límite hasta la línea de costa.
+
+**Límites de los paisajes protegidos de los espacios abiertos e islas del mar Menor**
+
+A) Playa de la Hita.–Situado al noroeste del mar Menor, entre los límites municipales de San Javier y Los Alcázares.
+
+Sur: Límite del suelo urbanizable del término municipal de Los Alcázares.
+
+Oeste: Camino que comunica la urbanización «Estrella de Mar» con la valla del aeropuerto de San Javier.
+
+Norte: Continúa por este camino hasta llegar al límite del camino del camping «Mar Menor».
+
+Este: Ribera del mar Menor.
+
+B) Cabezo y marinas del Carmolí.–Está situado al suroeste del mar Menor, en el término municipal de Cartagena.
+
+Norte: Desde la confluencia de la rambla de Albujón con la carretera nacional 332 hasta el camino rural que en dirección sur sale en el punto kilométrico 9,400 de dicha carretera.
+
+Oeste: Continúa por dicho camino rural en dirección a la urbanización del «Carmolí», hasta contactar con el suelo no urbanizable de protección forestal (SNUPF), del cabezo del Carmolí.
+
+Sur: Bordea el cabezo por el SNUPF.
+
+Este: Continúa por el SNUPF, excluyendo el suelo urbano residencial del «Carmolí» hasta llegar al mar Menor.
+
+C) Saladar de Lo Poyo.–Situado en la porción meridional del mar Menor (término municipal de Cartagena).
+
+Norte: Límite que divide el suelo no urbanizable de protección del mar Menor del PGOU de Cartagena con el plan parcial «Perla de Levante» hasta la carretera local que comunica Los Urrutias con Los Nietos.
+
+Oeste: Carretera Los Urrutias-Los Nietos.
+
+Sur: Continúa por la rambla que delimita el suelo urbano de Los Nietos.
+
+Este: Ribera del mar Menor.
+
+D) Salinas de Marchamalo y playa de las Amoladeras.
+
+Norte: Límite del suelo no urbanizable de protección del mar Menor del Plan General de Ordenación Urbana de Cartagena, que desde las Salinas de Marchamalo en el mar Menor llega hasta la ribera del mar Mediterráneo.
+
+Este: Ribera del mar Mediterráneo.
+
+Sur: Límite con el suelo urbano de Cabo de Palos hasta contactar con el nuevo acceso de La Manga, y siguiente éste por la carretera de El Algar a Cabo de Palos hasta el límite del suelo no urbanizable de protección del mar Menor.
+
+Oeste: Desde el punto anterior bordea los planes parciales del playa Honda y playa Paraíso, delimitando todo el sector del suelo no urbanizable del mar Menor.
+
+E) Cabezo del Sabinar.–Localizado en las proximidades de Los Belones (término municipal de Cartagena).
+
+Norte y este: Límite del suelo no urbanizable de protección forestal (SNUPF), que desde la carretera de El Algar-Cabo de Palos bordea el cabezo.
+
+Sur: Continúa por dichos límites del SNUPF.
+
+Oeste: Sigue esta línea hasta llegar a un pequeño collado; a continuación pasa el suelo no urbanizable minero por el barranco que nace en el collado, para coger la senda que rodea el cabezo y que llega hasta la carretera de El Algar-Cabo de Palos.
+
+F) Cabezo de San Ginés.–Localizado en las proximidades de El Estrecho (término municipal de Cartagena).
+
+Norte: En la carretera de El Algar-Cabo de Palos, desde la rambla de El Beal hasta el camino de tierra que, pasada la ermita de San Ginés de la Jara, bordea el cabezo.
+
+Este: Sigue este camino de tierra que bordea al cabezo hasta contactar con el SNUPF.
+
+Oeste: Sigue por esta línea hasta contactar con el camino de tierra que, tras pasar por Casa Petrica, llega a la rambla de El Beal, y por esta rambla hasta la carretera de El Algar-Cabo de Palos.
+
+G) Islas del Mar Menor.-De las cinco islas del mar Menor, la isla del Sujeto, la isla del Ciervo y la isla Redonda, pertenecen al término municipal de Cartagena y las islas Perdiguera y Mayor y del Barón, al término municipal de San Javier.
+
+**Límites del paisaje protegido de la sierra de las Moreras**
+
+Sur: Ribera del mar Mediterráneo desde la zona protegida del Calaleño, definida en el Plan General de Ordenación Urbana de Mazarrón, hasta el límite del suelo urbanizable del entorno de Bolnuevo (Punta Vela Trianamar, Playasol-2 y sector no programado 6A-3 del Plan General de Ordenación Urbana de Mazarrón).
+
+Este: Rodea el límite del suelo urbanizable del entorno de Bolnuevo definido en el Plan General de Ordenación Urbana de Mazarrón hasta su contacto con la carretera que se dirige a Mazarrón; continúa por ésta hasta el núcleo de Las Moreras que es el límite este hasta la carretera de Mazarrón-Águilas a la altura del kilómetro 1.
+
+Norte: Carretera Mazarrón-Águilas desde el kilómetro 1 hasta el kilómetro 8.
+
+Oeste: Desde el punto anterior continúa por el camino que se dirige a las casas del Rosarico o del Rosario y desde aquí hasta la línea límite del sector urbanizable no programado de costa 6/A-3 del Plan General de Ordenación Urbana, cerrando con el área protegida de Calaleño, anteriormente citada.
+
+**Límites del Parque regional costero-litoral de cabo Cope y puntas de Calnegre**
+
+Norte: Desde la ribera del mar Mediterráneo toma por la línea de cumbres de la Panadera en dirección al pico de Lomo de Bas, hasta contactar con la carretera local que comunica las pedanías de Ramonete y el Garrobillo, entre los kilómetros 7 y 8.
+
+Oeste: Continúa por esta carretera hasta el cruce por el camino que comunica con Casa de Pique, Escuela de Cope, Casa Asensio y El Cuartel, uniéndose al punto kilométrico 1 de la carretera que comunica Cope con Águilas. A partir de ese punto, bordea el suelo urbanizable de Calabardina hasta la ribera del Mediterráneo.
+
+De esta delimitación se excluirá el sector urbanizable no programado NPT del Plan General de Ordenación Urbana de Lorca, incorporando al espacio natural la franja litoral de 200 metros de ancho de protección de costa definida en el mismo Plan General.
+
+**Límites de la reserva natural de Los Sotos y bosques de la ribera de Cañaverosa**
+
+El ámbito territorial de este espacio natural comprende el cauce y riberas del río Segura, así como sus márgenes en una anchura de 100 metros en toda su extensión longitudinal, desde el Cortijo de las Hoyas hasta la central hidroeléctrica de Cañaverosa (términos municipales de Calasparra y Moratalla).
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y autoridades que correspondan que la hagan cumplir.
+
+Murcia, 30 de julio de 1992.
+
+CARLOS COLLADO MENA,
+
+Presidente

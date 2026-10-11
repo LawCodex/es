@@ -1,0 +1,353 @@
+---
+title: "Real Decreto 2291/1985, de 8 de noviembre por el que se aprueba el Reglamento de Aparatos de Elevación y Manutención de los mismos"
+identifier: "BOE-A-1985-25787"
+eli: "https://www.boe.es/eli/es/rd/1985/11/08/2291"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria y Energía"
+date: 1985-11-08
+published: 1985-12-11
+in_force_from: 1985-12-31
+last_amended: 2013-02-22
+consolidated: 2026-05-07
+gazette: "Boletín Oficial del Estado núm. 296"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-25787"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2291/1985, de 8 de noviembre por el que se aprueba el Reglamento de Aparatos de Elevación y Manutención de los mismos
+
+Los avances tecnológicos de los últimos años, así como el proceso de acercamiento a la Comunidad Económica Europea hace necesaria la promulgación de una nueva reglamentación para los ascensores y montacargas.
+
+Por otra parte, se estima conveniente ampliar el campo de dicha reglamentación, incluyendo en la misma otros aparatos de elevación tales como grúas, plataformas elevadoras y otros análogos, así como los aparatos de manutención que puedan ser causa de accidentes.
+
+Siguiendo las orientaciones ya establecidas en otros Reglamentos, también en este caso se han separado las normas de carácter general de aquellas otras propiamente técnicas más afectadas por el progreso previsible, las cuales serán recogidas en las Instrucciones Técnicas Complementarias.
+
+En su virtud, a propuesta del Ministro de Industria y Energía, previa deliberación del Consejo de Ministros en su reunión de 6 de noviembre de 1985,
+
+DISPONGO:
+
+### Artículo 1.
+
+Se aprueba el Reglamento de Aparatos de Elevación y Manutención, que figura como anexo a este Real Decreto.
+
+### Artículo 2.
+
+Este Reglamento será de aplicación para cada clase de aparatos, cuando entre en vigor la Instrucción Técnica Complementaria (ITC) que corresponda y en los plazos que se establezcan en cada una de ellas.
+
+### Disposición adicional primera. Cobertura de seguro u otra garantía equivalente suscrito en otro Estado.
+
+Cuando la empresa instaladora o conservadora que se establece o ejerce la actividad en España, ya esté cubierta por un seguro de responsabilidad civil profesional u otra garantía equivalente o comparable en lo esencial en cuanto a su finalidad y a la cobertura que ofrezca en términos de riesgo asegurado, suma asegurada o límite de la garantía en otro Estado miembro en el que ya esté establecido, se considerará cumplida la exigencia establecida en el apartado c) del artículo 8.9 y en el apartado c) del artículo 10.9 del Reglamento de Aparatos de Elevación y Manutención, aprobado por el Real Decreto 2291/1985, de 8 de noviembre. Si la equivalencia con los requisitos es sólo parcial, la empresa instaladora o conservadora deberá ampliar el seguro o garantía equivalente hasta completar las condiciones exigidas. En el caso de seguros u otras garantías suscritas con entidades aseguradoras y entidades de crédito autorizadas en otro Estado miembro, se aceptarán a efectos de acreditación los certificados emitidos por éstas.
+
+> Se añade por el art. 2.1 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+### Disposición adicional segunda. Aceptación de documentos de otros Estados miembros a efectos de acreditación del cumplimiento de requisitos.
+
+A los efectos de acreditar el cumplimiento de los requisitos exigidos a las empresas instaladoras o conservadoras, se aceptarán los documentos procedentes de otro Estado miembro de los que se desprenda que se cumplen tales requisitos, en los términos previstos en el artículo 17 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
+
+> Se añade por el art. 2.2 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+### Disposición adicional tercera. Modelo de declaración responsable.
+
+Corresponderá a las comunidades autónomas elaborar y mantener disponibles los modelos de declaración responsable. A efectos de facilitar la introducción de datos en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, el órgano competente en materia de seguridad industrial del Ministerio de Industria, Turismo y Comercio elaborará y mantendrá actualizada una propuesta de modelos de declaración responsable, que deberá incluir los datos que se suministrarán al indicado registro, y que estará disponible en la sede electrónica de dicho Ministerio.
+
+> Se añade por el art. 2.3 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+### Disposición adicional cuarta. Obligaciones en materia de información y reclamaciones.
+
+Las empresas instaladoras y las conservadoras deben cumplir las obligaciones de información de los prestadores y las obligaciones en materia de reclamaciones establecidas, respectivamente, en los artículos 22 y 23 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
+
+> Se añade por el art. 2.4 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+### Disposición transitoria.
+
+Hasta la entrada en vigor de las correspondientes Instrucciones Técnicas Complementarias de este Reglamento, serán de aplicación las siguientes disposiciones:
+
+Para los ascensores y montacargas movidos por energía eléctrica, el Reglamento de Aparatos Elevadores, aprobado por Orden del Ministerio de Industria de 30 de junio de 1966, y demás disposiciones posteriores que lo modifican.
+
+Para los aparatos elevadores de propulsión hidráulica, la Orden del Ministerio de Industria de 30 de julio de 1974, por la que se determinan las condiciones que deben reunir los aparatos elevadores de propulsión hidráulica y las normas para la aprobación de sus equipos impulsores.
+
+Para los aparatos elevadores de obras, el Reglamento de Aparatos Elevadores para obras, aprobado por Orden del Ministerio de Industria de 23 de mayo de 1977.
+
+### Disposición final primera primera.
+
+Se autoriza al Ministerio de Industria y Energía para que mediante resoluciones del Centro Directivo competente en materia de seguridad industrial, en atención al desarrollo técnico o a situaciones objetivas excepcionales, a petición de parte interesada, previo informe del Consejo Superior del Ministerio y oída, en su caso, la Comisión Asesora de aparatos elevadores, pueda aceptar para casos determinados, prescripciones técnicas diferentes de las previstas en las Instrucciones Técnicas Complementarias, dejando siempre a salvo las competencias que en materia de ejecución pudiera corresponder a las Comunidades Autónomas, y siempre que no exista menoscabo de la seguridad.
+
+### Disposición final segunda.
+
+Queda autorizado el Ministerio de Industria y Energía para modificar en caso de necesidad las prescripciones que el Reglamento anexo establece en su capítulo II para la homologación y conformidad de la producción.
+
+### Disposición final tercera.
+
+Por el Ministerio de Industria y Energía, se aprobarán las correspondientes Instrucciones Técnicas Complementarias que desarrollen las previsiones normativas de este Reglamento, previo informe de la Comisión asesora de aparatos elevadores.
+
+Dado en Madrid a 8 de noviembre de 1985.
+
+JUAN CARLOS R.
+
+El Ministro de Industria y Energía,
+
+JUAN MAJÓ CRUZATE
+
+## ANEXO — Reglamento de Aparatos de Elevación y Manutención
+
+## CAPÍTULO PRIMERO — Objeto y campo de aplicación
+
+### Artículo 1.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. [Ref. BOE-A-1997-20731](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20731).
+
+### Artículo 2.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. [Ref. BOE-A-1997-20731](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20731).
+
+### Artículo 3.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. [Ref. BOE-A-1997-20731](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20731).
+
+## CAPÍTULO II — Homologación y conformidad de la producción
+
+### Artículo 4.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. [Ref. BOE-A-1997-20731](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20731).
+
+### Artículo 5.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. [Ref. BOE-A-1997-20731](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20731).
+
+### Artículo 6.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. [Ref. BOE-A-1997-20731](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20731).
+
+## CAPÍTULO III — Fabricantes, importadores, instaladores, conservadores, propietarios y encargados
+
+### Artículo 7. Fabricante e importadores.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. [Ref. BOE-A-1997-20731](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20731).
+
+### Artículo 8. Empresas instaladoras.
+
+1\. A efectos del presente reglamento, se considera empresa instaladora la persona física o jurídica que desarrolla las actividades de instalación, montaje y desmontaje de los aparatos de elevación y manutención a los que se refiere el artículo 2.º
+
+2\. Antes de comenzar sus actividades como empresas instaladoras, las personas físicas o jurídicas que deseen establecerse en España deberán presentar ante el órgano competente de la comunidad autónoma en la que se establezcan una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare que cumple los requisitos que se exigen por este Reglamento y, en su caso, por la correspondiente Instrucción Técnica Complementaria, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establezcan en este reglamento y las respectivas Instrucciones Técnicas Complementarias.
+
+3\. Las empresas instaladoras legalmente establecidas para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español, deberán presentar, previo al inicio de la misma, ante el órgano competente de la comunidad autónoma donde deseen comenzar su actividad una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare que cumple los requisitos que se exigen por este Reglamento y, en su caso, por la correspondiente Instrucción Técnica Complementaria, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establezcan en este reglamento y las respectivas Instrucción Técnica Complementaria.
+
+Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 1837/2008, de 8 de noviembre, por el que se incorporan al ordenamiento jurídico español la Directiva 2005/36/CE, del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, y la Directiva 2006/100/CE, del Consejo, de 20 de noviembre de 2006, relativas al reconocimiento de cualificaciones profesionales así como a determinados aspectos del ejercicio de la profesión de abogado. La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del Real Decreto 1837/2008, de 8 de noviembre.
+
+4\. Las comunidades autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.
+
+No se podrá exigir la presentación de documentación acreditativa del cumplimiento de los requisitos junto con la declaración responsable. No obstante, esta documentación deberá estar disponible para su presentación inmediata ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control.
+
+5\. El órgano competente de la comunidad autónoma, asignará, de oficio, un número de identificación a la empresa y remitirá los datos necesarios para su inclusión en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y en su normativa reglamentaria de desarrollo.
+
+6\. De acuerdo con la Ley 21/1992, de 16 de julio, de Industria, la declaración responsable habilita por tiempo indefinido a la empresa instaladora, desde el momento de su presentación ante la Administración competente, para el ejercicio de la actividad en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.
+
+7\. Al amparo de lo previsto en el apartado 3 del artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la Administración competente podrá regular un procedimiento para comprobar a posteriori lo declarado por el interesado.
+
+En todo caso, la no presentación de la declaración, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones que deban figurar en dicha declaración habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare la imposibilidad de seguir ejerciendo la actividad y, si procede, se inhabilite temporalmente para el ejercicio de la actividad sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas.
+
+8\. Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria, así como el cese de las actividades, deberá ser comunicado por el interesado al órgano competente de la comunidad autónoma donde presentó la declaración responsable en el plazo de un mes.
+
+9\. Las empresas instaladoras cumplirán lo siguiente:
+
+a) Disponer de la documentación que identifique a la empresa instaladora, que en el caso de persona jurídica, deberá estar constituida legalmente.
+
+b) Poseer los medios técnicos y humanos mínimos necesarios para realizar sus actividades en condiciones de seguridad, que se especifiquen en cada Instrucción Técnica Complementaria.
+
+c) Tener cubierta la responsabilidad civil mediante la suscripción de un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio por la cuantía que se indique en la correspondiente Instrucción Técnica Complementaria.
+
+10\. La empresa instaladora habilitada no podrá facilitar, ceder o enajenar certificados de instalación no realizadas por ella misma.
+
+11\. El incumplimiento de los requisitos exigidos, verificado por la autoridad competente y declarado mediante resolución motivada, conllevará el cese de la actividad, salvo que pueda incoarse un expediente de subsanación de errores, sin perjuicio de las sanciones que pudieran derivarse de la gravedad de las actuaciones realizadas.
+
+La autoridad competente, en este caso, abrirá un expediente informativo al titular de la instalación, que tendrá quince días naturales a partir de la comunicación para aportar las evidencias o descargos correspondientes.
+
+12\. El órgano competente de la comunidad autónoma dará traslado inmediato al Ministerio de Industria, Turismo y Comercio de la inhabilitación temporal, las modificaciones y el cese de la actividad a los que se refieren los apartados precedentes para la actualización de los datos en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, tal y como lo establece su normativa reglamentaria de desarrollo.
+
+> Se añade por el art. 2.5 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+> Redactado el punto 3 conforme a la corrección de errores publicada en BOE núm. 149, de 19 de junio de 2010. [Ref. BOE-A-2010-9716](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9716).
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. [Ref. BOE-A-1997-20731](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20731).
+
+### Artículo 9.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. [Ref. BOE-A-1997-20731](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20731).
+
+### Artículo 10. Empresas conservadoras.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.d) del Real Decreto 88/2013, de 8 de febrero. [Ref. BOE-A-2013-1969](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1969).
+
+> Se modifica por el art. 2.6 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 149, de 19 de junio de 2010. [Ref. BOE-A-2010-9716](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9716).
+
+### Artículo 11.
+
+Los conservadores, con independencia de lo que especifiquen las ITC, adquirirán por su parte las siguientes obligaciones en relación con los aparatos cuyo mantenimiento o reparación tengan contratado.
+
+a) Revisar, mantener y comprobar la instalación de acuerdo con los plazos que para cada clase de aparato se determinen en las ITC.
+
+En estas revisiones se dedicará especial atención a los elementos de seguridad del aparato, manteniendo un buen funcionamiento y la seguridad de las personas y las cosas.
+
+b) Enviar personal competente cuando sea requerido por el propietario o arrendatario, en su caso, o por el personal encargado del servicio, para corregir averías que se produzcan en la instalación.
+
+c) Poner por escrito en conocimiento del propietario o arrendatario, en su caso, los elementos del aparato que han de sustituirse, por apreciar que no se encuentran en las condiciones precisas para que aquel ofrezca las debidas garantías de buen funcionamiento, o si el aparato no cumple las condiciones vigentes que le son aplicables.
+
+d) Interrumpir el servicio del aparato cuando se aprecie riesgo de accidentes hasta que se efectúe le necesaria reparación.
+
+En caso de accidente, vendrán obligados a ponerlo en conocimiento del Órgano Territorial competente de la Administración Pública y a mantener interrumpido el funcionamiento hasta que, previos los reconocimientos y pruebas pertinentes, lo autorice dicho Órgano competente.
+
+e) Conservar, desde la última inspección periódica realizada por el Órgano Territorial competente, la documentación correspondiente, justificativa de las fechas de visita, resultado de las revisiones de conservación, elementos sustituidos e incidencias que se consideren dignas de mención, entregándose una copia de la misma al propietario o arrendatario, en su caso.
+
+f) Comunicar al propietario del aparato la fecha en que le corresponde solicitar la inspección periódica.
+
+g) Dar cuenta en el plazo máximo de quince días al Órgano Territorial competente de la Administración Pública de todas las altas y bajas de contratos de conservación de los aparatos que tengan a su cargo. Al enviar esta comunicación el conservador podrá hacer constar cuantas observaciones estime pertinentes.
+
+### Artículo 12.
+
+Toda entidad que lo desee podrá actuar como conservador de sus propias instalaciones y aparatos siguiendo las prescripciones que se establecen en el artículo 10.
+
+> Se modifica por el art. 2.7 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+### Artículo 13. Propietarios.
+
+1\. El propietario o, en su caso, el arrendatario de un aparato de elevación y manutención, objeto de este reglamento, ha de cuidar de que este se mantenga en perfecto estado de funcionamiento, así como impedir su utilización cuando no ofrezca las debidas garantías de seguridad para las personas o las cosas. A estos efectos, tendrá que cumplir las siguientes obligaciones:
+
+a) Contratar el mantenimiento y revisiones de la instalación con una empresa conservadora que cumpla los requisitos exigidos por este reglamento, si así se indica en las Instrucciones Técnicas Complementarias de este reglamento.
+
+b) Solicitar a su debido tiempo la realización de las inspecciones periódicas que establezcan las ITC.
+
+c) Tener debidamente atendido el servicio de las instalaciones, a cuyo efecto dispondrá, como mínimo, de una persona encargada del aparato si así se estableciera en la ITC correspondiente.
+
+d) Impedir el funcionamiento de la instalación cuando, directa o indirectamente,tenga conocimiento de que la misma no reúne las debidas condiciones de seguridad.
+
+e) En caso de accidente, vendrá obligado a ponerlo en conocimiento del Órgano Territorial competente de la Administración Pública y de la Empresa conservadora y a no reanudar el servicio hasta que, previos los reconocimientos y pruebas pertinentes, lo autorice este Órgano competente.
+
+f) Facilitar a la Empresa conservadora la realización de las revisiones y comprobaciones que está obligada a efectuar en su aparato elevador o de manutención.
+
+> Se modifica el apartado 1.a) por el art. 2.8 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+### Artículo 14. Personal encargado del aparato.
+
+1\. Debe existir para los aparatos de elevación y manutención incluidos en este Reglamento, una o varias personas encargadas de los mismos, si así se estableciera en la ITC correspondiente.
+
+2\. Además de lo que a estos efectos indiquen las correspondientes ITC, estas personas deberán:
+
+a) Estar debidamente instruidas en el manejo del aparato del cual están encargadas. Dichas instrucciones serán facilitadas por el fabricante, instalador o conservador, según se especifique en las ITC.
+
+b) Impedir el uso del aparato en cuanto observen alguna anomalía en el funcionamiento del mismo, avisando inmediatamente al propietario o arrendatario, en su caso, y al conservador y, cuando se trate de una emergencia, a los servicios públicos competentes.
+
+c) Poner inmediatamente en conocimiento del conservador cualquier deficiencia o abandono en relación con la debida conservación de la instalación y en caso de no ser corregida, denunciarlo ante el Órgano Territorial competente de la Administración Pública a través del propietario o arrendatario, en su caso.
+
+### Artículo 15.
+
+Las personas físicas que se consideren afectadas por un servicio de un aparato no prestado en las debidas condiciones de seguridad, podrán presentar sus reclamaciones ante el órgano territorial competente de la Administración Pública.
+
+## CAPÍTULO IV — Instalación y puesta en servicio
+
+### Artículo 16. Instalación.
+
+1\. **(Derogado)**
+
+2\. Dicho proyecto será redactado y firmado por un técnico titulado competente.
+
+3\. **(Suprimido)**
+
+> Se modifica el apartado 2 y se suprime el 3 por el art. 2.9 y 10 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. [Ref. BOE-A-1997-20731](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20731).
+
+### Artículo 17. Puesta en servicio.
+
+La puesta en funcionamiento de un aparato de elevación y manutención, salvo que la Instrucción Técnica Complementaria disponga otra cosa, no precisará otro requisito que la presentación ante el órgano competente de la comunidad autónoma de un certificado de la Empresa instaladora, examinado y con el visto bueno de un técnico titulado competente designado por la misma.
+
+> Se añade por el art. 2.11 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. [Ref. BOE-A-1997-20731](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20731).
+
+### Artículo 18. Modificación de aparatos autorizados en servicio.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. [Ref. BOE-A-1997-20731](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20731).
+
+### Artículo 19. Revisiones de conservación e inspecciones periódicas.
+
+1\. Los aparatos sujetos a este Reglamento se someterán a las revisiones de conservación e inspecciones periódicas que se establezcan en las ITC que desarrollen el mismo, las cuales determinarán en cada caso el tiempo máximo que podrá transcurrir entre dos revisiones o inspecciones consecutivas.
+
+2\. Las inspecciones periódicas se llevarán a efecto por el Órgano Territorial competente de la Administración Pública o, si este así lo establece, por una Entidad colaboradora facultada para la aplicación de este Reglamento. En cualquier caso, las actas de inspección de las Entidades colaboradoras serán supervisadas e intervenidas por el citado Órgano competente.
+
+## CAPÍTULO V — Responsabilidades, sanciones y recursos
+
+### Artículo 20. Infracciones y sanciones.
+
+Las infracciones a lo dispuesto en el presente reglamento se clasificarán y sancionarán de acuerdo con lo dispuesto en el título V de la Ley 21/1992, de 16 de julio, de Industria.
+
+> Se añade por el art. 2.12 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. [Ref. BOE-A-1997-20731](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20731).
+
+### Artículo 21. Tipificación de las faltas.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.13 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. [Ref. BOE-A-1997-20731](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20731).
+
+### Artículo 22. Tramitación de las sanciones y recursos.
+
+1\. Las sanciones a que se refiere el presente capítulo, serán impuestas, previa instrucción del oportuno expediente, tramitado conforme a la Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+2\. El órgano competente de la comunidad autónoma deberá comunicar, de forma inmediata, al Ministerio de Industria, Turismo y Comercio, las sanciones impuestas a fabricantes, instaladores o conservadores.
+
+Asimismo se comunicará si el sancionado ha interpuesto recurso contra la sanción que la haya sido impuesta.
+
+> Se añade por el art. 2.14 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. [Ref. BOE-A-1997-20731](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20731).
+
+## CAPÍTULO VI — Datos registrales y estadísticos
+
+### Artículo 23.
+
+1\. Los Órganos Territoriales competentes de la Administración Pública llevarán un Registro de instalaciones por cada una de las ITC, en el que figuren los aparatos elevadores y de manutención incluidos en este Reglamento, con los datos fundamentales de cada uno, inspecciones generales periódicas efectuadas e incidencias surgidas en su funcionamiento.
+
+2\. Además, los citados Órganos Territoriales competentes comunicarán al Centro Directivo del Ministerio de Industria y Energía competente en materia de seguridad industrial, al final de cada año y a efectos estadísticos, los siguientes datos:
+
+a) Número de aparatos de cada ITC, incluidos en este Reglamento, indicando, respecto al año anterior, las altas y bajas producidas y el parque existente al final de dicho año.
+
+b) Accidentes producidos en los citados aparatos durante el año anterior, indicando para cada uno de ellos la causa que los ha originado, así como las víctimas y daños ocasionados.
+
+> Información relacionada
+
+> Téngase en cuenta que se aprueban las siguientes Instrucciones Técnicas Complementarias del Reglamento de Aparatos de Elevación y Manutención:
+
+> \- «ITC AEM 1», referente a ascensores, por Real Decreto 355/2024, de 2 de abril. [Ref. BOE-A-2024-7258](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-7258)
+
+> \- «MIE-AEM-2», referente a grúas torre para obras u otras aplicaciones, por Real Decreto 836/2003, de 27 de junio. [Ref. BOE-A-2003-14326](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-14326)
+
+> \- «MIE-AEM-4», referente a grúas móviles autopropulsadas, por Real Decreto 837/2003, de 27 de junio. [Ref. BOE-A-2003-14327](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-14327)

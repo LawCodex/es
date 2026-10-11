@@ -1,0 +1,344 @@
+---
+title: "Real Decreto 1113/2006, de 29 de septiembre, por el que se aprueban las normas de calidad para quesos y quesos fundidos"
+identifier: "BOE-A-2006-17436"
+eli: "https://www.boe.es/eli/es/rd/2006/09/29/1113"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2006-09-29
+published: 2006-10-06
+in_force_from: 2006-10-07
+last_amended: 2015-09-12
+consolidated: 2026-04-22
+gazette: "Boletín Oficial del Estado núm. 239"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-17436"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1113/2006, de 29 de septiembre, por el que se aprueban las normas de calidad para quesos y quesos fundidos
+
+El Decreto 2484/1967, de 21 de septiembre, por el que se aprueba el texto del Código Alimentario Español, establece la normativa relativa a los quesos en la sección 2.ª, «Derivados de la leche» perteneciente al capítulo XV, «leches y derivados».
+
+Dicha normativa se complementa con lo establecido por la Orden de 29 de noviembre de 1985, por la que se aprueban las normas de calidad para quesos y quesos fundidos destinados al mercado interior, modificada por las Órdenes de 8 de mayo de 1987, de 3 de mayo de 1988 y de 20 de mayo de 1994.
+
+Asimismo, son aplicables diversas disposiciones estatales y comunitarias de carácter horizontal, relacionadas con los productos lácteos y con los alimentos en general, siendo también de referencia las normas del «Codex Alimentarius» relativas a quesos y quesos fundidos.
+
+Esta dispersión normativa hace necesaria una unificación para su mejor concreción y aplicación, lo que se realiza a través de esta norma, que además se adapta a la situación actual, favoreciendo la competencia y la defensa de los derechos de los consumidores.
+
+Como consecuencia de lo anterior, se derogan varios preceptos de la sección 2.ª, del capítulo XV, del Código Alimentario Español, así como de la mencionada Orden de 29 de noviembre de 1985, para establecer nuevas normas de calidad para los quesos y quesos fundidos, que se recogen en los anexos I y II de este real decreto.
+
+Estas normas de calidad están destinadas a los quesos y quesos fundidos elaborados en España.
+
+En el proceso de tramitación de este real decreto han sido consultadas las comunidades autónomas y los sectores afectados, habiendo emitido informe favorable la Comisión Interministerial para la Ordenación Alimentaria.
+
+Además, ha sido sometido al procedimiento previsto en la Directiva 98/34/CE, del Parlamento Europeo y del Consejo, de 22 de junio, por la que se establece un procedimiento de información en materia de las normas y reglamentaciones técnicas, y en el Real Decreto 1337/1999, de 31 de julio, por el que se regula la remisión de información en materia de normas y reglamentaciones técnicas y reglamentos relativos a los servicios de la sociedad de la información.
+
+En su virtud, a propuesta de las Ministras de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 29 de septiembre de 2006,
+
+DISPONGO:
+
+## Artículo único. Objeto y ámbito de aplicación.
+
+Se aprueban las normas de calidad para los quesos y quesos fundidos elaborados en España que estén destinados a su comercialización, recogidas, respectivamente, en los anexos I y II de este real decreto.
+
+Todos los quesos elaborados en España incluso los que utilicen el nombre de alguna variedad de queso, española o extranjera, deberán ajustarse a las disposiciones de esta norma general. Aquellas variedades que tuvieran norma específica deberán, además, cumplir lo establecido en dicha norma y, en su defecto, los usos y prácticas tradicionales ligadas a dicha variedad.
+
+No obstante, como excepción a lo indicado en el párrafo anterior, en los quesos amparados por Denominaciones de Origen Protegidas o Indicaciones Geográficas Protegidas prevalecerán las características diferenciales establecidas en los correspondientes pliegos de condiciones.
+
+Este real decreto se aplica sin perjuicio de las normas sanitarias y otras disposiciones específicas que afecten a la producción y comercialización de los quesos y quesos fundidos.
+
+## Disposición adicional única. Cláusula de reconocimiento mutuo.
+
+Los requisitos de este real decreto no se aplicarán a los quesos y quesos fundidos legalmente fabricados o comercializados de acuerdo con otras especificaciones en los otros Estados miembros de la Unión Europea ni a los productos originarios de los países de la Asociación Europea de Libre Comercio (AELC), Partes Contratantes en el Acuerdo sobre el Espacio Económico Europeo (EEE) y Turquía.
+
+## Disposición transitoria única. Prórroga de comercialización.
+
+Los productos objeto de este real decreto que no se ajusten a lo dispuesto en él, podrán seguir comercializándose durante los seis meses siguientes a la fecha de su publicación, siempre que cumplan con las disposiciones vigentes anteriores a su entrada en vigor.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto y, en particular:
+
+Los artículos 3.15.26, 3.15.27, 3.15.28, 3.15.29, 3.15.30, 3.15.31, 3.15.32 y 3.15.33, de la Sección 2.ª, del Capítulo XV, del Código Alimentario Español, aprobado por Decreto 2484/1967, de 21 de septiembre.
+
+La Orden de 29 de noviembre de 1985 por la que se aprueban las Normas de calidad para quesos y quesos fundidos destinados al mercado interior.
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta de conformidad con lo dispuesto en el artículo 149.1.13.ª y 16.ª de la Constitución, que atribuyen al Estado competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica, y de bases y coordinación general de la sanidad respectivamente.
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 29 de septiembre de 2006.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
+
+## ANEXO I — Norma de calidad para los quesos
+
+1\. Definición.
+
+Se entiende por queso el producto fresco o madurado, sólido o semisólido, obtenido de la leche, de la leche total o parcialmente desnatada, de la nata, del suero de mantequilla o de una mezcla de algunos o de todos estos productos, coagulados total o parcialmente por la acción del cuajo u otros coagulantes apropiados, antes del desuerado o después de la eliminación parcial de la parte acuosa, con o sin hidrólisis previa de la lactosa, siempre que la relación entre la caseína y las proteínas séricas sea igual o superior a la de la leche.
+
+2\. Denominaciones.
+
+La denominación de los productos objeto de esta norma, a excepción de las variedades de queso que tengan norma específica que utilizarán la denominación prevista, será «Queso» que deberá completarse, según corresponda, con las siguientes indicaciones:
+
+2.1 Según el origen de la leche:
+
+Los quesos que no tengan una denominación concreta o aquellos que aun teniéndola no estén protegidos por una norma individual de composición y características específicas, que se fabriquen con leche distinta de la de vaca, deberán incluir en su denominación después de la palabra «queso» la indicación de la especie que corresponda.
+
+Los quesos elaborados con mezcla de leche de dos o más especies, deberán incluir en su denominación, después de la palabra queso, la indicación de las especies animales de las que proceda la leche en orden descendente de proporciones. Esta denominación podrá reemplazarse por la de «Queso de mezcla».
+
+2.2 Atendiendo a su maduración, los quesos se denominarán de la siguiente forma:
+
+2.2.1 Queso fresco: es el que está dispuesto para el consumo al finalizar el proceso de fabricación.
+
+2.2.2 Queso blanco pasterizado: es aquel queso fresco en el que el coágulo obtenido se somete a un proceso de pasterización, quedando dispuesto para el consumo al finalizar su proceso de fabricación.
+
+2.2.3 Queso madurado: es el que, tras el proceso de fabricación, requiere mantenerse durante cierto tiempo a una temperatura y en condiciones tales que se produzcan los cambios físicos y químicos característicos del mismo.
+
+La palabra madurado podrá sustituirse por los calificativos según el grado de maduración alcanzado por el producto a la salida de fábrica que figuran en el siguiente cuadro:
+
+<table class="tabla" border="0">
+<tbody>
+<tr>
+<td rowspan="2">
+<p class="cabeza_tabla">Denominaciones facultativas</p>
+</td>
+<td>
+<p class="cabeza_tabla">Peso &gt; 1,5 kg</p>
+</td>
+<td>
+<p class="cabeza_tabla">Peso ≤ 1,5 kg</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p class="cabeza_tabla">Maduración mínima en días</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Tierno</p>
+</td>
+<td colspan="2">
+<p class="cuerpo_tabla_centro">7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Semicurado</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">35</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Curado</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">105</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Viejo</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">180</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Añejo</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">270</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+2.2.4 Queso madurado con mohos: es aquel en el que la maduración se produce, principalmente, como consecuencia del desarrollo característico de mohos en su interior, en la superficie o en ambas partes. Dicha denominación podrá sustituirse por la de «queso azul» o «queso de pasta azul», cuando corresponda.
+
+2.3 **(Suprimido)**
+
+3\. Factores esenciales de composición y calidad.
+
+3.1 Ingredientes esenciales.
+
+3.1.1 Leche, leche total o parcialmente desnatada, nata y suero de mantequilla.
+
+3.1.2 Cuajo, quimosina y otros coagulantes de leche de origen animal, vegetal o microbiano, que cumplan la Orden de 14 de enero de 1988, por la que se aprueba la norma general de identidad y pureza para el cuajo y otras enzimas coagulantes de leche destinados al mercado interior.
+
+3.1.3 Fermentos lácticos, de acuerdo con el tipo, clase o calidad del queso, en dosis máxima de uso determinada por la buena práctica de fabricación.
+
+3.1.4 Mohos, levaduras y cultivos microbianos adecuados para la maduración de quesos inoculados con ellos, en dosis máxima de uso determinada por la buena práctica de fabricación.
+
+3.2 Ingredientes facultativos.
+
+3.2.1 Cloruro sódico, en dosis limitadas por la buena práctica de fabricación.
+
+3.2.2 Sustancias aromáticas autorizadas.
+
+3.2.3 Especias, condimentos y alimentos con incidencia organoléptica apreciable, en proporción suficiente para caracterizar el producto, pero inferior al treinta por ciento masa/masa sobre el producto terminado.
+
+3.2.4 Sacarosa, y glucosa, solas o en combinación, exclusivamente en quesos frescos y quesos blancos pasterizados, en dosis no superior al 17 por ciento masa/masa, quedando incluido este porcentaje en el indicado en 3.2.3.
+
+3.2.5 Gelatina en cantidad máxima de 5 g/Kg. de queso y solamente en quesos frescos y quesos blancos pasterizados.
+
+3.2.6 Leche en polvo, para el ajuste del extracto seco lácteo, en porcentaje máximo del 5 por ciento masa/masa sobre dicho extracto.
+
+3.2.7. Otros productos obtenidos de la leche y que sean propios de su composición, incluidos la caseína y los caseinatos, siempre que la relación entre la caseína y las proteínas séricas sea igual o superior a la de la leche.
+
+3.3 Características físico químicas.
+
+Para los quesos elaborados con leche de vaca, cabra y oveja, el límite mínimo de colesterol, dentro de los esteroles, será de un 98 por ciento sobre la fracción esterólica del insaponificable, determinados por cromatografía gaseosa.
+
+4\. Aditivos autorizados.
+
+**(Suprimido)**
+
+5\. Recubrimiento y tratamiento de superficie:
+
+a) Para el recubrimiento de los quesos podrán usarse, otros ingredientes utilizados en alimentación humana o, en su caso, autorizados de conformidad con el Reglamento (CE) n.º 258/97, del Parlamento Europeo y del Consejo, de 27 de enero de 1997, sobre nuevos alimentos y nuevos ingredientes alimentarios.
+
+b) Podrán someterse a ahumado tradicional mediante humo procedente de la combustión de la madera aplicado directamente en la superficie.
+
+c) Exclusivamente para quesos madurados, en el tratamiento de la corteza podrán utilizarse: ceras, parafinas, materiales poliméricos con o sin colorantes, aceites minerales especialmente preparados y otros materiales autorizados para tal fin.
+
+6\. Prohibiciones.
+
+Queda expresamente prohibido:
+
+6.1 La presencia en el queso de grasas, proteínas o ambas, distintas a las de la propia leche.
+
+6.2 La comercialización de queso rallado o en polvo, a granel, así como su venta fuera del envase original.
+
+6.3 La venta de quesos con un extracto seco lácteo inferior al 15 por ciento, expresado en masa/masa sobre el producto terminado.
+
+7\. Etiquetado.
+
+Sin perjuicio del cumplimiento de los requisitos establecidos en la normativa relativa a la información alimentaria facilitada al consumidor, el etiquetado de los quesos se ajustará además a las especificaciones que se indican en los siguientes apartados.
+
+El etiquetado de los quesos que se comercialicen en piezas enteras con la etiqueta directamente adherida a la corteza y sin recubrir por un envase, cumplirá los mismos requisitos que los exigidos a los quesos envasados, a excepción de la mención de la información nutricional obligatoria, sin perjuicio de las obligaciones derivadas del Reglamento (CE) 1924/2006 del Parlamento Europeo y del Consejo de 21 de diciembre de 2006.
+
+7.1 Denominación de venta.
+
+Será la prevista en el punto 2.
+
+En el caso de que se incorpore algún ingrediente de los indicados en el punto 3.2.3, la denominación se completará agregando la palabra «con» seguida del nombre del ingrediente o ingredientes añadidos.
+
+7.2 Lista de ingredientes.
+
+Los quesos elaborados con mezcla de leches de distintas especies que utilicen la denominación «Queso de mezcla», indicarán las especies animales, de las que proceda la leche empleada, en orden decreciente de sus pesos en el momento en que se incorporen durante el proceso de fabricación del producto, acompañadas de sus porcentajes mínimos presentes en la mezcla.
+
+7.3 Contenido de materia grasa.
+
+Se indicará el contenido mínimo de materia grasa por cien gramos de producto acabado que se corresponderá con el que contenga el producto a la salida de fábrica. Sin embargo, esta mención no es exigible cuando forme parte del etiquetado nutricional.
+
+7.4. El etiquetado de los productos definidos en esta norma, además de las declaraciones nutricionales acordes con el Reglamento (CE) n.º 1924/2006, del Parlamento Europeo y del Consejo, de 20 de diciembre de 2006, relativo a las declaraciones nutricionales y de propiedades saludables en los alimentos, podrá incluir, facultativamente, las menciones, graso y extragraso, de acuerdo con las siguientes condiciones:
+
+Graso: Cuando el queso contenga un mínimo de 45 y menos de 60 por ciento de materia grasa sobre el extracto seco total.
+
+Extragraso: Cuando el queso contenga un mínimo de 60 por ciento de materia grasa sobre el extracto seco total.
+
+> Se modifica por el art. 1 del Real Decreto 818/2015, de 11 de septiembre. [Ref. BOE-A-2015-9807](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9807).
+
+## ANEXO II — Norma de calidad para los quesos fundidos
+
+1\. Definición.
+
+Se entiende por queso fundido el producto obtenido por molturación, mezcla, fusión y emulsión, de una o más variedades de queso con o sin adición de leche, productos lácteos y otros productos alimenticios.
+
+2\. Denominaciones.
+
+La denominación «queso fundido» queda reservada al producto que contenga un extracto seco total mínimo del 35 por ciento masa/masa, con la excepción de lo indicado en el apartado 2.3.
+
+La denominación «queso fundido» podrá completarse, según corresponda, con las siguientes indicaciones:
+
+2.1 **(Suprimido)**
+
+2.2 El nombre de una variedad de queso, siempre que esta constituya al menos el 50 por ciento de las materias primas. El queso de la citada variedad deberá representar como mínimo el 75 por ciento de la mezcla de quesos utilizados en la elaboración del producto, debiendo pertenecer el 25 por ciento restante a una variedad o variedades similares.
+
+Los nombres de más de una variedad siempre que únicamente se hayan utilizado dichas variedades y que al menos constituyan el 50 por ciento de las materias primas. Ninguna de ellas podrá representar un porcentaje inferior al 10 por ciento de las materias primas.
+
+Todo ello sin perjuicio de la protección otorgada por el Reglamento (CE) n.º 510/2006 del Consejo, de 20 de marzo, sobre protección de las indicaciones geográficas y de las denominaciones de origen de los productos agrícolas y alimenticios.
+
+2.3 La expresión «para untar» o «para extender» podrá también formar parte de la denominación, cuando el queso fundido se destine a este fin, si el extracto seco total es como mínimo del 30 por ciento masa/masa.
+
+3\. Factores esenciales de composición y calidad.
+
+3.1 Ingredientes esenciales: Queso.
+
+3.2 Ingredientes facultativos.
+
+3.2.1 Productos lácteos en cantidad limitada por el porcentaje de lactosa, que no excederá del 6 por ciento, expresado en masa/masa sobre el producto terminado, descontando los ingredientes de 3.2.3 y 3.2.4.
+
+3.2.2 Cloruro sódico en dosis limitadas por la buena práctica de fabricación.
+
+3.2.3 Sustancias aromáticas autorizadas.
+
+3.2.4 Especias, condimentos y alimentos, con incidencia organoléptica apreciable, siempre que no excedan del 30 por ciento en masa sobre el producto terminado.
+
+3.3 Características físico químicas.
+
+Para quesos fundidos sin las adiciones contempladas en el apartado 3.2.3 y 3.2.4, el límite mínimo de colesterol, dentro de los esteroles, será de un 98 por ciento sobre la fracción esterólica del insaponificable, determinados por cromatografía gaseosa.
+
+4\. Aditivos autorizados.
+
+**(Suprimido)**
+
+5\. Prohibiciones.
+
+Queda expresamente prohibido:
+
+5.1 Cualquier manipulación en la elaboración de queso fundido que tienda a sustituir, total o parcialmente, la grasa, las proteínas o ambas procedentes de la leche por otras distintas.
+
+5.2 La comercialización de queso fundido rallado o en polvo, a granel, así como su venta fuera de su envase original.
+
+6\. Etiquetado.
+
+Sin perjuicio del cumplimiento de los requisitos establecidos en la normativa relativa a la información alimentaria facilitada al consumidor, el etiquetado de los quesos fundidos se ajustará además a las especificaciones que se indican en los siguientes apartados.
+
+6.1 Denominación de venta.
+
+La denominación de venta se indicará de acuerdo con lo establecido en el punto 2.
+
+Los quesos fundidos previstos en el punto 2.2 se designarán como «queso fundido...» «queso...fundido» o «...fundido», rellenando el espacio con el nombre de la variedad. En el caso de indicar más de una variedad éstas se designarán por orden decreciente de proporciones.
+
+Cuando se incorpore algún ingrediente de los indicados en el punto 3.2.4, la denominación se completará agregando la palabra «con», seguida del nombre del ingrediente o ingredientes añadidos.
+
+6.2 Contenido de materia grasa.
+
+Se indicará el contenido mínimo de materia grasa por cien gramos de producto acabado que se corresponderá con el que contenga el producto a la salida de fábrica. Sin embargo, esta mención no es exigible cuando forme parte del etiquetado nutricional.
+
+6.3 El etiquetado de los productos definidos en esta norma, además de las declaraciones nutricionales acordes con el Reglamento (CE) 1924/2006, de 20 de diciembre de 2006, relativo a las declaraciones nutricionales y de propiedades saludables en los alimentos, podrá incluir, facultativamente, las menciones, graso y extragraso, de acuerdo con las siguientes condiciones:
+
+Graso: cuando el queso contenga un mínimo de 45 y menos de 60 por ciento de materia grasa sobre el extracto seco total.
+
+Extragraso: cuando el queso contenga un mínimo de 60 por ciento de materia grasa sobre el extracto seco total.
+
+> Se suprime el apartado 2.1 y el apartado 4 y se modifica el 6 por el art. 2 del Real Decreto 818/2015, de 11 de septiembre. [Ref. BOE-A-2015-9807](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9807).

@@ -1,0 +1,451 @@
+---
+title: "Instrumento de Ratificación de 14 de julio de 1982 del Convenio Europeo de Asistencia Judicial en Materia Penal, hecho en Estrasburgo el 20 de abril de 1959"
+identifier: "BOE-A-1982-23564"
+eli: "https://www.boe.es/eli/es/ai/1959/04/20/(2)"
+type: treaty
+rank: "Acuerdo Internacional"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 1959-04-20
+published: 1982-09-17
+in_force_from: 1982-11-16
+last_amended: 2024-08-05
+consolidated: 2026-03-31
+gazette: "Boletín Oficial del Estado núm. 223"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-23564"
+retrieved: 2026-10-11
+---
+
+# Instrumento de Ratificación de 14 de julio de 1982 del Convenio Europeo de Asistencia Judicial en Materia Penal, hecho en Estrasburgo el 20 de abril de 1959
+
+JUAN CARLOS I
+
+REY DE ESPAÑA
+
+Por cuanto el día 24 de julio de 1979, el Plenipotenciario de España, nombrado en buena y debida forma al efecto, firmó en Estrasburgo el Convenio Europeo de Asistencia Judicial en Materia Penal, hecho en Estrasburgo el 20 de abril de 1959.
+
+Vistos y examinados el Preámbulo y los treinta artículos de dicho Convenio,
+
+Concedida por las Cortes Generales la autorización prevista en el artículo 94.1 de la Constitución,
+
+Vengo en aprobar y ratificar cuanto en él se dispone, como en virtud del presente lo apruebo y ratifico, prometiendo cumplirlo, observarlo y hacer que se cumpla y observe puntualmente en todas sus partes, a cuyo fin, para su mayor validación y firmeza mando expedir este Instrumento de Ratificación firmado por Mi, debidamente sellado y refrendado por el infrascrito Ministro de Asuntos Exteriores, con las siguientes declaraciones y reservas:
+
+### A) Declaraciones.
+
+Al artículo 7.º, párrafo 3. España declara que, a los efectos de lo previsto en el artículo 7.º, 3 del Convenio, la antelación de dicho precepto mencionada será de treinta días como mínimo.
+
+Al artículo 15, párrafo 6. España declara que cuando, en caso de urgencia, se curse directamente una comisión rogatoria a sus autoridades judiciales por las autoridades judiciales de la parte requirente, éstas deben remitir al mismo tiempo una copia de la comisión rogatoria al Ministerio de Justicia español.
+
+Al artículo 24. A los efectos del presente Convenio, serán consideradas como autoridades judiciales:
+
+a) Los Jueces y Tribunales de la jurisdicción ordinaria;
+
+b) Los Secretarios Judiciales;
+
+c) Los miembros del Ministerio Fiscal;
+
+d) Las autoridades judiciales militares.
+
+La presente Declaración también es de aplicación al Protocolo adicional al Convenio Europeo de asistencia judicial en materia penal, hecho en Estrasburgo el 17 de marzo de 1978.
+
+25-10-2019 NOTIFICACIÓN DE DECLARACIÓN EXTENSIÓN A GIBRALTAR:
+
+«En relación con la comunicación del Reino Unido de fecha 29 de julio de 2019 dirigida al Secretario General del Consejo de Europa relativa al propósito del Reino Unido de extender la aplicación del Convenio europeo de asistencia judicial en materia penal (ETS 030), España, recordando que es parte de dicho Convenio, formula la siguiente Declaración:
+
+España desea que la cooperación en esta materia que el Convenio hace posible entre España y el Reino Unido, sea efectiva también en Gibraltar. Según dispone el artículo 25.5 del Convenio, esto requiere el acuerdo directo de las Partes. Por ello, las autoridades españolas consideran que en virtud del art. 25.5 el Reino Unido debe dirigirse directamente a las Partes para solicitar su consentimiento, que ha de ser expreso. Los Estados Parte no deberían haber recibido una comunicación de la Oficina de Tratados del Consejo de Europa sino una solicitud del Reino Unido. Reiterando la necesidad de seguir este procedimiento en ocasiones futuras, España dio respuesta a esta comunicación dirigiéndose directamente a Reino Unido por Nota Verbal a su Embajada en Madrid de fecha 22 de octubre para expresar su consentimiento. España no acepta que pueda producirse una ampliación territorial del Convenio simplemente mediante una aceptación tácita».
+
+28-04-2022 NOTIFICACIÓN DE DECLARACIONES CON MOTIVO DE LA EXTENSIÓN A GIBRALTAR DEL ÁMBITO DE APLICACIÓN.
+
+DECLARACIONES:
+
+«En relación con la comunicación del Reino Unido de fecha 29 de julio de 2019 dirigida al Secretario General del Consejo de Europa relativa al propósito del Reino Unido de extender la aplicación del Convenio europeo de asistencia judicial en materia penal (ETS 030), España, recordando que es parte de dicho Convenio, así como de sus protocolos adicional (ETS 099) y segundo (ETS 182), formula la siguiente Declaración:
+
+– Gibraltar es un territorio no autónomo de cuyas relaciones exteriores es responsable el Reino Unido y que está sometido a un proceso de descolonización de acuerdo con las decisiones y resoluciones pertinentes de la Asamblea General de las Naciones Unidas.
+
+– Las autoridades de Gibraltar tienen un carácter local y ejercen competencias exclusivamente internas que tienen su origen y fundamento en la distribución y atribución de competencias efectuadas por el Reino Unido, de conformidad con lo previsto en su legislación interna, en su condición de Estado soberano del que depende el citado territorio no autónomo.
+
+– En consecuencia, la eventual participación de las autoridades gibraltareñas en la aplicación del Convenio Europeo y sus Protocolos se entenderá realizada exclusivamente en el marco de las competencias internas de Gibraltar y no podrá considerarse que produce cambio alguno respecto de lo previsto en los dos párrafos anteriores.
+
+– El procedimiento previsto en el Régimen relativo a las autoridades de Gibraltar en el contexto de ciertos Tratados internacionales acordado por España y el Reino Unido el 19 de diciembre de 2007 (junto al "Régimen acordado relativo a las autoridades de Gibraltar en el contexto de los instrumentos de la UE y CE y Tratados conexos", de 19 de abril de 2000) se aplica al presente Convenio, y eventualmente a sus protocolos.
+
+– La aplicación a Gibraltar del presente Convenio, y eventualmente de sus Protocolos, no puede ser interpretada como reconocimiento de cualesquiera derechos o situaciones relativas a los espacios que no estén comprendidos en el artículo 10 del Tratado de Utrecht, de 13 de julio de 1713, suscrito por las Coronas de España y Gran Bretaña.»
+
+Mediante Nota Verbal de fecha 12 de julio de 2024, la Representación Permanente de España ante el Consejo de Europa ha notificado a la Secretaría General de esta organización las siguientes Declaraciones de España relativas al Convenio Europeo de asistencia judicial en materia penal, a su Protocolo Adicional y a su Segundo Protocolo Adicional:
+
+– Declaración para la notificación de la Fiscalía Europea como autoridad judicial competente en relación con el Convenio Europeo de asistencia judicial en materia penal, su Protocolo Adicional y su Segundo Protocolo Adicional:
+
+«De conformidad con el artículo 24 del convenio modificado por el artículo 6 del Segundo Protocolo Adicional del convenio, el Reino de España, en su calidad de Estado miembro de la Unión Europea que participa en la cooperación reforzada para la creación de la Fiscalía Europea, declara que la Fiscalía Europea, en el ejercicio de sus competencias tal como se establecen en los artículos 22, 23 y 25 del Reglamento (UE) 2017/1939 del Consejo, se considerará autoridad judicial a efectos de emitir solicitudes de asistencia judicial de conformidad con el convenio y sus Protocolos, así como a efectos de facilitar, a petición de otra Parte Contratante de conformidad con el convenio y sus Protocolos, la información o las pruebas que haya obtenido ya o pueda obtener a raíz del inicio de una investigación en el ámbito de su competencia. También se considerará que la Fiscalía Europea es una autoridad judicial a los efectos de la recepción de información, de conformidad con el artículo 21 del convenio, respecto de los delitos de su competencia previstos en los artículos 22, 23 y 25 del Reglamento (UE) 2017/1939 del Consejo. Esta declaración tiene por objeto completar las declaraciones anteriores formuladas por el Reino de España de conformidad con el artículo 24 del convenio.
+
+Con referencia a la presente declaración hecha de conformidad con el artículo 24 del convenio, España aprovecha la oportunidad para interpretar los efectos jurídicos de dicha declaración de la siguiente manera:
+
+a) Cuando el convenio o sus Protocolos se refieran a la Parte requirente o a la Parte requerida, ello se interpretará, en el caso de las solicitudes emitidas por la Fiscalía Europea o dirigidas a ella, como una referencia al Estado miembro de la UE del Fiscal Europeo Delegado competente cuyas competencias y funciones se mencionan en el artículo 13 del Reglamento (UE) 2017/1939 del Consejo.
+
+b) Cuando el convenio o sus Protocolos se refieran a la legislación de la Parte requirente o de la Parte requerida, ello se interpretará, en el caso de solicitudes emitidas por la Fiscalía Europea o dirigidas a ella, como una referencia al Derecho de la Unión, en particular, al Reglamento (UE) 2017/1939 del Consejo, así como al Derecho nacional del Estado miembro de la UE del Fiscal Europeo Delegado competente, en la medida en que sea aplicable de conformidad con el artículo 5, apartado 3, de dicho Reglamento.
+
+c) Cuando el convenio o sus Protocolos prevean la posibilidad de que una Parte formule declaraciones o reservas, todas esas declaraciones y reservas formuladas por el Reino de España se considerarán aplicables en caso de que otra Parte presente una solicitud a la Fiscalía Europea siempre que un Fiscal Delegado Europeo con sede en España sea competente de conformidad con el artículo 13, apartado 1, del Reglamento (UE) 2017/1939 del Consejo.
+
+d) Como autoridad judicial requirente que actúa de conformidad con el artículo 24 del convenio modificado por el artículo 6 del Segundo Protocolo Adicional del convenio, la Fiscalía Europea cumplirá las condiciones o restricciones sobre el uso de la información y las pruebas obtenidas que pueda imponer la Parte requerida sobre la base del convenio y sus Protocolos.
+
+e) Las obligaciones impuestas a la Parte requirente por el artículo 12 del convenio también serán vinculantes para las autoridades judiciales del Estado miembro de la UE del Fiscal Delegado Europeo competente. Lo mismo se aplica en el caso de las obligaciones de la Parte requirente en virtud del artículo 11 del convenio modificado por el artículo 3 del Segundo Protocolo Adicional y los artículos 13, 14 y 23 del Segundo Protocolo Adicional respecto del Estado miembro de la UE del Fiscal Delegado Europeo competente de conformidad con el artículo 13, apartado 1, del Reglamento (UE) 2017/1939 del Consejo.»
+
+– Declaraciones adicionales:
+
+1\. «De conformidad con el artículo 15 del convenio modificado por el artículo 4 del Segundo Protocolo Adicional del convenio, el Reino de España declara que las solicitudes de asistencia judicial a la Fiscalía Europea, así como la información presentada por una Parte contratante de conformidad con el artículo 21 del convenio se dirigirán directamente a la Fiscalía Europea y la declaración hecha de conformidad con el artículo 15 del convenio modificada por el artículo 4 del Segundo Protocolo Adicional del convenio no será aplicable en el caso de la Fiscalía Europea. Las solicitudes de asistencia judicial se enviarán a la oficina central de la Fiscalía Europea o a la oficina de los Fiscales Europeos Delegados de dicho Estado miembro. Cuando proceda, la Fiscalía Europea remitirá dicha solicitud a las autoridades nacionales competentes si la Fiscalía Europea no tiene o no está ejerciendo su competencia en un caso concreto.»
+
+2\. «De conformidad con el artículo 15 del convenio modificado por el artículo 4 del Segundo Protocolo Adicional del convenio, el Reino de España declara además que las solicitudes presentadas de conformidad con el artículo 11 del convenio modificado por el artículo 3 del Segundo Protocolo Adicional, y los artículos 13 y 14 del Segundo Protocolo Adicional en relación con el mencionado artículo 11 iniciadas por uno de los Fiscales Delegados Europeos en ese Estado miembro de la UE serán transmitidas por el Ministerio de Justicia (Subdirección General de Cooperación Jurídica Internacional).»
+
+3\. «De conformidad con el artículo 33, apartado 2, del Segundo Protocolo Adicional, el Reino de España declara que la Fiscalía Europea podrá, cuando un equipo conjunto de investigación a que se refiere el artículo 20 de dicho Protocolo esté destinado a funcionar en el territorio del Reino de España, actuar en calidad de "autoridad competente" de conformidad con el artículo 20 de dicho Protocolo sólo con el consentimiento previo de las autoridades judiciales del Reino de España y de conformidad con el Reglamento (UE) 2017/1939 del Consejo y la legislación nacional aplicable.»
+
+> Se añade la declaración de España para la notificación de la Fiscalía Europea como autoridad judicial competente y declaraciones adicionales por Nota Diplomática de 12 de julio de 2024. [Ref. BOE-A-2024-16128](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-16128)
+
+> Se añaden declaraciones de España con motivo de la extensión a Gibraltar publicadas por Resolución de 19 de julio de 2022. [Ref. BOE-A-2022-12485](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12485)
+
+> Se añade la declaración de España sobre extensión a Gibraltar publicada por Resolución de 17 de enero de 2020. [Ref. BOE-A-2020-911](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-911)
+
+> Se modifica la declaración de España relativa al art. 24 por Nota Verbal de 9 de junio de 2011. [Ref. BOE-A-2011-19394](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19394)
+
+### B) Reservas.
+
+Al artículo 5.º, párrafo 1. España se reserva la facultad de no ejecutar las comisiones rogatorias que tengan como finalidad un registro o un embargo de bienes a menos que se cumplan las condiciones siguientes:
+
+a) que la infracción que motive la comisión rogatoria sea punible según la legislación española;
+
+b) que, la infracción que motive la comisión rogatoria pueda dar lugar a extradición según la legislación española;
+
+c) que la ejecución de la comisión rogatoria resulte compatible con la legislación española.
+
+Al artículo 16, párrafo 2. España se reserva la facultad de exigir que las solicitudes de asistencia judicial y documentos anexos que se le cursen se acompañen de una traducción al idioma castellano debidamente autenticada.
+
+Al artículo 22. España se reserva el derecho a no facilitar información a otra parte interesada en cuanto a antecedentes penales cancelados se refiere, en el caso de ciudadanos españoles.
+
+Dado en Madrid a 14 de julio de 1982.
+
+JUAN CARLOS R.
+
+El Ministro de Asuntos Exteriores,
+
+JOSE PEDRO PEREZ-LLORCA Y RODRIGO
+
+## CONVENIO EUROPEO DE ASISTENCIA JUDICIAL EN MATERIA PENAL
+
+Estrasburgo, 20 de abril de 1959.
+
+PREAMBULO
+
+Los Gobiernos signatarios, miembros del Consejo de Europa, considerando que la finalidad del Consejo de Europa es conseguir una unión más estrecha entre sus miembros,
+
+Convencidos de que la adopción de normas comunes en la esfera de la asistencia judicial en materia penal contribuirá a alcanzar dicho objetivo,
+
+Considerando que la asistencia judicial está relacionada con la cuestión de la extradición, que fue objeto de un convenio de fecha 13 de diciembre de 1957,
+
+Han convenido lo siguiente:
+
+## TITULO I — Disposiciones generales
+
+### Artículo 1.
+
+1\. Las Partes se comprometen a prestarse mutuamente, de conformidad con las disposiciones del presente Convenio y a la mayor brevedad, la asistencia judicial más amplia posible en todos los procedimientos relativos a infracciones cuya represión, en el momento de pedir la asistencia, sea de la competencia de las autoridades judiciales de la Parte requirente.
+
+2\. El presente Convenio no se aplicará a la ejecución de las decisiones de detención y de las condenas ni a las infracciones de carácter militar que no constituyan infracciones con arreglo al derecho penal común.
+
+3\. La asistencia judicial se podrá conceder asimismo en procedimientos por hechos que sean punibles según el derecho nacional de la Parte requirente o de la Parte requerida como infracciones de los reglamentos perseguidas por autoridades administrativas cuya decisión pueda dar lugar a un recurso ante un órgano jurisdiccional competente, en particular en materia penal.
+
+4\. No se denegará la asistencia judicial por el solo motivo de que los hechos de que se trate puedan implicar la responsabilidad de una persona jurídica en la Parte requirente.
+
+> Se modifica por el art. 1 del Segundo Protocolo de 8 de noviembre de 2001. [Ref. BOE-A-2018-7292](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7292)
+
+### Artículo 2.
+
+Podrán denegarse la asistencia judicial:
+
+(a) si la solicitud se refiere a infracciones que la Parte requerida considere como infracciones de carácter político, o infracciones relacionadas con infracciones de carácter político, o como infracciones fiscales;
+
+(b) si la Parte requerida estima que la ejecución de la solicitud podría causar perjuicio a la soberanía, la seguridad, el orden público u otros intereses esenciales de su país.
+
+## TITULO II — Comisiones rogatorias
+
+### Artículo 3.
+
+1\. La parte requerida hará ejecutar, en la forma que su legislación establezca, las comisiones rogatorias relativas a un asunto penal que le cursen las autoridades judiciales de la Parte requirente y que tengan como fin realizar actuaciones de instrucción o transmitir piezas probatorias, expedientes o documentos.
+
+2\. Si la Parte requirente desea que los testigos o los Peritos declaren bajo juramento, lo hará constar expresamente en la petición y la Parte requerida cumplirá esta petición si no se opone a ello la Ley de su país.
+
+3\. La parte requerida podrá limitarse a enviar copias o fotocopias certificadas de los expedientes o documentos solicitados. No obstante, si la Parte requirente pidiera expresamente el envío de los originales, se cumplimentará esta solicitud en la medida de lo posible.
+
+### Artículo 4.
+
+1\. Cuando la Parte requirente lo solicite expresamente, la Parte requerida le informará de la fecha y el lugar de ejecución de la comisión rogatoria. Podrán concurrir al acto las autoridades y las personas interesadas, con el consentimiento de la Parte requerida.
+
+2\. Las solicitudes relativas a la presencia de esas autoridades o personas interesadas no deberían denegarse cuando el objetivo de esa presencia sea que la ejecución de la solicitud de asistencia responda mejor a las necesidades de la Parte requerida y, por ello, permita evitar solicitudes de asistencia complementarias.
+
+> Se añade el apartado 2 y se numera el primer párrafo como apartado 1 por el art. 2 del Segundo Protocolo de 8 de noviembre de 2001. [Ref. BOE-A-2018-7292](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7292)
+
+### Artículo 5.
+
+1\. Toda Parte Contratante, en el momento de la firma del presente Convenio o del depósito de su Instrumento de Ratificación o de adhesión, podrá, mediante declaración dirigida al Secretario general del Consejo de Europa, reservarse la facultad de someter la ejecución de las comisiones rogatorias que tengan como fin un registro o un embargo de bienes, a una o varias de las condiciones siguientes:
+
+(a) que la infracción que motive la comisión rogatoria sea punible según la ley de la Parte requirente y de la Parte requerida;
+
+(b) que la infracción que motive la comisión rogatoria pueda dar lugar a la extradición en el país requerido;
+
+(c) que la ejecución de la comisión rogatoria sea compatible con la ley de la Parte requerida.
+
+2\. Cuando una Parte Contratante hubiere formulado una declaración conforme a lo dispuesto en el párrafo 1 del presente artículo, cualquier otra Parte podrá aplicar la regla de la reciprocidad.
+
+### Artículo 6.
+
+1\. La Parte requerida podrá demorar la entrega de objetos, expedientes o documentos solicitados, si los necesitase para un procedimiento penal en curso.
+
+2\. Los objetos, así como los originales de los expedientes y documentos, que hayan sido enviados en ejecución de una comisión rogatoria, serán devueltos lo antes posible por la Parte requirente a la Parte requerida, salvo que esta última renuncie a dicha devolución.
+
+## TITULO III — Notificación de documentos procesales y resoluciones judiciales-comparecencia de testigos, peritos y procesados
+
+### Artículo 7.
+
+1\. La Parte requerida procederá a la notificación de los documentos procesales y las resoluciones judiciales que le fueren enviadas con ese fin por la Parle requirente.
+
+Esta notificación podrá efectuarse mediante la simple entrega al destinatario del documento o la resolución. Si la parte requirente lo solicita expresamente, la Parte requerida efectuará la notificación en una de las formas previstas por su legislación para notificaciones análogas o en alguna forma especial que sea compatible con dicha legislación.
+
+2\. Servirá como prueba de la notificación un recibo fechado y firmado por el destinatario o una declaración de la Parte requerida en la que se haga constar el hecho, la forma y la fecha de la notificación. Cualesquiera de estos documentos será enviado inmediatamente a la Parte requirente. Si esta última lo solicita, la Parte requerida precisará si la notificación se ha efectuado de conformidad con su ley. Si no hubiere podido efectuarse la notificación, la Parte requerida dará a conocer inmediatamente el motivo a la Parte requirente.
+
+3\. Toda parte Contratante, en el momento de la firma del presente Convenio o del depósito de su Instrumento de Ratificación o de adhesión, podrá, mediante declaración dirigida al Secretario general del Consejo de Europa, estipular que la citación de comparecencia dirigida a un acusado que se encuentre en su territorio, se transmita a las autoridades con una antelación determinada antes de la fecha fijada para la comparecencia. En la mencionada declaración habrá de especificarse dicho plazo que no podrá exceder de cincuenta días.
+
+Se tendrá en cuenta este plazo tanto para fijar la fecha de comparecencia como para la entrega de la citación.
+
+### Artículo 8.
+
+El testigo o el Perito que no hubiere obedecido una citación de comparecencia, cuya entrega se haya solicitado no podrá ser objeto de ninguna sanción o medida coercitiva, aunque dicha citación contenga una intimación de sanciones, salvo que en fecha posterior entre voluntariamente en el territorio de la Parte requirente y sea citado de nuevo en debida forma.
+
+### Artículo 9.
+
+Las indemnizaciones así como los gastos de viaje y las dietas que hayan de abonarse al testigo o Perito por la Parte requirente se calcularán a partir de su lugar de residencia, y en cuantía por lo menos igual a la que resulte de las escalas y reglamentos en vigor en el país donde haya de tener lugar el interrogatorio.
+
+### Artículo 10.
+
+1\. Si la Parte requirente estimase especialmente necesaria la comparecencia personal ante sus autoridades judiciales de un testigo o de un Perito, lo hará constar así en la solicitud de entrega de la citación y la Parte requerida instará a dicho testigo o Perito a que comparezca.
+
+La Parte requerida dará a conocer la respuesta del testigo o del Perito a la Parte requirente.
+
+2\. En el caso previsto en el párrafo 1.º del presente artículo, en la solicitud o la citación deberá mencionarse el importe aproximado de las indemnizaciones que hayan de pagarse, así como la de los gastos de viaje y de estancia, que hayan de reembolsarse.
+
+3\. La Parte requerida, si así se pidiera expresamente, podrá conceder un anticipo al testigo o al Perito. La cantidad del anticipo se mencionará en la citación y será reembolsada por la Parte requirente.
+
+### Artículo 11.
+
+1\. Toda persona detenida cuya comparecencia personal a efectos de la práctica de pruebas, excluida su comparecencia para ser sometida a juicio, hubiere sido solicitada por la Parte requirente, será trasladada temporalmente a su territorio, con la condición de devolver al detenido a su lugar de origen en el plazo indicado por la Parte requerida y con sujeción a las disposiciones del artículo 12 del presente Convenio, en la medida que en que sean aplicables.
+
+Podrá denegarse el traslado:
+
+a. si la persona detenida no consiente en ello;
+
+b. si su presencia es necesaria en un proceso penal en curso en el territorio de la Parte requerida;
+
+c. si su traslado pudiera ser causa de que se prolongara su detención, o
+
+d. si existen otras consideraciones imperiosas que se opongan a su traslado al territorio de la Parte requirente.
+
+2\. En el caso previsto en el párrafo precedente y a reserva de las disposiciones del artículo 2 del presente Convenio, se accederá al tránsito del detenido por el territorio de un tercer Estado cuando se formule una solicitud en este sentido, acompañada de todos los documentos necesarios y dirigida por el Ministerio de Justicia de la Parte requirente al Ministerio de Justicia de la Parte requerida de tránsito. Toda Parte podrá denegar el permiso para el tránsito de sus propios nacionales.
+
+3\. La persona trasladada deberá permanecer en prisión preventiva en el territorio de la Parte requirente y, en su caso, en el territorio de la Parte requerida de tránsito, salvo que la Parte a la que se ha pedido dicho traslado solicite que sea puesta en libertad.
+
+> Se modifica por el art. 3 del Segundo Protocolo de 8 de noviembre de 2001. [Ref. BOE-A-2018-7292](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7292)
+
+### Artículo 12.
+
+1\. Ningún testigo o Perito, cualquiera que sea su nacionalidad, que, como consecuencia de una citación, comparezca ante las autoridades de la Parte requirente, podrá ser perseguido, detenido o sometido a ninguna otra restricción de su libertad individual en el territorio de dicha Parte por hechos o condenas anteriores a su salida del territorio de la Parte requerida.
+
+2\. Ninguna persona, cualquiera que sea su nacionalidad, que sea citada por las autoridades judiciales de la Parte requirente para responder de hechos por los cuales se le siga en la misma un procedimiento, podrá ser perseguida, detenida o sometida a ninguna otra restricción de su libertad individual por hecho o condenas anteriores a su salida del territorio de la Parte requerida y que no constasen en la citación.
+
+3\. La inmunidad prevista en el presente artículo cesará cuando el testigo, el Perito o la persona encausada hayan tenido la posibilidad de abandonar el territorio de la Parte requirente durante un plazo ininterrumpido de quince días, a partir del momento en que su presencia ya no sea requerida por las autoridades judiciales y, no obstante, permanezca en dicho territorio o regrese a él después de haberlo abandonado.
+
+## TITULO IV — Antecedentes penales
+
+### Artículo 13.
+
+1\. Toda Parte requerida comunicará, en la medida en que sus propias autoridades judiciales puedan obtenerlos en casos semejantes, los extractos o información relativa a antecedentes penales que soliciten las autoridades judiciales de una Parte Contratante y sean necesarios en una causa penal.
+
+2\. En todos los casos no incluidos en el párrafo 1 del presente artículo, se accederá a una solicitud semejante en las condiciones establecidas por la legislación, los reglamentos o la práctica de la Parte requerida.
+
+## TITULO V — Procedimiento
+
+### Artículo 14.
+
+1\. Las solicitudes de asistencia judicial deberán contener las siguientes indicaciones:
+
+(a) autoridad que formula la solicitud,
+
+(b) objeto y motivo de la solicitud,
+
+(c) en lo posible, identidad y nacionalidad de la persona de que se trate, y
+
+(d) nombre y dirección del destinatario, cuando proceda.
+
+2\. En las comisiones rogatorias a que se hace referencia en los artículos 3, 4 y 5 se mencionará además la inculpación y contendrá una exposición sumaria de los hechos.
+
+### Artículo 15.
+
+1\. Las solicitudes de asistencia judicial, así como toda información espontánea, serán cursadas, por escrito, por el Ministerio de Justicia de la Parte requirente al Ministerio de Justicia de la Parte requerida y devueltas por la misma vía. No obstante, podrán ser cursadas por escrito directamente por la autoridad judicial de la Parte requirente a la autoridad judicial de la Parte requerida y devueltas por la misma vía.
+
+2\. Las solicitudes previstas en el artículo 11 del presente Convenio y en el artículo 13 del Segundo Protocolo Adicional al presente Convenio serán cursadas en todos los casos por el Ministerio de Justicia de la Parte requirente al Ministerio de Justicia de la Parte requerida y devueltas por la misma vía.
+
+3\. Las solicitudes de asistencia judicial relativas a los procedimientos a que se refiere el párrafo 3 del artículo 1 del presente Convenio podrán ser cursadas asimismo directamente por la autoridad administrativa o judicial de la Parte requirente a la autoridad administrativa o judicial de la Parte requerida, según el caso, y devueltas por la misma vía.
+
+4\. Las solicitudes de asistencia judicial formuladas en virtud de los artículos 18 ó 19 del Segundo Protocolo Adicional al presente Convenio podrán ser cursadas asimismo directamente por la autoridad competente de la Parte requirente a la autoridad competente de la Parte requerida.
+
+5\. Las solicitudes previstas en el párrafo 1 del artículo 13 del presente Convenio podrán ser cursadas directamente por las autoridades judiciales interesadas a las autoridades judiciales de la Parte requerida, las cuales podrán remitir directamente las respuestas. Las solicitudes mencionadas en el párrafo 2 del artículo 13 del presente Convenio serán cursadas por el Ministerio de Justicia de la Parte requirente al Ministerio de Justicia de la Parte requerida.
+
+6\. Las solicitudes de copias de sentencias y medidas a que se refiere el artículo 4 del Protocolo Adicional al Convenio podrán cursarse directamente a las autoridades competentes. Todo Estado Contratante podrá, en todo momento, mediante declaración remitida al Secretario General del Consejo de Europa, indicar las autoridades que considere competentes a los fines del presente párrafo.
+
+7\. En los casos de urgencia, en que se admita en el presente Convenio la transmisión directa, ésta podrá efectuarse por conducto de la Organización Internacional de Policía Criminal (Interpol).
+
+8\. Toda Parte podrá, en todo momento, mediante declaración dirigida al Secretario General del Consejo de Europa, reservarse la facultad de someter la ejecución de las solicitudes de asistencia judicial, o de algunas de ellas, a una o varias de las siguientes condiciones:
+
+a. que se remita una copia de la solicitud a la autoridad central designada en la declaración;
+
+b. que la solicitud, salvo que sea urgente, se dirija a la autoridad central designada en la declaración;
+
+c. en caso de transmisión directa por motivos de urgencia, que se remita una copia al mismo tiempo a su Ministerio de Justicia;
+
+d. que algunas o todas las solicitudes de asistencia judicial le sean cursadas por una vía distinta a la prevista en el presente artículo.
+
+9\. Las solicitudes de asistencia judicial o cualquier otra comunicación en virtud del presente Convenio o de sus Protocolos podrán cursarse por medios electrónicos de comunicación, o por cualquier otro medio de telecomunicación, a condición de que la Parte requirente esté dispuesta a presentar en cualquier momento, previa solicitud, constancia escrita de la expedición, así como el original. Sin embargo, todo Estado Contratante, podrá indicar en cualquier momento, mediante declaración dirigida al Secretario General del Consejo de Europa, las condiciones en que esté dispuesto a aceptar y a ejecutar las solicitudes recibidas por vía electrónica o cualquier otro medio de telecomunicación.
+
+10\. El presente artículo no afectará a las disposiciones de los acuerdos o arreglos bilaterales vigentes entre las Partes en las que esté prevista la transmisión directa de las solicitudes de asistencia judicial entre las autoridades de las Partes.
+
+> Se modifica por el art. 4 del Segundo Protocolo de 8 de noviembre de 2001. [Ref. BOE-A-2018-7292](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7292)
+
+### Artículo 16.
+
+1\. A reserva de lo dispuesto en el párrafo 2 del presente artículo, no se exigirá la traducción de las solicitudes ni de los documentos anexos.
+
+2\. Toda Parte Contratante, en el momento de la firma o del depósito de su Instrumento de Ratificación o de adhesión, podrá, mediante declaración dirigida al Secretario general del Consejo de Europa, reservarse la facultad de exigir que las solicitudes y documentos anexos que se le cursen vayan acompañados de una traducción en su propio idioma o en uno cualquiera de los idiomas oficiales del Consejo de Europa, o en uno determinado de estos idiomas que se especifique. Las demás Partes podrán aplicar la regla de la reciprocidad.
+
+3\. El presente artículo se aplicará sin perjuicio de las disposiciones relativas a la traducción de las solicitudes y documentos anexos que figuren en los acuerdos o arreglos en vigor o que se concierten posteriormente entre dos o más Partes Contratantes.
+
+### Artículo 17.
+
+Los documentos escritos que se transmitan en aplicación del presente Convenio quedarán exentos de todas las formalidades de legalización.
+
+### Artículo 18.
+
+Si la autoridad que reciba una solicitud de asistencia no tiene competencia para darle curso, remitirá de oficio dicha solicitud a la autoridad competente de su país y, en el caso en que la solicitud se hubiera cursado por vía directa, informará de ello por la misma vía a la Parte requirente.
+
+### Artículo 19.
+
+Toda denegación de asistencia judicial será motivada.
+
+### Artículo 20.
+
+1\. Las Partes no se reclamarán mutuamente el reembolso de los gastos derivados de la aplicación del Convenio o de sus Protocolos con excepción de:
+
+a. los gastos ocasionados por la intervención de peritos en el territorio de la Parte requerida;
+
+b. los gastos ocasionados por el traslado de personas detenidas realizado en aplicación de los artículos 13 ó 14 del Segundo Protocolo Adicional al presente Convenio, o del artículo 11 del presente Convenio;
+
+c. gastos importantes o extraordinarios.
+
+2\. No obstante, el coste del establecimiento de conexión por vídeo o por teléfono, los costes relacionados con el mantenimiento de la conexión por vídeo o por teléfono en la Parte requerida, la remuneración de los intérpretes que ésta proporcione y las indemnizaciones concedidas a los testigos así como sus gastos de desplazamiento en la Parte requerida serán reembolsados por la Parte requirente a la Parte requerida, a menos que las Partes convengan otra cosa.
+
+3\. Las Partes se consultarán mutuamente con vistas a determinar las condiciones de pago de los gastos susceptibles de reclamación en virtud de las disposiciones del párrafo 1.c del presente artículo.
+
+4\. Las disposiciones del presente artículo se aplicarán sin perjuicio de las disposiciones del párrafo 3 del artículo 10 del presente Convenio.
+
+> Se modifica por el art. 5 del Segundo Protocolo de 8 de noviembre de 2001. [Ref. BOE-A-2018-7292](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7292)
+
+## TITULO VI — Denuncias a fines procesales
+
+### Artículo 21.
+
+«1. Toda denuncia cursada por una Parte Contratante cuyo objeto sea incoar un proceso ante los Tribunales de otra Parte, se transmitirá mediante comunicación entre los Ministerios de Justicia. No obstante, las Partes Contratantes podrán hacer uso de la facultad reconocida en el párrafo 6 del artículo 15.
+
+2\. La Parte requerida notificará a la Parte requirente el curso dado a la denuncia y remitirá, si ha lugar, una copia de la decisión dictada.
+
+3\. Las disposiciones del artículo 16 se aplicarán en las denuncias mencionadas en el párrafo 1 del presente artículo.
+
+## TITULO VII — Intercambio de información sobre condenas judiciales
+
+### Artículo 22.
+
+1\. Cada una de las Partes Contratantes informará a cualquier otra parte interesada de las sentencias penales, y medidas posteriores que afecten a los nacionales de esta última y que hayan sido objeto de inscripción en el Registro de Antecedentes Penales. Los Ministerios de Justicia se comunicarán recíprocamente esta información por lo menos una vez al año. Si la persona de que se trate está considerada como nacional de dos o más Partes Contratantes, dicha información se comunicará a cada una de las Partes interesadas, salvo que la mencionada persona posea la nacionalidad de la Parte en cuyo territorio ha sido condenada.
+
+2\. Asimismo, cualquier Parte Contratante que haya facilitado la información anteriormente mencionada comunicará a la parte interesada, a petición de la misma, en casos particulares, copia de las condenas y medidas de que se trate así como cualquier otra información correspondiente, para permitirle examinar si requieren medidas a nivel nacional. Dicha comunicación tendrá lugar entre los Ministerios de Justicia interesados.
+
+> Se añade el apartado 2 y se numera el primer párrafo como apartado 1 por el art. 4 del Protocolo de 17 de marzo de 1978. [Ref. BOE-A-1991-19739](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-19739)
+
+## TITULO VIII — Disposiciones finales
+
+### Artículo 23.
+
+1\. Toda Parte Contratante, en el momento de la firma del presente Convenio o del depósito de su Instrumento de ratificación o de adhesión, podrá formular una reserva con respecto a una o varias disposiciones concretas del Convenio.
+
+2\. Toda Parte Contratante que hubiere formulado una reserva la retirará tan pronto como lo permitan las circunstancias. La retirada de reservas se efectuará mediante notificación dirigida al Secretario general del Consejo de Europa.
+
+3\. La Parte Contratante que hubiere formulado una reserva con respecto a una disposición del Convenio no podrá reclamar a otra Parte la aplicación de dicha disposición más que en la medida en que ella misma la hubiere aceptado.
+
+### Artículo 24.
+
+Todo Estado, en el momento del depósito de su instrumento de ratificación, aceptación, aprobación o adhesión, manifestará, mediante declaración dirigida al Secretario General del Consejo de Europa, qué autoridades considerará como autoridades judiciales a los efectos del presente Convenio. Posteriormente, en todo momento y del mismo modo, podrá cambiar el contenido de su declaración.
+
+> Se modifica por el art. 6 del Segundo Protocolo de 8 de noviembre de 2001. [Ref. BOE-A-2018-7292](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7292)
+
+### Artículo 25.
+
+1\. El presente Convenio se aplicará a los territorios metropolitanos de las Partes Contratantes.
+
+2\. En lo que concierne a Francia, se aplicará asimismo a Argelia y a los departamentos de ultramar, y, en lo que concierne a Italia, al territorio de Somalia bajo administración italiana.
+
+3\. La República Federal de Alemania podrá extender la aplicación del presente Convenio al Land de Berlín, mediante una declaración dirigida al Secretario general del Consejo de Europa.
+
+4\. En lo que concierne al Reino de los Países Bajos, el presente Convenio se aplicará a su territorio europeo. Aquél podrá extender la aplicación del Convenio a las Antillas Neerlandesas, al Surinam y a la Nueva Guinea Neerlandesa, mediante una declaración dirigida al Secretario general del Consejo de Europa.
+
+5\. Por acuerdo directo entre dos o más Partes Contratantes podrá extenderse el ámbito de aplicación del presente Convenio, en las condiciones que se estipulen en dicho acuerdo, a cualquier territorio de dichas Partes que no sean las mencionadas en los párrafos 1, 2, 3 y 4 del presente artículo y de cuyas relaciones internacionales esté encargada una de las Partes.
+
+### Artículo 26.
+
+1\. A reserva de lo dispuesto en el párrafo 7 del artículo 15 y en el párrafo 3 del artículo 16, el presente Convenio deroga, en lo que afecta a los territorios a los que se aplica, aquellas disposiciones de los tratados, convenios o acuerdos bilaterales que regulen entre dos Partes Contratantes la asistencia judicial en materia penal.
+
+2\. No obstante, el presente Convenio no afectará a las obligaciones contenidas en las disposiciones de cualquier otro convenio internacional de carácter bilateral o multilateral, en los que determinadas cláusulas reglamenten actualmente o en lo sucesivo, en una esfera concreta, la asistencia judicial sobre puntos particulares.
+
+3\. Las Partes Contratantes sólo podrán concertar entre si acuerdos bilaterales o multilaterales relativos a la asistencia judicial en materia penal con el fin de complementar las disposiciones del presente Convenio o para facilitar la aplicación de los principios que contiene.
+
+4\. Cuando entre dos o más Partes Contratantes la asistencia judicial en materia penal se efectúe sobre la base de una legislación uniforme o de un régimen especial que establezca la aplicación recíproca de medidas de asistencia judicial en sus territorios respectivos, dichas Partes estarán facultadas para reglamentar sus relaciones mutuas en esa esfera exclusivamente con arreglo a tales sistemas, no obstante lo dispuesto en el presente Convenio. Las Partes Contratantes que, conforme a lo dispuesto en el presente párrafo, excluyan, en la actualidad o en lo sucesivo, la aplicación del presente Convenio, en sus relaciones mutuas, deberán dirigir una notificación a este efecto al Secretario general del Consejo de Europa.
+
+### Artículo 27.
+
+1\. El presente Convenio estará abierto a la firma de los miembros del Consejo de Europa. Será ratificado y los Instrumentos de ratificación se depositarán ante el Secretario general del Consejo.
+
+2\. El Convenio entrará en vigor noventa días después de la fecha del depósito del tercer Instrumento de ratificación.
+
+3\. Para todo signatario que lo ratifique posteriormente, el Convenio entrará en vigor noventa días después del depósito de su Instrumento de ratificación.
+
+### Artículo 28.
+
+1\. El Comité de Ministros del Consejo de Europa podrá invitar a cualquier Estado que no sea miembro del Consejo a adherirse al presente Convenio. La resolución para formular esta invitación deberá contar con el acuerdo unánime de los miembros del Consejo que hayan ratificado en Convenio.
+
+2\. La adhesión se efectuará mediante el depósito ante el Secretarlo general del Consejo de un Instrumento de adhesión que surtirá efecto noventa días después de su depósito.
+
+### Artículo 29.
+
+Toda Parte Contratante podrá denunciar el presente Convenio en lo que le concierna, mediante una notificación dirigida al Secretario general del Consejo de Europa. Esta denuncia surtirá efecto seis meses después de la fecha en que el Secretario general del Consejo reciba dicha notificación.
+
+### Artículo 30.
+
+El Secretario general del Consejo de Europa notificará a los miembros del Consejo y al Gobierno de todo estado que se haya adherido al presente Convenio:
+
+(a) los nombres de los signatarios y el depósito de todo Instrumente de ratificación o de adhesión;
+
+(b) la fecha de la entrada en vigor del Convenio.
+
+(c) toda notificación recibida de conformidad con las disposiciones del párrafo 1 del artículo 5, del párrafo 3 del artículo 7, del párrafo 6 del artículo 15, del párrafo 2 del artículo 16, del artículo 24, de los párrafos 3 y 4, del artículo 25 y del párrafo 4 del artículo 26;
+
+(d) toda reserva formulada conforme a lo dispuesto en el párrafo 1 del artículo 23;
+
+(e) la retirada de toda reserva efectuada conforme a lo dispuesto en el párrafo 2 del artículo 23;
+
+(f) toda notificación de denuncia recibida conforme a lo dispuesto en el artículo 29 y la fecha en que dicha denuncia surtirá efecto.
+
+En fe de lo cual, los infrascritos, debidamente autorizados al efecto, han firmado el presente Convenio.
+
+Hecho en Estrasburgo, el 20 de abril de 1959, en francés y en inglés, siendo ambos textos igualmente auténticos, en un solo ejemplar, que será depositado en los archivos del Consejo de Europa. El Secretario general del Consejo enviará copias certificadas a los Gobiernos signatarios y adherentes.

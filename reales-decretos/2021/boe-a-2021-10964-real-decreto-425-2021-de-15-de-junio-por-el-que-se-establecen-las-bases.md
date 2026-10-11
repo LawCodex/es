@@ -1,0 +1,731 @@
+---
+title: "Real Decreto 425/2021, de 15 de junio, por el que se establecen las bases reguladoras de las subvenciones destinadas a la organización del Programa CULTIVA, relativo a estancias formativas de jóvenes agricultores en explotaciones modelo, y se convocan las correspondientes al ejercicio 2021"
+identifier: "BOE-A-2021-10964"
+eli: "https://www.boe.es/eli/es/rd/2021/06/15/425"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2021-06-15
+published: 2021-07-02
+in_force_from: 2021-07-03
+last_amended: 2026-05-19
+consolidated: 2026-05-19
+gazette: "Boletín Oficial del Estado núm. 157"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2021-10964"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 425/2021, de 15 de junio, por el que se establecen las bases reguladoras de las subvenciones destinadas a la organización del Programa CULTIVA, relativo a estancias formativas de jóvenes agricultores en explotaciones modelo, y se convocan las correspondientes al ejercicio 2021
+
+Esta norma pasa a denominarse "**Real Decreto 425/2021, de 15 de junio, por el que se establecen las bases reguladoras de las subvenciones destinadas a la organización del Programa CULTIVA, relativo a estancias formativas de jóvenes agricultores y agricultoras en explotaciones modelo**", según establece el art. único.1 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)
+
+El medio rural, que representa cerca del 85% de la superficie de España, está cada vez más despoblado. Desde principios del siglo XXI, mientras que la población española ha crecido alrededor de un 15 %, la población censada en municipios rurales ha experimentado la evolución contraria. Actualmente, el grado de despoblamiento de estos entornos, junto con el envejecimiento y la masculinización de su población, representan una seria amenaza para su futuro.
+
+Frente a esta situación, común a muchos de los países de la Unión Europea, son necesarias políticas de desarrollo rural que apunten a revertir la actual tendencia a través de enfoques multisectoriales y medidas que cuenten con la participación de los diferentes agentes sociales.
+
+Cabe destacar que, en las zonas rurales españolas, el sector primario y alimentario desempeña un papel esencial, no solo desde el punto de vista económico, sino también desde el punto de vista territorial, por su contribución a garantizar la seguridad alimentaria y por la generación de empleos indirectos.
+
+Sin embargo, al igual que el medio rural, el sector agrario también ha experimentado en las últimas décadas un marcado proceso de envejecimiento por el que hoy más del 30% de los titulares de explotación tienen más de 65 años. Esto, unido a una tasa nacional de renovación que se encuentra entre las más bajas de la Unión Europea, compromete gravemente el relevo generacional en la agricultura y la ganadería españolas.
+
+En este contexto, es una prioridad del Ministerio de Agricultura, Pesca y Alimentación apoyar la incorporación de jóvenes profesionales de la agricultura y la ganadería y su asentamiento en las zonas rurales. Todas las referencias a los ganaderos y agricultores se entenderán hechas a las agricultoras y ganaderas con el fin de no dificultar la lectura del texto. Dado su potencial transformador y de impulso a la innovación, es fundamental mejorar su acceso al conocimiento y a la formación para favorecer su permanencia en el medio rural, con el fin de avanzar hacia un sector agroalimentario más moderno, competitivo y sostenible.
+
+La utilización de recursos formativos que contribuyan a la adquisición y aplicación de nuevos conocimientos resulta, pues, indispensable para asegurar la viabilidad y permanencia de las nuevas explotaciones en un sector con retos en constante evolución.
+
+Por todo ello, se considera necesario que el Programa CULTIVA (programa de estancias formativas de jóvenes profesionales de la agricultura y la ganadería en explotaciones modelo) se gestione de forma centralizada por parte del Ministerio de Agricultura, Pesca y Alimentación, en el ámbito de sus competencias, con la finalidad de poner en práctica actuaciones formativas para jóvenes profesionales agrarios por razones de interés público y desde una óptica centrada en la movilidad interterritorial y el enfoque nacional de los proyectos.
+
+La gestión centralizada de esta línea subvencional, sin impedir el funcionamiento ordinario de las comunidades autónomas de acuerdo con sus competencias, permite salvaguardar la igualdad efectiva de acceso a formación práctica e *in situ* en explotaciones modelo por parte de jóvenes entre distintos territorios, así como, en el marco de la lucha contra el despoblamiento rural y la falta de relevo generacional agrario, permite paliar la escasez de recursos formativos actuales adaptados en fondo y forma a las necesidades de jóvenes profesionales de la agricultura y la ganadería, lo que queda constatado en el Documento Final del Grupo Focal de Acceso a la Tierra.
+
+Asimismo, el espíritu de transversalidad del Programa CULTIVA en su mirada única al medio rural y el conjunto del sector agrario español y reconociendo su diversidad productiva y territorial, exige una gestión única y central desde el Estado, pues la interterritorialidad como característica definitoria de las actividades formativas subvencionadas no podría ser garantizada desde una gestión autonómica.
+
+El Real Decreto 884/2020, de 6 de octubre, por el que se regula la concesión directa de subvenciones a determinadas entidades en materia de desarrollo rural y fomento del ganado equino, estableció, de manera excepcional, para el año 2020 las disposiciones para la organización del programa de estancias formativas de jóvenes profesionales de la agricultura y la ganadería en explotaciones modelo a través de la concesión de ayudas directas para una primera instauración del proyecto formativo a pequeña escala.
+
+Considerando la buena acogida de la iniciativa por el sector agrario, el presente real decreto recoge las bases reguladoras de una nueva línea específica de subvenciones en régimen de concurrencia competitiva para la concesión de subvenciones para organizaciones profesionales agrarias y entidades representativas de los sectores agrícola y ganadero dirigidas a consolidar el Programa CULTIVA (programa de estancias formativas de jóvenes profesionales de la agricultura y la ganadería en explotaciones modelo) como un recurso formativo de ámbito nacional y accesible para jóvenes residentes en todas las regiones de España que mejore no solo la transferencia de conocimiento y mejores prácticas, sino la integración de los diferentes territorios y modelos productivos españoles.
+
+Las sucesivas convocatorias de las ayudas para el desarrollo del programa tendrán carácter anual con objeto de organizar un programa estructurado y coherente de ámbito nacional de estancias formativas de jóvenes profesionales de la agricultura y la ganadería en explotaciones modelo por ejercicio que vaya consolidando esta mejora en los conocimientos y en la vertebración de las diferentes regiones productivas del país.
+
+El Programa CULTIVA se constituye como un recurso formativo dirigido a jóvenes profesionales agrarios incorporados recientemente al sector como responsables de explotación y tiene por objetivo la transferencia de conocimiento hacia jóvenes profesionales de la agricultura y la ganadería a través de su participación en breves estancias formativas en explotaciones agrarias reales en activo y modélicas desde el punto de vista productivo, de la gestión técnica y económica de la empresa, del manejo de los condicionantes ambientales y climáticos o de la incorporación de nuevas tecnologías, entre otros factores. Dado que se trata de jóvenes titulares de explotaciones agrarias, se entiende que, por razón de su capacidad técnica y dedicación profesional a la actividad agraria tienen acceso y disponibilidad de los medios electrónicos necesarios por lo que, conforme a lo dispuesto en el artículo 14.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se establece la obligación de que se relacionen con la Administración con medios electrónicos, especialmente teniendo en cuenta que ya se impone este medio para sus relaciones administrativas en el marco de la Política Agraria Común.
+
+Las explotaciones modelo de acogida, además de ser referentes desde una perspectiva técnica o de gestión en el ámbito de la innovación, los medios productivos, el modelo de negocio o las características sociales o ambientales y climáticas y de estar en disposición de ofrecer formación acorde con las temáticas subvencionables, también serán ejemplares desde el punto de vista de la viabilidad económica, del cumplimiento de las obligaciones establecidas normativamente en relación a las ayudas de la Política Agraria Común así como en la legislación sobre alimentos y piensos, salud y bienestar de los animales, sanidad vegetal y productos fitosanitarios de competencia del Ministerio de Agricultura, Pesca y Alimentación. Las explotaciones modelo donde se ejecuten las estancias formativas estarán vinculadas a las entidades beneficiarias de las ayudas para la organización del programa. Las entidades beneficiarias vinculadas serán organizaciones cuya estructura, conocimientos, relación o representación de explotaciones agroalimentarias, susceptibles de ser elegidas como explotaciones modelo de acogida, son claves para la puesta en marcha del programa. Disponen de un amplio conocimiento de los territorios en los que tienen representación, por lo que su labor en la identificación de explotaciones modelo donde realizar las visitas formativas, acordes a las necesidades de los jóvenes profesionales de la agricultura y la ganadería, es crucial para el éxito del programa. Esto se traduce en una relación directa con los anfitriones de las explotaciones modelo que permitirá establecer fácilmente las condiciones de la estancia en las mismas. Asimismo, realizan funciones de formación a quienes sean j de jóvenes profesionales de la agricultura y la ganadería de sus territorios, en ocasiones apoyándoles en su primera instalación, por lo que conocen las necesidades formativas de estos. Por tanto, estas entidades son cruciales para el éxito del programa por su doble papel: captación, en ocasiones entre sus asociados, de jóvenes profesionales de la agricultura y la ganadería recién instalados que deseen ampliar sus conocimientos de una forma práctica y por otro, identificación de explotaciones modelo de acogida, que resulten un ejemplo para la juventud, por su buen hacer en el sector agroalimentario.
+
+La vinculación entre explotación modelo y entidad beneficiaria representa una garantía de calidad de las explotaciones que acogerán y formarán a jóvenes y un seguro para el buen desarrollo de las estancias, así como una mejora en la imbricación de las diferentes orientaciones productivas y mejoras en los métodos empresariales en el conjunto del sector primario de todo el país.
+
+Las entidades beneficiarias de las ayudas identificarán las explotaciones modelo de acogida y elaborarán un programa formativo adaptado a las características de cada una de ellas. El conjunto de explotaciones modelo de acogida de cada entidad con los programas formativos que haya diseñado para cada caso conformarán su plan anual de estancias formativas.
+
+A su vez, el programa formativo de cada estancia contendrá las temáticas que se abordarán y concretará los contenidos específicos en cada temática, así como también incluirá aquellas visitas técnicas complementarias fuera de la explotación modelo que se prevean.
+
+Las temáticas abordadas en las estancias abarcarán las principales necesidades formativas de la juventud agraria desde un enfoque fundamentalmente práctico y orientado a que los jóvenes adquieran conocimientos que les sean útiles en la puesta en marcha de su propia explotación agraria.
+
+Adicionalmente, considerando la importancia de la transformación digital en los sectores agrícola y ganadero y acorde con la Estrategia de Digitalización del Sector Agroalimentario y Forestal del Medio Rural del Ministerio de Agricultura, Pesca y Alimentación, el uso de las tecnologías digitales será una temática formativa obligatoria en todas las estancias. Por su carácter transversal, los aspectos de planificación y gestión económica y financiera estarán igualmente presentes en los programas formativos de todas las estancias.
+
+Durante las estancias, las actividades de formación práctica en la explotación modelo de acogida se podrán complementar con formación presencial impartida por la entidad beneficiaria y visitas técnicas a otros organismos, entidades, asociaciones, cooperativas u otras explotaciones agrarias.
+
+A fin de asegurar una adecuada gestión logística y un correcto seguimiento de las estancias, cada una de ellas contará con un responsable de formación en la explotación, así como con un coordinador designado por la entidad beneficiaria a la que la explotación esté vinculada. Esta entidad necesariamente tendrá implantación suprautonómica como mecanismo que permita, además, asegurar la coherencia interna del programa y su implantación nacional y vocación de generalidad y transversalidad en todo el medio rural español.
+
+Por otro lado, resulta especialmente enriquecedor para las personas jóvenes profesionales de la agricultura y la ganadería que inician su proyecto agrario conocer otras culturas y prácticas agronómicas, tanto técnicas como de gestión, diferentes de las de su territorio o región. Por ello, el carácter interterritorial del Programa CULTIVA constituye una oportunidad para que puedan realizar estancias formativas en explotaciones localizadas en una comunidad autónoma distinta de aquélla donde desarrollan su propia actividad profesional, asegurando así la interconexión entre las experiencias y enfoques y la mirada de conjunto al sector desde un punto de vista territorial, productivo y sectorial a que aspira este programa de ayudas.
+
+De esta manera, se garantiza que los jóvenes profesionales agrarios puedan participar en todo el territorio en igualdad de condiciones, independientemente de dónde residan y que se pueda proveer de mecanismos formativos diversos, adaptados y que reflejen la riqueza y variedad territorial.
+
+Dado que la finalidad es instaurar actuaciones formativas para jóvenes profesionales de la agricultura y la ganadería por razones de interés público, debe articularse a través de entidades representativas y vinculadas con los sectores agrícola y ganadero de ámbito nacional. Estas entidades serán las encargadas de las tareas de preparación, coordinación, gestión logística, seguimiento de las estancias formativas y comunicación que integren el programa, al propio tiempo que aseguran un enfoque nacional de la medida y una implantación verdaderamente transversal en el territorio de las experiencias a ofertar.
+
+En cada convocatoria se observará el cumplimiento de los requisitos de las entidades solicitantes de las ayudas, así como de las explotaciones modelo de acogida y los planes de estancias propuestos por cada entidad en el marco de estas bases. Estos requisitos garantizarán la diversidad territorial y de género de las explotaciones modelo de acogida ofertadas en el programa.
+
+El conjunto de los planes de estancias propuestos en cada convocatoria anual por las entidades solicitantes de las ayudas conformará la oferta del Programa CULTIVA de ese ejercicio. De esta manera, se trata de un programa único, de ámbito nacional y contendrá el total de estancias formativas y plazas que cada año se oferten, lo que asegura al propio tiempo la igualdad de oportunidades de todos con independencia de su lugar de residencia y del de la entidad de acogida.
+
+Por todo ello, se considera imprescindible que el Programa CULTIVA de estancias formativas se gestione de forma centralizada por parte del Ministerio de Agricultura, Pesca y Alimentación, a través de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria, en el ámbito de su competencia exclusiva en bases y coordinación de la planificación general de la actividad económica en virtud del artículo 149.1 13.ª de la Constitución Española, por el carácter supraterritorial de las ayudas, la modalidad interterritorial de las actuaciones subvencionadas y por ser las entidades beneficiarias de ámbito nacional. Esta gestión se llevará a cabo de acuerdo con los principios de publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación, eficacia en el cumplimiento de los objetivos y eficiencia en la asignación y utilización de los recursos públicos.
+
+Así, con palabras de la sentencia del Tribunal Constitucional 45/2001, de 15 de febrero, «el artículo 149.1.13.ª CE puede amparar tanto normas estatales que fijen las líneas directrices y los criterios globales de ordenación de sectores económicos concretos, como previsiones de acciones o medidas singulares indispensables para alcanzar los fines propuestos en dicha ordenación (sentencia del Tribunal Constitucional 155/1996, de 9 de octubre, F. 4 y jurisprudencia en ella citada)». En definitiva, el Estado tiene reservada, por el mencionado artículo 149.1.13.ª, una competencia de dirección en la que tienen cobijo normas básicas y, asimismo, previsiones de acciones o medidas singulares que sean necesarias para alcanzar los fines propuestos dentro de la ordenación del sector (sentencia del Tribunal Constitucional 117/1992, de 16 de septiembre).
+
+Ello se debe a su carácter transversal ya que aun existiendo una competencia sobre un subsector económico que una comunidad autónoma ha asumido como «exclusiva» en su Estatuto, esta atribución competencial no excluye la competencia estatal para establecer las bases y la coordinación de ese subsector, y que el ejercicio autonómico de esta competencia exclusiva puede estar condicionado por medidas estatales, que en ejercicio de una competencia propia y diferenciada pueden desplegarse autónomamente sobre diversos campos o materias, siempre que el fin perseguido responda efectivamente a un objetivo de planificación económica» (sentencia del Tribunal Constitucional 74/2014, de 8 de mayo).
+
+Igualmente, la sentencia del Tribunal Constitucional 11/2015, FJ 4, por remisión a la sentencia del Tribunal Constitucional 79/1992, de 28 de mayo, FJ 2, ha recordado que «el sector de la agricultura y la ganadería es de aquellos que por su importancia toleran la fijación de líneas directrices y criterios globales de ordenación así como previsiones de acciones o medidas singulares que sean necesarias para alcanzar los fines propuestos dentro de la ordenación de cada sector, destacando que «… en materia de agricultura y ganadería, siendo la competencia específica de las comunidades autónomas… el Estado puede intervenir en virtud de sus competencias generales sobre la ordenación general de la economía».
+
+La doctrina sobre la utilización de la supraterritorialidad como criterio de atribución de competencias al Estado se recuerda en la sentencia del Tribunal Constitucional 27/2014, de 13 de febrero, FJ 4, en los términos siguientes: «la utilización de la supraterritorialidad como criterio determinante para la atribución o el traslado de la titularidad de competencias al Estado en ámbitos, en principio, reservados a las competencias autonómicas tiene, según nuestra doctrina, carácter excepcional, de manera que solo podrá tener lugar «cuando no quepa establecer ningún punto de conexión que permita el ejercicio de las competencias autonómicas o cuando además del carácter supraautonómico del fenómeno objeto de la competencia, no sea posible el fraccionamiento de la actividad pública ejercida sobre él y, aun en este caso, siempre que dicha actuación tampoco pueda ejercerse mediante mecanismos de cooperación o de coordinación y, por ello, requiera un grado de homogeneidad que solo pueda garantizar su atribución a un único titular, forzosamente el Estado, y cuando sea necesario recurrir a un ente supraordenado con capacidad de integrar intereses contrapuestos de sus componentes parciales, sin olvidar el peligro inminente de daños irreparables, que nos sitúa en el terreno del estado de necesidad (STC 102/1995, de 26 de junio, FJ 8)» (sentencia del Tribunal Constitucional 35/2012, FJ 5, con cita de la sentencia del Tribunal Constitucional 194/2011, FJ 5)».
+
+El artículo 149.1.13.ª CE puede, en determinados casos, justificar la reserva de funciones ejecutivas al Estado y también permitir el uso de la supraterritorialidad como título atributivo de competencias al Estado, pero para que dicho supuesto pueda ser considerado conforme al orden competencial han de cumplirse dos condiciones: que resulte preciso que la actuación de que se trate quede reservada al Estado para garantizar así el cumplimento de la finalidad de ordenación económica que se persigue, la cual no podría conseguirse sin dicha reserva, y, por otro lado, que el uso del criterio supraterritorial resulte justificado en los términos de nuestra doctrina, esto es, atendiendo tanto a las razones aportadas como a la congruencia de la reserva de la función con el régimen de la norma.
+
+El Estado dicta estas bases desde una perspectiva nacional y articulada que, de otro modo, no aseguraría la igualdad en la percepción por parte de los posibles destinatarios de estas ayudas. Así, no solo se atiende al número de comunidades autónomas en que se desarrollen las actividades, sino que se computa la participación de las mismas como mecanismo de igualación frente a las diferentes perspectivas productivas de todo el país, en cumplimiento de los principios constitucionales de igualdad formal y material y de las competencias exclusivas del Estado que el Ministerio de Agricultura, Pesca y Alimentación ejerce en esta materia, de modo que se asegure una eficaz y diversa oferta formativa que articule distintos parámetros regionales, productivos y de innovación y que la propio tiempo permita a los interesados acudir a las estancias que les resulten más interesantes y complementarias en función de sus propias aspiraciones y sin restricciones regionales. Por otro lado, estas subvenciones no impiden a las comunidades autónomas aprobar sus correspondientes bases reguladoras, que se centren en las actividades desplegadas en su propio territorio.
+
+De acuerdo con la doctrina del Alto Tribunal, la necesidad de la gestión de estas ayudas a través del Ministerio de Agricultura, Pesca y Alimentación se fundamenta en la estructura y naturaleza jurídica de las entidades beneficiarias, que son de ámbito estatal. Las actividades de formación objeto de desarrollo, dado su carácter y requisito normativo de plurirregionalidad para que los asistentes puedan formarse en explotaciones modelo de otras comunidades autónomas, no son susceptibles de fraccionamiento, ni se considera posible alcanzar la plurirregionalidad requerida mediante mecanismos de cooperación o coordinación, al requerir un grado de homogeneidad en su tratamiento que solo puede garantizarse mediante su gestión por un único titular, que forzosamente tiene que ser el Estado, a través de la Administración General del Estado. De esta forma se ofrecen idénticas posibilidades de obtención y disfrute por parte de los sujetos beneficiarios últimos que radican en distintas comunidades autónomas pero que asisten a estancias organizadas por una única entidad de ámbito supraterritorial, aspecto que no se conseguiría desde una gestión autonómica por lo que se deduce de forma razonable que no cabe la fijación de un punto de conexión territorial.
+
+No cabe, por lo demás, atribuir a las comunidades autónomas la gestión de tales ayudas –sin perjuicio de sus propias líneas subvencionables– porque no nos encontramos ante una actividad donde el punto de ejercicio sea criterio atributivo de competencia, sino que se afronta una situación excepcional que solo mediante este modelo encuentra correcto acomodo para el logro de los fines, asegurando, no solo que no se rebasen los fondos máximos que la normativa europea previene, sino que las condiciones de obtención sean efectivamente homogéneas, con independencia de las condiciones de partida y el territorio concreto del que provenga el joven asistente y la explotación de destino, garantizando con ello que la efectividad de estas medidas sea plena: superar las diferencias físicas de origen, garantizar una igualdad efectiva entre territorios y condiciones de partida, y asegurar la plena efectividad en todo el país de estas ayudas para que efectivamente ayuden a subvenir situaciones de partida a las que los poderes públicos han de enfrentarse de modo eficiente.
+
+La priorización de jóvenes profesionales de la agricultura y la ganadería para su participación en el Programa CULTIVA será centralizada por el Ministerio de Agricultura, Pesca y Alimentación. En aras de simplificar el procedimiento de solicitud de los jóvenes, se establece un sistema ventanilla única para el envío de las solicitudes. Además, cabe destacar la imposibilidad de que las comunidades autónomas puedan desplegar la gestión por cuanto muchas de las actividades se desarrollarán por beneficiarios radicados en su territorio, pero en explotaciones sitas en otras comunidades autónomas, lo que impide que se desplieguen mecanismos de control y supervisión inherentes al modelo.
+
+Conforme al objetivo del programa de facilitar el acceso al conocimiento y a la formación a las nuevas generaciones de profesionales agrarios, serán requisitos para su participación en él haberse instalado con menos de 41 años como responsables de una explotación en los últimos 5 años a contar desde el año de la convocatoria anual. Además, tendrán preferencia en el acceso a las plazas ofertadas en el programa las personas jóvenes que se hayan incorporado más recientemente y las mujeres, con el fin asimismo de potenciar la participación de la mujer en las actividades del sector primario.
+
+El citado Departamento será el responsable de valorar las solicitudes de los jóvenes y asignar las plazas que cada año se oferten dentro del Programa CULTIVA.
+
+La demanda de los jóvenes determinará las estancias formativas que cada año se ejecuten siendo este el criterio de distribución de las ayudas entre las entidades solicitantes dentro de los límites presupuestarios que cada año se determinen.
+
+En cada ejercicio, las estancias formativas se ejecutarán en el plazo que se determine en la convocatoria correspondiente.
+
+Los destinatarios y beneficiarios últimos de estas ayudas destinadas a la organización del Programa CULTIVA serán jóvenes profesionales de la agricultura y la ganadería participantes en las mismas. Las ayudas reguladas en el presente real decreto tienen como finalidad última abaratar el coste de la estancia formativa que es soportado por el joven que asiste a la misma, de modo que la entidad encargada de la gestión y coordinación de la estancia no obtiene beneficio directo de la subvención.
+
+Por tanto, el destinatario final y beneficiario directo de la subvención es quien asiste a la estancia y no la entidad coordinadora de la misma.
+
+El presente real decreto se dicta al amparo de lo dispuesto en la regla 13.ª del artículo 149.1 de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+Esta norma se aprueba de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica y transparencia recogidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En este sentido, su aprobación es necesaria y eficaz para la ejecución del Programa CULTIVA (programa de estancias formativas de jóvenes profesionales de la agricultura y la ganadería en explotaciones modelo) como recurso formativo de interés público que contribuya a facilitar el acceso al conocimiento de los jóvenes profesionales agrarios y ayude a promover el relevo generacional, así como a prestigiar la profesión del agricultor y el ganadero. Asimismo se cumple con el principio de proporcionalidad, ya que contiene la regulación imprescindible para atender las necesidades que se pretenden cubrir y no existe otra alternativa que imponga menos obligaciones a los destinatarios para la consecución de los fines; también el principio de seguridad jurídica ya que es coherente con el resto del ordenamiento jurídico nacional y de la Unión Europea, asegurando su correcta inserción y congruencia con el resto de la regulación existente en la materia y facilitando su conocimiento y clara comprensión por los destinatarios. Por lo demás, la norma es coherente con el principio de transparencia, habiéndose procurado la participación de los interesados por el procedimiento de información y participación pública y mediante la consulta a las comunidades autónomas. Finalmente, la norma atiende el principio de eficiencia en tanto que evita cargas administrativas innecesarias y se han reducido al mínimo imprescindible para la consecución de los fines y necesidades.
+
+En la elaboración de esta disposición se ha consultado a las comunidades autónomas y las entidades representativas de los sectores afectados.
+
+De acuerdo con lo establecido en el segundo párrafo del artículo 17.1 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, este real decreto se ha informado por la Abogacía del Estado y la Intervención Delegada de la Intervención General de la Administración del Estado en el Ministerio de Agricultura, Pesca y Alimentación y por la Oficina Presupuestaria.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, con la aprobación previa del Ministro de Política Territorial y Función Pública, y previa deliberación del Consejo de Ministros en su reunión del día 15 de junio de 2021,
+
+DISPONGO:
+
+> Se modifica por el art. único.2 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)
+
+## Artículo 1. Objeto.
+
+El objeto del presente real decreto es regular la concesión, en régimen de concurrencia competitiva, de subvenciones destinadas a la organización del programa de estancias formativas de jóvenes profesionales de la agricultura y la ganadería en explotaciones modelo y la selección de los jóvenes asistentes a las estancias formativas.
+
+Las entidades beneficiarias de las ayudas para organización de las estancias formativas de dichos jóvenes deberán cumplir los requisitos del artículo 2.
+
+## Artículo 2. Requisitos de las entidades solicitantes.
+
+1\. Podrán ser beneficiarias de estas ayudas las organizaciones profesionales agrarias de carácter general y ámbito estatal, así como las entidades, asociaciones y organizaciones vinculadas a los sectores agrícola y ganadero de ámbito nacional sin ánimo de lucro.
+
+2\. Las entidades beneficiarias deberán cumplir los siguientes requisitos a fecha de finalización del plazo de presentación de las solicitudes:
+
+a) Tener personalidad jurídica.
+
+b) Tener ámbito de actuación e implantación suprautonómicos y que conste en sus estatutos.
+
+c) Recoger entre sus fines estatutarios la formación y el desarrollo profesional y la mejora de la cualificación en el ámbito de los sectores agrícola y ganadero.
+
+d) No incurrir en ninguna de las prohibiciones establecidas en el artículo 13 de la Ley 38/2003, de 17 de noviembre.
+
+> Se modifica la primera frase del apartado 2 por el art. único.3 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)
+
+> Se modifican los apartados 1 y 2.c) por la disposición final 3 del Real Decreto 1039/2025, de 19 de noviembre. [Ref. BOE-A-2025-23421](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-23421)
+
+> Esta modificación será aplicable a las convocatorias que se aprueben con posterioridad a la entrada en vigor del citado Real Decreto, según establece su disposición transitoria única.
+
+> Se suprime la letra e) del apartado 2 por el art. único.1 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 3. Requisitos de las personas interesadas que soliciten ser destinatarias de las estancias formativas.
+
+1\. Las estancias formativas irán dirigidas a jóvenes profesionales de la agricultura y la ganadería menores de 41 años e instalados como titulares de una explotación agraria o agroalimentaria en territorio nacional así como a los profesionales de la agricultura y la ganadería que aun teniendo 41 años o más se hayan instalado por primera vez como titulares de una explotación agraria o agroalimentaria en territorio nacional en el año en curso de la correspondiente convocatoria o en los cinco años naturales inmediatamente anteriores y que tuvieran una edad menor de 41 en la fecha de la primera instalación. En ambos casos la instalación se considerará independientemente que la incorporación de la persona interesada a la actividad agraria se haya realizado o no a través de las ayudas de los programas de desarrollo rural.
+
+2\. La explotación agraria o agroalimentaria en la que la persona interesada se haya instalado como titular deberá cumplir con la definición de PYME conforme al anexo I del Reglamento (UE) 2022/2472 de la Comisión, de 14 de diciembre de 2022, por el que se declaran determinadas categorías de ayuda en los sectores agrícola y forestal y en zonas rurales compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea.
+
+3\. Quienes soliciten las estancias formativas deberán cumplir estos requisitos a fecha de finalización del plazo de presentación de las solicitudes.
+
+> Se añade el apartado 3 por el art. único.4 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)
+
+> Se modifica por el art. único.2 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 4. Explotaciones modelo de acogida.
+
+1\. Las explotaciones modelo de acogida, podrán estar formadas por una o más unidades de producción agrícolas o ganaderas administradas por un mismo titular de explotación agrarias y deberán estar ubicadas en territorio nacional y comprometidas con la entidad solicitante en el marco del programa, tendrán que presentar algún rasgo que pruebe su carácter modélico desde el punto de vista de la innovación, los medios productivos, el modelo de negocio o las características sociales o ambientales y climáticas.
+
+2\. Cada explotación modelo de acogida sólo podrá estar comprometida con una entidad solicitante en el marco del programa de estancias formativas de jóvenes profesionales de la agricultura y la ganadería en explotaciones modelo de cada ejercicio pudiendo incluirse solo en el plan anual de estancias de esa entidad.
+
+3\. Las explotaciones modelo de acogida que formen parte del plan de las entidades solicitantes integrarán una base de datos custodiada por el Ministerio de Agricultura, Pesca y Alimentación que se publicará en la web del Departamento y que podrá servir para la implantación del programa en próximos ejercicios. La permanencia en dicha base de datos será bajo consentimiento y autorización de la persona titular de la explotación modelo de acogida y de la entidad solicitante con la que esté comprometida.
+
+> Se modifica por el art. único.3 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 5. Actuaciones subvencionables. Requisitos y plazo de realización de las actividades.
+
+1\. Son actuaciones subvencionables las relacionadas con la organización de las estancias formativas en explotaciones modelo de acogida. Las estancias formativas tendrán una duración de entre cinco y catorce días formativos preferentemente consecutivos.
+
+2\. Las estancias formativas deberán abordar alguna de las siguientes temáticas, entre otras:
+
+– Mecanización, incorporación y uso de tecnologías en los procesos productivos.
+
+– Agua: Técnicas y tecnologías para un uso racional.
+
+– Manejo del cultivo agrícola y del suelo, laboreo y técnicas de fertilización.
+
+– Sanidad vegetal.
+
+– Sanidad, alimentación y bienestar animal.
+
+– Recuperación y manejo de razas autóctonas.
+
+– Uso de tecnologías digitales.
+
+– Incorporación de criterios ambientales y climáticos y prácticas sostenibles.
+
+– Mitigación y adaptación al cambio climático.
+
+– Prácticas y métodos de producción ecológica e integrada.
+
+– Gestión de subproductos y residuos.
+
+– Plurifuncionalidad y compatibilización de uso de los espacios naturales.
+
+– Sistemas de acreditación de calidad diferenciada.
+
+– Diversificación, transformación y comercialización agroalimentaria.
+
+– Planificación y gestión económica y financiera de las explotaciones.
+
+– Modelos de gestión de la tierra, traspaso de fincas e inversiones en tierras.
+
+– Cooperativismo agroalimentario y otras fórmulas de asociacionismo
+
+– Vías de cooperación con organismos de investigación y desarrollo, universidades y entidades de apoyo a la investigación, desarrollo e innovación, para innovar en tecnologías, técnicas, prácticas y métodos.
+
+3\. En las estancias se impartirá al menos una media de siete horas/día de formación, incluyendo la formación dentro de la explotación y las visitas técnicas complementarias a otros organismos, entidades, asociaciones, cooperativas y otras explotaciones agrarias de la zona.
+
+4\. Las visitas técnicas complementarias no podrán suponer más del 25 % del total de horas formativas de cada estancia.
+
+5\. En cada estancia formativa podrán participar entre uno y cinco jóvenes.
+
+6\. En los fines de semana y días festivos podrá impartirse formación en la explotación de acogida o en visitas técnicas complementarias, que deberá quedar reflejada, al igual que los días restantes de la estancia, en el programa formativo. En tal caso, los gastos subvencionables se considerarán íntegros para todos aquellos días que se consideren formativos.
+
+7\. Las entidades solicitantes de las ayudas elaborarán tantos programas formativos como estancias, estableciendo con la persona titular de la explotación las condiciones de la estancia formativa (número de alumnos por estancia, fecha prevista de ejecución, duración de la estancia, temáticas formativas y sus contenidos específicos). Cada programa formativo incluirá la identificación de las personas responsables de la formación en la explotación modelo de acogida y desde la entidad de la coordinación de la estancia, así como de un coordinador o coordinadora suplente o de apoyo.
+
+8\. Las estancias formativas podrán desarrollarse desde el 1 de enero hasta el 31 de diciembre de cada ejercicio, si bien en la convocatoria correspondiente podrá extender el plazo de ejecución al ejercicio posterior.
+
+9\. Las entidades beneficiarias o sus federaciones, uniones o asociaciones vinculadas por estatutos y con implantación en el territorio donde se realiza cada actividad, serán las encargadas de las tareas subvencionables de preparación, coordinación, gestión logística, seguimiento de las estancias formativas, formación complementaria a la impartida por el anfitrión o anfitriona y comunicación. También serán las encargadas de realizar los pagos de los gastos subvencionables de las personas participantes y los anfitriones o anfitrionas, así como de los relacionados con las estancias formativas.
+
+10\. Las estancias formativas serán gratuitas para las personas participantes, por lo que se les pagarán los gastos derivados de su participación en estas, incluyendo gastos de locomoción, manutención, alojamiento, de sustitución en su explotación por ausencia durante su participación en las estancias formativas, así como se subvencionarán los costes de la cobertura del seguro y, en caso necesario, los costes de pruebas requeridas o recomendadas por las autoridades sanitarias por motivos de salud pública de las personas participantes.
+
+11\. Así mismo, se pagarán los gastos de acogida y formación por parte de los anfitriones o anfitrionas y, en caso necesario, los costes de pruebas requeridas o recomendadas por las autoridades sanitarias por motivos de salud pública de los mismos.
+
+> Se modifica por el art. único.4 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 6. Requisitos de los planes de estancias de las entidades solicitantes.
+
+1\. Las entidades solicitantes deberán elaborar un plan de estancias que no supere el número máximo de cien estancias programadas y que cuente para ello con no menos de diez explotaciones modelo de acogida.
+
+2\. El número mínimo de comunidades autónomas que deberán ser atendidas por el plan será de dos.
+
+3\. El número de explotaciones modelo de acogida incluidas en el plan que tengan como titular a una mujer, sean de titularidad compartida o sean explotaciones asociativas donde al menos el 40 % de los socios o de sus miembros en los órganos de dirección sean mujeres, deberá representar un porcentaje sobre el total de explotaciones modelo incluidas igual o superior al 15 %.
+
+> Se modifica por el art. único.5 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 7. Convocatoria y presentación de solicitudes de las ayudas por parte de las entidades y documentación necesaria.
+
+1\. Las ayudas se convocarán, en función de las disponibilidades presupuestarias, por el Ministro de Agricultura, Pesca, y Alimentación.
+
+La publicación del extracto de cada convocatoria en el «Boletín Oficial del Estado» se realizará a través de la Base de Datos Nacional de Subvenciones, una vez que se haya presentado ante ésta el texto de la convocatoria y la información requerida para su publicación.
+
+2\. Las entidades dirigirán sus solicitudes de ayudas al Ministro de Agricultura, Pesca y Alimentación y se presentarán por vía electrónica mediante certificado digital válido y compatible a través del Registro Electrónico General, disponible en el Punto de Acceso General Electrónico (PAGe), o de la sede electrónica asociada del Departamento https://sede.mapa.gob.es/, debiendo cumplimentarse el formulario de solicitud y adjuntar los documentos requeridos.
+
+3\. La solicitud se formalizará según el modelo que establezca la correspondiente convocatoria y cuyo contenido mínimo será:
+
+a) Datos y domicilio del representante de la entidad.
+
+b) Datos y domicilio de la entidad solicitante.
+
+c) Documentación que se adjunta.
+
+d) Correo electrónico a efectos de recepción de avisos conforme a lo previsto en el artículo 41.6 de la Ley 39/2015, de 1 de octubre.
+
+e) Solicitud firmada por la persona representante de la entidad.
+
+Para tal fin, la persona representante de la asociación deberá contar con algún medio acreditativo de identidad (sistemas de autenticación o certificación electrónica).
+
+4\. Las solicitudes se presentarán en el plazo que establezca en la convocatoria, iniciándose desde el día siguiente al de la publicación de su extracto en el "Boletín Oficial del Estado".
+
+5\. La solicitud deberá ir acompañada de los siguientes documentos:
+
+a) Copia simple de los estatutos de la entidad solicitante, en la que conste que la referida entidad reúne los requisitos establecidos en las letras a) b) y c) del artículo 2.2.
+
+b) Plan anual de estancias formativas propuestas por la entidad, de acuerdo con lo determinado en los artículos 4, 5 y 6, que deberá contar con los siguientes contenidos:
+
+1.º Descripción general del plan de estancias de la entidad y su impacto: Análisis cualitativo y cuantitativo del alcance global de las estancias propuestas indicando el número de estancias y capacidad máxima de acogida en cada una de ellas, su distribución territorial, el número máximo de plazas ofertadas, el número de plazas que estiman poder ejecutar y el presupuesto total solicitado para ello, así como una descripción de los objetivos básicos y las metas que se pretenden alcanzar. Asimismo, justificará y hará referencia específica al cumplimiento de los requisitos del plan de estancias mencionados en el artículo 6.
+
+2.º Identificación de las explotaciones modelo de acogida y descripción de estancias y programas formativos, según las indicaciones que se establezcan en cada convocatoria.
+
+Se incluirá al menos la identificación de la explotación, la identificación y medio de contacto de su titular, la ubicación, la producción agraria y una breve descripción de sus características generales y del rasgo que pruebe su carácter modélico, desde el punto de vista de la innovación, los medios productivos, el modelo de negocio o las características sociales o ambientales y climáticas.
+
+Además, la descripción de cada estancia hará referencia al menos a la fecha estimada de ejecución, número de días formativos y el número de plazas ofertadas que no podrá ser inferior a tres ni superior a cinco. El programa formativo especificará para cada temática los contenidos o actividades formativas que se abordarán y también referirá el total de horas que se dedicarán a cada temática. El programa incluirá las visitas técnicas complementarias previstas durante la estancia formativa, la temática que abordan, el tiempo a ellas destinado y el objetivo de las mismas.
+
+3.º Declaración responsable relativa al cumplimiento de los requisitos de las explotaciones modelo de acogida y documento de compromiso entre la entidad y el titular de la explotación modelo de acogida, firmada tanto por el titular de la explotación como por la entidad beneficiaria, según las indicaciones que establezca la convocatoria correspondiente.
+
+c) Presupuesto de los gastos previstos para la realización del plan de estancias propuesto, según las indicaciones que se establezcan en cada convocatoria. Este presupuesto podrá superar el límite máximo subvencionable recogido en el artículo 12.3.
+
+d) Certificado del representante de la entidad solicitante de no haber solicitado ni, en su caso, obtenido otras ayudas, para la misma finalidad, procedentes de las Administraciones públicas o de otros entes públicos o privados.
+
+e) Declaración responsable de tener reconocido el derecho de exención del Impuesto sobre el Valor Añadido (IVA) o Impuesto General Indirecto Canario (IGIC) o, en su caso, la última declaración del mismo.
+
+f) Declaración responsable de que la entidad no es deudora por resolución de procedencia de reintegro de subvenciones y se compromete a mantener dicha condición durante el tiempo en que se desarrolle el procedimiento, en cumplimiento del artículo 25 del Reglamento de la Ley 38/2003, de 17 de noviembre.
+
+6\. Según lo previsto en la disposición adicional octava de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, en cuanto a la potestad de verificación de las Administraciones públicas de las solicitudes que formulen los interesados, la presentación de la solicitud implica:
+
+a) La autorización al Ministerio de Agricultura, Pesca y Alimentación para recabar de la Tesorería General de la Seguridad Social información relativa al cumplimiento de las obligaciones de la Seguridad Social en los términos previstos en el artículo 23.3 de la Ley 38/2003, de 17 de noviembre. No obstante, el solicitante podrá denegar expresamente el consentimiento, debiendo aportar los correspondientes certificados junto con la solicitud en los términos previstos en el artículo 22 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, aprobado por el Real Decreto 887/2006, de 21 de julio. A estos efectos, cuando la cuantía de la subvención concedida no supere los 3.000 euros, el solicitante podrá presentar declaración responsable de encontrarse al corriente en el cumplimiento de las obligaciones con la Seguridad Social, que sustituirá a la presentación de las certificaciones.
+
+b) La potestad del Ministerio de Agricultura, Pesca y Alimentación de comprobar los datos de identidad del representante de la entidad, mediante consulta al Sistema de Verificación de Datos de Identidad previsto en el artículo único, apartado 3, del Real Decreto 522/2006, de 28 de abril, por el que se suprime la aportación de fotocopias de documentos de identidad en los procedimientos administrativos de la Administración General del Estado y de sus organismos públicos vinculados o dependientes. No obstante, el interesado podrá denegar expresamente el consentimiento debiendo aportar entonces copia del DNI, NIF o pasaporte o documento equivalente en caso de extranjeros, de acuerdo con lo previsto en el citado artículo.
+
+c) La autorización al Ministerio de Agricultura, Pesca y Alimentación para comprobar las facultades o poderes de la persona representante de la entidad, salvo oposición expresa del solicitante, en cuyo caso deberá aportar junto con la solicitud la certificación acreditativa de dichas facultades o poderes.
+
+d) La autorización del solicitante para que el órgano concedente obtenga de forma directa la acreditación de las circunstancias relativas al cumplimiento de las obligaciones tributarias previstas en el artículo 18 del Reglamento de la Ley General de Subvenciones, aprobado por Real Decreto 887/2006, de 21 de julio, a través de certificados telemáticos, en cuyo caso el solicitante no deberá aportar la correspondiente certificación. No obstante, el solicitante podrá denegar expresamente el consentimiento, debiendo aportar entonces la certificación relativa al cumplimiento de las obligaciones tributarias en los términos previstos en el artículo 22 del citado Reglamento.
+
+7\. Cuando la documentación a la que se refiere el apartado anterior sea aportada por la propia entidad solicitante, el órgano instructor podrá efectuar las verificaciones necesarias para comprobar la exactitud de los datos.
+
+> Se modifica la letra d) del apartado 5 por el art. 2.1 del Real Decreto 921/2024, de 17 de septiembre. [Ref. BOE-A-2024-18619](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18619)
+
+> Se modifica el apartado 4 y las letras b) y c) del apartado 5 por el art. único.6 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 8. Comunicaciones electrónicas de las entidades solicitantes de las ayudas.
+
+1\. Las entidades solicitantes realizarán todos los trámites del procedimiento a través de medios electrónicos y a través de la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación.
+
+2\. Conforme al artículo 14.2 de la Ley 39/2015, de 1 de octubre, la utilización de dichos medios electrónicos será obligatoria, tanto para la presentación de solicitudes de las ayudas como para las comunicaciones y escritos de las entidades solicitantes.
+
+3\. Las entidades solicitantes, al presentarse a las convocatorias, aceptan la recepción de avisos de carácter informativo mediante correo electrónico sobre cualquier asunto relacionado con su solicitud de ayuda.
+
+## Artículo 9. Instrucción del procedimiento.
+
+1\. La ordenación e instrucción del procedimiento se realizará por la Subdirección General de Dinamización del Medio Rural de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria del Ministerio de Agricultura, Pesca y Alimentación, que realizará de oficio cuantas actuaciones estime necesarias para la determinación, conocimiento y comprobación de los datos en virtud de los cuales deba pronunciarse la resolución, de acuerdo con lo establecido en el artículo 24 de la Ley 38/2003, de 17 de noviembre.
+
+Si la solicitud de la entidad no reúne los requisitos establecidos en estas bases reguladoras, el órgano competente requerirá al interesado para que la subsane en el plazo máximo e improrrogable de diez días, indicándole que si no lo hiciere se le tendrá por desistido de su solicitud, de acuerdo con lo establecido por el artículo 23.5 de la Ley 38/2003, de 17 de noviembre, así como en el artículo 68 de la Ley 39/2015, de 1 de octubre. La citada subsanación no alcanza al cumplimiento de los requisitos materiales que permitan obtener la condición de persona beneficiaria contenidos en el artículo 2, respecto de los que únicamente podrá subsanarse su acreditación, si ésta fuera insuficiente.
+
+2\. Verificado el cumplimiento de los requisitos por parte de las entidades y a la vista de sus solicitudes, el órgano instructor elaborará un catálogo de estancias formativas con base en las solicitudes subsanadas de las entidades solicitantes. Este catálogo se hará público en la web del Departamento y contendrá la oferta oficial de estancias formativas del programa formativo de jóvenes profesionales de la agricultura y la ganadería en explotaciones modelo del ejercicio en curso.
+
+3\. Publicado el catálogo oficial de estancias formativas, se abrirá el plazo para el envío de las solicitudes por parte de jóvenes profesionales de la agricultura y la ganadería destinatarios de las estancias conforme al artículo 10.3.
+
+> Se añade una frase al final del segundo párrafo del apartado 1 por el art. único.5 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)
+
+> Se modifican los apartados 2 y 3 por el art. único.7 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 10. Presentación y priorización de las solicitudes de jóvenes.
+
+1\. Las personas jóvenes podrán solicitar su participación en hasta diez estancias formativas, indicando en su solicitud el orden de preferencia entre las estancias seleccionadas. Por razón de su capacidad técnica y dedicación profesional, conforme a lo dispuesto en el artículo 14.3 de la Ley 39/2015, de 1 de octubre, se establece la obligación de que las personas jóvenes profesionales de la agricultura y la ganadería se relacionen con la Administración con medios electrónicos.
+
+2\. Las personas jóvenes que hayan participado en el programa de estancias formativas en años anteriores no podrán asistir a las estancias a las que ya hayan asistido previamente.
+
+3\. Las personas interesadas en participar en las estancias formativas dirigirán sus solicitudes al órgano instructor en el plazo que se establezca en la convocatoria correspondiente, iniciándose desde el día siguiente a la publicación del catálogo mencionado, y se presentarán por vía electrónica mediante certificado digital válido y compatible a través del Registro Electrónico General, disponible en el Punto de Acceso General Electrónico (PAGe), o de la sede electrónica asociada del Departamento https://sede.mapa.gob.es/. La solicitud incluirá los siguientes documentos:
+
+a) Formulario de solicitud, según las indicaciones que se establezcan en cada convocatoria.
+
+b) Documento acreditativo de la fecha de su primera instalación en la actividad agraria, considerándose a tal efecto la fecha de alta en la Seguridad Social en el Régimen Especial de Trabajadores Autónomos correspondiente a la actividad agraria a desarrollar o la fecha de alta en el censo de actividades económicas y empresariales en la actividad agraria. En caso de presentarse ambas fechas se considerará la más favorable al solicitante.
+
+c) Declaración responsable del solicitante relativa al cumplimiento de la definición de PYME, a la que hace referencia el artículo 3.2.
+
+4\. Según lo previsto en la disposición adicional octava de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, en cuanto a la potestad de verificación de las Administraciones públicas de las solicitudes que formulen los interesados, la presentación de la solicitud implica:
+
+a) La potestad del Ministerio de Agricultura, Pesca y Alimentación de comprobar los datos de identidad de la persona solicitante, mediante consulta al Sistema de Verificación de Datos de Identidad previsto en el artículo único, apartado 3, del Real Decreto 522/2006, de 28 de abril, por el que se suprime la aportación de fotocopias de documentos de identidad en los procedimientos administrativos de la Administración General del Estado y de sus organismos públicos vinculados o dependientes. No obstante, el interesado podrá denegar expresamente el consentimiento debiendo aportar entonces copia del DNI, NIF o pasaporte o documento equivalente en caso de extranjeros, de acuerdo con lo previsto en el citado artículo.
+
+b) La autorización al Ministerio de Agricultura, Pesca y Alimentación para consultar la inscripción en el Registro General de la Producción Agrícola (REGEPA), en el Registro de Explotaciones Ganaderas (REGA) o en el sistema de información de explotaciones agrícolas, ganaderas y de la producción agraria (SIEX) como titulares de una explotación agraria, o solicitud de inscripción. No obstante, la persona interesada podrá denegar expresamente el consentimiento debiendo aportar entonces copia del documento acreditativo de las características de instalación de la explotación y la actividad agraria que realiza.
+
+5\. Cuando la documentación a la que se refiere el apartado anterior sea aportada por la persona solicitante, el órgano instructor podrá efectuar las verificaciones necesarias para comprobar la exactitud de los datos.
+
+6\. En el proceso de priorización de las solicitudes de las personas jóvenes, se considerará la puntuación obtenida de acuerdo con los siguientes criterios de valoración:
+
+a) Años naturales transcurridos desde la primera instalación de la persona participante en la actividad agraria hasta el año de la convocatoria en curso: Hasta 6 puntos.
+
+– 6 puntos: Si la primera instalación en su explotación tuvo lugar en el año en curso de la convocatoria anual o en los cinco años naturales inmediatamente anteriores a dicho año.
+
+– 4 puntos: Si la primera instalación en su explotación tuvo lugar entre los seis y los diez años naturales inmediatamente anteriores al año en curso de la convocatoria anual.
+
+– 2 puntos: Si la primera instalación en su explotación no tuvo lugar en ninguno de los periodos indicados en los párrafos anteriores.
+
+b) Mujer agricultora: 1 punto.
+
+c) Participación de la persona interesada en estancias formativas del programa en las cinco convocatorias anteriores: Hasta 4 puntos.
+
+– 4 puntos: Si no ha participado en ninguna de las cinco convocatorias anteriores del programa de estancias formativas de jóvenes agricultores en explotaciones modelo.
+
+– 2 puntos: Si ha participado en una a tres estancias formativas en las cinco convocatorias anteriores del programa de estancias formativas de jóvenes agricultores en explotaciones modelo.
+
+– 0 puntos: Si ha participado en cuatro o más estancias formativas en las cinco convocatorias anteriores del programa de estancias formativas de jóvenes agricultores en explotaciones modelo.
+
+En caso de empate en la puntuación obtenida por dos o más jóvenes se considerará el orden de entrada de la solicitud a través del Registro Electrónico General, disponible en el Punto de Acceso General Electrónico (PAGe), o de la sede electrónica asociada del Departamento https://sede.mapa.gob.es/.
+
+7\. Si la solicitud de las personas jóvenes no reúne los requisitos establecidos en la convocatoria, se requerirá al interesado para que la subsane en el plazo máximo improrrogable de diez días hábiles, indicándole que si no lo hiciere se le tendrá por desistido de su solicitud, de acuerdo con lo establecido por el artículo 23.5 de la Ley 38/2003, de 17 de noviembre, así como en el artículo 68 de la Ley 39/2015, de 1 de octubre. La citada subsanación no alcanza al cumplimiento de los requisitos materiales que permitan obtener la condición de persona beneficiaria contenidos en el artículo 3, respecto de los que únicamente podrá subsanarse su acreditación, si ésta fuera insuficiente.
+
+8\. Las plazas de las estancias formativas se asignarán a las personas jóvenes considerando el orden de preferencia indicado en su solicitud. Se asignarán como máximo tres estancias por joven.
+
+> Se añade una frase al final del apartado 7 y se modifica el 8 por el art. único.6 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)
+
+> Se modifica la letra b) del apartado 4 por el art. 2.2 del Real Decreto 921/2024, de 17 de septiembre. [Ref. BOE-A-2024-18619](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18619)
+
+> Se modifica por el art. único.8 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 11. Comisión de valoración, criterios de valoración y propuesta de resolución.
+
+1\. La valoración de las solicitudes de ayudas de las entidades y de plazas de estancias de las personas jóvenes se llevará a cabo por la Comisión de Valoración, que estará compuesta por los siguientes miembros:
+
+a) Presidencia: La persona titular de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria, que podrá ser sustituida por un funcionario o funcionaria con rango de subdirector o asimilado.
+
+b) Vocalía: Tres funcionarios o funcionarias adscritos a la Subdirección General de Dinamización del Medio Rural, designados por la persona titular de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria, y dos vocalías de aquellas comunidades autónomas que hayan trasladado a la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria su interés en participar. En caso de recibir más de dos solicitudes, se incluirán por el orden que determine cada convocatoria.
+
+c) Secretaría: la persona titular de la Subdirección General de Dinamización del Medio Rural, con voz y voto, que podrá ser sustituida por un funcionario o funcionaria de carrera que ocupe una subdirección general o puesto asimilado, designada por la persona titular de la Presidencia.
+
+2\. La Comisión acomodará su funcionamiento al régimen jurídico previsto en la sección tercera, del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+3\. El criterio de valoración para fijar la prelación entre solicitantes y en consecuencia asignar las cuantías de las ayudas a cada entidad será el valor del conjunto de plazas asignadas en las estancias incluidas en su plan de estancias.
+
+La asignación de plazas se realizará siguiendo el orden de clasificación de las personas jóvenes solicitantes y considerando el orden de preferencia entre estancias indicado por cada una de ellas en su solicitud.
+
+El valor de cada plaza asignada se determinará en función de la duración de la estancia y el número de jóvenes asistentes a la misma.
+
+El valor del conjunto de plazas asignadas para cada entidad será la suma del valor individual de cada una de esas plazas.
+
+4\. Tras la valoración, en aplicación de los criterios de priorización de jóvenes establecidos en el artículo 10.6 así como los criterios de valoración de las entidades solicitantes referidos en el apartado anterior y de la información aportada por el órgano instructor, la Comisión emitirá un informe en el que se concretará el resultado de la valoración, que remitirá al órgano instructor.
+
+5\. El órgano instructor, a la vista del expediente y del informe de la Comisión de Valoración, formulará la propuesta de resolución provisional, debidamente motivada, que deberá publicarse en el tablón de anuncios de la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación (https://sede.mapa.gob.es/portal/site/seMAPA/navTablonAnuncios) de acuerdo con lo dispuesto por el artículo 45.1 de la Ley 39/2015, de 1 de octubre, surtiendo la publicación los efectos de la notificación, concediéndose un plazo de diez días para presentar alegaciones.
+
+La propuesta deberá contener la relación de entidades solicitantes para los que se propone la concesión de la ayuda y su valoración, así como la relación de entidades solicitantes cuyas solicitudes resultan desestimadas. De igual modo, deberá incluir la relación priorizada de jóvenes solicitantes, indicando aquéllos para los que se propone la asignación de las plazas y la estancia formativa correspondiente a cada plaza asignada, aquéllos que se mantendrán en una lista de espera pendientes de asignación de las plazas solicitadas que no les han sido asignadas donde tendrán prioridad aquellos sin ninguna plaza asignada, así como las solicitudes de estancias que resultan desestimadas.
+
+Se podrá prescindir del trámite de audiencia cuando no figuren en procedimiento ni sean tenidos en cuenta otros hechos ni otras alegaciones y pruebas que las aducidas por los interesados. En este caso, la propuesta de resolución formulada tendrá el carácter de definitiva.
+
+6\. Las propuestas de resolución provisional y definitiva no crean derecho alguno a favor de la persona beneficiaria propuesto frente a la Administración, mientras no se le haya publicado la resolución de concesión.
+
+> Se modifica la letra c) del apartado 1 por el art. único.7 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)
+
+> Se modifica por el art. único.9 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 12. Financiación, cuantía de las ayudas y criterios de distribución.
+
+1\. La financiación, con cargo a la aplicación presupuestaria que para cada ejercicio se determine en los Presupuestos Generales del Estado para el Ministerio de Agricultura, Pesca y Alimentación, estará condicionada a la existencia de crédito adecuado y suficiente en el momento de la concesión, y su cuantía concreta se fijará en cada convocatoria.
+
+2\. La cuantía de la ayuda para cada entidad será igual al valor del conjunto de plazas asignadas en actividades incluidas en su plan de estancias, que se calculará según lo indicado en el artículo 11.3.
+
+3\. El importe percibido por cada una de las entidades solicitantes no podrá superar el cincuenta por ciento del presupuesto total de la subvención para la respectiva convocatoria. No obstante, este límite podrá superarse en caso de que exista presupuesto suficiente en la convocatoria para atender todo lo solicitado. En cualquier caso, una entidad no podrá recibir más de lo solicitado.
+
+4\. Con el fin de respetar el principio de moderación de costes, los gastos de las actividades formativas se subvencionarán hasta los límites que se establezcan por convocatoria.
+
+5\. En cualesquiera modelos, tanto en soporte papel como electrónico, en todo instrumento de comunicación con la persona interesada, en la resolución de concesión y, en su caso, de pago, así como en cualesquiera soportes o medios de difusión deberá indicarse el origen de la financiación, especificando la cantidad procedente de los fondos estatales. En todo caso, se empleará el logo GOBIERNO DE ESPAÑA-MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN, y las representaciones gráficas que se determinen, conforme al modelo que se establezca en la correspondiente convocatoria.
+
+6\. Las entidades beneficiarias no realizarán retención a cuenta del IRPF sobre las cuantías de ayudas destinadas a cubrir los gastos obligatorios de substitución y de formación y acogida.
+
+> Se modifica el apartado 3 por el art. único.8 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)
+
+> Se añade el apartado 6 por el art. 2.3 del Real Decreto 921/2024, de 17 de septiembre. [Ref. BOE-A-2024-18619](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18619)
+
+> Se modifican los apartados 3 y 4 y se añade el apartado 5 por el art. único.10 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 174, de 22 de julio de 2023. [Ref. BOE-A-2023-16890](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16890)
+
+## Artículo 13. Gastos subvencionables.
+
+1\. Cuando sea de aplicación el apartado 3 del artículo 18 del presente real decreto, serán subvencionables los gastos siguientes:
+
+a) Gastos de personal propio y no propio de las entidades beneficiarias, sus federaciones, uniones o asociaciones vinculadas en tareas directamente relacionadas con las estancias: De preparación, coordinación, gestión logística, seguimiento de estancias formativas, formación complementaria a la impartida por el anfitrión o anfitriona y/o comunicación.
+
+b) En los gastos de personal propio de las entidades beneficiarias, sus federaciones, uniones o asociaciones vinculadas se podrán incluir las cuotas a la Seguridad Social.
+
+c) Gastos de locomoción, manutención y desplazamiento de los coordinadores o coordinadoras principal y de apoyo de cada una de las estancias.
+
+d) Gastos derivados de la participación de jóvenes en las estancias, incluyendo gastos de locomoción, manutención, alojamiento y de sustitución en su explotación por ausencia durante su participación en estancias formativas.
+
+e) Gastos de acogida y formación por parte de los anfitriones o anfitrionas.
+
+f) En su caso, costes de pruebas requeridas o recomendadas por las autoridades sanitarias por motivos de salud pública de personas participantes y anfitriones o anfitrionas.
+
+g) Costes directos sobre la cobertura del seguro a las personas jóvenes participantes en las estancias formativas, relacionada con las características de las mismas.
+
+h) Gastos generales de publicidad y promoción del proyecto.
+
+i) El Impuesto sobre el Valor Añadido (IVA), cuando no sea recuperable por la entidad beneficiaria.
+
+j) Gastos indirectamente relacionados con las actividades formativas, con la limitación de hasta el 10 % de la suma total de los costes directos restantes.
+
+Con el fin de respetar el principio de moderación de costes, los precitados gastos únicamente se subvencionarán en los términos que se establezcan por convocatoria y hasta los límites que en ella se determinen y que, en todo caso, cumplirán con los límites establecidos en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón de servicio para el grupo 2. Además, se aplicarán los límites establecidos en el IV Convenio colectivo único para el personal laboral de la Administración General del Estado en los conceptos de la estructura retributiva regulados en dicho convenio que se determinen en la cada convocatoria, según los correspondientes grupos profesionales.
+
+2\. No serán subvencionables los siguientes gastos:
+
+a) IVA recuperable de la entidad beneficiaria.
+
+b) Intereses deudores.
+
+c) Adquisición de mobiliario, equipos, vehículos, infraestructuras, bienes inmuebles y terrenos.
+
+d) Las actualizaciones, ampliaciones y mantenimiento de páginas web y de plataformas tecnológicas ya subvencionadas o subvencionadas inicialmente por otras entidades u organismos.
+
+> Se modifica el apartado 1 por el art. único.11 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 14. Resolución.
+
+1\. Tras el examen de las alegaciones en su caso formuladas por los interesados, el órgano instructor formulará la propuesta de resolución definitiva, de conformidad con lo establecido en el artículo 22.1 y 24.4 de la Ley 38/2003, de 17 de noviembre, y la elevará al titular del departamento u otro órgano por delegación, para su aprobación.
+
+2\. El órgano competente resolverá el procedimiento de concesión en el plazo de quince días desde la fecha de elevación de la propuesta de resolución, que deberá ser motivada conforme a lo establecido en las presentes bases, y deberá contener:
+
+a) La relación de las entidades solicitantes para los que se concede la ayuda y la cuantía de ésta.
+
+b) La relación de las entidades solicitantes a los que se deniega la subvención con expresa indicación en cada caso de los motivos.
+
+c) La relación de jóvenes profesionales de la agricultura y la ganadería solicitantes para quienes se concede una plaza y la estancia formativa donde se le asigna la plaza.
+
+d) Una lista de espera con la relación ordenada de las personas jóvenes solicitantes a las que no se les hayan asignado todas las plazas solicitadas. La lista de espera se ordenará dando prioridad a los y las jóvenes sin ninguna plaza asignada, sin perjuicio de que, si durante el periodo de ejecución de la actividad subvencionada hubiera jóvenes asignados a una estancia y ésta resultare anulada por renuncia de la explotación modelo anfitriona, éstos tendrán prioridad absoluta en la asignación, modificándose la citada lista de espera conforme vayan aconteciendo dichas anulaciones, mediante resolución complementaria del órgano competente para resolver. A medida que se puedan ir asignando estancias a los y las jóvenes en la lista de espera, se irán dictando sucesivas resoluciones complementarias del órgano competente para resolver acordando esas asignaciones.
+
+e) El régimen de recursos.
+
+3\. Sin perjuicio de su publicación en la Base de Datos Nacional de Subvenciones, de acuerdo con lo dispuesto en los artículos 18 y 20 de la Ley 38/2003, de 17 de noviembre, el contenido íntegro de la resolución se publicará en el tablón de anuncios de la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación (https://sede.mapa.gob.es/portal/site/seMAPA/navTablonAnuncios), de acuerdo con lo dispuesto por el artículo 45.1 de la Ley 39/2015, de 1 de octubre, surtiendo la publicación los efectos de la notificación.
+
+Contra esta resolución, que agota la vía administrativa, podrá recurrirse, potestativamente, en reposición ante el Ministro de Agricultura, Pesca y Alimentación en el plazo de un mes, contado a partir del día siguiente al de la publicación en la página web del Departamento o ser impugnada directamente ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional en el plazo de dos meses, también contado desde el día siguiente al de su publicación en la página web del Departamento. No podrán simultanearse ambas vías de recurso.
+
+4\. El plazo máximo para la resolución y publicación del procedimiento será de seis meses contados a partir del día siguiente de la fecha de publicación del extracto de la convocatoria de las subvenciones en el «Boletín Oficial del Estado», salvo que la misma posponga sus efectos a una fecha posterior de acuerdo con el artículo 25.4 de la Ley 38/2003, de 17 de noviembre. Transcurrido dicho plazo sin que se hubiera notificado la resolución expresa, se podrá entender desestimada la solicitud de ayuda por silencio administrativo de acuerdo con el artículo 25.5 de la Ley 38/2003, de 17 de noviembre, sin perjuicio de la obligación de dictar resolución expresa.
+
+> Se modifica la letra d) del apartado 2 por el art. único.9 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)
+
+> Se modifica la letra d) del apartado 2 por el art. único.12 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 15. Obligaciones de las beneficiarias y subcontratación.
+
+1\. Las entidades beneficiarias de estas ayudas estarán obligadas a:
+
+a) Contar con un plan de difusión y publicidad para informar de las estancias que se van a llevar a cabo, así como de la financiación de éstas por parte de Ministerio de Agricultura, Pesca y Alimentación. La entidad deberá remitir al órgano instructor el citado plan con una antelación mínima de cinco días al inicio del periodo de ejecución de las estancias. La entidad dará difusión al programa de estancias formativas de jóvenes profesionales de la agricultura y la ganadería en explotaciones modelo, las características y la oferta formativa de las explotaciones modelo de acogida. En toda actividad de difusión y publicidad las entidades utilizarán el nombre oficial del programa, emplearán el logo del programa y se cumplirán las indicaciones que se establezcan por convocatoria.
+
+b) Darse de alta en una póliza de seguros que cubra los seguros sanitarios de los participantes, de accidentes, de responsabilidad civil y de asistencia en viajes. Con anterioridad al inicio de las estancias formativas, esta póliza estará contratada a nombre de la entidad beneficiaria.
+
+c) Entregar el material de comunicación, entendiendo como tal el material gráfico, fotográfico o audiovisual realizado por la entidad beneficiaria como parte del plan de difusión y publicidad al que se refiere el artículo 15.1.a), que se derive de todas las actuaciones realizadas y que, a todos los efectos, será propiedad en partes iguales del Ministerio de Agricultura Pesca y Alimentación y la entidad beneficiaria de estas ayudas, sin que ninguna de las partes cotitulares pueda ejercer su derecho de explotación fuera del programa CULTIVA de manera independiente, sin el consentimiento expreso y por escrito del otro cotitular.
+
+d) Acreditar la realización de las actividades que hayan sido objeto de ayuda, de acuerdo con lo previsto en el artículo 18 de las presentes bases y cumplir las demás obligaciones previstas en el artículo 14 de la Ley 38/2003, de 17 de noviembre.
+
+e) Prestar su colaboración y facilitar cuanta información sea requerida por el Tribunal de Cuentas, la Intervención General de la Administración del Estado u otros órganos de control y el Ministerio de Agricultura, Pesca y Alimentación.
+
+f) Comunicar, conforme al artículo 14.1.d) de la Ley 38/2003, de 17 de noviembre, la no obtención de otras subvenciones, ayudas, ingresos o recursos que financien las actividades subvencionadas.
+
+g) Someterse a las actuaciones de comprobación y control efectuadas por la Administración General del Estado y, en su caso, por la Intervención General de la Administración del Estado, Tribunal de Cuentas o por los órganos de control de las subvenciones, según sus correspondientes normativas, debiendo el beneficiario aportar cuanta información le sea requerida en el ejercicio de las actuaciones anteriores.
+
+2\. Las entidades beneficiarias podrán subcontratar con sus entidades vinculadas la totalidad de la actividad subvencionable, siempre que se obtenga la previa autorización expresa del órgano concedente y que el importe subvencionable no exceda del coste incurrido por la entidad vinculada. Así mismo, las entidades beneficiarias podrán subcontratar con terceros hasta un porcentaje que no exceda del 50 por ciento del importe de la actividad subvencionada. La acreditación del coste se realizará en la justificación en los mismos términos establecidos para la acreditación de los gastos de la beneficiaria, en todo caso, se ajustarán a lo previsto en el artículo 29 de la Ley 38/2003, de 17 de noviembre, sin perjuicio de que la beneficiaria asuma la responsabilidad total por la ejecución de la actividad subvencionada.
+
+3\. Las personas jóvenes destinatarias de las estancias formativas participantes en el programa estarán obligadas a completar, una vez finalizada cada una de las estancias que realicen, un cuestionario online de evaluación de la actividad que se facilitará a través de correo electrónico y que deberá dirigir al órgano instructor también por vía electrónica.
+
+4\. La persona titular de cada una de las explotaciones modelo anfitrionas participantes en el programa estará obligada a completar, una vez finalizada cada una de las estancias que realicen, un cuestionario *online* de evaluación de la actividad y de los y las jóvenes participantes en ésta que se facilitará a través de correo electrónico y que deberá remitir por medios electrónicos al órgano instructor. Los cuestionarios, que permitirán evaluar el grado de implicación de los y las jóvenes en el programa, podrán servir como criterio de valoración en la fase de instrucción en las sucesivas convocatorias.
+
+> Se modifica la letra a) del apartado 1 y el apartado 4 por el art. único.10 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)
+
+> Se modifica la letra f) del apartado 1 por el art. 2.4 del Real Decreto 921/2024, de 17 de septiembre. [Ref. BOE-A-2024-18619](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18619)
+
+> Se modifica el apartado 1 y se añaden los apartados 3 y 4 por el art. único.13 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 16. Modificación de la resolución.
+
+Las entidades beneficiarias de estas ayudas estarán obligadas a:
+
+a) Comunicar, para que sea autorizado por el Departamento, cualquier cambio posterior a la resolución de concesión y presentar el reformulado de las actividades ajustándose a lo autorizado.
+
+b) Presentar la solicitud de modificación de la resolución antes de que concluya el plazo para la realización de la actividad, ante el órgano instructor del procedimiento cuando se alteren las condiciones tenidas en cuenta para la concesión de la subvención. Las circunstancias que podrán dar lugar la modificación de la resolución son la pérdida por parte de la entidad beneficiaria de las condiciones que dieron lugar a su reconocimiento como tal y, en todo caso, la obtención concurrente de otras aportaciones fuera de los casos permitidos en esta norma.
+
+Igualmente, en los supuestos previstos en el artículo 20, se podrá acordar la modificación de la resolución de concesión de la ayuda, de acuerdo con lo previsto en el artículo 19.4 de la Ley 38/2003, de 17 de noviembre, si se alteraran cualquiera de las circunstancias tenidas en cuenta para la concesión de la subvención que se podrá autorizar siempre que no dañe derechos de tercero.
+
+## Artículo 17. Anticipos de pago.
+
+1\. El pago se efectuará con carácter anticipado a su justificación.
+
+Las entidades deberán presentar su solicitud de anticipo de pago desde el día siguiente a la publicación de la resolución de concesión de las ayudas.
+
+2\. El pago anticipado de las ayudas se hará sin necesidad de constitución de fianza o garantía, de conformidad con lo previsto en el artículo 42.1 y en relación con el artículo 42.2.d) del Reglamento de la Ley 38/2003, de 17 de noviembre, si bien, con carácter previo al cobro de la subvención, las entidades beneficiarias deberán encontrarse al corriente en el cumplimiento de sus obligaciones tributarias y frente a la Seguridad Social, de acuerdo con lo establecido en los artículos 18 y 19 de dicho Reglamento, así como no ser deudor por procedimientos de reintegro. A estos efectos, si ambos certificados presentados en el momento de la solicitud siguieran vigentes, las entidades beneficiarias quedarían exentas de su acreditación, de lo contrario, podrán autorizar al órgano instructor para consultar a la Agencia Estatal de Administración Tributaria y a la Seguridad Social si se encuentran al corriente de dichas obligaciones. En caso de que no se autorice la consulta, se deberá presentar el correspondiente certificado.
+
+3\. Una vez reconocida la obligación, se ordenará el pago, que se efectuará en la cuenta corriente que la beneficiaria comunique.
+
+## Artículo 18. Justificación de los gastos y pagos.
+
+1\. La programación anual de las estancias deberá permitir que todas estén finalizadas y justificadas documentalmente en el plazo que se establezca en la correspondiente convocatoria y de conformidad con las Instrucciones de justificación, que, a tal efecto, se dicten por el Ministerio de Agricultura, Pesca y Alimentación.
+
+2\. La justificación de las actividades subvencionadas se llevará a cabo a través del régimen de "módulos", de acuerdo con lo establecido en los artículos 69 y 76 a 79 del Reglamento de la Ley 38/2003, de 17 de noviembre. A estos efectos, la entidad beneficiaria presentará por medios electrónicos, en virtud de lo dispuesto en el artículo 14.2 de la Ley 39/2015, de 1 de octubre, en la sede electrónica asociada del Departamento Ministerial, la documentación que se establece a continuación, cuyo contenido y requisitos se determinará en cada convocatoria. Para la presentación de la documentación se deberán utilizar los modelos disponibles en la sede electrónica asociada del Departamento:
+
+a) Una memoria de actuación final del plan de estancias ejecutado determinante del pago y de los resultados obtenidos. El contenido concreto de la memoria de actuación se determinará en la convocatoria e incluirá, en todo caso, el plan de difusión y publicidad llevado a cabo para informar de las estancias que se han realizado.
+
+b) Memoria de actuación final de cada actividad formativa, cuyo contenido se determinará en la convocatoria.
+
+c) Una memoria económica justificativa del coste de las estancias realizadas, con el contenido mínimo que se establecerá en la convocatoria correspondiente, que incluirá los extremos establecidos en el artículo 78.2 de la Ley 38/2003, de 17 de noviembre.
+
+d) Declaración del representante de la entidad beneficiaria sobre la no solicitud ni, en su caso, obtención concurrente por parte de la entidad de otras subvenciones para la misma finalidad.
+
+e) Certificación sobre la realización de estancias contenidas en el plan aprobado y de acuerdo con la normativa vigente, expedida por la persona responsable de la entidad u organización que presentó la solicitud de ayuda.
+
+El importe que impute la entidad será el resultado de aplicar, para cada estancia realizada del plan aprobado, el coste unitario de los módulos que se determinen en cada convocatoria.
+
+En ningún caso el importe que impute la entidad podrá superar la cuantía de la subvención inicialmente concedida en la resolución de concesión.
+
+3\. No obstante a lo previsto en el apartado 2 de este artículo, las correspondientes convocatorias podrán establecer que la justificación de la subvención se realice bajo la modalidad de cuenta justificativa de acuerdo con lo previsto en el artículo 72 del Reglamento de la Ley 38/2003 de 17 de noviembre, en cuyo caso, además de la Memoria de actuación a que se refiere el apartado 2 del presente artículo, la cuenta justificativa vendrá acompañada de una Memoria económica con el contenido definido en el artículo 72.2 o en su caso, establecida en la convocatoria correspondiente. Los gastos subvencionables serán los recogidos en el artículo 13 del presente Real decreto y los límites de la cuantía a percibir por tipo de actividad y gasto subvencionable se establecerán en cada convocatoria.
+
+Asimismo, en caso de que se establezca en la convocatoria la justificación mediante cuenta justificativa, la justificación de la subvención podrá realizarse voluntariamente mediante la modalidad de cuenta justificativa con aportación de informe auditor de acuerdo con lo previsto en el artículo 74 del Reglamento de la Ley 38/2003, de 17 de noviembre, en cuyo caso, además de la memoria de actuación a que se refiere el artículo 72.1 del citado reglamento, la cuenta justificativa vendrá acompañada de una memoria económica abreviada con el contenido definido en el artículo 72.2. En los términos de lo previsto en el artículo 74.3 del referido reglamento, el gasto derivado de la revisión de la cuenta justificativa tendrá la condición de gasto subvencionable, con un límite de 3.000 euros.
+
+4\. Sin perjuicio de lo previsto en los apartados 2 y 3 del presente artículo, la convocatoria podrá establecer la justificación de las actividades subvencionadas a través del régimen de "módulos", y que determinados gastos que se especifiquen se deban justificar mediante cuenta justificativa.
+
+5\. Al tratarse de pagos anticipados, el control de la justificación de los gastos y pagos será posterior al pago de la ayuda. Se podrá exigir la acreditación efectiva o realizar las comprobaciones necesarias que demuestren la realidad de los datos contenidos en las declaraciones responsables recogidas en la solicitud y justificación del gasto. Además, la entidad beneficiaria conservará los documentos justificativos de la aplicación de los fondos recibidos, incluidos los documentos electrónicos, en tanto puedan ser objeto de las actuaciones de comprobación y control por la Administración, al menos durante cuatro años desde la realización de la actividad formativa.
+
+6\. Si el órgano instructor apreciara la existencia de defectos subsanables en la justificación presentada por la entidad beneficiaria, lo pondrá en su conocimiento concediéndole un plazo de diez días para su corrección. En su caso procederá el reintegro de la cuantía de la ayuda anticipada si la justificación no es adecuada.
+
+7\. En su caso, también procederá el reintegro por el importe que corresponda de la aplicación de los incumplimientos de acuerdo con artículo 20 del presente real decreto.
+
+> Se modifica la letra d) del apartado 2 por el art. 2.5 del Real Decreto 921/2024, de 17 de septiembre. [Ref. BOE-A-2024-18619](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18619)
+
+> Se modifica por el art. único.14 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 19. Compatibilidad de las ayudas.
+
+Estas subvenciones serán incompatibles con la percepción, para la misma finalidad, de cualquier otra subvención, ayuda, ingreso o recurso procedente de cualesquiera Administraciones o entes públicos o privados locales, regionales, nacionales, supranacionales, internacionales, o subvenciones cofinanciadas con fondos europeos.
+
+> Se modifica por el art. único.15 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 20. Graduación de incumplimientos, penalizaciones y reintegro de las cantidades percibidas.
+
+1\. Si la beneficiaria incumpliera los plazos o condiciones señalados por esta normativa, con independencia de otras responsabilidades en que hubiera podido incurrir, perderá el derecho a la subvención concedida, con la obligación de reembolsar las cantidades ya percibidas, incrementadas con el interés de demora del dinero. Asimismo, perderá el derecho a la subvención cuando no ejecute el 60 por cien de la cantidad asignada para las actuaciones aprobadas en el plan de estancias reformulado, aprobado por resolución. No obstante, no se aplicarán penalizaciones cuando el beneficiario pueda demostrar a satisfacción de la autoridad competente que no es responsable de la no ejecución del Programa formativo aprobado o de la inclusión del importe no admisible o cuando la autoridad competente adquiera de otro modo la convicción de que el beneficiario no es responsable de ello.
+
+2\. En las actividades de difusión y publicidad que lleve a cabo la entidad beneficiaria para informar sobre las actividades subvencionables, la ausencia o visibilidad insuficiente del logo o nombre del programa incompleto se penalizará con un 0,1 % del importe de la subvención concedida por falta detectada, hasta un máximo del 5 % del importe concedido.
+
+Además, la difusión parcial del catálogo de estancias formativas o de un catálogo distinto del oficial publicado por el Ministerio de Agricultura, Pesca y Alimentación, así como cualquier difusión de información relativa al programa que no refiera expresamente y de manera visible la financiación del Ministerio y la participación de otras entidades beneficiarias en el programa se penalizará con un 10 % del importe de la subvención concedida.
+
+3\. No se subvencionarán las actividades formativas a cuyo inicio no se hubiera enviado la comunicación de inicio a la Subdirección General de Dinamización del Medio Rural, así como cuando no se hubiera contratado previamente el seguro con cobertura para las personas jóvenes participantes en ella.
+
+4\. La no entrega del material gráfico, fotográfico o audiovisual conforme al apartado c) del artículo 15.1 se penalizará con un 5 % del importe de la subvención concedida.
+
+5\. El incumplimiento de la obligación de justificación anual de la subvención, en los términos establecidos en las presentes bases, la justificación insuficiente de la misma o cualquiera de los casos contemplados en el artículo 37.1 de la Ley 38/2003, de 17 de noviembre, llevará aparejado el reintegro de las cantidades percibidas y la exigencia del interés de demora correspondiente independientemente de las sanciones que, en su caso, resulten exigibles.
+
+6\. Procederá el reintegro de las cantidades percibidas y, en su caso, de los intereses devengados por la subvención, así como la exigencia del interés de demora correspondiente, desde el momento del pago de la subvención hasta la fecha en que se acuerde la procedencia del reintegro, en los supuestos recogidos en los artículos 36 y 37 de la Ley 38/2003, de 17 de noviembre.
+
+7\. El procedimiento de reintegro se regirá por lo dispuesto en los artículos 41 a 43 de la Ley 38/2003, de 17 de noviembre, y en el capítulo II del título III de su Reglamento.
+
+8\. La no entrega de la encuesta de evaluación por parte de la persona participante a la que se refiere el artículo 15.3 dará lugar a la declaración de su inelegibilidad en la siguiente convocatoria de estas subvenciones imposibilitando su participación en el programa.
+
+9\. La renuncia por parte de la persona participante a la/s estancia/s asignada/s según la resolución de concesión descrita en el artículo 14 dará lugar a la declaración de su inelegibilidad en la siguiente convocatoria de estas subvenciones imposibilitando su participación en el programa, salvo cuando pueda demostrar a satisfacción de la autoridad competente que no es responsable de su imposibilidad de participación en la/s estancia/s asignada/s o cuando la autoridad competente adquiera de otro modo la convicción de que la persona participante no es responsable de ello.
+
+10\. La no asistencia por parte de la persona participante a la/s estancia/s formativa/s asignada/s sin comunicación previa de su renuncia motivada a la Subdirección General de Dinamización del Medio Rural dará lugar a la declaración de su inelegibilidad en la siguiente convocatoria de estas subvenciones imposibilitando su participación en el programa.
+
+11\. La no entrega de la encuesta de evaluación por parte del titular de la explotación modelo de acogida a la que se refiere el artículo 15.4 dará lugar a la determinación de inelegibilidad de la explotación modelo en la siguiente convocatoria de estas subvenciones imposibilitando su participación en el programa.
+
+12\. La renuncia por parte del titular de la explotación modelo de acogida a la ejecución de la/s estancia/s asignada/s en su explotación según la resolución de concesión descrita en el artículo 14 dará lugar a la declaración de inelegibilidad de la explotación modelo en la siguiente convocatoria de estas subvenciones imposibilitando su participación en el programa, salvo cuando el titular pueda demostrar a satisfacción de la autoridad competente que no es responsable de su imposibilidad de ejecutar la/s estancia/s asignada/s en su explotación o cuando la autoridad competente adquiera de otro modo la convicción de que el titular no es responsable de ello.
+
+13\. La no ejecución por parte de la explotación modelo de acogida de la/s estancia/s formativa/s asignada/s sin comunicación previa de la renuncia motivada de su titular a la Subdirección General de Dinamización del Medio Rural dará lugar a la declaración de inelegibilidad de la explotación modelo en la siguiente convocatoria de estas subvenciones imposibilitando su participación en el programa.
+
+14\. Además, en los casos en que se produjeran comportamientos por parte de las personas jóvenes participantes o de los anfitriones o anfitrionas que se tradujeran en la alteración del desarrollo normal de las estancias formativas, se pondrá en conocimiento de las entidades beneficiarias que coordinen las estancias y de la Subdirección General de Dinamización del Medio Rural del Ministerio de Agricultura, Pesca y Alimentación. Si las causas que hubieran ocasionado esta alteración del normal desarrollo de la estancia se consideran incompatibles con la continuidad de la estancia formativa se procederá a anular la formación y se incoará un procedimiento de exclusión de participación en el Programa CULTIVA de las personas que hubieran ocasionado esta situación.
+
+> Se modifica por el art. único.16 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 21. Seguimiento y control.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, a través de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria y de los servicios de la Administración Periférica del Estado, establecerá los mecanismos de control precisos para asegurar el conocimiento y cumplimiento de la finalidad para la que las subvenciones son concedidas.
+
+2\. A fin de posibilitar la realización de controles por la Administración General del Estado, las organizaciones y entidades gestoras de las estancias deberán comunicar por cualquier medio electrónico que acredite su recepción, con una antelación mínima de siete días hábiles al inicio de la actividad formativa, a la Subdirección General de Dinamización del Medio Rural de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria, el título o código de la estancia formativa, la fecha y duración de la misma, el programa formativo que refiera las temáticas formativas y las actividades o contenidos específicos para cada una de ellas incluyendo el horario diario previsto, la identificación y medios de contacto de las personas responsables de formación y coordinación de la estancia, más el coordinador o coordinadora de apoyo o suplente, la relación de jóvenes profesionales de la agricultura y la ganadería participantes en la estancia y la localidad, provincia y dirección de la explotación modelo de acogida donde se desarrolla la estancia formativa. También se facilitará copia de la póliza del seguro con cobertura para las personas participantes de la actividad formativa.
+
+3\. La falta no justificada de comunicación del inicio de una actividad formativa en el plazo señalado en el párrafo anterior implicará que la misma sea considerada como no realizada, a los efectos del pago de la subvención que pudiera corresponderle.
+
+> Se modifica el apartado 2 por el art. único.17 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Artículo 22. Normativa aplicable.
+
+En todo lo no previsto en esta norma será de aplicación la Ley 38/2003 de 17 de noviembre, y su Reglamento de aplicación, la Ley 39/2015, de 1 de octubre, y la Ley 40/2015, de 1 de octubre.
+
+## Artículo 23. Ayudas de Estado.
+
+Estas ayudas tienen la condición de ayuda de Estado. Las mismas respetarán todas las condiciones establecidas en el capítulo I del Reglamento 2022/2472 de la Comisión, de 14 de diciembre de 2022, por el que se declaran determinadas categorías de ayuda en los sectores agrícola y forestal y en zonas rurales compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea, así como las condiciones específicas aplicables a esta categoría de ayuda establecidas en el artículo 21 del citado reglamento.
+
+Dando cumplimiento a esos aspectos, las ayudas son consideradas compatibles con el mercado interior a efectos del artículo 107, apartado 3, letra c), del Tratado, quedando exentas de la obligación de notificación establecida en el artículo 108, apartado 3, del Tratado.
+
+> Se añade por el art. único.18 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## Disposición adicional única. Convocatoria de las subvenciones destinadas a la organización del programa de estancias formativas de jóvenes agricultores en explotaciones modelo para el ejercicio de 2021.
+
+**(Suprimida)**
+
+> Se suprime por el art. único.11 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)
+
+## Disposición final primera. Título competencial.
+
+El presente real decreto se dicta al amparo del artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+## Disposición final segunda. Convocatoria de las ayudas para ejercicios posteriores al 2021.
+
+El Ministro de Agricultura, Pesca y Alimentación, o bien el órgano en quien delegue, convocará las subvenciones establecidas en estas bases mediante su publicación en la Base de Datos Nacional de Subvenciones (BDNS), http://www.infosubvenciones.es/bdnstrans/es/index, y un extracto de la misma en el «Boletín Oficial del Estado».
+
+## Disposición final tercera. Modificación de anexos.
+
+**(Suprimida)**
+
+> Se suprime por el art. único.12 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)
+
+## Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 15 de junio de 2021.
+
+FELIPE R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+LUIS PLANAS PUCHADES
+
+## ANEXO I — Indicaciones para las actividades de difusión y publicidad del Programa de Estancias Formativas de Jóvenes Agricultores en Explotaciones Modelo
+
+**(Suprimido)**
+
+> Se suprime por el art. único.19 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## ANEXO II — Producciones agrarias
+
+**(Suprimido)**
+
+> Se suprime por el art. único.20 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## ANEXO III — Posibles contenidos a tratar dentro de la temática planificación y gestión económica y financiera de las explotaciones
+
+**(Suprimido)**
+
+> Se suprime por el art. único.21 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## ANEXO IV — Límites de los importes de los gastos subvencionables
+
+**(Suprimido)**
+
+> Se suprime por el art. único.22 del Real Decreto 607/2023, de 11 de julio. [Ref. BOE-A-2023-16157](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16157)
+
+## ANEXO A
+
+## (Suprimido)
+
+> Se suprime por el art. único.13 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)
+
+## ANEXO B
+
+## (Suprimido)
+
+> Se suprime por el art. único.13 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)
+
+## ANEXO C
+
+## (Suprimido)
+
+> Se suprime por el art. único.13 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)
+
+## ANEXO D
+
+## (Suprimido)
+
+> Se suprime por el art. único.13 del Real Decreto 393/2026, de 13 de mayo. [Ref. BOE-A-2026-10742](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10742)

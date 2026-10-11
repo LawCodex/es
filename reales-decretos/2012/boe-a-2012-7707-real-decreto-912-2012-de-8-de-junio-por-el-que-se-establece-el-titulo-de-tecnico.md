@@ -1,0 +1,3045 @@
+---
+title: "Real Decreto 912/2012, de 8 de junio, por el que se establece el título de Técnico Deportivo Superior en Esgrima y se fijan sus enseñanzas mínimas y los requisitos de acceso"
+identifier: "BOE-A-2012-7707"
+eli: "https://www.boe.es/eli/es/rd/2012/06/08/912"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación, Cultura y Deporte"
+date: 2012-06-08
+published: 2012-06-09
+in_force_from: 2012-06-10
+last_amended: 2026-07-02
+consolidated: 2026-09-08
+gazette: "Boletín Oficial del Estado núm. 138"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2012-7707"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 912/2012, de 8 de junio, por el que se establece el título de Técnico Deportivo Superior en Esgrima y se fijan sus enseñanzas mínimas y los requisitos de acceso
+
+La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos.
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en su artículo 64.6 que el Gobierno, previa consulta a las comunidades autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros.
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
+
+Este marco normativo hace necesario que ahora el Gobierno, previa consulta a las Comunidades Autónomas, establezca cada uno de los títulos que formarán el Catálogo de las enseñanzas deportivas del sistema educativo, sus enseñanzas mínimas y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+El Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, define en el artículo 4 la estructura de estas enseñanzas, situando las enseñanzas deportivas de grado superior como parte de la educación superior.
+
+Por otra parte, del mismo modo, concreta en el artículo 6 el perfil profesional de dichos títulos, que incluirá la competencia general, las competencias profesionales, personales y sociales, con el fin de lograr que, en efecto, los títulos de enseñanzas deportivas respondan a las necesidades demandadas por los sistemas deportivo y productivo, y a los valores personales y sociales para ejercer una ciudadanía democrática. A este fin y como reflejo de la madurez alcanzada por la modalidad deportiva, se atribuye al ciclo de grado superior las competencias vinculadas al entrenamiento, dirección de equipos y deportistas de alto nivel o rendimiento y en determinados casos la conducción con altos niveles de dificultad en la modalidad o especialidad deportiva.
+
+A estos efectos procede determinar para cada título su identificación, su perfil profesional, el entorno profesional, las enseñanzas de los ciclos de enseñanzas deportivas y la acreditación de módulos debida a la experiencia docente, a la experiencia deportiva, así como los parámetros básicos de contexto formativo para cada módulo de enseñanza deportiva (espacios, equipamientos necesarios, titulaciones y especialidades del profesorado). Asimismo, en cada título también se determinarán los requisitos específicos de acceso, siendo propio de estos títulos la identificación de la carga lectiva que se acredita a través de estos requisitos, la vinculación con otros estudios, las convalidaciones, exenciones y equivalencias.
+
+El marcado carácter técnico de estas enseñanzas, definidas por la peculiaridad de sus procedimientos, materiales, equipos y prácticas específicas de cada modalidad, hace necesario un desarrollo que garantice un mínimo común denominador, claro y orientador, a través de una norma reglamentaria.
+
+Con el fin de facilitar el reconocimiento de créditos entre los títulos de Técnico Deportivo Superior y las enseñanzas conducentes a títulos universitarios y viceversa, en los ciclos de enseñanzas deportivas de grado superior se establecerá la equivalencia de cada módulo de enseñanza deportiva con créditos europeos, ECTS, tal y como se definen en el Real Decreto 1125/2003, de 5 de septiembre, por el que se establece el sistema europeo de créditos y el sistema de calificaciones en las titulaciones universitarias de carácter oficial y validez en todo el territorio nacional.
+
+El presente real decreto, que se dicta en desarrollo del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, establece y regula, en los aspectos y elementos básicos antes indicados, el título de Técnico Deportivo Superior en Esgrima.
+
+Finalmente, este real decreto desarrolla, en el ámbito de las enseñanzas deportivas de esgrima, las previsiones de la Ley 51/2003, de 2 de diciembre, igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad ya contenidas en el citado Real Decreto 1363/2007, de 24 de octubre, y desarrolla en este ámbito las previsiones de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas, en el seno de las Conferencia Sectorial de Educación, y han emitido informe el Consejo Escolar del Estado y el Ministerio de Hacienda y Administraciones Públicas.
+
+En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte y previa deliberación del Consejo de Ministros en su reunión del día 8 de junio de 2012,
+
+DISPONGO:
+
+## CAPÍTULO I — Objeto
+
+### Artículo 1. Objeto.
+
+1\. El objeto del presente real decreto es el establecimiento del título de Técnico Deportivo Superior en Esgrima, con carácter oficial y validez en todo el territorio nacional, así como de sus correspondientes enseñanzas mínimas.
+
+2\. De conformidad con lo establecido en el Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, los elementos recogidos en el presente real decreto no constituyen una regulación del ejercicio de profesión titulada alguna.
+
+## CAPÍTULO II — Identificación del título y organización de las enseñanzas
+
+### Artículo 2. Identificación del título de Técnico Deportivo Superior en Esgrima.
+
+El título de Técnico Deportivo Superior en Esgrima queda identificado por los siguientes elementos:
+
+a) Denominación: Esgrima.
+
+b) Nivel 1: Técnico Superior del Marco Español de Cualificaciones para la Educación Superior. Enseñanzas Deportivas de Grado superior.
+
+c) Duración: 780 horas.
+
+d) Referente internacional: CINE-5b (Clasificación Internacional Normalizada de Educación).
+
+### Artículo 3. Organización de las enseñanzas conducentes al título de Técnico Deportivo Superior en Esgrima.
+
+Las enseñanzas conducentes al título de Técnico Deportivo Superior en Esgrima se organizan en el ciclo de grado superior en Esgrima y tienen una duración de 780 horas.
+
+### Artículo 4. Especializaciones del título de Técnico Deportivo Superior en Esgrima.
+
+1\. El título de Técnico Deportivo Superior en Esgrima tendrá como especialidades:
+
+a) Esgrima de personas con discapacidad.
+
+b) Espada.
+
+c) Sable.
+
+d) Florete.
+
+2\. El Ministerio de Educación, Cultura y Deporte, a propuesta del Consejo Superior de Deportes y previa consulta a los órganos competentes en materia de deportes de las Comunidades Autónomas y de la Real Federación Española de Esgrima establecerá los objetivos, contenidos y criterios de evaluación de estas especializaciones.
+
+> Se modifica la letra a) del apartado 1 por el art. 5.1 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+## CAPÍTULO III — Perfil profesional y entorno profesional, personal y laboral deportivo del ciclo
+
+### Artículo 5. Perfil profesional del ciclo de grado superior en Esgrima.
+
+El perfil profesional del ciclo de grado superior en Esgrima queda determinado por su competencia general, sus competencias profesionales, personales y sociales, por la relación de cualificaciones y, en su caso, unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título y el entorno profesional, laboral y deportivo.
+
+### Artículo 6. Competencia general del ciclo de grado superior en Esgrima.
+
+La competencia general del ciclo de grado superior en esgrima consiste en programar y dirigir el entrenamiento deportivo orientado hacia la obtención y mantenimiento del rendimiento en esgrimistas y equipos; en organizar, tutelar y dirigir la participación de estos en competiciones de alto nivel; en coordinar la intervención de técnicos especialistas; en programar y coordinar las tareas de los técnicos a su cargo; en organizar competiciones y eventos propios de la iniciación y tecnificación deportiva; todo ello de acuerdo con los objetivos establecidos, el nivel óptimo de calidad, y en las condiciones de seguridad.
+
+### Artículo 7. Competencias profesionales, personales y sociales del ciclo de grado superior en Esgrima.
+
+Las competencias profesionales, personales y sociales del ciclo de grado superior en Esgrima son las que se relacionan a continuación:
+
+a) Analizar las condiciones de entrenamiento disponibles, las características de la competición y el entorno del esgrimista, para la planificación del entrenamiento hacia el alto rendimiento.
+
+b) Analizar y valorar los factores de rendimiento (funcionales, técnicos, tácticos, psicológicos) propios de la esgrima para la planificación del entrenamiento.
+
+c) Programar a medio y largo plazo el entrenamiento, los objetivos y los medios necesarios, a partir de las valoraciones y análisis realizados del esgrimista o del equipo y de las condiciones iniciales del entorno deportivo.
+
+d) Programar a corto plazo el entrenamiento, los objetivos y los medios necesarios, y concretar las sesiones, adecuándolas al grupo y a las condiciones existentes de acuerdo con la programación general.
+
+e) Dirigir la sesión de entrenamiento en la etapa de alto rendimiento solucionando las contingencias existentes, para conseguir la implicación y el rendimiento conforme a los objetivos propuestos, y dentro de los márgenes de seguridad requeridos.
+
+f) Dirigir la lección de esgrima, dominando las técnicas específicas de asistencia en situación de colaboración-oposición y aplicando los conceptos técnico-tácticos asociados al alto rendimiento en esgrima.
+
+g) Controlar la seguridad en la práctica de la esgrima, supervisando las instalaciones, medios a utilizar e interviniendo mediante la ayuda en las situaciones de riesgo detectadas.
+
+h) Seleccionar y dirigir a los esgrimistas en competiciones de alto rendimiento, realizando las orientaciones, tomando las decisiones más adecuadas para el desarrollo de la competición y conforme a los objetivos previstos, todo ello dentro de los valores éticos vinculados al juego limpio y al respeto a los demás y al propio cuerpo.
+
+i) Acompañar a los equipos en competiciones de alto rendimiento, planificando los desplazamientos, realizando gestiones en francés, idioma oficial de la esgrima, con los organizadores y la dirección técnica del mismo.
+
+j) Determinar la formación de equipos de trabajo de carácter multidisciplinar, y coordinar sus acciones dentro de la programación.
+
+k) Dirigir y coordinar recursos humanos, materiales y económicos en una escuela de esgrima estableciendo las programaciones de referencia y realizando campañas de promoción, publicidad y marketing de la esgrima.
+
+l) Organizar y gestionar competiciones y eventos propios de la tecnificación deportiva en la esgrima así como colaborar en la organización de eventos propios de la alta competición.
+
+m) Participar en la formación de técnicos deportivos,siguiendo las normativas vigentes que regulan las enseñanzas deportivas en esgrima.
+
+n) Evaluar el proceso de preparación y los resultados obtenidos, programando la recogida de la información y realizando su análisis para conseguir el ajuste y mejora permanente del entrenamiento dirigido al alto rendimiento deportivo.
+
+ñ) Transmitir a través del comportamiento ético personal valores vinculados con el juego limpio, el respeto a los demás, y el respeto y cuidado del propio cuerpo.
+
+o) Mantener una identidad profesional y un espíritu de innovación y actualización que facilite la adaptación a los cambios que se produzcan en la esgrima y en su entorno organizativo.
+
+### Artículo 8. Entorno profesional, laboral y deportivo del ciclo de grado superior en Esgrima.
+
+1\. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado, las Administraciones Autonómicas o Locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones, centros de tecnificación, centros de alto rendimiento y clubes deportivos y sociales, centros educativos, empresas de servicios, que ofrezcan actividades deportivo-recreativas, alto rendimiento en esgrima.
+
+2\. Las ocupaciones y puestos de trabajo más relevantes para estos profesionales son las siguientes:
+
+a) Entrenador de esgrima de alto nivel.
+
+b) Director Técnico.
+
+c) Director de escuelas deportivas.
+
+3\. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo con los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
+
+## CAPÍTULO IV — Estructura de las enseñanzas del ciclo de grado superior de enseñanza deportiva conducentes al título de Técnico Deportivo Superior en Esgrima
+
+### Artículo 9. Estructura de ciclo de grado superior de Esgrima.
+
+1\. El ciclo de grado superior de Esgrima se estructura en módulos, agrupados en un bloque común y un bloque específico.
+
+2\. Los módulos de enseñanza deportiva del ciclo de grado superior de Esgrima son los que a continuación se relacionan:
+
+a) Módulos del bloque común:
+
+MED-C301 Factores fisiológicos del alto rendimiento.
+
+MED-C302 Factores Psicosociales del alto rendimiento.
+
+MED-C303 Formación de formadores deportivos.
+
+MED-C304 Organización y gestión aplicada al alto rendimiento.
+
+b) Módulos del bloque específico:
+
+MED-ESES301 Planificación del alto rendimiento en esgrima.
+
+MED-ESES302 Preparación complementaria en esgrima.
+
+MED-ESES303 Dirección técnica y organización de eventos.
+
+MED-ESES304 Nuevas tecnologías en esgrima.
+
+MED-ESES305 Técnica de Espada.
+
+MED-ESES306 Técnica de Florete.
+
+MED-ESES307 Técnica de Sable.
+
+MED-ESES308 Proyecto.
+
+MED-ESES309 Formación práctica.
+
+3\. La distribución horaria de las enseñanzas mínimas del ciclo de grado superior en esgrima se establece en el anexo I-B.
+
+4\. Los objetivos generales y los módulos de enseñanza deportiva del ciclo de grado superior en Esgrima quedan desarrollados en los anexos II.
+
+> Se modifica el apartado 3 por el art. 5.1 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+### Artículo 10. Ratio profesor/alumno.
+
+1\. Para impartir los módulos del bloque común y los resultados de aprendizaje de carácter conceptual de los módulos del bloque específico del ciclo de grado superior en Esgrima, la relación profesor/alumno será de 1/30.
+
+2\. Para impartir los resultados de aprendizaje de carácter procedimental de los módulos del bloque específico del ciclo de grado superior en Esgrima, la relación profesor/alumno será la recogida en el anexo III.
+
+### Artículo 11. Módulo de formación práctica.
+
+Para iniciar los módulos de formación práctica del ciclo de grado superior en Esgrima, será necesario haber superado con anterioridad los módulos comunes y específicos de enseñanza deportiva que se establecen en el anexo IV.
+
+### Artículo 12. Determinación del currículo.
+
+Las Administraciones educativas establecerán los currículos correspondientes respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+
+### Artículo 13. Espacios y equipamientos deportivos.
+
+Los espacios y equipamientos mínimos necesarios para el desarrollo de las enseñanzas del ciclo de grado superior en Esgrima son los establecidos en el anexo V.
+
+## CAPÍTULO V — Acceso al ciclo de grado superior
+
+### Artículo 14. Requisitos generales de acceso al ciclo de grado superior en Esgrima.
+
+Para acceder al ciclo de grado superior en Esgrima será necesario tener el título de Bachiller o equivalente a efectos de acceso, así como el título de Técnico Deportivo en Esgrima.
+
+### Artículo 15. Requisitos de acceso al ciclo de grado superior en Esgrima para personas sin el título de Bachiller.
+
+Se podrá acceder a las enseñanzas del ciclo de grado superior en Esgrima, sin el título de Bachiller, siempre que el aspirante posea el título de Técnico Deportivo correspondiente, y además cumpla las condiciones de edad y supere la prueba correspondiente, conforme al artículo 31.1.b) del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+
+## CAPÍTULO VI — Profesorado
+
+### Artículo 16. Requisitos de titulación del profesorado en centros públicos de la Administración educativa.
+
+Los requisitos de la titulación del profesorado en centros públicos se determinarán en función del bloque de enseñanza deportiva en que hayan de impartir la docencia:
+
+1\. La docencia de los módulos del bloque común que constituyen las enseñanzas deportivas del ciclo de grado superior en Esgrima, corresponde al profesorado de los cuerpos de catedráticos y profesores de enseñanza secundaria, según lo establecido en el anexo VI.
+
+2\. La docencia en centros públicos de los módulos del bloque específico que constituyen las enseñanzas deportivas del ciclo de grado superior en Esgrima, está especificada en el anexo VII A y corresponde a:
+
+a) Profesores especialistas que posean el título de Técnico Deportivo Superior en Esgrima, o aquellos no titulados que acrediten la experiencia en el ámbito laboral y deportivo, o la experiencia docente, detallada en el anexo VII B.
+
+b) Profesores de la especialidad de Educación Física de los cuerpos de catedráticos y de profesores de enseñanza secundaria que posean el título de Técnico Deportivo Superior en Esgrima.
+
+3\. Las Administraciones educativas podrán autorizar la docencia de los módulos del bloque específico atribuidos al profesor especialista, a los miembros de los Cuerpos de catedráticos y profesores de enseñanza secundaria con la especialidad de Educación Física, cuando carezcan del título de Técnico Deportivo Superior en Esgrima, siempre que posean la formación diseñada al efecto o reconocida por dichas Administraciones educativas; o la experiencia laboral, deportiva o docente, detallada en el anexo IX B.
+
+### Artículo 17. Requisitos de titulación del profesorado en centros privados y de titularidad pública de Administraciones distintas a la educativa.
+
+Las titulaciones requeridas para la impartición de los módulos tanto del bloque común, como del bloque específico que forman el ciclo de enseñanza deportiva de grado superior en Esgrima, para el profesorado de los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, se concretan en el anexo VIII.
+
+## CAPÍTULO VII — Vinculación a otros estudios
+
+### Artículo 18. Acceso a otros estudios.
+
+1\. El título de Técnico Deportivo Superior en Esgrima permite el acceso directo a las enseñanzas universitarias oficiales de grado en las condiciones de admisión que se establezcan.
+
+2\. A efectos de facilitar el régimen de convalidaciones, se han asignado 62 créditos ECTS en las enseñanzas mínimas establecidas en este real decreto entre los módulos de enseñanza deportiva de este ciclo de grado superior.
+
+3\. El número de créditos ECTS atribuido a cada uno de los módulos de enseñanza deportiva de este ciclo se establece en el anexo I-A.
+
+> Se modifica el apartado 3 por el art. 5.2 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+### Artículo 19. Convalidación de estas enseñanzas.
+
+1\. El Ministerio de Educación, Cultura y Deporte, establecerá las convalidaciones que proceda otorgar del bloque común de las enseñanzas reguladas en el presente real decreto, a aquellos que acrediten estudios o el título de Licenciado en Ciencias de la Actividad Física y el Deporte regulado por el Real Decreto 1670/1993, de 24 de septiembre, de Diplomado en Educación Física Licenciado en Educación Física, regulado por el Real Decreto 790/1981, de 24 de abril, de Maestro Especialista en Educación Física regulado por el Real Decreto 1440/1991, de 30 de agosto, de Técnico Superior en Animación de Actividades Físicas y Deportivas regulado por el Real Decreto 2048/1995, de 22 de diciembre y el de Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural regulado por el Real Decreto 2049/1995, de 22 de diciembre así como con las materias de bachillerato y los títulos establecidos al amparo del Real Decreto 1913/1997, de 19 de diciembre.
+
+2\. Serán objeto de convalidación los módulos comunes y específicos de enseñanza deportiva con la misma denominación y código.
+
+3\. La superación de la totalidad de los módulos del bloque común del grado superior, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del ciclo de enseñanza deportiva de grado superior en esgrima. La superación de la totalidad de los módulos del bloque común del ciclo de enseñanza deportiva de grado superior en esgrima, se convalidará por la totalidad de los módulos del bloque común, del grado superior, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+
+### Artículo 20. Exención del módulo de formación práctica.
+
+Podrá ser objeto de exención total o parcial el módulo de formación práctica del ciclo de grado superior en Esgrima, en función de su correspondencia con la experiencia en el ámbito deportivo o laboral, detallada en el anexo IX.
+
+### Artículo 21. Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia docente.
+
+1\. La correspondencia formativa entre los módulos de enseñanza deportiva del ciclo de grado superior en esgrima y la experiencia docente acreditable de las formaciones anteriores de entrenadores deportivos a las que se refiere la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, y las formaciones de entrenadores a las que se refiere la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, se establece en el anexo X.
+
+2\. La correspondencia formativa será aplicada por los centros siguiendo el procedimiento establecido por la correspondiente Administración educativa.
+
+### Disposición adicional primera. Referencia del título en el marco europeo.
+
+Una vez establecido el marco nacional de cualificaciones, de acuerdo con las Recomendaciones europeas, el Ministro de Educación, Cultura y Deporte determinará el nivel correspondiente de estas titulaciones en el marco nacional y su equivalente europeo.
+
+### Disposición adicional segunda. Oferta a distancia de los módulos de enseñanza deportiva del presente título.
+
+Los módulos de enseñanza deportiva que se establecen en el anexo XI, podrán ofertarse a distancia siempre que se garantice que el alumno puede conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las Administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
+
+### Disposición adicional tercera. Referencias genéricas.
+
+Todas las referencias al alumnado, profesorado y a titulaciones para las que en este real decreto se utiliza la forma del masculino genérico deben entenderse aplicables indistintamente a mujeres y a hombres.
+
+### Disposición derogatoria única. Derogación de normas.
+
+Quedan derogadas todas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+### Disposición final primera. Título competencial.
+
+El presente real decreto tiene carácter de norma básica y se dicta, al amparo de las competencias que atribuye al Estado el artículo 149.1. 30.ª de la Constitución que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+
+### Disposición final segunda. Implantación del título.
+
+Las Administraciones educativas podrán implantar, el nuevo currículo de estas enseñanzas desde el curso escolar 2012-2013.
+
+### Disposición final tercera. Autorización para el desarrollo.
+
+Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se autoriza al titular del Ministerio de Educación, Cultura y Deporte para la modificación y actualización de los anexos VI, VIIA, y VIII de este decreto.
+
+### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 8 de junio de 2012.
+
+JUAN CARLOS R.
+
+El Ministro de Educación, Cultura y Deporte,
+
+JOSÉ IGNACIO WERT ORTEGA
+
+## ANEXO I — Distribución horaria de las enseñanzas mínimas y equivalencia en créditos ECTS
+
+> Se modifica y se reordena el contenido de este Anexo, que pasa a integrar los Anexos I-A y I-B por el art. 5.3 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+## ANEXO I-A — Distribución en créditos ECTS de la duración total de las enseñanzas
+
+Ciclo de grado superior en esgrima
+
+|  | Equivalencia en créditos ECTS |
+|---|---|
+| *Bloque común* |  |
+| MED-C301 Factores fisiológicos del alto rendimiento | 5 |
+| MED-C302 Factores psicosociales del alto rendimiento | 3 |
+| MED-C303 Formación de formadores deportivos | 4 |
+| MED-C304 Organización y gestión aplicada al alto rendimiento | 4 |
+| Total módulos bloque común | 16 |
+| *Bloque específico* |  |
+| MED-ESES301: Planificación del alto rendimiento en esgrima | 2 |
+| MED-ESES302: Preparación complementaria en esgrima | 3 |
+| MED-ESES303: Dirección técnica y organización de eventos | 2 |
+| MED-ESES304: Nuevas tecnologías en esgrima | 2 |
+| MED-ESES305: Técnica de Espada | 5 |
+| MED-ESES306: Técnica de Florete | 5 |
+| MED-ESES307: Técnica de Sable | 5 |
+| MED-ESES308: Proyecto | 6 |
+| MED-ESES309: Formación práctica | 16 |
+| Total módulos bloque específico | 46 |
+| Total módulos bloques común y específico | 62 |
+
+> Se modifica y se numera como Anexo I-A por el art. 5.3 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+> Anteriormente estaba integrado en el Anexo I.
+
+## ANEXO I-B — Distribución horaria de las enseñanzas mínimas
+
+Ciclo de grado superior en esgrima
+
+|  | Enseñanzas mínimas |
+|---|---|
+| *Bloque común* |  |
+| MED-C301 Factores fisiológicos del alto rendimiento | 35 h |
+| MED-C302 Factores psicosociales del alto rendimiento | 25 h |
+| MED-C303 Formación de formadores deportivos | 30 h |
+| MED-C304 Organización y gestión aplicada al alto rendimiento | 20 h |
+| Total módulos bloque común | 110 h |
+| *Bloque específico* |  |
+| MED-ESES301: Planificación del alto rendimiento en esgrima | 10 h |
+| MED-ESES302: Preparación complementaria en esgrima | 25 h |
+| MED-ESES303: Dirección técnica y organización de eventos | 15 h |
+| MED-ESES304: Nuevas tecnologías en esgrima | 15 h |
+| MED-ESES305: Técnica de Espada | 35 h |
+| MED-ESES306: Técnica de Florete | 35 h |
+| MED-ESES307: Técnica de Sable | 35 h |
+| MED-ESES308: Proyecto | 40 h |
+| MED-ESES309: Formación práctica | 110 h |
+| Total módulos bloque específico | 320 h |
+| Total módulos bloques común y específico | 430 h |
+
+> Se modifica y se numera como Anexo I-B por el art. 5.3 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+> Anteriormente estaba integrado en el Anexo I.
+
+## ANEXO II — Objetivos generales y módulos de enseñanza deportiva del ciclo de grado superior en esgrima
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos II.a hasta el II.n por el art. 5.2 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+## ANEXO II.a — Objetivos generales
+
+a. Seleccionar y justificar los procedimientos de la valoración del entorno del esgrimista, de los medios materiales e instalaciones disponibles y del reglamento de la modalidad, identificando sus características y aplicando los procedimientos, para analizar las condiciones del alto rendimiento.
+
+b. Seleccionar y justificar los procedimientos de análisis de los factores de rendimiento, y los criterios de selección de los deportistas, identificando sus características y aplicando los procedimientos establecidos, para analizar y valorar los factores de rendimiento propios de la esgrima.
+
+c. Elegir y justificar los procedimientos de determinación de los objetivos, medios y métodos del entrenamiento, y la temporalización de la carga, aplicando los principios del entrenamiento y del aprendizaje motor aplicables, para programar el entrenamiento a corto, medio y largo plazo.
+
+d. Analizar la complejidad de las tareas y los factores relativos a la carga de trabajo, diseñando actividades en supuestos establecidos y aplicando los principios y métodos del entrenamiento, para programar a corto plazo y concretar las sesiones.
+
+e. Describir, elegir y demostrar las técnicas y estrategias de dirección de sesiones, de control de las contingencias propias del alto rendimiento en la esgrima, aplicando procedimientos de observación, dinamización y control, resolviendo supuestos para dirigir sesiones a esgrimistas en condiciones de alta exigencia.
+
+f. Seleccionar y demostrar las técnicas especificas de asistencia, aplicando los esquemas técnico-tácticos del alto rendimiento para dirigir la lección de esgrima.
+
+g. Evaluar o valorar las condiciones de seguridad de las instalaciones y medios propios del alto rendimiento deportivo, aplicando los procedimientos establecidos y la normativa vigente, para controlar la seguridad en la práctica en este nivel.
+
+h. Analizar la competición de alto rendimiento, y los criterios de selección de deportistas, aplicando procedimientos establecidos y teniendo en cuenta las características de los participantes y el reglamento, para seleccionar y dirigir a esgrimistas en competiciones de alto rendimiento.
+
+i. Analizar las características logísticas del desplazamiento de los equipos de alto rendimiento, y las funciones del jefe de equipo, aplicando el conocimiento de la lengua oficial de la esgrima, para acompañar a los equipos en competiciones de alto rendimiento.
+
+j. Analizar y justificar las necesidades de intervención de otros especialistas en la preparación de alto rendimiento, describiendo las funciones y objetivos a desarrollar, para determinar la constitución y coordinación de equipos de trabajo multidisciplinares.
+
+k. Identificar y analizar los recursos humanos, materiales y económicos, necesarios en una escuela de esgrima, aplicando procedimientos de gestión, comunicación y promoción eficientes, para dirigir y coordinar recursos humanos, materiales y económicos en una escuela de esgrima.
+
+l. Analizar y elaborar la estructura organizativa de las competiciones y eventos propios de la tecnificación deportiva y analizar las características organizativa de La alta competición de esgrima, enumerando los requisitos administrativos, los medios materiales y humanos necesarios, aplicando el marco legal que las regula y las herramientas informáticas específicas, para organizar y gestionar competiciones y eventos de alta competición.
+
+m. Identificar y analizar las características organizativas y curriculares de la formación de técnicos deportivos en esgrima, analizando la documentación de referencia y aplicando técnicas didácticas para participar en la formación de técnicos deportivos.
+
+n. Diseñar procedimientos y herramientas de recogida de información y valoración del alto rendimiento, utilizando tecnologías audiovisuales, interpretando los datos mediante el estudio y análisis estadístico de los mismos para evaluar el proceso de preparación y los resultados de competición.
+
+ñ Describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los esgrimistas, para transmitir valores propios de la actividad deportiva a través del comportamiento ético personal.
+
+o. Reconocer la necesidad de una formación continua en el ámbito deportivo, manteniendo la curiosidad y el interés por el aprendizaje constante, describiendo los aspectos observables de la conducta, que reflejan estos valores, para mantener una identidad profesional y un espíritu de innovación y actualización permanente.
+
+> Se numera como Anexo II.a por el art. 5.2.a) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.b — Módulo común de enseñanza deportiva: Factores fisiológicos del alto rendimiento
+
+Código: MED-C301
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Analiza los principales conceptos del metabolismo energético y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+a) Se han identificado los principales conceptos del metabolismo energético.
+
+b) Se han analizado las diferentes vías metabólicas y las principales fuentes de energía en relación con el ejercicio físico, incidiendo en los aspectos fisiológicos que determinan la resistencia.
+
+c) Se han analizado las principales adaptaciones fisiológicas al entrenamiento de los diferentes sistemas del organismo en relación con el metabolismo energético.
+
+d) Se han valorado las características del metabolismo energético en mujeres deportistas, así como sus adaptaciones fisiológicas al entrenamiento.
+
+RA-2. Analiza los principales componentes del sistema neuromuscular y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+a) Se ha analizado el sistema neuromuscular, incidiendo en los aspectos fisiológicos y mecánicos que determinan la fuerza, la velocidad y la amplitud de movimiento.
+
+b) Se ha descrito el concepto de fuerza y sus diferentes manifestaciones en relación con la actividad físico-deportiva.
+
+c) Se ha descrito el concepto de velocidad y sus diferentes manifestaciones en relación con la actividad físico-deportiva, así como su implicación en las capacidades coordinativas.
+
+d) Se han analizado las principales adaptaciones al entrenamiento en relación con el sistema neuromuscular.
+
+e) Se han valorado las características del sistema neuromuscular en mujeres deportistas, así como sus adaptaciones fisiológicas al entrenamiento.
+
+RA-3. Selecciona a los/las deportistas para la alta competición analizando los factores fisiológicos determinantes que influyen en el alto rendimiento.
+
+a) Se han identificado los principales factores fisiológicos determinantes y limitantes del alto rendimiento deportivo.
+
+b) Se han analizado los fundamentos de la evaluación de la capacidad funcional vinculados al alto rendimiento deportivo.
+
+c) Se han interpretado los resultados y diferencias entre hombres y mujeres en la evaluación de la capacidad funcional.
+
+d) Se ha interpretado la importancia de la valoración anatómica y fisiológica como elemento de selección de los/las deportistas en el alto rendimiento deportivo, empleando diferentes métodos y tecnologías fiables, válidas y sensibles.
+
+e) Se ha descrito la organización de los equipos de trabajo en el alto rendimiento deportivo, identificando las diferentes funciones y roles de los especialistas que los componen.
+
+RA-4. Colabora con la persona especialista en la determinación de la dieta y en la prescripción de ayudas ergogénicas analizando los principales conceptos de nutrición deportiva y los efectos nocivos de las sustancias dopantes para la salud.
+
+a) Se han identificado los principios fundamentales y los conceptos básicos de la nutrición, la suplementación y las ayudas ergogénicas en relación con el ámbito físico-deportivo.
+
+b) Se han interpretado los resultados de la valoración nutricional del deportista a partir de los datos de un supuesto práctico.
+
+c) Se han elaborado de manera justificada las estrategias de reposición de nutrientes, agua y sales minerales durante el entrenamiento y la competición, aplicándolas en supuestos prácticos basados en los conceptos de fisiología y nutrición deportiva estudiados.
+
+d) Se han identificado los principales aspectos en el diseño de la dieta de los y las deportistas, así como en la adecuada prescripción de suplementos y ayudas ergogénicas para la mejora del rendimiento físico-deportivo durante el entrenamiento y la competición, contemplando las necesidades nutricionales particulares de las mujeres y hombres deportistas de alto rendimiento.
+
+e) Se han identificado las principales sustancias dopantes y sus efectos nocivos para la salud.
+
+RA-5. Programa y dirige el entrenamiento del deportista aplicando los conceptos de carga, fatiga y recuperación.
+
+a) Se han clasificado los diferentes tipos de fatiga, central o periférica y aguda o crónica, así como sus mecanismos de producción.
+
+b) Se han analizado los efectos de la fatiga deportiva en el sistema neuromuscular, endocrino e inmunológico.
+
+c) Se han empleado diferentes medios y métodos para cuantificar la fatiga producida por el entrenamiento.
+
+d) Se han diseñado y aplicado diferentes medios y métodos de recuperación según el mecanismo de producción de la fatiga.
+
+e) Se ha valorado la importancia de la monitorización de la carga para una adecuada gestión del entrenamiento, con el propósito de prevenir el síndrome de sobreentrenamiento y reducir el riesgo de lesiones deportivas.
+
+f) Se han empleado diferentes métodos y tecnologías, validas, fiables y sensibles de monitorización de la carga de entrenamiento.
+
+RA-6. Programa y dirige el entrenamiento y/o la competición en condiciones especiales identificando sus bases y características más importantes.
+
+a) Se han analizado las causas y los efectos fisiológicos producidos por el entrenamiento y/o la competición en condiciones extremas de calor, frío y/o humedad.
+
+b) Se han diseñado entrenamientos y estrategias de mejora de la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de temperatura y/o humedad extrema.
+
+c) Se han identificado las bases y protocolos de entrenamiento controlado en calor utilizados como medio de mejora del rendimiento físico-deportivo.
+
+d) Se han analizado las causas y los efectos fisiológicos producidos por los entrenamientos y/o competición en altura, así como sus posibles efectos positivos y negativos sobre el rendimiento físico-deportivo.
+
+e) Se han diseñado entrenamientos en diferentes situaciones de altitud, así como estrategias de adaptación de los/las deportistas a dichas condiciones.
+
+f) Se han analizado los efectos fisiológicos producidos por cambios significativos de huso horario sobre el rendimiento del deportista en el entrenamiento y/o la competición.
+
+g) Se han diseñado entrenamientos en situaciones de cambio horario, así como estrategias de adaptación de los/las deportistas a dichas condiciones.
+
+h) Se ha valorado la colaboración con el grupo de especialistas en la dirección del entrenamiento en condiciones especiales (altitud, cambios horarios, frío, calor, humedad).
+
+Contenidos básicos
+
+RA-1. Analiza los principales conceptos del metabolismo energético y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+1\. Conceptos de metabolismo, catabolismo y anabolismo. Absorción, transporte y almacenamiento de nutrientes.
+
+2\. El ATP. Principales vías metabólicas:
+
+– Vías anaeróbicas: sistema ATP-PC, glucólisis anaeróbica y ciclo de Cori.
+
+– Vías aeróbicas: glucólisis aeróbica y ciclo de Krebs.
+
+3\. Fuentes de energía en relación con las diferentes vías metabólicas: ATP, PC, glucosa, glucógeno, ácidos grasos y proteínas.
+
+4\. Implicación fisiológica de las vías metabólicas en relación con la resistencia durante la actividad físico-deportiva.
+
+5\. El modelo trifásico y los principales hitos fisiológicos: umbrales ventilatorios, VO2max, umbrales lácticos y Máximo Estado Estable del Lactato (MLSS). Métodos directos e indirectos para su valoración y control. Aplicación a los modelos por zonas de intensidad para la planificación y control del entrenamiento.
+
+6\. Conceptos de eficiencia y economía energética. Relevancia en la práctica físico-deportiva.
+
+7\. Principales adaptaciones fisiológicas, agudas y crónicas, al entrenamiento de los diferentes sistemas del organismo en relación con el metabolismo energético.
+
+8\. El metabolismo energético en mujeres deportistas. Principales características de sus adaptaciones fisiológicas al entrenamiento.
+
+RA-2. Analiza los principales componentes del sistema neuromuscular y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+1\. Funciones de los diferentes tipos de músculos: cardiaco, liso y esquelético.
+
+2\. Tipos, componentes y estructura del músculo esquelético. El tendón como transmisor de fuerzas del sistema musculoesquelético y su relación con el ciclo estiramiento-acortamiento (CEA).
+
+3\. La fibra muscular y el sarcómero como unidad funcional básica del músculo. Teoría del filamento deslizante.
+
+4\. Concepto de unidad motora y tipos de fibras musculares. Relación con los principales aspectos fisiológicos y mecánicos que determinan la fuerza, la velocidad y la amplitud de movimiento.
+
+5\. Concepto de fuerza. Principales manifestaciones en relación con la actividad físico-deportiva: fuerza aplicada, fuerza máxima, producción de fuerza por unidad de tiempo (RFD) y fuerza útil. Curvas de fuerza-tiempo y de fuerza-velocidad. Aplicaciones prácticas del entrenamiento de fuerza basadas en la velocidad.
+
+6\. Concepto de velocidad. Principales manifestaciones en relación con la actividad físico-deportiva: velocidad de reacción, gestual y de desplazamiento. Implicaciones sobre las capacidades coordinativas.
+
+7\. Principales adaptaciones, agudas y crónicas al entrenamiento en relación con el sistema neuromuscular: estructurales, nerviosas y hormonales.
+
+8\. Características del sistema neuromuscular y adaptaciones fisiológicas al entrenamiento en mujeres deportistas.
+
+RA-3. Selecciona a los/las deportistas para la alta competición analizando los factores fisiológicos determinantes que influyen en el alto rendimiento.
+
+1\. Aspectos limitantes y factores fisiológicos determinantes del alto rendimiento deportivo.
+
+2\. Fundamentos, medios directos e indirectos y métodos avanzados para la evaluación de la capacidad funcional en el alto rendimiento deportivo. Identificación de la tecnología adecuada y orientaciones para la interpretación de los resultados.
+
+3\. La valoración anatómico-fisiológica como elemento para la selección de los/las deportistas en el alto rendimiento deportivo: medios y métodos. Utilización de tecnología fiable, válida y sensible para una adecuada evaluación.
+
+4\. Análisis e interpretación de los resultados en los estudios antropométricos y de composición corporal utilizados en el alto rendimiento deportivo.
+
+5\. Valoración de las diferencias entre hombres y mujeres.
+
+6\. Organización de los equipos de trabajo en el alto rendimiento deportivo. Diferentes funciones y roles de los especialistas que los componen.
+
+RA-4. Colabora con la persona especialista en la determinación de la dieta y en la prescripción de ayudas ergogénicas analizando los principales conceptos de nutrición deportiva y los efectos nocivos de las sustancias dopantes para la salud.
+
+1\. Principios fundamentales y conceptos básicos de la nutrición, la suplementación y las ayudas ergogénicas en relación con el ámbito físico-deportivo.
+
+2\. Suplementos y ayudas ergogénicas respaldados por la evidencia científica más utilizados en el alto rendimiento deportivo. Criterios para un uso adecuado.
+
+3\. Valoración y control nutricional del deportista de alto rendimiento: medios, métodos e interpretación de los resultados. Identificación de la tecnología adecuada para la evaluación.
+
+4\. La reposición de nutrientes, agua y sales minerales durante el entrenamiento y la competición: bases fisiológicas y estrategias de aplicación individualizadas utilizadas en el alto rendimiento deportivo.
+
+5\. Orientaciones para la colaboración con la persona especialista en el diseño de la dieta, así como en la prescripción de suplementos y ayudas ergogénicas para la mejora del rendimiento físico-deportivo durante el entrenamiento y la competición.
+
+6\. El dopaje en el deporte: concepto, clasificación y ejemplos de sustancias y métodos prohibidos más extendidos en la práctica deportiva.
+
+7\. Toma de conciencia de las repercusiones del dopaje en la salud de los/las deportistas. Consecuencias legales y sanciones deportivas.
+
+8\. El control antidopaje: normativa, organismos y principales métodos para la detección de sustancias prohibidas.
+
+RA-5. Programa y dirige el entrenamiento del deportista aplicando los conceptos de carga, fatiga y recuperación.
+
+1\. Binomio fatiga-recuperación: concepto y relación con el rendimiento deportivo.
+
+2\. Fatiga, sobrecarga y sobreentrenamiento: concepto, tipos, mecanismos de producción, indicadores y formas de prevención.
+
+3\. Efectos de la fatiga en el sistema neuromuscular, endocrino e inmunológico.
+
+4\. La recuperación: concepto, medios y métodos. Relación con los mecanismos de producción.
+
+5\. Principales estrategias de recuperación en alto rendimiento: sueño, nutrición, hidratación, crioterapia, prendas compresivas, masaje, hidroterapia, etc.
+
+6\. Principios de aplicación de las estrategias de recuperación: individualización, alternancia y especificidad.
+
+7\. Pruebas objetivas y subjetivas para cuantificar la fatiga en el alto rendimiento deportivo: marcadores fisiológicos y bioquímicos, test físicos y escalas subjetivas de bienestar.
+
+8\. Relación entre carga de entrenamiento y lesiones por sobreuso.
+
+9\. Nuevas tecnologías para la monitorización de la carga de entrenamiento en el alto rendimiento deportivo.
+
+RA-6. Programa y dirige el entrenamiento y/o la competición en condiciones especiales identificando sus bases y características más importantes.
+
+1\. Causas, efectos y respuestas fisiológicas producidos por el entrenamiento y/o la competición en condiciones extremas de calor, frío y/o humedad.
+
+2\. Diseño y elaboración de entrenamientos en situaciones de temperatura y/o humedad extrema.
+
+3\. Estrategias para facilitar la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de temperaturas y/o humedades extremas.
+
+4\. Diseño y elaboración de protocolos y sesiones de entrenamiento controlado en calor para la mejora del rendimiento físico-deportivo.
+
+5\. Respuesta fisiológica aguda, reposo vs. ejercicio y crónica. Efectos y adaptaciones a la altitud sobre el sistema cardiorrespiratorio, hormonal y neuromuscular.
+
+6\. Diseño y elaboración de programas de entrenamiento en altitud.
+
+7\. Estrategias de entrenamiento en condiciones de hipoxia.
+
+8\. Estrategias para facilitar la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de altitud.
+
+9\. Efectos y respuestas fisiológicas producidos por el cambio horario en los diferentes sistemas del organismo: alteraciones de los ritmos circadianos, frecuencia cardíaca y ventilatoria, función urinaria, gástrica y hormonal. Consecuencias sobre el rendimiento físico-deportivo.
+
+10\. Consideraciones y estrategias en la programación del entrenamiento y la competición para facilitar la adaptación de los/las deportistas en situaciones de cambio horario.
+
+> Se numera como Anexo II.b y se sustituye por el que figura como Anexo I del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 5.2.b)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.c — Módulo común de enseñanza deportiva: Factores psicosociales del alto rendimiento
+
+Código: MED-C302
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Identifica los factores psicológicos del deportista analizando los principales conceptos de la psicología del deporte, sus efectos en el rendimiento y el bienestar del deportista.
+
+a) Se han identificado los objetivos y funciones de la psicología del deporte.
+
+b) Se han analizado las contribuciones de los factores psicológicos a la progresión y el rendimiento de los/las deportistas de alto nivel.
+
+c) Se han descrito las principales destrezas psicológicas del deportista que influyen en el rendimiento deportivo según la modalidad deportiva.
+
+d) Se ha argumentado la necesidad de integrar las destrezas psicológicas en la evaluación del rendimiento de los/las deportistas de alto nivel.
+
+e) Se han descrito las principales situaciones de riesgo para la salud mental y el bienestar psicológico del deportista.
+
+RA-2. Selecciona al/a la deportista para la alta competición, analizando las características psicológicas de los/las deportistas y equipos de alto nivel y las exigencias psicológicas del alto rendimiento.
+
+a) Se han definido las características psicológicas óptimas, de deportistas y equipos, que demanda el alto rendimiento deportivo en el entrenamiento y en la competición.
+
+b) Se han analizado específicamente peculiaridades psicológicas de las mujeres deportistas en el alto rendimiento.
+
+c) Se han analizado los condicionantes psicológicos y las consideraciones específicas de los/las deportistas con discapacidad en el alto rendimiento.
+
+d) Se han propuesto de forma justificada criterios psicológicos de selección de deportistas de alto nivel en función de las exigencias del entrenamiento y la competición de alto nivel.
+
+e) Se han aplicado procedimientos psicológicos de detección de deportistas de alto nivel, mediante la realización de entrevistas y la observación de deportistas en situaciones simuladas de competición y entrenamiento.
+
+f) Se ha argumentado la importancia de la incorporación de protocolos psicológicos en la detección de deportistas de alto nivel.
+
+RA-3. Valora el entorno del/de la deportista, analizando los aspectos sociales que afectan a su rendimiento deportivo y facilitan su formación académica.
+
+a) Se han reconocido los aspectos sociales del entorno que afectan al rendimiento de los diferentes tipos de deportista de alto nivel.
+
+b) Se han definido los aspectos sociales del entorno del/de la deportista que facilitan su formación académica.
+
+c) Se han aplicado procedimientos de evaluación del entorno del/de la deportista que afectan a su rendimiento, en un supuesto práctico debidamente caracterizado.
+
+d) Se han aplicado de manera justificada medios de gestión del entorno, en situaciones simuladas debidamente caracterizadas, que eviten la interferencia con la formación deportiva y académica del/de la deportista.
+
+e) Se ha argumentado la conveniencia de que el/la entrenador/a facilite al/a la deportista la posibilidad de compaginar la carrera deportiva con la formación académica y la conciliación de la vida familiar y deportiva.
+
+f) Se han localizado, en una situación simulada debidamente caracterizada, las ayudas y fuentes de información de que disponen los/las deportistas de alto nivel al llegar al final de su carrera deportiva, que facilitan su integración en la vida laboral.
+
+g) Se ha reconocido la importancia de incorporar el análisis de los aspectos sociales del entorno del/de la deportista en la evaluación de su rendimiento.
+
+h) Se ha valorado la actitud positiva del/de la entrenador/a hacia el reconocimiento y prevención de los problemas de inserción laboral más frecuentes en los/las deportistas de alto nivel.
+
+RA-4. Participa en la preparación psicológica del deportista de alto rendimiento, analizando y aplicando actividades y técnicas de mejora de las destrezas psicológicas.
+
+a) Se han descrito las características y estructura de las técnicas de preparación psicológica que influyen en la mejora del rendimiento deportivo.
+
+b) Se han puesto en práctica actividades de preparación psicológica que influyen en la mejora del rendimiento deportivo en un supuesto practico debidamente caracterizado.
+
+c) Se han aplicado métodos de preparación psicológica en la mejora del afrontamiento de la competición que los/las deportistas de alto nivel hacen en situaciones simuladas debidamente caracterizadas.
+
+d) Se han realizado sencillas secuencias de actividades que favorezcan la mejora de las destrezas psicológicas en función de las exigencias de la especialidad deportiva y las características del deportista de una situación simulada debidamente caracterizada.
+
+RA-5. Colabora en la planificación de la preparación psicológica del/de la deportista, analizando la estructura de la preparación y aplicando criterios de secuenciación de los procedimientos y métodos para afrontar la alta competición.
+
+a) Se ha reconocido la pertinencia de integrar la preparación psicológica en la programación de la preparación general del/de la deportista.
+
+b) Se han elaborado sesiones de entrenamiento de las diferentes destrezas psicológicas que influyen en el rendimiento del deportista de alta competición.
+
+c) Se ha planificado la preparación psicológica dirigida a mejorar el rendimiento deportivo en la alta competición distribuyendo las cargas de trabajo de las diferentes destrezas psicológicas a lo largo de la temporada.
+
+d) Se han integrado en un supuesto práctico de preparación deportiva los procedimientos psicológicos de mantenimiento de la motivación de los/las deportistas de alto nivel a lo largo de la temporada deportiva.
+
+e) Se han programado los procesos relacionados con la forma en que el/la deportista de alto nivel afronta la competición en un supuesto práctico.
+
+f) Se ha valorado la importancia de la gestión psicológica en el proceso de rehabilitación de lesiones en los/las deportistas de alto rendimiento.
+
+g) Se ha valorado la importancia de la gestión psicológica en el proceso de finalización de la etapa competitiva en la vida del deportista y tránsito a la vida lejos de la competición.
+
+RA-6. Coordina el equipo de personal técnico en ciencias aplicadas al deporte, identificando las funciones del/de la psicólogo/a y aplicando técnicas de liderazgo en la gestión de recursos humanos.
+
+a) Se han definido los roles del/de la profesional de la psicología, diferenciándolos de las funciones del entrenador y de la entrenadora.
+
+b) Se han descrito los diferentes estilos de liderazgo de que dispone el/la entrenador/a en la gestión del equipo del personal técnico especialista.
+
+c) Se han descrito las pautas para desarrollar la cohesión del grupo de los recursos humanos del staff técnico.
+
+d) Se han identificado aquellas pautas de comunicación que puede utilizar el/la entrenador/a que generan credibilidad en su equipo de técnicos/as especialistas.
+
+e) Se han aplicado los estilos de liderazgo, las técnicas de cohesión de grupo y las pautas de comunicación en la gestión de los recursos humanos del staff técnico en situaciones simuladas de trabajo en equipo.
+
+f) Se han descrito las pautas a seguir por parte del técnico en la incorporación de las aportaciones especializadas del/de la profesional de la psicología a la preparación del/de la deportista en función del grado de participación de la persona especialista con el/la deportista.
+
+g) Se ha justificado la conveniencia de disponer de equipos de personal técnico especialista en ciencias del deporte.
+
+h) Se han descrito los aspectos de la preparación deportiva susceptibles de ser derivados al/a la profesional de la psicología.
+
+Contenidos básicos
+
+RA-1. Identifica los factores psicológicos del deportista analizando los principales conceptos de la psicología del deporte, sus efectos en el rendimiento y el bienestar del deportista.
+
+1\. La psicología del deporte y el ejercicio físico: historia y evolución.
+
+2\. Objetivos principales de la psicología del deporte.
+
+3\. Funciones y áreas de estudio de la psicología del deporte.
+
+4\. Factores psicológicos y su contribución a la progresión y el rendimiento:
+
+– La personalidad y su estructura de análisis.
+
+– Motivación y competitividad.
+
+– *Arousal*, estrés y ansiedad.
+
+– Rasgos de la personalidad, estados emocionales y herramientas de medida: tests, inventarios y directrices para su uso.
+
+– Fases de desarrollo de la motivación de logro y la competitividad.
+
+– Teorías e hipótesis sobre el efecto del *arousal*y la ansiedad en la ejecución.
+
+– Destrezas psicológicas que influyen en el rendimiento deportivo como la regulación del *arousal*, visualización, autoconfianza, establecimiento de objetivos y concentración.
+
+– Contribuciones de las destrezas psicológicas del deportista a la progresión y el rendimiento de los/las deportistas de alto nivel según la modalidad deportiva.
+
+– La necesidad de integrar aspectos psicológicos en la evaluación del deportista para la mejora del rendimiento deportivo.
+
+– Influencia en el rendimiento deportivo de la motivación del deportista, los rasgos de personalidad, el nivel de competitividad o la gestión de la ansiedad.
+
+– El autoconcepto, la conducta Tipo A y su relevancia en la salud mental del deportista.
+
+RA-2. Selecciona al/a la deportista para la alta competición, analizando las características psicológicas de los/las deportistas y equipos de alto nivel y las exigencias psicológicas del alto rendimiento.
+
+1\. Características psicológicas óptimas de los/las deportistas y equipos de alto nivel en el entrenamiento y en la competición.
+
+2\. Modelo de salud mental positiva (Morgan 1979) para la predicción del éxito deportivo. El perfil de Iceberg.
+
+3\. Peculiaridades psicológicas y consideraciones específicas de la mujer deportista de alto rendimiento.
+
+4\. Condicionantes psicológicos y consideraciones específicas de los/las deportistas con discapacidad en el alto rendimiento.
+
+5\. Identificación del perfil psicológico de los/las deportistas y equipos de alto nivel.
+
+6\. Importancia de los aspectos psicológicos en los procesos de detección de deportistas de alto nivel.
+
+7\. Criterios psicológicos en la selección de deportistas de alto nivel.
+
+8\. Aplicación de procedimientos de selección psicológica de deportistas de alto nivel.
+
+9\. Métodos de evaluación de las destrezas psicológicas implicados en el entrenamiento y en la competición para su selección.
+
+10\. Registro y análisis de la actuación psicológica de los/las deportistas en entrenamiento y en competición para su selección.
+
+11\. La necesidad de integrar las destrezas psicológicas en la selección del deportista de alto nivel.
+
+RA-3. Valora el entorno del/de la deportista, analizando los aspectos sociales que afectan a su rendimiento deportivo y facilitan su formación académica.
+
+1\. Aspectos sociales del entorno del/de la deportista de alto nivel relacionados con el rendimiento deportivo y académico (familia, relaciones sociales y afectivas, centro educativo y/o laboral, club, federación, patrocinadores, representantes, medios de comunicación y redes sociales).
+
+2\. Características específicas del entorno de la mujer deportista.
+
+3\. Características específicas del entorno del/de la deportista con discapacidad en el alto rendimiento.
+
+4\. Interacciones entre las características psicológicas de los/las deportistas de alto nivel y los aspectos sociales de su entorno.
+
+5\. Aspectos sociales del entorno del/de la deportista relacionados con su formación académica.
+
+6\. Evaluación de los aspectos sociales del entorno del/de la deportista relacionados con su progresión deportiva.
+
+7\. Medios de gestión del entorno por parte del/de la entrenador/a para que no interfiera en la preparación deportiva, académica o en el rendimiento deportivo del/de la deportista (formación de las familias, educación de los medios de comunicación, gestión de las redes sociales).
+
+8\. Desarrollo de una actitud en el/la entrenador/a que facilite al/a la deportista compaginar sus estudios con la práctica deportiva.
+
+9\. Conciliación personal-familiar y deportiva, las expectativas de maternidad de las deportistas durante la vida deportiva.
+
+10\. Problemas de inserción laboral más frecuentes en deportistas de alto nivel. Identificación de las ayudas y fuentes de información que facilitan la integración de los/las deportistas de alto nivel a la vida laboral.
+
+11\. Evaluación de los efectos del entorno del deportista en su rendimiento deportivo.
+
+12\. La actitud positiva del/de la entrenador/a hacia el reconocimiento y la prevención de problemas de inserción laboral en los/las deportistas de alto nivel.
+
+13\. La integración de los aspectos sociales del entorno del/de la deportista en la evaluación de su rendimiento.
+
+RA-4. Participa en la preparación psicológica del deportista de alto rendimiento, analizando y aplicando actividades y técnicas de mejora de las destrezas psicológicas.
+
+1\. Técnicas para desarrollar y perfeccionar las habilidades psicológicas para la mejora del rendimiento.
+
+– Técnicas de reducción de la ansiedad.
+
+– Técnicas inductoras del *arousal*.
+
+– Ejercicios para trabajar los diferentes tipos de visualización.
+
+– Estrategias para trabajar la autoconfianza.
+
+– Principios básicos del establecimiento de objetivos.
+
+– Ejercicios para mejorar la concentración y el foco atencional.
+
+2\. Estrategias para conseguir un determinado estado mental para realizar conductas relevantes para la mejora del rendimiento y/o la salud psicológica.
+
+3\. Aplicación de situaciones de competitividad y cooperación como herramientas para el aumento del rendimiento.
+
+4\. Utilización del*Feedback*y técnicas de reforzamiento de la conducta.
+
+5\. Métodos aplicados para la preparación psicológica del afrontamiento de la competición deportiva de alto nivel.
+
+6\. Secuencias y progresiones de actividades para la mejora de las destrezas psicológicas específicas de la modalidad deportiva en función de las peculiaridades del deportista.
+
+RA-5. Colabora en la planificación de la preparación psicológica del/de la deportista, analizando la estructura de la preparación y aplicando criterios de secuenciación de los procedimientos y métodos para afrontar la alta competición.
+
+1\. Los programas de entrenamiento de las destrezas psicológicas y su integración en la planificación deportiva general.
+
+2\. Estructura y diseño de las sesiones de entrenamiento de las destrezas psicológicas del deportista de alta competición como unidad de programación.
+
+3\. Programas de sesiones para la mejora de las distintas destrezas psicológicas que influyen en el rendimiento deportivo.
+
+4\. Distribución de las cargas de trabajo de las distintas destrezas psicológicas a lo largo de la temporada deportiva.
+
+5\. Diseño y evaluación de programas de mejora de las destrezas psicológicas.
+
+6\. Procedimientos psicológicos para mantener la motivación de deportistas de alto nivel a lo largo de la temporada.
+
+7\. Métodos de preparación psicológica para mejorar el afrontamiento que los/las deportistas de alto nivel hacen de la competición.
+
+8\. Planificación de los procesos de afrontamiento de la competición implicados en el alto rendimiento deportivo.
+
+9\. Elaboración de programaciones deportivas que integren los procesos de motivación y de afrontamiento de la competición.
+
+10\. Relevancia del trabajo psicológico para deportistas de alto nivel en situaciones de riesgo para su salud mental:
+
+– Procesos de rehabilitación de lesiones.
+
+– Finalización de la etapa competitiva en la vida del deportista y tránsito a la vida lejos de la competición.
+
+RA-6. Coordina el equipo de personal técnico en ciencias aplicadas al deporte, identificando las funciones del/de la psicólogo/a y aplicando técnicas de liderazgo en la gestión de recursos humanos.
+
+1\. Funciones del/de la profesional de la psicología aplicada al deporte y del técnico en los programas de entrenamiento de las destrezas psicológicas:
+
+– Detección de necesidades.
+
+– Diseño de la planificación.
+
+– Implementación del programa.
+
+– Supervisión y evaluación del programa.
+
+2\. Estilos de liderazgo aplicados en la conducción de equipos de trabajo.
+
+3\. Pautas para el desarrollo de un buen liderazgo de equipos de trabajo.
+
+4\. Pautas para el desarrollo de la cohesión de grupo y su medición.
+
+5\. Análisis de la comunicación para generar credibilidad en el conjunto de especialistas en ciencias aplicadas al deporte.
+
+6\. Protocolos para integrar la aportación del/de la profesional de la psicología en la preparación de deportistas de alto nivel.
+
+7\. La necesidad de disponer de equipos técnicos multidisciplinares.
+
+8\. La derivación de aspectos de la preparación de deportistas de alto nivel a profesionales de la psicología. Pautas de actuación.
+
+> Se numera como Anexo II.c y se sustituye por el que figura como Anexo II del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 5.2.c)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.d — Módulo común de enseñanza deportiva: Formación de formadores deportivos
+
+Código: MED-C303
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Elabora la programación didáctica de los módulos de enseñanzas deportivas, analizando la normativa de ordenación de las mismas, de los centros docentes, del profesorado y de la evaluación, aplicando los procesos de programación y secuenciación.
+
+a) Se ha analizado la organización básica de las enseñanzas deportivas en relación con el sistema educativo.
+
+b) Se ha analizado la normativa que rige el funcionamiento y organización de los diferentes tipos de centros docentes en los que se puede impartir las enseñanzas deportivas de régimen especial.
+
+c) Se han analizado las diferentes formas de colaboración entre las administraciones educativas y las federaciones deportivas, para impartir las enseñanzas deportivas.
+
+d) Se han relacionado las competencias del perfil profesional y los objetivos generales de un ciclo de enseñanzas deportivas con los resultados de aprendizaje de uno de los módulos y sus criterios de evaluación, mediante la valoración de sus características.
+
+e) Se han analizado los conceptos, procedimientos y actitudes que soportan los criterios de evaluación de los resultados de aprendizaje de un módulo específico de enseñanza deportiva.
+
+f) Se ha elaborado la programación didáctica de un módulo específico, en situaciones simuladas que concreten, entre otras, el tipo de enseñanza y el entorno docente.
+
+g) Se ha valorado justificadamente la importancia de programar en la formación de técnicos deportivos.
+
+RA-2. Elabora las sesiones de formación de técnicos deportivos de la programación didáctica conforme a sus elementos, valorando las características del alumnado adulto, y analizando, seleccionando y diseñando recursos didácticos propios de las enseñanzas deportivas.
+
+a) Se han valorado las características individuales y psicosociales del alumnado, en una situación simulada de formación de técnicos deportivos con un grupo diverso que incluya elementos de atención a las personas con discapacidad.
+
+b) Se han analizado las características de los recursos didácticos (actividades, tareas, materiales y medios) y las pautas didácticas que facilitan el proceso de enseñanza-aprendizaje presencial y a distancia, en un supuesto práctico de sesión de formación de técnicos deportivos.
+
+c) Se han seleccionado y diseñado actividades, tareas, materiales y medios didácticos (tradicionales, digitales y multimedia), en una sesión de trabajo donde se establezca el tipo de sesión (teórica, práctica, presencial y a distancia), el módulo específico, la concreción curricular y la estructura de sesión.
+
+d) Se han seleccionado y diseñado recursos didácticos alternativos en una situación simulada de una incidencia técnica, debidamente caracterizada de atención a una necesidad educativa especial o aplicación del principio de igualdad de oportunidades entre mujeres y hombres en la formación de técnicos deportivos.
+
+e) Se ha valorado justificadamente la importancia de seleccionar y diseñar recursos didácticos en la programación didáctica previamente a su utilización en la formación de técnicos deportivos, así como recursos didácticos alternativos frente a posibles incidencias y en atención a la diversidad.
+
+RA-3. Imparte formación de técnicos deportivos conforme a la programación didáctica, aplicando la metodología de enseñanza-aprendizaje y analizando la disposición docente que facilita el aprendizaje y la evaluación.
+
+a) Se han demostrado comportamientos y actitudes docentes que potencien y afiancen el rendimiento y la implicación del alumnado adulto en su formación deportiva, en situaciones simuladas de dirección de sesiones donde se establezcan las características del alumnado.
+
+b) Se han aplicado los estilos de enseñanza y las estrategias pedagógicas de fomento de los estilos de aprendizaje adecuados a la adquisición de competencias profesionales, en un supuesto practico debidamente caracterizado en el que se establezca el tipo de práctica, la modalidad de enseñanza, el módulo específico y las características del alumnado.
+
+c) Se ha dirigido una sesión de formación de enseñanzas deportivas, en un supuesto practico debidamente caracterizado en el que se establezca el tipo de sesión (teórica o práctica), la modalidad de enseñanza y la programación de la sesión.
+
+d) Se han aplicado recursos didácticos alternativos, en un supuesto práctico de una incidencia técnica y en otro de atención a la diversidad en la formación de técnicos deportivos, poniendo en práctica los recursos que resulten más adecuados en cada caso.
+
+e) Se han aplicado las estrategias, instrumentos y formas de evaluación de competencias profesionales en las enseñanzas deportivas, en una situación simulada donde se establezcan las características de los alumnos y los criterios de evaluación de los resultados de aprendizaje de un módulo específico.
+
+f) Se ha resuelto de forma argumentada una reclamación de calificación presentada por un/a alumno/a de enseñanzas deportivas, en una situación simulada en la que se concrete la comunidad autónoma y la normativa a utilizar.
+
+RA-4. Tutoriza técnicos deportivos en su proceso de formación específica (módulos específicos, de formación práctica y proyecto final), analizando y aplicando las estrategias y procedimientos específicos de tutorización.
+
+a) Se han comparado las diferentes estrategias y procedimientos que permiten establecer una línea de trabajo continua y coherente entre los módulos del bloque específico y los del bloque común de las enseñanzas deportivas.
+
+b) Se han analizado las estrategias y procedimientos de actuación en la tutorización de técnicos deportivos y en la dirección de su proyecto final, para su seguimiento y orientación.
+
+c) Se han categorizado y aplicado las diferentes formas de contacto y colaboración con los centros de prácticas para la formalización del convenio de colaboración del módulo de formación práctica.
+
+d) Se han concretado los conceptos, procedimientos y actitudes establecidos en los criterios de evaluación del módulo de formación práctica que deben formar parte del guion de la memoria de prácticas.
+
+e) Se ha valorado la importancia de que el alumnado en prácticas recoja en un diario de campo el registro de lo realizado como elemento de aprendizaje reflexivo.
+
+f) Se han elaborado de forma justificada los apartados clave a incluir en el guion de la presentación oral y escrita de un proyecto final de las enseñanzas deportivas, en un supuesto práctico en el que se establezca la temática del proyecto.
+
+g) Se han ejemplificado estrategias de orientación a aplicar a un/a supuesto/a alumno/a en una situación simulada de seguimiento realizado en un ciclo superior de las enseñanzas deportivas, detectando los momentos en los que habrían sido necesarias.
+
+h) Se ha evaluado una memoria de prácticas o un proyecto final, en una situación simulada donde se establezca dicho documento y los criterios de evaluación de los resultados de aprendizaje de un módulo de formación práctica o de proyecto final.
+
+i) Se ha elaborado de forma justificada el modelo de informe de evaluación, en un supuesto práctico en el que se establece el tipo de módulo a informar.
+
+RA-5. Promueve el desarrollo ético y moral de técnicos y deportistas de alto rendimiento, valorando el impacto que sus comportamientos y actitudes tienen a nivel social, especialmente a través de los medios de comunicación.
+
+a) Se han analizado los valores y antivalores más relevantes relacionados con el alto rendimiento deportivo en la prensa y en las redes sociales.
+
+b) Se han analizado las características que ha de tener el tratamiento de la información deportiva en los medios de comunicación para transmitir valores, especialmente haciendo efectiva la no promoción de la violencia y la valoración del éxito deportivo de otros colectivos normalmente menos valorados como mujeres y personas con discapacidad.
+
+c) Se ha valorado el impacto social de actitudes y comportamientos deportivos y antideportivos de miembros del cuerpo técnico y de deportistas de alto rendimiento, en supuestos prácticos de interacción con los medios de comunicación.
+
+d) Se han analizado los estereotipos de género u otro tipo, conductas de violencia, valores y antivalores, en un supuesto práctico de actuación del equipo de alto rendimiento frente a un conflicto, o en uno personal de resolución de una conducta poco ética y moral del equipo.
+
+e) Se han aplicado estrategias de desarrollo ético y moral personal y del equipo a reflejar en los comportamientos y actitudes ante los medios de comunicación, en un supuesto práctico de dirección de un equipo de alto rendimiento.
+
+f) Se han aplicado estrategias de resolución de conductas poco éticas y morales ante los medios de comunicación, en un supuesto práctico personal o de un deportista de alto rendimiento.
+
+Contenidos básicos
+
+RA-1. Elabora la programación didáctica de los módulos de enseñanzas deportivas, analizando la normativa de ordenación de las mismas, de los centros docentes, del profesorado y de la evaluación, aplicando los procesos de programación y secuenciación.
+
+1\. Enumeración de elementos y secuenciación de la programación didáctica.
+
+2\. Programación didáctica en enseñanza presencial y a distancia: características diferenciales.
+
+3\. Ubicación de las enseñanzas deportivas en el sistema educativo.
+
+– Ordenación, estructura y organización básica.
+
+– Sistema Nacional de Cualificaciones y Formación Profesional: oferta formativa en relación con las enseñanzas deportivas.
+
+4\. Normativa específica básica de las enseñanzas deportivas a tener en cuenta en la programación didáctica.
+
+– Centros de enseñanzas deportivas.
+
+– Características del profesorado de enseñanzas deportivas.
+
+– Perfil profesional de los ciclos de enseñanzas deportivas.
+
+– Objetivos generales de los diferentes ciclos de las enseñanzas deportivas.
+
+– Ciclos, bloques y módulos de las enseñanzas deportivas.
+
+– Elementos curriculares de los módulos de las enseñanzas deportivas.
+
+– Normativa de evaluación en las enseñanzas deportivas.
+
+RA-2. Elabora las sesiones de formación de técnicos deportivos de la programación didáctica conforme a sus elementos, valorando las características del alumnado adulto, y analizando, seleccionando y diseñando recursos didácticos propios de las enseñanzas deportivas.
+
+1\. Valoración de las características psicosociales del alumnado adulto propio de las enseñanzas deportivas.
+
+– Aprendizaje de personas adultas. Teorías cognitivas del aprendizaje.
+
+– Métodos de valoración psicosocial.
+
+– Implicaciones de las características psicosociales en el aprendizaje adulto.
+
+2\. Atención a la diversidad en el alumnado de enseñanzas deportivas, Principio de individualización en la enseñanza-aprendizaje y medidas para su fomento en las mismas.
+
+– Atención a las personas con discapacidad. Principio de normalización.
+
+– Principio de igualdad de oportunidades entre mujeres y hombres.
+
+– Adaptación curricular.
+
+– Situaciones de aprendizaje coeducativas, cooperativas e interactivas.
+
+3\. Elementos de la sesión en la planificación de sesiones en la formación de técnicos deportivos.
+
+– Concreción curricular.
+
+– Estructura.
+
+4\. Recursos didácticos a utilizar en las sesiones de formación técnicos deportivos. Características y criterios de selección y elaboración para enseñanza presencial y a distancia.
+
+– Actividades y tareas.
+
+– Medios didácticos: tradicionales, digitales (nuevas tecnologías –las TIC– aplicadas a la educación) y multimedia.
+
+– Materiales específicos de las disciplinas deportivas.
+
+– Pautas didácticas para la adecuación de los recursos didácticos.
+
+– Alternativas en caso de fallo técnico de los recursos didácticos y frente a otras posibles incidencias en las enseñanzas deportivas.
+
+– Diseño de los recursos didácticos para la individualización del proceso de enseñanza-aprendizaje y en atención a la diversidad en las enseñanzas deportivas.
+
+RA-3. Imparte formación de técnicos deportivos conforme a la programación didáctica, aplicando la metodología de enseñanza-aprendizaje y analizando la disposición docente que facilita el aprendizaje y la evaluación.
+
+1\. Desarrollo de la actitud de disposición del profesorado en la intervención docente en la formación de técnicos deportivos, para potenciar y afianzar el rendimiento y la implicación del alumnado adulto en el aprovechamiento de su formación.
+
+– Componentes cognitivos, afectivos y conductuales de la actitud de disposición docente.
+
+2\. Aspectos metodológicos de la enseñanza-aprendizaje en la formación de técnicos deportivos.
+
+– Estilos y estrategias de aprendizaje en personas adultas.
+
+– Modelos de formación del profesorado en las enseñanzas deportivas.
+
+– Estilos de enseñanza en modalidad presencial y a distancia.
+
+– Dirección de sesiones en la formación de técnicos deportivos.
+
+3\. Evaluación de la formación de técnicos deportivos.
+
+– Estrategias de evaluación.
+
+– Instrumentos de evaluación.
+
+– Formas de evaluación.
+
+– Pautas y proceso para la adecuada atención de reclamaciones de calificaciones.
+
+RA-4. Tutoriza técnicos deportivos en su proceso de formación específica (módulos específicos, de formación práctica y proyecto final), analizando y aplicando las estrategias y procedimientos específicos de tutorización.
+
+1\. Análisis de la relación curricular existente entre los distintos módulos de los bloques común y específico de las enseñanzas deportivas a tener en cuenta en la tutorización.
+
+– Implicaciones en el seguimiento y orientación en la tutorización.
+
+2\. Seguimiento educativo en la tutorización grupal, personal, presencial y a distancia de los módulos del bloque específico en la formación de técnicos deportivos.
+
+– Estrategias para la monitorización y control del proceso educativo.
+
+– Aplicaciones informáticas específicas de gestión y seguimiento.
+
+3\. Orientación educativa en la tutorización grupal, personal, presencial y a distancia de los módulos del bloque específico en la formación de técnicos deportivos.
+
+– Potenciación y afianzamiento del rendimiento y la implicación del alumnado adulto en el aprovechamiento de su formación deportiva.
+
+4\. Aspectos específicos a tener en cuenta en la tutorización del módulo de formación práctica de las enseñanzas deportivas.
+
+– Establecimiento de contactos y convenios con entidades colaboradoras.
+
+– Estrategias y procedimientos de actuación específicos en su seguimiento y orientación.
+
+– Memoria de prácticas.
+
+– Diario de campo.
+
+5\. Aspectos específicos a tener en cuenta en la tutorización del módulo de proyecto final de las enseñanzas deportivas.
+
+– Dirección y tutorización de proyectos: estrategias y procedimientos de actuación específicos en su seguimiento y orientación.
+
+– Proyecto.
+
+– Presentación oral.
+
+6\. Funciones y efectos específicos de la tutorización en el proceso de evaluación de los diferentes módulos de las enseñanzas deportivas.
+
+– Análisis de la progresión en la consecución de los criterios de evaluación de los resultados de aprendizaje de los distintos módulos a lo largo del ciclo de la enseñanza deportiva.
+
+– Elaboración de informes de evaluación.
+
+RA-5. Promueve el desarrollo ético y moral de técnicos y deportistas de alto rendimiento, valorando el impacto que sus comportamientos y actitudes tienen a nivel social, especialmente a través de los medios de comunicación.
+
+1\. Ética y moral en el deporte de alto rendimiento. Valores propios.
+
+– Antivalores más relevantes y comunes. Estereotipos y violencia en el deporte de alto rendimiento.
+
+– Valores y rendimiento deportivo.
+
+2\. Deporte de alto rendimiento, su impacto social y su desarrollo ético y moral en relación con los medios de comunicación.
+
+– Interacción de los diferentes agentes del ámbito del alto rendimiento deportivo con los medios de comunicación: deportistas y cuerpo técnico.
+
+– Análisis del contenido de la información deportiva en los medios de comunicación: transmisión de valores y valoración del éxito en mujeres y personas con discapacidad.
+
+– Repercusión mediática de actitudes y comportamientos deportivos y antideportivos de las/os deportistas y del cuerpo técnico ante los medios de comunicación.
+
+– Estrategias para el análisis y la difusión de valores deportivos a través de los medios.
+
+> Se numera como Anexo II.d y se sustituye por el que figura como Anexo III del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 5.2.d)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.e — Módulo común de enseñanza deportiva: Organización y gestión aplicada al alto rendimiento
+
+Código: MED-C304
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Revisa las condiciones de seguridad de los recursos materiales y equipamientos deportivos en instalaciones de alto rendimiento, utilizando la normativa vigente y aplicando criterios de protección contra riesgos, además de medidas de protección avanzadas.
+
+a) Se ha identificado la normativa básica y complementaria relativa a la seguridad aplicable a un supuesto práctico donde se concretan las características de una instalación deportiva de alto rendimiento.
+
+b) Se han aplicado los principales criterios de seguridad que deben cumplir las instalaciones y equipamientos deportivos de instalaciones de alto rendimiento, en un supuesto práctico donde se establece el marco normativo a utilizar y las características específicas de la instalación.
+
+c) Se han analizado las características de un plan de emergencia y evacuación en una instalación deportiva de alto rendimiento.
+
+d) Se han detallado estrategias y medidas de protección avanzadas contra riesgos antisociales y de violencia en el deporte, aplicables a una situación simulada debidamente caracterizada propia del alto rendimiento.
+
+RA-2. Organiza competiciones y eventos propios del nivel de tecnificación deportiva, analizando los requisitos administrativos, medios materiales y humanos necesarios, en relación con el marco legal que las regula y valorando los criterios de igualdad de género y sostenibilidad.
+
+a) Se ha identificado la estructura organizativa y la persona responsable de la competición de tecnificación deportiva, diferenciando sus funciones esenciales a partir de la normativa vigente.
+
+b) Se han categorizado de manera justificada las estrategias o herramientas utilizables en la búsqueda de financiación o apoyo económico de eventos y competiciones deportivas.
+
+c) Se ha elaborado el procedimiento de comunicación y difusión de los resultados, así como la gestión del protocolo de manera eficiente, aplicables en eventos reales o simulados.
+
+d) Se ha valorado el impacto ambiental y social de la celebración de eventos deportivos acorde a criterios de sostenibilidad, mediante la participación en espacios de discusión y análisis colectivo.
+
+RA-3. Acompaña a deportistas o equipos a competiciones de alto nivel y alto rendimiento, identificando el marco legislativo y organizativo de dichas competiciones y analizando las normativas de aplicación a deportistas profesionales, deportistas de alto nivel y alto rendimiento.
+
+a) Se ha analizado la normativa deportiva de ámbito internacional y su relación con la estructura administrativa del deporte, mediante un escenario de estudio realista.
+
+b) Se ha descrito la organización, estructura y funciones de los organismos deportivos internacionales más importantes, mediante el análisis de casos prácticos.
+
+c) Se ha descrito el régimen disciplinario y antidopaje y su relación con los organismos del deporte.
+
+d) Se ha analizado la normativa que afecta a Deportistas de Alto Nivel y Alto Rendimiento en España, a través de la revisión de casos representativos.
+
+e) Se han analizado las características de los programas de ayuda a la preparación de Deportistas de Alto Nivel y Alto Rendimiento de los deportes olímpicos, a través de la revisión de programas de apoyo reales.
+
+RA-4. Identifica las formas jurídicas y estructuras de las organizaciones deportivas, relacionándolas con la normativa vigente y aplicando procedimientos básicos de gestión económica.
+
+a) Se ha distinguido el grado de responsabilidad de las personas propietarias y gestoras de organizaciones deportivas, en función de su forma jurídica, mediante el análisis comparativo de distintas estructuras organizativas.
+
+b) Se han identificado los procedimientos de creación y puesta en marcha de una organización deportiva, en un supuesto práctico de emprendimiento en el que se establece la forma jurídica y la estructura de la organización deportiva.
+
+c) Se han enumerado los trámites de obtención de apoyo económico exigidos por la normativa vigente en los procesos de creación de organizaciones deportivas, adecuándolos a las características de cada organización.
+
+d) Se han seleccionado los procedimientos de gestión económica esenciales en la organización deportiva, a partir de una organización ficticia.
+
+RA-5. Selecciona las oportunidades de empleo, identificando itinerarios formativos profesionales, realizando una autovaloración de características personales y reconociendo organizaciones útiles para el asesoramiento en la búsqueda.
+
+a) Se ha valorado la importancia de la formación permanente como factor clave en la empleabilidad y la adaptación a las exigencias del mercado laboral y de la modalidad deportiva, mediante la participación en espacios de discusión y análisis colectivo.
+
+b) Se han identificado los itinerarios formativos profesionales que completan su perfil profesional y aumentan su empleabilidad, a partir de la búsqueda en bases de datos educativas y ofertas formativas actualizadas.
+
+c) Se han descrito posibilidades de empleo relacionadas con su perfil profesional, a partir de la búsqueda de oportunidades en el mercado.
+
+d) Se han analizado y aplicado herramientas de autoevaluación de las aspiraciones, actitudes y formación vinculadas con la búsqueda de empleo.
+
+e) Se han seleccionado de manera justificada las organizaciones de asesoramiento en la búsqueda de empleo, a partir de la consulta de portales de empleo y orientación profesional.
+
+Contenidos básicos
+
+RA-1. Revisa las condiciones de seguridad de los recursos materiales y equipamientos deportivos en instalaciones de alto rendimiento, utilizando la normativa vigente y aplicando criterios de protección contra riesgos, además de medidas de protección avanzadas.
+
+1\. Instalaciones deportivas: concepto y características funcionales.
+
+2\. Fundamentos normativos sobre seguridad en las instalaciones deportivas.
+
+3\. La información sobre seguridad en las instalaciones deportivas. Interpretación de la señalización de seguridad. Accesibilidad en instalaciones deportivas.
+
+4\. Procedimientos de revisión de los equipamientos deportivos.
+
+5\. Análisis y aplicación de los planes de emergencia y evacuación.
+
+6\. Medidas básicas de protección para las personas usuarias y las personas trabajadoras.
+
+7\. Protección contra actos antisociales y violencia en el deporte.
+
+RA-2. Organiza competiciones y eventos propios del nivel de tecnificación deportiva, analizando los requisitos administrativos, medios materiales y humanos necesarios, en relación con el marco legal que las regula y valorando los criterios de igualdad de género y sostenibilidad.
+
+1\. Competiciones deportivas. Estructura organizativa básica. Funciones y responsabilidades.
+
+2\. Vías de apoyo económicas y materiales.
+
+3\. Apoyo a la esponsorización del deporte femenino, su importancia en la organización de eventos de esta naturaleza.
+
+4\. Organización de actos de protocolo.
+
+5\. Gestión y difusión de los resultados de las competiciones deportivas.
+
+6\. Sostenibilidad en competiciones y eventos deportivos.
+
+– Medidas para minimizar las afecciones en la Biodiversidad y de restauración de zonas afectadas. Preservación de zonas frágiles, patrimonio arqueológico, histórico y cultural.
+
+– Medidas de ahorro y uso eficiente del agua.
+
+– Gestión de residuos y limpieza.
+
+– Minimizar el uso de energía, fomento de energías renovables.
+
+RA-3. Acompaña a deportistas o equipos a competiciones de alto nivel y alto rendimiento, identificando el marco legislativo y organizativo de dichas competiciones y analizando las normativas de aplicación a deportistas profesionales, deportistas de alto nivel y alto rendimiento.
+
+1\. Deporte internacional. Normativa de referencia:
+
+– Carta Olímpica.
+
+– Carta Europea del Deporte: personas con discapacidad.
+
+– Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+– Convención sobre los derechos de las personas con discapacidad: resolución de la Asamblea General de la ONU del 13 de diciembre de 2006 (artículo 30.5).
+
+2\. Organismos Internacionales.
+
+– Estructura y funciones: Comité Paralímpico Internacional, Comité Olímpico Internacional. Tribunal de Arbitraje del Deporte. Agencia Mundial Antidopaje.
+
+– Régimen Disciplinario.
+
+3\. Deporte Profesional. Concepto.
+
+– Ley del deporte.
+
+– Ligas profesionales españolas. Características.
+
+4\. Deporte de Alto Nivel (DAN) y de Alto Rendimiento (DAR).
+
+– Normativa de aplicación DAN y DAR.
+
+– Plan ADO y «Team España». Características.
+
+– Plan ADOP. Características.
+
+– Programas de apoyo a las deportistas DAN y DAR.
+
+RA-4. Identifica las formas jurídicas y estructuras de las organizaciones deportivas, relacionándolas con la normativa vigente y aplicando procedimientos básicos de gestión económica.
+
+1\. Organizaciones y empresas deportivas. Formas jurídicas. Estructura y funciones.
+
+2\. Elección de la forma jurídica.
+
+3\. Requisitos legales de constitución de organizaciones deportivas y empresas.
+
+4\. Vías de financiación de las organizaciones y empresas deportivas. Ayudas y subvenciones. Tramitación de solicitudes de ayudas y subvenciones.
+
+5\. Nociones básicas de contabilidad.
+
+6\. Análisis de la información contable.
+
+RA-5. Selecciona las oportunidades de empleo, identificando itinerarios formativos profesionales, realizando una autovaloración de características personales y reconociendo organizaciones útiles para el asesoramiento en la búsqueda.
+
+1\. Valoración de la importancia de la formación permanente para la trayectoria laboral y profesional del personal técnico deportivo superior.
+
+2\. Identificación de los itinerarios formativos relacionados con el personal técnico deportivo superior.
+
+3\. El proceso de búsqueda de empleo.
+
+4\. Técnicas e instrumentos de búsqueda de empleo.
+
+5\. El proceso de toma de decisiones.
+
+6\. Análisis de los intereses, aptitudes y motivaciones personales para la carrera profesional.
+
+7\. Análisis del mercado de entidades públicas y privadas orientadas al asesoramiento en la búsqueda de empleo.
+
+> Se numera como Anexo II.e y se sustituye por el que figura como Anexo IV del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 5.2.e)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.f — Módulo específico de enseñanza deportiva: Planificación del alto rendimiento en esgrima
+
+Código: MED-ESES301
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Programa la preparación a largo plazo del esgrimista/equipo en las diferentes armas, analizando los modelos de preparación a largo plazo, seleccionando la información necesaria y aplicando instrumentos y métodos de recogida de la misma.
+
+a. Se han explicado los factores que influyen en el desarrollo del talento deportivo en esgrima.
+
+b. Se han analizado las características de las diferentes etapas en el desarrollo de la vida deportiva de un esgrimista hasta la consecución del alto rendimiento y el abandono de la vida deportiva.
+
+c. Se han analizado las características de los diferentes modelos de planificación (programación de los ciclos de preparación) supraanual (vida deportiva y ciclo olímpico) en función de los modelos de rendimiento de la modalidad y de la etapa deportiva del esgrimista y en especial la de alto rendimiento.
+
+d. Se han analizado las características de los diferentes modelos de planificación de los ciclos anuales en esgrima en función de los objetivos establecidos, de la dinámica de cargas que conlleva, y de su adecuación a la etapa deportiva del esgrimista y en especial la de alto rendimiento.
+
+e. Se han elaborado los objetivos de preparación y rendimiento en una programación anual, en función del modelo de programación y de la etapa en la vida deportiva del esgrimista y en especial la de alto rendimiento.
+
+f. Se han analizado las características del calendario de competición anual e internacional en esgrima relacionándolo con las características del modelo de planificación.
+
+g. Se han caracterizado las diferentes etapas, ciclos o periodos en lo que se subdivide una programación anual.
+
+h. Se han seleccionado los medios y métodos de control de la preparación y del rendimiento en una programación a largo plazo, en función de los objetivos y la etapa de la vida deportiva del esgrimista y en especial la de alto rendimiento.
+
+i. Se ha identificado el tipo de información que se debe tener en cuenta en la programación a largo plazo.
+
+j. Se han aplicado métodos de recogida y análisis de la información sobre el esgrimista, y el entorno, a tener en cuenta en la programación a largo plazo.
+
+k. Se ha analizado el modelo de rendimiento en la competición de esgrimista en las diferentes etapas de la vida deportiva y en especial la de alto rendimiento.
+
+l. Se ha identificado/seleccionado la información del entorno, personal, social o educativa del esgrimista/equipo a tener en cuenta en la programación del entrenamiento a largo, medio y corto plazo, en función de la etapa deportiva y en especial la de alto rendimiento.
+
+m. Se han elaborado instrumentos de recogida de la información sobre el entorno: personal, social y educativo del esgrimista.
+
+n. Se ha valorado la importancia de establecer metas adecuadas a: la evolución del esgrimista, y la dinámica de cargas específica de la esgrima, en la programación a largo, medio y corto plazo.
+
+2\. Adapta y concreta los macrociclos, mesociclos, microciclos y sesiones de entrenamiento en esgrima, analizando las características de los diferentes ciclos o periodos de preparación y los criterios de combinación y evolución de los medios y métodos empleados.
+
+a. Se han analizado las características de los diferentes tipos de mesociclos, microciclos y sesiones a medio y corto plazo y su relación con los objetivos del ciclo anual.
+
+b. Se han seleccionado los medios de control de los factores de rendimiento en la esgrima, en función de la situación dentro de la programación y de los objetivos de la misma.
+
+c. Se han seleccionado los medios y métodos de entrenamiento acordes con el tipo de ciclo o periodo de preparación elegido.
+
+d. Se han justificado los criterios de evolución de los medios de entrenamiento en esgrima, en los diferentes tipos de macrociclos, mesociclos y microciclos de preparación a medio y corto plazo.
+
+e. Se han analizado los procedimientos de selección de los objetivos a alcanzar en los factores de rendimiento en esgrima, en función de los diferentes tipos de macrociclos, mesociclos y microciclos utilizado.
+
+f. Se han justificado los criterios de evolución y modificación de los métodos de entrenamiento de los factores de rendimiento en los diferentes tipos de diferentes tipos de macrociclos, mesociclos y microciclos.
+
+g. Se ha analizado la organización y estructura de la sesión de entrenamiento de esgrima en los diferentes tipos de macrociclos, mesociclos y microciclos.
+
+h. Se han analizado los criterios de combinación de los medios y métodos de entrenamiento de los factores de rendimiento en la sesión de esgrima, en función del tipo de ciclo o periodo de preparación a medio y corto plazo y del momento de la preparación.
+
+i. Se han diseñado programas de preparación a medio y corto plazo en esgrima, en función de las directrices de la programación a largo plazo.
+
+j. Se ha justificado la importancia de adaptar la programación a las modificaciones de la forma deportiva del esgrimista y al grado de consecución de los objetivos propuestos.
+
+3\. Dirige, organiza y programa una concentración de esgrima, fundamentando la estructura de este tipo de actividades, y seleccionando los medios y logística adecuados.
+
+a. Se han analizado los beneficios y funciones que tiene la concentración de preparación dentro de una planificación individual o colectiva en esgrima.
+
+b. Se han analizado los objetivos que pueden cumplirse en las concentraciones de preparación en esgrima.
+
+c. Se ha caracterizado los diferentes tipos de concentraciones de preparación en función del objetivo y del momento de la preparación.
+
+d. Se han fundamentado las estrategias de intervención y cuidados a los deportistas en las concentraciones de preparación de esgrima, en función de los objetivos establecidos.
+
+e. Se han escogido de forma justificada, los contenidos y métodos a utilizar en las concentraciones de preparación en esgrima, en función de los objetivos establecidos.
+
+f. Se ha concretado el programa de una concentración de preparación en un supuesto práctico de preparación.
+
+g. Se han seleccionado los medios y la logística necesarios en la organización de una concentración de preparación en esgrima, en función de los objetivos y de las condiciones existentes.
+
+h. Se ha valorado la importancia de las concentraciones en los programas de preparación en esgrima.
+
+4\. Registra y valora la carga de entrenamiento en la preparación de esgrima, analizando los factores que determinan la carga de entrenamiento en esgrima, y aplicando instrumentos de cuantificación y procesamiento de la información.
+
+a. Se han caracterizado los indicadores que permiten la cuantificación de la carga de trabajo técnico y táctico, en el entrenamiento de esgrima.
+
+b. Se han caracterizado los indicadores que permiten la cuantificación de la carga de trabajo condicional en el entrenamiento de esgrima.
+
+c. Se han caracterizado los indicadores que permiten la cuantificación de la carga psicológica en el entrenamiento y la competición de esgrima.
+
+d. Se han analizado los métodos o sistemas de cuantificación de la carga de trabajo condicional en el entrenamiento de esgrima.
+
+e. Se ha justificado la dinámica de cargas de los diferentes factores de rendimiento deportivo en esgrima, de una programación anual en función de las características de la programación y de los objetivos planteados.
+
+f. Se han aplicado programas informáticos específicos a la cuantificación de la carga de trabajo en el entrenamiento de esgrima.
+
+g. Se han aplicado instrumentos de representación gráfica de la carga de trabajo en el entrenamiento de esgrima.
+
+h. Se han seleccionado procedimientos estadísticos para el procesamiento e interpretación de la carga de entrenamiento en el entrenamiento de esgrima.
+
+i. Se han analizado las utilidades de la cuantificación y seguimiento de la carga del entrenamiento en el control y ajuste de la preparación en esgrima.
+
+j. Se ha valorado la importancia de la cuantificación y el seguimiento de la carga de entrenamiento en la optimización de la preparación en esgrima.
+
+Contenidos básicos
+
+1\. Programa la preparación a largo plazo del esgrimista/equipo en las diferentes armas, analizando los modelos de preparación a largo plazo, seleccionando la información necesaria y aplicando instrumentos y métodos de recogida de la misma.
+
+– El talento deportivo. Factores de desarrollo.
+
+– Las diferentes etapas de formación del esgrimista, a lo largo de su vida deportiva.
+
+– Los diferentes modelos de planificación a largo plazo y en los ciclos anuales en esgrima, hacia el alto rendimiento.
+
+– La temporada de esgrima, sus diferentes características y su relación con los diferentes modelos de planificación.
+
+– Los métodos y medios de control de la planificación del esgrimista a largo plazo.
+
+– El entorno del deportista de alto rendimiento. Su influencia en la planificación a largo plazo.
+
+2\. Programa a medio y corto plazo la preparación del esgrimista. Adapta y concreta los macrociclos, mesociclos, microciclos y sesiones de entrenamiento en esgrima, analizando las características de los diferentes ciclos o periodos de preparación y los criterios de combinación y evolución de los medios y métodos empleados.
+
+– La periodización del entrenamiento anual del esgrimista de alto rendimiento.
+
+– Los métodos y medios de control de la planificación del esgrimista a medio y coto plazo.
+
+– Los diferentes métodos y medios de entrenamiento del esgrimista de alto rendimiento, en función de los objetivos durante la planificación a corto y medo plazo.
+
+– La sesión en el entrenamiento del esgrimista de alto rendimiento, en relación al ciclo o periodo de planificación empleado en la programación.
+
+– La flexibilidad de la planificación del esgrimista.
+
+3\. Dirige, organiza y programa una concentración de esgrima, fundamentando la estructura de este tipo de actividades, y seleccionando los medios y logística adecuados.
+
+– Las concentraciones deportivas en la planificación del esgrimista/equipo. Diferentes tipos, objetivos, estrategias, contenidos y métodos de realización para el beneficio del esgrimista de alto rendimiento.
+
+– Supuesto práctico de una concentración de esgrima orientada al alto rendimiento.
+
+– La logística y organización de la concentración deportiva de alto rendimiento.
+
+4\. Registra y valora la carga de entrenamiento en la preparación de esgrima, analizando los factores que determinan la carga de entrenamiento en esgrima, y aplicando instrumentos de cuantificación y procesamiento de la información.
+
+– La cuantificación del entrenamiento técnico-táctico en el esgrimista de alto rendimiento.
+
+– La utilidad e importancia de la misma en la optimización de la preparación del esgrimista.
+
+– La cuantificación del entrenamiento psicológico en el esgrimista de alto rendimiento.
+
+– La aplicación de programas estadísticos para la cuantificación de la carga de trabajo en el alto rendimiento del esgrimista.
+
+> Se numera como Anexo II.f por el art. 5.2.f) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.g — Módulo específico de enseñanza deportiva: Preparación complementaria en esgrima
+
+Código: MED-ESES302
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Conoce los tipos de lesiones más frecuentes en la esgrima y las técnicas básicas de vendaje realizando exclusivamente asistencia primaria en caso de urgencia y siendo consciente de la necesidad de acudir inmediatamente a un especialista en caso de lesión.
+
+a. Se han descrito las características y evolución de las patologías mas frecuentes, provocadas por el entrenamiento y la competición de alto rendimiento en esgrima.
+
+b. Se han clasificado las lesiones del aparato locomotor más comunes y específicas en la práctica de esgrima en alto rendimiento.
+
+c. Se han identificado las causas de las lesiones más comunes y los métodos y procedimientos de prevención de las mismas.
+
+d. Se han descrito los tipos de vendaje funcionales, los tipos de vendas, los procedimientos y las técnicas en función de los materiales utilizados para las lesiones más frecuentes en esgrima.
+
+e. Se ha demostrado práctica en el uso de las técnicas de vendaje funcional.
+
+f. Se han justificado los protocolos de tratamiento de las lesiones más comunes y las fases estándar en el proceso de recuperación y/o adaptación motriz.
+
+g. Se han relacionado las pautas de actuación en el proceso de recuperación y readaptación motriz del esgrimista lesionado con las características de la lesión.
+
+h. Se han fundamentado los criterios de elaboración de entrenamiento complementario con esgrimistas lesionados. Se han analizado los medios y métodos de control y seguimiento del esgrimista desde la aparición de la lesión hasta su integración al entrenamiento normalizado y la competición.
+
+i. Se ha tomado conciencia de la necesidad de acudir inmediatamente a un especialista en caso de lesión.
+
+j. Se ha tomado conciencia de la importancia, del calentamiento y de los estiramientos, así como tener buenos hábitos en la práctica deportiva para la prevención de lesiones.
+
+k. Se ha tomado conciencia de la presencia de variables psicológicas implicadas en los procesos de prevención y readaptación motriz de lesiones.
+
+2\. Apoya la preparación psicológica del esgrimista, analizando las características específicas de la competición que influyen psicológicamente en el esgrimista, y las pautas de aprendizaje y entrenamiento psicológico.
+
+a. Se han analizado las características específicas de la competición de esgrima que influyen psicológicamente en el esgrimista.
+
+b. Se ha analizado el proceso de toma de decisiones y como este proceso se aplica específicamente al deporte de la esgrima.
+
+c. Se han establecido las pautas para el aprendizaje y el entrenamiento de la decisión en el deporte de la esgrima.
+
+d. Se han analizado sistemas específicos de concentración en función del momento de la competición en la que se encuentra el esgrimista.
+
+e. Se han establecido pautas de para el aprendizaje y el entrenamiento de la concentración en momentos específicos.
+
+f. Se han aplicado estrategias de utilización de la memoria y de la visualización específicamente a la táctica de la esgrima.
+
+g. Se han desarrollado pautas de entrenamiento específico coordinativo-propioceptivo.
+
+3\. Identifica las necesidades ergogénicas y ergo nutricionales del deportista, en el entrenamiento y en la competición, analizando las demandas específicas, aplicando procedimientos para la elaboración de dietas y valorando los procedimientos y normas de control antidopaje.
+
+a. Se han identificado las necesidades nutricionales del esgrimista.
+
+b. Se han justificado diferentes tipos de ayudas ergo nutricionales en función de las características de la competición y necesidades del esgrimista.
+
+c. Se han relacionado los aspectos fisiológicos de la hidratación: antes, durante y después de la actividad física, con el rendimiento del esgrimista.
+
+d. Se ha justificado la elección de dietas específicas dirigidas al control del peso en los esgrimistas.
+
+e. Se han descrito las pautas generales para la elaboración de dietas dirigidas principalmente al control de peso del esgrimista.
+
+f. Se ha analizado la lista de «sustancias prohibidas» establecida por la Agencia Mundial Antidopaje (AMA) y la Federación Internacional de Esgrima.
+
+g. Se han explicado y analizado los procedimientos establecidos por la AMA en lo que se refiere a los controles antidopaje, la solicitud de exenciones terapéuticas y localización de los deportistas.
+
+h. Se ha realizado una propuesta de aplicación práctica en la utilización de ayudas ergogénicas en la práctica de la esgrima en alto rendimiento.
+
+4\. Evalúa la condición física del esgrimista en el entrenamiento y en la competición, en las tres modalidades, Espada, Florete y Sable, analizando las demandas del alto rendimiento y aplicando procedimientos específicos de valoración.
+
+a. Se han descrito las características del proceso de evaluación de la condición física del esgrimista, así como los factores a la hora de administrar un test.
+
+b. Se han seleccionado métodos e instrumentos para la valoración de las capacidades físicas durante el entrenamiento y la competición en la etapa de Alto Rendimiento de los esgrimistas en las diferentes modalidades, Espada Florete y Sable.
+
+c. Se han aplicado los procedimientos para la evaluación de las capacidades físicas requeridas durante el entrenamiento y la competición de los esgrimistas en las diferentes modalidades, Espada Florete y Sable.
+
+d. Se ha adaptado el proceso de evaluación de la condición física en relación a las características específicas de cada una de las modalidades, Espada Florete y Sable.
+
+e. Se ha justificado el perfil fisiológico del esgrimista en relación con las diferentes especialidades, Espada, Florete y Sable y las particularidades de la competición (individual o equipos).
+
+f. Se han determinado herramientas válidas para el control de variables morfológicas y estructurales del esgrimista esgrimistas validas para las diferentes modalidades, Espada Florete y Sable.
+
+g. Se han explicado los criterios para el diseño de tests de campo específicos en el deporte de la esgrima y en sus diferentes modalidades, Espada Florete y Sable.
+
+h. Se han establecido modelos para la recogida de información subjetiva por parte de los esgrimistas, en relación al nivel de rendimiento físico y fatiga presentado durante el entrenamiento y la competición, en función de las características de la práctica de las diferentes modalidades, Espada Florete y Sable y tipo de práctica, individual o por equipos.
+
+i. Se han aplicado métodos y técnicas de procesamiento de los registros obtenidos durante la valoración del rendimiento físico del esgrimista.
+
+j. Se ha justificado la relación entre los factores condicionales del rendimiento y el resultado obtenido en relación con las diferentes especialidades, Espada, Florete y Sable y las particularidades de la competición (individual o equipos).
+
+k. Se han analizando los criterios de comparación entre los datos obtenidos en el proceso de evaluación, con los previstos en la planificación y programación del entrenamiento del esgrimista.
+
+l. Se ha asimilado la necesidad de compartir la información resultante de las valoraciones con el esgrimista.
+
+m. Se ha interiorizado la obligación de respetar la dignidad del esgrimista a la hora de realizar cualquier tipo de evaluación.
+
+Contenidos básicos
+
+1\. Conoce los tipos de lesiones más frecuentes en la esgrima y las técnicas básicas de vendaje realizando exclusivamente asistencia primaria en caso de urgencia y siendo consciente de la necesidad de acudir inmediatamente a un especialista en caso de lesión.
+
+– Tipos de lesiones más frecuentes en la esgrima: clasificación, síntomas, causas, prevención.
+
+– Tipos de vendaje: el vendaje funcional.
+
+– Vendas elásticas e inelásticas. Técnicas en función del tipo de venda utilizada.
+
+– Procedimientos de vendaje: vendaje circular y en espiga.
+
+– Tratamiento de lesiones: fases en una lesión. Procedimiento RICES (Reposo, Hielo, Compresión, Elevación, Estabilización).
+
+– Recuperación de lesiones: Beneficios de la terapia física en lesiones musculares.
+
+– Vuelta a la práctica deportiva.
+
+– Planificación de entrenamientos complementarios.
+
+– Buenos hábitos para la prevención de lesiones: El calentamiento, los estiramientos, la hidratación, uso del equipo deportivo correcto.
+
+2\. Conoce las características específicas de la competición de esgrima que influyen psicológicamente en el esgrimista de alto nivel, estableciendo pautas de aprendizaje y entrenamiento para la mejora del rendimiento.
+
+– Características específicas de la competición de esgrima que influyen psicológicamente en el esgrimista.
+
+– Sistema perceptivo-interpretativo-decisional: análisis, aprendizaje, entrenamiento. La toma de decisión en el alto rendimiento de esgrima.
+
+– Entrenamiento del sistema coordinativo-propioceptivo de las posiciones y los movimientos específicos en la esgrima.
+
+– Entrenamiento de la decisión: primera intención, segunda intención, tercera intención.
+
+– Memoria táctica.
+
+– Sistemas específicos de concentración: iniciales, entre tocados, descansos en el asalto de eliminación directa.
+
+– Uso de la visualización específica táctica: asalto completo, periodo de asalto, tocado, decisión táctica según marcador.
+
+3\. Identifica las necesidades ergogénicas y ergo nutricionales del deportista, en el entrenamiento y en la competición, analizando las demandas específicas, aplicando procedimientos para la elaboración de dietas y valorando los procedimientos y normas de control antidopaje.
+
+– Necesidades nutricionales del esgrimista de Alto Rendimiento.
+
+– Ayudas ergo nutricionales: adecuación a las características del esgrimista y de la competición.
+
+– Elaboración de dietas: Pautas y normas. Dietas específicas para el control de peso.
+
+– Hidratación del esgrimista.
+
+– Lista de sustancias prohibidas de la AMA.
+
+– Procedimientos de la AMA: controles antidoping, exenciones terapéuticas y localización de deportistas.
+
+4\. Evalúa la condición física del esgrimista en el entrenamiento y en la competición, en las tres modalidades, Espada, Florete y Sable, analizando las demandas del alto rendimiento y aplicando procedimientos específicos de valoración.
+
+– Características del proceso de evaluación de la condición física del esgrimista.
+
+– Capacidades físicas de los esgrimistas según rol y modalidad.
+
+– Resistencia Aeróbica Específica.
+
+– R. Anaeróbica.
+
+– R. Fuerza Rápida.
+
+– Velocidad de desplazamiento Global.
+
+– Velocidad segmentaría.
+
+– Flexibilidad.
+
+– Habilidad.
+
+– Métodos e instrumentos de valoración de las capacidades físicas en entrenamiento y competición:
+
+– Test Específicos.
+
+– Hojas de registro.
+
+– Formularios de control.
+
+– Procedimientos para la valoración de la condición física del esgrimista en entrenamiento y en competición:
+
+– Registros de Frecuencia Cardiaca.
+
+– Registros de lactato.
+
+– Información subjetiva complementaria. Modelos y protocolos.
+
+– Escala del esfuerzo percibido de Borg.
+
+– Diferencias entre mujeres y hombres.
+
+– Valoración del rendimiento físico:
+
+– Técnicas y procedimientos aplicados a las tres especialidades Espada Florete y Sable.
+
+– Análisis y discusión de los resultados.
+
+> Se numera como Anexo II.g por el art. 5.2.g) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.h — Módulo específico de enseñanza deportiva: Dirección técnica y organización de eventos
+
+Código: MED-ESES303
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Realiza la Dirección Técnica de un club/federación de esgrima, coordinando el equipo de trabajo, estableciendo objetivos deportivos, y desarrollando la planificación deportiva de la temporada.
+
+a. Se han identificado los miembros del equipo de trabajo, sus competencias y funciones.
+
+b. Se han identificado las actividades propias del club/federación de esgrima, así como las necesidades de la instalación para llevar a cabo estas actividades.
+
+c. Se han establecido las tareas a desarrollar diariamente, en función de la programación establecida, así como las personas encargadas de llevarlas a cabo.
+
+d. Se han analizado las funciones de los miembros del equipo de trabajo relacionándolas con los objetivos generales.
+
+e. Se ha analizado una planificación deportiva identificando los medios humanos, económicos y materiales necesarios para llevar a cabo dicha planificación.
+
+f. Se han desarrollado campañas de promoción y marketing de la esgrima analizado las características del mercado.
+
+g. Se ha tomado conciencia de la importancia de promocionar el deporte de la esgrima como un producto de calidad e importancia social.
+
+2\. Planifica los desplazamientos a las competiciones de esgrima, realizando los trámites administrativos y la selección de deportistas, eligiendo los medios de transporte y alojamientos, todo ello ajustándose al presupuesto.
+
+a. Se ha analizado el calendario y se han seleccionado las competiciones donde el Club/Federación va a participar en función de objetivos deportivos y económicos establecidos.
+
+b. Se han analizado los recursos económicos necesarios atendiendo al lugar, deportistas seleccionados y características de la competición.
+
+c. Se han justificado los criterios de selección de los deportistas atendiendo a criterios deportivos, económicos y de la normativa de competición.
+
+d. Se han seleccionado los medios de transporte y alojamientos más adecuados que garanticen el buen rendimiento de los deportistas en la competición y que se ajusten a los presupuestos establecidos.
+
+e. Se han especificado los criterios para la elaboración de un plan de viaje así como los permisos y comunicación con las familias de deportistas menores de edad.
+
+f. Se han analizado los criterios de selección de un responsable de expedición y las funciones que tiene que desarrollar.
+
+g. Se ha tomado conciencia de la responsabilidad de realizar desplazamientos con deportistas, especialmente si estos son menores de edad, extremando las medidas de seguridad y facilitando la comunicación con las familias.
+
+3\. Gestiona competiciones de tecnificación y colabora en la organización de competiciones de alto nivel, analizando las condiciones de organización técnica de la competición, los procesos de inscripción y el reglamento de competición.
+
+a. Se han diseñado la planificación y protocolos de organización de una competición de tecnificación de esgrima, identificando las instituciones y permisos necesarios.
+
+b. Se han seleccionado los recursos humanos y materiales necesarios en la organización de una competición de tecnificación de esgrima.
+
+c. Se ha realizado el presupuesto de una competición de tecnificación de esgrima, identificando las vías de financiación pública y privada.
+
+d. Se han seleccionado los medios de difusión del evento y de sus resultados, cumpliendo los convenios institucionales y de patrocinio.
+
+e. Se han identificado las características de una competición de alto nivel de esgrima a tener en cuenta durante la organización de la misma.
+
+f. Se han explicado los tipos de competiciones propios del alto nivel en la esgrima y sus fórmulas.
+
+g. Se han analizado las características básicas de la organización (normativas y reglamentos federativos aplicables, objetivos, fases de desarrollo) de los diferentes tipos de competiciones propios del alto nivel de esgrima.
+
+h. Se han especificado los procesos de inscripción en competiciones propios del alto nivel de la esgrima, sus plazos y las cuotas obligatorias de aportación de árbitros descritas en las normativas federativas.
+
+i. Se han seleccionado los recursos humanos y materiales necesarios en la realización de competición de alto nivel de esgrima.
+
+j. Se ha aplicado el protocolo básico en la ceremonia de entrega de trofeos en una competición de alto nivel de esgrima.
+
+k. Se ha mostrado una actitud crítica ante la práctica mal entendida de la competición y favorable al juego limpio.
+
+l. Se ha tomado conciencia de la magnitud y dificultad de la organización de competición de tecnificación a la esgrima, valorando el trabajo en equipo y la diversificación de tareas.
+
+Contenidos básicos
+
+1\. Realiza la Dirección Técnica de un club/federación de esgrima, coordinando el equipo de trabajo, estableciendo objetivos deportivos, y desarrollando la planificación deportiva de la temporada.
+
+– Equipo técnico: Profesionales asociados al mundo de la esgrima (entrenador, preparador físico, psicólogo, técnico material). Perfiles y competencias.
+
+– Coordinación de equipos de trabajo. Reparto de tareas.
+
+– Planificación de una temporada. Objetivos deportivos.
+
+– Actividades propias de un Club/Federación. Necesidades materiales para llevar a cabo estas actividades. Preparación y adecuación de instalaciones.
+
+– Marketing en la esgrima.
+
+2\. Planifica los desplazamientos a las competiciones de esgrima, realizando los trámites administrativos y la selección de deportistas, eligiendo los medios de transporte y alojamientos, todo ello ajustándose al presupuesto.
+
+– El responsable de expedición: funciones y cometidos.
+
+– Calendario de competición.
+
+– Establecimiento de criterios económicos y deportivos.
+
+– Previsión de gastos de un viaje.
+
+– Planificación de un viaje. Preparativos previos, selección de la delegación. Elección de alojamiento y medio de transporte.
+
+– Normativa de competición vigente. Procesos de inscripción y licencias. Cuota aportación de árbitros.
+
+– Peculiaridades de viajes con menores de edad.
+
+3\. Gestiona competiciones de tecnificación y colabora en la organización de competiciones de alto nivel, analizando las condiciones de organización técnica de la competición, los procesos de inscripción y el reglamento de competición.
+
+– Planificación de la organización de una competición de tecnificación de esgrima. Protocolos de actuación. Plazos.
+
+– Selección de recursos humanos y materiales.
+
+– Vías de financiación. Subvenciones públicas y ayudas privadas.
+
+– Difusión del evento. Contacto con medios de comunicación e Instituciones organizadoras.
+
+– Características de una competición de alto nivel de esgrima.
+
+– Tipos de competiciones propias del alto nivel de esgrima. Fórmulas.
+
+– Procesos de tramitación de licencias e inscripciones en competiciones propias del alto nivel de esgrima.
+
+– Recursos humanos y materiales necesarios para desarrollar una competición de alto nivel de esgrima.
+
+– Normas de protocolo en las competiciones de alto nivel de esgrima.
+
+> Se numera como Anexo II.h por el art. 5.2.h) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.i — Módulo específico de enseñanza deportiva: Nuevas tecnologías en esgrima
+
+Código: MED-ESES304
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Diseña y adapta instrumentos de recogida de datos, aplicando el método observacional en el análisis de la técnica y de la táctica en el alto rendimiento de esgrima.
+
+a. Se ha justificado el uso del método observacional como medio para el análisis de la técnica y de la táctica en el alto rendimiento en esgrima.
+
+b. Se han seleccionado los procedimientos de análisis y evaluación de la técnica a través de la observación.
+
+c. Se han interpretado los procedimientos de análisis y evaluación de la táctica a través de la observación.
+
+d. Se ha justificado la selección de las herramientas utilizadas en la recogida de datos durante el proceso de observación.
+
+e. Se han adaptado las herramientas existentes utilizadas en la recogida de datos para su uso específico del análisis de la técnica y de la táctica de la esgrima de alto nivel.
+
+f. Se han diseñado herramientas específicas para la toma de datos mediante la aplicación del método observacional.
+
+g. Se ha tomado conciencia de la importancia del análisis de la técnica y de la táctica a través de la observación en la mejora del rendimiento deportivo.
+
+2\. Utiliza las herramientas de edición y procesado de video en la observación y análisis técnico táctico, justificando el uso de las mismas y aplicando procedimientos específicos de elaboración de bases de datos de imágenes.
+
+a. Se ha justificado la selección de las herramientas audiovisuales utilizadas en el análisis de la técnica y la táctica.
+
+b. Se han seleccionado y utilizado herramientas de edición y procesado de video en el análisis de los parámetros observables y cuantificables de la ejecución técnica del esgrimista de alto rendimiento.
+
+c. Se han seleccionado y utilizado herramientas de edición y procesado de edición en la comparación de la ejecución técnica del esgrimista de alto rendimiento, con patrones de referencia.
+
+d. Se han seleccionado y utilizado herramientas de edición y procesado de video en el análisis de los parámetros observables del sistema táctico del esgrimista del alto rendimiento.
+
+e. Se han elegido y aplicado los procedimientos de elaboración de bases de datos de imágenes de esgrimistas.
+
+f. Se ha demostrado un uso correcto de las herramientas audiovisuales en la observación, y análisis de la técnica y de la táctica en los esgrimistas de alto rendimiento.
+
+g. Se ha tomado conciencia de la importancia del uso de nuevas tecnologías como herramienta de observación y análisis de la técnica y de la táctica.
+
+3\. Procesa la información vinculada con el alto rendimiento en esgrima, aplicando hojas de cálculo, justificando la selección de las variables a estudiar, aplicando procedimientos de gestión las bases de datos de la información, de generación de gráficos e informes de resultados.
+
+a. Se ha justificado la selección de las hojas de cálculo en el procesado estadístico de la información.
+
+b. Se han generado bases de datos a partir de la información recogida en el proceso de observación.
+
+c. Se ha justificado la selección de las variables que se van a someter a estudio.
+
+d. Se han aplicado herramientas de filtrado de los datos obtenidos.
+
+e. Se han utilizado hojas de cálculo en la generación de resultados estadísticos, en los cálculos de porcentajes y en la comparación de resultados.
+
+f. Se han utilizado hojas de cálculo en la elaboración de gráficos de resultados.
+
+g. Se han utilizado hojas de cálculo en la presentación de informes de resultados.
+
+h. Se ha tomado conciencia de la importancia del estudio estadístico de la información, que proporciona un mayor conocimiento sobre los rivales y sobre el propio esgrimista, ayudando a la mejora del rendimiento deportivo.
+
+Contenidos básicos
+
+1\. Diseña y adapta instrumentos de recogida de datos, aplicando el método observacional en el análisis de la técnica y de la táctica en el alto rendimiento de esgrima.
+
+– El método observacional: Fases del método observacional. Criterios generales de la observación. Ventajas, limitaciones y dificultades de las observaciones.
+
+– Instrumentos de recogida de datos: listas de control, Escalas de clasificación, Escalas descriptivas.
+
+– Análisis de la técnica a través de la observación. Observación de la acción técnica Observación general de la técnica. Metodología de la observación. Evaluación de la técnica.
+
+– Análisis de la táctica a través de la observación. Selección y registro de los indicadores tácticos en la esgrima. Indicadores de la táctica deportiva. Registro de los indicadores tácticos.
+
+– Adaptación y diseño de instrumentos específicos.
+
+2\. Utiliza las herramientas de edición y procesado de video en la observación y análisis técnico táctico, justificando el uso de las mismas y aplicando procedimientos específicos de elaboración de bases de datos de imágenes.
+
+– Herramientas audiovisuales disponibles en el mercado, útiles para la observación y análisis de la técnica y de la táctica.
+
+– Parámetros cuantificables con las herramientas de edición y procesado de vídeo. Métodos de medida. Influencia en el rendimiento deportivo.
+
+– Métodos de comparación de imágenes utilizando herramientas de edición y procesado de video.
+
+– Observación de los parámetros para el análisis de la táctica.
+
+– Diseño y Generación de bases de datos de imágenes.
+
+3\. Procesa la información vinculada con el alto rendimiento en esgrima, aplicando hojas de cálculo, justificando la selección de las variables a estudiar, aplicando procedimientos de gestión las bases de datos de la información, de generación de gráficos e informes de resultados.
+
+– Hojas de cálculo disponibles en el mercado. Características básicas, familiarización con el interfaz.
+
+– Generación de bases de datos a partir de Hojas de cálculo.
+
+– Gestión de las Hojas de cálculo. Ordenar filas/columnas. Mostrar/ocultar. Selección de datos.
+
+– Criterios de Selección de variables a estudio.
+
+– Realización de cálculos utilizando hojas de cálculo. Uso de las fórmulas.
+
+– Generación de Gráficos utilizando hojas de cálculo. Tipos de gráficos, propiedades, personalización.
+
+– Generación de Informes utilizando hojas de cálculo. Presentación de los resultados.
+
+> Se numera como Anexo II.i por el art. 5.2.i) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.j — Módulo específico de enseñanza deportiva: Técnica de Espada
+
+Código: MED-ESES305
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Elabora un sistema táctico de combate y prepara al espadista para su ejecución, analizando los sistemas estratégicos y tácticos existentes y aplicando secuencias prácticas para su consolidación.
+
+a. Se han analizado los diferentes sistemas estratégicos y tácticos de las diferentes escuelas más influyentes en el espada de alto nivel.
+
+b. Se ha desarrollado un sistema táctico propio de aplicación ante las diferentes estrategias adversas y las variaciones tácticas, teniendo en cuenta las características de los espadistas a su cargo.
+
+c. Se han analizado las características de los espadistas para su adaptación al sistema táctico y establecer los roles en la competición por equipos.
+
+d. Se han justificado las características que conforman un sistema estratégico, un sistema táctico, una actuación táctica, etc.
+
+e. Se han elaborado los instrumentos de observación de la ejecución técnica dentro del sistema táctico de espada de alto nivel durante la lección, el entrenamiento y la competición de este nivel.
+
+f. Se ha analizado el modo de ejecución de cada uno de los elementos técnicos propios del alto nivel deportivo en espada conforme al modelo ideal.
+
+g. Se ha elaborado un protocolo de verificación de la aplicación de las acciones previstas dentro del sistema táctico desarrollado previamente.
+
+h. Se ha explicado la convención que rige en la práctica del espada y el orden jerárquico de cada una las acciones dentro del sistema táctico.
+
+i. Se han identificado los errores más frecuentes en la aplicación del sistema táctico, relacionándolos con las posibles causas, proponiendo tareas para su solución.
+
+j. Se han elaborado secuencias prácticas para reforzar el aprendizaje de las reacciones apropiadas al sistema táctico propio.
+
+k. Se ha interiorizado la necesidad de hacer participes a los espadistas en el desarrollo del sistema táctico en el nivel de alto rendimiento deportivo como factor de obtención de los objetivos propuestos.
+
+2\. Dirige y dinamiza la sesión de entrenamiento de los espadistas, asistiéndole durante la lección individual de esgrima adaptándose a las características del espadista y al momento de la temporada de manera adecuada.
+
+a. Se han expuesto las partes en que se dividen los gestos técnicos y las cualidades (la fuerza, la velocidad, el ritmo, la sensibilidad, el movimiento de la punta, la fluidez, etc.) de su modo de ejecución en espada en el alto nivel deportivo.
+
+b. Se han justificado los principios y estímulos utilizados en la asistencia técnica en el trabajo individualizado de las acciones de espada de alto nivel.
+
+c. Se ha demostrado un comportamiento ajustado en modo y tiempo a las acciones del alumno asistiéndole en situaciones de colaboración oposición, en el trabajo de las acciones técnico-tácticas propias de la lección individual de este nivel.
+
+d. Se ha adaptado el método de entrenamiento y desarrollo técnico-táctico a las características y cualidades individuales de cada espadista.
+
+e. Se han analizado las características del comportamiento del técnico deportivo de espada durante la sesión de entrenamiento de alto rendimiento deportivo.
+
+f. Se ha elaborado un protocolo de verificación del roll del entrenador de espada de alto nivel durante la sesión de entrenamiento, de aplicación a los espadistas a su cargo.
+
+g. Se han diseñado las diferentes lecciones de entrenamiento de mayor potencial, relacionándolas con el momento de la temporada, el nivel del deportista y su situación/etapa de formación.
+
+h. Se han identificado los errores más frecuentes en la asistencia, relacionándolos con las posibles causas, proponiendo tareas para su solución.
+
+i. Se ha demostrado capacidad y dinamismo en la dirección de un grupo deportivo de alto nivel en la modalidad deportiva de espada.
+
+3\. Valora la ejecución técnico-táctica del espadista en las acciones de técnica de piernas compuestas, desplazamiento y distancia propias del alto nivel, en la lección y en la competición, analizando los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+a. Se han analizando las acciones de técnica de piernas compuestas, y las esquivas laterales, y descrito los errores más frecuentes en su ejecución en espada.
+
+b. Se han relacionado los errores más frecuentes en la ejecución de las acciones de técnica de piernas compuestas, y las esquivas laterales con las causas y las tareas de corrección.
+
+c. Se han analizando las partes en que se dividen los elementos de técnica de piernas compuestas, y las esquivas laterales y las cualidades (la fuerza, la velocidad, el ritmo, la sensibilidad) de su modo de ejecución en espada.
+
+d. Se han enumerado los ejercicios de refuerzo técnico-táctico correspondientes a las acciones de técnica de piernas compuestas, y las esquivas laterales.
+
+e. Se ha demostrado un comportamiento ajustado en modo y tiempo a las acciones del alumno asistiéndole en situaciones de colaboración oposición, en el trabajo de las acciones de técnica de piernas compuestas, y las esquivas laterales.
+
+f. Se han descrito el uso de los medios de entrenamiento específicos (plastrón, espejo, y otros) en el aprendizaje de las acciones de técnica de piernas compuestas y las esquivas laterales.
+
+g. Se ha interiorizado la importancia del entrenamiento de las técnicas de piernas y desplazamiento y distancia como factor determinante en el desarrollo del alto nivel deportivo en espada.
+
+4\. Valora la ejecución técnico-táctica del espadista en las acciones de golpe lanzado y cortado, propias del alto nivel, en la lección y en la competición, analizando los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+a. Se han analizando las acciones de golpe lanzado y cortado (coupe), y descrito los errores más frecuentes en su ejecución en espada.
+
+b. Se han relacionado los errores más frecuentes en la ejecución de las acciones de técnica golpe lanzado y cortado (coupe) con las causas y las tareas de corrección.
+
+c. Se ha analizando el cortado (coupe) dentro de las acciones ofensivas simples indirectas y utilizado como finta, y descrito los errores más frecuentes en su ejecución en espada.
+
+d. Se ha analizando el golpe lanzado dentro de las acciones ofensivas simples directas e indirectas y utilizado como finta, y descrito los errores más frecuentes en su ejecución en espada.
+
+e. Se han analizando las partes en que se dividen los elementos técnicos del golpe lanzado y el cortado y las cualidades (la fuerza, la velocidad, el ritmo, la sensibilidad) de su modo de ejecución en espada.
+
+f. Se han enumerado los ejercicios de refuerzo técnico-táctico correspondiente a las acciones de golpe lanzado directo e indirecto y del cortado y también utilizados como finta en espada.
+
+g. Se ha demostrado un comportamiento ajustado en modo y tiempo a las acciones del alumno asistiéndole en situaciones de colaboración oposición, en el trabajo de las acciones golpe lanzado directo e indirecto y del cortado y también utilizados como finta en espada.
+
+h. Se han descrito el uso de los medios de entrenamiento específicos (plastrón, espejo, y otros) en el aprendizaje de las acciones técnicas de golpe lanzado directo e indirecto y del cortado y también utilizados como finta en espada.
+
+i. Se ha interiorizado la necesidad de reforzar las cualidades más destacadas de los espadistas minimizando los errores, como factor de mejora de la técnica.
+
+5\. Valora la ejecución técnico-táctica del espadista en el uso de las paradas según la distancia, por cesión en 1.ª y laterales de 7.ª y 8.ª en la lección y en la competición, describiendo los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+a. Se han analizando las acciones de técnica de parada según la distancia, por cesión en 1.ª y laterales de 7.ª y 8.ª, y descrito los errores más frecuentes en su ejecución en espada.
+
+b. Se han relacionado los errores más frecuentes en la ejecución de las acciones de técnica de parada según la distancia, por cesión en 1.ª y laterales de 7.ª y 8.ª con las causas y las tareas de corrección.
+
+c. Se han analizando las partes en que se dividen los elementos de las acciones de técnica de parada según la distancia, por cesión en 1.ª y laterales de 7.ª y 8.ª y las cualidades (la fuerza, la velocidad, el ritmo, la sensibilidad) de su modo de ejecución en espada.
+
+d. Se han enumerado los ejercicios de refuerzo técnico-táctico correspondiente a las acciones de técnica de parada según la distancia, por cesión en 1.ª y laterales de 7.ª y 8.ª.
+
+e. Se ha demostrado un comportamiento ajustado en modo y tiempo a las acciones del alumno asistiéndole en situaciones de colaboración oposición, en el trabajo de las acciones de técnica de parada según la distancia, por cesión en 1.ª y laterales de 7.ª y 8.ª.
+
+f. Se han descrito el uso de los medios de entrenamiento específicos (plastrón, espejo, y otros) en el aprendizaje de las acciones de técnica de parada según la distancia, por cesión en 1.ª y laterales de 7.ª y 8.ª.
+
+g. Se ha justificado el orden jerárquico de las acciones de parada según su eficacia, interiorizado la necesidad de reforzar estas acciones en el sistema defensivo de los espadistas a su cargo.
+
+6\. Valora la ejecución técnico-táctica del espadista en el uso de la segunda intención en el alto nivel en la lección y en la competición, describiendo los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+a. Se han analizando las acciones de segunda intención, y descrito los errores más frecuentes en su ejecución en espada.
+
+b. Se han relacionado los errores más frecuentes en la ejecución de las acciones de segunda intención con las causas y las tareas de corrección.
+
+c. Se han analizando las partes en que se dividen los elementos de las acciones de segunda intención y las cualidades (la fuerza, la velocidad, el ritmo, la sensibilidad) de su modo de ejecución en espada.
+
+d. Se han enumerado los ejercicios de refuerzo técnico-táctico correspondiente a las acciones de segunda intención en espada.
+
+e. Se ha demostrado un comportamiento ajustado en modo y tiempo a las acciones del alumno asistiéndole en situaciones de colaboración oposición, en el trabajo de las acciones de segunda intención.
+
+f. Se han descrito el uso de los medios de entrenamiento específicos (plastrón, espejo, y otros) en el aprendizaje de la segunda intención.
+
+g. Se ha interiorizado la importancia de la enseñanza de las acciones de segunda intención para la obtención del alto nivel deportivo en la alta competición en espada.
+
+Contenidos básicos
+
+1\. Elabora un sistema táctico de combate y prepara al espadista para su ejecución, analizando los sistemas estratégicos y tácticos existentes y aplicando secuencias prácticas para su consolidación.
+
+– Principales sistemas estratégicos utilizados en el espadista de alto nivel: escuelas más influyentes. Evolución histórica.
+
+– Principales sistemas tácticos utilizados en el espadista de alto nivel.
+
+– Modelos alternativos de actuación táctica (diferentes soluciones para obtener la prioridad según la convención del espadista ante un problema deportivo).
+
+– Modelos estratégicos, sistemas tácticos y las razones para su evolución.
+
+– Las características del espadista y su influencia en la elaboración del sistema táctico.
+
+– Capacidades técnico-tácticas de los esgrimistas según su rol en el equipo.
+
+– Valoración de los esgrimistas según sus capacidades para la elaboración de un sistema táctico para la competición por equipos.
+
+– Procedimientos para la valoración del sistema táctico del/los esgrimistas en el entrenamiento y la competición.
+
+– Valoración del rendimiento del sistema táctico para la obtención del alto nivel (estadística de eficacia de las actuaciones tácticas dentro de la interpretación de la convención).
+
+– Técnicas y procedimientos aplicados.
+
+– Análisis y discusión de los resultados.
+
+2\. Dirige y dinamiza la sesión de entrenamiento de los espadistas, asistiéndoles durante la lección individual de esgrima adaptándose al nivel del espadista y al momento de la temporada de manera adecuada.
+
+– La demostración de las técnicas de Espada de alto nivel como medio de enseñanza-aprendizaje y entrenamiento. Asistencia.
+
+– Los gestos técnicos y las cualidades de ejecución en el espadista de alto nivel.
+
+– Técnicas de asistencia en la lección individual de espada en el nivel de alto rendimiento.
+
+– La actuación del técnico durante la dirección del entrenamiento.
+
+– Estrategia de formación global de los espadistas.
+
+– Las lecciones de entrenamiento en función de las capacidades de los deportistas, en momento de la temporada o su nivel de formación.
+
+– Valoración y evaluación del rendimiento del entrenamiento específico para la obtención del alto nivel.
+
+– Análisis y discusión de los resultados.
+
+3\. Valora la ejecución técnico-táctica del espadista en las acciones de técnica de piernas compuestas, desplazamiento y distancia propias del alto nivel, en la lección y en la competición, analizando los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+– Técnicas de piernas compuestas:
+
+– Esquivas laterales.
+
+– Patinando.
+
+– Paso resbalado húngaro.
+
+– Cualidades de la manera de ejecución de las acciones de técnica de piernas compuestas: la fuerza, la velocidad, el ritmo, la sensibilidad, el movimiento de la punta, la fluidez, etc.
+
+– La verificación y observación de las acciones de técnica de piernas compuestas: Protocolos y técnicas de aplicación.
+
+– La asistencia en situación de colaboración-oposición de las acciones de técnica de piernas compuestas.
+
+– Medios de entrenamiento especifico de la tecnificación deportiva a la espada: Características de uso:
+
+– Plastrón: entrenamiento de las combinaciones de acciones de la mano y de técnica de piernas.
+
+– Espejo: Visualización de la ejecución de las acciones programadas.
+
+4\. Valora ejecución técnico-táctica del espadista en las acciones de golpe lanzado y cortado, propias del alto nivel, en la lección y en la competición, analizando los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+– Técnicas de ataques simples directos e indirectos con golpe lanzado y su uso como finta.
+
+– Técnicas de golpe cortado (coupe), y su uso como finta.
+
+– Cualidades de la manera de ejecución de las acciones con golpe lanzado y con golpe cortado: la fuerza, la velocidad, el ritmo, la sensibilidad, el movimiento de la punta, la fluidez, etc.
+
+– La verificación y observación de técnicas de las acciones con golpe lanzado y con golpe cortado): Protocolos y técnicas de aplicación.
+
+– La asistencia en situación de colaboración-oposición de las acciones con golpe lanzado y con golpe cortado.
+
+– Medios de entrenamiento específicos en espada: Características de uso:
+
+– Plastrón: entrenamiento de las combinaciones de acciones de la mano y de técnica de piernas.
+
+– Espejo: visualización de la ejecución de las acciones programadas.
+
+5\. Valora la ejecución técnico-táctica del espadista en el uso de las paradas según la distancia, por cesión en 1.ª y laterales de 7.ª y 8.ª en la lección y en la competición, describiendo los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+– Técnicas de Paradas según la distancia: cortas y largas:
+
+– Cortas.
+
+– Medias.
+
+– Largas.
+
+– Técnicas de Paradas según la trayectoria de la punta:
+
+– Laterales (7.ª y 8.ª), circulares (7.ª), semicirculares (4.ª y 7.ª) y Diagonales 8.ª.
+
+– Técnicas de Paradas según su manera de ejecución:
+
+– Cesión de 1.ª y contrarespuesta de 1.ª.
+
+– Todas las posiciones menos la de 4.ª (vista ya en el nivel anterior) y las cambio-paradas.
+
+– Cualidades de la manera de ejecución de las acciones de paradas según la distancia, según su manera de ejecución, y según la trayectoria de la punta: la fuerza, la velocidad, el ritmo, la sensibilidad, el movimiento de la punta, la fluidez, etc.
+
+– La verificación y observación de técnicas de las acciones de paradas según la distancia, según su manera de ejecución, y según la trayectoria de la punta: Protocolos y técnicas de aplicación.
+
+– La asistencia en situación de colaboración-oposición de las acciones de paradas según la distancia, según su manera de ejecución y según la trayectoria de la punta.
+
+– Medios de entrenamiento especifico a la espada: Características de uso:
+
+– Plastrón: entrenamiento de las combinaciones de acciones de la mano y de técnica de piernas.
+
+– Espejo: visualización de la ejecución de las acciones programadas.
+
+6\. Valora la ejecución técnico-táctica del espadista en el uso de la segunda intención en el alto nivel en la lección y en la competición, describiendo los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+– Técnicas de acciones de segunda intención: las preparaciones con las acciones de piernas, de la mano y las combinaciones de ambas.
+
+– Las acciones de segunda intención:
+
+– Contratiempo defensivo.
+
+– Contratiempo contraofensivo.
+
+– Finta en tiempo: Contraataque compuesto.
+
+– Cualidades de la manera de ejecución de las acciones de segunda intención: la fuerza, la velocidad, el ritmo, la sensibilidad, el movimiento de la punta, la fluidez, etc.
+
+– La verificación y observación de técnicas de las acciones de segunda intención: Protocolos y técnicas de aplicación.
+
+– La asistencia en situación de colaboración-oposición de las acciones de segunda intención.
+
+– Medios de entrenamiento especifico a la espada: Características de uso:
+
+– Plastrón: Entrenamiento de las combinaciones de acciones de la mano y de técnica de piernas.
+
+– Espejo: Visualización de la ejecución de las acciones programadas.
+
+> Se numera como Anexo II.j por el art. 5.2.j) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.k — Módulo específico de enseñanza deportiva: Técnica de Florete
+
+Código: MED-ESES306
+
+Resultados de Aprendizaje y Criterios de Evaluación
+
+1\. Elabora un sistema táctico de combate y prepara al floretista para su ejecución, analizando los sistemas estratégicos y tácticos existentes y aplicando secuencias prácticas para su consolidación.
+
+a. Se han analizado los diferentes sistemas estratégicos y tácticos de las diferentes escuelas más influyentes en el florete de alto nivel.
+
+b. Se ha desarrollado un sistema táctico propio de aplicación ante las diferentes estrategias adversas y las variaciones tácticas, teniendo en cuenta las características de los floretistas a su cargo.
+
+c. Se han analizado las características de los floretistas para su adaptación al sistema táctico y establecer los roles en la competición por equipos.
+
+d. Se han justificado las características que conforman un sistema estratégico, un sistema táctico, una actuación táctica, etc.
+
+e. Se han elaborado los instrumentos de observación de la ejecución técnica dentro del sistema táctico de florete de alto nivel durante la lección, el entrenamiento y la competición de de este nivel.
+
+f. Se ha analizado el modo de ejecución de cada uno de los elementos técnicos propios del alto nivel deportivo en florete conforme al modelo ideal.
+
+g. Se ha elaborado un protocolo de verificación de la aplicación de las acciones previstas dentro del sistema táctico desarrollado previamente.
+
+h. Se ha explicado la convención que rige en la práctica del florete y el orden jerárquico de cada una las acciones dentro del sistema táctico.
+
+i. Se han identificado los errores más frecuentes en la aplicación del sistema táctico, relacionándolos con las posibles causas, proponiendo tareas para su solución.
+
+j. Se han elaborado secuencias prácticas para reforzar el aprendizaje de las reacciones apropiadas al sistema táctico propio.
+
+k. Se ha interiorizado la necesidad de hacer participes a los floretistas en el desarrollo del sistema táctico en el nivel de alto rendimiento deportivo como factor de obtención de los objetivos propuestos.
+
+2\. Dirige y dinamiza la sesión de entrenamiento de los floretistas, asistiéndole durante la lección individual de esgrima adaptándose a las características del floretista y al momento de la temporada de manera adecuada.
+
+a. Se han expuesto las partes en que se dividen los gestos técnicos y las cualidades (la fuerza, la velocidad, el ritmo, la sensibilidad, el movimiento de la punta, la fluidez, etc.) de su modo de ejecución en florete en el alto nivel deportivo.
+
+b. Se han justificado los principios y estímulos utilizados en la asistencia técnica en el trabajo individualizado de las acciones de florete de alto nivel.
+
+c. Se ha demostrado un comportamiento ajustado en modo y tiempo a las acciones del alumno asistiéndole en situaciones de colaboración oposición, en el trabajo de las acciones técnico-tácticas propias de la lección individual de este nivel.
+
+d. Se ha adaptado el sistema de entrenamiento y desarrollo técnico-táctico a las características y cualidades individuales de cada floretista.
+
+e. Se han analizado las características del comportamiento del técnico deportivo de florete durante la sesión de entrenamiento de alto rendimiento deportivo.
+
+f. Se ha elaborado un protocolo de verificación del roll del entrenador de florete de alto nivel durante la sesión de entrenamiento, de aplicación a los floretistas a su cargo.
+
+g. Se han diseñado las diferentes lecciones de entrenamiento de mayor potencial, relacionándolas con el momento de la temporada, el nivel del deportista y su situación/etapa de formación.
+
+h. Se han identificado los errores más frecuentes en la asistencia, relacionándolos con las posibles causas, proponiendo tareas para su solución.
+
+i. Se ha demostrado capacidad y dinamismo en la dirección de un grupo deportivo de alto nivel en la modalidad deportiva de florete.
+
+3\. Dirige al esgrimista en competiciones de alto nivel, analizando los factores que condicionan el rendimiento, seleccionando las estrategias de intervención, mediando en los procesos de inscripción y reclamación en el idioma oficial de la FIE.
+
+a. Se ha fundamentado las funciones del técnico deportivo en las competiciones de alto nivel de esgrima.
+
+b. Se han justificado las características del comportamiento del técnico deportivo de esgrima durante la competición de alto nivel.
+
+c. Se han analizado las características y exigencias básicas de las competiciones de alto nivel de esgrima.
+
+d. Se han elegido los criterios de análisis de las competiciones de alto nivel de esgrima.
+
+e. Se ha analizado un supuesto de competiciones de alto nivel de esgrima, identificando las demandas técnicas, tácticas, físicas y psicológicas para el esgrimista.
+
+f. Se han justificado los criterios para la selección y formación de equipos en las competiciones de alto nivel de esgrima, en base a razones técnicas, estratégicas, tácticas, físicas y psicológicas.
+
+g. Comprende las frases de armas en el idioma oficial de la FIE.
+
+h. Se ha realizado, en un supuesto práctico,unareclamación oficial en francés ante el Directorio Técnico de la competición utilizando los términos adecuados.
+
+i. Se han reconocido los sistemas estratégicos y las variaciones tácticas de los adversarios en la competición de alto nivel en esgrima.
+
+j. Se han seleccionado y precisado las adaptaciones de los materiales personales y colectivos en un supuesto de competición de alto nivel de esgrima.
+
+Contenidos básicos
+
+1\. Elabora un sistema táctico de combate y prepara al floretista para su ejecución, analizando los sistemas estratégicos y tácticos existentes y aplicando secuencias prácticas para su consolidación.
+
+– Principales sistemas estratégicos utilizados en el florete de alto nivel: escuelas más influyentes. Evolución histórica.
+
+– Principales sistemas tácticos utilizados en el florete de alto nivel.
+
+– Modelos alternativos de actuación táctica (diferentes soluciones para obtener la prioridad según la convención del Florete ante un problema deportivo).
+
+– Modelos estratégicos, sistemas tácticos y las razones para su evolución.
+
+– Las características del floretista/as y su influencia en la elaboración del sistema táctico.
+
+– Capacidades técnico-tácticas de los esgrimistas según rol en el equipo.
+
+– Valoración de los esgrimistas según sus capacidades para la elaboración de un sistema táctico para la competición por equipos.
+
+– Procedimientos para la valoración del sistema táctico del/los esgrimistas en el entrenamiento y la competición.
+
+– Valoración del rendimiento del sistema táctico para la obtención del alto nivel (estadística de eficacia de las actuaciones tácticas dentro de la interpretación de la convención).
+
+– Técnicas y procedimientos aplicados.
+
+– Análisis y discusión de los resultados.
+
+2\. Dirige y dinamiza la sesión de entrenamiento de los floretistas, asistiéndole durante la lección individual de esgrima adaptándose al nivel del floretista y al momento de la temporada de manera adecuada.
+
+– La demostración de las Técnicas de Florete de alto nivel como medio de enseñanza-aprendizaje y entrenamiento. Asistencia.
+
+– Los gestos técnicos y las cualidades de ejecución en el florete de alto nivel.
+
+– Técnicas de asistencia en la lección individual de florete en el nivel de alto rendimiento.
+
+– La actuación del técnico durante la dirección del entrenamiento.
+
+– Estrategia de formación global de los floretistas.
+
+– Selección de las lecciones en función de las capacidades de los deportistas, el momento de la temporada o su nivel de formación.
+
+– Valoración y evaluación del rendimiento del entrenamiento específico para la obtención del alto nivel.
+
+– Análisis y discusión de los resultados.
+
+3\. Dirige al floretista en competiciones de alto nivel, analizando los factores que condicionan el rendimiento, seleccionando las estrategias de intervención, mediando en los procesos de inscripción y reclamación en el idioma oficial de la FIE.
+
+– Funciones del técnico deportivo superior. Análisis y valoración de la actuación del técnico durante la competición.
+
+– Exigencias físicas, técnicas, tácticas, fisiológicas, psicológicas, etc., en la competición de alto nivel individual y por equipos.
+
+– El idioma francés en la esgrima. Las frases de armas y los mecanismos de reclamación en el idioma oficial de la FIE.
+
+– Protocolos de reclamación y de inscripción en competiciones.
+
+– Normativas internacionales sobre sellos identificativos de homologación del material competitivo. Normativas actualizadas sobre publicidad y logotipos sobre el traje del tirador.
+
+> Se numera como Anexo II.k por el art. 5.2.k) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.l — Módulo específico de enseñanza deportiva: Técnica de Sable
+
+Código: MED-ESES307
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Elabora un sistema táctico de combate y prepara al sablista para su ejecución, analizando los sistemas estratégicos y tácticos existentes y aplicando secuencias prácticas para su consolidación.
+
+a. Se han analizado los diferentes sistemas estratégicos y tácticos de las diferentes escuelas más influyentes en el sable de alto nivel.
+
+b. Se ha desarrollado un sistema táctico propio de aplicación ante las diferentes estrategias adversas y las variaciones tácticas, teniendo en cuenta las características de los sablistas a su cargo.
+
+c. Se han analizado las características de los sablistas para su adaptación al sistema táctico y establecer los roles en la competición por equipos.
+
+d. Se han justificado las características que conforman un sistema estratégico, un sistema táctico, una actuación táctica, etc.
+
+e. Se han elaborado los instrumentos de observación de la ejecución técnica dentro del sistema táctico de sable de alto nivel durante la lección, el entrenamiento y la competición de este nivel.
+
+f. Se ha analizado el modo de ejecución de cada uno de los elementos técnicos propios del alto nivel deportivo en sable conforme al modelo ideal.
+
+g. Se ha elaborado un protocolo de verificación de la aplicación de las acciones previstas dentro del sistema táctico desarrollado previamente.
+
+h. Se ha explicado la convención que rige en la práctica del sable y el orden jerárquico de cada una las acciones dentro del sistema táctico.
+
+i. Se han identificado los errores más frecuentes en la aplicación del sistema táctico, relacionándolos con las posibles causas, proponiendo tareas para su solución.
+
+j. Se han elaborado secuencias prácticas para reforzar el aprendizaje de las reacciones apropiadas al sistema táctico propio.
+
+k. Se ha interiorizado la necesidad de hacer participes a los sablistas en el desarrollo del sistema táctico en el nivel de alto rendimiento deportivo como factor de obtención de los objetivos propuestos.
+
+2\. Dirige y dinamiza la sesión de entrenamiento de los sablistas, asistiéndole durante la lección individual de esgrima adaptándose a las características del sablista y al momento de la temporada de manera adecuada.
+
+a. Se han expuesto las partes en que se dividen los gestos técnicos y las cualidades (la fuerza, la velocidad, el ritmo, la sensibilidad, el movimiento de la punta, la fluidez, etc.) de su modo de ejecución en sable en el alto nivel deportivo.
+
+b. Se han justificado los principios y estímulos utilizados en la asistencia técnica en el trabajo individualizado de las acciones de sable de alto nivel.
+
+c. Se ha demostrado un comportamiento ajustado en modo y tiempo a las acciones del alumno asistiéndole en situaciones de colaboración oposición, en el trabajo de las acciones técnico-tácticas propias de la lección individual de este nivel.
+
+d. Se ha adaptado el método de entrenamiento y desarrollo técnico-táctico a las características y cualidades individuales de cada sablista.
+
+e. Se han analizado las características del comportamiento del técnico deportivo de sable durante la sesión de entrenamiento de alto rendimiento deportivo.
+
+f. Se ha elaborado un protocolo de verificación del rol del entrenador de sable de alto nivel durante la sesión de entrenamiento, de aplicación a los sablistas a su cargo.
+
+g. Se han diseñado las diferentes lecciones de entrenamiento de mayor potencial, relacionándolas con el momento de la temporada, el nivel del deportista y su situación/etapa de formación.
+
+h. Se han identificado los errores más frecuentes en la asistencia, relacionándolos con las posibles causas, proponiendo tareas para su solución.
+
+i. Se ha demostrado capacidad y dinamismo en la dirección de un grupo deportivo de alto nivel en la modalidad deportiva de sable.
+
+3\. Valora la ejecución técnico-táctica del sablista en las acciones de técnica de piernas compuestas, desplazamiento y distancia propias del alto nivel, en la lección y en la competición, analizando los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+a. Se han analizando las acciones de técnica de piernas compuestas, y las esquivas laterales, y descrito los errores más frecuentes en su ejecución en sable.
+
+b. Se han relacionado los errores más frecuentes en la ejecución de las acciones de técnica de piernas compuestas, y las esquivas laterales con las causas y las tareas de corrección.
+
+c. Se han analizando las partes en que se dividen los elementos de técnica de piernas compuestas, y las esquivas laterales y las cualidades (la fuerza, la velocidad, el ritmo, la sensibilidad) de su modo de ejecución en sable.
+
+d. Se han enumerado los ejercicios de refuerzo técnico-táctico correspondientes a las acciones de técnica de piernas compuestas, y las esquivas laterales.
+
+e. Se ha demostrado un comportamiento ajustado en modo y tiempo a las acciones del alumno asistiéndole en situaciones de colaboración oposición, en el trabajo de las acciones de técnica de piernas compuestas, y las esquivas laterales en sable.
+
+f. Se han descrito el uso de los medios de entrenamiento específicos (plastrón, espejo, y otros) en el aprendizaje de las acciones de técnica de piernas compuestas y las esquivas laterales.
+
+g. Se han identificado los errores más frecuentes, relacionándolos con las posibles causas, proponiendo tareas para su solución.
+
+h. Se ha interiorizado la importancia del entrenamiento de las técnicas de piernas y desplazamiento y distancia como factor importante en el desarrollo del alto nivel deportivo en sable.
+
+4\. Valora la ejecución técnico-táctica del sablista en las acciones de técnicas de contraataque, continuación de ataque y ataques simples diagonales y sobre la preparación, propias del alto nivel, en la lección y en la competición, analizando los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+a. Se han analizado las acciones de contraataque, continuación de ataque y ataques simples diagonales y sobre la preparación, y descrito los errores más frecuentes en su ejecución en sable.
+
+b. Se han analizado las partes en que se dividen los elementos técnicos de los contraataques, continuación de ataque y ataques simples diagonales y sobre la preparación y las cualidades (la fuerza, la velocidad, el ritmo, la sensibilidad) de su modo de ejecución en sable.
+
+c. Se han identificado los errores más frecuentes, relacionándolos con las posibles causas, proponiendo tareas para su solución.
+
+d. Se han justificado los ejercicios de refuerzo técnico-táctico correspondientes a las acciones de los contraataques, continuación de ataque y ataques simples diagonales y sobre la preparación en sable.
+
+e. Se ha demostrado un comportamiento ajustado en modo y tiempo a las acciones del alumno asistiéndole en situaciones de colaboración oposición, en el trabajo de las acciones de los contraataques, continuación de ataque y ataques simples diagonales y sobre la preparación en sable.
+
+f. Se han descrito el uso de los medios de entrenamiento específicos (plastrón, espejo, y otros) en el aprendizaje de las acciones de técnica de contraataques, continuación de ataque y ataques simples diagonales y sobre la preparación.
+
+g. Se ha interiorizado la necesidad de reforzar las cualidades más destacadas de los sablistas minimizando los errores, como factor de mejora de la técnica.
+
+5\. Valora la ejecución técnico-táctica del sablista en el uso de las paradas complementarias en el alto nivel en la lección y en la competición, analizado los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+a. Se han analizado las acciones de paradas complementarias (las contras de 2.ª, 3.ª, 4.ª y 5.ª), y descrito los errores más frecuentes en su ejecución en sable.
+
+b. Se han analizado las partes en que se dividen las acciones de las paradas complementarias y las cualidades (la fuerza, la velocidad, el ritmo, la sensibilidad) de su modo de ejecución en sable.
+
+c. Se ha demostrado un comportamiento ajustado en modo y tiempo a las acciones del alumno asistiéndole en situaciones de colaboración oposición, en el trabajo las acciones de las paradas complementarias.
+
+d. Se han analizado las acciones de las paradas complementarias, y descrito los errores más frecuentes en su ejecución en sable.
+
+e. Se ha demostrado un comportamiento ajustado en modo y tiempo a las acciones del alumno asistiéndole en situaciones de colaboración oposición, en el trabajo de las paradas complementarias.
+
+f. Se han enumerado los ejercicios de refuerzo técnico-táctico correspondientes a las acciones de las paradas complementarias.
+
+g. Se han descrito el uso de los medios de entrenamiento específicos (plastrón, espejo, y otros) en el aprendizaje de las acciones de las paradas complementarias.
+
+h. Se han identificado los errores más frecuentes, relacionándolos con las posibles causas, proponiendo tareas para su solución.
+
+i. Se ha justificado el orden jerárquico de las acciones de parada según su eficacia, interiorizado la necesidad de reforzar estas acciones en el sistema defensivo de los sablistas a su cargo.
+
+6\. Valora la ejecución técnico-táctica del sablista en el uso de la segunda intención en el alto nivel en la lección y en la competición, describiendo los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+a. Se han analizando las acciones de segunda intención, y descrito los errores más frecuentes en su ejecución en sable.
+
+b. Se han relacionado los errores más frecuentes en la ejecución de las acciones de segunda intención con las causas y las tareas de corrección.
+
+c. Se han analizando las partes en que se dividen los elementos de las acciones de segunda intención y las cualidades (la fuerza, la velocidad, el ritmo, la sensibilidad) de su modo de ejecución en sable.
+
+d. Se han enumerado los ejercicios de refuerzo técnico-táctico correspondiente a las acciones de segunda intención en sable.
+
+e. Se ha demostrado un comportamiento ajustado en modo y tiempo a las acciones del alumno asistiéndole en situaciones de colaboración oposición, en el trabajo de las acciones de segunda intención.
+
+f. Se han identificado los errores más frecuentes, relacionándolos con las posibles causas, proponiendo tareas para su solución.
+
+g. Se han descrito el uso de los medios de entrenamiento específicos (plastrón, espejo, y otros) en el aprendizaje de las acciones de técnica de contraataques, continuación de ataque y ataques simples diagonales y sobre la preparación.
+
+h. Se ha interiorizado la importancia de la enseñanza de las acciones de segunda intención para la obtención del alto nivel deportivo en la alta competición en sable.
+
+Contenidos básicos
+
+1\. Elabora un sistema táctico de combate y prepara al sablista para su ejecución, analizando los sistemas estratégicos y tácticos existentes y aplicando secuencias prácticas para su consolidación.
+
+– Principales sistemas estratégicos utilizados en el sable de alto nivel: escuelas más influyentes. Evolución histórica.
+
+– Principales sistemas tácticos utilizados en el sable de alto nivel.
+
+– Modelos alternativos de actuación táctica (diferentes soluciones para obtener la prioridad según la convención del sable ante un problema deportivo).
+
+– Modelos estratégicos, sistemas tácticos y las razones para su evolución.
+
+– Las características del sablista/as y su influencia en el elaboración del sistema táctico.
+
+– Capacidades técnico-tácticas de los esgrimistas según rol en el equipo.
+
+– Valoración de los esgrimistas según sus capacidades para la elaboración de un sistema táctico para la competición por equipos.
+
+– Procedimientos para la valoración del sistema táctico del/los esgrimistas en el entrenamiento y la competición.
+
+– Valoración del rendimiento del sistema táctico para la obtención del alto nivel (estadística de eficacia de las actuaciones tácticas dentro de la interpretación de la convención).
+
+– Técnicas y procedimientos aplicados.
+
+– Análisis y discusión de los resultados.
+
+2\. Dirige y dinamiza la sesión de entrenamiento de los sablistas, asistiéndole durante la lección individual de esgrima adaptándose al nivel del sablista y al momento de la temporada de manera adecuada.
+
+– La demostración de las Técnicas de sable de alto nivel como medio de enseñanza-aprendizaje y entrenamiento. Asistencia.
+
+– Los gestos técnicos y las cualidades de ejecución en el sable de alto nivel.
+
+– Técnicas de asistencia en la lección individual de sable en el nivel de alto rendimiento.
+
+– La actuación del técnico durante la dirección del entrenamiento.
+
+– Estrategia de formación global de los sablistas.
+
+– Las lecciones de entrenamiento en función de las capacidades de los deportistas, en momento de la temporada o su nivel de formación.
+
+– Valoración y evaluación del rendimiento del entrenamiento específico para la obtención del alto nivel.
+
+– Análisis y discusión de los resultados.
+
+3\. Valora la ejecución técnico-táctica del sablista en las acciones de técnica de piernas compuestas, desplazamiento y distancia propias del alto nivel, en la lección y en la competición, analizando los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+– Técnicas de piernas compuestas: el cambio de guardia atrás y el redoble; las esquivas.
+
+– Los contraataques: acciones contraofensivas compuestas:la finta en tiempo.
+
+– Cualidades de la manera de ejecución de las acciones de técnicas de piernas compuestas: la fuerza, la velocidad, el ritmo, la sensibilidad, el movimiento de la punta, la fluidez, etc.
+
+– La verificación y observación de técnicas de piernas compuestas: Protocolos y técnicas de aplicación.
+
+– La asistencia en situación de colaboración-oposición de las acciones de técnicas de piernas compuestas.
+
+– Medios de entrenamiento especifico de la tecnificación deportiva al sable: Características de uso:
+
+– Plastrón: Entrenamiento de las combinaciones de acciones de la mano y de técnica de piernas.
+
+– Espejo: Visualización de la ejecución de las acciones programadas.
+
+4\. Valora la ejecución técnico-táctica del sablista en las acciones de técnica de contraataques, continuación de ataque y ataques simples diagonales y sobre la preparación, propias del alto nivel, en la lección y en la competición, analizando los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+– Técnicas de ataques simples: diagonales por abajo con pronación, con supinación y en punta. Los ataques sobre la preparación: con fondo y con flecha de sable.
+
+– Técnicas de contraataques:
+
+– Acciones contraofensivas directas.
+
+– Acciones contraofensivas indirectas.
+
+– Las continuaciones de ataque: simples y compuestas.
+
+– Cualidades de la manera de ejecución de las acciones de ataque simples (diagonales por abajo con pronación, con supinación y en punta), de los ataques sobre la preparación (con fondo y con flecha de sable), de las acciones contraofensivas compuestas (la finta en tiempo, y de las continuaciones de ataque (simples y compuestas): la fuerza, la velocidad, el ritmo, la sensibilidad, el movimiento de la punta, la fluidez, etc.
+
+– La verificación y observación de técnicas de ataque simples (diagonales por abajo con pronación, con supinación y en punta), de los ataques sobre la preparación (con fondo y con flecha de sable), de las acciones contraofensivas compuestas (la finta en tiempo), y de las continuaciones de ataque (simples y compuestas): Protocolos y técnicas de aplicación.
+
+– La asistencia en situación de colaboración-oposición de las acciones de de ataque simples (diagonales por abajo con pronación, con supinación y en punta), de los ataques sobre la preparación (con fondo y con flecha de sable), de las acciones contraofensivas compuestas (la finta en tiempo), y de las continuaciones de ataque (simples y compuestas).
+
+– Medios de entrenamiento especifico de la tecnificación deportiva en el sable: Características de uso:
+
+– Plastrón: entrenamiento de las combinaciones de acciones de la mano y de técnica de piernas.
+
+– Espejo: visualización de la ejecución de las acciones programadas.
+
+5\. Valora la ejecución técnico-táctica del sablista en el uso de las paradas complementarias en el alto nivel en la lección y en la competición, analizado los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+– Técnicas paradas complementarias: de contra de 2.ª, 3.ª, 4.ª y 5.ª.
+
+– Cualidades de la manera de ejecución de las acciones de paradas complementarias: de contra de 2.ª, 3.ª, 4.ª y 5.ª: la fuerza, la velocidad, el ritmo, la sensibilidad, el movimiento de la punta, la fluidez, etc.
+
+– La verificación y observación de técnicas de las acciones de paradas complementarias: de contra de 2.ª, 3.ª, 4.ª y 5.ª: Protocolos y técnicas de aplicación.
+
+– La asistencia en situación de colaboración-oposición de las acciones de paradas complementarias: de contra de 2.ª, 3.ª, 4.ª y 5.ª.
+
+– Medios de entrenamiento especifico de la tecnificación deportiva en el sable: Características de uso:
+
+– Plastrón: Entrenamiento de las combinaciones de acciones de la mano y de técnica de piernas.
+
+– Espejo: Visualización de la ejecución de las acciones programadas.
+
+6\. Valora la ejecución técnico-táctica del sablista en el uso de la segunda intención en el alto nivel en la lección y en la competición, describiendo los elementos técnicos identificando los errores más habituales y las tareas de corrección, aplicando técnicas de asistencia para su aprendizaje y consolidación.
+
+– Técnicas de acciones de segunda intención: las preparaciones con las acciones de piernas, de la mano y las combinaciones de ambas.
+
+– Las acciones de segunda intención:
+
+– Contratiempo defensivo.
+
+– Contratiempo contraofensivo.
+
+– Finta en tiempo: Contraataque compuesto.
+
+– Cualidades de la manera de ejecución de las acciones de segunda intención: la fuerza, la velocidad, el ritmo, la sensibilidad, el movimiento de la punta, la fluidez, etc.
+
+– La verificación y observación de técnicas de las acciones de segunda intención: Protocolos y técnicas de aplicación.
+
+– La asistencia en situación de colaboración-oposición de las acciones las acciones de segunda intención.
+
+– Medios de entrenamiento especifico de la tecnificación deportiva al sable: Características de uso:
+
+– Plastrón: entrenamiento de las combinaciones de acciones de la mano y de técnica de piernas.
+
+– Espejo: visualización de la ejecución de las acciones programadas.
+
+> Se numera como Anexo II.l por el art. 5.2.l) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.m — Módulo de enseñanza deportiva: Proyecto
+
+Código: MED-ESES308
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Diseña proyectos relacionados con las competencias del técnico deportivo superior en esgrima, fundamentando el proyecto en la información recogida, desarrollando las fases que lo componen y realizando las previsiones de recursos humanos y materiales.
+
+a. Se ha elegido un tema que permite integrar los conocimientos adquiridos en los diferentes bloques y módulos del ciclo superior en esgrima.
+
+b. Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto.
+
+c. Se han identificado las fases o partes que componen el proyecto y sus contenidos.
+
+d. Se han establecido los objetivos que se pretenden conseguir identificando su alcance.
+
+e. Se han valorado los aspectos que pueden facilitar o dificultar el desarrollo del proyecto.
+
+f. Se han previsto y priorizado los recursos materiales y personales necesarios, de acuerdo con los objetivos del proyecto.
+
+g. Se ha realizado el presupuesto económico correspondiente.
+
+h. Se han identificado las posibles fuentes de financiación del proyecto, en base a las necesidades del mismo.
+
+i. Se han identificado los aspectos que se deben controlar y de los que depende la calidad del proyecto.
+
+j. Se ha justificado la pertinencia y viabilidad del proyecto.
+
+k. Se ha valorado el rigor en la recogida de la información utilizada en la elaboración del proyecto.
+
+2\. Planifica y programa la ejecución del proyecto, determinando las fases o ciclos de preparación, la metodología utilizada y los recursos necesarios.
+
+a. Se han secuenciado y temporalizado las actividades ordenándolas en función de las necesidades de implantación del proyecto.
+
+b. Se ha elaborado la planificación del proyecto, periodizando y programando el entrenamiento y los recursos necesario, cuando el proyecto esté dirigido al alto rendimiento deportivo en esgrima.
+
+c. Se han determinado los recursos y la logística necesarios en cada actividad.
+
+d. Se han identificado los permisos y autorizaciones necesarios en cada una de las actividades.
+
+e. Se han determinado los procedimientos de actuación o ejecución de las actividades.
+
+f. Se han identificado los riesgos inherentes al desarrollo de las actividades, definiendo el plan de prevención de riesgos y los medios y equipos necesarios.
+
+g. Se han planificado la asignación de recursos materiales y humanos, y los tiempos de ejecución.
+
+h. Se ha hecho la valoración económica necesaria en la ejecución del proyecto.
+
+i. Se ha definido y elaborado la documentación necesaria en las previsiones y ejecución del proyecto.
+
+j. Se han relacionado/utilizado de una manera integradora y sinérgica los conceptos y procedimientos adquiridos en los diferentes módulos del ciclo superior en esgrima.
+
+k. Se han tenido en cuenta criterios de sostenibilidad a la hora de elegir las actividades, la metodología y los recursos utilizados en el proyecto.
+
+3\. Selecciona los procedimientos de seguimiento y control de la elaboración y ejecución del proyecto, justificando las funciones dentro del proyecto, la selección de variables e instrumentos empleados.
+
+a. Se ha definido el procedimiento de evaluación de las actividades, utilizando y combinando diferentes instrumentos de evaluación.
+
+b. Se han definido los indicadores de calidad utilizados en la evaluación del proyecto.
+
+c. Se han definido los procedimientos de evaluación de las incidencias que puedan presentarse durante la realización del proyecto, su posible solución y registro.
+
+d. Se ha definido el procedimiento de gestión de los posibles cambios en los recursos, en las actividades o en la dinámica de cargas, en el caso del entrenamiento de alto rendimiento, incluyendo el sistema de registro de los mismos.
+
+e. Se ha definido y elaborado la documentación necesaria en la evaluación de las actividades del proyecto.
+
+f. Se ha establecido el procedimiento de participación en la evaluación de los esgrimistas y se han elaborado los documentos específicos.
+
+g. Se ha establecido un sistema de garantía de cumplimiento del pliego de condiciones del proyecto cuando este exista.
+
+h. Se ha atendido a las consideraciones del tutor/director del proyecto durante la elaboración del mismo.
+
+i. Se ha cumplido con el seguimiento del proyecto según el procedimiento establecido por el tutor/director.
+
+j. Se ha mostrado una actitud de respeto y aceptación de las aportaciones realizadas por el tutor/director, integrando de forma constructiva las valoraciones recibidas en el proyecto.
+
+4\. Presenta el proyecto, seleccionando los aspectos relevantes del mismo, justificando las decisiones tomadas y utilizando los recursos didácticos y técnicos más adecuados en cada caso.
+
+a. Se ha definido y elaborado la documentación necesaria en la presentación y comunicación del proyecto.
+
+b. Se han utilizado los recursos didácticos y técnicos más adecuados para la presentación y comunicación del proyecto, incluyendo las nuevas tecnologías, de forma coherente con los objetivos del proyecto.
+
+c. Se ha presentado el proyecto, de forma clara, sintética, incluyendo los aspectos fundamentales que debía incluir la presentación.
+
+d. Se ha utilizado bibliografía actualizada en la fundamentación del trabajo, referenciándola de forma adecuada.
+
+e. Se ha contestado de forma precisa y justificada a las cuestiones realizadas sobre las características y fundamentación del proyecto.
+
+f. Se ha justificado suficientemente el proyecto y se ha argumentado su implementación.
+
+g. Se ha ajustado en la presentación del proyecto a la estructura establecida en los criterios de evaluación.
+
+h. Se ha presentado el proyecto, ajustándose a las características formales, estructura y apartados establecidos por el tribunal.
+
+i. Se han justificado en la presentación del proyecto, las relaciones existentes entre los diferentes resultados de aprendizaje adquiridos en los diferentes módulos del ciclo superior en esgrima.
+
+j. Se ha demostrado poseer una visión general del proyecto, relacionando la argumentación con la finalidad y las conclusiones del mismo.
+
+> Se numera como Anexo II.m por el art. 5.2.m) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.n — Módulo enseñanza deportiva: Formación práctica
+
+Código: MED-ESES309
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica la estructura organizativa y el funcionamiento del centro deportivo de prácticas (escuela deportiva, club, federación, empresa,…), relacionándola con su oferta de actividades de alto rendimiento deportivo y las actividades de gestión del mismo, aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a. Se han fundamentado las relaciones de la Real Federación Española de Esgrima con la Federación Internacional de Esgrima.
+
+b. Se ha categorizado la estructura organizativa y el funcionamiento de las distintas áreas del centro deportivo de prácticas.
+
+c. Se han clasificado las relaciones jerárquicas dentro del centro deportivo de prácticas.
+
+d. Se ha revidado la oferta de actividades vinculadas al alto rendimiento deportivo de esgrima.
+
+e. Se han relacionado las características del centro deportivo de prácticas con la normativa de responsabilidad de los técnicos que trabajan en el mismo.
+
+f. Se ha fundamentado la oferta de actividades orientada al alto rendimiento de esgrima en las mujeres.
+
+g. Se han reconocido los valores presentes en las actividades de esgrima del club o entidad deportiva.
+
+h. Se ha revisado el plan de actuación de emergencias de las instalaciones del centro deportivo de prácticas.
+
+i. Se ha identificado y analizado el Plan de Prevención de Riesgos Laborales del centro deportivo de prácticas.
+
+j. Se han revisado las condiciones laborales de los técnicos deportivos del centro deportivo de prácticas, en relación con la normativa sobre salud laboral.
+
+2\. Identifica la estructura organizativa y el funcionamiento del centro de formación de Técnicos deportivos, relacionándola con su oferta formativa, analizando la normativa de aplicación, aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a. Se han fundamentado las relaciones del centro de formación de técnicos de esgrima con la administración educativa correspondiente.
+
+b. Se ha categorizado la estructura organizativa y el funcionamiento del centro de formación de técnicos deportivos.
+
+c. Se han clasificado las relaciones jerárquicas dentro del centro de formación de técnicos deportivos.
+
+d. Se ha revisado la oferta de actividades vinculadas a la formación de Técnicos Deportivos en la modalidad deportiva.
+
+e. Se han analizado las características del centro de formación de técnicos deportivos, y la normativa sobre la responsabilidad del profesorado.
+
+f. Se ha esquematizado la normativa educativa y curricular vigente sobre formación de técnicos deportivos de esgrima.
+
+g. Se ha colaborado en la organización de las actividades económicas del centro de trabajo.
+
+h. Se han reconocido los valores presentes en las actividades de esgrima del club o entidad deportiva.
+
+3\. Colabora en la administración del centro deportivo de prácticas (escuela deportiva, club, federación, empresa,…), aplicando procedimientos de gestión económica y contable.
+
+a. Se ha colaborado en la organización de las actividades económicas del centro de trabajo.
+
+b. Se ha identificado la forma jurídica utilizada en la constitución del centro deportivo de prácticas, y el grado de responsabilidad legal de los propietarios y gestores.
+
+c. Se ha colaborado en los procedimientos administrativos básicos de gestión del centro deportivo de prácticas.
+
+d. Se han realizado trámites de petición de ayudas a la gestión del centro deportivo de prácticas.
+
+e. Se ha colaborado en la gestión de ayudas económicas que utiliza o puede utilizar el centro deportivo de prácticas.
+
+f. Se ha confeccionado documentación administrativa y comercial necesaria en el desarrollo de la actividad deportiva.
+
+g. Se han identificado las obligaciones y exenciones fiscales y tributarias del centro deportivo de prácticas.
+
+h. Se ha realizado la declaración de impuestos del centro deportivo de prácticas.
+
+i. Se ha tenido una actitud de respeto y cumplimiento de la normativa y los procedimientos de gestión económica del centro deportivo de prácticas.
+
+4\. Actúa con autonomía, iniciativa y responsabilidad en el puesto de trabajo, demostrando comportamiento ético, habilidades personales de comunicación, trabajo en equipo, aplicando los procedimientos establecidos por la empresa (entidad deportiva, club).
+
+a. Se han identificado los requerimientos actitudinales del puesto de trabajo.
+
+b. Se han interpretado y cumplido las instrucciones recibidas y responsabilizado del trabajo asignado.
+
+c. Se ha demostrado compromiso con el trabajo bien hecho y la calidad del servicio, así como respeto a los procedimientos y principios propios del club o entidad deportiva.
+
+d. Se ha demostrado capacidad de trabajo en equipo y respeto a la jerarquía establecida en el club o entidad deportiva.
+
+e. Se han establecido una comunicación y relación eficaz con el técnico responsable de la actividad y los miembros del equipo, manteniendo un trato fluido y correcto.
+
+f. Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante o imprevisto que se presente en la actividad.
+
+g. Se ha demostrado un comportamiento ético con los deportistas y los adversarios, en especial en presencia de los medios de comunicación.
+
+5\. Organiza y gestiona competiciones y eventos propios del nivel de la Iniciación y la Tecnificación Deportiva, y colabora en los de Alto Rendimiento, participando en la gestión y diseño de la competición, aplicando criterios de sostenibilidad.
+
+a. Se ha propuesto la estructura y las funciones que se deben desempeñar en la organización de una competición o evento deportivo de tecnificación en esgrima.
+
+b. Se han definido y aplicado los criterios de sostenibilidad en la organización de una competición o evento deportivo de tecnificación en esgrima.
+
+c. Se han localizado y gestionado las posibles ayudas a la esponsorización del deporte de la esgrima.
+
+d. Se ha gestionado la financiación de la organización de una competición o evento deportivo de tecnificación en esgrima.
+
+e. Se ha realizado la gestión y difusión de los resultados de una competición o evento deportivo de tecnificación o alto rendimiento en esgrima.
+
+f. Se ha participado en la gestión de personal y medios materiales de las diferentes áreas o comités de la organización de una competición o evento de tecnificación o alto rendimiento en esgrima.
+
+g. Se ha colaborado en la organización y realización de actos protocolarios de apertura, entrega y clausura de una competición o evento deportivo de tecnificación o alto rendimiento en esgrima.
+
+h. Se han tomado las medidas de seguridad y de atención a las emergencias en la organización de una competición o evento deportivo de tecnificación en esgrima.
+
+i. Se ha actuado de manera flexible y adaptable a las circunstancias en la organización de la competición, respetando los protocolos y directrices establecidas.
+
+6\. Orienta a los deportistas de alto nivel, y organiza, acompaña y dirige a los deportistas en su participación en actividades, competiciones y otros eventos internacionales o de alto nivel en esgrima, aplicando la normativa relacionada.
+
+a. Se ha informado a los deportistas de alto nivel de la normativa que les afecta y los programas de ayuda que existen a nivel nacional y autonómico.
+
+b. Se ha orientado a los deportistas de alto nivel sobre las salidas profesionales de su actividad deportiva, y de la importancia de mantener una formación académica o profesional paralelas a la vida deportiva.
+
+c. Se ha revisado e informado a los deportistas de la normativa antidopaje de aplicación en las competiciones internacionales o de alto nivel en las que se participa.
+
+d. Se ha realizado la inscripción del esgrimista o grupo de esgrimistas en una competición internacional o de alto nivel en esgrima, utilizando el idioma oficial (francés) y de acuerdo con los protocolos y las normas establecidas.
+
+e. Se han realizado las operaciones de gestión del seguro de accidente y actividad de un grupo de esgrimistas que participan en una competición internacional o de alto nivel, de acuerdo con las instrucciones y normas recibidas.
+
+f. Se ha reconocido y justificado la responsabilidad de un técnico en los desplazamientos de los esgrimistas para asistir a una competición internacional o de alto nivel.
+
+g. Se ha elaborado el plan de viaje de un esgrimista o grupo de esgrimistas para su participación en una competición internacional o de alto nivel, aplicando las instrucciones y procedimientos establecidos.
+
+h. Se ha informado al esgrimista de las características de la competición internacional o de alto nivel, interpretando la documentación sobre la misma.
+
+i. Se han trasladado al esgrimista las instrucciones técnicas y tácticas para la competición internacional o de alto nivel, teniendo en cuenta las características de la competición y del deportista.
+
+j. Se ha acompañado a los deportistas en las competiciones internacionales o de alto nivel, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
+
+k. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición internacional o de alto nivel en esgrima, aplicando los procedimientos adecuados y respetando las normas de la misma.
+
+l. Se han aplicado procedimientos de reclamación en una competición internacional o de alto nivel en esgrima, utilizando el idioma francés, aplicando los protocolos y normas establecidos.
+
+7\. Participa en la formación de técnicos deportivos, revisando la organización académica y curricular del centro, impartiendo clases y colaborando en la tutorización de los módulos de formación práctica y proyecto final.
+
+a. Se han identificado el tipo de centro docente de prácticas, el tipo de vinculación con la administración y la normativa que le es de aplicación a efectos de organización y funcionamiento.
+
+b. Se han identificado las responsabilidades del profesor especialista en esgrima y del técnico deportivo superior en esgrima, en la formación de los técnicos en la modalidad.
+
+c. Se han concretado los elementos de la programación didáctica de un módulo del bloque específico, atendiendo a su normativa de ordenación, a las características del alumnado, y el contexto del centro docente de prácticas.
+
+d. Se ha diseñado y colaborado en la realización de una presentación (de tareas y contenidos), atendiendo a las características del módulo específico y del resultado de aprendizaje que desarrollar, teniendo en cuenta las características de los alumnos del centro docente de prácticas.
+
+e. Se ha colaborado en el diseño y dirección de una sesión de trabajo práctico o procedimental, atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características de lo alumnos del centro docente de prácticas.
+
+f. Se ha participado en el proceso de evaluación de los alumnos del centro docente de prácticas.
+
+g. Se han tenido en cuenta la aplicación efectiva del principio de Igualdad de oportunidades entre mujeres y hombres a la hora de seleccionar los recursos didácticos en la docencia del módulo específico de enseñanzas deportivas en esgrima.
+
+h. Se han previsto y preparado de antemano recursos didácticos alternativos frente a posibles incidencias, incluyendo la atención a personas con discapacidad, en la dirección de la sesión del módulo específico de enseñanzas deportivas en esgrima.
+
+i. Se han identificado las condiciones de seguimiento y tutorización de los distintos módulos del bloque específico de los ciclos inicial y final de grado medio en esgrima, presénciales y a distancia, establecidos en el centro docente de prácticas.
+
+j. Se ha participado en el establecimiento de contactos y convenios con las entidades colaboradoras en el módulo de formación práctica en el centro docente de prácticas.
+
+k. Se han utilizado aplicaciones informáticas específicas en supuestos de gestión y seguimiento del módulo de formación práctica en el centro docente de prácticas.
+
+l. Se ha colaborado en la elaboración de informes de evaluación del módulo de formación práctica.
+
+m. Se participado en el asesoramiento y control de entrevistas y tutorías personalizadas en la dirección de Proyectos dentro del centro docente de prácticas.
+
+8\. Colabora en la dirección del esgrimista/equipo durante la participación en actividades, competiciones y otros eventos internacionales o de alto nivel de esgrima, valorando las posibles situaciones tácticas del esgrimista/equipo y de sus contrincantes, las decisiones arbitrales, las características del entorno, y aplicando procedimientos establecidos.
+
+a. Se ha evaluado la influencia de las condiciones ambientales y del entorno de la competición de alto nivel en el esgrimista.
+
+b. Se ha colaborado en la dirección del esgrimista/equipo en competiciones de alto rendimiento, utilizando diferentes estrategias de manera eficaz y teniendo en cuenta las características del contrincante y del entorno.
+
+c. Se ha utilizado el reglamento en la elección y aplicación de estrategias de dirección del esgrimista/equipo en la competición de alto nivel.
+
+d. Se ha colaborado en la evaluación de la ejecución técnico-táctica del esgrimista/equipo y de sus contrincantes en la competición de alto nivel, utilizando técnicas y procedimientos de observación adecuados.
+
+e. Se ha colaborado en la realización de reclamaciones en una competición internacional o de alto nivel de esgrima, utilizando el idioma oficial (francés) y aplicando los protocolos y normas establecidas.
+
+f. Se ha valorado la importancia de la utilización de una estrategia de dirección del esgrimista/equipo acorde con la normativa, las características del entorno de competición y las tendencias arbitrales en la alta competición.
+
+g. Se han colaborado en la coordinación de las actividades de los diferentes miembros del equipo técnico antes, durante y después de las competiciones de alto nivel en la esgrima.
+
+h. Se ha demostrado empatía y generado credibilidad en el equipo durante la dirección en competiciones de alto nivel de esgrima.
+
+9\. Planifica el entrenamiento a largo, medio y corto plazo de los esgrimistas, interpretando la información del deportista y del entorno, coordinando el equipo de especialistas, y aplicando los modelos, procedimientos y técnicas más adecuados.
+
+a. Se ha seleccionado e interpretado la información del esgrimista/equipo del centro deportivo de prácticas y de su entorno, necesarias en la elaboración de la programación a largo plazo.
+
+b. Se ha elaborado la planificación a corto, medio y largo plazo del esgrimista ó equipo, de acuerdo con los modelos utilizados en el centro deportivo de prácticas e identificando las dinámicas de carga de los diferentes factores de rendimiento deportivo en esgrima.
+
+c. Se han aplicado instrumentos de valoración de la condición física o condicional del esgrimista/equipo de alto nivel, interpretando y, en su caso, tratando la información resultante.
+
+d. Se han elaborado y aplicado instrumentos de registro del comportamiento técnico-táctico en entrenamiento y competición del esgrimista de alto nivel, interpretando y, en su caso, tratando la información resultante.
+
+e. Se han aplicado instrumentos de valoración del perfil psicológico del esgrimista y de su comportamiento durante la competición, interpretando y, en su caso, tratando la información resultante.
+
+f. Se ha elaborado la planificación a corto, medio y largo plazo de los diferentes factores de rendimiento (condicionales, técnicos, psicológicos, etc.) del esgrimista de acuerdo con la planificación del centro de prácticas y los objetivos y características del esgrimista.
+
+g. Se ha elaborado el programa de una concentración de preparación, adaptándola a las necesidades específicas de los esgrimistas y del centro de formación práctica.
+
+h. Se ha registrado, cuantificado y procesado la información sobre la carga de entrenamiento de un esgrimista del centro deportivo de prácticas.
+
+i. Se han asignado objetivos y medios de trabajo al equipo de técnicos especialistas en ciencias aplicadas al deporte, dentro de la planificación y programación del entrenamiento del esgrimista.
+
+j. Se han incorporado las aportaciones de los técnicos especialistas en ciencias aplicadas al deporte en la planificación y programación del entrenamiento del esgrimista.
+
+k. Se ha mostrado una actitud de rigor y objetividad en la aplicación de los instrumentos de valoración utilizados.
+
+10\. Adapta, concreta los programas y dirige las sesiones de entrenamiento de alto nivel técnico en las tres armas, interpretando la información recibida, aplicando las técnicas y procedimientos de acuerdo con las instrucciones y normas establecidas.
+
+a. Se han identificado y seleccionado los medios y recursos necesarios para el desarrollo de la actividad.
+
+b. Se ha recibido al esgrimista siguiendo el protocolo establecido e identificando sus demandas y necesidades.
+
+c. Se han aplicado técnicas y protocolos de valoración técnica y de la condición motriz propios del esgrimista de alto nivel en las tres armas, valorando su estado inicial, el grado de consecución de los objetivos propuestos y los errores cometidos.
+
+d. Se ha identificado y seleccionado los objetivos técnicos y de preparación de la condición motriz del esgrimista a partir de la programación de referencia del centro deportivo.
+
+e. Se ha concretado la sesión de aprendizaje del alto nivel en las tres armas, incluidos los elementos técnicos de la teoría de esgrima utilizando la terminología adecuada, definiéndolos y reconociendo las partes en que se dividen, siguiendo la programación de referencia, adecuándose al grupo y a las condiciones materiales existentes.
+
+f. Se han ejemplificado las tareas propuestas, ejecutando las acciones técnicas según los estándares del alto nivel a las tres armas y los procedimientos establecidos.
+
+g. Se realizado la asistencia técnica durante la lección individual a las tres armas, en situación de colaboración-oposición utilizando los estímulos conformes al modelo de referencia.
+
+h. Se han aplicado protocolos de control y cuantificación de la carga de entrenamiento de un esgrimista o grupo de esgrimistas en las sesiones de alto rendimiento en la esgrima.
+
+11\. Organiza y dirige el entrenamiento (y las concentraciones de preparación) de los esgrimista/equipo coordinando equipos de técnicos especialistas, aplicando los medios y métodos específicos de entrenamiento de cada uno de los factores de rendimiento en la esgrima y aplicando las nuevas tecnologías al registro del entrenamiento y la competición.
+
+a. Se ha generado credibilidad en el equipo de técnicos especialistas que colaboran con el técnico en el centro deportivo de prácticas.
+
+b. Se ha gestionado el equipo de técnicos especialistas, demostrando liderazgo y potenciando la comunicación entre el equipo del centro deportivo de prácticas y el técnico.
+
+c. Se han aplicado medios y métodos de entrenamiento de todos los factores de rendimiento que afectan a la esgrima y eligiendo las tareas de acuerdo con la programación del centro deportivo de prácticas.
+
+d. Se ha dirigido la sesión teniendo en cuenta la variedad e integración de los diferentes medios y métodos de entrenamiento, de acuerdo con la programación del centro deportivo de prácticas.
+
+e. Se han identificado y solucionado las contingencias que hayan surgido durante la sesión de entrenamiento del esgrimista.
+
+f. Se ha adaptado el trabajo de la sesión a las condiciones reales del esgrimista.
+
+g. Se han tenido en cuenta las lesiones más frecuentes en la esgrima y sus medidas preventivas, en la dirección de la sesión de entrenamiento.
+
+h. Se han elaborado y aplicado instrumentos de registro audiovisual del comportamiento técnico-táctico: en entrenamiento y competición, del esgrimista de alto nivel, interpretando y, en su caso, editando los registros realizados.
+
+i. Se han utilizado durante la sesión de entrenamiento del esgrimista los registros audiovisuales del entrenamiento o la competición.
+
+j. Se ha colaborado en la organización y dirección de una concentración de preparación, seleccionando los medios y la logística adecuados a la situación del centro deportivo de prácticas.
+
+k. Se ha mantenido una actitud motivadora y empática con el esgrimista durante la dirección de la concentración de preparación o la sesión de entrenamiento.
+
+12\. Colabora en el establecimiento de las ayudas ergogénicas y de los planes de trabajo complementario del esgrimista lesionado, aplicando los medios, métodos y procedimientos establecidos.
+
+a. Se ha programado el trabajo complementario de un esgrimista lesionado, teniendo en cuenta la programación del centro deportivo de prácticas.
+
+b. Se ha valorado las pautas alimentarías de los esgrimistas del centro deportivo de prácticas.
+
+c. Se han propuestos medidas de formación sobre alimentación deportiva a los esgrimistas del centro deportivo de prácticas.
+
+d. Se ha identificado las manifestaciones de fatiga durante el entrenamiento y la competición del esgrimista del centro deportivo de prácticas.
+
+e. Se han propuesto y aplicado medidas de recuperación de la fatiga de acuerdo con las posibilidades del centro deportivo de prácticas.
+
+f. Se ha colaborado en la prescripción y administración de ayudas ergogénicas en el esgrimista del centro deportivo de prácticas.
+
+g. Se ha informado al esgrimista de los riesgos y consecuencias en la salud, del uso de sustancias dopantes.
+
+h. Se ha mostrado una actitud de juego limpio y respeto por la salud del esgrimista en especial en lo referido al uso de sustancias dopantes.
+
+> Se numera como Anexo II.n por el art. 5.2.n) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO III — Ratio profesor/alumno
+
+|  | Ratio profesor/alumno |
+|---|---|
+| *Bloque específico ciclo de grado superior* |  |
+| MED-ESES301 Planificación del alto rendimiento en esgrima. | 1/30 |
+| MED-ESES302 Preparación complementaria en esgrima. | 1/30 |
+| MED-ESES303 Dirección técnica y organización de eventos. | 1/30 |
+| MED-ESES304 Nuevas tecnologías en esgrima. | 1/30 |
+| MED-ESES305 Técnica de Espada. | 1/20 |
+| MED-ESES306 Técnica de Florete. | 1/20 |
+| MED-ESES307 Técnica de Sable. | 1/20 |
+| MED-ESES308 Proyecto. | 1/30 |
+| MED-ESES309 Formación práctica. | 1/30 |
+
+## ANEXO IV — Acceso módulo formación práctica
+
+| Acceso módulo formación práctica | Módulos a superar |
+|---|---|
+| MED-ESES309 Formación práctica. | Del bloque común.<br>MED-C301. Factores fisiológicos del alto rendimiento.<br>MED-C303. Formación de formadores deportivos del bloque específico.<br>MED-ESES305 Técnica de Espada.<br>MED-ESES306 Técnica de Florete.<br>MED-ESES307 Técnica de Sable. |
+
+## ANEXO V — Espacios y equipamientos mínimos del ciclo de grado superior
+
+| Espacio<br>formativo | Superficie m<sup>2</sup><br>30 alumnos | Superficie m<sup>2</sup><br>20 alumnos | Módulo de enseñanza deportiva |
+|---|---|---|---|
+| Aula polivalente. | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
+| Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común.<br>MED-ESES302 Preparación complementaria en esgrima. |
+| Pista polideportiva. | 44 x 22 mts. | 44 x 22 mts. | MED-ESES301 Planificación del alto rendimiento en esgrima.<br>MED-ESES302 Preparación complementaria en esgrima.<br>MED-ESES303 Dirección técnica y organización de eventos.<br>MED-ESES304 Nuevas tecnologías en esgrima.<br>MED-ESES305 Técnica de Espada.<br>MED-ESES306 Técnica de Florete.<br>MED-ESES307 Técnica de Sable.<br>MED-ESES308 Proyecto.<br>MED-ESES309 Formación práctica. |
+| Sala polivalente. | 250 m<sup>2</sup> | 175 m<sup>2</sup> | MED-ESES301 Planificación del alto rendimiento en esgrima.<br>MED-ESES302 Preparación complementaria en esgrima.<br>MED-ESES303 Dirección técnica y organización de eventos.<br>MED-ESES304 Nuevas tecnologías en esgrima.<br>MED-ESES305 Técnica de Espada.<br>MED-ESES306 Técnica de Florete.<br>MED-ESES307 Técnica de Sable.<br>MED-ESES308 Proyecto.<br>MED-ESES309 Formación práctica. |
+
+Equipamientos: Ciclo de grado superior
+
+| Equipamiento del aula polivalente | Módulo de enseñanza deportiva |
+|---|---|
+| Equipos audiovisuales. Cañón de proyección.<br>PCs instalados en red con conexión a Internet. Software específico. | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
+
+| Equipamiento del gimnasio | Módulo de enseñanza deportiva |
+|---|---|
+| 15 balones medicinales (3kg, 4kg, 5kg).<br>15 colchonetas.<br>Mancuernas de diferentes pesos.<br>3 Barras de levantamientos.<br>Discos (diversos pesos).<br>Bancos para ejercicios de musculación: horizontal, inclinado y/o reclinable.<br>Balones inflables 65cm.<br>Gomas elásticas.<br>Espalderas.<br>Bancos suecos. | Módulos de enseñanza deportiva de los bloques común.<br>MED-ESES302 Preparación complementaria en esgrima. |
+
+| Equipamiento de la sala polivalente | Módulo de enseñanza deportiva |
+|---|---|
+|  | MED-ESES301 Planificación del alto rendimiento en esgrima.<br>MED-ESES302 Preparación complementaria en esgrima.<br>MED-ESES303 Dirección técnica y organización de eventos.<br>MED-ESES304 Nuevas tecnologías en esgrima.<br>MED-ESES305 Técnica de Espada.<br>MED-ESES306 Técnica de Florete.<br>MED-ESES307 Técnica de Sable. |
+
+## ANEXO VI — Requisitos de titulación del profesorado de los módulos del bloque común de ciclo de grado superior, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad que a continuación se detalla:
+
+| Módulo de enseñanza deportiva Ciclo de Grado Superior | Especialidad | Cuerpo |
+|---|---|---|
+| MED-C301 Factores fisiológicos del alto rendimiento.<br>MED-C302 Factores Psicosociales del alto rendimiento.<br>MED-C303 Formación de formadores deportivos. | Educación Física. | Catedráticos de Enseñanza Secundaria.<br>Profesores de Enseñanza Secundaria. |
+| MED-C304 Organización y gestión aplicada al alto rendimiento. | Educación Física.<br>Formación y Organización laboral. | Catedráticos de Enseñanza Secundaria.<br>Profesores de Enseñanza Secundaria. |
+
+## ANEXO VII A — Requisitos de titulación del profesorado de los módulos del bloque específico de ciclo de grado superior, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<p class="cabeza_tabla">Ciclo de Grado Superior</p>
+</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">MED-ESES301 Planificación del alto rendimiento en esgrima.</p>
+<p class="cuerpo_tabla_izq">MED-ESES302 Preparación complementaria en esgrima.</p>
+<p class="cuerpo_tabla_izq">MED-ESES303 Dirección técnica y organización de eventos.</p>
+<p class="cuerpo_tabla_izq">MED-ESES304 Nuevas tecnologías en esgrima.</p>
+<p class="cuerpo_tabla_izq">MED-ESES305 Técnica de Espada.</p>
+<p class="cuerpo_tabla_izq">MED-ESES306 Técnica de Florete.</p>
+<p class="cuerpo_tabla_izq">MED-ESES307 Técnica de Sable.</p>
+</td>
+<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Esgrima.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-ESES308 Proyecto.</td>
+<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Esgrima.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-ESES309 Formación práctica.</td>
+<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Esgrima.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO VII B — Condición de Profesor especialista en centros públicos de laAdministración educativa: Acreditación de experiencia docente, o actividad en el ámbito deportivo y laboral
+
+| Módulos enseñanza deportiva | Experiencia docente acreditable | Actividad en el ámbito deportivo y laboral |
+|---|---|---|
+| MED-ESES301 Planificación del alto rendimiento en esgrima.<br>MED-ESES302 Preparación complementaria en esgrima.<br>MED-ESES303 Dirección técnica y organización de eventos.<br>MED-ESES304 Nuevas tecnologías en esgrima.<br>MED-ESES305 Técnica de Espada.<br>MED-ESES306 Técnica de Florete.<br>MED-ESES307 Técnica de Sable.<br>MED-ESES308 Proyecto.<br>MED-ESES309 Formación práctica. | Al menos 100 horas de docencia acreditada, relacionada con el módulo, en formación de entrenadores en el nivel 2 o 3 de esgrima en las formaciones a las que se refiere la disposición adicional quinta y la disposición transitoria primera y del Real Decreto 1363/2007, de 24 de octubre, así como de la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre. | Al menos 2 años de ejercicio deportivo laboral relacionado con las competencias profesionales del ciclo de grado superior, realizado en los 4 años inmediatamente anteriores al nombramiento. |
+
+En el caso de las formación a las que se refiere la adicional quinta del RD 1363/2007, de 24 de octubre, la Real Federación Española de Esgrima, emitirá la correspondiente certificación de la experiencia docente en la que conste: las materias impartidas, el número de horas impartidas, la fecha del curso en el que se impartió la materia o materias, y la fecha de la resolución de reconocimiento de la formación por parte del Consejo Superior de Deportes junto con la fecha de publicación en el BOE.
+
+En el caso de las formaciones a las que se refiere la disposición transitoria primera de los RD 1913/1997, y 1363/2007, el órgano competente de la Comunidad autónoma que autorizó las formaciones emitirá la correspondiente certificación de la experiencia docente en la que consten las materias y el número de horas impartidas.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+La Real Federación Española de Esgrima emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+## ANEXO VIII — Los requisitos de titulación del profesorado en centros privados y de titularidad pública de administraciones distintas a la educativa
+
+Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
+
+Módulos del bloque común del ciclo de grado superior:
+
+| Módulo comunes de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED-C301 Factores fisiológicos del alto rendimiento. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>Licenciado o Graduado en Medicina. |
+| MED-C302 Factores Psicosociales del alto rendimiento. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>Licenciado o Graduado en Psicología. |
+| MED-C303 Formación de formadores deportivos. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
+| MED-C304 Organización y gestión aplicada al alto rendimiento. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>Licenciado o Graduado en Derecho. |
+
+Módulos del bloque específico del ciclo de grado superior:
+
+| Módulo específico de enseñanza deportiva | Titulación |
+|---|---|
+| MED-ESES301 Planificación del alto rendimiento en esgrima.<br>MED-ESES302 Preparación complementaria en esgrima.<br>MED-ESES303 Dirección técnica y organización de eventos.<br>MED-ESES304 Nuevas tecnologías en esgrima.<br>MED-ESES305 Técnica de Espada.<br>MED-ESES306 Técnica de Florete.<br>MED-ESES307 Técnica de Sable.<br>MED-ESES308 Proyecto.<br>MED-ESES309 Formación práctica. | Título de Técnico Deportivo Superior en Esgrima. |
+
+## ANEXO IX — Exención total o parcial del módulo de formación práctica del ciclo de grado superior
+
+| MED-ESES309 Formación práctica. | Experiencia ámbito laboral o deportivo |
+|---|---|
+| Exención total.<br>Exención parcial. | Duración: Superior a 400 horas.<br>Actividad desarrollada:<br>Experiencia relacionada con la competencia general del ciclo de grado superior en esgrima.<br>Periodo de tiempo que ha desarrollado la actividad: Dos años anteriores a la finalización del curso. |
+
+La exención parcial del módulo de formación práctica, se concederá para aquellos resultados de aprendizaje del módulo, que sean concordantes con la experiencia laboral o deportiva acreditada.
+
+La exención total del módulo de formación práctica, se podrá conceder cuando exista una completa concordancia de la experiencia laboral o deportiva acreditada con la totalidad de los resultados de aprendizaje del correspondiente módulo.
+
+La experiencia deportiva en esgrima se acreditará mediante certificado expedido por la Real Federación Española de Esgrima, en la que consten los rendimientos obtenidos, la competición o eventos en los que se obtuvieron, y el periodo de tiempo durante el que se mantuvieron.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+## ANEXO X — Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia docente
+
+| Módulos de enseñanza deportiva, ciclo de grado superior | Experiencia docente |
+|---|---|
+| MED-ESES301 Planificación del alto rendimiento en esgrima.<br>MED-ESES302 Preparación complementaria en esgrima.<br>MED-ESES303 Dirección técnica y organización de eventos.<br>MED-ESES304 Nuevas tecnologías en esgrima.<br>MED-ESES305 Técnica de Espada.<br>MED-ESES306 Técnica de Florete.<br>MED-ESES307 Técnica de Sable.<br>MED-ESES308 Proyecto. | Experiencia como profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del RD 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del RD 1363/2007, de 24 de octubre.<br>La experiencia deberá ser de, el triple de la horas establecidas en este real decreto, como enseñanzas mínimas del módulo de enseñanza deportiva objeto de la correspondencia formativa. |
+
+La experiencia docente se acreditará mediante certificado expedido por la Comunidad Autónoma que autorizó dichas formaciones en el que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la misma.
+
+## ANEXO XI — Formación a distancia
+
+| Módulos bloque común. | MED-C301 Factores fisiológicos del alto rendimiento.<br>MED-C302 Factores Psicosociales del alto rendimiento.<br>MED-C303 Formación de formadores deportivos.<br>MED-C304 Organización y gestión aplicada al alto rendimiento. |
+|---|---|
+| Módulos bloque específico. | MED-ESES301 Planificación del alto rendimiento en esgrima.<br>MED-ESES302 Preparación complementaria en esgrima.<br>MED-ESES303 Dirección técnica y organización de eventos.<br>MED-ESES304 Nuevas tecnologías en esgrima.<br>MED-ESES308 Proyecto. |

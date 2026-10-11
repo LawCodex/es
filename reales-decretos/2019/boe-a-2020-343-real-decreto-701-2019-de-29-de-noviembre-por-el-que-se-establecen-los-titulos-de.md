@@ -1,0 +1,6542 @@
+---
+title: "Real Decreto 701/2019, de 29 de noviembre, por el que se establecen los títulos de Técnico Deportivo Superior en Alta Montaña y Técnico Deportivo Superior en Escalada y se fijan sus currículos básicos y los requisitos de acceso"
+identifier: "BOE-A-2020-343"
+eli: "https://www.boe.es/eli/es/rd/2019/11/29/701"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación y Formación Profesional"
+date: 2019-11-29
+published: 2020-01-10
+in_force_from: 2020-01-11
+last_amended: 2026-07-02
+consolidated: 2026-08-27
+gazette: "Boletín Oficial del Estado núm. 9"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2020-343"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 701/2019, de 29 de noviembre, por el que se establecen los títulos de Técnico Deportivo Superior en Alta Montaña y Técnico Deportivo Superior en Escalada y se fijan sus currículos básicos y los requisitos de acceso
+
+Incluye la corrección de errores publicada en BOE núm. 235, de 2 de septiembre de 2020. [Ref. BOE-A-2020-10125](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10125)
+
+La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos.
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en su artículo 64.5 que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros.
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada Ley Orgánica 2/2006, de 3 de mayo, establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
+
+Las enseñanzas de técnico deportivo superior fueron reguladas en el año 2000, mediante el Real Decreto 318/2000, de 3 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo superior en las especialidades de los Deportes de Montaña y Escalada, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas. Durante los 19 años trascurridos se han producido hechos relevantes que han de tenerse en cuenta. Se han implantado las enseñanzas, lo que ha permitido, desde la realidad, contrastar la necesidad de determinadas titulaciones y el grado de aceptación por parte del sector deportivo; se han desarrollado los criterios y procedimientos de reconocimiento internacional de estas enseñanzas; se ha promovido un cambio en el marco normativo de las enseñanzas deportivas de régimen especial; se han producido cambios en las condiciones de práctica de las diferentes modalidades y especialidades, con la aparición de nuevas técnicas, procedimientos y se han potenciado nuevas especialidades como las vías ferratas.
+
+Este marco normativo y la inevitable actualización de las enseñanzas deportivas en montaña y escalada a la nueva situación hace necesario que ahora el Gobierno, previa consulta a las comunidades autónomas, establezca cada uno de los títulos que formarán el Catálogo de las enseñanzas deportivas del sistema educativo, el currículo básico y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.2 de la Ley Orgánica 2/2006, de 3 de mayo, garantizando de esta manera los principios de necesidad, eficacia, proporcionalidad y seguridad jurídica recogidos en el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+El Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, define en el artículo 4 la estructura de estas enseñanzas, situando las enseñanzas deportivas de grado superior como parte de la educación superior.
+
+Por otra parte, en su artículo 6 concreta el perfil profesional de dichos títulos, que incluirá la competencia general, las competencias profesionales, personales y sociales, con el fin de lograr que, en efecto, los títulos de enseñanzas deportivas respondan a las necesidades demandadas por los sistemas deportivo y productivo, y a los valores personales y sociales para ejercer una ciudadanía democrática. A este fin y como reflejo de la madurez alcanzada por la modalidad deportiva, se atribuye al ciclo de grado superior las competencias vinculadas al entrenamiento, dirección de equipos y deportistas de alto nivel o rendimiento y en determinados casos la conducción con altos niveles de dificultad en la modalidad o especialidad deportiva.
+
+A estos efectos procede determinar para cada título su identificación, su perfil profesional, el entorno profesional, las enseñanzas de los ciclos de enseñanzas deportivas y la acreditación de módulos debida a la experiencia docente, a la experiencia deportiva, así como los parámetros básicos de contexto formativo para cada módulo de enseñanza deportiva (espacios, equipamientos necesarios, titulaciones y especialidades del profesorado). Asimismo, en cada título también se determinarán los requisitos específicos de acceso, siendo propio de estos títulos la identificación de la carga lectiva que se acredita a través de estos requisitos, la vinculación con otros estudios, las convalidaciones, exenciones y equivalencias.
+
+El marcado carácter técnico de estas enseñanzas, definidas por la peculiaridad de los procedimientos, materiales, equipos y prácticas específicas de cada modalidad, hace necesario un desarrollo que garantice un mínimo común denominador, claro y orientador, a través de una norma reglamentaria, lo que garantiza el principio de seguridad jurídica establecido en artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Con el fin de facilitar el reconocimiento de créditos entre los títulos de Técnico Deportivo Superior y las enseñanzas conducentes a los títulos universitarios, y viceversa, en los ciclos de enseñanzas deportivas de grado superior se establecerá la equivalencia de cada módulo de enseñanza deportiva con los créditos europeos, ECTS, tal y como se definen en el Real Decreto 1125/2003, de 5 de septiembre, por el que se establece el sistema europeo de créditos y el sistema de calificaciones en las titulaciones universitarias de carácter oficial y validez en todo el territorio nacional.
+
+El presente real decreto, que se dicta en desarrollo del Real Decreto 1363/2007, de 24 de octubre, establece y regula, en los aspectos y elementos básicos antes indicados, los títulos de Técnico Deportivo Superior en Alta Montaña y Técnico Deportivo Superior en Escalada.
+
+Finalmente, este real decreto adapta al ámbito de las enseñanzas deportivas en montaña las previsiones del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, ya contenidas en el Real Decreto 1363/2007, de 24 de octubre, y desarrolla en este ámbito las previsiones de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas y las ciudades de Ceuta y Melilla, en el seno de las Conferencia Sectorial de Educación, y han emitido informe el Consejo Escolar del Estado y el Ministerio de Política Territorial y Función Pública.
+
+En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, y previa deliberación del Consejo de Ministros en su reunión del día 29 de noviembre de 2019,
+
+DISPONGO:
+
+## CAPÍTULO I — Objeto
+
+### Artículo 1. Objeto.
+
+El objeto del presente real decreto es el establecimiento de los títulos de Técnico Deportivo Superior en Alta Montaña y Técnico Deportivo Superior en Escalada con carácter oficial y validez en todo el territorio nacional, así como el de sus correspondientes currículos básicos.
+
+Lo dispuesto en este real decreto sustituye a la regulación de los títulos de Técnico Deportivo superior en Alta Montaña, Técnico Deportivo superior en Escalada y Técnico Deportivo superior en Esquí de Montaña, contenidos en el Real Decreto 318/2000, de 3 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo superior en las especialidades de los Deportes de Montaña y Escalada, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas.
+
+De conformidad con lo establecido en el Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, los elementos recogidos en el presente real decreto no constituyen una regulación del ejercicio de profesión regulada alguna.
+
+## CAPÍTULO II — Identificación del título y organización de las enseñanzas
+
+### Artículo 2. Identificación de los títulos de Técnico Deportivo Superior en Alta Montaña y Técnico Deportivo Superior en Escalada.
+
+1\. El título de Técnico Deportivo Superior en Alta Montaña queda identificado por los siguientes elementos:
+
+a) Denominación: Alta Montaña.
+
+b) Nivel: Nivel I: Técnico Superior del Marco Español de Cualificaciones para la Educación Superior: Enseñanzas Deportivas de Grado superior.
+
+c) Duración: 1.175 horas.
+
+d) Referente internacional: CINE–5b (Clasificación Internacional Normalizada de Educación).
+
+2\. El título de Técnico Deportivo Superior en Escalada queda identificado por los siguientes elementos:
+
+a) Denominación: Escalada.
+
+b) Nivel: Nivel I: Técnico Superior del Marco Español de Cualificaciones para la Educación Superior: Enseñanzas Deportivas de Grado superior.
+
+c) Duración: 885 horas.
+
+d) Referente internacional: CINE–5b (Clasificación Internacional Normalizada de Educación).
+
+### Artículo 3. Organización de las enseñanzas conducentes a los títulos de Técnico Deportivo Superior en Alta Montaña y Técnico Deportivo Superior en Escalada.
+
+1\. Las enseñanzas conducentes al Título de Técnico Deportivo Superior en Alta Montaña se organizan en el ciclo de grado superior en alta montaña y tienen una duración de 1.175 horas.
+
+2\. Las enseñanzas conducentes al Título de Técnico Deportivo Superior en Escalada se organizan en el ciclo de grado superior en escalada y tienen una duración de 885 horas.
+
+### Artículo 4. Especializaciones de los títulos de Técnico Deportivo Superior en Alta Montaña y Técnico Deportivo Superior en Escalada.
+
+1\. El título de Técnico Deportivo Superior en Alta Montaña tendrá las siguientes especializaciones:
+
+a) Alta montaña de personas con discapacidad.
+
+b) Guía de alta montaña.
+
+2\. El título de Técnico Deportivo Superior en Escalada tendrá las siguientes especializaciones:
+
+a) Escalada de personas con discapacidad.
+
+El Ministerio de Educación y Formación Profesional, a propuesta del Consejo Superior de Deportes y previa consulta a los órganos competentes en materia de deportes de las comunidades autónomas y de la Federación Española de Deportes de Montaña y Escalada establecerá los objetivos, contenidos y criterios de evaluación de estas especializaciones.
+
+> Se modifica por el art. 9.1 y 2 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+## CAPÍTULO III — Perfil profesional y entorno profesional, personal y laboral deportivo de los ciclos
+
+### Artículo 5. Perfil profesional de los ciclos de grado superior en alta montaña y escalada.
+
+El perfil profesional de los ciclos de grado superior en alta montaña y grado superior en escalada queda determinado por su competencia general, sus competencias profesionales, personales y sociales, por la relación de cualificaciones y, en su caso, unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título y el entorno profesional, laboral y deportivo.
+
+### Artículo 6. Competencia general del ciclo de grado superior en alta montaña.
+
+La competencia general del ciclo de grado superior en alta montaña consiste en diseñar itinerarios y guiar a personas por terrenos en condiciones de alta montaña, utilizando técnicas específicas de progresión en el terreno nevado y hielo, en escalada en hielo y en esquí de montaña; organizar itinerarios de alta montaña; programar y dirigir la enseñanza y el entrenamiento de las técnicas específicas utilizadas en dificultad y todo ello de acuerdo con los objetivos establecidos, el nivel óptimo de calidad y en condiciones de seguridad.
+
+### Artículo 7. Competencias profesionales, personales y sociales del ciclo de grado superior en alta montaña.
+
+Las competencias profesionales, personales y sociales del ciclo de grado superior en alta montaña son las que se relacionan a continuación:
+
+a) Dominar las técnicas específicas de progresión en alta montaña, escalada en hielo y esquí de montaña, con el nivel suficiente para el desarrollo de las tareas propias del guiado de personas en alta montaña.
+
+b) Analizar, identificar y valorar las condiciones del entorno de alta montaña, las características de las actividades de conducción dentro del terreno de su competencia y el entorno del deportista o equipo, para la planificación de actividades de guiado en alta montaña.
+
+c) Analizar, identificar y valorar los factores de rendimiento (funcionales, técnicos, tácticos, psicológicos) propios de las actividades en alta montaña para la planificación del entrenamiento y perfeccionamiento de las técnicas de progresión específicas de alta montaña.
+
+d) Programar a medio y largo plazo el entrenamiento y perfeccionamiento de las técnicas de progresión en alta montaña, determinando los objetivos y medios necesarios, a partir de las valoraciones y análisis previos realizados.
+
+e) Programar a corto plazo el entrenamiento y perfeccionamiento de las técnicas de progresión en alta montaña, los objetivos y los medios necesarios y concretar las sesiones, adecuándolas al grupo y a las condiciones existentes de acuerdo con la programación general.
+
+f) Dirigir la sesión de entrenamiento de las técnicas específicas de progresión en el terreno nevado y hielo, en escalada en roca en alta montaña, escalada en hielo y en esquí de montaña, solucionando las contingencias existentes para conseguir la implicación y el rendimiento conforme a los objetivos propuestos, y dentro de las normas medioambientales y los márgenes de seguridad requeridos.
+
+g) Preparar, adaptar, optimizar y transportar los medios necesarios para la organización y práctica de actividades de guiado en la alta montaña, garantizando su adecuación a las exigencias del medio, de acuerdo a los protocolos de seguridad y la normativa medioambiental.
+
+h) Gestionar el riesgo inherente a la práctica de actividades de guiado, enseñanza y entrenamiento en alta montaña, supervisando las condiciones del terreno, del itinerario, de las condiciones meteorológicas, así como de las instalaciones y equipamiento en caso de que las hubiera y los medios a utilizar, interviniendo mediante la ayuda o el rescate en las situaciones de riesgo detectadas, asistiendo como primer interviniente en caso de accidente o situación de emergencia.
+
+i) Determinar, elegir y coordinar equipos de trabajo de carácter multidisciplinar dentro de la preparación y realización de actividades de guiado en montaña.
+
+j) Participar en la formación de los técnicos deportivos de los deportes de montaña y escalada y organizar los recursos materiales y humanos en una escuela de alta montaña (alpinismo, escalada en hielo, esquí de montaña), estableciendo las programaciones de referencia.
+
+k) Diseñar, organizar y gestionar itinerarios y actividades de conducción en alta montaña, adaptándose a las características geográficas y socioculturales de la zona, respetando los protocolos de seguridad y la normativa medioambiental.
+
+l) Guiar a deportistas en itinerarios de alta montaña, utilizando las técnicas específicas de progresión en el terreno nevado y hielo, en escalada en roca, escalada en hielo y en esquí de montaña, manteniendo la orientación y solucionando las contingencias existentes para conseguir los objetivos propuestos dentro de los márgenes de seguridad requeridos.
+
+m) Evaluar el proceso de preparación y los resultados obtenidos, programando la recogida de información y realizando su análisis para conseguir el ajuste y mejora del entrenamiento y de la conducción en terrenos de alta montaña.
+
+n) Transmitir a través del comportamiento ético personal valores vinculados con el juego limpio, el respeto a los demás y el respeto y cuidado del propio cuerpo.
+
+ñ) Mantener una identidad profesional y un espíritu de innovación y actualización que facilite la adaptación a los cambios que se produzcan en la modalidad deportiva y en su entorno organizativo.
+
+### Artículo 8. Entorno profesional, laboral y deportivo del ciclo de grado superior en alta montaña.
+
+1\. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado o las administraciones autonómicas o locales, como o en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, como trabajador autónomo o como trabajador por cuenta ajena en patronatos deportivos, entidades deportivas municipales, federaciones, centros de tecnificación, centros de alto rendimiento y clubes deportivos y sociales, centros educativos y empresas de servicios que ofrezcan actividades deportivo–recreativas de guiado o de alto rendimiento de la especialidad deportiva.
+
+2\. Se ubica en los sectores del deporte, el ocio y tiempo libre y el turismo.
+
+3\. Las ocupaciones y puestos de trabajo más relevantes para estos profesionales son las siguientes:
+
+a) Guía de alta montaña.
+
+b) Profesor en escuelas de alta montaña.
+
+c) Entrenador de alpinismo.
+
+d) Formador de técnicos de grado medio y superior.
+
+e) Gestor de escuelas de montaña.
+
+f) Organizador de actividades en alta montaña.
+
+g) Director Técnico.
+
+4\. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo con los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
+
+### Artículo 9. Competencia general del ciclo de grado superior en escalada.
+
+La competencia general del ciclo de grado superior en escalada consiste en programar y dirigir el entrenamiento deportivo orientado hacia la obtención y mantenimiento del rendimiento en escaladores; organizar, tutelar y dirigir la participación de estos en competiciones de escalada de alto nivel; coordinar la intervención de técnicos especialistas; programar las tareas y coordinar los técnicos a su cargo; organizar competiciones y eventos propios de la iniciación y tecnificación deportiva y diseñar y equipar vías de alta dificultad en escalada, todo ello de acuerdo con los objetivos establecidos, el nivel óptimo de calidad y en condiciones de seguridad.
+
+### Artículo 10. Competencias profesionales, personales y sociales del ciclo de grado superior en escalada.
+
+Las competencias profesionales, personales y sociales del ciclo de grado superior en alta montaña son las que se relacionan a continuación:
+
+a) Analizar las condiciones de entrenamiento disponibles, las características de la competición y el entorno del escalador, para la planificación del entrenamiento hacia el alto rendimiento.
+
+b) Aplicar y valorar los factores de rendimiento (funcionales, técnicos, tácticos, psicológicos) propios de la escalada para la planificación del entrenamiento en escalada.
+
+c) Programar a medio y largo plazo el entrenamiento, objetivos y medios necesarios, a partir de las valoraciones y análisis realizados en el escalador y en las condiciones iniciales del entorno deportivo.
+
+d) Programar a corto plazo el entrenamiento, los objetivos y los medios necesarios y concretar las sesiones, adecuándolas al grupo y a las condiciones existentes de acuerdo con la programación general.
+
+e) Dirigir la sesión de entrenamiento en la etapa de alto rendimiento, solucionando las contingencias existentes, para conseguir la implicación y el rendimiento conforme a los objetivos propuestos y dentro de las normas medioambientales y los márgenes de seguridad requeridos.
+
+f) Preparar, adaptar, optimizar y transportar los medios necesarios para la práctica en la escalada, garantizando su adecuación a las exigencias del alto rendimiento, su disponibilidad, respetando la normativa medioambiental y los protocolos de seguridad establecidos.
+
+g) Controlar la seguridad en la práctica de la modalidad deportiva, supervisando las instalaciones y medios a utilizar en el entrenamiento y la competición.
+
+h) Seleccionar y acompañar a los deportistas y selecciones en competiciones de escalada, realizando las orientaciones, tomando las decisiones más adecuadas para el desarrollo de la competición y conforme a los objetivos previstos, todo ello dentro de los valores éticos vinculados al juego limpio, el respeto a los demás y al propio cuerpo.
+
+i) Determinar la formación de equipos de trabajo de carácter multidisciplinar y coordinar sus acciones dentro de la programación.
+
+j) Dirigir y coordinar recursos humanos, participar en la formación de los técnicos deportivos y organizar los recursos materiales en una escuela de escalada, estableciendo las programaciones de referencia.
+
+k) Organizar y gestionar competiciones y eventos propios de la iniciación y tecnificación deportiva en escalada y colaborar en la organización de eventos propios de la alta competición.
+
+l) Evaluar el proceso de preparación y los resultados obtenidos, programando la recogida de la información y realizando su análisis para conseguir el ajuste y mejora permanente del entrenamiento dirigido al alto rendimiento deportivo.
+
+m) Transmitir a través del comportamiento ético personal valores vinculados con el juego limpio, el respeto a los demás y el respeto y cuidado del propio cuerpo.
+
+n) Mantener una identidad profesional y un espíritu de innovación y actualización que facilite la adaptación a los cambios que se produzcan en la escalada y en su entorno organizativo.
+
+### Artículo 11. Entorno profesional, laboral y deportivo del ciclo de grado superior en escalada.
+
+1\. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado o las administraciones autonómicas o locales, como o en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, como trabajador autónomo o como trabajador por cuenta ajena en patronatos deportivos, entidades deportivas municipales, federaciones, centros de tecnificación, centros de alto rendimiento y clubes deportivos y sociales, centros educativos y empresas de servicios que ofrezcan actividades deportivo–recreativas de escalada, o de alto rendimiento en escalada.
+
+2\. Se ubica en los sectores del deporte, el ocio y tiempo libre y el turismo.
+
+3\. Las ocupaciones y puestos de trabajo más relevantes para estos profesionales son las siguientes:
+
+a) Entrenador de escalada.
+
+b) Profesor de escuelas de escalada.
+
+c) Director Técnico. Formador de técnicos de grado medio y superior en escalada.
+
+d) Gestor de centros de escalada.
+
+e) Organizador de eventos de la especialidad.
+
+4\. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo con los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
+
+## CAPÍTULO IV — Estructura de las enseñanzas de los ciclos de grado superior de enseñanza deportiva conducentes a los títulos de Técnico Deportivo Superior en Alta Montaña y Técnico Deportivo Superior en Escalada
+
+### Artículo 12. Estructura de los ciclos de grado superior en alta montaña y grado superior en escalada.
+
+1\. Los ciclos de grado superior en alta montaña y grado superior en escalada se estructuran en módulos, agrupados en un bloque común y un bloque específico.
+
+2\. Los módulos comunes de enseñanza deportiva de los ciclos de grado superior en alta montaña y grado superior en escalada son los que a continuación se relacionan:
+
+MED–C301 Factores fisiológicos del alto rendimiento.
+
+MED–C302 Factores psicosociales del alto rendimiento.
+
+MED–C303 Formación de formadores deportivos.
+
+MED–C304 Organización y gestión aplicada al alto rendimiento.
+
+Los módulos específicos de enseña deportiva del ciclo de grado superior en alta montaña, son los que a continuación se relacionan:
+
+MED–MOAM302 Perfeccionamiento técnico en alta montaña.
+
+MED–MOAM303 Guiado en alta montaña.
+
+MED–MOAM304 Escalada en hielo.
+
+MED–MOAM305 Esquí de montaña.
+
+MED–MOAM306 Preparación física del deportista de alta montaña.
+
+MED–MOAM307 Proyecto final.
+
+MED–MOAM308 Formación práctica.
+
+Los módulos específicos de enseñanza deportiva del ciclo de grado superior en escalada, son los que a continuación se relacionan:
+
+MED–MORO309 Planificación en escalada deportiva.
+
+MED–MORO310 Entrenamiento en escalada.
+
+MED–MORO311 Organización de eventos de escalada.
+
+MED–MORO312 Escuela de escalada.
+
+MED–MORO313 Proyecto final.
+
+MED–MORO314 Formación práctica.
+
+3\. La distribución horaria de los currículos básicos de los ciclos de grado superior en alta montaña y grado superior en escalada se establece en el anexo I. B.
+
+4\. Los objetivos generales y los módulos de enseñanza deportiva de los ciclos de grado superior en alta montaña y grado superior en escalada quedan desarrollados, respectivamente, en los anexos II y III.
+
+### Artículo 13. Ratio profesor/alumno.
+
+1\. Para impartir los módulos del bloque común y los resultados de aprendizaje de carácter conceptual de los módulos del bloque específico de los ciclos de grado superior en alta montaña y grado superior en escalada la relación profesor/alumno será de 1/30.
+
+2\. Para impartir los resultados de aprendizaje de carácter procedimental de los módulos del bloque específico de los ciclos de grado superior en alta montaña y grado superior en escalada, la relación profesor/alumno será la recogida en el anexo IV.
+
+### Artículo 14. Módulo de formación práctica.
+
+Para iniciar los módulos de formación práctica de los ciclos de grado superior en alta montaña y grado superior en escalada será necesario haber superado con anterioridad los módulos comunes y específicos de enseñanza deportiva que se establecen en el anexo V.
+
+### Artículo 15. Determinación del currículo.
+
+Las administraciones educativas establecerán los currículos correspondientes respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del Real Decreto 1363/2007, de 24 de octubre.
+
+### Artículo 16. Espacios y equipamientos deportivos.
+
+Los espacios y equipamientos mínimos necesarios para el desarrollo de las enseñanzas de los ciclos de grado superior en alta montaña y grado superior en escalada son los establecidos en el anexo VI.
+
+## CAPÍTULO V — Acceso al ciclo de grado superior
+
+### Artículo 17. Requisitos generales de acceso a los ciclos de grado superior en alta montaña y grado superior en escalada.
+
+1\. Para acceder al ciclo de grado superior en alta montaña será necesario tener el título de Bachiller o equivalente a efectos de acceso, así como los títulos de Técnico Deportivo en Escalada y de Técnico Deportivo en Media Montaña.
+
+2\. También se podrá acceder al ciclo de grado superior en alta montaña estando en posesión del título de Bachiller o equivalente a efectos de acceso y del título de Técnico Deportivo en Alta Montaña regulado en el Real Decreto 318/2000, de 3 de marzo.
+
+3\. Para acceder al ciclo de grado superior en escalada será necesario tener el título de Bachiller o equivalente a efectos de acceso, así como el título de Técnico Deportivo en Escalada.
+
+### Artículo 18. Requisitos de acceso a los ciclos de grado superior en alta montaña y grado superior en escalada para personas sin título de bachiller.
+
+Se podrá acceder a las enseñanzas de los ciclos de grado superior en alta montaña y grado superior en escalada sin el título de Bachiller, siempre que el aspirante posea el título o títulos de técnico deportivo correspondientes, cumpla las condiciones de edad y supere la prueba a la que se refiere el artículo 31.1.b) del Real Decreto 1363/2007, de 24 de octubre. En el caso del ciclo de grado superior en alta montaña, además deberá acreditar los requisitos de carácter específico que se establecen en el presente real decreto.
+
+### Artículo 19. Requisitos de acceso específicos al ciclo de grado superior en alta montaña.
+
+1\. Para acceder al ciclo de grado superior en alta montaña será necesario superar la prueba de carácter específico que se establece en el anexo VII.
+
+2\. La prueba de carácter específico del ciclo grado superior en alta montaña acredita la competencia profesional de «dominar las técnicas específicas de progresión en alta montaña, escalada en hielo y esquí de montaña, con el nivel suficiente para el desarrollo de las tareas propias del guiado de personas en alta montaña», recogida en el artículo 7 del presente real decreto, y a la que en el título se le asigna una carga horaria de formación de 200 horas o de 16 créditos ECTS sobre la duración total del ciclo de grado superior en alta montaña.
+
+3\. Para la superación de la prueba de carácter específico será necesaria la evaluación positiva en la totalidad de los criterios de evaluación descritos en esta.
+
+### Artículo 20. Efectos y vigencia de la prueba de carácter específico.
+
+1\. La superación de la prueba de carácter específico, que se establece para el acceso al ciclo de grado superior en alta montaña, tendrá efectos en todo el territorio nacional.
+
+2\. La superación de esta prueba, que se establece en el anexo VII, tendrá una vigencia de 18 meses, contados a partir de la fecha de su finalización.
+
+### Artículo 21. Exención de la superación de la prueba de carácter específico.
+
+Estarán exentos de superar la prueba de carácter específico que se establece para tener acceso al ciclo de grado superior en alta montaña aquellos deportistas que acrediten:
+
+a) La condición de deportista de alto nivel en las condiciones que establece el Real Decreto 971/2007, de 13 de julio, sobre deportistas de alto nivel y alto rendimiento, para la modalidad de deportes de montaña y escalada.
+
+b) La calificación de deportista de alto rendimiento o equivalente en la modalidad de deportes de montaña y escalada establecida por las comunidades autónomas de acuerdo con su normativa.
+
+c) El título de Técnico Deportivo en Alta Montaña regulado en el Real Decreto 318/2000, de 3 de marzo. Esta exención tendrá efecto durante 18 meses, contados a partir de la fecha de obtención del mencionado título.
+
+### Artículo 22. Requisitos de acceso de personas que acrediten discapacidades.
+
+Las personas con discapacidad podrán acceder a las enseñanzas de estos ciclos conforme a la disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre, siendo obligación de las administraciones competentes llevar a cabo los ajustes razonables para que este acceso no comporte restricciones injustificadas contrarias al principio de igualdad de oportunidades.
+
+### Artículo 23. Composición y perfil del tribunal de la prueba de carácter específico:.
+
+1\. El tribunal será nombrado por el órgano competente de la comunidad autónoma. Deberá estar formado por un mínimo de tres evaluadores.
+
+2\. Los evaluadores de las pruebas de carácter específico deberán acreditar, al menos, la titulación de Técnico Deportivo Superior Alta Montaña.
+
+### Artículo 24. Funciones del tribunal evaluador de la prueba de carácter específico.
+
+1\. El tribunal de la prueba de carácter específico tendrá, entre otras, las siguientes funciones:
+
+a) La organización de la prueba de carácter específico con arreglo a lo especificado en el anexo VII.
+
+b) Garantizar el correcto desarrollo de las pruebas de carácter específico, comprobando que los objetivos, los contenidos y la evaluación de los ejercicios que componen las pruebas se atienen a lo establecido en la descripción de estas.
+
+c) Los evaluadores realizarán la valoración de las actuaciones de los aspirantes de conformidad con lo establecido en los criterios de evaluación de los resultados de aprendizaje de la prueba de carácter específico.
+
+d) La evaluación final de los aspirantes.
+
+2\. El tribunal, como órgano colegiado, se regirá por lo establecido en el Título Preliminar, Capítulo II de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+3\. En el caso de que alguno de los aspirantes acredite algún tipo de discapacidad, el tribunal actuará de acuerdo con lo dispuesto en la Disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre.
+
+## CAPÍTULO VI — Profesorado
+
+### Artículo 25. Requisitos de titulación del profesorado en centros públicos de la administración educativa.
+
+Los requisitos de la titulación del profesorado en centros públicos se determinarán en función del bloque de enseñanza deportiva en que hayan de impartir la docencia:
+
+1\. La docencia en centros públicos de los módulos del bloque común que constituyen las enseñanzas deportivas de los ciclos de grado superior en alta montaña y grado superior en escalada corresponde al profesorado de los cuerpos de catedráticos y profesores de enseñanza secundaria, según lo establecido en el anexo VIII.
+
+2\. La docencia en centros públicos de los módulos del bloque específico que constituyen las enseñanzas deportivas de los ciclos de grado superior en alta montaña y grado superior en escalada está especificada en el anexo IX–A y corresponde a:
+
+a) Profesores especialistas que posean, según corresponda, el título de Técnico Deportivo Superior en Alta Montaña o el título de Técnico Deportivo Superior en Escalada, o aquellos no titulados que acrediten la experiencia en el ámbito laboral y deportivo, o la experiencia docente, detallada en el anexo IX–B.
+
+b) Profesores de la especialidad de Educación Física de los cuerpos de catedráticos y de profesores de enseñanza secundaria que posean, según corresponda, el título de Técnico Deportivo Superior en Alta Montaña o el título de Técnico Deportivo Superior en Escalada.
+
+3\. Las administraciones educativas podrán autorizar la docencia de los módulos del bloque específico atribuidos al profesor especialista a los miembros de los Cuerpos de catedráticos y profesores de enseñanza secundaria con la especialidad de Educación física, cuando carezcan de los títulos de Técnico Deportivo Superior en Alta Montaña o de Técnico Deportivo Superior en Escalada, siempre que posean la formación diseñada al efecto o reconocida por dichas administraciones educativas, o la experiencia laboral o deportiva, o la experiencia docente, detallada en el anexo IX B.
+
+### Artículo 26. Requisitos de titulación del profesorado en centros privados y de titularidad pública de administraciones distintas a la educativa.
+
+Las titulaciones requeridas para la impartición de los módulos tanto del bloque común, como del bloque específico que forman los ciclos de grado superior en alta montaña y grado superior en escalada, para el profesorado de los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, se concretan en el anexo X.
+
+## CAPÍTULO VII — Vinculación a otros estudios
+
+### Artículo 27. Acceso a otros estudios.
+
+1\. Los títulos de Técnico Deportivo Superior en Alta Montaña y de Técnico Deportivo Superior en Escalada permiten el acceso directo a las enseñanzas universitarias oficiales de grado en las condiciones de admisión que se establezcan.
+
+2\. A los efectos de facilitar el régimen de convalidaciones se han asignado:
+
+a) 79 créditos ECTS a la duración total de las enseñanzas del ciclo de grado superior en alta montaña.
+
+b) 70 créditos ECTS a la duración total de las enseñanzas del ciclo de grado superior en escalada.
+
+3\. El número de créditos ECTS atribuido a cada uno de los módulos de enseñanza deportiva de estos ciclos se establecen en el anexo I–A.
+
+### Artículo 28. Convalidación de estas enseñanzas.
+
+1\. El Ministerio de Educación y Formación Profesional establecerá las convalidaciones que proceda otorgar del bloque común de las enseñanzas reguladas en el presente real decreto a aquellos que acrediten estudios o el título de:
+
+a) Licenciado en Ciencias de la Actividad Física y el Deporte, regulado por el Real Decreto 1670/1993, de 24 de septiembre, por el que se establece el título universitario oficial de Licenciado en Ciencias de la Actividad Física y del Deporte y las directrices generales propias de los planes de estudios conducente a la obtención del mismo.
+
+b) Diplomado en Educación Física y Licenciado en Educación Física, regulados por el Real Decreto 790/1981, de 24 de abril, sobre Institutos Nacionales de Educación Física y las enseñanzas que imparten.
+
+c) Maestro Especialista en Educación Física, regulado por el Real Decreto 1440/1991, de 30 de agosto, por el que se establece el título universitario, oficial de Maestro, en sus diversas especialidades y las directrices generales propias de los planes de estudios conducentes a su obtención.
+
+d) Técnico Superior en Animación de Actividades Físicas y Deportivas, regulado por el Real Decreto 2048/1995, de 22 de diciembre, por el que se establece el título de Formación Profesional de Técnico superior en Animación de Actividades Físicas y Deportivas y las correspondientes enseñanzas mínimas.
+
+e) Técnico en Conducción de Actividades Físico–Deportivas en el Medio Natural regulado por el Real Decreto 2049/1995, de 22 de diciembre, por el que se establece el título de Técnico en Conducción de Actividades Físico–Deportivas en el Medio Natural y las correspondientes enseñanzas mínimas.
+
+f) Graduado, regulado en la ordenación de la enseñanza universitaria oficial establecida en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, acreditando la obtención de las competencias adecuadas.
+
+g) Las materias de Bachillerato.
+
+h) Los títulos establecidos al amparo del Real Decreto 1913/1997, de 19 de diciembre, por el que se configuran como enseñanzas de régimen especial las conducentes a la obtención de titulaciones de técnicos deportivos, se aprueban las directrices generales de los títulos y de las correspondientes enseñanzas mínimas.
+
+2\. Las convalidaciones de módulos de enseñanza deportiva de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, con los módulos de enseñanza deportiva del bloque específico de los títulos de Técnico Deportivo Superior en Alta Montaña y de Técnico Deportivo Superior en Escalada que se establecen en el anexo XI.
+
+3\. Serán objeto de convalidación los módulos comunes y específicos de enseñanzas deportivas con la misma denominación y código.
+
+4\. La superación de la totalidad de los módulos del bloque común del grado superior, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre de Ordenación General del Sistema Educativo, se convalidarán por la totalidad de los módulos del bloque común de los ciclos de grado superior en alta montaña y grado superior en escalada. La superación de la totalidad de los módulos del bloque común de los ciclos de grado superior en alta montaña y grado superior en escalada se convalidará por la totalidad de los módulos del bloque común del grado superior de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre de Ordenación General del Sistema Educativo.
+
+### Artículo 29. Exención del módulo de formación práctica.
+
+Podrá ser objeto de exención total o parcial el módulo de formación práctica de los ciclos de grado superior en alta montaña y grado superior en escalada, en función de su correspondencia con la experiencia en el ámbito deportivo o laboral, detallada en el anexo XII.
+
+### Disposición adicional primera. Referencia del título en el marco europeo.
+
+Una vez establecido el marco nacional de cualificaciones, de acuerdo con las recomendaciones europeas, se determinará el nivel correspondiente de estas titulaciones en el marco nacional y su equivalente europeo.
+
+### Disposición adicional segunda. Oferta a distancia de los módulos de enseñanza deportiva de los presentes títulos.
+
+Los módulos de enseñanza deportiva que se establecen en el anexo XIII podrán ofertarse a distancia siempre que se garantice que el alumno pueda conseguir los resultados de aprendizaje de estos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
+
+### Disposición adicional tercera. Titulaciones equivalentes.
+
+Los títulos de Técnico Deportivo superior en Alta Montaña y Técnico Deportivo superior en Escalada, establecidos en el Real Decreto 318/2000, de 3 de marzo, tendrán, respectivamente, los mismos efectos profesionales y académicos que los títulos de Técnico Deportivo Superior en Alta Montaña y Técnico Deportivo Superior en Escalada establecidos en el presente real decreto.
+
+### Disposición adicional cuarta. Referencias genéricas.
+
+Todas las referencias al alumnado, profesorado y a titulaciones para las que en este real decreto se utiliza la forma del masculino genérico deben entenderse aplicables indistintamente a mujeres y a hombres.
+
+### Disposición transitoria primera. Profesor especialista del ciclo de grado superior en escalada en centros privados y de titularidad pública de administraciones distintas de la educativa.
+
+De forma excepcional, durante los cinco cursos académicos posteriores al de la entrada en vigor del presente real decreto, podrán ser profesores del bloque específico del ciclo de grado superior en escalada en centros privados y de titularidad pública de administraciones distintas de la educativa aquellos titulados como Técnicos Deportivos Superiores en Alta Montaña que acrediten la experiencia en el ámbito laboral y deportivo, o la experiencia docente detallada en el anexo IX B.
+
+### Disposición transitoria segunda. Aplicabilidad de otras normas.
+
+1\. Hasta que sea de aplicación lo dispuesto en este real decreto, en virtud de lo establecido en sus disposiciones finales tercera y quinta, será de aplicación lo dispuesto en el Real Decreto 318/2000, de 3 de marzo.
+
+2\. Así mismo, hasta que sea de aplicación la norma que regule, para el ámbito de gestión del Ministerio de Educación y Formación Profesional, el currículo correspondiente a los títulos de Técnico Deportivo Superior en Alta Montaña y de Técnico Deportivo Superior en Escalada, aquí regulados, será de aplicación lo establecido en la Orden ECI/858/2005, de 28 de marzo, por la que se establecen para el ámbito territorial de gestión directa del Ministerio de Educación y Ciencia, los currículos y las pruebas y requisitos de acceso correspondientes a los títulos de Técnico Deportivo y de Técnico Deportivo Superior de los Deportes de Montaña y Escalada.
+
+### Disposición derogatoria única. Derogación de normas.
+
+1\. Quedan derogados los aspectos del Real Decreto 318/2000, de 3 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo superior en las especialidades de los Deportes de Montaña y Escalada, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas, relacionados con las enseñanzas de los títulos de Técnico Deportivo superior en Alta Montaña y Técnico Deportivo superior en Escalada que constan en el mismo.
+
+2\. Quedan derogadas todas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+### Disposición final primera. Extinción de las enseñanzas conducentes al título de Técnico Deportivo Superior en Esquí de Montaña.
+
+En el caso del Técnico Deportivo superior en Esquí de Montaña regulado por el Real Decreto 318/2000, de 3 de marzo, las Administraciones educativas, en el ámbito de sus competencias, regularan el procedimiento de extinción y las fechas de las convocatorias, a las que tengan derecho los alumnos que en el momento de entrada en vigor de esta norma estén cursando las mencionadas enseñanzas de Técnico Deportivo superior en Esquí de Montaña. Este proceso debe haber finalizado antes del comienzo del tercer curso académico posterior al establecido en la Disposición final tercera.
+
+### Disposición final segunda. Título competencial.
+
+El presente real decreto tiene carácter de norma básica y se dicta, al amparo de las competencias que atribuye al Estado el artículo 149.1. 30.ª de la Constitución que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+
+### Disposición final tercera. Implantación del nuevo currículo.
+
+Las administraciones educativas que impartan las enseñanzas de grado medio de barrancos, escalada y media montaña deberán implantar el nuevo currículo de estas enseñanzas a partir del curso escolar 2021-2022.
+
+> Se modifica por la disposición final 5 del Real Decreto 567/2020, de 16 de junio. [Ref. BOE-A-2020-7314](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7314)
+
+### Disposición final cuarta. Autorización para el desarrollo.
+
+Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, y a las nuevas especialidades docentes de los cuerpos de profesor de enseñanza secundaria o catedrático de enseñanza secundaria, se autoriza al titular del Ministerio de Educación y Formación Profesional para la modificación y actualización de los anexos VIII, IX–A y X de este real decreto.
+
+### Disposición final quinta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 29 de noviembre de 2019.
+
+FELIPE R.
+
+La Ministra de Educación y Formación Profesional,
+
+MARÍA ISABEL CELAÁ DIÉGUEZ
+
+## ANEXO I-A — Distribución en créditos ECTS de la duración total de las enseñanzas
+
+|  | Equivalencia en créditos ECTS |
+|---|---|
+| *Bloque común* |  |
+| MED–C301 Factores fisiológicos del alto rendimiento. | 5 |
+| MED–C302 Factores psicosociales del alto rendimiento. | 3 |
+| MED–C303 Formación de formadores deportivos. | 4 |
+| MED–C304 Organización y gestión aplicada al alto rendimiento. | 4 |
+| Total. | 16 créditos ECTS |
+| *Bloque específico* |  |
+| MED–MOAM302 Perfeccionamiento técnico en alta montaña. | 10 |
+| MED–MOAM303 Guiado en alta montaña. | 12 |
+| MED–MOAM304 Escalada en hielo. | 6 |
+| MED–MOAM305 Esquí de montaña. | 10 |
+| MED–MOAM306 Preparación física del deportista de alta montaña. | 3 |
+| MED–MOAM307 Proyecto final. | 6 |
+| MED–MOAM308 Formación práctica. | 16 |
+| Total. | 63 créditos ECTS |
+| Total. | 79 créditos ECTS |
+
+|  | Equivalencia en créditos ECTS |
+|---|---|
+| *Bloque común* |  |
+| MED–C301 Factores fisiológicos del alto rendimiento. | 5 |
+| MED–C302 Factores psicosociales del alto rendimiento. | 3 |
+| MED–C303 Formación de formadores deportivos. | 4 |
+| MED–C304 Organización y gestión aplicada al alto rendimiento. | 4 |
+| Total. | 16 créditos ECTS |
+| *Bloque específico* |  |
+| MED-MORO309 Planificación en escalada deportiva. | 7 |
+| MED-MORO310 Entrenamiento en escalada. | 14 |
+| MED-MORO311 Organización de eventos de escalada. | 6 |
+| MED-MORO312 Escuela de escalada. | 5 |
+| MED-MORO313 Proyecto final. | 6 |
+| MED-MORO314 Formación práctica. | 16 |
+| Total. | 54 créditos ECTS |
+| Total. | 70 créditos ECTS |
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 235, de 2 de septiembre de 2020. [Ref. BOE-A-2020-10125](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10125)
+
+## ANEXO I-B — Distribución horaria el currículo básico
+
+|  | Currículo básico |
+|---|---|
+| *Bloque común* |  |
+| MED–C301 Factores fisiológicos del alto rendimiento. | 35 h |
+| MED–C302 Factores psicosociales del alto rendimiento. | 25 h |
+| MED–C303 Formación de formadores deportivos. | 30 h |
+| MED–C304 Organización y gestión aplicada al alto rendimiento. | 20 h |
+| Total. | 110 h |
+| *Bloque específico* |  |
+| MED–MOAM302 Perfeccionamiento técnico en alta montaña. | 60 h |
+| MED–MOAM303 Guiado en alta montaña. | 80 h |
+| MED–MOAM304 Escalada en hielo. | 46 h |
+| MED–MOAM305 Esquí de montaña. | 60 h |
+| MED–MOAM306 Preparación física del deportista de alta montaña. | 30 h |
+| MED–MOAM307 Proyecto final. | 40 h |
+| MED–MOAM308 Formación práctica. | 110 h |
+| Total. | 426 h |
+| Total. | 536 h |
+
+|  | Currículo básico |
+|---|---|
+| *Bloque común* |  |
+| MED–C301 Factores fisiológicos del alto rendimiento. | 35 h |
+| MED–C302 Factores psicosociales del alto rendimiento. | 25 h |
+| MED–C303 Formación de formadores deportivos. | 30 h |
+| MED–C304 Organización y gestión aplicada al alto rendimiento. | 20 h |
+| Total. | 110 h |
+| *Bloque específico* |  |
+| MED–MORO309 Planificación en escalada deportiva. | 50 h |
+| MED–MORO310 Entrenamiento en escalada. | 95 h |
+| MED–MORO311 Organización de eventos de escalada. | 45 h |
+| MED–MORO312 Escuela de escalada. | 35 h |
+| MED–MORO 313 Proyecto final. | 40 h |
+| MED–MORO 314 Formación práctica. | 110 h |
+| Total. | 375 h |
+| Total. | 485 h |
+
+## ANEXO II — Objetivos generales y módulos de enseñanza deportiva del ciclo de grado superior en alta montaña
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos II.a hasta el II.l por el art. 9.3 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+## ANEXO II.a — Objetivos generales
+
+a. Ejecutar técnicas avanzadas de progresión en terreno de escalada en roca, hielo y esquí de montaña en ascenso y descenso por terreno variado, con la seguridad suficiente y tomando conciencia de lo realizado para poder servir de referencia en el proceso de enseñanza - aprendizaje y aprovechar de manera óptima el tiempo de formación.
+
+b. Seleccionar y justificar los procedimientos de valoración de las características geográficas, meteorológicas y geológicas de la alta montaña, de los medios materiales e instalaciones utilizadas en alta montaña y de las normas propias de la especialidad si las hubiera, identificando sus características y aplicando los procedimientos.
+
+c. Seleccionar y justificar los procedimientos de análisis de los factores de rendimiento funcionales, fisiológicos, técnicos, psicológicos y sociológicos, y los criterios de selección de los deportistas, identificando sus características y aplicando los procedimientos establecidos, para valorar los factores de rendimiento propios de las actividades en alta montaña.
+
+d. Elegir y justificar los procedimientos de determinación de los objetivos, medios y métodos de entrenamiento y perfeccionamiento de las técnicas de progresión en alta montaña, aplicando los principios del entrenamiento y la programación a medio y largo plazo.
+
+e. Analizar la complejidad de las tareas y los factores relativos a la carga de trabajo de las técnicas de progresión en alta montaña (roca, hielo y esquí de montaña), diseñando actividades en supuestos establecidos y aplicando los principios y métodos del entrenamiento, para concretar las sesiones de trabajo.
+
+f. Elegir y demostrar técnicas y estrategias de dirección de sesiones en el entrenamiento y mejora de las técnicas de progresión en alta montaña, aplicando normas de protección del medioambiente, para dirigir el entrenamiento de deportistas.
+
+g Seleccionar, comprobar, mantener y ajustar los medios materiales e instalaciones propias de la conducción por alta montaña, aplicando procedimientos establecidos y la normativa vigente, operando con los instrumentos de reparación y mantenimiento, para facilitar la disponibilidad y adecuada utilización de los medios necesarios.
+
+h. Evaluar las condiciones de seguridad de equipamientos y recorridos por alta montaña, aplicando los procedimientos establecidos y la normativa vigente, para controlar la seguridad en la práctica de este nivel.
+
+i. Elegir y demostrar las técnicas de ayuda y rescate propias de la conducción de deportistas por terrenos de alta montaña, escalada en roca y hielo y esquí de montaña, aplicando los procedimientos establecidos en situaciones simuladas, para intervenir y rescatar en situaciones de riesgo.
+
+j. Analizar y justificar las necesidades de intervención de otros especialistas en la preparación y la realización de actividades de conducción por alta montaña, describiendo las funciones y objetivos a desarrollar, para determinar la constitución y coordinación de equipos de trabajo multidisciplinares.
+
+k. Analizar las características de la formación de los técnicos deportivos en deportes de montaña y escalada, las de los centros autorizados oficialmente, justificando las estrategias de enseñanza y aprendizaje de las competencias profesionales.
+
+l. Identificar y analizar las características organizativas, medios materiales y humanos de las escuelas de alta montaña.
+
+m. Analizar y elaborar itinerarios de conducción y sus actividades complementarias, identificando la normativa relacionada, las características de la zona en situaciones simuladas y aplicando los protocolos establecidos, para diseñar recorridos y actividades de conducción de deportistas en itinerarios de todas las dificultades en alta montaña con los condicionantes expresados en la competencia general.
+
+n. Analizar y elaborar la estructura organizativa de las actividades de conducción en terrenos de alta montaña en función de las condiciones de la zona donde se desarrolle la actividad.
+
+ñ. Describir, elegir y demostrar las técnicas y estrategias de conducción de personas y de control de las contingencias en actividades de alta montaña, aplicando procedimientos de observación, dinamización y control, resolviendo supuestos y aplicando normas de protección del medioambiente, para guiar deportistas en itinerarios de alta montaña.
+
+o. Diseñar y justificar los procedimientos de recogida de información y valoración de la adecuación de las actividades de conducción por alta montaña, del entrenamiento y perfeccionamiento técnico de las técnicas de progresión específicas, analizando las variables que intervienen en supuestos, para evaluar el proceso.
+
+p. Describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los deportistas, para transmitir valores propios de la actividad deportiva a través del comportamiento ético personal.
+
+q. Reconocer, promover y justificar los valores de compromiso, trabajo bien hecho y aprendizaje constante, describiendo los aspectos observables de la conducta, que reflejan estos valores, para mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el desempeño de su labor como técnico.
+
+> Se numera como Anexo II.a por el art. 9.3.a) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.b — Módulo común de enseñanza deportiva: Factores fisiológicos del alto rendimiento
+
+Código: MED-C301
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Analiza los principales conceptos del metabolismo energético y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+a) Se han identificado los principales conceptos del metabolismo energético.
+
+b) Se han analizado las diferentes vías metabólicas y las principales fuentes de energía en relación con el ejercicio físico, incidiendo en los aspectos fisiológicos que determinan la resistencia.
+
+c) Se han analizado las principales adaptaciones fisiológicas al entrenamiento de los diferentes sistemas del organismo en relación con el metabolismo energético.
+
+d) Se han valorado las características del metabolismo energético en mujeres deportistas, así como sus adaptaciones fisiológicas al entrenamiento.
+
+RA-2. Analiza los principales componentes del sistema neuromuscular y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+a) Se ha analizado el sistema neuromuscular, incidiendo en los aspectos fisiológicos y mecánicos que determinan la fuerza, la velocidad y la amplitud de movimiento.
+
+b) Se ha descrito el concepto de fuerza y sus diferentes manifestaciones en relación con la actividad físico-deportiva.
+
+c) Se ha descrito el concepto de velocidad y sus diferentes manifestaciones en relación con la actividad físico-deportiva, así como su implicación en las capacidades coordinativas.
+
+d) Se han analizado las principales adaptaciones al entrenamiento en relación con el sistema neuromuscular.
+
+e) Se han valorado las características del sistema neuromuscular en mujeres deportistas, así como sus adaptaciones fisiológicas al entrenamiento.
+
+RA-3. Selecciona a los/las deportistas para la alta competición analizando los factores fisiológicos determinantes que influyen en el alto rendimiento.
+
+a) Se han identificado los principales factores fisiológicos determinantes y limitantes del alto rendimiento deportivo.
+
+b) Se han analizado los fundamentos de la evaluación de la capacidad funcional vinculados al alto rendimiento deportivo.
+
+c) Se han interpretado los resultados y diferencias entre hombres y mujeres en la evaluación de la capacidad funcional.
+
+d) Se ha interpretado la importancia de la valoración anatómica y fisiológica como elemento de selección de los/las deportistas en el alto rendimiento deportivo, empleando diferentes métodos y tecnologías fiables, válidas y sensibles.
+
+e) Se ha descrito la organización de los equipos de trabajo en el alto rendimiento deportivo, identificando las diferentes funciones y roles de los especialistas que los componen.
+
+RA-4. Colabora con la persona especialista en la determinación de la dieta y en la prescripción de ayudas ergogénicas analizando los principales conceptos de nutrición deportiva y los efectos nocivos de las sustancias dopantes para la salud.
+
+a) Se han identificado los principios fundamentales y los conceptos básicos de la nutrición, la suplementación y las ayudas ergogénicas en relación con el ámbito físico-deportivo.
+
+b) Se han interpretado los resultados de la valoración nutricional del deportista a partir de los datos de un supuesto práctico.
+
+c) Se han elaborado de manera justificada las estrategias de reposición de nutrientes, agua y sales minerales durante el entrenamiento y la competición, aplicándolas en supuestos prácticos basados en los conceptos de fisiología y nutrición deportiva estudiados.
+
+d) Se han identificado los principales aspectos en el diseño de la dieta de los y las deportistas, así como en la adecuada prescripción de suplementos y ayudas ergogénicas para la mejora del rendimiento físico-deportivo durante el entrenamiento y la competición, contemplando las necesidades nutricionales particulares de las mujeres y hombres deportistas de alto rendimiento.
+
+e) Se han identificado las principales sustancias dopantes y sus efectos nocivos para la salud.
+
+RA-5. Programa y dirige el entrenamiento del deportista aplicando los conceptos de carga, fatiga y recuperación.
+
+a) Se han clasificado los diferentes tipos de fatiga, central o periférica y aguda o crónica, así como sus mecanismos de producción.
+
+b) Se han analizado los efectos de la fatiga deportiva en el sistema neuromuscular, endocrino e inmunológico.
+
+c) Se han empleado diferentes medios y métodos para cuantificar la fatiga producida por el entrenamiento.
+
+d) Se han diseñado y aplicado diferentes medios y métodos de recuperación según el mecanismo de producción de la fatiga.
+
+e) Se ha valorado la importancia de la monitorización de la carga para una adecuada gestión del entrenamiento, con el propósito de prevenir el síndrome de sobreentrenamiento y reducir el riesgo de lesiones deportivas.
+
+f) Se han empleado diferentes métodos y tecnologías, validas, fiables y sensibles de monitorización de la carga de entrenamiento.
+
+RA-6. Programa y dirige el entrenamiento y/o la competición en condiciones especiales identificando sus bases y características más importantes.
+
+a) Se han analizado las causas y los efectos fisiológicos producidos por el entrenamiento y/o la competición en condiciones extremas de calor, frío y/o humedad.
+
+b) Se han diseñado entrenamientos y estrategias de mejora de la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de temperatura y/o humedad extrema.
+
+c) Se han identificado las bases y protocolos de entrenamiento controlado en calor utilizados como medio de mejora del rendimiento físico-deportivo.
+
+d) Se han analizado las causas y los efectos fisiológicos producidos por los entrenamientos y/o competición en altura, así como sus posibles efectos positivos y negativos sobre el rendimiento físico-deportivo.
+
+e) Se han diseñado entrenamientos en diferentes situaciones de altitud, así como estrategias de adaptación de los/las deportistas a dichas condiciones.
+
+f) Se han analizado los efectos fisiológicos producidos por cambios significativos de huso horario sobre el rendimiento del deportista en el entrenamiento y/o la competición.
+
+g) Se han diseñado entrenamientos en situaciones de cambio horario, así como estrategias de adaptación de los/las deportistas a dichas condiciones.
+
+h) Se ha valorado la colaboración con el grupo de especialistas en la dirección del entrenamiento en condiciones especiales (altitud, cambios horarios, frío, calor, humedad).
+
+Contenidos básicos
+
+RA-1. Analiza los principales conceptos del metabolismo energético y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+1\. Conceptos de metabolismo, catabolismo y anabolismo. Absorción, transporte y almacenamiento de nutrientes.
+
+2\. El ATP. Principales vías metabólicas:
+
+– Vías anaeróbicas: sistema ATP-PC, glucólisis anaeróbica y ciclo de Cori.
+
+– Vías aeróbicas: glucólisis aeróbica y ciclo de Krebs.
+
+3\. Fuentes de energía en relación con las diferentes vías metabólicas: ATP, PC, glucosa, glucógeno, ácidos grasos y proteínas.
+
+4\. Implicación fisiológica de las vías metabólicas en relación con la resistencia durante la actividad físico-deportiva.
+
+5\. El modelo trifásico y los principales hitos fisiológicos: umbrales ventilatorios, VO2max, umbrales lácticos y Máximo Estado Estable del Lactato (MLSS). Métodos directos e indirectos para su valoración y control. Aplicación a los modelos por zonas de intensidad para la planificación y control del entrenamiento.
+
+6\. Conceptos de eficiencia y economía energética. Relevancia en la práctica físico-deportiva.
+
+7\. Principales adaptaciones fisiológicas, agudas y crónicas, al entrenamiento de los diferentes sistemas del organismo en relación con el metabolismo energético.
+
+8\. El metabolismo energético en mujeres deportistas. Principales características de sus adaptaciones fisiológicas al entrenamiento.
+
+RA-2. Analiza los principales componentes del sistema neuromuscular y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+1\. Funciones de los diferentes tipos de músculos: cardiaco, liso y esquelético.
+
+2\. Tipos, componentes y estructura del músculo esquelético. El tendón como transmisor de fuerzas del sistema musculoesquelético y su relación con el ciclo estiramiento-acortamiento (CEA).
+
+3\. La fibra muscular y el sarcómero como unidad funcional básica del músculo. Teoría del filamento deslizante.
+
+4\. Concepto de unidad motora y tipos de fibras musculares. Relación con los principales aspectos fisiológicos y mecánicos que determinan la fuerza, la velocidad y la amplitud de movimiento.
+
+5\. Concepto de fuerza. Principales manifestaciones en relación con la actividad físico-deportiva: fuerza aplicada, fuerza máxima, producción de fuerza por unidad de tiempo (RFD) y fuerza útil. Curvas de fuerza-tiempo y de fuerza-velocidad. Aplicaciones prácticas del entrenamiento de fuerza basadas en la velocidad.
+
+6\. Concepto de velocidad. Principales manifestaciones en relación con la actividad físico-deportiva: velocidad de reacción, gestual y de desplazamiento. Implicaciones sobre las capacidades coordinativas.
+
+7\. Principales adaptaciones, agudas y crónicas al entrenamiento en relación con el sistema neuromuscular: estructurales, nerviosas y hormonales.
+
+8\. Características del sistema neuromuscular y adaptaciones fisiológicas al entrenamiento en mujeres deportistas.
+
+RA-3. Selecciona a los/las deportistas para la alta competición analizando los factores fisiológicos determinantes que influyen en el alto rendimiento.
+
+1\. Aspectos limitantes y factores fisiológicos determinantes del alto rendimiento deportivo.
+
+2\. Fundamentos, medios directos e indirectos y métodos avanzados para la evaluación de la capacidad funcional en el alto rendimiento deportivo. Identificación de la tecnología adecuada y orientaciones para la interpretación de los resultados.
+
+3\. La valoración anatómico-fisiológica como elemento para la selección de los/las deportistas en el alto rendimiento deportivo: medios y métodos. Utilización de tecnología fiable, válida y sensible para una adecuada evaluación.
+
+4\. Análisis e interpretación de los resultados en los estudios antropométricos y de composición corporal utilizados en el alto rendimiento deportivo.
+
+5\. Valoración de las diferencias entre hombres y mujeres.
+
+6\. Organización de los equipos de trabajo en el alto rendimiento deportivo. Diferentes funciones y roles de los especialistas que los componen.
+
+RA-4. Colabora con la persona especialista en la determinación de la dieta y en la prescripción de ayudas ergogénicas analizando los principales conceptos de nutrición deportiva y los efectos nocivos de las sustancias dopantes para la salud.
+
+1\. Principios fundamentales y conceptos básicos de la nutrición, la suplementación y las ayudas ergogénicas en relación con el ámbito físico-deportivo.
+
+2\. Suplementos y ayudas ergogénicas respaldados por la evidencia científica más utilizados en el alto rendimiento deportivo. Criterios para un uso adecuado.
+
+3\. Valoración y control nutricional del deportista de alto rendimiento: medios, métodos e interpretación de los resultados. Identificación de la tecnología adecuada para la evaluación.
+
+4\. La reposición de nutrientes, agua y sales minerales durante el entrenamiento y la competición: bases fisiológicas y estrategias de aplicación individualizadas utilizadas en el alto rendimiento deportivo.
+
+5\. Orientaciones para la colaboración con la persona especialista en el diseño de la dieta, así como en la prescripción de suplementos y ayudas ergogénicas para la mejora del rendimiento físico-deportivo durante el entrenamiento y la competición.
+
+6\. El dopaje en el deporte: concepto, clasificación y ejemplos de sustancias y métodos prohibidos más extendidos en la práctica deportiva.
+
+7\. Toma de conciencia de las repercusiones del dopaje en la salud de los/las deportistas. Consecuencias legales y sanciones deportivas.
+
+8\. El control antidopaje: normativa, organismos y principales métodos para la detección de sustancias prohibidas.
+
+RA-5. Programa y dirige el entrenamiento del deportista aplicando los conceptos de carga, fatiga y recuperación.
+
+1\. Binomio fatiga-recuperación: concepto y relación con el rendimiento deportivo.
+
+2\. Fatiga, sobrecarga y sobreentrenamiento: concepto, tipos, mecanismos de producción, indicadores y formas de prevención.
+
+3\. Efectos de la fatiga en el sistema neuromuscular, endocrino e inmunológico.
+
+4\. La recuperación: concepto, medios y métodos. Relación con los mecanismos de producción.
+
+5\. Principales estrategias de recuperación en alto rendimiento: sueño, nutrición, hidratación, crioterapia, prendas compresivas, masaje, hidroterapia, etc.
+
+6\. Principios de aplicación de las estrategias de recuperación: individualización, alternancia y especificidad.
+
+7\. Pruebas objetivas y subjetivas para cuantificar la fatiga en el alto rendimiento deportivo: marcadores fisiológicos y bioquímicos, test físicos y escalas subjetivas de bienestar.
+
+8\. Relación entre carga de entrenamiento y lesiones por sobreuso.
+
+9\. Nuevas tecnologías para la monitorización de la carga de entrenamiento en el alto rendimiento deportivo.
+
+RA-6. Programa y dirige el entrenamiento y/o la competición en condiciones especiales identificando sus bases y características más importantes.
+
+1\. Causas, efectos y respuestas fisiológicas producidos por el entrenamiento y/o la competición en condiciones extremas de calor, frío y/o humedad.
+
+2\. Diseño y elaboración de entrenamientos en situaciones de temperatura y/o humedad extrema.
+
+3\. Estrategias para facilitar la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de temperaturas y/o humedades extremas.
+
+4\. Diseño y elaboración de protocolos y sesiones de entrenamiento controlado en calor para la mejora del rendimiento físico-deportivo.
+
+5\. Respuesta fisiológica aguda, reposo vs. ejercicio y crónica. Efectos y adaptaciones a la altitud sobre el sistema cardiorrespiratorio, hormonal y neuromuscular.
+
+6\. Diseño y elaboración de programas de entrenamiento en altitud.
+
+7\. Estrategias de entrenamiento en condiciones de hipoxia.
+
+8\. Estrategias para facilitar la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de altitud.
+
+9\. Efectos y respuestas fisiológicas producidos por el cambio horario en los diferentes sistemas del organismo: alteraciones de los ritmos circadianos, frecuencia cardíaca y ventilatoria, función urinaria, gástrica y hormonal. Consecuencias sobre el rendimiento físico-deportivo.
+
+10\. Consideraciones y estrategias en la programación del entrenamiento y la competición para facilitar la adaptación de los/las deportistas en situaciones de cambio horario.
+
+> Se numera como Anexo II.b y se sustituye por el que figura como Anexo I del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 9.3.b)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.c — Módulo común de enseñanza deportiva: Factores psicosociales del alto rendimiento
+
+Código: MED-C302
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Identifica los factores psicológicos del deportista analizando los principales conceptos de la psicología del deporte, sus efectos en el rendimiento y el bienestar del deportista.
+
+a) Se han identificado los objetivos y funciones de la psicología del deporte.
+
+b) Se han analizado las contribuciones de los factores psicológicos a la progresión y el rendimiento de los/las deportistas de alto nivel.
+
+c) Se han descrito las principales destrezas psicológicas del deportista que influyen en el rendimiento deportivo según la modalidad deportiva.
+
+d) Se ha argumentado la necesidad de integrar las destrezas psicológicas en la evaluación del rendimiento de los/las deportistas de alto nivel.
+
+e) Se han descrito las principales situaciones de riesgo para la salud mental y el bienestar psicológico del deportista.
+
+RA-2. Selecciona al/a la deportista para la alta competición, analizando las características psicológicas de los/las deportistas y equipos de alto nivel y las exigencias psicológicas del alto rendimiento.
+
+a) Se han definido las características psicológicas óptimas, de deportistas y equipos, que demanda el alto rendimiento deportivo en el entrenamiento y en la competición.
+
+b) Se han analizado específicamente peculiaridades psicológicas de las mujeres deportistas en el alto rendimiento.
+
+c) Se han analizado los condicionantes psicológicos y las consideraciones específicas de los/las deportistas con discapacidad en el alto rendimiento.
+
+d) Se han propuesto de forma justificada criterios psicológicos de selección de deportistas de alto nivel en función de las exigencias del entrenamiento y la competición de alto nivel.
+
+e) Se han aplicado procedimientos psicológicos de detección de deportistas de alto nivel, mediante la realización de entrevistas y la observación de deportistas en situaciones simuladas de competición y entrenamiento.
+
+f) Se ha argumentado la importancia de la incorporación de protocolos psicológicos en la detección de deportistas de alto nivel.
+
+RA-3. Valora el entorno del/de la deportista, analizando los aspectos sociales que afectan a su rendimiento deportivo y facilitan su formación académica.
+
+a) Se han reconocido los aspectos sociales del entorno que afectan al rendimiento de los diferentes tipos de deportista de alto nivel.
+
+b) Se han definido los aspectos sociales del entorno del/de la deportista que facilitan su formación académica.
+
+c) Se han aplicado procedimientos de evaluación del entorno del/de la deportista que afectan a su rendimiento, en un supuesto práctico debidamente caracterizado.
+
+d) Se han aplicado de manera justificada medios de gestión del entorno, en situaciones simuladas debidamente caracterizadas, que eviten la interferencia con la formación deportiva y académica del/de la deportista.
+
+e) Se ha argumentado la conveniencia de que el/la entrenador/a facilite al/a la deportista la posibilidad de compaginar la carrera deportiva con la formación académica y la conciliación de la vida familiar y deportiva.
+
+f) Se han localizado, en una situación simulada debidamente caracterizada, las ayudas y fuentes de información de que disponen los/las deportistas de alto nivel al llegar al final de su carrera deportiva, que facilitan su integración en la vida laboral.
+
+g) Se ha reconocido la importancia de incorporar el análisis de los aspectos sociales del entorno del/de la deportista en la evaluación de su rendimiento.
+
+h) Se ha valorado la actitud positiva del/de la entrenador/a hacia el reconocimiento y prevención de los problemas de inserción laboral más frecuentes en los/las deportistas de alto nivel.
+
+RA-4. Participa en la preparación psicológica del deportista de alto rendimiento, analizando y aplicando actividades y técnicas de mejora de las destrezas psicológicas.
+
+a) Se han descrito las características y estructura de las técnicas de preparación psicológica que influyen en la mejora del rendimiento deportivo.
+
+b) Se han puesto en práctica actividades de preparación psicológica que influyen en la mejora del rendimiento deportivo en un supuesto practico debidamente caracterizado.
+
+c) Se han aplicado métodos de preparación psicológica en la mejora del afrontamiento de la competición que los/las deportistas de alto nivel hacen en situaciones simuladas debidamente caracterizadas.
+
+d) Se han realizado sencillas secuencias de actividades que favorezcan la mejora de las destrezas psicológicas en función de las exigencias de la especialidad deportiva y las características del deportista de una situación simulada debidamente caracterizada.
+
+RA-5. Colabora en la planificación de la preparación psicológica del/de la deportista, analizando la estructura de la preparación y aplicando criterios de secuenciación de los procedimientos y métodos para afrontar la alta competición.
+
+a) Se ha reconocido la pertinencia de integrar la preparación psicológica en la programación de la preparación general del/de la deportista.
+
+b) Se han elaborado sesiones de entrenamiento de las diferentes destrezas psicológicas que influyen en el rendimiento del deportista de alta competición.
+
+c) Se ha planificado la preparación psicológica dirigida a mejorar el rendimiento deportivo en la alta competición distribuyendo las cargas de trabajo de las diferentes destrezas psicológicas a lo largo de la temporada.
+
+d) Se han integrado en un supuesto práctico de preparación deportiva los procedimientos psicológicos de mantenimiento de la motivación de los/las deportistas de alto nivel a lo largo de la temporada deportiva.
+
+e) Se han programado los procesos relacionados con la forma en que el/la deportista de alto nivel afronta la competición en un supuesto práctico.
+
+f) Se ha valorado la importancia de la gestión psicológica en el proceso de rehabilitación de lesiones en los/las deportistas de alto rendimiento.
+
+g) Se ha valorado la importancia de la gestión psicológica en el proceso de finalización de la etapa competitiva en la vida del deportista y tránsito a la vida lejos de la competición.
+
+RA-6. Coordina el equipo de personal técnico en ciencias aplicadas al deporte, identificando las funciones del/de la psicólogo/a y aplicando técnicas de liderazgo en la gestión de recursos humanos.
+
+a) Se han definido los roles del/de la profesional de la psicología, diferenciándolos de las funciones del entrenador y de la entrenadora.
+
+b) Se han descrito los diferentes estilos de liderazgo de que dispone el/la entrenador/a en la gestión del equipo del personal técnico especialista.
+
+c) Se han descrito las pautas para desarrollar la cohesión del grupo de los recursos humanos del staff técnico.
+
+d) Se han identificado aquellas pautas de comunicación que puede utilizar el/la entrenador/a que generan credibilidad en su equipo de técnicos/as especialistas.
+
+e) Se han aplicado los estilos de liderazgo, las técnicas de cohesión de grupo y las pautas de comunicación en la gestión de los recursos humanos del staff técnico en situaciones simuladas de trabajo en equipo.
+
+f) Se han descrito las pautas a seguir por parte del técnico en la incorporación de las aportaciones especializadas del/de la profesional de la psicología a la preparación del/de la deportista en función del grado de participación de la persona especialista con el/la deportista.
+
+g) Se ha justificado la conveniencia de disponer de equipos de personal técnico especialista en ciencias del deporte.
+
+h) Se han descrito los aspectos de la preparación deportiva susceptibles de ser derivados al/a la profesional de la psicología.
+
+Contenidos básicos
+
+RA-1. Identifica los factores psicológicos del deportista analizando los principales conceptos de la psicología del deporte, sus efectos en el rendimiento y el bienestar del deportista.
+
+1\. La psicología del deporte y el ejercicio físico: historia y evolución.
+
+2\. Objetivos principales de la psicología del deporte.
+
+3\. Funciones y áreas de estudio de la psicología del deporte.
+
+4\. Factores psicológicos y su contribución a la progresión y el rendimiento:
+
+– La personalidad y su estructura de análisis.
+
+– Motivación y competitividad.
+
+– *Arousal*, estrés y ansiedad.
+
+– Rasgos de la personalidad, estados emocionales y herramientas de medida: tests, inventarios y directrices para su uso.
+
+– Fases de desarrollo de la motivación de logro y la competitividad.
+
+– Teorías e hipótesis sobre el efecto del *arousal*y la ansiedad en la ejecución.
+
+– Destrezas psicológicas que influyen en el rendimiento deportivo como la regulación del *arousal*, visualización, autoconfianza, establecimiento de objetivos y concentración.
+
+– Contribuciones de las destrezas psicológicas del deportista a la progresión y el rendimiento de los/las deportistas de alto nivel según la modalidad deportiva.
+
+– La necesidad de integrar aspectos psicológicos en la evaluación del deportista para la mejora del rendimiento deportivo.
+
+– Influencia en el rendimiento deportivo de la motivación del deportista, los rasgos de personalidad, el nivel de competitividad o la gestión de la ansiedad.
+
+– El autoconcepto, la conducta Tipo A y su relevancia en la salud mental del deportista.
+
+RA-2. Selecciona al/a la deportista para la alta competición, analizando las características psicológicas de los/las deportistas y equipos de alto nivel y las exigencias psicológicas del alto rendimiento.
+
+1\. Características psicológicas óptimas de los/las deportistas y equipos de alto nivel en el entrenamiento y en la competición.
+
+2\. Modelo de salud mental positiva (Morgan 1979) para la predicción del éxito deportivo. El perfil de Iceberg.
+
+3\. Peculiaridades psicológicas y consideraciones específicas de la mujer deportista de alto rendimiento.
+
+4\. Condicionantes psicológicos y consideraciones específicas de los/las deportistas con discapacidad en el alto rendimiento.
+
+5\. Identificación del perfil psicológico de los/las deportistas y equipos de alto nivel.
+
+6\. Importancia de los aspectos psicológicos en los procesos de detección de deportistas de alto nivel.
+
+7\. Criterios psicológicos en la selección de deportistas de alto nivel.
+
+8\. Aplicación de procedimientos de selección psicológica de deportistas de alto nivel.
+
+9\. Métodos de evaluación de las destrezas psicológicas implicados en el entrenamiento y en la competición para su selección.
+
+10\. Registro y análisis de la actuación psicológica de los/las deportistas en entrenamiento y en competición para su selección.
+
+11\. La necesidad de integrar las destrezas psicológicas en la selección del deportista de alto nivel.
+
+RA-3. Valora el entorno del/de la deportista, analizando los aspectos sociales que afectan a su rendimiento deportivo y facilitan su formación académica.
+
+1\. Aspectos sociales del entorno del/de la deportista de alto nivel relacionados con el rendimiento deportivo y académico (familia, relaciones sociales y afectivas, centro educativo y/o laboral, club, federación, patrocinadores, representantes, medios de comunicación y redes sociales).
+
+2\. Características específicas del entorno de la mujer deportista.
+
+3\. Características específicas del entorno del/de la deportista con discapacidad en el alto rendimiento.
+
+4\. Interacciones entre las características psicológicas de los/las deportistas de alto nivel y los aspectos sociales de su entorno.
+
+5\. Aspectos sociales del entorno del/de la deportista relacionados con su formación académica.
+
+6\. Evaluación de los aspectos sociales del entorno del/de la deportista relacionados con su progresión deportiva.
+
+7\. Medios de gestión del entorno por parte del/de la entrenador/a para que no interfiera en la preparación deportiva, académica o en el rendimiento deportivo del/de la deportista (formación de las familias, educación de los medios de comunicación, gestión de las redes sociales).
+
+8\. Desarrollo de una actitud en el/la entrenador/a que facilite al/a la deportista compaginar sus estudios con la práctica deportiva.
+
+9\. Conciliación personal-familiar y deportiva, las expectativas de maternidad de las deportistas durante la vida deportiva.
+
+10\. Problemas de inserción laboral más frecuentes en deportistas de alto nivel. Identificación de las ayudas y fuentes de información que facilitan la integración de los/las deportistas de alto nivel a la vida laboral.
+
+11\. Evaluación de los efectos del entorno del deportista en su rendimiento deportivo.
+
+12\. La actitud positiva del/de la entrenador/a hacia el reconocimiento y la prevención de problemas de inserción laboral en los/las deportistas de alto nivel.
+
+13\. La integración de los aspectos sociales del entorno del/de la deportista en la evaluación de su rendimiento.
+
+RA-4. Participa en la preparación psicológica del deportista de alto rendimiento, analizando y aplicando actividades y técnicas de mejora de las destrezas psicológicas.
+
+1\. Técnicas para desarrollar y perfeccionar las habilidades psicológicas para la mejora del rendimiento.
+
+– Técnicas de reducción de la ansiedad.
+
+– Técnicas inductoras del *arousal*.
+
+– Ejercicios para trabajar los diferentes tipos de visualización.
+
+– Estrategias para trabajar la autoconfianza.
+
+– Principios básicos del establecimiento de objetivos.
+
+– Ejercicios para mejorar la concentración y el foco atencional.
+
+2\. Estrategias para conseguir un determinado estado mental para realizar conductas relevantes para la mejora del rendimiento y/o la salud psicológica.
+
+3\. Aplicación de situaciones de competitividad y cooperación como herramientas para el aumento del rendimiento.
+
+4\. Utilización del*Feedback*y técnicas de reforzamiento de la conducta.
+
+5\. Métodos aplicados para la preparación psicológica del afrontamiento de la competición deportiva de alto nivel.
+
+6\. Secuencias y progresiones de actividades para la mejora de las destrezas psicológicas específicas de la modalidad deportiva en función de las peculiaridades del deportista.
+
+RA-5. Colabora en la planificación de la preparación psicológica del/de la deportista, analizando la estructura de la preparación y aplicando criterios de secuenciación de los procedimientos y métodos para afrontar la alta competición.
+
+1\. Los programas de entrenamiento de las destrezas psicológicas y su integración en la planificación deportiva general.
+
+2\. Estructura y diseño de las sesiones de entrenamiento de las destrezas psicológicas del deportista de alta competición como unidad de programación.
+
+3\. Programas de sesiones para la mejora de las distintas destrezas psicológicas que influyen en el rendimiento deportivo.
+
+4\. Distribución de las cargas de trabajo de las distintas destrezas psicológicas a lo largo de la temporada deportiva.
+
+5\. Diseño y evaluación de programas de mejora de las destrezas psicológicas.
+
+6\. Procedimientos psicológicos para mantener la motivación de deportistas de alto nivel a lo largo de la temporada.
+
+7\. Métodos de preparación psicológica para mejorar el afrontamiento que los/las deportistas de alto nivel hacen de la competición.
+
+8\. Planificación de los procesos de afrontamiento de la competición implicados en el alto rendimiento deportivo.
+
+9\. Elaboración de programaciones deportivas que integren los procesos de motivación y de afrontamiento de la competición.
+
+10\. Relevancia del trabajo psicológico para deportistas de alto nivel en situaciones de riesgo para su salud mental:
+
+– Procesos de rehabilitación de lesiones.
+
+– Finalización de la etapa competitiva en la vida del deportista y tránsito a la vida lejos de la competición.
+
+RA-6. Coordina el equipo de personal técnico en ciencias aplicadas al deporte, identificando las funciones del/de la psicólogo/a y aplicando técnicas de liderazgo en la gestión de recursos humanos.
+
+1\. Funciones del/de la profesional de la psicología aplicada al deporte y del técnico en los programas de entrenamiento de las destrezas psicológicas:
+
+– Detección de necesidades.
+
+– Diseño de la planificación.
+
+– Implementación del programa.
+
+– Supervisión y evaluación del programa.
+
+2\. Estilos de liderazgo aplicados en la conducción de equipos de trabajo.
+
+3\. Pautas para el desarrollo de un buen liderazgo de equipos de trabajo.
+
+4\. Pautas para el desarrollo de la cohesión de grupo y su medición.
+
+5\. Análisis de la comunicación para generar credibilidad en el conjunto de especialistas en ciencias aplicadas al deporte.
+
+6\. Protocolos para integrar la aportación del/de la profesional de la psicología en la preparación de deportistas de alto nivel.
+
+7\. La necesidad de disponer de equipos técnicos multidisciplinares.
+
+8\. La derivación de aspectos de la preparación de deportistas de alto nivel a profesionales de la psicología. Pautas de actuación.
+
+> Se numera como Anexo II.c y se sustituye por el que figura como Anexo II del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 9.3.c)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.d — Módulo común de enseñanza deportiva: Formación de formadores deportivos
+
+Código: MED-C303
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Elabora la programación didáctica de los módulos de enseñanzas deportivas, analizando la normativa de ordenación de las mismas, de los centros docentes, del profesorado y de la evaluación, aplicando los procesos de programación y secuenciación.
+
+a) Se ha analizado la organización básica de las enseñanzas deportivas en relación con el sistema educativo.
+
+b) Se ha analizado la normativa que rige el funcionamiento y organización de los diferentes tipos de centros docentes en los que se puede impartir las enseñanzas deportivas de régimen especial.
+
+c) Se han analizado las diferentes formas de colaboración entre las administraciones educativas y las federaciones deportivas, para impartir las enseñanzas deportivas.
+
+d) Se han relacionado las competencias del perfil profesional y los objetivos generales de un ciclo de enseñanzas deportivas con los resultados de aprendizaje de uno de los módulos y sus criterios de evaluación, mediante la valoración de sus características.
+
+e) Se han analizado los conceptos, procedimientos y actitudes que soportan los criterios de evaluación de los resultados de aprendizaje de un módulo específico de enseñanza deportiva.
+
+f) Se ha elaborado la programación didáctica de un módulo específico, en situaciones simuladas que concreten, entre otras, el tipo de enseñanza y el entorno docente.
+
+g) Se ha valorado justificadamente la importancia de programar en la formación de técnicos deportivos.
+
+RA-2. Elabora las sesiones de formación de técnicos deportivos de la programación didáctica conforme a sus elementos, valorando las características del alumnado adulto, y analizando, seleccionando y diseñando recursos didácticos propios de las enseñanzas deportivas.
+
+a) Se han valorado las características individuales y psicosociales del alumnado, en una situación simulada de formación de técnicos deportivos con un grupo diverso que incluya elementos de atención a las personas con discapacidad.
+
+b) Se han analizado las características de los recursos didácticos (actividades, tareas, materiales y medios) y las pautas didácticas que facilitan el proceso de enseñanza-aprendizaje presencial y a distancia, en un supuesto práctico de sesión de formación de técnicos deportivos.
+
+c) Se han seleccionado y diseñado actividades, tareas, materiales y medios didácticos (tradicionales, digitales y multimedia), en una sesión de trabajo donde se establezca el tipo de sesión (teórica, práctica, presencial y a distancia), el módulo específico, la concreción curricular y la estructura de sesión.
+
+d) Se han seleccionado y diseñado recursos didácticos alternativos en una situación simulada de una incidencia técnica, debidamente caracterizada de atención a una necesidad educativa especial o aplicación del principio de igualdad de oportunidades entre mujeres y hombres en la formación de técnicos deportivos.
+
+e) Se ha valorado justificadamente la importancia de seleccionar y diseñar recursos didácticos en la programación didáctica previamente a su utilización en la formación de técnicos deportivos, así como recursos didácticos alternativos frente a posibles incidencias y en atención a la diversidad.
+
+RA-3. Imparte formación de técnicos deportivos conforme a la programación didáctica, aplicando la metodología de enseñanza-aprendizaje y analizando la disposición docente que facilita el aprendizaje y la evaluación.
+
+a) Se han demostrado comportamientos y actitudes docentes que potencien y afiancen el rendimiento y la implicación del alumnado adulto en su formación deportiva, en situaciones simuladas de dirección de sesiones donde se establezcan las características del alumnado.
+
+b) Se han aplicado los estilos de enseñanza y las estrategias pedagógicas de fomento de los estilos de aprendizaje adecuados a la adquisición de competencias profesionales, en un supuesto practico debidamente caracterizado en el que se establezca el tipo de práctica, la modalidad de enseñanza, el módulo específico y las características del alumnado.
+
+c) Se ha dirigido una sesión de formación de enseñanzas deportivas, en un supuesto practico debidamente caracterizado en el que se establezca el tipo de sesión (teórica o práctica), la modalidad de enseñanza y la programación de la sesión.
+
+d) Se han aplicado recursos didácticos alternativos, en un supuesto práctico de una incidencia técnica y en otro de atención a la diversidad en la formación de técnicos deportivos, poniendo en práctica los recursos que resulten más adecuados en cada caso.
+
+e) Se han aplicado las estrategias, instrumentos y formas de evaluación de competencias profesionales en las enseñanzas deportivas, en una situación simulada donde se establezcan las características de los alumnos y los criterios de evaluación de los resultados de aprendizaje de un módulo específico.
+
+f) Se ha resuelto de forma argumentada una reclamación de calificación presentada por un/a alumno/a de enseñanzas deportivas, en una situación simulada en la que se concrete la comunidad autónoma y la normativa a utilizar.
+
+RA-4. Tutoriza técnicos deportivos en su proceso de formación específica (módulos específicos, de formación práctica y proyecto final), analizando y aplicando las estrategias y procedimientos específicos de tutorización.
+
+a) Se han comparado las diferentes estrategias y procedimientos que permiten establecer una línea de trabajo continua y coherente entre los módulos del bloque específico y los del bloque común de las enseñanzas deportivas.
+
+b) Se han analizado las estrategias y procedimientos de actuación en la tutorización de técnicos deportivos y en la dirección de su proyecto final, para su seguimiento y orientación.
+
+c) Se han categorizado y aplicado las diferentes formas de contacto y colaboración con los centros de prácticas para la formalización del convenio de colaboración del módulo de formación práctica.
+
+d) Se han concretado los conceptos, procedimientos y actitudes establecidos en los criterios de evaluación del módulo de formación práctica que deben formar parte del guion de la memoria de prácticas.
+
+e) Se ha valorado la importancia de que el alumnado en prácticas recoja en un diario de campo el registro de lo realizado como elemento de aprendizaje reflexivo.
+
+f) Se han elaborado de forma justificada los apartados clave a incluir en el guion de la presentación oral y escrita de un proyecto final de las enseñanzas deportivas, en un supuesto práctico en el que se establezca la temática del proyecto.
+
+g) Se han ejemplificado estrategias de orientación a aplicar a un/a supuesto/a alumno/a en una situación simulada de seguimiento realizado en un ciclo superior de las enseñanzas deportivas, detectando los momentos en los que habrían sido necesarias.
+
+h) Se ha evaluado una memoria de prácticas o un proyecto final, en una situación simulada donde se establezca dicho documento y los criterios de evaluación de los resultados de aprendizaje de un módulo de formación práctica o de proyecto final.
+
+i) Se ha elaborado de forma justificada el modelo de informe de evaluación, en un supuesto práctico en el que se establece el tipo de módulo a informar.
+
+RA-5. Promueve el desarrollo ético y moral de técnicos y deportistas de alto rendimiento, valorando el impacto que sus comportamientos y actitudes tienen a nivel social, especialmente a través de los medios de comunicación.
+
+a) Se han analizado los valores y antivalores más relevantes relacionados con el alto rendimiento deportivo en la prensa y en las redes sociales.
+
+b) Se han analizado las características que ha de tener el tratamiento de la información deportiva en los medios de comunicación para transmitir valores, especialmente haciendo efectiva la no promoción de la violencia y la valoración del éxito deportivo de otros colectivos normalmente menos valorados como mujeres y personas con discapacidad.
+
+c) Se ha valorado el impacto social de actitudes y comportamientos deportivos y antideportivos de miembros del cuerpo técnico y de deportistas de alto rendimiento, en supuestos prácticos de interacción con los medios de comunicación.
+
+d) Se han analizado los estereotipos de género u otro tipo, conductas de violencia, valores y antivalores, en un supuesto práctico de actuación del equipo de alto rendimiento frente a un conflicto, o en uno personal de resolución de una conducta poco ética y moral del equipo.
+
+e) Se han aplicado estrategias de desarrollo ético y moral personal y del equipo a reflejar en los comportamientos y actitudes ante los medios de comunicación, en un supuesto práctico de dirección de un equipo de alto rendimiento.
+
+f) Se han aplicado estrategias de resolución de conductas poco éticas y morales ante los medios de comunicación, en un supuesto práctico personal o de un deportista de alto rendimiento.
+
+Contenidos básicos
+
+RA-1. Elabora la programación didáctica de los módulos de enseñanzas deportivas, analizando la normativa de ordenación de las mismas, de los centros docentes, del profesorado y de la evaluación, aplicando los procesos de programación y secuenciación.
+
+1\. Enumeración de elementos y secuenciación de la programación didáctica.
+
+2\. Programación didáctica en enseñanza presencial y a distancia: características diferenciales.
+
+3\. Ubicación de las enseñanzas deportivas en el sistema educativo.
+
+– Ordenación, estructura y organización básica.
+
+– Sistema Nacional de Cualificaciones y Formación Profesional: oferta formativa en relación con las enseñanzas deportivas.
+
+4\. Normativa específica básica de las enseñanzas deportivas a tener en cuenta en la programación didáctica.
+
+– Centros de enseñanzas deportivas.
+
+– Características del profesorado de enseñanzas deportivas.
+
+– Perfil profesional de los ciclos de enseñanzas deportivas.
+
+– Objetivos generales de los diferentes ciclos de las enseñanzas deportivas.
+
+– Ciclos, bloques y módulos de las enseñanzas deportivas.
+
+– Elementos curriculares de los módulos de las enseñanzas deportivas.
+
+– Normativa de evaluación en las enseñanzas deportivas.
+
+RA-2. Elabora las sesiones de formación de técnicos deportivos de la programación didáctica conforme a sus elementos, valorando las características del alumnado adulto, y analizando, seleccionando y diseñando recursos didácticos propios de las enseñanzas deportivas.
+
+1\. Valoración de las características psicosociales del alumnado adulto propio de las enseñanzas deportivas.
+
+– Aprendizaje de personas adultas. Teorías cognitivas del aprendizaje.
+
+– Métodos de valoración psicosocial.
+
+– Implicaciones de las características psicosociales en el aprendizaje adulto.
+
+2\. Atención a la diversidad en el alumnado de enseñanzas deportivas, Principio de individualización en la enseñanza-aprendizaje y medidas para su fomento en las mismas.
+
+– Atención a las personas con discapacidad. Principio de normalización.
+
+– Principio de igualdad de oportunidades entre mujeres y hombres.
+
+– Adaptación curricular.
+
+– Situaciones de aprendizaje coeducativas, cooperativas e interactivas.
+
+3\. Elementos de la sesión en la planificación de sesiones en la formación de técnicos deportivos.
+
+– Concreción curricular.
+
+– Estructura.
+
+4\. Recursos didácticos a utilizar en las sesiones de formación técnicos deportivos. Características y criterios de selección y elaboración para enseñanza presencial y a distancia.
+
+– Actividades y tareas.
+
+– Medios didácticos: tradicionales, digitales (nuevas tecnologías –las TIC– aplicadas a la educación) y multimedia.
+
+– Materiales específicos de las disciplinas deportivas.
+
+– Pautas didácticas para la adecuación de los recursos didácticos.
+
+– Alternativas en caso de fallo técnico de los recursos didácticos y frente a otras posibles incidencias en las enseñanzas deportivas.
+
+– Diseño de los recursos didácticos para la individualización del proceso de enseñanza-aprendizaje y en atención a la diversidad en las enseñanzas deportivas.
+
+RA-3. Imparte formación de técnicos deportivos conforme a la programación didáctica, aplicando la metodología de enseñanza-aprendizaje y analizando la disposición docente que facilita el aprendizaje y la evaluación.
+
+1\. Desarrollo de la actitud de disposición del profesorado en la intervención docente en la formación de técnicos deportivos, para potenciar y afianzar el rendimiento y la implicación del alumnado adulto en el aprovechamiento de su formación.
+
+– Componentes cognitivos, afectivos y conductuales de la actitud de disposición docente.
+
+2\. Aspectos metodológicos de la enseñanza-aprendizaje en la formación de técnicos deportivos.
+
+– Estilos y estrategias de aprendizaje en personas adultas.
+
+– Modelos de formación del profesorado en las enseñanzas deportivas.
+
+– Estilos de enseñanza en modalidad presencial y a distancia.
+
+– Dirección de sesiones en la formación de técnicos deportivos.
+
+3\. Evaluación de la formación de técnicos deportivos.
+
+– Estrategias de evaluación.
+
+– Instrumentos de evaluación.
+
+– Formas de evaluación.
+
+– Pautas y proceso para la adecuada atención de reclamaciones de calificaciones.
+
+RA-4. Tutoriza técnicos deportivos en su proceso de formación específica (módulos específicos, de formación práctica y proyecto final), analizando y aplicando las estrategias y procedimientos específicos de tutorización.
+
+1\. Análisis de la relación curricular existente entre los distintos módulos de los bloques común y específico de las enseñanzas deportivas a tener en cuenta en la tutorización.
+
+– Implicaciones en el seguimiento y orientación en la tutorización.
+
+2\. Seguimiento educativo en la tutorización grupal, personal, presencial y a distancia de los módulos del bloque específico en la formación de técnicos deportivos.
+
+– Estrategias para la monitorización y control del proceso educativo.
+
+– Aplicaciones informáticas específicas de gestión y seguimiento.
+
+3\. Orientación educativa en la tutorización grupal, personal, presencial y a distancia de los módulos del bloque específico en la formación de técnicos deportivos.
+
+– Potenciación y afianzamiento del rendimiento y la implicación del alumnado adulto en el aprovechamiento de su formación deportiva.
+
+4\. Aspectos específicos a tener en cuenta en la tutorización del módulo de formación práctica de las enseñanzas deportivas.
+
+– Establecimiento de contactos y convenios con entidades colaboradoras.
+
+– Estrategias y procedimientos de actuación específicos en su seguimiento y orientación.
+
+– Memoria de prácticas.
+
+– Diario de campo.
+
+5\. Aspectos específicos a tener en cuenta en la tutorización del módulo de proyecto final de las enseñanzas deportivas.
+
+– Dirección y tutorización de proyectos: estrategias y procedimientos de actuación específicos en su seguimiento y orientación.
+
+– Proyecto.
+
+– Presentación oral.
+
+6\. Funciones y efectos específicos de la tutorización en el proceso de evaluación de los diferentes módulos de las enseñanzas deportivas.
+
+– Análisis de la progresión en la consecución de los criterios de evaluación de los resultados de aprendizaje de los distintos módulos a lo largo del ciclo de la enseñanza deportiva.
+
+– Elaboración de informes de evaluación.
+
+RA-5. Promueve el desarrollo ético y moral de técnicos y deportistas de alto rendimiento, valorando el impacto que sus comportamientos y actitudes tienen a nivel social, especialmente a través de los medios de comunicación.
+
+1\. Ética y moral en el deporte de alto rendimiento. Valores propios.
+
+– Antivalores más relevantes y comunes. Estereotipos y violencia en el deporte de alto rendimiento.
+
+– Valores y rendimiento deportivo.
+
+2\. Deporte de alto rendimiento, su impacto social y su desarrollo ético y moral en relación con los medios de comunicación.
+
+– Interacción de los diferentes agentes del ámbito del alto rendimiento deportivo con los medios de comunicación: deportistas y cuerpo técnico.
+
+– Análisis del contenido de la información deportiva en los medios de comunicación: transmisión de valores y valoración del éxito en mujeres y personas con discapacidad.
+
+– Repercusión mediática de actitudes y comportamientos deportivos y antideportivos de las/os deportistas y del cuerpo técnico ante los medios de comunicación.
+
+– Estrategias para el análisis y la difusión de valores deportivos a través de los medios.
+
+> Se numera como Anexo II.d y se sustituye por el que figura como Anexo III del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 9.3.d)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.e — Módulo común de enseñanza deportiva: Organización y gestión aplicada al alto rendimiento
+
+Código: MED-C304
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Revisa las condiciones de seguridad de los recursos materiales y equipamientos deportivos en instalaciones de alto rendimiento, utilizando la normativa vigente y aplicando criterios de protección contra riesgos, además de medidas de protección avanzadas.
+
+a) Se ha identificado la normativa básica y complementaria relativa a la seguridad aplicable a un supuesto práctico donde se concretan las características de una instalación deportiva de alto rendimiento.
+
+b) Se han aplicado los principales criterios de seguridad que deben cumplir las instalaciones y equipamientos deportivos de instalaciones de alto rendimiento, en un supuesto práctico donde se establece el marco normativo a utilizar y las características específicas de la instalación.
+
+c) Se han analizado las características de un plan de emergencia y evacuación en una instalación deportiva de alto rendimiento.
+
+d) Se han detallado estrategias y medidas de protección avanzadas contra riesgos antisociales y de violencia en el deporte, aplicables a una situación simulada debidamente caracterizada propia del alto rendimiento.
+
+RA-2. Organiza competiciones y eventos propios del nivel de tecnificación deportiva, analizando los requisitos administrativos, medios materiales y humanos necesarios, en relación con el marco legal que las regula y valorando los criterios de igualdad de género y sostenibilidad.
+
+a) Se ha identificado la estructura organizativa y la persona responsable de la competición de tecnificación deportiva, diferenciando sus funciones esenciales a partir de la normativa vigente.
+
+b) Se han categorizado de manera justificada las estrategias o herramientas utilizables en la búsqueda de financiación o apoyo económico de eventos y competiciones deportivas.
+
+c) Se ha elaborado el procedimiento de comunicación y difusión de los resultados, así como la gestión del protocolo de manera eficiente, aplicables en eventos reales o simulados.
+
+d) Se ha valorado el impacto ambiental y social de la celebración de eventos deportivos acorde a criterios de sostenibilidad, mediante la participación en espacios de discusión y análisis colectivo.
+
+RA-3. Acompaña a deportistas o equipos a competiciones de alto nivel y alto rendimiento, identificando el marco legislativo y organizativo de dichas competiciones y analizando las normativas de aplicación a deportistas profesionales, deportistas de alto nivel y alto rendimiento.
+
+a) Se ha analizado la normativa deportiva de ámbito internacional y su relación con la estructura administrativa del deporte, mediante un escenario de estudio realista.
+
+b) Se ha descrito la organización, estructura y funciones de los organismos deportivos internacionales más importantes, mediante el análisis de casos prácticos.
+
+c) Se ha descrito el régimen disciplinario y antidopaje y su relación con los organismos del deporte.
+
+d) Se ha analizado la normativa que afecta a Deportistas de Alto Nivel y Alto Rendimiento en España, a través de la revisión de casos representativos.
+
+e) Se han analizado las características de los programas de ayuda a la preparación de Deportistas de Alto Nivel y Alto Rendimiento de los deportes olímpicos, a través de la revisión de programas de apoyo reales.
+
+RA-4. Identifica las formas jurídicas y estructuras de las organizaciones deportivas, relacionándolas con la normativa vigente y aplicando procedimientos básicos de gestión económica.
+
+a) Se ha distinguido el grado de responsabilidad de las personas propietarias y gestoras de organizaciones deportivas, en función de su forma jurídica, mediante el análisis comparativo de distintas estructuras organizativas.
+
+b) Se han identificado los procedimientos de creación y puesta en marcha de una organización deportiva, en un supuesto práctico de emprendimiento en el que se establece la forma jurídica y la estructura de la organización deportiva.
+
+c) Se han enumerado los trámites de obtención de apoyo económico exigidos por la normativa vigente en los procesos de creación de organizaciones deportivas, adecuándolos a las características de cada organización.
+
+d) Se han seleccionado los procedimientos de gestión económica esenciales en la organización deportiva, a partir de una organización ficticia.
+
+RA-5. Selecciona las oportunidades de empleo, identificando itinerarios formativos profesionales, realizando una autovaloración de características personales y reconociendo organizaciones útiles para el asesoramiento en la búsqueda.
+
+a) Se ha valorado la importancia de la formación permanente como factor clave en la empleabilidad y la adaptación a las exigencias del mercado laboral y de la modalidad deportiva, mediante la participación en espacios de discusión y análisis colectivo.
+
+b) Se han identificado los itinerarios formativos profesionales que completan su perfil profesional y aumentan su empleabilidad, a partir de la búsqueda en bases de datos educativas y ofertas formativas actualizadas.
+
+c) Se han descrito posibilidades de empleo relacionadas con su perfil profesional, a partir de la búsqueda de oportunidades en el mercado.
+
+d) Se han analizado y aplicado herramientas de autoevaluación de las aspiraciones, actitudes y formación vinculadas con la búsqueda de empleo.
+
+e) Se han seleccionado de manera justificada las organizaciones de asesoramiento en la búsqueda de empleo, a partir de la consulta de portales de empleo y orientación profesional.
+
+Contenidos básicos
+
+RA-1. Revisa las condiciones de seguridad de los recursos materiales y equipamientos deportivos en instalaciones de alto rendimiento, utilizando la normativa vigente y aplicando criterios de protección contra riesgos, además de medidas de protección avanzadas.
+
+1\. Instalaciones deportivas: concepto y características funcionales.
+
+2\. Fundamentos normativos sobre seguridad en las instalaciones deportivas.
+
+3\. La información sobre seguridad en las instalaciones deportivas. Interpretación de la señalización de seguridad. Accesibilidad en instalaciones deportivas.
+
+4\. Procedimientos de revisión de los equipamientos deportivos.
+
+5\. Análisis y aplicación de los planes de emergencia y evacuación.
+
+6\. Medidas básicas de protección para las personas usuarias y las personas trabajadoras.
+
+7\. Protección contra actos antisociales y violencia en el deporte.
+
+RA-2. Organiza competiciones y eventos propios del nivel de tecnificación deportiva, analizando los requisitos administrativos, medios materiales y humanos necesarios, en relación con el marco legal que las regula y valorando los criterios de igualdad de género y sostenibilidad.
+
+1\. Competiciones deportivas. Estructura organizativa básica. Funciones y responsabilidades.
+
+2\. Vías de apoyo económicas y materiales.
+
+3\. Apoyo a la esponsorización del deporte femenino, su importancia en la organización de eventos de esta naturaleza.
+
+4\. Organización de actos de protocolo.
+
+5\. Gestión y difusión de los resultados de las competiciones deportivas.
+
+6\. Sostenibilidad en competiciones y eventos deportivos.
+
+– Medidas para minimizar las afecciones en la Biodiversidad y de restauración de zonas afectadas. Preservación de zonas frágiles, patrimonio arqueológico, histórico y cultural.
+
+– Medidas de ahorro y uso eficiente del agua.
+
+– Gestión de residuos y limpieza.
+
+– Minimizar el uso de energía, fomento de energías renovables.
+
+RA-3. Acompaña a deportistas o equipos a competiciones de alto nivel y alto rendimiento, identificando el marco legislativo y organizativo de dichas competiciones y analizando las normativas de aplicación a deportistas profesionales, deportistas de alto nivel y alto rendimiento.
+
+1\. Deporte internacional. Normativa de referencia:
+
+– Carta Olímpica.
+
+– Carta Europea del Deporte: personas con discapacidad.
+
+– Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+– Convención sobre los derechos de las personas con discapacidad: resolución de la Asamblea General de la ONU del 13 de diciembre de 2006 (artículo 30.5).
+
+2\. Organismos Internacionales.
+
+– Estructura y funciones: Comité Paralímpico Internacional, Comité Olímpico Internacional. Tribunal de Arbitraje del Deporte. Agencia Mundial Antidopaje.
+
+– Régimen Disciplinario.
+
+3\. Deporte Profesional. Concepto.
+
+– Ley del deporte.
+
+– Ligas profesionales españolas. Características.
+
+4\. Deporte de Alto Nivel (DAN) y de Alto Rendimiento (DAR).
+
+– Normativa de aplicación DAN y DAR.
+
+– Plan ADO y «Team España». Características.
+
+– Plan ADOP. Características.
+
+– Programas de apoyo a las deportistas DAN y DAR.
+
+RA-4. Identifica las formas jurídicas y estructuras de las organizaciones deportivas, relacionándolas con la normativa vigente y aplicando procedimientos básicos de gestión económica.
+
+1\. Organizaciones y empresas deportivas. Formas jurídicas. Estructura y funciones.
+
+2\. Elección de la forma jurídica.
+
+3\. Requisitos legales de constitución de organizaciones deportivas y empresas.
+
+4\. Vías de financiación de las organizaciones y empresas deportivas. Ayudas y subvenciones. Tramitación de solicitudes de ayudas y subvenciones.
+
+5\. Nociones básicas de contabilidad.
+
+6\. Análisis de la información contable.
+
+RA-5. Selecciona las oportunidades de empleo, identificando itinerarios formativos profesionales, realizando una autovaloración de características personales y reconociendo organizaciones útiles para el asesoramiento en la búsqueda.
+
+1\. Valoración de la importancia de la formación permanente para la trayectoria laboral y profesional del personal técnico deportivo superior.
+
+2\. Identificación de los itinerarios formativos relacionados con el personal técnico deportivo superior.
+
+3\. El proceso de búsqueda de empleo.
+
+4\. Técnicas e instrumentos de búsqueda de empleo.
+
+5\. El proceso de toma de decisiones.
+
+6\. Análisis de los intereses, aptitudes y motivaciones personales para la carrera profesional.
+
+7\. Análisis del mercado de entidades públicas y privadas orientadas al asesoramiento en la búsqueda de empleo.
+
+> Se numera como Anexo II.e y se sustituye por el que figura como Anexo IV del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 9.3.e)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.f — Módulo específico de enseñanza deportiva: Perfeccionamiento técnico en alta montaña
+
+Código: MED–MOAM302
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Selecciona, prepara y organiza el material de progresión individual, colectivo, y de seguridad en alta montaña, en ascensiones, y aristas, analizando las características técnicas, y aplicando protocolos de higiene, mantenimiento y revisión pertinentes.
+
+a. Se han analizado las características técnicas del material técnico individual y colectivo de progresión y aseguramiento en terreno nevado en alta montaña, atendiendo a sus normativas de uso, los aspectos técnicos, su vida útil, y sus normas de almacenado y revisión.
+
+b. Se han analizado las características técnicas del material técnico individual, colectivo y de autorrescate de fortuna utilizado en la progresión en alta montaña, atendiendo a sus normativas de uso, los aspectos técnicos, su vida útil, y sus normas de almacenado y revisión.
+
+c. Se ha seleccionado material técnico individual, colectivo de progresión y de seguridad en función de las características de un supuesto práctico de ascensión por una arista en terreno de alta montaña.
+
+d. Se ha seleccionado el material técnico a utilizar en un supuesto práctico de progresión en terreno nevado de alta montaña.
+
+e. Se han aplicado los procedimientos de revisión, almacenaje y limpieza del material técnico individual y colectivo antes, durante y al finalizar un supuesto práctico de progresión por alta montaña.
+
+f. Se han aplicado criterios y procedimientos de organización del material durante un supuesto práctico de aproximación, ascenso y descenso y progresión por una arista en terreno de alta montaña.
+
+g. Se han aplicado técnicas de reparación y reforzamiento del material técnico individual de progresión en alta montaña.
+
+h. Se ha justificado la importancia de las acciones de conservación del material técnico.
+
+i. Se ha demostrado interés por la información actualizada respecto al avance tecnológico del material técnico de progresión en alta montaña.
+
+2\. Valora la ejecución de las técnicas de progresión individual y aseguramiento en terreno de alta montaña, analizando y demostrando los estándares técnicos, y relacionando los errores de ejecución con las causas.
+
+a. Se han demostrado las técnicas de progresión en terreno nevado de alta montaña, justificando su elección y adaptando su uso a las características de un supuesto práctico debidamente caracterizado.
+
+b. Se han establecido las pautas de observación y valoración de las técnicas de progresión en terreno nevado de alta montaña, describiendo los errores observados y relacionándolos con sus causas.
+
+c. Se han demostrado las técnicas de progresión sin cuerda en terreno de alta montaña, justificando su elección y adaptándolas a las características de un supuesto práctico debidamente caracterizado.
+
+d. Se han establecido las pautas de observación y valoración de las técnicas de progresión sin cuerda en terreno de alta montaña, describiendo los errores observados y relacionándolos con sus causas.
+
+e. Se han demostrado las técnicas de aseguramiento y autorrescate en nieve, y en roca, justificando su elección y adaptándolas a las características de un supuesto práctico debidamente caracterizado.
+
+f. Se han establecido las pautas de observación y valoración de las técnicas de aseguramiento y autorrescate en nieve, y en roca de alta montaña, describiendo los errores observados y relacionándolos con sus causas.
+
+g. Se han demostrado las técnicas de manejo de cuerdas en la progresión en alta montaña, justificando su elección y adaptándolas a las características de un supuesto práctico debidamente caracterizado.
+
+h. Se han establecido las pautas de observación y valoración de las técnicas de manejo de cuerdas en la progresión en alta montaña, describiendo los errores observados y relacionándolos con sus causas.
+
+i. Se ha preparado y realizado en un supuesto práctico un vivac en alta montaña o arista.
+
+j. Se ha demostrado rigor y determinación en la aplicación de las técnicas de aseguramiento, autorrescate y progresión en el terreno de alta montaña.
+
+k. Se ha realizado un encordamiento en un supuesto práctico de cordada por terreno glaciar pirenaico, identificando los errores cometidos y relacionándolos con sus causas.
+
+l. Se ha realizado una ayuda exterior en un supuesto práctico de accidentado en una grieta o rimaya en un glaciar pirenaico.
+
+3\. Elabora y dirige programaciones y sesiones de enseñanza de las técnicas de progresión, aseguramiento, y autorrescate en terreno nevado de alta montaña, elaborando secuencias de aprendizaje y aplicando procedimientos de adaptación y metodologías específicas.
+
+a. Se han descrito las características de los objetivos, contenidos y medios utilizados en la enseñanza de las técnicas de progresión, aseguramiento y autorrescate de fortuna en alta montaña.
+
+b. Se han analizado los criterios de adaptación de las secuencias de aprendizaje y de los contenidos de aprendizaje de las técnicas de progresión, aseguramiento y autorrescate en terreno nevado de alta montaña.
+
+c. Se ha elaborado un programa de enseñanza–aprendizaje de las técnicas de progresión, aseguramiento y autorrescate en terreno nevado de alta montaña, de acuerdo con un supuesto práctico debidamente caracterizado.
+
+d. Se han relacionado las formas de adecuar la zona de trabajo con los riesgos más habituales en las sesiones de enseñanza aprendizaje de las técnicas de las técnicas de progresión, aseguramiento y autorrescate en terreno nevado de alta montaña.
+
+e. Se han concretado sesiones de enseñanza–aprendizaje de las técnicas de progresión, aseguramiento y autorrescate en terreno nevado de alta montaña, los criterios y tareas de evaluación a utilizar, justificando la elección de los espacios de acuerdo con un supuesto práctico de programa de referencia en el que se establezcan, entre otras, las condiciones materiales y los riesgos existentes.
+
+f. Se han identificado y analizado las posibles respuestas ante las contingencias que se puedan presentar durante el desarrollo de un supuesto de sesión debidamente caracterizado.
+
+g. Se han analizado las formas de organización del grupo y la intervención docente del profesor en el desarrollo de un supuesto práctico de sesión de enseñanza de las técnicas de progresión, aseguramiento y autorrescate en terreno nevado de alta montaña.
+
+h. Se han analizado medidas de control y prevención de los posibles riesgos en el desarrollo de un supuesto práctico de sesión de aprendizaje de las técnicas de progresión, aseguramiento y autorrescate en terreno nevado de alta montaña.
+
+i. Se han descrito y aplicado las principales estrategias de dirección y dinamización en un supuesto práctico de sesión de aprendizaje de las técnicas de de progresión, aseguramiento y autorrescate en terreno nevado de alta montaña.
+
+j. Se ha valorado la importancia de la preparación previa de la sesión de trabajo y la autoevaluación docente como factores indicativos de la calidad de la enseñanza.
+
+k. Se ha demostrado dirección y liderazgo en su intervención docente, expresándose y transmitiendo la información de forma clara y concisa en un supuesto práctico debidamente caracterizado.
+
+Contenidos básicos
+
+1\. Selecciona, prepara y organiza el material de progresión individual, colectivo, y de seguridad en alta montaña, en ascensiones, y aristas, analizando las características técnicas, y aplicando protocolos de higiene, mantenimiento y revisión pertinentes.
+
+– Material individual en ascensiones y aristas en alta montaña.
+
+– Configuración de los elementos del equipo.
+
+– Características generales.
+
+– Implicación en la seguridad del usuario.
+
+– Material técnico individual.
+
+– Configuración de los elementos del material técnico individual en ascensiones y aristas en alta montaña.
+
+– Botas y calzado de alta montaña estival o invernal.
+
+– Crampones.
+
+– Piolet/s.
+
+– Arnés.
+
+– Casco.
+
+– Mosquetones.
+
+– Aparatos de aseguramiento y rapel.
+
+– Cordinos y cintas.
+
+– Vestimenta para alta montaña estival e invernal.
+
+– Mochila.
+
+– Saco de dormir.
+
+– Funda vivac.
+
+– Esterillas.
+
+– Funciones y características técnicas.
+
+– Homologaciones y normativas de uso.
+
+– Material técnico colectivo.
+
+– Configuración de los elementos del material técnico colectivo en ascensiones y aristas en alta montaña.
+
+– Cuerdas.
+
+– Seguros recuperables: friends, empotradores, tornillos de hielo, etc.
+
+– Tiendas de campaña.
+
+– Hornillos.
+
+– Funciones y características técnicas.
+
+– Homologaciones y normativas de uso.
+
+– Material específico de autorrescate de fortuna:
+
+– Cordino y cintas.
+
+– Mosquetones.
+
+– Micro–poleas.
+
+– Poleas autoblocantes.
+
+– Micro–bloqueadores mecánicos tipo tibloc, ropeman, etc.
+
+– Homologaciones y normativas de uso.
+
+– Criterios de elección del material técnico individual, colectivo y específico de autorrescate:
+
+– En función de las características del grupo.
+
+– En función de las condiciones meteorológicas.
+
+– En función de la dificultad técnica del itinerario.
+
+– Otros criterios.
+
+– Mantenimiento y revisión. Reparación y organización del material.
+
+– Equipo Individual, colectivo y de seguridad:
+
+– Medidas higiénicas: normativas de uso.
+
+– Almacenado del material: normativas de uso.
+
+– Reparaciones. Materiales específicos para la reparación y reforzamiento.
+
+– Almacenamiento materiales plásticos, textiles y metálicos. Vida útil; tiempo de almacenaje; tiempo de utilización medio aproximado.
+
+– Precauciones a tener en cuenta en el uso.
+
+– Revisión del material. Factores a tener en cuenta. Procedimientos: Verificación visual y táctil; indicios o signos de desgaste y zonas de mayor afectación.
+
+– Protocolo de corte y marcación de cuerdas y cordinos.
+
+– Criterios de selección y colocación del material en la mochila y en el arnés, durante una salida de alta montaña:
+
+– Disposición del material en la mochila en función de su uso durante la actividad.
+
+– Colocación del material técnico y de seguridad en el arnés en función de su uso durante la ascensión.
+
+– Colocación de la cuerda para transportarla en bandolera fuera de la mochila: recogida en anillos unidos con una cinta plana.
+
+2\. Valora la ejecución de las técnicas de progresión individual y aseguramiento en terreno de alta montaña, analizando y demostrando los estándares técnicos, y relacionando los errores de ejecución con las causas.
+
+– Técnica de progresión individual sin cuerda en terreno nevado de alta montaña. Descripción y criterios de uso en función de las condiciones existentes.
+
+– Técnica de progresión con un solo piolet:
+
+– Piolet bastón, apoyo, puñal, barandilla, escoba y ancla.
+
+– Autodetención.
+
+– Técnica de progresión con crampones:
+
+– Técnica de paso de pato, pies planos, mixta, todas las puntas.
+
+– Criterios de valoración, errores de ejecución y causas habituales.
+
+– Técnicas de aseguramiento en nieve y su resistencia. Descripción y criterios de uso en función de las condiciones existentes:
+
+– Sistema de anclaje mediante cuerpo muerto (bolsa enterrada), piolet horizontal y recuperable, setas, anclas, estacas.
+
+– Criterios de valoración, errores de ejecución y causas habituales.
+
+– Técnica de aseguramiento con medios naturales en roca en ascensiones y aristas. Descripción y criterios de uso en función de las condiciones existentes:
+
+– Aseguramiento al cuerpo, al arnés con nudo dinámico, rozamiento en bloques, árboles, piolet–bota, nudo dinámico, corazón y lorenzi.
+
+– Criterios de valoración, errores de ejecución y causas habituales.
+
+– Técnicas de manejo de cuerdas en ascensiones y aristas. Descripción y criterios de uso en función de las condiciones existentes:
+
+– Progresión en ensamble con seguros intermedios entre la cordada.
+
+– Uso de aparatos autoblocantes en ensamble.
+
+– Aseguramiento usando anclajes naturales.
+
+– Seguros de progresión con anclajes naturales.
+
+– Longitud de la cuerda entre componentes de la cordada en función del tipo de terreno y la dificultad.
+
+– Cambios de sistema de encordamiento en función del tipo de terreno.
+
+– Criterios de valoración, errores de ejecución y causas habituales.
+
+– Técnica de progresión sin cuerdas en ascensiones y aristas. Descripción y criterios de uso en función de las condiciones existentes:
+
+– Adaptaciones de la técnica de la trepa a la situación de alta montaña: exposición, peso, roca y nieve, terreno mixto.
+
+– Criterios de valoración, errores de ejecución y causas habituales.
+
+– Técnica del vivac en alta montaña: Elección y preparación del emplazamiento, avituallamiento durante el vivac, y disposición y protección del material.
+
+– Técnica de encordamiento y progresión en glaciar pirenaico en cordada.
+
+– Sistemas de encordamiento de los componentes de la cordada en grupos de 2 ó 3 deportistas:
+
+– Cuerda en bandolera, sistemas de cierre del encordamiento.
+
+– Potencia en la cuerda para el deportista situado en el centro de la cordada (3), nudos de unión de la potencia al arnés, uso de mosquetones: ventajas e inconvenientes.
+
+– Distancias entre componentes de la cordada.
+
+– Disposición de la cuerda durante la progresión: tipos de cuerdas para progresión en glaciar, grado de tensión, paso de grietas, uso de nudos intermedios.
+
+– Criterios de valoración, errores de ejecución y causas habituales.
+
+– Técnicas de autorrescate en glaciar pirenaico:
+
+– Frenado de la caída y montaje del anclaje.
+
+– Transferencia de la carga al anclaje.
+
+– Acercamiento al accidentado y acondicionamiento del labio de la grieta.
+
+– Sistemas de extracción del accidentado de la grieta:
+
+– Polea móvil.
+
+– Polipasto en N.
+
+– Criterios de valoración, errores de ejecución y causas habituales.
+
+– Salida del accidentado por sus propios medios:
+
+– Mediante nudos autoblocantes.
+
+– Mediante aparatos autoblocantes.
+
+3\. Elabora y dirige programaciones y sesiones de enseñanza de las técnicas de progresión, aseguramiento, y autorrescate en terreno nevado de alta montaña, elaborando secuencias de aprendizaje y aplicando procedimientos de adaptación y metodologías específicas.
+
+– Programas de enseñanza las técnicas de progresión y aseguramiento en terreno nevado de alta montaña:
+
+– Objetivos y estructura de los programas para la enseñanza de:
+
+– Las técnicas de utilización de los crampones (todas las puntas, pies planos, mixta, paso de pato).
+
+– Las técnicas de progresión con piolet «técnica clásica».
+
+– Las técnicas de progresión sin cuerda en terreno de alta montaña.
+
+– La instalación de anclajes en nieve, hielo y roca.
+
+– La elección y preparación del vivac en alta montaña.
+
+– Secuencias de aprendizaje de las técnicas de progresión, aseguramiento, y autorrescate de fortuna en terreno nevado de alta montaña:
+
+– Secuencias tipo, criterios de adaptación de las tareas de aprendizaje.
+
+– La evaluación del programa: criterios.
+
+– La evaluación de los aprendizajes: tareas tipo.
+
+– La sesión de enseñanza: características y estructura básica:
+
+– La preparación previa: función, beneficios. Protocolos de seguridad previos.
+
+– La elección y adecuación del espacio en función del terreno y del objetivo principal de la sesión: Estrategias más utilizadas.
+
+– Riesgos habituales en las sesiones de enseñanza.
+
+– Organización del grupo en función de la composición, del terreno y del objetivo de la sesión.
+
+– Características de la intervención docente en función de los márgenes de seguridad y gestión del riesgo, así como del método de enseñanza seleccionado.
+
+– Contingencias más frecuentes en función de la evolución de la sesión de enseñanza.
+
+– Riesgos derivados del medio: meteorología, avalanchas, etc.
+
+– Riesgos derivados del mal uso del material: caídas en pendientes de nieve, daños con crampones y piolet, desorientación, etc.
+
+– Riesgos derivados del factor humano: competitividad, relaciones personales, factores sociales y económicos, etc.
+
+– Medidas de control y prevención.
+
+– Programación previa de la actividad y uso de protocolos de seguridad.
+
+– Elección correcta de las zonas de prácticas.
+
+– Distribución y organización del grupo.
+
+– Estrategias de dirección y dinamización de las sesiones en alta montaña:
+
+– Variación de los métodos de enseñanza.
+
+– Medios didácticos más utilizados:
+
+– Recursos materiales: diferentes tipos de piolet, crampones.
+
+– Recursos humanos: ejercicios por parejas y/o grupos, explicaciones por parte de alumnos.
+
+– Elección del terreno: cambio de zonas de prácticas.
+
+– Diversidad de ejercicios prácticos: diferentes sistemas de rapel, distintos ejercicios de progresión con crampones y/o piolet.
+
+> Se numera como Anexo II.f por el art. 9.3.f) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.g — Módulo específico de enseñanza deportiva: Guiado en alta montaña
+
+Código: MED–MOAM303
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Elabora y prepara itinerarios en alta montaña, analizando las expectativas de los usuarios y las demandas técnicas y psicológicas de la actividad, aplicando los criterios de recogida e interpretación de la información sobre el itinerario y su contexto.
+
+a. Se han descrito las principales características de los grupos que realizan itinerarios en alta montaña.
+
+b. Se han analizado las expectativas habituales del grupo y sus consecuencias en la preparación logística de un itinerario en alta montaña.
+
+c. Se han analizado los elementos que configuran la logística de los itinerarios de alta montaña.
+
+d. Se han descrito estrategias de acomodación utilizadas en el ascenso y estancia en alturas moderadas.
+
+e. Se ha categorizado el nivel de dificultad del itinerario, relacionándola con las expectativas y características de los clientes.
+
+f. Se han analizado el comportamiento meteorológico, en especial de las tormentas, en el entorno de la alta montaña.
+
+g. Se han descrito y aplicado los criterios de recogida de información utilizada en la elaboración del plan de actividad y la ficha técnica en un itinerario de alta montaña.
+
+h. Se han descrito y aplicado los criterios de recogida de información sobre el contexto administrativo, geográfico, meteorológico, y los recursos de la zona del itinerario seleccionado.
+
+i. Se ha elaborado, en un supuesto práctico debidamente caracterizado, la ficha técnica de un itinerario de alta montaña, determinando los aspectos técnicos y de seguridad.
+
+j. Se han establecido los recursos humanos y materiales en un supuesto práctico de itinerario en alta montaña en relación con las necesidades logísticas, la ficha técnica de la actividad, el número de participantes y las condiciones meteorológicas.
+
+k. Valora la importancia de realizar una adecuada logística para garantizar la seguridad y el correcto desarrollo de la actividad.
+
+2\. Previene la seguridad en el diseño de itinerarios en alta montaña, analizando los riesgos inherentes a la alta montaña, las características de los planes de prevención y los protocolos de actuación.
+
+a. Se han analizado los criterios de valoración de los peligros objetivos y subjetivos en los recorridos en alta montaña.
+
+b. Se han categorizado las causas más frecuentes de los accidentes y lesiones en los itinerarios en alta montaña.
+
+c. Se ha valorado de forma justificada la viabilidad y la seguridad de un itinerario en alta montaña, en un supuesto práctico debidamente caracterizado.
+
+d. Se han analizado las acciones que permiten minimizar los peligros objetivos y subjetivos en los itinerarios de alta montaña.
+
+e. Se han justificado la relevancia y consecuencias que tienen los diferentes factores meteoro–climáticos sobre la organización y gestión de la seguridad de un supuesto práctico de itinerario en alta montaña.
+
+f. Se ha elaborado y aplicado de forma justificada el plan de prevención de accidentes en un supuesto práctico de itinerario en alta montaña.
+
+g. Se ha elaborado y aplicado de forma justificada el protocolo de intervención y gestión del grupo, en un supuesto práctico de accidente en alta montaña.
+
+h. Se ha valorado la importancia de una actitud rigurosa en la gestión de la seguridad de la actividad.
+
+3\. Guía a grupos y usuarios por itinerarios en alta montaña, aplicando las técnicas de guiado y los procedimientos específicos de gestión del riesgo, de control y dirección más adecuados a las características de la ruta y a las de los participantes.
+
+a. Se ha justificado la importancia del liderazgo, imagen y actitud del guía frente al grupo y en el desarrollo de la actividad.
+
+b. Se han analizado las características de la información e instrucciones relevantes que se deben dar al grupo en los diferentes momentos de un itinerario en alta montaña.
+
+c. Se han analizado las ventajas e inconvenientes de las diferentes estrategias de organización y progresión del grupo, y su adecuación a las condiciones de los itinerarios en alta montaña.
+
+d. Se ha categorizado los principales signos y señales del código de comunicación gestual y auditivo en alta montaña.
+
+e. Se han explicado los aspectos técnicos fundamentales del aseguramiento en movimiento así como las ventajas y riesgos asociados.
+
+f. Se han descrito y demostrado las diferentes técnicas de aseguramiento en movimiento y con cuerda corta, en situaciones prácticas con clientes simulados.
+
+g. Se ha conducido al grupo, en un supuesto práctico, debidamente caracterizado, de itinerario en alta montaña en el que se han ejecutado las siguientes acciones:
+
+– Informa al grupo de las características de la actividad y de la normas de seguridad a cumplir.
+
+– Informa durante el recorrido de los aspectos culturales y medio–ambientales del itinerario.
+
+– Comprueba de forma regular las condiciones del terreno, el equipamiento y la evolución meteorológica.
+
+– Da consignas sobre las pautas técnicas y de seguridad a seguir en función del tipo y condiciones del obstáculo a superar.
+
+– Mantiene la comunicación de manera regular y eficaz con el grupo y con el resto de los técnicos.
+
+– Mantiene el control visual del grupo.
+
+– Justifica las decisiones que toma respecto del desarrollo de la actividad: paradas, alimentación, hidratación y termorregulación.
+
+h. Se ha guiado al grupo, en un supuesto práctico, debidamente caracterizado, de recorrido en alta montaña, en el que se han realizado, al menos, las siguientes acciones:
+
+– Elige y justifica el tipo de encordamiento del propio guía y del grupo.
+
+– Elige y justifica el tipo de progresión con cuerda y estrategia más adecuada al nivel de los participantes y la dificultad del itinerario.
+
+– Ejecuta las técnicas de conducción y de progresión con cuerda cumpliendo los procedimientos de progresión y de seguridad correspondiente.
+
+– Realiza los cambios de encordamiento de manera rápida, eficaz y adaptándose a las necesidades del terreno.
+
+i. Se han realizado en un supuesto práctico, descuelgues a uno o varios clientes en una zona de alta montaña o arista, siguiendo los protocolos adecuados de seguridad.
+
+j. Se ha demostrado una actitud profesional, capacidad de toma de decisiones y resolución de contingencias técnicas y conductuales del grupo en las situaciones prácticas.
+
+k. Se ha demostrado una actitud positiva y empática con los participantes y una buena imagen personal.
+
+Contenidos básicos
+
+1\. Elabora y prepara itinerarios en alta montaña, analizando las expectativas de los usuarios y las demandas técnicas y psicológicas de la actividad, aplicando los criterios de recogida e interpretación de la información sobre el itinerario y su contexto.
+
+– Desarrollo de la logística en las ascensiones de alta montaña y aristas:
+
+– Planificación de la actividad, protocolos de seguridad:
+
+– El grupo:
+
+– Tipología.
+
+– Perfil del grupo. Expectativas, capacidades técnicas, físicas y psicológicas.
+
+– Ficha personal de los integrantes del grupo.
+
+– Ficha de trabajo del guía para la gestión del riesgo.
+
+– Equipo y material:
+
+– Material técnico y de seguridad del guía.
+
+– Equipo y material técnico de los clientes.
+
+– Material técnico colectivo.
+
+– Factores ambientales:
+
+– Factores meteoro–climáticos en las Ascensiones de alta montaña:
+
+– Características meteorológicas específicas del medio de alta montaña.
+
+– Consideraciones meteorológicas previas relacionadas con la seguridad.
+
+– Las tormentas. Impactos directos e indirectos. Tipología.
+
+– La geografía y geología en la alta montaña: características de los macizos montañosos en el terreno de alta montaña:
+
+– Características estables y permanentes:
+
+● Tipos de rocas.
+
+● Diferentes formaciones en la alta montaña.
+
+– Estado en el momento de la actividad.
+
+– La altura: Influencia de la altitud (moderada) en el rendimiento del cliente. Estrategias de acomodación.
+
+– La nieve y su repercusión en la actividad. Análisis contextual de la actividad.
+
+– Ubicación administrativa y geográfica.
+
+– Recursos naturales y culturales.
+
+– La Ficha técnica: Elementos que la componen:
+
+– Información necesaria: aproximación y descenso, dificultad, tramos claves, material necesario, posibles escapes, etc.
+
+– Croquis del itinerario: diferentes tipos de croquis.
+
+– Partes de la ficha técnica: horarios, desniveles.
+
+– Otros elementos de la ficha técnica.
+
+– Nivel de dificultad del itinerario. Factores de los que depende:
+
+– Aspectos técnicos.
+
+– Clasificaciones:
+
+● Diferentes escalas de graduación de la dificultad de los itinerarios de alta montaña: Escala UIAA (F, PD, AD, BD, MD, ED), escala canadiense (III/4 WI), otras.
+
+● Diferentes escalas de graduación del grado de exposición.
+
+– Aspectos de seguridad:
+
+● Identificación de puntos concretos conflictivos.
+
+● Posibles escapatorias o cambios de itinerario.
+
+– Fuentes de información:
+
+– Información local.
+
+– Publicaciones especializadas.
+
+– Otros documentos.
+
+– Federaciones autonómicas y nacionales.
+
+– Páginas web. Especializadas.
+
+– Información meteorológica.
+
+– Informaciones del entorno profesional.
+
+– Instituciones públicas.
+
+– Criterios de búsqueda y selección de la información.
+
+– Establecimiento y gestión de recursos humanos y materiales:
+
+– Recursos humanos. Necesidades y dotación tipo. Criterios de asignación.
+
+– Recursos materiales. Necesidades y dotación tipo. Criterios de asignación.
+
+2\. Previene la seguridad en el diseño de itinerarios en alta montaña, analizando los riesgos inherentes a la alta montaña, las características de los planes de prevención y los protocolos de actuación.
+
+– Conceptos generales. Peligros objetivos y subjetivos asociados a los itinerarios en alta montaña.
+
+– Peligros objetivos:
+
+– Los derivados de las condiciones meteoro–climáticas.
+
+– Del terreno y de su estado en el momento de la actividad.
+
+– Características y criterios de valoración.
+
+– Peligros subjetivos:
+
+– Derivadas de factores psicosomáticos y conductuales. Características y criterios de valoración.
+
+– Derivadas del grupo. Características y criterios de valoración.
+
+– Derivadas de la percepción distorsionada de uno mismo y de los riesgos del medio. Características y criterios de valoración.
+
+– Derivados de factores sociales y económicos: presión de grupo, demostrar competencia profesional, etc.
+
+– Causas más frecuentes de accidentes y lesiones en los itinerarios en alta montaña.
+
+– Análisis del riesgo en los itinerarios en alta montaña:
+
+– Procedimiento de análisis y factores a tener en cuenta.
+
+– La viabilidad del itinerario, criterios de valoración.
+
+– Gestión de la seguridad en itinerarios en alta montaña.
+
+– Prevención de accidentes:
+
+– Actuaciones para minimizar la exposición a los peligros objetivos y reducir los peligros subjetivos.
+
+– Utilización de protocolos de trabajo para la planificación de la actividad.
+
+– Plan de prevención:
+
+– Características y elementos que lo configuran.
+
+– Metodología de elaboración de plan de prevención:
+
+– Identificación y localización de puntos conflictivos.
+
+– Localización y viabilidad de alternativas, zonas de refugio y zonas de solicitud de ayuda.
+
+– Planes alternativos: características.
+
+– Protocolo de intervención en accidente en alta montaña con un grupo:
+
+– Características, elementos y fases que lo componen:
+
+– Valoración de autorescate o necesidad de ayuda externa.
+
+– Protocolo de actuación: características, elementos/fases que lo componen:
+
+– Auxilio del o de los accidentados: actuaciones y criterios de toma de decisión.
+
+– Colocación del grupo en situación de seguridad: actuaciones y criterios de toma de decisión.
+
+3\. Guía a grupos y usuarios por itinerarios en alta montaña, aplicando las técnicas de guiado y los procedimientos específicos de gestión del riesgo, de control y dirección más adecuados a las características de la ruta y a las de los participantes.
+
+– Actitud del guía: liderazgo, imagen, ética profesional.
+
+– Indicaciones al grupo antes, durante y al finalizar la actividad propuesta y en el desarrollo de la misma:
+
+– Protocolo de control al inicio de la actividad: revisión del equipo.
+
+– Comunicación eficaz con el grupo: claridad, objetividad, rigurosidad.
+
+– Información al grupo durante la actividad.
+
+– Organización del grupo durante el desarrollo de la actividad:
+
+– Estrategias de gestión del riesgo y toma de decisiones.
+
+– Estrategias de organización y progresión del grupo.
+
+– Ventajas e inconvenientes:
+
+– Grupo completo:
+
+– Directrices específicas de funcionamiento.
+
+– Protocolo de control de la planificación del itinerario.
+
+– Posición del guía.
+
+– Protocolos e instrucciones para el control del itinerario, del trazado, del ritmo.
+
+– Paradas y esperas, directrices para el control del horario y la temporalización.
+
+– Subgrupos:
+
+– Criterios de agrupación y directrices específicas de funcionamiento.
+
+– Protocolo de control de la planificación del itinerario.
+
+– Posición del guía.
+
+– Protocolos e instrucciones para el control del itinerario, del trazado, del ritmo.
+
+– Paradas y esperas, directrices para el control del horario y la temporalización.
+
+– Individualmente:
+
+– Directrices específicas de funcionamiento.
+
+– Protocolo de control de la planificación del itinerario.
+
+– Posición del Guía.
+
+– Protocolos e instrucciones para el control del itinerario, del trazado, del ritmo.
+
+– Paradas y esperas, directrices para el control del horario y la temporalización.
+
+– Técnicas específicas de aseguramiento en movimiento (cuerda corta):
+
+– Aseguramiento: concepto y funciones:
+
+– Tipos y características en función del momento de actividad.
+
+– Fases del aseguramiento y de su planificación.
+
+– Ventajas e inconvenientes.
+
+– Riesgos asociados.
+
+– Encordamiento del guía:
+
+– Cuerda en bandolera.
+
+– Cuerda en la mochila con bolsa de compresión.
+
+– Sistemas de cierre: inglés, suizo, marchard a la italiana y otras posibilidades.
+
+– Encordamiento al cliente en potencia:
+
+– Concepto de potencia: diferentes tipos:
+
+– Encordamiento del cliente con pescador doble o simple con mosquetón.
+
+– Distancias entre clientes y sistemas de acortamiento.
+
+– Trabajo con cuerda doble / cuerda simple (tipos de guantes).
+
+– Colocación y longitud de los anillos de la mano:
+
+– Nieve / roca.
+
+– Sistemas de cierre. Gaza de retención.
+
+– Orden de la cordada, colocación del guía y colocación de manos y brazos:
+
+– Clientes en potencia («Y» invertida) o clientes en «V» invertida.
+
+– Cuerda en racimo en travesías.
+
+– Lateralidad de la cuerda en ascenso y descenso.
+
+– Posición del guía.
+
+– Cuerda lineal ascenso–descenso.
+
+– Grado apropiado de tensión de la cuerda.
+
+– Cambios de dirección.
+
+– Cuerda en una o dos manos. Brazo encogido o estirado.
+
+– Posición del guía y de su centro de gravedad para ganar estabilidad.
+
+– Uso de anclajes naturales y anclajes recuperables.
+
+– Descuelgue con clientes:
+
+– Desde reunión con dinámico o cesta en zona cómoda.
+
+– Dos a la vez con dos dinámicos.
+
+– Uno por cada cabo de cuerda.
+
+– El Guía destrepa o rapela.
+
+– Ventajas e inconvenientes del nudo Dufour para el descenso del guía.
+
+– Eficiencia en los cambios de sistema de encordamiento.
+
+– Comunicación entre el guía y el grupo en la alta montaña en condiciones de mala audición o visibilidad:
+
+– Signos manuales.
+
+– A través de la cuerda.
+
+– Con diferentes materiales: silbatos, telas, etc.
+
+> Se numera como Anexo II.g por el art. 9.3.g) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.h — Módulo específico de enseñanza deportiva: Escalada en hielo
+
+Código: MED–MOAM304
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Selecciona, prepara y organiza el material de progresión individual, colectivo, y de seguridad de escalada en hielo y mixto, relacionando las características técnicas con las condiciones del grupo y las meteorológicas y dificultad técnica del recorrido, aplicando los criterios de adaptación protocolos de higiene, mantenimiento y revisión pertinentes.
+
+a. Se han identificado y seleccionado el equipo y material técnico individual, colectivo de progresión y de seguridad adecuado a las características de un supuesto práctico de escalada en cascada de hielo, corredor o escalada mixta.
+
+b. Se ha adaptado el equipamiento y material técnico individual de un grupo de participantes, justificando los criterios y procedimientos utilizados, en un supuesto practico de actividad de escalada en cascada de hielo, corredor o escalada mixta.
+
+c. Se han analizado las características técnicas del equipo y material técnico individual y colectivo de progresión y material de autorrescate.
+
+d. Se han aplicado las directrices de revisión, almacenaje y limpieza del equipo y material técnico individual y colectivo antes, durante y al finalizar un supuesto práctico de escalada en cascada de hielo, corredor o escalada mixta.
+
+e. Se han justificado los criterios de selección del material de autorrescate necesario en una situación de intervención simulada en escalada en cascada de hielo, corredor o escalada mixta.
+
+f. Se han aplicado criterios y procedimientos de organización del equipo y material durante un supuesto práctico de aproximación en escalada en cascada de hielo, corredor o escalada mixta.
+
+g. Se ha valorado la implicación en las acciones de conservación del equipo y material técnico, y en la aplicación de las técnicas de reparación y reforzamiento del equipo individual.
+
+h. Se ha demostrado determinación y rigor durante el asesoramiento a deportistas, sobre el equipo y material adecuados, en un supuesto práctico de actividad de escalada en cascada de hielo, corredor o escalada mixta.
+
+i. Se ha demostrado interés por la información actualizada respecto al avance tecnológico del equipo y materiales técnicos en escalada en cascada de hielo, corredor o escalada mixta.
+
+2\. Valora la ejecución de las técnicas de progresión y seguridad individual y colectiva en escalada en hielo en cascada, corredor y escalada mixta, analizando y demostrando los estándares técnicos, analizando cambios en las condiciones del terreno y de la montaña, y relacionando los errores de ejecución con las causas.
+
+a. Se han analizado las técnicas de progresión en escalada en hielo en cascada, corredor y escalada mixta.
+
+b. Se han categorizado los errores más habituales en la ejecución de las técnicas de progresión en escalada en hielo en cascada, corredor y escalada mixta.
+
+c. Se han establecido pautas de observación, valoración y análisis de la técnica gestual de la escalada en hielo en cascada, corredor y escalada mixta, describiendo los errores observados e interrelacionándolo con sus causas.
+
+d. Se han analizado las diferencias técnicas de la escalada en cascada en escuela y la de escalada en corredor o en pared en cuanto al objetivo, la envergadura y exposición de la vía, la economía de esfuerzo y el material utilizado.
+
+e. Se han analizado las diferencias técnicas de la escalada mixta en rutas equipadas y la escalada mixta sujeta a grados superiores de exposición, en cuanto al criterio de seguridad, la economía de esfuerzo, y de acuerdo con el material utilizado.
+
+f. Se han analizado los criterios de elaboración de secuencias de aprendizaje de las tácticas de progresión en escalada en hielo en cascada, corredor, pared y escalada mixta.
+
+g. Se han justificado las decisiones tomadas en cuanto a la elección del itinerario en un supuesto práctico en escalada en hielo en el que se debe preservar el ecosistema del recorrido y maximizar la seguridad personal.
+
+h. Se ha valorado la importancia de la interpretación del terreno en cuanto a la eficacia y la seguridad en la elección del itinerario y en cuanto al respeto al medio natural.
+
+3\. Elabora programas de enseñanza de las técnicas de progresión, seguridad y autorescate en escalada en hielo en cascada, corredor y mixto, y dirige sesiones, evaluando las condiciones materiales y humanas existentes, aplicando procedimientos de adaptación y metodologías específicas.
+
+a. Se han descrito las características de los objetivos, contenidos, medios para el desarrollo de un programa operativo de enseñanza de las técnicas de progresión en escalada en hielo en cascada, corredor y escalada mixta en función de las características del contexto de aprendizaje.
+
+b. Se han explicado las características de los métodos específicos utilizados en la enseñanza de las técnicas de progresión en escalada en hielo en cascada, corredor y escalada mixta.
+
+c. Se han concretado sesiones de enseñanza–aprendizaje de los aspectos técnicos de progresión, de acuerdo con el contexto de aprendizaje, en escalada en hielo en cascada, corredor y escalada mixta.
+
+d. Se han analizado los criterios de elaboración y adaptación de secuencias de aprendizaje y contenidos de aprendizaje de las técnicas de progresión en escalada en hielo en cascada, corredor y escalada mixta de una programación de referencia.
+
+e. Se han relacionado las formas de adecuación de la zona de trabajo con los riesgos más habituales en las sesiones de enseñanza aprendizaje de las técnicas gestuales de progresión en escalada en hielo en cascada, corredor y escalada mixta.
+
+f. Se han analizado las formas de organización del grupo y la intervención docente del profesor en el desarrollo de un supuesto práctico de sesión de enseñanza de las técnicas de progresión en escalada en hielo en cascada, corredor y escalada mixta.
+
+g. Se han analizado medidas de control y prevención de las posibles contingencias en el desarrollo de un supuesto práctico de sesión de aprendizaje de las técnicas de progresión en escalada en hielo en cascada, corredor y escalada mixta.
+
+h. Se han descrito y aplicado las principales estrategias de dirección y dinamización en un supuesto práctico de sesión de aprendizaje de las técnicas de progresión en escalada en hielo en cascada, corredor y escalada mixta.
+
+i. Se ha valorado la importancia de la preparación previa de la sesión de trabajo y la autoevaluación docente como factores indicativos de calidad de la enseñanza.
+
+j. Se ha demostrado dirección y liderazgo en su intervención docente, expresándose y transmitiendo la información de forma clara y concisa, en un supuesto práctico debidamente caracterizado, de enseñanza de la escalada en hielo en cascada, corredor y escalada mixta.
+
+4\. Elabora y prepara itinerarios en escalada en hielo en cascada, corredor y mixto, analizando las expectativas de los usuarios y las demandas y características físicas, técnicas y psicológicas de la actividad, aplicando los criterios de recogida e interpretación de información sobre el itinerario y sus contextos, y estableciendo los recursos humanos y materiales necesarios.
+
+a. Se han analizado los elementos que configuran la logística en una escalada en hielo en cascada, corredor y escalada mixta.
+
+b. Se ha categorizado el nivel de dificultad del itinerario, relacionándola con las expectativas y características de los clientes.
+
+c. Se han descrito y aplicado los criterios de recogida de información necesaria para elaborar el plan de actividad y la ficha técnica en una escalada en hielo en cascada, corredor y escalada mixta.
+
+d. Se han descrito y aplicado los criterios de recogida de información sobre el contexto administrativo, geográfico, meteorológico, y los recursos de la zona de escalada o del itinerario elegido.
+
+e. Se ha elaborado, en un supuesto práctico, la ficha técnica de una escalada en hielo en cascada, corredor y escalada mixta, determinando los aspectos técnicos y de seguridad.
+
+f. Se han establecido los recursos humanos y materiales de un supuesto práctico de escalada en hielo en cascada, corredor y escalada mixta en relación con las necesidades logísticas, la ficha técnica de la actividad, el número de participantes y las condiciones meteorológicas.
+
+g. Se ha elaborado, a partir de un supuesto práctico debidamente caracterizado, el itinerario de una escalada en hielo en cascada, corredor y escalada mixta, en el que se han realizado, al menos, las siguientes acciones:
+
+– El análisis de los factores ambientales de la actividad.
+
+– El análisis contextual de la actividad.
+
+– La ficha técnica de la actividad.
+
+h. Valora la importancia de realizar una adecuada logística para garantizar la seguridad y correcto desarrollo de la actividad.
+
+i. Se han detectado antes y durante la realización de un supuesto práctico, las deficiencias logísticas y organizativas, y tomando las medidas necesarias para solucionarlas.
+
+5\. Previene la seguridad en el diseño de itinerarios en escalada en hielo en cascada, corredor y escalada mixta, analizando los peligros inherentes al mismo, el comportamiento del hielo en escalada en hielo y mixto y su meteorología específica, aplicando protocolos de análisis de la seguridad y analizando las medidas preventivas acordes con este tipo de actividades.
+
+a. Se han analizado los conceptos generales de seguridad en escalada en hielo en cascada, corredor y escalada mixta.
+
+b. Se ha categorizado los principales peligros objetivos y subjetivos en la práctica de la escalada en hielo en cascada, corredor y escalada mixta, analizando las causas de sus accidentes más comunes.
+
+c. Se ha analizado la incidencia de los fenómenos meteorológicos en la práctica de la escalada en hielo en cascada, corredor y escalada mixta.
+
+d. Se ha valorado, de forma justificada, la viabilidad y la seguridad de un itinerario en escalada en hielo en cascada, según las circunstancias del momento en los aspectos meteo–climáticos y las características del itinerario en un supuesto práctico.
+
+e. Se ha valorado, de forma justificada, la viabilidad y la seguridad de un itinerario en escalada de una vía de mixto, según las circunstancias del momento en los aspectos meteo–climáticos y las características del itinerario en un supuesto práctico.
+
+f. Se ha valorado, de forma justificada, la viabilidad y la seguridad de un itinerario en escalada de un corredor, según las circunstancias del momento en los aspectos meteo–climáticos y las características del itinerario en un supuesto práctico.
+
+g. Se ha valorado, de forma justificada, los peligros subjetivos que provienen del grupo en un supuesto práctico de actividad de escalada en hielo en cascada, corredor y escalada mixta.
+
+h. Se ha elaborado, de forma justificada, un plan de actuación de prevención de accidentes, en un supuesto práctico, debidamente caracterizado, de itinerario de escalada en hielo.
+
+i. Se ha valorado la importancia de una actitud rigurosa en la gestión de la seguridad de la actividad.
+
+6\. Guía a grupos y usuarios por itinerarios en escalada en hielo en cascada, corredor y escalada mixta, eligiendo las técnicas más adecuadas a las características de la ruta y a las características de los participantes.
+
+a. Se han analizado las características de la información e instrucciones relevantes que se debe dar al grupo en los diferentes momentos de la actividad, en un supuesto práctico de escalada en hielo en cascada, corredor y escalada mixta.
+
+b. Se han aplicado de forma justificada, en un supuesto práctico de escalada en hielo en cascada, corredor y escalada mixta, los procedimientos de seguridad correspondientes a los diferentes momentos de la actividad.
+
+c. Se ha guiado al grupo, en un supuesto práctico debidamente caracterizado de recorrido en escalada en hielo en cascada en el que se han aplicado correctamente las técnicas de conducción durante el ascenso y el descenso.
+
+d. Se ha guiado al grupo en un supuesto práctico, debidamente caracterizado, de recorrido en escalada mixta en el que se han aplicado correctamente las técnicas de conducción durante el ascenso y el descenso.
+
+e. Se ha guiado al grupo en un supuesto práctico, debidamente caracterizado, de recorrido en corredor en el que se han aplicado correctamente las técnicas de conducción durante el ascenso y el descenso.
+
+f. Se han elegido y realizado los diferentes sistemas de encordamiento, en función de la experiencia del grupo y de la situación de la vía y la pared.
+
+g. Se ha demostrado una actitud profesional, capacidad de liderazgo, de toma de decisiones y de resolución de contingencias técnicas y conductuales del grupo en los supuestos prácticos de guiado en escalada en hielo en cascada, corredor y escalada mixta.
+
+h. Se ha demostrado una actitud positiva y empática con los participantes y una buena imagen personal durante la actividad realizada.
+
+Contenidos básicos
+
+1\. Selecciona, prepara y organiza el material de progresión individual, colectivo, y de seguridad de escalada en hielo y mixto, relacionando las características técnicas con las condiciones del grupo y las meteorológicas y dificultad técnica del recorrido, aplicando los criterios de adaptación protocolos de higiene, mantenimiento y revisión pertinentes.
+
+– Equipo individual en escalada en hielo.
+
+– Configuración de los elementos del equipo.
+
+– Características generales.
+
+– Criterios de adaptación morfológica de los materiales a los deportistas:
+
+– Botas.
+
+– Crampones.
+
+– Piolets y tipos de hojas.
+
+– Cintas elásticas anti pérdida de piolets.
+
+– Arnés.
+
+– Portatornillos.
+
+– Tornillos de hielo: tipos y características.
+
+– Ganchos para puentes de hielo.
+
+– Guantes.
+
+– Casco.
+
+– Pantalla protectora (escalada en hielo).
+
+– Vestimenta general adaptada a escalada en hielo.
+
+– Implicación en la seguridad del usuario.
+
+– Material técnico individual.
+
+– Configuración de los elementos del material técnico individual en escalada en hielo:
+
+– Material de escalada en hielo en cascada.
+
+– Material de escalada en hielo y nieve en corredores y paredes.
+
+– Material específico de escalada mixta clásica y dry tooling.
+
+– Homologaciones y normativas de uso.
+
+– Criterios de selección en base a las condiciones del grupo, las características y dificultades técnicas del recorrido y las condiciones meteorológicas.
+
+– Material técnico colectivo:
+
+– Configuración de los elementos del material técnico colectivo en escalada en hielo. Tipos y características.
+
+– Homologaciones y normativas de uso.
+
+– Criterios de selección en base a las condiciones del grupo, las dificultades técnicas del recorrido y las condiciones meteorológicas.
+
+– Equipo de seguridad Individual y autorrescate. Criterios de elección del equipo y el material:
+
+– En función de las características del grupo.
+
+– En función de las condiciones meteorológicas.
+
+– En función de la dificultad técnica del itinerario.
+
+– En función de las características del itinerario (nieve, mixto, hielo de fusión o alpino, longitud, compromiso, etc).
+
+– Otros criterios.
+
+– Mantenimiento y revisión. Preparación y organización del material (en el almacén):
+
+– Equipo individual:
+
+– Medidas higiénicas.
+
+– Almacenado del equipo.
+
+– Reparaciones. Materiales específicos para la reparación y reforzamiento.
+
+– Material técnico individual y colectivo:
+
+– Limpieza.
+
+– Almacenamiento materiales plásticos, textiles y metálicos. Vida útil; tiempo de almacenaje; tiempo de utilización medio aproximado.
+
+– Precauciones a tener en cuenta en el uso.
+
+– Revisión del material. Factores a tener en cuenta. Verificación visual y táctil; Indicios/signos de desgaste y zonas de mayor afectación.
+
+– Protocolo de corte y marcación de cuerdas y cordinos.
+
+– Preparación y organización del material antes de comenzar la escalada sobre el terreno:
+
+– Disposición de los tornillos en el arnés.
+
+– Colocación de friends y fisureros en el arnés.
+
+– Colocación del material para la reunión (cesta, cintas, mosquetones de seguridad, etc.).
+
+– Colocación del material específico de autorrescate.
+
+2\. Valora la ejecución de las técnicas de progresión y seguridad individual y colectiva en escalada en hielo en cascada, corredor y escalada mixta, analizando y demostrando los estándares técnicos, analizando cambios en las condiciones del terreno y de la montaña, y relacionando los errores de ejecución con las causas.
+
+– Técnica gestual de progresión individual en escalada en hielo y mixto:
+
+– Escalada de cascadas de hielo:
+
+– Técnica básica: paralelismo de piolets y crampones, secuencia de progresión, posición de equilibrio/desequilibrio, colocación de segmentos corporales.
+
+– Técnica avanzada: optimización del movimiento, secuencia de progresión, colocación de segmentos corporales.
+
+– Agarre, clavado del piolet y gancheos: distintos agarres, posición del brazo, antebrazo y muñeca, elección del punto de clavado.
+
+– Colocación de las caderas y el centro de gravedad: posición con respecto al hielo, coordinación con las extremidades.
+
+– Colocación de las piernas, pies y crampones: uso de la/s punta/s frontales del crampón, situación de los pies con respecto a las caderas, posiciones de equilibrio y reposo.
+
+– Colocación de tornillos: posición de todos los segmentos corporales, ubicación del tornillo en el hielo, angulación con respecto al hielo, clavado inicial y atornillado con ambas manos, uso de cintas disipadoras.
+
+– Aspectos tácticos de la escalada en hielo: estrategia previa, ritmo de progresión, reorganización del equipo, gestión del miedo a la caída.
+
+– Montaje de reuniones con tornillos de hielo y mixtas, uso de anclajes naturales (columnas, arboles, etc.) y puentes de hielo abalakovs.
+
+– Valoración de la ejecución de la técnica de progresión individual en cascadas de hielo.
+
+– Errores más habituales y causas relacionadas.
+
+– Pautas y criterios de observación de la ejecución.
+
+– Criterios de valoración de la ejecución.
+
+– Técnica gestual es escalada de vías de mixto y/o dry tooling:
+
+– Agarre, y gancheo del piolet: distintos agarres, posición del brazo, antebrazo y muñeca, cambios de mano y piolet.
+
+– Colocación de las caderas y el centro de gravedad: posición y coordinación de todos los segmentos corporales.
+
+– Colocación de las piernas, pies y crampones: uso de la punta frontal del crampón, colocación de los pies, apoyo en regletas, agujeros, fisuras y romos.
+
+– Paso a columnas y estalactitas de hielo: colocación de piolets y crampones, gancheos, apoyos y palancas, ubicación de los seguros.
+
+– Técnicas específicas de escalada en desplome: yaniros, parabrisas, cuatro.
+
+– Aspectos tácticos de la escalada en vías de mixto y/o dry tooling: estrategia previa, ritmo de progresión, reorganización del equipo, gestión del miedo a la caída.
+
+– Valoración de la ejecución de la técnica de progresión individual en vías de mixto y/o dry tooling:
+
+– Errores más habituales y causas relacionadas.
+
+– Pautas y criterios de observación de la ejecución.
+
+– Criterios de valoración de la ejecución.
+
+– Técnicas de escalada en corredores:
+
+– Adaptación de las técnicas de escalada en hielo y mixto a la escalada en corredores de nieve.
+
+– Adaptación de las técnicas de progresión con crampones y piolet en alta montaña a la escalada de corredores de nieve.
+
+– Valoración de la ejecución de la técnica de progresión individual en corredores.
+
+– Errores más habituales y causas relacionadas.
+
+– Pautas y criterios de observación de la ejecución.
+
+– Criterios de valoración de la ejecución.
+
+– Diferencias técnicas, en función de:
+
+– Situación: escalada de cascada en escuela, escalada en corredor, en pared, escalada mixta en rutas equipadas, o en rutas de gran exposición.
+
+– La envergadura y exposición de la vía.
+
+– La economía del esfuerzo.
+
+– El material utilizado.
+
+– Interpretación y Valoración del terreno:
+
+– Criterios. Peligros objetivos.
+
+– Elección de itinerario, criterios de elección durante:
+
+– La marcha de aproximación y descenso de la ruta elegida a salvo de desprendimientos, avalanchas y otros peligros objetivos.
+
+– La escalada, en los aspectos relacionados con la seguridad, la dificultad y el estado del hielo:
+
+– En función del tamaño y la estabilidad de la estructura helada: columnas, estalactitas, etc.
+
+– En función de las condiciones meteorológicas previas y actuales y su influencia sobre el hielo:
+
+– Bajadas bruscas de temperatura: hielo frágil y quebradizo.
+
+– Periodo de temperaturas estables y próximas a 0°: hielo dúctil, plástico, que absorbe mejor los impactos del escalador.
+
+– Periodo de temperaturas altas por encima de 0°: hielo demasiado húmedo y posiblemente despegado de la roca.
+
+– Color y opacidad del hielo y su influencia en la escalada.
+
+– Técnicas de autorrescate:
+
+– Adaptación de las técnicas de autorrescate utilizada en escalda en roca:
+
+– Criterios de selección del material para escalada en hielo.
+
+– Criterios de adaptación de las técnicas de autorrescate en escalada en roca a la escalada en hielo.
+
+3\. Elabora programas de enseñanza de las técnicas de progresión, seguridad y autorrescate en escalada en hielo en cascada, corredor, y mixto y dirige sesiones, evaluando las condiciones materiales y humanas existentes, aplicando procedimientos de adaptación y metodologías específicas.
+
+– La programación de la enseñanza de las técnicas de progresión en cascadas de hielo, vías de mixto y/o dry tooling y corredores. Estructura y elaboración:
+
+– Objetivos en función de la motivación y finalidad del alumno:
+
+– Escalada de cascadas de hielo en zonas de escuela.
+
+– Escalada de cascadas de hielo de varios largos.
+
+– Escalada de vías mixto de gran envergadura.
+
+– Escalada de vías de dry tooling (mixto deportivo, vías equipadas)
+
+– Escalada de corredores.
+
+– Métodos de enseñanza:
+
+– Enseñanza basada en el descubrimiento guiado (durante la actividad).
+
+– Enseñanza basada en el método analítico–sintético: demostración global, prueba del alumno y fraccionamiento de los diferentes elementos técnicos y tácticos.
+
+– Enseñanza basada en el método de ensayo y error: ejercicios con diferentes técnicas y empleando diferentes materiales para valorar cual es el más correcto.
+
+– Medios didácticos:
+
+– Uso del video.
+
+– Análisis del gesto técnico y las secuencias de movimientos.
+
+– La sesión de enseñanza de las técnicas de progresión en cascadas de hielo, vías de mixto y/o dry tooling y corredores:
+
+– Estructura de la sesión: objetivo general, contenidos, metodología y ejercicios.
+
+– Organización de la sesión en función de:
+
+– Objetivo general de la sesión.
+
+– Número de alumnos y su nivel técnico.
+
+– Número de vías disponibles, su dificultad y las condiciones del hielo.
+
+– Tipos y características de las sesiones en función de:
+
+– El tipo de vía: cascada de hielo, vías de mixto, corredores.
+
+– Las técnicas a trabajar: clavado o gancheo de piolets, colocación de crampones, equilibrio y centro de gravedad, colocación de seguros, montaje de reuniones.
+
+– Elección de la zona de trabajo para la sesión. Valoración y gestión de los posibles peligros objetivos (caídas de piedras y/o hielo, riesgo de avalanchas, etc.) y subjetivos (relaciones entre clientes, presencia de otros grupos, etc.).
+
+– Dirección de la sesión de enseñanza–aprendizaje: posición del profesor en relación al grupo, distribución del grupo y las vías para la mejor recepción de la información y ejecución de los ejercicios.
+
+– Gestión del riesgo en las sesiones de enseñanza–aprendizaje y elección de las zonas de trabajo: colocación del grupo durante los ejercicios y las explicaciones para una adecuada gestión del riesgo.
+
+– Comunicación en la sesión de enseñanza, común a otras situaciones de alta montaña.
+
+– Dinamización de la sesión de enseñanza – aprendizaje:
+
+– Variedad en la elección del terreno de la misma.
+
+– Variación en la elección de los métodos de enseñanza.
+
+– Variación en la elección de los medios y recursos didácticos.
+
+– Variación en la elección de los ejercicios aplicados.
+
+– Variación de los materiales utilizados durante las prácticas.
+
+– Focalización de objetivos al alumno como recurso motivacional.
+
+– Secuencias de aprendizaje. Criterios de elaboración y adaptación, propuestas prácticas:
+
+– Ejercicios de técnica de gancheo y clavado del piolet en hielo.
+
+– Ejercicios de gancheo del piolet en vías de mixto.
+
+– Ejercicios de clavado y apoyo del piolet en corredores.
+
+– Uso de diferentes puntos de agarre en el piolet.
+
+– Ejercicios de escalada en travesía y cambios de manos en el piolet.
+
+– Ejercicios de corrección de la posición del centro de gravedad en cascadas de hielo y vías de mixto.
+
+– Colocación de pies y crampones: secuencia de movimientos.
+
+– Ejercicios de mejora del equilibrio en cascadas de hielo y vías de mixto.
+
+– Ejercicios de colocación de tornillos en cascadas de hielo.
+
+– Ejercicios de montaje de reuniones.
+
+– Uso de recursos metodológicos audiovisuales.
+
+4\. Elabora y prepara itinerarios en escalada en hielo en cascada, corredor y mixto, analizando las expectativas de los usuarios y las demandas y características físicas, técnicas y psicológicas de la actividad, aplicando los criterios de recogida e interpretación de información sobre el itinerario y sus contextos, y estableciendo los recursos humanos y materiales necesarios.
+
+– Desarrollo de la logística en la escalada en hielo, en cascadas, corredores y escalada mixta:
+
+– Programación de la actividad:
+
+– Búsqueda de información previa (libros, refugios, federaciones, etc.).
+
+– Elección del itinerario en función de:
+
+– Características técnicas, físicas y psicológicas del grupo.
+
+– Condiciones actuales del itinerario (estado del hielo, etc.).
+
+– Previsión meteorológica y nivológica.
+
+– Temporalización de la actividad.
+
+– Detección y prevención de posibles peligros objetivos y subjetivos.
+
+– El grupo:
+
+– Tipología.
+
+– Perfil del grupo. Expectativas, Capacidades técnicas, físicas y psicológicas.
+
+– Ficha personal de los integrantes del grupo.
+
+– Equipo y material:
+
+– Material técnico y de seguridad del guía.
+
+– Equipo y material técnico del grupo.
+
+– Material técnico colectivo.
+
+– Factores ambientales:
+
+– Condiciones óptimas para la realización de la actividad y predicción meteorológica.
+
+– Ubicación administrativa y geográfica:
+
+– Recursos naturales y culturales.
+
+– La ficha técnica. Aspectos técnicos y de seguridad del itinerario elegido:
+
+– Aspectos técnicos:
+
+– Dificultad técnica del itinerario.
+
+– Compromiso y grado de exposición del itinerario.
+
+– Aspectos de seguridad:
+
+– Peligros objetivos a gestionar y medios para hacerlo.
+
+– Peligros subjetivos a gestionar y medios para hacerlo.
+
+– Fuentes de información:
+
+– Información local.
+
+– Publicaciones especializadas.
+
+– Otros documentos.
+
+– Federaciones autonómicas y nacionales.
+
+– Páginas web. Especializadas.
+
+– Información meteorológica.
+
+– Informaciones del entorno profesional.
+
+– Instituciones públicas.
+
+– Establecimiento y gestión de recursos humanos y materiales.
+
+– Criterios de elección de los recursos humanos (ratios):
+
+– En función de la dificultad de la actividad elegida.
+
+– En función de la longitud y envergadura de la actividad.
+
+– En función del nivel técnico y físico de los deportistas.
+
+– En función de las características psicológicas de los deportistas.
+
+– En función de otros peligros objetivos y subjetivos a gestionar.
+
+– Criterios de elección de materiales específicos para la actividad propuesta.
+
+5\. Previene la seguridad en el diseño de itinerarios en escalada en hielo en cascada, corredor y escalada mixta, analizando los peligros inherentes al mismo, el comportamiento del hielo en escalada en hielo y mixto y su meteorología específica, aplicando protocolos de análisis de la seguridad y analizando las medidas preventivas acordes con este tipo de actividades.
+
+– Conceptos generales. Peligros Objetivos y Subjetivos asociados a la práctica de la escalada en hielo en cascada, corredor y escalada mixta:
+
+– Peligros objetivos:
+
+– Meteorológicos.
+
+– Nivológicos.
+
+– Otros.
+
+– Peligros subjetivos:
+
+– Los derivados de las características técnicas, físicas y psicológicas del grupo (competitividad, baja forma física, mal estado anímico, etc.).
+
+– Socioeconómicos.
+
+– Otros.
+
+– Viabilidad del itinerario:
+
+– Factores a considerar: horario, temperatura ambiente, velocidad del viento, orientación de la vía y/o la pared, estado físico y anímico del grupo.
+
+– Criterios de viabilidad y seguridad en escalada en cascada, en vías de mixto y en corredor.
+
+– Actuaciones para minimizar la exposición a los peligros objetivos y reducir los peligros subjetivos:
+
+– Medidas de seguridad durante la escalada: montaje y colocación de las reuniones, ritmo de escalada del grupo, coordinación entre los integrantes del grupo, etc.
+
+– Protocolos de gestión del riesgo y análisis de la seguridad: listas de comprobación (check list).
+
+– Gestión de la seguridad en escalada en hielo en cascada, corredor y escalada mixta:
+
+– Prevención de accidentes. Plan de actuación:
+
+– Consulta de la previsión nivo–meteorológica pasada y presente y su evolución.
+
+– Elección correcta del itinerario en función de las características del grupo.
+
+– Temporalización de la actividad.
+
+– Elección del material de seguridad apropiado.
+
+– Transmisión de la información al grupo: horarios, material necesario, características técnicas, duración, longitud.
+
+– Identificación y localización de puntos conflictivos.
+
+– Localización y viabilidad de alternativas, zonas de refugio y zonas de solicitud de ayuda.
+
+6\. Guía a grupos y usuarios por itinerarios en escalada en hielo en cascada, corredor y escalada mixta, eligiendo las técnicas más adecuadas a las características de la ruta y a las características de los participantes.
+
+– Información para los participantes en escalada en hielo, corredor y escalada mixta. Procedimientos de prevención y seguridad:
+
+– Información a transmitir:
+
+– Antes del inicio de la actividad.
+
+– Al comienzo de la actividad.
+
+– Durante la actividad. Dinamización del recorrido. Instrucciones pertinentes.
+
+– Final de la actividad. Evaluación participante y guía.
+
+– Conducción de grupos en escalada en hielo, corredor y escalada mixta:
+
+– Técnicas de conducción para la ascensión y el descenso:
+
+– Situación guía/grupo en ascenso y descenso. Disposición de los participantes dentro del grupo. Aspectos a considerar.
+
+– Sistema de encordamiento de la cordada:
+
+– Cordada de dos.
+
+– Cordada de tres.
+
+– Encordamiento en racimo (corredores).
+
+– Reuniones: ubicación, montaje y orden.
+
+– Ritmo y orden de progresión de los componentes del grupo en la escalada.
+
+– Maniobras de descenso y rapel.
+
+> Se numera como Anexo II.h por el art. 9.3.h) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.i — Módulo específico de enseñanza deportiva: Esquí de montaña
+
+Código: MED–MOAM305
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Selecciona, prepara y organiza el material de progresión individual y colectivo, y de seguridad de esquí de montaña, relacionando las características técnicas con las condiciones del grupo y las meteorológicas y la dificultad técnica del recorrido, aplicando los criterios técnicos de adaptación a las características individuales, aplicando protocolos de higiene, mantenimiento y revisión pertinentes.
+
+a. Se han identificado y seleccionado el equipo y material técnico individual, colectivo de progresión y de seguridad adecuado a las características de un supuesto práctico de recorrido en esquí de montaña.
+
+b. Se ha adaptado el equipamiento y material técnico individual de un grupo de participantes, justificando los criterios y procedimientos utilizados, en un supuesto practico de actividad de esquí de montaña.
+
+c. Se han categorizado las características técnicas del equipo y material técnico individual y colectivo de progresión y material de autorrescate.
+
+d. Se han aplicado las directrices de revisión, almacenaje y limpieza del equipo y material técnico individual y colectivo antes, durante y al finalizar un supuesto práctico de esquí de montaña.
+
+e. Se han justificado los criterios de selección del material de autorrescate necesario en una situación de intervención simulada en esquí de montaña.
+
+f. Se han aplicado criterios y procedimientos de organización del equipo y material durante un supuesto práctico de aproximación, ascenso y descenso esquí de montaña.
+
+g. Se ha valorado la implicación en las acciones de conservación del equipo y material técnico, y en la aplicación de las técnicas de reparación y reforzamiento del equipo individual.
+
+h. Se ha demostrado determinación y rigor durante el asesoramiento a deportistas, sobre el equipo y material adecuados, en un supuesto práctico de actividad de esquí de montaña.
+
+i. Se ha demostrado interés por la información actualizada respecto al avance tecnológico del equipo y materiales técnicos en esquí de montaña.
+
+2\. Valora la ejecución de los fundamentos de la técnica gestual y la táctica de progresión individual en esquí de montaña en ascenso y descenso, analizando y demostrando los estándares técnicos y relacionando los errores de ejecución con las causas.
+
+a. Se han analizado las características de la técnica gestual de ascenso en esquí de montaña y de sus variantes.
+
+b. Se han relacionado las posibles adaptaciones de la técnica gestual de ascenso en esquí de montaña con las condiciones nivológicas y meteorológicas, y el nivel de los clientes.
+
+c. Se han justificado los criterios de análisis y valoración de la ejecución de la técnica gestual de ascenso en esquí de montaña y de sus variantes, describiendo posibles errores y sus posibles causas.
+
+d. Se han analizado las características de la técnica gestual de descenso en esquí de montaña y fuera pistas, y sus diferencias respecto de la de descenso de esquí alpino en pista: en cuanto al objetivo, los criterios de seguridad y economía de esfuerzo, y de acuerdo con el material utilizado.
+
+e. Se han relacionado las posibles adaptaciones de la técnica gestual de descenso en esquí de montaña y fuera pista, con las condiciones nivológicas y meteorológicas, y el nivel de los clientes.
+
+f. Se han justificado los criterios de análisis y valoración de la ejecución de la técnica gestual de descenso en esquí de montaña y fuera pistas, describiendo los posibles errores y sus posibles causas.
+
+g. Se han analizado los aspectos a tener en cuenta a la hora de establecer la estrategia de ascenso en esquí de montaña.
+
+h. Se han justificado los criterios de valoración de la elección y ejecución de la estrategia de ascenso en esquí de montaña.
+
+3\. Elabora programas de enseñanza y secuencias de aprendizaje de las técnicas de progresión en ascenso y descenso en esquí de montaña, dirige sesiones, evaluando las condiciones materiales y humanas existentes, aplicando procedimientos de adaptación y metodologías específicas.
+
+a. Se han descrito las características de los objetivos, contenidos, medios y métodos para el desarrollo de un programa operativo de enseñanza de las técnicas de progresión en esquí de montaña en función de las características del contexto de aprendizaje.
+
+b. Se han explicado las características de los métodos específicos utilizados en la enseñanza de las técnicas de progresión en esquí de montaña.
+
+c. Se han analizado los criterios de elaboración y elaborado secuencias de aprendizaje de las técnicas gestuales de ascenso y descenso en esquí alpino, fuera pista, y sus posibles adaptaciones a las condiciones nivológicas y meteorológicas y el nivel de los clientes.
+
+d. Se han relacionado las formas de adecuación de la zona de trabajo con los riesgos más habituales en las sesiones de enseñanza–aprendizaje de las técnicas de progresión en esquí de montaña.
+
+e. Se han identificado y analizado las posibles situaciones y contingencias que se pueden presentar en el desarrollo de una sesión de enseñanza–aprendizaje.
+
+f. Se han analizado las formas de organización del grupo y la intervención docente del profesor en el desarrollo de un supuesto práctico de sesión de enseñanza de las técnicas de progresión en esquí de montaña.
+
+g. Se han descrito y aplicado las principales estrategias de dirección y dinamización en un supuesto práctico de sesión de aprendizaje de las técnicas de progresión en esquí de montaña.
+
+h. Se ha valorado la importancia de la preparación previa de la sesión de trabajo y la autoevaluación docente como factores indicativos de calidad de la enseñanza.
+
+i. Se ha demostrado dirección y liderazgo en su intervención docente, expresándose y transmitiendo la información de forma clara y concisa, en un supuesto práctico debidamente caracterizado, dando pautas y modelos de tipo de comunicación necesaria en situaciones de riesgo en esquí de montaña.
+
+4\. Elabora y prepara itinerarios en esquí de montaña, analizando las expectativas de los usuarios, sus demandas y características físicas, técnicas y psicológicas de la actividad, aplicando los criterios de recogida e interpretación de información sobre el itinerario y sus contextos, y estableciendo los recursos humanos y materiales necesarios.
+
+a. Se han analizado los elementos que configuran la logística en esquí de montaña.
+
+b. Se ha categorizado el nivel de dificultad del itinerario, relacionándola con las expectativas y características de los clientes.
+
+c. Se han descrito y aplicado los criterios de recogida de información necesaria para elaborar el plan de actividad y la ficha técnica en esquí de montaña.
+
+d. Se han descrito y aplicado los criterios de recogida de información sobre el contexto administrativo, geográfico, meteorológico, nivológico, y los recursos de la zona de escalada o del itinerario elegido.
+
+e. Se ha elaborado, en un supuesto práctico, la ficha técnica de una salida de esquí de montaña.
+
+f. Se han establecido los recursos humanos y materiales de un supuesto práctico de esquí de montaña en relación con las necesidades logísticas, la ficha técnica de la actividad, el número de participantes y las condiciones meteorológicas y nivológicas.
+
+g. Se ha valorado la importancia de realizar una adecuada logística para garantizar la seguridad y correcto desarrollo de la actividad.
+
+h. Se han detectado antes y durante la realización de un supuesto práctico, las deficiencias logísticas y organizativas, y tomando las medidas necesarias para solucionarlas.
+
+5\. Guía a grupos y usuarios por itinerarios en esquí de montaña eligiendo las técnicas más adecuadas a las características de la ruta y a las características de los participantes, aplicando procedimientos, de gestión del riesgo, de control y dirección específicos, analizando las posibles contingencias, sus causas, las medidas preventivas y correctivas.
+
+a. Se han analizado las características de la información e instrucciones relevantes que se debe dar al grupo en los diferentes momentos de la actividad, en un supuesto práctico de esquí de montaña.
+
+b. Se han aplicado de forma justificada, en un supuesto práctico de esquí de montaña, los procedimientos de seguridad correspondientes a los diferentes momentos de la actividad.
+
+c. Se han valorado los diferentes protocolos de seguridad en un supuesto práctico de esquí de montaña y fuera de pistas.
+
+d. Se han aplicado las diferentes técnicas y tácticas en cada momento de la actividad en un supuesto práctico de salida de esquí de montaña.
+
+e. Se ha justificado en todo momento la elección del itinerario y la táctica de ascenso y descenso en un supuesto práctico de salida de esquí de montaña.
+
+f. Se han analizado los elementos a tener en cuenta en la gestión de los factores de riesgo en el guiado de grupos o individuo en esquí de montaña.
+
+g. Se ha demostrado una correcta actitud profesional y capacidad de toma de decisiones y resolución de contingencias técnicas y conductuales del grupo en las situaciones prácticas de guiado en esquí de montaña.
+
+h. Se ha analizado la normativa, señalización y comportamiento necesarios en el esquí en fuera de pistas en una estación de esquí y en un espacio natural protegido.
+
+i. Se ha demostrado una actitud positiva y empática con los participantes y una buena imagen personal durante la actividad realizada.
+
+j. Se han justificado las decisiones adoptadas durante un supuesto práctico de guiado a un grupo en esquí de montaña, teniendo en cuenta de forma equilibrada los intereses y objetivos deportivos del grupo, y los criterios de seguridad y gestión del riesgo de la actividad.
+
+Contenidos básicos
+
+1\. Selecciona, prepara y organiza el material de progresión individual y colectivo, y de seguridad de esquí de montaña relacionando las características técnicas con las condiciones del grupo y las meteorológicas y la dificultad técnica del recorrido, aplicando los criterios técnicos de adaptación a las características individuales, aplicando protocolos de higiene, mantenimiento y revisión pertinentes.
+
+– Equipo individual en esquí de montaña:
+
+– Configuración de los elementos del equipo.
+
+– Características generales.
+
+– Implicación en la seguridad del usuario.
+
+– Material técnico individual:
+
+– Configuración de los elementos del material técnico individual en esquí de montaña:
+
+– Material de esquí de montaña:
+
+– Esquís y fijaciones: tipos y características.
+
+– Bastones: tipos y características.
+
+– Pieles de foca: tipos y características.
+
+– Botas: tipos y características.
+
+– Cuchillas: tipos y características.
+
+– Material usado en esquí fuera de pistas: similitudes y diferencias.
+
+– Material para reparaciones de fortuna.
+
+– Criterios de elección y adaptación del equipo individual, en función de las características físicas, del nivel técnico y del objetivo deportivo del cliente:
+
+– Criterios de adaptación del equipo individual:
+
+– Regulación de las fijaciones.
+
+– Medidas de los esquís (altura, líneas de cotas).
+
+– Selección de las botas en función del objetivo del deportista.
+
+– Altura de los bastones, tipos y uso de las dragoneras del bastón en función de las circunstancias. Tipos y uso de rosetas.
+
+– Selección de las pieles de foca en función del objetivo del deportista y otros criterios (durabilidad frente a deslizamiento). Sistemas de fijación de las pieles al esquí; tipos, ventajas e inconvenientes.
+
+– Homologaciones y normativas de uso.
+
+– Material técnico colectivo.
+
+– Configuración de los elementos del material técnico colectivo en esquí de montaña: Tipos y características.
+
+– Homologaciones y normativas de uso.
+
+– Equipo de seguridad Individual y autorrescate:
+
+– Material de autorrescate en esquí de montaña:
+
+– Características técnicas.
+
+– Criterios de selección del material.
+
+– Adaptaciones y uso del material técnico individual como material de autorescate.
+
+– Revisión de los elementos de seguridad individual en nieve.
+
+– Revisión de los protocolos de uso del DVA adaptados al esquí de montaña.
+
+– Revisión de la estrategia de búsqueda y rescate en avalanchas en esquí de montaña.
+
+– Configuración de los elementos del equipo de seguridad individual en esquí de montaña:
+
+– Mochilas airbag, avalung: Tipos y características.
+
+– Criterios de elección del equipo y el material:
+
+– En función de las características del grupo.
+
+– En función de las condiciones meteorológicas.
+
+– En función de la dificultad técnica del itinerario.
+
+– Otros criterios.
+
+– Mantenimiento y revisión. Preparación y organización del material:
+
+– Equipo individual:
+
+– Medidas higiénicas.
+
+– Almacenado del equipo.
+
+– Reparaciones. Materiales específicos para la reparación y reforzamiento.
+
+– Material técnico individual y colectivo:
+
+– Limpieza.
+
+– Precauciones a tener en cuenta en el uso.
+
+– Revisión del material. Factores a tener en cuenta. Verificación visual y táctil; Indicios/signos de desgaste y zonas de mayor afectación.
+
+– Preparación y organización del material.
+
+2\. Valora la ejecución de los fundamentos de la técnica gestual y la táctica de progresión individual en esquí de montaña en ascenso y descenso, analizando y demostrando los estándares técnicos y relacionando los errores de ejecución con las causas.
+
+– Técnica gestual de ascenso en esquí de montaña:
+
+– Técnica gestual de foqueo:
+
+– Similitudes con la técnica del esquí nórdico.
+
+– Posición del cuerpo y centro de gravedad.
+
+– Clavado y apoyo del bastón.
+
+– Longitud del paso.
+
+– Adaptaciones a la pendiente o al estado de la nieve y al nivel físico – técnico del grupo.
+
+– Tipos de cambios de dirección en ascenso:
+
+– Cambio de dirección progresivo.
+
+– Diferentes tipos de «vuelta María al monte».
+
+– Vuelta María al valle.
+
+– Cambios de dirección rápidos de adaptación en competición.
+
+– Uso de las alzas y su relación con la huella y la fatiga.
+
+– Uso de los bastones y diferentes alturas según la traza de la huella y el momento.
+
+– Valoración de la técnica gestual en ascenso en esquí de montaña para la corrección del deportista. Errores y causas más probables, criterios a utilizar.
+
+– Táctica de ascenso en esquí de montaña:
+
+– Estrategia durante el ascenso:
+
+– Criterios de elección de la estrategia.
+
+– Huella y traza.
+
+– Cambios de dirección.
+
+– Usos de los materiales.
+
+– La huella y su adaptación al grupo:
+
+– Utilización de toda la ladera.
+
+– Minimizar los cambios de dirección.
+
+– Adaptación al nivel de los clientes.
+
+– Adaptación a la forma e inclinación de la pendiente.
+
+– Los cambios de dirección en ascenso:
+
+– Comodidad – facilidad.
+
+– Elección del sitio para el cambio de dirección.
+
+– Acondicionamiento de terreno para facilitar el cambio de dirección al grupo.
+
+– Ayudas concretas al grupo: preparación del cambio con pala de nieve y otros.
+
+– Diferencias entre foqueo deportivo de competición y foqueo adaptado al nivel de los clientes.
+
+– El ritmo de ascenso.
+
+– Colocación y quitado de pieles de foca: diferentes métodos.
+
+– Uso de las cuchillas y alzas:
+
+– En función de la seguridad en la progresión.
+
+– En función de la comodidad en la progresión.
+
+– En función del resultado de la traza.
+
+– En función de las condiciones de la nieve.
+
+– Valoración de la táctica de ascenso en esquí de montaña para su corrección al deportista. Errores y causas más probables, criterios a utilizar.
+
+– Adaptación de la técnica gestual de descenso al esquí de montaña:
+
+– Técnica gestual de descenso:
+
+– Diferencias con respecto al esquí en pistas:
+
+– El objetivo.
+
+– Criterios de seguridad y economía de esfuerzo.
+
+– Adaptación al material de esquí de montaña.
+
+– Adaptación del tipo de viraje al estado de la nieve.
+
+– Revisión de la posición fundamental de descenso directo y en la diagonal.
+
+– Adaptación de los virajes al esquí de montaña:
+
+– Stemm Cristiania.
+
+– Paralelo por extensión.
+
+– Paralelo por flexión.
+
+– Por salto.
+
+– Por salto alternativo (tip–tap).
+
+– Técnicas específicas para esquí de pendiente fuerte y esquí extremo.
+
+– Valoración de la posición y técnica gestual del deportista por parte del guía para la corrección del deportista. Errores y causas más probables, criterios a utilizar.
+
+3\. Elabora programas de enseñanza y secuencias de aprendizaje de las técnicas de progresión en ascenso y descenso en esquí de montaña, dirige sesiones, evaluando las condiciones materiales y humanas existentes, aplicando procedimientos de adaptación y metodologías específicas.
+
+– Los recursos materiales y humanos: elección del terreno y equipamientos.
+
+– Elección de la zona de trabajo para la sesión. Valoración y gestión de los posible peligros objetivos (caídas de piedras, riesgo de avalanchas, etc.) y subjetivos (relaciones entre clientes, presencia de otros grupos, etc.).
+
+– Dirección de la sesión de enseñanza–aprendizaje de las técnicas de ascenso y descenso en esquí de montaña: posición del profesor en relación al grupo, distribución del grupo para la mejor recepción de la información.
+
+– Gestión del riesgo en las sesiones de enseñanza–aprendizaje y elección de las zonas de trabajo: colocación del grupo para una adecuada gestión del riesgo.
+
+– Comunicación en la sesión de enseñanza, común a otras situaciones de alta montaña.
+
+– Dinamización de la sesión de enseñanza – aprendizaje:
+
+– Variedad en la elección del terreno de la misma.
+
+– Variación en la elección de los métodos de enseñanza.
+
+– Variación en la elección de los medios y recursos didácticos.
+
+– Variación en la elección de los ejercicios aplicados.
+
+– Focalización de objetivos aplicada al alumno como recurso motivacional.
+
+– La programación de la enseñanza de la técnica gestual de progresión en ascenso en esquí de montaña: estructura, objetivos y sesión de enseñanza.
+
+– Objetivos en función de la motivación y finalidad del alumno:
+
+– Esquí de montaña como medio de progresión en la montaña invernal.
+
+– Esquí de montaña con finalidad deportivo–recreativa.
+
+– Esquí de montaña como medio de entrenamiento aeróbico.
+
+– Esquí de montaña con finalidad de competición de diferentes niveles.
+
+– Métodos de enseñanza:
+
+– Enseñanza basada en el descubrimiento guiado (durante la actividad).
+
+– Enseñanza basada en el método analítico – sintético: demostración global y prueba del alumno y fraccionamiento de los diferentes elementos técnicos y tácticos.
+
+– Enseñanza basada en el método de ensayo y error: probando diferentes medios de ascenso (con o sin alzas) y valorando las ventajas e inconvenientes.
+
+– Enseñanza basada en métodos globales que aglutinan varias técnicas: pequeñas competiciones entre el grupo con transiciones de uso del material y subidas y bajas en un mismo itinerario, entre otras.
+
+– Medios didácticos:
+
+– Uso del video.
+
+– Análisis de la huella y la traza.
+
+– Secuencias de aprendizaje. Criterios de elaboración, propuestas prácticas:
+
+– Ejercicios de técnica base de foqueo: paso alterno en llano.
+
+– Cambios de dirección progresivos:
+
+– Ejercicios de corrección de apoyo del bastón y del paso.
+
+– Ejercicios de ensayo – prueba.
+
+– Técnica de la «vuelta Maria al monte»: Con y sin bastones, en pendientes fuertes.
+
+– «Vuelta María al valle»: Con y sin bastones, en situaciones de dificultad.
+
+– Gynkanas de variación de trazas y cambios de dirección.
+
+– Uso de recursos metodológicos audiovisuales.
+
+– La programación de la enseñanza de la táctica de progresión en ascenso en esquí de montaña: estructura, objetivos y sesión de enseñanza:
+
+– Secuencias de aprendizaje. Criterios de elaboración, propuestas prácticas:
+
+– Ejercicios de análisis de la pendiente.
+
+– Elección de posibles trazas e itinerarios.
+
+– Prueba de diferentes trazas y puesta en común: pros y contras de unas y otras.
+
+– Pruebas de diferentes trazas y uso de materiales: alzas y cuchillas.
+
+– La programación de la enseñanza de la técnica gestual de descenso en esquí de montaña: estructura, objetivos y sesión de enseñanza:
+
+– Corrección de la posición fundamental de descenso directo y diagonal: Flexión de las articulaciones, posición del tronco y de los brazos, de la cabeza, del centro de gravedad.
+
+– Secuencias de aprendizaje. Criterios de elaboración, propuestas prácticas.
+
+– Viraje «Stemm Cristiania»: finalidad y técnica gestual:
+
+– Secuencias de aprendizaje. Criterios de elaboración, propuestas prácticas.
+
+– Ejercicios de progresión.
+
+– Viraje paralelo por extensión: finalidad y técnica gestual.
+
+– Secuencias de aprendizaje. Criterios de elaboración, propuestas prácticas.
+
+– Ejercicios de progresión.
+
+– Viraje paralelo por salto: finalidad y técnica gestual:
+
+– Ejercicios de progresión.
+
+– Viraje por salto «tip – tap»: finalidad y técnica gestual:
+
+– Secuencias de aprendizaje. Criterios de elaboración, propuestas prácticas.
+
+– Ejercicios de progresión.
+
+– Viraje por salto de pendientes fuertes y esquí extremo: finalidad y técnica gestual:
+
+– Secuencias de aprendizaje. Criterios de elaboración, propuestas prácticas.
+
+– Ejercicios de progresión.
+
+– Uso de recursos metodológicos audiovisuales.
+
+4\. Elabora y prepara itinerarios en esquí de montaña, analizando las expectativas de los usuarios, sus demandas y características físicas, técnicas y psicológicas de la actividad, aplicando los criterios de recogida e interpretación de información sobre el itinerario y sus contextos, y estableciendo los recursos humanos y materiales necesarios.
+
+– Desarrollo de la logística en esquí de montaña:
+
+– Plan de actividad y adaptación al grupo.
+
+– El grupo:
+
+– Tipología.
+
+– Perfil del grupo. Expectativas, capacidades técnicas, físicas y psicológicas.
+
+– Ficha personal de los integrantes del grupo.
+
+– Equipo y material:
+
+– Material técnico y de seguridad del guía.
+
+– Equipo y material técnico del grupo.
+
+– Material técnico colectivo.
+
+– Factores ambientales:
+
+– Condiciones óptimas para la realización de la actividad y predicción meteorológica.
+
+– Parte nivológico y evolución del manto nivoso.
+
+– Estado actual del itinerario.
+
+– Análisis contextual de la actividad:
+
+– Ubicación administrativa y geográfica.
+
+– Recursos naturales y culturales.
+
+– La ficha técnica. Aspectos técnicos y de seguridad del itinerario elegido:
+
+– Aspectos técnicos.
+
+– Aspectos de seguridad.
+
+– Nivel de dificultad: duración, pendientes y exposición.
+
+– Nivel de los clientes.
+
+– Peligros objetivos y subjetivos vinculados a la actividad.
+
+– Fuentes de información. Criterios de recogida de información:
+
+– Información local.
+
+– Publicaciones especializadas.
+
+– Otros documentos.
+
+– Federaciones autonómicas y nacionales.
+
+– Páginas web. Especializadas.
+
+– Información meteorológica.
+
+– Informaciones del entorno profesional.
+
+– Instituciones públicas.
+
+– Establecimiento y gestión de recursos humanos y materiales:
+
+– Recursos humanos:
+
+– Ratios guía/clientes en función de las características del itinerario.
+
+5\. Guía a grupos y usuarios por itinerarios en esquí de montaña eligiendo las técnicas más adecuadas a las características de la ruta y a las características de los participantes, aplicando procedimientos, de gestión del riesgo, de control y dirección específicos, analizando las posibles contingencias, sus causas, las medidas preventivas y correctivas.
+
+– Gestión de la seguridad en esquí de montaña:
+
+– Prevención de accidentes. Plan de actuación. Elementos a tener en cuenta.
+
+– Protocolos de seguridad: planificación previa, identificación de posibles peligros, etc.
+
+– Identificación y localización de puntos conflictivos.
+
+– localización y viabilidad de alternativas, zonas de refugio y zonas de solicitud de ayuda.
+
+– Consulta de la meteorología y nivología pasada y presente y su evolución.
+
+– Toma de decisiones basada en la observación meticulosa del medio y análisis exhaustivo de las circunstancias que rodean a la actividad.
+
+– Métodos globales de prevención de accidente en esquí de montaña:
+
+– 3 × 3.
+
+– «Nivo Card».
+
+– «Stop or go».
+
+– Otros protocolos de gestión del riesgo en esquí de montaña.
+
+– Establecimiento plan alternativo.
+
+– Elección de las técnicas de ascenso y descenso más adecuadas al itinerario:
+
+– Criterios en cuanto al uso de alzas y/o cuchillas.
+
+– Criterios en cuanto al tipo de cambio de dirección.
+
+– Criterio en cuanto a las transiciones (mantener o quitar pieles en pequeños descensos, etc.).
+
+– Criterios en cuanto a medida de los bastones y otros usos de los mismos.
+
+– Criterios en cuanto al tipo de viraje elegido en el descenso.
+
+– Elección de itinerario y la táctica en el ascenso y el descenso:
+
+– Elección de la ruta con respecto a las avalanchas.
+
+– Elección de la ruta con respecto a la inclinación y forma de la pendiente y el estado de la nieve.
+
+– Planificación del horario y adaptación a las condiciones.
+
+– Estrategias de descenso: traza única o libre, descenso simultáneo o fraccionado, etc.
+
+– Órdenes de bajada y normas de seguridad:
+
+– Órdenes generales de seguridad.
+
+– Órdenes específicas en función del grupo y el medio.
+
+– Lugar y formas de reagrupamiento.
+
+– Situaciones especiales: ayudas al cliente.
+
+– Protección y ayuda a los clientes en cambios de dirección difíciles o peligrosos.
+
+– Situación guía/grupo en ascenso y descenso. Disposición de los participantes dentro del grupo. Aspectos a considerar.
+
+– Maniobras de cuerda en esquí de pendiente o esquí extremo:
+
+– Pasamanos.
+
+– Rapel con esquís.
+
+– Esquí asegurado con cuerda.
+
+– Códigos de comunicación en esquí de montaña:
+
+– El mensaje. Interpretación.
+
+– Código gestual.
+
+– Código auditivo.
+
+– Información para los participantes en esquí de montaña:
+
+– Procedimientos de prevención y seguridad.
+
+– Información a transmitir y procedimientos de seguridad antes del inicio de la actividad.
+
+– Al comienzo de la actividad:
+
+– Procedimientos de seguridad.
+
+– Durante la actividad:
+
+– Dinamización del recorrido. Instrucciones pertinentes.
+
+– Final de la actividad. Evaluación participante y guía:
+
+– Normativa en estaciones de esquí:
+
+– Señalización de itinerarios.
+
+– Esquí fuera de pistas en el marco de la estación de esquí.
+
+– Normativa en espacios naturales protegidos y esquí de montaña:
+
+– Itinerarios restringidos.
+
+– Especies protegidas.
+
+– Recomendaciones de progresión y elección del itinerario.
+
+> Se numera como Anexo II.i por el art. 9.3.i) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.j — Módulo específico de enseñanza deportiva: Preparación física del deportista de alta montaña
+
+Código: MED–MOAM306
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Evalúa la condición física del deportista de alta montaña, en esquí de montaña, alta montaña y escalada en hielo, analizando las demandas específicas de cada actividad y aplicando procedimientos específicos de valoración.
+
+a. Se han clasificado los factores que determinan el rendimiento en las actividades de: esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+b. Se han descrito las características del proceso de evaluación de la condición física del deportista de alta montaña, así como los factores a la hora de administrar un test.
+
+c. Se han seleccionado y aplicado métodos e instrumentos para la valoración de las capacidades físicas durante el entrenamiento y la práctica de actividades de: esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+d. Se ha adaptado el proceso de evaluación de la condición física en relación a las características específicas del esquí de montaña, la alta montaña y la escalada en hielo realizada en alta montaña.
+
+e. Se ha justificado el perfil fisiológico del deportista de alta montaña en relación con las características de las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+f. Se han determinado herramientas válidas para el control de variables morfológicas y estructurales del deportista de alta montaña.
+
+g. Se han explicado los criterios para el diseño de tests de campo específicos de las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+h. Se han establecido modelos para la recogida de información subjetiva por parte de los deportistas de alta montaña en relación al nivel rendimiento físico y fatiga presentado durante el entrenamiento y la práctica, en función de las características de las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+i. Se han aplicado métodos y técnicas de procesamiento de los registros obtenidos durante la valoración del rendimiento físico del deportista de alta montaña.
+
+j. Se ha justificado la relación entre los factores condicionales y el rendimiento durante las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+k. Se ha asimilado la necesidad de compartir la información resultante de las valoraciones con el deportista de alta montaña.
+
+l. Se ha interiorizado la obligación de respetar la dignidad del deportista de alta montaña a la hora de realizar cualquier tipo de evaluación.
+
+2\. Identifica las necesidades ergogénicas y ergonutricionales del deportista en las actividades de alta montaña, analizando las demandas específicas, aplicando procedimientos para la elaboración de dietas y valorando los procedimientos y normas de control antidopaje.
+
+a. Se han identificado las necesidades nutricionales de las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+b. Se han justificado diferentes tipos de ayudas ergonutricionales en función de las características y necesidades de las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+c. Se han relacionado los aspectos fisiológicos de la hidratación: antes, durante y después de la actividad física, con el rendimiento en las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+d. Se ha justificado la elección de dietas específicas dirigidas al control del peso en los deportistas de alta montaña.
+
+e. Se han descrito las pautas generales para la elaboración de dietas dirigidas principalmente al control de peso del deportista de alta montaña.
+
+f. Se ha realizado una propuesta de aplicación práctica en la utilización de ayudas ergogénicas en la práctica de las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+g. Se ha analizado la lista de «sustancias prohibidas» establecida por la Agencia Mundial Antidopaje (AMA).
+
+h. Se han explicado y analizado los procedimientos establecidos por la AMA en lo que se refiere a los controles antidopaje, la solicitud de exenciones terapéuticas y localización de los deportistas de alta montaña.
+
+i. Se ha valorado la importancia de un comportamiento ético vinculado con el respeto y el cuidado del propio cuerpo en el desarrollo de las actividades en alta montaña.
+
+3\. Programa a largo, medio y corto plazo la preparación condicional del deportista de alta montaña, analizando los modelos de preparación, las características de los diferentes ciclos o periodos de preparación y los criterios de combinación y evolución de los medios y métodos empleados.
+
+a. Se han analizado las características de los diferentes modelos de planificación de la preparación del deportista de alta montaña en función de los objetivos establecidos, de la dinámica de cargas que conlleva, y de su adecuación a la edad y la etapa deportiva del deportista.
+
+b. Se ha identificado el tipo de información que se debe tener en cuenta en la programación a largo plazo.
+
+c. Se han aplicado métodos de recogida y análisis de la información sobre el deportista de alta montaña y el entorno, a tener en cuenta en la programación a largo plazo.
+
+d. Se han analizado los procedimientos de selección de los objetivos a alcanzar en los factores de rendimiento en las actividades de esquí de montaña, alta montaña de gran dificultad y escalada en hielo realizada en alta montaña, en función del tipo de ciclo o periodo de preparación utilizado, de la edad y de la etapa deportiva del deportista de alta montaña.
+
+e. Se han caracterizado las diferentes etapas, ciclos o periodos en los que se subdivide una programación, y su relación con los objetivos del ciclo.
+
+f. Se han seleccionado los medios y métodos de control de los factores de rendimiento en las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña, en función de la situación dentro de la programación y de los objetivos de la misma.
+
+g. Se ha justificado la dinámica de cargas de los diferentes factores de rendimiento deportivo en las actividades de esquí de montaña, alta montaña de gran dificultad y escalada en hielo realizada en alta montaña, de una programación anual en función de las características de la programación y de los objetivos planteados.
+
+h. Se han seleccionado los medios y métodos de entrenamiento acordes con el tipo de ciclo o periodo de preparación elegido.
+
+i. Se han justificado los criterios de evolución y modificación de los métodos de entrenamiento de los factores de rendimiento en los diferentes tipos de ciclos o periodos de preparación a medio y corto plazo.
+
+j. Se ha diseñado un programa de preparación a largo plazo, a partir de una situación simulada debidamente caracterizada, en la que se determinan las características del sujeto, de su entorno, la actividad a desarrollar en alta montaña y el objetivo a conseguir.
+
+k. Se ha justificado la importancia de adaptar la programación a las modificaciones de la forma deportiva del deportista de alta montaña y al grado de consecución de los objetivos propuestos.
+
+l. Se ha valorado la importancia de establecer metas adecuadas a la edad, la evolución del deportista de alta montaña, y la dinámica de cargas, en la programación a largo, medio y corto plazo.
+
+4\. Dirige la recuperación y adaptación motriz del deportista de alta montaña lesionado, analizando los tipos de lesión y seleccionando y aplicando programa adaptados.
+
+a. Se han descrito las características y evolución de las patologías más frecuentes, provocadas por el entrenamiento y la práctica de actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+b. Se han clasificado las lesiones del aparato locomotor más comunes y específicas en la práctica de actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+c. Se han identificado las causas de las lesiones más comunes y los métodos y procedimientos de prevención de las mismas.
+
+d. Se ha analizado la disponibilidad y uso de elementos de protección para la prevención de lesiones en la práctica de actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+e. Se han analizado los fundamentos de trabajo de las capacidades físicas para aplicar cargas de entrenamiento en diferentes sujetos, como medio de prevención de lesiones.
+
+f. Se han justificado los protocolos de tratamiento de las lesiones más comunes y las fases estándar en el proceso de recuperación y/o adaptación motriz.
+
+g. Se han relacionado las pautas de actuación en el proceso de recuperación y adaptación motriz del deportista de alta montaña lesionado con las características de la lesión.
+
+h. Se han fundamentado los criterios de elaboración del entrenamiento complementario con deportistas de alta montaña lesionados.
+
+i. Se han analizado los medios y métodos de control y seguimiento del deportista de alta montaña desde la aparición de la lesión hasta su integración al entrenamiento normalizado y la actividad.
+
+j. Se ha tomado conciencia de la presencia de variables psicológicas implicadas en los procesos de prevención y readaptación motriz de lesiones.
+
+5\. Concreta y dirige ciclos y sesiones de entrenamiento condicional del deportista de alta montaña, analizando los factores que determinan la carga de trabajo, justificando y aplicando métodos del entrenamiento condicional y analizando los procedimientos de individualización del trabajo.
+
+a. Se han definido las características que debe cumplir un programa de entrenamiento personalizado, acorde a las necesidades de cada deportista de alta montaña.
+
+b. Se han analizado los criterios de individualización y personalización del entrenamiento en función de las características físicas, técnicas y psicológicas del deportista de alta montaña.
+
+c. Se han relacionado los medios específicos, en la mejora de las capacidades condicionales del deportista de alta montaña, con las características de las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+d. Se han justificado las características de los métodos específicos, en el desarrollo de las capacidades condicionales necesarias en las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+e. Se han diseñado programas de preparación física a medio y corto plazo, a partir de las directrices de un supuesto práctico, debidamente caracterizado, de programación a largo plazo, empleando diferentes tipos de estructuras temporales propias de la planificación deportiva, concretando objetivos, medios, métodos, instrumentos de control y dinámica de la carga.
+
+f. Se ha relacionado las causas y métodos de recuperación de la fatiga en entrenamientos y competiciones con las características de las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+g. Se han diseñado sesiones de trabajo de la condición física del deportista, atendiendo a las características de las actividades de esquí de montaña, alta montaña escalada en hielo realizada en alta montaña, del momento concreto de la preparación, y a los criterios de combinación de los medios y métodos de entrenamiento y de los mecanismos de recuperación disponibles.
+
+h. Se han caracterizado los indicadores que permiten la cuantificación de la carga de trabajo condicional en las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+i. Se han analizado los métodos o sistemas de cuantificación de la carga de trabajo condicional en el entrenamiento.
+
+j. Se han analizado las incidencias más habituales en las sesiones de desarrollo de la condición física, relacionándolas con las causas y posibles medidas para su solución.
+
+k. Se han identificado los criterios de calidad en la organización y dirección de sesiones de desarrollo de la condición física en las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+l. Se ha valorado la importancia de la cuantificación y el seguimiento de la carga de entrenamiento en la optimización de la preparación en las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+Contenidos básicos
+
+1\. Evalúa la condición física del deportista de alta montaña, en esquí de montaña, alta montaña y escalada en hielo, analizando las demandas específicas de cada actividad y aplicando procedimientos específicos de valoración.
+
+– Rendimiento en las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña. Factores de los que depende:
+
+– Características.
+
+– Capacidades físicas necesarias en las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña. Relación con el rendimiento.
+
+– Otros factores.
+
+– Perfil fisiológico y antropométrico del deportista de alta montaña en función de las características de las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+– Características del proceso de evaluación de la condición física del deportista de alta montaña.
+
+– Procedimientos de valoración de la condición física del deportista de alta montaña en el entrenamiento y durante la propia actividad. Criterios de adaptación en función de la actividad.
+
+– Métodos e instrumentos de valoración de las capacidades físicas en las actividades de alta montaña durante el entrenamiento y la propia actividad:
+
+– Aplicación y criterios de selección.
+
+– Test de campo. Diseño y adaptación.
+
+– Información subjetiva complementaria. Modelos y protocolos.
+
+– Valoración del rendimiento físico:
+
+– Técnicas y procedimientos aplicados.
+
+– Análisis y discusión de los resultados.
+
+2\. Identifica las necesidades ergogénicas y ergonutricionales del deportista en las actividades de alta montaña, analizando las demandas específicas, aplicando procedimientos para la elaboración de dietas y valorando los procedimientos y normas de control antidopaje.
+
+– Necesidades nutricionales de las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+– Ayudas ergo nutricionales:
+
+– Adecuación a las características del entrenamiento y de las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña.
+
+– Criterios de selección.
+
+– Elaboración de dietas: Pautas y normas. Dietas específicas para el control de peso.
+
+– Hidratación del deportista durante las actividades de esquí de montaña, alta montaña y escalada en hielo realizada en alta montaña:
+
+– Fundamentos fisiológicos.
+
+– Características en función de la actividad, el entorno y el momento.
+
+– Código ético en las actividades en alta montaña.
+
+– Lista de sustancias prohibidas de la Agencia Mundial Antidopaje (AMA).
+
+– Procedimientos de la AMA: controles antidoping, exenciones terapéuticas y localización de deportistas de alta montaña.
+
+3\. Programa a largo, medio y corto plazo la preparación condicional del deportista de alta montaña, analizando los modelos de preparación, las características de los diferentes ciclos o periodos de preparación y los criterios de combinación y evolución de los medios y métodos empleados.
+
+– Modelos de planificación en las actividades de esquí de montaña, alta montaña de gran dificultad y escalada en hielo realizada en alta montaña:
+
+– Características.
+
+– Relación con la etapa deportiva.
+
+– El entorno del deportista de alta montaña como condicionante de la planificación. Características, información del entorno:
+
+– Métodos de recogida y análisis de la información.
+
+– Objetivos de la planificación en función de:
+
+– Las actividades de esquí de montaña, alta montaña de gran dificultad y escalada en hielo realizada en alta montaña.
+
+– Edad y etapa deportiva del deportista de alta montaña.
+
+– Programación: ciclos, etapas y periodos. Características, relación con los objetivos de la planificación.
+
+– Medios y métodos de control de los factores de rendimiento. Criterios de selección en función de los objetivos y la situación dentro de la programación:
+
+– Dinámica de cargas dentro de la planificación y la programación.
+
+– Criterios de evolución y modificación de los medios y métodos de entrenamiento de los factores de rendimiento en función de:
+
+– Las actividades de esquí de montaña, alta montaña de gran dificultad y escalada en hielo realizada en alta montaña.
+
+– La etapa, periodo o ciclo de preparación.
+
+– Los objetivos previstos.
+
+4\. Dirige la recuperación y adaptación motriz del deportista de alta montaña lesionado, analizando los tipos de lesión y seleccionando y aplicando programa adaptados.
+
+– Patologías más frecuentes de los deportistas de actividades de esquí de montaña, alta montaña de gran dificultad y escalada en hielo realizada en alta montaña. Características y evolución.
+
+– Lesiones más comunes del aparato locomotor del deportista de alta montaña: Clasificación, causas, prevención y elementos de protección, etc.
+
+– Protocolos de tratamiento de las lesiones más comunes.
+
+– Procesos, pautas y fases de recuperación y/o adaptación motriz.
+
+– Entrenamiento complementario de los deportistas de alta montaña lesionados. Criterios de elaboración.
+
+– Medios y métodos de control y seguimiento del deportista de alta montaña lesionado:
+
+– Proceso de integración al entrenamiento normalizado.
+
+– Factores psicológicos en el proceso de recuperación.
+
+5\. Concreta y dirige ciclos y sesiones de entrenamiento condicional del deportista de alta montaña, analizando los factores que determinan la carga de trabajo, justificando y aplicando métodos del entrenamiento condicional y analizando los procedimientos de individualización del trabajo.
+
+– La programación de ciclos y sesiones de entrenamiento:
+
+– Mesociclos y microciclos. Tipos, estructura, dinámica de cargas y características.
+
+– Sesiones. Tipos, estructura, dinámica de cargas y características.
+
+– Control del entrenamiento en los ciclos y la sesión.
+
+– Adaptación a las actividades de esquí de montaña, alta montaña de gran dificultad y escalada en hielo realizada en alta montaña.
+
+– Individualización del entrenamiento. Principios y criterios de adaptación:
+
+– Características en función del tipo de actividad en alta montaña.
+
+– Medios específicos de desarrollo de las capacidades condicionales en:
+
+– Esquí de montaña.
+
+– Alta montaña de gran dificultad.
+
+– Escalada en hielo realizada en alta montaña.
+
+– Métodos específicos de entrenamiento de las capacidades condicionales en las actividades en alta montaña:
+
+– Fuerza. Criterios de evolución y modificación. Adaptación al tipo de actividad.
+
+– Resistencia. Criterios de evolución y modificación. Adaptación al tipo de actividad.
+
+– Velocidad. Criterios de evolución y modificación. Adaptación al tipo de actividad.
+
+– Movilidad. Criterios de evolución y modificación. Adaptación al tipo de actividad.
+
+– Cuantificación de la carga:
+
+– Características en función de la actividad.
+
+– Métodos y sistemas de cuantificación.
+
+– Fatiga del deportista en alta montaña: causas y métodos de recuperación.
+
+– Sesión de acondicionamiento físico dirigida a la recuperación de la fatiga.
+
+– La dirección de la sesión de entrenamiento condicional:
+
+– Sistemas de organización en función del objetivo y la metodología.
+
+– El conocimiento de los resultados. Finalidad y características.
+
+– Criterios de calidad en la organización y dirección de sesiones.
+
+– Incidencias más habituales. Causas y medidas preventivas.
+
+> Se numera como Anexo II.j por el art. 9.3.j) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.k — Módulo de enseñanza deportiva: Proyecto final
+
+Código: MED–MOAM307
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Diseña proyectos relacionados con las competencias del técnico deportivo superior en alta montaña, fundamentando el proyecto en la información recogida, desarrollando las fases que lo componen y realizando las previsiones de recursos humanos y materiales
+
+a. Se ha elegido un tema que permite integrar los conocimientos adquiridos en los diferentes bloques y módulos del ciclo superior en alta montaña.
+
+b. Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto.
+
+c. Se han identificado las fases o partes que componen el proyecto y sus contenidos.
+
+d. Se han establecido los objetivos que se pretenden conseguir identificando su alcance.
+
+e. Se han valorado los aspectos que pueden facilitar o dificultar el desarrollo del proyecto.
+
+f. Se han previsto y priorizado los recursos materiales y personales necesarios, de acuerdo con los objetivos del proyecto.
+
+g. Se ha realizado el presupuesto económico correspondiente.
+
+h. Se han identificado las posibles fuentes de financiación del proyecto, en base a las necesidades del mismo.
+
+i. Se han identificado los aspectos que se deben controlar y de los que depende la calidad del proyecto.
+
+j. Se ha justificado la pertinencia y viabilidad del proyecto.
+
+k. Se ha valorado el rigor en la recogida de la información utilizada en la elaboración del proyecto.
+
+2\. Planifica y programa la ejecución del proyecto, determinando las fases o ciclos de preparación, la metodología utilizada y los recursos necesarios.
+
+a. Se han secuenciado y temporalizado las actividades, ordenándolas en función de las necesidades de implantación del proyecto.
+
+b. Se ha elaborado la planificación del proyecto, periodizando y programando el entrenamiento y los recursos necesarios, cuando el proyecto esté dirigido al alto rendimiento deportivo en alta montaña.
+
+c. Se han determinado los recursos y la logística necesarios en cada actividad.
+
+d. Se han identificado los permisos y autorizaciones necesarios en cada una de las actividades.
+
+e. Se han determinado los procedimientos de actuación o ejecución de las actividades.
+
+f. Se han identificado los riesgos inherentes al desarrollo de las actividades, definiendo el plan de prevención de riesgos y los medios y equipos necesarios.
+
+g. Se han planificado la asignación de recursos materiales y humanos, y los tiempos de ejecución.
+
+h. Se ha hecho la valoración económica necesaria en la ejecución del proyecto.
+
+i. Se ha definido y elaborado la documentación necesaria en las previsiones y ejecución del proyecto.
+
+j. Se han utilizado de una manera integradora y sinérgica los conceptos y procedimientos adquiridos en los diferentes módulos del ciclo superior en alta montaña.
+
+k. Se han tenido en cuenta criterios de sostenibilidad a la hora de elegir las actividades, la metodología y los recursos utilizados en el proyecto.
+
+3\. Selecciona los procedimientos de seguimiento y control de la elaboración y ejecución del proyecto, justificando las funciones dentro del proyecto, la selección de variables e instrumentos empleados.
+
+a. Se ha definido el procedimiento de evaluación de las actividades, utilizando y combinando diferentes instrumentos de evaluación.
+
+b. Se han definido los indicadores de calidad utilizados en la evaluación del proyecto.
+
+c. Se han definido los procedimientos de evaluación de las incidencias que puedan presentarse durante la realización del proyecto, su posible solución y registro.
+
+d. Se ha definido el procedimiento de gestión de los posibles cambios en los recursos, en las actividades o en la dinámica de cargas, en el caso del entrenamiento de alto rendimiento, incluyendo el sistema de registro de los mismos.
+
+e. Se ha definido y elaborado la documentación necesaria en la evaluación de las actividades del proyecto.
+
+f. Se ha establecido el procedimiento de participación en la evaluación de los deportistas y se han elaborado los documentos específicos.
+
+g. Se ha establecido un sistema de garantía de cumplimiento del pliego de condiciones del proyecto cuando este exista.
+
+h. Se ha atendido a las consideraciones del tutor/director del proyecto durante la elaboración del mismo.
+
+i. Se ha cumplido con el seguimiento del proyecto según el procedimiento establecido por el tutor/director.
+
+j. Se ha mostrado una actitud de respeto y aceptación de las aportaciones realizadas por el tutor/director, integrando de forma constructiva las valoraciones recibidas en el proyecto.
+
+4\. Presenta el proyecto, seleccionando los aspectos relevantes del mismo, justificando las decisiones tomadas y utilizando los recursos didácticos y técnicos más adecuados en cada caso.
+
+a. Se ha definido y elaborado la documentación necesaria en la presentación y comunicación del proyecto.
+
+b. Se han utilizado los recursos didácticos y técnicos más adecuados para la presentación y comunicación del proyecto, incluyendo las nuevas tecnologías, de forma coherente con los objetivos del proyecto.
+
+c. Se ha presentado el proyecto, de forma clara, sintética, incluyendo los aspectos fundamentales que debía incluir la presentación.
+
+d. Se ha utilizado bibliografía actualizada en la fundamentación del trabajo, referenciándola de forma adecuada.
+
+e. Se ha contestado de forma precisa y justificada a las cuestiones realizadas sobre las características y fundamentación del proyecto.
+
+f. Se ha justificado suficientemente el proyecto y se ha argumentado su implementación.
+
+g. Se ha ajustado, en la presentación del proyecto, a la estructura definida y establecida en los criterios de evaluación.
+
+h. Se ha presentado el proyecto, ajustándose a las características formales, estructura y apartados establecidos por el tribunal.
+
+i. Se han justificado en la presentación del proyecto, las relaciones existentes entre los diferentes resultados de aprendizaje adquiridos en los diferentes módulos del ciclo superior en alta montaña.
+
+j. Se ha demostrado poseer una visión general del proyecto, relacionando la argumentación con la finalidad y las conclusiones del mismo.
+
+> Se numera como Anexo II.k por el art. 9.3.k) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.l — Módulo de enseñanza deportiva: Formación práctica
+
+Código: MED–MOAM308
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica la estructura organizativa y el funcionamiento del centro deportivo de prácticas relacionándola con su oferta de actividades de guiado de itinerarios de alta montaña, o / y las actividades de gestión del mismo, y aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a. Se han fundamentado las relaciones del centro deportivo de prácticas y las empresas y proveedores del entorno.
+
+b. Se ha categorizado la estructura organizativa, el funcionamiento de las distintas áreas del centro deportivo de prácticas, y en especial de la escuela de alta montaña.
+
+c. Se han clasificado las relaciones jerárquicas dentro del centro deportivo de prácticas, y en especial de la escuela de alta montaña.
+
+d. Se ha revisado la oferta de actividades vinculadas al guiado de usuarios por itinerarios en alta montaña.
+
+e. Se han relacionado las características del centro deportivo de prácticas con la normativa de responsabilidad de los técnicos que trabajan en el mismo.
+
+f. Se ha fundamentado la oferta de actividades orientada al guiado de mujeres en alta montaña.
+
+g. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+h. Se ha revisado el plan de actuación de emergencias de las instalaciones del centro deportivo de prácticas.
+
+i. Se ha identificado y analizado el Plan de Prevención de Riesgos Laborales del centro deportivo de prácticas.
+
+j. Se han revisado las condiciones laborales de los técnicos deportivos del centro deportivo de prácticas, en relación con la normativa sobre salud laboral.
+
+2\. Identifica la estructura organizativa y el funcionamiento del centro de formación de técnicos deportivos, relacionándola con su oferta formativa, analizando la normativa de aplicación, aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a. Se han fundamentado las relaciones del centro de formación de técnicos deportivos en alta montaña y otras especialidades con la administración educativa correspondiente.
+
+b. Se ha categorizado la estructura organizativa y el funcionamiento del centro de formación de técnicos deportivos.
+
+c. Se han clasificado las relaciones jerárquicas dentro del centro de formación de técnicos deportivos.
+
+d. Se ha revisado la oferta de actividades vinculadas a la formación de técnicos deportivos en la modalidad deportiva de alta montaña.
+
+e. Se han analizado las características del centro de formación de técnicos deportivos, y la normativa sobre la responsabilidad del profesorado.
+
+f. Se ha esquematizado la normativa educativa y curricular vigente sobre formación de técnicos deportivos en alta montaña y otras especialidades.
+
+g. Se ha colaborado en la organización de las actividades económicas del centro de trabajo.
+
+h. Se han reconocido los valores presentes en las actividades de alta montaña.
+
+i. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+3\. Colabora en la administración del área de alta montaña del centro deportivo de prácticas, aplicando procedimientos de gestión económica y contable.
+
+a. Se ha colaborado en la organización de las actividades económicas del centro de trabajo, y en especial de la escuela de alta montaña.
+
+b. Se ha identificado la forma jurídica utilizada en la constitución del centro deportivo de prácticas, y el grado de responsabilidad legal de los propietarios y gestores.
+
+c. Se ha colaborado en los procedimientos administrativos básicos de gestión del centro deportivo de prácticas, y en especial de la escuela de alta montaña.
+
+d. Se han realizado trámites de petición de ayudas a la gestión del centro deportivo de prácticas.
+
+e. Se ha colaborado en la gestión de ayudas económicas que utiliza o puede utilizar el centro deportivo de prácticas.
+
+f. Se ha confeccionado documentación administrativa y comercial necesaria en el desarrollo de la actividad deportiva de la escuela de alta montaña.
+
+g. Se han identificado las obligaciones y exenciones fiscales y tributarias del centro deportivo de prácticas.
+
+h. Se ha realizado la declaración de impuestos del centro deportivo de prácticas.
+
+i. Se ha tenido una actitud de respeto y cumplimiento de la normativa y los procedimientos de gestión económica del centro deportivo de prácticas.
+
+4\. Actúa con autonomía, iniciativa y responsabilidad en el puesto de trabajo, demostrando comportamiento ético, habilidades personales de comunicación, trabajo en equipo, respeto por el medio ambiente, y aplicando los procedimientos establecidos por el centro deportivo de prácticas.
+
+a. Se han identificado los requerimientos actitudinales del puesto de trabajo.
+
+b. Se han interpretado y cumplido las instrucciones recibidas y responsabilizado del trabajo asignado.
+
+c. Se ha demostrado compromiso con el trabajo bien hecho y la calidad del servicio, así como respeto a los procedimientos y principios propios del club o entidad deportiva.
+
+d. Se ha demostrado capacidad de trabajo en equipo y respeto a la jerarquía establecida en el club o entidad deportiva.
+
+e. Se han establecido una comunicación y relación eficaz con el técnico responsable de la actividad y los miembros del equipo, manteniendo un trato fluido y correcto.
+
+f. Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante o imprevisto que se presente en la actividad.
+
+g. Se ha demostrado un comportamiento ético con los deportistas y los adversarios, en especial en presencia de los medios de comunicación.
+
+5\. Participa en la Formación de Técnicos Deportivos, revisando a la organización académica y curricular del centro, impartiendo clases y colaborando en la tutorización de los módulos de formación práctica y proyecto final.
+
+a. Se han identificado el tipo de centro docente de prácticas, el tipo de vinculación con la administración y la normativa que le es de aplicación a efectos de organización y funcionamiento.
+
+b. Se han identificado las responsabilidades del profesor especialista en montaña y escalada y del Técnico Deportivo Superior en Alta Montaña, en la formación de los técnicos en la modalidad.
+
+c. Se han concretado los elementos de la programación didáctica de un módulo del bloque específico, atendiendo a su normativa de ordenación, a las características del alumnado, y el contexto del centro docente de prácticas.
+
+d. Se ha diseñado y colaborado en la realización de una presentación de tareas y contenidos, atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características de los alumnos del centro docente de prácticas.
+
+e. Se ha colaborado en el diseño y dirección de una sesión de trabajo práctico o procedimental, atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características de los alumnos del centro docente de prácticas.
+
+f. Se ha participado en el proceso de evaluación de los alumnos del centro docente de prácticas.
+
+g. Se han tenido en cuenta la aplicación efectiva del principio de igualdad de oportunidades entre mujeres y hombres a la hora de seleccionar los recursos didácticos en la docencia de un módulo específico de enseñanzas deportivas en montaña y escalada.
+
+h. Se han previsto y preparado de antemano recursos didácticos alternativos frente a posibles incidencias, incluyendo la atención a personas con discapacidad, en la dirección de la sesión del módulo específico de enseñanzas deportivas en montaña y escalada.
+
+i. Se han identificado las condiciones de seguimiento y tutorización de los distintos módulos del bloque específico de los ciclos de grado medio y grado superior en montaña y escalada, presenciales y a distancia, establecidos en el centro docente de prácticas.
+
+j. Se ha participado en el establecimiento de contactos y convenios con las entidades colaboradoras en el módulo de formación práctica en el centro docente de prácticas.
+
+k. Se han utilizado aplicaciones informáticas específicas en supuestos de gestión y seguimiento del módulo de formación práctica en el centro docente de prácticas.
+
+l. Se ha colaborado en la elaboración de informes de evaluación del módulo de formación práctica.
+
+m. Se ha participado en el asesoramiento y control de entrevistas y tutorías personalizadas en la dirección de proyectos dentro del centro docente de prácticas.
+
+6\. Realiza tareas de mantenimiento y almacenaje del material de alta montaña, aplicando las técnicas y los procedimientos utilizados en el centro de prácticas.
+
+a. Se ha organizado el material de alta montaña, siguiendo criterios de utilización del mismo, de higiene y de seguridad en cuanto a mantenimiento.
+
+b. Se ha almacenado el material tras una actividad de alta montaña, siguiendo los protocolos indicados por los fabricantes del mismo.
+
+c. Se ha revisado el material de acuerdo a los protocolos de los fabricantes y de la escuela de montaña en el momento del almacenado del mismo.
+
+d. Se ha revisado el material de acuerdo a los protocolos de los fabricantes y de la escuela de montaña antes de la utilización del mismo otra vez.
+
+e. Se ha colaborado en la elaboración de los protocolos de organización, almacenado y mantenimiento del material de la escuela de montaña y/ o centro de prácticas.
+
+f. Se ha participado en el mantenimiento del material de uso en la escuela de montaña o centro de prácticas, siguiendo los protocolos establecidos por los fabricantes y por la escuela de montaña.
+
+g. Se ha colaborado en los procesos de decisión de finalización de vida útil de un material de uso en la escuela de montaña o centro de prácticas.
+
+7\. Adapta y concreta los programas, dirige las sesiones de enseñanza de las técnicas de progresión, aseguramiento y autorescate en terreno nevado de alta montaña, en alta montaña y en esquí de montaña, interpretando la información recibida, aplicando las técnicas y procedimientos de acuerdo con las instrucciones y normas establecidas.
+
+a. Se han identificado y seleccionado los medios y recursos necesarios para el desarrollo de la actividad.
+
+b. Se ha recibido a los alumnos siguiendo el protocolo establecido e identificando sus demandas y necesidades.
+
+c. Se han aplicado técnicas y protocolos de valoración técnica y de la condición motriz, valorando su estado inicial, el grado de consecución de los objetivos propuestos y los errores cometidos.
+
+d. Se han aplicado protocolos de control y de seguridad en las sesiones de enseñanza – aprendizaje de las técnicas de progresión, aseguramiento y autorescate en terreno nevado de alta montaña, y en esquí de montaña.
+
+e. Se han establecido las condiciones de seguridad necesarias, en la tecnificación deportiva, interpretando las instrucciones o normas y aplicando los procedimientos establecidos.
+
+f. Se ha elaborado el programa de una actividad de enseñanza de las técnicas de progresión, aseguramiento y autorescate en terreno nevado de alta montaña, en esquí de montaña concretando:
+
+– Objetivos de preparación.
+
+– Criterios de elección de la zona de trabajo.
+
+– Metodología de enseñanza.
+
+– Sesiones de enseñanza.
+
+– Tareas y secuencias de aprendizaje.
+
+– Y adecuándose a las características del grupo, de los medios existentes, de las condiciones meteorológicas y del entorno.
+
+g. Se han explicado los contenidos de la sesión de enseñanza siguiendo los protocolos y técnicas establecidas de forma clara y motivadora.
+
+h. Se ha dirigido la sesión de enseñanza, solucionando las contingencias existentes, aplicando técnicas de dinámica de grupos y de motivación adecuadas al grupo de y las condiciones existentes.
+
+8\. Diseña, organiza y dirige recorridos y actividades de guiado de personas en itinerarios en alta montaña, identificando las condiciones, seleccionado los medios y logística necesarios, aplicando los procedimientos y técnicas específicas, y respetando los protocolos de seguridad y la normativa medioambiental.
+
+a. Se han identificado las características de los itinerarios en alta montaña, que utiliza el centro deportivo de prácticas, reconociendo entre otras:
+
+– El nivel de dificultad.
+
+– El nivel de los usuarios.
+
+– Los medios necesarios.
+
+– Los itinerarios alternativos.
+
+– Posibles zonas de reunión.
+
+b. Se ha determinado la dificultad técnica de un itinerario y las técnicas necesarias de superación.
+
+c. Se han determinado los riesgos de un itinerario, así como las técnicas necesarias para su adecuada gestión.
+
+d. Se han identificado las características medio ambientales y la normativa de protección del mismo que deben cumplir los itinerarios en alta montaña utilizados por el centro deportivo de prácticas.
+
+e. Se han analizado y elaborado itinerarios de conducción en alta montaña y sus actividades complementarias en función de las características de la zona y de los objetivos del centro deportivo de prácticas.
+
+f. Se han aplicado protocolos y técnicas de revisión de los itinerarios en alta montaña utilizados por el centro deportivo de prácticas.
+
+g. Se ha guiado a un grupo de deportistas por un itinerario en alta montaña, aplicando las técnicas específicas y respetando las normas y procedimientos de seguridad establecidos por el centro deportivo de prácticas.
+
+h. Se han valorado las incidencias durante la organización y la conducción de itinerarios en alta montaña utilizados por el centro deportivo de prácticas.
+
+9\. Diseña, organiza y dirige recorridos y actividades de guiado de personas en itinerarios de escalada en hielo, identificando las condiciones, seleccionado los medios y logística necesarios, aplicando los procedimientos y técnicas específicas, y respetando los protocolos de seguridad y la normativa medioambiental.
+
+a. Se han identificado las características de los itinerarios en escalada en hielo que utiliza el centro deportivo de prácticas, reconociendo entre otras:
+
+– El nivel de dificultad.
+
+– El nivel de los usuarios.
+
+– Los medios necesarios.
+
+– Los itinerarios alternativos.
+
+– Posibles zonas de reunión.
+
+b. Se ha determinado la dificultad técnica de un itinerario y las técnicas necesarias de superación.
+
+c. Se han determinado los riesgos de un itinerario, así como las técnicas necesarias para su adecuada gestión.
+
+d. Se han identificado las características medio ambientales y la normativa de protección del mismo que deben cumplir los itinerarios de escalada en hielo utilizados por el centro deportivo de prácticas.
+
+e. Se han analizado y elaborado itinerarios de conducción en escalada en hielo y sus actividades complementarias en función de las características de la zona y de los objetivos del centro deportivo de prácticas.
+
+f. Se han aplicado protocolos y técnicas de revisión de los itinerarios en escalada en hielo utilizados por el centro deportivo de prácticas.
+
+g. Se ha guiado a un grupo de deportistas por un itinerario en escalada en hielo, aplicando las técnicas específicas y respetando las normas y procedimientos de seguridad establecidos por el centro deportivo de prácticas.
+
+h. Se han valorado las incidencias durante la organización y la conducción de itinerarios en escalada en hielo utilizados por el centro deportivo de prácticas.
+
+10\. Diseña, organiza y dirige recorridos y actividades de guiado de personas en itinerarios de esquí de montaña, identificando las condiciones, seleccionando los medios y logística necesarios, aplicando los procedimientos y técnicas específicas, y respetando los protocolos de seguridad y la normativa medioambiental.
+
+a. Se han identificado las características de los itinerarios en esquí de montaña que utiliza el centro deportivo de prácticas, reconociendo entre otras:
+
+– El nivel de dificultad.
+
+– El nivel de los usuarios.
+
+– Los medios necesarios.
+
+– Los itinerarios alternativos.
+
+– Posibles zonas de parada del grupo.
+
+b. Se ha determinado la dificultad técnica de un itinerario y las técnicas necesarias de superación.
+
+c. Se han determinado los riesgos de un itinerario, así como las técnicas necesarias para su adecuada gestión.
+
+d. Se han identificado las características medio ambientales y la normativa de protección del mismo que deben cumplir los itinerarios esquí de montaña utilizados por el centro deportivo de prácticas.
+
+e. Se han analizado y elaborado itinerarios de conducción en esquí de montaña y sus actividades complementarias en función de las características de la zona y de los objetivos del centro deportivo de prácticas.
+
+f. Se han aplicado protocolos y técnicas de revisión de los itinerarios en esquí de montaña utilizados por el centro deportivo de prácticas.
+
+g. Se ha guiado a un grupo de deportistas por un itinerario en esquí de montaña, aplicando las técnicas específicas y respetando las normas y procedimientos de seguridad establecidos por el centro deportivo de prácticas.
+
+h. Se han valorado las incidencias durante la organización y la conducción de itinerarios en esquí de montaña utilizados por el centro deportivo de prácticas.
+
+> Se numera como Anexo II.l por el art. 9.3.l) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO III — Objetivos generales y módulos de enseñanza deportiva del ciclo de grado superior en escalada
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos III.a hasta el III.k por el art. 9.4 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+## ANEXO III.a — Objetivos generales
+
+a. Seleccionar y justificar los procedimientos de valoración del entorno del escalador, de los medios materiales e instalaciones disponibles y de los reglamentos de las diferentes modalidades de competición en Escalada, identificando sus características y aplicando los procedimientos, para analizar las condiciones del alto rendimiento.
+
+b. Seleccionar y justificar los procedimientos de análisis de los factores de rendimiento, y los criterios de selección de los escaladores, identificando sus características y aplicando los instrumentos y procedimientos establecidos, para valorar los factores de rendimiento propios de la escalada.
+
+c. Elegir y justificar los procedimientos de determinación de los objetivos, medios y métodos del entrenamiento, y la temporalización de la carga, aplicando los principios del entrenamiento, para programar a corto, medio y largo plazo el entrenamiento.
+
+d. Analizar la complejidad de las tareas y los factores relativos a la carga de trabajo, diseñando actividades en supuestos establecidos y aplicando los principios y métodos del entrenamiento, para concretar las sesiones de trabajo.
+
+e. Describir, elegir y demostrar las técnicas y estrategias de dirección de sesiones, de control de las contingencias propias del alto rendimiento en la modalidad deportiva, aplicando procedimientos de observación, dinamización y control, resolviendo supuestos y aplicando normas de protección del medioambiente, para dirigir sesiones y guiar deportistas en condiciones de alta exigencia.
+
+f. Seleccionar, comprobar y ajustar los paneles, diseñar las vías de escala, elegir los materiales y herramientas para equiparla, operando con los instrumentos de reparación y mantenimiento y finalmente equiparla y testearla, teniendo en cuenta la normativa y reglamentos existentes.
+
+g. Evaluar las condiciones de seguridad de las instalaciones y medios propios del alto rendimiento deportivo, aplicando los procedimientos establecidos y la normativa vigente, para controlar la seguridad en la práctica de este nivel.
+
+h. Analizar los requisitos administrativos y deportivos que afectan a la participación del escalador en las competiciones de las diferentes disciplinas, teniendo en cuenta el nivel y características de la competición y aplicando los procedimientos establecidos, para acompañar a los deportistas.
+
+i. Valorar el comportamiento técnico y táctico del escalador durante la competición, aplicando procedimientos establecidos y utilizando sistemas de grabación y registro y teniendo en cuenta las características y exigencias técnicas de la competición, para seleccionar a deportistas.
+
+j. Analizar y justificar las necesidades de intervención de otros especialistas en la preparación de alto rendimiento, describiendo las funciones y objetivos a desarrollar, para determinar la constitución y coordinación de equipos de trabajo multidisciplinares.
+
+k. Identificar y analizar las características organizativas, medios materiales y humanos, aplicando procedimientos establecidos de gestión y comunicación, para coordinar recursos humanos y organizar los recursos materiales de una escuela de la modalidad.
+
+l. Analizar el proceso formativo de los técnicos, identificando las condiciones, analizando las estrategias recursos y normativas utilizadas para la formación de técnicos deportivos.
+
+m. Analizar y elaborar la estructura organizativa de las competiciones y eventos propios del nivel de iniciación y tecnificación deportiva, y analizar las características organizativas de competiciones, enumerando los requisitos administrativos, los medios materiales y humanos necesarios, aplicando el marco legal que las regula, para organizar y colaborar en la gestión de competiciones y eventos.
+
+n. Diseñar y justificar los procedimientos de recogida de información y valoración del proceso de alto rendimiento, analizando las variables que intervienen en supuestos prácticos, para evaluar el proceso de entrenamiento y los resultados obtenidos en la competición.
+
+ñ. Describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los deportistas, para transmitir valores propios de la actividad deportiva a través del comportamiento ético personal.
+
+o. Reconocer, promover y justificar los valores de compromiso, trabajo bien hecho y aprendizaje constante, describiendo los aspectos observables de la conducta, que reflejan estos valores, para mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el desempeño de su labor como técnico.
+
+> Se numera como Anexo III.a y se modifica por el art. 9.4.a) a f) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.b — Módulo común de enseñanza deportiva: Factores fisiológicos del alto rendimiento
+
+Código: MED–C301
+
+El módulo común de enseñanza deportiva: Factores fisiológicos del alto rendimiento. Código: MED-C301 está desarrollado en el anexo II.b.
+
+> Se numera como Anexo III.b y se modifica por el art. 9.4.c) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.c — Módulo común de enseñanza deportiva: Factores psicosociales del alto rendimiento
+
+Código: MED–C302
+
+El módulo común de enseñanza deportiva: Factores psicosociales del alto rendimiento. Código: MED-C302 está desarrollado en el anexo II.c.
+
+> Se numera como Anexo III.c y se modifica por el art. 9.4.d) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.d — Módulo común de enseñanza deportiva: Formación de formadores deportivos
+
+Código: MED–C303
+
+El módulo común de enseñanza deportiva: Formación de formadores deportivos. Código: MED-C303 está desarrollado en el anexo II.d.
+
+> Se numera como Anexo III.d y se modifica por el art. 9.4.e) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.e — Módulo común de enseñanza deportiva: Organización y gestión aplicada al alto rendimiento deportivo
+
+Código: MED–C304
+
+El módulo común de enseñanza deportiva: Organización y gestión aplicada al alto rendimiento. Código: MED-C304 está desarrollado en el anexo II.e.
+
+> Se numera como Anexo III.e y se modifica por el art. 9.4.f) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.f — Módulo específico de enseñanza deportiva: Planificación en escalada deportiva
+
+Código: MED–MORO309
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Programa la preparación a largo plazo del escalador en las diferentes etapas, analizando los modelos de preparación a largo plazo, seleccionando la información necesaria y aplicando instrumentos y métodos de recogida de la misma.
+
+a. Se han analizado los factores que influyen en el desarrollo del deportista en escalada deportiva.
+
+b. Se han analizado las características de las diferentes etapas en el desarrollo de la vida deportiva de un escalador hasta la consecución del alto rendimiento y el abandono de la vida deportiva.
+
+c. Se ha seleccionado la información del entorno, personal, social o educativa del escalador a tener en cuenta en la programación del entrenamiento a largo plazo, en función de la etapa deportiva y en especial la de alto rendimiento.
+
+d. Se han aplicado métodos de recogida y análisis de la información sobre el escalador y el entorno, a tener en cuenta en la programación a largo plazo.
+
+e. Se han analizado las características de los diferentes modelos de planificación (programación de los ciclos de preparación) supranual (vida deportiva y ciclo bienal de campeonato del mundo) en función de los modelos de rendimiento de la escalada y de la etapa deportiva del escalador.
+
+f. Se han analizado las características de los diferentes modelos de planificación de los ciclos anuales en escalada deportiva en función de los objetivos establecidos, de la dinámica de cargas que conlleva, y de su adecuación a la etapa deportiva del escalador y en especial la de alto rendimiento.
+
+g. Se han elaborado los objetivos de preparación y rendimiento en una programación anual, en función del modelo de programación y de la etapa en la vida deportiva del escalador y en especial la de alto rendimiento.
+
+h. Se han caracterizado las diferentes etapas, ciclos o periodos en los que se subdivide una programación anual.
+
+i. Se han seleccionado los medios y métodos de control de la preparación y del rendimiento en una programación a largo plazo, en función de los objetivos y la etapa de la vida deportiva del escalador y en especial la de alto rendimiento.
+
+j. Se ha valorado la importancia de establecer metas adecuadas a la evolución del escalador, y la dinámica de cargas específica de la escalada deportiva, en la programación a largo.
+
+k. Se ha justificado la dinámica de cargas de los diferentes factores de rendimiento deportivo en escalada deportiva, de una programación anual en función de las características de la programación y de los objetivos planteados.
+
+2\. Detecta, identifica y selecciona talentos deportivos en escalada deportiva, analizando las características de los sistemas y programas de detección y selección de talentos, analizando las características de las etapas de desarrollo de la vida deportiva de los escaladores, y aplicando técnicas específicas.
+
+a. Se han fundamentado los conceptos y las fases del proceso de detección, identificación y selección de talentos en escalada deportiva.
+
+b. Se han analizado los programas de detección, identificación y selección de talentos deportivos en escalada deportiva establecidos por las administraciones deportivas de acuerdo a las características específicas de la modalidad.
+
+c. Se han seleccionado los medios materiales y humanos necesarios en la implantación de un programa de detección, identificación y selección de talentos en escalada deportiva.
+
+d. Se han analizado las características de las diferentes capacidades y de los rasgos psicológicos que determinan el perfil del escalador de alto rendimiento.
+
+e. Se han seleccionado los valores de referencia que determinan la evolución de las capacidades y de los rasgos psicológicos del escalador a lo largo de las diferentes etapas de la vida deportiva de los talentos en escalada deportiva.
+
+f. Se han seleccionado, de forma justificada, los criterios de detección, identificación y selección de talentos en función de la etapa deportiva del escalador.
+
+g. Se han seleccionado las técnicas e instrumentos de valoración de las capacidades y de los rasgos psicológicos propios del alto rendimiento en la escalada deportiva y de la etapa deportiva del escalador.
+
+h. Se han relacionado las técnicas e instrumentos de valoración de las capacidades y de los rasgos psicológicos, con las características de la escalada deportiva y de la etapa deportiva del escalador.
+
+i. Se ha elaborado un proyecto de programa de detección, identificación y selección de talentos en escalada deportiva.
+
+j. Se ha justificado la necesidad de respetar los intereses y necesidades del individuo en el proceso de desarrollo de los talentos deportivos en escalada deportiva.
+
+k. Se ha promovido la incorporación de protocolos psicológicos en la detección de deportistas de alto nivel.
+
+3\. Adapta y concreta ciclos de entrenamiento en escalada deportiva, analizando las características de los diferentes ciclos de preparación y los criterios de combinación y evolución de los medios y métodos empleados.
+
+a. Se han analizado las características, la estructura y organización de los diferentes tipos de ciclos de preparación a medio y corto plazo y su relación con los objetivos del ciclo anual.
+
+b. Se han seleccionado los medios de control de los factores de rendimiento en la escalada deportiva, en función de la situación dentro de la programación y de los objetivos de la misma.
+
+c. Se han seleccionado los medios y métodos de entrenamiento acordes con el tipo de ciclo o periodo de preparación elegido.
+
+d. Se han justificado los criterios de evolución de los medios de entrenamiento en escalada deportiva, en los diferentes tipos de ciclos o periodos de preparación a medio y corto plazo.
+
+e. Se han analizado los procedimientos de selección de los objetivos a alcanzar en los factores de rendimiento en escalada deportiva, en función del tipo de ciclo o periodo de preparación utilizado.
+
+f. Se han justificado los criterios de evolución y modificación de los métodos de entrenamiento de los factores de rendimiento en los diferentes tipos de ciclos o periodos de preparación a medio y corto plazo.
+
+g. Se han analizado los criterios de combinación de los medios y métodos de entrenamiento de los factores de rendimiento, en los diferentes ciclos o periodos de preparación a medio y corto plazo.
+
+h. Se han diseñado programas de preparación a medio y corto plazo en escalada deportiva, en función de las directrices de la programación a largo plazo.
+
+i. Se ha justificado la importancia de adaptar la programación a las modificaciones de la forma deportiva del escalador y al grado de consecución de los objetivos propuestos.
+
+j. Se ha valorado la importancia de establecer metas adecuadas a la evolución del escalador y la dinámica de cargas específica de la escalada deportiva, en la programación a medio y corto plazo.
+
+4\. Registra y valora la carga de entrenamiento en la preparación del escalador, analizando los factores que determinan la carga de entrenamiento en escalada deportiva, y aplicando instrumentos de cuantificación y procesamiento de la información.
+
+a. Se han caracterizado los indicadores que permiten la cuantificación de la carga de trabajo técnico y táctico, en el entrenamiento de la escalada deportiva.
+
+b. Se han caracterizado los indicadores que permiten la cuantificación de la carga de trabajo condicional en el entrenamiento de la escalada deportiva.
+
+c. Se han caracterizado los indicadores que permiten la cuantificación de la carga psicológica en el entrenamiento y la competición de la escalada deportiva.
+
+d. Se han analizado los métodos o sistemas de cuantificación de la carga de trabajo condicional en el entrenamiento de la escalada deportiva.
+
+e. Se han aplicado programas informáticos específicos de cuantificación de la carga de trabajo en el entrenamiento de la escalada deportiva.
+
+f. Se han aplicado instrumentos de representación gráfica de la carga de trabajo en el entrenamiento de la escalada deportiva.
+
+g. Se han seleccionado y aplicado técnicas de cálculo y procedimientos estadísticos en el procesamiento e interpretación de la carga de entrenamiento en el entrenamiento de la escalada deportiva.
+
+h. Se han analizado las utilidades de la cuantificación y seguimiento de la carga del entrenamiento en el control y ajuste de la preparación en la escalada deportiva.
+
+i. Se ha valorado la importancia de la cuantificación y el seguimiento de la carga de entrenamiento en la optimización de la preparación en la escalada deportiva.
+
+Contenidos básicos
+
+1\. Programa la preparación a largo plazo del escalador en las diferentes etapas, analizando los modelos de preparación a largo plazo, seleccionando la información necesaria y aplicando instrumentos y métodos de recogida de la misma.
+
+– Etapas en el desarrollo deportivo de un escalador:
+
+– Iniciación, perfeccionamiento, alto rendimiento.
+
+– Características.
+
+– Fase de abandono de la vida deportiva.
+
+– Factores clave del rendimiento en escalada (aquellos que implican de forma directa mejorar la performance en la disciplina):
+
+– En función de la etapa deportiva.
+
+– Modelos de rendimiento y planificación más adecuados en escalada según disciplinas, contexto y vida deportiva:
+
+– El entorno del deportista:
+
+– Aspectos a tener en cuenta en la programación a largo plazo.
+
+– Criterios de selección de la información.
+
+– Fuentes, métodos de recogida y análisis de la información del entorno del deportista.
+
+– Planificación y programación de la vida deportiva en escalada:
+
+– Modelos de planificación supranual aptos para la escalada. Adaptaciones en función de:
+
+– La etapa deportiva.
+
+– La disciplina.
+
+– Elementos que configuran la planificación a largo plazo:
+
+– Definición de objetivos a largo plazo. Criterios. Intereses y motivaciones del deportista. La adecuación a la etapa deportiva.
+
+– Cuantificación y dinámica de cargas.
+
+– Información necesaria.
+
+– Elaboración de la planificación a largo plazo: fases y criterios.
+
+– Planificación de la temporada:
+
+– Modelos e información necesaria.
+
+– Calendario de competición nacional e internacional en escalada: tipos de competición y criterios de selección.
+
+– Elementos que configuran la planificación de la temporada:
+
+– Definición de objetivos. Criterios. Intereses y motivaciones del deportista.
+
+– Etapas, ciclos o periodos de la temporada en escalada deportiva: tipos, objetivos y características.
+
+– Cuantificación y dinámica de cargas.
+
+– Elaboración de la planificación anual: fases y criterios.
+
+– Medios y métodos de control del entrenamiento, dinámica de las cargas y el rendimiento en las diferencias etapas.
+
+2\. Detecta, identifica y selecciona talentos deportivos en escalada deportiva, analizando las características de los sistemas y programas de detección y selección de talentos, analizando las características de las etapas de desarrollo de la vida deportiva de los escaladores, y aplicando técnicas específicas.
+
+– El proceso de detección, identificación y selección de talentos:
+
+– Conceptos básicos.
+
+– Fases del proceso.
+
+– Elaboración del programa de detección de talento:
+
+– Diseño.
+
+– Implantación: fases.
+
+– Medios materiales y humanos.
+
+– Programas de referencia en la escalada deportiva. Análisis y características. Diferencias en función de la etapa deportiva:
+
+– Diferencias entre las disciplinas (dificultad, bloque, velocidad).
+
+– Capacidades y rasgos psicológicos vinculados con el alto rendimiento en la escalada deportiva:
+
+– Diferencias por disciplinas. Valores de referencia por disciplina y etapa deportiva.
+
+– Test e instrumentos de valoración: física, técnico, táctico, habilidades y rasgos psicológicos. Criterios de selección y criterios de valoración. Diferencias por disciplinas. Ventajas e inconvenientes de cada uno.
+
+– La entrevista personal con el deportista:
+
+– Partes de la entrevista.
+
+– Detección de intereses personales y necesidades del deportista.
+
+– Características antropométricas. La exploración física hacia el deportista, en cada disciplina. Criterios de selección y valoración. Diferencias por disciplinas.
+
+– Medios materiales y humanos de los programas de detección de talentos.
+
+– Instituciones y contexto más adecuado para hacer la selección (federaciones, clubs, equipos deportivos, juegos escolares, competiciones oficiales…).
+
+– La ética en la detección de talentos.
+
+3\. Adapta y concreta ciclos de entrenamiento en escalada deportiva, analizando las características de los diferentes ciclos de preparación y los criterios de combinación y evolución de los medios y métodos empleados.
+
+– La programación en la escalada deportiva. Periodos, ciclos:
+
+– Tipos, estructura y características, relación con los objetivos de la planificación anual.
+
+– Objetivos, metodología para su selección.
+
+– Dinámica de cargas y su evolución.
+
+– La adaptación de la programación. Su importancia y criterios de adaptación.
+
+– Medios y métodos de control del entrenamiento:
+
+– Criterios de selección en función de los objetivos y el momento de la temporada.
+
+– Medios de entrenamiento en escalada deportiva:
+
+– Criterios de evolución y modificación a lo largo de la temporada: periodos, ciclos, microciclos.
+
+– Vinculación con los métodos de entrenamiento.
+
+– Evolución de los métodos de entrenamiento en escalada deportiva a lo largo de la temporada: periodos y ciclos:
+
+– Entrenamiento técnico–táctico. Criterios de evolución y modificación.
+
+– Entrenamiento condicional: fuerza, resistencia. Criterios de evolución y modificación.
+
+– Modelos y criterios de combinación de los métodos de entrenamiento. Características y criterios de selección.
+
+– El microciclo de trabajo:
+
+– Tipos, estructura y organización, en función de los objetivos y la disciplina de competición.
+
+– Combinación del trabajo condicional y técnico–táctico.
+
+– Evolución a lo largo de la temporada.
+
+4\. Registra y valora la carga de entrenamiento en la preparación del escalador, analizando los factores que determinan la carga de entrenamiento en escalada deportiva, y aplicando instrumentos de cuantificación y procesamiento de la información.
+
+– El control y seguimiento del entrenamiento y el rendimiento del escalador: funciones y utilidades.
+
+– Las cargas: métodos de cuantificación de cargas en la escalada deportiva:
+
+– Trabajo técnico–táctico: indicadores y métodos de cuantificación, características.
+
+– Trabajo condicional: indicadores y métodos de cuantificación, características.
+
+– Trabajo psicológico: indicadores y métodos de cuantificación, características.
+
+– La dinámica de las cargas.
+
+– Programas informáticos de cuantificación de las cargas:
+
+– Tipos y características. Manejo.
+
+– Instrumentos de representación gráfica.
+
+– El tratamiento estadístico y su aplicación al control y seguimiento del entrenamiento y la competición. Estadísticos.
+
+– Objetivos y funciones de la cuantificación de las cargas.
+
+> Se numera como Anexo III.f por el art. 9.4.g) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.g — Módulo específico de enseñanza deportiva: Entrenamiento de la escalada
+
+Código: MED–MORO310
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Evalúa el comportamiento técnico y táctico del escalador de alto rendimiento, analizando las condiciones de la ruta o vía de escalada, las secuencias de movimiento y las decisiones tácticas propias del alto rendimiento, identificando los errores más habituales y sus posibles causas.
+
+a. Se ha justificado cómo influye en la dificultad de una vía o ruta de escalada, cada uno de los elementos que la configuran.
+
+b. Se han elegido de forma justificada los aspectos a observar en la valoración de un supuesto práctico de vía o ruta de escalada debidamente caracterizada, en el que se determinan entre otros aspectos, el objetivo para la que se utiliza.
+
+c. Se ha valorado de forma justificada un supuesto práctico de vía o ruta de escalada debidamente caracterizada, indicando donde residen los pasos de mayor dificultad de la vía o ruta.
+
+d. Se han justificado las diferencias más significativas en las secuencias de movimientos utilizadas en los diferentes tipos de escalada: roca y disciplinas de competición.
+
+e. Se ha justificado la elección de los aspectos a observar en la ejecución de las secuencias de movimiento en un supuesto práctico de escalada debidamente caracterizado, en el que se indican, entre otros, el tipo de vía o ruta y la disciplina de competición.
+
+f. Se han elaborado y aplicado instrumentos de registro y valoración de las secuencias de movimientos, utilizadas en los diferentes tipos de escalada: roca y disciplinas de competición.
+
+g. Se han identificado los errores de la ejecución de las secuencias de movimiento en el entrenamiento, en la competición o en una situación real de escalada, relacionándolos con las posibles causas y las tareas para solucionarlas.
+
+h. Se han analizado las características y factores que condicionan las fases de visualización y análisis de una vía o ruta de escalada.
+
+i. Se han justificado los criterios utilizados en la elección de la secuencia de movimientos en la fase de toma de decisión, en función del tipo de vía o ruta y de la disciplina de competición.
+
+j. Se han elaborado y aplicado instrumentos de registro y valoración del comportamiento táctico del escalador, utilizados en los diferentes tipos de escalada: roca y disciplinas de competición.
+
+k. Se ha reproducido de forma justificada el proceso de toma de decisión en un supuesto práctico de vía o ruta de escalada, en el que se determinan el tipo de vía y la disciplina de competición.
+
+l. Se ha valorado la importancia de los factores psicológicos que condicionan la toma de decisión en el entrenamiento y la competición.
+
+m. Se ha valorado la importancia del análisis del proceso de toma de decisión en la escalada deportiva.
+
+2\. Evalúa las capacidades condicionales del escalador en el entrenamiento, en la competición y en roca, en función de las características de la vía o ruta y de las disciplinas de competición, analizando las demandas del alto rendimiento y aplicando procedimientos específicos de valoración.
+
+a. Se han analizado las características fisiológicas y de las capacidades condicionales relacionadas con el rendimiento deportivo en escalada, en función de las características de la ruta y de las diferentes disciplinas de competición.
+
+b. Se ha justificado la selección de métodos e instrumentos de valoración de las capacidades condicionales necesarias en el entrenamiento y la competición en escalada.
+
+c. Se han aplicado los procedimientos de evaluación de las capacidades condicionales requeridas durante el entrenamiento y la competición de los escaladores.
+
+d. Se ha adaptado el proceso de evaluación de las capacidades condicionales, en un supuesto práctico debidamente caracterizado, en el que se determinan las características del escalador y las características de la ruta o vía, o de la disciplina de competición de la escalada deportiva.
+
+e. Se ha justificado el perfil fisiológico del escalador en relación con las características de la vía o ruta o las características de la disciplina de competición.
+
+f. Se ha realizado, de forma justificada, la medición y valoración antropométrica de un escalador.
+
+g. Se han analizado los criterios utilizados en el diseño de los tests de campo específicos utilizados en la valoración de los factores condicionales del rendimiento deportivo en escalada, en función del tipo de vía o ruta o de las características de la disciplina de competición en escalada deportiva.
+
+h. Se han seleccionado, de forma justificada, y aplicado los tésts de campo específicos necesarios, en un supuesto práctico debidamente caracterizado en el que se indican las características del tipo de ruta o vía, o la disciplina de competición.
+
+i. Se han aplicado métodos y técnicas de procesamiento de los valores y registros obtenidos durante la valoración del rendimiento físico del escalador.
+
+j. Se ha justificado la relación entre las capacidades condicionales y el resultado o rendimiento obtenido en la escalada, tanto en escalada en roca como en las disciplinas de competición.
+
+k. Se ha asimilado la necesidad de compartir la información resultante de las valoraciones con el escalador.
+
+l. Se ha interiorizado la obligación de respetar la dignidad del escalador a la hora de realizar cualquier tipo de evaluación.
+
+3\. Identifica las necesidades ergogénicas y ergo–nutricionales del escalador, en el entrenamiento y en la competición, analizando las demandas específicas, aplicando procedimientos para la elaboración de dietas y valorando los procedimientos y normas de control antidopaje.
+
+a. Se han identificado las necesidades nutricionales del escalador.
+
+b. Se han justificado diferentes tipos de ayudas ergonutricionales en función del tipo de escalada practicada, de la disciplina de competición y de las necesidades del escalador.
+
+c. Se han relacionado los aspectos fisiológicos de la hidratación: antes, durante y después de la actividad física, con el rendimiento del escalador y las condiciones meteorológicas.
+
+d. Se ha justificado la elección de dietas específicas dirigidas al control del peso en los escaladores y la importancia de una nutrición saludable.
+
+e. Se han descrito las pautas generales para la elaboración de dietas dirigidas principalmente al control de peso del escalador.
+
+f. Se ha analizado la lista de «sustancias prohibidas» establecida por la Agencia Mundial Antidopaje (AMA) y la Federación Internacional de Escalada – IFSC (International Federation of Sport Climbing).
+
+g. Se han explicado y analizado los procedimientos establecidos por la AMA en lo que se refiere a los controles antidopaje, la solicitud de exenciones terapéuticas y localización de los deportistas.
+
+h. Se ha seleccionado de manera justificada, ayudas ergogénicas en un supuesto práctico de escalador, en el que se establecen las características de su entrenamiento y del tipo de competición, ruta o vía que pretende desarrollar.
+
+i. Se ha justificado el trabajo en equipo con nutricionistas, identificando sus funciones de asesoramiento y de orientación en materia nutricional.
+
+4\. Valora las capacidades psicológicas del escalador en el entrenamiento, en la competición y en roca, en función de las características de la vía o ruta y de las disciplinas de competición, analizando las demandas psicológicas del alto rendimiento, las características de su entrenamiento en la escalada y aplicando procedimientos específicos.
+
+a. Se han definido las características psicológicas que demandan la escalada deportiva, el entrenamiento y la competición.
+
+b. Se han analizado los objetivos de la preparación psicológica de un programa de entrenamiento en escalada.
+
+c. Se ha analizado el papel de las sensaciones en el proceso de preparación técnico – táctica del escalador.
+
+d. Se ha analizado el papel de la atención en el proceso de preparación técnico – táctica del escalador.
+
+e. Se han elaborado tareas de trabajo psicológico vinculadas con la mejora de la atención, la concentración, y el control de la ansiedad del escalador.
+
+f. Se han aplicado estrategias psicológicas de mejora de la motivación y la autoconfianza en escaladores, en situaciones simuladas de competición o valoración del rendimiento deportivo.
+
+g. Se ha analizado el estrés del entrenamiento y la competición en el escalador y propuesto pautas de mejora.
+
+h. Se han escogido las técnicas e instrumentos adecuados de identificación de las capacidades psicológicas, de la percepción de competencia y del estado de ánimo del escalador en el entrenamiento, en roca y en competición.
+
+i. Se han identificado las competencias específicas del psicólogo del deporte en los procesos de evaluación psicológica, de entrenamiento y la competición en escalada.
+
+j. Se ha valorado la importancia de la colaboración entre los especialistas en psicología del rendimiento deportivo y los técnicos deportivos en escalada.
+
+5\. Adapta, concreta y dirige sesiones integradas de entrenamiento condicional, técnico, táctico y psicológico de la escalada en roca o en las disciplinas de competición, analizando y elaborando propuestas de vías o rutas de escalada, analizando y aplicando los medios y métodos específicos de trabajo condicional.
+
+a. Se han analizado las variables que permiten modificar los elementos que configuran una vía o ruta de escalada, identificando su relación con el tipo de trabajo a realizar.
+
+b. Se ha elaborado de forma justificada una serie de vías o rutas de escalada en un supuesto práctico debidamente caracterizado en el que se define, entre otros elementos, el objetivo técnico a trabajar.
+
+c. Se ha elaborado de forma justificada una serie de vías o rutas de escalada en un supuesto práctico debidamente caracterizado en el que se define, entre otros elementos, el objetivo táctico a trabajar.
+
+d. Se ha elaborado de forma justificada una serie de vías o rutas de escalada en un supuesto práctico debidamente caracterizado en el que se define, entre otros elementos, el objetivo psicológico a trabajar.
+
+e. Se ha elaborado de forma justificada una serie de vías o rutas de escalada en un supuesto práctico debidamente caracterizado en el que se define, entre otros elementos, el objetivo condicional a trabajar.
+
+f. Se ha elaborado de forma justificada una vía o ruta de escalada que permita la valoración del comportamiento técnico o táctico del escalador, en un supuesto práctico debidamente caracterizado.
+
+g. Se han justificado los objetivos a trabajar, en un supuesto práctico de vía o ruta de escalada debidamente caracterizado, identificando la secuencia de movimientos más adecuada.
+
+h. Se han analizado las características de los medios y ejercicios utilizados en el trabajo condicional del escalador y su adaptación en función del tipo de capacidad a trabajar.
+
+i. Se han analizado los métodos de trabajo condicional y su adaptación en función de la capacidad a trabajar, del nivel y de la etapa deportiva del escalador.
+
+j. Se ha analizado la organización y estructura de la sesión de entrenamiento de escalada y los criterios de combinación del trabajo técnico, táctico, psicológico y condicional en los diferentes tipos de ciclos de preparación.
+
+k. Se han diseñado sesiones de trabajo técnico, táctico, psicológico, condicional o combinado del escalador, en un supuesto práctico debidamente caracterizado en el que se han definido, entre otros, los objetivos del momento concreto de la preparación, las características de la vía o ruta objetivo y la disciplina de competición.
+
+l. Se han analizado las incidencias más habituales en las sesiones de entrenamiento en escalada, relacionándolas con las causas y posibles medidas para su solución.
+
+m. Se ha relacionado las causas y métodos de recuperación de la fatiga con las características de las vías de escaladas y de las disciplinas de competición.
+
+6\. Dirige el trabajo complementario del escalador lesionado, analizando las características de la lesión y sus implicaciones en el entrenamiento, y estableciendo programas de recuperación física y de prevención.
+
+a. Se han analizado las causas más frecuentes de las lesiones en escalada y propuesto pautas de prevención.
+
+b. Se han identificado y analizado las características de las lesiones más frecuentes en escalada y propuesto pautas de prevención y período habitual de recuperación.
+
+c. Se han categorizado los segmentos corporales en función de las lesiones más frecuentes en escalada, identificando los elementos o acciones probables de su causa.
+
+d. Se han identificado los métodos a desarrollar en la aplicación de trabajos complementarios a los escaladores lesionados o en recuperación, en función de la zona afectada y tipo de lesión.
+
+e. Se han identificado los medios a desarrollar en la aplicación de trabajos complementarios a los escaladores lesionados o en recuperación, en función de la zona afectada y tipo de lesión.
+
+f. Se han desarrollado diferentes posibilidades del trabajo complementario, en función del escalador lesionado o en recuperación.
+
+g. Se han categorizado los medios de recuperación en función del tipo de tejido afectado, muscular, ligamentos, óseo, y su incidencia en las lesiones tipo.
+
+h. Se ha valorado la implicación del técnico en los trabajos complementarios y en los programas de recuperación física y psicológica del escalador lesionado.
+
+7\. Realiza el equipamiento de rocódromos, analizando las normativas de aplicación, los materiales utilizables y aplicando técnicas y procedimientos específicos de montaje de estos equipamientos.
+
+a. Se han descrito las características de los tipos de rocódromos, su funcionalidad y los aspectos de seguridad.
+
+b. Se han analizado las características del muro, en un supuesto práctico debidamente caracterizado, identificando las posibilidades y limitaciones en el diseño de vía o rutas.
+
+c. Se ha identificado la normativa de construcción que debe cumplir un rocódromo.
+
+d. Se ha justificado la normativa de seguridad establecida en un supuesto práctico de rocódromo.
+
+e. Se han analizado las características de los distintos tipos de agarre.
+
+f. Se ha realizado el diseño, de forma justificada, de una vía, en un supuesto práctico en el que se determine la disciplina, el nivel de dificultad y las características de los usuarios.
+
+g. Se ha realizado el montaje de una vía de escalada, en un supuesto práctico debidamente caracterizado en el que se determine la disciplina, el nivel de dificultad y las características de los usuarios.
+
+h. Se ha realizado el testeo y se fundamenta la valoración en un supuesto práctico de vía de escalada.
+
+i. Se han analizado las ventajas e inconvenientes de los distintos sistemas utilizados en el montaje de itinerarios.
+
+j. Se ha valorado la importancia del testeo de la vía y de la comprobación de la seguridad.
+
+8\. Utiliza las nuevas tecnologías y medios audiovisuales en el registro y valoración del entrenamiento y la competición de la escalada, caracterizando los diferentes medios utilizables, aplicando técnicas y procedimientos específicos de procesamiento de la información.
+
+a. Se han analizado, los medios audiovisuales e instrumentos de medición utilizados en el análisis y seguimiento del entrenamiento y la competición en escalada.
+
+b. Se han concretado las técnicas de uso y funcionamiento de los instrumentos utilizados en el apoyo, seguimiento y control del entrenamiento y la competición en escalada.
+
+c. Se han descrito las características de los medios audiovisuales y de procesamiento de las imágenes necesarias en el registro y valoración de las técnicas de escalada.
+
+d. Se han relacionado los diferentes tipos de plano y las diferentes técnicas de filmación con las características de la vía o ruta de escalada y las características de la disciplina de competición.
+
+e. Se han aplicado técnicas de filmación adaptadas a las necesidades del deporte de la escalada en situación de entrenamiento y competición.
+
+f. Se han aplicado técnicas de montaje de filmaciones con los medios audiovisuales adecuados.
+
+g. Se han analizado las técnicas y procedimientos específicos de procesamiento de la información obtenidos en el entrenamiento y en la competición del escalador.
+
+h. Se han analizado y aplicado técnicas y procedimientos de valoración del comportamiento biomecánico del escalador.
+
+i. Se ha valorado la importancia del uso de las nuevas tecnologías en el entrenamiento de alto nivel en escalada.
+
+Contenidos básicos
+
+1\. Evalúa el comportamiento técnico y táctico del escalador de alto rendimiento, analizando las condiciones de la ruta o vía de escalada, las secuencias de movimiento y las decisiones tácticas propias del alto rendimiento, identificando los errores más habituales y sus posibles causas.
+
+– La vía o ruta de escalada:
+
+– Elementos que la configuran, su influencia en su dificultad:
+
+– Tipo de roca y características del muro natural o en rocódromo.
+
+– Inclinación del muro.
+
+– Nivel de dificultad.
+
+– Longitud de la vía y cantidad de movimientos necesarios.
+
+– Número y tipos de agarre: demanda de fuerza y facilidad en la ejecución.
+
+– Aseguramientos: número y distancia.
+
+– Combinaciones entre los diferentes elementos.
+
+– Características de la vía o ruta en función de:
+
+– Condiciones ambientales: humedad, temperatura, etc.
+
+– Disciplina de competición.
+
+– Instrumentos en la toma de datos de una vía o ruta de escalada. Aspectos a observar.
+
+– Valoración de la vía o ruta. Criterios de valoración.
+
+– Secuencias de movimientos en la escalada de velocidad:
+
+– Características de las secuencias de movimientos en la escalada de velocidad.
+
+– Factores a observar en la ejecución de la secuencia de movimientos:
+
+– Las características de la vía o ruta: los tipos de agarre, la inclinación del muro, la distancia entre presas, y la longitud de la vía o ruta.
+
+– Exceso de gasto.
+
+– Fluidez en la ejecución.
+
+– Tensión en la ejecución.
+
+– Instrumentos de observación. Modelos más utilizados.
+
+– Criterios de valoración de la ejecución de la secuencia de movimientos.
+
+– Errores habituales: tipos, causas y posibles soluciones.
+
+– Secuencias de movimientos en la escalada en bloque:
+
+– Características de las secuencias de movimientos en la escalada de bloque: Puntos de apoyo utilizados, cambios de peso, cruces de manos y pies, oposición en los apoyos.
+
+– Factores a observar en la ejecución de la secuencia de movimientos:
+
+– Las características de la vía o ruta: los tipos de agarre, tipos de presa, la inclinación del muro, la distancia entre presas, y la longitud de la vía o ruta.
+
+– Exceso de gasto.
+
+– Fluidez en la ejecución, ritmo y gestión de los reposos.
+
+– Tensión en la ejecución.
+
+– Instrumentos de observación. Modelos más utilizados.
+
+– Criterios de valoración de la ejecución de la secuencia de movimientos.
+
+– Errores habituales: tipos, causas y posibles soluciones.
+
+– Secuencias de movimientos en la escalada de dificultad:
+
+– Características de las secuencias de movimientos en la escalada de dificultad: Puntos de apoyo utilizados, cambios de peso, cruces de manos y pies, oposición en los apoyos, técnicas de fisuras.
+
+– Factores a observar en la ejecución de la secuencia de movimientos:
+
+– Las características de la vía o ruta: los tipos de agarre, la inclinación del muro, la distancia entre presas, y la longitud de la vía o ruta.
+
+– Exceso de gasto.
+
+– Fluidez en la ejecución, ritmo y gestión de los reposos.
+
+– Tensión en la ejecución.
+
+– Instrumentos de observación. Modelos más utilizados.
+
+– Criterios de valoración de la ejecución de la secuencia de movimiento.
+
+– Errores habituales: tipos, causas y posibles soluciones.
+
+– Secuencias de movimientos en la escalada en roca (Bloque y dificultad).
+
+– Características de las secuencias de movimientos en la escalada de dificultad: Puntos de apoyo utilizados, cambios de peso, cruces de manos y pies, oposición en los apoyos, técnicas de fisuras.
+
+– Factores a observar en la ejecución de la secuencia de movimientos:
+
+– Las características de la vía o ruta: los tipos de agarre, la inclinación del muro, la distancia entre presas, y la longitud de la vía o ruta.
+
+– Exceso de gastos.
+
+– Fluidez en la ejecución, ritmo y gestión de los reposos.
+
+– Tensión en la ejecución.
+
+– Instrumentos de observación. Modelos más utilizados
+
+– Criterios de valoración de la ejecución de la secuencia de movimientos.
+
+– Errores habituales: tipos, causas y posibles soluciones.
+
+– La táctica en la escalada:
+
+– La toma de decisión en escalada. Fases:
+
+– Observación y análisis de la vía o ruta. Factores a tener en cuenta en función de la vía o ruta y de la disciplina de competición:
+
+– Marco global, factores ambientales (temperatura, humedad, etc.), características personales.
+
+– Tipos de presa, tipos de agarre, tipos de roca, inclinación del muro, relación entre las presas, distancia entre seguros, otros.
+
+– Toma de decisión:
+
+– Secuencias viables.
+
+– Secuencias alternativas.
+
+– Criterios en la elección de la secuencia: Tiempo de permanencia, etc.
+
+– Visualización interna, memorización y ejecución.
+
+– Ajuste en el proceso de toma de decisión. Evaluación del resultado.
+
+– Errores habituales: tipos, causas y posibles soluciones.
+
+– Factores que condicionan la toma de decisión: motivación, grado de activación, ansiedad, concentración, incertidumbre, autoconfianza, gestión del riesgo. Indicadores.
+
+– Características en función de la vía o ruta de escalada y de la disciplina de competición.
+
+– Instrumentos de observación de las decisiones tácticas en escalada y de los factores que la condicionan:
+
+– Adaptaciones en función de la disciplina de competición y del tipo de vía o ruta.
+
+– Criterios de valoración de la toma de decisiones en función de la disciplina de competición y del tipo de vía o ruta.
+
+2\. Evalúa las capacidades condicionales del escalador en el entrenamiento, en la competición y en roca, en función de las características de la vía o ruta y de las disciplinas de competición, analizando las demandas del alto rendimiento y aplicando procedimientos específicos de valoración.
+
+– Fisiología de la escalada, características específicas:
+
+– Comportamiento y demanda de los diferentes sistemas: muscular, vascular y respiratorio, metabólico, en la escalada de alto rendimiento.
+
+– Adaptaciones específicas en función de:
+
+– Las condiciones y características de la vía o ruta de escalada en roca.
+
+– Las condiciones y características de las disciplinas de competición.
+
+– Perfil fisiológico del escalador.
+
+– Identificación de los objetivos de trabajo.
+
+– Las capacidades condicionales en la escalada:
+
+– Características y relación con la fisiología del esfuerzo.
+
+– Relación con el rendimiento en función del tipo de vía o ruta, o de las disciplinas de competición.
+
+– Evolución de las capacidades condicionales a lo largo de las diferentes etapas y ciclos de la temporada deportiva del escalador. Criterios para el análisis.
+
+– Valoración de las capacidades condicionales que determinan el rendimiento deportivo en escalada:
+
+– Métodos e instrumentos de valoración de:
+
+– La fuerza de dedos.
+
+– La resistencia de dedos.
+
+– La dinamometría manual.
+
+– La capacidad de tracción.
+
+– La bilateralidad en la tracción.
+
+– La capacidad de bloqueo.
+
+– La capacidad de la estabilidad toraco–lumbar (CORE).
+
+– La explosividad de la tracción.
+
+– La fuerza en campus.
+
+– La flexibilidad aplicada a la escalada. Test.
+
+– Otros test de valoración.
+
+– Características, criterios de selección.
+
+– Adaptación en función de las demandas del tipo de vía o ruta, o de la disciplina de competición.
+
+– Protocolos de aplicación de los métodos e instrumentos:
+
+– Durante el entrenamiento.
+
+– Durante la competición.
+
+– Diseño de test de campos específicos para la valoración condicional del escalador:
+
+– Fases del diseño.
+
+– Criterios de elaboración en función de:
+
+– Factor o capacidad a valorar.
+
+– Los medios y entorno a utilizar.
+
+– Valoración antropométrica del escalador:
+
+– Somatotipo del escalador, en función de la disciplina y del tipo de ruta o vía.
+
+– Instrumentos de medición. Características y uso.
+
+– Medición: datos y protocolo.
+
+– Programas informáticos básicos.
+
+– Procesamiento de información:
+
+– Estadísticos básicos.
+
+– Programas informáticos básicos.
+
+– Ética en la valoración de las capacidades condicionales.
+
+3\. Identifica las necesidades ergogénicas y ergo–nutricionales del escalador, en el entrenamiento y en la competición, analizando las demandas específicas, aplicando procedimientos para la elaboración de dietas y valorando los procedimientos y normas de control antidopaje.
+
+– Gasto energético, y otros requerimientos según competición o entrenamiento en las diferentes disciplinas. Necesidades nutricionales.
+
+– Ayudas ergo nutricionales en escalada, en función de las diferentes disciplinas, del tipo de vía y de las características del entorno y meteorológicas.
+
+– La hidratación en la escalada deportiva. Diferencias en función de las diferentes disciplinas, del tipo de vía y de las características del entorno y meteorológicas.
+
+– El control de peso en escalada. Necesidad, ventajas e inconvenientes:
+
+– Dietas específicas en función de la etapa de entrenamiento y del tipo de escalada.
+
+– Pautas de elección y elaboración de las dietas.
+
+– Trastornos alimentarios: características, síntomas y riesgos asociados.
+
+– Procedimientos y normas de control antidopaje:
+
+– El control antidopaje.
+
+– Exenciones terapéuticas.
+
+– El control de deportistas.
+
+– Sustancias prohibidas establecidas por la Agencia Mundial Antidopaje (AMA) y la Federación Internacional de Escalada – IFSC (International Federation of Sport Climbing).
+
+– El nutricionista, funciones. Principios de colaboración: trabajo en equipo con el entrenador.
+
+4\. Valora las capacidades psicológicas del escalador en el entrenamiento, en la competición y en roca, en función de las características de la vía o ruta y de las disciplinas de competición, analizando las demandas psicológicas del alto rendimiento, las características de su entrenamiento en la escalada y aplicando procedimientos específicos.
+
+– Características psicológicas del escalador:
+
+– Concentración, memorización, grado de activación, ansiedad, motivación y autoconfianza.
+
+– El perfil psicológico del campeón.
+
+– Diferencia en función de la disciplina de competición y/o el rendimiento en roca.
+
+– Las sensaciones: papel en la escalada.
+
+– La atención: papel en la escalada.
+
+– El stress: indicadores.
+
+– La preparación psicológica en escalada:
+
+– Objetivos de la preparación psicológica.
+
+– Observación y valoración de la concentración, memorización, grado de activación, ansiedad, motivación y autoconfianza:
+
+– En el entrenamiento.
+
+– En la competición.
+
+– El rendimiento en roca (escalada deportiva).
+
+– Estrategias e instrumentos de valoración de la capacidad y perfil psicológico del escalador de alto rendimiento:
+
+– Entrevista personal con el deportista: fases y características.
+
+– Cuestionarios y test psicológico–deportivos.
+
+– Registros anecdóticos en entrenamiento, roca y competición.
+
+– Estrategias, métodos y ejercicios de entrenamiento de:
+
+– La memorización.
+
+– El control del grado de activación.
+
+– El control del stress y la ansiedad.
+
+– La motivación en el entrenamiento y la competición.
+
+– Afrontamiento de la competición.
+
+– El psicólogo deportivo: funciones y competencias. Relación y colaboración con el técnico deportivo.
+
+5\. Adapta, concreta y dirige sesiones integradas de entrenamiento condicional, técnico, táctico y psicológico de la escalada en roca o en las disciplinas de competición, analizando y elaborando propuestas de vías o rutas de escalada, analizando y aplicando los medios y métodos específicos de trabajo condicional.
+
+– Factores a considerar en el diseño de vías o rutas de entrenamiento:
+
+– Influencia de las condiciones del entorno y meteorológicas (temperatura y humedad).
+
+– Representación gráfica de la vía o ruta de escalada.
+
+– La manipulación de los elementos que configuran la vía o ruta de escalada: Tipo de roca, nivel de dificultad, longitud de la vía y cantidad de movimientos necesarios (secuencias de movimiento), número y tipos de agarre, inclinación del muro, aseguramientos: número y distancia, combinaciones entre los diferentes elementos.
+
+– Criterios de modificación de los elementos que configuran la vía o ruta de escalada en el trabajo técnico, en función de:
+
+– El objetivo a trabajar.
+
+– El tipo de escalada.
+
+– La disciplina de competición.
+
+– Las características de la vía o ruta objetivo.
+
+– La secuencia de movimientos a trabajar.
+
+– Criterios de modificación de los elementos que configuran la vía o ruta de escalada en el trabajo táctico, en función de:
+
+– El objetivo a trabajar.
+
+– La fase de la toma de decisión a trabajar: Observación y análisis de la vía o ruta, toma de decisión, visualización interna, memorización y ejecución, ajuste en el proceso de toma de decisión.
+
+– La simulación de las características de la competición o de la vía o ruta objetivo.
+
+– Criterios de modificación de los elementos que configuran la vía o ruta de escalada en el trabajo psicológico, en función del objetivo psicológico a trabajar:
+
+– Miedo físico.
+
+– Concentración: control atencional, no excesivo análisis de la mecánica corporal. Focalización.
+
+– Autoconfianza.
+
+– Motivación en el logro y /o en la competición.
+
+– Incertidumbre.
+
+– Seguridad. Confianza en las propias posibilidades.
+
+– Control del grado de ansiedad.
+
+– La implicación en el éxito: «Darlo todo» en cada segmento.
+
+– Simulación de las condiciones específicas de la competición, o de la vía o ruta objetivo.
+
+– Criterios de modificación de los elementos que configuran la vía o ruta de escalada en el trabajo condicional, en función de:
+
+– La capacidad física o vía metabólica a desarrollar.
+
+– El tipo de escalada.
+
+– La disciplina de competición.
+
+– La secuencia de movimientos a trabajar.
+
+– Las características de la vía o ruta objetivo.
+
+– Diseño de vías o rutas de valoración del comportamiento técnico o táctico del escalador:
+
+– Factores a tener en cuenta en el diseño de un test:
+
+– Objetivo.
+
+– Criterios de fiabilidad, validez, objetividad, etc.
+
+– El trabajo condicional:
+
+– Ejercicios y medios de trabajo, en función de:
+
+– La carga: en apoyo, autocarga, sobrepeso.
+
+– El segmento corporal a trabajar: mano, antebrazo, brazo, CORE, piernas.
+
+– Similitud con la vía o ruta objetivo.
+
+– Adaptaciones al trabajo de fuerza máxima, de la fuerza explosiva, de la fuerza resistencia, de la resistencia, y de la resistencia local.
+
+– Métodos específicos de trabajo condicional de:
+
+– Fuerza máxima y fuerza explosiva: intensidad, volumen, densidad, carga, etc.
+
+– Fuerza resistencia y resistencia local: intensidad, volumen, densidad, carga, etc.
+
+– Resistencia: intensidad, volumen, densidad, carga, etc.
+
+– La flexibilidad, el equilibrio, el espacio y la conciencia corporal. Intensidad, volumen, densidad, carga, etc.
+
+– Adaptaciones en función del nivel y la etapa deportiva del escalador.
+
+– Criterios de evolución y modificación.
+
+– La carga de trabajo de las capacidades condicionales. Control, medición y dinámica a lo largo de la temporada.
+
+– Métodos de simulación de la competición, en función de:
+
+– Las características de la vía o ruta.
+
+– Las características de la competición.
+
+– La sesión de entrenamiento en escalada:
+
+– Tipos, estructura y organización en función de los objetivos, del momento de la temporada y del ciclo.
+
+– Objetivos a lo largo de la temporada. Evolución.
+
+– Criterios de combinación de los medios y métodos de trabajo condicional, técnico, táctico y psicológico.
+
+– Incidencias en la sesión. Tipos, causas y posibles soluciones.
+
+– Dinámica de cargas y su evolución dentro de la sesión. Distribución de la sesión durante la jornada.
+
+– La fatiga en escalada: causas (fisiológica, mental, sensorial, emocional, nerviosa, por factores externos), peculiaridades y métodos de recuperación.
+
+6\. Dirige el trabajo complementario del escalador lesionado, analizando las características de la lesión y sus implicaciones en el entrenamiento, y estableciendo programas de recuperación física y de prevención.
+
+– Lesiones en escalada: prevalencia, etiología, actuación, tratamiento y prevención:
+
+– Lesiones más frecuentes:
+
+– Miembros superiores.
+
+– Miembros inferiores.
+
+– Elementos típicos de biomecánica disfuncional en escaladores.
+
+– Rehabilitación y reintroducción en la disciplina:
+
+– Medios utilizados en función de la lesión.
+
+– Métodos utilizados en función de la lesión.
+
+– Tiempos medios.
+
+– Participación del entrenador/técnico deportivo.
+
+– Entrenamiento complementario y compensatorio:
+
+– Organización del entrenamiento. Reorientación de objetivos y medios de entrenamiento en relación con la programación general, para el afrontamiento físico y psicológico de la lesión.
+
+– Medios en el trabajo complementario y compensatorio.
+
+– Métodos de trabajo.
+
+– Ejercicios complementarios y compensatorios, características, normas de ejecución.
+
+7\. Realiza el equipamiento de rocódromos, analizando las normativas de aplicación, los materiales utilizables y aplicando técnicas y procedimientos específicos de montaje de estos equipamientos.
+
+– Equipamiento en instalaciones fijas (rocódromos):
+
+– El rocódromo y el muro, definición:
+
+– Características técnicas: altura, anchura, inclinación, desplome.
+
+– Tipos de estructura.
+
+– Materiales de construcción.
+
+– Normativas:
+
+– De construcción.
+
+– Criterios de elaboración de la normativa de seguridad.
+
+– Diseño de itinerarios:
+
+– Fases del diseño: planificación en el muro, selección de material.
+
+– Planificación en el muro:
+
+– Limitaciones del rocódromo y del muro.
+
+– Criterios de diseño de vía:
+
+– En función de la disciplina: Velocidad, Dificultad, Bloques.
+
+– El nivel de dificultad.
+
+– Características antropométricas.
+
+– Seguridad.
+
+– Montaje y desmontaje de la vía:
+
+– Los agarres: tipos de presa, formas, volúmenes, materiales utilizados. Características.
+
+– Criterios de elección:
+
+– Relación con el nivel de dificultad.
+
+– Características del muro.
+
+– Confección de la vía:
+
+– Disciplina Velocidad:
+
+– Muro oficial.
+
+– Estilo libre.
+
+– Colocación de los sistemas de cronometraje.
+
+– Sistemas de aseguramiento.
+
+– Disciplina Bloque. Criterios de colocación en función de:
+
+– El nivel de dificultad.
+
+– Características antropométricas.
+
+– Marcaje de presas de salida, «bonus» y «top».
+
+– Seguridad.
+
+– Disciplina Dificultad. Criterios de colocación en función de:
+
+– El nivel de dificultad.
+
+– Características antropométricas.
+
+– Seguridad y «chapaje».
+
+– Incremento progresivo de la dificultad.
+
+– El par de apriete. Cálculo y utilización de llaves dinamométricas.
+
+– Sistemas de montaje (plataformas, grúas o cuerda) y su seguridad.
+
+– Marcaje de recorrido en rocódromos.
+
+– Testeo de la vía y prevención de riesgos.
+
+8\. Utiliza las nuevas tecnologías y medios audiovisuales en el registro y valoración del entrenamiento y la competición de la escalada, caracterizando los diferentes medios utilizables, aplicando técnicas y procedimientos específicos de procesamiento de la información.
+
+– Medios audiovisuales de grabación de video:
+
+– Necesidades técnicas en la grabación de la escalada.
+
+– Técnicas de filmación: Planos y distancias de grabación en función de:
+
+– Objetivo a valorar.
+
+– Disciplina de competición.
+
+– Sistemas de edición y procesamiento de las imágenes:
+
+– Formato de la grabación.
+
+– Tipos de almacenaje.
+
+– Sistemas de valoración de la fuerza aplicada:
+
+– Plataforma de fuerzas en presas instrumentadas.
+
+– Sistemas de valoración biomecánica en la escalada:
+
+– Desplazamiento del centro de gravedad del escalador.
+
+– Diferencias en el desplazamiento en expertos y principiantes.
+
+– Software específico de procesamiento y presentación de la información: visual, dinámica, cinemática.
+
+> Se numera como Anexo III.g por el art. 9.4.h) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.h — Módulo específico de enseñanza deportiva: Organización de eventos de escalada
+
+Código: MED–MORO311
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Gestiona y organiza eventos de promoción, iniciación o tecnificación deportiva en escalada, analizando las características y requisitos materiales y humanos de los eventos, las características técnicas de los programas, e identificando las características organizativas de los eventos.
+
+a. Se han analizado los principios y normativa aplicable a la elaboración y selección de las actividades y competiciones y su ubicación en el calendario.
+
+b. Se ha concretado el programa de actividades del evento, en función de los objetivos establecidos en la programación.
+
+c. Se ha realizado un presupuesto que valore los costes de un supuesto de evento deportivo de promoción, iniciación o tecnificación deportiva en escalada.
+
+d. Se ha analizado la viabilidad de un proyecto de evento deportivo de promoción, iniciación o tecnificación en escalada, en relación al presupuesto.
+
+e. Se han identificado las fuentes de financiación de un evento de promoción, iniciación o tecnificación deportiva en escalada.
+
+f. Se ha concretado la gestión de patrocinios y publicidad que avalen el evento deportivo de promoción, iniciación o tecnificación deportiva en escalada deportiva.
+
+g. Se han identificado los instrumentos de promoción y las estrategias de difusión y comunicación de las actividades de escalada.
+
+h. Se ha definido el sistema de competición en función de la disciplina, de los objetivos y del número de participantes.
+
+i. Se han caracterizado las necesidades y procedimientos de gestión de personal y medios materiales necesarios en los diferentes comités y áreas en lo que se divide la organización de una competición de alto nivel en escalada.
+
+j. Se han determinado, y aplicado los procedimientos de habilitación de los espacios, y de gestión de los recursos materiales necesarios en la organización de una competición de promoción, iniciación o tecnificación deportiva en escalada.
+
+k. Se han analizado las funciones de recepción, distribución, ubicación, circulación, control y seguridad, de los participantes y el público en general en un supuesto práctico de organización de un evento de promoción, iniciación o tecnificación deportiva en escalada.
+
+l. Se ha valorado la importancia de la promoción y organización de eventos de escalada deportiva dentro de los objetivos de un club de escalada.
+
+2\. Colabora en la gestión, organización y desarrollo de eventos de alto nivel en escalada deportiva, analizando las condiciones de organización y de seguridad de los eventos.
+
+a. Se han analizado los recursos humanos y materiales necesarios y su organización, en función del tipo, de las características de la competición de alto nivel en escalada deportiva y del número de escaladores.
+
+b. Se han analizado los cometidos y funcionamiento de la dirección técnica de una competición de alto nivel en escalada deportiva.
+
+c. Se han analizado las características de la reunión técnica en una competición de escalada deportiva.
+
+d. Se han analizado los criterios de elaboración del calendario y la distribución de las pruebas, de una competición de alto nivel en escalada deportiva.
+
+e. Se han analizado los protocolos de inauguración, desarrollo y clausura de una competición de alto nivel en escalada deportiva.
+
+f. Se han aplicado, en un supuesto de competición de alto nivel en escalada deportiva, los criterios para establecer el control de los competidores, el sorteo, la organización arbitral, la comunicación formal de la organización con los participantes, el orden de participación y la participación de los oficiales y asistentes de competición.
+
+g. Se han justificado las colaboraciones en la gestión de alojamiento y logística necesarios para escaladores, oficiales y asistentes de competición, entrenadores, entre otros, participantes en una competición de alto nivel en escalada deportiva.
+
+h. Se han descrito las características y procedimientos a seguir en el desarrollo del plan de seguridad, ante situaciones de emergencia, en el transcurso de la celebración de una competición de alto nivel en escalada deportiva, identificando los medios necesarios.
+
+i. Se ha valorado la importancia de establecer los planes de emergencia y evacuación durante la realización de una competición de alto nivel en escalada.
+
+j. Se ha valorado la importancia de dejar constancia de los pormenores de la organización y gestión de una competición de alto nivel en escalada a través de la memoria final de la misma.
+
+3\. Acompaña e inscribe a los escaladores en las competiciones de escalada deportiva, desglosando los requisitos administrativos, y los procedimientos de inscripción, acompañamiento y reclamación, analizando las funciones del responsable del equipo.
+
+a. Se han analizado los aspectos a considerar en los desplazamientos a las actividades programadas, en función de las características de la actividad y necesidades de los escaladores.
+
+b. Se han analizado los protocolos y aspectos a considerar en la gestión del alojamiento de los deportistas y demás miembros del equipo.
+
+c. Se han analizado los tipos de competición de escalada deportiva, identificando las diferencias organizativas y sus consecuencias sobre la labor de acompañamiento del técnico sobre el escalador.
+
+d. Se ha analizado la documentación necesaria en la participación en las competiciones de escalada deportiva según el nivel y los procedimientos de inscripción (federación española, autonómica, como club, entre otros).
+
+e. Se ha analizado, en un supuesto práctico debidamente caracterizado, la información de la competición, identificando: los horarios y el sorteo, entre otros.
+
+f. Se han analizado las funciones y los protocolos que utiliza el técnico deportivo en el acompañamiento, la tutela y la dirección del escalador durante el desarrollo de las competiciones de escalada deportiva.
+
+g. Se ha analizado el procedimiento de reclamación de un resultado o decisión de los árbitros.
+
+h. Se ha elaborado de forma justificada y de acuerdo con el reglamento una reclamación ante una decisión arbitral, en un supuesto practico debidamente caracterizado.
+
+i. Se ha valorado la importancia de la tutela y gestión del entrenador en competiciones de escalada deportiva.
+
+4\. Orienta al deportista sobre las posibles salidas profesionales, analizando los itinerarios formativos, el entorno profesional y los procedimientos de gestión de la vida deportiva del escalador.
+
+a. Se han descrito las características del sector económico y profesional vinculado con la escalada.
+
+b. Se han analizado y clasificado las posibles salidas profesionales de los escaladores.
+
+c. Se han analizado las características y motivaciones de los escaladores y sus posibles vinculaciones con las salidas profesionales en el ámbito de la escalada.
+
+d. Se ha analizado la oferta de formación y especialización de los técnicos deportivos en escalada, y las posibles salidas profesionales de cada uno de ellos.
+
+e. Se ha analizado la normativa sobre regulación profesional existente en relación con las actividades de escalada.
+
+f. Se han descrito los procedimientos de solicitud de becas y ayudas para la formación aplicables a la escalada.
+
+g. Se ha identificado la oferta de formación continua en el ámbito de la escalada.
+
+h. Se han analizado los principios y pautas del comportamiento y la relación entre el escalador y el sponsor.
+
+i. Se ha valorado la importancia de la formación permanente en los diferentes ámbitos de la escalada como medio de adaptación a las demandas sociales.
+
+j. Se valorado la importancia de desarrollar una imagen pública del escalador, en la búsqueda de recursos para desarrollar la carrera deportiva.
+
+Contenidos básicos
+
+1\. Gestiona y organiza eventos de promoción, iniciación o tecnificación deportiva en escalada, analizando las características y requisitos materiales y humanos de los eventos, las características técnicas de los programas, e identificando las características organizativas de los eventos.
+
+– Competiciones y eventos de escalada: Tipos y objetivos:
+
+– Sistemas de competición escalada deportiva, en función de los objetivos y número de participantes.
+
+– Normativa de aplicación a la organización de actividades de promoción, iniciación o tecnificación deportiva en escalada deportiva:
+
+– Reglamento: aspectos que condicionan la organización de la competición.
+
+– Características de las competiciones en las diferentes disciplinas: dificultad, bloque y velocidad.
+
+– Formato de puntuación en las competiciones de escalada.
+
+– Procedimiento de reclamación desde el punto de vista de la organización.
+
+– Calendario de competición y eventos:
+
+– Criterios de elaboración y normativa de aplicación.
+
+– Ejemplos de programas nacionales y autonómicos. Análisis.
+
+– Viabilidad del proyecto:
+
+– Presupuesto del evento. Requisitos mínimos.
+
+– Formas de financiación: recursos propios, ayudas oficiales, etc. Peculiaridades de las competiciones de alto nivel.
+
+– La publicidad.
+
+– Recursos materiales de la competición o el evento:
+
+– Procedimientos de adquisición o alquiler.
+
+– Los medios de comunicación y las estrategias de comunicación y difusión en las actividades de promoción, iniciación o tecnificación deportiva en escalada deportiva.
+
+– Gestión de los espacios, recursos humanos y materiales. Identificación de las necesidades:
+
+– Las zonas de la competición: Zona aislamiento y/o calentamiento, zona tránsito, zona competición. Características.
+
+– Procedimientos de recepción, control, seguridad y logística en la organización de eventos de promoción, iniciación o tecnificación deportiva en escalada.
+
+– La organización y habilitación de la zona de competición, montaje y ubicación del muro, participantes, técnicos, etc.
+
+– Organización y dirección de competiciones y eventos de promoción, iniciación o tecnificación deportiva en escalada. Características: fases, horarios, sorteos, etc:
+
+– Comités y figuras técnicas (oficiales y asistentes de competición) dentro de la competición, sus funciones.
+
+– Efectos y beneficios de la organización y dinamización de los eventos de promoción, iniciación o tecnificación deportiva en escalada.
+
+– La promoción de la escalada: medio de socialización deportiva, instrumentos de promoción.
+
+2\. Colabora en la gestión, organización y desarrollo de eventos de alto nivel en escalada deportiva, analizando las condiciones de organización y de seguridad de los eventos.
+
+– Recursos humanos y materiales en los eventos de alto nivel en escalada:
+
+– Estructura de la organización en función de la disciplina: bloque, dificultad y velocidad.
+
+– Recursos humanos necesarios: organigrama y funciones.
+
+– Recursos materiales necesarios: tipo y características.
+
+– Servicios privados y públicos implicados en la competición o evento.
+
+– Criterios de sostenibilidad.
+
+– La dirección técnica en el desarrollo de las competiciones de alto nivel en escalada.
+
+– Funciones.
+
+– La reunión técnica: características.
+
+– La organización de la competición de alto nivel en escalada:
+
+– Criterios de distribución de los espacios.
+
+– Sorteo.
+
+– Organización arbitral y responsables de la mesa central.
+
+– Ubicación y circulación de los oficiales y participantes.
+
+– Gestión del alojamiento de deportistas y árbitros.
+
+– Plan de seguridad y evacuación de la instalación en caso de emergencia.
+
+– Memoria final: características, partes y protocolo de elaboración.
+
+3\. Acompaña e inscribe a los escaladores en las competiciones de escalada deportiva, desglosando los requisitos administrativos, y los procedimientos de inscripción, acompañamiento y reclamación, analizando las funciones del responsable del equipo.
+
+– Competiciones de escalada deportiva de alto nivel:
+
+– Disciplinas y categorías de competición.
+
+– De dificultad. Características: fases, horarios, sorteos, etc.
+
+– De velocidad. Características: fases, horarios, sorteos, etc.
+
+– De bloque. Características: fases, horarios, sorteos, etc.
+
+– Los desplazamientos en las competiciones de escalada: tipos y características. Necesidades de los deportistas.
+
+– El alojamiento de los deportistas: protocolos a seguir, prevención del acoso.
+
+– La inscripción: requisitos, documentación y procedimientos más habituales, según el tipo de competición.
+
+– Las reclamaciones en las competiciones de escalada: tipos, procedimiento, funciones del responsable del equipo.
+
+– Las funciones del responsable del equipo en la competición: tipos, características.
+
+– Protocolos a utilizar en el acompañamiento, tutela y dirección del escalador.
+
+4\. Orienta al deportista sobre las posibles salidas profesionales, analizando los itinerarios formativos, el entorno profesional y los procedimientos de gestión de la vida deportiva del escalador.
+
+– La escalada deportiva como actividad económica. Productos:
+
+– Empresas del sector.
+
+– El autoempleo en el sector.
+
+– El proyecto profesional.
+
+– La imagen del escalador:
+
+– Creación de la imagen.
+
+– Vías de comunicación: medios de comunicación, redes sociales, blogs, web y otros.
+
+– La relación del escalador con los sponsor:
+
+– Principios y pautas de comportamiento.
+
+– Las salidas profesionales de los técnicos deportivos en escalada:
+
+– Características y motivaciones del escalador deportivo.
+
+– Roles más significativos, su relación con los perfiles profesionales del técnico deportivo y del técnico deportivo superior en escalada deportiva.
+
+– Regulación de la actividad profesional de la escalada deportiva por la Administración autonómica y municipal.
+
+– Títulos y especializaciones en escalada deportiva:
+
+– Oferta formativa, características, requisitos y matriculación.
+
+– Becas en la formación de los técnicos deportivos:
+
+– Tipos y convocatorias más frecuentes.
+
+– Programas de formación continua o permanente.
+
+– FEDME, Administración, etc.
+
+> Se numera como Anexo III.h por el art. 9.4.i) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.i — Módulo específico de enseñanza deportiva: Escuela de escalada
+
+Código: MED–MORO312
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Programa la actividad de una escuela de escalada, analizando las características de proyectos deportivos y programas de actividades, justificando los procedimientos utilizados en la implementación de los mismos.
+
+a. Se han analizado las condiciones administrativas específicas de una escuela de escalada.
+
+b. Se ha analizado la estructura de un proyecto de funcionamiento de una escuela de escalada.
+
+c. Se ha fundamentado el proyecto educativo y deportivo de una escuela de escalada en función de las características y motivaciones del público objetivo.
+
+d. Se han analizado las características de la planificación y concretado los objetivos, contenidos y actividades a desarrollar en un supuesto práctico de escuela de escalada.
+
+e. Se han justificado los criterios de elaboración del calendario y las directrices de organización de actividades y eventos de una escuela de escalada.
+
+f. Se han justificado los criterios de elaboración y distribución de los horarios y grupos y su asignación a los profesores de la escuela de escalada.
+
+g. Se han analizado los procedimientos existentes para cubrir el riesgo de accidente en las actividades de una escuela de escalada.
+
+h. Se han categorizado las pautas de actuación y los medios de difusión y promoción de las actividades de una escuela de escalada.
+
+i. Se ha considerado la importancia de la formación en valores a través de los contenidos de la escalada.
+
+2\. Dirige y gestiona los recursos humanos de una escuela de escalada, analizando y clasificando las pautas de actuación y coordinación, valorando la capacidad de comunicación, las habilidades personales y la toma de decisiones.
+
+a. Se ha elaborado el organigrama de funcionamiento del personal implicado en una escuela de escalada.
+
+b. Se han categorizado las tareas de la dirección técnica de una escuela de escalada en sus diferentes ámbitos de actuación.
+
+c. Se han descrito las pautas de actuación en la asignación de tareas a realizar por el personal de la escuela de escalada, teniendo en cuenta las características de los grupos implicados.
+
+d. Se han descrito las pautas de actuación en la coordinación de los técnicos deportivos de una escuela de escalada, en función de los objetivos de la escuela.
+
+e. Se han descrito los ámbitos de interrelación con los profesionales vinculados al entrenamiento deportivo.
+
+f. Se ha identificado el papel del técnico deportivo en escalada en el trabajo con otros profesionales del deporte, dentro de una escuela de escalada.
+
+g. Se han analizado las características de la estructura organizativa interna de una escuela de escalada.
+
+h. Se han establecido los objetivos de la dirección de los recursos humanos de una escuela de escalada.
+
+i. Se han seleccionado los criterios específicos de valoración de la capacidad de comunicación y las habilidades interpersonales de los técnicos de una escuela de escalada.
+
+j. Se han seleccionado los criterios específicos de valoración de la toma de decisiones de los técnicos de una escuela de escalada.
+
+k. Se ha valorado la actitud tolerante, la cooperación y el respeto a los demás en la dirección y gestión de los recursos humanos de una escuela de escalada.
+
+l. Se ha identificado y analizado la normativa laboral de aplicación en una escuela de escalada.
+
+3\. Dirige y gestiona los recursos materiales de una escuela de escalada, analizando y clasificando los criterios para la adquisición del equipamiento, administración de los recursos y normas de uso.
+
+a. Se han descrito los criterios a considerar en la elección del equipamiento específico de enseñanza y entrenamiento de una escuela de escalada.
+
+b. Se han analizado las condiciones que deben cumplir un rocódromo o el espacio natural para su uso en la escuela de escalada.
+
+c. Se han analizado los protocolos de seguridad utilizados por las escuelas en el uso del rocódromo o el espacio natural.
+
+d. Se han establecido de forma justificada las normas de utilización del rocódromo, el espacio natural y los materiales de un supuesto práctico de escuela de escalada.
+
+e. Se han analizado y clasificado los recursos materiales necesarios de enseñanza y entrenamiento en una escuela de escalada.
+
+f. Se han analizado los recursos materiales en función de las características y contenidos a desarrollar en cada grupo de una escuela de escalada.
+
+g. Se han analizado los protocolos de seguridad en el uso del material en la escuela de escalada.
+
+h. Se ha identificado la normativa que debe cumplir los equipamientos utilizados en una escuela de escalada.
+
+i. Se han descrito y aplicado, en un supuesto práctico debidamente caracterizado, los procedimientos administrativos básicos de compra o alquiler del material de una escuela de escalada.
+
+j. Se ha valorado la importancia de la seguridad en el equipamiento y los materiales de una escuela de escalada.
+
+Contenidos básicos
+
+1\. Programa la actividad de una escuela de escalada, analizando las características de proyectos deportivos y programas de actividades, justificando los procedimientos utilizados en la implementación de los mismos.
+
+– Proyecto educativo y deportivo de la escuela de escalada:
+
+– Fases del proyecto: diagnostico, planificación, implementación y evaluación.
+
+– Diagnóstico:
+
+– Características y motivaciones de los escaladores.
+
+– Instrumentos de identificación.
+
+– Planificación. Estructura y componentes del proyecto:
+
+– Objetivos en función del tipo de escalada. Valores a trasmitir.
+
+– Actividades. Características.
+
+– Organización funcional.
+
+– Recursos: humanos, materiales y financieros.
+
+– Implementación:
+
+– Calendario y horarios, criterios de elaboración.
+
+– Grupos, espacios asignados. Criterios de elaboración y distribución.
+
+– Seguros y licencia federativa. Afiliación a la federación autonómica y nacional. Procedimientos y requisitos.
+
+– La inscripción de los deportistas en la escuela, matricula. Procedimiento.
+
+– Requisitos y autorizaciones administrativas.
+
+– La publicidad de la escuela de escalada:
+
+– Información al usuario.
+
+– Medios de comunicación: cartelería, trípticos, prensa, radio, etc.
+
+2\. Dirige y gestiona los recursos humanos de una escuela de escalada, analizando y clasificando las pautas de actuación y coordinación, valorando la capacidad de comunicación, las habilidades personales y la toma de decisiones.
+
+– Tipos de escuela de escalada.
+
+– Organización interna. Recursos humanos:
+
+– Organigrama y funciones: perfiles profesionales relacionados.
+
+– Dirección técnica de la escuela.
+
+– Tareas específicas y habilidades del personal implicado para cada función.
+
+– Criterios de asignación de tareas, coordinación entre los técnicos y otro personal técnico.
+
+– Selección de los recursos humanos de la escuela:
+
+– Procedimientos de selección.
+
+– Criterios de selección de acuerdo con la función.
+
+– Habilidades transversales: comunicación, actitudes.
+
+– La coordinación de los recursos humanos:
+
+– Perfil del coordinador: capacidad de comunicación y habilidades interpersonales.
+
+– Objetivos de la coordinación.
+
+– Procedimientos de coordinación.
+
+– Comunicación interna, características.
+
+– Control y evaluación de los técnicos: aspectos a valorar, criterios de valoración.
+
+– Normativa laboral aplicable.
+
+3\. Dirige y gestiona los recursos materiales de una escuela de escalada, analizando y clasificando los criterios para la adquisición del equipamiento, administración de los recursos y normas de uso.
+
+– Equipamiento y material de escuela de escalada. Requerimientos mínimos:
+
+– Rocódromo, condiciones y adaptaciones para la escuela de escalada.
+
+– Espacio natural: criterios de elección, adaptaciones para la escuela de escalada.
+
+– Equipamiento y materiales de seguridad. Características.
+
+– Equipamiento y material individual. Características.
+
+– Criterios de adaptación del equipamiento y materiales en la escuela de escalada.
+
+– Normativa aplicable:
+
+– Recomendaciones de uso.
+
+– Criterios de mantenimiento.
+
+– Protocolos de seguridad.
+
+– Criterios de renovación.
+
+– El rocódromo. Criterios de utilización:
+
+– Normativa aplicable.
+
+– Protocolos de seguridad.
+
+– El espacio natural de escalada. Criterios de utilización.
+
+– Normativa aplicable.
+
+– Protocolos de seguridad.
+
+– Adquisición del material:
+
+– Procedimientos administrativos.
+
+> Se numera como Anexo III.i por el art. 9.4.j) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.j — Módulo de enseñanza deportiva: Proyecto final
+
+Código: MED–MORO313
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Diseña proyectos relacionados con las competencias del técnico deportivo superior en escalada, fundamentando el proyecto en la información recogida, desarrollando las fases que lo componen y realizando las previsiones de recursos humanos y materiales.
+
+a. Se ha elegido un tema que permite integrar los conocimientos adquiridos en los diferentes bloques y módulos del ciclo superior en escalada.
+
+b. Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto.
+
+c. Se han identificado las fases o partes que componen el proyecto y sus contenidos.
+
+d. Se han establecido los objetivos que se pretenden conseguir identificando su alcance.
+
+e. Se han valorado los aspectos que pueden facilitar o dificultar el desarrollo del proyecto.
+
+f. Se han previsto y priorizado los recursos materiales y personales necesarios, de acuerdo con los objetivos del proyecto.
+
+g. Se ha realizado el presupuesto económico correspondiente.
+
+h. Se han identificado las posibles fuentes de financiación del proyecto, en base a las necesidades del mismo.
+
+i. Se han identificado los aspectos que se deben controlar y de los que depende la calidad del proyecto.
+
+j. Se ha justificado la pertinencia y viabilidad del proyecto.
+
+k. Se ha valorado el rigor en la recogida de la información utilizada en la elaboración del proyecto.
+
+2\. Planifica y programa la ejecución del proyecto, determinando las fases o ciclos de preparación, la metodología utilizada y los recursos necesarios.
+
+a. Se han secuenciado y temporalizado las actividades, ordenándolas en función de las necesidades de implantación del proyecto.
+
+b. Se ha elaborado la planificación del proyecto, periodizando y programando el entrenamiento y los recursos necesarios, cuando el proyecto esté dirigido al alto rendimiento deportivo en escalada.
+
+c. Se han determinado los recursos y la logística necesarios en cada actividad.
+
+d. Se han identificado los permisos y autorizaciones necesarios en cada una de las actividades.
+
+e. Se han determinado los procedimientos de actuación o ejecución de las actividades.
+
+f. Se han identificado los riesgos inherentes al desarrollo de las actividades, definiendo el plan de prevención de riesgos y los medios y equipos necesarios.
+
+g. Se han planificado la asignación de recursos materiales y humanos, y los tiempos de ejecución.
+
+h. Se ha hecho la valoración económica necesaria en la ejecución del proyecto.
+
+i. Se ha definido y elaborado la documentación necesaria en las previsiones y ejecución del proyecto.
+
+j. Se han utilizado de una manera integradora y sinérgica los conceptos y procedimientos adquiridos en los diferentes módulos del ciclo superior en escalada.
+
+k. Se han tenido en cuenta criterios de sostenibilidad a la hora de elegir las actividades, la metodología y los recursos utilizados en el proyecto.
+
+3\. Selecciona los procedimientos de seguimiento y control de la elaboración y ejecución del proyecto, justificando las funciones dentro del proyecto, la selección de variables e instrumentos empleados.
+
+a. Se ha definido el procedimiento de evaluación de las actividades, utilizando y combinando diferentes instrumentos de evaluación.
+
+b. Se han definido los indicadores de calidad utilizados en la evaluación del proyecto.
+
+c. Se han definido los procedimientos de evaluación de las incidencias que puedan presentarse durante la realización del proyecto, su posible solución y registro.
+
+d. Se ha definido el procedimiento de gestión de los posibles cambios en los recursos, en las actividades o en la dinámica de cargas, en el caso del entrenamiento de alto rendimiento, incluyendo el sistema de registro de los mismos.
+
+e. Se ha definido y elaborado la documentación necesaria en la evaluación de las actividades del proyecto.
+
+f. Se ha establecido el procedimiento de participación en la evaluación de los escaladores y se han elaborado los documentos específicos.
+
+g. Se ha establecido un sistema de garantía de cumplimiento del pliego de condiciones del proyecto cuando este exista.
+
+h. Se ha atendido a las consideraciones del tutor/director del proyecto durante la elaboración del mismo.
+
+i. Se ha cumplido con el seguimiento del proyecto según el procedimiento establecido por el tutor/director.
+
+j. Se ha mostrado una actitud de respeto y aceptación de las aportaciones realizadas por el tutor/director, integrando de forma constructiva las valoraciones recibidas en el proyecto.
+
+4\. Presenta el proyecto, seleccionando los aspectos relevantes del mismo, justificando las decisiones tomadas y utilizando los recursos didácticos y técnicos más adecuados en cada caso.
+
+a. Se ha definido y elaborado la documentación necesaria en la presentación y comunicación del proyecto.
+
+b. Se han utilizado los recursos didácticos y técnicos más adecuados para la presentación y comunicación del proyecto, incluyendo las nuevas tecnologías, de forma coherente con los objetivos del proyecto.
+
+c. Se ha presentado el proyecto, de forma clara, sintética, incluyendo los aspectos fundamentales que debía incluir la presentación.
+
+d. Se ha utilizado bibliografía actualizada en la fundamentación del trabajo, referenciándola de forma adecuada.
+
+e. Se ha contestado de forma precisa y justificada a las cuestiones realizadas sobre las características y fundamentación del proyecto.
+
+f. Se ha justificado suficientemente el proyecto y se ha argumentado su implementación.
+
+g. Se ha ajustado, en la presentación del proyecto, a la estructura definida y establecida en los criterios de evaluación.
+
+h. Se ha presentado el proyecto, ajustándose a las características formales, estructura y apartados establecidos por el tribunal.
+
+i. Se han justificado en la presentación del proyecto, las relaciones existentes entre los diferentes resultados de aprendizaje adquiridos en los diferentes módulos del ciclo superior en escalada.
+
+j. Se ha demostrado poseer una visión general del proyecto, relacionando la argumentación con la finalidad y las conclusiones del mismo.
+
+> Se numera como Anexo III.j por el art. 9.4.k) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.k — Módulo de enseñanza deportiva: Formación práctica
+
+Código: MED–MORO314
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica la estructura organizativa y el funcionamiento del centro deportivo de prácticas (escuela de escalada, rocódromo, club, federación, empresa, …), relacionándola con su oferta de actividades de alto rendimiento deportivo, y las actividades de gestión del mismo, aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a. Se han fundamentado las relaciones del centro deportivo de prácticas con la Federación Española de Deportes de Montaña y Escalada (FEDME) y la International Federation of Sport Climbing (IFSC).
+
+b. Se ha categorizado la estructura organizativa y el funcionamiento de las distintas áreas del centro deportivo de prácticas.
+
+c. Se han clasificado las relaciones jerárquicas dentro del centro deportivo de prácticas.
+
+d. Se ha revisado la oferta de actividades vinculadas al alto rendimiento deportivo en escalada.
+
+e. Se han relacionado las características del centro deportivo de prácticas con la normativa de responsabilidad de los técnicos que trabajan en el mismo.
+
+f. Se ha fundamentado la oferta de actividades orientada al alto rendimiento de escalada en las mujeres.
+
+g. Se han reconocido los valores presentes en las actividades de escalada del centro deportivo de prácticas.
+
+h. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+i. Se ha revisado el plan de actuación de emergencias de las instalaciones del centro deportivo de prácticas.
+
+j. Se ha identificado y analizado el plan de prevención de riesgos laborales del centro deportivo de prácticas.
+
+k. Se han revisado las condiciones laborales de los técnicos deportivos del centro deportivo de prácticas, en relación con la normativa sobre salud laboral.
+
+2\. Identifica la estructura organizativa y el funcionamiento del centro de formación de técnicos deportivos, relacionándola con su oferta formativa, analizando la normativa de aplicación, aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a. Se han fundamentado las relaciones del centro de formación de técnicos en escalada con la administración educativa correspondiente.
+
+b. Se ha categorizado la estructura organizativa y el funcionamiento del centro de formación de técnicos en escalada.
+
+c. Se han clasificado las relaciones jerárquicas dentro del centro de formación de técnicos en escalada.
+
+d. Se ha revisado la oferta de actividades vinculadas a la formación de técnicos en escalada.
+
+e. Se han analizado las características del centro de formación de técnicos deportivos, y la normativa sobre la responsabilidad del profesorado.
+
+f. Se ha esquematizado la normativa educativa y curricular vigente sobre formación de técnicos en escalada.
+
+g. Se ha colaborado en la organización de las actividades económicas del centro de trabajo.
+
+h. Se han reconocido los valores presentes en las actividades de escalada del centro deportivo de prácticas.
+
+i. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+3\. Colabora en la administración del centro deportivo de prácticas (escuela deportiva, club, federación, empresa, etc.), aplicando procedimientos de gestión económica y contable.
+
+a. Se ha colaborado en la organización de las actividades económicas del centro deportivo de prácticas.
+
+b. Se ha identificado la forma jurídica utilizada en la constitución del centro deportivo de prácticas, y el grado de responsabilidad legal de los propietarios y gestores.
+
+c. Se ha colaborado en los procedimientos administrativos básicos de gestión del centro deportivo de prácticas.
+
+d. Se han realizado trámites de petición de ayudas a la gestión del centro deportivo de prácticas.
+
+e. Se ha colaborado en la gestión de ayudas económicas que utiliza o puede utilizar el centro deportivo de prácticas.
+
+f. Se ha confeccionado documentación administrativa y comercial necesaria en el desarrollo de la actividad deportiva.
+
+g. Se han identificado las obligaciones y exenciones fiscales y tributarias del centro deportivo de prácticas.
+
+h. Se ha realizado la declaración de impuestos del centro deportivo de prácticas.
+
+i. Se ha tenido una actitud de respeto y cumplimiento de la normativa y los procedimientos de gestión económica del centro deportivo de prácticas.
+
+4\. Actúa con autonomía, iniciativa y responsabilidad en el puesto de trabajo, demostrando comportamiento ético, habilidades personales de comunicación, trabajo en equipo, respeto por el medio ambiente, y aplicando los procedimientos establecidos por el centro deportivo de prácticas.
+
+a. Se han identificado los requerimientos actitudinales del puesto de trabajo.
+
+b. Se han interpretado y cumplido las instrucciones recibidas y responsabilizado del trabajo asignado.
+
+c. Se ha demostrado compromiso con el trabajo bien hecho y la calidad del servicio, así como respeto a los procedimientos y principios propios del club o entidad deportiva.
+
+d. Se ha demostrado capacidad de trabajo en equipo y respeto a la jerarquía establecida en el club o entidad deportiva.
+
+e. Se han establecido una comunicación y relación eficaz con el técnico responsable de la actividad y los miembros del equipo, manteniendo un trato fluido y correcto.
+
+f. Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante o imprevisto que se presente en la actividad.
+
+g. Se ha demostrado un comportamiento ético con los deportistas y los adversarios, en especial en presencia de los medios de comunicación.
+
+5\. Participa en el diseño y equipamiento de vías de escalada de competición y en roca, analizando las condiciones y aplicando procedimientos específicos.
+
+a. Se han analizado las características del muro, en un supuesto práctico debidamente caracterizado, identificando las posibilidades y limitaciones en el diseño de vía o rutas.
+
+b. Se ha realizado el diseño, de forma justificada, de una vía, en un supuesto práctico en el que se determine la disciplina, el nivel de dificultad, características de los usuarios.
+
+c. Se ha realizado el montaje de una vía de escalada, en un supuesto práctico debidamente caracterizado en el que se determine la disciplina, el nivel de dificultad, características de los usuarios.
+
+d. Se ha realizado el testeo y se fundamenta la valoración en un supuesto práctico de vía de escalada.
+
+6\. Participa en la gestión de la escuela de escalada del centro deportivo de prácticas, elaborando programaciones de referencia de acuerdo con las características de los deportistas y de los objetivos del centro de prácticas, teniendo en cuenta los recursos existentes, tanto humanos como materiales.
+
+a. Se han identificado los fundamentos del proyecto educativo y deportivo de la escuela de escalada del centro deportivo de prácticas.
+
+b. Se han analizado los procedimientos existentes para cubrir el riesgo de accidente en las actividades de la escuela de escalada del centro deportivo de prácticas.
+
+c. Se ha descrito las pautas de actuación en la asignación de tareas a realizar por el personal de la escuela de escalada del centro deportivo de prácticas, teniendo en cuenta las características de los grupos implicados.
+
+d. Se han descrito las pautas de actuación en la coordinación de los técnicos deportivos de la escuela de escalada del centro deportivo de prácticas, en función de los objetivos de la escuela.
+
+e. Se ha valorado la capacidad de comunicación y las habilidades interpersonales de los técnicos de la escuela de escalada del centro deportivo de prácticas.
+
+f. Se ha identificado la normativa laboral de aplicación en la escuela de escalada del centro deportivo de prácticas.
+
+g. Se han analizado las condiciones de uso del rocódromo o espacio natural utilizado por la escuela de escalada del centro deportivo de prácticas.
+
+h. Se han analizado los protocolos de seguridad utilizados por la escuela del centro deportivo de prácticas, en el uso del rocódromo o el espacio natural.
+
+i. Se han aplicado las normas de utilización del rocódromo, del espacio natural y de los materiales de la escuela de escalada del centro deportivo de prácticas.
+
+j. Se ha colaborado en los procedimientos administrativos básicos de selección, compra o alquiler del material de la escuela de escalada del centro deportivo de prácticas.
+
+7\. Organiza y gestiona competiciones y eventos propios del nivel de la iniciación y la tecnificación deportiva, y colabora en los de alto nivel, participando en la gestión y diseño de la competición, aplicando criterios de sostenibilidad.
+
+a. Se ha propuesto la estructura y las funciones que se deben desempeñar en la organización de una competición o evento de tecnificación en escalada.
+
+b. Se han definido y aplicado los criterios de sostenibilidad en la organización de una competición o evento de tecnificación en escalada.
+
+c. Se han localizado y gestionado las posibles ayudas a la esponsorización del deporte femenino en la modalidad de escalada.
+
+d. Se ha gestionado la financiación de la organización de una competición o evento de tecnificación en escalada.
+
+e. Se ha realizado la gestión y difusión de los resultados de una competición o evento de escalada.
+
+f. Se ha participado en la gestión de personal y medios materiales de las diferentes áreas o comités de la organización de una competición o evento de escalada.
+
+g. Se ha colaborado en la organización y realización de actos protocolarios de apertura, entrega y clausura de una competición o evento de escalada.
+
+h. Se han tomado las medidas de seguridad y de atención a las emergencias, en la organización de una competición o evento de tecnificación en escalada.
+
+i. Se ha actuado de manera flexible y adaptable a las circunstancias en la organización de la competición, respetando los protocolos y directrices establecidas.
+
+j. Se ha contactado con la federación para la dotación de árbitros y especialistas de las competiciones de escalada (aseguradores, equipadores).
+
+8\. Orienta a los deportistas de alto nivel, y organiza, acompaña y dirige a los escaladores en su participación en actividades, competiciones y otros eventos internacionales o de alto nivel en escalada, y, aplicando la normativa relacionada.
+
+a. Se ha informado a los escaladores de alto nivel de la normativa que les afecta y los programas de ayuda que existen a nivel nacional y autonómico.
+
+b. Se ha orientado a los escaladores de alto nivel sobre las salidas profesionales de su actividad deportiva, y de la importancia de mantener una formación académica o profesional paralelas a la vida deportiva.
+
+c. Se ha revisado e informado a los escaladores de la normativa antidopaje de aplicación en las competiciones internacionales o de alto nivel en las que se participa.
+
+d. Se ha realizado la inscripción del escalador o grupo de escaladores en una competición internacional o de alto nivel en escalada, de acuerdo con los protocolos y normas establecidos.
+
+e. Se han realizado las operaciones de gestión del seguro de accidente y actividad de un grupo de escaladores, que participan en una competición internacional o de alto nivel, de acuerdo con las instrucciones y normas recibidas.
+
+f. Se ha reconocido y justificado la responsabilidad de un técnico en los desplazamientos de los escaladores para asistir a una competición internacional o de alto nivel.
+
+g. Se ha elaborado el plan de viaje de un escalador o grupo de escaladores para su participación en una competición internacional o de alto nivel, aplicando las instrucciones y procedimientos establecidos.
+
+h. Se ha informado al escalador de las características de la competición internacional o de alto nivel, interpretando la documentación sobre la misma.
+
+i. Se han trasladado al escalador las instrucciones técnicas y tácticas para la competición internacional o de alto nivel, teniendo en cuenta las características de la competición y del deportista.
+
+j. Se ha acompañado a los deportistas en las competiciones internacionales o de alto nivel, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
+
+k. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición internacional o de alto nivel de escalada, aplicando los procedimientos adecuados y respetando las normas de la misma.
+
+l. Se han aplicado procedimientos de reclamación en una competición internacional o de alto nivel en escalada, utilizando el idioma adecuado, aplicando los protocolos y normas establecidos.
+
+9\. Planifica el entrenamiento a largo, medio y corto plazo de los escaladores, interpretando la información del deportista y del entorno, coordinando el equipo de especialistas, y aplicando los modelos, procedimientos y técnicas más adecuados.
+
+a. Se ha colaborado en la elaboración del programa de detección, identificación y selección de talentos deportivos en escalada del centro deportivo de prácticas.
+
+b. Se han aplicado criterios de detección, identificación y selección de talentos deportivos en escalada, en el centro deportivo de prácticas.
+
+c. Se ha seleccionado e interpretado la información del escalador del centro deportivo de prácticas y de su entorno, necesarias en la elaboración de la programación a largo plazo.
+
+d. Se ha elaborado la programación de un ciclo de preparación completa del escalador, de acuerdo con los modelos utilizados en el centro deportivo de prácticas e identificando las dinámicas de carga de los diferentes factores de rendimiento deportivo en escalada.
+
+e. Se han aplicado instrumentos de valoración de la condición física o condicional del escalador interpretando y, en su caso, tratando la información resultante.
+
+f. Se han elaborado y aplicado instrumentos de registro del comportamiento técnico–táctico en entrenamiento y competición del escalador, interpretando y, en su caso, tratando la información resultante.
+
+g. Se han aplicado instrumentos de valoración del perfil psicológico del escalador y de su comportamiento durante la competición, interpretando y, en su caso, tratando la información resultante.
+
+h. Se ha elaborado la programación de un periodo de preparación completa de los diferentes factores de rendimiento (condicionales, técnicos, psicológicos, etc.) del escalador, de acuerdo con la planificación del centro de prácticas y los objetivos y características del escalador o equipo.
+
+i. Se ha registrado, cuantificado y procesado la información sobre la carga de entrenamiento de un escalador del centro deportivo de prácticas.
+
+j. Se han asignado objetivos y medios de trabajo al equipo de técnicos especialistas en ciencias aplicadas al deporte, dentro de la planificación y programación del entrenamiento del escalador.
+
+k. Se han incorporado las aportaciones de los técnicos especialistas en ciencias aplicadas al deporte, en la planificación y programación del entrenamiento del escalador.
+
+l. Se ha mostrado una actitud de rigor y objetividad en la aplicación de los instrumentos de valoración utilizados.
+
+10\. Organiza y dirige el entrenamiento de los escaladores o equipo, coordinando equipos de técnicos especialistas, aplicando los medios y métodos específicos de entrenamiento, diseñando y equipando vías o rutas de escalada, y aplicando las nuevas tecnologías al registro del entrenamiento y la competición.
+
+a. Se ha gestionado el equipo de técnicos especialistas, demostrando liderazgo y potenciando la comunicación entre el equipo del centro deportivo de prácticas y el técnico.
+
+b. Se han aplicado medios y métodos de entrenamiento de los diferentes factores condicionales, y elegido las tareas de acuerdo con la programación del centro deportivo de prácticas.
+
+c. Se han elaborado y dirigido sesiones integradas de entrenamiento condicional, técnico, táctico y psicológico de la escalada en roca y en disciplinas de competición, de acuerdo con la programación del centro deportivo de prácticas.
+
+d. Se han diseñado, equipado y montado vías o rutas de escalada, de acuerdo con los objetivos de la sesión integrada de entrenamiento.
+
+e. Se han identificado y solucionado las contingencias que hayan surgido durante la sesión de entrenamiento del escalador.
+
+f. Se ha adaptado el trabajo de la sesión a las condiciones reales del escalador.
+
+g. Se han tenido en cuenta las lesiones más frecuentes en escalada y sus medidas preventivas, en la dirección de la sesión de entrenamiento.
+
+h. Se han elaborado y aplicado instrumentos de registro audiovisual del comportamiento técnico–táctico: en entrenamiento y competición, del escalador, interpretando y, en su caso, editando los registros realizados.
+
+i. Se han utilizado durante la sesión de entrenamiento del escalador los registros audiovisuales del entrenamiento o la competición.
+
+j. Se ha colaborado en la organización y dirección de una concentración de preparación, seleccionando los medios y la logística adecuados a la situación del centro deportivo de prácticas.
+
+k. Se ha mantenido una actitud motivadora y empática con el escalador durante la dirección de la concentración de preparación o la sesión de entrenamiento.
+
+11\. Colabora en el establecimiento de las ayudas ergogénicas y de los planes de trabajo complementario del escalador lesionado, aplicando los medios, métodos y procedimientos establecidos.
+
+a. Se ha programado el trabajo complementario de un escalador lesionado, teniendo en cuenta la programación del centro deportivo de prácticas.
+
+b. Se han valorado las pautas alimentarias de los escaladores del centro deportivo de prácticas.
+
+c. Se han propuesto medidas de formación sobre alimentación deportiva a los escaladores del centro deportivo de prácticas.
+
+d. Se han identificado las manifestaciones de fatiga durante el entrenamiento y la competición del escalador del centro deportivo de prácticas.
+
+e. Se han propuesto y aplicado medidas de recuperación de la fatiga de acuerdo con las posibilidades del centro deportivo de prácticas.
+
+f. Se ha colaborado en la prescripción y administración de ayudas ergogénicas en escaladores del centro deportivo de prácticas.
+
+g. Se ha informado al escalador de los riesgos y consecuencias en la salud, del uso de sustancias dopantes.
+
+h. Se ha mostrado una actitud de juego limpio y respeto por la salud del escalador en especial en lo referido al uso de sustancias dopantes.
+
+12\. Participa en la formación de técnicos deportivos, revisando a la organización académica y curricular del centro, impartiendo clases y colaborando en la tutorización de los módulos de Formación práctica y Proyecto final.
+
+a. Se han identificado el tipo de centro docente de prácticas, el tipo de vinculación con la administración y la normativa que le es de aplicación a efectos de organización y funcionamiento.
+
+b. Se han identificado las responsabilidades del profesor especialista en escalada y del técnico deportivo superior en escalada, en la formación de los técnicos en la modalidad.
+
+c. Se han concretado los elementos de la programación didáctica de un módulo del bloque específico, atendiendo a su normativa de ordenación, a las características del alumnado, y el contexto del centro docente de prácticas.
+
+d. Se ha diseñado y colaborado en la realización de una presentación (de tareas y contenidos), atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características de los alumnos del centro docente de prácticas.
+
+e. Se ha colaborado en el diseño y dirección de una sesión de trabajo práctico o procedimental, atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características de los alumnos del centro docente de prácticas.
+
+f. Se ha participado en el proceso de evaluación de los alumnos del centro docente de prácticas.
+
+g. Se ha tenido en cuenta la aplicación efectiva del principio de Igualdad de oportunidades entre mujeres y hombres a la hora de seleccionar los recursos didácticos en la docencia del módulo específico de enseñanzas deportivas en escalada.
+
+h. Se han previsto y preparado de antemano recursos didácticos alternativos frente a posibles incidencias, incluyendo la atención a personas con discapacidad, en la dirección de la sesión del módulo específico de enseñanzas deportivas en escalada.
+
+i. Se han identificado las condiciones de seguimiento y tutorización de los distintos módulos del bloque específico de los ciclos inicial de grado medio en senderismo, y final de grado medio en escalada, presenciales y a distancia, establecidos en el centro docente de prácticas.
+
+j. Se ha participado en el establecimiento de contactos y convenios con las entidades colaboradoras en el módulo de formación práctica en el centro docente de prácticas.
+
+k. Se han utilizado aplicaciones informáticas específicas en supuestos de gestión y seguimiento del módulo de formación práctica en el centro docente de prácticas.
+
+l. Se ha colaborado en la elaboración de informes de evaluación del módulo de formación práctica.
+
+m. Se ha participado en el asesoramiento y control de entrevistas y tutorías personalizadas en la dirección de proyectos dentro del centro docente de prácticas.
+
+> Se numera como Anexo III.k por el art. 9.4.l) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO IV — Ratio profesor/alumno
+
+|  | Ratio profesor/alumno |
+|---|---|
+| MED–MOAM302 Perfeccionamiento técnico en alta montaña. | 1/5 |
+| MED–MOAM303 Guiado en alta montaña. | 1/5 |
+| MED–MOAM304 Escalada en hielo. | 1/5 |
+| MED–MOAM305 Esquí de montaña. | 1/5 |
+| MED–MOAM306 Preparación física del deportista de alta montaña. | 1/30 |
+| MED–MOAM307 Proyecto final. | 1/10 |
+| MED–MOAM308 Formación práctica. | 1/5 |
+| MED–MORO309 Planificación en escalada deportiva. | 1/5 |
+| MED–MORO310 Entrenamiento en escalada. | 1/5 |
+| MED–MORO311 Organización de eventos de escalada. | 1/30 |
+| MED–MORO312 Escuela de escalada. | 1/30 |
+| MED–MORO313 Proyecto final. | 1/10 |
+| MED–MORO314 Formación práctica. | 1/5 |
+
+## ANEXO V — Acceso módulo formación práctica
+
+| Acceso módulo formación práctica | Módulos a superar |
+|---|---|
+| MED–MOAM308 Formación práctica. | Del bloque común.<br>– MED–C301. Factores fisiológicos del alto rendimiento.<br>– MED–C303. Formación de formadores deportivos.<br>Del bloque específico.<br>– MED–MOAM302 Perfeccionamiento técnico en alta montaña.<br>– MED–MOAM303 Guiado en alta montaña.<br>– MED–MOAM304 Escalada en hielo.<br>– MED–MOAM305 Esquí de montaña. |
+| MED–MORO314 Formación práctica. | Del bloque común.<br>– MED–C301. Factores fisiológicos del alto rendimiento.<br>– MED–C303. Formación de formadores deportivos.<br>Del bloque específico.<br>– MED–MORO309 Planificación en escalada deportiva.<br>– MED–MORO310 Entrenamiento en escalada. |
+
+## ANEXO VI — Espacios y equipamientos mínimos de los ciclos de grado superior. Espacios: ciclos de grado superior
+
+| Espacio formativo | Superficie m<sup>2</sup><br>30 alumnos | Superficie m<sup>2</sup><br>20 alumnos | Módulo de enseñanza deportiva |
+|---|---|---|---|
+| Aula polivalente. | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
+| Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común.<br>MED–MOAM306 Preparación física del deportista de alta montaña.<br>MED–MORO310 Entrenamiento en escalada. |
+
+| Espacio formativo | Módulo de enseñanza deportiva |
+|---|---|
+| – Terrenos de alta montaña con desniveles superiores a los 600 metros.<br>– Terreno nevado continuo.<br>– Áreas boscosas y áreas despejadas de bosque. | MED–MOAM302 Perfeccionamiento técnico en alta montaña.<br>MED–MOAM303 Guiado en alta montaña.<br>MED–MOAM305 Esquí de montaña.<br>MED–MOAM306 Preparación física del deportista de alta montaña. |
+| – Resaltes de hielo con 70% de inclinación como mínimo. | MED–MOAM304 Escalada en hielo. |
+| – Zona natural de escalada en roca de un desnivel mínimo de 200 metros.<br>– Rocódromo de seis metros de altura mínima. | MED–MORO309 Planificación en escalada deportiva.<br>MED–MORO310 Entrenamiento en escalada.<br>MED–MORO311 Organización de eventos de escalada.<br>MED–MORO312 Escuela de escalada. |
+| – Estación de deportes de esquí. | MED–MOAM305 Esquí de montaña. |
+
+Equipamientos: ciclos de grado superior
+
+| Equipamiento del aula polivalente | Módulo de enseñanza deportiva |
+|---|---|
+| Equipos audiovisuales. Cañón de proyección.<br>PCs instalados en red con conexión a Internet.<br>Software específico. | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
+
+| Equipamiento del gimnasio | Módulo de enseñanza deportiva |
+|---|---|
+| – Balones medicinales (3kg, 4kg, 5kg).<br>– Colchonetas.<br>– Mancuernas de diferentes pesos.<br>– Barras de levantamientos.<br>– Discos (diversos pesos).<br>– Bancos para ejercicios de musculación: horizontal, inclinado y/o reclinable.<br>– Balones inflables 65cm.<br>– Gomas elásticas.<br>– Espalderas.<br>– Bancos suecos. | Módulos de enseñanza deportiva de los bloques común.<br>MED–MOAM306 Preparación física del deportista de alta montaña<br>MED–MORO310 Entrenamiento en escalada |
+
+| Equipamiento de los módulos del bloque específico | Módulo de enseñanza deportiva |
+|---|---|
+| – Equipos de radio o tele comunicaciones según su ubicación. En número y características a las necesidades del profesorado y del terreno.<br>– Equipos de grabación y reproducción de video.<br>– Material de orientación:<br>– Balizas móviles de orientación.<br>– Brújulas de plano con limbo móvil.<br>– Aparatos de GPS.<br>– Programa oficial de trabajo de rutas de GPS en ordenadores.<br>– Cuerdas dinámicas homologadas para escalada en simple en roca. Mínimo 1000 metros. Según norma EN892.<br>– Cuerdas dinámicas homologadas para escalada en doble en roca. Mínimo 1.500 metros. Según norma EN892.<br>– Cuerdas homologadas para maniobras de rescate en actividades de montaña y escalada. Mínimo 1000 metros.<br>– Cuerdas y cordinos auxiliares para escalada. Mínimo 1000 metros. Según norma EN565.<br>– 8 equipos personales de vías ferratas.<br>– 16 cascos homologados para escalada.<br>– 16 arneses de escalada.<br>– 8 poleas según norma UNE–EN 12278:2007<br>– 8 bloqueadores según normativa vigente.<br>– Un taladro autónomo para realizar barrenas en roca de hasta 16 mm de diámetro.<br>– Mosquetones.<br>• 16 mosquetones HMS.<br>• 50 mosquetones de seguridad para actividades de escalada y alpinismo. según normativa.<br>• 70 cintas exprés de escalada en roca según normativa de referencia.<br>• 24 cintas exprés disipadoras para escalada en hielo.<br>– 8 aseguradores mecánicos para cuerda simple.<br>– 8 aseguradores dinámicos para cuerda doble.<br>– 2 juegos completos de friends.<br>– 2 juegos completos de microfiends.<br>– 2 juegos completos de empotradores.<br>– 4 tipos de plomos para escalada artificial.<br>– 4 tipos de ganchos para escalada artificial.<br>– 4 juegos de estribos para escalada artificial | Todos los módulos de los bloques específicos. |
+| – 24 tornillos de nieve según normativa de referencia.<br>– Anclas de nieve, por lo menos de dos tipos diferentes y según normativa de referencia.<br>– 8 estacas de nieve según normativa de referencia.<br>– 8 piolets clásicos.<br>– 8 parejas de piolets técnicos.<br>– 8 pares de crampones semi o automáticos.<br>– 8 equipos completos para rescate de víctimas de avalanchas. (ARVA 3 antenas, pala y sonda).<br>– 1 Sonda medidora de profundidad.<br>– 1 termómetro para nieve,<br>– 16 capas de diámetros y diferentes granos de nieve.<br>– 16 lupas de nieve. | MED–MOAM302 Perfeccionamiento técnico en alta montaña.<br>MED–MOAM303 Guiado en alta montaña.<br>MED–MOAM305 Esquí de montaña.<br>MED–MOAM306 Preparación física del deportista de alta montaña.<br>MED–MOAM304 Escalada en hielo. |
+
+## ANEXO VII — Prueba RAE–MOAM301, de carácter específico para el acceso a las enseñanzas de ciclo de grado superior en alta montaña
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Prepara las pruebas de resistencia y descenso con esquís de montaña, seleccionando y colocando el material específico y aplicando protocolos de revisión e inspección de los materiales.
+
+– Se ha seleccionado el material técnico personal, justificando su idoneidad a las características de la prueba.
+
+– Se ha comprobado que el material que se ha elegido es adecuado a las exigencias técnicas y de seguridad de la prueba.
+
+– Se ha demostrado que el material está homologado para su uso en esquí de montaña.
+
+– Se ha colocado y organizado el equipo personal en su mochila, de manera que permita su transporte y uso de forma segura y eficaz durante la realización de la prueba.
+
+– Se ha colocado el material de esquí de montaña de manera adecuada para la realización de la prueba.
+
+Prueba asociada: «Prueba de equipo técnico y personal».
+
+– El aspirante llevará el siguiente material mínimo:
+
+– Esquís de montaña.
+
+– Botas de esquí de montaña.
+
+– Fijaciones de esquí de montaña.
+
+– Bastones de esquí de montaña.
+
+– Pieles de foca.
+
+– Cuchillas.
+
+– ARVA (DVA), pala y sonda.
+
+– Mochila.
+
+– Botiquín.
+
+– Crampones.
+
+– Piolet.
+
+– Arnés.
+
+– Una cinta y mosquetón de seguridad HMS.
+
+– Equipamiento invernal adecuado al esquí de montaña.
+
+– El aspirante se colocará el material de manera adecuada para poder realizar el itinerario descrito.
+
+2\. Progresa por un itinerario de esquí de montaña, ejecutando las técnicas específicas adecuadas al nivel de exigencia y a la seguridad de la prueba.
+
+– Se ha superado un itinerario de esquí de montaña de 1.500 metros de desnivel positivo y un máximo de 12 kilómetros de longitud real, utilizando las técnicas de progresión adecuadas y respetando los protocolos de seguridad.
+
+– Se ha superado el itinerario marcado en un tiempo inferior o igual al establecido por el tribunal.
+
+– Se ha portado la mochila durante todo el itinerario, manteniendo el peso mínimo de 10 kg durante todo el recorrido.
+
+– Se han realizado las 2 transiciones establecidas en el desarrollo de la prueba, utilizando la técnica adecuada.
+
+Prueba asociada: «Prueba de resistencia con esquís de montaña».
+
+– Cargados con la mochila que ha confeccionado el aspirante con un peso mínimo de 10 kg, se completará un recorrido con esquís de montaña, con un desnivel positivo de 1.500 metros y un máximo de 12 kilómetros de longitud real, durante el recorrido se realizan, al menos, dos transiciones para el cambio de material y se realizará mayoritariamente sobre nieve no tratada.
+
+– El tiempo de realización de la prueba será el establecido por el tribunal y se calculará teniendo en cuenta que la velocidad de desplazamiento será de un mínimo de 600 metros de desnivel positivo por hora, transiciones incluidas.
+
+– El tribunal deberá comprobar y podrá ajustar el tiempo establecido de acuerdo con los criterios anteriores mediante un abridor que realizará el recorrido en las mismas condiciones de material y mochila que los aspirantes. Este tiempo podrá ser incrementado, a criterio del tribunal, en un máximo de un 20%, para lo que tendrá en cuenta las condiciones del recorrido y las condiciones meteorológicas existentes.
+
+3\. Realiza un descenso con esquí de montaña fuera de las pistas sobre nieve no tratada, ejecutando las técnicas específicas adecuadas al nivel de exigencia y a la seguridad de la prueba.
+
+– Se ha superado un descenso con esquís de montaña, por una zona de fuera pista, con pendientes de entre 30° y 40° de inclinación media y 100 mts mínimo de desnivel, utilizando las técnicas de progresión adecuadas y respetando los protocolos de seguridad.
+
+– Se ha superado el descenso en un tiempo inferior al establecido por el tribunal.
+
+– Se han realizado un mínimo de seis virajes de acuerdo con la orografía de la bajada y utilizando la técnica adecuada.
+
+– Se ha portado la mochila durante todo el itinerario, manteniendo el peso mínimo de 10 kg durante todo el recorrido.
+
+– Se ha mantenido el control de la trayectoria durante el descenso.
+
+Prueba asociada: «Prueba de descenso en esquí de montaña».
+
+– El aspirante realizará dos descensos en esquí con virajes, con las siguientes características:
+
+– Nieves no tratadas (fuera de pista) de mínimo 100 metros de desnivel y pendiente de entre 30° a 40° grados de inclinación media, preferentemente variado en cuanto a calidad de nieve e inclinación.
+
+– Llevará la mochila de 10 kg que ha usado durante la prueba de resistencia.
+
+– Se recomienda que la prueba de descenso se realice después y en la misma jornada que la prueba de «Resistencia con esquís de montaña».
+
+– Se utilizará el mismo material de esquí de montaña que en la prueba de resistencia.
+
+– El tiempo de realización de la prueba será el establecido por el tribunal, que deberá comprobar y podrá ajustar el tiempo establecido de acuerdo con las condiciones del recorrido y las condiciones meteorológicas establecidas.
+
+4\. Prepara la prueba de progresión con crampones y piolet sobre hielo en terreno variado, usando el material específico para la misma y contando con los protocolos de revisión e inspección de los materiales.
+
+– Se ha seleccionado el material técnico personal, justificando su idoneidad a las características de la prueba.
+
+– Se ha comprobado que el material que se ha elegido es adecuado a las exigencias técnicas y de seguridad de la prueba.
+
+– Se ha demostrado que el material está homologado para su uso en alta montaña.
+
+– Se ha colocado y organizado el equipo personal de manera que permita su transporte y uso de forma segura y eficaz durante la realización de la prueba.
+
+Prueba asociada: «Prueba de equipo técnico y personal».
+
+– El aspirante llevará el siguiente material mínimo:
+
+– Crampones de 10 ó más puntas.
+
+– Piolet «clásico» «T».
+
+– Arnés.
+
+– Casco.
+
+– Botas rígidas de alta montaña.
+
+– Equipamiento de montaña invernal.
+
+– El aspirante se colocará el material de manera adecuada para poder realizar el circuito descrito.
+
+5\. Progresa por un itinerario en hielo de pendiente variada entre 35° y 45°, ejecutando la técnica de todas las puntas y un solo piolet.
+
+– Se ha superado el itinerario de subida, travesía y bajada en terreno de hielo, con una pendiente en los tramos de subida y bajada de entre 35° y 45°, en un tiempo inferior al establecido por el tribunal.
+
+– Se ha utilizado durante todo el itinerario la técnica de todas las puntas y uso de un solo piolet, adaptándola a las características del terreno.
+
+– Se ha utilizado el piolet «clásico» como bastón, barandilla, tomado por la cruz y el mango, apoyando el regatón, con variedad de técnicas adaptadas a la situación del circuito.
+
+– Se ha superado el itinerario sin caídas y sin que el asegurado quede en tensión con la cuerda.
+
+– Se ha superado el itinerario sin perder ninguna pieza del material que lleva.
+
+– Se ha realizado el itinerario en un tiempo inferior al establecido por el tribunal.
+
+Prueba asociada: «PRueba de progresión con crampones y piolet en circuito de todas las puntas».
+
+– El aspirante realizará un circuito en terreno de hielo con las siguientes características:
+
+– Será un terreno de hielo.
+
+– Las pendientes del circuito serán de entre 35° a 45°.
+
+– El circuito constara de subida, travesía y bajada.
+
+– Durante la realización de la prueba el aspirante irá asegurado en polea sin permitirle quedarse en tensión con la cuerda.
+
+– El tiempo de realización de la prueba será el establecido por el tribunal, que deberá comprobar y podrá ajustar el tiempo establecido de acuerdo con las condiciones del recorrido y las condiciones meteorológicas establecidas.
+
+6\. Prepara la prueba de progresión en cascada de hielo con técnica frontal, usando el material específico para la misma y contando con los protocolos de revisión e inspección de los materiales.
+
+– Se ha seleccionado el material técnico personal, justificando su idoneidad a las características de la prueba.
+
+– Se ha comprobado que el material que se ha elegido es adecuado a las exigencias técnicas y de seguridad de la prueba.
+
+– Se ha demostrado que el material está homologado para su uso en escalada en hielo.
+
+– Se ha colocado y organizado el equipo personal de manera que permita su transporte y uso de forma segura y eficaz durante la realización de la prueba.
+
+Prueba asociada: «Prueba de equipo técnico y personal».
+
+– El aspirante llevará el siguiente material:
+
+– Crampones con puntas frontales.
+
+– 2 Piolets de escalada en hielo sin dragoneras.
+
+– Bota rígida de alta montaña.
+
+– Arnés.
+
+– Casco.
+
+– Tornillos de hielo.
+
+– Gancho para Abalakov.
+
+– Cintas y cordinos.
+
+– Equipamiento y vestuario de montaña invernal.
+
+– El aspirante se colocará el material de manera adecuada para poder realizar el circuito descrito.
+
+7\. Progresa por un itinerario de escalada en hielo por una cascada de grado cuatro, ejecutando la técnica de puntas frontales y dos piolets.
+
+– Se ha superado un itinerario de escalada en hielo por una cascada de grado cuatro y 20 mts. de longitud.
+
+– Se ha superado el itinerario con técnica de puntas frontales y doble piolet.
+
+– Se ha superado el itinerario sin caídas, escalando de primero y dentro del tiempo establecido por el tribunal.
+
+– Se han colocado todos y cada uno de los seguros fijos de la ruta.
+
+– Se ha superado el itinerario, completando los seguros previstos por el tribunal y colocando dos tornillos de hielo.
+
+– Se ha superado el itinerario sin perder ningún elemento del material.
+
+– Se ha realizado el itinerario en un tiempo inferior al establecido por el tribunal.
+
+Prueba asociada: «Prueba de progresión en cascada de hielo con técnica frontal».
+
+– El aspirante realizará un itinerario de escalada en hielo de grado cuatro de dificultad, de un mínimo 20 mts de longitud, y escalando de primero. El aspirante deberá colocar 2 tornillos de hielo.
+
+– El tribunal establece los seguros fijos que conforman la ruta que el alumno debe realizar.
+
+– El tiempo de realización de la prueba será el establecido por el tribunal, que deberá comprobar y podrá ajustar el tiempo establecido de acuerdo con las condiciones del recorrido y las condiciones meteorológicas establecidas.
+
+## ANEXO VIII — Requisitos del profesorado de los módulos del bloque común de los ciclos de grado superior, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad que a continuación se detalla:
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<p class="cabeza_tabla">Ciclo de Grado Superior</p>
+</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">MED–C301 Factores fisiológicos del alto rendimiento.</td>
+<td class="cuerpo_tabla_izq">– Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">MED–C302 Factores Psicosociales del alto rendimiento.</p>
+<p class="cuerpo_tabla_izq">MED–C303 Formación de formadores deportivos.</p>
+</td>
+<td class="cuerpo_tabla_izq">– Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">– Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED–C304 Organización y gestión aplicada al alto rendimiento.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Educación física.</p>
+<p class="cuerpo_tabla_izq">– Formación y organización laboral.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO IX A — Requisitos de titulación del profesorado de los módulos del bloque específico de los ciclos de grado superior, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<p class="cabeza_tabla">Ciclo de Grado Superior</p>
+</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">MED–MOAM302 Perfeccionamiento técnico en alta montaña.</p>
+<p class="cuerpo_tabla_izq">MED–MOAM303 Guiado en alta montaña.</p>
+<p class="cuerpo_tabla_izq">MED–MOAM304 Escalada en hielo.</p>
+<p class="cuerpo_tabla_izq">MED–MOAM305 Esquí de montaña.</p>
+<p class="cuerpo_tabla_izq">MED–MOAM306 Preparación física del deportista de alta montaña.</p>
+<p class="cuerpo_tabla_izq">MED–MOAM307 Proyecto final.</p>
+</td>
+<td class="cuerpo_tabla_izq">– Educación Física con el título de Técnico Deportivo Superior en Alta Montaña.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">– Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED–MOAM308 Formación práctica.</td>
+<td class="cuerpo_tabla_izq">– Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">– Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">MED–MORO309 Planificación en escalada deportiva.</p>
+<p class="cuerpo_tabla_izq">MED–MORO310 Entrenamiento en escalada.</p>
+<p class="cuerpo_tabla_izq">MED–MORO311 Organización de eventos de escalada.</p>
+<p class="cuerpo_tabla_izq">MED–MORO312 Escuela de escalada.</p>
+<p class="cuerpo_tabla_izq">MED–MORO313 Proyecto final.</p>
+</td>
+<td class="cuerpo_tabla_izq">– Educación Física con el título de Técnico Deportivo Superior en Escalada.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">– Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED–MORO314 Formación práctica.</td>
+<td class="cuerpo_tabla_izq">– Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">– Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO IX B — Condición de Profesor especialista en centros públicos de la administración educativa: Acreditación de experiencia docente, o actividad en el ámbito deportivo y laboral
+
+| Módulos enseñanza deportiva | Experiencia docente acreditable | Actividad en el ámbito deportivo y laboral |
+|---|---|---|
+| MED–MOAM302 Perfeccionamiento técnico en alta montaña.<br>MED–MOAM303 Guiado en alta montaña.<br>MED–MOAM304 Escalada en hielo.<br>MED–MOAM305 Esquí de montaña.<br>MED–MOAM306 Preparación física del deportista de alta montaña.<br>MED–MOAM307 Proyecto final.<br>MED–MOAM308 Formación práctica.<br>MED–MORO309 Planificación en escalada deportiva.<br>MED–MORO310 Entrenamiento en escalada.<br>MED–MORO311 Organización de eventos de escalada.<br>MED–MORO312 Escuela de escalada.<br>MED–MORO313 Proyecto final.<br>MED–MORO314 Formación práctica. | Al menos 100 horas de docencia acreditada en formación de entrenadores en el nivel 3 de la modalidad o especialidad deportiva correspondiente en las formaciones a las que se refiere la disposición adicional quinta y la disposición transitoria primera y del Real Decreto 1363/2007, de 24 de octubre, así como de la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre. | Al menos 2 años de ejercicio deportivo laboral relacionado con las competencias profesionales del ciclo superior correspondiente, realizado en los 4 años inmediatamente anteriores al nombramiento. |
+
+En el caso de las formación a las que se refiere la adicional quinta del RD 1363/2007, de 24 de octubre, la Federación Española de Deportes de Montaña y Escalada, emitirá la correspondiente certificación de la experiencia docente en la que conste: las materias impartidas, el número de horas impartidas, la fecha del curso en el que se impartió la materia o materias, y la fecha de la resolución de reconocimiento de la formación por parte del Consejo Superior de Deportes junto con la fecha de publicación en el BOE.
+
+En el caso de las formaciones a las que se refiere la disposición transitoria primera de los Real Decreto 1913/1997,de 19 de diciembre y Real Decreto 1363/2007, de 24 de octubre el órgano competente de la Comunidad autónoma que autorizó las formaciones emitirá la correspondiente certificación de la experiencia docente en la que consten las materias y el número de horas impartidas.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+La Federación Española de Deportes de Montaña y Escalada emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+## ANEXO X — Los requisitos de titulación del profesorado en centros privados y de titularidad pública de administraciones distintas a la educativa
+
+Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
+
+Módulos del bloque común del ciclo de grado superior:
+
+| Módulo comunes de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED–C301 Factores fisiológicos del alto rendimiento. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>– Licenciado o Graduado en Medicina. |
+| MED–C302 Factores Psicosociales del alto rendimiento. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>– Licenciado o Graduado en Psicología. |
+| MED–C303 Formación de formadores deportivos. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
+| MED–C304 Organización y gestión aplicada al alto rendimiento. | – Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>– Licenciado o Graduado en Derecho. |
+
+Módulos del bloque específico del ciclo de grado superior:
+
+| Módulo específico de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED–MOAM302 Perfeccionamiento técnico en alta montaña.<br>MED–MOAM303 Guiado en alta montaña.<br>MED–MOAM304 Escalada en hielo.<br>MED–MOAM305 Esquí de montaña.<br>MED–MOAM306 Preparación física del deportista de alta montaña.<br>MED–MOAM307 Proyecto final.<br>MED–MOAM308 Formación práctica. | – Técnico Deportivo Superior en Alta Montaña. |
+| MED–MORO309 Planificación en escalada deportiva.<br>MED–MORO310 Entrenamiento en escalada.<br>MED–MORO311 Organización de eventos de escalada.<br>MED–MORO312 Escuela de escalada.<br>MED–MORO313 Proyecto final.<br>MED–MORO314 Formación práctica. | – Técnico Deportivo Superior en Escalada. |
+
+## ANEXO XI — Convalidaciones entre módulos de enseñanza deportiva establecidos al amparo de la Ley Orgánica 1/1990 y los módulos de enseñanza deportiva del bloque específico de los ciclos de grado superior en alta montaña, o escalada regulados en el presente real decreto
+
+La superación de los módulos de la primera columna regulados en el RD 318/2000, de 3 de marzo, conllevan la convalidación de los módulos de enseñanza deportiva de la segunda columna.
+
+| Módulos superados de los títulos de grado superior de los Técnicos de los Deportes de Montaña y Escalada LOGSE (Real Decreto 318/2000, de 3 de marzo) | Módulos convalidados del ciclo de grado superior en alta montaña |
+|---|---|
+| Conducción en alpinismo y esquí de montaña II.<br>Desarrollo profesional del Técnico Deportivo Superior. | MED–MOAM302 Perfeccionamiento técnico en alta montaña.<br>MED–MOAM303 Guiado en alta montaña. |
+| Optimización de las técnicas del alpinismo. | MED–MOAM304 Escalada en hielo. |
+| Formación técnica del esquí de montaña II. | MED–MOAM305 Esquí de montaña. |
+| Entrenamiento del esquí de montaña II. | MED–MOAM305 Esquí de montaña. |
+| Optimización de las técnicas del esquí de montaña. | MED–MOAM305 Esquí de montaña. |
+| Entrenamiento del alpinismo II. | MED–MOAM306 Preparación física del deportista de alta montaña. |
+| Proyecto final. | MED–MOAM307 Proyecto final. |
+| Bloque de formación práctica. | MED–MOAM308 Formación práctica. |
+
+| Módulos superados de los títulos de grado superior de los Técnicos de los Deportes de Montaña y Escalada LOGSE (Real Decreto 318/2000, de 3 de marzo) | Módulos convalidados del ciclo de grado superior en escalada |
+|---|---|
+| Entrenamiento de la escalada II.<br>Optimización de las técnicas de la escalada. | MED–MORO309 Planificación en escalada deportiva.<br>MED–MORO310 Entrenamiento en escalada. |
+| Desarrollo profesional del Técnico Deportivo Superior. | MED–MORO311 Organización de eventos de escalada.<br>MED–MORO312 Escuela de escalada. |
+| Proyecto final. | MED–MORO313 Proyecto final. |
+| Bloque de formación práctica. | MED–MORO314 Formación práctica. |
+
+## ANEXO XII — Exención total o parcial del módulo de formación práctica de los ciclos de grado superior
+
+| MED–MOAM308 Formación práctica | Experiencia ámbito laboral o deportivo |
+|---|---|
+| Exención total.<br>Exención parcial. | Duración: Superior a 400 horas.<br>Actividad desarrollada: Experiencia relacionada con la competencia general del ciclo de grado superior en alta montaña.<br>Periodo de tiempo que ha desarrollado la actividad: Dos años anteriores a la finalización del curso. |
+
+| MED–MORO314 Formación práctica | Experiencia ámbito laboral o deportivo |
+|---|---|
+| Exención total.<br>Exención parcial. | Duración: Superior a 400 horas.<br>Actividad desarrollada: Experiencia relacionada con la competencia general del ciclo de grado superior en escalada.<br>Periodo de tiempo que ha desarrollado la actividad: Dos años anteriores a la finalización del curso. |
+
+La exención parcial del módulo de formación práctica, se concederá para aquellos resultados de aprendizaje del módulo, que sean concordantes con la experiencia laboral o deportiva acreditada.
+
+La exención total del módulo de formación práctica, se podrá conceder cuando exista una completa concordancia de la experiencia laboral o deportiva acreditada con la totalidad de los resultados de aprendizaje del correspondiente módulo.
+
+La experiencia deportiva se acreditará mediante certificado expedido por la Federación Española de Deportes de Montaña y Escalada, en la que consten los rendimientos obtenidos, la competición o eventos en los que se obtuvieron, y el periodo de tiempo durante el que se mantuvieron.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+## ANEXO XIII — Formación a distancia
+
+|  | Grado superior |
+|---|---|
+| Módulos bloque común. | MED–C301 Factores fisiológicos del alto rendimiento.<br>MED–C302 Factores Psicosociales del alto rendimiento.<br>MED–C303 Formación de formadores deportivos.<br>MED–C304 Organización y gestión aplicada al alto rendimiento. |
+| Módulos bloque específico. | MED–MOAM307 Proyecto final.<br>MED–MORO309 Planificación en escalada deportiva.<br>MED–MORO313 Proyecto final. |

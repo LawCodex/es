@@ -1,0 +1,503 @@
+---
+title: "Real Decreto 2668/1998, de 11 de diciembre, por el que se aprueba el Estatuto del Organismo autónomo Comisionado para el Mercado de Tabacos"
+identifier: "BOE-A-1998-29658"
+eli: "https://www.boe.es/eli/es/rd/1998/12/11/2668"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1998-12-11
+published: 1998-12-23
+in_force_from: 1998-12-24
+last_amended: 2025-07-10
+consolidated: 2026-02-27
+gazette: "Boletín Oficial del Estado núm. 306"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-29658"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2668/1998, de 11 de diciembre, por el que se aprueba el Estatuto del Organismo autónomo Comisionado para el Mercado de Tabacos
+
+Entre las novedades que introduce en el mercado de tabacos la Ley 13/1998, de 4 de mayo, destaca la creación del Organismo autónomo Comisionado para el Mercado de Tabacos del cual, ya desde la propia exposición de motivos de la Ley, se indican sus importantes funciones de índole reguladora o de vigilancia para salvaguardar de manera neutral la aplicación de las condiciones de libre competencia efectiva por parte de los operadores en el mercado de tabacos y le designa como órgano de interlocución y relación con los distintos operadores en dicho mercado y las organizaciones que les representen.
+
+Consecuentemente con ello, el presente Real Decreto desarrolla las indicadas funciones y las demás asignadas al Comisionado fundamentalmente por el artículo 5 de la Ley, con precisa observancia de los preceptos establecidos en la materia por la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, constituyendo el Estatuto del Comisionado cuya promulgación reclama la disposición final primera de la Ley 13/1998, de 4 de mayo, incorporándose al presente cuerpo normativo la regulación de su régimen jurídico, de sus órganos de dirección y de su personal, de sus normas de funcionamiento y de las que atañen a su régimen patrimonial y de contratación, fijándose, por último, las disposiciones de carácter presupuestario, contable y de control que le son de aplicación.
+
+En virtud de lo expuesto, a tenor de la autorización contenida en el artículo 5 y disposición final primera de la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria; de acuerdo con lo previsto en el artículo 62.3 de la Ley 6/1997, de 14 de abril; a propuesta conjunta de los Ministros de Economía y Hacienda y de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de diciembre de 1998,
+
+### DISPONGO:
+
+#### Artículo único. Aplicación del Estatuto.
+
+Se aprueba el Estatuto del Organismo autónomo Comisionado para el Mercado de Tabacos que figura como anexo del presente Real Decreto.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el apartado 3 del artículo 16 del Real Decreto 2738/1986, de 12 de diciembre, por el que se regulan las actividades de importación y distribución mayorista y minorista de labores de tabaco, a partir del momento del cumplimiento de las previsiones de la disposición transitoria tercera de la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria, en relación con la constitución formal del Comité Consultivo del Comisionado.
+
+#### Disposición final primera. Facultad de desarrollo.
+
+Se faculta al Ministro de Economía y Hacienda para dictar las disposiciones necesarias para la aplicación del presente Real Decreto.
+
+#### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente a su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 11 de diciembre de 1998.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno<br> y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+## ANEXO — Estatuto del Organismo autónomo Comisionado para el Mercado de Tabacos
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Naturaleza.
+
+1\. El Comisionado para el Mercado de Tabacos tiene naturaleza de organismo autónomo, de los previstos en la sección 2.ª del capítulo III del título II de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+2\. Su denominación oficial es «Comisionado para el Mercado de Tabacos, O.A.», tiene personalidad jurídica pública propia, autonomía en su gestión, plena capacidad, tesorería y patrimonio propios, actúa en régimen de Derecho Administrativo y está adscrito al Ministerio de Hacienda a través de la Subsecretaría.
+
+> Se modifica por el art. 1.1 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+#### Artículo 2. Régimen jurídico.
+
+1\. Al Comisionado para el Mercado de Tabacos, dentro de la esfera de sus competencias, le corresponden las potestades administrativas precisas para el cumplimiento de sus fines en los términos que prevé el presente Estatuto, de acuerdo con la legislación aplicable.
+
+2\. El Comisionado para el Mercado de Tabacos se regirá por lo dispuesto en la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria, y las disposiciones que la desarrollen; la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público; la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; la Ley 47/2003, de 26 de noviembre, General Presupuestaria; la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014; el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre; la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, y por el resto del ordenamiento jurídico.
+
+> Se modifica por el art. 1.2 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+#### Artículo 3. Autonomía de gestión.
+
+1\. El Comisionado ejercerá sus funciones con autonomía de gestión dentro de los límites establecidos por la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, por el presente estatuto y teniendo en cuenta, en todo caso, la garantía del interés público, la neutralidad del mercado, los intereses de tipo comercial, fiscal y sanitario, y la eficacia global de la actividad que a dicho organismo se encomiende.
+
+2\. En todo caso, las funciones del Comisionado no interferirán en los ámbitos competenciales a que se refiere el párrafo segundo del artículo 5.tres de la Ley 13/1998, de 4 de mayo.
+
+> Se modifica por el art. 1.3 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+## CAPÍTULO II — Funciones del Organismo autónomo Comisionado para el Mercado de Tabacos
+
+#### Artículo 4. Funciones.
+
+Son funciones del Comisionado para el Mercado de Tabacos:
+
+a) Actuar como órgano de interlocución y relación con los distintos operadores del mercado de tabacos, ya fueren fabricantes, importadores, mayoristas, expendedurías de tabaco y timbre o puntos autorizados para la venta con recargo, y con las organizaciones que les representen.
+
+b) Vigilar para que los diversos operadores, incluidos los minoristas, en el mercado de tabacos actúen en el marco que respectivamente les corresponde según la Ley 13/1998, de 4 de mayo, y su desarrollo reglamentario, ejerciendo a tal fin las facultades de inspección que sean precisas.
+
+c) Vigilar la calidad de los productos ofertados, de los utilizados en su elaboración y de los aditivos o sustancias incorporados, sin perjuicio del respeto al secreto de la producción industrial. Igualmente, corresponderá al Comisionado la comprobación del contenido y presupuestos de las actividades promocionales y publicitarias.
+
+d) Emitir informes sobre el cumplimiento de los requisitos previstos en la Ley y en su desarrollo reglamentario para el establecimiento de nuevos fabricantes, importadores o mayoristas o para el otorgamiento y revocación de expendedurías de tabaco y timbre.
+
+e) Autorizar el establecimiento, en lugares distintos de expendedurías, de puntos de venta al público con recargo, a tenor de lo establecido en el artículo 4, apartado cinco, de la Ley 13/1998, de 4 de mayo.
+
+f) Ejercer la actividad de mantenimiento de la Red de Expendedurías de Tabaco y Timbre en materia de cambios y modificaciones de emplazamiento, licenciamiento de almacenes y otras actuaciones conexas que sean encomendadas al Comisionado por vía reglamentaria.
+
+g) Vigilar la efectiva aplicación de los criterios sanitarios sobre publicidad, consumo y calidad del tabaco, en colaboración con las demás Administraciones públicas competentes, salvo en lo que sea competencia exclusiva de tales Administraciones.
+
+h) Desarrollar las funciones a que se refiere el artículo 6, apartado dos, de la Ley 13/1998, de 4 de mayo, y su desarrollo reglamentario, en materia de campañas y planes de publicidad.
+
+i) Almacenar y custodiar las labores de tabaco aprehendidas o decomisadas en procedimientos de contrabando y proceder a su destrucción.
+
+j) Ejercer las funciones de arbitraje en los conflictos entre operadores que las partes le encomienden, en cuanto no correspondan a otro órgano de la Administración.
+
+k) Remitir las denuncias que, en su caso, se presenten por presunta violación de los principios y de las reglas de libre competencia en el mercado de tabacos a los órganos competentes para su tramitación y resolución.
+
+l) Ejercer la potestad sancionadora en los términos previstos en la Ley 13/1998, de 4 de mayo, y sus reglamentos de desarrollo.
+
+ll) Elaborar estadísticas, preparar informes y formular propuestas en materias del ámbito de sus competencias.
+
+m) Gestionar los recursos adscritos al Comisionado a que se refieren los artículos 13 y 15 del presente Estatuto.
+
+n) Ejercer las competencias públicas relativas a la distribución física, a través de «Tabacalera, Sociedad Anónima», y de las expendedurías, del timbre del Estado y signos de franqueo. Tales competencias se extenderán, en su caso, a las relativas a la distribución a través de la entidad o entidades a las que se refiere el apartado uno de la disposición adicional sexta de la Ley 13/1998, de 4 de mayo.
+
+Se incluyen en dichas competencias:
+
+1.ª La vigilancia del cumplimiento del plan de suministros de efectos timbrados y del mantenimiento de las adecuadas existencias en la entidad distribuidora.
+
+2.ª El control del proceso de entrega de los efectos a la entidad distribuidora y de ésta a los minoristas. Tal control no será preciso en relación con la entrega de signos de franqueo en general que se realice directamente a la entidad pública empresarial Correos y Telégrafos, si bien este último organismo deberá comunicar cada mes al Comisionado el importe y detalle por emisiones y valores de los retirados en el mes anterior.
+
+3.ª El control del almacenamiento por la entidad distribuidora de los efectos timbrados, pudiendo dictar las disposiciones necesarias que aseguren una correcta conservación del producto y su distribución a las expendedurías, correspondiéndole igualmente la instrucción y resolución de los expedientes incoados por razón de faltas o averías de los efectos.
+
+4.ª El control e inspección de las existencias en expendedurías de los efectos timbrados, instruyendo, en su caso, y resolviendo los expedientes sancionadores que procedan, en el caso de que se apreciase insuficiencia de surtido que afectase al servicio público.
+
+5.ª Nombrar representante del Organismo autónomo en la Comisión de Programación de Emisiones de Sellos y demás Signos de Franqueo.
+
+6.ª Cuantas otras le estaban reconocidas a la Delegación del Gobierno en el Monopolio de Tabacos, o se le reconozcan en el futuro al Comisionado.
+
+ñ) Cualquiera otra que se le atribuya legal o reglamentariamente por no estar encomendada a otro órgano de las Administraciones públicas.
+
+## CAPÍTULO III — Estructura del Organismo autónomo Comisionado para el Mercado de Tabacos
+
+#### Artículo 5. Órganos de gobierno y de Asesoramiento del Organismo autónomo.
+
+1\. Órganos de gobierno: constituyen máximos órganos de gobierno del Comisionado para el Mercado de Tabacos la Presidencia y el Consejo Rector.
+
+2\. Órgano asesor: constituye órgano asesor del Organismo el Comité Consultivo del Comisionado, en el que se incluirá la Comisión Asesora de la Producción a que se refiere el artículo 5, siete, 2, de la Ley de Ordenación del Mercado de Tabacos y Normativa Tributaria, y la Comisión Asesora de Expendedurías, con las funciones establecidas en el último inciso del apartado siete, 1, del artículo 5 de la misma Ley.
+
+> Se modifica el apartado 1 por el art. 1.4 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+#### Artículo 6. La Presidencia.
+
+1\. La persona titular de la Presidencia del Comisionado para el Mercado de Tabacos, O.A., será nombrada y separada por la persona titular del Ministerio de Hacienda, tendrá rango de Subdirección General y le corresponderá la dirección del desarrollo de las actividades del organismo, la fijación de los objetivos de las distintas unidades en los términos establecidos por el presente estatuto y demás normas aplicables. En particular, le corresponderá:
+
+a) La representación legal y en general la dirección del organismo.
+
+b) La resolución de todos los expedientes y procedimientos, incluso los sancionadores, que sean competencia del Organismo, salvo aquellos que correspondan a la persona titular de la Subsecretaría de Hacienda.
+
+c) Ejercer la dirección de personal y de los servicios y actividades del organismo.
+
+d) Elaborar la propuesta de relación de puestos de trabajo, en el marco de los criterios establecidos por el Ministerio de Hacienda, respetando el límite de gasto de personal establecido en el presupuesto.
+
+e) La elaboración del anteproyecto de presupuestos y del plan de actuación del organismo, que se remitirán al Ministerio de Hacienda a través de la Subsecretaría.
+
+f) La contratación del personal no funcionario, previo cumplimiento de la normativa aplicable al respecto.
+
+g) Dictar instrucciones y circulares sobre las materias que sean competencia del organismo.
+
+h) Actuar como órgano de contratación, de acuerdo con lo previsto en el artículo 17 del presente estatuto.
+
+i) Aprobar gastos y ordenar pagos.
+
+j) Ordenar la gestión, administración, liquidación y notificación de la tasa a que se refiere el anexo a la Ley de Ordenación del Mercado de Tabacos y Normativa Tributaria.
+
+k) Resolver los conflictos entre operadores cuyo arbitraje las partes le encomienden.
+
+l) Presidir el Comité Consultivo del organismo autónomo y sus comisiones.
+
+m) En general, ejercer todas aquellas funciones o competencias que, en la ley, en el estatuto o en sus respectivas normas de desarrollo, no se asignen a otro órgano específico.
+
+2\. Las atribuciones de la Presidencia son delegables de conformidad con las disposiciones del ordenamiento jurídico sobre la materia.
+
+3\. Los actos y resoluciones de la Presidencia del Comisionado para el Mercado de Tabacos no pondrán fin a la vía administrativa, siendo recurribles en alzada ante la persona titular del Ministerio de Hacienda, de acuerdo con el artículo 82.uno 3.d) de la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
+
+> Se modifica por el art. 1.5 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+#### Artículo 7. El Consejo Rector.
+
+1\. El Consejo Rector constituye el máximo órgano colegiado de gobierno del Comisionado para el Mercado de Tabacos.
+
+2\. Son miembros del Consejo Rector:
+
+a) La persona titular de la Presidencia del Comisionado para el Mercado de Tabacos, que ejercerá la presidencia del Consejo Rector.
+
+Cuando la persona titular de la Subsecretaría de Hacienda asista a las reuniones del Consejo, ostentará su presidencia. En tales supuestos, la vicepresidencia del Consejo recaerá en la persona titular de la Presidencia del Comisionado para el Mercado de Tabacos.
+
+b) Un número máximo de nueve vocales, que deberán tener rango al menos de subdirector general o asimilado, en representación de los siguientes órganos:
+
+La Secretaría de Estado de Hacienda.
+
+La Secretaría de Estado de Presupuestos y Gastos.
+
+La Secretaría de Estado de Economía y Apoyo a la Empresa.
+
+La Secretaría de Estado de Comercio.
+
+La Subsecretaría del Ministerio de Hacienda.
+
+La Dirección General de Tributos.
+
+El Departamento de Aduanas de la Agencia Estatal de Administración Tributaria.
+
+El Ministerio de Agricultura, Pesca y Alimentación.
+
+El Ministerio de Sanidad.
+
+c) La secretaría corresponderá al titular de la subdirección general del Comisionado para el Mercado de Tabacos que la Presidencia designe. De no designarse expresamente, la secretaría corresponderá a la persona titular de la Secretaría General del organismo, con voz, pero sin voto.
+
+3\. El nombramiento de los miembros del Consejo Rector se efectuará de la misma manera que se prevé para su designación como miembros del Comité Consultivo.
+
+4\. Corresponderán al Consejo Rector las siguientes funciones:
+
+a) El seguimiento y el control de la gestión del organismo.
+
+b) La aprobación de los objetivos y de los indicadores para la medición de su cumplimiento.
+
+c) La aprobación de las memorias anuales y de los informes de actividad.
+
+d) Cualesquiera otras funciones que le confiera el ordenamiento jurídico.
+
+5\. La creación y funcionamiento del Consejo Rector serán atendidos con los medios personales, técnicos y presupuestarios asignados al Comisionado para el Mercado de Tabacos.
+
+Las dietas que pudieran devengarse por asistencia se regirán por lo dispuesto en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio.
+
+6\. En todo aquello no previsto en el presente estatuto, el Consejo Rector se someterá al régimen establecido para los órganos colegiados de la Administración General del Estado y de las entidades de derecho público vinculadas o dependientes de ella en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifica por el art. 1.6 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+#### Artículo 8. Estructura básica del organismo autónomo.
+
+1\. Para el desarrollo de sus funciones, el Comisionado para el Mercado de Tabacos se estructura en los siguientes órganos, dependientes jerárquicamente de la Presidencia:
+
+a) La Secretaría General, con rango de Subdirección General, a la que corresponden las siguientes funciones:
+
+1.ª La jefatura y coordinación de los servicios de contratación, gestión económico-financiera, recursos humanos, régimen interior y el resto de los servicios comunes.
+
+2.ª Ejercer la vicepresidencia del Comité Consultivo.
+
+b) La Subdirección General de Administración del Monopolio de Tabaco y Timbre del Estado, a la que corresponden las siguientes funciones:
+
+1.ª La administración y gestión de la red de expendedurías de tabaco y timbre del Estado, la autorización de los puntos de venta con recargo y la homologación de máquinas expendedoras de productos de tabaco.
+
+2.ª El ejercicio de las funciones públicas relativas a la distribución física del timbre del Estado y signos de franqueo.
+
+3.ª El mantenimiento y actualización de los registros de operadores minoristas, sus instalaciones y máquinas expendedoras.
+
+c) La Subdirección General de Coordinación Jurídica y de Relación con los Operadores, a la que corresponden las siguientes funciones:
+
+1.ª En relación con los operadores mayoristas, la comprobación de las condiciones y requisitos de fabricación, importación y comercio al por mayor de productos de tabaco, de las actividades promocionales o publicitarias de productos de tabaco y el mantenimiento y actualización de los registros de operadores mayoristas, instalaciones y maquinaria.
+
+2.ª El control de los ingredientes, emisiones, etiquetados, envasados, denominaciones y presentaciones de productos de tabaco.
+
+3.ª La gestión del almacenamiento, custodia y destrucción del tabaco y la maquinaria que correspondan al Comisionado para el Mercado de Tabacos conforme a la normativa aplicable.
+
+4.ª La coordinación jurídica y en el ámbito internacional y de la Unión Europea.
+
+d) La Subdirección General de Supervisión, a la que corresponden las siguientes funciones:
+
+1.ª La jefatura y coordinación de las actividades de supervisión e inspección de los operadores competencia del Comisionado para el Mercado de Tabacos.
+
+2.ª La recepción y tramitación de denuncias y solicitudes de iniciación de procedimientos sancionadores competencia del Comisionado para el Mercado de Tabacos.
+
+3.ª La coordinación de las actuaciones previas y de la instrucción y tramitación de los procedimientos sancionadores competencia del Comisionado para el Mercado de Tabacos.
+
+2\. En caso de ausencia, vacante o enfermedad, el titular de la Presidencia será suplido por el titular de la subdirección general que la Presidencia designe y, en su defecto, la suplencia corresponderá al titular de la Secretaría General.
+
+> Se modifica por el art. 1.7 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+#### Artículo 9. Comité Consultivo y Comisiones Asesoras.
+
+1\. En el Organismo autónomo Comisionado para el Mercado de Tabacos se constituirá el Comité Consultivo a que se refiere el artículo 5, siete, de la Ley 13/1998, de 4 de mayo, con la composición que se establece en el artículo 9 del presente Estatuto y las competencias consignadas en el apartado 2 siguiente.
+
+2\. Son funciones del Comité Consultivo las generales de asistencia y asesoramiento al Comisionado en todas las materias relativas al mercado de tabacos, a su organización y funcionamiento y, en particular, las siguientes, que ejercerá emitiendo el correspondiente informe al Comisionado:
+
+a) Informar en relación con las normas que hayan de dictarse regulando el mercado de tabacos en su aspecto organizativo, sanitario y de regulación de la publicidad.
+
+b) Debatir, emitiendo, en su caso, el correspondiente informe, sobre cuestiones que afecten al indicado mercado o sobre aquellas otras respecto de las que pida su parecer el Presidente del Organismo o lo solicite un 20 por 100 de los miembros del Comité.
+
+c) Emitir informe en relación con el cumplimiento de los requisitos previstos en los artículos 2, apartado dos, y 3, apartados dos y tres, de la Ley 13/1998, de 4 de mayo, y su desarrollo reglamentario para el establecimiento de nuevos fabricantes, importadores y mayoristas.
+
+d) Emitir informe en relación con el cumplimiento de los requisitos previstos en el artículo 4, apartados tres y cuatro, de la Ley 13/1998, de 4 de mayo, para el otorgamiento y revocación de expendedurías de tabaco y timbre.
+
+e) Debatir e informar sobre cuestiones centrales de la economía agrícola e industrial del tabaco, haciendo llegar a la Administración, a través del Comisionado, la opinión del sector sobre tales extremos.
+
+3\. El Comité Consultivo funcionará en Pleno y en Comisiones. A tales efectos en su seno se constituirán dos Comisiones Asesoras con competencias plenas en relación con las materias siguientes:
+
+a) La Comisión Asesora de Expendedurías, en relación con las materias a que se refiere el párrafo d) del apartado 2 precedente.
+
+b) La Comisión Asesora de la Producción, en relación con las materias a que se refiere el párrafo e) del apartado 2 anterior.
+
+> Se modifica por el art. 1.8 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+> Su anterior numeración era art. 8.
+
+> Se modifica la letra s) del apartado 1 y se añade el apartado 6 por la disposición final 3 y 4 del Real Decreto 1199/1999, de 9 de julio. [Ref. BOE-A-1999-15353](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-15353).
+
+#### Artículo 10. Composición del Comité Consultivo del Comisionado.
+
+1\. Compondrán el Pleno del Comité:
+
+a) El Presidente del Organismo autónomo.
+
+b) El Vicepresidente del Organismo autónomo.
+
+c) Un representante de la Secretaría de Estado de Hacienda.
+
+d) Un representante de la Secretaría de Estado de Presupuestos y Gastos.
+
+e) Un representante de la Secretaría de Estado de Economía.
+
+f) Un representante de la Secretaría de Estado de Comercio, Turismo y de la Pequeña y Mediana Empresa.
+
+g) Un representante de la Subsecretaría del Ministerio de Economía y Hacienda.
+
+h) Un representante de la Dirección General de Tributos.
+
+i) Un representante del Departamento de Aduanas de la Agencia Estatal de Administración Tributaria.
+
+j) Un representante de las asociaciones empresariales de fabricantes, marquistas, distribuidores e importadores de tabaco elaborado.
+
+k) Un representante de las asociaciones profesionales de expendedores.
+
+l) Un representante de las asociaciones empresariales de autorizados para la venta con recargo.
+
+m) Un representante de los consumidores.
+
+n) Un representante del Ministerio de Agricultura, Pesca y Alimentación.
+
+ñ) Un representante del Ministerio de Sanidad y Consumo.
+
+o) Un representante de las organizaciones que agrupan los intereses profesionales de agricultores del tabaco.
+
+p) Un representante de las organizaciones que agrupan los intereses profesionales de empresas que se dediquen a la primera transformación del tabaco o su importación o exportación en rama.
+
+q) Un representante de los fabricantes peninsulares de tabaco elaborado.
+
+r) Un representante de los fabricantes canarios de tabaco elaborado.
+
+s) Un secretario, representante del Organismo autónomo y designado por su Presidente, que actuará con voz pero sin voto.
+
+2\. Compondrán la Comisión Asesora de la Producción los miembros del Pleno consignados en los párrafos a), b), c), e), j), n), o), p), q), r) y s) del apartado 1 anterior.
+
+3\. Compondrán la Comisión Asesora de Expendedurías los miembros del Pleno consignados en los párrafos a), b), c), f), g), j), k), q), r) y s).
+
+4\. Podrán asistir como asesores, con voz pero sin voto, a las reuniones del Comité Consultivo o de sus comisiones los funcionarios del Organismo autónomo, competentes por razón de las materias a tratar en las diferentes sesiones y que sean al efecto convocados por su Presidente.
+
+5\. No obstante lo dispuesto en el apartado 1 anterior, podrá el Presidente del Comisionado nombrar hasta dos representantes de intereses del sector no comprendidos en la enumeración contenida en dicho apartado o identificados con corrientes minoritarias dentro del mismo.
+
+6\. Los miembros del Comité Consultivo podrán asistir, con voz pero sin voto, a las reuniones de las Comisiones de la Producción y de Expendedurías de las que no sean miembros.
+
+> Se modifica por el art. 1.8 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+> Su anterior numeración era art. 9.
+
+#### Artículo 11. Nombramiento de los miembros del Comité Consultivo.
+
+1\. El nombramiento de los miembros del Comité Consultivo a que hacen referencia los párrafos c) a g) del artículo 9 corresponderá al titular del órgano representado. En el caso de los párrafos h) e i), corresponderá al Secretario de Estado de Hacienda. En el caso del párrafo m), corresponderá al Presidente del Instituto Nacional del Consumo, a propuesta del Consejo de Consumidores y Usuarios. En el caso del párrafo n), corresponderá al Subsecretario de Agricultura, Pesca y Alimentación. En el caso del párrafo ñ), corresponderá al Subsecretario de Sanidad y Consumo.
+
+En los casos de los párrafos c) a i), n) y ñ) a que hace referencia el párrafo anterior, el nombramiento recaerá sobre funcionario con nivel mínimo de Subdirector general y será efectivo hasta tanto no sea revocado.
+
+2\. El nombramiento de los restantes miembros del Comité Consultivo, excluidos Presidente y Vicepresidente, se realizará por el Presidente del Organismo autónomo, previa constatación de la concurrencia de las circunstancias siguientes:
+
+En el caso de los miembros del pleno a que hacen referencia los párrafos j) a l), o) y p) del apartado 1 del artículo anterior, el nombramiento, que será anual, recaerá en el representante de asociaciones o confederaciones de los respetivos intereses que sea predominante en el sector, siempre que supere un 20 por 100 de representatividad del total del sector, lo que se calculará sobre el número de sujetos del colectivo, si éste excediere de 500, o sobre el volumen total de sus ventas si el de sujetos integrantes fuese inferior a tal cifra. En renovaciones posteriores serán nombrados sucesivamente y en orden decreciente de importancia relativa en el sector otros representantes distintos, siempre que superasen el porcentaje anteriormente indicado.
+
+Las mismas reglas se aplicarán en el caso de representación no asociativa previstos en los párrafos q) y r), referidos a la posición de la empresa en relación con el total del sector.
+
+Las uniones, asociaciones y empresas que deseen estar representadas en el Comité Consultivo, por cumplir los requisitos previstos en el presente apartado, cursarán su solicitud al Comisionado para el Mercado de Tabacos acompañando justificación suficiente de su representatividad y el nivel de la misma.
+
+Sólo en el supuesto de inexistencia de organizaciones o sujetos con el mínimo de representatividad prevista, el Organismo autónomo, por medio aleatorio entre los sujetos censados en sus bases de datos, ofrecerá la posibilidad de integración en el Comité a un representante del sector afectado, quedando el sector sin representación si éste no aceptara.
+
+El nombramiento de los miembros del Comité Consultivo a que se refiere el apartado 5 del artículo 9 se realizará por plazo de un año.
+
+3\. El Pleno y las Comisiones serán convocados a requerimiento del Presidente, o cuando lo solicitase un 20 por 100 de sus miembros en el caso del Pleno y un 40 por 100 en el caso de las Comisiones. En cualquier caso, el Pleno y Comisiones deberá reunirse un mínimo de cuatro veces al año, dentro de cada uno de los trimestres naturales.
+
+4\. La convocatoria para las reuniones del Pleno y Comisiones deberá realizarse por su Presidente con antelación mínima de cinco días, señalando la fecha y lugar en que debe producirse y el orden del día de la reunión. Esto no obstante, se entenderá la reunión válidamente convocada si estando presentes todos los miembros del Pleno o de la Comisión de que se trate consintieran unánimemente en su celebración.
+
+> Se modifica por el art. 1.8 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+> Su anterior numeración era art. 10.
+
+#### Artículo 12. Régimen de personal.
+
+1\. El personal al servicio del Comisionado para el Mercado de Tabacos será funcionario o laboral.
+
+2\. En todo caso, el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas, corresponde exclusivamente al personal funcionario.
+
+3\. El personal funcionario del Comisionado para el Mercado de Tabacos se regirá por lo previsto en el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, y demás normas aplicables al personal funcionario de la Administración General del Estado. El nombramiento de los titulares de los órganos previstos en el artículo 7 se regirá por lo dispuesto en el artículo 67 de la Ley 40/2015, de 1 de octubre.
+
+4\. El personal laboral del Comisionado para el Mercado de Tabacos se regirá por el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, y el resto de la normativa laboral que sea de aplicación, por las demás normas convencionalmente aplicables y por los preceptos del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, que así lo dispongan.
+
+5\. Las retribuciones del personal funcionario y laboral del Comisionado para el Mercado de Tabacos se ajustarán a lo dispuesto en la materia en las leyes de presupuestos generales del Estado y el resto de disposiciones aplicables.
+
+6\. Conforme a los principios y criterios establecidos en el artículo 20 del texto refundido de la Ley del Estatuto Básico del Empleado Público, y en el artículo 118 del Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo, se deberá establecer un sistema de evaluación que sirva de instrumento para la valoración del desempeño en el puesto de trabajo, con efectos retributivos y sobre la carrera profesional y la ocupación de los puestos por el personal, a través de criterios de evaluación transparentes, objetivos e imparciales. Las retribuciones que, en su caso, se perciban por estos conceptos, en ningún caso tendrán la consideración de fijas ni generarán ningún derecho individual. Dicha evaluación servirá para determinar, asimismo, las necesidades formativas en el organismo.
+
+7\. El personal del Comisionado para el Mercado de Tabacos estará sujeto a la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.
+
+8\. Todas las autoridades y el personal al servicio del Comisionado para el Mercado de Tabacos deberán guardar secreto, incluso después de cesar en sus funciones, sobre los datos que conozcan en el desempeño de sus tareas, y de cuantas informaciones de naturaleza confidencial hubieran conocido en el ejercicio de aquellas, respetando el secreto profesional y comercial con arreglo al ordenamiento jurídico.
+
+> Se modifica por el art. 1.9 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+#### Artículo 13. Colaboración de otros órganos.
+
+Los órganos del resguardo fiscal colaborarán al cumplimiento de los fines del Comisionado, mediando solicitud razonada de este. En particular, el Secretario de Estado de Hacienda podrá establecer, mediante resolución, las formas de colaboración con el Comisionado de los distintos órganos de la Agencia Estatal de Administración Tributaria.
+
+> Se modifica por el art. 1.10 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+## CAPÍTULO IV — Régimen patrimonial, económico-financiero y presupuestario
+
+#### Artículo 14. Recursos económicos.
+
+1\. Los recursos económicos del Comisionado para el Mercado de Tabacos podrán provenir de las siguientes fuentes:
+
+a) Las tasas que perciba por la realización de actividades que comporten prestaciones de servicios.
+
+b) Las subastas de expendedurías de tabaco y timbre del Estado reguladas en el artículo 4 de la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria.
+
+c) El canon concesional de expendedurías de tabaco y timbre del Estado establecido en el artículo 13 de la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
+
+d) El importe de las multas impuestas por infracción de lo establecido en la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria.
+
+e) Los productos y rentas de los bienes y valores que constituyan su patrimonio.
+
+f) Las consignaciones específicas que, en su caso, le sean asignadas en los presupuestos generales del Estado.
+
+g) Las transferencias corrientes o de capital que procedan de las Administraciones o entidades públicas.
+
+h) Las donaciones, legados, patrocinios y otras aportaciones de entidades privadas y de particulares.
+
+i) Cualquier otro recurso que pudiera serle atribuido.
+
+2\. Corresponde al Comisionado para el Mercado de Tabacos, O.A., la administración, incluida la inspección, liquidación y notificación de la tasa y canon a que se refieren las letras a) y c) del apartado anterior de este artículo, correspondiendo las demás funciones relativas a la gestión y recaudación a los órganos competentes de la Agencia Estatal de Administración Tributaria.
+
+> Se modifica por el art. 1.11 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+#### Artículo 15. Patrimonio.
+
+1\. El Comisionado para el Mercado de Tabacos tendrá, para el cumplimiento de sus fines, un patrimonio propio e independiente del de la Administración General del Estado, integrado por el conjunto de bienes y derechos de los que sea titular.
+
+2\. La gestión y administración de los bienes y derechos propios, así como de aquellos del Patrimonio del Estado que se le adscriban para el cumplimiento de sus fines, será ejercida de acuerdo con lo señalado en este estatuto y la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+
+3\. Corresponde a la Presidencia del Comisionado para el Mercado de Tabacos acordar la adquisición por cualquier título de los bienes inmuebles y derechos que resulten necesarios para los fines del organismo, así como su uso y arrendamiento, de acuerdo con la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+
+4\. Los bienes que el Estado adscriba al Comisionado para el Mercado de Tabacos quedarán afectados a su servicio y conservarán la calificación jurídica originaria, debiendo ser utilizados exclusivamente para los fines que determinaron la adscripción.
+
+5\. La persona titular de la Presidencia podrá acordar la innecesariedad para el servicio de los bienes muebles y, en su caso, la enajenación, cesión gratuita o destrucción del material no útil, así como cualesquiera otros de igual naturaleza, aplicando su producto a los fines propios del Comisionado para el Mercado de Tabacos.
+
+> Se modifica por el art. 1.12 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+#### Artículo 16. Inventario.
+
+El Comisionado para el Mercado de Tabacos formará y mantendrá actualizado su inventario de bienes y derechos, tanto de los propios como de los bienes del Patrimonio del Estado adscritos, que se revisará anualmente, con referencia al 31 de diciembre, y se someterá a la aprobación de la Presidencia del Comisionado para el Mercado de Tabacos.
+
+> Se modifica por el art. 1.13 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+#### Artículo 17. Contratación.
+
+1\. La contratación se ajustará a lo dispuesto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, y el resto de legislación sobre contratación del sector público, aplicándose el régimen previsto en las citadas normas para los organismos autónomos.
+
+2\. El órgano de contratación del Comisionado para el Mercado de Tabacos es la Presidencia, quien podrá delegar esta competencia en la Secretaría General.
+
+3\. El Comisionado para el Mercado de Tabacos podrá acordar la cofinanciación conjunta de contratos con el Ministerio de Hacienda, cuando de ello resultase una mayor eficiencia en la asignación de recursos.
+
+4\. El Comisionado para el Mercado de Tabacos recibirá las facturas electrónicas que emitan sus proveedores a través del punto general de entrada de facturas electrónicas correspondiente a la Administración General del Estado, en los términos previstos en la Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica y creación del registro contable de facturas en el Sector Público.
+
+> Se modifica por el art. 1.14 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+#### Artículo 18. Presupuestos.
+
+1\. La Presidencia del Comisionado para el Mercado de Tabacos elaborará y aprobará anualmente su anteproyecto de presupuestos, con la estructura que establezca el Ministerio de Hacienda, y de acuerdo con la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+2\. La ejecución y modificación se regirán por las disposiciones de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, que le sean de aplicación.
+
+> Se modifica por el art. 1.15 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+#### Artículo 19. Contabilidad y régimen de control.
+
+1\. El Comisionado para el Mercado de Tabacos deberá aplicar el régimen y los principios contables públicos previstos en la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+2\. El Comisionado para el Mercado de Tabacos formulará las cuentas anuales en un plazo de tres meses desde el cierre del ejercicio económico. Una vez auditadas por la Intervención General de la Administración del Estado, serán aprobadas dentro del primer semestre del año siguiente al que se refieran.
+
+3\. La Presidencia rendirá las cuentas anuales al Tribunal de Cuentas, por conducto de la Intervención General de la Administración del Estado, en el plazo de los siete meses siguientes a la terminación del ejercicio económico, una vez aprobadas.
+
+4\. El control externo de la gestión económico-financiera del Comisionado para el Mercado de Tabacos corresponderá al Tribunal de Cuentas, de acuerdo con la normativa aplicable.
+
+5\. El control interno de la gestión económico–financiera corresponderá a la Intervención General de la Administración del Estado a través de la intervención delegada en el organismo, en las condiciones y términos establecidos en la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+6\. El control de eficacia será ejercido por el Ministerio de Hacienda, a través de la inspección de servicios, y tendrá por objeto evaluar el cumplimiento de los objetivos y la adecuada utilización de los recursos, de acuerdo con lo establecido en su plan de actuación y sus actualizaciones anuales, sin perjuicio del control que de acuerdo con la Ley 47/2003, de 26 de noviembre, se ejerza por la Intervención General de la Administración del Estado.
+
+7\. El Comisionado para el Mercado de Tabacos estará sujeto a la supervisión continua del Ministerio de Hacienda, a través de la Intervención General de la Administración del Estado, que vigilará la concurrencia de los requisitos previstos en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifica por el art. 1.16 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)
+
+#### Artículo 20. Gestión compartida de servicios comunes.
+
+1\. De acuerdo con lo previsto en el artículo 95 en relación con la disposición adicional quinta de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, se podrán prestar de forma compartida con el Ministerio de Hacienda los servicios comunes.
+
+2\. Mediante resolución conjunta de la Subsecretaría de Hacienda y de la Presidencia del Comisionado para el Mercado de Tabacos se determinarán las condiciones de prestación, la financiación de los servicios de gestión compartida y las formas de coordinación.
+
+> Se añade por el art. 1.17 del Real Decreto 563/2025, de 1 de julio. [Ref. BOE-A-2025-14207](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14207)

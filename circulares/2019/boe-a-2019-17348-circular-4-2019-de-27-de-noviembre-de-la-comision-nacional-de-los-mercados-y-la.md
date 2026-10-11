@@ -1,0 +1,659 @@
+---
+title: "Circular 4/2019, de 27 de noviembre, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología de retribución del operador del sistema eléctrico"
+identifier: "BOE-A-2019-17348"
+eli: "https://www.boe.es/eli/es/cir/2019/11/27/4"
+type: circular
+rank: "Circular"
+jurisdiction: es
+language: es
+department: "Comisión Nacional de los Mercados y la Competencia"
+date: 2019-11-27
+published: 2019-12-03
+in_force_from: 2019-12-04
+last_amended: 2023-02-16
+consolidated: 2026-04-17
+gazette: "Boletín Oficial del Estado núm. 290"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2019-17348"
+retrieved: 2026-10-11
+---
+
+# Circular 4/2019, de 27 de noviembre, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología de retribución del operador del sistema eléctrico
+
+La Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, en su redacción dada por el Real Decreto-ley 1/2019, de 11 de enero, de medidas urgentes para adecuar las competencias de la Comisión Nacional de los Mercados y la Competencia a las exigencias derivadas del derecho comunitario en relación a las Directivas 2009/72/CE y 2009/73/CE del Parlamento europeo y del Consejo, de 13 de julio de 2009, sobre normas comunes para el mercado interior de la electricidad y del gas natural, dispone en su artículo 7.1.i) que es función de la Comisión Nacional de los Mercados y la Competencia establecer mediante circular la metodología para el cálculo de la retribución del operador del sistema eléctrico, en función de los servicios que efectivamente preste. Dicha retribución podrá incorporar incentivos, que podrán tener signos positivos o negativos, a la reducción de costes del sistema eléctrico derivados de la operación del mismo u otros objetivos.
+
+El preámbulo del Real Decreto-ley 1/2019, de 11 de enero, hace constar que «la retribución del operador del sistema eléctrico será establecida por la Comisión Nacional de los Mercados y la Competencia».
+
+El artículo 8.2 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, establece que la operación del sistema tiene carácter de actividad regulada, a efectos de su separación de otras actividades, y su régimen económico y de funcionamiento se ajustará a lo previsto en dicha Ley.
+
+Según el artículo 14.2 de la Ley 24/2013, de 26 de diciembre, la retribución de las actividades se establecerá con criterios objetivos, transparentes y no discriminatorios que incentiven la mejora de la eficacia de la gestión, la eficiencia económica y técnica de dichas actividades y la calidad del suministro eléctrico.
+
+Adicionalmente, el artículo 14.3 de esta Ley 24/2013, de 26 de diciembre, dispone que para el cálculo de la retribución de las actividades de transporte, distribución y gestión técnica y económica del sistema, se considerarán los costes necesarios para realizar la actividad por una empresa eficiente y bien gestionada. Estos regímenes económicos permitirán la obtención de una retribución adecuada a la de una actividad de bajo riesgo.
+
+El artículo 20 «Contabilidad e información» establece que Red Eléctrica de España, S.A.U., deberá llevar cuentas separadas de la actividad de transporte, de la operación del sistema peninsular, y de la operación del sistema en los sistemas no peninsulares.
+
+El artículo 28 «Gestión económica y técnica» establece que corresponde al operador del sistema asumir las funciones necesarias para realizar la gestión técnica del sistema eléctrico.
+
+El artículo 30 «Operador del sistema» establece como función principal del operador del sistema garantizar la continuidad y seguridad del suministro eléctrico y la correcta coordinación del sistema de producción y transporte, y lista las funciones del operador del sistema.
+
+En cumplimiento del principio de transparencia, las resoluciones que se dicten por la Comisión Nacional de los Mercados y la Competencia en ejecución de esta circular serán publicadas en los términos establecidos en los artículos 7.1 y 37.1 de la Ley 3/2013, de 4 de junio.
+
+La disposición final tercera del Real Decreto-ley 1/2019, de 11 de enero, establece que la Comisión Nacional de los Mercados y la Competencia aprobará, antes del 1 de enero de 2020, previa adopción, en su caso, de las correspondientes orientaciones de política energética, las circulares normativas con las metodologías de las retribuciones afectas a las actividades reguladas de los sectores de electricidad. Asimismo, establece que las metodologías garantizarán que el impacto de su aplicación en los consumidores y demás agentes del sistema eléctrico sea gradual.
+
+En línea con lo dicho en el dictamen emitido por el Consejo de Estado y dado que la Comisión Nacional de los Mercados y la Competencia ejerce esta competencia por primera vez, la circular no incluye una disposición derogatoria.
+
+Por todo lo anterior, conforme a las funciones asignadas en el artículo 7.1.i) de la Ley 3/2013, de 4 de junio, previo trámite de audiencia, y de acuerdo con las orientaciones de política energética previstas en la Orden TEC/406/2019, de 5 de abril, el Pleno del Consejo de la Comisión Nacional de los Mercados y la Competencia, en su sesión del día 27 de noviembre de 2019, ha acordado, de acuerdo con el Consejo de Estado, emitir la presente circular:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+1\. Esta circular tiene por objeto:
+
+a) Establecer la metodología aplicable a partir del año 2020 para el cálculo de la retribución del operador del sistema eléctrico, en función de los servicios que efectivamente preste, y que podrá incorporar incentivos.
+
+b) Establecer la metodología para la fijación de los precios a repercutir a los sujetos del sistema eléctrico para la financiación de la retribución del operador del sistema a que se refiere la metodología de la letra anterior.
+
+2\. Esta circular no es de aplicación a la retribución de las instalaciones de bombeo asignadas al operador del sistema en los territorios no peninsulares, que se rigen por lo establecido en el título VII del Real Decreto 738/2015, de 31 de julio, por el que se regula la actividad de producción de energía eléctrica y el procedimiento de despacho en los sistemas eléctricos de los territorios no peninsulares.
+
+### Artículo 2. Periodos regulatorios.
+
+Cada periodo regulatorio (p) tendrá una duración de 3 años, siendo n el primer año de cada periodo regulatorio y n *+ 2* el último año.
+
+## CAPÍTULO II — Metodología de cálculo de la retribución del operador del sistema
+
+### Artículo 3. Retribución del operador del sistema.
+
+La retribución del operador del sistema estará compuesta por una base de retribución, un tramo de retribución por incentivos, y el importe anual devengado de la cuenta regulatoria por nuevas obligaciones. Se establecerá a partir de la siguiente fórmula:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/290/17348_5396.png)
+
+Siendo:
+
+![2](https://www.boe.es/datos/imagenes/disp/2019/290/17348_5439.png) Retribución total del operador del sistema en el año n.
+
+![3](https://www.boe.es/datos/imagenes/disp/2019/290/17348_5590.png) Base de retribución del operador del sistema en el año n. Será aquella del periodo regulatorio p al que el año n pertenezca.
+
+![4](https://www.boe.es/datos/imagenes/disp/2019/290/17348_5644.png) Retribución por incentivos del operador del sistema en el año n.
+
+![5](https://www.boe.es/datos/imagenes/disp/2019/290/17348_5834.png) Importe anual devengado de la cuenta regulatoria por nuevas obligaciones.
+
+### Artículo 4. Base de retribución.
+
+1\. La base de retribución del operador del sistema se establecerá para cada periodo regulatorio (p), a partir de la fórmula siguiente:
+
+![6](https://www.boe.es/datos/imagenes/disp/2019/290/17348_5908.png)
+
+Donde:
+
+p: periodo regulatorio, comprendido entre el 1 de enero del año n y el 31 de diciembre del año n + 2.
+
+![7](https://www.boe.es/datos/imagenes/disp/2019/290/17348_5989.png) Base de retribución del operador del sistema del periodo regulatorio p.
+
+![8](https://www.boe.es/datos/imagenes/disp/2019/290/17348_6086.png) Término de retribución por OPEX incluido en la base de retribución del operador del sistema del periodo regulatorio p.
+
+![9](https://www.boe.es/datos/imagenes/disp/2019/290/17348_6173.png) Margen sobre el término de retribución por OPEX incluido en la base de retribución del operador del sistema del periodo regulatorio p.
+
+![10](https://www.boe.es/datos/imagenes/disp/2019/290/17348_6261.png) Término de amortización estándar incluido en la base de retribución del operador del sistema del periodo regulatorio p.
+
+![11](https://www.boe.es/datos/imagenes/disp/2019/290/17348_6357.png) Término de retribución financiera estándar incluido en la base de retribución del operador del sistema del periodo regulatorio p.
+
+2\. La base de retribución del operador del sistema se mantendrá constante para los sucesivos periodos regulatorios, si bien podrá revisarse en caso de que se asignen nuevas obligaciones al operador del sistema.
+
+### Artículo 5. Término de retribución por OPEX.
+
+1\. El término de retribución por OPEX ![12](https://www.boe.es/datos/imagenes/disp/2019/290/17348_6470.png) incluido en la base de retribución del operador del sistema del periodo regulatorio p, se determinará a partir de los costes de la actividad de operación del sistema reflejados en la contabilidad separada, tanto en el ámbito peninsular como en el de los sistemas no peninsulares, y a partir de la información regulatoria de costes de la actividad de operación del sistema de electricidad.
+
+2\. Únicamente se considerarán los costes necesarios para realizar la actividad por una empresa eficiente y bien gestionada.
+
+3\. En ningún caso se incluirán dentro del término de retribución por OPEX costes que hayan sido recuperados con cargo a la retribución del transporte, tanto explícita como implícitamente.
+
+4\. No formarán parte del término de retribución por OPEX los conceptos siguientes:
+
+a) Los trabajos realizados por la empresa para su inmovilizado, que se hayan activado como inversión.
+
+b) Las indemnizaciones de personal.
+
+c) Las provisiones.
+
+d) Los márgenes añadidos por las empresas del grupo sobre el coste de los servicios prestados.
+
+e) Las subvenciones, salvo el 10 por ciento de las europeas, con un límite máximo de 10 millones de euros.
+
+f) Los costes de los centros de control que presten servicios al transporte.
+
+g) Los deterioros y revalorizaciones de activos.
+
+h) Los gastos e ingresos financieros.
+
+i) Los impuestos sobre el beneficio.
+
+j) Los costes del servicio de verificación de medidas a los agentes, que se recuperan mediante precios repercutidos a estos.
+
+k) Los costes de las subastas de interrumpibilidad, que se recuperan a través de los participantes adjudicatarios.
+
+l) Los costes repercutidos por la matriz del grupo de sociedades al que el operador del sistema pertenece o por otras sociedades del grupo, que no resulten necesarios para desarrollar su actividad, o cuyo importe sea desproporcionado en relación al tamaño del operador del sistema, a la utilidad que representan para la realización de la operación del sistema, o que no serían incurridos en caso de que el operador del sistema no formase parte de un grupo de sociedades.
+
+m) No se tendrán en cuenta los costes incurridos por el operador del sistema para la prestación de servicios a otras empresas del grupo.
+
+### Artículo 6. Margen sobre el término de retribución por OPEX.
+
+1\. El margen sobre el término de retribución por OPEX ![13](https://www.boe.es/datos/imagenes/disp/2019/290/17348_6578.png) incluido en la base de retribución del operador del sistema del periodo regulatorio (p), se calculará a partir de la siguiente fórmula:
+
+![14](https://www.boe.es/datos/imagenes/disp/2019/290/17348_6737.png)
+
+Donde:
+
+![15](https://www.boe.es/datos/imagenes/disp/2019/290/17348_6881.png) Margen, en porcentaje (%).
+
+2\. El margen ![16](https://www.boe.es/datos/imagenes/disp/2019/290/17348_7042.png) se establece en un 5 %.
+
+### Artículo 7. Término de amortización estándar.
+
+1\. El término de amortización estándar ![17](https://www.boe.es/datos/imagenes/disp/2019/290/17348_7211.png) incluido en la base de retribución del operador del sistema del periodo regulatorio (p) se calculará a partir del gasto en concepto de amortización que figure en la contabilidad separada de la actividad de operación del sistema, tanto en el ámbito peninsular como en el de los sistemas no peninsulares, y a partir de la información regulatoria de costes de la actividad de operación del sistema de electricidad.
+
+2\. Únicamente se considerarán las inversiones necesarias para realizar la actividad por una empresa eficiente y bien gestionada.
+
+3\. En ningún caso se incluirán dentro del término de amortización estándar importes que procedan de la amortización de activos asignados al operador del sistema utilizados por la actividad de transporte.
+
+### Artículo 8. Término de retribución financiera estándar.
+
+1\. El término de retribución financiera estándar ![18](https://www.boe.es/datos/imagenes/disp/2019/290/17348_7368.png) incluido en la base de retribución del operador del sistema del periodo regulatorio (p) se calculará a partir de la fórmula siguiente:
+
+![19](https://www.boe.es/datos/imagenes/disp/2019/290/17348_7538.png)
+
+Donde:
+
+![20](https://www.boe.es/datos/imagenes/disp/2019/290/17348_7706.png) Inmovilizado neto estándar incluido en la base de retribución del operador del sistema del periodo regulatorio p.
+
+![21](https://www.boe.es/datos/imagenes/disp/2019/290/17348_7875.png) Tasa de retribución financiera, en porcentaje (%) con 2 decimales. Tomará el valor de la tasa de retribución financiera de las actividades de transporte y distribución de energía eléctrica que se establezca en los años que se correspondan con el periodo regulatorio p, en la Circular 2/2019, de 12 de noviembre, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología de cálculo de la tasa de retribución financiera de las actividades de transporte y distribución de energía eléctrica, y regasificación, transporte y distribución de gas natural.
+
+2\. El inmovilizado neto estándar incluido en la base de retribución del operador del sistema del periodo regulatorio p se calculará a partir del inmovilizado neto de la contabilidad separada de la actividad de operación del sistema, tanto en el ámbito peninsular como en el de los sistemas no peninsulares, y a partir de la información regulatoria de costes de la actividad de operación del sistema de electricidad.
+
+3\. Únicamente se considerarán las inversiones necesarias para realizar la actividad por una empresa eficiente y bien gestionada.
+
+4\. En ningún caso se incluirán dentro del inmovilizado neto estándar importes que procedan de activos asignados al operador del sistema utilizados por la actividad de transporte.
+
+5\. No formarán parte del inmovilizado neto estándar los conceptos siguientes:
+
+a) El inmovilizado en curso.
+
+b) Los activos intangibles distintos de las aplicaciones informáticas.
+
+c) Las inversiones de los centros de control que presten servicio al transporte.
+
+### Artículo 9. Cuenta regulatoria.
+
+1\. El operador del sistema dispondrá de una cuenta regulatoria cuyo saldo ![22](https://www.boe.es/datos/imagenes/disp/2019/290/17348_8053.png) se establece para cada periodo regulatorio (p)*,* que le permita asumir nuevas obligaciones atribuidas por reglamentos europeos o regulación nacional, así como nuevos proyectos europeos de importancia e interés para el sistema eléctrico.
+
+2\. El saldo de la cuenta regulatoria se devengará un tercio cada año del periodo regulatorio.
+
+![23](https://www.boe.es/datos/imagenes/disp/2019/290/17348_8248.png)
+
+3\. Antes del 15 de abril del año siguiente, el operador del sistema remitirá a la Comisión Nacional de los Mercados y la Competencia el soporte documental de los costes incurridos en cada año del periodo regulatorio, con cargo a la cuenta regulatoria, que deberán ser prudentes e incurridos conforme a criterios de eficiencia económica. Dicho soporte documental deberá acreditar fehacientemente que los costes son adicionales con respecto a los que están incluidos en la base de retribución y no incluirán márgenes ni costes indirectos.
+
+4\. La Comisión Nacional de los Mercados y la Competencia calculará el saldo de la cuenta regulatoria al término de cada ejercicio, una vez validado el soporte documental aportado.
+
+5\. En caso de que exista saldo acumulado sobrante de la cuenta regulatoria al término del año n + 2, el saldo de la cuenta regulatoria del periodo siguiente (p + 1) no podrá ser inferior al saldo de la cuenta regulatoria del periodo *p* más dicho saldo sobrante.
+
+6\. Para realizar un seguimiento de los costes de los proyectos europeos y posibilitar la coordinación de la Comisión Nacional de los Mercados y la Competencia con otras autoridades reguladoras nacionales de energía de los Estados miembros de la Unión Europea, el operador del sistema deberá llevar un desglose de los costes individualizado por proyecto, que remitirá a la CNMC con el desglose, periodicidad y formato que se determine.
+
+7\. En el supuesto excepcional de que el operador del sistema incurra en costes durante el periodo regulatorio p por nuevas obligaciones regulatorias imprevistas, que superen el saldo de la cuenta regulatoria del periodo p, estos costes podrán incorporarse a la cuenta regulatoria del periodo siguiente (p + 1), siempre que estén debidamente justificados.
+
+8\. En caso de que se produzca el supuesto excepcional al que se refiere el apartado 7, en relación con costes incurridos en el año n+2 del periodo regulatorio p, el saldo de la cuenta regulatoria del periodo siguiente (p+1), podrá aumentarse en dicho importe mediante resolución, a efectos de que estos costes se recuperen durante el año n+1 y el año n+2 del periodo regulatorio p+1.
+
+> Se añade el apartado 8 por el art. 2 de la Circular 1/2023, de 7 de febrero. [Ref. BOE-A-2023-4135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4135)
+
+## CAPÍTULO III — Retribución por incentivos
+
+### Artículo 10. Retribución por incentivos.
+
+1\. La retribución por incentivos ![24](https://www.boe.es/datos/imagenes/disp/2019/290/17348_8447.png) del operador del sistema en el año n tomará un valor que podrá oscilar en la siguiente banda:
+
+![25](https://www.boe.es/datos/imagenes/disp/2019/290/17348_8752.png)
+
+Donde:
+
+LI es el límite inferior del término de retribución por incentivos, expresado en porcentaje negativo. No podrá ser inferior al – 5 %.
+
+LS es el límite superior del término de retribución por incentivos, expresado en porcentaje positivo. No podrá ser superior al 5 %.
+
+2\. Para cada periodo regulatorio se establecerá mediante resolución el límite inferior y superior del tramo de retribución por incentivos y los límites parciales para cada uno de los incentivos regulados en los artículos 11 a 13.
+
+### Artículo 11. Incentivos para la optimización de los redespachos.
+
+Se establecen dos incentivos cuyo objetivo es la minimización de los redespachos por restricciones técnicas y el sobrecoste asociado.
+
+1\. Incentivo para la minimización de los volúmenes programados para la resolución de restricciones técnicas.
+
+Se evaluará un objetivo de reducción del volumen anual de energía que sea requerido programar para la resolución de las restricciones técnicas.
+
+Para determinar el nivel de cumplimiento del incentivo, se considerará el volumen de energía programado en valor absoluto, tanto para la resolución de las restricciones técnicas al programa diario base de funcionamiento como las energías programadas para la resolución de restricciones técnicas en tiempo real en la red de transporte peninsular. No se tendrán en cuenta las energías programadas para reserva de energía de regulación; ni las identificadas en la red de distribución y, por lo tanto, solicitadas por el distribuidor de la zona correspondiente; ni las derivadas de segundas programaciones causadas por indisponibilidades. Se compararán estos volúmenes con los programados en los cinco años anteriores al comienzo del periodo regulatorio.
+
+El impacto de este incentivo sobre la retribución será calculado de la siguiente forma:
+
+a) Si la energía programada es ≥*UmbralEnergiaSup<sub>rrtt,</sub>* el incentivo es *(LI<sub>rrtt</sub>).*
+
+b) Si la energía programada es ≤ *UmbralEnergiaInf<sub>rrtt,</sub>*el incentivo es *(LS<sub>rrtt</sub>).*
+
+c) Si la energía programada está entre*UmbralEnergiaInf<sub>rrtt</sub>* y*UmbralEnergiaSup<sub>rrtt,</sub>* el incentivo se calculará aplicando la siguiente fórmula:
+
+*Incentivo = (LI<sub>rrtt</sub>-LS<sub>rrtt</sub>) / (UmbralEnergiaSup<sub>rrtt</sub>-UmbralEnergiaInf<sub>rrtt</sub>) * (EnergiaProgramada-UmbralEnergiaInf<sub>rrtt</sub>) + LS<sub>rrtt</sub>*
+
+Donde:
+
+*UmbralEnergiaInf<sub>rrtt</sub>* y *UmbralEnergiaSup<sub>rrtt</sub>* vendrán definidos respectivamente como el producto de 0,97 por la energía anual mínima y máxima programada en los cinco años anteriores al comienzo del periodo regulatorio, y se fijarán mediante resolución para cada periodo.
+
+*LI<sub>rrtt</sub>* y *LS<sub>rrtt</sub>* son el límite inferior y superior del término de retribución por incentivos correspondiente al incentivo por resolución de restricciones técnicas y se fijarán mediante resolución para cada periodo regulatorio.
+
+2\. Incentivo a la fijación eficiente del nivel de reserva térmica.
+
+Se evaluará un objetivo de minimización de la programación por restricciones de grupos térmicos para incrementar la reserva a subir disponible en el sistema.
+
+Para determinar el nivel de cumplimiento del incentivo, se considerará la media anual de la energía terciaria ofertada a subir y no asignada (TNA) en el periodo de programación del día en que este valor sea el mínimo siempre que en dicho día se haya programado al menos un grupo térmico por reserva insuficiente a subir.
+
+El impacto de este incentivo sobre la retribución será calculado de la siguiente forma, siempre que el número de días del año en que se haya programado algún grupo por reserva insuficiente a subir sea mayor de 20:
+
+a) Si TNA es ≥ *UmbralEnergiaSup<sub>tna,</sub>*el incentivo es *LI<sub>tna.</sub>*
+
+b) Si TNA es ≤ *UmbralEnergiaInf<sub>tna,</sub>* el incentivo es *LS<sub>tna.</sub>*
+
+c) Si TNA está entre *UmbralEnergiaInf<sub>tna</sub>*y*UmbralEnergiaSup<sub>tna,</sub>*el incentivo se calculará aplicando la siguiente fórmula:
+
+*Incentivo= (LI<sub>tna</sub>-LS<sub>tna</sub>)/(UmbralEnergiaSup<sub>tna</sub>-UmbralEnergiaInf<sub>tna</sub>)*(TNA-UmbralEnergiaInf<sub>tna</sub>)+LS<sub>tna</sub>*
+
+Donde:
+
+*UmbralEnergiaInf<sub>tna</sub>* y*UmbralEnergiaSup<sub>tna</sub>* vendrán definidos respectivamente como la TNA mínima y máxima en los cinco años anteriores al comienzo del periodo regulatorio, y se fijarán mediante resolución para cada periodo.
+
+*LI<sub>tna</sub>* y *LS<sub>tna</sub>* son el límite inferior y superior del término de retribución por incentivos correspondiente al incentivo a la fijación eficiente del nivel de reserva térmica y se fijarán mediante resolución para cada periodo regulatorio.
+
+Si el número de días del año en que se ha programado algún grupo térmico por reserva insuficiente a subir es igual o inferior a 20 el incentivo toma un valor nulo.
+
+> Se modifica por el art. 3 de la Circular 1/2023, de 7 de febrero. [Ref. BOE-A-2023-4135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4135)
+
+> Téngase en cuenta, sobre límites parciales de cada uno de los incentivos aplicables durante el periodo regulatorio 2023-2025, la disposición adicional única de la citada Circular.
+
+### Artículo 12. Incentivos para la mejora de las previsiones.
+
+Se establecen dos incentivos cuyo objetivo es la mejora de las previsiones de demanda y producción renovable efectuadas por el operador del sistema en diferentes horizontes temporales.
+
+1\. Incentivo para la mejora de la previsión de demanda.
+
+Se evaluará un objetivo que comprende las previsiones de demanda efectuadas por el operador del sistema, considerando tres niveles de previsión: diario, intradiario y medio/largo plazo, ponderando a partes iguales cada uno de estos horizontes.
+
+La calidad de la previsión de medio-largo plazo se determinará según la diferencia entre la estimación de demanda anual con respecto a la demanda anual real.
+
+La métrica considerada para el cálculo del error será el error absoluto anual respecto a la demanda total anual, siendo su formulación matemática la siguiente:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/40/4135_12800555_1.png)
+
+Donde:
+
+*Error<sub>anual_dem_a</sub>:* error relativo anual de la previsión para el año a, publicada el mes de diciembre del año anterior.
+
+*DemPrev<sub>a</sub>:* demanda prevista para el año a, publicada el mes de diciembre del año anterior en MWh.
+
+*DemandaRealAnual:*demanda total del año a en MWh.
+
+La calidad de previsión de horizonte diario se determinará en función de la diferencia entre la previsión diaria de la demanda eléctrica peninsular publicada una hora antes del cierre de ofertas al mercado diario (las 11:00 horas CET del día D-1) y el consumo horario real.
+
+La métrica considerada para el cálculo del error será la suma del error absoluto horario anual respecto a la demanda total anual, siendo su formulación matemática la siguiente:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/40/4135_12800555_2.png)
+
+Donde:
+
+*Error<sub>anual_dem_d-1</sub>:* error relativo anual de la previsión para el día d publicada el día d-1.
+
+*DemPrev<sub>d-1</sub>(h)* demanda prevista para la hora h publicada el día d-1 en MWh.
+
+*RSO(h)* corrección por limitaciones del OS a unidades de demanda o activación por servicio de balance en la hora h en MWh.
+
+*DemReal(h):* demanda real en la hora h en MWh.
+
+*n:*número de horas del año para el que se calcula el error de previsión de demanda, excluyendo días de huelgas generales (nacionales o autonómicas publicadas en el BOE) así como horas sin previsión por incidencia informática no subsanable, por no disponer de previsión en un horizonte anterior, debidamente acreditadas ante la Comisión Nacional de los Mercados y la Competencia.
+
+*DemandaRealAnual:* demanda total del año en MWh, descontando las horas excluidas.
+
+La calidad de previsión de horizonte intradiario se determinará en función de la diferencia entre la previsión horaria de la demanda eléctrica peninsular publicada tres horas antes del inicio de cada hora y el consumo real.
+
+La métrica considerada para el cálculo del error será la suma del error absoluto horario anual respecto a la demanda total anual, siendo su formulación matemática la siguiente:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/40/4135_12800555_3.png)
+
+Donde:
+
+*Error<sub>anual_dem_h3</sub>:* error relativo anual de la previsión para la hora h publicada en la hora h-3, tres horas antes del inicio de cada hora.
+
+*DemPrev<sub>h3</sub>(h):* demanda prevista para la hora h publicada tres horas antes en MWh.
+
+*RSO(h):* corrección por limitaciones del OS o activación por servicio de balance en la hora h en MWh.
+
+*DemReal(h):*demanda real en la hora h en MWh.
+
+*n:* número de horas del año para el que se calcula el error de previsión de demanda, excluyendo días de huelgas generales (nacionales o autonómicas publicadas en el BOE) así como horas sin previsión por incidencia informática no subsanable, por no disponer de previsión en un horizonte anterior, debidamente acreditadas ante la Comisión Nacional de los Mercados y la Competencia.
+
+*DemandaRealAnual:*demanda total del año en MWh, descontando las horas excluidas.
+
+El incentivo total por previsión de demanda será la suma de los incentivos de demanda de cada horizonte temporal:
+
+*Incentivo<sub>dem</sub>= Incentivo<sub>dem_a</sub> + Incentivo<sub>dem_d-1</sub> + Incentivo<sub>dem_h3</sub>*
+
+*LI<sub>dem</sub>* y *LS<sub>dem</sub>* son el límite inferior y superior del incentivo por previsión de demanda y se fijarán mediante resolución para cada periodo regulatorio.
+
+Cada uno de estos tres incentivos correspondientes a los tres horizontes temporales:
+
+Alcanzarán su valor máximo *LS<sub>dem</sub>/3* cuando el indicador correspondiente sea inferior o igual al umbral de retribución máxima que vendrá definido, en el caso de los indicadores diario e intradiario, mediante la aplicación de un porcentaje al valor medio de los errores horarios registrados en los cinco años anteriores al comienzo del periodo regulatorio y, en el caso del indicador anual, como el menor error de los cinco últimos años. Todos ellos, se fijarán mediante resolución para cada periodo:
+
+*Incentivo<sub>dem_a</sub> = LS<sub>dem</sub>/3*si*Error<sub>anual_dem_a</sub> <= UmbralErrorInf<sub>dem_a</sub>*
+
+*Incentivo<sub>dem_d-1</sub> = LS<sub>dem</sub>/3*si*Error<sub>anual_dem_d-1</sub> <= UmbralErrorInf<sub>dem_d-1</sub>*
+
+*Incentivo<sub>dem_h3</sub> = LS<sub>dem</sub>/3*si*Error<sub>anual_dem_h3</sub> <= UmbralErrorInf<sub>dem_h3</sub>*
+
+Alcanzarán su valor mínimo*LI<sub>dem</sub>/3* cuando el indicador correspondiente sea superior o igual al umbral de retribución mínima que vendrá definido, en el caso de los indicadores diario e intradiario, mediante la aplicación de un porcentaje al valor medio de los errores horarios registrados en los cinco años anteriores al comienzo del periodo regulatorio y, en el caso del indicador anual, como el mayor error de los cinco últimos años. Todos ellos, se fijarán mediante resolución para cada periodo:
+
+*Incentivo<sub>dem_a</sub> = LI<sub>dem</sub>/3*si *Error<sub>anual_dem_a</sub> >= UmbralErrorSup<sub>dem_a</sub>*
+
+*Incentivo<sub>dem_d-1</sub> = LI<sub>dem</sub>/3*si*Error<sub>anual_dem_d-1</sub> >= UmbralErrorSup<sub>dem_d-1</sub>*
+
+*Incentivo<sub>dem_h3</sub> = LI<sub>dem</sub>/3*si*Error<sub>anual_dem_h3</sub> >= UmbralErrorSup<sub>dem_h3</sub>*
+
+Obtendrán valores nulos cuando el indicador correspondiente esté comprendido dentro de una banda muerta dentro de la cual, para el caso de los indicadores diario e intradiario, no hay significación estadística, con un determinado nivel de confianza, de cambio en la precisión del modelo de previsión En el caso del indicador anual, la banda muerta se determinará como 1/3 de la diferencia entre el error menor y el mayor de los últimos cinco años.
+
+Para la determinación de todos ellos se utilizarán los errores registrados en los cinco años anteriores al comienzo del periodo regulatorio y se fijarán mediante resolución para cada periodo.
+
+Obtendrán valores determinados por las siguientes fórmulas cuando el indicador correspondiente se sitúe por fuera de la banda muerta, pero dentro de los umbrales de retribución máxima y mínima:
+
+Si *UmbralErrorInf<sub>dem_a</sub>* <*Error<sub>anual_dem_a</sub>*< *UmbralBMInf<sub>dem_a,</sub>*
+
+entonces:
+
+*Incentivo<sub>dem_a</sub> = ((LS<sub>dem</sub>/3) / (UmbralBMInf<sub>dem_a</sub> – UmbralErrorInf<sub>dem_a</sub>)) * (UmbralBMInf<sub>dem_a</sub> – Error<sub>anual_dem_a</sub>)*
+
+Si*UmbralBMSup<sub>dem_a</sub>*< *Error<sub>anual_dem_a</sub>* < *UmbralErrorSup<sub>dem_a,</sub>*
+
+entonces:
+
+*Incentivo<sub>dem_a</sub> = ((LI<sub>dem</sub>/3) / (UmbralErrorSup<sub>dem_a</sub> – UmbralBMSup<sub>dem_a</sub>)) * (Error<sub>anual_dem_a</sub> – UmbralBMSup<sub>dem_a</sub>)*
+
+Si *UmbralErrorInf<sub>dem_d-1</sub>*< *Error<sub>anual_dem_d-1</sub>* < *UmbralBMInf<sub>dem_d-1,</sub>*
+
+entonces:
+
+*Incentivo<sub>dem_d-1</sub> = ((LS<sub>dem</sub>/3) / (UmbralBMInf<sub>dem_d-1</sub> – UmbralErrorInf<sub>dem_d-1</sub>)) * (UmbralBMInf<sub>dem_d-1</sub> – Error<sub>anual_dem_d-1</sub>)*
+
+Si *UmbralBMSup<sub>dem_d-1</sub>* < *Error<sub>anual_dem_d-1</sub>* < *UmbralErrorSup<sub>dem_d-1,</sub>*
+
+entonces:
+
+*Incentivo<sub>dem_d-1</sub> = ((LI<sub>dem</sub>/3) / (UmbralErrorSup<sub>dem_d-1</sub> – UmbralBMSup<sub>dem_d-1</sub>)) * (Error<sub>anual_dem_d-1</sub> – UmbralBMSup<sub>dem_d-1</sub>)*
+
+Si *UmbralErrorInf<sub>dem_h3</sub>* < *Error<sub>anual_dem_h3</sub>* <*UmbralBMInf<sub>dem_h3,</sub>*
+
+entonces:
+
+*Incentivo<sub>dem_h3</sub> = ((LS<sub>dem</sub>/3) / (UmbralBMInf<sub>dem_h3</sub> – UmbralErrorInf<sub>dem_h3</sub>)) * (UmbralBMInf<sub>dem_h3</sub> – Error<sub>anual_dem_h3</sub>)*
+
+Si *UmbralBMSup<sub>dem_h3</sub>* < *Error<sub>anual_dem_h3</sub>* < *UmbralErrorSup<sub>dem_h3,</sub>*
+
+entonces:
+
+*Incentivo<sub>dem_h3</sub> = ((LI<sub>dem</sub>/3) / (UmbralErrorSup<sub>dem_h3</sub> – UmbralBMSup<sub>dem_h3</sub>)) * (Error<sub>anual_dem_h3</sub> – UmbralBMSup<sub>dem_h3</sub>)*
+
+Siendo *UmbralBMInf<sub>dem_a,</sub>* *UmbralBMSup<sub>dem_a,</sub>* *UmbralBMInf<sub>dem_d-1,</sub>* *UmbralBMSup<sub>dem_d-1,</sub> UmbralBMInf<sub>dem_h3</sub>* y *UmbralBMSup<sub>dem_h3</sub>* los umbrales inferior y superior que determinan la banda muerta del error para cada uno de los tres horizontes temporales respectivamente.
+
+2\. Incentivo para la mejora de la previsión de la producción de energía renovable.
+
+Se evaluará un objetivo de mejora de las previsiones de eólica y solar fotovoltaica efectuadas por el operador del sistema, considerando dos niveles de previsión, diario e intradiario, ponderando a partes iguales cada uno de los horizontes.
+
+El indicador de calidad de previsión de horizonte diario se determinará en función de la diferencia entre la previsión diaria peninsular de la producción eólica y fotovoltaica publicada una hora antes del cierre de ofertas al mercado diario (las 11:00 horas CET del día D-1) y la producción horaria real.
+
+La métrica considerada para el cálculo del error será la suma del error absoluto horario anual respecto a la energía total anual cuya formulación matemática es la siguiente:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/40/4135_12800555_4.png)
+
+Donde:
+
+*Error<sub>anual_ren_d-1</sub>:*error relativo anual de la previsión para el día d publicada el día d-1.
+
+*ProdPrev<sub>ren_d-1</sub>(h):*producción renovable prevista para la hora h publicada el día d-1 en MWh.
+
+*RSO(h):* corrección por limitaciones del OS o activación del servicio de balance en la hora h en MWh.
+
+*ProdReal(h):* producción renovable real en la hora h en MWh.
+
+*n:* número de horas del año para el que se calcula el error de previsión de energía renovable, excluyendo horas con precio del mercado diario inferior a 5 €/MWh así como horas sin previsión por incidencia informática no subsanable, por no disponer de previsión en un horizonte anterior, que sean autorizadas por la Comisión Nacional de los Mercados y la Competencia.
+
+*ProducciónRealAnual:*producción renovable total del año en MWh, descontando las horas excluidas.
+
+El indicador de calidad de previsión de horizonte intradiario se determinará en función de la diferencia entre la previsión horaria de la producción eólica y fotovoltaica peninsular publicada tres horas antes del inicio de cada hora y la producción horaria real.
+
+La métrica considerada para el cálculo del error será la suma del error absoluto horario anual respecto a la energía total anual cuya formulación matemática es la siguiente:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/40/4135_12800555_5.png)
+
+Donde:
+
+*Error<sub>anual_ren_h3</sub>*: error relativo anual de la previsión para la hora h publicada en la hora h-3, tres horas antes del inicio de cada hora.
+
+*ProdPrev<sub>ren_h3</sub>(h)*: producción renovable prevista para la hora h publicada tres horas antes en MWh.
+
+*RSO(h)*: corrección por limitaciones del OS o activación por servicio de balance en la hora h en MWh.
+
+*ProdReal(h)*: producción renovable real en la hora h en MWh.
+
+*n*: n.º de horas del año para el que se calcula el error de previsión de energía renovable, excluyendo horas con precio del mercado diario inferior a 5 €/MWh así como horas sin previsión por incidencia informática no subsanable, por no disponer de previsión en un horizonte anterior, que sean autorizadas por la Comisión Nacional de los Mercados y la Competencia.
+
+*ProduccionRealAnual*: Producción renovable total del año en MWh, descontando las horas excluidas.
+
+El incentivo total por previsión de energía renovable *Incentivo<sub>ren</sub>* será la suma de los incentivos de previsión de cada horizonte temporal:
+
+*Incentivo<sub>ren </sub>= Incentivo<sub>ren_d-1</sub> + Incentivo<sub>ren_h3</sub>*
+
+*LI<sub>ren</sub>* y *LS<sub>ren</sub>* son el límite inferior y superior del incentivo por previsión de energía renovable y se fijarán mediante resolución para cada periodo regulatorio.
+
+Cada uno de estos dos incentivos correspondientes a los dos horizontes temporales:
+
+Alcanzan su valor máximo*LS<sub>ren</sub>/2* cuando el indicador correspondiente sea inferior o igual al umbral de retribución máxima que vendrá definido mediante la aplicación de un porcentaje al valor medio de los errores horarios registrados en los cinco años anteriores al comienzo del periodo regulatorio y se fijarán mediante resolución para cada periodo:
+
+*Incentivo<sub>ren_d-1</sub> = LS<sub>ren</sub>/2*si*Error<sub>anual_ren_d-1</sub> <= UmbralErrorInf<sub>ren_d-1</sub>*
+
+*Incentivo<sub>ren_h3</sub> = LS<sub>ren</sub>/2*si*Error<sub>anual_ren_h3</sub> <= UmbralErrorInf<sub>ren_h3</sub>*
+
+Alcanzarán su valor mínimo *LI<sub>ren</sub>/2* cuando el indicador correspondiente sea superior o igual al umbral de retribución mínimo que vendrá definido mediante la aplicación de un porcentaje al valor medio de los errores horarios registrados en los cinco años anteriores al comienzo del periodo regulatorio y se fijarán mediante resolución para cada periodo:
+
+*Incentivo<sub>ren_d-1</sub> = LI<sub>ren</sub>/2*si*Error<sub>anual_ren_d-1</sub> >= UmbralErrorSup<sub>ren_d-1</sub>*
+
+*Incentivo<sub>ren_h3</sub> = LI<sub>ren</sub>/2*si*Error<sub>anual_ren_h3</sub> >= UmbralErrorSup<sub>ren_h3</sub>*
+
+Obtendrán valores nulos cuando el indicador correspondiente esté comprendido dentro de una banda muerta dentro de la cual no hay significación estadística, con un determinado nivel de confianza, de cambio en la precisión del modelo de previsión. Para su determinación se utilizarán los errores registrados en los cinco años anteriores al comienzo del periodo regulatorio y se fijarán mediante resolución para cada periodo.
+
+Obtendrán valores determinados por las siguientes fórmulas cuando el indicador correspondiente se sitúe por fuera de la banda muerta, pero dentro de los umbrales de retribución máxima y mínima:
+
+Si *UmbralErrorInf<sub>ren_d-1</sub>* < *Error<sub>anual_ren_d-1</sub>* < *UmbralBMInf<sub>ren_d-1,</sub>*
+
+entonces:
+
+*Incentivo<sub>ren_d-1</sub> = ((LS<sub>ren</sub>/2) / (UmbralBMInf<sub>ren_d-1</sub> – UmbralErrorInf<sub>ren_d-1</sub>)) * (UmbralBMInf<sub>ren_d-1</sub> – Error<sub>anual_ren_d-1</sub>)*
+
+Si *UmbralBMSup<sub>ren_d-1</sub>* < *Error<sub>anual_ren_d-1</sub>*< *UmbralErrorSup<sub>ren_d-1,</sub>*
+
+entonces:
+
+*Incentivo<sub>ren_d-1</sub> = ((LI<sub>ren</sub>/2) / (UmbralErrorSup<sub>ren_d-1</sub> – UmbralBMSup<sub>ren_d-1</sub>)) * (Error<sub>anual_ren_d-1</sub> – UmbralBMSup<sub>ren_d-1</sub>)*
+
+Si *UmbralErrorInf<sub>ren_h3</sub>* <*Error<sub>anual_ren_h3</sub>* < *UmbralBMInf<sub>ren_h3,</sub>*
+
+entonces:
+
+*Incentivo<sub>r_h3</sub> = ((LS<sub>ren</sub>/2) / (UmbralBMInf<sub>r_h3</sub> – UmbralErrorInf<sub>r_h3</sub>)) * (UmbralBMInf<sub>r_h3</sub> – Erroranual<sub>r_h3</sub>)*
+
+Si *UmbralBMSup<sub>r_h3</sub>* < *Erroranual<sub>r_h3</sub>* <*UmbralErrorSup<sub>r_h3,</sub>*
+
+entonces:
+
+*Incentivo<sub>ren_h3</sub> = ((LI<sub>ren</sub>/2) / (UmbralErrorSup<sub>ren_h3</sub> – UmbralBMSup<sub>ren_h3</sub>)) * (Error<sub>anual_ren_h3</sub> – UmbralBMSup<sub>ren_h3</sub>)*
+
+Siendo *UmbralBMInf<sub>ren_d-1,</sub> UmbralBMSup<sub>ren_d-1,</sub> UmbralBMInf<sub>ren_h3</sub>* y *UmbralBMSup<sub>ren_h3</sub>* los umbrales inferior y superior que determinan la banda muerta del error para cada uno de los dos horizontes temporales de previsión de energía renovable.
+
+> Se modifica por el art. 4 de la Circular 1/2023, de 7 de febrero. [Ref. BOE-A-2023-4135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4135)
+
+> Téngase en cuenta, sobre límites parciales de cada uno de los incentivos aplicables durante el periodo regulatorio 2023-2025, la disposición adicional única de la citada Circular.
+
+### Artículo 13. Incentivos para la transición energética.
+
+Se establecen dos incentivos cuyo objetivo es promover el apoyo del operador del sistema a la transición energética y el desarrollo tecnológico.
+
+1\. Incentivo para el incremento de la eficiencia en la atención a las consultas de los agentes del sistema.
+
+Se evaluará un objetivo de eficiencia en la actuación del operador del sistema en relación con la atención a las consultas realizadas por los agentes del sistema. Para ello, se utilizarán los tiempos de respuesta a los 8 siguientes servicios que proporciona el operador del sistema a los agentes. Estos datos deberán ser aportados y debidamente acreditados por el operador del sistema ante la Comisión Nacional de los Mercados y la Competencia.
+
+1\. Acceso a la red.
+
+2\. Puesta en servicio.
+
+3\. Medidas eléctricas, cierres de medidas y equipos.
+
+4\. Mercado eléctrico y gestión de interconexiones.
+
+5\. Protecciones, incidentes, calidad de servicio y potencia de cortocircuito.
+
+6\. Liquidaciones, financiación, garantías, cobros y pagos.
+
+7\. Operación del sistema, Centros de control y Despachos.
+
+8\. Consumidores electrointensivo.
+
+Para determinar el nivel de cumplimiento del incentivo, se considerará la media anual del plazo de respuesta de las consultas (TMR) calculado a partir de la media anual del plazo de respuesta de las consultas de cada servicio (t<sub>i</sub>):
+
+TMR = k<sub>1</sub>*t<sub>1</sub> + k<sub>2</sub>*t<sub>2 </sub>+ k<sub>3</sub>*t<sub>3</sub> + k<sub>4</sub>*t<sub>4</sub> + k<sub>5</sub>*t<sub>5</sub> + k<sub>6</sub>*t<sub>6</sub> + k<sub>7</sub>*t<sub>7</sub> + k<sub>8</sub>*t<sub>8</sub>
+
+donde t<sub>1</sub>, t<sub>2</sub>, …, t<sub>8</sub> corresponde al tiempo medio anual de la primera respuesta que recibe el agente a la consulta del servicio i promediado por el n.º de consultas y k<sub>1</sub>, k<sub>2</sub>, …, k<sub>8</sub> el peso de cada servicio i, siendo Σ k<sub>i</sub> = 1, que se fijarán mediante resolución para cada periodo.
+
+El impacto de este incentivo sobre la retribución será calculado de la siguiente forma:
+
+a) Si TMR ≥ *UmbralDiasSup*<sub>tmr,</sub> el incentivo es *(LI<sub>tmr</sub>).*
+
+b) Si TMR ≤ *UmbralDiasInf*<sub>tmr,</sub> el incentivo es*(LS<sub>tmr</sub>).*
+
+c) Si TMR está entre *UmbralDiasInf*<sub>tmr</sub> y *UmbralDiasSup*<sub>tmr,</sub> el incentivo se calculará aplicando la siguiente fórmula:
+
+*Incentivo = LS<sub>tmr</sub> - (LS<sub>tmr</sub>-LI<sub>tmr</sub>) / (UmbralDiasSup<sub>tmr</sub>-UmbralDiasInf<sub>tmr</sub>) * (TMR- UmbralDiasInf<sub>tmr</sub>)*
+
+Donde:
+
+*UmbralDiasInf<sub>tmr</sub>*y *UmbralDiasSup<sub>tmr</sub>* vendrán definidos respectivamente como el TMR mínimo y máximo, se fijarán mediante resolución para cada periodo regulatorio y se determinarán teniendo en cuenta el número de consultas anuales recibidas en los periodos previos.
+
+*LI<sub>tmr</sub>* y*LS<sub>tmr</sub>* son el límite inferior y superior del término de retribución por incentivos correspondiente al incentivo por plazo de respuesta a consultas de los agentes del sistema y se fijarán mediante resolución para cada periodo regulatorio.
+
+2\. Incentivo para el incremento de la oferta y la competencia en los servicios auxiliares.
+
+Se evaluará un objetivo de incremento del volumen de potencia y/o energía que sea ofertada al operador del sistema por los proveedores de los servicios auxiliares que requieran habilitación previa por parte del OS que se decida considerar en cada periodo regulatorio *(EnergiaOfertada).*
+
+Se comparará el volumen de oferta medio anual (promedio del volumen correspondiente a todos los periodos de programación del año) con la oferta correspondiente a los años anteriores al comienzo del periodo regulatorio. Se considerará para ello un periodo de como mínimo dos y como máximo cinco años en los que se haya negociado el producto del que se trate.
+
+El impacto de este incentivo sobre la retribución será calculado de la siguiente forma:
+
+a) Si la energía ofertada a subir y a bajar ≥*UmbralEnergiaSup<sub>of,</sub>* el incentivo es *LS<sub>of.</sub>*
+
+b) Si la energía ofertada a subir y a bajar ≤*(UmbralEnergiaSup<sub>of</sub> + UmbralEnergiaInf<sub>o</sub>*<sub>f</sub>)/2 el incentivo es nulo.
+
+c) Si la energía ofertada a subir y a bajar está entre *(UmbralEnergiaSup<sub>of</sub> + UmbralEnergiaInf<sub>o</sub>*<sub>f</sub>)/2 y *UmbralEnergiaSup<sub>of,</sub>* el incentivo se calculará aplicando la siguiente fórmula:
+
+*Incentivo= LS<sub>of</sub> * [EnergiaOfertada_a subir_y_a_bajar - (UmbralEnergiaSup<sub>of </sub>+ UmbralEnergiaInf<sub>of</sub>)/2] / [(UmbralEnergiaSup<sub>of</sub>-UmbralEnergiaInf<sub>of</sub>)/2]*
+
+Donde:
+
+*UmbralEnergiaInf<sub>of</sub>* y *UmbralEnergiaSup<sub>of</sub>* vendrán definidos respectivamente como la energía media mínima y máxima ofertada a subir y a bajar en los años anteriores al comienzo del periodo regulatorio, y se fijarán mediante resolución para cada periodo. La indicada resolución determinará cuáles son los servicios considerados en cada periodo, así como el número de años que se tomarán como referencia.
+
+*LS<sub>of</sub>* es el límite superior del término de retribución por incentivos correspondiente al incentivo por competitividad en los servicios y se fijará mediante resolución para cada periodo regulatorio.
+
+> Se modifica por el art. 5 de la Circular 1/2023, de 7 de febrero. [Ref. BOE-A-2023-4135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4135)
+
+> Téngase en cuenta, sobre límites parciales de cada uno de los incentivos aplicables durante el periodo regulatorio 2023-2025, la disposición adicional única de la citada Circular.
+
+## CAPÍTULO IV — Metodología para la fijación de los precios a repercutir a los sujetos del sistema eléctrico para la financiación de la retribución del operador del sistema
+
+### Artículo 14. Financiación de la retribución del operador del sistema.
+
+La retribución del operador del sistema será asumida, en un 50 por ciento, por el conjunto de los productores de energía eléctrica situados en el territorio nacional y, en el otro 50 por ciento, por el conjunto de los comercializadores y consumidores directos en mercado que actúen en el ámbito geográfico nacional.
+
+### Artículo 15. Precios a repercutir a los agentes para la financiación de la retribución del operador del sistema.
+
+1\. Los precios a repercutir a los sujetos se componen de una cuota fija y una cuota variable.
+
+2\. La cuota fija se determina en 200 euros/mes por sujeto de liquidación ante el operador del sistema y de forma separada por la actividad de generación y la de demanda. La cuota fija se aplicará de forma conjunta para el mercado peninsular y los despachos de los territorios no peninsulares a los sujetos de liquidación que hayan tenido programa horario final en alguna hora del mes. Se considerará que el sujeto ha tenido programa horario final si realiza transacciones en los mercados con programa horario final cero o distinto de cero.
+
+El programa horario final en los territorios no peninsulares será, para la demanda y para las instalaciones de generación de categoría B, la previsión comunicada al operador del sistema y, para las instalaciones de categoría A, el programa final del tercer despacho conforme a la dispuesto en el Real Decreto 738/2015, de 31 de julio, por el que se regula la actividad de producción de energía eléctrica y el procedimiento de despacho en los sistemas eléctricos de los territorios no peninsulares.
+
+3\. Para cada sujeto de generación que actúe en el ámbito geográfico nacional, la cuota variable se determinará en función de su último programa horario final en el periodo liquidado, incluyendo el resultado de los servicios de ajuste multiplicado por el precio variable establecido conforme al artículo 18.
+
+4\. Para cada sujeto comercializador o consumidor directo en mercado, que actúe en el ámbito geográfico nacional, la cuota variable se determinará en función de su último programa horario final en el periodo liquidado, incluyendo el resultado de los servicios de ajuste multiplicado por el precio variable establecido conforme al artículo 18.
+
+### Artículo 16. Cobro y liquidación.
+
+1\. Los pagos que se establecen en el artículo 15 se efectuarán mensualmente de acuerdo con el calendario de liquidaciones del operador del sistema.
+
+2\. El operador del sistema facturará los pagos a los sujetos de liquidación definidos en el artículo 14 no antes del primer día de cobros posterior al tercer día hábil del mes m+1.
+
+3\. De acuerdo con lo previsto en el artículo 13.3.l) de la Ley 24/2013, de 26 de diciembre, la diferencia, positiva o negativa, que se produzca entre la cuantía resultante de la recaudación obtenida por el operador del sistema en el año n, en aplicación de los precios a repercutir a los agentes para su financiación, y la retribución anual que se establezca para el año n tendrá la consideración de coste o ingreso liquidable, y será incluida en el proceso de liquidaciones del sistema eléctrico gestionado por el órgano encargado de las liquidaciones, en la liquidación 14 correspondiente al año n.
+
+## CAPÍTULO V — Establecimiento de la retribución y los precios
+
+### Artículo 17. Establecimiento de la cuantía anual de retribución del operador del sistema.
+
+1\. Antes del 1 de enero del año n la Comisión Nacional de los Mercados y la Competencia aprobará mediante resolución la cuantía de la retribución del operador del sistema del año n ![26](https://www.boe.es/datos/imagenes/disp/2019/290/17348_9039.png) a la que se refiere el artículo 3, con base en la metodología establecida en el capítulo II.
+
+Se incorporará una estimación del término de retribución por incentivos consistente con un nivel de cumplimiento máximo.
+
+2\. La Comisión Nacional de los Mercados y la Competencia determinará mediante resolución el nivel de cumplimiento de los incentivos del año n. La diferencia entre la estimación del término de retribución por incentivos y la cuantía que resulte de conformidad con el nivel de cumplimiento de los mismos será ajustada en la liquidación de cierre del año n.
+
+### Artículo 18. Establecimiento de los precios anuales a repercutir a los agentes para la financiación del operador del sistema.
+
+Antes del 1 de enero del año n se aprobará mediante resolución la cuantía de los precios a repercutir a los agentes, a los que se refiere el artículo 15, para la financiación del operador del sistema en el año n, con base en la metodología establecida en el capítulo II.
+
+El precio anual, en euros/MWh, se determinará con la mejor previsión disponible de los ingresos por cuota fija y de la demanda anual, para garantizar que se cubra la retribución total del operador del sistema con la suma de los ingresos por el programa horario final de los sujetos y lo recaudado por las cuotas fijas de estos, sin perjuicio de lo dispuesto en el artículo 16.3. El precio variable será el mismo para los programas de generación y de demanda.
+
+### Disposición adicional primera. Valores de los parámetros de la base de retribución del operador del sistema para el periodo regulatorio 2020-2022.
+
+El primer periodo regulatorio de aplicación de la presente circular transcurrirá desde el 1 de enero de 2020 al 31 de diciembre de 2022.
+
+Para este periodo regulatorio los valores de los parámetros de la base de retribución del operador del sistema serán los siguientes:
+
+1.*![27](https://www.boe.es/datos/imagenes/disp/2019/290/17348_9361.png)*71.593 miles €.
+
+2.*![28](https://www.boe.es/datos/imagenes/disp/2019/290/17348_9615.png)*53.208 miles €.
+
+3.*![29](https://www.boe.es/datos/imagenes/disp/2019/290/17348_9847.png)*2.660 miles €.
+
+4.*![30](https://www.boe.es/datos/imagenes/disp/2019/290/17348_10346.png)*13.400 miles €.
+
+5.*![31](https://www.boe.es/datos/imagenes/disp/2019/290/17348_10591.png)*2.325 miles €.
+
+6.*![32](https://www.boe.es/datos/imagenes/disp/2019/290/17348_10844.png)*41.669 miles €.
+
+7.*![33](https://www.boe.es/datos/imagenes/disp/2019/290/17348_11099.png)*5.000 miles €.
+
+8\. ![34](https://www.boe.es/datos/imagenes/disp/2019/290/17348_11371.png) 1.667 miles €.
+
+### Disposición adicional segunda. Límites de la retribución por incentivos aplicables durante el primer período regulatorio.
+
+Para el primer período regulatorio 2020-2022, se establecen en – 2 % y + 2 % los límites inferior LI y superior LS, respectivamente, de la retribución por incentivos.
+
+Para el primer periodo, LI<sub>rrtt</sub>, LI<sub>d</sub> y LI<sub>r</sub> se establecen como LI/3, y LS<sub>rrtt</sub>, LS<sub>d</sub> y LS<sub>r</sub> se establecen como LS/3.
+
+### Disposición adicional tercera. Fuentes de información.
+
+Sin perjuicio de otra información que se encuentre a disposición de la Comisión Nacional de los Mercados y la Competencia o que esta pueda obtener por otros medios, se utilizará la información procedente de la Circular 5/2009, de 16 de julio, de la Comisión Nacional de Energía, sobre obtención de información de carácter contable y económico financiera de las empresas que desarrollen actividades eléctricas, de gas natural y gases manufacturados por canalización, y de la Circular 1/2015, de 22 de julio, de la Comisión Nacional de los Mercados y la Competencia, de desarrollo de la información regulatoria de costes relativa a las actividades reguladas de transporte, regasificación, almacenamiento y gestión técnica del sistema de gas natural, así como transporte y operación del sistema de electricidad.
+
+### Disposición transitoria única. Costes de estudios de acceso a la red.
+
+Los costes de estudios de acceso a la red de transporte se tendrán en cuenta en el término de retribución por OPEX mientras no se desarrolle la normativa que prevea su cobro a los solicitantes de dichos estudios.
+
+### Disposición final única. Entrada en vigor.
+
+La presente circular entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 27 de noviembre de 2019.–El Presidente de la Comisión Nacional de los Mercados y la Competencia, José María Marín Quemada.

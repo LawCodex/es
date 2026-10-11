@@ -1,0 +1,115 @@
+---
+title: "Orden de 15 de febrero de 1990 por la que se desarrolla el Real Decreto 1668/1989, de 29 de diciembre, por el que se crean las Unidades de Intervención Policial y se establecen las especialidades de su régimen estatutario"
+identifier: "BOE-A-1990-4365"
+eli: "https://www.boe.es/eli/es/o/1990/02/15/(3)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio del Interior"
+date: 1990-02-15
+published: 1990-02-20
+in_force_from: 1990-02-21
+last_amended: 2013-01-24
+consolidated: 2026-02-13
+gazette: "Boletín Oficial del Estado núm. 44"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-4365"
+retrieved: 2026-10-11
+---
+
+# Orden de 15 de febrero de 1990 por la que se desarrolla el Real Decreto 1668/1989, de 29 de diciembre, por el que se crean las Unidades de Intervención Policial y se establecen las especialidades de su régimen estatutario
+
+El Real Decreto 1668/1989, de 29 de diciembre, por el que se crean las Unidades de Intervención Policial y se establecen las especialidades de su régimen estatutario, fija los principios básicos de actuación de tales Unidades así como las particularidades del régimen jurídico al que han de ajustarse los miembros del Cuerpo Nacional de Policía destinados en las mismas.
+
+Al objeto de que las referidas Unidades de Intervención puedan entrar en funcionamiento y desarrollar su actividad, se hace preciso regular su estructura y dependencia orgánica y funcional, determinar el número de las mismas y su ámbito de actuación, así como el de aquellas Compañías de Reserva General que se integrarán en las Unidades de Intervención Policial.
+
+En su virtud, previo informe del Consejo de Policía y aprobación del Ministerio para las Administraciones Públicas he tenido a bien disponer:
+
+## Primero.
+
+Con dependencia orgánica y funcional del Comisario general de Seguridad Ciudadana y con nivel orgánico de Servicio, se crea la Jefatura de las Unidades de Intervención Policial, que tendrá funciones de dirección, coordinación y control de dichas Unidades y estará integrada por las Secciones de Gestión de Recursos y de Coordinación.
+
+## Segundo.
+
+Las Unidades de Intervención Policial dependerán orgánicamente de la Jefatura a que se refiere el apartado primero de esta Orden y funcionalmente del Jefe policial del lugar donde presten sus servicios o se hallen destacadas.
+
+## Tercero.
+
+La estructura de una Unidad de Intervención Policial estará compuesta por el mando de la Unidad, integrado por la jefatura con una secretaria y un subgrupo de mando y tres grupos operativos compuestos cada uno de ellos por tres subgrupos operativos, cada uno de los cuales contará con dos equipos operativos.
+
+Los grupos operativos de estas Unidades podrán aumentarse o, en su caso, disminuirse, en función de la demanda de las necesidades operativas de los servicios policiales.
+
+## Cuarto.
+
+Se crean las siguientes Unidades de Intervención Policial:
+
+• Unidad Central de Intervención Policial, dependiente directamente de la Jefatura de las Unidades de Intervención Policial, que tendrá su base en Madrid y ámbito de actuación en todo el territorio nacional.
+
+• Primera Unidad de Intervención Policial, con base en Madrid y ámbito de actuación preferente en las provincias de Madrid, Toledo, Ciudad Real, Cuenca, Guadalajara y Albacete.
+
+• Segunda Unidad de Intervención Policial, con base en Barcelona y ámbito de actuación preferente en las provincias de Barcelona, Girona, Lleida y Tarragona.
+
+• Tercera Unidad de Intervención Policial, con base en Valencia, y ámbito de actuación preferente en las provincias de Valencia, Castellón de la Plana, Alicante, Murcia e Illes Balears.
+
+• Cuarta Unidad de Intervención Policía, con base en Sevilla y ámbito de actuación preferente en las provincias de Sevilla, Cádiz, Huelva, Córdoba, Badajoz, Cáceres y Ciudad de Ceuta.
+
+• Quinta Unidad de Intervención Policía, con bases en Granada y Málaga y ámbito de actuación preferente en las provincias de Granada, Málaga, Almería, Jaén y Ciudad de Melilla.
+
+• Sexta Unidad de Intervención Policía, con bases en Pamplona y Bilbao y ámbito de actuación preferente en las provincias de Vizcaya, Álava, Guipúzcoa y Navarra.
+
+• Séptima Unidad de Intervención Policial, con base en Valladolid y ámbito de actuación preferente en las provincias de Valladolid, León, Palencia, Burgos, Soria, Ávila, Segovia, Zamora y Salamanca.
+
+• Octava Unidad de Intervención Policial, con bases en A Coruña y Vigo, y ámbito de actuación preferente en las provincias de A Coruña, Lugo, Ourense y Pontevedra.
+
+• Novena Unidad de Intervención Policial, con base en Oviedo y ámbito de actuación preferente en las provincias de Asturias y Cantabria.
+
+• Décima Unidad de Intervención Policial, con base en las Palmas de Gran Canaria y Santa Cruz de Tenerife y ámbito de actuación preferente en las provincias de Las Palmas y Santa Cruz de Tenerife.
+
+• Undécima Unidad de Intervención Policial, con base en Zaragoza y ámbito de actuación preferente en las provincias de Zaragoza, Huesca, Teruel y La Rioja.
+
+> Se modifica por la disposición adicional 7 de la Orden INT/28/2013, de 18 de enero. [Ref. BOE-A-2013-662](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-662).
+
+> Se modifica por el apartado único de la Orden INT/2400/2007, de 31 de julio. [Ref. BOE-A-2007-15002](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-15002).
+
+> Redactada la unidad sexta conforme a la corrección de errores publicada en BOE núm. 238, de 4 de octubre de 2007. [Ref. BOE-A-2007-17345](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17345).
+
+> Se modifica por la disposición adicional 8 de la Orden INT/2103/2005, de 1 de julio. [Ref. BOE-A-2005-11370](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11370).
+
+> Se modifica por el apartado 1 de la Orden de 11 de diciembre de 2000. [Ref. BOE-A-2000-22619](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-22619).
+
+> Se modifica por el apartado 1 de la Orden de 11 de febrero de 1993. [Ref. BOE-A-1993-5673](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5673).
+
+## Disposición transitoria primera.
+
+Los funcionarios de la Sección de Unidades de Reserva General, quedarán integrados en la Jefatura de las Unidades de Intervención Policial.
+
+## Disposición transitoria segunda.
+
+Una vez superado el curso previsto en el artículo 3.Uno del Real Decreto 1668/1989, de 29 de diciembre, los integrantes de las Compañías de Reserva General, que a continuación se relacionan quedarán integrados en las Unidades de Intervención Policial que asimismo se especifican, en el momento de su constitución:
+
+Los de la decimoquinta y decimoséptima Compañías de Reserva General, en la Unidad Central de Intervención Policial y la Primera Unidad de Intervención Policial.
+
+Los de la décima y decimoctava Compañías de Reserva General, en la Segunda Unidad de Intervención Policial.
+
+Los de la vigésima Compañía de Reserva General, en la Tercera Unidad de Intervención Policial.
+
+Los de la decimonovena Compañía de Reserva General, en la Quinta Unidad de Intervención Policial.
+
+Los de la decimocuarta Compañía de Reserva General, en la Sexta Unidad de Intervención Policial.
+
+Los de la segunda Compañía de Reserva General, en la Séptima Unidad de Intervención Policial.
+
+Los de la novena Compañía de Reserva General, en la Octava Unidad de Intervención Policial.
+
+## Disposición final primera.
+
+Se autoriza al Director general de la Policía para determinar la fecha de la entrada en funcionamiento de cada una de las Unidades de Intervención Policial, una vez que se proceda a su constitución, en razón de las necesidades del servicio, así como para adoptar las resoluciones y medidas que requiera la ejecución de la presente norma.
+
+## Disposición final segunda.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Orden, que entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Estado».
+
+Madrid, 15 de febrero de 1990.
+
+CORCUERA CUESTA

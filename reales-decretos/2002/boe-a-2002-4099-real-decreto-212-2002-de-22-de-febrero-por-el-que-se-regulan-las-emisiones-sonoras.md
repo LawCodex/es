@@ -1,0 +1,2200 @@
+---
+title: "Real Decreto 212/2002, de 22 de febrero, por el que se regulan las emisiones sonoras en el entorno debidas a determinadas máquinas de uso al aire libre"
+identifier: "BOE-A-2002-4099"
+eli: "https://www.boe.es/eli/es/rd/2002/02/22/212"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2002-02-22
+published: 2002-03-01
+in_force_from: 2002-06-02
+last_amended: 2026-04-10
+consolidated: 2026-06-01
+gazette: "Boletín Oficial del Estado núm. 52"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2002-4099"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 212/2002, de 22 de febrero, por el que se regulan las emisiones sonoras en el entorno debidas a determinadas máquinas de uso al aire libre
+
+La Ley 21/1992, de 16 de julio, de Industria, en su artículo 2, señala que uno de sus fines es «contribuir a compatibilizar la actividad industrial con la protección al medio ambiente», de modo que, como declara también su artículo 9.1, «la seguridad industrial tiene por objeto la prevención y limitación de riesgos, así como la protección contra accidentes y siniestros capaces de producir daños o perjuicios a las personas, flora, fauna, bienes o al medio ambiente, derivados de la actividad industrial o de la utilización, funcionamiento y mantenimiento de las instalaciones o equipos y de la producción, uso o consumo, almacenamiento o desecho de los productos industriales».
+
+Mediante Real Decreto 245/1989, de 27 de febrero, sobre determinación y limitación de la potencia acústica admisible de determinado material y maquinaria de obra se dio cumplimiento a la directiva marco 84/532/CEE, sobre disposiciones comunes de materiales y equipos para la construcción, así como a la directiva general 79/113/CEE, sobre el nivel de emisión sonora admisible de distintos materiales, equipos e instalaciones, y a nueve directivas específicas, derivadas de las anteriores.
+
+El quinto programa de acción en materia de medio ambiente anejo a la Resolución del Consejo de las Comunidades Europeas, de 1 de febrero de 1993, se refiere al ruido como uno de los problemas ambientales más urgentes en las zonas urbanas y a la necesidad de adoptar medidas con respecto a las distintas fuentes de ruido.
+
+A su vez, en el Libro Verde Política futura de lucha contra el ruido, la Comisión Europea aborda el ruido ambiental como uno de los problemas ecológicos locales más graves en Europa.
+
+Como consecuencia, el Consejo y el Parlamento Europeo han aprobado la Directiva 2000/14/CE, de 8 de mayo, relativa a la aproximación de las legislaciones de los Estados miembros sobre emisiones sonoras en el entorno debidas a las máquinas de uso al aire libre, mediante la cual se pretende armonizar los requisitos sobre el ruido emitido por las máquinas de uso al aire libre, a fin de prevenir los obstáculos a la libre circulación de dichas máquinas en el territorio de la Unión Europea, y proteger al mismo tiempo la salud y el bienestar de los ciudadanos, así como el medio ambiente, mediante la reducción de los niveles acústicos aceptables para las mismas y la información a usuarios y público sobre el ruido emitido por estas máquinas.
+
+Con la citada directiva, que se basa en los principios y conceptos establecidos en la Resolución del Consejo, de 7 de mayo de 1985, sobre una nueva aproximación en materia de armonización y normalización (sistema conocido como «Nuevo Enfoque»), y en la Decisión 93/465/CEE del Consejo, de 22 de julio, relativa a los módulos correspondientes a las diversas fases de los procedimientos de evaluación de la conformidad y a las disposiciones referentes al sistema de colocación y utilización del marcado CE de conformidad, que van a utilizarse en las directivas de armonización técnica (sistema del llamado «Enfoque global»), se unifican las disposiciones sobre niveles sonoros admisibles, códigos de ensayo para la medición del ruido, procedimientos de evaluación de la conformidad y marcado para cada uno de los tipos de máquinas de uso al aire libre contenidas en las directivas antes citadas, y las amplía a un buen número adicional de tipos de máquinas.
+
+Se ha previsto reducir en dos fases (3 de enero de 2002 y 3 de enero de 2006), el ruido emitido por máquinas sujetas a límites sonoros hasta los mejores niveles conseguidos por máquinas existentes actualmente en el mercado, a fin de que los fabricantes que no poseen la debida tecnología dispongan de tiempo suficiente para adaptar sus diseños a los mismos.
+
+En cumplimiento de los mecanismos establecidos en la Unión Europea, es preciso realizar la traslación de las obligaciones contenidas en la Directiva 2000/14/CE al derecho interno nacional, lo que se materializa mediante el presente Real Decreto.
+
+Se ha procedido al trámite de audiencia, según lo dispuesto por el artículo 24, 1, c) de la Ley 50/1997, de 27 de noviembre, del Gobierno, habiéndose consultado a las Comunidades Autónomas y sectores interesados.
+
+En su virtud, a propuesta de los Ministros de Medio Ambiente y de Ciencia y Tecnología, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 22 de febrero de 2002,
+
+D I S P O N G O :
+
+## CAPÍTULO I — Régimen ordinario respecto a las emisiones sonoras en el entorno debidas a determinadas máquinas de uso al aire libre
+
+> Se añade la agrupación de los arts. 1 a 18 en el capítulo I por el art. 1.3 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
+
+> Esta modificación entra en vigor el 30 de mayo de 2026, según establece su disposición final cuarta.
+
+### Artículo 1. Objeto.
+
+El presente Real Decreto tiene por objeto establecer las normas sobre emisiones sonoras en el entorno, debidas a determinadas máquinas de uso al aire libre, de acuerdo con lo estipulado en la Directiva 2000/14/CE del Consejo y del Parlamento Europeo, de 8 de mayo, con el fin de contribuir a facilitar el funcionamiento del mercado interior en la Unión Europea y a proteger la salud y el bienestar de las personas.
+
+### Artículo 2. Ámbito de aplicación.
+
+1\. El presente real decreto se aplicará a las máquinas de uso al aire libre enumeradas en los artículos 11 y 12, y definidas en el anexo I, siempre que dichas máquinas sean puestas en el mercado o puestas en servicio como una unidad completa adecuada para el uso previsto por el fabricante. Quedan excluidos los accesorios sin motor puestos en el mercado o puestos en servicio por separado, con la excepción de los trituradores de hormigón, los martillos picadores de mano y los martillos hidráulicos.
+
+2\. No se incluyen en el ámbito de aplicación del presente Real Decreto:
+
+a) Todas las máquinas destinadas principalmente al transporte de personas y mercancías por las vías terrestres, por ferrocarril, por vía aérea o por vía fluvial.
+
+b) Las máquinas diseñadas y construidas especialmente para fines militares y policiales, así como para servicios de emergencia.
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 524/2006, de 28 de abril. [Ref. BOE-A-2006-7900](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-7900)
+
+### Artículo 3. Definiciones.
+
+A efectos del presente Real Decreto se entenderá por:
+
+a) «Máquinas de uso al aire libre» todas las máquinas definidas en el apartado 2 del artículo 1 del Real Decreto 1435/1992, de 27 de noviembre, por el que se dictan las disposiciones de aplicación de la Directiva 89/392/CEE, del Consejo, de 14 de junio, relativa a la aproximación de las legislaciones de los Estados miembros sobre máquinas, autopropulsadas o no y que, independientemente del elemento o elementos motores, están diseñadas, según su tipo, para utilizarse en el exterior, y que contribuyen a la exposición al ruido ambiente.
+
+El uso de máquinas en un espacio cubierto en el que la transmisión del sonido no se ve afectada, o no de manera importante, se considera uso al aire libre.
+
+Se incluyen las máquinas sin motor para aplicaciones industriales o ambientales diseñadas, según su tipo, para utilizarse al aire libre, y que contribuyen a la exposición al ruido ambiente. Todas ellas serán denominadas en lo sucesivo «máquinas».
+
+b) «Procedimiento de evaluación de la conformidad»: los procedimientos establecidos en los anexos V a VIII.
+
+c) «Marcado»: la fijación visible, legible o indeleble sobre la máquina del marcado CE, junto con la indicación del nivel de potencia acústica garantizado.
+
+d) «Nivel de potencia acústica Lwa»: el nivel ponderado A de potencia acústica en dB en relación con 1 pW, tal como se define en las normas EN ISO 3744:1995 (UNE-EN ISO 3744:1996) y EN ISO 3746:1995 (UNE-EN ISO 3746:1996).
+
+e) «Nivel de potencia acústica medido»: el nivel de potencia acústica determinado a partir de las mediciones que se detallan en el anexo III; los valores medidos podrán determinarse a partir de una sola máquina representativa de su tipo o a partir del promedio de varias máquinas.
+
+f) «Nivel de potencia acústica garantizado»: el nivel de potencia acústica determinado conforme a los requisitos que se indican en el anexo III teniendo en cuenta las incertidumbres fruto de la variación de la producción de las máquinas y de los procedimientos de medición; valor que el fabricante o su representante autorizado establecido en la Unión Europea asegura que, según los instrumentos técnicos empleados y mencionados en la documentación técnica, no se superará.
+
+g) «Puesta en el mercado»: primera puesta a disposición de una máquina en la Unión Europea, a título oneroso o gratuito, con vistas a su distribución, o a la utilización por el usuario final.
+
+h) «Puesta en servicio»: primera utilización de una máquina en la Unión Europea. Si la máquina no requiere antes de su primera utilización ninguna instalación o ajuste por el fabricante o por un tercero designado por éste, se considerará que la puesta en servicio tiene lugar al mismo tiempo que la puesta en el mercado.
+
+i) «Organismos de control»: entidades públicas o privadas, con personalidad jurídica, reguladas en el capítulo I del Título III de la Ley 21/1992, de 16 de julio, de Industria y en el capítulo IV del Real Decreto 2200/1995, de 28 de octubre, por el que se aprueba el Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial que, según el artículo 41 del Real Decreto citado, se constituyen con la finalidad de verificar el cumplimiento de carácter obligatorio de las condiciones de seguridad de productos e instalaciones industriales, establecidas por los Reglamentos de Seguridad Industrial, mediante actividades de certificaciones, ensayo, inspección y auditoría.
+
+j) «Organismos notificados»: entidades que actúan como terceras partes independientes de los fabricantes en los procedimientos de evaluación de la conformidad y que son comunicadas por los Estados miembros a la Comisión Europea y a los demás Estados miembros sobre la base de los criterios mínimos establecidos en el anexo IX. En el caso de España, los organismos que se notifican son los organismos de control.
+
+k) «Bienes pertinentes para crisis»: bienes pertinentes para crisis tal como se definen en el artículo 3, número 6, del Reglamento (UE) 2024/2747 del Parlamento Europeo y del Consejo, de 9 de octubre de 2024, por el que se establece un marco de medidas relativas a una emergencia del mercado interior y a la resiliencia de dicho mercado y se modifica el Reglamento (CE) n.º 2679/98 del Consejo.
+
+l) «Modo de emergencia del mercado interior»: modo de emergencia del mercado interior tal como se define en el artículo 3, número 3, del Reglamento (UE) 2024/2747 del Parlamento Europeo y del Consejo, de 9 de octubre de 2024.
+
+> Téngase en cuenta que las letras k) y l), añadidas por el art. 1.1 del Real Decreto 302/2026, de 8 de abril, [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entran en vigor el 30 de mayo de 2026, según establece su disposición final cuarta.
+
+> Se añaden las letras k) y l) por el art. 1.1 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
+
+> Esta modificación entra en vigor el 30 de mayo de 2026, según establece su disposición final cuarta.
+
+### Artículo 4. Puesta en el mercado.
+
+1\. Las máquinas a que se refiere el apartado 1 del artículo 2 no podrán ser puestas en el mercado ni ponerse en servicio, en territorio español, si el fabricante o su representante autorizado establecido en la Unión Europea no garantizan que: cumplen los requisitos referentes al ruido emitido en el medio ambiente establecidos en el presente Real Decreto se han concluido los procedimientos de evaluación de la conformidad previstos en el artículo 13, y las máquinas llevan el marcado CE y la indicación del nivel de potencia acústica garantizado y van acompañadas de una declaración CE de conformidad.
+
+2\. Cuando ni el fabricante ni su representante autorizado estén establecidos en la Unión Europea, la obligación de cumplir el presente Real Decreto incumbirá a la persona que por primera vez comercialice la máquina o la ponga en servicio en el territorio español.
+
+### Artículo 5. Vigilancia del mercado.
+
+1\. Las Administraciones competentes velarán por que las máquinas a que se refiere el apartado 1 del artículo 2 puedan ponerse en el mercado o ponerse en servicio únicamente si cumplen las disposiciones del presente Real Decreto, llevan el marcado CE y la indicación del nivel de potencia acústica garantizado y van acompañadas de una declaración CE de conformidad.
+
+2\. Las Administraciones competentes deberán prestarse asistencia mutua a fin de facilitar el cumplimiento de sus obligaciones relativas a la vigilancia del mercado y de posibilitar la cooperación con las demás autoridades competentes de los Estados miembros de la Unión Europea.
+
+### Artículo 6. Libre circulación.
+
+1\. En territorio español no podrá prohibirse, limitarse ni impedirse la puesta en el mercado, la distribución o la puesta en servicio de las máquinas contempladas en el apartado 1 del artículo 2 que cumplan las disposiciones del presente Real Decreto, que lleven el marcado CE y la indicación del nivel de potencia acústica garantizado y que vayan acompañadas de una declaración CE de conformidad.
+
+2\. En ferias, exposiciones y otras demostraciones comerciales similares no se deberán poner obstáculos a que sean presentadas las máquinas a que se refiere el apartado 1 del artículo 2 que no cumplan las disposiciones del presente Real Decreto, siempre que:
+
+a) Exista un cartel visible en el que se indique con claridad su no conformidad y la imposibilidad de poner en el mercado o poner en servicio esas máquinas hasta que el fabricante o su representante autorizado establecido en la Unión Europea garanticen la conformidad de las mismas, en los términos previstos en el artículo 4 del presente Real Decreto.
+
+b) Se tomen durante las demostraciones las medidas de seguridad adecuadas para garantizar la protección de los asistentes.
+
+### Artículo 7. Declaración CE de conformidad.
+
+1\. El fabricante de las máquinas a que se refiere el apartado 1 del artículo 2, o su representante autorizado establecido en la Unión Europea, deberá, a fin de certificar que cada máquina es conforme a las disposiciones del presente Real Decreto, elaborar una declaración CE de conformidad para cada tipo de máquina fabricada. La declaración CE de conformidad deberá contener, como mínimo, los datos que figuran en el anexo II del presente Real Decreto.
+
+2\. La mencionada declaración CE de conformidad deberá estar redactada o ser traducida, al menos, a la lengua oficial del Estado español, en el momento en que se realice la puesta en el mercado o puesta en servicio de la máquina.
+
+3\. El fabricante de las máquinas a que se refiere el apartado 1 del artículo 2, o su representante autorizado establecido en la Unión Europea, guardará una copia de la declaración CE de conformidad durante diez años a partir del día en que la máquina haya dejado de fabricarse, junto con la documentación técnica que se indica en el apartado 3 del anexo V, en el apartado 3 del anexo VI, en el apartado 2 del anexo VII y en los apartados 3.1 y 3.3 del anexo VIII.
+
+### Artículo 8. Presunción de conformidad.
+
+Deberá presumirse que las máquinas a que se refiere el apartado 1 del artículo 2 que lleven el marcado CE y la indicación de nivel de potencia acústica garantizado y que vayan acompañadas de una declaración CE de conformidad, cumplen las disposiciones del presente Real Decreto.
+
+### Artículo 9. Falta de conformidad de las máquinas.
+
+1\. Cuando se compruebe que alguna de las máquinas a que se refiere el apartado 1 del artículo 2 no cumple los requisitos del presente Real Decreto, el órgano competente de la Comunidad Autónoma donde sean puestas en el mercado o puestas en servicio tomará las medidas necesarias para que el fabricante, o su representante autorizado establecido en la Unión Europea, ponga la máquina en conformidad con los requisitos del presente Real Decreto.
+
+2\. El órgano competente de la Comunidad Autónoma donde se pongan en el mercado o pongan en servicio las máquinas adoptará las medidas oportunas para limitar o prohibir su puesta en el mercado o puesta en servicio, o para retirarlas del mercado, cuando concurra alguno de los siguientes supuestos:
+
+a) Que dichas máquinas superan los valores límite que se indican en el artículo 11, o
+
+b) Que sigan incumpliéndose otras disposiciones del presente Real Decreto a pesar de las medidas que eventualmente se hubieran adoptado según lo indicado en el apartado 1 de este artículo.
+
+3\. El órgano competente de la Comunidad Autónoma que adopte las medidas previstas en el apartado anterior informará inmediatamente de las mismas a las demás Comunidades Autónomas, así como al Ministerio de Ciencia y Tecnología, a fin de que el órgano competente de la Administración General del Estado para realizar las comunicaciones a las Instituciones de la Unión Europea pueda, a su vez, poner dichas circunstancias en conocimiento de la Comisión Europea y de los demás Estados miembros, en el marco del procedimiento de cláusula de salvaguardia establecido por el artículo 9 de la Directiva 2000/14/CE.
+
+### Artículo 10. Marcado.
+
+1\. Las máquinas a que se refiere el apartado 1 del artículo 2, puestas en el mercado o puestas en servicio, que cumplan lo dispuesto en el presente Real Decreto, llevarán el marcado CE de conformidad. El marcado consistirá en el logotipo «CE», cuya descripción figura en el anexo IV.
+
+2\. El marcado CE irá acompañado de la indicación del nivel de potencia acústica garantizado, cuyo modelo figura asimismo en el anexo IV.
+
+3\. El marcado CE de conformidad, así como la indicación del nivel de potencia acústica garantizado, se colocarán de manera visible, legible e indeleble en cada máquina.
+
+4\. Estará prohibida la colocación en las máquinas de marcas o inscripciones que puedan inducir a error respecto al significado o a la forma del marcado CE o de la indicación del nivel de potencia acústica garantizado. Se podrá colocar cualquier otra marca en la máquina, siempre que la visibilidad y legibilidad del marcado CE y de la indicación del nivel de potencia acústica garantizado no se reduzcan en consecuencia.
+
+5\. Cuando las máquinas a que se refiere el apartado 1 del artículo 2 se vean afectadas por otras disposiciones de aplicación de las correspondientes directivas que se refieran a otros aspectos y que prevean asimismo la colocación del marcado CE, éste indicará que dichas máquinas también cumplen lo dispuesto en esas otras disposiciones. No obstante, en caso de que una o varias de esas disposiciones permitan al fabricante escoger, durante un período transitorio, la fórmula que va a aplicar, el marcado CE indicará que las máquinas cumplen únicamente las prescripciones de las disposiciones que aplica el fabricante. En tal caso, se incluirán las referencias de las correspondientes directivas, tal como se publicaron en el «Diario Oficial de las Comunidades Europeas», en los documentos, notas o instrucciones que las citadas disposiciones prevean que deben acompañar a las máquinas.
+
+### Artículo 11. Máquinas sujetas a límites de potencia acústica.
+
+El nivel de potencia acústica garantizado de las máquinas que figuran en el anexo XI no superará el nivel de potencia acústica admisible establecido en el cuadro de valores contenido en dicho anexo.
+
+### Artículo 12. Máquinas sujetas únicamente a marcado de emisión sonora.
+
+El nivel de potencia acústica garantizado de las máquinas que figuran en el anexo XII estará sujeto únicamente a marcado de emisión sonora.
+
+### Artículo 13. Evaluación de la conformidad.
+
+1\. Antes de poner en el mercado o poner en servicio las máquinas a que se refiere el artículo 11, el fabricante, o su representante autorizado establecido en la Unión Europea, someterá cada tipo de máquinas a uno de los procedimientos de evaluación de la conformidad siguiente:
+
+a) El procedimiento de control interno de la producción con evaluación de la documentación técnica y comprobaciones periódicas a que se refiere el anexo VI.
+
+b) El procedimiento de verificación por unidad a que se refiere el anexo VII.
+
+c) El procedimiento de aseguramiento total de la calidad a que se refiere el anexo VIII.
+
+2\. Antes de poner en el mercado o poner en servicio las máquinas a que se refiere el artículo 12, el fabricante, o su representante autorizado establecido en la Unión Europea, someterá cada tipo de máquinas al procedimiento de control interno de la producción que se indica en el anexo V.
+
+3\. Las Administraciones competentes así como, mediante solicitud motivada, las correspondientes de los demás Estados miembros y de la Comisión Europea, podrán obtener toda la información utilizada durante el procedimiento de evaluación de la conformidad de un tipo de máquinas y en particular la documentación técnica que se indica en el apartado 3 del anexo V, en el apartado 3 del anexo VI, en el apartado 2 del anexo VII y en los apartados 3.1 y 3.3 del anexo VIII.
+
+### Artículo 14. Organismos notificados. Autorización.
+
+1\. Los Organismos notificados españoles deberán tener la condición de organismos de control, a los que se refiere el capítulo I del Título III de la Ley 21/1992, de 16 de julio, de Industria. Según lo previsto en esta Ley, deberán ser autorizados por el órgano competente de la Comunidad Autónoma donde los organismos inicien su actividad o radiquen sus instalaciones, aplicando los procedimientos establecidos en la citada Ley y en el Real Decreto 2200/1995, de 28 de octubre, por el que se aprueba la Infraestructura para la Calidad y la Seguridad Industrial. A efectos del presente Real Decreto, deberán reunir los criterios mínimos establecidos en el anexo IX del mismo, así como los demás requisitos establecidos en la Ley 21/1992 y Real Decreto 2200/1995 mencionados.
+
+2\. En los certificados de acreditación que emita la entidad de acreditación a que se refiere el artículo 17 de la Ley 21/1992, deberá figurar una referencia expresa al presente Real Decreto, así como los procedimientos concretos de evaluación de la conformidad y, en su caso, los tipos de máquinas, para los que sean acreditados los organismos.
+
+3\. Los organismos de control deberán asumir la responsabilidad completa del procedimiento de evaluación de la conformidad donde intervengan, sin perjuicio de las posibles subcontrataciones que pudieran contemplarse en la acreditación.
+
+### Artículo 15. Organismos notificados. Notificación y publicidad.
+
+1\. Los órganos competentes de las Comunidades Autónomas que concedan las autorizaciones de los organismos de control deberán remitir copia de las mismas al Ministerio de Ciencia y Tecnología, indicando expresamente los procedimientos y máquinas para los que dichos organismos pretendan ser notificados, a efectos de su difusión y eventual comunicación a las restantes Administraciones competentes, así como a la Comisión Europea y a los otros Estados miembros.
+
+2\. El Ministerio de Ciencia y Tecnología publicará, a título informativo, mediante resolución del órgano directivo competente en materia de Seguridad Industrial, la lista de los Organismos notificados por los Estados miembros de la Unión Europea, indicándose los números de identificación asignados por la Comisión Europea y las tareas concretas y los procedimientos de evaluación de la conformidad para los que hayan sido autorizados.
+
+### Artículo 16. Organismos notificados. Control de las actuaciones.
+
+1\. Los Organismos notificados españoles serán inspeccionados de forma periódica, a efectos de comprobar que cumplen fielmente su cometido en relación con la aplicación del presente Real Decreto.
+
+2\. Si, mediante un informe negativo de una entidad de acreditación, o por otros medios, se comprueba que un Organismo notificado español ya no satisface los criterios mínimos indicados en el apartado 1 del artículo 14, el órgano competente de la Comunidad Autónoma que le otorgó la autorización resolverá dejarla sin efecto, comunicándolo al Ministerio de Ciencia y Tecnología. El órgano de la Administración General del Estado competente para realizar las comunicaciones a las Instituciones de la Unión Europea informará de ello inmediatamente a los demás Estados miembros y a la Comisión Europea.
+
+3\. Cuando un Organismo notificado español decida denegar o retirar un certificado relativo al correspondiente procedimiento de evaluación de la conformidad, procederá según lo establecido en el artículo 16 de la Ley 21/1992, de 16 de julio. El órgano competente de la Comunidad Autónoma comunicará al Ministerio de Ciencia y Tecnología toda decisión que confirme la del Organismo notificado.
+
+### Artículo 17. Recopilación de datos sobre ruido.
+
+**(Suprimido)**
+
+> Se suprime por el art. 1.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
+
+### Artículo 18. Motivación y notificación de actos y disposiciones.
+
+Los actos y resoluciones que dicten las Administraciones públicas en virtud del presente Real Decreto y que supongan limitación de la puesta en el mercado o puesta en servicio de las máquinas que son objeto del mismo, deberán ser motivados, en sucinta referencia de hechos y fundamentos de derecho, y notificados a los interesados en los términos previstos en el artículo 58 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## CAPÍTULO II — Procedimientos de emergencia
+
+> Téngase en cuenta que, el Capítulo II, y sus correspondientes arts. 19 a 22, añadidos por el art. 1.4 del Real Decreto 302/2026, de 8 de abril, [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entran en vigor el 30 de mayo de 2026, según establece su disposición final cuarta.
+
+> Se añade, con los arts. 19 a 22, por el art. 1.4 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
+
+> Esta modificación entra en vigor el 30 de mayo de 2026, según establece su disposición final cuarta.
+
+### Artículo 19. Aplicación de los procedimientos de emergencia.
+
+1\. Los artículos 20 a 22 serán de aplicación en el momento en que la Comisión Europea haya adoptado un acto de ejecución con arreglo al artículo 28 del Reglamento (UE) 2024/2747 del Parlamento Europeo y del Consejo, de 9 de octubre de 2024, con respecto a las máquinas reguladas por la Directiva 2000/14/CE del Consejo y del Parlamento Europeo, de 8 de mayo.
+
+2\. Los efectos de dichos artículos se desplegarán únicamente mientras dure el modo de emergencia del mercado interior que se haya activado de conformidad con el artículo 18 del Reglamento (UE) 2024/2747 del Parlamento Europeo y del Consejo, de 9 de octubre de 2024, y se aplicarán únicamente a las máquinas incluidas en el ámbito de aplicación de este real decreto que hayan sido designadas como bienes pertinentes para crisis con arreglo al apartado 4 del artículo 18 del mencionado Reglamento (UE) 2024/2747 del Parlamento Europeo y del Consejo, de 9 de octubre de 2024.
+
+3\. Sin perjuicio de lo indicado en el apartado anterior, lo previsto en el apartado 7 del artículo 21 seguirá siendo de aplicación tras la expiración o desactivación del modo de emergencia del mercado interior.
+
+4\. La aplicación del artículo 21 deberá ajustarse a lo dispuesto en los actos de ejecución que la Comisión adopte en virtud del apartado 4 del artículo 17 bis de la Directiva 2000/14/CE del Consejo y del Parlamento Europeo, de 8 de mayo. Las autoridades competentes tomarán las disposiciones pertinentes para dar cumplimiento a las medidas de aplicación establecidas en dichos actos.
+
+> Se añade por el art. 1.4 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
+
+> Esta modificación entra en vigor el 30 de mayo de 2026, según establece su disposición final cuarta.
+
+### Artículo 20. Priorización de la evaluación de la conformidad de las máquinas designadas como bienes pertinentes para crisis.
+
+1\. El presente artículo será de aplicación a las máquinas enumeradas en el acto de ejecución al que se refiere el apartado 1 del artículo 19, que, de acuerdo con el artículo 13, están sujetas a procedimientos de evaluación de la conformidad en los que se requiere la participación obligatoria de un organismo notificado.
+
+2\. Los organismos notificados harán todo lo posible por tramitar con carácter prioritario todas las solicitudes de evaluación de la conformidad de las máquinas a que se refiere el apartado 1, con independencia de que dichas solicitudes hayan sido presentadas antes o después de que el presente artículo sea de aplicación de acuerdo con lo indicado en el artículo 19.
+
+3\. La priorización de las solicitudes de evaluación de la conformidad de las máquinas con arreglo al apartado 2 no dará lugar a costes adicionales desproporcionados para los fabricantes que hayan presentado dichas solicitudes.
+
+4\. Los organismos notificados harán esfuerzos razonables por aumentar sus capacidades en materia de ensayo para las máquinas a que se refiere el apartado 1 en relación con las cuales hayan sido notificados.
+
+> Se añade por el art. 1.4 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
+
+> Esta modificación entra en vigor el 30 de mayo de 2026, según establece su disposición final cuarta.
+
+### Artículo 21. Excepción a los procedimientos de evaluación de la conformidad que requieren la participación obligatoria de un organismo notificado.
+
+1\. Sin perjuicio de lo indicado en el artículo 13, la autoridad competente podrá autorizar, previa solicitud debidamente justificada de un operador económico, la introducción en el mercado o la puesta en servicio en el territorio español de una máquina específica contemplada en el artículo 11 y enumerada en el acto de ejecución a que se refiere el apartado 1 del artículo 19 y que no haya sido sometida a los procedimientos de evaluación de la conformidad a los que se refiere el artículo 13 que requieren la participación obligatoria de un organismo notificado, pero para la cual haya quedado demostrado el cumplimiento de todos los requisitos aplicables establecidos en el presente real decreto en materia de emisiones sonoras en el entorno de conformidad con los procedimientos contemplados en dicha autorización.
+
+2\. A los efectos del apartado anterior, tendrán la consideración de autoridad competente las siguientes:
+
+a) Cuando la máquina está diseñada y fabricada para su instalación y utilización en una ubicación específica, la comunidad autónoma correspondiente a dicha ubicación;
+
+b) Cuando la máquina no está diseñada y fabricada para su instalación y utilización en una ubicación específica:
+
+1.º Si la máquina está fabricada en España, la comunidad autónoma donde se lleve a cabo la fabricación de la máquina. En aquellos casos en los que la fabricación se lleve a cabo en varias comunidades autónomas, la autoridad competente será aquella comunidad en la que radique la sede social del fabricante, si esta está radicada en España, o, en caso contrario, aquella de entre las comunidades autónomas donde se lleve a cabo la fabricación en la que se presente por primera vez la solicitud de excepción.
+
+2.º Si la máquina no está fabricada en España, pero el fabricante o su representante autorizado está establecido en territorio español, la comunidad autónoma donde esté establecido dicho fabricante o representante autorizado. En caso de que el fabricante o representante autorizado esté establecido en más de una comunidad autónoma, la autoridad competente será aquella comunidad en la que radique la sede social del fabricante o representante autorizado, si esta está radicada en España, o, en caso contrario, aquella de entre las comunidades autónomas donde esté establecido el fabricante o representante autorizado en la que se presente por primera vez la solicitud de excepción.
+
+3.º Si el fabricante de la máquina no está establecido en territorio español, pero el importador de la máquina o, en su defecto, el distribuidor sí lo está, la comunidad autónoma donde esté establecido dicho operador económico. En caso de que el mencionado operador económico esté establecido en más de una comunidad autónoma, la autoridad competente será aquella comunidad en la que radique la sede social del mismo, si esta está radicada en España, o, en caso contrario, aquella de entre las comunidades autónomas donde esté establecido el operador económico en la que se presente por primera vez la solicitud de excepción.
+
+4.º Si ni el fabricante de la máquina ni el operador económico que solicita la excepción están establecidos en territorio español, la Dirección General de Estrategia Industrial y de la Pequeña y Mediana Empresa del Ministerio de Industria y Turismo.
+
+3\. Toda autorización expedida de conformidad con el apartado 1 establecerá las condiciones y los requisitos con arreglo a los cuales una máquina pueda introducirse en el mercado o ponerse en servicio. Dichas autorizaciones establecerán, como mínimo, lo siguiente:
+
+a) Una descripción de los procedimientos mediante los cuales se ha demostrado con éxito el cumplimiento de los requisitos aplicables del presente real decreto en materia de emisiones sonoras en el entorno;
+
+b) Todo requisito específico relativo a la trazabilidad de la máquina de que se trate;
+
+c) Una fecha final de validez de la autorización, que no podrá exceder del último día del período durante el cual se haya activado el modo de emergencia del mercado interior de conformidad con el artículo 18 del Reglamento (UE) 2024/2747 del Parlamento Europeo y del Consejo, de 9 de octubre de 2024;
+
+d) Todo requisito específico relativo a la necesidad de garantizar una evaluación continua de la conformidad de la máquina de que se trate;
+
+e) Las medidas que deban tomarse al expirar o desactivarse el modo de emergencia del mercado interior con respecto a la máquina de que se trate, que se ha introducido en el mercado o puesto en servicio.
+
+4\. El fabricante de una máquina sujeta al procedimiento de autorización contemplado en el apartado 1 declarará, bajo su exclusiva responsabilidad, que la máquina en cuestión cumple todos los requisitos aplicables establecidos en la Directiva 2000/14/CE del Consejo y del Parlamento Europeo, de 8 de mayo, y será responsable del cumplimiento de todos los procedimientos de evaluación de la conformidad indicados en la autorización.
+
+5\. La autoridad competente indicada en el apartado 2 podrá reconocer, de oficio, como válidas en el territorio español las autorizaciones concedidas en otros Estados miembros de conformidad con el apartado 1 del artículo 17 quater de la Directiva 2000/14/CE del Consejo y del Parlamento Europeo, de 8 de mayo, siempre que los requisitos establecidos en las citadas autorizaciones garanticen la conformidad con los requisitos aplicables establecidos en el presente real decreto en materia de emisiones sonoras en el entorno.
+
+6\. La autoridad competente remitirá inmediatamente a la Comisión y a los demás Estados miembros la información relativa a las autorizaciones concedidas de conformidad con el apartado 1, así como de todo acto por el que se reconozcan como válidas las autorizaciones concedidas por otro Estado miembro de acuerdo con el apartado anterior.
+
+Igualmente, la autoridad competente remitirá la información indicada en el párrafo anterior a la Dirección General de Estrategia Industrial y de la Pequeña y Mediana Empresa del Ministerio de Industria y Turismo, que publicará dicha información en el portal de internet del Ministerio de Industria y Turismo.
+
+7\. Las máquinas para las que se haya concedido una autorización de conformidad con el apartado 1 del presente artículo no llevarán el marcado CE.
+
+Asimismo, no será de aplicación el artículo 6 del presente real decreto a las máquinas autorizadas en otro Estado miembro de conformidad con el apartado 1 del artículo 17 quater de la Directiva 2000/14/CE del Consejo y del Parlamento Europeo, de 8 de mayo, salvo por lo dispuesto en el siguiente apartado.
+
+8\. Sin perjuicio de lo indicado en el artículo 6 del presente real decreto, no se podrá prohibir, restringir u obstaculizar la introducción en el mercado o puesta en servicio en territorio español de las siguientes máquinas que, cumpliendo todos los requisitos aplicables establecidos en el presente real decreto en materia de emisiones sonoras en el entorno, no cuenten con el marcado CE:
+
+a) Aquellas para las que las autoridades competentes indicadas en el apartado 2.b) hayan concedido una autorización de acuerdo con lo indicado en el apartado 1 y que cuenten con la información indicada en el apartado 10;
+
+b) Aquellas para las que las autoridades competentes indicadas en el apartado 2.b) hayan reconocido la validez de la autorización concedida en otro Estado miembro de conformidad con el apartado 5 y que cuenten con la información indicada en el apartado 10;
+
+c) Las máquinas objeto del acto de ejecución al que se refiere el apartado 2 o el 3 del artículo 17 quater de la Directiva 2000/14/CE del Consejo y del Parlamento Europeo, de 8 de mayo, por el que se amplía la validez de las autorizaciones concedidas por los Estados miembros, que cuenten con la información indicada en dicho acto, al menos, en castellano.
+
+9\. Sin perjuicio de lo indicado en el artículo 6 del presente real decreto, las máquinas que no cuenten con el marcado CE para las que la autoridad competente a la que se refiere el apartado 2.a) haya concedido una autorización de acuerdo con el apartado 1 o haya reconocido la validez de la autorización concedida en otro Estado miembro de conformidad con el apartado 5 y que no hayan sido objeto del acto de ejecución al que se refiere el apartado 2 o el 3 del artículo 17 quater de la Directiva 2000/14/CE del Consejo y del Parlamento Europeo, de 8 de mayo, solo podrán introducirse en el mercado y ponerse en servicio en la ubicación específica para la que se concede la autorización.
+
+Las comunidades autónomas podrán reconocer como válidas, para ubicaciones específicas dentro de su territorio, las autorizaciones concedidas por otras comunidades autónomas de conformidad con los apartados 1 y 2.a).
+
+10\. Las máquinas introducidas en el mercado y puestas en servicio en el territorio español de conformidad con lo indicado en los párrafos a) y b) del apartado 8 irán acompañadas de la declaración responsable indicada en el apartado 4, que se incluirá al menos en castellano, y de una copia de la autorización expedida por la autoridad competente de acuerdo con el apartado 1 o, en su caso, de la resolución por la que se reconoce la validez de la autorización concedida en otro Estado miembro de conformidad con el apartado 5, y llevarán la siguiente información, al menos, en castellano, así como el resto de información aplicable requerida en el presente real decreto:
+
+a) Las máquinas que cuenten con una autorización expedida por la autoridad competente a la que hacen referencia los párrafos 1.º a 3.º del apartado 2.b) y que no hayan sido objeto del acto de ejecución al que se refiere el apartado 2 o el 3 del artículo 17 quater de la Directiva 2000/14/CE del Consejo y del Parlamento Europeo, de 8 de mayo, llevarán la información indicada en la resolución por la que se concede dicha autorización.
+
+b) Las máquinas que cuenten con una autorización expedida por la Dirección General de Estrategia Industrial y de la Pequeña y Mediana Empresa del Ministerio de Industria y Turismo de acuerdo con lo indicado en el apartado 1 y que no hayan sido objeto del acto de ejecución al que se refiere el apartado 2 o el 3 del artículo 17 quater de la Directiva 2000/14/CE del Consejo y del Parlamento Europeo, de 8 de mayo, incluirán en el producto o embalaje la información relativa a que la máquina ha sido autorizado por el Ministerio de Industria y Turismo, junto con la referencia a la resolución por la que se concede dicha autorización. La autorización podrá establecer requisitos para completar o modificar el contenido y presentación de dicha información.
+
+c) Las máquinas para las que la autoridad competente a la que hacen referencia los párrafos 1.º a 3.º del apartado 2.b) haya reconocido la validez de la autorización concedida en otro Estado miembro de conformidad con el apartado 5 y que no hayan sido objeto del acto de ejecución al que se refiere el apartado 2 o el 3 del artículo 17 quater de la Directiva 2000/14/CE del Consejo y del Parlamento Europeo, de 8 de mayo, llevarán la información indicada en la resolución por la que se reconoce la validez de dicha autorización.
+
+d) Las máquinas para las que la Dirección General de Estrategia Industrial y de la Pequeña y Mediana Empresa del Ministerio de Industria y Turismo haya reconocido la validez de la autorización concedida en otro Estado miembro de conformidad con el apartado 5 y que no hayan sido objeto del acto de ejecución al que se refiere el apartado 2 o el 3 del artículo 17 quater de la Directiva 2000/14/CE del Consejo y del Parlamento Europeo, de 8 de mayo, incluirán en el producto o embalaje la información relativa a que la máquina ha sido autorizada en otro Estado miembro y que dicha autorización ha sido reconocida por el Ministerio de Industria y Turismo, junto con la referencia a la resolución por la que se concede dicho reconocimiento. La resolución por la que se reconoce la autorización concedida en otro Estado miembro podrá establecer requisitos para completar o modificar el contenido y presentación de dicha información.
+
+11\. Las comunidades autónomas podrán tomar a nivel nacional todas las medidas correctivas y restrictivas contempladas en el Reglamento (UE) 2019/1020 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativo a la vigilancia del mercado y la conformidad de los productos y por el que se modifican la Directiva 2004/42/CE y los Reglamentos (CE) n.º 765/2008 y (UE) n.º 305/2011 y en el presente real decreto con respecto a las máquinas introducidas en el mercado o puestas en servicio de conformidad con este artículo.
+
+Las comunidades autónomas informarán inmediatamente de dichas medidas a la Comisión y a las autoridades de vigilancia del mercado de todos los demás Estados miembros.
+
+12\. Las autorizaciones concedidas de acuerdo con el apartado 1 o el reconocimiento de las autorizaciones concedidas en otros Estados miembros de acuerdo con el apartado 5 no afectará a la aplicación de los procedimientos de evaluación de la conformidad pertinentes establecidos en el artículo 13.
+
+> Se añade por el art. 1.4 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
+
+> Esta modificación entra en vigor el 30 de mayo de 2026, según establece su disposición final cuarta.
+
+### Artículo 22. Priorización de las actividades de vigilancia del mercado y asistencia a otras autoridades de vigilancia del mercado.
+
+1\. Las comunidades autónomas darán prioridad a las actividades de vigilancia del mercado en relación con las máquinas enumeradas en el acto de ejecución a que se refiere el apartado 1 del artículo 19.
+
+2\. Las comunidades autónomas harán todo lo posible por prestar asistencia a otras autoridades de vigilancia del mercado durante un modo de emergencia del mercado interior, incluyendo, cuando se disponga de los medios y capacidades disponibles, el envío de equipos de expertos para reforzar temporalmente la plantilla de las autoridades de vigilancia del mercado que soliciten asistencia o proporcionando apoyo logístico, como el refuerzo de la capacidad de ensayo de las máquinas enumeradas en el acto de ejecución a que se refiere el apartado 1 del artículo 19.
+
+3\. En caso de que la autoridad de vigilancia del mercado de una comunidad autónoma requiera de la asistencia de otras autoridades de vigilancia del mercado, remitirá solicitud de asistencia a través de los grupos de trabajo correspondiente de la Conferencia Sectorial de Industria y PYME.
+
+Las demandas de asistencia podrán incluir, entre otros, los aspectos indicados en el apartado 2.
+
+4\. Cuando la solicitud de asistencia a la que se refiere el apartado anterior no pueda ser atendida por ninguna autoridad de vigilancia del mercado de las comunidades autónomas por falta de recursos y/o capacidades, la comunidad autónoma solicitante podrá demandar asistencia de las autoridades de vigilancia del mercado de otros Estados miembros directamente o a través de la Oficina de Enlace Única de vigilancia del mercado en España, quien remitirá la solicitud de asistencia a las oficinas de enlace único de vigilancia del mercado del resto de Estados miembros.
+
+Adicionalmente a lo indicado en el párrafo anterior, el Ministerio de Industria y Turismo, previa solicitud de la autoridad de vigilancia del mercado de la comunidad autónoma demandante de asistencia, remitirá dicha solicitud a las autoridades de vigilancia del mercado del resto de Estados miembros a través del grupo de cooperación administrativa correspondiente al que se refiere el artículo 32 del Reglamento (UE) 2019/1020 del Parlamento Europeo y del Consejo, de 20 de junio de 2019.
+
+5\. Sin perjuicio de lo indicado en el apartado siguiente, las solicitudes de asistencia procedentes de autoridades de vigilancia del mercado de otros Estados miembros que se reciban en el Ministerio de Industria y Turismo o en las autoridades de vigilancia del mercado de las comunidades autónomas serán remitidas al conjunto de las autoridades de vigilancia del mercado de las comunidades autónomas a través de los grupos de trabajo correspondientes de la Conferencia Sectorial de Industria y PYME, informando de ello a la Oficina de Enlace Única.
+
+Las solicitudes de asistencia procedentes de autoridades de vigilancia del mercado de otros Estados miembros que se reciban en la Oficina de Enlace Única serán enviadas al Ministerio de Industria y Turismo para su remisión a las autoridades de vigilancia del mercado de las comunidades autónomas a través de los grupos de trabajo correspondientes de la Conferencia Sectorial de Industria y PYME.
+
+En el plazo máximo de cinco días hábiles desde la remisión de la solicitud a los grupos de trabajo correspondientes de la Conferencia Sectorial de Industria y PYME, el Ministerio de Industria y Turismo informará a la Oficina de Enlace Única sobre el resultado de la solicitud, indicando, en su caso, las autoridades de vigilancia que pueden prestar asistencia. La Oficina de Enlace Única remitirá dicha información al Estado miembro solicitante.
+
+6\. Cuando la solicitud indicada en el apartado anterior requiera asistencia específica de una autoridad de vigilancia del mercado concreta, las solicitudes serán remitidas directamente a dicha comunidad autónoma informando de ello al Estado miembro solicitante.
+
+7\. Las solicitudes de asistencia entre las autoridades de vigilancia del mercado, así como el resto de comunicaciones a las que se refiere el presente artículo se realizarán por medios electrónicos.
+
+> Se añade por el art. 1.4 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
+
+> Esta modificación entra en vigor el 30 de mayo de 2026, según establece su disposición final cuarta.
+
+### Disposición adicional única. Reglamentación del uso.
+
+Las disposiciones del presente Real Decreto se entenderán sin perjuicio de las que pudieran aplicarse con objeto de:
+
+a) Reglamentar el uso de las máquinas a que se refiere el apartado 1 del artículo 2 en zonas que consideren sensibles, incluso por lo que se refiere a la posibilidad de limitar las horas de funcionamiento de las máquinas.
+
+b) Determinar los requisitos que se consideren necesarios para garantizar que las personas estén protegidas durante el uso de las máquinas de que se trata, siempre que ello no implique la modificación de dichas máquinas de una manera no contemplada en el presente Real Decreto.
+
+### Disposición transitoria única. Certificados de examen de tipo expedidos y las mediciones de las máquinas efectuadas en cumplimiento del Real Decreto 245/1989.
+
+Los certificados de examen de tipo expedidos y las mediciones de las máquinas efectuadas en cumplimiento de las disposiciones del Real Decreto 245/1989, de 27 de febrero, podrán utilizarse para elaborar la documentación técnica que se indica en el apartado 3 del anexo V, en el apartado 3 del anexo VI, en el apartado 2 del anexo VII y en los apartados 3.1 y 3.3 del anexo VIII del presente Real Decreto.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 245/1989, de 27 de febrero, sobre determinación y limitación de la potencia acústica admisible de determinado material y maquinaria de obra.
+
+### Disposición final primera. Carácter básico.
+
+El presente Real Decreto se dicta al amparo de la competencia exclusiva del Estado en materia de bases y coordinación de la planificación general de la actividad económica, de acuerdo con lo establecido en el artículo 149.1.13.a de la Constitución.
+
+### Disposición final segunda. Actualización técnica.
+
+Se autoriza a los Ministros de Medio Ambiente y de Ciencia y Tecnología para modificar mediante Orden los anexos del presente Real Decreto, con objeto de su adaptación al progreso técnico y en aplicación de la normativa de la Unión Europea.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor a los tres meses a partir del día siguiente al de su publicación en el «Boletín Oficial del Estado», con excepción de los niveles de potencia acústica admisible para la fase II que se mencionan en el cuadro de valores límite al que se refiere el artículo 11, los cuales serán exigibles a partir del 3 de enero de 2006.
+
+Dado en Madrid a 22 de febrero de 2002.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JUAN JOSÉ LUCAS GIMÉNEZ
+
+## ANEXO I — DEFINICIONES DE MÁQUINAS
+
+### 1. Plataformas elevadoras con motor de combustión.
+
+Equipo formado como mínimo por una plataforma de trabajo, una estructura extensible y un chasis. La plataforma de trabajo consiste en una plataforma rodeada de una barrera o en una jaula que puede desplazarse cargada a la posición de trabajo precisa. La estructura extensible va conectada al chasis y sirve de apoyo a la plataforma al tiempo que permite desplazar ésta a la posición deseada.
+
+### 2. Desbrozadora.
+
+Máquina de mano portátil accionada por motor de combustión equipada con una cuchilla giratoria de metal o plástico para cortar malas hierbas, broza, árboles pequeños y vegetación similar. Los dispositivos de corte funcionan en un plano aproximadamente paralelo al suelo.
+
+### 3. Montacargas para el transporte de materiales de construcción.
+
+Montacargas mecánico instalado con carácter temporal para su uso por personas con acceso autorizado a obras de construcción e ingeniería, que llegan hasta
+
+k) un nivel determinado de descarga, con una plataforma:
+
+– diseñada únicamente para transportar materiales y accesible a personas durante la carga y la descarga,
+
+– accesible y que permite el desplazamiento de personas autorizadas durante su levantamiento, desmontaje y mantenimiento,
+
+– dirigida,
+
+– que se desplaza en un eje vertical o a lo largo de un recorrido que se encuentra como máximo a 15º de la vertical,
+
+– soportada o sostenida por cable metálico, cadena, tuercas y tornillos, mecanismo de cremallera y piñón, gato hidráulico (directo o indirecto), o un mecanismo articulado extensible,
+
+– cuyos postes tienen o no tienen que sujetarse en otras estructuras, o
+
+ii) una superficie de descarga o de trabajo que se extiende hasta el final de la guía (por ejemplo, un tejado), equipada con un mecanismo de arrastre:
+
+– diseñada únicamente para transportar materiales,
+
+– diseñada de manera que no sea necesario estar sobre ella para cargar y descargar ni para el mantenimiento, levantamiento o desmontaje,
+
+– en la que está prohibida la presencia de personas en todo momento,
+
+– dirigida,
+
+– diseñada para efectuar un recorrido con un ángulo a 30° como mínimo de la vertical pero que puede utilizarse con cualquier ángulo,
+
+– sostenida mediante un cable de acero y un sistema de tracción directa,
+
+– sujeta a controles de presión constante,
+
+– que no se sirve de contrapesos,
+
+– con una carga máxima admisible de 300 kg,
+
+– con una velocidad máxima de 1 m/s,
+
+– cuyas guías deben sujetarse en otras estructuras.
+
+### 4. Sierra de cinta para obras.
+
+Máquina mecánica de avance manual de peso inferior a 200 kg equipada con una hoja de sierra en forma de banda continua que se mueve entre dos o más poleas.
+
+### 5. Sierra circular de mesa para obras.
+
+Máquina de avance manual de peso inferior a 200 kg equipada con una hoja de sierra circular (que no sea una sierra ranuradora) de diámetro de 350 mm o más hasta un máximo de 500 mm, que está fija durante la operación de cortado normal, y una mesa horizontal, fija total o parcialmente durante la operación. La hoja de sierra está instalada en un eje horizontal no basculante cuya posición permanece fija durante el trabajo mecánico. La máquina puede tener una de las características siguientes:
+
+– la altura de corte de la hoja de la sierra puede regularse fácilmente,
+
+– el cuadro de la máquina en la parte inferior de la mesa puede ser abierto o cerrado,
+
+– la sierra puede estar equipada con una mesa móvil adicional accionada a mano (no adyacente a la hoja de la sierra).
+
+### 6. Sierra de cadena portátil.
+
+Herramienta mecánica diseñada para cortar madera con una cadena de sierra, compuesta por una unidad compacta integrada con asas, un motor y un elemento de corte, diseñada para sujetarse con dos manos.
+
+### 7. Vehículo baldeador y aspirador de alta presión.
+
+Vehículo que puede funcionar como baldeador de alta presión y como vehículo aspirador. Véase Baldeador de alta presión y Vehículo aspirador.
+
+### 8. Máquina compactadora.
+
+Máquina de compactación de materiales como rocalla, pavimentación o asfaltado por medio del rodamiento, apisonamiento o vibración del órgano de trabajo. Puede ser automotriz o ir remolcada, empujada o acoplada a una máquina portadora. Las máquinas compactadoras se dividen en:
+
+– rodillos con conductor montado: máquinas compactadoras automotrices con uno o más cilindros metálicos (rodillos) o neumáticos de caucho; el puesto de maniobra del operario forma parte de la máquina,
+
+– rodillos con conductor a pie: máquinas compactadoras automotrices con uno u más cilindros metálicos (rodillos) o neumáticos de caucho en las que los equipos de desplazamiento, dirección, frenada y vibración están dispuestos de tal manera que la máquina funciona asistida por un operario o de forma teledirigida,
+
+– rodillos remolcados: máquinas compactadoras con uno o más cilindros metálicos (rodillos) o neumáticos de caucho, que carecen de sistema de propulsión independiente y en las que el puesto de maniobra del operario se encuentra en un módulo tractor,
+
+– planchas y apisonadoras vibratorias: máquinas compactadoras generalmente con planchas planas que vibran. Funcionan asistidas por un operario o enganchadas a un vehículo portador,
+
+– apisonadoras de explosión: máquinas compactadoras, generalmente con un pedazo de chapa plana que funciona como elemento compactador en dirección predominantemente vertical por la acción de una explosión. La máquina funciona asistida por un operario.
+
+### 9. Motocompresor.
+
+Máquina que se utiliza con equipo intercambiable que comprime aire, gases o vapores a una presión superior a la presión de entrada. Un motocompresor está compuesto por el compresor en sí, el motor y cualquier otro elemento o dispositivo que sea necesario para el funcionamiento seguro del compresor.
+
+Quedan excluidas las categorías siguientes:
+
+– ventiladores, es decir, dispositivos que provocan una circulación del aire a una presión no superior a 110.000 pascales,
+
+– bombas de vacío, es decir, dispositivos o aparatos que extraen el aire de espacios cerrados a una presión no superior a la presión atmosférica,
+
+– motores de turbina de gas.
+
+### 10. Trituradoras de hormigón y martillos picadores de mano.
+
+Los trituradores de hormigón y los martillos picadores motorizados (sea cual sea el método) utilizados para trabajar en obras de construcción y de ingeniería civil.
+
+### 11. Hormigonera.
+
+Máquina destinada a la preparación de hormigón y mortero, sea cual sea el procedimiento de carga, mezcla y vaciado. Puede funcionar de manera intermitente o constante. Las hormigoneras sobre camiones se denominan camiones hormigonera (véase la definición 55).
+
+### 12. Torno de construcción.
+
+Aparato elevador motorizado instalado con carácter temporal, equipado con mecanismos para subir y bajar una carga suspendida.
+
+### 13. Máquinas de distribución, transporte y rociado de hormigón y mortero.
+
+Máquinas que bombean y rocían hormigón o mortero, con o sin agitador, por medio de los cuales el material que debe transportarse se conduce al punto de distribución a través de tuberías o dispositivos y barras distribuidoras. El transporte se realiza:
+
+– para el hormigón, de forma mecánica mediante bomba de disco o pistón,
+
+– para el mortero, de forma mecánica mediante bomba de pistón, helicoidal, de disco o manguera, o de forma neumática mediante compresores con o sin cámara de aire.
+
+Estas máquinas pueden estar instaladas en camiones, remolques o vehículos especiales.
+
+### 14. Cinta transportadora.
+
+Máquina instalada con carácter temporal, adecuada para transportar materiales por medio de una cinta motorizada.
+
+### 15. Equipo de refrigeración en vehículos.
+
+Unidades de refrigeración del espacio de carga de vehículos de las categorías N2, N3, O3 y O4 con arreglo a la definición de la Directiva 70/156/CEE, traspuesta por Real Decreto 2140/1985, de 9 de octubre, por el que se citan normas sobre homologación de tipos de vehículos automóviles, remolques y semirremolques, así como de partes y piezas de dichos vehículos.
+
+La fuente de alimentación de la unidad de refrigeración puede formar parte integrante de ésta, ser un elemento independiente unido a la caja del vehículo, ser el motor del vehículo o ser una fuente de alimentación independiente o de reserva.
+
+### 16. Topadora.
+
+Máquina automotriz sobre neumáticos u orugas utilizada para ejercer una fuerza de empuje y de tracción a través de un equipo montado.
+
+### 17. Equipo de perforación.
+
+Máquina utilizada para perforar agujeros en obras por una acción:
+
+– de percusión,
+
+– giratoria,
+
+– giratoria de percusión.
+
+Los equipos de perforación se mantienen fijos durante la operación. Pueden trasladarse de un lugar de trabajo a otro por su propia potencia. Entre los equipos de perforación automotores se incluyen los instalados en camiones, chasis con ruedas, tractores, orugas o plataformas (arrastradas por un cabrestante). Cuando los equipos de perforación están instalados en camiones, tractores y remolques, o sobre ruedas, la carga puede transportarse a mayor velocidad y por la vía pública.
+
+### 18. Motovolquete.
+
+Máquina automotriz sobre neumáticos u orugas con caja abierta, que transporta, descarga o esparce materiales. Los motovolquetes pueden llevar un equipo autocargador integrado.
+
+### 19. Equipos de carga y descarga de cisternas o silos en camiones.
+
+Dispositivos motorizados unidos a camiones cisterna o camiones silo para la carga y descarga de líquidos o materiales a granel por medio de bombas o aparatos similares.
+
+### 20. Pala hidráulica o pala de cables.
+
+Máquina automotriz sobre neumáticos u orugas con una estructura superior capaz de efectuar una rotación de más de 360°. Esta máquina permite excavar, balancear y descargar materiales mediante el movimiento de un cangilón unido a la pluma y el brazo o pluma telescópica, sin mover el chasis o el bastidor durante todos los ciclos de la máquina.
+
+### 21. Pala cargadora.
+
+Máquina automotriz, sobre neumáticos u orugas, con una estructura principal diseñada para llevar un cangilón de cargadora en su parte delantera y una retroexcavadora en la parte posterior. Cuando se utiliza en la modalidad de pala retroexcavadora, la máquina cava por debajo del nivel del suelo y el cangilón se desplaza hacia la máquina. La retroexcavadora levanta, balancea y descarga materiales mientras la máquina permanece estacionaria. Cuando se usa en la modalidad de cargadora, la máquina carga o excava mediante un movimiento de avance y eleva, transporta y descarga material.
+
+### 22. Contenedor de reciclado de vidrio.
+
+Contenedor –del material que sea– utilizado para la recogida de botellas. Lleva por lo menos una abertura para introducir las botellas y otra para vaciar el contenedor.
+
+### 23. Niveladora.
+
+Máquina automotriz sobre ruedas, con una hoja regulable situada entre los ejes delantero y trasero, que corta, desplaza y extiende material generalmente para la nivelación de superficies.
+
+### 24. Máquina para el acabado de la hierba/recortadora de hierba.
+
+Máquina portátil de mano accionada por motor de combustión con sedal o sedales flexibles u otros elementos cortantes no metálicos como, por ejemplo, cuchillas pivotantes, disecada para cortar hierbajos, hierba y vegetación similar. Los dispositivos de corte funcionan en un plano aproximadamente paralelo al suelo (máquina para el acabado de la hierba) a perpendicular al suelo (recortadora de hierba).
+
+### 25. Recortadora de setos.
+
+Máquina de mano con motor accionado íntegramente manejada por un operario para cortar setos y arbustos por medio de una o varías cuchillas de dientes de movimiento alternativo.
+
+### 26. Baldeadora de alta presión.
+
+Vehículo equipado con un dispositivo para limpiar alcantarillas o instalaciones similares por medio de un chorro de agua a alta presión. El mecanismo puede estar instalado en un chasis de marca o un chasis propio. El equipo puede ser fijo o desmontable como en el caso de un sistema de carrocería intercambiable.
+
+### 27. Máquina de chorro de agua de alta presión.
+
+Máquina con lanzas de riego u otras aberturas velociaumentadoras por las que el agua (también con aditivos) sale a chorro libre. En general, las máquinas de chorro de agua de alta presión consisten en un motor, un generador de presión, mangueras, rociadores, mecanismos de seguridad y dispositivos de control y medición. Las máquinas de chorro de agua de alta presión pueden ser móviles o fijas:
+
+– las máquinas de chorro de agua de alta presión móviles son máquinas móviles fácilmente transportables diseñadas para usarse en lugares distintos, para lo cual suelen tener un mecanismo inferior propio o están instaladas sobre un vehículo. Todos los alimentadores necesarios son flexibles y fácilmente desconectables,
+
+– las máquinas de chorro de agua de alta presión fijas están diseñadas para utilizarse en un lugar durante un período de tiempo, pero pudiéndose desplazar a otro lugar con el equipo adecuado. Por regla general están montadas sobre plataforma o en la caja y sus alimentadores pueden desconectarse.
+
+### 28. Martillo hidráulico.
+
+Equipo que utiliza la fuente de alimentación hidráulica del vehículo portador para imprimir un movimiento de aceleración a un pistón (en ocasiones a gas) que, a continuación, golpea una herramienta. La onda de esfuerzo generada por la acción dinámica se transmite a través de la herramienta al material, provocando su ruptura. Los martillos hidráulicos necesitan aceite presurizado para funcionar. El conjunto formado por el martillo y el vehículo portador está controlado por un operario que, por lo general, va sentado en la cabina del vehículo portador.
+
+### 29. Generador de energía hidráulica.
+
+Máquina que se utiliza con equipo intercambiable que comprime líquidos a una presión superior a la presión de entrada. Se compone de un motor, una bomba, con o sin depósito, y accesorios (por ejemplo, dispositivos de contención o válvula de presión).
+
+### 30. Cortadora de juntas.
+
+Máquina móvil para hacer juntas sobre superficies de hormigón, asfalto y otros revestimientos de carreteras. La herramienta cortante es un disco que gira a gran velocidad. El movimiento de avance de la cortadora de juntas puede ser:
+
+– manual,
+
+– manual con asistencia mecánica,
+
+– mecánico.
+
+### 31. Compactadora de basura de tipo cargadora con cangilón.
+
+Máquina compactadora automotriz sobre ruedas que dispone de un enlace de cargadora frontal con una pala y ruedas de acero (rodillos) diseñadas principalmente para compactar, desplazar, nivelar y cargar tierra, basuras o restos de material sanitario.
+
+### 32. Cortadora de césped.
+
+Máquina para cortar césped, con conductor montado o con conductor a pie, o máquina con uno o varios accesorios cortacésped, en la que el dispositivo de corte funciona en un plano aproximadamente paralelo al suelo y que se sirve del suelo para determinar la altura de corte por medio de ruedas, patines o cojines de aire, etc., y que utiliza un motor eléctrico o de otro tipo. Los dispositivos cortantes son:
+
+– bien elementos cortantes rigidos,
+
+– bien uno o varios filamentos no metálicos o cuchillas no metálicas que pivotan libremente, con una energía cinética superior a 10 J cada una de ellas. La energía cinética se determina de conformidad con el anexo B de la norma EN 786:1997 (UNE-EN 786:1996; UNE-EN 786:1997 ERRATUM).
+
+Puede ser también una máquina para cortar césped, con conductor montado o con conductor a pie, o una máquina con uno o varios accesorios cortacésped, en la que el dispositivo de corte gira en torno a un eje horizontal para cortar por medio de una cuchilla o cuchillo fijo (cortadora cilíndrica).
+
+### 33. Máquina para el acabado del césped/recortadora de césped.
+
+Máquina eléctrica de cortar césped con conductor montado o con conductor a pie con uno o varios elementos cortantes con uno o varios filamentos no metálicos o con cuchillas libremente pivotantes no metálicas con una energía cinética nunca superior a 10 J cada una de ellas, destinada a cortar césped o vegetación similar. El elemento o elementos cortantes funcionan en un plano aproximadamente paralelo al suelo (máquina para el acabado del césped) o perpendicular al suelo (recortadora de césped). La energía cinética se determina de conformidad con el anexo B de la norma EN 786:1997 (UNE-EN 786:1996; UNE-EN 786:1997 ERRATUM).
+
+### 34. Soplador de hojas.
+
+Máquina con motor adecuada para limpiar el césped, senderos, caminos, calles, etc. de hojas y otras materias por medio de un flujo de aire muy potente. Puede ser portátil (de mano) o no portátil pero móvil.
+
+### 35. Aspirador de hojas.
+
+Máquina con motor adecuada para recoger hojas y otros detritos por medio de un mecanismo de succión compuesto por una fuente de alimentación de energía que produce un vacío dentro de la máquina y un tubo de aspiración y un contenedor para el material recogido. Puede ser portátil (de mano) o no portátil pero móvil.
+
+### 36. Carretilla elevadora en voladizo accionada por motor de combustión.
+
+Carretilla elevadora sobre ruedas con motor de combustión interna y con mecanismo de contrapeso y de elevación (mástil, brazo telescópico o brazo articulado). Son:
+
+– carretillas todo terreno (carretillas de horquilla en voladizo sobre ruedas destinadas fundamentalmente a trabajos en terrenos naturales yermos y en terrenos inestables, en obras por ejemplo),
+
+– otras carretillas elevadores en voladizo; quedan excluidas las carretillas elevadoras en voladizo fabricadas específicamente para manipular contenedores.
+
+### 37. Cargadora.
+
+Máquina automotriz, sobre neumáticos u orugas, provista de una estructura y enlace de cangilón frontal. Esta máquina carga o excava al avanzar y eleva, transporta y descarga materiales.
+
+### 38. Grúa móvil.
+
+Grúa automotriz que puede desplazarse, con o sin carga, sin necesidad de vial de rodadura y cuya estabilidad depende de la gravedad. Funciona sobre neumáticos, orugas o con otros dispositivos móviles. En posición fija puede apoyarse en puntales u otros accesorios que aumenten su estabilidad. La superestructura de una grúa móvil puede ser del tipo rotación completa, rotación limitada o rotación nula. Suele llevar uno o varios tomos o cilindros hidráulicos que hacen subir o bajar el brazo y la carga. Las grúas móviles pueden tener brazos telescópicos, articulados o de celosía, o una combinación de los tres, diseñados de manera que puedan hacerse bajar fácilmente. Las cargas suspendidas del brazo pueden manejarse mediante poleas de gancho u otros mecanismos de elevación de cargas para servicios especiales.
+
+### 39. Contenedor de basura móvil.
+
+Contenedor convenientemente diseñado, provisto de ruedas, destinado al almacenamiento temporal de residuos y equipado con una tapa.
+
+### 40. Motoazada.
+
+Máquina automotriz que se conduce a pie:
+
+– con o sin rueda de apoyo, de manera que sus órganos de trabajo funcionan como binadores de empuje (motoazada), y
+
+– propulsada por una o varias ruedas accionadas directamente desde el motor y equipada con herramientas binadoras (motoazada con una o varias ruedas motrices).
+
+### 41. Pavimentadora.
+
+Máquina móvil para la construcción de carreteras utilizada para aplicar capas de afirmado con material de construcción, por ejemplo, mezclas bituminosas, hormigón y grava. Las pavimentadoras pueden ir equipadas con una guía para alta compactación.
+
+### 42. Equipo para el manejo de pilotes.
+
+Equipo de colocación de pilotes y máquinas de extracción, por ejemplo, martillos pilones, extractores, vibradores o dispositivos estáticos para la hinca y/o extracción de elementos de cimentación. Conjunto de máquinas y componentes utilizados para la colocación o extracción de pilotes que también se compone de:
+
+– equipo de perforación formado por la máquina portadora (montada sobre ruedas, cadenas o raíles, fijación flotante del mástil, sistema de guía o mástil),
+
+– accesorios, por ejemplo cabezas de pilote, sombreretes, placas, seguidores, dispositivos de apriete, dispositivos para la manipulación de los pilotes, guías de pilotes, revestimientos acústicos y dispositivos de absorción de impactos y vibraciones, fuentes de alimentación y generadores y ascensores para el personal o plataformas.
+
+### 43. Colocador de tuberías.
+
+Máquina automotriz sobre ruedas u orugas diseñada específicamente para manejar y colocar tuberías y llevar equipos de tuberías. La máquina es un tractor compuesto por elementos especialmente diseñados, por ejemplo, bastidor, estructura central contrapesos, pluma y mecanismo de montacargas, así como un pescante lateral que pivota verticalmente.
+
+### 44. Tractor oruga para nieve.
+
+Máquina automotriz sobre orugas utilizada pare ejercer una fuerza de empuje de atracción sobre hielo y nieve a través de un equipo montado.
+
+### 45. Grupo electrógeno.
+
+Todo aparato con un motor de combustión interna que accione un generador rotativo que proporcione alimentación eléctrica en régimen continuo.
+
+### 46. Barredora mecánica.
+
+Máquina barredora que dispone de un equipo que barre detritos y los dirige hacia una boca de aspiración donde son aspirados por una corriente de aire a gran velocidad o un sistema mecánico de recogida hasta una tolva receptora. Los mecanismos de barrido y recogida pueden estar instalados en un chasis de marca o integrados en un chasis propio. El equipo puede ser fijo o desmontable como en el caso de un sistema de carrocería intercambiable.
+
+### 47. Vehículo recogebasuras.
+
+Vehículo concebido para la recogida y el transporte de residuos domésticos y residuos voluminosos, que se carga por contenedores o a mano. El vehículo puede ir equipado con un mecanismo de compactación. Un vehículo recogebasuras está compuesto por un chasis con cabina sobre el que va instalada la carrocería. Puede llevar un mecanismo de elevación de contenedores.
+
+### 48. Flexadora para carreteras.
+
+Máquina móvil utilizada para extraer materiales de superficies pavimentadas por medio de un cilindro mecánico que lleva en su superficie los instrumentos flexadores. Los tambores giran al cortar.
+
+### 49. Escarificador.
+
+Máquina mecánica, con conductor montado encima o con conductor a pie detrás, que utiliza el suelo para determinar la profundidad de corte y que lleva una unidad adecuada para tajar o escarbar la superficie de hierba en jardines, parques y otros espacios similares.
+
+### 50. Trituradora/astilladora.
+
+Máquina mecánica que se utiliza en posición fija con uno o varios dispositivos cortantes destinados a reducir materias orgánicas voluminosas en trozos más pequeños. Por regla general está compuesta por una apertura por la que se introduce el material (sostenido o no por un mecanismo de sujeción), un dispositivo que corta el material por el método que sea (cortar, picar, triturar, etc.) y una boca de descarga. Puede llevar acoplado un dispositivo de recogida.
+
+### 51. Máquina quitanieves con herramientas giratorias.
+
+Máquina con la que se puede quitar la nieve de zonas de tráfico por mecanismos giratorios, y que acelera y la expulsa por medios soplantes.
+
+### 52. Vehículo aspirador.
+
+Vehículo equipado con un mecanismo para aspirar agua, barro, lodos, residuos o materiales similares de alcantarillas o instalaciones semejantes. El mecanismo puede estar instalado en un chasis de marca o un chasis propio. El equipo puede ser fijo o desmontable como en el caso de un sistema de carrocería intercambiable.
+
+### 53. Grúa de torre.
+
+Grúa con pluma giratoria situada en la parte superior de una torre que se mantiene aproximadamente vertical durante su funcionamiento. Esta máquina mecánica está equipada con dispositivos para subir y bajar cargas suspendidas, así como para moverlas por medio de modificaciones del radio de elevación de la carga y del giro y desplazamiento de toda la máquina. Algunas máquinas realizan varios de estos movimientos pero no necesariamente todos. La máquina puede instalarse en posición fija o estar equipada con medios de desplazamiento o ascensión.
+
+### 54. Zanjadora.
+
+Máquina automotriz, con conductor montado o con conductor a pie, sobre ruedas o sobre orugas, con una pala enganchada en la parte trasera o delantera, diseñada principalmente para cavar zanjas en una operación continua por medio de un movimiento de la máquina.
+
+### 55. Camión hormigonera.
+
+Vehículo equipado con un tambor que transporta hormigón preamasado desde la, central de hormigonado hasta el lugar de trabajo. El tambor puede girar con el vehículo en marcha o detenido. El tambor se vacía por rotación en el lugar de la obra. El tambor funciona con el motor del vehículo o con otro motor distinto.
+
+### 56. Equipo de bomba de agua.
+
+Máquina compuesta por una bomba de agua y un motor. La bomba de agua es una máquina que hace subir el agua de un nivel inferior de energía a otro superior.
+
+### 57. Grupo electrógeno de soldadura.
+
+Cualquier aparato rotativo que produzca una corriente pare soldadura.
+
+## ANEXO II — DECLARACIÓN CE DE CONFORMIDAD
+
+La declaración CE de conformidad incluirá los datos siguientes:
+
+– nombre y dirección del fabricante o de su representante autorizado establecido en la Unión Europea,
+
+– nombre y dirección de la persona que conserva la documentación técnica,
+
+– descripción de la máquina,
+
+– procedimiento de evaluación de la conformidad que se ha seguido y, en su caso, nombre y dirección del organismo notificado que haya intervenido,
+
+– nivel de potencia acústica medido en una máquina representativa del tipo,
+
+– nivel de potencia acústica garantizado para la máquina de que se trate,
+
+– referencia a la Directiva 2000/14/CE,
+
+– declaración de que la máquina cumple los requisitos de la Directiva 2000/14/CE,
+
+– si procede, la declaración o declaraciones de conformidad y las referencias a otras Directivas comunitarias que se hayan aplicado,
+
+– lugar y fecha de la declaración,
+
+– datos de la persona autorizada a firmar la declaración vinculante jurídicamente en nombre del fabricante o de su representante autorizado establecido en la Unión Europea.
+
+## ANEXO III — Métodos para medir el ruido aéreo emitido por las máquinas de uso al aire libre
+
+Introducción
+
+El presente anexo contiene los métodos para medir el ruido aéreo que deben utilizarse a fin de determinar los niveles de potencia acústica de las máquinas de uso al aire libre.
+
+La parte A del presente anexo establece la norma básica de emisión sonora y los complementos generales de esa norma básica de emisión sonora para medir el nivel de presión acústica sobre una superficie de medición que envuelve a la fuente del ruido y para calcular el nivel de potencia acústica emitido por esa fuente.
+
+La parte B del presente anexo establece el código de ensayo del ruido específico de la máquina, que se presenta bien como referencia a una norma específica o bien como una descripción de las condiciones de ensayo y funcionamiento aplicables, entre las que figuran las siguientes:
+
+a) El entorno de ensayo;
+
+b) el valor de la corrección del entorno (K<sub>2A</sub>);
+
+c) la forma y las dimensiones de la superficie de medición;
+
+d) el número y la posición de los micrófonos que deben utilizarse;
+
+e) los requisitos de montaje e instalación de la máquina;
+
+f) un método de cálculo de los niveles de potencia acústica resultantes en caso de que vayan a utilizarse varios ensayos en condiciones de funcionamiento distintas.
+
+Cuando sometan a ensayo tipos específicos de máquinas, los fabricantes o sus representantes autorizados en la Unión utilizarán la norma básica de emisión sonora y los complementos generales que figuran en la parte A del presente anexo, así como el código de ensayo del ruido específico de la máquina establecido en la parte B. Los códigos de ensayo del ruido de la parte B tienen por objeto completar las especificaciones establecidas en la parte A teniendo en cuenta las características de las diferentes categorías de máquinas. Cuando los códigos de ensayo del ruido de la parte B prevean la posibilidad de elegir entre diferentes soluciones técnicas alternativas, los fabricantes o sus representantes autorizados en la Unión utilizarán las que se ajusten a las especificaciones establecidas en la parte A. En caso de conflicto entre la parte A y la parte B, prevalecerán las disposiciones de la parte B.
+
+Cuando los códigos de ensayo del ruido establecidos en la parte B, o en las normas contempladas en la parte B, no sean aplicables a algunos modelos de máquinas de la categoría de máquinas en cuestión, los fabricantes o sus representantes autorizados en la Unión determinarán el nivel de potencia acústica garantizado de conformidad con la norma básica de emisión sonora y los complementos aplicables indicados en la parte A.
+
+En el caso de las máquinas a las que se refiere el artículo 11, cuando el uso de los métodos de medición del ruido establecidos en el presente anexo o de los establecidos en la versión del anexo III aplicable antes del 22 de mayo de 2025 dé lugar a dos situaciones diferentes para la conformidad del producto, es decir, cuando el nivel de potencia acústica garantizado de la máquina calculado mediante un método supera el nivel de potencia acústica admisible correspondiente del artículo 11, pero no lo supera al utilizar el otro método, los fabricantes o sus representantes autorizados en la Unión determinarán el nivel de potencia acústica medido y el nivel de potencia acústica garantizado con arreglo a los métodos establecidos en la versión del anexo III aplicable antes del 22 de mayo de 2025 hasta que se modifiquen los niveles de potencia acústica admisibles del artículo 11. En tal situación, los organismos notificados y las autoridades de vigilancia del mercado utilizarán también el método establecido en la versión del anexo III que era aplicable antes del 22 de mayo de 2025, para realizar los ensayos de ruido cuando así lo exija el procedimiento de evaluación de la conformidad aplicable.
+
+PARTE A
+
+**Norma básica de emisión sonora**
+
+Los fabricantes o sus representantes autorizados en la Unión utilizarán la norma básica de emisión sonora EN ISO 3744:2010 (UNE-EN ISO 3744:2011) para determinar el nivel de potencia acústica L<sub>WA</sub>, sin perjuicio de los complementos generales establecidos en la presente parte A. Los fabricantes o sus representantes autorizados en la Unión aplicarán todos los puntos de la norma EN ISO 3744:2010 (UNE-EN ISO 3744:2011), salvo que se indique lo contrario en la presente parte A o en el código de ensayo del ruido aplicable establecido en la parte B del presente anexo.
+
+1\. Funcionamiento de la fuente del ruido durante el ensayo
+
+1.1 Velocidad del ventilador:
+
+Los ventiladores que estén instalados en el motor de la máquina o en su sistema hidráulico deberán estar en funcionamiento durante el ensayo. Los fabricantes o sus representantes autorizados en la Unión determinarán la velocidad del ventilador con arreglo a los requisitos establecidos en las letras a) a d), según proceda, indicarán dicha velocidad en el informe de ensayo y la utilizarán en mediciones posteriores. Los ventiladores no estarán en funcionamiento en modo de marcha atrás durante los ensayos.
+
+a) Ventilador conectado directamente al motor o al sistema hidráulico:
+
+Si el mecanismo del ventilador está conectado directamente al motor o al equipo hidráulico, deberá estar en funcionamiento durante el ensayo.
+
+b) Ventilador con varias velocidades:
+
+Un ventilador que pueda funcionar a varias velocidades se someterá a ensayo en una de las formas siguientes:
+
+i) a la velocidad máxima de funcionamiento;
+
+ii) en un primer ensayo, con el ventilador a velocidad cero y en un segundo ensayo, con el ventilador graduado a la velocidad máxima.
+
+A efectos del inciso ii), el nivel resultante de presión acústica superficial ponderado A L<sub>pA</sub> se calculará combinando los resultados de los dos ensayos mediante la ecuación siguiente:
+
+L<sub>pA</sub> = 10 lg (0,3 x 10<sup>0,1 LpA,0% </sup>+ 0,7 x 10<sup>0,1 LpA,100%</sup>)
+
+donde:
+
+– L<sub>pA,0% </sub>es el nivel de presión acústica superficial ponderado A determinado con el ventilador a velocidad cero;
+
+– L<sub>pA,100% </sub>es el nivel de presión acústica superficial ponderado A determinado con el ventilador a velocidad máxima.
+
+c) Ventilador de velocidad continua variable:
+
+Un ventilador que pueda funcionar a velocidad continua variable se someterá a ensayo bien según el punto 1.1, letra b), o bien con la velocidad a un 70 % como mínimo de la velocidad máxima.
+
+Se considerará que los ventiladores viscostáticos, que se regulan automáticamente por la temperatura del motor, funcionan a velocidad continua variable, independientemente del origen del control.
+
+d) Equipos con dos o más ventiladores:
+
+Cuando una máquina esté equipada con dos o más ventiladores, todos los ventiladores estarán en funcionamiento en las condiciones especificadas en las letras a), b) o c), según proceda.
+
+1.2 Ensayo de máquinas de motor sin carga:
+
+Antes de medir el ruido emitido por las máquinas de motor sin carga, los fabricantes o sus representantes autorizados en la Unión calentarán el motor y el sistema hidráulico de la máquina de acuerdo con las instrucciones de uso y cumplirán las consignas de seguridad.
+
+Los fabricantes o sus representantes autorizados en la Unión medirán el ruido con las máquinas en posición estacionaria, sin poner en funcionamiento el órgano de trabajo ni el mecanismo de desplazamiento. Para los fines de la medición, el motor funcionará al ralentí (1) como mínimo a la velocidad nominal correspondiente a la potencia neta (2).
+
+Cuando la máquina esté accionada por un generador o alimentada por la red, la frecuencia de la corriente especificada para el motor por el fabricante se mantendrá estable a ± 1 Hz si la máquina tiene un motor de inducción, y el voltaje a ± 1 % de la tensión nominal si la máquina lleva un motor de colectores. La tensión se medirá en el enchufe de un cable o cordón indesmontable, o en el conducto de admisión de la máquina, si tiene un cable desmontable. La señal de la corriente del generador será similar a la de la red.
+
+Cuando la etiqueta de la máquina indique múltiples rangos de tensión, los fabricantes o sus representantes autorizados en la Unión realizarán las mediciones en el rango de tensión más alto indicado. Si el rango de tensión es de 220 a 240 V, el ensayo se realizará a 230 V.
+
+Si la máquina funciona con una o varias baterías, las baterías deberán estar cargadas al menos al 70 % de su capacidad.
+
+Los fabricantes o sus representantes autorizados en la Unión indicarán en el informe de ensayo la velocidad nominal utilizada y la potencia neta correspondiente.
+
+Cuando la máquina tenga varios motores, estos funcionarán simultáneamente durante las mediciones, a menos que esto no sea posible, en cuyo caso se medirán las emisiones sonoras de cada una de las combinaciones posibles de los motores.
+
+(1) Un motor podrá funcionar al ralentí bien a la velocidad más baja del motor (sin accionar el acelerador) o bien a la velocidad más baja del motor necesaria para realizar funciones básicas, como aportar presión hidráulica suficiente para desplazar la máquina o cualquiera de sus herramientas, según proceda para la categoría de máquina específica.
+
+(2) Potencia neta es la potencia del motor en «kW» obtenida en un banco de pruebas en el extremo del cigüeñal o su equivalente, medida de conformidad con el método de medición de la potencia de los motores de combustión interna especificado en el Reglamento n.º 120 Revisión 2 de la Comisión Económica para Europa de las Naciones Unidas (CEPE): Disposiciones uniformes relativas a la homologación de motores de combustión interna destinados a los tractores agrícolas o forestales y las máquinas móviles no de carretera con respecto a la medición de la potencia neta, el par neto y el consumo específico de combustible.
+
+1.3 Ensayo de máquinas de motor con carga:
+
+Antes de medir el ruido emitido por las máquinas de motor con carga, los fabricantes o sus representantes autorizados en la Unión calentarán el motor (dispositivo motriz) y el sistema hidráulico de la máquina de acuerdo con las instrucciones de uso y cumplirán las consignas de seguridad. Los fabricantes o sus representantes autorizados en la Unión no utilizarán ningún dispositivo de señalización, como avisadores acústicos o alarmas de marcha atrás, durante la medición.
+
+Los fabricantes o sus representantes autorizados en la Unión registrarán la velocidad de la máquina durante la medición e indicarán dicha velocidad en el informe de ensayo.
+
+Cuando la máquina lleve varios motores o grupos, todos ellos funcionarán simultáneamente durante las mediciones, a menos que esto no sea posible, en cuyo caso los fabricantes medirán las emisiones sonoras de cada una de las combinaciones posibles de los motores o grupos.
+
+Los fabricantes o sus representantes autorizados en la Unión fijarán condiciones de funcionamiento específicas para cada tipo de máquina con carga. Las condiciones de funcionamiento específicas producirán, en la medida de lo posible, efectos y tensiones similares a los obtenidos en condiciones de funcionamiento reales.
+
+1.4 Ensayo de máquinas manuales:
+
+Los fabricantes o sus representantes autorizados en la Unión establecerán, para cada tipo de máquina manual, condiciones de funcionamiento convencionales que produzcan efectos y tensiones similares a los obtenidos en condiciones de funcionamiento reales.
+
+2\. Determinación del nivel de presión acústica superficial
+
+Los fabricantes o sus representantes autorizados en la Unión determinarán el nivel de presión acústica superficial por lo menos en tres ocasiones. Si al menos dos de los valores determinados no difieren en más de 1 dB, no será preciso realizar más mediciones. En caso contrario, los fabricantes o sus representantes autorizados en la Unión seguirán realizando mediciones hasta que obtengan dos valores que no difieran en más de 1 dB. El nivel de presión acústica superficial ponderado A que deberán utilizar los fabricantes o sus representantes autorizados en la Unión para calcular el nivel de potencia acústica será la media aritmética de los dos valores más altos que no difieren en más de 1 dB.
+
+Cuando sea posible, los fabricantes o sus representantes autorizados en la Unión realizarán las mediciones del ruido simultáneamente en todas las posiciones de micrófono. Esto es especialmente importante para los ensayos dinámicos. Cuando eso no sea posible, los fabricantes o sus representantes autorizados en la Unión velarán especialmente por garantizar condiciones estables en el entorno de ensayo y por minimizar los riesgos de que se incluyan variaciones no deseadas del ruido emitido por la máquina o por cualquier otro factor, como el ruido de fondo y la velocidad del viento.
+
+3 Información que debe presentarse
+
+El informe de ensayo, exigido en la documentación técnica prevista en el anexo V, punto 3, en el anexo VI, punto 3, en el anexo VII, punto 2, y en el anexo VIII, puntos 3.1 y 3.3, deberá incluir los datos técnicos necesarios para identificar la fuente de ruido sometida a ensayo, el código de ensayo del ruido y los datos acústicos utilizados y obtenidos durante el ensayo.
+
+El valor del nivel de potencia acústica ponderado A de la fuente del ruido sometida a ensayo que deberá presentarse se redondeará al número entero más próximo (si es menor que 0,5, al número entero inferior y si es mayor o igual que 0,5, al número entero superior).
+
+Cuando, por las razones y en las condiciones estipuladas en el último párrafo de la introducción del presente anexo, los fabricantes o sus representantes autorizados en la Unión utilicen los métodos establecidos en la versión del anexo III aplicable antes del 22 de mayo de 2025 para determinar el nivel de potencia acústica, los fabricantes o sus representantes autorizados en la Unión mantendrán en el informe de ensayo un registro de los datos relativos a las mediciones realizadas de conformidad con ambos métodos: los métodos establecidos en la versión del anexo III aplicable antes del 22 de mayo de 2025 y los métodos establecidos en el presente anexo.
+
+Las autoridades de vigilancia del mercado y los organismos notificados pertinentes, para los modelos de máquinas cuya primera unidad se haya puesto en el mercado o en servicio antes del 22 de mayo de 2025, aceptarán los informes técnicos de las mediciones de ruido realizadas con arreglo a los métodos establecidos en la versión del anexo III aplicable antes del 22 de mayo de 2025 a efectos de la evaluación de la conformidad según los procedimientos contemplados en el artículo 13, apartado 1, del presente real decreto y a efectos de los requisitos relativos a la documentación técnica de dichos productos según se establece en el anexo V, punto 3, el anexo VI, punto 3, el anexo VII, punto 2, y el anexo VIII, puntos 3.1 y 3.3, del presente real decreto, hasta el 22 de mayo de 2028.
+
+4\. Corrección del entorno K<sub>2A</sub>
+
+Los fabricantes o sus representantes autorizados en la Unión determinarán la corrección del entorno K<sub>2A</sub> de conformidad con la norma EN ISO 3744:2010 (UNE-EN ISO 3744:2011), punto 4.3.
+
+Si K<sub>2A</sub> ≤ 0,5 dB, puede ignorarse.
+
+Si K<sub>2A</sub> > 4 dB, el entorno de ensayo no cumple los requisitos del presente real decreto y deberá modificarse.
+
+Los fabricantes o sus representantes autorizados en la Unión utilizarán las especificaciones para la corrección del entorno establecidas en el código de ensayo del ruido para máquinas específicas contempladas en la parte B del presente anexo cuando existan tales especificaciones.
+
+PARTE B
+
+**Códigos de ensayo del ruido emitido por máquinas específicas**
+
+0\. Máquinas sin carga
+
+Superficie de ensayo:
+
+Superficie reflectante de hormigón o asfalto no poroso.
+
+Corrección del entorno K<sub>2A</sub>:
+
+K<sub>2A</sub> = 0
+
+Superficie de medición/número de posiciones de micrófono/distancia de medición:
+
+a) si la dimensión mayor del paralelepípedo de referencia no es superior a 8 m: semiesfera/seis posiciones de micrófono según la norma EN ISO 3744:2010 (UNE-EN ISO 3744:2011), anexo F.
+
+b) si la dimensión mayor del paralelepípedo de referencia es superior a 8 m: paralelepípedo según la norma ISO 3744:2010 (UNE-EN ISO 3744:2011) con una distancia de medición d = 1 m.
+
+Ensayo sin carga:
+
+Los ensayos de ruido deben realizarse según la parte A, punto 1.2, del presente anexo.
+
+Período o períodos de observación/determinación del nivel de potencia acústica resultante si se aplican dos o más condiciones de funcionamiento:
+
+El período de observación durará por lo menos 15 segundos o al menos 3 ciclos de funcionamiento de la máquina.
+
+1\. Plataformas elevadoras con motor de combustión
+
+EN 280-1:2022 (UNE-EN 280-1:2023), punto 4.12.2.
+
+2\. Desbrozadoras
+
+EN ISO 22868:2021 (UNE-EN ISO 22868:2021).
+
+3\. Montacargas para el transporte de materiales de construcción
+
+Véase el punto 0.
+
+El centro geométrico del motor deberá situarse sobre el centro de la semiesfera. El montacargas ascenderá sin carga fuera de la semiesfera –en caso necesario– en dirección del punto 1.
+
+4\. Sierras de cinta para obras
+
+EN ISO 19085-16:2021 (UNE-EN ISO 19085-16:2022), punto 6.2.2.
+
+Se aplicará el método de medición de esta norma basado en la norma EN ISO 3744:2010 (UNE-EN ISO 3744:2011).
+
+5\. Sierras circulares de mesa para obras
+
+Superficie de medición/número de posiciones de micrófono/distancia de medición:
+
+ISO 7960:1995, anexo A, distancia de medición d = 1 m.
+
+Ensayo con carga:
+
+ISO 7960:1995, anexo A (punto A2b únicamente).
+
+Período de observación:
+
+ISO 7960:1995, anexo A.
+
+6\. Sierras de cadena portátiles
+
+a) Con motor de combustión:
+
+EN ISO 22868:2021 (UNE-EN ISO 22868:2021).
+
+b) Con motor eléctrico:
+
+EN 62841-4-1:2020 (UNE-EN 62841-4-1:2020), anexo I.
+
+7\. Vehículos baldeadores y aspiradores de alta presión
+
+Cuando ambos dispositivos puedan funcionar simultáneamente, deberán funcionar con arreglo a los puntos 26 y 52 de la presente parte B. En caso contrario, las emisiones sonoras de ambos dispositivos se medirán por separado y se indicarán los valores más altos.
+
+8\. Máquinas compactadoras
+
+a) Planchas y apisonadoras vibratorias:
+
+EN 500-4: 2011 (UNE-EN 500-4:2011), punto 5.10.1.
+
+b) Rodillos:
+
+EN 474-13:2022 (UNE-EN 474-13:2022), punto 4.6.
+
+9\. Motocompresores
+
+EN ISO 2151:2008 (UNE-EN ISO 2151:2009).
+
+El período de observación durará por lo menos 15 segundos.
+
+10\. Trituradores de hormigón y martillos picadores de mano
+
+a) Con motor de combustión:
+
+Superficie de medición/número de posiciones de micrófono/distancia de medición:
+
+Semiesfera/seis posiciones de micrófono según la norma EN ISO 3744:2010 (UNE-EN ISO 3744:2011), anexo F, y el cuadro siguiente, dependiendo de la masa de la máquina como figura en el cuadro siguiente:
+
+| Masa de la máquina m en kg | Radio de la semiesfera (en m) | z para las posiciones de los micrófonos 2, 4, 6 y 8 (en m) |
+|---|---|---|
+| m < 10 | 2 | 0,75 |
+| m ≥ 10 | 4 | 1,50 |
+
+Instalación de la máquina:
+
+Todos los aparatos se ensayarán en posición vertical.
+
+Si el aparato sometido a ensayo dispone de un conducto de salida del aire, su eje se colocará equidistante de dos posiciones de micrófono. El ruido de la fuente de alimentación no influirá en la medición del ruido emitido por el aparato.
+
+Soporte del aparato:
+
+El aparato estará conectado durante el ensayo a una herramienta incrustada en un bloque de hormigón de forma cúbica enterrado en el suelo.
+
+Durante los ensayos podrá insertarse una pieza de acero entre el aparato y la herramienta de soporte. Esa pieza intermedia formará una estructura estable entre el aparato y la herramienta de soporte. La figura 10.1 muestra esos requisitos.
+
+Características del bloque:
+
+El bloque tendrá la forma de un cubo de 0,60 m ± 2 mm de lado y lo más regular posible. Será de hormigón armado y vibrado a fondo en capas de hasta 0,20 m para evitar una sedimentación excesiva.
+
+Calidad del hormigón:
+
+La calidad del hormigón corresponderá a C 50/60 de EN 206:2013+A2:2021 (UNE-EN 206:2013+A2:2021).
+
+El cubo estará reforzado por varillas de 8 mm de diámetro no conectadas entre sí, de manera que cada varilla sea independiente de las demás. En la figura 10.2 se ilustra el concepto del diseño.
+
+Herramienta de soporte:
+
+La herramienta se encapsulará dentro del bloque y consistirá en un pisón con un diámetro de entre 178 mm y 220 mm y un mango idéntico a los utilizados normalmente con el aparato objeto del ensayo, que cumpla la norma ISO 1180:1983/ADD 1:1985, pero suficientemente largo para que pueda realizarse el ensayo.
+
+Deberá llevarse a cabo un tratamiento adecuado para integrar ambos componentes. La herramienta se fijará al bloque de manera que la parte de abajo del pisón esté a 0,30 m de la cara superior del bloque (véase la figura 10.2).
+
+El bloque debe conservar su integridad mecánica, sobre todo en el punto de encuentro entre la herramienta de soporte y el hormigón. Antes y después de cada ensayo se verificará que la herramienta encapsulada dentro del bloque de hormigón forma parte integrante de él.
+
+Colocación del cubo:
+
+El cubo se introducirá en un hoyo totalmente relleno de cemento, cubierto por una losa pantalla de por lo menos 100 kg/m<sup>2</sup>, como se indica en la figura 10.3, de manera que la superficie superior de la losa pantalla no sobresalga del suelo. Para evitar ruidos parásitos, el bloque se aislará de la parte inferior y de los costados del hoyo por medio de bloques elásticos con una frecuencia de corte no superior a la mitad de la velocidad de golpeo del aparato objeto de ensayo, expresada en golpes por segundo.
+
+La abertura de la losa pantalla por la que pasa el mango del instrumento será lo más pequeña posible y se encapsulará por medio de una junta flexible insonorizante.
+
+Ensayo con carga:
+
+El aparato objeto de ensayo estará conectado a la herramienta de soporte.
+
+El aparato de ensayo funcionará en condiciones estables con la misma estabilidad acústica que durante el funcionamiento normal.
+
+El aparato de ensayo funcionará a la potencia máxima especificada en las instrucciones de uso que se ponen a disposición del comprador.
+
+Período de observación:
+
+El período de observación durará por lo menos 15 segundos.
+
+Figura 10.1 Esquema de la pieza intermedia
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/88/8023_16849554_1.png)
+
+Figura 10.2 Bloque de ensayo
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/88/8023_16849554_2.png)
+
+Figura 10.3 Dispositivo de ensayo
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/88/8023_16849554_3.png)
+
+El valor de la cota A será tal que la losa pantalla colocada sobre la junta elástica J esté al nivel del suelo.
+
+b) Con motor eléctrico:
+
+EN IEC 62841-2-6:2020 (UNE-EN IEC 62841-2-6:2020), EN IEC 62841-2-6:2020/A11:2020 (UNE-EN IEC 62841-2-6:2020/A11:2020), anexo I, punto I.2.
+
+c) Con motor neumático o hidráulico:
+
+Igual que con motor de combustión.
+
+11\. Hormigoneras
+
+Ensayo con carga:
+
+El aparato mezclador (tambor) se llenará hasta su capacidad nominal con arena de granulación entre 0 y 3 mm; la humedad se situará entre el 4 % y el 10 %.
+
+El aparato mezclador funcionará por lo menos a la velocidad nominal.
+
+Período de observación:
+
+El período de observación durará por lo menos 15 segundos.
+
+12\. Tornos de construcción
+
+a) Con motor de combustión:
+
+Véase el punto 0.
+
+El centro geométrico del motor deberá situarse sobre el centro de la semiesfera; el torno estará conectado, pero no se aplicará ninguna carga.
+
+b) Con motor eléctrico:
+
+EN 14492-2:2019 (UNE-EN 14492-2:2020), anexo M.
+
+13\. Máquinas de distribución, transporte y rociado de hormigón y mortero
+
+EN 12001:2012 (UNE-EN 12001:2013), anexo C.
+
+14\. Cintas transportadoras
+
+Véase el punto 0.
+
+El centro geométrico del motor deberá situarse sobre el centro de la semiesfera. La cinta se desplazará sin carga y saldrá de la semiesfera, en caso necesario, en dirección al punto 1.
+
+15\. Equipos de refrigeración en vehículos
+
+Ensayo con carga:
+
+El equipo de refrigeración se instalará en un espacio de carga real o simulado y el nivel acústico se medirá en una posición estacionaria en la que, de acuerdo con las instrucciones que se ponen a disposición del comprador, la altura del equipo de refrigeración corresponda a los requisitos de instalación previstos. La fuente de alimentación del equipo de refrigeración funcionará a la velocidad que induzca la velocidad máxima del ventilador y el compresor de refrigeración indicada en las instrucciones. Si se desea que el equipo de refrigeración funcione con el motor del vehículo, no se utilizará este motor durante la medición, sino que el equipo de refrigeración se conectará a una fuente de alimentación eléctrica adecuada. Las unidades de tracción desmontables se desmontarán para efectuar la medición.
+
+El nivel acústico del equipo de refrigeración instalado en el espacio de carga de las unidades de refrigeración para las que se pueda optar por distintas fuentes de alimentación se medirá por separado con cada una de esas fuentes de alimentación. El resultado de la medición reflejará, como mínimo, la forma de funcionamiento que produce el máximo ruido.
+
+Período de observación:
+
+El período de observación durará por lo menos 15 segundos.
+
+16\. Topadoras
+
+ISO 6395:2008 (UNE-ISO 6395:2013) con las condiciones de funcionamiento y ensayo establecidas en el anexo C de dicha norma.
+
+17\. Equipos de perforación
+
+a) Perforadoras móviles:
+
+EN 16228-2:2014+A1:2021 (UNE-EN 16228-2:2015+A1:2022), punto 5.12.
+
+b) Equipos de perforación en dirección horizontal:
+
+EN 16228-3:2014+A1:2021 (UNE-EN 16228-3:2015+A1:2022), punto 5.15.
+
+c) Equipos auxiliares intercambiables para perforación:
+
+EN 16228-7:2014+A1:2021 (UNE-EN 16228-7:2015+A1:2022), punto 5.3.
+
+d) Cualquier otro equipo para perforación:
+
+EN 16228-1:2014+A1:2021 (UNE-EN 16228-1:2015+A1:2022), punto 5.27.2.2.
+
+18\. Motovolquetes
+
+ISO 6395:2008 (UNE-ISO 6395:2013) con las condiciones de funcionamiento y ensayo establecidas en el anexo F de dicha norma.
+
+19\. Equipos de carga y descarga de cisternas o silos en camiones
+
+Véase el punto 9 para motocompresores o bombas de vacío.
+
+Véase el punto 56 para bombas de líquido.
+
+20\. Palas
+
+ISO 6395:2008 (UNE-ISO 6395:2013) con las condiciones de funcionamiento y ensayo establecidas en el anexo B de dicha norma.
+
+21\. Palas cargadoras
+
+ISO 6395:2008 (UNE-ISO 6395:2013) con las condiciones de funcionamiento y ensayo establecidas en el anexo E de dicha norma.
+
+22\. Contenedores de reciclado de vidrio
+
+A los efectos de este código de ensayo del ruido, se utilizará el nivel de presión acústica integrado en el tiempo de un suceso único L<sub>E</sub>, como se define en la norma EN ISO 3744:2010 (UNE-EN ISO 3744:2011), punto 3.4, al medir el nivel de presión acústica en las posiciones de micrófono.
+
+Corrección del entorno K<sub>2A</sub>:
+
+Medición al aire libre:
+
+K<sub>2A</sub> = 0
+
+Medición en el interior:
+
+El valor de la constante K<sub>2A</sub>, determinado con arreglo a la norma EN ISO 3744:2010 (UNE-EN ISO 3744:2011), anexo A, será ≤ 2,0 dB, en cuyo caso K<sub>2A</sub> no se tomará en consideración.
+
+Condiciones de funcionamiento durante el ensayo:
+
+La medición del ruido se llevará a cabo durante un ciclo completo, iniciándose con el contenedor vacío y concluyéndose cuando en el contenedor se hayan echado 120 botellas de vidrio.
+
+Las botellas de vidrio se definen de la manera siguiente:
+
+– capacidad: 75 cl;
+
+– masa: 370 ± 30 g.
+
+El encargado de realizar el ensayo sujetará cada botella por el cuello con su parte inferior dirigida hacia la abertura del contenedor, por donde la introducirá suavemente hacia el centro de este evitando, si es posible, que golpee las paredes. Solo se utilizará una abertura para echar las botellas, que será la más cercana a la posición de micrófono 12.
+
+Período o períodos de observación/determinación del nivel de potencia acústica resultante si se aplican dos o más condiciones de funcionamiento.
+
+El nivel de presión acústica integrado en el tiempo de un suceso único ponderado A se medirá simultáneamente en las seis posiciones de micrófono para cada botella que se eche en el contenedor.
+
+El nivel de presión acústica integrado en el tiempo de un suceso único ponderado A medio relativo a la superficie de medición se calculará con arreglo a la norma EN ISO 3744:2010 (UNE-EN ISO 3744:2011), punto 8.2.2.
+
+El nivel de presión acústica integrado en el tiempo de un suceso único ponderado A medio relativo a las 120 botellas de vidrio introducidas en el contenedor se calculará como la media logarítmica de los niveles de presión acústica integrados en el tiempo de un suceso único ponderados A medios relativos a la superficie de medición.
+
+23\. Niveladoras
+
+ISO 6395:2008 (UNE-ISO 6395:2013) con las condiciones de funcionamiento y ensayo establecidas en el anexo G de dicha norma.
+
+24\. Máquinas para el acabado de la hierba/recortadoras de hierba
+
+Véase el punto 2.
+
+25\. Recortadoras de setos
+
+a) Con motor de combustión:
+
+EN ISO 22868:2021 (UNE-EN ISO 22868:2021).
+
+b) Con motor eléctrico:
+
+EN IEC 62841-4-2:2019 (UNE-EN 62841-4-2:2019), anexo I, punto I.2.
+
+26\. Baldeadoras de alta presión
+
+Ensayo con carga:
+
+La baldeadora de alta presión se ensayará en posición estacionaria. El motor y las unidades auxiliares funcionarán a la velocidad indicada por el fabricante con respecto al funcionamiento del órgano de trabajo. Las bombas de alta presión estarán funcionando a su velocidad máxima y a la presión de funcionamiento indicada por el fabricante. Se utilizará una tobera adaptada para que la válvula de reducción de presión se encuentre por debajo de su umbral de reacción. El ruido del flujo a través de la tobera no influirá sobre los resultados de la medición.
+
+Período de observación:
+
+El período de observación durará por lo menos 30 segundos.
+
+27\. Máquinas de chorro de agua de alta presión
+
+a) Con presión nominal ≤ 35 MPa:
+
+EN 60335-2-79:2012 (UNE-EN 60335-2-79:2013), anexo CC.
+
+b) Con presión nominal > 35 MPa:
+
+EN 1829-1:2010 (UNE-EN 1829-1:2010), punto 6.8.
+
+28\. Martillos hidráulicos
+
+Superficie de medición/número de posiciones de micrófono/distancia de medición:
+
+Semiesfera/seis posiciones de micrófono según la norma EN ISO 3744:2010 (UNE-EN ISO 3744:2011), anexo F/r = 10 m.
+
+Instalación de la máquina:
+
+Para el ensayo, se enganchará el martillo a un vehículo portador y se usará una estructura de bloque de ensayo especial. La figura 28.1 presenta las características de esta estructura y la figura 28.2 muestra la posición del vehículo portador.
+
+Vehículo portador:
+
+El vehículo portador del martillo sometido a ensayo cumplirá los requisitos de las especificaciones técnicas para martillos de prueba, sobre todo en lo referente a los límites de peso, potencia hidráulica de salida, caudal de alimentación del aceite y contrapresión del cable de retorno.
+
+Montaje:
+
+Tanto el montaje mecánico como las conexiones (tubos, mangueras, etc.) deberán ajustarse a las especificaciones incluidas en los datos técnicos del martillo. Deberá eliminarse todo ruido significativo producido por los tubos y los diversos componentes mecánicos necesarios para la instalación. Todas las conexiones de los componentes deberán estar bien apretadas.
+
+Estabilidad del martillo y fuerza estática de estabilización:
+
+El vehículo portador mantendrá firme en su sitio al martillo para que tenga la misma estabilidad que tendría en condiciones normales de funcionamiento. El martillo deberá funcionar en posición vertical.
+
+Herramienta:
+
+Para las mediciones se utilizará una herramienta embotada. La longitud de la herramienta cumplirá los requisitos de la figura 28.1 (bloque de ensayo).
+
+Ensayo con carga:
+
+Potencia hidráulica de entrada y circulación de aceite:
+
+Las condiciones de funcionamiento del martillo hidráulico se ajustarán, medirán y comunicarán debidamente, junto con los correspondientes valores de la especificación técnica. Durante el ensayo, el martillo se usará de forma que se pueda llegar al 90 % o más de la potencia hidráulica de entrada y circulación de aceite del martillo.
+
+Se cuidará de mantener la incertidumbre total de las cadenas de medición de p<sub>s</sub> y Q dentro de un margen de ± 5 %, a fin de lograr un grado de exactitud de ± 10 % en la determinación de la potencia hidráulica de entrada. Suponiendo una correlación lineal entre la potencia hidráulica de entrada y la potencia acústica emitida, ello significaría una variación de menos de ± 0,4 dB en la determinación del nivel de la potencia acústica.
+
+Componentes ajustables que afectan a la potencia del martillo:
+
+Los ajustes previos de todos los acumuladores, válvulas centrales de presión y otros posibles componentes ajustables deben hacerse conforme a los valores fijados en los datos técnicos. Si puede haber más de una tasa fija de golpeo, deberán efectuarse mediciones con todas las tasas posibles. Se presentarán los valores máximos y mínimos.
+
+Cantidades que deben medirse:
+
+p<sub>s</sub>: Valor medio de la presión del alimentador hidráulico durante el funcionamiento del martillo en, al menos, diez golpes;
+
+Q: Valor medio de la circulación del aceite en la entrada del ruptor medida al mismo tiempo que p<sub>s</sub>;
+
+T: La temperatura del aceite deberá estar entre + 40 °C y + 60 °C durante las mediciones. La temperatura del ruptor deberá estabilizarse en su punto normal de funcionamiento antes de comenzar las mediciones;
+
+P<sub>a</sub>: Las presiones del gas de cebado de todos los acumuladores deberán medirse en situación estática (con el ruptor sin funcionar), con temperatura ambiente estable entre + 15 °C y + 25 °C. La medición de la temperatura ambiente se efectuará al mismo tiempo que la medición de la presión del gas de cebado de los acumuladores.
+
+Parámetros que deberán evaluarse a partir de los parámetros medidos en funcionamiento:
+
+PIN: Potencia hidráulica de entrada del ruptor, PIN = p<sub>s</sub> Q.
+
+Medición de la presión del alimentador hidráulico p<sub>s</sub>:
+
+– p<sub>s</sub> deberá medirse lo más cerca posible de la conexión de entrada del ruptor;
+
+– p<sub>s</sub> deberá medirse con un manómetro (diámetro ≥ 100 mm; clase de precisión ± 1,0 % FSO).
+
+Circulación del aceite en la entrada del ruptor, Q:
+
+– Q deberá medirse en el alimentador lo más cerca posible de la conexión de entrada del ruptor;
+
+– Q deberá medirse con un flujómetro eléctrico (clase de precisión ± 2,5 % respecto de la medida obtenida).
+
+Punto de medición de la temperatura del aceite, T:
+
+– T deberá medirse en el depósito de aceite del vehículo portador o en el alimentador hidráulico conectado al martillo. El lugar en que se mida deberá indicarse en el informe.
+
+– El margen de error de la medida de la temperatura deberá ser de ± 2 °C respecto del valor real.
+
+Período de observación/determinación del nivel de potencia acústica resultante:
+
+El período de observación durará por lo menos 15 segundos.
+
+Se repetirán las mediciones tres veces o más, si hace falta. El resultado final se calculará hallando la media aritmética de los dos valores más altos que no difieran en más de 1 dB.
+
+Figura 28.1
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/88/8023_16849554_4.png)
+
+Figura 28.2
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/88/8023_16849554_5.png)
+
+Definiciones:
+
+d: Diámetro de la herramienta (mm);
+
+d1: Diámetro del yunque 1 200 ± 100 mm;
+
+d2: Diámetro interior de la estructura de soporte del yunque ≤ 1 800 mm;
+
+d3: Diámetro de la plataforma del bloque de ensayo ≤ 2 200 mm;
+
+d4: Diámetro de la abertura de la herramienta en la plataforma ≤ 350 mm;
+
+d5: Diámetro de la junta de la herramienta ≤ 1 000 mm;
+
+h1: Parte visible de la herramienta entre la parte más baja de la envuelta y la superficie superior de la junta de la herramienta (mm) h1 = d ± d/2;
+
+h2: Espesor de la junta de la herramienta sobre la plataforma ≤ 20 mm (si la junta de la herramienta se encuentra debajo de la plataforma, su espesor no estará limitado; puede estar hecha de gomaespuma);
+
+h3: Distancia entre la superficie superior de la plataforma y la superficie superior del yunque 250 ± 50 mm;
+
+h4: Espesor de la junta de la plataforma de gomaespuma aislante ≤ 30 mm;
+
+h5: Espesor del yunque 350 ± 50 mm;
+
+h6: Penetración de la herramienta ≤ 50 mm;
+
+Si se utiliza una estructura de bloque de ensayo de forma tetragonal, la dimensión de máxima longitud deberá ser igual a 0,89 × el correspondiente diámetro.
+
+El espacio vacío entre la plataforma y el yunque puede rellenarse con gomaespuma elástica u otro material absorbente, densidad < 220 kg/m<sup>3</sup>.
+
+29\. Generadores de energía hidráulica
+
+Instalación de la máquina:
+
+El generador de energía hidráulica se instalará sobre el plano reflectante. Los generadores montados sobre patines se instalarán sobre un soporte de 0,40 m de altura, a no ser que las condiciones de instalación del fabricante exijan otra cosa.
+
+Ensayo con carga:
+
+Durante el ensayo no deberá conectarse ninguna herramienta al generador de energía hidráulica.
+
+El generador de energía hidráulica se pondrá en régimen permanente dentro de la gama especificada por el fabricante. Funcionará a su velocidad nominal y a su presión nominal. La velocidad y la presión nominales serán las indicadas en las instrucciones que se ponen a disposición del comprador.
+
+Período de observación:
+
+El período de observación durará por lo menos 15 segundos.
+
+30\. Cortadoras de juntas
+
+a) Máquinas para cortar pavimentos con conductor a pie:
+
+EN 13862:2021 (UNE-EN 13862:2022), punto 4.10.2.
+
+b) Máquinas de mano portátiles con motor de combustión interna, montadas en un soporte móvil, destinadas a cortar pavimentos:
+
+EN ISO 19432-1:2020 (UNE-EN ISO 19432-1:2020), punto 4.19.2.
+
+c) Las demás cortadoras de juntas:
+
+Ensayo con carga:
+
+La cortadora de juntas se equipará con la cuchilla más ancha posible de las especificadas por el fabricante en las instrucciones que se ponen a disposición del comprador. El motor funcionará a la velocidad máxima con la cuchilla al ralentí.
+
+Período de observación:
+
+El período de observación durará por lo menos 15 segundos.
+
+31\. Compactadoras de basuras
+
+ISO 6395:2008 (UNE-ISO 6395:2013) con las condiciones de funcionamiento y ensayo establecidas en el anexo H de dicha norma.
+
+32\. Cortadoras de césped
+
+a) Cortadoras de césped rotatorias y de cilindro con motor de combustión:
+
+EN ISO 5395-1:2013 (UNE-EN ISO 5395-1:2014), EN ISO 5395-1:2013/A1:2018 (UNE-EN ISO 5395-1:2014/A1:2018), punto 4.3, inciso segundo.
+
+Corrección del entorno K<sub>2A</sub>:
+
+Si K<sub>2A</sub> ≤ 0,5 dB, puede ignorarse.
+
+b) Cortadoras de césped rotatorias y de cilindro con motor eléctrico con conductor a bordo sentado o de pie, y de conducción a pie:
+
+EN IEC 62841-4-3:2021 (UNE-EN IEC 62841-4-3:2021), EN IEC 62841-4-3:2021/A11:2021 (UNE-EN IEC 62841-4-3:2021/A11:2021), anexo I, punto I.2.
+
+33\. Máquinas para el acabado del césped/recortadoras de césped
+
+EN 50636-2-91:2014 (UNE-EN 50636-2-91:2014), anexo CC.
+
+34\. Sopladores de hojas
+
+a) Con motor de combustión:
+
+EN ISO 22868:2021 (UNE-EN ISO 22868:2021).
+
+b) Con motor eléctrico:
+
+EN 50636-2-100:2014 (UNE-EN 50636-2-100:2014), anexo CC.
+
+35\. Aspiradores de hojas
+
+Véase el punto 34.
+
+36\. Carretillas elevadoras
+
+EN 12053:2001+A1:2008 (UNE-EN 12053:2002+A1:2008).
+
+37\. Cargadoras
+
+ISO 6395:2008 (UNE-ISO 6395:2013) con las condiciones de funcionamiento y ensayo establecidas en el anexo D de dicha norma.
+
+38\. Grúas móviles
+
+EN 13000:2010+A1:2014 (UNE-EN 13000:2010+A1:2014), punto 5.3.
+
+39\. Contenedores de basura móviles
+
+Superficie de ensayo:
+
+– Superficie reflectante de hormigón o asfalto no poroso.
+
+– Sala de laboratorio con espacio libre sobre un plano reflectante.
+
+Corrección del entorno K<sub>2A</sub>:
+
+Medición al aire libre:
+
+K<sub>2A</sub> = 0
+
+Medición en el interior:
+
+El valor de la constante K<sub>2A</sub>, determinado con arreglo a la norma EN ISO 3744:2010 (UNE-EN ISO 3744:2011), anexo A, será ≤ 2,0 dB, en cuyo caso K<sub>2A</sub> no se tomará en consideración.
+
+Superficie de medición/número de posiciones de micrófono/distancia de medición:
+
+Semiesfera/seis posiciones de micrófono según la norma EN ISO 3744:2010 (UNE-EN ISO 3744:2011), anexo F/r = 3 m.
+
+Condiciones de funcionamiento durante el ensayo:
+
+Todas las mediciones se efectuarán con el contenedor vacío.
+
+Ensayo n.<sup>o</sup> 1: cierre de la tapa dejándola caer sobre el contenedor.
+
+Para reducir al mínimo la influencia del operario sobre las mediciones, el operario estará situado en la parte trasera del contenedor (del lado de las bisagras). Soltará la tapa por el centro, para evitar que se combe al caer.
+
+La medición se efectuará durante el siguiente ciclo, repetido veinte veces:
+
+– para empezar, la tapa se levantará en vertical,
+
+– se soltará hacia adelante, si es posible sin darle impulso, mientras el operario permanece en la parte de atrás, sin moverse hasta que la tapa se haya cerrado,
+
+– una vez completamente cerrada, se volverá a levantar la tapa a su posición inicial.
+
+Nota: Si es necesario, el operario puede desplazarse un momento para levantar la tapa.
+
+Ensayo n.<sup>o</sup> 2: apertura completa de la tapa.
+
+Para reducir al mínimo la influencia del operario sobre las mediciones, el operario estará situado en la parte trasera del contenedor (del lado de las bisagras) en el caso de los contenedores de cuatro ruedas, y del lado derecho del contenedor (entre la posición del micrófono 10 y la del micrófono 12) en el caso de los contenedores de dos ruedas. Soltará la tapa desde el centro o lo más cerca posible del centro.
+
+Para evitar que el contenedor se mueva, se bloquearán las ruedas durante el ensayo. En el caso de los contenedores de dos ruedas, y para evitar que el contenedor comience a dar botes, el operario puede sujetarlo con una mano en el borde superior.
+
+La medición se efectuará durante el siguiente ciclo:
+
+– para empezar, la tapa se abrirá horizontalmente,
+
+– se soltará la tapa sin darle impulso,
+
+– una vez completamente abierta, y antes de que experimente un posible rebote, la tapa se levantará a la posición inicial.
+
+Ensayo n.<sup>o</sup> 3: rodaje del contenedor sobre una pista artificial irregular.
+
+Para este ensayo se utilizará una pista de ensayo artificial que simule un firme irregular. La pista constará de dos franjas paralelas de malla de acero (6 m de largo por 400 mm de ancho), sujetas a la superficie reflectante a intervalos aproximados de 20 cm. La distancia entre ambas franjas se adaptará según el tipo de contenedor, para que las ruedas puedan desplazarse a lo largo de toda la pista. La instalación se hará en condiciones que aseguren una superficie plana. Si es necesario, la pista se fijará al suelo con material elástico para evitar cualquier emisión de ruidos parásitos.
+
+Nota: Cada una de las franjas puede estar compuesta de varias tiras de 400 mm de anchura encajadas.
+
+En las figuras 39.1 y 39.2 se da un ejemplo de una pista adecuada. El operario se colocará al lado de las bisagras de la tapa.
+
+La medición se efectuará mientras el operario arrastra el contenedor por la pista artificial con una velocidad constante de aproximadamente 1 m/s, entre los puntos A y B (situados a 4,24 m de distancia; véase la figura 39.3) en el momento en que el eje de las ruedas (en el caso de contenedores de dos ruedas) o el primer eje de ruedas (en el caso de contenedores de cuatro ruedas) llega al punto A o al punto B. Se repetirá este procedimiento tres veces en cada dirección.
+
+Durante el ensayo, para un contenedor de dos ruedas, el ángulo entre el contenedor y la pista será de 45°. Para un contenedor de cuatro ruedas, el operario se asegurará de que todas ellas hagan el debido contacto con la pista.
+
+Períodos de observación/determinación del nivel de potencia acústica resultante si se aplican dos o más condiciones de funcionamiento.
+
+Ensayos n.<sup>o</sup> 1 y n.<sup>o</sup> 2: cierre de la tapa dejándola caer sobre el contenedor y apertura completa de la tapa.
+
+Si es posible se efectuarán las mediciones simultáneamente en las seis posiciones de micrófono. De lo contrario, los niveles acústicos medidos en cada posición de micrófono se clasificarán en orden creciente y los niveles de potencia acústica se calcularán asociando los valores de cada posición de micrófono en función de su hilera.
+
+Se medirá el nivel de presión acústica integrado en el tiempo de un suceso único ponderado A para cada uno de los veinte cierres y de las veinte aperturas de la tapa en cada punto de medición. Los niveles de potencia acústica L<sub>WAcierre</sub> y L<sub>WAapertura</sub> se calcularán a partir de la media cuadrática de los cinco valores más altos obtenidos.
+
+Ensayo n.<sup>o</sup> 3: rodaje del contenedor sobre una pista artificial irregular.
+
+El período de observación T será igual al tiempo necesario para recorrer la distancia entre el punto A y el punto B sobre la pista.
+
+El nivel de potencia acústica L<sub>WArodaje</sub> será igual a la media de seis valores que difieran en menos de 2 dB. En caso de que no se cumpla este criterio con seis mediciones, deberá repetirse el ciclo tantas veces como sea necesario.
+
+El nivel de potencia acústica resultante se calculará con arreglo a la fórmula siguiente:
+
+L<sub>WA</sub> = 10 log 1/3 (10<sup>0,1 LWAcierre</sup> + 10<sup>0,1 LWAapertura</sup> + 10<sup>0,1 LWArodaje</sup>)
+
+Figura 39.1 Dibujo de la pista de rodadura
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/88/8023_16849554_6.png)
+
+Figura 39.2 Detalle de la construcción y montaje de la pista de rodadura
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/88/8023_16849554_7.png)
+
+Figura 39.3 Distancia de medición
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/88/8023_16849554_8.png)
+
+40\. Motoazadas
+
+Véase el punto 32.
+
+La herramienta deberá estar desconectada o desmontada durante la medición.
+
+41\. Pavimentadoras
+
+EN 500-6:2006+A1:2008 (UNE-EN 500-6:2008+A1:2008), punto 5.17.
+
+42\. Equipo de manejo de pilotes
+
+a) Equipos de cimentación:
+
+EN 16228-4:2014+A1:2021 (UNE-EN 16228-4:2015+A1:2022), punto 5.8.
+
+b) Equipos auxiliares intercambiables para manejo de pilotes:
+
+EN 16228-7:2014+A1:2021 (UNE-EN 16228-7:2015+A1:2022), punto 5.3.
+
+c) Cualquier otro equipo de manejo de pilotes:
+
+EN 16228-1:2014+A1:2021 (UNE-EN 16228-1:2015+A1:2022), punto 5.27.2.2.
+
+43\. Colocadores de tuberías
+
+ISO 6393:2008 (UNE-ISO 6393:2009).
+
+44\. Tractores oruga para nieve
+
+ISO 6393:2008 (UNE-ISO 6393:2009), con los procedimientos y las condiciones de funcionamiento descritos para las topadoras. La superficie de ensayo delimitada será una superficie dura reflectante –5.3.2. en la norma ISO 6393:2008 (UNE-ISO 6393:2009)–.
+
+45\. Grupos electrógenos
+
+EN ISO 8528-10:2022 (UNE-EN ISO 8528-10:2022).
+
+Se aplicará el método de medición de esta norma basado en la norma EN ISO 3744:2010 (UNE-EN ISO 3744:2011).
+
+46\. Barredoras mecánicas
+
+a) Máquinas para la limpieza de calzadas:
+
+EN 17106-2:2021 (UNE-EN 17106-2:2022), punto 4.3.
+
+b) Las demás barredoras mecánicas para uso al aire libre:
+
+EN 60335-2-72:2012 (UNE-EN 60335-2-72:2013), anexo DD.
+
+47\. Vehículos recogebasuras
+
+EN 1501-4:2023 (EN 1501-4:2023).
+
+48\. Flexadoras para carretera
+
+EN 500-2:2006+A1:2008 (UNE-EN 500-2:2007+A1:2008), punto 5.17.
+
+49\. Escarificadores
+
+a) Con motor de combustión:
+
+EN 13684:2018 (UNE-EN 13684:2018), punto 5.16.2.
+
+b) Con motor eléctrico:
+
+EN IEC 62841-4-7:2022 (UNE-EN IEC 62841-4-7:2022), EN IEC 62841-4-7:2022/A11:2022 (UNE-EN IEC 62841-4-7:2022/A11:2022), anexo I, punto I.2.
+
+50\. Trituradoras/astilladoras
+
+a) Trituradoras/astilladoras de jardín de carga manual:
+
+i) Con motor de combustión:
+
+EN 13683:2003+A2:2011 (UNE-EN 13683:2004+A2:2011), punto 5.10.2;
+
+EN 13683:2003+A2:2011/AC:2013 (UNE-EN 13683:2004+A2:2011/AC:2013).
+
+ii) Con motor eléctrico:
+
+EN 50434:2014 (UNE-EN 50434:2014), punto 20.107.2.
+
+b) Astilladoras de madera de carga manual horizontal utilizadas en silvicultura:
+
+EN 13525:2020 (UNE-EN 13525:2020), punto 5.5.
+
+c) Astilladoras de madera de carga manual vertical utilizadas en silvicultura, astilladoras de madera de carga mecánica (vertical y horizontal) utilizadas en silvicultura, y las demás trituradoras/astilladoras:
+
+Ensayo con carga:
+
+La trituradora/astilladora se ensayará astillando una o varias piezas de madera.
+
+El ciclo consistirá en el astillado de una pieza circular de madera (pino o madera contrachapada) de 1,5 m de largo, como mínimo, terminada en punta por un lado, y con un diámetro aproximadamente igual al máximo que la cortadora/astilladora pueda aceptar según se especifique en las instrucciones de uso que se ponen a disposición del comprador.
+
+Período de observación/determinación del nivel de potencia acústica resultante:
+
+El período de observación durará mientras se disponga de material en la zona de astillado, pero nunca será superior a 20 segundos. Si son posibles las dos condiciones de funcionamiento, deberá indicarse el nivel de potencia acústica más alto.
+
+51\. Máquinas quitanieves con herramientas giratorias
+
+a) Máquinas limpiadoras de nieve para calzadas:
+
+EN 17106-3-1:2021 (UNE-EN 17106-3-1:2022), punto 4.2.
+
+b) Quitanieves conducidas a pie y con puesto de conducción:
+
+i) Con motor de combustión:
+
+EN ISO 8437-4:2021 (UNE-EN ISO 8437-4:2021), anexo A.
+
+ii) Con motor eléctrico:
+
+La máquina deberá funcionar a la velocidad máxima sin carga durante 10 minutos antes del inicio del ensayo. El recogedor o impulsor deberán estar lubricados conforme a las instrucciones del fabricante.
+
+Durante el ensayo, el colector o impulsor deberán estar conectados y sin carga. El ensayo se realizará en posición estacionaria a la velocidad máxima sin carga.
+
+La medición se realizará colocando la máquina sobre la superficie de tal forma que la proyección del centro geométrico de sus partes principales (excluyendo la empuñadura, etc.) coincida con el origen del sistema de coordenadas de las posiciones de los micrófonos. Si se utiliza una superficie artificial, esta se deberá colocar de tal forma que su centro geométrico también coincida con el origen del sistema de coordenadas de las posiciones de los micrófonos. El eje longitudinal de la máquina deberá coincidir con el eje de abscisas. La medición se llevará a cabo sin la presencia de un operario.
+
+Durante las mediciones, la máquina funcionará en condiciones estables. Una vez que la emisión de ruido sea constante, el intervalo de tiempo de medición durará por lo menos 15 segundos. Si las mediciones se realizan en bandas de frecuencia de octava o de tercio de octava, el período mínimo de observación durará 30 segundos para bandas de frecuencia centradas en 160 Hz o por debajo, y 15 segundos para bandas de frecuencia centradas en 200 Hz o por encima.
+
+52\. Vehículos aspiradores
+
+Ensayo con carga:
+
+El vehículo aspirador se ensayará en posición estacionaria. El motor y las unidades auxiliares funcionarán a la velocidad indicada por el fabricante con respecto al funcionamiento del órgano de trabajo. Las bombas de vacío funcionarán a la velocidad máxima indicada por el fabricante. El equipo de aspiración funcionará de tal manera que la presión interna sea igual a la presión atmosférica (0 % de vacío). El ruido del flujo de la tobera de aspiración no influirá sobre los resultados de las mediciones.
+
+Período de observación:
+
+El período de observación durará por lo menos 15 segundos.
+
+53\. Grúas de torre
+
+EN 14439:2006+A2:2009 (UNE-EN 14439:2008+A2:2010), punto 6.4.1.
+
+54\. Zanjadoras
+
+ISO 6393:2008 (UNE-ISO 6393:2009).
+
+55\. Camiones hormigonera
+
+EN 12609:2021 (UNE-EN 12609:2021), anexo B.
+
+56\. Bombas de agua
+
+EN ISO 20361:2019 (UNE-EN ISO 20361:2020), EN ISO 20361:2019/A11:2020 (UNE-EN ISO 20361:2020/A11:2020).
+
+Se aplicará el método de medición de esta norma basado en la norma EN ISO 3744:2010 (UNE-EN ISO 3744:2011).
+
+El período de observación durará por lo menos 15 segundos.
+
+57\. Grupos electrógenos de soldadura
+
+EN ISO 8528-10:2022 (EN ISO 8528-10:2022).
+
+Se aplicará el método de medición de esta norma basado en la norma EN ISO 3744:2010 (UNE-EN ISO 3744:2011).
+
+> Se modifica por el art. 1.5 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
+
+> Se modifica el apartado 53 de la Parte B por el art. único.2 del Real Decreto 524/2006, de 28 de abril. [Ref. BOE-A-2006-7900](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-7900)
+
+## ANEXO IV — MODELOS DE MARCADO CE DE CONFORMIDAD Y DE LA INDICACIÓN DEL NIVEL DE POTENCIA ACÚSTICA GARANTIZADO
+
+El marcado CE de conformidad estará compuesto por las iniciales "CE">El marcado CE de conformidad estará compuesto por las iniciales "CE" configuradas como sigue:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/52/04099_011.png)
+
+En caso de que el tamaño del marcado CE se amplíe o reduzca en función del tamaño de la máquina, se respetarán las proporciones indicadas en el dibujo anterior. Los distintos elementos del marcado CE deberán tener básicamente la misma dimensión vertical, que no podrá ser inferior a 5 mm.
+
+La indicación del nivel de potencia acústica garantizado estará compuesta por la cifra en dB correspondiente a la potencia acústica garantizada, el símbolo "LWA">La indicación del nivel de potencia acústica garantizado estará compuesta por la cifra en dB correspondiente a la potencia acústica garantizada, el símbolo "LWA" y un pictograma configurado de la manera siguiente:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/52/04099_012.png)
+
+En caso de que la indicación se reduzca o se amplíe en función del tamaño de la máquina, se respetarán las proporciones indicadas en el dibujo anterior. No obstante, la dimensión vertical de la indicación no será, en la medida de lo posible, inferior a 40 mm.
+
+## ANEXO V — CONTROL INTERNO DE LA PRODUCCIÓN
+
+1\. En el presente anexo se describe el procedimiento mediante el cual el fabricante, o su representante autorizado establecido en la Unión Europea, a quien competen las obligaciones establecidas en el punto 2, garantiza y declara que la máquina cumple los requisitos de la Directiva 2000/14/CE, El fabricante, o su representante autorizado establecido en la Unión Europea, colocará en cada máquina el marcado CE de conformidad y la indicación del nivel de potencia acústica garantizado con arreglo a lo dispuesto en el artículo 11 y elaborará una declaración CE de conformidad por escrito, con arreglo a lo dispuesto en el artículo 8.
+
+2\. El fabricante, o su representante autorizado establecido en la Unión Europea, elaborará la documentación técnica descrita en el punto 3; deberá conservarla a disposición de las autoridades nacionales pertinentes, a efectos de inspección, durante un plazo de diez años como mínimo a partir de la fecha de fabricación del último producto. El fabricante, o su representante autorizado establecido en la Unión Europea, podrá confiar a otra persona la conservación de la documentación técnica. En tal caso, deberá hacer figurar en la declaración CE de conformidad el nombre y apellidos y la dirección de dicha persona.
+
+3\. La documentación técnica permitirá la evaluación de la conformidad de la máquina con los requisitos del presente Real Decreto. Incluirá, por lo menos, los datos siguientes:
+
+– nombre y dirección del fabricante o de su representante autorizado establecido en la Unión Europea,
+
+– descripción de la máquina,
+
+– marca,
+
+– denominación comercial,
+
+– tipo, serie y números,
+
+– los datos técnicos pertinentes para la identificación de la máquina y la evaluación de su emisión sonora, entre los que figuren, si procede, dibujos esquemáticos y cualquier descripción y explicación necesarias para su compresión,
+
+– una referencia a la Directiva 2000/14/CE,
+
+– el informe técnico de las mediciones del ruido realizadas con arreglo a las disposiciones contenidas en la Directiva 2000/14/CE,
+
+– los instrumentos técnicos utilizados y los resultados de la evaluación de la incertidumbre debida a las variaciones en la producción y su relación con el nivel de potencia acústica garantizado.
+
+4\. El fabricante tomará las medidas necesarias para que el proceso de fabricación se desarrolle de modo que quede garantizada de forma continua la conformidad de la máquina fabricada con la documentación técnica a la que hacen referencia los puntos 2 y 3 y con los requisitos del presente Real Decreto.
+
+## ANEXO VI — CONTROL DE LA PRODUCCIÓN CON EVALUACIÓN DE LA DOCUMENTACIÓN TÉCNICA Y COMPROBACIONES PERIÓDICAS
+
+1\. En este anexo se describe el procedimiento mediante el cual el fabricante, o su representante autorizado establecido en la Unión Europea, a quien competen las obligaciones establecidas en los puntos 2, 5 y 6, garantiza y declara que la máquina cumple los requisitos de la Directiva 2000/14/CE. El fabricante, o su representante autorizado establecido en la Unión Europea, colocará en cada máquina el marcado CE de conformidad y la indicación del nivel de potencia acústica garantizado con arreglo a lo dispuesto en el artículo 11 y elaborará una declaración CE de conformidad por escrito, con arreglo a lo dispuesto en el artículo 8.
+
+2\. El fabricante, o su representante autorizado establecido en la Unión Europea, elaborará la documentación técnica descrita en el punto 3; deberá conservarla a disposición de las autoridades nacionales pertinentes, a efectos de inspección, durante un plazo de diez años como mínimo a partir de la fecha de fabricación del último producto. El fabricante, o su representante autorizado establecido en la Unión Europea, podrá confiar a otra persona la conservación de la documentación técnica. En tal caso, deberá hacer figurar en la declaración CE de conformidad el nombre y apellidos y la dirección de dicha persona.
+
+3\. La documentación técnica permitirá la evaluación de la conformidad de la máquina con los requisitos de la Directiva 2000/14/CE. Incluirá, por lo menos, los datos siguientes:
+
+– nombre y dirección del fabricante o de su representante autorizado establecido en la Unión Europea,
+
+– descripción de la máquina,
+
+– marca,
+
+– denominación comercial,
+
+– tipo, serie y números,
+
+– los datos técnicos pertinentes para la identificación de la máquina y la evaluación de su emisión sonora, entre los que figuren, si procede, dibujos esquemáticos y cualquier descripción y explicación necesarias para su comprensión,
+
+– una referencia a la Directiva 2000/14/CE,
+
+– el informe técnico de las mediciones del ruido realizadas con arreglo a las disposiciones contenidas en la Directiva 2000/14/CE,
+
+– los instrumentos técnicas utilizados y los resultados de la evaluación con el nivel de potencia acústica garantizado.
+
+4\. El fabricante tomará las medidas necesarias para que el proceso de fabricación se desarrolle de modo que quede garantizada la conformidad de la máquina fabricada con la documentación técnica a la que hacen referencia los puntos 2 y 3 y con los requisitos de la Directiva 2000/14/CE.
+
+5\. Evaluación por el organismo notificado previa a la puesta en el mercado.
+
+El fabricante, o su representante autorizado establecido en la Unión Europea, presentará a un organismo notificado de su elección una copia de su documentación técnica antes de que se ponga en el mercado o se ponga en servicio la primera máquina.
+
+En caso de duda con respecto a la exactitud de la documentación técnica, el organismo notificado informará correspondientemente al fabricante o a su representante autorizado establecido en la Unión Europea y, si procede, introducirá, o mandará introducir, modificaciones en dicha documentación o llevará a cabo, u ordenará que se lleven a cabo, en su caso, las pruebas que se consideren necesarias.
+
+Una vez que el organismo notificado haya emitido un informe en el que confirme que la documentación técnica cumple los requisitos establecidos en el presente Real Decreto, el fabricante o su representante autorizado establecido en la Unión Europea podrá colocar el marcado CE en la máquina y emitir una declaración CE de conformidad con arreglo a lo dispuesto en los artículos 8 y 11, de lo cual tendrá la entera responsabilidad.
+
+6\. Evaluación por el organismo notificada durante la producción.
+
+El fabricante, o su representante autorizado establecido en la Unión Europea, hará participar en mayor medida al organismo notificado en la fase de producción con arreglo a alguno de los procedimientos que se enumeran a continuación, a elección del fabricante o de su representante establecido en la Unión Europea:
+
+– el organismo notificado llevará a cabo comprobaciones periódicas con el fin de verificar que la máquina fabricada cumpla en todo momento lo establecido en la documentación técnica, así como los requisitos del presente Real Decreto; en particular, el organismo notificado se centrará en los elementos siguientes:
+
+– el marcado correcto y completo de las máquinas con arreglo a lo dispuesto en el artículo 11,
+
+– la emisión de la declaración CE de conformidad con arreglo al artículo 8,
+
+– los instrumentos técnicos utilizados y los resultados de la evaluación de la incertidumbre debida a las variaciones en la producción y su relación con el nivel de potencia acústica garantizado.
+
+El fabricante, o su representante autorizado establecido en la Unión Europea, dará al organismo notificado un acceso ilimitado a toda la documentación interna que apoye dichos procedimientos, los resultados reales de las auditorías internas y las medidas correctivas que, en su caso, se hayan adoptado.
+
+Sólo en caso de que las comprobaciones mencionadas anteriormente arrojen un resultado insatisfactorio, el organismo notificado llevará a cabo ensayos de ruido que, según su leal saber y entender, podrán simplificarse o efectuarse por completo con arreglo a las disposiciones establecidas en el anexo III respecto al tipo de máquina pertinente;
+
+– el organismo notificado realizará o encomendará la realización de comprobaciones de producto a intervalos determinados al azar. Se examinará una muestra adecuada de la máquina definitiva, escogida por el organismo notificado, y se llevarán a cabo los ensayos de ruido apropiados indicados en el anexo III, o ensayos equivalentes, con el fin de comprobar la conformidad del producto con los requisitos pertinentes del presente Real Decreto. Las comprobaciones de producto incluirán los aspectos siguientes:
+
+– el marcado correcto y completo de las máquinas con arreglo a lo dispuesto en el artículo 11,
+
+– la emisión de la declaración CE de conformidad con arreglo al artículo 8.
+
+En ambos casos, el organismo notificado determinará la frecuencia de las comprobaciones de conformidad con los resultados obtenidos en evaluaciones previas, la necesidad de vigilar las medidas correctivas y las orientaciones adicionales en relación con la frecuencia de las comprobaciones que pueda facilitar la producción anual y la fiabilidad general del fabricante para mantener los valores garantizados, en cualquier caso, se llevará a cabo una comprobación por lo menos una vez cada tres años.
+
+En caso de duda con respecto a la credibilidad de la documentación técnica o al cumplimiento de las normas durante la producción, el organismo notificado informará correspondientemente al fabricante o a su representante autorizado establecido en la Unión Europea.
+
+En los casos en que las máquinas comprobadas no cumplan las disposiciones contenidas en el presente Real Decreto, el organismo notificado deberá informar al Organo competente de la Comunidad Autónoma que le autorizó.
+
+## ANEXO VII — VERIFICACIÓN POR UNIDAD
+
+1\. El presente anexo describe el procedimiento mediante el cual el fabricante, o su representante autorizado establecido en la Unión Europea, garantiza y declara que la máquina respecto a la que se ha emitido el certificado a que se refiere el punto 4 es conforme a las exigencias de la Directiva 2000/14/CE. El fabricante, o su representante autorizado establecido en la Unión Europea, deberá colocar el marcado CE, así como la información que se requiere en el artículo 11, en la máquina y efectuar la declaración CE de conformidad a que se refiere el artículo 8.
+
+2\. El fabricante, o su representante autorizado establecido en la Unión Europea, deberá presentar la solicitud de verificación por unidad a un organismo notificado de su elección.
+
+Dicha declaración incluirá:
+
+– el nombre y la dirección del fabricante y, en caso de ser su representante autorizado quien presente la solicitud, también su nombre y dirección;
+
+– una declaración escrita de que la misma solicitud no se ha presentado a ningún otro organismo notificado;
+
+– documentación técnica que sea conforme a las exigencias que figuran a continuación:
+
+– descripción de la máquina,
+
+– marca,
+
+– denominación comercial,
+
+– tipo, serie y números,
+
+– los datos técnicos pertinentes para la identificación de la máquina y la evaluación de su emisión sonora, entre los que figuren, si procede, dibujos esquemáticos y cualquier descripción y explicación necesarias para su compresión,
+
+– referencia a la Directiva 2000/14/CE.
+
+3\. El organismo notificado deberá:
+
+– examinar si la máquina ha sido fabricada de conformidad con la documentación técnica,
+
+– acordar con el solicitante el lugar en que, de acuerdo con el presente Real Decreto, se realizarán los ensayos del ruido,
+
+– de acuerdo con el presente Real Decreto, realizar o haber realizado los ensayos del ruido necesarios.
+
+4\. Si la máquina cumple las disposiciones del presente Real Decreto, el organismo notificado expedirá un certificado de conformidad al solicitante como el descrito en el anexo X.
+
+Si el organismo notificado deniega el certificado de conformidad, deberá motivar detalladamente dicha denegación.
+
+5\. El fabricante, o su representante autorizado establecido en la Unión Europea, guardará junto con la documentación técnica copias del certificado de conformidad durante diez años a partir del día en que se ponga en el mercado la máquina.
+
+## ANEXO VIII — ASEGURAMIENTO TOTAL DE LA CALIDAD
+
+1\. En este anexo se describe el procedimiento mediante el cual el fabricante que cumple las obligaciones establecidas en el punto 2 garantiza y declara que la máquina de que se trata cumple los requisitos de la Directiva 2000/14/CE. El fabricante, o su representante autorizado establecido en la Unión Europea, debe colocar el marcado CE, así como la información que se requiere en el artículo 11, en el equipo y efectuar por escrito la declaración CE de conformidad a que se refiere el artículo 8.
+
+2\. El fabricante aplicará un sistema de aseguramiento de la calidad aprobado para el diseño, la fabricación y la inspección final de los productos, así como para los ensayos, tal y como se especifica en el punto 3, y estará sujeto al control mencionado en el punto 4.
+
+3\. Sistema de aseguramiento de calidad.
+
+3.1 El fabricante presentará una solicitud de evaluación de su sistema de aseguramiento de la calidad a un organismo notificado de su elección.
+
+La solicitud incluirá:
+
+– toda la información pertinente de la categoría del producto proyectado, como por ejemplo la documentación técnica de todo equipo ya en fase de diseño o de producción, que contendrá, como mínimo, la información siguiente:
+
+– nombre y dirección del fabricante o de su representante autorizado establecido en la Unión Europea,
+
+– descripción del equipo,
+
+– marca,
+
+– denominación comercial,
+
+– tipo, serie y números,
+
+– los datos técnicos pertinentes para la identificación del equipo y la evaluación de su emisión sonora, entre los que figuren, si procede, dibujos esquemáticos y cualquier descripción y explicación necesarias para su comprensión,
+
+– una referencia a la Directiva 2000/14/CE,
+
+– el informe técnico de las mediciones del ruido realizadas con arreglo a las disposiciones contenidas en el presente Real Decreto,
+
+– los instrumentos técnicos utilizados y los resultados de la evaluación con el nivel de potencia acústica garantizado,
+
+– una copia de la declaración CE de conformidad;
+
+– la documentación relativa al sistema de aseguramiento de la calidad.
+
+3.2 El sistema de aseguramiento de la calidad asegurará que el producto cumple las exigencias de las Directivas que le sean aplicables.
+
+Todos los elementos, requisitos y disposiciones adoptados por el fabricante deberán figurar por escrito en la documentación de manera sistemática y ordenada en forma de criterios, procedimientos e instrucciones. La documentación del sistema de aseguramiento de la calidad permitirá interpretar de manera uniforme los criterios y procedimientos aplicados en relación con la calidad, como por ejemplo los programas, planos, manuales y expedientes de calidad.
+
+3.3 En especial, dicha documentación incluirá una descripción adecuada de:
+
+– los objetivos de calidad y el organigrama, las responsabilidades del personal de gestión y sus atribuciones en lo que se refiere a la calidad del diseño y del producto,
+
+– la documentación técnica que se elabore para cada producto, que contendrá, como mínimo, la información indicada en el punto 3.1 para la documentación técnica a que se refiere dicho punto,
+
+– las técnicas de verificación de diseño y de control del producto, los procesos y las actividades sistemáticas que se utilizarán al diseñar los productos pertenecientes a la categoría del equipo contemplada,
+
+– las técnicas correspondientes de fabricación, control de calidad y aseguramiento de la calidad, y los procesos y actividades sistemáticas que se utilizarán,
+
+– los exámenes y ensayo que se efectuarán antes, durante y después de la fabricación, así como las frecuencias de éstos,
+
+– los expedientes relativos a la calidad, como por ejemplo los informes de inspección y los datos de ensayos y de calibración, los informes sobre la cualificación del personal correspondiente, etc.,
+
+– los medios para controlar la obtención de la calidad deseada en lo que se refiere al diseño y a la calidad del producto, así como el funcionamiento eficaz del sistema de aseguramiento de la calidad.
+
+El organismo notificado evaluará el sistema de aseguramiento de la calidad para determinar si cumple los requisitos que se indican en el punto 3.2. Presupondrá que los sistemas de aseguramiento de la calidad que apliquen la norma EN ISO 9001 cumplen dichos requisitos.
+
+El equipo de auditores tendrá por lo menos un miembro que posea experiencia como asesor sobre la tecnología de que se trate. El procedimiento de evaluación incluirá una visita de evaluación a las instalaciones del fabricante.
+
+La decisión se notificará al fabricante. Esta notificación incluirá las conclusiones del examen y la decisión de evaluación motivada.
+
+3.4 El fabricante se comprometerá a cumplir las obligaciones que se deriven del sistema de aseguramiento de la calidad tal como se haya aprobado y a mantenerlo de forma que siga resultando adecuado y eficaz.
+
+El fabricante, o su representante autorizado establecido en la Unión Europea, mantendrá informado al organismo notificado que haya aprobado el sistema de aseguramiento de la calidad de cualquier proyecto de actualización del mismo.
+
+El organismo notificado evaluará las modificaciones propuestas y decidirá si el sistema de aseguramiento de localidad modificado sigue cumpliendo los requisitos especificados en el punto 3.2, o si se precisa una nueva evaluación.
+
+El organismo notificado notificará su decisión al fabricante. Esta notificación incluirá las conclusiones del examen y la decisión de evaluación motivada.
+
+4\. Vigilancia bajo la responsabilidad del organismo notificado.
+
+4.1 El objetivo de la vigilancia consiste en cerciorarse de que el fabricante cumple debidamente las obligaciones que le impone el sistema de aseguramiento de la calidad aprobado.
+
+4.2 El fabricante permitirá que el organismo notificado entre, con el fin de llevar a cabo inspecciones, en sus instalaciones de diseño, fabricación, inspección, ensayo y almacenamiento, y le facilitará toda la información necesaria, en particular:
+
+– la documentación sobre el sistema de aseguramiento de la calidad,
+
+– los expedientes de calidad previstos en la parte del sistema de aseguramiento de la calidad dedicada al diseño, tales como los resultados de los análisis, cálculos, ensayos, etc.,
+
+– los expedientes de calidad previstos en la parte del sistema de aseguramiento de la calidad dedicada a la fabricación, tales como informes de inspección y datos de ensayos, datos de calibración, informes sobre la cualificación del personal afectado, etc.
+
+4.3 El organismo notificado realizará auditorías periódicamente para cerciorarse de que el fabricante mantiene y aplica el sistema de aseguramiento de la calidad y facilitará un informe de la auditoría al fabricante.
+
+4.4 Además, el organismo notificado podrá efectuar visitas de inspección sin previo aviso al fabricante. En el transcurso de dichas visitas, el organismo notificado podrá realizar o hacer que se lleven a cabo ensayos para comprobar que el sistema de aseguramiento de la calidad funciona correctamente. Dicho organismo facilitará al fabricante un informe de la inspección y, cuando se hayan realizado ensayos, un informe de los mismos.
+
+5\. El fabricante tendrá a disposición de las autoridades nacionales, como mínimo durante un plazo de diez años a partir de la fecha de fabricación del último equipo:
+
+– la documentación que se indica en el segundo guión del punto 3.1 del presente anexo,
+
+– las actualizaciones previstas en el segundo párrafo del punto 3.4,
+
+– las decisiones e informes del organismo notificado que se indican en el último párrafo del punto 3.4 y en los puntos 4.3 y 4.4.
+
+6\. Cada organismo notificado comunicará a los demás la información pertinente relativa a las aprobaciones de sistemas de aseguramiento de la calidad expedidas y retiradas.
+
+## ANEXO IX — CRITERIOS MÍNIMOS QUE SE DEBERÁN TENER EN CUENTA PARA LA NOTIFICACIÓN DE ORGANISMOS
+
+1\. El organismo, su director y el personal responsable de llevar a cabo las operaciones de verificación deberán ser personas distintas del diseñador, el fabricante, el constructor, el proveedor o el instalador del equipo y distintas también del representante autorizado de cualquiera de estas personas. No podrán participar directamente ni como representantes autorizados en el diseño, construcción, puesta en el mercado o mantenimiento de dicho equipo ni representar a las partes que realizan dichas actividades. Esto, sin embargo, no excluye la posibilidad de que el fabricante o el constructor intercambien información técnica con el organismo.
+
+2\. El organismo notificado y su personal deberán llevar a cabo las operaciones de evaluación y verificación con el máximo grado de integridad profesional y competencia técnica; no deberán ser sometidos a ningún tipo de presión, ni se les deberá ofrecer ningún tipo de incentivo, en particular económico, que pueda influir en su juicio o en los resultados de su trabajo, especialmente por parte de personas o grupos de personas que tuvieran intereses en el resultado de las verificaciones.
+
+3\. El organismo notificado deberá disponer del personal y los medios necesarios para poder llevar a cabo adecuadamente las tareas técnicas y administrativas relacionadas con la labor de inspección y vigilancia; deberá tener también acceso al equipo que se requiera para cualesquiera verificaciones especiales.
+
+4\. El personal responsable de la inspección deberá poseer:
+
+– una sólida formación técnica y profesional,
+
+– un conocimiento satisfactorio de los requisitos de evaluación de la documentación técnica,
+
+– un conocimiento satisfactorio de los requisitos de los ensayos que lleve a cabo y una experiencia práctica adecuada en dichos ensayos,
+
+– aptitud para redactar los certificados, actas e informes necesarios para certificar los ensayos efectuados.
+
+5\. Se deberá garantizar la independencia del personal de inspección. Su remuneración no deberá establecerse en función del número de ensayos realizados ni de los resultados de dichos ensayos.
+
+6\. El organismo notificado deberá suscribir un seguro de responsabilidad.
+
+7\. El personal del organismo estará obligado a observar el secreto profesional en relación con toda la información que obtenga en la realización de los ensayos (excepto con relación a las autoridades administrativas competentes del Estado en el que se lleven a cabo sus actividades), en virtud del presente Real Decreto o de cualesquiera disposiciones de la legislación nacional mediante la cual se aplique.
+
+## ANEXO X — VERIFICACIÓN POR UNIDAD
+
+MODELO DE CERTIFICADO DE CONFORMIDAD
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/52/04099_013.png)
+
+## ANEXO XI — Máquinas sujetas a límites de potencia acústica, a las que se refiere el artículo 11
+
+– Montacargas para el transporte de materiales de construcción (con motor de combustión).
+
+Definición: punto 3 del anexo I. Medición: punto 3 de la parte B del anexo III.
+
+– Máquinas compactadoras (únicamente rodillos vibrantes y no vibrantes, planchas y apisonadoras vibratorias).
+
+Definición: punto 8 del anexo I. Medición: punto 8 de la parte B del anexo III.
+
+– Motocompresores (< 350 kW).
+
+Definición: punto 9 del anexo I. Medición: punto 9 de la parte B del anexo III.
+
+– Trituradoras de hormigón y martillos picadores de mano.
+
+Definición: punto 10 del anexo I. Medición: punto 10 de la parte B del anexo III.
+
+– Tornos de construcción (con motor de combustión).
+
+Definición: punto 12 del anexo I. Medición: punto 12 de la parte B del anexo III.
+
+– Topadoras (< 500 kW).
+
+Definición: punto 16 del anexo I. Medición: punto 16 de la parte B del anexo III.
+
+– Motovolquetes (< 500 kW).
+
+Definición: punto 18 del anexo I. Medición: punto 18 de la parte B del anexo III.
+
+– Palas hidráulicas y de cables (< 500 kW).
+
+Definición, punto 20 del anexo I. Medición: punto 20 de la parte B del anexo III.
+
+– Palas cargadoras (< 500 kW).
+
+Definición: punto 21 del anexo I. Medición: punto 21 de la parte B del anexo III.
+
+– Niveladoras (< 500 kW).
+
+Definición: punto 23 del anexo I. Medición: punto 23 de la parte B del anexo III.
+
+– Generadores de energía hidráulica.
+
+Definición: punto 29 del anexo I. Medición: punto 29 de la parte B del anexo III.
+
+– Compactadoras de basuras, tipo cargadoras (< 500 kW).
+
+Definición: punto 31 del anexo I. Medición: punto 31 de la parte B del anexo III.
+
+– Cortadoras de césped (con exclusión de las máquinas agrícolas y forestales, así como los dispositivos polivalentes cuyo principal componente motorizado tiene una potencia instalada superior a 20 kW).
+
+Definición: punto 32 del anexo I. Medición: punto 32 de la parte B del anexo III.
+
+– Máquinas para el acabado del césped/recortadoras de césped.
+
+Definición: punto 33 del anexo I. Medición: punto 33 de la parte B del anexo III.
+
+– Carretillas elevadoras en voladizo accionadas por motor de combustión (quedan excluidas las "otras carretillas elevadoras en voladizo" que se definen en el segundo guión del punto 36 del anexo I, con una potencia nominal no superior a 10 t).
+
+Definición: punto 36 del anexo I. Medición: punto 36 de la parte B del anexo III.
+
+– Cargadoras (< 500 kW).
+
+Definición: punto 37 del anexo I. Medición: punto 37 de la parte B del anexo III.
+
+– Grúas móviles.
+
+Definición: punto 38 del anexo I. Medición: punto 38 de la parte B del anexo III.
+
+– Motoazadas (< 3 kW).
+
+Definición: punto 40 del anexo I. Medición: punto 40 de la parte B del anexo III.
+
+– Pavimentadoras (quedan excluidas las pavimentadoras equipadas con guía para alta compactación).
+
+Definición: punto 41 del anexo I. Medición: punto 41 de la parte B del anexo III.
+
+– Grupos electrógenos (< 400 kW).
+
+Definición, punto 45 del anexo I. Medición: punto 45 de la parte B del anexo III.
+
+– Grúas de torre.
+
+Definición punto 53 del anexo I. Medición: punto 53 de la parte B del anexo III.
+
+– Grupos electrógenos de soldadura.
+
+Definición: punto 57 del anexo I. Medición: punto 57 de la parte B del anexo III.
+
+![Imagen facsímil de la edición original: img/disp/2006/106/07900_001.png](https://www.boe.es/datos/imagenes/disp/2006/106/07900_001.png)
+
+> Se modifica el "Cuadro de valores límite" por el art. único.3 del Real Decreto 524/2006, de 28 de abril. [Ref. BOE-A-2006-7900](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-7900)
+
+## ANEXO XII — Máquinas sujetas únicamente a marcado de emisión sonora, a las que se refiere el artículo 12
+
+– Plataformas elevadoras con motor de combustión.
+
+Definición: punto 1 del anexo I. Medición: punto 1 de la parte B del anexo III.
+
+– Desbrozadoras.
+
+Definición: punto 2 del anexo I. Medición: punto 2 de la parte B del anexo III.
+
+– Montacargas para el transporte de materiales de construcción (con motor eléctrico).
+
+Definición: punto 3 del anexo I. Medición: punto 3 de la parte B del anexo III.
+
+– Sierras de cinta para obras.
+
+Definición: punto 4 del anexo I. Medición: punto 4 de la parte B del anexo III.
+
+– Sierras circulares de mesa para obras.
+
+Definición: punto 5 del anexo I. Medición: punto 5 de la parte B del anexo III.
+
+– Sierras de cadena portátiles.
+
+Definición: punto 6 del anexo I. Medición: punto 6 de la parte B del anexo III.
+
+– Vehículos baldeadores y aspiradores de alta presión.
+
+Definición: punto 7 del anexo I. Medición: punto 7 de la parte B del anexo III.
+
+– Máquinas compactadoras (únicamente apisonadoras de explosión).
+
+Definición: punto 8 del anexo I. Medición: punto 8 de la parte B del anexo III.
+
+– Hormigoneras.
+
+Definición: punto 11 del anexo I. Medición: punto 11 de la parte B del anexo III.
+
+– Tornos de construcción (con motor eléctrico).
+
+Definición: punto 12 del anexo I. Medición: punto 12 de la parte B del anexo III.
+
+– Máquinas de distribución, transporte y rociado de hormigón y mortero.
+
+Definición: punto 13 del anexo I. Medición: punto 13 de la parte B del anexo III.
+
+– Cintas transportadoras.
+
+Definición: punto 14 del anexo I. Medición: punto 14 de la parte B del anexo III.
+
+– Equipos de refrigeración en vehículos.
+
+Definición: punto 15 del anexo I. Medición: punto 15 de la parte B del anexo III.
+
+– Equipos de perforación.
+
+Definición: punto 17 del anexo I. Medición: punto 17 de la parte B del anexo III.
+
+– Equipos de carga descarga de cisternas o silos en camiones.
+
+Definición: punto 19 del anexo I. Medición: punto 19 de la parte B del anexo III.
+
+– Contenedores de reciclado de vidrio.
+
+Definición: punto 22 del anexo I. Medición: punto 22 de la parte B del anexo III.
+
+– Máquinas para el acabado de la hierba/recortadoras de hierba.
+
+Definición: punto 24 del anexo I. Medición: punto 24 de la parte B del anexo III.
+
+– Recortadoras de setos.
+
+Definición: punto 25 del anexo I. Medición: punto 25 de la parte B del anexo III.
+
+– Baldeadoras de alta presión.
+
+Definición: punto 26 del anexo I. Medición punto 26 de la parte B del anexo III.
+
+– Máquinas de chorro de agua de alta presión.
+
+Definición: punto 27 del anexo I. Medición: punto 27 de la parte B del anexo III.
+
+– Martillos hidráulicos.
+
+Definición: punto 28 del anexo I. Medición: punto 28 de la parte B del anexo III.
+
+– Cortadoras de juntas.
+
+Definición: punto 30 del anexo I. Medición punto 30 de la parte B del anexo III.
+
+– Sopladores de hojas.
+
+Definición: punto 34 del anexo I. Medición: punto 34 de la parte B del anexo III.
+
+– Aspiradores de hojas.
+
+Definición: punto 35 del anexo I. Medición: punto 35 de la parte B del anexo III.
+
+– Carretillas elevadoras en voladizo accionadas por motor de combustión (únicamente las otras carretillas elevadoras en voladizo que se definen en el segundo guión del punto 36 del anexo I, con una potencia nominal no superior a 10 t).
+
+Definición: punto 36 del anexo I. Medición: punto 36 de la parte B del anexo III.
+
+– Contenedores de basura móviles.
+
+Definición: punto 39 del anexo I. Medición: punto 39 de la parte B del anexo III.
+
+– Pavimentadoras (equipadas con guía para alta compactación).
+
+Definición: punto 41 del anexo I. Medición: punto 41 de la parte B del anexo III.
+
+– Equipo de manejo de pilotes.
+
+Definición: punto 42 del anexo I. Medición: punto 42 de la parte B del anexo III.
+
+– Colocadores de tuberías.
+
+Definición: punto 43 del anexo I. Medición: punto 43 de la parte B del anexo III.
+
+– Tractores oruga para nieve.
+
+Definición: punto 44 del anexo I. Medición: punto 44 de la parte B del anexo III.
+
+– Grupos electrógenos (> = 400 kW).
+
+Definición: punto 45 del anexo I. Medición: punto 45 de la parte B del anexo III.
+
+– Barredoras mecánicas.
+
+Definición: punto 46 del anexo I. Medición: punto 46 de la parte B del anexo III.
+
+– Vehículos recogebasuras.
+
+Definición: punto 47 del anexo I. Medición: punto 47 de la parte B del anexo III.
+
+– Flexadoras para carretera.
+
+Definición: punto 48 del anexo I. Medición: punto 48 de la parte B del anexo III.
+
+– Escarificadores.
+
+Definición: punto 49 del anexo I. Medición: punto 49 de la parte B del anexo III.
+
+– Trituradoras/astilladoras.
+
+Definición: punto 50 del anexo I. Medición: punto 50 de la parte B del anexo III.
+
+– Máquinas quitanieves con herramientas giratorias (autopropulsadas, con exclusión de los accesorios).
+
+Definición: punto 51 del anexo I. Medición: punto 51 de la parte B del anexo III.
+
+– Vehículos aspiradores.
+
+Definición: punto 52 del anexo I. Medición: punto 52 de la parte B del anexo III.
+
+– Zanjadoras.
+
+Definición: punto 54 del anexo I. Medición: punto 54 de la parte B del anexo III.
+
+– Camiones hormigonera.
+
+Definición: punto 55 del anexo I. Medición: punto 55 de la parte B del anexo III.
+
+– Equipos de bomba de agua (no sumergibles).
+
+Definición: punto 56 del anexo I. Medición: punto 56 de la parte B del anexo III.

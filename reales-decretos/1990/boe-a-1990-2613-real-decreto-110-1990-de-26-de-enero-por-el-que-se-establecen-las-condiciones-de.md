@@ -1,0 +1,211 @@
+---
+title: "Real Decreto 110/1990, de 26 de enero, por el que se establecen las condiciones de sanidad animal que deben reunir las carnes frescas destinadas al comercico intracomunitario e importadas de países terceros"
+identifier: "BOE-A-1990-2613"
+eli: "https://www.boe.es/eli/es/rd/1990/01/26/110"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1990-01-26
+published: 1990-02-01
+in_force_from: 1990-02-02
+last_amended: 2006-05-27
+consolidated: 2026-03-09
+gazette: "Boletín Oficial del Estado núm. 28"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-2613"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 110/1990, de 26 de enero, por el que se establecen las condiciones de sanidad animal que deben reunir las carnes frescas destinadas al comercico intracomunitario e importadas de países terceros
+
+<br> Téngase en cuenta que se derogan los aspectos de salud pública contenidos en esta norma, con efectos de 28 de mayo de 2006, por la disposición derogatoria única.o) Real Decreto 640/2006, de 26 de mayo. [Ref. BOE-A-2006-9300](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9300)
+
+La adhesión de España a la Comunidad Económica Europea exige la incorporación de la normativa comunitaria a la legislación nacional.
+
+Los requisitos sanitarios que deben cumplir las carnes frescas de las especies bovina, ovina, caprina, porcina y solípedos domésticos, objeto de intercambios intracomunitarios e importadas de países terceros se encuentran ya incorporados a la legislación española a través del Real Decreto 1728/1987, de 23 de diciembre.
+
+La Directiva del Consejo 72/461/CEE, modificada por las Directivas 77/98/CEE, 80/213/CEE, 80/1099/CEE, 84/643/CEE 85/322/CEE, 87/64/CEE y 87/489/CEE establece las condiciones de sanidad animal que deben cumplir los animales de las especies bovina, ovina, caprina, porcina y solípedos domésticos cuyas carnes se destinen al comercio intracomunitario, así como dichas carnes, para evitar la difusión de enfermedades que puedan poner en peligro la salud de la cabaña ganadera comunitaria y consecuentemente prevenir los riesgos directos e indirectos para la salud humana. Igualmente, la Directiva del Consejo 72/462/CEE establece, entre otras, las exigencias de sanidad animal que deben cumplir las carnes frescas de las especies anteriormente mencionadas, que se importen en el territorio comunitario procedentes de países terceros.
+
+En consecuencia, resulta necesario incorporar a la legislación española los requisitos relativos a sanidad animal que figuran en las Directivas mencionadas y ello de acuerdo con la competencia estatal contenida en el artículo 149.1.10 y 16 de la Constitución española.
+
+A estos efectos y a propuesta del Ministro de Agricultura, Pesca y Alimentación y previa deliberación del Consejo de Ministros en su reunión del día 26 de enero de 1990,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1.
+
+El presente Real Decreto tiene por finalidad establecer los requisitos sanitarios que han de cumplir las carnes frescas a las que se refiere el artículo 1.º del Real Decreto 1728/1987, de 23 de diciembre, por el que se aprueban las normas técnico-sanitarias que regulan las prescripciones exigibles para el comercio intracomunitario e importación de terceros países de carnes frescas, así como las que deben reunir los mataderos, salas de despiece y almacenes frigoríficos autorizados para dicho comercio.
+
+### Artículo 2.
+
+A los efectos del presente Real Decreto serán de aplicación las definiciones que figuran en el capítulo I, norma I, del Real Decreto 1728/1987.
+
+## CAPÍTULO II — Disposiciones de sanidad animal aplicables al comercio intracomunitario de carnes frescas
+
+### Artículo 3.
+
+Además del cumplimiento de los requisitos sanitarios establecidos en el Real Decreto 1728/1987, de 23 de diciembre, las expediciones de carnes frescas desde España hacia otros Estados miembros de la CEE así como los envíos a España desde éstos deberán cumplir las condiciones siguientes:
+
+1\. Cuando se trate de carnes frescas obtenidas de animales domésticos de las especies, bovina, ovina, caprina, porcina y solípedos domésticos, éstas deberán provenir de animales que hayan permanecido el territorio comunitario, durante al menos veintiún días antes del sacrificio o desde su nacimiento, cuando se trate de animales de menos de veintiún días.
+
+2\. Se obtendrán de animales que no procedan de una explotación ni de una zona sometidas a inmovilización de sus efectivos ganaderos como consecuencia de la aparición de las enfermedades siguientes. Fiebre aftosa, peste porcina africana, peste porcina clásica, enfermedades vesicular porcina, parálisis contagiosa porcina (enfermedad de Teschen), brucelosis y carbunco bacteridiano, a las que los animales en cuestión sean receptivos, aplicando los siguientes criterios:
+
+Cuando no se proceda al sacrificio de la totalidad de los animales que integran la explotación, receptivos a la enfermedad, se establecerá una zona de protección de dos kilómetros de radio alrededor de la misma, durante al menos treinta días, a contar desde el último caso constatado de enfermedad en el caso de fiebre aftosa y enfermedad vesicular del cerdo; durante al menos cuarenta días en el caso de peste porcina clásica y parálisis contagiosa porcina (enfermedad de Teschen): durante al menos seis semanas en el caso de brucelosis bovina o porcina, y durante al menos quince días en el caso de carbunco bacteridiano.
+
+Cuando se proceda al sacrificio de la totalidad de los animales que integran la explotación, receptivos a la enfermedad y a la desinfección de los locales, se establecerá una zona de protección de tres kilómetros de radio alrededor de la explotación afectada, durante al menos treinta días, a contar desde el último caso constatado de enfermedad en el caso de peste porcina clásica y de dos kilómetros de radio, durante al menos quince días en el caso de fiebre aftosa, enfermedad vesicular y parálisis contagiosa porcina (enfermedad de Teschen).
+
+Los animales receptivos a la enfermedad en cuestión que se encuentren en las explotaciones situadas en la zona de protección no podrán salir de las mismas más que con destino exclusivo al matadero, bajo control veterinario oficial.
+
+3\. Cuando se trate de carnes frescas de animales de las especies ovina y caprina, los animales objeto de sacrificio procederán de una explotación en la que en las últimas seis semanas no se hayan constatado casos de brucelosis ovina o caprina.
+
+4\. Se obtendrán en mataderos en los que no se habrán constatado casos de fiebre aftosa, peste porcina africana, peste porcina clásica, enfermedad vesicular porcina o parálisis contagiosa porcina (enfermedad de Teschen). En caso de aparición de alguna de estas enfermedades se prohibirá el envío de carnes sospechosas de contaminación.
+
+5\. Se aplicarán las normas previstas por el Real Decreto relativo a los controles veterinarios aplicables en los intercambios intracomunitarios de los productos de origen animal y, en particular, en lo que se refiere a controles en origen, organización y curso que hay que dar a los controles a realizar por la autoridad competente, así como a las medidas de salvaguardia que deban aplicarse.
+
+> Téngase en cuenta que se derogan los apartados 2 y 4 salvo en lo que se refiere a la parálisis contagiosa porcina (enfermedad de Teschen), la brucelosis ovina y caprina y el carbunco bacteridiano, por la disposición derogatoria única.a) del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702)
+
+> Se derogan los apartados 2 y 4 salvo en lo que se refiere a la parálisis contagiosa porcina (enfermedad de Teschen), la brucelosis ovina y caprina y el carbunco bacteridiano, por la disposición derogatoria única.a) del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702)
+
+> Se añade el apartado 5 por la disposición adicional 1 del Real Decreto 49/1993, de 15 de enero. [Ref. BOE-A-1993-5628](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5628)
+
+### Artículo 4.
+
+Las carnes frescas obtenidas a partir de animales que no cumplan con lo establecido en el artículo tercero, se faenarán, despiezarán, transportarán y almacenarán de forma separada o en momentos distintos de las carnes frescas destinadas a intercambios intracomunitarios.
+
+Dichas carnes se marcarán de acuerdo con lo establecido en la norma 9.ª del Real Decreto 1754/1986, de 28 de junio.
+
+### Artículo 5.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702)
+
+### Artículo 6.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702)
+
+### Artículo 7.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 49/1993, de 15 de enero. [Ref. BOE-A-1993-5628](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5628)
+
+### Artículo 8.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 49/1993, de 15 de enero. [Ref. BOE-A-1993-5628](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5628)
+
+### Artículo 9.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 49/1993, de 15 de enero. [Ref. BOE-A-1993-5628](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-5628)
+
+## CAPÍTULO III — Disposiciones de sanidad animal aplicables a las importaciones de carnes frescas procedentes de países terceros
+
+### Artículo 10.
+
+1\. Además del cumplimiento de los requisitos sanitarios establecidos en el Real Decreto 1728/1987, las importaciones de carnes frescas procedentes de países terceros, deberán cumplir las condiciones contenidas en el presente capítulo.
+
+Las carnes frescas que se importen de países terceros procederán de animales que hayan permanecido en el territorio de dicho país al menos durante los tres meses precedentes al sacrificio o desde su nacimiento, si se trata de animales menores de tres meses.
+
+2\. Con carácter general, sólo se autorizará la importación de carnes frescas de países terceros:
+
+a) Indemnes, desde hace doce meses, de las enfermedades que se enumeran a continuación y a las que sean receptivos los animales de que procedan dichas carnes: peste bovina, fiebre aftosa por virus exótico, peste porcina africana y parálisis contagiosa porcina (enfermedad de Teschen),
+
+b) Donde, durante los últimos doce meses, no se haya vacunado contra las enfermedades contempladas en la letra a) a las que sean receptivos los animales de que procedan dichas carnes,
+
+c) Donde, respecto de la peste porcina clásica, en los últimos doce meses, como mínimo: no se haya detectado dicha enfermedad, no se haya autorizado la vacunación y ningún cerdo haya sido vacunado contra la misma. Todo ello, sin perjuicio de las excepciones que, en su caso, sean establecidas al efecto por la Comisión de las Comunidades Europeas.
+
+3\. Las carnes frescas únicamente podrán proceder de los países terceros y de las especies animales que figuran en el anexo del presente Real Decreto.
+
+> Téngase en cuenta que se derogan los apartados 2 y 3 salvo en lo que se refiere a la parálisis contagiosa porcina (enfermedad de Teschen), por la disposición derogatoria única.a) del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702)
+
+> Se derogan los apartados 2 y 3 salvo en lo que se refiere a la parálisis contagiosa porcina (enfermedad de Teschen), por la disposición derogatoria única.a) del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702)
+
+> Se modifica por el art. 1 del Real Decreto 1628/1992, de 29 de diciembre. [Ref. BOE-A-1993-3624](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-3624)
+
+### Artículo 11.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702)
+
+### Artículo 12.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702)
+
+### Artículo 13.
+
+La carne fresca importada de países terceros deberá someterse, nada más llegar a territorio nacional, a un control de sanidad animal, efectuado por los veterinarios oficiales de las Aduanas dependientes del Ministerio de Agricultura, Pesca y Alimentación, cualquiera que sea el régimen aduanero bajo el cual se hayan declarado.
+
+### Artículo 14.
+
+Los servicios veterinarios oficiales de las Aduanas, dependientes del Ministerio de Agricultura, Pesca y Alimentación, prohibirán la importación de carnes frescas si constatan al realizar el control sanitario previsto en el artículo anterior que:
+
+Dichas carnes no provienen del territorio de un país tercero, o de una parte del mismo que figura en el anexo del presente Real Decreto, autorizados por el Ministerio de Agricultura, Pesca y Alimentación.
+
+El certificado de sanidad animal que acompaña a dichas carnes frescas no es conforme con las exigencias establecidas en el artículo 11 del presente Real Decreto.
+
+### Artículo 15.
+
+Los servicios veterinarios oficiales de las Aduanas, dependientes del Ministerio de Agricultura, Pesca y Alimentación, autorizarán el transpone de carnes frescas desde un país tercero, a otro país tercero, si:
+
+a) El interesado aporta las pruebas que acrediten que el país tercero en cuestión al que van destinadas las carnes frescas, en tránsito por territorio comunitario, se compromete a no rechazar o reexpedir en ningún caso hacia este último las carnes a las que se autoriza la importación o el tránsito.
+
+b) El transporte es autorizado previamente por las autoridades competentes españolas.
+
+c) El transporte se efectúa sin ruptura de carga, bajo el control de las autoridades competentes en vehículos o contenedores precintados. Las únicas manipulaciones que se autorizarán durante el transporte son las que se efectúen en el punto de entrada en el territorio español o de salida de éste para su transbordo directo a un barco o avión o cualquier otro medio de transporte, o a la inversa.
+
+Los gastos ocasionados por la aplicación del presente artículo corresponderán al expedidor, al destinatario o a su mandatario, sin indemnización del Estado español.
+
+### Artículo 16.
+
+Cada lote de carnes procedente de un país tercero, deberá someterse a un control relativo a sanidad animal antes de su puesta en circulación en territorio geográfico de la Comunidad, efectuado por los servicios veterinarios oficiales dependientes del Ministerio de Agricultura, Pesca y Alimentación.
+
+Para tal fin, los importadores deberán avisar, con un plazo de antelación mínimo de dos días laborables, a los servicios veterinarios oficiales dependientes del Ministerio de Agricultura, Pesca y Alimentación de la Aduana por la que se va a efectuar la importación, precisando la cantidad, naturaleza de las carnes, y el momento en que dicho control podrá tener lugar.
+
+### Artículo 17.
+
+En el caso de aparecer una enfermedad contagiosa en los animales de un país tercero, de los que figuran en el anexo del presente Real Decreto, que pueda suponer un peligro para la ganadería nacional, o si existen razones de sanidad animal justificadas, el Ministerio de Agricultura, Pesca y Alimentación prohibirá la importación de carnes frescas, tanto si éstas proceden, directa o indirectamente, a través de otro Estado miembro de la CEE, bien de la totalidad del país o de una parte del territorio de éste.
+
+El Ministerio de Agricultura, Pesca y Alimentación comunicará las medidas tomadas a los restantes Estados miembros y a la Comisión, indicando los motivos. El levantamiento de dicha medida se realizará de acuerdo con el mismo procedimiento.
+
+### Disposición final primera.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para modificar la relación que figura en el anexo cuando la situación sanitaria de la ganadería de un país tercero así lo requiera.
+
+### Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 26 de enero de 1990.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+CARLOS ROMERO HERRERA
+
+## ANEXO
+
+## Lista de países terceros y especies animales autorizadas para el envío de carnes frescas a España
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1288/1993, de 30 de julio. [Ref. BOE-A-1993-22405](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-22405)
+
+> Véase el Anexo del citado Real Decreto.
+
+> Se modifica por la disposición derogatoria única del Real Decreto 1288/1993, de 30 de julio. [Ref. BOE-A-1993-22405](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-22405)

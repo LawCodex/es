@@ -1,0 +1,10334 @@
+---
+title: "Real Decreto 1048/2022, de 27 de diciembre, sobre la aplicación, a partir de 2023, de las intervenciones en forma de pagos directos y el establecimiento de requisitos comunes en el marco del Plan Estratégico de la Política Agrícola Común, y la regulación de la solicitud única del sistema integrado de gestión y control"
+identifier: "BOE-A-2022-23048"
+eli: "https://www.boe.es/eli/es/rd/2022/12/27/1048"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2022-12-27
+published: 2022-12-29
+in_force_from: 2023-01-01
+last_amended: 2026-07-08
+consolidated: 2026-07-08
+gazette: "Boletín Oficial del Estado núm. 312"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-23048"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1048/2022, de 27 de diciembre, sobre la aplicación, a partir de 2023, de las intervenciones en forma de pagos directos y el establecimiento de requisitos comunes en el marco del Plan Estratégico de la Política Agrícola Común, y la regulación de la solicitud única del sistema integrado de gestión y control
+
+Incluye la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023. [Ref. BOE-A-2023-2253](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2253)
+
+La Comunicación de la Comisión al Parlamento Europeo, al Consejo, al Comité Económico y Social Europeo y al Comité de las Regiones que lleva por título «El futuro de los alimentos y de la agricultura» expuso los posibles problemas, objetivos y orientaciones de la Política Agrícola Común (en adelante PAC) después de 2020.
+
+A la luz del debate sobre dicha Comunicación, la Comisión Europea presentó su propuesta legislativa sobre el futuro de la PAC en junio de 2018, la cual constaba de tres reglamentos: el reglamento que regula el apoyo de la PAC a través de los planes estratégicos que deben elaborar los Estados miembros; el reglamento que modifica la Organización Común de Mercados de los Productos Agrarios y otros reglamentos relativos a los sistemas de calidad diferenciada, los vinos y el Programa de Opciones Específicas por la Lejanía y la Insularidad (POSEI), y el reglamento de financiación, gestión y seguimiento de la PAC.
+
+Debido a lo dilatado de las negociaciones, tanto de la reforma de la PAC como del nuevo marco financiero de la UE para el periodo 2020/2027, ha sido preciso establecer un periodo transitorio durante los años 2021 y 2022, de forma que la nueva PAC comenzará a aplicarse plenamente a partir del 1 de enero de 2023. En junio de 2021 las instituciones de la UE alcanzaron un acuerdo sobre la reforma de la PAC a partir de 2023, que se materializó en la publicación de los correspondientes reglamentos comunitarios.
+
+La gran novedad de la futura PAC es su cambio de enfoque, pasando de ser una política de cumplimiento de normas, fundamentalmente basada en la descripción de los requisitos que deben cumplir los beneficiarios finales de las ayudas, a una política centrada en el rendimiento y la obtención de resultados, mediante la consecución de unos objetivos generales y específicos. Los objetivos generales son tres: el fomento de un sector agrícola inteligente, resistente y diversificado que garantice la seguridad alimentaria; la intensificación del cuidado del medio ambiente y la acción por el clima, contribuyendo a alcanzar los objetivos climáticos y medioambientales de la Unión Europea, y el fortalecimiento del tejido socioeconómico de las zonas rurales. Con este nuevo enfoque, España, tras un análisis riguroso de la situación de partida, que ha permitido identificar y priorizar las necesidades vinculadas a cada uno de estos objetivos, ha propuesto un Plan Estratégico Nacional de la Política Agrícola Común (PAC) del Reino de España 2023-2027, que tiene como objetivo el desarrollo sostenible de la agricultura, la alimentación y las zonas rurales para garantizar la seguridad alimentaria de la sociedad a través de un sector competitivo y un medio rural vivo.
+
+El diseño de la nueva PAC vira hacia una perspectiva de trabajo articulada tanto en una planificación estratégica, como en una mayor subsidiariedad de los Estados miembros, los cuales tendrán que diseñar las intervenciones con las que prevén alcanzar los objetivos de la UE en el marco de un «Plan estratégico de la PAC». Dicho plan agrupará las intervenciones en forma de pagos directos, las intervenciones en determinados sectores y las intervenciones para el desarrollo rural, y será financiado con cargo a los fondos europeos agrícolas, FEAGA y Feader.
+
+Este cambio requiere que cada Estado miembro realice un análisis de la situación de partida de su sector agroalimentario, identifique y priorice sus necesidades específicas, y plantee las intervenciones más adecuadas para alcanzar las metas preestablecidas vinculadas a los objetivos comunes establecidos para toda la Unión Europea. El nuevo modelo de aplicación consiste en fijar unas metas y evaluar los resultados obtenidos. El objetivo es tratar de garantizar que se alcancen las metas previstas para que se satisfagan las necesidades existentes. En su defecto se modificará el Plan si se considera necesario.
+
+Para ello, el Reglamento (UE) número 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, por el que se establecen normas en relación con la ayuda a los planes estratégicos que deben elaborar los Estados miembros en el marco de la política agrícola común (planes estratégicos de la PAC), financiada con cargo al Fondo Europeo Agrícola de Garantía (FEAGA) y al Fondo Europeo Agrícola de Desarrollo Rural (Feader), y por el que se derogan los Reglamentos (UE) número 1305/2013 y (UE) número 1307/2013, establece la necesidad de que cada país elabore un Plan Estratégico de la PAC, donde plasmar las intervenciones (o medidas) elegidas de un menú común. El Plan se someterá a la aprobación de la Comisión y a un seguimiento y evaluación continuos para garantizar la obtención de resultados.
+
+El Plan Estratégico de la PAC de España establece un modelo uniforme de aplicación de la Política Agrícola Común en todo el territorio nacional con base en la competencia del Estado para establecer la planificación general de la actividad económica, en este caso del sector agrario.
+
+Con el fin de poder realizar una correcta implantación y gestión del conjunto de intervenciones que se incluyen en el Plan Estratégico Nacional de la Política Agrícola Común (PAC) del Reino de España 2023-2027, se hace necesario disponer de las adecuadas herramientas jurídicas que permitan una aplicación armonizada de todas las medidas en el territorio nacional. A tal fin, durante el otoño de 2022 se han venido aprobando diversos reales decretos en que se contienen las reglas a aplicar en las intervenciones sectoriales de la PAC y otras disposiciones concomitantes, que se vienen en completar ahora con la aprobación conjunta un paquete normativo que abarca los principales aspectos relacionados con la aplicación de la PAC en nuestro país, compuesto por diversos reales decretos que regulan de manera cohonestada los aspectos necesarios para su aplicación: normas para la aplicación de las intervenciones en forma de pagos directos, requisitos comunes y solicitud única; sistema de derechos de ayuda básica a la renta para la sostenibilidad; regulación de condicionalidad reforzada y social; sistema integrado de gestión y control; y gobernanza de los fondos europeos agrícolas. Este grupo normativo encuentra en su vértice la Ley 30/2022, de 23 de diciembre, por la que se regulan el sistema de gestión de la Política Agrícola Común y otras materias conexas.
+
+En dicho marco, en este real decreto se regulan las intervenciones en forma de pagos directos, financiadas con cargo al Fondo Europeo Agrícola (FEAGA), las características de la solicitud única, los requisitos comunes para el cobro de las intervenciones, entre los que se encuentra la condición de agricultor activo, el ejercicio de la actividad agraria y la subvencionabilidad de las hectáreas declaradas, así como las disposiciones financieras aplicables para la determinación de las ayudas a conceder.
+
+En primer lugar, se hace preciso establecer las definiciones de «actividad agrícola», «superficie agrícola», «hectárea subvencionable», «agricultor activo», «joven agricultor» y «nuevo agricultor», para adaptar las definiciones marco incluidas en el reglamento a las especificidades de nuestro territorio nacional, de modo que en la norma quede reflejado lo recogido al respecto en el Plan Estratégico de la Política Agraria Común. Se incluyen además definiciones como joven agricultora, responsable de la explotación o incorporación a la actividad agraria, entre otras.
+
+Se mantiene la orientación recogida en el citado Reglamento (UE) 2021/2115, en el sentido de destinar los pagos directos de la PAC a las explotaciones agrarias verdaderamente activas, garantizándose que los pagos se concederán a aquellos agricultores activos que generen una actividad real en el ámbito agrario. La definición de agricultor activo no debe ser obstáculo para la concesión de ayudas a los agricultores pluriactivos o a tiempo parcial, que además de cultivar también se dedican a actividades no agrícolas. Esta orientación es necesaria para evitar el abandono de la actividad agraria con el impacto que éste puede tener en la producción de alimentos y la economía rural. Es preciso, por tanto, establecer la definición y condiciones del requisito de agricultor activo, indicándose los elementos esenciales del concepto.
+
+Se incorpora un capítulo específico, dedicado a las intervenciones en forma de pagos directos disociados o desacoplados que se podrán solicitar en cada campaña, que regula la ayuda básica a la renta para la sostenibilidad, la ayuda redistributiva complementaria a la renta para la sostenibilidad y la ayuda complementaria a la renta para jóvenes agricultores y jóvenes agricultoras, así como la limitación progresiva de la ayuda básica a la renta en determinados casos.
+
+En la sección 2 del capítulo II del título III del Reglamento (UE) 2021/2115, del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, se establece un nuevo pago voluntario en favor del clima, el medio ambiente y el bienestar animal (ecorregímenes), en línea con los mayores compromisos medioambientales y climáticos en el ámbito internacional y que los Estados miembros establecerán de forma preceptiva.
+
+Por ello, y conforme a lo previsto en el Plan Estratégico Nacional de la Política Agrícola Común (PAC) del Reino de España 2023-2027, se establece el procedimiento para la concesión de dichos pagos, vinculados a prácticas de carácter anual o multianual tales como la rotación de cultivos y la siembra directa, en el caso de tierras de cultivo, las cubiertas vegetales e inertes, en el caso de cultivos leñosos, la siega sostenible, el establecimiento de islas y márgenes de biodiversidad y el pastoreo extensivo en el caso de pastos, y el establecimiento de espacios de biodiversidad en tierras de cultivo y cultivos permanentes.
+
+Las prácticas incluidas, relacionadas con la agricultura de carbono o la agroecología, persiguen mejorar la estructura de los suelos y aumentar su contenido en carbono, reducir la erosión y la desertificación, la disminución de los Gases de Efecto Invernadero; o bien favorecer la biodiversidad asociada a espacios agrarios, los paisajes y la conservación de los recursos naturales.
+
+En aplicación de las sección III del capítulo II del título III del Reglamento (UE) 2021/2015 del Parlamento Europeo y del Consejo y conforme a lo previsto en el Plan Estratégico en nuestro territorio, procede establecer el procedimiento para la concesión de ayudas a la renta asociadas a determinados sectores, producciones o tipos específicos de actividades agrarias dentro de un sector o producción determinada para hacer frente a las dificultades encontradas en mediante la mejora de la competitividad o la sostenibilidad.
+
+El capítulo III del título III recoge una serie de ayudas asociadas a un determinado sector, producción o tipo de actividad agraria, que tienen como finalidad aumentar la competitividad y favorecer la transición hacia modelos de producción sostenible en sectores que afrontan dificultades específicas.
+
+Asimismo, en línea con los objetivos del Protocolo número 4 sobre el algodón, adjunto al Acta de adhesión de 1979, debe mantenerse el pago específico a este cultivo para prevenir cualquier riesgo de perturbación en las regiones productoras.
+
+Dentro de los sectores de frutas y hortalizas aquellos en los que se han identificado necesidades específicas para mejorar la competitividad y sostenibilidad han sido la producción sostenible de tomate para transformación, el cultivo de frutos secos en secano en áreas con riesgo de desertificación y la producción tradicional de uva pasa.
+
+Estos sectores presentan una competitividad comprometida por la volatilidad de los mercados internacionales en los que compiten y condicionan su rentabilidad y sostenibilidad económica. Además, cabe indicarse en el caso de la ayuda a frutos secos y uva pasa, la necesidad de mantener el cultivo en zonas con condiciones naturales limitantes para frenar la erosión y la desertificación.
+
+Igualmente es necesario en el caso del olivar con dificultades específicas relacionadas con las limitaciones del medio natural, articular una ayuda que contribuya a mejorar su rentabilidad teniendo en cuenta que no existen cultivos alternativos en muchas regiones por lo que su mantenimiento es esencial para sostener el tejido socioeconómico de las zonas rurales donde se ubica contribuyendo igualmente a su valorización medioambiental.
+
+En el caso de los cultivos herbáceos se establece una ayuda asociada a la remolacha y al arroz para mejorar su competitividad frente a países terceros productores y se establece un Plan proteico con un compendio de ayudas para incentivar la producción de proteína vegetal que contribuya a disminuir nuestra dependencia de las importaciones de países terceros.
+
+En el caso de los sectores ganaderos, las ayudas asociadas se dirigen a los sectores o sistemas productivos cuya competitividad está más comprometida favoreciendo la sostenibilidad de los sistemas de producción.
+
+De este modo, se conceden ayudas asociadas a los siguientes sectores o sistemas productivos: vacuno de carne extensivo, engorde de terneros en la explotación de nacimiento, engorde sostenible de terneros, producción sostenible de leche de vaca, ganaderos extensivos y semiextensivos de ovino y caprino de carne, producción sostenible de leche de oveja y cabra y ganaderos extensivos y semiextensivos de ovino y caprino sin pastos a su disposición y que pastorean barbechos, rastrojeras o restos hortofrutícolas.
+
+Por otro lado, el Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo de 2 de diciembre de 2021 sobre la financiación, la gestión y el seguimiento de la política agrícola común y por el que se deroga el Reglamento (UE) número 1306/2013; insta a los Estados miembros a establecer y poner en marcha un sistema integrado de gestión y control (en lo sucesivo, «sistema integrado») para determinadas intervenciones previstas en el Reglamento (UE) 2021/2115 y para las medidas contempladas en el capítulo IV del Reglamento (UE) número 228/2013 del Parlamento Europeo y del Consejo y en el capítulo IV del Reglamento (UE) número 229/2013 del Parlamento Europeo y del Consejo. Además, para mejorar la eficacia y el seguimiento de la ayuda de la Unión, debe autorizarse a los Estados miembros a hacer uso del sistema integrado en otras intervenciones de la Unión.
+
+Los elementos del sistema integrado son los siguientes: un sistema de identificación de parcelas agrícolas, un sistema de solicitudes geoespaciales y un sistema de solicitudes basado en los animales, un sistema de identificación y registro de derechos de pago, un sistema de identificación y registro de los animales, un sistema de registro de la identidad de los beneficiarios y un sistema de control y sanción, así como un sistema de monitorización de superficies. Procede mantener dichos elementos existentes, regulándose en este real decreto, las disposiciones relativas al sistema de solicitudes geoespaciales y al sistema de solicitudes basado en los animales.
+
+En la elaboración de esta norma se han observado los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. De acuerdo con los principios de necesidad y eficacia, se justifica el proyecto en la necesidad de una mejor aplicación de la normativa de la Unión Europea en España, con el fin de evitar posibles correcciones financieras, siendo esta norma el instrumento más adecuado para garantizar su consecución, al ser preceptivo que la regulación se contemple en una norma básica. Asimismo, se cumple con el principio de proporcionalidad y con el objetivo de limitar la regulación al mínimo imprescindible para reducir la intensidad normativa. Por su parte, el principio de seguridad jurídica queda garantizado al establecerse en una disposición general las nuevas previsiones en coherencia con el resto del ordenamiento jurídico. A su vez, en aplicación del principio de transparencia han sido consultadas durante la tramitación de la norma las comunidades autónomas, las entidades representativas de los sectores afectados, y se ha sustanciado el trámite de audiencia e información pública. Finalmente, el principio de eficiencia se considera cumplido toda vez que incluye una reducción de cargas administrativas.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, con la aprobación previa de la Ministra de Hacienda y Función Pública, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 27 de diciembre de 2022,
+
+DISPONGO:
+
+## TÍTULO I — Disposiciones generales
+
+###### Artículo 1. Objeto y ámbito de aplicación.
+
+1\. Este real decreto tiene por objeto establecer la normativa básica aplicable para el periodo 2023-2027 a las siguientes intervenciones establecidas en el Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, por el que se establecen normas en relación con la ayuda a los planes estratégicos que deben elaborar los Estados miembros en el marco de la Política Agrícola Común (planes estratégicos de la PAC), financiada con cargo al Fondo Europeo Agrícola de Garantía (FEAGA) y al Fondo Europeo Agrícola de Desarrollo Rural (Feader), y por el que se derogan los Reglamentos (UE) número 1305/2013 y (UE) número 1307/2013:
+
+a) Ayuda básica a la renta para la sostenibilidad.
+
+b) Ayuda redistributiva complementaria a la renta para la sostenibilidad.
+
+c) Ayuda complementaria a la renta para jóvenes agricultores y agricultoras.
+
+d) Regímenes en favor del clima, el medio ambiente y el bienestar animal.
+
+e) Ayuda a la renta asociada.
+
+f) Pago específico al cultivo del algodón.
+
+Dada su especificidad, las intervenciones en los sectores de las frutas y hortalizas, el apícola, el vitivinícola y, en su caso, en otros sectores, que formen parte del Plan Estratégico Nacional de la Política Agrícola Común (PAC) del Reino de España 2023-2027 en aplicación del capítulo III del título III del citado Reglamento, así como las intervenciones para el desarrollo rural previstas en el capítulo IV del título III se regularán en su propia normativa de aplicación.
+
+2\. Asimismo, se regula la solicitud de ayudas, de acuerdo con lo previsto en el Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, sobre la financiación, la gestión y el seguimiento de la política agrícola común y por el que se deroga el Reglamento (UE) número 1306/2013.
+
+3\. A los efectos de la aplicación de este real decreto, se tendrá en cuenta lo establecido por la Ley 35/2011, de 4 de octubre, sobre titularidad compartida de las explotaciones agrarias.
+
+###### Artículo 2. Aplicación a las Islas Canarias.
+
+Este real decreto será de aplicación en todo el territorio nacional salvo en la Comunidad Autónoma de Canarias, donde se aplicarán sus programas específicos de ayudas directas comunitarias. No obstante, será de aplicación en dicha comunidad autónoma, mutatis mutandis, todo lo que se especifique en este real decreto en relación con la figura del agricultor activo, la actividad agraria, la disciplina financiera, el sistema integrado de gestión y control para las intervenciones para el desarrollo rural, las medidas del POSEI que se concedan por superficie o por cabeza de ganado, las definiciones, así como la obligación de comunicación a la Dirección General del Catastro por parte del Ministerio de Agricultura, Pesca y Alimentación recogida en el artículo 14.1.e) del texto refundido de la Ley del Catastro Inmobiliario, aprobado por el Real Decreto Legislativo 1/2004, de 5 de marzo.
+
+###### Artículo 3. Definiciones.
+
+A los efectos de este real decreto, serán de aplicación las definiciones establecidas en el Reglamento (UE) número 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021; en el Real Decreto 1046/2022, de 27 de diciembre, por el que se regula la gobernanza del Plan Estratégico de la Política Agrícola Común en España y de los fondos europeos agrícolas FEAGA y Feader; en el artículo 6 y en el artículo 9 del Real Decreto 1054/2022, de 27 de diciembre, por el que se establece y regula el Sistema de información de explotaciones agrícolas y ganaderas y de la producción agraria, así como el Registro autonómico de explotaciones agrícolas y el Cuaderno digital de explotación agrícola, y las siguientes:
+
+1) Autoridad competente: a los efectos de este real decreto es el órgano competente de la comunidad autónoma a quien deben dirigirse las solicitudes de ayuda definidas en la presente norma. En el caso de intervenciones objeto de la solicitud única regulada en el capítulo I título IV, será aquella en la que radique la mayor parte de la superficie agraria de la explotación, según se define en el apartado 4 de este artículo, y en caso de no disponer de superficie agraria, donde se encuentren el mayor número de animales.
+
+2) Agricultor y ganadero (en adelante agricultor): toda persona física o jurídica, o todo grupo de personas físicas o jurídicas, titular de una explotación agraria situada en España y que ejerza una actividad agraria, conforme a lo establecido en el capítulo II del título II del presente real decreto.
+
+3) Beneficiario: la persona física o jurídica, o el grupo de personas físicas o jurídicas, incluidas las comunidades de bienes, herencias yacentes o comunidades de herederos, sociedades civiles sin objeto mercantil y explotaciones en régimen de titularidad compartida, que presenta una solicitud de ayuda, según se establece en el título IV, para optar a alguna de las ayudas reguladas en el título III.
+
+4) Explotación agraria: conjunto de unidades de producción administradas por un mismo titular de explotación agraria, que se encuentran dentro del territorio español.
+
+5) Titular de explotación agraria: persona física o jurídica, o todo grupo de personas físicas o jurídicas, incluidas las comunidades de bienes, herencias yacentes o comunidades de herederos, sociedades civiles sin objeto mercantil y explotaciones en régimen de titularidad compartida, que ostenta el poder de adopción de decisiones en relación con las actividades agrarias desempeñadas en la explotación agraria, obtiene los beneficios y asume el riesgo empresarial derivado de la actividad agraria. Respecto a las unidades de producción ganaderas de la explotación, deberá estar inscrito como tal en el Registro de Explotaciones Ganaderas según se regula en el Real Decreto 479/2004, de 26 de marzo. Respecto a las unidades de producción agrícolas de la explotación, deberá estar inscrito como tal bien en el Registro General de la Producción Agrícola (en adelante REGEA) regulado por el Real Decreto 9/2015, de 16 de enero, por el que se regulan las condiciones de aplicación de la normativa comunitaria en materia de higiene en la producción primaria agrícola, o bien en el Registro Autonómico de Explotaciones Agrícolas (en adelante REA) según se regula en el Real Decreto 1054/2022, de 27 de diciembre, y de acuerdo con la entrada en vigor del mismo.
+
+6) Titular del ganado: a efectos del presente real decreto es el propietario o el responsable del animal, sea de forma permanente o temporal. Sobre el titular del ganado recae la responsabilidad de dar cumplimiento a todas las obligaciones que establece la Ley 8/2003, de 24 de abril, de Sanidad Animal, y en concreto la obligación de comunicar a las administraciones públicas los datos relativos a las entradas y salidas de animales de sus explotaciones, y que se desarrolla en los Reales Decretos 479/2004, de 26 de marzo, por el que se establece y regula el Registro general de explotaciones ganaderas, y 728/2007, de 13 de junio, por el que se establece y regula el Registro general de movimientos de ganado y el Registro general de identificación individual de animales.
+
+En el caso del ganado vacuno, se considerará titular del animal el que así aparezca registrado en el Registro General de Identificación Individual de los Animales (RIIA). En el caso del ganado ovino y caprino, se considerará titular del animal al titular de la explotación de ubicación según el Registro General de Explotaciones Ganaderas (REGA). Para determinadas circunstancias en las especies de ovino y caprino, y a efectos de este real decreto, en los que los animales se encuentran en explotaciones de tipo “Pasto” y uso en común, la titularidad del animal se asimilará al titular del código REGA de origen. Si los animales nacieran en una explotación de tipo “Pasto” y uso en común, el titular del animal se asimilaría al titular del código REGA de nacimiento que figure en RIIA que sería el del origen del rebaño.
+
+7) Actividad agraria: la producción, cría o cultivo de productos agrarios, con inclusión de la cosecha, el ordeño, la cría de animales y el mantenimiento de animales a efectos agrícolas, o el mantenimiento de una superficie agraria en un estado adecuado para el pasto o el cultivo sin ninguna acción preparatoria que vaya más allá de los métodos y maquinaria agrícolas empleados de forma habitual.
+
+8) Productos agrarios: los productos recogidos en el anexo I del Tratado Fundacional de la Unión Europea (TFUE), así como el algodón y los árboles forestales de ciclo corto. Quedan excluidos los pescados, crustáceos y moluscos.
+
+9) Superficie agraria: cualquier superficie dedicada a tierras de cultivo, pastos permanentes o cultivos permanentes, incluyendo los sistemas de utilización de las tierras que combinan el mantenimiento de árboles con la agricultura en las mismas tierras.
+
+10) Tierras de cultivo: las tierras dedicadas a la producción de cultivos o las superficies disponibles para la producción de cultivos pero en barbecho, con independencia de que se encuentren en invernaderos o bajo protección fija o móvil. También tendrán consideración de tierras de cultivo las superficies retiradas de la producción de conformidad con los artículos 22, 23 y 24 del Reglamento (CE) número 1257/1999 del Consejo, de 17 de mayo de 1999, sobre la ayuda al desarrollo rural a cargo del Fondo Europeo de Orientación y de Garantía Agrícola (FEOGA) y por el que se modifican y derogan determinados Reglamentos; con el artículo 39 del Reglamento (CE) número 1698/2005 del Consejo, de 20 de septiembre de 2005, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (Feader), con el artículo 29 del Reglamento (UE) número 1305/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, y con el artículo 70 del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
+
+11) Cultivos permanentes: los cultivos no sometidos a la rotación de cultivos, distintos de los pastos permanentes, que ocupen las tierras durante un período de cinco años o más y produzcan cosechas repetidas, incluidos las cabeceras de cultivo y los bordes, los viveros y los árboles forestales de ciclo corto.
+
+12) Pastos permanentes: las tierras utilizadas para la producción de hierbas y otros forrajes herbáceos naturales (espontáneos) o cultivados (sembrados), incluidos los pastizales permanentes y que no hayan sido incluidas en la rotación de cultivos de la explotación durante cinco años o más, ni hayan sido labradas, aradas o resembradas con un tipo de gramínea o forraje herbáceo diferente durante cinco años o más. Pueden incluir otras especies arbustivas y arbóreas que pueden servir de pastos y otras especies tales como arbustos y árboles que producen alimentos para los animales, incluso si las hierbas u otros forrajes herbáceos no son predominantes o bien no están presentes en dichas tierras.
+
+13) Coeficiente de subvencionabilidad de pastos: las superficies de pastos que presenten características que de forma estable impidan un aprovechamiento total de las mismas por la presencia de elementos improductivos tales como zonas sin vegetación, pendientes elevadas, masas de vegetación impenetrable u otras características que determine la autoridad competente, se les asignará un coeficiente, que refleje el porcentaje de subvencionabilidad en el ámbito de recinto SIGPAC.
+
+A efectos del cálculo de dicho coeficiente se tendrán en cuenta las características botánicas y estructurales del pasto en relación con la capacidad de ser aprovechado por el ganado, así como las características específicas de determinados sistemas agrosilvopastorales tradicionales de alto valor ecológico, económico y social, como la dehesa.
+
+14) Hierbas y otros forrajes herbáceos: todas las plantas herbáceas forrajeras que se suelen encontrar en los pastos naturales o que se incluyen en las mezclas de semillas para pastos o prados de siega, tanto si se utilizan como si no, para pasto de los animales.
+
+15) Árboles forestales de ciclo corto: superficies plantadas con especies arbóreas del código NC 0602 90 41 de las listadas en el anexo I, que están compuestas de cultivos leñosos perennes, cuyas raíces o tocones permanecen en el suelo después de la cosecha o turno de corta y de los cuales surgen nuevos vástagos en la estación siguiente, y que cuentan con una densidad mínima de plantación y un ciclo máximo de cosecha según lo establecido en el anexo I.
+
+16) Viveros: instalaciones destinadas a la producción de partes de plantas o plantas enteras, cuyo destino es servir como material vegetal de reproducción o multiplicación, o como material destinado a la plantación para su aprovechamiento final, tanto comercial como de uso propio.
+
+Estas instalaciones pueden estar al aire libre o estar al abrigo de infraestructuras de protección específicas. Se incluyen en esta definición:
+
+– Viveros de material vegetal de reproducción y plantones de frutales (incluyendo todos los frutales de hueso y pepita, olivo, cítricos, frutos rojos, subtropicales, y otros frutales).
+
+– Viveros de material vegetal de reproducción y plantones de vid.
+
+– Viveros de plantas ornamentales.
+
+– Viveros de material de multiplicación de hongos cultivados.
+
+– Viveros forestales permanentes o fijos. Se exceptúan los viveros temporales o volantes que se proyectan y construyen en el medio o estación donde se va a repoblar.
+
+17) Hectárea subvencionable: a efectos de aquellas intervenciones en forma de pagos directos que se hayan de conceder por superficie agraria, se consideran hectáreas subvencionables, las superficies de la explotación que cumplan las condiciones establecidas en el artículo 9.
+
+18) Pagos directos: pagos abonados directamente a los agricultores en virtud de un tipo de intervención enumerado en el artículo 16 del Reglamento (UE) número 2021/2115, del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
+
+19) Fuerza mayor y circunstancias excepcionales: serán de aplicación las causas de fuerza mayor previstas en el artículo 1105 del Código Civil, las del artículo 3 del Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021. Sin perjuicio de que la autoridad competente pueda establecer otras causas de fuerza mayor y circunstancias excepcionales, en todo caso se considerarán como tales las que se establecen a continuación:
+
+a) Fallecimiento del beneficiario o desaparición del mismo.
+
+b) Incapacidad laboral de larga duración del beneficiario.
+
+c) Catástrofe natural grave o fenómeno climatológico adverso asimilable a catástrofe natural que haya afectado seriamente las tierras agrarias de la explotación.
+
+d) Destrucción accidental de los locales ganaderos de la explotación.
+
+e) Epizootia, reconocida por la autoridad competente, que haya afectado a una parte o a la totalidad del ganado de la explotación del beneficiario.
+
+f) Plaga vegetal o enfermedad vegetal causada por microorganismos patogénicos o factores ambientales, reconocida por la autoridad competente, que hayan afectado a una parte o a la totalidad de los cultivos de la explotación del beneficiario.
+
+g) La expropiación de la totalidad o de una parte importante de la explotación, si esta expropiación no era previsible el día en que se presentó la solicitud.
+
+h) La pérdida de la producción en una parte o en la totalidad del cultivo o del rebaño, por daños producidos por la fauna silvestre que hayan sido reconocidos por la autoridad competente.
+
+20) Parcela agrícola: para un tipo de intervención concreto, de entre los definidos en el artículo 1, la parcela agrícola se define como la superficie de tierra continua, declarada por un único agricultor, dedicada a un único producto y sistema de explotación, secano o regadío, válido para la ayuda que se está solicitando.
+
+21) Joven agricultor: en el caso de una persona física es el agricultor que no ha cumplido más de 40 años en el año natural de su primera solicitud subvencionable de ayuda, y:
+
+– Se ha incorporado como responsable de explotación conforme a la definición del apartado 25.
+
+– Puede acreditar la formación o capacitación adecuada en el ámbito agrario, para cuya determinación se conjugarán criterios de formación lectiva y capacitación profesional, con un mínimo de 150 horas lectivas, tal y como establece el artículo 4.1.b) de la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias, que sean acordes a los exigidos por la autoridad competente para la ayuda al establecimiento de jóvenes agricultores en el ámbito del desarrollo rural. Para acreditarla, se aceptarán los siguientes documentos:
+
+a) Cursos o seminarios de capacitación agraria reconocidos por la autoridad competente, así como titulaciones oficiales equivalentes, reconocidas por la autoridad competente.
+
+b) Resolución favorable de concesión de la ayuda al establecimiento de jóvenes agricultores en el ámbito del desarrollo rural conforme al artículo 75 del Reglamento (UE) número 2115/2021, del Parlamento Europeo y del Consejo de 2 de diciembre de 2021. En todo caso, la resolución favorable conlleva el compromiso de adquirir la formación y capacitación, en un plazo que no podrá superar los treinta y seis meses, según establezca la autoridad competente en la convocatoria de la ayuda de primera instalación o,
+
+c) Realiza su instalación en una explotación prioritaria en los términos definidos en la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias, con la correspondiente certificación de los registros existentes o,
+
+d) Experiencia previa acreditada como responsable de explotación. A estos efectos, la autoridad regional de gestión reconocerá un número equivalente de horas de formación por cada año de experiencia acreditado acordes a los exigidos para la ayuda al establecimiento de jóvenes agricultores en el ámbito del desarrollo rural. Se podrá reconocer la experiencia como trabajador por cuenta ajena con funciones de gerente, así como siendo trabajador autónomo colaborador en explotaciones familiares.
+
+En el caso de una persona jurídica o grupo de personas físicas, se considera que ésta es un joven agricultor cuando el responsable de la explotación es una persona física o grupo de personas físicas, que cumplan lo dispuesto en el apartado anterior. En el caso de personas jurídicas controladas por otra persona jurídica o grupo de personas físicas, el control efectivo a largo plazo por una persona física o grupo de personas físicas, que cumplan lo dispuesto en el apartado anterior deberá ser sobre esta última persona jurídica o grupo de personas físicas que controla a la otra persona jurídica.
+
+Se entenderá que un joven, o un grupo de jóvenes agricultores, ejercen el control efectivo sobre la persona jurídica cuando tengan potestad de decisión dentro de dicha persona jurídica, lo que exige que la suma de su participación en el capital social de la persona jurídica sea al menos igual o superior que la del socio con mayor participación y que formen parte de la junta rectora u órgano de gobierno, disponiendo de al menos igual o superior poder de voto que el del socio con mayor porcentaje de voto dentro de la misma.
+
+22) Joven agricultora: en el caso de una persona física es el joven agricultor de sexo femenino. En el caso de una persona jurídica, o un grupo de personas físicas o jurídicas, el control efectivo a largo plazo sobre la persona jurídica corresponda a una persona física o grupo de personas físicas, que cumplan las condiciones de joven agricultora.
+
+23) Nuevo agricultor: en el caso de una persona física es el agricultor que ya ha cumplido más de 40 años en el año natural de su primera solicitud subvencionable de ayuda, y:
+
+– Se ha incorporado como responsable de explotación conforme a la definición del apartado 25 de este mismo artículo, por primera vez.
+
+– Acreditar la formación y capacitación adecuada en el ámbito agrario, para cuya determinación se conjugarán criterios de formación lectiva y capacitación profesional, con un mínimo de 150 horas lectivas, tal y como establece el artículo 4.1.b) de la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias, que sean acordes a los exigidos por la autoridad competente para la ayuda a la primera instalación en el ámbito del desarrollo rural.
+
+Para acreditarla, se aceptarán los siguientes documentos:
+
+a) Cursos o seminarios de capacitación agraria reconocidos por la autoridad competente, así como titulaciones oficiales equivalentes, reconocidas por la autoridad competente.
+
+b) Resolución favorable de concesión de la ayuda de primera instalación en el ámbito del desarrollo rural conforme al artículo 75 del Reglamento (UE) número 2115/2021 del Parlamento Europeo y del Consejo de 2 de diciembre de 2021. En todo caso, la resolución favorable conlleva el compromiso de adquirir la formación y capacitación, en un plazo que no podrá superar los treinta y seis meses, según establezca la autoridad competente en la convocatoria de la ayuda de primera instalación o,
+
+c) Realiza su instalación en una explotación prioritaria en los términos definidos en la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias, con la correspondiente certificación de los registros existentes o,
+
+d) Experiencia previa acreditada como responsable de explotación. A estos efectos, la autoridad regional de gestión reconocerá un número equivalente de horas de formación por cada año de experiencia acreditado acordes a los exigidos para la ayuda a la primera instalación en el ámbito del desarrollo rural. Se podrá reconocer la experiencia como trabajador por cuenta ajena con funciones de gerente, así como siendo trabajador autónomo colaborador en explotaciones familiares.
+
+En el caso de una persona jurídica, o un grupo de personas físicas, se considera que ésta es un nuevo agricultor cuando el responsable de la explotación es una persona física o grupo de personas físicas, que cumplan lo dispuesto en el apartado anterior. En el caso de personas jurídicas controladas por otra persona jurídica o grupo de personas físicas, el control efectivo a largo plazo por una persona física o grupo de personas físicas, que cumplan lo dispuesto en el apartado anterior deberá ser sobre esta última persona jurídica o grupo de personas físicas que controla a la otra persona jurídica.
+
+Se entenderá que un nuevo agricultor, o un grupo de nuevos agricultores, ejercen el control efectivo sobre la persona jurídica cuando tengan potestad de decisión dentro de dicha persona jurídica, lo que exige que la suma de su participación en el capital social de la persona jurídica sea al menos igual o superior que la del socio con mayor participación y que formen parte de la junta rectora u órgano de gobierno, disponiendo de al menos igual o superior poder de voto que el del socio con mayor porcentaje de voto dentro de la misma.
+
+24) Jefe o responsable de la explotación: a efectos especialmente de las intervenciones que atienden el objetivo específico de apoyar y atraer a los jóvenes agricultores y a los nuevos agricultores, es la persona física o grupo de personas físicas que dispone del control efectivo y a largo plazo de la explotación agraria, en lo que respecta a las decisiones relacionadas con la gestión, los beneficios y los riesgos financieros, y por tanto responsable de la gestión de las operaciones financieras y de producción habituales y diarias de la misma.
+
+En el caso de personas físicas beneficiarias de ayudas, será el titular de la explotación definido en el apartado 4 del presente artículo.
+
+En el caso de personas jurídicas beneficiarias de ayudas, el responsable de explotación dispondrá de, al menos, el mismo porcentaje de participación en el capital social y en los derechos de voto dentro de la junta rectora de la persona jurídica, que el socio mayoritario. Cuando una persona jurídica sea individual o conjuntamente controlada por otra persona jurídica, las condiciones establecidas en el párrafo anterior se aplicarán a cualquier persona física que ejerza el control de esa otra persona jurídica.
+
+25) Incorporación a la actividad agraria: se considerará que un agricultor se ha incorporado a una actividad agraria como responsable de la explotación, a la fecha más antigua de las que se consideren más significativas por la autoridad competente de entre las siguientes:
+
+a) Alta en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos (RETA) por el ejercicio de la actividad agraria, con incorporación o no en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios (SETA) establecido en dicho régimen, para trabajadores con esa obligación legal como titular, exceptuando su inscripción como “propietario o familiar” así como las explotaciones de pequeña dimensión que se consideren subvencionables. En el caso de cooperativas de explotación comunitaria de la tierra, para cuyos socios se permite el alta como trabajadores por cuenta ajena en la legislación vigente de la Seguridad Social, esa situación se asimila al alta como trabajador por cuenta propia o autónomo por el ejercicio de la actividad agraria.
+
+b) Resolución favorable de ayuda al establecimiento de jóvenes agricultores dentro de las medidas de desarrollo rural.
+
+c) Inscripción en registros agrarios: Registro de Explotaciones Ganaderas (REGA), Registro General de la Producción Agrícola (REGEPA), Registro Autonómico de Explotaciones Agrícolas (REA) del Sistema de información de explotaciones (SIEX), Registro Vitícola (RV), Registro de Titularidad Compartida, Registro de Explotaciones Prioritarias, u otros registros reconocidos por la autoridad competente, así como la primera percepción de ayudas agrarias en las bases de datos de la autoridad competente.
+
+d) Percepción de ayudas agrarias detectada por la autoridad competente en el control de las ayudas.
+
+e) Cualquier otra circunstancia establecida por la autoridad regional de gestión en su ámbito territorial, en función de las necesidades y del diseño de la intervención en cuestión.
+
+26) Intervenciones asimiladas al Sistema Integrado de Gestión y Control (SIGC): son aquellas intervenciones basadas en las superficies o los animales, cuyos importes unitarios se expresan como un pago por hectárea o un pago por cabeza de ganado o unidad de ganado mayor. Incluyen los pagos directos y las siguientes intervenciones de desarrollo rural: Compromisos medioambientales, climáticos y otros compromisos de gestión; Zonas con limitaciones naturales u otras limitaciones específicas; y Zonas con desventajas específicas resultantes de determinados requisitos obligatorios.
+
+27) Solicitud de ayuda: solicitud de participación en una intervención establecida en el PEPAC.
+
+28) Sistema de solicitud automática: un sistema de solicitudes para intervenciones basadas en la superficie o los animales en que los datos exigidos por la administración sobre al menos zonas o animales concretos objeto de solicitudes de ayuda se encuentran disponibles en bases de datos informáticas oficiales gestionadas por el Estado miembro y se ponen a disposición del beneficiario cuando sea necesario.
+
+29) Novilla: el bovino hembra de la especie *Bos taurus*, a partir de la edad de ocho meses y hasta un máximo de treinta y seis meses, que no haya parido todavía.
+
+30) Vaca: el bovino hembra de la especie *Bos taurus* que haya parido.
+
+31) Figuras asociativas: a los efectos previstos en las subsecciones 5.ª y 7.ª de la sección 1.ª del capítulo III del título III, se entenderá como tales las cooperativas o las sociedades agrarias de transformación, además de las organizaciones de productores (en adelante, OP) definidas de acuerdo con el artículo 152 del Reglamento (UE) número 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) número 922/1972, (CEE) número 234/1979, (CE) número 1037/2001 y (CE) número 1234/2007, modificado por el Reglamento (UE) número 2021/2117, del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
+
+32) Barbecho semillado: aquel barbecho no desnudo, sobre el que se ha llevado a cabo una labor de siembra.
+
+33) Anchura libre de la proyección de copa: diferencia entre la anchura media de la calle de un cultivo leñoso (distancia entre dos líneas consecutivas de la plantación) y la anchura media de la proyección ortogonal de la copa del árbol sobre el suelo en su estado de mayor desarrollo vegetativo
+
+34) Gerente de la explotación: persona física responsable de las operaciones financieras y de producción habituales y diarias de la explotación agrícola.
+
+35) Pasto temporal: las tierras de cultivo utilizadas para la producción de una mezcla de hierbas y otros forrajes herbáceos que habitualmente se encuentran en los pastos de la región donde se ubiquen, ya sean naturales (espontáneos) o cultivados (sembrados), y que ocupen la parcela todo el año, que hayan sido incluidas en la rotación de cultivos de la explotación durante los últimos cinco años, o que hayan sido labradas, aradas o resembradas con un tipo de gramínea o forraje herbáceo diferente en algún momento durante los cinco años anteriores.
+
+36) Cultivos plurianuales: aquellas especies vegetales presentes en tierras de cultivo cuya vida vegetativa y ciclo de reproducción, único o múltiple, ya sea continuo o discontinuo, es superior a un año agrícola e inferior a cinco.
+
+37) Barbecho: tierra de cultivo retirada de la producción agrícola en la campaña agrícola correspondiente al año de solicitud, y sobre la que únicamente se podrán realizar actividades de mantenimiento, de pastoreo con animales de la propia explotación y siega para la producción de hierba. El barbecho tendrá el tratamiento de cultivo principal, a los efectos del cumplimento de la BCAM7, según se regula en el anexo II del Real Decreto 1049/2022, de 27 de diciembre, y no admitirá un cultivo secundario sobre la misma parcela y campaña.
+
+> Se modifican los apartados 6) y 37) por el art. 3.1 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifican los apartados 1), 25).a) y c), 35) y se añade el 37) por el art. 3.1 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+## TÍTULO II — Requisitos comunes para el cobro de las intervenciones
+
+### CAPÍTULO I — Agricultor activo
+
+###### Artículo 4. Alcance del requisito de agricultor activo.
+
+Este capítulo será aplicable a las intervenciones en forma de pagos directos, a las medidas del POSEI que se conceden por superficie o por animales y, dentro de las intervenciones para el desarrollo rural, a la intervención de zonas con limitaciones naturales u otras limitaciones específicas. Asimismo, cuando la autoridad de gestión regional así lo decida, también podrá ser aplicable a otras intervenciones de desarrollo rural en las que el beneficiario sea un agricultor.
+
+###### Artículo 5. Definición de agricultor activo.
+
+1\. Podrá adquirir la condición de agricultor activo toda persona física o jurídica, o grupo de personas físicas o jurídicas, que:
+
+a) Cumpla la definición de agricultor, es decir, que es titular de una explotación agraria situada en España, y que ejerce una actividad agraria y asume el riesgo empresarial de la actividad agraria desarrollada, tal y como se dispone en el artículo 8.
+
+b) No ejerza, como actividad principal, ninguna de las recogidas en la lista de actividades excluidas descritas en el artículo 6.
+
+2\. El agricultor adquiere la condición de agricultor activo cuando cumple al menos una de las siguientes condiciones:
+
+a) Cuando figure en alta en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos (RETA) por el ejercicio de la actividad agraria, con incorporación o no en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios (SETA) establecido en dicho régimen o bien,
+
+b) Cuando una parte significativa de sus ingresos totales procedan de la actividad agraria.
+
+3\. La condición de figurar en situación de alta en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos (RETA) por el ejercicio de la actividad agraria, con incorporación o no en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios (SETA) establecido en dicho régimen indicada en el apartado anterior será aplicable únicamente para agricultores que sean personas físicas, así como para comunidades de bienes, herencias yacentes o comunidades de herederos, sociedades civiles sin objeto mercantil y explotaciones en régimen de titularidad compartida.
+
+La situación de alta en el citado régimen especial de la Seguridad Social deberá ser efectiva a la fecha fin de plazo de modificación de la solicitud única establecida en el artículo 112.1 o, en el plazo establecido en las convocatorias de subvenciones del POSEI no incluidas en la solicitud única.
+
+A estos efectos será admisible el alta en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos (RETA), con incorporación o no en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios (SETA) establecido en dicho régimen. En el primer caso la actividad empresarial declarada a efectos del Impuesto sobre Actividades Económicas, o conforme a la Clasificación Nacional de Actividades Económicas (CNAE), deberá estar relacionada con el sector agroalimentario.
+
+En el caso especial de las comunidades de bienes, herencias yacentes o comunidades de herederos y sociedades civiles sin objeto mercantil, se considera que cumple el requisito de afiliación a la seguridad social cuando al menos uno de los comuneros o socios figure en situación de alta en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos (RETA) por el ejercicio de la actividad agraria, con incorporación o no en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios (SETA) establecido en dicho régimen.
+
+4\. Se considerará que una parte significativa de los ingresos del agricultor proceden de la actividad agraria, cuando el 25 % o más de sus ingresos totales son ingresos agrarios en el periodo impositivo disponible más reciente.
+
+Sin perjuicio de lo anterior, en el caso de explotaciones agrarias ubicadas en las Islas Canarias, dicho porcentaje mínimo de ingresos del agricultor procedente de la actividad agraria será de un 5 %, teniendo en cuenta las peculiaridades de esta región ultraperiférica.
+
+En el caso de que por causas justificadas los ingresos agrarios del periodo impositivo disponible más reciente no cumplan la proporción del 25 %, o del 5 %, según corresponda, para demostrar la condición de agricultor activo la autoridad competente podrá tener en cuenta los ingresos agrarios de alguno de los dos periodos impositivos inmediatamente anteriores.
+
+No obstante, en el caso de quienes se incorporen a la actividad agraria, de no haberse acogido ese primer año al cumplimiento del requisito de agricultor activo mediante el alta en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos (RETA) por el ejercicio de la actividad agraria, con incorporación o no en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios (SETA) establecido en dicho régimen, el requisito correspondiente a la proporción de ingresos agrarios sobre el total de ingresos deberá cumplirse, a más tardar, en el segundo periodo impositivo siguiente al de solicitud, o incluso con posterioridad, en circunstancias debidamente justificadas a juicio de la autoridad competente, motivadas por el periodo de entrada en producción de determinados cultivos. Tanto en el primer como en este segundo período impositivo, no podrá acogerse a la excepción establecida por el artículo 7 de este real decreto, ni podrá demostrar el requisito de agricultor activo mediante el alta en el RETA o SETA. Los agricultores que se incorporen a la actividad agraria no podrán ceder sus derechos hasta la campaña en la que hayan justificado el cumplimiento del requisito de agricultor activo. En el caso de tratarse de un nuevo NIF por cambio de denominación o del estatuto jurídico de la explotación, no podrá considerarse una incorporación a la actividad agraria.
+
+A los efectos del párrafo anterior, la autoridad competente establecerá cómo debe justificarse la incorporación a la actividad agraria, bien mediante la ausencia de ingresos agrarios en el ejercicio fiscal más reciente y en los dos ejercicios fiscales anteriores; o bien por no ser titular de una solicitud única en ninguna de las cinco campañas inmediatamente anteriores.
+
+Las personas jurídicas distintas a sociedades civiles sin objeto mercantil, y los grupos de personas jurídicas obligatoriamente deberán cumplir con el requisito de que una parte significativa de los ingresos del agricultor procedan de la actividad agraria. No obstante lo anterior, dicha condición se considera automáticamente cumplida por las cooperativas agroalimentarias, las cooperativas de explotación comunitaria de la tierra y las cooperativas de trabajo asociado con objeto de explotación agropecuaria, teniendo en cuenta lo establecido los artículos 93, 94 y 80 de la Ley 27/1999, de 16 de julio, de cooperativas.
+
+En el caso especial de las comunidades de bienes, herencias yacentes o comunidades de herederos, sociedades civiles sin objeto mercantil y explotaciones en régimen de titularidad compartida, se considera que cumple el requisito de que una parte significativa de los ingresos del agricultor procedan de la actividad agraria cuando para un comunero o socio de dicha comunidad o entidad, el 25 % o más de sus ingresos totales sean ingresos agrarios. Sin perjuicio de lo anterior, el porcentaje a considerar en el caso de las explotaciones agrarias ubicadas en la Comunidad Autónoma de Canarias es el 5 %.
+
+5\. A los efectos de la aplicación del apartado 4, los ingresos agrarios serán aquellos ingresos que haya recibido el agricultor, procedentes del ejercicio de la actividad agraria en su explotación, en el sentido del artículo 3, incluidas las ayudas directas, las intervenciones del Fondo Europeo Agrícola de Desarrollo Rural (Feader) asimiladas al Sistema Integrado de Gestión y Control (SIGC), así como todas las ayudas que pueda percibir derivadas del ejercicio de dicha actividad agraria, ya sean financiadas con cargo a los fondos europeos o bien sean ayudas nacionales.
+
+Los ingresos procedentes de la comercialización de productos agrarios transformados o acondicionados, conforme a la definición establecida en el artículo 3, se considerarán ingresos de las actividades agrarias siempre que los productos transformados sigan siendo propiedad del agricultor y que dicha transformación tenga como resultado otro producto agrario.
+
+Los ingresos ligados al autoconsumo en la propia explotación pueden ser considerados ingresos agrarios, debiendo conservarse justificación documental en caso de que los mismos no se vean reflejados en la liquidación de impuestos correspondiente.
+
+A los efectos del cómputo de ingresos agrarios se tendrán en cuenta las indemnizaciones percibidas a través del Sistema de Seguros Agrarios Combinados.
+
+En relación con la aplicación del apartado 4, a los efectos del cómputo de los ingresos totales, se tendrán en cuenta las siguientes particularidades. En primer lugar, no se computan en el concepto de ingresos totales las ganancias y pérdidas patrimoniales derivadas de transmisiones de bienes inmuebles. Y, en segundo lugar, en el caso de entidades de derecho público o entidades sin ánimo de lucro deben considerarse todos los ingresos de la entidad en cuestión, que conforme a las obligaciones contables que se les aplican quedan reflejados en su plan de contabilidad o cuentas anuales.
+
+En caso de que el beneficiario sea una persona física, los ingresos agrarios serán los recogidos como ingresos totales en su Declaración del Impuesto sobre la Renta de las Personas Físicas (IRPF), en el apartado rendimientos de actividades agrícolas, ganaderas y forestales, en estimación objetiva o directa. El agricultor podrá autorizar a la autoridad competente para que recabe, de la Administración Tributaria, la citada información fiscal con el fin de comprobar el cumplimiento del porcentaje establecido. En caso de no presentar dicha autorización, el beneficiario deberá aportar la documentación pertinente.
+
+En el caso de beneficiarios que realizan la declaración conjunta del IRPF con el resto de los miembros de la unidad familiar, para la verificación de la proporción del 25 % de ingresos agrarios frente a ingresos totales podrán utilizarse los conceptos fiscales tanto de forma individual como de forma conjunta, considerándose cumplido el requisito si se alcanza la proporción por cualquiera de los dos métodos.
+
+En caso de que el beneficiario sea una comunidad de bienes, herencia yacente o comunidad de herederos, sociedad civil sin objeto mercantil o explotación en régimen de titularidad compartida, los ingresos agrarios del socio o comunero de la agrupación para el cual se verificará el requisito, si se trata de una persona física, serán los recogidos como ingresos totales en su Declaración del Impuesto sobre la Renta de las Personas Físicas (IRPF), en el apartado rendimientos de actividades agrícolas, ganaderas y forestales, en estimación objetiva o directa. Para este cálculo también se podrá tener en cuenta los ingresos íntegros por atribución de rentas que le correspondan al citado socio o comunero en función de su porcentaje de participación en la sociedad o entidad. Por el contrario, si el socio o comunero de la agrupación para el cual se verificará el requisito es una persona jurídica sujeta al Impuesto sobre Sociedades, los ingresos agrarios y totales serán los recogidos en dicha liquidación. El agricultor podrá autorizar a la autoridad competente para que recabe, de la Administración Tributaria, la citada información fiscal con el fin de comprobar el cumplimiento del porcentaje establecido. En caso de no presentar dicha autorización, el beneficiario deberá aportar la documentación pertinente. Además, deberá declarar, en su solicitud única, los ingresos correspondientes a la actividad agrícola y ganadera, en cuyo caso la autoridad competente comprobará, si procede, la coherencia entre los ingresos declarados por el beneficiario y los ingresos recogidos en la declaración informativa anual de entidades en régimen de atribución de rentas.
+
+En caso de que el beneficiario sea una persona jurídica, distinta a sociedad civil sin objeto mercantil o un grupo de personas jurídicas, deberá declarar en su solicitud única el total de ingresos agrarios y de ingresos totales percibidos. No obstante, si el beneficiario es persona jurídica contribuyente del Impuesto sobre Sociedades, podrá autorizar a la autoridad competente para que recabe, de la Administración Tributaria, la citada información fiscal con el fin de comprobar el cumplimiento del porcentaje establecido, excepto en el caso especial de entidades de derecho público y entidades sin ánimo de lucro total o parcialmente exentas del Impuesto sobre Sociedades, que deberán declarar sus ingresos agrarios y totales conforme a lo indicado en el quinto párrafo de este apartado. La autoridad competente exigirá, cuando lo estime necesario, todos aquellos documentos que considere adecuados para verificar la fiabilidad del dato declarado.
+
+Cuando el titular de la Solicitud Única es una SAT, a efectos de la declaración de ingresos agrarios e ingresos totales para el cumplimiento del requisito de agricultor activo, los ingresos que declare deben ser los de su propia actividad económica, excluyendo los de la actividad económica que pueda realizar en nombre del resto de socios o de otros agricultores.
+
+En el caso de ayudas del POSEI no incluidas en la solicitud única, la autoridad competente establecerá el modo de comunicar los datos correspondientes.
+
+A los efectos del cómputo de los ingresos que debe efectuarse en aplicación de los apartados 4 y 5 de este artículo, así como del artículo 6.5, se considerarán los ingresos brutos, entendiéndose por ingresos brutos los computados antes de deducir los costes e impuestos correspondientes.
+
+6\. El beneficiario que no cumpla las condiciones anteriores no será considerado agricultor activo, por lo que perderá el derecho al cobro de las intervenciones y de las ayudas en las que el requisito de agricultor activo es de aplicación conforme a lo establecido en el artículo 4.
+
+> Se modifica el cuarto párrafo del apartado 4 por el art. 7.1 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se modifican los apartados 4 y 5 por el art. 3.2 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 6. Actividades excluidas.
+
+1\. No tendrán consideración de agricultores activos los beneficiarios cuya actividad económica principal, conforme a la Clasificación Nacional de Actividades Económicas (CNAE) o conforme al Impuesto sobre Actividades Económicas (IAE), se corresponda con actividades de aeropuertos, instalaciones ferroviarias, instalaciones de abastecimiento de agua, servicios inmobiliarios con fincas de naturaleza rústica e instalaciones deportivas y recreativas, cuyos códigos se detallan en el anexo II. Se entiende por actividad principal aquella que genere un mayor porcentaje de ingresos brutos al beneficiario, que se determinarán con base en los datos del periodo impositivo disponible más reciente y conforme a lo establecido en el artículo 5.5.
+
+2\. Tampoco se considerará agricultor activo si el beneficiario ejerce el control de una entidad asociada, cuya actividad económica principal conforme al CNAE o conforme al IAE se corresponda con los códigos recogidos en el párrafo anterior.
+
+2 bis. En el caso de que el beneficiario sea una comunidad de bienes, herencia yacente o comunidad de herederos, sociedad civil sin objeto mercantil o explotación en régimen de titularidad compartida, no se considerará agricultor activo cuando el socio con mayor participación en la agrupación tenga como actividad económica principal, conforme al CNAE o conforme al IAE, alguno de los códigos recogidos en el apartado 1.
+
+3\. En el caso de las personas jurídicas o grupos de personas jurídicas, tampoco se considerará agricultor activo cuando la persona jurídica o grupo de personas jurídicas sea controlada por una entidad asociada, cuya actividad económica principal conforme al CNAE o conforme al IAE se corresponda con los códigos recogidos en el apartado 1.
+
+4\. Se entenderá como entidad asociada a toda entidad directa o indirectamente relacionada con el agricultor por una relación de control exclusivo en forma de propiedad íntegra o participación mayoritaria. De acuerdo con el artículo 59.4 del Reglamento (UE) 2021/2116 el agricultor deberá declarar sus entidades asociadas en la solicitud única. En el caso de ayudas del POSEI no incluidas en la solicitud única, la autoridad competente establecerá el modo de comunicar los datos correspondientes.
+
+5\. No obstante lo dispuesto en los apartados 1, 2, 2 *bis* y 3, se considerará que los agricultores cuya actividad económica principal es alguna de las actividades excluidas pueden cumplir el requisito de agricultor activo si aportan pruebas verificables que demuestren que el 25 % o más de sus ingresos totales son ingresos agrarios en el periodo impositivo disponible más reciente, teniendo también en cuenta a estos efectos, si procede, los ingresos correspondientes a los socios o comuneros o a las entidades asociadas a los mismos que ejerzan actividades excluidas como actividad principal.
+
+A los efectos del cálculo de esta la proporción es de aplicación lo establecido al respecto en los apartados 4 y 5 del artículo 5.
+
+En el caso de que por causas justificadas los ingresos agrarios del periodo impositivo disponible más reciente no cumplan la proporción del 25 %, o del 5 %, según corresponda, la autoridad competente podrá tener en cuenta los ingresos agrarios de alguno de los dos periodos impositivos inmediatamente anteriores.
+
+En el caso de quienes se incorporen a la actividad agraria, el requisito correspondiente a la proporción de ingresos agrarios sobre el total de ingresos deberá cumplirse, a más tardar, en el segundo periodo impositivo siguiente al de solicitud, o incluso con posterioridad, en circunstancias debidamente justificadas a juicio de la autoridad competente, motivadas por el periodo de entrada en producción de determinados cultivos. En este segundo período impositivo, no podrá acogerse a la excepción establecida por el artículo 7 de este real decreto. En el caso de que una entidad cambie de número de identificación fiscal, tratarse, pues, de un nuevo NIF, por cambio de denominación o del estatuto jurídico de la explotación, no podrá considerarse por ese solo hecho que se trata de una incorporación a la actividad agraria.
+
+A los efectos del párrafo anterior, la autoridad competente establecerá cómo debe justificarse la incorporación a la actividad agraria, bien mediante la ausencia de ingresos agrarios en el ejercicio fiscal más reciente y en los dos ejercicios fiscales anteriores; o bien por no ser titular de una solicitud única en ninguna de las cinco campañas inmediatamente anteriores.
+
+> Se modifica por el art. 3.2 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifican los apartados 1 y 5 por el art. 3.3 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 7. Excepciones a las obligaciones de agricultor activo.
+
+1\. El requisito de agricultor activo se considera automáticamente cumplido por los agricultores que habiendo sido beneficiarios de pagos directos el año anterior, con base en la solicitud única de dicha campaña, han percibido menos de 5.000 euros en pagos directos antes de la aplicación de las penalizaciones administrativas por incumplimiento de los criterios de subvencionabilidad o condicionalidad.
+
+2\. También podrán acogerse a esta disposición aquellos agricultores que, sin haber sido beneficiarios de pagos directos el año anterior, han adquirido la condición de titular de explotación mediante:
+
+a) Una cesión de explotación según se establece en el artículo 114.1 y dicha explotación sí cumple los criterios del apartado 1. Estas cesiones o cambios de titularidad se podrán producir desde la fecha final de modificación de solicitud única de la campaña anterior hasta la fecha final de modificación de solicitud única de la campaña en curso.
+
+b) Un cambio de titularidad por motivo de herencias, jubilaciones o incapacidad laboral permanente en los que el cesionario sea un familiar de hasta tercer grado del cedente, programas aprobados de cese anticipado, agrupaciones de varias personas físicas o jurídicas en otra persona jurídica o ente sin personalidad jurídica (fusiones) o escisiones de personas jurídicas o de agrupaciones de personas físicas, así como las modificaciones de los arrendamientos debidos a cambios de titularidad (donde el nuevo propietario se subroga al arrendamiento vigente), siempre que la explotación o el conjunto de explotaciones cumpla los criterios del apartado 1. Un cambio de denominación o del estatuto jurídico de la explotación, una fusión por absorción o una escisión, donde permanece la misma explotación de origen en la campaña en curso, deberán tratarse como la misma explotación conforme al apartado 1.
+
+Estas cesiones o cambios de titularidad se podrán producir desde la fecha final de modificación de solicitud única de la campaña anterior hasta la fecha final de modificación de solicitud única de la campaña en curso.
+
+En todo caso, el cesionario de la explotación o de unidades de producción diferenciadas que se acoja a esta excepción, no podrá cederla a continuación, dado que debe solicitar la ayuda e inscribir la explotación a su nombre en el correspondiente registro, conforme al artículo 114.3.
+
+Si el cesionario hubiera recibido pagos de la campaña de solicitud anterior, no podrá acogerse a esta excepción y se verificará el requisito de agricultor activo por sus propios datos.
+
+Si un mismo cesionario recibiera varias cesiones o cambio de titularidad de explotación que cumplieran todas ellas con el apartado 1, para aplicar la excepción se deberá tener en cuenta el cómputo total de la suma de pagos de todos los cedentes.
+
+> Se modifica el apartado 2.a) por el art. 3.3 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica el apartado 2 por el art. 3.4 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+> Redactado el apartado 2.b) conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023. [Ref. BOE-A-2023-2253](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2253)
+
+### CAPÍTULO II — Requisitos comunes a las superficies agrarias por las que se solicita ayuda
+
+###### Artículo 8. Consideraciones generales para el ejercicio de la actividad agraria.
+
+1\. Conforme a lo dispuesto en el artículo 3, la actividad agraria sobre las superficies agrarias de la explotación podrá acreditarse mediante la producción, cría o cultivo de productos agrarios, con inclusión de la cosecha, el ordeño, la cría de animales, o mediante el mantenimiento de las superficies agrarias en estado adecuado para el pasto o el cultivo sin ninguna acción preparatoria que vaya más allá de los métodos y maquinaria agrícolas empleados de forma habitual. Dicha actividad deberá realizarse en cada parcela agrícola que el beneficiario declare en su solicitud.
+
+2\. La actividad de producción sobre las superficies agrarias consiste en la realización de una actividad anual de las indicadas en el anexo III conducente a la obtención de productos agrarios, en la acepción establecida en el artículo 3.
+
+En la solicitud única, para cada parcela agrícola se declarará el cultivo o aprovechamiento, con indicación del producto cuando se trata de tierras de cultivo y de cultivos permanentes. Cuando sea procedente, deberán facilitarse los siguientes datos adicionales: variedad, sistema de explotación (secano o regadío), año de plantación (para cultivos leñosos), tipo de material vegetal de reproducción utilizado y destino del cultivo. En el caso de ayudas del POSEI no incluidas en la solicitud única, la autoridad competente establecerá el modo de declarar los datos correspondientes.
+
+En los recintos de pastos permanentes en la solicitud se indicará expresamente si se va a realizar actividad de producción mediante pastoreo con animales pertenecientes la propia explotación o mediante siega. Se entenderá que un animal pertenece a una explotación cuanto el titular de la misma es también el titular del ganado.
+
+Cuando se trate de pastos utilizados en común que tengan código propio de explotación, indistintamente de su titularidad pública o privada, se entenderá que se ha realizado actividad de pastoreo con animales pertenecientes a la propia explotación siempre que el beneficiario mantenga en todo momento la titularidad del ganado presente en el pasto y existan las correspondientes guías de movimiento entre la explotación de la que éste sea titular y el pasto.
+
+3\. Las actividades de mantenimiento en estado adecuado para el cultivo o el pasto consistirán en la realización de alguna actividad anual de las indicadas en el anexo III. Se deberá conservar a disposición de las autoridades competentes toda la documentación justificativa de las tareas ejecutadas, así como de los gastos y pagos incurridos en la realización de las mismas. Esta actividad anual deberá tener una duración e intensidad adecuada al fin perseguido.
+
+En el caso de pastos permanentes utilizados en común de titularidad pública, las actividades de mantenimiento recogidas en el anexo III serán subvencionables siempre y cuando se cumplan las disposiciones relativas a pastos permanentes de titularidad pública utilizados en común, especificadas en el anexo IV. A tal efecto, la normativa reguladora autonómica o local deberá contemplar la posibilidad de formalizar acuerdos con el adjudicatario para la realización de dichas actividades de mantenimiento.
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023. [Ref. BOE-A-2023-2253](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2253)
+
+###### Artículo 9. Consideraciones sobre la subvencionabilidad de las hectáreas declaradas.
+
+1\. A efectos de aquellas intervenciones en forma de pagos directos que se hayan de conceder por superficie agraria, se consideran hectáreas subvencionables, las superficies agrarias de la explotación, incluidas las superficies plantadas de árboles forestales de ciclo corto, en las que se realice una actividad agraria.
+
+2\. A los efectos del párrafo anterior, deberá realizarse una actividad agraria de las establecidas en el artículo 8 en todas y cada una de las parcelas agrícolas por las cuales se solicite una ayuda. Dicha actividad tendrá una frecuencia como mínimo anual, y tendrá una intensidad, naturaleza, duración y calendario adecuados al fin de producción o mantenimiento perseguido.
+
+En casos debidamente justificados, por razones medioambientales, las comunidades autónomas podrán establecer que las actividades de producción o de mantenimiento puedan realizarse cada dos años.
+
+3\. Cuando la superficie se utilice igualmente para actividades no agrarias, seguirá siendo subvencionable siempre que se utilice predominantemente para actividades agrarias. Cuando una superficie agraria de una explotación se utilice también para actividades no agrarias, esta superficie se considerará predominantemente utilizada para actividades agrarias, siempre que éstas puedan realizarse sin estar sensiblemente obstaculizadas por la intensidad, naturaleza, duración y calendario de las actividades no agrarias.
+
+4\. También se considerarán hectáreas subvencionables las superficies utilizadas para justificar derechos de pago único en el año 2008, y que:
+
+a) Hayan dejado de cumplir la definición de «subvencionable» a consecuencia de la aplicación de las Directiva 2009/147/CE del Parlamento Europeo y del Consejo, de 30 de noviembre de 2009, relativa a la conservación de las aves silvestres, de la Directiva 92/43/CEE del Consejo, de 21 de mayo de 1992, relativa a la conservación de los hábitats naturales y de la fauna y flora silvestres o de la Directiva 2000/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre de 2000, por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas;
+
+b) O que, durante el transcurso del correspondiente compromiso de cada agricultor, sea forestada de conformidad con el artículo 31 del Reglamento (CE) número 1257/1999 del Consejo, de 17 de mayo de 1999, sobre la ayuda al desarrollo rural a cargo del Fondo Europeo de Orientación y de Garantía Agrícola (FEOGA), o el artículo 43 del Reglamento (CE) número 1698/2005, de 20 de septiembre de 2005, o con arreglo al artículo 22 del Reglamento (UE) número 1305/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, o en los artículos 70 o 73 del Reglamento (UE) número 2021/2115, del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021;
+
+c) O que, durante el transcurso del correspondiente compromiso de cada agricultor, sea una superficie que se haya retirado de la producción con arreglo a los artículos 22 a 24 del Reglamento (CE) número 1257/1999, de 17 de mayo de 1999, o al artículo 39 del Reglamento (CE) número 1698/2005, de 20 de septiembre de 2005, y al artículo 28 del Reglamento (UE) número 1305/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, o al artículo 70 del Reglamento (UE) número 2021/2115, del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
+
+5\. Además, se considerará subvencionable cualquier superficie de la explotación que:
+
+a) Esté cubierta por elementos del paisaje sujetos a la obligación de mantenimiento prevista en la norma BCAM 8, mencionada en el anexo II del Real Decreto 1049/2022, de 27 de diciembre, por el que se establecen las normas para la aplicación de la condicionalidad reforzada y de la condicionalidad social que deben cumplir las personas beneficiarias de las ayudas en el marco de la Política Agrícola Común que reciban pagos directos, determinados pagos anuales de desarrollo rural y del Programa de Opciones Específicas por la Lejanía y la Insularidad (POSEI);
+
+b) **(Sin contenido)**
+
+c) Durante la vigencia del compromiso correspondiente del agricultor, se establezca o conserve como resultado de un ecorrégimen previsto en el título III.
+
+6\. Las hectáreas sólo se considerarán subvencionables si cumplen los criterios de subvencionabilidad y las normas de condicionalidad en todo momento a lo largo del año natural en que se presenta la solicitud, excepto en caso de fuerza mayor o en circunstancias excepcionales. En los casos en los que la superficie se utilice igualmente para actividades no agrarias y éstas se ajusten a una determinada duración o calendario, de conformidad con lo establecido en el apartado 3, los criterios de subvencionabilidad habrán de cumplirse durante el todo el tiempo que la actividad agraria no quede obstaculizada por las mismas.
+
+7\. Cuando determinados elementos no agrarios, distintos de los elementos del paisaje mencionados en el apartado 5.a), formen parte tradicionalmente de las buenas prácticas agrícolas de cultivo o utilización en la superficie agraria, la superficie correspondiente será considerada parte de la superficie subvencionable de una parcela agrícola, siempre que no exceda una anchura total de 4 metros
+
+8\. A efectos de lo establecido en este artículo, se deberá tener en cuenta la definición del coeficiente de subvencionabilidad de pastos (en adelante, CSP) de tal manera que la superficie subvencionable máxima de un recinto de pastos permanentes será la superficie total del recinto multiplicada por dicho coeficiente.
+
+9\. En el caso de los sistemas de utilización de las tierras que combinan el mantenimiento de árboles con la agricultura en las mismas tierras, se debe determinar el número máximo de árboles por hectárea atendiendo a las condiciones edafoclimáticas y medioambientales locales, las especies forestales, las prácticas de cultivo tradicionales y la necesidad de garantizar la utilización agrícola sostenible de las tierras de forma similar a como se haría en parcelas sin árboles en la misma superficie. Puesto que son condiciones inherentes a cada territorio, la determinación de las condiciones de cada región será especificada por las autoridades regionales para el mantenimiento de sus sistemas agroforestales. No obstante, el número máximo de árboles por hectárea no podrá superar los 100. No obstante, ese límite no se aplicará a los sistemas agroforestales que se establezcan bajo las condiciones aplicables a las intervenciones contempladas en los artículos 70 y 73 del Reglamento (UE) 2021/2115 por el que se establecen normas en relación con la ayuda a los planes estratégicos de la PAC, para las cuales además las autoridades de gestión regionales podrán establecer un número mínimo de árboles por hectárea.
+
+10\. Las hectáreas agrícolas distintas de las especificadas en el párrafo anterior que entren en la definición de bosque a afectos de las ayudas al desarrollo rural, así como la superficie agrícola considerada como bosque para recibir ayuda al desarrollo rural, serán subvencionables siempre y cuando se pueda comprobar que existe actividad agraria en las mismas, y las prácticas agrarias que en ellas se realicen no supongan una doble financiación con los requisitos o compromisos exigibles para percibir ayudas al desarrollo rural.
+
+Sin perjuicio de lo anterior, no tendrán consideración de hectáreas subvencionables, a efectos de los tipos de intervenciones en forma de pagos directos, las superficies forestadas de conformidad con el artículo 31 del Reglamento (CE) número 1257/1999 del Consejo, de 17 de mayo de 1999, sobre la ayuda al desarrollo rural a cargo del Fondo Europeo de Orientación y de Garantía Agrícola (FEOGA), o el artículo 43 del Reglamento (CE) número 1698/2005, de 20 de septiembre de 2005, o con arreglo al artículo 22 del Reglamento (UE) número 1305/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, o en virtud el artículo 73 del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021 una vez finalizado el plazo máximo durante el cual dichas superficies pueden beneficiarse de las ayudas establecidas en dicha normativa, excepto en caso de que cuenten con la autorización ambiental correspondiente que permita la reversión a pasto de dicha superficie.
+
+11\. En el caso de destinar las parcelas agrícolas al cultivo de cáñamo, solo se podrán utilizar semillas certificadas de las variedades que figuran en el Catálogo común de las variedades de especies de plantas agrícolas, en el Registro español de variedades comerciales, o que tengan concedida una autorización de comercialización conforme a la Decisión 2004/842/CE, de la Comisión, de 1 de diciembre de 2004, relativa a disposiciones de aplicación por las que los Estados miembros pueden autorizar la comercialización de semillas pertenecientes a variedades para las que se haya presentado una solicitud de inscripción en el catálogo nacional de variedades de especies de plantas agrícolas y hortícolas, a fecha de fin de plazo de presentación de la solicitud. Estas variedades solo serán subvencionables si tienen un contenido de tetrahidrocannabinol no superior al 0,3 %.
+
+El cultivo debe mantenerse en condiciones normales de crecimiento, y de acuerdo con las prácticas locales hasta como mínimo diez días después de la floración, a fin de permitir la realización de los controles específicos para la aplicación de lo establecido en el primer párrafo de este artículo. No obstante, la autoridad competente podrá autorizar que se coseche el cáñamo después del inicio de la floración, pero antes de que transcurran los diez días tras el fin de la floración, si los inspectores indican para cada parcela de que se trate las partes representativas que deben seguir cultivándose como mínimo durante los diez días siguientes al final de la floración a los efectos de la inspección, de conformidad con el método establecido en el anexo I del Reglamento Delegado (UE) número 2022/126, de la Comisión, de 7 de diciembre de 2021.
+
+12\. En el caso de instalaciones energéticas como placas solares o aerogeneradores ubicadas sobre parcelas agrícolas, dichas instalaciones tendrán la consideración de superficies improductivas y deberán ser descontadas de la superficie elegible de la parcela.
+
+Sin perjuicio de lo anterior, en el caso de instalaciones agrivoltaicas, la totalidad de la superficie de la parcela de tierra de cultivo o cultivo permanente seguirá considerándose elegible.
+
+Para garantizar que la agricultura siga siendo la actividad principal, se establecerán, a través del desarrollo normativo pertinente, los requisitos a cumplir por este tipo de instalaciones.
+
+> Se añade el apartado 12 por el art. 7.2 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se deja sin contenido la letra b) del apartado 5 y se modifica el 11 por el art. 3.4 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+###### Artículo 10. Regadíos ilegales.
+
+1\. Los beneficiarios de ayudas asociadas y de ecorregímenes que hayan sido sancionados en firme en vía administrativa, por infracciones calificadas de graves y muy graves, contempladas en el artículo 117 del texto refundido de la Ley de Aguas, aprobado por el Real Decreto legislativo 1/2001, de 20 de julio, por la autoridad competente en materia de agua por hacer un uso ilegal de este recurso, tipificado por el artículo 116.3 a), b) y c) del texto refundido de la Ley de Aguas, no recibirán importe alguno para estas ayudas en aquellas hectáreas de regadío por las que se haya impuesto dicha sanción y para las que, durante la vigencia de la misma, hayan solicitado dichas ayudas en el periodo de solicitud única del que se trate. En el caso de que sea necesario recuperar los pagos indebidos, deberá ser reintegrado por los agricultores afectados, si así se considera, o bien compensado mediante una reducción equivalente de los importes de las ayudas reguladas por este real decreto que haya de percibir en campañas siguientes.
+
+2\. A tal fin, con carácter previo al pago de las ayudas, y para el caso de cuencas intercomunitarias, el Fondo Español de Garantía Agraria O.A coordinará el establecimiento de procedimientos para que las autoridades competentes puedan acceder a la consulta sobre la existencia de sanciones en firme por vía administrativa por infracciones graves y muy graves, por uso ilegal del recurso en los términos previstos en el apartado anterior.
+
+3\. Los beneficiarios de las ayudas asociadas a los agricultores, reguladas en el título III capitulo III sección 1.ª, deberán cumplir con elementos clave como las concesiones, autorizaciones o cualquier otra forma de acceso legal al uso privativo del agua, tal como se describe en el plan de cuenca correspondiente, para garantizar la coherencia con los objetivos de la Directiva 2000/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre de 2000, por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas
+
+> Se modifica el apartado 1 por el art. 7.3 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se modifican los apartados 1 y 2 por el art. 3.5 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Téngase en cuenta que estas modificaciones surten efectos desde el 1 de enero de 2023, según establece la disposición final única.2 del citado Real Decreto.
+
+###### Artículo 11. Parcelas agrícolas a disposición del agricultor.
+
+1\. Las parcelas agrícolas de hectáreas subvencionables utilizadas para justificar derechos de ayuda o para optar a cualquier intervención que se conceda por superficie agraria deberán estar a disposición del agricultor, bien en régimen de propiedad, usufructo, arrendamiento, aparcería o asignación por parte de una entidad gestora de un bien comunal. El agricultor debe ostentar sobre las mismas el poder de adopción de decisiones en relación con las actividades agrarias desempeñadas en esa superficie, obteniendo los beneficios y asumiendo los riesgos financieros derivados de esas actividades. La documentación que acredite que las parcelas están a disposición del agricultor deberá ser aportada a la administración en caso de ser requerida.
+
+En el caso de las intervenciones en forma de pagos directos, las parcelas deben estar a disposición del agricultor a fecha fin de plazo de modificación de la solicitud única.
+
+En el caso de intervenciones sectoriales, intervenciones del desarrollo rural, y POSEI, las parcelas deben estar a disposición del agricultor a la fecha que se determine por la autoridad competente.
+
+2\. Para cada parcela agrícola por la que se solicite una ayuda se indicará el régimen de tenencia, es decir, si el mismo es propiedad del beneficiario, se explota en régimen de arrendamiento o aparcería (indicando en estos casos el NIF del arrendador o cedente aparcero para parcelas ubicadas en recintos mayores de una hectárea), usufructo o si se trata de una superficie comunal asignada por una entidad gestora de la misma, en cuyo caso deberá aportar la documentación relativa a dicha asignación.
+
+> Se modifica el apartado 2 por el art. 7.4 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se modifica el apartado 2 por el art. 3.6 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+###### Artículo 12. Situaciones de riesgo de incumplimiento de los requisitos comunes a las superficies agrarias por las que se solicita ayuda.
+
+1\. Se prestará una atención especial a las personas físicas o jurídicas que puedan crear condiciones artificiales para eludir las exigencias de actividad agraria en las superficies de su explotación, en los términos previstos en este artículo, así como el artículo 3 Real Decreto 1047/2022, de 27 de diciembre, por el que se regula el sistema de gestión y control de las intervenciones del Plan Estratégico y otras ayudas de la Política Agrícola Común.
+
+2\. Se podrá considerar como una situación de riesgo de falta de actividad agraria los niveles bajos de ingresos agrarios del beneficiario en relación con los pagos directos percibidos. Para detectar esta situación de riesgo la autoridad competente realizará las comprobaciones necesarias.
+
+3\. Se podrá considerar una situación de riesgo que las parcelas de pastos declaradas se ubiquen a una distancia superior a 50 kilómetros de la ubicación principal de la instalación o instalaciones ganaderas de las que es titular el beneficiario sin que existan registros de movimiento de ganado de la explotación a dichas parcelas. Esta distancia se considerará orientativa, pudiendo la autoridad competente modificarla si a su criterio concurren causas que lo justifiquen.
+
+4\. Asimismo, se podrá considerar una situación de riesgo el que la dimensión de las unidades de producción ganadera de la explotación sea incoherente con la superficie de pastos declarada. A tales efectos, la autoridad competente definirá una carga ganadera mínima teniendo en cuenta el promedio de animales en la explotación, la superficie total de pastos determinada, las particularidades del proceso productivo en los distintos tipos de explotación ganadera y especies, así como la tipología, composición botánica, estructura y condiciones agroclimáticas de los pastos en cuestión. En cualquier caso, la carga ganadera mínima establecida para ser considerada una situación de riesgo no podrá ser inferior a 0,20 Unidades de Ganado Mayor (UGM) por hectárea, salvo en circunstancias excepcionales o por causa de fuerza mayor, especialmente derivadas de la ubicación de los pastos en parques naturales o espacios protegidos o de alteraciones climáticas severas, en las que la disponibilidad de pasto se encuentre comprometida, en coherencia con lo dispuesto en el artículo 30.2. Para el cálculo de las UGM se utilizará la tabla prevista en el anexo V.
+
+5\. Con el objeto de comprobar si se trata de superficies abandonadas, se podrá considerar como una situación de riesgo cuando determinadas superficies se hayan declarado, de forma reiterada, durante tres años consecutivos o más, en barbecho o una actividad exclusivamente basada en el mantenimiento en estado adecuado.
+
+También se podrá considerar una situación de riesgo de falta de actividad agraria la declaración de actividades de mantenimiento en una parte significativa de las parcelas agrícolas de la explotación.
+
+6\. Por constituir una situación de elevado riesgo de abandono, no se considerarán subvencionables superficies de una parcela o recinto en la que:
+
+a) Se haya declarado, de forma reiterada, durante más de cinco años consecutivos una actividad de mantenimiento de las recogidas en el anexo III, incluyendo el año de presentación de la solicitud única.
+
+b) Esté incluida un recinto inactivo, el cual es considerado aquel que, según el artículo 2.k) del Real Decreto 1047/2022, de 27 de diciembre, no forma parte de ninguna declaración de superficies de la solicitud única de la PAC de las cinco últimas campañas, y para el que tampoco consta que forme parte de ninguna explotación agrícola según la información del REGEPA o del REA de los cinco años anteriores, o que perteneciendo a una explotación agrícola según el REGEPA o el REA, no se ha registrado ninguna actualización de la información inscrita por su titular en los últimos cinco años
+
+Dichas superficies solo serán subvencionables si el beneficiario puede demostrar que está realizando una actividad agraria sobre dichas parcelas, presentando la correspondiente alegación al SIGPAC, de conformidad con lo establecido en el artículo 40.2 del Real Decreto 1047/2022, de 27 de diciembre.
+
+## TÍTULO III — Intervenciones en forma de pagos directos
+
+### CAPÍTULO I — Requisitos mínimos
+
+###### Artículo 13. Umbral mínimo para poder recibir pagos directos.
+
+No se concederán pagos directos a los agricultores cuyo importe total antes de aplicar las penalizaciones administrativas por incumplimiento de los criterios de subvencionabilidad o condicionalidad sea inferior a 300 euros. Las comunidades autónomas podrán elevar este umbral, previa comunicación al Fondo Español de Garantía Agraria O.A., siempre que el límite establecido no sea superior a 500 euros.
+
+### CAPÍTULO II — Pagos directos disociados
+
+#### Sección 1.ª Ayuda básica a la renta para la sostenibilidad
+
+###### Artículo 14. Beneficiarios y requisitos.
+
+1\. Tendrán derecho a percibir la ayuda básica a la renta para la sostenibilidad, los agricultores que posean, bien en régimen de propiedad, usufructo o arrendamiento, derechos de ayuda básica a la renta conforme a lo establecido en el Real Decreto 1045/2022, de 27 de diciembre, sobre derechos de ayuda básica a la renta para la sostenibilidad de la Política Agrícola Común.
+
+2\. Dichos agricultores, además, deberán cumplir los siguientes requisitos:
+
+a) Presentar la solicitud única conforme a lo establecido en el artículo 104.1.
+
+b) En dicha solicitud se incluirán los derechos de ayuda básica a la renta por los que el titular quiera percibir el pago conforme a lo dispuesto en el anexo VI, donde se establece la información mínima que deberá contener la solicitud única de ayuda. Los derechos de ayuda sólo podrán ser activados en superficies de la misma región a la que pertenezcan esos derechos, por el agricultor que los tenga disponibles en la fecha límite para la modificación de la solicitud única o que los reciba con posterioridad a dicha fecha mediante cesión o una asignación de nuevos derechos de reserva nacional. De manera excepcional, durante el periodo de presentación de la solicitud única correspondiente al año 2023, el agricultor no conocerá los derechos definitivos de ayuda básica a la renta, sino que dispondrá de información basada en datos procedentes de la conversión provisional de los derechos de pago básico en los nuevos derechos de ayuda básica a la renta con base en el Real Decreto 1045/2022, de 27 de diciembre, por lo que deberá indicar en su solicitud que solicita el pago por todos los derechos que posea en esa campaña.
+
+3\. Cada derecho de ayuda por el que se solicite el pago deberá justificarse con una hectárea subvencionable ubicada en el territorio nacional, con excepción de las ubicadas en la Comunidad Autónoma de Canarias. Dado que la Ayuda básica a la renta para la sostenibilidad estará constituida por 20 regiones diferentes, de acuerdo con el anexo II del Real Decreto 1045/2022, de 27 de diciembre, cada derecho únicamente podrá ser activado en la región en la que pertenezca tras la conversión definitiva en la campaña 2023.
+
+###### Artículo 15. Activación de los derechos de ayuda.
+
+1\. Se considerarán derechos de ayuda activados aquéllos justificados en la solicitud única sobre hectáreas subvencionables a disposición del agricultor, pertenecientes a la misma región resultante de la conversión de derechos en 2023, según el Real Decreto 1045/2022, de 27 de diciembre, cuya superficie resulte determinada conforme al sistema integrado de gestión y control previsto en el título X del Real Decreto 1047/2022, de 27 de diciembre.
+
+2\. Cuando un agricultor, después de haber activado todos los derechos de pago completos posibles, necesite utilizar un derecho de pago unido a una parcela agrícola que represente una fracción de hectárea, este último derecho de pago le legitimará para recibir una ayuda calculada proporcionalmente al tamaño de la parcela agrícola y se considerará completamente utilizado.
+
+2 bis. A los efectos de activación de los derechos de pago, se declararán todos aquellos para los que consten como titular en el sistema de identificación y registro de los derechos, indicando además que se activen los que pueda recibir mediante cesiones de derechos y/o los que se le asignen por la reserva nacional, si hubiese presentado solicitud a la misma en esa campaña.
+
+Se considerará que se han utilizado en primer lugar los derechos de ayuda básica a la renta de la reserva nacional si fuese titular de este tipo de derechos. Entre estos, en primer lugar, se activarán los derechos nuevos de reserva nacional y, en segundo lugar, los derechos incrementados al valor medio regional por la reserva nacional.
+
+A continuación, se activarán los derechos de pago de mayor valor unitario a los de menor valor.
+
+A igual valor unitario, la activación se realizará por orden creciente del código identificativo del derecho.
+
+3\. Si un agricultor que dispone de derechos de pago no activa dichos derechos durante dos años consecutivos, estos pasarán a la reserva nacional. Si se trata de derechos de ayuda básica a la renta, procedentes de la reserva nacional, tanto nuevos derechos como aquellos derechos cuyos importes se hayan visto incrementados hasta el valor medio regional, pasarán de nuevo a la reserva nacional si no son activados en cada una de las cinco primeras campañas, es decir, la campaña de asignación y las cuatro campañas siguientes, salvo causas de fuerza mayor reconocidas por la autoridad competente.
+
+> Se modifica el segundo párrafo del apartado 2 bis por el art. 3.7 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se añade el apartado 2 bis por el art. 3.5 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 16. Limitación y reducción progresiva de los pagos.
+
+1\. A todo agricultor al que se le deba conceder un montante en virtud de la ayuda básica a la renta, cuyo importe sea superior a los 60.000 euros, se le aplicará una reducción en la parte del importe de ayuda básica a la renta que sobrepase dicha cantidad. El porcentaje de reducción a aplicar se hará de acuerdo con los siguientes tramos:
+
+a) el 25 % para el tramo comprendido entre 60.000 y menos de 75.000 euros;
+
+b) el 50 % para el tramo comprendido entre 75.000 y menos de 90.000 euros;
+
+c) el 85 % para el tramo comprendido entre 90.000 y menos de 100.000 euros.
+
+d) el 100 % para los importes de Ayuda Básica a la Renta que superen los 100.000 euros.
+
+El producto estimado de esta reducción se sumará al montante destinado al pago redistributivo descrito en la sección 2.ª
+
+2\. No obstante, antes de aplicar el apartado anterior, del montante a conceder de ayuda básica a la renta se restarán los costes laborales relacionados con la actividad agraria. Estos costes serán los realmente pagados y declarados por el agricultor en el año natural anterior incluidos los impuestos y cotizaciones sociales relacionadas con el empleo. Dichos costes laborales serán declarados por el agricultor en su solicitud única, conforme a lo establecido en el artículo 105.10 y el anexo VI de este real decreto. Sin perjuicio de lo dispuesto en el párrafo anterior, en el caso de quienes se incorporen a la actividad agraria, se podrá tener en cuenta los costes laborales relacionados con la actividad agraria realmente pagados y declarados por el agricultor, correspondientes al primer año de la solicitud de ayudas. A tales efectos de control, se realizarán los cruces administrativos pertinentes con los datos de la Tesorería General de la Seguridad Social, con la Agencia Tributaria o con los órganos competentes en materia tributaria de los territorios forales, para verificar la coherencia de los datos declarados con los obrantes en las bases de datos de dichas administraciones. En su caso, la autoridad competente podrá requerir del agricultor la documentación necesaria para comprobar la veracidad de los datos declarados.
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, en el caso de quienes se incorporen a la actividad agraria, se podrá tener en cuenta los costes laborales relacionados con la actividad agraria realmente pagados y declarados por el agricultor, correspondientes al primer año de la solicitud de ayudas.
+
+3\. Asimismo y a tales efectos, se podrán descontar los costes laborales incluidos en la contratación de empresas de servicios agrícolas. Para verificar la cuantía de dichos costes a descontar se requerirá la aportación, por parte del agricultor, de documentos contables que justifiquen el gasto laboral asociado al servicio.
+
+4\. En todo caso, el importe máximo de la ayuda básica a la renta a percibir por un agricultor no podrá superar los 200.000 euros.
+
+5\. En el caso de las cooperativas agroalimentarias, cooperativas de trabajo asociado con objeto de explotación agropecuaria y cooperativas de explotación comunitaria de la tierra, de las sociedades agrarias de transformación y de las explotaciones en régimen de titularidad compartida inscritas conforme se establece en la Ley 35/2011, de 4 de octubre, la reducción a la que hace referencia en los puntos anteriores se calculará y aplicará, en su caso, individualmente a cada uno de los miembros que conformen dichas entidades.
+
+> Se modifica el apartado 2 por el art. 3.6 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+#### Sección 2.ª Ayuda redistributiva complementaria a la renta para la sostenibilidad
+
+###### Artículo 17. Objeto y asignación financiera.
+
+1\. El objetivo de esta ayuda es la redistribución más equitativa y atribución más eficaz y eficiente de la ayuda a la renta, hacia las explotaciones medianas y pequeñas, para atender su diferencia de rentabilidad con respecto a las más grandes.
+
+2\. La asignación financiera indicativa anual será la que se indica en el anexo VII y de acuerdo con lo dispuesto en el título VI sobre disposiciones financieras.
+
+###### Artículo 18. Beneficiarios y requisitos.
+
+Tendrán derecho a percibir la ayuda redistributiva a la renta aquellos agricultores que tengan derecho a un pago en virtud de la ayuda básica a la renta para la sostenibilidad regulado por el Real Decreto 1045/2022, de 27 de diciembre.
+
+###### Artículo 19. Cálculo de la ayuda.
+
+1\. Se concederá un pago anual por hectárea subvencionable a las primeras hectáreas, a los beneficiarios según el artículo 18 y, diferenciado en función de la región donde esté ubicada la explotación, de acuerdo con el modelo de regionalización establecido para la ayuda básica a la renta para la sostenibilidad en el artículo 7 del Real Decreto 1045/2022, de 27 de diciembre.
+
+2\. El cálculo de la ayuda se realizará a las primeras hectáreas de las explotaciones con base en dos tramos de umbrales de superficie por región e importes por hectárea según los parámetros establecidos en el anexo VIII, sobre parámetros de cálculo de la ayuda redistributiva a la renta.
+
+En caso de que el beneficiario declare superficie en más de una región, se realizará el cálculo más favorable al beneficiario según el caso:
+
+a) Se priorizarán las primeras hectáreas de la explotación que corresponde a cada región, atendiendo a criterios de proporcionalidad, en función de la superficie subvencionable en cada región, con respecto a la superficie total de la explotación.
+
+b) O bien, atendiendo en primer lugar las regiones de mayor importe unitario planificado para la ayuda básica a la renta conforme al anexo III del Real Decreto 1045/2022, de 27 de diciembre.
+
+3\. En el caso de las cooperativas agroalimentarias, cooperativas de trabajo asociado con objeto de explotación agropecuaria y cooperativas de explotación comunitaria de la tierra, de las sociedades agrarias de transformación y de las explotaciones en régimen de titularidad compartida inscritas conforme se establece en la Ley 35/2011, de 4 de octubre, el cálculo de la ayuda al que se hace referencia en el apartado 2 se podrá calcular y aplicar, en su caso, individualmente a cada uno de los miembros que conformen dichas entidades.
+
+4\. De acuerdo con el mecanismo establecido para evitar la infrautilización de los fondos dispuesto en el título VI del presente real decreto, se fijan en el anexo IX el valor máximo y mínimo por hectárea para la ayuda redistributiva a la renta.
+
+> Se modifica el apartado 2 por el art. 3.7 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+#### Sección 3.ª Ayuda complementaria a la renta para jóvenes agricultores y jóvenes agricultoras
+
+###### Artículo 20. Objeto y asignación financiera.
+
+1\. El objetivo de esta ayuda es favorecer la incorporación de jóvenes agricultoras y jóvenes agricultores, contribuyendo así al relevo generacional en el sector agrario mejorando la rentabilidad de sus explotaciones durante los primeros años de su inicio de actividad.
+
+2\. La asignación financiera indicativa anual será la que se indica en el anexo VII y de acuerdo con lo dispuesto en el título VI sobre disposiciones financieras.
+
+###### Artículo 21. Beneficiarios y requisitos.
+
+Tendrán derecho a percibir la ayuda complementaria a jóvenes agricultores y jóvenes agricultoras según las definiciones del artículo 3, apartados 21 y 22, quienes tengan derecho a percibir un pago en virtud de la ayuda básica a la renta para la sostenibilidad, y, además, a fin de plazo de modificación de la solicitud única, cumplan los siguientes requisitos:
+
+a) En el caso que el agricultor sea una persona física:
+
+1.º Que se haya incorporado recientemente y por primera vez en una explotación agraria como responsable de explotación, según la definición del artículo 3, apartados 24 y 25.
+
+Se considerará una incorporación reciente si se produce en el mismo año de la primera presentación de solicitud subvencionable a la ayuda básica a la renta para la sostenibilidad, o en los cinco años anteriores a esa primera presentación de una solicitud subvencionable. La primera solicitud subvencionable a la presente ayuda complementaria a la renta para jóvenes agricultores y jóvenes agricultoras, también se deberá producirse en los cinco años siguientes a su incorporación como responsable de explotación.
+
+Se considerará por primera vez, si es su primera incorporación a la actividad agraria como responsable de explotación, en toda su vida laboral, según la normativa laboral vigente.
+
+2.º Que figure en situación de alta en la Seguridad Social, en los mismos términos establecidos para este requisito por el artículo 22 del Real Decreto 1045/2022, de 27 de diciembre, aplicables a los jóvenes agricultores.
+
+3.º Que acredite la formación o capacitación adecuada en el ámbito agrario suficiente a fin de plazo de modificación de la solicitud única según el artículo 3.27.
+
+b) En el caso que el agricultor sea una persona jurídica o un grupo de personas físicas o jurídicas, con independencia de su forma jurídica: que el control efectivo a largo plazo sobre la persona jurídica que solicita la ayuda complementaria jóvenes agricultores o jóvenes agricultoras, o sobre la persona jurídica que controla a esta, corresponda a una persona física o un grupo de personas físicas que cumplan las condiciones descritas en el apartado a) de este artículo. A estos efectos, se entenderá que la referencia a la “incorporación” está hecha a la incorporación de jóvenes agricultores o jóvenes agricultoras que ejercen el control de la persona jurídica conforme a las definiciones del artículo 3, apartados 21 y 24. No obstante, en el caso de cooperativas de explotación comunitaria de la tierra, se permitirá a los socios, trabajadores por cuenta ajena en el sistema de la Seguridad Social, ser asimilados a trabajadores por cuenta propia o autónomo por el ejercicio de la actividad agraria.
+
+> Se modifica punto 2º de la letra a) por el art. 3.8 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica la letra b) por el art. 3.8 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 22. Cálculo y duración del pago.
+
+1\. Se concederá un pago anual por hectárea subvencionable, a los beneficiarios según el artículo 21 y será igual al valor medio regional de la región donde esté ubicada la superficie de la explotación, de acuerdo con el modelo de regionalización establecido para la ayuda básica a la renta para la sostenibilidad en el artículo 7 del Real Decreto 1045/2022, de 27 de diciembre. En el caso de jóvenes agricultoras con control efectivo sobre la explotación, el importe de la ayuda será un 15 % superior al valor medio regional que corresponda.
+
+2\. El cálculo de la ayuda se realizará teniendo en cuenta el criterio de proporcionalidad de toda la superficie subvencionable de la explotación ubicada en cada región y será igual al valor medio regional teniendo en cuenta que el máximo número de hectáreas a tener en cuenta no será mayor de 100.
+
+3\. En el caso de las cooperativas agroalimentarias, cooperativas de trabajo asociado con objeto de explotación agropecuaria y cooperativas de explotación comunitaria de la tierra, de las sociedades agrarias de transformación y de las explotaciones en régimen de titularidad compartida inscritas conforme se establece en la Ley 35/2011, de 4 de octubre. La aplicación del umbral al que se hace referencia en el apartado 2 se calculará y aplicará, en su caso, individualmente a cada uno de los miembros que conformen dichas entidades.
+
+4\. El pago se concederá por un máximo de cinco años a partir del año de la primera presentación de una solicitud subvencionable de pago para esta ayuda complementaria (incluida esa primera campaña) y siempre que dicha solicitud se presente durante cada uno de esos cinco años.
+
+Será asimismo aplicable este período de cinco años a los agricultores que hayan recibido el pago para jóvenes agricultores respecto de las solicitudes presentadas antes de 2023, conforme a los artículos 25 y 26 del Real Decreto 1075/2014, de 19 de diciembre, sobre la aplicación a partir de 2015 de los pagos directos a la agricultura y a la ganadería y otros regímenes de ayuda, así como sobre la gestión y control de los pagos directos y de los pagos al desarrollo rural. Es decir, podrán percibir la presente ayuda por los años restantes hasta completar cinco años desde su primera solicitud subvencionable.
+
+5\. De acuerdo con el mecanismo establecido para evitar la infrautilización de los fondos dispuesto en el título VI del presente real decreto, se fijan en el anexo IX el valor máximo y mínimo por hectárea para la ayuda a la renta para jóvenes agricultores.
+
+#### Sección 4.ª Regímenes en favor del clima y el medio ambiente
+
+##### Subsección 1.ª Disposiciones generales
+
+###### Artículo 23. Condiciones comunes.
+
+1\. En virtud de lo dispuesto en la subsección 4 de la sección 2 del capítulo II del título III del Reglamento (UE) número 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, según su artículo 31, los agricultores activos que se comprometan a observar alguna de las prácticas beneficiosas para el clima y el medio ambiente especificadas en el artículo 24, en sus hectáreas subvencionables, percibirán una ayuda según los establecido en este real decreto correspondiente a los regímenes voluntarios en favor del clima y el medio ambiente (en adelante, «ecorregímenes»).
+
+2\. Las prácticas de los ecorregímenes, de conformidad con el artículo 31.5 del Reglamento (UE) 2021/2115, del Parlamento Europeo y del Consejo de 2 de diciembre de 2021, irán más allá de los requisitos legales de gestión y las buenas condiciones agrarias y medioambientales pertinentes y deberán, en todo caso, cumplir con lo establecido en el artículo 5 del Real Decreto 1047/2022, de 27 de diciembre, por el que se regula el sistema de gestión y control de las intervenciones del Plan Estratégico y otras ayudas de la Política Agrícola Común, relativo a las reglas para evitar la doble financiación.
+
+3\. La ayuda para los ecorregímenes consistirá en un pago anual por todas las hectáreas subvencionables declaradas para el cumplimiento de una determinada práctica de entre las especificadas en el artículo 24.3 y que cumplan los requisitos generales, así como los específicos establecidos en cada caso. Para el caso específico del ecorrégimen de agricultura de carbono y agroecología: Pastoreo extensivo en las superficies de pastos húmedos, cuando dichas superficies sean utilizadas en común, se entenderá que la solicitud abarca a toda la superficie de la que el beneficiario sea adjudicatario. No obstante, en el caso de que no se alcance el umbral de carga ganadera mínimo previsto, de acuerdo con lo dispuesto en el artículo 30.2, el número máximo de hectáreas con derecho a la ayuda será aquel con el que, para el número de UGM de esa explotación, se hubiera alcanzado dicha carga ganadera mínima. Esta disposición solo será aplicable cuando la autoridad competente se asegure de la realización de una actividad agraria mínima sobre toda la superficie de pastos húmedos declarada, se solicite o no este ecorrégimen por toda ella.
+
+4\. En ningún caso se superarán los importes máximos por práctica establecidos en el anexo X.
+
+5\. A los efectos de los ecorregímenes, se entenderá como «tipo de superficie», cada una de las categorías recogidas en el artículo 24.
+
+6\. Para cada hectárea subvencionable, sólo será posible el cobro de una ayuda, independientemente de que se realice más de una práctica sobre la misma.
+
+7\. Solo podrán recibir ayuda las explotaciones inscritas en el Registro de Explotaciones Agrícolas (REA) o en el Registro General de Explotaciones Ganaderas (REGA) a fecha de fin de plazo de modificación de la solicitud única.
+
+> Se modifican los apartados 3 y 7 por el art. 3.9 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifican los apartados 2 y 7 por el art. 3.9 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 24. Ecorregímenes, tipos de superficie y prácticas subvencionables.
+
+1\. Se establecen nueve ecorregímenes teniendo en cuenta los beneficios sobre el clima y el medio ambiente que se persiguen en los ámbitos de la Agricultura de Carbono o la Agroecología:
+
+a) Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de Pastos Húmedos.
+
+b) Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de Pastos Mediterráneos.
+
+c) Agricultura de carbono y agroecología: Rotaciones y siembra directa en tierras de cultivo de secano.
+
+d) Agricultura de carbono y agroecología: Rotaciones y siembra directa en tierras de cultivo de secano húmedo.
+
+e) Agricultura de carbono y agroecología: Rotaciones y siembra directa en tierras de cultivo de regadío.
+
+f) Agricultura de carbono: Cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos.
+
+g) Agricultura de carbono: Cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media.
+
+h) Agricultura de carbono: Cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales.
+
+i) Agroecología: Espacios de biodiversidad en tierras de cultivo y cultivos permanentes.
+
+2\. A efectos del apartado anterior, se consideran los siguientes tipos de superficie:
+
+a) Pastos Húmedos.
+
+b) Pastos Mediterráneos.
+
+c) Tierras de Cultivo de Secano.
+
+d) Tierras de Cultivo de Secano Húmedo.
+
+e) Tierras de Cultivo de Regadío.
+
+f) Tierras de Cultivo bajo agua.
+
+g) Cultivos leñosos en pendiente menor al 5 %.
+
+h) Cultivos leñosos en pendiente igual o mayor al 5 % e inferior al 10 %.
+
+i) Cultivos leñosos en pendiente igual o mayor al 10 % y bancales.
+
+j) Cultivos permanentes, incluyendo a los cultivos leñosos.
+
+3\. Para acogerse a los Ecorregímenes previstos en el apartado 1 de este artículo los agricultores podrán realizar las siguientes prácticas:
+
+a) Agricultura de Carbono
+
+i. Pastoreo extensivo.
+
+ii. Siembra directa.
+
+iii. Cubierta vegetal espontánea o sembrada.
+
+iv. Cubierta inerte.
+
+b) Agroecología
+
+i. Islas de biodiversidad o siega sostenible.
+
+ii. Rotación de cultivos con especies mejorantes.
+
+iii. Establecimiento de espacios de biodiversidad.
+
+iv. Gestión de la lámina de agua.
+
+###### Artículo 25. Dotación financiera y degresividad.
+
+1\. La dotación financiera anual indicativa correspondiente a cada ecorrégimen será la que se indica en el anexo XI o, en su caso, la que resulte para cada ecorrégimen de la aplicación de las disposiciones financieras previstas en el artículo 125 referido a trasvases de fondos entre intervenciones.
+
+2\. Una vez realizados, en su caso, los trasvases posibles entre ecorregímenes en virtud de los apartados 1 y 2 del artículo 125, de no existir dotación financiera anual suficiente en un ecorrégimen para atender el pago de todas las hectáreas subvencionables de las solicitudes presentadas para ese ecorrégimen, al menos con el importe planificado para el mismo, según se recoge en el anexo X, se aplicará una degresividad.
+
+Esta degresividad consistirá en la reducción del importe del pago por hectárea en ese ecorrégimen para aquellas hectáreas que superen en número al indicado como umbral para cada tipo de superficie en el anexo XII en la cuantía que resulte necesaria para ajustar el gasto a la dotación financiera anual de dicho ecorrégimen.
+
+El importe final así calculado para estas hectáreas no podrá ser inferior al 70 % del importe esperado.
+
+3\. En el caso de que, aplicado el párrafo anterior, la dotación financiera anual para ese ecorrégimen continuara resultando insuficiente, se reducirá el importe del pago por hectárea para la totalidad de hectáreas en la cuantía que resulte necesaria para ajustar el gasto a la dotación financiera anual de dicho ecorrégimen, debiendo resultar el importe del pago por hectárea en aquellas hectáreas que superen en número al indicado como umbral para cada tipo de superficie en el anexo XII, en todo caso, igual al 70 % del importe del pago por hectárea para un número de hectáreas igual o inferior a dicho umbral y, en ningún caso, inferior al importe mínimo para ese ecorrégimen establecido en el anexo X.
+
+4\. Si aplicados los dos apartados anteriores, la dotación financiera anual para ese ecorrégimen continuara resultando insuficiente, se reducirá el importe del pago por hectárea en ese ecorrégimen para aquellas hectáreas que no han alcanzado el importe mínimo hasta ajustar el gasto a la dotación financiera anual de dicho ecorrégimen. El importe final así calculado no podrá ser inferior al importe mínimo para ese ecorrégimen establecido en el anexo X para ninguna hectárea.
+
+5\. Finalmente, si concediendo a la totalidad de hectáreas subvencionables de las solicitudes presentadas para un ecorrégimen el importe mínimo para ese ecorrégimen establecido en el anexo X, la dotación financiera anual para ese ecorrégimen continuase resultando insuficiente, para atender los importes mínimos correspondientes, se reducirá proporcionalmente el número de hectáreas de cada beneficiario en la cuantía que resulte necesaria para ajustar el gasto a la dotación financiera anual.
+
+6\. No obstante lo anterior, el mecanismo de degresividad no será aplicado en el caso del importe adicional en los ecorregímenes en Islas Baleares, ni en los correspondientes a espacios de biodiversidad en tierras de cultivo y cultivos permanentes, en los que el importe unitario por hectárea será igual para toda la superficie, ni tampoco al complemento adicional de 25 euros por hectárea, que se ha establecido para las prácticas de siembra directa y cubiertas vegetales.
+
+###### Artículo 26. Importe de la ayuda.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, según la información suministrada por las comunidades autónomas tal y como se establece en el artículo 124 establecerá anualmente los importes unitarios para cada uno de los ecorregímenes respetando lo previsto en los artículos 23 y 25.
+
+2\. Los importes correspondientes a Illes Balears serán superiores a los resultantes para la península atendiendo a condicionantes derivadas de la insularidad que suponen mayores costes para la realización de las prácticas previstas en este real decreto.
+
+3\. Los importes calculados se publicarán anualmente en la página web del Fondo Español de Garantía Agraria O.A.
+
+4\. En ningún caso, los importes unitarios podrán ser inferiores a los importes mínimos, ni superar los importes máximos previstos en el anexo X.
+
+##### Subsección 2.ª Disposiciones específicas para los Ecorregímenes de Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de Pastos
+
+###### Artículo 27. Objeto y requisitos generales.
+
+1\. Se concederá una ayuda a los agricultores activos que lo soliciten y cumplan lo previsto en el artículo 23 y la presente subsección, con el objetivo de mejorar la gestión y sostenibilidad de las superficies de pastos bien aumentando la absorción de carbono en estas superficies mediante la realización de una práctica de pastoreo extensivo o bien manteniendo o incrementando la biodiversidad de los pastos estableciendo islas de biodiversidad o prácticas de siega sostenible.
+
+2\. La ayuda adoptará la forma de un pago anual por hectárea subvencionable de pastos permanentes o pastos temporales determinados conforme a lo previsto en el capítulo II del título II de este real decreto.
+
+3\. El establecimiento de islas de biodiversidad previsto en el artículo 31.2 se aplica en el ámbito de explotación, de tal modo que los agricultores que se acojan a esta práctica no podrán solicitar acogerse a la siega sostenible establecida en el artículo 31.4 en ninguna de las hectáreas de pastos de su explotación en las que haya declarado un aprovechamiento con base en siega.
+
+4\. Para recibir las ayudas previstas en esta subsección se crean dos regiones: pastos húmedos y pastos mediterráneos, atendiendo a la pluviometría media, según la serie decenal establecida para los años 2011-2020, registrada en la comarca en la que se ubiquen. De este modo, los pastos ubicados en las comarcas recogidas en el anexo XIII de este real decreto con una pluviometría media igual o superior a 650 mm serán considerados como pastos húmedos.
+
+5\. Para cada uno de los dos ecorregímenes contenidos en esta subsección, el importe de la ayuda recibida por hectárea será el mismo con independencia de la práctica que se realice, dentro de las prácticas previstas en los artículos 30 y 31, sin perjuicio de lo establecido en el artículo 25.
+
+6\. De acuerdo al apartado 4, los pastos de la región insular de Islas Baleares tendrán la consideración de pastos mediterráneos y recibirán un importe adicional de acuerdo con el artículo 29.2.
+
+###### Artículo 28. Ecorrégimen de Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos.
+
+1\. Se concederá una ayuda a los titulares de explotaciones ganaderas que así lo soliciten según lo establecido en el capítulo I del título IV y que sobre sus hectáreas subvencionables de pastos permanentes o pastos temporales ubicadas en la región de pastos húmedos conforme a lo indicado en el artículo 27.4, realicen alguna de las prácticas descritas en los artículos 30 y 31:
+
+a) pastoreo extensivo,
+
+b) establecimiento de islas de biodiversidad o siega sostenible.
+
+2\. Los importes unitarios serán los establecidos en el anexo X.
+
+###### Artículo 29. Ecorrégimen de Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de en pastos mediterráneos.
+
+1\. Se concederá una ayuda a los titulares de explotaciones ganaderas que así lo soliciten según lo establecido en el capítulo I del título IV y que sobre sus hectáreas subvencionables de pastos permanentes o pastos temporales ubicadas en la región de pastos mediterráneos conforme a lo indicado en el artículo 27.4, realicen alguna de las prácticas mencionadas en el artículo 28.1.
+
+2\. En el caso de las Illes Balears, el importe se verá incrementado en 22 euros por hectárea adicionales, respecto al calculado para la Península, en virtud del artículo 26.
+
+###### Artículo 30. Beneficiarios y descripción de la práctica de pastoreo extensivo.
+
+1\. Las explotaciones ganaderas de los beneficiarios deberán estar inscritas en el registro general de explotaciones (REGA) a fecha fin de plazo de modificación de la solicitud única como explotaciones de ganado bovino, ovino, caprino, equino o porcino con el tipo “Producción y Reproducción” o tipo “Pasto”. En el primer caso, con:
+
+a) una clasificación zootécnica de «reproducción para producción de carne», «reproducción para producción de leche» o «reproducción para producción mixta» o «recría de novillas» en el caso del bovino. Asimismo, conforme a lo previsto en el artículo 3.3 del Real Decreto 1053/2022, de 27 de diciembre, por el que se establecen normas básicas de ordenación de las granjas bovinas, estas explotaciones deberán estar clasificadas como extensivas o semi-extensivas a la fecha de finalización del plazo de modificación de la solicitud única.
+
+No obstante, la autoridad competente de la comunidad autónoma podrá admitir los cebaderos comunitarios siempre y cuando se cumpla el objetivo de la ayuda y quede justificado que los animales asociados a esas explotaciones realizan el aprovechamiento a diente durante el tiempo mínimo establecido y respetando las cargas ganaderas requeridas.
+
+b) una clasificación zootécnica de «reproducción para producción de carne», «reproducción para producción de leche» o «reproducción para producción mixta» en el caso del ovino y caprino.
+
+c) Una clasificación zootécnica de «reproducción para producción de carne» o «reproducción mixtas» en el caso del equino.
+
+d) una calificación por sistema productivo como «extensivo» o «mixto» en el caso del porcino.
+
+2\. Para percibir esta ayuda, sobre las hectáreas subvencionables de pastos permanentes o temporales sobre las que se declare actividad de pastoreo, se deberá:
+
+a) Realizar el aprovechamiento a diente de estas superficies con animales propios de la explotación durante un período mínimo de 120 días al año de manera continua o discontinua.
+
+Por causas debidamente justificadas y si las condiciones agroclimáticas en una campaña así lo aconsejan, las autoridades competentes de las comunidades autónomas podrán reducir ese período mínimo de pastoreo hasta los 90 días y deberán comunicarlo al Ministerio de Agricultura, Pesca y Alimentación conforme a lo previsto en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+A estos efectos, el cómputo del tiempo de pastoreo se realizará en el ámbito de explotación agraria, conforme a la definición del artículo 3.4 de este real decreto, de tal modo que deberán ser pastoreadas todas las hectáreas de pastos acogidas a esta práctica, pero no necesariamente cada una de ellas deberá ser pastoreada todos los días mencionados.
+
+b) Durante el periodo de pastoreo, respetar los siguientes intervalos, entre una carga ganadera mínima y una carga ganadera máxima, sobre las superficies de pastos permanentes o de pastos temporales determinadas acogidas a esta práctica:
+
+1.º En los pastos húmedos entre una carga ganadera mínima de 0,4 Unidades de Ganado Mayor (UGM) por hectárea y una carga ganadera máxima 2 UGM/hectárea.
+
+2.º En los pastos mediterráneos entre una carga ganadera mínima de 0,2 UGM/hectárea y una carga ganadera máxima de 1,2 UGM/hectárea.
+
+Para la conversión a UGM se utilizará la tabla prevista en el anexo V.
+
+Con estos fines, las autoridades competentes de las comunidades autónomas obtendrán a partir del Sistema Integral de Trazabilidad Animal (SITRAN) el número de UGM a considerar.
+
+En el caso de que el agricultor no vaya a realizar el pastoreo con todos los animales de su explotación consignará en el momento de solicitud el número de animales de su explotación, por especie, con los que tiene previsto realizar esta práctica.
+
+En circunstancias debidamente justificadas, especialmente derivadas, entre otras, de la ubicación de los pastos en parques naturales u otro tipo de espacios protegidos, de las condiciones agrofísicas de los pastos o por causa de fuerza mayor derivadas, entre otras, de alteraciones climáticas severas, en las que la disponibilidad de pasto se encuentre comprometida, las autoridades competentes de las comunidades autónomas podrán autorizar la reducción de la carga ganadera mínima mencionada en los apartados 1.º y 2.º a 0,2 UGM/ hectárea en pastos húmedos y 0,1 UGM/hectárea en pastos mediterráneos.
+
+Si la reducción de cargas obedece a una condición estructural las autoridades competentes podrán autorizarla para todo el período de aplicación del Plan Estratégico Nacional, aplicándose durante campañas consecutivas siempre que se mantengan las condiciones que dieron lugar a dicha reducción.
+
+No obstante, si la reducción de las cargas ganaderas se debe a un motivo circunstancial, derivado de las condiciones climáticas de una determinada campaña, sólo se autorizará para esa campaña en cuestión.
+
+2 bis. Con el fin de comprobar el cumplimiento del requisito establecido en el apartado 2.a), y para cada explotación ganadera, los beneficiarios deberán incluir en su solicitud única, conforme a lo dispuesto en el anexo VI, la siguiente información:
+
+a) La identificación de las parcelas agrícolas de pasto que son aprovechadas a diente por los animales ubicados en dicha explotación ganadera.
+
+La autoridad competente podrá disponer que esta identificación de las parcelas no sea necesaria en el caso de pastos permanentes utilizados en común, siempre y cuando disponga de la declaración de la autoridad gestora del pasto a la que se hace referencia en el anexo XXIV.
+
+Adicionalmente, de cara a la aplicación del apartado b), en el caso de explotaciones ganaderas distintas de las indicadas en el párrafo anterior, el agricultor podrá agrupar las parcelas de pasto que se sean objeto de un mismo tipo de manejo. A tales efectos, las parcelas agrícolas de pasto que disten entre sí, o respecto a la ubicación de la instalación ganadera principal, menos de diez kilómetros podrán ser consideradas como un grupo de parcelas. La autoridad competente podrá establecer criterios adicionales para definir grupos de parcelas de pasto de acuerdo con la estructura de sus explotaciones, las prácticas tradicionales de manejo de las diferentes especies de ganado y las condiciones agroclimáticas de cada zona.
+
+b) Las fechas previstas de inicio y fin de la realización de la actividad de pastoreo por los animales de la explotación en cada parcela o grupo de parcelas agrícolas de pasto. Si los animales se desplazan a pastos permanentes utilizados en común no será necesario incluir esta información en la solicitud única, ya que las autoridades competentes dispondrán de la misma a través del Sistema Integral de Trazabilidad Animal (SITRAN).
+
+2 ter. En caso de que para un grupo de parcelas de pasto el beneficiario modifique las fechas de inicio y fin de la actividad de pastoreo establecidas en la solicitud única, deberá anotar en el cuaderno digital de explotación agrícola las nuevas fechas, a más tardar en el plazo de un mes desde la nueva fecha de inicio o fin que haya resultado de la modificación.
+
+En el caso de beneficiarios que no hagan uso del cuaderno digital de explotación de forma voluntaria, la anotación en cuestión se suplirá por la notificación electrónica a la autoridad competente a más tardar en el plazo de un mes desde la nueva fecha de inicio o fin que haya resultado de la modificación, en la forma que dicha autoridad competente establezca.
+
+A tal fin, de forma alternativa o complementaria podrán utilizarse si así lo considera la autoridad competente, las siguientes vías:
+
+a) Información de dispositivos de geolocalización animal;
+
+b) Aportación por parte del beneficiario de fotografías georreferenciadas a más tardar en el plazo de un mes desde la nueva fecha de inicio o fin que haya resultado de la modificación, debiendo cumplirse las especificaciones técnicas indicadas en el anexo XXV.
+
+Sin perjuicio de lo anterior, no será obligatoria ninguna acción por parte del beneficiario cuando las nuevas fechas de inicio o de fin de la actividad de pastoreo no difieran más de quince días respecto a las inicialmente establecidas en la solicitud única.
+
+2 quater. En el caso de los movimientos de animales desde la explotación ganadera de origen a otra explotación con distinto código REGA, serán de aplicación las disposiciones de la normativa de sanidad, identificación y registro animal. Específicamente se comprobará el cumplimiento de las disposiciones: relativas el registro de dichos movimientos en SITRAN en los casos y plazos previstos en dichas normativas, incluidos los movimientos a pastos permanentes utilizados en común y otras explotaciones ganaderas de tipo “Pasto”, que deberán disponer de un código REGA asociado. En cualquier caso, la aplicación de este párrafo deberá realizarse conforme a las disposiciones establecidas por la autoridad competente de la comunidad autónoma en materia de identificación y registro animal.
+
+3\. De acuerdo a lo previsto en el Real Decreto 1049/2022, de 27 de diciembre, a partir del 1 de enero de 2024 será de aplicación la BCAM 2 relativa a la protección de humedales y turberas aplicándose la carga ganadera máxima establecida en dicha norma para estas zonas que estén incluidas en las superficies de pastos.
+
+> Se modifican la letra a) del apartado 1, el antepenúltimo párrafo del apartado 2 y el último párrafo de la letra a) y la letra b) del apartado 2 bis, por el art. 7.5 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se modifican los apartados 2.b), 2 bis.b) y 2 ter por el art. 3.10 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica por el art. 3.10 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+> Se modifican los apartados 1.a) y 2.b) por la disposición final 7.1 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+###### Artículo 31. Beneficiarios y descripción de la práctica de establecimiento de islas de biodiversidad en las superficies de pastos o siega sostenible.
+
+1\. Las explotaciones de los beneficiarios deberán ser explotaciones ganaderas compatibles con el aprovechamiento de la siega para la alimentación de animales propios. A estos efectos, se consideran las especies de bovino, ovino, caprino y equino inscritas en el REGA a fecha fin de plazo de modificación de la solicitud única con el tipo "Producción y Reproducción" y con una clasificación zootécnica de:
+
+a) “reproducción para producción de carne”, “reproducción para producción de leche”, “reproducción para producción mixta» o “recría de novillas» en el caso del bovino.
+
+b) “reproducción para producción de carne”, “reproducción para producción de leche” o “reproducción para producción mixta” en el caso del ovino y caprino.
+
+c) “reproducción para producción de carne” o “reproducción mixta” en el caso del equino”.
+
+2\. Dentro de esta práctica, los beneficiarios podrán optar por el establecimiento de islas de biodiversidad o por la realización de una siega sostenible de acuerdo a lo previsto en el artículo 27.3.
+
+3\. Para percibir la ayuda relativa al establecimiento de islas de biodiversidad, se deberá establecer una superficie sin segar en la explotación del 4 % del conjunto de la superficie de pastos permanentes y pastos temporales objeto de siega de tal modo que:
+
+a) No se podrá realizar actividad agraria alguna sobre estas superficies desde el 1 de enero hasta el 31 de agosto del año de solicitud, una vez completado el ciclo de vida de los lepidópteros.
+
+b) A partir de la fecha indicada en el apartado anterior, y con el objeto de mantener la superficie sin segar en buenas condiciones agrarias y medioambientales, la misma deberá someterse a alguna de las siguientes actividades agrarias:
+
+i. Pastoreo con animales de la explotación respetando las cargas ganaderas previstas en el artículo 30.2.b), según corresponda.
+
+A tales efectos, deberá tenerse en cuenta toda la superficie de pastos permanentes y pastos temporales de la explotación sobre la que se haya declarado una actividad de pastoreo con animales de la explotación o siega para producción de hierba.
+
+ii. Siega para producción o para mantenimiento.
+
+iii. Cualquier otra actividad de mantenimiento de las previstas en el apartado B del anexo III. Para la realización de las acciones previstas en el apartado anterior no se permite el uso de herbicidas.
+
+La fecha y las actividades realizadas se registrarán en el cuaderno digital de explotación agrícola. Dicha anotación, deberá realizarse, a más tardar en el plazo de un mes tras la fecha de realización de las mismas.
+
+En el caso de beneficiarios que no deseen hacer uso del cuaderno digital de explotación de forma voluntaria, la anotación en cuestión se realizará sobre un registro en papel que el agricultor deberá custodiar y poner a disposición de la autoridad competente en el caso de que le sea requerido. Adicionalmente la autoridad competente seleccionará una muestra de un 1 % de los beneficiarios de esta intervención, a los que se les requerirá la aportación de fotografías georreferenciadas a más tardar en el plazo de un mes desde la fecha de realización de las actividades, debiendo cumplirse las especificaciones técnicas indicadas en el anexo XXV. En caso de no aportarse dichas fotos, la autoridad competente podrá utilizar otras evidencias como la información proporcionada por los Satélites Sentinel o, en última instancia, realizar una inspección sobre el terreno.
+
+c) Para el cómputo del 4 % previsto en este apartado, se contabilizarán los elementos del paisaje de la explotación presentes en la superficie de pastos acogida a esta práctica y establecidos en la BCAM8 del anexo II del Real Decreto 1049/2022, de 27 de diciembre, que deben cumplir las personas beneficiarias de las ayudas que reciban pagos directos, determinados pagos anuales de desarrollo rural y del programa POSEI.
+
+d) Los beneficiarios en el momento de la solicitud deberán consignar las parcelas sobre las que se establece la superficie sin segar, pudiendo ser diferente cada año de solicitud.
+
+4\. Para percibir la ayuda relativa a la siega sostenible y para favorecer, por un lado, el ciclo de vida de los lepidópteros y, por otro, el ciclo vegetativo de las superficies de pastos, las autoridades competentes de las comunidades autónomas establecerán uno o dos períodos de no aprovechamiento de las superficies de pastos permanentes o temporales objeto de siega, durante los que no se podrá realizar ninguna actividad en las mismas, de al menos 60 días consecutivos, durante los meses de mayo, junio, julio y agosto.
+
+Las autoridades competentes comunicarán el período o los períodos establecidos al Ministerio de Agricultura, Pesca y Alimentación conforme a lo previsto en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+Para percibir esta ayuda,
+
+a) El beneficiario deberá cumplir con el período de no aprovechamiento indicado en el párrafo anterior, pudiendo elegir el período que se acoge si la autoridad competente establece dos períodos.
+
+b) Además, deberá realizar al menos una actividad de siega para producción durante la estación vegetativa principal con una frecuencia que no superará los tres cortes desde el 1 de enero hasta el inicio del período improductivo al que se acoge según lo previsto en el apartado anterior.
+
+Las autoridades competentes, con base en factores tales como la altitud de los pastos o fenómenos climatológicos que en una determinada campaña comprometan la disponibilidad de pastos de cara al mantenimiento de la biodiversidad y a evitar comprometer el ciclo de vida de los lepidópteros, podrán reducir la frecuencia de siega indicada en el párrafo anterior.
+
+En ese caso, las autoridades competentes comunicarán la reducción de la frecuencia de siega al Ministerio de Agricultura, Pesca y Alimentación conforme a lo previsto en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+c) Siempre que sea posible y las condiciones agroclimáticas lo permitan, y particularmente en pastos ubicados en zonas Red Natura 2000, se realizará el henificado o cualquier otra práctica alternativa al ensilado con el fin de favorecer el mantenimiento de los hábitats para invertebrados y aves y la heterogeneidad del hábitat en favor de una mayor biodiversidad.
+
+d) Los beneficiarios deberán incluir en el cuaderno digital de explotación agrícola, las labores de siega realizadas conforme a lo previsto en este apartado 4. Dicha anotación, deberá realizarse, a más tardar en el plazo de un mes tras la fecha de siega. En el caso de beneficiarios que no deseen hacer uso del cuaderno digital de explotación de forma voluntaria, la anotación en cuestión se realizará sobre un registro en papel que el agricultor deberá custodiar y poner a disposición de la autoridad competente en el caso de que le sea requerido. Adicionalmente, la autoridad competente seleccionará una muestra de un 1 % de los beneficiarios de esta intervención, a los que se les requerirá la aportación de fotografías georreferenciadas en el plazo de un mes tras la fecha de siega, debiendo cumplirse las especificaciones técnicas indicadas en el anexo XXV. En caso de no aportarse dichas fotos, la autoridad competente podrá utilizar otras evidencias como la información proporcionada por los Satélites Sentinel o, en última instancia, realizar una inspección sobre el terreno.
+
+> Se modifican los apartados 3 y 4 por el art. 3.11 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifican los apartados 3 y 4 por el art. 3.11 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+> Se modifica el apartado 1 por la disposición final 7.2 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+##### Subsección 3.ª Disposiciones específicas para los Ecorregímenes de Agricultura de carbono y agroecología: rotación de cultivos y siembra directa en tierras de cultivo
+
+###### Artículo 32. Objeto y requisitos generales.
+
+1\. Se concederá una ayuda a los agricultores activos que lo soliciten y cumplan lo previsto en el en el artículo 23 y la presente subsección, con el objetivo de mejorar la gestión y sostenibilidad de las superficies de tierras de cultivo, bien aumentando la absorción de carbono en estas superficies mediante la eliminación del laboreo y el mantenimiento de una cubierta vegetal todo el año o bien en favor de la agroecología, la mejora de la estructura y características del suelo y la reducción de emisiones, a través de una práctica de rotación con especies mejorantes.
+
+2\. A los efectos de esta subsección, serán consideradas parcelas de regadío aquellas declaradas como tal en la solicitud única de la campaña. A petición del beneficiario, también podrán considerarse parcelas de regadío aquéllas que se ubiquen en recintos SIGPAC que hayan sido explotados en regadío en alguna de las tres campañas precedentes. Deberán, además, estar en disposición de regar acreditando este requisito mediante una concesión de derechos de agua de riego de la confederación hidrográfica correspondiente, o, en caso de no estar obligados a ello, mediante la acreditación de existencia de infraestructura e instalaciones que posibiliten el riesgo en dichas superficies.
+
+3\. Para cada uno de los tres ecorregímenes contenidos en esta subsección, el importe de la ayuda recibida por hectárea será el mismo con independencia de la práctica que se realice, dentro de las prácticas previstas en los artículos 36 y 37, sin perjuicio de lo establecido en el artículo 25 y sin perjuicio de lo establecido en el artículo 37 en lo que respecta al complemento de plurianualidad para la práctica de siembra directa.
+
+> Se modifica el apartado 2 por el art. 7.6 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se modifica el apartado 2 por el art. 3.12 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+> Se modifica el apartado 2 por la disposición final 7.3 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+###### Artículo 33. Ecorrégimen de Agricultura de carbono y agroecología: rotación de cultivos y siembra directa en tierras de cultivo de secano.
+
+1\. Se concederá una ayuda anual por hectárea a los titulares de explotaciones que así lo soliciten según lo establecido en el capítulo I del título IV y que sobre sus hectáreas subvencionables de tierras de cultivo de secano realicen alguna de las prácticas agrícolas siguientes, descritas en los artículos 36 y 37:
+
+a) rotación de cultivos con especies mejorantes o
+
+b) siembra directa.
+
+2\. El pago de este ecorrégimen se realizará sobre la totalidad de la superficie de las tierras de cultivo de secano declaradas para el cumplimiento de la práctica seleccionada.
+
+3\. Los importes unitarios, serán los establecidos en el anexo X.
+
+4\. En el caso de las Illes Balears, el importe se verá incrementado en 28 euros por hectárea adicionales, respecto al calculado para la Península, en virtud del artículo 26.
+
+###### Artículo 34. Ecorrégimen de Agricultura de carbono y agroecología: rotación de cultivos y siembra directa en tierras de cultivo de secano húmedo.
+
+1\. Se concederá una ayuda anual por hectárea a los titulares de explotaciones que así lo soliciten según lo establecido en el capítulo I del título IV y que sobre sus hectáreas subvencionables de tierras de cultivo de secano húmedo realicen alguna de las prácticas agrícolas mencionadas en el artículo 33.
+
+2\. El pago de este ecorrégimen se realizará sobre la totalidad de la superficie de las tierras de cultivo de secano húmedo declaradas para el cumplimiento de la práctica seleccionada.
+
+3\. A los efectos de este ecorrégimen, se entenderá por tierras de cultivo de secano húmedo a aquellas tierras de cultivo de secano ubicadas en comarcas con una pluviometría media, conforme a la serie decenal 2011-2020, superior o igual a los 650 mm. Dichas comarcas se recogen en el anexo XIII.
+
+4\. Los importes unitarios, serán los establecidos en el anexo X.
+
+###### Artículo 35. Ecorrégimen de Agricultura de carbono y agroecología: rotación de cultivos y siembra directa en tierras de cultivo de regadío.
+
+1\. Se concederá una ayuda anual por hectárea a los titulares de explotaciones que así lo soliciten según lo establecido en el capítulo I del título IV y que sobre sus hectáreas subvencionables de tierras de cultivo de regadío realicen alguna de las prácticas agrícolas mencionadas en el artículo 33.
+
+2\. Para acceder a esta ayuda los titulares de las explotaciones, en lo referente a las parcelas de regadío, deberán disponer de un Plan de abonado. Asimismo, deberán registrar las operaciones de aporte de nutrientes y materia orgánica al suelo agrario y de agua de riego en el cuaderno de explotación agrícola, o en el cuaderno digital de explotación agrícola.
+
+El requisito relativo al plan de abonado también se considerará cumplido en el caso de agricultores que utilicen la herramienta de sostenibilidad agraria para nutrientes a la que se hace referencia en el artículo 15.4.g) del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, incluida en el cuaderno digital de explotación agrícola según dispone el artículo 10.1 del Real Decreto 1054/2022, de 27 de diciembre, y que utilicen el cuaderno digital para realizar todas las anotaciones recogidas en el contenido mínimo del anexo II del Real Decreto 1054/2022 de 27 de diciembre.
+
+3\. En caso de que uno o más de los requisitos anteriores vengan obligados en estas explotaciones por estar situadas en zonas vulnerables, de acuerdo con la Directiva 91/676/CEE del Consejo, de 12 de diciembre de 1991, relativa a la protección de las aguas contra la contaminación producida por nitratos utilizados en la agricultura o en zonas con otras limitaciones medioambientales específicas que eleven la línea de base respecto a la línea de base general, las autoridades competentes deberán establecer los requisitos adicionales.
+
+Las autoridades competentes comunicarán los requisitos adicionales al Ministerio de Agricultura, Pesca y Alimentación conforme a lo previsto en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+4\. El pago de este ecorrégimen se realizará sobre la totalidad de la superficie de las tierras de cultivo de regadío declaradas para el cumplimiento de la práctica seleccionada.
+
+5\. **(Suprimido).**
+
+6\. Los importes unitarios, serán los establecidos en el anexo X.
+
+7\. En el caso de las Illes Balears, el importe se verá incrementado en 80 euros por hectárea adicionales, respecto al calculado para la Península, en virtud del artículo 26.
+
+> Se modifica el apartado 2 por el art. 3.13 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+> Se suprime el apartado 5 por la disposición final 7.4 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+###### Artículo 36. Descripción de la práctica de rotación de cultivos con especies mejorantes.
+
+1\. Para dar cumplimiento a la práctica de rotación de cultivos con especies mejorantes, el agricultor deberá cumplir los siguientes requisitos:
+
+a) Que, al menos, el 50 % de la superficie de tierra de cultivo correspondiente presente cada año un cultivo diferente al cultivo previo, conforme a lo establecido en la BCAM 7, en el anexo II del Real Decreto 1049/2022, de 27 de diciembre. Cuando exista un cultivo secundario en el mismo año que el cultivo principal, éste se considerará a efectos de la rotación. La superficie declarada como tierra en barbecho tras una leguminosa no se considerará a los efectos del porcentaje de rotación.
+
+No obstante lo anterior, se permitirá rebajar dicho porcentaje de rotación hasta el 25 % en los siguientes casos:
+
+1.º en las explotaciones con más del 25 % de la tierra de cultivo correspondiente con especies plurianuales.
+
+2.º en aquellas circunstancias justificadas por la autoridad competente, con base en condiciones agroclimáticas adversas que serán comunicadas al Ministerio de Agricultura, Pesca y Alimentación conforme a lo previsto en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+b) Que, como mínimo, el 10 % de la superficie de tierra de cultivo correspondiente, esté ocupada por especies mejorantes de las especificadas en el anexo XV, de las cuales las leguminosas deben representar, al menos, una superficie equivalente al 5 % de la superficie acogida a esa práctica. Se permitirá que la leguminosa no llegue a producción para su utilización como abonado en verde, teniendo que permanecer en el terreno hasta al menos el inicio de floración. En las comarcas que, por razones de aridez figuran en la tabla del anexo XVI, la superficie de leguminosas mínima requerida en el secano, será equivalente al 2,5 % de la superficie acogida a esa práctica.
+
+c) **(Sin contenido)**
+
+2\. En el caso de que la superficie de la tierra de cultivo de la explotación sea menor o igual a 10 hectáreas, la práctica podrá consistir, en la rotación establecida en el apartado 1 o, alternativamente, cumplir con el requisito de diversificación consistente en cultivar, al menos, dos cultivos diferentes sin que el principal suponga más del 75 por ciento de dicha tierra de cultivo, y de conformidad a lo establecido en la BCAM 7, en el anexo II del Real Decreto 1049/2022, de 27 de diciembre, en lo que se refiere a la definición de cultivo diferente.
+
+En el caso de estas explotaciones, no se exigirá contar con especies mejorantes.
+
+3\. La superficie de especies plurianuales será subvencionable a efectos de percepción de la ayuda, pero no se tendrá en cuenta para el cómputo del porcentaje de superficie que rota, excepto la que se implante en el año en cuestión.
+
+A los efectos de esta práctica, el espárrago será considerado como especie plurianual.
+
+> Se modifica el apartado 2 por el art. 7.7 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se modifica el apartado 1.b) y deja sin contenido el 1.c) por el art. 3.12 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica por el art. 3.14 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 37. Descripción de la práctica de siembra directa.
+
+1\. Para dar cumplimiento a la práctica de siembra directa, el agricultor deberá cumplir, en al menos un 40 % de la tierra de cultivo correspondiente a cada tipología de superficie por la que se solicita dicha práctica, los siguientes requisitos:
+
+a) No realizar labores de arado sobre el suelo.
+
+b) Sembrar directamente sobre los rastrojos y mantener éstos sobre el terreno, de manera que el suelo esté cubierto durante todo el año.
+
+c) Llevar a cabo una rotación de cultivos en la superficie en la que se realiza la práctica de siembra directa, exceptuando a la superficie con especies plurianuales, salvo en su año de implantación. Se entiende por rotación el que la parcela, presente cada año un cultivo diferente al cultivo previo, salvo en cultivos plurianuales exceptuado el año de implantación, y todo ello conforme a lo establecido en la BCAM 7, en el anexo II del Real Decreto 1049/2022, de 27 de diciembre. Cuando exista un cultivo secundario en el mismo año que el cultivo principal, este se considerará a efectos de la rotación. La superficie declarada como tierra en barbecho tras una leguminosa no se considerará a los efectos del porcentaje de rotación.
+
+Estos requisitos deberán ser realizados, conjuntamente, sobre la misma superficie.
+
+2\. Excepcionalmente, por causas debidamente justificadas, la autoridad competente, podrá permitir algún tipo de labor vertical según se define en la BCAM 6, en el anexo II del Real Decreto 1049/2022, de 27 de diciembre, siempre y cuando se cumpla con la obligación de mantener el rastrojo sobre el suelo, de manera que éste esté cubierto durante todo el año.
+
+Las comunidades autónomas remitirán al Ministerio de Agricultura, Pesca y Alimentación dicha información sobre las labores verticales permitidas excepcionalmente con base en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+3\. Se establece un complemento adicional por llevar a cabo esta práctica en años consecutivos sobre la misma superficie, con el objetivo de favorecer la retención del carbono en el suelo y evitar la emisión de parte de ese carbono a la atmósfera.
+
+4\. El complemento tendrá una cuantía fija de 25 euros por hectárea que se sumará al importe de la ayuda calculado.
+
+5\. Para la campaña 2023, y en los casos de agricultores que soliciten la ayuda por primera vez en las campañas siguientes, o de agricultores que, habiendo solicitado esta ayuda previamente, incorporen nuevas parcelas en años siguientes, el pago de este complemento quedará condicionado al compromiso de los beneficiarios de realizar la misma práctica en las mismas parcelas en la campaña siguiente. A tal fin, el beneficiario indicará en la solicitud única las parcelas sobre las que se compromete. En el caso de no cumplir con los compromisos adquiridos en el año siguiente de aplicación, se les detraerá la cuantía de dicho complemento. Para el resto de los casos, el pago del complemento para cada hectárea quedará condicionado a la comprobación de haber realizado la misma práctica en la misma hectárea en la campaña anterior.
+
+6\. El pago de este ecorrégimen se realizará en cada una de las tipologías de superficie, sobre la totalidad de la superficie declarada que se acoja a esta práctica y que cumpla las condiciones de elegibilidad. No obstante, el pago del complemento adicional solo se concederá de manera proporcional a la superficie que cumpla las condiciones establecidas en el apartado 1 dos años consecutivos.
+
+> Se modifican los apartados 1, 5 y 6 por el art. 3.15 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+##### Subsección 4.ª Disposiciones específicas para los Ecorregímenes de Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos
+
+###### Artículo 38. Objeto y requisitos generales.
+
+1\. Se concederá una ayuda a los agricultores activos que lo soliciten y cumplan lo previsto en el artículo 23 y la presente subsección, con el objetivo de mejorar la gestión y sostenibilidad de las superficies de cultivos leñosos, a través del aumento del contenido de carbono del suelo, de la mejora de su estructura, de la disminución de los Gases de Efecto Invernadero, así como de la reducción de la erosión y la desertificación, mediante el establecimiento de cubiertas vegetales o cubiertas inertes.
+
+2\. La ayuda adoptará la forma de un pago anual por hectárea subvencionable de cultivos leñosos declarada, conforme a lo previsto en el capítulo II del título II de este real decreto, que hace referencia a los requisitos comunes a las superficies agrarias por las que se solicita ayuda.
+
+3\. A los efectos de la presente subsección, se entenderá por cultivo leñoso aquel cultivo recogido en el anexo XVII.
+
+4\. Además, la superficie de cultivos leñosos se diferenciará con base en su pendiente, tal y como está recogida en el SIGPAC. Diferenciándose de este modo, con base en esta característica: cultivos leñosos en terrenos llanos, cultivos leñosos en terrenos de pendiente media y cultivos leñosos en terrenos de elevada pendiente.
+
+5\. Para cada uno de los tres ecorregímenes, contenidos en esta subsección, el importe de la ayuda recibida por hectárea será el mismo con independencia de la práctica que se realice, dentro de las prácticas previstas en los artículos 42 y 43, sin perjuicio de lo establecido en el artículo 25.
+
+6\. Para el caso del viñedo, el beneficiario no debe tener plantaciones ilegales o sin autorización. En caso contrario no podrá percibir el importe correspondiente al ecorrégimen de cubiertas vegetales o cubiertas inertes en las superficies de viñedo de la explotación.
+
+###### Artículo 39. Ecorrégimen Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos.
+
+1\. Se concederá una ayuda a los titulares de explotaciones que así lo soliciten, según lo establecido en el capítulo I del título IV, y que, sobre sus hectáreas subvencionables de cultivos leñosos en terrenos llanos, realicen alguna de las prácticas agrícolas siguientes, descritas en los artículos 42 y 43:
+
+a) cubiertas vegetales espontáneas o sembradas o
+
+b) cubiertas inertes de restos de poda.
+
+2\. Se entenderá por superficies de cultivos leñosos en terrenos llanos como aquellas superficies de cultivos leñosos con una pendiente menor del 5 %, es decir, superficies ubicadas en recintos SIGPAC cuya pendiente esté definida como menor al 5 %.
+
+3\. Los importes unitarios serán los establecidos en el anexo X.
+
+4\. En el caso de las Illes Balears, el importe se verá incrementado en 40 euros por hectárea adicionales, respecto al calculado para la Península, en virtud del artículo 26.
+
+###### Artículo 40. Ecorrégimen Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media.
+
+1\. Se concederá una ayuda a los titulares de explotaciones que así lo soliciten según lo establecido en el capítulo I del título IV y que, sobre sus hectáreas subvencionables de cultivos leñosos en terrenos de pendiente media, realicen alguna de las prácticas descritas en los artículos 42 y 43.
+
+2\. Se entenderá por superficies de cultivos leñosos en terrenos de pendiente media, como aquellas superficies de cultivos leñosos con una pendiente igual o mayor al 5 % y menor del 10 %, es decir, superficies ubicadas en recintos SIGPAC cuya pendiente esté definida como igual o mayor al 5 % y menor del 10 %.
+
+3\. Los importes unitarios, serán los establecidos en el anexo X.
+
+4\. En el caso de las Illes Balears, el importe se verá incrementado en 64 euros por hectárea adicionales, respecto al calculado para la Península, en virtud del artículo 26.
+
+###### Artículo 41. Ecorrégimen Agricultura de carbono: cubiertas vegetales y cubiertas inertes en tierras de cultivos leñosos en terrenos de elevada pendiente y bancales.
+
+1\. Se concederá una ayuda a los titulares de explotaciones que así lo soliciten según lo establecido en el capítulo I del título IV, y que, sobre sus hectáreas subvencionables de cultivos leñosos en terrenos de elevada pendiente y bancales, realicen alguna de las prácticas descritas en los artículos 42 y 43.
+
+2\. Se entenderá por superficies de cultivos leñosos en terrenos de elevada pendiente, como aquellas superficies de cultivos leñosos con una pendiente igual o mayor al 10 %, es decir, superficies ubicadas en recintos SIGPAC cuya pendiente esté definida como igual o mayor al 10 %.
+
+Así mismo, se entenderá por bancales, aquellas superficies ubicadas en recintos SIGPAC contiguos a elementos del paisaje del tipo terraza, registradas en la capa definida en el SIGPAC para esta característica.
+
+3\. Los importes unitarios, serán los establecidos en el anexo X.
+
+4\. En el caso de las Illes Balears, el importe se verá incrementado en 88 euros por hectárea adicionales, respecto al calculado para la Península, en virtud del artículo 26.
+
+###### Artículo 42. Descripción de la práctica de cubiertas vegetales espontáneas o sembradas en cultivos leñosos.
+
+1\. Para dar cumplimiento a la práctica de cubiertas vegetales espontáneas o sembradas, el agricultor deberá cumplir los siguientes compromisos:
+
+a) Deberá cumplir el compromiso anual de establecer y/o mantener sobre el terreno una cubierta vegetal espontánea o sembrada, ya sea viva o agostada, de forma que el suelo no permanezca desnudo. Para comprobar dicho requisito, el agricultor deberá recoger en el cuaderno de explotación agrícola o, en el cuaderno digital de explotación agrícola, la “fecha de establecimiento de la cubierta vegetal espontánea o sembrada con presencia viva sobre el terreno”, no pudiendo ser esta fecha posterior a la fecha fijada por las comunidades autónomas como fecha de inicio del periodo en que la cubierta debe permanecer viva sobre el terreno. Dicha anotación deberá realizarse en el plazo de un mes tras dicha fecha.
+
+b) Además la cubierta vegetal debe permanecer viva sobre el terreno, durante un periodo mínimo de cuatro meses, dentro del periodo comprendido entre el 1 de octubre y el 31 de marzo, a definir por las comunidades autónomas, según las condiciones agroclimáticas de la zona.
+
+Las comunidades autónomas remitirán al Ministerio de Agricultura, Pesca y Alimentación dicha información con base en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+c) El manejo de estas cubiertas vegetales se llevará a cabo a través de medios mecánicos y depositado sobre el terreno de los restos a modo de “mulching” y/o mediante manejo a través de ganado.
+
+No se permitirá el uso de herbicidas ni de otros fitosanitarios en el centro de la calle que está mantenida con cubierta vegetal herbácea.
+
+De forma excepcional, se permitirá la aplicación de herbicidas sobre la cubierta vegetal, en casos puntuales de inversiones de flora debidamente justificados. Dicha excepción estará supeditada a la condición previa de llevar dos años seguidos haciendo la práctica para poder aplicarlo en el tercer año.
+
+El manejo de las cubiertas vegetales por medios mecánicos con el objetivo de limitar la competencia por agua y nutrientes se realizará a través de pases anuales realizándose los pases necesarios.
+
+Para comprobar dicho requisito, el agricultor deberá recoger en el cuaderno de explotación agrícola o, en el cuaderno digital de explotación agrícola, el tipo de mantenimiento que realiza sobre la cubierta vegetal espontánea o sembrada. Dicha anotación deberá realizarse, a más tardar, dentro del mes anterior al final del periodo de modificación de la solicitud única.
+
+d) Además, los restos de las cubiertas vegetales, una vez manejadas mecánicamente, deben cubrir el espacio inicial ocupado por la cubierta.
+
+e) La cubierta ocupará en cada calle, al menos, un 40 % de la anchura libre de la proyección de copa, según la definición del artículo 3.33), no pudiendo ser esta anchura inferior a 0,5 metros.
+
+Para comprobar dicho requisito, el agricultor deberá recoger en el cuaderno de explotación agrícola, o en el cuaderno digital de explotación agrícola la anchura de la cubierta y la anchura libre de la proyección de copa. Dicha anotación deberá realizarse en el mes anterior al final del periodo mínimo de cuatro meses fijados por la autoridad competente de la comunidad autónoma en el que la cubierta debe permanecer viva sobre el terreno.
+
+Para aquellas parcelas que tengan una pendiente igual o superior al 10 %, salvo que la pendiente real del recinto esté compensada mediante terrazas o bancales, la anchura mínima de la cubierta será un metro de anchura adicional a la anchura mínima exigida en el primer párrafo de este subapartado. En el caso de superficies de cultivos leñosos que no puedan cumplir este requisito de anchura mínima exigida de la cubierta porque la anchura media de la calle del cultivo leñoso sea menor a 1,5 metros, la cubierta deberá ocupar la totalidad de la anchura de la calle.
+
+2\. Se contemplan las siguientes situaciones excepcionales que podrán dar lugar a la modificación de las condiciones de aplicación de esta práctica:
+
+a) Se permitirá, de forma excepcional, la aplicación de fitosanitarios sobre la cubierta, en aquellos casos en que la autoridad competente en materia de Sanidad Vegetal así lo determine por razón de la prevención, control o erradicación de plagas.
+
+b) Se permitirá rebajar el periodo obligatorio de cuatro meses en los que la cubierta vegetal debe permanecer viva, en aquellas circunstancias justificadas por la autoridad competente, con base en condiciones agroclimáticas adversas acreditadas por la autoridad competente de la comunidad autónoma.
+
+Las comunidades autónomas remitirán al Ministerio de Agricultura, Pesca y Alimentación dicha información con base en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+c) Se permitirán, en el caso de cubiertas sembradas, labores superficiales para adecuar el terreno para la siembra. De forma excepcional, se permitirán también labores superficiales poco profundas de mantenimiento de las cubiertas. En ningún caso, estas labores superficiales supondrán la modificación de la estructura del suelo ni la desaparición de la cubierta.
+
+Serán las comunidades autónomas, en virtud de las características agronómicas de la zona, las que podrán permitir y definir dichas labores de mantenimiento excepcionales.
+
+Las comunidades autónomas remitirán al Ministerio de Agricultura, Pesca y Alimentación dichas informaciones con base en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+3\. En las superficies de cultivos leñosos en secano, y de secano árido en particular, se establecerán una serie de condiciones específicas como:
+
+a) Permitir algún tipo de labor vertical poco profundas de mantenimiento de las cubiertas vegetales, a partir del mes de abril y hasta el mes de septiembre, ambos inclusive. En ningún caso estas labores superficiales supondrán la modificación de la estructura del suelo.
+
+b) Se elimina el requisito de que la cubierta vegetal espontánea o sembrada deba permanecer viva un periodo mínimo de tiempo.
+
+c) Se permitirá el establecimiento de cubiertas vegetales, en calles alternas, respetando, en todo caso, lo exigido en el marco de la BCAM 6, tal y como indica el anexo II del Real Decreto 1049/2022, de 27 de diciembre.
+
+d) **(Sin contenido)**
+
+e) En las comarcas que, por razones de aridez, figuran en la tabla del anexo XVI, se permitirá cumplir con la práctica de cubierta vegetal, estableciendo ésta en todas las calles correspondientes al 50 % de la superficie declarada. El pago para esta condición específica se realizará, en cada una de las tipologías de superficie, sobre la totalidad de la superficie declarada que se acoja a esta práctica y que cumpla las condiciones de elegibilidad.
+
+4\. En el caso de la práctica de cubiertas vegetales, se establece un complemento adicional por llevar a cabo la práctica más de un año consecutivo sobre la misma parcela, con el objetivo de favorecer la retención del carbono en el suelo y evitar la emisión de parte de ese carbono a la atmósfera.
+
+El complemento tendrá una cuantía fija de 25 euros por hectárea en la que se lleve a cabo la práctica más de un año que se sumará al importe del ayuda calculado para cada tramo de pendiente de esta práctica de cubiertas vegetales en virtud del artículo 26.
+
+Para la campaña 2023, y en los casos de agricultores que soliciten la ayuda por primera vez en las campañas siguientes, o de agricultores que, habiendo solicitado esta ayuda previamente, incorporen nuevas parcelas en años siguientes, el pago de este complemento quedará condicionado al compromiso de los beneficiarios de realizar la misma práctica en las mismas parcelas en la campaña siguiente. A tal fin, el beneficiario indicará en la solicitud única las parcelas sobre las que se compromete. En el caso de no cumplir con los compromisos adquiridos en el año siguiente de aplicación, se les detraerá la cuantía de dicho complemento. Para el resto de los casos, el pago del complemento para cada hectárea quedará condicionado a la comprobación de haber realizado la misma práctica en la misma parcela en la campaña anterior.
+
+> Se deja sin contenido la letra d) del apartado 3 y se modifican la letra c) del apartado 3 y el apartado 4 por el art. 7.8 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se modifica por el art. 3.13 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica por el art. 3.16 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 43. Descripción de la práctica de cubiertas inertes de restos de poda.
+
+1\. Para dar cumplimiento a la práctica de cubiertas inertes de restos de poda, el agricultor deberá cumplir los siguientes compromisos:
+
+a) Triturar los restos de poda y depositarlos sobre el terreno, estableciendo de este modo una cubierta inerte de restos de poda a modo de “mulching”, sobre el suelo.
+
+Para comprobar dicho requisito, el agricultor deberá recoger en el cuaderno de explotación agrícola o en el cuaderno digital de explotación agrícola, la fecha de establecimiento de la cubierta inerte procedente de la trituración de los restos de poda sobre el suelo, no pudiendo ser esta fecha posterior al 15 de abril de la campaña en cuestión. Dicha anotación deberá realizarse en el plazo de un mes tras dicha fecha. No obstante, las comunidades autónomas, de forma justificada, podrán adaptar la fecha máxima fijada, cuando las condiciones locales y de cultivo de una campaña así lo justifiquen. Las comunidades autónomas remitirán al Ministerio de Agricultura, Pesca y Alimentación dicha información sobre la adaptación de la fecha máxima de establecimiento de las cubiertas inertes con base en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+b) Depositar sobre el suelo una cantidad de restos de poda que ocupe una superficie mínima, en cada calle del 40 % de la anchura libre de la proyección de copa, según la definición del artículo 3.33), y que sea suficiente para permitir alcanzar los beneficios medioambientales de la práctica, no pudiendo ser esta anchura inferior a 0,5 metros.
+
+Para aquellas parcelas que tengan una pendiente igual o superior al 10 %, salvo que la pendiente real del recinto esté compensada mediante terrazas o bancales, la anchura mínima de la cubierta será un metro de anchura adicional a la anchura mínima exigida en el primer párrafo de este subapartado. En el caso de superficies de cultivos leñosos que no puedan cumplir este requisito de anchura mínima exigida de la cubierta porque la anchura media de la calle del cultivo leñoso sea menor a 1,5 metros, la cubierta deberá ocupar la totalidad de la anchura de la calle.
+
+Para comprobar dicho requisito, el agricultor deberá recoger en el cuaderno de explotación agrícola o en el cuaderno digital de explotación agrícola la anchura de la cubierta y la anchura libre de la proyección de copa. Dicha anotación, deberá realizarse, a más tardar, dentro del mes anterior a la fecha final del periodo de modificación de la solicitud única.
+
+c) Sobre la superficie ocupada por la cubierta inerte de restos de poda no estará permitida la realización de tratamientos fitosanitarios.
+
+d) Se permitirán de forma excepcional, aquellas labores superficiales poco profundas de mantenimiento sobre las cubiertas que no supongan, en ningún caso, la modificación de la estructura del suelo, ni la desaparición de la cubierta en ningún momento del año, ni que impidan alcanzar los beneficios medioambientales de la misma. Serán las comunidades autónomas, en virtud de las características agronómicas de la zona, las que podrán permitir y definir dichas labores de mantenimiento.
+
+Las comunidades autónomas remitirán al Ministerio de Agricultura, Pesca y Alimentación dicha información sobre las labores de mantenimiento permitidas sobre las cubiertas con base en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+e) En el marco de la práctica de cubiertas inertes de restos de poda se permitirá la combinación con la práctica de cubiertas vegetales espontáneas o sembradas en el mismo recinto, de forma que toda la superficie exigida en el marco de las prácticas esté ocupada por algún tipo de cubierta. A esta práctica combinada se le adjudicará, en todo caso, el importe referido a las cubiertas inertes de restos de poda.
+
+2\. Esta práctica no se realizará cuando se identifiquen por parte del beneficiario problemas de plagas sobre los cultivos leñosos, para las cuales, la distribución sobre el terreno de los restos de poda infectados por ellas pudiera propiciar su propagación.
+
+En aquellos casos en que la autoridad competente haya autorizado un tratamiento fitosanitario sobre el cultivo por motivo de detección de alguna plaga de este tipo, el beneficiario no podrá realizar esta práctica en el caso de que, una vez aplicado el tratamiento, se sigan identificando problemas de plagas sobre los cultivos leñosos.
+
+3\. Una vez realizado el compromiso por parte del agricultor, en el caso de que la autoridad competente en materia de sanidad vegetal declare la existencia de una plaga sobre los restos de poda, la gestión de dichos restos se hará conforme a la regulación o recomendaciones existentes para cada tipo de plaga presente. Así, se contemplarán las siguientes situaciones excepcionales, sin perjuicio para que el agricultor siga siendo beneficiario de la ayuda, en aquellos casos en los que así lo especifique la autoridad competente:
+
+a) Se permitirá la aplicación de fitosanitarios sobre la cubierta inerte de restos de poda.
+
+b) Se permitirá la retirada de los restos de poda.
+
+c) Se permitirá el enterrado de los restos de poda después de su tratamiento.
+
+Las comunidades autónomas remitirán al Ministerio de Agricultura, Pesca y Alimentación dicha información con base en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+4\. En las superficies de cultivos leñosos en secano, y de secano árido en particular, se establecerán una serie de condiciones específicas como:
+
+a) Permitir algún tipo de labor vertical poco profundas de mantenimiento de las cubiertas inertes, a partir del mes de abril y hasta el mes de septiembre, ambos inclusive. En ningún caso, estas labores superficiales supondrán la modificación de la estructura del suelo.
+
+b) Se permitirá el establecimiento de cubiertas inertes, en calles alternas respetando, en todo caso, lo exigido en el marco de la BCAM 6, tal y como indica el anexo II del Real Decreto 1049/2022, de 27 de diciembre.
+
+c) En las comarcas que, por razones de aridez, figuran en la tabla del anexo XVI, se permitirá cumplir con la práctica de cubierta inerte, estableciendo ésta en todas las calles correspondientes al 50 % de la superficie declarada. El pago para esta condición específica se realizará, en cada una de las tipologías de superficie, sobre la totalidad de la superficie declarada que se acoja a esta práctica y que cumpla las condiciones de elegibilidad.
+
+> Se modifica la letra b) del apartado 4 por el art. 7.9 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se modifica por el art. 3.14 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica la letra a) del apartado 1 por el art. 3.17 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+##### Subsección 5.ª Disposiciones específicas del Ecorrégimen de Agroecología: espacios de biodiversidad
+
+###### Artículo 44. Ecorrégimen de Agroecología: espacios de biodiversidad en tierras de cultivo y cultivos permanentes.
+
+1\. Para dar cumplimiento a este ecorrégimen, en el caso de las tierras de cultivo y los cultivos permanentes, incluidos los cultivos leñosos, se deberá establecer un porcentaje de espacios de biodiversidad.
+
+2\. Se considerarán espacios de biodiversidad, los siguientes elementos, incluidos o directamente adyacentes a la parcela declarada para el cumplimiento de este ecorrégimen, que habrán de cumplir los requisitos recogidos en el anexo XIV:
+
+a) Los muretes, charcas, lagunas, terrazas de retención estanques, abrevaderos naturales, setos, lindes, islas y enclaves de vegetación o cualquier otro elemento del paisaje establecido para dar cumplimiento a la BCAM 8, que sirvan de refugio, reservorio y alimento de avifauna, insectos beneficiosos o polinizadores.
+
+b) El barbecho, siendo sólo subvencionables los barbechos con una cubierta vegetal que contenga especies apropiadas a efectos de la biodiversidad.
+
+c) Márgenes, franjas e islas de biodiversidad.
+
+d) Zonas de no cosechado de cereales, leguminosas y oleaginosas en tierras de cultivo que pongan a disponibilidad de la avifauna, durante un periodo más prolongado, el grano.
+
+e) Zonas de no cosechado de especies aromáticas que en el momento de la recolección del cultivo tengan a disposición de la fauna polinizadora el néctar o el polen. Las especies admisibles se recogen en el anexo XIV, apartado V.
+
+3\. Los agricultores que se acojan a este ecorrégimen deberán cumplir el requisito de agricultor activo y percibir la ayuda básica a la renta para la sostenibilidad.
+
+4\. Se tendrá que contar con una superficie de espacios de biodiversidad equivalente al:
+
+a) En tierras de cultivo:
+
+i) 7 % de la superficie de secano declarada bajo este ecorrégimen.
+
+ii) 4 % de la superficie de regadío declarada bajo este ecorrégimen.
+
+b) En cultivos permanentes el 4 % de la superficie declarada bajo este ecorrégimen.
+
+No obstante, en el caso de explotaciones mixtas en las que se cuente con al menos dos de las siguientes tipologías de tierra: tierras de cultivo de regadío, tierras de cultivo de secano o cultivos permanentes, alternativamente, podrá cumplirse con el requisito de establecimiento de espacios de biodiversidad a través de un porcentaje del 7%, respecto al total de la superficie declarada, a distribuir en cualquiera de las tipologías de tierra.
+
+En el caso de que sobre una misma superficie coexistan dos elementos de biodiversidad diferentes, a efectos del cómputo del porcentaje, se tomará en consideración aquel que arroje una mayor superficie equivalente tras aplicar los factores de conversión y ponderación a los que se hace referencia en el apartado 6.
+
+5\. El pago de este ecorrégimen se realizará sobre la totalidad de la superficie declarada para su cumplimiento.
+
+6\. En caso de estar registrados en SIGPAC o en la declaración de superficies de la solicitud única como puntos o como líneas, a los espacios de biodiversidad les serán de aplicación factores de conversión a metro cuadrado. Y, en cualquier caso, se les aplicaran los coeficientes de ponderación especificados en el anexo XVIII.
+
+7\. Los espacios de biodiversidad cumplirán con los requisitos establecidos en el anexo XIV.
+
+8\. Sobre las superficies de espacios de biodiversidad no se permitirá la aplicación de fertilizantes ni de productos fitosanitarios. La aplicación de productos fitosanitarios sobre estas superficies sólo se permitirá, de forma excepcional, en aquellos casos en los que la autoridad competente en materia de sanidad vegetal así lo determine por razón de la prevención, control o erradicación de plagas.
+
+Las comunidades autónomas remitirán al Ministerio de Agricultura, Pesca y Alimentación dicha información sobre dichas excepciones con base en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+9\. La limitación anterior no será de aplicación en el caso de las zonas de no cosechado.
+
+10\. Los importes unitarios, serán los establecidos en el anexo X.
+
+> Se modifica el apartado 4 por el art. 7.10 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se modifican los apartados 2 y 4 por el art. 3.15 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifican los apartados 2, 4 y 6 por el art. 3.18 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 45. Agroecología: Ecorrégimen de espacios de biodiversidad. Aplicación en cultivos bajo agua.
+
+1\. Para dar cumplimiento a este ecorrégimen, cuando el agricultor activo cuente con superficie subvencionable de la tierra de cultivo dedicada a cultivos bajo agua durante una parte significativa del año o del ciclo de cultivo, en esta superficie, las prácticas a llevar a cabo podrán consistir en:
+
+a) establecer al menos un 3 % de superficie correspondiente a espacios de biodiversidad, según lo descrito en el artículo 44, o
+
+b) llevar a cabo una gestión sostenible de la lámina de agua en la superficie inundada, para favorecer, no sólo la instauración de aves migratorias, sino también la disminución de las emisiones y racionalizar el consumo.
+
+2\. Para la gestión sostenible de la lámina de agua, se podrá llevar a cabo una o varias de las prácticas siguientes durante el ciclo del cultivo:
+
+i. Nivelación anual del terreno de manera que se favorezca una lámina de agua homogénea que racionalice su uso y minimice la pérdida por escorrentía y la lixiviación de fertilizantes y fitosanitarios.
+
+ii. Siembra en seco con inundación tras los 30-45 días posteriores a la siembra.
+
+iii. Secas intermitentes en el momento de realizar tratamientos herbicidas o fitosanitarios.
+
+iv. Construcción de caballones que mejoren la eficiencia en la distribución del agua en el lote del cultivo. La autoridad competente de la comunidad autónoma será la que defina el tamaño máximo de las tablas en su territorio.
+
+Para comprobar los requisitos i, ii, iii y iv, el agricultor deberá recoger en el cuaderno de explotación agrícola, o en o en el cuaderno digital de explotación agrícola, de acuerdo con la entrada en vigor de éste, las fechas de nivelación, siembra, inundación y secas, y construcción de caballones. Dicha anotación deberá realizarse en el plazo de un mes tras la fecha en la que se ha realizado cada actividad.
+
+3\. No obstante lo anterior, la autoridad competente en materia de sanidad vegetal podrá determinar condiciones específicas en el manejo de la lámina de agua por razón de la prevención, control o erradicación de plagas.
+
+4\. La autoridad competente de cada comunidad autónoma deberá definir el tiempo que la lámina de agua debe permanecer sobre el terreno, a efectos de favorecer la biodiversidad. En cualquier caso, el mantenimiento de la lámina de agua deberá permanecer en el terreno un mínimo de tres meses, que podrá coincidir con la presencia del cultivo.
+
+5\. Las comunidades autónomas remitirán al Ministerio de Agricultura, Pesca y Alimentación dicha información sobre condiciones específicas y tiempo de inundación con base en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+6\. En aquellas comunidades autónomas en las que alguna de estas prácticas ya forme parte de las medidas que hayan diseñado conforme al artículo 70 del Reglamento (UE) 2021/2115, del Parlamento Europeo y del Consejo de 2 de diciembre de 2021, sobre compromisos medioambientales, climáticos y otros compromisos de gestión, para dar cumplimiento a lo dispuesto en el artículo 31.5.d) de dicho reglamento, únicamente se podrán acoger a aquellas que no sean coincidentes.
+
+7\. Para acceder a esta ayuda los titulares de las explotaciones, en lo referente a las parcelas de regadío, deberán disponer de un Plan de abonado. Asimismo, deberán registrar las operaciones de aporte de nutrientes y materia orgánica al suelo agrario y de agua de riego en el cuaderno de explotación agrícola o, el cuaderno digital de explotación agrícola.
+
+El requisito relativo al plan de abonado también se considerará cumplido en el caso de agricultores que utilicen la herramienta de sostenibilidad agraria para nutrientes a la que se hace referencia en el artículo 15.4.g) del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, incluida en el cuaderno digital de explotación agrícola según dispone el artículo 10.1 del Real Decreto 1054/2022, de 27 de diciembre, y que utilicen el cuaderno digital para realizar todas las anotaciones contenidas en el anexo II del Real Decreto 1054/2022 de 27 de diciembre.
+
+8\. En caso de que uno o más de los requisitos anteriores vengan obligados en estas explotaciones por estar situadas en zonas vulnerables, de acuerdo con la Directiva 91/676/CEE del Consejo, de 12 de diciembre de 1991, relativa a la protección de las aguas contra la contaminación producida por nitratos utilizados en la agricultura o en zonas con otras limitaciones medioambientales específicas que eleven la línea de base respecto a la línea de base general, las autoridades competentes deberán establecer los requisitos adicionales.
+
+Las autoridades competentes comunicarán los requisitos adicionales al Ministerio de Agricultura, Pesca y Alimentación conforme a lo previsto en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+9\. En el caso de que el cumplimiento del ecorrégimen se realice a través de la práctica del apartado 1.a), el pago se realizará sobre la totalidad de la superficie de las tierras de cultivo bajo agua declaradas para su cumplimiento.
+
+10\. En el caso de que el cumplimiento del ecorrégimen se realice a través de la práctica del apartado 1.b), será necesario llevar a cabo la gestión sostenible de la lámina de agua en toda la superficie declarada para la percepción del ecorrégimen.
+
+11\. Los importes unitarios, serán los establecidos en el anexo X.
+
+> Se modifica el apartado 1.a) por el art. 3.16 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifican los apartados 2 y 7 por el art. 3.19 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+### CAPÍTULO III — Pagos directos asociados
+
+#### Sección 1.ª Pagos directos asociados a los agricultores
+
+##### Subsección 1.ª Disposiciones Generales
+
+###### Artículo 46. Objeto y Requisitos generales.
+
+1\. De conformidad con lo establecido en el artículo 32 del Reglamento (UE) número 2115/2021 del Parlamento Europeo y el Consejo, de 2 de diciembre de 2021 y de acuerdo al Plan Estratégico Nacional aprobado para España por la Comisión el 31 de agosto de 2022, se concederá una ayuda a la renta asociada a los agricultores activos de los sectores establecidos en esta sección, para hacer frente a las dificultades encontradas mediante la mejora de la competitividad y sostenibilidad. Asimismo, de conformidad con el artículo 36 del Reglamento (UE) número 2115/2021, del Parlamento Europeo y del Consejo de 2 de diciembre de 2021, se concederá un pago específico a los agricultores activos que produzcan algodón con arreglo a las condiciones establecidas en dicho reglamento.
+
+2\. La ayuda adoptará la forma de un pago anual por hectárea de superficie cultivada que cumpla estos requisitos generales, así como los específicos establecidos en cada caso.
+
+3\. **(Sin contenido)**
+
+4\. La superficie mínima subvencionable por explotación susceptible de recibir cada una de las ayudas asociadas previstas en el presente capítulo será de 1 hectárea en el caso de superficies de secano y de 0,5 hectáreas para las superficies de regadío, salvo que en los requisitos específicos de la ayuda se disponga otra cosa.
+
+5\. A los efectos de estas ayudas, se entenderá por superficie de regadío aquella para la que el sistema de explotación declarado por el agricultor, conforme al artículo 8.2, sea regadío y que además esté definida como tal en el SIGPAC.
+
+6\. Los agricultores pondrán a disposición de las autoridades competentes cuantos justificantes permitan acreditar el cumplimiento de los requisitos generales y específicos para el cobro de las ayudas asociadas, cuando así les sea requerido.
+
+7\. A los efectos de estas ayudas, no tendrán consideración de superficies subvencionables los espacios de biodiversidad descritos en el artículo 44.2, letras b, c, d y e.
+
+> Se añade el apartado 7 por el art. 7.11 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se deja sin contenido los apartados 3 y 7 por el art. 3.17 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica el apartado 3 por el art. 3.20 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 47. Asignación Financiera Indicativa.
+
+La asignación financiera indicativa anual correspondiente a cada línea de ayuda será la que se indica en el anexo XIX de este real decreto, sin perjuicio de la posible realización de trasvases de fondos conforme a lo establecido en el artículo 125 entre las distintas líneas de ayuda previstas.
+
+##### Subsección 2.ª Ayuda asociada a la producción sostenible de proteínas de origen vegetal. Plan Proteico
+
+###### Artículo 48. Objeto, ámbito de aplicación y dotación.
+
+1\. El objeto de esta ayuda es impulsar la disponibilidad de proteína de origen vegetal y reducir así la dependencia de materias primas esenciales para alimentación animal y humana, así como fomentar un sistema agroalimentario más sostenible.
+
+2\. Se concederá una ayuda asociada por superficie a los agricultores que produzcan determinados cultivos proteicos, según los siguientes tipos de ayuda:
+
+a) Ayuda a la producción de legumbres de las especies de garbanzo, lenteja y judía seca.
+
+b) Ayuda a la producción del resto de leguminosas de grano seco y leguminosas forrajeras.
+
+c) Ayuda a la producción de semillas certificadas de legumbres de las especies de garbanzo, lenteja y judía seca.
+
+d) Ayuda a producción de semillas certificadas de resto de leguminosas de grano seco y leguminosas forrajeras.
+
+Solo se podrá percibir un tipo de ayuda por cada hectárea de superficie subvencionable por la que se solicita la ayuda.
+
+3\. A los efectos de esta ayuda, se considerarán las siguientes especies de la familia de las leguminosas:
+
+Alubia o judía seca (*Phaseolus vulgaris L*.), judía de lima (*Phaseolus lunatus L*.), caupí o frijol de carilla *[Vigna unguiculata (L.) Walp*.*]*, judía escarlata (*Phaseolus coccineus L.*), garbanzo (*Cicer arietinum L*.), lenteja (*Lens sculenta Moench, Lens culinaris Medik*), guisante seco (*Pisum sativum L*.), habas secas (*Vicia faba L*.), o altramuz blanco (*Lupinus albus L*.), altramuz amarillo (*Lupinus luteus L*.), altramuz azul (*Lupinus angustifolius L.*), veza o alverja (*Vicia sativa L.*), veza vellosa (*Vicia villosa Roth*), yeros (*Vicia ervilia (L.) Willd*.), algarrobas (*Vicia monanthos Desf*.), titarros (*Lathyrus cicera L*.), almortas (*Lathyrus sativus L*.), alholva (*Trigonella foenum-graecum L*.), alberjón (*Vicia narbonensis L*.), alfalfa (*Medicago sativa L*.), esparceta (*Onobrychis viciifolia Scop*.), zulla (*Hedysarum coronarium L*.), y crotalaria (*Crotalaria juncea L.*), soja *[Glycine max (L.)]*, cacahuete (*Arachis hypogaea L.*) y alverja húngara (*Vicia pannonica Crantz*).
+
+4\. Se admitirán las mezclas de las leguminosas recogidas en esta lista con gramíneas siempre que las leguminosas sean el cultivo predominante en la mezcla.
+
+5\. Para recibir las ayudas previstas en esta subsección, se crean dos regiones, Peninsular e Insular. Las explotaciones ubicadas en la región insular de Islas Baleares recibirán un mayor apoyo atendiendo a las dificultades adicionales y los mayores costes de producción y comercialización derivados de la insularidad.
+
+6\. La dotación presupuestaria de esta medida, para cada subtipo de ayuda, es la que se indica en el anexo XIX. No obstante, en el caso de existencia de remanente en alguna de las ayudas, una vez atendido el importe máximo unitario, podrá trasvasarse dicho remanente al resto de ayudas de esta medida, en las que no se haya alcanzado ese máximo.
+
+> Se modifica el apartado 3 por el art. 3.18 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifican las letras b) y d) del apartado 2 por el art. 3.21 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 49. Beneficiarios y requisitos.
+
+Podrán ser beneficiarios de estas ayudas los agricultores que produzcan alguno de los cultivos proteicos citados en el artículo anterior, que las soliciten anualmente a través de la solicitud única y que cumplan los siguientes requisitos:
+
+a) Emplear semilla de alguna de las variedades recogidas en el Catálogo común de variedades de especies de plantas agrícolas de la Unión Europea, en el Registro español de variedades comerciales, en el Registro de otro Estado miembro, o que tengan concedida una autorización de comercialización conforme a la Decisión 2004/842/CE, de la Comisión, de 1 de diciembre de 2004, a fecha de fin de plazo de presentación de la solicitud única de la campaña. Se exceptúan de este requisito las semillas de las especies para las que no existe catálogo de variedades o está autorizada su comercialización sin necesidad de pertenecer a una variedad determinada.
+
+b) Efectuar las labores agrícolas que aseguren el normal desarrollo del cultivo y mantenerlo en el terreno hasta alcanzar el estado fenológico que se indica a continuación para cada tipo de cultivo y aprovechamiento, salvo causa de fuerza mayor debidamente justificada:
+
+1.º Leguminosas para grano: hasta el estado de madurez lechosa del grano.
+
+2.º Leguminosas para aprovechamiento forrajero anual: hasta el inicio de la floración.
+
+3.º Leguminosas forrajeras plurianuales: durante todo el año, excepto en el año de siembra y de levantamiento del cultivo, que se llevarán a cabo conforme a las prácticas tradicionales en la zona.
+
+4.º Leguminosas para la producción de semilla certificada: hasta la madurez fisiológica de la semilla.
+
+c) Se permitirá el aprovechamiento por el ganado directamente sobre el terreno, siempre que sea compatible con la especie y el cultivo se mantenga, al menos, hasta el inicio de la floración.
+
+d) Quedarán excluidas de la percepción de la ayuda aquellas superficies cuya producción se utilice como abonado en verde, salvo causas de fuerza mayor debidamente justificadas.
+
+e) En el caso de la alfalfa cultivada en recintos agrícolas de regadío, será necesario que el agricultor, para la totalidad de la producción correspondiente a la superficie por la que se solicita esta ayuda, y en cumplimiento de los fines del plan de proteína de la UE, según el caso:
+
+1.º sea titular de una o varias explotaciones ganaderas, con código REGA, con una carga ganadera acorde a la superficie solicitada,
+
+2.º y/o disponga de un contrato o contratos de suministro con una o varias explotaciones ganaderas o agrupaciones de las mismas en el territorio de la UE,
+
+3.º y/o disponga de un contrato o contratos de suministro con una o varias empresas fabricantes de alimentación animal en el territorio de la UE,
+
+4.º y/o cuando sea miembro de una figura asociativa según se define en el artículo 3.31, que lleve a cabo actividad de elaboración de alimentación para el ganado, disponer de un compromiso de entrega, a la misma, con dicho fin, o que
+
+5.º y/o disponga de un contrato o contratos de suministro con una o varias empresas deshidratadoras de forrajes en el territorio de la UE. En este caso, también será necesario que el agricultor aporte una declaración responsable de la empresa que garantice que la producción equivalente objeto de ayuda será destinada al mercado comunitario.
+
+En el contrato o contratos o, en su caso, en el compromiso de entrega de los miembros de una figura asociativa, se deberá recoger la información identificativa de las parcelas de cultivo de alfalfa correspondientes.
+
+En la solicitud única se deberá incluir una estimación de la cantidad total de alfalfa en regadío a producir proveniente de las superficies por las que se solicita la ayuda.
+
+f) En el caso de la ayuda a la producción de semilla certificada, se deberá disponer en la solicitud de un contrato entre el agricultor y la empresa productora de semilla, salvo en los casos en que el agricultor forme parte de la propia estructura empresarial que produce la semilla.
+
+Así mismo, para la percepción de este tipo de ayuda, las parcelas en las que se produzca la semilla certificada deberán estar declaradas ante la autoridad competente en materia de certificación de semilla de la comunidad autónoma antes del fin del periodo de solicitud única, y ser admitidas para dicha certificación. En caso contrario, podrán optar a las otras tipologías de ayudas, conforme a la especie de que se trate, si cumple los requisitos requeridos para ello.
+
+g) El contenido de los contratos será conforme a lo dispuesto en la Ley 16/2021, de 14 de diciembre, por la que se modifica la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria.
+
+h) Se exigirá a los beneficiarios la aplicación de la gestión sostenible de insumos conforme a las disposiciones normativas vigentes en materia de nutrición sostenible de los suelos agrarios.
+
+> Se modifica la letra a) por el art. 3.19 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica la letra a) por el art. 3.22 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+> Redactado el apartado e).4º conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023. [Ref. BOE-A-2023-2253](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2253)
+
+###### Artículo 50. Aplicación del Memorándum de acuerdo sobre semillas oleaginosas.
+
+Para el caso de la superficie financiada de soja, será de aplicación lo dispuesto en el artículo 11 del Reglamento (UE) número 2115/2021 y en el Reglamento de ejecución (UE) 2022/129 de la Comisión de 21 de diciembre de 2021, sobre la aplicación del Memorándum de Acuerdo entre la Comunidad Económica Europea y los Estados Unidos de América sobre las semillas oleaginosas en el marco del GATT.
+
+Con base en dicho Acuerdo, el total de las superficies de girasol, colza y soja receptora de una ayuda asociada en el conjunto de la Unión Europea, conforme a las realizaciones planificadas en sus planes estratégicos por los Estados miembros, no podrá superar el máximo establecido en el Memorándum de Acuerdo entre la Comunidad Económica Europea y los Estados Unidos de América sobre las semillas oleaginosas en el marco del GATT. De forma que, cuando la superficie subvencionable de dichas especies oleaginosas en el ámbito comunitario supere dicho máximo, la Comisión Europea calculará el correspondiente coeficiente de reducción para cada Estado miembro que haya notificado un exceso de superficie en su propuesta de plan estratégico, en comparación a su superficie de referencia, recogida en el Reglamento de Ejecución (UE) 2022/129 de la Comisión, de 21 de diciembre de 2021, que sea proporcional a dicho exceso, para respetar así la superficie máxima receptora para toda la Unión Europea.
+
+Por otra parte, si la superficie subvencionable para la ayuda al cultivo de la soja, en un año determinado, supera la superficie máxima aprobada en nuestro plan estratégico, será ajustada proporcionalmente a dicho límite.
+
+###### Artículo 51. Importe de la ayuda.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, según la información suministrada por las comunidades autónomas tal y como se establece en el artículo 124, establecerá anualmente los importes unitarios para los distintos tipos de ayudas establecidas en el artículo 48.2 y para cada una de las dos regiones creadas conforme al artículo 48.5.
+
+2\. El importe de las ayudas de la región insular será un 16 por ciento superior al importe unitario de la península.
+
+3\. Los importes calculados se publicarán anualmente en la página web del Fondo Español de Garantía Agraria O.A.
+
+4\. En ningún caso los importes unitarios de esta ayuda podrán ser inferiores a los importes mínimos ni superar los importes máximos previstos en el anexo XX.
+
+5\. En el caso de que la dotación financiera anual resultara insuficiente, para atender los importes mínimos correspondientes, se reducirá proporcionalmente el número de hectáreas de cada beneficiario en la cuantía que resulte necesaria para ajustar el gasto a la dotación financiera anual.
+
+##### Subsección 3.ª Ayuda asociada a la producción sostenible de arroz
+
+###### Artículo 52. Objeto, ámbito de aplicación y dotación.
+
+1\. Se concederá una ayuda a los agricultores que produzcan arroz que cumplan los requisitos establecidos en esta subsección.
+
+2\. El objeto de esta ayuda es garantizar la viabilidad económica del cultivo del arroz, que permita obtener una producción sostenible y competitiva y mantener las superficies cultivadas en las zonas de producción tradicional, que cuentan con escasas alternativas de cultivo y donde el cultivo del arroz juega un importante papel en el tejido rural e industrial asociado.
+
+3\. Para recibir la ayuda prevista en esta subsección, se crean dos regiones, Peninsular e Insular. Las explotaciones ubicadas en la región insular de Islas Baleares recibirán un mayor apoyo atendiendo a las dificultades adicionales y los mayores costes de producción y comercialización derivados de la insularidad.
+
+4\. La dotación presupuestaria de esta medida se indica en el anexo XIX.
+
+###### Artículo 53. Beneficiarios y requisitos.
+
+1\. Podrán ser beneficiarios de esta ayuda los agricultores que produzcan arroz, que la soliciten anualmente a través de la solicitud única y que cumplan los siguientes requisitos:
+
+a) Cultivar arroz en recintos agrícolas de regadío en los que se haya sembrado arroz, según la solicitud única de la PAC o según el Registro General de la Producción agrícola, durante los años 2018, 2019 o 2020.
+
+b) Emplear semilla de alguna de las variedades recogidas en el Catálogo común de variedades de especies de plantas agrícolas de la Unión Europea, en el Registro español de variedades comerciales, en el Registro de otro Estado miembro, o que tengan concedida una autorización de comercialización conforme a la Decisión 2004/842/CE, de la Comisión, de 1 de diciembre de 2004, a fecha de fin de plazo de presentación de la solicitud única de la campaña.
+
+c) Llevar a cabo la siembra del arroz antes de la fecha límite del 30 de junio.
+
+d) Efectuar todas las prácticas y labores agrícolas que aseguren el normal desarrollo agronómico del cultivo hasta la madurez agrícola completa (finalización de su ciclo productivo), salvo causas de fuerza mayor y circunstancias excepcionales.
+
+e) Se exigirá a los beneficiarios la aplicación de la gestión sostenible de insumos conforme a las disposiciones normativas vigentes en materia de nutrición sostenible de los suelos agrarios.
+
+2\. Anualmente, los productores de arroz deberán presentar antes del 30 de noviembre las siguientes declaraciones ante la autoridad competente:
+
+a) Declaración de existencias en su poder a 31 de agosto del año en curso.
+
+b) Declaración de cosecha que especifique la producción obtenida y la superficie utilizada.
+
+Ambas declaraciones se desglosarán por tipos y variedades de arroz, de acuerdo con lo establecido en el artículo 12.b) del Reglamento de Ejecución (UE) 2017/1185 de la Comisión, de 20 de abril de 2017, por el que se establecen las normas de desarrollo de los Reglamentos (UE) número 1307/2013 y (UE) número 1308/2013 del Parlamento Europeo y del Consejo en lo que respecta a la notificación de información y documentos a la Comisión y por el que se modifican y derogan diversos Reglamentos de la Comisión.
+
+> Se modifica la letra b) del apartado 1 por el art. 3.20 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica la letra b) del apartado 1 por el art. 3.23 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 54. Importe de la ayuda.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, según la información suministrada por las comunidades autónomas tal y como se establece en el artículo 124, establecerá anualmente los importes unitarios para cada una de las dos regiones creadas conforme al artículo 52.3.
+
+2\. El importe de las ayudas de la región insular será un 16 por ciento superior al importe unitario de la península.
+
+3\. El importe calculado se publicará anualmente en la página web del Fondo Español de Garantía Agraria O.A.
+
+4\. En ningún caso los importes unitarios de esta ayuda podrán ser inferiores a los importes mínimos ni superar los importes máximos previstos en el anexo XX.
+
+5\. En el caso de que la dotación financiera anual resultara insuficiente, para atender los importes mínimos correspondientes, se reducirá proporcionalmente el número de hectáreas de cada beneficiario en la cuantía que resulte necesaria para ajustar el gasto a la dotación financiera anual.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023. [Ref. BOE-A-2023-2253](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2253)
+
+##### Subsección 4.ª Ayuda asociada a la producción sostenible de remolacha azucarera
+
+###### Artículo 55. Objeto, ámbito de aplicación y dotación.
+
+1\. Se concederá una ayuda a los agricultores que produzcan remolacha azucarera que cumplan los requisitos establecidos en esta subsección.
+
+2\. El objeto de esta ayuda es contribuir al mantenimiento del cultivo de remolacha azucarera en las zonas tradicionales de producción, así como favorecer el adecuado suministro de materia prima a la industria transformadora asociada, para asegurar la permanencia del complejo agroindustrial remolachero-azucarero, en las zonas donde se concentra.
+
+3\. A los efectos de esta ayuda, se considerarán las siguientes zonas homogéneas de producción:
+
+a) Zona de producción de remolacha azucarera de siembra primaveral: aquella zona donde la siembra sea realizada en las fechas comprendidas entre el 15 de febrero y el 15 de junio y cuya cosecha o arranque se produzca en el periodo posterior comprendido entre el 15 de septiembre y el 15 de mayo.
+
+b) Zona de producción de remolacha azucarera de siembra otoñal: aquella zona donde la siembra sea realizada en las fechas comprendidas entre el 15 de septiembre y el 31 de enero y cuya cosecha o arranque se produzca en el periodo posterior comprendido entre el 15 de mayo y el 31 de agosto.
+
+4\. La dotación presupuestaria de esta medida, para cada zona de producción homogénea, se indica en el anexo XIX. No obstante, en el caso de existencia de remanente para los agricultores de una zona, una vez atendido el importe máximo unitario, podrá trasvasarse dicho remanente a los agricultores de la otra zona, si en ella no se ha alcanzado el importe máximo previsto.
+
+###### Artículo 56. Beneficiarios y requisitos.
+
+Podrán ser beneficiarios de esta ayuda los agricultores que asuman el riesgo empresarial de la actividad de producción y de la explotación, que produzcan remolacha azucarera, que la soliciten anualmente en la solicitud única y que cumplan los siguientes requisitos:
+
+a) Producir remolacha azucarera de alguna de las variedades recogidas en el Catálogo común de variedades de especies de plantas agrícolas de la Unión Europea, en el Registro español de variedades comerciales, en el Registro de otro Estado miembro, o que tengan concedida una autorización de comercialización conforme a la Decisión 2004/842/CE, de la Comisión, de 1 de diciembre de 2004, a fecha de fin de plazo de presentación de la solicitud única de la campaña.
+
+b) Emplear una dosis mínima de 100.000 semillas por hectárea en las zonas de producción de siembra primaveral y de siembra otoñal en regadío y de 90.000 semillas por hectárea en las zonas de siembra otoñal en secano.
+
+c) Tener suscrito un contrato de suministro con la industria azucarera para la entrega de la remolacha producida y su transformación en azúcar.
+
+El contenido de los contratos será conforme a lo dispuesto en la Ley 16/2021, de 14 de diciembre, por la que se modifica la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria.
+
+d) Efectuar todas las prácticas y labores agrícolas que aseguren el normal desarrollo agronómico del cultivo hasta la madurez agrícola completa (finalización de su ciclo productivo), salvo causas excepcionales a determinar por la autoridad competente de la comunidad autónoma.
+
+e) Se exigirá a los beneficiarios la aplicación de la gestión sostenible de insumos conforme a las disposiciones normativas vigentes en materia de nutrición sostenible de los suelos agrarios.
+
+> Se modifica la letra a) por el art. 3.21 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica la letra a) por el art. 3.24 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 57. Importe de la ayuda.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, según la información suministrada por las comunidades autónomas tal y como se establece en el artículo 124, establecerá anualmente los importes unitarios para las dos zonas homogéneas de producción establecidas en el artículo 55.3.
+
+2\. Los importes calculados se publicarán anualmente en la página web del Fondo Español de Garantía Agraria O.A.
+
+3\. En ningún caso los importes unitarios de esta ayuda podrán ser inferiores a los importes mínimos ni superar los importes máximos previstos en el anexo XX.
+
+4\. En el caso de que la dotación financiera anual resultara insuficiente, para atender los importes mínimos correspondientes, se reducirá proporcionalmente el número de hectáreas de cada beneficiario en la cuantía que resulte necesaria para ajustar el gasto a la dotación financiera anual.
+
+##### Subsección 5.ª Ayuda asociada a la producción sostenible de tomate para transformación
+
+###### Artículo 58. Objeto, ámbito de aplicación y dotación.
+
+1\. Se concederá una ayuda a los agricultores que produzcan tomates con destino a industria siempre que cumplan los requisitos establecidos en la presente subsección.
+
+2\. El objetivo de esta ayuda es contribuir al mantenimiento del cultivo de tomate para transformación en las zonas tradicionales de producción, así como favorecer el adecuado suministro de materia prima a la industria transformadora asociada para asegurar el mantenimiento del complejo agroalimentario productor y transformador, en las zonas donde se concentra.
+
+3\. La dotación presupuestaria de esta medida es la que se indica en el anexo XIX del presente real decreto.
+
+###### Artículo 59. Beneficiarios y requisitos.
+
+1\. Los agricultores con plantaciones de tomate con destino a industria que cumplan las condiciones que se recogen en el siguiente apartado, podrán beneficiarse de la ayuda asociada por superficie.
+
+2\. Para tener derecho a la ayuda, el agricultor deberá:
+
+a) Destinar a la transformación la producción de tomate que deberá estar amparada mediante un contrato o compromiso de entrega en virtud del artículo siguiente.
+
+b) Realizar una siembra mínima de 22.000 semillas por hectárea, o bien una plantación mínima de 20.000 plantas por hectárea.
+
+c) Realizar las entregas de materia prima a las industrias transformadoras entre el 15 de junio y el 15 de noviembre de cada año.
+
+d) Se exigirá a los beneficiarios la aplicación de la gestión sostenible de insumos conforme a las disposiciones normativas vigentes en materia de nutrición sostenible de los suelos agrarios.
+
+###### Artículo 60. Forma, contenido y fecha de celebración de los contratos o compromisos de entrega para transformación.
+
+1\. Los contratos o compromisos de entrega para la transformación de tomate deberán llevar un número de identificación.
+
+2.Los contratos se celebrarán entre:
+
+1.º Una parte vendedora, que podrá ser un agricultor o una figura asociativa tal y como se define en el artículo 3.31. Salvo en el caso de que la figura asociativa sea una organización de productores, deberá existir un mandato libre entre ésta y sus miembros para actuar como intermediaria con la industria.
+
+Podrán incluirse en el contrato en el que figure dicha figura asociativa como parte vendedora, aquellos agricultores que hayan vendido su producción, o parte de ella, como terceros a dicha figura asociativa. En este caso, se deberá aportar el certificado de la figura asociativa con indicación de los agricultores que comercializan como terceros.
+
+2.º Y una parte compradora, que será un transformador.
+
+3\. Se podrá firmar un compromiso de entrega entre el agricultor y la figura asociativa de la que es miembro cuando ésta actúe también como transformador. En este caso, deberá figurar la identificación de dicha figura asociativa.
+
+4\. Cuando la figura asociativa reciba materia prima para transformación de agricultores que no son socios de la misma deberá formalizarse contrato de transformación entre dichos agricultores y la figura asociativa.
+
+5\. No obstante, no será necesaria la presentación de un contrato o compromiso de entrega en caso de que las partes vendedora y compradora sean la misma persona jurídica siempre que la autoridad competente de la comunidad autónoma compruebe que hay una transformación efectiva de la materia prima y se cumplen los requisitos equivalentes a los establecidos en el contrato.
+
+6\. Los contratos o compromisos de entrega deberán incluir lo establecido en el artículo 62 sobre el contenido mínimo recogido en el contrato o, en el caso de los miembros de una figura asociativa, en el compromiso de entrega para acceder a la ayuda asociada a la producción sostenible de tomate para transformación.
+
+7\. Los contratos o compromisos de entrega se celebrarán, a más tardar, el 31 de enero de cada año.
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023. [Ref. BOE-A-2023-2253](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2253)
+
+###### Artículo 61. Presentación de los contratos o compromisos de entrega.
+
+1\. Los contratos o compromisos de entrega se presentarán ante la autoridad competente donde radique la mayor parte de la explotación del agricultor donde éste presente la solicitud única, en los diez días hábiles siguientes a la fecha de la formalización del mismo. Dicha autoridad asignará un número de identificación al contrato o compromiso de entrega y se lo comunicará al agricultor y al transformador. Las modificaciones de los contratos o compromisos de entrega podrán presentarse ante la autoridad competente hasta la fecha de finalización del plazo de modificación de la solicitud única.
+
+2\. Los contratos deberán cumplir lo previsto en el apartado anterior sin perjuicio, cuando éstas entren en vigor, de las disposiciones del registro de contratos alimentarios recogido en la Ley 16/2021, de 14 de diciembre, por la que se modifica la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria.
+
+###### Artículo 62. Contenido mínimo de los contratos o, en el caso de los miembros de una figura asociativa, del compromiso de entrega a los que se refiere el artículo 60.
+
+Además del contenido mínimo de todo contrato alimentario recogido en la Ley 16/2021, de 14 de diciembre, por la que se modifica la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria, en los contratos, o en el caso de los miembros de una figura asociativa el compromiso de entrega, la información que debe aparecer para poder solicitar la ayuda deberá ser:
+
+1\. Identificación y superficie total de las parcelas de las que procedan los tomates entregados a la transformación.
+
+2\. El período en el que se realicen las entregas en las industrias de transformación.
+
+La información indicada en el apartado 1 de este artículo se podrá presentar ante la autoridad competente hasta la fecha de finalización del plazo de modificación de la solicitud única.
+
+> Se modifica por la disposición final 7.5 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+###### Artículo 63. Importe de la ayuda.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, según la información suministrada por las comunidades autónomas, tal y como se establece en el artículo 124, establecerá anualmente el importe unitario de la ayuda.
+
+2\. El importe calculado se publicará anualmente en la página web del Fondo Español de Garantía Agraria.
+
+3\. En ningún caso los importes unitarios de esta ayuda podrán ser inferiores a los importes mínimos ni superar los importes máximos previstos en el anexo XX.
+
+4\. En el caso de que la dotación financiera anual resultara insuficiente, para atender los importes mínimos correspondientes, se reducirá proporcionalmente el número de hectáreas de cada beneficiario en la cuantía que resulte necesaria para ajustar el gasto a la dotación financiera anual.
+
+##### Subsección 6.ª Ayuda Asociada a los productores de frutos secos en áreas con riesgo de desertificación
+
+###### Artículo 64. Objeto, ámbito de aplicación y dotación.
+
+1\. Se concederá una ayuda asociada por superficie para a los productores de almendro, avellano y algarrobo que cumplan las condiciones que se recogen en la presente subsección.
+
+2\. El objetivo de esta ayuda es evitar el abandono de estos cultivos en determinadas áreas con riesgo de desertificación con el consiguiente problema medioambiental, económico y social que conllevaría.
+
+3\. Para recibir la ayuda prevista en esta subsección, se crean dos regiones, Peninsular e Insular. Las explotaciones ubicadas en la región insular de Islas Baleares recibirán un mayor apoyo atendiendo a las dificultades adicionales y los mayores costes de producción y comercialización derivados de la insularidad.
+
+4\. La dotación presupuestaria de esta medida es la que se indica en el anexo XIX del presente real decreto.
+
+###### Artículo 65. Beneficiarios y requisitos.
+
+1\. Podrán ser beneficiarios de esta ayuda asociada, los agricultores con plantaciones de almendro, avellano y algarrobo, que lo soliciten anualmente a través de la solicitud única.
+
+2\. Las plantaciones deberán cumplir los requisitos siguientes:
+
+a) Tener una densidad mínima por hectárea de 80 árboles para almendro, 150 para avellano y 30 para algarrobo. Para plantaciones mixtas de las especies subvencionables para esta ayuda, se entenderá que cumple con este requisito, si dichas densidades se cumplen al menos para una de las especies, en la totalidad de la parcela, o bien, si cumplen para la superficie equivalente en cultivo puro de cada especie, en cuyo caso a efectos de la ayuda será la superficie que se compute.
+
+b) Tener una superficie mínima subvencionable por parcela, por la que solicita la ayuda, de 0,1 hectáreas, y que la superficie mínima subvencionable por explotación, por la que se solicita la ayuda, y que cumple el requisito anterior, sea de 0,5 ha.
+
+c) En el caso de la región peninsular, ser cultivada en secano y estar ubicadas en recintos SIGPAC con una pendiente superior al 10 % o bien siendo igual o inferior la pendiente, se encuentran en comarcas con una precipitación anual media en el período 2014-2023 menor a 300 mm eliminando las lluvias diarias superiores a 30 mm, que son:
+
+1.º Albacete: Hellín.
+
+2.º Alicante/Alacant: Meridional, Central y Vinalopó.
+
+3.º Almería: Campo Níjar y Bajo Andarax, Río Nacimiento, Bajo Almanzora, Campo de Tabernas, Alto Almanzora, Campo Dalías, Alto Andarax, Los Vélez.
+
+4.º Castellón: La Plana y Litoral Norte.
+
+5.º Granada: Baza, La Costa y Guadix.
+
+6.º Lleida: Segriá.
+
+7.º Murcia: Suroeste y Valle Guadalentín, Campo de Cartagena, Río Segura, Centro y Nordeste.
+
+8.º Tarragona: Ribera de Ebro.
+
+9.º Valencia: Sagunto, Huerta de Valencia y Campos de Liria.
+
+d) En el caso de la región insular, superficies cultivadas en secano que cumplan los requisitos a) y b) de este apartado.
+
+> Se modifica la letra c) del apartado 2 por el art. 1 del Real Decreto 168/2025, de 4 de marzo. [Ref. BOE-A-2025-4323](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4323)
+
+> Esta modificación produce efectos desde el 1 de febrero de 2025 según establece la disposición final única del citado Real Decreto.
+
+> Se modifica la letra c) y se añade la d) en el apartado 2 por el art. 3.22 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+###### Artículo 66. Importe de la ayuda.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, según la información suministrada por las comunidades autónomas, tal y como se establece en el artículo 124, establecerá anualmente los importes unitarios para cada una de las dos regiones creadas conforme al artículo 64.3.
+
+2\. Los importes calculados se publicarán anualmente en la página web del Fondo Español de Garantía Agraria O.A.
+
+3\. En ningún caso los importes unitarios de esta ayuda podrán ser inferiores a los importes mínimos ni superar los importes máximos previstos en el anexo XX.
+
+4\. En el caso de que la dotación financiera anual resultara insuficiente, para atender los importes mínimos correspondientes, se reducirá proporcionalmente el número de hectáreas de cada beneficiario en la cuantía que resulte necesaria para ajustar el gasto a la dotación financiera anual.
+
+##### Subsección 7.ª Ayuda asociada a la producción tradicional de uva pasa
+
+###### Artículo 67. Objeto, ámbito de aplicación y dotación.
+
+1\. Se concederá una ayuda para a los agricultores que produzcan uva para su transformación en uva pasa siempre que cumplan los requisitos establecidos en la presente subsección.
+
+2\. El objetivo de esta ayuda es garantizar la viabilidad económica del cultivo tradicional de la uva pasa evitando el abandono en las zonas de producción que cuentan con escasas alternativas de cultivo y donde esta producción es fundamental desde el punto de vista medioambiental, económico y social.
+
+3\. La dotación presupuestaria de esta medida es la que se indica en el anexo XIX.
+
+###### Artículo 68. Beneficiarios y requisitos.
+
+1\. Los agricultores con plantaciones de uva con destino pasificación que cumplan las condiciones que se recogen en el siguiente apartado, podrán beneficiarse de la ayuda asociada por superficie.
+
+2\. Para tener derecho a la ayuda, se deberán cumplir los siguientes requisitos:
+
+a) Cultivar la variedad Moscatel.
+
+b) Las parcelas serán cultivadas en secano.
+
+c) Destinar un mínimo del 75 % de su producción de uva para su transformación en uva pasa, la cual deberá estar amparada mediante un contrato o, en el caso de los miembros de figuras asociativas tal y como se define en el artículo 3.31 del presente real decreto, un compromiso de entrega. Estará permitida la autotransformación de la producción en la propia explotación, para ello, el beneficiario deberá presentar una declaración responsable firmada que indique que dispone en su explotación de las instalaciones adecuadas para la realización de la transformación de la uva, y en la que se compromete a transformar al menos el 75 % de su producción.
+
+d) En el contrato o, en su caso, en el compromiso de entrega de los miembros de una figura asociativa, se deberá recoger la información identificativa de las parcelas de cultivo.
+
+e) Tener una superficie mínima subvencionable por parcela, por la que solicita la ayuda, de 0,1 hectáreas, y que la superficie mínima subvencionable por explotación por la que se solicita la ayuda, y que cumple el requisito anterior, sea de 0,5 ha.
+
+f) La solicitud deberá incluir una estimación de la cantidad total de uva a producir.
+
+> Se modifica la letra c) del apartado 2 por el art. 3.25 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+> Redactado el apartado 2.c) conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023. [Ref. BOE-A-2023-2253](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2253)
+
+###### Artículo 69. Forma, contenido y fecha de celebración de los contratos o compromisos de entrega para transformación.
+
+1\. Salvo en el supuesto de autotransformación descrito en el apartado 2.c) del artículo 68, los contratos o compromisos de entrega para la transformación de uva pasa deberán llevar un número de identificación.
+
+2\. Los contratos se celebrarán entre:
+
+1.º Una parte vendedora, que podrá ser un agricultor o una figura asociativa, tal y como se define en el artículo 3.31 del presente real decreto, siempre que exista un mandato libre entre ésta y sus miembros para actuar como intermediaria con la industria.
+
+Podrán incluirse en el contrato en el que figure dicha figura asociativa como parte vendedora, aquellos agricultores que hayan vendido su producción, o parte de ella, como terceros a dicha figura asociativa. En este caso, se deberá aportar el certificado de la figura asociativa con indicación de los agricultores que comercializan como terceros.
+
+2.º Y una parte compradora, que será un transformador.
+
+3\. Se podrá firmar un compromiso de entrega entre el agricultor y la figura asociativa de la que es miembro, cuando ésta actúe también como transformador. En este caso, deberá figurar la identificación de dicha figura asociativa.
+
+4\. Cuando la figura asociativa reciba materia prima para transformación de agricultores que no son socios de la misma deberá formalizarse contrato de transformación entre dichos agricultores y la figura asociativa.
+
+5\. No obstante, no será necesaria la presentación de un contrato o compromiso de entrega en caso de que las partes vendedora y compradora sean la misma persona jurídica siempre que el productor presente junto a la solicitud una declaración responsable conforme se establece en el apartado 2.c) del artículo 68 y la autoridad competente de la comunidad autónoma compruebe que hay una transformación efectiva de la materia prima y se cumplen los requisitos equivalentes a los establecidos en el contrato.
+
+6\. Los contratos o compromisos de entrega deberán incluir lo establecido en el artículo 71 sobre el contenido mínimo recogido en el contrato o, en el caso de los miembros de una figura asociativa, en el compromiso de entrega para acceder a la ayuda asociada a la producción tradicional de uva pasa.
+
+7\. Los contratos o compromisos de entrega se celebrarán, a más tardar el 15 de septiembre de cada año.
+
+> Se modifican los apartados 1, 5 y 7 por el art. 3.26 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+> Redactado el apartado 2.1º conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023. [Ref. BOE-A-2023-2253](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2253)
+
+###### Artículo 70. Presentación de los contratos o compromisos de entrega.
+
+1\. Los contratos o compromisos de entrega se presentarán ante el órgano competente de la comunidad autónoma donde el agricultor presente la solicitud única en los diez días hábiles siguientes a la fecha de la formalización del mismo. El órgano competente asignará un número de identificación al contrato o compromiso de entrega y se lo comunicará al agricultor y al transformador. Las modificaciones de los contratos o compromisos de entrega podrán presentarse ante la autoridad competente el 15 de septiembre.
+
+2\. Los contratos deberán cumplir lo previsto en el apartado anterior sin perjuicio, cuando éstas entren en vigor, de las disposiciones del registro de contratos alimentarios recogido en la Ley 16/2021, de 14 de diciembre, por la que se modifica la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria.
+
+> Se modifica el apartado 1 por el art. 3.23 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+###### Artículo 71. Contenido mínimo de los contratos o, en el caso de los miembros de una figura asociativa, en el compromiso de entrega a los que se refiere el artículo 69.
+
+Además del contenido mínimo de todo contrato alimentario recogido en la Ley 16/2021, de 14 de diciembre, por la que se modifica la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria, en los contratos, o en el caso de los miembros de una figura asociativa, un compromiso de entrega la información que debe aparecer para poder solicitar la ayuda es:
+
+1\. Identificación de las parcelas de las que proceda la uva para transformación.
+
+2\. Estimación de la cantidad de uva que se entregará a transformación.
+
+###### Artículo 72. Importe de la ayuda.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, según la información suministrada por las comunidades autónomas, tal y como se establece en el artículo 124, establecerá anualmente el importe unitario de la ayuda.
+
+2\. El importe calculado se publicará anualmente en la página web del Fondo Español de Garantía Agraria.
+
+3\. En ningún caso los importes unitarios de esta ayuda podrán ser inferiores a los importes mínimos ni superar los importes máximos previstos en el anexo XX.
+
+4\. En el caso de que la dotación financiera anual resultara insuficiente para atender los importes mínimos correspondientes, se reducirá proporcionalmente el número de hectáreas de cada beneficiario en la cuantía que resulte necesaria para ajustar el gasto a la dotación financiera anual.
+
+##### Subsección 8.ª Pago específico al cultivo del algodón
+
+###### Artículo 73. Objeto, ámbito de aplicación y dotación.
+
+1\. Se concederá un pago específico a los agricultores que produzcan algodón del código NC 5201 00 que cumplan los requisitos que aquí se establecen, en la superficie recogida en la capa SIGPAC de zonas tradicionales de producción de algodón.
+
+2\. La dotación presupuestaria de esta medida es la que se indica en el anexo XIX.
+
+###### Artículo 74. Beneficiarios y requisitos.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación establecerá, a los efectos de este pago, para uno o varios años de siembra:
+
+a) Los criterios objetivos sobre la base de los cuales las tierras podrán ser reconocidas para el pago específico al algodón. Dichos criterios deberán basarse en la economía agrícola de las regiones para las cuales la producción de algodón es importante, el estado edafoclimático de las superficies en cuestión, la gestión de las aguas de riego, las rotaciones, o las técnicas culturales pertinentes para respetar el medio ambiente.
+
+b) Las variedades de algodón que, estando recogidas en el catálogo comunitario previsto en la Directiva 2002/53/CE del Consejo, de 13 de junio de 2002, referente al catálogo común de las variedades de las especies de plantas agrícolas, en el Registro de variedades comerciales, o que tengan concedida una autorización de comercialización conforme a la Decisión 2004/842/CE, de la Comisión de 1 de diciembre de 2004, a fecha de fin de plazo de presentación de la solicitud única de la campaña para la siembra de ese año, se adapten a las necesidades del mercado.
+
+c) Las condiciones de cultivo y técnicas agronómicas, incluida la densidad de plantación, que deberán respetarse, y que permitan mantener y recolectar el cultivo en condiciones normales, obteniendo un producto de calidad sana, cabal y comercial. Se considerará que el algodón es de calidad sana, cabal y comercial cuando sea entregado y aceptado bajo control del órgano pagador para su desmotado por una desmotadora previamente autorizada conforme a lo previsto en el apartado siguiente.
+
+2\. Podrán ser beneficiarios de esta ayuda los agricultores que produzcan algodón que la soliciten anualmente en la solicitud única y que tengan suscrito un contrato de suministro con una desmotadora autorizada para la entrega del algodón producido. Además, las autoridades competentes podrán establecer, al amparo de lo dispuesto en las normas comunitarias, otros criterios o requisitos adicionales.
+
+3\. Las autoridades competentes podrán establecer los rendimientos mínimos de cultivo como factor indicativo en el marco del cumplimiento del artículo 62 del Reglamento (UE) número 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre.
+
+4\. Se exigirá a los beneficiarios la aplicación de la gestión sostenible de insumos conforme a las disposiciones normativas vigentes en materia de nutrición sostenible de los suelos agrarios.
+
+> Se modifica el apartado 1.b) por el art. 3.24 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+###### Artículo 75. Desmotadoras autorizadas y período de entregas.
+
+1\. Las desmotadoras que deseen colaborar en este régimen de ayuda deberán ser autorizadas por la autoridad competente de la comunidad autónoma en que estén ubicadas.
+
+2\. En la solicitud de autorización deberán figurar expresamente los siguientes compromisos:
+
+a) Llevar una contabilidad de la cantidad de algodón sin desmotar recepcionada, por productor y fecha de cada entrega.
+
+b) Responsabilizarse de la exactitud y veracidad de las operaciones contabilizadas.
+
+c) Tener homologados, de acuerdo con la normativa en vigor, todos los equipos de pesaje.
+
+d) Poner a disposición del organismo de control la contabilidad para las comprobaciones y controles necesarios.
+
+e) Las entregas de algodón se podrán realizar a las desmotadoras autorizadas entre el 1 de septiembre y el 31 de enero.
+
+3\. El algodón sin desmotar que entre en la desmotadora no saldrá de la misma salvo causa de fuerza mayor y previa comunicación a la autoridad competente.
+
+4\. El contrato de suministro entre el agricultor y la desmotadora autorizada se celebrará, a más tardar, el día que se formalice la primera entrega del algodón sin desmotar objeto del mismo, salvo circunstancias excepcionales justificadas a juicio de la autoridad competente.
+
+5\. Las desmotadoras autorizadas han de comunicar a la autoridad competente la producción de algodón sin desmotar contratada el año previo y el precio medio pagado a los productores por la misma.
+
+Por otro lado, las desmotadoras autorizadas también deberán comunicar antes del 1 de septiembre la estimación de la producción de algodón sin desmotar que prevén contratar en el año en curso.
+
+La información recogida en este apartado será remitida al Ministerio de Agricultura, Pesca y Alimentación por la autoridad competente conforme a lo dispuesto en el anexo II, relativo a las comunicaciones, del Real Decreto 1047/2022, de 27 de diciembre.
+
+6\. La autoridad competente retirará la autorización, con efectos a partir de la campaña de comercialización siguiente, previa instrucción del correspondiente procedimiento, cuando se detecten irregularidades en el cumplimiento de los compromisos adquiridos por la desmotadora como entidad colaboradora en este régimen de ayuda.
+
+###### Artículo 76. Organizaciones interprofesionales autorizadas.
+
+1\. A efectos de lo dispuesto en el artículo 39 del Reglamento (UE) número 2021/2115 del Parlamento Europeo y del Consejo, de 02 de diciembre de 2021, se considerarán «organizaciones interprofesionales autorizadas» las entidades jurídicas compuestas por productores de algodón con una superficie no inferior a 4.000 hectáreas y, al menos, una desmotadora.
+
+Los productores que pertenezcan a una organización interprofesional autorizada percibirán una ayuda adicional de dos euros por hectárea.
+
+A partir de la información proporcionada por la autoridad competente de cada comunidad autónoma respecto a los potenciales perceptores de la ayuda adicional, el Ministerio de Agricultura, Pesca y Alimentación establecerá cada año una relación nacional que pondrá a disposición de la autoridad competente, para la gestión de la ayuda.
+
+2\. Corresponde a las autoridades competentes autorizar a aquellas organizaciones interprofesionales que lo soliciten. En caso de que una organización interprofesional comprenda superficies y desmotadoras ubicadas en varias comunidades autónomas, la autoridad competente para la autorización será la de la comunidad autónoma en la que se ubiquen la mayoría de las desmotadoras.
+
+3\. Todos los años, las autoridades competentes autorizarán y comunicarán al Ministerio de Agricultura, Pesca y Alimentación, antes del 15 de diciembre, con respecto a la siembra del año siguiente, a toda organización interprofesional que lo solicite y reúna las condiciones que se establecen en el Reglamento Delegado (UE) número 2022/126 de la Comisión, de 7 de diciembre de 2021, que completa el Reglamento (UE) número 2021/2115 del Parlamento Europeo y del Consejo.
+
+4\. En la solicitud de autorización deberá constar, al menos, lo siguiente: datos personales y cargo que representa en la entidad el beneficiario; datos de la entidad a la que representa; acreditación del número de desmotadoras, de productores y de hectáreas susceptibles de ser sembradas de algodón que representa; y estatutos y reglas de funcionamiento interno de la entidad.
+
+###### Artículo 77. Importe de la ayuda.
+
+1\. El pago será de 1.241,555 euros por hectárea de algodón para las campañas 2023 a 2027, para una superficie básica nacional de 48.000 hectáreas.
+
+2\. El Ministerio de Agricultura, Pesca, y Alimentación, una vez recibidos de las comunidades autónomas los datos correspondientes, de acuerdo con lo establecido en artículo 124, calculará la eventual superación de la superficie básica y, en su caso, comunicará a las comunidades autónomas los importes ajustados del pago y de la ayuda adicional.
+
+Los importes así calculados se publicarán anualmente en la página web del Fondo Español de Garantía Agraria O.A.
+
+##### Subsección 9.ª Ayuda Asociada al olivar con dificultades específicas y alto valor medioambiental
+
+###### Artículo 78. Objeto, ámbito de aplicación y dotación..
+
+1\. Se concederá una ayuda asociada a los productores de olivar que cumplan los requisitos establecidos en esta subsección.
+
+2\. El objeto de esta ayuda es evitar el abandono del olivar con dificultades específicas relacionadas con limitaciones del medio natural, de alto valor ambiental y cuyo mantenimiento es esencial fundamentalmente desde el punto de vista social y ecológico.
+
+3\. Para recibir la ayuda prevista en esta subsección, se crean dos regiones, Peninsular e Insular. Las explotaciones ubicadas en la región insular de Islas Baleares recibirán un mayor apoyo atendiendo a las dificultades adicionales y los mayores costes de producción y comercialización derivados de la insularidad.
+
+4\. La dotación presupuestaria de esta medida es la que se indica en el anexo XIX.
+
+###### Artículo 79. Beneficiarios y requisitos.
+
+1\. Podrán ser beneficiarios de esta ayuda los agricultores activos titulares de explotaciones con hectáreas subvencionables de olivar que la soliciten anualmente a través de la solicitud única.
+
+2\. Las parcelas respecto a las que se solicite esta ayuda deberán cumplir los requisitos siguientes:
+
+a) Estar representadas total o parcialmente por uno o varios recintos SIGPAC que figuren como declarados en la solicitud única de ayudas de la PAC o inscritas en el Registro General de la Producción Agraria en alguno de los años 2018, 2019 o 2020.
+
+b) Estar clasificadas como superficie de secano según SIGPAC y, consecuentemente, ser cultivadas en sistema de explotación de secano.
+
+c) Contar con una densidad de plantación por hectárea de hasta 100 árboles o una pendiente media de recinto superior o igual al 25 %.
+
+d) Contar con una densidad mínima por hectárea de 30 árboles.
+
+e) La edad media de la plantación deberá ser superior a diez años.
+
+f) Contar con una superficie mínima subvencionable por parcela por la que se solicita la ayuda, de 0,1 hectáreas, y que la superficie mínima subvencionable por explotación sea de 0,5 ha.
+
+g) Además, serán subvencionables los olivares centenarios con reconocimientos internacionales específicos, para este cultivo, como patrimonio cultural, aunque no cumplan los requisitos de densidad o pendiente, siempre que éstos estén claramente identificados en SIGPAC debido a su valor patrimonial.
+
+> Se modifica la letra b) del apartado 2 por el art. 7.12 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+###### Artículo 80. Importe de la ayuda.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, según la información suministrada por las comunidades autónomas, tal y como se establece en el artículo 124, establecerá anualmente los importes unitarios para cada una de las dos regiones creadas conforme al artículo 78.3.
+
+2\. Por otra parte, el importe de la ayuda por hectárea en la región Peninsular será:
+
+a) El importe completo de la ayuda para las 10 primeras hectáreas subvencionables de la explotación.
+
+b) El 50 por ciento del importe completo para las siguientes hectáreas.
+
+3\. El importe de las ayudas de la región insular será un 10 por ciento superior al importe unitario de la península.
+
+4\. Los importes calculados se publicarán anualmente en la página web del Fondo Español de Garantía Agraria O.A.
+
+5\. En ningún caso los importes unitarios de esta ayuda podrán ser inferiores a los importes mínimos ni superar los importes máximos previstos en el anexo XX.
+
+6\. En el caso de que la dotación financiera anual resultara insuficiente, para atender los importes mínimos correspondientes, se reducirá proporcionalmente el número de hectáreas de cada beneficiario en la cuantía que resulte necesaria para ajustar el gasto a la dotación financiera anual.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023. [Ref. BOE-A-2023-2253](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2253)
+
+#### Sección 2. ª Pagos directos asociados a los ganaderos
+
+##### Subsección 1.ª Disposiciones Generales
+
+###### Artículo 81. Objeto y Requisitos generales.
+
+1\. De conformidad con lo establecido en el artículo 32 del Reglamento (UE) número 2115/2021 del Parlamento Europeo y el Consejo, de 2 de diciembre de 2021 y de acuerdo con el Plan Estratégico Nacional aprobado para España por la Comisión el 31 de agosto de 2022, se concederá una ayuda asociada a los agricultores activos de los sectores o tipos de producción establecidos en esta sección 2.ª relativa a los pagos directos asociados a los ganaderos para hacer frente a las dificultades encontradas mediante la mejora de la competitividad y sostenibilidad.
+
+2\. La ayuda adoptará la forma de un pago anual por animal elegible que cumpla estos requisitos generales, así como los específicos establecidos en cada caso.
+
+3\. Para que un animal pueda generar derecho a percibir alguna de las ayudas descritas en el presente apartado de ayudas ganaderas, deberá estar identificado y registrado conforme a las disposiciones previstas en la parte IV, título 1, capítulo II, sección 1, del Reglamento (UE) número 2016/429, del Parlamento europeo y del Consejo de 9 de marzo, relativo a las enfermedades transmisibles de los animales y por el que se modifican o derogan algunos actos en materia de sanidad animal («Legislación sobre sanidad animal»)
+
+4\. En todo caso se entenderá que un animal cumple con los requisitos de identificación y registro establecidos en el apartado anterior cuando los reúna en las siguientes fechas en función del tipo de ayuda asociada de que se trate:
+
+a) El 1 de enero del año de solicitud para todas las ayudas asociadas excepto las establecidas las subsecciones 3.ª y 4.ª de esta sección 2.ª
+
+b) El primer día del periodo de retención para las ayudas asociadas establecidas en las subsecciones 3.ª y 4.ª de esta sección 2.ª
+
+5\. Ningún animal podrá recibir ayuda asociada por más de una de las ayudas asociadas establecidas con independencia de que pudiera reunir los requisitos de elegibilidad simultáneamente para más de una de ellas salvo en el caso de las ayudas establecidas en las subsecciones 6.ª, 7.ª y 8.ª de esta sección.
+
+6\. Conforme al epígrafe anterior un mismo animal podrá recibir la ayuda establecida subsección 8.ª de manera simultánea a una de las ayudas previstas en las subsecciones 6 ª y 7.ª de esta sección.
+
+7\. La explotación a la que pertenezcan los animales susceptibles de percibir la ayuda deberá cumplir las disposiciones establecidas en el Real Decreto 479/2004, de 26 de marzo, por el que se establece el Registro general de explotaciones ganaderas.
+
+8\. Los ganaderos beneficiarios de las ayudas asociadas deberán mantener la titularidad de las explotaciones en las que se encuentren los animales susceptibles de percibir la ayuda, durante las fechas en las que se determina la elegibilidad de los mismos y en todo caso hasta la fecha final del plazo de modificación de la solicitud de cada año. Se exceptuarán de la condición de mantener la titularidad durante las fechas en que se determina la elegibilidad de los animales, los casos de cambios de titularidad de la explotación ganadera que hayan tenido lugar antes del final del periodo de modificación de las solicitudes. En tales casos, el nuevo titular percibirá la ayuda por todos los animales presentes en la explotación que haya sido objeto de cambio de titularidad durante las fechas en las que se determina la elegibilidad de los mismos, independientemente de que la titularidad de los animales en esas fechas sea del nuevo o del anterior titular.
+
+9\. Para recibir las ayudas asociadas previstas en este apartado se crean dos regiones, Peninsular e Insular. Las explotaciones ubicadas en la región Insular de Islas Baleares recibirán un mayor apoyo atendiendo a las dificultades adicionales y los mayores costes de producción y comercialización derivados de la insularidad.
+
+En los casos en que la explotación se componga de más de una unidad de producción, situadas en distintas regiones, para determinar la región en la que se ubica la explotación del beneficiario, se atenderá al número de animales elegibles en cada una de las unidades de producción. La explotación se entenderá ubicada donde radiquen las unidades de producción que sumen el mayor número de animales elegibles, de forma que todos los animales elegibles recibirán el importe correspondiente a la Península o a la Región Insular, con independencia de que parte de ellos estén ubicados en unidades pertenecientes a la otra.
+
+10\. A los efectos de las solicitudes de ayudas a los ganaderos, recogidas en esta sección 2.ª, se entenderán por jóvenes ganaderos y ganaderos que comienzan su actividad a aquellos que cumplan con la definición de «joven agricultor» o «nuevo agricultor» establecida en el artículo 3.
+
+11\. Para poder recibir alguna de las ayudas asociadas descritas en esta sección, el beneficiario deberá cumplir los requisitos que determinan la figura de agricultor activo conforme se especifica en el capítulo I del título II de este real decreto.
+
+###### Artículo 82. Asignación financiera indicativa.
+
+La asignación financiera indicativa anual correspondiente a cada línea de ayuda será la que se indica en el anexo XXI de este real decreto, sin perjuicio de reservar trasvases de fondos entre las distintas líneas de ayudas conforme a lo que lo establecido en el título VI relativo a las disposiciones financieras.
+
+##### Subsección 2.ª Ayuda asociada para los ganaderos extensivos de vacuno de carne
+
+###### Artículo 83. Objeto, ámbito de aplicación y asignación financiera indicativa.
+
+1\. Se concederá una ayuda asociada a los titulares de explotaciones de vacuno de carne extensivo, con el fin de garantizar la competitividad y sostenibilidad de estas explotaciones y reducir el riesgo de abandono de esta actividad productiva.
+
+2\. Con el fin de conservar los recursos genéticos y mantener la biodiversidad ganadera, en las dos regiones establecidas en el artículo 81.9 los titulares que mantengan animales elegibles inscritos en libros genealógicos de razas autóctonas según lo establecido y conforme al anexo I del Real Decreto 45/2019, de 8 de febrero, por el que se establecen las normas zootécnicas aplicables a los animales reproductores de raza pura, porcinos reproductores híbridos y su material reproductivo, se actualiza el Programa nacional de conservación, mejora y fomento de las razas ganaderas y se modifican varios Reales Decretos, recibirán un apoyo adicional.
+
+3\. La asignación financiera indicativa total que se destinará cada año a esta ayuda será la que se recoge en el anexo XXI, y se empleará anualmente teniendo en cuenta lo establecido en artículo 82.
+
+###### Artículo 84. Beneficiarios y requisitos generales.
+
+1\. Las ayudas se concederán por animal elegible y año. Serán animales elegibles las vacas nodrizas que se encuentren inscritas en el Registro General de Identificación Individual de Animales (RIIA), conforme se establece en el Real Decreto 728/2007, de 13 de junio, por el que se establece y regula el Registro general de movimientos de ganado y el Registro general de identificación individual de animales. Adicionalmente, y con el fin de impedir la creación artificial de las condiciones para el cobro de esta ayuda, solo se considerarán elegibles las vacas que hayan parido en los veinte meses previos al 30 de abril del año de solicitud, que pertenezcan a un morfotipo cárnico o procedan de un cruce con uno de estos morfotipos, y que formen parte de un rebaño destinado a la cría de terneros para la producción de carne. A estos efectos, no se considerarán vacas o novillas de morfotipo cárnico las de los morfotipos enumerados en el anexo XXIII, ni aquellas que la autoridad competente en la materia determine como de aptitud eminentemente láctea.
+
+Para determinar los animales con derecho al cobro de esta ayuda se hará una comprobación de los animales presentes en la explotación del beneficiario a 1 de enero, otra a 30 de abril y otra comprobación más en una fecha intermedia a determinar, en el periodo comprendido entre estas dos fechas e idéntica para todas las explotaciones de España. Los animales a computar serán aquellos presentes en las tres comprobaciones realizadas.
+
+En el caso de jóvenes ganaderos, y de ganaderos que comiencen su actividad, que se incorporen en una explotación ganadera, siendo la solicitud única en curso aquella en la que se solicitan por primera vez alguna de las ayudas asociadas a la ganadería, los animales con derecho a cobro de esta ayuda serán los animales elegibles presentes en la explotación a fecha 30 de abril. Si se diera la circunstancia de que un joven ganadero o un ganadero que comienza su actividad hubiese presentado también como cesionario un cambio de titularidad de la explotación ganadera antes del final del periodo de modificación de la solicitud única, a la hora de determinar los animales potencialmente subvencionables se le podrá aplicar la opción más beneficiosa para el mismo, es decir, o bien los animales elegibles presentes en la explotación a 30 de abril o bien los animales presentes en la explotación objeto de cambio de titularidad durante las fechas en las que se determina la elegibilidad de los mismos.
+
+2\. Sin perjuicio de lo anterior, también podrán ser elegibles las novillas que cumplan con todas las condiciones del apartado anterior, a excepción de la de haber parido. No obstante, en todo caso, el número de novillas elegibles por explotación no será superior al 15 % de las vacas nodrizas que resulten elegibles.
+
+En caso de que el cálculo del número máximo de novillas, expresado en forma de porcentaje, dé como resultado un número fraccionario de animales, dicho número se redondeará a la unidad inferior si es inferior a 0,5 y al número entero superior si es igual o superior a 0,5.
+
+3\. Las explotaciones donde deberán ubicarse los animales elegibles deberán estar inscritas en el registro general de explotaciones ganaderas (REGA) con el tipo de explotación «Producción y reproducción» o tipo «Pasto». En el primer caso, en el ámbito de subexplotación deberán estar clasificadas como explotaciones de bovino con una clasificación zootécnica de «reproducción para producción de carne», «reproducción para producción mixta» o «recría de novillas». Asimismo, conforme a lo previsto en el artículo 3.3 del Real Decreto 1053/2022 de 27 de diciembre, estas explotaciones deberán estar clasificadas como extensivas, o semiextensivas si cuentan con declaraciones de entregas o ventas directas conforme a lo previsto en el apartado 4 de este artículo, a la fecha de finalización del plazo de modificación de la solicitud única.
+
+Sin perjuicio de lo indicado en el párrafo anterior, a efectos de determinar la elegibilidad de los animales con base en lo establecido en apartado 1 de este artículo, se tendrán en cuenta los animales localizados en movimientos temporales a pastos, ferias y mercados, siempre que hubieran sido convenientemente notificados al sistema SITRAN.
+
+Así mismo, y de manera excepcional, se podrán considerar elegibles animales que se encuentren en unidades de producción que no cumplan con la clasificación con base en el sistema productivo exigido en alguna de las tres fechas de control previstas, siempre y cuando la explotación se componga de varias unidades de producción con diferentes sistemas productivos admisibles y no admisibles a fecha final de modificación de la solicitud única, y se compruebe, a petición del interesado, tras un estudio pormenorizado, justificado y registrado del caso en cuestión por parte de la autoridad competente de la comunidad autónoma gestora, que el sistema productivo predominante en el conjunto de la explotación es el extensivo.
+
+4\. Cuando la explotación cuente con declaraciones de entregas o ventas directas de leche en el Sistema de Información Láctea (INFOLAC), para determinar el número de cabezas con derecho a esta ayuda asociada, la pertenencia de los animales al censo de vacas lecheras o al de nodrizas se establecerá mediante la relación entre la cantidad de leche declarada durante el periodo comprendido entre el 1 de octubre del año anterior a la solicitud y el 30 septiembre del año de solicitud o en su caso las ventas directas declaradas en el año natural anterior al de solicitud y el rendimiento lechero medio establecido para España en 6.500 kilogramos. No obstante, los productores que acrediten ante la autoridad competente un rendimiento lechero diferente podrán utilizar este último para la realización del cálculo.
+
+5\. Los animales elegibles para el apoyo adicional previsto en el artículo 83.2 deberán cumplir lo previsto en los apartados anteriores de este artículo y estar inscritos en el libro genealógico correspondiente a 1 de enero del año de solicitud, de acuerdo al Sistema Nacional de Información de Razas (ARCA) y la asociación reconocida oficialmente para la gestión de dicho libro.
+
+> Se añade un párrafo al apartado 3 por el art. 3.27 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 85. Importe de la ayuda.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, según la información suministrada por las comunidades autónomas, tal y como se establece en el artículo 124, establecerá anualmente los importes unitarios para las vacas nodrizas de cada una de las dos regiones creadas conforme al apartado 9 del artículo 81 así como los respectivos importes unitarios para las vaca nodrizas de raza autóctona según lo previsto en el artículo 83.2.
+
+2\. El importe de la ayuda para las vacas nodrizas de la región insular será un 50 por ciento superior al importe unitario de las vacas nodrizas de la península.
+
+3\. Los importes de las ayudas para las vacas nodrizas de raza autóctona serán un 10 por ciento superiores a los importes que se establezcan para las vacas nodrizas de las regiones Peninsular o Insular.
+
+4\. Los importes calculados se publicarán anualmente en la página web del Fondo Español de Garantía Agraria O.A.
+
+5\. En ningún caso los importes unitarios de esta ayuda podrán ser inferiores a los importes mínimos ni superar los importes máximos previstos en el anexo XXII.
+
+6\. En caso de no alcanzar los importes mínimos previstos en el anexo XXII, el número de animales elegibles se reducirá proporcionalmente para cumplir lo previsto en el epígrafe anterior.
+
+##### Subsección 3.ª Ayuda asociada para el engorde de terneros en la explotación de nacimiento
+
+###### Artículo 86. Objeto, ámbito de aplicación y asignación financiera indicativa..
+
+1\. Se concederá una ayuda asociada a los titulares de explotaciones de vacuno extensivas y semiextensivas que realicen la actividad de engorde de terneros en la explotación de nacimiento del animal y a los cebaderos comunitarios gestionados por ellos al objeto de garantizar la sostenibilidad y competitividad de estas explotaciones y de su modelo productivo.
+
+2\. La asignación financiera indicativa total que se destinará cada año a esta medida será la que se recoge en el anexo XXI y se empleará anualmente teniendo en cuenta lo establecido en el artículo 82.
+
+###### Artículo 87. Beneficiarios y requisitos generales.
+
+1\. Las ayudas se concederán por animal elegible y año. Serán animales elegibles, los bovinos entre 6 y 24 meses de edad que hayan sido cebados durante un periodo mínimo de 90 días en la explotación del beneficiario, o en un cebadero comunitario, y sacrificados en matadero, o exportados, entre el 1 de octubre del año anterior a la solicitud y el 30 de septiembre del año de solicitud. Todos ellos deberán estar inscritos en el Registro General de Identificación Individual de Animales (RIIA), conforme se establece en el Real Decreto 728/2007, de 13 de junio. La determinación del destino de los animales, así como de las fechas en las que los animales entraron en la explotación y la fecha de salida hacia los destinos que dan lugar a la elegibilidad, se hará a través de consultas a la base de datos SITRAN. Entre la fecha de salida a esos destinos y la fecha de entrada en la explotación deberá haber una diferencia mínima de noventa días para determinar la elegibilidad de los animales.
+
+2\. Las explotaciones donde deberán ubicarse los animales elegibles deberán estar inscritas en el registro general de explotaciones ganaderas (REGA) con el tipo de explotación «Producción y reproducción» o tipo «pasto». En el primer caso, en el ámbito de subexplotación deberán estar clasificadas como explotaciones de bovino con una clasificación zootécnica de «reproducción para producción de carne», o «reproducción para producción de leche», o «reproducción para producción mixta». Asimismo, conforme a lo previsto en el artículo 3.3 del Real Decreto 1053//2022, de 27 de diciembre, estas explotaciones deberán estar clasificadas como extensivas o semiextensivas a la fecha de finalización del plazo de modificación de la solicitud única. No obstante, con carácter excepcional, podrán ser elegibles para esta ayuda al engorde de terneros en la explotación de nacimiento, aquellos animales que aun habiendo sido cebados en una instalación clasificada en REGA como cebadero, en base a la información disponible en SITRAN quede demostrado, que han nacido y proceden de vacas madres de una explotación de la que es titular el beneficiario.
+
+En el caso de cebaderos comunitarios deberán estar clasificadas en el ámbito de subexplotación como «cebo o cebadero» y serán la última explotación donde se localizaban los animales antes de su destino al matadero o exportación.
+
+Sin perjuicio de lo indicado en el párrafo anterior, a efectos de determinar la elegibilidad de los animales, se tendrán en cuenta los animales localizados en movimientos temporales a pastos, ferias y mercados, siempre que hubieran sido convenientemente notificados al sistema SITRAN.
+
+3\. No obstante lo anterior, si los animales han abandonado la última explotación con destino a una explotación intermedia, como un tratante, o centro de concentración, que estén registradas como tales en el REGA, y de éstas salen hacia el sacrificio o la exportación, el titular de la explotación en la que se localizaron los animales antes de dicho movimiento a la explotación intermedia podrá beneficiarse de la ayuda, siempre que se cumplan todos los requisitos mencionados y no permanezcan en la explotación intermedia más de quince días.
+
+4\. En el caso de cebaderos comunitarios, será preciso aportar la documentación que justifique la pertenencia de los socios al cebadero comunitario el cual deberá cumplir con las siguientes condiciones:
+
+a) Que tenga entre sus objetivos el engorde o cebo en común de los terneros nacidos en las explotaciones de vacas de cría de sus socios. Para verificar este extremo, las cabezas que darán lugar al cobro de la ayuda asociada para terneros cebados en la misma explotación de nacimiento serán solo las que hayan nacido de las vacas de la explotación clasificada conforme a lo previsto en el apartado 2, mientras que el resto podrán percibir la ayuda para el engorde sostenible de terneros, prevista en la subsección 4.ª
+
+b) Que todos los socios que aportan animales a la solicitud posean hembras de la especie bovina en las explotaciones clasificadas conforme a lo previsto en el apartado 2 y hayan solicitado la ayuda asociada para los ganaderos extensivos de vacuno de carne y/o la ayuda asociada para la producción sostenible de leche de vaca en el año de solicitud de que se trate.
+
+Los socios que figuren en una solicitud presentada por un cebadero comunitario, también podrán solicitar esta ayuda asociada a título individual. A efectos del cálculo de los importes unitarios, se tendrán en cuenta la suma de todos los animales presentados en ambas solicitudes. En estos casos, la ayuda se concederá por cada animal elegible que resulte para cada uno de los beneficiarios (ganadero/cebadero comunitario), debiendo el ganadero indicar en la solicitud que presente a título individual, que es socio de un cebadero comunitario que ha solicitado también esta ayuda asociada, indicando el NIF de dicho cebadero.
+
+5\. Para ser beneficiarios de esta ayuda los titulares de las explotaciones deberán haber cebado y destinado a sacrificio o exportación al menos tres animales en el período comprendido entre el 1 de octubre del año anterior y el 30 de septiembre del año de solicitud.
+
+> Se modifica el apartado 2 por la disposición final 7.6 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+###### Artículo 88. Importe de la ayuda.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, según la información suministrada por las comunidades autónomas, tal y como se establece en el artículo 124, establecerá anualmente los importes unitarios para terneros de cada una de las dos regiones creadas conforme al artículo 81.9.
+
+2\. El importe de la ayuda para los terneros de la región insular será un 50 por ciento superior al importe unitario de los terneros de la península.
+
+3\. Los importes calculados se publicarán anualmente en la página web del Fondo Español de Garantía Agraria O.A.
+
+4\. En ningún caso los importes unitarios de esta ayuda podrán ser inferiores a los importes mínimos ni superar los importes máximos previstos en el anexo XXII.
+
+5\. En caso de no alcanzar los importes mínimos previstos en el anexo XXII, el número de animales elegibles se reducirá proporcionalmente para cumplir lo previsto en el epígrafe anterior.
+
+##### Subsección 4.ª Ayuda asociada para el engorde sostenible de terneros
+
+###### Artículo 89. Objeto, ámbito de aplicación y asignación financiera indicativa.
+
+1\. Se concederá una ayuda asociada a los titulares de explotaciones dedicadas al engorde de terneros al objeto de garantizar la sostenibilidad y competitividad de estas explotaciones.
+
+2\. La asignación financiera indicativa total que se destinará cada año a esta medida será la que se recoge en el anexo XXI, y se empleará anualmente teniendo en cuenta lo establecido en el artículo 82.
+
+###### Artículo 90. Beneficiarios y requisitos generales.
+
+1\. Las ayudas se concederán por animal elegible y año. Los criterios de elegibilidad de los animales serán idénticos a los previstos en el artículo 87.1.
+
+2\. Las explotaciones donde deberán ubicarse los animales elegibles deberán estar inscritas en el registro general de explotaciones ganaderas (REGA) con el tipo de explotación «Producción y reproducción» y en el ámbito de subexplotación deberán estar clasificadas como explotaciones de bovino con una clasificación zootécnica de «cebo o cebadero» y serán la última explotación donde se localizaban los animales antes de su destino al matadero o exportación.
+
+No obstante lo anterior, si los animales han abandonado la última explotación con destino a una explotación intermedia, como un tratante, o centro de concentración, que estén registradas como tales en el REGA, y de éstas salen hacia el sacrificio o la exportación, el titular de la explotación en la que se localizaron los animales antes de dicho movimiento a la explotación intermedia podrá beneficiarse de la ayuda, siempre que se cumplan todos los requisitos mencionados y no permanezcan en la explotación intermedia más de quince días.
+
+3\. Para ser beneficiarios de esta ayuda los titulares de las explotaciones deberán haber cebado y destinado a sacrificio o exportación al menos tres animales en el período comprendido entre el 1 de octubre del año anterior y el 30 de septiembre del año de solicitud.
+
+4\. Esta ayuda se concederá por un máximo de 1.417 animales elegibles por explotación en cada campaña.
+
+###### Artículo 91. Importe de la ayuda.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, según la información suministrada por las comunidades autónomas, tal y como se establece en el artículo 124, establecerá anualmente los importes unitarios para terneros de cada una de las dos regiones creadas conforme al artículo 81.9.
+
+2\. El importe de las ayudas por animal en la región Peninsular será:
+
+a) El importe completo de la ayuda para los 600 primeros animales elegibles.
+
+b) El 50 por ciento del importe completo para los siguientes animales elegibles hasta el máximo de animales subvencionables previsto en el apartado 4 del artículo 90.
+
+3\. El importe de la ayuda para los terneros de la región insular será un 50 por ciento superior al importe unitario de los terneros de la península previsto en el punto 2.a) de este apartado con el máximo de animales subvencionables establecido en el apartado 4 del artículo 90.
+
+4\. En ningún caso los importes unitarios de esta ayuda podrán ser inferiores a los importes mínimos ni superar los importes máximos previstos en el anexo XXII.
+
+5\. En caso de no alcanzar los importes mínimos previstos en el anexo XXII, el número de animales elegibles se reducirá proporcionalmente para cumplir lo previsto en el epígrafe anterior.
+
+##### Subsección 5.ª Ayuda asociada para la producción sostenible de leche de vaca
+
+###### Artículo 92. Objeto, ámbito de aplicación y asignación financiera indicativa.
+
+1\. Se concederá una ayuda asociada a los titulares de explotaciones de ganado vacuno de leche al objeto de garantizar la sostenibilidad y competitividad de estas explotaciones y reducir el riesgo de abandono de esta actividad productiva.
+
+2\. Las explotaciones de la región peninsular conforme al artículo 81.9 ubicadas en zonas de montaña recibirán un mayor apoyo consecuencia de las dificultades específicas que soportan y comprometen el mantenimiento del tejido productor en estas zonas.
+
+A estos efectos se entenderá por zonas de montaña, para cada ejercicio, las definidas de acuerdo con el artículo 32 del Reglamento (UE) 1305/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre, y que así estuvieran designadas en 2022 por las comunidades autónomas en las intervenciones de desarrollo rural previstas en el Plan Estratégico Nacional aprobado para España por la Comisión el 31 de agosto de 2022.
+
+En los casos en que la explotación se componga de más de una unidad de producción, situadas en distintas zonas, para determinar si la explotación del beneficiario se ubica en zona de montaña, se atenderá al número de animales elegibles en cada una de las unidades de producción. La explotación se entenderá ubicada donde radiquen las unidades de producción que sumen el mayor número de animales elegibles, de forma que todos los animales elegibles recibirán el importe correspondiente a esa zona, con independencia de que parte de ellos estén ubicados en unidades pertenecientes a la otra.
+
+3\. La asignación financiera indicativa total que se destinará cada año a esta medida será la que se recoge en el anexo XXI de este real decreto, y se empleará anualmente teniendo en cuenta lo establecido en el artículo 82.
+
+###### Artículo 93. Beneficiarios y requisitos generales.
+
+1\. Las ayudas se concederán por animal elegible y año. Serán animales elegibles las hembras de aptitud láctea pertenecientes a alguno de los morfotipos enumerados en el anexo XXIII, o a aquellos morfotipos de ganado vacuno que la autoridad competente en la materia determine como de aptitud eminentemente láctea, de edad igual o mayor a 24 meses a 30 de abril del año de solicitud y que se encuentren inscritas en el Registro General de Identificación Individual de Animales (RIIA), conforme se establece en el Real Decreto 728/2007, de 13 de junio.
+
+Para determinar los animales con derecho al cobro de esta ayuda se hará una comprobación de los animales presentes en la explotación del beneficiario a 1 de enero, otra a 30 de abril y otra comprobación más en fecha intermedia a determinar, en el periodo comprendido entre estas dos fechas e idéntica para todas las explotaciones de España. Los animales a computar serán aquellos presentes en las tres comprobaciones realizadas.
+
+En el caso de jóvenes ganaderos, y de ganaderos que comiencen su actividad, que se incorporen en una explotación ganadera, siendo la solicitud única en curso aquella en la que se solicitan por primera vez alguna de las ayudas asociadas a la ganadería, los animales con derecho a cobro de esta ayuda serán los animales elegibles presentes en la explotación a fecha 30 de abril. Si se diera la circunstancia de que un joven ganadero o un ganadero que comienza su actividad hubiese presentado también como cesionario un cambio de titularidad de la explotación ganadera antes del final del periodo de modificación de la solicitud única, a la hora de determinar los animales potencialmente subvencionables se le podrá aplicar la opción más beneficiosa para el mismo, es decir, o bien los animales elegibles presentes en la explotación a 30 de abril o bien los animales presentes en la explotación objeto de cambio de titularidad durante las fechas en las que se determina la elegibilidad de los mismos.
+
+2\. Las explotaciones donde deberán ubicarse los animales elegibles deberán cumplir los siguientes requisitos:
+
+a) Estar inscritas en el registro general de explotaciones ganaderas (REGA) con el tipo de explotación «Producción y reproducción» o tipo «pasto». En el primer caso, en el ámbito de subexplotación deberán estar clasificadas como explotaciones de bovino con una clasificación zootécnica de «reproducción para producción de leche», «reproducción para producción mixta» o «recría de novillas».
+
+Sin perjuicio de lo indicado en el párrafo anterior, a efectos de determinar la elegibilidad de los animales con base en lo establecido en el apartado 1, se tendrán en cuenta los animales localizados en movimientos temporales a pastos, ferias y mercados, siempre que hubieran sido convenientemente notificados al sistema SITRAN; y
+
+b) Haber realizado entregas de leche a primeros compradores, al menos, durante seis meses en el periodo comprendido entre el 1 de octubre del año anterior al de la solicitud y el 30 septiembre del año de la solicitud, o haber presentado la declaración de ventas directas en el año natural anterior al de la solicitud con cantidades vendidas.
+
+3\. Esta ayuda se concederá por un máximo de 725 animales elegibles por explotación en cada campaña.
+
+###### Artículo 94. Importe de la ayuda.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, según la información suministrada por las comunidades autónomas, tal y como se establece en el artículo 124, establecerá anualmente los importes unitarios para las vacas lecheras de cada una de las dos regiones creadas conforme al artículo 81.9 y de las ubicadas en explotaciones de zonas de montaña según lo establecido en el artículo 92.2.
+
+2\. El importe de las ayudas por animal en la región peninsular, independientemente de la zona donde se ubique la explotación, será:
+
+a) El importe completo de la ayuda para las 150 primeras vacas elegibles.
+
+b) El 50 por ciento del importe completo para los siguientes animales elegibles hasta el máximo de animales subvencionables previsto en el artículo 93.3.
+
+3\. Los importes de ayuda previstos para las vacas ubicadas en explotaciones de montaña serán un 15 por ciento superiores a los importes unitarios establecidos en los apartados 2.a) y 2.b) para las vacas de la región peninsular.
+
+4\. El importe de la ayuda para vacas de la región insular será un 20 por ciento superior al importe unitario de las vacas de la península previsto en el apartado 2.a) hasta el máximo de animales subvencionables previsto en el artículo 93.3.
+
+5\. En ningún caso los importes unitarios de esta ayuda podrán ser inferiores a los importes mínimos ni superar los importes máximos previstos en el anexo XXII.
+
+6\. En caso de no alcanzar los importes mínimos previstos en el anexo XXII, el número de animales elegibles se reducirá proporcionalmente para cumplir lo previsto en el apartado anterior.
+
+##### Subsección 6.ª Ayuda asociada para los ganaderos extensivos y semiextensivos de ovino y caprino de carne
+
+###### Artículo 95. Objeto, ámbito de aplicación y asignación financiera indicativa.
+
+1\. Se concederá una ayuda asociada a los titulares de explotaciones de ganado ovino y caprino dedicados a la cría de corderos y cabritos al objeto de garantizar la sostenibilidad y competitividad de estas explotaciones y reducir el riesgo de abandono de esta actividad productiva.
+
+2\. La asignación financiera indicativa total que se destinará cada año a esta medida será la que se recoge en el anexo XXI, y se empleará anualmente teniendo en cuenta lo establecido en el artículo 82.
+
+###### Artículo 96. Beneficiarios y requisitos generales.
+
+1\. Las ayudas se concederán por animal elegible y año. Serán animales elegibles las hembras de la especie ovina y caprina mantenidas como reproductoras que estén correctamente identificadas y registradas individualmente conforme a la normativa vigente, a 1 de enero del año de presentación de la solicitud única, en las explotaciones que cumplan los requisitos establecidos en la presente subsección.
+
+No obstante, durante las campañas 2023 y 2024, para aquellas comunidades autónomas que no tengan plenamente implantado el sistema de identificación individual de los pequeños rumiantes, las hembras elegibles serán aquellas mantenidas como reproductoras conforme a la declaración censal obligatoria establecida en el artículo 11.4 del Real Decreto 685/2013, de 16 de septiembre, por el que se establece un sistema de identificación y registro de los animales de las especies ovina y caprina, respectivamente, y que estén correctamente identificadas y registradas conforme a la normativa vigente, a 1 de enero del año de presentación de la solicitud única
+
+En el caso de jóvenes ganaderos y de ganaderos que comienzan su actividad, que se incorporen a una explotación ganadera, siendo la solicitud única en curso aquella en la que se solicitan por primera vez alguna de las ayudas asociadas a la ganadería, los animales con derecho a cobro de esta ayuda serán los animales elegibles presentes en la explotación a fecha final de plazo de modificación de la solicitud única. La autoridad competente velará por que no se produzcan duplicidades en relación a la posibilidad de que un mismo animal pudiera resultar elegible en más de una explotación, siendo en estos casos, siempre prioritaria la elegibilidad a favor de los animales del joven ganadero que se incorpora. En los demás casos de inicio de actividad, a falta de un acuerdo escrito en contrario, se entenderá que la prioridad en la elegibilidad se concede al nuevo titular que se instala. Si se diera la circunstancia de que un joven ganadero o un ganadero que comienza su actividad hubiese presentado también como cesionario un cambio de titularidad de la explotación ganadera antes del final del periodo de modificación de la solicitud única, a la hora de determinar los animales potencialmente subvencionables se le podrá aplicar la opción más beneficiosa para el mismo, es decir, o bien los animales elegibles presentes en la explotación a fecha final de plazo de modificación de la solicitud única o bien los animales presentes en la explotación objeto de cambio de titularidad durante las fechas en las que se determina la elegibilidad de los mismos.
+
+2\. Sólo recibirán esta ayuda asociada los titulares de explotaciones con un censo de hembras elegibles igual o superior a 30 en el caso del ovino, o a 10 en el caso del caprino. No obstante, los mencionados límites inferiores podrán rebajarse o eliminarse por las autoridades competentes de las comunidades autónomas cuyo censo de ovino o caprino respecto al censo nacional es inferior al 2 %.
+
+3\. Las explotaciones donde deberán ubicarse los animales elegibles deberán estar inscritas en el registro general de explotaciones ganaderas (REGA) con el tipo de explotación «Producción y reproducción» o tipo «pasto». En el primer caso, en el ámbito de subexplotación, deberán estar clasificadas como explotaciones de ovino o caprino con una clasificación zootécnica de «reproducción para producción de carne» o «reproducción para producción mixta».
+
+Cuando la explotación cuente con declaraciones de entregas o ventas directas de leche en el Sistema de Información Láctea (INFOLAC), para determinar el número de cabezas con derecho a esta ayuda asociada, la pertenencia de los animales al censo de hembras lecheras o al de hembras de aptitud cárnica se establecerá mediante la relación entre la cantidad de leche declarada durante el periodo comprendido entre el 1 de junio del año anterior a la solicitud y el 31 de mayo del año de solicitud o en su caso las ventas directas declaradas en el año natural anterior al de solicitud y el rendimiento lechero medio establecido para España en 230 litros para el ovino de leche y 380 litros para el caprino de leche. No obstante, los productores que acrediten ante la autoridad competente un rendimiento lechero diferente podrán utilizar este último para la realización del cálculo.
+
+4\. Con el fin de evitar la creación artificial de las condiciones para percibir esta ayuda, las explotaciones deberán tener un umbral mínimo de movimientos de salida de la explotación de al menos 0,6 corderos o cabritos por hembra elegible, en el periodo comprendido entre el 1 de junio del año anterior a la solicitud y el 31 de mayo del año de solicitud.
+
+No obstante lo anterior, también podrán considerarse a los efectos del cumplimiento del umbral mínimo de movimientos de salida de la explotación, los animales nacidos en la explotación del beneficiario comercializados para reposición con menos de doce meses.
+
+Para el cálculo del número de corderos por hembra elegible, se tomará el resultado de redondear a 1 decimal, de modo que este decimal que determina el resultado se quedará invariable, si el segundo decimal es menor a 5, mientras que se elevará al número natural inmediatamente superior si el segundo decimal es igual o superior a 5.
+
+Para los casos de inicio de actividad y los cambios de titularidad recogidos en el artículo 81.8 que se hagan efectivos tras el 1 de junio del año anterior al que se presenta la solicitud, la revisión del cumplimiento de los umbrales mínimos de producción (movimientos de salida de corderos o cabritos) se prorrateará en función del número de días en los que el beneficiario de la ayuda haya ejercido la actividad desde la fecha de alta de su explotación.
+
+5\. En caso de que la explotación no alcance el umbral previsto en el apartado 4, el número máximo de cabezas con derecho a esta ayuda se establecerá mediante la relación entre los corderos o cabritos comercializados por la explotación en el plazo establecido en dicho epígrafe y los corderos o cabritos necesarios para alcanzar el umbral de 0,6. En este caso, para realizar el ajuste, dicha relación deberá ser igual o superior al 50 %. Para el cálculo del número de animales subvencionables, se aplicará la regla del 5 para el redondeo.
+
+###### Artículo 97. Importe de la ayuda.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, según la información suministrada por las comunidades autónomas, tal y como se establece en el artículo 124, establecerá anualmente los importes unitarios las hembras reproductoras de cada una de las dos regiones creadas conforme al artículo 81.9.
+
+2\. El importe de la ayuda para las hembras reproductoras de la región insular será un 50 por ciento superior al importe unitario de las hembras reproductoras de la península.
+
+3\. Los importes calculados se publicarán anualmente en la página web del Fondo Español de Garantía Agraria O.A.
+
+4\. En ningún caso los importes unitarios de esta ayuda podrán ser inferiores a los importes mínimos ni superar los importes máximos previstos en el anexo XXII.
+
+5\. En caso de no alcanzar los importes mínimos previstos en el anexo XXII, el número de animales elegibles se reducirá proporcionalmente para cumplir lo previsto en el apartado anterior.
+
+##### Subsección 7.ª Ayuda asociada para la producción sostenible de leche de oveja y cabra
+
+###### Artículo 98. Objeto, ámbito de aplicación y asignación financiera indicativa.
+
+1\. Se concederá una ayuda asociada a los titulares de explotaciones de ganado ovino y caprino dedicados a la producción de leche al objeto de garantizar la sostenibilidad y competitividad de estas explotaciones y reducir el riesgo de abandono de esta actividad productiva.
+
+2\. La asignación financiera indicativa total que se destinará cada año a esta medida será la que se recoge en el anexo XXI, y se empleará anualmente teniendo en cuenta lo establecido en el artículo 82.
+
+###### Artículo 99. Beneficiarios y requisitos generales.
+
+1\. Las ayudas se concederán por animal elegible y año. Los criterios de elegibilidad de los animales serán idénticos a los previstos en el artículo 96.1.
+
+2\. Sólo recibirán esta ayuda asociada los titulares de explotaciones que cumplan lo previsto en el artículo 96.2.
+
+3\. Las explotaciones donde deberán ubicarse los animales elegibles deberán estar inscritas en el registro general de explotaciones ganaderas (REGA) con el tipo de explotación «Producción y reproducción» o tipo «pasto». En el primer caso, en el ámbito de subexplotación, deberán estar clasificadas como explotaciones de ovino o caprino con una clasificación zootécnica de «reproducción para producción de leche» o «reproducción para producción mixta».
+
+4\. Con el fin de evitar la creación artificial de las condiciones para percibir esta ayuda, las explotaciones deberán tener una producción mínima de leche de 80 litros por hembra reproductora de ovino y año o 200 litros por hembra reproductora y año en el caso del caprino. Para ello se tendrán en cuenta las entregas a compradores realizadas en el periodo comprendido entre el 1 de junio del año anterior a la solicitud y el 31 de mayo del año de solicitud y, en su caso, las ventas directas de leche realizadas durante el año natural anterior al año de solicitud.
+
+No obstante, para los casos de inicio de actividad y los cambios de titularidad recogidos en el artículo 81.8 que se hagan efectivos tras el 1 de junio del año anterior al que se presenta la solicitud, la revisión del cumplimiento de los umbrales mínimos de producción (producción de litros de leche), se prorrateará en función del número de meses en los que el beneficiario de la ayuda haya ejercido la actividad desde la fecha de alta de su explotación.
+
+5\. En caso de que la explotación no alcance los umbrales previstos en el apartado 4, el número máximo de cabezas con derecho a esta ayuda se establecerá mediante la relación entre las entregas o ventas directas declaradas por la explotación en el plazo establecido en dicho apartado y las entregas o ventas directas necesarias para alcanzar ese umbral de 80 litros en el caso del ovino y 200 litros en el caso del caprino. En este caso, para realizar el ajuste, dicha relación deberá ser igual o superior al 50 %. Para el cálculo del número de animales subvencionables, se aplicará la regla del 5 para el redondeo.
+
+###### Artículo 100. Importe de la ayuda.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, según la información suministrada por las comunidades autónomas, tal y como se establece en el artículo 124, establecerá anualmente los importes unitarios para las hembras reproductoras de cada una de las dos regiones creadas conforme al artículo 81.9.
+
+2\. El importe de la ayuda para las hembras reproductoras de la región insular será un 50 por ciento superior al importe unitario de las hembras de la península.
+
+3\. Los importes calculados se publicarán anualmente en la página web del Fondo Español de Garantía Agraria O.A.
+
+4\. En ningún caso los importes unitarios de esta ayuda podrán ser inferiores a los importes mínimos ni superar los importes máximos previstos en el anexo XXII.
+
+5\. En caso de no alcanzar los importes mínimos previstos en el anexo XXII, el número de animales elegibles se reducirá proporcionalmente para cumplir lo previsto en el epígrafe anterior.
+
+##### Subsección 8.ª Ayuda asociada para los ganaderos extensivos y semiextensivos de ovino y caprino sin pastos a su disposición y que pastorean superficies de rastrojeras, barbechos y restos hortofrutícolas
+
+###### Artículo 101. Objeto, ámbito de aplicación y asignación financiera indicativa.
+
+1\. Se concederá una ayuda asociada a los titulares de explotaciones de ganado ovino y caprino sin pastos a su disposición y que realicen la actividad de pastoreo en superficies de rastrojeras, barbechos y restos hortofrutícolas con el fin de mejorar su sostenibilidad y competitividad, fomentando el aprovechamiento sostenible de los recursos pastables y la economía circular.
+
+2\. La asignación financiera indicativa total que se destinará cada año a esta medida será la que se recoge en el anexo XXI de este real decreto, y se empleará anualmente teniendo en cuenta lo establecido en el artículo 82.
+
+###### Artículo 102. Beneficiarios y requisitos generales.
+
+1\. No podrán optar a esta ayuda los beneficiarios que hayan declarado más de 2 hectáreas subvencionables de pastos permanentes ni aquellos cuyas hectáreas de pastos permanentes declaradas supongan más del 3 % del total de hectáreas declaradas, en la solicitud única de cada campaña.
+
+No computarán para los límites indicados en el párrafo anterior las superficies de las parcelas declaradas con pastos permanentes con una superficie menor de 0,10 ha.
+
+2\. Podrán ser beneficiarios de esta ayuda los solicitantes que hayan declarado hectáreas subvencionables de tierras de cultivo o cultivos permanentes sobre las que vayan a realizar el aprovechamiento de rastrojeras, barbechos y restos hortofrutícolas con base en pastoreo o los que declaren este aprovechamiento en las hectáreas declaradas por otro titular y cuenten con un acuerdo por escrito con dicho titular o bien dispongan de la adjudicación o concesión correspondiente para la realización de este aprovechamiento de ser el caso.
+
+3\. Las ayudas se concederán por animal elegible y año. Serán animales elegibles las hembras de la especie ovina y caprina que cumplan los requisitos establecidos en el artículo 96.1.
+
+4\. Las explotaciones donde deberán ubicarse los animales elegibles deberán estar inscritas en el registro general de explotaciones ganaderas (REGA) con el tipo de explotación «Producción y reproducción» o tipo «pasto». En el primer caso en el ámbito de subexplotación, deberán estar clasificadas como explotaciones de ovino o caprino con una clasificación zootécnica de «reproducción para producción de carne», «reproducción para producción de leche» o «reproducción para producción mixta».
+
+5\. El número máximo de animales subvencionables por explotación será el resultado de multiplicar las hectáreas subvencionables sobre las que realiza el pastoreo conforme a lo indicado en el apartado 2 por una carga ganadera de 1,2 UGM por hectárea.
+
+Para la conversión de UGM a hembras elegibles se utilizará la tabla prevista en el anexo V.
+
+> Se modifica el apartado 1 por el art. 7.13 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+###### Artículo 103. Importe de la ayuda.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, según la información suministrada por las comunidades autónomas tal y como se establece en el artículo 124, establecerá anualmente los importes unitarios para las hembras reproductoras de cada una de las dos regiones creadas conforme al artículo 81.9.
+
+2\. El importe de la ayuda para las hembras reproductoras de la región insular será un 50 por ciento superior al importe unitario de las hembras de la península.
+
+3\. Los importes calculados se publicarán anualmente en la página web del Fondo Español de Garantía Agraria O.A.
+
+4\. En ningún caso los importes unitarios de esta ayuda podrán ser inferiores ni superar los importes máximos previstos en el anexo XXII.
+
+5\. En caso de no alcanzar los importes mínimos previstos en el anexo XXII, el número de animales elegibles se reducirá proporcionalmente para cumplir lo previsto en el epígrafe anterior.
+
+## TÍTULO IV — Solicitud única y otras solicitudes de ayuda
+
+### CAPÍTULO I — Disposiciones generales
+
+###### Artículo 104. Alcance de la solicitud única y sujetos que deben presentarla.
+
+1\. Los agricultores que deseen obtener en el año alguno de los pagos siguientes, deberán presentar una solicitud única:
+
+a) Intervenciones en forma de pagos directos
+
+b) Intervenciones para el desarrollo rural asimiladas al SIGC,
+
+c) Intervenciones financiadas con cargo al Feader relacionadas con la instalación de jóvenes agricultores,
+
+2\. Sin perjuicio de lo anterior, no se incluirán en la solicitud única:
+
+a) Las solicitudes establecidas en el marco del Programa de Opciones Específicas por la Lejanía e Insularidad en las islas Canarias (POSEI) y las solicitudes intervenciones regionales para el desarrollo rural de las islas Canarias.
+
+b) Si así lo decide la autoridad de gestión regional, en su ámbito territorial, las solicitudes de intervenciones financiadas con cargo al Feader relacionadas con la instalación de jóvenes agricultores
+
+3\. La solicitud única deberá ser presentada por el titular de la explotación tal y como está definido en el artículo 3.4. Por tanto, deberá disponer de toda la documentación correspondiente inherente a la gestión diaria de la actividad agraria en lo que se refiere a los diferentes registros y libros de explotaciones establecidos por la normativa aplicable correspondiente. De manera específica, el beneficiario deberá estar inscrito en los registros que las autoridades competentes tengan dispuestos de acuerdo con el Real Decreto 479/2004, de 26 de marzo, por el que se establece y regula el Registro general de explotaciones ganaderas, con el Real Decreto 9/2015, de 16 de enero, por el que se regulan las condiciones de aplicación de la normativa comunitaria en materia de higiene en la producción primaria agrícola y con el Real Decreto 1054/2022, de 27 de diciembre.
+
+4\. A los efectos del apartado anterior, la solicitud podrá ser presentada directamente por el agricultor, a través de su representante o a través de una entidad habilitada por la autoridad competente de la comunidad autónoma para tal fin.
+
+Dicha entidad deberá estar acreditada por la autoridad competente para la presentación de la solicitud única, de modo que tenga potestad para actuar en nombre del agricultor durante la tramitación de la misma, incluyendo la recepción de notificaciones y avisos emitidos por la administración y el envío de respuestas a los mismos, así como el acceso a la información del expediente. La autoridad competente le conferirá los permisos de acceso a los sistemas y aplicaciones que en cada caso se determinen.
+
+5\. En cualquier caso, el titular de la explotación es el responsable último de que la información declarada en su solicitud sea veraz en todos sus extremos y en concreto en lo que se refiere a la subvencionabilidad, al requisito de agricultor activo y a la realización de la actividad agraria establecidos en el título II. En caso contrario, se aplicarán las penalizaciones establecidas en la normativa correspondiente sin perjuicio de la aplicación, cuando proceda, del régimen sancionador previsto en el título II de la Ley 30/2022, de 23 de diciembre, por la que se regulan el sistema de gestión de la Política Agrícola Común y otras materias conexas.
+
+### CAPÍTULO II — Contenido mínimo de la solicitud única
+
+###### Artículo 105. Requisitos comunes.
+
+1\. La solicitud única se presentará conforme se indica en el artículo 108.
+
+2\. El contenido de la solicitud única se detalla en el anexo VI e incluirá como mínimo:
+
+a) La identidad del beneficiario;
+
+b) los detalles de la(s) intervención(es) solicitada(s);
+
+c) en su caso, los documentos justificativos necesarios para establecer las condiciones de subvencionabilidad y otros requisitos pertinentes para la intervención de que se trate;
+
+d) información relevante para la condicionalidad.
+
+e) toda la información necesaria para extraer los datos pertinentes para la correcta comunicación de los indicadores de realización y resultados a que se refiere el artículo 66.2, del Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, con respecto a las intervenciones cubiertas por la solicitud única.
+
+3\. El beneficiario seguirá siendo responsable de la solicitud de ayuda y de la exactitud de la información transmitida. Este será también el caso cuando se aplique el sistema de solicitud automática descrito en el artículo 109.
+
+4\. En la solicitud única, y en otras solicitudes de ayuda del POSEI que así lo establezca la autoridad competente, se declarará la superficie agrícola de la explotación conforme al procedimiento establecido en el artículo 106.
+
+5\. La declaración de superficies a la que se hace referencia en el apartado 4 utilizará el SIGPAC como sistema de referencia. A tales efectos, el Fondo Español de Garantía Agraria O.A. y, en su caso, las comunidades autónomas publicarán cada año en su página web la base de datos del SIGPAC actualizada.
+
+6\. El agricultor deberá hacer una declaración expresa en la que dará su conformidad a la delimitación, el uso y demás información contenida en el SIGPAC para cada uno de los recintos declarados. En caso contrario, deberá hacer las correspondientes alegaciones según se especifica en el artículo 21 del Real Decreto 1047/2022, de 27 de diciembre. Esta obligación también se aplicará a otras solicitudes de ayudas no incluidas en la solicitud única cuando así lo establezca la autoridad competente.
+
+7\. Con base en los criterios y procedimientos que, en su caso, se establezcan por la autoridad competente, el agricultor declarará, en la solicitud única, la utilización o aprovechamiento de todas las parcelas agrícolas declaradas con base en el catálogo publicado al efecto a fecha de inicio de presentación de la solicitud única y conforme a lo establecido en el Real Decreto 1054/2022, de 27 de diciembre, así como las labores de producción o mantenimiento realizadas para conservar las superficies en estado adecuado para el pasto o para el cultivo, de entre las recogidas en la lista establecida en el anexo III.
+
+8\. El agricultor, en el caso de tratarse de persona física, o bien de una comunidad de bienes, herencia yacente o comunidad de herederos, sociedad civil sin objeto mercantil o explotación en régimen de titularidad compartida, incluirá en su solicitud única, o en la solicitud que corresponda cuando se trate de ayudas del POSEI no incluidas en la solicitud única, una autorización para que la autoridad competente recabe de la Administración Tributaria correspondiente y de la Tesorería General de la Seguridad Social, y en caso de personas jurídicas de la Administración Tributaria correspondiente, la información para poder determinar el cumplimiento de los requisitos recogidos en el capítulo I del título II. El Fondo Español de Garantía Agraria O.A., en cumplimiento de lo dispuesto en el artículo 6.1 del Real Decreto 1047/2022, de 27 de diciembre, realizará los correspondientes intercambios con la Agencia Estatal de Administración Tributaria y la Tesorería General de la Seguridad Social a través de los servicios de intercambio de información que la misma pone a disposición de forma telemática para todas las Administraciones Públicas y organismos. En caso de no presentar dicha autorización, el agricultor deberá aportar la documentación justificativa de sus ingresos agrarios, ingresos totales y de alta en la seguridad social.
+
+Cuando el beneficiario sea una de las agrupaciones de personas físicas indicadas en el párrafo anterior, en la solicitud deberá identificar al socio, partícipe o comunero que cumple el requisito del 25 % de ingresos agrarios o del alta en la seguridad social, e incluirá la autorización indicada o en su defecto la documentación justificativa. Además, deberá declarar en su solicitud única el dato de ingresos correspondientes a la actividad agrícola y ganadera de la agrupación de personas físicas.
+
+En caso de que el beneficiario sea una persona jurídica distinta a sociedad civil sin objeto mercantil, o un grupo de personas jurídicas, deberá declarar en su solicitud única, o en la solicitud establecida para las ayudas POSEI, el total de ingresos agrarios y de ingresos totales percibidos.
+
+9\. El agricultor, persona física o jurídica, incluirá en su solicitud única, o en la solicitud que corresponda cuando se trate de ayudas del POSEI no incluidas en la solicitud única, una declaración expresa en la que manifieste si realiza o no, como actividad principal, alguna actividad excluida de las citadas en el artículo 6. Asimismo, en dicha declaración manifestará si tiene o no el control de alguna entidad asociada, y en caso de ser persona jurídica también expresará si es controlada por alguna entidad asociada, tal y como aparecen definidas en el artículo 6.4. En caso afirmativo, el agricultor indicará el NIF de las entidades asociadas con las que tenga relación y manifestará si desarrollan o no alguna de las actividades excluidas como actividad principal. En caso de que el agricultor indique que, por cuenta propia o a través de una entidad asociada, desarrolla una actividad excluida como actividad principal, el agricultor podrá aportar junto con la solicitud los documentos que permitan verificar que se cumplen las condiciones establecidas en el artículo 6.5.
+
+10\. En caso de que el importe de la ayuda básica a la renta para la sostenibilidad a percibir sobrepase los 60.000 euros, el agricultor, persona física o jurídica, incluirá en su solicitud única la información que justifique los costes laborales realmente pagados en el año anterior incluidos los impuestos y cotizaciones sociales, así como los costes laborales incluidos en la contratación de empresas de servicios agrícolas. Todo ello con el objeto de que se le aplique de manera correcta lo estipulado en el artículo 16, apartados 2 y 3, sobre la limitación o reducción progresiva de los pagos.
+
+11\. Las solicitudes de ayuda de las intervenciones con base el artículo 70 del Reglamento 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, deberán incluir una cláusula de revisión de acuerdo con lo indicado en el apartado 7 del citado artículo.
+
+> Se modifica el primer párrafo del apartado 8 por el art. 3.28 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 106. Declaración gráfica de superficies.
+
+1\. La declaración de superficies que acompaña a la solicitud única, a la que se hace mención en el artículo 105.4, se presentará mediante el formulario de declaración geoespacial o declaración gráfica facilitado por las autoridades competentes. Para ello, estas proporcionarán a los beneficiarios, a través de medios electrónicos, solicitudes precumplimentadas.
+
+2\. Las solicitudes precumplimentadas o formularios precumplimentados a que se refiere el apartado 1 indicarán:
+
+a) la identificación única de todas las parcelas agrícolas de la explotación.
+
+b) la superficie y la ubicación de las superficies declaradas de estas parcelas y la correspondiente superficie subvencionable determinada para el pago del año anterior a efectos de las intervenciones por superficie.
+
+c) la información pertinente para la condicionalidad.
+
+d) información derivada del sistema de monitorización de las superficies, cuando sea pertinente para la ayuda solicitada.
+
+3\. En la solicitud única se declararán todas las parcelas agrícolas que conforman toda la superficie agraria de la explotación y que estén a disposición del titular de la misma, ya sea en régimen de propiedad, usufructo, arrendamiento, aparcería o asignación de superficies comunales por parte de una entidad gestora de las mismas, incluidas aquéllas por las que no se solicite el cobro de ninguna intervención. En el caso de las intervenciones por superficie de desarrollo rural se deberá también incluir la superficie no agrícola por la que se solicita ayuda. En el caso de ayudas del POSEI no incluidas en la solicitud única, la declaración de todas las parcelas agrícolas se realizará conforme determine la autoridad competente.
+
+4\. En el caso de declarar superficies de pastos permanentes, se tendrán en cuenta las siguientes consideraciones:
+
+a) La superficie que se declare deberá ser la superficie bruta, es decir, sin aplicar el coeficiente de subvencionabilidad de pastos (CSP) definido en el artículo 3.13.
+
+b) Las hectáreas subvencionables netas de pastos se obtendrán conforme a lo establecido en el artículo 9. El agricultor deberá comprobar que el coeficiente de subvencionabilidad de pastos asignado a sus parcelas agrícolas es acorde con la realidad del terreno.
+
+c) Cuando se trate de pastos utilizados en común, la autoridad competente de la comunidad autónoma podrá establecer que la declaración de superficies se realice, bien siguiendo el criterio general, o bien con base en unas referencias identificativas de las parcelas agrícolas distintas de las establecidas en el SIGPAC, conforme a lo recogido en el anexo XXIV. En caso de aplicar esta opción, y sin perjuicio de lo establecido en la letra a), el agricultor identificará y declarará, de forma inequívoca, la superficie neta que le ha sido asignada por la autoridad gestora del pasto, es decir, la superficie subvencionable una vez aplicado el coeficiente de subvencionabilidad en pastos que corresponda. Si, como resultado de los controles efectuados, se determinara una sobredeclaración de superficie en el pasto de uso común con referencias identificativas distintas a las establecidas en SIGPAC, las reducciones, penalizaciones y sanciones se repercutirán proporcionalmente a la participación de todos los beneficiarios que declaren dicho pasto.
+
+5\. A efectos de su identificación y localización, se deberán delimitar gráficamente y en formato digital las parcelas agrícolas de la explotación, así como las tierras no agrícolas por las que se solicita ayuda contempladas en el punto anterior (en adelante «declaración gráfica»). Para ello las solicitudes precumplimentadas contendrán el material gráfico correspondiente actualizado más recientemente, y se utilizarán las herramientas informáticas basadas en la tecnología de los sistemas de información geográfica que la autoridad competente de la comunidad autónoma establezca. La superficie declarada será calculada por dichas herramientas con base en la geometría de la parcela agrícola y se expresará en hectáreas con dos decimales. En el caso de ayudas del POSEI no incluidas en la solicitud única, la declaración de todas las parcelas agrícolas se realizará conforme determine la autoridad competente.
+
+6\. Sin perjuicio de lo anterior, el agricultor no deberá realizar la declaración gráfica de las parcelas agrícolas en el caso de superficies de uso común, incluidas las parcelas declaradas en régimen de aparcería. En dichas superficies de uso común, la identificación de la parcela agrícola declarada se realizará bien mediante el código de identificación del recinto o recintos SIGPAC que la integren, o bien con base en las referencias identificativas establecidas por las comunidades autónomas que se acojan a la opción establecida en el apartado 4.c para los pastos utilizados en común, y se indicará la superficie en hectáreas con dos decimales. No obstante, el agricultor sí deberá realizar la delimitación gráfica de las superficies de uso común declaradas en los siguientes casos:
+
+a) Cuando medie acuerdo formalizado con la autoridad gestora del pasto permanente de titularidad pública utilizado en común para realizar actividades de mantenimiento, conforme lo estipulado en el artículo 8 y en el anexo IV.
+
+b) Cuando el beneficiario solicite sobre estas superficies alguno de los dos ecorregímenes de agricultura de carbono y agroecología en las superficies de pastos, bajo la práctica de siega sostenible e islas de biodiversidad.
+
+La autoridad competente se asegurará que se produce la declaración gráfica de estas superficies de uso en común, estableciendo en su normativa autonómica mediante criterios claros, objetivos y no discriminatorios, una persona o entidad responsable de proporcionar la información necesaria, bien sea una unidad de la administración, uno de los beneficiarios que declaran dichas superficies, el titular catastral de las parcelas donde se ubican estas u otras entidades. Cuando se trate de pastos utilizados en común, la autoridad gestora del mismo deberá presentar una declaración que incluirá la delimitación gráfica de la superficie que ocupa el pasto de acuerdo con lo establecido en el anexo XXIV.
+
+7\. También quedan exceptuadas de la realización de la declaración gráfica las parcelas agrícolas en las que no sea posible utilizar el SIGPAC, conforme a lo recogido en el artículo 18.3 del Real Decreto 1047/2022, de 27 de diciembre. No obstante lo anterior, la autoridad competente de cada comunidad autónoma podrá establecer mecanismos para poner a disposición de los beneficiarios afectados la cartografía digital necesaria para realizar, en estas zonas, la declaración gráfica correspondiente.
+
+8\. En el caso de beneficiarios que soliciten la ayuda asociada para los ganaderos extensivos y semiextensivos de ovino y caprino sin pastos a su disposición y que pastorean superficies de rastrojeras, barbechos y restos hortofrutícolas, para la declaración de estas superficies por parte de los ganaderos, cuando el derecho de aprovechamiento de las rastrojeras sea gestionado por un ente local, las comunidades establecerán los mecanismos apropiados aplicando *mutatis mutandi* las consideraciones recogidas en los apartados 4 y 6 para los pastos utilizados en común.
+
+###### Artículo 107. Disposiciones específicas para los animales.
+
+El beneficiario solicitará que le sea concedida la ayuda por el máximo número de animales que cumplan los requisitos para poder percibir la misma.
+
+El beneficiario declarará que todas las unidades de producción que constituyen la explotación y en las que mantendrán animales objeto de solicitudes de ayuda o que deban ser tenidas en cuenta para la percepción de éstas, se corresponden con las incluidas en la base de datos informatizada.
+
+El beneficiario declarará que los datos de su explotación y de sus animales se corresponden a los contenidos en la base de datos informatizada.
+
+### CAPÍTULO III — Presentación de las solicitudes y obligación de relacionarse electrónicamente con la Administración
+
+> Se modifica la denominación por el art. 3.29 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 108. Lugar y plazo de presentación de la solicitud única.
+
+1\. La solicitud se dirigirá a la autoridad competente correspondiente de la comunidad autónoma donde radique la explotación o la mayor parte de la superficie agraria de la misma y en caso de no disponer de superficie agraria donde se encuentren el mayor número de animales.
+
+La solicitud única se presentará por los medios electrónicos establecidos al efecto por las autoridades competentes, en aplicación de lo previsto en el artículo 14.3 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, excepto en casos excepcionales que podrá establecer la autoridad competente cuando el beneficiario sea una persona física con respecto de los que la autoridad no tenga acreditado fehacientemente que tienen acceso y disponibilidad de los medios electrónicos necesarios confome al artículo 4 de la Ley 30/2022, de 23 de diciembre, por la que se regulan el sistema de gestión de la Política Agrícola Común y otras materias conexas, y en los que dicha autoridad será la responsable de incorporar en formato electrónico la solicitud presentada por el agricultor y, conforme a dicho artículo, de poner a disposición de los beneficiarios los medios que posibiliten el acceso a la información y las comunicaciones por vía no exclusivamente electrónica
+
+2\. El plazo de presentación de la solicitud única para el año 2023, se iniciará el 1 de marzo y finalizará el día 31 de mayo del mencionado año, ambos inclusive. A partir del año 2024 el plazo se iniciará el 1 de febrero y finalizará el 30 de abril de cada año. Las solicitudes se presentarán conforme a lo establecido en el apartado 1, salvo en los casos excepcionales previstos en dicha disposición, en los cuales podrán presentarse en cualquiera de los lugares previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre.
+
+Sin perjuicio de lo anterior, a partir de 2024 las comunidades autónomas podrán ampliar, anualmente y siempre previa comunicación motivada al Fondo Español de Garantía Agraria, O.A., el plazo de presentación de solicitud única en su ámbito territorial de actuación. Para el establecimiento de dichos plazos, las comunidades autónomas habrán de tener en cuenta el plazo necesario para la obtención de todos los datos pertinentes para una correcta gestión administrativa y financiera de la ayuda, garantizando una programación eficaz y certera de los controles a realizar. En todo caso, el plazo de presentación de la solicitud única que establezcan las comunidades autónomas no podrá concluir con posterioridad al 15 de mayo.
+
+3\. No obstante lo dispuesto en el párrafo anterior, se admitirán solicitudes de ayuda hasta la fecha de finalización del plazo de modificación de la solicitud única establecido conforme al apartado 1 del artículo 112, en cuyo caso y a excepción de los casos de fuerza mayor y circunstancias excepcionales, los importes se reducirán un 1 por ciento por cada día hábil en que se sobrepase la fecha de finalización del plazo de presentación de la solicitud única. La reducción mencionada en este párrafo también será aplicable respecto a la presentación de contratos o declaraciones y otros documentos o justificantes que sean elementos constitutivos de la subvencionabilidad de la ayuda de que se trate, según lo previsto en la normativa comunitaria. En el año en que se asignen derechos de ayuda básica a la renta para la sostenibilidad incluido cuando proceda un incremento del valor de esos derechos, esa reducción será de un 1 por ciento por cada día hábil en que se sobrepase dicha fecha para ese régimen de ayudas. Si, la solicitud se presenta una vez finalizado el citado plazo, se considerará inadmisible.
+
+> Se modifica el apartado 3 por la disposición final 7.7 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+###### Artículo 109. Mecanismo de solicitud automática. Periodo transitorio para superficies.
+
+1\. Las autoridades competentes, en lo que se refiere a las intervenciones en forma de pagos directos, establecerán mecanismos de solicitud automática que pondrán a disposición de los agricultores. Dichos mecanismos deberán estar disponibles a partir de la campaña 2023 para las intervenciones basadas en los animales y a partir de la campaña 2024 para las intervenciones basadas en las superficies
+
+2\. A Los efectos del apartado 1, en lo que se refiere a la obtención de las explotaciones agrícolas de las que el beneficiario es titular, y de los animales potencialmente subvencionables, las comunidades autónomas se basarán en la información contenida en los registros del Sistema Integral de Trazabilidad Animal, regulados por los reales decretos 479/2004, de 26 de marzo, por el que se establece y regula el Registro general de explotaciones ganaderas y 728/2007, de 13 de junio, por el que se establece y regula el Registro general de movimientos de ganado y el Registro general de identificación individual de animales
+
+3\. A los efectos del apartado 1, en lo que se refiere a la declaración de las parcelas agrícolas de la explotación, las comunidades autónomas se basarán en la información contenida en el Registro Autonómico de Explotaciones Agrícolas y otros registros integrados en el Sistema de Información de Explotaciones Agrarias, regulado por el Real Decreto 1054/2022, de 27 de diciembre.
+
+4\. El sistema de solicitudes automáticas deberá generar un borrador de solicitud única que deberá ser revisado por el agricultor y, o bien será ratificado, o bien de haber algún cambio respecto a la información contenida en los registros mencionados en los apartados 2 y 3, la información existente en el borrador se complementará con información adicional, cuando sea necesaria, para tener en cuenta el cambio.
+
+5\. Para aquella información que deba obtenerse de dichos registros con posterioridad a la presentación de la solicitud única, el beneficiario deberá declarar ser consciente de que las superficies o los animales potencialmente subvencionables con respecto a los cuales en el transcurso de los controles se constate que no están correctamente identificados o registrados en dichos registros, contabilizarán como superficies o animales no determinados.
+
+###### Artículo 110. Sistema de alertas y controles preliminares.
+
+1\. Con el fin de facilitar la presentación por parte de los beneficiarios y prevenir irregularidades, se podrán hacer modificaciones en las solicitudes precumplimentadas. Durante el proceso de solicitud se proporcionarán alertas orientativas al agricultor, de forma que le ayuden a identificar posibles incumplimientos y presentar su solicitud correctamente.
+
+Las modificaciones introducidas por los beneficiarios en las solicitudes precumplimentadas se tendrán en cuenta para la actualización de la información en las bases de datos de la Administración.
+
+2\. Con objeto de mejorar la exactitud de la solicitud única, las comunidades autónomas establecerán un sistema de controles preliminares que informen a los beneficiarios sobre posibles incumplimientos y que les permita adaptar su solicitud a tiempo a fin de evitar reducciones y sanciones administrativas.
+
+En aquellos casos en los que las comunidades autónomas realicen controles preliminares, éstas deberán fijar una fecha límite para la notificación al agricultor de los resultados de dichos controles. Entre dicha fecha límite y la fecha establecida en el artículo 112 para la notificación por parte del beneficiario de las eventuales adaptaciones de la solicitud de ayuda inicial, deberá transcurrir un plazo mínimo de diez días hábiles, de forma que se salvaguarde un tiempo mínimo de respuesta para los agricultores.
+
+> Se modifica el apartado 2 por la disposición final 7.8 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+###### Artículo 111. Sistema de comunicación con los beneficiarios.
+
+1\. Las comunidades autónomas, deberán establecer un sistema electrónico de comunicación con los beneficiarios. Este sistema cubrirá, al menos, los resultados provisionales del sistema de monitorización de superficies, regulado en el capítulo III del título II del Real Decreto 1047/2022, de 27 de diciembre, así como las alertas y pruebas adicionales solicitadas a los beneficiarios en el marco de las actividades de seguimiento que se establezcan. Las comunicaciones y la respuesta a las mismas por parte de los beneficiarios se realizarán exclusivamente por medios electrónicos.
+
+Con respecto al sistema de monitorización de superficies, las comunidades autónomas comunicarán a los beneficiarios la información sobre las hectáreas en las que no se cumplan las condiciones de subvencionabilidad pertinentes y sobre la presencia detectada de superficie no subvencionable, uso de la tierra no subvencionable o cambio en la categoría de la superficie agrícola, de modo que los beneficiarios puedan adaptar las solicitudes de ayuda, o aportar pruebas adicionales. Asimismo, comunicarán a los beneficiarios cualquier otro resultado provisional, incluidos los casos con resultado no concluyente, permitiéndoles, en caso necesario, adaptar sus solicitudes.
+
+2\. Las comunidades autónomas deberán comunicar a los beneficiarios dichas alertas y pruebas adicionales solicitadas, a más tardar, diez días hábiles antes de la fecha fin de plazo de adaptación de solicitud única establecida de conformidad con el artículo 112 de forma que se salvaguarde un tiempo mínimo de respuesta para los agricultores. Los beneficiarios que lo deseen podrán aportar pruebas adicionales a través de los medios que se habiliten al efecto a más tardar, hasta la fecha fin de plazo de adaptación de solicitud única establecida de conformidad en el artículo 112 Estas pruebas adicionales consistirán en fotografías georreferenciadas, debiendo cumplirse las especificaciones técnicas indicadas en el anexo XXV.
+
+En caso de que las comunidades autónomas optaran por ampliar el plazo de adaptación de solicitud única siguiendo el procedimiento establecido en el artículo 112, el plazo para presentar estas evidencias adicionales se entenderá ampliado en consecuencia para las intervenciones afectadas.
+
+3\. Sin perjuicio de lo anterior, los plazos de aporte de pruebas adicionales en forma de fotografías georreferenciadas relacionadas con el control de la muestra a que hace referencia el artículo 56.3 del Real Decreto 1047/2022, de 27 de diciembre, no se verán condicionados por la fecha fin de plazo de adaptación de la solicitud única establecida en el artículo 112, habida cuenta que los beneficiarios seleccionados en dicha muestra no pueden optar por realizar adaptaciones en las parcelas objeto de control. Así, dichos beneficiarios dispondrán hasta el 30 de septiembre para aportar las fotografías georreferenciadas que les sean requeridas.
+
+> Se añade el apartado 3 por el art. 3.30 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 112. Modificación y adaptación de las solicitudes únicas.
+
+1\. Una vez finalizado el plazo para la presentación de la solicitud única, los agricultores podrán, hasta el 15 de junio en el año 2023 y hasta el 31 de mayo en el año 2024 y siguientes, modificar o incluir nuevas intervenciones en forma de pagos directos o de desarrollo rural, añadir parcelas individuales o derechos de pago individuales siempre que se cumplan los requisitos fijados en la intervención de que se trate. Cuando estas modificaciones repercutan en algún justificante o contrato que debe presentarse, también estará permitido modificarlo.
+
+No obstante lo dispuesto en el párrafo anterior, las comunidades autónomas podrán modificar anualmente y siempre previa comunicación motivada al Fondo Español de Garantía Agraria O.A., la fecha fin de plazo para la modificación de la solicitud única. Dicha fecha deberá ser, al menos, diez días hábiles después de la fecha límite de presentación de la solicitud única establecida en virtud del apartado 2 del artículo 108 y, en todo caso, no podrá extenderse más allá del 15 de junio en el año 2023 y el 31 de mayo en el año 2024 y siguientes. Para el establecimiento de la fecha fin de plazo de modificación de la solicitud única, las comunidades autónomas habrán de garantizar, necesariamente, una programación eficaz y certera de los controles a realizar.
+
+2\. Tras el periodo de modificación, se abre la posibilidad a que, como consecuencia de los resultados de los controles preliminares, los controles administrativos o los controles por monitorización, los agricultores soliciten una adaptación de la solicitud única. Cuando se hayan notificado a un agricultor los resultados de los controles preliminares de conformidad con lo dispuesto en el artículo 110, éste podrá adaptar su solicitud única a fin de incluir todas las correcciones necesarias relativas a las parcelas individuales para las cuales los resultados de los controles cruzados indiquen un posible incumplimiento. La notificación de las eventuales adaptaciones de la solicitud de ayuda inicial por parte del beneficiario deberá realizarse en el mismo plazo que se establezca para la adaptación de la solicitud única en el caso de los agricultores sujetos al sistema de monitorización de superficies, conforme a lo establecido en el apartado 3.
+
+3\. En el caso de los agricultores sujetos al sistema de monitorización de superficies, una vez finalizado el plazo de modificación de la solicitud única previsto en el apartado 1, podrán, hasta el 31 de agosto, adaptar las parcelas agrarias de su solicitud única en relación a las intervenciones monitorizadas, en lo que se refiere a la adaptación de la delimitación gráfica o a la utilización de las parcelas agrarias, conforme a los artículos 105 y 106, y que sean controladas por monitorización, siempre que las autoridades competentes les hayan comunicado los resultados provisionales en el ámbito de cada parcela, y se cumplan los requisitos correspondientes según las intervenciones de que se trate.
+
+No obstante lo dispuesto en el párrafo anterior, siempre previa comunicación motivada al Fondo Español de Garantía Agraria O.A. y dentro del máximo permitido por los reglamentos de la Unión Europea, las comunidades autónomas podrán ampliar el plazo de adaptación de la solicitud única para estos agricultores y en su ámbito territorial de actuación. En este caso, la fecha límite será de como mínimo diez días hábiles antes de la fecha en que haya de realizarse el primer pago del saldo o el pago del anticipo a los beneficiarios de conformidad con el artículo 118.
+
+No podrán ser objeto de adaptación de solicitudes únicas aquellos casos en los que se esté ejecutando una visita a campo en el marco de las acciones de seguimiento determinadas por el artículo 22, apartado 1, del Real Decreto 1047/2022, de 27 de diciembre, o un control de requisitos no monitorizables de los determinados por el artículo 56 del Real Decreto 1047/2022, de 27 de diciembre, ni cuando dicha visita a campo o control de requisitos no monitorizables hayan determinado un incumplimiento.
+
+> Se añade un párrafo al apartado 3 por el art. 3.31 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 113. Retirada total o parcial de solicitudes de ayuda.
+
+1\. Se establece el 31 de agosto como la fecha límite para la retirada total o parcial de solicitudes de ayuda por parte de los agricultores.
+
+No obstante, lo anterior, las comunidades autónomas podrán modificar anualmente, y siempre previa comunicación motivada al Fondo Español de Garantía Agraria O. A. dicha fecha límite, siempre que se garantice el procesado de dicha retirada antes del pago, y el ajuste de los correspondientes cálculos con relación al mismo antes del abono efectivo de la ayuda.
+
+En el caso de solicitudes de ayuda de intervenciones establecidas en el artículo 70 del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, la fecha límite establecida en el primer párrafo será la que establezca la comunidad autónoma, siempre que esta sea anterior a la fecha de resolución de la ayuda.
+
+2\. Los agricultores podrán retirar total o parcialmente su solicitud de ayuda en cualquier momento antes del plazo indicado en el apartado 1. En caso de que el agricultor optara por una retirada parcial, éste podrá retirar la solicitud de ayuda sobre parcelas individuales, pero deberá mantenerlas en su declaración de superficies, a fin de cumplir con su obligación de declarar todas las parcelas agrícolas a su disposición, de conformidad con el artículo 105, y garantizar el cumplimiento de los requisitos de condicionalidad.
+
+3\. No obstante lo dispuesto en el apartado 2, no será posible dicha retirada cuando la autoridad competente de la comunidad autónoma ya haya informado al agricultor de la existencia de casos de incumplimiento en su solicitud única revelado por medios distintos del sistema de monitorización de superficies o los controles administrativos o le haya avisado de su intención de efectuar un control sobre el terreno o se esté realizando una visita *in situ* en el marco de acciones de seguimiento del sistema de monitorización de superficies o la comprobación de un requisito no monitorizable, o, cuando un control sobre el terreno, una visita *in situ* en el marco de acciones de seguimiento del sistema de monitorización de superficies o la comprobación de un requisito no monitorizable haya puesto de manifiesto un caso de incumplimiento, y no se permitirá la retirada de las partes afectadas por el incumplimiento.
+
+4\. A efectos del apartado anterior, cuando se realicen controles por monitorización, la comunicación con los agricultores realizada al amparo del artículo 111 no se considerará como un aviso de control sobre el terreno ni como incumplimiento derivado de la ejecución de un control sobre el terreno.
+
+En caso de que se detecten incumplimientos de las condiciones de subvencionabilidad mediante los controles administrativos o el sistema de monitorización de superficies, la autoridad competente informará a los beneficiarios de la posibilidad de adaptar o retirar la solicitud de ayuda con respecto a la parte afectada por el incumplimiento.
+
+5\. En el caso de las intervenciones basadas en animales, en caso de incumplimiento de la condición de admisibilidad de identificación y registro de los animales bovinos u ovinos y caprinos, las modificaciones o retiradas sólo se permitirán antes del 31 de agosto, excepto las intervenciones relacionadas con el engorde de terneros, en cuyo caso se admitirán modificaciones y retiradas hasta el 31 de diciembre.
+
+> Se añade un párrafo al final del apartado 1 por el art. 3.25 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica el apartado 3 por el art. 3.32 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 114. Cambios de titularidad de las explotaciones.
+
+1\. A los efectos del presente artículo, se entenderá por:
+
+a) «cesión de una explotación»: la venta, arrendamiento o cualquier tipo de transacción similar de las unidades de producción de que se trate;
+
+b) «cedente»: el beneficiario cuya explotación se cede a otro beneficiario;
+
+c) «cesionario»: el beneficiario a quien se cede la explotación.
+
+2\. Cuando, después de haberse presentado una solicitud única y antes de la fecha límite de modificación de la solicitud única del año en cuestión, una explotación sea cedida por un beneficiario a otro en su totalidad, no se concederá al cedente ayuda alguna en relación con la explotación cedida. Cuando no se transfiera toda la explotación, el cedente mantendrá el derecho a la ayuda por las unidades de producción de las que siga siendo titular. En el caso de ayudas del POSEI, las disposiciones establecidas en este artículo se aplicarán con respecto a las solicitudes de ayuda específicas que correspondan.
+
+3\. La ayuda o el pago solicitados por el cedente se concederán al cesionario siempre y cuando:
+
+a) en un plazo de diez días hábiles, el cesionario informe a la autoridad competente de la cesión y solicite el pago de la ayuda;
+
+b) el cesionario presente todas las pruebas exigidas por la autoridad competente. En concreto:
+
+i. el cambio en las unidades de producción ganadera deberá haberse inscrito en el Registro general de explotaciones ganaderas regulado por el Real decreto 479/2004, de 26 de marzo
+
+ii. el cambio en las unidades de producción agrícola deberá haberse inscrito en el Registro General de la Producción Agraria regulado por el Real Decreto 9/2015, o en el Registro Autonómico de Explotaciones Agrícolas, regulado por el Real Decreto 1054/2022, de 27 de diciembre.
+
+c) se cumplan todas las condiciones para la concesión de la ayuda respecto de la explotación cedida.
+
+4\. Una vez que el cesionario haya informado a la autoridad competente y solicitado el pago de la ayuda de acuerdo con el apartado 3.a):
+
+a) todos los derechos y obligaciones del cedente que se deriven de la relación jurídica generada por la solicitud única entre el cedente y la autoridad competente se transferirán al cesionario;
+
+b) todas las actuaciones necesarias para la concesión de la ayuda y todas las declaraciones realizadas por el cedente antes de la cesión se asignarán al cesionario a los efectos de la aplicación de la normativa pertinente de la Unión;
+
+c) la explotación cedida se considerará, cuando proceda, una explotación independiente en relación con año de solicitud considerado.
+
+> Se modifica el apartado 2 por el art. 7.14 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+###### Artículo 115. Subsanación y modificación de datos y omisiones de las solicitudes y de errores manifiestos.
+
+1\. Las autoridades competentes incluirán en sus sistemas de gestión y control la posibilidad de subsanar las deficiencias de las solicitudes de ayuda y las solicitudes de pago después de presentarlas. Dicha subsanación no afectará al derecho a recibir la ayuda, y podrá realizarse hasta el 31 de agosto, del año de solicitud, o la fecha que establezca la autoridad competente en base al segundo párrafo del artículo 112.3, siempre que se cumplan las siguientes condiciones:
+
+a) que se haya actuado de buena fe con respecto a los datos u omisiones que deban subsanarse, según lo reconocido por la autoridad competente,
+
+b) y que se efectúe la subsanación antes de que el beneficiario sea informado de que ha sido seleccionado para realizar un control *in situ* o antes de que la autoridad competente tome una decisión con respecto a la solicitud.
+
+En el caso de ayudas del POSEI, las disposiciones establecidas en este artículo se aplicarán con respecto a las solicitudes de ayuda específicas que correspondan.
+
+Para facilitar el proceso al beneficiario, las autoridades competentes podrán proceder de oficio a las subsanaciones necesarias de la solicitud de ayuda respecto a la parte afectada por el incumplimiento. No obstante, en este caso, dichas autoridades se asegurarán de que el beneficiario tenga conocimiento de los cambios introducidos y, con ello, la posibilidad de reaccionar en caso de desacuerdo.
+
+2\. Adicionalmente, la autoridad competente podrá corregir de oficio las solicitudes de ayuda o las solicitudes de pago y cualesquiera justificantes presentados por el beneficiario en cualquier momento después de su presentación en caso de error manifiesto reconocido por la misma autoridad competente sobre la base de una evaluación global del caso concreto y siempre que el beneficiario haya actuado de buena fe. También en este caso, dichas autoridades se asegurarán de que el beneficiario tenga conocimiento de los cambios introducidos y, con ello, la posibilidad de reaccionar en caso de desacuerdo.
+
+La autoridad competente solamente podrá reconocer errores manifiestos cuando estos puedan detectarse directamente en un control administrativo de la información proporcionada por el beneficiario.
+
+En el caso de las intervenciones de Feader no incluidas en el sistema integrado de gestión y control, será de aplicación lo establecido en este apartado con respecto a las solicitudes de ayuda y de pago.
+
+> Se modifica el primer párrafo del apartado 1 por el art. 7.15 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se añade un párrafo al apartado 2 por el art. 3.33 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 116. Compatibilidad de los regímenes de pagos directos.
+
+1\. Las parcelas agrícolas declaradas para justificar los derechos de la ayuda básica a la renta pueden utilizarse para las actividades agrarias expresadas en el artículo 8. Por consiguiente, el pago de dicho régimen es compatible con los ecorregímenes y pagos asociados derivados de los regímenes correspondientes a las utilizaciones permitidas.
+
+2\. En un año dado, no podrá presentarse respecto a una parcela agrícola más de una solicitud de pago asociado.
+
+3\. En un año dado, un mismo animal no podrá beneficiarse de más de pago asociado, excepto para la ayuda a los ganaderos de ovino y caprino que pastorean superficies de rastrojeras, barbechos y restos hortofrutícolas, que será compatible con las otras dos ayudas asociadas al ovino y caprino
+
+###### Artículo 117. Publicación y cesión de datos.
+
+1\. La autoridad competente informará a los beneficiarios, en la resolución del pago, de que sus datos se publicarán con arreglo al artículo 98 del Reglamento (UE) número 2116/2021 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021. Asimismo, les informará, mediante la inclusión de un apartado en la solicitud única, o, en el caso de ayudas del POSEI no incluidas en la solicitud única, en la convocatoria de ayudas correspondiente, de que sus datos podrán ser tratados por organismos de auditoría e investigación de la Unión Europea y de España, para salvaguardar los intereses financieros de la Unión.
+
+2\. La autoridad competente informará a los beneficiarios de sus derechos con arreglo a las normas en materia de protección de datos y de los procedimientos aplicables para el ejercicio de tales derechos. No obstante, los datos que no sean de carácter personal que se obtengan a partir de la solicitud única de ayudas o, en el caso de ayudas del POSEI no incluidas en la solicitud única, en la solicitud de ayudas correspondiente, podrán cederse para los fines que se consideren necesarios en el ámbito de la administración pública.
+
+En concreto, los datos contenidos en la solicitud única que cada año deben presentar los agricultores, o, en el caso de ayudas del POSEI no incluidas en la solicitud única, en la solicitud de ayudas correspondiente, con arreglo al artículo 91, se podrán utilizar con fines estadísticos para la realización de las operaciones estadísticas recogidas en el Plan Estadístico Nacional previsto en la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública, y en el Programa Estadístico Europeo recogido en el Reglamento (CE) número 223/2009 del Parlamento Europeo y del Consejo, de 11 de marzo de 2009, relativo a la estadística europea y por el que se deroga el Reglamento (CE, Euratom) número 1101/2008 relativo a la transmisión a la Oficina Estadística de las Comunidades Europeas de las informaciones amparadas por el secreto estadístico, el Reglamento (CE) número 322/97 del Consejo sobre la estadística comunitaria y la Decisión 89/382/CEE, Euratom del Consejo por la que se crea un Comité del programa estadístico de las Comunidades Europeas. A tales efectos, los datos de las solicitudes se facilitarán, conforme a lo previsto en la Ley 12/1989, de 9 de mayo, al Instituto Nacional de Estadística, dependiente del Ministerio de Asuntos Económicos y Transformación Digital, y a la Autoridad Nacional asignada por el Plan Estadístico Nacional en materia agroalimentaria y pesquera, a fin de dar cumplimiento al Programa Estadístico Europeo y al propio Plan Estadístico Nacional.
+
+3\. Los datos relativos a la identificación del beneficiario, así como a la declaración de cada recinto, en lo que se refiere al régimen de tenencia y al cultivo declarado en el mismo, se facilitarán a la Dirección General del Catastro del Ministerio de Hacienda y Función Pública y a los órganos competentes en materia del Catastro Inmobiliario en las comunidades autónomas de Navarra y del País Vasco. Las autoridades competentes facilitaran además el identificador oficial y obligatorio (referencia catastral) de la parcela SIGPAC en la que se localiza el recinto. Cuando se trate de los supuestos recogidos en el artículo 14.1.e) del texto refundido de la Ley del Catastro Inmobiliario, aprobado por el Real Decreto Legislativo 1/2004, de 5 de marzo, la cesión se realizará en los términos que se determine por orden del Ministro de Hacienda y Función Pública.
+
+4\. El titular catastral de las parcelas sobre las que se ubiquen los recintos objeto de una solicitud de ayuda, en tanto que interesado en el procedimiento de comunicación catastral recogido en el artículo 14.1.e) del texto refundido de la Ley del Catastro Inmobiliario, aprobado por el Real Decreto Legislativo 1/2004, de 5 de marzo, tendrá derecho, con observancia de las normas de protección de datos de carácter personal, de acceso a la información relativa a la presentación de solicitudes de ayudas directas sobre sus parcelas y a los cultivos declarados. La consulta electrónica de esta información la podrá realizar el titular catastral autentificándose en la sede electrónica del Catastro o en la aplicación móvil ‘Catastro_app’, con un sistema de firma electrónica reconocida por la Dirección General del Catastro, o mediante el acceso a dicha sede a través de los puntos de información catastral (PIC) mediante la acreditación que otorga su documento nacional de identidad.
+
+5\. El Fondo Español de Garantía Agraria O.A., en cumplimiento de lo dispuesto en el artículo 6.1 del Real Decreto 1047/2022, de 27 de diciembre, realizará los correspondientes intercambios con la Tesorería General de la Seguridad Social, a través de los servicios de intercambio de información que la misma pone a disposición de forma telemática para todas las Administraciones Públicas y organismos, facilitando el número de identificación fiscal de los beneficiarios, a efectos de la verificación de los requisitos establecidos para la percepción de los pagos directos, en el marco de los artículos, 5.3, 6, 16.2 y 21.a).1.º del presente real decreto y de los artículos 23.1.a), 23.2.a) y 24.2.b) del Real Decreto 1045/2022 de 27 de diciembre, así como en el marco del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre. El procedimiento anterior también será de aplicación, a solicitud de la autoridad competente de la comunidad autónoma, a efectos de la verificación de los requisitos establecidos para los beneficiarios de intervenciones regionales para el establecimiento de jóvenes agricultores y nuevos agricultores y puesta en marcha de nuevas empresas rurales, reguladas por el artículo 75 del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
+
+> Se modifican los apartados 4 y 5 por el art. 3.26 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se añade el apartado 5 por el art. 3.34 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+## TÍTULO V — Pago de las solicitudes de ayuda
+
+###### Artículo 118. Periodos de pago y anticipos de intervenciones en forma de pagos directos, e intervenciones para el desarrollo rural en el ámbito del Sistema Integrado.
+
+1\. Con carácter general, los pagos del saldo correspondientes a los pagos directos regulados en el título III y las intervenciones de desarrollo rural asimiladas al SIGC se efectuarán entre el 1 de diciembre del año de presentación de la solicitud única y el 30 de junio del año natural siguiente.
+
+2\. Entre el 16 de octubre y el 30 de noviembre la autoridad competente podrá pagar anticipos de hasta un 50 % en el caso de las intervenciones en forma de pagos directos y de hasta un 75 % en el caso de las intervenciones para el desarrollo rural en el ámbito del sistema integrado de gestión y control.
+
+3\. En el caso de las ayudas no incluidas en la solicitud única, los periodos de pago serán los que aplique, conforme a su correspondiente normativa.
+
+###### Artículo 119. Aplicación de la disciplina financiera.
+
+1\. Los importes de los pagos directos de cada una de las intervenciones, incluidas las que se abonen en la Comunidad Autónoma de Canarias con arreglo al Programa de Opciones Específicas por la Lejanía e Insularidad en las islas Canarias (POSEI), que sean superiores a 2.000 euros respecto a la campaña correspondiente, podrán ser reducidos por aplicación del mecanismo de disciplina financiera previsto en el artículo 17 del Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, mediante la fijación de un porcentaje de ajuste que se establezca, si procede, anualmente en el ámbito comunitario.
+
+2\. Los anticipos a que se refiere el artículo 118 se abonarán sin tener en cuenta el porcentaje de ajuste por aplicación de la disciplina financiera. El pago del saldo a los beneficiarios a partir del 1 de diciembre del año de presentación de la solicitud única deberá tener en cuenta el citado porcentaje de ajuste en relación con el importe total de los pagos directos para el año natural correspondiente.
+
+###### Artículo 120. Resoluciones y pago.
+
+La concesión y pago o la denegación de las intervenciones incluidas en la solicitud única establecida en el artículo 104, corresponde a la autoridad competente, excepto en el caso de explotaciones situadas entre dos o más comunidades autónomas en el que la autoridad competente de cada comunidad autónoma abonará o denegará las intervenciones regionales de las medidas de desarrollo rural.
+
+## TÍTULO VI — Disposiciones financieras
+
+### CAPÍTULO I — Disposiciones comunes
+
+###### Artículo 121. Asignaciones financieras indicativas.
+
+1\. Las asignaciones financieras establecidas para cada ayuda en el anexo VII son asignaciones financieras indicativas planificadas para cada año y ayuda. Esta asignación financiera indicativa representa el volumen de pagos previstos para cada ayuda en el ejercicio financiero de que se trate.
+
+2\. Las asignaciones financieras indicativas, no son vinculantes y, por tanto, posibilitan el movimiento de los fondos entre intervenciones conforme a las limitaciones establecidas en el artículo 123 y a las siguientes condiciones:
+
+a) que las asignaciones financieras para las intervenciones en forma de pagos directos se utilicen para otras ayudas en forma de pagos directos;
+
+b) que las asignaciones financieras para las intervenciones para el desarrollo rural se utilicen para otras ayudas para el desarrollo rural;
+
+c) que las asignaciones financieras para las intervenciones en el sector apícola sólo se utilicen para otras ayudas del mismo sector;
+
+d) que las asignaciones financieras establecidas para cada tipo de intervención dentro de la intervención sectorial vitivinícola puedan modificarse transfiriendo fondos entre ellas durante cada ejercicio financiero. No podrá haber transferencias hacia otras intervenciones. El procedimiento de transferencia entre los tipos de intervención dentro de la intervención sectorial vitivinícola se realizará según lo establecido en el artículo de gestión de fondos incluido en el capítulo III de disposiciones comunes del Real Decreto 905/2022, de 25 de octubre, por el que se regula la Intervención Sectorial Vitivinícola en el marco del Plan Estratégico de la Política Agrícola Común.
+
+En lo que se refiere al apartado a), en el caso de la ayuda básica a la renta concedida con base en derechos, se podrá aumentar o disminuir linealmente el importe que haya que pagarse, en función del valor de los derechos de la ayuda básica a la renta que hayan sido activados en el año natural, cuando los resultados de otras intervenciones en forma de pagos directos disociados sean inferiores a los previstos y se hayan cubierto las necesidades presupuestarias de las intervenciones que están sometidas a unas asignaciones financieras mínimas, conforme a lo establecido en los artículos 95, 97 y 98 del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
+
+> Se modifica el último párrafo del apartado 2.d) por el art. 3.27 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+###### Artículo 122. Importes unitarios planificados.
+
+1\. Para cada intervención se han fijado uno o varios importes unitarios planificados, establecidos en el anexo IX. El importe unitario planificado puede ser uniforme o un promedio. El importe unitario uniforme planificado es el valor que se espera pagar por cada realización correspondiente. El importe unitario medio planificado es el valor medio de los distintos importes unitarios que se espera pagar por las realizaciones correspondientes.
+
+2\. Para cada intervención en forma de pagos directos, se han fijado importes unitarios máximos y/o mínimos, respecto a los importes unitarios planificados para cada intervención. Los importes máximos y mínimos son los importes máximos y mínimos que se esperan pagar en función del número de solicitudes y del número de realizaciones (animales o hectáreas) subvencionables en cada intervención a fin de evitar fondos no utilizados.
+
+3\. Dentro del margen establecido para cada intervención por el importe máximo y/o mínimo fijado, podrán transferirse fondos de una intervención a otra en forma de pagos directos mediante:
+
+a) el aumento del importe unitario para una o más intervenciones hasta el importe unitario máximo.
+
+b) el pago de un número de realizaciones superior al planificado de otras intervenciones, siempre y cuando no suponga reducir el importe unitario de la intervención donante, por debajo de su importe mínimo.
+
+c) una combinación de los puntos anteriores.
+
+4\. Los tipos de intervención dentro de la intervención sectorial vitivinícola presentan importes medios, ya que el importe real dependerá del tipo de operación o programa ejecutado y el número de acciones que incluya.
+
+5\. La intervención del sector de frutas y hortalizas presenta valores medios ya que el importe real dependerá del volumen del programa operativo ejecutado y del tipo de intervenciones que incluya.
+
+> Se modifica el apartado 2 por la disposición final 7.9 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+### CAPÍTULO II — Disposiciones aplicables a intervenciones en forma de pagos directos
+
+###### Artículo 123. Límites a respetar para el movimiento de fondos entre intervenciones en forma de pagos directos.
+
+1\. Los movimientos de fondos de las asignaciones financieras indicativas de las intervenciones en forma de pagos directos, de conformidad con el artículo 121.2.a), podrán utilizarse en otras intervenciones en forma de pagos directos siempre y cuando se cumplan los siguientes requisitos:
+
+a) Debe respetarse el límite global establecido para los pagos directos dispuesto para España conforme al anexo V del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
+
+b) Debe respetarse el importe mínimo reservado del 2 % de pagos directos para contribuir al objetivo específico de «atraer a los jóvenes agricultores y facilitar el desarrollo de las empresas, establecido en el anexo XII del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
+
+c) En cada año natural, el gasto total para los tipos de intervenciones en forma de pagos directos distintos a la ayuda complementaria a la renta para jóvenes agricultores, no superará la asignación financiera destinada a pagos directos conforme al anexo V del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, menos la parte del anexo XII reservada para la ayuda complementaria a la renta para jóvenes agricultores para el año natural del que se trate.
+
+d) En cada año natural, se destinará como mínimo a las intervenciones en forma de ecorregímenes un 23 % de la asignación de pagos directos establecido en el anexo XII del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021. No obstante a lo anterior, en los años 2023 y 2024 una vez se hayan agotado todas las posibilidades de utilizar fondos para los ecorregímenes, se podrán utilizar los importes liberados para financiar otras intervenciones siempre que se respeten las condiciones establecidas en el artículo 97.5 del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
+
+e) Debe respetarse al menos, un importe mínimo del 10 % de la asignación de pagos directos establecido en el anexo XII del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021 para la ayuda redistributiva a la renta.
+
+f) En cada año natural, el gasto total para los tipos de intervenciones en forma de pagos directos asociados establecidos en el capítulo III del título III, no superará la suma de las asignaciones financieras indicativas de estas intervenciones para ese año recogidas en los anexos XIX y XXI.
+
+g) Los fondos liberados por la infrautilización en cualquiera de las intervenciones de pagos directos disociados solo pueden utilizarse para otras intervenciones de pagos directos disociados. Los fondos liberados por la infrautilización en cualquiera de las intervenciones de pagos directos asociados pueden utilizarse indistintamente para otras intervenciones de pagos directos asociados o de pagos directos disociados.
+
+> Se modifica el primer párrafo y la letra f) por la disposición final 7.10 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+###### Artículo 124. Mecanismo para el establecimiento de los importes unitarios definitivos correspondientes a las intervenciones en forma de pagos directos.
+
+1\. Conforme a lo indicado en el artículo 118, los pagos correspondientes a los pagos directos podrán efectuarse en dos plazos, plazo de anticipo y plazo de saldo.
+
+2\. Para llevar a cabo los pagos del anticipo de las distintas intervenciones, conforme al plazo y porcentaje de pago establecido en el artículo 118.2, el Fondo Español de Garantía Agraria O.A. establecerá, antes del 15 de septiembre, los importes unitarios provisionales con base en la información sobre las superficies solicitadas recibida en el plazo indicado en el anexo II del Real Decreto 1047/2022, de 27 de diciembre (15 de julio), y con base en la información sobre los animales potencialmente subvencionables remitida por las comunidades autónomas. Asimismo, se realizará una primera estimación de los remanentes provisionales que se liberarían por infrautilización de los fondos en una determinada intervención.
+
+En ningún caso dichos importes unitarios provisionales podrán ser superiores a los importes unitarios planificados a los que hace referencia el artículo 125.1.
+
+Los importes unitarios provisionales serán publicados en la página web del Fondo Español de Garantía Agraria O.A. para cada intervención y cada campaña, a más tardar el 15 de septiembre del año de solicitud.
+
+En el caso de la ayuda básica a la renta para la sostenibilidad los importes unitarios provisionales coincidirán con los importes nominales de los derechos.
+
+En el caso de la ayuda redistributiva complementaria a la renta para la sostenibilidad y la ayuda complementaria a la renta para jóvenes agricultores y jóvenes agricultoras, los importes unitarios provisionales coincidirán con los importes unitarios planificados establecidos en el anexo IX.
+
+3\. Para llevar a cabo los pagos del primer saldo de las distintas intervenciones a partir del 1 de diciembre del año de presentación de la solicitud, también se utilizarán los importes unitarios provisionales calculados para el pago del anticipo, no obstante, los mismos podrán revisarse conforme a lo indicado en el apartado 8.a). Estos pagos realizados con los importes unitarios provisionales alcanzarán un porcentaje del pago total inferior al 100 %. El importe unitario provisional revisado, así como el porcentaje de pago serán establecidos por parte del Fondo Español de Garantía Agraria O.A., y publicados en su página web, para cada intervención y cada campaña, a más tardar el 15 de noviembre del año de solicitud.
+
+4\. Para llevar a cabo los pagos del segundo saldo, antes del 30 de junio del año natural siguiente, se aplicarán importes unitarios definitivos que se establecerán teniendo en cuenta las asignaciones financieras indicativas asignadas a cada intervención, así como lo regulado en los artículos 122.2 y 122.3. Los pagos del último saldo tienen como finalidad alcanzar el 100 % del pago total permitiendo a su vez la aplicación del mecanismo de aprovechamiento de fondos establecido en el artículo 125.
+
+Si dentro de una misma intervención se prevén distintos importes unitarios, se podrán realizar transferencias entre las asignaciones financieras indicativas correspondientes, de modo que se asegure que para cada uno de ellos se alcanza el importe unitario planificado.
+
+5\. Los porcentajes referidos en el apartado 3 se establecerán con el objetivo de contar con margen suficiente, en el último pago de saldo, para poder compensar las eventuales modificaciones de los importes unitarios planificados correspondientes a las distintas intervenciones.
+
+6\. El importe unitario definitivo de cada intervención podrá ser superior al importe unitario planificado, bien en el caso de no alcanzarse el número de realizaciones previsto en dicha intervención, o bien para satisfacer necesidades superiores a las previstas inicialmente. El importe unitario definitivo de cada intervención nunca podrá ser superior al importe máximo establecido para dicha intervención
+
+7\. El importe unitario definitivo de cada intervención podrá ser inferior al importe unitario planificado, bien en el caso de superarse el número de realizaciones previsto en dicha intervención, o bien para satisfacer necesidades superiores a las previstas en otra intervención. El importe unitario definitivo de cada intervención nunca podrá ser inferior al importe mínimo establecido para dicha intervención excepto en los casos en los que sea necesario para respetar los límites presupuestarios vinculantes. Tal y como se establece en el artículo 122.3.b) no se podrá reducir el importe unitario por debajo de su importe mínimo previsto a fin de satisfacer necesidades superiores a las previstas en otra intervención.
+
+8\. El Fondo Español de Garantía Agraria O.A. establecerá los porcentajes de pago citados en el apartado 3 y los importes unitarios correspondientes a las intervenciones en forma de pagos directos citados en los apartados 3 y 4, teniendo en cuenta las realizaciones que hayan sido solicitadas por los beneficiarios y para las cuales se haya verificado el derecho a la ayuda por parte de la administración. Esta información de realizaciones (hectáreas o animales) subvencionables para el cobro de la ayuda deberá ser calculada por la autoridad competente de las comunidades autónomas y enviada al Fondo Español de Garantía Agraria O.A. en los plazos establecidos en el anexo II del Real Decreto 1047/2022, de 27 de diciembre.
+
+a) Con base en la información recibida en el plazo indicado en el anexo II del Real Decreto 1047/2022, de 27 de diciembre (15 de octubre), el Fondo Español de Garantía Agraria O.A., revisará antes del 1 de noviembre los importes unitarios provisionales y establecerá los porcentajes de pago a que hace alusión el apartado 3. Asimismo, se realizará una segunda estimación de los remanentes provisionales que se liberarían por infrautilización de los fondos en una determinada intervención.
+
+b) Con base en la información recibida en el plazo indicado en el anexo II del Real Decreto 1047/2022, de 27 de diciembre (15 de abril), el Fondo Español de Garantía Agraria O.A., teniendo en cuenta el mecanismo de aprovechamiento de fondos recogido en el artículo 125, determinará antes del 1 de mayo los remanentes y establecerá los importes unitarios definitivos. Deberá tenerse en cuenta que los importes procedentes de la reducción progresiva de los pagos se sumarán al montante destinado al pago redistributivo conforme a lo indicado en el artículo 16.1.
+
+c) Con base en la información recibida en el plazo indicado en el anexo II del Real Decreto 1047/2022, de 27 de diciembre (31 de julio), el Fondo Español de Garantía Agraria O.A., teniendo en cuenta el mecanismo de aprovechamiento de fondos recogido en el artículo 125, determinará antes del 1 de septiembre los remanentes que se trasladarán, en primer lugar, a las intervenciones que están sometidas a unas asignaciones financieras mínimas, conforme a los establecido en los artículos 95, 97 y 98 del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021 y, en segundo lugar, una vez cubiertas las mismas, a la ayuda básica a la renta para la sostenibilidad.
+
+> Se modifican los apartados 2, 4 y 8 por el art. 3.28 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+###### Artículo 125. Mecanismo de aprovechamiento de fondos.
+
+1\. Sobre la base de lo dispuesto en los artículos 124.2 y 124.8.b), se calcularán los remanentes de fondos que se liberen por infrautilización en cualquiera de las intervenciones de pagos directos. Si dentro de una misma intervención se prevén distintos importes unitarios, antes de calcular el remanente por intervención, se realizarán transferencias entre las asignaciones financieras indicativas correspondientes, de modo que se asegure que en ningún caso se supera el importe unitario máximo. Los citados remanentes, podrán trasladarse a una o más intervenciones en el marco de los pagos directos, conforme a las condiciones y limitaciones establecidas en los artículos 121, 122 y 123 y con arreglo al siguiente orden de prioridades:
+
+i) En primer lugar, se agotarán todas las posibilidades de utilizar los fondos dentro del mismo tipo de intervención y sector o grupo de cultivo. Especialmente, en el caso de la ayuda complementaria a la renta redistributiva y jóvenes agricultores y los ecorregímenes, a efectos de cumplir con su asignación financiera mínima establecida para cada año natural en el Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
+
+ii) A continuación, el montante liberado se trasladará para financiar aquellas intervenciones en las que sea necesario, por presentar un número de solicitudes superior al previsto hasta alcanzar, como máximo, el importe unitario planificado. En caso de que le haya varias intervenciones en esta situación se utilizarán el remanente de fondos teniendo en cuenta el orden previsto en el apartado iii) y la posibilidad del reparto proporcional entre ellas.
+
+iii) Si continuara habiendo remanente de fondos, este se podrá utilizar para financiar las intervenciones con respeto de los márgenes máximos establecidos en el artículo 122, de acuerdo al siguiente criterio de priorización: ecorregímenes, ayuda complementaria a la renta para jóvenes agricultores, ayuda complementaria a la renta redistributiva y ayuda básica a la renta para la sostenibilidad conforme al último párrafo del artículo 121.2.
+
+2\. A efectos de lo dispuesto en el apartado 1.i), en lo que respecta a ecorregímenes, el orden de prioridad para el traspaso de fondos dentro de este tipo de intervenciones será el que se indica a continuación:
+
+a) Los remanentes se destinarán en primer lugar a los ecorregímenes realizados en el mismo tipo de superficie, entendiendo en este caso tipo de superficie como: pastos permanentes y temporales, tierras de cultivo y cultivos permanentes.
+
+b) Una vez aplicado lo anterior si aún existieran remanentes disponibles se destinarán, en primer lugar, a aquel o aquellos ecorregímenes en los que haya sido necesaria la aplicación del artículo 25.5, y en segundo lugar a aquel o aquellos ecorregímenes en los que el importe se aleje en mayor proporción al importe planificado recogido en el anexo X.
+
+c) En el caso de que los remanentes provengan de otra intervención de pagos directos se destinarán prioritariamente a aquel o aquellos ecorregímenes en los que haya sido necesaria la aplicación del artículo 25.5, y en segundo lugar a aquel o aquellos Ecorregímenes en los que el importe se aleje en mayor proporción del importe planificado recogido en el anexo X.
+
+3\. A efectos de lo dispuesto en el apartado 1.i), en lo que respecta a los pagos directos asociados, el orden de prioridad para el traspaso de fondos dentro de este tipo de intervenciones será el que se indica a continuación:
+
+a) Los remanentes se destinarán en primer lugar al/ a los pagos asociados realizados en el mismo grupo de beneficiarios, agricultores o ganaderos.
+
+b) Una vez aplicado lo anterior si aún existieran remanentes disponibles se destinarán a aquel o aquellos pagos asociados en los que el importe se aleje en mayor proporción al importe planificado recogido en el anexo XX.
+
+4\. Con base en lo dispuesto en el artículo 124.8.c), se volverá a calcular el remanente de fondos, por infrautilización en cualquiera de las intervenciones de pagos directos. El remanente resultante, con respeto de las condiciones y limitaciones establecidas en los artículos 121, 122 y 123, podrá trasladarse, en primer lugar, a las intervenciones que están sometidas a unas asignaciones financieras mínimas, conforme a lo establecido en los artículos 95, 97 y 98 del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021 y, en segundo lugar, una vez cubiertas las mismas, a la ayuda básica a la renta para la sostenibilidad de acuerdo con lo dispuesto al último párrafo del artículo 121.2.
+
+> Se modifican los apartados 1 y 4 por el art. 3.29 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifican los apartados 2.b) y c) y 3.b) por el art. 3.35 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 126. Mecanismo complementario de distribución de las asignaciones financieras de los ecorregímenes.
+
+1\. El caso de los ecorregímenes, se establecerá un mecanismo complementario de distribución de las asignaciones financieras que mitigue las posibles distorsiones a la baja de los importes unitarios en el caso de que las superficies solicitadas sean superiores a las planificadas.
+
+2\. A los efectos del presente artículo se aplicarán las siguientes definiciones:
+
+a) Remanente potencial adicional: para un ecorrégimen dado en el que el importe unitario establecido conforme a los artículos 124.2 y 124.8 es igual o superior al importe unitario planificado, es el montante disponible transferir a otro ecorrégimen en caso de ser necesario.
+
+b) Necesidad detectada: para un ecorrégimen dado en el que el importe unitario establecido conforme a los artículos 124.2 y 124.8 es inferior al importe unitario planificado, es el montante que podría recibir para cubrir sus necesidades en caso de estar disponible.
+
+3\. Tanto en el caso del remanente potencial adicional como de la necesidad detectada, para un ecorrégimen dado, el montante es la diferencia entre las dos cantidades siguientes:
+
+i) La asignación financiera que hubiera sido necesaria si el importe unitario establecido fuera el importe unitario planificado en el primer tramo de hectáreas y el 70 % del importe unitario planificado en el segundo tramo, conforme lo establecido en el artículo 25.
+
+ii) La asignación financiera para ese ecorrégimen, una vez aplicado el mecanismo de aprovechamiento de fondos descrito en el artículo 125.
+
+4\. En el caso de que haya un ecorrégimen con una necesidad detectada mayor a cero, se transferirá parte de la asignación financiera de un ecorrégimen con un remanente potencial adicional mayor a cero, aplicándose las siguientes limitaciones:
+
+a) El montante recibido por el ecorrégimen receptor nunca superior a la necesidad detectada.
+
+b) El montante cedido por el ecorrégimen cedente nunca será superior al remanente potencial adicional.
+
+5\. El orden de prelación tanto en lo que se refiere a la cesión de remanentes potenciales adicionales como a la recepción de los mismos para cubrir las necesidades detectadas, será equivalente al establecido en el artículo 125.2.
+
+6\. Una vez transferidos los remanentes, se volverán a calcular los importes unitarios a aplicar en los ecorregímenes afectados por la aplicación de este mecanismo.
+
+> Se deja sin contenido el apartado 3 bis y se modifica el 3 por el art. 3.30 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica el apartado 3 y se añade el 3 bis por el art. 3.36 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+###### Artículo 127. Superación de los límites presupuestarios establecidos para las intervenciones en forma de pagos directos.
+
+Una vez fijados los importes unitarios definitivos conforme a lo estipulado en el artículo 124.8, el Fondo Español de Garantía Agraria O.A. establecerá los límites presupuestarios correspondientes a cada organismo pagador para cada una de las intervenciones en forma de pagos directos. Este reparto será realizado sobre la base de las realizaciones comunicadas por cada organismo pagador, y será puesto en conocimiento de cada organismo pagador a efectos de lo dispuesto en los apartados 5, 6 y 7 del artículo 26 del Real Decreto 1046/2022, de 27 de diciembre.
+
+###### Artículo 128. Superación del límite presupuestario global.
+
+1\. Los importes totales de los pagos directos no podrán superar el límite global establecido en el anexo V del Reglamento (UE) número 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
+
+Por tanto, en el caso de que el Fondo Español de Garantía Agraria O.A., una vez haya estudiado las declaraciones de gastos y las previsiones y compruebe que superan el techo financiero del citado anexo V, comunicará a los organismos pagadores el importe de gasto que podrán pagar hasta el final del ejercicio financiero, así como la parte que genera el rebasamiento del techo financiero y que se deberá pagar para el siguiente ejercicio financiero.
+
+2\. Además de lo anterior, a tenor de la información facilitada por las comunidades autónomas en el plazo indicado en el anexo II del Real Decreto 1047/2022, de 27 de diciembre (15 de abril) en cuanto a la previsión de pagos netos, así como de los pagos ya efectuados para cada campaña, el Fondo Español de Garantía Agraria O.A. verificará antes del 1 de mayo si existe rebasamiento del límite previsto en el anexo V del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021 y calculará, en su caso, un coeficiente de reducción lineal a aplicar a todos los pagos directos que comunicará a las comunidades autónomas.
+
+> Se modifica el apartado 2 por el art. 3.31 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+###### Disposición adicional primera. Referencias terminológicas.
+
+Toda mención a la figura de agricultor o beneficiario que se recoge en el presente real decreto debe entenderse realizada al individuo tanto de género masculino como de género femenino.
+
+###### Disposición adicional segunda. Comunicaciones a realizar por parte de los industriales arroceros.
+
+Mensualmente, los industriales arroceros deberán realizar, ante la autoridad competente donde se encuentre almacenado el arroz, a más tardar el día 10 de cada mes, una declaración de las existencias de arroz que se encuentren en su poder el último día del mes anterior, desglosadas tal como establece el artículo 12.b) del Reglamento de Ejecución (UE) 2017/1185 de la Comisión, de 20 de abril de 2017.
+
+Anualmente, asimismo, notificarán ante la autoridad competente, y a más tardar a 30 de noviembre de cada año, el rendimiento de molino alcanzado para cada uno de los tipos de arroz referidos en el párrafo anterior procedentes de la cosecha nacional del año en cuestión.
+
+###### Disposición adicional tercera. Contención del gasto de personal.
+
+Lo dispuesto en este real decreto no supondrá incremento de dotaciones, ni de retribuciones, ni de otros gastos de personal.
+
+###### Disposición adicional cuarta. Tratamiento de la información.
+
+La información gestionada como consecuencia de la aplicación del presente real decreto, deberá hacerse de acuerdo con las indicaciones del Esquema nacional de seguridad, el Esquema nacional de interoperabilidad y las directrices fijadas por la Oficina del dato de la Secretaría de Estado de Digitalización e Inteligencia Artificial del Ministerio de Asuntos Económicos y Transformación Digital, garantizándose así su interoperabilidad con el espacio de datos de agricultura. Toda información no sujeta a consideraciones de privacidad o sometida a propiedad intelectual o secreto comercial, deberá ser publicada como datos abiertos.
+
+###### Disposición transitoria primera. Adaptación de diversos plazos y condiciones para la campaña 2023.
+
+1\. No obstante lo dispuesto en el artículo 108.2, para el año 2023 el plazo de presentación de la solicitud finalizará el 15 de junio de 2023, inclusive.
+
+Sin perjuicio de lo anterior y no obstante lo dispuesto en el artículo 108.3, para el año 2023 serán admitidas solicitudes de ayuda, solicitudes de asignación de derechos de ayuda básica a la renta para la sostenibilidad o de la documentación que las acompaña presentadas hasta el 30 de junio sin que se aplique la reducción del 1 por ciento por cada día hábil de retraso en la presentación.
+
+2\. No obstante lo dispuesto en el artículo 112.1, para el año 2023, el plazo para modificar o incluir nuevas intervenciones en forma de pagos directos o de desarrollo rural, añadir parcelas individuales o derechos de pago individuales siempre que se cumplan los requisitos fijados en la intervención de que se trate, finalizará el 30 de junio, inclusive.
+
+3\. No obstante lo dispuesto en el artículo 112.3, para el año 2023, se establece el 8 de septiembre como la fecha límite para adaptar las parcelas agrarias de la solicitud única en relación a las intervenciones monitorizadas, en lo que se refiere a la adaptación de la delimitación gráfica o a la utilización de las parcelas agrarias.
+
+4\. No obstante lo dispuesto en el artículo 113.1, para el año 2023 se establece el 8 de septiembre como la fecha límite para la retirada total o parcial de solicitudes de ayuda por parte de los agricultores.
+
+> Se numera por la disposición final 1 del Real Decreto 408/2024, de 23 de abril. [Ref. BOE-A-2024-8192](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-8192)
+
+> Su anterior denominación era disposición transitoria única.
+
+###### Disposición transitoria segunda. Adaptación de diversos plazos y condiciones para la campaña 2024.
+
+1\. No obstante lo dispuesto en el artículo 108.2, para el año 2024 el plazo de presentación de la solicitud finalizará el 31 de mayo de 2024, inclusive.
+
+2\. No obstante lo dispuesto en el artículo 112.1, para el año 2024, el plazo para modificar o incluir nuevas intervenciones en forma de pagos directos o de desarrollo rural, añadir parcelas individuales o derechos de pago individuales siempre que se cumplan los requisitos fijados en la intervención de que se trate, finalizará el 15 de junio, inclusive.
+
+3\. No obstante lo dispuesto en el artículo 108.3, para el año 2024 se admitirán solicitudes de ayuda, solicitudes de asignación de derechos de ayuda básica a la renta para la sostenibilidad o de la documentación que las acompaña presentadas hasta el 15 de junio sin que se aplique la reducción del 1 por ciento por cada día hábil de retraso tras el fin del plazo de presentación de la solicitud única.
+
+> Se añade el apartado 3 por la disposición final 1 del Real Decreto 567/2024, de 18 de junio. [Ref. BOE-A-2024-12378](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12378)
+
+> Esta modificación surte efectos desde el 1 de enero de 2024, según establece la disposición final 3.1 del citado Real Decreto.
+
+> Se añade por la disposición final 1 del Real Decreto 408/2024, de 23 de abril. [Ref. BOE-A-2024-8192](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-8192)
+
+###### Disposición transitoria tercera. Adaptación de diversos plazos y condiciones para la campaña 2025.
+
+No obstante lo dispuesto en el artículo 108.3, para el año 2025 se admitirán solicitudes de ayuda, solicitudes de asignación de derechos de ayuda básica a la renta para la sostenibilidad o de la documentación que las acompaña presentadas hasta el 31 de mayo sin que se aplique la reducción del 1 por ciento por cada día hábil de retraso tras el fin del plazo de presentación de la solicitud única.
+
+> Se añade, con efectos de 1 de mayo de 2025, por la disposición final 1 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+###### Disposición transitoria cuarta. Adaptación de diversos plazos y condiciones para la campaña 2026 en Andalucía.
+
+No obstante, lo dispuesto en el artículo 112.1, para el año 2026 en el caso de Andalucía, el plazo para modificar o incluir nuevas intervenciones en forma de pagos directos o de desarrollo rural, añadir parcelas individuales o derechos de pago individuales siempre que se cumplan los requisitos fijados en la intervención de que se trate, finalizará el 15 de junio, inclusive.
+
+> Se añade por la disposición final 1 del Real Decreto 537/2026, de 30 de junio. [Ref. BOE-A-2026-14763](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14763)
+
+###### Disposición derogatoria única. Derogación normativa.
+
+1\. Queda derogado el Real Decreto 1075/2014, de 19 de diciembre, sobre la aplicación a partir de 2015 de los pagos directos a la agricultura y a la ganadería y otros regímenes de ayuda, así como sobre la gestión y control de los pagos directos y de los pagos al desarrollo rural.
+
+2\. Queda derogado el Real Decreto 41/2021, de 26 de enero, por el que se establecen las disposiciones específicas para la aplicación en los años 2021 y 2022 de los Reales Decretos 1075/2014, 1076/2014, 1077/2014 y 1078/2014, todos ellos de 19 de diciembre, dictados para la aplicación en España de la Política Agrícola Común.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023. [Ref. BOE-A-2023-2253](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2253)
+
+###### Disposición final primera. Facultad de desarrollo y modificación.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para dictar las disposiciones que exija el desarrollo de este real decreto y, en particular, para introducir en los anexos las modificaciones o actualizaciones de carácter técnico que resulten necesarias derivadas de la normativa de la Unión Europea.
+
+> Se suprime el segundo párrafo por el art. 7.16 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se añade un párrafo por el art. 3.32 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+###### Disposición final segunda. Título competencial.
+
+El presente real decreto tiene carácter básico y se dicta al amparo del artículo 149.1.13.ª de la Constitución, que reserva al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+###### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el 1 de enero de 2023.
+
+Dado en Madrid, el 27 de diciembre de 2022.
+
+FELIPE R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+LUIS PLANAS PUCHADES
+
+## ANEXO I — Árboles forestales de ciclo corto
+
+| ﻿Árboles forestales de cultivo corto | Densidad mínima de plantación<br>(Plantas/hectárea) | Ciclo máximo de cosecha (desde la plantación o última corta) |
+|---|---|---|
+| *Eucalyptus*(Eucalipto). | 3.300 | 10 años |
+| *Paulownia.* | 1.500 | 5 años |
+| *Populus sp.*(Chopo). | 1.100 | 10 años |
+| *Salix sp.*(Sauces y Mimbres). | 5.000 | 10 años |
+| *Robinia pseudoacacia L.* | 5.000 | 10 años |
+
+## ANEXO II — Códigos CNAE o IAE de las actividades excluidas conforme a lo establecido en el artículo 6
+
+Códigos CNAE de las actividades excluidas conforme a lo establecido en el artículo 6
+
+Real Decreto 475/2007, de 13 de abril, por el que se aprueba la Clasificación Nacional de Actividades Económicas 2009 (CNAE-2009).
+
+– Aeropuertos:
+
+H51 (Transporte aéreo).
+
+– Servicios ferroviarios:
+
+H49.1 (Transporte interurbano de pasajeros por ferrocarril).
+
+H49.2 (Transporte de mercancías por ferrocarril).
+
+– Instalaciones de abastecimiento de agua:
+
+E36 (Captación, depuración y distribución de agua).
+
+– Servicios inmobiliarios:
+
+F41.1 (Promoción inmobiliaria).
+
+L68 (Actividades inmobiliarias).
+
+– Instalaciones deportivas y recreativas permanentes:
+
+R93 (Actividades deportivas, recreativas y de entretenimiento).
+
+Códigos IAE de las actividades excluidas conforme a lo establecido en el artículo 6
+
+– Aeropuertos:
+
+Sección primera 74 (transporte aéreo).
+
+– Servicios ferroviarios:
+
+Sección primera 71 (transporte por ferrocarril).
+
+– Instalaciones de abastecimiento de agua:
+
+Sección primera 161 (captación, tratamiento y distribución de agua para núcleos urbanos).
+
+– Servicios inmobiliarios:
+
+Sección primera 833 (promoción inmobiliaria).
+
+Sección primera 834 (servicios relativos a la propiedad inmobiliaria y a la propiedad industrial).
+
+Sección primera 862 (alquiler de bienes inmuebles de naturaleza rústica) (*).
+
+Sección segunda 721 (agentes colegiados de la propiedad industrial y de la propiedad inmobiliaria).
+
+Sección segunda 722 (gestores administrativos).
+
+Sección segunda 723 (administradores de fincas).
+
+Sección segunda 724 (intermediarios en la promoción de edificaciones).
+
+– Instalaciones deportivas y recreativas permanentes:
+
+Sección primera 942.2 (balnearios y baños).
+
+Sección primera 965 (espectáculos (excepto cine y deportes).
+
+965.2 espectáculos al aire libre.
+
+965.4 empresas de espectáculos.
+
+965.5 espectáculos taurinos.
+
+Sección primera 967 (instalaciones deportivas, escuelas y servicios de perfeccionamiento del deporte).
+
+967.1 instalaciones deportivas.
+
+967.2 escuelas y servicios de perfeccionamiento del deporte
+
+Sección primera 968 (espectáculos deportivos).
+
+Sección primera 979.4 (adiestramiento de animales y otros servicios de atenciones a animales domésticos).
+
+Sección primera 981 (jardines, parques de recreo o de atracciones y acuáticos y pistas de patinaje).
+
+Sección primera 989 (otras actividades relacionadas con el espectáculo y el turismo. Organización de congresos. Parques o recintos feriales).
+
+989.3 parques o recintos feriales.
+
+(*) Aplicable a personas jurídicas o grupos de personas físicas o jurídicas.
+
+> Se modifica por el art. 3.33 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+## ANEXO III — Listado de actividades agrarias objeto de declaración
+
+A) Actividades de producción:
+
+– En tierras de cultivo:
+
+● Cultivo de productos agrícolas, con inclusión de la cosecha realizándose las prácticas y labores agrícolas propias de la zona, que aseguren el normal desarrollo agronómico del cultivo.
+
+● Cultivo sin cosechado por razones medioambientales.
+
+● Pastoreo con animales de la explotación (en el caso de barbecho, pastos temporales y hierbas u otros forrajes herbáceos).
+
+● Siega para la producción de hierba (en el caso de barbecho, pastos temporales y hierbas u otros forrajes herbáceos).
+
+– En cultivos permanentes:
+
+● Plantación.
+
+● Recolección.
+
+● Obtención de plantones para plantación.
+
+– En pastos:
+
+● Pastoreo con animales de la explotación.
+
+● Siega para producción de hierba (sólo en pastizales).
+
+B) Actividades de mantenimiento:
+
+– En tierras de cultivo:
+
+● Laboreo
+
+● Eliminación de vegetación espontánea por métodos químicos.
+
+● Eliminación de vegetación espontánea por medios mecánicos.
+
+● Establecimiento de una cubierta vegetal en barbechos.
+
+● Abonado en verde.
+
+● Nivelación, creación de caballones y tablas en cultivos bajo agua.
+
+– En cultivos permanentes:
+
+● Mantenimiento del cultivo.
+
+○ Poda.
+
+○ Entutorado.
+
+○ Prácticas y labores agrícolas incluido el riego, que aseguren el normal desarrollo agronómico del cultivo para ser cosechado en los años propios de producción.
+
+● Mantenimiento del suelo.
+
+○ Establecimiento de cubiertas vegetales.
+
+○ Establecimiento de cubiertas inertes.
+
+○ Eliminación de vegetación espontánea por métodos químicos.
+
+○ Eliminación de vegetación espontánea por medios mecánicos.
+
+○ Laboreo.
+
+– En pastos:
+
+● Siega de mantenimiento (sólo en pastizales).
+
+● Desbroce (sólo en pastos arbustivos y arbolados).
+
+● Mantenimiento del drenaje (sólo en pastizales).
+
+● Estercolado o fertilización.
+
+● Resiembra de especies pratenses con labor de labranza superficial.
+
+C) A los efectos de lo dispuesto en el segundo párrafo del artículo 9.2 el agricultor podrá declarar lo siguiente como actividad agraria:
+
+● Sin actividad agraria por razones medioambientales.
+
+## ANEXO IV — Disposiciones relativas a actividades de mantenimiento en pastos permanentes de titularidad pública utilizados en común
+
+Cuando, de conformidad con el artículo 8, las actividades de mantenimiento enunciadas en el anexo III se realicen sobre un pasto permanente utilizado en común, serán necesarios:
+
+a) La suscripción de un acuerdo expreso entre el beneficiario y la entidad gestora del pasto, indicando la actividad de mantenimiento a realizar por el comunero, la ubicación y fecha de realización, y una certificación que acredite que dicha actividad no ha sido acometida previamente por la propia entidad gestora.
+
+b) La presentación de un informe técnico con las características y contenido que establezca la autoridad competente de la comunidad autónoma, en el que se reflejen las actuaciones previstas y una adecuada justificación de las mismas. Dicho informe no podrá tener una antigüedad superior a seis meses.
+
+c) Resolución favorable o autorización expresa de las actividades de mantenimiento previstas, emitida por la autoridad competente en materia de medioambiente de la comunidad autónoma correspondiente.
+
+d) La delimitación gráfica en la solicitud única de la zona del comunal en la que se van a realizar dichas actividades de mantenimiento.
+
+e) El acotamiento físico adecuado de dicha zona, de forma que se impida el acceso de los animales durante el periodo que se establezca.
+
+Toda esta documentación habrá de ser incorporada a la solicitud única, a más tardar a fecha fin de plazo de modificación de la solicitud única.
+
+Se deberán registrar en el cuaderno de explotación agrícola, o en el cuaderno digital de explotación agrícola, a partir de la entrada en vigor de éste, las fechas de realización de las actividades de mantenimiento en cada parcela agrícola de pasto. Dicha anotación, deberá realizarse, a más tardar, en el plazo de un mes tras la fecha de finalización de dicha actividad. Asimismo, deberán conservarse las facturas que acrediten la realización de las actividades de mantenimiento indicadas, con objeto de justificar la ejecución de las mismas si así lo requiriera la Administración.
+
+En caso de que las actividades de mantenimiento se hubieran efectuado con medios propios, deberá poder acreditarse ante la Administración la disponibilidad de dichos medios y la efectiva realización de las labores de mantenimiento mediante el aporte de evidencias, en particular, de fotografías geoetiquetadas que cumplan las especificaciones establecidas en el anexo XXV, si así lo requiriera la Administración.
+
+## ANEXO V — Número de animales y conversión a UGM
+
+A los efectos de las ayudas asociadas ganaderas, de otros pagos directos y de las situaciones de riesgo de incumplimiento de los requisitos de actividad agraria establecidos en el artículo 12 de este real decreto comunes a las superficies agrarias por las que se solicita ayuda, se aplica la siguiente tabla de conversión a Unidades de Ganado Mayor (UGM)
+
+<table class="tabla">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">Bovinos.</td>
+<td class="cuerpo_tabla_izq">De menos de 1 año.</td>
+<td class="cuerpo_tabla_coma">0,400</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">De un año a menos de dos años.</td>
+<td class="cuerpo_tabla_coma">0,700</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Machos, de dos años o más.</td>
+<td class="cuerpo_tabla_coma">1,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Novillas, de dos años o más.</td>
+<td class="cuerpo_tabla_coma">0,800</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Vacas de aptitud láctea, de dos años o más.</td>
+<td class="cuerpo_tabla_coma">1,000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Otras vacas, de dos años o más.</td>
+<td class="cuerpo_tabla_coma">0,800</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ovinos y caprinos.</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_coma">0,100</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Equinos.</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_coma">0,800</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Porcinos.</td>
+<td class="cuerpo_tabla_izq">Lechones&gt;20 Kg de peso vivo.</td>
+<td class="cuerpo_tabla_coma">0,027</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cerdas de cría&gt;50 Kg.</td>
+<td class="cuerpo_tabla_coma">0,500</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Otros cerdos.</td>
+<td class="cuerpo_tabla_coma">0,300</td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO VI — Información mínima que debe contener la solicitud única
+
+I. Información general
+
+1\. La identificación del agricultor: NIF, apellidos y nombre del agricultor y, si procede, de su cónyuge y régimen matrimonial, en su caso, o razón social, fecha de nacimiento, domicilio (tipo de vía y su número, código postal, municipio y provincia), teléfono y apellidos y nombre del representante legal en su caso, con su NIF. En caso de persona física, indicación de si la titularidad de la explotación es compartida mediante la inscripción en el registro previo correspondiente. La comprobación de los datos relativos a la identidad se realizará de oficio por el órgano instructor, salvo oposición expresa por parte del beneficiario, en cuyo caso deberá aportar el correspondiente documento.
+
+2\. Datos relativos al gerente de la explotación, necesarios para dar cumplimiento al Reglamento (UE) número 2018/1091 del Parlamento Europeo y del Consejo, de 18 de julio de 2018 relativo a las estadísticas integradas sobre explotaciones agrícolas y por el que se derogan los Reglamentos (CE) número 1166/2008 y (UE) número 1337/2011, y al Plan Estadístico Nacional.
+
+3\. Los datos bancarios, con reseña de la entidad financiera, así como de las cifras correspondientes al código IBAN de banco y de sucursal, los dos dígitos de control y el número de la cuenta corriente, libreta, etc., donde se quieran recibir los pagos.
+
+4\. Declaración de que el titular de la explotación conoce las condiciones establecidas por la Unión Europea y el Estado español relativas a las intervenciones solicitadas.
+
+5\. La identificación de los derechos de la ayuda básica a la renta para la sostenibilidad solicitados. Está identificación podrá ser sustituida por una declaración del productor solicitando todos los derechos de los que disponga en la base de datos de derechos establecida al efecto, incluidos los procedentes de cesiones y Reserva Nacional.
+
+6\. La autoridad competente, en relación con los costes laborales realmente pagados en el año anterior incluidos los impuestos y cotizaciones sociales, en caso de que el importe de Ayuda Básica a la Renta para la Sostenibilidad a percibir por el agricultor sobrepase los 60.000 euros, solicitará a los beneficiarios afectados la documentación que considere necesaria para poder aplicar de manera correcta los apartados 2 y 3 del artículo 16.
+
+7\. Compromiso expreso de colaborar para facilitar los controles que efectúe cualquier autoridad competente para verificar que se cumplen las condiciones reglamentarias para la concesión de las ayudas.
+
+8\. Compromiso expreso de devolver los anticipos o ayudas cobradas indebidamente, a requerimiento de la autoridad competente, incrementados, en su caso, en el interés correspondiente.
+
+9\. Declaración de que no ha presentado en otra Comunidad Autónoma en esta campaña, ninguna otra solicitud para el cobro de las intervenciones indicadas en el artículo 104.
+
+10\. Declaración formal de que todos los datos reseñados son verdaderos, y en particular en lo que se refiere a la subvencionabilidad, al requisito de agricultor activo y a la realización de la actividad agraria. Declarará de forma expresa que los cultivos y aprovechamientos, así como las actividades de producción o de mantenimiento declaradas son veraces y constituyen un fiel reflejo de su actividad agraria.
+
+11\. Las advertencias contenidas en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y demás normativa vigente.
+
+12\. Declaración de todas las parcelas agrarias de la explotación, incluidas aquéllas para las que no se solicite el cobro de ninguna intervención, indicándose en todo caso y para cada parcela, lo recogido en los puntos 1 a 5 del epígrafe III del presente anexo. Para cada recinto se indicará el régimen de tenencia, es decir, si el mismo es propiedad del beneficiario, se explota en régimen de arrendamiento o aparcería, indicando en estos casos, para recintos mayores de una hectárea, el NIF del arrendador o cedente aparcero, usufructo o si se trata de una superficie comunal asignada por una entidad gestora de la misma, en cuyo caso deberá aportar la documentación relativa a dicha asignación. En el caso de las intervenciones para el desarrollo rural basadas en superficie, se incluirán las superficies no agrícolas por las que se solicita dicha ayuda. La indicación del NIF del arrendador o cedente aparcero podrá no realizarse en aquellas comunidades autónomas que tengan puesto en práctica un sistema que permita a los propietarios de las parcelas indicar que parcelas no pueden ser solicitadas al no estar arrendadas, evitando así la utilización fraudulenta de las mismas.
+
+> Téngase en cuenta que se deroga la última frase del apartado 12 por la disposición derogatoria única del Real Decreto 1039/2025, de 19 de noviembre. [Ref. BOE-A-2025-23421](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-23421)
+
+13\. Declaración expresa de que conoce los usos y delimitaciones que figuran en la base de datos del SIGPAC (visor) para las parcelas agrícolas declaradas y que estos se corresponden con los usos y aprovechamientos que realiza en su explotación, presentando en caso contrario la alegación de cambio de uso SIGPAC o delimitación que corresponda.
+
+14\. Los beneficiarios deberán presentar una autorización para que la autoridad competente recabe de la Tesorería General de la Seguridad Social, así como de la Agencia Tributaria y de los órganos competentes en materia tributaria de los territorios forales, la información de Seguridad Social y fiscal para poder determinar el cumplimiento de los criterios de agricultor activo, así como realizar el resto de comprobaciones a las que se hace referencia en el artículo 117.5.
+
+Cuando el beneficiario sea una comunidad de bienes, herencia yacente o comunidad de herederos, sociedad civil sin objeto mercantil, o explotación en régimen de titularidad compartidas, en la solicitud deberá identificar al socio, partícipe o comunero que cumple el requisito del 25 % de ingresos agrarios o del alta en la seguridad social, e incluirá la autorización indicada. En caso de no presentar dicha autorización, el beneficiario deberá aportar la documentación justificativa, y en caso de ejercer como actividad principal una actividad excluida, la información fiscal correspondiente, en su caso, a sus entidades asociadas. Estas agrupaciones de personas físicas además deberán declarar, en su solicitud única, el dato de ingresos correspondientes a la actividad agrícola y ganadera de la agrupación.
+
+15\. En el caso de beneficiarios que sean personas jurídicas distintas de sociedades civiles sin objeto mercantil, o grupos de personas jurídicas, deberán declarar el total de ingresos agrarios y de ingresos totales percibidos en el periodo impositivo disponible más reciente, así como los correspondientes, en su caso, a sus entidades asociadas.
+
+16\. En el caso de las personas jurídicas y agrupaciones de personas físicas, estas deberán declarar el nombre y NIF de los socios participantes indicando el tanto por ciento de su participación en el capital social. En el caso de que se solicite la ayuda complementaria a la renta para jóvenes agricultores y jóvenes agricultoras, regulada en la sección 3, del capítulo II del título III, se deberá indicar también el sexo y fecha de nacimiento de cada socio.
+
+17\. Se incluirá referencia expresa al código de identificación asignado a cada unidad de producción en virtud del Real Decreto 479/2004, de 26 de marzo, por el que se establece y regula el Registro General de Explotaciones Ganaderas. Así mismo se deberá declarar el código de identificación asignado a la explotación en los registros agrícolas que las autoridades competentes tengan dispuestos en el momento de la solicitud, en el Registro General de la Producción Agrícola (en adelante REGEPA) regulado por el Real Decreto 9/2015, de 16 de enero, por el que se regulan las condiciones de aplicación de la normativa comunitaria en materia de higiene en la producción primaria agrícola o con base en el Real Decreto 1054/2022, de 27 de diciembre. Sin perjuicio de anterior, cuando la autoridad competente tenga acceso a la información exigida en este punto, se eximirá al beneficiario de la necesidad de cumplimentarla.
+
+18\. Declaración expresa en la que el agricultor manifieste que no ejerce, como actividad principal, ninguna actividad que, conforme a la Clasificación Nacional de Entidades Económicas (CNAE) o conforme al Impuesto sobre Actividades Económicas (IAE), se corresponda con las actividades descritas en el artículo 6, ni es controlado por, ni tiene el control de ninguna entidad asociada, según se definen en el mismo artículo 6, que realice alguna de estas actividades como actividad principal. En esta declaración se incluirá el NIF de las entidades asociadas con las que el agricultor tenga relación.
+
+19\. En el caso de explotaciones agrícolas que realicen venta directa al consumidor final, declaración de dicha práctica, entendiéndose como tal cualquier forma de transferencia, a título oneroso o gratuito, realizada directamente por el productor a la persona consumidora final.
+
+20\. En virtud de lo dispuesto en el artículo 117, declaración expresa para que se facilite a la Dirección General de Catastro del Ministerio de Hacienda y Función Pública, en los términos que se determinen por orden del Ministro de Hacienda, los datos personales mínimos exigibles, para que el titular catastral pueda ejercer sus derechos de acceso, respecto de las comunicaciones al Catastro Inmobiliario recogidas en el artículo 117.
+
+21\. Declaración expresa de que conoce que todos los datos consignados en la solicitud única de ayudas, así como los que se recogen de otras Administraciones públicas para la cumplimentación de la solicitud, pueden ser tratados con fines estadísticos por la Autoridad competente, cumpliendo las medidas de confidencialidad conforme al artículo 91 del Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, de cara a estudios y trabajos en el marco del seguimiento de la PAC.
+
+22\. Declaración expresa de que conoce que todos los datos consignados en la solicitud única de ayudas, así como los que se recogen de otras Administraciones públicas para la cumplimentación de la solicitud y en la tramitación de la misma, podrán ser publicados por la autoridad competente, cumpliendo las medidas de protección de datos conforme al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos.
+
+23\. Autorización expresa para que la autoridad competente en la gestión de la solicitud única en cada comunidad autónoma, pueda acceder a la información contenida en los registros oficiales para determinar la subvencionabilidad de las ayudas solicitadas.
+
+24\. De conformidad con el artículo 8 del Real Decreto 1054/2022, de 27 de diciembre, declaración expresa de que conoce que la información proporcionada en la Solicitud Única y en el Cuaderno Digital de Explotación Agrícola se utilizará de oficio para actualizar la información contenida en el Registro Autonómico de Explotaciones Agrícolas.
+
+25\. A efectos de lo indicado en el artículo 10, declaración expresa de ser conocedor de que será excluido de los pagos de ayudas asociadas o ecorregímenes que solicite en superficies de regadío, en el caso de que se produzca un uso ilegal del agua de riego en las mismas que dé lugar a una sanción impuesta por la autoridad competente. Declaración expresa, en su caso, de que cuenta con una concesión, autorización, o cualquier otra forma de acceso legal, para uso privativo del agua, vigente o en tramitación, así como una autorización expresa para que la autoridad competente recabe de las administraciones con competencia en materia de agua correspondientes las sanciones impuestas en firme en vía administrativa por infracciones calificadas como graves y muy graves, así como la información necesaria para comprobar el cumplimiento de dicho requisito.
+
+26\. En el caso de la práctica de islas de biodiversidad en las superficies de pastos, y conforme a lo dispuesto en el artículo 31.3.b).iii el beneficiario presentará declaración responsable que indique la no utilización de productos fitosanitarios en las islas y márgenes de biodiversidad.
+
+27\. Conforme a lo previsto en el artículo 37.5, compromiso de realizar, en 2024, la práctica de siembra directa en la misma superficie que en 2023
+
+28\. Declaración expresa de ser conocedor de que en las superficies de viñedo ilegales o que no dispongan de la correspondiente autorización de plantación, conforme a lo establecido en el apartado 6 del artículo 38, no podrá percibir el importe correspondiente al ecorrégimen de cubiertas vegetales y/o cubiertas inertes en las superficies de viñedo de la explotación.
+
+29\. Conforme a lo previsto en el artículo 42.4, compromiso de realizar, en 2025, la práctica de cubiertas vegetales en la misma superficie que en 2024 y así sucesivamente. En el caso de las prácticas de cubiertas vegetales e inertes en las superficies de cultivos leñosos, y conforme a lo dispuesto en los apartados 1.c) de los artículos 42 y 43, el beneficiario presentará declaración responsable que indique la no utilización de productos fitosanitarios sobre las cubiertas.
+
+29 bis. En el caso de la práctica de cubiertas vegetales en cultivos leñosos, y conforme a lo dispuesto en el artículo 42.1 c), el beneficiario presentará declaración responsable que indique que, tras dos años realizando la práctica sobre la misma superficie, ha detectado un caso de inversión de flora que justifique la aplicación puntual de herbicidas al tercer año de realización de la práctica, por imposibilidad de erradicarla por medios mecánicos o mediante ganado.
+
+30\. En el caso de la práctica de espacios de biodiversidad en tierras de cultivo y cultivos permanentes, y conforme a lo dispuesto en el artículo 44.8 el beneficiario presentará declaración responsable que indique la no utilización de productos fitosanitarios ni fertilizantes en las áreas no productivas con excepción de las zonas de no cosechado.
+
+31\. Datos de Edificaciones e Instalaciones necesarios para la configuración del registro de explotaciones. Se debe identificar la clase de instalación, tipo de local y coordenadas del emplazamiento, dimensión, así como la parcela catastral en la que se localicen las instalaciones y edificaciones.
+
+32.**(Sin contenido)**
+
+33\. En caso de que la solicitud única sea presentada por una entidad habilitada por la comunidad autónoma a tal fin, se deberá detallar la información que permita identificar dicha entidad.
+
+34\. Declaración expresa de que autoriza a que la información proporcionada en la Solicitud Única, y en las aplicaciones desarrolladas al efecto para la gestión de la misma, se utilice de oficio para la evaluación y seguimiento del Plan Estratégico Nacional de la Política Agrícola Común (PAC) del Reino de España 2023-2027 en cumplimiento de la normativa europea, para su publicación conforme a lo dispuesto el artículo 98 del Reglamento (UE) 2116/2021 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, y para el tratamiento por organismos de auditoría e investigación de la Unión, de la Administración General del Estado y de las comunidades autónomas para proteger los intereses financieros de la Unión y para la lucha contra el fraude y el conflicto de intereses, sin perjuicio de lo dispuesto en el artículo 101 de dicho Reglamento respecto al tratamiento y protección de los datos personales.
+
+35\. En cumplimiento de lo indicado en el artículo 44 del Reglamento de Ejecución 2022/128, de la Comisión, de 21 de diciembre de 2021, si el beneficiario forma parte de un grupo empresarial, deberá declarar en la solicitud de ayuda, el nombre de la entidad matriz y número de IVA o de identificación fiscal, la matriz última y número de IVA o de identificación fiscal, así como nombre de la filial o filiales y números de identificación fiscal correspondientes. En relación con la misma información, el beneficiario deberá autorizar el tratamiento de los datos citados a los efectos de los controles requeridos y de la publicación prevista en dicho reglamento.
+
+36\. Autorización para que sus datos de contacto sean utilizados por el Ministerio de Agricultura, Pesca y Alimentación para realizar comunicaciones informativas sobre las ayudas de la PAC, ayudas estatales u otras medidas de apoyo al sector agrario, así como otras informaciones que puedan ser de interés.
+
+37\. Declaración expresa sobre si el beneficiario se compromete al uso del cuaderno digital de explotación para todas las anotaciones recogidas en el contenido mínimo del anexo II del Real Decreto 1054/2022 de 27 de diciembre.
+
+38\. A los efectos del cómputo de ingresos agrarios para el cumplimiento de la figura de agricultor activo, en caso de que el agricultor haya percibido ingresos ligados al autoconsumo en la propia explotación, deberá detallar los ingresos agrarios a considerarle.
+
+II. Declaración expresa de lo que solicita
+
+1\. Se deberá indicar expresamente la superficie de cada una de las intervenciones por las que solicita el pago.
+
+III. Intervenciones basadas en el ejercicio de la actividad agraria en las superficies
+
+Deberán declararse todas las parcelas agrícolas de la explotación, indicándose en todo caso y para cada una de ellas lo recogido en los puntos 1 a 5 siguientes, y según la intervención solicitada, se indicará lo que proceda del resto de puntos:
+
+1\. La identificación se realizará mediante las referencias alfanuméricas del SIGPAC y mediante delimitación gráfica. No obstante, en aquellos términos municipales en que se produzcan modificaciones territoriales u otras razones debidamente justificadas como la recogida en el artículo 106.4.c), las comunidades autónomas podrán determinar la autorización temporal de otras referencias oficiales.
+
+2\. La superficie en hectáreas con dos decimales.
+
+3\. Las intervenciones para las que se solicita la ayuda.
+
+4\. La utilización de las parcelas, indicándose en todo caso el producto cultivado, los pastos permanentes, otras superficies forrajeras, el barbecho y tipo del mismo, los cultivos permanentes, las superficies plantadas con plantas forestales de ciclo corto, etc. El cultivo declarado deberá ser alguno de los recogidos en el catálogo citado en el artículo 105.7. Se deberán declarar las fechas previstas de inicio y fin del cultivo. Se indicará si la actividad agraria es realizada por un tercero y que, con respecto de ella, el beneficiario no es responsable.
+
+En particular:
+
+– En el caso de los recintos de pastos, se indicará si las parcelas van a ser objeto de producción con pastoreo con animales de la propia explotación o siega u objeto de mantenimiento mediante otras técnicas. También se indicará el año de implantación.
+
+– En el caso de las tierras de cultivo, se podrá declarar más de un producto por campaña y parcela.
+
+– En el caso de cultivos permanentes, además del producto cultivado, se deberá indicar el año de plantación, el tipo de cobertura del suelo y las actividades sobre la cubierta del mismo. Sin perjuicio de lo anterior, no será necesario especificar el año en cultivos permanentes plantados antes de 2010
+
+– En determinados cultivos: aprovechamiento, destino del cultivo, sistema de cultivo, cobertura del suelo, si se trata de una superficie amparada por un régimen de calidad o producción ecológica.
+
+5\. El sistema de explotación: secano o regadío, según proceda.
+
+6\. En el caso de que la parcela se siembre o esté plantada con:
+
+a) Cultivos proteicos (salvo la excepción prevista en el apartado a del artículo 49), arroz, remolacha azucarera, cáñamo, viñedo y algodón, la variedad cultivada siempre que se solicite la ayuda asociada correspondiente.
+
+b) Maíz modificado genéticamente, deberán declararse todos los cultivos que se realicen por campaña y parcela. Además, el agricultor presentará una declaración responsable en la que se indique que es conocedor de la normativa aplicable al uso de este tipo de variedades.
+
+c) Cultivos proteicos de los definidos en el artículo 48.2, se indicará si dicha parcela se destina a la producción de semilla certificada.
+
+d) En el caso de superficies de olivar y de frutales, cuando la superficie declarada en el recinto sea mayor a 0,1 hectáreas, se indicará la especie y la variedad. En el caso de cultivos hortícolas cuando la superficie declarada en el recinto sea mayor a 0,1 hectáreas, deberán especificarse las especies a implantar en la campaña sobre la misma superficie.
+
+e) Cáñamo, deberá incluirse toda la información necesaria para la identificación de las parcelas de cáñamo, con indicación de las variedades y cantidades de semilla utilizadas (en kg por ha). Además, el agricultor presentará las etiquetas oficiales utilizadas en los envases de las semillas. Cuando la siembra tenga lugar después de la fecha límite de modificación de la solicitud única, las etiquetas se presentarán, a más tardar, el 30 de junio. Además, el agricultor deberá presentar prueba de la existencia de un contrato con la industria transformadora a la que se destine su producción o autorización de cultivo emitida por Agencia Española de Medicamentos y Productos Sanitarios.
+
+f) Tabaco, la variedad cultivada para proporcionar información estadística requerida por la normativa de notificación de información y documentos a la Comisión.
+
+7\. En el caso de la práctica de pastoreo extensivo, y conforme a lo dispuesto en el artículo 30.2, se deberán declarar para cada parcela de pasto, el o los códigos REGA donde se ubiquen los animales que los vayan a pastar. Además, en el momento de solicitud el agricultor que no vaya a realizar el pastoreo con todos los animales de su explotación consignará el número de animales de su explotación, por especie y categoría de acuerdo con el anexo V, con los que tiene previsto realizar esta práctica.
+
+Conforme a lo dispuesto en el artículo 30.2*bis*, se deberán declarar las fechas previstas de inicio y fin de la realización de la actividad de pastoreo por los animales de la explotación en cada parcela o grupo de parcelas agrícolas de pasto.
+
+8\. Delimitación gráfica de las islas y márgenes de biodiversidad en las superficies de pastos a efectos de la práctica de islas de biodiversidad en dichas superficies.
+
+9\. Delimitación gráfica de las áreas no productivas siguientes, en tierras de cultivo y cultivos permanentes, a efectos la práctica de espacios de biodiversidad en dichas superficies:
+
+– Islas y márgenes de biodiversidad.
+
+– Barbecho semillado o de biodiversidad.
+
+– Zona de no cosechado de cereales, leguminosas y oleaginosas.
+
+– Zona de no cosechado de especies aromáticas.
+
+10\. En el caso de que el productor justifique que en una parcela realiza un método de producción ecológica deberá aportar un certificado que permita comprobar dicha declaración. Cuando la autoridad competente tenga acceso a la información exigida en este punto, se eximirá al beneficiario de la necesidad de adjuntarla con su solicitud.
+
+11\. Ayuda asociada a la producción sostenible de proteínas de origen vegetal a que se refiere la subsección 2.ª de la sección 1.ª del capítulo III del título III, el beneficiario:
+
+– Deberá aportar declaración responsable del beneficiario de que es conocedor y se ajusta a los requisitos recogidos en el artículo 49, y en especial de que se compromete a que el destino del cultivo sea directa o indirectamente la alimentación animal o la alimentación humana, salvo en el caso de producción de semilla certificada.
+
+– Deberá declarar la estimación de la cantidad total de alfalfa en regadío a producir procedente del total de superficie por la que se solicita ayuda.
+
+– Deberá declarar las empresas productoras de semillas certificadas a las que pertenece.
+
+12\. En el caso de la ayuda asociada a los productores de frutos secos en áreas con riesgo de desertificación a que se refiere la subsección 6.ª de la sección 1.ª del capítulo III del título III, deberá indicar para cada parcela agrícola y recinto SIGPAC las especies y el número de árboles de cada una de las especies existentes beneficiarias de dicha ayuda.
+
+12 bis.**(Sin contenido)**
+
+13\. En el caso de la ayuda asociada a la producción tradicional de uva pasa a que se refiere la subsección 7.ª de la sección 1.ª del capítulo III del título III, deberá declarar la estimación de la cantidad total de uva a producir procedente del total de superficie por la que se solicita ayuda.
+
+14\. En el caso del pago específico al cultivo del algodón a que se refiere la subsección 8.ª de la sección 1.ª del capítulo III del título III, deberá indicar, en su caso, la organización interprofesional autorizada a la que pertenece, así como la forma de pertenencia a esta organización.
+
+15\. Datos relativos al destino del cultivo, en particular cuando se declaren cultivos hortícolas, cultivos energéticos, viñedo de vinificación y pasificación y flores, necesarios para dar cumplimiento al Reglamento (UE) núm. 2018/1091 del Parlamento Europeo y del Consejo, de 18 de julio de 2018.
+
+IV. Intervenciones basadas en el ejercicio de la actividad ganadera
+
+1\. Indicación de las intervenciones para las que solicita la ayuda.
+
+2\. Declaración del beneficiario, de que todas las unidades de producción que constituyen la explotación y en las que mantendrán animales objeto de solicitudes de ayuda o que deben ser tenidas en cuenta para la percepción de éstas, se corresponden con las incluidas en la base de datos informatizada según lo establecido en el Real Decreto 479/2004, de 26 de marzo.
+
+3\. Para todas las ayudas a los ganaderos que ejerzan actividad ganadera el productor debe solicitar que le sea concedida esta ayuda por el máximo número de animales que cumplan los requisitos.
+
+4\. Declaración del productor, afirmando que es consciente de que los animales para los que se haya comprobado que no están correctamente identificados o registrados en el sistema de identificación y registro, podrán contar como animales respecto de los cuales se han detectado irregularidades.
+
+5\. Declaración de que los datos de su explotación corresponden a los contenidos en la base de datos informatizada, o en caso contrario, compromiso de comunicar al órgano competente la rectificación según lo establecido en el Real Decreto 479/2004, de 26 de marzo.
+
+6\. Declaración de que los datos de los animales del sector vacuno y ovino y caprino corresponden a los contenidos en la base de datos informatizada, o en caso contrario, compromiso de comunicar al órgano competente la rectificación, según lo establecido en el Real Decreto 787/2023, de 17 de octubre, por el que se dictan disposiciones para regular el sistema de trazabilidad, identificación y registro de determinadas especies de animales terrestres en cautividad.
+
+7\. A efectos de lo dispuesto en el artículo 84.4 y en el artículo 96.3, declaración del rendimiento lechero medio de bovino de la explotación y rendimiento medio lechero de ovino y/o caprino de la explotación. Se podrá exigir que se aporte certificado oficial sobre rendimiento lechero cuando sea necesario.
+
+8\. De acuerdo con lo establecido en el artículo 102.2, el beneficiario que se acoja a la ayuda asociada para los ganaderos extensivos y semiextensivos de ovino y caprino sin pastos a su disposición y que pastorean superficies de rastrojeras, barbechos y restos hortofrutícolas, deben realizar la declaración de superficies en las que se realiza dicho aprovechamiento.
+
+V. Información y documentación adicional
+
+1\. En el caso de la ayuda asociada a la producción sostenible de proteínas de origen vegetal a que se refiere la subsección 2.ª de la sección 1.ª del capítulo III del título III:
+
+– En caso de que la superficie objeto de solicitud de ayuda se destine a la producción de alfalfa en regadío y el beneficiario no sea titular de una explotación ganadera con una carga ganadera acorde a la superficie solicitada, deberá aportar, para la totalidad de la producción concordante con la superficie de alfalfa por la que se solicita la ayuda:
+
+● una copia del contrato de suministro con una o varias explotaciones ganaderas en el territorio de la UE,
+
+● o bien, una copia del contrato de suministro con una o varias empresas fabricantes de productos para la alimentación animal en el territorio de la UE,
+
+● o bien, cuando sea miembro de una figura asociativa que lleve a cabo actividades de elaboración de productos para la alimentación animal, copia del compromiso de entrega a la misma,
+
+● o bien, una copia del contrato de suministro con una o varias empresas deshidratadoras de forrajes en el territorio de la UE, así como declaración responsable de la empresa deshidratadora que garantice que la producción equivalente objeto de ayuda será destinada al mercado comunitario.
+
+– Si la superficie objeto de solicitud de ayuda se destina a la producción de semilla certificada, deberá aportar contrato entre el agricultor y la empresa productora de semilla, salvo en los casos en que el agricultor forme parte de la propia estructura empresarial que produce la semilla.
+
+2\. En el caso de la ayuda asociada a la producción sostenible de remolacha azucarera a que se refiere la subsección 4.ª de la sección 1.ª del capítulo III del título III, deberá aportar una copia del contrato de suministro con la industria azucarera.
+
+3\. En el caso de la ayuda asociada a la producción sostenible de tomate para transformación a que se refiere la subsección 5.ª de la sección 1.ª del capítulo III del título III:
+
+– Copia del contrato suscrito con la industria o, en el caso de los miembros de figuras asociativas, del compromiso de entrega del producto para transformación. En el caso de agricultores que han vendido su producción como terceros a la figura asociativa, certificado de la figura asociativa con indicación de los agricultores que comercializan como terceros.
+
+– En el supuesto establecido en el artículo 60.4, copia del contrato establecido entre el agricultor y la figura asociativa.
+
+4\. En el caso de la ayuda asociada a la producción tradicional de uva pasa a que se refiere la subsección 7.ª de la sección 1.ª del capítulo III del título III:
+
+– Copia del contrato suscrito con la pasificadora o, en el caso de los miembros de figuras asociativas, del compromiso de entrega. En el caso de agricultores que han vendido su producción como terceros a la figura asociativa, certificado de la figura asociativa con indicación de los agricultores que comercializan como terceros.
+
+– En el supuesto establecido en el artículo 69.4, copia del contrato establecido entre el agricultor y la figura asociativa.
+
+– En el supuesto establecido en el artículo 69.5, declaración responsable firmada por el productor que indique que en su explotación posee las instalaciones adecuadas para la realización de la transformación de la uva, y en la que se compromete a transformar al menos el 75 % de su producción.
+
+5\. En el caso del pago específico al cultivo del algodón a que se refiere la subsección 8.ª de la sección 1.ª del capítulo III del título III, copia del contrato de suministro a una desmotadora autorizada.
+
+6\. En el caso de las ayudas asociadas para los ganaderos extensivos de vacuno de carne, para la producción sostenible de leche de vaca, para la producción sostenible de leche de oveja y cabra a las que se refieren las subsecciones 2.ª, 5.ª y 7.ª de la sección 2.ª del capítulo III del título III, cuando el ganadero realice entregas de leche a un primer comprador cuya residencia o domicilio social no estuviese en España, justificación documental de dichas entregas.
+
+7\. Sin perjuicio de lo establecido en los párrafos anteriores, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al beneficiario de la necesidad de presentación de dicha documentación, salvo en el caso de que él mismo manifieste su oposición expresa a que la administración acceda a los citados documentos.
+
+> Se deroga la última frase del apartado 12 por la disposición derogatoria única del Real Decreto 1039/2025, de 19 de noviembre. [Ref. BOE-A-2025-23421](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-23421)
+
+> Se modifican los apartados 23 y 25 de la parte I, los apartados 7 y 9 de la parte III y el apartado 6 de la parte IV por el art. 7.17 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se modifica por el art. 3.34 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica por el art. 3.37 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+> Redactado el apartado 4 del epígrafe V conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023. [Ref. BOE-A-2023-2253](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2253)
+
+## ANEXO VII — Asignaciones financieras indicativas de las Intervenciones en forma de pagos directos
+
+Intervenciones de pagos directos
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="16%">
+<col width="14%">
+<col width="14%">
+<col width="14%">
+<col width="14%">
+<col width="14%">
+<col width="14%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Ejercicio Financiero</th>
+<th class="cabeza_tabla">2024</th>
+<th class="cabeza_tabla">2025</th>
+<th class="cabeza_tabla">2026</th>
+<th class="cabeza_tabla">2027</th>
+<th class="cabeza_tabla">2028</th>
+<th class="cabeza_tabla" rowspan="2"> </th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Campaña</th>
+<th class="cabeza_tabla">2023</th>
+<th class="cabeza_tabla">2024</th>
+<th class="cabeza_tabla">2025</th>
+<th class="cabeza_tabla">2026</th>
+<th class="cabeza_tabla">2027</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Ayuda Básica a la Renta para la Sostenibilidad</th>
+<th class="cabeza_tabla">Asignación Financiera (€)</th>
+<th class="cabeza_tabla">Asignación Financiera (€)</th>
+<th class="cabeza_tabla">Asignación Financiera (€)</th>
+<th class="cabeza_tabla">Asignación Financiera (€)</th>
+<th class="cabeza_tabla">Asignación Financiera (€)</th>
+<th class="cabeza_tabla">Asignación Financiera Total 2023-2027 (€)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Region 1.</td>
+<td class="cuerpo_tabla_coma">366.680.383,45</td>
+<td class="cuerpo_tabla_coma">367.368.785,34</td>
+<td class="cuerpo_tabla_coma">368.055.407,68</td>
+<td class="cuerpo_tabla_coma">368.752.896,80</td>
+<td class="cuerpo_tabla_coma">368.752.896,80</td>
+<td class="cuerpo_tabla_coma">1.839.610.370,07</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 2.</td>
+<td class="cuerpo_tabla_coma">192.510.190,90</td>
+<td class="cuerpo_tabla_coma">192.884.808,95</td>
+<td class="cuerpo_tabla_coma">193.239.710,26</td>
+<td class="cuerpo_tabla_coma">193.594.611,58</td>
+<td class="cuerpo_tabla_coma">193.594.611,58</td>
+<td class="cuerpo_tabla_coma">965.823.933,27</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 3.</td>
+<td class="cuerpo_tabla_coma">224.765.436,57</td>
+<td class="cuerpo_tabla_coma">225.180.879,51</td>
+<td class="cuerpo_tabla_coma">225.596.322,44</td>
+<td class="cuerpo_tabla_coma">226.029.075,49</td>
+<td class="cuerpo_tabla_coma">226.029.075,49</td>
+<td class="cuerpo_tabla_coma">1.127.600.789,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 4.</td>
+<td class="cuerpo_tabla_coma">89.919.120,58</td>
+<td class="cuerpo_tabla_coma">90.086.283,05</td>
+<td class="cuerpo_tabla_coma">90.167.963,42</td>
+<td class="cuerpo_tabla_coma">90.425.125,89</td>
+<td class="cuerpo_tabla_coma">90.425.125,89</td>
+<td class="cuerpo_tabla_coma">451.023.618,83</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 5.</td>
+<td class="cuerpo_tabla_coma">1.570.973,09</td>
+<td class="cuerpo_tabla_coma">1.574.085,65</td>
+<td class="cuerpo_tabla_coma">1.577.198,21</td>
+<td class="cuerpo_tabla_coma">1.580.259,74</td>
+<td class="cuerpo_tabla_coma">1.580.259,74</td>
+<td class="cuerpo_tabla_coma">7.882.776,43</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 6.</td>
+<td class="cuerpo_tabla_coma">55.765.669,46</td>
+<td class="cuerpo_tabla_coma">55.875.187,09</td>
+<td class="cuerpo_tabla_coma">55.984.704,71</td>
+<td class="cuerpo_tabla_coma">56.097.755,17</td>
+<td class="cuerpo_tabla_coma">56.097.755,17</td>
+<td class="cuerpo_tabla_coma">279.821.071,60</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 7.</td>
+<td class="cuerpo_tabla_coma">99.941.185,37</td>
+<td class="cuerpo_tabla_coma">100.135.746,49</td>
+<td class="cuerpo_tabla_coma">100.335.171,65</td>
+<td class="cuerpo_tabla_coma">100.529.732,77</td>
+<td class="cuerpo_tabla_coma">100.529.732,77</td>
+<td class="cuerpo_tabla_coma">501.471.569,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 8.</td>
+<td class="cuerpo_tabla_coma">145.805.452,06</td>
+<td class="cuerpo_tabla_coma">146.089.278,02</td>
+<td class="cuerpo_tabla_coma">146.378.896,35</td>
+<td class="cuerpo_tabla_coma">146.668.514,68</td>
+<td class="cuerpo_tabla_coma">146.668.514,68</td>
+<td class="cuerpo_tabla_coma">731.610.655,79</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 9.</td>
+<td class="cuerpo_tabla_coma">167.204.895,63</td>
+<td class="cuerpo_tabla_coma">167.533.392,48</td>
+<td class="cuerpo_tabla_coma">167.865.995,54</td>
+<td class="cuerpo_tabla_coma">168.194.492,39</td>
+<td class="cuerpo_tabla_coma">168.194.492,39</td>
+<td class="cuerpo_tabla_coma">838.993.268,43</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 10.</td>
+<td class="cuerpo_tabla_coma">19.089.624,69</td>
+<td class="cuerpo_tabla_coma">19.127.363,80</td>
+<td class="cuerpo_tabla_coma">19.164.947,61</td>
+<td class="cuerpo_tabla_coma">19.202.531,42</td>
+<td class="cuerpo_tabla_coma">19.202.531,42</td>
+<td class="cuerpo_tabla_coma">95.786.998,94</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 11.</td>
+<td class="cuerpo_tabla_coma">52.427.436,41</td>
+<td class="cuerpo_tabla_coma">52.533.974,59</td>
+<td class="cuerpo_tabla_coma">52.635.185,85</td>
+<td class="cuerpo_tabla_coma">52.736.397,12</td>
+<td class="cuerpo_tabla_coma">52.736.397,12</td>
+<td class="cuerpo_tabla_coma">263.069.391,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 12.</td>
+<td class="cuerpo_tabla_coma">261.147.123,85</td>
+<td class="cuerpo_tabla_coma">261.662.025,58</td>
+<td class="cuerpo_tabla_coma">262.176.927,31</td>
+<td class="cuerpo_tabla_coma">262.673.439,69</td>
+<td class="cuerpo_tabla_coma">262.673.439,69</td>
+<td class="cuerpo_tabla_coma">1.310.332.956,12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 13.</td>
+<td class="cuerpo_tabla_coma">205.876.849,08</td>
+<td class="cuerpo_tabla_coma">206.280.637,85</td>
+<td class="cuerpo_tabla_coma">206.684.426,61</td>
+<td class="cuerpo_tabla_coma">207.096.132,81</td>
+<td class="cuerpo_tabla_coma">207.096.132,81</td>
+<td class="cuerpo_tabla_coma">1.033.034.179,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 14.</td>
+<td class="cuerpo_tabla_coma">169.880.013,30</td>
+<td class="cuerpo_tabla_coma">170.213.056,95</td>
+<td class="cuerpo_tabla_coma">170.550.726,20</td>
+<td class="cuerpo_tabla_coma">170.883.769,85</td>
+<td class="cuerpo_tabla_coma">170.883.769,85</td>
+<td class="cuerpo_tabla_coma">852.411.336,15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 15.</td>
+<td class="cuerpo_tabla_coma">95.123.225,08</td>
+<td class="cuerpo_tabla_coma">95.309.741,20</td>
+<td class="cuerpo_tabla_coma">95.496.257,33</td>
+<td class="cuerpo_tabla_coma">95.682.773,46</td>
+<td class="cuerpo_tabla_coma">95.682.773,46</td>
+<td class="cuerpo_tabla_coma">477.294.770,53</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 16.</td>
+<td class="cuerpo_tabla_coma">160.788.928,73</td>
+<td class="cuerpo_tabla_coma">161.104.112,85</td>
+<td class="cuerpo_tabla_coma">161.419.296,97</td>
+<td class="cuerpo_tabla_coma">161.734.481,09</td>
+<td class="cuerpo_tabla_coma">161.734.481,09</td>
+<td class="cuerpo_tabla_coma">806.781.300,73</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 17.</td>
+<td class="cuerpo_tabla_coma">74.998.369,67</td>
+<td class="cuerpo_tabla_coma">75.144.096,61</td>
+<td class="cuerpo_tabla_coma">75.289.823,55</td>
+<td class="cuerpo_tabla_coma">75.435.550,49</td>
+<td class="cuerpo_tabla_coma">75.435.550,49</td>
+<td class="cuerpo_tabla_coma">376.303.390,81</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 18.</td>
+<td class="cuerpo_tabla_coma">42.178.170,65</td>
+<td class="cuerpo_tabla_coma">42.261.119,92</td>
+<td class="cuerpo_tabla_coma">42.347.141,39</td>
+<td class="cuerpo_tabla_coma">42.430.090,67</td>
+<td class="cuerpo_tabla_coma">42.430.090,67</td>
+<td class="cuerpo_tabla_coma">211.646.613,30</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 19.</td>
+<td class="cuerpo_tabla_coma">5.037.967,94</td>
+<td class="cuerpo_tabla_coma">5.047.912,31</td>
+<td class="cuerpo_tabla_coma">5.057.856,67</td>
+<td class="cuerpo_tabla_coma">5.067.801,04</td>
+<td class="cuerpo_tabla_coma">5.067.801,04</td>
+<td class="cuerpo_tabla_coma">25.279.339,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Region 20.</td>
+<td class="cuerpo_tabla_coma">21.935.232,20</td>
+<td class="cuerpo_tabla_coma">21.978.510,80</td>
+<td class="cuerpo_tabla_coma">22.021.789,40</td>
+<td class="cuerpo_tabla_coma">22.065.068,00</td>
+<td class="cuerpo_tabla_coma">22.065.068,00</td>
+<td class="cuerpo_tabla_coma">110.065.668,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe total.</td>
+<td class="cuerpo_tabla_coma">2.452.646.248,71</td>
+<td class="cuerpo_tabla_coma">2.457.390.999,04</td>
+<td class="cuerpo_tabla_coma">2.462.045.749,15</td>
+<td class="cuerpo_tabla_coma">2.466.880.500,15</td>
+<td class="cuerpo_tabla_coma">2.466.880.500,15</td>
+<td class="cuerpo_tabla_coma">12.305.843.997,2</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<thead>
+<tr>
+<th class="cabeza_tabla">Ejercicio financiero</th>
+<th class="cabeza_tabla">2024</th>
+<th class="cabeza_tabla">2025</th>
+<th class="cabeza_tabla">2026</th>
+<th class="cabeza_tabla">2027</th>
+<th class="cabeza_tabla">2028</th>
+<th class="cabeza_tabla" rowspan="2"> </th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Campaña</th>
+<th class="cabeza_tabla">2023</th>
+<th class="cabeza_tabla">2024</th>
+<th class="cabeza_tabla">2025</th>
+<th class="cabeza_tabla">2026</th>
+<th class="cabeza_tabla">2027</th>
+</tr>
+<tr>
+<th class="cabeza_tabla">Ayuda Complementaria a la Renta Redistributiva</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Asignación Financiera</p>
+<p class="cabeza_tabla">(€)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Asignación Financiera</p>
+<p class="cabeza_tabla">(€)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Asignación Financiera</p>
+<p class="cabeza_tabla">(€)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Asignación Financiera</p>
+<p class="cabeza_tabla">(€)</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Asignación Financiera</p>
+<p class="cabeza_tabla">(€)</p>
+</th>
+<th class="cabeza_tabla">Asignación Financiera Total 2023-2027 (€)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Región 1.</td>
+<td class="cuerpo_tabla_coma">70.715.073,06</td>
+<td class="cuerpo_tabla_coma">70.807.808,86</td>
+<td class="cuerpo_tabla_coma">70.910.741,53</td>
+<td class="cuerpo_tabla_coma">70.992.679,13</td>
+<td class="cuerpo_tabla_coma">70.992.679,13</td>
+<td class="cuerpo_tabla_coma">354.418.981,70</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 2.</td>
+<td class="cuerpo_tabla_coma">36.692.310,13</td>
+<td class="cuerpo_tabla_coma">36.737.625,30</td>
+<td class="cuerpo_tabla_coma">36.782.940,54</td>
+<td class="cuerpo_tabla_coma">36.833.699,54</td>
+<td class="cuerpo_tabla_coma">36.833.699,54</td>
+<td class="cuerpo_tabla_coma">183.880.275,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 3.</td>
+<td class="cuerpo_tabla_coma">42.971.871,06</td>
+<td class="cuerpo_tabla_coma">43.026.425,07</td>
+<td class="cuerpo_tabla_coma">43.076.310,31</td>
+<td class="cuerpo_tabla_coma">43.133.518,56</td>
+<td class="cuerpo_tabla_coma">43.133.518,56</td>
+<td class="cuerpo_tabla_coma">215.341.643,56</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 4.</td>
+<td class="cuerpo_tabla_coma">17.020.717,76</td>
+<td class="cuerpo_tabla_coma">17.042.910,62</td>
+<td class="cuerpo_tabla_coma">17.063.971,15</td>
+<td class="cuerpo_tabla_coma">17.084.282,01</td>
+<td class="cuerpo_tabla_coma">17.084.282,01</td>
+<td class="cuerpo_tabla_coma">85.296.163,55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 5.</td>
+<td class="cuerpo_tabla_coma">314.881,22</td>
+<td class="cuerpo_tabla_coma">314.731,70</td>
+<td class="cuerpo_tabla_coma">315.343,82</td>
+<td class="cuerpo_tabla_coma">315.955,94</td>
+<td class="cuerpo_tabla_coma">315.955,94</td>
+<td class="cuerpo_tabla_coma">1.576.868,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 6.</td>
+<td class="cuerpo_tabla_coma">11.177.962,85</td>
+<td class="cuerpo_tabla_coma">11.172.791,42</td>
+<td class="cuerpo_tabla_coma">11.195.536,37</td>
+<td class="cuerpo_tabla_coma">11.218.711,84</td>
+<td class="cuerpo_tabla_coma">11.218.711,84</td>
+<td class="cuerpo_tabla_coma">55.983.714,32</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 7.</td>
+<td class="cuerpo_tabla_coma">20.034.421,02</td>
+<td class="cuerpo_tabla_coma">20.025.492,12</td>
+<td class="cuerpo_tabla_coma">20.064.915,39</td>
+<td class="cuerpo_tabla_coma">20.103.823,95</td>
+<td class="cuerpo_tabla_coma">20.103.823,95</td>
+<td class="cuerpo_tabla_coma">100.332.476,43</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 8.</td>
+<td class="cuerpo_tabla_coma">29.218.759,73</td>
+<td class="cuerpo_tabla_coma">29.198.455,00</td>
+<td class="cuerpo_tabla_coma">29.256.342,50</td>
+<td class="cuerpo_tabla_coma">29.314.230,00</td>
+<td class="cuerpo_tabla_coma">29.314.230,00</td>
+<td class="cuerpo_tabla_coma">146.302.017,23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 9.</td>
+<td class="cuerpo_tabla_coma">33.519.329,87</td>
+<td class="cuerpo_tabla_coma">33.504.388,80</td>
+<td class="cuerpo_tabla_coma">33.570.083,68</td>
+<td class="cuerpo_tabla_coma">33.635.778,56</td>
+<td class="cuerpo_tabla_coma">33.635.778,56</td>
+<td class="cuerpo_tabla_coma">167.865.359,47</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 10.</td>
+<td class="cuerpo_tabla_coma">2.540.045,76</td>
+<td class="cuerpo_tabla_coma">2.540.045,76</td>
+<td class="cuerpo_tabla_coma">2.540.045,76</td>
+<td class="cuerpo_tabla_coma">2.540.045,76</td>
+<td class="cuerpo_tabla_coma">2.540.045,76</td>
+<td class="cuerpo_tabla_coma">12.700.228,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 11.</td>
+<td class="cuerpo_tabla_coma">10.501.711,77</td>
+<td class="cuerpo_tabla_coma">10.495.573,33</td>
+<td class="cuerpo_tabla_coma">10.514.572,64</td>
+<td class="cuerpo_tabla_coma">10.535.857,20</td>
+<td class="cuerpo_tabla_coma">10.535.857,20</td>
+<td class="cuerpo_tabla_coma">52.583.572,14</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 12.</td>
+<td class="cuerpo_tabla_coma">52.310.721,38</td>
+<td class="cuerpo_tabla_coma">52.277.434,04</td>
+<td class="cuerpo_tabla_coma">52.377.249,95</td>
+<td class="cuerpo_tabla_coma">52.479.490,18</td>
+<td class="cuerpo_tabla_coma">52.479.490,18</td>
+<td class="cuerpo_tabla_coma">261.924.385,73</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 13.</td>
+<td class="cuerpo_tabla_coma">41.266.537,66</td>
+<td class="cuerpo_tabla_coma">41.248.191,60</td>
+<td class="cuerpo_tabla_coma">41.327.347,60</td>
+<td class="cuerpo_tabla_coma">41.409.865,74</td>
+<td class="cuerpo_tabla_coma">41.409.865,74</td>
+<td class="cuerpo_tabla_coma">206.661.808,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 14.</td>
+<td class="cuerpo_tabla_coma">34.055.758,33</td>
+<td class="cuerpo_tabla_coma">34.041.514,41</td>
+<td class="cuerpo_tabla_coma">34.108.215,78</td>
+<td class="cuerpo_tabla_coma">34.175.653,04</td>
+<td class="cuerpo_tabla_coma">34.175.653,04</td>
+<td class="cuerpo_tabla_coma">170.556.794,60</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 15.</td>
+<td class="cuerpo_tabla_coma">19.056.890,98</td>
+<td class="cuerpo_tabla_coma">19.036.345,00</td>
+<td class="cuerpo_tabla_coma">19.077.019,81</td>
+<td class="cuerpo_tabla_coma">19.114.223,94</td>
+<td class="cuerpo_tabla_coma">19.114.223,94</td>
+<td class="cuerpo_tabla_coma">95.398.703,67</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 16.</td>
+<td class="cuerpo_tabla_coma">32.214.132,98</td>
+<td class="cuerpo_tabla_coma">32.321.312,81</td>
+<td class="cuerpo_tabla_coma">32.283.053,94</td>
+<td class="cuerpo_tabla_coma">32.251.238,12</td>
+<td class="cuerpo_tabla_coma">32.251.238,12</td>
+<td class="cuerpo_tabla_coma">161.320.976,18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 17.</td>
+<td class="cuerpo_tabla_coma">15.024.804,08</td>
+<td class="cuerpo_tabla_coma">15.012.171,70</td>
+<td class="cuerpo_tabla_coma">15.041.284,93</td>
+<td class="cuerpo_tabla_coma">15.070.398,18</td>
+<td class="cuerpo_tabla_coma">15.070.398,18</td>
+<td class="cuerpo_tabla_coma">75.219.057,08</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 18.</td>
+<td class="cuerpo_tabla_coma">8.451.984,36</td>
+<td class="cuerpo_tabla_coma">8.445.845,10</td>
+<td class="cuerpo_tabla_coma">8.464.265,70</td>
+<td class="cuerpo_tabla_coma">8.479.616,20</td>
+<td class="cuerpo_tabla_coma">8.479.616,20</td>
+<td class="cuerpo_tabla_coma">42.321.327,56</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 19.</td>
+<td class="cuerpo_tabla_coma">1.009.649,96</td>
+<td class="cuerpo_tabla_coma">1.009.039,82</td>
+<td class="cuerpo_tabla_coma">1.010.989,95</td>
+<td class="cuerpo_tabla_coma">1.013.028,75</td>
+<td class="cuerpo_tabla_coma">1.013.028,75</td>
+<td class="cuerpo_tabla_coma">5.055.737,23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Región 20.</td>
+<td class="cuerpo_tabla_coma">3.421.347,82</td>
+<td class="cuerpo_tabla_coma">3.990.770,52</td>
+<td class="cuerpo_tabla_coma">3.998.603,24</td>
+<td class="cuerpo_tabla_coma">4.006.699,62</td>
+<td class="cuerpo_tabla_coma">4.006.699,62</td>
+<td class="cuerpo_tabla_coma">19.424.120,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe total.</td>
+<td class="cuerpo_tabla_coma">481.518.911,78</td>
+<td class="cuerpo_tabla_coma">482.248.872,98</td>
+<td class="cuerpo_tabla_coma">482.978.834,59</td>
+<td class="cuerpo_tabla_coma">483.708.796,26</td>
+<td class="cuerpo_tabla_coma">483.708.796,26</td>
+<td class="cuerpo_tabla_coma">2.414.164.212,08</td>
+</tr>
+</tbody>
+</table>
+
+| Pago complementario a jovenes agricultores | Asignación Financiera (€) | Asignación Financiera (€) | Asignación Financiera (€) | Asignación Financiera (€) | Asignación Financiera (€) | Asignación Financiera Total 2023-2027 (€) |
+|---|---|---|---|---|---|---|
+| Region 1. | 12.243.134,12 | 12.262.650,14 | 12.282.436,46 | 12.301.102,49 | 12.301.102,49 | 61.390.425,70 |
+| Region 2. | 6.062.519,10 | 6.072.097,63 | 6.081.118,71 | 6.090.132,90 | 6.090.132,90 | 30.396.001,23 |
+| Region 3. | 7.929.764,75 | 7.941.462,80 | 7.953.414,62 | 7.965.692,68 | 7.965.692,68 | 39.756.027,54 |
+| Region 4. | 2.797.567,29 | 2.801.737,40 | 2.806.212,12 | 2.810.271,84 | 2.810.271,84 | 14.026.060,49 |
+| Region 5. | 177.077,06 | 177.427,81 | 177.469,46 | 177.931,17 | 177.931,17 | 887.836,67 |
+| Region 6. | 1.854.885,58 | 1.857.722,25 | 1.860.555,72 | 1.863.379,19 | 1.863.379,19 | 9.299.921,93 |
+| Region 7. | 4.601.653,22 | 4.608.758,45 | 4.615.570,76 | 4.622.571,60 | 4.622.571,60 | 23.071.125,63 |
+| Region 8. | 7.242.195,00 | 7.252.968,26 | 7.263.962,91 | 7.275.078,61 | 7.275.078,61 | 36.309.283,39 |
+| Region 9. | 5.691.352,96 | 5.700.025,20 | 5.708.352,54 | 5.717.249,27 | 5.717.249,27 | 28.534.229,24 |
+| Region 10. | 1.821.017,29 | 1.823.194,77 | 1.825.546,20 | 1.828.846,70 | 1.828.846,70 | 9.127.451,66 |
+| Region 11. | 3.535.452,96 | 3.541.015,13 | 3.546.221,72 | 3.551.438,93 | 3.551.438,93 | 17.725.567,67 |
+| Region 12. | 12.013.948,61 | 12.032.165,84 | 12.050.361,71 | 12.067.957,59 | 12.067.957,59 | 60.232.391,34 |
+| Region 13. | 4.002.924,80 | 4.008.886,34 | 4.014.579,37 | 4.020.942,64 | 4.020.942,64 | 20.068.275,79 |
+| Region 14. | 3.720.896,70 | 3.726.300,30 | 3.732.143,31 | 3.737.546,54 | 3.737.546,54 | 18.654.433,39 |
+| Region 15. | 2.985.727,48 | 2.990.284,76 | 2.994.836,74 | 2.999.378,06 | 2.999.378,06 | 14.969.605,10 |
+| Region 16. | 8.640.227,66 | 8.653.477,88 | 8.666.465,12 | 8.679.423,90 | 8.679.423,90 | 43.319.018,46 |
+| Region 17. | 6.275.794,77 | 6.285.130,64 | 6.294.539,80 | 6.303.873,24 | 6.303.873,24 | 31.463.211,69 |
+| Region 18. | 3.209.777,80 | 3.214.671,28 | 3.219.607,51 | 3.224.494,36 | 3.224.494,36 | 16.093.045,31 |
+| Region 19. | 548.681,70 | 549.340,11 | 550.224,96 | 551.015,78 | 551.015,78 | 2.750.278,33 |
+| Region 20. | 949.183,65 | 950.458,42 | 952.146,73 | 953.430,38 | 953.430,38 | 4.758.649,56 |
+| Importe total. | 96.303.782,51 | 96.449.775,40 | 96.595.766,47 | 96.741.757,87 | 96.741.757,87 | 482.832.840,12 |
+| Importe específico para mujeres jóvenes. | 21.171.100,08 | 21.202.016,29 | 21.234.170,25 | 21.266.272,86 | 21.266.272,86 | 106.139.832,35 |
+
+> Se modifica la segunda tabla por el art. 3.38 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+## ANEXO VIII — Parámetros de cálculo de la ayuda redistributiva a la renta
+
+<table class="tabla">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Región</th>
+<th class="cabeza_tabla">Tramos de hectáreas</th>
+<th class="cabeza_tabla">Importes (€/Ha)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">1</td>
+<td class="cuerpo_tabla_izq">0 ha a 11,92 ha.</td>
+<td class="cuerpo_tabla_coma">16,38</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">11,93 ha a 76,61 ha.</td>
+<td class="cuerpo_tabla_coma">32,77</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">2</td>
+<td class="cuerpo_tabla_izq">0 ha a 10,83 ha.</td>
+<td class="cuerpo_tabla_coma">19,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">10,84 ha a 71,66 ha.</td>
+<td class="cuerpo_tabla_coma">39,28</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">3</td>
+<td class="cuerpo_tabla_izq">0 ha a 7,78 ha.</td>
+<td class="cuerpo_tabla_coma">26,12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">7,79 ha a 53,65 ha.</td>
+<td class="cuerpo_tabla_coma">52,23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">4</td>
+<td class="cuerpo_tabla_izq">0 ha a 5,85 ha.</td>
+<td class="cuerpo_tabla_coma">40,03</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">5,86 ha a 42,66 ha.</td>
+<td class="cuerpo_tabla_coma">80,06</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">5</td>
+<td class="cuerpo_tabla_izq">0 ha a 1,21 ha.</td>
+<td class="cuerpo_tabla_coma">61,94</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">1,22 ha a 10,32 ha.</td>
+<td class="cuerpo_tabla_coma">123,94</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">6</td>
+<td class="cuerpo_tabla_izq">0 ha a 5,27 ha.</td>
+<td class="cuerpo_tabla_coma">31,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">5,28 ha a 55,07 ha.</td>
+<td class="cuerpo_tabla_coma">63,54</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">7</td>
+<td class="cuerpo_tabla_izq">0 ha a 4,91 ha.</td>
+<td class="cuerpo_tabla_coma">41,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4,92 ha a 45,79 ha.</td>
+<td class="cuerpo_tabla_coma">82,71</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">8</td>
+<td class="cuerpo_tabla_izq">0 ha a 3,78 ha.</td>
+<td class="cuerpo_tabla_coma">50,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3,79 ha a 30,25 ha.</td>
+<td class="cuerpo_tabla_coma">101,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">9</td>
+<td class="cuerpo_tabla_izq">0 ha a 3,53 ha.</td>
+<td class="cuerpo_tabla_coma">81,92</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">3,54 ha a 33,59 ha.</td>
+<td class="cuerpo_tabla_coma">163,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">10</td>
+<td class="cuerpo_tabla_izq">0 ha a 2 ha.</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2,01 ha a 20 ha.</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">11</td>
+<td class="cuerpo_tabla_izq">0 ha a 2,61 ha.</td>
+<td class="cuerpo_tabla_coma">19,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">2,62 ha a 17,68 ha.</td>
+<td class="cuerpo_tabla_coma">39,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">12</td>
+<td class="cuerpo_tabla_izq">0 ha a 1,67ha.</td>
+<td class="cuerpo_tabla_coma">28,57</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">1,68 ha a 14,53 ha.</td>
+<td class="cuerpo_tabla_coma">57,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">13</td>
+<td class="cuerpo_tabla_izq">0 ha a 1,52 ha.</td>
+<td class="cuerpo_tabla_coma">52,31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">1,53 ha a 13,93 ha.</td>
+<td class="cuerpo_tabla_coma">104,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">14</td>
+<td class="cuerpo_tabla_izq">0 ha a 1,07 ha.</td>
+<td class="cuerpo_tabla_coma">73,89</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">1,08 ha a 8,43 ha.</td>
+<td class="cuerpo_tabla_coma">147,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">15</td>
+<td class="cuerpo_tabla_izq">0 ha a 34,29 ha.</td>
+<td class="cuerpo_tabla_coma">11,29</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">34,30 ha a 149,88 ha.</td>
+<td class="cuerpo_tabla_coma">22,59</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">16</td>
+<td class="cuerpo_tabla_izq">0 ha a 21,96 ha.</td>
+<td class="cuerpo_tabla_coma">14,37</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">21,97ha a 94,62 ha.</td>
+<td class="cuerpo_tabla_coma">28,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">17</td>
+<td class="cuerpo_tabla_izq">0 ha a 10,26 ha.</td>
+<td class="cuerpo_tabla_coma">20,71</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">10,27 ha a 51,72 ha.</td>
+<td class="cuerpo_tabla_coma">41,44</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">18</td>
+<td class="cuerpo_tabla_izq">0 ha a 4,15 ha.</td>
+<td class="cuerpo_tabla_coma">27,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">4,16 ha a 13,12 ha.</td>
+<td class="cuerpo_tabla_coma">55,28</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">19</td>
+<td class="cuerpo_tabla_izq">0 ha a 6,64 ha.</td>
+<td class="cuerpo_tabla_coma">39,75</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">6,65 ha a 17,62 ha.</td>
+<td class="cuerpo_tabla_coma">79,55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">20</td>
+<td class="cuerpo_tabla_izq">0 ha a 5,53 ha.</td>
+<td class="cuerpo_tabla_coma">37,73</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">5,54 ha a 23,05 ha.</td>
+<td class="cuerpo_tabla_coma">75,56</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica la fila 20 de la tabla por el art. 3.35 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+## ANEXO IX — Importes unitarios de las Intervenciones en forma de pagos directos
+
+Ayuda Básica a la Renta para la Sostenibilidad
+
+<table class="tabla">
+<colgroup>
+<col width="15%">
+<col width="30%">
+<col width="11%">
+<col width="11%">
+<col width="11%">
+<col width="11%">
+<col width="11%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Campaña</th>
+<th class="cabeza_tabla">2023</th>
+<th class="cabeza_tabla">2024</th>
+<th class="cabeza_tabla">2025</th>
+<th class="cabeza_tabla">2026</th>
+<th class="cabeza_tabla">2027</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">81,47</td>
+<td class="cuerpo_tabla_coma">81,62</td>
+<td class="cuerpo_tabla_coma">81,77</td>
+<td class="cuerpo_tabla_coma">81,92</td>
+<td class="cuerpo_tabla_coma">81,92</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">77,4</td>
+<td class="cuerpo_tabla_coma">77,54</td>
+<td class="cuerpo_tabla_coma">77,68</td>
+<td class="cuerpo_tabla_coma">77,82</td>
+<td class="cuerpo_tabla_coma">77,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">93,69</td>
+<td class="cuerpo_tabla_coma">93,86</td>
+<td class="cuerpo_tabla_coma">89,95</td>
+<td class="cuerpo_tabla_coma">90,11</td>
+<td class="cuerpo_tabla_coma">90,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">97,64</td>
+<td class="cuerpo_tabla_coma">97,83</td>
+<td class="cuerpo_tabla_coma">98,01</td>
+<td class="cuerpo_tabla_coma">98,19</td>
+<td class="cuerpo_tabla_coma">98,19</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">92,76</td>
+<td class="cuerpo_tabla_coma">92,94</td>
+<td class="cuerpo_tabla_coma">93,11</td>
+<td class="cuerpo_tabla_coma">93,28</td>
+<td class="cuerpo_tabla_coma">93,28</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">112,29</td>
+<td class="cuerpo_tabla_coma">112,5</td>
+<td class="cuerpo_tabla_coma">107,81</td>
+<td class="cuerpo_tabla_coma">108,01</td>
+<td class="cuerpo_tabla_coma">108,01</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 3.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">129,85</td>
+<td class="cuerpo_tabla_coma">130,09</td>
+<td class="cuerpo_tabla_coma">130,33</td>
+<td class="cuerpo_tabla_coma">130,58</td>
+<td class="cuerpo_tabla_coma">130,58</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">123,36</td>
+<td class="cuerpo_tabla_coma">123,59</td>
+<td class="cuerpo_tabla_coma">123,81</td>
+<td class="cuerpo_tabla_coma">124,05</td>
+<td class="cuerpo_tabla_coma">124,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">149,33</td>
+<td class="cuerpo_tabla_coma">149,6</td>
+<td class="cuerpo_tabla_coma">143,36</td>
+<td class="cuerpo_tabla_coma">143,64</td>
+<td class="cuerpo_tabla_coma">143,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 4.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">199,03</td>
+<td class="cuerpo_tabla_coma">199,4</td>
+<td class="cuerpo_tabla_coma">199,58</td>
+<td class="cuerpo_tabla_coma">200,15</td>
+<td class="cuerpo_tabla_coma">200,15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">189,08</td>
+<td class="cuerpo_tabla_coma">189,43</td>
+<td class="cuerpo_tabla_coma">189,6</td>
+<td class="cuerpo_tabla_coma">190,14</td>
+<td class="cuerpo_tabla_coma">190,14</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">228,88</td>
+<td class="cuerpo_tabla_coma">229,31</td>
+<td class="cuerpo_tabla_coma">219,54</td>
+<td class="cuerpo_tabla_coma">220,17</td>
+<td class="cuerpo_tabla_coma">220,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 5.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">307,88</td>
+<td class="cuerpo_tabla_coma">308,49</td>
+<td class="cuerpo_tabla_coma">309,1</td>
+<td class="cuerpo_tabla_coma">309,7</td>
+<td class="cuerpo_tabla_coma">309,7</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">292,49</td>
+<td class="cuerpo_tabla_coma">293,06</td>
+<td class="cuerpo_tabla_coma">293,64</td>
+<td class="cuerpo_tabla_coma">294,22</td>
+<td class="cuerpo_tabla_coma">294,22</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">354,06</td>
+<td class="cuerpo_tabla_coma">354,76</td>
+<td class="cuerpo_tabla_coma">355,46</td>
+<td class="cuerpo_tabla_coma">356,16</td>
+<td class="cuerpo_tabla_coma">356,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 6.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">157,85</td>
+<td class="cuerpo_tabla_coma">158,16</td>
+<td class="cuerpo_tabla_coma">158,47</td>
+<td class="cuerpo_tabla_coma">158,79</td>
+<td class="cuerpo_tabla_coma">158,79</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">149,96</td>
+<td class="cuerpo_tabla_coma">150,25</td>
+<td class="cuerpo_tabla_coma">150,55</td>
+<td class="cuerpo_tabla_coma">150,85</td>
+<td class="cuerpo_tabla_coma">150,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">181,53</td>
+<td class="cuerpo_tabla_coma">181,89</td>
+<td class="cuerpo_tabla_coma">182,25</td>
+<td class="cuerpo_tabla_coma">182,6</td>
+<td class="cuerpo_tabla_coma">182,6</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 7.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">205,47</td>
+<td class="cuerpo_tabla_coma">205,87</td>
+<td class="cuerpo_tabla_coma">206,28</td>
+<td class="cuerpo_tabla_coma">206,68</td>
+<td class="cuerpo_tabla_coma">206,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">195,2</td>
+<td class="cuerpo_tabla_coma">195,58</td>
+<td class="cuerpo_tabla_coma">195,97</td>
+<td class="cuerpo_tabla_coma">196,35</td>
+<td class="cuerpo_tabla_coma">196,35</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">236,29</td>
+<td class="cuerpo_tabla_coma">236,76</td>
+<td class="cuerpo_tabla_coma">237,22</td>
+<td class="cuerpo_tabla_coma">237,69</td>
+<td class="cuerpo_tabla_coma">237,69</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 8.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">251,72</td>
+<td class="cuerpo_tabla_coma">252,21</td>
+<td class="cuerpo_tabla_coma">252,71</td>
+<td class="cuerpo_tabla_coma">253,21</td>
+<td class="cuerpo_tabla_coma">253,21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">239,13</td>
+<td class="cuerpo_tabla_coma">239,6</td>
+<td class="cuerpo_tabla_coma">240,07</td>
+<td class="cuerpo_tabla_coma">240,55</td>
+<td class="cuerpo_tabla_coma">240,55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">289,48</td>
+<td class="cuerpo_tabla_coma">290,05</td>
+<td class="cuerpo_tabla_coma">290,62</td>
+<td class="cuerpo_tabla_coma">291,19</td>
+<td class="cuerpo_tabla_coma">291,19</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 9.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">407,2</td>
+<td class="cuerpo_tabla_coma">408</td>
+<td class="cuerpo_tabla_coma">408,81</td>
+<td class="cuerpo_tabla_coma">409,61</td>
+<td class="cuerpo_tabla_coma">409,61</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">386,84</td>
+<td class="cuerpo_tabla_coma">387,6</td>
+<td class="cuerpo_tabla_coma">388,37</td>
+<td class="cuerpo_tabla_coma">389,13</td>
+<td class="cuerpo_tabla_coma">389,13</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">468,28</td>
+<td class="cuerpo_tabla_coma">469,2</td>
+<td class="cuerpo_tabla_coma">470,13</td>
+<td class="cuerpo_tabla_coma">471,05</td>
+<td class="cuerpo_tabla_coma">471,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 10.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">1.229,17</td>
+<td class="cuerpo_tabla_coma">1.231,60</td>
+<td class="cuerpo_tabla_coma">1.234,02</td>
+<td class="cuerpo_tabla_coma">1.236,44</td>
+<td class="cuerpo_tabla_coma">1.236,44</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">1.167,71</td>
+<td class="cuerpo_tabla_coma">1.170,02</td>
+<td class="cuerpo_tabla_coma">1.172,32</td>
+<td class="cuerpo_tabla_coma">1.174,62</td>
+<td class="cuerpo_tabla_coma">1.174,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">1.413,55</td>
+<td class="cuerpo_tabla_coma">1.416,33</td>
+<td class="cuerpo_tabla_coma">1.419,12</td>
+<td class="cuerpo_tabla_coma">1.421,91</td>
+<td class="cuerpo_tabla_coma">1.421,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 11.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">98,42</td>
+<td class="cuerpo_tabla_coma">98,62</td>
+<td class="cuerpo_tabla_coma">98,81</td>
+<td class="cuerpo_tabla_coma">99</td>
+<td class="cuerpo_tabla_coma">99</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">93,5</td>
+<td class="cuerpo_tabla_coma">93,68</td>
+<td class="cuerpo_tabla_coma">93,87</td>
+<td class="cuerpo_tabla_coma">94,05</td>
+<td class="cuerpo_tabla_coma">94,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">113,18</td>
+<td class="cuerpo_tabla_coma">113,41</td>
+<td class="cuerpo_tabla_coma">113,63</td>
+<td class="cuerpo_tabla_coma">113,85</td>
+<td class="cuerpo_tabla_coma">113,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 12.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">142,01</td>
+<td class="cuerpo_tabla_coma">142,29</td>
+<td class="cuerpo_tabla_coma">142,57</td>
+<td class="cuerpo_tabla_coma">142,84</td>
+<td class="cuerpo_tabla_coma">142,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">134,91</td>
+<td class="cuerpo_tabla_coma">135,17</td>
+<td class="cuerpo_tabla_coma">135,44</td>
+<td class="cuerpo_tabla_coma">135,7</td>
+<td class="cuerpo_tabla_coma">135,7</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">163,31</td>
+<td class="cuerpo_tabla_coma">163,63</td>
+<td class="cuerpo_tabla_coma">163,95</td>
+<td class="cuerpo_tabla_coma">164,27</td>
+<td class="cuerpo_tabla_coma">164,27</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 13.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">260,03</td>
+<td class="cuerpo_tabla_coma">260,54</td>
+<td class="cuerpo_tabla_coma">261,05</td>
+<td class="cuerpo_tabla_coma">261,57</td>
+<td class="cuerpo_tabla_coma">261,57</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">247,03</td>
+<td class="cuerpo_tabla_coma">247,51</td>
+<td class="cuerpo_tabla_coma">248</td>
+<td class="cuerpo_tabla_coma">248,49</td>
+<td class="cuerpo_tabla_coma">248,49</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">299,03</td>
+<td class="cuerpo_tabla_coma">299,62</td>
+<td class="cuerpo_tabla_coma">300,21</td>
+<td class="cuerpo_tabla_coma">300,8</td>
+<td class="cuerpo_tabla_coma">300,8</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 14.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">367,26</td>
+<td class="cuerpo_tabla_coma">367,98</td>
+<td class="cuerpo_tabla_coma">368,71</td>
+<td class="cuerpo_tabla_coma">369,43</td>
+<td class="cuerpo_tabla_coma">369,43</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">348,9</td>
+<td class="cuerpo_tabla_coma">349,58</td>
+<td class="cuerpo_tabla_coma">350,27</td>
+<td class="cuerpo_tabla_coma">350,96</td>
+<td class="cuerpo_tabla_coma">350,96</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">422,35</td>
+<td class="cuerpo_tabla_coma">423,18</td>
+<td class="cuerpo_tabla_coma">424,01</td>
+<td class="cuerpo_tabla_coma">424,85</td>
+<td class="cuerpo_tabla_coma">424,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 15.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">56,1</td>
+<td class="cuerpo_tabla_coma">56,21</td>
+<td class="cuerpo_tabla_coma">56,32</td>
+<td class="cuerpo_tabla_coma">56,43</td>
+<td class="cuerpo_tabla_coma">56,43</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">53,29</td>
+<td class="cuerpo_tabla_coma">53,4</td>
+<td class="cuerpo_tabla_coma">53,5</td>
+<td class="cuerpo_tabla_coma">53,61</td>
+<td class="cuerpo_tabla_coma">53,61</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">64,51</td>
+<td class="cuerpo_tabla_coma">64,64</td>
+<td class="cuerpo_tabla_coma">64,77</td>
+<td class="cuerpo_tabla_coma">64,9</td>
+<td class="cuerpo_tabla_coma">64,9</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 16.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">71,42</td>
+<td class="cuerpo_tabla_coma">71,56</td>
+<td class="cuerpo_tabla_coma">71,7</td>
+<td class="cuerpo_tabla_coma">71,84</td>
+<td class="cuerpo_tabla_coma">71,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">67,85</td>
+<td class="cuerpo_tabla_coma">67,98</td>
+<td class="cuerpo_tabla_coma">68,12</td>
+<td class="cuerpo_tabla_coma">68,25</td>
+<td class="cuerpo_tabla_coma">68,25</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">82,13</td>
+<td class="cuerpo_tabla_coma">82,3</td>
+<td class="cuerpo_tabla_coma">82,46</td>
+<td class="cuerpo_tabla_coma">82,62</td>
+<td class="cuerpo_tabla_coma">82,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 17.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">102,93</td>
+<td class="cuerpo_tabla_coma">103,13</td>
+<td class="cuerpo_tabla_coma">103,33</td>
+<td class="cuerpo_tabla_coma">103,53</td>
+<td class="cuerpo_tabla_coma">103,53</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">97,78</td>
+<td class="cuerpo_tabla_coma">97,97</td>
+<td class="cuerpo_tabla_coma">98,16</td>
+<td class="cuerpo_tabla_coma">98,36</td>
+<td class="cuerpo_tabla_coma">98,36</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">118,36</td>
+<td class="cuerpo_tabla_coma">118,6</td>
+<td class="cuerpo_tabla_coma">118,83</td>
+<td class="cuerpo_tabla_coma">119,06</td>
+<td class="cuerpo_tabla_coma">119,06</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 18.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">137,29</td>
+<td class="cuerpo_tabla_coma">137,56</td>
+<td class="cuerpo_tabla_coma">137,84</td>
+<td class="cuerpo_tabla_coma">138,11</td>
+<td class="cuerpo_tabla_coma">138,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">130,43</td>
+<td class="cuerpo_tabla_coma">130,69</td>
+<td class="cuerpo_tabla_coma">130,94</td>
+<td class="cuerpo_tabla_coma">131,2</td>
+<td class="cuerpo_tabla_coma">131,2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">157,89</td>
+<td class="cuerpo_tabla_coma">158,2</td>
+<td class="cuerpo_tabla_coma">158,51</td>
+<td class="cuerpo_tabla_coma">158,82</td>
+<td class="cuerpo_tabla_coma">158,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 19.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">197,58</td>
+<td class="cuerpo_tabla_coma">197,97</td>
+<td class="cuerpo_tabla_coma">198,36</td>
+<td class="cuerpo_tabla_coma">198,75</td>
+<td class="cuerpo_tabla_coma">198,75</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">187,7</td>
+<td class="cuerpo_tabla_coma">188,07</td>
+<td class="cuerpo_tabla_coma">188,44</td>
+<td class="cuerpo_tabla_coma">188,81</td>
+<td class="cuerpo_tabla_coma">188,81</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">227,22</td>
+<td class="cuerpo_tabla_coma">227,67</td>
+<td class="cuerpo_tabla_coma">228,12</td>
+<td class="cuerpo_tabla_coma">228,56</td>
+<td class="cuerpo_tabla_coma">228,56</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 20.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">187,53</td>
+<td class="cuerpo_tabla_coma">187,9</td>
+<td class="cuerpo_tabla_coma">188,27</td>
+<td class="cuerpo_tabla_coma">188,64</td>
+<td class="cuerpo_tabla_coma">188,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">178,15</td>
+<td class="cuerpo_tabla_coma">178,5</td>
+<td class="cuerpo_tabla_coma">178,85</td>
+<td class="cuerpo_tabla_coma">179,21</td>
+<td class="cuerpo_tabla_coma">179,21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">215,66</td>
+<td class="cuerpo_tabla_coma">216,08</td>
+<td class="cuerpo_tabla_coma">216,51</td>
+<td class="cuerpo_tabla_coma">216,93</td>
+<td class="cuerpo_tabla_coma">216,93</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla" data-omitir-repetir-tfoot="true">
+<colgroup>
+<col width="15%">
+<col width="30%">
+<col width="11%">
+<col width="11%">
+<col width="11%">
+<col width="11%">
+<col width="11%">
+</colgroup>
+<caption>
+<p class="centro_cursiva">Ayuda Complementaria a la Renta Redistributiva</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Campaña</th>
+<th class="cabeza_tabla">2023</th>
+<th class="cabeza_tabla">2024</th>
+<th class="cabeza_tabla">2025</th>
+<th class="cabeza_tabla">2026</th>
+<th class="cabeza_tabla">2027</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 1 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">16,29</td>
+<td class="cuerpo_tabla_coma">16,32</td>
+<td class="cuerpo_tabla_coma">16,35</td>
+<td class="cuerpo_tabla_coma">16,38</td>
+<td class="cuerpo_tabla_coma">16,38</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">15,48</td>
+<td class="cuerpo_tabla_coma">15,5</td>
+<td class="cuerpo_tabla_coma">15,53</td>
+<td class="cuerpo_tabla_coma">15,56</td>
+<td class="cuerpo_tabla_coma">15,56</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">17,1</td>
+<td class="cuerpo_tabla_coma">17,14</td>
+<td class="cuerpo_tabla_coma">17,17</td>
+<td class="cuerpo_tabla_coma">17,2</td>
+<td class="cuerpo_tabla_coma">17,2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 1 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">32,59</td>
+<td class="cuerpo_tabla_coma">32,65</td>
+<td class="cuerpo_tabla_coma">32,71</td>
+<td class="cuerpo_tabla_coma">32,77</td>
+<td class="cuerpo_tabla_coma">32,77</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">30,96</td>
+<td class="cuerpo_tabla_coma">31,02</td>
+<td class="cuerpo_tabla_coma">31,07</td>
+<td class="cuerpo_tabla_coma">31,13</td>
+<td class="cuerpo_tabla_coma">31,13</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">34,22</td>
+<td class="cuerpo_tabla_coma">34,28</td>
+<td class="cuerpo_tabla_coma">34,35</td>
+<td class="cuerpo_tabla_coma">34,41</td>
+<td class="cuerpo_tabla_coma">34,41</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 2 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">19,53</td>
+<td class="cuerpo_tabla_coma">19,57</td>
+<td class="cuerpo_tabla_coma">19,6</td>
+<td class="cuerpo_tabla_coma">19,64</td>
+<td class="cuerpo_tabla_coma">19,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">18,55</td>
+<td class="cuerpo_tabla_coma">18,59</td>
+<td class="cuerpo_tabla_coma">18,62</td>
+<td class="cuerpo_tabla_coma">18,66</td>
+<td class="cuerpo_tabla_coma">18,66</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">20,51</td>
+<td class="cuerpo_tabla_coma">20,55</td>
+<td class="cuerpo_tabla_coma">20,58</td>
+<td class="cuerpo_tabla_coma">20,62</td>
+<td class="cuerpo_tabla_coma">20,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 2 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">39,06</td>
+<td class="cuerpo_tabla_coma">39,13</td>
+<td class="cuerpo_tabla_coma">39,2</td>
+<td class="cuerpo_tabla_coma">39,28</td>
+<td class="cuerpo_tabla_coma">39,28</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">37,11</td>
+<td class="cuerpo_tabla_coma">37,17</td>
+<td class="cuerpo_tabla_coma">37,24</td>
+<td class="cuerpo_tabla_coma">37,32</td>
+<td class="cuerpo_tabla_coma">37,32</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">41,01</td>
+<td class="cuerpo_tabla_coma">41,09</td>
+<td class="cuerpo_tabla_coma">41,16</td>
+<td class="cuerpo_tabla_coma">41,24</td>
+<td class="cuerpo_tabla_coma">41,24</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 3 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">25,97</td>
+<td class="cuerpo_tabla_coma">26,02</td>
+<td class="cuerpo_tabla_coma">26,07</td>
+<td class="cuerpo_tabla_coma">26,12</td>
+<td class="cuerpo_tabla_coma">26,12</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">24,67</td>
+<td class="cuerpo_tabla_coma">24,72</td>
+<td class="cuerpo_tabla_coma">24,77</td>
+<td class="cuerpo_tabla_coma">24,81</td>
+<td class="cuerpo_tabla_coma">24,81</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">27,27</td>
+<td class="cuerpo_tabla_coma">27,32</td>
+<td class="cuerpo_tabla_coma">27,37</td>
+<td class="cuerpo_tabla_coma">27,43</td>
+<td class="cuerpo_tabla_coma">27,43</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 3 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">51,94</td>
+<td class="cuerpo_tabla_coma">52,04</td>
+<td class="cuerpo_tabla_coma">52,13</td>
+<td class="cuerpo_tabla_coma">52,23</td>
+<td class="cuerpo_tabla_coma">52,23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">49,34</td>
+<td class="cuerpo_tabla_coma">49,44</td>
+<td class="cuerpo_tabla_coma">49,52</td>
+<td class="cuerpo_tabla_coma">49,62</td>
+<td class="cuerpo_tabla_coma">49,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">54,54</td>
+<td class="cuerpo_tabla_coma">54,64</td>
+<td class="cuerpo_tabla_coma">54,74</td>
+<td class="cuerpo_tabla_coma">54,84</td>
+<td class="cuerpo_tabla_coma">54,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 4 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">39,81</td>
+<td class="cuerpo_tabla_coma">39,88</td>
+<td class="cuerpo_tabla_coma">39,92</td>
+<td class="cuerpo_tabla_coma">40,03</td>
+<td class="cuerpo_tabla_coma">40,03</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">37,82</td>
+<td class="cuerpo_tabla_coma">37,89</td>
+<td class="cuerpo_tabla_coma">37,92</td>
+<td class="cuerpo_tabla_coma">38,03</td>
+<td class="cuerpo_tabla_coma">38,03</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">41,8</td>
+<td class="cuerpo_tabla_coma">41,87</td>
+<td class="cuerpo_tabla_coma">41,92</td>
+<td class="cuerpo_tabla_coma">42,03</td>
+<td class="cuerpo_tabla_coma">42,03</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 4 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">79,61</td>
+<td class="cuerpo_tabla_coma">79,76</td>
+<td class="cuerpo_tabla_coma">79,83</td>
+<td class="cuerpo_tabla_coma">80,06</td>
+<td class="cuerpo_tabla_coma">80,06</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">75,63</td>
+<td class="cuerpo_tabla_coma">75,77</td>
+<td class="cuerpo_tabla_coma">75,84</td>
+<td class="cuerpo_tabla_coma">76,06</td>
+<td class="cuerpo_tabla_coma">76,06</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">83,59</td>
+<td class="cuerpo_tabla_coma">83,75</td>
+<td class="cuerpo_tabla_coma">83,82</td>
+<td class="cuerpo_tabla_coma">84,06</td>
+<td class="cuerpo_tabla_coma">84,06</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 5 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">61,58</td>
+<td class="cuerpo_tabla_coma">61,7</td>
+<td class="cuerpo_tabla_coma">61,82</td>
+<td class="cuerpo_tabla_coma">61,94</td>
+<td class="cuerpo_tabla_coma">61,94</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">58,5</td>
+<td class="cuerpo_tabla_coma">58,61</td>
+<td class="cuerpo_tabla_coma">58,73</td>
+<td class="cuerpo_tabla_coma">58,84</td>
+<td class="cuerpo_tabla_coma">58,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">64,66</td>
+<td class="cuerpo_tabla_coma">64,78</td>
+<td class="cuerpo_tabla_coma">64,91</td>
+<td class="cuerpo_tabla_coma">65,04</td>
+<td class="cuerpo_tabla_coma">65,04</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 5 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">123,49</td>
+<td class="cuerpo_tabla_coma">123,4</td>
+<td class="cuerpo_tabla_coma">123,64</td>
+<td class="cuerpo_tabla_coma">123,88</td>
+<td class="cuerpo_tabla_coma">123,88</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">117,32</td>
+<td class="cuerpo_tabla_coma">117,23</td>
+<td class="cuerpo_tabla_coma">117,46</td>
+<td class="cuerpo_tabla_coma">117,69</td>
+<td class="cuerpo_tabla_coma">117,69</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">129,66</td>
+<td class="cuerpo_tabla_coma">129,57</td>
+<td class="cuerpo_tabla_coma">129,82</td>
+<td class="cuerpo_tabla_coma">130,07</td>
+<td class="cuerpo_tabla_coma">130,07</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 6 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">31,57</td>
+<td class="cuerpo_tabla_coma">31,63</td>
+<td class="cuerpo_tabla_coma">31,69</td>
+<td class="cuerpo_tabla_coma">31,76</td>
+<td class="cuerpo_tabla_coma">31,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">29,99</td>
+<td class="cuerpo_tabla_coma">30,05</td>
+<td class="cuerpo_tabla_coma">30,11</td>
+<td class="cuerpo_tabla_coma">30,17</td>
+<td class="cuerpo_tabla_coma">30,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">33,15</td>
+<td class="cuerpo_tabla_coma">33,21</td>
+<td class="cuerpo_tabla_coma">33,28</td>
+<td class="cuerpo_tabla_coma">33,34</td>
+<td class="cuerpo_tabla_coma">33,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 6 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">63,31</td>
+<td class="cuerpo_tabla_coma">63,26</td>
+<td class="cuerpo_tabla_coma">63,39</td>
+<td class="cuerpo_tabla_coma">63,52</td>
+<td class="cuerpo_tabla_coma">63,52</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">60,15</td>
+<td class="cuerpo_tabla_coma">60,10</td>
+<td class="cuerpo_tabla_coma">60,22</td>
+<td class="cuerpo_tabla_coma">60,34</td>
+<td class="cuerpo_tabla_coma">60,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">66,48</td>
+<td class="cuerpo_tabla_coma">66,42</td>
+<td class="cuerpo_tabla_coma">66,56</td>
+<td class="cuerpo_tabla_coma">66,70</td>
+<td class="cuerpo_tabla_coma">66,70</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 7 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">41,09</td>
+<td class="cuerpo_tabla_coma">41,17</td>
+<td class="cuerpo_tabla_coma">41,26</td>
+<td class="cuerpo_tabla_coma">41,34</td>
+<td class="cuerpo_tabla_coma">41,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">39,04</td>
+<td class="cuerpo_tabla_coma">39,12</td>
+<td class="cuerpo_tabla_coma">39,19</td>
+<td class="cuerpo_tabla_coma">39,27</td>
+<td class="cuerpo_tabla_coma">39,27</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">43,15</td>
+<td class="cuerpo_tabla_coma">43,23</td>
+<td class="cuerpo_tabla_coma">43,32</td>
+<td class="cuerpo_tabla_coma">43,4</td>
+<td class="cuerpo_tabla_coma">43,4</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 7 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">82,41</td>
+<td class="cuerpo_tabla_coma">82,35</td>
+<td class="cuerpo_tabla_coma">82,51</td>
+<td class="cuerpo_tabla_coma">82,67</td>
+<td class="cuerpo_tabla_coma">82,67</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">78,29</td>
+<td class="cuerpo_tabla_coma">78,23</td>
+<td class="cuerpo_tabla_coma">78,38</td>
+<td class="cuerpo_tabla_coma">78,54</td>
+<td class="cuerpo_tabla_coma">78,54</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">86,53</td>
+<td class="cuerpo_tabla_coma">86,47</td>
+<td class="cuerpo_tabla_coma">86,64</td>
+<td class="cuerpo_tabla_coma">86,80</td>
+<td class="cuerpo_tabla_coma">86,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 8 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">50,34</td>
+<td class="cuerpo_tabla_coma">50,44</td>
+<td class="cuerpo_tabla_coma">50,54</td>
+<td class="cuerpo_tabla_coma">50,64</td>
+<td class="cuerpo_tabla_coma">50,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">47,83</td>
+<td class="cuerpo_tabla_coma">47,92</td>
+<td class="cuerpo_tabla_coma">48,01</td>
+<td class="cuerpo_tabla_coma">48,11</td>
+<td class="cuerpo_tabla_coma">48,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">52,86</td>
+<td class="cuerpo_tabla_coma">52,97</td>
+<td class="cuerpo_tabla_coma">53,07</td>
+<td class="cuerpo_tabla_coma">53,17</td>
+<td class="cuerpo_tabla_coma">53,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 8 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">100,99</td>
+<td class="cuerpo_tabla_coma">100,88</td>
+<td class="cuerpo_tabla_coma">101,08</td>
+<td class="cuerpo_tabla_coma">101,28</td>
+<td class="cuerpo_tabla_coma">101,28</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">95,94</td>
+<td class="cuerpo_tabla_coma">95,84</td>
+<td class="cuerpo_tabla_coma">96,03</td>
+<td class="cuerpo_tabla_coma">96,22</td>
+<td class="cuerpo_tabla_coma">96,22</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">106,04</td>
+<td class="cuerpo_tabla_coma">105,92</td>
+<td class="cuerpo_tabla_coma">106,13</td>
+<td class="cuerpo_tabla_coma">106,34</td>
+<td class="cuerpo_tabla_coma">106,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 9 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">81,44</td>
+<td class="cuerpo_tabla_coma">81,6</td>
+<td class="cuerpo_tabla_coma">81,76</td>
+<td class="cuerpo_tabla_coma">81,92</td>
+<td class="cuerpo_tabla_coma">81,92</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">77,37</td>
+<td class="cuerpo_tabla_coma">77,52</td>
+<td class="cuerpo_tabla_coma">77,67</td>
+<td class="cuerpo_tabla_coma">77,83</td>
+<td class="cuerpo_tabla_coma">77,83</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">85,51</td>
+<td class="cuerpo_tabla_coma">85,68</td>
+<td class="cuerpo_tabla_coma">85,85</td>
+<td class="cuerpo_tabla_coma">86,02</td>
+<td class="cuerpo_tabla_coma">86,02</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 9 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">163,33</td>
+<td class="cuerpo_tabla_coma">163,2</td>
+<td class="cuerpo_tabla_coma">163,52</td>
+<td class="cuerpo_tabla_coma">163,84</td>
+<td class="cuerpo_tabla_coma">163,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">155,16</td>
+<td class="cuerpo_tabla_coma">155,04</td>
+<td class="cuerpo_tabla_coma">155,34</td>
+<td class="cuerpo_tabla_coma">155,65</td>
+<td class="cuerpo_tabla_coma">155,65</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">171,49</td>
+<td class="cuerpo_tabla_coma">171,36</td>
+<td class="cuerpo_tabla_coma">171,70</td>
+<td class="cuerpo_tabla_coma">172,03</td>
+<td class="cuerpo_tabla_coma">172,03</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 10 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">209,68</td>
+<td class="cuerpo_tabla_coma">209,68</td>
+<td class="cuerpo_tabla_coma">209,68</td>
+<td class="cuerpo_tabla_coma">209,68</td>
+<td class="cuerpo_tabla_coma">209,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 10 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">209,68</td>
+<td class="cuerpo_tabla_coma">209,68</td>
+<td class="cuerpo_tabla_coma">209,68</td>
+<td class="cuerpo_tabla_coma">209,68</td>
+<td class="cuerpo_tabla_coma">209,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+<td class="cuerpo_tabla_coma">220,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 11 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">19,68</td>
+<td class="cuerpo_tabla_coma">19,72</td>
+<td class="cuerpo_tabla_coma">19,76</td>
+<td class="cuerpo_tabla_coma">19,8</td>
+<td class="cuerpo_tabla_coma">19,8</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">18,7</td>
+<td class="cuerpo_tabla_coma">18,74</td>
+<td class="cuerpo_tabla_coma">18,77</td>
+<td class="cuerpo_tabla_coma">18,81</td>
+<td class="cuerpo_tabla_coma">18,81</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">20,67</td>
+<td class="cuerpo_tabla_coma">20,71</td>
+<td class="cuerpo_tabla_coma">20,75</td>
+<td class="cuerpo_tabla_coma">20,79</td>
+<td class="cuerpo_tabla_coma">20,79</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 11 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">39,49</td>
+<td class="cuerpo_tabla_coma">39,45</td>
+<td class="cuerpo_tabla_coma">39,52</td>
+<td class="cuerpo_tabla_coma">39,6</td>
+<td class="cuerpo_tabla_coma">39,6</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">37,52</td>
+<td class="cuerpo_tabla_coma">37,48</td>
+<td class="cuerpo_tabla_coma">37,54</td>
+<td class="cuerpo_tabla_coma">37,62</td>
+<td class="cuerpo_tabla_coma">37,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">41,47</td>
+<td class="cuerpo_tabla_coma">41,42</td>
+<td class="cuerpo_tabla_coma">41,50</td>
+<td class="cuerpo_tabla_coma">41,58</td>
+<td class="cuerpo_tabla_coma">41,58</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 12 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">28,4</td>
+<td class="cuerpo_tabla_coma">28,46</td>
+<td class="cuerpo_tabla_coma">28,51</td>
+<td class="cuerpo_tabla_coma">28,57</td>
+<td class="cuerpo_tabla_coma">28,57</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">26,98</td>
+<td class="cuerpo_tabla_coma">27,03</td>
+<td class="cuerpo_tabla_coma">27,09</td>
+<td class="cuerpo_tabla_coma">27,14</td>
+<td class="cuerpo_tabla_coma">27,14</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">29,82</td>
+<td class="cuerpo_tabla_coma">29,88</td>
+<td class="cuerpo_tabla_coma">29,94</td>
+<td class="cuerpo_tabla_coma">30</td>
+<td class="cuerpo_tabla_coma">30</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 12 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">56,98</td>
+<td class="cuerpo_tabla_coma">56,92</td>
+<td class="cuerpo_tabla_coma">57,03</td>
+<td class="cuerpo_tabla_coma">57,14</td>
+<td class="cuerpo_tabla_coma">57,14</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">54,13</td>
+<td class="cuerpo_tabla_coma">54,07</td>
+<td class="cuerpo_tabla_coma">54,18</td>
+<td class="cuerpo_tabla_coma">54,28</td>
+<td class="cuerpo_tabla_coma">54,28</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">59,83</td>
+<td class="cuerpo_tabla_coma">59,77</td>
+<td class="cuerpo_tabla_coma">59,88</td>
+<td class="cuerpo_tabla_coma">60,00</td>
+<td class="cuerpo_tabla_coma">60,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 13 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">52,01</td>
+<td class="cuerpo_tabla_coma">52,11</td>
+<td class="cuerpo_tabla_coma">52,21</td>
+<td class="cuerpo_tabla_coma">52,31</td>
+<td class="cuerpo_tabla_coma">52,31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">49,41</td>
+<td class="cuerpo_tabla_coma">49,5</td>
+<td class="cuerpo_tabla_coma">49,6</td>
+<td class="cuerpo_tabla_coma">49,7</td>
+<td class="cuerpo_tabla_coma">49,7</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">54,61</td>
+<td class="cuerpo_tabla_coma">54,71</td>
+<td class="cuerpo_tabla_coma">54,82</td>
+<td class="cuerpo_tabla_coma">54,93</td>
+<td class="cuerpo_tabla_coma">54,93</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 13 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">104,31</td>
+<td class="cuerpo_tabla_coma">104,22</td>
+<td class="cuerpo_tabla_coma">104,42</td>
+<td class="cuerpo_tabla_coma">104,63</td>
+<td class="cuerpo_tabla_coma">104,63</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">99,1</td>
+<td class="cuerpo_tabla_coma">99,01</td>
+<td class="cuerpo_tabla_coma">99,20</td>
+<td class="cuerpo_tabla_coma">99,40</td>
+<td class="cuerpo_tabla_coma">99,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">109,53</td>
+<td class="cuerpo_tabla_coma">109,43</td>
+<td class="cuerpo_tabla_coma">109,64</td>
+<td class="cuerpo_tabla_coma">109,86</td>
+<td class="cuerpo_tabla_coma">109,86</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 14 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">73,45</td>
+<td class="cuerpo_tabla_coma">73,6</td>
+<td class="cuerpo_tabla_coma">73,74</td>
+<td class="cuerpo_tabla_coma">73,89</td>
+<td class="cuerpo_tabla_coma">73,89</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">69,78</td>
+<td class="cuerpo_tabla_coma">69,92</td>
+<td class="cuerpo_tabla_coma">70,05</td>
+<td class="cuerpo_tabla_coma">70,19</td>
+<td class="cuerpo_tabla_coma">70,19</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">77,12</td>
+<td class="cuerpo_tabla_coma">77,28</td>
+<td class="cuerpo_tabla_coma">77,43</td>
+<td class="cuerpo_tabla_coma">77,58</td>
+<td class="cuerpo_tabla_coma">77,58</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 14 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">147,32</td>
+<td class="cuerpo_tabla_coma">147,19</td>
+<td class="cuerpo_tabla_coma">147,48</td>
+<td class="cuerpo_tabla_coma">147,77</td>
+<td class="cuerpo_tabla_coma">147,77</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">139,96</td>
+<td class="cuerpo_tabla_coma">139,83</td>
+<td class="cuerpo_tabla_coma">140,11</td>
+<td class="cuerpo_tabla_coma">140,38</td>
+<td class="cuerpo_tabla_coma">140,38</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">154,69</td>
+<td class="cuerpo_tabla_coma">154,55</td>
+<td class="cuerpo_tabla_coma">154,85</td>
+<td class="cuerpo_tabla_coma">155,16</td>
+<td class="cuerpo_tabla_coma">155,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 15 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">11,22</td>
+<td class="cuerpo_tabla_coma">11,24</td>
+<td class="cuerpo_tabla_coma">11,26</td>
+<td class="cuerpo_tabla_coma">11,29</td>
+<td class="cuerpo_tabla_coma">11,29</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">10,66</td>
+<td class="cuerpo_tabla_coma">10,68</td>
+<td class="cuerpo_tabla_coma">10,7</td>
+<td class="cuerpo_tabla_coma">10,72</td>
+<td class="cuerpo_tabla_coma">10,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">11,78</td>
+<td class="cuerpo_tabla_coma">11,8</td>
+<td class="cuerpo_tabla_coma">11,83</td>
+<td class="cuerpo_tabla_coma">11,85</td>
+<td class="cuerpo_tabla_coma">11,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 15 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">22,52</td>
+<td class="cuerpo_tabla_coma">22,48</td>
+<td class="cuerpo_tabla_coma">22,53</td>
+<td class="cuerpo_tabla_coma">22,57</td>
+<td class="cuerpo_tabla_coma">22,57</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">21,39</td>
+<td class="cuerpo_tabla_coma">21,36</td>
+<td class="cuerpo_tabla_coma">21,40</td>
+<td class="cuerpo_tabla_coma">21,44</td>
+<td class="cuerpo_tabla_coma">21,44</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">23,64</td>
+<td class="cuerpo_tabla_coma">23,60</td>
+<td class="cuerpo_tabla_coma">23,66</td>
+<td class="cuerpo_tabla_coma">23,70</td>
+<td class="cuerpo_tabla_coma">23,70</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 16 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">14,28</td>
+<td class="cuerpo_tabla_coma">14,31</td>
+<td class="cuerpo_tabla_coma">14,34</td>
+<td class="cuerpo_tabla_coma">14,37</td>
+<td class="cuerpo_tabla_coma">14,37</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">13,57</td>
+<td class="cuerpo_tabla_coma">13,6</td>
+<td class="cuerpo_tabla_coma">13,62</td>
+<td class="cuerpo_tabla_coma">13,65</td>
+<td class="cuerpo_tabla_coma">13,65</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">15</td>
+<td class="cuerpo_tabla_coma">15,03</td>
+<td class="cuerpo_tabla_coma">15,06</td>
+<td class="cuerpo_tabla_coma">15,09</td>
+<td class="cuerpo_tabla_coma">15,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 16 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">28,67</td>
+<td class="cuerpo_tabla_coma">28,62</td>
+<td class="cuerpo_tabla_coma">28,68</td>
+<td class="cuerpo_tabla_coma">28,74</td>
+<td class="cuerpo_tabla_coma">28,74</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">27,23</td>
+<td class="cuerpo_tabla_coma">27,19</td>
+<td class="cuerpo_tabla_coma">27,25</td>
+<td class="cuerpo_tabla_coma">27,30</td>
+<td class="cuerpo_tabla_coma">27,30</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">30,1</td>
+<td class="cuerpo_tabla_coma">30,05</td>
+<td class="cuerpo_tabla_coma">30,11</td>
+<td class="cuerpo_tabla_coma">30,18</td>
+<td class="cuerpo_tabla_coma">30,18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 17 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">20,59</td>
+<td class="cuerpo_tabla_coma">20,63</td>
+<td class="cuerpo_tabla_coma">20,67</td>
+<td class="cuerpo_tabla_coma">20,71</td>
+<td class="cuerpo_tabla_coma">20,71</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">19,56</td>
+<td class="cuerpo_tabla_coma">19,59</td>
+<td class="cuerpo_tabla_coma">19,63</td>
+<td class="cuerpo_tabla_coma">19,67</td>
+<td class="cuerpo_tabla_coma">19,67</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">21,61</td>
+<td class="cuerpo_tabla_coma">21,66</td>
+<td class="cuerpo_tabla_coma">21,7</td>
+<td class="cuerpo_tabla_coma">21,74</td>
+<td class="cuerpo_tabla_coma">21,74</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 17 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">41,31</td>
+<td class="cuerpo_tabla_coma">41,25</td>
+<td class="cuerpo_tabla_coma">41,33</td>
+<td class="cuerpo_tabla_coma">41,41</td>
+<td class="cuerpo_tabla_coma">41,41</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">39,24</td>
+<td class="cuerpo_tabla_coma">39,19</td>
+<td class="cuerpo_tabla_coma">39,26</td>
+<td class="cuerpo_tabla_coma">39,34</td>
+<td class="cuerpo_tabla_coma">39,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">43,37</td>
+<td class="cuerpo_tabla_coma">43,31</td>
+<td class="cuerpo_tabla_coma">43,40</td>
+<td class="cuerpo_tabla_coma">43,48</td>
+<td class="cuerpo_tabla_coma">43,48</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 18 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">27,46</td>
+<td class="cuerpo_tabla_coma">27,51</td>
+<td class="cuerpo_tabla_coma">27,57</td>
+<td class="cuerpo_tabla_coma">27,62</td>
+<td class="cuerpo_tabla_coma">27,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">26,09</td>
+<td class="cuerpo_tabla_coma">26,14</td>
+<td class="cuerpo_tabla_coma">26,19</td>
+<td class="cuerpo_tabla_coma">26,24</td>
+<td class="cuerpo_tabla_coma">26,24</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">28,83</td>
+<td class="cuerpo_tabla_coma">28,89</td>
+<td class="cuerpo_tabla_coma">28,95</td>
+<td class="cuerpo_tabla_coma">29</td>
+<td class="cuerpo_tabla_coma">29</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 18 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">55,11</td>
+<td class="cuerpo_tabla_coma">55,02</td>
+<td class="cuerpo_tabla_coma">55,14</td>
+<td class="cuerpo_tabla_coma">55,24</td>
+<td class="cuerpo_tabla_coma">55,24</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">52,36</td>
+<td class="cuerpo_tabla_coma">52,27</td>
+<td class="cuerpo_tabla_coma">52,38</td>
+<td class="cuerpo_tabla_coma">52,48</td>
+<td class="cuerpo_tabla_coma">52,48</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">57,87</td>
+<td class="cuerpo_tabla_coma">57,77</td>
+<td class="cuerpo_tabla_coma">57,90</td>
+<td class="cuerpo_tabla_coma">58,00</td>
+<td class="cuerpo_tabla_coma">58,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 19 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">39,52</td>
+<td class="cuerpo_tabla_coma">39,59</td>
+<td class="cuerpo_tabla_coma">39,67</td>
+<td class="cuerpo_tabla_coma">39,75</td>
+<td class="cuerpo_tabla_coma">39,75</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">37,54</td>
+<td class="cuerpo_tabla_coma">37,61</td>
+<td class="cuerpo_tabla_coma">37,69</td>
+<td class="cuerpo_tabla_coma">37,76</td>
+<td class="cuerpo_tabla_coma">37,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">41,49</td>
+<td class="cuerpo_tabla_coma">41,57</td>
+<td class="cuerpo_tabla_coma">41,66</td>
+<td class="cuerpo_tabla_coma">41,74</td>
+<td class="cuerpo_tabla_coma">41,74</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 19 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">79,32</td>
+<td class="cuerpo_tabla_coma">79,19</td>
+<td class="cuerpo_tabla_coma">79,34</td>
+<td class="cuerpo_tabla_coma">79,5</td>
+<td class="cuerpo_tabla_coma">79,5</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">75,36</td>
+<td class="cuerpo_tabla_coma">75,23</td>
+<td class="cuerpo_tabla_coma">75,37</td>
+<td class="cuerpo_tabla_coma">75,53</td>
+<td class="cuerpo_tabla_coma">75,53</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">83,29</td>
+<td class="cuerpo_tabla_coma">83,15</td>
+<td class="cuerpo_tabla_coma">83,31</td>
+<td class="cuerpo_tabla_coma">83,48</td>
+<td class="cuerpo_tabla_coma">83,48</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 20 umbral 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">37,51</td>
+<td class="cuerpo_tabla_coma">37,58</td>
+<td class="cuerpo_tabla_coma">37,65</td>
+<td class="cuerpo_tabla_coma">37,73</td>
+<td class="cuerpo_tabla_coma">37,73</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">35,63</td>
+<td class="cuerpo_tabla_coma">35,7</td>
+<td class="cuerpo_tabla_coma">35,77</td>
+<td class="cuerpo_tabla_coma">35,84</td>
+<td class="cuerpo_tabla_coma">35,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">39,38</td>
+<td class="cuerpo_tabla_coma">39,46</td>
+<td class="cuerpo_tabla_coma">39,54</td>
+<td class="cuerpo_tabla_coma">39,61</td>
+<td class="cuerpo_tabla_coma">39,61</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 20 umbral 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">60,94</td>
+<td class="cuerpo_tabla_coma">75,16</td>
+<td class="cuerpo_tabla_coma">75,31</td>
+<td class="cuerpo_tabla_coma">75,46</td>
+<td class="cuerpo_tabla_coma">75,46</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">57,90</td>
+<td class="cuerpo_tabla_coma">71,40</td>
+<td class="cuerpo_tabla_coma">71,54</td>
+<td class="cuerpo_tabla_coma">71,69</td>
+<td class="cuerpo_tabla_coma">71,69</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">78,76</td>
+<td class="cuerpo_tabla_coma">78,92</td>
+<td class="cuerpo_tabla_coma">79,08</td>
+<td class="cuerpo_tabla_coma">79,23</td>
+<td class="cuerpo_tabla_coma">79,23</td>
+</tr>
+</tbody>
+</table>
+
+Ayuda Complementaria a la renta para los jóvenes agricultores
+
+<table class="tabla">
+<colgroup>
+<col width="15%">
+<col width="30%">
+<col width="11%">
+<col width="11%">
+<col width="11%">
+<col width="11%">
+<col width="11%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Campaña</th>
+<th class="cabeza_tabla">2023</th>
+<th class="cabeza_tabla">2024</th>
+<th class="cabeza_tabla">2025</th>
+<th class="cabeza_tabla">2026</th>
+<th class="cabeza_tabla">2027</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Regón 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">81,47</td>
+<td class="cuerpo_tabla_coma">81,62</td>
+<td class="cuerpo_tabla_coma">81,77</td>
+<td class="cuerpo_tabla_coma">81,92</td>
+<td class="cuerpo_tabla_coma">81,92</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">77,4</td>
+<td class="cuerpo_tabla_coma">77,54</td>
+<td class="cuerpo_tabla_coma">77,68</td>
+<td class="cuerpo_tabla_coma">77,82</td>
+<td class="cuerpo_tabla_coma">77,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">93,69</td>
+<td class="cuerpo_tabla_coma">93,86</td>
+<td class="cuerpo_tabla_coma">94,04</td>
+<td class="cuerpo_tabla_coma">94,21</td>
+<td class="cuerpo_tabla_coma">94,21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 1.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">93,69</td>
+<td class="cuerpo_tabla_coma">93,86</td>
+<td class="cuerpo_tabla_coma">94,04</td>
+<td class="cuerpo_tabla_coma">94,21</td>
+<td class="cuerpo_tabla_coma">94,21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">89,01</td>
+<td class="cuerpo_tabla_coma">89,17</td>
+<td class="cuerpo_tabla_coma">89,34</td>
+<td class="cuerpo_tabla_coma">89,5</td>
+<td class="cuerpo_tabla_coma">89,5</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">107,74</td>
+<td class="cuerpo_tabla_coma">107,94</td>
+<td class="cuerpo_tabla_coma">108,15</td>
+<td class="cuerpo_tabla_coma">108,34</td>
+<td class="cuerpo_tabla_coma">108,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">97,64</td>
+<td class="cuerpo_tabla_coma">97,83</td>
+<td class="cuerpo_tabla_coma">98,01</td>
+<td class="cuerpo_tabla_coma">98,19</td>
+<td class="cuerpo_tabla_coma">98,19</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">92,76</td>
+<td class="cuerpo_tabla_coma">92,94</td>
+<td class="cuerpo_tabla_coma">93,11</td>
+<td class="cuerpo_tabla_coma">93,28</td>
+<td class="cuerpo_tabla_coma">93,28</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">112,29</td>
+<td class="cuerpo_tabla_coma">112,5</td>
+<td class="cuerpo_tabla_coma">112,71</td>
+<td class="cuerpo_tabla_coma">112,92</td>
+<td class="cuerpo_tabla_coma">112,92</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 2.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">112,29</td>
+<td class="cuerpo_tabla_coma">112,5</td>
+<td class="cuerpo_tabla_coma">112,71</td>
+<td class="cuerpo_tabla_coma">112,92</td>
+<td class="cuerpo_tabla_coma">112,92</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">106,68</td>
+<td class="cuerpo_tabla_coma">106,88</td>
+<td class="cuerpo_tabla_coma">107,07</td>
+<td class="cuerpo_tabla_coma">107,27</td>
+<td class="cuerpo_tabla_coma">107,27</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">129,13</td>
+<td class="cuerpo_tabla_coma">129,38</td>
+<td class="cuerpo_tabla_coma">129,62</td>
+<td class="cuerpo_tabla_coma">129,86</td>
+<td class="cuerpo_tabla_coma">129,86</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 3.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">129,85</td>
+<td class="cuerpo_tabla_coma">130,09</td>
+<td class="cuerpo_tabla_coma">130,33</td>
+<td class="cuerpo_tabla_coma">130,58</td>
+<td class="cuerpo_tabla_coma">130,58</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">123,36</td>
+<td class="cuerpo_tabla_coma">123,59</td>
+<td class="cuerpo_tabla_coma">123,81</td>
+<td class="cuerpo_tabla_coma">124,05</td>
+<td class="cuerpo_tabla_coma">124,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">149,33</td>
+<td class="cuerpo_tabla_coma">149,6</td>
+<td class="cuerpo_tabla_coma">149,88</td>
+<td class="cuerpo_tabla_coma">150,17</td>
+<td class="cuerpo_tabla_coma">150,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 3.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">149,33</td>
+<td class="cuerpo_tabla_coma">149,6</td>
+<td class="cuerpo_tabla_coma">149,88</td>
+<td class="cuerpo_tabla_coma">150,17</td>
+<td class="cuerpo_tabla_coma">150,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">141,86</td>
+<td class="cuerpo_tabla_coma">142,12</td>
+<td class="cuerpo_tabla_coma">142,39</td>
+<td class="cuerpo_tabla_coma">142,66</td>
+<td class="cuerpo_tabla_coma">142,66</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">171,73</td>
+<td class="cuerpo_tabla_coma">172,04</td>
+<td class="cuerpo_tabla_coma">172,36</td>
+<td class="cuerpo_tabla_coma">172,7</td>
+<td class="cuerpo_tabla_coma">172,7</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 4.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">199,03</td>
+<td class="cuerpo_tabla_coma">199,4</td>
+<td class="cuerpo_tabla_coma">199,58</td>
+<td class="cuerpo_tabla_coma">200,15</td>
+<td class="cuerpo_tabla_coma">200,15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">189,08</td>
+<td class="cuerpo_tabla_coma">189,43</td>
+<td class="cuerpo_tabla_coma">189,6</td>
+<td class="cuerpo_tabla_coma">190,14</td>
+<td class="cuerpo_tabla_coma">190,14</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">228,88</td>
+<td class="cuerpo_tabla_coma">229,31</td>
+<td class="cuerpo_tabla_coma">229,52</td>
+<td class="cuerpo_tabla_coma">230,17</td>
+<td class="cuerpo_tabla_coma">230,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 4.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">228,88</td>
+<td class="cuerpo_tabla_coma">229,31</td>
+<td class="cuerpo_tabla_coma">229,52</td>
+<td class="cuerpo_tabla_coma">230,17</td>
+<td class="cuerpo_tabla_coma">230,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">217,44</td>
+<td class="cuerpo_tabla_coma">217,84</td>
+<td class="cuerpo_tabla_coma">218,04</td>
+<td class="cuerpo_tabla_coma">218,66</td>
+<td class="cuerpo_tabla_coma">218,66</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">263,21</td>
+<td class="cuerpo_tabla_coma">263,71</td>
+<td class="cuerpo_tabla_coma">263,95</td>
+<td class="cuerpo_tabla_coma">264,7</td>
+<td class="cuerpo_tabla_coma">264,7</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 5.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">307,88</td>
+<td class="cuerpo_tabla_coma">308,49</td>
+<td class="cuerpo_tabla_coma">309,1</td>
+<td class="cuerpo_tabla_coma">309,7</td>
+<td class="cuerpo_tabla_coma">309,7</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">292,49</td>
+<td class="cuerpo_tabla_coma">293,06</td>
+<td class="cuerpo_tabla_coma">293,64</td>
+<td class="cuerpo_tabla_coma">294,22</td>
+<td class="cuerpo_tabla_coma">294,22</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">354,06</td>
+<td class="cuerpo_tabla_coma">354,76</td>
+<td class="cuerpo_tabla_coma">355,46</td>
+<td class="cuerpo_tabla_coma">356,16</td>
+<td class="cuerpo_tabla_coma">356,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 5.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">354,06</td>
+<td class="cuerpo_tabla_coma">354,76</td>
+<td class="cuerpo_tabla_coma">355,46</td>
+<td class="cuerpo_tabla_coma">356,16</td>
+<td class="cuerpo_tabla_coma">356,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">336,36</td>
+<td class="cuerpo_tabla_coma">337,02</td>
+<td class="cuerpo_tabla_coma">337,69</td>
+<td class="cuerpo_tabla_coma">338,35</td>
+<td class="cuerpo_tabla_coma">338,35</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">407,17</td>
+<td class="cuerpo_tabla_coma">407,98</td>
+<td class="cuerpo_tabla_coma">408,78</td>
+<td class="cuerpo_tabla_coma">409,58</td>
+<td class="cuerpo_tabla_coma">409,58</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 6.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">157,85</td>
+<td class="cuerpo_tabla_coma">158,16</td>
+<td class="cuerpo_tabla_coma">158,47</td>
+<td class="cuerpo_tabla_coma">158,79</td>
+<td class="cuerpo_tabla_coma">158,79</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">149,96</td>
+<td class="cuerpo_tabla_coma">150,25</td>
+<td class="cuerpo_tabla_coma">150,55</td>
+<td class="cuerpo_tabla_coma">150,85</td>
+<td class="cuerpo_tabla_coma">150,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">181,53</td>
+<td class="cuerpo_tabla_coma">181,89</td>
+<td class="cuerpo_tabla_coma">182,25</td>
+<td class="cuerpo_tabla_coma">182,6</td>
+<td class="cuerpo_tabla_coma">182,6</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 6.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">181,53</td>
+<td class="cuerpo_tabla_coma">181,89</td>
+<td class="cuerpo_tabla_coma">182,25</td>
+<td class="cuerpo_tabla_coma">182,6</td>
+<td class="cuerpo_tabla_coma">182,6</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">172,45</td>
+<td class="cuerpo_tabla_coma">172,79</td>
+<td class="cuerpo_tabla_coma">173,13</td>
+<td class="cuerpo_tabla_coma">173,47</td>
+<td class="cuerpo_tabla_coma">173,47</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">208,76</td>
+<td class="cuerpo_tabla_coma">209,17</td>
+<td class="cuerpo_tabla_coma">209,58</td>
+<td class="cuerpo_tabla_coma">209,99</td>
+<td class="cuerpo_tabla_coma">209,99</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 7.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">205,47</td>
+<td class="cuerpo_tabla_coma">205,87</td>
+<td class="cuerpo_tabla_coma">206,28</td>
+<td class="cuerpo_tabla_coma">206,68</td>
+<td class="cuerpo_tabla_coma">206,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">195,2</td>
+<td class="cuerpo_tabla_coma">195,58</td>
+<td class="cuerpo_tabla_coma">195,97</td>
+<td class="cuerpo_tabla_coma">196,35</td>
+<td class="cuerpo_tabla_coma">196,35</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">236,29</td>
+<td class="cuerpo_tabla_coma">236,76</td>
+<td class="cuerpo_tabla_coma">237,22</td>
+<td class="cuerpo_tabla_coma">237,69</td>
+<td class="cuerpo_tabla_coma">237,69</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 7.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">236,29</td>
+<td class="cuerpo_tabla_coma">236,76</td>
+<td class="cuerpo_tabla_coma">237,22</td>
+<td class="cuerpo_tabla_coma">237,69</td>
+<td class="cuerpo_tabla_coma">237,69</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">224,48</td>
+<td class="cuerpo_tabla_coma">224,92</td>
+<td class="cuerpo_tabla_coma">225,36</td>
+<td class="cuerpo_tabla_coma">225,8</td>
+<td class="cuerpo_tabla_coma">225,8</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">271,73</td>
+<td class="cuerpo_tabla_coma">272,27</td>
+<td class="cuerpo_tabla_coma">272,8</td>
+<td class="cuerpo_tabla_coma">273,34</td>
+<td class="cuerpo_tabla_coma">273,34</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 8.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">251,72</td>
+<td class="cuerpo_tabla_coma">252,21</td>
+<td class="cuerpo_tabla_coma">252,71</td>
+<td class="cuerpo_tabla_coma">253,21</td>
+<td class="cuerpo_tabla_coma">253,21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">239,13</td>
+<td class="cuerpo_tabla_coma">239,6</td>
+<td class="cuerpo_tabla_coma">240,07</td>
+<td class="cuerpo_tabla_coma">240,55</td>
+<td class="cuerpo_tabla_coma">240,55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">289,48</td>
+<td class="cuerpo_tabla_coma">290,05</td>
+<td class="cuerpo_tabla_coma">290,62</td>
+<td class="cuerpo_tabla_coma">291,19</td>
+<td class="cuerpo_tabla_coma">291,19</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 8.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">289,48</td>
+<td class="cuerpo_tabla_coma">290,05</td>
+<td class="cuerpo_tabla_coma">290,62</td>
+<td class="cuerpo_tabla_coma">291,19</td>
+<td class="cuerpo_tabla_coma">291,19</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">275</td>
+<td class="cuerpo_tabla_coma">275,54</td>
+<td class="cuerpo_tabla_coma">276,09</td>
+<td class="cuerpo_tabla_coma">276,63</td>
+<td class="cuerpo_tabla_coma">276,63</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">332,9</td>
+<td class="cuerpo_tabla_coma">333,55</td>
+<td class="cuerpo_tabla_coma">334,21</td>
+<td class="cuerpo_tabla_coma">334,87</td>
+<td class="cuerpo_tabla_coma">334,87</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 9.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">407,2</td>
+<td class="cuerpo_tabla_coma">408</td>
+<td class="cuerpo_tabla_coma">408,81</td>
+<td class="cuerpo_tabla_coma">409,61</td>
+<td class="cuerpo_tabla_coma">409,61</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">386,84</td>
+<td class="cuerpo_tabla_coma">387,6</td>
+<td class="cuerpo_tabla_coma">388,37</td>
+<td class="cuerpo_tabla_coma">389,13</td>
+<td class="cuerpo_tabla_coma">389,13</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">468,28</td>
+<td class="cuerpo_tabla_coma">469,2</td>
+<td class="cuerpo_tabla_coma">470,13</td>
+<td class="cuerpo_tabla_coma">471,05</td>
+<td class="cuerpo_tabla_coma">471,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 9.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">468,28</td>
+<td class="cuerpo_tabla_coma">469,2</td>
+<td class="cuerpo_tabla_coma">470,13</td>
+<td class="cuerpo_tabla_coma">471,05</td>
+<td class="cuerpo_tabla_coma">471,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">444,87</td>
+<td class="cuerpo_tabla_coma">445,74</td>
+<td class="cuerpo_tabla_coma">446,62</td>
+<td class="cuerpo_tabla_coma">447,5</td>
+<td class="cuerpo_tabla_coma">447,5</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">538,52</td>
+<td class="cuerpo_tabla_coma">539,58</td>
+<td class="cuerpo_tabla_coma">540,65</td>
+<td class="cuerpo_tabla_coma">541,71</td>
+<td class="cuerpo_tabla_coma">541,71</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 10.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">1.229,17</td>
+<td class="cuerpo_tabla_coma">1.231,60</td>
+<td class="cuerpo_tabla_coma">1.234,02</td>
+<td class="cuerpo_tabla_coma">1.236,44</td>
+<td class="cuerpo_tabla_coma">1.236,44</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">1.167,71</td>
+<td class="cuerpo_tabla_coma">1.170,02</td>
+<td class="cuerpo_tabla_coma">1.172,32</td>
+<td class="cuerpo_tabla_coma">1.174,62</td>
+<td class="cuerpo_tabla_coma">1.174,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">1.413,55</td>
+<td class="cuerpo_tabla_coma">1.416,33</td>
+<td class="cuerpo_tabla_coma">1.419,12</td>
+<td class="cuerpo_tabla_coma">1.421,91</td>
+<td class="cuerpo_tabla_coma">1.421,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 10.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">1.413,55</td>
+<td class="cuerpo_tabla_coma">1.416,33</td>
+<td class="cuerpo_tabla_coma">1.419,12</td>
+<td class="cuerpo_tabla_coma">1.421,91</td>
+<td class="cuerpo_tabla_coma">1.421,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">1.342,87</td>
+<td class="cuerpo_tabla_coma">1.345,52</td>
+<td class="cuerpo_tabla_coma">1.348,16</td>
+<td class="cuerpo_tabla_coma">1.350,81</td>
+<td class="cuerpo_tabla_coma">1.350,81</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">1.625,58</td>
+<td class="cuerpo_tabla_coma">1.628,79</td>
+<td class="cuerpo_tabla_coma">1.631,99</td>
+<td class="cuerpo_tabla_coma">1.635,19</td>
+<td class="cuerpo_tabla_coma">1.635,19</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 11.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">98,42</td>
+<td class="cuerpo_tabla_coma">98,62</td>
+<td class="cuerpo_tabla_coma">98,81</td>
+<td class="cuerpo_tabla_coma">99</td>
+<td class="cuerpo_tabla_coma">99</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">93,5</td>
+<td class="cuerpo_tabla_coma">93,68</td>
+<td class="cuerpo_tabla_coma">93,87</td>
+<td class="cuerpo_tabla_coma">94,05</td>
+<td class="cuerpo_tabla_coma">94,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">113,18</td>
+<td class="cuerpo_tabla_coma">113,41</td>
+<td class="cuerpo_tabla_coma">113,63</td>
+<td class="cuerpo_tabla_coma">113,85</td>
+<td class="cuerpo_tabla_coma">113,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 11.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">113,18</td>
+<td class="cuerpo_tabla_coma">113,41</td>
+<td class="cuerpo_tabla_coma">113,63</td>
+<td class="cuerpo_tabla_coma">113,85</td>
+<td class="cuerpo_tabla_coma">113,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">107,53</td>
+<td class="cuerpo_tabla_coma">107,74</td>
+<td class="cuerpo_tabla_coma">107,95</td>
+<td class="cuerpo_tabla_coma">108,16</td>
+<td class="cuerpo_tabla_coma">108,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">130,16</td>
+<td class="cuerpo_tabla_coma">130,42</td>
+<td class="cuerpo_tabla_coma">130,68</td>
+<td class="cuerpo_tabla_coma">130,93</td>
+<td class="cuerpo_tabla_coma">130,93</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 12.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">142,01</td>
+<td class="cuerpo_tabla_coma">142,29</td>
+<td class="cuerpo_tabla_coma">142,57</td>
+<td class="cuerpo_tabla_coma">142,84</td>
+<td class="cuerpo_tabla_coma">142,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">134,91</td>
+<td class="cuerpo_tabla_coma">135,17</td>
+<td class="cuerpo_tabla_coma">135,44</td>
+<td class="cuerpo_tabla_coma">135,7</td>
+<td class="cuerpo_tabla_coma">135,7</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">163,31</td>
+<td class="cuerpo_tabla_coma">163,63</td>
+<td class="cuerpo_tabla_coma">163,95</td>
+<td class="cuerpo_tabla_coma">164,27</td>
+<td class="cuerpo_tabla_coma">164,27</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 12.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">163,31</td>
+<td class="cuerpo_tabla_coma">163,63</td>
+<td class="cuerpo_tabla_coma">163,95</td>
+<td class="cuerpo_tabla_coma">164,27</td>
+<td class="cuerpo_tabla_coma">164,27</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">155,14</td>
+<td class="cuerpo_tabla_coma">155,45</td>
+<td class="cuerpo_tabla_coma">155,75</td>
+<td class="cuerpo_tabla_coma">156,06</td>
+<td class="cuerpo_tabla_coma">156,06</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">187,8</td>
+<td class="cuerpo_tabla_coma">188,17</td>
+<td class="cuerpo_tabla_coma">188,54</td>
+<td class="cuerpo_tabla_coma">188,91</td>
+<td class="cuerpo_tabla_coma">188,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 13.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">260,03</td>
+<td class="cuerpo_tabla_coma">260,54</td>
+<td class="cuerpo_tabla_coma">261,05</td>
+<td class="cuerpo_tabla_coma">261,57</td>
+<td class="cuerpo_tabla_coma">261,57</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">247,03</td>
+<td class="cuerpo_tabla_coma">247,51</td>
+<td class="cuerpo_tabla_coma">248</td>
+<td class="cuerpo_tabla_coma">248,49</td>
+<td class="cuerpo_tabla_coma">248,49</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">299,03</td>
+<td class="cuerpo_tabla_coma">299,62</td>
+<td class="cuerpo_tabla_coma">300,21</td>
+<td class="cuerpo_tabla_coma">300,8</td>
+<td class="cuerpo_tabla_coma">300,8</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 13.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">299,03</td>
+<td class="cuerpo_tabla_coma">299,62</td>
+<td class="cuerpo_tabla_coma">300,21</td>
+<td class="cuerpo_tabla_coma">300,8</td>
+<td class="cuerpo_tabla_coma">300,8</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">284,08</td>
+<td class="cuerpo_tabla_coma">284,64</td>
+<td class="cuerpo_tabla_coma">285,2</td>
+<td class="cuerpo_tabla_coma">285,76</td>
+<td class="cuerpo_tabla_coma">285,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">343,89</td>
+<td class="cuerpo_tabla_coma">344,56</td>
+<td class="cuerpo_tabla_coma">345,24</td>
+<td class="cuerpo_tabla_coma">345,92</td>
+<td class="cuerpo_tabla_coma">345,92</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 14.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">367,26</td>
+<td class="cuerpo_tabla_coma">367,98</td>
+<td class="cuerpo_tabla_coma">368,71</td>
+<td class="cuerpo_tabla_coma">369,43</td>
+<td class="cuerpo_tabla_coma">369,43</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">348,9</td>
+<td class="cuerpo_tabla_coma">349,58</td>
+<td class="cuerpo_tabla_coma">350,27</td>
+<td class="cuerpo_tabla_coma">350,96</td>
+<td class="cuerpo_tabla_coma">350,96</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">422,35</td>
+<td class="cuerpo_tabla_coma">423,18</td>
+<td class="cuerpo_tabla_coma">424,01</td>
+<td class="cuerpo_tabla_coma">424,85</td>
+<td class="cuerpo_tabla_coma">424,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 14.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">422,35</td>
+<td class="cuerpo_tabla_coma">423,18</td>
+<td class="cuerpo_tabla_coma">424,01</td>
+<td class="cuerpo_tabla_coma">424,85</td>
+<td class="cuerpo_tabla_coma">424,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">401,23</td>
+<td class="cuerpo_tabla_coma">402,02</td>
+<td class="cuerpo_tabla_coma">402,81</td>
+<td class="cuerpo_tabla_coma">403,6</td>
+<td class="cuerpo_tabla_coma">403,6</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">485,7</td>
+<td class="cuerpo_tabla_coma">486,66</td>
+<td class="cuerpo_tabla_coma">487,62</td>
+<td class="cuerpo_tabla_coma">488,57</td>
+<td class="cuerpo_tabla_coma">488,57</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 15.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">56,1</td>
+<td class="cuerpo_tabla_coma">56,21</td>
+<td class="cuerpo_tabla_coma">56,32</td>
+<td class="cuerpo_tabla_coma">56,43</td>
+<td class="cuerpo_tabla_coma">56,43</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">53,29</td>
+<td class="cuerpo_tabla_coma">53,4</td>
+<td class="cuerpo_tabla_coma">53,5</td>
+<td class="cuerpo_tabla_coma">53,61</td>
+<td class="cuerpo_tabla_coma">53,61</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">64,51</td>
+<td class="cuerpo_tabla_coma">64,64</td>
+<td class="cuerpo_tabla_coma">64,77</td>
+<td class="cuerpo_tabla_coma">64,9</td>
+<td class="cuerpo_tabla_coma">64,9</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 15.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">64,51</td>
+<td class="cuerpo_tabla_coma">64,64</td>
+<td class="cuerpo_tabla_coma">64,77</td>
+<td class="cuerpo_tabla_coma">64,9</td>
+<td class="cuerpo_tabla_coma">64,9</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">61,29</td>
+<td class="cuerpo_tabla_coma">61,41</td>
+<td class="cuerpo_tabla_coma">61,53</td>
+<td class="cuerpo_tabla_coma">61,65</td>
+<td class="cuerpo_tabla_coma">61,65</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">74,19</td>
+<td class="cuerpo_tabla_coma">74,34</td>
+<td class="cuerpo_tabla_coma">74,48</td>
+<td class="cuerpo_tabla_coma">74,63</td>
+<td class="cuerpo_tabla_coma">74,63</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 16.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">71,42</td>
+<td class="cuerpo_tabla_coma">71,56</td>
+<td class="cuerpo_tabla_coma">71,7</td>
+<td class="cuerpo_tabla_coma">71,84</td>
+<td class="cuerpo_tabla_coma">71,84</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">67,85</td>
+<td class="cuerpo_tabla_coma">67,98</td>
+<td class="cuerpo_tabla_coma">68,12</td>
+<td class="cuerpo_tabla_coma">68,25</td>
+<td class="cuerpo_tabla_coma">68,25</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">82,13</td>
+<td class="cuerpo_tabla_coma">82,3</td>
+<td class="cuerpo_tabla_coma">82,46</td>
+<td class="cuerpo_tabla_coma">82,62</td>
+<td class="cuerpo_tabla_coma">82,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 16.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">82,13</td>
+<td class="cuerpo_tabla_coma">82,3</td>
+<td class="cuerpo_tabla_coma">82,46</td>
+<td class="cuerpo_tabla_coma">82,62</td>
+<td class="cuerpo_tabla_coma">82,62</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">78,03</td>
+<td class="cuerpo_tabla_coma">78,18</td>
+<td class="cuerpo_tabla_coma">78,34</td>
+<td class="cuerpo_tabla_coma">78,49</td>
+<td class="cuerpo_tabla_coma">78,49</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">94,45</td>
+<td class="cuerpo_tabla_coma">94,64</td>
+<td class="cuerpo_tabla_coma">94,83</td>
+<td class="cuerpo_tabla_coma">95,01</td>
+<td class="cuerpo_tabla_coma">95,01</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Region 17.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">102,93</td>
+<td class="cuerpo_tabla_coma">103,13</td>
+<td class="cuerpo_tabla_coma">103,33</td>
+<td class="cuerpo_tabla_coma">103,53</td>
+<td class="cuerpo_tabla_coma">103,53</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">97,78</td>
+<td class="cuerpo_tabla_coma">97,97</td>
+<td class="cuerpo_tabla_coma">98,16</td>
+<td class="cuerpo_tabla_coma">98,36</td>
+<td class="cuerpo_tabla_coma">98,36</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">118,36</td>
+<td class="cuerpo_tabla_coma">118,6</td>
+<td class="cuerpo_tabla_coma">118,83</td>
+<td class="cuerpo_tabla_coma">119,06</td>
+<td class="cuerpo_tabla_coma">119,06</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 17.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">118,36</td>
+<td class="cuerpo_tabla_coma">118,6</td>
+<td class="cuerpo_tabla_coma">118,83</td>
+<td class="cuerpo_tabla_coma">119,06</td>
+<td class="cuerpo_tabla_coma">119,06</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">112,45</td>
+<td class="cuerpo_tabla_coma">112,67</td>
+<td class="cuerpo_tabla_coma">112,89</td>
+<td class="cuerpo_tabla_coma">113,11</td>
+<td class="cuerpo_tabla_coma">113,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">136,12</td>
+<td class="cuerpo_tabla_coma">136,39</td>
+<td class="cuerpo_tabla_coma">136,66</td>
+<td class="cuerpo_tabla_coma">136,92</td>
+<td class="cuerpo_tabla_coma">136,92</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 18.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">137,29</td>
+<td class="cuerpo_tabla_coma">137,56</td>
+<td class="cuerpo_tabla_coma">137,84</td>
+<td class="cuerpo_tabla_coma">138,11</td>
+<td class="cuerpo_tabla_coma">138,11</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">130,43</td>
+<td class="cuerpo_tabla_coma">130,69</td>
+<td class="cuerpo_tabla_coma">130,94</td>
+<td class="cuerpo_tabla_coma">131,2</td>
+<td class="cuerpo_tabla_coma">131,2</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">157,89</td>
+<td class="cuerpo_tabla_coma">158,2</td>
+<td class="cuerpo_tabla_coma">158,51</td>
+<td class="cuerpo_tabla_coma">158,82</td>
+<td class="cuerpo_tabla_coma">158,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 18.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">157,89</td>
+<td class="cuerpo_tabla_coma">158,2</td>
+<td class="cuerpo_tabla_coma">158,51</td>
+<td class="cuerpo_tabla_coma">158,82</td>
+<td class="cuerpo_tabla_coma">158,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">149,99</td>
+<td class="cuerpo_tabla_coma">150,29</td>
+<td class="cuerpo_tabla_coma">150,59</td>
+<td class="cuerpo_tabla_coma">150,88</td>
+<td class="cuerpo_tabla_coma">150,88</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">181,57</td>
+<td class="cuerpo_tabla_coma">181,93</td>
+<td class="cuerpo_tabla_coma">182,29</td>
+<td class="cuerpo_tabla_coma">182,65</td>
+<td class="cuerpo_tabla_coma">182,65</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 19.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">197,58</td>
+<td class="cuerpo_tabla_coma">197,97</td>
+<td class="cuerpo_tabla_coma">198,36</td>
+<td class="cuerpo_tabla_coma">198,75</td>
+<td class="cuerpo_tabla_coma">198,75</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">187,7</td>
+<td class="cuerpo_tabla_coma">188,07</td>
+<td class="cuerpo_tabla_coma">188,44</td>
+<td class="cuerpo_tabla_coma">188,81</td>
+<td class="cuerpo_tabla_coma">188,81</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">227,22</td>
+<td class="cuerpo_tabla_coma">227,67</td>
+<td class="cuerpo_tabla_coma">228,12</td>
+<td class="cuerpo_tabla_coma">228,56</td>
+<td class="cuerpo_tabla_coma">228,56</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 19.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">227,22</td>
+<td class="cuerpo_tabla_coma">227,67</td>
+<td class="cuerpo_tabla_coma">228,12</td>
+<td class="cuerpo_tabla_coma">228,56</td>
+<td class="cuerpo_tabla_coma">228,56</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">215,86</td>
+<td class="cuerpo_tabla_coma">216,28</td>
+<td class="cuerpo_tabla_coma">216,71</td>
+<td class="cuerpo_tabla_coma">217,14</td>
+<td class="cuerpo_tabla_coma">217,14</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">261,3</td>
+<td class="cuerpo_tabla_coma">261,82</td>
+<td class="cuerpo_tabla_coma">262,33</td>
+<td class="cuerpo_tabla_coma">262,85</td>
+<td class="cuerpo_tabla_coma">262,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Región 20.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">187,53</td>
+<td class="cuerpo_tabla_coma">187,9</td>
+<td class="cuerpo_tabla_coma">188,27</td>
+<td class="cuerpo_tabla_coma">188,64</td>
+<td class="cuerpo_tabla_coma">188,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">178,15</td>
+<td class="cuerpo_tabla_coma">178,5</td>
+<td class="cuerpo_tabla_coma">178,85</td>
+<td class="cuerpo_tabla_coma">179,21</td>
+<td class="cuerpo_tabla_coma">179,21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">215,66</td>
+<td class="cuerpo_tabla_coma">216,08</td>
+<td class="cuerpo_tabla_coma">216,51</td>
+<td class="cuerpo_tabla_coma">216,93</td>
+<td class="cuerpo_tabla_coma">216,93</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 20.</td>
+<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
+<td class="cuerpo_tabla_coma">215,66</td>
+<td class="cuerpo_tabla_coma">216,08</td>
+<td class="cuerpo_tabla_coma">216,51</td>
+<td class="cuerpo_tabla_coma">216,93</td>
+<td class="cuerpo_tabla_coma">216,93</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
+<td class="cuerpo_tabla_coma">204,88</td>
+<td class="cuerpo_tabla_coma">205,28</td>
+<td class="cuerpo_tabla_coma">205,68</td>
+<td class="cuerpo_tabla_coma">206,09</td>
+<td class="cuerpo_tabla_coma">206,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
+<td class="cuerpo_tabla_coma">248,01</td>
+<td class="cuerpo_tabla_coma">248,5</td>
+<td class="cuerpo_tabla_coma">248,98</td>
+<td class="cuerpo_tabla_coma">249,47</td>
+<td class="cuerpo_tabla_coma">249,47</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica la segunda tabla por el art. 3.39 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+## ANEXO X — Importe mínimo, planificado y máximo para cada ecorrégimen (euros/hectárea)
+
+<table class="tabla_ancha">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Ecorrégimen-tipo de superficie/práctica</th>
+<th class="cabeza_tabla">Importe unitario</th>
+<th class="cabeza_tabla">2023</th>
+<th class="cabeza_tabla">2024</th>
+<th class="cabeza_tabla">2025</th>
+<th class="cabeza_tabla">2026</th>
+<th class="cabeza_tabla">2027</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos. PASTOREO EXTENSIVO.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">62,16</td>
+<td class="cuerpo_tabla_coma">59,09</td>
+<td class="cuerpo_tabla_coma">56,31</td>
+<td class="cuerpo_tabla_coma">53,80</td>
+<td class="cuerpo_tabla_coma">51,42</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">43,51</td>
+<td class="cuerpo_tabla_coma">43,58</td>
+<td class="cuerpo_tabla_coma">43,64</td>
+<td class="cuerpo_tabla_coma">43,71</td>
+<td class="cuerpo_tabla_coma">43,71</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">141,74</td>
+<td class="cuerpo_tabla_coma">141,74</td>
+<td class="cuerpo_tabla_coma">141,74</td>
+<td class="cuerpo_tabla_coma">141,74</td>
+<td class="cuerpo_tabla_coma">141,74</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos. ISLAS DE BIODIVERSIDAD.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">62,16</td>
+<td class="cuerpo_tabla_coma">59,09</td>
+<td class="cuerpo_tabla_coma">56,31</td>
+<td class="cuerpo_tabla_coma">53,80</td>
+<td class="cuerpo_tabla_coma">51,42</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">43,51</td>
+<td class="cuerpo_tabla_coma">43,58</td>
+<td class="cuerpo_tabla_coma">43,64</td>
+<td class="cuerpo_tabla_coma">43,71</td>
+<td class="cuerpo_tabla_coma">43,71</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">123,46</td>
+<td class="cuerpo_tabla_coma">123,46</td>
+<td class="cuerpo_tabla_coma">85,16</td>
+<td class="cuerpo_tabla_coma">85,16</td>
+<td class="cuerpo_tabla_coma">85,16</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos. SIEGA SOSTENIBLE.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">62,16</td>
+<td class="cuerpo_tabla_coma">59,09</td>
+<td class="cuerpo_tabla_coma">56,31</td>
+<td class="cuerpo_tabla_coma">53,80</td>
+<td class="cuerpo_tabla_coma">51,42</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">43,51</td>
+<td class="cuerpo_tabla_coma">43,58</td>
+<td class="cuerpo_tabla_coma">43,64</td>
+<td class="cuerpo_tabla_coma">43,71</td>
+<td class="cuerpo_tabla_coma">43,71</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">160,75</td>
+<td class="cuerpo_tabla_coma">160,75</td>
+<td class="cuerpo_tabla_coma">160,75</td>
+<td class="cuerpo_tabla_coma">160,75</td>
+<td class="cuerpo_tabla_coma">160,75</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos. PASTOREO EXTENSIVO.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">40,96</td>
+<td class="cuerpo_tabla_coma">38,92</td>
+<td class="cuerpo_tabla_coma">37,09</td>
+<td class="cuerpo_tabla_coma">35,43</td>
+<td class="cuerpo_tabla_coma">33,86</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">27,19</td>
+<td class="cuerpo_tabla_coma">27,23</td>
+<td class="cuerpo_tabla_coma">27,27</td>
+<td class="cuerpo_tabla_coma">27,31</td>
+<td class="cuerpo_tabla_coma">27,31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">94,97</td>
+<td class="cuerpo_tabla_coma">94,97</td>
+<td class="cuerpo_tabla_coma">94,97</td>
+<td class="cuerpo_tabla_coma">94,97</td>
+<td class="cuerpo_tabla_coma">94,97</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos. ISLAS DE BIODIVERSIDAD.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">40,96</td>
+<td class="cuerpo_tabla_coma">38,92</td>
+<td class="cuerpo_tabla_coma">37,09</td>
+<td class="cuerpo_tabla_coma">35,43</td>
+<td class="cuerpo_tabla_coma">33,86</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">27,19</td>
+<td class="cuerpo_tabla_coma">27,23</td>
+<td class="cuerpo_tabla_coma">27,27</td>
+<td class="cuerpo_tabla_coma">27,31</td>
+<td class="cuerpo_tabla_coma">27,31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">82,72</td>
+<td class="cuerpo_tabla_coma">82,72</td>
+<td class="cuerpo_tabla_coma">57,06</td>
+<td class="cuerpo_tabla_coma">57,06</td>
+<td class="cuerpo_tabla_coma">57,06</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos. SIEGA SOSTENIBLE.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">40,96</td>
+<td class="cuerpo_tabla_coma">38,92</td>
+<td class="cuerpo_tabla_coma">37,09</td>
+<td class="cuerpo_tabla_coma">35,43</td>
+<td class="cuerpo_tabla_coma">33,86</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">27,19</td>
+<td class="cuerpo_tabla_coma">27,23</td>
+<td class="cuerpo_tabla_coma">27,27</td>
+<td class="cuerpo_tabla_coma">27,31</td>
+<td class="cuerpo_tabla_coma">27,31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<em>MÁXIMO.</em>
+</td>
+<td class="cuerpo_tabla_coma">107,70</td>
+<td class="cuerpo_tabla_coma">107,70</td>
+<td class="cuerpo_tabla_coma">107,70</td>
+<td class="cuerpo_tabla_coma">107,70</td>
+<td class="cuerpo_tabla_coma">107,70</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos Insulares. PASTOREO EXTENSIVO.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">62,96</td>
+<td class="cuerpo_tabla_coma">60,92</td>
+<td class="cuerpo_tabla_coma">59,09</td>
+<td class="cuerpo_tabla_coma">57,43</td>
+<td class="cuerpo_tabla_coma">55,86</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">49,19</td>
+<td class="cuerpo_tabla_coma">49,23</td>
+<td class="cuerpo_tabla_coma">49,27</td>
+<td class="cuerpo_tabla_coma">49,31</td>
+<td class="cuerpo_tabla_coma">49,31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">116,97</td>
+<td class="cuerpo_tabla_coma">116,97</td>
+<td class="cuerpo_tabla_coma">116,97</td>
+<td class="cuerpo_tabla_coma">116,97</td>
+<td class="cuerpo_tabla_coma">116,97</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos Insulares. ISLAS DE BIODIVERSIDAD.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">62,96</td>
+<td class="cuerpo_tabla_coma">60,92</td>
+<td class="cuerpo_tabla_coma">59,09</td>
+<td class="cuerpo_tabla_coma">57,43</td>
+<td class="cuerpo_tabla_coma">55,86</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">49,19</td>
+<td class="cuerpo_tabla_coma">49,23</td>
+<td class="cuerpo_tabla_coma">49,27</td>
+<td class="cuerpo_tabla_coma">49,31</td>
+<td class="cuerpo_tabla_coma">49,31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">104,72</td>
+<td class="cuerpo_tabla_coma">104,72</td>
+<td class="cuerpo_tabla_coma">79,06</td>
+<td class="cuerpo_tabla_coma">79,06</td>
+<td class="cuerpo_tabla_coma">79,06</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos insulares. SIEGA SOSTENIBLE.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">62,96</td>
+<td class="cuerpo_tabla_coma">60,92</td>
+<td class="cuerpo_tabla_coma">59,09</td>
+<td class="cuerpo_tabla_coma">57,43</td>
+<td class="cuerpo_tabla_coma">55,86</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">49,19</td>
+<td class="cuerpo_tabla_coma">49,23</td>
+<td class="cuerpo_tabla_coma">49,27</td>
+<td class="cuerpo_tabla_coma">49,31</td>
+<td class="cuerpo_tabla_coma">49,31</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">129,76</td>
+<td class="cuerpo_tabla_coma">129,76</td>
+<td class="cuerpo_tabla_coma">129,76</td>
+<td class="cuerpo_tabla_coma">129,76</td>
+<td class="cuerpo_tabla_coma">129,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de secano.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">47,67</td>
+<td class="cuerpo_tabla_coma">45,94</td>
+<td class="cuerpo_tabla_coma">44,32</td>
+<td class="cuerpo_tabla_coma">42,81</td>
+<td class="cuerpo_tabla_coma">41,33</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<em>MÍNIMO.</em>
+</td>
+<td class="cuerpo_tabla_coma">24,63</td>
+<td class="cuerpo_tabla_coma">24,68</td>
+<td class="cuerpo_tabla_coma">24,72</td>
+<td class="cuerpo_tabla_coma">24,76</td>
+<td class="cuerpo_tabla_coma">24,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">105,56</td>
+<td class="cuerpo_tabla_coma">105,56</td>
+<td class="cuerpo_tabla_coma">105,56</td>
+<td class="cuerpo_tabla_coma">105,56</td>
+<td class="cuerpo_tabla_coma">105,56</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de secano.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">47,67</td>
+<td class="cuerpo_tabla_coma">45,94</td>
+<td class="cuerpo_tabla_coma">44,32</td>
+<td class="cuerpo_tabla_coma">42,81</td>
+<td class="cuerpo_tabla_coma">41,33</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">24,63</td>
+<td class="cuerpo_tabla_coma">24,68</td>
+<td class="cuerpo_tabla_coma">24,72</td>
+<td class="cuerpo_tabla_coma">24,76</td>
+<td class="cuerpo_tabla_coma">24,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">195</td>
+<td class="cuerpo_tabla_coma">195</td>
+<td class="cuerpo_tabla_coma">195</td>
+<td class="cuerpo_tabla_coma">195</td>
+<td class="cuerpo_tabla_coma">195</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de secano húmedo.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">85,72</td>
+<td class="cuerpo_tabla_coma">82,74</td>
+<td class="cuerpo_tabla_coma">79,96</td>
+<td class="cuerpo_tabla_coma">77,36</td>
+<td class="cuerpo_tabla_coma">74,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">46,02</td>
+<td class="cuerpo_tabla_coma">46,10</td>
+<td class="cuerpo_tabla_coma">46,18</td>
+<td class="cuerpo_tabla_coma">46,25</td>
+<td class="cuerpo_tabla_coma">46,25</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">114,07</td>
+<td class="cuerpo_tabla_coma">114,07</td>
+<td class="cuerpo_tabla_coma">114,07</td>
+<td class="cuerpo_tabla_coma">114,07</td>
+<td class="cuerpo_tabla_coma">114,07</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de secano húmedo.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">85,72</td>
+<td class="cuerpo_tabla_coma">82,74</td>
+<td class="cuerpo_tabla_coma">79,96</td>
+<td class="cuerpo_tabla_coma">77,36</td>
+<td class="cuerpo_tabla_coma">74,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">46,02</td>
+<td class="cuerpo_tabla_coma">46,10</td>
+<td class="cuerpo_tabla_coma">46,18</td>
+<td class="cuerpo_tabla_coma">46,25</td>
+<td class="cuerpo_tabla_coma">46,25</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">227</td>
+<td class="cuerpo_tabla_coma">227</td>
+<td class="cuerpo_tabla_coma">227</td>
+<td class="cuerpo_tabla_coma">227</td>
+<td class="cuerpo_tabla_coma">227</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de regadío.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">151,99</td>
+<td class="cuerpo_tabla_coma">146,81</td>
+<td class="cuerpo_tabla_coma">141,98</td>
+<td class="cuerpo_tabla_coma">137,46</td>
+<td class="cuerpo_tabla_coma">133,01</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">85,72</td>
+<td class="cuerpo_tabla_coma">83,14</td>
+<td class="cuerpo_tabla_coma">83,27</td>
+<td class="cuerpo_tabla_coma">83,40</td>
+<td class="cuerpo_tabla_coma">83,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">222</td>
+<td class="cuerpo_tabla_coma">222</td>
+<td class="cuerpo_tabla_coma">222</td>
+<td class="cuerpo_tabla_coma">222</td>
+<td class="cuerpo_tabla_coma">222</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de regadío.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">151,99</td>
+<td class="cuerpo_tabla_coma">146,81</td>
+<td class="cuerpo_tabla_coma">141,98</td>
+<td class="cuerpo_tabla_coma">137,46</td>
+<td class="cuerpo_tabla_coma">133,01</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">85,72</td>
+<td class="cuerpo_tabla_coma">83,14</td>
+<td class="cuerpo_tabla_coma">83,27</td>
+<td class="cuerpo_tabla_coma">83,40</td>
+<td class="cuerpo_tabla_coma">83,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">268</td>
+<td class="cuerpo_tabla_coma">268</td>
+<td class="cuerpo_tabla_coma">268</td>
+<td class="cuerpo_tabla_coma">268</td>
+<td class="cuerpo_tabla_coma">268</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de secano. Illes Balears.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">75,67</td>
+<td class="cuerpo_tabla_coma">73,94</td>
+<td class="cuerpo_tabla_coma">72,32</td>
+<td class="cuerpo_tabla_coma">70,81</td>
+<td class="cuerpo_tabla_coma">69,33</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">52,63</td>
+<td class="cuerpo_tabla_coma">52,68</td>
+<td class="cuerpo_tabla_coma">52,72</td>
+<td class="cuerpo_tabla_coma">52,76</td>
+<td class="cuerpo_tabla_coma">52,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">133,56</td>
+<td class="cuerpo_tabla_coma">133,56</td>
+<td class="cuerpo_tabla_coma">133,56</td>
+<td class="cuerpo_tabla_coma">133,56</td>
+<td class="cuerpo_tabla_coma">133,56</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de secano. Illes Balears.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">75,67</td>
+<td class="cuerpo_tabla_coma">73,94</td>
+<td class="cuerpo_tabla_coma">72,32</td>
+<td class="cuerpo_tabla_coma">70,81</td>
+<td class="cuerpo_tabla_coma">69,33</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">52,63</td>
+<td class="cuerpo_tabla_coma">52,68</td>
+<td class="cuerpo_tabla_coma">52,72</td>
+<td class="cuerpo_tabla_coma">52,76</td>
+<td class="cuerpo_tabla_coma">52,76</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">223</td>
+<td class="cuerpo_tabla_coma">223</td>
+<td class="cuerpo_tabla_coma">223</td>
+<td class="cuerpo_tabla_coma">223</td>
+<td class="cuerpo_tabla_coma">223</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de regadío. Illes Balears.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">231,99</td>
+<td class="cuerpo_tabla_coma">226,81</td>
+<td class="cuerpo_tabla_coma">221,98</td>
+<td class="cuerpo_tabla_coma">217,46</td>
+<td class="cuerpo_tabla_coma">217,46</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">165,72</td>
+<td class="cuerpo_tabla_coma">163,14</td>
+<td class="cuerpo_tabla_coma">163,27</td>
+<td class="cuerpo_tabla_coma">163,40</td>
+<td class="cuerpo_tabla_coma">163,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">302</td>
+<td class="cuerpo_tabla_coma">302</td>
+<td class="cuerpo_tabla_coma">302</td>
+<td class="cuerpo_tabla_coma">302</td>
+<td class="cuerpo_tabla_coma">302</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de regadío. Illes Balears.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">231,99</td>
+<td class="cuerpo_tabla_coma">226,81</td>
+<td class="cuerpo_tabla_coma">221,98</td>
+<td class="cuerpo_tabla_coma">217,46</td>
+<td class="cuerpo_tabla_coma">217,46</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">165,72</td>
+<td class="cuerpo_tabla_coma">163,14</td>
+<td class="cuerpo_tabla_coma">163,27</td>
+<td class="cuerpo_tabla_coma">163,40</td>
+<td class="cuerpo_tabla_coma">163,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">348</td>
+<td class="cuerpo_tabla_coma">348</td>
+<td class="cuerpo_tabla_coma">348</td>
+<td class="cuerpo_tabla_coma">348</td>
+<td class="cuerpo_tabla_coma">348</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos. Península. CUBIERTAS VEGETALES.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">61,07</td>
+<td class="cuerpo_tabla_coma">60,08</td>
+<td class="cuerpo_tabla_coma">59,12</td>
+<td class="cuerpo_tabla_coma">58,19</td>
+<td class="cuerpo_tabla_coma">57,18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">35,57</td>
+<td class="cuerpo_tabla_coma">35,64</td>
+<td class="cuerpo_tabla_coma">35,71</td>
+<td class="cuerpo_tabla_coma">35,78</td>
+<td class="cuerpo_tabla_coma">35,78</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">214,77</td>
+<td class="cuerpo_tabla_coma">214,77</td>
+<td class="cuerpo_tabla_coma">214,77</td>
+<td class="cuerpo_tabla_coma">214,77</td>
+<td class="cuerpo_tabla_coma">214,77</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos. Península. CUBIERTAS INERTES.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">61,07</td>
+<td class="cuerpo_tabla_coma">60,08</td>
+<td class="cuerpo_tabla_coma">59,12</td>
+<td class="cuerpo_tabla_coma">58,19</td>
+<td class="cuerpo_tabla_coma">57,18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">35,57</td>
+<td class="cuerpo_tabla_coma">35,64</td>
+<td class="cuerpo_tabla_coma">35,71</td>
+<td class="cuerpo_tabla_coma">35,78</td>
+<td class="cuerpo_tabla_coma">35,78</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">129,39</td>
+<td class="cuerpo_tabla_coma">129,39</td>
+<td class="cuerpo_tabla_coma">129,39</td>
+<td class="cuerpo_tabla_coma">129,39</td>
+<td class="cuerpo_tabla_coma">129,39</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media. Península. CUBIERTAS VEGETALES.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">113,95</td>
+<td class="cuerpo_tabla_coma">112,23</td>
+<td class="cuerpo_tabla_coma">110,56</td>
+<td class="cuerpo_tabla_coma">108,94</td>
+<td class="cuerpo_tabla_coma">107,20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">69,59</td>
+<td class="cuerpo_tabla_coma">69,71</td>
+<td class="cuerpo_tabla_coma">69,84</td>
+<td class="cuerpo_tabla_coma">69,96</td>
+<td class="cuerpo_tabla_coma">69,96</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">238,54</td>
+<td class="cuerpo_tabla_coma">238,54</td>
+<td class="cuerpo_tabla_coma">238,54</td>
+<td class="cuerpo_tabla_coma">238,54</td>
+<td class="cuerpo_tabla_coma">238,54</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media. Península. CUBIERTAS INERTES.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">113,95</td>
+<td class="cuerpo_tabla_coma">112,23</td>
+<td class="cuerpo_tabla_coma">110,56</td>
+<td class="cuerpo_tabla_coma">108,94</td>
+<td class="cuerpo_tabla_coma">107,20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">69,59</td>
+<td class="cuerpo_tabla_coma">69,71</td>
+<td class="cuerpo_tabla_coma">69,84</td>
+<td class="cuerpo_tabla_coma">69,96</td>
+<td class="cuerpo_tabla_coma">69,96</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">168,21</td>
+<td class="cuerpo_tabla_coma">168,21</td>
+<td class="cuerpo_tabla_coma">168,21</td>
+<td class="cuerpo_tabla_coma">168,21</td>
+<td class="cuerpo_tabla_coma">168,21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Península. CUBIERTAS VEGETALES.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">165,17</td>
+<td class="cuerpo_tabla_coma">162,74</td>
+<td class="cuerpo_tabla_coma">160,39</td>
+<td class="cuerpo_tabla_coma">158,11</td>
+<td class="cuerpo_tabla_coma">155,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">102,56</td>
+<td class="cuerpo_tabla_coma">102,73</td>
+<td class="cuerpo_tabla_coma">102,91</td>
+<td class="cuerpo_tabla_coma">103,08</td>
+<td class="cuerpo_tabla_coma">103,08</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">272,53</td>
+<td class="cuerpo_tabla_coma">272,53</td>
+<td class="cuerpo_tabla_coma">272,53</td>
+<td class="cuerpo_tabla_coma">272,53</td>
+<td class="cuerpo_tabla_coma">272,53</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Península. CUBIERTAS INERTES.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">165,17</td>
+<td class="cuerpo_tabla_coma">162,74</td>
+<td class="cuerpo_tabla_coma">160,39</td>
+<td class="cuerpo_tabla_coma">158,11</td>
+<td class="cuerpo_tabla_coma">155,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">102,56</td>
+<td class="cuerpo_tabla_coma">102,73</td>
+<td class="cuerpo_tabla_coma">102,91</td>
+<td class="cuerpo_tabla_coma">103,08</td>
+<td class="cuerpo_tabla_coma">103,08</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">223,72</td>
+<td class="cuerpo_tabla_coma">223,72</td>
+<td class="cuerpo_tabla_coma">223,72</td>
+<td class="cuerpo_tabla_coma">223,72</td>
+<td class="cuerpo_tabla_coma">223,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos. Illes Balears. CUBIERTAS VEGETALES.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">101,07</td>
+<td class="cuerpo_tabla_coma">100,08</td>
+<td class="cuerpo_tabla_coma">99,12</td>
+<td class="cuerpo_tabla_coma">98,19</td>
+<td class="cuerpo_tabla_coma">97,18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">75,57</td>
+<td class="cuerpo_tabla_coma">75,64</td>
+<td class="cuerpo_tabla_coma">75,71</td>
+<td class="cuerpo_tabla_coma">75,78</td>
+<td class="cuerpo_tabla_coma">75,78</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">254,77</td>
+<td class="cuerpo_tabla_coma">254,77</td>
+<td class="cuerpo_tabla_coma">254,77</td>
+<td class="cuerpo_tabla_coma">254,77</td>
+<td class="cuerpo_tabla_coma">254,77</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos. Illes Balears. CUBIERTAS INERTES.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">101,07</td>
+<td class="cuerpo_tabla_coma">100,08</td>
+<td class="cuerpo_tabla_coma">99,12</td>
+<td class="cuerpo_tabla_coma">98,19</td>
+<td class="cuerpo_tabla_coma">97,18</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">75,57</td>
+<td class="cuerpo_tabla_coma">75,64</td>
+<td class="cuerpo_tabla_coma">75,71</td>
+<td class="cuerpo_tabla_coma">75,78</td>
+<td class="cuerpo_tabla_coma">75,78</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">169,39</td>
+<td class="cuerpo_tabla_coma">169,39</td>
+<td class="cuerpo_tabla_coma">169,39</td>
+<td class="cuerpo_tabla_coma">169,39</td>
+<td class="cuerpo_tabla_coma">169,39</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media. Illes Balears. CUBIERTAS VEGETALES.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">177,95</td>
+<td class="cuerpo_tabla_coma">176,23</td>
+<td class="cuerpo_tabla_coma">174,56</td>
+<td class="cuerpo_tabla_coma">172,94</td>
+<td class="cuerpo_tabla_coma">171,20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">133,59</td>
+<td class="cuerpo_tabla_coma">133,71</td>
+<td class="cuerpo_tabla_coma">133,84</td>
+<td class="cuerpo_tabla_coma">133,96</td>
+<td class="cuerpo_tabla_coma">133,96</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">302,54</td>
+<td class="cuerpo_tabla_coma">302,54</td>
+<td class="cuerpo_tabla_coma">302,54</td>
+<td class="cuerpo_tabla_coma">302,54</td>
+<td class="cuerpo_tabla_coma">302,54</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media. I. Balears. CUBIERTAS INERTES.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">177,95</td>
+<td class="cuerpo_tabla_coma">176,23</td>
+<td class="cuerpo_tabla_coma">174,56</td>
+<td class="cuerpo_tabla_coma">172,94</td>
+<td class="cuerpo_tabla_coma">171,20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">133,59</td>
+<td class="cuerpo_tabla_coma">133,71</td>
+<td class="cuerpo_tabla_coma">133,84</td>
+<td class="cuerpo_tabla_coma">133,96</td>
+<td class="cuerpo_tabla_coma">133,96</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">232,21</td>
+<td class="cuerpo_tabla_coma">232,21</td>
+<td class="cuerpo_tabla_coma">232,21</td>
+<td class="cuerpo_tabla_coma">232,21</td>
+<td class="cuerpo_tabla_coma">232,21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Illes Balears. CUBIERTAS VEGETALES.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">253,17</td>
+<td class="cuerpo_tabla_coma">250,74</td>
+<td class="cuerpo_tabla_coma">248,39</td>
+<td class="cuerpo_tabla_coma">246,11</td>
+<td class="cuerpo_tabla_coma">243,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">190,56</td>
+<td class="cuerpo_tabla_coma">190,73</td>
+<td class="cuerpo_tabla_coma">190,91</td>
+<td class="cuerpo_tabla_coma">191,08</td>
+<td class="cuerpo_tabla_coma">191,08</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">360,53</td>
+<td class="cuerpo_tabla_coma">360,53</td>
+<td class="cuerpo_tabla_coma">360,53</td>
+<td class="cuerpo_tabla_coma">360,53</td>
+<td class="cuerpo_tabla_coma">360,53</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Illes Balears. CUBIERTAS INERTES.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">253,17</td>
+<td class="cuerpo_tabla_coma">250,74</td>
+<td class="cuerpo_tabla_coma">248,39</td>
+<td class="cuerpo_tabla_coma">246,11</td>
+<td class="cuerpo_tabla_coma">243,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">190,56</td>
+<td class="cuerpo_tabla_coma">190,73</td>
+<td class="cuerpo_tabla_coma">190,91</td>
+<td class="cuerpo_tabla_coma">191,08</td>
+<td class="cuerpo_tabla_coma">191,08</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">311,72</td>
+<td class="cuerpo_tabla_coma">311,72</td>
+<td class="cuerpo_tabla_coma">311,72</td>
+<td class="cuerpo_tabla_coma">311,72</td>
+<td class="cuerpo_tabla_coma">311,72</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agroecología: espacios de biodiversidad en tierras de cultivo y cultivos permanentes.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">56,04</td>
+<td class="cuerpo_tabla_coma">52,66</td>
+<td class="cuerpo_tabla_coma">49,67</td>
+<td class="cuerpo_tabla_coma">47,01</td>
+<td class="cuerpo_tabla_coma">44,56</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">8,51</td>
+<td class="cuerpo_tabla_coma">8,52</td>
+<td class="cuerpo_tabla_coma">8,53</td>
+<td class="cuerpo_tabla_coma">8,55</td>
+<td class="cuerpo_tabla_coma">8,55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">250</td>
+<td class="cuerpo_tabla_coma">250</td>
+<td class="cuerpo_tabla_coma">250</td>
+<td class="cuerpo_tabla_coma">250</td>
+<td class="cuerpo_tabla_coma">250</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Agroecología: espacios de biodiversidad en tierras de cultivo bajo agua.</td>
+<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
+<td class="cuerpo_tabla_coma">156,78</td>
+<td class="cuerpo_tabla_coma">155,19</td>
+<td class="cuerpo_tabla_coma">153,64</td>
+<td class="cuerpo_tabla_coma">152,13</td>
+<td class="cuerpo_tabla_coma">150,41</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÍNIMO.</td>
+<td class="cuerpo_tabla_coma">133,26</td>
+<td class="cuerpo_tabla_coma">133,47</td>
+<td class="cuerpo_tabla_coma">133,67</td>
+<td class="cuerpo_tabla_coma">133,87</td>
+<td class="cuerpo_tabla_coma">133,87</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MÁXIMO.</td>
+<td class="cuerpo_tabla_coma">250</td>
+<td class="cuerpo_tabla_coma">250</td>
+<td class="cuerpo_tabla_coma">250</td>
+<td class="cuerpo_tabla_coma">250</td>
+<td class="cuerpo_tabla_coma">250</td>
+</tr>
+</tbody>
+</table>
+
+Los importes unitarios de las prácticas de cubiertas vegetales y de siembra directa se verían incrementados en 25 euros por hectárea en el caso de que el agricultor se comprometa a llevar a cabo, alguna de las prácticas, el año siguiente.
+
+> Téngase en cuenta que esta modificación de los valores máximos, establecida por el art. 3.36 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404), será aplicable a partir de 2025.
+
+> Redacción anterior:
+
+> <table class="tabla">
+> <colgroup>
+> <col>
+> <col>
+> <col>
+> <col>
+> <col>
+> <col>
+> <col>
+> </colgroup>
+> <thead>
+> <tr>
+> <th class="cabeza_tabla">Ecorrégimen-tipo de superficie/práctica</th>
+> <th class="cabeza_tabla">Importe unitario</th>
+> <th class="cabeza_tabla">2023</th>
+> <th class="cabeza_tabla">2024</th>
+> <th class="cabeza_tabla">2025</th>
+> <th class="cabeza_tabla">2026</th>
+> <th class="cabeza_tabla">2027</th>
+> </tr>
+> </thead>
+> <tbody>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos.</p>
+> <p class="cuerpo_tabla_izq">PASTOREO EXTENSIVO.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">62,16</td>
+> <td class="cuerpo_tabla_coma">59,09</td>
+> <td class="cuerpo_tabla_coma">56,31</td>
+> <td class="cuerpo_tabla_coma">53,80</td>
+> <td class="cuerpo_tabla_coma">51,42</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">43,51</td>
+> <td class="cuerpo_tabla_coma">43,58</td>
+> <td class="cuerpo_tabla_coma">43,64</td>
+> <td class="cuerpo_tabla_coma">43,71</td>
+> <td class="cuerpo_tabla_coma">43,71</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">141,74</td>
+> <td class="cuerpo_tabla_coma">141,74</td>
+> <td class="cuerpo_tabla_coma">141,74</td>
+> <td class="cuerpo_tabla_coma">141,74</td>
+> <td class="cuerpo_tabla_coma">141,74</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos.</p>
+> <p class="cuerpo_tabla_izq">ISLAS DE BIODIVERSIDAD.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">62,16</td>
+> <td class="cuerpo_tabla_coma">59,09</td>
+> <td class="cuerpo_tabla_coma">56,31</td>
+> <td class="cuerpo_tabla_coma">53,80</td>
+> <td class="cuerpo_tabla_coma">51,42</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">43,51</td>
+> <td class="cuerpo_tabla_coma">43,58</td>
+> <td class="cuerpo_tabla_coma">43,64</td>
+> <td class="cuerpo_tabla_coma">43,71</td>
+> <td class="cuerpo_tabla_coma">43,71</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">123,46</td>
+> <td class="cuerpo_tabla_coma">123,46</td>
+> <td class="cuerpo_tabla_coma">123,46</td>
+> <td class="cuerpo_tabla_coma">123,46</td>
+> <td class="cuerpo_tabla_coma">123,46</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos.</p>
+> <p class="cuerpo_tabla_izq">SIEGA SOSTENIBLE.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">62,16</td>
+> <td class="cuerpo_tabla_coma">59,09</td>
+> <td class="cuerpo_tabla_coma">56,31</td>
+> <td class="cuerpo_tabla_coma">53,80</td>
+> <td class="cuerpo_tabla_coma">51,42</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">43,51</td>
+> <td class="cuerpo_tabla_coma">43,58</td>
+> <td class="cuerpo_tabla_coma">43,64</td>
+> <td class="cuerpo_tabla_coma">43,71</td>
+> <td class="cuerpo_tabla_coma">43,71</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">160,75</td>
+> <td class="cuerpo_tabla_coma">160,75</td>
+> <td class="cuerpo_tabla_coma">160,75</td>
+> <td class="cuerpo_tabla_coma">160,75</td>
+> <td class="cuerpo_tabla_coma">160,75</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos.</p>
+> <p class="cuerpo_tabla_izq">PASTOREO EXTENSIVO.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">40,96</td>
+> <td class="cuerpo_tabla_coma">38,92</td>
+> <td class="cuerpo_tabla_coma">37,09</td>
+> <td class="cuerpo_tabla_coma">35,43</td>
+> <td class="cuerpo_tabla_coma">33,86</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">27,19</td>
+> <td class="cuerpo_tabla_coma">27,23</td>
+> <td class="cuerpo_tabla_coma">27,27</td>
+> <td class="cuerpo_tabla_coma">27,31</td>
+> <td class="cuerpo_tabla_coma">27,31</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">94,97</td>
+> <td class="cuerpo_tabla_coma">94,97</td>
+> <td class="cuerpo_tabla_coma">94,97</td>
+> <td class="cuerpo_tabla_coma">94,97</td>
+> <td class="cuerpo_tabla_coma">94,97</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos.</p>
+> <p class="cuerpo_tabla_izq">ISLAS DE BIODIVERSIDAD.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">40,96</td>
+> <td class="cuerpo_tabla_coma">38,92</td>
+> <td class="cuerpo_tabla_coma">37,09</td>
+> <td class="cuerpo_tabla_coma">35,43</td>
+> <td class="cuerpo_tabla_coma">33,86</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">27,19</td>
+> <td class="cuerpo_tabla_coma">27,23</td>
+> <td class="cuerpo_tabla_coma">27,27</td>
+> <td class="cuerpo_tabla_coma">27,31</td>
+> <td class="cuerpo_tabla_coma">27,31</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">82,72</td>
+> <td class="cuerpo_tabla_coma">82,72</td>
+> <td class="cuerpo_tabla_coma">82,72</td>
+> <td class="cuerpo_tabla_coma">82,72</td>
+> <td class="cuerpo_tabla_coma">82,72</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos.</p>
+> <p class="cuerpo_tabla_izq">SIEGA SOSTENIBLE.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">40,96</td>
+> <td class="cuerpo_tabla_coma">38,92</td>
+> <td class="cuerpo_tabla_coma">37,09</td>
+> <td class="cuerpo_tabla_coma">35,43</td>
+> <td class="cuerpo_tabla_coma">33,86</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">27,19</td>
+> <td class="cuerpo_tabla_coma">27,23</td>
+> <td class="cuerpo_tabla_coma">27,27</td>
+> <td class="cuerpo_tabla_coma">27,31</td>
+> <td class="cuerpo_tabla_coma">27,31</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">107,70</td>
+> <td class="cuerpo_tabla_coma">107,70</td>
+> <td class="cuerpo_tabla_coma">107,70</td>
+> <td class="cuerpo_tabla_coma">107,70</td>
+> <td class="cuerpo_tabla_coma">107,70</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos Insulares.</p>
+> <p class="cuerpo_tabla_izq">PASTOREO EXTENSIVO.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">62,96</td>
+> <td class="cuerpo_tabla_coma">60,92</td>
+> <td class="cuerpo_tabla_coma">59,09</td>
+> <td class="cuerpo_tabla_coma">57,43</td>
+> <td class="cuerpo_tabla_coma">55,86</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">49,19</td>
+> <td class="cuerpo_tabla_coma">49,23</td>
+> <td class="cuerpo_tabla_coma">49,27</td>
+> <td class="cuerpo_tabla_coma">49,31</td>
+> <td class="cuerpo_tabla_coma">49,31</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">116,97</td>
+> <td class="cuerpo_tabla_coma">116,97</td>
+> <td class="cuerpo_tabla_coma">116,97</td>
+> <td class="cuerpo_tabla_coma">116,97</td>
+> <td class="cuerpo_tabla_coma">116,97</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos Insulares.</p>
+> <p class="cuerpo_tabla_izq">ISLAS DE BIODIVERSIDAD.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">62,96</td>
+> <td class="cuerpo_tabla_coma">60,92</td>
+> <td class="cuerpo_tabla_coma">59,09</td>
+> <td class="cuerpo_tabla_coma">57,43</td>
+> <td class="cuerpo_tabla_coma">55,86</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">49,19</td>
+> <td class="cuerpo_tabla_coma">49,23</td>
+> <td class="cuerpo_tabla_coma">49,27</td>
+> <td class="cuerpo_tabla_coma">49,31</td>
+> <td class="cuerpo_tabla_coma">49,31</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">104,72</td>
+> <td class="cuerpo_tabla_coma">104,72</td>
+> <td class="cuerpo_tabla_coma">104,72</td>
+> <td class="cuerpo_tabla_coma">104,72</td>
+> <td class="cuerpo_tabla_coma">104,72</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos insulares.</p>
+> <p class="cuerpo_tabla_izq">SIEGA SOSTENIBLE.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">62,96</td>
+> <td class="cuerpo_tabla_coma">60,92</td>
+> <td class="cuerpo_tabla_coma">59,09</td>
+> <td class="cuerpo_tabla_coma">57,43</td>
+> <td class="cuerpo_tabla_coma">55,86</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">49,19</td>
+> <td class="cuerpo_tabla_coma">49,23</td>
+> <td class="cuerpo_tabla_coma">49,27</td>
+> <td class="cuerpo_tabla_coma">49,31</td>
+> <td class="cuerpo_tabla_coma">49,31</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">129,76</td>
+> <td class="cuerpo_tabla_coma">129,76</td>
+> <td class="cuerpo_tabla_coma">129,76</td>
+> <td class="cuerpo_tabla_coma">129,76</td>
+> <td class="cuerpo_tabla_coma">129,76</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de secano.</td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">47,67</td>
+> <td class="cuerpo_tabla_coma">45,94</td>
+> <td class="cuerpo_tabla_coma">44,32</td>
+> <td class="cuerpo_tabla_coma">42,81</td>
+> <td class="cuerpo_tabla_coma">41,33</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">24,63</td>
+> <td class="cuerpo_tabla_coma">24,68</td>
+> <td class="cuerpo_tabla_coma">24,72</td>
+> <td class="cuerpo_tabla_coma">24,76</td>
+> <td class="cuerpo_tabla_coma">24,76</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">105,56</td>
+> <td class="cuerpo_tabla_coma">105,56</td>
+> <td class="cuerpo_tabla_coma">105,56</td>
+> <td class="cuerpo_tabla_coma">105,56</td>
+> <td class="cuerpo_tabla_coma">105,56</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de secano.</td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">47,67</td>
+> <td class="cuerpo_tabla_coma">45,94</td>
+> <td class="cuerpo_tabla_coma">44,32</td>
+> <td class="cuerpo_tabla_coma">42,81</td>
+> <td class="cuerpo_tabla_coma">41,33</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">24,63</td>
+> <td class="cuerpo_tabla_coma">24,68</td>
+> <td class="cuerpo_tabla_coma">24,72</td>
+> <td class="cuerpo_tabla_coma">24,76</td>
+> <td class="cuerpo_tabla_coma">24,76</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">195</td>
+> <td class="cuerpo_tabla_coma">195</td>
+> <td class="cuerpo_tabla_coma">195</td>
+> <td class="cuerpo_tabla_coma">195</td>
+> <td class="cuerpo_tabla_coma">195</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de secano húmedo.</td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">85,72</td>
+> <td class="cuerpo_tabla_coma">82,74</td>
+> <td class="cuerpo_tabla_coma">79,96</td>
+> <td class="cuerpo_tabla_coma">77,36</td>
+> <td class="cuerpo_tabla_coma">74,80</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">46,02</td>
+> <td class="cuerpo_tabla_coma">46,10</td>
+> <td class="cuerpo_tabla_coma">46,18</td>
+> <td class="cuerpo_tabla_coma">46,25</td>
+> <td class="cuerpo_tabla_coma">46,25</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">114,07</td>
+> <td class="cuerpo_tabla_coma">114,07</td>
+> <td class="cuerpo_tabla_coma">114,07</td>
+> <td class="cuerpo_tabla_coma">114,07</td>
+> <td class="cuerpo_tabla_coma">114,07</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de secano húmedo.</td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">85,72</td>
+> <td class="cuerpo_tabla_coma">82,74</td>
+> <td class="cuerpo_tabla_coma">79,96</td>
+> <td class="cuerpo_tabla_coma">77,36</td>
+> <td class="cuerpo_tabla_coma">74,80</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">46,02</td>
+> <td class="cuerpo_tabla_coma">46,10</td>
+> <td class="cuerpo_tabla_coma">46,18</td>
+> <td class="cuerpo_tabla_coma">46,25</td>
+> <td class="cuerpo_tabla_coma">46,25</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">227</td>
+> <td class="cuerpo_tabla_coma">227</td>
+> <td class="cuerpo_tabla_coma">227</td>
+> <td class="cuerpo_tabla_coma">227</td>
+> <td class="cuerpo_tabla_coma">227</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de regadío.</td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">151,99</td>
+> <td class="cuerpo_tabla_coma">146,81</td>
+> <td class="cuerpo_tabla_coma">141,98</td>
+> <td class="cuerpo_tabla_coma">137,46</td>
+> <td class="cuerpo_tabla_coma">133,01</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">85,72</td>
+> <td class="cuerpo_tabla_coma">83,14</td>
+> <td class="cuerpo_tabla_coma">83,27</td>
+> <td class="cuerpo_tabla_coma">83,40</td>
+> <td class="cuerpo_tabla_coma">83,40</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">222</td>
+> <td class="cuerpo_tabla_coma">222</td>
+> <td class="cuerpo_tabla_coma">222</td>
+> <td class="cuerpo_tabla_coma">222</td>
+> <td class="cuerpo_tabla_coma">222</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de regadío.</td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">151,99</td>
+> <td class="cuerpo_tabla_coma">146,81</td>
+> <td class="cuerpo_tabla_coma">141,98</td>
+> <td class="cuerpo_tabla_coma">137,46</td>
+> <td class="cuerpo_tabla_coma">133,01</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">85,72</td>
+> <td class="cuerpo_tabla_coma">83,14</td>
+> <td class="cuerpo_tabla_coma">83,27</td>
+> <td class="cuerpo_tabla_coma">83,40</td>
+> <td class="cuerpo_tabla_coma">83,40</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">268</td>
+> <td class="cuerpo_tabla_coma">268</td>
+> <td class="cuerpo_tabla_coma">268</td>
+> <td class="cuerpo_tabla_coma">268</td>
+> <td class="cuerpo_tabla_coma">268</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de secano. Islas Baleares.</td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">75,67</td>
+> <td class="cuerpo_tabla_coma">73,94</td>
+> <td class="cuerpo_tabla_coma">72,32</td>
+> <td class="cuerpo_tabla_coma">70,81</td>
+> <td class="cuerpo_tabla_coma">69,33</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">52,63</td>
+> <td class="cuerpo_tabla_coma">52,68</td>
+> <td class="cuerpo_tabla_coma">52,72</td>
+> <td class="cuerpo_tabla_coma">52,76</td>
+> <td class="cuerpo_tabla_coma">52,76</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">133,56</td>
+> <td class="cuerpo_tabla_coma">133,56</td>
+> <td class="cuerpo_tabla_coma">133,56</td>
+> <td class="cuerpo_tabla_coma">133,56</td>
+> <td class="cuerpo_tabla_coma">133,56</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de secano. Islas Baleares.</td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">75,67</td>
+> <td class="cuerpo_tabla_coma">73,94</td>
+> <td class="cuerpo_tabla_coma">72,32</td>
+> <td class="cuerpo_tabla_coma">70,81</td>
+> <td class="cuerpo_tabla_coma">69,33</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">52,63</td>
+> <td class="cuerpo_tabla_coma">52,68</td>
+> <td class="cuerpo_tabla_coma">52,72</td>
+> <td class="cuerpo_tabla_coma">52,76</td>
+> <td class="cuerpo_tabla_coma">52,76</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">223</td>
+> <td class="cuerpo_tabla_coma">223</td>
+> <td class="cuerpo_tabla_coma">223</td>
+> <td class="cuerpo_tabla_coma">223</td>
+> <td class="cuerpo_tabla_coma">223</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de regadío Islas Baleares.</td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">231,99</td>
+> <td class="cuerpo_tabla_coma">226,81</td>
+> <td class="cuerpo_tabla_coma">221,98</td>
+> <td class="cuerpo_tabla_coma">217,46</td>
+> <td class="cuerpo_tabla_coma">217,46</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">165,72</td>
+> <td class="cuerpo_tabla_coma">163,14</td>
+> <td class="cuerpo_tabla_coma">163,27</td>
+> <td class="cuerpo_tabla_coma">163,40</td>
+> <td class="cuerpo_tabla_coma">163,40</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">302</td>
+> <td class="cuerpo_tabla_coma">302</td>
+> <td class="cuerpo_tabla_coma">302</td>
+> <td class="cuerpo_tabla_coma">302</td>
+> <td class="cuerpo_tabla_coma">302</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de regadío Islas Baleares.</td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">231,99</td>
+> <td class="cuerpo_tabla_coma">226,81</td>
+> <td class="cuerpo_tabla_coma">221,98</td>
+> <td class="cuerpo_tabla_coma">217,46</td>
+> <td class="cuerpo_tabla_coma">217,46</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">165,72</td>
+> <td class="cuerpo_tabla_coma">163,14</td>
+> <td class="cuerpo_tabla_coma">163,27</td>
+> <td class="cuerpo_tabla_coma">163,40</td>
+> <td class="cuerpo_tabla_coma">163,40</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">348</td>
+> <td class="cuerpo_tabla_coma">348</td>
+> <td class="cuerpo_tabla_coma">348</td>
+> <td class="cuerpo_tabla_coma">348</td>
+> <td class="cuerpo_tabla_coma">348</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos.</p>
+> <p class="cuerpo_tabla_izq">Península.</p>
+> <p class="cuerpo_tabla_izq">CUBIERTAS VEGETALES.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">61,07</td>
+> <td class="cuerpo_tabla_coma">60,08</td>
+> <td class="cuerpo_tabla_coma">59,12</td>
+> <td class="cuerpo_tabla_coma">58,19</td>
+> <td class="cuerpo_tabla_coma">57,18</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">35,57</td>
+> <td class="cuerpo_tabla_coma">35,64</td>
+> <td class="cuerpo_tabla_coma">35,71</td>
+> <td class="cuerpo_tabla_coma">35,78</td>
+> <td class="cuerpo_tabla_coma">35,78</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">214,77</td>
+> <td class="cuerpo_tabla_coma">214,77</td>
+> <td class="cuerpo_tabla_coma">214,77</td>
+> <td class="cuerpo_tabla_coma">214,77</td>
+> <td class="cuerpo_tabla_coma">214,77</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos.</p>
+> <p class="cuerpo_tabla_izq">Península.</p>
+> <p class="cuerpo_tabla_izq">CUBIERTAS INERTES.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">61,07</td>
+> <td class="cuerpo_tabla_coma">60,08</td>
+> <td class="cuerpo_tabla_coma">59,12</td>
+> <td class="cuerpo_tabla_coma">58,19</td>
+> <td class="cuerpo_tabla_coma">57,18</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">35,57</td>
+> <td class="cuerpo_tabla_coma">35,64</td>
+> <td class="cuerpo_tabla_coma">35,71</td>
+> <td class="cuerpo_tabla_coma">35,78</td>
+> <td class="cuerpo_tabla_coma">35,78</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">129,39</td>
+> <td class="cuerpo_tabla_coma">129,39</td>
+> <td class="cuerpo_tabla_coma">129,39</td>
+> <td class="cuerpo_tabla_coma">129,39</td>
+> <td class="cuerpo_tabla_coma">129,39</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media.</p>
+> <p class="cuerpo_tabla_izq">Península.</p>
+> <p class="cuerpo_tabla_izq">CUBIERTAS VEGETALES.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">113,95</td>
+> <td class="cuerpo_tabla_coma">112,23</td>
+> <td class="cuerpo_tabla_coma">110,56</td>
+> <td class="cuerpo_tabla_coma">108,94</td>
+> <td class="cuerpo_tabla_coma">107,20</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">69,59</td>
+> <td class="cuerpo_tabla_coma">69,71</td>
+> <td class="cuerpo_tabla_coma">69,84</td>
+> <td class="cuerpo_tabla_coma">69,96</td>
+> <td class="cuerpo_tabla_coma">69,96</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">238,54</td>
+> <td class="cuerpo_tabla_coma">238,54</td>
+> <td class="cuerpo_tabla_coma">238,54</td>
+> <td class="cuerpo_tabla_coma">238,54</td>
+> <td class="cuerpo_tabla_coma">238,54</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media.</p>
+> <p class="cuerpo_tabla_izq">Península.</p>
+> <p class="cuerpo_tabla_izq">CUBIERTAS INERTES.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">113,95</td>
+> <td class="cuerpo_tabla_coma">112,23</td>
+> <td class="cuerpo_tabla_coma">110,56</td>
+> <td class="cuerpo_tabla_coma">108,94</td>
+> <td class="cuerpo_tabla_coma">107,20</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">69,59</td>
+> <td class="cuerpo_tabla_coma">69,71</td>
+> <td class="cuerpo_tabla_coma">69,84</td>
+> <td class="cuerpo_tabla_coma">69,96</td>
+> <td class="cuerpo_tabla_coma">69,96</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">168,21</td>
+> <td class="cuerpo_tabla_coma">168,21</td>
+> <td class="cuerpo_tabla_coma">168,21</td>
+> <td class="cuerpo_tabla_coma">168,21</td>
+> <td class="cuerpo_tabla_coma">168,21</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Península.</p>
+> <p class="cuerpo_tabla_izq">CUBIERTAS VEGETALES.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">165,17</td>
+> <td class="cuerpo_tabla_coma">162,74</td>
+> <td class="cuerpo_tabla_coma">160,39</td>
+> <td class="cuerpo_tabla_coma">158,11</td>
+> <td class="cuerpo_tabla_coma">155,64</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">102,56</td>
+> <td class="cuerpo_tabla_coma">102,73</td>
+> <td class="cuerpo_tabla_coma">102,91</td>
+> <td class="cuerpo_tabla_coma">103,08</td>
+> <td class="cuerpo_tabla_coma">103,08</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">272,53</td>
+> <td class="cuerpo_tabla_coma">272,53</td>
+> <td class="cuerpo_tabla_coma">272,53</td>
+> <td class="cuerpo_tabla_coma">272,53</td>
+> <td class="cuerpo_tabla_coma">272,53</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Península.</p>
+> <p class="cuerpo_tabla_izq">CUBIERTAS INERTES.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">165,17</td>
+> <td class="cuerpo_tabla_coma">162,74</td>
+> <td class="cuerpo_tabla_coma">160,39</td>
+> <td class="cuerpo_tabla_coma">158,11</td>
+> <td class="cuerpo_tabla_coma">155,64</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">102,56</td>
+> <td class="cuerpo_tabla_coma">102,73</td>
+> <td class="cuerpo_tabla_coma">102,91</td>
+> <td class="cuerpo_tabla_coma">103,08</td>
+> <td class="cuerpo_tabla_coma">103,08</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">223,72</td>
+> <td class="cuerpo_tabla_coma">223,72</td>
+> <td class="cuerpo_tabla_coma">223,72</td>
+> <td class="cuerpo_tabla_coma">223,72</td>
+> <td class="cuerpo_tabla_coma">223,72</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos.</p>
+> <p class="cuerpo_tabla_izq">I. Baleares.</p>
+> <p class="cuerpo_tabla_izq">CUBIERTAS VEGETALES.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">101,07</td>
+> <td class="cuerpo_tabla_coma">100,08</td>
+> <td class="cuerpo_tabla_coma">99,12</td>
+> <td class="cuerpo_tabla_coma">98,19</td>
+> <td class="cuerpo_tabla_coma">97,18</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">75,57</td>
+> <td class="cuerpo_tabla_coma">75,64</td>
+> <td class="cuerpo_tabla_coma">75,71</td>
+> <td class="cuerpo_tabla_coma">75,78</td>
+> <td class="cuerpo_tabla_coma">75,78</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">254,77</td>
+> <td class="cuerpo_tabla_coma">254,77</td>
+> <td class="cuerpo_tabla_coma">254,77</td>
+> <td class="cuerpo_tabla_coma">254,77</td>
+> <td class="cuerpo_tabla_coma">254,77</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos.</p>
+> <p class="cuerpo_tabla_izq">I. Baleares.</p>
+> <p class="cuerpo_tabla_izq">CUBIERTAS INERTES.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">101,07</td>
+> <td class="cuerpo_tabla_coma">100,08</td>
+> <td class="cuerpo_tabla_coma">99,12</td>
+> <td class="cuerpo_tabla_coma">98,19</td>
+> <td class="cuerpo_tabla_coma">97,18</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">75,57</td>
+> <td class="cuerpo_tabla_coma">75,64</td>
+> <td class="cuerpo_tabla_coma">75,71</td>
+> <td class="cuerpo_tabla_coma">75,78</td>
+> <td class="cuerpo_tabla_coma">75,78</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">169,39</td>
+> <td class="cuerpo_tabla_coma">169,39</td>
+> <td class="cuerpo_tabla_coma">169,39</td>
+> <td class="cuerpo_tabla_coma">169,39</td>
+> <td class="cuerpo_tabla_coma">169,39</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media.</p>
+> <p class="cuerpo_tabla_izq">I. Baleares.</p>
+> <p class="cuerpo_tabla_izq">CUBIERTAS VEGETALES.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">177,95</td>
+> <td class="cuerpo_tabla_coma">176,23</td>
+> <td class="cuerpo_tabla_coma">174,56</td>
+> <td class="cuerpo_tabla_coma">172,94</td>
+> <td class="cuerpo_tabla_coma">171,20</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">133,59</td>
+> <td class="cuerpo_tabla_coma">133,71</td>
+> <td class="cuerpo_tabla_coma">133,84</td>
+> <td class="cuerpo_tabla_coma">133,96</td>
+> <td class="cuerpo_tabla_coma">133,96</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">302,54</td>
+> <td class="cuerpo_tabla_coma">302,54</td>
+> <td class="cuerpo_tabla_coma">302,54</td>
+> <td class="cuerpo_tabla_coma">302,54</td>
+> <td class="cuerpo_tabla_coma">302,54</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media.</p>
+> <p class="cuerpo_tabla_izq">I. Baleares.</p>
+> <p class="cuerpo_tabla_izq">CUBIERTAS INERTES.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">177,95</td>
+> <td class="cuerpo_tabla_coma">176,23</td>
+> <td class="cuerpo_tabla_coma">174,56</td>
+> <td class="cuerpo_tabla_coma">172,94</td>
+> <td class="cuerpo_tabla_coma">171,20</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">133,59</td>
+> <td class="cuerpo_tabla_coma">133,71</td>
+> <td class="cuerpo_tabla_coma">133,84</td>
+> <td class="cuerpo_tabla_coma">133,96</td>
+> <td class="cuerpo_tabla_coma">133,96</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">232,21</td>
+> <td class="cuerpo_tabla_coma">232,21</td>
+> <td class="cuerpo_tabla_coma">232,21</td>
+> <td class="cuerpo_tabla_coma">232,21</td>
+> <td class="cuerpo_tabla_coma">232,21</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales.</p>
+> <p class="cuerpo_tabla_izq">I. Baleares.</p>
+> <p class="cuerpo_tabla_izq">CUBIERTAS VEGETALES.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">253,17</td>
+> <td class="cuerpo_tabla_coma">250,74</td>
+> <td class="cuerpo_tabla_coma">248,39</td>
+> <td class="cuerpo_tabla_coma">246,11</td>
+> <td class="cuerpo_tabla_coma">243,64</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">190,56</td>
+> <td class="cuerpo_tabla_coma">190,73</td>
+> <td class="cuerpo_tabla_coma">190,91</td>
+> <td class="cuerpo_tabla_coma">191,08</td>
+> <td class="cuerpo_tabla_coma">191,08</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">360,53</td>
+> <td class="cuerpo_tabla_coma">360,53</td>
+> <td class="cuerpo_tabla_coma">360,53</td>
+> <td class="cuerpo_tabla_coma">360,53</td>
+> <td class="cuerpo_tabla_coma">360,53</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">
+> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales.</p>
+> <p class="cuerpo_tabla_izq">I. Baleares.</p>
+> <p class="cuerpo_tabla_izq">CUBIERTAS INERTES.</p>
+> </td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">253,17</td>
+> <td class="cuerpo_tabla_coma">250,74</td>
+> <td class="cuerpo_tabla_coma">248,39</td>
+> <td class="cuerpo_tabla_coma">246,11</td>
+> <td class="cuerpo_tabla_coma">243,64</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">190,56</td>
+> <td class="cuerpo_tabla_coma">190,73</td>
+> <td class="cuerpo_tabla_coma">190,91</td>
+> <td class="cuerpo_tabla_coma">191,08</td>
+> <td class="cuerpo_tabla_coma">191,08</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">311,72</td>
+> <td class="cuerpo_tabla_coma">311,72</td>
+> <td class="cuerpo_tabla_coma">311,72</td>
+> <td class="cuerpo_tabla_coma">311,72</td>
+> <td class="cuerpo_tabla_coma">311,72</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">Agroecología: espacios de biodiversidad en tierras de cultivo y cultivos permanentes.</td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">56,04</td>
+> <td class="cuerpo_tabla_coma">52,66</td>
+> <td class="cuerpo_tabla_coma">49,67</td>
+> <td class="cuerpo_tabla_coma">47,01</td>
+> <td class="cuerpo_tabla_coma">44,56</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">8,51</td>
+> <td class="cuerpo_tabla_coma">8,52</td>
+> <td class="cuerpo_tabla_coma">8,53</td>
+> <td class="cuerpo_tabla_coma">8,55</td>
+> <td class="cuerpo_tabla_coma">8,55</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">250</td>
+> <td class="cuerpo_tabla_coma">250</td>
+> <td class="cuerpo_tabla_coma">250</td>
+> <td class="cuerpo_tabla_coma">250</td>
+> <td class="cuerpo_tabla_coma">250</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq" rowspan="3">Agroecología: espacios de biodiversidad en tierras de cultivo bajo agua.</td>
+> <td class="cuerpo_tabla_izq">Planificado.</td>
+> <td class="cuerpo_tabla_coma">156,78</td>
+> <td class="cuerpo_tabla_coma">155,19</td>
+> <td class="cuerpo_tabla_coma">153,64</td>
+> <td class="cuerpo_tabla_coma">152,13</td>
+> <td class="cuerpo_tabla_coma">150,41</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Mínimo.</td>
+> <td class="cuerpo_tabla_coma">133,26</td>
+> <td class="cuerpo_tabla_coma">133,47</td>
+> <td class="cuerpo_tabla_coma">133,67</td>
+> <td class="cuerpo_tabla_coma">133,87</td>
+> <td class="cuerpo_tabla_coma">133,87</td>
+> </tr>
+> <tr>
+> <td class="cuerpo_tabla_izq">Máximo.</td>
+> <td class="cuerpo_tabla_coma">250</td>
+> <td class="cuerpo_tabla_coma">250</td>
+> <td class="cuerpo_tabla_coma">250</td>
+> <td class="cuerpo_tabla_coma">250</td>
+> <td class="cuerpo_tabla_coma">250</td>
+> </tr>
+> </tbody>
+> </table>
+
+> Los importes unitarios de las prácticas de cubiertas vegetales y de siembra directa se verían incrementados en 25 euros por hectárea en el caso de que el agricultor se comprometa a llevar a cabo, alguna de las prácticas, el año siguiente.
+
+> Se modifican los valores máximos, con efectos a partir de 2025, por el art. 3.36 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+## ANEXO XI — Dotación financiera anual indicativa para cada ecorrégimen (euros)
+
+| Ecorrégimen-tipo de superficie | 2023 | 2024 | 2025 | 2026 | 2027 |
+|---|---|---|---|---|---|
+| Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos. | 103.168.071 | 103.324.470 | 103.480.869 | 103.637.267 | 103.637.267 |
+| Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos. | 115.305.912 | 115.480.712 | 115.655.511 | 115.830.310 | 115.830.310 |
+| Agricultura de carbono y agroecología: Rotación con especies mejorantes y siembra directa en tierras de cultivo de secano. | 234.845.259 | 235.201.277 | 235.557.292 | 235.913.307 | 235.913.307 |
+| Agricultura de carbono y agroecología: Rotación con especies mejorantes y siembra directa en tierras de cultivo de secano húmedo. | 37.456.883 | 37.513.667 | 37.570.450 | 37.627.233 | 37.627.233 |
+| Agricultura de carbono y agroecología: Rotación con especies mejorantes y siembra directa en tierras de cultivo de regadío. | 171.471.478 | 171.731.424 | 171.991.367 | 172.251.310 | 172.251.310 |
+| Agricultura de carbono: Cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos. | 73.205.212 | 73.316.189 | 73.427.165 | 73.538.141 | 73.538.141 |
+| Agricultura de carbono: Cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media. | 79.390.381 | 79.510.734 | 79.631.086 | 79.751.439 | 79.751.439 |
+| Agricultura de carbono: Cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. | 154.962.683 | 155.197.601 | 155.432.518 | 155.667.435 | 155.667.435 |
+| Agroecología: Espacios de biodiversidad en tierras de cultivo y cultivos permanentes. | 123.741.630 | 123.929.218 | 124.116.805 | 124.304.392 | 124.304.392 |
+| Agroecología: Espacios de biodiversidad en tierras de cultivo bajo agua | 13.945.973 | 13.967.115 | 13.988.256 | 14.009.398 | 14.009.398 |
+
+> Se modifica por el art. 3.40 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+## ANEXO XII — Umbrales para la degresividad a que se refiere el artículo 25 (hectáreas)
+
+| Pastos húmedos. | 65 |
+|---|---|
+| Pastos mediterráneos. | 95 |
+| Tierras de cultivo de secano. | 70 |
+| Tierras de cultivo de secano húmedo. | 30 |
+| Tierras de cultivo de regadío. | 25 |
+| Cultivos leñosos en terrenos llanos (pendiente inferior al 5 %). | 15 |
+| Cultivos leñosos en pendiente media (igual o mayor al 5 % e inferior al 10 %). | 15 |
+| Cultivos leñosos en elevada pendiente (igual o mayor al 10 %). | 15 |
+
+## ANEXO XIII — Listado de comarcas con pluviometría media de diez años igual o superior a 650 mm a los efectos de determinar la superficie de pastos húmedos y de tierra de cultivo de secano húmedo
+
+<table class="tabla" data-omitir-repetir-tfoot="true">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">CCAA</th>
+<th class="cabeza_tabla">Provincia</th>
+<th class="cabeza_tabla">Código Comarca</th>
+<th class="cabeza_tabla">Denominación Comarca</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Andalucía.</td>
+<td class="cuerpo_tabla_izq">Cádiz.</td>
+<td class="cuerpo_tabla_centro">1101</td>
+<td class="cuerpo_tabla_izq">CAMPIÑA DE CÁDIZ.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Andalucía.</td>
+<td class="cuerpo_tabla_izq">Cádiz.</td>
+<td class="cuerpo_tabla_centro">1103</td>
+<td class="cuerpo_tabla_izq">SIERRA DE CÁDIZ.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Andalucía.</td>
+<td class="cuerpo_tabla_izq">Cádiz.</td>
+<td class="cuerpo_tabla_centro">1104</td>
+<td class="cuerpo_tabla_izq">DE LA JANDA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Andalucía.</td>
+<td class="cuerpo_tabla_izq">Cádiz.</td>
+<td class="cuerpo_tabla_centro">1105</td>
+<td class="cuerpo_tabla_izq">CAMPO DE GIBRALTAR.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Andalucía.</td>
+<td class="cuerpo_tabla_izq">Huelva.</td>
+<td class="cuerpo_tabla_centro">2101</td>
+<td class="cuerpo_tabla_izq">SIERRA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Andalucía.</td>
+<td class="cuerpo_tabla_izq">Huelva.</td>
+<td class="cuerpo_tabla_centro">2103</td>
+<td class="cuerpo_tabla_izq">ANDEVALO ORIENTAL.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Andalucía.</td>
+<td class="cuerpo_tabla_izq">Jaén.</td>
+<td class="cuerpo_tabla_centro">2303</td>
+<td class="cuerpo_tabla_izq">SIERRA DE SEGURA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Andalucía.</td>
+<td class="cuerpo_tabla_izq">Málaga.</td>
+<td class="cuerpo_tabla_centro">2902</td>
+<td class="cuerpo_tabla_izq">SERRANÍA DE RONDA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Aragón.</td>
+<td class="cuerpo_tabla_izq">Huesca.</td>
+<td class="cuerpo_tabla_centro">2201</td>
+<td class="cuerpo_tabla_izq">JACETANIA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Aragón.</td>
+<td class="cuerpo_tabla_izq">Huesca.</td>
+<td class="cuerpo_tabla_centro">2202</td>
+<td class="cuerpo_tabla_izq">SOBRARBE.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Aragón.</td>
+<td class="cuerpo_tabla_izq">Huesca.</td>
+<td class="cuerpo_tabla_centro">2203</td>
+<td class="cuerpo_tabla_izq">RIBARGORZA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
+<td class="cuerpo_tabla_izq">Asturias.</td>
+<td class="cuerpo_tabla_centro">3301</td>
+<td class="cuerpo_tabla_izq">VEGADEO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
+<td class="cuerpo_tabla_izq">Asturias.</td>
+<td class="cuerpo_tabla_centro">3302</td>
+<td class="cuerpo_tabla_izq">LUARCA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
+<td class="cuerpo_tabla_izq">Asturias.</td>
+<td class="cuerpo_tabla_centro">3303</td>
+<td class="cuerpo_tabla_izq">CANGAS DE NARCEA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
+<td class="cuerpo_tabla_izq">Asturias.</td>
+<td class="cuerpo_tabla_centro">3304</td>
+<td class="cuerpo_tabla_izq">GRADO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
+<td class="cuerpo_tabla_izq">Asturias.</td>
+<td class="cuerpo_tabla_centro">3305</td>
+<td class="cuerpo_tabla_izq">BELMONTE DE MIRANDA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
+<td class="cuerpo_tabla_izq">Asturias.</td>
+<td class="cuerpo_tabla_centro">3306</td>
+<td class="cuerpo_tabla_izq">GIJÓN.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
+<td class="cuerpo_tabla_izq">Asturias.</td>
+<td class="cuerpo_tabla_centro">3307</td>
+<td class="cuerpo_tabla_izq">OVIEDO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
+<td class="cuerpo_tabla_izq">Asturias.</td>
+<td class="cuerpo_tabla_centro">3308</td>
+<td class="cuerpo_tabla_izq">MIERES.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
+<td class="cuerpo_tabla_izq">Asturias.</td>
+<td class="cuerpo_tabla_centro">3309</td>
+<td class="cuerpo_tabla_izq">LLANES.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
+<td class="cuerpo_tabla_izq">Asturias.</td>
+<td class="cuerpo_tabla_centro">3310</td>
+<td class="cuerpo_tabla_izq">CANGAS DE ONÍS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cantabria.</td>
+<td class="cuerpo_tabla_izq">Cantabria.</td>
+<td class="cuerpo_tabla_centro">3911</td>
+<td class="cuerpo_tabla_izq">COSTERA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cantabria.</td>
+<td class="cuerpo_tabla_izq">Cantabria.</td>
+<td class="cuerpo_tabla_centro">3912</td>
+<td class="cuerpo_tabla_izq">SUBCOSTERA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cantabria.</td>
+<td class="cuerpo_tabla_izq">Cantabria.</td>
+<td class="cuerpo_tabla_centro">3913</td>
+<td class="cuerpo_tabla_izq">LIÉBANA-TUDANCA-CABUÉRNIGA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cantabria.</td>
+<td class="cuerpo_tabla_izq">Cantabria.</td>
+<td class="cuerpo_tabla_centro">3914</td>
+<td class="cuerpo_tabla_izq">PAS-IGUÑA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cantabria.</td>
+<td class="cuerpo_tabla_izq">Cantabria.</td>
+<td class="cuerpo_tabla_centro">3915</td>
+<td class="cuerpo_tabla_izq">ASÓN.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cantabria.</td>
+<td class="cuerpo_tabla_izq">Cantabria.</td>
+<td class="cuerpo_tabla_centro">3916</td>
+<td class="cuerpo_tabla_izq">REINOSA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla-La Mancha.</td>
+<td class="cuerpo_tabla_izq">Cuenca.</td>
+<td class="cuerpo_tabla_centro">1602</td>
+<td class="cuerpo_tabla_izq">SERRANÍA ALTA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla-La Mancha.</td>
+<td class="cuerpo_tabla_izq">Cuenca.</td>
+<td class="cuerpo_tabla_centro">1603</td>
+<td class="cuerpo_tabla_izq">SERRANÍA MEDIA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">Ávila.</td>
+<td class="cuerpo_tabla_centro">503</td>
+<td class="cuerpo_tabla_izq">BARCO ÁVILA-PIEDRAHITA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">Ávila.</td>
+<td class="cuerpo_tabla_centro">504</td>
+<td class="cuerpo_tabla_izq">GREDOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">Ávila.</td>
+<td class="cuerpo_tabla_centro">506</td>
+<td class="cuerpo_tabla_izq">VALLE DEL TIETAR.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">Burgos.</td>
+<td class="cuerpo_tabla_centro">901</td>
+<td class="cuerpo_tabla_izq">MERINDADES.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">Burgos.</td>
+<td class="cuerpo_tabla_centro">903</td>
+<td class="cuerpo_tabla_izq">DEMANDA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">Burgos.</td>
+<td class="cuerpo_tabla_centro">907</td>
+<td class="cuerpo_tabla_izq">PÁRAMOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">Burgos.</td>
+<td class="cuerpo_tabla_centro">*</td>
+<td class="cuerpo_tabla_izq">CONDADO DE TREVIÑO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">Burgos.</td>
+<td class="cuerpo_tabla_centro">*</td>
+<td class="cuerpo_tabla_izq">LA PUEBLA DE ARGANZÓN</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">León.</td>
+<td class="cuerpo_tabla_centro">2401</td>
+<td class="cuerpo_tabla_izq">BIERZO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">León.</td>
+<td class="cuerpo_tabla_centro">2402</td>
+<td class="cuerpo_tabla_izq">LA MONTAÑA DE LUNA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">León.</td>
+<td class="cuerpo_tabla_centro">2403</td>
+<td class="cuerpo_tabla_izq">LA MONTAÑA DE RIAÑO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">León.</td>
+<td class="cuerpo_tabla_centro">2404</td>
+<td class="cuerpo_tabla_izq">LA CABRERA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">Palencia.</td>
+<td class="cuerpo_tabla_centro">3405</td>
+<td class="cuerpo_tabla_izq">GUARDO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">Palencia.</td>
+<td class="cuerpo_tabla_centro">3406</td>
+<td class="cuerpo_tabla_izq">CERVERA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">Palencia.</td>
+<td class="cuerpo_tabla_centro">3407</td>
+<td class="cuerpo_tabla_izq">AGUILAR.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">Salamanca.</td>
+<td class="cuerpo_tabla_centro">3707</td>
+<td class="cuerpo_tabla_izq">CIUDAD RODRIGO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">Salamanca.</td>
+<td class="cuerpo_tabla_centro">3708</td>
+<td class="cuerpo_tabla_izq">LA SIERRA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">Soria.</td>
+<td class="cuerpo_tabla_centro">4201</td>
+<td class="cuerpo_tabla_izq">PINARES.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castilla y León.</td>
+<td class="cuerpo_tabla_izq">Zamora.</td>
+<td class="cuerpo_tabla_centro">4901</td>
+<td class="cuerpo_tabla_izq">SANABRIA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_izq">Barcelona.</td>
+<td class="cuerpo_tabla_centro">801</td>
+<td class="cuerpo_tabla_izq">BERGADÀ.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_izq">Barcelona.</td>
+<td class="cuerpo_tabla_centro">803</td>
+<td class="cuerpo_tabla_izq">OSONA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_izq">Barcelona.</td>
+<td class="cuerpo_tabla_centro">804</td>
+<td class="cuerpo_tabla_izq">MOIANÈS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_izq">Barcelona.</td>
+<td class="cuerpo_tabla_centro">808</td>
+<td class="cuerpo_tabla_izq">VALLÈS ORIENTAL.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_izq">Girona.</td>
+<td class="cuerpo_tabla_centro">1701</td>
+<td class="cuerpo_tabla_izq">LA CERDANYA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_izq">Girona.</td>
+<td class="cuerpo_tabla_centro">1702</td>
+<td class="cuerpo_tabla_izq">RIPOLLÈS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_izq">Girona.</td>
+<td class="cuerpo_tabla_centro">1703</td>
+<td class="cuerpo_tabla_izq">GARROTXA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_izq">Girona.</td>
+<td class="cuerpo_tabla_centro">1704</td>
+<td class="cuerpo_tabla_izq">ALT EMPORDÀ.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_izq">Girona.</td>
+<td class="cuerpo_tabla_centro">1706</td>
+<td class="cuerpo_tabla_izq">GIRONÈS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_izq">Girona.</td>
+<td class="cuerpo_tabla_centro">1707</td>
+<td class="cuerpo_tabla_izq">LA SELVA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_izq">Lleida.</td>
+<td class="cuerpo_tabla_centro">2501</td>
+<td class="cuerpo_tabla_izq">VALL D'ARAN.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_izq">Lleida.</td>
+<td class="cuerpo_tabla_centro">2502</td>
+<td class="cuerpo_tabla_izq">PALLARS-RIBAGORÇA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_izq">Lleida.</td>
+<td class="cuerpo_tabla_centro">2503</td>
+<td class="cuerpo_tabla_izq">ALT URGELL.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_izq">Lleida.</td>
+<td class="cuerpo_tabla_centro">2504</td>
+<td class="cuerpo_tabla_izq">CONCA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cataluña.</td>
+<td class="cuerpo_tabla_izq">Lleida.</td>
+<td class="cuerpo_tabla_centro">2505</td>
+<td class="cuerpo_tabla_izq">SOLSONÈS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Extremadura.</td>
+<td class="cuerpo_tabla_izq">Cáceres.</td>
+<td class="cuerpo_tabla_centro">1005</td>
+<td class="cuerpo_tabla_izq">LOGROSAN.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Extremadura.</td>
+<td class="cuerpo_tabla_izq">Cáceres.</td>
+<td class="cuerpo_tabla_centro">1007</td>
+<td class="cuerpo_tabla_izq">JARAIZ DE LA VERA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Extremadura.</td>
+<td class="cuerpo_tabla_izq">Cáceres.</td>
+<td class="cuerpo_tabla_centro">1008</td>
+<td class="cuerpo_tabla_izq">PLASENCIA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Extremadura.</td>
+<td class="cuerpo_tabla_izq">Cáceres.</td>
+<td class="cuerpo_tabla_centro">1009</td>
+<td class="cuerpo_tabla_izq">HERVÁS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Extremadura.</td>
+<td class="cuerpo_tabla_izq">Cáceres.</td>
+<td class="cuerpo_tabla_centro">1010</td>
+<td class="cuerpo_tabla_izq">CORIA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_izq">A Coruña.</td>
+<td class="cuerpo_tabla_centro">1501</td>
+<td class="cuerpo_tabla_izq">SEPTENTRIONAL.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_izq">A Coruña.</td>
+<td class="cuerpo_tabla_centro">1502</td>
+<td class="cuerpo_tabla_izq">OCCIDENTAL.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_izq">A Coruña.</td>
+<td class="cuerpo_tabla_centro">1503</td>
+<td class="cuerpo_tabla_izq">INTERIOR.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_izq">Lugo.</td>
+<td class="cuerpo_tabla_centro">2701</td>
+<td class="cuerpo_tabla_izq">COSTA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_izq">Lugo.</td>
+<td class="cuerpo_tabla_centro">2702</td>
+<td class="cuerpo_tabla_izq">TERRA CHA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_izq">Lugo.</td>
+<td class="cuerpo_tabla_centro">2703</td>
+<td class="cuerpo_tabla_izq">CENTRAL.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_izq">Lugo.</td>
+<td class="cuerpo_tabla_centro">2704</td>
+<td class="cuerpo_tabla_izq">MONTAÑA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_izq">Lugo.</td>
+<td class="cuerpo_tabla_centro">2705</td>
+<td class="cuerpo_tabla_izq">SUR.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_izq">Ourense.</td>
+<td class="cuerpo_tabla_centro">3201</td>
+<td class="cuerpo_tabla_izq">ORENSE.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_izq">Ourense.</td>
+<td class="cuerpo_tabla_centro">3202</td>
+<td class="cuerpo_tabla_izq">EL BARCO DE VALDEORRAS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_izq">Ourense.</td>
+<td class="cuerpo_tabla_centro">3203</td>
+<td class="cuerpo_tabla_izq">VERIN.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_izq">Pontevedra.</td>
+<td class="cuerpo_tabla_centro">3601</td>
+<td class="cuerpo_tabla_izq">MONTAÑA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_izq">Pontevedra.</td>
+<td class="cuerpo_tabla_centro">3602</td>
+<td class="cuerpo_tabla_izq">LITORAL.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_izq">Pontevedra.</td>
+<td class="cuerpo_tabla_centro">3603</td>
+<td class="cuerpo_tabla_izq">INTERIOR.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Galicia.</td>
+<td class="cuerpo_tabla_izq">Pontevedra.</td>
+<td class="cuerpo_tabla_centro">3604</td>
+<td class="cuerpo_tabla_izq">MIÑO.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Foral de Navarra.</td>
+<td class="cuerpo_tabla_izq">Navarra.</td>
+<td class="cuerpo_tabla_centro">3101</td>
+<td class="cuerpo_tabla_izq">NORD OCCIDENTAL.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Foral de Navarra.</td>
+<td class="cuerpo_tabla_izq">Navarra.</td>
+<td class="cuerpo_tabla_centro">3102</td>
+<td class="cuerpo_tabla_izq">PIRINEOS.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Foral de Navarra.</td>
+<td class="cuerpo_tabla_izq">Navarra.</td>
+<td class="cuerpo_tabla_centro">3103</td>
+<td class="cuerpo_tabla_izq">CUENCA PAMPLONA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Foral de Navarra.</td>
+<td class="cuerpo_tabla_izq">Navarra.</td>
+<td class="cuerpo_tabla_centro">3104</td>
+<td class="cuerpo_tabla_izq">TIERRA ESTELLA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">País Vasco.</td>
+<td class="cuerpo_tabla_izq">Álava.</td>
+<td class="cuerpo_tabla_centro">101</td>
+<td class="cuerpo_tabla_izq">CANTÁBRICA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">País Vasco.</td>
+<td class="cuerpo_tabla_izq">Álava.</td>
+<td class="cuerpo_tabla_centro">102</td>
+<td class="cuerpo_tabla_izq">ESTRIBACIONES GORBEA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">País Vasco.</td>
+<td class="cuerpo_tabla_izq">Álava.</td>
+<td class="cuerpo_tabla_centro">103</td>
+<td class="cuerpo_tabla_izq">VALLES ALAVESES.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">País Vasco.</td>
+<td class="cuerpo_tabla_izq">Álava.</td>
+<td class="cuerpo_tabla_centro">104</td>
+<td class="cuerpo_tabla_izq">LLANADA ALAVESA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">País Vasco.</td>
+<td class="cuerpo_tabla_izq">Álava.</td>
+<td class="cuerpo_tabla_centro">105</td>
+<td class="cuerpo_tabla_izq">MONTAÑA ALAVESA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">País Vasco.</td>
+<td class="cuerpo_tabla_izq">Guipúzcoa.</td>
+<td class="cuerpo_tabla_centro">2001</td>
+<td class="cuerpo_tabla_izq">GUIPÚZCOA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">País Vasco.</td>
+<td class="cuerpo_tabla_izq">Vizcaya.</td>
+<td class="cuerpo_tabla_centro">4801</td>
+<td class="cuerpo_tabla_izq">VIZCAYA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">La Rioja.</td>
+<td class="cuerpo_tabla_izq">La Rioja.</td>
+<td class="cuerpo_tabla_centro">2602</td>
+<td class="cuerpo_tabla_izq">SIERRA RIOJA ALTA.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">La Rioja.</td>
+<td class="cuerpo_tabla_izq">La Rioja.</td>
+<td class="cuerpo_tabla_centro">2604</td>
+<td class="cuerpo_tabla_izq">SIERRA RIOJA MEDIA.</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="4">
+<p class="cita">* No se incluye comarca completa, sólo municipio.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+> Se modifica por la disposición final 7.11 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+## ANEXO XIV — Requisitos y condiciones que deberán cumplir los espacios de biodiversidad recogidos en el artículo 44
+
+I. Tierras en barbecho de biodiversidad
+
+Para que las tierras en barbecho sean elegibles a los efectos del ecorrégimen de espacios de biodiversidad, no podrán dedicarse a la producción agraria durante, al menos, un periodo de seis meses consecutivos, a contabilizar dentro del periodo comprendido entre el 1 de enero y el 30 de septiembre del año de solicitud. Asimismo, los barbechos de biodiversidad deberán permanecer implantados al menos hasta el inicio del periodo de presiembra, el 1 de septiembre del año de solicitud o, en su caso, el 30 de septiembre, cuando la autoridad competente de la comunidad autónoma haya establecido su periodo de barbecho no productivo de seis meses hasta dicha fecha. Deberán ser sembrados con una mezcla de especies elegibles, beneficiosas a efectos de la biodiversidad, que representen un mínimo de 2 familias diferentes, y que sean predominantes en dichas superficies. En ningún caso, la mezcla de especies implantadas podrá cosecharse. No obstante, se autoriza la colocación de colmenas.
+
+La lista de especies elegibles será publicada anualmente por el Fondo Español de Garantía Agraria O.A. con suficiente antelación para garantizar la siembra en el periodo oportuno de la campaña.
+
+Se deberá respetar una dosis mínima de siembra razonable, de modo que permita alcanzar una cubierta herbácea adecuada para lograr el objetivo perseguido de favorecer la biodiversidad y potenciar el desarrollo de polinizadores.
+
+En la elección de especies se favorecerá que sus floraciones se distribuyan a lo largo del año, al objeto de asegurar la disponibilidad del recurso durante la mayor parte del año.
+
+La lista de especies elegibles podrá ampliarse a decisión de la autoridad competente con otras especies adicionales para tener en cuenta sus condiciones particulares, que sean autóctonas o especies locales, siempre teniendo en cuenta una correcta selección en aras de fomentar aquellas especies propias del lugar, y que además de tener una eficacia polinizadora, pudieran ser adyuvantes en el control de malas hierbas y plagas, evitándose en todo caso aquéllas de difícil control o que pudieran ser reservorios de agentes perjudiciales, y en particular las exóticas invasoras.
+
+Queda permitida la presencia de otras especies de carácter herbáceo, distintas de las elegibles, cuando las elegibles sean predominantes.
+
+A los efectos de la solicitud, dicha superficie deberá ser declarada como superficie en barbecho de biodiversidad, el año de solicitud en el que se pretenda computar como espacio de biodiversidad.
+
+II. Elementos del paisaje
+
+Se establecerán unas dimensiones máximas, acordes a las establecidas en la definición de la BCAM 8 del anexo II del Real Decreto 1049/2022, de 27 de diciembre.
+
+III. Márgenes, franjas e islas de biodiversidad.
+
+Se definen los márgenes de biodiversidad como aquellas franjas de terreno de vegetación que se implantan en los márgenes de las parcelas agrícolas para atender a la fauna silvestre o fauna específica, además de para lograr otros beneficios agronómicos y medioambientales, como la mejora del suelo.
+
+Se definen las franjas de biodiversidad como los terrenos de vegetación que se implantan en las parcelas agrícolas entre líneas de cultivos para atender a la fauna silvestre o fauna específica, además de para lograr otros beneficios agronómicos y medioambientales, como la mejora del suelo.
+
+Se definen las islas de biodiversidad como los terrenos de vegetación que se implantan en las parcelas agrícolas para atender a la fauna silvestre o fauna específica, además de para lograr otros beneficios agronómicos y medioambientales, como la mejora del suelo.
+
+Requisitos:
+
+– Se ha de conseguir, al menos, 2 familias implantadas de entre las mencionadas en el apartado I de este anexo que podrán convivir con especies espontáneas, pero que deberán ser predominantes en dichas superficies. Se deberá respetar una dosis mínima de siembra razonable, de modo que permita alcanzar una cubierta herbácea adecuada para lograr el objetivo perseguido, que es favorecer la biodiversidad y potenciar el desarrollo de polinizadores.
+
+– Los márgenes, franjas e islas no tendrán fin productivo y deberán permanecer implantados, al menos, hasta el 1 de septiembre del año de solicitud única. Sí se permitirá la siega o control mecánico de malas hierbas.
+
+– No se permitirá el uso de especies vegetales o invasoras para el establecimiento de márgenes, franjas o islas de biodiversidad.
+
+– Se podrán establecer márgenes implantados en las franjas de protección de los ríos.
+
+– Requisitos dimensionales:
+
+● Márgenes y franjas de biodiversidad:
+
+○ Anchura mínima: 2 m.
+
+○ Longitud mínima: 25 m.
+
+● Islas de biodiversidad:
+
+○ Superficie mínima: 0,01 ha.
+
+IV. Zonas de no cosechado de cereales, leguminosas y oleaginosas
+
+Las zonas de no cosechado deberán permanecer en el terreno, con carácter general, al menos hasta el 1 de septiembre del año de solicitud. No obstante, cuando el cultivo todavía permanezca implantado por no haber concluido su ciclo productivo en dicha fecha, tendrá que permanecer al menos un mes adicional desde la fecha de cosecha del resto de la parcela o, en su caso, un mes adicional desde que se haya alcanzado el estado fenológico de madurez comercial del grano.
+
+En el caso de las leguminosas plurianuales, no se podrá dar aprovechamiento desde el 1 de enero hasta, al menos, el 1 de septiembre.
+
+Los requisitos dimensionales para estas zonas serán los mismos que para las islas de biodiversidad.
+
+V. Zonas de no cosechado de especies aromáticas
+
+Las zonas de no cosechado deberán permanecer en el terreno al menos dos meses adicionales desde el inicio de la fecha de recolección del resto de la superficie declarada para el cumplimiento de la práctica.
+
+Los requisitos dimensionales para estas zonas serán los mismos que para las islas de biodiversidad.
+
+Especies aromáticas incluidas: lavanda (*Lavandula angustifolia*), espliego (*Lavandula latifolia*), romero (*Rosmarinus officinalis*), tomillo (*Thymus vulgaris*), manzanilla (*Chamaemelum nobile*), salvia (*Salvia officinalis* y *Salvia lavandulifolia*), lavandín (*Lavandula x hybrida*).
+
+> Se modifican los apartados IV y V por el art. 7.18 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se modifica el apartado III y el título del apartado IV por el art. 3.37 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica el título del apartado IV y se añade el V por el art. 3.41 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+## ANEXO XV — Especies mejorantes
+
+Leguminosas: guisante (*Pisum sativum L.*), habas (*Vicia faba L.*), altramuz blanco (*Lupinus albus L.*), altramuz amarillo (*Lupinus luteus L.*), altramuz azul (*Lupinus angustifolius L.*), veza o alverja (*Vicia sativa L.*), yeros [*Vicia ervilia (L.) Willd.*], algarrobas (*Vicia monanthos Desf.*), titarros (*Lathyrus cicera L.*), almortas (*Lathyrus sativus L.*), alholva (*Trigonella foenum-graecum L.*), alberjón (*Vicia narbonensis L.*), alfalfa (*Medicago sativa L.*), *Medicago, spp*., biserrula (*Astragalus pelecinus* L.), índigo *(Indigofera tinctoria)*, esparceta (*Onobrychis viciifolia Scop.*), zulla (*Hedysarum coronarium L.*), alubia o judía (*Phaseolus vulgaris L.*), judía de lima *(Phaseolus lunatus L.*), judía escarlata (*Phaseolus coccineus L.*), judía mungo (*Vigna radiata*), caupí o frijol de carilla [*Vigna unguiculata (L.) Walp.*], garbanzo (*Cicer arietinum L.*), lenteja (*Lens sculenta Moench, Lens culinaris Moench*), crotalaria *(Crotalaria juncea L.*), cacahuete *(Arachis hypogaea L.*), soja [*Glycine max (L.)*], veza vellosa (*Vicia villosa Roth*), alverja húngara (*Vicia pannonica Crantz*.), trébol (*Trifolium spp*), meliloto amarillo (*Melilotus officinalis*), serradella (*Ornithopus sativus*), cuernecillo (*Lotus corniculatus L.*).
+
+Cuando sea una práctica habitual de cultivo, se admitirán mezclas de las especies de leguminosas recogidas en esta lista con otros cultivos herbáceos, siempre que las leguminosas sean el cultivo predominante en la mezcla.
+
+Crucíferas o Brasicáceas: rábano (*Raphanus sativus*), rúcula (*Eruca sativa*), colza (*Brassica napus),*nabo forrajero*(Brassica rapa),*rábano silvestre*(Raphanus raphanistrum),*mostaza blanca *(Sinapis alba),*mostaza negra*(Brassica nigra),*mostaza castaña*(Brassica juncea),*mostaza etíope*(Brassica carinata),* camelina*(Camelina sativa (L.) Crantz).*
+
+Compuestas o Asteráceas: girasol *(Helianthus annuus L.),*cártamo *(Carthamus tinctorius L.).*
+
+Liliáceas*:*ajo *(Allium sativum L.)*
+
+Papaveráceas: adormidera (*Papaver somniferum).*
+
+> Se modifica el primer párrafo y se añade un párrafo al final por el art. 7.19 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 297, de 11 de diciembre de 2025. [Ref. BOE-A-2025-25274](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25274)
+
+> Se modifica el primer párrafo por el art. 3.38 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica el primer párrafo por el art. 3.42 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+> Se modifica por la disposición final 7.12 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023. [Ref. BOE-A-2023-2253](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2253)
+
+## ANEXO XVI — Listado de comarcas hasta 400 mm de pluviometría media correspondiente a diez años, a los efectos de la reducción del porcentaje de leguminosas requerido en la práctica de rotación y a los efectos de la flexibilización de las prácticas de cubiertas en zonas de secano árido
+
+Se incluye la Comunidad Autónoma de las Illes Balears.
+
+| CCAA | Provincia | Comarca | Denominación Comarca |
+|---|---|---|---|
+| Andalucía. | Almería. | 401 | LOS VÉLEZ. |
+| Andalucía. | Almería. | 402 | ALTO ALMANZORA. |
+| Andalucía. | Almería. | 403 | BAJO ALMANZORA. |
+| Andalucía. | Almería. | 404 | RÍO NACIMIENTO. |
+| Andalucía. | Almería. | 405 | CAMPO TABERNAS. |
+| Andalucía. | Almería. | 406 | ALTO ANDARAX. |
+| Andalucía. | Almería. | 407 | CAMPO DALIAS. |
+| Andalucía. | Almería. | 408 | CAMPO NÍJAR Y BAJO ANDARAX. |
+| Andalucía. | Granada. | 1802 | GUADIX. |
+| Andalucía. | Granada. | 1803 | BAZA. |
+| Andalucía. | Granada. | 1804 | HUÉSCAR. |
+| Andalucía. | Granada. | 1805 | IZNALLOZ. |
+| Andalucía. | Granada. | 1807 | ALHAMA. |
+| Andalucía. | Granada. | 1808 | LA COSTA. |
+| Andalucía. | Granada. | 1810 | VALLE DE LECRÍN. |
+| Andalucía. | Jaén. | 2307 | MÁGINA. |
+| Aragón. | Huesca. | 2206 | MONEGROS. |
+| Aragón. | Huesca. | 2208 | BAJO CINCA. |
+| Aragón. | Zaragoza. | 5005 | ZARAGOZA. |
+| Aragón. | Zaragoza. | 5007 | CASPE. |
+| Castilla-La Mancha. | Albacete. | 201 | MANCHA. |
+| Castilla-La Mancha. | Albacete. | 202 | MANCHUELA. |
+| Castilla-La Mancha. | Albacete. | 204 | CENTRO. |
+| Castilla-La Mancha. | Albacete. | 205 | ALMANSA. |
+| Castilla-La Mancha. | Albacete. | 207 | HELLÍN. |
+| Castilla-La Mancha. | Ciudad Real. | 1302 | CAMPO DE CALATRAVA. |
+| Castilla-La Mancha. | Ciudad Real. | 1303 | MANCHA. |
+| Castilla-La Mancha. | Cuenca. | 1606 | MANCHA BAJA. |
+| Castilla-La Mancha. | Toledo. | 4503 | SAGRA-TOLEDO. |
+| Castilla-La Mancha. | Toledo. | 4506 | MONTE DE LOS YÉBENES. |
+| Castilla-La Mancha. | Toledo. | 4507 | LA MANCHA. |
+| Castilla y León. | Ávila. | 501 | ARÉVALO-MADRIGAL. |
+| Castilla y León. | Salamanca. | 3703 | SALAMANCA. |
+| Castilla y León. | Salamanca. | 3704 | PEÑARANDA DE BRACAMONTE. |
+| Castilla y León. | Valladolid. | 4703 | SUR. |
+| Castilla y León. | Zamora. | 4906 | DUERO BAJO. |
+| Cataluña. | Lleida. | 2507 | URGELL. |
+| Cataluña. | Lleida. | 2509 | SEGRIÀ. |
+| Cataluña. | Lleida. | 2510 | GARRIGUES. |
+| Extremadura. | Badajoz. | 603 | DON BENITO. |
+| Extremadura. | Badajoz. | 608 | CASTUERA. |
+| Extremadura. | Badajoz. | 612 | AZUAGA. |
+| Illes Balears. | Illes Balears. | 701 | IBIZA. |
+| Illes Balears. | Illes Balears. | 702 | MALLORCA. |
+| Illes Balears. | Illes Balears. | 703 | MENORCA. |
+| Madrid. | Madrid. | 2804 | CAMPIÑA. |
+| Madrid. | Madrid. | 2806 | VEGAS. |
+| Navarra. | Navarra. | 3107 | RIBERA BAJA. |
+| Región de Murcia. | Murcia. | 3001 | NORDESTE. |
+| Región de Murcia. | Murcia. | 3002 | NOROESTE. |
+| Región de Murcia. | Murcia. | 3003 | CENTRO. |
+| Región de Murcia. | Murcia. | 3004 | RÍO SEGURA. |
+| Región de Murcia. | Murcia. | 3005 | SUROESTE Y VALLE GUADALENTÍN. |
+| Región de Murcia. | Murcia. | 3006 | CAMPO DE CARTAGENA. |
+| C. Valenciana. | Alicante/Alacant. | 301 | VINALOPÓ. |
+| C. Valenciana. | Alicante/Alacant. | 304 | CENTRAL. |
+| C. Valenciana. | Alicante/Alacant. | 305 | MERIDIONAL. |
+
+> Se modifica por el art. 3.39 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica por la disposición final 7.13 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+## ANEXO XVII — Listado cultivos leñosos a los efectos del artículo 38
+
+| Cultivos leñosos |
+|---|
+| OLIVO. |
+| VIÑA. |
+| ALMENDRO. |
+| MELOCOTONERO. |
+| NECTARINO. |
+| ALBARICOQUERO. |
+| PERAL. |
+| MANZANO. |
+| CEREZO. |
+| CIRUELO. |
+| NOGAL. |
+| CASTAÑO. |
+| VIÑA-OLIVAR. |
+| ALGARROBO. |
+| AVELLANO. |
+| PISTACHO. |
+| PLATERINA. |
+| PARAGUAYO. |
+| CLEMENTINA. |
+| SATSUMA. |
+| NARANJO. |
+| LIMONERO. |
+| POMELO o TORONJA. |
+| MANDARINO. |
+| MANDARINO HÍBRIDO. |
+| MEMBRILLO. |
+| KIWI. |
+| CAQUI o PALOSANTO. |
+| NÍSPERO. |
+| GRANADO. |
+| HIGUERA. |
+| AGUACATE. |
+| MANGO. |
+| CHIRIMOYO. |
+| VIÑA-FRUTAL. |
+| OLIVAR-FRUTAL. |
+| CÍTRICOS HÍBRIDOS-CAQUI. |
+| NARANJO-AGUACATE. |
+| CEREZO-OLIVAR. |
+| CEREZO-ALGARROBO. |
+| NARANJO AMARGO. |
+| AZUFAIFO. |
+| LIMA. |
+| ARGÁN. |
+| GUAYABO. |
+| ALMENDRO-OLIVAR. |
+| NARANJO-CAQUI. |
+| NARANJO-MANDARINO. |
+| NÍSPERO-CAQUI. |
+| CLEMENTINA-CAQUI. |
+| SATSUMA-CAQUI. |
+| ARÁNDANO. |
+| GROSELLERO. |
+| ZARZAMORA. |
+| ENDRINO O ARAÑÓN. |
+| FRAMBUESA. |
+| FRUTOS DEL BOSQUE. |
+| FRUTOS DE CÁSCARA. |
+| BAYAS GOJI. |
+| ENCINA MICORRIZADA O TRUFA |
+| MANO DE BUDA. |
+| LÚPULO |
+| YUZU. |
+| CIRUELO JAPONES. |
+| PINO PIÑONERO. |
+
+> Se añaden tres filas por el art. 7.20 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se modifica el título y se añade una fila por el art. 3.40 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica por el art. 3.43 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+> Se modifica por la disposición final 7.14 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+## ANEXO XVIII — Elementos del paisaje, espacios e islas de biodiversidad a efectos de la práctica del artículo 44 y factores de ponderación
+
+Para la determinación de la superficie computable por cada una de las categorías de espacios de biodiversidad enumerados en la práctica del artículo 43, se utilizarán los siguientes factores de conversión y ponderación:
+
+| Tipo de superficie y elemento no productivo | Factor de conversión (m/árbol a m<sup>2</sup>) | Factor de ponderación | Superficies y elementos no productivos (m<sup>2</sup>) |
+|---|---|---|---|
+| Tierras en barbecho de biodiversidad (por 1 m<sup>2</sup>). | No procede | 1,5 | 1,5 |
+| Márgenes o franjas de biodiversidad (por 1 m). | 6 | 2 | 12 |
+| Terrazas (terrazas de retención, bancales, ribazos) (por 1 m). | 2 | 1 | 2 |
+| Setos/franjas arboladas (por 1 m). | 5 | 2 | 10 |
+| Árbol aislado (por árbol). | 20 | 1,5 | 30 |
+| Árboles en hilera (por 1 m). | 5 | 2 | 10 |
+| Grupo de árboles (por 1 m<sup>2</sup>). | No procede | 1,5 | 1,5 |
+| Lindes de campo (por 1 m). | 6 | 1,5 | 9 |
+| Charcas (charcas, lagunas, estanques y abrevaderos naturales) (por 1 m<sup>2</sup>). | No procede | 1,5 | 1,5 |
+| Islas o enclaves (islas de vegetación natural o roca) y majanos (por 1 m<sup>2</sup>). | No procede | 1 | 1 |
+| Islas de biodiversidad (por 1 m<sup>2</sup>). | No procede | 2 | 2 |
+| Muros de piedra (por 1m). | 1 | 1 | 1 |
+| Pequeñas construcciones de arquitectura tradicional (por 1 m<sup>2</sup>). | No procede | 1 | 1 |
+| Zonas de no cosecha de cereal, leguminosa, oleaginosa y aromática (por 1 m2). | No procede | No procede | 1 |
+
+> Se modifica la última fila por el art. 7.21 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
+
+> Se modifica por el art. 3.41 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifica por el art. 3.44 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+## ANEXO XIX — Asignación financiera total de las ayudas asociadas agrícolas (en euros)
+
+<table class="tabla_ancha">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Tipo de Ayuda</th>
+<th class="cabeza_tabla">2023</th>
+<th class="cabeza_tabla">2024</th>
+<th class="cabeza_tabla">2025</th>
+<th class="cabeza_tabla">2026</th>
+<th class="cabeza_tabla">2027</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="5">Ayuda asociada a la producción sostenible de proteínas de origen vegetal.</td>
+<td class="cuerpo_tabla_izq">Ayuda a la producción de legumbres.</td>
+<td class="cuerpo_tabla_coma">6.727.658</td>
+<td class="cuerpo_tabla_coma">6.727.658</td>
+<td class="cuerpo_tabla_coma">6.727.658</td>
+<td class="cuerpo_tabla_coma">6.727.658</td>
+<td class="cuerpo_tabla_coma">6.727.658</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ayuda a la producción del resto de leguminosas.</td>
+<td class="cuerpo_tabla_coma">40.794.452</td>
+<td class="cuerpo_tabla_coma">40.794.452</td>
+<td class="cuerpo_tabla_coma">40.794.452</td>
+<td class="cuerpo_tabla_coma">40.794.452</td>
+<td class="cuerpo_tabla_coma">40.794.452</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ayuda a la producción de semillas certificadas de las legumbres.</td>
+<td class="cuerpo_tabla_coma">507.638</td>
+<td class="cuerpo_tabla_coma">507.638</td>
+<td class="cuerpo_tabla_coma">507.638</td>
+<td class="cuerpo_tabla_coma">507.638</td>
+<td class="cuerpo_tabla_coma">507.638</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ayuda a la producción de semillas certificadas del resto de leguminosas.</td>
+<td class="cuerpo_tabla_coma">3.222.340</td>
+<td class="cuerpo_tabla_coma">3.222.340</td>
+<td class="cuerpo_tabla_coma">3.222.340</td>
+<td class="cuerpo_tabla_coma">3.222.340</td>
+<td class="cuerpo_tabla_coma">3.222.340</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Total.</td>
+<td class="cuerpo_tabla_coma">51.252.088</td>
+<td class="cuerpo_tabla_coma">51.252.088</td>
+<td class="cuerpo_tabla_coma">51.252.088</td>
+<td class="cuerpo_tabla_coma">51.252.088</td>
+<td class="cuerpo_tabla_coma">51.252.088</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ayuda asociada a la producción sostenible de arroz.</td>
+<td class="cuerpo_tabla_izq">Total.</td>
+<td class="cuerpo_tabla_coma">14.200.000</td>
+<td class="cuerpo_tabla_coma">14.200.000</td>
+<td class="cuerpo_tabla_coma">14.200.000</td>
+<td class="cuerpo_tabla_coma">14.200.000</td>
+<td class="cuerpo_tabla_coma">14.200.000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Ayuda asociada a la producción sostenible de remolacha azucarera.</td>
+<td class="cuerpo_tabla_izq">Zona de producción de remolacha azucarera de siembra primaveral.</td>
+<td class="cuerpo_tabla_coma">14.350.000</td>
+<td class="cuerpo_tabla_coma">14.350.000</td>
+<td class="cuerpo_tabla_coma">14.350.000</td>
+<td class="cuerpo_tabla_coma">14.350.000</td>
+<td class="cuerpo_tabla_coma">14.350.000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Zona de producción de remolacha azucarera de siembra otoñal.</td>
+<td class="cuerpo_tabla_coma">2.650.000</td>
+<td class="cuerpo_tabla_coma">2.650.000</td>
+<td class="cuerpo_tabla_coma">2.650.000</td>
+<td class="cuerpo_tabla_coma">2.650.000</td>
+<td class="cuerpo_tabla_coma">2.650.000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Total.</td>
+<td class="cuerpo_tabla_coma">17.000.000</td>
+<td class="cuerpo_tabla_coma">17.000.000</td>
+<td class="cuerpo_tabla_coma">17.000.000</td>
+<td class="cuerpo_tabla_coma">17.000.000</td>
+<td class="cuerpo_tabla_coma">17.000.000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ayuda asociada a la producción sostenible de tomate para transformación.</td>
+<td class="cuerpo_tabla_izq">Total.</td>
+<td class="cuerpo_tabla_coma">9.300.000</td>
+<td class="cuerpo_tabla_coma">9.300.000</td>
+<td class="cuerpo_tabla_coma">9.300.000</td>
+<td class="cuerpo_tabla_coma">9.300.000</td>
+<td class="cuerpo_tabla_coma">9.300.000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Ayuda Asociada a los productores de frutos secos en áreas con riesgo de desertificación.</td>
+<td class="cuerpo_tabla_izq">Península.</td>
+<td class="cuerpo_tabla_coma">13.351.454</td>
+<td class="cuerpo_tabla_coma">13.351.454</td>
+<td class="cuerpo_tabla_coma">12.465.900,85</td>
+<td class="cuerpo_tabla_coma">12.465.900,85</td>
+<td class="cuerpo_tabla_coma">12.465.900,85</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Baleares.</td>
+<td class="cuerpo_tabla_coma">648.546</td>
+<td class="cuerpo_tabla_coma">648.546</td>
+<td class="cuerpo_tabla_coma">1.534.099,15</td>
+<td class="cuerpo_tabla_coma">1.534.099,15</td>
+<td class="cuerpo_tabla_coma">1.534.099,15</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Total.</td>
+<td class="cuerpo_tabla_coma">14.000.000</td>
+<td class="cuerpo_tabla_coma">14.000.000</td>
+<td class="cuerpo_tabla_coma">14.000.000</td>
+<td class="cuerpo_tabla_coma">14.000.000</td>
+<td class="cuerpo_tabla_coma">14.000.000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ayuda Asociada a la Producción Tradicional de Uva Pasa.</td>
+<td class="cuerpo_tabla_izq">Total.</td>
+<td class="cuerpo_tabla_coma">680.000</td>
+<td class="cuerpo_tabla_coma">680.000</td>
+<td class="cuerpo_tabla_coma">680.000</td>
+<td class="cuerpo_tabla_coma">680.000</td>
+<td class="cuerpo_tabla_coma">680.000</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Pago Específico al cultivo del algodón.</td>
+<td class="cuerpo_tabla_izq">Total.</td>
+<td class="cuerpo_tabla_coma">59.690.640</td>
+<td class="cuerpo_tabla_coma">59.690.640</td>
+<td class="cuerpo_tabla_coma">59.690.640</td>
+<td class="cuerpo_tabla_coma">59.690.640</td>
+<td class="cuerpo_tabla_coma">59.690.640</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Ayuda asociada al olivar con dificultades específicas y alto valor medioambiental.</td>
+<td class="cuerpo_tabla_izq">Total.</td>
+<td class="cuerpo_tabla_coma">27.594.584,30</td>
+<td class="cuerpo_tabla_coma">27.594.584,30</td>
+<td class="cuerpo_tabla_coma">27.594.584,30</td>
+<td class="cuerpo_tabla_coma">27.594.584,30</td>
+<td class="cuerpo_tabla_coma">27.594.584,30</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica por el art. 3.42 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 252, de 18 de octubre de 2024. [Ref. BOE-A-2024-21317](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-21317)
+
+> Se modifica por el art. 3.45 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+## ANEXO XX — Importes unitarios mínimos y máximos de las ayudas asociadas a agricultores (en euros por hectárea)
+
+<table class="tabla_ancha">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="2">Tipo de Ayuda</th>
+<th class="cabeza_tabla" colspan="2">Concepto</th>
+<th class="cabeza_tabla">2023</th>
+<th class="cabeza_tabla">2024</th>
+<th class="cabeza_tabla">2025</th>
+<th class="cabeza_tabla">2026</th>
+<th class="cabeza_tabla">2027</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="16">Ayuda asociada a la producción sostenible de proteínas de origen vegetal.</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Ayuda a la producción de legumbres.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Mínimo Peninsular.</td>
+<td class="cuerpo_tabla_coma">40,00</td>
+<td class="cuerpo_tabla_coma">40,00</td>
+<td class="cuerpo_tabla_coma">40,00</td>
+<td class="cuerpo_tabla_coma">40,00</td>
+<td class="cuerpo_tabla_coma">40,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Máximo Peninsular.</td>
+<td class="cuerpo_tabla_coma">120,00</td>
+<td class="cuerpo_tabla_coma">120,00</td>
+<td class="cuerpo_tabla_coma">120,00</td>
+<td class="cuerpo_tabla_coma">120,00</td>
+<td class="cuerpo_tabla_coma">120,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Mínimo Baleares.</td>
+<td class="cuerpo_tabla_coma">46,40</td>
+<td class="cuerpo_tabla_coma">46,40</td>
+<td class="cuerpo_tabla_coma">46,40</td>
+<td class="cuerpo_tabla_coma">46,40</td>
+<td class="cuerpo_tabla_coma">46,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Máximo Baleares.</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">Ayuda a la producción del resto de leguminosas.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Mínimo Peninsular.</td>
+<td class="cuerpo_tabla_coma">30,00</td>
+<td class="cuerpo_tabla_coma">30,00</td>
+<td class="cuerpo_tabla_coma">30,00</td>
+<td class="cuerpo_tabla_coma">30,00</td>
+<td class="cuerpo_tabla_coma">30,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Máximo Peninsular.</td>
+<td class="cuerpo_tabla_coma">120</td>
+<td class="cuerpo_tabla_coma">120</td>
+<td class="cuerpo_tabla_coma">120</td>
+<td class="cuerpo_tabla_coma">120</td>
+<td class="cuerpo_tabla_coma">120</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Mínimo Baleares.</td>
+<td class="cuerpo_tabla_coma">34,80</td>
+<td class="cuerpo_tabla_coma">34,80</td>
+<td class="cuerpo_tabla_coma">34,80</td>
+<td class="cuerpo_tabla_coma">34,80</td>
+<td class="cuerpo_tabla_coma">34,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Máximo Baleares.</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="8">Ayuda a la producción de semillas certificadas de las especies pertenecientes a la familia de leguminosas.</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Legumbres.</td>
+<td class="cuerpo_tabla_izq">Mínimo Peninsular.</td>
+<td class="cuerpo_tabla_coma">40,00</td>
+<td class="cuerpo_tabla_coma">40,00</td>
+<td class="cuerpo_tabla_coma">40,00</td>
+<td class="cuerpo_tabla_coma">40,00</td>
+<td class="cuerpo_tabla_coma">40,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Peninsular.</td>
+<td class="cuerpo_tabla_coma">120,00</td>
+<td class="cuerpo_tabla_coma">120,00</td>
+<td class="cuerpo_tabla_coma">120,00</td>
+<td class="cuerpo_tabla_coma">120,00</td>
+<td class="cuerpo_tabla_coma">120,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Baleares.</td>
+<td class="cuerpo_tabla_coma">46,40</td>
+<td class="cuerpo_tabla_coma">46,40</td>
+<td class="cuerpo_tabla_coma">46,40</td>
+<td class="cuerpo_tabla_coma">46,40</td>
+<td class="cuerpo_tabla_coma">46,40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Baleares.</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">Resto Leguminosas.</td>
+<td class="cuerpo_tabla_izq">Mínimo Peninsular.</td>
+<td class="cuerpo_tabla_coma">30,00</td>
+<td class="cuerpo_tabla_coma">30,00</td>
+<td class="cuerpo_tabla_coma">30,00</td>
+<td class="cuerpo_tabla_coma">30,00</td>
+<td class="cuerpo_tabla_coma">30,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Peninsular.</td>
+<td class="cuerpo_tabla_coma">120</td>
+<td class="cuerpo_tabla_coma">120</td>
+<td class="cuerpo_tabla_coma">120</td>
+<td class="cuerpo_tabla_coma">120</td>
+<td class="cuerpo_tabla_coma">120</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Baleares.</td>
+<td class="cuerpo_tabla_coma">34,80</td>
+<td class="cuerpo_tabla_coma">34,80</td>
+<td class="cuerpo_tabla_coma">34,80</td>
+<td class="cuerpo_tabla_coma">34,80</td>
+<td class="cuerpo_tabla_coma">34,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Baleares.</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+<td class="cuerpo_tabla_coma">139,20</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2" rowspan="4">Ayuda asociada a la producción sostenible de arroz.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Mínimo Peninsular.</td>
+<td class="cuerpo_tabla_coma">128,91</td>
+<td class="cuerpo_tabla_coma">128,91</td>
+<td class="cuerpo_tabla_coma">128,91</td>
+<td class="cuerpo_tabla_coma">128,91</td>
+<td class="cuerpo_tabla_coma">128,91</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Máximo Peninsular.</td>
+<td class="cuerpo_tabla_coma">237,47</td>
+<td class="cuerpo_tabla_coma">237,47</td>
+<td class="cuerpo_tabla_coma">237,47</td>
+<td class="cuerpo_tabla_coma">237,47</td>
+<td class="cuerpo_tabla_coma">237,47</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Mínimo Baleares.</td>
+<td class="cuerpo_tabla_coma">149,54</td>
+<td class="cuerpo_tabla_coma">149,54</td>
+<td class="cuerpo_tabla_coma">149,54</td>
+<td class="cuerpo_tabla_coma">149,54</td>
+<td class="cuerpo_tabla_coma">149,54</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Máximo Baleares.</td>
+<td class="cuerpo_tabla_coma">275,47</td>
+<td class="cuerpo_tabla_coma">275,47</td>
+<td class="cuerpo_tabla_coma">275,47</td>
+<td class="cuerpo_tabla_coma">275,47</td>
+<td class="cuerpo_tabla_coma">275,47</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">Ayuda asociada a la producción sostenible de remolacha azucarera.</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Zona de producción de siembra primaveral.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Mínimo.</td>
+<td class="cuerpo_tabla_coma">270</td>
+<td class="cuerpo_tabla_coma">270</td>
+<td class="cuerpo_tabla_coma">270</td>
+<td class="cuerpo_tabla_coma">270</td>
+<td class="cuerpo_tabla_coma">270</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Máximo.</td>
+<td class="cuerpo_tabla_coma">900,00</td>
+<td class="cuerpo_tabla_coma">900,00</td>
+<td class="cuerpo_tabla_coma">900,00</td>
+<td class="cuerpo_tabla_coma">900,00</td>
+<td class="cuerpo_tabla_coma">900,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">Zona de producción de siembra otoñal.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Mínimo.</td>
+<td class="cuerpo_tabla_coma">195</td>
+<td class="cuerpo_tabla_coma">195</td>
+<td class="cuerpo_tabla_coma">195</td>
+<td class="cuerpo_tabla_coma">195</td>
+<td class="cuerpo_tabla_coma">195</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Máximo.</td>
+<td class="cuerpo_tabla_coma">650,00</td>
+<td class="cuerpo_tabla_coma">650,00</td>
+<td class="cuerpo_tabla_coma">650,00</td>
+<td class="cuerpo_tabla_coma">650,00</td>
+<td class="cuerpo_tabla_coma">650,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2" rowspan="2">Ayuda asociada a la producción sostenible de tomate para transformación.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Mínimo.</td>
+<td class="cuerpo_tabla_coma">256,98</td>
+<td class="cuerpo_tabla_coma">256,98</td>
+<td class="cuerpo_tabla_coma">256,98</td>
+<td class="cuerpo_tabla_coma">256,98</td>
+<td class="cuerpo_tabla_coma">256,98</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Máximo.</td>
+<td class="cuerpo_tabla_coma">314,09</td>
+<td class="cuerpo_tabla_coma">314,09</td>
+<td class="cuerpo_tabla_coma">314,09</td>
+<td class="cuerpo_tabla_coma">314,09</td>
+<td class="cuerpo_tabla_coma">314,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2" rowspan="4">Ayuda Asociada a los productores de frutos secos en áreas con riesgo de desertificación.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Mínimo Peninsular.</td>
+<td class="cuerpo_tabla_coma">58,12</td>
+<td class="cuerpo_tabla_coma">58,12</td>
+<td class="cuerpo_tabla_coma">56,41</td>
+<td class="cuerpo_tabla_coma">56,41</td>
+<td class="cuerpo_tabla_coma">56,41</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Máximo Peninsular.</td>
+<td class="cuerpo_tabla_coma">71,04</td>
+<td class="cuerpo_tabla_coma">71,04</td>
+<td class="cuerpo_tabla_coma">69,81</td>
+<td class="cuerpo_tabla_coma">69,81</td>
+<td class="cuerpo_tabla_coma">69,81</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Mínimo Insular.</td>
+<td class="cuerpo_tabla_coma">109,27</td>
+<td class="cuerpo_tabla_coma">109,27</td>
+<td class="cuerpo_tabla_coma">106,05</td>
+<td class="cuerpo_tabla_coma">106,05</td>
+<td class="cuerpo_tabla_coma">106,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Máximo Insular.</td>
+<td class="cuerpo_tabla_coma">133,55</td>
+<td class="cuerpo_tabla_coma">133,55</td>
+<td class="cuerpo_tabla_coma">131,24</td>
+<td class="cuerpo_tabla_coma">131,24</td>
+<td class="cuerpo_tabla_coma">131,24</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2" rowspan="2">Ayuda Asociada a la Producción Tradicional de Uva Pasa.</td>
+<td class="cuerpo_tabla_izq" colspan="2">Mínimo.</td>
+<td class="cuerpo_tabla_coma">686,87</td>
+<td class="cuerpo_tabla_coma">686,87</td>
+<td class="cuerpo_tabla_coma">872,32</td>
+<td class="cuerpo_tabla_coma">872,32</td>
+<td class="cuerpo_tabla_coma">872,32</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="2">Máximo.</td>
+<td class="cuerpo_tabla_coma">843,77</td>
+<td class="cuerpo_tabla_coma">843,77</td>
+<td class="cuerpo_tabla_coma">1.071,58</td>
+<td class="cuerpo_tabla_coma">1.071,58</td>
+<td class="cuerpo_tabla_coma">1.071,58</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla_ancha">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">Ayuda Asociada al olivar con dificultades específicas y alto valor medioambiental.</td>
+<td class="cuerpo_tabla_izq">Mínimo Peninsular tramo 1.</td>
+<td class="cuerpo_tabla_coma">35,28</td>
+<td class="cuerpo_tabla_coma">35,28</td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">35,28</td>
+<td class="cuerpo_tabla_coma">35,28</td>
+<td class="cuerpo_tabla_coma">35,28</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Peninsular tramo 1.</td>
+<td class="cuerpo_tabla_coma">117,59</td>
+<td class="cuerpo_tabla_coma">117,59</td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">117,59</td>
+<td class="cuerpo_tabla_coma">117,59</td>
+<td class="cuerpo_tabla_coma">117,59</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo tramo 2.</td>
+<td class="cuerpo_tabla_coma">17,64</td>
+<td class="cuerpo_tabla_coma">17,64</td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">17,64</td>
+<td class="cuerpo_tabla_coma">17,64</td>
+<td class="cuerpo_tabla_coma">17,64</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo tramo 2.</td>
+<td class="cuerpo_tabla_coma">58,80</td>
+<td class="cuerpo_tabla_coma">58,80</td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">58,80</td>
+<td class="cuerpo_tabla_coma">58,80</td>
+<td class="cuerpo_tabla_coma">58,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Insular.</td>
+<td class="cuerpo_tabla_coma">38,81</td>
+<td class="cuerpo_tabla_coma">38,81</td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">38,81</td>
+<td class="cuerpo_tabla_coma">38,81</td>
+<td class="cuerpo_tabla_coma">38,81</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Insular.</td>
+<td class="cuerpo_tabla_coma">129,35</td>
+<td class="cuerpo_tabla_coma">129,35</td>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_coma">129,35</td>
+<td class="cuerpo_tabla_coma">129,35</td>
+<td class="cuerpo_tabla_coma">129,35</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica por el art. 3.43 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+## ANEXO XXI — Asignación financiera total de las ayudas asociadas ganaderas (en euros)
+
+|  | 2023 | 2024 | 2025 | 2026 | 2027 |
+|---|---|---|---|---|---|
+| Ayuda asociada para los ganaderos extensivos de vacuno de carne. | 186.610.000 | 186.610.000 | 186.610.000 | 186.610.000 | 186.610.000 |
+| Ayuda asociada para el engorde de terneros en la explotación de nacimiento. | 12.390.000 | 12.390.000 | 12.390.000 | 12.390.000 | 12.390.000 |
+| Ayuda asociada para el engorde sostenible de terneros. | 25.900.000 | 25.900.000 | 25.900.000 | 25.900.000 | 25.900.000 |
+| Ayuda asociada para la producción sostenible de leche de vaca. | 122.000.000 | 122.000.000 | 122.000.000 | 122.000.000 | 122.000.000 |
+| Ayuda asociada para los ganaderos extensivos y semiextensivos de ovino y caprino de carne. | 131.620.000 | 131.620.000 | 131.620.000 | 131.620.000 | 131.620.000 |
+| Ayuda asociada para la producción sostenible de leche de oveja y cabra. | 44.680.000 | 44.680.000 | 44.680.000 | 44.680.000 | 44.680.000 |
+| Ayuda asociada para los ganaderos extensivos y semiextensivos de ovino y caprino sin pastos a su disposición y que pastorean superficies de rastrojeras, barbechos y restos hortofrutícolas. | 20.000.000 | 20.000.000 | 20.000.000 | 20.000.000 | 20.000.000 |
+
+## ANEXO XXII — Importes unitarios mínimos y máximos de las ayudas asociadas a ganaderos (€/animal elegible)
+
+<table class="tabla_ancha">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla">2023</th>
+<th class="cabeza_tabla">2024</th>
+<th class="cabeza_tabla">2025</th>
+<th class="cabeza_tabla">2026</th>
+<th class="cabeza_tabla">2027</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="8">Ayuda asociada para los ganaderos extensivos de vacuno de carne.</td>
+<td class="cuerpo_tabla_izq">Mínimo Peninsular.</td>
+<td class="cuerpo_tabla_coma">67,36</td>
+<td class="cuerpo_tabla_coma">67,36</td>
+<td class="cuerpo_tabla_coma">67,36</td>
+<td class="cuerpo_tabla_coma">67,36</td>
+<td class="cuerpo_tabla_coma">67,36</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Peninsular.</td>
+<td class="cuerpo_tabla_coma">304,38</td>
+<td class="cuerpo_tabla_coma">304,38</td>
+<td class="cuerpo_tabla_coma">304,38</td>
+<td class="cuerpo_tabla_coma">304,38</td>
+<td class="cuerpo_tabla_coma">304,38</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Peninsular Raza Autóctona.</td>
+<td class="cuerpo_tabla_coma">74,10</td>
+<td class="cuerpo_tabla_coma">74,10</td>
+<td class="cuerpo_tabla_coma">74,10</td>
+<td class="cuerpo_tabla_coma">74,10</td>
+<td class="cuerpo_tabla_coma">74,10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Peninsular Raza Autóctona.</td>
+<td class="cuerpo_tabla_coma">334,82</td>
+<td class="cuerpo_tabla_coma">334,82</td>
+<td class="cuerpo_tabla_coma">334,82</td>
+<td class="cuerpo_tabla_coma">334,82</td>
+<td class="cuerpo_tabla_coma">334,82</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Insular.</td>
+<td class="cuerpo_tabla_coma">76,41</td>
+<td class="cuerpo_tabla_coma">76,41</td>
+<td class="cuerpo_tabla_coma">76,41</td>
+<td class="cuerpo_tabla_coma">76,41</td>
+<td class="cuerpo_tabla_coma">76,41</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Insular.</td>
+<td class="cuerpo_tabla_coma">456,57</td>
+<td class="cuerpo_tabla_coma">456,57</td>
+<td class="cuerpo_tabla_coma">456,57</td>
+<td class="cuerpo_tabla_coma">456,57</td>
+<td class="cuerpo_tabla_coma">456,57</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Insular Raza Autóctona.</td>
+<td class="cuerpo_tabla_coma">84,05</td>
+<td class="cuerpo_tabla_coma">84,05</td>
+<td class="cuerpo_tabla_coma">84,05</td>
+<td class="cuerpo_tabla_coma">84,05</td>
+<td class="cuerpo_tabla_coma">84,05</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Insular Raza Autóctona.</td>
+<td class="cuerpo_tabla_coma">502,23</td>
+<td class="cuerpo_tabla_coma">502,23</td>
+<td class="cuerpo_tabla_coma">502,23</td>
+<td class="cuerpo_tabla_coma">502,23</td>
+<td class="cuerpo_tabla_coma">502,23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">Ayuda asociada para el engorde de terneros en la explotación de nacimiento.</td>
+<td class="cuerpo_tabla_izq">Mínimo Peninsular.</td>
+<td class="cuerpo_tabla_coma">21,17</td>
+<td class="cuerpo_tabla_coma">21,17</td>
+<td class="cuerpo_tabla_coma">21,17</td>
+<td class="cuerpo_tabla_coma">21,17</td>
+<td class="cuerpo_tabla_coma">21,17</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Peninsular.</td>
+<td class="cuerpo_tabla_coma">43,48</td>
+<td class="cuerpo_tabla_coma">43,48</td>
+<td class="cuerpo_tabla_coma">43,48</td>
+<td class="cuerpo_tabla_coma">43,48</td>
+<td class="cuerpo_tabla_coma">43,48</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Insular.</td>
+<td class="cuerpo_tabla_coma">28,38</td>
+<td class="cuerpo_tabla_coma">28,38</td>
+<td class="cuerpo_tabla_coma">28,38</td>
+<td class="cuerpo_tabla_coma">28,38</td>
+<td class="cuerpo_tabla_coma">28,38</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Insular.</td>
+<td class="cuerpo_tabla_coma">113,25</td>
+<td class="cuerpo_tabla_coma">113,25</td>
+<td class="cuerpo_tabla_coma">113,25</td>
+<td class="cuerpo_tabla_coma">113,25</td>
+<td class="cuerpo_tabla_coma">113,25</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="6">Ayuda asociada para el engorde sostenible de terneros.</td>
+<td class="cuerpo_tabla_izq">Mínimo Peninsular (hasta 600 terneros).</td>
+<td class="cuerpo_tabla_coma">13,02</td>
+<td class="cuerpo_tabla_coma">13,02</td>
+<td class="cuerpo_tabla_coma">13,02</td>
+<td class="cuerpo_tabla_coma">13,02</td>
+<td class="cuerpo_tabla_coma">13,02</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Peninsular (hasta 600 terneros).</td>
+<td class="cuerpo_tabla_coma">76,09</td>
+<td class="cuerpo_tabla_coma">76,09</td>
+<td class="cuerpo_tabla_coma">76,09</td>
+<td class="cuerpo_tabla_coma">76,09</td>
+<td class="cuerpo_tabla_coma">76,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Peninsular (601 a 1.417 terneros).</td>
+<td class="cuerpo_tabla_coma">6,51</td>
+<td class="cuerpo_tabla_coma">6,51</td>
+<td class="cuerpo_tabla_coma">6,51</td>
+<td class="cuerpo_tabla_coma">6,51</td>
+<td class="cuerpo_tabla_coma">6,51</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Peninsular (601 a 1.417 terneros).</td>
+<td class="cuerpo_tabla_coma">21,74</td>
+<td class="cuerpo_tabla_coma">21,74</td>
+<td class="cuerpo_tabla_coma">21,74</td>
+<td class="cuerpo_tabla_coma">21,74</td>
+<td class="cuerpo_tabla_coma">21,74</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Insular (hasta 1.417 terneros).</td>
+<td class="cuerpo_tabla_coma">19,53</td>
+<td class="cuerpo_tabla_coma">19,53</td>
+<td class="cuerpo_tabla_coma">19,53</td>
+<td class="cuerpo_tabla_coma">19,53</td>
+<td class="cuerpo_tabla_coma">19,53</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Insular (hasta 1.147 teneros).</td>
+<td class="cuerpo_tabla_coma">114,14</td>
+<td class="cuerpo_tabla_coma">114,14</td>
+<td class="cuerpo_tabla_coma">114,14</td>
+<td class="cuerpo_tabla_coma">114,14</td>
+<td class="cuerpo_tabla_coma">114,14</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="10">Ayuda asociada para la producción sostenible de leche de vaca.</td>
+<td class="cuerpo_tabla_izq">Mínimo Peninsular (hasta 150 vacas).</td>
+<td class="cuerpo_tabla_coma">153,00</td>
+<td class="cuerpo_tabla_coma">153,00</td>
+<td class="cuerpo_tabla_coma">153,00</td>
+<td class="cuerpo_tabla_coma">153,00</td>
+<td class="cuerpo_tabla_coma">153,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Peninsular (hasta 150).</td>
+<td class="cuerpo_tabla_coma">173,00</td>
+<td class="cuerpo_tabla_coma">173,00</td>
+<td class="cuerpo_tabla_coma">173,00</td>
+<td class="cuerpo_tabla_coma">173,00</td>
+<td class="cuerpo_tabla_coma">173,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Peninsular (151 hasta 725 vacas).</td>
+<td class="cuerpo_tabla_coma">76,00</td>
+<td class="cuerpo_tabla_coma">76,00</td>
+<td class="cuerpo_tabla_coma">76,00</td>
+<td class="cuerpo_tabla_coma">76,00</td>
+<td class="cuerpo_tabla_coma">76,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Peninsular (151 hasta 725 vacas).</td>
+<td class="cuerpo_tabla_coma">86,50</td>
+<td class="cuerpo_tabla_coma">86,50</td>
+<td class="cuerpo_tabla_coma">86,50</td>
+<td class="cuerpo_tabla_coma">86,50</td>
+<td class="cuerpo_tabla_coma">86,50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Peninsular zonas de montaña (hasta 150 vacas).</td>
+<td class="cuerpo_tabla_coma">176,00</td>
+<td class="cuerpo_tabla_coma">176,00</td>
+<td class="cuerpo_tabla_coma">176,00</td>
+<td class="cuerpo_tabla_coma">176,00</td>
+<td class="cuerpo_tabla_coma">176,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Peninsular zonas de montaña (hasta 150 vacas).</td>
+<td class="cuerpo_tabla_coma">198,95</td>
+<td class="cuerpo_tabla_coma">198,95</td>
+<td class="cuerpo_tabla_coma">198,95</td>
+<td class="cuerpo_tabla_coma">198,95</td>
+<td class="cuerpo_tabla_coma">198,95</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Peninsular zonas de montaña (151 hasta 725 vacas).</td>
+<td class="cuerpo_tabla_coma">88,00</td>
+<td class="cuerpo_tabla_coma">88,00</td>
+<td class="cuerpo_tabla_coma">88,00</td>
+<td class="cuerpo_tabla_coma">88,00</td>
+<td class="cuerpo_tabla_coma">88,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Peninsular zonas de montaña (151 hasta 725 vacas).</td>
+<td class="cuerpo_tabla_coma">99,48</td>
+<td class="cuerpo_tabla_coma">99,48</td>
+<td class="cuerpo_tabla_coma">99,48</td>
+<td class="cuerpo_tabla_coma">99,48</td>
+<td class="cuerpo_tabla_coma">99,48</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Insular (hasta 725 vacas).</td>
+<td class="cuerpo_tabla_coma">183,00</td>
+<td class="cuerpo_tabla_coma">183,00</td>
+<td class="cuerpo_tabla_coma">183,00</td>
+<td class="cuerpo_tabla_coma">183,00</td>
+<td class="cuerpo_tabla_coma">183,00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Insular (hasta 725 vacas).</td>
+<td class="cuerpo_tabla_coma">207,60</td>
+<td class="cuerpo_tabla_coma">207,60</td>
+<td class="cuerpo_tabla_coma">207,60</td>
+<td class="cuerpo_tabla_coma">207,60</td>
+<td class="cuerpo_tabla_coma">207,60</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">Ayuda asociada para los ganaderos extensivos y semiextensivos de ovino y caprino de carne.</td>
+<td class="cuerpo_tabla_izq">Mínimo Peninsular.</td>
+<td class="cuerpo_tabla_coma">12,80</td>
+<td class="cuerpo_tabla_coma">12,80</td>
+<td class="cuerpo_tabla_coma">12,80</td>
+<td class="cuerpo_tabla_coma">12,80</td>
+<td class="cuerpo_tabla_coma">12,80</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Peninsular.</td>
+<td class="cuerpo_tabla_coma">42,46</td>
+<td class="cuerpo_tabla_coma">42,46</td>
+<td class="cuerpo_tabla_coma">42,46</td>
+<td class="cuerpo_tabla_coma">42,46</td>
+<td class="cuerpo_tabla_coma">42,46</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Insular.</td>
+<td class="cuerpo_tabla_coma">19,21</td>
+<td class="cuerpo_tabla_coma">19,21</td>
+<td class="cuerpo_tabla_coma">19,21</td>
+<td class="cuerpo_tabla_coma">19,21</td>
+<td class="cuerpo_tabla_coma">19,21</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Insular.</td>
+<td class="cuerpo_tabla_coma">63,68</td>
+<td class="cuerpo_tabla_coma">63,68</td>
+<td class="cuerpo_tabla_coma">63,68</td>
+<td class="cuerpo_tabla_coma">63,68</td>
+<td class="cuerpo_tabla_coma">63,68</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">Ayuda asociada para la producción sostenible de leche de oveja y cabra.</td>
+<td class="cuerpo_tabla_izq">Mínimo Peninsular.</td>
+<td class="cuerpo_tabla_coma">10,55</td>
+<td class="cuerpo_tabla_coma">10,55</td>
+<td class="cuerpo_tabla_coma">10,55</td>
+<td class="cuerpo_tabla_coma">10,55</td>
+<td class="cuerpo_tabla_coma">10,55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Peninsular.</td>
+<td class="cuerpo_tabla_coma">30,22</td>
+<td class="cuerpo_tabla_coma">30,22</td>
+<td class="cuerpo_tabla_coma">30,22</td>
+<td class="cuerpo_tabla_coma">30,22</td>
+<td class="cuerpo_tabla_coma">30,22</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Insular.</td>
+<td class="cuerpo_tabla_coma">15,83</td>
+<td class="cuerpo_tabla_coma">15,83</td>
+<td class="cuerpo_tabla_coma">15,83</td>
+<td class="cuerpo_tabla_coma">15,83</td>
+<td class="cuerpo_tabla_coma">15,83</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Insular.</td>
+<td class="cuerpo_tabla_coma">45,33</td>
+<td class="cuerpo_tabla_coma">45,33</td>
+<td class="cuerpo_tabla_coma">45,33</td>
+<td class="cuerpo_tabla_coma">45,33</td>
+<td class="cuerpo_tabla_coma">45,33</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">Ayuda asociada para los ganaderos extensivos y semiextensivos de ovino y caprino sin pastos a su disposición y que pastorean superficies de rastrojeras, barbechos y restos hortofrutícolas.</td>
+<td class="cuerpo_tabla_izq">Mínimo Peninsular.</td>
+<td class="cuerpo_tabla_coma">2,09</td>
+<td class="cuerpo_tabla_coma">2,09</td>
+<td class="cuerpo_tabla_coma">2,09</td>
+<td class="cuerpo_tabla_coma">2,09</td>
+<td class="cuerpo_tabla_coma">2,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Peninsular.</td>
+<td class="cuerpo_tabla_coma">30,23</td>
+<td class="cuerpo_tabla_coma">30,23</td>
+<td class="cuerpo_tabla_coma">30,23</td>
+<td class="cuerpo_tabla_coma">30,23</td>
+<td class="cuerpo_tabla_coma">30,23</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Mínimo Insular.</td>
+<td class="cuerpo_tabla_coma">3,89</td>
+<td class="cuerpo_tabla_coma">3,89</td>
+<td class="cuerpo_tabla_coma">3,89</td>
+<td class="cuerpo_tabla_coma">3,89</td>
+<td class="cuerpo_tabla_coma">3,89</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Máximo Insular.</td>
+<td class="cuerpo_tabla_coma">45,35</td>
+<td class="cuerpo_tabla_coma">45,35</td>
+<td class="cuerpo_tabla_coma">45,35</td>
+<td class="cuerpo_tabla_coma">45,35</td>
+<td class="cuerpo_tabla_coma">45,35</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica por la disposición final 7.15 del Real Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023. [Ref. BOE-A-2023-2253](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2253)
+
+## ANEXO XXIII — Morfotipos a los que hacen referencia los artículos 84 y 93
+
+– Angler Rotvieh (Angeln) – Rød dansk mælkerace (RMD) – German Red – Lithuanian Red.
+
+– Ayrshire.
+
+– Armoricaine.
+
+– Bretonne pie noire.
+
+– Frisona.
+
+– Groninger Blaarkop.
+
+– Guernsey.
+
+– Jersey.
+
+– Malkeborthorn.
+
+– Reggiana.
+
+– Valdostana Nera.
+
+– Itäsuomenkarja.
+
+– Länsisuomenkarja.
+
+– Pohjoissuomenkarja.
+
+## ANEXO XXIV — Consideraciones relativas a la declaración de pastos permanentes
+
+De acuerdo con el artículo 106.4.c), la identificación de la parcela agrícola en la declaración gráfica de superficies de pastos permanentes, cuando se trate de superficies de uso común, se realizará teniendo en cuenta lo siguiente:
+
+1\. La autoridad competente de la comunidad autónoma podrá decidir que los recintos que se declaren sean recintos normales o recintos con otras referencias oficiales. Se consideran recintos normales los que tienen una identificación referenciada en SIGPAC.
+
+2\. Tanto si se trata de recintos normales como recintos con otras referencias oficiales, la autoridad gestora del pasto declarado en común, de forma previa a la apertura de la solicitud única o en paralelo a la misma, deberá presentar una declaración, con base en el procedimiento que establezca la autoridad competente de la comunidad autónoma, en la que se incluya, al menos, la siguiente información:
+
+– Datos generales de la autoridad gestora: nombre o razón social y, si se dispone del mismo, DNI/NIF. Debe ser puesto en conocimiento de los agricultores por parte de dicha autoridad gestora.
+
+– Denominación, si procede, del pasto declarado en común y, si se dispone del mismo, número de MUP en el caso de los montes de utilidad pública.
+
+– En su caso, código identificativo del recinto con otras referencias oficiales: será definido por la autoridad competente de la comunidad autónoma y puesto en conocimiento de los agricultores, necesariamente antes de que finalice el período de modificación de la solicitud única, a efectos de que pueda ser utilizado en la declaración de superficies. De forma general, para un pasto declarado en común concreto se definirá un único código identificativo, a no ser que la adjudicación se realice por zonas concretas de dicho pasto, en cuyo caso se definirá un código por zona.
+
+1\. Código de provincia y municipio.
+
+2\. Códigos de agregado y zona.
+
+3\. Polígono (3 posiciones): se codificará con números del rango de los 900.
+
+4\. Parcela (5 posiciones): se codificará con números del rango de los 99000.
+
+5\. Recinto (5 posiciones): se codificará con números del rango de los 99000.
+
+– Recintos reales asociados que forman parte de los pastos declarados en común (superficie bruta). La autoridad competente de la comunidad autónoma comunicará a la autoridad gestora la información más actualizada disponible en el SIGPAC al inicio de cada campaña, sin perjuicio de la responsabilidad de la autoridad gestora y los solicitantes de los pastos declarados en común respecto a la veracidad de la declaración.
+
+– Delimitación gráfica de la superficie de los pastos utilizada en común dentro de los recintos reales mencionados en el párrafo anterior.
+
+– Coeficiente de subvencionabilidad (CSP) de los pastos declarados en común. El CSP se establecerá en cada uno de los recintos que conforman el pasto declarado en común.
+
+– Agricultores asociados con su NIF.
+
+– Participación de cada agricultor en el pasto declarado en común, que podrán ser el número de hectáreas asignadas a cada uno de los agricultores o el porcentaje de participación.
+
+– Número de animales a los que se autoría a cada titular a llevar al pasto utilizado en común y fecha de inicio y fin del periodo en que se autoriza a realizar dicha actividad.
+
+– Código o códigos REGA asignados a dicho pasto.
+
+– Titularidad pública o privada del pasto declarado en común.
+
+3\. En los casos en los que, conforme lo estipulado en el artículo 8 y en el anexo IV, se opte por formalizar acuerdo con la autoridad gestora del pasto utilizado en común para realizar actividades de mantenimiento, la autoridad gestora implicada, de forma previa a la apertura de la solicitud única o en paralelo a la misma, deberá presentar además una declaración respecto de la superficie afectada, con base en el procedimiento que establezca la autoridad competente de la comunidad autónoma, en la que, además de la información contenida en el apartado 2 anterior, se tenga en cuenta la siguiente consideración:
+
+– Debe recogerse la identificación de los recintos reales del pasto permanente utilizado en común en los que se vaya a realizar la actividad de mantenimiento, así como la delimitación gráfica de dichas superficies. Estos recintos reales no se reflejarán en la declaración del pasto dedicado a pastoreo o siega, realizada de forma paralela por la autoridad gestora, y se excluirán por tanto del reparto que a dichos efectos se realiza a los ganaderos.
+
+4\. Por su parte, el solicitante de pastos declarados en común deberá declarar:
+
+a) En el caso de declarar recintos normales, indicará la relación de todos los recintos de los que ha sido adjudicatario y la superficie asignada en cada uno de ellos en hectáreas con dos decimales.
+
+b) En el caso de declarar recintos con otras referencias oficiales:
+
+– Hectáreas asignadas por la autoridad gestora del pasto declarado en común que solicita.
+
+– Datos generales de la autoridad Gestora del pasto declarado en común, que deberá coincidir con el identificativo a que hace referencia en el punto anterior de la declaración de la autoridad gestora.
+
+– Código identificativo del recinto o recintos con otras referencias oficiales correspondientes al pasto declarado en común que desea declarar y que ha sido definido previamente por la autoridad gestora. Debe coincidir con el código a que hace referencia el punto anterior de la declaración de la autoridad gestora.
+
+## ANEXO XXV — Especificaciones fotos georreferenciadas
+
+1\. Información mínima que deben contener las fotografías georreferenciadas:
+
+a) Ubicación geográfica: longitud y latitud.
+
+b) Fecha y hora de captura, debiendo estar registradas automáticamente por la cámara o teléfono móvil utilizado. No se permite establecer en el dispositivo la fecha y hora de forma manual.
+
+c) Información de los recintos SIGPAC o las parcelas agrícolas afectadas.
+
+d) La identificación del cultivo y, en su caso, el estado de desarrollo del mismo, o el cumplimiento del requisito o compromiso que se pretende verificar deben ser plenamente identificables en la fotografía.
+
+2\. Formato de imagen, calidad y parámetros.
+
+Las imágenes deberán tener una resolución mínima de 2 megapíxeles. En consecuencia, los sensores de la cámara empleada habrán de tener, como mínimo, la resolución indicada.
+
+3\. Número de fotografías.
+
+Se tomarán un mínimo de dos fotografías. Entre las fotografías aportadas deberá haber, al menos:
+
+a) Una fotografía general que refleje la superficie afectada por la incidencia.
+
+b) Una fotografía de detalle que permita comprobar la veracidad de la incidencia o aportar la información requerida.
+
+4\. Integridad y seguridad de la información.
+
+En ningún caso se admitirán fotografías editadas, bien sea por aplicación de filtros y efectos, o por la manipulación de estas en cualquier aspecto. Al efecto, se establecerán las medidas necesarias que permitan la detección de dicha manipulación.
+
+En todo caso, durante la captura de las fotografías, se evitará que aparezcan en ellas personas, matrículas de automóviles, carteles o logos con objeto de cumplir los requerimientos de privacidad.

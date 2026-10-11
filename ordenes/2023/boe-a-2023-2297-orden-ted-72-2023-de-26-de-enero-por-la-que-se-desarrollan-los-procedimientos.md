@@ -1,0 +1,191 @@
+---
+title: "Orden TED/72/2023, de 26 de enero, por la que se desarrollan los procedimientos necesarios para el cumplimiento de la obligación de mantenimiento de existencias mínimas de seguridad de gas natural"
+identifier: "BOE-A-2023-2297"
+eli: "https://www.boe.es/eli/es/o/2023/01/26/ted72"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio para la Transición Ecológica y el Reto Demográfico"
+date: 2023-01-26
+published: 2023-01-30
+in_force_from: 2023-01-31
+last_amended: 2026-04-02
+consolidated: 2026-04-06
+gazette: "Boletín Oficial del Estado núm. 25"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2023-2297"
+retrieved: 2026-10-11
+---
+
+# Orden TED/72/2023, de 26 de enero, por la que se desarrollan los procedimientos necesarios para el cumplimiento de la obligación de mantenimiento de existencias mínimas de seguridad de gas natural
+
+El artículo 98 de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, determina que los comercializadores de gas natural y consumidores directos en mercado dispongan de existencias mínimas de seguridad expresadas en días equivalentes de sus ventas o consumos firmes y establece que reglamentariamente se determinará la parte de existencias mínimas de seguridad que tendrán carácter estratégico y las que tendrán carácter operativo, así como la forma en que éstas podrán computarse y los sujetos encargados de su constitución, mantenimiento y gestión.
+
+Mediante el Real Decreto 1716/2004, de 23 de julio, por el que se regula la obligación de mantenimiento de existencias mínimas de seguridad, la diversificación de abastecimiento de gas natural y la Corporación de Reservas Estratégicas de Productos Petrolíferos (CORES), se estableció en 20 días de consumo firme la cuantía de las existencias mínimas de seguridad que los usuarios habrían de mantener en los almacenamientos subterráneos básicos.
+
+El Real Decreto-ley 6/2022, de 29 de marzo, por el que se adoptan medidas urgentes en el marco del Plan Nacional de respuesta a las consecuencias económicas y sociales de la guerra en Ucrania, modificó los artículos 2 y 17 del citado Real Decreto 1716/2004, de 23 de julio, incrementando la obligación de mantenimiento de existencias mínimas de seguridad de 20 a 27,5 días de ventas o consumos firmes. El real decreto-ley introdujo también una nueva clasificación de estas existencias, pasando 10 días a tener carácter estratégico, movilizables por el Gobierno, mientras que otros 10 días pasaron a ser existencias mínimas operativas del sistema, movilizables por la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico y, por último, 7,5 días se convirtieron en existencias mínimas operativas de los usuarios, que estos deben tener almacenadas durante, al menos, el 1 de noviembre.
+
+El precitado artículo 17.2 estableció asimismo que «la cuantía y localización de las existencias mínimas de seguridad, tanto estratégicas como operativas, podrá ser modificada por la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico, que asimismo podrá establecer calendarios obligatorios de inyección y extracción de las mismas». Asimismo, la disposición transitoria segunda de dicho real decreto-ley habilitó al Gestor Técnico del Sistema (GTS) para adquirir gas natural destinado a existencias mínimas de seguridad en el mercado organizado de gas en caso de incumplimiento por parte de los sujetos obligados y a contratar y facturar la capacidad necesaria en los almacenamientos subterráneos para el periodo comprendido entre el 1 de abril de 2022 y el 31 de marzo de 2023. Esta disposición facultó también a la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico para prorrogar la aplicación de la disposición durante periodos posteriores.
+
+Por otra parte, la disposición final tercera del citado Real Decreto 1716/2004, de 23 de julio, autorizó a la persona titular del Ministerio de Industria, Energía y Turismo, referencia que en la actualidad debe entenderse dirigida al Ministerio para la Transición Ecológica y el Reto Demográfico, a dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de este real decreto.
+
+El Reglamento (UE) 2022/1032, del Parlamento Europeo y del Consejo, de 29 de junio de 2022, por el que se modifican los Reglamentos (UE) 2017/1938 y (CE) n.º 715/2009 en relación con el almacenamiento de gas, introdujo la obligación de alcanzar, el 1 de noviembre de 2022, un 80% de llenado mínimo de los almacenamientos subterráneos y un 90% en los años siguientes, incluyendo en su anexo I una trayectoria de llenado de obligado cumplimiento para el año 2022, mientras que para el año 2023 y siguientes esta será propuesta por cada Estado miembro.
+
+Habida cuenta de que la obligación de mantenimiento de existencias mínimas de seguridad en España se calcula, conforme el artículo 98 de la Ley 34/1998, de 7 de octubre, en número de días de ventas o consumos firmes, mediante esta orden se traduce el referido objetivo de llenado a las unidades empleadas por la normativa nacional. La orden determina también otras cuestiones necesarias para alcanzar el objetivo de llenado como son la determinación del porcentaje de gas natural licuado que podrá emplearse para el cumplimiento de la obligación, el procedimiento de control por parte de la CORES y el procedimiento de adquisición de gas natural por parte del GTS en caso de incumplimiento de un sujeto obligado.
+
+Asimismo, mediante la orden se modifica el artículo sexto de la Orden ITC/3862/2007, de 28 de diciembre, por la que se establece el mecanismo de asignación de la capacidad de los almacenamientos subterráneos de gas natural y se crea un mercado de capacidad, retrasando diez días el plazo de presentación de solicitudes de capacidad de almacenamiento subterráneo de los usuarios, con el objetivo de que estos cuenten previamente con la información de sus obligaciones calculada por CORES. Este aplazamiento de la presentación de solicitudes obliga a modificar también el artículo 7 de la orden, que fija los plazos del GTS para comunicar la asignación provisional y definitiva de la capacidad de los almacenamientos subterráneos.
+
+Por lo tanto, se puede concluir que esta orden se dicta ante la necesidad de desarrollar cuestiones esenciales de la normativa española de mantenimiento de existencias mínimas de seguridad. En relación con el principio de eficacia, esta orden ministerial es el instrumento necesario y adecuado al tener el rango previsto en la disposición de habilitación del citado Real Decreto 1716/2004, de 23 de julio. Por otra parte, la orden cumple el principio de proporcionalidad al limitarse a modificar sólo las cuestiones imprescindibles para alcanzar los objetivos buscados. Igualmente, se ajusta al principio de seguridad jurídica, dado que establece una fórmula de cálculo de la obligación de existencias mínimas de seguridad que es función de parámetros objetivos y que aporta la máxima transparencia y predictibilidad a los sujetos obligados, eliminando cualquier discriminación o duda de interpretación.
+
+Por su parte, la tramitación de la orden ha seguido un proceso transparente, llevándose a cabo el correspondiente trámite de audiencia de la propuesta, a través de la página web del Ministerio para la Transición Ecológica y el Reto Demográfico, dando la oportunidad a los agentes de presentar alegaciones desde el 29 de julio de 2022 hasta el 2 de septiembre de 2022.
+
+Por último, con respecto al principio de eficiencia, las cuestiones reguladas en la presente orden implican cargas administrativas adicionales a CORES y al GTS en lo que se refiere al control del cumplimiento de la nueva obligación y en relación a la compra subsidiaria de gas natural, respectivamente. Respecto a la primera, se ha tratado de no alterar el actual procedimiento de control con alcance diario que realiza actualmente la corporación y únicamente se ha incorporado el control extraordinario adicional a realizar exclusivamente los meses en los que el reglamento europeo obliga a verificar el nivel de llenado, añadiendo determinadas obligaciones de información necesarias para alcanzar dicho objetivo. En relación con el procedimiento de compra subsidiaria por parte del GTS, éste se producirá solamente cuando el incumplimiento de la obligación de llenado tenga lugar en las fechas de verificación que establece el reglamento europeo.
+
+En resumen, la concepción y tramitación de la orden cumple los principios de buena regulación enumerados en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+La orden se adecua al orden competencial, al dictarse al amparo de lo establecido en el artículo 149.1.13.ª y 25.ª de la Constitución Española, que atribuye al Estado competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica y de bases del régimen minero y energético, respectivamente. La orden se dicta al amparo de la habilitación de modificación del número de días de consumo computables en la obligación de almacenamiento, recogida en el artículo 17.2 del Real Decreto 1716/2004, de 23 de julio, a favor de la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico, y de la habilitación de desarrollo establecida en la disposición final tercera del mismo real decreto.
+
+La orden ha sido objeto del Informe IPN/CNMC/034/22 de la Comisión Nacional de los Mercados y la Competencia, que fue aprobado por su Consejo en Pleno el 20 de septiembre de 2022 y para cuya elaboración se han tenido en cuenta las alegaciones formuladas en el trámite de audiencia efectuado a través del Consejo Consultivo de Hidrocarburos. El Consejo Consultivo de Hidrocarburos sigue ejerciendo sus funciones hasta la constitución del Consejo Consultivo de Energía de acuerdo con lo dispuesto en la disposición transitoria décima de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia.
+
+En su virtud, dispongo:
+
+## Artículo 1. Objeto.
+
+1\. La orden adecua el procedimiento de aplicación del Real Decreto 1716/2004, de 23 de julio, por el que se regula la obligación de mantenimiento de existencias mínimas de seguridad, la diversificación de abastecimiento de gas natural y la Corporación de Reservas Estratégicas de Productos Petrolíferos (CORES), conforme a la habilitación incluida en su disposición final tercera, para cumplir con los objetivos de llenado mínimo de los almacenamientos subterráneos de gas natural impuestos al Reino de España en el Reglamento (UE) 2017/1938, del Parlamento Europeo y del Consejo, de 25 de octubre.
+
+2\. Asimismo, la orden establece los procedimientos del Gestor Técnico del Sistema (GTS) y de CORES en relación con la supervisión e inspección de existencias relacionadas con las existencias mínimas de seguridad y desarrolla el procedimiento de adquisición subsidiaria de gas por parte del GTS en caso de incumplimiento de algún sujeto, obligado conforme a lo dispuesto en la disposición transitoria segunda del Real Decreto-ley 6/2022, de 29 de marzo, por el que se adoptan medidas urgentes en el marco del Plan Nacional de respuesta a las consecuencias económicas y sociales de la guerra en Ucrania.
+
+> Se modifica el apartado 1 por el art. único.1 de la Orden TED/306/2026, de 31 de marzo. [Ref. BOE-A-2026-7440](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7440)
+
+## Artículo 2. Definiciones.
+
+Para el cálculo de las obligaciones se aplicarán las definiciones de suministro firme, de gas computable y de inicio de actividad establecidas en los artículos 16, 17 y 19 del Real Decreto 1716/2004, de 23 de junio, así como los criterios establecidos en el artículo 20 del citado real decreto.
+
+## Artículo 3. Ámbito de aplicación.
+
+La orden será de aplicación a todos los comercializadores y consumidores directos en mercado que, conforme el artículo 15 del Real Decreto 1716/2004, de 23 de junio, están obligados al mantenimiento de existencias mínimas de seguridad de gas natural. Estos deberán cumplir con la obligación mediante existencias propias o arrendadas de gas natural en almacenamientos subterráneos y de gas natural licuado (GNL) en tanques de plantas de regasificación españolas, pudiendo consolidar las ventas por grupo empresarial.
+
+## Artículo 4. Cálculo de las existencias mínimas operativas del usuario.
+
+1\. Las existencias mínimas de seguridad operativas del usuario, DOU, para cada uno de los hitos temporales, tanto orientativos como obligatorios, expresados en días de ventas o consumos firmes, serán calculadas por CORES a partir de la información proporcionada por el GTS y de los objetivos de llenado de los almacenamientos subterráneos aprobados por resolución de la Dirección General de Política Energética y Minas o de la Secretaría de Estado de Energía, en su caso, conforme a la fórmula siguiente:
+
+DOU = ((CAS * F * N) / DF) – DES - DOS
+
+Donde:
+
+– CAS: capacidad disponible de los almacenamientos subterráneos a 1 de abril, expresada en MWh, incluyendo el volumen correspondiente al gas colchón extraíble mecánicamente.
+
+– F: Objetivos de llenado mínimo de los almacenamientos subterráneos básicos, tanto orientativos como obligatorios, aprobados por resolución del titular de la Dirección General de Política Energética y Minas o de la Secretaría de Estado de Energía, en su caso.
+
+– N: número de días del año natural anterior, con un valor de 365 o de 366 en caso de año bisiesto.
+
+– DF: demanda firme del sistema gasista español del año natural anterior, expresada en MWh, conforme la definición del artículo 16 del Real Decreto 1716/2004, de 23 de julio.
+
+– DES: obligación de existencias mínimas de seguridad de carácter estratégico, expresadas en días de ventas o consumos firme.
+
+– DOS: obligación de existencias mínimas operativas del sistema, expresadas en días de ventas o consumos firme.
+
+2\. A los efectos de los cálculos anteriores, antes del 15 de enero el GTS comunicará a CORES la capacidad disponible del conjunto de almacenamientos subterráneos básicos el 1 de abril, expresadas en unidades de energía, kWh.
+
+3\. Antes del 7 de febrero, los sujetos obligados comunicarán a CORES sus cifras actualizadas de ventas o consumos firmes e interrumpibles del año natural anterior, expresadas en unidades de energía, kWh.
+
+4\. Antes del 12 de febrero, CORES comunicará a cada sujeto obligado las cuantías provisionales de sus objetivos de existencias mínimas de seguridad, tanto estratégicas, como operativas del sistema y operativas del usuario, expresadas en días de ventas y consumo firme y en unidades de energía, para el 1 de abril y el 1 de noviembre, así como para cada una de las fechas de la trayectoria de llenado referidas en el Reglamento (UE) 2017/1938 del Parlamento Europeo y del Consejo, de 25 de octubre de 2017, sobre medidas para garantizar la seguridad del suministro de gas y por el que se deroga el Reglamento (UE) 994/2010. La comunicación incluirá los parámetros empleados en el cálculo, como son la capacidad disponible de los almacenamientos subterráneos, la demanda firme del año natural anterior y los objetivos de almacenamiento de la trayectoria de llenado.
+
+5\. Los sujetos obligados dispondrán de un plazo de cinco días hábiles para presentar alegaciones. Antes del 20 de febrero, CORES comunicará al GTS y a cada sujeto obligado la cuantía definitiva de sus obligaciones, expresadas en unidades de energía, kWh. Estas cuantías serán las consideradas desde el 1 de abril hasta el 31 de marzo del año siguiente y no estarán sujetas a correcciones, salvo resultado de posteriores actuaciones de inspección de CORES.
+
+> Se modifican los apartados 1 y 4 y se suprime el 6 por el art. único.2 de la Orden TED/306/2026, de 31 de marzo. [Ref. BOE-A-2026-7440](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7440)
+
+> Se modifican los apartados 2 a 6 por la disposición final 1.1 de la Orden TED/1013/2024, de 20 de septiembre. [Ref. BOE-A-2024-19173](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19173)
+
+## Artículo 5. Empleo de gas natural licuado para el cumplimiento de la obligación de mantenimiento de existencias mínimas operativas del usuario.
+
+1\. Los sujetos obligados podrán cumplir la obligación de mantenimiento de existencias mínimas operativas del usuario, total o parcialmente mediante gas natural licuado (GNL) almacenado en plantas de regasificación nacionales. En el momento del envío de la solicitud de capacidad a la que hace referencia el artículo 6 de la Orden ITC/3862/2007, de 28 de diciembre, cada comercializador o consumidor directo en mercado informará de la cantidad de GNL almacenado en plantas nacionales que empleará en el cumplimiento de la obligación de mantenimiento de existencias mínimas de seguridad. No se asignará capacidad primaria de almacenamiento correspondiente a este volumen de GNL previsto.
+
+La capacidad de almacenamiento subterráneo asignada de manera directa solo podrá emplearse para el cumplimiento de la obligación de mantenimiento de Existencias Mínimas de Seguridad, ya sea propia o de terceros. El titular deberá renunciar a la capacidad asignada de manera directa correspondiente al volumen no destinado a tal fin. En esta situación, se procederá según lo dispuesto en el artículo 38: “Mecanismo de renuncia de capacidad” de la Circular 8/2019, de 12 de diciembre, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología y condiciones de acceso y asignación de capacidad en el sistema de gas natural.
+
+2\. La cantidad de GNL almacenado en plantas de regasificación nacionales que se compute a estos efectos podrá también emplearse para el cumplimiento de las obligaciones del Plan de Actuación Invernal.
+
+> Se modifica por el art. único.3 de la Orden TED/306/2026, de 31 de marzo. [Ref. BOE-A-2026-7440](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7440)
+
+> Se modifica el apartado 1 por la disposición final 1.2 de la Orden TED/1013/2024, de 20 de septiembre. [Ref. BOE-A-2024-19173](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19173)
+
+## Artículo 6. Trayectoria de llenado.
+
+1\. Antes del 31 de agosto del año “n” el GTS comunicará a la Dirección General de Política Energética y Minas dos propuestas de objetivos de llenado de los almacenamientos subterráneos básicos, tanto orientativos como obligatorios, para el año siguiente, correspondientes a los niveles de llenado del 90 % y del 80 %, respectivamente, del 1 de noviembre de ese año, a fin de cumplir los objetivos del Reglamento (UE) 2017/1938, del Parlamento Europeo y del Consejo, de 25 de octubre.
+
+2\. En base a dicha propuesta, la Dirección General de Política Energética y Minas aprobará mediante resolución que se publicará en el “Boletín Oficial del Estado”, la trayectoria de objetivos de llenado del año siguiente, indicando cuales serán orientativos y cuales obligatorios. Esta trayectoria se remitirá a la Comisión Europea antes del 15 de septiembre, conforme el artículo 6 bis.7 del citado reglamento.
+
+3\. En los cinco días hábiles posteriores a la publicación de la resolución, CORES comunicará a cada sujeto obligado la cuantía provisional de sus objetivos de existencias mínimas de seguridad para la primera fecha de la trayectoria de llenado aprobada por la referida resolución, expresada en días de ventas y consumos firmes, o estimaciones de ventas en su caso, y unidades de energía, aplicando a la fórmula del artículo 4 la cifra de ventas y consumos firmes del año anterior. Los sujetos obligados dispondrán de cinco días hábiles para presentar alegaciones. Las obligaciones del resto de fechas de la trayectoria de llenado serán comunicadas a los sujetos obligados conforme lo dispuesto en el artículo 4.4.
+
+4\. La obligación de existencias mínimas operativas de un usuario, correspondientes al 1 de noviembre podrá ser cumplida cualquier día del período comprendido entre el 1 de octubre y el 1 de diciembre (ambos incluidos).
+
+5\. Entre el 2 de febrero y el 31 de marzo, ambos incluidos, las existencias mínimas operativas de un usuario podrán ser cero, aunque en función del nivel de llenado de los almacenamientos y de las circunstancias del mercado, el GTS podrá determinar, antes del 1 de febrero, un valor mínimo obligatorio para el 1 de marzo para asegurar el cumplimiento del siguiente objetivo de llenado obligatorio.
+
+6\. Desde el 2 de abril al 31 de octubre, ambos incluidos, las existencias mínimas operativas de un usuario no podrán ser inferiores, en unidades de energía, al valor aprobado para el hito obligatorio inmediatamente anterior.
+
+7\. Desde el 2 de noviembre y hasta el 31 de enero del año siguiente, ambos incluidos, las existencias mínimas operativas de un usuario no podrán ser inferiores al valor aprobado para el hito obligatorio inmediatamente posterior.
+
+8\. En el caso de que se cumplan los requisitos establecidos en el Reglamento (UE) 2017/1938, del Parlamento Europeo y del Consejo, de 25 de octubre de 2017, mediante resolución del titular de la Secretaría de Estado de Energía se podrán modificar los objetivos de llenado. Dicha resolución será comunicada a CORES, que dispondrá de cinco días hábiles para calcular las cuantías provisionales de los nuevos objetivos, en días de ventas y consumo firme, así como en unidades de energía, conforme la fórmula del artículo 4 y las notificará a los sujetos obligados. Estos dispondrán de un plazo de cinco días hábiles para presentar alegaciones, transcurrido el cual CORES notificará a cada sujeto obligado y al GTS las cuantías definitivas de sus objetivos de existencias mínimas de seguridad.
+
+> Se modifica por el art. único.4 de la Orden TED/306/2026, de 31 de marzo. [Ref. BOE-A-2026-7440](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7440)
+
+## Artículo 7. Verificación del cumplimiento de la obligación.
+
+1\. Conforme al artículo 37 del Real Decreto 1716/2004, de 23 de julio, CORES verificará el cumplimiento de la obligación de mantenimiento de existencias mínimas de seguridad por parte de los sujetos obligados con base en la información remitida por el GTS y por los sujetos obligados.
+
+2\. Las existencias comunicadas por el GTS se asignarán a las diferentes categorías de existencias mínimas de seguridad conforme al siguiente orden: en primer lugar, se asignarán a existencias mínimas estratégicas; en segundo lugar, una vez completadas las primeras, a operativas del sistema; y, por último, a operativas del usuario.
+
+## Artículo 8. Adquisición subsidiaria de gas natural por parte del GTS.
+
+1\. Para los meses incluidos en la trayectoria de llenado con objetivos obligatorios, antes de finalizar el segundo día hábil del mes, el GTS comunicará a CORES el volumen de existencias de gas natural y de GNL de los sujetos obligados, al cierre del primer día de gas del mes.
+
+2\. De acuerdo con la información anterior y conforme con las declaraciones de arrendamiento de existencias y de consolidación por grupos de sociedades, CORES realizará una verificación extraordinaria del cumplimiento de la obligación por parte de cada sujeto obligado el primer día de gas del mes. En un plazo máximo de tres días hábiles desde la recepción de la información del GTS, CORES comunicará a los sujetos obligados su defecto de existencias, que dispondrán de dos días hábiles para formular alegaciones. Trascurrido este plazo, y en un plazo máximo de cinco días hábiles, CORES enviará al GTS una relación de los sujetos obligados que hubieran incumplido la obligación de mantenimiento de existencias mínimas de seguridad, así como la cuantía de las mismas.
+
+3\. En un plazo máximo de dos días hábiles desde la recepción de la comunicación anterior, previa verificación de que el sujeto obligado del sistema gasista continúa incumpliendo sus obligaciones de Existencias de Mínimas de Seguridad, el GTS procederá del siguiente modo:
+
+a) Cuando no exista riesgo de incumplimiento de los hitos de llenado del almacenamiento subterráneo, el GTS facturará al usuario el ajuste menor referido en el artículo 8.7 de la Circular 2/2020, de 9 de enero, de la Comisión Nacional de los Mercados y la Competencia, por la que se establecen las normas de balance de gas natural, sobre el precio medio ponderado de compra para AVB correspondiente a ese volumen en el día de gas siguiente al segundo día hábil desde la recepción de la reiterada comunicación, a los que se añadirá el canon de inyección, el peaje de salida de PVB y los cargos asociados.
+
+b) En caso de que exista riesgo de incumplimiento de los referidos hitos, el GTS adquirirá ese volumen en el mercado organizado de gas natural en una o varias sesiones y actuará conforme lo siguiente:
+
+i. En el caso de que el usuario disponga de cartera de balance en el AVB y capacidad de almacenamiento suficiente, el GTS adquirirá e inyectará ese volumen en el almacenamiento subterráneo a nombre del usuario, cargando la tarifa de desbalance correspondiente a esa cantidad prevista en la Circular 2/2020, de 9 de enero, de la Comisión Nacional de los Mercados y la Competencia, junto con el canon de inyección, el peaje de salida de PVB y los cargos asociados.
+
+ii. En el caso de que el usuario no dispusiera de cartera de balance en el AVB, el GTS inyectará el gas en una cuenta a nombre del GTS y facturará al usuario el referido ajuste menor sobre el precio medio ponderado de compra para AVB correspondiente a ese volumen en el día de compra, junto con el canon de inyección, peaje de salida de PVB y los cargos asociados. Si posteriormente, el usuario se habilita en cartera de balance de AVB, el GTS asignará ese volumen al usuario en su balance en AVB. Para liquidar este cambio de titularidad, el GTS facturará al usuario ese volumen al precio medio ponderado de compra en AVB correspondiente a la fecha de la compra del GTS, sin incluir cánones, peajes y cargos. Una vez cumplido el último hito de la trayectoria de llenado, el GTS deberá vender el volumen comprado que no haya sido asignado a los usuarios.
+
+En todos los casos anteriores, siempre que el usuario esté adherido al contrato marco de acceso a las instalaciones del sistema gasista y no tenga contratada la capacidad de almacenamiento en el AVB diaria suficiente para cumplir con sus obligaciones, el GTS creará contratos diarios por la obligación no cubierta a partir del primer día de cada hito de la trayectoria de llenado que se facturarán con la penalización establecida en la Circular 2/2020, de 9 de enero de la Comisión Nacional de los Mercados y la Competencia. En caso de que no estuviera adherido al referido contrato marco de acceso, el GTS facturará el canon de almacenamiento correspondiente a la capacidad de los contratos que el usuario debería haber formalizado para cubrir sus obligaciones de llenado.
+
+Los ingresos y costes derivados de estas acciones, salvo los relativos al canon de almacenamiento, se incluirán en el proceso anual de liquidación de actuaciones del GTS para la gestión de desbalances de los usuarios en TVB y AVB.
+
+> Se modifica por el art. único.5 de la Orden TED/306/2026, de 31 de marzo. [Ref. BOE-A-2026-7440](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7440)
+
+> Se modifica el apartado 3 por la disposición final 1.3 de la Orden TED/1013/2024, de 20 de septiembre. [Ref. BOE-A-2024-19173](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19173)
+
+## Disposición adicional única. Arrendamientos de existencias mínimas de seguridad de gas natural.
+
+A efectos de lo establecido en la presente orden ministerial y del cumplimiento de la obligación de mantenimiento de existencias mínimas de seguridad de gas natural, los arrendamientos que los sujetos obligados formalicen deberán comunicarse, a CORES y al GTS, el día de su firma y, en todo caso, antes de la entrada en vigor del contrato.
+
+> Se modifica por el art. único.6 de la Orden TED/306/2026, de 31 de marzo. [Ref. BOE-A-2026-7440](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7440)
+
+## Disposición final primera. Modificación de la Orden ITC/3862/2007, de 28 de diciembre, por la que se establece el mecanismo de asignación de la capacidad de los almacenamientos subterráneos de gas natural y se crea un mercado de capacidad.
+
+1\. Se modifica el apartado 2 del artículo 6 «Presentación y contenido de las solicitudes para el reparto de capacidad», que pasa a tener la siguiente redacción:
+
+> «2. Las solicitudes para reservar capacidad de almacenamiento subterráneo se realizarán entre el 20 y el 25 de febrero y serán dirigidas al Gestor Técnico del Sistema (GTS).»
+
+2\. Se modifica el apartado 1 del artículo 7 «Asignación provisional y definitiva de capacidad», que pasa a tener la siguiente redacción:
+
+> «1. Antes del 4 de marzo, el Gestor Técnico del Sistema (GTS) comunicará a cada solicitante la asignación provisional de capacidad en aplicación de los criterios previstos en esta orden, los cuales dispondrán de un plazo de cuatro días hábiles para presentar alegaciones.»
+
+## Disposición final segunda. Título competencial.
+
+Esta orden se dicta al amparo de lo establecido en el artículo 149.1.13.ª y 25.ª de la Constitución Española, que atribuye al Estado competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica y de bases del régimen minero y energético, respectivamente.
+
+## Disposición final tercera. Aplicación de la orden.
+
+Se habilita a la persona titular de la Secretaría de Estado de Energía a dictar las resoluciones necesarias para el desarrollo de la orden.
+
+## Disposición final cuarta. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 26 de enero de 2023.–La Vicepresidenta Tercera del Gobierno y Ministra para la Transición Ecológica y el Reto Demográfico, Teresa Ribera Rodríguez.

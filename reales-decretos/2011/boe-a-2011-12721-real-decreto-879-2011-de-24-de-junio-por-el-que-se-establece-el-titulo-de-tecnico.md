@@ -1,0 +1,2968 @@
+---
+title: "Real Decreto 879/2011, de 24 de junio, por el que se establece el título de Técnico Deportivo Superior en Salvamento y Socorrismo y se fijan sus enseñanzas mínimas y los requisitos de acceso"
+identifier: "BOE-A-2011-12721"
+eli: "https://www.boe.es/eli/es/rd/2011/06/24/879"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación"
+date: 2011-06-24
+published: 2011-07-23
+in_force_from: 2011-07-24
+last_amended: 2026-07-02
+consolidated: 2026-08-24
+gazette: "Boletín Oficial del Estado núm. 176"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-12721"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 879/2011, de 24 de junio, por el que se establece el título de Técnico Deportivo Superior en Salvamento y Socorrismo y se fijan sus enseñanzas mínimas y los requisitos de acceso
+
+La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos.
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en su artículo 64.6 que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros.
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada Ley Orgánica 2/2006, de 3 de mayo, de Educación establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
+
+Este marco normativo hace necesario que ahora el Gobierno, previa consulta a las comunidades autónomas, establezca cada uno de los títulos que formarán el Catálogo de las enseñanzas deportivas del sistema educativo, sus enseñanzas mínimas y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+El Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, define en el artículo 4 la estructura de estas enseñanzas, situando las enseñanzas deportivas de grado superior como parte de la educación superior.
+
+Por otra parte, en su artículo 6 concreta el perfil profesional de dichos títulos, que incluirá la competencia general, las competencias profesionales, personales y sociales, con el fin de lograr que, en efecto, los títulos de enseñanzas deportivas respondan a las necesidades demandadas por los sistemas deportivo y productivo, y a los valores personales y sociales para ejercer una ciudadanía democrática. A este fin y como reflejo de la madurez alcanzada por la modalidad deportiva, se atribuye al ciclo de grado superior las competencias vinculadas al entrenamiento, dirección de equipos y deportistas de alto nivel o rendimiento y, en determinados casos, la conducción con altos niveles de dificultad en la modalidad o especialidad deportiva.
+
+A estos efectos procede determinar para cada título su identificación, su perfil profesional, el entorno profesional, las enseñanzas de los ciclos de enseñanzas deportivas y la acreditación de módulos debida a la experiencia docente, a la experiencia deportiva, así como los parámetros básicos de contexto formativo para cada módulo de enseñanza deportiva (espacios, equipamientos necesarios, titulaciones y especialidades del profesorado). Asimismo, en cada título también se determinarán los requisitos específicos de acceso, siendo propio de estos títulos la identificación de la carga lectiva que se acredita a través de estos requisitos, la vinculación con otros estudios, las convalidaciones, exenciones y equivalencias.
+
+El marcado carácter técnico de estas enseñanzas, definidas por la peculiaridad de sus procedimientos, materiales, equipos y prácticas específicas de cada modalidad, hace necesario un desarrollo exhaustivo que garantice un mínimo común denominador, claro y orientador, a través de una norma reglamentaria.
+
+Con el fin de facilitar el reconocimiento de créditos entre los títulos de Técnico Deportivo Superior y las enseñanzas conducentes a títulos universitarios y viceversa, en los ciclos de enseñanzas deportivas de grado superior se establecerá la equivalencia de cada módulo de enseñanza deportiva con créditos europeos, ECTS, tal y como se definen en el Real Decreto 1125/2003, de 5 de septiembre, por el que se establece el sistema europeo de créditos y el sistema de calificaciones en las titulaciones universitarias de carácter oficial y validez en todo el territorio nacional.
+
+El presente real decreto, que se dicta en desarrollo del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, establece y regula, en los aspectos y elementos básicos antes indicados, el título de Técnico Deportivo Superior en Salvamento y Socorrismo.
+
+Finalmente, este real decreto adapta al ámbito de las enseñanzas deportivas de salvamento y socorrismo, las previsiones de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad ya contenidas en el citado Real Decreto 1363/2007, de 24 de octubre, y desarrolla en este ámbito las previsiones de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas, en el seno de las Conferencia Sectorial de Educación, y han emitido informe el Consejo Escolar del Estado y el Ministerio de Política Territorial y Administración Pública.
+
+En su virtud, a propuesta del Ministro de Educación y previa deliberación del Consejo de Ministros en su reunión del día 24 de junio de 2011,
+
+DISPONGO:
+
+## CAPÍTULO I — Objeto
+
+### Artículo 1. Objeto.
+
+1\. El objeto del presente real decreto es el establecimiento del título de Técnico Deportivo Superior en Salvamento y Socorrismo, con carácter oficial y validez en todo el territorio nacional, así como de sus correspondientes enseñanzas mínimas.
+
+2\. De conformidad con lo establecido en el Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, los elementos recogidos en el presente real decreto no constituyen una regulación del ejercicio de profesión titulada alguna.
+
+## CAPÍTULO II — Identificación del título y organización de las enseñanzas
+
+### Artículo 2. Identificación del título de Técnico Deportivo Superior en Salvamento y Socorrismo.
+
+El título de Técnico Deportivo Superior en Salvamento y Socorrismo queda identificado por los siguientes elementos:
+
+a) Denominación: Salvamento y Socorrismo.
+
+b) Nivel: Enseñanzas Deportivas de Grado superior.
+
+c) Duración: 875 horas.
+
+d) Referente europeo: CINE-5b (Clasificación Internacional Normalizada de Educación).
+
+### Artículo 3. Organización de las enseñanzas conducentes al título de Técnico Deportivo Superior en Salvamento y Socorrismo.
+
+Las enseñanzas conducentes al Título de Técnico Deportivo Superior en Salvamento y Socorrismo se organizan en el ciclo de grado superior en salvamento y socorrismo y tienen una duración de 875 horas.
+
+### Artículo 4. Especializaciones del título de Técnico Deportivo Superior en Salvamento y Socorrismo.
+
+1\. El título de Técnico Deportivo Superior en Salvamento y Socorrismo tendrá como especializaciones:
+
+a) Salvamento y socorrismo para personas con discapacidad.
+
+b) Seguridad deportiva en espacios acuáticos naturales.
+
+2\. El Ministerio de Educación, a propuesta del Consejo Superior de Deportes y previa consulta a los órganos competentes en materia de deportes de las comunidades autónomas y de la Federación Española de Salvamento y Socorrismo establecerá los objetivos, contenidos y criterios de evaluación de estas especializaciones.
+
+> Se modifica la letra a) del apartado 1 por el art. 4.1 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+## CAPÍTULO III — Perfil profesional y entorno profesional, personal y laboral deportivo del ciclo
+
+### Artículo 5. Perfil profesional del ciclo de grado superior en salvamento y socorrismo.
+
+El perfil profesional del ciclo de grado superior en salvamento y socorrismo queda determinado por su competencia general, sus competencias profesionales, personales y sociales, por la relación de cualificaciones y, en su caso, unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título y el entorno profesional, laboral y deportivo.
+
+### Artículo 6. Competencia general del ciclo de grado superior en salvamento y socorrismo.
+
+La competencia general del ciclo de grado superior en salvamento y socorrismo consiste en programar y dirigir el entrenamiento deportivo orientado hacia la obtención y mantenimiento del rendimiento en socorristas y equipos; en organizar, tutelar y dirigir la participación de éstos en competiciones de alto nivel en salvamento y socorrismo; en coordinar los recursos humanos y materiales de los espacios acuáticos dirigiendo su actividad en materia de salvamento y socorrismo, vigilancia de las zonas de baño e intervención en caso necesario, en coordinar la intervención de técnicos especialistas; en programar las tareas y coordinar los técnicos a su cargo; y en organizar competiciones y eventos propios del alto rendimiento; todo ello de acuerdo con los objetivos establecidos, el nivel óptimo de calidad, y en las condiciones de seguridad.
+
+### Artículo 7. Competencias profesionales, personales y sociales del ciclo de grado superior en salvamento y socorrismo.
+
+Las competencias profesionales, personales y sociales del ciclo de grado superior en salvamento y socorrismo son las que se relacionan a continuación:
+
+a) Analizar las condiciones de entrenamiento disponibles, las características de la competición y el entorno del socorrista o del equipo, para la planificación del entrenamiento hacia el alto rendimiento en salvamento y socorrismo.
+
+b) Analizar y valorar los factores de rendimiento (funcionales, técnicos, tácticos, psicológicos) propios de la modalidad deportiva para la planificación del entrenamiento.
+
+c) Programar a medio y largo plazo el entrenamiento, los objetivos y los medios necesarios, a partir de las valoraciones y análisis realizados del socorrista o del equipo y de las condiciones iniciales del entorno deportivo.
+
+d) Programar a corto plazo el entrenamiento, los objetivos y los medios necesarios, y concretar las sesiones, adecuándolas al grupo y a las condiciones existentes de acuerdo con la programación general.
+
+e) Dirigir la sesión de entrenamiento en la etapa de alto rendimiento en salvamento y socorrismo, solucionando las contingencias existentes, para conseguir la implicación y el rendimiento conforme a los objetivos propuestos, y dentro de las normas medioambientales y los márgenes de seguridad requeridos.
+
+f) Preparar, adaptar, optimizar y transportar los medios necesarios para la práctica en salvamento y socorrismo garantizando su adecuación a las exigencias del alto rendimiento, su disponibilidad, respetando la normativa medioambiental y los protocolos de seguridad establecidos.
+
+g) Controlar la seguridad en las prácticas del salvamento y socorrismo de alto rendimiento, supervisando las instalaciones, medios a utilizar y el entorno en el que se realiza, respetando la normativa y los protocolos establecidos.
+
+h) Coordinar y dirigir equipos de rescate en instalaciones y espacios acuáticos naturales, supervisando los recursos humanos y materiales para vigilar e intervenir ante accidentes.
+
+i) Seleccionar, acompañar y dirigir a los socorristas o equipos en competiciones de alto rendimiento en salvamento y socorrismo, realizando las orientaciones, tomando las decisiones más adecuadas para el desarrollo de la competición y conforme a los objetivos previstos, todo ello dentro de los valores éticos vinculados al juego limpio y al respeto a los demás y al propio cuerpo.
+
+j) Diseñar y establecer las áreas de competición y entrenamiento de alto rendimiento en salvamento y socorrismo en aguas abiertas, teniendo en cuenta las características y previsiones meteorológicas de la zona y las normas y protocolos de seguridad.
+
+k) Determinar la formación de equipos de trabajo de carácter multidisciplinar y coordinar sus acciones dentro de la programación.
+
+l) Dirigir y coordinar recursos humanos, participar en la formación de los técnicos deportivos y organizar los recursos materiales en una Escuela de salvamento y socorrismo estableciendo las programaciones de referencia.
+
+m) Organizar y gestionar competiciones y eventos propios de la tecnificación deportiva en salvamento y socorrismo, así como colaborar en la organización de eventos propios de la alta competición.
+
+n) Evaluar el proceso de preparación y los resultados obtenidos, programando la recogida de la información y realizando su análisis para conseguir el ajuste y mejora permanente del entrenamiento dirigido hacia el alto rendimiento deportivo.
+
+ñ) Transmitir a través del comportamiento ético personal valores vinculados con el juego limpio, el respeto a los demás, y el respeto y cuidado del propio cuerpo.
+
+o) Mantener una identidad profesional y un espíritu de innovación y actualización que facilite la adaptación a los cambios que se produzcan en salvamento y socorrismo y en su entorno organizativo.
+
+### Artículo 8. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales del ciclo de grado superior en salvamento y socorrismo.
+
+El ciclo de grado superior en salvamento y socorrismo incluye la cualificación completa de Coordinación de socorrismo en instalaciones y espacios naturales acuáticos AFD539_3, que comprende las siguientes unidades de competencia:
+
+a) UC0269_2: Ejecutar técnicas específicas de natación con eficacia y seguridad.
+
+b) UC0272_2: Asistir como primer interviniente en caso de accidente o situación de emergencia.
+
+c) UC1762_3: Planificar y organizar recursos humanos y materiales para prevenir, vigilar e intervenir ante accidentes en espacios acuáticos.
+
+d) UC1763_3: Supervisar y evaluar los recursos humanos y materiales de socorrismo en espacios acuáticos.
+
+e) UC1764_3: Dirigir equipos de socorrismo ante accidentes en espacios acuáticos.
+
+### Artículo 9. Entorno profesional, laboral y deportivo del ciclo de grado superior en salvamento y socorrismo.
+
+1\. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado, las Administraciones Autonómicas o Locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones, centros de tecnificación, centros de alto rendimiento y Clubes deportivos y sociales, centros educativos, empresas de servicios, instalaciones acuáticas y espacios acuáticos naturales, que ofrezcan actividades acuáticas, y deportivas en salvamento y socorrismo, y todo ello en el sector del deporte, ocio y tiempo libre, y turismo.
+
+2\. Las ocupaciones y puestos de trabajo más relevantes para estos profesionales son las siguientes:
+
+a) Entrenador de máximo nivel en salvamento y socorrismo.
+
+b) Director Técnico.
+
+c) Director de competiciones.
+
+d) Director de Escuelas Deportivas.
+
+e) Coordinador de equipos de rescate y socorrismo.
+
+f) Coordinador de unidades de intervención acuática.
+
+g) Coordinador de socorrismo en eventos y competiciones deportivas en el medio acuático.
+
+3\. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo con los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
+
+## CAPÍTULO IV — Estructura de las enseñanzas del ciclo de grado superior de enseñanza deportiva conducentes al título de Técnico Deportivo Superior en Salvamento y Socorrismo
+
+### Artículo 10. Estructura de ciclo de grado superior en salvamento y socorrismo.
+
+1\. El ciclo de grado superior en salvamento y socorrismo se estructura en módulos, agrupados en un bloque común y un bloque específico.
+
+2\. Los módulos de enseñanza deportiva del ciclo de grado superior en salvamento y socorrismo son los que a continuación se relacionan:
+
+a) Módulos del bloque común:
+
+MED-C301: Factores fisiológicos del alto rendimiento.
+
+MED-C302: Factores psicosociales del alto rendimiento.
+
+MED-C303: Formación de formadores deportivos.
+
+MED-C304: Organización y gestión aplicada al alto rendimiento.
+
+b) Módulos del bloque específico:
+
+MED-SSSS-301: Planificación y programación del alto rendimiento en salvamento y socorrismo.
+
+MED-SSSS-302: Entrenamiento en salvamento y socorrismo.
+
+MED-SSSS-303: Gestión del Centro de salvamento y socorrismo.
+
+MED-SSSS-304: Organización de eventos de salvamento y socorrismo.
+
+MED-SSSS-305: Proyecto Final.
+
+MED-SSSS-306: Formación práctica.
+
+3\. La distribución horaria de las enseñanzas mínimas del ciclo de grado superior en salvamento y socorrismo se establece en el anexo I-B.
+
+4\. Los objetivos generales y los módulos de enseñanza deportiva del ciclo de grado superior en salvamento y socorrismo quedan desarrollados en el Anexo II.
+
+> Se modifica el apartado 3 por el art. 4.1 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+### Artículo 11. Ratio profesor/alumno.
+
+1\. Para impartir los módulos del bloque común y los contenidos relacionados con los resultados de aprendizaje de carácter conceptual de los módulos del bloque específico del ciclo de grado superior en salvamento y socorrismo, la relación profesor/alumno será de 1/30.
+
+2\. Para impartir los contenidos relacionados con los resultados de aprendizaje de carácter procedimental de los módulos del bloque específico del ciclo de grado superior en salvamento y socorrismo, la relación profesor/alumno será la recogida en el Anexo III.
+
+### Artículo 12. Módulo de formación práctica.
+
+Para iniciar el módulo de formación práctica del ciclo de grado superior en salvamento y socorrismo, será necesario haber superado con anterioridad los módulos comunes y específicos de enseñanza deportiva que se establecen en el Anexo IV.
+
+### Artículo 13. Determinación del currículo.
+
+Las Administraciones educativas establecerán los currículos correspondientes respetando, en todo caso, lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+
+### Artículo 14. Espacios y equipamientos deportivos.
+
+Los espacios y equipamientos mínimos necesarios para el desarrollo de las enseñanzas del ciclo de grado superior en salvamento y socorrismo son los establecidos en el Anexo V.
+
+## CAPÍTULO V — Acceso al ciclo superior
+
+### Artículo 15. Requisitos generales de acceso al ciclo de grado superior en salvamento y socorrismo.
+
+Para acceder al ciclo de grado superior en salvamento y socorrismo será necesario tener el título de Bachiller o equivalente a efectos de acceso, así como el título de Técnico Deportivo en Salvamento y Socorrismo.
+
+### Artículo 16. Requisitos de acceso al ciclo de grado superior en salvamento y socorrismo para personas sin el título Bachiller.
+
+Se podrá acceder a las enseñanzas del ciclo de grado superior en salvamento y socorrismo, sin el título de Bachiller, siempre que el aspirante posea el título de Técnico Deportivo correspondiente, y además cumpla las condiciones de edad y supere la prueba correspondiente conforme al artículo 31.1.b) del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+
+### Artículo 17. Requisitos de acceso de personas que acrediten discapacidades.
+
+Las personas con discapacidad podrán acceder a las enseñanzas de estos ciclos conforme a la disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, siendo obligación de las administraciones competentes llevar a cabo los ajustes razonables para que este acceso no comporte restricciones injustificadas contrarias al principio de igualdad de oportunidades.
+
+## CAPÍTULO VI — Profesorado
+
+### Artículo 18. Requisitos de titulación del profesorado en centros públicos.
+
+Los requisitos de la titulación del profesorado en centros públicos se determinarán en función del bloque de enseñanza deportiva en que hayan de impartir la docencia:
+
+1\. La docencia de los módulos del bloque común que constituyen las enseñanzas deportivas del ciclo de grado superior en salvamento y socorrismo corresponde al profesorado de los cuerpos de catedráticos y profesores de enseñanza secundaria, según lo establecido en el Anexo VI.
+
+2\. La docencia de los módulos del bloque específico que constituyen las enseñanzas deportivas del ciclo de grado superior en salvamento y socorrismo, está especificada en el Anexo VII A y corresponde a:
+
+a) Profesores especialistas que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo, o aquellos no titulados que acrediten la experiencia en el ámbito laboral y deportivo, o la experiencia docente, detallada en el Anexo VII B.
+
+b) Profesores de la especialidad de Educación Física de los cuerpos de catedráticos y de profesores de enseñanza secundaria que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo.
+
+### Artículo 19. Requisitos de titulación del profesorado en centros privados y de titularidad pública de administraciones distintas a la educativa.
+
+Las titulaciones requeridas para la impartición de los módulos tanto del bloque común, como del bloque específico que forman el ciclo de enseñanza deportiva de grado superior en salvamento y socorrismo, para el profesorado de los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, se concretan en el Anexo VIII.
+
+## CAPÍTULO VII — Vinculación a otros estudios
+
+### Artículo 20. Acceso a otros estudios.
+
+1\. El título de Técnico Deportivo Superior en Salvamento y Socorrismo permite el acceso directo a las enseñanzas universitarias oficiales de grado en las condiciones de admisión que se establezcan.
+
+2\. El Gobierno, oído el Consejo de Universidades, regulará, en norma específica, el reconocimiento de créditos entre los títulos de Técnico Deportivo Superior y las enseñanzas universitarias de grado. A efectos de facilitar el régimen de convalidaciones, se han asignado 70 créditos ECTS en las enseñanzas mínimas establecidas en este real decreto, entre los módulos de enseñanza deportiva de este ciclo de grado superior.
+
+3\. El número de créditos ECTS atribuido a cada uno de los módulos de enseñanza deportiva de este ciclo se establece en el anexo I-A.
+
+> Se modifica el apartado 3 por el art. 4.2 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+### Artículo 21. Convalidación de estas enseñanzas.
+
+1\. El Ministerio de Educación, establecerá las convalidaciones que proceda otorgar del bloque común de las enseñanzas reguladas en el presente real decreto, a aquellos que acrediten estudios o el título de Licenciado en Ciencias de la Actividad Física y el Deporte regulado por el Real Decreto 1670/1993, de 24 de septiembre, de Diplomado en Educación Física y Licenciado en Educación Física regulado por el Real Decreto 790/1981, de 24 de abril, de Maestro Especialista en Educación Física regulado por el Real Decreto 1440/1991, de 30 de agosto, de Técnico Superior en Animación de Actividades Físicas y Deportivas regulado por el Real Decreto 2048/1995, de 22 de diciembre, y el de Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural regulado por el Real Decreto 2049/1995, de 22 de diciembre, así como con las materias de bachillerato y los títulos establecidos al amparo del Real Decreto 1913/1997, de 19 de diciembre.
+
+2\. La correspondencia de los módulos de enseñanza deportiva que forman el presente título con las unidades de competencia para su acreditación, queda determinada en el Anexo IX A.
+
+3\. La correspondencia de las unidades de competencia con los módulos de enseñanza deportiva que forman el presente título para su convalidación o exención queda determinada en el Anexo IX B.
+
+4\. Serán objeto de convalidación los módulos comunes y específicos de enseñanza deportiva con la misma denominación y código.
+
+5\. La superación de la totalidad de los módulos del bloque común del grado superior, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del ciclo de enseñanza deportiva de grado superior en salvamento y socorrismo. La superación de la totalidad de los módulos del bloque común del ciclo de enseñanza deportiva de grado superior en salvamento y socorrismo, se convalidará por la totalidad de los módulos del bloque común, del grado superior, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+
+### Artículo 22. Exención del módulo de formación práctica.
+
+Podrá ser objeto de exención total o parcial el módulo de formación práctica del ciclo de grado superior en salvamento y socorrismo, en función de su correspondencia con la experiencia en el ámbito deportivo o laboral, detallada en el Anexo X.
+
+### Artículo 23. Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia docente.
+
+1\. La correspondencia formativa entre los módulos de enseñanza deportiva del ciclo de grado superior en salvamento y socorrismo y la experiencia docente acreditable de las formaciones anteriores de entrenadores deportivos a las que se refiere la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, y las formaciones de entrenadores a las que se refiere la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, se establece en el Anexo XI.
+
+2\. La correspondencia formativa será aplicada por los centros siguiendo el procedimiento establecido por la correspondiente Administración educativa.
+
+### Disposición adicional primera. Referencia del título en el marco europeo.
+
+Una vez establecido el marco nacional de cualificaciones de acuerdo con las recomendaciones europeas, se determinará el nivel correspondiente de estas titulaciones en el marco nacional y su equivalente europeo.
+
+### Disposición adicional segunda. Oferta a distancia de los módulos de enseñanza deportiva del presente título.
+
+Los módulos de enseñanza deportiva que se establecen en el Anexo XII, podrán ofertarse a distancia siempre que se garantice que el alumno puede conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las Administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
+
+### Disposición adicional tercera. Referencias genéricas.
+
+Todas las referencias al alumnado, profesorado y a titulaciones para las que en este real decreto se utiliza la forma del masculino genérico deben entenderse aplicables indistintamente a mujeres y a hombres.
+
+### Disposición derogatoria única. Derogación de normas.
+
+Quedan derogadas todas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+### Disposición final primera. Título competencial.
+
+El presente real decreto tiene carácter de norma básica y se dicta, al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+
+### Disposición final segunda. Implantación de los Títulos.
+
+Las Administraciones educativas podrán implantar el nuevo currículo de estas enseñanzas desde el curso escolar 2012-2013.
+
+### Disposición final tercera. Autorización para el desarrollo.
+
+Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el RD 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se autoriza al titular del Ministerio de Educación para la modificación y actualización de los Anexos VI, VIIA y VIII.
+
+### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+Dado en Madrid, el 24 de junio de 2011.
+
+JUAN CARLOS R.
+
+El Ministro de Educación,
+
+ÁNGEL GABILONDO PUJOL
+
+## ANEXO I — Distribución horaria de las enseñanzas mínimas y equivalencia en créditos ECTS
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos I-A y I-B por el art. 4.3 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+## ANEXO I-A — Distribución en créditos ECTS de la duración total de las enseñanzas
+
+Ciclo de grado superior en salvamento y socorrismo
+
+|  | Equivalencia en créditos ECTS |
+|---|---|
+| *Bloque común* |  |
+| MED-C301 Factores fisiológicos del alto rendimiento | 5 |
+| MED-C302 Factores psicosociales del alto rendimiento | 3 |
+| MED-C303 Formación de formadores deportivos | 4 |
+| MED-C304 Organización y gestión aplicada al alto rendimiento | 4 |
+| Total módulos bloque común | 16 |
+| *Bloque específico* |  |
+| MED-SSSS301: Planificación y programación del alto rendimiento en salvamento y socorrismo | 7 |
+| MED-SSSS302: Entrenamiento en salvamento y socorrismo | 8 |
+| MED-SSSS303: Gestión del Centro de salvamento y socorrismo | 8 |
+| MED-SSSS304: Organización de eventos de salvamento y socorrismo | 6 |
+| MED-SSSS305: Proyecto Final | 6 |
+| MED-SSSS306: Formación práctica | 19 |
+| Total módulos bloque específico | 54 |
+| Total módulos bloques común y específico | 70 |
+
+> Se modifica y se numera como Anexo I-A por el art. 4.3 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+> Anteriormente estaba integrado en el Anexo I.
+
+## ANEXO I-B — Distribución horaria de las enseñanzas mínimas
+
+Ciclo de grado superior en salvamento y socorrismo
+
+|  | Enseñanzas mínimas |
+|---|---|
+| *Bloque común* |  |
+| MED-C301 Factores fisiológicos del alto rendimiento | 35 h |
+| MED-C302 Factores psicosociales del alto rendimiento | 25 h |
+| MED-C303 Formación de formadores deportivos | 30 h |
+| MED-C304 Organización y gestión aplicada al alto rendimiento | 20 h |
+| Total módulos bloque común | 110 h |
+| *Bloque específico* |  |
+| MED-SSSS301: Planificación y programación del alto rendimiento en salvamento y socorrismo | 45 h |
+| MED-SSSS302: Entrenamiento en salvamento y socorrismo | 55 h |
+| MED-SSSS303: Gestión del Centro de salvamento y socorrismo | 55 h |
+| MED-SSSS304: Organización de eventos de salvamento y socorrismo | 40 h |
+| MED-SSSS305: Proyecto Final | 40 h |
+| MED-SSSS306: Formación práctica | 135 h |
+| Total módulos bloque específico | 370 h |
+| Total módulos bloques común y específico | 480 h |
+
+> Se modifica y se numera como Anexo I-B por el art. 4.3 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+> Anteriormente estaba integrado en el Anexo I.
+
+## ANEXO II — Objetivos generales y módulos de enseñanza deportiva del ciclo de grado superior en salvamento y socorrismo
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos II.a hasta el II.k por el art. 4.2 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+## ANEXO II.a — Objetivos generales
+
+a) Seleccionar y justificar los procedimientos de la valoración del entorno del socorrista o del equipo, de los medios materiales e instalaciones disponibles y del reglamento de la modalidad, identificando sus características y aplicando los procedimientos, para analizar las condiciones del alto rendimiento.
+
+b) Seleccionar y justificar los procedimientos de análisis de los factores de rendimiento, y los criterios de selección de los socorristas, identificando sus características y aplicando los procedimientos establecidos, para valorar los factores de rendimiento propios de la modalidad deportiva.
+
+c) Elegir y justificar los procedimientos de determinación de los objetivos, medios y métodos del entrenamiento, y la temporalización de la carga, identificando los principios del entrenamiento y del aprendizaje motor aplicables, para programar el entrenamiento a corto, medio y largo plazo.
+
+d) Analizar la complejidad de las tareas y los factores relativos a la carga de trabajo, diseñando actividades en supuestos establecidos y aplicando los principios y métodos del entrenamiento, para concretar las sesiones de trabajo.
+
+e) Describir, elegir y demostrar las técnicas y estrategias de dirección de sesiones, de conducción de personas, de control de las contingencias propias del alto rendimiento en salvamento y socorrismo, aplicando procedimientos de observación, dinamización y control, resolviendo supuestos y aplicando normas de protección del medioambiente, para dirigir sesiones y guiar socorristas en condiciones de alta exigencia.
+
+f) Seleccionar, comprobar y ajustar los medios materiales e instalaciones propias del alto rendimiento deportivo, aplicando procedimientos establecidos y normativa vigente, operando con los instrumentos de reparación y mantenimiento, para facilitar la disponibilidad y adecuada utilización de los medios necesarios.
+
+g) Evaluar las condiciones de seguridad de las instalaciones y medios propios del alto rendimiento deportivo, aplicando los procedimientos establecidos y la normativa vigente, para controlar la seguridad en la práctica en el alto rendimiento.
+
+h) Valorar los recursos humanos y seleccionar recursos materiales de rescate, categorizando los accidentes y situaciones de emergencia, analizando los protocolos de vigilancia e intervención y aplicando técnicas de selección y organización de recursos humanos y materiales, para coordinar y dirigir equipos de rescate.
+
+i) Analizar la competición de alto rendimiento, aplicando procedimientos establecidos y teniendo en cuenta las características de los participantes y el reglamento, para dirigir a socorristas en competiciones de este nivel en salvamento y socorrismo.
+
+j) Analizar las de áreas de competición y entrenamiento de alto rendimiento en salvamento y socorrismo en aguas abiertas, las características de la zona, sus previsiones meteorológicas y elaborar las normas y protocolos de seguridad.
+
+k) Analizar y justificar las necesidades de intervención de otros especialistas en la preparación de alto rendimiento, describiendo las funciones y objetivos a desarrollar, para determinar la constitución y coordinación de equipos de trabajo multidisciplinares.
+
+l) Identificar y analizar la características organizativas, medios materiales y humanos, aplicando procedimientos establecidos de gestión y comunicación, para coordinar recursos humanos y organizar los recursos materiales de una escuela de la modalidad.
+
+m) Analizar y elaborar la estructura organizativa de las competiciones y eventos propios del nivel de tecnificación deportiva, y analizar las características organizativas de competiciones de alto nivel, enumerando los requisitos administrativos, los medios materiales y humanos necesarios, aplicando el marco legal que las regula, para organizar y colaborar en la gestión de competiciones y eventos.
+
+n) Diseñar y justificar los procedimientos de recogida de información y valoración del proceso de alto rendimiento, analizando las variables que intervienen en supuestos, para evaluar el proceso de entrenamiento y los resultados obtenidos en la competición.
+
+ñ) Describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los socorristas, para transmitir valores propios de la actividad deportiva a través del comportamiento ético personal.
+
+o) Reconocer, promover y justificar los valores de compromiso, trabajo bien hecho y aprendizaje continúo, describiendo los aspectos observables de la conducta, que reflejan estos valores, para mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el desempeño de su labor como técnico.
+
+> Se numera como Anexo II.a por el art. 4.2 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.b — Módulo común de enseñanza deportiva: Factores fisiológicos del alto rendimiento
+
+Código: MED-C301
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Analiza los principales conceptos del metabolismo energético y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+a) Se han identificado los principales conceptos del metabolismo energético.
+
+b) Se han analizado las diferentes vías metabólicas y las principales fuentes de energía en relación con el ejercicio físico, incidiendo en los aspectos fisiológicos que determinan la resistencia.
+
+c) Se han analizado las principales adaptaciones fisiológicas al entrenamiento de los diferentes sistemas del organismo en relación con el metabolismo energético.
+
+d) Se han valorado las características del metabolismo energético en mujeres deportistas, así como sus adaptaciones fisiológicas al entrenamiento.
+
+RA-2. Analiza los principales componentes del sistema neuromuscular y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+a) Se ha analizado el sistema neuromuscular, incidiendo en los aspectos fisiológicos y mecánicos que determinan la fuerza, la velocidad y la amplitud de movimiento.
+
+b) Se ha descrito el concepto de fuerza y sus diferentes manifestaciones en relación con la actividad físico-deportiva.
+
+c) Se ha descrito el concepto de velocidad y sus diferentes manifestaciones en relación con la actividad físico-deportiva, así como su implicación en las capacidades coordinativas.
+
+d) Se han analizado las principales adaptaciones al entrenamiento en relación con el sistema neuromuscular.
+
+e) Se han valorado las características del sistema neuromuscular en mujeres deportistas, así como sus adaptaciones fisiológicas al entrenamiento.
+
+RA-3. Selecciona a los/las deportistas para la alta competición analizando los factores fisiológicos determinantes que influyen en el alto rendimiento.
+
+a) Se han identificado los principales factores fisiológicos determinantes y limitantes del alto rendimiento deportivo.
+
+b) Se han analizado los fundamentos de la evaluación de la capacidad funcional vinculados al alto rendimiento deportivo.
+
+c) Se han interpretado los resultados y diferencias entre hombres y mujeres en la evaluación de la capacidad funcional.
+
+d) Se ha interpretado la importancia de la valoración anatómica y fisiológica como elemento de selección de los/las deportistas en el alto rendimiento deportivo, empleando diferentes métodos y tecnologías fiables, válidas y sensibles.
+
+e) Se ha descrito la organización de los equipos de trabajo en el alto rendimiento deportivo, identificando las diferentes funciones y roles de los especialistas que los componen.
+
+RA-4. Colabora con la persona especialista en la determinación de la dieta y en la prescripción de ayudas ergogénicas analizando los principales conceptos de nutrición deportiva y los efectos nocivos de las sustancias dopantes para la salud.
+
+a) Se han identificado los principios fundamentales y los conceptos básicos de la nutrición, la suplementación y las ayudas ergogénicas en relación con el ámbito físico-deportivo.
+
+b) Se han interpretado los resultados de la valoración nutricional del deportista a partir de los datos de un supuesto práctico.
+
+c) Se han elaborado de manera justificada las estrategias de reposición de nutrientes, agua y sales minerales durante el entrenamiento y la competición, aplicándolas en supuestos prácticos basados en los conceptos de fisiología y nutrición deportiva estudiados.
+
+d) Se han identificado los principales aspectos en el diseño de la dieta de los y las deportistas, así como en la adecuada prescripción de suplementos y ayudas ergogénicas para la mejora del rendimiento físico-deportivo durante el entrenamiento y la competición, contemplando las necesidades nutricionales particulares de las mujeres y hombres deportistas de alto rendimiento.
+
+e) Se han identificado las principales sustancias dopantes y sus efectos nocivos para la salud.
+
+RA-5. Programa y dirige el entrenamiento del deportista aplicando los conceptos de carga, fatiga y recuperación.
+
+a) Se han clasificado los diferentes tipos de fatiga, central o periférica y aguda o crónica, así como sus mecanismos de producción.
+
+b) Se han analizado los efectos de la fatiga deportiva en el sistema neuromuscular, endocrino e inmunológico.
+
+c) Se han empleado diferentes medios y métodos para cuantificar la fatiga producida por el entrenamiento.
+
+d) Se han diseñado y aplicado diferentes medios y métodos de recuperación según el mecanismo de producción de la fatiga.
+
+e) Se ha valorado la importancia de la monitorización de la carga para una adecuada gestión del entrenamiento, con el propósito de prevenir el síndrome de sobreentrenamiento y reducir el riesgo de lesiones deportivas.
+
+f) Se han empleado diferentes métodos y tecnologías, validas, fiables y sensibles de monitorización de la carga de entrenamiento.
+
+RA-6. Programa y dirige el entrenamiento y/o la competición en condiciones especiales identificando sus bases y características más importantes.
+
+a) Se han analizado las causas y los efectos fisiológicos producidos por el entrenamiento y/o la competición en condiciones extremas de calor, frío y/o humedad.
+
+b) Se han diseñado entrenamientos y estrategias de mejora de la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de temperatura y/o humedad extrema.
+
+c) Se han identificado las bases y protocolos de entrenamiento controlado en calor utilizados como medio de mejora del rendimiento físico-deportivo.
+
+d) Se han analizado las causas y los efectos fisiológicos producidos por los entrenamientos y/o competición en altura, así como sus posibles efectos positivos y negativos sobre el rendimiento físico-deportivo.
+
+e) Se han diseñado entrenamientos en diferentes situaciones de altitud, así como estrategias de adaptación de los/las deportistas a dichas condiciones.
+
+f) Se han analizado los efectos fisiológicos producidos por cambios significativos de huso horario sobre el rendimiento del deportista en el entrenamiento y/o la competición.
+
+g) Se han diseñado entrenamientos en situaciones de cambio horario, así como estrategias de adaptación de los/las deportistas a dichas condiciones.
+
+h) Se ha valorado la colaboración con el grupo de especialistas en la dirección del entrenamiento en condiciones especiales (altitud, cambios horarios, frío, calor, humedad).
+
+Contenidos básicos
+
+RA-1. Analiza los principales conceptos del metabolismo energético y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+1\. Conceptos de metabolismo, catabolismo y anabolismo. Absorción, transporte y almacenamiento de nutrientes.
+
+2\. El ATP. Principales vías metabólicas:
+
+– Vías anaeróbicas: sistema ATP-PC, glucólisis anaeróbica y ciclo de Cori.
+
+– Vías aeróbicas: glucólisis aeróbica y ciclo de Krebs.
+
+3\. Fuentes de energía en relación con las diferentes vías metabólicas: ATP, PC, glucosa, glucógeno, ácidos grasos y proteínas.
+
+4\. Implicación fisiológica de las vías metabólicas en relación con la resistencia durante la actividad físico-deportiva.
+
+5\. El modelo trifásico y los principales hitos fisiológicos: umbrales ventilatorios, VO2max, umbrales lácticos y Máximo Estado Estable del Lactato (MLSS). Métodos directos e indirectos para su valoración y control. Aplicación a los modelos por zonas de intensidad para la planificación y control del entrenamiento.
+
+6\. Conceptos de eficiencia y economía energética. Relevancia en la práctica físico-deportiva.
+
+7\. Principales adaptaciones fisiológicas, agudas y crónicas, al entrenamiento de los diferentes sistemas del organismo en relación con el metabolismo energético.
+
+8\. El metabolismo energético en mujeres deportistas. Principales características de sus adaptaciones fisiológicas al entrenamiento.
+
+RA-2. Analiza los principales componentes del sistema neuromuscular y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+1\. Funciones de los diferentes tipos de músculos: cardiaco, liso y esquelético.
+
+2\. Tipos, componentes y estructura del músculo esquelético. El tendón como transmisor de fuerzas del sistema musculoesquelético y su relación con el ciclo estiramiento-acortamiento (CEA).
+
+3\. La fibra muscular y el sarcómero como unidad funcional básica del músculo. Teoría del filamento deslizante.
+
+4\. Concepto de unidad motora y tipos de fibras musculares. Relación con los principales aspectos fisiológicos y mecánicos que determinan la fuerza, la velocidad y la amplitud de movimiento.
+
+5\. Concepto de fuerza. Principales manifestaciones en relación con la actividad físico-deportiva: fuerza aplicada, fuerza máxima, producción de fuerza por unidad de tiempo (RFD) y fuerza útil. Curvas de fuerza-tiempo y de fuerza-velocidad. Aplicaciones prácticas del entrenamiento de fuerza basadas en la velocidad.
+
+6\. Concepto de velocidad. Principales manifestaciones en relación con la actividad físico-deportiva: velocidad de reacción, gestual y de desplazamiento. Implicaciones sobre las capacidades coordinativas.
+
+7\. Principales adaptaciones, agudas y crónicas al entrenamiento en relación con el sistema neuromuscular: estructurales, nerviosas y hormonales.
+
+8\. Características del sistema neuromuscular y adaptaciones fisiológicas al entrenamiento en mujeres deportistas.
+
+RA-3. Selecciona a los/las deportistas para la alta competición analizando los factores fisiológicos determinantes que influyen en el alto rendimiento.
+
+1\. Aspectos limitantes y factores fisiológicos determinantes del alto rendimiento deportivo.
+
+2\. Fundamentos, medios directos e indirectos y métodos avanzados para la evaluación de la capacidad funcional en el alto rendimiento deportivo. Identificación de la tecnología adecuada y orientaciones para la interpretación de los resultados.
+
+3\. La valoración anatómico-fisiológica como elemento para la selección de los/las deportistas en el alto rendimiento deportivo: medios y métodos. Utilización de tecnología fiable, válida y sensible para una adecuada evaluación.
+
+4\. Análisis e interpretación de los resultados en los estudios antropométricos y de composición corporal utilizados en el alto rendimiento deportivo.
+
+5\. Valoración de las diferencias entre hombres y mujeres.
+
+6\. Organización de los equipos de trabajo en el alto rendimiento deportivo. Diferentes funciones y roles de los especialistas que los componen.
+
+RA-4. Colabora con la persona especialista en la determinación de la dieta y en la prescripción de ayudas ergogénicas analizando los principales conceptos de nutrición deportiva y los efectos nocivos de las sustancias dopantes para la salud.
+
+1\. Principios fundamentales y conceptos básicos de la nutrición, la suplementación y las ayudas ergogénicas en relación con el ámbito físico-deportivo.
+
+2\. Suplementos y ayudas ergogénicas respaldados por la evidencia científica más utilizados en el alto rendimiento deportivo. Criterios para un uso adecuado.
+
+3\. Valoración y control nutricional del deportista de alto rendimiento: medios, métodos e interpretación de los resultados. Identificación de la tecnología adecuada para la evaluación.
+
+4\. La reposición de nutrientes, agua y sales minerales durante el entrenamiento y la competición: bases fisiológicas y estrategias de aplicación individualizadas utilizadas en el alto rendimiento deportivo.
+
+5\. Orientaciones para la colaboración con la persona especialista en el diseño de la dieta, así como en la prescripción de suplementos y ayudas ergogénicas para la mejora del rendimiento físico-deportivo durante el entrenamiento y la competición.
+
+6\. El dopaje en el deporte: concepto, clasificación y ejemplos de sustancias y métodos prohibidos más extendidos en la práctica deportiva.
+
+7\. Toma de conciencia de las repercusiones del dopaje en la salud de los/las deportistas. Consecuencias legales y sanciones deportivas.
+
+8\. El control antidopaje: normativa, organismos y principales métodos para la detección de sustancias prohibidas.
+
+RA-5. Programa y dirige el entrenamiento del deportista aplicando los conceptos de carga, fatiga y recuperación.
+
+1\. Binomio fatiga-recuperación: concepto y relación con el rendimiento deportivo.
+
+2\. Fatiga, sobrecarga y sobreentrenamiento: concepto, tipos, mecanismos de producción, indicadores y formas de prevención.
+
+3\. Efectos de la fatiga en el sistema neuromuscular, endocrino e inmunológico.
+
+4\. La recuperación: concepto, medios y métodos. Relación con los mecanismos de producción.
+
+5\. Principales estrategias de recuperación en alto rendimiento: sueño, nutrición, hidratación, crioterapia, prendas compresivas, masaje, hidroterapia, etc.
+
+6\. Principios de aplicación de las estrategias de recuperación: individualización, alternancia y especificidad.
+
+7\. Pruebas objetivas y subjetivas para cuantificar la fatiga en el alto rendimiento deportivo: marcadores fisiológicos y bioquímicos, test físicos y escalas subjetivas de bienestar.
+
+8\. Relación entre carga de entrenamiento y lesiones por sobreuso.
+
+9\. Nuevas tecnologías para la monitorización de la carga de entrenamiento en el alto rendimiento deportivo.
+
+RA-6. Programa y dirige el entrenamiento y/o la competición en condiciones especiales identificando sus bases y características más importantes.
+
+1\. Causas, efectos y respuestas fisiológicas producidos por el entrenamiento y/o la competición en condiciones extremas de calor, frío y/o humedad.
+
+2\. Diseño y elaboración de entrenamientos en situaciones de temperatura y/o humedad extrema.
+
+3\. Estrategias para facilitar la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de temperaturas y/o humedades extremas.
+
+4\. Diseño y elaboración de protocolos y sesiones de entrenamiento controlado en calor para la mejora del rendimiento físico-deportivo.
+
+5\. Respuesta fisiológica aguda, reposo vs. ejercicio y crónica. Efectos y adaptaciones a la altitud sobre el sistema cardiorrespiratorio, hormonal y neuromuscular.
+
+6\. Diseño y elaboración de programas de entrenamiento en altitud.
+
+7\. Estrategias de entrenamiento en condiciones de hipoxia.
+
+8\. Estrategias para facilitar la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de altitud.
+
+9\. Efectos y respuestas fisiológicas producidos por el cambio horario en los diferentes sistemas del organismo: alteraciones de los ritmos circadianos, frecuencia cardíaca y ventilatoria, función urinaria, gástrica y hormonal. Consecuencias sobre el rendimiento físico-deportivo.
+
+10\. Consideraciones y estrategias en la programación del entrenamiento y la competición para facilitar la adaptación de los/las deportistas en situaciones de cambio horario.
+
+> Se numera como Anexo II.b y se sustituye por el que figura en el anexo I del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 4.2
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.c — Módulo común de enseñanza deportiva: Factores psicosociales del alto rendimiento
+
+Código: MED-C302
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Identifica los factores psicológicos del deportista analizando los principales conceptos de la psicología del deporte, sus efectos en el rendimiento y el bienestar del deportista.
+
+a) Se han identificado los objetivos y funciones de la psicología del deporte.
+
+b) Se han analizado las contribuciones de los factores psicológicos a la progresión y el rendimiento de los/las deportistas de alto nivel.
+
+c) Se han descrito las principales destrezas psicológicas del deportista que influyen en el rendimiento deportivo según la modalidad deportiva.
+
+d) Se ha argumentado la necesidad de integrar las destrezas psicológicas en la evaluación del rendimiento de los/las deportistas de alto nivel.
+
+e) Se han descrito las principales situaciones de riesgo para la salud mental y el bienestar psicológico del deportista.
+
+RA-2. Selecciona al/a la deportista para la alta competición, analizando las características psicológicas de los/las deportistas y equipos de alto nivel y las exigencias psicológicas del alto rendimiento.
+
+a) Se han definido las características psicológicas óptimas, de deportistas y equipos, que demanda el alto rendimiento deportivo en el entrenamiento y en la competición.
+
+b) Se han analizado específicamente peculiaridades psicológicas de las mujeres deportistas en el alto rendimiento.
+
+c) Se han analizado los condicionantes psicológicos y las consideraciones específicas de los/las deportistas con discapacidad en el alto rendimiento.
+
+d) Se han propuesto de forma justificada criterios psicológicos de selección de deportistas de alto nivel en función de las exigencias del entrenamiento y la competición de alto nivel.
+
+e) Se han aplicado procedimientos psicológicos de detección de deportistas de alto nivel, mediante la realización de entrevistas y la observación de deportistas en situaciones simuladas de competición y entrenamiento.
+
+f) Se ha argumentado la importancia de la incorporación de protocolos psicológicos en la detección de deportistas de alto nivel.
+
+RA-3. Valora el entorno del/de la deportista, analizando los aspectos sociales que afectan a su rendimiento deportivo y facilitan su formación académica.
+
+a) Se han reconocido los aspectos sociales del entorno que afectan al rendimiento de los diferentes tipos de deportista de alto nivel.
+
+b) Se han definido los aspectos sociales del entorno del/de la deportista que facilitan su formación académica.
+
+c) Se han aplicado procedimientos de evaluación del entorno del/de la deportista que afectan a su rendimiento, en un supuesto práctico debidamente caracterizado.
+
+d) Se han aplicado de manera justificada medios de gestión del entorno, en situaciones simuladas debidamente caracterizadas, que eviten la interferencia con la formación deportiva y académica del/de la deportista.
+
+e) Se ha argumentado la conveniencia de que el/la entrenador/a facilite al/a la deportista la posibilidad de compaginar la carrera deportiva con la formación académica y la conciliación de la vida familiar y deportiva.
+
+f) Se han localizado, en una situación simulada debidamente caracterizada, las ayudas y fuentes de información de que disponen los/las deportistas de alto nivel al llegar al final de su carrera deportiva, que facilitan su integración en la vida laboral.
+
+g) Se ha reconocido la importancia de incorporar el análisis de los aspectos sociales del entorno del/de la deportista en la evaluación de su rendimiento.
+
+h) Se ha valorado la actitud positiva del/de la entrenador/a hacia el reconocimiento y prevención de los problemas de inserción laboral más frecuentes en los/las deportistas de alto nivel.
+
+RA-4. Participa en la preparación psicológica del deportista de alto rendimiento, analizando y aplicando actividades y técnicas de mejora de las destrezas psicológicas.
+
+a) Se han descrito las características y estructura de las técnicas de preparación psicológica que influyen en la mejora del rendimiento deportivo.
+
+b) Se han puesto en práctica actividades de preparación psicológica que influyen en la mejora del rendimiento deportivo en un supuesto practico debidamente caracterizado.
+
+c) Se han aplicado métodos de preparación psicológica en la mejora del afrontamiento de la competición que los/las deportistas de alto nivel hacen en situaciones simuladas debidamente caracterizadas.
+
+d) Se han realizado sencillas secuencias de actividades que favorezcan la mejora de las destrezas psicológicas en función de las exigencias de la especialidad deportiva y las características del deportista de una situación simulada debidamente caracterizada.
+
+RA-5. Colabora en la planificación de la preparación psicológica del/de la deportista, analizando la estructura de la preparación y aplicando criterios de secuenciación de los procedimientos y métodos para afrontar la alta competición.
+
+a) Se ha reconocido la pertinencia de integrar la preparación psicológica en la programación de la preparación general del/de la deportista.
+
+b) Se han elaborado sesiones de entrenamiento de las diferentes destrezas psicológicas que influyen en el rendimiento del deportista de alta competición.
+
+c) Se ha planificado la preparación psicológica dirigida a mejorar el rendimiento deportivo en la alta competición distribuyendo las cargas de trabajo de las diferentes destrezas psicológicas a lo largo de la temporada.
+
+d) Se han integrado en un supuesto práctico de preparación deportiva los procedimientos psicológicos de mantenimiento de la motivación de los/las deportistas de alto nivel a lo largo de la temporada deportiva.
+
+e) Se han programado los procesos relacionados con la forma en que el/la deportista de alto nivel afronta la competición en un supuesto práctico.
+
+f) Se ha valorado la importancia de la gestión psicológica en el proceso de rehabilitación de lesiones en los/las deportistas de alto rendimiento.
+
+g) Se ha valorado la importancia de la gestión psicológica en el proceso de finalización de la etapa competitiva en la vida del deportista y tránsito a la vida lejos de la competición.
+
+RA-6. Coordina el equipo de personal técnico en ciencias aplicadas al deporte, identificando las funciones del/de la psicólogo/a y aplicando técnicas de liderazgo en la gestión de recursos humanos.
+
+a) Se han definido los roles del/de la profesional de la psicología, diferenciándolos de las funciones del entrenador y de la entrenadora.
+
+b) Se han descrito los diferentes estilos de liderazgo de que dispone el/la entrenador/a en la gestión del equipo del personal técnico especialista.
+
+c) Se han descrito las pautas para desarrollar la cohesión del grupo de los recursos humanos del staff técnico.
+
+d) Se han identificado aquellas pautas de comunicación que puede utilizar el/la entrenador/a que generan credibilidad en su equipo de técnicos/as especialistas.
+
+e) Se han aplicado los estilos de liderazgo, las técnicas de cohesión de grupo y las pautas de comunicación en la gestión de los recursos humanos del staff técnico en situaciones simuladas de trabajo en equipo.
+
+f) Se han descrito las pautas a seguir por parte del técnico en la incorporación de las aportaciones especializadas del/de la profesional de la psicología a la preparación del/de la deportista en función del grado de participación de la persona especialista con el/la deportista.
+
+g) Se ha justificado la conveniencia de disponer de equipos de personal técnico especialista en ciencias del deporte.
+
+h) Se han descrito los aspectos de la preparación deportiva susceptibles de ser derivados al/a la profesional de la psicología.
+
+Contenidos básicos
+
+RA-1. Identifica los factores psicológicos del deportista analizando los principales conceptos de la psicología del deporte, sus efectos en el rendimiento y el bienestar del deportista.
+
+1\. La psicología del deporte y el ejercicio físico: historia y evolución.
+
+2\. Objetivos principales de la psicología del deporte.
+
+3\. Funciones y áreas de estudio de la psicología del deporte.
+
+4\. Factores psicológicos y su contribución a la progresión y el rendimiento:
+
+– La personalidad y su estructura de análisis.
+
+– Motivación y competitividad.
+
+– *Arousal*, estrés y ansiedad.
+
+– Rasgos de la personalidad, estados emocionales y herramientas de medida: tests, inventarios y directrices para su uso.
+
+– Fases de desarrollo de la motivación de logro y la competitividad.
+
+– Teorías e hipótesis sobre el efecto del *arousal*y la ansiedad en la ejecución.
+
+– Destrezas psicológicas que influyen en el rendimiento deportivo como la regulación del *arousal*, visualización, autoconfianza, establecimiento de objetivos y concentración.
+
+– Contribuciones de las destrezas psicológicas del deportista a la progresión y el rendimiento de los/las deportistas de alto nivel según la modalidad deportiva.
+
+– La necesidad de integrar aspectos psicológicos en la evaluación del deportista para la mejora del rendimiento deportivo.
+
+– Influencia en el rendimiento deportivo de la motivación del deportista, los rasgos de personalidad, el nivel de competitividad o la gestión de la ansiedad.
+
+– El autoconcepto, la conducta Tipo A y su relevancia en la salud mental del deportista.
+
+RA-2. Selecciona al/a la deportista para la alta competición, analizando las características psicológicas de los/las deportistas y equipos de alto nivel y las exigencias psicológicas del alto rendimiento.
+
+1\. Características psicológicas óptimas de los/las deportistas y equipos de alto nivel en el entrenamiento y en la competición.
+
+2\. Modelo de salud mental positiva (Morgan 1979) para la predicción del éxito deportivo. El perfil de Iceberg.
+
+3\. Peculiaridades psicológicas y consideraciones específicas de la mujer deportista de alto rendimiento.
+
+4\. Condicionantes psicológicos y consideraciones específicas de los/las deportistas con discapacidad en el alto rendimiento.
+
+5\. Identificación del perfil psicológico de los/las deportistas y equipos de alto nivel.
+
+6\. Importancia de los aspectos psicológicos en los procesos de detección de deportistas de alto nivel.
+
+7\. Criterios psicológicos en la selección de deportistas de alto nivel.
+
+8\. Aplicación de procedimientos de selección psicológica de deportistas de alto nivel.
+
+9\. Métodos de evaluación de las destrezas psicológicas implicados en el entrenamiento y en la competición para su selección.
+
+10\. Registro y análisis de la actuación psicológica de los/las deportistas en entrenamiento y en competición para su selección.
+
+11\. La necesidad de integrar las destrezas psicológicas en la selección del deportista de alto nivel.
+
+RA-3. Valora el entorno del/de la deportista, analizando los aspectos sociales que afectan a su rendimiento deportivo y facilitan su formación académica.
+
+1\. Aspectos sociales del entorno del/de la deportista de alto nivel relacionados con el rendimiento deportivo y académico (familia, relaciones sociales y afectivas, centro educativo y/o laboral, club, federación, patrocinadores, representantes, medios de comunicación y redes sociales).
+
+2\. Características específicas del entorno de la mujer deportista.
+
+3\. Características específicas del entorno del/de la deportista con discapacidad en el alto rendimiento.
+
+4\. Interacciones entre las características psicológicas de los/las deportistas de alto nivel y los aspectos sociales de su entorno.
+
+5\. Aspectos sociales del entorno del/de la deportista relacionados con su formación académica.
+
+6\. Evaluación de los aspectos sociales del entorno del/de la deportista relacionados con su progresión deportiva.
+
+7\. Medios de gestión del entorno por parte del/de la entrenador/a para que no interfiera en la preparación deportiva, académica o en el rendimiento deportivo del/de la deportista (formación de las familias, educación de los medios de comunicación, gestión de las redes sociales).
+
+8\. Desarrollo de una actitud en el/la entrenador/a que facilite al/a la deportista compaginar sus estudios con la práctica deportiva.
+
+9\. Conciliación personal-familiar y deportiva, las expectativas de maternidad de las deportistas durante la vida deportiva.
+
+10\. Problemas de inserción laboral más frecuentes en deportistas de alto nivel. Identificación de las ayudas y fuentes de información que facilitan la integración de los/las deportistas de alto nivel a la vida laboral.
+
+11\. Evaluación de los efectos del entorno del deportista en su rendimiento deportivo.
+
+12\. La actitud positiva del/de la entrenador/a hacia el reconocimiento y la prevención de problemas de inserción laboral en los/las deportistas de alto nivel.
+
+13\. La integración de los aspectos sociales del entorno del/de la deportista en la evaluación de su rendimiento.
+
+RA-4. Participa en la preparación psicológica del deportista de alto rendimiento, analizando y aplicando actividades y técnicas de mejora de las destrezas psicológicas.
+
+1\. Técnicas para desarrollar y perfeccionar las habilidades psicológicas para la mejora del rendimiento.
+
+– Técnicas de reducción de la ansiedad.
+
+– Técnicas inductoras del *arousal*.
+
+– Ejercicios para trabajar los diferentes tipos de visualización.
+
+– Estrategias para trabajar la autoconfianza.
+
+– Principios básicos del establecimiento de objetivos.
+
+– Ejercicios para mejorar la concentración y el foco atencional.
+
+2\. Estrategias para conseguir un determinado estado mental para realizar conductas relevantes para la mejora del rendimiento y/o la salud psicológica.
+
+3\. Aplicación de situaciones de competitividad y cooperación como herramientas para el aumento del rendimiento.
+
+4\. Utilización del*Feedback*y técnicas de reforzamiento de la conducta.
+
+5\. Métodos aplicados para la preparación psicológica del afrontamiento de la competición deportiva de alto nivel.
+
+6\. Secuencias y progresiones de actividades para la mejora de las destrezas psicológicas específicas de la modalidad deportiva en función de las peculiaridades del deportista.
+
+RA-5. Colabora en la planificación de la preparación psicológica del/de la deportista, analizando la estructura de la preparación y aplicando criterios de secuenciación de los procedimientos y métodos para afrontar la alta competición.
+
+1\. Los programas de entrenamiento de las destrezas psicológicas y su integración en la planificación deportiva general.
+
+2\. Estructura y diseño de las sesiones de entrenamiento de las destrezas psicológicas del deportista de alta competición como unidad de programación.
+
+3\. Programas de sesiones para la mejora de las distintas destrezas psicológicas que influyen en el rendimiento deportivo.
+
+4\. Distribución de las cargas de trabajo de las distintas destrezas psicológicas a lo largo de la temporada deportiva.
+
+5\. Diseño y evaluación de programas de mejora de las destrezas psicológicas.
+
+6\. Procedimientos psicológicos para mantener la motivación de deportistas de alto nivel a lo largo de la temporada.
+
+7\. Métodos de preparación psicológica para mejorar el afrontamiento que los/las deportistas de alto nivel hacen de la competición.
+
+8\. Planificación de los procesos de afrontamiento de la competición implicados en el alto rendimiento deportivo.
+
+9\. Elaboración de programaciones deportivas que integren los procesos de motivación y de afrontamiento de la competición.
+
+10\. Relevancia del trabajo psicológico para deportistas de alto nivel en situaciones de riesgo para su salud mental:
+
+– Procesos de rehabilitación de lesiones.
+
+– Finalización de la etapa competitiva en la vida del deportista y tránsito a la vida lejos de la competición.
+
+RA-6. Coordina el equipo de personal técnico en ciencias aplicadas al deporte, identificando las funciones del/de la psicólogo/a y aplicando técnicas de liderazgo en la gestión de recursos humanos.
+
+1\. Funciones del/de la profesional de la psicología aplicada al deporte y del técnico en los programas de entrenamiento de las destrezas psicológicas:
+
+– Detección de necesidades.
+
+– Diseño de la planificación.
+
+– Implementación del programa.
+
+– Supervisión y evaluación del programa.
+
+2\. Estilos de liderazgo aplicados en la conducción de equipos de trabajo.
+
+3\. Pautas para el desarrollo de un buen liderazgo de equipos de trabajo.
+
+4\. Pautas para el desarrollo de la cohesión de grupo y su medición.
+
+5\. Análisis de la comunicación para generar credibilidad en el conjunto de especialistas en ciencias aplicadas al deporte.
+
+6\. Protocolos para integrar la aportación del/de la profesional de la psicología en la preparación de deportistas de alto nivel.
+
+7\. La necesidad de disponer de equipos técnicos multidisciplinares.
+
+8\. La derivación de aspectos de la preparación de deportistas de alto nivel a profesionales de la psicología. Pautas de actuación.
+
+> Se numera como Anexo II.c y se sustituye por el que figura en el anexo II del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 4.2
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.d — Módulo común de enseñanza deportiva: Formación de formadores deportivos
+
+Código: MED-C303
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Elabora la programación didáctica de los módulos de enseñanzas deportivas, analizando la normativa de ordenación de las mismas, de los centros docentes, del profesorado y de la evaluación, aplicando los procesos de programación y secuenciación.
+
+a) Se ha analizado la organización básica de las enseñanzas deportivas en relación con el sistema educativo.
+
+b) Se ha analizado la normativa que rige el funcionamiento y organización de los diferentes tipos de centros docentes en los que se puede impartir las enseñanzas deportivas de régimen especial.
+
+c) Se han analizado las diferentes formas de colaboración entre las administraciones educativas y las federaciones deportivas, para impartir las enseñanzas deportivas.
+
+d) Se han relacionado las competencias del perfil profesional y los objetivos generales de un ciclo de enseñanzas deportivas con los resultados de aprendizaje de uno de los módulos y sus criterios de evaluación, mediante la valoración de sus características.
+
+e) Se han analizado los conceptos, procedimientos y actitudes que soportan los criterios de evaluación de los resultados de aprendizaje de un módulo específico de enseñanza deportiva.
+
+f) Se ha elaborado la programación didáctica de un módulo específico, en situaciones simuladas que concreten, entre otras, el tipo de enseñanza y el entorno docente.
+
+g) Se ha valorado justificadamente la importancia de programar en la formación de técnicos deportivos.
+
+RA-2. Elabora las sesiones de formación de técnicos deportivos de la programación didáctica conforme a sus elementos, valorando las características del alumnado adulto, y analizando, seleccionando y diseñando recursos didácticos propios de las enseñanzas deportivas.
+
+a) Se han valorado las características individuales y psicosociales del alumnado, en una situación simulada de formación de técnicos deportivos con un grupo diverso que incluya elementos de atención a las personas con discapacidad.
+
+b) Se han analizado las características de los recursos didácticos (actividades, tareas, materiales y medios) y las pautas didácticas que facilitan el proceso de enseñanza-aprendizaje presencial y a distancia, en un supuesto práctico de sesión de formación de técnicos deportivos.
+
+c) Se han seleccionado y diseñado actividades, tareas, materiales y medios didácticos (tradicionales, digitales y multimedia), en una sesión de trabajo donde se establezca el tipo de sesión (teórica, práctica, presencial y a distancia), el módulo específico, la concreción curricular y la estructura de sesión.
+
+d) Se han seleccionado y diseñado recursos didácticos alternativos en una situación simulada de una incidencia técnica, debidamente caracterizada de atención a una necesidad educativa especial o aplicación del principio de igualdad de oportunidades entre mujeres y hombres en la formación de técnicos deportivos.
+
+e) Se ha valorado justificadamente la importancia de seleccionar y diseñar recursos didácticos en la programación didáctica previamente a su utilización en la formación de técnicos deportivos, así como recursos didácticos alternativos frente a posibles incidencias y en atención a la diversidad.
+
+RA-3. Imparte formación de técnicos deportivos conforme a la programación didáctica, aplicando la metodología de enseñanza-aprendizaje y analizando la disposición docente que facilita el aprendizaje y la evaluación.
+
+a) Se han demostrado comportamientos y actitudes docentes que potencien y afiancen el rendimiento y la implicación del alumnado adulto en su formación deportiva, en situaciones simuladas de dirección de sesiones donde se establezcan las características del alumnado.
+
+b) Se han aplicado los estilos de enseñanza y las estrategias pedagógicas de fomento de los estilos de aprendizaje adecuados a la adquisición de competencias profesionales, en un supuesto practico debidamente caracterizado en el que se establezca el tipo de práctica, la modalidad de enseñanza, el módulo específico y las características del alumnado.
+
+c) Se ha dirigido una sesión de formación de enseñanzas deportivas, en un supuesto practico debidamente caracterizado en el que se establezca el tipo de sesión (teórica o práctica), la modalidad de enseñanza y la programación de la sesión.
+
+d) Se han aplicado recursos didácticos alternativos, en un supuesto práctico de una incidencia técnica y en otro de atención a la diversidad en la formación de técnicos deportivos, poniendo en práctica los recursos que resulten más adecuados en cada caso.
+
+e) Se han aplicado las estrategias, instrumentos y formas de evaluación de competencias profesionales en las enseñanzas deportivas, en una situación simulada donde se establezcan las características de los alumnos y los criterios de evaluación de los resultados de aprendizaje de un módulo específico.
+
+f) Se ha resuelto de forma argumentada una reclamación de calificación presentada por un/a alumno/a de enseñanzas deportivas, en una situación simulada en la que se concrete la comunidad autónoma y la normativa a utilizar.
+
+RA-4. Tutoriza técnicos deportivos en su proceso de formación específica (módulos específicos, de formación práctica y proyecto final), analizando y aplicando las estrategias y procedimientos específicos de tutorización.
+
+a) Se han comparado las diferentes estrategias y procedimientos que permiten establecer una línea de trabajo continua y coherente entre los módulos del bloque específico y los del bloque común de las enseñanzas deportivas.
+
+b) Se han analizado las estrategias y procedimientos de actuación en la tutorización de técnicos deportivos y en la dirección de su proyecto final, para su seguimiento y orientación.
+
+c) Se han categorizado y aplicado las diferentes formas de contacto y colaboración con los centros de prácticas para la formalización del convenio de colaboración del módulo de formación práctica.
+
+d) Se han concretado los conceptos, procedimientos y actitudes establecidos en los criterios de evaluación del módulo de formación práctica que deben formar parte del guion de la memoria de prácticas.
+
+e) Se ha valorado la importancia de que el alumnado en prácticas recoja en un diario de campo el registro de lo realizado como elemento de aprendizaje reflexivo.
+
+f) Se han elaborado de forma justificada los apartados clave a incluir en el guion de la presentación oral y escrita de un proyecto final de las enseñanzas deportivas, en un supuesto práctico en el que se establezca la temática del proyecto.
+
+g) Se han ejemplificado estrategias de orientación a aplicar a un/a supuesto/a alumno/a en una situación simulada de seguimiento realizado en un ciclo superior de las enseñanzas deportivas, detectando los momentos en los que habrían sido necesarias.
+
+h) Se ha evaluado una memoria de prácticas o un proyecto final, en una situación simulada donde se establezca dicho documento y los criterios de evaluación de los resultados de aprendizaje de un módulo de formación práctica o de proyecto final.
+
+i) Se ha elaborado de forma justificada el modelo de informe de evaluación, en un supuesto práctico en el que se establece el tipo de módulo a informar.
+
+RA-5. Promueve el desarrollo ético y moral de técnicos y deportistas de alto rendimiento, valorando el impacto que sus comportamientos y actitudes tienen a nivel social, especialmente a través de los medios de comunicación.
+
+a) Se han analizado los valores y antivalores más relevantes relacionados con el alto rendimiento deportivo en la prensa y en las redes sociales.
+
+b) Se han analizado las características que ha de tener el tratamiento de la información deportiva en los medios de comunicación para transmitir valores, especialmente haciendo efectiva la no promoción de la violencia y la valoración del éxito deportivo de otros colectivos normalmente menos valorados como mujeres y personas con discapacidad.
+
+c) Se ha valorado el impacto social de actitudes y comportamientos deportivos y antideportivos de miembros del cuerpo técnico y de deportistas de alto rendimiento, en supuestos prácticos de interacción con los medios de comunicación.
+
+d) Se han analizado los estereotipos de género u otro tipo, conductas de violencia, valores y antivalores, en un supuesto práctico de actuación del equipo de alto rendimiento frente a un conflicto, o en uno personal de resolución de una conducta poco ética y moral del equipo.
+
+e) Se han aplicado estrategias de desarrollo ético y moral personal y del equipo a reflejar en los comportamientos y actitudes ante los medios de comunicación, en un supuesto práctico de dirección de un equipo de alto rendimiento.
+
+f) Se han aplicado estrategias de resolución de conductas poco éticas y morales ante los medios de comunicación, en un supuesto práctico personal o de un deportista de alto rendimiento.
+
+Contenidos básicos
+
+RA-1. Elabora la programación didáctica de los módulos de enseñanzas deportivas, analizando la normativa de ordenación de las mismas, de los centros docentes, del profesorado y de la evaluación, aplicando los procesos de programación y secuenciación.
+
+1\. Enumeración de elementos y secuenciación de la programación didáctica.
+
+2\. Programación didáctica en enseñanza presencial y a distancia: características diferenciales.
+
+3\. Ubicación de las enseñanzas deportivas en el sistema educativo.
+
+– Ordenación, estructura y organización básica.
+
+– Sistema Nacional de Cualificaciones y Formación Profesional: oferta formativa en relación con las enseñanzas deportivas.
+
+4\. Normativa específica básica de las enseñanzas deportivas a tener en cuenta en la programación didáctica.
+
+– Centros de enseñanzas deportivas.
+
+– Características del profesorado de enseñanzas deportivas.
+
+– Perfil profesional de los ciclos de enseñanzas deportivas.
+
+– Objetivos generales de los diferentes ciclos de las enseñanzas deportivas.
+
+– Ciclos, bloques y módulos de las enseñanzas deportivas.
+
+– Elementos curriculares de los módulos de las enseñanzas deportivas.
+
+– Normativa de evaluación en las enseñanzas deportivas.
+
+RA-2. Elabora las sesiones de formación de técnicos deportivos de la programación didáctica conforme a sus elementos, valorando las características del alumnado adulto, y analizando, seleccionando y diseñando recursos didácticos propios de las enseñanzas deportivas.
+
+1\. Valoración de las características psicosociales del alumnado adulto propio de las enseñanzas deportivas.
+
+– Aprendizaje de personas adultas. Teorías cognitivas del aprendizaje.
+
+– Métodos de valoración psicosocial.
+
+– Implicaciones de las características psicosociales en el aprendizaje adulto.
+
+2\. Atención a la diversidad en el alumnado de enseñanzas deportivas, Principio de individualización en la enseñanza-aprendizaje y medidas para su fomento en las mismas.
+
+– Atención a las personas con discapacidad. Principio de normalización.
+
+– Principio de igualdad de oportunidades entre mujeres y hombres.
+
+– Adaptación curricular.
+
+– Situaciones de aprendizaje coeducativas, cooperativas e interactivas.
+
+3\. Elementos de la sesión en la planificación de sesiones en la formación de técnicos deportivos.
+
+– Concreción curricular.
+
+– Estructura.
+
+4\. Recursos didácticos a utilizar en las sesiones de formación técnicos deportivos. Características y criterios de selección y elaboración para enseñanza presencial y a distancia.
+
+– Actividades y tareas.
+
+– Medios didácticos: tradicionales, digitales (nuevas tecnologías –las TIC– aplicadas a la educación) y multimedia.
+
+– Materiales específicos de las disciplinas deportivas.
+
+– Pautas didácticas para la adecuación de los recursos didácticos.
+
+– Alternativas en caso de fallo técnico de los recursos didácticos y frente a otras posibles incidencias en las enseñanzas deportivas.
+
+– Diseño de los recursos didácticos para la individualización del proceso de enseñanza-aprendizaje y en atención a la diversidad en las enseñanzas deportivas.
+
+RA-3. Imparte formación de técnicos deportivos conforme a la programación didáctica, aplicando la metodología de enseñanza-aprendizaje y analizando la disposición docente que facilita el aprendizaje y la evaluación.
+
+1\. Desarrollo de la actitud de disposición del profesorado en la intervención docente en la formación de técnicos deportivos, para potenciar y afianzar el rendimiento y la implicación del alumnado adulto en el aprovechamiento de su formación.
+
+– Componentes cognitivos, afectivos y conductuales de la actitud de disposición docente.
+
+2\. Aspectos metodológicos de la enseñanza-aprendizaje en la formación de técnicos deportivos.
+
+– Estilos y estrategias de aprendizaje en personas adultas.
+
+– Modelos de formación del profesorado en las enseñanzas deportivas.
+
+– Estilos de enseñanza en modalidad presencial y a distancia.
+
+– Dirección de sesiones en la formación de técnicos deportivos.
+
+3\. Evaluación de la formación de técnicos deportivos.
+
+– Estrategias de evaluación.
+
+– Instrumentos de evaluación.
+
+– Formas de evaluación.
+
+– Pautas y proceso para la adecuada atención de reclamaciones de calificaciones.
+
+RA-4. Tutoriza técnicos deportivos en su proceso de formación específica (módulos específicos, de formación práctica y proyecto final), analizando y aplicando las estrategias y procedimientos específicos de tutorización.
+
+1\. Análisis de la relación curricular existente entre los distintos módulos de los bloques común y específico de las enseñanzas deportivas a tener en cuenta en la tutorización.
+
+– Implicaciones en el seguimiento y orientación en la tutorización.
+
+2\. Seguimiento educativo en la tutorización grupal, personal, presencial y a distancia de los módulos del bloque específico en la formación de técnicos deportivos.
+
+– Estrategias para la monitorización y control del proceso educativo.
+
+– Aplicaciones informáticas específicas de gestión y seguimiento.
+
+3\. Orientación educativa en la tutorización grupal, personal, presencial y a distancia de los módulos del bloque específico en la formación de técnicos deportivos.
+
+– Potenciación y afianzamiento del rendimiento y la implicación del alumnado adulto en el aprovechamiento de su formación deportiva.
+
+4\. Aspectos específicos a tener en cuenta en la tutorización del módulo de formación práctica de las enseñanzas deportivas.
+
+– Establecimiento de contactos y convenios con entidades colaboradoras.
+
+– Estrategias y procedimientos de actuación específicos en su seguimiento y orientación.
+
+– Memoria de prácticas.
+
+– Diario de campo.
+
+5\. Aspectos específicos a tener en cuenta en la tutorización del módulo de proyecto final de las enseñanzas deportivas.
+
+– Dirección y tutorización de proyectos: estrategias y procedimientos de actuación específicos en su seguimiento y orientación.
+
+– Proyecto.
+
+– Presentación oral.
+
+6\. Funciones y efectos específicos de la tutorización en el proceso de evaluación de los diferentes módulos de las enseñanzas deportivas.
+
+– Análisis de la progresión en la consecución de los criterios de evaluación de los resultados de aprendizaje de los distintos módulos a lo largo del ciclo de la enseñanza deportiva.
+
+– Elaboración de informes de evaluación.
+
+RA-5. Promueve el desarrollo ético y moral de técnicos y deportistas de alto rendimiento, valorando el impacto que sus comportamientos y actitudes tienen a nivel social, especialmente a través de los medios de comunicación.
+
+1\. Ética y moral en el deporte de alto rendimiento. Valores propios.
+
+– Antivalores más relevantes y comunes. Estereotipos y violencia en el deporte de alto rendimiento.
+
+– Valores y rendimiento deportivo.
+
+2\. Deporte de alto rendimiento, su impacto social y su desarrollo ético y moral en relación con los medios de comunicación.
+
+– Interacción de los diferentes agentes del ámbito del alto rendimiento deportivo con los medios de comunicación: deportistas y cuerpo técnico.
+
+– Análisis del contenido de la información deportiva en los medios de comunicación: transmisión de valores y valoración del éxito en mujeres y personas con discapacidad.
+
+– Repercusión mediática de actitudes y comportamientos deportivos y antideportivos de las/os deportistas y del cuerpo técnico ante los medios de comunicación.
+
+– Estrategias para el análisis y la difusión de valores deportivos a través de los medios.
+
+> Se numera como Anexo II.d y se sustituye por el que figura en el anexo III del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 4.2
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.e — Módulo común de enseñanza deportiva: Organización y gestión aplicada al alto rendimiento
+
+Código: MED-C304
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Revisa las condiciones de seguridad de los recursos materiales y equipamientos deportivos en instalaciones de alto rendimiento, utilizando la normativa vigente y aplicando criterios de protección contra riesgos, además de medidas de protección avanzadas.
+
+a) Se ha identificado la normativa básica y complementaria relativa a la seguridad aplicable a un supuesto práctico donde se concretan las características de una instalación deportiva de alto rendimiento.
+
+b) Se han aplicado los principales criterios de seguridad que deben cumplir las instalaciones y equipamientos deportivos de instalaciones de alto rendimiento, en un supuesto práctico donde se establece el marco normativo a utilizar y las características específicas de la instalación.
+
+c) Se han analizado las características de un plan de emergencia y evacuación en una instalación deportiva de alto rendimiento.
+
+d) Se han detallado estrategias y medidas de protección avanzadas contra riesgos antisociales y de violencia en el deporte, aplicables a una situación simulada debidamente caracterizada propia del alto rendimiento.
+
+RA-2. Organiza competiciones y eventos propios del nivel de tecnificación deportiva, analizando los requisitos administrativos, medios materiales y humanos necesarios, en relación con el marco legal que las regula y valorando los criterios de igualdad de género y sostenibilidad.
+
+a) Se ha identificado la estructura organizativa y la persona responsable de la competición de tecnificación deportiva, diferenciando sus funciones esenciales a partir de la normativa vigente.
+
+b) Se han categorizado de manera justificada las estrategias o herramientas utilizables en la búsqueda de financiación o apoyo económico de eventos y competiciones deportivas.
+
+c) Se ha elaborado el procedimiento de comunicación y difusión de los resultados, así como la gestión del protocolo de manera eficiente, aplicables en eventos reales o simulados.
+
+d) Se ha valorado el impacto ambiental y social de la celebración de eventos deportivos acorde a criterios de sostenibilidad, mediante la participación en espacios de discusión y análisis colectivo.
+
+RA-3. Acompaña a deportistas o equipos a competiciones de alto nivel y alto rendimiento, identificando el marco legislativo y organizativo de dichas competiciones y analizando las normativas de aplicación a deportistas profesionales, deportistas de alto nivel y alto rendimiento.
+
+a) Se ha analizado la normativa deportiva de ámbito internacional y su relación con la estructura administrativa del deporte, mediante un escenario de estudio realista.
+
+b) Se ha descrito la organización, estructura y funciones de los organismos deportivos internacionales más importantes, mediante el análisis de casos prácticos.
+
+c) Se ha descrito el régimen disciplinario y antidopaje y su relación con los organismos del deporte.
+
+d) Se ha analizado la normativa que afecta a Deportistas de Alto Nivel y Alto Rendimiento en España, a través de la revisión de casos representativos.
+
+e) Se han analizado las características de los programas de ayuda a la preparación de Deportistas de Alto Nivel y Alto Rendimiento de los deportes olímpicos, a través de la revisión de programas de apoyo reales.
+
+RA-4. Identifica las formas jurídicas y estructuras de las organizaciones deportivas, relacionándolas con la normativa vigente y aplicando procedimientos básicos de gestión económica.
+
+a) Se ha distinguido el grado de responsabilidad de las personas propietarias y gestoras de organizaciones deportivas, en función de su forma jurídica, mediante el análisis comparativo de distintas estructuras organizativas.
+
+b) Se han identificado los procedimientos de creación y puesta en marcha de una organización deportiva, en un supuesto práctico de emprendimiento en el que se establece la forma jurídica y la estructura de la organización deportiva.
+
+c) Se han enumerado los trámites de obtención de apoyo económico exigidos por la normativa vigente en los procesos de creación de organizaciones deportivas, adecuándolos a las características de cada organización.
+
+d) Se han seleccionado los procedimientos de gestión económica esenciales en la organización deportiva, a partir de una organización ficticia.
+
+RA-5. Selecciona las oportunidades de empleo, identificando itinerarios formativos profesionales, realizando una autovaloración de características personales y reconociendo organizaciones útiles para el asesoramiento en la búsqueda.
+
+a) Se ha valorado la importancia de la formación permanente como factor clave en la empleabilidad y la adaptación a las exigencias del mercado laboral y de la modalidad deportiva, mediante la participación en espacios de discusión y análisis colectivo.
+
+b) Se han identificado los itinerarios formativos profesionales que completan su perfil profesional y aumentan su empleabilidad, a partir de la búsqueda en bases de datos educativas y ofertas formativas actualizadas.
+
+c) Se han descrito posibilidades de empleo relacionadas con su perfil profesional, a partir de la búsqueda de oportunidades en el mercado.
+
+d) Se han analizado y aplicado herramientas de autoevaluación de las aspiraciones, actitudes y formación vinculadas con la búsqueda de empleo.
+
+e) Se han seleccionado de manera justificada las organizaciones de asesoramiento en la búsqueda de empleo, a partir de la consulta de portales de empleo y orientación profesional.
+
+Contenidos básicos
+
+RA-1. Revisa las condiciones de seguridad de los recursos materiales y equipamientos deportivos en instalaciones de alto rendimiento, utilizando la normativa vigente y aplicando criterios de protección contra riesgos, además de medidas de protección avanzadas.
+
+1\. Instalaciones deportivas: concepto y características funcionales.
+
+2\. Fundamentos normativos sobre seguridad en las instalaciones deportivas.
+
+3\. La información sobre seguridad en las instalaciones deportivas. Interpretación de la señalización de seguridad. Accesibilidad en instalaciones deportivas.
+
+4\. Procedimientos de revisión de los equipamientos deportivos.
+
+5\. Análisis y aplicación de los planes de emergencia y evacuación.
+
+6\. Medidas básicas de protección para las personas usuarias y las personas trabajadoras.
+
+7\. Protección contra actos antisociales y violencia en el deporte.
+
+RA-2. Organiza competiciones y eventos propios del nivel de tecnificación deportiva, analizando los requisitos administrativos, medios materiales y humanos necesarios, en relación con el marco legal que las regula y valorando los criterios de igualdad de género y sostenibilidad.
+
+1\. Competiciones deportivas. Estructura organizativa básica. Funciones y responsabilidades.
+
+2\. Vías de apoyo económicas y materiales.
+
+3\. Apoyo a la esponsorización del deporte femenino, su importancia en la organización de eventos de esta naturaleza.
+
+4\. Organización de actos de protocolo.
+
+5\. Gestión y difusión de los resultados de las competiciones deportivas.
+
+6\. Sostenibilidad en competiciones y eventos deportivos.
+
+– Medidas para minimizar las afecciones en la Biodiversidad y de restauración de zonas afectadas. Preservación de zonas frágiles, patrimonio arqueológico, histórico y cultural.
+
+– Medidas de ahorro y uso eficiente del agua.
+
+– Gestión de residuos y limpieza.
+
+– Minimizar el uso de energía, fomento de energías renovables.
+
+RA-3. Acompaña a deportistas o equipos a competiciones de alto nivel y alto rendimiento, identificando el marco legislativo y organizativo de dichas competiciones y analizando las normativas de aplicación a deportistas profesionales, deportistas de alto nivel y alto rendimiento.
+
+1\. Deporte internacional. Normativa de referencia:
+
+– Carta Olímpica.
+
+– Carta Europea del Deporte: personas con discapacidad.
+
+– Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+– Convención sobre los derechos de las personas con discapacidad: resolución de la Asamblea General de la ONU del 13 de diciembre de 2006 (artículo 30.5).
+
+2\. Organismos Internacionales.
+
+– Estructura y funciones: Comité Paralímpico Internacional, Comité Olímpico Internacional. Tribunal de Arbitraje del Deporte. Agencia Mundial Antidopaje.
+
+– Régimen Disciplinario.
+
+3\. Deporte Profesional. Concepto.
+
+– Ley del deporte.
+
+– Ligas profesionales españolas. Características.
+
+4\. Deporte de Alto Nivel (DAN) y de Alto Rendimiento (DAR).
+
+– Normativa de aplicación DAN y DAR.
+
+– Plan ADO y «Team España». Características.
+
+– Plan ADOP. Características.
+
+– Programas de apoyo a las deportistas DAN y DAR.
+
+RA-4. Identifica las formas jurídicas y estructuras de las organizaciones deportivas, relacionándolas con la normativa vigente y aplicando procedimientos básicos de gestión económica.
+
+1\. Organizaciones y empresas deportivas. Formas jurídicas. Estructura y funciones.
+
+2\. Elección de la forma jurídica.
+
+3\. Requisitos legales de constitución de organizaciones deportivas y empresas.
+
+4\. Vías de financiación de las organizaciones y empresas deportivas. Ayudas y subvenciones. Tramitación de solicitudes de ayudas y subvenciones.
+
+5\. Nociones básicas de contabilidad.
+
+6\. Análisis de la información contable.
+
+RA-5. Selecciona las oportunidades de empleo, identificando itinerarios formativos profesionales, realizando una autovaloración de características personales y reconociendo organizaciones útiles para el asesoramiento en la búsqueda.
+
+1\. Valoración de la importancia de la formación permanente para la trayectoria laboral y profesional del personal técnico deportivo superior.
+
+2\. Identificación de los itinerarios formativos relacionados con el personal técnico deportivo superior.
+
+3\. El proceso de búsqueda de empleo.
+
+4\. Técnicas e instrumentos de búsqueda de empleo.
+
+5\. El proceso de toma de decisiones.
+
+6\. Análisis de los intereses, aptitudes y motivaciones personales para la carrera profesional.
+
+7\. Análisis del mercado de entidades públicas y privadas orientadas al asesoramiento en la búsqueda de empleo.
+
+> Se numera como Anexo II.e y se sustituye por el que figura en el anexo IV del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 4.2
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.f — Módulo específico de enseñanza deportiva: Planificación y programación del alto rendimiento en salvamento y socorrismo
+
+Código: MED-SSSS-301
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Detecta, identifica y selecciona talentos deportivos en salvamento y socorrismo, analizando las características de los sistemas y programas de detección y selección de talentos, las características de las etapas de desarrollo de la vida deportiva de los socorristas y aplicando técnicas específicas.
+
+a. Se han fundamentado los conceptos y las fases del proceso de detección, identificación y selección de talentos en salvamento y socorrismo.
+
+b. Se han analizando los programas de detección, identificación y selección de talentos deportivos en salvamento y socorrismo establecidos por las Administraciones deportivas de acuerdo a las características específicas de la modalidad.
+
+c. Se han seleccionado los criterios de adaptación de los programas de detección, identificación y selección de talentos adecuados a la modalidad.
+
+d. Se han seleccionado los medios materiales y humanos necesarios en la implantación de un programa de detección, identificación y selección de talentos en salvamento y socorrismo.
+
+e. Se han analizado las características de las diferentes capacidades y modos de comportamiento que determinan el perfil del socorrista de alto rendimiento.
+
+f. Se han seleccionado los valores de referencia que determinan la evolución de las capacidades y modos de comportamiento del socorrista a lo largo de las diferentes etapas de la vida deportiva de los talentos en salvamento y socorrismo.
+
+g. Se han seleccionado las técnicas e instrumentos de valoración de las capacidades y modos de comportamiento propios del alto rendimiento en salvamento y socorrismo y de la etapa deportiva del deportista.
+
+h. Se ha elaborado un programa de detección, identificación y selección de talentos en salvamento y socorrismo, justificando los criterios utilizados en función de la etapa deportiva del deportista.
+
+i. Se ha justificado la necesidad de respetar los intereses y necesidades del individuo en el proceso de desarrollo de los talentos deportivos en salvamento y socorrismo.
+
+2\. Programa a largo plazo la preparación del socorrista en las diferentes categorías, analizando los modelos de preparación a largo plazo, seleccionando la información necesaria y aplicando instrumentos y métodos de recogida de la misma.
+
+a. Se han explicado los factores que influyen en el desarrollo del talento deportivo en salvamento y socorrismo.
+
+b. Se han analizado las características de las diferentes etapas en el desarrollo de la vida deportiva de un socorrista hasta la consecución del alto rendimiento y el abandono de la vida deportiva.
+
+c. Se han analizado las características de los diferentes modelos de planificación (programación de los ciclos de preparación) supranual (vida deportiva y ciclo olímpico) en función de los modelos de rendimiento de la modalidad y de la etapa deportiva del socorrista y en especial la de alto rendimiento.
+
+d. Se han analizado las características de los diferentes modelos de planificación de los ciclos anuales en salvamento y socorrismo en función de los objetivos establecidos, de la dinámica de cargas que conlleva, y de su adecuación a la etapa deportiva del socorrista y en especial la de alto rendimiento.
+
+e. Se han elaborado los objetivos de preparación y rendimiento en una programación anual, en función del modelo de programación y de la etapa en la vida deportiva del socorrista y en especial la de alto rendimiento.
+
+f. Se han analizado las características del calendario de competición anual e internacional en salvamento y socorrismo relacionándolo con las características del modelo de planificación.
+
+g. Se han caracterizado las diferentes etapas, ciclos o periodos en lo que se subdivide una programación anual.
+
+h. Se han seleccionado los medios y métodos de control de la preparación y del rendimiento en una programación a largo plazo, en función de los objetivos y la etapa de la vida deportiva del socorrista y en especial la de alto rendimiento.
+
+i. Se ha identificado el tipo de información que se debe tener en cuenta en la programación a largo plazo.
+
+j. Se han aplicado métodos de recogida y análisis de la información sobre el deportista y equipo, y el entorno, a tener en cuenta en la programación a largo plazo.
+
+k. Se ha analizado las características y exigencias de las pruebas de competición, en relación con las diferentes categorías.
+
+l. Se ha seleccionado la información del entorno personal, social o educativa del socorrista y equipo a tener en cuenta en la programación del entrenamiento a largo, medio y corto plazo, en función de la etapa deportiva y en especial la de alto rendimiento.
+
+m. Se han elaborado instrumentos de recogida de la información sobre el entorno: personal, social y educativo del deportista y equipo.
+
+n. Se ha valorado la importancia de establecer metas adecuadas a la evolución del deportista y equipo, y la dinámica de cargas específicas en salvamento y socorrismo, en la programación a largo plazo.
+
+3\. Programa a medio y corto plazo la preparación del socorrista y equipo, adapta y concreta ciclos y sesiones de entrenamiento en salvamento y socorrismo, analizando las características de los diferentes ciclos o periodos de preparación y los criterios de combinación y evolución de los medios y métodos empleados.
+
+a. Se han analizado las características de los diferentes tipos de programación a corto y medio plazo y su relación con los objetivos del ciclo anual.
+
+b. Se han seleccionado los medios de control de los factores de rendimiento en salvamento y socorrismo, en función de la situación dentro de la programación y de los objetivos de la misma.
+
+c. Se han seleccionado los medios y métodos de entrenamiento acordes con el tipo de ciclo o periodo de preparación elegido.
+
+d. Se han justificado los criterios de evolución de los medios de entrenamiento en salvamento y socorrismo, en los diferentes tipos de ciclos o periodos de preparación a medio y corto plazo.
+
+e. Se han analizado los procedimientos de selección de los objetivos a alcanzar en los factores de rendimiento en salvamento y socorrismo, en función del tipo de ciclo o periodo de preparación utilizado.
+
+f. Se han justificado los criterios de evolución y modificación de los métodos de entrenamiento de los factores de rendimiento en los diferentes tipos de ciclos o periodos de preparación a medio y corto plazo.
+
+g. Se ha analizado la organización y estructura de la sesión de entrenamiento de salvamento y socorrismo en los diferentes tipos de ciclos o periodos de preparación a medio y corto plazo.
+
+h. Se han analizado los criterios de combinación de los medios y métodos de entrenamiento de los factores de rendimiento en la sesión de salvamento y socorrismo, en función del tipo de ciclo o periodo de preparación a medio y corto plazo y del momento de la preparación.
+
+i. Se han diseñado programas de preparación a medio y corto plazo en salvamento y socorrismo, en función de las directrices de la programación a largo plazo.
+
+j. Se ha justificado la importancia de adaptar la programación a las modificaciones de la forma deportiva del socorrista y equipo y al grado de consecución de los objetivos propuestos.
+
+4\. Dirige, organiza y programa una concentración de socorristas, fundamentando la estructura de este tipo de actividades, y seleccionando los medios y logística adecuados.
+
+a. Se han analizado los beneficios y funciones que tiene la concentración de preparación dentro de la planificación de socorrista y del equipo.
+
+b. Se han analizado los objetivos que pueden cumplirse en las concentraciones de preparación en salvamento y socorrismo, en relación con el socorrista, el equipo y las características de las pruebas.
+
+c. Se ha caracterizado los diferentes tipos de concentraciones, en función del momento de la preparación y las pruebas a realizar.
+
+d. Se han fundamentado las estrategias de intervención y cuidados a los deportistas en las concentraciones de preparación de salvamento y socorrismo, en función de los objetivos establecidos.
+
+e. Se han escogido de forma justificada, los contenidos y métodos a utilizar en las concentraciones de preparación en salvamento y socorrismo, en función de los objetivos establecidos.
+
+f. Se ha concretado el programa de una concentración de preparación en un supuesto práctico.
+
+g. Se han seleccionado los medios y la logística necesarios en la organización de una concentración de preparación en salvamento y socorrismo, en función de los objetivos y de las condiciones existentes.
+
+h. Se ha valorado la importancia de las concentraciones en los programas de preparación en salvamento y socorrismo.
+
+5\. Registra y valora la carga de entrenamiento en la preparación del socorrista, analizando los factores que determinan la carga de entrenamiento en salvamento y socorrismo, y aplicando instrumentos de cuantificación y procesamiento de la información.
+
+a. Se han caracterizado los indicadores que permiten la cuantificación de la carga de trabajo técnico y táctico, en el entrenamiento de salvamento y socorrismo.
+
+b. Se han caracterizado los indicadores que permiten la cuantificación de la carga de trabajo condicional en el entrenamiento de salvamento y socorrismo.
+
+c. Se han caracterizado los indicadores que permiten la cuantificación de la carga psicológica en el entrenamiento y la competición de salvamento y socorrismo.
+
+d. Se han analizado los métodos o sistemas de cuantificación de la carga de trabajo condicional en el entrenamiento de salvamento y socorrismo.
+
+e. Se ha justificado la dinámica de cargas de los diferentes factores de rendimiento deportivo en salvamento y socorrismo, de una programación anual en función de las características de la programación y de los objetivos planteados.
+
+f. Se han aplicado programas informáticos específicos a la cuantificación de la carga de trabajo en el entrenamiento de salvamento y socorrismo.
+
+g. Se han aplicado instrumentos de representación gráfica de la carga de trabajo en el entrenamiento de salvamento y socorrismo.
+
+h. Se han seleccionado procedimientos estadísticos para el procesamiento e interpretación de la carga en el entrenamiento de salvamento y socorrismo.
+
+i. Se han analizado las utilidades de la cuantificación y seguimiento de la carga del entrenamiento en el control y ajuste de la preparación en salvamento y socorrismo.
+
+j. Se ha valorado la importancia de la cuantificación y el seguimiento de la carga de entrenamiento en la optimización de la preparación en salvamento y socorrismo.
+
+Contenidos básicos
+
+1\. Detecta, identifica y selecciona talentos deportivos en salvamento y socorrismo, analizando las características de los sistemas y programas de detección y selección de talentos, las características de las etapas de desarrollo de la vida deportiva de los socorristas y aplicando técnicas específicas.
+
+– La selección de talentos:
+
+– Factores que influyen en la selección.
+
+– Proceso para la detección e identificación.
+
+– Evolución de las capacidades y modos de comportamiento del socorrista de alto rendimiento.
+
+– Técnicas e instrumentos de valoración de las capacidades y comportamientos del socorrista de alto rendimiento.
+
+– Programas de detección de talentos: definición, medios materiales y humanos.
+
+– Perfil del socorrista de alto rendimiento.
+
+– Importancia del respeto de los intereses del socorrista en el proceso de desarrollo de los talentos deportivos.
+
+2\. Programa a largo plazo la preparación del socorrista, en las diferentes categorías, analizando los modelos de preparación a largo plazo, seleccionando la información necesaria y aplicando instrumentos y métodos de recogida de la misma.
+
+– Etapas de desarrollo de la vida del socorrista hasta el alto rendimiento abandono.
+
+– Modelos de planificación deportiva: características.
+
+– La programación anual:
+
+– Etapas y características.
+
+– Información a tener en cuenta.
+
+– Medios y métodos de control, recogida y análisis de la información.
+
+– La planificación anual y el calendario de competición:
+
+– Metas establecidas
+
+3\. Programa a medio y corto plazo la preparación del socorrista, adapta y concreta ciclos y sesiones de entrenamiento en salvamento y socorrismo, analizando las características de los diferentes ciclos o periodos de preparación y los criterios de combinación y evolución de los medios y métodos empleados.
+
+– La planificación a corto y medio plazo: características:
+
+– Objetivos.
+
+– Medios y métodos del entrenamiento.
+
+– Medios de control del rendimiento.
+
+– La sesión de entrenamiento: análisis de la organización y estructura.
+
+– Programas de preparación a corto y medio plazo: adaptaciones individuales.
+
+4\. Dirige, organiza y programa una concentración de socorristas, fundamentando la estructura de este tipo de actividades, y seleccionando los medios y logística adecuados.
+
+– Las concentraciones: objetivos y beneficios.
+
+– Tipos de concentraciones:
+
+– Concentraciones de piscina, aguas abiertas y mixtas.
+
+– Estrategias de intervención durante las concentraciones.
+
+– Contenidos, métodos y medios.
+
+– Programa a desarrollar.
+
+– Objetivos.
+
+– Medios y métodos del entrenamiento.
+
+– Medios de control del rendimiento.
+
+5\. Registra y valora la carga de entrenamiento en la preparación del socorrista, analizando los factores que determinan la carga de entrenamiento en salvamento y socorrismo, y aplicando instrumentos de cuantificación y procesamiento de la información.
+
+– Las cargas: métodos de cuantificación de cargas:
+
+– Trabajo técnico-táctico: indicadores de cuantificación.
+
+– Trabajo de condición física: indicadores de cuantificación.
+
+– Trabajo psicológico: indicadores de cuantificación.
+
+– La dinámica de las cargas.
+
+– Programas informáticos para la cuantificación de las cargas:
+
+– Instrumentos de representación gráfica.
+
+– Procedimientos estadísticos.
+
+– Objetivos y funciones de la cuantificación de las cargas.
+
+> Se numera como Anexo II.f por el art. 4.2 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.g — Módulo específico de enseñanza deportiva: Entrenamiento en salvamento y socorrismo
+
+Código: MED-SSSS-302
+
+Resultados de aprendizaje
+
+1\. Evalúa la condición física del socorrista en el entrenamiento y la competición, analizando las demandas condicionales de la competición y del alto rendimiento en sus diferentes etapas, aplicando procedimientos específicos y realizando el tratamiento de la información.
+
+a. Se han analizado los factores energéticos, grupos musculares y sistemas que son más requeridos en la competición de salvamento y socorrismo en función de la prueba a realizar en piscina o en aguas abiertas relacionándolo con el programa de entrenamiento.
+
+b. Se ha analizado la demanda de resistencia aeróbica y anaeróbica en el salvamento y socorrismo en función de la categoría, de las características de la prueba de piscina o aguas abiertas, y del material utilizado.
+
+c. Se ha analizado la demanda de capacidades condicionales (fuerza, velocidad y flexibilidad) en el salvamento y socorrismo en función de la categoría, de las características de la prueba de piscina o aguas abiertas, y del material utilizado.
+
+d. Se han justificado los objetivos condicionales utilizados en un programa de entrenamiento de alto rendimiento en salvamento y socorrismo.
+
+e. Se ha justificado la valoración y control de la condición física en la detección precoz del talento deportivo.
+
+f. Se han seleccionado procedimientos e instrumentos específicos de valoración y registro de las capacidades condicionales del socorrista durante el entrenamiento y la competición de alto rendimiento en las diferentes categorías.
+
+g. Se han seleccionado procedimientos e instrumentos de valoración y registro de la condición física en el proceso de detección de talentos deportivos en salvamento y socorrismo.
+
+h. Se han analizado e interpretado los resultados de las pruebas de valoración condicional del socorrista, estableciendo consecuencias en la programación a corto, medio y largo plazo.
+
+i. Se ha seleccionado la información que debe constar en un informe condicional del socorrista, fundamentando las propuestas de mejora a corto, medio y largo plazo.
+
+j. Se ha justificado la importancia de la valoración continuada de la condición física del socorrista dentro del proceso de consecución del alto rendimiento.
+
+2\. Evalúa el rendimiento técnico y táctico del socorrista y del equipo y su aplicación al sistema de competición, analizando las características del comportamiento técnico/táctico en pruebas de piscina, justificando los errores técnico/tácticos de esta etapa y relacionándolos con las tareas de corrección, diseñando actividades y aplicando procedimientos específicos y realizando el tratamiento de la información.
+
+a. Se han analizado los objetivos técnicos, tácticos de un programa de entrenamiento de alto rendimiento en pruebas de piscina en salvamento y socorrismo.
+
+b. Se han analizado los requerimientos técnicos y tácticos de los diferentes tipos de competición, identificando las acciones técnico-tácticas más utilizadas en pruebas de piscina en función de la categoría.
+
+c. Se ha justificado la influencia de las habilidades técnico-tácticas en pruebas de piscina en la formación del talento deportivo en salvamento y socorrismo.
+
+d. Se ha justificado la valoración y control de las habilidades técnico-tácticas en la detección precoz del talento deportivo en pruebas de piscina.
+
+e. Se han elegido y aplicado procedimientos e instrumentos de valoración y registro de las habilidades técnicas y tácticas en el proceso de detección de talentos deportivos en pruebas de piscina en salvamento y socorrismo.
+
+f. Se ha analizado la evolución y complejidad de los modelos técnico-tácticos en pruebas de piscina salvamento y socorrismo de alto nivel, e identificado las orientaciones de los nuevos patrones técnicos y estrategias deportivas.
+
+g. Se han identificado los errores de la ejecución técnica y de las acciones tácticas del socorrista y del equipo en el entrenamiento y en la competición de alto nivel en pruebas de piscina, relacionándolos con las posibles causas y las tareas para solucionarlas.
+
+h. Se han diseñado actividades de corrección técnico-táctica en el entrenamiento y en la competición de alto nivel en las pruebas de piscina de salvamento y socorrismo.
+
+i. Se han descrito los criterios de valoración de las acciones técnicas y tácticas del socorrista y del equipo en la competición de alto nivel en pruebas de piscina en salvamento y socorrismo.
+
+j. Se han elaborado planillas de recogida de información sobre el comportamiento táctico del socorrista, del equipo y sus adversarios en el entrenamiento y en la competición en pruebas de piscina.
+
+k. Se han analizado e interpretado los test de valoración técnica y táctica aplicados a los socorristas y al equipo en pruebas de piscina en salvamento y socorrismo.
+
+l. Se ha elaborado el informe técnico y táctico del comportamiento del socorrista y del equipo en el entrenamiento y en la competición y diseñado las actividades y propuestas de adaptación y mejora en pruebas de piscina en salvamento y socorrismo.
+
+m. Se ha valorado la importancia de la evaluación técnica y táctica del socorrista y del equipo en pruebas de piscina de salvamento y socorrismo.
+
+3\. Evalúa el rendimiento técnico y táctico del socorrista y del equipo y su aplicación al sistema de competición, analizando las características del comportamiento técnico/táctico en pruebas de aguas abiertas, justificando los errores técnico/tácticos de esta etapa y relacionándolos con las tareas de corrección, diseñando actividades y aplicando procedimientos específicos y realizando el tratamiento de la información.
+
+a. Se han analizado los objetivos técnicos, tácticos de un programa de entrenamiento de alto rendimiento en pruebas de aguas abiertas en salvamento y socorrismo.
+
+b. Se han analizado los requerimientos técnicos y tácticos de los diferentes tipos de competición, identificando las acciones técnico-tácticas más utilizadas en las pruebas de de aguas abiertas en función de la categoría.
+
+c. Se ha justificado la influencia de las habilidades técnico-tácticas en pruebas de aguas abiertas en la formación del talento deportivo en salvamento y socorrismo.
+
+d. Se ha justificado la valoración y control de las habilidades técnico-tácticas en la detección precoz del talento deportivo en pruebas de aguas abiertas en salvamento y socorrismo.
+
+e. Se han elegido y aplicado procedimientos e instrumentos de valoración y registro de las habilidades técnicas y tácticas en el proceso de detección de talentos deportivos en pruebas de aguas abiertas en salvamento y socorrismo.
+
+f. Se ha analizado la evolución y complejidad de los modelos técnico-tácticos en pruebas de aguas abiertas en salvamento y socorrismo de alto nivel, e identificado las orientaciones de los nuevos patrones técnicos y estrategias deportivas.
+
+g. Se han identificado los errores de la ejecución técnica y de las acciones tácticas del socorrista y del equipo en el entrenamiento y en la competición de alto nivel en pruebas de aguas abiertas, relacionándolos con las posibles causas y las tareas para solucionarlas.
+
+h. Se han diseñado actividades de corrección técnico-táctica en el entrenamiento y en la competición de alto nivel en las pruebas de aguas abiertas de salvamento y socorrismo.
+
+i. Se han descrito los criterios de valoración de las acciones técnicas y tácticas del socorrista y del equipo en la competición de alto nivel en pruebas de aguas abiertas.
+
+j. Se han elaborado planillas de recogida de información sobre el comportamiento táctico del socorrista, del equipo y sus adversarios en el entrenamiento y en la competición en pruebas de aguas abiertas.
+
+k. Se han analizado e interpretado los test de valoración técnica y táctica aplicados a los socorristas y al equipo en pruebas de aguas abiertas.
+
+l. Se ha elaborado el informe técnico y táctico del comportamiento del socorrista y del equipo en entrenamiento y en competición y diseñado las actividades y las propuestas de adaptación y mejora en pruebas de de aguas abiertas.
+
+m. Se ha valorado la importancia de la evaluación técnica y táctica del socorrista y del equipo en pruebas de aguas abiertas de salvamento y socorrismo.
+
+4\. Dirige el entrenamiento del socorrista de alto nivel, analizando las características de las capacidades condicionales requeridas, caracterizando y aplicando los métodos y medios del entrenamiento en pruebas de piscina y aguas abiertas de este nivel.
+
+a. Se han analizado las características de la resistencia aeróbica requerida en el entrenamiento y la competición en pruebas de piscina y aguas abiertas y su aplicación.
+
+b. Se han analizado las características de la resistencia anaeróbica requerida en el entrenamiento y la competición en pruebas de piscina y aguas abiertas y su aplicación.
+
+c. Se han caracterizado los medios y medios del entrenamiento de los diferentes tipos de resistencia del socorrista de alto nivel en relación con las pruebas de piscina y aguas abiertas en salvamento y socorrismo.
+
+d. Se han analizado las características de la velocidad requerida en el entrenamiento y la competición en pruebas de piscina y aguas abiertas y su aplicación.
+
+e. Se han caracterizado los medios y métodos del entrenamiento de los diferentes tipos de velocidad del socorrista de alto nivel en relación con las pruebas de piscina y aguas abiertas en salvamento y socorrismo.
+
+f. Se han analizado las características de la fuerza requerida en el entrenamiento y la competición en pruebas de piscina y aguas abiertas y su aplicación.
+
+g. Se han caracterizado los medios y métodos del entrenamiento de los diferentes tipos de fuerza del socorrista de alto nivel en relación con las pruebas de piscina y aguas abiertas en salvamento y socorrismo.
+
+h. Se han analizado las características de la flexibilidad requerida en el entrenamiento y la competición en pruebas de piscina y aguas abiertas y su aplicación.
+
+i. Se han caracterizado los medios y métodos del entrenamiento de los diferentes tipos de flexibilidad del socorrista de alto nivel en relación con las pruebas de piscina y aguas abiertas en salvamento y socorrismo.
+
+j. Se ha valorado la importancia de la utilización de los métodos y medios específicos del entrenamiento de las capacidades condicionales del socorrista de alto nivel en relación con su demanda en las pruebas de piscina y aguas abiertas.
+
+5\. Utiliza las nuevas tecnologías y medios audiovisuales en el registro y valoración del entrenamiento y la competición del socorrista de alto nivel, caracterizando los diferentes medios utilizables, aplicando técnicas y procedimientos específicos de procesamiento de la información en el análisis cualitativo y cuantitativo de la técnica.
+
+a. Se han clasificado los medios audiovisuales e instrumentos de medición del rendimiento del socorrista utilizados durante el entrenamiento y la competición en salvamento y socorrismo.
+
+b. Se han concretado las técnicas de uso y funcionamiento de los instrumentos utilizados en el apoyo, seguimiento y control del rendimiento durante el entrenamiento y la competición en salvamento y socorrismo.
+
+c. Se han descrito las características de los medios audiovisuales y de procesamiento de las imágenes necesarias en el registro y valoración de las técnicas de salvamento y socorrismo.
+
+d. Se han relacionado los diferentes tipos de planos y las diferentes técnicas de filmación con las técnicas y tácticas utilizadas durante las pruebas de piscina o de aguas abiertas en salvamento y socorrismo.
+
+e. Se han determinado las diferencias y características de los recursos materiales: cámaras de video, cámaras subacuáticas, entre otras, en función de las necesidades de aplicación.
+
+f. Se han seleccionado técnicas de filmación adaptadas a las necesidades del salvamento y socorrismo en situación de entrenamiento y competición.
+
+g. Se han concretado técnicas de montaje de filmaciones con los medios audiovisuales adecuados.
+
+h. Se han analizado las técnicas y procedimientos específicos del procesamiento de la información obtenida en el entrenamiento y en la competición del socorrista.
+
+i. Se ha valorado la importancia del uso de las nuevas tecnologías en la valoración del entrenamiento y competición de alto nivel.
+
+Contenidos básicos
+
+1\. Evalúa la condición física del socorrista en el entrenamiento y la competición, analizando las demandas condicionales de la competición y del alto rendimiento en sus diferentes etapas, aplicando procedimientos específicos y realizando el tratamiento de la información.
+
+– Factores energéticos, grupos musculares y sistemas requeridos en la competición de salvamento y socorrismo:
+
+– Pruebas de piscina.
+
+– Pruebas de aguas abiertas.
+
+– Demanda de las capacidades condicionales durante el entrenamiento y la competición en salvamento y socorrismo en las diferentes categorías.
+
+– Pruebas de piscina.
+
+– Pruebas de aguas abiertas.
+
+– Objetivos condicionales en los programas de alto nivel de salvamento y socorrismo.
+
+– Valoración y control de la condición física:
+
+– Detección de talentos.
+
+– Procedimientos e instrumentos.
+
+– Análisis de los resultados de las pruebas de valoración de la condición física.
+
+– Elaboración del informe de valoración de la condición física:
+
+– Propuestas de mejora.
+
+– La valoración continua de la condición física del socorrista.
+
+2\. Evalúa el rendimiento técnico y táctico del socorrista y del equipo y su aplicación al sistema de competición, analizando las características del comportamiento técnico/táctico en pruebas de piscina, justificando los errores técnico/tácticos de esta etapa y relacionándolos con las tareas de corrección, diseñando actividades y aplicando procedimientos específicos y realizando el tratamiento de la información.
+
+– El rendimiento técnico táctico en pruebas de piscina de salvamento y socorrismo:
+
+– Objetivos técnico-tácticos en la programación de alto nivel.
+
+– Requerimientos técnico-tácticos en pruebas de piscina:
+
+– Acciones técnico-tácticas en el agua con y sin material.
+
+– Acciones técnico-tácticas en seco.
+
+– Errores técnico-tácticos en pruebas de piscina de alto nivel:
+
+– Identificación, causas y soluciones.
+
+– Las habilidades técnico-tácticas en el talento deportivo.
+
+– Instrumentos y criterios de valoración técnico-táctica:
+
+– La recogida de la información: las planillas.
+
+– Test de valoración técnica y táctica:
+
+– Registro de la información y elaboración del informe técnico-táctico.
+
+– Evolución de la técnica en pruebas de piscina de alto nivel:
+
+– Nuevos patrones técnicos y estrategias en pruebas de piscina.
+
+– Importancia de la valoración técnica del socorrista en pruebas de piscina.
+
+3\. Evalúa el rendimiento técnico y táctico del socorrista y del equipo y su aplicación al sistema de competición, analizando las características del comportamiento técnico/táctico en pruebas de aguas abiertas, justificando los errores técnico/tácticos de esta etapa y relacionándolos con las tareas de corrección, diseñando actividades y aplicando procedimientos específicos y realizando el tratamiento de la información.
+
+– El rendimiento técnico táctico en pruebas de aguas abiertas de salvamento y socorrismo:
+
+– Objetivos técnico-tácticos en la programación de alto nivel.
+
+– Requerimientos técnico-tácticos en pruebas de aguas abiertas:
+
+– Acciones técnico-tácticas en el agua con y sin material.
+
+– Acciones técnico-tácticas en seco.
+
+– Errores técnico-tácticos en pruebas de aguas abiertas de alto nivel:
+
+– Identificación, causas y soluciones.
+
+– Las habilidades técnico-tácticas en el talento deportivo.
+
+– Instrumentos y criterios de valoración técnico-táctica:
+
+– La recogida de la información: las planillas.
+
+– Test de valoración técnica y táctica.
+
+– Registro de la información y elaboración del informe técnico-táctico.
+
+– Evolución de la técnica en pruebas de aguas abiertas de alto nivel.
+
+– Nuevos patrones técnicos y estrategias en pruebas de aguas abiertas.
+
+– La valoración técnica del socorrista en pruebas de aguas abiertas.
+
+4\. Dirige el entrenamiento del socorrista de alto nivel, analizando las características de las capacidades condicionales requeridas, caracterizando y aplicando los métodos y medios del entrenamiento de pruebas de piscina y aguas abiertas de este nivel.
+
+– La resistencia aeróbica en el entrenamiento del socorrista de alto rendimiento en pruebas de piscina y aguas abiertas:
+
+– Características de la resistencia aeróbica específica.
+
+– Métodos y medios del entrenamiento.
+
+– La resistencia anaeróbica en el entrenamiento del socorrista de alto rendimiento en pruebas de piscina y aguas abiertas:
+
+– Características de la resistencia anaeróbica específica.
+
+– Métodos y medios del entrenamiento.
+
+– La velocidad en el entrenamiento del socorrista de alto rendimiento en pruebas de piscina y aguas abiertas:
+
+– Características de la velocidad específica.
+
+– Métodos y medios del entrenamiento.
+
+– La fuerza en el entrenamiento del socorrista de alto rendimiento en pruebas de piscina y aguas abiertas:
+
+– Características de la fuerza específica.
+
+– Métodos y medios del entrenamiento.
+
+– La flexibilidad en el entrenamiento del socorrista de alto rendimiento en pruebas de piscina y aguas abiertas:
+
+– Características de la flexibilidad.
+
+– Métodos y medios del entrenamiento.
+
+– El entrenamiento específico:
+
+– Importancia en el alto nivel.
+
+5\. Utiliza las nuevas tecnologías y medios audiovisuales en el registro y valoración del entrenamiento y la competición del socorrista de alto nivel, caracterizando los diferentes medios utilizables, aplicando técnicas y procedimientos específicos de procesamiento de la información en el análisis cualitativo y cuantitativo de la técnica.
+
+– Las nuevas tecnologías en el entrenamiento y competición de alto nivel:
+
+– Medios audiovisuales:
+
+– Cámaras de video filmación:
+
+– Características.
+
+– Funcionamiento.
+
+– Aplicaciones.
+
+– Cámaras subacuáticas:
+
+– Características.
+
+– Funcionamiento.
+
+– Aplicaciones.
+
+– Técnicas de filmación:
+
+– Planos y ejes.
+
+– Manual.
+
+– Automática.
+
+– Técnicas de montaje.
+
+– Otros instrumentos de ayuda a la medición del rendimiento.
+
+– Programas informáticos aplicados:
+
+– El procesamiento digital de las imágenes.
+
+– El procesamiento de la información.
+
+– Secuenciación mediante fotogramas.
+
+– Planillas (cuadrícula).
+
+– La utilización de las nuevas tecnologías en el control del rendimiento.
+
+> Se numera como Anexo II.g por el art. 4.2 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.h — Módulo específico de enseñanza deportiva: Gestión del centro de salvamento y socorrismo
+
+Código: MED-SSSS-303
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Gestiona los recursos humanos de un Centro de salvamento y socorrismo, analizando su estructura funcional y planes de formación, la normativa laboral y de contratación, y aplicando las técnicas de selección y organización de los mismos.
+
+a. Se ha analizado la estructura de un Centro de salvamento y socorrismo en función del espacio acuático y justificado el organigrama de funcionamiento del personal.
+
+b. Se han justificado las técnicas y criterios organizativos de un Centro de salvamento y socorrismo en relación con las necesidades y funciones del mismo.
+
+c. Se han justificado las técnicas de selección del personal de un Centro de salvamento y socorrismo
+
+d. Se ha justificado el perfil académico y profesional del personal encargado de la seguridad de un Centro de salvamento y socorrismo atendiendo a la normativa laboral vigente.
+
+e. Se ha justificado el perfil académico y profesional y la cantidad de recursos humanos, en cuanto al personal técnico, para el funcionamiento de un Centro de salvamento y socorrismo atendiendo a la normativa vigente.
+
+f. Se ha justificado la selección del tipo de contrato en la contratación del personal de un Centro de salvamento y socorrismo.
+
+g. Se ha justificado la necesidad de un plan de formación anual para el personal de un Centro de salvamento y socorrismo.
+
+h. Se han justificado las características de los programas de formación tanto del personal técnico como del de seguridad, de un Centro de salvamento y socorrismo.
+
+i. Se han fundamentado los criterios de elaboración de programas de formación continua en relación con el personal técnico y de seguridad de un Centro de salvamento y socorrismo.
+
+j. Se han seleccionado los instrumentos de recogida de información sobre el funcionamiento del Centro de salvamento y socorrismo, los recursos humanos y cumplimiento de sus normativas.
+
+k. Se ha justificado la metodología a utilizar en la elaboración de un informe técnico en relación con el funcionamiento de un Centro de salvamento y socorrismo.
+
+l. Se ha valorado la importancia de la formación continua en relación con los recursos humanos de un Centro de salvamento y socorrismo.
+
+2\. Gestiona los recursos materiales de un Centro de salvamento y socorrismo, seleccionando las instalaciones y materiales necesarios, justificando su mantenimiento, valorando el impacto medioambiental y aplicando técnicas de gestión económica de los mismos.
+
+a. Se han analizado las instalaciones de un Centro de salvamento y socorrismo atendiendo a la utilización del espacio acuático y sus servicios anexos.
+
+b. Se han fundamentado los criterios de control de las instalaciones y del entorno en función de las actividades desarrolladas en un Centro de salvamento y socorrismo.
+
+c. Se han justificado los criterios de adquisición y reposición del material de un Centro de salvamento y socorrismo en función de sus actividades.
+
+d. Se han justificado los criterios de adquisición, dosificación y reposición del material de seguridad y de primeros auxilios en los Centros de salvamento y socorrismo.
+
+e. Se han justificado las medidas de control y mantenimiento de instalaciones a través de los planes de desinfección, desinsectación y desratización de instalaciones, puestos de socorrismo y zona de atención sanitaria.
+
+f. Se han justificado las medidas de control y mantenimiento de materiales de un Centro de salvamento y socorrismo.
+
+g. Se ha analizado la influencia de los usuarios y actividades de un Centro de salvamento y socorrismo en relación con el impacto medioambiental.
+
+h. Se ha analizado la influencia de los materiales y embarcaciones utilizadas en los espacios acuáticos de un Centro de salvamento y socorrismo en relación con el impacto medioambiental.
+
+i. Se ha justificado el plan de mantenimiento de las embarcaciones a motor del Centro de salvamento y socorrismo.
+
+j. Se han analizado las recomendaciones que, en materia de mantenimiento y calidad del material, hace el fabricante en relación con las embarcaciones a motor.
+
+k. Se han clasificado los instrumentos para la recogida de información en relación con la utilización de las instalaciones, espacios acuáticos y los materiales de un Centro de salvamento y socorrismo y su influencia medioambiental.
+
+l. Se ha justificado la metodología a utilizar en la elaboración de un informe técnico en relación con las actividades, instalaciones, espacios y materiales de un Centro de salvamento y socorrismo.
+
+m. Se ha valorado la importancia de la utilización de los espacios, instalaciones, equipamientos y materiales de un Centro de salvamento y socorrismo de forma racional y ecológica.
+
+3\. Planifica y coordina los servicios de seguridad de un Centro de salvamento y socorrismo, aplicando técnicas de supervisión y coordinación, y analizando el funcionamiento y comunicación con los servicios de emergencia.
+
+a. Se han justificado las características de la planificación anual del servicio de seguridad de un Centro de salvamento y socorrismo.
+
+b. Se han justificado las características del protocolo de actuación del servicio de seguridad de un Centro de salvamento y socorrismo.
+
+c. Se han evaluado las medidas de control del servicio de seguridad en relación con la prevención, accidentalidad, sistemas de vigilancia y actuación de su personal.
+
+d. Se han justificado los sistemas de supervisión y coordinación interpersonal del equipo de seguridad de un Centro de salvamento y socorrismo.
+
+e. Se han justificado las actuaciones en situaciones especiales: casos de riesgo medioambiental, atención a personas con discapacidad, perdidas de niños, u otras.
+
+f. Se ha fundamentado la elección de las pautas de coordinación del equipo de seguridad de un Centro de salvamento y socorrismo con el resto de los servicios de emergencia (policía, 112, protección civil, etc.).
+
+g. Se ha justificado la elección de los sistemas de comunicación y pautas de corrección en el caso de error en la comunicación, entre el equipo de seguridad de un Centro de salvamento y socorrismo y los servicios de emergencia, en función de la gravedad del accidente.
+
+h. Se han justificado las condiciones en las que se utilizan los medios aéreos de rescate.
+
+i. Se han justificado las medidas de coordinación entre el equipo de seguridad de un Centro de salvamento y socorrismo y la intervención de los medios aéreos,
+
+j. Se han analizado y justificado el protocolo de actuación ante infracciones cometidas en un Centro de salvamento y socorrismo.
+
+k. Se han clasificado los instrumentos de recogida de información en relación con la coordinación interpersonal del equipo de seguridad de un Centro de salvamento y socorrismo y los servicios de emergencia.
+
+l. Se han justificado la metodología de evaluación de la coordinación interpersonal del equipo de seguridad de un Centro de salvamento y socorrismo y los servicios de emergencia.
+
+m. Se ha valorado al importancia de la supervisión y coordinación entre el equipo de seguridad del Centro de salvamento y socorrismo y los servicios de emergencia.
+
+Contenidos básicos
+
+1\. Gestiona los recursos humanos de un Centro de salvamento y socorrismo, analizando su estructura funcional y planes de formación, la normativa laboral y de contratación, y aplicando las técnicas de selección y organización de los mismos.
+
+– Estructura y organización funcional de un Centro de salvamento y socorrismo en función del espacio acuático.
+
+– Técnicas de organización de un Centro de salvamento y socorrismo.
+
+– Necesidades y funciones del personal.
+
+– Técnicas para la selección del personal de un Centro de salvamento y socorrismo:
+
+– Perfil académico y profesional del personal de seguridad.
+
+– Perfil académico y profesional del personal técnico.
+
+– Criterios de selección de los recursos humanos del Centro de salvamento y socorrismo.
+
+– Normativa laboral aplicable al personal de los centros de salvamento y socorrismo en función del espacio acuático.
+
+– El contrato de trabajo.
+
+– Los programas de formación del personal: Características:
+
+– Programas de formación continua: criterios para la elaboración.
+
+– Plan de formación anual de un Centro de salvamento y socorrismo.
+
+– Importancia de la formación continúa para el personal de los centros de salvamento y socorrismo.
+
+– Instrumentos específicos de recogida de información
+
+– Elaboración del informe técnico sobre el funcionamiento del Centro de salvamento y socorrismo:
+
+– Metodología.
+
+2\. Gestiona los recursos materiales de un Centro de salvamento y socorrismo, seleccionando las instalaciones y materiales necesarios, justificando su mantenimiento, valorando el impacto medioambiental y aplicando técnicas de gestión económica de los mismos.
+
+– Instalaciones y servicios de un Centro de salvamento y socorrismo.
+
+– Criterios de control de las instalaciones y entorno:
+
+– Actividades.
+
+– Medios materiales de un Centro de salvamento y socorrismo.
+
+– Material para las actividades: criterios para la adquisición y reposición.
+
+– Material para la seguridad y primeros auxilios: criterios para la adquisición dosificación y reposición.
+
+– Mantenimiento de instalaciones:
+
+– Medidas de control.
+
+– Planes de desinfección, desinsectación y desratización de instalaciones, puestos de socorrismo y zona de atención sanitaria.
+
+– Mantenimiento de los materiales: medidas de control.
+
+– Las embarcaciones a motor:
+
+– Plan de mantenimiento.
+
+– Criterios de calidad: recomendaciones del fabricante.
+
+– Impacto medioambiental de un Centro de salvamento y socorrismo:
+
+– Influencia de los usuarios.
+
+– Influencia de las actividades.
+
+– Influencia de los materiales y embarcaciones.
+
+– Uso racional y ecológico del Centro de salvamento y socorrismo.
+
+– Instrumentos específicos de recogida de información en relación con instalaciones, espacios acuáticos y los materiales.
+
+– Elaboración del informe técnico sobre instalaciones y material:
+
+– Metodología.
+
+3\. Planifica y coordina los servicios de salvamento y socorrismo, aplicando técnicas de supervisión y coordinación, y analizando el funcionamiento y comunicación con los servicios de emergencia.
+
+– La planificación anual del servicio de seguridad de un Centro de salvamento y socorrismo.
+
+– El servicio de seguridad de un Centro de salvamento y socorrismo: Protocolo de actuación.
+
+– Medidas de control del servicio de seguridad:
+
+– Medidas preventivas.
+
+– Accidentalidad.
+
+– Sistemas de vigilancia.
+
+– Sistemas de coordinación:
+
+– El equipo de seguridad.
+
+– Actuaciones complementarias: pérdida de niños, intervención medioambiental, atención a personas con discapacidad, etc.
+
+– Los servicios de emergencia: protección civil, policía, 112, etc.:
+
+– Pautas y procedimiento de coordinación ante situaciones de emergencia. Protocolos de comunicación.
+
+– Sistemas de comunicación.
+
+– Errores en la transmisión y correcciones.
+
+– Importancia de la coordinación del equipo de seguridad del Centro de salvamento y socorrismo y los servicios de emergencia.
+
+– Intervención de medios aéreos: condiciones para la intervención:
+
+– Medidas de coordinación del equipo de seguridad con los medios aéreos.
+
+– Faltas y delitos posibles en el Centro de salvamento y socorrismo: protocolo de actuación.
+
+– Instrumentos específicos de recogida de información en relación con la coordinación interpersonal con los servicios de emergencia.
+
+– La evaluación de la coordinación de los equipos seguridad y emergencia:
+
+– Metodología para la evaluación.
+
+> Se numera como Anexo II.h por el art. 4.2 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.i — Módulo específico de enseñanza deportiva: Organización de eventos de salvamento y socorrismo
+
+Código: MED-SSSS-304
+
+Resultados de aprendizaje
+
+1\. Realiza el diseño técnico de la competición de alto rendimiento, seleccionando las características técnicas, y dificultades en el diseño de recorridos y trazados, valorando la distribución de los materiales, la influencia medioambiental y ubicación de los deportistas, personal técnico y usuarios en la competición, y aplicando los procedimientos establecidos atendiendo al reglamento de competición.
+
+a. Se han justificado las características técnicas y condiciones que debe tener el espacio acuático utilizado en las pruebas de piscina de una competición de AR de salvamento y socorrismo atendiendo al reglamento de competición.
+
+b. Se han justificado las características técnicas y condiciones que debe tener el espacio acuático utilizado en las pruebas de aguas abiertas de una competición de AR de salvamento y socorrismo atendiendo al reglamento de competición.
+
+c. Se han analizado los elementos técnicos y logísticos necesarios para la elaboración del diseño del recorrido y trazado de las pruebas de piscina atendiendo a lo establecido en el reglamento de competición.
+
+d. Se han analizado los elementos técnicos y logísticos necesarios para la elaboración del diseño del recorrido y trazado de las pruebas de aguas abiertas atendiendo a lo establecido en el reglamento de competición.
+
+e. Se han establecido los criterios de selección, distribución, colocación y retirada del material utilizado en las pruebas de piscina y aguas abiertas en la competición de salvamento y socorrismo.
+
+f. Se han analizado las condiciones de balizamiento en el diseño y trazado de las pruebas de piscina y aguas abiertas en función de la ubicación de las salidas y las llegadas y de lo establecido en el reglamento de competición.
+
+g. Se han analizado la complejidad del recorrido en pruebas de piscina y de aguas abiertas y valorado las dificultades técnicas de su trazado.
+
+h. Se ha valorado la importancia del análisis medioambiental, diseño de las pruebas de salvamento y socorrismo y ubicación de los participantes, personal técnico y usuarios como medida de prevención de accidentes.
+
+2\. Analiza las condiciones del espacio acuático natural y el área de competición de alto rendimiento de salvamento y socorrismo, analizando las condiciones medioambientales, la meteorología, interpretando los signos naturales y las características hidrográficas de las playas, y relacionando los distintos parámetros analizados.
+
+a. Se ha establecido y justificado el área de competición en relación con las condiciones medioambientales y orográficas de la playa establecidas en un supuesto práctico.
+
+b. Se han determinado los criterios medioambientales que debe cumplir el espacio acuático natural en función de la normativa vigente indicando anomalías posibles y modo de resolverlas.
+
+c. Se han justificado los criterios de análisis de las condiciones medioambientales del espacio acuático (sol, viento, lluvia, etc.) en relación con el diseño y recorrido de las pruebas de piscina y aguas abiertas.
+
+d. Se han interpretado los datos obtenidos en relación con los instrumentos de medición de las condiciones ambientales: barómetro, termómetro, anemómetro e higrómetro.
+
+e. Se ha analizado las características orográficas de la playa y las características del espacio acuático en relación con las mareas, corrientes, tablas de mareas, resaca, olas, etc., entre otras.
+
+f. Se ha justificado los criterios de desarrollo o suspensión de la competición, en relación con el reglamento de competición y la interpretación de las escalas de Douglas y Beaufort y las condiciones de presión, humedad y temperatura.
+
+g. Se han analizado los signos naturales que permiten predecir cambios del tiempo meteorológico durante el desarrollo de las pruebas de aguas abiertas.
+
+h. Se han analizado las posibles causas de peligro medio ambiental: vertidos, elementos contaminantes, incidencias medioambientales, entre otros en los espacios acuáticos naturales.
+
+i. Se ha valorado la importancia de revisar las condiciones ambientales e hidrográficas de forma periódica como factor de seguridad durante el desarrollo de las pruebas de competición.
+
+j. Se ha valorado la importancia del conocimiento de la zona donde se desarrolla la competición de aguas abiertas y su análisis en relación con las condiciones meteorológicas e hidrográficas.
+
+3\. Organiza eventos de tecnificación y colabora en la gestión y organización de eventos de alto rendimiento de salvamento y socorrismo, analizando sus requerimientos en relación con la normativa correspondiente.
+
+a. Se ha analizado la información requerida en la organización de competiciones de alto rendimiento de salvamento y socorrismo.
+
+b. Se han analizado los trámites administrativos de recepción de las solicitudes de los clubes cumplimentadas, supervisión y verificación de los datos, realización de las series y distribución de las pruebas, entre otros, en relación con la organización y desarrollo de una competición de alto rendimiento de salvamento y socorrismo.
+
+c. Se han justificado las necesidades de personal, en relación con el desarrollo del evento de alto rendimiento de salvamento y socorrismo.
+
+d. Se han establecido criterios de selección de los medios necesarios para la recepción, control, seguridad, y logística en general del evento deportivo de alto rendimiento de salvamento y socorrismo.
+
+e. Se han analizado los criterios a tener en cuenta para el alojamiento de los deportistas participantes, del personal técnico en un evento deportivo de alto rendimiento de salvamento y socorrismo.
+
+f. Se han analizado los criterios para la elaboración del calendario y la distribución de las pruebas, en su caso, que integran el evento de alto rendimiento de salvamento y socorrismo.
+
+g. Se han descrito los procedimientos del protocolo de inauguración, desarrollo y clausura del evento de salvamento y socorrismo.
+
+h. Se han justificado criterios de jerarquización de las necesidades organizativas del evento de tecnificación en salvamento y socorrismo, en relación con los ingresos y gastos.
+
+i. Se ha valorado la importancia de la organización y gestión pormenorizada de todos los elementos que influyen en el desarrollo de un evento de alto rendimiento de salvamento y socorrismo a través de la elaboración de la memoria correspondiente.
+
+4\. Realiza la selección y gestión de la participación de los deportistas en las competiciones de alto rendimiento, clasificando los requisitos administrativos y los procedimientos de inscripción en relación con la normativa aplicable y analizando la organización del equipo de trabajo.
+
+a. Se ha justificado, en base a la normativa de competición los requisitos que los socorristas participantes deben cumplir en la competición de alto rendimiento.
+
+b. Se han seleccionado y justificado los trámites y procedimientos de inscripción de los socorristas en una competición de alto rendimiento en salvamento y socorrismo.
+
+c. Se han analizado el modelo de inscripción para la participación de los deportistas en las competiciones de alto rendimiento, así como el formato, el filtrado de datos y los medios de control para garantizar el cumplimiento de la normativa vigente por parte de todos los participantes.
+
+d. Se ha analizado el procedimiento informático de volcado de datos de las inscripciones, de elaboración de las series clasificatorias, de las series finales y de los resultados de la competición de alto rendimiento, atendiendo a la normativa de competición.
+
+e. Se han analizado las funciones de los responsables del equipo técnico (técnico deportivo superior, otros técnicos deportivos, árbitros, fisioterapeutas, técnicos de cronometraje electrónico, control antidopaje, etc.) en las competiciones de alto rendimiento de salvamento y socorrismo.
+
+f. Se han seleccionado los criterios de distribución y temporalización de las tareas de los responsables del equipo técnico durante el desarrollo de la competición de alto rendimiento en salvamento y socorrismo.
+
+g. Se han fundamentado los criterios de selección y distribución de los socorristas en la competición de alto rendimiento de salvamento y socorrismo en relación con sus marcas personales, pruebas a realizar (individual, por equipos, en piscina y aguas abiertas) y disposiciones de la normativa de competición.
+
+h. Se ha valorado la importancia de respetar el procedimiento de inscripción de los socorristas en la competición de alto rendimiento de salvamento y socorrismo en relación con la normativa aplicable.
+
+i. Se ha valorado la importancia de la distribución y coordinación de las tareas de los responsables del equipo técnico durante el desarrollo de la competición de alto rendimiento de salvamento y socorrismo.
+
+Contenidos básicos
+
+1\. Realiza el diseño técnico de la competición de alto rendimiento, seleccionando las características técnicas, y dificultades en el diseño de recorridos y trazados, valorando la distribución de los materiales, la influencia medioambiental y ubicación de los deportistas, personal técnico y usuarios en la competición, y aplicando los procedimientos establecidos atendiendo al reglamento de competición.
+
+– Pruebas de piscina en alto rendimiento.
+
+– Características técnicas según el reglamento de competición:
+
+– El diseño y trazado de las pruebas: elementos técnicos y logística necesaria
+
+– Análisis del recorrido de las pruebas de piscina y dificultades técnicas en su trazado.
+
+– El material en la competición: selección, distribución, colocación y retirada.
+
+– Análisis medioambiental: medidas de prevención de accidentes en la competición.
+
+– Pruebas de playa en alto rendimiento:
+
+– Características técnicas según el reglamento de competición.
+
+– El diseño y trazado de las pruebas: elementos técnicos y logística necesaria.
+
+– El material en la competición: selección, distribución, colocación y retirada.
+
+– Las salidas y llegadas: Balizamiento.
+
+– Análisis del recorrido de las pruebas de piscina y dificultades técnicas en su trazado.
+
+– Análisis medioambiental: medidas de prevención de accidentes en la competición.
+
+2\. Analiza las condiciones del espacio acuático natural y el área de competición de alto rendimiento de salvamento y socorrismo, analizando las condiciones medioambientales, la meteorología, interpretando los signos naturales y las características hidrográficas de las playas, y relacionando los distintos parámetros analizados.
+
+– Condiciones del espacio acuático natural para la competición:
+
+– El área de competición y la orografía de la playa
+
+– Criterios medioambientales: normativa, anomalías y correcciones para la competición.
+
+– Criterios de análisis de las condiciones medioambientales para el diseño y recorrido de las pruebas.
+
+– Análisis de los factores meteorológicos en la competición:
+
+– El tiempo y la previsión meteorológica:
+
+– El viento y la nubosidad.
+
+– El estado del mar:
+
+– Escala de Beaufort: tablas y símbolos.
+
+– Escala de Douglas: tablas y símbolos.
+
+– Presión, temperatura y humedad.
+
+– Instrumentos de medida e interpretación de los datos:
+
+– Barómetro, termómetro, anemómetro e higrómetro.
+
+– Criterios para el desarrollo o la suspensión de la competición.
+
+– Peligros medioambientales:
+
+– Vertidos, elementos contaminantes, aves migratorias muertas, etc.
+
+– Protocolos de actuación.
+
+– Factores de seguridad en el espacio acuático de competición:
+
+– Periodicidad en la revisión de las condiciones medioambientales
+
+– Importancia de la inspección y análisis de la zona de competición
+
+– Importancia del conocimiento de la zona de competición
+
+3\. Organiza eventos de tecnificación y colabora en la gestión y organización de eventos de alto rendimiento de salvamento y socorrismo, analizando sus requerimientos en relación con la normativa correspondiente.
+
+– Organización de eventos de alto rendimiento de salvamento y socorrismo:
+
+– Requerimientos para la organización:
+
+– Los trámites administrativos
+
+– Recursos humanos en el evento de alto rendimiento:
+
+– Justificación de las necesidades.
+
+– Recursos materiales: recepción, control, seguridad y logística.
+
+– Criterios de alojamiento del personal técnico y deportistas:
+
+– Distancia a la instalación o espacio acuático.
+
+– La calidad de los servicios.
+
+– Coste de los servicios.
+
+– El calendario de competición: análisis de la temporalización y distribución de las pruebas.
+
+– El protocolo de competición:
+
+– Inauguración.
+
+– Desarrollo.
+
+– Clausura.
+
+– Importancia de la jerarquización de los recursos: criterios generales.
+
+– Importancia de la valoración de los elementos intervinientes en la organización del evento.
+
+4\. Realiza la selección y gestión de la participación de los deportistas en las competiciones de alto rendimiento, clasificando los requisitos administrativos y los procedimientos de inscripción en relación con la normativa aplicable y analizando la organización del equipo de trabajo.
+
+– Normativa de competición de alto rendimiento en salvamento y socorrismo:
+
+– Requisitos de participación.
+
+– Procedimientos de inscripción y tramitación:
+
+– El modelo de inscripción: el filtrado y control de datos.
+
+– Valoración del respeto de la rigurosidad del procedimiento de inscripción.
+
+– Análisis del programa informático de competición:
+
+– La recogida y volcado de datos.
+
+– Elaboración y distribución de las series.
+
+– Selección de los resultados.
+
+– El equipo de trabajo:
+
+– Funciones.
+
+– Temporalización y distribución de tareas durante la competición.
+
+– Valoración de coordinación del personal técnico durante el desarrollo de competiciones de alto rendimiento de salvamento y socorrismo.
+
+– Procedimiento de selección y distribución de los deportistas.
+
+– Distribución en relación con las pruebas individuales.
+
+– Distribución en relación con las pruebas por equipos.
+
+> Se numera como Anexo II.i por el art. 4.2 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.j — Módulo de enseñanza deportiva: Proyecto final
+
+Código: MED-SSSS-305
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Diseña proyectos relacionados con las competencias del técnico deportivo superior en salvamento y socorrismo, fundamentando el proyecto en la información recogida, desarrollando las fases que lo componen y realizando las previsiones de recursos humanos y materiales.
+
+a. Se ha elegido un tema que permite integrar los conocimientos adquiridos en los diferentes bloques y módulos del ciclo superior en salvamento y socorrismo.
+
+b. Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto.
+
+c. Se han identificado las fases o partes que componen el proyecto y sus contenidos.
+
+d. Se han establecido los objetivos que se pretenden conseguir identificando su alcance.
+
+e. Se han valorado los aspectos que pueden facilitar o dificultar el desarrollo del proyecto.
+
+f. Se han previsto y priorizado los recursos materiales y personales necesarios, de acuerdo con los objetivos del proyecto.
+
+g. Se ha realizado el presupuesto económico correspondiente.
+
+h. Se han identificado las posibles fuentes de financiación del proyecto, en base a las necesidades del mismo.
+
+i. Se han identificado los aspectos que se deben controlar y de los que depende la calidad del proyecto.
+
+j. Se ha justificado la pertinencia y viabilidad del proyecto.
+
+k. Se ha valorado el rigor en la recogida de la información utilizada en la elaboración del proyecto.
+
+2\. Planifica y programa la ejecución del proyecto, determinando las fases o ciclos de preparación, la metodología utilizada y los recursos necesarios.
+
+a. Se han secuenciado y temporalizado las actividades ordenándolas en función de las necesidades de implantación del proyecto.
+
+b. Se ha elaborado la planificación del proyecto, periodizando y programando el entrenamiento y los recursos necesario, cuando el proyecto este dirigido al alto rendimiento deportivo en salvamento y socorrismo.
+
+c. Se han determinado los recursos y la logística necesarios en cada actividad.
+
+d. Se han identificado los permisos y autorizaciones necesarios en cada una de las actividades.
+
+e. Se han determinado los procedimientos de actuación o ejecución de las actividades.
+
+f. Se han identificado los riesgos inherentes al desarrollo de las actividades, definiendo el plan de prevención de riesgos y los medios y equipos necesarios.
+
+g. Se han planificado la asignación de recursos materiales y humanos, y los tiempos de ejecución.
+
+h. Se ha hecho la valoración económica necesaria en la ejecución del proyecto.
+
+i. Se ha definido y elaborado la documentación necesaria en las previsiones y ejecución del proyecto.
+
+j. Se han relacionado/utilizado de una manera integradora y sinérgica los conceptos y procedimientos adquiridos en los diferentes módulos del ciclo superior en salvamento y socorrismo.
+
+k. Se han tenido en cuenta criterios de sostenibilidad a la hora de elegir las actividades, la metodología y los recursos utilizados en el proyecto.
+
+3\. Selecciona los procedimientos de seguimiento y control de la elaboración y ejecución del proyecto, justificando las funciones dentro del proyecto, la selección de variables e instrumentos empleados.
+
+a. Se ha definido el procedimiento de evaluación de las actividades, utilizando y combinando diferentes instrumentos de evaluación.
+
+b. Se han definido los indicadores de calidad utilizados en la evaluación del proyecto.
+
+c. Se han definido los procedimientos de evaluación de las incidencias que puedan presentarse durante la realización del proyecto, su posible solución y registro.
+
+d. Se ha definido el procedimiento de gestión de los posibles cambios en los recursos, en las actividades o en la dinámica de cargas, en el caso del entrenamiento de alto rendimiento, incluyendo el sistema de registro de los mismos.
+
+e. Se ha definido y elaborado la documentación necesaria en la evaluación de las actividades del proyecto.
+
+f. Se ha establecido el procedimiento de participación en la evaluación de los (deportistas) o usuarios/clientes y se han elaborado los documentos específicos.
+
+g. Se ha establecido un sistema de garantía de cumplimiento del pliego de condiciones del proyecto cuando éste exista.
+
+h. Se ha atendido a las consideraciones del tutor/director del proyecto durante la elaboración del mismo.
+
+i. Se ha cumplido con el seguimiento del proyecto según el procedimiento establecido por el tutor/director.
+
+j. Se ha mostrado una actitud de respeto y aceptación de las aportaciones realizadas por el tutor/director, integrando de forma constructiva las valoraciones recibidas en el proyecto.
+
+4\. Presenta el proyecto, seleccionando los aspectos relevantes del mismo, justificando las decisiones tomadas y utilizando los recursos didácticos y técnicos más adecuados en cada caso.
+
+a. Se ha definido y elaborado la documentación necesaria en la presentación y comunicación del proyecto.
+
+b. Se han utilizado los recursos didácticos y técnicos más adecuados para la presentación y comunicación del proyecto, incluyendo las nuevas tecnologías, de forma coherente con los objetivos del proyecto.
+
+c. Se ha presentado el proyecto, de forma clara, sintética, incluyendo los aspectos fundamentales que debía incluir la presentación.
+
+d. Se ha utilizado bibliografía actualizada en la fundamentación del trabajo, referenciándola de forma adecuado.
+
+e. Se ha contestado de forma precisa y justificada a las cuestiones realizadas sobre las características y fundamentación del proyecto.
+
+f. Se ha justificado suficientemente el proyecto y se ha argumentado su implementación.
+
+g. Se ha ajustado en la presentación del proyecto a la estructura definida y establecida en los criterios de evaluación.
+
+h. Se ha presentado el proyecto, ajustándose a las características formales, estructura y apartados establecidos por el tribunal.
+
+i. Se han justificado en la presentación del proyecto, las relaciones existentes entre los diferentes resultados de aprendizaje adquiridos en los diferentes módulos del ciclo superior en salvamento y socorrismo.
+
+j. Se ha demostrado poseer una visión general del proyecto, relacionando la argumentación con la finalidad y las conclusiones del mismo.
+
+> Se numera como Anexo II.j por el art. 4.2 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.k — Módulo de enseñanza deportiva: Formación práctica
+
+Código: MED-SSSS-306
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica la estructura organizativa y el funcionamiento del centro deportivo de prácticas (escuela deportiva, club, federación, empresa,…), relacionándola con su oferta de actividades de alto rendimiento deportivo, con las actividades de gestión del mismo, y aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a. Se ha categorizado la estructura organizativa y el funcionamiento de las distintas áreas del centro deportivo de prácticas.
+
+b. Se han clasificado las relaciones jerárquicas dentro del centro deportivo de prácticas.
+
+c. Se ha revisado la oferta de actividades vinculadas al alto rendimiento deportivo.
+
+d. Se han relacionado las características del centro deportivo de prácticas con la normativa de responsabilidad de los técnicos que trabajan en el mismo.
+
+e. Se ha fundamentado la oferta de actividades orientada al alto rendimiento del salvamento y socorrismo en las mujeres.
+
+f. Se han reconocido los valores presentes en las actividades de salvamento y socorrismo del club o entidad deportiva.
+
+g. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+h. Se ha revisado el plan de actuación de emergencias de las instalaciones del centro deportivo de prácticas.
+
+i. Se ha identificado y analizado el Plan de Prevención de Riesgos Laborales del centro deportivo de prácticas en relación con las actividades desarrolladas.
+
+j. Se han revisado las condiciones laborales de los técnicos deportivos del centro deportivo de prácticas, en relación con la normativa sobre salud laboral.
+
+2\. Identifica la estructura organizativa y el funcionamiento del centro de formación de Técnicos deportivos, relacionándola con su oferta formativa, analizando la normativa correspondiente, y aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a. Se han fundamentado las relaciones del Centro de formación de técnicos salvamento y socorrismo con la administración educativa correspondiente.
+
+b. Se ha categorizado la estructura organizativa y el funcionamiento del centro de formación de técnicos deportivos.
+
+c. Se han clasificado las relaciones jerárquicas dentro del centro de formación de técnicos deportivos.
+
+d. Se ha revisado la oferta de actividades vinculadas a la formación de técnicos deportivos en salvamento y socorrismo.
+
+e. Se han analizado las características del centro de formación de técnicos deportivos, y la normativa sobre la responsabilidad del profesorado.
+
+f. Se ha esquematizado la normativa educativa y curricular vigente sobre la formación de técnicos deportivos de salvamento y socorrismo.
+
+g. Se han reconocido los valores presentes en las actividades de salvamento y socorrismo del club o entidad deportiva.
+
+h. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+i. Se han tomado las medidas de prevención y seguridad necesarias para el desarrollo de la actividad y aplicado los protocolos establecidos.
+
+3\. Colabora en la administración del centro deportivo de prácticas (escuela deportiva, club, federación, empresa,…), aplicando procedimientos de gestión económica y contable.
+
+a. Se ha colaborado en la organización de las actividades económicas del centro de trabajo.
+
+b. Se ha identificado la forma jurídica utilizada en la constitución del centro deportivo de prácticas, y el grado de responsabilidad legal de los propietarios y gestores.
+
+c. Se ha colaborado en los procedimientos administrativos básicos de gestión del centro deportivo de prácticas.
+
+d. Se han realizado trámites de petición de ayudas a la gestión del centro deportivo de prácticas.
+
+e. Se ha colaborado en la organización y gestión de las actividades y ayudas económicas que utiliza o puede utilizar el centro deportivo de prácticas.
+
+f. Se ha confeccionado la documentación administrativa y comercial necesaria en el desarrollo de la actividad deportiva.
+
+g. Se han identificado las obligaciones y exenciones fiscales y tributarias del centro deportivo de prácticas.
+
+h. Se ha colaborado en la realización de la declaración de impuestos del centro deportivo de prácticas.
+
+i. Se ha tenido una actitud de respeto y cumplimiento de la normativa y los procedimientos de gestión económica del centro deportivo de prácticas.
+
+4\. Actúa con autonomía, iniciativa y responsabilidad en el puesto de trabajo, demostrando comportamiento ético, habilidades personales de comunicación, trabajo en equipo, respeto por el medio ambiente, y aplicando los procedimientos establecidos por la entidad deportiva, empresa, club, etc.
+
+a. Se han identificado los requerimientos actitudinales del puesto de trabajo.
+
+b. Se han interpretado y cumplido las instrucciones recibidas y responsabilizado del trabajo asignado.
+
+c. Se ha demostrado compromiso con el trabajo bien hecho y la calidad del servicio, así como respeto a los procedimientos y principios propios del club o entidad deportiva.
+
+d. Se ha demostrado capacidad de trabajo en equipo y respeto a la jerarquía establecida en el club o entidad deportiva.
+
+e. Se han establecido una comunicación y relación eficaz con el técnico responsable de la actividad y los miembros del equipo, manteniendo un trato fluido y correcto.
+
+f. Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante o imprevisto que se presente en la actividad.
+
+g. Se ha demostrado un comportamiento ético con los deportistas y los adversarios, en especial en presencia de los medios de comunicación.
+
+5\. Organiza y gestiona competiciones y eventos propios del nivel de tecnificación deportiva, y colabora en los de alto rendimiento, participando en la gestión y diseño de la competición, aplicando procedimientos, técnicas específicas y criterios de sostenibilidad.
+
+a. Se ha propuesto la estructura y las funciones que se deben desempeñar en la organización de una competición o evento deportivo de tecnificación en salvamento y socorrismo.
+
+b. Se han aplicado los criterios de sostenibilidad en la organización de una competición o evento deportivo de tecnificación en salvamento y socorrismo.
+
+c. Se han localizado y gestionado las posibles ayudas a la esponsorización del deporte femenino en la modalidad de salvamento y socorrismo.
+
+d. Se ha gestionado la financiación de la organización de una competición o evento deportivo de tecnificación en salvamento y socorrismo.
+
+e. Se ha participado en la gestión de personal y medios materiales de las diferentes áreas o comités de la organización de una competición o evento de tecnificación o alto rendimiento en salvamento y socorrismo.
+
+f. Se han analizado las condiciones del espacio acuático para el desarrollo del entrenamiento o de la competición de alto nivel de salvamento y socorrismo en relación con el reglamento deportivo.
+
+g. Se han diseñado los itinerarios y recorridos de las pruebas de aguas abiertas en la competición de alto nivel en el espacio acuático y distribución de las series en relación con las condiciones del entorno, nivel de competición, material y número de participantes.
+
+h. Se ha ubicado al personal técnico, deportistas y usuarios en lugares dedicados a tal fin, dentro de la zona de competición.
+
+i. Se ha colaborado en la gestión de las medidas de seguridad y de atención a las emergencias en la organización de la competición y separado y balizado la zona de baño de la zona de competición como medida de prevención de accidentes.
+
+j. Se ha realizado la gestión y difusión de los resultados de una competición o evento deportivo de tecnificación o alto rendimiento en salvamento y socorrismo.
+
+k. Se ha colaborado en la organización y realización de actos protocolarios de apertura, entrega y clausura de una competición o evento deportivo de tecnificación o alto rendimiento en salvamento y socorrismo.
+
+l. Se ha actuado de manera flexible y adaptable a las circunstancias en la organización de la competición de salvamento y socorrismo, respetando los protocolos y directrices establecidas.
+
+6\. Orienta a los deportistas de alto nivel, y organiza, acompaña y dirige a los deportistas en su participación en actividades, competiciones y otros eventos internacionales o de alto nivel en salvamento y socorrismo, aplicando la normativa relacionada.
+
+a. Se ha informado a los deportistas de alto nivel de la normativa que les afecta y los programas de ayuda que existen a nivel nacional y autonómico.
+
+b. Se ha orientado a los deportistas de alto nivel sobre las salidas profesionales de su actividad deportiva, y de la importancia de mantener una formación académica o profesional paralelas a la vida deportiva.
+
+c. Se ha revisado e informado a los deportistas de la normativa antidopaje de aplicación en las competiciones internacionales o de alto nivel en las que se participa.
+
+d. Se ha realizado la inscripción del Club Deportivo o grupo de socorristas en una competición internacional o de alto nivel en salvamento y socorrismo, de acuerdo con los protocolos y normas establecidos.
+
+e. Se han realizado las operaciones de gestión del seguro de accidentes y actividad de un grupo de socorristas y del personal técnico a su cargo que participan en una competición internacional o de alto nivel, de acuerdo con las instrucciones y normas recibidas.
+
+f. Se ha elaborado el plan de viaje de un Club Deportivo o grupo de socorristas para su participación en una competición internacional o de alto nivel, aplicando las instrucciones y procedimientos establecidos.
+
+g. Se ha reconocido y justificado la responsabilidad del técnico en los desplazamientos de los socorristas para asistir a una competición internacional o de alto nivel.
+
+h. Se ha informado a los socorristas y al personal técnico de las características de la competición internacional o de alto nivel, interpretando la documentación sobre la misma.
+
+i. Se ha trasladado al Club Deportivo las instrucciones técnicas y tácticas para la competición internacional o de alto nivel, teniendo en cuenta las características de la competición y de los deportistas.
+
+j. Se ha acompañado a los deportistas en las competiciones internacionales o de alto nivel, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
+
+k. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición internacional o de alto nivel en salvamento y socorrismo, aplicando los procedimientos adecuados y respetando las normas de la misma.
+
+7\. Colabora en la dirección del equipo durante la participación en actividades, competiciones y otros eventos internacionales o de alto nivel de salvamento y socorrismo, valorando las posibles situaciones técnico-tácticas del equipo y de sus contrincantes, las decisiones arbitrales, las características del entorno, y aplicando procedimientos establecidos.
+
+a. Se ha colaborado con la dirección del equipo en competiciones de alto rendimiento, valorando las características del contrincante y del entorno.
+
+b. Se han elaborado directrices técnico-tácticas para el socorrista, teniendo en cuenta las condiciones ambientales y del entorno y el diseño del recorrido de competición.
+
+c. Se han transmitido las directrices técnico-tácticas al equipo durante el desarrollo de la competición de alto rendimiento, teniendo en cuenta las pruebas a realizar, las condiciones ambientales y del entorno.
+
+d. Se ha utilizado el reglamento en la elección y aplicación de estrategias de dirección del equipo en la competición de alto nivel.
+
+e. Se ha colaborado con la evaluación técnico-táctica de los deportistas de forma individual, del equipo de forma conjunta y, de sus contrincantes en la competición de salvamento y socorrismo de alto nivel utilizando técnicas y procedimientos de observación adecuados.
+
+f. Se ha colaborado en la realización de reclamaciones en una competición internacional o de alto nivel de salvamento y socorrismo atendiendo a los protocolos y normas establecidos.
+
+g. Se ha valorado la importancia de la de dirección de equipos atendiendo a la normativa, las características del entorno de competición y las tendencias arbitrales en la alta competición de salvamento y socorrismo.
+
+h. Se ha colaborado en la coordinación de las actividades de los diferentes miembros del equipo técnico antes, durante y después de las competiciones de alto nivel en salvamento y socorrismo.
+
+i. Se ha demostrado empatía y generado credibilidad en el equipo durante el desarrollo de las competiciones de alto nivel de salvamento y socorrismo.
+
+8\. Planifica el entrenamiento a largo, medio y corto plazo de los socorristas, interpretando la información del deportista y del entorno, coordinando el equipo de especialistas, y aplicando los modelos, procedimientos y técnicas más adecuadas.
+
+a. Se ha colaborado en la elaboración del programa de detección, identificación y selección de talentos deportivos en salvamento y socorrismo del centro deportivo de prácticas.
+
+b. Se han aplicado criterios de detección, identificación y selección de talentos deportivos en salvamento y socorrismo, en el centro deportivo de prácticas.
+
+c. Se ha seleccionado e interpretado la información de los socorristas del centro deportivo de prácticas y de su entorno, necesaria en la elaboración de la programación a largo plazo.
+
+d. Se ha elaborado la planificación de un ciclo de preparación completa de los socorristas, de acuerdo con los modelos utilizados en el centro deportivo de prácticas e identificando las dinámicas de carga de los diferentes factores de rendimiento deportivo en salvamento y socorrismo.
+
+e. Se han aplicado instrumentos de valoración de la condición física o condicional de los socorristas de alto nivel, interpretando y, en su caso, tratando la información resultante.
+
+f. Se han elaborado y aplicado instrumentos de registro del comportamiento técnico-táctico en entrenamiento y competición de los socorristas de alto nivel, interpretando y, en su caso, tratando la información resultante.
+
+g. Se han aplicado instrumentos de valoración del perfil psicológico de los socorristas y de su comportamiento durante la competición, interpretando y, en su caso, tratando la información resultante.
+
+h. Se ha elaborado la programación de un periodo de preparación completa de los diferentes factores de rendimiento (condicionales, técnicos, psicológicos, etc.) de/los socorrista/s, de acuerdo con la planificación del centro de prácticas y los objetivos y características de los socorristas.
+
+i. Se ha elaborado el programa de una concentración de preparación, adaptándola a las necesidades específicas de los socorristas y del centro de formación práctica.
+
+j. Se ha registrado, cuantificado y procesado la información sobre la carga de entrenamiento de los socorristas del centro deportivo de prácticas.
+
+k. Se han asignado objetivos y medios de trabajo al equipo de técnicos especialistas en ciencias aplicadas al deporte, dentro de la planificación y programación del entrenamiento de los socorristas.
+
+l. Se han incorporado las aportaciones de los técnicos especialistas en ciencias aplicadas al deporte en la planificación y programación del entrenamiento de los socorristas.
+
+m. Se ha mostrado una actitud de rigor y objetividad en la aplicación de los instrumentos de valoración utilizados.
+
+9\. Organiza y dirige el entrenamiento y las concentraciones de preparación de los socorristas, coordinando equipos de técnicos especialistas, aplicando los medios y métodos específicos de entrenamiento de cada uno de los factores de rendimiento en salvamento y socorrismo, y aplicando las nuevas tecnologías al registro del entrenamiento y la competición.
+
+a. Se ha generado credibilidad en el equipo de técnicos especialistas que colaboran con el técnico en el centro deportivo de prácticas.
+
+b. Se colaborado con la gestión del equipo de técnicos especialistas, demostrando liderazgo y potenciando la comunicación entre el equipo del centro deportivo de prácticas y el técnico.
+
+c. Se han aplicado medios y métodos de entrenamiento de los factores de rendimiento en pruebas de piscina, y elegido las tareas de acuerdo con la programación del centro deportivo de prácticas.
+
+d. Se han aplicado medios y métodos de entrenamiento de los factores de rendimiento en pruebas de aguas abiertas, y elegido las tareas de acuerdo con la programación del centro deportivo de prácticas.
+
+e. Se ha dirigido la sesión teniendo en cuenta la variedad e integración de los diferentes medios y métodos de entrenamiento, de acuerdo con la programación del centro deportivo de prácticas.
+
+f. Se han identificado y solucionado las contingencias que hayan surgido durante la sesión de entrenamiento de los socorristas.
+
+g. Se ha adaptado el trabajo de la sesión a las condiciones reales de los socorristas.
+
+h. Se han tenido en cuenta las lesiones más frecuentes en salvamento y socorrismo y sus medidas preventivas, en la dirección de la sesión de entrenamiento.
+
+i. Se han elaborado y aplicado instrumentos de registro audiovisual del comportamiento técnico-táctico: en entrenamiento y competición, de los socorristas de alto nivel, interpretando y, en su caso, editando los registros realizados.
+
+j. Se han utilizado durante la sesión de entrenamiento de los socorristas los registros audiovisuales del entrenamiento o la competición.
+
+k. Se ha colaborado en la organización y dirección de una concentración de preparación de los socorristas, seleccionando los medios y la logística adecuados a la situación del centro deportivo de prácticas.
+
+l. Se ha mantenido una actitud motivadora y empática con los socorristas durante la dirección de la concentración de preparación o la sesión de entrenamiento.
+
+10\. Participa en la Formación de Técnicos Deportivos, revisando la organización académica y curricular del centro, impartiendo clases y colaborando en la tutorización de los módulos de Formación Práctica y Proyecto Final.
+
+a. Se han identificado el tipo de centro docente de prácticas, el tipo de vinculación con la administración y la normativa que le es de aplicación a efectos de organización y funcionamiento.
+
+b. Se han identificado las responsabilidades del profesor especialista en salvamento y socorrismo y del técnico deportivo superior en salvamento y socorrismo, en la formación de los técnicos en la modalidad.
+
+c. Se han concretado los elementos de la programación didáctica de un módulo del bloque específico, atendiendo a su normativa de ordenación, a las características del alumnado, y el contexto del centro docente de prácticas.
+
+d. Se ha diseñado y colaborado en la realización de una presentación de contenidos, atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características de los alumnos del centro docente de prácticas.
+
+e. Se ha colaborado en el diseño y dirección de una sesión de trabajo práctico o procedimental, atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características de los alumnos del centro docente de prácticas.
+
+f. Se ha participado en el proceso de evaluación de los alumnos del centro docente de prácticas.
+
+g. Se han tenido en cuenta la aplicación efectiva del principio de Igualdad de oportunidades entre mujeres y hombres a la hora de seleccionar los recursos didácticos en la docencia del módulo específico de enseñanzas deportivas en salvamento y socorrismo.
+
+h. Se han previsto y preparado de antemano recursos didácticos alternativos frente a posibles incidencias, incluyendo la atención a personas con discapacidad, en la dirección de la sesión del módulo específico de enseñanzas deportivas en salvamento y socorrismo.
+
+i. Se han identificado las condiciones de seguimiento y tutorización de los distintos módulos del bloque específico de los ciclos inicial y final de grado medio en salvamento y socorrismo, presenciales y a distancia, establecidos en el centro docente de prácticas.
+
+j. Se ha participado en el establecimiento de contactos y convenios con las entidades colaboradoras en el módulo de formación práctica en el centro docente de prácticas.
+
+k. Se han utilizado aplicaciones informáticas específicas en supuestos de gestión y seguimiento del módulo de formación práctica en el centro docente de prácticas.
+
+l. Se ha colaborado en la elaboración de informes de evaluación del módulo de formación práctica.
+
+m. Se colaborado en el asesoramiento y control de entrevistas y tutorías personalizadas en la dirección de Proyectos dentro del centro docente de prácticas.
+
+11\. Colabora con la coordinación y supervisión de los recursos humanos de salvamento y socorrismo de un atendiendo a su organigrama, planes de formación, normativa laboral y de contratación y aplicando las técnicas de selección de los mismos.
+
+a. Se ha colaborado en la distribución y supervisión de las tareas del equipo de salvamento y socorrismo del espacio acuático atendiendo a sus funciones y su cronograma de trabajo.
+
+b. Se ha colaborado en la selección del personal atendiendo a las necesidades del espacio acuático.
+
+c. Se ha comprobado que el perfil académico y profesional del personal encargado de las tareas de salvamento y socorrismo del espacio acuático se ajusta a la normativa vigente.
+
+d. Se ha colaborado con el desarrollo del plan de formación continua para el personal de salvamento y socorrismo del espacio acuático atendiendo a sus funciones y a la normativa vigente.
+
+e. Se ha colaborado en la programación y dirección de reuniones con el personal del espacio acuático.
+
+f. Se ha colaborado en la contratación del personal del espacio acuático teniendo en cuenta la normativa laboral vigente.
+
+g. Se han evaluado los recursos humanos necesarios para el desarrollo de las tareas de salvamento y socorrismo del espacio acuático.
+
+h. Se han realizado propuestas de mejora del servicio de salvamento y socorrismo del espacio acuático tras la recogida y análisis de las quejas y propuestas de los usuarios.
+
+i. Se ha desarrollado una actitud positiva y dialogante en relación con la supervisión de las tareas y funciones del personal de salvamento y socorrismo del espacio acuático.
+
+12\. Colabora con la gestión de los recursos materiales del servicio de salvamento y socorrismo del espacio acuático e instalaciones anexas con su mantenimiento y suministro atendiendo a las técnicas de gestión económica de los mismos y normativa vigente y valorando su impacto medioambiental.
+
+a. Se han supervisado las formas de suministro y dotación de recursos materiales necesarios para desarrollar las tareas del servicio de salvamento y socorrismo en el espacio acuático.
+
+b. Se ha comprobado que la indumentaria de trabajo y materiales del servicio de salvamento y socorrismo del espacio acuático se ajusta a lo establecido en la normativa vigente.
+
+c. Se han comprobado los soportes informativos y preventivos de señalización y sistemas de comunicación del espacio acuático.
+
+d. Se ha comprobado que las embarcaciones y los recursos materiales del servicio de salvamento y socorrismo del espacio acuático están en condiciones de uso y se ajustan a la normativa vigente en materia de seguridad.
+
+e. Se han comprobado que el mantenimiento de las embarcaciones a motor se hace conforme al plan de mantenimiento y respetando las recomendaciones del fabricante.
+
+f. Se han comprobado que las instalaciones, puestos de salvamento y socorrismo y zona de atención sanitaria del espacio acuático cumple las condiciones higiénicas y de salubridad según la normativa vigente.
+
+g. Se ha comprobado que las condiciones de salubridad del agua de baño del espacio acuático e instalaciones y espacios anexos cumplen la normativa correspondiente en materia medioambiental.
+
+h. Se ha recogido información en relación con la utilización del espacio acuático, instalaciones anexas y materiales y su influencia medioambiental.
+
+i. Se ha valorado la supervisión de los recursos materiales e instalaciones anexas y condiciones del espacio acuático como medida de prevención de accidentes y garantía de seguridad en el espacio acuático.
+
+13\. Colabora con la coordinación y supervisión de los servicios de salvamento y socorrismo del espacio acuático atendiendo a su planificación, protocolos establecidos y aplicando técnicas de supervisión y coordinación con los servicios de emergencia.
+
+a. Se ha colaborado en la coordinación entre el equipo de salvamento y socorrismo del espacio acuático y los servicios de emergencia y seguridad ante simulacros de accidentes.
+
+b. Se han adaptado los protocolos de intervención durante la realización de simulacros de accidentes o situaciones de emergencia (leve, grave o muy grave), del espacio acuático.
+
+c. Se han aplicado los protocolos establecidos durante la realización de simulacros en situaciones especiales: atención a personas con discapacidad, pérdida de niños u otras.
+
+d. Se han aplicado los protocolos establecidos a través de la realización de simulacros de coordinación del equipo de salvamento y socorrismo del espacio acuático con el resto de los servicios de emergencia (policía, 112, protección civil, etc.).
+
+e. Se ha identificado el protocolo de actuación del espacio acuático ante infracciones cometidas en el mismo.
+
+f. Se ha recogido información sobre la coordinación interpersonal del equipo de salvamento y socorrismo del espacio acuático y los servicios de emergencia.
+
+g. Se ha valorado la coordinación del servicio de salvamento y socorrismo del espacio acuático en relación con las tareas de prevención, accidentalidad, sistemas de vigilancia y actuación de su personal.
+
+h. Se ha tomado conciencia de la importancia de la coordinación entre el personal del servicio de salvamento y socorrismo del espacio acuático y los servicios de emergencia.
+
+> Se numera como Anexo II.k por el art. 4.2 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO III — Ratio profesor/alumno
+
+| Bloque Específico Ciclo de Grado Superior | Ratio profesor/alumno |
+|---|---|
+| MED-SSSS-301: Planificación y programación del alto rendimiento en salvamento y socorrismo. | 1/30 |
+| MED-SSSS-302: Entrenamiento en salvamento y socorrismo. | 1/30 |
+| MED-SSSS-303: Gestión del Centro de salvamento y socorrismo. | 1/30 |
+| MED-SSSS-304: Organización de eventos de salvamento y socorrismo | 1/30 |
+
+## ANEXO IV — Acceso al módulo de formación práctica
+
+| Acceso al módulo de Formación Práctica | Módulos a superar |
+|---|---|
+| MED-SSSS-306 Formación práctica. | Del bloque común.<br>• MED-C301: Factores fisiológicos del alto rendimiento.<br>• MED-C303: Formación de formadores deportivos.<br>Del bloque específico.<br>• MED-SSSS-301: Planificación y programación del alto rendimiento en salvamento y socorrismo.<br>• MED-SSSS-302: Entrenamiento en salvamento y socorrismo.<br>• MED-SSSS-303: Gestión del Centro de salvamento y socorrismo.<br>• MED-SSSS-304: Organización de eventos de salvamento y socorrismo. |
+
+## ANEXO V — Espacios y equipamientos mínimos del ciclo de grado superior
+
+<table class="tabla" data-omitir-repetir-tfoot="true" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Espacio formativo</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie</p>
+<p class="cabeza_tabla">30 alumnos</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Superficie</p>
+<p class="cabeza_tabla">20 alumnos</p>
+</th>
+<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">Aula polivalente.</td>
+<td class="cuerpo_tabla_coma">60 m<sup>2</sup></td>
+<td class="cuerpo_tabla_coma">40 m<sup>2</sup></td>
+<td class="cuerpo_tabla_izq" rowspan="2">Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Gimnasio.</td>
+<td class="cuerpo_tabla_coma">120 m<sup>2</sup></td>
+<td class="cuerpo_tabla_coma">90 m<sup>2</sup></td>
+</tr>
+</tbody>
+</table>
+
+| Espacio formativo | Módulo de enseñanza deportiva |
+|---|---|
+| Piscina de 25 m × 1,80 m de profundidad. | • MED-SSSS-301: Planificación y programación del alto rendimiento en salvamento y socorrismo.<br>• MED-SSSS-302: Entrenamiento en salvamento y socorrismo.<br>• MED-SSSS-303: Gestión del Centro de salvamento y socorrismo.<br>• MED-SSSS-304: Organización de eventos de salvamento y socorrismo. |
+| Sala de musculación. | • MED-SSSS-302: Entrenamiento en salvamento y socorrismo. |
+| Entorno natural: playas marítimas y fluviales, ríos, lagos o embalses. | • MED-SSSS-303: Gestión del Centro de salvamento y socorrismo.<br>• MED-SSSS-304: Organización de eventos de salvamento y socorrismo III. |
+
+| Equipamiento del aula polivalente | Módulo de enseñanza deportiva |
+|---|---|
+| Equipos audiovisuales. Cañón de proyección.<br>PCs instalados en red con conexión a Internet.<br>Software específico. | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
+
+| Equipamiento del gimnasio | Módulo de enseñanza deportiva |
+|---|---|
+| 15 balones medicinales (3kg, 4kg, 5kg).<br>15 colchonetas.<br>Mancuernas de diferentes pesos.<br>3 Barras de levantamientos.<br>Discos (diversos pesos).<br>Bancos para ejercicios de musculación: horizontal, inclinado y/o reclinable.<br>Balones inflables 65cm.<br>Gomas elásticas.<br>Espalderas.<br>Bancos suecos. | • MED-SSSS-302: Entrenamiento en salvamento y socorrismo. |
+
+| Equipamiento de la Sala de musculación | Módulo de enseñanza deportiva |
+|---|---|
+| Maquinas de musculación. Peso libre, barras, mancuernas. Barra dominadas. | • MED-SSSS-302: Entrenamiento en salvamento y socorrismo. |
+
+| Equipamiento de la piscina | Módulo de enseñanza deportiva |
+|---|---|
+| Material de tecnificación de salvamento y socorrismo.<br>Material de rescate de salvamento y socorrismo.<br>Material de comunicación.<br>Material de video-filmación. | • MED-SSSS-302: Entrenamiento en salvamento y socorrismo.<br>• MED-SSSS-303: Gestión del Centro de salvamento y socorrismo.<br>• MED-SSSS-304: Organización de eventos de salvamento y socorrismo. |
+
+## ANEXO VI — Requisitos de titulación del profesorado de los módulos del bloque común de ciclo de grado superior, en centros públicos de la Administración educativa
+
+Serán impartidos por quienes posean la especialidad que a continuación se detalla:
+
+<table class="tabla" data-omitir-repetir-tfoot="true" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<p class="cabeza_tabla">Ciclo de Grado Superior</p>
+</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C301: Factores fisiológicos del alto rendimiento.</td>
+<td class="cuerpo_tabla_izq">Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">MED-C302: Factores Psicosociales del alto rendimiento.</p>
+<p class="cuerpo_tabla_izq">MED-C303: Formación de formadores deportivos.</p>
+</td>
+<td class="cuerpo_tabla_izq">Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Educación física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C304: Organización y gestión aplicada al alto rendimiento.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Educación física.</p>
+<p class="cuerpo_tabla_izq">Formación y organización laboral.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO VII A — Requisitos de titulación del profesorado de los módulos del bloque específico de ciclo de grado superior, en centros públicos de la Administración educativa
+
+Serán impartidos por quienes posean la especialidad o condición que a continuación se detalla:
+
+<table class="tabla" data-omitir-repetir-tfoot="true" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<p class="cabeza_tabla">Ciclo de Grado Superior</p>
+</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-301: Planificación y programación del alto rendimiento en salvamento y socorrismo.</td>
+<td class="cuerpo_tabla_izq">Educación Física, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-302: Entrenamiento en salvamento y socorrismo.</td>
+<td class="cuerpo_tabla_izq">Educación Física, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-303: Gestión del Centro de salvamento y socorrismo.</td>
+<td class="cuerpo_tabla_izq">Educación Física, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-304: Organización de eventos de salvamento y socorrismo.</td>
+<td class="cuerpo_tabla_izq">Educación Física, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-305: Proyecto Final.</td>
+<td class="cuerpo_tabla_izq">Educación Física, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO VII B — Condición de Profesor especialista en centros públicos de la Administración educativa: Acreditación de experiencia docente o actividad en el ámbito deportivo y laboral
+
+| Módulos enseñanza deportiva | Experiencia docente acreditable | Actividad en el ámbito deportivo y laboral |
+|---|---|---|
+| MED-SSSS-301: Planificación y programación del alto rendimiento en salvamento y socorrismo.<br>MED-SSSS-302: Entrenamiento en salvamento y socorrismo.<br>MED-SSSS-303: Gestión del Centro de salvamento y socorrismo.<br>MED-SSSS-304: Organización de eventos de salvamento y socorrismo.<br>MED-SSSS-305: Proyecto Final. | Al menos 100 horas de docencia acreditada en formación de entrenadores en el nivel 1, 2 ó 3 de salvamento y socorrismo en las formaciones a las que se refiere la disposición adicional quinta y la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, así como de la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre. | Al menos 2 años de ejercicio deportivo laboral relacionado con las competencias profesionales del ciclo superior, realizado en los 4 años inmediatamente anteriores al nombramiento. |
+
+En el caso de la formación a la que se refiere la adicional quinta del RD 1363/2007, de 24 de octubre, la Federación Española de Salvamento y Socorrismo emitirá la correspondiente certificación de la experiencia docente en la que conste: las materias impartidas, el número de horas impartidas, la fecha del curso en el que se impartió la materia o materias, y la fecha de la resolución de reconocimiento de la formación por parte del Consejo Superior de Deportes junto con la fecha de publicación en el BOE.
+
+En el caso de las formaciones a las que se refiere la disposición transitoria primera de los R.D. 1913/1997, y 1363/2007, el órgano competente de la Comunidad autónoma que autorizó las formaciones emitirá la correspondiente certificación de la experiencia docente en la que consten las materias y el número de horas impartidas.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+La Federación Española de la Salvamento y Socorrismo emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+## ANEXO VIII — Requisitos de titulación del profesorado en centros privados y de titularidad pública de administraciones distintas a la educativa
+
+Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
+
+Módulos del bloque común del ciclo de grado superior
+
+| Módulo comunes de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED-C301: Factores fisiológicos del alto rendimiento. | Licenciado en Ciencias de la Actividad Física y el Deporte.<br>Licenciado en Medicina. |
+| MED-C302: Factores psicosociales del alto rendimiento. | Licenciado en Ciencias de la Actividad Física y el Deporte.<br>Licenciado en Psicología. |
+| MED-C303: Formación de formadores deportivos. | Licenciado en Ciencias de la Actividad Física y el Deporte. |
+| MED-C304: Organización y gestión aplicada al alto rendimiento. | Licenciado en Ciencias de la Actividad Física y el Deporte.<br>Licenciado en Derecho. |
+
+| Módulo específico de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED-SSSS-301 Planificación y programación del alto rendimiento en salvamento y socorrismo. | Título de Técnico Deportivo Superior en Salvamento y Socorrismo. |
+| MED-SSSS-302 Entrenamiento en salvamento y socorrismo. | Título de Técnico Deportivo Superior en Salvamento y Socorrismo. |
+| MED-SSSS-303 Gestión del Centro de salvamento y socorrismo. | Título de Técnico Deportivo Superior en Salvamento y Socorrismo. |
+| MED-SSSS-304 Organización de eventos de salvamento y socorrismo III. | Título de Técnico Deportivo Superior en Salvamento y Socorrismo. |
+| MED-SSSS-305 Proyecto Final. | Título de Técnico Deportivo Superior en Salvamento y Socorrismo. |
+
+## ANEXO IX A — Correspondencia de los módulos de enseñanza deportiva con las unidades de competencia para su acreditación
+
+| Módulos de enseñanza deportiva superados | Unidades de competencia del CNCP acreditables |
+|---|---|
+| MED-SSSS-303: Gestión del Centro de salvamento y socorrismo.<br>MED-SSSS-306: Módulo de Formación Práctica. | Acreditan las Unidades de competencia de:<br>• UC1762_3: Planificar y organizar recursos humanos y materiales para prevenir, vigilar e intervenir ante accidentes en espacios acuáticos.<br>• UC1763_3: Supervisar y evaluar los recursos humanos y materiales de socorrismo en espacios acuáticos.<br>• UC1764_3: Dirigir equipos de socorrismo ante accidentes en espacios acuáticos. |
+
+## ANEXO IX B — Correspondencia de las unidades de competencia acreditadas con los módulos de enseñanza deportiva para su convalidación
+
+| Unidades de competencia del CNCP acreditadas | Módulos de enseñanza deportiva convalidables |
+|---|---|
+| La Unidad de competencia:<br>• UC1762_3: Planificar y organizar recursos humanos y materiales para prevenir, vigilar e intervenir ante accidentes en espacios acuáticos.<br>• UC1763_3: Supervisar y evaluar los recursos humanos y materiales de socorrismo en espacios acuáticos.<br>• UC1764_3: Dirigir equipos de socorrismo ante accidentes en espacios acuáticos. | Permiten la convalidación de:<br>• MED-SSSS-303: Gestión del Centro de salvamento y socorrismo |
+
+## ANEXO X — Exención del módulo de formación práctica del ciclo de grado superior
+
+| MED-SSSS-306 Formación práctica | Experiencia ámbito laboral o deportivo |
+|---|---|
+| Exención parcial.<br>Exención total. | Duración: Superior a 300 horas.<br>Actividad desarrollada: Experiencia relacionada con la competencia general del ciclo de grado superior en salvamento y socorrismo, y los resultados de aprendizaje del módulo de formación práctica.<br>Periodo de tiempo que ha desarrollado la actividad: Dos años anteriores a la finalización del curso. |
+
+La exención parcial del módulo de formación práctica se concederá para aquellos resultados de aprendizaje del módulo, que sean concordantes con la experiencia laboral o deportiva acreditada.
+
+La exención total del módulo de formación práctica, se podrá conceder cuando exista una completa concordancia de la experiencia laboral o deportiva acreditada con la totalidad de los resultados de aprendizaje del correspondiente módulo.
+
+La Federación Española o autonómica de salvamento y socorrismo emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+## ANEXO XI — Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia docente
+
+| Módulos de enseñanza deportiva. Ciclo de Grado Superior | Experiencia docente |
+|---|---|
+| MED-SSSS-301: Planificación y programación del alto rendimiento en salvamento y socorrismo.<br>MED-SSSS-302: Entrenamiento en salvamento y socorrismo.<br>MED-SSSS-303: Gestión del Centro de salvamento y socorrismo.<br>MED-SSSS-304: Organización de eventos de salvamento y socorrismo. | Experiencia como profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del R.D. 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del R.D. 1363/2007, de 24 de octubre.<br>La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa. |
+
+La experiencia docente se acreditará mediante certificado expedido por la Comunidad Autónoma que autorizó dichas formaciones en el que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la misma.
+
+## ANEXO XII — Formación a distancia
+
+| Módulos bloque común. | MED-C301: Factores fisiológicos del alto rendimiento.<br>MED-C302: Factores psicosociales del alto rendimiento.<br>MED-C303: Formación de formadores deportivos.<br>MED-C304: Organización y gestión aplicada al alto rendimiento. |
+|---|---|
+| Módulos bloque específico. | MED-SSSS-301: Planificación y programación del alto rendimiento en salvamento y socorrismo.<br>MED-SSSS-303: Gestión del Centro de salvamento y socorrismo.<br>MED-SSSS-305: Proyecto Final. |

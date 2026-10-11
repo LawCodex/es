@@ -69,7 +69,11 @@ COMMUNITIES = [
 
 # heading p-class prefixes, in hierarchical order
 HEAD_RANKS = ["parte", "libro", "titulo", "capitulo", "seccion", "subseccion"]
-CODE_RE = re.compile(r"^(C[óo]digo\b|.*\b(aprueba|publica|promulga)\b.{0,40}\bC[óo]digo\b)", re.I)
+CODE_RE = re.compile(
+    r"^(C[óo]digo\b"
+    r"|[^,]+, de \d+ de \w+(?: de \d{4})?, (?:del|de) C[óo]digo\b"
+    r"|.{0,120}\bpor (?:el|la) que se (?:aprueba|publica|promulga)n? (?:el )?(?:texto (?:refundido|articulado) del? )?C[óo]digo\b)(?! de [Cc]onducta| de [Bb]uen)",
+    re.I)
 
 
 def slugify(s, maxlen=100):
@@ -275,6 +279,10 @@ def render_children(ctx, parent, quote=False):
                 ctx.para(t, quote)
         elif tag == "blockquote":
             flush()
+            # "noDesdeYYYYMMDD": note/previous wording shown only until that date (as on boe.es)
+            mnd = re.search(r"noDesde(\d{8})", cls)
+            if mnd and mnd.group(1) <= TODAY.strftime("%Y%m%d"):
+                continue
             render_children(ctx, ch, quote=True)
         elif tag == "table":
             flush()

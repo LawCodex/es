@@ -1,0 +1,837 @@
+---
+title: "Real Decreto 2200/1995, de 28 de diciembre, por el que se aprueba el Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial"
+identifier: "BOE-A-1996-2468"
+eli: "https://www.boe.es/eli/es/rd/1995/12/28/2200"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria y Energía"
+date: 1995-12-28
+published: 1996-02-06
+in_force_from: 1996-02-07
+last_amended: 2025-04-10
+consolidated: 2026-09-10
+gazette: "Boletín Oficial del Estado núm. 32"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-2468"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2200/1995, de 28 de diciembre, por el que se aprueba el Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial
+
+Como ya se apuntó en la exposición de motivos de la Ley 21/1992, de 16 de julio, de Industria, en materia de seguridad y calidad industriales, se hace necesario adaptar la regulación de la actividad industrial en España a la derivada de nuestra pertenencia a la Unión Europea y a la constitución del Mercado Interior, lo que implica, entre otras cosas, la necesidad de compatibilizar los instrumentos de la política industrial con los de la libre competencia y la libre circulación de mercancías y productos, particularmente a través de la normalización, la armonización de las reglamentaciones e instrumentos de control, así como el nuevo enfoque comunitario basado en la progresiva sustitución de la tradicional homologación administrativa de productos por la certificación que realizan empresas y otras entidades, con la correspondiente supervisión de sus actuaciones por los poderes públicos.
+
+Por otro lado, en las conclusiones relativas a la normalización aprobadas por el Consejo de la Unión Europea de fecha 16 de julio de 1984, se estima que esta actividad contribuye de forma importante a la libre circulación de los productos industriales, así como a la creación de un medio ambiente técnico común a todas las empresas, y consecuentemente mejora la competitividad industrial, tanto en el seno de la Unión Europea como en los mercados exteriores. Estas conclusiones llevaron al Consejo de la Comunidad Económica Europea a dictar la Resolución de fecha 7 de mayo de 1985 relativa a la nueva aproximación en materia de armonización y de normalización, comúnmente conocido como «nuevo enfoque», en la que se subraya, entre otras cosas, la importancia y oportunidad del principio de referencia a normas, preferentemente europeas, y si es necesario nacionales con carácter provisional, en tanto se confecciona la correspondiente norma europea para definir las características técnicas de los productos.
+
+Resulta, pues, evidente que el funcionamiento de la normalización en la Unión Europea debe basarse, de acuerdo con lo establecido en la Directiva del Consejo 83/189/CEE, en las funciones fundamentales que desempeñan los organismos nacionales de normalización, tales como la posibilidad de obtener proyectos de normas europeas, conocer el curso dado a los comentarios presentados a ellos, participar si ha lugar en los trabajos de normalización nacionales o solicitar la elaboración de normas europeas en lugar de normas nacionales. En contrapartida, tienen la obligación de respetar el «statu quo», absteniéndose en consecuencia de normalizar en el ámbito nacional aspectos que se están normalizando en el ámbito europeo, debiendo los Estados Miembros tomar las medidas necesarias para que esos organismos de normalización respeten estos derechos y hagan cumplir dichas obligaciones.
+
+Asimismo, el «nuevo enfoque» se completó con un conjunto de herramientas que desarrollan una política europea en materia de «evaluación de la conformidad», que se materializó en la Resolución del Consejo de fecha 21 de diciembre de 1989, comúnmente conocida como «enfoque global», con el fin de crear las condiciones adecuadas para que se estableciese un clima de confianza, y para que esta confianza sea la base fundamental indispensable del funcionamiento del reconocimiento mutuo. Este planteamiento global considera como parte fundamental la calidad, y en consecuencia, se crea mayor confianza cuando la calidad es más transparente.
+
+En este sentido las Directivas comunitarias de «nuevo enfoque» ofrecen como una de las vías para la evaluación de la conformidad de los productos, y con ello la garantía de conformidad de los mismos con las normas de seguridad, la existencia de un sistema de gestión de calidad implantado en la empresa, lo que presupone la garantía de que el producto no tiene desviaciones con respecto a un modelo aprobado y la capacidad del empresario para certificar sus propios productos. Debe destacarse de lo anterior la inseparable e íntima ligazón establecida por las Directivas comunitarias de «nuevo enfoque» entre la seguridad industrial y la calidad, es decir, a través de la normalización como referencia de base en la elaboración de los reglamentos y de la utilización de sus instrumentos de evaluación de la conformidad, sustitutivos de la clásica homologación administrativa. Ello conduce y obliga a la necesidad de ordenar las infraestructuras de la seguridad y calidad industriales de forma inseparable y coordinada.
+
+En el mismo contexto, y de acuerdo con los criterios de la Comisión Europea reflejados en el documento «Principios de la acreditación en Europa», la acreditación es fundamental para el correcto funcionamiento de un mercado transparente y orientado a la calidad en Europa; para la industria, que para ser plenamente competitiva precisa de un servicio adecuado en este ámbito; para las autoridades públicas, tanto nacionales como europeas, a fin de obtener un grado suficiente de confianza en los certificados expedidos en cualquier lugar de Europa, y así, facilitar la libre circulación de productos en todo el Espacio Económico Europeo, y para las propias entidades y organismos que operen tanto en el campo voluntario como en el obligatorio, ya que por esa vía podrán demostrar su competencia técnica, independencia e imparcialidad. Por ello para las entidades y organismos que conforman la infraestructura acreditable para la calidad, es decir, para las entidades de certificación, laboratorios de ensayo, laboratorios de calibración y entidades auditoras y de inspección, se establece, para aquellos que voluntariamente quieran integrarse en ella, el requisito previo de la acreditación como condición básica para garantizar la confianza deseada.
+
+Por otro lado, el Reglamento CEE 1836/93, de 29 de junio, por el que se permite que las empresas del sector industrial se adhieran con carácter voluntario a un sistema comunitario de gestión y auditoría medioambiental, establece la figura de los verificadores medioambientales acreditados, como agente de validación y de seguimiento de las declaraciones medioambientales que realicen las industrias que se adhieran a dicho sistema.
+
+Por todo ello, se hace necesario adecuar la infraestructura para la calidad y la seguridad industrial de nuestro país, a efectos de que, al mejorar su eficacia y competitividad, pueda contribuir a que nuestros productos sean aceptados en los mercados comunitarios e internacionales, mediante la existencia de instrumentos de control que ofrezcan las mismas garantías que los existentes en otros países de la Unión Europea y, por otro lado, asegure el estricto cumplimiento de los Reglamentos nacionales en materia de seguridad de instalaciones.
+
+La adecuación citada debe ajustarse a los criterios establecidos por la Ley 21/1992, de 16 de julio, de Iindustria, en su exposición de motivos, cuando se refiere a la adaptación de la regulación de la actividad industrial en España a la derivada de nuestra incorporación a la Comunidad Económica Europea, así como en su artículo 20, cuando indica que se fomentará la existencia de entidades de acreditación, certificación, inspección y ensayo con demostrada capacidad técnica para que puedan ser reconocidas a nivel comunitario e internacional.
+
+Lo anterior lleva a la necesidad de reordenar, en colaboración con las Comunidades Autónomas, el conjunto de entidades y organismos que conforman la infraestructura para la calidad y la seguridad industrial que, atendiendo a los criterios comunitarios al respecto, interrelaciona cada vez más ambos campos, utilizando las normas voluntarias de la calidad para garantizar el cumplimiento de los reglamentos de seguridad industrial y recomienda la integración de la acreditación en un solo sistema o entidad por país. Así se desarrolla una infraestructura común para la calidad y la seguridad industrial, encargada de las actividades de normalización y acreditación, frente a las infraestructuras acreditables en las que se diferencian las relativas a la calidad o del ámbito voluntario y a la seguridad industrial o del ámbito obligatorio.
+
+A estos objetivos responde el Reglamento que aprueba el presente Real Decreto, que viene a desarrollar los aspectos contenidos en la Ley 21/1992, de 16 de julio, de Industria, en referencia a los organismos y entidades que operan en el campo de la calidad y de la seguridad industrial, contemplados en el Título III de la citada Ley de Industria.
+
+En su virtud, a propuesta del Ministro de Industria y Energía, de acuerdo con el dictamen del Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 28 de diciembre de 1995,
+
+#### D I S P O N G O :
+
+##### Artículo único.
+
+Se aprueba el Reglamento de la infraestructura para la calidad y la seguridad industrial que figura como anexo al presente Real Decreto.
+
+##### Disposición adicional primera.
+
+La Asociación Española de Normalización y Certificación, en adelante AENOR, designada por Orden del Ministerio de Industria y Energía, de 26 de febrero de 1986, de acuerdo con el Real Decreto 1614/1985, de 1 de agosto, queda reconocida como Organismo de normalización de los establecidos en el capítulo II del Reglamento que se aprueba por este Real Decreto, debiendo modificar, si procede, sus Estatutos para adaptarlos a los requisitos de este Reglamento en el plazo de doce meses a partir de la fecha de entrada en vigor de la presente disposición.
+
+> Se prorroga durante doce meses, a partir del día 7 de febrero de 1997, el plazo establecido, por el art. 1 del Real Decreto 411/1997. [Ref. BOE-A-1997-9026](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-9026).
+
+##### Disposición adicional segunda.
+
+A fin de propiciar la coordinación de las actuaciones entre las materias de seguridad y calidad industriales, el Consejo de Coordinación de la Seguridad Industrial asumirá, a través de su Comité Técnico de Coordinación de la Calidad, los siguientes cometidos:
+
+a) Proponer las líneas directrices de la normalización española.
+
+b) Establecer un Plan Anual de Normalización española que integre y coordine las necesidades de normalización que expresen los Organismos de normalización y las Administraciones públicas.
+
+c) Fomentar la elaboración y uso de normas españolas y la transposición de normas europeas.
+
+d) Evaluar el resultado de los trabajos de normalización desarrollados en España, en los campos de la calidad y seguridad industrial, recopilando la información necesaria para ello.
+
+e) Acordar los representantes de la Administración en los órganos de gobierno y representación de los Organismos de normalización y de las entidades de acreditación.
+
+f) Asesorar al Gobierno en cuantas cuestiones sobre normalización le sean sometidas.
+
+##### Disposición adicional tercera. Autorización para la actualización de la cuantía del seguro de responsabilidad civil, aval u otra garantía financiera equivalente, del artículo 43.1.
+
+Se autoriza al Ministro de Industria, Energía y Turismo para actualizar mediante orden la cuantía mínima por siniestro del seguro, aval, u otra garantía financiera equivalente, que cubra la responsabilidad civil, a que hace referencia el artículo 43.1 del Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+> Se añade por el art. 1.1 del Real Decreto 1072/2015, de 27 de noviembre. [Ref. BOE-A-2015-13530](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13530).
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1715/2010 de 17 de diciembre. [Ref. BOE-A-2011-398](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-398).
+
+> Se prorroga durante doce meses, a partir del día 7 de febrero de 1997, el plazo establecido, por el art. 1 del Real Decreto 411/1997. [Ref. BOE-A-1997-9026](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-9026).
+
+##### Disposición adicional cuarta.
+
+El Ministerio de Industria y Energía, a través del centro directivo competente en materia de calidad y seguridad industrial, podrá apoyar, en el ámbito de sus competencias, a AENOR, ENAC y a cualquier otro agente público o privado que, con otros fines y sin ánimo de lucro, actúe en el ámbito de la calidad y la seguridad industrial.
+
+##### Disposición adicional quinta.
+
+Las figuras de homologación de producto, homologación de tipo y registro de tipo, establecidas como preceptivas en disposiciones reglamentarias de seguridad industrial, vigentes a la entrada en vigor del presente Real Decreto, quedan sustituidas, excepto en los casos previstos en el artículo 13.4 de la Ley de Industria, por la de certificaciones de conformidad con los requisitos reglamentarios, emitidas por los Organismos de control establecidos en el capítulo IV del Reglamento que se aprueba por este Real Decreto, de acuerdo con lo fijado en las disposiciones reglamentarias correspondientes.
+
+##### Disposición adicional sexta.
+
+Se considerarán conformes con la reglamentación nacional de seguridad industrial los productos comercializados legalmente en otro Estado miembro de la Unión Europea, en Turquía, u originarios de un Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo y comercializados legalmente en él, siempre que garanticen un nivel equivalente al exigido en dicha reglamentación en cuanto a su seguridad y al uso al que están destinados. La aplicación de la presente medida está sujeta al Reglamento (UE) n.º 2019/515 del Parlamento Europeo y del Consejo, de 19 de marzo de 2019, relativo al reconocimiento mutuo de mercancías comercializadas legalmente en otro Estado miembro y por el que se deroga el Reglamento (CE) n.º 764/2008.
+
+> Téngase en cuenta que esta última actualización por el art. 2.1 del Real Decreto 145/2023, de 28 de febrero. [Ref. BOE-A-2023-7056](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7056), entrará en vigor el 1 de julio de 2023, según se establece en su disposición final 5.
+
+> **Redacción anterior:**
+
+> "A los efectos de la comercialización de productos provenientes de otros Estados miembros de la Unión Europea, sometidos a las reglamentaciones nacionales de seguridad industrial, la Administración pública competente deberá aceptar la validez de los certificados y marcas de conformidad a norma y las actas o protocolos de ensayos que son exigibles por las citadas reglamentaciones, emitidos por organismos de evaluación de la conformidad oficialmente reconocidos en otros Estados miembros de la Unión Europea, siempre que se reconozca, por dicha Administración, que los citados agentes ofrecen garantías técnicas, profesionales y de independencia e imparcialidad, equivalentes a las exigidas por la legislación española y que las disposiciones legales vigentes del Estado miembro en base a las que se evalúa la conformidad, comporten un nivel de seguridad equivalente al exigido por las correspondientes normas españolas."
+
+> Se modifica por el art. 2.1 del Real Decreto 145/2023, de 28 de febrero. [Ref. BOE-A-2023-7056](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7056)
+
+##### Disposición adicional séptima.
+
+El ámbito de aplicación y competencias del reglamento que se aprueba por el presente Real Decreto se limita al contenido en el artículo 3 de la Ley 21/1992, de 16 de julio, de Industria.
+
+##### Disposición adicional octava.
+
+Sin perjuicio de las excepciones previstas legal o reglamentariamente, para garantizar el uso seguro y correcto de los productos industriales, la información y documentación que deba acompañar a dichos productos según establezcan las disposiciones nacionales específicas o de la Unión Europea (entre otras, la relativa a los datos de contacto de los agentes económicos relacionados, instrucciones e información sobre seguridad, declaración de conformidad o declaración de prestaciones), se facilitarán al menos, en castellano, lengua española oficial del Estado.
+
+> Se añade por la disposición final 5 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 8 del citado Real Decreto
+
+##### Disposición transitoria primera.
+
+Las entidades de inspección y control reglamentario concesionarias o reconocidas para la inspección de productos, equipos e instalaciones industriales, autorizadas en base al Real Decreto 1407/1987, de 13 de noviembre; las entidades colaboradoras en materia de medio ambiente autorizadas en base al Real Decreto 735/1979, de 20 de febrero, y los laboratorios de ensayo y calibración autorizados en base al Real Decreto 2584/1981, de 18 de septiembre, podrán seguir actuando hasta la terminación del plazo de concesión o autorización o, si éste no existiera, hasta el 23 de julio de 1997, si bien, en todos los casos, se concede el plazo de un año desde la entrada en vigor de la presente disposición para que los citados agentes adapten sus estatutos y adecúen sus actuaciones a lo dispuesto en el Reglamento que se aprueba por este Real Decreto y durante el cual dichas entidades y organismos podrán seguir actuando.
+
+> Se prorroga durante doce meses, a partir del día 7 de febrero de 1997, el plazo establecido, por el art. 1 del Real Decreto 411/1997. [Ref. BOE-A-1997-9026](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-9026).
+
+##### Disposición transitoria segunda.
+
+La entidad AENOR, autorizada para certificar al amparo de lo establecido en el Real Decreto 1614/1985, de 1 de agosto, podrá actuar como entidad de certificación de las previstas en la sección 1.ª del capítulo III del Reglamento que se aprueba por este Real Decreto, quedando sometida a todas las condiciones y obligaciones que en él se establecen para dichas entidades de certificación, debiendo, en el plazo de un año desde la entrada en vigor de la presente disposición, adaptar sus estatutos y adecuar sus actuaciones a lo dispuesto en el Reglamento que se aprueba por este Real Decreto.
+
+> Se prorroga durante doce meses, a partir del día 7 de febrero de 1997, el plazo establecido, por el art. 1 del Real Decreto 411/1997. [Ref. BOE-A-1997-9026](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-9026).
+
+##### Disposición transitoria tercera.
+
+Una vez constituido el Consejo de Coordinación de la Seguridad Industrial, la entidad ENAC, en cuanto se refiera al ámbito de la seguridad industrial, remitirá al citado Consejo sus estatutos, adaptados de acuerdo con lo establecido en la disposición adicional tercera de este Real Decreto, en cumplimiento de lo previsto en los artículos 17.4 y 18.4.a) de la Ley 21/1992, de 16 de julio, de Industria.
+
+> Se prorroga durante doce meses, a partir del día 7 de febrero de 1997, el plazo establecido, por el art. 1 del Real Decreto 411/1997. [Ref. BOE-A-1997-9026](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-9026).
+
+##### Disposición transitoria cuarta.
+
+Las certificaciones de conformidad que se establecen como sustitutorias de las figuras de homologación de producto, homologación de tipo y registro de tipo en la disposición adicional quinta de este real decreto, serán sustituidas, hasta el funcionamiento de los organismos de control correspondientes establecidos en el capítulo IV del Reglamento, por la presentación, ante el órgano competente de la comunidad autónoma o ciudad autónoma correspondiente, de una declaración responsable, que deberá estar disponible para las personas consumidoras, en la que el operador económico responsable de la puesta en el mercado del producto declare que el producto cumple los requisitos que se exigen en las disposiciones reglamentarias de seguridad industrial correspondientes y que dispone de la documentación que así lo demuestra. Esta documentación deberá estar debidamente actualizada de acuerdo a los requisitos reglamentarios correspondientes y estar disponible para su presentación inmediata ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control.
+
+> Téngase en cuenta que esta última actualización por el art. 2.2 del Real Decreto 145/2023, de 28 de febrero. [Ref. BOE-A-2023-7056](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7056), entrará en vigor el 1 de julio de 2023, según se establece en su disposición final 5.
+
+> **Redacción anterior:**
+
+> "Las certificaciones de conformidad que se establecen como sustitutorias de las figuras de homologación de producto, homologación de tipo y registro de tipo en la disposición adicional quinta de este Real Decreto, serán emitidas, hasta el funcionamiento de los Organismos de control correspondientes establecidos en el capítulo IV del Reglamento, por las entidades u organismos ya designados, autorizados para realizar dichas homologaciones o registros, o por los órganos competentes en materia de Industria de la Comunidad Autónoma o Ciudad Autónoma correspondiente."
+
+> Se modifica por el art. 2.2 del Real Decreto 145/2023, de 28 de febrero. [Ref. BOE-A-2023-7056](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7056)
+
+> Se modifica por el art. 3 del Real Decreto 542/2020, de 26 de mayo. [Ref. BOE-A-2020-6472](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6472)
+
+> Se modifica por el art. 2 del Real Decreto 411/1997, de 21 de marzo. [Ref. BOE-A-1997-9026](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-9026).
+
+##### Disposición derogatoria única.
+
+A la entrada en vigor del presente Real Decreto, quedan derogadas las disposiciones que se relacionan a continuación, así como las normas vigentes de igual o inferior rango que las desarrollan, complementan o modifican:
+
+1.ª Real Decreto 1614/1985, de 1 de agosto, por el que se ordenan las actividades de normalización y certificación.
+
+2.ª Real Decreto 2584/1981, de 18 de septiembre, por el que se aprueba el Reglamento general de las actuaciones del Ministerio de Industria y Energía en el campo de la normalización y homologación.
+
+3.ª Real Decreto 1617/1989, de 24 de noviembre, por el que se regulan los convenios de colaboración para la gestión y/o acreditación de laboratorios de ensayos industriales.
+
+4.ª Real Decreto 1407/1987, de 13 de noviembre, por el que se regulan las entidades de inspección y control reglamentario en materia de seguridad de los productos, equipos e instalaciones industriales.
+
+5.ª Real Decreto 800/1987, de 15 de mayo, por el que se establece la certificación de conformidad a normas como alternativa de la homologación de tipos de productos por el Ministerio de Industria y Energía.
+
+6.ª Real Decreto 735/1979, de 20 de febrero, donde se fijan las normas generales que deben cumplir las entidades colaboradoras.
+
+##### Disposición final primera. Carácter básico y títulos competenciales.
+
+1\. Los artículos 2.1, 5, 14 a 19 y 41 a 48 del Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial, en lo que afecta a la seguridad industrial, tienen carácter de normativa básica, que se dicta al amparo del artículo 149.1.13.ª de la Constitución, que atribuye al Estado competencia exclusiva sobre las bases y coordinación de la planificación general de la actividad económica.
+
+2\. Los artículos 49 y 50 del Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial, relativos a los verificadores ambientales, tienen carácter de normativa básica, que se dicta al amparo del artículo 149.1.23.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de legislación básica sobre protección del medio ambiente.
+
+3\. Los restantes preceptos del Reglamento serán de aplicación en defecto de la legislación específica dictada por las Comunidades Autónomas con competencia normativa en las materias reguladas por el mismo.
+
+> Se modifica por el art. 1.2 del Real Decreto 1072/2015, de 27 de noviembre. [Ref. BOE-A-2015-13530](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13530).
+
+##### Disposición final segunda.
+
+Se faculta al Ministro de Industria y Energía para dictar las disposiciones necesarias para el desarrollo y aplicación del presente Real Decreto.
+
+##### Disposición final tercera.
+
+El presente Real Decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 28 de diciembre de 1995.
+
+JUAN CARLOS R.
+
+El Ministro de Industria y Energía,
+
+JUAN MANUEL EGUIAGARAY UCELAY
+
+## ANEXO — Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial
+
+## CAPÍTULO I — Disposiciones generales
+
+##### Artículo 1. Objeto.
+
+El objeto del presente Reglamento es establecer los requisitos de organización y funcionamiento que deberán cumplir los agentes, públicos o privados, que constituyen la infraestructura para la calidad y la seguridad industrial, según lo dispuesto en el título III de la Ley 21/1992, de 16 de julio, de Industria, en adelante Ley de Industria.
+
+##### Artículo 2. Agentes sujetos a acreditación.
+
+1\. Los agentes que operen en el ámbito obligatorio de la Seguridad Industrial y que se regulan en el capítulo IV de este Reglamento no podrán actuar sin haber sido acreditados por una entidad de acreditación de las definidas en el capítulo II de este Reglamento.
+
+2\. Los agentes que operen en el ámbito voluntario de la calidad y que se regulan en el capítulo III de este Reglamento no estarán sometidos al régimen que rige en el ámbito de la seguridad, si bien, si voluntariamente desean integrarse en la infraestructura para la calidad, requerirán de su acreditación por una entidad de acreditación de las definidas en el capítulo II de este Reglamento.
+
+##### Artículo 3. Infraestructura común para la calidad y seguridad industrial.
+
+Constituyen la infraestructura común para la calidad y la seguridad industrial las entidades y organismos que se encuadren en las siguientes categorías:
+
+a) Organismos de normalización, con el cometido de desarrollar las actividades relacionadas con la elaboración de normas.
+
+b) Entidades de acreditación, con los cometidos de realizar el reconocimiento formal de la competencia técnica de una entidad para certificar, inspeccionar o auditar la calidad, o un laboratorio de ensayo o de calibración y de verificar en el ámbito estatal el cumplimiento de las condiciones y requisitos técnicos exigidos para el funcionamiento de los Organismos de control y de los verificadores medioambientales.
+
+##### Artículo 4. Infraestructura acreditable para la calidad.
+
+Constituyen la infraestructura acreditable para la calidad las entidades y organismos que se encuadren en las siguientes categorías:
+
+a) Entidades de certificación, con el cometido de establecer la conformidad de una determinada empresa, producto, proceso, servicio o persona a los requisitos definidos en normas o especificaciones técnicas.
+
+b) Laboratorios de ensayo, con el cometido de llevar a cabo la comprobación de que los productos industriales cumplan con las normas o especificaciones técnicas que les sean de aplicación.
+
+c) Entidades auditoras y de inspección, con el cometido de determinar si las actividades y los resultados relativos a la callidad satisfacen a los requisitos previamente establecidos, y si estos requisitos se llevan a cabo efectivamente y son aptos para alcanzar los objetivos.
+
+d) Laboratorios de calibración industrial, con el cometido de facilitar la trazabilidad y uniformidad de los resultados de medida.
+
+##### Artículo 5. Infraestructura acreditable para la seguridad industrial.
+
+Constituyen la infraestructura para la seguridad industrial las entidades y organismos que se encuadren en las siguientes categorías:
+
+a) Organismos de control, con el cometido de realizar en el ámbito reglamentario, en materia de seguridad industrial, actividades de certificación, ensayo, inspección o auditoría.
+
+b) Verificadores medioambientales, con el cometido de examinar las políticas, programas, sistemas de gestión, procedimientos de evaluación y de auditoría y declaraciones en materia de medio ambiente industrial, así como de realizar la validación de estas últimas.
+
+##### Artículo 6. Agentes que realicen actividades múltiples.
+
+1\. La acreditación para desempeñar tareas determinadas de una actividad no presupondrá la acreditación para desempeñar las restantes que desarrolle la entidad, si bien, en el caso de solicitud de acreditación de varias, ésta deberá llevarse a cabo de modo que se evite la evaluación múltiple.
+
+2\. Los agentes acreditados para realizar más de una de las actividades propias de la infraestructura para la calidad y la seguridad industrial deberán tener establecidos y documentados los mecanismos necesarios que garanticen el cumplimiento de las condiciones, requisitos y obligaciones establecidas en el presente Reglamento para cada una de dichas actividades.
+
+##### Artítulo 7. Acceso a actividades e instalaciones industriales.
+
+1\. Los titulares o responsables de instalaciones sujetas a inspección y control por seguridad industrial están obligados a permitir el acceso a las mismas a los expertos de los organismos de control que hayan sido contratados directamente por la empresa para el control de la seguridad de sus instalaciones, o que realicen una inspección de la seguridad de las mismas por encargo de la Administración pública competente en materia de industria del territorio donde radiquen dichas instalaciones, facilitándoles la información y documentación sobre las mismas y sus condiciones de funcionamiento que sean necesarias para ello.
+
+2\. La obligación establecida en el punto anterior se extiende a los titulares de los Organismos de control, verificadores medioambientales, entidades de certificación, laboratorios de ensayo, entidades auditoras y de inspección y laboratorios de calibración, respecto a los expertos de la entidad de acreditación a través de la cual se acrediten.
+
+## CAPÍTULO II — Infraestructura común para la calidad y seguridad industrial
+
+### Sección 1.ª Organismos de normalización
+
+##### Artículo 8. Naturaleza y finalidad.
+
+Los Organismos de normalización son entidades privadas sin ánimo de lucro, cuya finalidad es desarrollar en el ámbito estatal las actividades relacionadas con la elaboración de normas, mediante las cuales se unifiquen criterios respecto a determinadas materias y se posibilite la utilización de un lenguaje común en campos de actividad concretos.
+
+##### Artículo 9. Reconocimiento del Organismo y comunicación de datos al Registro Integrado Industrial.
+
+1\. La Administración pública competente en materia de calidad y seguridad industrial, previo informe del Consejo de Coordinación de la Seguridad Industrial, podrá reconocer las entidades que habrán de desarrollar tareas de normalización en el marco de la presente disposición.
+
+2\. Para su reconocimiento la entidad deberá presentar a la Administración pública competente en materia de calidad y seguridad industrial la siguiente documentación:
+
+a) Declaración de la naturaleza jurídica, propiedad y fuentes de financiación de la entidad.
+
+b) Organigrama que detalle su estructura funcional, con especificación de los cometidos de cada uno de sus órganos dentro de ella.
+
+c) Estatutos por los que se rige la entidad.
+
+d) Memoria justificativa de los recursos materiales con que cuenta para desempeñar la actividad.
+
+e) Relación de su personal técnico permanente, indicando titulación profesional y experiencia en el campo de la normalización.
+
+f) Declaración jurada de que su personal y, en su caso, la entidad no están incursos en las incompatibilidades que les sean de aplicación.
+
+g) Documentación acreditativa de las relaciones o acuerdos técnicos con otras entidades especializadas similares, nacionales o extranjeras.
+
+3\. La Administración pública competente en materia de calidad y seguridad industrial remitirá copia de la citada documentación a la Secretaría del Consejo de Coordinación de la Seguridad Industrial, a fin de que por éste se emita informe respecto a la capacidad de la entidad que se pretende reconocer para asumir funciones de normalización.
+
+4\. La Administración pública competente en materia de calidad y seguridad industrial, a la vista del informe positivo del Consejo de Coordinación de la Seguridad Industrial sobre los estatutos de la entidad, así como sobre el cumplimiento de las condiciones y requisitos exigidos, podrá reconocerla como Organismo de normalización en el marco del presente Reglamento, debiendo notificar al Consejo dicho reconocimiento.
+
+5\. Una vez reconocido el Organismo de normalización, el órgano competente, de oficio, incluirá sus datos en el Registro Integrado Industrial.
+
+6\. La Administración pública que lo reconoció podrá suspender temporalmente o anular el reconocimiento otorgado, cuando se compruebe que el Organismo de normalización ha dejado de cumplir los requisitos y obligaciones establecidos en los artículos 10 y 11 de este Reglamento, debiendo notificar al Consejo de Coordinación de la Seguridad Industrial dichas actuaciones.
+
+> Se modifica el título y el apartado 5 por el art. único.1 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).
+
+##### Artículo 10. Condiciones y requisitos de organización y funcionamiento.
+
+El Organismo de normalización deberá actuar con imparcialidad, independencia e integridad y llevar a cabo sus funciones con solvencia técnica y financiera, para lo cual deberá cumplir las siguientes condiciones y requisitos:
+
+a) Tener personalidad jurídica propia.
+
+b) Organizarse de acuerdo con lo establecido en las normas que emanen de la Unión Europea para conseguir su equiparación con otros organismos similares de los Estados miembros.
+
+c) Contener en su estructura organizativa órganos de gobierno y representación donde participen de forma equilibrada todos los sectores e intereses de la actividad económica y social en la normalización y una representación de las Administraciones públicas designada por el Consejo de Coordinación de la Seguridad Industrial, con igual número de representantes de la Administración General del Estado y la Administración Autonómica.
+
+d) En la comisión permanente de los órganos de gobierno para la vigilancia de la gestión del organismo participará un representante de la Administración pública competente en materia de calidad y seguridad industrial que generó funcionalmente su constitución y consecuente reconocimiento.
+
+e) Separar en su organización los aspectos técnicos de los de dirección, gobierno y representación, debiendo estar estructurados los primeros de manera que la imparcialidad de sus actuaciones esté garantizada respecto a intereses de grupo.
+
+f) Tener carácter multisectorial y funcionar a través de Comités Sectoriales de Normalización que integren a los agentes sociales, económicos y públicos interesados. El inicio de las actividades de estos Comités requiere autorización previa de la Administración pública que reconoció al Organismo.
+
+g) Disponer de los medios materiales apropiados para el desarrollo y difusión de sus actividades.
+
+h) Disponer del personal permanente adecuado al tipo, extensión y volumen de la actividad a desempeñar.
+
+i) Integrarse en las organizaciones europeas e internacionales de normalización existentes y participar en las tareas de elaboración de normas dentro de dichas organizaciones, asumiendo, cuando proceda, responsabilidades técnicas directas en las mismas.
+
+j) Mantener un sistema que permita demostrar en cualquier momento su solvencia financiera, así como que dispone de los recursos económicos requeridos para asegurar la continuidad del sistema de normalización.
+
+k) Las actividades del personal técnico del organismo que actúe en el ámbito de la normalización son incompatibles con cualquier vinculación técnica, comercial, financiera o de cualquier otro tipo que pudiera afectar a su independencia e influenciar el resultado del proceso de normalización.
+
+l) Separar jurídica, funcional y contablemente las actividades de normalización de cualquier actividad de evaluación de la conformidad.
+
+m) Garantizar que sus actuaciones como organismo de normalización se ajustan al principio de no discriminación, asegurando la igualdad de trato y evitando prácticas discriminatorias.
+
+> Se añaden las letras l) y m) por el art. 2.1 del Real Decreto 1072/2015, de 27 de noviembre. [Ref. BOE-A-2015-13530](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13530).
+
+##### Artículo 11. Obligaciones.
+
+Con carácter general el Organismo de normalización deberá cumplir las siguientes obligaciones:
+
+a) Cumplir en todo momento las condiciones que sirvieron de base a su reconocimiento. Cualquier cambio de las mismas deberá ser autorizado por la Administración que lo reconoció, previo informe del Consejo de Coordinación de la Seguridad Industrial.
+
+b) Elevar anualmente a la Administración pública que lo reconoció su propuesta de Programa Anual de Normas para el siguiente ejercicio, a fin de su integración en el Plan Anual de Normalización española.
+
+c) Adecuar anualmente sus medios, organización y plan de actuaciones en la forma más conveniente a sus cometidos, de conformidad con la Administración pública que lo reconoció, la cual se establecerá formalmente suscribiendo un convenio anual de colaboración.
+
+d) Desarrollar el Programa Anual de Normas que le corresponda.
+
+e) Remitir periódicamente al órgano competente de la Administración Pública que lo reconoció la relación de proyectos de normas en fase de aprobación, para su sometimiento a información pública en el "Boletín Oficial del Estado".
+
+f) Remitir periódicamente al órgano competente de la Administración Pública que lo reconoció la relación de normas aprobadas y anuladas en dicho período, identificadas por su título y código numérico, para su publicación en el "Boletín Oficial del Estado".
+
+g) Mantener un registro permanentemente actualizado de normas españolas en tramitación y editadas, así como durante el período necesario las anuladas que afecten a la legislación nacional.
+
+h) Dar cuenta al órgano competente de la Administración pública que lo reconoció del inicio y la finalización de los procesos de revisión o anulación de normas españolas que tengan incidencia sobre reglamentaciones de seguridad industrial.
+
+i) Llevar a cabo las funciones de edición y venta de normas, cuyos precios se fijarán de común acuerdo con la Administración Pública que lo reconoció.
+
+j) Tener a disposición del público el catálogo de normas españolas actualizado.
+
+k) Disponer de un fondo documental de textos actualizados de las normas españolas, a disposición del público, para su consulta de forma gratuita, así como atender las peticiones de información que se le realicen sobre las normas o proyectos de normas.
+
+l) Disponer de un medio propio de difusión, editado con periodicidad mínima trimestral, que informe sobre las novedades en materia de normalización de organismos nacionales e internacionales.
+
+m) Facilitar al órgano competente de la Administración pública que lo reconoció la información y asistencia técnica que precise en materia de normalización.
+
+n) Facilitar al Consejo de Coordinación de la Seguridad Industrial toda la información que les sea requerida en relación con su organización, gestión y actividades y con su solvencia técnica y financiera.
+
+o) Facilitar, a requerimiento de las Administraciones públicas, las normas cuyas referencias se incluyan en los reglamentos por ellas elaborados.
+
+> Se modifican las letras d), e), f), i) y j) por el art. 2.2 del Real Decreto 1072/2015, de 27 de noviembre. [Ref. BOE-A-2015-13530](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13530).
+
+##### Artículo 12. Subvenciones.
+
+El Organismo de normalización podrá percibir subvenciones con cargo a los presupuestos de la Administración pública que lo reconozca, destinadas a garantizar el equilibrio de sus resultados de gestión en el ámbito de la normalización. La concesión de las subvenciones se ajustará a lo dispuesto en la legislación vigente y serán objeto de control y fiscalización de acuerdo con lo dispuesto en las leyes.
+
+##### Artículo 13. Control de actuación.
+
+1\. Sin perjuicio de las responsabilidades en que puedan incurrir el Organismo de normalización derivadas de sus actuaciones, el control del cumplimiento de las obligaciones contenidas en el artículo 11 de este Reglamento corresponde a la Administración pública que lo reconoció.
+
+2\. A los efectos de facilitar el citado control, cada Organismo de normalización remitirá anualmente a la Administración pública que lo reconoció una memoria completa de sus actividades normalizadoras, así como un informe de su actividad económica en el ámbito de la normalización, efectuado por una entidad auditora inscrita en uno de los Registros de Auditores existentes en España.
+
+### Sección 2.ª Entidades de acreditación
+
+##### Artículo 14. Naturaleza y finalidad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1715/2010 de 17 de diciembre. [Ref. BOE-A-2011-398](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-398).
+
+##### Artículo 15. Designación e inscripción en el Registro de Establecimientos Industriales.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1715/2010 de 17 de diciembre. [Ref. BOE-A-2011-398](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-398).
+
+##### Artículo 16. Condiciones y requisitos de organización y funcionamiento.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1715/2010 de 17 de diciembre. [Ref. BOE-A-2011-398](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-398).
+
+##### Artículo 17. Obligaciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1715/2010 de 17 de diciembre. [Ref. BOE-A-2011-398](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-398).
+
+##### Artículo 18. Subvenciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1715/2010 de 17 de diciembre. [Ref. BOE-A-2011-398](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-398).
+
+##### Artículo 19. Control de actuación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1715/2010 de 17 de diciembre. [Ref. BOE-A-2011-398](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-398).
+
+## CAPÍTULO III — Infraestructura acreditable para la calidad
+
+### Sección 1.ª Entidades de certificación
+
+##### Artículo 20. Naturaleza y finalidad.
+
+Las entidades de certificación son las personas naturales o jurídicas cuya finalidad es la de establecer la conformidad, solicitada con carácter voluntario, de una determinada empresa, producto, proceso, servicio o persona a los requisitos a los requisitos definidos en normas o especificaciones técnicas.
+
+> Se modifica por el art. único.3 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).
+
+##### Artículo 21. Fomento de la certificación.
+
+Sin perjuicio de las actuaciones que las Comunidades Autónomas competentes en la materia desarrollen en su ámbito territorial y en colaboración con las mismas, y de acuerdo con las orientaciones dadas por la Comisión para la Competitividad Industrial, el Ministerio de Industria y Energía fomentará:
+
+a) La existencia de una infraestructura de entidades de certificación acreditadas que cubran en el ámbito nacional las necesidades de certificación en materia de calidad.
+
+b) El uso de marcas nacionales de calidad de productos y empresas, como forma de potenciar y respaldar la imagen y calidad de los productos nacionales.
+
+##### Artículo 22. Acreditación.
+
+Las entidades de certificación deberán actuar con imparcialidad y llevar a cabo sus funciones con solvencia técnica, para lo cual deberán cumplir las siguientes condiciones y requisitos:
+
+a) Ser acreditadas por una entidad de acreditación de las establecidas en el capítulo II de este Reglamento, de forma que sus actuaciones sean reconocidas a nivel comunitario e internacional.
+
+b) Para ser acreditadas, las entidades de certificación deberán cumplir las normas que les sean de aplicación de la serie UNE 66.500 (EN 45000).
+
+##### Artículo 23. Comunicación para la inclusión en el Registro Integrado Industrial.
+
+Las entidades de certificación deberán presentar, ante el órgano competente de la comunidad autónoma donde inicien su actividad o radiquen sus instalaciones, una comunicación, de acuerdo a lo establecido en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y su normativa de desarrollo.
+
+Los órganos competentes de las comunidades autónomas deberán posibilitar que la presentación de la comunicación anterior sea realizada por medios electrónicos.
+
+El órgano competente de la comunidad autónoma asignará, de oficio, un número de identificación a la entidad y dará traslado inmediato de los datos al Ministerio de Industria, Turismo y Comercio para su inclusión en el Registro Integrado Industrial.
+
+> Se modifica por el art. único.4 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).
+
+##### Artículo 24. Obligaciones.
+
+Con carácter general las entidades de certificación deberán cumplir las siguientes obligaciones:
+
+a) Cumplir en todo momento las condiciones que sirvieron de base a su acreditación, comunicando cualquier modificación de las mismas a la entidad que la concedió.
+
+b) Desarrollar sus actividades de acuerdo con los criterios y procedimientos establecidos por las normas técnicas europeas e internacionales sobre certificación, y en concreto las que les sean de aplicación de la serie UNE 66.500 (EN 45000).
+
+c) Facilitar a las Administraciones públicas competentes la información y asistencia técnica que precisen en materia de certificación.
+
+##### Artículo 25. Incompatibilidades.
+
+Las entidades de certificación no podrán certificar empresas, productos, procesos o servicios, cuando hayan participado en las actividades de asesoría o consultoría previas relativas a tales certificaciones.
+
+### Sección 2.ª Laboratorios de ensayo
+
+##### Artículo 26. Naturaleza y finalidad.
+
+Los laboratorios de ensayo son las personas naturales o jurídicas cuya finalidad es llevar a cabo la comprobación, solicitada con carácter voluntario, de que los productos cumplen con las normas o especificaciones técnicas que les sean de aplicación.
+
+> Se modifica por el art. único.5 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).
+
+##### Artículo 27. Fomento de los ensayos.
+
+Sin perjuicio de las actuaciones que las Comunidades Autónomas competentes en la materia desarrollen en su ámbito territorial y en colaboración con las mismas, y de acuerdo con las orientaciones dadas por la Comisión para la Competitividad Industrial, el Ministerio de Industria y Energía fomentará:
+
+a) La existencia de una infraestructura de laboratorios de ensayo acreditados que garanticen la prestación, tanto cuantitativa como cualitativa, de los servicios necesarios para atender la demanda nacional en este campo.
+
+b) El establecimiento, implantación y mejora de los sistemas de calidad de los laboratorios de ensayo, de acuerdo a las normas europeas aplicables.
+
+##### Artículo 28. Acreditación.
+
+Los laboratorios de ensayo deberán asegurar su imparcialidad y llevar a cabo sus funciones con solvencia técnica, para lo cual deberán cumplir las siguientes condiciones y requisitos:
+
+a) Ser acreditados por una entidad de acreditación de las establecidas en el capítulo II de este Reglamento, de forma que sus actuaciones sean reconocidas a nivel comunitario e internacional.
+
+b) Para ser acreditados, los laboratorios de ensayo deberán cumplir las normas que les sean de aplicación de la serie UNE 66.500 (EN 45000).
+
+##### Artículo 29. Comunicación para la inclusión en el Registro Integrado Industrial.
+
+Los laboratorios de ensayo deberán presentar, ante el órgano competente de la comunidad autónoma donde inicien su actividad o radiquen sus instalaciones, una comunicación, de acuerdo a lo establecido en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y su normativa de desarrollo.
+
+Los órganos competentes de las comunidades autónomas deberán posibilitar que la presentación de la comunicación anterior sea realizada por medios electrónicos.
+
+El órgano competente de la comunidad autónoma asignará, de oficio, un número de identificación al laboratorio y dará traslado inmediato de los datos al Ministerio de Industria, Turismo y Comercio para su inclusión en el Registro Integrado Industrial.
+
+> Se modifica por el art. único.6 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).
+
+##### Artículo 30. Obligaciones.
+
+Con carácter general los laboratorios de ensayo deberán cumplir las siguientes obligaciones:
+
+a) Cumplir en todo momento las condiciones que sirvieron de base a su acreditación, comunicando cualquier modificación de las mismas a la entidad que la concedió.
+
+b) Desarrollar sus actividades de acuerdo con los criterios y procedimientos establecidos por las normas técnicas europeas e internacionales sobre ensayos, y en concreto las que les sean de aplicación de la serie UNE 66.500 (EN 45000).
+
+c) Facilitar a las Administraciones públicas competentes, la información y asistencia técnica que precisen en materia de ensayos.
+
+### Sección 3.ª Entidades auditoras y de inspección
+
+##### Artículo 31. Naturaleza y finalidad.
+
+Las entidades auditoras y de inspección, en adelante entidades auditoras, son las personas naturales o jurídicas cuya finalidad es determinar, a solicitud de carácter voluntario, si las actividades y los resultados relativos a la calidad satisfacen a los requisitos previamente establecidos y si estos requisitos se llevan a cabo efectivamente y son aptos para alcanzar los objetivos.
+
+> Se modifica por el art. único.7 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).
+
+##### Artículo 32. Fomento de las auditorías.
+
+Sin perjuicio de las actuaciones que las Comunidades Autónomas competentes en la materia desarrollen en su ámbito territorial y en colaboración con las mismas, y de acuerdo con las orientaciones dadas por la Comisión para la Competitividad Industrial, el Ministerio de Industria y Energía fomentará:
+
+a) La existencia de una infraestructura de entidades auditoras acreditadas que garanticen la prestación, tanto cuantitativa como cualitativa, de los servicios necesarios para atender la demanda nacional en este campo.
+
+b) El establecimiento, implantación y mejora de los sistemas de calidad de las entidades auditoras, de acuerdo a las normas europeas aplicables.
+
+##### Artículo 33. Acreditación.
+
+Las entidades auditoras deberán actuar con imparcialidad y llevar a cabo sus funciones con solvencia técnica, para lo cual deberán cumplir las siguientes condiciones y requisitos:
+
+a) Ser acreditadas por una entidad de acreditación de las establecidas en el capítulo II de este Reglamento, de forma que sus actuaciones sean reconocidas a nivel comunitario e internacional.
+
+b) Para ser acreditadas, las entidades auditoras deberán cumplir las normas que les sean de aplicación de la serie UNE 66.500 (EN 45000).
+
+##### Artículo 34.Comunicación para la inclusión en el Registro Integrado Industrial.
+
+Las entidades auditoras deberán presentar, ante el órgano competente de la comunidad autónoma donde inicien su actividad o radiquen sus instalaciones, una comunicación, de acuerdo a lo establecido en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y su normativa de desarrollo.
+
+Los órganos competentes de las comunidades autónomas deberán posibilitar que la presentación de la comunicación anterior sea realizada por medios electrónicos.
+
+El órgano competente de la comunidad autónoma asignará, de oficio, un número de identificación a la entidad y dará traslado inmediato de los datos al Ministerio de Industria, Turismo y Comercio para su inclusión en el Registro Integrado Industrial.
+
+> Se modifica por el art. único.8 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).
+
+##### Artículo 35. Obligaciones.
+
+Con carácter general, las entidades auditoras deberán cumplir las siguientes obligaciones:
+
+a) Cumplir en todo momento las condiciones que sirvieron de base a su acreditación, comunicando cualquier modificación de las mismas a la entidad que la concedió.
+
+b) Desarrollar sus actividades de acuerdo con los procedimientos establecidos por las normas técnicas europeas e internacionales sobre auditorías de calidad, y en concreto las que les sean de aplicación de la serie UNE 66.500 (EN 45000).
+
+c) Facilitar a las Administraciones públicas competentes la información y asistencia técnica que precisen en materia de auditoría.
+
+### Sección 4.ª Laboratorios de calibración industrial
+
+##### Artículo 36. Naturaleza y finalidad.
+
+Los laboratorios de calibración industrial son las personas naturales o jurídicas cuya finalidad es facilitar, a solicitud de carácter voluntario, la trazabilidad y uniformidad de los resultados de medida.
+
+> Se modifica por el art. único.9 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).
+
+##### Artículo 37. Fomento de las calibraciones.
+
+Sin perjuicio de las actuaciones que las Comunidades Autónomas competentes en la materia desarrollen en su ámbito territorial y en colaboración con las mismas, y de acuerdo con las orientaciones dadas por la Comisión para la Competitividad Industrial, el Ministerio de Industria y Energía fomentará:
+
+a) La existencia de una infraestructura de laboratorios de calibración industrial acreditados que garanticen la prestación, tanto cuantitativa como cualitativa, de los servicios necesarios para atender la demanda nacional en este campo.
+
+b) El establecimiento, implantación y mejora de los sistemas de calidad de los laboratorios de calibración industrial, de acuerdo a las normas europeas aplicables.
+
+##### Artículo 38. Acreditación.
+
+Los laboratorios de calibración industrial deberán actuar con imparcialidad y llevar a cabo sus funciones con solvencia técnica, para lo cual deberán cumplir las siguientes condiciones y requisitos:
+
+a) Ser acreditados por una entidad de acreditación de las establecidas en el capítulo II de este Reglamento, de forma que sus actuaciones sean reconocidas a nivel comunitario e internacional.
+
+b) Para ser acreditados, los laboratorios de calibración industrial deberán cumplir las normas que les sean de aplicación de la serie UNE 66.500 (EN 45000).
+
+c) Asimismo, para ser acreditados deberán disponer de patrones de medida en las áreas en que se deseen acreditar, que tengan trazabilidad, directa o indirecta, a los patrones nacionales de las unidades legales de medida o a patrones internacionales con reconocimiento nacional.
+
+##### Artículo 39. Comunicación para la inclusión en el Registro Integrado Industrial.
+
+Los laboratorios de calibración industrial deberán presentar, ante el órgano competente de la comunidad autónoma donde inicien su actividad o radiquen sus instalaciones, una comunicación, de acuerdo a lo establecido en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y su normativa de desarrollo.
+
+Los órganos competentes de las comunidades autónomas deberán posibilitar que la presentación de la comunicación anterior sea realizada por medios electrónicos.
+
+El órgano competente de la comunidad autónoma asignará, de oficio, un número de identificación al laboratorio y dará traslado inmediato de los datos al Ministerio de Industria, Turismo y Comercio para su inclusión en el Registro Integrado Industrial.
+
+> Se modifica por el art. único.10 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).
+
+##### Artículo 40. Obligaciones.
+
+Con carácter general, los laboratorios de calibración industrial deberán cumplir las siguientes obligaciones:
+
+a) Cumplir en todo momento las condiciones que sirvieron de base a su acreditación, comunicando cualquier modificación de las mismas a la entidad que la concedió.
+
+b) Desarrollar sus actividades de acuerdo con los procedimientos establecidos por las normas técnicas europeas e internacionales sobre calibración, y en concreto las que les sean de aplicación de la serie UNE 66.500 (EN 45000).
+
+c) Facilitar a las Administraciones públicas competentes la información y asistencia técnica que precisen en materia de calibración.
+
+## CAPÍTULO IV — Infraestructura acreditable para la Seguridad Industrial
+
+### Sección 1.ª Organismos de control
+
+##### Artículo 41. Requisitos de los organismos de control.
+
+Los organismos de control establecidos en el artículo 15.1 de la Ley 21/1992, de 16 de julio, de Industria, son aquellas personas físicas o jurídicas que teniendo capacidad de obrar y disponiendo de los medios técnicos, materiales y humanos e imparcialidad e independencia necesarias, pueden verificar el cumplimiento de las condiciones y requisitos de seguridad establecidos en los reglamentos de seguridad para los productos e instalaciones, para lo cual deberán cumplir las siguientes condiciones y requisitos, en función de su naturaleza y actividad:
+
+1\. Los organismos de control serán independientes de la organización, instalación o producto que evalúen.
+
+2\. Los organismos de control, sus máximos directivos y el personal responsable de la realización de las tareas de evaluación de la conformidad no serán el diseñador, el fabricante, el proveedor, el instalador, el comprador, el dueño, el usuario o el encargado del mantenimiento de productos o instalaciones sujetos a los documentos reglamentarios, ni el representante autorizado de cualquiera de ellos. Ello no será óbice para que puedan usar los productos o instalaciones evaluados que sean necesarios para el funcionamiento del organismo de control o para que se utilicen los productos o instalaciones con fines personales.
+
+Los organismos de control, sus máximos directivos y el personal responsable de la realización de las tareas de evaluación de la conformidad no intervendrán directamente en el diseño, la fabricación o construcción, la comercialización, la instalación, el uso o el mantenimiento de dichos productos o instalaciones, ni representarán a las partes que participan en estas actividades. No efectuarán ninguna actividad que pueda entrar en conflicto con su independencia de criterio y su integridad en relación con las actividades de evaluación de la conformidad para las que estén acreditados.
+
+Los organismos de control se asegurarán de que las actividades de sus filiales o subcontratistas no afecten a la confidencialidad, objetividad e imparcialidad de sus actividades de evaluación de la conformidad.
+
+3\. Los organismos de control y su personal llevarán a cabo las actividades de evaluación de la conformidad con el máximo nivel de integridad profesional y con la competencia técnica exigida para el campo específico, y estarán libres de cualquier presión o incentivo, especialmente de índole financiera, que pudiera influir en su apreciación o en el resultado de sus actividades de evaluación de la conformidad, en particular la que pudieran ejercer personas o grupos de personas que tengan algún interés en los resultados de estas actividades.
+
+A efectos del cumplimiento de los requisitos de competencia técnica, imparcialidad e independencia, el organismo de control deberá cumplir lo establecido en la norma armonizada de la serie UNE EN/ISO 17000 que le sea de aplicación y obtener la correspondiente acreditación de acuerdo a lo indicado en el artículo 42.
+
+4\. Los organismos de control serán capaces de llevar a cabo todas las tareas de evaluación de la conformidad que les sean asignadas de acuerdo con la normativa aplicable respecto a las actividades para las que hayan sido acreditados, independientemente de que realicen las tareas los propios organismos o se realicen en su nombre y bajo su responsabilidad.
+
+En todo momento, para cada procedimiento de evaluación de la conformidad y para cada tipo o categoría de productos o instalaciones para los que han sido acreditados, los organismos de control dispondrán:
+
+a) del personal necesario con conocimientos técnicos y experiencia suficiente y adecuada para realizar las tareas de evaluación de la conformidad;
+
+b) de los procedimientos con arreglo a los cuales se efectúa la evaluación de la conformidad, garantizando la transparencia y la reproducibilidad de estos procedimientos. Dispondrán de las políticas y procedimientos adecuados que permitan distinguir entre las tareas efectuadas como organismo de control y cualquier otra actividad;
+
+c) de procedimientos para llevar a cabo sus actividades teniendo debidamente en cuenta el tamaño de las empresas, el sector en que operan, su estructura, el grado de complejidad de la tecnología del producto o instalación de que se trate y si el proceso de producción, en su caso, es en serie.
+
+Dispondrán también de los medios necesarios para realizar adecuadamente las tareas técnicas y administrativas relacionadas con las actividades de evaluación de la conformidad y tendrán acceso a todo el equipo o las instalaciones que necesite.
+
+5\. El personal que efectúe las actividades de evaluación de la conformidad tendrá:
+
+a) una buena formación técnica y profesional para realizar todas las actividades de evaluación de la conformidad correspondientes al ámbito para el que ha sido acreditado el organismo de control;
+
+b) un conocimiento y una comprensión adecuados de los requisitos, de las normas aplicables y de las disposiciones pertinentes de la reglamentación correspondientes;
+
+c) la capacidad necesaria para la elaboración de los certificados, los documentos y los informes que demuestren que se han efectuado las evaluaciones.
+
+6\. Deberá garantizarse la imparcialidad del organismo de control, de sus máximos directivos y de su personal de evaluación.
+
+La remuneración de los máximos directivos y del personal de evaluación de un organismo de control no debe influir en el resultado de las actividades de evaluación y en ningún caso dependerá de los resultados de dichas evaluaciones.
+
+7\. El personal del organismo de control deberá observar el secreto profesional acerca de toda la información recabada en el marco de sus tareas, con arreglo a la reglamentación o normativa aplicable que lo contemple, salvo con respecto a las autoridades públicas.
+
+Deberán protegerse los derechos de propiedad.
+
+> Se modifica por el art. 2.3 del Real Decreto 1072/2015, de 27 de noviembre. [Ref. BOE-A-2015-13530](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13530).
+
+> Se modifica por el art. único.11 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).
+
+##### Artículo 42. Acreditación de los organismos de control.
+
+1\. Quienes deseen ejercer su actividad como organismos de control precisarán de su acreditación previa por una entidad nacional de acreditación de conformidad con el Real Decreto 1715/2010, de 17 de diciembre, por el que se designa a la Entidad Nacional de Acreditación (ENAC) como organismo nacional de acreditación de acuerdo con lo establecido en el Reglamento (CE) n<sup>o</sup> 765/2008 del Parlamento Europeo y del Consejo, de 9 de julio de 2008, por el que se establecen los requisito de acreditación y vigilancia del mercado relativos a la comercialización de los productos y por el que se deroga el Reglamento (CEE) n<sup>o </sup>339/93.
+
+2\. El interesado deberá presentar a la entidad de acreditación una solicitud de acreditación.
+
+3\. La entidad de acreditación evaluará el cumplimiento de los requisitos establecidos en la norma armonizada aplicable y en el artículo 41.
+
+4\. Cuando sobre la solicitud recaiga decisión positiva de acreditación, se emitirá, por parte de la entidad de acreditación, un certificado de acreditación en el que se especifiquen los ámbitos reglamentarios, los productos o instalaciones específicos y, en su caso, los procedimientos de evaluación, para los que se le ha acreditado.
+
+5\. Cuando sobre una solicitud recaiga decisión denegatoria de la acreditación, el interesado podrá reclamar manifestando su disconformidad ante la entidad de acreditación.
+
+> Se modifica por el art. 2.3 del Real Decreto 1072/2015, de 27 de noviembre. [Ref. BOE-A-2015-13530](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13530).
+
+> Se declara la nulidad de los apartados 1 y 2.a) en cuanto exigen la autorización, previa acreditación, para que los organismos de control ejerzan sus funciones, y que los requisitos establecidos en los apartados 2.b) y 2.c), 4.b) y 4.c) no son aplicables a las personas físicas, por Sentencia del TS de 27 de febrero de 2012. [Ref. BOE-A-2012-4023](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4023).
+
+> Se modifica por el art. único.12 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).
+
+##### Artículo 43. Habilitación de organismos de control.
+
+1\. Quienes, habiendo obtenido su acreditación, deseen ejercer su actividad como organismo de control deberán presentar previamente una declaración responsable ante la autoridad competente, de acuerdo con lo establecido en el artículo 15.4 de la Ley 21/1992, de 16 de julio y en el artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Mediante dicha declaración responsable deberán manifestar las actividades que pretende desempeñar y que para ello cumple los pertinentes requisitos exigidos en el artículo 41 y posee la documentación que así lo demuestra, en particular el certificado de acreditación, de acuerdo con el artículo 42, que cubra las actividades declaradas y la documentación acreditativa de disponer de un seguro, aval u otra garantía financiera equivalente que cubra su responsabilidad civil, por una cuantía mínima, por siniestro, de 1.200.000 euros, sin que dicha cuantía limite esta responsabilidad, comprometiéndose a mantener esa garantía durante la vigencia de la actividad y a facilitar la información necesaria a la autoridad competente para el control de la actividad. En dicha declaración incluirá los datos necesarios, de acuerdo al Real Decreto 559/2010, de 7 de mayo, por el que se aprueba el Reglamento del Registro Integrado Industrial, para su inscripción por la autoridad competente en dicho registro.
+
+La declaración responsable podrá presentarse por medios electrónicos.
+
+2\. No se podrá exigir la presentación de documentación acreditativa del cumplimiento de los requisitos junto con la declaración responsable. No obstante, esta documentación deberá estar disponible para su presentación inmediata ante la Administración Pública competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control.
+
+3\. La declaración responsable, desde el momento de su presentación, habilita al organismo de control para actuar en todo el ámbito del Estado y por tiempo indefinido, sin que puedan imponerse requisitos o condiciones adicionales, sin perjuicio, en su caso, de lo que disponga la normativa comunitaria a efectos de su reconocimiento en la Unión Europea.
+
+4\. Los Organismos de control que vayan a realizar actividades como consecuencia de normativa de la Unión Europea, antes de iniciar su actividad, cumplirán lo que disponga dicha normativa a efectos de su reconocimiento en la Unión Europea.
+
+El Ministerio de Industria, Energía y Turismo notificará a la Comisión Europea y a los demás Estados miembros de la Unión Europea los organismos habilitados a realizar, para terceros, tareas de evaluación de la conformidad con las normas armonizadas o especificaciones técnicas correspondientes. El organismo de control notificado únicamente podrá realizar las actividades para las que ha sido habilitado, si la Comisión Europea y los demás Estados miembros no han formulado ninguna objeción en el plazo de dos semanas a partir de la notificación.
+
+El Ministerio de Industria, Energía y Turismo informará a la Comisión Europea y a los demás Estados miembros de la Unión Europea de todo cambio relevante posterior a la notificación que afecte a los organismos de control notificados.
+
+5\. Los organismos de control sin establecimiento en España que vayan a prestar sus servicios como consecuencia de reglamentación no armonizada a nivel europeo y que hayan sido legalmente habilitados como tales en otro Estado miembro de la Unión Europea, deben presentar una declaración responsable ante la autoridad competente de la Comunidad Autónoma donde vayan a iniciar su actividad en relación con:
+
+a) Ámbito de actividades para el que ha sido habilitado en el Estado miembro en el que está establecido.
+
+b) Cumplimiento de los requisitos de competencia técnica, e imparcialidad establecidos en el artículo 41.
+
+c) Disponibilidad del seguro, aval o garantía financiera equivalente establecida en este artículo.
+
+Tales requisitos se consideran necesarios y proporcionados para proteger riesgos para la salud y la seguridad. La declaración responsable habilita para prestar el servicio desde el mismo momento de su presentación.
+
+A los efectos de aplicación del artículo 46, se entenderá como autoridad de origen a la Comunidad Autónoma ante la que se haya presentado la declaración responsable.
+
+6\. En caso de cese de la actividad de un organismo de control, el titular de éste deberá entregar la documentación ligada a su actuación como tal al órgano competente de la Administración Pública donde presentó la declaración responsable.
+
+7\. El órgano competente de la Administración Pública que reciba la declaración responsable de un organismo de control lo inscribirá en el Registro Integrado Industrial, y si procede, comunicará al Ministerio de Industria, Energía y Turismo la habilitación aportando los datos necesarios para su notificación a la Comisión Europea y a los demás Estados Miembros.
+
+8\. Los organismos que evalúan la conformidad de los productos con las normas de seguridad de los juguetes se regirán por lo dispuesto en el Real Decreto 1205/2011, de 26 de agosto, sobre la seguridad de los juguetes, y los organismos que evalúan la conformidad de los productos con las normas de seguridad de los equipos de telecomunicación se regirán por lo dispuesto en la Ley 9/2014, de 9 de mayo, General de Telecomunicaciones y en su normativa de desarrollo.
+
+> Se modifica por el art. 2.3 del Real Decreto 1072/2015, de 27 de noviembre. [Ref. BOE-A-2015-13530](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13530).
+
+> Véase la Sentencia del TS de 29 de junio de 2011 [Ref. BOE-A-2011-13894](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13894)., sobre inaplicabilidad de la necesidad de autorización administrativa de los organismos de control.
+
+> Se modifica por el art. único.13 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).
+
+##### Artículo 44. Actuaciones de los organismos de control.
+
+1\. La verificación, por parte de los organismos de control, del cumplimiento de las condiciones de seguridad de diseños, productos, equipos, procesos e instalaciones industriales se efectuará mediante los procedimientos de evaluación de la conformidad reglamentariamente establecidos, y que deberán ser acordes, en su caso, con la normativa comunitaria, emitiéndose el protocolo, acta, informe o certificado correspondiente.
+
+2\. A tal fin, los titulares de los diseños, productos, equipos, procesos e instalaciones industriales a evaluar permitirán al personal del organismo de control el acceso a sus instalaciones, cuando así lo requiera la actividad de evaluación.
+
+3\. Asimismo, dichos titulares permitirán el acceso a los auditores de la entidad nacional de acreditación, acompañados por el personal del organismo de control, cuando sea necesario como parte del proceso de evaluación de éste.
+
+> Se modifica por el art. 2.3 del Real Decreto 1072/2015, de 27 de noviembre. [Ref. BOE-A-2015-13530](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13530).
+
+##### Artículo 45. Obligaciones.
+
+1\. Con carácter general, los organismos de control tendrán las siguientes obligaciones:
+
+a) Mantener las condiciones y requisitos que sirvieron de base para su acreditación, debiendo comunicar a la entidad de acreditación cualquier modificación de los mismos, la cual emitirá, si procede, un nuevo certificado de acreditación.
+
+b) Adoptar las medidas oportunas para salvaguardar, a todos los niveles de su organización, la confidencialidad de la información obtenida durante el desempeño de sus actividades.
+
+c) Resolver las solicitudes que les sean presentadas, emitiendo los protocolos, actas, informes y, en su caso, certificaciones que le sean exigibles.
+
+d) Indicar, en los protocolos, actas, informes o certificados que emitan en el desarrollo de sus actividades para las que ha sido acreditado, su condición de acreditado.
+
+e) Llevar registros en los que quede constancia de cuantos controles hayan realizado y de todos los protocolos, actas, informes y, en su caso, certificaciones que emitan en relación con los mismos
+
+f) Conservar para su posible consulta, durante el plazo de diez años, los expedientes, documentación y datos de los controles realizados.
+
+g) Notificar al titular del producto, equipo o instalación y, en su caso, al proyectista, al instalador o al conservador o mantenedor las deficiencias y anomalías encontradas referentes a los reglamentos de seguridad aplicables, indicando los plazos en que las mismas deban subsanarse, poniéndolo asimismo en conocimiento de la Administración Pública competente en materia de industria, en cuyo ámbito territorial desarrollen su actividad.
+
+h) Comunicar a la Administración Pública competente en materia de seguridad industrial en cuyo ámbito territorial desarrollen su actividad y al titular o responsable del producto, equipo o instalación industrial la necesidad de interrumpir la comercialización o el servicio del mismo cuando se aprecie que no ofrece las debidas garantías de seguridad industrial, proponiendo las medidas necesarias para corregir la situación.
+
+i) Adoptar medidas preventivas especiales, remitiendo con carácter inmediato la correspondiente notificación a las autoridades competentes, en los casos de grave riesgo de accidente o emergencia.
+
+j) En su caso, participar en las actividades pertinentes de normalización y las actividades del grupo de coordinación de organismos notificados establecido con arreglo a la legislación europea de armonización aplicable, asegurarse de que su personal de evaluación esté informado al respecto y aplicar a modo de directrices generales las decisiones y los documentos administrativos que resulten de las labores del grupo.
+
+k) Mantener las condiciones y requisitos que sirvieron de base para su declaración responsable, debiendo comunicar cualquier modificación de los mismos a la Administración Pública que recibió la declaración. La Administración Pública competente podrá realizar las actuaciones de control que considere oportunas y, en su caso, deberá comunicar a la Administración Pública donde se hubiere presentado la declaración responsable cualquier circunstancia relevante que pudiera dar lugar a la prohibición temporal del ejercicio de la actividad o incluso a la revocación de la habilitación.
+
+l) Contestar las reclamaciones que puedan recibirse de clientes, partes afectadas u otros afectados por sus actividades y mantener un registro con todas las reclamaciones recibidas y actuaciones adoptadas respecto a las mismas.
+
+m) Cumplir con lo establecido en este reglamento, en la legislación española y en la normativa europea.
+
+2\. Los organismos de control deberán facilitar a las Administraciones Públicas competentes para su habilitación y control la información que éstas les puedan requerir en relación con sus obligaciones y colaborarán con dichas Administraciones Públicas y con el Consejo de Coordinación de la Seguridad Industrial, prestando los servicios que en materia de seguridad industrial les sean solicitados.
+
+> Se modifica por el art. 2.3 del Real Decreto 1072/2015, de 27 de noviembre. [Ref. BOE-A-2015-13530](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13530).
+
+##### Artículo 46. Supervisión de las actuaciones de los organismos de control.
+
+1\. La supervisión de los organismos de control se llevará a cabo tal como establece la Ley 20/2013, de 9 de diciembre, de garantía de unidad de mercado, en su capítulo VI.
+
+2\. La actuación de los organismos de control se adecuará a la naturaleza de la actividad que constituya su objeto y será supervisada por la Administración Pública competente.
+
+3\. A efectos de facilitar esta supervisión, cada organismo de control remitirá anualmente a su autoridad de origen la siguiente información:
+
+a) Una memoria detallada relacionando las actuaciones realizadas en todas la Comunidades Autónomas en las que desarrolle las actividades para las que se halla habilitado, en virtud del artículo 43. Remitiendo la Autoridad de origen dicha información al resto de Comunidades Autónomas.
+
+b) Documento de la entidad de acreditación, que confirme el mantenimiento de las condiciones de acreditación.
+
+> Se modifica por el art. 2.3 del Real Decreto 1072/2015, de 27 de noviembre. [Ref. BOE-A-2015-13530](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13530).
+
+##### Artículo 47. Reclamaciones ante los organismos de control.
+
+Cuando un organismo de control emita un protocolo, acta, informe o certificación con resultado negativo del cumplimiento de las exigencias reglamentarias, el interesado podrá reclamar manifestando su disconformidad con el mismo ante el propio organismo de control y, en caso de no llegar a un acuerdo, ante la Administración Pública competente, a efectos de lo previsto en el artículo 16.2 de la Ley 21/1992, de 16 de julio, de Industria.
+
+> Se modifica por el art. 2.3 del Real Decreto 1072/2015, de 27 de noviembre. [Ref. BOE-A-2015-13530](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13530).
+
+##### Artículo 48. Extinción y suspensión temporal de las habilitaciones.
+
+1\. La habilitación a los organismos de control para el ejercicio de las actividades para los que han sido acreditados tendrá efectos por tiempo indefinido, sin perjuicio de lo que en su caso disponga la normativa comunitaria respecto a su reconocimiento en la Unión Europea, y siempre que se mantengan las condiciones de su otorgamiento, sin perjuicio de lo dispuesto en los apartados siguientes.
+
+2\. Durante la tramitación de los procedimientos sancionadores, de revocación o de inspección, podrá adoptarse por la Administración Pública competente, previa audiencia del interesado, la medida de suspensión de la eficacia de la habilitación, cuando concurra alguna de las circunstancias siguientes:
+
+a) El incumplimiento reiterado de las instrucciones impartidas por la Administración Pública competente.
+
+b) La negativa a admitir las inspecciones o verificaciones de la Administración Pública competente, o la obstrucción a su práctica.
+
+c) La suspensión de la acreditación por la entidad nacional de acreditación.
+
+d) Podrá, igualmente, acordarse la suspensión de las habilitaciones cuando concurran las circunstancias del artículo 10.2 de la Ley 21/1992, de 16 de julio, de Industria.
+
+La suspensión temporal de la habilitación implicará que el organismo de control de control deje de ejercer su actividad durante el período de vigencia de la misma.
+
+La suspensión finalizará cuando, previa subsanación de las irregularidades observadas, por la Administración Pública competente se acuerde la finalización de la suspensión.
+
+3\. Las habilitaciones podrán ser revocadas cuando concurran alguna de las causas que se indican a continuación:
+
+a) La inexactitud, falsedad u omisión, de carácter esencial, en la declaración responsable, de acuerdo con lo establecido en el artículo 71.bis.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+b) Retirada de la acreditación del artículo 42 por parte de la entidad de acreditación.
+
+c) Incumplimiento de los requisitos y obligaciones establecidos en la presente disposición, así como en el resto de normativa vigente, cuando dicho incumplimiento menoscabe gravemente la calidad de los servicios prestados o cuando el incumplimiento se produzca forma reiterada o dilatada en el tiempo.
+
+d) Extinción o pérdida de la personalidad jurídica de la entidad titular de la actividad, o fallecimiento o declaración de incapacidad de la persona física titular de la misma.
+
+Si durante la tramitación del procedimiento las irregularidades observadas son subsanadas, la Administración Pública competente podrá finalizar el procedimiento sin acordar la revocación de la habilitación.
+
+El procedimiento de extinción de la habilitación por revocación se iniciará de oficio por la Autoridad competente. Esta resolución se adoptará previa audiencia del interesado y podrá llevar aparejada la suspensión cautelar de la habilitación. Además, para las causas del apartado 3.a), la resolución de revocación podrá prever, dependiendo de la gravedad de las mismas, la imposibilidad de presentar por parte del organismo de control otra declaración responsable con el mismo objeto en un periodo de tiempo de seis meses. La resolución del procedimiento será motivada, previa instrucción del correspondiente procedimiento administrativo y deberá ser adoptada y notificada en el plazo máximo de seis meses.
+
+4\. El cese voluntario de la actividad por parte del organismo de control producirá la extinción de la vigencia de la habilitación, para lo cual dicho organismo deberá comunicar su intención de cesar en la actividad a la Administración Pública competente ante la que presentó su declaración responsable.
+
+> Se modifica por el art. 2.3 del Real Decreto 1072/2015, de 27 de noviembre. [Ref. BOE-A-2015-13530](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13530).
+
+### Sección 2.ª Verificadores medioambientales
+
+##### Artículo 49. Naturaleza y finalidad.
+
+Los verificadores medioambientales son entidades públicas o privadas o personas físicas, que se constituyen con la finalidad de realizar las funciones que se establecen para ellos en el Reglamento (CE) N.º 1221/2009 del Parlamento Europeo y del Consejo, de 25 de noviembre de 2009, relativo a la participación voluntaria de organizaciones en un sistema comunitario de gestión y auditoría medioambientales (EMAS), y por el que se derogan el Reglamento (CE) n.º 761/2001 y las Decisiones 2001/681/CE y 2006/193/CE de la Comisión. El régimen jurídico de estos verificadores será el previsto en la citada norma comunitaria así como en la normativa interna complementaria.
+
+> Se modifica por la disposición final 2 del Real Decreto 239/2013, de 5 de abril. [Ref. BOE-A-2013-3906](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3906).
+
+> Se modifica por el art. único.14 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).
+
+##### Artículo 50. Fomento de la ecogestión y ecoauditoría.
+
+Sin perjuicio de las actuaciones que las Comunidades Autónomas competentes en la materia desarrollen en su ámbito territorial y en colaboración con las mismas, el Ministerio de Industria y Energía fomentará:
+
+a) La existencia de una infraestructura de verificadores medioambientales acreditados que garanticen la prestación, tanto cuantitativa como cualitativa, de los servicios necesarios para atender la demanda nacional en este campo.
+
+b) El establecimiento e implantación de sistemas de ecogestión y ecoauditoría en las empresas, de acuerdo con los criterios y normas europeas aplicables.
+
+##### Artículo 51. Acreditación.
+
+**(Derogado)**.
+
+> Se deroga por la disposición final 2 del Real Decreto 239/2013, de 5 de abril. [Ref. BOE-A-2013-3906](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3906).
+
+> Se modifica por el art. único.15 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).
+
+##### Artículo 52. Funcionamiento.
+
+**(Derogado)**.
+
+> Se deroga por la disposición final 2 del Real Decreto 239/2013, de 5 de abril. [Ref. BOE-A-2013-3906](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3906).
+
+> Se modifica por el art. único.16 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).
+
+##### Artículo 53. Obligaciones.
+
+**(Derogado)**.
+
+> Se deroga por la disposición final 2 del Real Decreto 239/2013, de 5 de abril. [Ref. BOE-A-2013-3906](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3906).
+
+> Se modifica por el art. único.17 del Real Decreto 338/2010, de 19 de marzo. [Ref. BOE-A-2010-5547](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5547).

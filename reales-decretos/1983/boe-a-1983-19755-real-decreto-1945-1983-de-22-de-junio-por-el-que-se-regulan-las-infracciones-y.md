@@ -1,0 +1,499 @@
+---
+title: "Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agro-alimentaria"
+identifier: "BOE-A-1983-19755"
+eli: "https://www.boe.es/eli/es/rd/1983/06/22/1945"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1983-06-22
+published: 1983-07-15
+in_force_from: 1983-08-04
+last_amended: 2025-07-02
+consolidated: 2026-06-26
+gazette: "Boletín Oficial del Estado núm. 168"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1983-19755"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agro-alimentaria
+
+Norma derogada, con efectos de 3 de julio de 2025, con las excepciones indicadas en la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+Incluye las correcciones de errores publicadas en BOE núms. 197, de 18 de agosto de 1983 [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150) y 250, de 19 de octubre de 1983. [Ref. BOE-A-1983-27540](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-27540) y 259, de 23 de octubre de 1983. [Ref. BOE-A-1983-28433](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-28433).
+
+El Congreso de los Diputados, en su reunión del día 17 de septiembre de 1981, acordó un plan de medidas urgentes de defensa de la salud de los consumidores, entre las que se incluyen la «refundición y actualización de todas las normas vigentes en materia de inspección y vigilancia de las actividades alimentarias y de sanción de las infracciones».
+
+Al dar cumplimiento al mandato parlamentario, se actualizan una serie de normas y disposiciones en distintas materias, en las que confluyen la defensa de la salud pública, la protección de los intereses de los consumidores y las legítimas exigencias de la industria, el comercio y los servicios.
+
+La nueva normativa supone además una consideración de las actuales condiciones técnicas, económicas y sociales que rodean a los productos y servicios que se facilitan a los consumidores y usuarios y que exigen una clara delimitación de obligaciones y responsabilidades para evitar indefensiones individuales o colectivas ante el fraude, la adulteración, el abuso o la negligencia.
+
+En su virtud, a propuesta de los Ministros de Sanidad y Consumo y de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 22 de junio de 1983, dispongo:
+
+> Redactados los párrafos primero y segundo conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150).
+
+## Artículo 1. Definiciones, obligaciones, prohibiciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+## Artículo 2. Infracciones sanitarias.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Redactado el apartado 2.4.4 y 5 conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150).
+
+## Artículo 3. Infracciones en materia de protección al consumidor.
+
+3.1 Son infracciones por alteración, adulteración o fraude en bienes y servicios susceptibles de consumo:
+
+3.1.1 La elaboración, distribución, suministro o venta de bienes a los que se haya adicionado o sustraido cualquier sustancia o elemento para variar su composición, estructura, peso o volumen con fines fraudulentos, para corregir defectos mediante procesos o procedimientos que no estén expresa y reglamentariamente autorizados o para encubrir la inferior calidad o alteración de los productos utilizados.
+
+3.1.2 La elaboración, distribución, suministro o venta de bienes cuando su composición o calidad no se ajuste a las disposiciones vigentes o difiera de la declarada y anotada en el Registro correspondiente.
+
+3.1.3 El fraude en cuanto al origen calidad, composición cantidad, peso o medida de cualquier clase de bienes o servicios destinados al público, o su presentación mediante determinados envases, etiquetas, rótulos, cierres, precintos o cualquier otra información o publicidad que induzca a engaño o confusión o enmascare la verdadera naturaleza del producto o servicio.
+
+3.1.4 **(Derogado)**
+
+3.1.5 **(Derogado)**
+
+3.2 **(Derogado)**
+
+3.3 **(Derogado)**
+
+> Téngase en cuenta que se deroga este artículo a excepción de los apartados 3.1.1, 3.1.2 y 3.1.3, que seguirán vigentes en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se deroga este artículo, a excepción de los apartados 3.1.1, 3.1.2 y 3.1.3, que seguirán vigentes en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se declara nulo el apartado 3.2.6 por Sentencia del TS de 10 de febrero publicada por Orden de 14 de noviembre de 1988. [Ref. BOE-A-1988-29362](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-29362).
+
+> Redactado el apartado 3.2.6 conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150).
+
+## Artículo 4. Infracciones en materia de defensa de la calidad de la producción agroalimentaria.
+
+4.1 Son infraeciones antirreglamentarias:
+
+4.1.1 La no presentación del certificado acreditativo de la inscripción oficial de la Empresa, industria, almacén, materia o producto en el Ministerio de Agricultura, Pesca y Alimentación, cuando a ello se estuviere obligado o la no exhibición del mismo en el local correspondiente en la forma en que estuviera establecido.
+
+4.1.2 La distribución de propaganda sin previa autorización del Ministerio de Agricultura, Pesca y Alimentación, cuando ésta sea preceptiva o cuando no se ajuste a los requisitos oficiales establecidos.
+
+4.1.3 El incumplimiento en la remisión dentro de los plazos marcados de los partes de existencia y movimientos de productos o materias, o la presentación de partes defectuosos, cuando éstos sean obligatorios.
+
+4.1.4 La falta de talonarios matrices de facturas de venta, libros de movimientos o cuantos documentos obliguen a llevar las disposiciones vigentes.
+
+4.1.5 La modificación relativa al cambio de titularidad y el arrendamiento de las industrias agrarias y alimentarias que no haya sido comunicado al Organismo administrativo correspondiente, según las normas en vigor.
+
+4.1.6 La paralización de las actividades de las industrias agrarias y alimentarias sin haberlo comunicado al correspondiente Organismo administrativo con arreglo a la legislación vigente.
+
+4.1.7 El incumplimiento de las instrucciones que sobre su actividad y competencia emanen del Ministerio de Agricultura, Pesca y Alimentación, siempre que se trate de infracciones meramente formales no contempladas en los apartados siguientes:
+
+4.2 Son infracciones por clandestinidad:
+
+4.2.1 La tenencia en explotaciones agrarias e industrias elaboradoras o en locales anejos, de sustancias no autorizadas por la legislación especifica para la producción o elaboración de los productos.
+
+4.2.2 La elaboración, distribución o venta de productos, materias o elementos de o para el sector agroalimentario sin que el titular responsable o el local posea la preceptiva autorización cuando legalmente fuera exigible dicho requisito.
+
+4.2.3 La falta de inscripción de dichos productos, materias o elementos en la forma que para cada uno de ellos se hubiera establecido.
+
+4.2.4 La tenencia o venta de productos a granel sin estar autorizados para ello, o la circunstancia de no reunir los envases los requisitos exigidos por las disposiciones correspondientes.
+
+4.2.5 La falta de etiquetas o rotulación indeleble, que fueren preceptivas, o el no ajustarse las mismas a la forma o condiciones establecidas para dichos productos.
+
+4.2.6 La no expedición de facturas comerciales, la omisión en las mismas o la deficiente extensión, de alguno de los datos exigidos por la legislacion vigente.
+
+4.2.7 El suministrar, sin ajustarse a la realidad, cuantos datos sean legalmente exigibles.
+
+4.2.8 La posesión de maquinaria o útiles sin la preceptiva inscripción de la misma en los registros legalmente establecidos, así como no darla de baja en dichos registros cuando por cualquier causa deje de utilizarse de una manera permanente.
+
+4.2.9 La plantación o cultivo no autorizado de especies o variedades de plantas que estén sujetas a normativas especificas o la multiplicación, sin la autorización del obtentor, de variedades registradas.
+
+4.2.10 La instalación o modificación en los casos de ampliación reducción, perfeccionamiento y traslado de las industrias agrarias y alimentarias con incumplimiento de las disposiciones vigentes en materia de regulación de dichas industrias.
+
+4.2.11 El ejercicio de actividades en las industrias agrarias y alimentarias sin estar inscritas en el correspondiente Registro o cuando aquellas actividades no estén previstas en dicha inscripción, o ésta haya sido cancelada.
+
+4.2.12 La transferencia de las autorizaciones para la instalación o modificación de industrias agrarias y alimentarias no liberalizadas sin permiso expreso de la Dirección General de Industrias Agrarias y Alimentarias en tanto no se haya montado la industria y ultimado la modificación, asi como el incumplimiento de las cláusulas de la autorización o requisitos exigibles, y el incumplimiento de los plazos previstos en dicha autorización, o, en su caso, en las prórrogas otorgadas para realizar las instalaciones o las modificaciones autorizadas.
+
+4.2.13 Y, en general, toda actuación que con propósito de lucro tienda a eludir la efectividad de las normas y medidas de vigilancia o intervención establecidas en las materias a que se refiere este artículo.
+
+4.3 Son infracciones por fraude:
+
+4.3.1 La elaboración de medios de producción, productos agrarios y alimentarios, mediante tratamientos o procesos que no estén autorizados por la legislación vigente, así como la adición o sustracción de sustancias o elementos que modifiquen su composición con fines fraudulentos.
+
+4.3.2 Las defraudaciones en la naturaleza, composición, calidad, riqueza, peso, exceso de humedad o cualquier otra discrepancia que existiese entre las características reales de la materia o elementos de que se trate y las ofrecidas por el productor, fabricante o vendedor, así como todo acto voluntario de naturaleza similar que suponga transgresión o incumplimiento de lo dispuesto en la legislación vigente.
+
+4.3.3 El utilizar en las etiquetas, envases o propaganda, nombres, indicaciones de procedencia, clase de producto o indicaciones falsas que no correspondan al producto o induzcan a confusión en el usuario.
+
+4.3.4 La falsificación de productos y la venta de los productos falsificados.
+
+4.3.5 La aportación de datos falsos que puedan inducir a cualquier Organismo del Ministerio de Agricultura, Pesca y Alimentación, a otorgar ayudas, subvenciones o beneficios de cualquier índole, sin que se cumplan los requisitos o se reúnan las condiciones previamente establecidas a partir del momento en que se conceda la subvención o beneficio.
+
+> Téngase en cuenta que este artículo se deroga, aunque seguirá vigente en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se deroga este artículo, aunque seguirá vigente en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150).
+
+## Artículo 5. Otras infracciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150).
+
+## Artículo 6. Calificación de las infracciones. Infracciones leves.
+
+Las infracciones contempladas en los artículos 3º. 2, 3º. 3, y 5º se califican como leves:
+
+6.1 Cuando la aplicación, variación o señalamiento de precios o márgenes comerciales que excedan de los límites o incrementos aprobados por los Organismos administrativos sea de escasa entidad y se aprecie simple negligencia.
+
+6.2 Cuando se trate de simples irregularidades en la observancia de las reglamentaciones relativas al mercado, sin trascendencia directa para los consumidores o usuarios.
+
+6.3 Cuando se subsanen los defectos en plazo señalado por la autoridad competente, si el incumplimiento afecta a la normativa sobre el ejercicio de actividades comerciales.
+
+6.4 Y en todos los demás casos en que no proceda su calificación como graves o muy graves.
+
+> Téngase en cuenta que este artículo se deroga, aunque seguirá vigente en los aspectos relacionados con el artículo 4, en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se deroga este artículo, aunque seguirá vigente en los aspectos relacionados con el artículo 4, en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+## Artículo 7. Calificación de las infracciones. Infracciones graves.
+
+7.1 Las infracciones contempladas en los artículos 3º. 1, y 4º. 3, se calificarán como graves, valorando las circunstancias siguientes:
+
+7.1.1 Que, en todo o en parte, sean concurrentes con infracciones sanitarias graves o éstas hayan servido para facilitar o encubrir aquéllas.
+
+7.1.2 Que se produzcan en el origen de su producción o distribución, de forma consciente y deliberada o por falta de los controles y precauciones exigibles en la actividad, servicio o instalación de que se trate.
+
+7.2 Las infracciones contempladas en los artículos 3º. 2; 3º. 3, y 5º se calificarán como graves en función de las circunstancias siguientes:
+
+7.2.1 La situación del predominio del infractor en un sector del mercado.
+
+7.2.2 La cuantía del beneficio obtenido como consecuencia directa o indirecta de la infracción.
+
+7.2.3 La gravedad de la alteración social que produzca la actuación infractora.
+
+7.2.4 La generalización en un sector determinado de un mismo tipo de infracción.
+
+7.2.5 La negativa reiterada a facilitar información o prestar colaboración a los servicios de control e inspección.
+
+7.2.6 La reincidencia en infracciones leves, en los últimos tres meses.
+
+> Téngase en cuenta que este artículo se deroga, aunque seguirá vigente en los aspectos relacionados con el artículo 4, en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se deroga este artículo, aunque seguirá vigente en los aspectos relacionados con el artículo 4, en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+## Artículo 8. Calificación de las infracciones. Infracciones muy graves.
+
+8.1 Las infracciones contempladas en los artículos 3º. 1, y 4º. 3, se calificarán como muy graves, en función de las circunstancias siguientes:
+
+8.1.1 Las que, en todo o en parte, sean concurrentes con infracciones sanitarias muy graves o éstas hayan servido para facilitar o encubrir aquéllas.
+
+8.1.2 Las que supongan la extensión de la alteración, adulteración o fraude a realizar por terceros a quienes se facilita la sustancia, medios o procedimientos para realizarlos, encubrirlos o enmascararlos.
+
+8.1.3 La reincidencia en infracciones graves, en los últimos cinco años, que no sean a su vez consecuencia de reincidencia en infracciones leves.
+
+8.2 Las infracciones contempladas en los artículos 3º. 2, 3º. 3, y 5º, se calificarán como muy graves, en función de las circunstancias siguientes:
+
+8.2.1 La creación de una situación de desabastecimiento en un sector o zona del mercado nacional determinada por la infracción.
+
+8.2.2 La aplicación de precios o márgenes comerciales en cuantía muy superior a los limites autorizados.
+
+8.2.3 La concurrencia en la mayoría de los bienes y servicios ofrecidos por una Empresa, de precios que excedan tales limites aunque individualmente considerados no resulten excesivos.
+
+8.2.4 La negativa absoluta a facilitar información o prestar colaboración a los servicios de control e inspección.
+
+8.2.5 La reincidencia en infracciones graves en los últimos cinco años que no sean a su vez consecuencia de reincidencia en infracciones leves.
+
+> Téngase en cuenta que este artículo se deroga, aunque seguirá vigente en los aspectos relacionados con el artículo 4, en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se deroga este artículo, aunque seguirá vigente en los aspectos relacionados con el artículo 4, en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Redactado el apartado 8.1 conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150).
+
+## Artículo 9. Responsabilidad por infracciones.
+
+9.1 **(Derogado)**
+
+9.2 De las infracciones en productos envasados será responsable la firma o razón social cuyo nombre figure en la etiqueta, salvo que se demuestre su falsificación o mala conservación del producto por el tenedor siempre que se especifiquen en el envase original las condiciones de conservación.
+
+También será responsable el envasador cuando se pruebe su connivencia con el marquista.
+
+9.3 De las infracciones cometidas en productos a granel será responsable el tenedor de los mismos, excepto cuando se pueda identificar la responsabilidad de manera cierta, de un tenedor anterior.
+
+> Téngase en cuenta que los apartados 2 y 3 seguirán vigentes en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+9.4 **(Derogado)**
+
+9.5 **(Derogado)**
+
+9.6 **(Anulado)**
+
+> Se deroga, a excepción de los apartados 2 y 3, que seguirán vigentes en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se declara la nulidad el apartado 9.6 por Sentencia del TS de 6 de junio de 1988 publicada por Orden de 27 de febrero de 1989. [Ref. BOE-A-1989-8498](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-8498).
+
+## Artículo 10. Sanciones.
+
+10.1 Las infracciones a que se refiere el presente Real Decreto serán sancionadas mediante la aplicación de las siguientes medidas:
+
+Infracciones leves y antirreglamentarias tipificadas en el artículo 4º.1, multa hasta 601,01 euros.
+
+Infracciones por clandestinidad, tipificadas en el artículo 4.2, multa comprendida entre 300,51 y 3.005,06 euros.
+
+Infracciones graves, multa comprendida entre 601,02 y 15.025,30 euros, pudiendo rebasar dicha cantidad hasta alcanzar el quíntuplo del valor de los productos o servicios objeto de la infracción.
+
+Infracciones muy graves, multa comprendida entre 15.025,31 y 601.012,10 euros, pudiendo rebasar dicha cantidad hasta alcanzar el décuplo del valor de los productos o servicios objeto de la infracción.
+
+10.2 Sin perjuicio de lo establecido en los artículos 6º, 7º y 8º del presente Real Decreto, la cuantía de la sanción se graduará de conformidad con los siguientes criterios:
+
+– El volumen de ventas.
+
+– La cuantía del beneficio ilícito obtenido.
+
+– El efecto perjudicial que la infracción haya podido producir sobre los precios, el consumo o el uso de un determinado producto o servicio o sobre el propio sector productivo.
+
+– El dolo, la culpa y la reincidencia.
+
+10.3 La autoridad a que corresponda resolver el expediente podrá acordar, como sanción accesoria, el decomiso de la mercancía adulterada, falsificada, fraudulenta o no identificada y que pueda entrañar riesgo para el consumidor; lo mismo podrá acordarse en los supuestos contemplados en los cinco primeros apartados del artículo 4º, 2.
+
+Dichas mercancías deberán ser destruidas si su utilización o consumo constituyera peligro para la salud pública. El Organo sancionador deberá, en todo caso, determinar el destino final que debe darse a las mercancías decomisadas.
+
+Los gastos que originen las operaciones de intervención, depósito, decomiso, transporte y destrucción serán de cuenta del infractor.
+
+En caso de que el decomiso no sea posible podrá ser sustituido por el pago del importe de su valor por la Empresa infractora.
+
+> Téngase en cuenta que se declara la nulidad del apartado 10.3 en la forma indicada por el fundamento jurídico 9 de la Sentencia del TS de 6 de junio de 1988, publicada por Orden de 27 de febrero de 1989. [Ref. BOE-A-1989-8498](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-8498).
+
+10.4 En el caso de infracciones en materia de industrias agrarias y alimentarias la autoridad a que corresponda resolver el expediente podrá acordar como sanción accesoria la declaración de caducidad de las autorizaciones administrativas si la infracción corresponde a la tipificada en el articulo 4., 2.12, o la cancelación de la inscripción registral en las infracciones en esta materia en los casos contemplados en la legislación vigente (articulo 14 del Real Decreto 2685/1980, de 17 de octubre).
+
+10.5 En los supuestos de infracciones calificadas como muy graves podrá decretarse el cierre temporal de la Empresa, establecimiento o industria infractora, por un período máximo de cinco años.
+
+La facultad de acordar el cierre queda atribuida, en todo caso, al Consejo de Ministros.
+
+10.6 No tendrá carácter de sanción la clausura o cierre de instalaciones que no cuenten con las autorizaciones o registros preceptivos, o la suspensión de su funcionamiento hasta tanto se rectifiquen los defectos o se cumplan los requisitos exigidos.
+
+10.7 Del acuerdo de cierre, se dará traslado a la Empresa sancionada y al Gobernador o Gobernadores civiles de las provincias donde radiquen los establecimientos o industrias a cerrar, a fin de que delegados de su autoridad procedan a la ejecución del acuerdo.
+
+10.8 En el acuerdo del Consejo de Ministros sobre el cierre de la Empresa, establecimiento o industria podrán determinarse medidas complementarias para la plena eficacia de la decisión adoptada.
+
+10.9 Los Gobernadores civiles de las provincias donde radiquen los establecimientos o industrias clausurados,ordenarán el levantamiento del cierre temporal tan pronto transcurra el plazo del mismo, dando cuenta de ello al Organo sancionador.
+
+> Téngase en cuenta que este artículo se deroga, aunque seguirá vigente en los aspectos relacionados con el artículo 4, en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se deroga este artículo, aunque seguirá vigente en los aspectos relacionados con el artículo 4, en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se convierten a euros las cuantías contempladas en el apartado 10.1 por el apartado 8 de la Resolución de 19 de noviembre de 2001. [Ref. BOE-A-2001-23617](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-23617).
+
+> Se convierten a euros las cuantías contempladas en el apartado 10.1 por el apartado 1 y anexo de la Resolución de 6 de noviembre de 2001. [Ref. BOE-A-2001-21531](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-21531).
+
+> Se declara la nulidad del apartado 10.3 en la forma indicada por el fundamento jurídico 9 de la Sentencia del TS de 6 de junio de 1988, publicada por Orden de 27 de febrero de 1989. [Ref. BOE-A-1989-8498](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-8498).
+
+## Artículo 11. Publicidad de las sanciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+## Artículo 12. Efectos.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Redactados los apartados 12.2 y 3 conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150).
+
+## Artículo 13. Inspección.
+
+13.1 En el ejercicio de su función, los Inspectores tendrán el carácter de autoridad y podrán solicitar el apoyo necesario de cualquier otra, así como de los Cuerpos de Seguridad del Estado.
+
+13.2 Podrán acceder directamente a la documentación industrial, mercantil y contable de las Empresas que inspeccionen cuando lo consideren necesario en el curso de sus actuaciones que, en todo caso, tendrán carácter confidencial.
+
+Tanto los Organos de las Administraciones públicas, como las Empresas con participación pública, Organismos oficiales, Organizaciones Profesionales y Organizaciones de Consumidores prestarán, cuando sean requeridos para ello, la información que se les solicite por los correspondientes servicios de inspección.
+
+13.3 Cuando los Inspectores aprecien algún hecho que estimen que pueda constituir infracción, levantarán la correspondiente acta, en la que harán constar, además de las circunstancias personales del interesado y los datos relativos a la Empresa inspeccionada, los hechos que sirvan de base al correspondiente procedimiento sancionador.
+
+13.4 Los Inspectores están obligados de modo estricto a cumplir el deber de sigilo profesional. El incumplimiento de este deber será sancionado conforme a los preceptos del Reglamento de Régimen Disciplinario de las Administraciones Públicas donde presten sus servicios y con carácter supletorio en el de los Funcionarios Civiles del Estado.
+
+> Téngase en cuenta que este artículo seguirá vigente en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se declara la vigencia de este artículo en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Redactado el apartado 13.2 conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150).
+
+## Artículo 14. Obligaciones de los interesados.
+
+14.1 Las personas físicas o jurídicas, Asociaciones o Entidades estarán obligadas, a requerimiento de los Organos competentes o de los Inspectores:
+
+– A suministrar toda clase de información sobre instalaciones productos o servicios, permitiendo la directa comprobación de los Inspectores.
+
+– A exhibir la documentación que sirva de justificación de las transacciones efectuadas, de los precios y márgenes aplicados y de los conceptos en que se descomponen los mismos.
+
+– A facilitar que se obtenga copia o reproducción de la referida documentación.
+
+– A permitir que se practique la oportuna toma de muestras de los productos o mercancías que elaboren, distribuyan o comercialicen.
+
+– Y, en general, a consentir la realización de las visitas de inspección y a dar toda clase de facilidades para ello.
+
+14.2 Cuando a requerimiento de la Administración o espontáneamente se aporten escandallos de precios, así como otra declaración o documentación, deberán ir firmados por el Presidente, Consejero-Delegado o persona con facultad bastante para representar y obligar a la Empresa.
+
+La falsedad, así como la constancia en dichos documentos de datos inexactos o incompletos, se sancionará de conformidad con lo Previsto en el presente Real Decreto, sin perjuicio de que, si se observase la posible existencia de delito o falta, se pase el tanto de culpa a los Tribunales de justicia.
+
+14.3 **(Anulado)**
+
+14.4 En el supuesto de riesgo real o previsible para la salud pública se adoptarán cualesquiera otras medidas que ordenen las autoridades sanitarias.
+
+> Téngase en cuenta que este artículo seguirá vigente en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se declara la vigencia de este artículo en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se declara la nulidad del apartado 14.3 por Sentencia del TS de 6 de junio de 1988 publicada por Orden de 27 de febrero de 1989. [Ref. BOE-A-1989-8498](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-8498).
+
+> Redactados los apartados 14.1 y 3 conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150).
+
+## Art. 15. Toma de muestras.
+
+15.1 La toma de muestras se realizará mediante acta formalizada, al menos por triplicado, ante el titular de la Empresa o establecimiento sujeto a inspección, o ante su representante legal o persona responsable, y en defecto de los mismos, ante cualquier dependiente.
+
+Cuando las personas anteriormente citadas se negasen a intervenir en el acta, ésta será autorizada con la firma de un testigo, si fuere posible, sin perjuicio de exigir las responsabilidades contraídas por tal negativa. El acta será autorizada por el Inspector en todo caso.
+
+En el acta se transcribirán íntegramente cuantos datos y circunstancias sean necesarios para la identificación de las muestras.
+
+15.2 Cada muestra constará de tres ejemplares homogéneos, que serán acondicionados, precintados, lacrados y etiquetados de manera que con estas formalidades y con las firmas de los intervinientes estampadas sobre cada ejemplar, se garantice la identidad de las muestras con su contenido, durante el tiempo de la conservación de las mismas. Y en cuanto al depósito de los ejemplares se hará de la siguiente forma:
+
+15.2.1 Si la Empresa o titular del establecimiento donde se levante el acta fueren fabricantes, envasadores o marquistas de las muestras recogidas y acondicionadas en la forma antes dicha, uno de los ejemplares quedará en su poder, bajo depósito en unión de una copia del acta, con la obligación de conservarla en perfecto estado para su posterior utilización en prueba contradictoria si fuese necesario. Por ello, la desaparición, destrucción o deterioro de dicho ejemplar de la muestra se presumirá maliciosa, salvo prueba en contrario. Los otros dos ejemplares de la muestra quedarán en poder de la inspección, remitiéndose uno al Laboratorio que haya de realizar el análisis inicial.
+
+15.2.2 Por el contrario, si el dueño del establecimiento o la Empresa inspeccionada actuasen como meros distribuidores del producto investigado, quedará en su poder una copia del acta, pero los tres ejemplares de la muestra serán retirados por la inspección, en cuyo caso, uno de los ejemplares se Pondrá a disposición del fabricante, envasador o marquista interesado o persona debidamente autorizada que le represente -para que la retire si desea practicar la prueba contradictoria-, remitiéndose otro ejemplar al Laboratorio que haya de realizar el análisis inicial.
+
+15.2.3 Las cantidades que habrán de ser retiradas de cada ejemplar de la muestra serán suficientes en función de las determinaciones analíticas que se pretendan realizar y, en todo caso, se ajustarán a las normas reglamentarias que se establezcan y, en su defecto, a las instrucciones dictadas por los Organos competentes.
+
+> Téngase en cuenta que este artículo seguirá vigente en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se declara la vigencia de este artículo en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Redactado los apartados 15.1 y 2 conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150).
+
+## Artículo 16. Análisis.
+
+16.1 Las pruebas periciales analíticas se realizarán en Laboratorios oficiales o en los privados acreditados por la Administración para estos fines, empleando para el análisis los métodos que, en su caso, se encuentren oficialmente aprobados y, en su defecto, los recomendados nacional o internacionalmente.
+
+16.2 El Laboratorio que haya recibido la primera de las muestras, a la vista de la misma y de la documentación que se acompañe, realizará el análisis y emitirá a la mayor brevedad posible los resultados analíticos correspondientes y en caso de que se le solicite, un informe técnico, pronunciándose de manera clara y precisa sobre la calificación que le merezca la muestra analizada.
+
+16.3 Cuando del resultado del análisis inicial se deduzcan infracciones a las disposiciones vigentes, se incoará expediente sancionador de acuerdo con el procedimiento contenido en la presente disposición. En este caso, y en el supuesto de que el expedientado no acepte dichos resultados, sin perjuicio de acreditar lo que convenga a su derecho por cualquier medio de prueba, podrá solicitar del instructor del expediente, la realización del análisis contradictorio, de acuerdo con una de las dos posibilidades siguientes:
+
+– Designando, en el plazo de cinco días hábiles, contados a partir de la notificación del pliego de cargos, Perito de parte para su realización en el Laboratorio que practicó el análisis inicial, siguiendo las mismas técnicas empleadas por éste y en presencia del técnico que certificó dicho análisis o persona designada por el mismo. A tal fin, el instructor del expediente o el propio Laboratorio comunicara al interesado fecha y hora.
+
+– Justificando ante el instructor, en el plazo de ocho días hábiles a partir de la notificación del pliego de cargos, que el ejemplar de muestra correspondiente ha sido presentado en un laboratorio oficial o privado autorizado para que se realice el análisis contradictorio por el técnico que designe dicho laboratorio, utilizando las mismas técnicas empleadas en el análisis inicial. El resultado analítico y, en su caso, el informe técnico complementario deberán ser remitidos al instructor del expediente en el plazo máximo de un mes a partir de la notificación del pliego de cargos, entendiéndose que transcurrido dicho plazo sin haberse practicado el análisis y haberse comunicado al instructor el expedientado decae en su derecho
+
+16.4 La renuncia expresa o tácita a efectuar el análisis contradictorio o la no aportación de la muestra obrante en poder del interesado, supone la aceptación de los resultados a los que se hubiese llegado en la práctica del primer análisis.
+
+16.5 Si existiera desacuerdo entre los dictámenes de los análisis inicial y contradictorio se designará por el Organo competente otro Laboratorio oficial u oficialmente acreditado que, teniendo a la vista los antecedentes de los anteriores análisis y utilizando la tercera muestra realizará con carácter urgente un tercer análisis que será dirimente y definitivo.
+
+16.6 Los gastos que se deriven por la realización del análisis contradictorio serán de cuenta de quien lo promueva; los originados por la realización de los análisis inicial y dirimente serán a cargo de la Empresa encausada, salvo que los resultados del dirimente rectifiquen los del análisis inicial, en cuyo caso ambos serán sufragados por la Administración. El impago del importe de los análisis inicial y dirimente, cuando sean de cargo del expedientado dará lugar a que se libre la oportuna certificación de apremio, para su cobro con arreglo al Reglamento General de Recaudación.
+
+16.7 En el supuesto de productos alimenticios de difícil conservación en su estado inicial o de productos perecederos en general, la prueba pericial analítica podrá practicarse según una de las dos modalidades siguientes:
+
+a) La prueba analítica inicial se practicará de oficio en el Laboratorio designado al efecto por el Organismo competente notificándose al interesado cuando del resultado de dicho análisis se deduzcan infracciones a las disposiciones vigentes, para que, si lo desea, concurra al análisis contradictorio en el plazo que se señale, asistido de Perito de parte.
+
+b) En los casos en que sea necesaria una actuación urgente, o en los que por razones técnicas fuese conveniente, la prueba pericial analítica se practicará de oficio en el Organismo competente, previa notificación al interesado para que concurra asistido de Perito de parte, en el plazo que se señale, a fin de realizarse en un solo acto el análisis inicial y el contradictorio sobre las muestras aportadas por la Administración y el interesado.
+
+16.8 Igual providencia podrá adoptarse, convocando a un mismo acto y en el mismo Laboratorio a tres Peritos, dos de ellos nombrados por la Administración y uno en representación del interesado, para que practiquen los análisis inicial, contradictorio y, en su caso, el dirimente, sin solución de continuidad, cuando las situaciones de peligro para la salud pública o la importancia económica de la mercancía cautelarmente inmovilizada así lo aconsejen.
+
+16.9 También podrán realizarse análisis o pruebas, en el mismo lugar de la inspección, cuando la naturaleza del producto así lo aconseje, si bien en tal supuesto habrán de practicarse por personal debidamente titulado y autorizado por Organo competente, y ofreciéndose en el mismo acto la posibilidad de prueba contradictoria conforme a cualquiera de las alternativas previstas en el apartado 7 de este mismo artículo.
+
+16.10 Cuando la inspección investigue características de calidad de productos presentados en forma natural y sometidos a normalización y esta investigación no requiera la práctica de pruebas analíticas -cual es el caso de las frutas, hortalizas, canales de especies animales, etc-, se efectuarán los siguientes trámites:
+
+– El Inspector hará constar en el acta los hechos y circunstancias que considere se ponen de manifiesto en la partida inspeccionada.
+
+– El inspeccionado hará constar en el acta la aceptación de tales extremos o su discrepancia con los mismos; en este supuesto, tras la intervención de la mercancía, y en el plazo de dos días contados a partir de la inspección, solicitará la realización de una nueva inspección por otro Inspector del Departamento, que deberá tener al menos igual jerarquía administrativa que el Inspector actuante. En dicha inspección, el interesado podrá designar Perito de parte concurriendo también a la nueva inspección el Inspector que levantó acta inicial.
+
+Los dictámenes evacuados por ambas partes se harán constar en el acta de esta última inspección, a la cual podrán acompañarse pruebas documentales, fotografías, etc.
+
+Todo lo actuado se elevará a la autoridad competente que acordará la incoacción del expediente sancionador, si lo estima procedente.
+
+> Téngase en cuenta que este artículo seguirá vigente en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se declara la vigencia de este artículo en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Redactado conforme a las correcciones de errores publicadas en BOE núms. 197, de 18 de agosto de 1983. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150) y 250, de 19 de octubre de 1983. [Ref. BOE-A-1983-27540](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-27540) y 259, de 23 de octubre de 1983. [Ref. BOE-A-1983-28433](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-28433).
+
+## Artículo 17. Procedimiento.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Redactado el apartado 17.4 conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150).
+
+## Artículo 18. Prescripción y caducidad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Redactado conforme a las correcciones de errores publicadas en BOE núms. 197, de 18 de agosto de 1983. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150) y 250, de 19 de octubre de 1983. [Ref. BOE-A-1983-27540](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-27540).
+
+## Artículo 19. Organos competentes.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se convierten a euros las cuantías contempladas en los apartados 19.1 y 2 por el apartado 1 y anexo de la Resolución de 6 de noviembre. [Ref. BOE-A-2001-21531](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-21531).
+
+> Redactado conforme a las correcciones de errores publicadas en BOE núms. 197, de 18 de agosto de 1983. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150) y 250, de 19 de octubre de 1983. [Ref. BOE-A-1983-27540](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-27540).
+
+## Disposición adicional primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Se deja sin efecto lo previsto en el apartado 1 para los productos alimenticios, según establece la disposición adicional 2 del Real Decreto 538/2015, de 26 de junio. [Ref. BOE-A-2015-7125](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7125).
+
+## Disposición adicional segunda.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+## Disposición transitoria primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150).
+
+## Disposición transitoria segunda.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+## Disposición final primera.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+## Disposición final segunda.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. [Ref. BOE-A-2025-13409](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13409)
+
+> Redactados los apartados 5, 9 y 17 conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. [Ref. BOE-A-1983-22150](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-22150).
+
+Dado en Madrid a 22 de junio de 1983.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JAVIER MOSCOSO DEL PRADO Y MUÑOZ

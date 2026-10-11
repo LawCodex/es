@@ -1,0 +1,5616 @@
+---
+title: "Resolución de 3 de julio de 2014, de la Intervención General de la Seguridad Social, por la que se aprueba la Instrucción de contabilidad para las entidades que integran el sistema de la Seguridad Social"
+identifier: "BOE-A-2014-9469"
+eli: "https://www.boe.es/eli/es/res/2014/07/03/(3)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Empleo y Seguridad Social"
+date: 2014-07-03
+published: 2014-09-17
+in_force_from: 2014-09-18
+last_amended: 2026-05-09
+consolidated: 2026-05-11
+gazette: "Boletín Oficial del Estado núm. 226"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-9469"
+retrieved: 2026-10-11
+---
+
+# Resolución de 3 de julio de 2014, de la Intervención General de la Seguridad Social, por la que se aprueba la Instrucción de contabilidad para las entidades que integran el sistema de la Seguridad Social
+
+Téngase en cuenta que esta Instrucción pasa a denominarse **«Instrucción de gestión contable para las entidades que integran el sistema de la Seguridad Social»**, según establece el art. 2.1 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+Desde la aprobación de la Instrucción de contabilidad para las entidades que integran el sistema de la Seguridad Social por la Resolución de 28 de octubre de 2010, de la Intervención General de la Seguridad Social, han sido importantes los cambios normativos y tecnológicos que se han producido y que afectan directamente al contenido regulador de la misma.
+
+La Orden EHA/1037/2010, de 13 de abril, aprobó un nuevo Plan General de Contabilidad Pública (en adelante, PGCP) con el carácter de plan contable marco para todas las administraciones públicas, que sería de aplicación obligatoria para las entidades integrantes del sector público administrativo estatal, dentro del cual se incluyen las entidades que integran el sistema de la Seguridad Social.
+
+No obstante, según señala su artículo único, la aplicación del PGCP en el ámbito de la Seguridad Social requería de una previa adaptación del mismo, siendo competencia de la Intervención General de la Seguridad Social elaborar la adaptación de dicho Plan a las entidades que integran el sistema de la Seguridad Social y someterlo a su aprobación por la Intervención General de la Administración del Estado, de acuerdo con lo previsto en el artículo 125.3.b) de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+En este sentido, la referida adaptación fue aprobada por la Resolución de la Intervención General de la Administración del Estado, de 1 de julio de 2011, y modificada por la Resolución de 9 de mayo de 2012 de dicho centro directivo.
+
+Dicha norma recoge importantes cambios que se extienden desde la codificación y definición de las cuentas y subcuentas, con la necesaria actualización de las anotaciones contables que producen los diferentes documentos contables en los diferentes subsistemas que integran el Sistema de Información Contable de la Seguridad Social, en adelante SICOSS, hasta los nuevos documentos de las cuentas anuales, pasando por una nueva terminología contable que debe tenerse en cuenta en la Instrucción de contabilidad.
+
+Por otra parte, el SICOSS, cuya estructura se encuentra regulada con carácter reglamentario mediante el Real Decreto 508/2000, de 14 de abril, y soportado en una arquitectura cliente-servidor, ha pasado a estar, a partir del ejercicio 2013, en el entorno corporativo Pros@, basado en una arquitectura web más acorde con la nuevas tecnologías.
+
+Desde la nueva plataforma, el SICOSS, aplicación básica para el soporte de la información económico-financiera del sistema de la Seguridad Social, manteniendo las características de fiabilidad y seguridad que le han caracterizado, ha pasado a ser un sistema integrado en el entorno corporativo de la Seguridad Social, con nuevas utilidades que permiten una actualización de los servicios que hasta el momento existían.
+
+El nuevo entorno como soporte informático del SICOSS ha motivado igualmente una serie de cambios que afectan a los documentos contables, y que exigen por tanto su adecuación, en la normativa específica que sustenta su regulación.
+
+En este mismo sentido, la Resolución de 10 de diciembre de 2013, de esta Intervención General de la Seguridad Social, por la que se dictaron las instrucciones de cierre del ejercicio 2013 para las entidades que integran el sistema de la Seguridad Social, se aprobaron y modificaron determinados documentos contables como consecuencia de la entrada en funcionamiento, el 1 de enero de 2014, del registro contable de facturas con la aprobación de la Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica y creación del registro contable de facturas en el sector público, así como para el registro de las operaciones pendientes de imputar a presupuesto propias de cierre de cada ejercicio económico.
+
+Finalmente, la incorporación del procedimiento de gestión y contable de los expedientes de tramitación anticipada en el subsistema de compromisos de gasto de carácter plurianual, previsto a lo largo del año 2014, aconseja recoger las distintas modificaciones que el referido subsistema conlleva.
+
+Frente a la posibilidad de realizar una modificación parcial de la Instrucción de contabilidad aprobada por la Resolución de 28 de octubre de 2010, de este centro directivo, en aquellas disposiciones donde fuera necesario, el número importante de cambios señalados anteriormente, entre otros, que es preciso acometer y que se extienden prácticamente a la totalidad de la Instrucción, aconseja elaborar un nuevo texto normativo completo tal y como aconsejan las directrices de técnica normativa.
+
+De acuerdo con lo anterior, y en orden a las competencias que otorga el artículo 125.3 de la Ley General Presupuestaria a esta Intervención General de la Seguridad Social, para dictar las instrucciones de contabilidad a las que han de someterse las entidades que integran el sistema de la Seguridad Social, resuelvo:
+
+##### Apartado único. Aprobación de la Instrucción de contabilidad para las entidades que integran el sistema de la Seguridad Social.
+
+Se aprueba la Instrucción de contabilidad que se adjunta a esta resolución, cuyas normas serán de aplicación a todas las entidades que integran el sistema de la Seguridad Social.
+
+##### Disposición transitoria única. Entidades mancomunadas de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+El contenido de esta Instrucción será aplicable a las entidades mancomunadas de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social para las operaciones contables que se deriven de las actuaciones liquidatorias de las mismas que se contemplan en la disposición transitoria primera del Real Decreto 701/2013, de 20 de septiembre, de racionalización del sector público.
+
+##### Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Resolución de 28 de octubre de 2010, de la Intervención General de la Seguridad Social, por la que se aprueba de Instrucción de contabilidad para las entidades que integran el sistema de la Seguridad Social, así como los contenidos de disposiciones de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en la Instrucción de contabilidad que se aprueba por esta resolución.
+
+##### Disposición final única. Entrada en vigor.
+
+La presente resolución será de aplicación a partir del día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 3 de julio de 2014.–La Interventora General de la Seguridad Social, María Victoria Vigueras García.
+
+## INSTRUCCIÓN DE GESTIÓN CONTABLE PARA LAS ENTIDADES QUE INTEGRAN EL SISTEMA DE LA SEGURIDAD SOCIAL
+
+> Se modifica la denominación de la Instrucción por el art. 2.1 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+## TÍTULO PRELIMINAR — Normas generales
+
+##### Regla 1. Objeto.
+
+1\. La presente Instrucción tiene por objeto la regulación de la gestión contable de la actividad económico-financiera de las entidades que integran el sistema de la Seguridad Social.
+
+2\. A los efectos de esta Instrucción se considera gestión contable el conjunto de elementos y actuaciones que permiten el registro contable de operaciones económicas de las citadas entidades, y que se enmarcan dentro del Sistema de Información Contable de la Seguridad Social, tales como documentos, trámites, anotaciones y libros contables.
+
+> Se modifica por el art. 2.2 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 2. Ámbito de aplicación.
+
+La presente instrucción será de aplicación a las entidades que integran el sistema de la Seguridad Social, que comprenden, a los efectos de esta instrucción, las entidades gestoras y servicios comunes de la Seguridad Social y las mutuas colaboradoras con la Seguridad Social, en su función pública de colaboración en la gestión de la Seguridad Social, así como sus centros mancomunados.
+
+Las referencias que, en adelante, se hagan en esta instrucción a las mutuas colaboradoras con la Seguridad Social se entenderán hechas igualmente a sus centros mancomunados.
+
+> Se modifica por el art. 2.3 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 3. El Sistema de Información Contable de la Seguridad Social
+
+1\. La contabilidad de las entidades que integran el sistema de la Seguridad Social se constituye como un sistema de información económico-financiera y presupuestaria que tiene por objeto el registro de todas las operaciones de naturaleza presupuestaria, no presupuestaria y patrimonial que se produzcan en su ámbito con el fin de mostrar, a través de estados e informes, la imagen fiel del patrimonio, de la situación financiera, de los resultados y de la ejecución del presupuesto de cada una de las entidades integrantes del mismo.
+
+2\. El Sistema de Información Contable de la Seguridad Social, en adelante SICOSS, se configura como un conjunto integrado de subsistemas o áreas contables interrelacionadas, que garantiza la concordancia, exactitud y automatismo de los registros que, para cada una de las operaciones contables, se deben producir en los distintos subsistemas a los que la operación afecte, así como la debida coherencia entre los distintos niveles de información que se establezcan en el sistema, tanto a nivel agregado como de detalle.
+
+A tal efecto, el SICOSS deberá permitir:
+
+a) Registrar las operaciones que vayan a tener incidencia en la obtención del balance y en la determinación del resultado económico patrimonial.
+
+b) Registrar las operaciones correspondientes a la ejecución del presupuesto de gastos y del presupuesto de ingresos, poniendo de manifiesto el resultado presupuestario. También permitirá registrar las operaciones derivadas de los saldos que provienen de presupuestos cerrados y las relativas a compromisos de gasto de carácter plurianual.
+
+c) Registrar las operaciones de naturaleza no presupuestaria.
+
+d) Registrar operaciones relacionadas con el fondo de maniobra y los pagos a justificar.
+
+e) Recoger información relativa a terceros, personas físicas o jurídicas, que se relacionen con las entidades que integran el sistema de la Seguridad Social.
+
+f) Llevar la gestión del registro contable de facturas.
+
+g) Registrar todas aquellas operaciones que determine la Intervención General de la Seguridad Social y no señaladas anteriormente.
+
+3\. Los subsistemas o áreas contables se definen de la siguiente manera:
+
+a) Presupuesto de gastos (01).
+
+b) Presupuesto de ingresos (02).
+
+c) Operaciones no presupuestarias y de relaciones internas (03)
+
+d) Contabilidad patrimonial (04)
+
+e) Fondo de maniobra (05).
+
+f) Gastos plurianuales (11).
+
+g) Cuentas bancarias.
+
+h) Terceros.
+
+La relación anterior de subsistemas o áreas contables podrá ser ampliada en la medida en que se incorporen en el SICOSS nuevos desarrollos.
+
+4\. El registro de las diferentes operaciones en el SICOSS, que activarán las diferentes áreas o subsistemas que conforman el mismo, se concretarán en una incorporación individual o masiva de datos, en los términos establecidos en el Título II de esta instrucción.
+
+##### Regla 4. Fines y principios del Sistema de Información Contable de la Seguridad Social.
+
+1\. Los fines del Sistema de Información Contable de la Seguridad Social son los previstos en el artículo 120 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria y en particular los establecidos en el artículo 3 del Real Decreto 1077/2021, de 7 de diciembre, por el que se regulan los principios generales y la organización del sistema de información contable de la Seguridad Social, en adelante Real Decreto de SICOSS.
+
+2\. La organización y funcionamiento del Sistema de Información Contable de la Seguridad Social se regirá por los principios recogidos en el artículo 4 del Real Decreto de SICOSS.
+
+> Se modifica por el art. 2.4 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 5. Organización contable.
+
+La organización contable de las entidades que integran el sistema de la Seguridad Social, será la contemplada en el artículo 5 del Real Decreto de SICOSS.
+
+> Se modifica por el art. 2.5 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+## TÍTULO I — Documentos contables
+
+### CAPÍTULO I — Disposiciones generales
+
+##### Regla 6. Aprobación de los documentos contables.
+
+1\. Se aprueban los documentos contables que se recogen en las reglas de este título I y que serán utilizados como soporte para el registro de operaciones en el SICOSS.
+
+2\. Los documentos contables serán electrónicos y se ajustarán a las normas de cumplimentación y modelos previstos en la regla 26 y en el anexo I de esta Instrucción, respectivamente, así como al procedimiento de tramitación previsto en título II de la misma.
+
+Se entiende por documento contable electrónico el documento único generado en formato pdf, en los términos previstos en el artículo 26 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, que permite justificar y acreditar las operaciones económicas que se registran en el SICOSS.
+
+3\. No obstante, cuando por circunstancias excepcionales así lo determine la Intervención General de la Seguridad Social, a propuesta de la Subdirección General de Dirección, Planificación y Gestión de la Contabilidad del Sistema de la Seguridad Social, se podrán expedir documentos contables en soporte físico.
+
+> Se modifica por el art. único.1 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+##### Regla 7. Facultad normativa.
+
+La modificación y, en su caso, supresión de dichos documentos, así como la aprobación de nuevos documentos contables, será realizada por resolución de esta Intervención General de la Seguridad Social.
+
+### CAPÍTULO II — Clases de documentos contables
+
+#### Sección 1.ª Documentos contables del presupuesto de gastos.
+
+##### Regla 8. Concepto.
+
+1\. Son documentos contables del presupuesto de gastos aquellos que sirven de soporte a las anotaciones contables que se realicen como consecuencia de operaciones de gestión del presupuesto de gastos.
+
+2\. En el Anexo I se recogen los modelos de cumplimentación de los documentos contables del presupuesto de gastos.
+
+##### Regla 9. Clases de documentos.
+
+Los documentos contables del presupuesto de gastos, son los siguientes:
+
+1) Soporte de los créditos iniciales de ejercicio corriente.
+
+2) Soporte de los créditos iniciales de ejercicios posteriores.
+
+3) MCCE.200 y su inverso, de modificaciones de crédito. Créditos extraordinarios.
+
+4) MCSC.210 y su inverso, de modificaciones de crédito. Suplementos de crédito.
+
+5) MCAC.220 y su inverso, de modificaciones de crédito. Ampliaciones de crédito.
+
+6) MCTC.230 y su inverso, de modificaciones de crédito. Transferencias de crédito.
+
+7) MCIC.240 y su inverso, de modificaciones de crédito. Incorporaciones de crédito.
+
+8) MCGI.250 y su inverso, de modificaciones de crédito. Créditos generados por ingresos.
+
+9) MCBA.280 y su inverso, de modificaciones de crédito. Bajas por anulación.
+
+10) MCRD.290, de modificaciones de crédito. Redistribuciones internas.
+
+11) MCRD.291, de modificaciones de crédito. Redistribuciones internas.
+
+12) RCPU.310 y su inverso, de retenciones de crédito pendientes de utilización.
+
+13) RCTC.311 y su inverso, de retenciones de crédito para transferencias.
+
+14) RCND.320 y su inverso, de retenciones de crédito. Créditos no disponibles.
+
+15) A.400 y su inverso, de autorizaciones de gasto sobre créditos disponibles.
+
+16) A.410 y su inverso, de autorizaciones de gasto sobre créditos retenidos.
+
+17) AD.420 y su inverso, de autorizaciones de gasto sobre créditos disponibles y compromisos de gasto.
+
+18) AD.430 y su inverso, de autorizaciones de gasto sobre créditos retenidos y compromisos de gasto.
+
+19) ADOK.440 y su inverso, de autorizaciones de gasto sobre créditos disponibles y compromisos de gasto, reconocimientos de obligaciones y propuestas de pago.
+
+20) ADOK 441 y su inverso, de autorizaciones y compromisos de gasto, reconocimientos de obligaciones y propuestas de pago por operaciones pendientes de aplicar a presupuesto en fin del ejercicio anterior.
+
+21) ADOK.450 y su inverso, de autorizaciones de gasto sobre créditos retenidos, compromisos de gasto, reconocimientos de obligaciones y propuestas de pago.
+
+22) ADOK.480 y su inverso, de autorizaciones de gasto sobre créditos disponibles, compromisos de gasto, reconocimiento de obligaciones y propuestas de pago a justificar.
+
+23) ADOK.490 y su inverso, de autorizaciones de gasto sobre créditos retenidos, compromisos de gasto, reconocimiento de obligaciones y propuestas de pago a justificar.
+
+24) D.500 y su inverso, de compromisos de gasto.
+
+25) O.600 y su inverso, de modificación de obligaciones reconocidas de ejercicios anteriores.
+
+26) O.602, y su inverso, de prescripción de obligaciones reconocidas en ejercicios anteriores.
+
+27) O.603, y su inverso, de acreedores por operaciones devengadas. Obligaciones contraídas con cargo a créditos autorizados/ específicos de corriente.
+
+28) O.604, y su inverso, de acreedores por operaciones devengadas. Obligaciones contraídas con cargo a créditos de corriente.
+
+29) O.606, y su inverso, de acreedores por operaciones devengadas. Obligaciones no contraídas.
+
+30) OK.610 y su inverso, de reconocimiento de obligaciones y propuestas de pago.
+
+31) OK.610 y su inverso, de modificación de obligaciones reconocidas y propuestas de pago de ejercicios anteriores.
+
+32) OK.612 y su inverso, de prescripción de obligaciones reconocidas y propuestas de pago de ejercicios anteriores.
+
+33) OK.620 y su inverso, de reconocimiento de obligaciones y propuestas de pago a justificar.
+
+34) K.700 y su inverso, de propuestas de pago.
+
+35) KRPG.900 y su inverso, de propuestas de reintegros del presupuesto de gastos. Ejercicio corriente.
+
+36) KRPG.905 y su inverso, de propuestas de reintegros del presupuesto de gastos por operaciones de pagos a justificar. Ejercicio corriente.
+
+37) P.800 y su inverso, de ordenación del pago.
+
+38) R.809, de realización del pago.
+
+39) FRPG.990, de formalización de reintegros del presupuesto de gastos (minora autorizaciones de gasto, compromisos de gasto, reconocimientos de obligaciones, propuestas de pago, ordenaciones de pago y realizaciones de pago). Ejercicio corriente.
+
+40) FRPG.992, de formalización de reintegros del presupuesto de gastos por operaciones de pagos a justificar (minora autorizaciones de gasto, compromisos de gasto, reconocimientos de obligaciones, propuestas de pago, ordenaciones de pago y realizaciones de pago). Ejercicio corriente.
+
+41) FRPG.995, de formalización de reintegros del presupuesto de gastos (minora reconocimientos de obligaciones, propuestas de pago, ordenaciones de pago y realizaciones de pago). Ejercicio corriente.
+
+42) FRPG.998, de formalización de reintegros del presupuesto de gastos por operaciones de pagos a justificar (minora reconocimientos de obligaciones, propuestas de pago, ordenaciones de pago y realizaciones de pago). Ejercicio corriente.
+
+43) APGAP y su inverso, de anexo de presupuesto de gastos. Aplicaciones presupuestarias (clasificación orgánica, por programas y económica).
+
+44) APGAP y su inverso, de anexo de presupuesto de gastos. Aplicaciones presupuestarias (clasificación por programas y económica).
+
+45) APGD y su inverso, de anexo de presupuesto de gastos. Descuentos.
+
+46) APGDC y su inverso, de anexo de presupuesto de gastos. Datos complementarios del documento ADOK.441 y su inverso, de autorizaciones, compromisos de gastos, reconocimientos de obligaciones y propuestas de pago por operaciones pendientes de aplicar a presupuesto en fin del ejercicio anterior.
+
+47) APGF, anexo de documentos de presupuesto de gastos para el registro contable de facturas.
+
+48) Anexo de información adicional y su inverso.
+
+> Se añade un documento contable por el art. único.uno de la Resolución de 23 de marzo de 2022. [Ref. BOE-A-2022-5460](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5460)
+
+> Se modifica por el art. 1.1 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+#### Sección 2.ª Documentos contables del presupuesto de ingresos.
+
+##### Regla 10. Concepto.
+
+1\. Son documentos contables del presupuesto de ingresos aquellos que sirven de soporte a las anotaciones contables que se realicen como consecuencia de operaciones de gestión del presupuesto de ingresos.
+
+2\. En el anexo I se recogen los modelos de cumplimentación de los documentos contables del presupuesto de ingresos.
+
+##### Regla 11. Clases de documentos.
+
+Los documentos contables del presupuesto de ingresos, son los siguientes:
+
+1) Soporte de las previsiones iniciales de ejercicio corriente.
+
+2) ACPI.050, de actualización de las previsiones de ingresos.
+
+3) DR.100 y su inverso, de resumen contable de derechos reconocidos.
+
+4) MDR.100 y su inverso, de resumen contable de modificación de derechos reconocidos. Ejercicios cerrados.
+
+5) DROC.150 y su inverso, de resumen contable de derechos reconocidos por órdenes de cobro.
+
+6) DRAF.170 y su inverso, de resumen contable de derechos reconocidos por aplazamiento y fraccionamiento.
+
+7) DRPJ.190 y su inverso, de resumen contable de derechos por reintegros de pagos a justificar.
+
+8) DA.200 y su inverso, de resumen contable de derechos anulados por anulación de liquidaciones.
+
+9) DAOC.250 y su inverso, de resumen contable de derechos anulados relativos a órdenes de cobro.
+
+10) DAAF.270 y su inverso, de resumen contable de derechos anulados por aplazamiento y fraccionamiento.
+
+11) FI.300 y su inverso, de resumen contable de formalización de ingresos realizados.
+
+12) ABPD.350 y su inverso, de resumen contable de adjudicación de bienes en pago de deudas.
+
+13) BI.400 y su inverso, de resumen contable de bajas por insolvencia y otras causas.
+
+14) BP.410 y su inverso, de resumen contable de bajas por prescripción.
+
+15) RADI.800 y su inverso, de reconocimiento de acreedores por devoluciones de ingresos derivadas de la anulación de liquidaciones ingresadas.
+
+16) R.809, correspondientes a devoluciones de ingresos por anulación de liquidaciones ingresadas.
+
+17) RADI.810 y su inverso, de reconocimiento de acreedores por devoluciones de ingresos derivadas de ingresos duplicados o excesivos.
+
+18) R.819, correspondientes a devoluciones de ingresos duplicados o excesivos. Ejercicio corriente.
+
+19) Anexo de los documentos anteriores y sus inversos (anexo general).
+
+#### Sección 3.ª Documentos contables de operaciones no presupuestarias.
+
+##### Regla 12. Concepto.
+
+1\. Son documentos contables de operaciones no presupuestarias aquellos que sirven de soporte a las anotaciones contables que se realicen como consecuencia de dichas operaciones.
+
+2\. En el anexo I se recogen los modelos de cumplimentación de los documentos contables de operaciones no presupuestarias.
+
+##### Regla 13. Clases de documentos.
+
+Los documentos contables de operaciones no presupuestarias, son los siguientes:
+
+1) FI.300 y su inverso, de resumen contable de formalización de ingresos realizados.
+
+2) OEI.310 y su inverso, de resumen contable de ingresos en cuentas bancarias.
+
+3) OEIC.330, de resumen contable de formalización de ingresos centralizados.
+
+4) OERC.335, de resumen contable de formalización de impagados y retrocesiones bancarias por operaciones centralizadas.
+
+5) OEFM.390 y su inverso, de resumen contable de movimientos del fondo de maniobra.
+
+6) OEK.700 y su inverso, de propuestas de pago por operaciones no presupuestarias.
+
+7) OEP.800 y su inverso, de ordenación del pago por operaciones no presupuestarias.
+
+8) R.809, de realización del pago de operaciones no presupuestarias.
+
+9) OETC.850 y su inverso, de traspaso de conceptos no presupuestarios entre centros.
+
+10) OEAD.900, de soporte de asientos directos para operaciones no presupuestarias.
+
+11) Anexo de los documentos anteriores y sus inversos (anexo general).
+
+12) ANPF, anexo de documentos de operaciones no presupuestarias para el registro contable de facturas.
+
+#### Sección 4.ª Documentos de contabilidad patrimonial
+
+##### Regla 14. Concepto.
+
+1\. Son documentos contables de contabilidad patrimonial aquellos que sirven de soporte a las anotaciones contables que se realicen como consecuencia de operaciones con trascendencia exclusivamente patrimonial.
+
+2\. En el anexo I se recogen los modelos de cumplimentación de los documentos contables de contabilidad patrimonial.
+
+##### Regla 15. Clases de documentos.
+
+Los documentos contables de contabilidad patrimonial son los siguientes:
+
+1) CPAD.900, de soporte de asientos directos.
+
+2) CPTC.910 y su inverso, de soporte para traspasos de cuentas entre centros.
+
+3) CPMF.920, de soporte de movilizaciones de fondos entre cuentas bancarias.
+
+4) JPJ.930 y su inverso, de justificación de operaciones de pagos a justificar.
+
+5) JPJ.940 y su inverso, de ajustes de cuentas de imputación al cierre del ejercicio de pagos a justificar.
+
+6) RPJ.950 y su inverso, de resumen contable de operaciones de pagos a justificar.
+
+7) Anexo de los documentos anteriores y sus inversos (anexo general).
+
+8) APJF, anexo de documentos de pagos a justificar para el registro contable de facturas.
+
+9) ACPMF, anexo de movilizaciones de fondos entre cuentas bancarias.
+
+> Se modifica por el art. único.2 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+#### Sección 5.ª Documentos de contabilidad auxiliar del fondo de maniobra.
+
+##### Regla 16. Concepto.
+
+1\. Son documentos de la contabilidad auxiliar del fondo de maniobra aquellos que sirven de soporte a las anotaciones contables que se producen en el dicho subsistema.
+
+2\. En el anexo I se recogen los modelos de cumplimentación de los documentos de la contabilidad auxiliar del fondo de maniobra.
+
+##### Regla 17. Clases de documentos.
+
+Los documentos de la contabilidad auxiliar del fondo de maniobra, son los siguientes:
+
+1) PFM.809 y su inverso, de pagos por el fondo de maniobra.
+
+2) PFMA.819 y su inverso, de pagos por el fondo de maniobra. Anticipos.
+
+3) PFML.839 y su inverso, de pagos por el fondo de maniobra. Liquidaciones.
+
+4) IPR.909 y su inverso, de ingresos por reintegros en el fondo de maniobra.
+
+5) IGC.300 y su inverso, de ingresos por gastos compartidos.
+
+6) IPRA.919 y su inverso, de ingresos por reintegros en el fondo de maniobra. Anticipos.
+
+7) IPRL.939 y su inverso, de ingresos por reintegros en el fondo de maniobra. Liquidaciones.
+
+8) Anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Aplicaciones presupuestarias.
+
+9) Anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Descuentos correspondientes a las operaciones presupuestarias.
+
+10) Anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Operaciones no presupuestarias.
+
+11) Anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Descuentos correspondientes a las operaciones no presupuestarias.
+
+12) Anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Centros relacionados.
+
+13) AFMF, anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Registro contable de facturas.
+
+#### Sección 6.ª Documentos de gastos plurianuales.
+
+##### Regla 18. Concepto.
+
+1\. Son documentos de gastos plurianuales aquellos que sirven de soporte a las anotaciones contables que se producen en los procedimientos de gestión de los expedientes de compromisos de gasto de ejercicios posteriores y de los expedientes de tramitación anticipada.
+
+2\. En el anexo I se recogen los modelos de cumplimentación de los documentos de gastos plurianuales.
+
+##### Regla 19. Clases de documentos.
+
+Los documentos de gastos plurianuales, son los siguientes:
+
+1) MCEP.270, y su inverso, de modificaciones de crédito. Porcentajes y/o anualidades acordados por el Gobierno. Ejercicios posteriores.
+
+2) MCEP.272, y su inverso, de modificaciones de crédito. Compromisos de gasto acordados por el Gobierno. Ejercicios posteriores.
+
+3) RCEP.360 y su inverso, de retenciones de crédito. Ejercicios posteriores.
+
+4) RCTA.365 y su inverso, de retenciones de crédito. Tramitación anticipada.
+
+5) AEP.460 y su inverso, de autorizaciones de gasto. Ejercicios posteriores.
+
+6) ATA.465 y su inverso, de autorizaciones de gasto. Tramitación anticipada.
+
+7) ADEP.470 y su inverso, de autorizaciones y compromisos de gasto. Ejercicios posteriores.
+
+8) ADTA.475 y su inverso, de autorizaciones y compromisos de gasto. Tramitación anticipada.
+
+9) DEP.560 y su inverso, de compromisos de gasto. Ejercicios posteriores.
+
+10) DTA.565 y su inverso, de compromisos de gasto. Tramitación anticipada.
+
+11) Anexo de los documentos RCEP.360, RCTA.365, AEP.460, ATA.465, ADEP.470, ADTA.475, DEP.560, DTA.565 y MCEP.272, de ejercicios posteriores y su inverso.
+
+12) Anexo del documento MCEP.270, de ejercicios posteriores y su inverso.
+
+13) Anexo de información adicional y su inverso.
+
+> Se añade un documento contable por el art. único.dos de la Resolución de 23 de marzo de 2022. [Ref. BOE-A-2022-5460](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5460)
+
+### CAPÍTULO III — Utilización y expedición de documentos contables
+
+#### Sección 1.ª Documentos contables del presupuesto de gastos.
+
+##### Regla 20. Utilización y expedición.
+
+Los documentos contables del presupuesto de gastos, se utilizarán y expedirán en los términos señalados en los apartados siguientes, según la clase de documento.
+
+1) Soporte de los créditos iniciales de ejercicio corriente.
+
+Este documento permite recoger la carga inicial del presupuesto de gastos que de manera directa realizan los servicios informáticos con la dotación inicial de créditos del ejercicio corriente a nivel de cada entidad, en función de los datos obtenidos del presupuesto aprobado por las Cortes Generales.
+
+2) Soporte de los créditos iniciales de gastos plurianuales.
+
+Este documento permite recoger la carga inicial del presupuesto de gastos plurianuales que se realiza de forma automática al comienzo de cada año, con la dotación inicial de créditos de gastos plurianuales a nivel de cada entidad, en un centro de reserva de redistribución de créditos denominado «Control de créditos plurianuales».
+
+3) MCCE.200 y su inverso, de modificaciones de crédito. Créditos extraordinarios.
+
+Estos documentos se utilizan para registrar la concesión de créditos extraordinarios a las entidades gestoras y servicios comunes de la Seguridad Social y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, y se expiden por los servicios centrales de las mismas.
+
+4) MCSC.210 y su inverso, de modificaciones de crédito. Suplementos de crédito.
+
+Estos documentos se utilizan para registrar la concesión de suplementos de crédito a las entidades gestoras y servicios comunes de la Seguridad Social y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, y se expiden por los servicios centrales de las mismas.
+
+5) MCAC.220 y su inverso, de modificaciones de crédito. Ampliaciones de crédito.
+
+Estos documentos se utilizan para registrar la concesión de ampliaciones de crédito a las entidades gestoras y servicios comunes de la Seguridad Social y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, y se expiden por los servicios centrales de las mismas.
+
+6) MCTC.230 y su inverso, de modificaciones de crédito. Transferencias de crédito.
+
+Estos documentos se utilizan para registrar la concesión de transferencias de crédito a las entidades gestoras y servicios comunes de la Seguridad Social y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, y se expiden por los servicios centrales de las mismas.
+
+7) MCIC.240 y su inverso, de modificaciones de crédito. Incorporaciones de crédito.
+
+Estos documentos se utilizan para registrar la concesión de incorporaciones de remanentes de crédito a las entidades gestoras y servicios comunes de la Seguridad Social y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, y se expiden por los servicios centrales de las mismas.
+
+8) MCGI.250 y su inverso, de modificaciones de crédito. Créditos generados por ingresos.
+
+Estos documentos se utilizan para registrar la generación de créditos en las entidades gestoras y servicios comunes de la Seguridad Social por ingresos realizados, y se expiden por los servicios centrales de las mismas.
+
+9) MCBA.280 y su inverso, de modificaciones de crédito. Bajas por anulación.
+
+Estos documentos se utilizan para registrar las anulaciones de créditos que se acuerde, así como las bajas por rectificación de los créditos iniciales de las entidades gestoras, servicios comunes y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, que pueden emplearse para la financiación de modificaciones de crédito en los términos establecidos en la Ley General Presupuestaria y se expiden por los servicios centrales de las mismas.
+
+10) MCRD.290, de modificaciones de crédito. Redistribuciones internas.
+
+Estos documentos se utilizan para registrar las redistribuciones internas de crédito de una misma aplicación entre varios centros de una misma entidad gestora, servicio común y mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, que no afectan al total del crédito presupuestado global y se expiden por los servicios centrales de las mismas.
+
+11) MCRD.291, de modificaciones de crédito. Redistribuciones internas.
+
+Estos documentos se utilizan para registrar las redistribuciones internas de crédito de varias aplicaciones presupuestarias, entre dos centros de una misma entidad gestora, servicio común y mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, que no afectan al total del crédito presupuestado global y se expiden por los servicios centrales de las mismas.
+
+12) RCPU.310 y su inverso, de retenciones de crédito pendientes de utilización.
+
+Estos documentos se utilizan para registrar las retenciones de créditos pendientes de utilización y se expiden por todos los centros de gestión.
+
+13) RCTC.311 y su inverso, de retenciones de crédito para transferencias.
+
+Estos documentos se utilizan para registrar las retenciones de créditos para transferencias y se expiden por los servicios centrales de las entidades.
+
+14) RCND.320 y su inverso, de retenciones de crédito. Créditos no disponibles.
+
+Estos documentos se utilizan para registrar las retenciones de créditos no disponibles y se expiden por los servicios centrales de las entidades.
+
+15) A.400 y su inverso, de autorizaciones de gasto sobre créditos disponibles.
+
+Estos documentos se utilizan para registrar las autorizaciones de gasto sobre créditos definitivos, cuando éstos se encuentran en situación de disponibles, y se expiden por todos los centros de gestión.
+
+16) A.410 y su inverso, de autorizaciones de gasto sobre créditos retenidos.
+
+Estos documentos se utilizan para registrar las autorizaciones de gasto sobre créditos definitivos, cuando éstos se encuentran en situación de retenidos para gastar, y se expiden por todos los centros de gestión.
+
+17) AD.420 y su inverso, de autorizaciones sobre créditos disponibles y compromisos de gasto.
+
+Estos documentos se utilizan para registrar las autorizaciones de gasto sobre créditos definitivos, cuando estos se encuentran en situación de disponibles, así como la fase de compromiso de gasto o de disposición, y se expiden por todos los centros de gestión.
+
+18) AD.430 y su inverso, de autorizaciones de gasto sobre créditos retenidos y compromisos de gasto.
+
+Estos documentos se utilizan para registrar las autorizaciones de gasto sobre créditos definitivos, cuando estos se encuentran en situación de retenidos para gastar, así como la fase de compromiso de gasto o de disposición, y se expiden por todos los centros de gestión.
+
+19) ADOK.440 y su inverso, de autorizaciones de gasto sobre créditos disponibles, compromisos de gasto, reconocimientos de obligaciones y propuestas de pago.
+
+Estos documentos se utilizan para registrar las autorizaciones de gasto sobre créditos definitivos, cuando éstos se encuentran en situación de disponibles, así como las fases de compromiso de gasto o de disposición, reconocimiento de obligaciones y propuestas de pago, y se expiden por todos los centros de gestión.
+
+20) ADOK 441 y su inverso, de autorizaciones y compromisos de gasto, reconocimientos de obligaciones y propuestas de pago por operaciones pendientes de aplicar a presupuesto en fin del ejercicio anterior.
+
+Estos documentos se utilizan para registrar las autorizaciones y compromisos de gasto o de disposición, reconocimiento de obligaciones y propuestas de pago para imputar a presupuesto las obligaciones derivadas de gastos realizados o bienes y servicios recibidos para las que no se había producido su aplicación a presupuesto siendo procedente la misma y contabilizadas en la cuenta 413 «Acreedores por operaciones pendientes de aplicar a presupuesto». Se expiden por todos los centros de gestión.
+
+21) ADOK.450 y su inverso, de autorizaciones de gasto sobre créditos retenidos, compromisos de gasto, reconocimiento de obligaciones y propuestas de pago.
+
+Estos documentos se utilizan para registrar las autorizaciones de gasto sobre créditos definitivos, cuando éstos se encuentran en situación de retenidos para gastar, así como las fases de compromiso de gasto o de disposición, reconocimiento de obligaciones y propuestas de pago, y se expiden por todos los centros de gestión.
+
+22) ADOK.480 y su inverso, de autorizaciones de gasto sobre créditos disponibles, compromisos de gasto, reconocimientos de obligaciones y propuestas de pago a justificar.
+
+Estos documentos se utilizan para registrar las autorizaciones de gasto sobre créditos definitivos, cuando éstos se encuentran en situación de disponibles, así como las fases de compromiso de gasto o de disposición, reconocimiento de obligaciones y propuestas de pago a justificar, y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social.
+
+23) ADOK.490 y su inverso, de autorizaciones de gasto sobre créditos retenidos, compromisos de gasto, reconocimientos de obligaciones y propuestas de pago a justificar.
+
+Estos documentos se utilizan para registrar las autorizaciones de gasto sobre créditos definitivos, cuando éstos se encuentran en situación de retenidos, así como las fases de compromiso de gasto o de disposición, reconocimiento de obligaciones y propuestas de pago a justificar, y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social.
+
+24) D.500 y su inverso, de compromisos de gasto.
+
+Estos documentos se utilizan para registrar los compromisos de gasto o disposición y se expiden por todos los centros de gestión.
+
+25) O.600 y su inverso, de modificación de obligaciones reconocidas de ejercicios anteriores.
+
+Estos documentos se utilizan para registrar rectificaciones del saldo entrante de obligaciones reconocidas en el ejercicio 2004 y anteriores y se expiden por todos los centros de gestión.
+
+26) O.602, y su inverso, de prescripción de obligaciones reconocidas en ejercicios anteriores.
+
+Estos documentos se utilizan para registrar la prescripción de obligaciones reconocidas en el ejercicio 2004 y anteriores y se expiden por todos los centros de gestión.
+
+27) O.603, y su inverso, de acreedores por operaciones devengadas. Obligaciones contraídas con cargo a créditos autorizados/específicos de corriente.
+
+Estos documentos se utilizan para registrar deudas por operaciones devengadas, cuyas obligaciones son exigibles al cierre del ejercicio y, conforme a la normativa presupuestaria, su imputación a presupuesto requiera la existencia de crédito autorizado o específico en el ejercicio corriente destinado a dar cobertura a las mismas y se expiden en todos los centros de gestión.
+
+28) O.604, y su inverso, de acreedores por operaciones devengadas. Obligaciones contraídas con cargo a créditos de corriente.
+
+Estos documentos se utilizan para registrar deudas por operaciones devengadas, cuyas obligaciones son exigibles al cierre del ejercicio y, conforme a la normativa presupuestaria, puedan aplicarse a créditos de un ejercicio corriente posterior. Con carácter general, se expiden en todos los centros de gestión a partir de los documentos de reconocimiento de las obligaciones presupuestarias.
+
+29) O.606, y su inverso, de acreedores por operaciones devengadas. Obligaciones no contraídas.
+
+Estos documentos se utilizan para registrar deudas por operaciones devengadas, cuyas obligaciones resultan exigibles en un ejercicio posterior aplicándose a presupuesto corriente del ejercicio en que se dictan los actos administrativos de reconocimiento de las obligaciones. Con carácter general, se expiden en todos los centros de gestión a partir de los documentos de reconocimiento de las obligaciones presupuestarias.
+
+30) OK.610 y su inverso, de reconocimiento de obligaciones y propuestas de pago.
+
+Estos documentos se utilizan para registrar el reconocimiento de obligaciones, así como la propuesta de pago de las mismas y se expiden por todos los centros de gestión.
+
+31) OK.610 y su inverso, de modificación de obligaciones reconocidas y propuestas de pago de ejercicios anteriores.
+
+Estos documentos se utilizan para registrar rectificaciones del saldo entrante de obligaciones reconocidas y propuestas de pago en el ejercicio 2005 y posteriores y se expiden por todos los centros de gestión.
+
+32) OK.612 y su inverso, de prescripción de obligaciones reconocidas y propuestas de pago de ejercicios anteriores.
+
+Estos documentos se utilizan para registrar la prescripción de obligaciones reconocidas y propuestas su pago en el ejercicio 2005 y posteriores y se expiden por todos los centros de gestión.
+
+33) OK.620 y su inverso, de reconocimiento de obligaciones y propuestas de pago a justificar.
+
+Estos documentos se utilizan para registrar el reconocimiento de obligaciones, así como la propuesta de pago a justificar de las mismas y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social.
+
+34) K.700 y su inverso, de propuestas de pago.
+
+Estos documentos se utilizan para registrar las propuestas de pago de obligaciones reconocidas provenientes de ejercicios cerrados, ejercicio 2004 y anteriores, formuladas a las cajas pagadoras y se expiden por todos los centros de gestión.
+
+35) KRPG.900 y su inverso, de propuestas de reintegros del presupuesto de gastos. Ejercicio corriente.
+
+Estos documentos se utilizan para registrar las propuestas de reintegros del presupuesto de gastos del ejercicio corriente, formuladas a las cajas pagadoras y se expiden por todos los centros de gestión.
+
+36) KRPG.905 y su inverso, de propuestas de reintegros del presupuesto de gastos por operaciones de pagos a justificar. Ejercicio corriente.
+
+Estos documentos se utilizan para registrar las propuestas de reintegros del presupuesto de gastos del ejercicio corriente, que resulten procedentes como consecuencia de la expedición de órdenes de pago a justificar formuladas a las cajas pagadoras y se expiden por todos los centros de gestión.
+
+37) P.800 y su inverso, de ordenación del pago.
+
+Estos documentos se utilizan para registrar las ordenaciones del pago y se expiden por todas las cajas pagadoras.
+
+38) R.809, de realización del pago.
+
+Estos documentos se utilizan para registrar las realizaciones de pagos provenientes de ordenaciones de pagos y se expiden por todas las cajas pagadoras.
+
+39) FRPG.990, de formalización de reintegros del presupuesto de gastos (minora autorizaciones de gasto, compromisos de gasto, reconocimientos de obligaciones, propuestas de pago, ordenaciones de pago y realizaciones de pago). Ejercicio corriente.
+
+Estos documentos se utilizan para registrar los reintegros del presupuesto de gastos del ejercicio corriente y se expiden por todas las cajas pagadoras, minorando las fases de ejecución del gasto señaladas.
+
+40) FRPG.992, de formalización de reintegros del presupuesto de gastos por operaciones de pagos a justificar (minora autorizaciones de gasto, compromisos de gasto, reconocimientos de obligaciones, propuestas de pago, ordenaciones de pago y realizaciones de pago). Ejercicio corriente.
+
+Estos documentos se utilizan para registrar los reintegros del presupuesto de gastos del ejercicio corriente, como consecuencia de la expedición de órdenes de pago a justificar y se expiden por todas las cajas pagadoras, minorando las fases de ejecución del gasto señaladas.
+
+41) FRPG.995, de formalización de reintegros del presupuesto de gastos (minora reconocimientos de obligaciones, propuestas de pago, ordenaciones de pago y realizaciones de pago). Ejercicio corriente.
+
+Estos documentos se utilizan para registrar los reintegros del presupuesto de gastos del ejercicio corriente y se expiden por todas las cajas pagadoras, minorando las fases de ejecución del gasto señaladas.
+
+42) FRPG.998, de formalización de reintegros del presupuesto de gastos por operaciones de pagos a justificar (minora reconocimientos de obligaciones, propuestas de pago, ordenaciones de pago y realizaciones de pago). Ejercicio corriente.
+
+Estos documentos se utilizan para registrar los reintegros del presupuesto de gastos del ejercicio corriente como consecuencia de la expedición de órdenes de pago a justificar y se expiden por todas las cajas pagadoras, minorando las fases de ejecución del gasto señaladas.
+
+43) APGAP y su inverso, de anexo de presupuesto de gastos. Aplicaciones presupuestarias (clasificación orgánica, por programas y económica).
+
+Estos documentos se utilizan, a modo de anexo, para registrar operaciones de ejecución del presupuesto de gasto que recojan modificaciones de crédito cuando el documento de origen no puede recoger la totalidad de las aplicaciones presupuestarias que precisa la operación contable correspondiente, y se expiden por todos los servicios centrales de las entidades gestoras y servicios comunes de la Seguridad Social y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+44) APGAP y su inverso, de anexo de presupuesto de gastos. Aplicaciones presupuestarias (clasificación por programas y económica).
+
+Estos documentos se utilizan, a modo de anexo, para registrar operaciones de ejecución del presupuesto de gasto que no se traten de modificaciones de crédito cuando el documento de origen no puede recoger la totalidad de las aplicaciones presupuestarias que precisa la operación contable correspondiente, y se expiden por todos los centros de gestión.
+
+45) APGD y su inverso, de anexo de presupuesto de gastos. Descuentos.
+
+Estos documentos se utilizan, a modo de anexo, para registrar operaciones de descuento derivadas de otras de ejecución del presupuesto de gasto que no se traten de modificaciones de crédito cuando el documento de origen no puede recoger la totalidad de los descuentos a practicar que precisa la operación contable correspondiente, y se expiden por todos los centros de gestión.
+
+46) APGDC y su inverso, de anexo de presupuesto de gastos. Datos complementarios del documento ADOK.441 y su inverso, de autorizaciones, compromisos de gastos, reconocimientos de obligaciones y propuestas de pago por operaciones pendientes de aplicar a presupuesto en fin del ejercicio anterior.
+
+Estos documentos se utilizan, a modo de anexo, para recoger las aplicaciones presupuestarias del documento de referencia O.603 que se desean aplicar a presupuesto, y se expiden por todos los centros de gestión.
+
+47) APGF, anexo de documentos de presupuesto de gastos para el registro contable de facturas.
+
+Estos documentos se utilizan, a modo de anexo, para registrar datos del registro contable de facturas cuando el documento de presupuesto de gastos de origen no puede recoger la totalidad de las facturas que precisa la operación contable, y se expiden por todos los centros de gestión que expiden los originarios.
+
+48\. Anexo de información adicional y su inverso.
+
+Se utilizará para complementar los documentos contables del presupuesto de gastos, cuando para el registro de la operación sea necesario cumplimentar algún campo del mismo.
+
+> Se añade un documento contable por el art. único.tres de la Resolución de 23 de marzo de 2022. [Ref. BOE-A-2022-5460](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5460)
+
+> Se modifica por el art. 1.2 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+#### Sección 2.ª Documentos contables del presupuesto de ingresos
+
+##### Regla 21. Utilización y expedición.
+
+Los documentos contables del presupuesto de ingresos, se utilizarán y expedirán en los términos señalados en los apartados siguientes, según la clase de documento.
+
+1) Soporte de las previsiones iniciales de ejercicio corriente.
+
+Este documento permite recoger la carga inicial del presupuesto de ingresos que de manera directa realizan los servicios informáticos con la dotación inicial de ingresos previstos, en función de los datos obtenidos del presupuesto aprobado por las Cortes Generales.
+
+2) ACPI.050, de actualización de las previsiones de ingresos.
+
+Estos documentos se utilizan para registrar las modificaciones de las previsiones del presupuesto de ingresos y se expiden por los servicios centrales de la Tesorería General de la Seguridad Social y de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+3) DR.100 y su inverso, de resumen contable de derechos reconocidos.
+
+Estos documentos se utilizan para registrar el reconocimiento de derechos de carácter presupuestario, cuando no se instrumenten en órdenes de cobro y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General y por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+4) MDR.100 y su inverso, de resumen contable de modificación de derechos reconocidos. Ejercicios cerrados.
+
+Estos documentos tienen carácter excepcional y se utilizan para registrar la modificación al alza de los derechos reconocidos en ejercicios anteriores y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General de la Seguridad Social y por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+5) DROC.150 y su inverso, de resumen contable de derechos reconocidos por órdenes de cobro.
+
+Estos documentos se utilizan para registrar el reconocimiento de derechos, materializados por órdenes de cobro, cuando el elemento patrimonial que genera el recurso presupuestario se encuentra registrado en la contabilidad del centro de gestión emisor.
+
+De acuerdo con lo anterior, se utilizan estos documentos para registrar las operaciones relativas a enajenación del inmovilizado, material o financiero, reembolso de préstamos y anticipos concedidos y recuperación de fianzas y depósitos constituidos. A este respecto, el primer tipo de operaciones precisará además la contabilización de documentos de asiento directo de contabilidad patrimonial, mientras que para el reembolso de préstamos y anticipos, será necesaria también la contabilización de documentos de propuesta, ordenación y materialización de pago no presupuestario, aplicados a un concepto no presupuestario de naturaleza acreedora, que previamente y con carácter general, se habría recogido como descuento en el documento que recogiese la propuesta de pago de la nómina. Igualmente se utilizan en las operaciones de ajuste y actualización en la valoración de créditos y otras partidas a cobrar u otras actuaciones de carácter financiero, así como para la imputación presupuestaria de rentabilidades, intereses o dividendos con origen en activos de esta naturaleza.
+
+En todos los casos, los documentos de resumen contable de derechos reconocidos por órdenes de cobro se expiden por todos los centros de gestión.
+
+6) DRAF.170 y su inverso, de resumen contable de derechos reconocidos por aplazamiento y fraccionamiento.
+
+Estos documentos se utilizan para registrar el reconocimiento de derechos procedentes de cantidades aplazadas que, figurando en los conceptos no presupuestarios 10110 «Deudores a corto plazo por aplazamiento y fraccionamiento» y 10010 «Deudores a largo plazo por aplazamiento y fraccionamiento», tengan su vencimiento en el ejercicio y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General y por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+7) DRPJ.190 y su inverso, de resumen contable de derechos por reintegros de pagos a justificar.
+
+Estos documentos se utilizan para registrar el reconocimiento de derechos procedentes del reintegro de las cantidades no invertidas recibidas a justificar y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social.
+
+8) DA.200 y su inverso, de resumen contable de derechos anulados por anulación de liquidaciones.
+
+Estos documentos se utilizan para registrar la anulación de derechos derivada de la anulación de liquidaciones giradas, cuando éstas se hallen pendientes de ingreso, y se hubieran contabilizado mediante documentos DR.100 en el ejercicio corriente o sean derechos de ejercicios cerrados y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General y por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+Estos documentos no cumplen las mismas funciones que los documentos DR.100 inversos, ya que el motivo es distinto. Estos últimos documentos se utilizan para corregir errores contables, en tanto que los documentos DA.200 registran la anulación de la liquidación.
+
+9) DAOC.250 y su inverso, de resumen contable de derechos anulados relativos a órdenes de cobro.
+
+Estos documentos se utilizan para registrar la anulación de derechos reconocidos de ejercicio corriente y de ejercicios cerrados soportados en órdenes de cobro, cuando éstas se hallaren pendientes de ingreso y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General y por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+Estos documentos no cumplen las mismas funciones que los DROC.150 inversos, ya que el motivo es distinto. Estos últimos documentos se utilizan para corregir errores contables, en tanto que los documentos DAOC.250 registran la anulación de la orden de cobro.
+
+10) DAAF.270 y su inverso, de resumen contable de derechos anulados por aplazamiento y fraccionamiento.
+
+Estos documentos se utilizan para registrar la anulación de derechos de ejercicio corriente y de ejercicios cerrados por cantidades aplazadas con vencimiento en ejercicios posteriores al corriente y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General y por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+11) FI.300 y su inverso, de resumen contable de formalización de ingresos realizados.
+
+La utilización y expedición de estos documentos se recoge en la sección tercera relativa a documentos contables de operaciones no presupuestarias.
+
+12) ABPD.350 y su inverso, de resumen contable de adjudicación de bienes en pago de deudas.
+
+Estos documentos se utilizan para registrar las adjudicaciones de bienes en pago de deudas de ejercicio corriente y de ejercicios cerrados y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General y por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+13) BI.400 y su inverso, de resumen contable de bajas por insolvencia y otras causas.
+
+Estos documentos se utilizan para registrar la cancelación de derechos de ejercicio corriente y de ejercicios cerrados, derivada de insolvencias y otras causas, a excepción de la prescripción y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General y por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+14) BP.410 y su inverso, de resumen contable de bajas por prescripción.
+
+Estos documentos se utilizan para registrar la cancelación de derechos reconocidos en ejercicios anteriores derivada de su prescripción y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General y por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+15) RADI.800 y su inverso, de reconocimiento de acreedores por devoluciones de ingresos derivadas de la anulación de liquidaciones ingresadas.
+
+Estos documentos se utilizan para registrar el reconocimiento de acreedores por devolución de ingresos que tienen su origen en anulaciones de liquidaciones ya ingresadas y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General y por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social. La contabilización de estos documentos implica la ordenación del pago.
+
+A estos efectos, se entenderá que pertenecen a esta agrupación las devoluciones que sean consecuencia de autoliquidaciones presentadas e ingresadas indebidamente por los interesados, sea por duplicidad, sea por haber practicado la misma por exceso.
+
+16) R.809, correspondientes a devoluciones de ingresos por anulación de liquidaciones ingresadas.
+
+Estos documentos se utilizan para registrar el pago material de las devoluciones de ingresos que tienen su origen en la anulación de las liquidaciones ya ingresadas y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General y por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+17) RADI.810 y su inverso, de reconocimiento de acreedores por devoluciones de ingresos derivadas de ingresos duplicados o excesivos.
+
+Estos documentos se utilizan para registrar el reconocimiento de acreedores por devoluciones de ingresos que tienen su origen en ingresos duplicados o excesivos relativos a liquidaciones correctamente giradas y el ingreso se imputó en el ejercicio corriente y en ejercicios cerrados y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General y por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social. La contabilización de estos documentos implica la ordenación del pago.
+
+Este supuesto sólo puede darse cuando se trate, exclusivamente, de liquidaciones de contraído previo y se produce únicamente cuando el contraído es correcto pero el ingreso no.
+
+18) R.819, correspondientes a devoluciones de ingresos duplicados o excesivos.
+
+Estos documentos se utilizan para registrar el pago material de las devoluciones de ingresos que tienen su origen en ingresos duplicados o excesivos relativos a liquidaciones correctamente giradas y el ingreso se imputó en el ejercicio corriente y en ejercicios cerrados y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General y por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+19) Anexo de los documentos anteriores y sus inversos (anexo general).
+
+Estos documentos se utilizan, a modo de anexo, para registrar operaciones de ejecución del presupuesto de ingresos cuando el documento de origen no puede recoger la totalidad de las aplicaciones presupuestarias que precisa la operación contable correspondiente, y se expiden por todos los centros de gestión.
+
+#### Sección 3.ª Documentos contables de operaciones no presupuestarias.
+
+##### Regla 22. Utilización y expedición.
+
+Los documentos contables de operaciones no presupuestarias, se utilizarán y expedirán en los términos señalados en los apartados siguientes, según la clase de documento.
+
+1) FI.300 y su inverso, de resumen contable de formalización de ingresos realizados.
+
+Estos documentos se utilizan para dar a los ingresos la aplicación definitiva presupuestaria, reconociendo y recaudando derechos de ejercicio corriente, a través del apartado FI.1, o recaudando derechos de ejercicio corriente y de cerrados, a través del apartado FI.2, así como darles la aplicación definitiva no presupuestaria, a través de los apartado FI.3 y FI.4, y se expiden por los servicios centrales y direcciones provinciales de la Tesorería General y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+2) OEI.310 y su inverso, de resumen contable de ingresos en cuentas bancarias.
+
+Estos documentos se utilizan para registrar los ingresos en cualquier cuenta bancaria, a excepción de las pertenecientes a las cuentas del fondo de maniobra y de pagos a justificar, y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General y por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+3) OEIC.330, de resumen contable de formalización de ingresos centralizados.
+
+Estos documentos se utilizan para registrar la distribución de ingresos centralizados a las direcciones provinciales de la Tesorería General de la Seguridad Social o centros gestores de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social y los expiden los servicios centrales de la Tesorería General de la Seguridad Social y de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+4) OERC.335, de resumen contable de formalización de impagados y retrocesiones bancarias por operaciones centralizadas.
+
+Estos documentos se utilizan para registrar la distribución de impagados y retrocesiones bancarias, correspondientes a pagos centralizados, a las direcciones provinciales de la Tesorería General de la Seguridad Social o centros gestores de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social y se expiden por los servicios centrales de la Tesorería General de la Seguridad Social y de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+5) OEFM.390 y su inverso, de resumen contable de movimientos del fondo de maniobra.
+
+Estos documentos se utilizan para registrar los movimientos relativos al fondo de maniobra y se expiden por todos los centros de gestión.
+
+6) OEK.700 y su inverso, de propuestas de pago por operaciones no presupuestarias.
+
+Estos documentos se utilizan para registrar las propuestas de pago por operaciones no presupuestarias formuladas a las cajas pagadoras y se expiden por todos los centros de gestión.
+
+7) OEP.800 y su inverso, de ordenación del pago por operaciones no presupuestarias.
+
+Estos documentos se utilizan para registrar la ordenación del pago no presupuestario y se expiden por todas las cajas pagadoras.
+
+8) R.809, de realización de pago de operaciones no presupuestarias.
+
+Estos documentos se utilizan para registrar la realización del pago y se expiden por todas las cajas pagadoras.
+
+9) OETC.850 y su inverso, de traspaso de conceptos no presupuestarios entre centros.
+
+Estos documentos se utilizan para registrar el traspaso de conceptos no presupuestarios a otros centros y se expiden por todos los centros de gestión.
+
+10) OEAD.900, de soporte de asientos directos para operaciones no presupuestarias.
+
+Estos documentos se utilizan para el registro de asientos directos de operaciones no presupuestarias y se expiden por todos los centros de gestión.
+
+Existen dos modalidades de expedición de estos documentos. Una de ellas contemplará exclusivamente conceptos no presupuestarios y la otra incluirá, además, una o varias cuentas del plan no relacionada con dichos conceptos.
+
+En el primer caso, el total de los conceptos identificados con la letra «D» deberá coincidir con el total de los conceptos identificados con la letra «H». En el segundo caso, todos los conceptos no presupuestarios deberán tener el mismo identificativo y la suma de sus importes parciales habrá de coincidir con el de la/s cuenta/s consignada/s en la parte inferior del cuerpo central del documento.
+
+11) Anexo de los documentos anteriores y sus inversos (anexo general).
+
+Estos documentos se utilizan, a modo de anexo, para registrar operaciones de carácter no presupuestario cuando el documento de origen no puede recoger la totalidad de los conceptos que precisa la operación contable correspondiente, y se expiden por todos los centros de gestión.
+
+12) ANPF, anexo de documentos de operaciones no presupuestarias para el registro contable de facturas.
+
+Estos documentos se utilizan, a modo de anexo, para registrar datos del registro contable de facturas cuando el documento de operaciones no presupuestarias de origen no puede recoger la totalidad de las facturas que precisa la operación contable, y se expiden por todos los centros de gestión que expiden los originarios.
+
+> Se modifica el apartado 10 por el art. único.1 de la Resolución de 20 de diciembre de 2019. [Ref. BOE-A-2020-87](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-87)
+
+#### Sección 4.ª Documentos de contabilidad patrimonial.
+
+##### Regla 23. Utilización y expedición.
+
+Los documentos contables de contabilidad patrimonial, se utilizarán y expedirán en los términos señalados en los apartados siguientes, según la clase de documento.
+
+1) CPAD.900, de soporte de asientos directos.
+
+Estos documentos se utilizan para registrar asientos directos de contabilidad patrimonial y se expiden por todos los centros de gestión.
+
+2) CPTC.910 y su inverso, de soporte para traspasos de cuentas entre centros.
+
+Estos documentos se utilizan para registrar traspasos de cuentas entre centros y se expiden por todos los centros de gestión para efectuar traspasos de cuentas a otro centro, siempre que en las mismas no tengan reflejo operaciones no presupuestarias, ya que en este caso deben utilizarse los documentos OETC.850, de traspaso de conceptos no presupuestarios.
+
+3) CPMF.920, de soporte de movilizaciones de fondos entre cuentas bancarias.
+
+Estos documentos se utilizan para registrar movilizaciones de fondos entre cuentas bancarias de la misma tesorería o entre distintas tesorerías, y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General y por las mutuas colaboradoras con la Seguridad Social.
+
+4) JPJ.930 y su inverso, de justificación de operaciones de pagos a justificar.
+
+Estos documentos se utilizan para registrar la justificación de los fondos recibidos, una vez presentada la cuenta justificativa, y su contabilización implicará el registro del gasto o inversión efectivamente realizados en la contabilidad económico-patrimonial y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social.
+
+5) JPJ.940 y su inverso, de ajustes de cuentas de imputación al cierre del ejercicio de pagos a justificar.
+
+Estos documentos se utilizan para recoger en la contabilidad patrimonial, los gastos realizados con fondos librados a justificar que a fin de ejercicio se encuentren pendientes de presentar la correspondiente cuenta justificativa. Su contabilización permitirá ajustar en el ejercicio corriente el gasto presupuestario con su correspondiente imputación en contabilidad patrimonial por el importe de los gastos satisfechos cuya cuenta justificativa no se haya presentado a fin de ejercicio y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social.
+
+6) RPJ.950 y su inverso, de resumen contable de operaciones de pagos a justificar.
+
+Estos documentos se utilizan para registrar los movimientos relativos a los fondos librados a justificar y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social.
+
+7) Anexo de los documentos anteriores y sus inversos (anexo general).
+
+Estos documentos se utilizan, a modo de anexo, para registrar operaciones de carácter patrimonial cuando el documento de origen no puede recoger la totalidad de cuentas que precisa la operación contable correspondiente, y se expiden por todos los centros de gestión.
+
+8) APJF, anexo de documentos de pagos a justificar para el Registro contable de facturas.
+
+Estos documentos se utilizan, a modo de anexo, para registrar datos del registro contable de facturas cuando el documento de pagos a justificar de origen no puede recoger la totalidad de las facturas que precisa la operación contable, y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social que expiden los originarios.
+
+9) ACPMF, anexo de movilizaciones de fondos entre cuentas bancarias.
+
+Estos documentos se utilizan, a modo de anexo, para registrar datos de movilizaciones de fondos entre cuentas bancarias cuando el documento de movilizaciones de fondos de origen no puede recoger la totalidad de la información que precisa la operación contable, y se expiden por los servicios centrales o las direcciones provinciales de la Tesorería General y por las mutuas colaboradoras con la Seguridad Social que expiden los originarios.
+
+> Se renumeran los apartados 3 a 7 como 4 a 8 y se añaden los apartados 3 y 9 por el art. único.3 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+> Se modifican los apartados 3 y 4 por el art. 2.1 de la Resolución de 19 de junio de 2025. [Ref. BOE-A-2025-13081](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13081)
+
+#### Sección 5.ª Documentos de la contabilidad auxiliar del fondo de maniobra.
+
+##### Regla 24. Utilización y expedición.
+
+Los documentos de la contabilidad auxiliar del fondo de maniobra, se utilizarán en los términos señalados en los apartados siguientes, según la clase de documento. En cuando a su expedición, serán grabados por las unidades administrativas responsables del fondo de maniobra (en adelante UAFM) de los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social y servicios gestores de las Mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, no estando soportados en papel sino, únicamente en registros informáticos, sin perjuicio de que pueda obtenerse copia impresa de todos ellos, cuando así se estime necesario.
+
+1) PFM.809 y su inverso, de pagos por el fondo de maniobra.
+
+Estos documentos se utilizan para registrar pagos tanto de naturaleza presupuestaria como no presupuestaria y por gastos compartidos, que se realicen con cargo al fondo de maniobra.
+
+2) PFMA.819 y su inverso, de pagos por el fondo de maniobra. Anticipos.
+
+Estos documentos se utilizan para registrar pagos, iniciales y complementarios de naturaleza no presupuestaria que se hagan en concepto de anticipo de dietas y gastos de viaje y con cargo al fondo de maniobra.
+
+3) PFML.839 y su inverso, de pagos por el fondo de maniobra. Liquidaciones.
+
+Estos documentos se utilizan para registrar pagos, iniciales y complementarios de naturaleza presupuestaria que se hagan en concepto de liquidación de dietas y gastos de viaje y con cargo al fondo de maniobra.
+
+4) IPR.909 y su inverso, de ingresos por reintegros en el fondo de maniobra.
+
+Estos documentos se utilizan para registrar ingresos, tanto de naturaleza presupuestaria como no presupuestaria, procedentes de retrocesiones bancarias de operaciones, impagadas y pagos indebidos o excesivos y con cargo al fondo de maniobra.
+
+5) IGC.300 y su inverso, de ingresos por gastos compartidos.
+
+Estos documentos se utilizan para registrar ingresos procedentes de otro u otros centros de gestión que hubieren anticipado pagos con cargo al fondo de maniobra.
+
+6) IPRA.919 y su inverso, de ingresos por reintegros en el fondo de maniobra. Anticipos.
+
+Estos documentos se utilizan para registrar ingresos de naturaleza no presupuestaria procedentes de reintegros de cantidades anticipadas en concepto de dietas y gastos de viaje y con cargo al fondo de maniobra.
+
+7) IPRL.939 y su inverso, de ingresos por reintegros en el fondo de maniobra. Liquidaciones.
+
+Estos documentos se utilizan para registrar ingresos de naturaleza presupuestaria procedentes de reintegros de cantidades liquidadas en concepto de dietas y gastos de viaje y con cargo al fondo de maniobra.
+
+8) Anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Aplicaciones presupuestarias.
+
+Estos documentos se utilizan, a modo de anexo, para registrar aplicaciones presupuestarias de pagos con cargo al fondo de maniobra cuando el documento de origen no puede recoger la totalidad de las aplicaciones que precisa la operación.
+
+9) Anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Descuentos correspondientes a las operaciones presupuestarias.
+
+Estos documentos se utilizan, a modo de anexo, para registrar descuentos correspondientes a operaciones de aplicaciones presupuestarias de pagos con cargo al fondo de maniobra cuando el documento de origen no puede recoger la totalidad de los descuentos que precisa la operación.
+
+10) Anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Operaciones no presupuestarias.
+
+Estos documentos se utilizan, a modo de anexo, para registrar conceptos no presupuestarios de pagos con cargo al fondo de maniobra cuando el documento de origen no puede recoger la totalidad de los conceptos que precisa la operación.
+
+11) Anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Descuentos correspondientes a las operaciones no presupuestarias.
+
+Estos documentos se utilizan, a modo de anexo, para registrar descuentos correspondientes a operaciones no presupuestarias de pagos con cargo al fondo de maniobra cuando el documento de origen no puede recoger la totalidad de los descuentos que precisa la operación.
+
+12) Anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Centros relacionados.
+
+Estos documentos se utilizan en el caso de pagos con cargo al fondo de maniobra por gastos compartidos para recoger los realizados por el centro de origen que hubiera adelantado el pago por cuenta de los centros de destino y se expiden por los centros de gestión de origen.
+
+13) AFMF, anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Registro contable de facturas.
+
+Estos documentos se utilizan, a modo de anexo, para registrar datos del registro contable de facturas cuando el documento del subsistema de fondo de maniobra de origen no puede recoger la totalidad de las facturas que precisa la operación contable, y se expiden por todos los centros de gestión que expiden los originarios.
+
+#### Sección 6.ª Documentos de gastos plurianuales.
+
+##### Regla 25. Utilización y expedición.
+
+Los documentos contables de gastos plurianuales se utilizarán y expedirán en los términos señalados en los apartados siguientes, según la clase de documento.
+
+1) MCEP.270, y su inverso, de modificaciones de crédito. Porcentajes y/o anualidades acordados por el Gobierno. Ejercicios posteriores.
+
+Estos documentos se utilizan para registrar en las entidades gestoras y servicios comunes de la Seguridad Social las modificaciones en los créditos de ejercicios posteriores, causadas por un acuerdo del Gobierno de modificación de los porcentajes y/o incremento del número de anualidades, en los términos que contempla el artículo 47.3 de la Ley General Presupuestaria, y se expiden por los servicios centrales de las mismas.
+
+2) MCEP.272, y su inverso, de modificaciones de crédito. Compromisos de gasto acordados por el Gobierno. Ejercicios posteriores.
+
+Estos documentos se utilizan para registrar en las entidades gestoras y servicios comunes de la Seguridad Social las modificaciones en los créditos de ejercicios posteriores, causadas por un acuerdo del Gobierno que autoriza la adquisición de compromisos de gasto, cuando no exista crédito inicial, en los términos que contempla el artículo 47.3 de la Ley General Presupuestaria, y se expiden por los servicios centrales de la misma.
+
+3) RCEP.360 y su inverso, de retenciones de crédito. Ejercicios posteriores.
+
+Estos documentos se utilizan para registrar las retenciones de crédito de ejercicios posteriores y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social, previa aprobación de los servicios centrales de las respectivas entidades.
+
+4) RCTA.365 y su inverso, de retenciones de crédito. Tramitación anticipada.
+
+Estos documentos se utilizan para registrar las retenciones de crédito de tramitación anticipada y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social, previa aprobación de los servicios centrales de las respectivas entidades.
+
+5) AEP.460 y su inverso, de autorizaciones de gasto. Ejercicios posteriores.
+
+Estos documentos se utilizan para registrar las autorizaciones de gasto de ejercicios posteriores sobre créditos de gastos plurianuales previamente retenidos y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social.
+
+6) ATA.465 y su inverso, de autorizaciones de gasto. Tramitación anticipada.
+
+Estos documentos se utilizan para registrar las autorizaciones de gasto de tramitación anticipada sobre créditos de gastos plurianuales previamente retenidos y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social.
+
+7) ADEP.470 y su inverso, de autorizaciones y compromisos de gasto. Ejercicios posteriores.
+
+Estos documentos se utilizan para registrar las autorizaciones de gasto y compromisos de gasto o disposición de ejercicios posteriores sobre créditos de gastos plurianuales previamente retenidos y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social.
+
+8) ADTA.475 y su inverso, de autorizaciones y compromisos de gasto. Tramitación anticipada.
+
+Estos documentos se utilizan para registrar las autorizaciones de gasto y compromisos de gasto o disposición de tramitación anticipada sobre créditos de gastos plurianuales previamente retenidos y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social.
+
+9) DEP.560 y su inverso, de compromisos de gasto. Ejercicios posteriores.
+
+Estos documentos se utilizan para registrar los compromisos de gasto o disposición de ejercicios posteriores sobre créditos de gastos plurianuales previamente retenidos y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social.
+
+10) DTA.565 y su inverso, de compromisos de gasto. Tramitación anticipada.
+
+Estos documentos se utilizan para registrar los compromisos de gasto o disposición de tramitación anticipada sobre créditos de gastos plurianuales previamente retenidos y se expiden por todos los centros de gestión de las entidades gestoras y servicios comunes de la Seguridad Social.
+
+11) Anexo de los documentos RCEP.360, RCTA.365, AEP.460, ATA.465, ADEP.470, ADTA.475, DEP.560, DTA.565 y MCEP.272, de ejercicios posteriores y tramitación anticipada y su inverso.
+
+Estos documentos se utilizan, a modo de anexo, para registrar operaciones de ejecución de gastos plurianuales y modificaciones de crédito registradas por medio del documento MCEP.272 y el documento de origen no puede recoger la totalidad de las aplicaciones presupuestarias que precisa la operación contable, y se expiden por los centros de gestión que expiden los originarios.
+
+12) Anexo del documento MCEP.270, de ejercicios posteriores y su inverso.
+
+Este documento se utiliza, a modo de anexo, para registrar operaciones de modificaciones de crédito registradas por medio del documento MCEP.270, cuando el documento de origen no puede recoger la totalidad de las aplicaciones presupuestarias que precisa la operación contable, y se expiden por los centros de gestión que expiden los originarios.
+
+13) Anexo de información adicional y su inverso.
+
+Se utilizará para complementar los documentos contables de gastos plurianuales, cuando para el registro de la operación sea necesario cumplimentar algún campo del mismo.
+
+> Se añade un documento contable por el art. único.cuatro de la Resolución de 23 de marzo de 2022. [Ref. BOE-A-2022-5460](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5460)
+
+### CAPÍTULO IV — Normas de cumplimentación
+
+##### Regla 26. Datos a cumplimentar.
+
+En términos generales, y con independencia de la forma de incorporación de la información contable al SICOSS, a continuación se establecen los datos de los documentos contables junto con las normas de cumplimentación de los mismos:
+
+1) Ejercicio: se consignarán las cuatro cifras del mismo.
+
+2) Entidad, centro de gestión o tesorería emisora, según el tipo de documento: Se consignará el nombre y código que corresponda, de conformidad con lo que establezca la Dirección General de Ordenación de la Seguridad Social y que será invariable hasta su extinción.
+
+El código de identificación para las Entidades es el siguiente:
+
+| Clave numérica | Denominación | Entidad |
+|---|---|---|
+| 1001 | INSS | Instituto Nacional de la Seguridad Social. |
+| 1002 | INGESA | Instituto Nacional de Gestión Sanitaria. |
+| 1003 | IMSERSO | Instituto de Mayores y Servicios Sociales. |
+| 1004 | ISM | Instituto Social de la Marina. |
+| 1005 | TGSS | Tesorería General de la Seguridad Social. |
+| 1006 | GISS | Gerencia de Informática de la Seguridad Social. |
+
+El código de identificación del centro de gestión constará de nueve dígitos, con el siguiente detalle:
+
+a) Primer dígito: “1” para las entidades gestoras y servicios comunes de la Seguridad Social y “2” para las mutuas colaboradoras con la Seguridad Social.
+
+b) Segundo, tercer y cuarto dígito: “001» para el Instituto Nacional de la Seguridad Social, “002” para el Instituto Nacional de Gestión Sanitaria, “003” para el Instituto de Mayores y Servicios Sociales, “004” para el Instituto Social de la Marina, “005” para la Tesorería General de la Seguridad Social, “006” para la Gerencia de Informática de la Seguridad Social y los que corresponda para cada mutua colaboradora con la Seguridad Social, según su número.
+
+c) Quinto y sexto dígito: provincia.
+
+d) Séptimo y octavo dígito: número de orden dentro de la entidad y provincia.
+
+e) Noveno dígito: control.
+
+3) Número de expediente: se consignará el que corresponda a los servicios que cumplimenten el documento y habrá de comenzar, necesariamente, por las cuatro cifras del ejercicio en el que tuvo origen, según la siguiente estructura: «yyyy/xxxxxx», donde «yyyy» expresa el ejercicio y «xxxxxx» el código alfanumérico identificativo del expediente.
+
+Sin perjuicio de lo anterior, en aquellos documentos que recojan la fase de reconocimiento de la obligación, las cuatro primeras cifras del número de expediente se corresponderán con el ejercicio en el que la obligación sea exigible.
+
+4) Número de referencia: se deberá consignar el número de registro de un documento precedente. Se compone de las partes que se indican a continuación:
+
+a) Primera parte: cuatro cifras del año de registro.
+
+b) Segunda parte: número de orden secuencial.
+
+c) Tercera parte: código de control.
+
+El número de referencia se consignará, cuando proceda, con arreglo a las siguientes pautas:
+
+a) Documentos MC, excepto de transferencias de crédito: no se consignará referencia alguna.
+
+b) Documentos MCTC: se consignará la referencia de la retención previa.
+
+c) Documentos RC: no se consignará referencia alguna.
+
+d) Documentos A, sobre créditos disponibles: no se consignará referencia alguna.
+
+e) Documentos A, sobre créditos retenidos: se consignará la referencia de la retención previa.
+
+f) Documentos D: solo se consignará la referencia del documento A, cuando se trate de operaciones de seguimiento específico.
+
+g) Documentos OK: se hará referencia al documento D únicamente si se trata de operaciones de seguimiento específico.
+
+h) Documentos O, de modificación de obligaciones reconocidas en ejercicios anteriores: se hará referencia al documento O de ejercicios cerrados.
+
+i) Documentos OK, de modificación de obligaciones reconocidas y propuestas de pago en ejercicios anteriores: se hará referencia al documento OK de ejercicios cerrados.
+
+j) Documentos O.602 y OK.612, de prescripción de obligaciones reconocidas en ejercicios anteriores: se hará referencia al documento O u OK de ejercicios cerrados.
+
+k) Documentos O.603, O.604 y O.606: no se consignará referencia alguna.
+
+l) Documentos K, de ejercicios cerrados: se consignará como número de referencia el del documento O que originó la propuesta de pago.
+
+m) Documentos ADOK.441: se consignará como número de referencia el del documento O.603 de origen.
+
+n) Documentos P: se consignará como número de referencia el del documento en fase K que origina la ordenación del pago.
+
+o) Documentos R: contendrán los documentos de referencia de los documentos P a que correspondan.
+
+p) Documentos KRPG: Con carácter general se consignará como número de referencia el de los documentos OK o ADOK a que corresponda la propuesta de reintegro. No obstante, cuando la propuesta de reintegro se circunscriba a los pagos por relación previstos en el apartado 10 siguiente relativo a forma de pago, o compensación de prestaciones económicas, podrá consignarse la del documento últimamente expedido, de igual naturaleza, en el que sea posible practicar la minoración en su totalidad.
+
+No obstante, en aquellos documentos KRPG que se elaboren para el registro de impagados, retrocesiones o reintegros de pagos indebidos de prestaciones económicas del sistema de la Seguridad Social y compensación de prestaciones económicas, que se imputan a las aplicaciones presupuestarias del artículo 48 “Transferencias corrientes. A familias e instituciones sin fines de lucro” no será necesario consignar el número de referencia del documento OK o ADOK, a excepción de aquellos que se expidan para subsanar errores detectados una vez efectuado el pago de operaciones presupuestarias u otros errores en la contabilización del documento, recogidos en las reglas 59 y 61 de la Instrucción de operatoria contable, donde siempre es necesario consignar el número de referencia del documento ADOK u OK origen del error.
+
+q) Documentos FRPG: se consignará como número de referencia el del documento KRPG, que origina la formalización del reintegro.
+
+r) Documentos mixtos: se aplicarán los criterios establecidos para la primera de las fases presupuestarias que contengan.
+
+s) Documentos OEK: no se consignará referencia alguna.
+
+t) Documentos OEP: se consignará como número de referencia el del documento OEK que origina la orden de pago.
+
+u) Documentos R: contendrán los números de referencia de los documentos OEP a que correspondan.
+
+v) Documentos PFM: se consignará el número de referencia correspondiente al documento PFM del centro que hubiera anticipado el pago, en el caso de gastos compartidos. En el resto de los casos, no se consignará número de referencia.
+
+w) Documentos IGC: se consignarán los números de referencias del PFM en virtud del cual se realizó el anticipo y del PFM del centro de relación, en virtud del cual se rembolsó el anticipo.
+
+x) Documentos IPR: se consignará el número de referencia del documento PFM al que deba aplicarse el ingreso.
+
+y) Documentos PFMA, pagos complementarios: se consignará el número de referencia del documento PFMA origen del anticipo.
+
+z) Documentos IPRA: se consignará el número de referencia del documento PFMA origen del anticipo.
+
+aa) Documentos PFML: en el caso de que la liquidación que se registre lleve asociado un anticipo, se consignará el número de referencia del PFMA origen del anticipo.
+
+bb) Documentos PFML, pagos complementarios: se consignará el número de referencia del documento PFML origen de la liquidación.
+
+cc) Documentos IPRL: se consignará el número de referencia del documento PFML origen de la liquidación.
+
+dd) Documentos inversos: se hará siempre referencia al documento ordinario con el que se relacionan, con la sola excepción de los documentos A, D y AD inversos, que correspondan a criterios de seguimiento no específico, para los cuales no se haya hecho una retención previa.
+
+Todos los créditos presupuestarios consignados en los capítulos 2 y 6 del presupuesto de gastos serán de seguimiento específico a partir de la autorización del gasto.
+
+5) Interesado: se indicará, cuando proceda, previa acreditación, el número de identificación fiscal y su nombre o razón social, sin abreviaturas, a excepción de las correspondientes a las siglas comerciales habituales. Cuando para las personas físicas no sea exigible el número de identificación fiscal, se consignará el número del documento nacional de identidad seguido del carácter de control que le hubiera correspondido a dichos efectos.
+
+Tratándose de establecimientos comerciales abiertos al público por particulares, se consignará el nombre del interesado y, a continuación, entre paréntesis, el nombre del establecimiento comercial.
+
+Cuando se consigne en un documento contable la forma de pago 04, deberá figurar el interesado al que se refiere el último párrafo del apartado 10.) A) de esta regla.
+
+Cuando se consigne en un documento contable la forma de pago 06, deberá figurar el interesado que hubiera correspondido de tratarse de un documento contable que recogiese una operación con salida material de fondos.
+
+En el caso de gastos compartidos realizados a través del subsistema de contabilidad auxiliar del fondo de maniobra, los centros por cuya cuenta se hubiera efectuado el pago, consignarán como interesado en el documento PFM.809 el número de identificación fiscal del centro que lo hubiera anticipado.
+
+En los documentos de propuestas de pagos a justificar, se consignará como interesado el propio centro de gestión y en los documentos de justificación de operaciones relacionados con dichos pagos se consignará como interesado el acreedor final.
+
+6) Ordinal bancario: se consignará, cuando proceda, tomando en consideración que, a cada cuenta receptora de fondos de cada acreedor, el sistema le asignará un código interno de dos cifras.
+
+La Tesorería General de la Seguridad Social podrá modificar los ordinales bancarios cuando ello resulte necesario.
+
+En los documentos de propuestas de pago a justificar el ordinal bancario será la cuenta bancaria de pagos a justificar del centro.
+
+7) Cuenta bancaria: se consignará, previa acreditación mediante certificación bancaria o documento similar con arreglo a la normativa vigente, especificando las claves de país, dígitos de control IBAN, entidad, sucursal, dígitos de control y número de cuenta.
+
+8) Campos del cesionario: se consignarán, cuando procedan, aplicando los mismos criterios que en los tres números anteriores.
+
+9) Tipo de pago: se consignará, cuando proceda, el que corresponda con arreglo a la tabla consignada en el anexo II para las entidades gestoras y Tesorería General de la Seguridad Social, cuya creación, modificación y anulación corresponde a la Tesorería General de la Seguridad Social, y para las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+10) Forma de pago: se consignará, cuando proceda, con arreglo a las claves consignadas en la tabla del anexo II.
+
+La forma de pago por caja es exclusiva del subsistema de contabilidad auxiliar del fondo de maniobra y de los pagos a justificar, si bien las formas de pago por relación y en formalización no existirán en ambos casos.
+
+La Tesorería General de la Seguridad Social o sus direcciones provinciales y mutuas colaboradoras con la Seguridad Social podrán modificar, cuando resulte necesario, la forma de pago entre las comprendidas en las claves 01 a 05 y 07 de la tabla de formas de pago.
+
+La forma de pago 04 comprende, a su vez, los pagos por relación y los que hayan de realizarse por transferencia bancaria a cuentas en el extranjero y juzgados.
+
+A) Los pagos por relación podrán consignarse únicamente cuando se trate de documentos que correspondan a los siguientes conceptos, siempre que los perceptores finales figuren incluidos en nóminas o documentos similares:
+
+a) Retribuciones de personal, incluidos los anticipos reglamentarios y préstamos cuyo reintegro haya de efectuarse por descuento en las nóminas correspondientes.
+
+b) Indemnizaciones por razón de servicio.
+
+c) Pensiones públicas en cualquiera de sus modalidades, así como prestaciones de incapacidad temporal, de maternidad y paternidad, familiares, de recuperación e indemnizaciones y entregas únicas y prestaciones sociales.
+
+d) Becas y ayudas de pago periódico.
+
+e) Acreedores por devolución de ingresos.
+
+También podrá utilizarse esta forma de pago en los casos que pudiera ser adecuada para el abono de otras prestaciones que se imputen al capítulo 4 del presupuesto de gastos, siempre que así lo autorice la Intervención General de la Seguridad Social.
+
+Igualmente, podrá utilizarse esta forma de pago para la movilización de fondos entre cuentas bancarias de la Tesorería General y mutuas colaboradoras con la Seguridad Social, así como para la adquisición de activos financieros públicos en que se pueden materializar los fondos depositados en la cuenta especial abierta en el Banco de España del Fondo de Contingencias Profesionales y los afectos al Fondo de Reserva de la Seguridad Social.
+
+En ningún caso podrá utilizarse esta forma de pago para los abonos que hayan de hacerse a proveedores o cualesquiera otro tipo de acreedores que lo sean por razón de suministro, obras o prestación de servicios por terceros ajenos a la Seguridad Social, ni cuando los perceptores de los fondos no tengan la cualidad de beneficiarios últimos de las prestaciones reglamentariamente establecidas, salvo que los proveedores y perceptores figuren incluidos en nóminas y documentos similares y siempre que lo autorice la Intervención General de la Seguridad Social.
+
+Siempre que, como consecuencia de pagos por relación, se consigne en un documento contable la forma de pago 04, deberá figurar como interesado la tesorería que haya de efectuar el pago de la correspondiente relación, con expresión de su número de identificación fiscal.
+
+B) En los pagos que hayan de realizarse por transferencia bancaria a cuentas en el extranjero y juzgados se seguirán los mismos procedimientos que para las transferencias bancarias ordinarias, si bien se consignará la forma de pago 04 y no se cumplimentarán los datos relativos al ordinal y cuenta bancaria, debiendo figurar en todo caso, el nombre o razón social del acreedor y su número de identificación fiscal o código sustitutivo, en sus respectivos campos, a efectos de identificación del interesado en la base de datos, remitiéndose a la caja pagadora los datos complementarios precisos para efectuar el pago.
+
+La Intervención General de la Seguridad Social se reserva la competencia de autorizar nuevos supuestos de empleo de la forma de pago 04.
+
+La forma de pago 07 de cargo en cuenta se utilizará en las operaciones que determine el Director General de la Tesorería General de la Seguridad Social, de acuerdo con lo establecido en el Real Decreto 696/2018, de 29 de junio, por el que se aprueba el Reglamento General de la gestión financiera de la Seguridad Social.
+
+Para el ámbito de las mutuas colaboradoras con la Seguridad Social se podrá utilizar también esta forma de pago, para los mismos supuestos establecidos por la Tesorería General.
+
+11) Caja pagadora: se consignará su código, definido como el de los demás centros de gestión, y su nombre.
+
+12) Caja recaudadora: se consignará su código, definido como el de los demás centros de gestión, para los documentos DROC150, DAOC.250 y DRPJ.190 y sus inversos.
+
+13) Caja en la que se formalizará el reintegro: para los documentos KRPG.900 y KRPG.905 se consignará su código, definido como el de los demás centros de gestión, y su nombre.
+
+14) Número de operaciones de «contraído y recaudado» y «solo recaudado» de presupuesto de ingresos y de «ingresos» y «pagos» de operaciones no presupuestarias» del documento de resumen contable FI.300, de formalización de ingresos realizados: se recogerá el número de operaciones correspondientes, que serán aplicadas en los apartados FI.1, FI.2, FI.3 y FI.4 del documento.
+
+15) Código interno cuenta pagadora: En el subsistema de contabilidad auxiliar del fondo de maniobra, deberá consignarse en los documentos PFM.809, PFMA.819 y PFML.839 el código interno asignado a las cuentas bancarias restringidas pagadoras correspondientes. Para las formas de pago por caja y giro postal, se consignará el código 9999. La misma información se recogerá en el documento OEFM.390, en el apartado de pago, ya sea generado automática o manualmente.
+
+De igual forma, en los documentos RPJ.950, y sus inversos, en el apartado de pagos, se consignará el código interno asignado a la cuenta bancaria restringida. Para la forma de pago por caja el código interno será el 8888.
+
+En el documento CPMF.920, el código banco recogerá el código interno asignado a cuentas bancarias desde las que se movilizarán fondos.
+
+16) Código interno cuenta receptora: En los documentos OEI.310 y sus inversos, se consignará el código interno de las cuentas bancarias receptoras de ingresos.
+
+En los documentos del subsistema de contabilidad auxiliar del fondo de maniobra IGC.300, IPR.909, IPRA.919 e IPRL.939 y sus inversos, y en los documentos OEFM.390 y sus inversos, en el apartado ingresos se consignará el código interno asignado a la cuenta bancaria restringida o, en su caso, a la cuenta de caja, receptora del ingreso. El código interno de caja que se consignará será el 9999.
+
+En los documentos RPJ.950 y sus inversos, en el apartado de ingresos, se consignará el código interno asignado a la cuenta bancaria restringida. En el caso de que el ingreso se efectúe en caja el código interno será el 8888.
+
+En el documento CPMF.920, el código banco recogerá el código interno asignado a cuentas bancarias a las que se movilizarán fondos.
+
+17) Número de bancos: en los documentos OEI.310, se consignará el número de bancos que han recibido los ingresos que registra el documento.
+
+18) Código Tesorería Territorial: en los documentos ACPI.050, OEI.310 y OERC.335 y sus inversos se consignará el centro de gestión de la Tesorería General de la Seguridad Social afectado por el derecho o ingreso.
+
+19) Número de remesas: en los documentos OEI.310, se consignará el número de remesas, en su caso, recibidas.
+
+20) Tesorería de relación: en el documento OEIC.330 se consignará el centro de gestión de la Tesorería territorial al que se distribuyen los ingresos recaudados de forma centralizada.
+
+21) Número de aplicaciones en las Tesorerías territoriales: se consignará en los documentos OEIC.330, el número de conceptos no presupuestarios que se abonarán en las Tesorerías territoriales.
+
+22) Número de aplicaciones en la Tesorería General: se consignará en los documentos OEIC.330, el número de conceptos no presupuestarios que se cargarán en la Tesorería General.
+
+23) Número de Tesorerías territoriales: en los documentos OERC.335, se consignará el número de Tesorerías territoriales a las que se sitúa el concepto no presupuestario de impagados y retrocesiones de pagos centralizados.
+
+24) Traspaso de fondos: en los documentos OEFM.390, RPJ.950 y sus inversos, se consignará el código interno asignado a la cuenta bancaria y a la cuenta de caja, así como la letra «E», de entrada en cuenta bancaria o caja, y «S», de salida de cuenta bancaria o caja, según corresponda.
+
+25) Reintegro de fondos de pagos a justificar: se consignará en los documentos RPJ.950 el código interno asignado a la cuenta bancaria de pagos a justificar autorizada en el centro de gestión.
+
+26) Importe: se consignará en letra el importe total íntegro y, numéricamente, los importes íntegros, los descuentos totales y los importes líquidos, según los casos.
+
+27) Número de facturas: se consignará el número total de facturas que se incluyen en el documento. Si el documento incluyese más de una factura, se utilizarán los anexos APGF, ANPF, APJF y AFMF que resulten precisos.
+
+28) N.º del registro contable de facturas: se recogerá para cada factura que se incorpore en el documento, el número que le haya sido asignado por el Registro contable de facturas.
+
+No se podrán incorporar en un mismo documento contable ADOK u OK, facturas que estén registradas contablemente junto con aquellas que no consten en el Registro Contable de Facturas, por estar comprendidas entre las excepciones previstas en la normativa reguladora del citado registro. Esta limitación no afectará a los documentos ADOK de reposición de fondo de maniobra.
+
+29) Importes parciales (R.C.F.): se consignarán los correspondientes a cada factura.
+
+30) Número de aplicaciones y descuentos en operaciones presupuestarias y no presupuestarias: se consignará el número total de aplicaciones y de descuentos que se incluyen en el documento. Si no hubiera espacio suficiente en el documento para reseñar todos ellos, se utilizarán los anexos APGAP, APGD, anexo general y anexos del subsistema de contabilidad auxiliar del fondo de maniobra, y de gastos plurianuales que resulten precisos.
+
+31) Número de centros de gestión afectados: en los documentos MCRD.290 se consignará el número de centros de gestión que resultan afectados por las redistribuciones internas de crédito.
+
+32) Número de centros relacionados: sólo se cumplimentará, dentro de los documentos PFM.809 y sus inversos, en el caso de pagos por gastos compartidos, por el centro que hubiera anticipado el pago, dentro del subsistema de contabilidad auxiliar del fondo de maniobra.
+
+33) Número de aplicaciones no presupuestarias: en los documentos OEK.700 y OEAD.900 se consignará el número de los conceptos no presupuestarios que recoge el documento.
+
+34) Centro de gestión de destino o de relación: en los documentos OETC.850 y CPTC.910 y sus inversos se consignarán los códigos de los centros de gestión, definidos como los demás centros de gestión, para el traspaso de saldo de cuentas y de códigos no presupuestarios.
+
+35) Centro cedente y centro receptor: en los documentos MCRD.291 se consignarán los códigos de los centros de gestión, definidos como los demás centros de gestión, para el traspaso de créditos presupuestarios.
+
+36) Número de apuntes: en los documentos CPAD.900 y CPTC.910 se consignará el número de apuntes que se producen como consecuencia de la contabilización de operaciones de contabilidad patrimonial.
+
+37) Número de operaciones tipo A y tipo B: en los documentos OETC.850, se consignará el número de operaciones tipo A, cargos en el centro emisor y abonos en el centro de relación, y tipo B, abonos en el centro emisor y cargos en el centro de relación.
+
+38) Ejercicio: en la parte central del documento, y en los documentos MDR.100, DA.200, DAOC.250, DAAF.270, FI.2, ABPD.350, BI.400, BP.410 y RADI.810 que anoten en ejercicios cerrados, se consignará el ejercicio del derecho presupuestario sobre el que se realiza la operación correspondiente.
+
+39) Aplicaciones presupuestarias: se consignarán las que, en cada caso, correspondan con arreglo al siguiente detalle:
+
+Clasificación por programa:
+
+El primer dígito expresa el área.
+
+El segundo dígito expresa el grupo de programa.
+
+El tercer y cuarto dígito identifican el programa.
+
+Clasificación económica:
+
+El primer dígito expresa el capítulo.
+
+El segundo dígito expresa el artículo.
+
+El tercer dígito expresa el concepto.
+
+El cuarto dígito expresa el subconcepto.
+
+El quinto dígito expresa la partida.
+
+El sexto y el séptimo dígito expresan los dígitos de control, que serán facilitados por los servicios informáticos.
+
+En los documentos contables de presupuesto de ingresos no se recogerán los dígitos del detalle anterior relativos a la clasificación presupuestaria por programas.
+
+La codificación de la aplicación presupuestaria responderá a la estructura vigente para el ejercicio a que se refiera el documento.
+
+Cuando el documento lo requiera, se consignará, igualmente, la clasificación orgánica con arreglo al detalle recogido en el punto 2 anterior y, en su caso, el signo (+ ó –) de la operación.
+
+40) Situación modificada: en los documentos de modificaciones de créditos de ejercicios posteriores en porcentajes y/o anualidades acordados por el Gobierno se consignarán los datos relativos a la anualidad, porcentaje o importe que corresponda, de acuerdo con los términos establecidos en el acuerdo del Gobierno.
+
+41) Situación rectificada: en el subsistema de contabilidad auxiliar del fondo de maniobra, en los documentos PFMA.819 complementarios e IPRA.919, se consignará el importe rectificado para el código no presupuestario de contabilidad auxiliar 40220 «Anticipos de dietas y gastos de viaje», y en los documentos PFML.839 complementarios e IPRL.939, se consignará el importe rectificado íntegro, descuentos y líquido para cada una de las aplicaciones presupuestarias que corresponda.
+
+42) Código complementario: espacio previsto para dos dígitos, que permite desglosar la misma aplicación presupuestaria y relacionarla con diferentes cuentas. En documentos de presupuesto de gastos, se utiliza en documentos en fase de reconocimiento de la obligación, KRPG.900, APGAP (clasificación por programas y económica) y sus inversos. En los documentos contables de presupuesto de ingresos se utiliza en los documentos DR.100, MDR.100, DA.200, RADI.800, FI.300, en su apartado FI.2 y sus inversos, en los documentos de contabilidad patrimonial en los documentos JPJ.930, JPJ.940 y sus inversos, y en los documentos de contabilidad auxiliar en los documentos PFM.809, PFML.839, IPR.909, IPRL.939, anexo de aplicaciones presupuestarias y sus inversos.
+
+43) Cuenta: se consignarán los que procedan, con expresión de su código, descripción e importe parcial, con arreglo a lo establecido en el plan contable.
+
+44) Número de cuentas: en el documento OEAD.900 se consignará el número de cuentas que puede recoger el documento, que puede ser 0, 1 o más.
+
+45) Signo: se consignará “+” o “−”, según corresponda en los documentos MCTC.230, MCRD.290, O.604, O.606, APGAP (clasificación orgánica, por programas y económica), ACPI.050, OEIC.330, OERC.335, CPAD.900, OEAD.900 y, en su caso, en sus inversos. En el documento PFM.809, en los campos de descuentos, se cumplimentará, en todo caso, con un signo negativo, cuando hayan de realizarse pagos complementarios de otro anterior para corregir errores derivados de descuentos excesivos o improcedentes. En el documento IPR.909, se rellenará, en todo caso, con un signo positivo cuando se hubiera practicado un descuento excesivo o improcedente y con un signo negativo cuando hayan de corregirse omisiones de descuentos. En los documentos APGF, ANPF y AFMF se consignará “−” cuando se incorpore una factura negativa. Cuando se incorporen las demás facturas no se incorporará signo alguno.
+
+46) Total Debe = Total Haber: en los documentos CPAD.900 y OEAD.900 se consignará la suma de las anotaciones que realiza el documento en el Debe, que deben ser igual que la suma de las que realiza el documento en el Haber.
+
+47) Debe/Haber: se consignará en los documentos CPAD.900, OEAD.900 y CPTC.900 y sus inversos, la anotación que se realice en la cuenta, según el sentido de la operación.
+
+48) Importes parciales: se consignarán los que procedan.
+
+49) Número de anualidades: en los documentos RCEP.360, de ejercicios posteriores y RCTA.365, de tramitación anticipada, se consignará el número de anualidades sobre las que se propone retener crédito de gastos plurianuales para cada aplicación presupuestaria. En los restantes documentos de ejecución presupuestaria de ejercicios gastos plurianuales, no será necesario volver a incluir este campo.
+
+50) Anualidad: en los documentos RCEP.360, de ejercicios posteriores y RCTA.365, de tramitación anticipada se consignarán los diferentes ejercicios en los que se propone retener crédito de gastos plurianuales. En los restantes documentos de ejecución presupuestaria de gastos plurianuales, no será necesario incluir este campo. En los documentos de modificaciones de crédito de ejercicios posteriores, se consignarán las anualidades en las que se produzcan estas modificaciones, según su modalidad.
+
+51) Tipo de reintegro: se consignará, cuando proceda, dentro de los que se relacionan en el anexo II.
+
+52) Conceptos no presupuestarios: se consignarán los que procedan, con expresión de su código, descripción e importe parcial, con arreglo a lo establecido en el anexo III.
+
+53) Descuentos: se consignarán los que procedan, con expresión de su código, descripción e importe parcial, con arreglo a lo establecido en el anexo III.
+
+54) Origen gasto: se consignarán las dos cifras correspondientes al mes y las cuatro cifras correspondientes al ejercicio, en que se haya devengado el gasto, de acuerdo con los criterios recogidos en el anexo IV.
+
+El campo origen gasto será de cumplimentación obligatoria para todos los documentos ADOK.440, ADOK.450, OK.610 y sus inversos que deban registrarse en el sistema.
+
+55) N.º O.604/606: se consignará en los documentos ADOK.440, ADOK.450, OK.610 y sus inversos con referencia al número de registro de los documentos O.604 u 0.606 contabilizados conforme al procedimiento previsto en la regla 107.5 de esta instrucción, al cierre de ejercicios precedentes.
+
+Este campo está formado por tres partes que se conforman según lo indicado a continuación:
+
+Primera parte: cuatro cifras del año de registro.
+
+Segunda parte: número de orden secuencial.
+
+Tercera parte: código de control.
+
+56) Área geográfica del gasto: en los documentos OK.610 para la ejecución de gasto de expedientes de gestión presupuestaria centralizada, se presentará el código del centro de gestión que elabora el documento, una vez sea registrado el mismo en el sistema de información contable.
+
+57) Texto libre: espacio para indicar, en su caso, las explicaciones necesarias referentes a la operación que se pretende registrar.
+
+En el documento DRPJ.190 se especificará que se trata de sobrantes de pagos a justificar, consignándose el NRGD del documento ADOK u OK.620 por el que se libraron las cantidades reintegradas.
+
+58) Código de inversión: para un preciso y puntual seguimiento de la ejecución de las inversiones se consignará el que corresponda en aquellos documentos relativos a gastos imputados al capítulo 6 del presupuesto de gastos, en los términos consignados en el anexo V.
+
+59) Los documentos que contengan una o varias fases OK, P y sus inversos, se cumplimentarán uno por cada acreedor, excepto en el caso de los pagos por relación contemplados anteriormente.
+
+60) Cuando se efectúen compromisos de gastos específicos con una determinada persona física o jurídica, se extenderá un documento D por cada una de ellas y se procederá en igual forma para los documentos D inversos.
+
+61) Autorizado: Fecha y firma del responsable competente para la autorización del documento, de acuerdo con los criterios establecidos en las reglas sobre autorización. Si el órgano competente utiliza el propio documento contable como soporte del acto administrativo por el que se ejecuta la correspondiente operación, en este espacio deberán constar todos los requisitos para que dicho acto tenga validez.
+
+62) Intervenido/Fiscalizado: Fecha y firma del interventor competente cuando el resultado de la fiscalización o intervención se soporte en el propio documento contable y siempre cuando el órgano gestor competente haya utilizado el propio documento contable como soporte del acto administrativo.
+
+63) Fecha de autorización: Con carácter general, en el momento de la validación del documento contable, las oficinas de contabilidad deberán introducir en el sistema de información contable, la fecha de autorización del documento contable del órgano competente conforme a lo dispuesto en las reglas sobre autorización de los documentos contables.
+
+No obstante, en el caso de documentos contables que comporten el reconocimiento de obligaciones, se deberá consignar en dicho campo la fecha en la que se ha dictado el correspondiente acto administrativo del reconocimiento de la obligación.
+
+64) Epígrafe de gasto: mediante el epígrafe de gasto, se clasificarán los gastos de los diversos expedientes atendiendo a criterios distintos de los que se derivan de las clasificaciones orgánica, por programas y económica del presupuesto.
+
+Este apartado es de cumplimentación opcional.
+
+El campo "Código" tendrá la estructura que se asigne, no pudiendo exceder de los dígitos previstos en el documento contable. Junto al código figurará su denominación. Ambos serán establecidos por la Intervención General de la Seguridad Social.
+
+En el campo «Importe» se consignará el importe asignado a cada epígrafe de gasto.
+
+65) Identificación del código completo de la actuación del MRR: se incluirá el código completo de la actuación a que se refieren los artículos 3 y 5 y anexo I de la Orden HFP/1031/2021, de 29 de septiembre, por la que se establece el procedimiento y formato de la información a proporcionar por las Entidades del Sector Público Estatal, Autonómico y Local para el seguimiento del cumplimiento de hitos y objetivos y de ejecución presupuestaria y contable de las medidas de los componentes del Plan de Recuperación, Transformación y Resiliencia.
+
+Esta Referencia está preparada para su utilización para cualquier Fondo o Mecanismo europeo, aunque su aplicación actual queda circunscrita al Mecanismo de Recuperación y Resiliencia.
+
+66) Identificación del contrato en la Plataforma de Contratación del Sector Público (PCSP): Se incluirá el código correspondiente en dicha Plataforma que está constituido por la combinación del Código de órgano de contratación, el Código de licitación y el Código de contrato, siendo estos dos últimos códigos los aportados por el propio órgano de contratación en la Plataforma. Estos datos son alternativos al código de identificación de la convocatoria en la Base de Datos Nacional de Subvenciones (BDNS), no debiendo constar ambos datos simultáneamente.
+
+67) Identificación de la convocatoria en la Base de Datos Nacional de Subvenciones (BDNS): Se incluirá el código correspondiente en dicha Base de Datos. Este dato es alternativo al código de identificación del contrato en la Plataforma de Contratación del Sector Público (PCSP), no debiendo constar ambos datos simultáneamente.
+
+68) Importe sin IVA o equivalente: para documentos de seguimiento de fondos de la Unión Europea, se indicará, para el ejercicio corriente o para las anualidades plurianuales que corresponda, el importe sin incluir el IVA o, en su caso, el impuesto indirecto equivalente.
+
+69) Otras fuentes de financiación. Con carácter general, se recogerá la identificación de otras fuentes de financiación ajenas a las que se refiere el artículo 5.h) y el anexo I de la Orden HFP/1031/2021, de 29 de septiembre, por la que se establece el procedimiento y formato de la información a proporcionar por las Entidades del Sector Público Estatal, Autonómico y Local para el seguimiento del cumplimiento de hitos y objetivos y de ejecución presupuestaria y contable de las medidas de los componentes del Plan de Recuperación, Transformación y Resiliencia.
+
+El campo “Código” tendrá la estructura que se asigne, no pudiendo exceder de los dígitos previstos en el documento contable. Junto al código figurará su denominación. Ambos serán establecidos por la Intervención General de la Seguridad Social.
+
+En el campo “Importe sin IVA” se consignará el importe correspondiente a cada fuente de financiación ajena sin incluir el IVA o, en su caso, el impuesto indirecto equivalente, y en el campo “Importe íntegro” se consignará el importe correspondiente a cada fuente de financiación ajena incluyendo el IVA o, en su caso, el impuesto indirecto equivalente.
+
+También se podrá recoger la identificación de otras fuentes de financiación fuera del ámbito de la citada Orden.
+
+70) Código de inventario: se indicará el número de operación de inventario procedente de la aplicación de Inventario de Bienes Inmuebles y Derechos de la Seguridad Social (en adelante IBID) a que corresponda la inversión, en los documentos contables ADOK.440, ADOK.450, OK.610, O.603, O.604, O.606, KRPG.900, DROC.150, ABPD.350, OEAD.900, CPAD.900, CPTC.910, JPJ.930 y JPJ.940.
+
+71) Número de remesas remitidas: en los documentos CPMF.920, se consignará el número de remesas o movilizaciones de salida de cuentas bancarias.
+
+72) Número de remesas recibidas: en los documentos CPMF.920, se consignará el número de remesas o movilizaciones recibidas en cuentas bancarias de los centros de relación.
+
+73) Número de centros receptores diferentes del emisor: en los documentos CPMF.920, se consignará el número de centros receptores de remesas diferentes del centro emisor que moviliza los fondos.
+
+> Se modifican los apartados 15, 16 y 45 y se añaden los apartados 71, 72 y 73 por el art. único.4 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+> Se modifica el apartado 70 por el art. 2.2 de la Resolución de 19 de junio de 2025. [Ref. BOE-A-2025-13081](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13081)
+
+> Se modifican los apartados 4.p) y 45 y se añade el 70 por el art. 1.1 de la Resolución de 27 de diciembre de 2023. [Ref. BOE-A-2024-1775](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1775)
+
+> Esta modificación tiene efectos a partir de comienzos del año 2024, según establece la disposición final única de la citada Resolución.
+
+> Se modifica el apartado 57 y se añaden los apartados 64 a 69 por el art. único.cinco de la Resolución de 23 de marzo de 2022. [Ref. BOE-A-2022-5460](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5460)
+
+> Se modifica el apartado 44 por el art. único.2 de la Resolución de 20 de diciembre de 2019. [Ref. BOE-A-2020-87](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-87)
+
+> Se modifica por el art. 1.3 y se suprime la referencia al documento O.605 por el art. 1.1.3 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+### CAPÍTULO V — Cumplimentación y autorización de los documentos contables
+
+#### Sección 1.ª Documentos contables del presupuesto de gastos
+
+##### Regla 27. Cumplimentación y autorización.
+
+1\. Para las entidades gestoras y servicios comunes de la Seguridad Social se cumplimentarán y autorizarán por los servicios gestores competentes según el tipo de documento:
+
+a) Documentos de soporte de créditos iniciales. Ejercicio corriente: se cumplimentarán y autorizarán por órganos gestores competentes de los servicios centrales de las entidades.
+
+b) Los documentos MC y sus inversos: se cumplimentarán y autorizarán por los órganos gestores competentes de los servicios centrales de las entidades.
+
+c) Documentos RC y sus inversos: se cumplimentarán y autorizarán por los órganos gestores competentes de los servicios centrales de las entidades, con la particularidad de que los RCPU.310 y sus inversos, podrán ser elaborados y autorizados por los servicios gestores de todos los centros de gestión de cada entidad.
+
+d) Documentos A.400, A.410, AD.420, AD.430, ADOK.440, ADOK.441, ADOK.450, ADOK.480, ADOK.490, D.500, O.600, OK.600, O.602, OK.610, OK.612, OK.620 y K.700 y sus inversos: se cumplimentarán y autorizarán por los servicios gestores de cada centro de gestión de la entidad.
+
+e) Documentos O.603, O.604, O.606, KRPG.900 y KRPG.905 y sus inversos: se cumplimentarán y autorizarán por los servicios gestores de cada centro de gestión de la entidad.
+
+f) Documentos P.800 y sus inversos y R.809: se cumplimentarán y autorizarán por los servicios gestores de cada centro de gestión de la Tesorería General de la Seguridad Social.
+
+No obstante, los documentos P.800 y sus inversos serán autorizados por los servicios gestores de la Tesorería General de la Seguridad Social, mediante la validación del documento en el sistema de información contable, sin que se requiera firma del órgano competente.
+
+En el procedimiento telemático de gestión de pagos, la materialización del pago presupuestario se concretará en la firma electrónica avanzada del fichero de relación de transferencias realizada por los ordenadores de pagos, en el caso de aquellas relaciones R con forma de pago 03 o 04, o bien en la firma electrónica avanzada de los documentos contables de relaciones R con otras formas de pago.
+
+g) FRPG.990, FRPG.992, FRPG.995 y FRPG.998: se cumplimentarán por los servicios gestores de cada centro de gestión de la Tesorería General de la Seguridad Social, y serán autorizados por dichos servicios gestores y por el interventor respectivo, que en las Intervenciones delegadas territoriales será el Interventor delegado que tenga atribuidas las funciones de gestión contable.
+
+En el procedimiento telemático de materialización del reintegro de presupuesto de gastos, la formalización del reintegro se concretará en la firma electrónica avanzada del fichero de relación de reintegros emitida por los servicios gestores de pago.
+
+2\. En las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, se cumplimentarán y autorizarán por los servicios y personas que determine la propia entidad, dentro del esquema de su organización.
+
+> Se modifica el apartado 1.g) por el art. único.5 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+> Se modifica el apartado 1.f) y se añade el 1.g) por el art. único.seis de la Resolución de 23 de marzo de 2022. [Ref. BOE-A-2022-5460](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5460)
+
+> Se modifica el apartado 1 por el art. 1.4 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 51, de 28 de febrero de 2019. [Ref. BOE-A-2019-2783](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2783)
+
+#### Sección 2.ª Documentos contables del presupuesto de ingresos
+
+##### Regla 28. Cumplimentación y autorización.
+
+1\. Para las entidades gestoras y servicios comunes de la Seguridad Social se cumplimentarán y autorizarán en los siguientes términos:
+
+a) Los documentos ACPI.050 se cumplimentarán y autorizarán por los servicios gestores de los servicios centrales de la Tesorería General de la Seguridad Social.
+
+b) Los documentos DR.100, MDR.100, DROC.150, DRAF.170, DRPJ.190, DA.200, DAOC.250, DAAF.270, ABPD.350, BI.400, BP.410 y sus inversos se cumplimentarán por los servicios de la intervención respectiva y se autorizarán por el interventor respectivo, que en el caso de las Intervenciones delegadas territoriales será el Interventor delegado que tenga atribuidas las funciones de gestión contable del centro que los expida.
+
+En el caso del documento DRPJ.190, el sistema presentará la cuenta 5584 “Libramientos para pagos a justificar pendientes de pago”, la aplicación de reintegros de presupuesto de ingresos que corresponda en función del ejercicio en que se produce el reintegro, y en el texto libre se especificará que se trata de sobrantes de pagos a justificar, consignándose el NRGD del documento ADOK u OK por el que se libraron las cantidades reintegradas.
+
+c) Los documentos RADI.800, RADI.810, sus inversos y R.809 de realización del pago se cumplimentarán y autorizarán por los servicios gestores de cada centro de gestión de la Tesorería General de la Seguridad Social.
+
+2\. En las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, se cumplimentarán y autorizarán por los servicios y personas que determine la propia entidad, dentro del esquema de su organización.
+
+> Se modifica el apartado 1.b) por el art. único.5 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+> Se modifica el apartado 1 por el art. 2.3 de la Resolución de 19 de junio de 2025. [Ref. BOE-A-2025-13081](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13081)
+
+> Se modifica el apartado 1.b) por el art. 2.6 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se modifica el apartado 1 por el art. 1.5 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+#### Sección 3.ª Documentos contables de operaciones no presupuestarias
+
+##### Regla 29. Cumplimentación y autorización.
+
+1\. Para las entidades gestoras y servicios comunes de la Seguridad Social, se cumplimentarán y autorizarán en los siguientes términos:
+
+a) Los documentos OEI.310, OEFM.390, que no se realicen a través del subsistema de contabilidad auxiliar del fondo maniobra, OETC.850, OEAD.900, FI.300 y sus inversos se cumplimentarán por los servicios de la intervención y se autorizarán por el interventor respectivo, que en el caso de las Intervenciones delegadas territoriales será el Interventor delegado que tenga atribuidas las funciones de gestión contable del centro que los expida.
+
+Los documentos OEFM.390 que se realicen a través del subsistema de contabilidad auxiliar para la reposición y el traspaso de fondos, serán registrados por las UAFM, consignando para el primero de los casos la fecha del documento, y en el supuesto de traspaso de fondos la letra ''E'', de entrada, en la cuenta bancaria o caja, y ''S'', de salida, de cuenta bancaria o caja, según corresponda.
+
+b) Los documentos OEIC.330 y OERC.335 se cumplimentarán por los servicios de la Intervención delegada en los servicios centrales de la Tesorería General de la Seguridad Social y se autorizarán por el Interventor delegado de aquélla entidad.
+
+c) Los documentos OEK.700 y sus inversos se cumplimentarán y autorizarán por los servicios gestores.
+
+d) Los documentos OEP.800 se cumplimentarán y autorizarán por los servicios gestores de cada centro de gestión de la Tesorería General de la Seguridad Social.
+
+Los documentos OEP.800 serán autorizados por los servicios gestores de la Tesorería General de la Seguridad Social, mediante la validación del documento en el sistema de información contable, sin que se requiera firma del órgano competente.
+
+e) Los documentos R se cumplimentarán y autorizarán por los servicios gestores de cada centro de gestión de la Tesorería General de la Seguridad Social.
+
+En el procedimiento telemático de gestión de pagos, la materialización del pago no presupuestario, se concretará en la firma electrónica avanzada del fichero de relación de transferencias realizada por los ordenadores de pagos.
+
+2\. En las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, se cumplimentarán y autorizarán por los servicios y personas que determine la propia entidad, dentro del esquema de su organización.
+
+> Se modifica el apartado 1.a) por el art. único.5 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+> Se modifica el apartado 1.a) por el art. 2.7 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se modifica el apartado 1 por el art. 1.6 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+#### Sección 4.ª Documentos de contabilidad patrimonial
+
+##### Regla 30. Cumplimentación y autorización.
+
+1\. Para las entidades gestoras y servicios comunes de la Seguridad Social los documentos CPAD.900, CPTC.910, JPJ.930, JPJ.940, RPJ.950 y sus inversos se cumplimentarán por los servicios de la intervención y se autorizarán por el interventor respectivo que, en el caso de las Intervenciones delegadas territoriales será el Interventor delegado que tenga atribuidas las funciones de gestión contable del centro que los expide.
+
+2\. Los documentos JPJ.930 y JPJ.940 de justificación de operaciones de pagos a justificar serán generados automáticamente por el SICOSS, introduciendo el NRGD del documento ADOK u OK en virtud del cual se libraron los fondos para efectuar los gastos que han sido objeto de justificación.
+
+Su cumplimentación se realizará incorporando los siguientes datos:
+
+– DNI o NIF del interesado que será el del acreedor final.
+
+– Importes de las aplicaciones presupuestarias y de los descuentos a practicar que correspondan a los pagos efectivamente realizados a los acreedores finales.
+
+En el caso de que una misma orden de pago a justificar se refiera a varios acreedores finales se expedirá un documento JPJ por tercero, al que se hará referencia en el mismo.
+
+3\. El documento RPJ.950 de resumen contable de operaciones de pagos a justificar que consta de los siguientes apartados: ingresos por libramientos, otros ingresos, pagos, traspasos de fondos y reintegros de fondos se cumplimentará en los términos siguientes:
+
+– En el supuesto de que el pago se realice por banco se consignará el código interno de la cuenta bancaria de pagos a justificar y los importes parciales que procedan.
+
+– En el supuesto de que el pago se realice por caja se consignará exclusivamente los importes parciales que correspondan, en la medida que el sistema presenta el código de caja de pagos a justificar 8888 5.
+
+– Asimismo en el caso de traspaso de fondos se consignará la clave «E» en la cuenta receptora y la clave «S» en la cuenta que remite los fondos.
+
+4\. Para los centros de gestión de la Tesorería General de la Seguridad Social el documento CPMF.920 se cumplimentará por los servicios de la intervención y se autorizarán por el interventor respectivo que, en el caso de las Intervenciones delegadas territoriales será el Interventor delegado que tenga atribuidas las funciones de gestión contable del centro que los expide.
+
+5\. En las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, se cumplimentarán y autorizarán por los servicios y personas que determine la propia entidad, dentro del esquema de su organización.
+
+> Se modifican los apartados 1 y 4 y se añade el apartado 5 por el art. único.5 y 6 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+> Se renumera el apartado 2 como 4 y se añaden los apartados 2 y 3 por el art. 2.8 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se modifica el apartado 1 por el art. 1.7 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+#### Sección 5.ª Documentos de contabilidad auxiliar del fondo de maniobra
+
+##### Regla 31. Cumplimentación y autorización.
+
+1\. La cumplimentación de los documentos de contabilidad auxiliar del fondo de maniobra se realizará, en los términos señalados en los apartados siguientes, por las UAFM.
+
+2\. El jefe de la UAFM realizará la confirmación de documentos tramitados, siendo, por tanto, el responsable de su contenido, a cuyos efectos el sistema informático emitirá las correspondientes relaciones de documentos a confirmar en función de los datos previamente introducidos en el mismo por el personal de la unidad que esté debidamente autorizado al efecto.
+
+3\. Los documentos PFM.809 se elaborarán en los términos siguientes:
+
+– Número de referencia: Se cumplimentará únicamente en el caso de gastos compartidos consignando el número de registro del documento correspondiente al documento PFM.809 del centro que hubiere anticipado el pago.
+
+– Interesado: Se consignará el que proceda. En el caso de pagos por gastos compartidos, los centros por cuya cuenta se hubiere efectuado el pago, consignarán como interesado el NIF del centro que lo hubiere anticipado.
+
+– Tipo de pago: Se consignará el que corresponda en función de los tipos de pagos específicos que constan en el anexo II de esta Instrucción:
+
+• 15 Fondo de maniobra. Operaciones presupuestarias.
+
+• 62 Fondo de maniobra. Operaciones no presupuestarias.
+
+– Forma de pago: Se podrá consignar alguna de las siguientes claves establecidas en el anexo II de esta Instrucción:
+
+• 00 Pagos por caja.
+
+• 01 Talón bancario.
+
+• 02 Cheque bancario.
+
+• 03 Transferencia bancaria.
+
+• 05 Giro postal.
+
+• 07 Cargo en cuenta.
+
+– Código interno de la cuenta pagadora: Deberá consignarse el código interno asignado a las cuentas bancarias pagadoras correspondientes al fondo de maniobra. Para las formas de pago por caja y giro postal, se consignará el código 9999.
+
+– Número de centros relacionados: Sólo se cumplimentará en el caso de pagos por gastos compartidos, por el centro que hubiera anticipado el pago.
+
+– Descuentos: El espacio reservado para el signo en los campos de descuentos, se cumplimentará, en todo caso, con un signo negativo, cuando hayan de realizarse pagos complementarios de otro anterior para corregir errores derivados de descuentos excesivos o improcedentes.
+
+– Anexo de centros relacionados: Se cumplimentará, únicamente, en el caso de pagos por gastos compartidos, por el centro que hubiere adelantado el pago, para recoger los realizados por cuenta de otros centros. En el citado anexo se consignará el código de los centros de relación, con expresión del importe íntegro y del total de los descuentos que corresponda a cada uno de ellos.
+
+4\. Los documentos IPR.909 se elaborarán en los términos siguientes:
+
+– Número de referencia: Se consignará el NRGD del PFM.809 al que deba aplicarse el ingreso.
+
+– Datos del ingreso: Se consignará el código interno asignado a la cuenta bancaria, o en su caso a la cuenta de caja del fondo de maniobra, receptora del ingreso.
+
+– Descuentos: El espacio reservado para el signo en el campo de los descuentos se rellenará, en todo caso, con un signo positivo cuando se hubiera practicado un descuento excesivo o improcedente y con un signo negativo cuando hayan de corregirse omisiones de descuentos.»
+
+5\. Los documentos PFM.809 e IPR.909 serán grabados por la UAFM. Se aplicará lo mismo para los documentos PFMA.819 y PFML.839, salvo cuando sean de carácter complementario, en cuyo caso, serán generados automáticamente por el sistema.
+
+6\. Los documentos IGC.300, IPRA.919 e IPRL.939, serán generados automáticamente por el sistema.
+
+En el caso de los documentos IGC.300 el sistema informático solicitará los siguientes datos:
+
+– NRGD del documento PFM.809 en virtud del cual se realizó el anticipo.
+
+– NRGD del documento PFM.809 del centro de relación en virtud del cual se hubiere reembolsado el anticipo.
+
+– Importe líquido del IGC.300.
+
+– Código interno de la cuenta bancaria receptora de los fondos.
+
+7\. En las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, se cumplimentarán y autorizarán por los servicios y personas que determine la propia entidad, dentro del esquema de su organización.
+
+> Se modifica por el art. 2.9 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+#### Sección 6.ª Documentos contables de gastos plurianuales
+
+##### Regla 32. Cumplimentación y autorización.
+
+Para las entidades gestoras y servicios comunes de la Seguridad Social se cumplimentarán y autorizarán por los servicios gestores de las entidades, según el tipo de documento:
+
+b) Documentos MCEP y sus inversos: por los servicios gestores competentes de los servicios centrales de cada entidad.
+
+c) Documentos RCEP.360, RCTA.365, AEP.460, ATA.465, ADEP.470, ADTA.475, DEP.560, DTA.565 y sus inversos: con carácter general por los servicios gestores de cada centro de gestión de la entidad.
+
+> Se modifica por el art. 1.8 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+## TÍTULO II — Trámites contables
+
+##### Regla 33. Expedición de los documentos contables.
+
+1\. Con carácter general, los documentos contables se elaborarán en soporte electrónico, a excepción de aquellos que continúen elaborándose en soporte físico, en tanto se efectúen los desarrollos informáticos necesarios para generar los mismos en soporte electrónico. Asimismo, se podrán elaborar documentos contables de forma automática.
+
+2\. La elaboración de los documentos contables en soporte electrónico se efectuará por los servicios gestores o de intervención incorporando, en la aplicación “PDSI. Gestión de predocumentos contables”, los datos correspondientes a cada tipo de documento, conforme a las normas de cumplimentación previstas en los capítulos IV y V del título I “Documentos Contables” de esta Instrucción.
+
+3\. Una vez superados los controles establecidos en la citada aplicación, se generarán los documentos contables electrónicos, a los que se asignará un número identificativo único. Dicho número actuará como identificador necesario para su posterior contabilización en el SICOSS.
+
+4\. Cuando los documentos contables electrónicos se elaboren con referencia a un documento contable ya registrado, el sistema aplicará la reserva de saldo sobre el documento contable de referencia, de forma que quede garantizada la existencia de crédito suficiente para registrar la operación en el SICOSS.
+
+En concreto, la reserva del saldo se efectuará con la expedición de los documentos contables siguientes:
+
+– A.410 y su inverso de autorizaciones de gasto sobre créditos retenidos.
+
+– AD.430 y su inverso, de autorizaciones de gasto sobre créditos retenidos y compromisos de gasto.
+
+– ADOK.450 y su inverso, de autorizaciones de gasto sobre créditos retenidos, compromisos de gasto, reconocimientos de obligaciones y propuestas de pago.
+
+– D.500 y su inverso, de compromisos de gasto.
+
+– OK.610 y su inverso, de reconocimiento de obligaciones y propuestas de pago.
+
+5\. En el supuesto de que los controles establecidos en la citada aplicación PDSI no fuesen superados y/o el documento contable de referencia no disponga de saldo suficiente para efectuar la correspondiente reserva, no se procederá a la obtención del documento contable electrónico. Dicha circunstancia será comunicada al órgano gestor, a fin de que adopte las medidas necesarias para la correcta generación del documento contable.
+
+6\. Los documentos contables electrónicos generados desde la aplicación deberán quedar asociados a un expediente electrónico, a través de la aplicación “GEXI-Gestión de Envíos de Expedientes a Intervención”, conforme al procedimiento previsto en la Resolución de 22 de diciembre de 2022, de la Intervención General de la Seguridad Social, por la que se aprueba la aplicación GEXI –Gestión de Envíos de Expedientes a Intervención–.
+
+7\. Cuando el expediente electrónico esté sometido a función interventora, el documento contable electrónico, como parte integrante del expediente administrativo, se pondrá a disposición de la Intervención delegada respectiva junto con el resto de la documentación en soporte electrónico, al objeto de realizar el trámite de la función interventora.
+
+En estos casos, el resultado de la fiscalización o intervención del acto administrativo se soportará en documento electrónico independiente, de conformidad con lo dispuesto en el artículo 13 bis del Real Decreto 706/1997, de 16 de mayo, por el que se desarrolla el régimen de control interno ejercido por la Intervención General de la Seguridad Social.
+
+Una vez efectuada la fiscalización o intervención del acto administrativo de conformidad, el documento contable electrónico se pondrá a disposición del órgano gestor competente para su autorización.
+
+8\. Cuando el expediente electrónico no esté sometido a función interventora, el documento contable junto con la documentación justificativa en formato electrónico se pondrá a disposición del órgano gestor o de la intervención delegada competente para su autorización.
+
+9\. Cuando los documentos contables continúen tramitándose en formato físico, los servicios gestores o de intervención competentes elaborarán los mismos en un solo ejemplar y deberán ser extendidos por medios mecánicos o informáticos, sin enmiendas, raspaduras o tachaduras.
+
+Asimismo, siempre que el acto esté sometido al trámite de función interventora, los documentos contables en soporte físico junto con el resto del expediente se remitirán a la Intervención delegada respectiva al objeto de realizar el trámite de la función interventora. En estos casos, el resultado de la fiscalización o intervención se podrá formalizar en el propio documento contable, siempre que se utilice el documento contable como soporte del acto administrativo por el que se ejecuta la correspondiente operación, debiendo para ello constar en dicho documento todos los requisitos necesarios para que dicho acto administrativo tenga validez, en los términos recogidos en la regla 34.3 de esta Instrucción.
+
+10\. El mismo sistema de información contable emitirá los siguientes documentos contables, haciendo referencia al documento de que procedan y con contenido similar al mismo, siendo precisa su contabilización, en los siguientes casos:
+
+a) Dentro del presupuesto de gastos, los documentos ADOK.440 inverso, de autorizaciones de gasto sobre créditos disponibles y compromisos de gasto, reconocimientos de obligaciones y propuestas de pago, ADOK.441 y su inverso, de autorizaciones y compromisos de gasto, reconocimientos de obligaciones y propuestas de pago por operaciones pendientes de aplicar a presupuesto en fin del ejercicio anterior, ADOK.450 inverso, de autorizaciones de gasto sobre créditos retenidos, y compromisos de gasto, reconocimientos de obligaciones y propuestas de pago, ADOK.480 inverso, de autorizaciones de gasto sobre créditos disponibles, compromisos de gasto, reconocimiento de obligaciones y propuestas de pago a justificar, ADOK.490 inverso, de autorizaciones de gasto sobre créditos retenidos, compromisos de gasto, reconocimiento de obligaciones y propuestas de pago a justificar, O.600 inverso, de modificación de obligaciones reconocidas de ejercicios anteriores, O.602, y su inverso, de prescripción de obligaciones reconocidas en ejercicios anteriores, OK.610 inverso, de reconocimiento de obligaciones y propuestas de pago, OK.610 inverso, de modificación de obligaciones reconocidas y propuestas de pago de ejercicios anteriores, OK.612 y su inverso, de prescripción de obligaciones reconocidas y propuestas de pago de ejercicios anteriores, O.620 inverso, de reconocimiento de obligaciones y propuestas de pago a justificar, K.700 y su inverso, de ejercicios cerrados, P.800 y su inverso, de ordenación del pago, R.809, KRPG.900 inverso, de propuestas de reintegros del presupuesto de gastos, KRPG.905 inverso, de propuestas de reintegros del presupuesto de gastos por operaciones de pagos a justificar, FRPG.990 y 995 de formalización de reintegros del presupuesto de gastos y FRPG.992 y 998, de formalización de reintegros del presupuesto de gastos por operaciones de pagos a justificar.
+
+b) Dentro del presupuesto de ingresos, los documentos inversos.
+
+c) Dentro de las operaciones no presupuestarias, los documentos inversos, el documento OEP.800 y el documento R.
+
+d) Dentro de la contabilidad patrimonial, los documentos inversos y los documentos JPJ y sus inversos.
+
+En todo caso, los documentos contables inversos se pueden emitir por SICOSS cuando el documento de referencia se haya tramitado en soporte físico. Aquellos documentos contables inversos de documentos contables electrónicos siempre se deberán obtener desde la aplicación “PDSI. Gestión de predocumentos contables”.
+
+11\. El mismo sistema de información contable emitirá y contabilizará de forma automática los siguientes documentos contables:
+
+a) En la contabilidad del presupuesto de gastos: Los documentos MCRD.291, de modificaciones de crédito. Redistribuciones internas, en los casos de redistribución automática de créditos.
+
+b) En el subsistema de gastos plurianuales, los documentos correspondientes a gastos aprobados y/o comprometidos en los ejercicios anteriores que correspondan al ejercicio corriente, así como los que se refieran a anualidades posteriores a la del ejercicio corriente.
+
+c) En la contabilidad patrimonial:
+
+– Los documentos CPAD.900, para la dotación de amortizaciones y regularización de existencias.
+
+– Los documentos O.604 y O.606, de operaciones devengadas al cierre del ejercicio generados a partir de documentos OK o ADOK de reconocimiento de obligaciones presupuestarias y CPAD.900, para la aplicación de estas operaciones en el ejercicio siguiente, en los términos señalados en la regla 48.3 de la Instrucción de operatoria contable.
+
+– Los documentos CPAD.900, para la regularización de resultados, y cierre de cuentas del grupo 0 y cuentas 433, 434, 437, 438 u 439 y cierre de la contabilidad patrimonial, en los procesos de cierre de cada ejercicio.
+
+– Los documentos CPTC.910, de traspaso del resultado del ejercicio corriente y de los resultados de ejercicios anteriores, en los procesos de cierre de cada ejercicio.
+
+d) En la contabilidad no presupuestaria:
+
+– Los documentos OEAD.900 y OETC.850, para el registro de deudores por prestaciones del sistema de la Seguridad Social y de regularización del saldo de las anulaciones de liquidaciones de deudores por prestaciones a fin de ejercicio.
+
+– Los documentos OEAD.900, para el cierre de cuentas de operaciones internas, en los procesos de cierre de cada ejercicio.
+
+e) En la contabilidad auxiliar de Fondo de Maniobra:
+
+– Los documentos OEFM.390, registrados de forma simultánea a la validación de los documentos siguientes:
+
+● Pagos con cargo al fondo de maniobra (documentos PFM.809, PFMA.819 y PFML.839).
+
+● Ingresos por reintegros y por gastos compartidos de fondo de maniobra, (documentos IPR.909, IPRA.919, IPRL.939 e IGC.300).
+
+– Los documentos RCPU.310 que se registran con la emisión de la cuenta justificativa de pagos de naturaleza presupuestaria en concepto de liquidaciones de dietas y gastos de viaje procedentes de la aplicación INRS.
+
+La Intervención General de la Seguridad Social podrá incorporar la automatización en la elaboración y contabilización de nuevos documentos contables para el registro de operaciones en el SICOSS.
+
+> Se modifica por el art. único.8 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+> Se modifica el apartado 2 por el art. 1.9 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+##### Regla 34. Autorización de los documentos contables.
+
+1\. La incorporación en el SICOSS de los datos recogidos en los documentos contables requiere que, con carácter previo, dichos documentos vengan debidamente autorizados por las personas que tienen atribuidas dichas funciones, de acuerdo con lo establecido en las reglas 27 a 32 de esta instrucción.
+
+2\. La autorización de los documentos contables electrónicos se efectuará mediante firma electrónica por quien tenga atribuidas las facultades para ello, según las normas de procedimiento que sean aplicables en cada caso. La propia aplicación informática utilizada para la expedición de los documentos contables electrónicos facilitará el ejercicio de la competencia por el órgano que la tenga atribuida.
+
+Cuando se utilice el propio documento contable electrónico como soporte del acto administrativo por el que se ejecuta la correspondiente operación, en dicho documento deberán constar todos los requisitos necesarios para que dicho acto administrativo tenga validez. En estos casos, el mismo documento contable electrónico tendrá validez como justificante electrónico de la realización del acto administrativo y como documento contable electrónico que sirve de base para su toma de razón en contabilidad.
+
+3\. Cuando las operaciones se incorporen al sistema mediante documentos contables en formato físico, los procedimientos de autorización y control de la competencia del órgano que la tenga atribuida se realizarán por medios manuales, mediante diligencias, firmas electrónicas o manuscritas, sellos físicos u otros medios manuales.
+
+En estos casos, el documento contable también podrá utilizarse como soporte del acto administrativo, siempre que se cumplan los requisitos de validez señalados en el apartado anterior.
+
+4\. La cumplimentación y autorización de los documentos anexos seguirá la misma pauta que los documentos principales.
+
+5\. Las actuaciones administrativas automatizadas determinadas por las entidades gestoras y servicios comunes de la Seguridad Social podrán contemplar que los documentos contables sean firmados por medio de sello electrónico, en aplicación del artículo 42 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, sin perjuicio de lo establecido en la disposición transitoria segunda de esta resolución.
+
+6\. La firma y sello electrónicos se ajustarán a los formatos de firma electrónica utilizados en la Seguridad Social, de acuerdo con lo dispuesto en la Política de Firma Electrónica y de Certificados de la Administración General del Estado, aprobada mediante Resolución de 29 de noviembre de 2012, de la Secretaría de Estado de las Administraciones Públicas, y estará basada en un certificado electrónico reconocido.
+
+> Se modifica por el art. único.8 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+> Se modifica el apartado 6 por el art. 1.10 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+##### Regla 35. Incorporación de datos al sistema de información contable.
+
+1\. Toda operación relativa a la gestión presupuestaria, no presupuestaria o patrimonial de las entidades del sistema de la Seguridad Social se incorporará al SICOSS a través de uno o más documentos contables, en función de la naturaleza de la operación que se trate.
+
+Con carácter general, la justificación de los distintos hechos susceptibles de incorporación al SICOSS deberá estar soportado en documentos electrónicos, debiendo ajustarse a los requisitos y garantías que se establezcan para cada tipo de operación, de acuerdo con las normas que regulan los procedimientos administrativos.
+
+2\. El registro contable de cualquier documento se realizará a través de la incorporación individual de los datos recogidos en los documentos contables o a través de la incorporación masiva de los mismos.
+
+3\. Con carácter general, la incorporación individual de los datos en SICOSS se efectuará previa elaboración del documento contable en soporte electrónico, si bien podrán tramitarse los documentos contables en soporte físico en aquellas operaciones para las que aún no exista el soporte electrónico.
+
+4\. La incorporación masiva de documentos en el SICOSS se efectuará en soporte fichero, por medio de lotes de documentos contables, conforme a las especificaciones y formato establecidos, para las operaciones siguientes:
+
+a) Operaciones contabilizadas por las mutuas colaboradoras con la Seguridad Social.
+
+b) Operaciones autorizadas en la Intervención delegada en los servicios centrales de la Tesorería General de la Seguridad Social para el registro de los ingresos procedentes de la recaudación de las cotizaciones sociales y conceptos de recaudación conjunta, ingresos procedentes de las aportaciones del Estado a la Seguridad Social y de los demás entes públicos, ingresos procedentes de la cartera de valores a nombre de la Tesorería General de la Seguridad Social e ingresos procedentes de otros recursos de la Seguridad Social, así como el traspaso de operaciones a las direcciones provinciales.
+
+c) Todas aquellas que determine la Intervención General de la Seguridad Social.
+
+La tramitación de los documentos contables mediante lotes de documentos requerirá la autorización de la Intervención General de la Seguridad Social. No podrá utilizarse el procedimiento de tramitación de lotes de documentos contables en aquellos casos en que el documento contable se utilice también como justificante de la realización del correspondiente acto administrativo de gestión del crédito o de ejecución del gasto.
+
+5\. No precisarán soporte documental las capturas de datos relativas a las operaciones siguientes:
+
+a) Pagos con cargo al fondo de maniobra e ingresos por reintegros y por gastos compartidos del fondo de maniobra.
+
+b) Propuesta de retención de crédito de ejercicios posteriores y tramitación anticipada.
+
+c) Documentos P y OEP de ordenación del pago de las propuestas de pago presupuestarias y no presupuestarias.
+
+d) Operaciones contabilizadas por las mutuas colaboradoras con la Seguridad Social cuando no se utilicen en soporte fichero.
+
+e) Aquellas otras que determine la Intervención General de la Seguridad Social.
+
+6\. En todo caso, las operaciones que hayan de ser contabilizadas se incorporarán al SICOSS con el máximo nivel de desarrollo.
+
+> Se modifica por el art. único.8 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+##### Regla 36. Justificantes de las operaciones.
+
+1\. Toda operación que deba dar lugar a registros contables en el SICOSS habrá de estar debidamente acreditada con el correspondiente justificante que ponga de manifiesto su realización.
+
+2\. Cuando los documentos contables y los justificantes se encuentren soportados a través de medios electrónicos, se asegurará la validez y eficacia jurídica de los mismos de acuerdo con el artículo 26 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Asimismo, se garantizará la aplicación de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales y del Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+
+En el caso de que algún justificante original estuviera soportado en formato físico, deberá obtenerse una copia auténtica electrónica, de acuerdo con los requerimientos establecidos para tal fin en el artículo 27 de la Ley 39/2015, de 1 de octubre, de procedimiento administrativo común de las Administraciones Públicas, a los efectos de su remisión a la oficina de contabilidad junto con el correspondiente documento contable electrónico para su registro en el SICOSS.
+
+3\. No obstante lo anterior, cuando los documentos contables sigan expidiéndose en formato físico, los justificantes de las operaciones deberán soportarse en ese mismo formato.
+
+4\. Junto con la información que se recoge en los expedientes, los libros de contabilidad a los que se refiere el título IV de esta instrucción, así como los demás informes y consultas que, en ambos casos, facilita el SICOSS, normalmente son suficientes para la contabilización de la mayor parte de las operaciones. Si bien, para la aplicación definitiva de determinadas operaciones en las que han intervenido diferentes centros de gestión es necesario realizar la comunicación de información complementaria. Fundamentalmente, los supuestos y términos en los que es necesario realizar esa comunicación, son los siguientes:
+
+a) Cuando un centro de gestión ha realizado propuestas de pago que incluyen descuentos que afectan a la contabilidad de la caja pagadora. Los centros de gestión que realizaron la propuesta de pago facilitarán a las cajas pagadoras los datos complementarios que en cada caso requieran para la aplicación final que corresponda.
+
+b) En los traspasos entre centros de gestión de conceptos no presupuestarios. Los centros de gestión que traspasen los conceptos (centro emisor) especificarán en la comunicación las causas que motivaron las operaciones y los desarrollos que en cada caso correspondan, pudiendo el centro de destino (centro de relación) solicitar las aclaraciones que estime necesarias.
+
+Si el centro de relación no estuviese conforme con el traspaso realizado lo pondrá en conocimiento del centro emisor y de persistir la discrepancia se elevarán las actuaciones a las respectivas Intervención delegadas de los servicios centrales, quienes resolverán conjuntamente la cuestión planteada, pudiendo, a su vez, si lo estiman conveniente someterla a consideración de la Intervención General.
+
+c) En la contabilización del documento FI.300, apartado FI.3 los servicios centrales o direcciones provinciales de la Tesorería General que contabilicen el documento especificarán en la comunicación realizada al centro afectado las causas que motivaron las operaciones, y los desarrollos que correspondan, pudiendo el centro receptor solicitar las aclaraciones que estime necesarias.
+
+Si el centro de destino no estuviese conforme con alguno de los ingresos imputados se seguirán actuaciones similares a las previstas en el apartado b) anterior.
+
+d) En la contabilización de los documentos DROC.150 y DAOC.250. En la comunicación se especificará lo señalado en el apartado b) anterior, si bien, en los casos que proceda se hará referencia a los documentos OEK.700 y su inverso, que pudieran estar relacionados con la operación.
+
+e) En la contabilización de documentos CPTC.910. En la comunicación se especificará lo señalado en el apartado b) anterior.
+
+> Se modifica por el art. único.8 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+> Se modifican los apartados 1, 2 y 3 por el art. 1.11 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+##### Regla 37. De la recepción y registro de los documentos contables.
+
+1\. Los documentos contables que elaboren los servicios gestores deberán remitirse a las oficinas de contabilidad debidamente autorizados y acompañados de los correspondientes justificantes a fin de que, una vez efectuadas las oportunas comprobaciones, puedan ser registrados en el SICOSS.
+
+Cuando los documentos contables sean electrónicos, una vez autorizados mediante firma electrónica del órgano competente quedarán a disposición de las oficinas de contabilidad a fin de que, una vez efectuadas las oportunas comprobaciones, puedan ser contabilizados en el SICOSS.
+
+Cuando los documentos contables continúen tramitándose en soporte físico, una vez autorizados por los órganos gestores competentes serán remitidos a las oficinas de contabilidad para que estas efectúen su verificación y registro mediante la digitalización o carga manual de los datos en el SICOSS, siguiendo las instrucciones que en cada caso indique el propio sistema.
+
+Los servicios gestores que remitan la documentación contable en formato físico a las oficinas contables deberán tomar medidas oportunas que garanticen que dicha remisión se realice en el plazo más breve posible desde el momento en que se dictaron los correspondientes actos administrativos.
+
+2\. Los documentos contables electrónicos elaborados por las propias oficinas de contabilidad de las Intervenciones delegadas, una vez autorizados mediante firma electrónica por el Interventor delegado competente, se registrarán de forma automática en el SICOSS.
+
+Aquellos documentos que continúen elaborándose por las oficinas de contabilidad en soporte físico, una vez autorizados por el Interventor delegado competente, requerirán de la digitalización o carga manual de los datos en el SICOSS para proceder a su registro.
+
+3\. No serán registrados por la oficina de contabilidad los siguientes documentos:
+
+a) Documentos P, OEP y sus inversos, que serán registrados por los servicios gestores de los servicios centrales y direcciones provinciales de la Tesorería General de la Seguridad Social.
+
+b) Documentos del subsistema de contabilidad auxiliar del fondo de maniobra, cuyo registro corresponde a las Unidades Administrativas del Fondo de Maniobra.
+
+c) Documentos de retención de crédito del ejercicio corriente, de ejercicios posteriores y de tramitación anticipada, cuyo registro corresponde a los servicios gestores.
+
+4\. En los casos que a continuación se detallan, las oficinas de contabilidad no tomarán razón en contabilidad de las operaciones, procediendo a devolver a las unidades remitentes la correspondiente documentación contable:
+
+a) Cuando no se hayan recibido todos los documentos que se precisen para el registro de la operación en cuestión, o bien cuando los documentos no contengan todos los requisitos o datos exigidos.
+
+b) En aquellos casos en que a los documentos contables no se acompañe los correspondientes documentos justificativos.
+
+c) Cuando la información a incorporar al sistema sea incoherente o incompatible con las validaciones requeridas por el mismo.
+
+d) Cuando el documento contable no esté debidamente confeccionado.
+
+5\. Cuando las oficinas de contabilidad de las Intervenciones delegadas respectivas no puedan tomar razón en contabilidad de los documentos contables electrónicos que acreditan las operaciones a registrar, por las causas previstas en el apartado anterior, procederán a devolver los mismos a los órganos gestores, mediante el servicio habilitado en SICOSS, al objeto de que estos modifiquen los campos de los documentos contables que no fueran correctos y procedan de nuevo a su autorización o bien incorporen la documentación justificativa adecuada para la toma de razón en contabilidad.
+
+6\. Asimismo, las oficinas de contabilidad, si detectasen errores sustanciales en los documentos contables electrónicos recibidos que imposibilitan la subsanación de los mismos por los servicios gestores, procederán a rechazar estos documentos contables mediante el servicio habilitado en SICOSS. Rechazo que motivará la anulación del documento contable y la imposibilidad de tomar razón en contabilidad de la operación.
+
+Para continuar la tramitación del documento contable que haya sido rechazado por la oficina de contabilidad será necesario que los órganos gestores vuelvan a generar en PDSI un nuevo documento contable electrónico que deberá estar relacionado con el expediente electrónico correspondiente, sometiéndose de nuevo, si procede, a los trámites de función interventora y de autorización de los mismos mediante firma electrónica.
+
+7\. Una vez registrado el documento contable electrónico, y generado el correspondiente asiento contable, el propio sistema generará un justificante electrónico de la toma de razón en contabilidad con los datos de la operación contable, incluyendo el número y fecha de la operación, sellado electrónicamente, que se pondrá a disposición del órgano gestor o de la intervención correspondiente.
+
+Para los documentos contables en soporte físico, una vez efectuado su registro, el sistema emitirá una diligencia de validación de toma de razón acreditativa del registro de la operación que contendrá como mínimo la fecha, el número de asiento y el importe del documento contable que hubiese quedado asentado en contabilidad. En estos casos el interventor delegado que tenga atribuidas las funciones de gestión contable o la persona que el mismo designe, verificará que los datos de la diligencia de validación coinciden con los datos consignados en el documento contable, procediéndose, de no ser así, con arreglo a las reglas sobre corrección de errores recogidas en la sección 9.ª Operaciones de rectificación del título II de la Instrucción de operatoria contable.
+
+No será necesario verificar el contenido de la diligencia de validación del documento contable, en el caso de que los documentos contables se hayan contabilizado a partir los datos previamente incorporados en el SICOSS o los recibidos por medios electrónicos, informáticos o telemáticos.
+
+8\. Los documentos contables generados por el sistema a los que se hace referencia en el apartado 11 de la regla 33 anterior, serán registrados de forma automática por el propio sistema contable.
+
+9\. La contabilización de los documentos contables en el sistema de información contable producirá la actualización de todos los subsistemas a los que deban afectar las operaciones registradas, en función de su naturaleza.
+
+10\. Con carácter general, el registro de los documentos contables en las mutuas colaboradoras con la Seguridad Social se efectuará mediante envío masivo de los mismos en soporte fichero que el sistema procesará remitiendo el resultado de la contabilización.
+
+Asimismo, estas entidades colaboradoras podrán contabilizar las operaciones mediante la captación de datos en el SICOSS sin soporte documental.
+
+> Se modifica por el art. único.8 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+> Se modifican los apartados 2 y 3 por el art. 1.12 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+##### Regla 38. Gestión de pagos.
+
+1\. Actuaciones en las entidades gestoras y servicios comunes de la Seguridad Social.
+
+1.1 Proceso de gestión de confirmación de las propuestas de pago.
+
+Antes de finalizar el registro diario de las operaciones, las oficinas de contabilidad efectuarán el proceso de gestión de confirmación de las propuestas de pago, ya se trate de operaciones presupuestarias como no presupuestarias, que dará como resultado que el sistema emita, por cada centro, una relación de las propuestas de pago tramitadas que, en unión de los documentos que contengan las mismas deberán autorizarse por el Interventor delegado que tenga atribuidas las funciones de gestión contable.
+
+La autorización de la relación de propuestas se realizará mediante firma electrónica del Interventor delegado autorizado que determinará la confirmación automática de las propuestas de pago en el SICOSS.
+
+La confirmación de las propuestas de pago desencadenará el proceso de gestión de pagos en SICOSS mediante la emisión de los correspondientes documentos de ordenación y materialización de los pagos por los servicios gestores de la Tesorería General, siendo por tanto el Interventor autorizado el responsable de la orden electrónica cursada.
+
+1.2 Proceso de ordenación de pagos.
+
+Los servicios gestores de la Tesorería General, de acuerdo con su competencia para efectuar la gestión de los pagos, obtendrán las relaciones de los documentos precisos para su ordenación (documentos P para operaciones presupuestarias y OEP para operaciones no presupuestarias).
+
+La contabilización de los documentos P.800 e inversos de presupuesto de gastos, o documentos OEP.800 e inversos de operaciones no presupuestarias se efectuará por los servicios gestores de la Tesorería General de la Seguridad Social competentes en la ordenación del pago.
+
+1.3 Proceso de materialización del pago.
+
+Los servicios gestores de la Tesorería General, de acuerdo con su competencia para efectuar la gestión de los pagos, obtendrán las relaciones de los documentos de materialización del pago (documentos R).
+
+La contabilización de los documentos R.809 compete a las respectivas oficinas de contabilidad de las Intervenciones delegadas, a cuyo efecto se remitirán a las mismas los documentos precisos debidamente autorizados.
+
+Para aquellos pagos que se materialicen a través del proceso telemático de gestión de pagos, los ordenadores de pago firmarán los ficheros de transferencias en concepto de autorizantes y los interventores delegados correspondientes en el ejercicio de la función interventora. La firma electrónica de los ficheros de transferencias determinará la contabilización automática de las relaciones o documentos R en el SICOSS, una vez que las entidades financieras hayan confirmado las transferencias recibidas.
+
+En los supuestos en los que no exista un proceso telemático de gestión de pagos, los documentos R se firmarán electrónicamente tanto por los ordenadores de pago como por los interventores delegados competentes. La firma electrónica determinará la contabilización automática de las relaciones o documentos R en el SICOSS.
+
+1.4 Anulación de las propuestas de pago confirmadas.
+
+En relación con la posible anulación de documentos que contienen la fase K que deseen realizar los centros gestores, los servicios gestores de la Tesorería General denegarán dicha posibilidad si el pago se ha realizado.
+
+Si se hubiera ordenado el pago, pero no se hubiera realizado, se procederá a excluir el documento P correspondiente del instrumento de pago en que figure incluido. A continuación, se contabilizará el documento P inverso y se comunicará al centro gestor que puede realizar la operación, elaborándose un nuevo instrumento de pago que contenga el resto de los documentos P.
+
+Si no se hubiera ordenado el pago se procederá a excluir el documento P de la correspondiente relación, elaborándose una nueva relación con los demás documentos no afectados por la operación, comunicándose, en todo caso, al centro gestor la autorización para contabilizar el documento en fase K inverso.
+
+Contabilizado, en su caso, el documento inverso por el centro gestor, se tendrá constancia de ello por el registro diario de documentos generados por otros centros, procediéndose, sin más al archivo del documento P y P inverso que en cada caso corresponda.
+
+2\. Actuaciones en las mutuas colaboradoras con la Seguridad Social.
+
+2.1 Proceso de gestión de confirmación de las propuestas de pago.
+
+Las mutuas procederán a confirmar las propuestas de pago obteniendo directamente del SICOSS las relaciones de las propuestas de pago registradas diariamente y procediendo a su confirmación en el propio sistema informático. No obstante, lo anterior, las relaciones de propuestas de pago que no hayan sido confirmadas al finalizar la sesión diaria serán confirmadas automáticamente por el sistema.
+
+2.2 Proceso de ordenación y materialización del pago.
+
+Las mutuas colaboradoras obtendrán y registrarán los documentos precisos para la ordenación del pago (documentos P para operaciones presupuestarias y OEP para operaciones no presupuestarias) y materialización del mismo (documentos R) de forma sucesiva, mediante los servicios habilitados al efecto en SICOSS.
+
+2.3 Anulación de las propuestas de pago confirmadas.
+
+Para la anulación de las propuestas de pago ya confirmadas, las mutuas actuaran conforme a lo establecido en el apartado 1.4 anterior.
+
+3\. Cuando cualquier tipo de causa impida el desarrollo de las operaciones habituales de incorporación de datos en el sistema y las cajas pagadoras deban realizar pagos que sean de carácter urgente, preceptivo o de obligada exigibilidad para la Seguridad Social, los servicios gestores de la Tesorería General de la Seguridad Social y de las mutuas colaboradoras con la Seguridad Social podrán acordar que el indicado pago se efectúe en base a los documentos contables en fase K correspondientes que no se han podido contabilizar y devueltos por la oficina de contabilidad, junto con un certificado del responsable del centro de gestión que cumplimentó dichos documentos, en el que haga constar la causa por la que no se han podido contabilizar los mismos y, en el caso de operaciones presupuestarias, que existe crédito adecuado y suficiente.
+
+Estas actuaciones deberán tener la conformidad previa expresa de la Intervención General de la Seguridad Social que se prestará por cualquier medio urgente.
+
+Tratándose de propuestas de pago validadas en los últimos días de diciembre de cada año, o nuevas propuestas de pago de comienzo de año, en el supuesto de que no hayan podido realizarse los citados pagos antes del traspaso de los respectivos saldos, y tengan el carácter de urgencia señalado anteriormente, los mismos podrán realizarse sin los trámites señalados en los dos párrafos anteriores.
+
+Para ambos casos, en la Intervención delegada en los servicios centrales de la Tesorería General de la Seguridad Social o, en su caso, Intervención delegada territorial y en las mutuas colaboradoras con la Seguridad Social, se llevará cuenta separada de los pagos que se realicen, los cuales, deberán ser registrados en el SICOSS tan pronto desaparezcan aquellas causas que impidan su contabilización.
+
+> Se modifica por el art. único.8 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+##### Regla 39. Archivo y conservación de los documentos contables y los justificantes de las operaciones y conservación de los registros contables.
+
+1\. Una vez registradas las operaciones en SICOSS, los servicios gestores responsables de la aprobación de las respectivas operaciones deberán conservar por medios electrónicos, debidamente ordenados, los justificantes electrónicos de las operaciones junto con los respectivos documentos contables electrónicos.
+
+Asimismo, las oficinas de contabilidad conservarán, por medios electrónicos, a través del propio sistema de información contable, los justificantes electrónicos de las operaciones, junto con los respectivos documentos contables electrónicos, autorizados por los servicios gestores o por los propios servicios de intervención.
+
+En todo caso, el archivo electrónico de los justificantes electrónicos de las operaciones y documentos contables electrónicos permitirá que éstos estén a disposición del Tribunal de Cuentas y de la Intervención General de la Seguridad Social, al objeto de posibilitar y facilitar las actuaciones de control y verificación de la contabilidad, previstas en la Ley General Presupuestaria.
+
+2\. A los efectos de la acreditación de las operaciones registradas en el SICOSS, los documentos contables electrónicos y los justificantes electrónicos de las operaciones deberán conservarse durante el plazo de seis años contados desde la fecha de remisión al Tribunal de Cuentas de las cuentas anuales donde se pongan de manifiesto las respectivas operaciones, salvo que se establezcan otros plazos por norma de rango suficiente o se hubiera interrumpido el plazo de prescripción de la posible responsabilidad contable de acuerdo con lo que se establece en la disposición adicional 3.ª de la Ley 7/1988, de 5 de abril, de funcionamiento del Tribunal de Cuentas. Sin perjuicio de lo establecido en el párrafo anterior, la documentación justificativa de las valoraciones asignadas a activos y pasivos deberá conservarse al menos durante el periodo en que los bienes, derechos y obligaciones a los que se refieran continúen en vigor o en el correspondiente inventario.
+
+3\. Los apartados anteriores de esta regla serán aplicables a los casos excepcionales en los que se utilicen documentos contables en soporte físico. En estos casos, las oficinas de contabilidad procederán a remitir los documentos contables en soporte físico registrados en el sistema, junto con los justificantes de las respectivas operaciones a los servicios gestores que elaboraron los mismos para su archivo y conservación. Con carácter previo a su remisión, las oficinas de contabilidad obtendrán copia de los documentos contables, a través de medios informáticos o electrónicos.
+
+4\. Los registros de las operaciones anotadas en el SICOSS se conservarán durante un periodo de seis años contados desde la fecha de remisión al Tribunal de Cuentas de las cuentas donde se hubiese plasmado la información relativa a dichas operaciones, salvo que por norma de rango suficiente se establezcan otros plazos o se hubiera comunicado la interrupción del plazo de prescripción de la posible responsabilidad contable de acuerdo con lo que se establece en la disposición adicional 3.ª de la Ley 7/1988, de 5 de abril, de funcionamiento del Tribunal de Cuentas.
+
+> Se modifica por el art. único.8 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+## TÍTULO III — Anotaciones contables
+
+### CAPÍTULO I — Presupuesto de gastos.
+
+##### Regla 40. Anotaciones contables.
+
+La contabilización de los documentos contables del presupuesto de gastos, dará lugar a las siguientes anotaciones contables, según la clase de documento.
+
+1) Soporte de los créditos iniciales de ejercicio corriente.
+
+Las anotaciones contables que se indican a continuación se producen en los centros de gestión a los que se adscriben los créditos:
+
+1.1 Subsistema de contabilidad patrimonial.
+
+Por el importe total del presupuesto de gastos aprobado para cada ejercicio, cargo a la cuenta 000 «Presupuesto ejercicio corriente», con abono a la cuenta 001 «Presupuesto de gastos: créditos iniciales» y, simultáneamente, cargo a la cuenta 001 «Presupuesto de gastos: créditos iniciales», con abono a la subcuenta 0030 «Presupuesto de gastos: créditos definitivos. Créditos disponibles».
+
+1.2 Subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe, anotación en las columnas de créditos iniciales y créditos disponibles de ejercicio corriente de cada uno de ellos.
+
+2) Soporte de los créditos iniciales de gastos plurianuales.
+
+Subsistema de gastos plurianuales.
+
+Por los importes parciales que correspondan a cada epígrafe, anotación en las columnas de créditos iniciales y créditos definitivos de gastos plurianuales de cada uno de ellos.
+
+3) MCCE.200 y su inverso, de modificaciones de crédito. Créditos extraordinarios.
+
+Las anotaciones contables se realizan en los centros de gestión que figuran en el cuerpo central del documento.
+
+3.1 Subsistema de contabilidad patrimonial.
+
+Por el importe total que corresponda al centro de gestión, cargo a la cuenta 000 «Presupuesto ejercicio corriente», con abono a la subcuenta 0020 «Presupuesto de gastos: modificaciones de crédito: Créditos extraordinarios» y, simultáneamente, cargo a la subcuenta 0020 «Presupuesto de gastos: modificaciones de crédito: Créditos extraordinarios», con abono a la subcuenta 0030 «Presupuesto de gastos: créditos definitivos: Créditos disponibles».
+
+3.2 Subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en las columnas de créditos extraordinarios y créditos disponibles de cada uno de ellos.
+
+3.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+4) MCSC.210 y su inverso, de modificaciones de crédito. Suplementos de crédito.
+
+Las anotaciones contables se realizan en los centros de gestión que figuran en el cuerpo central del documento.
+
+4.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total que corresponda al centro de gestión cargo a la cuenta 000 «Presupuesto ejercicio corriente», con abono a la subcuenta 0021 «Presupuesto de gastos: modificaciones de crédito: Suplementos de crédito» y, simultáneamente, cargo a la subcuenta 0021 «Presupuesto de gastos: modificaciones de crédito: Suplementos de crédito», con abono a la subcuenta 0030 «Presupuesto de gastos: créditos definitivos: Créditos disponibles».
+
+4.2 En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en las columnas de suplementos de crédito y créditos disponibles de cada uno de ellos.
+
+4.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+5) MCAC.220 y su inverso, de modificaciones de crédito. Ampliaciones de crédito.
+
+Las anotaciones contables se realizan en los centros de gestión que figuran en el cuerpo central del documento.
+
+5.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total que corresponda al centro de gestión cargo a la cuenta 000 «Presupuesto ejercicio corriente», con abono a la subcuenta 0022 «Presupuesto de gastos: modificaciones de crédito: Ampliaciones de crédito» y, simultáneamente, cargo a la subcuenta 0022 «Presupuesto de gastos: modificaciones de crédito: Ampliaciones de crédito», con abono a la subcuenta 0030 «Presupuesto de gastos: créditos definitivos: Créditos disponibles».
+
+5.2 En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en las columnas de ampliaciones de crédito y créditos disponibles de cada uno de ellos.
+
+5.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+6) MCTC.230 y su inverso, de modificaciones de crédito. Transferencias de crédito.
+
+Las anotaciones contables se realizan en los centros de gestión que figuran en el cuerpo central del documento.
+
+6.1. En el subsistema de contabilidad patrimonial.
+
+6.1.1 Epígrafes receptores de crédito.
+
+Por el importe total que corresponda al centro de gestión cargo a la cuenta 000 «Presupuesto ejercicio corriente», con abono a la subcuenta 0023 «Presupuesto de gastos: modificaciones de crédito: Transferencias de crédito» y, simultáneamente, cargo a la subcuenta 0023 «Presupuesto de gastos: modificaciones de crédito: Transferencias de crédito», con abono a la subcuenta 0030 «Presupuesto de gastos: créditos definitivos: Créditos disponibles».
+
+6.1.2 Epígrafes cedentes de crédito.
+
+Por el importe total que corresponda al centro de gestión cargo en negativo en la cuenta 000 «Presupuesto ejercicio corriente», con abono en negativo a la subcuenta 0023 «Presupuesto de gastos: modificaciones de crédito: Transferencias de crédito» y, simultáneamente, cargo en negativo a la subcuenta 0023 «Presupuesto de gastos: modificaciones de crédito: Transferencias de crédito», con abono en negativo a la subcuenta 0032 «Presupuesto de gastos: créditos definitivos: Créditos retenidos para transferencias».
+
+6.2 En el subsistema de presupuesto de gastos.
+
+6.2.1 Epígrafes receptores.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en las columnas de transferencias de crédito, aumentos y créditos disponibles de cada uno de ellos.
+
+6.2.2 Epígrafes cedentes.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en las columnas de transferencias de crédito, disminuciones y, en negativo, créditos retenidos para transferencias.
+
+6.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+7) MCIC.240 y su inverso, de modificaciones de crédito. Incorporaciones de crédito.
+
+Las anotaciones contables se realizan en los centros de gestión que figuran en el cuerpo central del documento.
+
+7.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total que corresponda al centro de gestión cargo a la cuenta 000 «Presupuesto ejercicio corriente», con abono a la subcuenta 0024 «Presupuesto de gastos: modificaciones de crédito: Incorporaciones de remanentes de crédito» y, simultáneamente, cargo a la subcuenta 0024 «Presupuesto de gastos: modificaciones de crédito: Incorporaciones de remanentes de crédito», con abono a la subcuenta 0030 «Presupuesto de gastos: créditos definitivos: Créditos disponibles».
+
+7.2 En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en las columnas de incorporaciones de crédito y créditos disponibles de cada uno de ellos.
+
+7.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+8) MCGI.250 y su inverso, de modificaciones de crédito. Créditos generados por ingresos.
+
+Las anotaciones contables se realizan en los centros de gestión que figuran en el cuerpo central del documento.
+
+8.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total que corresponda al centro de gestión cargo a la cuenta 000 «Presupuesto ejercicio corriente», con abono a la subcuenta 0025 «Presupuesto de gastos: modificaciones de crédito: Créditos generados por ingresos» y, simultáneamente, cargo a la subcuenta 0025 «Presupuesto de gastos: modificaciones de crédito: Créditos generados por ingresos», con abono a la subcuenta 0030 «Presupuesto de gastos: créditos definitivos: Créditos disponibles».
+
+8.2 En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en las columnas de créditos generados por ingresos y créditos disponibles de cada uno de ellos.
+
+8.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+9) MCBA.280 y su inverso, de modificaciones de crédito. Bajas por anulación.
+
+Las anotaciones contables se realizan en los centros de gestión que figuran en el cuerpo central del documento.
+
+9.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total que corresponda al centro de gestión cargo a la subcuenta 0030 «Presupuesto de gastos: créditos definitivos: Créditos disponibles», con abono a la subcuenta 0028 «Presupuesto de gastos: modificaciones de crédito: Bajas por anulación y rectificación» y, simultáneamente, cargo a la subcuenta 0028 «Presupuesto de gastos: modificaciones de crédito: Bajas por anulación y rectificación» con abono a la cuenta 000 «Presupuesto ejercicio corriente».
+
+9.2 En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en las columnas de bajas por anulación y rectificación y, en negativo, créditos disponibles de cada uno de ellos.
+
+9.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+10) MCRD.290, de modificaciones de crédito. Redistribuciones internas.
+
+Las anotaciones contables se realizan en los centros de gestión que figuran en el cuerpo central del impreso.
+
+10.1 En el subsistema de contabilidad patrimonial.
+
+10.1.1 Epígrafes receptores de crédito.
+
+Por el importe total que corresponda al centro de gestión, cargo a la cuenta 000 «Presupuesto ejercicio corriente», con abono a la subcuenta 0029 «Presupuesto de gasto: modificaciones de crédito: Redistribuciones de créditos internas entre centros» y, simultáneamente, cargo a la subcuenta 0029 «Presupuesto de gastos: modificaciones de crédito: Redistribuciones de créditos internas entre centros», con abono a la subcuenta 0030 «Presupuesto de gastos: créditos definitivos. Créditos disponibles».
+
+10.1.2 Epígrafes cedentes de crédito.
+
+Por el importe total que corresponda al centro de gestión, cargo en negativo a la cuenta 000 «Presupuesto ejercicio corriente», con abono en negativo a la subcuenta 0029 «Presupuesto de gasto: modificaciones de crédito: Redistribuciones de créditos internas entre centros» y, simultáneamente, cargo en negativo a la subcuenta 0029 «Presupuesto de gastos: modificaciones de crédito: Redistribuciones de créditos internas entre centros», con abono en negativo a la subcuenta 0030 «Presupuesto de gastos: créditos definitivos. Créditos disponibles».
+
+10.2 En el subsistema de presupuesto de gastos.
+
+10.2.1 Epígrafes receptores.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en las columnas de redistribuciones de créditos, aumentos, y créditos disponibles de cada uno de ellos.
+
+10.2.2 Epígrafes cedentes.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en las columnas de redistribuciones de créditos, disminuciones y, en negativo, créditos disponibles de cada uno de ellos.
+
+11) MCRD.291, de modificaciones de crédito. Redistribuciones internas.
+
+Las anotaciones contables se realizan en los centros de gestión que figuran en el cuerpo central del impreso y son las mismas que las indicadas para el documento MCRD.290, de modificaciones de crédito. Redistribuciones internas.
+
+12) RCPU.310 y su inverso, de retenciones de crédito pendientes de utilización.
+
+Las anotaciones contables se realizan en el centro que expide el documento.
+
+12.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total de las retenciones que se efectúan, cargo a la subcuenta 0030 «Presupuesto de gastos: créditos definitivos: Créditos disponibles», con abono a la subcuenta 0031 «Presupuesto de gastos: créditos definitivos. Créditos retenidos para gastar».
+
+12.2 En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en la columna de créditos retenidos para gastar y, en negativo, en la de créditos disponibles.
+
+12.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+13) RCTC.311 y su inverso, de retenciones de crédito para transferencias.
+
+Las anotaciones contables se realizan en los centros de gestión que figuran en el cuerpo central del documento.
+
+13.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total de las retenciones que correspondan al centro de gestión, cargo a la subcuenta 0030 «Presupuesto de gastos: créditos definitivos: Créditos disponibles», con abono a la subcuenta 0032 «Presupuesto de gastos: créditos definitivos. Créditos retenidos para transferencias».
+
+13.2. En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en la columna de créditos retenidos para transferencias y, en negativo, en la de créditos disponibles.
+
+13.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+14) RCND.320 y su inverso, de retenciones de crédito. Créditos no disponibles.
+
+Las anotaciones contables se realizan en los centros de gestión que figuran en el cuerpo central del documento.
+
+14.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total de las retenciones que correspondan al centro de gestión, cargo a la subcuenta 0030 «Presupuesto de gastos: créditos definitivos: Créditos disponibles», con abono a la subcuenta 0033 «Presupuesto de gastos: créditos definitivos. Créditos no disponibles».
+
+14.2 En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en la columna de créditos no disponibles y, en negativo, en la de créditos disponibles.
+
+14.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+15) A.400 y su inverso, de autorizaciones de gasto sobre créditos disponibles.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento.
+
+15.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total del documento, cargo a la subcuenta 0030 «Presupuesto de gastos: créditos definitivos: Créditos disponibles», con abono a la cuenta 004 «Presupuesto de gastos: gastos autorizados».
+
+15.2 En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en la columna de gastos autorizados de cada uno de ellos.
+
+15.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+16) A.410 y su inverso, de autorizaciones de gasto sobre créditos retenidos.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento.
+
+16.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total del documento, cargo a la subcuenta 0031 «Presupuesto de gastos: créditos definitivos: Créditos retenidos para gastar», con abono a la cuenta 004 «Presupuesto de gastos: gastos autorizados».
+
+16.2 En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en la columna de gastos autorizados de cada uno de ellos.
+
+16.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+17) AD.420 y su inverso, de autorizaciones de gasto sobre créditos disponibles y compromisos de gasto.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento y se corresponden con las efectuadas por los documentos A.400, D.500 y sus inversos.
+
+18) AD.430 y su inverso, de autorizaciones de gasto sobre créditos retenidos y compromisos de gasto.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento y se corresponden con las efectuadas por los documentos A.410, D.500 y sus inversos.
+
+19) ADOK.440 y su inverso, de autorizaciones de gasto sobre créditos disponibles y compromisos de gastos, reconocimientos de obligaciones y propuestas de pago.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento y se corresponden con las efectuadas por los documentos A.400, D.500, OK.610 y sus inversos. Además, en el subsistema de contabilidad auxiliar del fondo de maniobra se producen las siguientes anotaciones contables:
+
+En el libro auxiliar de pagos por fondo de maniobra: por los importes que figuren en los campos de íntegro, descuentos y líquido del documento, anotación en las siguientes columnas: total íntegro, descuentos e importe líquido, del apartado «Operaciones de justificación del pago».
+
+En los libros auxiliares de operaciones pendientes de formalizar: por los importes parciales que correspondan a cada epígrafe de los expresados en el documento, anotación en la columna de importe justificado del libro auxiliar de operaciones presupuestarias pendientes de formalizar. Cuando el documento contenga descuentos, por los importes parciales que correspondan a cada uno de ellos, anotación en la columna de descuentos justificados del libro auxiliar de descuentos pendientes de formalizar.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+20) ADOK 441 y su inverso, de autorizaciones y compromisos de gasto, reconocimientos de obligaciones y propuestas de pago por operaciones pendientes de aplicar a presupuesto en fin del ejercicio anterior.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento y se corresponden con las efectuadas por el documento ADOK.440, salvo la que se produce en el subsistema de contabilidad patrimonial en la fase de reconocimiento de la obligación que será, por el importe total íntegro del documento, cargo a la subcuenta 413 «Acreedores por operaciones pendientes de imputar a presupuesto», con abono, según proceda, a la subcuenta 40000 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40010 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Obligaciones reconocidas», en el caso de operaciones correspondientes al capítulo 8 ó 40030 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+21) ADOK.450 y su inverso, de autorizaciones de gasto sobre créditos retenidos y compromisos de gasto, reconocimiento de obligaciones y propuestas de pago.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento y se corresponden con las efectuadas por los documentos A.410, D.500, OK.610 y sus inversos.
+
+22) ADOK.480 y su inverso, de autorizaciones de gasto sobre créditos disponibles, compromisos de gasto, reconocimiento de obligaciones y propuestas de pago a justificar.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento y se corresponde con las efectuadas en el documento ADOK.440, salvo la que se produce en el subsistema de contabilidad patrimonial en la fase de reconocimiento de la obligación que será, por el importe total íntegro del documento, cargo a la subcuenta 5584 «Libramientos para pagos a justificar pendientes de pago», con abono, según proceda, a la subcuenta 40000 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40010 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Obligaciones reconocidas», en el caso de operaciones correspondientes al capítulo 8 ó 40030 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+23) ADOK.490 y su inverso, de autorizaciones de gasto sobre créditos retenidos, compromisos de gasto, reconocimiento de obligaciones y propuestas de pago a justificar.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento y se corresponde con las efectuadas en el documento ADOK.450, salvo la que se produce en el subsistema de contabilidad patrimonial en la fase de reconocimiento de la obligación que será, por el importe total íntegro del documento, cargo a la subcuenta 5584 «Libramientos para pagos a justificar pendientes de pago», con abono, según proceda, a la subcuenta 40000 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40010 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Obligaciones reconocidas», en el caso de operaciones correspondientes al capítulo 8 ó 40030 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+24) D.500 y su inverso, de compromisos de gasto.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento.
+
+24.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total del documento, cargo a la cuenta 004 «Presupuestos de gastos: gastos autorizados», con abono a la cuenta 005 «Presupuesto de gastos: gastos comprometidos».
+
+24.2. En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en la columna de disposiciones o compromisos de gasto de cada uno de ellos.
+
+24.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+25) O.600 y su inverso, de modificación de obligaciones reconocidas en ejercicios anteriores.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento.
+
+25.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total del documento, cargo a la cuenta 120 “Resultados de ejercicios anteriores”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7 o a las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/plan de contabilidad, teniendo en cuenta, en su caso el código complementario, con abono, según proceda, a la subcuenta 40100 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Operaciones de gestión. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40110 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras cuentas a pagar. Obligaciones reconocidas”, en el caso de operaciones correspondientes al capítulo 8 o 40130 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras deudas. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+25.2 En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central de documento, anotación en la columna de modificación de las obligaciones reconocidas del ejercicio cerrado que corresponda.
+
+25.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+26) O.602, y su inverso, de prescripción de obligaciones reconocidas en ejercicios anteriores.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento.
+
+26.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total íntegro del documento, cargo, según proceda, a la subcuenta 40100 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Operaciones de gestión. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40110 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras cuentas a pagar. Obligaciones reconocidas”, en el caso de operaciones correspondientes al capítulo 8 o 40130 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras deudas. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono a la cuenta 778 “Ingresos excepcionales”.
+
+26.2 En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en la columna de prescripción de las obligaciones reconocidas del ejercicio cerrado que corresponda.
+
+26.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+27) O.603, y su inverso, de acreedores por operaciones devengadas. Obligaciones contraídas con cargo a créditos autorizados/ específicos de corriente.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento.
+
+27.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total íntegro del documento, cargo a las cuentas de los grupos 1, 2, 5 ó 6, según la naturaleza del gasto realizado, determinada en función de la tabla de equivalencias presupuesto de gastos/ plan de contabilidad, teniendo en cuenta, en su caso, el código complementario, con abono a la cuenta 413 «Acreedores por operaciones devengadas».
+
+27.2 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+28) O.604, y su inverso, de acreedores por operaciones devengadas. Obligaciones contraídas con cargo a créditos de corriente.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento.
+
+28.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total íntegro del documento, cargo a las cuentas de los grupos 1, 2, 5 ó 6, según la naturaleza del gasto realizado, determinada en función de la tabla de equivalencias presupuesto de gastos/ plan de contabilidad, teniendo en cuenta, en su caso, el código complementario, con abono a la cuenta 413 “Acreedores por operaciones devengadas”.
+
+28.2 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+29) O.606, y su inverso, de acreedores por otras operaciones devengadas. Obligaciones no contraídas.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento.
+
+29.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total íntegro del documento, cargo a las cuentas de los grupos 1, 2, 5 ó 6, según la naturaleza del gasto realizado, determinada en función de la tabla de equivalencias presupuesto de gastos/ plan de contabilidad, teniendo en cuenta, en su caso, el código complementario, con abono a la cuenta 413 “Acreedores por operaciones devengadas”.
+
+29.2 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+30) OK.610 y su inverso, de reconocimiento de obligaciones y propuestas de pago.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento.
+
+30.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total íntegro del documento, cargo en las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/ plan de contabilidad, teniendo en cuenta, en su caso el código complementario, con abono, según proceda, a la subcuenta 40000 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40010 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Obligaciones reconocidas”, en el caso de operaciones correspondientes al capítulo 8 ó 40030 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 6 y 9; y cargo a la subcuenta 40000 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40010 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Obligaciones reconocidas”, en el caso de operaciones correspondientes al capítulo 8 ó 40030 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono a la subcuenta 40001 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40011 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Propuestas de pago”, en el caso de operaciones correspondientes al capítulo 8 ó 40031 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+En el supuesto que la operación registrada corresponda a gastos devengados en un mes anterior al de la contabilización del documento OK.610, se producirán las anotaciones del devengo mensual en el último asiento del mes a que corresponda el devengo de la operación, de forma que, por el importe total íntegro del documento, se anotará un cargo en las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/ plan de contabilidad, teniendo en cuenta, en su caso el código complementario, con abono a la cuenta 413 “Acreedores por operaciones devengadas”.
+
+Asimismo, en la misma fecha en que se haya contabilizado el documento OK.610 procede la aplicación del devengo, de forma que, por el importe total íntegro del documento, se anotará un cargo en negativo en las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/ plan de contabilidad, teniendo en cuenta, en su caso el código complementario y un cargo en positivo en la cuenta 413 “Acreedores por operaciones devengadas”.
+
+30.2 En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en las columnas de obligaciones reconocidas y de propuestas de pago de cada uno de ellos.
+
+30.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+En el supuesto de que la operación contabilizada anule un documento que generó las anotaciones de los gastos devengados en un mes anterior, se producirán las mismas anotaciones que el documento OK.610 de referencia, pero con signo contrario, de tal forma que, en el último asiento del mes al que corresponda el devengo del documento anulado, por el importe del íntegro del documento, se anotará un cargo en negativo en las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/ plan de contabilidad, teniendo en cuenta, en su caso el código complementario, con abono en negativo en la cuenta 413 “Acreedores por operaciones devengadas”.
+
+Asimismo, en la misma fecha en que se haya contabilizado el documento inverso, por el importe total íntegro del documento, se anotará un cargo en positivo en las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/ plan de contabilidad, teniendo en cuenta, en su caso el código complementario y un cargo en negativo en la cuenta 413 “Acreedores por operaciones devengadas”.
+
+31) OK.610 y su inverso, de modificación de obligaciones reconocidas y propuestas de pago en ejercicios anteriores.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento.
+
+31.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total del documento, cargo a la cuenta 120 “Resultados de ejercicios anteriores”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7 o a las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/plan de contabilidad, teniendo en cuenta, en su caso el código complementario, con abono, según proceda, a la subcuenta 40100 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Operaciones de gestión. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40110 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras cuentas a pagar. Obligaciones reconocidas”, en el caso de operaciones correspondientes al capítulo 8 o 40130 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras deudas. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 6 y 9, y cargo según proceda, a la subcuenta 40100 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Operaciones de gestión. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40110 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras cuentas a pagar. Obligaciones reconocidas”, en el caso de operaciones correspondientes al capítulo 8 o 40130 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras deudas. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono, según proceda, a la subcuenta 40101 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Operaciones de gestión. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40111 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras cuentas a pagar. Propuestas de pago”, en el caso de operaciones correspondientes al capítulo 8, o 40131 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras deudas. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+31.2 En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central de documento, anotación en la columna de modificación de obligaciones y propuestas de pago del ejercicio cerrado que corresponda.
+
+31.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+32) OK.612 y su inverso, de prescripción de obligaciones reconocidas y propuestas de pago de ejercicios anteriores.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento.
+
+32.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total íntegro del documento, cargo, según proceda, a la subcuenta 40101 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Operaciones de gestión. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40111 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras cuentas a pagar. Propuestas de pago”, en el caso de operaciones correspondientes al capítulo 8 o 40131 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras deudas. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono a la cuenta 778 “Ingresos excepcionales”.
+
+32.2 En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en la columna de prescripción de obligaciones y propuestas de pago del ejercicio cerrado que corresponda.
+
+32.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+33) OK.620 y su inverso, de reconocimiento de obligaciones y propuestas de pago a justificar.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento y se corresponde con las efectuadas en el documento OK.610, salvo la que se produce en el subsistema de contabilidad patrimonial en la fase de reconocimiento de la obligación que será, por el importe total íntegro del documento, cargo a la subcuenta 5584 «Libramientos para pagos a justificar pendientes de pago», con abono, según proceda, a la subcuenta 40000 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40010 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Obligaciones reconocidas», en el caso de operaciones correspondientes al capítulo 8 ó 40030 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+34) K.700 y su inverso, de propuestas de pago.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento.
+
+34.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total íntegro del documento, cargo, según proceda, a la subcuenta 40100 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Operaciones de gestión. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40110 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras cuentas a pagar. Obligaciones reconocidas”, en el caso de operaciones correspondientes al capítulo 8 o 40130 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras deudas. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono, según proceda, a la subcuenta 40101 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Operaciones de gestión. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40111 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras cuentas a pagar. Propuestas de pago”, en el caso de operaciones correspondientes al capítulo 8, o 40131 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras deudas. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+34.2 En el subsistema de presupuesto de gastos.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en la columna de propuestas de pago expedidas en el ejercicio y del ejercicio cerrado que corresponda.
+
+34.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+35) KRPG.900 y su inverso, de propuestas de reintegros del presupuesto de gastos. Ejercicio corriente.
+
+Las anotaciones contables se realizan en el centro que expide el documento y en la correspondiente caja pagadora, una vez contabilizado el documento FRPG.990 ó FRPG.995.
+
+36) KRPG.905 y su inverso, de propuestas de reintegros del presupuesto de gastos por operaciones de pagos a justificar. Ejercicio corriente.
+
+Las anotaciones contables se realizan en el centro que expide el documento y en la correspondiente caja pagadora, una vez contabilizado el documento FRPG.992 ó FRPG.998.
+
+37) P.800 y su inverso, de ordenación del pago.
+
+Las anotaciones contables se realizan en los centros de gestión que expidieron las correspondientes propuestas de pago.
+
+37.1 En el subsistema de contabilidad patrimonial.
+
+Para los pagos ordenados del ejercicio corriente y por el importe total íntegro del documento, cargo, según proceda, a la subcuenta 40001 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40011 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Propuestas de pago”, en el caso de operaciones correspondientes al capítulo 8 o 40031 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono, según proceda, a la subcuenta 40002 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40012 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Pagos ordenados”, en el caso de operaciones correspondientes al capítulo 8 o 40032 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+Para los pagos ordenados de ejercicios cerrados y por el importe total íntegro del documento, cargo, según proceda, a la subcuenta 40101 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Operaciones de gestión. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40111 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras cuentas a pagar. Propuestas de pago”, en el caso de operaciones correspondientes al capítulo 8 o 40131 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras deudas. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono, según proceda, a la subcuenta 40102 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Operaciones de gestión. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40112 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras cuentas a pagar. Pagos ordenados”, en el caso de operaciones correspondientes al capítulo 8, o 40132 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras deudas. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+37.2 En el subsistema de presupuesto de gastos.
+
+Por los pagos ordenados del ejercicio corriente y por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en la columna de pagos ordenados de cada uno de ellos.
+
+Por los pagos ordenados de ejercicios cerrados y por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento, anotación en la columna de pagos ordenados en el ejercicio de cada uno de ellos y ejercicio cerrado que corresponda.
+
+37.3 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+38) R.809, de realización del pago.
+
+Las anotaciones contables se realizan en los centros de gestión que expidieron las correspondientes propuestas de pago y en las cajas pagadoras.
+
+38.1 En el subsistema de contabilidad patrimonial.
+
+38.1.1 En el centro que expidió la propuesta de pago.
+
+Para los pagos realizados del ejercicio corriente y por el importe total íntegro del documento, cargo, según proceda, a la subcuenta 40002 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40012 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Pagos ordenados”, en el caso de operaciones correspondientes al capítulo 8 o 40032 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono a la subcuenta 5522 “Cuentas de enlace. Pagos realizados por cuenta de relaciones internas”.
+
+Para los pagos realizados de ejercicios cerrados y por el importe total íntegro del documento, cargo, según proceda, a la subcuenta 40102 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Operaciones de gestión. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40112 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras cuentas a pagar. Pagos ordenados”, en el caso de operaciones correspondientes al capítulo 8 o 40132 “Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. Otras deudas. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono, a la subcuenta 5522 “Cuentas de enlace. Pagos realizados por cuenta de relaciones internas”.
+
+Con carácter simultáneo, por el importe total de los descuentos practicados en el momento de materializarse el pago, que deban recogerse en el centro de gestión, cargo a la subcuenta 5529 “Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas”, con abono a las cuentas que en cada caso corresponda en función de las tablas de equivalencias descuentos /conceptos no presupuestarios y conceptos no presupuestarios/cuentas del plan.
+
+38.1.2 En la caja pagadora.
+
+Por el importe total íntegro del documento, cargo a la subcuenta 5523 “Cuentas de enlace. Pagos en ejecución de operaciones por cuenta de relaciones internas”, con abono a las cuentas del subgrupo 57 “Efectivo y activos líquidos equivalentes” que corresponda, determinadas por la tabla de equivalencias cuentas bancarias/cuentas del plan, por el importe líquido del documento, y con abono a la subcuenta 5529 “Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas”, por todos los descuentos practicados.
+
+También con carácter simultáneo, por los descuentos practicados que deban recogerse en la caja pagadora, se efectúa un cargo a la subcuenta 5529 “Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas”, con abono a las cuentas que en cada caso corresponda en función de las tablas de equivalencias descuentos/conceptos no presupuestarios y conceptos no presupuestarios/cuentas del plan.
+
+38.2 En el subsistema de presupuesto de gastos.
+
+En el centro que expidió la propuesta de pago, por los pagos realizados del ejercicio corriente y por los importes parciales que correspondan a cada epígrafe de los expresados en las partes centrales de los documentos P que se materializan, anotación en la columna de pagos realizados de cada uno de ellos.
+
+En el centro que expidió la propuesta de pago, por los pagos realizados de ejercicios cerrados y por los importes parciales que correspondan a cada epígrafe de los expresados en las partes centrales de los documentos P que se materializan, anotación en la columna de pagos realizados en el ejercicio de cada uno de ellos y ejercicio cerrado que corresponda.
+
+En el centro que expidió la propuesta de pago, por los pagos realizados de ejercicios cerrados y por los importes parciales que correspondan a cada epígrafe de los expresados en las partes centrales de los documentos P que se materializan, anotación en la columna de pagos realizados en el ejercicio de cada uno de ellos y ejercicio cerrado que corresponda.
+
+La totalidad de los importes de los pagos realizados de aplicaciones presupuestarias correspondientes al artículo 48 «Transferencias corrientes. A familias e instituciones sin fines de lucro» del presupuesto de gastos que hayan anotado en este subsistema en cada centro de gestión que expidió la propuesta de pago, conformará un saldo, a nivel de vinculante, denominado saldo reintegrable, que será objeto de disminución con ocasión de las formalizaciones de reintegros del presupuesto de gastos de operaciones imputadas al citado artículo durante el ejercicio, sin que dicho saldo pueda tener importe negativo.
+
+38.3 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+38.3.1 En el centro que expidió la propuesta de pago.
+
+Por el importe total íntegro de los pagos realizados del ejercicio corriente, anotación en la columna de haber del concepto 50310 “Pagos realizados. Presupuesto de gastos. Ejercicio corriente” y por iguales motivos respecto a ejercicios cerrados, anotación en la columna de haber del concepto 50320 “Pagos realizados. Presupuesto de gastos. Presupuestos cerrados”.
+
+Por el importe total de los descuentos practicados que deban recogerse en el centro de gestión, anotación en la columna de debe del concepto 51030 “Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas”.
+
+Por los importes parciales de cada uno de los descuentos practicados al materializarse el pago, que deban recogerse en el centro de gestión, anotación en la columna de haber del concepto que corresponda en función de las tablas de equivalencia descuentos/conceptos no presupuestarios.
+
+38.3.2 En la caja pagadora.
+
+Por el importe total íntegro de los pagos realizados del ejercicio corriente, anotación en la columna de debe del concepto 50410 “Pagos en ejecución de operaciones por cuenta de relaciones internas. Presupuesto de gastos. Ejercicio corriente” y por iguales motivos respecto a ejercicios cerrados, anotación en la columna de debe del concepto 50420 “Pagos en ejecución de operaciones por cuenta de relaciones internas. Presupuesto de gastos. Presupuestos cerrados”.
+
+Por el importe total de los descuentos practicados, con independencia del centro en que deban recogerse, anotación en la columna de haber del concepto 51030 “Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas”.
+
+Por el importe total de los descuentos practicados que deban recogerse en la caja pagadora, anotación en la columna de debe del concepto 51030 “Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas”.
+
+Por los importes parciales de cada uno de los descuentos practicados al materializarse el pago, que deban recogerse en la caja pagadora, anotación en la columna de haber del concepto que corresponda en función de la tabla de equivalencias descuentos/conceptos no presupuestarios.
+
+38.4 En el subsistema de cuentas bancarias.
+
+En la caja pagadora, por los importes parciales de las cantidades liquidas que correspondan a las diferentes cuentas bancarias abiertas, anotación en la columna de haber de cada una de ellas.
+
+39) FRPG.990, de formalización de reintegros del presupuesto de gastos (minora autorizaciones de gasto, compromisos de gasto, reconocimientos de obligaciones, propuestas de pago, ordenaciones de pago y realizaciones de pago). Ejercicio corriente.
+
+Las anotaciones contables se realizan en los centros de gestión que expidieron las correspondientes propuestas de reintegros y en las cajas pagadoras.
+
+39.1 En el subsistema de contabilidad patrimonial.
+
+39.1.1 En el centro de gestión que expidió la propuesta de reintegro.
+
+Por el importe total íntegro del documento KRPG de referencia y de forma encadenada se realizan los siguientes asientos con signo negativo:
+
+a) Cargo, según proceda, a la subcuenta 40002 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40012 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Pagos ordenados”, en el caso de operaciones correspondientes al capítulo 8 o 40032 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono a la subcuenta 5522 “Cuentas de enlace. Pagos realizados por cuenta de relaciones internas”.
+
+b) Cargo, según proceda, a la subcuenta 40001 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40011 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Propuestas de pago”, en el caso de operaciones correspondientes al capítulo 8 o 40031 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono, según proceda, a la subcuenta 40002 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40012 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Pagos ordenados”, en el caso de operaciones correspondientes al capítulo 8 o 40032 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+c) Cargo a la subcuenta 40000 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40010 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Obligaciones reconocidas”, en el caso de operaciones correspondientes al capítulo 8 o 40030 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono a la subcuenta 40001 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40011 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Propuestas de pago”, en el caso de operaciones correspondientes al capítulo 8 o 40031 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+d) Cargo a las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/plan de contabilidad, teniendo en cuenta, en su caso el código complementario, con abono, según proceda, a la subcuenta 40000 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40010 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Obligaciones reconocidas”, en el caso de operaciones correspondientes al capítulo 8 o 40030 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+e) Cargo a la cuenta 004 “Presupuesto de gastos: gastos autorizados”, con abono a la cuenta 005 “Presupuesto de gastos: gastos comprometidos”.
+
+f) Cargo a la subcuenta 0030 “Presupuesto de gastos: créditos definitivos: Créditos disponibles”, con abono a la cuenta 004 “Presupuesto de gastos: gastos autorizados”.
+
+Con carácter simultáneo, por el importe total de los descuentos y conceptos no presupuestarios figurados en el documento KRPG de referencia, cargo en negativo a la subcuenta 5529 “Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas”, con abono en negativo, por cada descuento, a las cuentas que en cada caso corresponda en función de las tablas de equivalencias descuentos/conceptos no presupuestarios y conceptos no presupuestarios/cuentas del plan, y con abono en negativo, por cada concepto no presupuestario figurado en la parte inferior del documento KRPG de referencia, a las cuentas que en cada caso corresponda en función de la tabla de equivalencias conceptos no presupuestarios/plan de cuentas.
+
+En el supuesto de que en el documento KRPG de referencia se consignase el concepto no presupuestario 30210 “Reintegros de prestaciones pendientes de aplicación”, una vez realizadas las anotaciones anteriores, por el importe líquido del documento, se producirá un cargo en positivo a las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/plan de contabilidad, teniendo en cuenta, en su caso el código complementario, con abono en positivo a la cuenta 448 “Deudores por prestaciones”.
+
+En el supuesto de que la operación contabilizada sea la formalización de un reintegro de gastos con referencia a un documento que realizó las anotaciones del devengo mensual, en el último asiento del mes a que corresponda el devengo del documento referenciado se producirá el asiento contrario del registro del devengo lo que anotará, por el importe total íntegro del documento, un cargo en negativo en las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/plan de contabilidad, teniendo en cuenta, en su caso el código complementario, con abono en negativo a la cuenta 413 “Acreedores por operaciones devengadas”.
+
+Asimismo en la misma fecha en que se haya contabilizado la formalización de dicho reintegro se producirá el asiento contrario de la aplicación del devengo lo que anotará, por el importe total íntegro del documento, un cargo en positivo en las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/plan de contabilidad, teniendo en cuenta, en su caso el código complementario y un cargo en negativo en la cuenta 413 “Acreedores por operaciones devengadas”.
+
+En el supuesto de que la operación contabilizada sea la formalización de un reintegro de gastos sin referencia a documento alguno, en el último asiento del mes anterior al que se registre dicha formalización, se producirá, por el importe total íntegro del documento, un cargo en negativo de las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/plan de contabilidad, teniendo en cuenta, en su caso el código complementario, con abono en negativo a la cuenta 413 “Acreedores por operaciones devengadas”. En el supuesto de reintegros de pagos delegados de la prestación económica por incapacidad temporal, dicha anotación se producirá en el último asiento del tercer mes anterior al que se registre dicha formalización.
+
+Asimismo, en dicho supuesto, en la misma fecha en que se haya contabilizado la formalización de dicho reintegro, se producirá por el importe total íntegro del documento, un cargo en positivo en las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/plan de contabilidad, teniendo en cuenta, en su caso el código complementario y un cargo en negativo en la cuenta 413 “Acreedores por operaciones devengadas”.
+
+En el caso de formalizaciones de reintegros registradas en el mes de enero, no se realizarán las anotaciones indicadas en los dos párrafos anteriores. Si bien en el supuesto de reintegros de pagos delegados de la prestación económica por incapacidad temporal, las formalizaciones de reintegros registradas en el mes de enero, febrero y marzo, no se realizarán las anotaciones indicadas en los dos párrafos anteriores.
+
+39.1.2 En la caja pagadora.
+
+Por el importe total íntegro del documento KRPG de referencia se realiza el siguiente asiento en negativo: cargo a la subcuenta 5523 “Cuentas de enlace. Pagos en ejecución de operaciones por cuenta de relaciones internas”, con abono a la subcuenta 5529 “Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas”.
+
+39.2 En el subsistema de presupuesto de gastos.
+
+En el centro que expidió la propuesta de reintegro y por los importes parciales que correspondan a cada epígrafe de aplicaciones presupuestarias expresados en el documento KRPG de referencia, anotación en negativo en las columnas de pagos realizados, pagos ordenados, propuestas de pago, obligaciones reconocidas, disposiciones o compromisos de gasto y autorizaciones de gasto.
+
+En el centro que expidió la propuesta de reintegro y por el importe íntegro del documento, se producirá una disminución del saldo reintegrable con ocasión del registro de formalizaciones de reintegros al presupuesto de gastos de operaciones que se imputan al artículo 48 “Transferencias corrientes. A familias e instituciones sin fines de lucro” del presupuesto de gastos, sin que dicho saldo puede tener importe negativo.
+
+39.3 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+39.3.1 En el centro que expidió la propuesta de pago. Por el importe total íntegro del documento KRPG de referencia, anotación en negativo en la columna de haber del concepto 50310 “Pagos realizados. Presupuesto de gastos. Ejercicio corriente”.
+
+Por el importe total de los descuentos y conceptos no presupuestarios figurados en el documento KRPG de referencia anotación en negativo en la columna de debe del concepto 51030 “Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas”.
+
+Por cada descuento figurado en el KRPG de referencia, anotación en negativo en la columna de haber del concepto que corresponda.
+
+Por cada concepto no presupuestario figurado en la parte inferior del KRPG de referencia, anotación en negativo en su columna de haber.
+
+En el supuesto de que en el documento KRPG de referencia se consignase el concepto no presupuestario 30210 “Reintegros de prestaciones pendientes de aplicación”, una vez realizadas las anotaciones anteriores, por el importe líquido del documento, anotación en positivo en el concepto no presupuestario 10210 “Deudores por prestaciones”.
+
+39.3.2 En la caja pagadora. Por el importe total íntegro del documento, anotación en negativo en la columna de debe del concepto 50410 “Pagos en ejecución de operaciones por cuenta de relaciones internas. Presupuesto de gastos. Ejercicio corriente”.
+
+Por la suma de los descuentos y conceptos no presupuestarios, anotación en negativo en la columna de haber del concepto 51030 “Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas”.
+
+40\. FRPG.992, de formalización de reintegros del presupuesto de gastos por operaciones de pagos a justificar (minora autorizaciones de gasto, compromisos de gasto, reconocimientos de obligaciones, propuestas de pago, ordenaciones de pago y realizaciones de pago). Ejercicio corriente.
+
+Las anotaciones contables se realizan en los centros de gestión que expidieron las correspondientes propuestas de reintegros y en las cajas pagadoras.
+
+40.1 En el subsistema de contabilidad patrimonial.
+
+40.1.1 En el centro de gestión que expidió la propuesta de reintegro.
+
+Por el importe total íntegro del documento KRPG de referencia y de forma encadenada se realizan los siguientes asientos con signo negativo:
+
+a) Cargo, según proceda, a la subcuenta 40002 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Pagos ordenados», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40012 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Pagos ordenados», en el caso de operaciones correspondientes al capítulo 8 ó 40032 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Pagos ordenados», en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono a la subcuenta 5522 «Cuentas de enlace. Pagos realizados por cuenta de relaciones internas».
+
+b) Cargo, según proceda, a la subcuenta 40001 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Propuestas de pago», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40011 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Propuestas de pago», en el caso de operaciones correspondientes al capítulo 8 ó 40031 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Propuestas de pago», en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono, según proceda, a la subcuenta 40002 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Pagos ordenados», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40012 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Pagos ordenados», en el caso de operaciones correspondientes al capítulo 8 ó 40032 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Pagos ordenados», en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+c) Cargo a la subcuenta 40000 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40010 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Obligaciones reconocidas», en el caso de operaciones correspondientes al capítulo 8 ó 40030 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono a la subcuenta 40001 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Propuestas de pago», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40011 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Propuestas de pago», en el caso de operaciones correspondientes al capítulo 8 ó 40031 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Propuestas de pago», en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+d) Cargo a la subcuenta 5584 «Libramientos para pagos a justificar pendientes de pago, con abono, según proceda, a la subcuenta 40000 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40010 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Obligaciones reconocidas», en el caso de operaciones correspondientes al capítulo 8 ó 40030 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+e) Cargo a la cuenta 004 «Presupuesto de gastos: gastos autorizados», con abono a la cuenta 005 «Presupuesto de gastos: gastos comprometidos».
+
+f) Cargo a la cuenta 0030 «Presupuesto de gastos: créditos definitivos: Créditos disponibles», con abono a la cuenta 004 «Presupuesto de gastos: gastos autorizados».
+
+Con carácter simultáneo, por el importe total de los descuentos y conceptos no presupuestarios figurados en el documento KRPG de referencia, cargo en negativo a la subcuenta 5529 «Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas», con abono en negativo, por cada descuento, a las cuentas que en cada caso corresponda en función de las tablas de equivalencias descuentos/conceptos no presupuestarios y conceptos no presupuestarios/cuentas del plan, y con abono en negativo, por cada concepto no presupuestario figurado en la parte inferior del documento KRPG de referencia, a las cuentas que en cada caso corresponda en función de la tabla de equivalencias conceptos no presupuestarios/plan de cuentas.
+
+40.1.2 En la caja pagadora.
+
+Por el importe total íntegro del documento KRPG de referencia se realiza el siguiente asiento en negativo: cargo a la subcuenta 5523 «Cuentas de enlace. Pagos en ejecución de operaciones por cuenta de relaciones internas», con abono a la subcuenta 5529 «Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas».
+
+40.2 En el subsistema de presupuesto de gastos.
+
+En el centro que expidió la propuesta de reintegro y por los importes parciales que correspondan a cada epígrafe de aplicaciones presupuestarias expresados en el documento KRPG de referencia, anotación en negativo en las columnas de pagos realizados, pagos ordenados, propuestas de pago, obligaciones reconocidas, disposiciones o compromisos de gasto y autorizaciones de gasto.
+
+40.3 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+40.3.1 En el centro que expidió la propuesta de pago.
+
+Por el importe total íntegro del documento KRPG de referencia, anotación en negativo en la columna de haber del concepto 50310 «Pagos realizados. Presupuesto de gastos. Ejercicio corriente».
+
+Por el importe total de los descuentos y conceptos no presupuestarios figurados en el documento KRPG de referencia anotación en negativo en la columna de debe del concepto 51030 «Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas».
+
+Por cada descuento figurado en el KRPG de referencia, anotación en negativo en la columna de haber del concepto que corresponda.
+
+Por cada concepto no presupuestario figurado en la parte inferior del KRPG de referencia, anotación en negativo en su columna de haber.
+
+40.3.2 En la caja pagadora.
+
+Por el importe total íntegro del documento, anotación en negativo en la columna de debe del concepto 50410 «Pagos en ejecución de operaciones de las entidades gestoras y servicios comunes. Presupuesto de gastos. Ejercicio corriente».
+
+Por la suma de los descuentos y conceptos no presupuestarios, anotación en negativo en la columna de haber del concepto 51030 «Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas».
+
+41\. FRPG.995, de formalización de reintegros del presupuesto de gastos (minora reconocimientos de obligaciones, propuestas de pago, ordenaciones de pago y realizaciones de pago). Ejercicio corriente. Las anotaciones contables se realizan en los centros de gestión que expidieron las correspondientes propuestas de reintegros y en las cajas pagadoras.
+
+41.1 En el subsistema de contabilidad patrimonial.
+
+41.1.1 En el centro de gestión que expidió la propuesta de reintegro.
+
+Por el importe total íntegro del documento KRPG de referencia y de forma encadenada se realizan los siguientes asientos con signo negativo:
+
+a) Cargo, según proceda, a la subcuenta 40002 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40012 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Pagos ordenados”, en el caso de operaciones correspondientes al capítulo 8 o 40032 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono a la subcuenta 5522 “Cuentas de enlace. Pagos realizados por cuenta de relaciones internas”.
+
+b) Cargo, según proceda, a la subcuenta 40001 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40011 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Propuestas de pago”, en el caso de operaciones correspondientes al capítulo 8 o 40031 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono, según proceda, a la subcuenta 40002 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40012 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Pagos ordenados”, en el caso de operaciones correspondientes al capítulo 8 o 40032 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Pagos ordenados”, en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+c) Cargo a la subcuenta 40000 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40010 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Obligaciones reconocidas”, en el caso de operaciones correspondientes al capítulo 8 o 40030 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono a la subcuenta 40001 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40011 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Propuestas de pago”, en el caso de operaciones correspondientes al capítulo 8 o 40031 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Propuestas de pago”, en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+d) Cargo a las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/plan de contabilidad, teniendo en cuenta, en su caso el código complementario, con abono, según proceda, a la subcuenta 40000 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40010 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Obligaciones reconocidas”, en el caso de operaciones correspondientes al capítulo 8 o 40030 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Obligaciones reconocidas”, en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+Con carácter simultáneo, por el importe total de los descuentos y conceptos no presupuestarios figurados en el documento KRPG de referencia, cargo en negativo a la subcuenta 5529 “Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas”, con abono en negativo, por cada descuento, a las cuentas que en cada caso corresponda en función de las tablas de equivalencias descuentos/conceptos no presupuestarios y conceptos no presupuestarios/cuentas del plan, y con abono en negativo, por cada concepto no presupuestario figurado en la parte inferior del documento KRPG de referencia, a las cuentas que en cada caso corresponda en función de la tabla de equivalencias conceptos no presupuestarios/plan de cuentas.
+
+En el supuesto de que en el documento KRPG de referencia se consignase el concepto no presupuestario 30210 “Reintegros de prestaciones pendientes de aplicación”, una vez realizadas las anotaciones anteriores, por el importe líquido del documento, se producirá un cargo en positivo a las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/plan de contabilidad, teniendo en cuenta, en su caso el código complementario, con abono en positivo a la cuenta 448 “Deudores por prestaciones”.
+
+En el supuesto de que la operación contabilizada sea la formalización de un reintegro de gastos con referencia a un documento que realizó las anotaciones del devengo mensual, en el último asiento del mes a que corresponda el devengo del documento referenciado se producirá el asiento contrario del registro del devengo lo que anotará, por el importe total íntegro del documento, un cargo en negativo en las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/plan de contabilidad, teniendo en cuenta, en su caso el código complementario con abono en negativo a la cuenta 413 “Acreedores por operaciones devengadas”.
+
+Asimismo en la misma fecha en que se haya contabilizado la formalización de dicho reintegro se producirá el asiento contrario de la aplicación del devengo lo que anotará, por el importe total íntegro del documento, un cargo en positivo en las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/plan de contabilidad, teniendo en cuenta, en su caso el código complementario y un cargo en negativo en la cuenta 413 “Acreedores por operaciones devengadas”.
+
+En el supuesto de que la operación contabilizada sea la formalización de un reintegro de gastos sin referencia a documento alguno, en el último asiento del mes anterior al que se registre dicha formalización, se producirá, por el importe total íntegro del documento, un cargo en negativo en las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/plan de contabilidad, teniendo en cuenta, en su caso el código complementario, con abono en negativo a la cuenta 413 “Acreedores por operaciones devengadas”. En el supuesto de reintegros de pagos delegados de la prestación económica por incapacidad temporal, dicha anotación se producirá en el último asiento del tercer mes anterior al que se registre dicha formalización.
+
+Asimismo, en dicho supuesto, en la misma fecha en que se haya contabilizado la formalización de dicho reintegro, se producirá por el importe total íntegro del documento, un cargo en positivo en las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de gastos/plan de contabilidad, teniendo en cuenta, en su caso el código complementario y un cargo en negativo en la cuenta 413 “Acreedores por operaciones devengadas”.
+
+En el caso de formalizaciones de reintegros registradas en el mes de enero, no se realizarán las anotaciones indicadas en los dos párrafos anteriores. Si bien en el supuesto de reintegros de pagos delegados de la prestación económica por incapacidad temporal, las formalizaciones de reintegros registradas en el mes de enero, febrero y marzo, no se realizarán las anotaciones indicadas en los dos párrafos anteriores.
+
+41.1.2 En la caja pagadora.
+
+Por el importe total íntegro del documento KRPG de referencia se realiza el siguiente asiento en negativo: cargo a la subcuenta 5523 “Cuentas de enlace. Pagos en ejecución de operaciones por cuenta de relaciones internas”, con abono a la subcuenta 5529 “Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas”.
+
+41.2 En el subsistema de presupuesto de gastos.
+
+En el centro que expidió la propuesta de reintegro y por los importes parciales que correspondan a cada epígrafe de aplicaciones presupuestarias expresados en el documento KRPG de referencia, anotación en negativo en las columnas de pagos realizados, pagos ordenados, propuestas de pago y obligaciones reconocidas.
+
+En el centro que expidió la propuesta de reintegro, por el importe íntegro del documento, se producirá una disminución del saldo reintegrable con ocasión del registro de formalizaciones de reintegros al presupuesto de gastos de operaciones que se imputan al artículo 48 “Transferencias corrientes. A familias e instituciones sin fines de lucro” del presupuesto de gastos, sin que dicho saldo puede tener importe negativo.
+
+41.3 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+41.3.1 En el centro que expidió la propuesta de pago. Por el importe total íntegro del documento KRPG de referencia, anotación en negativo en la columna de haber del concepto 50310 “Pagos realizados. Presupuesto de gastos. Ejercicio corriente”.Por el importe total de los descuentos y conceptos no presupuestarios figurados en el documento KRPG de referencia anotación en negativo en la columna de debe del concepto 51030 “Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas”.
+
+Por cada descuento figurado en el KRPG de referencia, anotación en negativo en la columna de haber del concepto que corresponda.
+
+Por cada concepto no presupuestario figurado en la parte inferior del KRPG de referencia, anotación en negativo en su columna de haber.
+
+En el supuesto de que en el documento KRPG de referencia se consignase el concepto no presupuestario 30210 “Reintegros de prestaciones pendientes de aplicación”, una vez realizadas las anotaciones anteriores, por el importe líquido del documento, anotación en positivo en el concepto no presupuestario 10210 “Deudores por prestaciones”.
+
+41.3.2 En la caja pagadora. Por el importe total íntegro del documento, anotación en negativo en la columna de debe del concepto 50410 “Pagos en ejecución de operaciones por cuenta de relaciones internas. Presupuesto de gastos. Ejercicio corriente”.
+
+Por la suma de los descuentos y conceptos no presupuestarios, anotación en negativo en la columna de haber del concepto 51030 “Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas”.
+
+42\. FRPG.998, de formalización de reintegros del presupuesto de gastos por operaciones de pagos a justificar (minora reconocimientos de obligaciones, propuestas de pago, ordenaciones de pago y realizaciones de pago). Ejercicio corriente.
+
+Las anotaciones contables se realizan en los centros de gestión que expidieron las correspondientes propuestas de reintegros y en las cajas pagadoras.
+
+42.1 En el subsistema de contabilidad patrimonial.
+
+42.1.1 En el centro de gestión que expidió la propuesta de reintegro.
+
+Por el importe total íntegro del documento KRPG de referencia y de forma encadenada se realizan los siguientes asientos con signo negativo:
+
+a) Cargo, según proceda, a la subcuenta 40002 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Pagos ordenados», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40012 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Pagos ordenados», en el caso de operaciones correspondientes al capítulo 8 ó 40032 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Pagos ordenados», en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono a la subcuenta 5522 «Cuentas de enlace. Pagos realizados por cuenta de relaciones internas».
+
+b) Cargo, según proceda, a la subcuenta 40001 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Propuestas de pago», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40011 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Propuestas de pago», en el caso de operaciones correspondientes al capítulo 8 ó 40031 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Propuestas de pago», en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono, según proceda, a la subcuenta 40002 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Pagos ordenados», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40012 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Pagos ordenados», en el caso de operaciones correspondientes al capítulo 8 ó 40032 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Pagos ordenados», en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+c) Cargo a la subcuenta 40000 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40010 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Obligaciones reconocidas», en el caso de operaciones correspondientes al capítulo 8 ó 40030 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 6 y 9, con abono a la subcuenta 40001 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Propuestas de pago», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40011 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Propuestas de pago», en el caso de operaciones correspondientes al capítulo 8 ó 40031 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Propuestas de pago», en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+d) Cargo a la subcuenta 5584 «Libramientos para a justificar pendientes de pago», con abono, según proceda, a la subcuenta 40000 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Operaciones de gestión. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 1 a 4 y 7, 40010 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras cuentas a pagar. Obligaciones reconocidas», en el caso de operaciones correspondientes al capítulo 8 ó 40030 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente. Otras deudas. Obligaciones reconocidas», en el caso de operaciones correspondientes a los capítulos 6 y 9.
+
+Con carácter simultáneo, por el importe total de los descuentos y conceptos no presupuestarios figurados en el documento KRPG de referencia, cargo en negativo a la subcuenta 5529 «Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas», con abono en negativo, por cada descuento, a las cuentas que en cada caso corresponda en función de las tablas de equivalencias descuentos/conceptos no presupuestarios y conceptos no presupuestarios/cuentas del plan, y con abono en negativo, por cada concepto no presupuestario figurado en la parte inferior del documento KRPG de referencia, a las cuentas que en cada caso corresponda en función de la tabla de equivalencias conceptos no presupuestarios/plan de cuentas.
+
+42.1.2 En la caja pagadora.
+
+Por el importe total íntegro del documento KRPG de referencia se realiza el siguiente asiento en negativo: cargo a la subcuenta 5523 «Cuentas de enlace. Pagos en ejecución de operaciones en las entidades gestoras y servicios comunes por cuenta de relaciones internas», con abono a la subcuenta 5529 «Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas».
+
+42.2 En el subsistema del presupuesto de gastos.
+
+En el centro que expidió la propuesta de reintegro y por los importes parciales que correspondan a cada epígrafe de aplicaciones presupuestarias expresados en el documento KRPG de referencia, anotación en negativo en las columnas de pagos realizados, pagos ordenados, propuestas de pago y obligaciones reconocidas.
+
+42.3 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+42.3.1 En el centro que expidió la propuesta de pago.
+
+Por el importe total íntegro del documento KRPG de referencia, anotación en negativo en la columna de haber del concepto 50310 «Pagos realizados. Presupuesto de gastos. Ejercicio corriente».
+
+Por el importe total de los descuentos y conceptos no presupuestarios figurados en el documento KRPG de referencia anotación en negativo en la columna de debe del concepto 51030 «Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas».
+
+Por cada descuento figurado en el KRPG de referencia, anotación en negativo en la columna de haber del concepto que corresponda.
+
+Por cada concepto no presupuestario figurado en la parte inferior del KRPG de referencia, anotación en negativo en su columna de haber.
+
+42.3.2 En la caja pagadora.
+
+Por el importe total íntegro del documento, anotación en negativo en la columna de debe del concepto 50410 «Pagos en ejecución de operaciones por cuenta de relaciones internas. Presupuesto de gastos. Ejercicio corriente».
+
+Por la suma de los descuentos y conceptos no presupuestarios, anotación en negativo en la columna de haber del concepto 51030 «Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas».
+
+43\. APGAP y su inverso, de anexo de presupuesto de gastos. Aplicaciones presupuestarias (clasificación orgánica, por programas y económica).
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento, y serán las mismas que ocasionen los documentos de origen tanto en el subsistema de contabilidad patrimonial como en el de presupuesto de gastos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+44\. APGAP y su inverso, de anexo de presupuesto de gastos. Aplicaciones presupuestarias (clasificación por programas y económica).
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento, y serán las mismas que ocasionen los documentos de origen tanto en el subsistema de contabilidad patrimonial como en el de presupuesto de gastos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+45\. APGD y su inverso, de anexo de presupuesto de gastos. Descuentos.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento, y serán las mismas que ocasionen los documentos de origen tanto en el subsistema de contabilidad patrimonial como en el de operaciones no presupuestarias y de relaciones internas.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+46\. APGDC y su inverso, de anexo de presupuesto de gastos. Datos complementarios del documento ADOK.441 y su inverso, de autorizaciones y compromisos de gasto, reconocimientos de obligaciones y propuestas de pago por operaciones pendientes de aplicar a presupuesto en fin del ejercicio anterior.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento, y serán las mismas que ocasionen los documentos de origen ADOK.441 tanto en el subsistema de contabilidad patrimonial como en el de presupuesto de gastos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+> Se modifican los apartados 39.1 y 41.1, por el art. 2.4 de la Resolución de 19 de junio de 2025. [Ref. BOE-A-2025-13081](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13081)
+
+> Se modifican los apartados 38.2, 39.1 y 2, y 41.1 y 2, por el art. 1.2 de la Resolución de 27 de diciembre de 2023. [Ref. BOE-A-2024-1775](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1775)
+
+> Esta modificación tiene efectos a partir de comienzos del año 2024, según establece la disposición final única de la citada Resolución.
+
+> Se modifican los apartados 25, 26, 31, 32, 34, 37 y 38 por el art. único.siete de la Resolución de 23 de marzo de 2022. [Ref. BOE-A-2022-5460](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5460)
+
+> Se modifican los apartados 39 y 41 por el art. único.3 de la Resolución de 20 de diciembre de 2019. [Ref. BOE-A-2020-87](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-87)
+
+> Se modifica por el art. 1.13 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+### CAPÍTULO II — Presupuesto de ingresos
+
+##### Regla 41. Anotaciones contables.
+
+La contabilización de los documentos contables del presupuesto de ingresos, dará lugar a las siguientes anotaciones contables, según la clase de documento.
+
+1\. Soporte de los créditos iniciales de ejercicio corriente.
+
+Las anotaciones contables que se indican a continuación se producen en la Tesorería General de la Seguridad Social y en las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, bien en sus servicios centrales, bien en sus centros de gestión, según que el presupuesto aparezca distribuido o no.
+
+1.1 En el subsistema de contabilidad patrimonial.
+
+Por el total del presupuesto inicial, cargo a la cuenta 006 «Presupuesto de ingresos: previsiones iniciales», con abono a la cuenta 000 «Presupuesto ejercicio corriente» y, simultáneamente, cargo a la cuenta 008 «Presupuesto de ingresos: previsiones definitivas», con abono a la cuenta 006 «Presupuesto de ingresos: previsiones iniciales».
+
+1.2 En el subsistema de presupuesto de ingresos.
+
+Por los importes parciales que correspondan a cada epígrafe, anotación en las columnas de previsiones iniciales y previsiones definitivas de cada uno de ellos.
+
+2\. ACPI.050, de actualización de las previsiones de ingresos.
+
+Las anotaciones contables que se indican a continuación se producen en la Tesorería General de la Seguridad Social y en las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, bien en sus servicios centrales, bien en sus centros de gestión, según que el presupuesto aparezca distribuido o no.
+
+2.1 En el subsistema de contabilidad patrimonial.
+
+Por el total de la diferencia entre las previsiones anteriores y las actualizadas que corresponda a cada centro, cargo a la cuenta 007 «Presupuesto de ingresos: modificaciones de previsiones», con abono a la cuenta 000 «Presupuesto ejercicio corriente» y, simultáneamente, cargo a la cuenta 008 «Presupuesto de ingresos: previsiones definitivas», con abono a la cuenta 007 «Presupuesto de ingresos: modificaciones de previsiones».
+
+2.2 En el subsistema de presupuesto de ingresos.
+
+Por los importes parciales, determinados por la diferencia entre las previsiones anteriores y las actualizadas, que correspondan a cada epígrafe, anotación en las columnas de modificación de las previsiones y previsiones definitivas.
+
+3\. DR.100 y su inverso, de resumen contable de derechos reconocidos.
+
+Las anotaciones contables se realizan en el centro que expide el documento.
+
+3.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total del documento, cargo, según proceda, a la subcuenta 4300 «Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Operaciones de gestión» en el caso de operaciones correspondientes a los capítulos 1 a 5 y 7, 4301 «Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Otras cuentas a cobrar», en el caso de operaciones correspondientes al capítulo 9 ó 4303 «Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Otras inversiones financieras», en el caso de operaciones correspondientes a los capítulos 6 y 8, con abono, a las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de ingresos/plan de contabilidad, teniendo en cuenta en su caso el código complementario.
+
+3.2 En el subsistema de presupuesto de ingresos.
+
+Por los importes parciales que correspondan a cada epígrafe, anotación en la columna de derechos reconocidos de cada uno de ellos.
+
+3.3 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+4\. MDR.100 y su inverso, de resumen contable de modificación de derechos reconocidos en ejercicios anteriores. Ejercicios cerrados.
+
+Las anotaciones contables se realizan en el centro que expide el documento.
+
+4.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total del documento, cargo, según proceda, a la cuenta 4310 “Deudores por derechos reconocidos. Presupuestos de ingresos cerrados. Operaciones de gestión”, en el caso de operaciones correspondientes a los capítulos 1 a 5 y 7, 4311 “Deudores por derechos reconocidos. Presupuestos de ingresos cerrados. Otras cuentas a cobrar”, en el caso de operaciones correspondientes al capítulo 9 o 4313 “Deudores por derechos reconocidos. Presupuestos de ingresos cerrados. Otras inversiones financieras”, en el caso de operaciones correspondientes a los capítulos 6 y 8, con abono, a las cuentas que corresponda o la cuenta 120 “Resultados de ejercicios anteriores” cuando hubiese correspondido el grupo 7, determinadas en función de la tabla de equivalencias presupuesto de ingresos/plan de contabilidad, teniendo en cuenta en su caso el código complementario.
+
+4.2 En el subsistema de presupuesto de ingresos.
+
+Por los importes parciales que correspondan a cada epígrafe y año, anotación en la columna de modificación de los derechos a cobrar de cada uno de ellos.
+
+4.3 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+5\. DROC.150 y su inverso, de resumen contable de derechos reconocidos por órdenes de cobro.
+
+Las anotaciones contables se realizan en el centro que expide el documento y en los servicios centrales o los centros de gestión de la Tesorería General y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, según corresponda.
+
+5.1 En el subsistema de contabilidad patrimonial.
+
+5.1.1 En el centro que expide el documento.
+
+Por el importe total del documento, cargo a la subcuenta 5526 «Cuentas de enlace. Órdenes de cobro», con abono a las cuentas que figuran en el documento, por los importes parciales que correspondan.
+
+5.1.2 En los servicios centrales o en los centros de gestión de la Tesorería General y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+Por el importe total del documento, cargo, según proceda, a la subcuenta 4300 «Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Operaciones de gestión» en el caso de operaciones correspondientes a los capítulos 1 a 5 y 7, ó 4303 «Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Otras inversiones financieras», en el caso de operaciones correspondientes a los capítulos 6 y 8, con abono a la subcuenta 5526 «Cuentas de enlace. Órdenes de cobro».
+
+5.2 En el subsistema de presupuesto de ingresos.
+
+En los servicios centrales o los centros de gestión de la Tesorería General y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, por los importes parciales que correspondan a cada epígrafe, anotación en la columna de derechos reconocidos de cada uno de ellos.
+
+5.3 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+5.3.1 En el centro que expide el documento.
+
+Por el importe total del documento, anotación en la columna de debe del concepto 50710 «Órdenes de cobro remitidas a las Tesorerías. Órdenes de cobro a terceros».
+
+5.3.2 En los servicios centrales o en los centros de gestión de la Tesorería General y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+Por el importe total del documento, anotación en la columna de haber del concepto 50810 «Órdenes de cobro recibidas de los centros de gestión. Órdenes de cobro a terceros».
+
+5.4 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+6\. DRAF.170 y su inverso, de resumen contable de derechos reconocidos por aplazamiento y fraccionamiento.
+
+Las anotaciones contables se realizan en el centro que expide el documento.
+
+6.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total del documento, cargo a la subcuenta 4300 «Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Operaciones de gestión» con abono a la subcuenta 2521 «Deudores a largo plazo por aplazamiento y fraccionamiento» y a la cuenta 443 «Deudores a corto plazo por aplazamiento y fraccionamiento», por los importes parciales consignados en los conceptos no presupuestarios 10010 «Deudores a largo plazo por aplazamiento y fraccionamiento» y 10110 «Deudores a corto plazo por aplazamiento y fraccionamiento», respectivamente.
+
+6.2 En el subsistema de presupuesto de ingresos.
+
+Por los importes parciales que correspondan a cada epígrafe presupuestario, anotación en la columna de derechos reconocidos de cada uno de ellos.
+
+6.3 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+Por los importes parciales correspondientes, anotación en la columna de haber de los conceptos no presupuestarios 10110 «Deudores a corto plazo por aplazamiento y fraccionamiento» y 10010 «Deudores a largo plazo por aplazamiento y fraccionamiento».
+
+6.4 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+7\. DRPJ.190 y su inverso, de resumen contable de derechos por reintegros de pagos a justificar. Ejercicio corriente.
+
+Las anotaciones contables se realizan en el centro que expide el documento y en los servicios centrales o los centros de gestión de la Tesorería General de la Seguridad Social, según corresponda.
+
+7.1 En el subsistema de contabilidad patrimonial.
+
+7.1.1 En el centro que expide el documento.
+
+Por el importe total del documento, cargo a la subcuenta 5526 «Cuentas de enlace. Órdenes de cobro», con abono a la subcuenta 5584 «Libramientos para pagos a justificar pendientes de pago», por los importes parciales que correspondan.
+
+7.1.2 En los servicios centrales o en los centros de gestión de la Tesorería General de la Seguridad Social.
+
+Por el importe total del documento, cargo según proceda, a la subcuenta 4300 «Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Operaciones de gestión» en el caso de operaciones correspondientes a los capítulos 1 a 5 y 7, 4301 «Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Otras cuentas a cobrar», en el caso de operaciones correspondientes al capítulo 9 ó 4303 «Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Otras inversiones financieras», en el caso de operaciones correspondientes a los capítulos 6 y 8, con abono a la subcuenta 5526 «Cuentas de enlace. Órdenes de cobro».
+
+7.2 En el subsistema de presupuesto de ingresos.
+
+En los servicios centrales o los centros de gestión de la Tesorería General, por los importes parciales que correspondan a cada epígrafe, anotación en la columna de derechos reconocidos de cada uno de ellos.
+
+7.3 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+7.3.1 En el centro que expide el documento.
+
+Por el importe total del documento, anotación en la columna de debe del concepto 50710 «Órdenes de cobro remitidas a las Tesorerías. Órdenes de cobro a terceros».
+
+7.3.2 En los servicios centrales o en los centros de gestión de la Tesorería General.
+
+Por el importe total del documento, anotación en la columna de haber del concepto 50810 «Órdenes de cobro recibidas de los centros de gestión. Órdenes de cobro a terceros».
+
+7.4 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+8\. DA.200 y su inverso, de resumen contable de derechos anulados por anulación de liquidaciones.
+
+Las anotaciones contables se realizan en el centro que expide el documento.
+
+8.1 En el subsistema de contabilidad patrimonial.
+
+Por los importes parciales, cargo a las cuentas que corresponda determinadas en función de la tabla de equivalencias presupuesto de ingresos/plan de contabilidad, teniendo en cuenta en su caso el código complementario, con abono, por el importe total del documento a la subcuenta 4330 «Derechos anulados de presupuesto corriente: Por anulación de liquidaciones».
+
+En ejercicios cerrados, por los importes parciales, cargo a las cuentas que corresponda o a la cuenta 120 «Resultados de ejercicios anteriores» cuando hubiese correspondido el grupo 7, determinadas en función de la tabla de equivalencias presupuesto de ingresos/plan de contabilidad, teniendo en cuenta, en su caso el código complementario, con abono a la subcuenta 4340 «Derechos anulados de presupuestos cerrados: Por anulación de liquidaciones».
+
+8.2 En el subsistema de presupuesto de ingresos.
+
+Por los importes que corresponda a cada epígrafe presupuestario y año, anotación en la columna de derechos anulados por anulación de liquidaciones de cada uno de ellos.
+
+8.3 Documentos inversos.
+
+Los documentos inversos, que solo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+9\. DAOC.250 y su inverso, de resumen contable de derechos anulados relativos a órdenes de cobro.
+
+Las anotaciones contables se realizan en el centro que expide el documento y en los servicios centrales o los centros de gestión de la Tesorería General y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, según corresponda.
+
+9.1 En el subsistema de contabilidad patrimonial.
+
+9.1.1 En el centro que expide el documento.
+
+Cargo a las cuentas que figuran en el documento, por los importes parciales que correspondan, con abono, por el importe total del documento, a la subcuenta 5526 «Cuentas de enlace. Órdenes de cobro».
+
+9.1.2 En los servicios centrales o en los centros de gestión de la Tesorería General y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+Por el importe total del documento, cargo a la subcuenta 5526 «Cuentas de enlace. Órdenes de cobro», con abono a la subcuenta 4330 «Derechos anulados de presupuesto corriente: Por anulación de liquidaciones» o a la subcuenta 4340 «Derechos anulados de presupuestos cerrados: Por anulación de liquidaciones», según corresponda.
+
+9.2 En el subsistema de presupuesto de ingresos.
+
+En los servicios centrales o centros de gestión de la Tesorería General y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, por los importes parciales que correspondan a cada epígrafe y año, anotación en la columna de derechos anulados por anulación de liquidaciones de cada uno de ellos.
+
+9.3 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+9.3.1 En el centro que expide el documento.
+
+Por el importe total del documento, anotación en la columna de haber del concepto 50710 «Órdenes de cobro remitidas a las Tesorerías. Órdenes de cobro a terceros».
+
+9.3.2 En los servicios centrales o en los centros de gestión de la Tesorería General y mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+Por el importe total del documento, anotación en la columna de debe del concepto 50810 «Órdenes de cobro recibidas de los centros de gestión. Órdenes de cobro a terceros».
+
+9.4 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+10\. DAAF.270 y su inverso, de resumen contable de derechos anulados por aplazamiento y fraccionamiento.
+
+Las anotaciones contables se realizarán en el centro que expide el documento.
+
+10.1 En el subsistema de contabilidad patrimonial.
+
+Por los importes parciales consignados en los conceptos no presupuestarios 10010 «Deudores a largo plazo por aplazamientos y fraccionamientos» y 10110 «Deudores a corto plazo por aplazamientos y fraccionamientos», cargo a la subcuenta 2521 «Deudores a largo plazo por aplazamiento y fraccionamiento» y 443 «Deudores a corto plazo por aplazamiento y fraccionamiento», respectivamente, con abono a las subcuenta 4332 «Derechos anulados de presupuesto corriente: Por aplazamiento y fraccionamiento» y 4342 «Derechos anulados de presupuestos cerrados: Por aplazamiento y fraccionamiento», por las sumas correspondientes a los importes parciales de los epígrafes presupuestarios consignados correspondientes, respectivamente, al ejercicio corriente o a ejercicios cerrados.
+
+10.2 En el subsistema de presupuesto de ingresos.
+
+Por los importes parciales que correspondan a cada epígrafe presupuestario y año, anotación en la columna de derechos anulados por aplazamiento y fraccionamiento de cada uno de ellos.
+
+10.3 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+Por los importes parciales correspondientes, anotación en la columna de debe de los conceptos no presupuestarios 10010 «Deudores a largo plazo por aplazamientos y fraccionamientos» y 10110 «Deudores a corto plazo por aplazamientos y fraccionamientos».
+
+10.4 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+11\. FI.300 y su inverso, de resumen contable de formalización de ingresos realizados.
+
+Las anotaciones contables de estos documentos se encuadran dentro del capítulo tercero de este título de operaciones no presupuestarias.
+
+12\. ABPD.350 y su inverso, de resumen contable de adjudicación de bienes en pago de deudas.
+
+Las anotaciones contables se realizarán en el centro que expide el documento.
+
+12.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total del documento, cargo a la cuenta 385 «Otros activos en estado de venta» representativa del bien o bienes adjudicados o recibidos en la entidad como pago de deudas de terceros que figuran en el documento, con abono a la subcuenta 4380 «Derechos cancelados de presupuesto corriente. Por cobros en especie» o a la subcuenta 4390 «Derechos cancelados de presupuestos cerrados. Por cobros en especie», según corresponda.
+
+12.2 En el subsistema de presupuesto de ingresos.
+
+Por los importes parciales que corresponda a cada epígrafe y año, anotación en la columna de derechos cancelados por cobros en especie de cada uno de ellos.
+
+12.3 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+13\. BI.400 y su inverso, de resumen contable de bajas por insolvencia y otras causas.
+
+Las anotaciones contables se realizan en el centro que expide el documento.
+
+13.1 En el subsistema de contabilidad patrimonial.
+
+Cargo, según proceda, a la subcuenta 6670 «Pérdidas de créditos incobrables. Operaciones de gestión» en el caso de operaciones correspondientes a los capítulos 1 a 5 y 7, ó 6673 «Pérdidas de créditos incobrables. Otras inversiones financieras», en el caso de operaciones correspondientes a los capítulos 6 y 8, por los importes parciales que corresponda, con abono, por el importe de las anulaciones relativas al ejercicio corriente, a la subcuenta 4381 «Derechos cancelados de presupuesto corriente: Por insolvencias y otras causas» o, por el importe de las anulaciones relativas a ejercicios cerrados, a la subcuenta 4391 «Derechos cancelados de presupuestos cerrados: Por insolvencias y otras causas».
+
+13.2 En el subsistema de presupuesto de ingresos.
+
+Por los importes que correspondan a cada epígrafe presupuestario y año, anotación en la columna de insolvencias, de cada uno de ellos.
+
+13.3 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+14\. BP.410 y su inverso, de resumen contable de bajas por prescripción.
+
+Las anotaciones contables se realizan en el centro que expide el documento.
+
+14.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total del documento, cargo, según proceda, a la subcuenta 6670 «Pérdidas de créditos incobrables. Operaciones de gestión» en el caso de operaciones correspondientes a los capítulos 1 a 5 y 7, ó 6673 «Pérdidas de créditos incobrables. Otras inversiones financieras», en el caso de operaciones correspondientes a los capítulos 6 y 8, por los importes parciales que corresponda, con abono a la subcuenta 4392 «Derechos cancelados de presupuestos cerrados: Por prescripción».
+
+14.2 En el subsistema de presupuesto de ingresos.
+
+Por los importes que correspondan a cada epígrafe presupuestario y año, anotación en la columna de prescripción, de cada uno de ellos.
+
+14.3 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+15\. RADI.800 y su inverso, de reconocimiento de acreedores por devolución de ingresos derivada de la anulación de liquidaciones ingresadas.
+
+Las anotaciones contables se realizan en el centro que expide el documento.
+
+15.1 En el subsistema de contabilidad patrimonial.
+
+Por los importes que corresponda, cargo a las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de ingresos/plan de contabilidad, teniendo en cuenta el código complementario, con abono, por el importe total del documento, a la cuenta 418 «Acreedores por devolución de ingresos y otras minoraciones».
+
+15.2 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse si el pago material no se ha realizado, efectúan los mismos asientos, pero con signo negativo.
+
+16\. R.809, correspondientes a devoluciones de ingresos por anulación de liquidaciones ingresadas.
+
+16.1 En el subsistema de contabilidad patrimonial.
+
+Por el total del documento, cargo a la cuenta 418 «Acreedores por devolución de ingresos y otras minoraciones», con abono a las cuentas del subgrupo 57 que en cada caso correspondan, en función de la tabla relación cuentas bancarias/plan de contabilidad, y con abono a la subcuenta 5529 «Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas», por los descuentos que se practiquen en el momento del pago.
+
+Además, por el importe total del documento se efectúa un cargo a la cuenta 437 «Devolución de ingresos», con abono a la subcuenta 4339 «Derechos anulados de presupuesto corriente: Por devolución de ingresos».
+
+Finalmente, por los descuentos practicados se efectúa un cargo a la cuenta 5529 «Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas», con abono a las cuentas que correspondan en función de las tablas de equivalencias descuentos/conceptos no presupuestarios y conceptos no presupuestarios/cuentas del plan.
+
+16.2 En el subsistema de presupuesto de ingresos.
+
+Por los importes parciales que correspondan a cada epígrafe presupuestario, anotación en las columnas de devoluciones de ingresos de cada uno de ellos.
+
+16.3 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+Por los importes parciales de los descuentos practicados, anotación en la columna de haber de los conceptos no presupuestarios que correspondan, en función de la tabla de equivalencias conceptos no presupuestarios/plan de contabilidad.
+
+Por el importe total de los descuentos, anotación en las columnas de debe y haber del concepto 51030 «Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas».
+
+16.4 En el subsistema de cuentas bancarias.
+
+Por el líquido satisfecho por cada banco, anotación en el haber de la cuenta correspondiente.
+
+16.5 Imputación de las operaciones.
+
+Cualquiera que sea el ejercicio en que se practicó e ingresó la liquidación que se anula, la imputación de la devolución siempre se realizará al ejercicio corriente.
+
+17\. RADI.810 y su inverso, de reconocimiento de acreedores por devoluciones de ingresos derivadas de ingresos duplicados o excesivos.
+
+Las anotaciones contables se realizan en el centro que expide el documento.
+
+17.1 En el subsistema de contabilidad patrimonial.
+
+Por el importe total íntegro del documento, abono a la cuenta 418 “Acreedores por devolución de ingresos y otras minoraciones”, con abono negativo, según proceda, a la subcuenta 4300 “Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Operaciones de gestión” en el caso de operaciones correspondientes a los capítulos 1 a 5 y 7, 4301 “Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Otras cuentas a cobrar”, en el caso de operaciones correspondientes al capítulo 9 o 4303 “Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Otras inversiones financieras”, en el caso de operaciones correspondientes a los capítulos 6 y 8, o con abono negativo, según proceda, a la subcuenta 4310 “Deudores por derechos reconocidos. Presupuesto de ingresos cerrados. Operaciones de gestión” en el caso de operaciones correspondientes a los capítulos 1 a 5 y 7, 4311 “Deudores por derechos reconocidos. Presupuesto de ingresos cerrados. Otras cuentas a cobrar”, en el caso de operaciones correspondientes al capítulo 9 o 4313 “Deudores por derechos reconocidos. Presupuesto de ingresos cerrados. Otras inversiones financieras”, en el caso de operaciones correspondientes a los capítulos 6 y 8, según corresponda.
+
+17.2 En el subsistema de presupuesto de ingresos.
+
+Por los importes parciales que corresponden a cada epígrafe y año, anotación en negativo en la columna de recaudado de cada uno de ellos.
+
+17.3 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse si el pago material no se ha realizado, efectúan los mismos asientos, pero con signo positivo.
+
+18\. R.819, correspondientes a devoluciones de ingresos duplicados o excesivos.
+
+18.1 En el subsistema de contabilidad patrimonial.
+
+Por el total del documento, cargo a la cuenta 418 «Acreedores por devolución de ingresos y otras minoraciones», con abono a las cuentas del subgrupo 57 que en cada caso correspondan, por el líquido satisfecho, en función de la tabla de relación cuentas bancarias/plan de contabilidad, y con abono a la subcuenta 5529 «Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas», por los descuentos que se practiquen en el momento del pago.
+
+Por los descuentos practicados se efectúa un cargo en la cuenta 5529 «Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas», con abono a las cuentas que correspondan en función de las tablas de equivalencias descuentos/conceptos no presupuestarios y conceptos no presupuestarios/cuentas del plan.
+
+18.2 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+Por los importes parciales de los descuentos practicados, anotación en la columna de haber de los conceptos no presupuestarios que correspondan, en función de la tabla de equivalencias conceptos no presupuestarios/plan de contabilidad.
+
+Por el importe total de los descuentos, anotación en las columnas de debe y haber del concepto 51030 «Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas».
+
+18.3 En el subsistema de cuentas bancarias.
+
+Por el líquido satisfecho por cada banco, anotación en el haber de la cuenta correspondiente.
+
+19\. Anexo de los documentos anteriores y sus inversos (anexo general).
+
+Las anotaciones contables serán las mismas que ocasionen los documentos de origen en los subsistemas correspondientes.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+> Se modifican los apartados 4 y 17 por el art. único.ocho de la Resolución de 23 de marzo de 2022. [Ref. BOE-A-2022-5460](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5460)
+
+### CAPÍTULO III — Operaciones no presupuestarias
+
+##### Regla 42. Anotaciones contables.
+
+La contabilización de los documentos contables de operaciones no presupuestarias, dará lugar a las siguientes anotaciones contables, según la clase de documento.
+
+1\. FI.300 y su inverso, de resumen contable de formalización de ingresos realizados.
+
+Las anotaciones contables correspondientes al presupuesto de ingresos se realizan exclusivamente en los servicios centrales o centros de gestión de la Tesorería General y mutuas colaboradoras con la Seguridad Social. Las anotaciones contables correspondientes a operaciones no presupuestarias se realizan además en los centros de gestión de destino.
+
+1.1 En el subsistema de contabilidad patrimonial.
+
+1.1.1 En el centro que expide el documento.
+
+Con carácter previo, por los importes parciales figurados en el apartado FI.1 del documento, se realiza la contracción de los correspondientes derechos, con cargo, por el importe total del mismo, según proceda, a la subcuenta 4300 “Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Operaciones de gestión” en el caso de operaciones correspondientes a los capítulos 1 a 5 y 7, 4301 “Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Otras cuentas a cobrar”, en el caso de operaciones correspondientes al capítulo 9 o 4303 “Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Otras inversiones financieras”, en el caso de operaciones correspondientes a los capítulos 6 y 8, con abono, a las cuentas que corresponda, determinadas en función de la tabla de equivalencias presupuesto de ingresos/plan de contabilidad, teniendo en cuenta en su caso el código complementario.
+
+Simultáneamente, por los importes figurados en el apartado FI.4, cargo a las cuentas que corresponda, determinadas en función de la tabla de equivalencias conceptos no presupuestarios/plan de contabilidad, con abono, según proceda, a la subcuenta 4300 “Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Operaciones de gestión” en el caso de operaciones correspondientes a los capítulos 1 a 5 y 7, 4301 “Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Otras cuentas a cobrar”, en el caso de operaciones correspondientes al capítulo 9 o 4303 “Deudores por derechos reconocidos. Presupuesto de ingresos corriente. Otras inversiones financieras”, en el caso de operaciones correspondientes a los capítulos 6 y 8, por el importe total del apartado FI.1, más la suma de los importes parciales de los conceptos figurados en el apartado FI.2 que correspondan al ejercicio corriente; 4310 “Deudores por derechos reconocidos. Presupuesto de ingresos cerrados. Operaciones de gestión” en el caso de operaciones correspondientes a los capítulos 1 a 5 y 7, 4311 “Deudores por derechos reconocidos. Presupuesto de ingresos cerrados. Otras cuentas a cobrar”, en el caso de operaciones correspondientes al capítulo 9 o 4313 “Deudores por derechos reconocidos. Presupuesto de ingresos cerrados. Otras inversiones financieras”, en el caso de operaciones correspondientes a los capítulos 6 y 8, por la suma de los importes parciales de los conceptos figurados en el apartado FI.2 que correspondan a ejercicios cerrados, y la subcuenta 5529 “Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas”, por el total del apartado FI.3.
+
+También con carácter simultáneo, por los conceptos figurados en el apartado FI.3 que deban contabilizarse en el centro, cargo, por su suma, a la subcuenta 5529 “Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas”, con abono a las cuentas que correspondan, por sus importes parciales, determinadas en función de la tabla de equivalencias conceptos no presupuestarios/ plan de contabilidad.
+
+1.1.2 En los centros de gestión de destino de los conceptos no presupuestarios ingresados.
+
+Por los importes figurados en el apartado FI.3 que correspondan a cada centro, cargo, por su suma, a la subcuenta 5529 “Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas”, con abono a las cuentas que correspondan, por sus importes parciales, determinadas en función de la tabla de equivalencias conceptos no presupuestarios/ plan de contabilidad.
+
+1.2 En el subsistema de presupuesto de ingresos.
+
+En el centro que expide el documento, por los importes parciales figurados en el apartado FI.1, anotación en las columnas de derechos reconocidos y recaudados de los diferentes epígrafes. Por los importes parciales figurados en el apartado FI.2, anotación en la columna de recaudado de los diferentes epígrafes y año.
+
+1.3 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+1.3.1 En el centro que expide el documento.
+
+Por el importe total de los ingresos no presupuestarios realizados, cualquiera que sea el centro a que corresponda, anotación en el haber del concepto 51030 “Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas”.
+
+Por los importes parciales de los ingresos de esta naturaleza que deban contabilizarse en el centro, dentro de los figurados en el apartado FI.3, anotación en la columna de haber de cada epígrafe, y por la suma de todos ellos anotación en la columna de debe del concepto 51030 “Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas”.
+
+Por los importes parciales figurados en el apartado FI.4, anotación en la columna de debe de cada epígrafe consignado.
+
+1.3.2 En los centros de destino de los conceptos no presupuestarios ingresados.
+
+Por los importes parciales de los ingresos de esta naturaleza que deban contabilizarse en cada centro, dentro de los figurados en el apartado FI.3, anotación en la columna de haber de cada epígrafe, y por la suma de todos ellos anotación en la columna de debe del concepto 51030 “Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas”.
+
+1.4 Documentos inversos.
+
+Los documentos inversos, que solo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+2\. OEI.310 y su inverso, de resumen contable de ingresos en cuentas bancarias.
+
+Con carácter general, las anotaciones contables se realizan en el centro que expide el documento y, sólo en el caso de remesas de fondos procedentes de otro, se efectuarán también en el remitente.
+
+Cuando se trate de remesas de fondos entre cuentas bancarias del mismo centro, se realizarán en éste tanto los asientos indicados para el que expide el documento, como los señalados para el que envió la remesa.
+
+2.1 En el subsistema de contabilidad patrimonial.
+
+2.1.1 En el centro que expide el documento.
+
+Por los importes parciales que correspondan, cargo en las cuentas del subgrupo 57 que corresponda, determinadas en función de la tabla de relación cuentas bancarias/plan de contabilidad, con abono a la subcuenta 5540 «Cobros pendientes de aplicación. Ingresos materiales y virtuales pendientes de aplicación», por los recibidos de terceros y con abono a la subcuenta 5520 «Cuentas de enlace. Remesas recibidas», por las remesas de fondos procedentes de otro centro.
+
+2.1.2 En el centro que envió la remesa.
+
+Por el importe de la remesa recibida en el centro de destino, cargo a la subcuenta 5521 «Cuentas de enlace. Remesas remitidas», con abono a la subcuenta 5562 «Movimientos internos de tesorería. Remesas de efectivo en curso».
+
+2.2 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+2.2.1 En el centro que expide el documento.
+
+Anotación en la columna de haber de los conceptos 30110 «Cobros pendientes de aplicación. Ingresos materiales y virtuales pendientes de aplicación», por los ingresos realizados por terceros y anotación en la misma columna del concepto 50110 «Remesas recibidas. Remesas de efectivo», por los ingresos de esta naturaleza.
+
+2.2.2 En el centro que envió la remesa.
+
+Por el importe de las remesas recibidas en el centro de destino anotación en la columna de debe del concepto 50210 «Remesas remitidas. Remesas de efectivo» y anotación en la columna de haber del concepto 40195 «Operaciones en curso. Remesas de efectivo en curso».
+
+2.3 En el subsistema de cuentas bancarias.
+
+En el centro que ha recibido todos los ingresos, anotación en la columna de debe de las cuentas bancarias que corresponda, por sus importes parciales.
+
+2.4 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+3\. OEIC.330, de resumen contable de formalización de ingresos centralizados.
+
+Las anotaciones contables se realizan en los servicios centrales de la Tesorería General de la Seguridad Social y de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social y en los centros de gestión de la Tesorería General de la Seguridad Social y en los centros gestores de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+3.1 En el subsistema de contabilidad patrimonial.
+
+3.1.1 En los servicios centrales de la Tesorería General de la Seguridad Social y de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+Por los importes parciales que corresponda, cargo a las subcuentas 5540 «Cobros pendientes de aplicación. Ingresos materiales y virtuales pendientes de aplicación», y 5541 «Cobros pendientes de aplicación. Recaudación líquida pendiente de tratamiento», con abono por el importe total a la subcuenta 5524 «Cuentas de enlace. Centros gestores. Presupuesto de Ingresos. Ingresos centralizados».
+
+3.1.2 En los centros de gestión de la Tesorería General de la Seguridad Social y en los centros gestores de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+Por el importe total del documento, cargo a la subcuenta 5525 «Cuentas de enlace. Tesorería General y MATEPSS. Ingresos centralizados», con abono a la subcuenta 5541 «Cobros pendientes de aplicación. Recaudación líquida pendiente de tratamiento».
+
+3.2 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+3.2.1 En los servicios centrales de la Tesorería General de la Seguridad Social y de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+Por los importes parciales figurados como cargos en la Tesorería General o mutua, anotación en la columna de debe de los conceptos respectivos.
+
+Por el importe total del documento, anotación en la columna de haber del concepto 50510 «Centros gestores Presupuesto de ingresos. Ingresos centralizados. Recaudación general de cuotas».
+
+3.2.2 En los centros de gestión de la Tesorería General de la Seguridad Social o centros gestores de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+Por el importe total del documento, anotación en la columna de debe del concepto 50610 «Tesorería General y MATEPSS. Ingresos centralizados. Recaudación general de cuotas».
+
+Por los importes parciales figurados como abonos en el centro gestor correspondiente, anotación en la columna de haber de los conceptos respectivos.
+
+3.3 Signo de las anotaciones.
+
+El signo de las diferentes anotaciones es el que se especifica en cada caso en el cuerpo central del documento.
+
+4\. OERC.335, de resumen contable de formalización de impagados y retrocesiones bancarias por operaciones centralizadas.
+
+Las anotaciones contables se realizan en los servicios centrales de la Tesorería General de la Seguridad Social y de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social y en los centros de gestión de la Tesorería General de la Seguridad Social y en los centros gestores de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+4.1 En el subsistema de contabilidad patrimonial.
+
+4.1.1 En los servicios centrales de la Tesorería General y de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+Por el importe total del documento, cargo a la subcuenta 5540 «Cobros pendientes de aplicación: Ingresos materiales y virtuales pendientes de aplicación», con abono a la subcuenta 5524 «Cuentas de enlace. Centros gestores. Presupuesto de ingresos. Ingresos centralizados».
+
+4.1.2 En los centros de gestión de la Tesorería General y centros gestores de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+Por el importe total del documento, cargo a la subcuenta 5525 «Cuentas de enlace. Tesorería General y MATEPSS. Ingresos centralizados», con abono a la subcuenta 5542 «Cobros pendientes de aplicación: Impagados y retrocesiones materiales y virtuales pendientes de atribución a los centros de gestión».
+
+4.2 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+4.2.1 En los servicios centrales de la Tesorería General y de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+Por el importe total del documento, anotación en la columna de debe del concepto 30110 «Cobros pendientes de aplicación. Ingresos materiales y virtuales pendientes de aplicación» y anotación en la columna de haber del concepto 50520 «Centros gestores Presupuesto de ingresos. Ingresos centralizados. Impagados y retrocesiones bancarias de pagos centralizados».
+
+4.2.2 En los centros de gestión de la Tesorería General y centros gestores de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+Por los importes parciales figurados que correspondan a cada centro gestor, anotación en la columna de debe del concepto 50620 «Tesorería General y MATEPSS. Ingresos centralizados. Impagados y retrocesiones bancarias de pagos centralizados» y anotación en la columna de haber del concepto 30150 «Cobros pendientes de aplicación. Impagados y retrocesiones de pagos centralizados pendientes de atribución a los centros de gestión».
+
+4.3 Signo de las anotaciones.
+
+El signo de las diferentes anotaciones es el que se especifica en cada caso en el cuerpo central del documento.
+
+5\. OEFM.390 y su inverso, de resumen contable de movimientos del fondo de maniobra.
+
+Las anotaciones se realizan en el centro de gestión que expide el documento.
+
+5.1 En el subsistema de contabilidad patrimonial.
+
+5.1.1 Apartado ingresos.
+
+Por los importes parciales que correspondan, cargo a la subcuenta 5700 «Caja. Fondo de maniobra» y/ó 5750 «Bancos e instituciones de crédito. Cuentas restringidas de pagos: Del fondo de maniobra», con abono, por su suma en su caso, a la subcuenta 5582 «Operaciones con cargo al fondo de maniobra pendientes de justificación».
+
+5.1.2 Apartado pagos.
+
+Por la suma, en su caso, de los importes parciales que correspondan, cargo a la subcuenta 5582 «Operaciones con cargo al fondo de maniobra pendientes de justificación», con abono, por los importes parciales que procedan, a las subcuentas 5700 «Caja. Fondo de maniobra» y/ó 5750 «Bancos e instituciones de crédito. Cuentas restringidas de pagos: Del fondo de maniobra».
+
+5.1.3 Apartado traspaso de fondos.
+
+En el supuesto de traspaso de fondos desde la cuenta bancaria a la caja, por el importe que se traspasa, cargo a la subcuenta 5700 «Caja. Fondo de maniobra», con abono a la subcuenta 5750 «Bancos e instituciones de crédito. Cuentas restringidas de pagos: Del fondo de maniobra» o a la inversa, en el caso contrario.
+
+5.2 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+5.2.1 Apartado ingresos.
+
+Por el importe total de los ingresos, anotación en la columna de haber del concepto no presupuestario 40210 «Operaciones con cargo al fondo de maniobra pendientes de justificación».
+
+5.2.2 Apartado pagos.
+
+Por el importe total de los pagos, anotación en la columna de debe del concepto no presupuestario 40210 «Operaciones con cargo al fondo de maniobra pendientes de justificación».
+
+5.3 En el subsistema de cuentas bancarias.
+
+5.3.1 Apartado ingresos.
+
+Por los importes parciales que correspondan, anotación en la columna de debe en las cuentas de caja y banco donde están situados los fondos.
+
+5.3.2 Apartado pagos.
+
+Por la suma de los importes parciales que correspondan, anotación en la columna de haber en las cuentas de caja y banco donde están situados los fondos.
+
+5.3.3 Apartado traspaso de fondos.
+
+Por el importe que se traspasa, anotación en la columna de debe en la cuenta de caja y en la columna de haber de la cuenta del banco donde están situados los fondos o inversa, según el sentido del traspaso.
+
+5.4 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+En el supuesto de que el documento contable incorpore facturas, se producirán las anotaciones en el Registro contable de facturas que establece la normativa sobre el mismo.
+
+6\. OEK.700 y su inverso, de propuestas de pago por operaciones no presupuestarias.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden los documentos.
+
+6.1 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+Anotación en la columna de propuestas de pago expedidas, en cada uno de los conceptos que figuran en la parte central del documento, por sus correspondientes importes parciales.
+
+6.2 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse si aún no se ha ordenado el pago, efectúan los mismos asientos, pero con signo negativo.
+
+6.3 En el subsistema de contabilidad auxiliar del fondo de maniobra.
+
+En el libro auxiliar de pagos por fondo de maniobra. Por los importes que figuren en los campos de íntegro, descuentos y líquido del documento, anotación en las siguientes columnas: total íntegro, descuentos e importe líquido, del apartado «Operaciones de justificación del pago».
+
+En los libros auxiliares de operaciones pendientes de formalizar. Por los importes parciales que correspondan a cada epígrafe de los expresados en el documento, anotación en la columna de importe justificado del libro auxiliar de operaciones no presupuestarias pendientes de formalizar. Cuando el documento contenga descuentos, por los importes parciales que correspondan a cada uno de ellos, anotación en la columna de descuentos justificados del libro auxiliar de descuentos pendientes de formalizar.
+
+A estos efectos, los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+7\. OEP.800 y su inverso, de ordenación de pago por operaciones no presupuestarias.
+
+Las anotaciones contables se realizan en el centro que expidió la propuesta de pago.
+
+7.1 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+Anotación en la columna de pagos ordenados, en cada uno de los conceptos que figuran en la parte central del documento, por sus correspondientes importes parciales.
+
+7.2 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse si aún no se ha ordenado el pago, efectúan los mismos asientos, pero con signo negativo.
+
+8\. R.809, de realización de pago de operaciones no presupuestarias.
+
+Las anotaciones contables se realizan en los centros de gestión que expidieron las correspondientes propuestas de pago y en las cajas pagadoras.
+
+8.1 En el subsistema de contabilidad patrimonial.
+
+8.1.1 En el centro que expidió la propuesta de pago.
+
+Por los importes parciales que correspondan a los distintos conceptos no presupuestarios, cargo a las cuentas que correspondan en función de la tabla de equivalencias operaciones no presupuestarias/plan de contabilidad, con abono, por el importe íntegro del documento, a la subcuenta 5522 «Cuentas de enlace. Pagos realizados por cuenta de relaciones internas».
+
+Con carácter simultáneo, por el importe total de los descuentos practicados en el momento de materializarse el pago, que deban recogerse en el centro de gestión, cargo a la subcuenta 5529 «Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas», con abono a las cuentas que en cada caso corresponda en función de las tablas de equivalencia descuentos/ conceptos no presupuestarios y conceptos no presupuestarios/ cuentas del plan.
+
+8.1.2 En la caja pagadora.
+
+Con carácter simultáneo, se efectúa un cargo a la subcuenta 5523 «Cuentas de enlace. Pagos en ejecución de operaciones por cuenta de relaciones internas», con abono a las cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes» que corresponda, determinadas por la tabla de relación cuentas bancarias/cuentas del plan, por el importe líquido del documento, y con abono a la subcuenta 5529 «Cuentas de enlace: Formalización de ingresos por cuenta de relaciones internas», por todos los descuentos practicados.
+
+También con carácter simultáneo, por los descuentos practicados que deban recogerse en la caja pagadora, se efectúa un cargo a la subcuenta 5529 «Cuentas de enlace. Formalización de ingresos por cuenta de relaciones internas», con abono a las cuentas que en cada caso corresponda en función de las tablas de equivalencias descuentos/conceptos no presupuestarios y conceptos no presupuestarios/cuentas del plan.
+
+8.2 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+8.2.1 En el centro que expidió la propuesta de pago.
+
+Por los importes parciales de los conceptos no presupuestarios objeto del pago, anotación en las columnas de pagos realizados y debe de cada uno de ellos.
+
+Por el importe total íntegro de los pagos realizados, anotación en la columna de haber del concepto 50330 «Pagos realizados. Operaciones no presupuestarias».
+
+Por el importe total de los descuentos practicados que deban recogerse en el centro de gestión, anotación en la columna de debe del concepto 51030 «Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas».
+
+Por los importes parciales de cada uno de los descuentos practicados al materializarse el pago, que deban recogerse en el centro de gestión, anotación en la columna de haber del concepto que corresponda en función de la tabla de equivalencias descuentos/conceptos no presupuestario.
+
+8.2.2 En la caja pagadora.
+
+Por el importe total íntegro de los pagos realizados, anotación en la columna de debe del concepto 50430 «Pagos en ejecución de operaciones por cuenta de relaciones internas. Operaciones no presupuestarias».
+
+Por el importe total de los descuentos practicados, con independencia del centro en que deban recogerse, anotación en la columna de haber del concepto 51030 «Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas».
+
+Por el importe total de los descuentos practicados que deban recogerse en la caja pagadora, anotación en la columna de debe del concepto 51030 «Otros movimientos internos. Formalización de ingresos por cuenta de relaciones internas».
+
+Por los importes parciales de cada uno de los descuentos practicados al materializarse el pago, que deban recogerse en la caja pagadora, anotación en la columna de haber del concepto que corresponda en función de la tabla de equivalencias descuentos/conceptos no presupuestarios.
+
+8.3 En el subsistema de cuentas bancarias.
+
+En la caja pagadora, por los importes parciales de las cantidades líquidas que correspondan a las diferentes cuentas bancarias, anotación en la columna de haber de cada una de ellas.
+
+9\. OETC.850 y su inverso, de traspaso de conceptos no presupuestarios entre centros.
+
+Las anotaciones contables se realizan en el centro que expide el documento y en el centro al cual se traspasan los conceptos no presupuestarios.
+
+9.1 En el subsistema de contabilidad patrimonial.
+
+9.1.1 En el centro que expide el documento.
+
+Cargo en las cuentas correspondientes a los conceptos que se traspasan, determinadas en función de la tabla de equivalencias operaciones no presupuestarias/plan de contabilidad, por sus importes parciales, con abono, por su suma, a la subcuenta 5528 «Cuentas de enlace: Traspaso de conceptos no presupuestarios», o inversa, según se trate de partidas acreedoras o deudoras, respectivamente.
+
+9.1.2 En el centro receptor.
+
+Cargo a la subcuenta 5528 «Cuentas de enlace. Traspaso de conceptos no presupuestarios», por la suma de los importes parciales que recibe, con abono de cada uno de ellos a las cuentas correspondientes a los conceptos que se traspasan, determinadas en función de la tabla de equivalencias operaciones no presupuestarias/plan de contabilidad, o inversa, según se trate de partidas acreedoras o deudoras, respectivamente.
+
+9.2 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+9.2.1 En el centro que expide el documento.
+
+Anotación en la columna de debe de los conceptos que se traspasan, por sus respectivos importes, y en la columna de haber del concepto 51020 «Otros movimientos internos. Traspaso de conceptos no presupuestarios» por el importe total o inversa, según se trate de partidas acreedoras o deudoras, respectivamente.
+
+9.2.2 En el centro receptor.
+
+Anotación en la columna de haber de los conceptos que se traspasan, por sus respectivos importes, y en la columna de debe del concepto 51020 «Otros movimientos internos. Traspaso de conceptos no presupuestarios» por el importe total, o inversa, según se trate de partidas acreedoras o deudoras, respectivamente.
+
+9.3 Documentos inversos.
+
+Los documentos inversos, que solo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+10\. OEAD.900, de soporte de asientos directos para operaciones no presupuestarias.
+
+Las anotaciones contables se realizan en el centro que expide el documento.
+
+10.1 En el subsistema de contabilidad patrimonial. Cargo a las cuentas de relación de los conceptos que se identifican con la letra “D”, con abono a las cuentas de relación de los conceptos que se identifican con la letra “H”. Todo ello por los importes parciales correspondientes.
+
+Cargo o abono, según su identificativo “D” o “H” a la cuenta o cuentas que figuran en la parte inferior del cuerpo central del documento.
+
+10.2 En el subsistema de operaciones no presupuestarias y de relaciones internas. Por los importes parciales que correspondan, cargo en los conceptos que se identifican con la letra “D” y abono en los conceptos que se identifican con la letra “H”.
+
+11\. Anexo de los documentos anteriores y sus inversos (anexo general).
+
+Las anotaciones contables serán las mismas que ocasionen los documentos de origen en los subsistemas correspondientes.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+> Se modifica el apartado 1 por el art. único.nueve de la Resolución de 23 de marzo de 2022. [Ref. BOE-A-2022-5460](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5460)
+
+> Se modifica el apartado 10 por el art. único.4 de la Resolución de 20 de diciembre de 2019. [Ref. BOE-A-2020-87](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-87)
+
+### CAPÍTULO IV — Contabilidad patrimonial
+
+##### Regla 43. Anotaciones contables.
+
+La contabilización de los documentos de contabilidad patrimonial, dará lugar a las siguientes anotaciones contables, según la clase de documento.
+
+1\. CPAD.900, de soporte de asientos directos.
+
+Las anotaciones contables derivadas de estos documentos se realizan en el subsistema de contabilidad patrimonial, en el centro que expide el documento, cargando a las cuentas que se identifican con la letra «D», por sus importes parciales, con abono a las cuentas identificadas con la letra «H», también por los importes parciales que correspondan, teniendo en cuenta en ambos casos el signo de la anotación.
+
+2\. CPTC.910 y su inverso, de soporte para traspasos de cuentas entre centros.
+
+Las anotaciones contables se realizan en el centro que expide el documento y en el centro al cual se traspasan las cuentas.
+
+2.1 En el subsistema de contabilidad patrimonial.
+
+2.1.1 En el centro que expide el documento.
+
+Cargo, por la suma que resulte, a la subcuenta 5527 «Cuentas de enlace. Traspaso de cuentas entre centros», con abono, por los importes parciales que corresponda, a las cuentas que se indican en el documento o inversa, según se trate de identificativos «H» o «D».
+
+2.1.2 En el centro receptor.
+
+Cargo, por los importes parciales que corresponda, a las cuentas que se indican el documento, con abono, por su suma, a la subcuenta 5527 «Cuentas de enlace. Traspaso de cuentas entre centros», o inversa, según se trate de identificativos «H» o «D», a efectos del centro emisor.
+
+2.2 En el subsistema de operaciones no presupuestarias y relaciones internas.
+
+2.2.1 En el centro que expide el documento.
+
+Por la suma de los importes parciales de las cuentas identificadas con la letra «H», anotación en el debe del concepto 51010 «Otros movimientos internos. Traspasos de cuentas entre centros», y por la suma de los importes parciales de las cuentas identificadas con la letra «D», anotación en el haber de este mismo concepto.
+
+2.2.2 En el centro receptor.
+
+Por la suma de los importes parciales de las cuentas identificadas con la letra «H» a efectos del centro emisor, anotación en el haber del concepto 51010 «Otros movimientos internos. Traspasos de cuentas entre centros», y por la suma de los importes parciales de las cuentas identificadas con la letra «D», a efectos del centro emisor, anotación en el debe de este mismo concepto.
+
+2.3 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse en el mismo ejercicio que el documento inicial, realizan los mismos asientos, pero con signo negativo.
+
+3\. CPMF.920, de soporte de movilizaciones de fondos entre cuentas bancarias.
+
+Las anotaciones contables se realizan en el centro que expide el documento y en el centro o centros a los que se traspasan los fondos, que puede ser el mismo que lo expide.
+
+3.1 En el subsistema de contabilidad patrimonial.
+
+3.1.1 En el centro que expide el documento (centro que remite la remesa).
+
+Por el importe de la remesa remitida, cargo en la subcuenta 5521 “Cuentas de enlace. Remesas remitidas”, con abono a las cuentas del subgrupo 57 que corresponda, determinadas en función de la tabla de relación cuentas bancarias/plan de contabilidad.
+
+3.1.2 En el centro que recibe la remesa.
+
+Por el importe que corresponda, cargo en las cuentas del subgrupo 57 que corresponda, determinadas en función de la tabla de relación cuentas bancarias/plan de contabilidad, con abono a la subcuenta 5520 “Cuentas de enlace. Remesas recibidas”, por las remesas de fondos recibidas procedentes de otro centro o del mismo centro.
+
+3.2 En el subsistema de operaciones no presupuestarias y de relaciones internas.
+
+3.2.1 En el centro que expide el documento (centro que remite la remesa).
+
+Por el importe de las remesas remitidas, anotación en la columna de debe del concepto 50210 “Remesas remitidas”.
+
+3.2.2 En el centro que recibe la remesa.
+
+Por el importe de las remesas recibidas, anotación en el haber del concepto 50110 “Remesas recibidas”.
+
+4\. JPJ.930 y su inverso, de justificación de operaciones de pagos a justificar.
+
+Las anotaciones contables se realizan en el centro que expide el documento.
+
+4.1 En el subsistema de contabilidad patrimonial.
+
+Cargo a las cuentas que corresponda, determinadas en función de la tabla de equivalencias del presupuesto de gastos con contabilidad general, teniendo en cuenta en su caso el código complementario, con abono a la subcuenta 5580 “Provisiones de fondos para pagos a justificar pendientes de justificación” por el importe líquido, y a la subcuenta 5584 “Libramientos para pagos a justificar pendientes de pago”, por el importe de los descuentos practicados.
+
+4.2 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+En el supuesto de que el documento contable incorpore facturas, se producirán las anotaciones en el Registro contable de facturas que establece la normativa sobre el mismo.
+
+5\. JPJ.940 y su inverso, de ajuste de cuentas de imputación al cierre del ejercicio de pagos a justificar.
+
+Las anotaciones contables se realizan en el centro que expide el documento.
+
+5.1 En el subsistema de contabilidad patrimonial.
+
+Cargo a las cuentas que corresponda, determinadas en función de la tabla de equivalencias del presupuesto de gastos con contabilidad general, teniendo en cuenta en su caso el código complementario, con abono a la subcuenta 5586 “Gastos realizados con provisiones de fondos para pagos a justificar pendientes de justificación” por el importe líquido, y a la subcuenta 5584 “Libramientos para pagos a justificar pendientes de pago” por el importe de los descuentos practicados.
+
+5.2 Documentos inversos.
+
+Los documentos inversos, que sólo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+En el supuesto de que el documento contable incorpore facturas, se producirán las anotaciones en el Registro contable de facturas que establece la normativa sobre el mismo.
+
+6\. RPJ.950 y su inverso, de resumen contable de operaciones de pagos a justificar.
+
+Las anotaciones se realizan en el centro de gestión que expide el documento.
+
+6.1 En el subsistema de contabilidad patrimonial.
+
+6.1.1 Apartado ingresos por libramientos
+
+Por el importe que corresponda, cargo a la subcuenta 5752 «Bancos e instituciones de crédito. Cuenta restringida de pagos. Pagos a justificar», con abono a la subcuenta 5584 «Libramientos para pagos a justificar pendientes de pago».
+
+6.1.2 Apartado otros ingresos.
+
+Por el importe que corresponda, cargo a la subcuenta 5752 “Bancos e instituciones de crédito. Cuenta restringida de pagos. Pagos a justificar” o 5702 “Caja. Pagos a justificar”, con abono a la subcuenta 5580 “Provisiones de fondos para pagos a justificar pendientes de justificación”.
+
+6.1.3 Apartado pagos.
+
+Por el importe que corresponda, cargo a la subcuenta 5580 “Provisiones de fondos para pagos a justificar pendientes de justificación”, con abono a las subcuentas 5702 “Caja. Pagos a justificar” y/o 5752 “Bancos e instituciones de crédito. Cuentas restringidas de pagos. Pagos a justificar”.
+
+6.1.4 Apartado traspaso de fondos.
+
+Por el importe que se traspasa, se efectuará un cargo a la subcuenta 5702 «Caja. Pagos a justificar», con abono a la subcuenta 5752 «Bancos e instituciones de crédito. Cuentas restringidas de pagos. Pagos a justificar», o a la inversa, según el sentido del traspaso.
+
+6.1.5 Apartado reintegro de fondos.
+
+Por el importe que se reintegre a la cuenta de recursos diversos de la Tesorería General de la Seguridad Social, se efectuará un cargo a la subcuenta 5584 «Libramientos para pagos a justificar pendientes de pago», con abono a la subcuenta 5752 «Bancos e instituciones de crédito. Cuenta restringida de pagos. Pagos a justificar».
+
+6.2 En el subsistema de cuentas bancarias.
+
+6.2.1 Apartado ingresos por libramientos y otros ingresos.
+
+Por el importe que corresponda, anotación en la columna de debe en las cuentas de caja y banco donde están situados los fondos.
+
+6.2.2 Apartado pagos.
+
+Por el que corresponda, anotación en la columna de haber en las cuentas de caja y banco donde están situados los fondos.
+
+6.2.3 Apartado traspaso de fondos.
+
+Por el importe que se traspasa, anotación en la columna de debe en la cuenta de caja y en la columna de haber de la cuenta del banco donde están situados los fondos o viceversa, según el sentido del traspaso.
+
+6.2.4 Apartado reintegro de fondos.
+
+Por el importe reintegrado, anotación en la columna de haber en la cuenta del banco donde están situados los fondos.
+
+6.3 Documentos inversos.
+
+Los documentos inversos, que solo podrán expedirse en el mismo ejercicio que el documento ordinario, darán lugar a los mismos asientos, pero con signo negativo.
+
+7\. Anexo de los documentos anteriores y sus inversos (anexo general).
+
+Las anotaciones contables serán las mismas que ocasionen los documentos de origen en los subsistemas correspondientes.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+8\. APJF, anexo de documentos de pagos a justificar para el registro contable de facturas.
+
+Las anotaciones contables serán las mismas que ocasionen los documentos de origen en los subsistemas correspondientes.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+9\. ACPMF, anexo de movilizaciones de fondos entre cuentas bancarias.
+
+Las anotaciones contables serán las mismas que ocasionen los documentos de origen en los subsistemas correspondientes.
+
+> Se renumeran los apartados 3 a 6 como 4 a 7 y se añaden los apartados 3, 8 y 9 por el art. único.9 de la Resolución de 28 de abril de 2026. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+> Se modifican los apartados 3.1, 4.1, 5.1.2 y 5.1.3 por el art. 2.5 de la Resolución de 19 de junio de 2025. [Ref. BOE-A-2025-13081](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13081)
+
+### CAPÍTULO V — Contabilidad auxiliar del fondo de maniobra
+
+##### Regla 44. Anotaciones contables.
+
+La contabilización de los documentos de contabilidad auxiliar del fondo de maniobra, dará lugar a las siguientes anotaciones contables en el subsistema, según la clase de documento.
+
+1\. PFM.809 y su inverso, de pagos por el fondo de maniobra.
+
+En el libro auxiliar de pagos por fondo de maniobra: por los importes que figuren en los campos de íntegro, descuentos y líquido del documento, anotación en positivo en las siguientes columnas: operaciones presupuestarias o no presupuestarias, en función de la clase pago que recojan, total íntegro, descuentos, e importe líquido, del apartado «Operaciones que determinan el importe a justificar». En el caso de pagos por gastos compartidos, producirá además, una anotación en la columna de gastos compartidos.
+
+En los libros auxiliares de operaciones pendientes de formalizar: por los importes parciales que correspondan a cada epígrafe de los expresados en el documento, anotación en positivo, en la columna de importe a justificar del libro auxiliar de operaciones presupuestarias pendientes de formalizar o en la misma columna del libro auxiliar de operaciones presupuestarias pendientes de formalizar, según corresponda, en función del carácter presupuestario o no presupuestario de la operación. Cuando el documento contenga descuentos, por los importes parciales que correspondan a cada uno de ellos, anotación en la columna de descuentos a justificar del libro auxiliar de descuentos pendientes de formalizar.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+2\. PFMA.819 y su inverso, de pagos por el fondo de maniobra. Anticipos.
+
+En el libro auxiliar de pagos por fondo de maniobra: por el total que figure en el campo de importe del documento, anotación en positivo en las columnas de operaciones no presupuestarias, total íntegro e importe líquido del apartado «Operaciones que determinan el importe a justificar».
+
+En los libros auxiliares de operaciones pendientes de formalizar: por el total que figure en el campo de importe del documento, anotación en positivo en la columna de importe a justificar del libro auxiliar de operaciones no presupuestarias pendientes de formalizar.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+3\. PFML.839 y su inverso, de pagos por el fondo de maniobra. Liquidaciones.
+
+En el libro auxiliar de pagos por fondo de maniobra: por los importes que figuren en los campos de íntegro, descuentos y líquido del documento, anotación en positivo en las columnas de operaciones presupuestarias, total íntegro, descuentos e importe líquido, del apartado «Operaciones que determinan el importe a justificar». Por el importe que figure en el campo de aplicación del anticipo, anotación en negativo en las columnas de operaciones no presupuestarias, total íntegro e importe líquido del apartado «Operaciones que determinan el importe a justificar».
+
+En los libros auxiliares de operaciones pendientes de formalizar: por los importes parciales que correspondan a cada epígrafe de los expresados en el documento, anotación en positivo en la columna de importe a justificar del libro auxiliar de operaciones presupuestarias pendientes de formalizar. Por el importe que corresponda a los descuentos cuando figuren en el documento, anotación en positivo en la columna de descuentos a justificar del libro auxiliar de descuentos pendientes de formalizar. Por el importe que figure en el campo de aplicación del anticipo, anotación en negativo en la columna de importe a justificar del libro auxiliar de operaciones no presupuestarias pendientes de formalizar.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+4\. Documentos IPR.909 y su inverso, de ingresos por reintegro
+
+En el libro auxiliar de pagos por fondo de maniobra: por los importes que figuren en los campos de íntegro, descuentos y líquido del documento, anotación en negativo en las siguientes columnas: operaciones presupuestarias o no presupuestarias, en función de la clase de pago que recojan, total íntegro, descuentos e importe líquido, del apartado «Operaciones que determinan el importe a justificar».
+
+En los libros auxiliares de operaciones pendientes de formalizar: por los importes parciales que correspondan a cada epígrafe de los expresados en el documento, anotación en negativo, en la columna de importe a justificar del libro auxiliar de operaciones presupuestarias pendientes de formalizar o en la misma columna del libro auxiliar de operaciones no presupuestarias pendientes de formalizar, según corresponda, en función del carácter presupuestario o no presupuestario de la operación. Cuando el documento contenga descuentos, por los importes parciales que correspondan a cada uno de ellos, anotación en negativo en la columna de descuentos a justificar del libro auxiliar de descuentos pendientes de formalizar.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo positivo.
+
+5\. Documentos IGC.300 y su inverso, de ingresos por gastos compartidos.
+
+En el libro auxiliar de pagos por fondo de maniobra: por los importes que figuren en los campos de íntegro, descuentos y líquido del documento, anotación en negativo en las siguientes columnas: gastos compartidos, total íntegro, descuentos, cuando proceda, e importe líquido del apartado «Operaciones que determinan el importe a justificar».
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo positivo.
+
+6\. IPRA.919 y su inverso, de ingresos por reintegros en el fondo de maniobra. Anticipos.
+
+En el libro auxiliar de pagos por fondo de maniobra: por el total que figure en el campo de importe del documento, anotación en negativo en las columnas de operaciones no presupuestarias, total íntegro e importe líquido del apartado «Operaciones que determinan el importe a justificar».
+
+En los libros auxiliares de operaciones pendientes de formalizar: por el total que figure en el campo de importe del documento, anotación en negativo en la columna de importe a justificar del libro auxiliar de operaciones no presupuestarias pendientes de formalizar.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo positivo.
+
+7\. IPRL.939 y su inverso, de ingresos por reintegros en el fondo de maniobra. Liquidaciones.
+
+En el libro auxiliar de pagos por fondo de maniobra: por los importes que figuren en los campos de íntegro, descuentos y líquido del documento, anotación en negativo en las columnas de operaciones presupuestarias, total íntegro, descuentos e importe líquido, del apartado «Operaciones que determinan el importe a justificar».
+
+En los libros auxiliares de operaciones pendientes de formalizar: por los importes parciales que correspondan a cada epígrafe de los expresados en el documento, anotación en negativo en la columna de importe a justificar del libro auxiliar de operaciones presupuestarias pendientes de formalizar. Por el importe que corresponda a los descuentos cuando figuren en el documento, anotación en negativo en la columna de descuentos a justificar del libro auxiliar de descuentos pendientes de formalizar.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo positivo.
+
+8\. Anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Aplicaciones presupuestarias.
+
+Las anotaciones contables serán las mismas que ocasionen los documentos de origen en el subsistema de auxiliar del fondo de maniobra.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+9\. Anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Descuentos correspondientes a las operaciones presupuestarias.
+
+Las anotaciones contables serán las mismas que ocasionen los documentos de origen en el subsistema de auxiliar del fondo de maniobra
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+10\. Anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Operaciones no presupuestarias.
+
+Las anotaciones contables serán las mismas que ocasionen los documentos de origen en el subsistema de auxiliar del fondo de maniobra
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+11\. Anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Descuentos correspondientes a las operaciones no presupuestarias.
+
+Las anotaciones contables serán las mismas que ocasionen los documentos de origen en el subsistema de auxiliar del fondo de maniobra
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+12\. Anexo del subsistema de contabilidad auxiliar del fondo de maniobra y su inverso. Centros relacionados.
+
+Las anotaciones contables serán las mismas que ocasionen los documentos de origen en el subsistema de auxiliar del fondo de maniobra
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+### CAPÍTULO VI — Gastos plurianuales
+
+##### Regla 45. Anotaciones contables.
+
+La contabilización de los documentos de gastos plurianuales, dará lugar a las siguientes anotaciones contables, según la clase de documento.
+
+1\. MCEP.270, y su inverso, de modificaciones de crédito. Porcentajes y/o anualidades acordados por el Gobierno. Ejercicios Posteriores.
+
+Las anotaciones contables se realizan en el centro «Control de créditos plurianuales» una vez que el documento contable sea contabilizado en la oficina de contabilidad de las Intervenciones delegadas en los servicios centrales de las entidades.
+
+1.1 En el subsistema de gastos plurianuales.
+
+Por los importes parciales que corresponda a cada epígrafe de los expresados en la parte central del documento y para las diferentes anualidades, anotación en las columnas de modificaciones acordadas por el Gobierno: nuevas anualidades y/o aumentos o disminuciones de ejercicios posteriores, según lo que corresponda y en la columna de créditos definitivos de ejercicios posteriores del centro «Control de créditos plurianuales».
+
+1.2 Documentos inversos.
+
+Los documentos inversos realizarán las mismas anotaciones contables, pero con signo negativo.
+
+2\. MCEP.272, y su inverso, de modificaciones de crédito. Compromisos de gasto acordados por el Gobierno. Ejercicios posteriores.
+
+Las anotaciones contables se realizan en el centro «Control de créditos plurianuales» una vez que el documento contable sea contabilizado en la oficina de contabilidad de las Intervenciones delegadas en los servicios centrales de las entidades.
+
+2.1 En el subsistema de gastos plurianuales.
+
+Por los importes parciales que corresponda a cada epígrafe de los expresados en la parte central del documento y para las diferentes anualidades, anotación en las columnas de modificaciones por compromisos acordados por el Gobierno de ejercicios posteriores y en la columna de créditos definitivos de ejercicios posteriores del centro «Control de créditos plurianuales».
+
+2.2 Documentos inversos
+
+Los documentos inversos realizarán las mismas anotaciones contables, pero con signo contrario.
+
+3\. RCEP.360 y su inverso, de retenciones de crédito. Ejercicios posteriores.
+
+Las anotaciones contables se producirán una vez que las propuestas de retenciones de crédito de expedientes de compromisos de gasto de ejercicios posteriores, formuladas por los servicios gestores para el área contable de gastos plurianuales de los centros de gestión sean aprobadas por los servicios gestores para dicha área contable de los servicios centrales de la entidad respectiva. Para los documentos inversos, aquellas se producirán una vez que las propuestas sean confirmadas por los propios servicios gestores de los centros de gestión y registradas por la oficina de contabilidad de las Intervenciones delegadas respectivas.
+
+3.1 En el subsistema de gastos plurianuales.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento y para las diferentes anualidades, anotación en la columna de retenciones de crédito de ejercicios posteriores del centro de gestión que realizó la propuesta y anotación en el centro “Control de créditos plurianuales” en negativo en la columna de retenciones de crédito y disminuyendo el saldo de créditos definitivos.
+
+3.2 Documentos inversos.
+
+Los documentos inversos realizan la misma anotación contable, pero con signo contrario.
+
+4\. RCTA.365 y su inverso, de retenciones de crédito. Tramitación anticipada.
+
+Las anotaciones contables se producirán una vez que las propuestas de retenciones de crédito de expedientes de tramitación anticipada formuladas por los servicios gestores para el área contable de gastos plurianuales de los centros de gestión sean aprobadas por los servicios gestores para dicha área contable de los servicios centrales de la entidad respectiva. Para los documentos inversos, aquellas se producirán una vez que las propuestas sean confirmadas por los propios servicios gestores de los centros de gestión y registradas por las oficinas de contabilidad de las Intervenciones delegadas respectivas.
+
+4.1 En el subsistema de gastos plurianuales.
+
+Por los importes parciales que correspondan a cada epígrafe de los expresados en la parte central del documento y para las diferentes anualidades, anotación en la columna de retenciones de crédito de tramitación anticipada del centro de gestión que realizó la propuesta y anotación en el centro “Control de créditos plurianuales” en negativo en la columna de retenciones de crédito y disminuyendo el saldo de créditos definitivos.
+
+4.2 Documentos inversos.
+
+Los documentos inversos realizan la misma anotación contable, pero con signo contrario.
+
+5\. AEP.460 y su inverso, de autorizaciones de gasto. Ejercicios posteriores.
+
+Las anotaciones contables se producirán en los centros de gestión que expiden el documento.
+
+5.1 En el subsistema de gastos plurianuales.
+
+Por los importes parciales que corresponda a cada epígrafe de los expresados en la parte central del documento y para las diferentes anualidades, anotación en la columna de autorizaciones de ejercicios posteriores del centro de gestión que realizó la propuesta.
+
+5.2 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+6\. ATA.465 y su inverso, de autorizaciones de gasto. Tramitación anticipada.
+
+Las anotaciones contables se producirán en los centros de gestión que expiden el documento.
+
+6.1 En el subsistema de gastos plurianuales.
+
+Por los importes parciales que corresponda a cada epígrafe de los expresados en la parte central del documento y para las diferentes anualidades, anotación en la columna de autorizaciones tramitación anticipada del centro de gestión que realizó la propuesta.
+
+6.2 Documentos inversos.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo negativo.
+
+7\. ADEP.470 y su inverso, de autorizaciones y compromisos de gasto. Ejercicios posteriores.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento y se corresponden con las efectuadas por los documentos AEP.460 y DEP.560.
+
+8\. ADTA.475 y su inverso, de autorizaciones y compromisos de gasto. Tramitación anticipada.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento y se corresponden con las efectuadas por los documentos ATA.465 y DTA.565.
+
+9\. DEP.560 y su inverso, de compromisos de gasto. Ejercicios posteriores.
+
+Las anotaciones contables se producirán en los centros de gestión que expiden el documento.
+
+9.1 En el subsistema de gastos plurianuales.
+
+Por los importes parciales que corresponda a cada epígrafe de los expresados en la parte central del documento y para las diferentes anualidades, anotación en la columna de disposiciones o compromisos de gasto de ejercicios posteriores del centro de gestión que realizó la propuesta.
+
+9.2 Documentos inversos
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo contrario.
+
+10\. DTA.565 y su inverso, de compromisos de gasto. Tramitación anticipada.
+
+Las anotaciones contables se producirán en los centros de gestión que expiden el documento.
+
+10.1 En el subsistema de gastos plurianuales.
+
+Por los importes parciales que corresponda a cada epígrafe de los expresados en la parte central del documento y para las diferentes anualidades, anotación en la columna de disposiciones o compromisos de gasto de tramitación anticipada del centro de gestión que realizó la propuesta.
+
+10.2 Documentos inversos
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo contrario.
+
+11\. Anexo de los documentos RCEP.360, RCTA.365, AEP.460, ATA.465, ADEP.470, ADTA.475, DEP.560, DTA.565 y MCEP.272, de ejercicios posteriores y tramitación anticipada y su inverso.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento, y serán las mismas que ocasionen los documentos de origen.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo contrario.
+
+12\. Anexo del documento MCEP.270, de ejercicios posteriores y su inverso.
+
+Las anotaciones contables se realizan en los centros de gestión que expiden el documento, y serán las mismas que ocasionen los documentos de origen.
+
+Los documentos inversos realizan las mismas anotaciones contables, pero con signo contrario.
+
+> Se modifican los apartados 3 y 4 por el art. único.diez de la Resolución de 23 de marzo de 2022. [Ref. BOE-A-2022-5460](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5460)
+
+## TÍTULO IV — Libros de contabilidad
+
+### CAPÍTULO I — Normas generales
+
+##### Regla 46. Disposiciones generales.
+
+1 Una vez incorporados en el sistema los datos contenidos en los documentos contables, y efectuada la contabilización pertinente, el sistema producirá las anotaciones contables oportunas, así como las actualizaciones de los subsistemas que resulten afectados por la operación registrada.
+
+Conforme a ello, el sistema elaborará los libros principales y auxiliares de contabilidad donde se registrarán de forma sistemática todas las operaciones que hayan sido incorporadas al sistema a través de los documentos contables.
+
+2 Son libros de contabilidad principal el registro general de documentos, los documentos de resumen contable específicos del presupuesto de gastos, del presupuesto de ingresos, de las operaciones no presupuestarias y de relaciones internas, de la tesorería y de contabilidad patrimonial.
+
+Son libros de contabilidad auxiliar los documentos de resumen específicos del fondo de maniobra y de pagos a justificar.
+
+### CAPÍTULO II — Registro general de documentos
+
+##### Regla 47. Disposiciones generales.
+
+1\. El registro general de documentos es un documento de resumen contable que se configura a modo de detalle de los documentos contables que han sido objeto de toma de razón.
+
+2\. En el registro general de documentos se sentarán de forma correlativa, y con numeración única, por un lado, para todos los centros de gestión de las entidades gestoras y Tesorería General de la Seguridad Social y, por otro lado, para cada una de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, todos los documentos que han sido validados, debiendo distinguirse entre documentos propios del centro, documentos generados por la entidad y otros centros y documentos de las entidades que afectan a uno o varios de sus centros, todos ellos incluidos en diferentes registros emitidos a diario y que se desarrollan en las reglas siguientes.
+
+3\. En cada entidad o centro de gestión se obtendrá el registro de los documentos que tengan relación con él, pudiendo obtenerse el registro completo en la Intervención General de la Seguridad Social como antecedente y justificante, en su caso, de los registros parciales.
+
+##### Regla 48. Registro diario de documentos propios.
+
+1\. El registro diario de documentos propios indicará cuáles de ellos afectan a otros centros, con expresión de su código de identificación.
+
+2\. Con carácter general, por columnas expresará los siguientes datos: número de registro general de documento (en adelante NRGD); número de expediente; número de asiento en contabilidad general en el centro propio; código de operación, con detalle del área contable; agrupación; clave de operación (fase) y signo; tipo de documento; interesado, con detalle del número de identificación fiscal y nombre o razón social; endosatario, en su caso, con el mismo detalle; importe total; código del centro o centros relacionados, en su caso, y número de asiento en contabilidad general del centro relacionado, obteniéndose además el importe total de las operaciones del día.
+
+3\. Para el subsistema de gastos plurianuales, por columnas expresará los siguientes datos: NRGD, número de expediente, código operación, con detalle del área contable; agrupación; clave de operación (fase) y signo, tipo de documento, interesado con detalle del número de identificación fiscal y nombre o razón social, importe total y centro relacionado.
+
+##### Regla 49. Registro de documentos generados por la entidad o por otros centros.
+
+1\. El registro de documentos generados en la entidad o en otros centros relacionará los documentos emitidos por los mismos que tienen alguna repercusión contable en el centro que lo obtiene.
+
+2\. Con carácter general, por columnas expresará los siguientes datos: NRGD; número de expediente; código de la entidad o centro de origen; número de asiento en la contabilidad general del centro de origen; número de asiento en la contabilidad general del centro propio; código de operación, con detalle del área contable, agrupación, clave de origen (fase) y signo; tipo de documento; interesado con detalle de número de identificación fiscal y nombre o razón social; importe total (íntegro), descuento e importe líquido. Este registro se totalizará para cada día, con detalle de los importes parciales por centro, provincia y entidad.
+
+3\. Para el subsistema de gastos plurianuales, por columnas expresará los siguientes datos: NRGD, número de expediente, centro de origen, código de operación, tipo de documento, interesado con detalle del número de identificación fiscal y nombre o razón social, importe total y centro relacionado.
+
+##### Regla 50. Registro diario de documentos de la entidad que afectan a sus centros.
+
+1\. El registro diario de documentos de la entidad que afectan a sus centros, relacionará los documentos emitidos por las mismas, que tienen repercusión contable en aquéllos. Solo podrán tener documentos MC o RC.
+
+2\. Con carácter general, por columnas expresará los siguientes datos: NRGD; número de expediente; centro de origen del documento; código de la operación, con detalle del área contable, agrupación, clave de operación (fase) y signo; tipo de documento; importe; código del centro afectado, y número de asiento en contabilidad general del centro afectado. Además contendrá una línea de total para cada documento y otra de total importe de las operaciones del día.
+
+3\. Para el subsistema de gastos plurianuales, por columnas expresará los siguientes datos: NRGD, número de expediente, centro de origen del documento, código de operación, con detalle del área contable, agrupación, clave de operación (fase) y signo; tipo de documento, importe total y centro afectado.
+
+### CAPÍTULO III — Presupuesto de gastos
+
+##### Regla 51. Disposiciones generales.
+
+1\. Los documentos de resumen contable específicos que forman parte del presupuesto de gasto son el mayor de cuentas y el estado de liquidación del presupuesto.
+
+2\. El mayor de cuentas se obtendrá en todos los centros de gestión y tiene por objeto justificar todas y cada una de las operaciones anotadas en las mismas. Se abrirá cuenta de cada concepto, subconcepto o partida presupuestaria que constituya el máximo nivel de desagregación, con separación por áreas, grupos de programas y programas, referido todo ello a un determinado centro de gestión, obteniéndose con la periodicidad que resulte aconsejable y siempre en fin de ejercicio. El mayor hará referencia al NRGD del documento a que corresponde cada anotación.
+
+3\. El estado de liquidación del presupuesto de gastos constituye el resumen acumulado de las operaciones y saldos que afectan a cada epígrafe presupuestario de gasto, clasificados por áreas, grupos de programas y programas.
+
+##### Regla 52. Mayor de cuentas.
+
+1\. El mayor de cuentas, con carácter general, por columnas expresará los siguientes datos: fecha de la operación; NRGD; tipo de documento; número de asiento en contabilidad general; créditos definitivos; retenciones de crédito; autorizaciones; compromisos o disposiciones; obligaciones; propuestas de pago; pagos ordenados y pagos realizados. El mayor presentará en una última línea los totales acumulados desde la fecha de comienzo del ejercicio hasta la del día a que corresponda, pudiendo fracturarse por períodos mensuales.
+
+2\. Con los datos de las distintas operaciones de las cuentas del mayor se formarán mensualmente los estados de liquidación del presupuesto de cada centro.
+
+3\. El mayor de cuentas, en las operaciones de presupuestos cerrados, por columnas expresará los siguientes datos: fecha de la operación, NRGD, tipo de documento, número de asiento en el diario general de operaciones, obligaciones procedentes del ejercicio anterior, modificaciones de esas obligaciones producidas durante el ejercicio, propuestas de pago procedentes del ejercicio anterior, propuestas de pago expedidas en el ejercicio, pagos ordenados procedentes del ejercicio anterior, pagos ordenados en el ejercicio y pagos realizados.
+
+##### Regla 53. Estado de liquidación del presupuesto.
+
+1\. El estado de liquidación del presupuesto, con carácter general, está conformado por los siguientes estados:
+
+1.1 Evolución y situación de los créditos, de ejercicio corriente, que por columnas expresará los siguientes datos: concepto presupuestario, créditos presupuestarios: créditos iniciales, modificaciones de crédito, créditos definitivos; créditos disponibles; retenido pendiente de utilización; retenido para transferencias; y créditos no disponibles.
+
+1.2 Modificaciones de crédito, de ejercicio corriente, que por columnas expresará los siguientes datos: concepto presupuestario, créditos extraordinarios, suplementos de crédito, ampliaciones de crédito, créditos generados por ingresos, incorporaciones de remanentes de crédito, otras modificaciones, aumentos por transferencias de crédito, disminuciones por transferencias de crédito, aumentos por redistribuciones de crédito, disminuciones por redistribuciones de crédito, bajas por anulación y total modificaciones.
+
+1.3 Estado de ejecución del presupuesto de gastos, de ejercicio corriente, que por columnas expresará los siguientes datos: concepto presupuestario, créditos definitivos, autorizaciones de gastos, saldo presupuesto, disposiciones o compromisos, saldo de autorizaciones, obligaciones reconocidas, saldo de disposiciones, propuestas de pago, saldo de obligaciones, pagos ordenados, saldo de propuestas de pago, pagos realizados y saldo de pagos ordenados.
+
+1.4 Estado de ejecución del presupuesto de gastos, de ejercicios cerrados, que por columnas expresará los siguientes datos:
+
+1.4.1 Para obligaciones de ejercicios cerrados anteriores o igual al año 2004: Concepto presupuestario, obligaciones procedentes del ejercicio anterior, modificaciones de obligaciones, total de obligaciones, prescripción de obligaciones, propuestas de pago procedentes del ejercicio anterior, propuestas de pago expedidas en el ejercicio, total de propuestas de pago, pagos ordenados procedentes del ejercicio anterior, pagos ordenados en el ejercicio, total de pagos ordenados, pagos realizados en el ejercicio, y saldos de obligaciones, propuestas de pago y pagos ordenados en fin del período que, en caso de referirse al 31 de diciembre, se traspasarán como saldos entrantes del ejercicio siguiente.
+
+1.4.2 Para obligaciones de ejercicios cerrados posteriores o igual al año 2005: Concepto presupuestario, obligaciones y propuestas de pago procedentes del ejercicio anterior, modificaciones de obligaciones y propuestas de pago, total de obligaciones y propuestas de pago, prescripción de obligaciones y propuestas de pago, pagos ordenados procedentes del ejercicio anterior, pagos ordenados en el ejercicio, total de pagos ordenados, pagos realizados en el ejercicio, y saldos de obligaciones y propuestas de pago y de pagos ordenados en fin del período que, en caso de referirse al 31 de diciembre, se traspasarán como saldos entrantes del ejercicio siguiente.
+
+2\. Con independencia de los documentos precedentes se obtendrán los resúmenes estadísticos que se consideren oportunos y, necesariamente, los estados finales de liquidación del presupuesto de cada entidad, por agregación de los correspondientes a sus respectivos centros de gestión, que le servirán de justificante, con el mismo detalle que el indicado en los apartados anteriores, así como el resumen final, por agregación de las entidades que corresponda.
+
+Asimismo podrán realizarse otras consolidaciones de ámbito regional, provincial, sectorial, etc., en la medida que resulten precisas para el más eficaz desarrollo de los servicios.
+
+3\. Estos documentos se editarán con la frecuencia que se considere adecuada y siempre en fin de mes y ejercicio.
+
+### CAPÍTULO IV — Presupuesto de ingresos
+
+##### Regla 54. Disposiciones generales.
+
+1\. Los documentos de resumen contable específicos que forman parte del presupuesto de ingresos son el mayor de cuentas, el estado de liquidación del presupuesto y el estado de realización de las previsiones de ingresos.
+
+2\. En el mayor de cuentas se abrirá cuenta a cada concepto, subconcepto o partida presupuestaria que constituya el máximo nivel de desagregación, referido todo ello a una determinada dirección provincial o a los servicios centrales de la Tesorería General de la Seguridad Social o mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, obteniéndose con la periodicidad que resulte aconsejable y siempre en fin de ejercicio.
+
+3\. El estado de liquidación del presupuesto de ingresos constituye el resumen acumulado de las operaciones y saldos que afectan a cada epígrafe presupuestario de ingresos, debidamente clasificados.
+
+4\. Con los datos acumulados de las diferentes direcciones provinciales y servicios centrales de la Tesorería General de la Seguridad Social, se elaborará el estado de realización de las previsiones de ingresos, con los mismos criterios que el estado de liquidación del presupuesto. La misma información se presentará para las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+##### Regla 55. Mayor de cuentas.
+
+1\. El mayor de cuentas, con carácter general, por columnas expresará los siguientes datos: fecha de la operación; NRGD; tipo de documento; número de asiento en el diario general de operaciones; previsiones definitivas, derechos reconocidos; derechos recaudados; derechos anulados, distinguiendo los que son por anulación de liquidaciones, aplazamiento y fraccionamiento y devoluciones de ingresos; derechos cancelados, distinguiendo los que son por cobros en especie y por insolvencia y otras causas.
+
+2\. Con los datos de las distintas operaciones de las cuentas del mayor, se formarán mensualmente los estados de ejecución del presupuesto de cada Tesorería o mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+3\. El mayor de cuentas de las operaciones del presupuesto de ingresos de ejercicios cerrados, por columnas expresará los siguientes datos: fecha de la operación; NRGD; tipo de documento, número de asiento en el diario general de operaciones; derechos a cobrar, con separación de los pendientes en fin del ejercicio anterior y de las modificaciones realizadas en el ejercicio; derechos anulados, distinguiendo los que son por anulación de liquidaciones y aplazamiento y fraccionamiento; derechos recaudados; derechos cancelados, distinguiendo los que son por cobros en especie, por insolvencia y otras causas y prescripción.
+
+> Se modifica el apartado 1 por el art. 1.3 de la Resolución de 27 de diciembre de 2023. [Ref. BOE-A-2024-1775](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1775)
+
+> Esta modificación tiene efectos a partir de comienzos del año 2024, según establece la disposición final única de la citada Resolución.
+
+##### Regla 56. Estado de liquidación del presupuesto.
+
+1\. El estado de liquidación del presupuesto, con carácter general, está conformado por los siguientes estados:
+
+1.1 Estado de ejecución del presupuesto de ingresos, de ejercicio corriente que, a su vez, está constituido por dos estados. El primero de ellos por columnas expresará los siguientes datos: concepto presupuestario; derechos reconocidos; derechos anulados, con detalle de los que correspondan a anulación de liquidaciones, aplazamiento y fraccionamiento, devoluciones de ingresos y total; y los derechos reconocidos netos de anulaciones. El segundo de ellos por columnas expresará los siguientes datos: concepto presupuestario; derechos reconocidos netos de anulaciones; derechos cancelados, con detalle de los que correspondan a cobros en especie, insolvencias y otras causas y total; derechos reconocidos netos; recaudación, con detalle de los que correspondan a recaudación total, devolución de ingresos y recaudación neta; y derechos pendientes de cobro a 31 de diciembre.
+
+1.2 Estado de ejecución del presupuesto de ingresos, de ejercicios cerrados que, a su vez, está constituido por dos estados. El primero de ellos por columnas expresará los siguientes datos: concepto presupuestario; derechos a cobrar, con detalle de los derechos pendientes del ejercicio anterior, modificaciones y total; derechos anulados, con detalle de los que correspondan a anulación de liquidaciones, aplazamiento y fraccionamiento y total; y derechos a cobrar netos de anulaciones. El segundo de ellos por columnas expresará los siguientes datos: concepto presupuestario; derechos a cobrar netos de anulaciones; derechos cancelados, con detalle de los que correspondan a cobros en especie, insolvencias y otras causas, prescripciones y total; derechos a cobrar netos; derechos recaudados; y derechos pendientes de cobro a 31 de diciembre.
+
+2\. Estos documentos se editarán con la frecuencia que se considere adecuada y siempre en fin de mes y ejercicio, totalizándose por niveles de agregación del presupuesto.
+
+3\. Con los datos acumulados de las diferentes direcciones provinciales y servicios centrales de la Tesorería General de la Seguridad Social, se presentará el estado de liquidación del presupuesto de ingresos de la Tesorería General. La misma información se presentará para las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+##### Regla 57. Estado de realización de las previsiones de ingresos.
+
+El estado de realización de las previsiones de ingresos por columnas expresará los siguientes datos: concepto presupuestario; previsiones iniciales; modificaciones de previsiones; previsiones definitivas; derechos reconocidos netos; recaudación neta; el porcentaje que los derechos reconocidos netos representan sobre las previsiones definitivas; y el porcentaje que la recaudación líquida representa sobre las previsiones definitivas.
+
+### CAPÍTULO V — Operaciones no presupuestarias y de relaciones internas
+
+##### Regla 58. Disposiciones generales.
+
+1\. Los documentos de resumen contable específicos que forman parte de las operaciones no presupuestarias y de relaciones internas son el mayor de cuentas, el estado demostrativo de deudores no presupuestarios, de acreedores no presupuestarios, de partidas pendientes de aplicación de origen deudor y acreedor y de los movimientos internos del sistema y el estado demostrativo de las propuestas de pago por operaciones no presupuestarias.
+
+2\. En el mayor de cuentas se abrirá una cuenta a cada concepto, subconcepto o partida que constituya el máximo nivel de desagregación, referido todo ello a un determinado centro de gestión, obteniéndose con la periodicidad que resulte aconsejable y siempre en fin de ejercicio.
+
+3\. El estado demostrativo de deudores no presupuestarios constituye el resumen acumulado de las operaciones y saldos que afectan a cada concepto de esta naturaleza, debidamente clasificados.
+
+4\. El estado demostrativo de acreedores no presupuestarios constituye el resumen acumulado de las operaciones y saldos que afectan a cada concepto de esta naturaleza, debidamente clasificados.
+
+5\. Los estados demostrativos de las partidas pendientes de aplicación de origen acreedor y de origen deudor constituyen el resumen acumulado de las operaciones y saldos que afectan a cada concepto de esta naturaleza, debidamente clasificados.
+
+6\. El estado demostrativo de los movimientos internos del sistema constituye el resumen acumulado de las operaciones y saldos que afectan a cada concepto de esta naturaleza, debidamente clasificados.
+
+##### Regla 59. Mayor de cuentas.
+
+1\. El mayor de cuentas, por columnas expresará los siguientes datos: fecha de la operación; NRGD; número de asiento en el diario general de operaciones; tipo de documento; propuestas de pago; pagos ordenados; pagos realizados; debe y haber.
+
+2\. Con los datos de las distintas operaciones de las cuentas del mayor se formarán mensualmente los estados de ejecución de operaciones no presupuestarias de cada centro de gestión.
+
+##### Regla 60. Estado demostrativo de deudores no presupuestarios
+
+1\. El estado demostrativo de deudores no presupuestarios por columnas y por cada cuenta del plan que corresponda expresará los siguientes datos: concepto no presupuestario; descripción; saldo a 1 de enero; cargos realizados en el ejercicio; total deudores; abonos realizados en el ejercicio y deudores pendientes de cobro en 31 de diciembre.
+
+2\. Estos documentos se editarán con la frecuencia que se considere adecuada y siempre en fin de mes y ejercicio, totalizándose por niveles superiores.
+
+3\. Con los datos acumulados de los diferentes centros de gestión, se presentará el estado de cada entidad gestora y de la Tesorería General de la Seguridad Social. La misma información se presentará para las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+##### Regla 61. Estado demostrativo de acreedores no presupuestarios
+
+1\. El estado demostrativo de acreedores no presupuestarios por columnas y por cada cuenta del plan que corresponda expresará los siguientes datos: concepto no presupuestario; descripción; saldo a 1 de enero; abonos realizados en el ejercicio; total acreedores; cargos realizados en el ejercicio y acreedores pendientes de pago en 31 de diciembre.
+
+2\. Estos documentos se editarán con la frecuencia que se considere adecuada y siempre en fin de mes y ejercicio, totalizándose por niveles superiores.
+
+3\. Con los datos acumulados de los diferentes centros de gestión, se presentará el estado de cada entidad gestora y de la Tesorería General de la Seguridad Social. La misma información se presentará para las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+##### Regla 62. Estados demostrativos de las partidas pendientes de aplicación de origen deudor y de origen acreedor.
+
+1\. El estado demostrativo de partidas pendientes de aplicación de origen acreedor o de los cobros pendientes de aplicación, por columnas y por cada cuenta del plan que corresponda expresará los siguientes datos: concepto no presupuestario; descripción; cobros pendientes de aplicación a 1 de enero, cobros realizados en el ejercicio, total cobros pendientes de aplicación, cobros aplicados en el ejercicio y cobros pendientes de aplicación en 31 de diciembre.
+
+2\. El estado demostrativo de partidas pendientes de aplicación de origen deudor o de los pagos pendientes de aplicación, por columnas y por cada cuenta del plan que corresponda expresará los siguientes datos: concepto no presupuestario; descripción; pagos pendientes de aplicación a 1 de enero, pagos realizados en el ejercicio, total pagos pendientes de aplicación, pagos aplicados en el ejercicio y pagos pendientes de aplicación en 31 de diciembre.
+
+##### Regla 63. Estado demostrativo de los movimientos internos del sistema.
+
+1\. El estado demostrativo de los movimientos internos del sistema, por columnas expresará los siguientes datos: concepto no presupuestario, distinguiéndose entre código y denominación; cuenta del plan con la que se relaciona; cargos y abonos.
+
+2\. Estos documentos se editarán con la frecuencia que se considere adecuada y siempre en fin de mes y ejercicio, totalizándose por niveles superiores.
+
+3\. Con los datos acumulados de los diferentes centros de gestión, se presentará el estado de cada entidad gestora y de la Tesorería General de la Seguridad Social. La misma información se presentará para las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+##### Regla 64. Estado demostrativo de seguimiento de propuestas de pago por operaciones no presupuestarias
+
+El estado demostrativo de las propuestas de pago por operaciones no presupuestarias reflejará por columnas los siguientes datos: concepto no presupuestario, desglose, propuestas de pago, pagos ordenados, saldo de propuestas de pago, pagos realizados y saldo de pagos ordenados.
+
+### CAPÍTULO VI — Tesorería
+
+##### Regla 65. Disposiciones generales.
+
+1\. Los documentos de resumen contable específicos que forman parte de Tesorería son el mayor auxiliar de cuentas corrientes bancarias y el estado demostrativo de cuentas corrientes bancarias.
+
+2\. En el mayor auxiliar de cuentas corrientes bancarias se abrirá cuenta a cada cuenta corriente bancaria abierta en las diferentes instituciones financieras, incluidas las cuentas límite de pago, referido todo ello a un determinado centro de gestión, editándose con la periodicidad que resulte aconsejable y siempre en fin de ejercicio.
+
+3\. El estado demostrativo de cuentas corrientes bancarias constituye el resumen acumulado de las operaciones y saldos que afectan a cada cuenta bancaria y a la caja del fondo de maniobra.
+
+##### Regla 66. Mayor auxiliar de cuentas corrientes bancarias.
+
+1\. El mayor auxiliar de cuentas corrientes bancarias, por columnas expresará los siguientes datos: fecha de la operación; NRGD; número de asiento en el diario general de operaciones; movimientos, con separación de debe y de haber, y saldos, con separación de deudores y acreedores.
+
+2\. Con los datos de las distintas operaciones de las cuentas del mayor, a los que se añadirán los relativos a las cuentas de caja del fondo de maniobra, se formarán mensualmente los estados demostrativos de cuentas corrientes bancarias.
+
+##### Regla 67. Estado demostrativo de cuentas corrientes bancarias.
+
+1\. El estado demostrativo de cuentas corrientes bancarias, por columnas expresará los siguientes datos: la identificación de la cuenta mediante el código interno que otorga el sistema; el código IBAN; denominación de la entidad bancaria y denominación de la cuenta; saldo a 1 de enero; ingresos; pagos y saldo en fin de período.
+
+2\. Estos documentos se editarán con la frecuencia que se considere adecuada y siempre en fin de mes y ejercicio, totalizándose por cuentas del plan a que corresponden las diferentes cuentas bancarias.
+
+3\. Con los datos acumulados de los diferentes centros de gestión, se presentará el estado de cada entidad gestora y de la Tesorería General de la Seguridad Social. La misma información se presentará para las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+### CAPÍTULO VII — Contabilidad patrimonial
+
+##### Regla 68. Disposiciones generales.
+
+1\. Los documentos de resumen contable específicos que forman parte de la contabilidad patrimonial son el diario general de operaciones, el mayor de cuentas, el balance de comprobación, el balance, la cuenta del resultado económico patrimonial, el estado de cambios en el patrimonio neto y el estado de flujos de efectivo.
+
+2\. En el diario general de operaciones se realizarán diariamente los asientos resúmenes que en cada caso corresponda, con arreglo al sistema de partida doble.
+
+3\. En el mayor de cuentas se abrirán las cuentas que correspondan, referido todo ello a un determinado centro de gestión.
+
+4\. El balance de comprobación constituye el resumen acumulado de las operaciones y saldos que afectan a las diversas cuentas.
+
+##### Regla 69. Diario general de operaciones
+
+1\. El diario general de operaciones recogerá además de la fecha y del número del asiento, los siguientes datos por columnas: código de la cuenta, denominación de la cuenta, debe y haber.
+
+2\. Este libro se obtendrá diariamente. Existirá la posibilidad de obtener en caso necesario el desarrollo del mismo, documento a documento, con la siguiente estructura por columnas: número del documento en el registro general, fecha del asiento, número de asiento en que está integrado, código de la cuenta, nombre de la cuenta, debe y haber.
+
+##### Regla 70. Mayor de cuentas.
+
+1\. Por columnas el mayor expresará: la fecha de la operación; NRGD; número de asiento en el diario general de operaciones; movimientos, con separación de debe y haber; y saldos, con separación de deudores y acreedores.
+
+2\. El mayor de cuentas se editará con la periodicidad que resulte aconsejable y siempre en fin de ejercicio.
+
+3\. Con los datos de las distintas operaciones de las cuentas del mayor se formarán quincenalmente los balances de comprobación y, en fin de ejercicio, se efectuarán las operaciones de regularización y cierre, obteniéndose el balance de situación y la cuenta del resultado económico patrimonial.
+
+##### Regla 71. Balance de comprobación.
+
+1\. El balance de comprobación por columnas expresará los siguientes datos: el código de la cuenta; nombre de la cuenta; sumas, con separación de debe y haber, y saldos, con distinción entre los que resulten deudores de los que resulten acreedores.
+
+2\. Estos documentos se obtendrán con la frecuencia que se considere adecuada y siempre en fin de mes y ejercicio, totalizándose por cuentas principales, subgrupos, grupos y total general.
+
+3\. Con los datos acumulados de los diferentes centros de gestión, se presentará el estado de cada entidad gestora y de la Tesorería General de la Seguridad Social. La misma información se presentará para las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+##### Regla 72. Balance, cuenta del resultado económico patrimonial, estado de cambios en el patrimonio neto y estado de flujos de efectivo.
+
+El balance, la cuenta del resultado económico patrimonial, el estado de cambios en el patrimonio neto y el estado de flujos de efectivo se editarán en fin de ejercicio, con la estructura establecida en la adaptación del Plan General de Contabilidad Pública a las entidades que integran el sistema de la Seguridad Social.
+
+### CAPÍTULO VIII — Contabilidad auxiliar del fondo de maniobra
+
+##### Regla 73. Disposiciones generales.
+
+1\. Los libros auxiliares, registros y estados de situación del fondo de maniobra son el libro auxiliar de pagos por el fondo de maniobra, el libro auxiliar de operaciones presupuestarias pendientes de formalizar, el libro auxiliar de operaciones no presupuestarias pendientes de formalizar, el libro auxiliar de descuentos pendientes de formalizar, el registro diario de documentos del fondo de maniobra generados en el centro, el registro diario de documentos del fondo de maniobra generados por otros centros, el estado de situación tesorería, el arqueo de caja, la conciliación bancaria y el estado de situación de fondos.
+
+2\. Los libros auxiliares del fondo de maniobra y los estados de situación del fondo de maniobra se adecuarán a los modelos recogidos en los anexos VI y VII, respectivamente, de esta Instrucción.
+
+> Se modifica por el art. 2.10 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 74. Libro auxiliar de pagos por fondo de maniobra
+
+En el libro auxiliar de pagos por fondo de maniobra se abrirá ficha a cada pago realizado que recogerá, además de los datos propios del documento PFM en que el mismo se habrá soportado, los de aquellos otros documentos que estén relacionados con dicho pago, incluidos los documentos relativos a su justificación. Cada ficha constará de las tres partes que se indican a continuación:
+
+1\. Datos generales del pago. Estos datos figurarán recogidos en la cabecera de la ficha y se referirán a los datos generales del documento PFM origen del pago, con detalle del código del perceptor, ordinal bancario de la cuenta receptora en los pagos que hayan de realizarse por transferencia; endosatario y ordinal bancario, en su caso; tipo de pago; forma de pago; código interno de la cuenta pagadora; importe íntegro; descuentos e importe líquido total.
+
+2\. Operaciones que determinan el importe a justificar. Se abrirá una línea de registro para cada documento de contabilidad auxiliar que pueda afectar a cada pago, con indicación, por columnas, se la siguiente información: fecha de validación; NRGD y tipo de documento de contabilidad de contabilidad auxiliar; NRGD y tipo de documento de contabilidad principal asociado; NRGD y tipo de documento del centro de relación; importe íntegro, con detalle de operaciones presupuestarias, operaciones no presupuestarias, gastos de otros centros y total; descuentos practicados e importe líquido. Las sumas de estas columnas representarán los importes pendientes de justificar por cada uno de los conceptos expresados.
+
+3\. Operaciones de justificación del pago. Se abrirá una línea de registro para el documento de contabilidad principal que soporte la aplicación definitiva de los pagos realizados, con indicación por columnas de la siguiente información: fecha de validación; NRGD; tipo de documento de la aplicación definitiva del pago; importe íntegro; descuento e importe líquido.
+
+##### Regla 75. Libro auxiliar de operaciones presupuestarias pendientes de formalizar.
+
+1\. El libro auxiliar de operaciones presupuestarias pendientes de formalizar recogerá, para cada partida presupuestaria que constituya el máximo nivel de desagregación, las operaciones relacionadas con el presupuesto de gastos adscrito al centro.
+
+2\. Por columnas expresará: la fecha de la operación; NRGD; tipo de documento; importe a justificar e importe justificado. Su saldo representará las operaciones pendientes de aplicar al presupuesto.
+
+##### Regla 76. Libro auxiliar de operaciones no presupuestarias pendientes de formalizar.
+
+1\. El libro auxiliar de operaciones no presupuestarias pendientes de formalizar recogerá, para cada partida, las operaciones relacionadas con conceptos no presupuestarios del centro.
+
+2\. Por columnas expresará: fecha de la operación; NRGD; tipo de documento; importe a justificar e importe justificado. Su saldo representará las operaciones pendientes de aplicar a conceptos no presupuestarios.
+
+##### Regla 77. Libro auxiliar de descuentos pendientes de formalizar.
+
+1\. El libro auxiliar de descuentos pendientes de formalizar recogerá, para cada código de descuento, las operaciones relacionadas con conceptos no presupuestarios del centro.
+
+2\. Por columnas expresará: fecha de la operación; NRGD; tipo de documento; descuentos a justificar y descuentos justificados. Su saldo representará las operaciones pendientes de aplicar a los conceptos no presupuestarios relacionados con los diversos descuentos practicados.
+
+##### Regla 78. Registros diarios de documentos del fondo de maniobra generados en el centro y por otros centros.
+
+1\. El registro diario de documentos del fondo de maniobra generados en el centro, por columnas expresará los siguientes datos: NRGD; número de expediente; código de operación, con detalle del área contable; agrupación; clave de operación (fase) y signo; tipo de documento; interesado, con detalle del número de identificación fiscal y nombre o razón social; endosatario, en su caso, con el mismo detalle; importe total íntegro; importe de los descuentos; importe líquido y código del centro o centros relacionados, en su caso. En este registro, que se totalizará por las operaciones del día, figurarán los documentos, tanto de contabilidad principal como de contabilidad auxiliar, contabilizados por la UAFM.
+
+2\. El registro diario de documentos del fondo de maniobra generados por otros centros, por columnas expresará los siguientes datos: NRGD; número de expediente; código del centro origen del documento; código de operación, con detalle del área contable; agrupación; clave de operación (fase) y signo; tipo de documento; interesado con detalle del número de identificación fiscal y nombre o razón social; endosatario, en su caso, con el mismo detalle; importe total íntegro; importe de los descuentos; importe líquido. En este registro que se totalizará por las operaciones del día, con el detalle de los centros de origen de los documentos, figurarán los documentos, tanto de contabilidad auxiliar como de contabilidad principal que, validados por otros centros, afecten al centro en el que se emite este registro.
+
+##### Regla 79. Estados de situación del fondo de maniobra.
+
+1\. Los estados de situación del fondo de maniobra son el estado de situación de tesorería, el arqueo de caja, la conciliación bancaria y el estado de situación de fondos.
+
+2\. El estado de situación de tesorería recogerá el detalle por bancos y caja del resumen de las operaciones del periodo, con indicación de los saldos iniciales, entradas y salidas de fondos y saldos finales, todo ello referido al trimestre anterior. Este estado deberá acompañarse del arqueo de caja, referido al último día del periodo, así como del extracto o extractos de las cuentas corrientes bancarias a la fecha de cierre del estado. En el supuesto de que los saldos que figuren en los citados extractos bancarios no coincidan con el reflejado en dicho estado de situación, se adjuntará asimismo la correspondiente conciliación bancaria.
+
+3\. El estado de situación de fondos recogerá el detalle de la situación de los fondos asignados, según se encuentren en efectivo, en caja o bancos, pendientes de justificar o justificados pendientes de reposición.
+
+> Se modifica por el art. 2.11 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+### CAPÍTULO IX — Contabilidad de pagos a justificar
+
+##### Regla 80. Disposiciones generales.
+
+1\. El libro auxiliar y estados de situación de pagos a justificar son el libro auxiliar de órdenes de pago a justificar, el estado de situación de tesorería, la conciliación bancaria y el arqueo de caja.
+
+2\. El libro auxiliar de órdenes de pago a justificar y los estados de situación de pagos a justificar se adecuarán a los modelos recogidos en los anexos VIII y IX, respectivamente, de esta Instrucción.
+
+> Se modifica por el art. 2.12 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 81. Libro auxiliar de órdenes de pago a justificar.
+
+Se llevará por las oficinas de contabilidad de las Intervenciones delegadas para ordenar, clasificar y sistematizar, de forma metódica y cronológica, todas las operaciones que se produzcan mediante la expedición de órdenes de pago a justificar, incluidas las correspondientes a su justificación.
+
+Este registro reflejará, a nivel de cada centro de gestión, la situación de las órdenes de pago expedidas, los importes justificados mediante la aprobación de la cuenta justificativa así como el saldo pendiente de justificación.
+
+En el libro auxiliar de órdenes de pago a justificar se registrarán diariamente, por el orden en que se reciban, todos los libramientos de fondos que se han puesto a disposición de la respectiva unidad administrativa de pagos a justificar. Por cada orden de pago a justificar expedida, se registrará además de los datos propios del documento ADOK u OK.620 origen del libramiento, los de aquellos otros documentos que estén relacionados con el mismo, incluidos los documentos relativos al ingreso de los fondos en la cuenta restringida, realización del pago, reintegro, en su caso, de las cantidades no invertidas, y aprobación de la cuenta justificativa.
+
+Constará de cuatro partes cuyo contenido será el que se detalla a continuación:
+
+a) Expedición de órdenes de pago a justificar. Recogerá los datos generales del libramiento. Por columnas expresará: Nº de operación, que será el NRGD del documento ADOK u OK.620 de pagos a justificar por el que se libraron los fondos; fecha contable que será la fecha de validación del citado documento; aplicación presupuestaria; importe librado, con distinción del importe íntegro, descuentos practicados e importe líquido; fecha de recepción, que será la fecha en que efectivamente se hayan ingresado los fondos en la cuenta restringida de pagos a justificar; NRGD del documento RPJ.950, apartado ingresos y fecha de validación del mismo. La suma de los importes librados representará, a nivel de centro de gestión, la totalidad de las órdenes de pago a justificar expedidas a lo largo del ejercicio.
+
+b) Realización del pago: Recogerá los datos relativos a los pagos realizados a terceros. Por columnas expresará: Fecha de pago; importe del pago; NRGD del documento RPJ.950, apartado pagos, y fecha de validación del mismo.
+
+c) Reintegro de cantidades no invertidas. Por columnas expresará: Fecha del reintegro, que será la de realización de la orden de transferencia de las cantidades no invertidas a la cuenta de recursos diversos de la TGSS; importe reintegrado; NRGD del documento RPJ.950, apartado reintegro de fondos, y fecha de validación del mismo; NRGD del documento DRPJ.190 expedido para registrar el reconocimiento de derechos por reintegro de las cantidades no invertidas y fecha de validación del mismo.
+
+d) Aprobación de la cuenta. Recogerá los datos relativos a las operaciones de rendición y aprobación de la cuenta justificativa. Por columnas expresará: Prórrogas, en el caso de haberse autorizado una ampliación del plazo legal inicialmente establecido para rendir la cuenta justificativa; fecha tope de rendición de la cuenta de acuerdo con los plazos legalmente establecidos, incluida en su caso la prórroga; fecha de rendición de la cuenta justificativa; fecha tope de aprobación de la cuenta, que será de dos meses desde la fecha efectiva de rendición de la cuenta; fecha de aprobación de la cuenta justificativa; importe aprobado; NRGD del documento JPJ.930 de operaciones de justificación de pagos a justificar y fecha de validación del mismo. La suma de las columnas de importe aprobado reflejará el importe total justificado una vez aprobada la cuenta justificativa.
+
+##### Regla 82. Estados de situación de pagos a justificar.
+
+1\. Los estados de situación de pagos a justificar son el estado de situación de tesorería, la conciliación bancaria y el arqueo de caja.
+
+2\. El estado de situación de tesorería recogerá el detalle por banco y caja del resumen de las operaciones del período, con indicación de los saldos iniciales, cobros, pagos y saldos finales, todo ello referido al trimestre anterior.
+
+Este estado, que se confeccionará por las UAPJ, deberá acompañarse del extracto de la cuenta corriente bancaria a la fecha de cierre del estado. En el supuesto de que los saldos que figuren en los citados extractos bancarios no coincidan con el reflejado en dicho estado de situación, se adjuntará asimismo la correspondiente conciliación bancaria.
+
+En el caso de los Centros Asistenciales en el extranjero del I.S.M, el estado de situación de tesorería se acompañará igualmente del arqueo de caja, referido al último día del período.
+
+> Se modifica por el art. 2.13 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+### CAPÍTULO X — Gastos plurianuales
+
+##### Regla 83. Disposiciones generales.
+
+1\. Los documentos de resumen contable específicos que forman parte del subsistema de gastos plurianuales son el mayor de cuentas y el estado de liquidación del presupuesto.
+
+2\. El mayor de cuentas se obtendrá en todos los centros de gestión y tiene por objeto justificar todas y cada una de las operaciones anotadas en las mismas. Se abrirá cuenta de cada concepto, subconcepto o partida presupuestaria que constituya el máximo nivel de desagregación, con separación por áreas, grupos de programas y programas, referido todo ello a un determinado centro de gestión, obteniéndose con la periodicidad que resulte aconsejable y siempre en fin de ejercicio. El mayor hará referencia al NRGD del documento a que corresponde cada anotación.
+
+3\. El estado de liquidación del presupuesto de gastos constituye el resumen acumulado de las operaciones y saldos que afectan a cada epígrafe presupuestario de gasto, clasificados por áreas, grupos de programas y programas.
+
+##### Regla 84. Mayor de cuentas.
+
+El mayor de cuentas por columnas expresará los siguientes datos: fecha de la operación, NRGD, tipo de documento, créditos definitivos, retenciones de crédito, autorizaciones y compromisos o disposiciones. En el centro de la entidad donde se centralizan los créditos plurianuales recogerá los documentos tanto de compromisos de gastos de ejercicios posteriores como los de tramitación anticipada, mientras que en los restantes centros de gestión, un mayor recogerá los documentos de compromisos de gastos de ejercicios posteriores y otro mayor los documentos de tramitación anticipada.
+
+##### Regla 85. Estado de liquidación del presupuesto.
+
+1\. El estado de liquidación del presupuesto estará formado por los siguientes estados:
+
+1.1 Ejecución del presupuesto de gastos de ejercicios posteriores, por entidad, centros de gestión (salvo el centro de la entidad donde se centralizan los créditos plurianuales) y anualidades. Por columnas expresará los siguientes datos: concepto presupuestario, créditos definitivos, retenciones de crédito, saldo de créditos definitivos, autorizaciones de gasto, saldo de retenciones de crédito, compromisos de gasto y saldo de autorizaciones de gasto.
+
+1.2 Modificaciones de créditos de ejercicios posteriores, por entidad y anualidades. Por columnas expresará los siguientes datos: aplicación presupuestaria, créditos iniciales, modificaciones acordadas por el Gobierno: aumentos y disminuciones, modificaciones por compromisos acordados por el Gobierno, modificaciones por arrendamientos y créditos definitivos.
+
+1.3 Ejecución del presupuesto de gastos de tramitación anticipada, por entidad, centros de gestión (salvo el centro de la entidad donde se centralizan los créditos plurianuales) y anualidades. Por columnas expresará los siguientes datos: concepto presupuestario, créditos definitivos, retenciones de crédito, saldo de créditos definitivos, autorizaciones de gasto, saldo de retenciones de crédito, compromisos de gasto y saldo de autorizaciones de gasto.
+
+1.4 Ejecución del presupuesto de gastos de ejercicios posteriores y tramitación anticipada, por entidad, centros de gestión y anualidades. Por columnas expresará los siguientes datos: concepto presupuestario, créditos definitivos, retenciones de crédito, saldo de créditos definitivos, autorizaciones de gasto, saldo de retenciones de crédito, compromisos de gasto y saldo de autorizaciones de gasto.
+
+1.5 Ejecución del presupuesto de gasto de ejercicios posteriores y tramitación anticipada, por entidad, anualidades y a nivel de vinculante. Por columnas expresará los siguientes datos: aplicación vinculante, anualidad, créditos iniciales, modificaciones, créditos definitivos, retenciones de crédito, con detalle de las correspondientes a ejercicios posteriores y las correspondientes a tramitación anticipada, y saldo de créditos definitivos.
+
+2\. Con independencia de los documentos precedentes se obtendrán los resúmenes estadísticos que se consideren oportunos y, necesariamente, los estados finales de liquidación del presupuesto de cada entidad, por agregación de los correspondientes a sus respectivos centros de gestión, que le servirán de justificante, con el mismo detalle que el indicado en los apartados anteriores, así como el resumen final, por agregación de las entidades que corresponda.
+
+Asimismo podrán realizarse otras consolidaciones de ámbito regional, provincial, sectorial, etc., en la medida que resulten precisas para el más eficaz desarrollo de los servicios.
+
+## TÍTULO V — Operatoria contable
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+### CAPÍTULO I — Presupuesto de gastos
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+#### Sección 1.ª Contabilización de la gestión de los créditos del presupuesto de gastos
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 86. Apertura del presupuesto.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 87. Modificación de los créditos iniciales.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 88. Disponibilidad de créditos.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se modifica el apartado 2 por el art. 1.14 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+#### Sección 2.ª Contabilización de la ejecución del presupuesto de gastos
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 89. Aprobación del gasto.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 90. Compromiso de gasto.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 91. Reconocimiento de la obligación.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 92. Ordenación del pago.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 93. Materialización del pago.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 94. Propuesta y formalización de reintegro de presupuesto de gastos.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se modifica el apartado 4 por el art. único.5 de la Resolución de 20 de diciembre de 2019. [Ref. BOE-A-2020-87](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-87)
+
+#### Sección 3.ª Contabilización de operaciones de ejercicios cerrados
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 95. Modificación de obligaciones reconocidas en ejercicios cerrados.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 96. Prescripción de obligaciones reconocidas en ejercicios cerrados.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+### CAPÍTULO II — Presupuesto de ingresos
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+#### Sección 1.ª Contabilización de la gestión del presupuesto de ingresos
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 97. Apertura del presupuesto.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 98. Actualización de las previsiones iniciales.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+#### Sección 2.ª Contabilización de la ejecución del presupuesto de ingresos
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 99. Reconocimiento de derechos.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 100. Anulación de derechos.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 101. Cancelación de derechos.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 102. Recaudación de derechos.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+#### Sección 3.ª Contabilización de operaciones de ejercicios cerrados
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 103. Modificación de derechos.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 104. Restantes operaciones.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+### CAPÍTULO III — De las Operaciones devengadas y no contabilizadas y de otras Operaciones de fin de ejercicio
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se modifica la denominación por el art. 1.15 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+##### Regla 105. Disposiciones generales.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se modifica por el art. 1.16 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Téngase en cuenta que todos los cambios que afecten a las operaciones de cierre estarán vigentes para el cierre contable del ejercicio 2018, según establece la disposición final única de la citada Resolución.
+
+##### Regla 106. Operaciones de clasificación correcta y demás reclasificaciones.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 107. Operaciones devengadas que deben quedar imputadas en la cuenta 413 “Acreedores por operaciones devengadas”.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se modifica por el art. 1.17 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Téngase en cuenta que todos los cambios que afecten a las operaciones de cierre estarán vigentes para el cierre contable del ejercicio 2018, según establece la disposición final única de la citada Resolución.
+
+##### Regla 108. Ingresos devengados.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se suprime su contenido y se renumera por el art. 1.18 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Su anterior numeración era regla 109.
+
+##### Regla 109. Gastos e ingresos anticipados.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se renumera por el art. 1.18 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Su anterior numeración era regla 110.
+
+##### Regla 110. Amortizaciones, correcciones valorativas por deterioro, provisiones, operaciones de variación de valor de activos y traspasos a resultados de partidas específicas imputadas directamente a patrimonio neto.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se renumera por el art. 1.18 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Su anterior numeración era regla 111.
+
+##### Regla 111. Otras actuaciones contables derivadas de trabajos de control financiero.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se renumera y se modifica por el art. 1.18 y 19 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Su anterior numeración era regla 112.
+
+##### Regla 112. Regularización de resultados.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se renumera por el art. 1.18 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Su anterior numeración era regla 113.
+
+### CAPÍTULO IV — Operaciones de rectificación
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 113. Disposiciones generales.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se renumera por el art. 1.18 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Su anterior numeración era regla 114.
+
+#### Sección 1.ª Errores detectados antes de efectuarse el pago de operaciones presupuestarias y no presupuestarias.
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 114. Error detectado antes de la contabilización del documento.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se renumera por el art. 1.18 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Su anterior numeración era regla 115.
+
+##### Regla 115. Error detectado una vez contabilizado el documento.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se renumera por el art. 1.18 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Su anterior numeración era regla 116.
+
+#### Sección 2.ª Errores detectados una vez efectuado el pago de operaciones presupuestarias y no presupuestarias
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 116. Disposiciones generales.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se renumera por el art. 1.18 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Su anterior numeración era regla 117.
+
+##### Regla 117. Errores de aplicaciones presupuestarias.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se renumera por el art. 1.18 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Su anterior numeración era regla 118.
+
+##### Regla 118. Errores de conceptos no presupuestarios.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se renumera por el art. 1.18 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Su anterior numeración era regla 119.
+
+##### Regla 119. Otros errores detectados en la contabilización del documento.
+
+**(Suprimida)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se renumera por el art. 1.18 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Su anterior numeración era regla 120.
+
+#### Sección 3.ª Errores detectados en operaciones de contabilidad patrimonial
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 120. Subsanaciones de errores.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se renumera por el art. 1.18 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Su anterior numeración era regla 121.
+
+#### Sección 4.ª Errores detectados en operaciones de presupuesto de ingresos
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+##### Regla 121. Subsanaciones de errores.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se renumera por el art. 1.18 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Su anterior numeración era regla 122.
+
+## ANEXO I — Modelos de documentos contables
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/312/17774_6385.png)
+
+![2](https://www.boe.es/datos/imagenes/disp/2018/312/17774_6423.png)
+
+![3](https://www.boe.es/datos/imagenes/disp/2018/312/17774_6456.png)
+
+![4](https://www.boe.es/datos/imagenes/disp/2018/312/17774_6489.png)
+
+![5](https://www.boe.es/datos/imagenes/disp/2018/312/17774_6644.png)
+
+![6](https://www.boe.es/datos/imagenes/disp/2018/312/17774_6718.png)
+
+![7](https://www.boe.es/datos/imagenes/disp/2018/312/17774_6752.png)
+
+![8](https://www.boe.es/datos/imagenes/disp/2018/312/17774_6786.png)
+
+![9](https://www.boe.es/datos/imagenes/disp/2018/312/17774_6940.png)
+
+![10](https://www.boe.es/datos/imagenes/disp/2018/312/17774_7013.png)
+
+![11](https://www.boe.es/datos/imagenes/disp/2018/312/17774_7046.png)
+
+![12](https://www.boe.es/datos/imagenes/disp/2018/312/17774_7080.png)
+
+![13](https://www.boe.es/datos/imagenes/disp/2018/312/17774_7233.png)
+
+![14](https://www.boe.es/datos/imagenes/disp/2018/312/17774_7306.png)
+
+![15](https://www.boe.es/datos/imagenes/disp/2018/312/17774_7341.png)
+
+![16](https://www.boe.es/datos/imagenes/disp/2018/312/17774_7375.png)
+
+![17](https://www.boe.es/datos/imagenes/disp/2018/312/17774_7532.png)
+
+![18](https://www.boe.es/datos/imagenes/disp/2018/312/17774_7609.png)
+
+![19](https://www.boe.es/datos/imagenes/disp/2018/312/17774_7643.png)
+
+![20](https://www.boe.es/datos/imagenes/disp/2018/312/17774_7677.png)
+
+![21](https://www.boe.es/datos/imagenes/disp/2018/312/17774_7830.png)
+
+![22](https://www.boe.es/datos/imagenes/disp/2018/312/17774_7903.png)
+
+![23](https://www.boe.es/datos/imagenes/disp/2018/312/17774_7937.png)
+
+![24](https://www.boe.es/datos/imagenes/disp/2018/312/17774_7970.png)
+
+![25](https://www.boe.es/datos/imagenes/disp/2018/312/17774_8124.png)
+
+![26](https://www.boe.es/datos/imagenes/disp/2018/312/17774_8199.png)
+
+![27](https://www.boe.es/datos/imagenes/disp/2018/312/17774_8233.png)
+
+![28](https://www.boe.es/datos/imagenes/disp/2018/312/17774_8270.png)
+
+![29](https://www.boe.es/datos/imagenes/disp/2018/312/17774_8434.png)
+
+![30](https://www.boe.es/datos/imagenes/disp/2018/312/17774_8508.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_1.png)
+
+![32](https://www.boe.es/datos/imagenes/disp/2018/312/17774_8576.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_2.png)
+
+![34](https://www.boe.es/datos/imagenes/disp/2019/51/17774_8836.png)
+
+![35](https://www.boe.es/datos/imagenes/disp/2018/312/17774_8869.png)
+
+![36](https://www.boe.es/datos/imagenes/disp/2018/312/17774_8902.png)
+
+![37](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9059.png)
+
+![38](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9135.png)
+
+![39](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9169.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/154/13081_15834934_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/154/13081_15834933_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/154/13081_15834935_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_3.png)
+
+![44](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9497.png)
+
+![45](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9651.png)
+
+![46](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9758.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_4.png)
+
+![48](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9863.png)
+
+![49](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10035.png)
+
+![50](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10109.png)
+
+![51](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10143.png)
+
+![52](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10177.png)
+
+![53](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10331.png)
+
+![54](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10404.png)
+
+![55](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10437.png)
+
+![56](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10472.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_5.png)
+
+![58](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10701.png)
+
+![59](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10736.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_6.png)
+
+![61](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10925.png)
+
+![62](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11000.png)
+
+![63](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11034.png)
+
+![64](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11068.png)
+
+![65](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11222.png)
+
+![66](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11295.png)
+
+![67](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11329.png)
+
+![68](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11363.png)
+
+![69](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11516.png)
+
+![70](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11592.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_7.png)
+
+![72](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11660.png)
+
+![73](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11814.png)
+
+![74](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11888.png)
+
+![75](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11922.png)
+
+![76](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11955.png)
+
+![77](https://www.boe.es/datos/imagenes/disp/2018/312/17774_12142.png)
+
+![78](https://www.boe.es/datos/imagenes/disp/2018/312/17774_12217.png)
+
+![79](https://www.boe.es/datos/imagenes/disp/2018/312/17774_12250.png)
+
+![80](https://www.boe.es/datos/imagenes/disp/2018/312/17774_12283.png)
+
+![81](https://www.boe.es/datos/imagenes/disp/2018/312/17774_12438.png)
+
+![82](https://www.boe.es/datos/imagenes/disp/2019/51/17774_12512.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_8.png)
+
+![84](https://www.boe.es/datos/imagenes/disp/2018/312/17774_12580.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_10.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_11.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_12.png)
+
+![89](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13035.png)
+
+![90](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13226.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/81/5460_11385859_2.png)
+
+![92](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13295.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/81/5460_11385859_3.png)
+
+![94](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13523.png)
+
+![95](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13557.png)
+
+![96](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13592.png)
+
+![97](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13746.png)
+
+![98](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13821.png)
+
+![99](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13854.png)
+
+![100](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13888.png)
+
+![101](https://www.boe.es/datos/imagenes/disp/2018/312/17774_14073.png)
+
+![102](https://www.boe.es/datos/imagenes/disp/2018/312/17774_14148.png)
+
+![103](https://www.boe.es/datos/imagenes/disp/2018/312/17774_14183.png)
+
+![104](https://www.boe.es/datos/imagenes/disp/2018/312/17774_14217.png)
+
+![105](https://www.boe.es/datos/imagenes/disp/2018/312/17774_14371.png)
+
+![106](https://www.boe.es/datos/imagenes/disp/2018/312/17774_14445.png)
+
+![107](https://www.boe.es/datos/imagenes/disp/2018/312/17774_14479.png)
+
+![108](https://www.boe.es/datos/imagenes/disp/2018/312/17774_14514.png)
+
+![109](https://www.boe.es/datos/imagenes/disp/2018/312/17774_14667.png)
+
+![110](https://www.boe.es/datos/imagenes/disp/2018/312/17774_14740.png)
+
+![111](https://www.boe.es/datos/imagenes/disp/2018/312/17774_14774.png)
+
+![112](https://www.boe.es/datos/imagenes/disp/2018/312/17774_14807.png)
+
+![113](https://www.boe.es/datos/imagenes/disp/2018/312/17774_14960.png)
+
+![114](https://www.boe.es/datos/imagenes/disp/2018/312/17774_15035.png)
+
+![115](https://www.boe.es/datos/imagenes/disp/2018/312/17774_15069.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/81/5460_11385859_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/113/10044_16964203_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/113/10044_16964203_2.png)
+
+> Se añaden los documentos contables CPMF.920 y ACPMF por los que se recogen en el anexo I de la Resolución de 28 de abril de 2026, según establece su art. único.10. [Ref. BOE-A-2026-10044](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10044)
+
+> Se sustituyen los modelos de los documentos contables O.603, O.604 y O.606 por los que se recogen en el anexo de la Resolución de 19 de junio de 2025, según establece su art. 2.6. [Ref. BOE-A-2025-13081](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13081)
+
+> Se sustituyen los modelos de los documentos contables ADOK.440, ADOK.450, OK.610, KRPG.900, ACPI.050, DROC.150, ABPD.350, OEAD.900, CPAD.900, CPTC.910, JPJ.930 y JPJ.940 por los que se recogen en el anexo de la Resolución de 27 de diciembre de 2023, según establece su art. 1.4. [Ref. BOE-A-2024-1775](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1775)
+
+> Esta modificación tiene efectos a partir de comienzos del año 2024, según establece la disposición final única de la citada Resolución.
+
+> Se añade el modelo de Anexo de información adicional y se sustituyen los modelos de los documentos contables PFM.809 y PFML.839 por los que se recogen en el anexo de la Resolución de 23 de marzo de 2022, según establece su art. único.once. [Ref. BOE-A-2022-5460](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5460)
+
+> Se sustituye el modelo del documento OEAD.900 por el que se recoge en el anexo de la Resolución de 20 de diciembre de 2019, según establece su art. único.6. [Ref. BOE-A-2020-87](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-87)
+
+> Se sustituye por el anexo I de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774), según establece su art. 1.20.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 51, de 28 de febrero de 2019. [Ref. BOE-A-2019-2783](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2783)
+
+## ANEXO II — Tipos y formas de pago y tipos de reintegro
+
+*Tipos de pago*
+
+Entidades Gestoras y Servicios Comunes de la Seguridad Social
+
+| Tipo de pago | Descripción |
+|---|---|
+| 01 | Retribuciones de personal. |
+| 02 | Horas extraordinarias, gratificaciones y cursos. |
+| 03 | Pensiones periódicas del INSS. |
+| 04 | Pensiones periódicas del ISM. |
+| 05 | Pensiones periódicas de MINUSVALIDOS. |
+| 06 | Pensiones periódicas de la LGD (Antigua LISMI). |
+| 07 | Primeros pagos de la LGD (Antigua LISMI). |
+| 08 | Primeros pagos de MINUSVALIDOS. |
+| 09 | Primeros pagos del INSS. |
+| 10 | Primeros pagos del ISM. |
+| 11 | Pagos centralizados. Conciertos con clínicas-INGESA. |
+| 12 | Pagos centralizados. Conciertos con clínicas-ISM. |
+| 13 | Pagos centralizados. Colegios farmacéuticos. |
+| 14 | Pagos centralizados. Laboratorios y empresas suministradoras de productos terapéuticos. |
+| 15 | Fondo de maniobra. Reposición. |
+| 16 | Inversiones. |
+| 17 | Anticipos y préstamos de personal. |
+| 18 | Transferencias a Comunidades Autónomas. |
+| 19 | Pago a registradores de la propiedad. |
+| 20 | Compras de bienes corrientes y servicios. |
+| 21 | Pensiones periódicas no contributivas. |
+| 22 | Primeros pagos de pensiones no contributivas. |
+| 23 | Pensiones periódicas. Nivel mínimo. Ley de dependencia. |
+| 24 | Gastos compartidos. |
+| 25 | Pagos únicos de pensiones y otras prestaciones. |
+| 26 | Primeros pagos de pensiones en el extranjero. |
+| 27 | Pensiones periódicas en el extranjero. |
+| 28 | Pagos centralizados. Nivel mínimo Ley de dependencia. |
+| 29 | Pagos centralizados. Nivel acordado Ley de dependencia. |
+| 30 | Imputación de operaciones devengadas. |
+| 31 | Pagos del capítulo II. Fecha fija. |
+| 32 | Paga única por diferencias de IPC. Pensiones periódicas INSS. |
+| 33 | Paga única por diferencias de IPC. Pensiones periódicas ISM. |
+| 34 | Paga única por diferencias de IPC. Prestaciones familiares. |
+| 35 | Reembolso exceso aportación farmacéutica. |
+| 36 | F.S.E.: Gastos de formación cofinanciables-ISM. |
+| 37 | Ayuda a las víctimas del atentado de 11 de marzo. |
+| 38 | Prestaciones del síndrome tóxico. |
+| 39 | Plan de pensiones. |
+| 40 | Devoluciones de ingresos. |
+| 41 | Pago subsidios. |
+| 42 | **(Suprimido)** |
+| 43 | **(Suprimido)** |
+| 44 | **(Suprimido)** |
+| 45 | Pago de prestación de servicios según convenio. |
+| 46 | Pago delegado por incapacidad temporal. |
+| 47 | Pagos a justificar. |
+| 48 | Sin salida material de fondos. |
+| 49 | Otros pagos presupuestarios. |
+| 50 | Fondo de contingencias profesionales de la Seguridad Social. |
+| 51 | Mutuas colaboradoras con la Seguridad Social. |
+| 52 | Fondo de Garantía Salarial. |
+| 53 | Servicio Público de Empleo Estatal. |
+| 54 | Impuesto sobre la Renta de las Personas Físicas. |
+| 55 | Transferencias a Comunidades Autónomas. |
+| 56 | Otros impuestos. |
+| 57 | Pensiones y otras prestaciones del Fondo Especial. |
+| 58 | Síndrome Tóxico. |
+| 59 | Fondo de Solidaridad para el Empleo. |
+| 60 | Retenciones judiciales. |
+| 61 | IT nóminas. |
+| 62 | Fondo de maniobra. Operaciones no presupuestarias. |
+| 63 | Operaciones financieras de pago centralizado. |
+| 64 | Movilizaciones de fondos. |
+| 65 | Indemnizaciones ISM a tripulantes. |
+| 66 | Transferencias al Tesoro. Subastas de liquidez. |
+| 67 | Pago telemático presupuestario por relación de perceptores. |
+| 68 | Pago telemático presupuestario a juzgados. |
+| 69 | Pago telemático devolución de ingresos por relación de perceptores. |
+| 70 | Pago telemático devolución de ingresos a juzgados. |
+| 71 | Fondo de Contingencias Profesionales de la Seguridad Social Operaciones no presupuestarias. |
+| 80 | Devolución de ingresos. Operaciones no presupuestarias. |
+| 81 | Seguro Escolar. Pago a clínicas y profesionales sanitarios. |
+| 84 | Gastos compartidos. Operaciones no presupuestarias. |
+| 86 | Gastos de formación cofinanciables ISM. Operaciones no presupuestarias. |
+| 87 | Prestaciones Situación Especial. |
+| 90 | RADIS de devolución de cuotas. |
+| 92 | OEK de devolución de cuotas. |
+| 93 | OEK de saldos acreedores. |
+| 94 | OEK de devolución de cuotas en formalización. |
+| 95 | OEK de saldos acreedores en formalización. |
+| 96 | Pago telemático no presupuestario por relación de perceptores. |
+| 97 | Pago telemático no presupuestario a juzgados. |
+| 98 | Pagos sin salida material de fondos. |
+| 99 | Otros pagos no presupuestarios. |
+
+Mutuas colaboradoras con la Seguridad Social
+
+| Tipo de pago | Descripción |
+|---|---|
+| 01 | Retribuciones de personal. |
+| 02 | Horas extraordinarias, gratificaciones y cursos. |
+| 13 | Colegios farmacéuticos. |
+| 14 | Laboratorios y empresas suministradoras de productos terapéuticos. |
+| 15 | Fondo de maniobra. Reposición. |
+| 16 | Inversiones. |
+| 17 | Anticipos y préstamos de personal. |
+| 18 | Transferencias a Comunidades Autónomas. |
+| 19 | Ayudas y becas de investigación y estudio. |
+| 20 | Compras de bienes corrientes y servicios. |
+| 25 | Pagos únicos de pensiones y otras prestaciones. |
+| 30 | Imputación de operaciones devengadas. |
+| 31 | Pagos del capítulo II. Fecha fija. |
+| 36 | Dietas. |
+| 39 | Plan de pensiones. |
+| 40 | Devoluciones de ingresos. |
+| 41 | IT, riesgo durante la lactancia natural y riesgo durante el embarazo – Cuenta propia menos de 12 meses. Pago directo. |
+| 42 | IT, riesgo durante la lactancia natural y riesgo durante el embarazo – Cuenta ajena menos de 12 meses. Pago directo. |
+| 43 | IT-Cuenta propia más de 12 meses. Pago directo. |
+| 44 | IT-Cuenta ajena más de 12 meses. Pago directo. |
+| 45 | Pago inmediato. |
+| 46 | Pago delegado por incapacidad temporal. |
+| 48 | Sin salida material de fondos. |
+| 49 | Otros pagos presupuestarios. |
+| 50 | Fondo de contingencias profesionales de la Seguridad Social. |
+| 51 | Mutuas colaboradoras con la Seguridad Social. |
+| 54 | Impuesto sobre la Renta de las Personas Físicas. |
+| 55 | Transferencias a Comunidades Autónomas. |
+| 56 | Otros impuestos. |
+| 60 | Retenciones judiciales. |
+| 61 | IT nóminas. |
+| 62 | Fondo de maniobra. Operaciones no presupuestarias. |
+| 63 | Operaciones financieras de pago centralizado. |
+| 64 | Movilizaciones de fondos. |
+| 66 | Seguridad Social. |
+| 67 | Primer pago de enero. |
+| 68 | Segundo pago de enero. |
+| 69 | Primer pago de febrero. |
+| 70 | Segundo pago de febrero. |
+| 71 | Primer pago de marzo. |
+| 72 | Segundo pago de marzo. |
+| 73 | Primer pago de abril. |
+| 74 | Segundo pago de abril. |
+| 75 | Primer pago de mayo. |
+| 76 | Segundo pago de mayo. |
+| 77 | Primer pago de junio. |
+| 78 | Segundo pago de junio. |
+| 79 | Capitales renta. |
+| 80 | Devolución de ingresos. Operaciones no presupuestarias. |
+| 84 | Primer pago de julio. |
+| 85 | Segundo pago de julio. |
+| 86 | Primer pago de agosto. |
+| 87 | Segundo pago de agosto. |
+| 88 | Primer pago de septiembre. |
+| 89 | Segundo pago de septiembre. |
+| 90 | Primer pago de octubre. |
+| 91 | Segundo pago de octubre. |
+| 92 | Primer pago de noviembre. |
+| 93 | Segundo pago de noviembre. |
+| 94 | Primer pago de diciembre. |
+| 95 | Segundo pago de diciembre. |
+| 98 | Pagos sin salida material de fondos. |
+| 99 | Otros pagos no presupuestarios. |
+
+Formas de pago
+
+| Clave | Forma de pago |
+|---|---|
+| 00 | Caja. |
+| 01 | Talón de cuenta corriente. |
+| 02 | Cheque bancario. |
+| 03 | Transferencia bancaria. |
+| 04 | Pagos por relación. |
+| 05 | Giro Postal. |
+| 06 | Formalización. |
+| 07 | Cargo en cuenta |
+
+Tipos de reintegro
+
+| Tipo de reintegro | Descripción |
+|---|---|
+| 00 | Impagados de prestaciones. Ejercicio corriente. |
+| 01 | Retrocesiones de prestaciones. Ejercicio corriente. |
+| 02 | Compensación de prestaciones por pagos superpuestos. Ejercicio corriente. |
+| 03 | Reintegro de pagos indebidos de prestaciones. Ejercicio corriente. |
+| 04 | Anulaciones por rectificación de prestaciones. |
+| 10 | Reintegro IT pago delegado. |
+| 20 | Impagados de prestaciones. Presupuestos cerrados. |
+| 21 | Retrocesiones de prestaciones. Presupuestos cerrados. |
+| 22 | Compensación de prestaciones por pagos superpuestos. Presupuestos cerrados. |
+| 23 | Reintegro de pagos indebidos de prestaciones. Presupuestos cerrados. |
+| 99 | Otros. |
+
+> Se modifica por el art. 2.7 de la Resolución de 19 de junio de 2025. [Ref. BOE-A-2025-13081](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13081)
+
+> Se modifica en relación con los tipos de pagos de las entidades gestoras y Tesorería General de la Seguridad Social, por el art. 2.15 de la Resolución de 11 de octubre de 2022. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Se modifica por el art. 1.21 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774).
+
+## ANEXO III — Códigos y definiciones de operaciones no presupuestarias y de relaciones internas
+
+| Código no presup. | Cuenta | Dto. | Entidad afectada | Definición |
+|---|---|---|---|---|
+| 1 |  |  |  | DEUDORES NO PRESUPUESTARIOS |
+| 100 |  |  |  | DEUDORES A LARGO PLAZO POR APLAZAMIENTOS Y FRACCIONAMIENTOS |
+| 10010 | 2521 | – | T/M | DEUDORES A LARGO PLAZO POR APLAZAMIENTOS Y FRACCIONAMIENTOS<br>En la Tesorería General de la Seguridad Social (TGSS) y en las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social (MATEPSS), este concepto recoge derechos a cobrar por aplazamientos y fraccionamientos concedidos por la TGSS que tengan su vencimiento a largo plazo. |
+| 10020 | 2601 | – | T/EG/M | FIANZAS CONSTITUIDAS A LARGO PLAZO.<br>Efectivo entregado en concepto de fianza no presupuestaria a plazo superior a un año. |
+| 10030 | 2651 | – | T/EG/M | DEPÓSITOS CONSTITUIDOS A LARGO PLAZO.<br>Efectivo entregado en concepto de depósito irregular no presupuestario a plazo superior a un año. |
+| 101 |  |  |  | DEUDORES POR IVA REPERCUTIDO Y POR APLAZAMIENTOS Y FRACCIONAMIENTOS A CORTO PLAZO |
+| 10100 | 440 | D | T/EG/M | DEUDORES POR IVA REPERCUTIDO<br>Este concepto recoge las deudas de terceros correspondientes al IVA repercutido como consecuencia de la entrega de bienes o prestación de servicios. |
+| 10110 | 443 | – | T/M | DEUDORES A CORTO PLAZO POR APLAZAMIENTOS Y FRACCIONAMIENTOS<br>En la TGSS y MATEPSS, este concepto recoge derechos a cobrar por aplazamientos y fraccionamientos concedidos por la TGSS que tengan su vencimiento a corto plazo. |
+| 102 |  |  |  | DEUDORES POR PRESTACIONES |
+| 10210 | 448 | D | T/EG/M | DEUDORES POR PAGO INDEBIDO DE PRESTACIONES DEL SISTEMA DE LA SEGURIDAD SOCIAL.<br>En este concepto figurarán las deudas pendientes de cobro en relación con pagos indebidos de prestaciones. Al cierre del ejercicio, el sistema abonará este concepto con cargo al concepto no presupuestario 10211 «Anulación de liquidaciones de deudores por pago indebido de prestaciones del sistema de la Seguridad Social». |
+| 10211 | 448 | D | T/EG/M | ANULACIÓN DE LIQUIDACIONES DE DEUDORES POR PAGO INDEBIDO DE PRESTACIONES DEL SISTEMA DE LA SEGURIDAD SOCIAL.<br>En este concepto figurarán las anulaciones de las liquidaciones de deudas pendientes de cobro en relación con pagos indebidos de prestaciones. Al cierre del ejercicio, el sistema cargará este concepto con abono al concepto no presupuestario 10210 «Deudores por pago indebido de prestaciones del sistema de la Seguridad Social». |
+| 103 |  |  |  | OTROS DEUDORES NO PRESUPUESTARIOS |
+| 10310 | 449 | D | T/EG | PRESTACIONES ANTICIPADAS.<br>En las entidades gestoras (EEGG) y TGSS, recogerá los pagos efectuados en concepto de anticipos de pensiones y en base a las disposiciones de convenios internacionales de Seguridad Social. |
+| 10311 | 449 | D | T/EG | ANTICIPOS PERSONAL LABORAL A CTA. TRABAJOS REALIZADOS<br>En las EEGG y TGSS se imputaran a este concepto los anticipos que se conceden al personal laboral en virtud de la normativa vigente. El reintegro se producirá al mes siguiente del pago mediante descuento en el documento presupuestario de la nómina. |
+| 10312 | 449 | D | M | RESPONSABILIDAD EMPRESARIAL DE PRESTACIONES DISTINTAS A UNA PENSIÓN.<br>En las Mutuas colaboradoras con la Seguridad Social (MCSS) se imputarán a este concepto deudores no presupuestarios frente a la empresa declarada responsable, en los casos de incumplimiento de sus obligaciones en materia de afiliación, alta, baja y cotización, según el artículo 167 de la Ley General de la Seguridad Social (LGSS), cuando la prestación causada es distinta a una pensión. |
+| 10313 | 449 | D | M | RESPONSABILIDAD EMPRESARIAL DE PENSIONES.<br>En las MCSS se imputarán a este concepto deudores no presupuestarios frente a la empresa declarada responsable, en los casos de incumplimiento de sus obligaciones en materia de afiliación, alta, baja y cotización, según el artículo 167 de la LGSS, cuando la prestación causada es una pensión objeto de capitalización en la TGSS. |
+| 10319 | 449 | D | T/EG/M | OTROS ANTICIPOS Y PRESTAMOS<br>Se imputaran aquellos anticipos y prestamos que por su carácter irregular no tengan aplicación presupuestaria. |
+| 10330 | 449 | D | T | COMUNIDADES AUTONOMAS<br>En la TGSS, se imputarán aquellas operaciones que representen un crédito para la Seguridad Social a pagar por las Comunidades Autónomas (CCAA) por cotizaciones a la Seguridad Social, de conformidad con los acuerdos suscritos, así como los importes correspondientes a las reclamaciones por los boletines de cotización no presentados por las CCAA. |
+| 10331 | 449 | D | T | CORPORACIONES LOCALES<br>En la TGSS, se imputarán aquellas operaciones que representen un crédito para la Seguridad Social a pagar por las Corporaciones Locales (CCLL) por cotizaciones a la Seguridad Social, de conformidad con los acuerdos suscritos, así como los importes correspondientes a las reclamaciones por los boletines de cotización no presentados por las CCLL. |
+| 10332 | 449 | D | T/EG | CONVENIOS INTERNACIONALES<br>En las EEGG y TGSS, este concepto recogerá las partidas que deban imputarse al mismo en calidad de deudores. |
+| 10340 | 449 | – | T/EG | MUTUALIDAD DE FUNCIONARIOS DEL EXTINGUIDO MUTUALISMO LABORAL<br>En las EEGG y TGSS, a este concepto se imputarán los pagos por cuenta de la citada Mutualidad y todas las operaciones de diferencias de regularización, liquidación y devolución de cuotas, según establece la Circular n° 14/1991, de 18 de diciembre del INSS. |
+| 10341 | 449 | – | T/EG | MUTUALIDAD DE PREVISIÓN DE FUNCIONARIOS DEL EXTINGUIDO INP<br>En las EEGG y TGSS, se imputarán operaciones de rectificación deudoras que puedan surgir por errores contables no procede devolución de cuotas, ya que el personal integrante de la citada Mutualidad pudo optar en 1984 a la integración en el Fondo de Previsión Complementaria. |
+| 10343 | 449 | D | T/EG | EXTINGUIDA MUNPAL<br>En las EEGG y TGSS, este concepto se utiliza para recoger los pagos realizados por el INSS que deban imputarse a la cuenta de liquidación de MUNPAL. |
+| 10350 | 449 | D | T | INGRESOS INSUFICIENTES ENTIDADES BANCARIAS DIFERENCIAS TR3 CON TESORERÍA GENERAL<br>En la TGSS, se imputará a este concepto la diferencia existente entre el resumen efectuado por la entidad financiera del líquido de la recaudación (TR-3) y lo ingresado en las cuentas centralizadas de la Tesorería General por recaudación. |
+| 10351 | 449 | D | T | INGRESOS INSUFICIENTES ENTIDADES BANCARIAS. DIFERENCIAS TR-3 CON EL TRATAMIENTO DE LOS BOLETINES DE COTIZACIÓN (TG02) En la TGSS, se imputará a este concepto la diferencia existente entre el resumen efectuado por la entidad financiera del líquido de la recaudación (TR-3) y el importe obtenido del tratamiento de los boletines de cotización (proceso TG-02). |
+| 10360 | 449 | – | T | ESTADO, CUENTA LIQUIDACIÓN FINANCIACIONES AFECTADAS<br>En los SSCC TGSS, este concepto recogerá el saldo de las cuentas de liquidación frente al Estado por financiaciones afectadas cuando este resulte a favor de la Seguridad Social. |
+| 10361 | 449 | – | T | ESTADO, CUENTA LIQUIDACIÓN FINANCIACIÓN FONDOS EUROPEOS.<br>En los SSCC TGSS, este concepto recogerá el saldo de las cuentas de liquidación frente al Estado por financiación de fondos europeos, cuando este resulte a favor de la Seguridad Social. |
+| 10365 | 449 | – | T | TESORO PÚBLICO. SUBASTAS DE LIQUIDEZ<br>En los SSCC TGSS, recoge el saldo frente al Tesoro Público por las transferencias de fondos realizadas al mismo y recibidas de éste por las operaciones de subastas de liquidez realizadas por el Tesoro respecto de los importes transferidos por la TGSS. |
+| 10370 | 449 | D | T/EG/M | PAGOS POR CUENTA DE TERCEROS ADJUDICATARIOS DE OBRAS, SUMINISTROS Y SERVICIOS<br>Recogerá los pagos no presupuestarios realizados por cuenta de terceros adjudicatarios de obras, suministros servicios cuando se hallen debidamente autorizados. |
+| 10399 | 449 | D | T/EG/M | OTROS DEUDORES<br>Se imputarán las deudas de terceros respecto a la Seguridad Social, de naturaleza no presupuestaria, no incluidas en los conceptos anteriores. |
+| 104 |  |  |  | DEUDORES POR ADMINISTRACIÓN DE RECURSOS ATRIBUIDOS A OTROS ENTES Y CUENTAS DE RELACIONES CON ELLOS<br>Esos conceptos se reservan a los centros de gestión de la Tesorería General. |
+| 10410 | 4560 | D | T | SERVICIO PÚBLICO DE EMPLEO ESTATAL A este concepto se imputará los pagos y anticipos por administración de recursos atribuidos al SPPE así como cualquier otra entrega que se realice por cuenta de este organismo. |
+| 10420 | 4561 | D | T | FONDO DE GARANTÍA SALARIAL A este concepto se imputará los pagos y anticipos por administración de recursos atribuidos al FOGASA, así como cualquier otra entrega que se realice por cuenta de este organismo. |
+| 10430 | 4562 | D | T | MUTUAS DE ACCIDENTES DE TRABAJO Y ENEFERMEDADES PROFESIONALES DE LA SEGURIDAD SOCIAL<br>Se imputará el importe de las transferencias remitidas por la TGSS a las distintas MATEPSS a cuenta de la recaudación, así como las cantidades que corresponda imputar a las mismas por cualquier otro concepto. |
+| 10440 | 4563 | D | T | PARTICIPES EN LAS CUOTAS DE FORMACIÓN PROFESIONAL<br>Se imputará el importe de las cantidades entregadas a cuenta de las cuotas de formación profesional. Se imputará asimismo el importe de la bonificación practicada por las empresas en concepto de formación continua a que se refiere el Real Decreto 1046/2003. |
+| 10450 | 4564 | D | T | PLANES DE REESTRUCTURACIÓN<br>Se imputarán a este concepto los importes de las resoluciones de reconocimiento de derecho a prestaciones indemnizatorias de los trabajadores afectados por los planes de reestructuración y que se anticipan por la Seguridad Social, con cargo a las cuotas complementarias de desempleo que deben abonar las empresas de los correspondientes sectores. |
+| 10499 | 4569 | D | T | OTROS ENTES<br>Se imputarán los pagos por cuenta de organismos del Ministerio de Empleo y Seguridad Social no definidos en los epígrafes anteriores. |
+| 105 |  |  |  | HACIENDA PÚBLICA, DEUDOR |
+| 10500 | 4700 | D | T/EG/M | HACIENDA PÚBLICA, DEUDOR POR IVA<br>Recoge el exceso en cada periodo impositivo del IVA soportado y deducible sobre el IVA repercutido. |
+| 10507 | 4707 | D | T/EG/M | HACIENDA PÚBLICA, DEUDOR POR IGIC<br>Recoge el exceso, en cada periodo impositivo, del IGIC soportado y deducible sobre el IGIC repercutido. |
+| 10509 | 4709 | D | T/EG/M | OTROS CONCEPTOS<br>Recoge créditos a favor de la entidad por otras causas distintas de los códigos 10500 y 10507. |
+| 106 |  |  |  | ORGANISMOS DE PREVISIÓN SOCIAL, DEUDORES |
+| 10610 | 4710 | D | T/EG/M | INCAPACIDAD TEMPORAL<br>Por el importe correspondiente de la incapacidad temporal, los centros de gestión confeccionarán un documento OEK aplicado a este concepto. La cancelación se efectuará con la liquidación de cuotas del centro correspondiente. |
+| 107 |  |  |  | HACIENDA PÚBLICA, IVA SOPORTADO. |
+| 10720 | 4720 | D | T/EG/M | IVA SOPORTADO<br>Este concepto recoge el IVA soportado con motivo de la adquisición de bienes y servicios y de otras operaciones comprendidas en los textos legales que tengan carácter deducible. |
+| 10727 | 4727 | D | T/EG/M | IGIC SOPORTADO<br>Este concepto recoge el IGIC soportado con motivo de la adquisición de bienes y servicios y de otras operaciones comprendidas en los textos legales que tengan carácter deducible. |
+| 108 |  |  |  | DEPÓSITOS CONSTITUIDOS |
+| 10800 | 5651 | – | T/EG/M | FIANZAS CONSTITUIDAS A CORTO PLAZO.<br>Efectivo entregado en concepto de fianza no presupuestaria a plazo no superior a un año. |
+| 10810 | 5661 | – | T/EG/M | DEPÓSITOS CONSTITUIDOS<br>Efectivo entregado en concepto de depósito irregular no presupuestario. |
+| 2 |  |  |  | ACREEDORES NO PRESUPUESTARIOS |
+| 200 |  |  |  | FIANZAS Y DEPÓSITOS RECIBIDOS A LARGO PLAZO |
+| 20010 | 180 | D | T/EG/M | FIANZAS DE PROVEEDORES Y CONCURSANTES<br>Se imputará a este concepto el efectivo recibido con motivo de la adjudicación de contratos de obras, servicios o suministros, como garantía del cumplimiento de una obligación. |
+| 20020 | 180 | D | T/EG/M | OTRAS FIANZAS A LARGO PLAZO<br>Se imputará el efectivo recibido como garantía de otros actos distintos de los contenidos en el concepto anterior, con vencimiento a medio y largo plazo. |
+| 20030 | 185 | D | T/EG/M | DEPÓSITOS RECIBIDOS A LARGO PLAZO<br>Se imputará el efectivo recibido en calidad de depósitos, con vencimiento a medio y largo plazo. |
+| 201 |  |  |  | ACREEDORES POR IVA SOPORTADO |
+| 20110 | 410 | D | T/EG/M | ACREEDORES POR IVA SOPORTADO<br>Este concepto recoge las deudas con terceros correspondientes al IVA soportado, que tenga la condición de deducible y que se origina por la adquisición de bienes o servicios. |
+| 203 |  |  |  | OTROS ACREEDORES NO PRESUPUESTARIOS |
+| 20310 | 419 | D | T/EG/M | RETENCIONES JUDICIALES SOBRE LIBRAMIENTOS DE NÓMINAS<br>Retenciones efectuadas en las nóminas de personal y pensionistas por estos conceptos. |
+| 20311 | 419 | D | T/EG/M | RETENCIONES JUDICIALES SOBRE OTROS LIBRAMIENTOS<br>Retenciones efectuadas en pago a terceros no incluidas en el concepto anterior. |
+| 20312 | 419 | D | T/EG/M | RETENCIONES EN EL PAGO DE LIBRAMIENTOS A FAVOR DE ENTIDADES DEL SISTEMA<br>Este concepto recogerá las retenciones efectuadas en los documentos presupuestarios de pago emitidos por los centros, cuando el perceptor es un deudor de otra entidad del sistema. |
+| 20313 | 419 | D | T/EG/M | RETENCIONES EN EL PAGO DE LIBRAMIENTOS A FAVOR LAS URES DE LA SS Se aplicarán las retenciones efectuadas en los pagos a terceros previa notificación de una unidad de recaudación ejecutiva. |
+| 20314 | 419 | D | T/EG/M | RETENCIONES EN EL PAGO DE LIBRAMIENTOS A FAVOR DEL SPEE<br>Se imputarán las retenciones de desempleo efectuadas en el pago de prestaciones económicas. |
+| 20315 | 419 | D | T/EG/M | RETENCIONES EN EL PAGO DE LIBRAMIENTOS A FAVOR DE LA AGENCIA TRIBUTARIA<br>Se aplicarán las retenciones efectuadas en los pagos a terceros previa notificación de embargo de la Agencia Estatal de la Administración Tributaria. |
+| 20316 | 419 | D | T/EG/M | RETENCIONES EN EL PAGO DE LIBRAMIENTOS A FAVOR DE OTROS ORGANISMOS DE LA ADMINISTRACIÓN CENTRAL, TERRITORIAL, AUTONÓMICA O LOCAL<br>Se aplicarán las retenciones efectuadas en los pagos a terceros, previa la correspondiente notificación del organismo interesado. |
+| 20317 | 419 | D | T/EG | RETENCIÓN EN EL PAGO DEL NIVEL MÍNIMO DE PROTECCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA<br>En el IMSERSO, este concepto recogerá las retenciones efectuadas en el pago de las transferencias a las Comunidades Autónomas para la atención a las personas en situación de dependencia en su nivel mínimo de protección, como consecuencia de pagos indebidos realizados a aquellas. Estas cantidades serán finalmente aplicadas al presupuesto de ingresos de la TGSS. |
+| 20318 | 419 | D | T | RESPONSABILIDAD EMPRESARIAL DE PENSIONES.<br>En la TGSS se imputarán a este concepto acreedores no presupuestarios frente a las MCSS ante supuestos de empresas declaradas responsables por incumplimiento de sus obligaciones en materia de afiliación, alta, baja y cotización, cuando la prestación causada es una pensión objeto de capitalización en la TGSS. |
+| 20321 | 419 | D | T/EG/M | CUOTAS SINDICALES<br>Se imputarán las retenciones practicadas en la nómina de personal a favor de las organizaciones sindicales. |
+| 20322 | 419 | D | T/EG | MONTEPÍO DE LA MINERÍA DEL CARBÓN<br>En las EEGG y TGSS, importe de la cuota descontada a los pensionistas asociados al Montepío de la minería del carbón |
+| 20323 | 419 | D | T/EG | ORGANIZACIÓN SOCIAL DE GRANDES INVÁLIDOS<br>En las EEGG y TGSS, se imputarán a este concepto los reintegros de préstamos deducidos a pensionistas beneficiarios de la OSGI |
+| 20324 | 419 | D | T/EG | REINTEGROS FAS<br>En las EEGG y TGSS, se imputará el importe total o parcial de la recuperación de la pensión asistencial que el pensionista ha cobrado de forma indebida. Se seguirán los trámites establecidos en la Resolución de la Dirección General de Planificación y Ordenación Económica de la Seguridad Social de fecha 16 de enero de 1992. |
+| 20329 | 419 | D | T/EG/M | OTROS DEPÓSITOS RECIBIDOS A DISPOSICIÓN DE TERCEROS<br>Se imputarán a este concepto las cantidades retenidas en el pago de libramientos, o los ingresos realizados, que deban figurar como depósitos a disposición de terceros, no recogidos en los conceptos anteriores. |
+| 20331 | 419 | D | T | COMUNIDADES AUTÓNOMAS<br>En la TGSS, se imputarán aquellas operaciones que representan un débito para la Seguridad Social a favor de las CCAA. En concreto se recogerán los abonos por cotizaciones a la Seguridad Social efectuadas por las CCAA, de conformidad con los acuerdos suscritos con la TGSS. |
+| 20332 | 419 | D | T | CORPORACIONES LOCALES<br>En la TGSS, se imputarán aquellas operaciones que representan un débito para la Seguridad Social a favor de las CCLL. En concreto se recogerán los abonos por cotizaciones a la Seguridad Social efectuadas por las CCLL, de conformidad con los acuerdos suscritos con la TGSS. |
+| 20333 | 419 | D | T/EG | CONVENIOS INTERNACIONALES<br>En las EEGG y TGSS, se imputarán los importes remitidos por los Organismos de la Seguridad Social de otros países, en virtud de convenios internacionales, que están destinados al pago de prestaciones por ellos reconocidas. |
+| 20340 | 419 | D | T | INGRESOS EXCESIVOS ENTIDADES BANCARIAS DIFERENCIAS TR-3 CON LA TESORERÍA GENERAL<br>En las DDPP TGSS, se imputará a este concepto la diferencia existente entre el importe total de recaudación líquida, TR-3 y lo ingresado en las cuentas centralizadas de la Tesorería General por recaudación. |
+| 20341 | 419 | D | T | INGRESOS EXCESIVOS ENTIDADES BANCARIAS DIFERENCIAS TR-3 CON TG-02 En las DDPP TGSS, se imputará en las DPTG las diferencias existentes entre el importe total de la recaudación líquida, TR-3 y el importe facilitado por el proceso TG-02. |
+| 20342 | 419 | – | T | INGRESOS DUPLICADOS O EXCESIVOS. PARTICULARES O EMPRESAS. En la TGSS, recoge los ingresos duplicados o excesivos que se detecten antes de imputarlos a la cuenta de deudores por derechos reconocidos. Se cancelará con el pago al tercero. |
+| 20350 | 419 | D | T/EG | PRESTACIONES SUSTITUTORIAS<br>En lasa EEGG y TGSS, se imputará a este concepto el importe de la prestación que ha sido pagada al interesado por la entidad sustitutoria, una vez que se ha producido su integración en la Seguridad Social y por lo tanto la aplicación presupuestaria corresponde al INSS. La liquidación se efectuará en la forma que oportunamente se determine. |
+| 20351 | 419 | D | T | RETENCIONES POR PAGO DE HIPOTECAS<br>En los SSCC TGSS, importe de la retención efectuada en la entrega del capital prestado a los funcionarios de la Seguridad Social para la cancelación de hipoteca de la vivienda adquirida. |
+| 20352 | 419 | D | T/EG | PRESTACIONES ECONÓMICAS DE PAGO DIFERIDO<br>En lasa EEGG y TGSS, se aplicará este concepto en las prestaciones a favor de residentes en el extranjero cuando el devengo se produce con anterioridad a la fecha real de pago. |
+| 20360 | 419 | – | T | ESTADO. CUENTA DE LIQUIDACIÓN DE FINANCIACIONES AFECTADAS<br>En los SSCC TGSS, este concepto recogerá el saldo de las cuentas de liquidación frente al Estado por financiaciones afectadas, cuando este resulte un saldo a favor del Estado. |
+| 20361 | 419 | – | T | ESTADO, CUENTA LIQUIDACIÓN FINANCIACIÓN FONDOS EUROPEOS.<br>En los SSCC TGSS, este concepto recogerá el saldo de las cuentas de liquidación frente al Estado por financiación de fondos europeos, cuando este resulte a favor del Estado. |
+| 20380 | 419 | D | T/EG | REMANENTES DE LIBRAMIENTOS A JUSTIFICAR Y OTROS INGRESOS EN EL EXTRANJERO. ISM<br>En el ISM, este concepto recoge los ingresos producidos en los Centros Asistenciales en el extranjero (CASES) que resulten compensables con nuevos libramientos de fondos a justificar, en virtud de la normativa aplicable. Este concepto se cancelará en el momento de formalizar el abono a la Seguridad Social de tales importes, para su aplicación al presupuesto de ingresos. |
+| 20390 | 419 | D | T/EG | RETRIBUCIONES PERSONAL EN EL EXTRANJERO ISM<br>En el ISM, se imputará el importe deducido en la nómina que corresponde al personal de los CASES que se paga con cargo al sistema de «pagos a justificar». |
+| 20399 | 419 | D | T/EG/M | OTROS ACREEDORES<br>Se imputarán aquellas operaciones que representando un débito para la Seguridad Social, no corresponden específicamente a ningún concepto anterior. |
+| 204 |  |  |  | ACREEDORES POR ADMINISTRACIÓN DE RECURSOS ATRIBUIDOS A OTROS ENTES Y CUENTAS DE RELACIONES CON ELLOS<br>Estos conceptos se reservan a los Centros de gestión de la TGSS. |
+| 20410 | 4560 | D | T | SERVICIO PÚBLICO DE EMPLEO ESTATAL<br>En este concepto se reflejarán las cuotas de desempleo derivadas del tratamiento de recaudación, el reintegro de prestaciones indebidas y otras operaciones a favor del SPEE. |
+| 20420 | 4561 | D | T | FONDO DE GARANTÍA SALARIAL<br>Se aplicará a este concepto la recaudación y otras operaciones a favor del Fondo de Garantía Salarial. |
+| 20430 | 4562 | D | T | MUTUAS DE ACCIDENTES DE TRABAJO Y ENFERMEDADES PROFESIONALES DE LA SEGURIDAD SOCIAL<br>Se imputará a este concepto las cuotas de accidentes de trabajo ingresadas por las empresas a favor de las MATEPSS, la participación del reaseguro en las prestaciones pagadas directamente por las MATEPSS y otras operaciones acreedoras. |
+| 20440 | 4563 | D | T | PARTICIPES EN LAS CUOTAS DE FORMACIÓN PROFESIONAL. SEPE.<br>Se imputarán las cuotas recaudadas por formación profesional a favor del Servicio Público de Empleo Estatal. |
+| 20441 | 4563 | D | T | PARTICIPES EN LAS CUOTAS DE FORMACIÓN PROFESIONAL. MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES.<br>Se imputarán las cuotas recaudadas por formación profesional a favor del Ministerio de Educación, Formación Profesional y Deportes. |
+| 20450 | 4564 | D | T | PLANES DE REESTRUCTURACIÓN<br>Se imputará el importe de las cuotas recaudadas por su cuenta y el arbitrio sobre algodón importado. |
+| 20460 | 4569 | D | T | MINISTERIO DE ECONOMÍA Y HACIENDA. RIESGOS CATASTRÓFICOS<br>Se imputará el importe por riesgo catastrófico que se recauda junto con las cuotas del sistema. |
+| 20461 | 4569 | D | T | MINISTERIO DE ECONOMÍA Y HACIENDA. INGRESOS REALIZADOS POR PRESTACIÓN DE SERVICIOS DEL INGESA, A FAVOR DEL TESORO PÚBLICO<br>Se recogerán los ingresos efectivamente realizados por éste concepto. |
+| 20462 | 4569 | D | T | M.E.H. INGRESOS PRESTACION S.A.S. GESTIONADA POR CC.AA. A FAVOR DEL TESORO PUBLICO<br>Se imputaran los ingresos procedentes de la prestación de servicios de asistencia sanitaria dispensada por los órganos correspondientes de las CCAA que, con origen en el tratamiento de la recaudación, corresponde liquidar a favor del Tesoro Público. |
+| 20463 | 4569 | D | EG | M. HACIENDA Y A.P. INGR. ASISTE SANITE INTERNAC. POR SALDO CC.AA. CON FONDO COHESIÓN SANITARIA A FAVOR TESORO<br>Se imputarán los ingresos procedentes de la prestación de la asistencia sanitaria internacional dispensada por los órganos correspondientes de las CC.AA. que como consecuencia de los saldos de las mismas con el Fondo de Cohesión Sanitaria, corresponde liquidar a favor del Tesoro Público (D.A. 71E Ley P-G.E. 2013). |
+| 20499 | 4569 | – | T | OTROS ACREEDORES POR RECURSOS ADMINISTRADOS<br>Se imputarán los recursos recaudados por la Seguridad Social por cuenta de otros Entes no definidos en los conceptos anteriores. |
+| 205 |  |  |  | HACIENDA PÚBLICA, ACREEDOR |
+| 20505 | 4750 | D | T/EG/M | HACIENDA PÚBLICA, ACREEDOR POR IVA A este concepto se imputará el IVA. que la Seguridad Social repercute, por aquellas operaciones obligadas. |
+| 20510 | 4751 | D | T/EG/M | IRPF. RETRIBUCIONES DE PERSONAL, PRESTACIONES Y OTROS<br>Este concepto se destina a contabilizar las retenciones practicadas en el pago de retribuciones al personal, prestaciones y otros pagos a terceros, excluidos los perceptores de prestaciones en el extranjero, a favor de la Hacienda Pública. |
+| 20511 | 4751 | D | T/EG/M | IMPUESTO SOBRE LA RENTA DE NO RESIDENTES. PRESTACIONES PAGADAS EN EL EXTRANJERO<br>Este concepto se destina a contabilizar las retenciones practicadas en el pago de prestaciones en el extranjero, a favor de la Hacienda Pública. |
+| 20515 | 4751 | D | T/EG/M | RETENCIONES EN EL PAGO DE ALQUILERES A CUENTA DEL IRPF Y DEL IS Se recogerán en este concepto las retenciones practicadas a cuenta del IRPF y del Impuesto de Sociedades en relación con el pago de alquileres sobre inmuebles urbanos arrendados, en cumplimiento de lo dispuesto en la normativa tributaria vigente. |
+| 20530 | 4751 | D | T/EG | CUOTAS POR DERECHOS PASIVOS DE FUNCIONARIOS<br>En las EEGG y TGSS, se destina a contabilizar las cuotas retenidas en el pago de retribuciones de los funcionarios a favor de la Hacienda Pública. |
+| 20540 | 4757 | D | T/EG/M | HACIENDA PÚBLICA, ACREEDOR POR IGIC A este concepto se imputará el Impuesto General Indirecto Canario, en los casos en que corresponda. |
+| 20590 | 4759 | D | T/EG/M | IPSI A este concepto se imputará el Impuesto sobre Producción, los Servicios y la Importación, en las ciudades de Ceuta y Melilla por aquellas operaciones sujetas al mismo. |
+| 20599 | 4759 | D | T/EG/M | OTROS CONCEPTOS<br>Ingresos a favor de la Hacienda Pública no recogidos de forma expresa en los apartados anteriores. |
+| 206 |  |  |  | ORGANISMOS DE PREVISIÓN SOCIAL, ACREEDORES |
+| 20610 | 4760 | D | T/EG/M | CUOTAS DE SEGURIDAD SOCIAL DE EMPLEADORES<br>Recoge el importe de la cuota patronal del personal al servicio de la Seguridad Social. |
+| 20620 | 4760 | D | T/EG/M | CUOTAS DE SEGURIDAD SOCIAL DE TRABAJADORES<br>Recoge el importe retenido por este concepto al efectuar el pago de las nóminas al personal. |
+| 20621 | 4760 | D | T/EG | DEVOLUCIÓN DE CUOTAS DE SEGURIDAD SOCIAL.<br>Recoge el importe de las cuotas de la Seguridad Social reintegradas por la TGSS a los centros gestores de la nómina, para regularizar el importe de las mismas. |
+| 20630 | 4760 | D | T/EG/M | CUOTAS DEDUCIDAS DE PRESTACIONES<br>Importe de las cuotas pendientes de cobro, cuyo deudor es un perceptor de prestaciones de la Seguridad Social. La retención se efectuará en el documento presupuestario de pago de prestaciones. |
+| 20631 | 4760 | D | EG/SC | DEVOLUCION DE CUOTAS DEDUCIDAS DE SUBSIDIOS<br>Importe de las cuotas de la Seguridad Social deducidas en las nóminas de subsidios de prestaciones del INSS y el ISM, reintegradas por la TGSS a los centros gestores de estas entidades, para regularizar el importe de las mismas. |
+| 20635 | 4760 | D | T/EG/M | CUOTAS OBRERAS DE LA SS DE TRABAJADORES EN SITUACIÓN DE MATERNIDAD, PATERNIDAD, RIESGO DURANTE EL EMBARAZO Y RIESGO DURANTE LA LACTANCIA NATURAL<br>Recoge el importe retenido por este concepto a los beneficiarios de las prestaciones señaladas, que en el caso de las MATEPSS alcanza solamente a las prestaciones de riesgo durante el embarazo y riesgo durante la lactancia natural. |
+| 20641 | 4760 | D | T/EG | AMORTIZACIÓN CAPITAL RENTA-RELIGIOSOS<br>En las EEGG y TGSS, recoge el importe de la amortización que se deduce como descuento en el documento presupuestario de pago de prestaciones a religiosos. |
+| 20642 | 4760 | D | T/EG | AMORTIZACIÓN CAPITAL RENTA-MIEMBROS DE LAS CORPORACIONES LOCALES<br>En las EEGG y TGSS, recoge el importe de la amortización que se deduce como descuento en el documento presupuestario de pago de prestaciones a los miembros de corporaciones locales comprendidos en el ámbito de aplicación del RD 1108/2007. |
+| 20650 | 4760 | D | T/EG | FONDO ESPECIAL INP (1.5%) En las EEGG y TGSS, a este concepto se imputan las retenciones a favor del Fondo Especial practicadas en el pago de retribuciones del personal. |
+| 20651 | 4760 | D | T/EG | FONDO ESPECIAL ML (1.5%) En las EEGG y TGSS, a este concepto se imputan las retenciones a favor del Fondo Especial practicadas en el pago de retribuciones del personal. |
+| 20652 | 4760 | D | T/EG | FONDO ESPECIAL ART 91 ML (0.6%) En las EEGG y TGSS, a este concepto se imputan las retenciones a favor del Fondo Especial practicadas en el pago de retribuciones del personal. |
+| 20660 | 4760 | D | T/EG | SEGURO DE AMORTIZACION DE PRESTAMOS<br>En las EEGG y TGSS, a este concepto se imputan las cantidades correspondientes. |
+| 20661 | 4760 | D | T/EG | DOTE INFANTIL<br>En las EEGG y TGSS, recoge el importe de las retenciones efectuadas aquellos funcionarios acogidos al Régimen de Previsión voluntaria (seguro dotal). |
+| 20670 | 4760 | D | T/EG/M | AMORTIZACIÓN ANTICIPOS ORDINARIOS<br>Recoge el importe de los reintegros de los anticipos ordinarios concedidos, mediante deducción en la nómina de los Centros o bien mediante el ingreso en cuentas bancarias especiales de ingresos o directamente en la cuenta de recursos diversos provinciales |
+| 20671 | 4760 | D | T/EG | AMORTIZACIÓN ANTICIPOS EXTRAORDINARIOS<br>En las EEGG y TGSS, recoge el importe de los reintegros de los anticipos extraordinarios concedidos, al amparo de los Estatutos de Personal. La concesión de estos anticipos ha quedado derogada por la Orden de 10 de enero de 1984 del Ministerio de Trabajo y Seguridad Social. No obstante la Dirección General del Insalud según establece la Circular 18/1985 puede conceder anticipos extraordinarios al Personal sanitario titulado y Auxiliar de Clínica y al Personal no sanitario al servicio de las Instituciones sanitarias de la Seguridad Social. |
+| 20672 | 4760 | D | M | AMORTIZACIÓN PRESTAMOS SIN INTERÉS<br>En las MATEPSS, recoge el importe de los reintegros de préstamos sin interés concedidos a su personal. |
+| 20673 | 4760 | D | T/EG/M | AMORTIZACIÓN PRESTAMOS CON INTERÉS<br>Recogerá el importe de las anualidades ingresadas por los empleados prestatarios o, en su caso, de las cantidades retenidas en nómina por este mismo concepto. |
+| 20681 | 4760 | D | T/EG | REINTEGROS LGD (ANTIGUA LISMI) En las EEGG y TGSS, se imputará el importe total o parcial de la prestación que el beneficiario ha cobrado de forma indebida. |
+| 20682 | 4760 | D | T/EG/M | REINTEGROS DE RETRIBUCIONES DE PERSONAL<br>Importe de las retribuciones que el personal ha cobrado de forma indebida. |
+| 20683 | 4760 | D | T/EG/M | RETENCIÓN EN EL PAGO DE LIBRAMIENTOS POR PENALIZACIÓN<br>Se imputarán a este concepto las cantidades retenidas en libramientos por el importe de las penalizaciones impuestas al contratista en la ejecución de los contratos en aplicación texto refundido de la Ley de contratos del sector público aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre. |
+| 20684 | 4760 | D | T/EG/M | CASA HABITACIÓN<br>Se imputarán las retenciones practicadas en las nóminas de personal por este concepto. |
+| 20685 | 4760 | D | T/EG/M | GASTOS SUPLIDOS POR CUENTA DE TERCEROS<br>Este concepto recogerá todos aquellos gastos cualquiera que sea su naturaleza que realizados inicialmente por la Seguridad Social, puedan repercutirse legalmente sobre terceros. |
+| 20689 | 4760 | D | T/EG/M | OTROS CONCEPTOS<br>Se imputarán las retenciones practicadas en las nóminas de personal no incluidas en conceptos anteriores. También se imputarán a este concepto las cantidades retenidas en el pago de libramientos, no incluidas en los conceptos anteriores, que deban figurar como recursos de la Seguridad Social. |
+| 20690 | 4769 | D | T/EG | MUFACE<br>En las EEGG y TGSS, se imputará el importe de las retenciones practicadas en la nómina a funcionarios correspondiente a la cotización a favor de la Mutualidad de funcionarios de la Administración General del Estado. |
+| 20691 | 4769 | D | T/EG | ISFAS<br>En las EEGG y TGSS, se imputará el importe deducido en la nómina al personal en concepto de cotización a favor del Instituto Social de las Fuerzas Armadas. |
+| 20692 | 4769 | D | T/EG | EXTINGUIDA MUNPAL<br>En las EEGG y TGSS, se imputarán las retenciones efectuadas en la nómina al personal a favor de la MUNPAL, así como los demás ingresos que deban imputarse a la cuenta de liquidación de MUNPAL. A este respecto, los centros de gestión donde figuren estos importes realizarán el traspaso de este concepto a la DDPP TGSS y estos, a su vez los traspasarán a los SSCC TGSS, para finalmente éstos traspasarlo a los SSCC INSS. |
+| 20693 | 4769 | D | T/EG | MUTUALIDAD PREVISIÓN FUNCIONARIOS EXTINGUIDO INP- REINTEGRO DE PRÉSTAMOS<br>En las EEGG y TGSS, se imputará el importe de los reintegros de los préstamos concedidos por la Mutualidad de Previsión de Funcionarios del extinguido INP. |
+| 20694 | 4769 | D | T/EG | FONDO DE PREVISIÓN COMPLEMENTARIA<br>En las EEGG y TGSS, este concepto todas las operaciones por cuenta del citado Fondo y las derivadas de diferencias de regularización, liquidación y devolución de cuotas, según establece la Circular n° 14/1991, de 18 de Diciembre del INSS. |
+| 207 |  |  |  | HACIENDA PÚBLICA, IVA REPERCUTIDO |
+| 20720 | 4770 | D | T/EG/M | IVA REPERCUTIDO<br>Este concepto recoge el IVA devengado con motivo de la entrega de bienes o la prestación de servicios y de otras operaciones comprendidas en los textos legales. |
+| 20727 | 4777 | D | T/EG/M | IGIC REPERCUTIDO<br>Este concepto recoge el IGIC devengado con motivo de la entrega de bienes o la prestación de servicios y de otras operaciones comprendidas en los textos legales. |
+| 208 |  |  |  | FIANZAS Y DEPÓSITOS RECIBIDOS A CORTO PLAZO |
+| 20815 | 560 | D | T/EG/M | FIANZAS RECIBIDAS A CORTO PLAZO<br>Se imputará el efectivo recibido como garantía de determinados actos, cuyo vencimiento es a corto plazo. No se registrarán en este concepto las fianzas de proveedores concursantes, ya que se aplicarán al código 20010. |
+| 20820 | 561 | – | T/EG/M | DEPÓSITOS RECIBIDOS A CORTO PLAZO<br>Efectivo recibido en concepto de depósito a corto plazo. |
+| 3 |  |  |  | PARTIDAS PENDIENTES DE APLICACIÓN DE ORIGEN ACREEDOR |
+| 301 |  |  |  | COBROS PENDIENTES DE APLICACIÓN |
+| 30105 | 5501 | D | M | OPERACIONES ACREEDORAS CON TGSS<br>En las MATEPSS, recoge los movimientos de fondos internos entre éstas y la TGSS, de carácter acreedor. |
+| 30110 | 5540 | D | T/M | INGRESOS MATERIALES Y VIRTUALES PENDIENTES DE APLICACIÓN<br>En la TGSS y MATEPSS, se imputarán a este concepto los ingresos realizados en las cuentas bancarias, con excepción de los que correspondan a cuentas del fondo de maniobra y a remesas de efectivo recibidas. |
+| 30115 | 5540 | D | T/M | INGRESOS PROCEDENTES DE RETENCIONES EN EL PAGO DE LIBRAMIENTOS<br>En la TGSS y MATEPSS, este concepto recogerá los ingresos procedentes de retenciones realizadas directamente por las cajas pagadoras en la fase «P» de los documentos de pago, tanto presupuestarios como no presupuestarios. |
+| 30120 | 5541 | D | T | RLPT-ENTIDAD ES FINANCIERAS<br>En la TGSS, los abonos a este concepto se realizan automáticamente en función de los documentos OEIC que expiden los SSCCTGSS y los cargos en el momento de la expedición de los documentos FI para aplicación de la recaudación. |
+| 30121 | 5541 | D | T/M | RLPT-COMPENSACIÓN EN CUENTA<br>En la TGSS y MATEPSS, los abonos a este concepto se realizan automáticamente al formalizar los pagos de los documentos expedidos por los centros de gestión, para el abono a la Seguridad Social de las cantidades que proceda aplicar al presupuesto de ingresos. Los cargos se realizan en el momento de la expedición de los documentos FI para la aplicación de la recaudación. En la TGSS, también se producen automáticamente los abonos que procedan por documentos OEIC expedidos por los SSCCTGSS, en forma similar a la del concepto anterior. |
+| 30123 | 5541 | D | T | RLPT-GIRO POSTAL<br>En la TGSS, recoge los ingresos recibidos por giro postal, previo el tratamiento reglamentario que ha de darse a los mismos. Los cargos en este concepto se realizan en el momento de la formalización de los ingresos. |
+| 30126 | 5541 | D | T | RLPT-POR BANCO DE ESPAÑA<br>En la TGSS, se reflejarán todos los ingresos que se produzcan a través del Banco de España por recaudación. Su funcionamiento es análogo al indicado para el código 30123. |
+| 30127 | 5541 | D | T | RLPT-POR DOMICILIACIÓN EN CUENTA<br>En la TGSS, se imputarán los ingresos derivados de la recaudación de cuotas de los regímenes cuyo sistema de pago establecido es la domiciliación en cuenta. Su funcionamiento es análogo al indicado para el código 30123. |
+| 30128 | 5541 | D | T | RLPT-CUOTAS POR COMPENSACIÓN DE DEUDAS<br>En la TGSS, estos ingresos se originan por compensación de cuotas a empresas que siendo deudoras de la Seguridad Social tienen derecho a devoluciones también de cuotas, por lo tanto este concepto aparecerá como descuento, tanto en los documentos de reconocimiento de acreedores por devolución de ingresos (RADI.800 y RADI.810), como en los documentos P u OEP integrándose en el proceso general de recaudación las cantidades formalizadas a dicho concepto. Por lo demás, el funcionamiento es análogo al del código 30123. |
+| 30129 | 5541 | D | T | RLPT-RECAUDACIÓN CUOTAS FUERA DE PLAZO DE INGRESO<br>En la TGSS, se imputarán los ingresos cobrados fuera del plazo reglamentario de ingreso, siendo el resto del funcionamiento análogo al del concepto 30123. |
+| 30130 | 5541 | D | T | RLPT-POR CUENTA DE RECURSOS DIVERSOS CENTRALIZADOS<br>En la TGSS, recogerá los ingresos que se produzcan en la citada cuenta, ya sean jornadas teóricas, sanciones, etc. El funcionamiento es análogo al del concepto 30120. |
+| 30140 | 5541 | D | T/M | RLPT-POR OTRAS PROCEDENCIAS<br>En la TGSS y MATEPSS, se imputarán los ingresos no recogidos en apartados anteriores. El cargo a este concepto se hará en el momento de formalización de los ingresos. |
+| 30150 | 5542 | D | T | IMPAGADOS Y RETROCESIONES DE PAGOS CENTRALIZADOS PENDIENTES DE ATRIBUCIÓN A LOS CENTROS DE GESTIÓN<br>En la TGSS, este concepto recogerá los impagados y retrocesiones materiales o virtuales que teniendo su origen en pagos centralizados, o en operaciones financieras de pago centralizado deban imputarse a las diversas provincias mediante la validación en los servicios centrales de la TGSS de un documento OERC. |
+| 30155 | 5542 | – | T | IMPAGADOS Y RETROCESIONES DE PAGOS PROVINCIALIZADOS PENDIENTES DE ATRIBUCIÓN A LOS SERVICIOS CENTRALES DE LAS ENTIDADES<br>En la TGSS, este concepto se utilizará para imputar a los SSCC TGSS, mediante contabilización en las DDPP TGSS de un documento OETC, las retrocesiones bancarias e impagados, por operaciones de pagos provincializados, que deban ser objeto de reintegro al presupuesto de gastos en los SSCC de las entidades. |
+| 30160 | 5543 | D | T/EG/M | IMPAGADOS DE PRESTACIONES<br>Se imputarán aquellas prestaciones devueltas por las entidades financieras y que son susceptibles de volver a pagar, ya que su devolución se originó por inactividad de los beneficiarios o por errores en su expedición. El abono a este concepto se realiza automáticamente cuando los SSCC TGSS o las DDPP TGSS efectúan, por medio de documentos FI, las correspondientes formalizaciones. |
+| 30161 | 5543 | D | T/EG/M | RETROCESIONES DE PRESTACIONES<br>Se imputará a este concepto los abonos recibidos por retrocesiones de entidades financieras que tienen su origen en prestaciones, abonadas con posterioridad al fallecimiento del titular. El abono a este concepto se realiza en forma similar a la descrita para el 30160. |
+| 30162 | 5543 | D | T/EG | COMPENSACIÓN DE PRESTACIONES PAGADAS POR ENTIDADES DEL SISTEMA. En las EEGG y TGSS, se imputarán las cantidades satisfechas por determinadas prestaciones, que con posterioridad son deducidas al pagarse otra diferente que comprende el mismo período. La deducción se practicará en el documento presupuestario de pago de la nueva prestación. |
+| 30163 | 5543 | D | T/EG/M | IMPAGADOS DE RETRIBUCIONES DE PERSONAL<br>Se imputará el importe de las retribuciones devueltas por las entidades financieras que los perceptores no han cobrado, bien por inactividad del propio perceptor o por errores en su expedición, y que mantienen su derecho al cobro. El abono a este concepto se realiza en forma similar a la descrita para el 30160. |
+| 30164 | 5543 | D | T/EG/M | RETROCESIONES DE RETRIBUCIONES DE PERSONAL<br>Se imputará a este concepto los abonos recibidos por retrocesiones de las entidades financieras que tienen su origen en retribuciones de personal que resulten indebidas. El abono a este concepto se realiza en forma similar a la descrita para el 30160. |
+| 30169 | 5543 | D | T/EG/M | OTROS IMPAGADOS Y RETROCESIONES<br>Se imputarán aquellas devoluciones procedentes de pagos presupuestarios siempre que no correspondan a prestaciones y retribuciones de personal. El abono a este concepto se realiza en forma similar a la descrita para el concepto 30160. |
+| 30170 | 5547 | – | T | OPERACIONES TRANSITORIAS CON TITULOS VALORES. ENAJENACIONES Y AMORTIZACIONES. CARTERA NACIONAL<br>En la TGSS, recoge los ingresos producidos a lo largo del ejercicio en las operaciones de enajenación o amortización de los títulos valores del mercado nacional español afectos al Fondo de Reserva de la Seguridad Social (artículo 91.1 Ley General de la Seguridad Social -LGSS-), que se correspondan con el precio de adquisición de los títulos valores o, en su caso, por un importe menor distinto a éste que no sea consecuencia de la rentabilidad explícita o implícita obtenida en el momento de la realización de las citadas operaciones. |
+| 30171 | 5547 | – | T | OPERACIONES TRANSITORIAS CON TITULOS VALORES. RENTABILIDAD EXPLICITA. CARTERA NACIONAL<br>En la TGSS, recoge los ingresos que se producen al vencimiento periódico de los cupones representativos de la retribución de los activos financieros españoles afectos al Fondo de Reserva de la Seguridad Social. |
+| 30172 | 5547 | – | T | OPERACIONES TRANSITORIAS CON TITULOS VALORES. RENTABILIDAD IMPLICITA. CARTERA NACIONAL<br>En la TGSS, recoge los ingresos que formando parte del valor de reembolso de los activos financieros españoles se materializan en el momento de la amortización de éstos. |
+| 30173 | 5547 | – | T | OPERACIONES TRANSITORIAS CON TITULOS VALORES. ENAJENACIONES Y AMORTIZACIONES. CARTERA EUROZONA<br>En la TGSS, recoge los ingresos producidos a lo largo del ejercicio en las operaciones de enajenación o amortización de los títulos valores de la zona euro, distintos del mercado español, afectos al Fondo de Reserva de la Seguridad Social (artículo 91.1 LGSS), que se correspondan con el precio de adquisición de los títulos valores o, en su caso, por un importe menor distinto a éste que no sea consecuencia de la rentabilidad explícita o implícita obtenida en el momento de la realización de las citadas operaciones. |
+| 30174 | 5547 | – | T | OPERACIONES TRANSITORIAS CON TITULOS VALORES. RENTABILIDAD EXPLÍCITA. CARTERA EUROZONA<br>En la TGSS, recoge los ingresos que se producen al vencimiento periódico de los cupones representativos de la retribución de los activos financieros de la zona euro, distintos del mercado español, afectos al Fondo de Reserva de la Seguridad Social. |
+| 30175 | 5547 | – | T | OPERACIONES TRANSITORIAS CON TITULOS VALORES. RENTABILIDAD IMPLÍCITA. CARTERA EUROZONA<br>En la TGSS, recoge los ingresos que formando parte del valor de reembolso de los activos financieros de la zona euro, distintos del mercado español, se materializan en el momento de la amortización de éstos. |
+| 30176 | 5547 | – | T | OPERACIONES TRANSITORIAS CON TITULOS VALORES. ENAJENACIONES Y AMORTIZACIONES OTROS ACTIVOS A CORTO PLAZO<br>En la TGSS, recoge los ingresos producidos a lo largo del ejercicio en las operaciones de enajenación o amortización de otros activos a corto plazo, afectos al Fondo de Reserva de la Seguridad Social (artículo 91.1 LGSS), que se correspondan con el precio de adquisición de los títulos valores o, en su caso, por un importe menor distinto a éste que no sea consecuencia de la rentabilidad explícita o implícita obtenida en el momento de la realización de las citadas operaciones. |
+| 30179 | 5547 | – | T | OPERACIONES TRANSITORIAS CON TITULOS VALORES. BENEFICIOS POR REALIZACIÓN DE INVERSIONES FINANCIERAS<br>En la TGSS, recoge aquellos ingresos que con ocasión de la enajenación o de la amortización anticipada o a vencimiento de los valores, puedan producirse como consecuencia de alcanzarse un mayor precio de enajenación, valor de realización o de mercado respecto del precio de adquisición de los mismos. |
+| 30180 | 5548 | – | T/M | ENAJENACIONES Y AMORTIZACIONES DE ACTIVOS FINANCIEROS NO AFECTOS/ DESINVERSIÓNES. CARTERA MATEPSS. EMISOR TESORO PÚBLICO<br>En la TGSS, este concepto recoge durante el ejercicio las operaciones de enajenación y amortización de activos financieros no afectos. En las MATEPSS, este concepto recoge durante el ejercicio las operaciones de enajenación de activos financieros públicos, representativos de deuda pública emitida por el Tesoro Público. |
+| 30181 | 5548 | – | M | DESINVERSIÓNES. CARTERA MATEPSS. EMISOR PÚBLICO<br>En las MATEPSS, este concepto recoge durante el ejercicio las operaciones de enajenación de activos financieros públicos, representativos de deuda emitida por ente público. |
+| 30182 | 5548 | – | M | DESINVERSIÓNES. CARTERA MATEPSS. EMISOR PRIVADO NACIONAL<br>En las MATEPSS, este concepto recoge durante el ejercicio las operaciones de enajenación de activos financieros, representativos de deuda emitida por ente privado nacional. |
+| 30183 | 5548 | – | M | DESINVERSIONES EN IMPOSICIONES A PLAZO<br>En las MATEPSS, este concepto recoge durante el ejercicio las operaciones de enajenación de imposiciones a plazo. |
+| 30184 | 5548 | – | T/M | DESINVERSIONES EN ACTIVOS FINANCIEROS CON PACTO DE RECOMPRA<br>En la TGSS y MATEPSS, este concepto recoge durante el ejercicio las operaciones de enajenación de activos financieros con pacto de recompra. |
+| 30185 | 5548 | – | T/M | RENTABILIDAD EXPLÍCITA. ACTIVOS FINANCIEROS NO AFECTOS/ RENTABILIDAD EXPLÍCITA. CARTERA MATEPSS. En las TGSS, este concepto recoge durante el ejercicio la rentabilidad explícita en las operaciones de enajenación de los activos financieros no afectos. En las MATEPSS, este concepto recoge durante el ejercicio la rentabilidad explícita en las operaciones de enajenación de la cartera. |
+| 30186 | 5548 | – | T/M | RENTABILIDAD IMPLÍCITA. ACTIVOS FINANCIEROS NO AFECTOS/ RENTABILIDAD IMPLÍCITA. CARTERA MATEPSS. En la TGSS, este concepto recoge durante el ejercicio la rentabilidad implícita en las operaciones de enajenación de los activos financieros no afectos. En las MATEPSS, este concepto recoge durante el ejercicio la rentabilidad implícita en las operaciones de enajenación de la cartera. |
+| 30187 | 5548 | – | T/M | BENEFICIOS EN LA REALIZACIÓN DE ACTIVOS FINANCIEROS NO AFECTOS<br>En la TGSS, este concepto recoge durante el ejercicio el beneficio en la realización de los activos financieros no afectos. En las MATEPSS, este concepto recoge durante el ejercicio el beneficio en la realización de activos financieros. |
+| 30188 | 5549 | D | T/EG | COMPENSACIÓN PRESTACIONES PAGADAS POR LAS MATEPSS<br>En las EEGG y TGSS, se imputarán los importes satisfechos por las MATEPSS, a beneficiarios de prestaciones de accidentes de trabajo y que son coincidentes durante un período superpuesto con los efectos económicos originados por el reconocimiento de una nueva prestación, a cargo del INSS. Los citados importes se deducirán como descuentos en el documento presupuestario de pago de la nueva prestación y su liquidación se realizará a través de la TGSS, para lo cual deberá expedirse un documento OETC |
+| 30189 | 5549 | D | T/EG | COMPENSACIÓN PRESTACIONES PAGADAS POR ENTIDADES COLABORADORAS<br>En las EEGG y TGSS, se imputarán los importes correspondientes a prestaciones económicas pagadas por las empresas que colaboran voluntariamente en la gestión y que se superponen durante un período determinado con una nueva prestación a cargo del INSS. Los citados importes se deducirán como descuentos en el documento presupuestario de la nueva prestación. |
+| 30190 | 5549 |  | T | RESERVA POR CESE DE ACTIVIDAD DE LOS TRABAJADORES AUTÓNOMOS EN LA TESORERÍA GENERAL DE LA SEGURIDAD SOCIAL<br>En la TGSS, recoge los ingresos efectuados por las MATEPSS en el Banco de España a favor de la TGSS, de acuerdo con el artículo 21.2 b) del Real Decreto 1541/2011, de 31 de octubre. |
+| 30191 | 5549 | D | T | PARTIDAS PENDIENTES DE APLICACIÓN EN TESORERÍAS DE DEUDORES POR PAGO INDEBIDO DE PRESTACIONES S.S.<br>En la TGSS, concepto destinado a recoger aquellas partidas de origen acreedor de deudores por pago indebido de prestaciones de la Seguridad Social que es preciso traspasar a la correspondiente entidad gestora. |
+| 30198 | 5549 | D | T/EG | OTRAS PARTIDAS PENDIENTES DE APLICACIÓN C DE GESTION<br>En la EEGG y TGSS, concepto destinado a recoger aquellas partidas de origen acreedor que puedan estar pendientes de identificación. |
+| 30199 | 5549 | D | T/M | OTRAS PARTIDAS PENDIENTES DE APLICACIÓN TESORERIAS<br>En la TGSS y MATEPSS, concepto destinado a recoger aquellas partidas de origen acreedor que puedan estar pendientes de identificación. |
+| 302 |  |  |  | REINTEGROS DE PRESTACIONES PENDIENTES DE APLICACIÓN |
+| 30210 | 557 | D | EG/M | REINTEGROS DE PRESTACIONES PENDIENTES DE APLICACIÓN.<br>En este concepto figurarán las deudas pendientes de cobro en relación con pagos indebidos de prestaciones del sistema. Con cargo a este concepto se efectuará la expedición de documentos KRPG.900. |
+| 4 |  |  |  | PARTIDAS PENDIENTES DE APLICACIÓN DE ORIGEN DEUDOR |
+| 401 |  |  |  | PAGOS PENDIENTES DE APLICACIÓN<br>Estos conceptos se reservan a los centros de gestión de la TGSS. |
+| 40105 | 5501 | D | M | OPERACIONES DEUDORAS CON TGSS<br>En las MATEPSS, recoge los movimientos de fondos internos entre éstas y la TGSS, de carácter deudor. |
+| 40110 | 5550 | D | T | ANTICIPOS DE TESORERÍA<br>En la TGSS, se imputarán a este concepto los anticipos regulados en Ley General Presupuestaria. La Entidad respectiva propondrá el pago de las obligaciones que motivaron la concesión del anticipo mediante la expedición del oportuno documento OEK. Una vez aprobado el expediente de modificación correspondiente a las obligaciones cuyo pago se anticipó, se procederá a la expedición en formalización de los documentos presupuestarios que procedan, con un descuento final por este concepto, correspondiente al líquido anticipado. |
+| 40124 | 5557 | D | T | OPERACIONES TRANSITORIAS CON TITULOS VALORES RENDIMIENTOS EXPLICITOS DEVENGADOS Y NO VENCIDOS CARTERA NACIONAL<br>En la TGSS, recoge los anticipos de pagos, que por el importe de los rendimientos explícitos devengados y no vencidos a la fecha de adquisición, se efectúen en el momento de la realización de las operaciones de suscripción o compra de títulos valores españoles en que se materializa el Fondo de Reserva de la Seguridad Social. En fin de ejercicio este concepto no presupuestario quedará saldado en aplicación de lo dispuesto en el artículo 8.2 del Real Decreto 337/2004, de 27 de febrero. |
+| 40125 | 5557 | D | T | OPERACIONES TRANSITORIAS CON TITULOS VALORES PRECIO DE ADQUISICION. CARTERA NACIONAL<br>En la TGSS, recoge los anticipos de pagos, que por el precio de adquisición, se abonen con motivo de la realización de las operaciones de suscripción o compra de títulos valores españoles en que se materializa el Fondo de Reserva de la Seguridad Social En fin de ejercicio este concepto no presupuestario quedará saldado en aplicación de lo dispuesto en el artículo 8.2 del Real Decreto 337/2004, de 27 de febrero. |
+| 40126 | 5557 | D | T | OPERACIONES TRANSITORIAS CON TITULOS VALORES. REND EXPLICITOS DEVENGADOS Y NO VENCIDOS. CARTERA EUROZONA<br>En la TGSS, recoge los anticipos de pagos, que por el importe de los rendimientos explícitos devengados y no vencidos a la fecha de adquisición, se efectúen en el momento de la realización de las operaciones de suscripción o compra de títulos valores de la zona euro, distintos del mercado nacional español, en que se materializa el Fondo de Reserva de la Seguridad Social. En fin de ejercicio este concepto no presupuestario quedará saldado en aplicación de lo dispuesto en el artículo 8.2 del Real Decreto 337/2004, de 27 de febrero. |
+| 40127 | 5557 | D | T | OPERACIONES TRANSITORIAS CON TITULOS VALORES. PRECIO DE ADQUISICION. CARTERA EUROZONA. En la TGSS, recoge los anticipos de pagos, que por el precio de adquisición, se abonen con motivo de la realización de las operaciones de suscripción o compra de títulos valores de la zona euro, distintos del mercado nacional español, en que se materializa el Fondo de Reserva de la Seguridad Social En fin de ejercicio este concepto no presupuestario quedará saldado en aplicación de lo dispuesto en el artículo 8.2 del Real Decreto 337/2004, de 27 de febrero. |
+| 40129 | 5557 | D | T | OPERACIONES TRANSITORIAS CON TITULOS VALORES. ADQUISICION OTROS ACTIVOS A CORTO PLAZO. En la TGSS, recoge los anticipos de pagos, que por el precio de adquisición, se abonen con motivo de la realización de las operaciones de suscripción o compra de otros activos a corto plazo, en que se materializa el Fondo de Reserva de la Seguridad Social. En fin de ejercicio este concepto no presupuestario quedará saldado en aplicación de lo dispuesto en el artículo 8.2 del Real Decreto 337/2004, de 27 de febrero. |
+| 40130 | 5558 | D | T/M | ADQUISICIÓN DE ACTIVOS FINANCIEROS NO AFECTOS/ MATERIALIZACIONES, INVERSIONES Y REINVERSIONES. CARTERA MATEPSS. EMISOR TESORO PÚBLICO<br>En la TGSS, este concepto recoge durante el ejercicio las operaciones de compra de activos financieros no afectos. En las MATEPSS, este concepto recoge durante el ejercicio las operaciones de compra de activos financieros públicos, representativos de deuda pública emitida por el Tesoro Público. |
+| 40131 | 5558 | D | M | MATERIALIZACIONES, INVERSIONES Y REINVERSIONES. CARTERA MATEPSS. EMISOR PÚBLICO<br>En las MATEPSS, este concepto recoge durante el ejercicio las operaciones de compra de activos financieros públicos, representativos de deuda pública emitida por ente público. |
+| 40132 | 5558 | D | M | MATERIALIZACIONES, INVERSIONES Y REINVERSIONES. CARTERA MATEPSS. EMISOR PRIVADO NACIONAL<br>En las MATEPSS, este concepto recoge durante el ejercicio las operaciones de compra de activos financieros, representativos de deuda emitida por ente privado nacional. |
+| 40133 | 5558 | D | M | INVERSIONES EN IMPOSICIONES A PLAZO<br>En las MATEPSS, este concepto recoge durante el ejercicio las operaciones de compra de imposiciones a plazo. |
+| 40134 | 5558 | D | T/M | INVERSIONES EN ACTIVOS FINANCIEROS CON PACTO DE RECOMPRA<br>En la TGSS y MATEPSS, este concepto recoge durante el ejercicio las operaciones de compra de activos financieros con pacto de recompra. |
+| 40135 | 5558 | D | T/M | RENDIMIENTOS EXPLÍCITOS DEVENGADOS Y NO VENCIDOS. ACTIVOS FINANCIEROS NO AFECTOS. RENDIMIENTOS EXPLÍCITOS DEVENGADOS Y NO VENCIDOS. EMISOR TESORO PÚBLICO<br>En la TGSS, este concepto recoge durante el ejercicio los rendimientos explícitos devengados y no vencidos en las operaciones de compra de activos financieros no afectos. En las MATEPSS, este concepto recoge durante el ejercicio los rendimientos explícitos devengados y no vencidos en las operaciones de compra de activos financieros públicos, representativos de deuda pública emitida por el Tesoro Público. |
+| 40136 | 5558 | D | M | RENDIMIENTOS EXPLÍCITOS DEVENGADOS Y NO VENCIDOS. EMISOR PÚBLICO<br>En las MATEPSS, este concepto recoge durante el ejercicio los rendimientos explícitos devengados y no vencidos en las operaciones de compra de activos financieros públicos, representativos de deuda pública emitida por ente público. |
+| 40137 | 5558 | D | M | RENDIMIENTOS EXPLÍCITOS DEVENGADOS Y NO VENCIDOS. EMISOR PRIVADO NACIONAL<br>En las MATEPSS, este concepto recoge durante el ejercicio los rendimientos explícitos devengados y no vencidos en las operaciones de compra de activos financieros, representativos de deuda emitida por ente privado nacional. |
+| 40138 | 5559 | D | T | ANTICIPO PAGO RETRIBUCIONES DE PERSONAL<br>Se imputarán las cantidades satisfechas al personal anticipadamente, cuando, por las circunstancias que fuere, no se hayan podido validar por los centros de gestión los preceptivos documentos presupuestarios. Este concepto se cancelará en el momento de la aplicación presupuestaria de las citadas retribuciones, a cuyo efecto los documentos se expedirán en formalización, con un último descuento por este concepto, equivalente al líquido anticipado. |
+| 40139 | 5559 | D | T | ANTICIPO PAGO DE PRESTACIONES<br>Concepto de funcionamiento y naturaleza similar al anterior. |
+| 40140 | 5559 | D | T/M | PAGO DELEGADO DE PRESTACIONES-IT En la TGSS y MATEPSS, se imputará el importe de las deducciones de IT practicadas en los boletines de cotización por las empresas hasta su formalización presupuestaria, figurando como descuento en los documentos en fase OK, en formalización, realizados por los correspondientes centros de gestión. De esta forma, al conocerse el importe de los pagos delegados deducidos en los boletines, las DDPP y SSCC de la TGSS contabilizarán documento OEK aplicado a este concepto por la totalidad del libramiento, aplicado al código 30140, de forma que la operación sea en formalización, contabilizándose a continuación los documentos OEP y R. |
+| 40141 | 5559 | D | T | PAGO DELEGADO DE PRESTACIONES-PRESTACIÓN FAMILIAR<br>En la TGSS, concepto análogo al anterior, referido a la prestación familiar (PF). |
+| 40142 | 5559 | D | T | PAGO DELEGADO DE PRESTACIONES-OTROS<br>En la TGSS, concepto análogo al 40140, pero referido al resto de los pagos delegados. |
+| 40143 | 5559 | D | T/M | COLABORACIÓN VOLUNTARIA-IT En la TGSS y MATEPSS, se imputará el importe de las deducciones por este concepto practicadas en las bases de cotización, por las empresas autorizadas para cubrir esta contingencia. |
+| 40144 | 5559 | D | T | COLABORACIÓN VOLUNTARIA-AS En la TGSS, concepto análogo al anterior pero referido a asistencia sanitaria. |
+| 40145 | 5559 | D | M | PAGOS ASOCIADOS A LA RECAUDACIÓN.<br>En las MCSS se imputarán los asociados a los procesos recaudatorios realizados por la TGSS por cuenta de las entidades colaboradoras al cierre de cada ejercicio. Dicho concepto figurará como descuento en los documentos en fase OK que registren dichas entidades en el ejercicio siguiente para dar la aplicación definitiva presupuestaria de dichos pagos. |
+| 40150 | 5559 | D | T | ANTICIPOS CENTRALIZADOS DE PAGO DE PRESTACIONES-INSS<br>En la TGSS, recoge este concepto las operaciones financieras de pago centralizado de prestaciones que afecten al INSS. |
+| 40151 | 5559 | D | T | ANTICIPOS CENTRALIZADOS DE PAGO DE PRESTACIONESIMSERSO<br>En la TGSS, concepto análogo al anterior referido al IMSERSO. |
+| 40152 | 5559 | D | T | ANTICIPOS CENTRALIZADOS DE PAGO DE PRESTACIONES-ISM<br>En la TGSS, concepto análogo al anterior referido al ISM. |
+| 40153 | 5559 | D | T | OTROS ANTICIPOS CENTRALIZADOS PARA PAGOS EXTRAORDINARIOS<br>En la TGSS, recoge este concepto las operaciones financieras de pago centralizado para la realización de pagos extraordinarios. |
+| 40160 | 5559 | D | M | PAGO ACREEDORES OPERACIONES PENDIENTES DE IMPUTACIÓN PRESUPUESTARIA<br>En las MATEPSS, se imputará el importe de los pagos que no pueden aplicarse definitivamente derivados de operaciones pendientes de imputación presupuestaria. |
+| 40170 | 5559 |  | M | RESERVA POR CESE ACTIVIDAD DE LOS TRABAJADORES AUTÓNOMOS EN LA TESORERÍA GENERAL DE LA SEGURIDAD SOCIAL<br>En las MATEPSS, recoge los ingresos efectuados en el Banco de España a favor de la TGSS para la constitución de la Reserva, de acuerdo con lo establecido en el artículo 21.2.b) del Real Decreto 1541/2011, de 31 de octubre. |
+| 40190 | 5559 | D | T | OTRAS ENTREGAS EN EJECUCIÓN DE OPERACIONES<br>En la TGSS, concepto de naturaleza y funcionamiento similar a los indicados en los conceptos 40138 y 40139, que recoge los pagos urgentes que correspondan a otras aplicaciones presupuestarias. |
+| 40195 | 5562 | D | T/M | REMESAS DE EFECTIVO EN CURSO<br>En la TGSS y MATEPSS, este concepto se utilizará para la remisión de fondos entre los SSCC y los centros de gestión de la TGSS y de las MATEPSS, expidiendo un documento OEK. Su cancelación se efectuará con la contabilización de un documento OEI, a la recepción de los fondos. |
+| 402 |  |  |  | OPERACIONES CON CARGO AL FONDO DE MANIOBRA PENDIENTES DE JUSTIFICACIÓN |
+| 40210 | 5582 | D | T/EG/M | OPERACIONES CON CARGO AL FONDO DE MANIOBRA PENDIENTES DE JUSTIFICACIÓN<br>Este concepto recoge las operaciones efectuadas con cargo al fondo de maniobra. |
+| 5 |  |  |  | OPERACIONES INTERNAS |
+| 501 |  |  |  | REMESAS RECIBIDAS |
+| 50110 | 5520 | – | T/M | REMESAS DE EFECTIVO<br>En la TGSS, este concepto recoge la recepción de remesas reales de fondos entre las Tesorerías o entre las distintas cuentas bancarias de la misma Tesorería, por traspaso de fondos entre cuentas bancarias, y en el caso de las MATEPSS, entre las distintas cuentas bancarias de los servicios centrales de las mismas o sus centros gestores, y de todos ellos entre sí. |
+| 50120 | 5520 | – | T/M | REMESAS VIRTUALES<br>En la TGSS, este concepto recoge la recepción de remesas virtuales de fondos entre las Tesorerías o entre las distintas cuentas bancarias de la misma Tesorería, por traspaso de fondos entre cuentas bancarias, y en el caso de las MATEPSS, entre las distintas cuentas bancarias de los servicios centrales de las mismas o sus centros gestores, y de todos ellos entre sí. |
+| 502 |  |  |  | REMESAS REMITIDAS |
+| 50210 | 5521 | – | T/M | REMESAS DE EFECTIVO<br>En la TGSS, este concepto recoge el envío de remesas reales de fondos entre las Tesorerías o entre las distintas cuentas de la misma Tesorería, por traspaso de fondos entre cuentas bancarias, y en el caso de las MATEPSS, entre las distintas cuentas bancarias de los Servicios Centrales de las mismas o sus centros gestores y de todos ellos entre sí. |
+| 50220 | 5521 | – | T/M | REMESAS VIRTUALES<br>En la TGSS, este concepto recoge el envío de remesas virtuales de fondos entre las Tesorerías o entre las distintas cuentas de la misma Tesorería, por traspaso de fondos entre cuentas bancarias, y en el caso de las MATEPSS, entre las distintas cuentas bancarias de los servicios centrales de las mismas o sus centros gestores y de todos ellos entre sí. |
+| 503 |  |  |  | PAGOS REALIZADOS |
+| 50310 | 5522 | – | T/EG/M | PRESUPUESTO DE GASTOS. EJERCICIO CORRIENTE<br>En las EEGG y TGSS, este concepto recoge los pagos presupuestarios de ejercicio corriente realizados por las Tesorerías por operaciones que tienen su origen en el centro de gestión en el que figura. En las MATEPSS, recoge los pagos presupuestarios de ejercicio corriente realizados. Si existen centros gestores que no tienen facultad de realizar pagos, esta cuenta recogerá en estos centros gestores los pagos realizados por los centros gestores pagadores. |
+| 50320 | 5522 | – | T/EG/M | PRESUPUESTO DE GASTOS. PRESUPUESTOS CERRADOS<br>En las EEGG y TGSS, este concepto recoge los pagos presupuestarios de ejercicios cerrados realizados por las Tesorerías por operaciones que tienen su origen en el centro de gestión en el que figura. En las MATEPSS, recoge los pagos presupuestarios de ejercicios cerrados realizados. Si existen centros gestores que no tienen facultad de realizar pagos, esta cuenta recogerá en estos centros gestores los pagos realizados por los centros gestores pagadores. |
+| 50330 | 5522 | – | T/EG/M | OPERACIONES NO PRESUPUESTARIAS<br>En las EEGG y TGSS, este concepto recoge los pagos no presupuestarios realizados por las Tesorerías por operaciones que tienen su origen en el centro de gestión en el que figura. En las MATEPSS, recoge los pagos no presupuestarios realizados. Si existen centros gestores que no tienen facultad de realizar pagos, esta cuenta recogerá en estos centros gestores los pagos realizados por los centros gestores pagadores. |
+| 504 |  |  |  | PAGOS EN EJECUCION DE OPERACIONES DE EE.GG. Y SS.CC. |
+| 50410 | 5523 | – | T/M | PRESUPUESTO DE GASTOS. EJERCICIO CORRIENTE<br>En la TGSS, este concepto recoge los pagos presupuestarios de ejercicio corriente por ellas realizados en su calidad de caja única del sistema que conforman las EEGG y TGSS. En las MATEPSS o en sus centros gestores pagadores, recoge los pagos presupuestarios de ejercicio corriente por ellas realizados. |
+| 50420 | 5523 | – | T/M | PRESUPUESTO DE GASTOS. PRESUPUESTOS CERRADOS<br>En la TGSS, este concepto recoge los pagos presupuestarios de ejercicios cerrados por ellas realizados en su calidad de caja única del sistema que conforman las EEGG y TGSS. En las MATEPSS o en sus centros gestores pagadores, recoge los pagos presupuestarios de ejercicios cerrados por ellas realizados. |
+| 50430 | 5523 | – | T/M | OPERACIONES NO PRESUPUESTARIAS<br>En la TGSS, este concepto recoge los pagos no presupuestarios por ellas realizados en su calidad de caja única del sistema que conforman las EEGG y TGSS. En las MATEPSS o en sus centros gestores pagadores, recoge los pagos no presupuestarios por ellas realizados. |
+| 505 |  |  |  | DD.PP. DE LA TGSS INGRESOS CENTRALIZADOS |
+| 50510 | 5524 | – | T/M | RECAUDACION GENERAL DE CUOTAS<br>En los SSCC TGSS y, en su caso MATEPSS, este concepto recoge los ingresos centralizados del sistema por cuotas. |
+| 50520 | 5524 | – | T/M | IMPAGADOS Y RETROCESIONES BANCARIAS DE PAGOS CENTRALIZADOS<br>En los SSCC TGSS y, en su caso MATEPSS, este concepto recoge los ingresos centralizados del sistema por impagados y retrocesiones bancarias derivados de pagos centralizados. |
+| 506 |  |  |  | TGSS INGRESOS CENTRALIZADOS |
+| 50610 | 5525 | – | T/M | RECAUDACION GENERAL DE CUOTAS<br>En las DDPP TGSS y, en su caso MATEPSS, este concepto recoge la parte correspondiente a las mismas en la recaudación centralizada por cuotas. |
+| 50620 | 5525 | – | T/M | IMPAGADOS Y RETROCESIONES BANCARIAS DE PAGOS CENTRALIZADOS<br>En las DDPP TGSS y, en su caso MATEPSS, este concepto recoge la parte correspondiente a las mismas en la recaudación centralizada por impagados y retrocesiones bancarias de pagos centralizados. |
+| 507 |  |  |  | ORDENES DE COBRO REMITIDAS A LAS TESORERIAS |
+| 50710 | 5526 | – | T/EG/M | ORDENES DE COBRO A TERCEROS<br>En las EEGG y TGSS, este concepto recoge este concepto las ordenes de cobro remitidas a las Tesorerías para su imputación el presupuesto de ingresos y en las MATEPSS, en los servicios centrales de las mismas y, en su caso, en los centros gestores sin presupuesto de ingresos, recogerá las órdenes de cobro remitidas para su imputación al presupuesto de ingresos. |
+| 508 |  |  |  | ORDENES DE COBRO RECIBIDAS DE LOS CENTROS DE GESTION |
+| 50810 | 5526 | – | T/EG/M | ORDENES DE COBRO A TERCEROS<br>En las EEGG y TGSS, este concepto recoge las órdenes de cobro recibidas de los centros de gestión para su imputación al presupuesto de ingresos, y en las MATEPSS, en los servicios centrales de las mismas y, en su caso, en los centros gestores con presupuesto de ingresos recoge las órdenes de cobro recibidas para su imputación al presupuesto de ingresos. |
+| 510 |  |  |  | OTROS MOVIMIENTOS INTERNOS |
+| 51010 | 5527 | – | T/EG/M | TRASPASO DE CUENTAS ENTRE CENTROS.<br>Este concepto recoge los traspasos de elementos patrimoniales, tanto activos como pasivos, entre centros. |
+| 51020 | 5528 | – | T/EG/M | TRASPASO DE CONCEPTOS NO PRESUPUESTARIOS<br>Este concepto recoge los traspasos de los conceptos no presupuestarios entre centros. |
+| 51030 | 5529 | – | T/EG/M | FORMALIZACION DE INGRESOS POR CUENTA DE RELACIONES INTERNAS<br>Este concepto recoge la formalización de ingresos no presupuestarios que corresponden a los diversos centros de gestión. |
+
+**Conceptos no presupuestarios. Contabilidad auxiliar del fondo de maniobra**
+
+| Código no presupuestario | Definición |
+|---|---|
+| 40220 | ANTICIPOS DE DIETAS Y GASTOS DE VIAJE<br>Este concepto recoge los pagos efectuados por fondo de maniobra en concepto de anticipos de dietas y gastos de viaje del personal pendientes de aplicar. Su aplicación se efectuará bien por reintegro o por la imputación presupuestaria de las cantidades anticipadas. |
+
+> Se modifica por el art. 2.8 de la Resolución de 19 de junio de 2025. [Ref. BOE-A-2025-13081](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13081)
+
+> Se modifica por el art. 1.5 de la Resolución de 27 de diciembre de 2023 [Ref. BOE-A-2024-1775](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1775)
+
+> Esta modificación tiene efectos a partir de comienzos del año 2024, según establece la disposición final única de la citada Resolución.
+
+> Se modifica por el art. único.doce de la Resolución de 23 de marzo de 2022. [Ref. BOE-A-2022-5460](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5460)
+
+> Se modifica por el art. único.7 de la Resolución de 20 de diciembre de 2019. [Ref. BOE-A-2020-87](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-87)
+
+> Se modifica por el art. 1.22 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774).
+
+## ANEXO IV — Criterios de cumplimentación del campo origen del gasto en los documentos contables ADOK.440, ADOK.450 Y OK.610
+
+El campo origen del gasto se cumplimentará con referencia al mes y año de realización del gasto, de acuerdo con los siguientes criterios:
+
+1\. Gastos de personal: se consignará el mes/año o último mes del periodo al que correspondan dichos gastos.
+
+Cuando los gastos correspondan a ayudas de acción social, se consignará el mes/año en que se dicta el acto administrativo de concesión de las mismas.
+
+No obstante, para aquellos gastos de personal que provengan de contratos de servicios realizados por la entidad con un tercero, se aplicarán las reglas establecidas en el apartado 5.–Gastos derivados de contratos de servicios.
+
+2\. Anticipos de personal: se consignará el mes/año en que se dicta el acto administrativo de concesión del anticipo.
+
+3\. Gastos derivados de contratos de obra. Para certificaciones de obra ordinarias, se consignará el mes/año al que corresponda la certificación.
+
+Para certificaciones finales de obra se consignará el mes/año en que se efectúe la recepción de conformidad de la obra. No obstante, en el caso de demora manifiesta en la recepción, se consignará el mes/año en que debería haberse producido la misma de acuerdo con los plazos establecidos en la Ley o en el pliego de cláusulas administrativas particulares.
+
+En el caso de que se haya producido ocupación previa a la recepción, se consignará el mes/año que figure en el acta de ocupación.
+
+En caso de liquidaciones de obra, se consignará el mes/año en que finaliza el plazo de garantía.
+
+Para gastos derivados de indemnizaciones, se consignará el mes/año en que adquiere firmeza la liquidación de la indemnización.
+
+4\. Gastos derivados de contratos de suministros. Con carácter general, se consignará el mes/año en que se efectúe la entrega de los bienes.
+
+En el caso de abonos y entregas a cuenta se consignará el mes/año o último mes del periodo al que correspondan.
+
+Si existen gastos derivados de la liquidación final de este tipo de contratos, se consignará el mes/año en que se efectúe la recepción de conformidad. No obstante, en el caso de demora manifiesta en la recepción, se consignará el mes/año en que debería haberse producido la misma de acuerdo con los plazos establecidos en la Ley o en el pliego de cláusulas administrativas particulares.
+
+Para gastos derivados de indemnizaciones, se consignará el mes/año en que adquiere firmeza la liquidación de la indemnización.
+
+5\. Gastos derivados de contratos de servicios. Con carácter general, se consignará el mes/año en que se efectúe la prestación del servicio.
+
+En el caso de pagos parciales de gastos de carácter periódico y tracto sucesivo, se consignará el mes/año o último mes del periodo al que correspondan.
+
+Si existen gastos derivados de la liquidación final de este tipo de contratos, se consignará el mes/año en que se efectúe la recepción de conformidad. No obstante, en el caso de demora manifiesta en la recepción, se consignará el mes/año en que debería haberse producido la misma de acuerdo con los plazos establecidos en la Ley o en el pliego de cláusulas administrativas particulares.
+
+Para gastos derivados de indemnizaciones, se consignará el mes/año en que adquiere firmeza la liquidación de la indemnización.
+
+6\. Gastos derivados de revisiones de precios de contratos: se consignará el mes/año en que se produce la revisión o último mes del periodo al que correspondan dichos gastos.
+
+7\. Gastos en concepto de responsabilidad patrimonial y otras indemnizaciones: se consignará el mes en que se dicta la resolución por la que se reconoce la indemnización.
+
+No obstante, aquellos gastos en concepto de indemnizaciones que tengan la naturaleza de prestaciones económicas del sistema de la Seguridad Social, se aplicarán las reglas establecidas en el apartado 15.–Gastos derivados de prestaciones económicas.
+
+8\. Gastos derivados de convenios de colaboración y encomiendas de gestión: se consignará el mes/año o último mes del periodo al que correspondan los gastos.
+
+9\. Adquisición de bienes inmuebles y otros bienes incorporales cuya adquisición no tenga la consideración de contratos de suministros o servicios: se consignará el mes/año en que se efectúe la adquisición.
+
+10\. Gastos no contractuales, incluidos los de carácter periódico y de tracto sucesivo: se consignará el mes/año o último mes del periodo al que correspondan dichos gastos.
+
+11\. Impuestos: se consignará el mes/año del devengo del impuesto.
+
+12\. Arrendamientos: se consignará el mes/año o último mes del periodo al que correspondan dichos gastos.
+
+13\. Intereses de demora e indemnizaciones por los costes de cobro hasta el pago: se consignará el mes/año del pago.
+
+14\. Otros gastos financieros: se consignará el mes/año o último mes/año del periodo al que correspondan dichos gastos.
+
+15\. Gastos derivados de prestaciones económicas. Con carácter general, para la liquidación de los gastos en concepto de prestaciones económicas que concede la Seguridad Social ya provengan de su acción protectora específica o de la colaboración con el Estado, se consignará el mes/año en que se produce el reconocimiento del derecho a percibir la prestación correspondiente.
+
+No obstante, cuando las prestaciones se liquiden mediante nóminas de primeros pagos, pagos únicos, atrasos y liquidaciones y otras de nóminas de pago diario que incorporen prestaciones reconocidas en distintos periodos mensuales, se consignará el último mes del periodo al que correspondan.
+
+En el caso de que las prestaciones se liquiden mediante nóminas de pagos periódicos o sucesivos, se consignará el mes/año o, en su caso, el último mes del periodo al que correspondan las mismas.
+
+En el caso de gastos en concepto de incapacidad temporal derivadas de la compensación que las empresas realizan sobre las cotizaciones integras de sus trabajadores, como resultado de la colaboración en el pago de esta prestación (pago delegado), se consignará el mes/año al que corresponda el gasto en concepto de IT asumido por las empresas.
+
+16\. Gastos en concepto de transferencias: se consignará el mes/año en que se dicta el acto de reconocimiento del derecho de cobro del beneficiario.
+
+Para aquellos gastos asociados al proceso de recaudación de las cotizaciones sociales en concepto de aportaciones al sostenimiento de servicios comunes, reaseguro obligatorio, reaseguro del exceso de pérdidas, entre otros, que las mutuas colaboradoras deben satisfacer, se consignará el mes/año que corresponda a la recaudación de dichas cotizaciones.
+
+Para los gastos derivados de la dotación y liberación de los Fondos y Reserva que de conformidad con el artículo 96 del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social, deben constituir las mutuas colaboradoras en la Tesorería General de la Seguridad Social, con el excedente de los resultados obtenidos en la gestión de las contingencias comunes, profesionales y cese de actividad, el campo origen del gasto se cumplimentará con referencia al mes/año en que se produce el pago.
+
+En el caso de aportaciones a entidades en concepto de compensación por la prestación de servicios públicos cuya financiación corresponda a la Seguridad Social se consignará el mes/año de la prestación del servicio.
+
+17\. Gastos en concepto de subvenciones. En el caso de subvenciones en régimen de concurrencia: se consignará el mes/año de la fecha de entrada de la documentación requerida para el pago de la subvención o fecha del pago al beneficiario, si es anterior.
+
+Para subvenciones de concesión directa, se consignará el mes/año en que se dicta la resolución que acuerda la concesión de la subvención.
+
+Para los capitales coste de pensiones que las Mutuas colaboradoras con la Seguridad Social vengan obligadas a satisfacer a la Tesorería General de la Seguridad Social, como contrapartida de las pensiones y otras prestaciones asumidas por la correspondiente entidad gestora, se consignará el mes/año en que se produce la notificación de la reclamación de la deuda practicada por el citado servicio común.
+
+18\. Para gastos que provengan de sentencias/autos: se consignará el mes/año de la sentencia o auto que reconoce el derecho de cobro por parte del beneficiario.
+
+19\. Gastos anticipados: En aquellos gastos de cualquier naturaleza que se liquiden y por tanto, se imputen a presupuesto pero que no se hayan devengado en su totalidad, se consignará el último mes del periodo al que correspondan los mismos.
+
+20\. Indemnizaciones por razón de servicio: se consignará el mes/año o último mes en el que se produce el servicio, el desplazamiento, el traslado, la asistencia y los demás supuestos que dan derecho a la indemnización.
+
+21\. Gastos abonados por fondo de maniobra: En los documentos ADOK.440 para la aplicación de los pagos realizados con cargo al fondo de maniobra, se consignará el mes/ año en que se emite la cuenta justificativa. A estos efectos, para los pagos que se realicen a través del subsistema de fondo de maniobra, el sistema emite el citado documento ADOK con referencia al mes/año de la emisión de la cuenta justificativa.
+
+Si la cuenta justificativa incluye justificantes de ejercicios anteriores, cuando así lo permita la normativa vigente, se consignará el mes/año correspondiente al fin del ejercicio al que correspondan los justificantes. En este caso se deberá incluir en cuentas justificativas separadas los justificantes correspondientes a cada ejercicio.
+
+> Se modifica por el art. 1.23 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+## ANEXO V — Código de inversión
+
+El código de identificación de inversiones está compuesto de doce dígitos, con la siguiente estructura:
+
+1.º) Dos dígitos destinados a definir el área geográfica de la inversión.
+
+Además de lo códigos habituales de la provincia (01-52), se prevén:
+
+| 60 | Servicios centrales. |
+|---|---|
+| 80 | Varias provincias de Andalucía. |
+| 81 | Varias provincias de Aragón. |
+| 82 | Varias provincias de Canarias. |
+| 83 | Varias provincias de Castilla-León. |
+| 84 | Varias provincias de Castilla-La Mancha. |
+| 85 | Varias provincias de Cataluña. |
+| 86 | Varias provincias de Valencia. |
+| 87 | Varias provincias de Extremadura. |
+| 88 | Varias provincias de Galicia. |
+| 89 | Varias provincias del País Vasco. |
+| 90 | Varias provincias de varias comunidades. |
+| 91 | Varias provincias no regionalizables. |
+| 92 | Extranjero. |
+
+2.º) Dos dígitos destinados a identificar el tipo de Centro físico en que la inversión se realiza, según la siguiente tabla:
+
+Centros Administrativos
+
+| 00 | Sede central. |
+|---|---|
+| 01 | Direcciones provinciales. |
+| 02 | Agencias/Direcciones locales/CAISS. |
+| 03 | Administraciones/UURE (Unidades de Recaudación Ejecutiva»). |
+| 04 | Oficinas integrales. |
+
+Centros Sanitarios
+
+| 11 | Consultorios. |
+|---|---|
+| 12 | Ambulatorios. |
+| 13 | Ambulatorios de especialidades. |
+| 15 | Centros de Salud. |
+| 16 | Centros integrados de atención primaria. |
+| 17 | Servicios de urgencia y emergencia. |
+| 21 | Hospitales generales. |
+
+Centros de Personas Mayores
+
+| 51 | Centros sociales de personas mayores. |
+|---|---|
+| 52 | Clubes de tercera edad. |
+| 53 | Residencias de válidos. |
+| 55 | Residencias mixtas de personas mayores. |
+
+Centros de Personas Discapacitadas
+
+| 62 | Centros de Atención para Personas con Discapacidad Física.-CAMF. |
+|---|---|
+| 63 | Centros de Recuperación de Personas con Discapacidad Física.-CRMF. |
+| 64 | Centros ocupacionales. |
+| 65 | Centros base para personas con discapacidad física. |
+
+Centros de Infancia y Juventud
+
+| 74 | Guarderías Infantiles. |
+|---|---|
+| 75 | Hogares escolares. |
+| 76 | Comedores (CAI). |
+| 77 | Colegios. |
+| 78 | Escuelas formación profesional náutica–pesquera |
+
+Centros Estatales Especializados de Promoción de la Autonomía Personal y Atención a la Dependencia
+
+| 80 | Centros de Referencia Estatal (CRE). |
+|---|---|
+| 84 | Escuela estatal de servicios sociales. |
+
+Varios
+
+| 91 | Casas de mar. |
+|---|---|
+| 92 | Centros en el extranjero. |
+| 93 | Gerencia de Informática. |
+| 94 | Patrimonio en explotación. |
+| 95 | Buques sanitarios. |
+| 96 | Centro de Formación de la Seguridad Social. |
+| 97 | Centros nacionales de apoyo técnico-sanitario. |
+| 98 | Higiene y Seguridad en el Trabajo. |
+| 99 | Otros no clasificados. |
+
+3.º) Dos dígitos destinados a identificar ordinalmente cada centro entre los de su misma categoría y área geográfica. De la conjunción de Área geográfica-Tipo de Centro-Ordinal debe deducirse inequívocamente la identificación del Centro.
+
+4.º) Dos dígitos ordinarios a determinar la naturaleza económica del gasto, conforme a la siguiente tabla:
+
+<table class="tabla_b_sica">
+<colgroup>
+<col class="row_column_37">
+<col class="row_column_44">
+<col class="row_column_45">
+</colgroup>
+<tbody>
+<tr class="row_column_10">
+<td>
+<p class="cuerpo_tabla_centro">10</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Adquisiciones solares.</p>
+</td>
+<td> </td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">11</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Gastos formalización.</p>
+</td>
+<td> </td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">20</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Adquisiciones edificios y locales.</p>
+</td>
+<td> </td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">21</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Gastos formalización.</p>
+</td>
+<td> </td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">30</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Gastos previos.</p>
+</td>
+<td rowspan="8">
+<p class="cuerpo_tabla_centro">Obra nueva</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">31</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Redacción proyecto.</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">32</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Honorarios.</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">33</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Principal.</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">34</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Adicionales. Obra nueva.</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">35</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Reformados.</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">36</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Liquidaciones.</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">37</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Revisiones de Precios.</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">40</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Gastos previos.</p>
+</td>
+<td rowspan="8">
+<p class="cuerpo_tabla_centro">Adaptación, reforma, mejora</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">41</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Redacción proyecto.</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">42</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Honorarios.</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">43</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Principal. Adaptación, reforma,</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">44</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Adicionales. Mejora.</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">45</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Reformados.</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">46</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Liquidaciones.</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">47</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Revisiones de precios.</p>
+</td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">50</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Adquisiciones equipamiento.</p>
+</td>
+<td> </td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">60</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Adquisición mobiliario.</p>
+</td>
+<td> </td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">70</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Adquisición equipos sanitarios.</p>
+</td>
+<td> </td>
+</tr>
+<tr class="row_column_11">
+<td>
+<p class="cuerpo_tabla_centro">80</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Adquisición equipos informáticos.</p>
+</td>
+<td> </td>
+</tr>
+<tr class="row_column_10">
+<td>
+<p class="cuerpo_tabla_centro">90</p>
+</td>
+<td>
+<p class="cuerpo_tabla_izq">Otros.</p>
+</td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+5.º) Cuatro dígitos de uso discrecional por cada entidad, para identificación del proyecto, certificación, etc. Se cubrirá a ceros en el supuesto de no resultar preciso.
+
+> Se renumera por el art. 1.23 de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)
+
+> Su anterior numeración era Anexo IV.
+
+## ANEXO VI — Libros auxiliares de fondo de maniobra
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/263/17978_12344768_image1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/263/17978_12344768_image2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/263/17978_12344768_image3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/263/17978_12344768_image4.png)
+
+> Se añade por el art. 2.16 de la Resolución de 11 de octubre de 2022, en la forma que figura en su Anexo II. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+## ANEXO VII — Estados de situación del fondo de maniobra
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/263/17978_12344768_image5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/263/17978_12344768_image6.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/263/17978_12344768_image7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/263/17978_12344768_image8.png)
+
+> Se añade por el art. 2.16 de la Resolución de 11 de octubre de 2022, en la forma que figura en su Anexo II. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+## ANEXO VIII — Libro auxiliar de órdenes de pago a justificar
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/263/17978_12344768_image9.png)
+
+> Se añade por el art. 2.16 de la Resolución de 11 de octubre de 2022, en la forma que figura en su Anexo II. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+## ANEXO IX — Estados de situación de pagos a justificar
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/263/17978_12344768_image10.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/263/17978_12344768_image11.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/263/17978_12344768_image12.png)
+
+> Se añade por el art. 2.16 de la Resolución de 11 de octubre de 2022, en la forma que figura en su Anexo II. [Ref. BOE-A-2022-17978](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17978)
+
+> Información relacionada
+
+> Téngase en cuenta que, con ocasión de la incorporación realizada en el ejercicio 2021 de las operaciones de gastos plurianuales de estas entidades al subsistema contable de gastos plurianuales del Sistema de Información Contable de la Seguridad Social, todas las referencias contenidas en el texto de la Instrucción de contabilidad en relación con este tipo de gastos relativas a las entidades gestoras y servicios comunes de la Seguridad Social, se entenderán referidas al conjunto de entidades que integran el sistema de la Seguridad Social, que incluyen a las mutuas colaboradoras con la Seguridad Social y sus centros mancomunados, según establece la disposición adicional única de la Resolución de 23 de marzo de 2022. [Ref. BOE-A-2022-5460](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5460)
+
+> Téngase en cuenta que todas las referencias hechas en el texto de la instrucción a las entidades gestoras y Tesorería General de la Seguridad Social, se entenderán realizadas a las entidades gestoras y servicios comunes de la Seguridad Social, expresión está última donde se incluye a la Tesorería General de la Seguridad Social y la Gerencia de Informática de la Seguridad Social, según establece la disposición adicional única de la Resolución de 14 de diciembre de 2018. [Ref. BOE-A-2018-17774](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17774)

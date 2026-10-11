@@ -1,0 +1,2241 @@
+---
+title: "Resolución de 2 de junio de 2008, de la Intervención General de la Administración del Estado, por la que se publica el Acuerdo del Consejo de Ministros de 30 de mayo de 2008, por el que se da aplicación a la previsión de los artículos 152 y 147 de la Ley General Presupuestaria, respecto al ejercicio de la función interventora en régimen de requisitos básicos"
+identifier: "BOE-A-2008-10128"
+eli: "https://www.boe.es/eli/es/res/2008/06/02/(1)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2008-06-02
+published: 2008-06-13
+in_force_from: 2008-06-13
+last_amended: 2024-11-02
+consolidated: 2026-03-05
+gazette: "Boletín Oficial del Estado núm. 143"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-10128"
+retrieved: 2026-10-11
+---
+
+# Resolución de 2 de junio de 2008, de la Intervención General de la Administración del Estado, por la que se publica el Acuerdo del Consejo de Ministros de 30 de mayo de 2008, por el que se da aplicación a la previsión de los artículos 152 y 147 de la Ley General Presupuestaria, respecto al ejercicio de la función interventora en régimen de requisitos básicos
+
+El Consejo de Ministros, en su reunión de 30 de mayo de 2008, adoptó el Acuerdo por el que se da aplicación a la previsión de los artículos 152 y 147 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, respecto al ejercicio de la función interventora en régimen de requisitos básicos.
+
+Considerando necesaria la publicidad del mencionado Acuerdo, he resuelto ordenar su publicación en el «Boletín Oficial del Estado», a cuyo efecto figura su texto como anexo a esta Resolución.
+
+Madrid, 2 de junio de 2008.-El Interventor General de la Administración del Estado, José Alberto Pérez Pérez.
+
+## ANEXO — Acuerdo por el que se da aplicación a la previsión de los artículos 152 y 147 de la Ley General Presupuestaria, respecto al ejercicio de la función interventora en régimen de requisitos básicos
+
+La Ley General Presupuestaria, en su artículo 152, autoriza al Gobierno para que acuerde que la fiscalización e intervención previa se limite a comprobar determinados extremos, unos de ellos tasados por dicha Ley y, adicionalmente, otros contemplados en el ordenamiento jurídico en su conjunto y seleccionados en atención a su trascendencia en el proceso de gestión y que tienden a asegurar la objetividad y transparencia en las actuaciones públicas.
+
+Esta facultad atribuida al Consejo de Ministros no resulta novedosa en nuestro ordenamiento y tiene su antecedente inmediato en el artículo 95 del ya derogado texto refundido de la Ley General Presupuestaria, al amparo del cual, y desde el año 1988, se han venido dictando Acuerdos que han permitido que determinados tipos de gasto se sometan a una comprobación de requisitos básicos, frente al régimen general de ejercicio de la función interventora, en el que resulta preceptivo verificar la adecuación del acto a toda su normativa reguladora.
+
+El último Acuerdo dictado para la Administración General del Estado y sus organismos autónomos, y al que el presente viene a sustituir, fue aprobado por el Consejo de Ministros el 1 de marzo de 2002. Una primera diferencia salta a la vista y es la relativa al ámbito subjetivo de aplicación, fruto del objetivo homogeneizador en la normativa de control que ha marcado la Ley General Presupuestaria de 26 de noviembre de 2003, al regular conjuntamente la función interventora para la Administración General del Estado, sus organismos autónomos y las entidades gestoras y servicios comunes de la Seguridad Social. En consecuencia, el presente Acuerdo, de conformidad con el artículo 147 de la Ley General Presupuestaria, abarca también a las entidades gestoras y servicios comunes de la Seguridad Social, sustituyendo, por tanto, al aprobado para este ámbito el 19 de septiembre de 2003.
+
+Las importantes reformas normativas operadas desde los referidos Acuerdos de 2002 y 2003 justifican por sí solas la necesidad del que ahora se propone, sin perjuicio de que también se incorporen algunos extremos fruto del análisis y experiencia adquiridos en el control de ciertos tipos de gasto.
+
+Entre las modificaciones de alcance general habidas en nuestro ordenamiento y con incidencia en los procedimientos de gasto cabe destacar, además de la propia Ley General Presupuestaria que sirve de soporte a este Acuerdo, las relativas a las materias de subvenciones y contratos.
+
+Así, en el ámbito subvencional, la Ley 38/2003, de 17 de noviembre y su Reglamento de desarrollo, aprobado por el Real Decreto 887/2006, de 21 de julio, vinieron a corregir la situación de insuficiencia normativa apreciada en esa materia, abordando una regulación de detalle de las subvenciones incluidas en su ámbito de aplicación, cuya gestión deberá estar presidida por los principios de publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación, eficacia en el cumplimiento de objetivos y eficiencia en la utilización de los recursos. El presente Acuerdo se hace eco de lo anterior, explicitando, para aquellas subvenciones sometidas a la Ley 38/2003, la distinción entre concesión en régimen de concurrencia competitiva y concesión directa y la comprobación de trámites tendentes a la consecución de los principios citados.
+
+En el ámbito contractual, las modificaciones introducidas por la reciente Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, exigen su reflejo en los extremos que deben comprobarse en el ejercicio de la función interventora. En efecto, la nueva delimitación del ámbito de aplicación de la Ley, la regulación del recurso especial en materia de contratación, la introducción del diálogo competitivo como nuevo procedimiento de adjudicación, las nuevas técnicas de racionalización de la contratación, por no ser exhaustivos, deben tenerse en cuenta en el presente Acuerdo en tanto que pretenden asegurar la objetividad y transparencia en las actuaciones públicas y responden a las exigencias de la regularización armonizada.
+
+Por lo que respecta a los contratos patrimoniales, el Acuerdo se hace eco de las novedades que introdujo la Ley 33/2003, de 3 de noviembre, de Patrimonio de las Administraciones Públicas.
+
+Por su parte, en el ámbito de la Seguridad Social, además de las anteriores normas, cabe destacar una serie de novedades legislativas que han supuesto la creación de nuevas prestaciones económicas que se han tenido en cuenta en la redacción del presente Acuerdo. Así, la Ley 39/2006, de 14 de diciembre, de promoción de la Autonomía personal y Atención a las personas en situación de dependencia, la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de hombres y mujeres, la Ley 35/2007, de 15 de noviembre, por la que se establece la deducción por nacimiento o adopción en el impuesto sobre la renta de las Personas Físicas y la prestación económica de pago único de la Seguridad Social por nacimiento o adopción, el Real Decreto 869/2007, de 2 de julio, por el que se regula la concesión de prestaciones asistenciales en atención a las situaciones especiales derivadas del trabajo en el mar para los trabajadores y beneficiarios del Régimen Especial de la Seguridad Social de los Trabajadores del Mar y la Ley 40/2007, de 4 de diciembre de medidas en materia de Seguridad Social.
+
+Por todo lo anteriormente expuesto y en cumplimiento del artículo 152 de la Ley General Presupuestaria, a propuesta del Ministro de Economía y Hacienda, previo informe de la Intervención General de la Administración del Estado, el Consejo de Ministros, en su reunión del día 30 de mayo de 2008, ha adoptado el siguiente
+
+## ACUERDO
+
+### Primero. Extremos de general comprobación.
+
+1\. La fiscalización e intervención previa de gastos u obligaciones incluidos en el presente Acuerdo, en cada uno de los órganos de la Administración General del Estado u organismos autónomos sujetos a función interventora y entidades gestoras y Servicios Comunes de la Seguridad Social, se realizará mediante la comprobación de los siguientes extremos:
+
+a) La existencia de crédito presupuestario y que el propuesto es el adecuado y suficiente a la naturaleza del gasto u obligación que se proponga contraer.
+
+Se entiende que el crédito es adecuado cuando financie obligaciones a contraer o nacidas y no prescritas a cargo del Tesoro Público o de la Seguridad Social, cumpliendo los requisitos y reglas presupuestarias de temporalidad, especialidad y especificación reguladas en la Ley General Presupuestaria.
+
+En los casos en los que se trate de contraer compromisos de gastos de carácter plurianual o, en su caso, de tramitación anticipada se comprobará, además, si se cumple lo preceptuado en el artículo 47 de la Ley General Presupuestaria.
+
+b) Que los gastos u obligaciones se proponen al órgano competente para la aprobación, compromiso del gasto o reconocimiento de la obligación.
+
+c) La competencia del órgano que dicte el acto administrativo o suscriba el negocio jurídico, cuando dicho órgano no tenga atribuida la facultad de aprobación, compromiso del gasto o reconocimiento de la obligación de que se trate.
+
+d) Que los expedientes de compromiso de gasto responden a gastos aprobados y, en su caso, fiscalizados favorablemente.
+
+Asimismo, en los expedientes de reconocimiento de obligaciones, que los mismos responden a gastos aprobados y comprometidos y, en su caso, fiscalizados favorablemente.
+
+e) La existencia de autorización del Consejo de Ministros, en aquellos tipos de gastos incluidos en el presente Acuerdo en los que su normativa específica lo exija.
+
+f) Aquellos extremos adicionales que, atendiendo a la naturaleza de los distintos actos, documentos o expedientes, se contienen en el presente Acuerdo.
+
+2\. En los expedientes en que de conformidad con el presente Acuerdo deba verificarse como extremo adicional la existencia de dictamen de Consejo de Estado, así como en aquellos otros expedientes que correspondan a un tipo de gasto incluido en este Acuerdo para los que de conformidad con la normativa aplicable sea preceptivo el citado dictamen, se comprobarán, con anterioridad al mismo, los extremos contemplados en los correspondientes apartados de este Acuerdo y, con posterioridad a su emisión, únicamente se constatará su existencia material y carácter favorable, en cumplimiento del artículo 13.1 del Real Decreto 2188/1995, de 28 de diciembre, y del Real Decreto 706/1997, de 16 de mayo.
+
+3\. Cuando de los informes preceptivos a los que se hace referencia en los diferentes apartados de este Acuerdo se dedujera que se han omitido requisitos o trámites que sean esenciales o que la continuación de la gestión administrativa pudiera causar quebrantos económicos al Tesoro Público, a la Seguridad Social o a un tercero, se procederá al examen exhaustivo del documento o documentos objeto de informe y si, a juicio del Interventor, se dan las mencionadas circunstancias, habrá de actuar conforme a lo preceptuado en el artículo 154.1 de la Ley General Presupuestaria.
+
+> Se modifica por el apartado primero del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+> Se sustituye por el apartado 1 del acuerdo publicado por Resolución de 25 de julio de 2018. [Ref. BOE-A-2018-10994](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10994)
+
+> Se modifica por el apartado 1 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+### Segundo.
+
+En los expedientes de contratación de personal laboral, los extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo serán los siguientes:
+
+1\. Propuesta de contratación de personal laboral fijo:
+
+a) La incorporación de certificado acreditativo, expedido por órgano competente, de que los puestos a cubrir figuran detallados en las respectivas relaciones o catálogos de puestos de trabajo y están vacantes.
+
+b) Haber sido cumplimentado el requisito de publicidad de las correspondientes convocatorias en los términos establecidos por la normativa que en cada caso resulte de aplicación.
+
+c) Acreditación de los resultados del proceso selectivo expedida por el órgano competente.
+
+d) Adecuación del contrato que se formaliza con lo dispuesto en la normativa vigente.
+
+e) Que las retribuciones que se señalen en el contrato se ajusten al Convenio Colectivo que resulte de aplicación y, si se trata de un contrato al margen del Convenio, que exista autorización de los Ministerios de Economía y Hacienda y de Política Territorial y Administración Pública.
+
+2\. Propuesta de contratación de personal laboral temporal:
+
+a) Autorización conjunta de los Ministerios de Economía y Hacienda y de Política Territorial y Administración Pública.
+
+b) Haber sido cumplimentados los criterios de selección establecidos por el Ministerio de Política Territorial y Administración Pública en los términos previstos en el artículo 35 del Real Decreto 364/1995, de 10 de marzo.
+
+c) Acreditación de los resultados del proceso selectivo expedida por el órgano competente.
+
+d) Adecuación del contrato que se formaliza con lo dispuesto en la normativa vigente.
+
+e) En el supuesto de contratación de personal con cargo a los créditos de inversiones, se verificará la existencia del informe del Servicio Jurídico del Departamento u Organismo de que se trate, sobre la modalidad de contratación temporal utilizada y sobre la observancia, en las cláusulas del contrato, de los requisitos y formalidades exigidos por la legislación laboral.
+
+f) Que las retribuciones que se señalen en el contrato se ajusten al Convenio Colectivo que resulte de aplicación y, si se trata de un contrato al margen del Convenio, que exista autorización de los Ministerios de Economía y Hacienda y de Política Territorial y Administración Pública.
+
+En el caso de que la contratación de este personal tenga lugar a través de un Plan de contratación, se comprobarán los extremos anteriores, excepto los incluidos en las letras b), c) y d), que se sustituirán por la verificación de que los contratos que podrán ser celebrados al amparo del Plan se adecuan a lo dispuesto en la normativa vigente, así como que dicho Plan contiene una descripción del proceso selectivo que se seguirá en aplicación del mismo.
+
+3\. Propuesta de contratación de personal laboral para prestar servicio en el exterior:
+
+a) Autorización conjunta de los Ministerios de Economía y Hacienda y de Política Territorial y Administración Pública.
+
+b) En el supuesto de contratación de personal fijo, se verificará el cumplimiento del requisito previsto en el punto a) del número 1 anterior.
+
+c) La existencia de certificado expedido por órgano competente en el que se determine la normativa nacional o extranjera que regula la constitución y efectos del contrato, así como la categoría profesional de los respectivos trabajadores. En el caso de que esta normativa fuese la nacional, se comprobará adicionalmente la adecuación del contrato que se formaliza con lo dispuesto en la normativa vigente.
+
+4\. Prórroga de contratos laborales:
+
+a) Autorización conjunta de los Ministerios de Economía y Hacienda y de Política Territorial y Administración Pública.
+
+b) Que la duración del contrato no supera el plazo previsto en la legislación vigente.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-705](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-705)
+
+> Se modifica por el apartado 2 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+### Tercero.
+
+En las nóminas de retribuciones del personal al servicio de la Administración del Estado y sus organismos autónomos y Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo serán los siguientes:
+
+1\. Que las nóminas estén firmadas por el Habilitado u órgano responsable de su formación en el caso de la Seguridad Social y se proponen para su autorización al órgano competente.
+
+2\. En el caso de las de carácter ordinario y las unificadas de período mensual, comprobación aritmética que se realizará efectuando el cuadre del total de la nómina con el que resulte del mes anterior más la suma algebraica de las variaciones incluidas en la nómina del mes de que se trate.
+
+3\. Justificación documental limitada a los siguientes supuestos de alta y variación en nómina, con el alcance que para cada uno de ellos se indica:
+
+a) Altos cargos: Copia del acuerdo de nombramiento o documento en el que se indique la fecha de su publicación oficial, diligencia de la correspondiente toma de posesión y verificación de las retribuciones.
+
+b) Personal en régimen estatutario de nuevo ingreso: Acuerdo de nombramiento, diligencia de la correspondiente toma de posesión y verificación de que las retribuciones están de acuerdo con el grupo y puesto de trabajo. A estos efectos, en la nómina del Ministerio de Defensa, en los supuestos que proceda de acuerdo con su normativa específica, se sustituirá la comprobación del acuerdo de nombramiento y la toma de posesión, por la Resolución del nombramiento de dicho personal, firmada por el órgano correspondiente.
+
+c) Personal laboral de nuevo ingreso: copia del plan o del expediente de contratación sobre el que fue ejercida la fiscalización del gasto, y del contrato formalizado en todo caso.
+
+d) El resto de las obligaciones reflejadas en la nómina, así como los actos que las generen, se incluirán en el ámbito de las actuaciones propias del control financiero permanente.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Cuarto.
+
+Las contribuciones al Plan de Pensiones de los empleados de la Administración General del Estado y sus Organismos Autónomos y Entidades gestoras y Servicios Comunes de la Seguridad Social se verificarán en el momento de su inclusión en la nómina, comprobándose como extremo adicional a que se refiere el apartado primero.1.f) del presente acuerdo, que dichas nóminas están firmadas por el Habilitado, o responsables de su formación en el caso de la Seguridad Social, y se proponen para su autorización al órgano competente.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Quinto.
+
+En los expedientes de aprobación y reconocimiento de la cuota patronal a la Seguridad Social se comprobarán los extremos previstos en el apartado primero del presente acuerdo.
+
+### Sexto.
+
+En los expedientes de reclamaciones que se formulen ante la Administración, en concepto de indemnización de daños y perjuicios, por responsabilidad patrimonial, los extremos adicionales a que se refiere el apartado primero.1. f) del presente Acuerdo serán los siguientes:
+
+1\. Reclamaciones por responsabilidad patrimonial con exclusión de aquellas a las que se hace referencia en los puntos 2, 3 y 4 de este apartado:
+
+a) Que, en su caso, existe dictamen del Consejo de Estado.
+
+b) Que existe informe del servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable.
+
+2\. Reclamaciones fundadas en el funcionamiento de la Administración de Justicia.
+
+2.1 Funcionamiento anormal de la Administración de Justicia:
+
+a) Que, en su caso, existe dictamen del Consejo de Estado.
+
+b) Que existe informe del Consejo General del Poder Judicial.
+
+2.2 Error judicial:
+
+a) Que, en su caso, existe dictamen del Consejo de Estado.
+
+b) Que existe sentencia reconociendo expresamente el error judicial.
+
+2.3 Prisión preventiva:
+
+a) Que, en su caso, existe dictamen del Consejo de Estado.
+
+b) Que existe sentencia declarando la absolución o que haya sido dictado auto de sobreseimiento libre.
+
+3\. Reclamaciones derivadas de la responsabilidad del Estado Legislador:
+
+a) Que, en su caso, existe dictamen del Consejo de Estado.
+
+b) En caso de que la lesión sea consecuencia de la aplicación de una norma con rango de ley declarada inconstitucional, que se acredite que la norma ha sido declarada inconstitucional mediante sentencia publicada en el «Boletín Oficial del Estado».
+
+4\. Reclamaciones fundadas en el funcionamiento anormal del Tribunal Constitucional:
+
+a) Que existe dictamen del Consejo de Estado.
+
+b) Que el Tribunal Constitucional ha declarado, a instancia de parte interesada, la existencia de un funcionamiento anormal en la tramitación de un recurso de amparo o una cuestión de inconstitucionalidad.
+
+> Se modifica por el apartado segundo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Séptimo.
+
+En los expedientes de reclamaciones al Estado por salarios de tramitación en juicios por despido y cuotas a la Seguridad Social asociadas a los mismos, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo serán los siguientes:
+
+a) Que se aporta certificación del Juzgado de lo Social, testimoniando la sentencia declaratoria del despido improcedente y haciendo constar su firmeza.
+
+b) Que se aporta propuesta de resolución a elevar al órgano competente para resolver el expediente de reclamación al Estado por salarios de tramitación en juicios por despido.
+
+c) Que se aporta justificante del previo abono por el empresario de los salarios de tramitación y del ingreso de las cuotas a la Seguridad Social asociadas a los mismos.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Octavo.
+
+En los expedientes de gasto derivados de expropiaciones forzosas, los extremos adicionales a los que se refiere el apartado primero. 1.f) del presente acuerdo serán los siguientes:
+
+1\. Depósitos previos:
+
+a) Que existe declaración de urgente ocupación de los bienes.
+
+b) Que existe acta previa a la ocupación.
+
+c) Que existe hoja de depósito previo a la ocupación.
+
+2\. Indemnización por rápida ocupación:
+
+a) Que existe declaración de urgente ocupación de los bienes.
+
+b) Que existe acta previa a la ocupación.
+
+c) Que existe documento de liquidación de la indemnización.
+
+3\. En los expedientes de determinación del justiprecio por los procedimientos ordinario y de mutuo acuerdo:
+
+a) Que existe la propuesta a la que se refiere el artículo 25.a) del Decreto de 26 de abril de 1957 por el que se aprueba el Reglamento de la Ley de Expropiación Forzosa.
+
+b) Que existe informe de los servicios técnicos correspondientes en relación con el valor del bien objeto de la expropiación.
+
+4\. En los expedientes de gasto en los que el justiprecio haya sido fijado por el Jurado Provincial de Expropiación u órgano de análoga naturaleza, no se efectuará la comprobación de ningún extremo adicional.
+
+5\. Pago de intereses de demora por retrasos en la determinación del justiprecio y en el pago del mismo, no se efectuará la comprobación de ningún extremo adicional.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Noveno.
+
+**(Derogado)**
+
+> Se deroga por el apartado 9 del acuerdo publicado por Resolución de 25 de julio de 2018. [Ref. BOE-A-2018-10994](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10994)
+
+> Se modifica por el apartado 3 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+### Décimo.
+
+**(Derogado)**
+
+> Se deroga por el apartado 9 del acuerdo publicado por Resolución de 25 de julio de 2018. [Ref. BOE-A-2018-10994](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10994)
+
+> Se modifica por el apartado 4 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+### Undécimo.
+
+**(Derogado)**
+
+> Se deroga por el apartado 9 del acuerdo publicado por Resolución de 25 de julio de 2018. [Ref. BOE-A-2018-10994](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10994)
+
+> Se modifica por el apartado 5 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+### Duodécimo.
+
+**(Derogado)**
+
+> Se deroga por el apartado 9 del acuerdo publicado por Resolución de 25 de julio de 2018. [Ref. BOE-A-2018-10994](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10994)
+
+> Se modifica por el apartado 6 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+### Decimotercero.
+
+**(Derogado)**
+
+> Se deroga por el apartado 9 del acuerdo publicado por Resolución de 25 de julio de 2018. [Ref. BOE-A-2018-10994](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10994)
+
+> Se modifica por el apartado 7 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+### Decimocuarto.
+
+**(Derogado)**
+
+> Se deroga por el apartado 9 del acuerdo publicado por Resolución de 25 de julio de 2018. [Ref. BOE-A-2018-10994](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10994)
+
+### Decimoquinto
+
+**(Derogado)**
+
+> Se deroga por el apartado 9 del acuerdo publicado por Resolución de 25 de julio de 2018. [Ref. BOE-A-2018-10994](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10994)
+
+> Se modifica por el apartado 8 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+### Decimosexto.
+
+**(Derogado)**
+
+> Se deroga por el apartado séptimo del Acuerdo del Consejo de Ministros de 15 de junio de 2021, publicado por Resolución de 16 de junio de 2021. [Ref. BOE-A-2021-10415](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10415)
+
+> Se modifica por el apartado 9 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+### Decimoséptimo.
+
+En los expedientes relativos a negocios patrimoniales, los extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo, serán los siguientes:
+
+1\. Adquisición de bienes inmuebles por la Administración General del Estado:
+
+A) Aprobación del gasto:
+
+A.1 Propuesta de adquisición y aprobación del gasto por el Departamento interesado. Sólo se comprobarán los extremos previstos con carácter general en el apartado primero del presente Acuerdo, por la Intervención Delegada correspondiente.
+
+A.2 Actuaciones llevadas a cabo por el Ministerio de Economía y Hacienda. Dirección General del Patrimonio del Estado. La fiscalización se realizará por la Intervención Delegada en dicho Centro Directivo y consistirá en comprobar:
+
+a) Que existe aprobación del gasto por el Departamento interesado, fiscalizada de conformidad por la Intervención Delegada en el mismo.
+
+b) En los procedimientos de adquisición por concurso, que existe pliego de condiciones del concurso.
+
+c) Que existe informe del Servicio Jurídico sobre los aspectos jurídicos de la contratación.
+
+d) Que existe tasación del bien, debidamente aprobada, que incorporará el correspondiente estudio de mercado.
+
+B) Compromiso del gasto:
+
+B.1 Actuaciones llevadas a cabo por el Ministerio de Economía y Hacienda. Dirección General del Patrimonio del Estado. La fiscalización se realizará por la Intervención Delegada en dicho Centro Directivo y consistirá en comprobar:
+
+a) Que existe informe del Servicio Jurídico sobre la propuesta de adjudicación.
+
+b) Cuando se proponga como procedimiento de adquisición del bien inmueble la adquisición directa, que concurren las circunstancias previstas para ello en la normativa, y que existe oferta de venta con expresión del precio, del plazo de duración de la oferta y de las condiciones del contrato.
+
+c) En caso de adquisición por concurso, cuando no se adjudique el contrato de acuerdo con la propuesta formulada por la Mesa, que existe decisión motivada del órgano competente para la adjudicación.
+
+B.2 Aprobación del compromiso de gasto por el Departamento interesado. Que existe acuerdo de adquisición del Ministro de Economía y Hacienda o autoridad en quien tenga delegada la competencia, fiscalizado de conformidad por la Intervención Delegada en el Ministerio de Economía y Hacienda.
+
+2\. Adquisición por la Administración General del Estado de bienes inmuebles sitos en el extranjero con cargo al Presupuesto del Ministerio de Asuntos Exteriores y de Cooperación. La fiscalización se llevará a cabo por la Intervención Delegada en dicho Departamento y consistirá en comprobar, como extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo, los siguientes:
+
+A) Aprobación del gasto.
+
+a) Que existe informe favorable del Ministro de Economía y Hacienda.
+
+b) En los procedimientos de adquisición por concurso, que existe pliego de condiciones del concurso.
+
+c) Que existe informe del Servicio Jurídico sobre los aspectos jurídicos de la contratación.
+
+d) Que existe tasación del bien, debidamente aprobada, que incorporará el correspondiente estudio de mercado.
+
+B) Compromiso del gasto.
+
+a) Que existe informe del Servicio Jurídico sobre la propuesta de adjudicación.
+
+b) Cuando se proponga como procedimiento de adquisición del bien inmueble la adquisición directa, que concurren las circunstancias previstas para ello en la normativa, y que existe oferta de venta con expresión del precio, del plazo de duración de la oferta y de las condiciones del contrato.
+
+c) En caso de adquisición por concurso, cuando no se adjudique el contrato de acuerdo con la propuesta formulada por la Mesa, que existe decisión motivada del órgano competente para la adjudicación.
+
+3\. Arrendamiento de bienes inmuebles por la Administración General del Estado, ya sea tramitado como expediente independiente o en expediente de enajenación del inmueble en el que simultáneamente se vaya a acordar su arrendamiento.
+
+3.1 Expediente inicial:
+
+3.1.1 Propuesta de arrendamiento.
+
+a) Que existe informe técnico, que recogerá el correspondiente estudio de mercado.
+
+b) En los procedimientos de arrendamiento por concurso, que existe pliego de condiciones del concurso.
+
+c) Que existe informe del Servicio Jurídico sobre los aspectos jurídicos de la contratación.
+
+d) Que, en su caso, existe el informe favorable de la Dirección General de Patrimonio del Estado a la propuesta que prevé el apartado segundo de la Resolución de 4 de junio de 2007 de la Dirección General del Patrimonio del Estado.
+
+3.1.2 Acuerdo de concertación del arrendamiento.
+
+a) Que existe informe del Servicio Jurídico sobre los aspectos jurídicos de la propuesta.
+
+b) Cuando se proponga el concierto directo de arrendamiento de un bien inmueble, que concurren las circunstancias previstas para ello en la normativa.
+
+c) En caso de arrendamiento por concurso, cuando no se adjudique el contrato de acuerdo con la propuesta formulada por la Mesa, que existe decisión motivada del órgano competente para la adjudicación.
+
+3.2 Prórroga y novación:
+
+a) Que, en su caso, existe informe técnico, que recogerá el correspondiente estudio de mercado.
+
+b) Que, en su caso, existe informe del Servicio Jurídico sobre los aspectos jurídicos de la propuesta.
+
+c) Que, en su caso, existe el informe favorable de la Dirección General de Patrimonio del Estado a la propuesta que prevé el apartado segundo de la Resolución de 4 de junio de 2007 de la Dirección General del Patrimonio del Estado.
+
+3.3 Reconocimiento de la obligación:
+
+a) Que existe la conformidad de los servicios competentes con la prestación realizada.
+
+b) Que se aporta factura por el arrendador de acuerdo con lo previsto en el Real Decreto 1496/2003, de 28 de noviembre, por el que se aprueba el Reglamento que regula las obligaciones de facturación y se modifica el Reglamento del Impuesto sobre el Valor Añadido.
+
+4\. Adquisición de bienes inmuebles por Organismos Autónomos.
+
+A) Aprobación del gasto.
+
+a) Que existe informe favorable del Ministro de Economía y Hacienda.
+
+b) En los procedimientos de adquisición por concurso, que existe pliego de condiciones del concurso.
+
+c) Que existe informe del Servicio Jurídico sobre los aspectos jurídicos de la contratación.
+
+d) Que existe tasación del bien debidamente aprobada, que incorporará el correspondiente estudio de mercado.
+
+B) Compromiso del gasto.
+
+a) Que existe informe del Servicio Jurídico sobre la propuesta de adjudicación.
+
+b) Cuando se proponga como procedimiento de adquisición del bien inmueble la adquisición directa, que concurren las circunstancias previstas para ello en la normativa, y que existe oferta de venta con expresión del precio, del plazo de duración de la oferta y de las condiciones del contrato.
+
+c) En caso de adquisición por concurso, cuando no se adjudique el contrato de acuerdo con la propuesta formulada por la Mesa, que existe decisión motivada del órgano competente para la adjudicación.
+
+5\. Arrendamiento de bienes inmuebles por Organismos Autónomos, ya sea tramitado como expediente independiente o en expediente de enajenación del inmueble en el que simultáneamente se vaya a acordar su arrendamiento.
+
+5.1 Expediente inicial:
+
+5.1.1 Propuesta de arrendamiento.
+
+a) Que existe informe técnico, que recogerá el correspondiente estudio de mercado.
+
+b) En los procedimientos de arrendamiento por concurso, que existe pliego de condiciones del concurso.
+
+c) Que existe informe del Servicio Jurídico sobre los aspectos jurídicos de la contratación.
+
+5.1.2 Acuerdo de concertación del arrendamiento.
+
+a) Que existe informe del Servicio Jurídico sobre los aspectos jurídicos de la propuesta.
+
+b) Cuando se proponga el concierto directo de arrendamiento de un bien inmueble, que concurren las circunstancias previstas para ello en la normativa.
+
+c) En el caso de que se refiera a edificios administrativos, que existe informe favorable de la Dirección General del Patrimonio del Estado.
+
+d) En caso de arrendamiento por concurso, cuando no se adjudique el contrato de acuerdo con la propuesta formulada por la Mesa, que existe decisión motivada del órgano competente para la adjudicación.
+
+5.2 Prórroga y novación:
+
+a) Que, en su caso, existe informe técnico, que recogerá el correspondiente estudio de mercado.
+
+b) Que, en su caso, existe informe del Servicio Jurídico sobre los aspectos jurídicos de la propuesta.
+
+c) En el caso de que se refiera a edificios administrativos, que existe informe favorable de la Dirección General del Patrimonio del Estado.
+
+5.3 Reconocimiento de la obligación. Iguales requisitos que los exigidos para la Administración General del Estado.
+
+6\. En las aportaciones de capital con cargo a los Presupuestos Generales del Estado a sociedades mercantiles estatales, así como a entidades públicas empresariales y demás entidades y fondos del sector público, se comprobará, en el momento del compromiso de gasto, como extremo adicional a que se refiere el apartado primero.1.f) del presente Acuerdo, que existe el informe de la Secretaría de Estado de Presupuestos y Gastos a que se refiere el artículo 66 de la Ley 62/2003, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social.
+
+7\. En los expedientes de adquisición de bienes inmuebles pertenecientes al Patrimonio Sindical Acumulado de acuerdo con la Ley 4/1986, de 8 de enero:
+
+A) Aprobación del gasto:
+
+a) En los procedimientos de adquisición por concurso, que existe pliego de condiciones del concurso.
+
+b) Que existe informe del Servicio Jurídico sobre los aspectos jurídicos de la contratación.
+
+c) Que existe tasación del bien, debidamente aprobada, que incorporará el correspondiente estudio de mercado.
+
+B) Compromiso del gasto:
+
+a) Que existe informe del Servicio Jurídico sobre la propuesta de adjudicación.
+
+b) Cuando se proponga como procedimiento de adquisición del bien inmueble la adquisición directa, que existe autorización del Ministro de Trabajo e Inmigración, así como oferta de venta con expresión del precio, del plazo de duración de la oferta y de las condiciones del contrato.
+
+c) En caso de adquisición por concurso, cuando no se adjudique el contrato de acuerdo con la propuesta formulada por la Mesa, que existe decisión motivada del órgano competente para la adjudicación.
+
+8\. En los expedientes relativos a negocios patrimoniales de la Seguridad Social, los extremos adicionales a que se refiere al apartado primero.1.f) del presente acuerdo, serán los siguientes:
+
+8.1 Adquisición de bienes inmuebles a título oneroso por las Entidades gestoras y Servicios comunes de la Seguridad Social (salvo Instituto Nacional de Gestión Sanitaria).
+
+8.1.1 Propuesta de adquisición y aprobación del gasto por la Entidad Gestora o Servicio Común interesado. Se comprobarán los siguientes extremos:
+
+a) En los supuestos de concurso público que, existen pliegos y, en su caso, que se sujetan a los modelos tipo aprobados por la Tesorería General de la Seguridad Social y están informados por el Servicio Jurídico.
+
+b) Cuando se proponga como procedimiento de adquisición del bien inmueble la adjudicación directa, se comprobará:
+
+– Que existen pliegos o documentos en el que se recogen los aspectos jurídicos de la contratación y están informados por el Servicio Jurídico.
+
+– Que concurren las circunstancias previstas para ello en la normativa.
+
+– Que existe autorización del Ministerio de Trabajo e Inmigración e informe de la Intervención General de la Seguridad Social.
+
+8.1.2 Actuaciones desarrolladas en la Tesorería General de la Seguridad Social. La fiscalización se realizará por la Intervención Delegada en el Servicio Común y consistirá en comprobar:
+
+a) Que existe aprobación del gasto por la Entidad interesada, fiscalizada de conformidad por la Intervención Delegada en la misma.
+
+b) Que existe tasación del bien, debidamente aprobada por el Director General de la Tesorería General de la Seguridad Social, que incorporará el correspondiente estudio de mercado.
+
+c) En caso de adquisición por concurso, cuando no se adjudique el contrato a la proposición que hubiere obtenido el mayor número de votos, que existe decisión motivada del órgano competente para dicha adjudicación.
+
+8.1.3 Aprobación del compromiso de gasto por la Entidad interesada.
+
+Que existe resolución de adjudicación dictada por la Tesorería General de la Seguridad Social, fiscalizada de conformidad por la Intervención Delegada correspondiente.
+
+8.2 Arrendamiento de bienes inmuebles por las Entidades gestoras y Servicios comunes de la Seguridad Social (Salvo INGESA).
+
+8.2.1 Propuesta de arrendamiento y aprobación del gasto por la Entidad gestora o Servicio común interesado.
+
+a) En los supuestos de concurso público que, existen pliegos y, en su caso, que se sujetan a los modelos tipo aprobados por la Tesorería General de la Seguridad Social y están informados por el Servicio Jurídico.
+
+b) Cuando se proponga como procedimiento de arrendamiento del bien inmueble la adjudicación directa, se comprobará:
+
+– Que existen pliegos o documento en el que se recogen los aspectos jurídicos de la contratación y están informados por el Servicio Jurídico.
+
+– Que concurren las circunstancias previstas para ello en la normativa.
+
+– Que existe autorización del Ministerio de Trabajo e Inmigración e informe de la Intervención General de la Seguridad Social.
+
+8.2.2 Actuaciones desarrolladas en la Tesorería General de la Seguridad Social. La fiscalización se realizará por la Intervención Delegada en el Servicio Común y consistirá en comprobar:
+
+a) Que existe aprobación del gasto por la Entidad interesada, fiscalizada de conformidad por la Intervención Delegada en la misma.
+
+b) Que existe informe técnico, debidamente aprobado por el Director General de la Tesorería General de la Seguridad Social, que incorporará el correspondiente estudio de mercado.
+
+c) En caso de arrendamiento por concurso, cuando no se adjudique el contrato a la proposición que hubiere obtenido el mayor número de votos, que existe decisión motivada del órgano competente para dicha adjudicación.
+
+8.2.3 Aprobación del compromiso de gasto por la Entidad interesada.
+
+Que existe resolución de adjudicación dictada por la Tesorería General de la Seguridad Social, fiscalizada de conformidad por la Intervención Delegada correspondiente.
+
+8.2.4 Prórroga y novación.
+
+a) Que, en su caso, existe informe técnico, que recogerá el correspondiente estudio de mercado.
+
+b) Que, en su caso, existe informe del servicio Jurídico sobre los aspectos jurídicos de la propuesta.
+
+8.2.5 Reconocimiento de la obligación:
+
+Que se aporta factura por el arrendador de acuerdo con lo previsto en el Real Decreto 1496/2003, de 28 de noviembre, por el que se aprueba el Reglamento que regula las obligaciones de facturación y se modifica el Reglamento del Impuesto sobre el Valor Añadido.
+
+8.3 Adquisición de bienes inmuebles a título oneroso por el Instituto Nacional de Gestión Sanitaria.
+
+8.3.1 Propuesta de adquisición y aprobación del gasto por el Instituto Nacional de Gestión Sanitaria, se comprobarán los siguientes extremos:
+
+a) En los supuestos de concurso público, que existen pliegos y, en su caso, que se sujetan a los modelos tipo aprobados por la Tesorería General de la Seguridad Social y están informados por el Servicio Jurídico.
+
+b) Cuando se proponga como procedimiento de adquisición del bien inmueble la adjudicación directa, se comprobará:
+
+– Que existen pliegos o documentos en el que se recogen los aspectos jurídicos de la contratación y están informados por el Servicio Jurídico.
+
+– Que existe tasación del bien, debidamente aprobada, que incorpora el correspondiente estudio de mercado.
+
+– Que concurren las circunstancias previstas para ello en la normativa.
+
+– Que existe autorización del Ministerio de Sanidad, Igualdad y Política Social e informes de la Tesorería General de la Seguridad y de la Intervención General de la Seguridad Social.
+
+8.3.2 Aprobación del compromiso del gasto por el Instituto Nacional de Gestión Sanitaria.
+
+En caso de adquisición por concurso, cuando no se adjudique el contrato a la proposición que hubiere obtenido el mayor número de votos, que existe decisión motivada del órgano competente para dicha adjudicación.
+
+8.4 Arrendamiento de bienes inmuebles por el Instituto Nacional de Gestión Sanitaria.
+
+8.4.1 Propuesta de arrendamiento, y aprobación del gasto por el Instituto Nacional de Gestión Sanitaria.
+
+Se comprobarán los siguientes extremos:
+
+a) En los supuestos de concurso, que existen Pliegos de condiciones informados por el Servicio Jurídico.
+
+b) Cuando se proponga como procedimiento para el arrendamiento del bien inmueble la adjudicación directa, se comprobará:
+
+– Que existe documento en el que se recojan los aspectos jurídicos de la contratación informado por el Servicio Jurídico.
+
+– Que concurren las circunstancias previstas en la normativa.
+
+– Que existe informe de la Intervención General de la Seguridad Social.
+
+c) Que existe informe técnico, que recogerá el correspondiente estudio de mercado.
+
+8.4.2 Aprobación del compromiso del gasto por el Instituto Nacional de Gestión Sanitaria.
+
+En caso de arrendamiento por concurso, cuando no se adjudique el contrato a la proposición que hubiere obtenido el mayor número de votos, que existe decisión motivada del órgano competente para dicha adjudicación.
+
+8.4.3 Prórroga y novación.
+
+a) Que, en su caso, existe informe técnico, que recogerá el correspondiente estudio de mercado.
+
+b) Que, en su caso, existe informe del servicio Jurídico sobre los aspectos jurídicos de la propuesta.
+
+8.4.4 Reconocimiento de la obligación:
+
+Que se aporta factura por el arrendador de acuerdo con lo previsto en el Real Decreto 1496/2003, de 28 de noviembre, por el que se aprueba el Reglamento que regula las obligaciones de facturación y se modifica el Reglamento del Impuesto sobre el Valor Añadido.
+
+8.5 Propuesta de adquisición de activos financieros mediante materialización de los fondos depositados en la cuenta especial del Fondo de Prevención y Rehabilitación: Que existe Acuerdo del Consejo de Ministros autorizando la adquisición.
+
+> Se modifican la referencias hechas al apartado primero.1.g) por las hechas al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+> Se modifica el punto 6 por el apartado cuarto del Acuerdo del Consejo de Ministros de 15 de junio de 2021, publicado por Resolución de 16 de junio de 2021. [Ref. BOE-A-2021-10415](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10415)
+
+> Se modifica por el apartado 10 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+### Decimoctavo.
+
+Para los expedientes de subvenciones y ayudas públicas a los que resulte de aplicación la Ley 38/2003, de 17 de noviembre, General de Subvenciones, los extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo serán los siguientes:
+
+1\. Subvenciones a conceder en régimen de concurrencia competitiva:
+
+A) Aprobación del gasto:
+
+a) Que existen las bases reguladoras de la subvención y que han sido, en su caso, publicadas en el «Boletín Oficial del Estado».
+
+b) Que en la convocatoria figuran los créditos presupuestarios a los que se imputa la subvención y la cuantía total máxima de las subvenciones convocadas, así como, en su caso, el establecimiento de una cuantía adicional máxima, en aplicación del artículo 58 del Reglamento de la Ley General de Subvenciones.
+
+c) Que en la convocatoria figuran los criterios de valoración de las solicitudes y que éstos son conformes con los establecidos en las correspondientes bases reguladoras.
+
+d) Cuando se trate de expedientes de aprobación de gasto por la cuantía adicional del artículo 58 del Reglamento de la Ley General de Subvenciones, una vez obtenida la financiación adicional, se verificará como extremo adicional a los previstos en el apartado primero.1.f), que no se supera el importe establecido en la convocatoria.
+
+e) Que existe, en su caso, el informe favorable del Ministerio de Economía y Hacienda a que se refiere el artículo 58 de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011.
+
+B) Compromiso del gasto:
+
+a) Que existe el informe del órgano colegiado correspondiente sobre la evaluación de las solicitudes.
+
+b) Que existe el informe del órgano instructor en el que conste que de la información que obra en su poder se desprende que los beneficiarios cumplen todos los requisitos necesarios para acceder a las mismas.
+
+c) Que la propuesta de resolución del procedimiento expresa el solicitante o la relación de solicitantes a los que se va a conceder la subvención y su cuantía.
+
+C) Reconocimiento de obligaciones:
+
+a) Para aquellas subvenciones en las que su normativa reguladora prevea que los beneficiarios han de aportar garantías, que se acredita la existencia de dichas garantías.
+
+b) En caso de realizarse pagos a cuenta, que están previstos en la normativa reguladora de la subvención.
+
+c) Acreditación en la forma establecida en la normativa reguladora de la subvención, de que el beneficiario se halla al corriente de obligaciones tributarias y frente a la Seguridad Social y no es deudor por resolución de procedencia de reintegro.
+
+d) Que se acompaña certificación a que se refiere el artículo 88.3 del Reglamento de la Ley General de Subvenciones, expedida por el órgano encargado del seguimiento de la subvención.
+
+e) En su caso, acreditación, en la forma prevista en el artículo 58.Dos de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011, de que los beneficiarios de préstamos y anticipos se encuentran al corriente del pago de las obligaciones de reembolso de cualesquiera otros préstamos o anticipos concedidos anteriormente con cargo a los Presupuestos Generales del Estado.
+
+2\. Subvenciones de concesión directa:
+
+A) Aprobación y compromiso del gasto:
+
+a) Que la concesión directa de la subvención se ampara en alguna de las normas que, según la normativa vigente, habilitan para utilizar este procedimiento.
+
+b) Acreditación en la forma establecida en la normativa reguladora de la subvención, de que el beneficiario se halla al corriente de obligaciones tributarias y frente a la Seguridad Social y no está incurso en las prohibiciones para obtener dicha condición, previstas en los apartados 2 y 3 del artículo 13 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+c) Que existe, en su caso, el informe favorable del Ministerio de Economía y Hacienda a que se refiere el artículo 58 de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011.
+
+B) Reconocimiento de obligaciones.–Se comprobarán los mismos extremos previstos en el apartado relativo al reconocimiento de la obligación de las subvenciones concedidas en régimen de concurrencia competitiva.
+
+> Se modifican las referencias hechas al apartado primero.1.g) por las hechas al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+> Se modifica por el apartado 11 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+> Se modifica por el apartado 1 del acuerdo publicado por Resolución de 22 de abril de 2010. [Ref. BOE-A-2010-7132](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7132)
+
+### Decimonoveno.
+
+Para el resto de expedientes de subvenciones y ayudas públicas a los que no les es de aplicación la Ley 38/2003, de 17 de noviembre, General de Subvenciones, los extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo serán los siguientes:
+
+1\. Con carácter general, los establecidos en el apartado decimoctavo relativo a los expedientes de subvenciones y ayudas públicas a los que resulte de aplicación la Ley 38/2003, de 17 de noviembre, General de Subvenciones, en la medida que dichos extremos sean exigibles de acuerdo con su normativa reguladora.
+
+2\. Si el expediente se instrumenta a través de un convenio, además de verificarse lo establecido con carácter general en el punto 1 anterior, deberán comprobarse los extremos que resulten de aplicación de acuerdo con el tipo de convenio, establecidos en el Acuerdo del Consejo de Ministros de 15 de junio de 2021, respecto al ejercicio de la función interventora en régimen de requisitos básicos en el ámbito de convenios y transferencias a comunidades autónomas realizadas de conformidad con el artículo 86 de la LGP.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+> Se modifica el punto 2 por el apartado quinto del Acuerdo del Consejo de Ministros de 15 de junio de 2021, publicado por Resolución de 16 de junio de 2021. [Ref. BOE-A-2021-10415](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10415)
+
+> Se modifica por el apartado 12 del acuerdo publicado por Resoluición de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+### Vigésimo.
+
+Para los expedientes de convenios celebrados con Entidades Colaboradoras en el marco de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo serán los siguientes:
+
+1\. Suscripción de convenios con Entidades Colaboradoras:
+
+a) Que el objeto del convenio a celebrar con la Entidad Colaboradora no esté comprendido en los contratos regulados por la Ley de Contratos del Sector Público.
+
+b) Acreditación en la forma establecida en la normativa reguladora de la subvención, de que la entidad colaboradora se halla al corriente de obligaciones tributarias y frente a la Seguridad Social y que no está incurso en las prohibiciones para obtener dicha condición, previstas en los apartados 2 y 3 del artículo 13 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+c) Que existe informe del servicio jurídico.
+
+d) Que no tiene una duración superior a la legalmente prevista y, en el caso de que se haya previsto la posibilidad de prórroga del convenio, que ésta no supera el plazo legalmente establecido.
+
+e) Que existe, en su caso, el informe favorable del Ministerio de Economía y Hacienda a que se refiere el artículo 58 de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011.
+
+2\. Prórroga y modificaciones de los convenios:
+
+a) Que está prevista en el convenio.
+
+b) Que se acompaña informe del servicio jurídico.
+
+c) Que, en su caso, no se superan los límites de duración previstos en el convenio.
+
+d) Que existe, en su caso, el informe favorable del Ministerio de Economía y Hacienda a que se refiere el artículo 58 de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011.
+
+3\. Reconocimiento de la obligación.
+
+a) Para aquellas subvenciones en que su normativa reguladora prevea que las entidades colaboradoras deben aportar garantías, que se acredita la existencia de dichas garantías.
+
+b) En su caso, acreditación, en la forma prevista en el artículo 58.Dos de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011, de que los beneficiarios de préstamos y anticipos se encuentran al corriente del pago de las obligaciones de reembolso de cualesquiera otros préstamos o anticipos concedidos anteriormente con cargo a los Presupuestos Generales del Estado.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+> Se modifica por el apartado 13 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+> Se modifica por el apartado 2 del acuerdo publicado por Resolución de 22 de abril de 2010. [Ref. BOE-A-2010-7132](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7132)
+
+### Vigésimo primero.
+
+**(Derogado)**
+
+> Se deroga por el apartado séptimo del Acuerdo del Consejo de Ministros de 15 de junio de 2021, publicado por Resolución de 16 de junio de 2021. [Ref. BOE-A-2021-10415](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10415)
+
+> Se modifica por el apartado 14 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+> Se modifica por el apartado 3 del acuerdo publicado por Resolución de 22 de abril de 2010. [Ref. BOE-A-2010-7132](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7132)
+
+### Vigésimo segundo.
+
+En los expedientes de convenios o contratos-programa a que se refiere el artículo 68 de la Ley General Presupuestaria, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo serán los siguientes.
+
+1\. Aprobación y compromiso del gasto:
+
+a) Que en el texto del convenio o contrato programa se establecen los efectos que han de derivarse del incumplimiento de los compromisos acordados.
+
+b) Que existe informe del servicio jurídico.
+
+2\. Reconocimiento de la obligación:
+
+a) En su caso, certificación expedida por el órgano previsto por el convenio o contrato programa, acreditativa del cumplimiento de los requisitos establecidos en el mismo para realizar los pagos.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Vigésimo tercero.
+
+**(Derogado)**
+
+> Se deroga por el apartado séptimo del Acuerdo del Consejo de Ministros de 15 de junio de 2021, publicado por Resolución de 16 de junio de 2021. [Ref. BOE-A-2021-10415](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10415)
+
+> Se modifica por el apartado 15 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+### Vigésimo cuarto.
+
+En los expedientes de transferencias que se realizan por la Administración General del Estado a los diversos entes territoriales, al Instituto Nacional de Gestión Sanitaria y al Instituto de Mayores y Servicios Sociales previstas en los puntos 1 a 6 siguientes, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo serán:
+
+1\. Transferencias a Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía por el Fondo de Garantía de Servicios Públicos Fundamentales, el Fondo de Suficiencia Global, el Fondo de Competitividad y el Fondo de Cooperación previstos en la Ley 22/2009, de 18 de diciembre, por la que se regula su sistema de financiación.
+
+1.1 En las entregas a cuenta del Fondo de Garantía de Servicios Públicos Fundamentales y del Fondo de Suficiencia Global: Que los pagos se efectúan con la periodicidad establecida en la Ley 22/2009, de 18 de diciembre.
+
+1.2 En la liquidación definitiva conjunta del Fondo de Garantía de Servicios Públicos Fundamentales, del Fondo de Suficiencia Global, del Fondo de Competitividad y del Fondo de Cooperación: Sólo se comprobarán los extremos de carácter general previstos en el apartado primero del presente Acuerdo.
+
+2\. Transferencias a Comunidades Autónomas y Ciudades con Estatuto de Autonomía por los Fondos de Compensación Interterritorial regulados en la Ley 22/2001, de 27 de diciembre: Fondo de Compensación y Fondo Complementario.
+
+Que existe la petición de la Comunidad Autónoma o de la Ciudad con Estatuto de Autonomía al órgano gestor de los créditos en el Ministerio de Hacienda y Función Pública.
+
+3\. Transferencias a Entidades Locales por su participación en los ingresos del Estado.
+
+3.1 En las entregas a cuenta: Que los pagos se realizan conforme a la periodicidad establecida en la correspondiente Ley de Presupuestos Generales del Estado.
+
+3.2 En la liquidación definitiva: Sólo se comprobarán los extremos de carácter general previstos en el apartado primero del presente Acuerdo.
+
+4\. Transferencias a Comunidades Autónomas, a Ciudades con Estatuto de Autonomía y a Entidades Locales por la compensación de cantidades dejadas de percibir, como consecuencia del establecimiento de tributos sobre hechos imponibles gravados por las Comunidades Autónomas o de beneficios fiscales en los tributos locales.
+
+Sólo se comprobarán los extremos de carácter general previstos en el apartado primero del presente Acuerdo.
+
+5\. Transferencias a Comunidades Autónomas y al Instituto Nacional de Gestión Sanitaria por el Fondo de Cohesión Sanitaria regulado en el Real Decreto 1207/2006, de 20 de octubre.
+
+5.1 Liquidación provisional: Que el importe a transferir, a cuenta de la liquidación definitiva, se ajusta al límite porcentual previsto en el artículo 10.2 del Real Decreto 1207/2006, de 20 de octubre.
+
+5.2 Liquidación definitiva: Sólo se comprobarán los extremos de carácter general previstos en el apartado primero del presente Acuerdo.
+
+6\. Transferencias al Instituto de Mayores y Servicios Sociales por los importes correspondientes al nivel mínimo y al nivel acordado de protección previsto en la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia.
+
+Sólo se comprobarán los extremos previstos con carácter general en el apartado primero del presente acuerdo.
+
+> Se modifica por el apartado tercero del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Vigésimo quinto.
+
+En los expedientes para la concesión de ayudas de acción social o la concesión de anticipos al personal, tanto funcionario como laboral, al servicio de la Administración del Estado y sus organismos autónomos y las Entidades gestoras y Servicios comunes de la Seguridad Social, no se efectuará la comprobación de ningún extremo adicional.
+
+### Vigésimo sexto.
+
+En los expedientes de prestaciones tramitados por el Fondo de Garantía Salarial, cualquiera que sea el modo de subrogación empleado, no se efectuará la comprobación de ningún extremo adicional.
+
+### Vigésimo séptimo.
+
+En los expedientes para la concesión de anticipos reintegrables a trabajadores con sentencia a su favor, como extremo adicional a que se refiere el apartado primero.1.f) del presente acuerdo, se comprobará que se aporta resolución judicial ordenando la ejecución provisional de la sentencia y disponiendo el abono del anticipo.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Vigésimo octavo.
+
+En los expedientes de prestaciones a víctimas del terrorismo, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo serán los siguientes:
+
+1\. Prestaciones concedidas al amparo del artículo 94 de la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social y normas de desarrollo.
+
+1.1 Daños Corporales:
+
+A) Indemnizaciones por fallecimiento: Que está acreditada la condición de beneficiario de acuerdo con lo previsto en la normativa de desarrollo.
+
+B) Prestaciones por lesiones de carácter permanente: Que en el informe médico de calificación queda acreditado el grado de incapacidad.
+
+C) Prestaciones por lesiones permanentes no invalidantes: Que en el informe médico de calificación queda acreditado el carácter de lesión permanente no invalidante.
+
+1.2 Prestaciones por tratamiento psicológico de secuelas: Que existe informe facultativo en el que se describe la situación o diagnóstico, tratamiento y su duración aproximada.
+
+1.3 Daños materiales:
+
+a) Que existe, en su caso, informe o tasación pericial de daños materiales por el Consorcio de Compensación de Seguros.
+
+b) Que está acreditado el título por el cual el beneficiario de la ayuda reúne la condición de víctima de atentado terrorista.
+
+c) Que está acreditado el carácter subsidiario de la indemnización a conceder.
+
+2\. Indemnizaciones concedidas al amparo de la Ley 32/1999, de 8 de octubre, de Solidaridad con las Víctimas del Terrorismo:
+
+a) Que existe declaración de transmisión al Estado de cualquier acción civil que se derive de los hechos lesivos por los que se solicita la indemnización, de la que pudiera ser titular el solicitante.
+
+b) Que la Comisión de Evaluación ha aprobado la elaboración de la propuesta de resolución.
+
+c) En las indemnizaciones fijadas en sentencia, que existe sentencia o resolución judicial firme reconociendo una indemnización en concepto de responsabilidad civil, bien sea por fallecimiento o por daños físicos o psicofísicos, de la que resulte acreedor el peticionario.
+
+d) En las indemnizaciones no fijadas en sentencia:
+
+1) Indemnizaciones por fallecimiento. Que está acreditada la condición de beneficiario de acuerdo con el artículo 14 del Real Decreto 1912/1999, de 17 de diciembre.
+
+2) Indemnizaciones por incapacidad permanente. Se verificará que el peticionario tiene reconocida a su favor una indemnización o pensión extraordinaria por incapacidad permanente como víctima del terrorismo en virtud de resolución administrativa previa o que está acreditado el grado de incapacidad.
+
+3) Indemnizaciones por lesiones permanentes no invalidantes. Que en el informe médico quedan acreditadas las secuelas padecidas a consecuencia del acto terrorista.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Vigésimo noveno.
+
+Las prestaciones por razón de necesidad a favor de españoles residentes en el exterior y retornados se verificarán en el momento de su inclusión en nómina, comprobándose como extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo, los siguientes:
+
+1\. En la primera nómina ordinaria del año. Respecto de los beneficiarios incluidos en la misma, que existe resolución del órgano competente reconociendo el derecho a la prestación por necesidad.
+
+2\. Resto de nóminas ordinarias del año:
+
+a) Comprobación aritmética, que se realizará efectuando el cuadre del total de la nómina con el que resulte del período anterior, más la suma algebraica con las variaciones (altas, bajas y modificaciones) incluidas en la nómina del período actual.
+
+b) Comprobación de que las altas en nómina corresponden a resoluciones del órgano competente reconociendo el derecho a la prestación por necesidad.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Trigésimo.
+
+En los expedientes relativos a prestaciones sociales a personas con hemofilia u otras coagulopatías congénitas que hayan desarrollado la Hepatitis C como consecuencia de haber recibido tratamiento con concentrados de factores de coagulación en el ámbito del sistema sanitario público recogidas en la ley 14/2002, de 5 de junio, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo, a verificar en la fase de aprobación y compromiso del gasto, serán los siguientes:
+
+a) Que el beneficiario está incluido en el censo definitivo previsto en el artículo 80 de la Ley 55/1999, de 29 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social.
+
+b) Que el beneficiario ha presentado escrito de renuncia previa del ejercicio de todo tipo de reclamaciones por contaminación por el virus de la hepatitis C contra cualquiera de las Administraciones Públicas sanitarias y centros sanitarios vinculados al Sistema Nacional de Salud, o su respectivo personal.
+
+c) Que el beneficiario ha presentado escrito de no haber obtenido sentencia condenatoria contra cualquiera de las Administraciones Públicas sanitarias y centros sanitarios vinculados al Sistema Nacional de Salud.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Trigésimo primero.
+
+En los expedientes relativos a las ayudas a los afectados por el virus de inmunodeficiencia humana (VIH) como consecuencia de actuaciones realizadas en el sistema sanitario público recogidas en el Real Decreto-Ley 9/1993, de 28 de mayo, se verificará, como extremo adicional a que se refiere el apartado primero.1.f) del presente acuerdo, en el momento de la aprobación del gasto y acuerdo de concesión, que existe informe favorable de la Comisión de Ayudas a afectados por VIH creada en aplicación del artículo 6 del Real Decreto-Ley 9/1993, de 28 de mayo.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Trigésimo segundo.
+
+En los expedientes de reconocimiento del derecho a las pensiones de Clases Pasivas del Estado y de las pensiones extraordinarias de terrorismo a que se refiere el título II del Real Decreto 851/1992, su liquidación e inclusión en nómina, así como la liquidación e inclusión en nómina de las ayudas a los afectados por el VIH, recogidas en el Real Decreto-ley 9/1993, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo serán los siguientes.
+
+I. Requisitos comunes:
+
+a) Fotocopia del Documento Nacional de Identidad (DNI) o documento emitido por el sistema de verificación de datos de identidad. En su caso, fotocopia del número de identificación fiscal de extranjeros (NIE) o comunicación oficial del mismo.
+
+b) Que se señalan, en su caso, las incompatibilidades legales que procedan, según el tipo de pensión.
+
+II. Requisitos específicos para cada tipo de expediente:
+
+1\. Reconocimiento del derecho a las pensiones de Clases Pasivas del Estado y de las pensiones extraordinarias de terrorismo a que se refiere el título II del Real Decreto 851/1992.
+
+1.1 Reconocimiento, por el Ministerio de Defensa, de pensiones de retiro y en favor de familiares.
+
+1.1.1 Pensiones ordinarias de retiro:
+
+a) Que existe solicitud del interesado, en su caso.
+
+b) Que se acredita documentalmente la condición de militar del funcionario.
+
+c) Que queda acreditado el hecho causante que da lugar a la iniciación del procedimiento de reconocimiento de la pensión y se acompaña la documentación correspondiente, suscrita por los organismos que en cada caso resulten competentes.
+
+d) Que se acredita, en su caso, que el funcionario ha completado el período de carencia que da derecho a pensión.
+
+1.1.2 Pensiones extraordinarias de retiro. Además de los requisitos exigidos anteriormente para las pensiones ordinarias de retiro, que existe resolución de la autoridad competente por la que se declare que las causas de la incapacidad son imputables a un acto de servicio.
+
+1.1.3 Pensiones ordinarias en favor de familiares:
+
+a) Que existe certificado de defunción o, en los supuestos que determine la Ley, declaración de fallecimiento o de ausencia legal.
+
+b) Que se acredita el vínculo matrimonial, la relación de parentesco exigida en cada caso o la existencia de una pareja de hecho en los términos y condiciones establecidos en la normativa de aplicación. Si el beneficiario de la pensión ha sido cónyuge legítimo del causante habiéndose decretado durante el matrimonio la separación judicial, divorcio o nulidad del mismo, deberá aportarse certificado literal de matrimonio actualizado a la fecha del óbito del causante.
+
+c) Si el causante hubiera fallecido antes de causar pensión de retiro, copia, debidamente legalizada, de la hoja de servicios o certificado de servicios equivalente. Si el causante hubiera fallecido después de causar pensión de retiro, acuerdo fiscalizado de reconocimiento de dicha pensión.
+
+d) En su caso, acreditación de los supuestos legales adicionales que dan derecho a pensión al solicitante.
+
+1.1.4 Pensiones extraordinarias en favor de familiares:
+
+a) Que existe certificado de defunción o, en los supuestos que determine la Ley, declaración de fallecimiento o de ausencia legal.
+
+b) Que existe resolución de la autoridad competente por la que se establece la baja por fallecimiento en acto de servicio del causante.
+
+c) Copia, debidamente legalizada, de la hoja de servicios o certificado de servicios equivalente. En el supuesto de que la pensión extraordinaria se tramitara una vez reconocida la pensión ordinaria, habrá de verificarse en lugar de la copia de la hoja de servicios o certificado de servicios equivalente, que existe acuerdo fiscalizado de reconocimiento de dicha pensión.
+
+d) Que se acredita el vínculo matrimonial, la relación de parentesco exigida en cada caso o la existencia de una pareja de hecho en los términos y condiciones establecidos en la normativa de aplicación. Si el beneficiario de la pensión ha sido cónyuge legítimo del causante habiéndose decretado durante el matrimonio la separación judicial, divorcio o nulidad del mismo, deberá aportarse certificado literal de matrimonio actualizado a la fecha del óbito del causante.
+
+e) En su caso, acreditación de los supuestos legales adicionales que dan derecho a pensión al solicitante.
+
+1.2 Reconocimiento, por la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Economía y Hacienda, de pensiones en favor de causantes.
+
+1.2.1 Pensiones ordinarias de jubilación:
+
+a) Que existe solicitud, en su caso.
+
+b) Que queda acreditado el hecho causante que da lugar a la iniciación del procedimiento de reconocimiento de la pensión y se acompaña la documentación correspondiente, suscrita por los organismos que en cada caso resulten competentes.
+
+c) Que se acredita, en su caso, que el funcionario ha completado el período de carencia que da derecho a pensión.
+
+1.2.2 Pensiones extraordinarias de jubilación:
+
+a) Que queda acreditado el hecho causante que da lugar a la iniciación del procedimiento de reconocimiento de la pensión y se acompaña la documentación correspondiente, suscrita por los organismos que en cada caso resulten competentes.
+
+En el supuesto de que la pensión extraordinaria se tramitara una vez reconocida la pensión ordinaria, habrá de verificarse, en lugar del requisito del párrafo anterior, que existe resolución fiscalizada de reconocimiento de dicha pensión y, ésta, a su vez, podrá sustituirse por certificado de alta en nómina.
+
+b) Que se acompaña expediente de averiguación de las causas que concurrieron en el hecho causante de la inutilidad, informado por el correspondiente órgano competente en materia de personal; o el expediente instruido por el Ministerio del Interior declaratorio de las lesiones acaecidas como consecuencia de actos de terrorismo o certificación de su contenido, en los supuestos a que se refiere el título I del Real Decreto 851/1992.
+
+1.2.3 Pensiones extraordinarias de terrorismo a que se refiere el título II del Real Decreto 851/1992:
+
+a) Que existe solicitud.
+
+b) Que se acompaña el expediente instruido por el Ministerio del Interior declaratorio de las lesiones acaecidas como consecuencia de actos de terrorismo, o certificación de su contenido.
+
+c) Acreditación de no tener derecho a prestaciones de la misma naturaleza por idéntica causa en cualquier régimen público de Seguridad Social.
+
+1.2.4 Pensiones de retiro de personal militar, reconocidas al amparo del título I de la Ley 37/1984:
+
+a) Que existe solicitud.
+
+b) Que existe en el expediente documentación justificativa del empleo militar efectivamente alcanzado y/o de los servicios prestados por el beneficiario como militar profesional.
+
+1.2.5 Pensiones especiales derivadas de la guerra civil, 1936-1939, al personal al servicio de la República en las Fuerzas Armadas, Fuerzas de Orden Público o Cuerpo de Carabineros durante la guerra civil, reconocidas al amparo del título II de la Ley 37/1984:
+
+a) Que existe solicitud.
+
+b) Que se acompañan al expediente los medios de prueba relativos al empleo alcanzado por el solicitante en las Fuerzas Armadas, Fuerzas de Orden Público o Cuerpo de Carabineros.
+
+1.2.6. Pensiones especiales derivadas de la guerra civil, 1936-1939, a mutilados al amparo del Decreto 670/1976, de la Ley 6/1982, de los Reales Decretos-leyes 43 y 46/1978 y de la Ley 35/1980:
+
+a) Que existe solicitud.
+
+b) Que existe dictamen médico con la puntuación mínima exigida para el derecho, emitido por el Tribunal Médico Central o por el Tribunal Médico competente a efectos del reconocimiento de los derechos regulados en la Ley 5/1976.
+
+c) En el supuesto de pensiones en favor de profesionales de las Fuerzas o Institutos Armados, deberá quedar justificado en el expediente el empleo efectivamente alcanzado y/o los servicios prestados por el interesado o, en su caso, el reconocimiento de servicios, efectuado por el Ministerio del Interior al amparo del Decreto 3357/1975 o de la Ley 46/1977, por el Ministerio de Defensa, al amparo del Real Decreto-ley 6/1978, o por la Dirección General de Costes de Personal y Pensiones Públicas, en aplicación de lo establecido en el título I de la Ley 37/1984.
+
+1.3 Reconocimiento, por la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Economía y Hacienda, de pensiones en favor de familiares:
+
+a) Que existe solicitud.
+
+b) Que existe certificado de defunción del causante o, en su caso, declaración de fallecimiento o de ausencia legal en los casos que determine la Ley.
+
+c) Que se acredita el vínculo matrimonial, la relación de parentesco exigida en cada caso o la existencia de una pareja de hecho en los términos y condiciones establecidos en la normativa de aplicación.
+
+d) En su caso, acreditación de los supuestos legales adicionales que dan derecho a pensión al solicitante.
+
+e) Justificación de los requisitos señalados en los apartados anteriores relativos al derecho a pensión del causante, excepto lo relativo al período de carencia mencionado en el apartado II).1.2.1.c) anterior.
+
+Ello no será necesario si el causante o el anterior beneficiario de la pensión por derecho preferente tuviesen la condición de pensionista, pudiendo sustituirse la citada justificación con el correspondiente certificado de baja en nómina en caso de que hubiesen estado percibiendo la pensión en el momento del nacimiento del derecho del solicitante o, en caso contrario, con la resolución fiscalizada de reconocimiento y el certificado de no alta en nómina.
+
+f) Cuando se trate de pensiones en favor de familiares de fallecidos en la guerra civil o como consecuencia de ella, reconocidas al amparo de la Ley 5/1979, y el causante hubiera sido profesional de las Fuerzas o Institutos Armados, habrá de verificarse, asimismo, que se acompaña certificación expedida por el órgano competente, en la que conste la base reguladora que por graduación y años de servicio habría correspondido al causante.
+
+1.4 Rehabilitación y acumulación de pensiones por la Dirección General de Costes de Personal y Pensiones Públicas o, en su caso, por las Delegaciones del Ministerio de Economía y Hacienda.
+
+1.4.1 Rehabilitación de pensiones perdidas por no presentarse al cobro o no acreditar la vivencia o la aptitud legal en el correspondiente control, por recuperación de aptitud legal y por desaparición de la incompatibilidad por cese en el trabajo activo:
+
+a) Que existe solicitud.
+
+b) Certificado de baja en nómina en el que se haga constar la causa de la baja, el importe y la fecha en que ésta se produjo, o resolución fiscalizada de reconocimiento de la pensión y certificado de no alta en nómina.
+
+c) En su caso, declaración de fe de vida y estado.
+
+d) Cuando la rehabilitación sea por desaparición de la incompatibilidad se deberá acompañar la documentación que acredite el cese en el trabajo activo, así como la fecha de éste, que dio o debió dar lugar a la baja en el percibo del haber pasivo correspondiente.
+
+1.4.2 Acumulación por fallecimiento, pérdida de aptitud legal, aplicación de incompatibilidades y límite máximo de percepción:
+
+a) Que existe solicitud.
+
+b) Resolución de reconocimiento fiscalizada de conformidad o certificado de alta en nómina del solicitante.
+
+c) Que, con efectos desde el momento del nacimiento del derecho del solicitante, se acredita la baja en nómina del copartícipe cuya porción es objeto de acumulación o, en su caso, resolución fiscalizada y certificado justificativo de que no se ha producido el alta en nómina del mismo.
+
+1.5 Complementos económicos para mínimos:
+
+a) Que existe solicitud.
+
+b) Que se acredita la renta percibida por el solicitante en el año anterior a la solicitud.
+
+c) Certificado del Registro de pensiones públicas.
+
+1.6 Revisiones y resoluciones de recursos sobre las resoluciones de reconocimiento de pensiones por la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Economía y Hacienda y por la Dirección General de Personal del Ministerio de Defensa.
+
+1.6.1 En revisiones generales, que se motiva suficientemente la necesidad de tal revisión general y se define con exactitud las pensiones afectadas por la misma.
+
+1.6.2 En revisiones particulares se aplicará el régimen específico de cada tipo de pensión de acuerdo con los apartados anteriores, si bien no será necesario acreditar aquellos extremos que no afecten a la revisión y no hayan sufrido alteración alguna.
+
+1.6.3 Las resoluciones de recursos se tratarán como las revisiones particulares de pensiones.
+
+2\. Liquidación de pensiones, de las ayudas a los afectados por el VIH a que se refieren los párrafos b), c) y d) del apartado 1 del artículo 2 del Real Decreto-ley 9/1993; tanto en régimen centralizado, a través de la Dirección General de Costes de Personal y Pensiones Públicas, como en régimen descentralizado a través de las Unidades de Clases Pasivas de las Delegaciones del Ministerio de Economía y Hacienda.
+
+2.1 Liquidaciones por reconocimiento, rehabilitación, acumulación o coparticipación de pensiones o ayudas:
+
+a) Que existe la correspondiente resolución de reconocimiento, rehabilitación, acumulación o coparticipación de pensiones o ayudas fiscalizada de conformidad.
+
+b) Que se cumple la legislación sobre limitación de pensiones.
+
+Se comprobará con base en la declaración del interesado y, en su caso, con certificado de los datos económicos de cada una de las pensiones sujetas a límite conjunto incluidas en el Registro de prestaciones sociales públicas.
+
+c) Que se cumple la legislación sobre incompatibilidades.
+
+Se comprobarán las explícitamente señaladas en la resolución fiscalizada de reconocimiento de la pensión y las relativas al derecho al cobro con base en la declaración del interesado; tanto las relacionadas con otras pensiones como con la duplicidad en el cobro de la misma pensión, bien por el mismo o distinto beneficiario.
+
+En su caso, justificación fehaciente de las fechas de pérdida del derecho al cobro y la oportuna baja en nómina.
+
+En el supuesto de existencia de pagos indebidos, que existe justificante del reintegro al Tesoro o de inicio del procedimiento del mismo.
+
+d) Verificación de la fecha de efectos económicos y de los parámetros utilizados en los cálculos aritméticos efectuados.
+
+2.2 Liquidaciones por reactivación de pensiones o ayudas:
+
+a) Que existe certificado de baja en nómina por no presentarse al cobro, por no haber pasado revista o por falta de fe de vida o declaración de vida y estado.
+
+b) Verificación de la fecha de efectos económicos y de los parámetros utilizados en los cálculos aritméticos efectuados.
+
+2.3 Liquidaciones por concesión de complementos económicos para mínimos:
+
+a) Que existe la correspondiente resolución, fiscalizada de conformidad.
+
+b) Verificación de la fecha de efectos económicos y de los parámetros utilizados en los cálculos aritméticos efectuados.
+
+2.4 Haberes devengados y no percibidos:
+
+a) Que existe solicitud.
+
+b) Certificado de defunción del anterior beneficiario.
+
+c) Certificado de baja en nómina por fallecimiento.
+
+En caso de no haber sido alta la correspondiente liquidación fiscalizada se presentará ésta y certificado de no alta en nómina.
+
+d) Que existe, en su caso, justificante de reintegro al Tesoro.
+
+e) Verificación de los parámetros utilizados en los cálculos aritméticos efectuados.
+
+2.5 Retenciones por embargo de pensiones o ayudas: Que existe providencia u orden de embargo de haberes pasivos, decretada por autoridad competente.
+
+2.6 Revisiones y resoluciones de recursos sobre liquidaciones de pensiones o ayudas.
+
+2.6.1 En revisiones generales, que se motiva suficientemente la necesidad de tal revisión general y se definen con exactitud las pensiones afectadas por la misma.
+
+2.6.2 En revisiones particulares se aplicará el régimen específico de cada tipo de expediente de acuerdo con los apartados anteriores, si bien no será necesario acreditar aquellos extremos que no afecten a la revisión y no hayan sufrido alteración alguna.
+
+2.6.3 Las resoluciones de recursos se tratarán como las revisiones particulares, comprobándose la existencia de la correspondiente solicitud.
+
+3\. Nóminas de pago periódico de Clases Pasivas.
+
+3.1 Nómina de pago directo:
+
+a) Que los estados resumen de la nómina estén firmados por el responsable de su formación y se proponen para su autorización al órgano competente.
+
+b) Comprobación aritmética, que se realizará efectuando el cuadre del total de la nómina con el que resulte del mes anterior más la suma algebraica de las variaciones incluidas en la nómina del mes de que se trate.
+
+c) Habrá de verificarse que las altas responden a liquidaciones aprobadas y fiscalizadas de conformidad.
+
+3.2 Nómina de pago a través de Habilitados de Clases Pasivas:
+
+a) Que los estados resumen de la nómina y de su desglose están firmados por los responsables de su formación y se proponen para su autorización al órgano competente.
+
+b) Comprobación aritmética, que se realizará efectuando el cuadre del total de la nómina con el que resulte del mes anterior más la suma algebraica de las variaciones incluidas en la nómina del mes de que se trate.
+
+c) Habrá de verificarse que las altas responden a liquidaciones aprobadas y fiscalizadas de conformidad.
+
+d) Comprobación aritmética del desglose de cada uno de los habilitados de Clases Pasivas, que se realizará efectuando el cuadre del total de cada uno con el que resulte del mes anterior más el importe total de las variaciones incluidas en el mes de que se trate correspondientes al mismo.
+
+e) Comprobación de que la suma algebraica de los totales de los referidos desgloses coincide con el total de la nómina y con el total de las variaciones.
+
+3.3 Nómina de pensionistas sujetos a retención judicial:
+
+a) Que los estados resumen de la nómina y del desglose de retenciones están firmados por los responsables de su formación y se proponen para su autorización al órgano competente.
+
+b) Comprobación aritmética, que se realizará efectuando el cuadre del total de la nómina con el que resulte del mes anterior más la suma algebraica de las variaciones incluidas en la nómina del mes de que se trate.
+
+c) Idéntica comprobación aritmética del apartado b) anterior para el desglose de retenciones por altas y bajas.
+
+d) Idéntica comprobación de las altas que en la nómina de pago directo.
+
+4\. Los certificados de baja, alta o no alta en nómina que se citan en los números anteriores, podrán efectuarse mediante información extraída del sistema informático de nóminas de Clases Pasivas.
+
+5\. En los expedientes en que el reconocimiento del derecho y su liquidación se tramiten de forma conjunta, se comprobará si se cumplen los requisitos específicos señalados para cada uno de dichos actos.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Trigésimo tercero.
+
+En las prestaciones y subsidios por desempleo, así como las de subsidios por desempleo de trabajadores eventuales incluidos en el Régimen Especial Agrario de la Seguridad Social, se comprobarán al incluirse en nómina los extremos contenidos en el apartado primero del presente acuerdo.
+
+### Trigésimo cuarto.
+
+En los expedientes de prestaciones del Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado, así como de las específicas del Fondo especial de la MUFACE, y de su liquidación e inclusión en nómina, en su caso, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo, serán los siguientes:
+
+1\. Reconocimiento de obligaciones derivadas de conciertos suscritos con entidades públicas o privadas para la prestación de servicios sanitarios y farmacéuticos:
+
+a) Que el concierto de aplicación está debidamente suscrito y en vigor.
+
+b) Que las liquidaciones están conformadas por los órganos responsables de la Mutualidad General de Funcionarios Civiles del Estado.
+
+2\. Reconocimiento de obligaciones derivadas de conciertos suscritos con entidades públicas o privadas para la prestación de servicios sociales o de asistencia social:
+
+a) Que el concierto de aplicación está debidamente suscrito y en vigor.
+
+b) Que las liquidaciones estén conformadas por los órganos responsables de la Mutualidad General de Funcionarios Civiles del Estado.
+
+3\. Reconocimiento de obligaciones derivadas de contratos con compañías de seguros para la cobertura de gastos por asistencia sanitaria y farmacéutica:
+
+a) Que el contrato de aplicación está debidamente suscrito y en vigor.
+
+b) Que las liquidaciones están conformadas por los órganos responsables de la Mutualidad General de Funcionarios Civiles del Estado.
+
+4\. Concesión de pensiones u otras prestaciones propias de las Mutualidades integradas en el fondo especial de la MUFACE:
+
+a) Que está acreditado que el peticionario es mutualista o beneficiario de la correspondiente Mutualidad integrada.
+
+b) Que está acreditada la cobertura del período de carencia, exigido, en su caso, por la norma que regula la prestación solicitada.
+
+c) Verificación de que el mutualista está al corriente del pago de las cuotas.
+
+5\. Nóminas de pensiones y demás prestaciones:
+
+a) Que las nóminas están firmadas por los responsables de su formación y se proponen para su autorización al órgano competente.
+
+b) Comprobación aritmética, que se realizará efectuando el cuadre del total de la nómina con el que resulta del mes anterior más la suma algebraica de las variaciones incluidas en la nómina del mes de que se trate.
+
+c) Comprobación de que las altas en nómina responden a acuerdos, reconociendo el derecho a la pensión o prestación, fiscalizados de conformidad.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Trigésimo quinto.
+
+En los expedientes de prestaciones generales del Régimen General de la Seguridad Social de los funcionarios al Servicio de la Administración de Justicia, así como de las específicas para los mutualistas de las Mutualidades integradas en la Mutualidad General Judicial, y de su liquidación e inclusión en nómina, en su caso, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo, serán los siguientes:
+
+1\. Reconocimiento de obligaciones derivadas de conciertos suscritos con entidades públicas o privadas para la prestación de servicios sanitarios y farmacéuticos:
+
+a) Que el concierto de aplicación está debidamente suscrito y en vigor.
+
+b) Que las liquidaciones están conformadas por los órganos responsables de la Mutualidad General Judicial.
+
+2\. Prestaciones sanitarias y farmacéuticas que no deriven de conciertos suscritos con otras entidades.
+
+2.1 Prestación de asistencia solicitada directamente por el mutualista o beneficiario en establecimientos distintos de los establecidos por la Mutualidad:
+
+a) Que está acreditado que el peticionario es mutualista o beneficiario de la Mutualidad General Judicial.
+
+b) Que existe informe del servicio médico de la Mutualidad.
+
+2.2 Ayudas económicas para prótesis y autovacunas. Se comprobarán exclusivamente los extremos contenidos en el apartado primero y, en su caso, segundo del presente acuerdo.
+
+2.3 Hospitalización psiquiátrica:
+
+a) Que está acreditado que el peticionario es mutualista o beneficiario de la Mutualidad General Judicial.
+
+b) Que existe certificado médico justificativo de la enfermedad mental.
+
+3\. Prestaciones por incapacidad permanente.
+
+3.1 Prestaciones por razón de incapacidad:
+
+a) Que está acreditado que el peticionario es mutualista de la Mutualidad General Judicial.
+
+b) Que existe resolución de jubilación por incapacidad.
+
+3.2 Prestación por gran invalidez. Además de los requisitos a) y b) del número 3.1 anterior, habrá de verificarse que existe acreditación de que el peticionario es gran inválido.
+
+4\. Prestaciones por asistencia social. Que está acreditado que el peticionario es mutualista de la Mutualidad General Judicial.
+
+5\. Prestaciones sociales.
+
+5.1 Ayuda a minusválidos físicos y psíquicos:
+
+a) Que está acreditado que el peticionario es mutualista de la Mutualidad General Judicial.
+
+b) Que existe certificado del órgano competente acreditativo de la minusvalía.
+
+c) En el caso de que se trate de ayuda vitalicia, que existe certificado de defunción o resolución de jubilación del mutualista.
+
+5.2 Ayuda para gastos de sepelio y ayuda a jubilados forzosos por razón de edad. Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo.
+
+6\. Concesión de pensiones y otras prestaciones propias de las Mutualidades integradas en la Mutualidad General Judicial:
+
+a) Que está acreditado que el peticionario es mutualista o beneficiario de la correspondiente Mutualidad integrada.
+
+b) Que está acreditada la cobertura del período de carencia exigido, en su caso, por la norma que regula la prestación solicitada.
+
+7\. Nóminas de pensiones y prestaciones:
+
+a) Que las nóminas están firmadas por los responsables de su formación y se proponen para su autorización al órgano competente.
+
+b) Comprobación aritmética, que se realizará efectuando el cuadre del total de la nómina con el que resulta del mes anterior más la suma algebraica de las variaciones incluidas en la nómina del mes de que se trate.
+
+c) Comprobación de que las altas en nómina responden a acuerdos, reconociendo el derecho a la pensión o prestación, fiscalizados de conformidad.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Trigésimo sexto.
+
+En los expedientes de prestaciones generales del Régimen Especial de la Seguridad Social de las Fuerzas Armadas, así como de las específicas para los mutualistas de las Mutualidades integradas en el Instituto Social de las Fuerzas Armadas, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo, serán los siguientes:
+
+1\. Reconocimiento de obligaciones derivadas de conciertos o contratos suscritos con entidades públicas o privadas para la prestación de servicios sanitarios y farmacéuticos, asistencia socio sanitaria a domicilio y teleasistencia del mecanismo de la Seguridad Social que gestiona ISFAS:
+
+a) Que el concierto o contrato está debidamente suscrito y en vigor.
+
+b) Que las facturas y las liquidaciones están conformadas por los órganos responsables del Instituto Social de las Fuerzas Armadas.
+
+2\. Prestaciones sanitarias y farmacéuticas que no deriven de conciertos suscritos con otras entidades.
+
+Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo.
+
+3\. Prestaciones económicas y recuperadoras, en su caso, por inutilidad para el servicio, e indemnizaciones por lesiones, mutilaciones o deformidades de carácter permanente no invalidante; subsidio por incapacidad temporal; prestaciones económicas de protección a la familia, que no deriven de conciertos o contratos suscritos con otras entidades: se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente Acuerdo.
+
+4\. Prestaciones por servicios sociales y asistencia social, que no deriven de conciertos o contratos suscritos con otras entidades: En el caso de prestaciones cuyo reconocimiento exija la previa acreditación de un determinado grado de discapacidad o minusvalía, se comprobará que existe dictamen emitido por el órgano competente, en el que se califiquen dichas circunstancias.
+
+5\. Concesión de pensiones y otras prestaciones propias de las Mutualidades integradas en el Instituto Social de las Fuerzas Armadas:
+
+a) Que está acreditado que el peticionario es mutualista o beneficiario de la correspondiente Mutualidad integrada.
+
+b) Que está acreditada la cobertura del período de carencia, exigido, en su caso, por la norma que regula la prestación solicitada.
+
+6\. Nóminas de pensiones y prestaciones:
+
+a) Que las nóminas están firmadas por los responsables de su formación y se proponen para su autorización al órgano competente.
+
+b) Comprobación aritmética, que se realizará efectuando el cuadre del total de la nómina con el que resulta del mes anterior más la suma algebraica de las variaciones incluidas en la nómina del mes de que se trate.
+
+c) Comprobación de que las altas en nómina responden a acuerdos, reconociendo el derecho a la pensión o prestación, fiscalizados de conformidad.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Trigésimo séptimo.
+
+En los expedientes de prestaciones económicas y otros expedientes relacionados con las mismas, gestionados por las Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado primero.1. f) del presente acuerdo serán los siguientes:
+
+I. Requisitos comunes
+
+a) Que existe solicitud del interesado, en su caso.
+
+b) Que el causante está afiliado y en alta o situación asimilada a la de alta, al sobrevenir la contingencia, salvo disposición legal expresa en contrario.
+
+c) En los supuestos en los que sea exigible que el causante se encuentre al corriente en el pago de las cuotas de la Seguridad Social, que se acredita este requisito, en los términos legalmente establecidos.
+
+d) Que la prestación que se pretende reconocer se encuentra incluida en la acción protectora del colectivo de que se trate.
+
+e) En el caso de que los documentos acreditativos de cualquiera de los requisitos contemplados en este apartado han sido expedidos en un país extranjero, éstos deberán constar en los expedientes debidamente legalizados y traducidos, cuando ello fuera necesario.
+
+II. Requisitos específicos para cada tipo de expediente
+
+1\. Expedientes de reconocimiento de pensiones:
+
+1.1 Pensiones de incapacidad permanente:
+
+a) Que se acredita el período mínimo de cotización exigido por la normativa de aplicación.
+
+b) Que se acredita que la fecha del hecho causante es la correcta.
+
+c) Que se aporta dictamen-propuesta del Equipo de Valoración de Incapacidades o, en su caso, del órgano competente para emitir dicho dictamen en cada Comunidad Autónoma en la que no se haya constituido el Equipo de Valoración de Incapacidades, con determinación del grado de incapacidad y contingencia causante de la misma.
+
+d) En el supuesto de incapacidad permanente derivada de contingencias comunes, que el beneficiario, en la fecha del hecho causante, no tiene la edad ordinaria de jubilación, salvo que no reúna los requisitos para acceder a esta pensión.
+
+1.2 Pensiones de jubilación:
+
+A) Requisitos comunes a las distintas modalidades de pensión de jubilación:
+
+a) Que la fecha del hecho causante es la correcta.
+
+b) Que en la fecha del hecho causante se alcanza la edad exigida en cada uno de los supuestos de jubilación previstos en la normativa de aplicación.
+
+c) Que en la fecha del hecho causante se reúne el período mínimo de cotización exigido por la normativa de aplicación para cada modalidad de jubilación.
+
+B) Requisitos específicos para determinados tipos de pensión de jubilación:
+
+1.2.B.1 Jubilación anticipada en régimen de derecho transitorio.
+
+Que se acredita la condición de mutualista o de cotizante en las fechas establecidas en las normas que regulan dicha modalidad de jubilación.
+
+1.2.B.2 Jubilación anticipada:
+
+1.2.B.2.A) Jubilación anticipada a partir de los sesenta y un años para hechos causantes anteriores a 1 de enero de 2020 (aplicación legislación vigente hasta 31-12-2012):
+
+a) Que existe la inscripción como demandante de empleo durante el plazo legalmente establecido, salvo en los supuestos en los que este requisito no sea exigible.
+
+b) Que el cese en el trabajo no se haya producido por causa imputable a la libre voluntad del trabajador, salvo en los supuestos en los que este requisito no sea exigible.
+
+c) Que el causante se encuentra en alguno de los supuestos contemplados en la disposición transitoria cuarta.5 del texto refundido de la Ley General de la Seguridad Social.
+
+1.2.B.2.B) Jubilación anticipada (aplicación legislación vigente a partir de 1-1-2013).
+
+1.2.B.2.B)1) Derivada del cese en el trabajo por causa no imputable a la libre voluntad del trabajador:
+
+a) Que existe la inscripción como demandante de empleo durante el plazo legalmente establecido.
+
+b) Que el cese en el trabajo se haya producido como consecuencia de una situación de reestructuración empresarial que impida la continuidad de la relación laboral, siendo las causas de extinción del contrato de trabajo las legalmente establecidas.
+
+1.2.B.2.B)2) Acceso anticipado por voluntad del interesado:
+
+Que el importe de la pensión a percibir sea superior a la cuantía de la pensión mínima que correspondería al interesado por su situación familiar al cumplimiento de los sesenta y cinco años de edad.
+
+1.2.B.3 Jubilación parcial:
+
+1.2.B.3.A) Jubilación parcial para hechos causantes anteriores a 1 de enero de 2020 (aplicación legislación vigente hasta 31-12-2012).
+
+1.2.B.3.A)1) Jubilación parcial de trabajadores con 65 años de edad:
+
+a) Que se ha reducido la jornada de trabajo en un porcentaje comprendido dentro de los límites previstos en la normativa de aplicación.
+
+b) Que el causante se encuentra en alguno de los supuestos contenidos en la disposición transitoria cuarta.5 del texto refundido de la Ley General de la Seguridad Social.
+
+1.2.B.3.A)2) Jubilación parcial de trabajadores menores de 65 años:
+
+a) Que la empresa concierta simultáneamente un contrato de relevo con un trabajador en situación de desempleo o que tenga concertado con la empresa un contrato de duración determinada.
+
+b) Que el período de antigüedad en la empresa es el exigido por la normativa de aplicación.
+
+c) Que el solicitante procede de un trabajo a tiempo completo y que se ha reducido la jornada de trabajo en un porcentaje comprendido dentro de los límites previstos en la normativa de aplicación.
+
+d) Que el causante se encuentra en alguno de los supuestos contemplados en la disposición transitoria cuarta.5 del texto refundido de la Ley General de la Seguridad Social.
+
+1.2.B.3.B) Jubilación parcial para hechos causantes anteriores a 1 de enero de 2023 (aplicación legislación vigente hasta 31-12-2012):
+
+a) Que la empresa concierta simultáneamente un contrato de relevo con un trabajador en situación de desempleo o que tenga concertado con la empresa un contrato de duración determinada.
+
+b) Que el período de antigüedad en la empresa es el exigido por la normativa de aplicación.
+
+c) Que el solicitante procede de un trabajo a tiempo completo y que se ha reducido la jornada de trabajo en un porcentaje comprendido dentro de los límites previstos en la normativa de aplicación.
+
+d) Que el solicitante realiza directamente funciones que requieran esfuerzo físico o alto grado de atención en tareas de fabricación, elaboración o transformación, así como en las de montaje, puesta en funcionamiento, mantenimiento y reparación especializados de maquinaria y equipo industrial en empresas clasificadas como industria manufacturera.
+
+e) Que el porcentaje de trabajadores en la empresa cuyo contrato de trabajo lo sea por tiempo indefinido, supera el 70 por ciento del total de los trabajadores de la plantilla.
+
+1.2.B.3.C) Jubilación parcial (aplicación legislación vigente desde 1-1-2013):
+
+1.2.B.3.C)1) Jubilación parcial de trabajadores que hayan cumplido la edad referida en el artículo 205.1.a) en relación con lo establecido en la disposición transitoria séptima del texto refundido de la Ley General de la Seguridad Social.
+
+Que se ha reducido la jornada de trabajo en un porcentaje comprendido dentro de los límites previstos en la normativa de aplicación.
+
+1.2.B.3.C)2) Jubilación parcial de trabajadores que no hayan cumplido la edad referida en el artículo 205.1.a) en relación con lo establecido en la disposición transitoria séptima del texto refundido de la Ley General de la Seguridad Social:
+
+a) Que la empresa concierta simultáneamente un contrato de relevo con un trabajador en situación de desempleo o que tenga concertado con la empresa un contrato de duración determinada.
+
+b) Que el período de antigüedad en la empresa es el exigido por la normativa de aplicación.
+
+c) Que el solicitante procede de un trabajo a tiempo completo y que se ha reducido la jornada de trabajo en un porcentaje comprendido dentro de los límites previstos en la normativa de aplicación.
+
+1.2.B.4 Jubilación total procedente de una parcial:
+
+En los supuestos de jubilación anticipada, que se acreditan los extremos establecidos en este Acuerdo para la modalidad de la que se trate.
+
+1.2.B.5 Jubilación especial a los sesenta y cuatro años (aplicación legislación vigente hasta 31-12-2012):
+
+a) Que se aporta el contrato del sustituto y que el mismo se ajusta a alguna de las modalidades de contratación permitidas por la normativa.
+
+b) Que existe la inscripción como demandante de empleo del trabajador sustituto.
+
+c) Que existe simultaneidad entre la vigencia del contrato del sustituto y el cese del que se jubila.
+
+d) Que el causante se encuentra en alguno de los supuestos contemplados en la disposición transitoria cuarta.5 del texto refundido de la Ley General de la Seguridad Social.
+
+1.2.B.6 Jubilación flexible:
+
+a) Que se ha reducido la jornada de trabajo en un porcentaje comprendido dentro de los límites previstos en la normativa de aplicación.
+
+b) Que la cuantía de la pensión de la jubilación ordinaria se minora en proporción inversa a la reducción aplicable a la jornada de trabajo del pensionista, en relación a la de un trabajador a tiempo completo comparable.
+
+1.2.B.7 Pensión de jubilación y envejecimiento activo:
+
+1.2.B.7.A) En el supuesto de que la compatibilidad de la pensión de jubilación con el trabajo se solicite simultáneamente con la pensión de jubilación ordinaria:
+
+a) Que el porcentaje aplicable a la base reguladora a efectos de determinar la cuantía de la pensión causada alcanza el 100 por ciento.
+
+b) Que la cuantía de la pensión de jubilación compatible con el trabajo sea equivalente al 50 por ciento del importe resultante en el reconocimiento inicial. No obstante, la cuantía de la pensión compatible con el trabajo alcanzará al 100 por ciento si la actividad se realiza por cuenta propia y se acredita tener contratado, al menos, a un trabajador por cuenta ajena.
+
+1.2.B.7.B) En el supuesto de que la compatibilidad de la pensión de jubilación con el trabajo se solicite con posterioridad al reconocimiento inicial de la pensión de jubilación ordinaria:
+
+a) Que el porcentaje aplicado a la base reguladora de la pensión de jubilación ordinaria reconocida alcanza el 100 por ciento.
+
+b) Que la cuantía de la pensión de jubilación que se esté percibiendo en el momento de solicitar la compatibilidad con el trabajo se reduce en un 50 por ciento. No obstante, la cuantía de la pensión compatible con el trabajo alcanzará al 100 por ciento si la actividad se realiza por cuenta propia y se acredita tener contratado, al menos, a un trabajador por cuenta ajena.
+
+1.3 Pensiones de muerte y supervivencia:
+
+A) Requisitos comunes a estas pensiones:
+
+a) Que en la fecha del fallecimiento del causante, éste reúne el período mínimo de cotización exigido por la normativa de aplicación, en su caso, o que tenía la condición de pensionista de incapacidad permanente o jubilación, en su modalidad contributiva, o había percibido la indemnización sustitutiva de la pensión por incapacidad permanente total o había cesado en el trabajo teniendo derecho a pensión de jubilación falleciendo sin solicitarla.
+
+b) Que se acredita el fallecimiento del causante a través del medio que proceda en cada caso, o declaración de fallecimiento, excepto en los supuestos contemplados en el artículo 217.3 del texto refundido de la Ley General de la Seguridad Social.
+
+c) Que se acredita el vínculo matrimonial, la relación de parentesco exigida en cada caso o la existencia de una pareja de hecho en los términos y condiciones establecidos en la normativa de aplicación.
+
+B) Requisitos específicos para cada tipo de pensión:
+
+1.3.B.1 Pensiones de viudedad:
+
+1.3.B.1.1 Pensión de viudedad solicitada por el cónyuge superviviente en el supuesto de fallecimiento del causante por enfermedad común sobrevenida con anterioridad al matrimonio.
+
+Que existen hijos comunes, o que el matrimonio se ha celebrado con la antelación al fallecimiento establecida en la normativa, o bien se acredita el período de convivencia en los términos y condiciones exigidos por la normativa de aplicación.
+
+1.3.B.1.2 Pensión de viudedad en supuestos de separación, divorcio o nulidad matrimonial:
+
+a) Que no se hubiese contraído nuevas nupcias o se hubiera constituido una pareja de hecho en los términos del artículo 221 del texto refundido de la Ley General de la Seguridad Social.
+
+b) Que en el momento del fallecimiento del causante se es acreedor de la pensión compensatoria establecida en la legislación civil para los supuestos de separación judicial o divorcio y que ésta quedara extinguida a la muerte del causante, o que se haya reconocido la indemnización establecida para los supuestos de nulidad matrimonial. La condición de ser acreedor de la pensión compensatoria no se exigirá en los supuestos en los que se acredite la condición de víctima de violencia de género, en los términos establecidos en el artículo 220.1 del texto refundido de la Ley General de la Seguridad Social, ni en los supuestos contemplados en la disposición transitoria decimotercera del mismo texto legal, siempre que se cumplan las condiciones establecidas en dicha disposición.
+
+c) En el supuesto especial de fallecimiento por enfermedad común sobrevenida con anterioridad al matrimonio, además deberá verificarse el requisito contenido en el apartado 1.3.B.1.1 anterior.
+
+1.3.B.1.3 Pensión de viudedad solicitada por la pareja de hecho:
+
+a) Que se acredita la constitución de una pareja de hecho en los términos establecidos, a los efectos de esta prestación, en el artículo 221 del texto refundido de la Ley General de la Seguridad Social.
+
+b) Que los ingresos del solicitante no superen el límite establecido en la normativa de aplicación.
+
+1.3.B.1.4 Prestación temporal de viudedad:
+
+Que el cónyuge superviviente no puede acceder a la pensión de viudedad por no acreditar que su matrimonio con el causante ha tenido una duración de un año, o bien no supera los dos años de convivencia sumado al de duración del matrimonio, o alternativamente, por la inexistencia de hijos comunes.
+
+1.3.B.2 Pensiones de orfandad:
+
+Que en la fecha del fallecimiento del causante el beneficiario se halla dentro del límite de edad exigido o se acredita la incapacidad para el trabajo en el grado que determine la normativa de aplicación.
+
+1.3.B.3 Prestación de orfandad
+
+a) Que se acredita que el fallecimiento se ha producido como consecuencia de violencia contra la mujer en los términos en que se defina por la ley o por los instrumentos internacionales ratificados por España.
+
+b) Que el beneficiario se halle en circunstancias equiparables a una orfandad absoluta.
+
+c) Que no reúnen los requisitos necesarios para causar una pensión de orfandad.
+
+d) Que en la fecha del fallecimiento del causante el beneficiario se halla dentro del límite de edad exigido.
+
+1.3.B.4 Pensiones en favor de familiares:
+
+1.3.B.4.1 Con carácter general, en todos los supuestos se comprobará:
+
+a) Que exista convivencia con el causante y a sus expensas durante el período de tiempo exigido por la normativa de aplicación.
+
+b) Que el beneficiario carece de medios de subsistencia.
+
+c) Que el beneficiario no tenga derecho a pensión pública.
+
+1.3.B.4.2 Según el solicitante de que se trate, se comprobarán los siguientes extremos:
+
+a) Nietos y hermanos:
+
+a’) Que tienen la edad o la reducción de su capacidad de trabajo en los términos establecidos en la normativa de aplicación.
+
+a’’) Que son huérfanos en el grado exigido por la normativa de aplicación.
+
+b) Madre y abuelas:
+
+Que se acredita el estado civil previsto en la normativa y, en el supuesto de mujeres casadas, la edad o la incapacidad para el trabajo de su marido en el grado exigido por la normativa de aplicación.
+
+c) Padre y abuelos:
+
+Que tengan cumplida la edad reglamentariamente establecida o se hallen incapacitados para el trabajo en el grado exigido por la normativa de aplicación.
+
+d) Hijos y hermanos de pensionistas de jubilación o incapacidad permanente en su modalidad contributiva:
+
+Que se acredita la edad y el estado civil que se exige en la normativa de aplicación.
+
+1.4 Complemento por maternidad en las pensiones contributivas del sistema de la Seguridad Social:
+
+a) Que el hecho causante de la pensión a complementar se haya producido entre 1 de enero de 2016 y 3 de febrero de 2021.
+
+b) Que los hijos hayan nacido o hayan sido adoptados con anterioridad al hecho causante de la pensión a complementar.
+
+1.5 Complemento de pensiones contributivas para la reducción de la brecha de género:
+
+a) Que se acredita que el hecho causante de la pensión a complementar se ha producido a partir del 4 de febrero de 2021.
+
+b) Que se acredita la filiación del hijo o hija.
+
+c) Que los hijos o hijas hayan nacido o hayan sido adoptados con anterioridad al hecho causante de la pensión a complementar.
+
+d) En el caso de mujeres: Que se acredita que la interesada es beneficiaria de una pensión contributiva de jubilación, incapacidad permanente o viudedad.
+
+e) En el caso de hombres:
+
+1\. Tener derecho a una pensión de viudedad por fallecimiento del otro progenitor por los hijos o hijas en común, siempre que alguno de ellos tenga derecho a percibir una pensión de orfandad, o
+
+2\. tener derecho a una pensión contributiva de jubilación o incapacidad permanente y haber interrumpido o haber visto afectada su carrera profesional con ocasión del nacimiento o adopción.
+
+2\. Expedientes de reconocimiento de subsidios o asignaciones mensuales:
+
+2.1 Incapacidad temporal pago directo:
+
+a) Que se acredita el período mínimo de cotización exigido por la normativa de aplicación.
+
+b) Que se acredita la existencia del parte médico de baja a través del medio que proceda en cada caso. En los casos procedentes de pago delegado, que se acredita la existencia del parte de confirmación siguiente al último abonado por la empresa a través del medio que proceda, si éste ya se hubiera expedido, en los supuestos en que sea exigible según la normativa de aplicación, o que existe la resolución correspondiente en aquellos casos en que proceda. En el caso de que el parte de confirmación siguiente al último abonado por la empresa aún no se hubiera expedido, como consecuencia de la duración del proceso estimada por el facultativo, deberá comprobarse en el último parte abonado por la empresa que figura la fecha consignada para la siguiente revisión.
+
+c) En los supuestos en que resulte exigible, que el trabajador se encuentra prestando servicios por cuenta ajena en la fecha en la que se ha iniciado la enfermedad común o se ha producido el accidente no laboral.
+
+2.2 Nacimiento y cuidado del menor:
+
+A) Requisitos comunes para todas las modalidades de nacimiento y cuidado del menor:
+
+a) Que el beneficiario reúne el período mínimo de cotización exigido en la normativa de aplicación.
+
+b) Que se acredita el inicio del periodo de descanso a través del medio que proceda en cada caso.
+
+c) Que se acredita la filiación del hijo a través del medio que proceda.
+
+d) A efectos del subsidio especial, que se acredita el nacimiento, la adopción, guarda con fines de adopción o acogimiento múltiple.
+
+B) Requisitos específicos para cada modalidad de nacimiento y cuidado del menor:
+
+2.2.B.1 Nacimiento y cuidado del menor en el supuesto de parto (régimen transitorio):
+
+En los supuestos en los que el beneficiario sea el progenitor distinto de la madre biológica, deberá aportarse el Libro de Familia o certificado de la inscripción del nacimiento en el Registro Civil, en caso de que sea necesario, y, según proceda, el documento de opción ejercida por la madre, el documento en el que conste que la madre no tiene derecho a la suspensión de su actividad profesional, o que se acredita la defunción en caso de fallecimiento de la misma.
+
+2.2.B.2 Nacimiento y cuidado del menor en los supuestos de adopción, guarda con fines de adopción y acogimiento familiar:
+
+a) Que se acredita la adopción, guarda con fines de adopción y el acogimiento familiar.
+
+b) Que la edad del hijo adoptado o menor sujeto a guarda con fines de adopción o acogido se ajusta a la establecida por la normativa de aplicación.
+
+c) En el supuesto de acogimiento familiar temporal, que se acredita su carácter transitorio, de conformidad con lo establecido en la normativa vigente.
+
+2.3 Corresponsabilidad en el cuidado del lactante:
+
+a) Que el beneficiario reúne el período mínimo de cotización exigido en la normativa de aplicación.
+
+b) Que se acredita la filiación del hijo a través del medio que proceda.
+
+c) Que se acredita que la edad del lactante se ajusta a la establecida por la normativa de aplicación.
+
+d) Que se acredita la reducción de la jornada por parte de las empresas en que trabajen los dos progenitores, adoptantes, guardadores o acogedores.
+
+2.4 Prestación por riesgo durante el embarazo:
+
+a) Que se aporta certificado de los servicios médicos de la Entidad gestora en el que se declare que las condiciones del puesto de trabajo pueden influir negativamente en la salud de la trabajadora o del feto.
+
+b) Que se acredita la suspensión de la actividad mediante declaración empresarial por el medio que proceda, o documento equivalente en el caso de trabajadoras por cuenta propia.
+
+2.5 Prestación por riesgo durante la lactancia natural:
+
+a) Que se aporta certificado de los servicios médicos de la Entidad gestora en el que se declare que las condiciones del puesto de trabajo pueden influir negativamente en la salud de la trabajadora o del lactante.
+
+b) Que se acredita la suspensión de la actividad mediante declaración empresarial por el medio que proceda, o documento equivalente en el caso de trabajadoras por cuenta propia.
+
+c) Que el hijo sea menor de 9 meses.
+
+2.6 Subsidio temporal en favor de familiares:
+
+a) Que se acredita el fallecimiento del causante a través del medio que proceda en cada caso, o declaración de fallecimiento, excepto en los supuestos contemplados en el artículo 217.3 del texto refundido de la Ley General de la Seguridad Social.
+
+b) Que se acredita el parentesco exigido por la normativa de aplicación mediante los documentos administrativos o judiciales que en cada caso correspondan.
+
+c) Que el causante reúne el período mínimo de cotización exigido por la normativa de aplicación, o que tenía la condición de pensionista de incapacidad permanente o jubilación, en su modalidad contributiva, o había percibido la indemnización sustitutiva de la pensión por incapacidad permanente total o había cesado en el trabajo teniendo derecho a pensión de jubilación falleciendo sin solicitarla.
+
+d) Que los interesados cumplen con la edad y el estado civil que se exige en la normativa de aplicación.
+
+e) Que se acredita la convivencia con el causante, y a sus expensas, durante el tiempo exigido por la normativa de aplicación.
+
+f) Que se acredita que el beneficiario carece de medios de subsistencia.
+
+g) Que el beneficiario no tenga derecho a pensión pública.
+
+2.7 Asignación económica por hijo o menor a cargo:
+
+a) Que se acredita la residencia legal en territorio español del beneficiario y del causante, salvo que la normativa internacional permita la residencia del causante en otro Estado.
+
+b) Que se acredita la filiación del hijo, el acogimiento familiar permanente o la guarda con fines de adopción del menor.
+
+c) Que se acredita que el causante está afectado por una discapacidad en el grado correspondiente según su edad de acuerdo a la normativa de aplicación.
+
+d) En los supuestos en los que resulte exigible, que se acredita la convivencia y la dependencia económica del hijo o menor con respecto al beneficiario de la prestación.
+
+e) Que no se supera el límite de ingresos anuales para tener derecho a la prestación, en su caso.
+
+2.8 Cuidado de menores afectados por cáncer u otra enfermedad grave:
+
+a) Cuando existan dos progenitores, adoptantes o acogedores de carácter preadoptivo o permanente, que ambos trabajan.
+
+b) Que el beneficiario figura afiliado y en alta y que reúne el periodo mínimo de cotización exigido en la normativa de aplicación.
+
+c) Que el menor se encuentra afectado por cáncer o por cualquier otra enfermedad grave, conforme se establece en la normativa de aplicación.
+
+d) Que se acredita el ingreso hospitalario de larga duración del menor y la necesidad de tratamiento continuado de la enfermedad mediante informe emitido por el Servicio Público de Salud u órgano administrativo sanitario de la Comunidad Autónoma correspondiente.
+
+e) Que el beneficiario reduce la jornada según se exige en la normativa de aplicación.
+
+2.9 Cese de actividad de trabajadores autónomos:
+
+a) Que el causante se encuentra en situación legal de cese en la actividad.
+
+b) Que el causante tiene cubierto el periodo mínimo de cotización por cese de actividad exigido en la normativa de aplicación.
+
+2.10 Ingreso Mínimo Vital:
+
+a) Que se acredita, en su caso, la edad exigida de acuerdo a la normativa de aplicación.
+
+b) Que se acredita la residencia legal y efectiva en España, en los supuestos y en los términos previstos en la normativa de aplicación.
+
+c) Que las personas beneficiarias se encuentran en situación de vulnerabilidad económica de acuerdo a la normativa de aplicación.
+
+d) En caso de que el beneficiario forme parte de una unidad de convivencia, esta deberá estar constituida en la forma y durante el tiempo exigidos por la normativa de aplicación.
+
+e) En caso de que el beneficiario no forme parte de una unidad de convivencia, se acreditará que su domicilio es distinto al de sus progenitores, tutores o acogedores durante el plazo exigido por la normativa de aplicación.
+
+Además, en el caso de los menores de 30 años, se acreditará la situación de alta exigida de acuerdo a la normativa de aplicación.
+
+f) En aquellas situaciones especiales en las que el beneficiario conviva en el mismo domicilio con otras personas con las que mantuviera alguno de los vínculos previstos en la normativa de aplicación, acreditar el abandono de su domicilio.
+
+g) En los siguientes supuestos, se acreditará:
+
+1\. Mujeres víctimas de violencia de género: La condición de víctima de violencia de género.
+
+2\. Supuestos de separación, nulidad, divorcio o extinción de parejas de hecho: El inicio de los trámites de separación, divorcio, nulidad o haberse instado la disolución de la pareja de hecho. En el caso de parejas de hecho no formalizadas, el inicio de los trámites para la atribución de la guarda y custodia de los menores.
+
+3\. En los casos de desahucio, inhabitabilidad u otros regulados reglamentariamente: Dichas situaciones se acreditarán a través del medio que proceda en cada caso.
+
+4\. Personas víctimas de trata de seres humanos y de explotación sexual: La condición de víctima de trata de seres humanos y de explotación sexual.
+
+3\. Expedientes de reconocimiento de prestaciones de pago único:
+
+3.1 Auxilio por defunción:
+
+Que se acredita el fallecimiento del causante a través del medio que proceda en cada caso.
+
+3.2 Indemnización especial a tanto alzado, derivada de muerte por accidente de trabajo o enfermedad profesional:
+
+a) Que se acredita el fallecimiento del causante a través del medio que proceda en cada caso o declaración de fallecimiento, excepto en los supuestos contemplados en el artículo 217.3 del texto refundido de la Ley General de la Seguridad Social.
+
+b) Que el fallecimiento se debió a accidente de trabajo o enfermedad profesional.
+
+c) Que se acredita el vínculo matrimonial, la relación de parentesco exigida o la existencia de una pareja de hecho en los términos y condiciones establecidos en la normativa de aplicación.
+
+d) Para los supuestos de separación, divorcio o nulidad matrimonial, que no se hubiese contraído nuevas nupcias o se hubiera constituido una pareja de hecho en los términos del artículo 221 del texto refundido de la Ley General de la Seguridad Social.
+
+Que en el momento del fallecimiento del causante se es acreedor de la pensión compensatoria establecida en la legislación civil para los supuestos de separación judicial o divorcio y que ésta quedara extinguida a la muerte del causante, o que se haya reconocido la indemnización establecida para los supuestos de nulidad matrimonial. La condición de ser acreedor de la pensión compensatoria no se exigirá en los supuestos en los que se acredite la condición de víctima de violencia de género, en los términos establecidos en el artículo 220.1 del texto refundido de la Ley General de la Seguridad Social, ni en los supuestos contemplados en la disposición transitoria decimotercera del mismo texto legal, siempre que se cumplan las condiciones establecidas en dicha disposición.
+
+3.3 Indemnización por lesiones permanentes no incapacitantes:
+
+Que se aporta dictamen-propuesta del Equipo de Valoración de Incapacidades o, en su caso, del órgano competente para emitir dicho dictamen en aquellas Comunidades Autónomas donde no esté constituido el Equipo de Valoración de Incapacidades, con indicación del epígrafe del baremo donde están recogidas las lesiones, mutilaciones y deformidades de carácter definitivo y la contingencia causante de la misma.
+
+3.4 Indemnización sustitutiva de la pensión por incapacidad permanente total:
+
+a) Que se acredita la condición de pensionista de incapacidad permanente total.
+
+b) Que el pensionista es menor de sesenta años.
+
+c) Que la petición se formula por el beneficiario dentro de los tres años siguientes a la fecha de la resolución o sentencia firme que le reconociera el derecho a la pensión, o, si fuese menor de 21 años de edad en dicha fecha, dentro de los tres años siguientes al día en que cumpla tal edad.
+
+3.5 Indemnización por incapacidad permanente parcial:
+
+a) Que el causante reúne el período mínimo de cotización exigido por la normativa de aplicación.
+
+b) Que se aporta dictamen-propuesta del Equipo de Valoración de Incapacidades o, en su caso, del órgano competente para emitir dicho dictamen en aquellas Comunidades Autónomas donde no esté constituido el Equipo de Valoración de Incapacidades, con determinación del grado de incapacidad y contingencia causante de la misma.
+
+3.6 Prestación por parto o adopción múltiples:
+
+a) Que se acredita la residencia legal en territorio español del beneficiario y que el nacimiento o la adopción se han producido en el mismo.
+
+b) Que se acredita la filiación a través del medio que se requiera en cada caso. En el caso de que los sujetos causantes sean huérfanos de padre y madre o estén abandonados, la persona que legalmente haya de hacerse cargo de los hijos acreditará su condición de beneficiario mediante documento judicial o administrativo por el que se le encomiende la guarda.
+
+c) Que se acredita el nacimiento o adopción de dos o más hijos de forma simultánea.
+
+3.7 Prestación económica por nacimiento o adopción de hijo en supuestos de familias numerosas, monoparentales y madres con discapacidad:
+
+a) Que se acredita la filiación a través del medio que se requiera en cada caso.
+
+b) Que se acredita la residencia legal en territorio español del beneficiario y que el nacimiento o la adopción se han producido en el mismo.
+
+c) Que se acredita la condición de familia numerosa, monoparental o la discapacidad de la madre en los términos establecidos en la normativa de aplicación.
+
+d) Que, según la situación de los beneficiarios, no se superan los límites de ingresos anuales establecidos en la normativa vigente.
+
+4\. Expedientes de reconocimiento de prestaciones asistenciales derivadas del trabajo en el mar:
+
+4.1 Pérdida de equipaje individual a consecuencia de naufragio o accidente en el mar:
+
+a) Que el trabajador acredita estar embarcado y figura en el rol de la embarcación en el momento del naufragio o accidente.
+
+b) Que el accidente o naufragio ha sido declarado por la autoridad competente.
+
+4.2 Fallecimiento a bordo o desaparición:
+
+a) Que se acredita la condición de cónyuge o pariente por consanguinidad, afinidad o adopción, hasta el segundo grado inclusive, que conviva, en su caso, con el causante y a su cargo, o la condición de quien, sin ser cónyuge, mantenga análoga relación de afectividad con el causante y conviva con él y a su cargo, siempre que se acredite un año, como mínimo, de convivencia ininterrumpida.
+
+b) Que el fallecimiento se ha producido a bordo de la embarcación o como consecuencia inmediata del accidente o enfermedad que motivó la evacuación.
+
+c) Que existe declaración oficial de fallecimiento o desaparición, en su caso, formulada por la autoridad competente.
+
+4.3 Traslado de cadáveres:
+
+a) Que se ha realizado el traslado del cadáver del tripulante a su lugar de residencia.
+
+b) Que los gastos de traslado han sido por cuenta del solicitante de la prestación.
+
+5\. Otros supuestos:
+
+5.1 Prestaciones devengadas y no percibidas:
+
+Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente Acuerdo, que resulten de aplicación.
+
+5.2 Formalización de la colaboración obligatoria y voluntaria por incapacidad temporal. Prestaciones de incapacidad temporal derivada de colaboración obligatoria y voluntaria:
+
+Que se aporta certificación expedida por el órgano competente en materia de gestión contable acreditando el importe de la deducción mensual practicada por las empresas en los boletines de cotización.
+
+5.3 Recargos por falta de medidas de seguridad e higiene en el trabajo:
+
+Que existe comunicación de la Tesorería General de la Seguridad Social acreditando el ingreso del recargo por parte de la empresa responsable o, en su caso, la concesión del aplazamiento de la deuda.
+
+5.4 Reintegros a Mutuas Colaboradoras con la Seguridad Social de los gastos derivados de las prestaciones por accidentes de trabajo, anticipadas por éstas, cuando la empresa responsable del pago es insolvente:
+
+Que se aporta resolución administrativa o judicial declarando la insolvencia de la empresa responsable.
+
+5.5 Ayudas previas a la jubilación ordinaria:
+
+a) Que se aporta resolución de la Tesorería General de la Seguridad Social en la que se acredita el ingreso de las aportaciones establecidas en el expediente de ayudas previas a la jubilación ordinaria.
+
+b) Que el solicitante de la ayuda previa a la jubilación ordinaria se encuentra incluido en el expediente aprobado por la Dirección General de Trabajo o, en su caso, por el órgano correspondiente de la Comunidad Autónoma.
+
+6\. Nóminas de prestaciones económicas:
+
+6.1 Nóminas de pago periódico de pensiones:
+
+a) Que se acompaña resumen numérico mensual de movimientos, por cada régimen y prestación, con la siguiente información:
+
+– Importe íntegro del mes anterior.
+
+– Importe íntegro de las altas del mes a que se refiera la nómina.
+
+– Importe íntegro de las bajas de dicho mes.
+
+– Importe íntegro de los traslados de otras provincias.
+
+– Importe íntegro de los traslados a otras provincias.
+
+– Importe íntegro de otras variaciones en aumento y en disminución respecto de la nómina del mes anterior.
+
+– Importe íntegro de la nómina del mes actual.
+
+b) Que se aporta por cada régimen y prestación relación nominal de las altas, bajas, traslados y variaciones con indicación del número de expediente y causa de las mismas.
+
+6.2 Nóminas de ingreso mínimo vital cuando una Comunidad Autónoma asume las funciones de reconocimiento del derecho a la prestación:
+
+Que se acompaña certificación emitida por la Comunidad Autónoma informando de las resoluciones de reconocimiento del derecho adoptadas, y que las mismas han sido sometidas al régimen de fiscalización establecido en el correspondiente convenio, el detalle de los perceptores y el importe a abonar a cada uno de ellos.
+
+6.3 Resto de nóminas correspondientes a expedientes de prestaciones económicas:
+
+Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo, que resulten de aplicación.
+
+7\. El resto de las obligaciones reflejadas en las nóminas, así como los actos que las generen, se incluirán en el ámbito de las actuaciones propias del control financiero permanente.
+
+> Se modifica por el apartado 1 del Acuerdo publicado por Resolución de 28 de octubre de 2024. [Ref. BOE-A-2024-22666](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22666)
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+> Se modifica por el apartado primero del Acuerdo del Consejo de Ministros de 15 de junio de 2021, publicado por Resolución de 16 de junio de 2021. [Ref. BOE-A-2021-10414](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10414)
+
+> Redactado conforme a la corrección de errores publicada por Resolución de 23 de junio de 2021. [Ref. BOE-A-2021-10666](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10666)
+
+> Se modifica por el apartado 1 del acuerdo publicado por Resolución de 18 de noviembre de 2019. [Ref. BOE-A-2019-16786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16786)
+
+> Se modifica por el apartado 16 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+### Trigésimo octavo.
+
+En los expedientes de prestaciones complementarias a que se refiere la disposición transitoria sexta de la Ley 21/1986, de 23 de diciembre, de Presupuestos Generales del Estado para 1987, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo serán los siguientes:
+
+1\. Expedientes de reconocimiento de pensiones:
+
+1.1 Pensiones de incapacidad permanente y jubilación:
+
+a) Que el beneficiario tiene la condición de mutualista mediante certificado de cotización que especifique la mutualidad de pertenencia.
+
+b) Justificación de la pensión de incapacidad permanente o jubilación reconocida en la Seguridad Social.
+
+1.2 Pensiones de viudedad:
+
+a) Que se acredita el fallecimiento del causante a través del medio que proceda en cada caso, o declaración de fallecimiento, excepto en los supuestos contemplados en el artículo 217.3 del texto refundido de la Ley General de la Seguridad Social.
+
+b) Que se acredita la condición de cónyuge superviviente o de haber sido cónyuge legítimo hasta la separación o divorcio o nulidad matrimonial.
+
+c) Que el causante tenía la condición de mutualista mediante certificado de cotización que especifique la mutualidad de pertenencia o la condición de pensionista o que estaba en situación de adquirirla en la fecha del hecho causante.
+
+d) Justificación de la pensión de viudedad reconocida por la Seguridad Social.
+
+1.3 Pensiones de orfandad.
+
+a) Que se acredita el fallecimiento del causante a través del medio que proceda en cada caso, o declaración de fallecimiento, excepto en los supuestos contemplados en el artículo 217.3 del texto refundido de la Ley General de la Seguridad Social.
+
+b) Que el causante tenía la condición de mutualista mediante certificado de cotización que especifique la mutualidad de pertenencia o la condición de pensionista o que estaba en situación de adquirirla en la fecha del hecho causante.
+
+c) Que se acredita la filiación y los requisitos de edad, estudios, trabajo, estado civil o incapacidad, establecidos en cada caso por la normativa de aplicación.
+
+d) Justificación de la pensión de orfandad reconocida por la Seguridad Social, en su caso.
+
+1.4 Pensiones en favor de familiares:
+
+a) Que se acredita el fallecimiento del causante a través del medio que proceda en cada caso, o declaración de fallecimiento, excepto en los supuestos contemplados en el artículo 217.3 del texto refundido de la Ley General de la Seguridad Social.
+
+b) Que el causante tenía la condición de mutualista mediante certificado de cotización que especifique la mutualidad de pertenencia o la condición de pensionista o que estaba en situación de adquirirla en la fecha del hecho causante.
+
+c) Que se acredita la filiación o parentesco, y acreditación de convivencia con el causante y de los requisitos de edad, estudios, trabajo, estado civil o incapacidad, establecidos en cada caso por la normativa de aplicación.
+
+d) Justificación de la pensión reconocida en la Seguridad Social, en su caso.
+
+2\. Expedientes de reconocimiento de subsidios y prestaciones de pago único:
+
+2.1 Subsidio temporal en favor de familiares:
+
+Se comprobarán los requisitos establecidos en el número 1.4 anterior.
+
+2.2 Subsidio de nupcialidad:
+
+a) Que se acredita el matrimonio mediante libro de familia o certificación de inscripción en el Registro Civil.
+
+b) Que el beneficiario tiene la condición de mutualista o pensionista de jubilación o invalidez o está en situación de obtenerla en la fecha del hecho causante.
+
+2.3 Subsidio de natalidad:
+
+a) Que se acredita el nacimiento a través del medio que proceda, bien en soporte papel, bien en soporte informático.
+
+b) Que el beneficiario tiene la condición de mutualista o pensionista de jubilación o invalidez o está en situación de obtenerla en la fecha del hecho causante, o la condición de pensionista de viudedad cuando el nacido sea hijo póstumo de la persona que origina el derecho a percibir el subsidio.
+
+2.4 Auxilio por defunción:
+
+a) Que se acredita el fallecimiento del causante a través del medio que proceda en cada caso.
+
+b) Que el causante es o ha sido mutualista o pensionista de jubilación o invalidez o estaba en situación de serlo en el momento del hecho causante.
+
+c) Que se acredita el parentesco con el causante o justificación de la designación del beneficiario.
+
+2.5 Subsidio por defunción:
+
+a) Que se acredita el fallecimiento del causante a través del medio que proceda en cada caso, o declaración de fallecimiento.
+
+b) Que el causante es o ha sido mutualista o pensionista de jubilación o invalidez o estaba en situación de serlo en el momento del hecho causante.
+
+c) Que se acredita el parentesco con el causante o justificación de la designación del beneficiario.
+
+2.6 Rescate del capital por fallecimiento:
+
+a) Haber realizado en su momento el derecho de opción previsto en la disposición transitoria cuarta y artículo 62 de los Reglamentos de 1971 y 1953, respectivamente.
+
+b) La conformidad del cónyuge y de la ausencia de descendientes y ascendientes que dependan económicamente del solicitante.
+
+3\. Nóminas de las prestaciones reseñadas anteriormente:
+
+3.1 Nóminas de pagos sucesivos:
+
+Comprobación aritmética, efectuando el cuadre del total de la nómina con el que resulte del período anterior más la suma algebraica de las variaciones incluidas en el mes de que se trate.
+
+3.2 Resto de nóminas:
+
+Se comprobarán exclusivamente los extremos contenidos en el apartado Primero del presente acuerdo.
+
+4\. El resto de las obligaciones reflejadas en las nóminas, así como los actos que las generen se incluirán en el ámbito de las actuaciones propias del control financiero permanente.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+> Se modifica por el apartado 2 del acuerdo publicado por Resolución de 18 de noviembre de 2019. [Ref. BOE-A-2019-16786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16786)
+
+### Trigésimo noveno.
+
+En los expedientes de prestaciones gestionadas por la Oficina de Gestión de Prestaciones Económicas y Sociales del Síndrome Tóxico, los extremos adicionales a que se refiere el apartado Primero.1.f) del presente acuerdo serán los siguientes:
+
+1\. Expedientes de reconocimiento de las prestaciones:
+
+1.A) Ayuda domiciliaria, ordinaria y/o especial:
+
+a) Que el causante tiene la condición de afectado por el Síndrome Tóxico.
+
+b) Que se aporta informe médico actualizado del estado del solicitante, de sus familiares o de ambos, expresivo de la capacidad para realizar las tareas domésticas.
+
+c) Que se aporta informe actualizado del Asistente social, precisando la situación socio-familiar, así como la cuantía mensual que pudiera concederse.
+
+1.B) Ayuda Económica Familiar Complementaria:
+
+a) Que el causante tiene la condición de afectado por el Síndrome Tóxico.
+
+b) Que se acredita el parentesco de los miembros de la unidad familiar, mediante el libro de familia o, en su defecto, la documentación expedida por el Registro Civil, resolución judicial de adopción, resolución administrativa o judicial de acogimiento y, en su caso, sentencia de separación judicial o divorcio.
+
+c) Que se justifica la convivencia habitual de todos los miembros de la unidad familiar de acuerdo con los datos obrantes en el Sistema de Verificación de Datos de Residencia.
+
+1.C) En los expedientes de gastos farmacéuticos de los afectados pertenecientes a ISFAS/MUFACE:
+
+Que el causante tiene la condición de afectado por el Síndrome Tóxico.
+
+1.D) En los expedientes del resto de las prestaciones del Síndrome Tóxico:
+
+Que el causante tiene la condición de afectado por el Síndrome Tóxico.
+
+2\. Nóminas de las prestaciones anteriores:
+
+Se comprobarán exclusivamente los extremos contenidos en el apartado Primero del presente acuerdo, que sean de aplicación.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+> Se modifica por el apartado 3 del acuerdo publicado por Resolución de 18 de noviembre de 2019. [Ref. BOE-A-2019-16786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16786)
+
+### Cuadragésimo.
+
+En los expedientes del Seguro Escolar, los extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo serán los siguientes:
+
+1\. Requisitos comunes a los expedientes de prestaciones del Seguro Escolar:
+
+a) Que existe solicitud del interesado.
+
+b) Que el causante no supera la edad establecida.
+
+c) Que se acredita la condición de estudiante asegurado o, en su caso, que el beneficiario no está asegurado por continuar en situación de enfermedad iniciada en el curso anterior.
+
+d) Que se ha cubierto el periodo mínimo de cotización exigible, en su caso.
+
+2\. Requisitos específicos para cada tipo de prestación:
+
+2.1 Prestaciones económicas:
+
+2.1.A) Reconocimiento del derecho:
+
+2.1.A.1 Indemnizaciones y pensiones por incapacidad derivada de accidente escolar:
+
+a) Que se aporta parte de accidente escolar cumplimentado por el centro docente.
+
+b) Que se aporta certificado médico que acredita la disminución de la capacidad del estudiante en relación a los estudios que se dedicaba en el momento de tener el accidente.
+
+2.1.A.2 Gastos de sepelio derivados de accidente, sea o no escolar, y enfermedad:
+
+a) Que se acredita el fallecimiento del causante a través del medio que proceda en cada caso.
+
+b) En el caso de que el estudiante fallecido tuviera familiares a su cargo y el fallecimiento hubiera sido consecuencia de accidente escolar, que se acredita el parentesco, a través del medio que proceda, y se aporta parte de accidente.
+
+2.1.A.3 Infortunio familiar:
+
+a) Que se acredita el fallecimiento del causante a través del medio que proceda en cada caso o, declaración de fallecimiento, o que se acredita la ruina o quiebra familiar que imposibilita continuar los estudios y la fecha en que ésta se produjo.
+
+b) Que se acredita el parentesco, a través del medio que proceda, exigido por la normativa de aplicación mediante los documentos administrativos o judiciales que en cada caso correspondan.
+
+c) En el supuesto de prórroga, que se acreditan el aprovechamiento académico y los ingresos familiares, en su caso.
+
+2.1.B) Nóminas de prestaciones económicas:
+
+Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo.
+
+2.1.C) El resto de las obligaciones reflejadas en las nóminas, así como los actos que las generen, se incluirán en el ámbito de las actuaciones propias del control financiero permanente.
+
+2.2 Prestaciones sanitarias:
+
+2.2.A) Reconocimiento del derecho:
+
+2.2.A.1 Accidente escolar:
+
+Que se aporta parte de accidente escolar y certificado médico de baja o informe de la primera asistencia.
+
+2.2.A.2 Resto Prestaciones Sanitarias:
+
+Que se aporta informe médico con el diagnóstico y tratamiento a realizar.
+
+2.2.B) Reconocimiento de la obligación:
+
+a) Que se aporta factura conforme a lo previsto en la normativa vigente en cada momento.
+
+b) Que la cuantía de los servicios y prestaciones a abonar al centro sanitario facultativo o interesado se ajusta a las aprobadas por la Entidad gestora.
+
+3\. Expedientes relativos al premio de cobranza del Seguro Escolar:
+
+Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo, que resulten de aplicación.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+> Se modifica por el apartado segundo del Acuerdo del Consejo de Ministros de 15 de junio de 2021, publicado por Resolución de 16 de junio de 2021. [Ref. BOE-A-2021-10414](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10414)
+
+> Redactado conforme a la corrección de errores publicada por Resolución de 23 de junio de 2021. [Ref. BOE-A-2021-10666](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10666)
+
+> Se modifica por el apartado 4 del acuerdo publicado por Resolución de 18 de noviembre de 2019. [Ref. BOE-A-2019-16786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16786)
+
+### Cuadragésimo primero.
+
+En los expedientes de reconocimiento del derecho a otras prestaciones, ayudas y otros gastos en el ámbito de las Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado Primero.1.f) del presente acuerdo serán los siguientes:
+
+1\. A organizaciones sindicales y empresariales, en compensación por participación en Consejos Generales y Comisiones Ejecutivas:
+
+Que los importes a liquidar se ajustan a los establecidos en la normativa vigente.
+
+2\. Entregas por desplazamiento y gastos de estancia:
+
+a) Que se acredita la necesidad del desplazamiento con informe o certificación del facultativo correspondiente o de la Dirección Provincial, en su caso.
+
+b) Que se aporta factura conforme a lo previsto en la normativa vigente en cada momento.
+
+c) Que se aporta justificante de asistencia a consultas externas o a los lugares requeridos.
+
+3\. Prestación ortoprotésica:
+
+a) Que existe prescripción del médico de asistencia especializada y, en su caso, que la misma se ajusta al catálogo debidamente autorizado.
+
+b) Que se aporta factura conforme a lo previsto en la normativa vigente en cada momento.
+
+4\. Reintegro de gastos de asistencia sanitaria urgente, inmediata y de carácter vital:
+
+a) Que no se pudieron utilizar oportunamente los servicios del Servicio Nacional de Salud y que no constituye una utilización desviada o abusiva.
+
+b) Que se aporta factura conforme a lo previsto en la normativa vigente en cada momento.
+
+5\. Reintegros de gastos a beneficiarios de la Seguridad Social española durante una estancia temporal en países donde es de aplicación la normativa comunitaria en materia de Seguridad Social:
+
+a) Que se acredita el derecho del beneficiario a las prestaciones sanitarias en la fecha del hecho causante.
+
+b) Que se acompañan los documentos justificativos originales de los gastos efectuados.
+
+c) Que en el preceptivo formulario comunitario, cumplimentado por Institución competente del país donde se prestó la asistencia sanitaria, consta la cantidad que ha de ser reintegrada por la institución competente española.
+
+6\. Reintegros de gastos de asistencia sanitaria a organismos de enlace extranjeros por asistencia sanitaria prestada a beneficiarios de la Seguridad Social española como consecuencia de lo dispuesto en la normativa internacional de aplicación:
+
+a) En las liquidaciones de anticipos, que las cuantías derivan de un Acuerdo de aceleración de créditos, debidamente suscrito con otro Estado y en vigor.
+
+b) En las liquidaciones que no correspondan a anticipos, que se acompaña certificación emitida por los Servicios Centrales de la Entidad Gestora cuyo importe global coincide con el del documento contable.
+
+7\. Reintegro de los importes de incapacidad temporal no deducidos en los boletines de cotización por las empresas:
+
+a) Que se acompañan partes de baja y de alta, si ésta se ha producido, de los trabajadores a que se refiere la solicitud.
+
+b) Que se aportan los boletines de cotización del mes anterior a la baja, del mes o meses a que se refiere el reintegro y del mes posterior al mismo.
+
+c) Que dichos trabajadores tienen cubierto el período mínimo de cotización exigible.
+
+8\. Reintegro a las Comunidades Autónomas de los importes correspondientes a prestaciones sanitarias, farmacéuticas y recuperadoras derivadas de contingencias profesionales, percibidas por los afiliados con cobertura por dichas contingencias con las Entidades Gestoras:
+
+Se comprobarán exclusivamente los extremos contenidos en el apartado Primero del presente acuerdo, que resulten de aplicación.
+
+9\. Expedientes correspondientes a aranceles de los Notarios y Registradores de la Propiedad:
+
+Que se aporta factura conforme a lo previsto en la normativa vigente en cada momento.
+
+10\. Expedientes de reducción de las cotizaciones por contingencias profesionales a las empresas que hayan contribuido especialmente a la disminución y prevención de la siniestralidad laboral (aprobación del gasto):
+
+Solo se comprobarán los requisitos generales establecidos en el apartado Primero de este acuerdo, que resulten de aplicación.
+
+11\. Expedientes de reintegro del exceso de aportación farmacéutica a los usuarios que ostenten la condición de asegurados y sus beneficiarios:
+
+Solo se comprobarán los requisitos generales establecidos en el apartado Primero de este acuerdo, que resulten de aplicación.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+> Se modifica por el apartado 5 del acuerdo publicado por Resolución de 18 de noviembre de 2019. [Ref. BOE-A-2019-16786](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16786)
+
+> Se modifica por el apartado 17 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+### Cuadragésimo segundo.
+
+En los expedientes de reconocimiento de prestaciones sociales y otros expedientes relacionados con las mismas, gestionados por el Instituto de Mayores y Servicios Sociales, los extremos adicionales a que se refiere el apartado primero.1. f) del presente Acuerdo serán los siguientes:
+
+1\. Expedientes de reconocimiento de pensiones en su modalidad no contributiva.
+
+1.1 Pensiones de invalidez.
+
+a) Ser mayor de dieciocho y menor de sesenta y cinco años de edad, en la fecha de la solicitud.
+
+b) Residir legalmente en territorio español y haberlo hecho durante cinco años, de los cuales dos serán inmediatamente anteriores a la fecha de la solicitud.
+
+c) Estar afectados por una discapacidad o por una enfermedad crónica en un grado igual o superior al 65 por 100.
+
+d) Carecer de rentas o ingresos suficientes computados, en cada caso, de acuerdo con la normativa vigente.
+
+1.2 Pensiones de jubilación:
+
+a) Tener cumplidos los sesenta y cinco años de edad.
+
+b) Residir legalmente en territorio español y haberlo hecho durante diez años entre la edad de dieciséis años y la de devengo de la pensión, de los cuales dos deberán ser consecutivos e inmediatamente anteriores a la solicitud de la pensión.
+
+c) Carecer de rentas e ingresos en cuantía superior a los límites establecidos en cada caso por la normativa vigente.
+
+2\. Expedientes de reconocimiento de complemento de pensión a titulares de pensiones no contributivas que residan en vivienda alquilada:
+
+a) Que se acredita carecer de vivienda en propiedad.
+
+b) Que se acredita la condición de arrendatario en la fecha de la solicitud y que se tiene fijada la residencia habitual en la vivienda arrendada en los términos establecidos en la normativa de aplicación.
+
+3\. Expedientes de reconocimiento de prestaciones económicas de pago periódico a discapacitados por subsidio de movilidad y compensación por gastos de transporte:
+
+a) Estar afectado el beneficiario por una discapacidad en grado igual o superior al 33 por 100 y con pérdidas funcionales o anatómicas o deformaciones esenciales que le dificulten gravemente utilizar transportes colectivos, de acuerdo con el baremo vigente.
+
+b) No estar comprendido en el campo de aplicación del sistema de la Seguridad Social por no desarrollar una actividad laboral.
+
+c) No ser beneficiario o no tener derecho, por edad o por cualesquiera otras circunstancias, a prestación o ayuda de análoga naturaleza y finalidad y, en su caso, de igual o superior cuantía otorgada por otro organismo público.
+
+d) Que sus recursos personales sean inferiores en cuantía al porcentaje, en cómputo anual, que en cada caso corresponda, del salario mínimo interprofesional vigente en cada año.
+
+4\. Expedientes de reconocimiento de prestaciones y servicios con cargo al Fondo de ayuda a las víctimas y afectados del atentado terrorista del 11 de marzo de 2004: Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo.
+
+5\. Expedientes de reconocimiento de prestaciones contempladas en la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia:
+
+a) Que se acredita la residencia en el territorio español en los términos establecidos en la normativa de aplicación.
+
+b) Que se acredita que el beneficiario se encuentra en situación de dependencia en alguno de los grados exigidos por la normativa de aplicación.
+
+c) Que se aporta el Plan Individual de Atención determinando la adecuación de la prestación.
+
+6\. Nóminas de las prestaciones relacionadas anteriormente.
+
+6.1 Nóminas de pensiones no contributivas de jubilación e invalidez: Que se acompaña certificación emitida por la Tesorería General de la Seguridad social en la que se acredite el número de pensionistas e importe de las pensiones para cada Comunidad Autónoma.
+
+6.2 Nóminas de prestaciones económicas de pago incluidas en la Ley 13/1982, de 7 de abril, de integración social de los minusválidos: Que se acompaña liquidación con detalle del número de perceptores, los tipos de ayuda y los importes.
+
+6.3 Nóminas de prestaciones y servicios con cargo al Fondo de ayuda a las víctimas y afectados del atentado terrorista del 11 de marzo de 2004.
+
+Que se acompaña certificación emitida por el órgano competente con detalle de perceptores, tipos de ayuda e importes.
+
+6.4 Nóminas de prestaciones contempladas en la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia.
+
+Que se acompaña liquidación con detalle del número de perceptores y los importes.
+
+6.5. Resto de nóminas: Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo.
+
+7\. Transferencias a las Comunidades Autónomas de los importes correspondientes al nivel mínimo de protección previsto en la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia.
+
+Que se aporta certificación emitida por el órgano gestor en la que se recojan los datos comunicados por las Comunidades Autónomas, informando de las resoluciones de reconocimiento adoptadas, así como del grado y nivel, y el importe a abonar a cada una de ellas.
+
+8\. Transferencias a las Comunidades Autónomas de los importes correspondientes al nivel acordado de protección previsto en la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia:
+
+En los convenios a suscribir se comprobarán los extremos que resulten de aplicación previstos en el Acuerdo del Consejo de Ministros de 15 de junio de 2021, respecto al ejercicio de la función interventora en régimen de requisitos básicos en el ámbito de convenios y trasferencias a comunidades autónomas realizadas de conformidad con el artículo 86 de la Ley General Presupuestaria.
+
+9\. Abono de las cotizaciones asumidas por la Administración General del Estado de los cuidadores no profesionales de las personas en situación de dependencia. Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo.
+
+10\. El resto de las obligaciones reflejadas en las nóminas, así como los actos que las generen, se incluirán en el ámbito de las actuaciones propias del control financiero permanente.
+
+> Se modifica el primer párrafo y los apartados 7 y 8 por el apartado cuarto del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+### Cuadragésimo tercero.
+
+En los expedientes de conciertos de asistencia sanitaria gestionados por las Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo serán los siguientes:
+
+1\. Expediente inicial:
+
+A) Aprobación del gasto:
+
+a) Que existe pliego de cláusulas administrativas particulares o, en su caso, documento descriptivo, informado por el Servicio Jurídico.
+
+b) Que existe pliego de prescripciones técnicas del contrato.
+
+c) Que el objeto del contrato está perfectamente definido, de manera que permita la comprobación del exacto cumplimiento de las obligaciones por parte del contratista.
+
+d) Cuando se utilice modelo de pliego de cláusulas administrativas, verificar que el contrato a celebrar es de naturaleza análoga al informado por el Servicio Jurídico.
+
+e) Que el pliego de cláusulas administrativas particulares o el documento descriptivo establece, para la determinación de la oferta económicamente más ventajosa, criterios directamente vinculados al objeto del contrato; y que cuando se utilice un único criterio éste sea el del precio más bajo.
+
+f) Que el pliego de cláusulas administrativas particulares o el documento descriptivo prevé, cuando proceda, que la documentación relativa a los criterios cuya ponderación dependa de un juicio de valor ha de presentarse en sobre independiente del resto de la proposición.
+
+g) Que la duración del contrato prevista en el pliego de cláusulas administrativas particulares o el documento descriptivo se ajusta a lo previsto en la Ley de Contratos del Sector Público.
+
+h) Cuando se proponga como procedimiento de adjudicación el negociado, comprobar que concurren los supuestos previstos en la normativa contractual para utilizar el procedimiento negociado.
+
+i) Cuando se proponga como procedimiento de adjudicación el diálogo competitivo, verificar que se cumple alguno de los supuestos de aplicación del artículo 164 de la Ley de Contratos del Sector Público.
+
+j) Cuando se prevea en el pliego de cláusulas administrativas particulares la posibilidad de modificar el contrato en los términos del artículo 92 ter de la Ley de Contratos del Sector Público, verificar que se expresa el porcentaje del precio del contrato al que como máximo puedan afectar las modificaciones.
+
+B) Compromiso del gasto:
+
+B-1. Adjudicación:
+
+a) Cuando no se adjudique el contrato de acuerdo con la propuesta formulada por la Mesa, que existe decisión motivada del órgano de contratación.
+
+b) Cuando se declare la existencia de ofertas con valores anormales o desproporcionados, que existe constancia de la solicitud de la información a los licitadores supuestamente comprendidos en ellas y del informe del Servicio Técnico correspondiente.
+
+c) Cuando se utilice el procedimiento negociado, que existe constancia en el expediente de las invitaciones cursadas, de las ofertas recibidas y de las razones para su aceptación o rechazo aplicadas por el órgano de contratación, de conformidad con lo dispuesto en la Ley de Contratos del Sector Público. Asimismo se verificará que se ha publicado el anuncio de licitación correspondiente en los supuestos del artículo 161 de la Ley de Contratos del Sector Público.
+
+d) Cuando se proponga la celebración de un contrato con precios provisionales de conformidad con el artículo 75.5 de la Ley de Contratos del Sector Público, que se detallan en la propuesta de adjudicación provisional los extremos contenidos en las letras a), b) y c) del citado precepto.
+
+e) Acreditación de la constitución de la garantía definitiva, en su caso.
+
+f) Acreditación de que el licitador que se propone como adjudicatario está al corriente de sus obligaciones tributarias y con la Seguridad Social.
+
+B-2. Formalización:
+
+En su caso, que se acompaña certificado del registro del órgano de contratación, o del propio órgano de contratación, que acredite que no se ha interpuesto recurso especial en materia de contratación contra la adjudicación o de los recursos interpuestos. En este segundo supuesto, deberá comprobarse igualmente que ha recaído resolución expresa del órgano que ha de resolver el recurso, ya sea desestimando el recurso o recursos interpuestos, o acordando el levantamiento de la suspensión.
+
+2\. Modificación del contrato:
+
+a) En el caso de modificaciones previstas según el artículo 92 ter de la Ley de Contratos del Sector Público, que la posibilidad de modificar el contrato se encuentra prevista en los pliegos o en el anuncio de la licitación, y que no supera el porcentaje del precio del contrato al que como máximo pueden afectar. En el caso de modificaciones no previstas, que se acompaña informe técnico justificativo de los extremos previstos en los apartados 1 y 3 el artículo 92 quáter de la Ley de Contratos del Sector Público.
+
+b) Que existe informe del Servicio Jurídico y, en su caso, dictamen del Consejo de Estado.
+
+3\. Revisión de precios (aprobación del gasto):
+
+Que se cumplen los requisitos recogidos en el artículo 77.1 y 2 de la Ley de Contratos del Sector Público y que la posibilidad de revisión no está expresamente excluida en el pliego de cláusulas administrativas particulares ni en el contrato.
+
+4\. Abonos a cuenta:
+
+a) Que se acredita documentalmente la valoración de los servicios realizados.
+
+b) Que se aporta factura por la empresa adjudicataria de acuerdo con lo previsto en el en el Real Decreto 1496/2003, de 28 de noviembre, que aprueba el Reglamento que regula las obligaciones de facturación y se modifica el Reglamento del Impuesto sobre el Valor Añadido.
+
+c) Cuando en el abono a cuenta se incluya revisión de precios, comprobar que se cumplen los requisitos exigidos por el artículo 77.1 y 2 de la Ley de Contratos del Sector Público y que no está expresamente excluida la posibilidad de revisión en el pliego de cláusulas administrativas particulares ni en el contrato.
+
+d) En caso de efectuarse anticipos, de los previstos en el artículo 200.3 de la Ley de Contratos del Sector Público, comprobar que tal posibilidad estaba prevista en el pliego de cláusulas administrativas particulares y que se ha prestado la garantía exigida.
+
+5\. Prórroga del contrato:
+
+a) Que está prevista en el pliego de cláusulas administrativas particulares.
+
+b) Que, en su caso, no se superan los límites de duración previstos por el pliego de cláusulas administrativas particulares.
+
+c) Que se acompaña informe del servicio jurídico.
+
+6\. Pago de intereses de demora y de la indemnización por los costes de cobro: Que existe informe del Servicio Jurídico.
+
+7\. Indemnizaciones a favor del contratista:
+
+a) Que existe informe del Servicio Jurídico.
+
+b) Que existe informe técnico.
+
+c) Que, en su caso, existe dictamen del Consejo de Estado.
+
+8\. Resolución del contrato:
+
+a) Que, en su caso, existe informe del Servicio Jurídico.
+
+b) Que, en su caso, existe dictamen del Consejo de Estado.
+
+9\. Pago de primas o compensaciones a los candidatos o licitadores en el caso de renuncia a la celebración del contrato o desistimiento del procedimiento: Que, en su caso, esta circunstancia está prevista en el pliego o anuncio.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. [Ref. BOE-A-2023-7054](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7054)
+
+> Se modifica por el apartado 18 del acuerdo publicado por Resolución de 4 de julio de 2011. [Ref. BOE-A-2011-11643](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11643).
+
+### Cuadragésimo cuarto.
+
+Este acuerdo producirá efectos desde la fecha de su publicación en el «Boletín Oficial del Estado», momento a partir del cual quedarán sin vigencia el Acuerdo de Consejo de Ministros de 1 de marzo de 2002 para la Administración General del Estado y sus organismos autónomos, y el Acuerdo de Consejo de Ministros de 19 de Septiembre de 2003, para las entidades gestoras y servicios comunes de la Seguridad Social.

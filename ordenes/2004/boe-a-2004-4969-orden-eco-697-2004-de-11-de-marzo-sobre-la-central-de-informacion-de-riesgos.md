@@ -1,0 +1,145 @@
+---
+title: "Orden ECO/697/2004, de 11 de marzo, sobre la Central de Información de Riesgos"
+identifier: "BOE-A-2004-4969"
+eli: "https://www.boe.es/eli/es/o/2004/03/11/eco697"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía"
+date: 2004-03-11
+published: 2004-03-18
+in_force_from: 2004-03-19
+last_amended: 2026-05-29
+consolidated: 2026-05-29
+gazette: "Boletín Oficial del Estado núm. 67"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4969"
+retrieved: 2026-10-11
+---
+
+# Orden ECO/697/2004, de 11 de marzo, sobre la Central de Información de Riesgos
+
+El artículo 16 del Decreto-ley 18/1962, de 7 de junio, de nacionalización y reorganización del Banco de España, incluyó entre las funciones de este organismo el establecimiento de «un Servicio Central de Información de Riesgos en relación con las operaciones de crédito de la banca, cajas de ahorros y demás entidades de crédito». Esta norma estableció los principios generales y finalidad del Servicio, encargando el desarrollo de los mismos a un Reglamento a dictar por el Ministro de Hacienda, a propuesta del Banco de España.
+
+En uso de esta habilitación fue dictada la Orden de 13 de febrero de 1963, por la que se establecieron las primeras normas generales de organización y funcionamiento de la Central de Información de Riesgos, delegándose ya en el Banco de España la determinación de los riesgos a declarar, así como el establecimiento de los modelos y procedimientos a utilizar en la comunicación y solicitud de datos. Esta norma fue posteriormente modificada por la Orden de 22 de enero de 1971, y completada por diversas circulares del Banco de España, la última de ellas, la 3/1995, de 25 de septiembre.
+
+La gran transformación experimentada por el sistema financiero en las cuatro décadas transcurridas desde la publicación del citado Decreto-ley aconsejaban la revisión del casi solitario artículo que quedaba en vigor, ya que, por una parte, contenía mandatos escasamente operativos, cuando no obsoletos, proporcionando en muchos casos una cobertura anticuada para alguno de los contenidos de la Central de Información de Riesgos actual, y por otra, precisaba de urgente coordinación con otras normas de igual rango nacidas durante el tiempo transcurrido, en especial, las reguladoras de la protección de datos referidos a personas físicas.
+
+La Ley 44/2002, de 22 de noviembre, de medidas de reforma del sistema financiero, asumió la necesaria reforma, en el marco del conjunto de medidas destinadas a fomentar la eficiencia de nuestros mercados financieros. Consciente de la importancia de la Central de Información de Riesgos, tanto en el control del riesgo asumido por las entidades de crédito, como en el ejercicio de la función de supervisión atribuida al Banco de España, la Ley diseña un régimen jurídico actualizado por el que se confiere a la Central de Información de Riesgos la naturaleza de servicio público «en la medida en que facilita el ejercicio de las competencias del Banco de España y dota de mayor estabilidad al sistema crediticio español», según argumenta su exposición de motivos.
+
+Aunque la Ley 44/2002 proporciona una regulación ciertamente prolija de la Central de Información de Riesgos, diversas cuestiones han sido trasladadas al nivel reglamentario. Así, corresponderá al Ministro de Economía o, previa habilitación por éste, al Banco de España, determinar las clases de riesgos a declarar, las condiciones que habrán de reunir las declaraciones periódicas o complementarias, y el contenido, forma y periodicidad de los informes sobre los riesgos de las personas físicas o jurídicas relacionadas con las entidades declarantes. La presente Orden hace uso de las habilitaciones citadas.
+
+En su virtud, de acuerdo con el Consejo de Estado, he dispuesto lo siguiente:
+
+## Primero. Periodicidad y forma de remisión de las declaraciones a efectos de supervisión e inspección y demás funciones que tiene legalmente atribuidas el Banco de España.
+
+1\. Las declaraciones de datos, en cumplimiento de las obligaciones de información que establezca el Banco de España en el ejercicio de sus funciones de supervisión e inspección y demás funciones que tiene legamente atribuidas, incluidos los datos basados en previsiones propias de las entidades, sobre riesgos de crédito y sus titulares a que se refiere el apartado segundo del artículo 60 de la Ley 44/2002, de 22 de noviembre, de medidas de reforma del sistema financiero (en adelante, la Ley), deberán remitirse a la Central de Información de Riesgos (CIR, en adelante) con periodicidad mensual y recogerán la situación existente en el último día del mes al que se refieran.
+
+2\. El Banco de España establecerá el procedimiento, forma y plazo de remisión de las declaraciones periódicas, así como el sistema para presentar declaraciones complementarias con rectificaciones de datos previamente declarados. Estas últimas se remitirán por las entidades declarantes al Banco de España, a la mayor brevedad, tan pronto como tengan conocimiento de que los datos que hubiesen declarado son erróneos, de modo que se asegure que la información existente en la CIR sea exacta y refleje la situación actual de los riesgos en la fecha a la que se refieren.
+
+> Se modifica por el art. 1.1 de la Orden ECM/531/2026, de 27 de mayo. [Ref. BOE-A-2026-11586](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11586)
+
+> Se modifica, con efectos de 2 de enero de 2020, por el art. 1.1 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
+
+## Primero bis. Periodicidad y forma de remisión de las declaraciones a efectos de facilitar los datos a las entidades declarantes para el ejercicio de su actividad.
+
+1\. Las declaraciones de datos, con la finalidad de facilitarlos a las entidades declarantes para el ejercicio de su actividad sobre riesgos de crédito y sus titulares a que se refiere el apartado segundo del artículo 60 de la Ley 44/2002, de 22 de noviembre, deberán remitirse a la CIR con periodicidad mensual y recogerán la situación existente al final del último día del mes al que se refieran.
+
+2\. El Banco de España establecerá el procedimiento y forma de remisión de las declaraciones periódicas, así como el sistema para presentar declaraciones complementarias con rectificaciones de datos previamente declarados. Estas últimas se remitirán por las entidades declarantes al Banco de España, a la mayor brevedad, tan pronto como tengan conocimiento de que los datos que hubiesen declarado son erróneos, de modo que se asegure que la información existente en la CIR sea exacta y refleje la situación actual de los riesgos en la fecha a la que se refieren.
+
+> Se modifica por el art. 1.2 de la Orden ECM/531/2026, de 27 de mayo. [Ref. BOE-A-2026-11586](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11586)
+
+> Se añade, con efectos de 27 de julio de 2022, por el art. 1.2 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
+
+## Segundo. Datos y características de los titulares declarables.
+
+1\. Las entidades declarantes estarán obligadas a proporcionar a la CIR los datos necesarios para identificar a las personas con quienes se mantengan, directa o indirectamente, riesgos de crédito, así como las características de dichas personas, con la extensión y limitaciones que se establecen en el Capítulo VI de la Ley, singularmente en su artículo 60, y en la presente Orden.
+
+2\. Los datos de los titulares comprenderán los que se precisen para su adecuada identificación, tales como nombre, domicilio, fecha de nacimiento y código o número de identificación fiscal o similar. También incluirán aquellos que se necesiten para el análisis económico y estadístico, de la información, tales como provincia, sector, actividad económica y situación concursal; la condición de empresario individual cuando actúe en el ejercicio de su actividad empresarial, así como los datos que se consideren necesarios para el adecuado ejercicio de las facultades de supervisión e inspección en base consolidada del Banco de España, incluyendo, en su caso, la vinculación con otros titulares declarados que pertenezcan al mismo grupo económico.
+
+En ningún caso se podrán incluir los datos regulados en el artículo 7 de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
+
+## Tercero. Clases y características de los riesgos a declarar.
+
+1\. El Banco de España, con sujeción a lo previsto en el capítulo VI de la Ley 44/2002, de 22 de noviembre, singularmente en el artículo 60, y en esta orden, determinará las clases de riesgos que declarar, así como el alcance de los datos que declarar respecto a los titulares y las características y circunstancias de las diferentes clases de riesgos, pudiendo solicitar la declaración de los datos que considere necesarios para el cumplimiento de las finalidades a las que sirve la CIR, en especial la relativa al adecuado ejercicio de las facultades de supervisión e inspección de las entidades declarantes por parte de las autoridades competentes. En particular, y de conformidad con lo dispuesto en el apartado cuarto del artículo 60 de la Ley 44/2002, de 22 de noviembre, el Banco de España podrá determinar, respecto a aquellas clases de riesgos objeto de declaración, los supuestos en los que podrán declararse con menor detalle o no ser objeto de declaración los datos a los que se refiere el apartado segundo del artículo anterior.
+
+El Banco de España fijará el alcance de los datos a declarar a la CIR diferenciando los datos a declarar exclusivamente en cumplimiento de las obligaciones de información que establezca el Banco de España en el ejercicio de sus funciones de supervisión e inspección y demás funciones que tiene legalmente atribuidas, incluidos los datos basados en previsiones propias de las entidades, de aquellos otros datos que también se declaren con la finalidad de facilitarlos a las entidades declarantes para el ejercicio de su actividad.
+
+Los datos de los titulares, incluidos los de sus operaciones, cuyo riesgo acumulado en la entidad declarante sea superior a 1.000 euros se declaran con las finalidades previstas en los artículos primero y primero bis.
+
+2\. Las clases de riesgos a declarar comprenderán las siguientes: crédito financiero, crédito comercial, operaciones de arrendamiento financiero, operaciones con valores de renta fija, derivados de crédito, otros contratos de garantía, compromisos relativos a instrumentos financieros y cualquier otro tipo de negocio jurídico propio de la actividad financiera que suponga la asunción de riesgo de crédito por la entidad declarante con terceros.
+
+El Banco de España podrá establecer subclases de riesgo para permitir la adecuada diferenciación de los distintos riesgos de crédito, así como categorías prudenciales de riesgo con la exclusiva finalidad de facilitar el adecuado ejercicio de las facultades de supervisión e inspección de las autoridades competentes.
+
+3\. Los datos relativos a los riesgos podrán incluir, entre otros, los siguientes: la moneda en la que estén denominados; el tipo y valor de las garantías aportadas; el tipo de interés, cuando proceda; las fechas de inicio, vencimiento y, en su caso, incumplimiento; el importe del riesgo dispuesto según contrato y su valor contable, así como del riesgo latente; la finalidad del crédito, y los datos que se consideren necesarios para el adecuado ejercicio de las facultades de supervisión e inspección de las entidades declarantes, incluidos los que permitan conocer la movilidad y mitigación del riesgo.
+
+4\. El Banco de España fijará los umbrales de declaración aplicables sujetándose a lo previsto en el apartado 1 y el artículo cuarto, concretando aquellos por debajo de los cuales todos los datos de un titular se declararán exclusivamente en cumplimiento de las obligaciones de información que establezca el Banco de España en el ejercicio de sus funciones de supervisión e inspección y demás funciones que tiene legalmente atribuidas. El importe de los riesgos se declarará en unidades de euro. A estos efectos, el Banco de España podrá determinar distintos umbrales de declaración y tipos de datos a declarar respecto de los titulares y clases de riesgo en función de las características del sector de actividad al que pertenezcan bien las entidades declarantes bien los titulares con quienes estas mantengan los riesgos de crédito.
+
+> Se modifican los apartados 1 y 4 por el art. 1.3 de la Orden ECM/531/2026, de 27 de mayo. [Ref. BOE-A-2026-11586](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11586)
+
+> Se modifican los apartados 1 y 4, con efectos de 27 de enero de 2021, por el art. 1.3 y 4 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
+
+> Se modifican los apartados 1 y 4 por el art. único.1 y 2 de la Orden ECC/747/2013, de 25 de abril. [Ref. BOE-A-2013-4718](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4718).
+
+## Cuarto. Información a facilitar sobre los datos declarados.
+
+1\. El Banco de España determinará el contenido y forma de los informes que tendrán derecho a obtener las entidades declarantes, previstos en el apartado segundo del artículo 61 de la Ley. Dichos informes contendrán, en todo caso, en relación con cada titular la información consolidada de todas las entidades declarantes en las que los titulares mantengan un riesgo acumulado de acuerdo con los datos igual o superior a 1.000 euros.
+
+En dichos informes se omitirá la denominación de las entidades que hayan contraído los mencionados riesgos. Respecto a estos, solo se incluirán situaciones de incumplimiento de las obligaciones directas o garantizadas, distinguiendo los que hayan sido dados de baja en el balance por las entidades y sigan siendo exigibles, las situaciones relativas a procedimientos concursales, así como los riesgos vencidos, entendiendo por tales, a estos efectos, aquellos cuya fecha de impago supere los 90 días desde su vencimiento. En los informes no se facilitarán los datos que se refieran a pertenencia del titular a un determinado grupo económico, tipo de interés, fechas de inicio, vencimiento e incumplimiento, ni las categorías prudenciales de riesgo ni demás datos que se consideren necesarios exclusivamente para el adecuado ejercicio de las facultades de supervisión e inspección de las entidades declarantes por parte de las autoridades competentes.
+
+2\. Los riesgos que las entidades declarantes mantengan directa o indirectamente con las administraciones públicas españolas y demás sujetos de ellas dependientes a los que se refieren el apartado primero del artículo 28 de Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, se comunicarán por el Banco de España mensualmente al Ministerio de Hacienda y, en su caso, a la Comunidad Autónoma de la que dependan, según lo previsto en el apartado primero del artículo 61 de la Ley.
+
+Los datos que remita el Banco de España deberán permitir identificar las distintas operaciones, e incluirán, entre otros, código de identificación del titular, clase de riesgo, y, cuando proceda atendiendo al tipo de riesgo que se declare, tipo de interés, fechas de inicio, vencimiento y, en su caso, impago, importe disponible e importe dispuesto pendiente de reembolso, garantías, tanto reales como personales, así como los relativos a las situaciones mencionadas en el párrafo segundo del apartado segundo del artículo 60 de la Ley.
+
+> Téngase en cuenta que la actualización de los apartados 1 y 2, establecida por el art. 1.4 de la Orden ECM/531/2026, de 27 de mayo. [Ref. BOE-A-2026-11586](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11586), entra en vigor el 2 de enero de 2027, según se determina su disposición final 2.
+
+> Redacción anterior:
+
+> " 1. El Banco de España determinará el contenido y forma de los informes que tendrán derecho a obtener las entidades declarantes, previstos en el apartado segundo del artículo 61 de la Ley. Dichos informes contendrán, en todo caso, en relación con cada titular la información consolidada de todas las entidades declarantes en las que los titulares mantengan un riesgo acumulado de acuerdo con los datos igual o superior a 1.000 euros.
+
+> En dichos informes se omitirá la denominación de las entidades que hayan contraído los mencionados riesgos. Respecto a estos, solo se incluirán situaciones de incumplimiento de las obligaciones directas o garantizadas, distinguiendo los que hayan sido dados de baja en el balance por las entidades y sigan siendo exigibles, las situaciones relativas a procedimientos concursales, así como los riesgos vencidos, entendiendo por tales, a estos efectos, aquellos cuya fecha de impago supere los 90 días desde su vencimiento. En los informes no se facilitarán los datos que se refieran a pertenencia del titular a un determinado grupo económico, tipo de interés, fechas de inicio, vencimiento e incumplimiento, ni las categorías prudenciales de riesgo ni demás datos que se consideren necesarios exclusivamente para el adecuado ejercicio de las facultades de supervisión e inspección de las entidades declarantes por parte de las autoridades competentes.
+
+> 2\. Los riesgos que las entidades declarantes mantengan directa o indirectamente con las administraciones públicas españolas y demás sujetos de ellas dependientes a los que se refieren el apartado primero del artículo 24 de la Ley 18/2001, de 12 de diciembre, general de estabilidad presupuestaria, y el apartado primero del artículo 10 de la Ley Orgánica 5/2001, de 13 de diciembre, complementaria a la Ley general de estabilidad presupuestaria, se comunicarán por el Banco de España mensualmente al Ministerio de Hacienda y, en su caso, a la Comunidad Autónoma de la que dependan, según lo previsto en el apartado primero del artículo 61 de la Ley.
+
+> Los datos que remita el Banco de España deberán permitir identificar las distintas operaciones, e incluirán, entre otros, código de identificación del titular, clase de riesgo, y, cuando proceda atendiendo al tipo de riesgo que se declare, tipo de interés, fechas de inicio, vencimiento y, en su caso, impago, importe disponible e importe dispuesto pendiente de reembolso, garantías, tanto reales como personales, así como los relativos a las situaciones mencionadas en el párrafo segundo del apartado segundo del artículo 60 de la Ley."
+
+3\. El Banco de España establecerá unos procedimientos de procesamiento y suministro de la información sobre los riesgos de los titulares que aseguren que las entidades declarantes y los intermediarios de crédito inmobiliario disponen de la última información declarada el vigésimo primer día natural del mes siguiente al que se refiera o si este fuera inhábil el día siguiente hábil.
+
+> Se modifica por el art. 1.4 y 5 de la Orden ECM/531/2026, de 27 de mayo. [Ref. BOE-A-2026-11586](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11586)
+
+> Téngase en cuenta que el apartado 1 y 2 entra en vigor el 2 de enero de 2027, según determina la disposición final 2 de la citada orden.
+
+> Veasé en relación con los informes previstos en el apartado 1 la disposición transitoria única de la citada orden.
+
+> Se modifica el apartado 1 y se añade el 3 por el art. 1.5 y 6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
+
+> Téngase en cuenta que el apartado 1 entra en vigor el 27 de julio de 2022, y el nuevo apartado 3 el 2 de enero de 2021, según se determina en la disposición final 2 de la citada orden.
+
+> Se modifica el apartado 1 por el art. único.3 de la Orden ECC/747/2013, de 25 de abril. [Ref. BOE-A-2013-4718](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4718).
+
+## Disposición transitoria única. Normas del Banco de España subsistentes.
+
+La Circular del Banco de España 3/1995, de 25 de septiembre, sobre la Central de Información de Riesgos, continuará siendo de aplicación en lo que no se oponga a la presente Orden, hasta tanto se establezcan por el Banco de España las determinaciones previstas en la presente norma.
+
+## Disposición derogatoria única. Derogaciones normativas.
+
+Quedan derogadas las siguientes disposiciones:
+
+a) Orden de 13 de febrero de 1963, sobre la Central de Información de Riesgos
+
+b) Orden de 22 de enero de 1971, sobre la Central de Información de Riesgos
+
+c) Orden de 28 de noviembre de 1984, por la que se permite a las sociedades de garantía recíproca el acceso a la Central de Información de Riesgos
+
+d) Orden de 27 de diciembre de 1990, relativa al acceso de la Sociedad Anónima Estatal de Caución Agraria a la Central de Información de Riesgos.
+
+## Disposición final única. Entrada en vigor
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 11 de marzo de 2004.
+
+DE RATO Y FIGAREDO
+
+Excmo. Sr. Gobernador del Banco de España e Ilma. Sra. Directora General del Tesoro y Política Financiera.

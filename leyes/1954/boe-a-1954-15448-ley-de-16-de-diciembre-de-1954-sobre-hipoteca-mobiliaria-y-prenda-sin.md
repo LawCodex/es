@@ -558,12 +558,6 @@ El mal uso o la resistencia del deudor a la inspección de la cosa por el acreed
 
 7\. Las normas del presente Capítulo establecen las reglas comunes para las hipotecas mobiliarias sobre derechos de propiedad industrial y sobre las hipotecas mobiliarias sobre derechos protegidos por la legislación de propiedad intelectual a los que se refiere el artículo siguiente.
 
-> Téngase en cuenta que este artículo ha sido modificado por la disposición final 1 de la Ley 24/2015, de 24 de julio. [Ref. BOE-A-2015-8328](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8328)., y que no entrará en vigor hasta el 1 de abril de 2017.
-
-> Redacción anterior:
-
-> "Los derechos protegidos por las Leyes de propiedad intelectual e industrial podrán ser hipotecados en la forma que se establece en los artículos siguientes".
-
 > Se modifica por la disposición final 1 de la Ley 24/2015, de 24 de julio. [Ref. BOE-A-2015-8328](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8328).
 
 ##### Artículo cuarenta y seis.
@@ -577,16 +571,6 @@ El mal uso o la resistencia del deudor a la inspección de la cosa por el acreed
 4\. A menos que otra cosa se pacte en el contrato, la garantía sobre la obra original no se extiende a las traducciones y adaptaciones; las revisiones, actualizaciones o anotaciones; los compendios, resúmenes o extractos; los arreglos musicales o cuales quiera transformaciones de la obra. Dichas transformaciones podrán ser objeto de otras tantas garantías separadas.
 
 5\. Inmediatamente después de haber practicado los asientos respectivos en el Registro de Bienes Muebles, el Registrador remitirá de oficio certificación de su contenido al Registro público competente donde figurase inscrita la modalidad de Propiedad Industrial objeto de la garantía para su constancia registral y la coordinación entre sendos servicios de publicidad. La hipoteca mobiliaria se reputa constituida a los efectos previstos en esta Ley desde que quedare inscrita en el Registro de Bienes Muebles.
-
-> Téngase en cuenta que este artículo ha sido modificado por la disposición final 1 de la Ley 24/2015, de 24 de julio. [Ref. BOE-A-2015-8328](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8328)., y que no entrará en vigor hasta el 1 de abril de 2017.
-
-> Redacción anterior:
-
-> "La hipoteca del derecho principal comprenderá, como accesorios, salvo pacto en contrario:
-
-> Primero. La adaptación, refundición, traducción, reimpresión, nueva edición o adición de la obra hipotecada.
-
-> Segundo. La adición, modificación o perfeccionamiento de la misma patente, marca, modelo y demás derechos de propiedad industrial..
 
 > Se modifica por la disposición final 1 de la Ley 24/2015, de 24 de julio. [Ref. BOE-A-2015-8328](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8328).
 

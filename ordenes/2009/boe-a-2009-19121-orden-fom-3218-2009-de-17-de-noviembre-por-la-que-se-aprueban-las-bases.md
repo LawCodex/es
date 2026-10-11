@@ -1,0 +1,209 @@
+---
+title: "Orden FOM/3218/2009, de 17 de noviembre, por la que se aprueban las bases reguladoras de la concesión de ayudas a transportistas autónomos por carretera que abandonen la actividad"
+identifier: "BOE-A-2009-19121"
+eli: "https://www.boe.es/eli/es/o/2009/11/17/fom3218"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2009-11-17
+published: 2009-11-30
+in_force_from: 2009-12-01
+last_amended: 2017-02-02
+consolidated: 2026-03-05
+gazette: "Boletín Oficial del Estado núm. 288"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-19121"
+retrieved: 2026-10-11
+---
+
+# Orden FOM/3218/2009, de 17 de noviembre, por la que se aprueban las bases reguladoras de la concesión de ayudas a transportistas autónomos por carretera que abandonen la actividad
+
+Uno de los problemas de que adolece el transporte público por carretera es la elevada edad de una buena parte de los titulares de microempresas de transporte que, normalmente, simultanean la dirección de éstas, como empresarios autónomos, con la conducción del vehículo con que prestan sus servicios. Teniendo en cuenta que este problema se debe, en parte, a que estas personas suelen carecer de los recursos necesarios para poder abandonar la referida actividad, se considera oportuno continuar otorgando ayudas para facilitar su retirada.
+
+Actualmente, la Orden FOM/2218/2008, de 23 de julio, establece las bases reguladoras para el otorgamiento de ayudas para fomentar el cese en la actividad de las personas de edad avanzada.
+
+Por Real Decreto 1037/2009, de 29 de junio, por el que se modifica y desarrolla la estructura orgánica básica del Ministerio de Fomento, dentro de la Dirección General de Transporte Terrestre se ha creado la División de Coordinación y Apoyo a la Innovación del Transporte por Ferrocarril y Carretera a la que corresponde apoyar al Director General en el ejercicio de las funciones otorgamiento de ayudas para la mejora de los transportes ferroviarios y por carretera. Consecuentemente, se estima necesario modificar la citada Orden FOM/2218/2008 para adaptarla a estas modificaciones organizativas. Asimismo, aprovechando la revisión de las bases reguladoras, se introducen pequeñas modificaciones de tipo técnico. Si bien los cambios descritos sólo afectan a algunos preceptos de la referida Orden, por razones de claridad se ha optado por sustituirla íntegramente por la presente disposición.
+
+En la tramitación de esta orden han sido oídos el Consejo Nacional de Transportes Terrestres, el Comité Nacional del Transporte por Carretera y los órganos competentes en materia de transportes de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla,
+
+En su virtud, de acuerdo con lo dispuesto en la Ley 38/2003, de 17 de noviembre, General de subvenciones y en su Reglamento, aprobado por el Real Decreto 887/2006, de 21 de julio, dispongo:
+
+## Artículo 1. Objeto.
+
+Esta orden tiene por objeto establecer las bases reguladoras de la concesión de ayudas destinadas a fomentar el abandono de la profesión de los transportistas de edad avanzada del sector del transporte público por carretera.
+
+## Artículo 2. Normas aplicables.
+
+Las subvenciones reguladas en esta orden se regirán, en lo no previsto en ella, por lo dispuesto con carácter general para las ayudas y subvenciones públicas en la Ley 38/2003, de 17 de noviembre, General de Subvenciones y en su Reglamento, aprobado por el Real Decreto 887/2006, de 21 de julio.
+
+## Artículo 3. Requisitos generales de los beneficiarios.
+
+1\. No podrán tener la condición de beneficiario las personas en quienes concurra alguna de las circunstancias previstas en el artículo 13.2 de la Ley General de Subvenciones.
+
+2\. Sin perjuicio de la facultad de la Subdirección General de Gestión, Análisis e Innovación del Transporte Terrestre para exigir la presentación de otros documentos, la justificación de no estar incurso en las prohibiciones a que se refiere el apartado anterior, se llevará a cabo de acuerdo con lo que se disponga en la convocatoria.
+
+> Se modifica por el art. 2.1 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Artículo 4. Requisitos relacionados con la actividad de transportista.
+
+El otorgamiento de estas ayudas estará condicionado al cumplimiento por los beneficiarios, en la fecha de presentación de la solicitud, de los siguientes requisitos:
+
+a) Tener una edad igual o superior a 63 años o haberle sido declarada una incapacidad permanente absoluta o total para el desempeño de la profesión habitual de transportista o gran invalidez, habiendo recaído resolución del Instituto Nacional de la Seguridad Social indicando la fecha de aprobación de la pensión.
+
+b) Ser titular, en el momento de la solicitud de una autorización vigente de transporte público de ámbito nacional, de mercancías o de viajeros en autobús con un máximo de tres copias, o bien simultáneamente de ambas autorizaciones con un máximo total de tres copias. En ningún caso se considerará vigente una autorización que no tuviese, al menos, una copia en vigor.
+
+c) Haber sido titular, de forma ininterrumpida durante los diez últimos años, de una de las autorizaciones contempladas en el apartado anterior, con un máximo de tres copias, o bien de ambas igualmente con un máximo total de tres copias. Dicha autorización no podrá haber estado suspendida en ningún momento, contando con al menos una copia en vigor. Se permitirá, no obstante, una única interrupción en la titularidad o vigencia de la autorización por un plazo que no supere tres meses. Se entenderá, a estos efectos, que han estado vigentes las autorizaciones caducadas por falta de visado que estén rehabilitadas en el momento de presentación de la solicitud. La autorización que dé lugar al otorgamiento de la ayuda deberá estar en vigor hasta el momento de la renuncia para el cobro de la subvención, excepto cuando se trate de incapacidad permanente absoluta o total para el desempeño de la profesión habitual de transportista o de gran invalidez, en cuyo caso deberá estar en vigor hasta el reconocimiento de estas situaciones.
+
+Las autorizaciones de transporte público de mercancías de ámbito nacional, comarcal o local para vehículo con capacidad de tracción propia, incluidas las de la clase TD, de que fuera titular el beneficiario con anterioridad al 16 de abril de 2007, se computarán como copias de una misma autorización. Idéntico tratamiento tendrán las autorizaciones de ámbito autonómico que hayan sido convalidadas de acuerdo con la disposición transitoria primera de la Orden FOM/734/2007, de 20 de marzo, por la que se desarrolla el Reglamento de la Ley de Ordenación de los Transportes Terrestres en materia de autorizaciones de transporte de mercancías por carretera.
+
+Las autorizaciones de transporte público de viajeros en autobús de ámbito nacional, comarcal o local referidas a vehículo concreto de que fuera titular el beneficiario con anterioridad al 1 de julio de 1998, se computarán como copias de una misma autorización.
+
+Cuando una autorización de transporte público de mercancías de ámbito limitado se hubiera convertido en autorización autonómica y, posteriormente, de nuevo en autorización de ámbito limitado, se considerará como si en todo momento se tratase de la misma autorización.
+
+d) Estar dados de alta en el régimen de trabajadores autónomos de la Seguridad Social los últimos diez años de forma ininterrumpida, permitiéndose únicamente una sola interrupción por un plazo que no supere tres meses.
+
+En los supuestos de solicitantes afectados por una incapacidad permanente absoluta o total para el desempeño de la profesión habitual de transportista, el referido plazo de diez años se computará desde que ésta les hubiese sido reconocida.
+
+e) Comprometerse a abandonar la actividad de transporte público en nombre propio, procediendo a la renuncia de todas las autorizaciones de transporte público y de actividades auxiliares y complementarias del transporte de que fuera titular, obligándose a devolver las ayudas obtenidas y los correspondientes intereses en caso de reiniciarla.
+
+f) No haber desaprovechado otras ayudas por el abandono de la actividad que le hubieran sido otorgadas por el Ministerio de Fomento en los tres años anteriores, por haber renunciado a ellas o no haber aportado la documentación necesaria para su cobro.
+
+> Se modifican los apartados a), b) y primer párrafo del c) por el art. 2.2 a 4 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+> Se modifica el apartado a) por el art. único de la Orden FOM/2835/2012, de 17 de noviembre. [Ref. BOE-A-2013-19](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-19)
+
+## Artículo 5. Solicitudes.
+
+1\. Las personas que deseen obtener las subvenciones deberán solicitarlo en la sede electrónica del Ministerio de Fomento acompañando los documentos necesarios para acreditar el cumplimiento de los requisitos para el otorgamiento de la ayuda solicitada. El plazo de presentación de las solicitudes será de un mes contado a partir del día siguiente al de la publicación del extracto de la convocatoria en el “Boletín Oficial del Estado”.
+
+2\. Además de los documentos expresamente determinados en la convocatoria, los peticionarios de las subvenciones podrán acompañar su solicitud con cuantos otros consideren que pueden servir para justificarla.
+
+3\. Recibida la solicitud con la correspondiente documentación, la Subdirección General de Gestión, Análisis e Innovación del Transporte Terrestre podrá requerir al interesado para que, en el plazo de diez días, salvo que expresamente se le conceda otro mayor, subsane las deficiencias observadas o aporte la documentación e información que se considere necesaria para la adecuada resolución del procedimiento, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su solicitud.
+
+> Se modifica por el art. 2.5 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Artículo 6. Convocatoria y procedimiento.
+
+El procedimiento de otorgamiento de las subvenciones se iniciará mediante convocatoria aprobada por el Secretario General de Transportes por delegación del Secretario de Estado de Infraestructuras, Transportes y Vivienda, cuyo extracto se publicará en el “Boletín Oficial del Estado”. La convocatoria concretará la forma de acreditar el cumplimiento de los requisitos establecidos en esta Orden y podrá establecer reglas para ponderar los criterios de valoración.
+
+El procedimiento se tramitará en régimen de concurrencia competitiva y la ordenación e instrucción se realizarán por la Subdirección General de Gestión, Análisis e Innovación del Transporte Terrestre. La evaluación de las solicitudes se llevará a cabo por una comisión de valoración, presidida por el Subdirector General de Gestión, Análisis e Innovación del Transporte Terrestre o la persona que éste designe al efecto, y formarán parte de la misma tres vocales designados por el presidente, uno de la Subdirección General de Ordenación y Normativa de Transporte Terrestre, otro de la de Inspección de Transporte Terrestre y otro de la de Gestión, Análisis e Innovación del Transporte Terrestre. La Comisión de valoración podrá solicitar cuanta información estime necesaria y emitirá su informe concretando el resultado de la evaluación efectuada. El órgano instructor, a la vista del expediente y del informe del órgano colegiado, formulará la propuesta de resolución provisional, debidamente motivada, que deberá notificarse a los interesados en la forma que establezca la convocatoria, y se concederá un plazo de 10 días para presentar alegaciones.
+
+Examinadas las alegaciones aducidas en su caso por los interesados, se formulará la propuesta de resolución definitiva, que deberá expresar el solicitante o la relación de solicitantes para los que se propone la concesión de la subvención, y su cuantía, especificando su evaluación y los criterios de valoración seguidos para efectuarla.
+
+Al expediente se incorporará informe de la Subdirección General de Gestión, Análisis e Innovación del Transporte Terrestre en el que conste que, de la información que obra en su poder, se desprende que los beneficiarios cumplen todos los requisitos.
+
+> Se modifica por el art. 2.6 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Artículo 7. Criterios de valoración.
+
+1\. En el otorgamiento de estas ayudas se tendrán en cuenta los siguientes criterios de valoración:
+
+a) La declaración de incapacidad permanente absoluta o total para el desempeño de la profesión habitual de transportista o gran invalidez.
+
+b) La mayor edad de los transportistas que las soliciten.
+
+2\. La ponderación de dichos criterios se llevará a cabo de la siguiente manera:
+
+En primer lugar se dará preferencia a quienes se les haya declarado incapacidad permanente absoluta o total para el desempeño de la profesión habitual de transportista. En cuanto a los demás beneficiarios, se elaborará una relación por orden descendente de edad. Las ayudas se otorgarán a los que ocupen los primeros lugares en la relación de beneficiarios así elaborada.
+
+> Se modifica el apartado 1.a) por el art. 2.7 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Artículo 8. Cuantías.
+
+Las ayudas se otorgarán de acuerdo con las consignaciones presupuestarias disponibles en cada ejercicio. Las cuantías para cada beneficiario serán las siguientes:
+
+a) Si el beneficiario tuviera una edad inferior a sesenta y cinco años, 5.300 euros por cada seis meses completos que le falten para cumplir la edad de sesenta y cinco años. El cómputo de los semestres completos se hará a partir del 1 de junio del ejercicio en que se otorgan las ayudas. Los beneficiarios a los que se hubiera declarado incapacidad permanente absoluta, total para el desempeño de la profesión habitual de transportista o gran invalidez, no percibirán cantidad alguna por este concepto, con independencia de su edad.
+
+b) Por la autorización o autorizaciones de transporte público de que fuera titular, 30.000 euros.
+
+> Se modifica el apartado a) por el art. 2.8 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Artículo 9. Otorgamiento.
+
+Las ayudas serán otorgadas mediante resolución dictada por el Secretario General de Transportes por delegación del Secretario de Estado de Infraestructuras, Transportes y Vivienda. La resolución se motivará, haciendo referencia a los criterios de valoración y a su ponderación, contendrá la relación de beneficiarios que hayan obtenido la subvención y la cuantía que corresponda a cada uno e indicará, de manera expresa, que el resto de las solicitudes han sido desestimadas. Dicha resolución se publicará en la Base de Datos Nacional de Subvenciones; en el “Boletín Oficial del Estado” se publicará una referencia a la resolución de otorgamiento indicando su ubicación así como los recursos que procedan, en su caso, en vía administrativa y judicial, el órgano ante el que hubieran de presentarse y el plazo para interponerlos.
+
+Sin perjuicio de lo anterior, que implicará la terminación del procedimiento, la Subdirección General de Gestión, Análisis e Innovación del Transporte Terrestre requerirá electrónicamente de manera individualizada a los que hayan resultado beneficiarios para que aporten la documentación necesaria para el pago de la subvención.
+
+El plazo para resolver y publicar la resolución será de seis meses desde la fecha de publicación del extracto de la convocatoria, transcurrido este plazo sin que la resolución haya sido publicada, los interesados podrán entender desestimada su solicitud.
+
+La resolución que se adopte pondrá fin a la vía administrativa y contra la misma los interesados podrán interponer recurso potestativo de reposición o, directamente, contencioso-administrativo.
+
+> Se modifica por el art. 2.9 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Artículo 10. Requisitos para el pago.
+
+Para proceder al cobro de la ayuda otorgada deberá acreditarse el abandono de la actividad, cumpliéndose los siguientes requisitos:
+
+a) El beneficiario deberá renunciar a todas las autorizaciones de transporte público y de actividades auxiliares y complementarias del transporte de que fuera titular, cualquiera que fuera su clase, acreditando su baja por renuncia al ejercicio futuro de la actividad de transportista.
+
+b) Deberá comprometerse formalmente a abandonar con carácter definitivo el ejercicio de la actividad de transporte en calidad de empresario, así como, en su caso, a no aportar su capacitación o, en su caso, capacitaciones profesionales a otra empresa de transporte.
+
+c) En caso de ser titular de permiso de conducción válido para vehículo de más de 3.500 kilogramos de masa máxima autorizada y/o para autobús, deberá renunciar al mismo en la Jefatura de Tráfico correspondiente.
+
+Los beneficiarios deberán aportar la documentación que se determine en la convocatoria antes del 1 de julio del año en que se otorguen las ayudas, salvo que en la resolución de otorgamiento se haya fijado un plazo diferente. De no aportarse dicha documentación en el plazo indicado quedará sin efecto la resolución de otorgamiento.
+
+> Se modifica el último párrafo por el art. 2.10 de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Artículo 11. Comprobaciones y obligaciones de los beneficiarios.
+
+Antes de abonar las subvenciones se comprobará que en el Registro General de Transportistas y de Empresas de Actividades Auxiliares y Complementarias del Transporte se ha anotado la baja de la autorización o autorizaciones y se ha efectuado, en su caso, la anotación correspondiente en relación con la o las capacitaciones profesionales del beneficiario, para impedir que puedan aportarse a otra empresa de transporte.
+
+Los beneficiarios de las subvenciones estarán obligados a facilitar, en todo momento, cuanta información les sea requerida por el Tribunal de Cuentas y por la Dirección General de Transporte Terrestre, a efectos de control de las subvenciones otorgadas.
+
+## Artículo 12. Compatibilidad de las ayudas.
+
+Las ayudas reguladas en esta orden serán compatibles con cualesquiera otras otorgadas por otros departamentos, administraciones o entes públicos o privados, nacionales o internacionales.
+
+## Artículo 13. Incumplimiento.
+
+Sin perjuicio de lo establecido en el párrafo siguiente, procederá el reintegro del total de las cantidades percibidas y la exigencia del interés de demora desde el momento del pago de la subvención, en los casos en que el beneficiario la obtenga sin reunir las condiciones requeridas para el otorgamiento o el pago o incumpla la finalidad para la que le fue concedida o las condiciones impuestas con motivo de la concesión. Las cantidades a reintegrar tendrán la consideración de ingresos de derecho público.
+
+El incumplimiento de la obligación de renunciar al permiso de conducción para vehículo pesado o autobús, o su obtención posterior habiendo renunciado, dará lugar al reintegro de las cantidades obtenidas en virtud de los semestres que al transportista le faltasen para cumplir la edad de sesenta y cinco años.
+
+## Disposición adicional primera. Delegación de competencias.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.b) de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## Disposición adicional segunda. Sociedades unipersonales de transporte público.
+
+Podrán ser beneficiarios de las ayudas previstas en esta orden los socios únicos de sociedades mercantiles unipersonales titulares de la autorización de transporte público de mercancías o de viajeros en autobús, siempre que tanto la sociedad unipersonal como el socio único reúnan los requisitos que les afectan conforme a lo dispuesto en esta orden. Se deberá acreditar documentalmente y, siempre que sea posible, mediante certificación del registro mercantil, que la sociedad ha sido unipersonal durante los últimos diez años.
+
+## Disposición derogatoria única. Derogación.
+
+Queda derogada la Orden FOM/2218/2008, de 23 de julio, por la que se aprueban las bases reguladoras de la concesión de ayudas a transportistas autónomos por carretera que abandonen la actividad.
+
+## Disposición final primera. Título competencial.
+
+Esta orden se dicta al amparo de lo dispuesto en la regla 21.ª del artículo 149.1 de la Constitución que atribuye al Estado competencia en materia de transportes terrestres.
+
+## Disposición final segunda. Aplicación.
+
+Se faculta al Director General de Transporte Terrestre para adoptar las medidas necesarias para la aplicación de esta orden.
+
+## Disposición final tercera. Entrada en vigor.
+
+Esta orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 17 de noviembre de 2009.–El Ministro de Fomento, José Blanco López.
+
+## ANEXO I — Modelo de solicitud
+
+## **(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## ANEXO II — Documentación complementaria a la solicitud
+
+## (Derogado)
+
+> Se deroga por la disposición derogatoria única.b) de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)
+
+## ANEXO III — Documentación acreditativa del abandono de la actividad
+
+## (Derogado)
+
+> Se deroga por la disposición derogatoria única.b) de la Orden FOM/64/2017, de 30 de enero. [Ref. BOE-A-2017-1086](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1086)

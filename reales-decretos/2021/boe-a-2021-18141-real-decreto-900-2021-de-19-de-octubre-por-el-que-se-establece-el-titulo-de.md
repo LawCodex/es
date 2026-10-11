@@ -1,0 +1,5259 @@
+---
+title: "Real Decreto 900/2021, de 19 de octubre, por el que se establece el título de Técnico Deportivo en Balonmano y se fijan su currículo básico y los requisitos de acceso"
+identifier: "BOE-A-2021-18141"
+eli: "https://www.boe.es/eli/es/rd/2021/10/19/900"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación y Formación Profesional"
+date: 2021-10-19
+published: 2021-11-06
+in_force_from: 2021-11-07
+last_amended: 2026-07-02
+consolidated: 2026-09-11
+gazette: "Boletín Oficial del Estado núm. 266"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2021-18141"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 900/2021, de 19 de octubre, por el que se establece el título de Técnico Deportivo en Balonmano y se fijan su currículo básico y los requisitos de acceso
+
+La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos.
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en su artículo 64.5 que el Gobierno, previa consulta a las comunidades autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros.
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada Ley Orgánica 2/2006, de 3 de mayo, establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
+
+Las enseñanzas de técnico deportivo y técnico deportivo superior en balonmano fueron reguladas en el año 2004, mediante el Real Decreto 361/2004, de 5 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Balonmano, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas. Durante los años trascurridos se han producido hechos relevantes que han de tenerse en cuenta, tales como la regulación de las profesiones del deporte por parte de varias comunidades autónomas, o el desarrollo irregular de la implantación de estas enseñanzas. Así mismo, se ha producido una evidente evolución en la comprensión del juego del balonmano y en la mejora de los medios y métodos de enseñanza técnica y táctica. Todo ello hace aconsejable la actualización de los currículos de estas enseñanzas.
+
+Este marco normativo y la necesidad de actualizar las enseñanzas deportivas en balonmano para adaptarlas a la nueva situación, hace necesario que ahora el Gobierno, previa consulta a las comunidades autónomas y tras cumplir con los trámites de consulta pública previa y de audiencia e información pública, recogidos en el artículo 26 de la Ley 50/1997, de 27 de noviembre, del Gobierno, actualice el título de Técnico Deportivo en Balonmano, establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo y que formará parte del catálogo de las enseñanzas deportivas del sistema educativo, fijando su currículo básico y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.3 y artículo 6 bis 1 c) de la Ley Orgánica 2/2006, de 3 de mayo.
+
+El Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, ha establecido la ordenación general de las enseñanzas deportivas de régimen especial, y define en el artículo 4 la estructura de las enseñanzas deportivas.
+
+Por otra parte, en su artículo 6 establece que los ciclos de enseñanza deportiva responderán a un determinado perfil profesional definido por las competencias y funciones características que configuran un conjunto coherente desde el punto de vista del sistema deportivo. Este perfil profesional, de acuerdo con el artículo 19, incluirá la competencias general, las competencias profesionales, personales y sociales propias del sistema deportivo y, en su caso, la relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título, con el fin de lograr que, en efecto, los títulos de enseñanzas deportivas respondan a las necesidades demandadas por el sistema productivo y a los valores personales y sociales para ejercer una ciudadanía democrática.
+
+A estos efectos, procede determinar para cada título su identificación, su perfil profesional, el entorno profesional, las enseñanzas de los ciclos de enseñanza deportiva, la correspondencia de los módulos de enseñanza deportiva con las unidades de competencia para su acreditación, convalidación o exención, la acreditación de módulos debida a la experiencia docente y los parámetros básicos de contexto formativo para cada módulo de enseñanza deportiva (espacios, equipamientos necesarios, las titulaciones y especialidades del profesorado). Asimismo, en cada título también se determinarán los requisitos específicos de acceso, siendo propio de estos títulos la identificación de la carga lectiva que se acredita a través de estos requisitos, la vinculación con otros estudios, las convalidaciones, exenciones y equivalencias.
+
+El marcado carácter técnico de estas enseñanzas, definidas por la peculiaridad de sus procedimientos, materiales, equipos y prácticas específicas de cada modalidad, hace necesario un desarrollo que garantice un mínimo común denominador, claro y orientador, a través de una norma reglamentaria, lo que garantiza el principio de seguridad jurídica establecido en artículo 129.1 de la Ley 39/2015, de 1 de octubre.
+
+Asimismo, cabe mencionar que el este real decreto se ajusta a los principios de buena regulación contenidos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, entre ellos, los principios necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencias y eficiencia, en tanto que persigue el interés general al facilitar la adecuación de la oferta formativa a las demandas del sector productivo y del sistema deportivo, ampliar la oferta de las enseñanzas deportivas, avanzar en la integración de las enseñanzas deportivas de régimen especial en el conjunto del sistema educativo y reforzar la cooperación entre las administraciones educativas, así como con las federaciones deportivas; no existiendo ninguna alternativa regulatoria menos restrictiva de derechos, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Del mismo modo, durante el procedimiento de elaboración de la norma se ha permitido la participación activa de las personas potencialmente destinatarias a través del trámite de audiencia e información pública y quedan justificados los objetivos que permite la ley.
+
+El presente real decreto, que se dicta en desarrollo de la Ley Orgánica 2/2006, de 3 de mayo, y de la Ley 10/1990, de 15 de octubre, del Deporte, y en cumplimiento del Real Decreto 1363/2007, de 24 de octubre, establece y regula, en los aspectos y elementos básicos antes indicados, el título de Técnico Deportivo en Balonmano.
+
+Finalmente, este real decreto adapta al ámbito de las enseñanzas deportivas en balonmano las previsiones del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, ya contenidas en el citado Real Decreto 1363/2007, de 24 de octubre, y desarrolla en este ámbito las previsiones de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas y las ciudades de Ceuta y Melilla, en el seno de las Conferencia Sectorial de Educación, y han emitido informe el Consejo Escolar del Estado y el Ministerio de Política Territorial.
+
+En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, y previa deliberación del Consejo de Ministros en su reunión del día 19 de octubre de 2021,
+
+DISPONGO:
+
+## CAPÍTULO I — Objeto
+
+### Artículo 1. Objeto.
+
+Este real decreto tiene por objeto el establecimiento del título de Técnico Deportivo en Balonmano, con carácter oficial y validez en todo el territorio nacional, así como el de su correspondiente currículo básico y los requisitos de acceso.
+
+## CAPÍTULO II — Identificación del título y organización de las enseñanzas
+
+### Artículo 2. Identificación del título de Técnico Deportivo en Balonmano.
+
+El título de Técnico Deportivo en Balonmano queda identificado por los siguientes elementos:
+
+a) Denominación: Balonmano.
+
+b) Nivel: enseñanzas deportivas de grado medio.
+
+c) Duración: 1.030 horas.
+
+d) Referente Internacional: CINE-3 (Clasificación Internacional Normalizada de Educación).
+
+### Artículo 3. Organización de las enseñanzas conducentes al título de Técnico Deportivo en Balonmano.
+
+Las enseñanzas conducentes al título de Técnico Deportivo en Balonmano se organizan en dos ciclos:
+
+a) Ciclo inicial de grado medio en balonmano, teniendo una duración de 430 horas.
+
+b) Ciclo final de grado medio en balonmano, teniendo una duración de 600 horas.
+
+### Artículo 4. Especializaciones del título de Técnico Deportivo en Balonmano.
+
+1\. El título de Técnico Deportivo en Balonmano tendrá como especializaciones:
+
+a) Balonmano escolar.
+
+b) Balonmano de personas con discapacidad.
+
+c) Balonmano playa.
+
+2\. El Ministerio de Educación y Formación Profesional, a propuesta del Consejo Superior de Deportes y previa consulta de los órganos competentes en materia de deportes de las comunidades autónomas y de la Real Federación Española de Balonmano, establecerá los objetivos, contenidos y criterios de evaluación de estas especializaciones.
+
+> Se modifica la letra b) del apartado 1 por el art. 11.1 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## CAPÍTULO III — Perfil profesional y entorno profesional, personal y laboral deportivo de los ciclos
+
+### Artículo 5. Perfil profesional de los ciclos de grado medio en balonmano.
+
+El perfil profesional del ciclo inicial y del ciclo final de grado medio en balonmano queda determinado por su competencia general, sus competencias profesionales, personales y sociales, por la relación de cualificaciones y en su caso, unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título y el entorno profesional, laboral y deportivo.
+
+### Artículo 6. Competencia general del ciclo inicial de grado medio en balonmano.
+
+La competencia general del ciclo inicial de grado medio en balonmano consiste en concretar, dirigir y dinamizar la iniciación deportiva en balonmano, organizando, acompañando y tutelando a los jugadores y jugadoras durante su participación en competiciones y otras actividades del nivel de iniciación; y todo ello conforme a las directrices establecidas en la programación de referencia, en condiciones de seguridad y con el nivel óptimo de calidad que permita la satisfacción de los participantes en la actividad.
+
+### Artículo 7. Competencias profesionales, personales y sociales del ciclo inicial de grado medio en balonmano.
+
+Las competencias profesionales, personales y sociales del ciclo inicial de grado medio en balonmano son las que se relacionan a continuación:
+
+a) Dominar las técnicas básicas de la modalidad deportiva con nivel suficiente para el desarrollo de las tareas propias de la iniciación deportiva en balonmano.
+
+b) Acoger a los jugadores y jugadoras informando de las características de la actividad, recabando información sobre sus motivaciones e intereses y motivándoles hacia la práctica del balonmano.
+
+c) Valorar las habilidades y destrezas específicas de los jugadores y jugadoras con el objeto de determinar su nivel para proponer su incorporación a un grupo y tomar las medidas de corrección adecuadas.
+
+d) Concretar situaciones de aprendizaje y sesiones de trabajo para la iniciación en balonmano de acuerdo con la programación de referencia y los fundamentos básicos del juego, adecuándose al grupo y a las condiciones materiales existentes, teniendo en cuenta la transmisión de valores de práctica saludable y el respeto y cuidado del propio cuerpo.
+
+e) Dirigir la sesión de enseñanza aprendizaje de iniciación en balonmano, solucionando las contingencias existentes, para conseguir la participación y rendimiento conforme a los objetivos propuestos de la misma, y dentro de las normas medioambientales y los márgenes de seguridad requeridos.
+
+f) Controlar la seguridad de la práctica en el nivel de iniciación a la modalidad deportiva, supervisando las instalaciones y medios utilizados e interviniendo mediante la ayuda o el rescate en las situaciones de riesgo detectadas.
+
+g) Asistir como primer interviniente en caso de accidente o situación de emergencia.
+
+h) Seleccionar a los jugadores y jugadoras en función de su nivel y características, comprobando que se adaptan a las exigencias de la competición de nivel de iniciación deportiva, respetando los objetivos previstos y conforme a los márgenes de seguridad máximos.
+
+i) Acompañar y tutelar a los jugadores y jugadoras en las competiciones y otras actividades del nivel de iniciación para proporcionar una experiencia motivante y segura.
+
+j) Dirigir y arbitrar a los jugadores en competiciones de nivel de iniciación dentro de los valores éticos vinculados al juego limpio y el respeto a los demás reforzando su responsabilidad y esfuerzo personal.
+
+k) Colaborar e intervenir en la creación y desarrollo de núcleos de balonmano, así como en la organización y gestión de pequeñas competiciones y eventos propios del balonmano, con el objeto de captar, adherir y fidelizar a los jugadores y jugadoras en la práctica del balonmano.
+
+l) Valorar el desarrollo de la sesión y la competición, recogiendo y procesando la información necesaria para la elaboración de juicios que permita el ajuste y mejora permanente del proceso de enseñanza-aprendizaje y de las actividades propias de la iniciación al balonmano.
+
+m) Transmitir a través del comportamiento ético personal valores vinculados al juego limpio, el respeto a los demás y cuidado del propio cuerpo.
+
+n) Mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el ámbito de su labor como técnico deportivo.
+
+ñ) Mantener la iniciativa y autonomía dentro del trabajo en equipo para el desempeño de sus funciones.
+
+### Artículo 8. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales en el ciclo inicial de grado medio en balonmano.
+
+El ciclo inicial de grado medio en balonmano incluye las cualificaciones profesionales y correspondientes unidades de competencia recogidas en el anexo XI-A.
+
+### Artículo 9. Entorno profesional, laboral y deportivo del ciclo inicial de grado medio en balonmano.
+
+1\. Las personas que obtienen este título desarrollan su actividad profesional tanto en el ámbito público, ya sea en la Administración General del Estado, las administraciones autonómicas o locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones y clubes deportivos y sociales, escuelas de balonmano, centros de iniciación deportiva, centros educativos, empresas de servicios deportivos, campus de balonmano, etc. que ofrezcan actividades deportivo-recreativas de descubrimiento e iniciación al balonmano.
+
+2\. Se ubica en los sectores del deporte, el turismo y el ocio y tiempo libre.
+
+3\. Las ocupaciones y puestos de trabajo más relevantes para estos profesionales son las siguientes:
+
+a) Entrenador o entrenadora de iniciación en balonmano.
+
+b) Monitor o monitora de escuelas de balonmano.
+
+4\. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo a los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
+
+### Artículo 10. Competencia general del ciclo final de grado medio en balonmano.
+
+La competencia general del ciclo final de grado medio en balonmano consiste en adaptar, concretar, dirigir y dinamizar el entrenamiento básico y el perfeccionamiento técnico y táctico en la etapa de tecnificación deportiva de balonmano; organizar, acompañar y tutelar a los deportistas durante su participación en actividades, competiciones y eventos propias de este nivel; gestionar los recursos materiales necesarios y coordinar las actividades de los técnicos y técnicas a su cargo; organizar actividades, competiciones y eventos del nivel de iniciación deportiva; todo ello conforme a las directrices establecidas en la programación de referencia, en condiciones de seguridad y con el nivel óptimo de calidad que permita la satisfacción de los deportistas participantes en la actividad.
+
+### Artículo 11. Competencias profesionales, personales y sociales propias del sistema deportivo del ciclo final de grado medio en balonmano.
+
+Las competencias profesionales, personales y sociales del ciclo final de grado medio en balonmano son las que se relacionan a continuación:
+
+a) Valorar y seleccionar al deportista en función de su nivel y sus características con el fin de adaptar la programación de referencia en la etapa de tecnificación deportiva.
+
+b) Adaptar y concretar los programas y sesiones de entrenamiento de los factores de rendimiento propios de la etapa de tecnificación deportiva en balonmano de acuerdo con la programación general, teniendo en cuenta la transmisión de valores de práctica saludable y el respeto y cuidado del propio cuerpo.
+
+c) Dirigir la sesión de entrenamiento en la etapa de tecnificación deportiva en balonmano, solucionando las contingencias existentes, fomentando la cohesión y funcionamiento del grupo, para conseguir la participación y rendimiento conforme a los objetivos propuestos de la misma, y dentro de los márgenes de seguridad requeridos.
+
+d) Dirigir a los deportistas en competiciones de nivel de tecnificación realizando las orientaciones técnico-tácticas y tomar las decisiones más adecuadas en el desarrollo de la competición, fomentando la cohesión y funcionamiento del grupo.
+
+e) Organizar eventos propios de la iniciación deportiva y colaborar e intervenir en la gestión de competiciones y eventos propios de la tecnificación en balonmano, con el objeto de captar, adherir y fidelizar al deportista a la práctica de la modalidad deportiva.
+
+f) Coordinar a otros técnicos encargados de la iniciación deportiva revisando su programación, organizando los recursos materiales y humanos todo ello con el fin de dinamizar y favorecer las relaciones entre dichos técnicos.
+
+g) Evaluar el proceso de tecnificación deportiva, recogiendo la información necesaria para la elaboración de juicios y ajustando programas que permitan la mejora permanente del entrenamiento básico y perfeccionamiento de las actividades propias de la tecnificación en la modalidad o especialidad deportiva.
+
+h) Transmitir, a través del comportamiento ético personal, valores vinculados al juego limpio, el respeto a los demás y al respeto y cuidado del propio cuerpo.
+
+i) Mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el ámbito de su labor como técnico deportivo.
+
+j) Aplicar en la iniciación al balonmano playa los fundamentos del juego, las principales normas del reglamento, y las acciones ofensivas y defensivas específicas de esta especialidad.
+
+k) Adaptar, concretar y dirigir el entrenamiento en las etapas de iniciación y tecnificación del balonmano playa, de acuerdo con la programación general, teniendo en cuenta las características específicas individuales y del grupo, y los recursos materiales y del entorno.
+
+### Artículo 12. Entorno profesional, laboral y deportivo del ciclo final de grado medio en balonmano.
+
+1\. Las personas que obtienen este título desarrollan su actividad profesional tanto en el ámbito público, ya sea en la Administración General del Estado, las administraciones autonómicas o locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones, centros de tecnificación, clubes deportivos y sociales, centros educativos, empresas de servicios deportivos, campus de balonmano, que ofrezcan actividades deportivo-recreativas de tecnificación en balonmano.
+
+2\. Se ubica en los sectores del deporte, el ocio y tiempo libre.
+
+3\. Las ocupaciones y puestos de trabajo más relevantes son las siguientes:
+
+a) Entrenador o entrenadora de tecnificación en balonmano.
+
+b) Director técnico o directora técnica de club de base.
+
+c) Coordinador o coordinadora de escuelas de balonmano.
+
+4\. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo a los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
+
+## CAPÍTULO IV — Estructura de las enseñanzas de cada uno de los ciclos de enseñanza deportiva conducentes al título de Técnico Deportivo en Balonmano
+
+### Artículo 13. Estructura de los ciclos inicial y final de grado medio de balonmano.
+
+1\. Los ciclos desarrollados en el presente real decreto se estructuran en módulos, agrupados en bloque común y bloque específico.
+
+2\. Los módulos de enseñanza deportiva del ciclo inicial de grado medio en balonmano son los que a continuación se relacionan:
+
+a) Módulos del bloque común:
+
+MED-C101. Bases del comportamiento deportivo.
+
+MED-C102. Primeros auxilios.
+
+MED-C104. Organización deportiva.
+
+MED-C105. Actividad físico-deportiva para personas con discapacidad.
+
+b) Módulos del bloque específico:
+
+MED-BMBM102 Fundamentos básicos del juego.
+
+MED-BMBM103 Enseñanza de balonmano en la iniciación.
+
+MED-BMBM104 Organización de actividades y eventos de base.
+
+MED-BMBM105 Formación práctica.
+
+3\. Los módulos de enseñanza deportiva del ciclo final de grado medio de balonmano son los que a continuación se relacionan:
+
+a) Módulos del bloque común:
+
+MED-C201. Bases del aprendizaje deportivo.
+
+MED-C202. Bases del entrenamiento deportivo.
+
+MED-C204. Organización y legislación deportiva.
+
+MED-C205. Deporte y género.
+
+MED-C206. Iniciación deportiva para personas con discapacidad.
+
+b) Módulos del bloque específico:
+
+MED-BMBM201 Formación técnico-táctica individual en balonmano.
+
+MED-BMBM202 El juego colectivo en balonmano.
+
+MED-BMBM203 Metodología en la etapa de tecnificación en balonmano.
+
+MED-BMBM204 Preparación física del balonmano.
+
+MED-BMBM205 Fundamentos básicos del balonmano playa.
+
+MED-BMBM206 Balonmano en silla de ruedas.
+
+MED-BMBM207 Dirección deportiva en la etapa de tecnificación.
+
+MED-BMBM208 Formación práctica.
+
+4\. La distribución horaria de las enseñanzas mínimas de los ciclos desarrollados en el presente real decreto se establece en el anexo I.
+
+5\. Los objetivos generales y los módulos de enseñanza deportiva de los ciclos inicial y final de grado medio en balonmano quedan desarrollados en los anexos II y III del presente real decreto.
+
+> Se modifica la letra a) de los apartados 2 y 3 por el art. 11.2 y 3 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+### Artículo 14. Ratio profesor/alumno.
+
+1\. Para impartir los módulos del bloque común, la relación profesor/alumno será de 1/30.
+
+2\. Para impartir los módulos del bloque específico del ciclo de grado superior en balonmano, la relación profesor/alumno será la recogida en el anexo IV.
+
+### Artículo 15. Módulo de formación práctica.
+
+Para iniciar los módulos de formación práctica de los ciclos inicial y final de grado medio en balonmano, será necesario haber superado con anterioridad los módulos comunes y específicos de enseñanza deportiva que se establecen en el anexo V de este real decreto.
+
+### Artículo 16. Determinación del currículo.
+
+Las administraciones educativas establecerán los currículos correspondientes respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+
+### Artículo 17. Espacios y equipamientos deportivos.
+
+Los espacios y equipamientos mínimos necesarios para el desarrollo de las enseñanzas de los ciclos de grado medio en balonmano son los establecidos en los anexos VI-A y VI-B de este real decreto.
+
+## CAPÍTULO V — Acceso a cada uno de los ciclos
+
+### Artículo 18. Requisitos generales de acceso a los ciclos inicial y final de grado medio en balonmano.
+
+1\. Para acceder al ciclo inicial de grado medio en balonmano será necesario tener el título de Graduado en Educación Secundaria Obligatoria u otra titulación equivalente a efectos de acceso de acuerdo con lo establecido en la disposición adicional duodécima del Real Decreto 1363/2007, de 24 de octubre.
+
+2\. Para acceder al ciclo final de grado medio en balonmano será necesario acreditar tener superado el ciclo inicial de grado medio en balonmano.
+
+### Artículo 19. Requisitos de acceso al ciclo inicial de grado medio en balonmano para personas sin el título de Graduado en Educación Secundaria Obligatoria.
+
+Se podrá acceder a las enseñanzas del ciclo inicial de grado medio en balonmano sin el título de Graduado en Educación Secundaria Obligatoria, siempre que el aspirante reúna los otros requisitos de carácter específico que se establecen en el presente real decreto, cumpla las condiciones de edad y supere la prueba establecida en el artículo 31.1.a) del Real Decreto 1363/2007, de 24 de octubre.
+
+### Artículo 20. Requisito de acceso específico al ciclo inicial de grado medio en balonmano.
+
+1\. Para acceder al ciclo inicial de grado medio en balonmano será necesario superar la prueba de carácter específico que se establece en el anexo VII o acreditar el mérito deportivo de haber competido durante al menos una temporada en cualquier categoría de competición federativa desde la categoría infantil hasta la categoría absoluta.
+
+2\. La prueba de carácter específico del ciclo inicial RAE-BMBM101, acredita la competencia profesional de: Dominar las técnicas básicas de la modalidad deportiva con nivel suficiente para el desarrollo de las tareas propias de la iniciación deportiva en balonmano, recogida en el artículo 7 del presente real decreto, y que en el título se les asigna una carga horaria de formación de 120 horas sobre la duración total del ciclo inicial de grado medio en balonmano.
+
+3\. La Real Federación Española de Balonmano emitirá el correspondiente certificado que acredite la posesión del mérito deportivo establecido en el presente real decreto.
+
+4\. Para la superación de la prueba de carácter específico será necesaria la evaluación positiva en la totalidad de los criterios de evaluación descritos en las mismas.
+
+### Artículo 21. Efectos y vigencia de la prueba de acceso carácter específico.
+
+1\. La superación de la prueba de carácter específico, que se establece para el acceso al ciclo inicial de grado medio en balonmano, tendrá efectos en todo el territorio nacional.
+
+2\. La superación de la prueba de carácter específico, que se establece en el anexo VII, tendrán una vigencia de 18 meses, contados a partir de la fecha de su finalización.
+
+### Artículo 22. Exención de la superación de la prueba de carácter específico a los deportistas de alto nivel y alto rendimiento.
+
+Estarán exentos de superar la prueba de carácter específico que se establece o de acreditar el mérito deportivo para tener acceso al ciclo inicial de grado medio en balonmano aquellos deportistas que acrediten:
+
+a) La condición de deportista de alto nivel en las condiciones que establece el Real Decreto 971/2007, de 13 de julio, sobre deportista de alto nivel y alto rendimiento para la modalidad o especialidad deportiva de balonmano.
+
+b) La calificación de deportista de alto rendimiento o equivalente en la modalidad de balonmano, establecida por las comunidades autónomas de acuerdo con su normativa.
+
+c) Haber pertenecido a la plantilla de un club de categoría nacional durante una temporada o haber participado en 4 competiciones nacionales oficiales en balonmano playa.
+
+### Artículo 23. Requisitos de acceso de las personas con discapacidad.
+
+Las personas con discapacidad podrán acceder a las enseñanzas de estos ciclos de acuerdo con lo dispuesto en la disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre, siendo obligación de las administraciones competentes llevar a cabo los ajustes razonables para que este acceso no comporte restricciones injustificadas contrarias al principio de igualdad de oportunidades.
+
+### Artículo 24. Composición y perfil del tribunal de la prueba de carácter específico.
+
+1\. El tribunal evaluador de la prueba de carácter específico será nombrado por el órgano competente de la comunidad autónoma y deberá estar formado por un mínimo de tres evaluadores.
+
+2\. Los integrantes del tribunal evaluador de las pruebas de carácter específico deberán acreditar la titulación de Técnico Deportivo Superior en Balonmano o estar en posesión de la homologación al título de Técnico Deportivo Superior en Balonmano. Además, como mínimo uno de los evaluadores será propuesto por la Real Federación Española de Balonmano.
+
+### Artículo 25. Funciones del tribunal evaluador de la prueba de carácter específico.
+
+1\. El tribunal de la prueba de carácter específico tendrá, entre otras, las siguientes funciones:
+
+a) La organización de la prueba de carácter específico con arreglo a lo especificado en el anexo VII.
+
+b) La valoración de los méritos deportivos que se establecen en el artículo 20.1.
+
+c) La valoración de la documentación presentada para la obtención de la exención que se establece en la Disposición transitoria primera.
+
+d) Garantizar el correcto desarrollo de las pruebas de carácter específico, comprobando que los objetivos, los contenidos y la evaluación de los ejercicios que componen las pruebas se atienen a lo establecido en la descripción de las mismas.
+
+e) Los integrantes del tribunal evaluador realizarán la valoración de las actuaciones de los aspirantes de conformidad con lo establecido en los criterios de evaluación de los resultados de aprendizaje de la prueba de carácter específico.
+
+f) La evaluación final de los aspirantes.
+
+2\. El tribunal, como órgano colegiado, se regirá por lo establecido en el Título Preliminar, Capítulo II, Sección 3.ª de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+3\. En el caso de que alguno de los aspirantes acredite algún tipo de discapacidad, el tribunal actuará de acuerdo con lo dispuesto en la disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre.
+
+## CAPÍTULO VI — Profesorado
+
+### Artículo 26. Requisitos de titulación del profesorado en centros públicos.
+
+Los requisitos de titulación del profesorado en centros públicos se determinarán en función del bloque de enseñanza deportiva en que hayan de impartir la docencia:
+
+1\. La docencia en centros públicos de los módulos del bloque común que constituyen las enseñanzas deportivas de los ciclos desarrollados en el presente real decreto corresponde al profesorado de las especialidades de los cuerpos de funcionarios docentes, según lo establecido en el anexo VIII de este real decreto.
+
+2\. La docencia en centros públicos de los módulos del bloque específico que constituyen las enseñanzas deportivas de los ciclos desarrollados en el presente real decreto, está especificada en el anexo IX-A, y corresponde a:
+
+a) Profesores de la especialidad de Educación Física de los cuerpos de catedráticos y de profesores de enseñanza secundaria, que posean el título de Técnico Deportivo Superior en Balonmano, o estén en posesión de la homologación al título de Técnico Deportivo Superior en Balonmano.
+
+b) Profesores especialistas que posean el título de Técnico Deportivo Superior en Balonmano, o estén en posesión de la homologación al título de Técnico Deportivo Superior en Balonmano, o aquellas personas no tituladas que acrediten la experiencia en el ámbito laboral y deportivo, o la experiencia docente, detallada en el anexo IX-B.
+
+3\. Las administraciones educativas podrán autorizar la docencia de los módulos del bloque específico atribuidos al profesorado especialista, a los miembros de los cuerpos de catedráticos y profesores de enseñanza secundaria con la especialidad de Educación Física, cuando carezcan del título de Técnico Deportivo Superior en Balonmano, siempre que posean la formación diseñada al efecto o reconocida por dichas administraciones educativas, o la experiencia laboral o deportiva o la experiencia docente, detallada en el anexo IX-B.
+
+### Artículo 27. Los requisitos de titulación del profesorado en centros privados y de titularidad pública de administraciones distintas a la educativa.
+
+Las titulaciones requeridas para la impartición de los módulos tanto del bloque común, como del bloque específico que forman los ciclos desarrollados en el presente real decreto, para el profesorado de los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, se concretan en el anexo X del presente real decreto.
+
+## CAPÍTULO VII — Vinculación a otros estudios
+
+### Artículo 28. Acceso a otros estudios.
+
+El título de Técnico Deportivo en Balonmano permitirá el acceso directo a todas las modalidades de bachillerato.
+
+### Artículo 29. Convalidación de estas enseñanzas.
+
+1\. El Ministerio de Educación y Formación Profesional establecerá las convalidaciones que proceda otorgar del bloque común de las enseñanzas reguladas en el presente real decreto a aquellos que acrediten el título de:
+
+a) Licenciado en Ciencias de la Actividad Física y el Deporte, regulado por el Real Decreto 1670/1993, de 24 de septiembre; por el que se establece el título universitario oficial de Licenciado en Ciencias de la Actividad Física y del Deporte y las directrices generales propias de los planes de estudios conducente a la obtención del mismo.
+
+b) Diplomado en Educación Física y Licenciado en Educación Física, regulados por el Real Decreto 790/1981, de 24 de abril, sobre Institutos Nacionales de Educación Física y las enseñanzas que imparten.
+
+c) Maestro Especialista en Educación Física, regulado por el Real Decreto 1440/1991, de 30 de agosto, por el que se establece el título universitario, oficial de Maestro, en sus diversas especialidades y las directrices generales propias de los planes de estudios conducentes a su obtención.
+
+d) Cualquier título de la familia de actividades físicas y deportivas de la formación profesional del sistema educativo regulado por el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo, y declarados equivalentes.
+
+e) Graduado, regulado en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales que acredite la obtención de las competencias adecuadas.
+
+f) Bachillerato, en las materias que se determinen.
+
+g) Los títulos establecidos al amparo del Real Decreto 1913/1997, de 19 de diciembre, por el que se configuran como enseñanzas de régimen especial las conducentes a la obtención de titulaciones de técnicos deportivos, se aprueban las directrices generales de los títulos y de las correspondientes enseñanzas mínimas.
+
+2\. La correspondencia de los módulos de enseñanza deportiva que forman parte del presente título con las unidades de competencia para su acreditación, queda determinada en el anexo XI-B.
+
+3\. La correspondencia de las unidades de competencia con los módulos de enseñanza deportiva que forman el presente título para su convalidación o exención queda determinada en el anexo XI-C.
+
+4\. Las convalidaciones de módulos de enseñanza deportiva de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, con los módulos de enseñanza deportiva del bloque específico del título de Técnico Deportivo en Balonmano se establecen en el anexo XII.
+
+5\. Serán objeto de convalidación los módulos comunes y específicos de enseñanza deportiva con la misma denominación y código.
+
+6\. La superación de la totalidad de los módulos del bloque común del primer o segundo nivel, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, se convalidará por la totalidad de los módulos del bloque común del correspondiente ciclo inicial o final de enseñanza deportiva en balonmano. La superación de la totalidad de los módulos del bloque común de los ciclos inicial o final del título de Técnico Deportivo en Balonmano, se convalidará por la totalidad de los módulos del bloque común, del correspondiente nivel, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre.
+
+### Artículo 30. Exención del módulo de formación práctica.
+
+Podrá ser objeto de exención total o parcial el módulo de formación práctica de los ciclos desarrollados en el presente real decreto, en función de su correspondencia con la experiencia en el ámbito deportivo o laboral, detallado en el anexo XIII.
+
+### Disposición adicional primera. Regulación del ejercicio de la profesión.
+
+De conformidad con lo establecido en el Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, los elementos recogidos en el presente real decreto no constituyen una regulación del ejercicio de profesión titulada alguna.
+
+### Disposición adicional segunda. Referencia del título en el marco europeo.
+
+Una vez establecido el marco nacional de cualificaciones, de acuerdo con las recomendaciones europeas, se determinará el nivel correspondiente de este título en el marco nacional y su equivalente europeo.
+
+### Disposición adicional tercera. Oferta a distancia de los módulos de enseñanza deportiva del presente título.
+
+Los módulos de enseñanza deportiva que se establecen en el anexo XIV podrán ofertarse a distancia, siempre que se garantice que el alumnado puede conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
+
+### Disposición adicional cuarta. Clave identificativa de los certificados de superación del ciclo inicial.
+
+La clave identificativa de los certificados oficiales acreditativos de la superación del ciclo inicial de grado medio en balonmano a la que hace referencia el artículo 15.4 del Real Decreto 1363/2007, de 24 de octubre, incluirá:
+
+a) Certificación académica oficial: CA.
+
+b) Dígito de la Comunidad Autónoma: de acuerdo con lo establecido en el anexo IV de la Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
+
+c) Dígitos de modalidad deportiva: BMBM.
+
+### Disposición adicional quinta. Titulaciones equivalentes.
+
+1\. El título de Técnico Deportivo en Balonmano, establecido en el Real Decreto 361/2004, de 5 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Balonmano, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas, tendrá los mismos efectos profesionales y académicos que el título de Técnico Deportivo en Balonmano establecido en el presente real decreto.
+
+2\. El certificado de superación del primer nivel establecido en el Real Decreto 361/2004, de 5 de marzo, tendrá los mismos efectos profesionales y académicos que el ciclo inicial de grado medio en balonmano regulado en el presente real decreto.
+
+### Disposición transitoria primera. Acceso al ciclo inicial de grado medio.
+
+1\. Durante los cursos académicos 2023-2024, 2024-2025 y 2025-2026, estarán exentos de acreditar el requisito de acceso al que se refiere el artículo 20.1 aquellos que acrediten su experiencia como entrenadores de equipos participantes en competiciones oficiales, en las diferentes categorías organizadas por las federaciones deportivas autonómicas o española de balonmano. Esta experiencia debe ser de al menos dos temporadas, y haber sido adquirida con anterioridad a la fecha de entrada en vigor del presente real decreto.
+
+2\. La Real Federación Española de Balonmano emitirá el correspondiente certificado que acredite la experiencia deportiva.
+
+### Disposición transitoria segunda. Aplicabilidad transitoria del Real Decreto 361/2004, de 5 de marzo y de la Orden ECI/494/2005, de 21 de mayo.
+
+1\. Hasta el curso académico 2022-2023, será de aplicación lo dispuesto en el Real Decreto 361/2004, de 5 de marzo.
+
+2\. Así mismo, hasta que sea de aplicación la norma que regule, para el ámbito de gestión del Ministerio de Educación y Formación Profesional el currículo correspondiente al título de Técnico Deportivo en Balonmano, aquí regulado, serán de aplicación los aspectos del currículo del mencionado título establecidos en la Orden ECI/494/2005, de 21 de mayo, por la que se establecen para el ámbito territorial de gestión directa del Ministerio de Educación y Ciencia, los currículos y las pruebas y requisitos de acceso, correspondientes a los títulos de Técnico Deportivo y de Técnico Deportivo Superior de Balonmano.
+
+### Disposición derogatoria única. Derogación de normas.
+
+1\. Queda derogado el Real Decreto 361/2004, de 5 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Balonmano, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas.
+
+2\. Quedan derogadas todas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+### Disposición final primera. Título competencial.
+
+El presente real decreto se dicta, al amparo de las competencias que atribuye al Estado el artículo 149.1. 30.ª de la Constitución, para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+
+### Disposición final segunda. Implantación del nuevo currículo.
+
+Las administraciones educativas que impartan el grado medio conducente al título de Técnico Deportivo en Balonmano al amparo del Real Decreto 361/2004, de 5 de marzo, deberán implantar el nuevo currículo de estas enseñanzas antes del inicio del curso escolar 2022-2023. No obstante, podrán anticipar al año académico 2021-2022 la implantación de estas enseñanzas.
+
+### Disposición final tercera. Autorización para la actualización de los anexos.
+
+1\. Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se autoriza al titular del Ministerio de Educación y Formación Profesional para la modificación y actualización de los anexos VIII, IX-A y X de este real decreto.
+
+2\. Con el objeto de actualizar la referencia al Catálogo Nacional de Cualificaciones Profesionales de los ciclos y la correspondencia de las unidades de competencia con los módulos de enseñanza deportiva que forman el presente título para su convalidación o exención, se autoriza al titular del Ministerio de Educación y Formación Profesional para la modificación y actualización de los anexos XI-A, XI-B y XI-C.
+
+### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 19 de octubre de 2021.
+
+FELIPE R.
+
+La Ministra de Educación y Formación Profesional,
+
+MARÍA DEL PILAR ALEGRÍA CONTINENTE
+
+## ANEXO I — Distribución horaria del currículo básico del Técnico Deportivo en balonmano
+
+| Prueba de acceso. | 90 h |
+|---|---|
+| *Bloque común* | Currículo básico |
+| MED-C101: Bases del comportamiento deportivo. | 8 h |
+| MED-C102: Primeros auxilios. | 12 h |
+| MED-C105: Actividad físico-deportiva para personas con discapacidad. | 5 h |
+| MED-C104: Organización deportiva. | 5 h |
+| Total. | 30 h |
+| *Bloque específico* | Currículo básico |
+| MED-BMBM102: Fundamentos básicos del juego. | 30 h |
+| MED-BMBM103: Enseñanza del balonmano en la iniciación. | 10 h |
+| MED-BMBM104: Organización de actividades y eventos de base. | 10 h |
+| MED-BMBM105: Formación práctica. | 75 h |
+| Total. | 125 h |
+| Total currículo básico. | 155 h |
+
+| *Bloque común* | Currículo básico |
+|---|---|
+| MED-C201: Bases del aprendizaje deportivo. | 25 h |
+| MED-C202: Bases del entrenamiento deportivo. | 30 h |
+| MED-C206: Iniciación deportiva para personas con discapacidad. | 10 h |
+| MED-C204: Organización y legislación deportiva. | 10 h |
+| MED-C205. Deporte y género. | 5 h |
+| Total. | 80 h |
+| *Bloque específico* | Currículo básico |
+| MED-BMBM201: Formación técnico-táctica individual en balonmano. | 25 h |
+| MED-BMBM202: El juego colectivo en balonmano. | 35 h |
+| MED-BMBM203: Metodología en la etapa de tecnificación en balonmano. | 15 h |
+| MED-BMBM204: Preparación física del balonmano. | 13 h |
+| MED-BMBM205: Fundamentos básicos del balonmano playa. | 12 h |
+| MED-BMBM206: Balonmano en silla de ruedas. | 8 h |
+| MED- BMBM207: Dirección deportiva en la etapa de tecnificación. | 12 h |
+| MED- BMBM208: Formación práctica. | 100 h |
+| Total. | 220h |
+| Total currículo básico. | 300 h |
+
+> Se modifica por el art. 11.4 a 6 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO II — Objetivos generales y módulos de enseñanza deportiva del ciclo inicial de grado medio en balonmano
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos II.a hasta el II.i por el art. 11.7 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO II.a — Objetivos generales
+
+a. Ejecutar técnicas básicas propias de este nivel, con la seguridad suficiente y tomando conciencia de lo realizado, para servir de modelo en el proceso de enseñanza-aprendizaje de la iniciación al balonmano.
+
+b. Recoger y transmitir la información sobre la actividad y recoger la información sobre los participantes, asumiendo las características y contenido de la información y aplicando procedimientos establecidos, para acoger y motivar al deportista.
+
+c. Analizar la motricidad específica del balonmano en el nivel de iniciación, utilizando procedimientos establecidos y para valorar las habilidades y destrezas específicas de los deportistas, determinar su nivel y concretar el agrupamiento.
+
+d. Identificar los fundamentos básicos del juego, analizando las características de las tareas básicas en la iniciación del balonmano, para concretar las situaciones de aprendizaje.
+
+e. Interpretar y adaptar la programación de referencia y la organización de la sesión, utilizando criterios de elección y temporalización de las tareas, discriminando la información sobre las características del grupo y las condiciones materiales existentes, para concretar la sesión de enseñanza-aprendizaje de la iniciación en balonmano.
+
+f. Elegir y aplicar las técnicas de dirección y procedimientos de control de las contingencias, aplicando instrumentos de observación y control y resolviendo supuestos, para dinamizar sesiones de enseñanza-aprendizaje de iniciación a la modalidad.
+
+g. Identificar las condiciones de seguridad de las instalaciones y medios propios de la iniciación deportiva en balonmano, aplicando procedimientos establecidos y la normativa vigente, para controlar la seguridad en la práctica.
+
+h. Describir, preparar y ejecutar los primeros auxilios, identificando las características de los supuestos y aplicando los protocolos establecidos, para asistir como primer interviniente en caso de accidente o situación de emergencia.
+
+i. Identificar las características de las competiciones y eventos propios de la iniciación deportiva, considerando el reglamento y las bases de competición para seleccionar a los deportistas en función de su nivel y características.
+
+j. Identificar y describir los procesos de inscripción y acompañamiento de los deportistas así como los aspectos técnicos, tácticos y reglamentarios de la competición y eventos propios de la iniciación deportiva, analizando supuestos, aplicando los procedimientos establecidos y los reglamentos de referencia, para dirigir y arbitrar a los deportistas en competiciones de nivel de iniciación.
+
+k. Identificar y describir las características de los núcleos de desarrollo del balonmano, y las de organización de competiciones y eventos propios de la iniciación deportiva, considerando los medios materiales y humanos necesarios, para participar en la organización y gestión de este tipo de actos.
+
+l. Identificar y describir las variables que intervienen en el desarrollo de la actividad, aplicando los procedimientos establecidos y clasificando la información obtenida, para valorar el desarrollo de la sesión de iniciación, la competición, y ajustar el proceso de enseñanza-aprendizaje.
+
+m. Identificar y describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los deportistas, para transmitir valores propios de la actividad deportiva a través del comportamiento ético personal.
+
+n. Reconocer y promover los valores de compromiso, trabajo bien hecho y aprendizaje constante, describiendo las actitudes que reflejan estos valores, para mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el desempeño de su labor como técnico.
+
+ñ. Identificar y transmitir los principios que fundamentan el trabajo en equipo, siendo conscientes de la importancia del liderazgo y la comunicación, para mantener la iniciativa y autonomía dentro del grupo de trabajo.
+
+> Se numera como Anexo II.a por el art. 11.7.a) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.b — Módulo común de enseñanza deportiva: Bases del comportamiento deportivo. Código: MED-C101
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Identifica las características motrices, psicológicas, afectivas y sociales de la persona deportista en la iniciación deportiva, relacionándolas con los estadios madurativos de la infancia.**
+
+a) Se han descrito los diferentes estadios madurativos de la infancia, destacando las particularidades de cada uno.
+
+b) Se han descrito las características motrices, psicológicas, afectivas y sociales de los niños y niñas en la primera etapa del proceso de aprendizaje motor.
+
+c) Se han relacionado las características de los niños y niñas en la iniciación deportiva con el estadio madurativo en el que se encuentra, a partir de la observación y recogida de datos.
+
+d) Se han identificado los intereses y las motivaciones características de las personas en la etapa de la infancia, en una muestra de deportistas con diferentes perfiles.
+
+e) Se han analizado los efectos de la diversidad y variabilidad de la práctica deportiva en la consecución de un desarrollo natural del deportista acorde con su estado madurativo.
+
+**RA-2. Conduce el grupo describiendo y aplicando diferentes técnicas de comunicación, dinámicas grupales y estrategias de resolución de conflictos, en un entorno motivante de aprendizaje.**
+
+a) Se han descrito las diferentes técnicas de comunicación verbal y no verbal, y las principales barreras e interferencias existentes.
+
+b) Se han empleado las técnicas y estrategias de comunicación en la presentación de tareas propuestas, así como la disposición espacial y del alumnado, más oportunas en el intercambio de información.
+
+c) Se ha valorado la importancia de contar con habilidades comunicativas y sociales en las relaciones interpersonales, a partir del análisis de situaciones simuladas.
+
+d) Se han descrito las principales fuentes de conflicto, tanto individuales como grupales, condicionadas por la heterogeneidad de los/las deportistas.
+
+e) Se han aplicado estrategias de recogida de información que permitan conocer mejor al grupo y prevenir conflictos.
+
+f) Se han aplicado dinámicas de grupo, basadas en el aprendizaje cooperativo y el trabajo en equipo, orientadas hacia la eficiencia y la responsabilidad grupal.
+
+g) Se han utilizado estrategias de resolución de conflictos en el grupo promoviendo y trasmitiendo principios de respeto, sinceridad, empatía, compromiso, igualdad y no discriminación por características personales y/o sociales de ningún tipo.
+
+h) Se ha valorado la importancia de una actitud tolerante y de empatía para conseguir la confianza del grupo, a partir del análisis de los modelos de intervención.
+
+i) Se han descrito aquellos aspectos del entorno familiar y del contexto social que ejercen una influencia positiva o negativa en la iniciación deportiva de niños y niñas.
+
+j) Se han aplicado estrategias de corrección de actitudes contrarias y discriminatorias o violentas del entorno familiar o del contexto social en la iniciación deportiva, a partir de una intervención directa sobre las causas del problema.
+
+k) Se ha analizado la importancia de los valores positivos de la familia y del contexto social en la práctica deportiva, y su influencia en los comportamientos del deportista.
+
+l) Se han aplicado estrategias de mantenimiento de la motivación y el disfrute de todas las personas como elementos clave en la fidelización con la práctica deportiva en etapas posteriores.
+
+m) Se ha demostrado interés por valorar el proceso de aprendizaje y la actitud del deportista por encima del resultado obtenido y su aptitud.
+
+**RA-3. Transmite valores personales y sociales aplicando las técnicas adecuadas y tomando conciencia sobre las propias actitudes y comportamientos.**
+
+a) Se han descrito los valores personales y sociales que se pueden transmitir a través del deporte, a partir de los comportamientos que los representan.
+
+b) Se ha constatado la repercusión de los comportamientos y actitudes del técnico en la transmisión de valores personales y sociales en la iniciación deportiva.
+
+c) Se ha valorado la importancia del respeto al juego limpio, a uno/a mismo/a, a los demás y al entorno durante la práctica deportiva, en contextos con comportamientos poco éticos.
+
+d) Se han aplicado estrategias de transmisión de valores personales y sociales a través del deporte.
+
+e) Se ha demostrado interés por garantizar principios de igualdad y no discriminación, eliminando estereotipos y respondiendo a las diferencias individuales, en entornos diversos y heterogéneos.
+
+f) Se ha reflexionado sobre los propios prejuicios y estereotipos que generan discriminación, a partir de situaciones de conflicto moral.
+
+Contenidos básicos
+
+**RA-1. Identifica las características motrices, psicológicas, afectivas y sociales del/de la deportista en la iniciación deportiva, relacionándolas con los estadios madurativos de la infancia.**
+
+1\. Crecimiento, maduración y desarrollo.
+
+2\. Patrones motores básicos en la infancia.
+
+3\. Características motrices, psicológicas, afectivas y sociales de los niños y de las niñas.
+
+4\. Intereses y motivaciones en la infancia. Motivaciones intrínsecas y extrínsecas.
+
+5\. Técnicas elementales de recogida de información a partir de la Teoría del procesamiento de la información.
+
+6\. La actividad físico-deportiva en los estadios madurativos de la infancia:
+
+– La iniciación deportiva.
+
+– Diversidad y variabilidad de experiencias deportivas en la iniciación y sus efectos positivos sobre el desarrollo motor.
+
+– Respeto de los estados madurativos y las diferencias interindividuales e intraindividuales.
+
+**RA-2. Conduce el grupo describiendo y aplicando diferentes técnicas de comunicación, dinámicas grupales y estrategias de la resolución de conflictos, en un entorno motivante de aprendizaje.**
+
+1\. Proceso de comunicación. Elementos, tipos y dificultades.
+
+– Técnicas de comunicación: verbal y no verbal.
+
+– Técnicas de escucha activa: parafrasear, reformular, hacer preguntas, evitar interrupciones.
+
+– Valoración comunicativa del contexto: elementos facilitadores y obstáculos e inhibidores en el proceso de comunicación.
+
+– Disposición del espacio y el alumnado para la mejora de la comunicación en la sesión deportiva.
+
+– Información inicial y retroalimentación (Feedback) en la sesión deportiva.
+
+– Habilidades comunicativas, personales y sociales, en las relaciones interpersonales.
+
+– Uso no sexista del lenguaje.
+
+2\. Fuentes de conflicto en el grupo deportivo:
+
+– Falta de confianza mutua.
+
+– Competitividad y liderazgo.
+
+– Discriminación: Por razones de género, de capacidad, actitudes xenófobas.
+
+– Divergencia de intereses individuales en niños y en niñas.
+
+3\. La dinámica de grupos en la iniciación deportiva y su importancia.
+
+– Conducción de dinámicas orientadas a la valoración sociológica del grupo. Dinámicas de presentación y conocimiento del grupo. Técnicas sociométricas.
+
+4\. Conducción de dinámicas de grupo orientadas al trabajo cooperativo y la resolución de conflictos:
+
+– Dinámicas de autoconocimiento para la afirmación personal y la autoconfianza.
+
+– Dinámicas socioafectivas para crear confianza mutua.
+
+– Dinámicas de trabajo en equipo.
+
+– Dinámicas de resolución de conflictos en pequeños grupos, para la identificación y solución del problema.
+
+5\. Modelos de intervención del Técnico/a en los grupos de iniciación deportiva:
+
+– Modelo autoritario.
+
+– Modelo permisivo.
+
+– Modelo democrático.
+
+6\. Actitudes e influencia del contexto familiar en la iniciación deportiva.
+
+– Contextos familiares que ejercen una influencia positiva en la iniciación deportiva de niños y de las niñas.
+
+– Conductas y actitudes negativas más frecuentes protagonizadas por familiares en la iniciación deportiva.
+
+7\. Estrategias de intervención en el entorno familiar durante la iniciación deportiva. La entrevista con los responsables legales del deportista.
+
+8\. Motivaciones y actitudes propias de la infancia ante la práctica deportiva:
+
+– Principales motivos de abandono en jóvenes deportistas. La trascendentalización competitiva.
+
+– Estrategias para fomentar la participación, la motivación y el disfrute, como elementos clave para la fidelización deportiva, atendiendo a las diferencias de género.
+
+– Valoración del proceso de aprendizaje por encima del resultado deportivo.
+
+– Valoración de la actitud de los/las deportistas por encima de su aptitud.
+
+**RA-3. Transmite valores personales y sociales aplicando las técnicas adecuadas y tomando conciencia sobre las propias actitudes y comportamientos.**
+
+1\. La responsabilidad del técnico/a deportivo en la transmisión de valores éticos en el deporte y en evitar los contravalores.
+
+2\. Superación de la idea de bondad natural del deporte en cuanto a la transmisión de valores éticos.
+
+3\. Igualdad en el deporte: eliminación de estereotipos y respuesta a diferencias individuales (de sexo-género, capacidad, social, cultural, racial…). La interseccionalidad.
+
+4\. Juego limpio y deportividad (conductas éticas en la práctica deportiva).
+
+5\. Estrategias para la transmisión de valores en el deporte: reflexión, establecimiento de normas consensuadas, desarrollo del juicio moral, autocontrol de la conducta, análisis, desarrollo de la empatía y comprensión crítica de temas éticamente relevantes y encuentros de grupo.
+
+6\. Autoevaluación y reflexión de los propios prejuicios y estereotipos personales, incluidos los de género.
+
+> Se numera como Anexo II.b y se sustituye por el que figura como anexo I.a del Real Decreto 534/2026, de 30 de junio, según establece su art. 11.7.b). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.c — Módulo común de enseñanza deportiva: Primeros auxilios. Código: MED-C102
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Identifica los riesgos potenciales de la práctica deportiva aplicando protocolos de vigilancia y acciones preventivas en función del entorno.**
+
+a) Se han identificado los diferentes niveles de riesgo en función del entorno de actuación.
+
+b) Se han aplicado los protocolos de vigilancia y acciones preventivas en situaciones simuladas de iniciación deportiva en la instalación o medio de actuación.
+
+c) Se han descrito las características del equipamiento y materiales vinculados con la seguridad en la práctica deportiva.
+
+**RA-2. Valora de forma inicial la situación del accidente deportivo, aplicando protocolos establecidos.**
+
+a) Se ha utilizado la terminología médico-deportiva básica relacionada con los primeros auxilios destacando la diferencia entre emergencia y urgencia.
+
+b) Se han identificado los protocolos universales relacionados con la alerta al deportista lesionado y la secuencia de actuación.
+
+c) Se han aplicado justificadamente los protocolos de valoración en diferentes situaciones simuladas de accidente o lesión.
+
+d) Se han identificado los signos y mecanismos de producción de los diferentes tipos de traumatismos, lesiones osteoarticulares y músculo-tendinosas más habituales en el deporte.
+
+e) Se han identificado los signos y mecanismos de producción de los accidentes o lesiones provocadas por otros agentes externos (frío, calor, agentes químicos y biológicos).
+
+**RA-3. Interviene en situaciones de accidentes derivados de la práctica deportiva, describiendo los sistemas de emergencia, seleccionando el material necesario y aplicando los protocolos de intervención de primeros auxilios.**
+
+a) Se ha descrito la organización de los sistemas de emergencia que intervienen en la práctica de actividad físico-deportiva.
+
+b) Se han aplicado de manera justificada los protocolos de intervención ante situaciones de emergencia o accidentes habituales en el deporte.
+
+c) Se han aplicado las técnicas de primeros auxilios en situaciones prácticas en las que se presenten traumatismos osteoarticulares y músculo-tendinosas frecuentes en el deporte.
+
+d) Se han descrito las técnicas básicas de movilización y traslado ante un accidente deportivo y las repercusiones de una mala movilización y de un traslado inadecuado.
+
+e) Se han aplicado las técnicas y protocolos establecidos de Reanimación Cardio Pulmonar en el entorno deportivo por los comités internacionales de reanimación en situaciones de práctica.
+
+f) Se han aplicado las técnicas de desobstrucción de la vía aérea en situaciones simuladas.
+
+g) Se han aplicado los protocolos específicos de desfibrilación externa (DESA-DEA) en situaciones simuladas.
+
+h) Se han ejecutado los procedimientos de actuación en situaciones simuladas de accidentes relacionados con hemorragias, shocks y síncopes.
+
+i) Se han ejecutado los procedimientos de actuación en situaciones simuladas de accidentes o lesiones relacionados con otros agentes externos (frío, calor, agentes químicos y biológicos).
+
+j) Se han seleccionado los materiales básicos de un botiquín de primeros auxilios adaptado a una situación práctica deportiva.
+
+k) Se han descrito los límites de actuación del técnico deportivo en los procedimientos aplicados en accidentes deportivos.
+
+**RA-4. Emplea técnicas de autocontrol y de apoyo psicológico al accidentado y acompañantes, describiendo y aplicando las estrategias de comunicación más adecuadas.**
+
+a) Se han descrito los factores que predisponen a la ansiedad en situaciones de accidente o lesiones derivadas de la práctica deportiva.
+
+b) Se han identificado los posibles estados emocionales de los/las deportistas y las personas implicadas ante una lesión o accidente.
+
+c) Se han descrito las técnicas de control de la ansiedad y el estrés más habituales en situaciones de lesión o accidente deportivo.
+
+d) Se ha valorado la importancia de autocontrolarse ante situaciones de estrés producidas por un accidente deportivo.
+
+e) Se han aplicado estrategias básicas de comunicación en situaciones de prestación de primeros auxilios.
+
+Contenidos básicos
+
+**RA-1. Identifica los riesgos potenciales de la práctica deportiva aplicando protocolos de vigilancia y acciones preventivas en función del entorno.**
+
+1\. Riesgos específicos en función del entorno o medio donde se desarrolla la actividad deportiva.
+
+– Epidemiología de los accidentes según disciplinas deportivas y entornos para su prevención.
+
+– Riesgos en las actividades físico-deportivo-recreativas en el medio natural.
+
+– Riesgos en las actividades físico-deportivo-recreativas en el medio acuático.
+
+– Riesgos en la práctica de actividades físico-deportivo-recreativas en instalaciones deportivas abiertas y cerradas.
+
+2\. Acciones preventivas en función del entorno de actuación en el medio natural, en el medio acuático y en instalaciones deportivas abiertas y cerradas.
+
+– Acciones preventivas en función del entorno de práctica deportiva.
+
+– Generación de entornos seguros y de autoprotección.
+
+– Materiales de protección personal para el técnico deportivo y el deportista.
+
+– Utilización del equipamiento deportivo para la prevención de accidentes en función del entorno en el que se desarrolla la práctica deportiva.
+
+**RA-2. Valora de forma inicial la situación del accidente deportivo, aplicando protocolos establecidos.**
+
+1\. Terminología común relacionada con emergencias.
+
+2\. Relación entre conceptos de urgencia y emergencia.
+
+3\. Valoración de los signos vitales:
+
+– Signos y síntomas para valorar en situaciones de urgencia (i).
+
+– Signos frecuentes de consulta que indican gravedad.
+
+4\. Valoración primaria ABC:
+
+– Signos de inconsciencia.
+
+– Signos de ahogamiento y atragantamiento.
+
+– Valoración de otras situaciones de riesgo vital: síncopes, desmayos, shock por traumatismos importantes o crisis asmática.
+
+5\. Valoración secundaria: localización de lesiones.
+
+6\. Traumatismos mecánicos: trastornos osteoarticulares. Concepto y valoración.
+
+– Contusiones.
+
+– Fracturas.
+
+– Luxación.
+
+– Esguinces.
+
+– Lesiones musculares.
+
+7\. Valoración de trastornos derivados de agentes mecánicos. Lesiones en tejidos blandos: heridas, hemorragias y contusiones.
+
+8\. Valoración de trastornos derivados de factores ambientales.
+
+– Efectos nocivos del calor, frío, tormentas y mal de altura.
+
+– Lesiones acuáticas y subacuáticas. Ahogamiento y riesgos de la apnea.
+
+– Mordeduras y picaduras.
+
+– Intoxicación por alimentos.
+
+**RA-3. Interviene en situaciones de accidentes derivados de la práctica deportiva, describiendo los sistemas de emergencia, seleccionando el material necesario y aplicando los protocolos de intervención de primeros auxilios.**
+
+1\. Sistemas de emergencias: modelos de coordinación.
+
+– Modelos de coordinación de sistemas de emergencias.
+
+– La importancia del 112.
+
+– Triage como sistemática de actuación para valorar la prioridad de la intervención del técnico deportivo.
+
+2\. Conducta PAS: proteger, avisar, socorrer.
+
+3\. Accidentes urgentes:
+
+– Primera fase: cadena de supervivencia.
+
+– Soporte vital básico en el adulto (RCP básica).
+
+– Soporte vital avanzado. Desfibrilación externa semiautomática.
+
+– Desobstrucción de las vías aéreas en el deportista.
+
+– RCP en personas ahogadas.
+
+– Atención a situaciones de riesgo vital: pérdidas de conciencia y desmayos, traumatismos importantes, shock y crisis asmática.
+
+4\. Accidentes y traumatismos:
+
+– Necesidad de traslado.
+
+– Técnicas básicas de movilización rápida de urgencia.
+
+– Conocimiento de las repercusiones de realizar una movilización no adecuada.
+
+– Posiciones de seguridad y espera.
+
+– Materiales de transporte e inmovilización en urgencias.
+
+5\. Atención trastornos osteoarticulares:
+
+– Atención a fracturas.
+
+– Atención a posibles luxaciones.
+
+– Atención a posibles esguinces.
+
+– Atención a posibles lesiones musculares.
+
+6\. Atención a trastornos derivados de agentes mecánicos. Lesiones en tejidos blandos: heridas, hemorragias y contusiones:
+
+– Contusión de tejidos blandos.
+
+– Heridas.
+
+– Hemorragias.
+
+7\. Atención a trastornos vasculares provocados por agentes mecánicos: heridas y hemorragias:
+
+– Atención a las contusiones.
+
+– Atención a las heridas.
+
+– Atención a las hemorragias.
+
+8\. Atención a problemas derivados de factores ambientales:
+
+– Causados por el calor: golpe de calor e insolación.
+
+– Causados por el frío: hipotermia y congelaciones.
+
+– Causados por tormentas y causas eléctricas.
+
+– Causados por la altitud.
+
+– Problemas acuáticos y subacuáticos.
+
+– Causados por mordeduras y picaduras.
+
+– Causados por intoxicaciones alimentarias.
+
+9\. Atención a lesiones menores:
+
+– Accidentes en la cabeza y la cara: accidentes dentales, oculares, nasales, óticos y cefaleas.
+
+– Diarrea aguda.
+
+– Infecciones músculo-esqueléticas: celulitis.
+
+– Ampollas.
+
+10\. Material necesario para la atención a accidentes deportivos:
+
+– Botiquín básico: botiquín de campo y/o de emergencia.
+
+– Botiquín avanzado según entorno específico.
+
+**RA-4. Emplea técnicas de autocontrol y de apoyo psicológico al accidentado y acompañantes, describiendo y aplicando las estrategias de comunicación más adecuadas.**
+
+1\. Importancia de las estrategias de comunicación en los accidentes que se producen en la práctica deportiva:
+
+– Finalidades y principios básicos.
+
+2\. Técnicas básicas de comunicación ante un accidente:
+
+– Elementos de la comunicación verbal y no verbal.
+
+– Empatía.
+
+– Escucha activa y comprensión del mensaje.
+
+– Técnicas de comunicación ante las personas cercanas al accidente: deportistas, auxiliares y/o familiares.
+
+3\. Pautas básicas de intervención psicológica tras accidentes deportivos:
+
+– Reacciones iniciales.
+
+– Fases de una crisis emocional en accidentes.
+
+– Estrés postraumático.
+
+4\. Factores que predisponen a la ansiedad en situaciones de accidente o emergencia. Manejo y control del estrés:
+
+– Reacciones ante el estrés.
+
+– Orientaciones para controlar mejorar altos niveles de estrés del técnico deportivo.
+
+5\. Crisis de ansiedad:
+
+– Signos y síntomas comunes.
+
+– Acciones recomendadas para el control de la ansiedad del deportista y acompañantes.
+
+– Conductas a evitar.
+
+> Se numera como Anexo II.c y se sustituye por el que figura como anexo I.b del Real Decreto 534/2026, de 30 de junio, según establece su art. 11.7.c). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.d — Módulo común de enseñanza deportiva: Organización deportiva. Código: MED-C104
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Diferencia la organización deportiva a nivel local y autonómico, identificando sus funciones generales y las características de sus programas, utilizando el marco legal correspondiente y aplicando para ello una terminología básica adecuada.**
+
+a) Se ha diferenciado entre la organización deportiva a nivel local y autonómico, empleando la terminología básica adecuada y conforme al marco legal vigente, a partir del análisis de un caso práctico.
+
+b) Se han concretado las funciones generales de las organizaciones deportivas locales y autonómicas, a partir de la observación de organizaciones reales.
+
+c) Se han enumerado las características principales de los programas y/o acciones de las organizaciones deportivas locales y autonómicas, a partir del análisis de casos reales.
+
+**RA-2. Identifica las estructuras organizativas y estrategias del asociacionismo deportivo local y autonómico, analizando las formas de organización, la documentación necesaria para el apoyo institucional y describiendo las estrategias de promoción de la igualdad de acceso y participación.**
+
+a) Se han identificado las formas principales de organización deportiva local y autonómica, mediante la comparación de sus características distintivas y competencias específicas.
+
+b) Se ha enumerado la documentación básica necesaria para el apoyo institucional a asociaciones y federaciones deportivas en el ámbito local y autonómico, mediante el análisis de convocatorias reales.
+
+c) Se han descrito las estrategias clave empleadas, desde el asociacionismo deportivo, en la mejora del acceso y fomento de la participación igualitaria en el deporte, a través del análisis de casos exitosos y la identificación de las barreras existentes.
+
+Contenidos básicos
+
+**RA-1. Diferencia la organización deportiva a nivel local y autonómico, identificando sus funciones generales y las características de sus programas, utilizando el marco legal correspondiente y aplicando para ello una terminología básica adecuada.**
+
+1\. La legislación básica del estado y de la comunidad autónoma:
+
+– El marco competencial del deporte en el ámbito local y autonómico.
+
+– Interpretación de la legislación deportiva básica: Objetivo y rango de la norma.
+
+2\. Las fuentes de información en normativa deportiva:
+
+– La terminología básica en normativa deportiva.
+
+– Las publicaciones oficiales que reflejan la normativa deportiva.
+
+3\. La legislación básica en el ámbito local y autonómico:
+
+– Interpretación de la legislación deportiva básica: Objetivo y rango de la norma.
+
+4\. Funciones básicas de las organizaciones deportivas a nivel local y autonómico.
+
+5\. Características de los programas de las organizaciones deportivas locales y autonómicas.
+
+**RA-2. Identifica las estructuras organizativas y estrategias del asociacionismo deportivo local y autonómico, analizando las formas de organización, la documentación necesaria para el apoyo institucional y describiendo las estrategias de promoción de la igualdad de acceso y participación.**
+
+1\. Estructura deportiva local y autonómica.
+
+2\. Principales formas de organización deportiva a nivel autonómico y local: asociaciones y federaciones deportivas.
+
+3\. Las características principales de las principales formas de organización deportiva local y autonómica.
+
+4\. El marco competencial del deporte en el ámbito local y autonómico.
+
+5\. Las vías de apoyo al asociacionismo deportivo:
+
+– Tipos y formas de ayudas: convocatorias a nivel local y autonómico.
+
+– Las vías de apoyo al asociacionismo deportivo.
+
+– Procedimientos para la gestión de apoyos al asociacionismo deportivo en la administración local y autonómica.
+
+6\. Estrategias de inclusión y participación en el deporte desde el asociacionismo local y autonómico.
+
+7\. Iniciativas para promover la igualdad de género y accesibilidad en el deporte.
+
+> Se numera como Anexo II.d y se sustituye por el que figura como anexo I.c del Real Decreto 534/2026, de 30 de junio, según establece su art. 11.7.e). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.e — Módulo común de enseñanza deportiva: Actividad físico-deportiva para personas con discapacidad. Código: MED-C105
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Identifica los principales tipos de discapacidad describiendo sus características básicas, utilizando la terminología adecuada y el impacto de la práctica físico-deportiva.**
+
+a) Se han descrito las características y limitaciones de los tipos de discapacidad que conllevan alteraciones de la estructura y/o funciones corporales que condicionan la actividad sensorial, cognitiva o motriz en el ámbito deportivo.
+
+b) Se ha aplicado la terminología específica relativa a las personas con discapacidad.
+
+c) Se han descrito los beneficios que genera la práctica deportiva en las personas con discapacidad.
+
+**RA-2. Informa a las personas con discapacidad sobre las posibilidades de práctica físico-deportivas, aplicando pautas de actuación específicas y mostrando actitudes positivas hacia la inclusión de personas con discapacidad.**
+
+a) Se han descrito las posibilidades de práctica deportiva en entornos deportivos convencionales, específicos o inclusivos.
+
+b) Se han escogido técnicas específicas de comunicación e interacción según el tipo de discapacidad.
+
+c) Se han aplicado técnicas de recogida de información acerca de los intereses, capacidades, experiencias previas y motivaciones de las personas con discapacidad hacia la práctica deportiva, en situaciones prácticas debidamente caracterizadas.
+
+d) Se ha mostrado una actitud positiva hacia la inclusión y participación de las personas con discapacidad en el deporte, en situaciones prácticas de inclusión.
+
+e) Se ha concienciado sobre la importancia de la práctica simulada de diferentes limitaciones sensoriales, cognitivas y motrices.
+
+Contenidos básicos
+
+**RA-1. Identifica los principales tipos de discapacidad describiendo sus características básicas, utilizando la terminología adecuada y el impacto de la práctica físico-deportiva.**
+
+1\. Tipos de discapacidad: concepto, características y limitaciones siguiendo la Clasificación Internacional del Funcionamiento, la Salud y la Discapacidad.
+
+2\. Terminología específica relativa a las personas con discapacidad y su práctica deportiva.
+
+3\. Beneficios de la práctica deportiva para las personas con discapacidad.
+
+4\. Sensibilización hacia las limitaciones sensoriales, cognitivas y motrices.
+
+**RA-2. Informa a las personas con discapacidad sobre las posibilidades de práctica físico-deportivas, aplicando pautas de actuación específicas y mostrando actitudes positivas hacia la inclusión de personas con discapacidad.**
+
+1\. Tipos de programas para la participación deportiva de personas con discapacidad.
+
+2\. Entornos deportivos convencionales, específicos e inclusivos.
+
+3\. Técnicas específicas de comunicación e interacción con personas con discapacidad.
+
+4\. Técnicas de recogida de información acerca de intereses, capacidades, experiencias previas y motivaciones relacionados con la práctica deportiva de personas con discapacidad.
+
+5\. Contacto directo y/o indirecto con personas con discapacidad en contextos deportivos.
+
+6\. Concepto y posibilidades de inclusión aplicados al deporte de personas con discapacidad.
+
+> Se añade como Anexo II.e, redactado conforme a lo establecido en el anexo I.d del Real Decreto 534/2026, de 30 de junio, según establece su art. 11.7.f). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> El anterior «Módulo común de enseñanza deportiva: Actividad física adaptada y discapacidad. Código: MED-C103» se suprime por el art. 11.7.d) del citado Real Decreto.
+
+## ANEXO II.f — Módulo específico de enseñanza deportiva: Fundamentos básicos del juego. Código: MED-BMBM102
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica los fundamentos básicos del juego, analizando los elementos estructurales y funcionales del balonmano.
+
+a. Se han descrito los diferentes elementos estructurales que condicionan el juego de balonmano.
+
+b. Se han descrito las limitaciones reglamentarias respecto al manejo del móvil.
+
+c. Se han descrito las limitaciones reglamentarias elementales respecto al comportamiento con el rival.
+
+d. Se han descrito los diferentes tipos de sanciones técnicas y disciplinarias que se aplican en caso de infracción de las reglas.
+
+e. Se han identificado de los mecanismos de percepción, toma de decisiones y ejecución en las acciones motrices y su incidencia en el rendimiento en los distintos tipos de deportes.
+
+f. Se han explicado las características de la nomenclatura específica del balonmano y se han descrito los símbolos convencionales con que se elaboran los esquemas técnico-tácticos.
+
+g. Se han establecido, con precisión, las diferencias entre técnica, táctica individual y táctica colectiva.
+
+h. Se han identificado los objetivos generales, las intenciones tácticas y actividades básicas del juego y se han concretado las diferencias entre unos y otros.
+
+i. Se han descrito las diferentes fases del juego y establecido los objetivos parciales de cada una de ellas.
+
+2\. Concreta las actividades básicas en ataque, identificando sus características y los condicionantes para su desarrollo.
+
+a. Se han identificado las diferentes formas de transportar el balón, así como las exigencias comunes a todas ellas, adaptándose a las exigencias reglamentarias.
+
+b. Se han explicado los aspectos intencionales del transporte el balón.
+
+c. Se han explicado los aspectos motrices del transporte de balón en todas sus formas.
+
+d. Se han identificado los aspectos intencionales elementales de los desplazamientos de los jugadores, y la importancia de las limitaciones espaciales y temporales de los desplazamientos en posesión del balón.
+
+e. Se han descrito los tipos de desmarque según su objetivo táctico y su forma de ejecución.
+
+f. Se han descrito los factores motrices e intencionales fundamentales en el momento previo al lanzamiento.
+
+g. Se han descrito los aspectos mecánicos elementales para la obtención de potencia y precisión en los lanzamientos a portería con una sola mano.
+
+h. Se han identificado otros factores intencionales, no mecánicos, relacionados con la eficacia en la ejecución de los lanzamientos a portería.
+
+i. Se ha valorado la importancia de la cooperación entre compañeros de ataque.
+
+j. Se han concretado los aspectos elementales del «Pase y va» como elemento fundamental de colaboración.
+
+k. Se han explicado los aspectos elementales de la organización colectiva del equipo en ataque y su aplicación en el ataque a defensas de amplia ocupación espacial, integrando las diferentes tareas ofensivas.
+
+l. Se han descrito los aspectos intencionales elementales del contraataque.
+
+3\. Concreta las actividades básicas en defensa, identificando sus características y condicionantes para su desarrollo.
+
+a. Se ha valorado la necesidad de atenerse al reglamento en la tarea de oponerse a los atacantes.
+
+b. Se ha descrito la capacidad de reacción y de anticipación como tendencias elementales en la tarea de oponerse al movimiento de los atacantes.
+
+c. Se han descrito el marcaje como la forma de oponerse a un atacante estableciendo una lucha 1x1.
+
+d. Se ha valorado la necesidad de las ayudas para desarrollar la tarea de oponerse a los movimientos de los atacantes.
+
+e. Se ha descrito la interceptación como la forma de oponerse al movimiento de balón por parte de los atacantes.
+
+f. Se han descrito los blocajes como la forma de oponerse a los lanzamientos de los atacantes a la portería.
+
+g. Se ha valorado la necesidad de interacción de las distintas tareas defensivas, priorizando una u otra en función de las circunstancias del juego.
+
+h. Se han descrito los aspectos genéricos de la organización colectiva del equipo en defensa y de la organización elemental de una defensa de amplia ocupación espacial.
+
+i. Se han descrito los aspectos elementales de la situación y posición del portero cuando el equipo está defendiendo, así como las técnicas elementales de intervención del portero ante los lanzamientos.
+
+j. Se han descrito los aspectos intencionales genéricos del repliegue defensivo y de la defensa temporal hasta que se consigue la organización colectiva.
+
+Contenidos básicos
+
+1\. Identifica los fundamentos básicos del juego, analizando los elementos estructurales y funcionales del balonmano.
+
+– Medidas y características físicas del terreno de juego, porterías y balones para las diferentes categorías de edad y sexo.
+
+– Composición y equipamiento de los equipos de juego y árbitros.
+
+– Duración y estructura temporal de los partidos
+
+– Dónde jugar. Limitaciones según las zonas del terreno de juego.
+
+– Como puede jugarse con el balón: reglas y limitaciones de actuación de los jugadores respecto al balón.
+
+– Comportamiento con el contrario: reglas y limitaciones de los jugadores respecto a los adversarios.
+
+– Sanciones técnicas y disciplinarias.
+
+– Nomenclatura y simbología específica del balonmano.
+
+– El movimiento: algo más que un acto puramente mecánico. Los mecanismos de percepción, toma de decisiones y ejecución.
+
+– Incidencia de esta realidad del acto motriz en el rendimiento de los diferentes deportes.
+
+– Los conceptos de:
+
+– Táctica individual.
+
+– Táctica colectiva.
+
+– Técnica.
+
+– Las fases del Juego.
+
+– Los objetivos colectivos del juego:
+
+– En el ataque.
+
+– En la defensa.
+
+– Las intenciones tácticas básicas:
+
+– En el ataque.
+
+– En la defensa.
+
+– Las actividades básicas del ataque:
+
+– El movimiento de los jugadores.
+
+– El movimiento del balón.
+
+– Los lanzamientos.
+
+– Las actividades básicas de la defensa:
+
+– Oponerse a los atacantes.
+
+– Actuar sobre el balón.
+
+2\. Concreta las actividades básicas en ataque, identificando sus características y los condicionantes para su desarrollo.
+
+– Formas de transportar el balón:
+
+– Manejo y adaptación del balón.
+
+– Botar el balón.
+
+– Pasar y recibir el balón.
+
+– La seguridad y la precisión en el transporte de balón. La técnica.
+
+– La intencionalidad como base de la táctica en el transporte de balón.
+
+– Los desplazamientos de los jugadores:
+
+– Desplazarse sin balón: los desmarques.
+
+– Desplazarse con el balón: limitaciones reglamentarias.
+
+– La intencionalidad como base de la táctica en los desplazamientos.
+
+– Tipos de desmarques:
+
+– Según su objetivo táctico.
+
+– Según su forma de ejecución.
+
+– Desplazamientos de jugadores/ desplazamiento del balón: dos actividades que se realizan de forma simultánea: la integración en el entrenamiento.
+
+– Lanzar potente y preciso: las cuestiones fundamentales de la técnica básica de lanzamiento en apoyo y en salto.
+
+– Otros factores, no mecánicos, de eficacia en el lanzamiento:
+
+– La variedad.
+
+– La observación.
+
+– La sorpresa.
+
+– La importancia del trabajo en el instante previo al lanzamiento:
+
+– La profundidad.
+
+– El ángulo de tiro.
+
+– La orientación.
+
+– Control de la dirección del salto.
+
+– Los lanzamientos ligados a las otras dos tareas básicas.
+
+– La colaboración entre atacantes. Un medio táctico: el «Pase y va».
+
+– Las bases de la organización colectiva en ataque:
+
+– La estructura: Amenazar toda la zona eficaz, ocupación en anchura y profundidad de la misma.
+
+– La coordinación en el movimiento de los atacantes: Equilibrio entre desmarques ofensivos y defensivos.
+
+– El movimiento colectivo del balón.
+
+– El contraataque: aspectos intencionales básicos.
+
+3\. Concreta las actividades básicas en defensa, identificando sus características y los condicionantes para su desarrollo.
+
+– La importancia de los aspectos reglamentarios a la hora de oponerse al movimiento de los atacantes.
+
+– Posibilidades básicas para oponerse al movimiento de los atacantes:
+
+– El marcaje: oposición 1x1.
+
+– Las ayudas.
+
+– La colaboración a través de acciones coordinadas (medios tácticos).
+
+– Aspectos intencionales como base de la táctica defensiva: la capacidad de anticipación y la capacidad de reacción como tendencias básicas y la necesidad de desarrollar ambas capacidades.
+
+– El marcaje. Aspectos reglamentarios que limitan esta tarea.
+
+– Los desplazamientos en defensa:
+
+– Desplazamientos en posición básica.
+
+– Desplazamientos en forma de carrera.
+
+– La importancia del paso de una forma a otra de desplazamiento sin desequilibrios.
+
+– La necesidad de ayudas en cualquier tipo de defensa.
+
+– Las interceptaciones de balón:
+
+– En los botes de los atacantes.
+
+– Ante pases y recepciones.
+
+– Las intenciones tácticas en las interceptaciones:
+
+– Estáticas: defender la propia zona.
+
+– Dinámicas: intervenir sobre balones lejanos.
+
+– Las capacidades motrices en relación a las interceptaciones de balón.
+
+– Oponerse a los lanzamientos: los blocajes.
+
+– Oponerse a los atacantes-Oponerse al balón: dos tareas que se realizan de forma simultánea.
+
+– Las bases de la organización colectiva de la defensa:
+
+– La estructura: ocupar la zona eficaz, controlar individualmente a los atacantes o situaciones mixtas.
+
+– La intencionalidad: anticipación o reacción como intenciones extremas que pueden modularse.
+
+– El funcionamiento colectivo: las ayudas y la colaboración que se prevén.
+
+– El repliegue defensivo: aspectos básicos.
+
+– El portero:
+
+– La situación y posición cuando el equipo defiende.
+
+– Nociones básicas de la intervención ante los lanzamientos.
+
+– Nociones generales de la participación ofensiva del portero.
+
+> Se numera este módulo como Anexo II.f por el art. 11.7.g) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.g — Módulo específico de enseñanza deportiva: Enseñanza del balonmano en la iniciación. Código: MED-BMBM103
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora la motricidad específica en el ámbito de la iniciación, identificando el nivel de habilidades y destrezas específicas en función de los estándares psicomotrices relacionados con el balonmano.
+
+a. Se han identificado las habilidades y destrezas específicas que sirven de base psicomotriz para el aprendizaje del balonmano.
+
+b. Se han identificado las diferencias entre los distintos niveles de realización de las habilidades y destrezas específicas que sirven de base psicomotriz para el aprendizaje del balonmano.
+
+c. Se han interpretado las herramientas básicas de valoración del nivel de las habilidades y destrezas específicas que sirven de base psicomotriz para el aprendizaje del balonmano.
+
+d. Se han aplicado técnicas de registro de datos sobre las destrezas y habilidades motrices específicas del balonmano, en un supuesto práctico de valoración.
+
+e. Se han descrito los patrones de referencia utilizados en la valoración de las destrezas y habilidades específicas de balonmano.
+
+2\. Concreta y dirige la organización de la sesión, identificando los elementos que constituyen la programación de referencia, las características de la sesión y aplicando procedimientos de dinamización, estrategias de dirección y control.
+
+a. Se han descrito las características de los objetivos, contenidos, medios y métodos y su relación en una programación de referencia de enseñanza del balonmano en la iniciación.
+
+b. Se ha identificado la secuenciación de contenidos en la iniciación del balonmano, tomando como base los fundamentos básicos del juego y la programación de referencia.
+
+c. Se han descrito las características de la sesión en la iniciación en balonmano.
+
+d. Se ha explicado las formas de organización del grupo, la ubicación idónea del entrenador y la disposición espacial del material, y el material para desarrollar las situaciones de aprendizaje previstas.
+
+e. Se han identificado y aplicado los aspectos relevantes a tener en cuenta en la dirección de los ejercicios hacia el cumplimiento del objetivo marcado.
+
+f. Se han descrito y aplicado las estrategias de feedback idóneas en la sesión de iniciación.
+
+g. Se han elaborado y dirigido situaciones de aprendizaje en la iniciación del balonmano, identificando los elementos necesarios para construir la progresión metodológica adecuada.
+
+h. Se ha organizado y dirigido al grupo durante los ejercicios de un supuesto práctico de sesión de iniciación en balonmano, justificando las decisiones tomadas.
+
+i. Se han especificado, al menos, dos sesiones, una de ataque y otra de defensa, para la iniciación al balonmano, diseñando las situaciones de aprendizaje, y estructurando la sesión, teniendo en cuenta los objetivos marcados en la programación de referencia, y el espacio y material disponible.
+
+3\. Dirige al equipo en las competiciones de iniciación, valorando la competición como parte relevante del proceso formativo, identificando los aspectos reglamentarios y aplicando los principios básicos y del juego en esta etapa.
+
+a. Se han identificado los aspectos reglamentarios relacionados con la dinámica de una competición de iniciación en balonmano.
+
+b. Se ha valorado la importancia de la competición de iniciación, como parte del proceso formativo.
+
+c. Se han identificado los principios básicos del juego, sobre los que se debe incidir en la dirección de la competición en la iniciación.
+
+d. Se han identificado las relaciones que se establecen dentro del grupo, con el entrenador y con el entorno, en el equipo en la iniciación en balonmano.
+
+e. Se han descrito y aplicado las estrategias de feedback idóneas en la competición de iniciación.
+
+f. Se ha valorado la importancia de la competición en la formación en valores, identificando las actitudes a fomentar y practicar.
+
+4\. Valora el desarrollo de la sesión y de la competición, recogiendo e interpretando información para contrastar con los parámetros de valoración indicados en la programación de referencia.
+
+a. Se han identificado los aspectos a valorar en una sesión de iniciación al balonmano, de acuerdo con la programación de referencia.
+
+b. Se han explicado y aplicado las herramientas básicas de recogida de datos para valorar una sesión de iniciación.
+
+c. Se han explicado y aplicado las herramientas básicas de recogida de datos para valorar la actuación en una competición de base.
+
+d. Se han comparado los datos obtenidos en un supuesto práctico de sesión de iniciación con los criterios de referencia establecidos para esta etapa, emitiendo una conclusión justificada.
+
+e. Se han comparado los datos obtenidos en un supuesto práctico de competición de base con los criterios de referencia establecidos para esta etapa, emitiendo una conclusión justificada.
+
+f. Se ha valorado la importancia de la recogida de datos y evaluación posterior para la concreción de sucesivas situaciones de aprendizaje.
+
+Contenidos básicos
+
+1\. Valora la motricidad específica en el ámbito de la iniciación, identificando el nivel de habilidades y destrezas específicas en función de los estándares psicomotrices relacionados con el balonmano.
+
+– Características que definen las habilidades y destrezas específicas en la iniciación en balonmano:
+
+– Aspectos cognitivo perceptivos:
+
+– Amplitud campo visual.
+
+– Atención selectiva.
+
+– Anticipación perceptiva.
+
+– Aspectos mecánicos:
+
+– Amplitud de palancas.
+
+– Sincronía del movimiento.
+
+– Pruebas (herramientas y técnicas de registro) de valoración de la eficacia motora en la iniciación en balonmano:
+
+– Características.
+
+– Ejemplos de pruebas:
+
+– Tablas de verificación.
+
+– Escalas descriptivas.
+
+– Interpretación de datos obtenidos en pruebas de valoración de la eficacia motora en la iniciación en balonmano:
+
+– Criterios de valoración.
+
+– Patrones de referencia de las destrezas y habilidades del balonmano en la iniciación.
+
+– Niveles de realización.
+
+2\. Concreta y dirige la organización de la sesión, identificando los elementos que constituyen la programación de referencia, las características de la sesión y aplicando procedimientos de dinamización, estrategias de dirección y control.
+
+– Elementos básicos de una programación de referencia para la enseñanza del balonmano:
+
+– Objetivos en la iniciación.
+
+– Criterios de evaluación.
+
+– Contenidos.
+
+– Secuenciación.
+
+– Estructura de las sesiones de aprendizaje del balonmano:
+
+– Objetivos.
+
+– Dinámica y secuenciación de contenidos.
+
+– Material y espacios.
+
+– Aspectos relevantes Ben la concreción de situaciones de aprendizaje:
+
+– Diferentes tipos de ejercicios.
+
+– Planteamiento metodológico analítico o decisional.
+
+– Establecimiento de la progresión metodológica: Principios y orientaciones.
+
+– Aspectos relevantes en la dirección de las actividades programadas (ejercicios tipo). La intervención del entrenador:
+
+– Comunicación durante la ejecución de la tarea.
+
+– Priorización de los objetivos de cada ejercicio.
+
+– El espacio y la oposición como variables de la progresión metodológica.
+
+– Estrategias de feedback propias de la iniciación.
+
+– Organización del grupo: tipos/criterios.
+
+– Disposición del material: criterios.
+
+3\. Dirige al equipo en las competiciones de iniciación, valorando la competición como parte relevante del proceso formativo, identificando los aspectos reglamentarios y aplicando los principios básicos y del juego en esta etapa.
+
+– Características básicas de la competición en la iniciación:
+
+– Principios básicos del juego de ataque en la iniciación.
+
+– Principios básicos de la defensa en la iniciación.
+
+– Normativa de las competiciones relacionadas con la iniciación.
+
+– La competición como medio básico de aprendizaje.
+
+– El grupo en la iniciación en balonmano: Relaciones básicas jugador - equipo - entorno.
+
+– Reconocimiento del juego.
+
+– El feedback en la competición de iniciación: importancia y criterios de selección de las estrategias de feedback
+
+4\. Valora el desarrollo de la sesión y de la competición, recogiendo e interpretando información para contrastar con los parámetros de valoración indicados en la programación de referencia.
+
+– Elementos básicos a valorar en la competición relacionada con la iniciación:
+
+– Contenidos técnicos tácticos individuales.
+
+– Contenidos relacionados con el juego colectivo.
+
+– Contenidos psicosociales.
+
+– Herramientas de valoración de la competición relacionada con la iniciación:
+
+– Planillas.
+
+– Bases de datos genéricas.
+
+– Software específico.
+
+– Interpretación de los datos obtenidos en las herramientas de valoración de la competición:
+
+– Criterios de referencia propios de la iniciación.
+
+– Efectos/consecuencias sobre sucesivas situaciones de aprendizaje.
+
+> Se numera este módulo como Anexo II.g por el art. 11.7.h) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.h — Módulo específico de enseñanza deportiva: Organización de actividades y eventos de base. Código: MED-BMBM104
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Tutela al equipo en su participación en competiciones de base, aplicando los procedimientos establecidos.
+
+a. Se han seleccionado la normativa y reglamentación relacionada con las competiciones de iniciación.
+
+b. Se han descrito las características de la documentación necesaria para participar en la actividad programada.
+
+c. Se han elegido los criterios de selección de los participantes en un supuesto práctico de competición de iniciación en balonmano.
+
+d. Se ha elaborado la información relacionada con la información y elegido la forma de comunicarla.
+
+e. Se ha justificado la importancia de promover las actitudes y comportamientos adecuados del grupo.
+
+f. Se ha justificado la importancia de la actitud, comportamiento y disposición del técnico en el acompañamiento y tutela del equipo.
+
+g. Se han descrito las motivaciones e interés propios de la edad vinculados con la práctica del balonmano.
+
+2\. Colabora en la organización y gestión de actividades y eventos de base, interpretando las necesidades de recursos materiales y humanos y aplicando los procedimientos establecidos en la planificación de la actividad o evento.
+
+a. Se han identificado las directrices, contenidos, gestión de permisos y aspectos logísticos necesarios en la organización de actividades y eventos de iniciación en balonmano a partir de un proyecto general de referencia.
+
+b. Se han identificado los diferentes estamentos en el desarrollo de actividades de iniciación en balonmano y sus diferentes grados de implicación.
+
+c. Se ha elaborado la información sobre la actividad o competición para los padres o tutores legales de los participantes, incluyendo el modelo de autorización paterna para la participación en la competición o actividad.
+
+d. Se han concretado las actividades, a partir de un proyecto de referencia, adaptándolas a las características de los participantes a los que se dirige.
+
+e. Se han descrito los procedimientos de solicitud y acondicionado las instalaciones y recursos materiales para el desarrollo de la actividad programada.
+
+f. Se ha explicado el tipo de comportamiento y actitud con la que se debe afrontar la dirección de actividades propias de la iniciación al balonmano, incluida la uniformidad de los participantes.
+
+g. Se han descrito las técnicas de difusión de la actividad.
+
+3\. Arbitra en competiciones de base, interpretando y aplicando el reglamento de juego adaptado a la iniciación en balonmano.
+
+a. Se han descrito los criterios de adaptación del arbitraje a la competición de iniciación en balonmano.
+
+b. Se han identificado las acciones antideportivas y juego antirreglamentario de los participantes, en un supuesto práctico de arbitraje debidamente caracterizado.
+
+c. Se han señalizado las sanciones técnicas y disciplinarias, controlando su ejecución, en un supuesto práctico de arbitraje debidamente caracterizado.
+
+d. Se han descrito los criterios didácticos de aplicación de las sanciones.
+
+e. Se han cumplimentado los trámites relacionados con el acta de juego en un supuesto práctico debidamente caracterizado.
+
+f. Se ha valorado la importancia de la actitud y comportamiento del árbitro con los participantes.
+
+4\. Participa en la creación y desarrollo de núcleos de balonmano, identificando su estructura e interpretando las necesidades de recursos materiales y humanos del núcleo.
+
+a. Se han identificado la estructura organizativa y el funcionamiento de las distintas áreas de los núcleos de balonmano, en un supuesto práctico debidamente caracterizado.
+
+b. Se han identificado las relaciones jerárquicas que integran la estructura de los núcleos de balonmano, en un supuesto práctico debidamente caracterizado.
+
+c. Se han identificado las vías de apoyo institucional (local y autonómico) a utilizar para la creación, desarrollo y crecimiento de los núcleos de balonmano, en un supuesto práctico debidamente caracterizado.
+
+d. Se han identificado los recursos humanos y materiales necesarios en un supuesto práctico debidamente caracterizado de creación de un núcleo de balonmano.
+
+e. Se ha valorado la importancia de los núcleos de balonmano en la promoción de la modalidad.
+
+Contenidos básicos
+
+1\. Tutela al equipo en su participación en competiciones de base, aplicando los procedimientos establecidos.
+
+– Normativa vinculada con las competiciones y distintas actividades en la iniciación al balonmano: normativa específica de la actividad y reglamentos oficiales. Criterios de selección.
+
+– Procedimientos y documentación utilizada en la tutela de la participación en actividades de iniciación:
+
+– Permisos parentales, inscripción y otros.
+
+– Información de las condiciones de participación en la actividad: Elaboración y transmisión: redes sociales, etc.
+
+– Verificación de los requisitos.
+
+– Balance posterior: elaboración y discusión con el grupo.
+
+– Criterios de selección de participación de los jugadores según el tipo de actividad.
+
+– Actitudes y comportamientos adecuados del jugador de balonmano.
+
+– Actitudes y comportamientos adecuados del técnico en el acompañamiento de equipos en competiciones de iniciación.
+
+– Motivaciones e intereses propios de la edad ante la práctica del balonmano.
+
+2\. Colabora en la organización y gestión de actividades y eventos de base, interpretando las necesidades de recursos materiales y humanos y aplicando los procedimientos establecidos en la planificación de la actividad o evento.
+
+– Objetivos y fases de la organización de actividades de iniciación en balonmano.
+
+– Logística en la organización de actividades de balonmano de iniciación:
+
+– Permisos y solicitudes.
+
+– Instalación y material: elección y acondicionamiento.
+
+– Transporte.
+
+– Medidas de seguridad.
+
+– Organización y gestión: Lugar y horarios de la actividad. Relación de participantes en la actividad.
+
+– Entidades vinculadas:
+
+– Públicas.
+
+– Privadas.
+
+– Información sobre la actividad características, contenidos básicos y medios:
+
+– A padres o tutores legales.
+
+– A los participantes.
+
+– Al público.
+
+– Actitudes y comportamiento del organizador.
+
+– Promoción, difusión y dinamización de actividades y competiciones de iniciación en balonmano.
+
+3\. Arbitra en competiciones de base, interpretando y aplicando el reglamento de juego adaptado a la iniciación en balonmano.
+
+– Aplicación básica del reglamento de competición: Criterios de adaptación a la iniciación en balonmano:
+
+– Zonas de juego.
+
+– Manejo del balón,
+
+– Comportamiento con el contrario.
+
+– Las infracciones:
+
+– Juego antirreglamentario.
+
+– Conducta antideportiva.
+
+– Las sanciones:
+
+– Técnicas: cuándo se aplican y cómo se ejecutan
+
+– Disciplinarias: cuándo se aplican y cómo se ejecutan.
+
+– Criterios didácticos en la aplicación de sanciones.
+
+– Documentación de la competición: cumplimentación previa, cumplimentación posterior, y tramitación.
+
+– Actitudes del árbitro con los jugadores.
+
+– Relación del árbitro con otros integrantes implicados en la competición: padres, directivos, etc.
+
+4\. Participa en la creación y desarrollo de núcleos de balonmano, identificando su estructura e interpretando las necesidades de recursos materiales y humanos del núcleo.
+
+– Tipos de núcleos en balonmano (equipo, sección, club/asociación/entidad, delegación, federación, centro de tecnificación, etc.): particularidades y finalidades generales en cada caso.
+
+– La estructura organizativa y el funcionamiento de las distintas áreas en los núcleos de balonmano: promoción, tecnificación, recursos, etc.
+
+– Organigramas, estructuras básicas de funcionamiento y relaciones jerárquicas.
+
+– Descripción e identificación de recursos humanos y materiales.
+
+– Áreas de tecnificación y la promoción escolar.
+
+– Vías de apoyo institucional (local y autonómico): financiación y estrategias en la búsqueda de recursos.
+
+– Elementos comunes en la gestión técnica de los núcleos de balonmano: las redes sociales y el uso adecuado de herramientas tecnológicas básicas (teléfono móvil, ordenador, tabletas, etc.).
+
+> Se numera este módulo como Anexo II.h por el art. 11.7.i) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.i — Módulo de enseñanza deportiva: Formación práctica. Código: MED-BMBM105
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica la estructura organizativa y el funcionamiento del club o entidad deportiva relacionándola con la oferta de actividades en relación a la iniciación deportiva o el acompañamiento de usuarios en balonmano.
+
+a. Se ha identificado la estructura de la organización deportiva local y autonómica y sus relaciones con el club o entidad deportiva.
+
+b. Se han identificado la estructura organizativa y el funcionamiento de las distintas áreas del club o entidad deportiva.
+
+c. Se ha reconocido el tipo de asociación deportiva del club o entidad deportiva de prácticas.
+
+d. Se han identificado las relaciones jerárquicas dentro del club o entidad deportiva.
+
+e. Se ha identificado la oferta de actividades vinculadas a la iniciación deportiva o al acompañamiento de usuarios.
+
+f. Se ha distinguido la oferta de actividades orientada a la práctica de balonmano en las mujeres.
+
+g. Se han identificado las vías de apoyo institucional (local y autonómico) utilizadas por el club o entidad deportiva.
+
+h. Se han reconocido los valores presentes en las actividades de balonmano del club o entidad deportiva.
+
+2\. Actúa con autonomía, iniciativa y responsabilidad en el puesto de trabajo, demostrando comportamiento ético, habilidades personales de comunicación, trabajo en equipo y respeto por el medio ambiente, aplicando los procedimientos establecidos por la empresa.
+
+a. Se han identificado los requerimientos actitudinales del puesto de trabajo.
+
+b. Se han interpretado y cumplido las instrucciones recibidas y responsabilizado del trabajo asignado.
+
+c. Se ha demostrado compromiso con el trabajo bien hecho y la calidad del servicio, así como respeto a los procedimientos y principios propios del club o entidad deportiva.
+
+d. Se ha demostrado capacidad de trabajo en equipo y respeto a la jerarquía establecida en el club o entidad deportiva.
+
+e. Se han establecido una comunicación y relación eficaz con el técnico responsable de la actividad y los miembros del equipo, manteniendo un trato fluido y correcto.
+
+f. Se ha coordinado con el resto del equipo, informando de cualquier cambio, una necesidad relevante o imprevisto que se presente en la actividad.
+
+g. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+h. Se han aplicado los aspectos fundamentales de la Ley de Prevención de Riesgos Laborales, relacionados con las actividades, competiciones y eventos de la iniciación deportiva en balonmano.
+
+3\. Colabora en el desarrollo de las actividades, competiciones y otros eventos de la iniciación deportiva en balonmano identificando y utilizando medios, interpretando programaciones de referencia y ejecutando procedimientos de acuerdo con la norma establecida, e instrucciones recibidas.
+
+a. Se han identificado e interpretado las instrucciones recibidas y/o documentación asociada a la organización y gestión de pequeñas competiciones y eventos propios de la iniciación deportiva en balonmano.
+
+b. Se han interpretado e identificado las medidas de protección y de seguridad personal del deportista durante la competición, teniendo en cuenta las características de la competición de iniciación en balonmano.
+
+c. Se han realizado gestiones de petición de los permisos necesarios para la realización de la actividad, competición o evento de iniciación deportiva en balonmano.
+
+d. Se han realizado acciones de colaboración e intervención en la organización y gestión de pequeñas competiciones y eventos propios de la iniciación deportiva en balonmano.
+
+e. Se ha realizado la recogida de documentación para la inscripción de los participantes en una actividad o eventos de iniciación deportiva en balonmano.
+
+f. Se han aplicado criterios a la revisión y confidencialidad de la documentación necesaria para la inscripción.
+
+g. Se ha elaborado la información sobre la actividad o la competición de balonmano para los padres o tutores legales de los participantes.
+
+h. Se ha realizado la comunicación a través de los medios existentes, aplicando las técnicas y procedimientos adecuados.
+
+4\. Concreta y dirige sesiones de iniciación deportiva en balonmano, y dirige al equipo en competiciones, interpretando programaciones de referencia, ejecutando procedimientos y técnicas relacionadas con el proceso de enseñanza aprendizaje, y transmitiendo valores éticos vinculados al respeto y cuidado por el propio cuerpo, respeto a los demás, juego limpio, responsabilidad y esfuerzo personal.
+
+a. Se han identificado y seleccionado los medios y recursos necesarios para el desarrollo de la actividad.
+
+b. Se han identificado las condiciones ambientales necesarias para el desarrollo de la sesión, aplicando técnicas y procedimientos establecidos y respetando las normas de seguridad establecidas para las actividades de iniciación en balonmano.
+
+c. Se ha recibido y despedido al deportista siguiendo el protocolo establecido, identificando sus demandas y necesidades, y motivándole para la práctica continuada de balonmano.
+
+d. Se ha demostrado interés por la captación, motivación y adherencia a la práctica de los deportistas y usuarios.
+
+e. Se han valorado las habilidades y destrezas específicas de los deportistas con el objeto de determinar su nivel proponiendo su incorporación a un grupo y tomar las medidas de corrección adecuadas.
+
+f. Se ha concretado la sesión de enseñanza aprendizaje de la iniciación en balonmano siguiendo la programación de referencia, adecuándose al grupo y a las condiciones materiales existentes.
+
+g. Se ha tenido en cuenta el desarrollo natural del deportista proponiendo tareas que proporcionen variabilidad en las experiencias motoras, teniendo en cuenta las características del individuo.
+
+h. Se han explicado los contenidos de la sesión, siguiendo los protocolos y técnicas establecidas, de forma clara y motivadora.
+
+i. Se han ejemplificado las tareas propuestas, ejecutando las acciones técnicas en relación a las tareas básicas de la iniciación en balonmano, y los procedimientos establecidos.
+
+j. Se han establecido las condiciones de seguridad necesarias en la iniciación en balonmano, interpretando las instrucciones o normas y aplicando los procedimientos establecidos.
+
+k. Se ha dirigido la sesión de enseñanza aprendizaje de iniciación en balonmano, solucionando las contingencias existentes, consiguiendo la participación y rendimiento conforme a los objetivos propuestos de la misma, y dentro de las normas medioambientales y los márgenes de seguridad requeridos.
+
+l. Se han aplicado estrategias de comunicación, control de contingencias, sirviéndose de las dinámicas de grupo más adecuadas en cada caso.
+
+m. Se ha valorado el desarrollo de la sesión, aplicando procedimientos de recogida y procesamiento de la información necesaria para la elaboración de juicios que permitan el ajuste y mejora permanente del proceso de enseñanza-aprendizaje y de las actividades propias de la iniciación a la modalidad o especialidad deportiva.
+
+n. Se ha demostrado interés por la transmisión de valores éticos, personales y sociales a través de la práctica deportiva: juego limpio, respeto a la salud personal, a los demás y al entorno.
+
+ñ. Se ha fomentado la coeducación a través del deporte.
+
+5\. Acompaña al deportista en competiciones de iniciación a balonmano, interpretando las normas y reglamentos, ejecutando los procedimientos y técnicas de transmisión de valores.
+
+a. Se ha comprobado el estado de la inscripción del grupo o deportista en la competición de iniciación en balonmano, siguiendo las instrucciones y normas establecidas.
+
+b. Se ha informado al equipo de las características de la competición, interpretando la documentación sobre la misma.
+
+c. Se han aplicado criterios de valoración de la ejecución técnico-táctica del balonmano, utilizando técnicas y procedimientos de observación adecuadas al nivel de iniciación deportiva.
+
+d. Se han trasladado al equipo las instrucciones técnicas y tácticas para la competición de iniciación, teniendo en cuenta las características de la competición y del deportista.
+
+e. Se ha acompañado a los deportistas en las competiciones, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
+
+f. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de iniciación en balonmano, aplicando los procedimientos adecuados y respetando las normas de la misma.
+
+6\. Realiza operaciones de prestación de los primeros auxilios, interpretando las normas y protocolos establecidos y aplicando técnicas y procedimientos de acuerdo a instrucciones o normas establecidas.
+
+a. Se han desarrollado operaciones de valoración inicial al accidentado, de acuerdo con los protocolos e instrucciones recibidos.
+
+b. Se ha establecido la secuencia de actuación de acuerdo con el protocolo establecido por el ILCOR (Comité de Coordinación Internacional sobre la Resucitación).
+
+c. Se han establecido medidas de seguridad y autoprotección personal en las situaciones de prestación de los primeros auxilios, de acuerdo con los protocolos y las instrucciones recibidos.
+
+d. Se han aplicado técnicas y procedimientos de prestación de primeros auxilios en lesiones, según los protocolos y la normativa establecidos.
+
+e. Se han aplicado técnicas de soporte vital, siguiendo los protocolos e instrucciones establecidos.
+
+f. Se han efectuado operaciones de desfibrilación externa semiautomática, siguiendo los protocolos e instrucciones establecidos.
+
+g. Se ha mantenido el autocontrol en situaciones de prestación de los primeros auxilios al accidentado teniendo en cuenta los protocolos e instrucciones establecidos.
+
+h. Se han aplicado técnicas de apoyo psicológico al accidentado y acompañante, teniendo en cuenta los protocolos e instrucciones establecidos.
+
+i. Se ha utilizado la terminología médico sanitaria elemental relacionada con los primeros auxilios.
+
+j. Se ha demostrado una actitud positiva hacia el reciclaje y actualización personal en nuevos protocolos e instrumentos relacionados con los primeros auxilios.
+
+> Se numera este módulo como Anexo II.i por el art. 11.7.j) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO III — Objetivos generales y módulos de enseñanza deportiva del ciclo final de grado medio en balonmano
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos III.a hasta el III.n por el art. 11.8 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO III.a — Objetivos generales
+
+a. Identificar y detectar las características técnicas, tácticas, físicas, psicosociológicas y de la competición propias de la etapa de tecnificación deportiva en balonmano, aplicando procedimientos establecidos para valorar y seleccionar al deportista.
+
+b. Analizar e interpretar la programación de referencia en balonmano, eligiendo y diseñando tareas y aplicando métodos establecidos para adaptar y concretar los programas y sesiones de la etapa de tecnificación deportiva.
+
+c. Describir, elegir y demostrar las técnicas y estrategias de dirección de sesiones, de control de la contingencia propias del balonmano, aplicando procedimientos de observación, control y dinamización, resolviendo supuestos para dirigir la sesión.
+
+d. Analizar los aspectos técnicos y tácticos y psicosociales propios de la competición de tecnificación deportiva en balonmano, aplicando procedimientos establecidos y teniendo en cuenta las características de los participantes, el grupo deportivo y el reglamento para dirigir a deportistas en competiciones de este nivel.
+
+e. Analizar los aspectos técnicos y tácticos y psicosociales propios de la competición de iniciación y tecnificación deportiva en balonmano playa, aplicando procedimientos establecidos y teniendo en cuenta las características de los participantes, el grupo deportivo y el reglamento para dirigir a deportistas en competiciones de este nivel.
+
+f. Analizar y elaborar la estructura organizativa de las competiciones y eventos propios del nivel de iniciación deportiva en balonmano y balonmano playa, e identificar las características organizativas de competiciones de tecnificación deportiva enumerando los requisitos administrativos, los medios materiales y humanos necesarios, aplicando el marco legal que las regula, para organizar y colaborar en la gestión de competiciones y eventos.
+
+g. Identificar y analizar las características organizativas, medios materiales y humanos, aplicando procedimientos establecidos de gestión y comunicación, para coordinar a otros técnicos encargados de la iniciación deportiva.
+
+h. Identificar y analizar las variables que intervienen en el proceso de tecnificación deportiva, aplicando procedimientos de recogida y valoración de la información y de ajuste de programas, para evaluar este proceso.
+
+i. Identificar y describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los deportistas, para transmitir valores propios de la actividad deportiva a través del comportamiento ético personal.
+
+j. Reconocer, promover y justificar los valores de compromiso, trabajo bien hecho y aprendizaje constante, describiendo los aspectos observables de la conducta, que reflejan estos valores, para mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el desempeño de su labor como técnico.
+
+k. Describir y aplicar los programas de iniciación deportiva al balonmano en silla de ruedas para personas con discapacidad, clasificando las características de las discapacidades para fomentar la igualdad de oportunidades.
+
+l. Analizar e interpretar los fundamentos, el reglamento y las acciones específicas del balonmano playa para aplicarlos en la iniciación.
+
+m. Analizar e interpretar la programación de referencia en balonmano playa, eligiendo y diseñando tareas y aplicando métodos establecidos, para adaptar y concretar los programas y sesiones de la etapa de tecnificación deportiva.
+
+> Se numera como Anexo III.a por el art. 11.8.a) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.b — Módulo común de enseñanza deportiva: Bases del aprendizaje deportivo. Código: MED-C201
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Identifica las características del/de la deportista de Tecnificación Deportiva (TD), analizando los factores psicológicos y sociales implicados en el rendimiento deportivo y su relación con la etapa de la adolescencia.**
+
+a) Se han descrito las características psicológicas y rasgos sociales propios de la adolescencia y las diferencias existentes en función del sexo.
+
+b) Se han aplicado instrumentos de valoración de las características psicológicas de los/las deportistas, comparando con los niveles estándar de la etapa de TD.
+
+c) Se han descrito los principales factores psicológicos que facilitan el aprendizaje en el/la deportista de TD.
+
+d) Se han enumerado algunas estrategias que favorecen y mantienen la motivación en el entrenamiento.
+
+e) Se han aplicado estrategias que favorecen la activación, la concentración y el control del estrés en una situación propuesta de entrenamiento y competición.
+
+f) Se han identificado, en un supuesto práctico, los factores psico-sociales más relevantes que pueden influir en el bajo rendimiento deportivo.
+
+g) Se ha argumentado la importancia del entorno familiar, social y deportivo en el rendimiento del/la deportista en la etapa de TD.
+
+**RA-2. Identifica las características y factores del aprendizaje motor, analizando las características del proceso de perfeccionamiento técnico-táctico del/la deportista.**
+
+a) Se han descrito las principales teorías que explican el aprendizaje motor.
+
+b) Se ha justificado la importancia de los mecanismos de percepción, decisión y ejecución en la TD de distintos deportes.
+
+c) Se han identificado los factores relacionados con los mecanismos de percepción, decisión y ejecución que determinan la complejidad de tareas en distintos deportes.
+
+d) Se han descrito las características técnico-tácticas propias de la etapa de TD.
+
+e) Se ha identificado, en un supuesto práctico contextualizado, la fase de aprendizaje en la que se encuentran los/las deportistas y los factores más importantes a tener en cuenta en su progresión deportiva.
+
+f) Se ha argumentado la necesidad de adecuar las tareas al nivel de desarrollo técnico-táctico del/la deportista, a sus intereses y características.
+
+**RA-3. Programa la enseñanza deportiva, analizando sus componentes y seleccionando tareas en función de la etapa de aprendizaje del/de la deportista.**
+
+a) Se han descrito los tipos de programación de tecnificación deportiva, sus principios y fases de elaboración.
+
+b) Se han descrito los elementos que componen una programación de enseñanza deportiva y su relevancia en el proceso de implementación.
+
+c) Se ha argumentado la importancia de utilizar la programación como referente de evaluación en la progresión en el aprendizaje deportivo de los/las deportistas.
+
+d) Se ha identificado la estructura y los componentes en una sesión de entrenamiento propuesta.
+
+e) Se han identificado los componentes y comparado de forma justificada el nivel de dificultad entre varias tareas propuestas.
+
+f) Se han modificado las condiciones de realización, condiciones espaciales o temporales en una tarea propuesta, posibilitando llevarla a cabo con distintos niveles de dificultad.
+
+g) Se han seleccionado varias tareas en progresión justificando los criterios utilizados en su elección.
+
+h) Se ha identificado la importancia de la memoria en los procesos de aprendizaje.
+
+i) Se ha argumentado la importancia de realizar progresiones que tengan en cuenta las características personales, técnico-tácticas y motivacionales de los/las deportistas.
+
+**RA-4. Dirige y organiza las tareas de entrenamiento, analizando los procedimientos de control y dinamización utilizados.**
+
+a) Se han identificado los métodos y estilos de enseñanza utilizados en situaciones de entrenamiento propuestas.
+
+b) Se han seleccionado justificadamente técnicas y estrategias de enseñanza en distintos supuesto prácticos en función del objetivo y las características de la tarea a realizar.
+
+c) Se ha analizado el tiempo de práctica en un entrenamiento, proponiendo actuaciones para optimizarlo.
+
+d) Se han aplicado distintas formas de distribuir y agrupar a los/las deportistas en tareas propuestas, mejorando la calidad de la práctica.
+
+e) Se han seleccionado recursos materiales adaptados, variados y motivantes en la aplicación de tareas propuestas.
+
+f) Se han identificado los tipos feedback administrados por un entrenador en un caso práctico.
+
+g) Se han propuesto algunas medidas de intervención que subsanen comportamientos no deseados identificados en un supuesto práctico.
+
+**RA-5. Coordina la intervención del personal técnico a su cargo, aplicando técnicas de dirección, organización y comunicación no jerarquizadas que promuevan el trabajo en equipo.**
+
+a) Se han descrito las características de un estilo de dirección de grupos no jerarquizado.
+
+b) Se ha elaborado un sencillo organigrama de un supuesto equipo a su cargo, estableciendo características de cada puesto, funciones e interacciones.
+
+c) Se han propuesto, en un supuesto práctico, actividades y dinámicas que favorezcan la cohesión grupal y el trabajo en equipo.
+
+d) Se han utilizado estrategias de escucha activa, empatía y asertividad en situaciones de conflicto simuladas.
+
+e) Se ha empleado un lenguaje asertivo y no discriminatorio en la comunicación con sus compañeros/as.
+
+**RA-6. Tutela a los/las deportistas durante su participación en entrenamientos y competiciones, aplicando estrategias que promuevan valores personales y sociales de esfuerzo, respeto y cooperación.**
+
+a) Se han identificado las principales demandas del contexto deportivo (club, árbitros, familias, etc.) que afectan al comportamiento ético y la promoción de valores en la etapa de TD.
+
+b) Se ha realizado una autoevaluación de las principales habilidades personales, de trabajo y de comunicación propias, relacionándolas con la transmisión de valores personales y sociales.
+
+c) Se han seleccionado actividades y dinámicas que fomenten actitudes proactivas y valores de esfuerzo, respeto y cooperación en los/las deportistas en distintas situaciones prácticas propuestas.
+
+d) Se han aplicado de manera justificada estrategias de resolución de conflictos en supuestos prácticos de entrenamiento y competición.
+
+e) Se ha argumentado la importancia de la actitud y actuación del técnico, del contexto deportivo y de la familia en la transmisión de valores personales y sociales a sus deportistas.
+
+Contenidos básicos
+
+**RA-1. Identifica las características del/de la deportista de Tecnificación Deportiva (TD), analizando los factores psicológicos y sociales implicados en el rendimiento deportivo y su relación con la etapa de la adolescencia.**
+
+1\. Análisis de las características psico-sociales de los/las deportistas en la etapa de Tecnificación Deportiva.
+
+– Características psicológicas y rasgos sociales de los/las adolescentes.
+
+– El papel del entorno familiar, social y deportivo en la TD.
+
+– Diferencias entre chicos y chicas en la adolescencia.
+
+– Aplicación de instrumentos para evaluar las características psico-sociales de los/las deportistas en la etapa de TD.
+
+– Valoración de la necesidad de considerar los aspectos psico-sociales de la adolescencia en la preparación deportiva de la etapa de TD.
+
+2\. Factores psicológicos más relevantes en la etapa de Tecnificación Deportiva.
+
+– La motivación: características, tipos y estrategias para su fomento en la TD.
+
+– La activación y el control del estrés.
+
+– Factores psico-sociales que pueden influir negativamente en el rendimiento deportivo y recursos para afrontarlos: miedo al fracaso, ansiedad competitiva, burnout, etc.
+
+– Abandono deportivo en la etapa de tecnificación del adolescente: exigencia en los estudios, desgana, cansancio, factores sociales y psicológicos.
+
+**RA-2. Identifica las características y factores del aprendizaje motor, analizando las características del proceso de perfeccionamiento técnico-táctico del/la deportista.**
+
+1\. Características del aprendizaje motor.
+
+– Teorías del aprendizaje motor.
+
+– El modelo de procesamiento de la información en la enseñanza deportiva: los mecanismos de percepción, decisión, ejecución y sus mecanismos de regulación.
+
+– Importancia de los mecanismos en la selección y elaboración de tareas.
+
+2\. Factores que intervienen en el aprendizaje motor.
+
+– Dependientes de la persona: edad, sexo, aptitud, experiencia previa, motivación.
+
+– Dependientes del diseño de la tarea (relacionados con los mecanismos): perceptivos, decisionales, de ejecución, autorregulación:
+
+– Dependientes del proceso de enseñanza-aprendizaje: transmisión de información (feedback); cantidad, duración y distribución de la práctica.
+
+3\. El proceso de perfeccionamiento técnico-táctico del/de la deportista.
+
+– Identificación de las características técnico-tácticas propias de la etapa de TD.
+
+– Fases del aprendizaje deportivo: iniciación, perfeccionamiento, dominio.
+
+– Importancia de adaptar las tareas a las necesidades de/la deportista.
+
+**RA-3. Programa la enseñanza deportiva, analizando sus componentes y seleccionando tareas en función de la etapa de aprendizaje del/de la deportista.**
+
+1\. Interpretación y elaboración de programaciones.
+
+– Tipos, principios y fases de la programación deportiva.
+
+– Elementos de la programación: objetivos, contenidos, medios, métodos e instrumentos de evaluación.
+
+– Elaboración y aplicación de programas de iniciación deportiva: consideraciones básicas.
+
+– La programación como elemento de evaluación de los aprendizajes deportivos.
+
+– La sesión de entrenamiento como unidad de organización del trabajo: estructura básica y componentes.
+
+2\. Selección de tareas:
+
+– La tarea: grado de dificultad, factores de los que depende.
+
+– Los componentes de la tarea: objetivo, condiciones de realización, condiciones espaciales y temporales, recursos.
+
+– Adecuación de las tareas a las características e intereses de los/las deportistas.
+
+– Criterios para la elaboración de secuencias de aprendizaje en progresión: variabilidad, significatividad, interferencia contextual, transferencia.
+
+– Valoración de la progresión de los aprendizajes como elemento fundamental en el diseño y modificación/manipulación de tareas.
+
+**RA-4. Dirige y organiza las tareas de entrenamiento, analizando los procedimientos de control y dinamización utilizados.**
+
+1\. Dirección y organización de la enseñanza en el entrenamiento.
+
+– Dirección de grupos: Métodos y estilos, técnicas y estrategias de enseñanza.
+
+– Organización de la actividad: tiempo de prácticas, distribución espacial, agrupamientos y utilización de recursos materiales.
+
+2\. Procedimientos de control y dinamización de tareas de entrenamiento básico y perfeccionamiento técnico.
+
+– Técnicas de gestión de las actividades para optimizar los tiempos de práctica y el control del grupo.
+
+– Importancia de la posición estratégica del/la entrenador/a y la interacción con el deportista como medio de implicación activa en el aprendizaje y motivación del deportista.
+
+– Utilización de recursos materiales adaptados, variados y motivantes para la práctica.
+
+– El feedback: tipos, momento de administración y finalidad. Estrategias para su administración.
+
+– Estrategias de control y dinamización frente a las conductas no deseadas.
+
+**RA-5. Coordina la intervención del personal técnico a su cargo, aplicando técnicas de dirección, organización y comunicación no jerarquizadas que promuevan el trabajo en equipo.**
+
+1\. Dirección y coordinación de grupos de trabajo.
+
+– Características de grupos de trabajo no jerarquizados.
+
+– Organización del equipo: Adecuación de tareas y funciones a las características, capacidades e intereses de los componentes.
+
+– Asignación de roles: claridad, aceptación y cumplimiento de las funciones del personal técnico.
+
+– Dinámicas de cohesión de grupo y de resolución de conflictos.
+
+2\. Aplicación de técnicas de comunicación en grupos.
+
+– Escucha activa, empatía y asertividad.
+
+– Lenguaje, verbal y no verbal, asertivo y no discriminatorio.
+
+**RA-6. Tutela a los/las deportistas durante su participación en entrenamientos y competiciones, aplicando estrategias que promuevan valores personales y sociales de esfuerzo, respeto y cooperación.**
+
+1\. Identificación de actitudes y valores personales y sociales en relación con la práctica deportiva y la competición:
+
+– El contexto de la práctica deportiva (clubes, asociaciones, organizadores deportivos, árbitros, familias, medios de comunicación, etc.) en la promoción y desarrollo de valores en el deporte.
+
+– Principales problemas éticos en la etapa de TD: abandono, exclusión de la práctica, búsqueda de resultados.
+
+– Evaluación y medida de actitudes y valores en el deporte: técnicas e instrumentos de medida de los valores en el deporte (diario de sesiones, test sociométrico, cuestionarios, perfil de polaridad, etc).
+
+2\. Transmisión de actitudes y valores personales y sociales en relación con la práctica deportiva y la competición:
+
+– Características y habilidades del técnico/a deportivo/a para favorecer la transmisión de valores personales y sociales a través del deporte: personales, de trabajo y de comunicación.
+
+– La responsabilidad personal en la transmisión de valores personales y sociales a través del deporte.
+
+– Estrategias para resolución de conflictos que puedan surgir durante la participación en eventos deportivos y competiciones (role-playing; banquillo de reflexión; dilemas morales, etc.).
+
+– Principios deontológicos del técnico deportivo.
+
+> Se numera como Anexo III.b y se sustituye por el que figura como anexo II.a del Real Decreto 534/2026, de 30 de junio, según establece su art. 11.8.b). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.c — Módulo común de enseñanza deportiva: Bases del entrenamiento deportivo. Código: MED-C202
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Identifica las características físicas de hombres y mujeres, analizando las funciones anatómico-fisiológicas del organismo en relación con el ejercicio físico.**
+
+a) Se ha descrito la estructura y organización del organismo en función de sus unidades estructurales (células, tejidos, órganos y sistemas).
+
+b) Se han diferenciado las distintas posibilidades de movimiento del cuerpo humano en función de los ejes y planos anatómicos, usando una terminología adecuada en la descripción de posiciones y direcciones y aplicándolas a gestos deportivos concretos.
+
+c) Se ha analizado la estructura y funcionamiento de los aparatos locomotor, cardiocirculatorio y respiratorio, así como de los sistemas nervioso, endocrino y digestivo respecto al ejercicio físico y las capacidades físicas que dependen de ellos.
+
+d) Se ha descrito el ciclo menstrual femenino en relación con el rendimiento físico-deportivo en la mujer.
+
+e) Se han descrito de manera elemental las principales vías metabólicas y fuentes de energía del organismo y su implicación en el ejercicio físico.
+
+f) Se han descrito las principales adaptaciones producidas por el ejercicio físico en diferentes tejidos, órganos y sistemas.
+
+**RA-2. Dirige prácticas deportivas saludables, identificando las pautas higiénicas más adecuadas en las etapas de iniciación y tecnificación deportiva.**
+
+a) Se han analizado los beneficios de la actividad física y las pautas básicas de higiene deportiva, así como los principios de ergonomía y corrección postural durante el ejercicio.
+
+b) Se han identificado los posibles efectos negativos y las principales contraindicaciones relacionadas con la práctica del ejercicio físico.
+
+c) Se han analizado los hábitos nocivos que afectan al desarrollo y a la salud de los/las deportistas y la importancia de prever sus consecuencias negativas.
+
+d) Se han desarrollado propuestas de trabajo de activación y vuelta a la calma del deportista.
+
+e) Se han descrito las bases para una adecuada alimentación e hidratación y su aplicación en la práctica de actividad físico-deportiva: antes, durante y después de la misma.
+
+f) Se han identificado los posibles beneficios y perjuicios relacionados con el entrenamiento deportivo para la salud de la mujer.
+
+**RA-3. Analiza la condición motriz general de hombres y mujeres aplicando las técnicas y metodología de valoración adecuadas de las diferentes capacidades físicas básicas.**
+
+a) Se han analizado las características de las principales capacidades condicionales y coordinativas y su relación con el concepto de condición motriz.
+
+b) Se ha analizado la evolución de la condición motriz en relación con el desarrollo madurativo del deportista y los diferentes periodos sensibles de las capacidades en función de la edad biológica y el sexo.
+
+c) Se han identificado los instrumentos y medios más relevantes de una medición válida, fiable y sensible de las capacidades condicionales y coordinativas.
+
+**RA-4. Desarrolla la condición motriz general de hombres y mujeres, aplicando los principios metodológicos, medios y métodos del entrenamiento para las diferentes capacidades condicionales y coordinativas.**
+
+a) Se han analizado los principios metodológicos, medios y métodos de entrenamiento de la fuerza para la mejora del rendimiento físico y deportivo, así como sus efectos y adaptaciones sobre el sistema neuromuscular.
+
+b) Se han analizado los principios metodológicos, medios y métodos de entrenamiento de la resistencia para la mejora del rendimiento físico y deportivo, así como sus efectos y adaptaciones sobre el sistema cardiocirculatorio y respiratorio.
+
+c) Se han analizado los principios metodológicos, medios y métodos de entrenamiento de la velocidad para la mejora del rendimiento físico y deportivo, así como sus efectos y adaptaciones sobre el sistema neuromuscular.
+
+d) Se han analizado los principios metodológicos, medios y métodos de entrenamiento de la amplitud de movimiento (ADM) para la mejora del rendimiento físico y deportivo, así como sus efectos y adaptaciones sobre el sistema musculoesquelético.
+
+e) Se han analizado los principales medios y métodos de entrenamiento de las capacidades coordinativas para la mejora del rendimiento físico y deportivo, así como sus efectos y adaptaciones sobre el sistema neuromuscular.
+
+f) Se ha seleccionado de forma justificada las nuevas tecnologías en el desarrollo de los principales medios y métodos de entrenamiento de las capacidades condicionales y coordinativas, en supuestos prácticos de práctica deportiva.
+
+**RA-5. Interpreta la programación analizando los principios y elementos básicos del entrenamiento deportivo.**
+
+a) Se ha analizado los conceptos básicos de entrenamiento deportivo, adaptación, fatiga y recuperación relacionándolos con la programación del entrenamiento.
+
+b) Se han identificado los principales conceptos de organización del entrenamiento: planificación, programación y periodización, valorando su importancia en el proceso de entrenamiento.
+
+c) Se han identificado los elementos básicos de la programación, identificando las diferentes estructuras o fases temporales, así como los principales tipos y componentes de la carga de entrenamiento.
+
+d) Se han analizado los principios del entrenamiento deportivo, entendiendo su relación con la programación deportiva.
+
+e) Se ha analizado la intervención de las nuevas tecnologías en el diseño y programación del entrenamiento, así como para el registro, control, análisis y evaluación de la práctica deportiva.
+
+f) Se han aplicado de forma justificada los posibles ajustes de la programación del entrenamiento en función del ciclo menstrual femenino.
+
+Contenidos básicos
+
+**RA-1. Identifica las características físicas de hombres y mujeres, analizando las funciones anatómico-fisiológicas del organismo en relación con el ejercicio físico.**
+
+1\. Estructura y organización general del organismo: células, tejidos, órganos y sistemas.
+
+2\. Descripción espacial del movimiento: posiciones, direcciones, ejes y planos anatómicos. Movimientos articulares. Relación con situaciones y gestos deportivos específicos.
+
+3\. Aparato locomotor: principales huesos, articulaciones y músculos. Estructura y movilidad de las principales regiones anatómicas. Relación con las capacidades físicas y el ejercicio.
+
+4\. Aparato cardiocirculatorio: el corazón, los vasos sanguíneos y la sangre. La circulación sanguínea. Conceptos básicos relacionados con la respuesta cardiocirculatoria al ejercicio físico: frecuencia cardiaca, volumen sistólico, gasto cardiaco, presión arterial y vasodilatación. Relación con las capacidades físicas.
+
+5\. Aparato respiratorio: anatomía, fisiología y mecánica respiratorias. Capacidades y volúmenes pulmonares. Respuesta ventilatoria al ejercicio y relación con las capacidades físicas.
+
+6\. Sistema nervioso: neurona, sinapsis y transmisión del impulso nervioso. Clasificación anatómica del sistema nervioso como central y periférico y funcional como somático y autónomo. Relación con las capacidades físicas y el ejercicio.
+
+7\. Sistema endocrino: principales hormonas y glándulas endocrinas. Respuesta hormonal al ejercicio.
+
+8\. Sistema digestivo: anatomía y fisiología básica.
+
+9\. Ciclo menstrual: características y fases. Influencia de la práctica físico-deportiva: regularidad, amenorrea y dolor menstrual. Impacto en el rendimiento.
+
+10\. Metabolismo energético: principales vías metabólicas y fuentes de energía, ATP, glucógeno y grasas. Relación con el ejercicio físico.
+
+11\. Adaptaciones, agudas y crónicas, de los diferentes sistemas implicados en el ejercicio físico.
+
+**RA-2. Dirige prácticas deportivas saludables, identificando las pautas higiénicas más adecuadas en las etapas de iniciación y tecnificación deportiva.**
+
+1\. Beneficios de la práctica físico-deportiva sobre el organismo: repercusiones físicas, psico-emocionales y psico-sociales. Características en función de los diferentes ámbitos deportivos: salud, recreación y alto rendimiento.
+
+2\. Pautas básicas de higiene deportiva. Principios de ergonomía y corrección postural durante el ejercicio.
+
+3\. Contraindicaciones y efectos negativos relacionados con la práctica del ejercicio físico. Movimientos y ejercicios contraindicados.
+
+4\. Principales hábitos nocivos que afectan al desarrollo y a la salud de los/las deportistas: mala alimentación, falta de descanso y abuso de dispositivos electrónicos. Precauciones a tener en cuenta en la etapa de tecnificación deportiva.
+
+5\. Activación y vuelta a la calma en la sesión deportiva.
+
+6\. La alimentación y la hidratación vinculadas a la actividad física: antes, durante y después del ejercicio.
+
+7\. Efectos del entrenamiento deportivo en la salud específica de las mujeres deportistas: beneficios y riesgos de una práctica inadecuada.
+
+**RA-3. Analiza la condición motriz general de hombres y mujeres aplicando las técnicas y metodología de valoración adecuadas de las diferentes capacidades físicas básicas.**
+
+1\. Condición motriz, capacidades condicionales y coordinativas. Aspectos generales.
+
+2\. La fuerza. Concepto, manifestaciones e implicación en la práctica de actividades físico-deportivas. Evolución en relación con el desarrollo madurativo del deportista. Periodos sensibles en función de la edad biológica y el sexo.
+
+3\. La resistencia. Concepto, tipos e implicación en la práctica de actividades físico-deportivas. Evolución en relación con el desarrollo madurativo del deportista. Periodos sensibles en función de la edad biológica y el sexo.
+
+4\. La velocidad. Concepto, manifestaciones e implicación en la práctica de actividades físico-deportivas. Evolución en relación con el desarrollo madurativo del deportista. Periodos sensibles en función de la edad biológica y el sexo.
+
+5\. Amplitud de movimiento (ADM). Concepto, condicionantes e implicación en la práctica de actividades físico-deportivas. Evolución en relación con el desarrollo madurativo del deportista.
+
+6\. Capacidades coordinativas. Concepto, características e implicación en la práctica de actividades físico-deportivas. Evolución en relación con el desarrollo madurativo del deportista.
+
+7\. Patrones motores básicos y su relación con el gesto deportivo.
+
+8\. Instrumentos y medios más relevantes para la una medición válida, fiable y sensible de las capacidades condicionales y coordinativas. Aportaciones e innovaciones tecnológicas en el ámbito de la valoración deportiva.
+
+**RA-4. Desarrolla la condición motriz general de hombres y mujeres, aplicando los principios metodológicos, medios y métodos del entrenamiento para las diferentes capacidades condicionales y coordinativas.**
+
+1\. Principios metodológicos, medios y métodos de entrenamiento de la fuerza para la mejora del rendimiento físico y deportivo. Efectos y adaptaciones sobre el sistema neuromuscular.
+
+2\. Principios metodológicos, medios y métodos de entrenamiento de la resistencia para la mejora del rendimiento físico y deportivo. Efectos y adaptaciones sobre el sistema cardiocirculatorio y respiratorio.
+
+3\. Principios metodológicos, medios y métodos de entrenamiento de la velocidad para la mejora del rendimiento físico y deportivo. Efectos y adaptaciones sobre el sistema neuromuscular.
+
+4\. Principios metodológicos, medios y métodos de entrenamiento de la amplitud de movimiento (ADM) para la mejora del rendimiento físico y deportivo. Efectos y adaptaciones sobre el sistema musculoesquelético.
+
+5\. Principales medios y métodos de entrenamiento de las capacidades coordinativas para la mejora del rendimiento físico y deportivo. Efectos y adaptaciones sobre el sistema neuromuscular.
+
+6\. Intervención de las nuevas tecnologías en el desarrollo de los principales medios y métodos de entrenamiento de las capacidades condicionales y coordinativas. Aplicaciones en la práctica deportiva.
+
+**RA-5. Interpreta la programación analizando los principios y elementos básicos del entrenamiento deportivo.**
+
+1\. El entrenamiento deportivo: adaptación, fatiga y recuperación. El Síndrome General de Adaptación (SGA). La supercompensación. Relación con la programación del entrenamiento.
+
+2\. La organización del entrenamiento: planificación, programación y periodización deportiva. Relevancia en el proceso de entrenamiento. Elementos básicos de la programación: objetivos, contenidos y estructuras o fases temporales.
+
+3\. Diferencias entre carga externa e interna. Componentes de la carga de entrenamiento: magnitud relacionada con volumen, intensidad, frecuencia y densidad y orientación clasificada como general/específica y/o selectiva/compleja.
+
+4\. Los principios del entrenamiento deportivo y su relación con la programación deportiva.
+
+5\. Intervención de las nuevas tecnologías en el diseño y programación del entrenamiento, así como para el registro, control, análisis y evaluación de la práctica deportiva.
+
+6\. Influencia del ciclo menstrual en la programación del entrenamiento.
+
+> Se numera como Anexo III.c y se sustituye por el que figura como anexo II.b del Real Decreto 534/2026, de 30 de junio, según establece su art. 11.8.c). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.d — Módulo común de enseñanza deportiva: Organización y legislación deportiva. Código: MED-C204
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Analiza la normativa de competición, relacionándola con la organización deportiva nacional y el régimen disciplinario e incorporando la perspectiva de igualdad de género.**
+
+a) Se han identificado la estructura y funciones de la organización deportiva nacional, en base al marco legislativo aplicable, a partir de la observación de organismos deportivos Se han descrito los organismos deportivos de ámbito nacional más importantes y sus funciones.
+
+b) Se han diferenciado los órganos responsables de disciplina deportiva, dopaje y violencia, así como las posibles infracciones y sanciones y los procedimientos reguladores, con un enfoque inclusivo que tenga en cuenta la igualdad de género y la protección de menores, a partir de casos simulados.
+
+c) Se ha analizado el régimen disciplinario deportivo y antidopaje aplicado a la competición, a partir de un caso práctico.
+
+**RA-2. Revisa la seguridad en la práctica deportivas, analizando la normativa vigente sobre los materiales y equipamientos, y los criterios de protección contra riesgos.**
+
+a) Se ha identificado la normativa básica de aplicación relativa a la seguridad en las instalaciones deportivas, a partir de una instalación deportiva simulada.
+
+b) Se han identificado los criterios de seguridad que han de cumplir las instalaciones y equipamientos necesarios para la práctica deportiva para todas las personas usuarias o personal laboral, a partir del marco normativo vigente.
+
+c) Se han ejemplificado las principales características de los planes de emergencia y evacuación de una instalación deportiva, mediante un supuesto práctico.
+
+d) Se han enumerado las medidas de protección contra posibles riesgos antisociales y de violencia en una instalación deportiva.
+
+**RA-3. Programa el desplazamiento de la persona deportista o grupo a competiciones de iniciación o tecnificación, asegurando el cumplimiento de los procedimientos y la normativa vigente, incluyendo la responsabilidad legal, los seguros y detallando las funciones y fases del desplazamiento.**
+
+a) Se han detallado las fases más relevantes en la organización de competiciones deportivas de iniciación o tecnificación deportiva, a partir de un caso práctico simulado.
+
+b) Se ha preparado del viaje y cumplimentado la documentación básica requerida, a partir de un caso práctico simulado.
+
+c) Se ha identificado la normativa sobre responsabilidad legal y sobre los seguros de accidente, incluyendo licencias deportivas y seguros federativos.
+
+d) Se ha programado el desplazamiento (preparación, desarrollo y conclusión), especificando las funciones más importantes del personal técnico en cada fase, en un escenario realista propuesto.
+
+e) Se ha detallado el programa de asistencia al deportista durante la celebración de la competición, a partir de un contexto simulado.
+
+**RA-4. Realiza actividades de gestión de un club deportivo, analizando los procedimientos de constitución y registro de un club deportivo, de establecimiento de convenios con entidades públicas y privadas, y las vías de financiación.**
+
+a) Se ha identificado la importancia del club deportivo como elemento favorecedor de la práctica deportiva, mediante la participación en espacios de discusión y análisis colectivo.
+
+b) Se ha identificado la normativa y los trámites necesarios que regulan la constitución y funcionamiento de un club deportivo en función de su ámbito de actuación (competiciones profesionales o no profesionales), utilizando como base un caso práctico.
+
+c) Se han examinado las posibles vías de financiación económica existentes en el proceso de creación y gestión de un club deportivo según su ámbito de actuación, mediante un proyecto simulado.
+
+d) Se han identificado los elementos necesarios en el establecimiento de convenios con las administraciones públicas, así como otras asociaciones de carácter privado, a través de un plan de acción ficticio.
+
+Contenidos básicos
+
+**RA-1. Analiza la normativa de competición, relacionándola con la organización deportiva nacional y el régimen disciplinario e incorporando la perspectiva de igualdad de género.**
+
+1\. Legislación deportiva estatal y normativa relacionada: Objeto y rango y ámbito de aplicación.
+
+2\. El Consejo Superior de Deportes. Estructura básica y funciones.
+
+3\. Entidades deportivas españolas:
+
+– Comité Olímpico Español, Comité Paralímpico Español. Estructura básica y funcionamiento.
+
+– Federaciones españolas deportivas. Estructura básica y funcionamiento.
+
+4\. Naturaleza, competencias de los órganos disciplinarios: Agencia Estatal Comisión Española para la Lucha Antidopaje en el Deporte Comité Español de Disciplina Deportiva, Comisión Estatal contra la Violencia, el Racismo, la Xenofobia y la Intolerancia en el Deporte.
+
+5\. Régimen disciplinario deportivo y procedimientos sancionadores.
+
+6\. La igualdad de género y la protección de menores.
+
+**RA-2. Revisa la seguridad en la práctica deportiva, analizando la normativa vigente sobre los materiales y equipamientos, y los criterios de protección contra riesgos.**
+
+1\. Fundamentos normativos sobre seguridad en las instalaciones deportivas.
+
+2\. Instalaciones deportivas: concepto y características funcionales.
+
+3\. La información sobre seguridad en las instalaciones deportivas. Interpretación de la señalización de seguridad.
+
+4\. Procedimientos de revisión de los equipamientos deportivos.
+
+5\. Reconocimiento de los planes de emergencia y evacuación.
+
+6\. Medidas básicas de protección para personas usuarias y personas trabajadoras.
+
+7\. Medidas de protección contra actos antisociales y violencia en el deporte.
+
+**RA-3. Programa el desplazamiento de la persona deportista o grupo de competiciones de iniciación o tecnificación, asegurando el cumplimiento de los procedimientos y la normativa vigente, incluyendo la responsabilidad legal, los seguros y detallando las funciones y fases del desplazamiento.**
+
+1\. Organización y estructura básica de las competiciones deportivas, las fases más relevantes.
+
+– Análisis de los requisitos básicos para la participación en competiciones de tecnificación deportiva: Proceso de inscripción, documentación y plazos.
+
+– Tramitación y características de la licencia federativa: autonómica y nacional.
+
+– La tramitación del seguro obligatorio deportivo.
+
+2\. La elección de los seguros de accidentes y de actividad. Tipos y características. Normativa de aplicación.
+
+3\. Responsabilidad civil del técnico deportivo: características y normativa vigente. El acompañamiento o tutela de menores durante el desplazamiento.
+
+4\. Asunción de normas y responsabilidades del personal técnico deportivo en los viajes de los grupos deportivos.
+
+5\. La organización del desplazamiento de los grupos deportivos:
+
+6\. Características, cumplimentación y tipo de documentación y permisos de desplazamiento de los/las deportistas, normativa de aplicación.
+
+7\. Análisis de las funciones y responsabilidad del personal técnico deportivo durante la competición.
+
+**RA-4. Realiza actividades de gestión de un club deportivo, analizando los procedimientos de constitución y registro de un club deportivo, de establecimiento de convenios con entidades públicas y privadas, y las vías de financiación.**
+
+1\. El club deportivo. Tipos, características y estructura básica.
+
+2\. Normativa de constitución y funcionamiento de un club deportivo.
+
+3\. Procedimiento de constitución e inscripción de los clubes deportivos.
+
+4\. Vías de financiación de los clubes deportivos: ingresos propios, ingresos indirectos, subvenciones de instituciones públicas.
+
+– Tipos y modalidades de las ayudas y subvenciones a los clubes. Procedimiento de tramitación.
+
+– Convenios de colaboración con la administración: protocolos, cláusulas, anexos.
+
+– El patrocinio deportivo. Tipos y normativa relacionada.
+
+> Se numera como Anexo III.d y se sustituye por el que figura como anexo II.c del Real Decreto 534/2026, de 30 de junio, según establece su art. 11.8.e). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.e — Módulo común de enseñanza deportiva: Deporte y género. Código: MED-C205
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Analiza la realidad del deporte desde una perspectiva de género, los aspectos clave de la normativa legal vigente y la influencia de los estereotipos de género.**
+
+a) Se han interpretado conceptos y términos vinculados a la igualdad de género en el deporte.
+
+b) Se han identificado aspectos clave de la normativa legal vigente que promocionan la igualdad de género en el deporte.
+
+c) Se ha analizado la influencia de los estereotipos de género en el deporte.
+
+d) Se han identificado las principales desigualdades y barreras de las mujeres en el deporte.
+
+**RA-2. Promueve la igualdad de género en la práctica deportiva, aplicando estrategias de intervención didáctica específicas y analizando las diferencias de género.**
+
+a) Se han analizado las diferencias de género en las motivaciones hacia la práctica deportiva.
+
+b) Se han categorizado las diferencias biológicas y madurativas de las personas deportistas que influyen en la práctica deportiva.
+
+c) Se ha valorado la importancia de potenciar una percepción saludable de las personas deportistas.
+
+d) Se han aplicado de manera justificada estrategias coeducativas en un supuesto práctico debidamente caracterizado en el que se plantean objetivos de incremento de la participación deportiva en igualdad y no discriminación.
+
+e) Se han analizado las características de las estrategias que potencian una participación en igualdad de género y no discriminación en la práctica deportiva.
+
+**RA-3. Apoya el acceso de las mujeres al deporte, identificando el papel de las instituciones y sus líneas estratégicas, analizando herramientas y buenas prácticas de mejora de la igualdad de género en el deporte.**
+
+a) Se ha valorado la importancia del papel de las instituciones y organismos vinculados con la promoción de la práctica deportiva femenina.
+
+b) Se ha identificado el rol de las instituciones en el establecimiento y seguimiento de líneas estratégicas, que facilitan el acceso de las mujeres al deporte.
+
+c) Se han descrito las características de los planes y programas de promoción de acceso y buenas prácticas para la mejora de la igualdad en el deporte.
+
+d) Se han descrito acciones estratégicas dirigidas a la creación de entornos seguros y saludables de práctica deportiva en igualdad.
+
+Contenidos básicos
+
+**RA-1. Analiza la realidad del deporte desde una perspectiva de género, los aspectos clave de la normativa legal vigente y la influencia de los estereotipos de género.**
+
+1\. Terminología específica:
+
+– Sexo-género.
+
+– Perspectiva de género. Estereotipos de género.
+
+– Modelos androcéntricos.
+
+– LGTBI+.
+
+2\. Influencia de los estereotipos de género en el deporte:
+
+– Acceso y participación.
+
+– Cultura organizativa.
+
+– Valor otorgado al deporte femenino.
+
+– Cobertura mediática.
+
+3\. Normativa legal vigente sobre igualdad de género en el deporte: Ley del Deporte, normativa autonómica.
+
+4\. Participación de las mujeres como, deportistas, técnicas, entrenadoras, cuerpo arbitral y gestoras deportivas en los distintos ámbitos deportivos (escolar, federado, universitario, etc.) y niveles del deporte (desde recreativo a alto rendimiento):
+
+– Obstáculos, barreras y desigualdades en el acceso y participación.
+
+– Tasas de práctica físico-deportiva de las mujeres.
+
+– Índices de abandono de la práctica físico-deportiva de las mujeres.
+
+– Causas del abandono de la práctica físico-deportiva de las mujeres.
+
+**RA-2. Promueve la igualdad de género en la práctica deportiva, aplicando estrategias de intervención didáctica específicas y analizando las diferencias de género.**
+
+1\. Intereses y motivaciones en función del género hacia la práctica deportiva.
+
+2\. Características biológicas y madurativas de las mujeres y hombres en la práctica deportiva.
+
+3\. Rasgos característicos de una imagen corporal saludable a nivel físico, mental y social.
+
+4\. Estrategias de fomento de una percepción corporal saludable frente a una imagen corporal estereotipada.
+
+5\. Estrategias coeducativas aplicables a:
+
+– Organización.
+
+– Actividades.
+
+– Agrupaciones.
+
+– Comunicación y lenguaje igualitario.
+
+– Modelos referentes.
+
+**RA-3. Apoya el acceso de las mujeres al deporte, identificando el papel de las instituciones y sus líneas estratégicas, analizando herramientas y buenas prácticas de mejora de la igualdad de género en el deporte.**
+
+1\. Instituciones de ámbito internacional (Comité Olímpico Internacional, Comisión Europea, etc.), de ámbito nacional (Consejo Superior de Deportes, Comité Olímpico Español, etc.), y de ámbito autonómico y local.
+
+– Características.
+
+– Rol de las instituciones en materia de igualdad en el deporte.
+
+– Líneas estratégicas en materia de igualdad en el deporte.
+
+2\. Acciones y programas específicos de promoción y desarrollo del acceso a la práctica deportiva para la mejora de la igualdad en el deporte.
+
+– Características.
+
+– Herramientas actuales proporcionadas por instituciones a nivel internacional, nacional y autonómico.
+
+– Ejemplos de buenas prácticas. Elementos que las definen.
+
+– I+D+I: investigación, desarrollo e innovación en materia de igualdad de género promovida por las instituciones y organismos deportivos.
+
+> Se numera como Anexo III.e y se sustituye por el que figura como anexo II.d del Real Decreto 534/2026, de 30 de junio, según establece su art. 11.8.f). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.f — Módulo común de enseñanza deportiva: Iniciación deportiva para personas con discapacidad. Código: MED-C206
+
+Resultados de aprendizaje y criterios de evaluación
+
+**RA-1. Organiza sesiones de iniciación deportiva, describiendo las consideraciones específicas de práctica de las personas con discapacidad.**
+
+a) Se han reconocido consideraciones específicas en la iniciación deportiva según diferentes tipos de discapacidad con relación a la participación en tareas y juegos deportivos.
+
+b) Se han identificado las principales estrategias motivacionales en el diseño de tareas físico-deportivas para personas con discapacidad.
+
+c) Se han elaborado de manera justificada sesiones y tareas que faciliten la participación de las personas con discapacidad, en un supuesto práctico donde se establezcan las necesidades específicas.
+
+**RA-2. Aplica recursos que fomentan la participación de personas con discapacidad en actividades físico-deportivas, analizando las características de la tarea e identificando factores contextuales de la práctica deportiva.**
+
+a) Se han aplicado procedimientos de modificación de tareas, juegos y deportes que favorezcan la participación, el disfrute y las posibilidades de éxito de personas con discapacidad en situaciones simuladas debidamente caracterizadas.
+
+b) Se han definido elementos específicos de modificación de tareas en la práctica deportiva de personas con discapacidad.
+
+c) Se han identificado barreras de accesibilidad en un supuesto de práctica deportiva de personas con discapacidad.
+
+d) Se ha justificado la importancia del fomento de la participación de personas con discapacidad en contextos inclusivos de práctica deportiva.
+
+e) Se han enumerado los agentes sociales facilitadores de la inclusión en la práctica deportiva de personas con discapacidad.
+
+**RA-3. Orienta a las personas con discapacidad hacia la práctica deportiva, identificando las estructuras organizativas del deporte de personas con discapacidad, seleccionando las fuentes de información disponibles.**
+
+a) Se han analizado las diferencias en la organización del deporte para personas con discapacidad a nivel internacional, nacional y autonómico.
+
+b) Se ha justificado el papel de las instituciones y entidades del tercer sector en la organización y fomento de la competición, la recreación y la práctica deportiva saludable de personas con discapacidad.
+
+c) Se han seleccionado fuentes de información disponibles sobre deporte para personas con discapacidad, en una situación práctica donde se establezca la finalidad de la información.
+
+**RA-4. Orienta a los/las deportistas con discapacidad, distinguiendo los criterios de elegibilidad y la clasificación deportiva.**
+
+a) Se ha justificado la importancia de las clasificaciones como elemento de acceso a la práctica deportiva federada de personas con discapacidad, así como para el desarrollo de una competición lo más justa posible.
+
+b) Se han definido las deficiencias elegibles en deporte de personas con discapacidad y el concepto de mínima deficiencia elegible.
+
+c) Se han distinguido las fases y el resultado del proceso de clasificación en el deporte de personas con discapacidad.
+
+Contenidos básicos
+
+**RA-1. Organiza sesiones de iniciación deportiva, describiendo las consideraciones específicas de práctica de las personas con discapacidad.**
+
+1\. Consideraciones específicas con relación a la participación de personas con discapacidad en sesiones, tareas y juegos de iniciación deportiva: calentamiento, trabajo principal, y vuelta a la calma, orientaciones de trabajo, objetivos de trabajo, accesibilidad, materiales y recursos humanos para la participación de personas con discapacidad en la iniciación deportiva, entre otros.
+
+2\. Pautas de seguridad especificas según el tipo de discapacidad.
+
+3\. Diseño de tareas considerando las características y necesidades de la persona con discapacidad.
+
+**RA-2. Aplica recursos que fomentan la participación de personas con discapacidad en actividades físico-deportivas, analizando las características de la tarea e identificando factores contextuales de la práctica deportiva.**
+
+1\. Opciones de actividades deportivas para la participación inclusiva de personas con discapacidad.
+
+2\. Elementos que fomenten el acceso a la práctica deportiva de personas con discapacidad.
+
+3\. Elementos de modificación/ajuste de tareas, juegos y deportes.
+
+4\. Barreras en el acceso y en la práctica deportiva de personas con discapacidad.
+
+5\. Estrategias de fomento de la participación de personas con discapacidad en contextos deportivos inclusivos.
+
+6\. Agentes sociales facilitadores de la práctica deportiva de personas con discapacidad (compañeros/as, personal técnico, familias e instituciones).
+
+**RA-3. Orienta a las personas con discapacidad hacia la práctica deportiva, identificando las estructuras organizativas del deporte de personas con discapacidad, seleccionando las fuentes de información disponibles.**
+
+1\. Organismos que articulan la estructura organizativa del deporte para personas con discapacidad a nivel internacional, nacional y autonómico.
+
+2\. Buenas prácticas deportivas de entidades del tercer sector (asociaciones, fundaciones, clubes deportivos).
+
+3\. Fuentes y recursos con relación al deporte de personas con discapacidad.
+
+**RA-4. Orienta a los/las deportistas con discapacidad, distinguiendo los criterios de elegibilidad y la clasificación deportiva.**
+
+1\. Propósito de la clasificación deportiva.
+
+2\. Funciones de la clasificación en el acceso y desarrollo deportivo de personas con discapacidad.
+
+3\. Sistemas alternativos de clasificación para la organización de actividades deportivas que consideren las diferencias individuales.
+
+4\. Deficiencias elegibles físicas, sensorial e intelectual.
+
+5\. Fases del proceso de clasificación.
+
+6\. Concepto de clase y estatus deportivos resultantes del proceso de clasificación.
+
+> Se añade como Anexo III.f redactado conforme a lo establecido en el anexo II.e del Real Decreto 534/2026, de 30 de junio, según establece su art. 11.8.g). [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> El anterior «Módulo común de enseñanza deportiva: Deporte adaptado y discapacidad. Código: MED-C203» se suprime por el art. 11.8.d) del citado Real Decreto.
+
+## ANEXO III.g — Módulo específico de enseñanza deportiva: Formación técnico-táctica individual en balonmano. Código: MED-BMBM201
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica los fundamentos básicos del juego en balonmano, argumentando la importancia de los factores intencionales y mecánicos en el juego real y en el entrenamiento.
+
+a. Se ha explicado que los aspectos mecánicos e intencionales forman una unidad indivisible en el juego real.
+
+b. Se ha argumentado la importancia de la toma de decisiones durante el juego para el desarrollo del juego intencional.
+
+c. Se ha argumentado la importancia de la eficacia mecánica de las acciones de juego.
+
+d. Se ha argumentado la importancia de la ejecución adaptativa (no cerrada) de las acciones de juego.
+
+e. Se han establecido las posibilidades de mejora de la toma de decisiones durante el juego a través del entrenamiento.
+
+f. Se han establecido las posibilidades de mejora de la ejecución adaptativa manteniendo parámetros suficientes de eficacia mecánica a través del entrenamiento.
+
+2\. Valora la realización de las acciones individuales de juego en ataque, analizando los aspectos mecánicos e intencionales, identificando posibles errores en su realización y relacionando los mismos con sus causas.
+
+a. Se ha valorado la importancia de la variedad técnica en la ejecución de las diferentes acciones técnico-tácticas individuales de ataque.
+
+b. Se han analizado los criterios vinculados con los factores mecánicos e intencionales, utilizados en la valoración de la realización de cada una de las acciones técnico-tácticas de ataque.
+
+c. Se han diferenciado las ventajas e inconvenientes de las diferentes formas de transportar el balón.
+
+d. Se ha identificado las bases mecánicas e intencionales comunes y específicas de cada una de las formas de transportar el balón.
+
+e. Se han analizado los aspectos intencionales propios de las diferentes formas de transporte de balón (adaptar, manejar, botar y pasar y recibir).
+
+f. Se han analizado los aspectos mecánicos propios de cada una de las formas de transporte de balón.
+
+g. Se han identificado los aspectos mecánicos comunes a cualquier tipo de desplazamiento en el juego ofensivo, estableciendo las diferencias que caracterizan a los desplazamientos con balón de los que se realizan sin él.
+
+h. Se han analizado los aspectos intencionales y mecánicos de los diferentes movimientos que se hacen para intentar eludir el control de los defensores, sin balón y con balón.
+
+i. Se ha analizado la repercusión en el juego colectivo de la fijación de los defensores.
+
+j. Se han analizado los aspectos mecánicos evolucionados, vinculados con la obtención de potencia y precisión en los lanzamientos a portería con una sola mano.
+
+k. Se han analizado los factores intencionales del lanzamiento que influyen en la eficacia del mismo
+
+l. Se han descrito los errores más usuales en la realización de las acciones técnico-tácticas en ataque, en esta etapa, y sus posibles causas.
+
+3\. Valora la realización de las acciones individuales de juego en defensa, analizando los aspectos mecánicos e intencionales, identificando posibles errores en su realización y relacionando los mismos con sus causas.
+
+a. Se han analizado las características del marcaje como una actividad adaptativa.
+
+b. Se han analizado los aspectos físicos e intencionales del marcaje, los errores más frecuentes y sus posibles causas.
+
+c. Se ha justificado la importancia de la actitud del defensor en el marcaje.
+
+d. Se han analizado los aspectos intencionales de los diferentes tipos de ayudas, los errores más frecuentes y sus posibles causas.
+
+e. Se han analizado las bases de la valoración técnica y táctica de las acciones de oposición al movimiento de los atacantes.
+
+f. Se ha analizado la contribución técnico-táctica de un jugador en la actividad de oponerse al movimiento de los atacantes, en un supuesto práctico debidamente caracterizado, identificando los errores y las posibles causas.
+
+g. Se han analizado los aspectos mecánicos e intencionales de los diferentes tipos de intercepciones del balón, los errores más frecuentes y sus posibles causas.
+
+h. Se han analizado los aspectos mecánicos e intencionales de las acciones de blocaje del balón, los errores más frecuentes y sus posibles causas.
+
+i. Se han analizado las bases de la valoración técnica y táctica de las acciones de oposición al movimiento del balón.
+
+j. Se ha valorado la importancia de las intercepciones de balón «dinámicas» y su contribución a la ampliación de la zona de influencia del defensor.
+
+k. Se han analizado los efectos disuasorios de las acciones defensivas de los jugadores.
+
+4\. Valora la realización de las acciones de juego del portero, analizando los aspectos mecánicos e intencionales, identificando posibles errores en su realización y relacionando los mismos con sus causas.
+
+a. Se han analizado los aspectos mecánicos de las diferentes posiciones de base del portero, los errores más frecuentes y sus posibles causas.
+
+b. Se han analizado los aspectos mecánicos de los desplazamientos del portero, los errores más frecuentes y sus posibles causas.
+
+c. Se han analizado los aspectos mecánicos de las paradas ante lanzamientos desde diferentes zonas, los errores más frecuentes y sus posibles causas.
+
+d. Se han analizado los aspectos intencionales de las acciones del portero frente a los lanzamientos, los errores más frecuentes y sus posibles causas.
+
+e. Se ha analizado la participación del portero en el repliegue defensivo, los errores más frecuentes y sus posibles causas.
+
+f. Se ha analizado la participación del portero en el contraataque y en los saques rápidos de centro, los errores más frecuentes y sus posibles causas.
+
+g. Se ha valorado la actividad del portero frente a los lanzamientos como la actividad principal y más característica de estos jugadores.
+
+Contenidos básicos
+
+1\. Identifica los fundamentos básicos del juego en balonmano, argumentando la importancia de los factores intencionales y mecánicos en el juego real y en el entrenamiento.
+
+– Las claves de la toma de decisiones en el juego:
+
+– La toma de decisiones: un proceso racional pero también intuitivo.
+
+– Importancia del inconsciente cognitivo.
+
+– La toma de decisiones: una capacidad que mejora con el entrenamiento.
+
+– La toma de decisiones: una capacidad influida por el contexto social:
+
+– La importancia de la naturaleza de los ejercicios que se proponen.
+
+– La importancia de la interactuación del entrenador con los jugadores.
+
+– La importancia de la evolución del grupo: influencia del contexto grupal y la interacción entre jugadores.
+
+– La importancia de la jerarquización de los contenidos.
+
+– Las claves de la ejecución en el juego:
+
+– La eficacia mecánica: ejecutar de forma eficaz y eficiente.
+
+– La necesidad de ejecutar las acciones de juego de forma adaptativa.
+
+– La coexistencia de estos dos requisitos en la ejecución.
+
+– Los fundamentos del trabajo para la mejora mecánica de la ejecución:
+
+– La mejora mecánica: importancia de la repetición y de los ajustes biomecánicos.
+
+– Importancia de la variedad mecánica de ejecución.
+
+– El desarrollo de la capacidad adaptativa.
+
+– Importancia de la mejora propioceptiva en el entrenamiento técnico.
+
+– Un propósito que condiciona la ejecución: la interactuación con compañeros y oponentes, y las consecuencias mecánicas de este propósito:
+
+– Disminuir el tiempo de reacción de los adversarios.
+
+– Reducir la información.
+
+– Emitir información falsa.
+
+2\. Valora la realización de las acciones individuales de juego en ataque, analizando los aspectos mecánicos e intencionales, identificando posibles errores en su realización y relacionando los mismos con sus causas.
+
+– El movimiento de balón:
+
+– Exigencias comunes y posibilidades de cada una de las formas de transportar el balón: adaptar, manejar, botar, pasar y recibir: de la seguridad a la intencionalidad.
+
+– La precisión y la seguridad: diferencia entre estos conceptos.
+
+– La adaptación y manejo del balón:
+
+– Detalles técnicos: la fluidez y naturalidad de los movimientos.
+
+– La intencionalidad: importancia de la información que se emite.
+
+– Errores intencionales y de ejecución más frecuentes y su corrección.
+
+– El bote:
+
+– La ejecución del bote: aspectos mecánicos. Errores más frecuentes en la ejecución del bote y su corrección.
+
+– La aplicación intencional del bote.
+
+– Clasificación de los botes.
+
+– Pasar y recibir el balón: el pase:
+
+– La seguridad y la precisión como referencia de la técnica del pase:
+
+– Los pases con «brazo armado» y otros tipos de pase.
+
+– Pasar en movimiento.
+
+– Pasar en todas direcciones sin variar la orientación corporal.
+
+– La ejecución de los pases: identificación de errores más frecuentes y su corrección.
+
+– Importancia de los aspectos intencionales. La táctica individual:
+
+– Saber elegir. Las bases para mejorar la elección.
+
+– Saber superar la oposición al pase.
+
+– Errores más frecuentes en la utilización intencional del pase y su corrección.
+
+– Tipos de pases. Importancia de la variedad técnica.
+
+– Pasar y recibir el balón: la recepción:
+
+– La seguridad y la precisión como referencia de la técnica de la recepción.
+
+– La importancia de los aspectos intencionales. La táctica individual.
+
+– Tipos de recepciones.
+
+– La ejecución de las recepciones: identificación de errores más frecuentes y su corrección.
+
+– La valoración de los jugadores respecto a la actividad de «mover el balón»:
+
+– Bases de la valoración técnica.
+
+– Bases de la valoración táctica.
+
+– Los movimientos de los jugadores en ataque:
+
+– Crear peligro con los desplazamientos: conquistar circunstancias buenas para lanzar a portería.
+
+– Jugar sin balón: los desmarques:
+
+– La técnica: dominio de los recursos mecánicos de los desplazamientos:
+
+– Los errores más frecuentes y su corrección.
+
+– La táctica individual: los aspectos intencionales:
+
+– La necesidad de equilibrio entre «desmarques ofensivos» y «desmarques defensivos».
+
+– Los desmarques indirectos: el aprovechamiento.
+
+– La conquista de situaciones de lanzamiento con oposición como una forma de desmarque.
+
+– Superar a los defensores estando en posesión del balón: las fintas:
+
+– Fases en la ejecución de la finta.
+
+– La técnica: importancia de los condicionantes reglamentarios.
+
+– La mejora intencional de las fintas: la importancia de evitar los procesos hiperreflexivos (predominio de los procesos intuitivos).
+
+– Tipos de fintas.
+
+– La conquista de situaciones de lanzamiento con oposición.
+
+– Las fijaciones: mejorar las circunstancias de los compañeros de ataque.
+
+– Fijaciones pares y fijaciones impares:
+
+– Consecuencias colectivas de ambas.
+
+– Aprovechar el trabajo de los compañeros de ataque.
+
+– Abordar el juego 1x1 de forma global:
+
+– Los aspectos intencionales en el juego 1x1.
+
+– La adaptación a las exigencias colectivas.
+
+– La valoración de los jugadores respecto a la actividad de «moverse en ataque»:
+
+– Bases de la valoración técnica.
+
+– Bases de la valoración táctica.
+
+– Los lanzamientos.
+
+– El aumento de la capacidad de lanzamiento:
+
+– Aumentar el campo de acción: conseguir eficacia desde zonas cada vez más amplias.
+
+– Conseguir eficacia en posiciones corporales cada vez menos favorables.
+
+– Conseguir eficacia superando más oposición.
+
+– Valorar y mejorar el lanzamiento en la etapa de tecnificación:
+
+– Valorar y mejorar las circunstancias del lanzamiento en el instante previo a la ejecución.
+
+– Valorar y mejorar la ejecución:
+
+– La mejora de la potencia y la precisión. Importancia de los aspectos mecánicos evolucionados:
+
+ü Amplitud de palancas (armado de brazo).
+
+ü La sincronía en la ejecución: encadenar movimientos.
+
+– La mejora de la técnica/táctica evolucionada:
+
+ü La variedad de localización y de ejecución.
+
+ü La observación: observar en dos planos.
+
+ü La sorpresa: la intención de sorprender.
+
+– Valorar y mejorar el lanzamiento en circunstancias reales de juego.
+
+3\. Valora la realización de las acciones individuales de juego en defensa, analizando los aspectos mecánicos e intencionales, identificando posibles errores en su realización y relacionando los mismos con sus causas.
+
+– Oponerse al movimiento de los atacantes:
+
+– El marcaje: una actividad adaptativa.
+
+– Elementos físicos que definen el marcaje en la etapa de Tecnificación:
+
+– La situación.
+
+– La distancia al oponente.
+
+– La orientación.
+
+– El gesto: posición básica (de intervención inmediata) y posición de economía de esfuerzo.
+
+– Los detalles específicos del marcaje al jugador con balón.
+
+– Aspectos intencionales que influyen en el marcaje: la actitud, la anticipación y la reacción como posibilidades extremas.
+
+– Condicionantes permanentes del marcaje.
+
+– Condicionantes variables del marcaje.
+
+– Las ayudas: amortizar situaciones desfavorables.
+
+– Asumir situaciones de desventaja numérica defensiva. Defender 1x2:
+
+– Defender 1x2 en situaciones imprevistas.
+
+– Defender 1x2 en situaciones previsibles.
+
+– Los aspectos intencionales de las ayudas:
+
+– Las ayudas obligatorias y las ayudas opcionales.
+
+– La importancia de la actitud.
+
+– Tipos de Ayudas:
+
+– Ayudas ante los errores defensivos de los compañeros.
+
+– Ayudas previas a los errores.
+
+– La valoración de los jugadores respecto a la actividad de «Oponerse al movimiento de los atacantes»:
+
+– Bases de la valoración técnica:
+
+– El equilibrio y las posiciones de base.
+
+– Los desplazamientos en posición de base y en forma de carrera.
+
+– Bases de la valoración Táctica:
+
+– La eficacia en el 1x1.
+
+– La capacidad de ayudar.
+
+– Errores más frecuentes en la oposición al movimiento de los atacantes y su corrección.
+
+– Oponerse al movimiento del balón:
+
+– Las intercepciones: recuperar el balón, disuadir el movimiento de la pelota.
+
+– Los aspectos mecánicos relevantes en las intercepciones.
+
+– Los aspectos intencionales de las intercepciones:
+
+– Defender la propia zona.
+
+– Atacar balones lejanos.
+
+– La disuasión como consecuencia y como arma.
+
+– La adaptación a la propia «zona potencial».
+
+– Tipos de interceptaciones: estáticas y dinámicas.
+
+– Los blocajes:
+
+– Importancia de esta tarea en el juego defensivo.
+
+– Los aspectos mecánicos de los blocajes.
+
+– Los aspectos intencionales de los blocajes: la distancia al atacante como elemento esencial para decidir.
+
+– La disuasión al lanzamiento como consecuencia de la capacidad de blocaje.
+
+– La valoración de los jugadores respecto a la actividad de «Oponerse al movimiento del balón»:
+
+– Bases de la valoración técnica.
+
+– Bases de la valoración táctica: la adaptación al «espacio potencial»
+
+– Errores más frecuentes en la oposición al movimiento del balón y su corrección.
+
+4\. Valora la realización de las acciones de juego del portero, analizando los aspectos mecánicos e intencionales, identificando posibles errores en su realización y relacionando los mismos con sus causas.
+
+– Las acciones defensivas del portero.
+
+– Las acciones frente a los lanzamientos:
+
+– Los aspectos mecánicos:
+
+– La posición de base. General y específica:
+
+– Errores más frecuentes en la posición de base.
+
+– Los desplazamientos:
+
+– Consideraciones generales.
+
+– Consideraciones específicas en función de la zona de lanzamiento.
+
+– Errores más frecuentes en los desplazamientos.
+
+– Las paradas:
+
+– La técnica ante lanzamientos exteriores.
+
+– La técnica ante lanzamientos de pivotes.
+
+– La técnica ante lanzamientos con poco ángulo de tiro.
+
+– Errores más frecuentes en las paradas.
+
+– Los aspectos intencionales:
+
+– Aspectos intencionales generales:
+
+– La importancia del entrenamiento táctico del portero de balonmano.
+
+– La mejora de la capacidad perceptiva.
+
+– Elementos para facilitar la toma de decisiones.
+
+– Actuación en función de los estímulos de juego:
+
+– Consideraciones tácticas elementales ante lanzamientos a distancia.
+
+– Consideraciones tácticas elementales ante lanzamientos en proximidad.
+
+– Errores tácticos más frecuentes.
+
+– Otras acciones defensivas del portero:
+
+– La participación en el repliegue defensivo:
+
+– La disuasión:
+
+– Consideraciones técnicas.
+
+– Consideraciones reglamentarias.
+
+– Las interceptaciones:
+
+– Consideraciones técnicas.
+
+– Consideraciones reglamentarias.
+
+– Errores más frecuentes del portero en el repliegue defensivo.
+
+– Acciones ofensivas del portero:
+
+– Los saques de portería:
+
+– Consideraciones generales.
+
+– Consideraciones específicas:
+
+– El contraataque directo.
+
+– El primer pase en contraataques no directos.
+
+– El contra-gol.
+
+– La participación en el ataque:
+
+– Como apoyo en el contraataque o en el ataque posicional.
+
+– Como séptimo jugador de ataque.
+
+– Errores ofensivos más frecuentes en el portero.
+
+> Se numera este módulo como Anexo III.g por el art. 11.8.h) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.h — Módulo específico de enseñanza deportiva: El juego colectivo en balonmano. Código: MED-BMBM202
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora la realización de las acciones coordinadas entre dos o más jugadores en el juego de ataque, analizando los aspectos tácticos, identificando posibles errores en su realización y relacionando los mismos con sus causas.
+
+a. Se han explicado las ventajas numéricas espaciales y temporales que se pueden conseguir en el ataque a través del juego coordinado entre dos o más jugadores.
+
+b. Se han analizado las ventajas colectivas que se pueden derivar de las acciones individuales de ataque de los jugadores.
+
+c. Se han analizado los aspectos tácticos del juego colectivo que influyen en la resolución positiva de las situaciones momentáneas o permanentes de superioridad numérica ofensiva.
+
+d. Se han analizado los distintos tipos de acciones coordinadas entre dos o más jugadores (medios tácticos) que se utilizan en el juego de ataque para generar ventajas numéricas, espaciales o temporales.
+
+e. Se ha valorado la importancia de las acciones coordinadas como base del trabajo táctico.
+
+f. Se han analizado las ventajas colectivas de los medios tácticos vinculados con los desplazamientos y las fijaciones, los errores más frecuentes y su corrección.
+
+g. Se han analizado las ventajas colectivas de los medios tácticos vinculados al contacto con el defensor, los errores más frecuentes y su corrección.
+
+h. Se han descrito los errores más usuales en la realización de cada uno de los medios tácticos colectivos de ataque, en esta etapa, y sus posibles causas.
+
+2\. Elabora sistemas de juego en ataque, analizando las bases sobre las que se sustenta el sistema de juego ofensivo y analizando el uso de los diversos recursos individuales y medios tácticos.
+
+a. Se han identificado las bases de la creación de un sistema de ataque en balonmano.
+
+b. Se ha valorado la necesidad de amenazar de forma constate tanto en anchura como en profundidad la «zona eficaz», como la referencia básica en la determinación de la estructura de un sistema de ataque.
+
+c. Se han analizado los posibles de cambios de estructura en el desarrollo de un Sistema de Ataque y sus consecuencias.
+
+d. Se han descrito los puestos específicos de los jugadores dentro de un sistema de ataque, así como la nomenclatura y simbología que se utiliza respecto a los mismos.
+
+e. Se ha establecido la relación entre velocidad colectiva de movimiento de balón y las acciones individuales de los jugadores en el ataque, valorando la importancia de no aumentar la velocidad a costa de disminuir la amenaza.
+
+f. Se han descrito los recursos colectivos en relación al movimiento de balón en un sistema de ataque.
+
+g. Se han analizado las características del sistema de ataque en relación con la intencionalidad del movimiento de los jugadores, los errores más frecuentes y su corrección.
+
+h. Se han identificado las ventajas e inconvenientes de un sistema de ataque en función de la relación entre su estructura, el movimiento colectivo del balón y el de los jugadores; con las características de los propios jugadores, los adversarios y el sistema defensivo al que hay que enfrentarse.
+
+i. Se han determinado las características estructurales del movimiento del balón, y de los jugadores, en una situación real de sistema de ataque.
+
+j. Se han descrito los errores más frecuentes en la construcción de un sistema de ataque y su corrección.
+
+3\. Valora la realización de las acciones coordinadas entre dos o más jugadores en el juego de defensa, analizando los aspectos tácticos, identificando posibles errores en su realización y relacionando los mismos con sus causas.
+
+a. Se ha analizado la diferencia entre los conceptos de «ayuda» y «colaboración».
+
+b. Se ha valorado la necesidad de la utilización de los conceptos de «ayuda» y «colaboración» en la construcción del juego colectivo defensivo en balonmano.
+
+c. Se han analizado las ayudas que son obligatorias en cualquier forma colectiva de defensa y otras en que no lo son siempre.
+
+d. Se ha valorado la importancia del aumento de eficacia en las situaciones de inferioridad numérica simple en la defensa.
+
+e. Se han analizado los medios tácticos de colaboración entre defensores ante cruces y permutas de los atacantes.
+
+f. Se han analizado los medios tácticos de colaboración entre defensores ante bloqueos de los atacantes.
+
+g. Se han descrito los errores más usuales en la realización de cada uno de los medios tácticos colectivos de defensa, en esta etapa, y sus posibles causas.
+
+4\. Elabora sistemas de juego en defensa, analizando las bases sobre las que se sustenta el juego defensivo y analizando el uso de los diversos recursos individuales y medios tácticos.
+
+a. Se han identificado las bases de la creación de un sistema de defensivo en balonmano.
+
+b. Se han analizado los criterios básicos en la determinación de una estructura defensiva.
+
+c. Se han analizado las características de las estructuras defensivas zonales, las características de los puestos específicos que las forman y la nomenclatura y simbología que las describe.
+
+d. Se han analizado las características de las estructuras defensivas individuales y la nomenclatura y la simbología que las describe.
+
+e. Se han analizado las características de las estructuras defensivas mixtas, las características de los puestos específicos que las forman y la nomenclatura y simbología que las describe.
+
+f. Se han analizado las diferencias entre los sistemas defensivos, en relación con la utilización de las ayudas y los medios tácticos de colaboración.
+
+g. Se ha valorado la importancia de las tendencias intencionales de los jugadores en su actividad frente a los oponentes, en la definición de los sistemas de juego defensivos.
+
+h. Se han identificado las ventajas e inconvenientes de un sistema defensivo en función de la relación entre su estructura, el movimiento colectivo del balón y el de los jugadores, con las características de los propios jugadores, los adversarios y el sistema de ataque al que hay que enfrentarse.
+
+i. Se han determinado las características estructurales, el funcionamiento colectivo y las tendencias intencionales en una situación real de sistema defensivo.
+
+j. Se han descrito los errores más frecuentes en la construcción de un sistema defensivo y su corrección.
+
+Contenidos básicos
+
+1\. Valora la realización de las acciones coordinadas entre dos o más jugadores en el juego de ataque, analizando los aspectos tácticos, identificando posibles errores en su realización y relacionando los mismos con sus causas.
+
+– Las ventajas que se pretenden conseguir a través del juego colectivo en el ataque:
+
+– Ventajas numéricas de jugadores en zona eficaz.
+
+– Ventajas espaciales.
+
+– Consecuencias tácticas colectivas de las acciones individuales:
+
+– Fijaciones pares:
+
+– Ampliaciones de espacio.
+
+– Cruce para provocar el error en el cambio de oponentes.
+
+– Fijaciones impares:
+
+– Generar y aprovechar los desmarques indirectos.
+
+– Utilización táctica de las fijaciones: identificación de los errores más frecuentes y su corrección.
+
+– La resolución táctica de situaciones de superioridad numérica:
+
+– Simples (2x1, 3x2).
+
+– Complejas:
+
+– Simplificar la situación hasta liberar a un jugador:
+
+– Las penetraciones sucesivas como medio importante de aprovechamiento de las situaciones de ventaja.
+
+– Ganar espacio.
+
+– Los errores más frecuentes en la resolución táctica de situaciones de superioridad numérica y su corrección.
+
+– La utilización de acciones coordinadas entre dos o más jugadores para generar ventajas ofensivas: los medios tácticos colectivos en ataque.
+
+– Los medios tácticos basados en desplazamientos y fijaciones:
+
+– El pase y va: la utilización en las diferentes fases del ataque
+
+– Los cruces:
+
+– Los cruces fijando a un defensor:
+
+– Por delante del jugador con balón:
+
+ü Por delante de los defensores.
+
+ü A la espalda de los defensores.
+
+– Por detrás del jugador con balón.
+
+– Las permutas de puestos. Los errores más frecuentes en la realización de cruces y permutas y su corrección.
+
+– Las cortinas. Los errores más frecuentes en la realización de las cortinas y su corrección.
+
+– Los medios tácticos basados en el contacto físico con los defensores:
+
+– Los bloqueos.
+
+– Los bloqueos según su intención táctica:
+
+– Bloqueos en primera línea para ganar un espacio.
+
+– Bloqueos para liberar a un compañero: la acción posterior, los bloqueos dinámicos.
+
+– Bloqueos exteriores (o bloqueos largos).
+
+– Los bloqueos según su forma de ejecución.
+
+– Los errores más frecuentes en la realización de los diferentes tipos de bloqueos y su corrección.
+
+– Las pantallas. Los errores más frecuentes en la realización de las pantallas y su corrección.
+
+2\. Elabora sistemas de juego en ataque, analizando las bases sobre las que se sustenta el sistema de juego ofensivo y analizando el uso de los diversos recursos individuales y medios tácticos.
+
+– Bases de los sistemas ofensivos:
+
+– La estructura del sistema.
+
+– La intencionalidad colectiva del movimiento del balón.
+
+– La intencionalidad colectiva del movimiento de los jugadores.
+
+– La estructura de los sistemas de ataque:
+
+– Estructuras utilizadas de forma más habitual:
+
+– La estructura 3:3.
+
+– La estructura 2:4.
+
+– La estructura 3:3 con dos pivotes.
+
+– Los cambios de estructura durante el ataque: transformaciones del sistema.
+
+– Los puestos específicos de los jugadores en la estructura: nomenclatura y simbología.
+
+– La elección de una estructura.
+
+– Ejemplos prácticos de modelos de estructuras en diferentes equipos.
+
+– Los errores más frecuentes en la determinación de una estructura para el sistema y su corrección.
+
+– La intencionalidad colectiva del movimiento del balón:
+
+– La importancia de la circulación colectiva del balón.
+
+– Los recursos colectivos de movimiento de balón para degradar la efectividad de la defensa.
+
+– La determinación de las características del sistema respecto al movimiento del balón.
+
+– Ejemplos prácticos de modelos de movimiento colectivo de balón en diferentes equipos.
+
+– Los errores más frecuentes en la determinación del movimiento colectivo de balón para el sistema y su corrección.
+
+– La intencionalidad colectiva del movimiento de los jugadores:
+
+– Ataques «estáticos» (que mantienen las posiciones de los jugadores). Ventajas e inconvenientes de este tipo de ataques.
+
+– Ataques «circulantes» (que programan cambios de puestos frecuentes en mayor o menor medida). Ventajas e inconvenientes de este tipo de ataques.
+
+– La determinación de las características del sistema respecto al movimiento de jugadores:
+
+– En función de los propios jugadores.
+
+– En función de sistema defensivo que presenta el adversario.
+
+– Ejemplos prácticos de modelos de movimiento colectivo de balón en diferentes equipos.
+
+– Los errores más frecuentes en la determinación del movimiento colectivo de jugadores para el sistema y su corrección.
+
+– La combinación de estructura, carácter del movimiento de balón y carácter del movimiento de los jugadores para la determinación de un sistema de juego.
+
+– La valoración de un sistema colectivo de ataque:
+
+– La idoneidad en relación a las capacidades de los jugadores propios.
+
+– La idoneidad en relación a la defensa que se debe atacar:
+
+– Las capacidades individuales de los adversarios.
+
+– Las características del sistema defensivo que debemos atacar.
+
+3\. Valora la realización de las acciones coordinadas entre dos o más jugadores en el juego de defensa, analizando los aspectos tácticos, identificando posibles errores en su realización y relacionando los mismos con sus causas.
+
+– Diferencia entre los conceptos de «ayuda» y «colaboración».
+
+– Las ayudas:
+
+– Las ayudas obligatorias en cualquier forma de defensa: Ayudas ante el error.
+
+– Las ayudas optativas: ayudas previas al error.
+
+– Ayudar en el trabajo frente al movimiento de los defensores.
+
+– Ayudar en el trabajo frente al balón:
+
+– Ayudar frente al transporte de balón.
+
+– Ayudar frente a los lanzamientos.
+
+– Influencia en la construcción del juego colectivo defensivo en balonmano.
+
+– Importancia de la necesidad de aumentar la capacidad de defender en inferioridad numérica:
+
+– La capacidad de actuación en las situaciones de inferioridad numérica previsibles.
+
+– La capacidad de actuación en las situaciones de inferioridad numérica imprevistas.
+
+– Identificación de los errores más frecuentes en la defensa en inferioridad numérica y su corrección.
+
+– La colaboración entre defensores: los medios tácticos defensivos:
+
+– Los medios para contrarrestar permutas y cruces ofensivos:
+
+– Los deslizamientos: aspectos mecánicos e intencionales:
+
+– Identificación de los errores más frecuentes en los deslizamientos y su corrección.
+
+– Los cambios de oponente: aspectos mecánicos e intencionales:
+
+– Identificación de los errores más frecuentes en los cambios de oponente y su corrección.
+
+– Los medios para contrarrestar los bloqueos:
+
+– Aspectos mecánicos e intencionales.
+
+4\. Elabora sistemas de juego en defensa, analizando las bases sobre las que se sustenta el juego defensivo y analizando el uso de los diversos recursos individuales y medios tácticos:
+
+– Bases de los sistemas defensivos:
+
+– La estructura del sistema.
+
+– Las pautas de funcionamiento colectivo.
+
+– Las tendencias intencionales en el trabajo frente a los atacantes.
+
+– La estructura de los sistemas de defensa:
+
+– Criterios para el diseño de una estructura defensiva:
+
+– La defensa del espacio: proteger la «zona eficaz».
+
+– El control de los atacantes.
+
+– Criterios mixtos.
+
+– Las defensas zonales:
+
+– La distribución espacial de los defensores:
+
+– Distribución en una o varias líneas:
+
+ü Distribuciones tradicionales: 6:0, 5:1, 3:3, 3:2:1, 4:2.
+
+ü La nomenclatura y simbología de los sistemas zonales.
+
+– El reparto de responsabilidades: el control de los atacantes a partir de la estructura elegida.
+
+– Los errores más frecuentes en la determinación de una estructura zonal para el sistema y su corrección.
+
+– Las defensas individuales:
+
+– La tendencia: evitar cambios de oponentes.
+
+– La asignación de oponentes.
+
+– Nomenclatura y terminología de los sistemas individuales.
+
+– Los errores más frecuentes en la determinación de una estructura individual para el sistema y su corrección.
+
+– Las defensas mixtas:
+
+– La utilización combinada de criterios.
+
+– Estructuras mixtas tradicionales: 5+1 mixta, 4+2 mixta, 4:1 +1.
+
+– Los errores más frecuentes en la determinación de una estructura mixta para el sistema y su corrección.
+
+– Las pautas de funcionamiento colectivo:
+
+– Normas sobre la realización colectiva de ayudas previas al error:
+
+– La búsqueda de superioridad numérica defensiva en zona de balón: la densidad defensiva:
+
+– La basculación defensiva.
+
+– Las defensas en «línea de tiro»: defensas individualizadas.
+
+– Normas sobre la utilización de medios tácticos de colaboración.
+
+– Los errores más frecuentes en el funcionamiento colectivo y su corrección.
+
+– Las tendencias intencionales en el trabajo frente a los atacantes:
+
+– Las defensas de tendencia anticipativa.
+
+– Las defensas de tendencia reactiva.
+
+– La utilización combinada de la anticipación y la reacción:
+
+– Según los puestos específicos.
+
+– Según las características individuales de los jugadores.
+
+– La variación intencional de ambos criterios.
+
+– En cada jugador.
+
+– En la organización del conjunto.
+
+– Los errores más frecuentes en el planteamiento intencional y su corrección.
+
+– La valoración de un sistema colectivo de defensa:
+
+– La idoneidad en relación a las capacidades de los jugadores propios.
+
+– La idoneidad en relación al ataque que se debe defender:
+
+– Las capacidades individuales de los adversarios.
+
+– Las características del sistema de ataque al que nos enfrentamos.
+
+> Se numera este módulo como Anexo III.h por el art. 11.8.i) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.i — Módulo específico de enseñanza deportiva: Metodología en la etapa de tecnificación en balonmano. Código: MED-BMBM203
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Elabora tareas de enseñanza-entrenamiento de las acciones en ataque y en defensa, analizando y manejando los aspectos mecánicos e intencionales más relevantes, y aplicando criterios de integración de dichos aspectos.
+
+a. Se han analizado los fundamentos en los que se apoya el entrenamiento intencional, tanto a la hora de diseñar las situaciones de enseñanza-entrenamiento como al planificar la intervención del entrenador.
+
+b. Se han analizado los fundamentos en los que se apoya el entrenamiento de mejora de la realización de las acciones de juego de forma adaptativa.
+
+c. Se han analizado los criterios de utilización de los factores mecánicos e intencionales en la elaboración de las situaciones de enseñanza-entrenamiento del transporte de balón.
+
+d. Se han analizado los criterios de utilización de los factores mecánicos e intencionales en la elaboración de las situaciones de enseñanza-entrenamiento de los movimientos de los jugadores en ataque.
+
+e. Se han analizado los criterios de utilización de los factores mecánicos e intencionales en la elaboración de las situaciones de enseñanza-entrenamiento del lanzamiento.
+
+f. Se han analizado los criterios de utilización de los factores mecánicos e intencionales en la elaboración de las situaciones de enseñanza-entrenamiento del marcaje.
+
+g. Se han analizado los criterios de utilización de los factores mecánicos e intencionales en la elaboración de las situaciones de enseñanza-entrenamiento de las ayudas y las situaciones 1 contra 2 (inferioridad numérica).
+
+h. Se han analizado los criterios de utilización de los factores mecánicos e intencionales en la elaboración de las situaciones de enseñanza-entrenamiento de las interceptaciones estáticas, dinámicas y blocajes.
+
+i. Se han analizado los criterios de integración de alguna o todas las acciones de ataque o de defensa en las tareas de enseñanza-entrenamiento.
+
+j. Se han elaborado tareas de enseñanza-entrenamiento, donde se integren aspectos mecánicos e intencionales, de las diferentes acciones del ataque y de defensa.
+
+k. Se ha valorado la importancia de entrenar las acciones de manera conjunta, en circunstancias progresivamente más cercanas al juego real.
+
+2\. Elabora y dirige la sesión de enseñanza-entrenamiento, en la etapa de tecnificación, analizando las características de la sesión y del conocimiento de los resultados en esta etapa, y aplicando procedimientos de dinamización y estrategias de dirección.
+
+a. Se ha analizado la estructura y características de los diferentes tipos de sesión de enseñanza-entrenamiento en la etapa de tecnificación en balonmano.
+
+b. Se han analizado los principios metodológicos relacionados con la elaboración y organización de sesiones de enseñanza-entrenamiento en la etapa de tecnificación en balonmano.
+
+c. Se han clasificado los objetivos y principios fundamentales de la organización de la sesión de balonmano en la etapa de tecnificación en función de los objetivos programados.
+
+d. Se han elaborado y justificado la progresión de tareas y la cuantificación de la carga, en un supuesto práctico basado de una sesión de enseñanza-entrenamiento, debidamente caracterizado, en el que se establezcan el objetivo u objetivos de la sesión y la programación de referencia.
+
+e. Se han analizado las características de los diferentes tipos y formas de realizar el conocimiento de resultados en la etapa de tecnificación en balonmano, y su idoneidad en función de los objetivos programados.
+
+f. Se han clasificado las estrategias de dirección en función de su relación con los objetivos de la sesión y las características de las tareas.
+
+g. Se ha dirigido un supuesto práctico de sesión de enseñanza-entrenamiento, debidamente caracterizado, para la etapa de tecnificación, en el que:
+
+i. Organiza el grupo de manera eficaz.
+
+ii. Aplica conocimientos de los resultados, adecuados a los objetivos presentados.
+
+iii. Aplica habilidades sociales y estrategias de liderazgo
+
+h. Se ha valorado la importancia de realizar conocimiento de los resultados durante la sesión de enseñanza-entrenamiento en la etapa de tecnificación.
+
+3\. Programa unidades de contenidos en la iniciación y la tecnificación en balonmano, analizando la estructura y características de la unidad de contenidos, y los criterios de secuenciación de objetivos, tareas y medios en estas etapas y la programación de referencia.
+
+a. Se ha analizado la estructura de los diferentes tipos de unidades de contenidos en los programas de iniciación y tecnificación en balonmano.
+
+b. Se han analizado los principios metodológicos relacionados con la elaboración de unidades de contenidos en la etapa de iniciación y de tecnificación en balonmano, tomando como base la planificación de referencia.
+
+c. Se han analizado los objetivos y tareas a desarrollar en la formación técnico- táctica individual y su secuenciación en las etapas de iniciación y tecnificación en balonmano.
+
+d. Se han analizado los objetivos y tareas a desarrollar en la formación táctica colectiva y su secuenciación en las etapas de iniciación y tecnificación en balonmano.
+
+e. Se ha elaborado una unidad de contenidos técnico-tácticos individuales, de la etapa de iniciación y de tecnificación en balonmano, definiendo y secuenciando tareas en relación a las directrices de la formación del jugador en cada etapa, a partir de la planificación de referencia.
+
+f. Se ha elaborado una unidad de contenidos tácticos colectivos, de la etapa de tecnificación en balonmano, secuenciando los conjuntos de tareas en relación a las directrices del juego colectivo en esta etapa, a partir de la planificación de referencia.
+
+g. Se ha valorado la importancia de la programación como elemento director de la formación del jugador en las etapas de iniciación y tecnificación.
+
+4\. Dirige al equipo en el entrenamiento y las competiciones en la etapa de tecnificación, identificando los aspectos normativos y reglamentarios, interpretando los factores relacionados con la dinámica del grupo y aplicando estrategias específicas de dirección en esta etapa.
+
+a. Se ha descrito la normativa aplicable a las competiciones de balonmano en la etapa de tecnificación.
+
+b. Se han identificado los aspectos reglamentarios del juego relacionados con la competición.
+
+c. Se han identificado los aspectos disciplinarios en balonmano.
+
+d. Se ha valorado la importancia de la competición en la etapa de tecnificación, como parte del proceso formativo.
+
+e. Se han analizado las características psicológicas de los miembros del grupo en relación a las propias de la edad de tecnificación.
+
+f. Se han analizado las relaciones que se establecen dentro del grupo, con el entrenador y con el entorno, en el equipo en la etapa de tecnificación en balonmano.
+
+g. Se han analizado los aspectos individuales y colectivos sobre los que se debe incidir en la dirección de la competición en la etapa de tecnificación en balonmano.
+
+h. Se han caracterizado las estrategias de dirección de la competición en la etapa de tecnificación en balonmano.
+
+i. Se ha dirigido a un equipo, adaptando el comportamiento y la intervención al desarrollo de la competición, en un supuesto práctico de partido de balonmano, debidamente caracterizado en el que se simulan las situaciones de dirección más habituales.
+
+Contenidos básicos
+
+1\. Elabora tareas de enseñanza-entrenamiento de las acciones en ataque y en defensa, analizando y manejando los aspectos mecánicos e intencionales más relevantes, y aplicando criterios de integración de dichos aspectos.
+
+– El entrenamiento del transporte del balón:
+
+– El diseño de ejercicios de adaptación y manejo del balón.
+
+– El diseño de ejercicios para mejorar el bote.
+
+– El diseño de ejercicios de pases y recepciones.
+
+– El entrenamiento de los movimientos de los jugadores en ataque:
+
+– El diseño de ejercicios de mejor mecánica de los desplazamientos como soporte del trabajo técnico de los desmarques y las fintas.
+
+– El diseño de ejercicios para la mejora intencional de los desmarques.
+
+– El diseño de ejercicios para la mejora de las fintas.
+
+– El diseño de ejercicios para el aprovechamiento sistemático de las fijaciones.
+
+– El entrenamiento de los lanzamientos:
+
+– El diseño de ejercicios para mejorar las circunstancias del lanzamiento en el instante previo a la ejecución.
+
+– El diseño de ejercicios para la mejora de la ejecución
+
+– El diseño de ejercicios para la integración de varias o todas las tareas del ataque:
+
+– Como variar la complejidad respecto a las tareas integradas.
+
+– Como variar la complejidad técnica/táctica.
+
+– Como variar el acento respecto a las tareas integradas.
+
+– Como variar el acento técnico/táctico.
+
+– El diseño de ejercicios para mejorar el marcaje:
+
+– El trabajo sobre aspectos mecánicos.
+
+– El trabajo sobre aspectos intencionales.
+
+– El diseño de ejercicios para mejorar las ayudas:
+
+– El trabajo sobre aspectos mecánicos.
+
+– El trabajo sobre aspectos intencionales.
+
+– El aumento de la eficacia en situaciones de inferioridad numérica.
+
+– El diseño de ejercicios para mejorar las interceptaciones de balón:
+
+– El trabajo sobre aspectos mecánicos.
+
+– El trabajo sobre aspectos intencionales.
+
+– El diseño de ejercicios para mejora de los blocajes de balón:
+
+– El trabajo sobre aspectos mecánicos.
+
+– El trabajo sobre aspectos intencionales.
+
+– El diseño de ejercicios para la integración de varias o todas las tareas de la defensa:
+
+– Como variar la complejidad respecto a las tareas integradas.
+
+– Como variar la complejidad técnica/táctica.
+
+– Como variar el acento respecto a las tareas integrada.
+
+– Como variar el acento técnico/táctico.
+
+2\. Elabora y dirige la sesión de enseñanza-entrenamiento, en la etapa de tecnificación, analizando las características de la sesión y del conocimiento de los resultados en esta etapa, y aplicando procedimientos de dinamización, estrategias de dirección.
+
+– Estructura de las sesiones de tecnificación en balonmano:
+
+– Tipos de sesiones.
+
+– Fases de la sesión.
+
+– Necesidades materiales.
+
+– Técnicas de organización y control del grupo.
+
+– Aspectos relevantes en la organización de la sesión de enseñanza entrenamiento en la etapa de tecnificación:
+
+– Metodología básica.
+
+– Determinación de objetivos.
+
+– Establecimiento de la progresión metodológica dentro de la sesión:
+
+– Principios y orientaciones.
+
+– Secuenciación de tareas.
+
+– Aspectos relevantes en la dirección de las tareas programadas. La intervención del entrenador:
+
+– Comunicación del entrenador durante la sesión.
+
+– Priorización de los objetivos de cada ejercicio.
+
+– Estrategias de dirección y conocimiento de resultados en la etapa de tecnificación, en función de la naturaleza de las tareas.
+
+– Comportamiento del entrenador:
+
+– Liderazgo.
+
+– Habilidades sociales.
+
+3\. Programa unidades de contenidos en la iniciación y la tecnificación en balonmano, analizando la estructura y características de la unidad de contenidos, y los criterios de secuenciación de objetivos, tareas y medios en estas etapas y la programación de referencia.
+
+– Características principales de los jugadores en la etapa de tecnificación
+
+– Fases de desarrollo del jugador de balonmano en las etapas de iniciación y de tecnificación.
+
+– Elementos de la planificación de referencia en las etapas de tecnificación: objetivos, tareas y medios.
+
+– La estructura de los diferentes tipos de unidades de contenidos en los programas de iniciación y tecnificación en balonmano.
+
+– Elaboración de la unidad de contenidos:
+
+– Formulación de objetivos formativos en la etapa de tecnificación: acciones técnico-tácticas individuales y colectivas de ataque y de defensa.
+
+– Principios metodológicos de la programación de unidades de contenidos:
+
+– Tipos de tareas.
+
+– Secuenciación de objetivos, contenidos y medios.
+
+– Integración de los diferentes tipos de tareas.
+
+4\. Dirige al equipo en el entrenamiento y las competiciones en la etapa de tecnificación, identificando los aspectos normativos y reglamentarios, interpretando los factores relacionados con la dinámica del grupo y aplicando estrategias específicas de dirección en esta etapa.
+
+– Reglamento y normativa:
+
+– Características de la competición en la etapa de tecnificación.
+
+– Normativa de la competición en la edad de tecnificación.
+
+– Reglamento de juego.
+
+– Reglamento de Régimen Disciplinario.
+
+– El equipo de balonmano:
+
+– Valoración de las características psicosociales de los jugadores del equipo en la etapa de tecnificación.
+
+– El grupo deportivo en la etapa de tecnificación.
+
+– Dirección de entrenamiento y competición:
+
+– Estrategias de dirección de equipo en la etapa de tecnificación:
+
+– El jugador y el grupo.
+
+– Relación entre dirección y naturaleza de la tarea.
+
+– Directrices previas.
+
+– Comunicación durante el partido. Tiempos muertos.
+
+– Conocimiento de los resultados tras la competición.
+
+– La competición como medio fundamental de desarrollo del jugador de balonmano.
+
+> Se numera este módulo como Anexo III.i por el art. 11.8.j) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.j — Módulo específico de enseñanza deportiva: Preparación física del balonmano. Código: MED-BMBM204
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora la importancia de la condición física en balonmano, identificando las conductas motrices específicas de las que depende su rendimiento en función del género y de la etapa evolutiva tanto en entrenamiento como en competición, aplicando pruebas y test de campo, y analizando sus resultados.
+
+a. Se han identificado las capacidades condicionales y coordinativas de las que depende la condición física específica del jugador de balonmano en función del género y de la etapa evolutiva.
+
+b. Se han descrito las características de las capacidades condicionales de las que depende la condición física específica del balonmano.
+
+c. Se han identificado las conductas motrices específicas del balonmano.
+
+d. Se han aplicado, en un supuesto práctico debidamente caracterizado, test y pruebas específicas de valoración de las capacidades condicionales de las que depende la condición física específica del balonmano.
+
+e. Se han descrito las normas de seguridad que se deben observar durante la realización de un test o pruebas específicas de valoración de las capacidades condicionales de las que depende la condición física específica del balonmano.
+
+f. Se han reconocido e interpretado signos indicadores de riesgo antes y durante la ejecución de las pruebas o test específicos de valoración de las capacidades condicionales de las que depende la condición física específica del balonmano.
+
+g. Se han elaborado instrumentos de recogida de la información sobre la condición física específica del balonmano durante el entrenamiento y la competición.
+
+h. Se han descrito los conceptos estadísticos básicos necesarios, seleccionado las técnicas de tratamiento de datos para procesar la información obtenida en la valoración de la condición física, y analizado los cambios obtenidos en las diferentes mediciones.
+
+i. Se ha interiorizado la necesidad de transmitir la información sobre la valoración de los deportistas de forma eficaz, discreta y reforzando su autoestima.
+
+2\. Adapta y concreta ciclos, sesiones y ejercicios de preparación física en balonmano, analizando la programación de referencia y la relación entre el trabajo técnico-táctico y el de condición física, la metodología, los medios específicos de entrenamiento y aplicando procedimientos adecuados
+
+a. Se han identificado las funciones de los instrumentos y medios de control de la condición física dentro de la programación de referencia.
+
+b. Se han relacionado los medios específicos de mejora de la condición física del balonmano con los objetivos de la programación de referencia.
+
+c. Se han explicado las características de los ejercicios y métodos de desarrollo de las capacidades condicionales de las que depende la condición física del balonmano en estas etapas.
+
+d. Se han seleccionado los sistemas de cuantificación de la carga y definido los factores que la modifican en los métodos específicos de desarrollo de la condición física del balonmano.
+
+e. Se han seleccionado los parámetros de la carga adecuados a los objetivos de los ejercicios que forman la sesión de condición física del balonmano, en función del género y etapa evolutiva.
+
+f. Se ha detallado un ciclo de preparación física completo de un equipo de balonmano, concretando, entre otros, objetivos, medios, métodos, ejercicios, instrumentos de control y dinámica de las cargas, a partir de un supuesto práctico debidamente caracterizado en el que se establece la programación de referencia y los objetivos de la misma.
+
+g. Se ha vinculado la evolución de un equipo de balonmano con los objetivos previamente establecidos, verificando que el programa de entrenamiento se ajusta a los mismos.
+
+h. Se ha asumido la programación como factor de eficacia y calidad en la planificación del entrenamiento de la condición física del balonmano
+
+3\. Diseña y dirige sesiones de desarrollo de la condición física del balonmano, analizando y aplicando técnicas y medidas de dirección, organización y control del grupo.
+
+a. Se han analizado la estructura y las características de los diferentes tipos de sesión de enseñanza-entrenamiento en la etapa de tecnificación en balonmano.
+
+b. Se han analizado los principios metodológicos relacionados con la elaboración y organización de sesiones de enseñanza-entrenamiento en la etapa de tecnificación en balonmano.
+
+c. Se han clasificado los objetivos y principios fundamentales de la organización de la sesión de balonmano en la etapa de tecnificación en función de los objetivos programados.
+
+d. Se ha elaborado y justificado la progresión de tareas y la cuantificación de la carga, en un supuesto práctico de sesión de enseñanza-entrenamiento debidamente caracterizado, en el que se establezcan el objetivo u objetivos de la sesión y la programación de referencia.
+
+e. Se han analizado las características de los diferentes tipos y formas de realizar el conocimiento de resultados en la etapa de tecnificación en balonmano, y su idoneidad en función de los objetivos programados.
+
+f. Se han clasificado las estrategias de dirección en función de su relación con los objetivos de la sesión y las características de las tareas.
+
+g. Se ha dirigido un supuesto práctico de sesión de enseñanza-entrenamiento, debidamente caracterizado para la etapa de tecnificación, en el que:
+
+i. Organiza el grupo de manera eficaz.
+
+ii. Aplica conocimientos de los resultados adecuados a los objetivos presentados.
+
+iii. Aplica habilidades sociales y estrategias de liderazgo.
+
+h. Se ha valorado la importancia de realizar el conocimiento de los resultados durante la sesión de enseñanza-entrenamiento en la etapa de tecnificación.
+
+4\. Promueve prácticas deportivas saludables, identificando la necesidad de trabajo complementario, en base al análisis de los gestos deportivos predominantes y las pautas higiénicas más adecuadas en las etapas de iniciación y tecnificación deportiva, para la prevención de lesiones y patologías propias del balonmano.
+
+a. Se han reconocido los gestos técnicos predominantes en la práctica deportiva de balonmano y se identifican con la mejora de la condición física en etapas intermedias.
+
+b. Se ha valorado la importancia del trabajo complementario como compensación del trabajo unilateral, asimétrico y de descompensación entre agonistas y antagonistas.
+
+c. Se han analizado los movimientos contraindicados propios del trabajo de condición física en balonmano en las etapas de iniciación y tecnificación, y las consecuencias que podrían derivarse de los mismos.
+
+d. Se han descrito los hábitos posturales adecuados durante la práctica del balonmano.
+
+e. Se han puesto en práctica protocolos de calentamiento y vuelta a la calma propias del balonmano en etapas de iniciación y tecnificación.
+
+f. Se han analizado las características de los programas de preparación física utilizados en la prevención de las lesiones más comunes derivadas de la práctica del balonmano.
+
+g. Se ha valorado la importancia de realizar la práctica del balonmano con material adecuado.
+
+h. Se han analizado las características, medidas básicas de uso y mantenimiento del material y de las instalaciones utilizadas en la práctica del balonmano.
+
+Contenidos básicos
+
+1\. Valora la importancia de la condición física en balonmano, identificando las conductas motrices específicas de las que depende su rendimiento en función del género y de la etapa evolutiva tanto en entrenamiento como en competición, aplicando pruebas y test de campo, y analizando sus resultados.
+
+– Características de los factores condicionales y coordinativos que inciden en la forma física y deportiva del jugador de balonmano.
+
+– Conductas motrices específicas del balonmano: desplazamientos, saltos, lanzamientos y situaciones de contacto y oposición directa, y su relación con la preparación física de base.
+
+– Diferencias en la iniciación al trabajo de la condición física en función del género.
+
+– Instrumentos de recogida de información: test de campo, pruebas de condición física con recursos sencillos, pruebas de valoración funcional, cuestionarios, observación directa e indirecta.
+
+– Normas de seguridad y prevención de riesgos en la aplicación de diferentes test sencillos.
+
+– Estadísticos básicos, análisis e interpretación de datos, uso de tecnologías sencillas, e interpretación de resultados relacionados con la mejora de la condición física.
+
+– Evolución de la forma deportiva y estrategias de información al deportista.
+
+2\. Adapta y concreta ciclos, sesiones y ejercicios de preparación física en balonmano, analizando la programación de referencia y la relación entre el trabajo técnico-táctico y el de condición física, la metodología, los medios específicos de entrenamiento y aplicando procedimientos adecuados.
+
+– La programación como factor de eficacia y calidad de la mejora de la condición física.
+
+– Inserción de la preparación física en la estructura básica del entrenamiento (microciclos, mesociclos) en función del momento de la temporada (periodo preparatorio, de competición y transición).
+
+– Objetivos del desarrollo de la condición física del balonmano en función de la edad cronológica y la edad biológica.
+
+– Importancia de la relación entre trabajo general de base y la preparación física específica en etapas de formación.
+
+– Instrumentos y medios de control de la condición física en etapas de iniciación y perfeccionamiento:
+
+– Hojas de registro, planillas de observación y seguimiento, gráficas de evolución, etc.
+
+– Métodos del entrenamiento de la condición física en balonmano propios de estas edades.
+
+– Autocargas, desarrollo muscular, coordinación intermuscular, resistencia mixta, factores de la velocidad, flexibilidad global, integración de trabajos en función de los tiempos disponibles, etc.
+
+– Carácter de los ejercicios físicos: generales, dirigidos, especiales y de competición. Integración del trabajo técnico-táctico y la condición física.
+
+– Tipos de sesión de entrenamiento y la periodización básica en la preparación física del balonmano en categorías inferiores e intermedias.
+
+– Los parámetros de las cargas en la sesión de entrenamiento de iniciación y perfeccionamiento físico y su adaptación al balonmano.
+
+– Sistemas de control y cuantificación de las cargas en la aplicación de los métodos de desarrollo de la condición física del balonmano.
+
+– El entrenamiento integrado como recurso útil en situaciones concretas que optimicen el trabajo con deportistas en formación.
+
+3\. Diseña y dirige sesiones de desarrollo de la condición física del balonmano, analizando y aplicando técnicas y medidas de dirección, organización y control del grupo.
+
+– La organización de sesiones de condición física. Formas básicas: trabajo por bloques o en circuito, continuo o fraccionado, en parrilla, semicírculo, círculo, ochos, grouping, etc.
+
+– Características de la información al jugador de balonmano en el desarrollo de la sesión de condición física.
+
+– La sesión de entrenamiento de condición física: contingencias más comunes, posibles causas y soluciones a adoptar: estado individual del deportista, gestión de molestias musculares o articulares durante la práctica, densidad en la ordenación espacial, gestión de los tiempos de trabajo-pausa, etc.
+
+– La calidad en la organización y dirección de sesiones de condición física en balonmano. Aspectos a valorar, instrumentos de recogida de información sobre la organización y dirección de sesiones, criterios de referencia y de valoración.
+
+– Estrategias y dinámicas de grupo que promueven la buena disposición para realizar sesiones de desarrollo de condición física.
+
+– Papel del técnico en el desarrollo de la sesión de condición física: organización, dirección, medidas preventivas y autoevaluación. Aspectos a valorar, instrumentos de recogida de información, criterios de referencia y de valoración
+
+4\. Promueve prácticas deportivas saludables, identificando la necesidad de trabajo complementario, en base al análisis de los gestos deportivos predominantes y las pautas higiénicas más adecuadas en las etapas de iniciación y tecnificación deportiva, para la prevención de lesiones y patologías propias del balonmano.
+
+– El gesto técnico deportivo: bases para la ejecución de ejercicios físicos e integrados.
+
+– Lesiones derivadas de la práctica inadecuada del balonmano en niveles intermedios.
+
+– Hábitos posturales adecuados durante la práctica del balonmano.
+
+– Contraindicaciones y beneficios del entrenamiento de la condición física en las etapas de iniciación y tecnificación en balonmano.
+
+– Protocolos de calentamiento y vuelta a la calma específicos del balonmano.
+
+– Análisis y valoración de los programas de preparación física para la prevención de lesiones y readaptación del deportista:
+
+– Trabajo de grupos musculares complementarios, propiocepción, fortalecimiento del núcleo central o core, etc.
+
+– Características del material deportivo propio: calzado, tipo de balones, lastres, equipamiento específico de portero, dispositivos generadores de inestabilidad, bandas elásticas, etc.
+
+– Utilización y cuidado de las instalaciones; especial atención, respeto, cuidado y optimización del uso de las mismas a partir de la etapa que se permite utilización de resina. Medidas de mantenimiento.
+
+> Se numera este módulo como Anexo III.j por el art. 11.8.k) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.k — Módulo específico de enseñanza deportiva: Fundamentos básicos del balonmano playa. Código: MED-BMBM205
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica los fundamentos básicos del juego, analizando los elementos estructurales y funcionales del balonmano playa.
+
+a. Se ha explicado la importancia de la filosofía deportiva del balonmano playa y su relación con la evolución histórica de la práctica de esta modalidad.
+
+b. Se han descrito los diferentes elementos estructurales que condicionan el juego de balonmano playa.
+
+c. Se han analizado las características básicas de las habilidades fundamentales realizadas sobre la arena.
+
+d. Se han descrito las limitaciones reglamentarias básicas respecto al comportamiento con el rival en el balonmano playa.
+
+e. Se han mostrado los diferentes modos de puntuación y la forma de decidir el resultado final de los partidos en el balonmano playa.
+
+f. Se han descrito los tipos de saques y forma de ejecución.
+
+g. Se han explicado las zonas de cambio y las posibilidades de utilización durante el desarrollo del juego.
+
+h. Se han descrito los diferentes tipos de sanciones técnicas y disciplinarias que se aplican en caso de infracción de las reglas en el balonmano playa.
+
+i. Se han explicado las peculiaridades de la nomenclatura y simbología del balonmano playa en el contexto de la nomenclatura y simbología general del balonmano.
+
+j. Se han descrito las diferentes fases del juego y se han establecido los objetivos parciales de cada una de ellas en el balonmano playa.
+
+2\. Valora la realización de acciones de ataque específicas del balonmano playa, analizando los aspectos mecánicos e intencionales, identificando los posibles errores y relacionando los mismos con sus causas.
+
+a. Se han analizado los aspectos intencionales y mecánicos del transporte del balón, y su adaptación a las exigencias reglamentarias de cambios de los jugadores.
+
+b. Se han identificado los posibles errores en el transporte del balón, y sus posibles causas.
+
+c. Se han analizado los aspectos intencionales y mecánicos de los movimientos específicos de los jugadores en ataque, y su adaptación a las exigencias reglamentarias de cambios de los jugadores, los errores más frecuentes y sus posibles causas.
+
+d. Se han analizado los aspectos mecánicos e intencionales en los lanzamientos específicos del balonmano playa, los errores más frecuentes y sus posibles causas.
+
+e. Se han analizado los aspectos intencionales básicos del contraataque específico en el balonmano playa, y su relación con aspectos reglamentarios.
+
+f. Se han analizado los aspectos genéricos de la organización colectiva del equipo en ataque y de la configuración de un sistema de ataque basado en el juego en superioridad numérica.
+
+g. Se ha valorado la importancia de rentabilizar las posibilidades reglamentarias en la realización de las acciones de ataque.
+
+3\. Valora la realización de acciones de defensa específicas del balonmano playa, analizando los aspectos mecánicos e intencionales, identificando los posibles errores y relacionando los mismos con sus causas.
+
+a. Se han analizado la influencia y limitaciones del reglamento específico del balonmano playa en la tarea de oponerse a los atacantes.
+
+b. Se han analizado los aspectos mecánicos de los movimientos de los jugadores en defensa, sus errores y sus posibles causas.
+
+c. Se han analizado la influencia de las ayudas y la colaboración en el juego defensivo en balonmano playa.
+
+d. Se han analizado los aspectos genéricos de la organización colectiva del equipo en defensa y de la configuración de una defensa de amplia ocupación espacial basada en el juego en inferioridad numérica.
+
+e. Se han analizado las posibilidades de repliegue defensivo en función de la estructura del ataque y los condicionantes reglamentarios.
+
+f. Se han analizado las técnicas básicas de intervención del portero ante los lanzamientos, los errores más habituales y las posibles causas.
+
+g. Se ha justificado la importancia del reglamento en el juego defensivo del balonmano playa.
+
+Contenidos básicos
+
+1\. Identifica los fundamentos básicos del juego, analizando los elementos estructurales y funcionales del balonmano playa.
+
+– Historia y filosofía del balonmano playa.
+
+– Las medidas y características físicas del terreno de juego, porterías y balones para las diferentes categorías de edad y sexo del balonmano playa.
+
+– La composición y equipamiento de los equipos de juego y árbitros del balonmano playa.
+
+– La duración y estructura temporal de los partidos del balonmano playa.
+
+– La puntuación y la decisión del resultado del partido del balonmano playa.
+
+– La ejecución de los saques y lanzamientos del balonmano playa.
+
+– Dónde jugar. Limitaciones según las zonas del terreno de juego del balonmano playa.
+
+– Las zonas de cambio de jugadores en el balonmano playa.
+
+– Comportamiento con el contrario: reglas y limitaciones de los jugadores respecto a los adversarios en el balonmano playa.
+
+– Sanciones técnicas y disciplinarias en el balonmano playa.
+
+– Los nombres y símbolos diferenciales del balonmano playa dentro de la nomenclatura y simbología del balonmano.
+
+– Las fases del juego en el balonmano playa.
+
+– Las características específicas de las habilidades motrices básicas realizadas sobre arena.
+
+2\. Valora la realización de acciones de ataque específicas del balonmano playa, analizando los aspectos mecánicos e intencionales, identificando los posibles errores y relacionando los mismos con sus causas.
+
+– Los aspectos intencionales y mecánicos del transporte del balón específico en balonmano playa:
+
+– Adaptación del balón.
+
+– Especificidad del bote.
+
+– Utilización de pases aéreos.
+
+– Errores y causas.
+
+– Los aspectos mecánicos e intencionales de los movimientos específicos de los jugadores en ataque en el balonmano playa:
+
+– Carrera con balón y sin balón.
+
+– Saltos con balón y sin balón.
+
+– Giros con balón y sin balón.
+
+– Control postural y equilibrio.
+
+– Errores y causas.
+
+– Los aspectos mecánicos e intencionales de los lanzamientos específicos en el balonmano playa:
+
+– Aspectos fundamentales del lanzamiento en flight.
+
+– Aspectos fundamentales del lanzamiento con giro previo en el aire.
+
+– Movimientos del jugador previos al lanzamiento.
+
+– Errores y causas.
+
+– El contraataque específico en el balonmano playa: aspectos intencionales básicos:
+
+– Movimientos de los jugadores/desplazamiento del balón/cambios de jugadores: tres actividades que se realizan de forma simultánea.
+
+– Aspectos reglamentarios.
+
+– Las bases de la organización colectiva del ataque en el balonmano playa:
+
+– El ataque en superioridad numérica específico del balonmano playa.
+
+– Nociones básicas de los puestos específicos ofensivos del balonmano playa:
+
+– El ala.
+
+– El pivote.
+
+– El central.
+
+– El especialista.
+
+– El shoot out.
+
+3\. Valora la realización de acciones de ataque específicas del balonmano playa, analizando los aspectos mecánicos e intencionales, identificando los posibles errores y relacionando los mismos con sus causas.
+
+– Los aspectos reglamentarios específicos del balonmano playa a la hora de oponerse al movimiento de los atacantes.
+
+– El marcaje. Aspectos reglamentarios específicos del balonmano playa que limitan esta tarea.
+
+– Los movimientos de los jugadores en defensa específicos en el balonmano playa.
+
+– El contra-flight.
+
+– El contra-giro
+
+– Las bases de la organización colectiva de la defensa en el balonmano playa:
+
+– Nociones básicas de los puestos específicos defensivos del balonmano playa:
+
+– El central.
+
+– El exterior.
+
+– La estructura: ocupar la zona eficaz y controlar de forma compartida a los atacantes.
+
+– El funcionamiento colectivo: las ayudas y la colaboración que se prevén.
+
+– El repliegue defensivo: los cambios y aspectos básicos.
+
+– El portero de balonmano playa:
+
+– Situación y atención en la zona de cambios.
+
+– Los cambios.
+
+– La situación y posición cuando el equipo defiende.
+
+– Nociones básicas de la intervención ante los lanzamientos.
+
+– Nociones generales de la participación ofensiva del portero.
+
+> Se numera este módulo como Anexo III.k por el art. 11.8.l) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.l — Módulo específico de enseñanza deportiva: Balonmano en silla de ruedas. Código: MED-BMBM206
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Organiza sesiones de iniciación al balonmano en silla de ruedas, describiendo la capacidad funcional de los jugadores, adaptando el material a sus capacidades y características del reglamento específico, en un entorno de práctica inclusiva entre jugadores con y sin discapacidad.
+
+a. Se han descrito la clasificación funcional y los diferentes grados de discapacidad que pueden tener los jugadores de balonmano en silla de ruedas.
+
+b. Se han enunciado los aspectos preventivos y saludables a tener en cuenta durante la práctica deportiva.
+
+c. Se han reconocido las características de la silla de ruedas deportiva, sus partes y las medidas.
+
+d. Se ha detallado las orientaciones a impartir al jugador sobre cómo debe ir sentado en la silla de ruedas de acuerdo a sus características y necesidades.
+
+e. Se han enunciado las principales modificaciones del reglamento en balonmano en silla de ruedas en relación con el balonmano convencional.
+
+f. Se han detectado las infracciones producidas durante las situaciones de juego y se ha intervenido, explicando al jugador el motivo de la infracción.
+
+g. Se han aplicado pautas en los ejercicios de la sesión para garantizar la práctica inclusiva de deportistas con y sin capacidad.
+
+2\. Valora las habilidades de desplazamiento del jugador en silla de ruedas, identificando las características del desplazamiento sin balón y con balón, aplicando técnicas de evaluación y corrección de las tareas.
+
+a. Se han identificado los diferentes tipos de desplazamiento con la silla de ruedas, agarres, impulsos y posición del jugador durante el desplazamiento con y sin balón.
+
+b. Se han descrito y evaluado tareas de enseñanza-aprendizaje de los diferentes desplazamientos con la silla de ruedas del jugador sin balón.
+
+c. Se han descrito y evaluado tareas de enseñanza-aprendizaje de las diferentes acciones individuales de desplazamiento de la silla de ruedas con control del balón.
+
+d. Se han expuesto actividades lúdicas en las que aplicar los aspectos técnicos sobre el desplazamiento con la silla de ruedas y con control del balón.
+
+e. Se han diseñado y aplicado tareas de enseñanza-aprendizaje de las habilidades técnicas de los jugadores, incluyendo a alumnos con o sin discapacidad de acuerdo a la metodología de práctica inclusiva.
+
+f. Se ha mostrado una predisposición positiva hacia el desarrollo de sesiones de práctica inclusiva.
+
+3\. Valora las actividades/cometidos/acciones técnico-tácticas ofensivas y defensivas, aplicando los procedimientos de evaluación y corrección de las tareas de enseñanza aprendizaje.
+
+a. Se han identificado los fundamentos de las acciones de ataque en relación a la posición del jugador y los movimientos de la silla de ruedas.
+
+b. Se han diseñado tareas de enseñanza aprendizaje de las acciones de transporte y lanzamiento del balón, adecuando la complejidad de la tarea a las capacidades del jugador.
+
+c. Se han identificado los fundamentos de la defensa individual en relación a la posición del jugador y los movimientos de la silla de ruedas.
+
+d. Se han diseñado tareas de enseñanza aprendizaje de adquisición de los fundamentos de la defensa, adecuando la complejidad de la tarea a las capacidades del jugador.
+
+e. Se han descrito los errores más frecuentes en la ejecución de las habilidades ofensivas y defensivas, y sus posibles causas.
+
+f. Se ha valorado la importancia de desarrollar metodologías, estrategias y dinámicas inclusivas en proceso de enseñanza-aprendizaje de las habilidades técnicas específicas del balonmano en silla de ruedas.
+
+g. Se han diseñado tareas de enseñanza- aprendizaje ofensivas y defensivas de carácter lúdico.
+
+4\. Valora e inicia al jugador en los fundamentos tácticos colectivos ofensivos y defensivos del balonmano en silla de ruedas, diseñando y aplicando tareas de enseñanza-aprendizaje y realizando las correcciones pertinentes.
+
+a. Se han reconocido los fundamentos tácticos colectivos ofensivos propios del balonmano en silla de ruedas, relacionados con la situación de los jugadores en el campo.
+
+b. Se han reconocido los fundamentos tácticos colectivos defensivos propios del balonmano en silla de ruedas, relacionados con la situación de los jugadores en el campo.
+
+c. Se han diseñado y evaluado tareas de enseñanza-aprendizaje de los diferentes fundamentos tácticos colectivos ofensivos y defensivos del balonmano en silla de ruedas.
+
+d. Se han identificado en situaciones reales de juego los fundamentos tácticos colectivos ofensivos y defensivos, realizando las correcciones y proponiendo los refuerzos apropiados.
+
+e. Se ha valorado la importancia de desarrollar metodologías, estrategias y dinámicas inclusivas en el proceso de enseñanza-aprendizaje del juego de balonmano en silla de ruedas.
+
+Contenidos básicos
+
+1\. Organiza sesiones de iniciación al balonmano en silla de ruedas, describiendo la capacidad funcional de los jugadores, adaptando el material a sus capacidades y características del reglamento específico, en un entorno de práctica inclusiva entre jugadores con y sin discapacidad.
+
+– Clasificación funcional:
+
+– Características funcionales del jugador de los puntos 1 a 4,5.
+
+– Tipos de discapacidad (medular, amputaciones), aspectos preventivos y de salud.
+
+– Principales roles de los jugadores en función de la clasificación.
+
+– Características de la silla de ruedas:
+
+– Tipos, medidas reglamentarias, sujeción, cojín.
+
+– Reglamento del balonmano en silla de ruedas:
+
+– Modalidad 4 jugadores (4a y 4b).
+
+– Modalidad 7 jugadores.
+
+– Medidas del terreno de juego y la portería según modalidades.
+
+– Tiempo de juego, la obtención de goles y marcador.
+
+– Acciones antirreglamentarias: salida de la cancha, regla de progresión y de los 3 segundos, el comportamiento con el adversario.
+
+– Características del portero.
+
+– Sanciones disciplinarias.
+
+– Principios del diseño de práctica inclusiva:
+
+– Adaptación de reglas y normas.
+
+– Criterio de participación conjunta
+
+2\. Valora las habilidades de desplazamiento del jugador en silla de ruedas, identificando las características del desplazamiento sin balón y con balón, aplicando técnicas de evaluación y corrección de las tareas.
+
+– Desplazamiento con la silla de ruedas:
+
+– Impulso y dirección del movimiento.
+
+– Actividades lúdicas en el manejo de la silla de ruedas.
+
+– Errores y causas.
+
+– Desplazamiento con balón en la silla de ruedas:
+
+– Formas de adaptar y avanzar con el balón.
+
+– Actividades lúdicas en el manejo de la silla de ruedas con control del balón.
+
+– Errores y causas.
+
+– Elaboración de tareas de enseñanza aprendizaje. Criterios.
+
+– Metodología para la práctica en actividades inclusivas de desplazamientos.
+
+– Adaptaciones de normas para la práctica de balonmano en silla de ruedas inclusivo.
+
+3\. Valora las actividades/cometidos/acciones técnico tácticas ofensivas y defensivas, aplicando los procedimientos de evaluación y corrección de las tareas de enseñanza aprendizaje.
+
+– Fundamentos de ataque:
+
+– Transporte del balón.
+
+– Lanzamiento.
+
+– Errores y causas.
+
+– Fundamentos de la defensa:
+
+– Situación, orientación y posición de la silla, en relación con el atacante con y sin balón.
+
+– El comportamiento con el adversario.
+
+– Errores y causas.
+
+– Elaboración de tareas de enseñanza aprendizaje. Criterios.
+
+– Metodología para la práctica en actividades inclusivas de las acciones de transporte de balón, lanzamiento y defensivas individuales.
+
+– Actividades lúdicas de aprendizaje de las de las acciones de transporte de balón, lanzamiento y defensivas individuales.
+
+4\. Valora e inicia al jugador en los fundamentos tácticos colectivos ofensivos y defensivos del balonmano en silla de ruedas, diseñando y aplicando tareas de enseñanza-aprendizaje, realizando las correcciones pertinentes.
+
+– Juego colectivo ofensivo en el balonmano en silla de ruedas:
+
+– Ocupación de espacios.
+
+– Creación de superioridades.
+
+– Particularidades en función de la modalidad de 4 y 7 jugadores.
+
+– Criterios de valoración.
+
+– Encadenamiento de medios tácticos ofensivos.
+
+– Juego colectivo defensivo en el balonmano en silla de ruedas:
+
+– Ubicación de los jugadores en las modalidades de 4 y 7 jugadores.
+
+– Criterios de valoración.
+
+– Elaboración de tareas de enseñanza aprendizaje. Criterios.
+
+– Metodología para la práctica inclusiva del juego de balonmano en silla de ruedas.
+
+> Se numera este módulo como Anexo III.l por el art. 11.8.m) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.m — Módulo específico de enseñanza deportiva: Dirección deportiva en la etapa de tecnificación. Código: MED-BMBM207
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Organiza y gestiona eventos propios de la etapa de iniciación y tecnificación, aplicando los procedimientos adecuados para su construcción, puesta en marcha, desarrollo y valoración.
+
+a. Se ha analizado la viabilidad del proyecto del evento deportivo de promoción de iniciación y de tecnificación en balonmano en relación con el presupuesto.
+
+b. Se han analizado las características organizativas básicas, la normativa y requisitos administrativos de un evento en la etapa de iniciación y de tecnificación en balonmano, relacionándolas con los objetivos que se pretenden conseguir.
+
+c. Se ha realizado un presupuesto que valore los costes de un supuesto de evento deportivo de promoción, iniciación y de tecnificación en balonmano, identificando las fuentes de financiación y concretando la gestión de patrocinios.
+
+d. Se han clasificado los recursos humanos y materiales necesarios y las posibilidades de conseguirlos, para organizar y gestionar una actividad o evento en las etapas de iniciación y de tecnificación en balonmano.
+
+e. Se ha elaborado una secuencia de tareas y sus responsables, en un supuesto práctico de organización y gestión de un evento de iniciación y tecnificación debidamente caracterizado, en el que establece los objetivos y la etapa a la que va dirigido.
+
+f. Se han clasificado los posibles imprevistos que pueden aparecer durante el desarrollo de la actividad y se han identificado posibles soluciones.
+
+g. Se ha valorado la importancia de la organización de eventos como elementos favorecedores de la práctica deportiva.
+
+h. Se han explicado el tipo de comportamiento y la actitud con la que se debe afrontar la gestión de eventos propios en la etapa de tecnificación al balonmano.
+
+i. Se han descrito los instrumentos de recogida de información para el análisis y control de los aspectos organizativos y logísticos de los eventos y competiciones de la modalidad.
+
+j. Se ha analizado la información sobre el desarrollo técnico y logístico de los eventos y competiciones de modalidad.
+
+k. Se han descrito las características de los informes, sobre el desarrollo técnico y logístico de los eventos de modalidad.
+
+l. Se han justificado la recogida y el análisis de la información como base de la mejora continua en la organización de eventos y competiciones a modalidad.
+
+2\. Colabora en el proceso de detección y selección de talentos deportivos de los jugadores de balonmano analizando las características de los sistemas y programas de detección y selección y aplicando técnicas específicas.
+
+a. Se han descrito los criterios utilizados en la detección y selección de talentos en balonmano, identificando la diferente valoración de las cualidades de rendimiento en las etapas de desarrollo del jugador.
+
+b. Se han descrito los principios de los programas de detección y selección de talentos deportivos en balonmano.
+
+c. Se han descrito las funciones y el protocolo de actuación del técnico deportivo de la modalidad en los programas de detección y selección de talentos de balonmano.
+
+d. Se han analizado los recursos materiales y humanos, que se necesitan en un supuesto práctico de programa de detección y selección de talentos en balonmano.
+
+e. Se ha valorado la importancia de una detección precoz del talento deportivo, en la consecución del alto rendimiento.
+
+f. Se ha justificado la necesidad de respetar el desarrollo del individuo en el proceso de detección y selección de talentos deportivos en balonmano.
+
+3\. Coordina la actividad de otros técnicos deportivos en la iniciación al balonmano, analizando las funciones de los técnicos en la dirección de equipos y eventos de iniciación, y discriminando la estructura de una escuela o núcleo de balonmano.
+
+a. Se han identificado las funciones de coordinación o dirección de equipos, eventos y competiciones de la modalidad, que realiza el técnico deportivo en balonmano.
+
+b. Se han identificado los procedimientos de selección de técnicos para la etapa de iniciación en balonmano
+
+c. Se han concretado los procedimientos de coordinación y comunicación con los técnicos responsables de la iniciación en balonmano.
+
+d. Se han descrito las distintas tareas que debe realizar el técnico en la dirección de equipos, eventos y competiciones de iniciación de balonmano.
+
+e. Se han identificado los criterios de distribución de tareas entre el equipo de técnicos en los distintos equipos, eventos y competiciones de iniciación en balonmano.
+
+f. Se han descrito procedimientos de comunicación de los cambios, necesidades o contingencias entre el equipo de técnicos en las etapas de iniciación en balonmano.
+
+g. Se ha interiorizado la necesidad de coordinación de los equipos técnicos como medio eficaz y eficiente en la puesta en práctica de las actividades, eventos y de dirección de equipos en la iniciación en balonmano.
+
+h. Se ha valorado la importancia de la participación del equipo de trabajo en el diseño y puesta en práctica de las actividades, eventos y dirección de equipos en la iniciación en balonmano.
+
+4\. Construye un equipo y lo dirige en las competiciones en la etapa de tecnificación, identificando los aspectos normativos y reglamentarios, interpretando los factores relacionados con la dinámica del grupo y aplicando estrategias específicas de dirección en esta etapa.
+
+a. Se ha descrito la normativa aplicable a las competiciones de balonmano en la etapa de tecnificación.
+
+b. Se han identificado los aspectos reglamentarios del juego relacionados con la competición.
+
+c. Se han identificado los aspectos disciplinarios en balonmano.
+
+d. Se ha valorado la importancia de la competición en la etapa de tecnificación, como parte del proceso formativo.
+
+e. Se han relacionado (analizado) las características psicológicas de los miembros del grupo en relación a las propias de la edad de tecnificación.
+
+f. Se han analizado las relaciones que se establecen dentro del grupo, con el entrenador y con el entorno, en el equipo en la etapa de tecnificación en balonmano.
+
+g. Se han analizado los aspectos individuales y colectivos sobre los que se debe incidir en la dirección de la competición en la etapa de tecnificación en balonmano.
+
+h. Se han caracterizado las estrategias de dirección de la competición en la etapa de tecnificación en balonmano.
+
+i. Se ha dirigido a un equipo, adaptando el comportamiento y la intervención al desarrollo de la competición, en un supuesto práctico de partido de balonmano, debidamente caracterizado en el que se simulan las situaciones de dirección más habituales.
+
+Contenidos básicos
+
+1\. Organiza y gestiona eventos propios de la etapa de iniciación y tecnificación, aplicando los procedimientos adecuados para su construcción, puesta en marcha, desarrollo y valoración.
+
+– Instituciones deportivas autonómicas y locales.
+
+– Vías de financiación de eventos deportivos: ingresos propios, ingresos indirectos, subvenciones de instituciones públicas:
+
+– Tipos y modalidades de las ayudas y subvenciones a los eventos deportivos. Procedimiento de tramitación.
+
+– Convenios de colaboración con la administración: protocolos, cláusulas, anexos.
+
+– El patrocinio deportivo. Tipos y normativa relacionada.
+
+– Marco laboral básico:
+
+– Contratación de personal.
+
+– Criterios básicos de seguridad y prevención.
+
+– Aspectos básicos de la planificación estratégica:
+
+– Análisis del entorno.
+
+– Establecimiento de objetivos.
+
+– Diseño de eventos.
+
+– Elaboración y dirección de programas.
+
+– La evaluación.
+
+– Recursos humanos y materiales en la organización y gestión de un evento de balonmano en la etapa de tecnificación.
+
+– Estrategias y medios básicos de comunicación.
+
+– Herramientas de recogida de información.
+
+– Elaboración de informes.
+
+2\. Colabora en el proceso de detección y selección de talentos deportivos de los jugadores de balonmano analizando las características de los sistemas y programas de detección y selección y aplicando técnicas específicas.
+
+– Criterios básicos de la detección y selección de talentos en balonmano:
+
+– La importancia de una adecuada detección y selección de talentos.
+
+– Proceso de detección y selección de talentos en balonmano.
+
+– Criterios de valoración de las distintas cualidades:
+
+– Antropométricas.
+
+– Condicionales.
+
+– Coordinativas.
+
+– Inteligencia táctica.
+
+– Psicológicas y sociales.
+
+– Recursos materiales y humanos necesarios para el análisis y valoración en la detección de talentos.
+
+– Protocolos de actuación en la medición y valoración de las cualidades.
+
+– Elaboración y distribución de la información en la detección y selección de talentos.
+
+3\. Coordina la actividad de otros técnicos deportivos en la iniciación al balonmano, analizando las funciones de los técnicos en la dirección de equipos y eventos de iniciación, y discriminando la estructura de una escuela o núcleo de balonmano.
+
+– Características, competencias y relaciones de los diferentes técnicos que trabajan en la etapa de iniciación dentro del grupo deportivo:
+
+– Organigramas de clubes, escuelas y otros centros en la etapa de tecnificación.
+
+– Funcionamiento y organización de clubes y escuelas y otros centros en la etapa de tecnificación.
+
+– Normativa y legislación básica.
+
+– La selección de técnicos para la etapa de iniciación:
+
+– Definición de funciones y perfiles de técnicos.
+
+– Ideas básicas de criterios de selección.
+
+– Ideas básicas de los procesos de selección.
+
+– Asignación de tareas y roles en el proceso de aprendizaje y dirección de quipos, en la etapa de iniciación del balonmano.
+
+– Asignación de tareas y roles en la organización de una actividad en la etapa de iniciación.
+
+– Nociones fundamentales de la comunicación con los técnicos de un club, escuela o núcleo de balonmano.
+
+4\. Construye un equipo y lo dirige en las competiciones en la etapa de tecnificación, identificando los aspectos normativos y reglamentarios, interpretando los factores relacionados con la dinámica del grupo y aplicando estrategias específicas de dirección en esta etapa.
+
+– Reglamento y normativa:
+
+– Características de la competición en la etapa de tecnificación.
+
+– Normativa de la competición en la edad de tecnificación.
+
+– Reglamento de juego.
+
+– Reglamento de Régimen Disciplinario.
+
+– El equipo de balonmano:
+
+– Valoración de las características psicosociales de los jugadores del equipo en la etapa de tecnificación.
+
+– El grupo deportivo en la etapa de tecnificación.
+
+– Dirección de entrenamiento y competición:
+
+– Estrategias de dirección de equipo en la etapa de tecnificación:
+
+– El jugador y el grupo.
+
+– Relación entre dirección y naturaleza de la tarea.
+
+– Directrices previas.
+
+– Comunicación durante el partido. Tiempos muertos.
+
+– Conocimiento de los resultados posterior a la competición.
+
+– La competición como medio fundamental de desarrollo del jugador de balonmano.
+
+> Se numera este módulo como Anexo III.m por el art. 11.8.n) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.n — Módulo de enseñanza deportiva: Formación práctica. Código: MED-BMBM208
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica la estructura organizativa y el funcionamiento del centro deportivo de prácticas (club, federación, escuela, empresa, etc.), relacionándola con su oferta de actividades de especialización, tecnificación deportiva, perfeccionamiento técnico y las actividades de gestión del mismo, aplicándose los procedimientos y protocolos de seguridad en la práctica.
+
+a. Se han identificado las relaciones del centro deportivo de prácticas con la Real Federación Española de Balonmano.
+
+b. Se han identificado la estructura organizativa y el funcionamiento de las distintas áreas del centro deportivo de prácticas.
+
+c. Se han identificado las relaciones jerárquicas dentro del centro deportivo de prácticas.
+
+d. Se han identificado la oferta de actividades vinculadas a la tecnificación deportiva y el perfeccionamiento técnico en balonmano y balonmano playa.
+
+e. Se han identificado las vías de financiación económica utilizadas por el centro deportivo de prácticas.
+
+f. Se ha distinguido la oferta de actividades orientadas a la especialización, tecnificación deportiva y/o perfeccionamiento técnico del balonmano dirigidas al género femenino.
+
+g. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+2\. Actúa con autonomía, iniciativa y responsabilidad en el puesto de trabajo, demostrando comportamiento ético, habilidades personales de comunicación, trabajo en equipo, y aplicando los procedimientos establecidos por el centro deportivo de prácticas.
+
+a. Se han identificado los requerimientos actitudinales del puesto de trabajo.
+
+b. Se han interpretado y cumplido las instrucciones recibidas, y responsabilizado del trabajo asignado.
+
+c. Se ha demostrado compromiso con el trabajo bien hecho y la calidad del servicio, así como respeto a los procedimientos y principios propios del club o entidad deportiva.
+
+d. Se ha demostrado capacidad de trabajo en equipo y respeto a la jerarquía establecida y a los profesionales de los distintos ámbitos en el club o entidad deportiva.
+
+e. Se han establecido una comunicación y relación eficaz con el técnico responsable de la actividad y los miembros del equipo, manteniendo un trato fluido y correcto.
+
+f. Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante o imprevista que se presente en la actividad.
+
+g. Muestra atención y responsabilidad por la imagen personal y los valores éticos y profesionales en el ejercicio de la profesión.
+
+3\. Controla la seguridad en la práctica de tecnificación deportiva en balonmano, supervisando las instalaciones y medios utilizados, interpretando la normativa y aplicando los procedimientos y protocolos de acuerdo con la normativa e instrucciones establecidas.
+
+a. Se han identificado los aspectos básicos de seguridad, planes de emergencia y evacuación de las instalaciones deportivas del centro de prácticas y su adecuación a su normativa de aplicación.
+
+b. Se han identificado las normas de aplicación a la seguridad de las instalaciones deportivas del centro deportivo de prácticas.
+
+c. Se han aplicado medidas de señalización de seguridad, de protección contra actos antisociales y de violencia del deporte y los planes de emergencia y evacuación de la instalación deportiva de balonmano, siguiendo las instrucciones y normas establecidas.
+
+d. Se ha actuado atendiendo a la seguridad personal, del equipo de trabajo y de los usuarios, cumpliendo con la normativa vigente y con los protocolos establecidos en el centro deportivo de prácticas.
+
+e. Se han utilizado los equipos de prevención de riesgos laborales propios de la tecnificación deportiva en balonmano.
+
+f. Se han aplicado los aspectos fundamentales de la Ley de Prevención de Riesgos Laborales, relacionados con las actividades, competiciones y eventos de la iniciación deportiva en balonmano.
+
+g. Se han identificado y aplicado las medidas de protección del medio ambiente de la instalación deportiva de balonmano y su adecuación a la normativa vigente.
+
+h. Se han identificado y aplicado las medidas preventivas necesarias para el uso del material específico de balonmano, vestimenta y complementos, que garanticen la seguridad y salud del jugador, minimizando el riesgo de incidencias o de lesión deportiva.
+
+4\. Organiza, acompaña y dirige a los deportistas en su participación en actividades, competiciones y otros eventos de tecnificación deportiva en balonmano y balonmano playa, transmitiendo actitudes y valores, personales y sociales, propios de la ética deportiva: respeto a los demás, cuidado de sí mismo y de su entorno, juego limpio y trabajo colaborativo
+
+a. Se ha realizado la inscripción del equipo en una competición de tecnificación deportiva en balonmano y en balonmano playa, de acuerdo con los protocolos y normas establecidos.
+
+b. Se han realizado las operaciones de gestión del seguro de accidente y actividad de un equipo que participa en una competición, de acuerdo con las instrucciones y normas recibidas.
+
+c. Se ha reconocido y justificado la responsabilidad de un técnico en los desplazamientos del equipo para asistir a una competición.
+
+d. Se ha elaborado el plan de viaje de un equipo que participa en una competición de tecnificación deportiva en balonmano y balonmano playa, aplicando las instrucciones y procedimientos establecidos.
+
+e. Se ha comprobado la cobertura legal del equipo, durante su participación en la competición, de acuerdo con la normativa establecida.
+
+f. Se ha informado a los jugadores de las características de la competición, interpretando la documentación sobre la misma.
+
+g. Se han aplicado procedimientos de reclamación en una competición de tecnificación deportiva en balonmano y en balonmano playa, aplicando los protocolos y normas establecidos.
+
+h. Se han aplicado criterios de valoración de la ejecución técnico-táctica del balonmano, utilizando medios y procedimientos de observación adecuadas al nivel de tecnificación deportiva.
+
+i. Se han trasladado al equipo las instrucciones técnicas y tácticas durante la competición de tecnificación deportiva, teniendo en cuenta las características de la competición y de los jugadores.
+
+j. Se ha acompañado a los deportistas en las competiciones, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
+
+k. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de tecnificación deportiva en balonmano y en balonmano playa, aplicando los procedimientos adecuados y respetando las normas de la misma.
+
+5\. Adapta y concreta los programas y, dirige las sesiones de entrenamiento básico, perfeccionamiento técnico e iniciación en balonmano y balonmano playa, interpretando la información recibida, aplicando las técnicas y procedimientos de acuerdo con las instrucciones y normas establecidas, y colaborando en la aplicación de técnicas de detección de talentos.
+
+a. Se han identificado y seleccionado los medios y recursos necesarios para el desarrollo de la actividad.
+
+b. Se ha recibido al deportista siguiendo el protocolo establecido e identificando sus demandas y necesidades.
+
+c. Se han aplicado técnicas y protocolos de valoración técnica y de condición motriz adecuados al deportista del nivel de tecnificación deportiva en balonmano y en balonmano playa, valorando su estado inicial, el grado de consecución de los objetivos propuestos y los errores cometidos.
+
+d. Se han identificado y seleccionado los objetivos técnicos y de preparación de la condición motriz del deportista a partir de la programación de referencia del centro deportivo.
+
+e. Se han aplicado protocolos de control y cuantificación de la carga de entrenamiento de un jugador o de un equipo en las sesiones de entrenamiento básico y perfeccionamiento técnico en balonmano y en balonmano playa.
+
+f. Se ha colaborado en la aplicación de los protocolos y procedimientos de detección de talentos propios del balonmano y el balonmano playa.
+
+g. Se han establecido las condiciones de seguridad necesarias, en la tecnificación deportiva, interpretando las instrucciones o normas y aplicando los procedimientos establecidos.
+
+h. Se ha elaborado la planificación de un ciclo o etapa de preparación completa de un de un jugador o de un equipo a partir de la programación de referencia del centro deportivo, adecuándose a las características de los jugadores y del equipo deportivo, concretando:
+
+– Objetivos de entrenamiento y/o competición.
+
+– Selección y secuenciación de contenidos de entrenamiento.
+
+– Carga de trabajo y su dinámica durante los diferentes ciclos diseñados en la planificación.
+
+– Métodos y medios de entrenamiento.
+
+– Instrumentos de evaluación, seguimiento, control y valoración.
+
+– Diseño de las sesiones de entrenamiento.
+
+i. Se han explicado los objetivos y contenidos de la sesión de entrenamiento básico, perfeccionamiento técnico en balonmano y en balonmano playa, utilizando las técnicas establecidas de forma clara y motivadora.
+
+j. Se ha dirigido la sesión de entrenamiento básico y/o perfeccionamiento técnico, solucionando las contingencias existentes, aplicando técnicas de dinámica de grupos y de motivación adecuadas para un jugador o un equipo.
+
+k. Se ha organizado y realizado eficazmente la intervención profesional atendiendo a las demandas requeridas antes, durante y después de dicha intervención (observar, analizar, diagnosticar, planificar, dirigir, evaluar, modificar), respetando los principios éticos de aplicación de los conocimientos pedagógicos, teóricos y prácticos más adecuados para el desarrollo de la competencia profesional.
+
+6\. Organiza sesiones de iniciación deportiva en balonmano para personas con discapacidad, aplicando recursos que fomenten su participación e inclusión en función de sus limitaciones.
+
+a. Se ha valorado la importancia de atender a las características únicas de la persona con discapacidad previamente a la realización de la práctica del balonmano en silla de ruedas y otras modalidades adaptadas.
+
+b. Se ha orientado a las personas con discapacidad hacia las prácticas deportivas más adecuadas en cada caso.
+
+c. Se han determinado las ayudas técnicas y las medidas de seguridad específicas, según los diferentes tipos de discapacidad y las características de la práctica deportiva del balonmano en silla de ruedas y otras modalidades adaptadas.
+
+d. Se han establecido las principales orientaciones metodológicas en relación a la comunicación, la inclusión y la participación en la tarea de las personas con discapacidad.
+
+e. Se han aplicado procedimientos de adaptación o modificación de las tareas y juegos favoreciendo la inclusión, participación, el disfrute y las posibilidades de éxito de personas con discapacidad en la práctica del balonmano en silla de ruedas y otras modalidades adaptadas.
+
+f. Se han identificado las principales limitaciones hacia la práctica provocadas por la falta de accesibilidad en las instalaciones y espacios deportivos en el centro deportivo de prácticas.
+
+g. Se han examinado las limitaciones originadas por la falta de acceso a la información de la oferta deportiva del balonmano en silla de ruedas y otras modalidades adaptadas y la difusión de la práctica en el centro deportivo de prácticas.
+
+h. Se ha propiciado una actitud positiva hacia la inclusión por parte de compañeros, técnicos, las propias familias y las instituciones hacia la práctica deportiva del balonmano en silla de ruedas y otras modalidades adaptadas para personas con discapacidad.
+
+7\. Coordina el proceso de iniciación deportiva en balonmano, aplicando las programaciones de referencia, analizando la estructura de la escuela de iniciación deportiva, y aplicando los procedimientos y técnicas adecuadas.
+
+a. Se han identificado la estructura, organización y funciones de la escuela de iniciación deportiva en balonmano en el centro deportivo de prácticas.
+
+b. Se han realizado funciones y aplicado protocolos de coordinación de los técnicos de iniciación deportiva en balonmano en el centro deportivo de prácticas.
+
+c. Se han identificado las necesidades materiales y humanas de la escuela de iniciación deportiva en balonmano del centro deportivo de prácticas.
+
+d. Se han identificado los estándares técnicos del programa de iniciación deportiva en balonmano del centro deportivo de prácticas.
+
+e. Se han elaborado unidades de contenidos de iniciación al balonmano acordes con las características del grupo, del entorno, y la programación del centro deportivo de prácticas.
+
+8\. Colabora en la organización de actividades y competiciones de tecnificación deportiva en balonmano, interpretando instrucciones y normas relacionadas, identificando y preparando los medios necesarios y aplicando los procedimientos establecidos.
+
+a. Se ha identificado el calendario de actividades, eventos y competiciones de iniciación o tecnificación deportiva en balonmano del centro deportivo de prácticas.
+
+b. Se ha seleccionado la información necesaria en la organización de un evento o competición de iniciación o tecnificación deportiva en balonmano del centro deportivo de prácticas.
+
+c. Se han realizado operaciones de gestión y organización de los espacios, materiales y recursos humanos de un evento o competición de iniciación o tecnificación deportiva en balonmano del centro deportivo de prácticas.
+
+d. Se han aplicado técnicas de recogida de información sobre los aspectos organizativos y logísticos de un evento o competición de iniciación o tecnificación deportiva en balonmano del centro deportivo de prácticas.
+
+e. Se han realizado operaciones de distribución, ubicación, alojamiento y logística de desplazamiento de los participantes y resto de asistentes a un evento o competición de iniciación o tecnificación deportiva en balonmano del centro deportivo de prácticas siguiendo los protocolos de seguridad.
+
+f. Se han realizado operaciones de apoyo administrativo a la organización de un evento o competición de iniciación o tecnificación deportivo en balonmano del centro deportivo de prácticas.
+
+g. Se han realizado operaciones de comunicación utilizado los medios de difusión e información de un evento o competición de iniciación o tecnificación deportiva en balonmano del centro deportivo de prácticas.
+
+h. Se han reconocido y respetado entre otros, los siguientes valores: asumir la responsabilidad otorgada, estimular el trabajo colaborativo, aplicar de forma compartida las nuevas tecnologías de la información y la comunicación y adaptarse a los cambios con actitud positiva y eficacia.
+
+> Se numera este módulo como Anexo III.n por el art. 11.8.ñ) del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO IV — Ratio profesor/alumno
+
+| Bloque específico ciclo inicial | Ratio profesor/alumno |
+|---|---|
+| MED-BMBM102 Fundamentos básicos del juego. | 1/30 |
+| MED-BMBM103 Enseñanza del balonmano en la iniciación. | 1/30 |
+| MED-BMBM104 Organización de actividades y eventos de base. | 1/30 |
+| MED-BMBM105 Formación práctica. | 1/30 |
+
+| Bloque específico ciclo final | Ratio profesor/alumno |
+|---|---|
+| MED-BMBM201 Formación técnico-táctica individual en balonmano. | 1/30 |
+| MED-BMBM202 El juego colectivo en balonmano. | 1/30 |
+| MED-BMBM203 Metodología en la etapa de tecnificación en balonmano. | 1/30 |
+| MED-BMBM204 Preparación física del balonmano. | 1/30 |
+| MED-BMBM205 Fundamentos básicos del balonmano playa. | 1/30 |
+| MED-BMBM206 Balonmano en silla de ruedas. | 1/30 |
+| MED-BMBM207 Dirección deportiva en la etapa de tecnificación. | 1/30 |
+| MED-BMBM208 Formación práctica. | 1/30 |
+
+## ANEXO V — Acceso módulo formación práctica
+
+| Acceso módulo formación práctica | Módulos a superar |
+|---|---|
+| MED-BMBM105 Formación práctica. | Del bloque común del ciclo inicial:<br>MED-C101 Bases del comportamiento deportivo.<br>MED-C102 Primeros auxilios.<br>Del bloque específico:<br>MED-BMBM102 Fundamentos básicos del juego.<br>MED-BMBM103 Enseñanza de balonmano en la iniciación.<br>MED-BMBM104 Organización de actividades y eventos de base. |
+| MED-BMBM208 Formación práctica. | Del bloque común del ciclo final:<br>MED-C201 Bases del aprendizaje deportivo.<br>MED-C202 Bases del entrenamiento deportivo.<br>Del bloque específico:<br>MED-BMBM201 Formación técnico-táctica individual en balonmano.<br>MED-BMBM202 El juego colectivo en balonmano.<br>MED-BMBM203 Metodología en la etapa de tecnificación en balonmano.<br>MED-BMBM204 Preparación física del balonmano.<br>MED-BMBM205 Fundamentos básicos del balonmano playa.<br>MED-BMBM206 Balonmano en silla de ruedas.<br>MED-BMBM207 Dirección deportiva en la etapa de tecnificación. |
+
+## ANEXO VI-A — Espacios y equipamientos mínimos del ciclo inicial
+
+Espacios: Ciclo inicial
+
+| Espacio formativo | Superficie m<sup>2</sup><br>30 alumnos | Superficie m<sup>2</sup><br>20 alumnos | Módulo de enseñanza deportiva |
+|---|---|---|---|
+| Aula polivalente. | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común y específico del ciclo inicial. |
+| Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | MED-C101. Bases del comportamiento deportivo.<br>MED-C102. Primeros auxilios.<br>MED-C105: Actividad físico-deportiva para personas con discapacidad. |
+
+| Espacio formativo | Módulo de enseñanza deportiva |
+|---|---|
+| Pista de balonmano. | MED-BMBM102 Fundamentos básicos del juego.<br>MED-BMBM103 Enseñanza de balonmano en la iniciación.<br>MED-BMBM104 Organización de actividades y eventos de base. |
+
+Equipamientos: Ciclo inicial
+
+| Equipamiento del aula polivalente | Módulo de enseñanza deportiva |
+|---|---|
+| ● Equipos audiovisuales. Cañón de proyección.<br>● PCs instalados en red con conexión a Internet.<br>● Software específico. | Módulos de enseñanza deportiva de los bloques común y específico del ciclo inicial. |
+
+| Equipamiento del gimnasio | Módulo de enseñanza deportiva |
+|---|---|
+| ● Maniquíes de primeros auxilios (adulto y bebé).<br>● Material de inmovilización y movilización.<br>● Material de cura.<br>● Desfibrilador externo semiautomático. | MED-C102. Primeros auxilios. |
+| ● Material deportivo adaptado. | MED-C105: Actividad físico-deportiva para personas con discapacidad. |
+
+| Equipamiento de la Pista de balonmano | Módulo de enseñanza deportiva |
+|---|---|
+| ● Porterías de balonmano.<br>● Balones de balonmano.<br>● Material señalizador. | MED-BMBM102 Fundamentos básicos del juego.<br>MED-BMBM103 Enseñanza de balonmano en la iniciación.<br>MED-BMBM104 Organización de actividades y eventos de base. |
+
+> Se modifica por el art. 11.4 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO VI-B — Espacios y equipamientos del ciclo final
+
+Espacios: Ciclo final
+
+| Espacio formativo | Superficie m<sup>2</sup><br>30 alumnos | Superficie m<sup>2</sup><br>20 alumnos | Módulo de enseñanza deportiva |
+|---|---|---|---|
+| Aula polivalente o salón de actos | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo final. |
+| Gimnasio | 120 m<sup>2</sup> | 90 m<sup>2</sup> | MED-C201 Bases del aprendizaje deportivo.<br>MED-C202 Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad. |
+| Pista polideportiva<br>44 x 22 m |  |  | MED-C201 Bases del aprendizaje deportivo.<br>MED-C202 Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad. |
+
+| Espacio de formación | Módulo de enseñanza deportiva |
+|---|---|
+| ● Pista de balonmano | MED-BMBM201 Formación técnico-táctica individual en balonmano.<br>MED-BMBM202 El juego colectivo en balonmano.<br>MED-BMBM203 Metodología en la etapa de tecnificación en balonmano.<br>MED-BMBM204 Preparación física del balonmano.<br>MED-BMBM205 Fundamentos básicos del balonmano playa.<br>MED-BMBM206 Balonmano en silla de ruedas.<br>MED-BMBM207 Dirección deportiva en la etapa de tecnificación. |
+
+Equipamientos: Ciclo final
+
+| Equipamiento del aula polivalente | Módulo de enseñanza deportiva |
+|---|---|
+| ● Equipos audiovisuales. Cañón de proyección.<br>● PCs instalados en red con conexión a Internet.<br>● Software específico. | Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo final. |
+
+| Equipamiento del gimnasio | Módulo de enseñanza deportiva |
+|---|---|
+| ● Material deportivo adaptado.<br>● Material ortopédico. | MED-C206: Iniciación deportiva para personas con discapacidad. |
+| ● Material deportivo.<br>● Muñecos desmembrados.<br>● Láminas de anatomía.<br>● Pulsímetros. | MED-C202: Bases del entrenamiento deportivo. |
+
+| Equipamiento de la pista de balonmano | Módulo de enseñanza deportiva |
+|---|---|
+| ● Porterías de balonmano.<br>● Balones de balonmano.<br>● Material señalizador. | MED-BMBM201 Formación técnico-táctica individual en balonmano.<br>MED-BMBM202 El juego colectivo en balonmano.<br>MED-BMBM203 Metodología en la etapa de tecnificación en balonmano.<br>MED-BMBM204 Preparación física del balonmano.<br>MED-BMBM205 Fundamentos básicos del balonmano playa.<br>MED-BMBM206 Balonmano en silla de ruedas.<br>MED-BMBM207 Dirección deportiva en la etapa de tecnificación. |
+
+> Se modifica por el art. 11.5 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO VII — Prueba RAE-BMBM101, de carácter específico para el acceso a las enseñanzas de ciclo inicial de grado medio en balonmano
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Realiza pases por parejas en situación estática y pasa y recibe el balón en desplazamiento.
+
+a. Se han realizado al menos cinco pases-recepciones consecutivos por parejas en el sitio moviendo los pies.
+
+b. Se han pasado en movimiento el balón de forma continua con diferentes formas de ejecución y con trayectorias de pase tanto directas como indirectas.
+
+c. Se han realizado los pases sin que el balón caiga al suelo más de dos veces de forma involuntaria.
+
+d. Se ha mantenido la separación de entre 5 y 7 metros entre los miembros de la pareja durante el recorrido de ida y vuelta.
+
+PRUEBA ASOCIADA «PASES POR PAREJAS»
+
+– El alumno realiza, manteniendo la situación, pases-recepciones con su pareja, para después realizar un recorrido de ida y vuelta desde las proximidades de la línea de nueve metros hasta la línea de medio campo, en la zona situada frente a la portería, de acuerdo con el gráfico «Distribución de las pruebas», realizando pases-recepciones con su pareja.
+
+– La agrupación de parejas será determinada por el tribunal.
+
+– El alumno tendrá dos intentos para ejecutar el recorrido completo.
+
+2\. Realiza desplazamientos defensivos en una zona delimitada.
+
+a. Se han realizado desplazamientos defensivos laterales con un máximo de tres cruces de pies.
+
+b. Se han realizado los desplazamientos defensivos laterales sin juntar los pies y sin saltar.
+
+c. Se ha mantenido la orientación del tronco y la cabeza del jugador hacia el examinador durante toda la prueba.
+
+d. Se ha realizado el recorrido «A - B - A - C - A - D - A - E - A» en menos de 15’’.
+
+PRUEBA ASOCIADA «DESPLAZAMIENTOS DEFENSIVOS»
+
+– El alumno realiza desplazamientos laterales, según el orden establecido en los criterios, dentro de un cuadrado de 4 metros de lado con un cono en cada vértice y uno más que ocupa el centro del cuadrado (A, B, C, D y E), de acuerdo con el gráfico «Distribución de las pruebas».
+
+– El examinador se sitúa de frente al alumno a unos 2 metros del lado E - D del cuadrado formado por los conos.
+
+– La prueba comienza cuando el examinador baja el brazo a la vez que pone en marcha el cronómetro.
+
+– El alumno debe hacer dos veces el recorrido marcado en los criterios de evaluación.
+
+– Se puede realizar un segundo intento si no se pasa la prueba en el primero.
+
+3\. Realiza, tras pase y recepción previa de balón, lanzamiento a portería desde el extremo.
+
+a. Se han encadenado el pase, la recepción y el lanzamiento a portería, sin pisar la línea de seis metros.
+
+b. Se ha realizado una trayectoria por el exterior del cono sin botar el balón.
+
+c. Se ha conseguido que el lanzamiento entre dentro de la portería.
+
+d. Se ha respetado la regla de los tres pasos.
+
+PRUEBA ASOCIADA «LANZAMIENTOS A PORTERÍA DESDE AMBOS EXTREMOS»
+
+– El alumno situado en la posición de extremo realiza el pase a un colaborador situado en la línea nueve metros, este le devuelve el pase, y el alumno comienza una trayectoria por el exterior del cono colocado a modo de defensor exterior y termina lanzando a portería, todo ello de acuerdo con el gráfico «Distribución de las pruebas».
+
+– El alumno realizará la prueba desde los dos extremos y podrá realizar dos intentos desde cada lado.
+
+– El cono se colocará sobre la línea de seis metros y a una distancia de 1,5 metros perpendicular a la línea de fondo.
+
+4\. Realiza, tras pase corto y devolución de balón larga y previa, un desplazamiento con recurso de bote en modo *slalom* o zigzag.
+
+a. Se han realizado los pases y recepciones de manera que permitan el control del balón por parte del colaborador y del propio alumno.
+
+b. La recepción del pase del colaborador se ha realizado en movimiento.
+
+c. Se ha desplazado en *slalom* o zigzag botando entre conos, utilizando la mano más alejada del cono.
+
+d. Se ha demostrado control aparente del balón durante toda la prueba.
+
+e. Se ha terminado el desplazamiento con lanzamiento del balón, marcando gol.
+
+f. Se ha respetado la regla de los tres pasos.
+
+PRUEBA ASOCIADA «DESPLAZAMIENTOS, CONTROL DE ESPACIO Y BALÓN»
+
+– El alumno con balón situado cerca de la línea de banda y próximo a la línea de seis metros realiza un pase al portero-colaborador que le devuelve un pase para su recepción en carrera, una vez recibido inicia un desplazamiento en slalom botando entre los conos, para terminar con un lanzamiento a portería desde la línea de seis metros.
+
+– Se han colocado cinco conos de acuerdo con el gráfico «Distribución de las pruebas»: el más alejado a un metro de la línea del centro, y los demás, comenzando por la línea de nueve metros, y separados dos metros uno de otro.
+
+– Se pueden realizar tres intentos.
+
+5\. Realiza varias acciones de finta para, una vez superado el oponente inactivo, lanzar a portería desde 9 metros.
+
+a. Se han realizado los pases y recepciones de manera que permitan el control del balón por parte del colaborador y del propio alumno.
+
+b. Se ha realizado la finta superando al oponente inactivo.
+
+c. Se finalizan las acciones con el lanzamiento a portería desde los 9 metros, marcando gol.
+
+d. Se ha respetado la regla de los tres pasos.
+
+PRUEBA ASOCIADA «FINTA Y LANZAMIENTO EN DISTANCIA»
+
+– El alumno se sitúa con una profundidad entre doce y quince metros en la zona de un lateral con balón, y un colaborador entre dos conos y por delante de la línea de nueve metros con función de defensor inactivo de acuerdo con el gráfico «Distribución de las pruebas».
+
+– Se realiza un pase de ida y vuelta con el compañero para realizar con balón una finta al oponente inactivo, superarlo y terminar lanzando a portería entre los postes.
+
+– Los conos que definen la zona de diez metros están separados 3 metros.
+
+– La prueba se realiza en el lado preferente del campo, y se tendrán tres intentos.
+
+CONDICIONES BÁSICAS DE REALIZACIÓN DE LA PRUEBA DE CARÁCTER ESPECÍFICO
+
+ESPACIOS Y EQUIPAMIENTOS:
+
+● Para la realización de las pruebas prácticas se necesitará medio campo de balonmano (20x20 m) y una portería reglamentaria.
+
+MATERIALES:
+
+● Balones de balonmano.
+
+● Conos o estafetas.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/266/18141_17397807_image1.png)
+
+Gráfico 1. Distribución de las pruebas
+
+## ANEXO VIII — Requisitos de titulación del profesorado de los módulos del bloque común de los ciclos inicial y final de grado medio, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad que a continuación se detalla:
+
+<table class="tabla_ancha" data-vertical-align="top">
+<colgroup>
+<col width="33%">
+<col width="33%">
+<col width="34%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<p class="cabeza_tabla">Ciclo inicial</p>
+</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C101.Bases del comportamiento deportivo.</td>
+<td class="cuerpo_tabla_izq">Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">●    Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">●    Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-C102. Primeros auxilios.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Educación Física.</p>
+<p class="cuerpo_tabla_izq">Procesos sanitarios.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">●    Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">●    Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Procedimientos sanitarios y asistenciales.</td>
+<td class="cuerpo_tabla_izq">● Profesores Técnicos de Formación Profesional.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td class="cuerpo_tabla_izq">Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">●    Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">●    Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C104.Organización deportiva.</td>
+<td class="cuerpo_tabla_izq">Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">●    Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">●    Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+| Ciclo final | Especialidad | Cuerpo |
+|---|---|---|
+| MED-C201. Bases del aprendizaje deportivo. | Educación Física. | ● Catedrático de Enseñanza Secundaria.<br>● Profesor de Enseñanza Secundaria. |
+| MED-C202. Bases del entrenamiento deportivo. | Educación Física. | ● Catedrático de Enseñanza Secundaria.<br>● Profesor de Enseñanza Secundaria. |
+| MED-C206: Iniciación deportiva para personas con discapacidad. | Educación Física. | ● Catedrático de Enseñanza Secundaria.<br>● Profesor de Enseñanza Secundaria. |
+| MED-C204.Organización y legislación deportiva. | Educación Física. | ● Catedrático de Enseñanza Secundaria.<br>● Profesor de Enseñanza Secundaria. |
+| MED-C205. Deporte y género. | Educación Física. | ● Catedrático de Enseñanza Secundaria.<br>● Profesor de Enseñanza Secundaria. |
+
+> Se modifica por el art. 11.4 a 6 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO IX-A — Requisitos de titulación del profesorado de los módulos del bloque específico de los ciclos inicial y final de grado medio, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
+
+| Módulo de enseñanza deportiva<br>Ciclo inicial | Especialidad | Cuerpo |
+|---|---|---|
+| MED-BMBM102 Fundamentos básicos del juego.<br>MED-BMBM103 Enseñanza del balonmano en la iniciación.<br>MED-BMBM-104 Organización de actividades y eventos de base. | Educación Física con el título de Técnico Deportivo Superior en Balonmano o con la homologación al título de Técnico Deportivo Superior en Balonmano. | ● Catedrático de Enseñanza Secundaria.<br>● Profesor de Enseñanza Secundaria. |
+|  | Profesor especialista. |  |
+| MED-BMBM105 Formación práctica. | Educación Física. | ● Catedrático de Enseñanza Secundaria.<br>● Profesor de Enseñanza Secundaria. |
+
+<table class="tabla_ancha" data-vertical-align="top">
+<colgroup>
+<col width="33%">
+<col width="33%">
+<col width="34%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<p class="cabeza_tabla">Ciclo final</p>
+</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">
+<p class="cuerpo_tabla_izq">MED-BMBM201 Formación técnico-táctica individual en balonmano.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM202 El juego colectivo en balonmano.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM203 Metodología en la etapa de tecnificación en balonmano.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM204 Preparación física del balonmano.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM205 Fundamentos básicos del balonmano playa.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM206 Balonmano en silla de ruedas.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM207 Dirección deportiva en la etapa de tecnificación.</p>
+</td>
+<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Balonmano o con la homologación al título de Técnico Deportivo Superior en Balonmano.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">●    Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">●    Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-BMBM208 Formación práctica.</td>
+<td class="cuerpo_tabla_izq">Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">●    Catedrático de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">●    Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO IX-B — Condición de Profesor especialista en centros públicos de la Administración educativa: acreditación de experiencia docente, o actividad en el ámbito deportivo y laboral
+
+| Módulos enseñanza deportiva | Experiencia docente acreditable | Actividad en el ámbito deportivo y laboral |
+|---|---|---|
+| MED-BMBM102 Fundamentos básicos del juego.<br>MED-BMBM103 Enseñanza del balonmano en la iniciación.<br>MED-BMBM104 Organización de actividades y eventos de base.<br>MED-BMBM201 Formación técnico-táctica individual en balonmano.<br>MED-BMBM202 El juego colectivo en balonmano.<br>MED-BMBM-203 Metodología en la etapa de tecnificación en balonmano.<br>MED-BMBM204 Preparación física del balonmano.<br>MED-BMBM205 Fundamentos básicos del balonmano playa.<br>MED-BMBM206 Balonmano en silla de ruedas<br>MED-BMBM207 Dirección deportiva en la etapa de tecnificación. | Cualquiera de las siguientes opciones:<br>● Al menos 100 horas de docencia acreditada en formación de entrenadores en los niveles 1 y 2 o 50 horas en el nivel 3 de balonmano en las formaciones a las que se refiere la disposición adicional quinta y y la disposición transitoria primera y del Real Decreto 1363/2007, de 24 de octubre, así como de la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre.<br>● Al menos 100 horas de docencia acreditada en formación de nivel 1 o 2 del técnico deportivo en balonmano, o 50 horas en la formación de los técnicos deportivos superiores en balonmano, regulados por el Real Decreto 361/2004, de 5 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Balonmano, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas. | Al menos 4 años de ejercicio deportivo-laboral relacionado con las competencias profesionales del ciclo inicial y final o, al menos, 2 años del ciclo superior, realizado en los 5 años inmediatamente anteriores al nombramiento. |
+
+En el caso de la formación a las que se refiere la adicional quinta del Real Decreto 1363/2007, la Real Federación Española de Balonmano emitirá la correspondiente certificación de la experiencia docente en la que conste: las materias impartidas, el número de horas impartidas, la fecha del curso en el que se impartió la materia o materias, y la fecha de la resolución de reconocimiento de la formación por parte del Consejo Superior de Deportes junto con la fecha de publicación en el BOE.
+
+En el caso de las formaciones a las que se refiere la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, el órgano competente de la Comunidad Autónoma que autorizó las formaciones emitirá la correspondiente certificación de la experiencia docente en la que consten las materias y el número de horas impartidas.
+
+En el caso de las formaciones a las que se refiere el Real Decreto 361/2004, de 5 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Balonmano, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas, la correspondiente Administración educativa emitirá la certificación de la experiencia docente en la que consten los módulos y el número de horas impartidas.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+La Real Federación Española de Balonmano emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+## ANEXO X — Los requisitos de titulación del profesorado en centros privados y de titularidad pública de administraciones distintas de la educativa
+
+Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
+
+<table class="tabla" data-vertical-align="top">
+<caption>
+<p class="centro_cursiva">Módulos del bloque común: ciclo inicial y final</p>
+</caption>
+<colgroup>
+<col width="50%">
+<col width="50%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo comunes de enseñanza deportiva</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Titulaciones</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">Ciclo inicial</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">MED-C101. Bases del comportamiento deportivo.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Psicología.</p>
+<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
+<p class="cuerpo_tabla_izq">Título de Graduado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">MED-C102. Primeros auxilios.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Medicina.</p>
+<p class="cuerpo_tabla_izq">Diplomado o Graduado en Enfermería.</p>
+<p class="cuerpo_tabla_izq">Diplomado o Graduado en Fisioterapia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
+<p class="cuerpo_tabla_izq">Graduado en Educación Primaria mención de Educación Física.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">MED-C104. Organización deportiva.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">Ciclo final</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">MED-C201. Bases del aprendizaje deportivo.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Psicología.</p>
+<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
+<p class="cuerpo_tabla_izq">Título de Graduado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">MED-C202. Bases del entrenamiento deportivo.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">MED-C204. Organización y legislación deportiva.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Derecho.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">MED-C205. Deporte y género.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
+<p class="cuerpo_tabla_izq">Graduado en Educación Primaria mención de Educación Física.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="tabla" data-vertical-align="top">
+<caption>
+<p class="centro_cursiva">Módulos del bloque específico: ciclo inicial y final</p>
+</caption>
+<colgroup>
+<col width="50%">
+<col width="50%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Módulo específico de enseñanza deportiva</th>
+<th class="cabeza_tabla">Titulaciones</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">Ciclo inicial</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">MED-BMBM102 Fundamentos básicos del juego.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM103 Enseñanza del balonmano en la iniciación.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM104 Organización de actividades y eventos de base.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">●    Técnico Deportivo Superior en Balonmano</p>
+<p class="cuerpo_tabla_izq">●    Homologación al título de Técnico Deportivo Superior en Balonmano.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-BMBM105 Formación práctica.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">●    Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p class="cuerpo_tabla_izq">●    Técnico Deportivo Superior en Balonmano.</p>
+<p class="cuerpo_tabla_izq">●    Homologación al título de Técnico Deportivo Superior en Balonmano.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" colspan="2">Ciclo final</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">MED-BMBM201 Formación técnico-táctica individual en balonmano.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM202 El juego colectivo en balonmano.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM203 Metodología en la etapa de tecnificación en balonmano.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM204 Preparación física del balonmano.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM205 Fundamentos básicos del balonmano playa.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM206 Balonmano en silla de ruedas.</p>
+<p class="cuerpo_tabla_izq">MED-BMBM207 Dirección deportiva en la etapa de tecnificación.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">●    Técnico Deportivo Superior en Balonmano.</p>
+<p class="cuerpo_tabla_izq">●    Homologación al título de Técnico Deportivo Superior en Balonmano.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-BMBM208 Formación práctica.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">●    Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p class="cuerpo_tabla_izq">●    Técnico Deportivo Superior en Balonmano.</p>
+<p class="cuerpo_tabla_izq">●    Homologación al título de Técnico Deportivo Superior en Balonmano.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica por el art. 11.4 a 6 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO XI-A — Relación de cualificaciones profesionales y unidades de competencia que acredita el ciclo inicial de grado medio en balonmano
+
+| Cualificación profesional | Unidades de competencia |
+|---|---|
+| Cualificación profesional completa de iniciación deportiva en balonmano AFD674_2. | a) UC2273_2: Ejecutar acciones técnico-tácticas de iniciación deportiva en balonmano.<br>b) UC2274_2: Concretar, dirigir y dinamizar sesiones secuenciadas de iniciación deportiva en balonmano.<br>c) UC2275_2: Dinamizar acciones de promoción y acompañamiento en eventos y competiciones de balonmano.<br>d) UC0272_2: Asistir como primer interviniente en caso de accidente o situación de emergencia. |
+
+## ANEXO XI-B — Correspondencia de los módulos de enseñanza deportiva con las unidades de competencia para su acreditación
+
+| Módulos de enseñanza deportiva superados | Unidades de competencia del CNCP acreditables |
+|---|---|
+| Los módulos de:<br>● MED-C102 Primeros auxilios.<br>● MED-BMBM105 Formación práctica. | Acreditan la Unidad de competencia:<br>UC0272_2_R: Asistir como primer interviniente en caso de accidente o situación de emergencia. |
+| Los módulos de:<br>● RAE-BMBM101 Requisito específico de acceso. | Acreditan la Unidad de competencia:<br>UC2273_2: Ejecutar acciones técnico-tácticas de iniciación deportiva en balonmano. |
+| Los módulos de:<br>● MED-C101.Bases del comportamiento deportivo.<br>● MED-BMBM102 Fundamentos básicos del juego.<br>● MED-BMBM103 Enseñanza del balonmano en la iniciación.<br>● MED-BMBM105 Formación práctica. | Acreditan la Unidad de competencia:<br>● UC2274_2: Concretar, dirigir y dinamizar sesiones secuenciadas de iniciación deportiva en balonmano. |
+| Los módulos de:<br>● MED-C105: Actividad físico-deportiva para personas con discapacidad.<br>● MED-C104.Organización deportiva.<br>● MED-BMBM104 Organización de actividades y eventos de base.<br>● MED-BMBM105 Formación práctica. | Acreditan la Unidad de competencia:<br>UC2275_2: Dinamizar acciones de promoción y acompañamiento en eventos y competiciones de balonmano. |
+
+> Se modifica por el art. 11.4 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO XI-C — Correspondencia de las unidades de competencia acreditadas con los módulos de enseñanza deportiva para su convalidación
+
+| Unidades de competencia del CNCP acreditadas | Módulos de enseñanza deportiva convalidables |
+|---|---|
+| La Unidad de competencia:<br>UC0272_2_R: Asistir como primer interviniente en caso de accidente o situación de emergencia. | Permiten la convalidación de:<br>● MED-C102: Primeros auxilios. |
+| La Unidad de competencia:<br>UC2273_2: Ejecutar acciones técnico-tácticas de iniciación deportiva en balonmano. | Permiten la convalidación de:<br>● RAE-BMBM101 Requisito específico de acceso. |
+| La Unidad de competencia:<br>UC2274_2: Concretar, dirigir y dinamizar sesiones secuenciadas de iniciación deportiva en balonmano. | Permiten la convalidación de:<br>● MED-C101.Bases del comportamiento deportivo.<br>● MED-BMBM102 Fundamentos básicos del juego.<br>● MED-BMBM103 Enseñanza del balonmano en la iniciación. |
+| La Unidad de competencia:<br>UC2275_2: Dinamizar acciones de promoción y acompañamiento en eventos y competiciones de balonmano. | Permiten la convalidación de:<br>● MED-C105: Actividad físico-deportiva para personas con discapacidad.<br>● MED-C104.Organización deportiva.<br>● MED-BMBM104 Organización de actividades y eventos de base. |
+
+> Se modifica por el art. 11.4 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)
+
+## ANEXO XII — Convalidaciones entre módulos de enseñanza deportiva establecidos al amparo de la Ley Orgánica 1/1990 y los módulos de enseñanza deportiva del bloque específico del técnico deportivo en balonmano
+
+| Módulos superados del primer nivel del título de Técnico Deportivo en Balonmano LOGSE (RD 361/2004, de 5 de marzo) | Módulos convalidados del ciclo inicial de grado medio de balonmano |
+|---|---|
+| ● Metodología de la enseñanza y del entrenamiento en balonmano. | MED-BMBM103 Enseñanza de balonmano en la iniciación. |
+| ● Formación técnico-táctica individual de balonmano.<br>● Reglas de juego. | MED-BMBM102 Fundamentos básicos del juego. |
+| ● Técnicas básicas de organización de actividades en balonmano.<br>● Desarrollo profesional. | MED-BMBM104 Organización de actividades y eventos de base. |
+| ● Módulo de Formación práctica | MED-BMBM105 Formación práctica. |
+
+| Módulos superados del segundo nivel del título de Técnico Deportivo en Balonmano LOGSE (RD 361/2004, de 5 de marzo) | Módulos convalidados del ciclo final de grado medio de balonmano |
+|---|---|
+| ● Formación técnico-táctica individual de balonmano.<br>● Reglas de juego. | MED-BMBM201 Formación técnico-táctica individual en balonmano. |
+| ● Juego colectivo ofensivo y defensivo. | MED-BMBM202 El juego colectivo en balonmano. |
+| ● Metodología de la enseñanza y del entrenamiento en balonmano. | MED-BMBM203 Metodología en la etapa de tecnificación en balonmano. |
+| ● Preparación física específica.<br>● Seguridad de balonmano. | MED-BMBM204 Preparación física del balonmano. |
+| ● Desarrollo profesional.<br>● Dirección de equipos. | MED-BMBM207 Dirección deportiva en la etapa de tecnificación. |
+| ● Módulo de Formación práctica. | MED-BMBM208 Formación práctica. |
+
+## ANEXO XIII — Exención total o parcial del módulo de formación práctica de los ciclos inicial y final
+
+| MED-BMBM105 Formación práctica | Experiencia ámbito laboral o deportivo |
+|---|---|
+| Exención total.<br>Exención parcial. | ● Duración: superior a 300 horas.<br>● Actividad desarrollada: experiencia relacionada con la competencia general del ciclo inicial de grado medio en balonmano y los resultados de aprendizaje del módulo de formación práctica.<br>● Periodo de tiempo que ha desarrollado la actividad: dos años anteriores a la finalización del curso. |
+
+La exención parcial del módulo de formación práctica, se concederá para aquellos resultados de aprendizaje del módulo, que sean concordantes con la experiencia laboral o deportiva acreditada.
+
+La exención total del módulo de formación práctica, se podrá conceder cuando exista una completa concordancia de la experiencia laboral o deportiva acreditada con la totalidad de los resultados de aprendizaje del correspondiente módulo.
+
+La Real Federación Española de Balonmano emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+| MED-BMBM208 Formación práctica | Experiencia ámbito laboral o deportivo |
+|---|---|
+| Exención total.<br>Exención parcial. | ● Duración: superior a 400 horas<br>● Actividad desarrollada: experiencia relacionada con la competencia general del ciclo final de grado medio en balonmano y los resultados de aprendizaje del módulo de formación práctica.<br>● Periodo de tiempo que ha desarrollado la actividad. dos años anteriores a la finalización del curso. |
+
+La exención parcial del módulo de formación práctica, se concederá para aquellos resultados de aprendizaje del módulo, que sean concordantes con la experiencia laboral o deportiva acreditada.
+
+La exención total del módulo de formación práctica, se podrá conceder cuando exista una completa concordancia de la experiencia laboral o deportiva acreditada con la totalidad de los resultados de aprendizaje del correspondiente módulo.
+
+La Real Federación Española de Balonmano emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+## ANEXO XIV — Formación a distancia
+
+|  | Ciclo inicial | Ciclo final |
+|---|---|---|
+| Módulos bloque común. | MED-C101.Bases del comportamiento deportivo.<br>MED-C102. Primeros auxilios.<br>MED-C105: Actividad físico-deportiva para personas con discapacidad.<br>MED-C104.Organización deportiva. | MED-C201 Bases del aprendizaje deportivo.<br>MED-C202 Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad.<br>MED-C204 Organización y legislación deportiva.<br>MED-C205. Deporte y género. |
+| Módulos bloque específico. | MED-BMBM102 Fundamentos básicos del juego.<br>MED-BMBM103 Enseñanzas del balonmano en la iniciación.<br>MED-BMBM104 Organización de actividades y eventos de base. | MED-BMBM201 Formación técnico-táctica individual en balonmano.<br>MED-BMBM202 El juego colectivo en balonmano.<br>MED-BMBM203 Metodología en la etapa de tecnificación en balonmano.<br>MED-BMBM204 Preparación física del balonmano.<br>MED-BMBM205 Fundamentos básicos del balonmano playa.<br>MED-BMBM206 Balonmano en silla de ruedas.<br>MED-BMBM207 Dirección deportiva en la etapa de tecnificación. |
+
+> Se modifica por el art. 11.4 a 6 del Real Decreto 534/2026, de 30 de junio. [Ref. BOE-A-2026-14332](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14332)

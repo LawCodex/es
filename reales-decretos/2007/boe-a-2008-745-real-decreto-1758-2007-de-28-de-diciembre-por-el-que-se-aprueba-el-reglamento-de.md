@@ -1,0 +1,783 @@
+---
+title: "Real Decreto 1758/2007, de 28 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, en las materias referentes a los incentivos fiscales en la imposición indirecta, la reserva para inversiones en Canarias y la Zona Especial Canaria"
+identifier: "BOE-A-2008-745"
+eli: "https://www.boe.es/eli/es/rd/2007/12/28/1758"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2007-12-28
+published: 2008-01-16
+in_force_from: 2008-01-17
+last_amended: 2024-05-01
+consolidated: 2026-09-10
+gazette: "Boletín Oficial del Estado núm. 14"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-745"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1758/2007, de 28 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, en las materias referentes a los incentivos fiscales en la imposición indirecta, la reserva para inversiones en Canarias y la Zona Especial Canaria
+
+Incluye la corrección de errores publicada en BOE núm. 34, de 8 de febrero de 2008. [Ref. BOE-A-2008-2189](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-2189).
+
+Este real decreto tiene por objeto principal el desarrollo reglamentario de determinados beneficios fiscales establecidos en la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias.
+
+El Real Decreto-ley 12/2006, de 29 de diciembre, por el que se modifican la Ley 19/1994, de 6 de julio, de Modificación del Régimen Económico y Fiscal de Canarias, y el Real Decreto-ley 2/2000, de 23 de junio, vino a actualizar y prorrogar el régimen fiscal especial aplicable en dicho territorio. Su modernización venía exigida por dos razones principales. En primer lugar, la experiencia derivada de la aplicación de la Ley 19/1994, de 6 de julio, había puesto de manifiesto algunas deficiencias en el cumplimiento de su objetivo principal de adecuar la tributación a las circunstancias particulares de las Islas Canarias. La parca regulación de los incentivos introducidos había derivado tanto en inseguridad como en conflictividad jurídica. Por otra parte, se habían detectado algunas dificultades para que se produjeran las inversiones a las que debían destinarse los recursos tributarios liberados dentro de los plazos y en las condiciones legalmente previstas.
+
+Por otra parte, los beneficios tributarios allí recogidos tienen la consideración de ayudas de Estado y, bajo esta condición, están sujetos a control por la Comisión Europea en aplicación de las correspondientes normas de Derecho comunitario. Esta Institución procedió a la revisión de los criterios bajo los cuales consideraba compatibles con el Tratado Constitutivo de la Comunidad Europea las ayudas de carácter regional con el objeto de adecuarlos a las nuevas perspectivas financieras para el período 2007 a 2013. Se hacía necesario ajustar las particularidades del régimen fiscal canario a estas nuevas prescripciones. Al mismo tiempo, era preciso tramitar una nueva solicitud de aprobación de tales ayudas en la medida en que las recogidas en la Ley 19/1994, de 6 de julio, tenían un plazo de vigencia que expiraba el 31 de diciembre de 2006.
+
+Por tanto, aprobada la norma legal ajustada a la nueva autorización comunitaria, procede aprobar las normas reglamentarias necesarias para cumplir con las siguientes finalidades: desarrollar las remisiones que se encuentran en el texto legal, esclarecer determinados aspectos del mismo con el objeto de ofrecer mayor seguridad jurídica a los particulares sobre los criterios que deben regir la aplicación de los beneficios tributarios regulados y reducir el nivel de conflictividad jurídica puesta de manifiesto en el pasado. Igualmente, se procede a determinar algunos conceptos que se incorporaron tras la reforma introducida en diciembre de 2006 que tienen su origen en el Derecho comunitario y que no habían sido utilizados con anterioridad por nuestras normas fiscales.
+
+#### II
+
+El artículo único del presente real decreto aprueba el Reglamento de desarrollo de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, en las materias referentes a los incentivos fiscales en la imposición indirecta, la reserva para inversiones en Canarias y la Zona Especial Canaria. Su disposición final única dispone su entrada en vigor el día siguiente a su publicación en el BOE. No obstante, la obligatoriedad de presentación de los planes de inversión regulados en el capítulo II del título IV, tendrá lugar en la fecha en la que entre en vigor la Orden ministerial por la que se determine la forma de presentar la declaración del Impuesto sobre Sociedades para los periodos impositivos iniciados en 2007.
+
+El reglamento se estructura en cincuenta y seis artículos agrupados en seis títulos. En los mismos se abordan la determinación del ámbito de aplicación de las exenciones en la imposición indirecta, las reducciones en la base imponible del Impuesto sobre Sociedades y las deducciones en la cuota íntegra del Impuesto sobre la Renta de las Personas Físicas como consecuencia de las dotaciones a la reserva para inversiones en Canarias. Se procede también a la identificación de las distintas formas de inversión objeto de estos beneficios y a su clasificación de acuerdo con los conceptos comunitarios, donde se distinguen aquellas clasificadas como iniciales de las que no pueden reputarse como tales. Se introducen normas dirigidas a facilitar la gestión de estos incentivos fiscales. Se precisan los límites dentro de los cuales se pueden disfrutar de las exenciones y reducciones tributarias y se pueden compatibilizar con otras subvenciones públicas, siguiendo los parámetros fijados por la Comisión Europea en su interpretación y aplicación de las correspondientes reglas de competencia. Por último, se abordan determinadas cuestiones necesarias para la gestión de la Zona Especial Canaria.
+
+#### III
+
+El título primero del reglamento aborda cuestiones relacionadas con la determinación del ámbito subjetivo de aplicación de las exenciones en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados y en el Impuesto General Indirecto Canario, previstas ambas en el artículo 25 de la Ley 19/1994, de 6 de julio, así como la reducción en concepto de reserva para inversiones en Canarias, regulada en el artículo 27 de la Ley 19/1994, de 6 de julio. Se precisa además su aplicación en el caso de entidades que prestan servicios financieros o servicios intragrupo y se concretan las condiciones que se requieren para que las personas físicas puedan disfrutar de los mismos.
+
+Por otra parte, se hacía necesario precisar el concepto de establecimiento permanente, dado el importante papel que juega en la aplicación de los beneficios. Se convierte en el elemento central de imputación de actividades y rentas sobre los que se proyectan estas normas. También juegan un papel esencial para caracterizar los distintos tipos de inversión con el objeto de precisar las diferentes normas que los regulan.
+
+#### IV
+
+Las normas sobre ayudas de Estado establecen reglas particulares aplicables a determinado tipo de inversiones. En consecuencia, es preciso trasladar a nuestro ordenamiento tributario las precisiones oportunas al objeto de plasmar las previsiones específicas aplicables a determinados activos como los intangibles, a las inversiones en cartera o a los casos en que los incentivos se refieran a la creación de puestos de trabajo.
+
+Con la finalidad de reducir incertidumbres derivadas de distintos criterios interpretativos, se recogen previsiones dirigidas a precisar las condiciones que deben reunir las inversiones para poder disfrutar de los incentivos fiscales. En particular, se concretan las circunstancias bajo las cuales las inversiones en aeronaves o en películas cinematográficas y series audiovisuales se consideran efectuadas en el archipiélago.
+
+#### V
+
+Respecto de las obligaciones formales, las normas del reglamento ofrecen determinados parámetros dirigidos a dotar de eficacia a los sistemas de comunicación entre particulares, necesarios para disponer de la información precisa que permita avalar la legalidad de las inversiones en cartera.
+
+Asimismo, se abordan los detalles necesarios para que la formulación del plan de inversiones se produzca de la forma más sencilla y estandarizada posible, con el objeto de que se convierta en un instrumento de planificación para el contribuyente y en un método útil de trabajo para las comprobaciones que corresponda hacer a la Administración tributaria. Se regulan los términos para solicitar y obtener la autorización de planes especiales de inversión en los casos en que su realización se prolongue por más tiempo del disponible con carácter general para la materialización de las dotaciones a la citada reserva para inversiones. Se ha previsto la posible modificación del plan cuando las inversiones finalmente realizadas no sean las inicialmente previstas.
+
+#### VI
+
+Las normas comunitarias establecen reglas muy rígidas de control sobre acumulación de ayudas de distintas formas y procedencias con el objeto de establecer límites máximos para las aportaciones efectuadas desde los poderes públicos a las empresas particulares. Su fin, evitar perturbaciones en los mercados. El reglamento se remite también a las disposiciones comunitarias que establecen las condiciones para que se puedan otorgar ayudas en los sectores agrícola, forestal, acuícola y pesquero.
+
+#### VII
+
+La gestión de la Zona Especial Canaria venía reclamando determinadas medidas dirigidas a precisar y ordenar su práctica diaria, así como para ofrecer mayor seguridad jurídica respecto de los operadores y actividades que entraban en su régimen.
+
+La participación de los beneficios fiscales ofrecidos no debe determinar la limitación de actividades fuera de dicho ámbito. Al mismo tiempo, son necesarias determinadas medidas para calcular la superficie que puedan ocupar las instalaciones de las empresas, en particular aquellas que también se acogen al régimen de zonas francas, así como para determinar el ámbito temporal dentro del cuál debe cumplirse con las obligaciones de inversión y de creación de empleo.
+
+También demandaba mayor detalle en su regulación el desarrollo de los procedimientos de solicitud de inscripción en el Registro Oficial de Entidades de la Zona Especial Canaria, de modificación de actividades inicialmente autorizadas, de revisión de actos administrativos así como los necesarios para el ejercicio de las competencias de vigilancia, control y disciplina del Consejo Rector. Se recogen asimismo normas para facilitar la gestión tributaria de las tasas exigibles por la entrada y permanencia en este régimen.
+
+#### VIII
+
+Este reglamento comienza con un índice cuyo objeto es facilitar la utilización de la norma por sus destinatarios mediante una rápida localización y ubicación sistemática de sus preceptos.
+
+Este desarrollo reglamentario se efectúa en virtud de las habilitaciones contenidas en el articulado de la Ley 19/1994, de 6 de julio y en su disposición final única, apartado dos.
+
+De acuerdo con lo dispuesto en el apartado dos de la disposición final única de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, se ha recabado informe de la Comunidad Autónoma de Canarias.
+
+En su virtud, a propuesta del Ministro de Economía y Hacienda, con la aprobación previa de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 28 de diciembre de 2007,
+
+#### D I S P O N G O :
+
+##### Artículo único. Aprobación del Reglamento de desarrollo de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, en las materias referentes a los incentivos fiscales en la imposición indirecta, la reserva para inversiones en Canarias y la Zona Especial Canaria.
+
+Se aprueba el Reglamento de desarrollo de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, en las materias referentes a los incentivos fiscales en la imposición indirecta, la reserva para inversiones en Canarias y la Zona Especial Canaria, cuyo texto se inserta a continuación.
+
+##### Disposición final única. Entrada en vigor.
+
+Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado». No obstante, la obligatoriedad de presentación de los planes de inversión regulados en el capítulo II del título IV, entrará en vigor en la fecha en la que entre en vigor la Orden ministerial por la que se determine la forma de presentar la declaración del Impuesto sobre Sociedades para los periodos impositivos iniciados en 2007.
+
+Dado en Madrid, el 28 de diciembre de 2007.
+
+JUAN CARLOS R.
+
+El Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda,
+
+PEDRO SOLBES MIRA
+
+## REGLAMENTO DE DESARROLLO DE LA LEY 19/1994, DE 6 DE JULIO, DE MODIFICACIÓN DEL RÉGIMEN ECONÓMICO Y FISCAL DE CANARIAS, EN LAS MATERIAS REFERENTES A LOS INCENTIVOS FISCALES EN LA IMPOSICIÓN INDIRECTA, LA RESERVA PARA INVERSIONES EN CANARIAS Y LA ZONA ESPECIAL CANARIA
+
+## TÍTULO I — Ámbito de aplicación de los incentivos fiscales previstos en los artículos 25 y 27 de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias
+
+### CAPÍTULO I — Sujetos pasivos destinatarios de los incentivos fiscales regulados en los artículos 25 y 27 de la Ley 19/1994 de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias
+
+##### Artículo 1. Determinación de los sujetos pasivos y contribuyentes destinatarios de los incentivos fiscales.
+
+1\. Los incentivos fiscales regulados en el artículo 25 de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, serán de aplicación por:
+
+a) Los sujetos pasivos del Impuesto sobre Sociedades, determinados en el artículo 7 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, que, de acuerdo con lo dispuesto en el artículo 8.2 de dicho texto refundido, tengan su domicilio fiscal en Canarias.
+
+b) Los sujetos pasivos del Impuesto sobre Sociedades, determinados en el artículo 7 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, que, sin tener domicilio fiscal en Canarias, operen en dicho territorio mediante establecimiento permanente.
+
+c) Las entidades no residentes en territorio español de acuerdo con lo dispuesto en el artículo 8.1 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, cuando operen en Canarias mediante establecimiento permanente.
+
+2\. Los incentivos fiscales del artículo 27 de la Ley 19/1994, de 6 de julio, serán de aplicación respecto de las rentas obtenidas mediante establecimiento permanente situado en las Islas Canarias por las entidades a que se refiere el apartado anterior y por las personas físicas, contribuyentes del Impuesto sobre la Renta de las Personas Físicas, con domicilio fiscal en Canarias así como por quienes no lo tienen, cuando en ambos casos desarrollen allí actividades económicas mediante establecimiento permanente.
+
+3\. Las personas físicas no residentes en territorio español de acuerdo con lo dispuesto en el artículo 9 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, podrán disfrutar de la reserva para inversiones en Canarias cuando operen en dicho territorio mediante establecimiento permanente, a través la correspondiente reducción en la base imponible por el Impuesto sobre la Renta de no Residentes, en los términos y condiciones previstos en el artículo 27 de la Ley 19/1994, de 6 de julio.
+
+##### Artículo 2. Entidades prestadoras de servicios financieros o de servicios intragrupo.
+
+1\. Las entidades que tengan por actividad principal la prestación de servicios financieros o la prestación de servicios a entidades que pertenezcan al mismo grupo de sociedades en el sentido del artículo 16.3 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, únicamente podrán disfrutar de la reducción por la dotación a la reserva para inversiones en Canarias regulada en el artículo 27 de la Ley 19/1994, de 6 de julio, cuando la materialicen en alguna de las inversiones iniciales a que se refiere el artículo 6 de este reglamento.
+
+2\. Se considerará que tienen como actividad principal la prestación de servicios financieros las entidades de crédito, las empresas de servicios de inversión, las entidades aseguradoras, las sociedades y fondos de inversión colectiva, financieras o no financieras, los fondos de pensiones, los fondos de titulización, las sociedades gestoras de instituciones de inversión colectiva, de fondos de pensiones o de fondos de titulización, las sociedades y fondos de capital-riesgo y sociedades gestoras de entidades de capital-riesgo, las entidades cuya actividad principal sea la tenencia de acciones o participaciones, emitidas por entidades financieras, las sociedades de garantía recíproca y las entidades extranjeras, cualquiera que sea su denominación o estatuto, que, de acuerdo con la normativa que les resulte aplicable, ejerzan las actividades típicas de las anteriores.
+
+3\. Sólo se considerará que una entidad tiene como actividad principal la prestación de servicios intragrupo cuando, en el período impositivo en el que obtiene las rentas con cargo a las cuales efectúa la dotación a la reserva por inversiones, más del cincuenta por ciento de su cifra de negocio proceda de servicios prestados a otras sociedades del mismo grupo.
+
+##### Artículo 3. Aplicación de la reserva para inversiones por los contribuyentes del Impuesto sobre la Renta de las Personas Físicas.
+
+Sin perjuicio del cumplimiento de los requisitos exigidos respecto de los sujetos pasivos del Impuesto sobre Sociedades, los contribuyentes del Impuesto sobre la Renta de las Personas Físicas podrán disfrutar de la reserva para inversiones en Canarias siempre que:
+
+a) Desarrollen actividades económicas, según se definen en el artículo 27 de la Ley 35/2006, de 28 de noviembre.
+
+b) Determinen sus rendimientos netos mediante el método de estimación directa, en cualquiera de sus modalidades.
+
+c) Lleven contabilidad en la forma exigida por el Código de Comercio y su normativa de desarrollo desde el ejercicio en que se han obtenido los beneficios que se destinan a dotar la reserva para inversiones en Canarias hasta aquel en que deban permanecer en funcionamiento los bienes objeto de la materialización de la inversión.
+
+### CAPÍTULO II — Establecimientos situados en Canarias
+
+##### Artículo 4. Determinación de establecimiento permanente generador de beneficios en Canarias.
+
+1\. A los efectos de lo establecido en el artículo 25 de la Ley 19/1994, de 6 de julio, el concepto de establecimiento permanente será el establecido en el artículo 17.1.2.º de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias.
+
+2\. A los efectos de lo establecido en el artículo 27 de la Ley 19/1994, de 6 de julio, serán establecimientos permanentes los previstos en el artículo 13.1.a) del texto refundido de la Ley del Impuesto sobre la Renta de no Residentes, aprobado por el Real Decreto Legislativo 5/2004, de 5 de marzo.
+
+##### Artículo 5. Determinación del beneficio del establecimiento permanente situado en Canarias.
+
+1\. Se considerarán beneficios procedentes de establecimientos permanentes situados en Canarias los derivados de las operaciones efectuadas con los medios personales y materiales afectos al mismo que cierren un ciclo mercantil que determine resultados económicos, así como los derivados de la transmisión de elementos patrimoniales no afectos a actividades económicas, siempre que, en este último caso, se trate de elementos del inmovilizado material, inversiones inmobiliarias o activos intangibles que hayan generado rentas al menos un año dentro de los tres anteriores a la fecha de transmisión.
+
+2\. No tendrá la consideración de beneficio no distribuido:
+
+a) El destinado a nutrir las reservas de carácter legal.
+
+b) El que derive de la transmisión de elementos patrimoniales cuya adquisición hubiera determinado la materialización de la reserva para inversiones en Canarias.
+
+c) El que derive de los valores representativos de la participación en el capital o fondos propios de otras entidades, así como la cesión a terceros de capitales propios, excepto que se trate de entidades que presten servicios financieros.
+
+> Se modifica por el art. único.1 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+## TÍTULO II — Las inversiones
+
+### CAPÍTULO I — Inversiones iniciales
+
+##### Artículo 6. Delimitación del concepto de ayuda.
+
+De conformidad con lo establecido en el artículo 2 del Reglamento (UE) n.º 651/2014, de la Comisión, de 17 de junio de 2014, por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado, a los efectos de este Reglamento se entenderá por:
+
+a) "Ayudas regionales de funcionamiento": Ayudas para reducir los gastos corrientes de una empresa no relacionados con una inversión inicial; incluye categorías de costes tales como los costes de personal, materiales, servicios contratados, comunicaciones, energía, mantenimiento, alquileres, administración, etcétera, pero excluye los gastos de amortización y los costes de financiación si se incluyeron en los costes subvencionables cuando se concedió la ayuda a la inversión.
+
+En particular, tienen tal consideración, a efectos de lo dispuesto en la Ley 19/1994, de 6 de julio, las previstas en el apartado 1 del artículo 36 de este Reglamento.
+
+b) "Ayudas regionales a la inversión": Ayudas regionales concedidas para una inversión inicial.
+
+En particular, tienen tal consideración, a efectos de lo dispuesto en la Ley 19/1994, de 6 de julio, las previstas en el apartado 2 del artículo 36 de este Reglamento.
+
+A su vez, tienen la consideración de inversión inicial, a efectos de lo dispuesto en la Ley 19/1994, de 6 de julio, y en este Reglamento, las siguientes:
+
+a) La inversión en activos materiales e inmateriales relacionada con la creación de un nuevo establecimiento, la ampliación de la capacidad de un establecimiento existente, la diversificación de la producción de un establecimiento en productos que anteriormente no se producían en el mismo o una transformación fundamental del proceso global de producción de un establecimiento existente o,
+
+b) La adquisición de activos pertenecientes a un establecimiento que ha cerrado o que habría cerrado si no hubiera sido adquirido y que es comprado por un inversor no vinculado al vendedor. La mera adquisición de las acciones de una empresa no se considerará inversión inicial.
+
+> Se modifica por el art. único.2 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 7. Inversiones iniciales a que se refiere el artículo 27.4.D.1.º de la Ley 19/1994, de 6 de julio, efectuadas por entidades financieras o de prestación de servicios intragrupo.
+
+Los sujetos pasivos a que se refiere el artículo 2 de este reglamento podrán materializar las dotaciones que hubieran efectuado a la reserva en la adquisición de acciones o participaciones en el capital emitidas por una sociedad, con ocasión de su constitución o su ampliación de capital, a que se refiere el artículo 27.4.D.1.º de la Ley 19/1994, de 6 de julio, siempre que se cumplan todas las condiciones establecidas en dicho artículo.
+
+En el caso de incumplimiento de cualquiera de los requisitos o condiciones allí establecidos, los sujetos pasivos perderán el derecho a la reducción de la base imponible por la dotación a la reserva que hubiera financiado las correspondientes inversiones y procederán a la integración, en la base imponible del Impuesto sobre Sociedades o del Impuesto sobre la Renta de no Residentes del ejercicio en que ocurriera esta circunstancia, de las cantidades que en su día dieron lugar a la reducción de aquélla, con liquidación de intereses de demora en los términos previstos en la Ley 58/2003, de 17 de diciembre, General Tributaria y en su normativa de desarrollo y sin perjuicio de las sanciones que resulten procedentes.
+
+##### Artículo 8. Inversiones iniciales consistentes en establecimientos.
+
+1\. Se considerará que una inversión inicial tiene por objeto la creación de un establecimiento cuando determine su puesta en funcionamiento por primera vez para el desarrollo de una actividad económica.
+
+En particular, tendrá la consideración de creación de un establecimiento la entrega o adquisición de una edificación para su demolición y promoción de una nueva por parte del adquirente para su puesta en funcionamiento en desarrollo de una actividad económica.
+
+2\. Se considerará que una inversión inicial tiene por objeto la ampliación de un establecimiento cuando tenga como consecuencia el incremento del valor total de los activos del mismo.
+
+En particular, se considerará como tal ampliación la rehabilitación de un inmueble. A los efectos del artículo 25 de la Ley 19/1994, de 6 de julio, el concepto de rehabilitación será el contenido en el artículo 27.1.1.º f) de la Ley 20/1991, de 7 de junio.
+
+3\. Se considerará que una inversión inicial tiene por objeto la diversificación de la actividad de un establecimiento para la elaboración de nuevos productos cuando la misma tenga por finalidad obtener un producto o servicio distinto o que presente una novedad esencial y no meramente formal o accidental, respecto de los que dicho establecimiento viniera elaborando con anterioridad a la realización de la inversión.
+
+4\. Se considerará que una inversión inicial tiene por objeto la transformación sustancial en el proceso de producción de un establecimiento cuando el nuevo proceso tenga unas características o aplicaciones desde el punto de vista tecnológico que difieren de forma esencial del existente en dicho establecimiento con anterioridad a la inversión.
+
+##### Artículo 9. Conocimientos técnicos no patentados.
+
+Tendrán la consideración de conocimientos técnicos no patentados, a los efectos de lo dispuesto en los artículos 25.3.b) y 27.4.A, ambos de la Ley 19/1994, de 6 de julio, los derechos para la explotación económica de fórmulas o procedimientos secretos, los derechos sobre informaciones relativas a experiencias industriales, comerciales o científicas y el conjunto no divulgado de informaciones técnicas necesarias para la reproducción industrial, directamente y en las mismas condiciones, de un producto o de un procedimiento.
+
+##### Artículo 10. Puestos de trabajo relacionados directamente con inversiones iniciales.
+
+A los efectos de lo dispuesto en el artículo 27.4.B de la Ley 19/1994, de 6 de julio:
+
+a) La creación de puestos de trabajo y las variaciones de plantilla media serán las producidas en el conjunto de los establecimientos permanentes del sujeto pasivo situados en Canarias.
+
+b) Para el cálculo del incremento de la plantilla media, se computarán como creación de puestos de trabajo los trabajadores contratados dentro de los seis meses anteriores a la fecha de entrada en funcionamiento de la inversión, siempre que estén relacionados de forma directa con la misma.
+
+c) No resultará necesario que los nuevos puestos de trabajo sean ocupados por los nuevos trabajadores contratados.
+
+### CAPÍTULO II — Otras inversiones en que se puede materializar la reserva para inversiones en Canarias
+
+##### Artículo 11. Inversiones que contribuyen a la mejora y protección del medio ambiente canario.
+
+A los efectos de lo dispuesto en el artículo 27.4.C de la Ley 19/1994, de 6 de julio, tendrán la consideración de inversiones que contribuyen a la mejora y protección del medio ambiente canario las siguientes:
+
+a) Las realizadas en bienes del activo material destinadas a la protección del medio ambiente consistentes en instalaciones que eviten la contaminación atmosférica o acústica procedente de instalaciones industriales, o contra la contaminación de aguas superficiales, subterráneas y marinas, o para la reducción, recuperación o tratamiento de residuos industriales propios, o para optimizar el consumo y tratamiento de recursos hídricos agrícolas o industriales, siempre que se esté cumpliendo la normativa vigente en dichos ámbitos de actuación pero se realicen para mejorar las exigencias establecidas en dicha normativa. A estos efectos, la Administración canaria competente en materia medioambiental deberá expedir la certificación de la convalidación de la inversión.
+
+b) Las realizadas en bienes del activo material consistentes en instalaciones y equipos destinados al aprovechamiento, para autoconsumo, de fuentes de energía renovables para su transformación en electricidad.
+
+> Se modifica por el art. único.3 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 12. Gastos de investigación y desarrollo.
+
+1\. A los efectos de lo dispuesto en el artículo 27.4.C de la Ley 19/1994, de 6 de julio, tendrán la consideración de gastos de investigación y desarrollo los derivados de actividades de investigación, desarrollo e innovación tecnológica a que se refiere el artículo 35.1 y 2, del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
+
+2\. La materialización de la reserva en gastos de investigación, desarrollo e innovación tecnológica no estará condicionada a su activación posterior.
+
+##### Artículo 13. Elementos de transporte.
+
+1\. A los efectos de lo dispuesto en el artículo 27.4.A de la Ley 19/1994, de 6 de julio, la reserva para inversiones en Canarias se podrá materializar en cualquier tipo de elemento de transporte afecto a la actividad económica, ya sea de uso interno o externo.
+
+2\. A los efectos de lo dispuesto en el artículo 27.4.C de la Ley 19/1994, de 6 de julio, se entenderá que un vehículo destinado al transporte de pasajeros por vía marítima es apto para la materialización de la reserva para inversiones en Canarias cuando se destine a prestaciones de servicios de tal naturaleza sometidas a las obligaciones impuestas por el Régimen Especial de Prestación de Transportes Marítimos Regulares, regulado en la Ley 12/2007, de 24 de abril, de Ordenación del Transporte Marítimo de Canarias.
+
+3\. A los efectos de lo dispuesto en el artículo 27.4.C de la Ley 19/1994, de 6 de julio, serán aptas para la materialización de la reserva para inversiones en Canarias las inversiones en elementos de transporte destinados a la prestación de servicios de transporte de pasajeros por carretera sujetos a concesión o autorización administrativa de acuerdo con lo dispuesto en la Ley 13/2007, de 17 de mayo, de Ordenación del Transporte por Carretera de Canarias.
+
+4\. A los efectos de lo dispuesto en el artículo 27.4.C de la Ley 19/1994, de 6 de julio, las inversiones en elementos de transporte correspondientes a otros modos de transporte diferentes a los mencionados en los apartados anteriores serán aptas para la materialización de la reserva para inversiones en Canarias.
+
+> Se modifica por el art. único.4 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 14. Materialización de las cantidades destinadas a la reserva para inversiones mediante la suscripción de acciones de entidades de la Zona Especial Canaria.
+
+En el supuesto de las inversiones previstas en el artículo 27.4.D.2.º de la Ley 19/1994, de 6 de julio, la falta de inscripción de la entidad en el Registro Oficial de Entidades de la Zona Especial Canaria determinará que la inversión de la reserva para inversiones en Canarias se considere producida bajo las prescripciones del artículo 27.4.D.1.º de la Ley 19/1994, de 6 de julio, siempre que se cumplan los requisitos establecidos en este último precepto.
+
+##### Artículo 15. Materialización de las cantidades destinadas a la reserva para inversiones mediante la suscripción de instrumentos financieros.
+
+1\. En el supuesto de que las entidades financieras reguladas en el artículo 2 de este Reglamento emitan instrumentos financieros con el objeto de captar fondos destinados a la financiación en Canarias de proyectos privados, con el objeto de materializar la reserva, será necesario que aquellas emisiones sean supervisadas por el Gobierno de Canarias a los efectos de declarar su idoneidad y cuenten con un informe vinculante de la Agencia Estatal de Administración Tributaria.
+
+2\. A estos efectos, la entidad financiera presentará una solicitud al Gobierno de Canarias, con el siguiente contenido:
+
+a) Identificación de las personas o entidades que vayan a realizar los proyectos.
+
+b) Descripción de los proyectos a realizar y justificación del cumplimiento de los requisitos necesarios para materializar la reserva para inversiones.
+
+c) Plazo de realización de los proyectos.
+
+d) Características de los instrumentos financieros que van a ser objeto de emisión.
+
+A estos efectos, el Gobierno de Canarias solicitará un informe vinculante a la Agencia Estatal de Administración Tributaria que deberá emitirse en un plazo de 3 meses.
+
+El Gobierno de Canarias y la Agencia Estatal de Administración Tributaria podrán recabar de los interesados cuantos datos, informes, antecedentes y justificantes tengan relación con el proyecto, así como explicaciones o aclaraciones adicionales sobre el mismo.
+
+3\. La resolución que ponga fin a la solicitud podrá declarar la idoneidad, o la falta de esta, de los instrumentos financieros a los que aquella se refiera a efectos de lo dispuesto en el artículo 27.4.D.3.º de la Ley 19/1994, de 6 de julio.
+
+Esta resolución deberá ser motivada y emitirse en el plazo de 6 meses desde la presentación de la solicitud. Transcurrido este plazo sin que dicha emisión se haya producido, la solicitud podrá entenderse desestimada a los efectos de la interposición de los recursos o reclamaciones a que se refiere el título V de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+4\. Mientras no exista una resolución firme en vía administrativa por la que se declare la idoneidad de las emisiones a que se refiere este artículo, su suscripción no surtirá efectos como medio de materialización de la reserva para inversiones en Canarias.
+
+> Se modifica por el art. único.5 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 16. Inversiones en títulos de deuda emitidos por entidades privadas.
+
+La suscripción de títulos a que se refiere el artículo 27.4.D.6.º de la Ley 19/1994, de 6 de julio, requerirá, cuando sea obligatoria la entrega a los suscriptores del folleto informativo a que se refiere el artículo 27 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, que el mismo mencione el destino preciso de los fondos así obtenidos.
+
+## TÍTULO III — Requisitos que deben reunir las inversiones para el disfrute de los incentivos fiscales regulados en los artículos 25 y 27 de la Ley 19/1994, de 6 de julio
+
+### CAPÍTULO I — Condiciones de las inversiones para el disfrute de los incentivos fiscales
+
+##### Artículo 17. Inversiones en aeronaves que contribuyen a mejorar las conexiones de las Islas Canarias.
+
+Se considerará que las aeronaves en que se materializa la reserva para inversiones contribuyen a mejorar las conexiones de las Islas Canarias cuando más del cincuenta por ciento de sus vuelos tenga por objeto prestar servicios de transporte entre la Islas del Archipiélago o entre éstas y otros territorios durante el periodo de mantenimiento de la inversión a que se refiere el artículo 27.8 de la Ley 19/1994, de 6 de julio.
+
+Cuando no se alcance dicho volumen de vuelos, se considerará que se ha producido la materialización de la reserva en el importe de la inversión en la aeronave que se corresponda con el porcentaje que representen los vuelos entre la Islas del Archipiélago o entre éstas y otros territorios respecto del total de sus vuelos durante el período de mantenimiento de la inversión previsto en el artículo 27.8 de la Ley 19/1994, de 6 de julio.
+
+##### Artículo 18. Inversiones en largometrajes y cortometrajes.
+
+1\. La reserva para inversiones en Canarias se podrá materializar en la producción de largometrajes y cortometrajes cinematográficos y series audiovisuales de ficción, animación o documental, así como en el desarrollo de programas, cuando todas ellas se hayan efectuado en Canarias.
+
+2\. A estos efectos, se entenderán efectuadas en Canarias las producciones de largometrajes y cortometrajes cinematográficos y series audiovisuales de ficción, animación o documental, las obras realizadas por una persona o entidad con domicilio social y sede de dirección efectiva en la Comunidad Autónoma de Canarias o aquellas realizadas por personas o entidades no residentes fiscales en dicho territorio con establecimiento permanente en el mismo que cumplan los siguientes requisitos:
+
+a) La persona o entidad productora o coproductora deberá estar inscrita en el Registro de Empresas Audiovisuales de Canarias.
+
+b) Las producciones audiovisuales realizadas en régimen de coproducción tendrán la consideración de producciones canarias siempre que la aportación del productor canario supere el veinte por ciento del coste de la misma.
+
+c) Cuando, de acuerdo con la legislación estatal vigente en cada momento, puedan ser certificados como proyectos de coproducción canarios aptos para la materialización de la reserva, por existir una participación limitada a una aportación financiera, siempre que se admitan una o varias participaciones minoritarias limitadas al ámbito financiero, conforme al contrato de coproducción, que no sean inferiores al diez por cien ni superiores al veinticinco por cien del coste de producción.
+
+d) En términos artísticos la aportación del coproductor canario deberá comportar una participación técnica o artística con, por lo menos, un elemento considerado creativo, un actor en papel principal o, en su defecto, un actor en papel secundario o un técnico especializado jefe de equipo, entendiéndose como técnico o artista canario a aquella persona con residencia o domicilio fiscal en la Comunidad Autónoma de Canarias.
+
+e) Las producciones deberán de tener en todo caso un mínimo de 2 semanas de rodaje en interiores o exteriores en las Islas Canarias, salvo que por circunstancias, debidamente justificadas, no pudieran realizarse en el ámbito de las mismas.
+
+f) Aquéllas a cuyas obras les sea otorgado el certificado de obra canaria por la Consejería competente del Gobierno de Canarias, quien analizará el cumplimiento de los requisitos expuestos en las letras a) a e) anteriores. Dicho certificado será vinculante para la Administración tributaria competente.
+
+3\. Sólo será apta la materialización de la reserva para inversiones en Canarias en largometrajes y cortometrajes producidos por terceros si aquellos son objeto de reproducción y distribución exclusivamente en el archipiélago canario.
+
+##### Artículo 19. Transmisión mortis causa de explotaciones económicas.
+
+En los casos de transmisión mortis causa de la totalidad o parte de los activos afectos a una explotación económica o de una rama de actividad, la persona o entidad adquirente se subrogará en la posición de la persona transmitente y asumirá el cumplimiento de los requisitos necesarios para consolidar el beneficio fiscal disfrutado por esta última. En el caso de que la reserva para inversiones en Canarias no estuviera materializada en el momento de la transmisión, el adquirente deberá cumplir con las obligaciones de materialización del transmitente en el plazo que le restara a éste último para el cumplimiento de tal obligación.
+
+##### Artículo 20. Fecha de la materialización de las cantidades destinadas a la reserva para inversiones en la suscripción de instrumentos financieros.
+
+En los casos de materialización mediante la suscripción de acciones a que se refiere el artículo 27.4.D.1.º y 2.º de la Ley 19/1994, de 6 de julio, se considerará, a los efectos de lo dispuesto en el apartado 7 de dicho artículo, que se ha producido la materialización desde la fecha en que la entidad emisora de los mismos haga entrar en funcionamiento los elementos patrimoniales adquiridos.
+
+En los casos de materialización mediante la suscripción de instrumentos financieros a que se refiere el artículo 27.4.D.3.º de la Ley 19/1994, de 6 de julio, dicha materialización se considerará producida desde la fecha en que la entidad que realiza los proyectos privados haga entrar en funcionamiento los elementos patrimoniales adquiridos.
+
+> Se modifica por el art. único.6 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 21. Condiciones para el arrendamiento de bienes inmuebles.
+
+1\. A los efectos de lo establecido en el artículo 25.4.f) y en el artículo 27.8, ambos de la Ley 19/1994, de 6 de julio, los bienes inmuebles destinados a arrendamiento deberán afectarse a alguna de las siguientes actividades:
+
+a) Al arrendamientos de vivienda protegida por la entidad promotora de las mismas.
+
+b) A las actividades turísticas a que se refiere la Ley 7/1995, de 6 de abril, de Ordenación del Turismo de Canarias, con independencia del lugar donde se encuentre situado el bien inmueble.
+
+c) Al desarrollo de las actividades industriales incluidas en las divisiones 1 a 4 de la sección primera de las tarifas del Impuesto sobre Actividades Económicas, aprobadas por el Real Decreto Legislativo 1175/1990, de 28 de septiembre.
+
+d) Al desarrollo de actividades en zonas comerciales situadas en áreas cuya oferta turística se encuentre en declive.
+
+2\. En el caso de actividades de arrendamiento de viviendas protegidas efectuadas por la entidad promotora de las mismas, las viviendas deberán ser objeto de cesión en arrendamiento durante, al menos, cinco años ininterrumpidos. A estos efectos, no se entenderá interrumpida la cesión cuando se proceda a un nuevo arrendamiento de una misma vivienda en el plazo de seis meses desde su desocupación. No obstante, el plazo de mantenimiento de la inversión afecta a una actividad económica, previsto en el artículo 25.4.e) y en el artículo 27.8, ambos de la Ley 19/1994, de 6 de julio, se ampliará por un período equivalente a aquel durante el cual el inmueble hubiera estado desocupado.
+
+##### Artículo 22. Inversiones en suelo afecto a actividades industriales.
+
+A los efectos de los artículos 25 y 27, ambos de la Ley 19/1994, de 6 de julio, se considerará suelo afecto al desarrollo de actividades industriales el utilizado en cualquiera de las actividades económicas del sujeto pasivo cuando éstas estén incluidas en las divisiones 1 a 4 de la sección primera de las tarifas del Impuesto sobre Actividades Económicas, aprobadas por el Real Decreto Legislativo 1175/1990, de 28 de septiembre, considerándose en particular que tales actividades industriales se desarrollan en las edificaciones, construcciones e instalaciones, así como en las superficies cubiertas o sin cubrir, que se utilicen para el almacenaje de las materias primas, elementos de producción y transporte, de los productos terminados y semiterminados, así como los recintos administrativos, los destinados al uso del personal y los destinados a la actividad fabril, y aquellos donde se encuentren situados la maquinaria, las instalaciones, y los elementos requeridos o convenientes para la seguridad e higiene en el trabajo.
+
+##### Artículo 23. Delimitación de zonas comerciales y de áreas cuya oferta turística se encuentra en declive.
+
+1\. A los efectos de los artículos 25 y 27, ambos de la Ley 19/1994, de 6 de julio, tendrán la consideración de zonas comerciales los centros, galerías comerciales o locales de negocio individualmente considerados, incluidas las zonas de aparcamientos, áreas comunes y las de equipamiento, que se hallen ubicados en un área cuya oferta turística se encuentre en declive, por precisar de intervenciones integradas de rehabilitación de áreas urbanas.
+
+2\. A los efectos del artículo 25 y 27 de la Ley 19/1994, se considerará que las áreas cuya oferta turística se encuentra en declive, por precisar intervenciones integradas de rehabilitación de áreas urbanas de acuerdo con las Directrices de Ordenación General de Canarias, aprobadas por la Ley 19/2003, de 14 de abril, coinciden con los núcleos turísticos a que hace referencia la directriz 21 de las Directrices de Ordenación del Turismo de Canarias, ya sean los enumerados en el anexo de las citadas directrices o por el correspondiente planeamiento insular.
+
+### CAPÍTULO II — Condiciones particulares para la aplicación de los incentivos fiscales regulados en el artículo 25 de la Ley 19/1994, de 6 de julio.
+
+##### Artículo 24. Alcance de la exención en el Impuesto General Indirecto Canario en relación con los elementos del inmovilizado inmaterial.
+
+La exención parcial prevista en el artículo 25.2.b) de la Ley 19/1994, de 6 de julio, se entenderá que se refiere al cincuenta por ciento de la base imponible de la operación de prestación de servicio de cesión de los elementos del inmovilizado inmaterial citados en dicho artículo, apartado 3.b).
+
+En el supuesto de pagos anticipados en los que se devengue el Impuesto General Indirecto Canario, la exención se aplicará sobre el cincuenta por ciento de la cantidad efectivamente percibida.
+
+##### Artículo 25. Entidades sin derecho a la deducción total de la cuota soportada del Impuesto General Indirecto Canario.
+
+1\. A los efectos de lo establecido en el artículo 25.2, cuarto párrafo, de la Ley 19/1994, de 6 de julio, el porcentaje de deducción provisional a tener en cuenta será el que se aplique en el sector diferenciado de la actividad empresarial o profesional donde previsiblemente se destine el bien de inversión adquirido o importado o el elemento del inmovilizado inmaterial cedido, sin perjuicio de lo establecido en el apartado cuatro siguiente. Este porcentaje de deducción provisional será el definitivo del sector diferenciado de la actividad en el año natural anterior, con independencia del porcentaje de deducción definitivo en el sector diferenciado en el año en que se realizó la entrega o importación del bien de inversión o la prestación de servicio de cesión del elemento del inmovilizado inmaterial o se percibió el pago anticipado.
+
+2\. En el caso de inicio de las actividades empresariales o profesionales el porcentaje provisional de deducción será el previsto en el artículo 38.2 y en el artículo 43.2, ambos de la Ley 20/1991, de 7 de junio, incluso en el supuesto de inicio de una nueva actividad empresarial o profesional que constituya un sector diferenciado respecto de las actividades que se venían desarrollando con anterioridad.
+
+3\. Sin perjuicio de lo establecido en el apartado anterior, en el supuesto de que el destino del bien de inversión adquirido o importado o el elemento del inmovilizado inmaterial cedido sea su utilización en común en varios sectores diferenciados de la actividad empresarial o profesional, el porcentaje de deducción provisional común será el que resulte de aplicar la prorrata general determinado conforme a las operaciones realizadas el año natural anterior en dichos sectores diferenciados, con independencia del porcentaje definitivo común de deducción en el año en que se realizó la entrega o importación del bien de inversión o la prestación de servicio de cesión del elemento del inmovilizado inmaterial o se percibió el pago anticipado.
+
+4\. En el caso de emplear la modalidad de la regla de la prorrata especial, la exención del Impuesto General Indirecto Canario podrá ser aplicable si el destino del bien de inversión adquirido o importado o del elemento del inmovilizado inmaterial cedido es su utilización parcial o exclusiva en operaciones que no originen el derecho a deducir.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 34, de 8 de febrero de 2008. [Ref. BOE-A-2008-2189](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-2189).
+
+##### Artículo 26. Consecuencias derivadas del cambio de afectación de los elementos patrimoniales adquiridos con exención en el Impuesto General Indirecto Canario.
+
+En el año de la realización de la entrega o importación del bien de inversión o de la prestación de servicio del elemento del inmovilizado inmaterial, el cambio de afectación del bien de inversión o del elemento del inmovilizado inmaterial a otro sector diferenciado de la actividad empresarial o profesional en el que el porcentaje de deducción provisional no sea inferior al cien por cien, se entenderá como un incumplimiento de los requisitos para la efectividad de la exención y tendrá las consecuencias previstas en la Ley 58/2003, de 17 de diciembre.
+
+##### Artículo 27. Consecuencias derivadas de la afectación simultánea o alternativa de los elementos patrimoniales adquiridos.
+
+En el supuesto de la adquisición de suelo o de bienes inmuebles destinados a su arrendamiento, cabe la aplicación de exenciones parciales cuando se afecten a otras actividades empresariales o profesionales distintas de las previstas en el artículo 25.3.a), párrafos cuarto, quinto y sexto, y en el artículo 25.4.f), párrafo segundo, de la Ley 19/1994, de 6 de julio, siempre y cuando sean susceptibles de un aprovechamiento separado e independiente.
+
+##### Artículo 28. Valor del suelo.
+
+1\. A los efectos de lo dispuesto en el artículo 25.3.a) de la Ley 19/1994, de 6 de julio, se considerará que se ha producido la revisión del valor catastral en un municipio de conformidad con la normativa catastral, cuando la misma se hubiera producido con posterioridad al día 1 de enero de 1994.
+
+2\. Cuando el suelo radique en un municipio donde el valor catastral no haya sido revisado, la proporción a aplicar para determinar la base imponible en el Impuesto General Indirecto Canario correspondiente a la entrega del suelo se determinará por el resultado de la fracción entre el valor de mercado del suelo y el total de la contraprestación. En el caso de ser aplicable el artículo 23.3 de la Ley 20/1991, de 7 de junio, la base imponible se determinará por el resultado de la fracción entre el valor de mercado del suelo y el valor de mercado de la edificación entregada.
+
+##### Artículo 29. Plazo para la entrada en funcionamiento.
+
+A los efectos de lo establecido en el artículo 25.4.c) de la Ley 19/1994, de 6 de julio, en el supuesto de entrega o adquisición de solares para promover su edificación, de edificaciones para su inmediata rehabilitación por el adquirente o de edificaciones que vayan a ser objeto de demolición con carácter previo a una nueva promoción, y la edificación resultante vaya a constituir un bien de inversión para el sujeto pasivo adquirente, las actividades de promoción, de solicitud o consecución de permisos administrativos, proyectos técnicos y construcción deberán ser acometidas inmediatamente, sin que se produzca discontinuidad entre las diferentes actuaciones. A estos efectos, se entenderá que existe discontinuidad cuando entre una actuación del sujeto pasivo adquirente y la siguiente transcurra un plazo igual o superior a tres meses.
+
+## TÍTULO IV — Gestión de los incentivos fiscales del artículo 27 de la Ley 19/1994, de 6 de julio
+
+### CAPÍTULO I — Obligaciones formales
+
+##### Artículo 30. Comunicaciones en la suscripción de acciones o participaciones de sociedades inversoras.
+
+Se considerará que las comunicaciones entre personas y entidades previstas en el artículo 27.4.D.1.º, 2.º y 3.º, de la Ley 19/1994, de 6 de julio, son fehacientes cuando consten en documento publico o privado, en el que figure la firma y la identificación de las partes así como su fecha.
+
+##### Artículo 31. Comunicaciones en la suscripción de acciones o participaciones de entidades inversoras o de instrumentos financieros emitidos por entidades financieras.
+
+1\. La obligación de comunicación que recae sobre quien materializa la reserva para las inversiones a que se refieren el artículo 27.4.D.1.º, 2.º y 3.º de la Ley 19/1994, de 6 de julio, deberá cumplirse de forma simultánea a la suscripción de las acciones, participaciones o instrumentos financieros.
+
+2\. La obligación de comunicación que recae sobre la entidad que efectúa las inversiones iniciales a que se refieren el artículo 27.4.D.1.º y 2.º o sobre la entidad financiera a que se refiere el artículo 27.4.D.3.º, de la Ley 19/1994, de 6 de julio, deberá cumplirse en el plazo de los 20 días posteriores a su entrada en funcionamiento.
+
+> Se modifica por el art. único.7 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+### CAPÍTULO II — Planes de inversión
+
+> Se deroga por el art. único. 8 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 32. Presentación del plan de inversiones.
+
+**(Derogado)**
+
+> Se deroga por el art. único. 8 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 33. Contenido del plan de inversiones.
+
+**(Derogado)**
+
+> Se deroga por el art. único. 8 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 34. Modificación del plan de inversiones.
+
+**(Derogado)**
+
+> Se deroga por el art. único. 8 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 35. Planes especiales de inversión.
+
+**(Derogado)**
+
+> Se deroga por el art. único. 8 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+## TÍTULO V — Control de los incentivos y límites de la acumulación de ayudas derivados de la aplicación del Derecho de la Unión Europea
+
+> Se modifica por el art. único.9 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 36. Ayudas de Estado.
+
+A los efectos del seguimiento y control de la acumulación de ayudas establecido en el Reglamento (UE) núm. 651/2014 de la Comisión de 17 de junio de 2014 por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado (DO L 187, de 26 de junio de 2014), y en la disposición adicional cuarta del Real Decreto-ley 15/2014, de 19 de diciembre, de modificación del Régimen Económico y Fiscal de Canarias, tienen la consideración de:
+
+1\. “Ayudas regionales al funcionamiento” los siguientes incentivos y regímenes:
+
+a) El régimen especial de las empresas productoras de bienes corporales regulado en el artículo 26 de la Ley 19/1994, de 6 de julio.
+
+b) El régimen de deducción por inversiones en Canarias regulado en el artículo 94 de la Ley 20/1991, de 7 de junio, y las deducciones a las que se refieren las disposiciones adicionales decimotercera y decimocuarta de la Ley 19/1994, de 6 de julio, cuando las inversiones realizadas no tengan la consideración de “inversión inicial” de conformidad con el artículo 6 de este Reglamento.
+
+c) Los incentivos de la Zona Especial Canaria regulados en los artículos 43 a 46 de la Ley 19/1994, de 6 de julio.
+
+d) La reserva para inversiones en Canarias, en la parte regulada en el apartado 4, letras B bis, C y D, del artículo 27 de la Ley 19/1994, de 6 de julio.
+
+e) Las exenciones de entregas interiores del Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias reguladas en el apartado 4 del artículo 2 de la Ley, de la Comunidad Autónoma de Canarias, 4/2014, de 26 de junio, por la que se modifica la regulación del Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias.
+
+f) Las ayudas al transporte de mercancías comprendidas en el ámbito del Real Decreto 147/2019, de 15 de marzo, sobre compensación al transporte marítimo y aéreo de mercancías no incluidas en el anexo I del Tratado de Funcionamiento de la Unión Europea, con origen o destino en las Islas Canarias.
+
+2\. “Ayudas regionales a la inversión” los siguientes incentivos y regímenes:
+
+a) Los incentivos a la inversión regulados en el artículo 25 de la Ley 19/1994, de 6 de julio.
+
+b) El régimen de deducción por inversiones en Canarias regulado en el artículo 94 de la Ley 20/1991, de 7 de junio, y las deducciones a las que se refiere la disposición adicional decimotercera de la Ley 19/1994, de 6 de julio, cuando las inversiones realizadas tengan la consideración de “inversión inicial” de conformidad con el artículo 6 de este Reglamento.
+
+c) La reserva para inversiones en Canarias, en la parte regulada en el apartado 4, letras A y B, del artículo 27 de la Ley 19/1994, de 6 de julio.
+
+d) Otros incentivos regionales concedidos por las Administraciones Públicas o mediante fondos públicos para la realización de una inversión inicial de conformidad con el artículo 6 de este Reglamento.
+
+3\. “Ayudas a las PYME”:
+
+La deducción por inversiones en territorios de África Occidental y por gastos de publicidad y propaganda regulada en el artículo 27.bis de la Ley 19/1994, de 6 de julio.
+
+> Se modifica por el art. único.1 del Real Decreto 436/2024, de 30 de abril de 2024. [Ref. BOE-A-2024-8709](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-8709)
+
+> Téngase en cuenta que esta modificación producirá efectos para los períodos impositivos iniciados a partir del 1 de enero de 2022, según establece la disposición transitoria única del citado Real Decreto.
+
+> Se modifica por el art. único.9 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 37. Cómputo de las ayudas a efectos de su acumulación.
+
+Las ayudas obtenidas por un beneficiario en virtud de todos los incentivos aplicables en el marco del Régimen Económico y Fiscal de Canarias, así como de aquellos otros, cualquiera que sea su naturaleza, que tengan la consideración de ayudas de Estado se incluirán en la declaración informativa a que se refiere la disposición adicional cuarta del Real Decreto-ley 15/2014, de 19 de diciembre, computándose en el ejercicio en el que se generan, excepto en el caso de la reserva para inversiones en Canarias en el que se computarán en el ejercicio en el cual se realizan las inversiones en las que se materializa dicha reserva. En particular:
+
+1\. Ayudas regionales de funcionamiento. Se acumulan tomando en consideración el periodo impositivo del Impuesto sobre Sociedades o del Impuesto sobre la Renta de las Personas Físicas, según los beneficiarios de aquellos sean contribuyentes de uno u otro impuesto y se computarán conforme a los siguientes criterios:
+
+a) Régimen especial de las empresas productoras de bienes corporales. Se computará la bonificación del Impuesto sobre Sociedades o del Impuesto sobre la Renta de las Personas Físicas que resulte de la aplicación de este régimen.
+
+b) Régimen de deducción por inversiones en Canarias y las disposiciones adicionales decimotercera y decimocuarta de la Ley 19/1994, de 6 de julio. Se computará la diferencia entre la deducción que resulte de la aplicación de este régimen y la que hubiera sido de aplicación conforme al régimen general del Impuesto sobre Sociedades o del Impuesto sobre la Renta de las Personas Físicas.
+
+c) Zona Especial Canaria. Los incentivos de este régimen se computarán:
+
+1.º Impuesto sobre Sociedades. La diferencia de cuota que resulta de aplicar el tipo reducido del 4 por ciento a la parte de la base imponible del impuesto que tributa a ese tipo reducido, en vez del tipo que resultaría aplicable a la entidad beneficiaria si no tuviera la consideración de entidad de la Zona Especial Canaria.
+
+2.º Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados. Los importes que se hubieran devengado de no aplicarse la exención en los actos, contratos y operaciones establecidas en el artículo 46 de la Ley 19/1994, de 6 de julio.
+
+d) Reserva para inversiones en Canarias. Se computará el resultado de multiplicar el tipo impositivo del Impuesto sobre Sociedades correspondiente al tipo de entidad beneficiaria por el importe de las inversiones realizadas conforme a las letras B bis, C y D, del apartado 4 del artículo 27 de la Ley 19/1994, de 6 de julio. Para los contribuyentes del Impuesto sobre la Renta de las Personas Físicas se computará la parte proporcional de la deducción aplicada en el periodo impositivo correspondiente a las inversiones realizadas.
+
+Si la inversión se ha financiado con dotaciones realizadas en varios ejercicios, deberán corregirse los resultados por un coeficiente de actualización tomando como base el tipo de referencia aplicable a España publicado en el “Diario Oficial de la Unión Europea” que esté vigente a fecha de 31 de diciembre del primer ejercicio en que se dotó la reserva. Cuando el período impositivo no coincida con el año natural, se empleará el tipo de referencia vigente el último día del primer ejercicio.
+
+Cuando las citadas inversiones se lleven a cabo de manera anticipada y las mismas tengan la consideración de materialización de la reserva para inversiones que se dote en ese ejercicio o en los tres posteriores, se computará la reducción de la cuota íntegra consignada en el Impuesto sobre Sociedades o en el Impuesto sobre la Renta de las Personas Físicas del periodo impositivo en el que efectivamente se dote la reserva.
+
+e) Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias. Se computará el importe agregado del impuesto que se hubiera devengado en el ejercicio en caso de no haber resultado aplicable la exención de las entregas interiores establecidas en el apartado 4 del artículo 2 de la Ley 4/2014, de la Comunidad Autónoma de Canarias, de 26 de junio, minorado por el importe de las cuotas del Arbitrio que hayan soportado en las adquisiciones o importaciones realizadas en el ejercicio por las que hubieran tenido derecho a la devolución conforme al artículo 85 de la Ley 20/1991, de 7 de junio, en el supuesto de no haber resultado aplicable la exención.
+
+f) Ayudas al transporte de mercancías. Se computará el importe total de las ayudas reconocidas al beneficiario durante el ejercicio correspondiente.
+
+2\. Las ayudas regionales a la inversión. Se acumulan las ayudas correspondientes a un mismo proyecto de inversión, sin que resulte procedente su división artificial, y las correspondientes a distintos proyectos de inversión, pero relativas a los mismos costes subvencionables. Las ayudas se computarán conforme a los siguientes criterios:
+
+a) Incentivos a la inversión regulados en el artículo 25 de la Ley 19/1994, de 6 de julio. Se computarán los importes de los impuestos que se hubieran devengado de no resultar aplicable la exención.
+
+b) Régimen de deducción por inversiones en Canarias y la disposición adicional decimotercera de la Ley 19/1994, de 6 de julio. Se computará la diferencia entre la deducción que resulte de la aplicación de este régimen y la que hubiera sido de aplicación conforme al régimen general del Impuesto sobre Sociedades o del Impuesto sobre la Renta de las Personas Físicas.
+
+c) Reserva para inversiones en Canarias. Se computará el resultado de multiplicar el tipo impositivo del Impuesto sobre Sociedades correspondiente al tipo de entidad beneficiaria, por el importe de las inversiones realizadas conforme a las letras A y B del apartado 4 del artículo 27 de la Ley 19/1994, de 6 de julio. Para los contribuyentes del Impuesto sobre la Renta de las Personas Físicas se computa la parte proporcional de la deducción aplicada correspondiente a las inversiones realizadas.
+
+Cuando la inversión se haya financiado con dotaciones realizadas en varios ejercicios o en los casos en los que las citadas inversiones se realicen de manera anticipada se aplican los criterios indicados en el apartado 1.d) de este artículo.
+
+d) Otros incentivos. Se computará el importe de los incentivos reconocidos al beneficiario asociados a un determinado proyecto de inversión.
+
+3\. Deducción por inversiones en territorios de África Occidental y por gastos de publicidad y propaganda regulada en el artículo 27.bis de la Ley 19/1994, de 6 de julio. Se computarán el importe de la deducción por inversiones en territorios de África Occidental por empresa y por proyecto. La deducción por gastos de publicidad y propaganda se computará por empresa y año.
+
+4\. Otros incentivos. Se incluirán en la referida declaración informativa cualesquiera otros incentivos que tengan la consideración de ayuda de Estado. Se computará el importe de las ayudas reconocidas al beneficiario durante el ejercicio correspondiente o asociadas a un determinado proyecto de inversión, según proceda.
+
+El modelo de la declaración informativa a que se refiere la disposición adicional cuarta del Real Decreto-ley 15/2014, de 19 de diciembre, se aprobará por la persona titular del Ministerio de Hacienda, que establecerá la forma y plazos de su presentación.
+
+> Se modifica por el art. único.2 del Real Decreto 436/2024, de 30 de abril de 2024. [Ref. BOE-A-2024-8709](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-8709)
+
+> Téngase en cuenta que esta modificación producirá efectos para los períodos impositivos iniciados a partir del 1 de enero de 2022, según establece la disposición transitoria única del citado Real Decreto.
+
+> Se modifica por el art. único.9 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 38. Límites de la acumulación de las ayudas.
+
+1\. La acumulación de las ayudas obtenidas en virtud de todos los incentivos aplicables en el marco del Régimen Económico y Fiscal de Canarias, así como de aquellos, cualquiera que sea su naturaleza, que tengan la consideración de ayudas de Estado, no podrá exceder de los siguientes límites:
+
+a) Ayudas regionales al funcionamiento. Es de aplicación el límite establecido en el artículo 15, apartado 4, letra c), del Reglamento (UE) núm. 651/2014 de la Comisión de 17 de junio de 2014 por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado.
+
+A estos efectos se entenderá por volumen de negocios el importe de la venta de productos y de la prestación de servicios u otros ingresos correspondientes a las actividades ordinarias de la empresa, deducidas las bonificaciones y demás reducciones sobre las ventas, así como el Impuesto General Indirecto Canario, y otros impuestos directamente relacionados con el volumen de negocios que deban ser objeto de repercusión.
+
+Para la determinación del límite de acumulación de las ayudas referidas a la deducción por producciones cinematográficas y series u obras audiovisuales, realizadas en Canarias, se computarán como volumen de negocios del beneficiario los siguientes importes:
+
+1.º El coste total de la producción y los gastos para la obtención de copias y gastos de publicidad y promoción a cargo del productor, hasta el límite para ambos del 40 por ciento del coste de producción, en el caso de las producciones españolas de largometrajes y cortometrajes cinematográficos y de series audiovisuales de ficción, animación o documental a que se refiere el apartado 1 del artículo 36 de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades, siempre que la producción cuente con el correspondiente certificado de obra audiovisual canaria.
+
+2.º Los gastos realizados en territorio canario, directamente relacionados con la producción, en el caso de producciones extranjeras de largometrajes cinematográficos o de obras audiovisuales a que se refiere el apartado 2 del artículo 36 de la Ley 27/2014, de 27 de noviembre.
+
+b) Ayudas regionales a la inversión. Son de aplicación los límites establecidos en las Directrices sobre las ayudas estatales de finalidad regional (2021/C 153/01) tras su modificación en relación con la revisión intermedia de los mapas de ayudas regionales (2023/C 194/05), el Reglamento (UE) núm. 651/2014, y el resto del Ordenamiento de la Unión Europea aplicable, en su caso, en materia de ayudas estatales.
+
+c) Deducción por inversiones en territorios de África Occidental y por gastos de publicidad y propaganda. De conformidad con los límites establecidos en las letras c) y e) del artículo 4 del Reglamento (UE) núm. 651/2014, de la Comisión, el importe de la deducción por inversiones en territorios de África Occidental no podrá superar la cantidad de 7,5 millones de euros por empresa y por proyecto. El importe de la deducción por gastos de publicidad y propaganda no podrá superar la cantidad de 2 millones de euros por empresa y año.
+
+2\. Si con motivo de las actuaciones de comprobación, inspección o control, se verifica que se han superado los límites de acumulación de ayudas por un mismo beneficiario, el órgano competente procederá a exigir el reintegro por el importe total del exceso, conforme al procedimiento que corresponda en atención a las ayudas de su ámbito de competencias y hasta el límite de las citadas ayudas. Si el exceso supera el importe exigible dentro de su ámbito competencial, se dará traslado al órgano competente de las demás ayudas para que procedan a la exigencia de la cuantía restante.
+
+En los casos de ayudas de naturaleza tributaria, en el procedimiento de reintegro se seguirá el orden establecido en los apartados 1 y 2 del artículo 36 de este Reglamento.
+
+> Se modifica por el art. único.3 del Real Decreto 436/2024, de 30 de abril de 2024. [Ref. BOE-A-2024-8709](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-8709)
+
+> Téngase en cuenta que esta modificación producirá efectos para los períodos impositivos iniciados a partir del 1 de enero de 2022, según establece la disposición transitoria única del citado Real Decreto.
+
+> Se modifica por el art. único.9 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 38 bis. Competencias de control.
+
+El seguimiento y control de la acumulación de las ayudas obtenidas en virtud de los incentivos aplicables en el marco del Régimen Económico y Fiscal de Canarias, así como de aquellos otros, cualquiera que sea su naturaleza, que tengan la consideración de ayudas de Estado se realizará, en el ámbito de la Administración del Estado, por la Agencia Estatal de Administración Tributaria en cuanto a las materias propias de su competencia, sin perjuicio de las atribuidas a la Intervención General de la Administración del Estado, que se regirá por su normativa específica, a cuyo efecto resultará de aplicación lo dispuesto en el artículo 95.1.l) de la Ley 58/2003, de 17 de diciembre, General Tributaria, y de las que correspondan a otros órganos u organismos del Estado y a otras Administraciones Públicas.
+
+Conforme a lo establecido en la disposición adicional segunda del Real Decreto-ley 12/2006, de 29 de diciembre, por el que se modifican la Ley 19/1994, de 6 de julio, de Modificación del Régimen Económico y Fiscal de Canarias, y el Real Decreto-ley 2/2000, de 23 de junio, la Agencia Estatal de Administración Tributaria remitirá a la Intervención General de la Administración del Estado la información necesaria sobre las ayudas de Estado derivadas de la aplicación de la citada Ley, para su incorporación a la Base de Datos Nacional de Subvenciones regulada en el artículo 20 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+> Se añade por el art. único.9 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+## TÍTULO VI — La Zona Especial Canaria
+
+### CAPÍTULO I — Ámbito de la Zona Especial Canaria
+
+##### Artículo 39. Estanqueidad de la Zona Especial Canaria.
+
+1\. El principio de estanqueidad geográfica de la Zona Especial Canaria tendrá por efecto limitar el ámbito de aplicación de los beneficios fiscales regulados en el título V de la Ley 19/1994, de 6 de julio, a las entidades de la Zona Especial Canaria, sin que, en ningún caso, suponga restricciones para que las entidades operen dentro y fuera de la misma según los principios generales de libre circulación de mercancías, personas, servicios y capitales.
+
+A estos efectos, las entidades de la Zona Especial Canaria podrán disponer de establecimientos permanentes para el desarrollo, de sus actividades dentro y fuera del territorio de las Islas Canarias, estando obligadas a comunicar por escrito al Consejo Rector de la Zona Especial su apertura dentro del plazo de un mes contado a partir de la fecha de su constitución.
+
+2\. Cada uno de los establecimientos permanentes que abran las entidades de la Zona Especial Canaria fuera del ámbito geográfico de la misma deberá llevar contabilidad separada respecto de sus actividades.
+
+> Se modifica el apartado 1 por el art. único.10 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 40. Delimitación del ámbito geográfico.
+
+**(Derogado)**
+
+> Se deroga por el art. único.11 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 41. Constitución de entidades ZEC con anterioridad a la autorización.
+
+A efectos de lo dispuesto en el artículo 31 de la Ley 19/1994, de 6 de julio, tendrán la consideración de entidades de nueva creación las constituidas con anterioridad a la obtención de la autorización previa siempre que la constitución se limite al aspecto o tramitación formal que la misma conlleva y no vaya acompañada de actividad económica alguna hasta tanto se produzca la inscripción, sin perjuicio de lo previsto en los artículos 43 y 44 de este reglamento.
+
+##### Artículo 42. Aplicación de los requisitos previstos para las Islas de Gran Canaria y Tenerife.
+
+A los efectos de lo dispuesto en el artículo 31.2.d) y e) de la Ley 19/1994, de 6 de julio, se aplicarán los requisitos previstos para las Islas de Gran Canaria o de Tenerife cuando la entidad disponga de establecimiento en el territorio de cualquiera de estas.
+
+> Se modifica por el art. único.12 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 43. Delimitación del ámbito temporal para efectuar las inversiones.
+
+Se entenderán realizadas dentro del plazo previsto para realizar las inversiones en el artículo 31.2.d) de la Ley 19/1994, de 6 de julio, las efectuadas una vez presentada la solicitud de la entidad para su inscripción en el Registro Oficial de Entidades de la Zona Especial Canaria y durante el plazo de dos años a contar desde el día siguiente al de la notificación de la inscripción en dicho Registro.
+
+> Se modifica por el art. único.13 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 44. Cómputo para la creación de empleo.
+
+Los plazos para el cumplimiento del requisito de creación de empleo establecidos en el artículo 31.2.e) de la Ley 19/1994, de 6 de julio, empezarán a contar a partir del día siguiente al de la notificación de la inscripción en el Registro Oficial de Entidades de la Zona Especial Canaria.
+
+No obstante, a los efectos del cumplimiento de este requisito, computarán los puestos de trabajo creados una vez presentada la solicitud de inscripción en el Registro Oficial de Entidades de la Zona Especial Canaria, cuando se acredite la necesidad de la contratación para la realización de las actividades preparatorias o previas al inicio del funcionamiento de la entidad.
+
+> Se modifica por el art. único.14 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 45. Memoria descriptiva de actividades.
+
+En la memoria descriptiva de actividades a desarrollar a que se refiere el artículo 31.2.f) de la Ley 19/1994, de 6 de julio, que se presentará junto con el impreso de solicitud de autorización previa, la entidad.
+
+a) Deberá acreditar la viabilidad del proyecto empresarial, para lo que incorporará, al menos, la cuenta de resultados y el balance previsionales con un horizonte temporal de tres años, así como información acerca de las fuentes de financiación de la inversión que se prevea realizar.
+
+Se considerará justificada suficientemente la viabilidad de los proyectos para los que se solicite autorización previa, cuando de los documentos aportados pueda extraerse la conclusión de que el proyecto empresarial, en las condiciones de mercado vigentes, podrá desarrollarse según lo expuesto.
+
+El Consejo Rector dictará las instrucciones precisas para el desarrollo de los modelos que considere necesarios, que serán puestos a disposición de los interesados.
+
+b) Deberá acreditar la solvencia económica y técnica del proyecto empresarial.
+
+Se entenderá que el proyecto es económicamente solvente cuando se disponga de capacidad para hacer frente a las obligaciones que se contraigan en el desarrollo de la actividad. Se entenderá acreditada la solvencia cuando se presenten certificados bancarios referidos a la entidad o, en caso de no haberse constituido ésta, a sus promotores.
+
+Se acreditará la solvencia técnica mediante la aportación de información relativa a la experiencia empresarial o profesional de los socios promotores y a la capacitación técnica de la plantilla que prevea contratarse.
+
+c) Deberá acreditar la capacidad para competir internacionalmente, cuando se trate de entidades que tengan previsto el desarrollo de su actividad en mercados internacionales.
+
+Se entenderá acreditada la competitividad internacional del proyecto empresarial cuando se realice una descripción de las políticas comerciales y estrategias de actuación en los mercados internacionales de la que pueda desprenderse la aceptación de los bienes y servicios ofertados en los mercados a los que se dirija en condiciones similares a otros ya comercializados en los mismos.
+
+d) Deberá acreditar la contribución del proyecto empresarial al desarrollo económico y social de las Islas Canarias.
+
+A estos efectos, el Consejo Rector podrá recabar de los interesados la información adicional que juzgue necesaria para apreciar la contribución de la entidad al desarrollo económico y social de las Islas Canarias, sin perjuicio del derecho de los promotores de los proyectos de aportar cuantos otros documentos consideren convenientes que serán tenidos en cuenta para resolver la solicitud de inscripción.
+
+> Se modifica el párrafo primero por el art. único.15 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+### CAPÍTULO II — Funcionamiento del Consorcio de la Zona Especial Canaria
+
+##### Artículo 46. Procedimientos de información y colaboración.
+
+1\. Los órganos de la Administración General del Estado, de la Comunidad Autónoma de Canarias y el Consorcio de la Zona Especial Canaria deberán facilitarse mutuamente la información que precisen sobre las actividades que desarrollen en ejercicio de sus competencias relacionadas con la Zona Especial Canaria, conforme a los criterios establecidos en el artículo 4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+2\. El Consorcio de la Zona Especial Canaria podrá solicitar, en el ejercicio de sus competencias:
+
+a) Información periódica relativa al empleo generado por las entidades de la Zona Especial Canaria a los órganos competentes de la Seguridad Social en la Comunidad Autónoma de Canarias.
+
+b) Información para calcular el importe del coste fiscal del régimen de la Zona Especial Canaria y cuanta otra sea precisa para el ejercicio de su potestad sancionadora a la Agencia Estatal de Administración Tributaria, que será facilitada dentro los términos y condiciones previstos en el artículo 95 de la Ley 58/2003, de 17 de diciembre.
+
+c) Información a la Aduana de Control de cada una de las Zonas Francas canarias.
+
+d) Información para el cumplimiento de las funciones del Consejo Rector en materia de vigilancia y supervisión de las actividades de las entidades inscritas en el Registro Oficial de las Entidades de la Zona Especial Canaria a los Consorcios de las Zonas Francas canarias.
+
+3\. El Consorcio de la Zona Especial Canaria podrá celebrar convenios de colaboración con otros órganos de la Administración General del Estado y de la Comunidad Autónoma de Canarias en el ámbito de sus respectivas competencias. En particular:
+
+a) Los que resulten necesarios para garantizar el control de las mercancías que se produzcan, manipulen, transformen o comercialicen por las entidades de la Zona Especial Canaria, cuando así venga exigido por la normativa aplicable.
+
+b) Con el objeto de disponer de cuanta información relativa a las entidades de la Zona Especial Canaria sea necesaria para el ejercicio de las funciones de vigilancia y control que le otorga el artículo 37.1 de la Ley 19/1994, de 6 de julio, celebrará convenios con los Registros Mercantiles de Canarias.
+
+> Redactado el apartado 2.b) conforme a la corrección de errores publicada en BOE núm. 34, de 8 de febrero de 2008. [Ref. BOE-A-2008-2189](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-2189).
+
+##### Artículo 47. Procedimientos de autorización previa e inscripción en el Registro Oficial de Entidades de la Zona Especial Canaria.
+
+1\. El Consejo Rector aprobará el impreso normalizado de solicitud de autorización previa y de solicitud de inscripción de entidades en el Registro Oficial de Entidades de la Zona Especial Canaria, que contendrá la mención expresa del compromiso de cumplimiento de los requisitos establecidos en los artículos 30 y 31 de la Ley 19/1994, de 6 de julio, y establecerá el procedimiento necesario para permitir a los interesados presentar, por medios telemáticos, la documentación a que se refiere este artículo.
+
+2\. La solicitud de autorización previa deberá contener, al menos, la siguiente información:
+
+a) Denominación prevista de la entidad de la Zona Especial Canaria.
+
+b) Domicilio social y sede de dirección efectiva.
+
+c) Objeto social que vaya a constar en los estatutos de la entidad de la Zona Especial Canaria.
+
+d) Identificación de las personas que vayan a ostentar la representación legal de la entidad de la Zona Especial Canaria, con indicación de los datos relativos a su lugar de residencia.
+
+e) Importe y localización futura de la inversión.
+
+f) Número de empleos a crear durante los seis meses posteriores a la inscripción de la entidad en el Registro Oficial de Entidades de la Zona Especial Canaria y promedio anual de plantilla previsto para los primeros 3 años de actividad de la entidad.
+
+En caso de haberse ejercido anteriormente la misma actividad bajo la misma u otra titularidad, deberá hacerse declaración en tal sentido, especificándose asimismo el promedio de plantilla que correspondía a dicha actividad durante el ejercicio económico anterior al de la inscripción de la entidad en el Registro Oficial de Entidades de la Zona Especial Canaria.
+
+3\. Una vez obtenida la autorización previa del Consejo Rector, se concederá un plazo de dieciocho meses para solicitar la inscripción de la entidad autorizada en el Registro Oficial de Entidades de la Zona Especial Canaria. Dicha solicitud se presentará en modelo normalizado y deberá ir acompañada del número de identificación fiscal y de los documentos acreditativos de la constitución de la persona jurídica con arreglo a la ley, debidamente presentados ante el Registro Mercantil, junto con la copia simple de dichos documentos, que se cotejará con el original, devolviéndose éste al interesado.
+
+4\. El encargado de la Oficina de Gestión del Registro Oficial de Entidades de la Zona Especial Canaria comprobará la adecuación de los documentos presentados con la información aportada en el momento de solicitar la autorización previa del Consejo Rector, procediendo, en el plazo de diez días a contar desde que se presentaren los mencionados documentos, a practicar la correspondiente inscripción o, en su caso, a requerir al interesado para que subsane los defectos observados.
+
+5\. Una vez obtenida la autorización previa del Consejo Rector, los promotores de las entidades de la Zona Especial Canaria deberán tramitar ante el Consejo Rector una solicitud de modificación para proceder a alterar las actividades económicas autorizadas.
+
+> Se modifican los apartados 2 y 5 por el art. único.16 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 34, de 8 de febrero de 2008. [Ref. BOE-A-2008-2189](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-2189).
+
+##### Artículo 48. Modificación y disolución de Entidades de la Zona Especial Canaria.
+
+1\. Las Entidades de la Zona Especial Canaria deberán notificar al Consejo Rector cualquier modificación de la información que conste en el Registro Oficial de Entidades de la Zona Especial Canaria, salvo cuando se refiera a su objeto, que requerirá autorización previa del Consejo Rector.
+
+2\. Para la modificación de su objeto, la entidad deberá presentar ante el Consejo Rector una solicitud en la que se describan los cambios propuestos y, en su caso, su incidencia sobre la información contenida en los asientos del Registro. En el caso de que la solicitud de modificación sea resuelta favorablemente por el Consejo Rector, la entidad deberá presentar la documentación acreditativa de los cambios autorizados en el plazo de un mes a contar desde el siguiente al de la notificación de la Resolución.
+
+3\. Una vez presentada la documentación acreditativa de las modificaciones a que se refiere este artículo, el encargado de la Oficina de Gestión del Registro procederá a actualizar, en el plazo de diez días a contar desde su recepción, la información contenida en el Registro y a notificarlo así a los interesados.
+
+4\. Las entidades de la Zona Especial Canaria deberán notificar al Consejo Rector que no han aplicado los beneficios fiscales previstos en el título V, capítulo III, sección 2.ª, de la Ley 19/1994, de 6 de julio, cuando no hayan podido dar cumplimiento a los requisitos exigidos por el artículo 31 de dicha ley.
+
+5\. Las entidades de la Zona Especial Canaria deberán notificar al Consejo Rector la cancelación de su inscripción en el Registro Mercantil, a los efectos de proceder a su baja en el Registro Oficial de Entidades de la Zona Especial Canaria. En caso de que el Consejo Rector tuviera conocimiento de la disolución y liquidación de una entidad de la Zona Especial Canaria que no le hubieran sido notificadas, podrá instar de oficio la cancelación de la inscripción en el Registro Oficial.
+
+> Se modifican los apartados 1 y 2 por el art. único.17 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+### CAPÍTULO III — Normas sobre régimen fiscal de las entidades de la Zona Especial Canaria
+
+##### Artículo 49. Disposición general.
+
+Las entidades de la Zona Especial Canaria tendrán derecho a la aplicación del régimen fiscal previsto en el título V, capítulo III, sección 2.ª, de la Ley 19/1994, de 6 de julio, a partir de su inscripción en el Registro Oficial de Entidades de la Zona Especial Canaria.
+
+##### Artículo 50. Determinación de servicios prestados en el ámbito de la Zona Especial Canaria.
+
+Tendrán la consideración de servicios prestados con los medios radicados o adscritos al ámbito de la Zona Especial Canaria los realizados mediante el uso de las tecnologías de la información y las telecomunicaciones siempre que se realicen con medios materiales o humanos situados o adscritos a la entidad de la Zona Especial Canaria y no impliquen la manipulación de mercancías en el ámbito geográfico de la Zona Especial Canaria, salvo que dicha manipulación se limite a la propia entrega o puesta a disposición del producto final a sus destinatarios.
+
+##### Artículo 50 bis. Aeronaves que contribuyen a mejorar las conexiones de las Islas Canarias.
+
+A efectos de lo previsto en la letra a) del apartado 5 del artículo 44 de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, se considerará que las aeronaves contribuyen a mejorar las conexiones de las Islas Canarias en los siguientes casos:
+
+a) Tratándose de tráfico aéreo regular, en los términos del artículo sesenta y siete de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, cuando hayan sido utilizadas en el período impositivo para prestar servicios de transporte dentro del ámbito geográfico de la Zona Especial Canaria o entre este y otros territorios.
+
+b) Tratándose de tráfico aéreo eventual o no regular, en los términos del artículo sesenta y siete de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, cuando más del cincuenta por ciento de sus horas de vuelo en el período impositivo se corresponda con servicios de transporte prestados dentro del ámbito geográfico de la Zona Especial Canaria o entre este y otros territorios. Tratándose de viajes en los que la aeronave haga escala, se computará la totalidad de las horas de vuelo incluyendo el tramo realizado sin origen ni destino en el ámbito geográfico de la Zona Especial Canaria, siempre y cuando el billete se refiera a la totalidad de un viaje con origen o destino en dicho ámbito.
+
+> Se añade por la disposición final 16 de la Ley 31/2022, de 23 de diciembre. [Ref. BOE-A-2022-22128](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22128)
+
+##### Artículo 51. Acreditación del régimen fiscal de la Zona Especial Canaria.
+
+Las entidades de la Zona Especial Canaria podrán solicitar a la Oficina de Gestión del Registro Oficial de Entidades de la Zona Especial Canaria la emisión de los correspondientes certificados de hallarse inscritas en el mismo cuando así sean requeridas por las autoridades competentes para la inspección de los tributos.
+
+##### Artículo 52. Gestión de las tasas aplicables a las entidades de la Zona Especial Canaria.
+
+1\. La tasa de inscripción en el Registro Oficial de Entidades de la Zona Especial Canaria se liquidará por el Consejo Rector del Consorcio de la Zona Especial Canaria al producirse su hecho imponible.
+
+Cuando se hubiere constituido el depósito a que se refiere el artículo 41.1 de la Ley 19/1994, de 6 de julio, una vez practicada la liquidación de la tasa podrá procederse a la compensación de la misma por la propia Oficina de Gestión del Registro Oficial de Entidades de la Zona Especial Canaria.
+
+2\. La tasa anual de permanencia en el Registro Oficial de Entidades de la Zona Especial Canaria se liquidará, previo acuerdo del Consejo Rector, mediante impreso remitido por la Oficina de Gestión del Registro Oficial de Entidades de la Zona Especial Canaria a las entidades que sean sujetos pasivos de la misma.
+
+3\. El Consejo Rector podrá aprobar el documento de autoliquidación de la tasa anual de permanencia, que deberá presentarse por los interesados, junto con el documento acreditativo del abono correspondiente en las cuentas del Consorcio de la Zona Especial Canaria, antes del 20 de febrero del ejercicio siguiente al de devengo de la tasa o, si éste no fuera hábil, el inmediato hábil siguiente. En este caso, no será necesario que la Oficina de Gestión del Registro Oficial de Entidades de la Zona Especial Canaria proceda conforme a lo descrito en el apartado anterior de este artículo.
+
+> Se modifica el párrafo primero del apartado 1 por el art. único.18 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 53. Revisión en vía administrativa.
+
+1\. Las funciones de gestión, liquidación y recaudación de las tasas reguladas en la Ley 19/1994, de 6 de julio, corresponden al Consorcio de la Zona Especial Canaria, que las ejercerá con arreglo a lo dispuesto en la Ley 58/2003, de 17 de diciembre, en la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, y en las normas dictadas para su desarrollo.
+
+2\. La revisión de los actos tributarios dictados por el Consorcio de la Zona Especial Canaria en las materias referidas en el apartado anterior se regirá por lo establecido en el título V de la Ley 58/2003, de 17 de diciembre, y en sus normas de desarrollo.
+
+3\. El Consorcio de la Zona Especial Canaria podrá suscribir convenios con la Agencia Estatal de Administración Tributaria que tengan por objeto la recaudación en vía ejecutiva de las deudas tributarias de las entidades de la Zona Especial Canaria a favor del Consorcio, en cuyo caso la revisión de los actos que se dicten habrá de efectuarse conforme a lo establecido en los mismos.
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 34, de 8 de febrero de 2008. [Ref. BOE-A-2008-2189](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-2189).
+
+### CAPÍTULO IV — Procedimiento sancionador
+
+##### Artículo 54. Potestad sancionadora.
+
+La potestad sancionadora se ejercerá de acuerdo con lo establecido en el capítulo VI del título V de la Ley 19/1994, de 6 de julio, en la Ley 30/1992, de 26 de noviembre, en el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento del procedimiento para el ejercicio de la potestad sancionadora, en sus normas de desarrollo y en las instrucciones que, de acuerdo con sus competencias, pueda dictar el Consejo Rector.
+
+> Se modifica por el art. único.19 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+> Téngase en cuenta la disposición transitoria única del citado Real Decreto en cuanto a las referencias normativas.
+
+##### Artículo 55. Procedimiento sancionador.
+
+1\. El Consorcio efectuará las actividades investigadoras que le corresponden conforme a lo dispuesto en el artículo 37 de la Ley 19/1994, de 6 de julio, y a las normas que establezca el Consejo Rector, con el objeto de obtener los datos necesarios para verificar el cumplimiento de los requisitos legales establecidos en el artículo 31.2 de la Ley 19/1994, de 6 de julio, y comprobar la adecuación de las actividades desarrolladas por las entidades de la Zona Especial Canaria con las autorizadas por el Consejo Rector.
+
+2\. Observado el incumplimiento de alguno de los requisitos legales o cualquier otro hecho que pueda ser constitutivo de alguna de las infracciones descritas en el artículo 66 de la Ley 19/1994, de 6 de julio, el Consejo Rector procederá a designar, de entre sus miembros, al instructor del procedimiento sancionador.
+
+3\. La resolución sancionadora del Consejo Rector deberá recaer y ser notificada en el plazo de seis meses a contar desde la fecha en que se adopte el acuerdo de inicio del procedimiento.
+
+> Se modifica el apartado 1 por el art. único.20 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Artículo 56. Pérdida y recuperación de los beneficios fiscales de la Zona Especial Canaria.
+
+1\. En los supuestos de imposición de sanciones por infracciones graves a que se refiere el artículo 67.1 de la Ley 19/1994, de 6 de julio, consistentes en la pérdida de los beneficios fiscales establecidos en el título V de la Ley 19/1994, de 6 de julio, correspondientes al ejercicio en el que se haya cometido la infracción, la entidad sancionada podrá solicitar, en el plazo de dos meses a contar desde el día siguiente al de la notificación de la resolución sancionadora, el disfrute de los beneficios fiscales correspondientes a los ejercicios económicos que sigan al último en que se hubiere apreciado la concurrencia de una infracción. Vencido el plazo máximo sin haberse notificado resolución expresa, la solicitud deberá entenderse desestimada por silencio administrativo.
+
+2\. El disfrute de los beneficios fiscales deberá concederse siempre que en los ejercicios siguientes a aquel en que se haya cometido la infracción la entidad haya cumplido todos los requisitos previstos en el artículo 31.2 de la Ley 19/1994, de 6 de julio.
+
+> Se modifica el apartado 2 por el art. único.21 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Disposición adicional única. Nuevas ayudas de Estado.
+
+A los efectos de lo dispuesto en el título V de este Reglamento, las ayudas de Estado que se creen en el marco del Régimen Económico y Fiscal de Canarias, en tanto no se incluyan expresamente en aquel, se regirán por lo establecido en la categoría que, de las ayudas mencionadas en el artículo 6 de este Reglamento, se ajuste a su naturaleza.
+
+> Se añade por el art. único.22 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Disposición transitoria primera. Dotaciones a la reserva para inversiones en Canarias efectuadas con anterioridad a 1 de enero de 2015.
+
+A los efectos de lo dispuesto en el título V de este Reglamento, las dotaciones a la reserva para inversiones en Canarias efectuadas con anterioridad a 1 de enero de 2015 se regirán por la normativa aplicable a dicha reserva el 31 de diciembre de 2014.
+
+> Se añade por el art. único.23 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).
+
+##### Disposición transitoria segunda. Importes pendientes de aplicación de la deducción por inversiones en Canarias generados con anterioridad a 1 de enero de 2015.
+
+A los efectos de lo dispuesto en el título V de este Reglamento, los importes de la deducción por inversiones en Canarias generados con anterioridad a 1 de enero de 2015, pendientes de aplicación, se regirán por la normativa aplicable a dicha deducción el 31 de diciembre de 2014.
+
+> Se añade por el art. único.24 del Real Decreto 1022/2015, de 13 de noviembre. [Ref. BOE-A-2015-12400](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12400).

@@ -1,0 +1,469 @@
+---
+title: "Real Decreto 358/1991, de 15 de marzo, por el que se reordena la Organización Nacional de Ciegos Españoles"
+identifier: "BOE-A-1991-7271"
+eli: "https://www.boe.es/eli/es/rd/1991/03/15/358"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Asuntos Sociales"
+date: 1991-03-15
+published: 1991-03-21
+in_force_from: 1991-03-22
+last_amended: 2025-09-10
+consolidated: 2026-03-23
+gazette: "Boletín Oficial del Estado núm. 69"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-7271"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 358/1991, de 15 de marzo, por el que se reordena la Organización Nacional de Ciegos Españoles
+
+Incluye la corrección de errores publicada en BOE núm. 85, de 9 de abril de 1991. [Ref. BOE-A-1991-8486](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-8486).
+
+Por Real Decreto 2385/1985, de 27 de diciembre, que dio nueva redacción a determinados artículos del Real Decreto 1041/1981, de 22 de mayo, se modificó la estructura orgánica y funcional de la Organización Nacional de Ciegos Españoles.
+
+El desarrollo experimentado en los últimos años en las actividades de dicha Organización, tanto en el orden económico y empresarial como en la prestación de servicios de atención e integración social a personas con deficiencia visual o con otro tipo de minusvalía, aconseja realizar, al mismo tiempo que se establece un régimen más abierto, flexible y operativo de sorteos del cupón prociegos, una reordenación de dicha Organización que, sin modificar su naturaleza de Corporación de Derecho Público, de carácter social, sometida al Protectorado del Estado, permita dotarla de una mayor autonomía de decisión y capacidad de desarrollo, sin perjuicio del necesario control de su actividad económica y social a través del Consejo de Protectorado.
+
+En su virtud, a propuesta de la Ministra de Asuntos Sociales, con informe favorable del Consejo de Protectorado de la Organización Nacional de Ciegos Españoles, y previa deliberación del Consejo de Ministros en su reunión de fecha 15 de marzo de 1991,
+
+DISPONGO:
+
+## Artículo 1. Naturaleza.
+
+1\. La Organización Nacional de Ciegos Españoles (ONCE) es una Corporación de Derecho Público de carácter social, con personalidad jurídica propia y plena capacidad de obrar y de autoorganización, cuyos fines sociales se dirigen a la consecución de la autonomía personal y plena integración de las personas ciegas y con deficiencia visual grave, mediante la prestación de servicios sociales, que ejerce en todo el territorio español funciones delegadas de las administraciones públicas, bajo el protectorado del Estado.
+
+La Organización Nacional de Ciegos Españoles, cuya actividad social, económica y empresarial está informada por los principios y valores de la solidaridad, la ausencia de ánimo de lucro y el interés general, se rige por su normativa específica propia, goza de un conjunto de autorizaciones públicas en materia de juego para la financiación de sus fines sociales.
+
+La ONCE estará integrada por sus afiliados, los miembros de la corporación, que son aquellas personas con ceguera o deficiencia visual grave que lo soliciten y sean admitidas en la organización por concurrir las condiciones personales y demás requisitos establecidos en sus estatutos.
+
+2\. Para el adecuado cumplimiento de sus fines, la Organización Nacional de Ciegos Españoles mantendrá la personalidad jurídica y beneficios de carácter procesal, tributario y postal que el ordenamiento jurídico le reconoce.
+
+3\. Ninguna entidad pública o privada podrá utilizar el título de Organización Nacional de Ciegos Españoles, ni otro que pudiera resultar de la adición de palabras o combinación de las que lo constituyen, ni las siglas ONCE, salvo autorización expresa del Consejo General de la organización, destinada al cumplimiento de sus fines estatutarios.
+
+> Se modifica el apartado 1.1 por el art. único.1 del Real Decreto 394/2011, de 18 de marzo. [Ref. BOE-A-2011-5198](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5198).
+
+> Se añade el párrafo segundo al apartado 1 por el art. único.1 del Real Decreto 1359/2005, de 18 de noviembre. [Ref. BOE-A-2005-19791](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19791).
+
+> Se modifica el apartado 3 por el art. único.1 del Real Decreto 1200/1999, de 9 de julio. [Ref. BOE-A-1999-16374](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-16374).
+
+## Artículo 2. Misión y fines.
+
+1\. Para la consecución de su misión social, la Organización Nacional de Ciegos Españoles ordenará sus fines y actuaciones a la autonomía personal y plena inclusión social, igualdad de oportunidades y no discriminación y al disfrute efectivo de los derechos de ciudadanía de sus afiliados, conforme al Ordenamiento Jurídico y de conformidad con el presente real decreto y los estatutos de la organización.
+
+2\. La ONCE colabora, en régimen de complementariedad, con las administraciones públicas, para el mejor cumplimiento de sus fines sociales y para el desarrollo de políticas transversales que favorezcan su implantación y arraigo en la sociedad.
+
+3\. Para dar cumplimiento a la misión y fines sociales indicados en los apartados anteriores, los estatutos de la ONCE preverán, de forma específica, un conjunto de servicios, prestaciones y actividades, referidos, al menos, a las siguientes materias:
+
+a) Inclusión educativa.
+
+b) Formación e inserción laboral.
+
+c) Rehabilitación integral.
+
+d) Autonomía personal.
+
+e) Accesibilidad universal y diseño para todos.
+
+f) Impulso del I+D+i en materia de ceguera y deficiencia visual grave y de la tiflotecnología.
+
+g) Promoción de fondos bibliográficos accesibles y su distribución para propiciar la integración educativa y laboral, así como el acceso a la cultura.
+
+h) Impulso del desarrollo cultural y práctica del deporte.
+
+i) Información interna y externa de sus actividades y mejora de la percepción social de la ONCE y de la ceguera.
+
+j) Cualquier otra de análoga naturaleza.
+
+4\. Los planes y programas de servicios para los afiliados que la Organización acuerde y ejecute se coordinarán con los objetivos y criterios en materia de política social del departamento ministerial competente en la materia y de los demás órganos competentes de las Administraciones públicas.
+
+5\. En atención a su condición de agente social especializado en la formación y creación de empleo para personas con discapacidad, la ONCE perseguirá la consecución de acuerdos de colaboración con el departamento ministerial que asuma las competencias de empleo y con las consejerías y otras áreas competentes en esta materia de las comunidades autónomas al objeto de reconocer su estatus singular como organización de empleo protegido e implementar las actuaciones procedentes en materia de centros especiales de empleo.
+
+6\. Asimismo, la ONCE, como organización especialmente cualificada, en la realización de políticas sociales a favor de personas con discapacidad en general y en la prestación de servicios sociales para personas ciegas y con deficiencia visual grave en particular; podrá promover e impulsar, mediante los instrumentos adecuados, líneas de cooperación institucional y acuerdos de colaboración con las comunidades autónomas, recabando de éstas el reconocimiento de su estatus singular y la articulación de los mecanismos y actuaciones procedentes a que hubiera lugar como organización colaboradora de acción social en el correspondiente ámbito autonómico.
+
+7\. La ONCE colaborará con el departamento ministerial competente en materia de empleo para personas con discapacidad y las demás administraciones públicas, así como con las entidades privadas, en la ejecución de las políticas de integración social de las personas con discapacidad, a través de la articulación de los mecanismos de solidaridad y cooperación que se establezcan mediante convenio.
+
+8\. La ONCE, a través, principalmente, de la Fundación ONCE para la Cooperación e Inclusión Social de Personas con Discapacidad, también podrá desarrollar actuaciones que coadyuven a la integración social y laboral, la creación y mantenimiento del empleo, la formación, y la accesibilidad universal en relación con las personas con discapacidad en España, cooperando así con el Gobierno a favor del interés general.
+
+La ONCE, en su calidad de fundadora de la Fundación ONCE para la Cooperación e Inclusión Social de Personas con Discapacidad promoverá e impulsará prioritariamente el desarrollo de programas de integración social y de promoción del empleo y de formación de las personas con discapacidad en todos los entornos laborales, en colaboración especializada con los servicios públicos de empleo.
+
+> Se modifica por el art. único.2 del Real Decreto 394/2011, de 18 de marzo. [Ref. BOE-A-2011-5198](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5198).
+
+> Se modifican los apartados 1 a 3 por el art. único.2 a 4 del Real Decreto 1359/2005, de 18 de noviembre. [Ref. BOE-A-2005-19791](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19791).
+
+## Artículo 3. Medios económicos.
+
+Para el cumplimiento de sus fines, la Organización dispone de los siguientes medios:
+
+a) Su patrimonio actual, directamente gestionado por los servicios de la Organización y el rendimiento del mismo, así como la parte que le corresponda del patrimonio y de los beneficios de las Empresas creadas o participadas por la ONCE.
+
+b) Los beneficios obtenidos en la explotación en exclusiva de la concesión estatal de la venta del cupón prociegos y en la comercialización de otros juegos autorizados a la ONCE.
+
+c) Las donaciones, legados y herencias de particulares.
+
+d) Las subvenciones que, en su caso, le concedan el Estado y las demás Administraciones Públicas.
+
+e) Los ingresos resultantes de la prestación de servicios.
+
+f) Cualquier otro ingreso que se le reconozca conforme al ordenamiento jurídico aplicable.
+
+> Se modifican las letras b) y f) por el art. único.5 del Real Decreto 1359/2005, de 18 de noviembre. [Ref. BOE-A-2005-19791](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19791).
+
+## Artículo 4. Del Consejo General.
+
+1\. El Consejo General es el órgano de gobierno de la ONCE.
+
+2\. Su composición y funcionamiento será el siguiente:
+
+a) Estará constituido por el número de vocales que se establezca en los Estatutos, que no podrá ser inferior a once ni superior a quince.
+
+b) Todos los vocales del Consejo serán elegidos por y entre los afiliados, mediante sufragio secreto, con arreglo a las normas electorales aprobadas por el propio Consejo General.
+
+c) Los vocales elegirán de entre ellos al Presidente del Consejo, quien ostentará la máxima representación institucional de la ONCE, y un número de Vicepresidentes no superior a 4, conforme a los criterios que se establezca en los Estatutos.
+
+d) Los estatutos de la organización determinarán el plazo de renovación del Consejo, que no podrá ser superior a cuatro años, la periodicidad de sus reuniones y el procedimiento de adopción de acuerdos.
+
+e) Actuará como Secretario del Consejo, con voz y sin voto, el Secretario general del Consejo General. Su nombramiento corresponderá al Pleno del Consejo General, que determinará sus funciones y nivel directivo, recayendo en un afiliado a la ONCE.
+
+f) El Consejo General estructura sus órganos de gobierno en Pleno y, subordinado a éste, Comisión Ejecutiva Permanente conforme a la composición y competencias que se establezca en los Estatutos.
+
+3\. A las sesiones de los órganos de gobierno del Consejo General asistirán los responsables ejecutivos y cualesquiera otros ejecutivos o expertos que fueran convocados, en los términos que se establezca en los estatutos.
+
+4\. Son funciones del Consejo General:
+
+a) Elaborar y aprobar los proyectos de Estatutos de la Organización y sus modificaciones.
+
+b) Aprobar todas las normas internas que sean precisas para desarrollar los Estatutos de la Organización.
+
+Dentro de los criterios establecidos en los estatutos, el Consejo General aprobará la estructura orgánica y funcional del conjunto de la organización, así como del propio Consejo General.
+
+c) Definir y aprobar los planes generales de actuación de la Entidad dentro de las previsiones presupuestarias.
+
+d) Velar por el cumplimiento de las líneas de actuación adoptadas, recabar cuanta información sea precisa sobre la marcha financiera y administrativa de la Organización y proponer a la Administración cuantas medidas sean necesarias para la defensa e integración social de los afiliados, así como ejercitar cuantas acciones sean pertinentes en defensa de los intereses de los mismos.
+
+e) Aprobar los presupuestos ordinarios y extraordinarias y las modificaciones correspondientes, así como la liquidación de los presupuestos y las cuentas anuales individuales y consolidadas, debidamente auditadas, de la organización.
+
+f) Elaborar y elevar al Consejo de Protectorado los planes, proyectos o acuerdos de los que dicho Consejo deba ser informado, de conformidad con lo establecido en el presente Real Decreto, así como aprobar, a efectos de su remisión al Consejo de Protectorado, para su ulterior tramitación ante el Consejo de Ministros, los proyectos de modificación del régimen del cupón y otros juegos comercializados por la ONCE que necesiten autorización previa.
+
+g) Informar al Consejo de Protectorado del cumplimiento de las obligaciones y del resultado de las actuaciones en las materias contenidas en el Acuerdo General entre el Gobierno de la Nación y la ONCE vigente en cada momento, a que se refiere el artículo 8.3.l).
+
+h) Nombrar al Director general de la Organización entre afiliados con experiencia suficiente en cargos de dirección y gestión, así como acordar su cese.
+
+i) Aprobar el nombramiento y destitución de los cargos directivos de la Organización.
+
+j) Representar con plena capacidad a la Organización en la negociación con los Sindicatos más representativos en la ONCE en todas aquellas materias relativas a las condiciones de trabajo.
+
+k) Representar a la organización y sus afiliados en los organismos nacionales e internacionales, así como definir los criterios generales de actuación, y los mecanismos de seguimiento, en materias de importancia relacionadas con los asuntos de la Unión Europea.
+
+l) Resolver los expedientes disciplinarios que se instruyan al personal o afiliados de la Organización por faltas muy graves.
+
+m) Aprobar las plantillas orgánicas de la organización, así como las líneas directrices de las políticas de recursos humanos.
+
+n) Resolver todas las reclamaciones y recursos contra sus actos, sin perjuicio de lo dispuesto en el artículo 8.3.m). Dichas resoluciones agotarán la vía interna de la organización.
+
+ñ) Ejercer el control financiero ordinario de la Organización.
+
+o) Convocar elecciones al Consejo General y a los Consejos Territoriales de la organización, conforme a la normativa electoral aprobada previamente al efecto por el propio Consejo General.
+
+p) Nominar a las personas que serán propuestas para desempeñar los cargos de máxima responsabilidad ejecutiva en el Grupo Empresarial de la ONCE y su Fundación, en la Fundación ONCE y, en su caso, en aquellas otras personas jurídicas con las que la ONCE tenga una fuerte vinculación societaria o institucional.
+
+Asimismo, procederá a nombrar a los representantes de la ONCE en los órganos de administración de las entidades a que se refiere el párrafo anterior.
+
+q) Conocer las cuentas anuales y las auditorías del Grupo Empresarial de la ONCE y su Fundación, de la Fundación ONCE y, en su caso, de las personas jurídicas con las que la ONCE tenga una fuerte vinculación societaria o institucional.
+
+Asimismo, el Consejo General deberá recibir información suficiente y adecuada del Grupo Empresarial de la ONCE y su Fundación y de la Fundación ONCE en materia de planificación estratégica, planes anuales de actuación, presupuestos anuales, inversiones, liquidación de presupuestos y cualquier otra materia de gran relevancia. A tal fin, el Consejo General articulará los procedimientos o mecanismos adecuados de coordinación, supervisión y control.
+
+r) Otorgar y revocar los apoderamientos, con el alcance que en cada caso se determine, a favor de los altos ejecutivos de la organización.
+
+s) Adoptar, cuando se forme parte de manera directa, la decisión de participar, en nombre de la organización, en la fundación de cualquier tipo de sociedades o entidades, así como la adopción, en nombre de la organización, de todas las decisiones que convengan a la actividad social de las indicadas entidades y empresas.
+
+t) Aprobar la remisión al Consejo de Protectorado de informes donde se recojan propuestas de medidas concretas, tanto de modificaciones normativas como de índole administrativa, para garantizar la efectiva persecución y represión de los juegos ilegales.
+
+u) Adoptar todas las medidas que se estimen oportunas para el correcto funcionamiento de la organización respecto de cualquier materia o asunto que no haya sido atribuido a otro órgano en el presente Real Decreto.
+
+v) Cualquier otra competencia que le sea atribuida por los estatutos de la ONCE.
+
+> Se modifican los apartados 4.p) y q) por el art. único.1 del Real Decreto 1152/2015, de 18 de diciembre. [Ref. BOE-A-2016-4](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4).
+
+> Se modifican los apartados 2 y 3 y se añade el apartado 4.v) por el art. único.3 del Real Decreto 394/2011, de 18 de marzo. [Ref. BOE-A-2011-5198](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5198).
+
+> Se modifican los apartados 3 y 4 por el art. único.6 a 12 del Real Decreto 1359/2005, de 18 de noviembre. [Ref. BOE-A-2005-19791](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19791).
+
+> Se modifican los apartados 1 a 4 por el art. único.2 y 3 del Real Decreto 1200/1999, de 9 de julio. [Ref. BOE-A-1999-16374](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-16374).
+
+## Artículo 5. De los Consejos Territoriales.
+
+1\. Los Consejos Territoriales tendrán la función de supervisar y controlar la aplicación de los acuerdos del Consejo General, así como proponer cuantas medidas, planes y programas sean necesarios para el mejor funcionamiento de la Organización.
+
+2\. Los miembros de los Consejos Territoriales serán elegidos por y entre los afiliados de cada demarcación territorial mediante sufragio igual, libre, directo y secreto, con arreglo a las normas electorales aprobadas por el Consejo General.
+
+3\. Los Estatutos de la Organización determinarán el ámbito de los Consejos Territoriales, así como su composición, renovación, que coincidirá con la del Consejo General, periodicidad de sus reuniones, competencias y procedimiento de adopción de acuerdos.
+
+## Artículo 6. Del Director general.
+
+1\. La gestión ordinaria de la entidad corresponde a la Dirección General de la organización, que actuará conforme a criterios de competencia, profesionalidad y desconcentración.
+
+Del Director general dependerán jerárquicamente los demás responsables de los órganos de administración de la ONCE.
+
+2\. La duración del mandato del Director general será la misma que la del Consejo General, sin perjuicio de que pueda ser removido por éste. Al cesar en el cargo, el Director general permanecerá en funciones hasta el nombramiento y toma de posesión de su sucesor.
+
+3\. Son funciones del Director general:
+
+a) Ejercer todas las funciones ejecutivas conferidas y las que le reconozcan los Estatutos y los apoderamientos genéricos o específicos que el Consejo General le otorgue, representando a la organización ante las Administraciones públicas, las entidades privadas y los particulares, con capacidad de obrar suficiente conforme a las facultades que se le atribuyen en la presente disposición.
+
+b) Elaborar los planes de actuación de la Entidad y velar por su ejecución, una vez aprobados por el Consejo General.
+
+c) Elaborar los presupuestos ordinarios y extraordinarios de la organización, así como la liquidación de dichos presupuestos, formular las cuentas anuales individuales y consolidadas y presentar las mismas al Consejo General, una vez auditadas a efectos de su aprobación.
+
+En materia de inversiones actuará conforme a los criterios y procedimientos establecidos por el Consejo General.
+
+d) Dictar las normas de ejecución y gestión de carácter interno necesarias para el buen funcionamiento de la organización y el correcto cumplimiento de los criterios aprobados por el Consejo General.
+
+e) Proponer el nombramiento y cese de los cargos dependientes de la Dirección General.
+
+f) Emitir cuantos informes le sean solicitados por el Consejo General o por el Consejo de Protectorado.
+
+g) Resolver los expedientes disciplinarios que se instruyan al personal o afiliados de la Organización por faltas graves.
+
+h) Dirigir la gestión financiera ordinaria y la ejecución de las inversiones, con arreglo a los criterios establecidos por el Consejo General.
+
+i) Las que le delegue el Consejo General o que, por razón de la urgencia del caso, sea preciso asumir, dando cuenta al Consejo General en su próxima reunión.
+
+> Se modifican los apartados 1 y 3 por el art. único.4 y 5 del Real Decreto 1200/1999, de 9 de julio. [Ref. BOE-A-1999-16374](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-16374).
+
+> Redactado el apartado 3.h) conforme a la corrección de errores publicada en BOE núm. 85, de 9 de abril de 1991. [Ref. BOE-A-1991-8486](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-8486).
+
+## Artículo 7. Régimen de autorizaciones a la ONCE en materia de modalidades y productos de juego.
+
+1\. La ONCE, en atención a su naturaleza de corporación de derecho público de carácter social sujeta a un estricto control público, está sometida al régimen de autorizaciones en materia de juego previsto en este artículo, así como en la normativa legal aplicable y en el Acuerdo General entre el Gobierno de la Nación y la ONCE.
+
+Corresponde al Consejo de Ministros la concesión de las autorizaciones a la ONCE relativas al régimen de sorteos del cupón prociegos, así como de cualquier otra modalidad de juego de los definidos en el Acuerdo General entre el Gobierno de la Nación y la ONCE vigente, al amparo de lo previsto en la disposición adicional vigésima de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986, modificada por la disposición adicional cuarta de la Ley 55/1999, de 29 de diciembre, de medidas fiscales, administrativas y del orden social.
+
+2\. El Acuerdo del Consejo de Ministros que contenga la autorización se adoptará a propuesta de la persona titular del Ministerio de Derechos Sociales, Consumo y Agenda 2030 o del ministerio que en cada momento ostente la competencia sobre el Consejo de Protectorado de la ONCE, de acuerdo con las personas titulares de los Ministerios de Hacienda y del Interior, previo informe del Consejo de Protectorado y oído el Consejo General de la Organización, y definirá con precisión los términos, alcance y duración de la autorización.
+
+A tal fin, serán de aplicación los siguientes criterios:
+
+a) El régimen de autorizaciones se basará en la fijación de criterios e indicadores que establezcan límites máximos, dentro de los cuales la ONCE, como entidad que garantiza la existencia de un circuito sujeto a un estricto control público para la explotación de las modalidades de juego autorizadas, podrá desarrollar la gestión de dichas modalidades de juego. Dichos límites no podrán sobrepasarse sin la previa y expresa autorización al respecto, cualquiera que sea la modalidad de juego, pasivo, activo o instantáneo, de que se trate.
+
+b) Respecto del cupón, dichos límites máximos se referirán al menos al volumen máximo de emisión y ventas anuales; porcentaje máximo de premios; precios máximos del cupón y los criterios para su actualización; sorteos extraordinarios, y cuantas otras cuestiones sean precisas para un correcto ejercicio por la ONCE de la concesión estatal del cupón.
+
+c) Cuando se trate de modalidades y productos de juego de naturaleza activa, instantánea o pasiva distinta del cupón, la autorización expresará, de forma clara, los términos, condiciones y límites máximos dentro de los cuales la ONCE podrá desarrollar la gestión de dichas modalidades y productos de juego.
+
+3\. El Consejo General de la ONCE podrá adoptar cuantas decisiones sean precisas en materia del régimen de sorteos del cupón, y de otras modalidades de juego autorizadas, que vengan aconsejadas por razones organizativas, económicas o comerciales, siempre que se desarrollen dentro de los límites máximos establecidos en el Acuerdo autorizador.
+
+4\. La ONCE explotará una modalidad de lotería de ámbito estatal, denominada lotería instantánea o presorteada, en los términos, condiciones, alcance y plazos previstos en el Real Decreto 1336/2005, de 11 de noviembre, modificado por el Real Decreto 1706/2011, de 18 de noviembre, por el que se autoriza a la Organización Nacional de Ciegos Españoles la explotación de una lotería instantánea o presorteada.
+
+5\. El Consejo General de la ONCE podrá suscribir, previa verificación por el Consejo de Protectorado, acuerdos con otros operadores de juego habilitados para operar en países del Espacio Económico Europeo, relativos a la comercialización simultánea o conjunta de productos comunes de lotería.
+
+Asimismo, el Consejo General de la ONCE podrá suscribir, previa verificación por el Consejo de Protectorado, acuerdos de comercialización simultánea o conjunta de productos comunes de lotería con operadores habilitados en aquellos países europeos que hayan solicitado su incorporación a la Unión Europea y sobre los que exista un pronunciamiento favorable del Consejo, en los términos previstos por el artículo 49 del Tratado de la Unión Europea; y con operadores de juego habilitados para operar en otros países, con el alcance que se determine en el Acuerdo General entre el Gobierno de la Nación y la ONCE.
+
+La suscripción de acuerdos de comercialización conjunta de productos comunes de lotería con operadores de otros países distintos de los previstos en los párrafos anteriores requerirá autorización puntual y específica al efecto del Consejo de Ministros.
+
+La verificación de estos acuerdos, que se ajustará a los procedimientos y criterios de control y supervisión aprobados por el Consejo de Protectorado antes de la comercialización efectiva de dichos productos comunes de lotería, se atendrá a los siguientes requisitos y condiciones:
+
+a) Los productos comunes de lotería se encuadrarán en alguna de las modalidades de lotería autorizadas a la ONCE: cupón prociegos, juego activo y lotería instantánea.
+
+b) Los productos comunes de lotería se comercializarán simultáneamente en varios países.
+
+c) En cada país actuará, al menos, un operador autorizado que ostente la titularidad del producto común de lotería en dicho país.
+
+d) El sorteo o evento que sirva para determinar el resultado del juego y el programa de premios será único para todos los países en los que se comercialice el producto común de lotería.
+
+e) La ONCE participará en el riesgo y ventura de la comercialización de los productos comunes de lotería, no pudiendo actuar como un mero distribuidor de dichos productos.
+
+f) Las ventas de cada país se asignarán al operador correspondiente, y los premios serán compartidos por los diferentes operadores proporcionalmente al volumen de sus ventas. Asimismo se compartirán los gastos del mantenimiento del sistema central de juego y los gastos del sorteo.
+
+g) Las ventas realizadas por la ONCE en el Estado español en la explotación de estos productos comunes computarán en los límites de ventas que la ONCE tiene establecidos para sus diferentes modalidades de juego.
+
+6\. Al objeto descrito en el apartado anterior, la ONCE remitirá la correspondiente propuesta al Consejo de Protectorado, que la someterá a informe preceptivo de los departamentos ministeriales de Hacienda y del Interior.
+
+A la vista de la propuesta y del citado informe, que deberá ser emitido en el plazo de quince días, y de conformidad con los representantes de la Administración General del Estado, el Consejo de Protectorado, con observancia de los procedimientos y criterios de control y supervisión a los que se refieren el párrafo cuarto del apartado anterior y la disposición final segunda del presente real decreto, procederá a verificar que la propuesta de la ONCE se ajusta, con carácter general, a la legislación vigente aplicable, se adecua a las condiciones establecidas en el Acuerdo General respecto de las modalidades y productos de juego autorizados a la ONCE y cumple los requisitos establecidos en el párrafo cuarto del apartado anterior.
+
+7\. En la explotación y comercialización de las modalidades de juego autorizadas, la ONCE cooperará con el Estado para erradicar los juegos ilegales, para proteger los intereses del Estado contra los riesgos de fraude y criminalidad y para evitar los efectos perniciosos del juego sobre los consumidores.
+
+Asimismo, la ONCE dará cumplimiento a la normativa sobre juego responsable que resulte aplicable y, en particular, aquella que implique la prohibición del juego de los menores de edad, y la prevención del juego excesivo, del fraude y del blanqueo de capitales. Además la ONCE suscribirá y cumplirá los estándares de juego responsable establecidos en cada momento por las asociaciones internacionales de las que forme parte, en especial en lo que afecten a las citadas materias.
+
+> Se modifica el primer párrafo de los apartados 2 y 6 por el art. 1.1 y 2 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifican los apartados 2 y 6 por el art. 1.1 y 2 del Real Decreto 1127/2021, de 21 de diciembre. [Ref. BOE-A-2021-21110](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21110)
+
+> Se modifican los apartados 2 y 6 por el art. 1.1 del Real Decreto 369/2021, de 25 de mayo. [Ref. BOE-A-2021-8750](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8750)
+
+> Se modifica el apartado 5 por el art. único.2 del Real Decreto 1152/2015, de 18 de diciembre. [Ref. BOE-A-2016-4](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4).
+
+> Se modifican los apartados 5 y 6 por el art. único.1 y 2 del Real Decreto 3/2013, de 11 de enero. [Ref. BOE-A-2013-496](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-496).
+
+> Se modifican los apartados 2, 4 y 6 por el art. 1.1 a 3 del Real Decreto 1146/2012, de 27 de julio. [Ref. BOE-A-2012-11211](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-11211).
+
+> Se modifica por el art. único.4 del Real Decreto 394/2011, de 18 de marzo. [Ref. BOE-A-2011-5198](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5198).
+
+> Se modifica el apartado 1 y se añade el apartado 4 por el art. único.13 y 14 del Real Decreto 1359/2005, de 18 de noviembre. [Ref. BOE-A-2005-19791](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19791).
+
+> Se modifica por el art. único.6 del Real Decreto 1200/1999, de 9 de julio. [Ref. BOE-A-1999-16374](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-16374).
+
+> Redactado el apartado 1.c) conforme a la corrección de errores publicada en BOE núm. 85, de 9 de abril de 1991. [Ref. BOE-A-1991-8486](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-8486).
+
+## Artículo 8. Protectorado del Estado.
+
+1\. El Protectorado del Estado se ejercerá a través del Consejo de Protectorado de la ONCE, órgano colegiado de carácter interministerial, adscrito al Ministerio de Derechos Sociales, Consumo y Agenda 2030, o aquel otro departamento ministerial que en cada momento tenga atribuida esta competencia, conforme a las disposiciones que regulen la estructura orgánica de los departamentos ministeriales.
+
+2\. El Protectorado del Estado se ejercerá a través de un Consejo integrado por:
+
+a) La Presidencia, que será ejercida por el titular del departamento competente de acuerdo con lo previsto en el apartado 1 de este artículo, quien podrá ser sustituido, en casos de vacante, ausencia, enfermedad, u otra causa legal, por el miembro del órgano colegiado de mayor jerarquía, antigüedad y edad, por este orden.
+
+b) Siete vocalías en representación de la Administración General del Estado: tres en representación del Ministerio de Derechos Sociales, Consumo y Agenda 2030; una del Ministerio de Hacienda; una del Ministerio del Interior; una del Ministerio de Educación, Formación Profesional y Deportes y, por último, una del Ministerio de Trabajo y Economía Social. Cada vocalía, tanto titular como suplente, será designada por la persona titular de su departamento respectivo y recaerá en la persona titular de un órgano de dicho departamento con rango al menos de dirección general.
+
+Cada representante de la Administración se sustituirá por su vocalía suplente en los casos de ausencia, vacante, enfermedad o cualquier otra causa justificada.
+
+En la designación de vocalías se deberá asegurar la participación de personas con discapacidad en este órgano, así como el principio de presencia equilibrada de mujeres y hombres, según lo establecido en el artículo 54 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas.
+
+c) Siete vocalías en representación de la ONCE ejercidas por el titular de la Presidencia del Consejo General de la ONCE y por seis representantes más de dicha organización, nombrados por su órgano de gobierno de entre las personas que pertenezcan a la alta dirección de la entidad.
+
+Cada uno de los representantes de la ONCE será sustituido por un vocal suplente del mismo nivel que designe el órgano de gobierno de la ONCE.
+
+d) Secretaría, ejercida, con voz pero sin voto, por el titular de la subdirección general o, en su caso, del órgano administrativo del departamento que resulte competente en materia de protectorado de la ONCE, que tenga atribuida la asistencia técnica e instrumental al ejercicio de la tutela del Estado sobre la ONCE.
+
+El secretario/a del Consejo será sustituido por el titular de otra subdirección general u órgano administrativo de la dirección general que ejerza las funciones de tutela sobre la ONCE, designado por la presidencia.
+
+e) También podrán asistir como expertos, con voz pero sin voto, aquellas otras personas que sean convocadas expresamente por la presidencia.
+
+f) El Consejo de Protectorado aprobará sus normas internas de funcionamiento y actuará en Pleno, en Comisión Permanente y mediante la constitución de las comisiones y grupos de trabajo que el propio Consejo determine para finalidades concretas.
+
+Asimismo, dentro del Consejo de Protectorado existirá una Comisión Disciplinaria, formada por tres vocales del Consejo de Protectorado, dos de los cuales serán representantes del Ministerio Derechos Sociales, Consumo y Agenda 2030 y uno, del Ministerio del Interior, quienes podrán ser sustituidos, en casos de vacante, ausencia, enfermedad, u otra causa legal, por cualquiera de las otras vocalías del Consejo, sin representantes de la ONCE en garantía de la imparcialidad de la Comisión, que tendrá como competencia exclusiva el ejercicio de la potestad sancionadora por posibles infracciones en materia de juego previstas en la Ley 13/2011, de 27 de mayo, de regulación del juego, que pudiera cometer la ONCE.
+
+El ejercicio de la potestad sancionadora por parte de dicha Comisión Disciplinaria se ajustará a lo establecido en la Ley 13/2011, de 27 de mayo, y a las disposiciones aplicables de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, de acuerdo con lo previsto en el Reglamento de Funcionamiento del Consejo de Protectorado.
+
+Los acuerdos que adopte esta Comisión Disciplinaria se comunicarán a la Comisión Permanente del Consejo de Protectorado en la primera reunión que ésta celebre, teniendo ejecutividad desde la fecha de dicha reunión.
+
+3\. Corresponde al Consejo de Protectorado velar por la observancia de la legalidad, el cumplimiento de los fines de la organización, el estricto control público sobre sus actividades de juego, así como la alta inspección de todos los servicios y actividades de la misma y, en particular:
+
+a) Aprobar, a propuesta del Consejo General de la ONCE, los estatutos de la organización, así como sus modificaciones. La ONCE deberá remitir al Consejo de Protectorado para su conocimiento, todas las normas internas que se dicten para el desarrollo de, sus estatutos.
+
+b) Promover, a iniciativa propia o del Consejo General y oído éste en todo caso, las medidas de carácter normativo, administrativo o de cualquier otra índole, convenientes para el correcto cumplimiento de los fines de la organización.
+
+c) Informar, con la conformidad de los Ministerios de Hacienda y del Interior, y con carácter previo al sometimiento al Consejo de Ministros, las propuestas que se eleven a este respecto de las autorizaciones que, en materia de modalidades y productos de juego autorizados a la ONCE, sean precisas conforme a lo previsto en el artículo 7.
+
+d) Establecer de conformidad con lo dispuesto en el artículo 7 los criterios y procedimientos adecuados para ejercer el control sobre las materias relativas al cupón y otras modalidades de juego autorizadas a la ONCE.
+
+Asimismo, recabar cuanta información considere precisa para verificar el volumen de las emisiones realizadas, la recaudación obtenida, los premios pagados, los premios caducados y cuantos datos sean precisos para verificar el cumplimiento de los acuerdos de autorización.
+
+e) Ser informado documentalmente, durante el mes de diciembre del año anterior, de los presupuestos ordinarios de la Organización, y en su momento, de las modificaciones a los mismos, así como de los presupuestos extraordinarios cuando se produzcan.
+
+Dichos presupuestos contendrán las Grandes Magnitudes del Grupo Empresarial de la ONCE y su Fundación, así como los criterios y cuantías de los flujos económicos entre la ONCE y dicho Grupo Empresarial.
+
+f) Simultáneamente a la presentación e información de las cuentas anuales de la organización, ser informado por el Consejo General sobre los mecanismos y procedimientos adoptados para ejercer el control sobre el Grupo Empresarial de la ONCE y su Fundación, al objeto de que éste cumpla adecuadamente los objetivos empresariales y sociales que la ONCE le ha asignado.
+
+g) Ser informado de las inversiones realizadas por la organización, así como de los actos de disposición que afecten al patrimonio de la misma, a partir de la cuantía que establezca el Consejo de Protectorado.
+
+h) Ser informado, dentro de los seis meses siguientes al del cierre del ejercicio económico, sobre los programas de los servicios sociales realizados por la organización durante ese ejercicio, para efectuar la evaluación correspondiente en función de los resultados de dichos programas.
+
+i) Ser informado, dentro de los seis meses siguientes al del cierre del ejercicio económico, sobre las cuentas anuales individuales y consolidadas de la ONCE, sobre la liquidación del presupuesto de la ONCE y sobre las cuentas anuales consolidadas del Grupo Empresarial de la ONCE y su Fundación.
+
+j) Elaborar planes y proponer convenios de cooperación para el desarrollo de actividades relacionadas con los fines de la ONCE en la que estén interesados otros organismos de la Administración del Estado, ya sea por iniciativa propia o a propuesta de otros organismos de la Administración del Estado o del Consejo General de la ONCE.
+
+k) Conocer y analizar los informes de auditoría sobre las cuentas anuales de la ONCE y del Grupo Empresarial de la ONCE y su Fundación que se realizarán con periodicidad anual y que serán encargados por aquélla a una empresa auditora independiente.
+
+El contenido y alcance de las auditorías anteriores será el determinado por la Ley 22/2015, de 20 de julio, de Auditoría de Cuentas, y normativa de desarrollo.
+
+Asimismo, el Consejo de Protectorado, en el ejercicio de sus funciones, podrá determinar la realización de auditorías por empresa auditora independiente, a los fines que el mismo determine en el ámbito de sus competencias.
+
+l) Ser informado por la ONCE del cumplimiento de las obligaciones y del resultado de las actuaciones en las materias contenidas en el Acuerdo General entre el Gobierno de la Nación y la ONCE vigente en cada momento, en los términos previstos en él.
+
+m) Resolver las reclamaciones y recursos contra los actos de la organización relativos a la adquisición y pérdida de la condición de afiliado y a los premios de las modalidades y productos de juego autorizados a la ONCE, cuando, en este último caso, su cuantía supere los 30.000 euros. Dichas resoluciones agotarán la vía administrativa.»
+
+n) Informar con carácter previo a la aceptación de herencias, legados y donaciones por el Consejo General, cuando estas impliquen cargas u obligaciones para la organización.
+
+ñ) Aprobar y tramitar ante los órganos administrativos correspondientes, a solicitud del Consejo General, propuestas de medidas concretas, tanto de modificaciones normativas como de índole administrativa, para garantizar la efectiva persecución y represión de los juegos ilegales.
+
+o) Verificar, con carácter previo, los acuerdos con otros operadores a que se refiere el apartado 5 del artículo 7 de este real decreto.
+
+p) Cualquier otra competencia o función que se le asigne legal o reglamentariamente, le confiera el Consejo de Ministros o le atribuya el Acuerdo General entre el Gobierno y la ONCE a que se refiere la disposición adicional vigésima de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986. y en general, realizar cuantas actuaciones sean necesarias para el ejercicio de la tutela y control en la materia, el mejor desenvolvimiento de la ONCE, la correcta consecución de sus objetivos y la coordinación más idónea con la Administración General del Estado.
+
+> Se modifican los apartados 1, 2.a), b) y f), y 3.c) por el art. 1.3 a 6 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifican los apartados 2.c), f) y 3.c) por el art. 1.3 a 5 del Real Decreto 1127/2021, de 21 de diciembre. [Ref. BOE-A-2021-21110](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21110)
+
+> Se modifican los apartados 1, 2.b), c) y 3.c) por el art. 1.2 del Real Decreto 369/2021, de 25 de mayo. [Ref. BOE-A-2021-8750](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8750)
+
+> Se modifican las letras e), f), i) y k) del apartado 3 por el art. único.3 del Real Decreto 1152/2015, de 18 de diciembre. [Ref. BOE-A-2016-4](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4).
+
+> Se modifican los apartados 2.b), 3.c) y 3.h) por el art. 1.4 a 6 del Real Decreto 1146/2012, de 27 de julio. [Ref. BOE-A-2012-11211](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-11211).
+
+> Se modifica por el art. único.5 del Real Decreto 394/2011, de 18 de marzo. [Ref. BOE-A-2011-5198](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5198).
+
+> Se modifica el apartado 2 por el art. 1.1 del Real Decreto 1434/2008, de 29 de agosto. [Ref. BOE-A-2008-14464](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14464).
+
+> Se modifica el párrafo quinto del apartado 2 y el apartado 3 por el art. único.15 a 21 del Real Decreto 1359/2005, de 18 de noviembre. [Ref. BOE-A-2005-19791](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19791).
+
+> Se modifican los apartados 1 a 3 por el art. único.7 del Real Decreto 1200/1999, de 9 de julio. [Ref. BOE-A-1999-16374](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-16374).
+
+> Redactados los apartados 3.j) y 3.k) conforme a la corrección de errores publicada en BOE núm. 85, de 9 de abril de 1991. [Ref. BOE-A-1991-8486](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-8486).
+
+## Artículo 9. Comisión mixta.
+
+El seguimiento de los acuerdos generales entre el Gobierno y la ONCE, en los términos previstos en ellos y sin perjuicio de las competencias sobre esta materia del Consejo de Protectorado de la ONCE, se ejercerá a través de una comisión mixta integrada por:
+
+a) La Presidencia, que será ejercida por un representante del ministerio con competencias en materia de tutela de la ONCE, con rango, al menos, de Secretaría General, designado por el titular del departamento ministerial. Quien ejerza la presidencia podrá delegar sus funciones en un integrante de la Comisión que actúe en representación del propio departamento.
+
+b) Cinco vocalías, dos en representación de la Administración General del Estado y tres representantes de máximo nivel designados por el Consejo General de la ONCE. Las dos personas que representan a la Administración General del Estado tendrán que ostentar, al menos, el rango de titular de dirección general en representación del Ministerio de Derechos Sociales, Consumo y Agenda 2030 o, en su caso, una del ministerio que ostente la competencia sobre el Consejo de Protectorado de la ONCE y otra del ministerio con competencias en materia de juego, ambas designadas por la persona titular del departamento.
+
+En casos de ausencia o de enfermedad y, en general, cuando concurra alguna causa justificada, las personas que sustituyan a las vocalías titulares en representación de la Administración General del Estado serán designadas con arreglo a los mismos criterios de designación que las titulares y quienes ejerzan las vocalías en representación de la ONCE serán sustituidas por las personas suplentes de alto nivel designadas por el Consejo General de la ONCE.
+
+En la designación de las vocalías se deberá asegurar el principio de presencia equilibrada de mujeres y hombres, según lo establecido en el artículo 54 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas.
+
+c) También podrán asistir, con voz pero sin voto, aquellas otras personas que sean convocadas expresamente por la presidencia.
+
+d) La Secretaría, que será ejercida por el titular de la subdirección general o, en su caso, del órgano administrativo del ministerio que tenga atribuida la asistencia técnica e instrumental al ejercicio de la tutela del Estado sobre la ONCE, que actuará con voz y sin voto.
+
+El titular del ministerio que tenga la competencia en cuanto al protectorado de la organización designará como secretario/a suplente al titular de otra subdirección general u órgano administrativo de la dirección general que ejerza las funciones de tutela sobre la ONCE.
+
+> Se modifica la letra b) por el art. 1.7 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifica la letra b) por el art. 1.3 del Real Decreto 369/2021, de 25 de mayo. [Ref. BOE-A-2021-8750](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8750)
+
+> Se modifica la letra b) por el art. 1.7 del Real Decreto 1146/2012, de 27 de julio. [Ref. BOE-A-2012-11211](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-11211).
+
+> Se añade por el art. único.6 del Real Decreto 394/2011, de 18 de marzo. [Ref. BOE-A-2011-5198](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5198).
+
+## Disposición adicional.
+
+El Consejo General de la ONCE propondrá al Consejo de Protectorado, en el plazo de un mes, la aprobación de las modificaciones de los Estatutos de la Organización que sean precisas para adaptados a lo establecido en este Real Decreto.
+
+Los Estatutos de la Organización, debidamente aprobados, serán publicados en el «Boletín Oficial del Estado».
+
+## Disposición transitoria.
+
+En tanto no se aprueben por el Consejo de Protectorado los nuevos Estatutos de la Organización, continuarán en vigor los aprobados por dicho Consejo, en su reunión del día 11 de mayo de 1988, en todo aquello que no se oponga a este Real Decreto.
+
+## Disposición derogatoria.
+
+Quedan derogados los Reales Decretos 1041/1981, de 22 de mayo, y 2385/1985, de 27 de diciembre, y las Ordenes de 14 de febrero de 1986 por las que, respectivamente, se desarrolla el Real Decreto 2385/1985, de 27 de diciembre. y se regula la elección de los Consejos Territoriales y General de la ONCE, así como cuantas otras disposiciones ele igual o inferior rango se opongan a lo establecido en este Real Decreto.
+
+## Disposición final primera.
+
+Se faculta a la persona titular del Ministerio de Derechos Sociales y Agenda 2030 para dictar cuantas disposiciones sean necesarias para el desarrollo y aplicación de este Real Decreto, que entrará en vigor el dia siguiente al de su publicación en el «Boletín Oficial del Estado.
+
+> Se modifica por el art. 1.4 del Real Decreto 369/2021, de 25 de mayo. [Ref. BOE-A-2021-8750](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8750)
+
+> Se renumera como disposición final primera por el art. 1.2 del Real Decreto 1434/2008, de 29 de agosto. [Ref. BOE-A-2008-14464](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14464).
+
+> Su anterior numeración era disposición final.
+
+## Disposición final segunda.
+
+**(Suprimida)**
+
+> Se suprime por el art. 1.5 del Real Decreto 369/2021, de 25 de mayo. [Ref. BOE-A-2021-8750](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8750)
+
+> Se modifica por el art. 1.8 del Real Decreto 1146/2012, de 27 de julio. [Ref. BOE-A-2012-11211](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-11211).
+
+> Se añade por el art. 1.2 del Real Decreto 1434/2008, de 29 de agosto. [Ref. BOE-A-2008-14464](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14464).
+
+Dado en Madrid a 15 de marzo de 1991.
+
+JUAN CARLOS R.
+
+La Ministra de Asuntos Sociales,
+
+MATILDE FERNÁNDEZ SANZ

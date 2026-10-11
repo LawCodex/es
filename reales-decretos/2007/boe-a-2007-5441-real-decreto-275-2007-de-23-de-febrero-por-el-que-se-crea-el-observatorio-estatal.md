@@ -1,0 +1,277 @@
+---
+title: "Real Decreto 275/2007, de 23 de febrero, por el que se crea el Observatorio Estatal de la Convivencia Escolar"
+identifier: "BOE-A-2007-5441"
+eli: "https://www.boe.es/eli/es/rd/2007/02/23/275"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación y Ciencia"
+date: 2007-02-23
+published: 2007-03-15
+in_force_from: 2007-03-16
+last_amended: 2018-01-13
+consolidated: 2026-06-05
+gazette: "Boletín Oficial del Estado núm. 64"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-5441"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 275/2007, de 23 de febrero, por el que se crea el Observatorio Estatal de la Convivencia Escolar
+
+El artículo 10.1 de la Constitución Española proclama que la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social. El aprendizaje y el ejercicio de estos valores deben tener su reflejo desde los primeros años del desarrollo de la persona cuando se construyen las bases que determinan, en buena medida, la personalidad futura del ser humano. En el ámbito escolar estos principios han de traducirse en una convivencia ordenada, en un aprender a vivir con los demás, a respetar y asumir la igualdad de las personas, cualquiera que sea su raza, su ideología, su sexo o su religión.
+
+Las Leyes Orgánicas que han regulado el sistema educativo han recogido estos planteamientos. Así, y por lo que respecta al alumnado, ya la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, incluía entre los fines de la actividad educativa el pleno desarrollo de la personalidad del alumno y la formación en el respeto de los derechos y libertades fundamentales y en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia. La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece como principios y fines de la Educación la transmisión y puesta en práctica de valores que favorezcan la libertad personal, la responsabilidad y la ciudadanía democrática, el respeto y la justicia, así como la educación para la prevención de conflictos y para la resolución pacífica de los mismos. Además, en su artículo 121.2 establece que el proyecto educativo de cada centro ha de recoger un plan de convivencia que deberá respetar los principios recogidos en la Ley y cuyo cumplimiento deberá garantizarse con las normas de organización y funcionamiento del centro que la propia Ley define.
+
+La construcción activa de un ambiente de convivencia escolar adecuado es una responsabilidad que debe ser compartida y asumida por toda la comunidad educativa. El Observatorio Estatal que se crea en este real decreto como un órgano colegiado de la Administración General del Estado, tiene la misión, entre otras, de recabar cuanta información obre en poder de las instituciones, públicas y privadas, que están implicadas en la mejora del clima escolar en los centros educativos para analizar situaciones, hacer diagnósticos y proponer medidas que favorezcan la convivencia escolar.
+
+En la elaboración de este real decreto han sido consultadas las Comunidades Autónomas y ha emitido informe el Consejo Escolar del Estado.
+
+En su virtud, a propuesta de la Ministra de Educación y Ciencia, con la aprobación previa del Ministro de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 23 de febrero de 2007,
+
+DISPONGO
+
+## Artículo 1. Objeto y naturaleza.
+
+1\. Se crea el Observatorio Estatal de la Convivencia Escolar como órgano consultivo adscrito al Ministerio de Educación y Ciencia a través de la Secretaría General de Educación.
+
+2\. El Observatorio es un órgano colegiado interministerial al que corresponde asesorar, en base al principio de cooperación territorial y colaboración institucional, sobre situaciones referidas al aprendizaje de la convivencia escolar, elaborar informes y estudios, hacer un seguimiento de la implantación del Plan Estratégico de Convivencia Escolar para la mejora de la convivencia en los centros educativos españoles y proponer medidas que ayuden a elaborar las distintas políticas estatales, fomentando las actuaciones que faciliten la mejora del clima escolar, y la prevención del acoso escolar y de todas las formas de *ciberbullying*, así como de la violencia en los centros docentes.
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 3/2018, de 12 de enero. [Ref. BOE-A-2018-432](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-432)
+
+## Artículo 2. Funciones.
+
+Serán funciones del Observatorio:
+
+a) Actuar como órgano de observación, análisis, asesoramiento, seguimiento y difusión de información relativa a la situación de la convivencia escolar.
+
+b) Contribuir al desarrollo de los objetivos del Plan Estratégico de Convivencia Escolar.
+
+c) Asesorar la puesta en funcionamiento de políticas educativas favorecedoras para la mejora de la convivencia escolar.
+
+d) Facilitar la difusión de actuaciones educativas de éxito basadas en la mejora de la convivencia escolar.
+
+e) Asesorar el desarrollo de planes de formación de todos los miembros de la comunidad educativa referidos a convivencia escolar.
+
+f) Promover la coordinación y cooperación entre las Administraciones, entidades e instituciones implicadas en esta materia.
+
+g) Recoger y unificar la información y el conocimiento de distintas entidades y organismos públicos y privados para priorizar la prevención de conductas contrarias a la convivencia escolar.
+
+h) Formular iniciativas para la consecución de la mejora de la convivencia de los centros educativos de acuerdo a los fines planteados en la ordenación educativa vigente.
+
+i) Elaborar un informe anual para el Consejo Escolar del Estado y otras instituciones sobre el estado de la convivencia escolar y planteamiento de medidas a aplicar para su mejora.
+
+j) Promover el desarrollo del Plan Estratégico de Convivencia Escolar y su continuidad a través de sucesivos planes.
+
+k) Realizar cuantas actuaciones le sean encomendadas para el cumplimiento de su objeto y naturaleza.
+
+> Se modifica por el art. único.2 del Real Decreto 3/2018, de 12 de enero. [Ref. BOE-A-2018-432](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-432)
+
+## Artículo 3. Composición.
+
+1\. El Observatorio tendrá la siguiente composición, en la que se velará por la paridad entre hombres y mujeres:
+
+a) Presidente: la persona titular del Ministerio de Educación, Cultura y Deporte.
+
+b) Vicepresidente: la persona titular de la Secretaría de Estado de Educación, Formación Profesional y Universidades.
+
+c) Vocales:
+
+1.º) Tres en representación del Ministerio de Educación, Cultura y Deporte:
+
+I) La persona titular de la Dirección General de Evaluación y Cooperación Territorial.
+
+II) La persona titular de la Dirección General de Formación Profesional.
+
+III) La persona titular de la Dirección General de Planificación y Gestión Educativa.
+
+2.º) Un representante por cada una de las Administraciones educativas de las Comunidades Autónomas que voluntariamente lo acepten.
+
+3.º) Un representante de la Federación Española de Municipios y Provincias (FEMP).
+
+4.º) Siete miembros de los sindicatos más representativos en la enseñanza, de los que cuatro serán de la enseñanza pública, uno de la enseñanza privada concertada, y dos del personal no docente de los centros, a propuesta de los sindicatos.
+
+5.º) Dos representantes designados por las organizaciones empresariales más representativas y titulares de la enseñanza privada, uno de los cuales lo será en representación de las cooperativas de enseñanza a propuesta de los sindicatos.
+
+6.º) Tres representantes, uno por cada una de las confederaciones y federaciones de asociaciones de padres y madres de alumnos y alumnas de ámbito estatal, en función de su representatividad, a propuesta de las mismas.
+
+7.º) Dos representantes, uno por cada una de las confederaciones y federaciones de asociaciones de alumnos y alumnas de ámbito estatal, en función de su representatividad, a propuesta de las mismas.
+
+8.º) Dos personalidades de reconocido prestigio entre especialistas que hayan desarrollado su trabajo en materia de convivencia escolar, designadas por la persona titular del Ministerio de Educación, Cultura y Deporte, a propuesta de la Secretaría General de Inmigración y Emigración y del Comité Español de Representantes de Personas con Discapacidad (CERMI).
+
+9.º) Un representante del Ministerio de Sanidad, Servicios Sociales e Igualdad, preferentemente de la Secretaría de Estado de Servicios Sociales e Igualdad.
+
+10.º) Un representante de la Delegación del Gobierno para la Violencia de Género.
+
+11.º) Un representante del Instituto de la Juventud.
+
+12.º) Un representante del Ministerio del Interior, preferentemente de la Secretaría de Estado de Seguridad.
+
+13.º) Un representante del Ministerio de Justicia.
+
+14.º) Un representante del Ministerio de Energía, Turismo y Agenda Digital, preferentemente de la Secretaría de Estado para la Sociedad de la Información y la Agenda Digital o del Instituto Nacional de Ciberseguridad (INCIBE, Centro de Seguridad en Internet para menores).
+
+15.º) El Defensor del Pueblo o persona en quien delegue.
+
+d) Secretario: la persona titular de la Subdirección General del Centro Nacional de Innovación e Investigación Educativa.
+
+2\. Los nombramientos de los vocales que hayan de ser propuestos por las distintas entidades que se mencionan, serán efectuados por el Ministro de Educación y Ciencia.
+
+> Se modifica por el art. único.3 del Real Decreto 3/2018, de 12 de enero. [Ref. BOE-A-2018-432](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-432)
+
+## Artículo 4. Funcionamiento.
+
+1\. Para el cumplimiento de las funciones atribuidas, el Observatorio funcionará en Pleno, en Comisión Permanente y en Grupos de Trabajo.
+
+2\. El Pleno estará compuesto por la totalidad de los miembros que componen el Observatorio. Su mandato, para los que no pertenezcan por cargo desempeñado en la Administración General del Estado o Autonómica, o para los que no se haya establecido otra cosa, tendrá una duración de cuatro años, que se entenderá prorrogado en el tiempo que diste entre su finalización y el nombramiento de los nuevos miembros. Caso de cesar en sus funciones en la entidad a la que representan, ésta propondrá un vocal por el tiempo que al cesante le quedara por cumplir.
+
+3\. Al Pleno le corresponde el ejercicio de las funciones establecidas en el artículo 2 de este real decreto y aquellas otras cuestiones que el presidente le someta a su consideración.
+
+4\. Corresponde al Pleno la elaboración y aprobación, por mayoría simple, del reglamento de funcionamiento del Observatorio.
+
+5\. El Pleno se reunirá al menos una vez al año en sesión ordinaria, y tantas veces como sea convocado por su Presidencia en sesión extraordinaria. El Pleno emitirá su opinión sobre aquellas cuestiones que le sean sometidas al mismo por su Presidente.
+
+6\. La Comisión Permanente, como órgano ejecutivo del Observatorio, estará integrada por los siguientes miembros:
+
+a) El Vicepresidente, que actuará como Presidente de la Comisión Permanente.
+
+b) Dos vocales, en representación del Ministerio de Educación, Cultura y Deporte:
+
+1.º) La persona titular de la Dirección General de Evaluación y Cooperación Territorial.
+
+2.º) La persona titular de la Subdirección General del Centro Nacional de Innovación e Investigación Educativa, que actuará en calidad de secretaria de la Comisión Permanente.
+
+c) Dos vocales, en representación de las Comunidades Autónomas representadas en el Pleno, elegidos por la Conferencia Sectorial de Educación, que podrá establecer un sistema de rotación anual o bianual entre aquellos.
+
+d) Dos vocales elegidos por y entre los representantes de los sindicatos docentes.
+
+e) Dos vocales elegidos de entre los miembros del Pleno especificados en los números 3.º), 9.º), 12.º), 13.º), 14.º) y 15.º) del artículo 3.1.c) de este real decreto, elegidos por el Pleno.
+
+f) Dos vocales elegidos por y entre los representantes de las confederaciones y federaciones de asociaciones de padres y madres de alumnos y alumnas de ámbito estatal con presencia en el Pleno.
+
+g) Un representante de las confederaciones y federaciones de asociaciones de alumnos y alumnas de ámbito estatal, en función de su representatividad, designado por la Presidencia del Pleno.
+
+h) Un vocal de entre las personalidades de reconocido prestigio que componen el Pleno, designado por la Presidencia de este.
+
+i) Un vocal elegido por y entre los representantes de las organizaciones empresariales de la enseñanza privada.
+
+7\. La Comisión Permanente se reunirá al menos dos veces al año con carácter ordinario, o cuando sea convocada por la Presidencia de la misma.
+
+8\. La Presidencia del Observatorio podrá invitar a incorporarse a las sesiones del Pleno, de la Comisión Permanente o de los Grupos de Trabajo mencionados en el artículo 10 a personas ajenas que, por su experiencia o conocimientos, puedan intervenir con voz pero sin voto.
+
+> Se modifica el apartado 6 por el art. único.4 del Real Decreto 3/2018, de 12 de enero. [Ref. BOE-A-2018-432](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-432)
+
+## Artículo 5. Funciones del Presidente del Observatorio Estatal.
+
+Corresponden al Presidente las siguientes funciones:
+
+1\. Ostentar la representación del Observatorio Estatal donde corresponda, actuando como portavoz.
+
+2\. Acordar la convocatoria de las sesiones ordinarias y extraordinarias del Pleno y fijar el orden del día de las mismas.
+
+3\. Presidir las reuniones, dirigir y moderar su desarrollo.
+
+4\. Dirimir con su voto los empates, a efectos de adoptar acuerdos.
+
+5\. Resolver las cuestiones de representatividad que se planteen.
+
+6\. Visar las actas y certificaciones de los acuerdos.
+
+7\. Ejercer cuantas otras funciones sean inherentes a su condición de Presidente del Observatorio Estatal.
+
+## Artículo 6. Funciones del Vicepresidente del Observatorio Estatal.
+
+Corresponden al Vicepresidente las siguientes funciones:
+
+1\. Sustituir al Presidente en caso de ausencia, vacante o enfermedad.
+
+2\. Convocar a la Comisión Permanente y presidir sus sesiones.
+
+3\. Cuantas funciones le sean delegadas por el Presidente.
+
+## Artículo 7. Funciones del Secretario del Observatorio Estatal.
+
+Corresponden al Secretario las siguientes funciones:
+
+1\. Asistir a las reuniones del Pleno y de la Comisión Permanente, con voz pero sin voto.
+
+2\. Efectuar la convocatoria de las sesiones por orden de su Presidente, así como las citaciones a los miembros del mismo.
+
+3\. Confeccionar las actas de las sesiones.
+
+4\. Expedir certificaciones de las consultas, dictámenes y acuerdos aprobados.
+
+5\. Cuantas otras funciones sean inherentes a su condición de Secretario.
+
+## Artículo 8. Funciones de los vocales del Observatorio Estatal.
+
+Corresponden a los vocales las siguientes funciones:
+
+1\. Asistir a las reuniones y participar en los debates, exponiendo su opinión y formulando las propuestas que estimen convenientes.
+
+2\. Proponer a la Presidencia, a través de la Secretaría, la inclusión de puntos en el orden del día y formular ruegos y preguntas.
+
+3\. Ejercer su derecho al voto y formular voto particular.
+
+4\. Cuantas otras funciones sean inherentes a su condición.
+
+## Artículo 9. Funciones de la Comisión Permanente.
+
+Serán funciones de la Comisión Permanente:
+
+1\. Asistir al Presidente del Observatorio y al Presidente de la Comisión Permanente en el cumplimiento de sus tareas.
+
+2\. El seguimiento ordinario de las funciones encomendadas al Observatorio Estatal de la Convivencia Escolar.
+
+3\. Velar por el cumplimiento de los acuerdos adoptados por el Observatorio.
+
+4\. Coordinar los Grupos de Trabajo.
+
+5\. Proponer al Presidente de la Comisión Permanente los puntos o temas que convenga incluir en el orden del día.
+
+6\. Proponer al Presidente de la Comisión Permanente y decidir ponentes para la preparación de resoluciones, recomendaciones o estudio de asuntos.
+
+7\. Proponer al Presidente del Observatorio los estudios, acciones y medidas procedentes en orden al cumplimiento de los fines del Observatorio.
+
+8\. Emitir los informes que solicite el Presidente del Observatorio, el Pleno o el Presidente de la Comisión Permanente.
+
+9\. Encargar, a propuesta del Presidente de la Comisión Permanente, los estudios e informes técnicos externos, necesarios para el cumplimiento de los fines del Observatorio.
+
+10\. Cuantos cometidos le sean delegados o asignados por el Pleno.
+
+11\. La Comisión Permanente dará cuenta al Pleno de las actuaciones que realice en el ejercicio de sus funciones.
+
+## Artículo 10. Grupos de Trabajo.
+
+1\. El Pleno del Observatorio podrá acordar la creación, con carácter permanente o para cuestiones puntuales, de Grupos de Trabajo, previa aprobación de la mayoría de sus miembros.
+
+2\. Excepcionalmente, la Comisión Permanente podrá acordar la creación de Grupos de Trabajo, previa aprobación de la mayoría de sus miembros.
+
+3\. El acuerdo de creación de cada Grupo de Trabajo deberá especificar su composición, las funciones que se le encomienden y, en su caso, el plazo para su consecución.
+
+## Disposición final primera. Habilitación para el desarrollo normativo.
+
+Se autoriza al Ministro de Educación y Ciencia a dictar las normas y a adoptar las medidas necesarias para el desarrollo y aplicación del presente real decreto.
+
+## Disposición final segunda. Régimen jurídico.
+
+En los extremos no previstos en este real decreto se estará a lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en los artículos 15 a 22 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifica por el art. único.5 del Real Decreto 3/2018, de 12 de enero. [Ref. BOE-A-2018-432](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-432)
+
+## Disposición final tercera. Gastos de funcionamiento.
+
+El Ministerio de Educación y Ciencia atenderá con cargo a su presupuesto ordinario los gastos de funcionamiento personales y materiales de este órgano colegiado. La dotación de personal al Observatorio se realizará a través de la correspondiente redistribución de efectivos del Ministerio, sin que ello pueda suponer incremento de puestos y de retribuciones.
+
+## Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 23 de febrero de 2007.
+
+JUAN CARLOS R.
+
+La Ministra de Educación y Ciencia,
+
+MERCEDES CABRERA CALVO-SOTELO

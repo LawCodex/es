@@ -1,0 +1,167 @@
+---
+title: "Real Decreto 1124/1982, de 30 de abril, por el que se aprueba la Reglamentación Técnico-Sanitaria para la Elaboración, Fabricación, Circulación y Comercio de Galletas"
+identifier: "BOE-A-1982-13243"
+eli: "https://www.boe.es/eli/es/rd/1982/04/30/1124"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1982-04-30
+published: 1982-06-04
+in_force_from: 1982-06-24
+last_amended: 2026-02-27
+consolidated: 2026-02-27
+gazette: "Boletín Oficial del Estado núm. 133"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-13243"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1124/1982, de 30 de abril, por el que se aprueba la Reglamentación Técnico-Sanitaria para la Elaboración, Fabricación, Circulación y Comercio de Galletas
+
+Incluye la corrección de errores publicada en BOE núm. 156 , de 1 de julio de 1982. [Ref. BOE-A-1982-16406](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-16406).
+
+El Decreto de la Presidencia del Gobierno número dos mil cuatrocientos ochenta y cuatro/mil novecientos sesenta y siete, de veintiuno de septiembre, por el que se aprueba el texto del Código Alimentario Español, prevé que puedan ser objeto de Reglamentación Especial las materias en él reguladas.
+
+Publicado el Decreto de la Presidencia del Gobierno número dos mil quinientos diecinueve/mil novecientos setenta y cuatro, de nueve de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, procede dictar las distintas Reglamentaciones establecidas en el mismo.
+
+En su virtud, a propuesta de los Ministros de Industria y Energía, de Economía y Comercio, de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, de acuerdo con el informe favorable de la Comisión Interministerial para la Ordenación Alimentaria y previa deliberación del Consejo de Ministros en su reunión del día treinta de abril de mil novecientos ochenta y dos,
+
+DISPONGO:
+
+### Artículo único.
+
+Se aprueba la adjunta Reglamentación Técnico-Sanitaria para la Elaboración, Fabricación, Circulación y Comercio de Galletas.
+
+### Disposición transitoria primera.
+
+Las reformas y adaptaciones de las instalaciones existentes, derivadas de las exigencias incorporadas a esta Reglamentación que no sean consecuencia de disposiciones legales vigentes y, en especial, de lo dispuesto en el Decreto dos mil quinientos diecinueve/mil novecientos setenta y cuatro, de nueve de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, serán llevadas a cabo en el plazo de dieciocho meses, a contar desde la publicación de la presente Reglamentación salvo lo que se dispone en el punto 3.1, apartado 1 y apartado 4, y en el punto 3.2, apartado 1, en lo que se refiere a los accesos fáciles y amplios, que será de tres años. El punto 6.2, apartados 7.1 y 7.2, cuyo plazo será de tres años y dieciocho meses, respectivamente, quedando derogado el apartado 7.2 a la entrada en vigor del apartado 7.1.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 156 , de 1 de julio de 1982. [Ref. BOE-A-1982-16406](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-16406).
+
+### Disposición transitoria segunda.
+
+Se permitirá a los industriales el uso de las existencias en almacén o contratadas de envases, etiquetas, envolturas, cierres y precintos, durante un plazo de dieciocho meses, no pudiendo efectuarse a partir de la fecha de publicación del presente Real Decreto, nuevas contrataciones de dichos materiales, si no se ajustan a las normas de la adjunta Reglamentación.
+
+### Disposición transitoria tercera.
+
+Todos los plazos otorgados en las presentes disposiciones transitorias se consideran improrrogables.
+
+### Disposición derogatoria.
+
+A partir de la fecha de la publicación de la presente Reglamentación, quedan derogadas las siguientes disposiciones:
+
+Orden de la Presidencia del Gobierno de dieciséis de febrero de mil novecientos sesenta y dos («Boletín Oficial del Estado» número cuarenta y nueve de veintiséis de febrero), por la que se aprueba la Reglamentación Técnico-Sanitaria para la Elaboración y Venta de Galletas, y
+
+Orden de la Presidencia del Gobierno de veinte de julio de mil novecientos sesenta y uno («Boletín Oficial del Estado» número ciento setenta y nueve, de veintiocho de julio), por la que se fija la tolerancia admisible en el peso y envasado mecánico de productos reglamentados, en lo que respecta a galletas.
+
+Y cuantas otras disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto.
+
+Dado en Madrid a treinta de abril de mil novecientos ochenta y dos.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+MATÍAS RODRÍGUEZ INCIARTE
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA PARA LA ELABORACIÓN, FABRICACIÓN, CIRCULACIÓN Y COMERCIO DE GALLETAS
+
+## 1. ÁMBITO DE APLICACIÓN
+
+La presente Reglamentación tiene por objeto definir, a efectos legales, lo que se entiende por galletas y fijar, con carácter obligatorio, las normas de fabricación, elaboración, comercialización y, en general, la ordenación jurídica de tales productos.
+
+Será de aplicación, asimismo, a los productos importados.
+
+Esta Reglamentación obliga a los fabricantes, elaboradores, comerciantes e importadores de galletas.
+
+Se considerarán fabricantes y/o elaboradores de galletas aquellas personas, naturales o jurídicas, que en uso de las autorizaciones concedidas por los Organismos oficiales competentes, dedican su actividad a la elaboración de los productos definidos en los artículos 2. y 3.
+
+## 2. DEFINICIONES Y CLASIFICACIONES
+
+2.1 Se entiende por «galletas» los productos alimenticios elaborados, fundamentalmente por una mezcla de harina, grasas comestibles y agua, adicionada o no de azúcares y otros productos alimenticios o alimentarios (aditivos, aromas, condimentos, especias, etc.), sometida a proceso de amasado y posterior tratamiento térmico, dando lugar a un producto de presentación muy variada, caracterizado por su bajo contenido en agua.
+
+2.2 Las galletas que regula esta Reglamentación se pueden clasificar en los siguientes grupos:
+
+2.2.1 Marías, tostadas y troqueladas: Son las elaboradas a base de harinas, azúcares y grasas comestibles, con o sin adición de otros productos alimenticios para su mejor enriquecimiento, formando una masa elástica a consecuencia del desarrollo del gluten.
+
+Se cortan por sistema de prensa o rodillo troquelado.
+
+2.2.2 «Cracker» y de aperitivo: Están elaboradas con harina y grasas comestibles generalmente sin azúcar, cuyas masas según sus características se pueden someter a una adecuada fermentación para conseguir su tradicional ligereza.
+
+2.2.3 Barquillos con o sin relleno: Se denominan barquillos, obleas o ambrosías, los productos obtenidos de la cocción en planchas metálicas de pastas en estado líquido viscoso, formados por harina, féculas, glucosa y sal, susceptibles de adquirir diferentes formas: rectangulares, cilíndricas abanicos, etc.
+
+Pueden elaborarse solos o adicionándoles rellenos a base azúcar, dextrosa, grasa y aromas.
+
+2.2.4 Bizcochos secos y blandos: Elaborados con harina, azúcar y huevos, batidos a gran velocidad para conseguir que monte adecuadamente, depositándose en moldes o en chapa lisa para su horneado. La clasificación en secos y blandos obedece al mayor o menor porcentaje de humedad que contienen a la salida del horno, pudiendo adoptar toda clase de formas.
+
+2.2.5 «Sandwiches»: Es el conjunto de dos galletas tradicionales, a las que se adiciona entre ambas un relleno consistente en una mezcla de azúcar, grasa y otros componentes alimenticios y alimentarios debidamente autorizados.
+
+2.2.6 Pastas blandas y duras: Se clasifican en este grupo las galletas obtenidas a base de masas cuya peculiaridad consiste en cremar adecuadamente todos los componentes (azúcar, grasa y otros productos alimenticios), adicionar la harina horneando la masa moldeada seguidamente a fin de impedir el desarrollo del gluten.
+
+2.2.7 Bañadas con aceite vegetal: Para elaborar esta especialidad se parte de galletas tradicionales, las cuales, después de ser horneadas, son sometidas a una dispersión o baño de aceite vegetal muy atomizado por su superficie e incluso por su parte inferior, según tipos.
+
+2.2.8 Recubiertas de chocolate: Cualquier clase de galletas antes definidas podrán presentarse recubiertas de chocolate, pasta de cacao o mezcla de azúcar gelatina y agua.
+
+2.2.9 Surtidos: Se conoce con esta denominación el conjunto de galletas de las diferentes especialidades que se elaboran, las cuales se agrupan en un solo envase.
+
+2.2.10 Elaboraciones complementarias: Cuando los fabricantes de galletas elaboren productos que están sujetos a la Reglamentación Técnico-Sanitaria que regula la elaboración, fabricación, circulación y comercio de productos de confitería, pastelería, bollería y repostería, a la Reglamentación Técnico-Sanitaria para la elaboración, circulación y comercio de preparados alimenticios para regímenes dietéticos y/o especiales, a la norma de pan y panes especiales y otros relacionadas, deberán observarse las especificaciones y exigencias que dichas disposiciones determinen. La relación de denominaciones incluidas en este artículo, no tiene carácter limitativo.
+
+## 3. CONDICIONES DE LAS INDUSTRIAS, DE LOS MATERIALES Y DEL PERSONAL
+
+**(Derogado)**
+
+> Se deroga por el art. 17 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## 4. REGISTRO SANITARIO
+
+**(Derogado)**
+
+> Se deroga por el art. 17 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## 5. HUMEDAD DE LOS PRODUCTOS REGULADOS POR ESTA REGLAMENTACIÓN.
+
+La humedad no excederá de las cifras señaladas a continuación para cada tipo de elaboraciones:
+
+|  | Galletas simples<br>–<br>Porcentaje | Bizcochos<br>–<br>Porcentaje | Cubiertas o rellenas<br>–<br>Porcentaje |
+|---|---|---|---|
+| Humedad. | 6 | 10 | 10 |
+
+> Se modifica por el art. 3 del Real Decreto 142/2026, de 25 de febrero. [Ref. BOE-A-2026-4519](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4519)
+
+> Se derogan los puntos 1, 2.1, 2.2, 2.5 y 3 por el art. 17 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se deroga el apartado 5.2.3 por el art. 1.d) del Real Decreto 135/2010, de 12 de febrero. [Ref. BOE-A-2010-3032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3032).
+
+> Se modifica el apartado 5.2.5 por el art. único del Real Decreto 2812/1983, de 13 de octubre. [Ref. BOE-A-1983-29111](https://www.boe.es/buscar/doc.php?id=BOE-A-1983-29111).
+
+## 6. ALMACENAMIENTO, TRANSPORTE, ENVASADO, ROTULACIÓN, ETIQUETADO Y PUBLICIDAD
+
+**(Derogado)**
+
+> Se deroga por el art. 17 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## 7. EXPORTACIÓN E IMPORTACIÓN
+
+7.1 Exportación.
+
+Los productos objeto de esta Reglamentación dedicados a la exportación se ajustarán a las disposiciones reglamentarias exigidas por el país de destino y a lo que disponga en esta materia el Ministerio de Economía y Comercio. Cuando estas disposiciones no aseguren el cumplimiento de las condiciones técnicas que fija esta Reglamentación, llevarán en caracteres bien visibles impresa la palabra «Export» y no podrán comercializarse en España salvo autorización expresa del Ministerio de Economía y Comercio y previo informe de la Comisión Interministerial para la Ordenación Alimentaria.
+
+7.2 Importación.
+
+**(Derogado)**
+
+> Se deroga el punto 2 por el art. 17 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## 8. RESPONSABILIDADES Y COMPETENCIAS
+
+**(Derogado)**
+
+> Se deroga por el art. 17 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## 9. MÉTODOS DE ANÁLISIS
+
+**(Derogado)**
+
+> Se deroga por el art. 17 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).

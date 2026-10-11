@@ -1,0 +1,317 @@
+---
+title: "Orden DSA/1029/2021, de 20 de septiembre, por la que se establecen para el período 2021-2027 las bases reguladoras para la concesión de subvenciones en el marco del Programa europeo \"Erasmus+\", capítulo de Juventud"
+identifier: "BOE-A-2021-15851"
+eli: "https://www.boe.es/eli/es/o/2021/09/20/dsa1029"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Derechos Sociales y Agenda 2030"
+date: 2021-09-20
+published: 2021-09-29
+in_force_from: 2021-09-30
+last_amended: 2026-05-13
+consolidated: 2026-05-26
+gazette: "Boletín Oficial del Estado núm. 233"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2021-15851"
+retrieved: 2026-10-11
+---
+
+# Orden DSA/1029/2021, de 20 de septiembre, por la que se establecen para el período 2021-2027 las bases reguladoras para la concesión de subvenciones en el marco del Programa europeo "Erasmus+", capítulo de Juventud
+
+Esta norma pasa a denominarse «**Orden DSA/1029/2021, de 20 de septiembre, por la que se establecen para el período 2021-2027 las bases reguladoras para la concesión de subvenciones en el marco del Programa europeo "Erasmus+", para los capítulos de educación no formal**», según establece el art. 2.1 de la Orden DSA/619/2023, de 6 de junio. [Ref. BOE-A-2023-14340](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14340)
+
+El Programa «Erasmus+» ha sido aprobado por el Reglamento (UE) 2021/817 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, por el que se establece Erasmus+, el Programa de la Unión para la educación y la formación, la juventud y el deporte, y se deroga el Reglamento (UE) n.º 1288/2013. El programa se aplicará durante el período comprendido entre el 1 de enero de 2021 y el 31 de diciembre de 2027. El Programa abarca los ámbitos de la educación escolar, formación profesional, educación superior, educación de adultos, juventud y deportes. En el citado Reglamento, se establece que para la implementación del Programa en cada país participante, se designarán una o varias agencias nacionales.
+
+Con objeto de implementar y ejecutar el capítulo de juventud del citado Programa, se designa a la Agencia Nacional Española para la gestión del citado capítulo, que se integrará en el Instituto de la Juventud (INJUVE), como ya se hiciese en anteriores programas de igual naturaleza, cumpliendo así uno de los requisitos establecidos por la Comisión Europea y continuando la mecánica utilizada en anteriores programas de naturaleza similar. A mayor abundamiento, el Estatuto del Instituto de la Juventud, aprobado por el Real Decreto 486/2005, de 4 de mayo, determina que entre las funciones que tiene atribuidas el INJUVE figura la del intercambio de jóvenes a nivel internacional, así como la participación del asociacionismo juvenil en movimientos asociativos europeos, el fomento de las relaciones y la cooperación internacional en materia de juventud y, en general, la ejecución de las políticas del Departamento en materia de juventud, en virtud de lo establecido en el artículo 1 del Real Decreto 452/2020, de 10 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Derechos Sociales y Agenda 2030, y se modifica el Real Decreto 139/2020, de 28 de enero, por el que se establece la estructura orgánica básica de los departamentos ministeriales.
+
+La finalidad de esta orden ministerial es establecer las bases que regulen la concesión de subvenciones durante el periodo 2021-2027 para la realización de actividades financiadas por la Comisión Europea en el marco del Programa europeo «Erasmus+», destacando que, de acuerdo con el artículo 6 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, las subvenciones financiadas con cargo a fondos de la Unión Europea se regirán por las normas comunitarias, teniendo aquella ley carácter supletorio. Por ello, el régimen aplicable a estas subvenciones, así como las condiciones y requisitos necesarios para participar en el Programa, se completan en el citado Reglamento (UE) 2021/817 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, en la convocatoria anual de propuestas de la Comisión Europea, en la guía del Programa «Erasmus+» y en la guía de Agencias Nacionales que apliquen el Programa «Erasmus+».
+
+Esta orden se adecua a los principios de buena regulación contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En concreto, se cumplen los principios de necesidad y eficacia, al exigir la Ley 38/2003, de 17 de noviembre, que las bases reguladoras de la concesión de las subvenciones se aprueben por orden ministerial. También se adecua al principio de proporcionalidad, ya que la orden contiene la regulación imprescindible para atender las necesidades a cubrir. El principio de seguridad jurídica se garantiza toda vez que la orden es coherente con el resto del ordenamiento jurídico. El de transparencia, porque en su proceso de elaboración las comunidades autónomas y Ciudades de Ceuta y Melilla han sido informadas. Por último, en aplicación del principio de eficiencia, esta orden contribuye a racionalizar la gestión de los recursos públicos.
+
+La orden se dicta en ejercicio de la habilitación contenida al efecto en el artículo 17.1 de la Ley 38/2003, de 17 de noviembre, que habilita a los ministros correspondientes para la aprobación de las bases reguladoras de la concesión de subvenciones mediante orden ministerial.
+
+Esta orden ha sido informada favorablemente por la Abogacía del Estado en el Departamento y por la Intervención Delegada en el INJUVE.
+
+La orden se dicta al amparo de lo dispuesto en el artículo 149.1.1.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva para la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales.
+
+El Consejo Interterritorial celebrado el pasado 26 de enero de 2021, acordó por unanimidad de todos los titulares de las Direcciones Generales de Juventud de las Comunidades Autónomas y ciudades de Ceuta y Melilla: «Que siendo las competencias en materia de juventud propias de las Comunidades Autónomas y que el INJUVE realiza una labor de coordinación en esta materia al objeto de mantener una gestión lo más eficaz y eficiente posible de los Programas «Erasmus + Juventud» y «Cuerpo Europeo de Solidaridad», la gestión de los expedientes de concesión de las subvenciones, tal y como se ha realizado hasta la fecha, se seguirá realizando por parte del INJUVE, siendo éste el responsable de la publicación de las correspondientes órdenes de bases y resoluciones de convocatoria».
+
+En su virtud, y con la aprobación previa de la Ministra de Hacienda y Función Pública, dispongo:
+
+## Artículo 1. Objeto.
+
+La presente orden establece las bases reguladoras de concesión de las ayudas para la realización de los proyectos comprendidos en el marco del capítulo de Juventud del programa «Erasmus+», con validez durante los años 2021 a 2027.
+
+## Artículo 2. Ámbito de aplicación.
+
+1\. Las normas que se establecen en esta orden son de aplicación para la gestión de las acciones descentralizadas del programa europeo “Erasmus+” (en adelante, el Programa), para sus capítulos de educación no formal. En aquellos aspectos no previstos de forma específica en esta orden, serán de aplicación las normas establecidas por la Comisión Europea en el Reglamento (UE) 2021/817 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, por el que se establece Erasmus+, el Programa de la Unión para la educación y la formación, la juventud y el deporte, y se deroga el Reglamento (UE) n.º 1288/2013; así como en la convocatoria de propuestas, la Guía del programa “Erasmus+” y la Guía de agencias nacionales que aplique el programa “Erasmus+”. En lo que respecta a la convocatoria de propuestas, la Guía del Programa “Erasmus+” y la Guía de agencias nacionales, debido a su actualización anual por parte de la Comisión Europea, regirán las vigentes en la anualidad de cada convocatoria.
+
+2\. La presente orden de bases reguladoras se enmarca en el Plan Estratégico de Subvenciones vigente del Ministerio al que está adscrito el organismo autónomo Instituto de la Juventud (en adelante, INJUVE), contribuyendo a los objetivos estratégicos que por materia corresponden al ámbito de Juventud.
+
+3\. El Programa perseguirá sus objetivos a través de los tipos de acciones previstas en la normativa europea del Programa en vigor, las que siguen o aquellas que las sucedan:
+
+a) Acción clave 1. Movilidad para el aprendizaje:
+
+1.º Solicitudes de organizaciones acreditadas.
+
+2.º Proyectos de movilidad para jóvenes: “Intercambios juveniles”.
+
+3.º Proyectos de movilidad para las personas trabajadoras en el ámbito de la juventud.
+
+4.º Actividades de participación juvenil.
+
+5.º Proyectos de movilidad para jóvenes: Acción de inclusión de DiscoverEU.
+
+6.º Movilidad del personal en el ámbito del deporte.
+
+b) Acción clave 2. Cooperación entre organizaciones e instituciones:
+
+1.º Asociaciones de cooperación.
+
+2.º Asociaciones a pequeña escala.
+
+> Se modifica por el art. 1.1 de la Orden JUI/463/2026, de 5 de mayo. [Ref. BOE-A-2026-10325](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10325)
+
+> Se modifica por el art. 2.2 de la Orden DSA/619/2023, de 6 de junio. [Ref. BOE-A-2023-14340](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14340)
+
+## Artículo 3. Procedimiento de concesión.
+
+1\. Las ayudas serán concedidas de acuerdo con los principios de publicidad, transparencia, objetividad, igualdad, no discriminación y mediante el procedimiento de concurrencia competitiva.
+
+2\. El procedimiento de concesión se iniciará de oficio mediante convocatoria pública, adoptada por resolución de la persona titular de la Dirección General del Instituto de la Juventud (en adelante, INJUVE). La convocatoria se publicará en la Base de Datos Nacional de Subvenciones y un extracto de la misma en el «Boletín Oficial del Estado».
+
+3\. La concesión de las subvenciones en el marco del Programa se realizará de acuerdo con el procedimiento establecido en la Guía del programa “Erasmus+”, publicada en la página web del Programa del INJUVE (https://programaseuropeos. injuve.es/).
+
+Finalizado el plazo para la presentación de las solicitudes, la Subdirección General de Programas Europeos y Cooperación Internacional del INJUVE verificará que los proyectos cumplen los criterios de elegibilidad y que las personas solicitantes no incurren en ninguno de los criterios de exclusión, así como la capacidad financiera y operativa de las entidades solicitantes, en su caso. Se evaluará la calidad de los proyectos elegibles de acuerdo con los criterios establecidos en la Guía del programa “Erasmus+” para cada una de las acciones. Finalmente, las personas beneficiarias recibirán un “Convenio de Subvención” que deberán remitir firmado en el plazo establecido en el artículo 8, apartado décimo, de la presente orden a la Subdirección General de Programas Europeos y Cooperación Internacional del INJUVE.
+
+4\. La convocatoria podrá tener la consideración de convocatoria abierta por acordarse en ella de forma simultánea la realización de varias rondas a lo largo de un mismo ejercicio presupuestario y para una misma línea de subvención, debiendo especificarse en la convocatoria. En el supuesto de convocatoria abierta y de que no se haya agotado el importe máximo a otorgar, una vez recaída la resolución, el órgano concedente deberá acordar expresamente las cuantías a trasladar y el período en el que se aplicarán.
+
+> Se modifican los apartados 3 y 4 por el art. 1.2 y 3 de la Orden JUI/463/2026, de 5 de mayo. [Ref. BOE-A-2026-10325](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10325)
+
+## Artículo 4. Requisitos de los solicitantes.
+
+1\. Podrán ser solicitantes de las ayudas del Programa las personas físicas o jurídicas que cumplan los requisitos para cada una de las acciones establecidos en el Reglamento (UE) 2021/817 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, y en la guía del Programa «Erasmus+» y, supletoriamente, en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y en su Reglamento de desarrollo, aprobado por el Real Decreto 887/2006, de 21 de julio.
+
+2\. Además de lo previsto en el apartado 1, las personas físicas y jurídicas deberán cumplir los siguientes requisitos:
+
+a) Haber justificado suficientemente, en su caso, las ayudas económicas recibidas con anterioridad del Ministerio de Derechos Sociales y Agenda 2030, así como las ayudas recibidas en el marco de los programas de acción comunitarios «Juventud», «La Juventud en Acción», «Erasmus+» y «Cuerpo Europeo de Solidaridad».
+
+b) Residir o estar constituido legalmente en España.
+
+c) Hallarse al corriente de las obligaciones tributarias y de Seguridad Social. La presentación de la solicitud conllevará la autorización del/de la solicitante para que el órgano concedente obtenga de forma directa la acreditación de hallarse al corriente de tales obligaciones. Si el/la solicitante deniega expresamente su consentimiento deberá aportar las correspondientes certificaciones.
+
+3\. Además de lo previsto en los dos apartados anteriores, las personas jurídicas deberán cumplir los siguientes requisitos:
+
+a) Estar legalmente constituidas y en su caso, debidamente inscritas en el correspondiente registro público, dentro del plazo de presentación de las solicitudes.
+
+b) Disponer de la capacidad financiera y operativa suficiente para llevar a cabo las actividades previstas en el proyecto, de acuerdo con lo establecido en la Guía del programa “Erasmus+”.
+
+c) Para subvenciones de importe superior a 30.000 euros, a acreditar el cumplimiento de lo previsto en el artículo 13.3bis de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+> Se modifica el apartado 3 por el art. 1.4 de la Orden JUI/463/2026, de 5 de mayo. [Ref. BOE-A-2026-10325](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10325)
+
+## Artículo 5. Condiciones de presentación de las solicitudes.
+
+1\. Los plazos para la presentación de solicitudes serán los que se establezcan en la guía del Programa «Erasmus+», de conformidad con lo previsto en el artículo 6.1 de la presente orden, y que se concretarán en la resolución de la convocatoria. Dichos plazos están previstos en la convocatoria anual que publica la Comisión Europea.
+
+2\. Los interesados deberán remitir su solicitud utilizando los formularios electrónicos y anexos correspondientes. Se podrá acceder a estos formularios a través de la página web del Programa "Erasmus+" de la agencia nacional española para la gestión de los capítulos de juventud y deporte del programa "Erasmus+" y del programa "Cuerpo Europeo de Solidaridad" (en adelante ANE).
+
+3\. En el supuesto de que las solicitudes o sus anexos no reúnan los requisitos previstos en la convocatoria, el órgano instructor requerirá a los/las interesados/as para que lo subsanen en el plazo máximo de diez días, con indicación de que, si así no lo hicieran, se entenderá que han desistido de su petición previa resolución que deberá ser dictada en los términos previstos en el artículo 21 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Las solicitudes presentadas de conformidad con los plazos previstos en la convocatoria de propuestas 2021–EAC/A01/2021 Programa Erasmus+, podrán ser objeto de subvención al amparo de estas bases reguladoras y de su correspondiente convocatoria a que se refiere el artículo 3.2 de esta orden.
+
+> Se modifica el apartado 2 por el art. 2.3 de la Orden DSA/619/2023, de 6 de junio. [Ref. BOE-A-2023-14340](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14340)
+
+## Artículo 6. Criterios de concesión de las ayudas.
+
+1\. Para ser elegible, la solicitud de subvención deberá presentarse de acuerdo con el procedimiento y plazos establecidos en la guía del Programa «Erasmus+» y deberá cumplir los criterios de elegibilidad relativos a la acción de que se trate, allí recogidos.
+
+2\. Los/las solicitantes serán excluidos de su participación en el Programa si se encuentran en algunas de las situaciones indicadas en los artículos 136.1 y 141.1 del Reglamento (UE, Euratom) 2018/1046 del Parlamento Europeo y del Consejo, de 18 de julio de 2018, sobre las normas financieras aplicables al presupuesto general de la Unión, por el que se modifican los Reglamentos (UE) n.º 1296/2013, (UE) n.º 1301/2013, (UE) n.º 1303/2013, (UE) n.º 1304/2013, (UE) n.º 1309/2013, (UE) n.º 1316/2013, (UE) n.º 223/2014 y (UE) n.º 283/2014 y la Decisión n.º 541/2014/UE y por el que se deroga el Reglamento (UE, Euratom) n.º 966/2012, y que se detallan en la guía del Programa «Erasmus+».
+
+3\. Únicamente aquellas solicitudes que hayan superado el control de elegibilidad serán evaluadas en cuanto a su calidad, de acuerdo con los criterios de selección y concesión publicados en la guía del Programa «Erasmus+».
+
+4\. La convocatoria establecerá una asignación presupuestaria para cada acción o grupo de acciones. A su vez, podrá establecer una disponibilidad presupuestaria para cada ámbito territorial en una acción o grupo de acciones de acuerdo con el equilibrio geográfico. La disponibilidad presupuestaria se computará para la convocatoria en su conjunto, también en el caso de instrumentarse convocatoria abierta. A tal efecto, los criterios para la fijación de la disponibilidad atenderán al porcentaje de población joven de entre 13 y 30 años de cada ámbito territorial en relación con la media nacional, a la tasa de desempleo juvenil y a la condición no peninsular de los territorios, estableciendo una base común inicial para cada comunidad autónoma del 1 % y del 0,5 % para cada una de las ciudades de Ceuta y Melilla. El ámbito territorial de las solicitudes vendrá determinado por el lugar de ejecución de las actividades, consignado en la propia solicitud, de conformidad con la Guía del programa “Erasmus+”.
+
+Las solicitudes serán valoradas de acuerdo con los criterios y ponderaciones establecidos en la Guía del programa, puntuándose, en su caso, de 0 a 100 puntos. Para ser financiable, las solicitudes deberán alcanzar la puntación mínima establecida en la Guía del programa “Erasmus+”.
+
+De producirse empates entre la puntuación de distintos proyectos, se atenderá a los criterios de desempate establecidos en la Guía del programa “Erasmus+” o, en su defecto, en la convocatoria.
+
+Dentro del presupuesto de cada acción o grupo de acciones, se seleccionarán proyectos beneficiarios por orden de puntuación en cada ámbito territorial hasta el límite de la disponibilidad presupuestaria de cada uno de ellos. En el caso de que la convocatoria no prevea una disponibilidad presupuestaria por ámbito territorial para una acción o grupo de acciones, los proyectos se seleccionarán sucesivamente en orden de puntuación. El sobrante no adjudicado de cada ámbito territorial se sumará a un fondo común de sobrantes, con cargo al cual se seleccionarán proyectos beneficiarios adicionales atendiendo al siguiente procedimiento: se seleccionará el proyecto de mayor puntuación del territorio que haya utilizado un porcentaje menor de su disponibilidad presupuestaria, y así sucesivamente hasta agotar dicho fondo común. En la ejecución de este fondo de sobrantes, podrá superarse la disponibilidad presupuestaria asignada a cada territorio.
+
+Sin perjuicio de lo anterior, en aquellas acciones donde únicamente deban presentarse solicitudes de entidades acreditadas de acuerdo con la Guía del programa “Erasmus+”, serán seleccionadas como beneficiarias hasta agotar el presupuesto disponible establecido en la convocatoria para tales acciones. En caso de insuficiencia presupuestaria para atender todas las solicitudes presentadas se atenderá a los criterios de individualización de la cuantía establecidos en la Guía del programa “Erasmus+” y, en su defecto, en la convocatoria.
+
+5\. La comprobación de la existencia de datos no ajustados a la realidad podrá comportar la denegación de la subvención solicitada, sin perjuicio de las responsabilidades que pudieran derivarse.
+
+> Se modifica el apartado 4 por el art. 1.5 de la Orden JUI/463/2026, de 5 de mayo. [Ref. BOE-A-2026-10325](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10325)
+
+## Artículo 7. Criterios para la determinación de las cuantías individualizadas de las ayudas.
+
+1\. Las convocatorias, en atención al objeto de las ayudas, contendrán la cuantía individualizada de las mismas de conformidad con lo establecido en el Reglamento (UE) 2021/817 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, y en la guía del Programa «Erasmus+».
+
+2\. Los criterios para la concreción de la cuantía individualizada de las ayudas serán adecuados al objeto de la ayuda y entre ellos se incluirá necesariamente la consideración de las disponibilidades presupuestarias.
+
+En todo caso, y de acuerdo con lo establecido en la guía del Programa, las subvenciones pueden adoptar la siguiente forma:
+
+a) Reembolso de una parte determinada de los costes subvencionables soportados realmente.
+
+b) Reembolso sobre la base de los costes unitarios, que cubren todas o determinadas categorías específicas de costes subvencionables claramente identificados de antemano mediante referencia a un importe por unidad.
+
+c) Importes a tanto alzado, que cubren en términos globales todas o determinadas categorías específicas de costes subvencionables claramente identificados de antemano.
+
+d) Financiación a tipo fijo, que cubre determinadas categorías específicas de costes subvencionables claramente identificados con antelación, mediante la aplicación de un porcentaje.
+
+e) Una combinación de los anteriores.
+
+En la guía del Programa Erasmus+ vigente en cada momento se concretarán los importes fijos y variables que corresponden a cada una de las partidas presupuestarias y para cada una de las acciones.
+
+En particular en la Acción clave 1 la cuantía individualizada de la ayuda se determinará con base en los costes admisibles de los viajes de los participantes en los proyectos, utilizando para ello la calculadora de la Comisión Europea en función de la distancia del viaje. También serán financiables los costes de gestión como contribución sobre la base de costes unitarios, apoyo organizativo por participante y día, apoyo a la inclusión por participante y día, dinero de gastos personales por participante y día, así como el coste unitario de las visitas preparatorias por participante.
+
+En el caso de la Acción clave 2, además se tendrá en cuenta en la determinación de la subvención, la duración del proyecto, las reuniones transnacionales previstas, productos intelectuales, eventos multiplicadores o actividades formativas que las solicitudes puedan incluir.
+
+También serán subvencionables los costes excepcionales, como costes reales, relacionados éstos con los visados, permisos de residencia, vacunas, certificados médicos, etc., de acuerdo con lo indicado en la guía del Programa para cada una de las acciones.
+
+3\. La concesión de una subvención por la persona titular de la Dirección General del INJUVE al amparo de esta orden, no conllevará obligación alguna por parte del INJUVE o de la ANE de adjudicar subvenciones en los siguientes ejercicios económicos para programas similares.
+
+4\. En caso de instrumentarse una convocatoria abierta, y una vez adjudicadas las subvenciones en las distintas rondas de concesión, excluida la última, resultaran remanentes de créditos derivados de la renuncia a la subvención por parte de alguna o algunas de las personas beneficiaras, estos remanentes se podrán utilizar en rondas posteriores de la misma convocatoria.
+
+> Se modifica el apartado 4 por el art. 1.6 de la Orden JUI/463/2026, de 5 de mayo. [Ref. BOE-A-2026-10325](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10325)
+
+## Artículo 8. Órganos competentes y plazo de notificación.
+
+1\. Todas las actuaciones para la tramitación del procedimiento de concesión de las subvenciones se realizarán de acuerdo con lo establecido en la guía de Agencias Nacionales que apliquen el Programa «Erasmus+» y, supletoriamente, por lo dispuesto en los artículos 22 a 25 de la Ley 38/2003, de 17 de noviembre.
+
+2\. Para la ordenación e instrucción del procedimiento será competente la Subdirección General de Programas Europeos y Cooperación Internacional del INJUVE.
+
+3\. En cada convocatoria y, en el caso de convocatoria abierta, en cada ronda de subvenciones, la Subdirección General de Programas Europeos y Cooperación Internacional del INJUVE determinará la constitución de una Comisión de Evaluación, competente para la evaluación de la calidad de los proyectos, que estará integrada por dos representantes de la Subdirección General de Programas Europeos y Cooperación Internacional del INJUVE y representantes de organismos de juventud de seis comunidades autónomas o ciudades de Ceuta y Melilla, hasta un máximo de dos representantes por cada organismo.
+
+Las personas representantes de la Subdirección General de Programas Europeos y Cooperación Internacional del INJUVE y las personas suplentes serán designadas, una como titular de la presidencia de la Comisión de Evaluación y otra como titular de la secretaría, por la persona titular de la Dirección General del INJUVE entre el personal funcionario de carrera de, al menos, un nivel 26 de complemento de destino. La persona que ejerza las funciones de secretaría actuará con voz y sin voto.
+
+Las personas representantes de organismos de juventud de las comunidades autónomas y ciudades de Ceuta y Melilla y las personas suplentes serán designadas por la persona titular de la Dirección General del INJUVE a propuesta del organismo autonómico correspondiente.
+
+Asimismo, y atendiendo a lo establecido en el artículo 54 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la Comisión de Evaluación, como órgano colegiado, deberá designar a su representación de acuerdo con el principio de presencia equilibrada de mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas.
+
+Para la válida constitución y toma de decisiones del órgano será necesaria la asistencia de, al menos, cuatro personas representantes de diferentes comunidades autónomas y ciudades de Ceuta y Melilla, además de la persona titular de la presidencia y la persona titular de la secretaría.
+
+Las comunidades autónomas y ciudades de Ceuta y Melilla participarán en turno rotatorio en cada una de las rondas de selección de proyectos y se abstendrán de valorar las solicitudes correspondientes a su ámbito geográfico.
+
+El funcionamiento de la Comisión de Evaluación no podrá originar incrementos de gastos de personal, a excepción del eventual reconocimiento de las asistencias de expertos externos, actuando con voz y sin voto, lo que, en todo caso, se asumirá con cargo a las disponibilidades presupuestarias del INJUVE.
+
+4\. En lo no previsto expresamente en estas bases o en la convocatoria, el funcionamiento del órgano colegiado se regirá por lo previsto en el capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+5\. La Comisión de Evaluación elevará, a través del órgano instructor a la persona titular de la Dirección General del INJUVE la propuesta definitiva de concesión. En dicha propuesta se expresará la relación de solicitantes para los que se propone la concesión de ayuda, así como la cuantía de la misma, especificando el resultado de la evaluación y los criterios de valoración.
+
+6\. La persona titular de la Dirección General del INJUVE resolverá el procedimiento de concesión de cada una de las rondas, de conformidad con lo previsto en el artículo 63.1 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, en concordancia con el artículo 88 de la Ley 39/2015, de 1 de octubre.
+
+7\. La resolución se dictará y notificará en el plazo máximo de seis meses desde la finalización de los plazos de presentación de solicitudes. Transcurrido el plazo máximo sin que se haya efectuado la notificación, los interesados podrán entender desestimadas sus solicitudes. Asimismo, la resolución se publicará en la página web del Programa «Erasmus+» de la ANE y en la Base de Datos Nacional de Subvenciones.
+
+8\. En la resolución, debidamente motivada, se acordará tanto el otorgamiento de las ayudas, como la desestimación y la no concesión por desistimiento, renuncia al derecho o imposibilidad material sobrevenida. En la resolución se podrá incluir, en los términos del artículo 63.3 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, aprobado por Real Decreto 887/2006, de 21 de julio, una relación ordenada de todas las solicitudes que, cumpliendo con las condiciones administrativas y técnicas establecidas en las bases reguladoras para adquirir la condición de persona beneficiaria, no hayan sido estimadas por rebasarse la cuantía máxima del crédito fijado en la convocatoria, con indicación de la puntuación otorgada a cada una de ellas en función de los criterios de valoración previstos en la misma.
+
+9\. La resolución de concesión pone fin a la vía administrativa, pudiéndose interponer contra ella recurso potestativo de reposición, ante la persona titular de la Dirección General del INJUVE en el plazo de un mes a contar desde el día siguiente al de su publicación, de acuerdo con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, o bien ser impugnadas directamente ante el orden jurisdiccional contencioso-administrativo, en la forma y plazos previstos en los artículos 9, 45 y 46 de la Ley 29/1998, de 13 de julio, de la Jurisdicción Contencioso-administrativa, no pudiendo interponerse simultáneamente ambos recursos.
+
+10\. Las personas beneficiarias que tengan la condición de persona jurídica remitirán a través de la sede electrónica del INJUVE a la Subdirección General de Programas Europeos y Cooperación Internacional debidamente firmado, en el plazo de 3 meses a contar desde el día siguiente al de la publicación de la resolución de concesión, el documento tipo facilitado por la Comisión Europea denominado “Convenio de subvención”, en el que se establecen las condiciones particulares de la subvención. Las personas beneficiarias que tengan la condición de persona física remitirán por cualquiera de los medios previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, al mismo órgano mencionado y dentro del mismo plazo, el documento tipo facilitado por la Comisión Europea denominado “Convenio de subvención”. La falta de presentación del convenio firmado por parte de la persona beneficiaria en el modo y plazo indicados implicará la renuncia a la subvención.
+
+> Se modifican los apartados 2, 3, 8 y 10 por el art. 1.7 a 10 de la Orden JUI/463/2026, de 5 de mayo. [Ref. BOE-A-2026-10325](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10325)
+
+> Se modifica el apartado 3 por el art. 2.4 de la Orden DSA/619/2023, de 6 de junio. [Ref. BOE-A-2023-14340](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14340)
+
+## Artículo 9. Obligaciones de los beneficiarios.
+
+Son obligaciones de los beneficiarios de las subvenciones:
+
+a) Cumplir, con carácter general, las obligaciones que figuran tanto en el Reglamento (UE) 2021/817 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, como en la guía del Programa «Erasmus+», así como en la Ley 38/2003, de 17 de noviembre, en el Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y en lo dispuesto en las presentes bases y en la convocatoria.
+
+b) Realizar la actividad objeto de la concesión de la subvención en la forma, condiciones y plazo establecidos para cada proyecto.
+
+c) Someterse a las actuaciones de comprobación que efectúe el INJUVE y facilitar periódicamente el grado de cumplimiento de los proyectos.
+
+d) Justificar los gastos efectuados con cargo a la ayuda dentro de los dos meses siguientes a la finalización del plazo previsto para cada proyecto. En caso de contradicción entre el plazo anteriormente mencionado y el establecido en el Convenio de subvención, prevalecerán los plazos de este último.
+
+Esta justificación consistirá en la elaboración de un informe final por parte del beneficiario de la subvención, sobre la ejecución del proyecto. Dicho informe debe incluir la información pertinente para justificar la contribución solicitada basándose en contribuciones por unidad, cuando la subvención consista en el reembolso de contribuciones por unidad o los costes subvencionables en los que se haya incurrido realmente de conformidad con lo dispuesto en el Convenio de subvención. El beneficiario certificará que la información proporcionada en el informe final es completa, fidedigna y veraz. También certificará que los costes en que se ha incurrido pueden considerarse subvencionables de conformidad con el Convenio de subvención, así como los documentos que puedan presentarse en el marco de los controles o las auditorías descritos en el citado Convenio.
+
+e) Cumplir, con carácter general, las obligaciones que figuran en el artículo 14 de la Ley 38/2003, de 17 de noviembre.
+
+f) No se establece la necesidad de constituir medidas de garantía a favor del órgano concedente.
+
+## Artículo 10. Pagos de las ayudas.
+
+El abono de las ayudas a que se refieren las presentes bases reguladoras se realizará de acuerdo con los plazos, porcentajes y procedimientos que se establecen en la guía del Programa «Erasmus+».
+
+## Artículo 11. Modificación de la resolución.
+
+1\. Toda alteración de las condiciones tenidas en cuenta para la concesión de estas ayudas en forma de subvenciones, ingresos o recursos y, en todo caso, la obtención concurrente de otras, podrá dar lugar a la modificación de la resolución de concesión, procediendo el reintegro del exceso, junto con los intereses de demora, siempre que no se dañen derechos de terceros.
+
+2\. Con carácter excepcional, el/la beneficiario/a podrá solicitar la modificación del contenido del proyecto subvencionado, su forma y plazos de ejecución, todo ello con la suficiente fundamentación, sin perjudicar en ningún caso derechos de terceros y siempre con anterioridad al momento en el que finalice el plazo de ejecución del proyecto subvencionado.
+
+3\. Las resoluciones de las solicitudes de modificación se dictarán por la persona titular de la Dirección General del INJUVE, y se notificarán en el plazo máximo de tres meses a contar desde la fecha de entrada en el registro del órgano competente para su tramitación. Estas resoluciones pondrán fin a la vía administrativa, pudiéndose interponer contra ellas recurso potestativo de reposición, ante la persona titular de la Dirección General del INJUVE en el plazo de un mes a contar desde el día siguiente al de la notificación de la resolución, o bien ser impugnadas directamente ante el orden jurisdiccional contencioso-administrativo, en la forma y plazo previstos por la Ley 29/1998, de 13 de julio.
+
+Transcurrido el plazo máximo establecido sin que se haya dictado y notificado resolución expresa, se entenderá desestimada la solicitud, de acuerdo con lo previsto en el artículo 24.1 de la Ley 39/2015, de 1 de octubre, y en el artículo 25.5 de la Ley 38/2003, de 17 de noviembre.
+
+## Artículo 12. Compatibilidad con otras subvenciones.
+
+Las ayudas reguladas en la presente orden serán compatibles con la percepción de otras subvenciones, ayudas, ingresos o recursos para la misma finalidad, procedentes de cualesquiera administraciones o entes públicos o privados, nacionales o de organismos internacionales, teniendo en cuenta que el importe de estas últimas en ningún caso podrá ser de tal cuantía que, aisladamente o en concurrencia con otras subvenciones, ayudas, ingresos o recursos, supere el coste de la actividad subvencionada, de acuerdo con el artículo 19.3 de la Ley 38/2003, de 17 de noviembre.
+
+## Artículo 13. Publicidad de las ayudas.
+
+1\. La Subdirección General de Programas Europeos y Cooperación Internacional del INJUVE dará publicidad a las ayudas concedidas durante los treinta días siguientes a cada trimestre natural, conforme a lo establecido en el artículo 18 de la Ley 38/2003, de 17 de noviembre, y en el artículo 30 del Reglamento de la Ley General de Subvenciones.
+
+2\. Los beneficiarios de una ayuda deberán dar la adecuada publicidad al carácter público de la financiación recibida, adecuando las medidas de difusión al objeto subvencionado, tanto en su forma como en su duración, con leyendas relativas a la financiación pública recibida, de acuerdo con las instrucciones contenidas en la guía del Programa «Erasmus+».
+
+Si se incumpliese esta obligación, se procederá conforme a lo previsto en la guía del Programa «Erasmus+» y supletoriamente en el artículo 31.3 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+> Se modifica el apartado 1 por el art. 1.11 de la Orden JUI/463/2026, de 5 de mayo. [Ref. BOE-A-2026-10325](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10325)
+
+## Artículo 14. Reintegro e incumplimientos.
+
+1\. Procederá el reintegro de las cantidades percibidas y la exigencia del interés de demora correspondiente desde el momento del pago de la ayuda hasta la fecha en que se acuerde la procedencia del reintegro, además de en los casos establecidos y en la cuantía fijada en el título II de la Ley 38/2003, de 17 de noviembre, y en el título III del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, en los supuestos siguientes:
+
+a) Existencia de un remanente de subvención que no haya sido invertido en el proyecto sin causa justificada.
+
+b) Aplicación de la ayuda a conceptos de gasto distintos de los que fueron establecidos, sin autorización del órgano concedente, así como a proyectos ejecutados por entidades o en comunidades autónomas y fechas que no figurasen en las memorias de los proyectos en el momento de la solicitud.
+
+2\. En el supuesto de incumplimiento parcial, la fijación de la cantidad que deberá ser reintegrada se determinará en aplicación del principio de proporcionalidad y teniendo en cuenta el hecho de que el citado incumplimiento se aproxime significativamente al cumplimiento total y se acredite por los/las beneficiarios/as una actuación inequívocamente tendente a la satisfacción de sus compromisos.
+
+3\. Los plazos y procedimiento de reintegro y reclamación de cantidades no justificadas se ajustarán a lo establecido en el capítulo II del título II de la Ley 38/2003, de 17 de noviembre, y en el capítulo II del título III del Reglamento de la Ley General de Subvenciones.
+
+En todo caso, con carácter previo al inicio del procedimiento de reintegro y reclamación de las cantidades no justificadas, la Subdirección General de Programas Europeos y Cooperación Internacional del INJUVE comunicará a la persona beneficiaria su intención de recuperar cualquier importe abonado indebidamente.
+
+4\. Asimismo, la renuncia voluntaria a la subvención concedida con posterioridad a la fecha de publicación de la resolución definitiva, conllevará en su caso la devolución de las cantidades que se hubieran percibido hasta ese momento con el interés de demora correspondiente, de acuerdo con el artículo 90 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+> Se modifica el apartado 3 por el art. 1.12 de la Orden JUI/463/2026, de 5 de mayo. [Ref. BOE-A-2026-10325](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10325)
+
+## Artículo 15. Infracciones y sanciones.
+
+El régimen de infracciones y sanciones administrativas aplicables será el establecido en el título IV de la Ley 38/2003, de 17 de noviembre, y en el título IV del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+El procedimiento sancionador se regirá por lo establecido en el capítulo III del título preliminar de la Ley 40/2015, de 1 de octubre, en lo relativo a los principios de la potestad sancionadora, y en el título IV de la Ley 39/2015, de 1 de octubre, en lo que respecta al procedimiento, con las especificidades contempladas en la Ley 38/2003, de 17 de noviembre, y en el Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+## Artículo 16. Controles y auditorías.
+
+1\. Las personas beneficiarias mantendrán a disposición de la Comisión Europea y de la Subdirección General de Programas Europeos y Cooperación Internacional del INJUVE, durante un período de cinco años a partir del último pago, todos los justificantes de los gastos efectuados, y se someterán a los controles establecidos en la Guía de agencias nacionales que apliquen el programa “Erasmus+”.
+
+La Comisión Europea tendrá, asimismo, derecho a efectuar una auditoría de la utilización que se haya dado a la ayuda. Estas auditorías podrán llevarse a cabo durante toda la duración del Convenio de subvención, así como durante un período de cinco años a contar desde la fecha de pago del saldo de la ayuda. Los resultados de estas auditorías podrán, en su caso, dar lugar a decisiones de recuperación de fondos por parte de la Comisión Europea.
+
+2\. Asimismo, de acuerdo con los artículos 44 y 45 de la Ley 38/2003, de 17 de noviembre, se atribuye la competencia para el ejercicio del control financiero para subvenciones con cargo a fondos de la Unión Europea a la Intervención General de la Administración del Estado.
+
+> Se modifica el apartado 1 por el art. 1.13 de la Orden JUI/463/2026, de 5 de mayo. [Ref. BOE-A-2026-10325](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10325)
+
+## Artículo 17. Régimen supletorio.
+
+En lo no previsto expresamente en la presente orden, se estará a lo dispuesto en el Reglamento (UE) 2021/817 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, en la guía del Programa «Erasmus+» y en la guía de Agencias Nacionales que apliquen el Programa «Erasmus» y, supletoriamente, en la Ley 38/2003, de 17 de noviembre, y en el Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+## Disposición adicional única. Medios personales al servicio del INJUVE.
+
+**(Suprimida)**
+
+> Se suprime por el art. 1.14 de la Orden JUI/463/2026, de 5 de mayo. [Ref. BOE-A-2026-10325](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10325)
+
+## Disposición final primera. Título competencial.
+
+Esta orden se dicta al amparo de lo dispuesto en el artículo 149.1.1.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva para la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 20 de septiembre de 2021.–La Ministra de Derechos Sociales y Agenda 2030, Ione Belarra Urteaga.

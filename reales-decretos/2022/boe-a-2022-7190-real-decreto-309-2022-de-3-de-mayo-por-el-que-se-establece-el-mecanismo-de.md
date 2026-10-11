@@ -1,0 +1,1262 @@
+---
+title: "Real Decreto 309/2022, de 3 de mayo, por el que se establece el mecanismo de compensación de costes indirectos para los sectores y subsectores industriales a los que se considera expuestos a un riesgo significativo de fuga de carbono durante el periodo 2021-2030"
+identifier: "BOE-A-2022-7190"
+eli: "https://www.boe.es/eli/es/rd/2022/05/03/309"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática"
+date: 2022-05-03
+published: 2022-05-04
+in_force_from: 2022-05-05
+last_amended: 2026-07-07
+consolidated: 2026-08-05
+gazette: "Boletín Oficial del Estado núm. 106"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-7190"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 309/2022, de 3 de mayo, por el que se establece el mecanismo de compensación de costes indirectos para los sectores y subsectores industriales a los que se considera expuestos a un riesgo significativo de fuga de carbono durante el periodo 2021-2030
+
+I
+
+Uno de los objetivos centrales de la política de la Unión Europea (en adelante, UE) es la consecución, para mediados de este siglo, de una economía sostenible en la que el desarrollo económico esté desligado de las emisiones de gases de efecto invernadero.
+
+Esto implica acometer una transición energética, que debe estar dotada de un marco regulatorio para fomentar la transición de forma progresiva y con visión a largo plazo. Por ello, en el contexto actual, tanto a nivel europeo como nacional, nuestro país debe adoptar un marco regulatorio e institucional claro, estable y predecible, que otorgue seguridad a todas las personas jurídicas relacionadas con el sector industrial y energético, cuya transversalidad engloba un amplio número de sectores estratégicos que han de adaptarse a las futuras necesidades medioambientales internacionales al tiempo que se debe asegurar el mantenimiento de su actividad en un entorno competitivo y global, que evite el traslado de instalaciones clave en materia económica, industrial y social a otros entornos internacionales donde la regulación en materia de cambio climático sea más laxa.
+
+Por ello, la Directiva 2003/87/CE del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, por la que se establece un régimen para el comercio de derechos de emisión de gases de efecto invernadero en la Comunidad y por la que se modifica la Directiva 96/61/CE del Consejo (en adelante, Directiva RCDE), permitía establecer ayudas a través de un mecanismo de compensación de costes indirectos. Su trasposición al ordenamiento jurídico español se ejecutó a través de la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero. En base a la disposición adicional sexta de la Ley 1/2005, de 9 de marzo, se prevé la compensación de costes indirectos a propuesta conjunta de los Ministerios de Industria, Comercio y Turismo; de Asuntos Económicos y Transformación Digital; y para la Transición Ecológica y el Reto Demográfico, con la creación de un mecanismo de compensación de costes indirectos significativos imputables a las emisiones de gases de efecto invernadero.
+
+Por ende, el Real Decreto 1055/2014, de 12 de diciembre, por el que se crea un mecanismo de compensación de costes de emisiones indirectas de gases de efecto invernadero para empresas de determinados sectores y subsectores industriales a los que se considera expuestos a un riesgo significativo de «fuga de carbono» y se aprueban las bases reguladoras de la concesión de las subvenciones para los ejercicios 2014 y 2015, creaba un mecanismo de compensación de costes indirectos de CO<sub>2</sub> para empresas de determinados sectores y subsectores industriales a los que se consideraba expuestos a un riesgo significativo de fuga de carbono, en el marco de la Comunicación de la Comisión (2012/C 158/04), sobre Directrices relativas a determinadas medidas de ayuda estatal en el contexto del régimen del comercio de derechos de emisión de gases de efecto invernadero (en adelante, antiguas Directrices), destinadas a industrias de determinados sectores o subsectores a los que se considera expuestos a un riesgo significativo de fuga de carbono.
+
+Posteriormente, el Real Decreto 655/2017, de 23 de junio, por el que se modifica el Real Decreto 1055/2014, de 12 de diciembre, prorroga su vigencia hasta el 31 de diciembre de 2020, para aplicar la concesión de subvenciones para costes indirectos incurridos hasta el año 2020. La Directiva RCDE fue modificada por la Directiva (UE) 2018/410 del Parlamento Europeo y del Consejo, de 14 de marzo de 2018, por la que se modifica la Directiva 2003/87/CE para intensificar las reducciones de emisiones de forma eficaz en relación con los costes y facilitar las inversiones en tecnologías hipocarbónicas, así como la Decisión (UE) 2015/1814, para mejorar y ampliar el régimen de comercio de derechos de emisión de la UE, durante el período 2021-2030, trasponiendo la misma al ordenamiento jurídico español mediante la Ley 9/2020, de 16 de diciembre, por la que se modifica la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero, para intensificar las reducciones de emisiones de forma eficaz en relación con los costes.
+
+Adicionalmente, el 11 de diciembre de 2019, la Comisión publicó la Comunicación sobre el Pacto Verde Europeo, en la que se esbozan las políticas para lograr la neutralidad climática en Europa para 2050 y abordar otros problemas medioambientales. Mientras muchos de los socios internacionales no compartan las mismas aspiraciones de la UE, existe un riesgo de fuga de carbono, ya sea porque la producción se traslade fuera de la UE a otros países menos ambiciosos en lo referente a la reducción de las emisiones, ya sea porque los productos de la UE sean sustituidos por productos importados que emitan más carbono. Si este riesgo se materializa, no habrá una reducción de las emisiones mundiales, lo que frustrará los esfuerzos de la UE y de sus industrias por alcanzar los objetivos climáticos.
+
+En apoyo a esta transición, es relevante destacar el Reglamento (UE) 2020/2094 del Consejo, de 14 de diciembre de 2020, por el que se establece un Instrumento de Recuperación de la Unión Europea para apoyar la recuperación tras la crisis de la COVID-19. En este contexto, el Consejo aprobó el 13 de julio de 2021 el Plan de Recuperación, Transformación y Resiliencia de España, que se estructura en torno a cuatro ejes transversales, y en particular en la industria, e impulsa la transición hacia unos procesos de producción y organizativos más eficientes, sostenibles e innovadores y que contribuyan a reforzar su competitividad y favorecer el desarrollo de la industria al tiempo que reduzcan sus emisiones indirectas de CO<sub>2</sub>.
+
+La Comunicación de la Comisión Europea, COM (2020) 6400, sobre las Directrices relativas a determinadas medidas de ayuda estatal en el contexto del régimen de comercio de derechos de emisión de gases de efecto invernadero después de 2021 (en adelante, las nuevas Directrices), realiza una actualización de las antiguas Directrices para la década 2021 a 2030, considera las particularidades de las pequeñas y medianas empresas europeas, en consonancia con la Estrategia de dicha tipología empresarial en pro de una Europa sostenible y digital, Comunicación de la Comisión COM (2020) 103 final, y ajusta las mismas a los nuevos objetivos en materia de cambio climático para 2030: al menos un 32 por ciento de cuota de energías renovables; un 32,5 por ciento de mejora de la eficiencia energética; y un 40 por ciento de reducción de las emisiones de gases de efecto invernadero (con respecto a 1990). En definitiva, la UE permite a cada Estado miembro, según su presupuesto nacional y de acuerdo con las nuevas Directrices, compensar estos costes indirectos para las industrias de determinados sectores o subsectores a los que se considera expuestos a un riesgo significativo de fuga de carbono debido a los costes relacionados con las emisiones de gases de efecto invernadero repercutidos en los precios de la electricidad. Asimismo, destacar la Comunicación de la Comisión que complementa las Directrices relativas a determinadas medidas de ayuda estatal en el contexto del régimen de comercio de derechos de emisión de gases de efecto invernadero después de 2021 (2021/C 528/01).
+
+Para paliar en la medida de lo posible el impacto de dichos costes sobre la competitividad de nuestras industrias, y de acuerdo con estas previsiones, es conveniente continuar con el citado mecanismo de compensación de los costes indirectos imputables a las emisiones de gases de efecto invernadero repercutidas en los precios de la electricidad, denominado «Ayudas compensatorias por costes de emisiones indirectas de CO<sub>2</sub>», que adopta la forma de subvención, para compensación de los costes incurridos y soportados en el ámbito de aplicación desde el año 2021 al 2030, mediante la implementación de convocatorias entre los años 2022 y 2031.
+
+II
+
+Asimismo, dado que el ámbito de aplicación del mecanismo de compensación de los costes indirectos imputables a las emisiones de gases de efecto invernadero repercutidas en los precios de la electricidad se corresponde con todo el territorio nacional, y en beneficio de su efectividad y operatividad, se impone lógicamente la unidad de gestión de las ayudas, ya que no es posible establecer a priori un esquema de distribución territorial del gasto. En efecto, se aprecia una imposibilidad de establecer criterios apriorísticos para la distribución del presupuesto para estas ayudas, lo que hace inviable un reparto previo del mismo entre las comunidades autónomas. Esto motiva que el presupuesto no pueda fraccionarse, dándose el supuesto del párrafo segundo del artículo 86.1 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, y por ello, justifica la competencia estatal y la gestión centralizada de este tipo de apoyos, toda vez que los mecanismos de cooperación o coordinación que pudieran establecerse con las comunidades autónomas no resolverían el problema expuesto.
+
+En consecuencia, constituye un objetivo fundamental de esta norma la armonización de los criterios que deben guiar la concesión de estas ayudas para asegurar la compatibilidad de las mismas con el mercado interior, en base a las nuevas Directrices, para el periodo 2021–2030 en términos de costes indirectos soportados por los beneficiarios en el periodo 2022–2031, mediante el establecimiento de convocatorias de subvenciones para compensar costes reales del año precedente. La aplicación de dichos criterios, de forma común a los potenciales beneficiarios, es necesaria para garantizar la igualdad de oportunidades en el acceso a los recursos públicos destinados a compensar los costes de emisiones indirectas de CO<sub>2</sub> en cualquier punto del territorio nacional. Se justifica, por tanto, la necesidad de aprobar este real decreto al amparo de las competencias exclusivas del Estado previstas en el artículo 149.1. 13.ª y 23.ª de la Constitución, en materia de bases y coordinación de la planificación general de la actividad económica y de legislación básica sobre protección del medio ambiente.
+
+No obstante, con el objeto de tener en cuenta la jurisprudencia sentada por el Tribunal Constitucional y de acuerdo a la doctrina del Consejo de Estado, en primer lugar, este real decreto ha sido sometido al parecer de las comunidades autónomas, y, en segundo lugar, establece que un representante de las mismas forme parte de la comisión de evaluación de la concesión de las ayudas.
+
+Adicionalmente, la presente norma se adecua a los principios de buena regulación establecidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Así, de lo expuesto en los apartados anteriores se pone de manifiesto el cumplimiento de los principios de necesidad y eficacia. El proyecto es acorde con el principio de proporcionalidad al contener la regulación necesaria e imprescindible para la consecución de los objetivos previamente mencionados, e igualmente se ajusta al principio de seguridad jurídica, puesto que se ha realizado de manera coherente con el resto del ordenamiento jurídico, nacional y de la Unión Europea con objeto de generar un marco normativo estable, predecible, integrado, claro y de certidumbre.
+
+En relación al principio de transparencia, se ha realizado el trámite de consulta pública y el trámite de audiencia e información pública, según establece el artículo 26.6 de la Ley 50/1997, de 27 de noviembre, del Gobierno, con el objeto de dar audiencia a los ciudadanos afectados y obtener cuantas aportaciones adicionales puedan hacerse por otras personas o entidades, así como lo dispuesto en la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente (incorpora las Directivas 2003/4/CE y 2003/35/CE).
+
+Por último, con respecto al principio de eficiencia, las medidas reguladas en el presente real decreto no implican nuevas cargas administrativas, puesto que dan continuidad a las previamente consideradas y existentes. Además, el presente mecanismo de compensación desarrollado en este real decreto se concede en el año posterior a los costes reales incurridos por los beneficiarios, y, en consecuencia, no se exigen garantías a los beneficiarios, ya que la ayuda en forma de subvención se efectúa ex-post a los costes indirectos soportados.
+
+Asimismo, conforme a lo dispuesto en el artículo 17.1 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, se han recabado los informes preceptivos de la Abogacía del Estado y de la Intervención Delegada en el Ministerio de Industria, Comercio y Turismo.
+
+En su virtud, a propuesta de la Ministra de Industria, Comercio y Turismo, de la Ministra para la Transición Ecológica y el Reto Demográfico y de la Ministra de Asuntos Económicos y Transformación Digital, con la aprobación previa de la Ministra de Hacienda y Función Pública, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 3 de mayo de 2022,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+Constituye el objeto de este real decreto el establecimiento de las bases reguladoras, conforme a lo previsto en la normativa de la Unión Europea y nacional aplicable, del mecanismo de compensación de costes indirectos imputables a las emisiones de gases de efecto invernadero, repercutidos en los precios de la electricidad, consecuencia de la aplicación del cuarto período del régimen europeo de comercio de derechos de emisión (en adelante, RCDE), para determinados sectores y subsectores expuestos a un riesgo significativo de fuga de carbono.
+
+### Artículo 2. Finalidad y forma.
+
+1\. La finalidad de este mecanismo es evitar el traslado de la actividad productiva propia de aquellos sectores más expuestos a un riesgo significativo de fuga de carbono, a terceros países que no están sujetos al RCDE ni a la normativa de la Unión Europea (en adelante, UE), lo que conllevaría una pérdida de la actividad productiva en España y en la UE, así como el peligro de producir un aumento global de las emisiones de gases de efecto invernadero debido a las menores restricciones en países no pertenecientes a la UE.
+
+2\. Asimismo, el mecanismo se integra en la línea estratégica para el fomento de la sostenibilidad de los sectores productivos desde una perspectiva económica, ambiental y social incluida en el Plan Estratégico de Subvenciones del Ministerio de Industria, Comercio y Turismo, contribuyendo a la consecución de sus objetivos mediante la modernización del modelo productivo impulsado por una transición industrial ecológica.
+
+3\. El mecanismo de compensación adoptará la forma de subvención.
+
+4\. A los efectos previstos en este real decreto, las definiciones, palabras, expresiones y términos se entenderán en el sentido indicado en el glosario de términos incluido en el anexo III, y con carácter suplementario, las recogidas en la Comunicación de la Comisión Europea, COM (2020) 6400, sobre las Directrices relativas a determinadas medidas de ayuda estatal en el contexto del régimen de comercio de derechos de emisión de gases de efecto invernadero a partir de 2021, (en adelante, las nuevas Directrices), así como en la Comunicación de la Comisión que complementa las Directrices relativas a determinadas medidas de ayuda estatal en el contexto del régimen de comercio de derechos de emisión de gases de efecto invernadero después de 2021 (2021/C 528/01) (en adelante, Comunicación 2021/C 528/01).
+
+### Artículo 3. Ámbito temporal.
+
+1\. Lo dispuesto en este real decreto será aplicable a las subvenciones que se convoquen en el periodo 2022-2031, para compensar los costes indirectos soportados en los años 2021-2030 correspondientes al cuarto periodo del RCDE.
+
+2\. El ámbito temporal de este mecanismo se podrá ampliar automáticamente en línea con las prórrogas de las nuevas Directrices establecidas a nivel europeo.
+
+### Artículo 4. Beneficiarios.
+
+1\. Podrán acogerse a las ayudas reguladas en este real decreto las personas jurídicas del sector privado, incluidas o no en RCDE, cualquiera que sea su forma jurídica, siempre que cumplan los requisitos siguientes:
+
+a) Estén válidamente constituidas en el momento de presentar la solicitud.
+
+b) Realicen una o varias actividades o fabriquen productos destinados a comercialización y beneficio empresarial, en los sectores enumerados en el anexo I de las nuevas Directrices, bajo los códigos NACE que se explicitan en el mismo, los cuales se encuentran igualmente incluidos en el anexo I del presente real decreto.
+
+c) Hayan incurrido en costes de emisiones indirectas de CO<sub>2</sub>, en el año precedente a la convocatoria del mecanismo de compensación de ayudas, como consecuencia de los costes indirectos soportados en los gastos de suministro destinados a los procesos productivos.
+
+2\. A efectos de mantener un ámbito de aplicación actualizado, en las convocatorias anuales de ayudas que deriven de este real decreto figurarán siempre las relaciones últimas de los sectores y productos que haya aprobado la Comisión Europea.
+
+3\. No podrán obtener la condición de beneficiario aquellas personas jurídicas que se encuentren en alguna de las siguientes situaciones:
+
+a) Se encuentren en crisis en el sentido de las Directrices comunitarias, Comunicación de la Comisión (2014/C 249/01), sobre ayudas estatales de salvamento y de reestructuración de empresas no financieras en crisis.
+
+b) Estén sujetas a una orden de recuperación pendiente tras una decisión previa de la Comisión Europea que haya declarado una ayuda ilegal e incompatible con el mercado común.
+
+c) Quienes concurran en algunas de las circunstancias detalladas en el artículo 13.2 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+d) Quienes no estén al corriente del cumplimiento de sus obligaciones descritas en el artículo 5 del presente real decreto.
+
+e) Aquellos beneficiarios que no puedan acreditar el cumplimiento de las condiciones descritas en el artículo 16.5 del presente real decreto.
+
+### Artículo 5. Obligaciones de los beneficiarios.
+
+1\. Los beneficiarios de las subvenciones reguladas en este real decreto deberán cumplir las obligaciones establecidas en el artículo 5 del Real Decreto-ley 20/2018, de 7 de diciembre, de medidas urgentes para el impulso de la competitividad económica en el sector de la industria y el comercio en España.
+
+2\. Aquellos beneficiarios que estén obligados a realizar una auditoría energética con arreglo al artículo 2 del Real Decreto 56/2016, de 12 de febrero, por el que se transpone la Directiva 2012/27/UE del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, relativa a la eficiencia energética, en lo referente a auditorías energéticas, acreditación de proveedores de servicios y auditores energéticos y promoción de la eficiencia del suministro de energía, tendrán la obligación de cumplir alternativamente alguna de las siguientes obligaciones en un periodo no superior a tres años desde la concesión de la ayuda:
+
+a) Aplicar las recomendaciones de inversiones relevantes del informe de auditoría, en la medida en que el plazo de amortización de dichas inversiones no supere los tres años y que sus costes de inversión sean proporcionados, conforme al glosario de términos del anexo III, o bien,
+
+b) Invertir una parte significativa, de al menos el 50 por ciento del importe de dicha ayuda, en proyectos que den lugar a reducciones sustanciales de las emisiones de gases de efecto invernadero de la instalación, muy por debajo del valor de referencia aplicable utilizado para la asignación gratuita en el régimen de comercio de derechos de emisión de la UE, o bien,
+
+c) Reducir la huella de carbono de su consumo eléctrico, de forma que se abastezca al menos el 30 por ciento de su consumo de electricidad a partir de fuentes sin emisiones de carbono, excluido el mix nacional y justificado mediante instrumentos a plazo, directos o indirectos, por medio de garantías de origen, mediante inversiones en instalaciones para autoconsumo de origen renovable o mediante otras inversiones o actuaciones similares.
+
+3\. Cuando las subvenciones reguladas en este real decreto procedan en parte, o en su totalidad, de mecanismos de ayuda europeos, los beneficiarios deberán cumplir los requisitos adicionales que en ellos se impongan para su uso.
+
+### Artículo 6. Características, régimen de concesión y criterios de evaluación.
+
+1\. Las ayudas se concederán por el procedimiento de concurrencia competitiva, conforme a los principios de publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación, eficiencia y eficacia en el cumplimiento de los objetivos, de acuerdo con lo establecido en el artículo 22.1 de la Ley 38/2003, de 17 de noviembre.
+
+2\. El importe global máximo destinado a las subvenciones en la correspondiente convocatoria se prorrateará entre todos los beneficiarios de las mismas, dentro de los niveles máximos establecidos en la Ley de Presupuestos Generales del Estado. Asimismo, la correspondiente partida presupuestaria destinada a estas ayudas en cada convocatoria anual podrá incrementarse, siempre antes de la propuesta de resolución definitiva, mediante alguno de los mecanismos legalmente establecidos y en base a lo recogido en el artículo 30 de la Ley 7/2021, de 20 de mayo, de cambio climático y transición energética.
+
+3\. Las solicitudes se evaluarán de acuerdo con el cumplimiento de los siguientes criterios:
+
+a) Estar en riesgo de fuga de carbono, según lo dispuesto en el apartado 1 del artículo 10 ter de la Directiva 2003/87/CE, en relación a las actividades o productos definidos en el anexo I del presente real decreto, por haber incurrido en costes de emisiones indirectas de CO<sub>2</sub>, como consecuencia de los procesos de producción.
+
+b) Haber acreditado actividad productiva destinada a la comercialización y al beneficio empresarial, y, por ello, sometido a la competencia del mercado, durante el correspondiente ejercicio fiscal anterior al año de la convocatoria derivada de este real decreto.
+
+### Artículo 7. Criterios de acumulación de las ayudas.
+
+1\. Las ayudas reguladas en este real decreto pueden acumularse con:
+
+a) Cualquier otra ayuda estatal en relación con costes subvencionables identificables diferentes.
+
+b) Cualquier otra ayuda estatal, en relación con los mismos costes subvencionables, que se superpongan total o parcialmente, y cualquier otra ayuda estatal sin costes subvencionables identificables, solo si dicha acumulación no supera la intensidad máxima de ayuda con arreglo al artículo 8 del presente real decreto.
+
+2\. La financiación de la UE gestionada centralmente por la Comisión que no quede directa o indirectamente bajo el control del Estado miembro no constituye ayuda estatal. En caso de que dicha financiación de la UE se combine con ayudas estatales, solo estas últimas se tendrán en cuenta para determinar si se respetan las intensidades máximas de ayuda, siempre que el importe total de la financiación pública concedida en relación con los mismos costes subvencionables no supere el porcentaje máximo de financiación establecido en la legislación de la UE en vigor.
+
+3\. Las ayudas a las que se refiere este real decreto podrán acumularse con otras ayudas de minimis relativas a los mismos costes subvencionables, siempre que la acumulación no supere la intensidad de la ayuda fijada en el artículo 8.
+
+### Artículo 8. Determinación de los costes subvencionables e intensidad máxima de la ayuda.
+
+1\. La determinación de los costes subvencionables en la fabricación de productos de los sectores y subsectores enumerados en el anexo I, en el año t, anterior al año de la convocatoria, se efectuará de la siguiente forma:
+
+a) Cuando los valores de referencia de consumo eléctrico eficiente que figuran en la tabla 1 del anexo II se apliquen a los productos fabricados por el beneficiario, la ayuda máxima ![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542298_1.png) que podrá abonarse por instalación como consecuencia de los costes incurridos en el año t será igual a:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542299_1.png)
+
+Donde:
+
+– *A<sub>i </sub>*es intensidad de la ayuda, expresada como fracción, contemplado en el anexo II.
+
+– *C<sub>t</sub>* es el factor de emisión de CO<sub>2</sub> o factor de emisión de CO<sub>2</sub> basado en el mercado aplicable en el año t, contemplado en el anexo II, y expresado en ![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542300_1.png)
+
+– *P*<sub>*t*–1</sub> es el precio a plazo de los derechos de emisión de la UE en el año t-1, determinado según la definición recogida en el anexo III, en unidades ![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542301_1.png)
+
+– *E* es el valor de referencia de consumo eléctrico eficiente aplicable para un producto determinado contemplado en el anexo II, expresado en ![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542302_1.png)
+
+– *AO<sub>t</sub>* es la producción real en el año t.
+
+b) Cuando los valores de referencia de consumo eléctrico eficiente que figuran en la tabla 1 del anexo II no se apliquen a los productos fabricados por el beneficiario, la ayuda máxima ![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542303_1.png) que podrá abonarse por instalación por los costes incurridos en el año t será igual a:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542304_1.png)
+
+Donde:
+
+– *A<sub>i</sub>* es intensidad de la ayuda, expresada como fracción, contemplado en el anexo II.
+
+– *C<sub>t</sub>* es el factor de emisión de CO<sub>2</sub> o factor de emisión de CO<sub>2</sub> basado en el mercado aplicable en el año t, contemplado en el anexo II, y expresado en ![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542305_1.png)
+
+– P<sub>*t–1*</sub> es el precio a plazo de los derechos de emisión de la UE en el año t-1, determinado según la definición recogida en el anexo III, en unidades ![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542306_1.png)
+
+– *EF* el valor de referencia del consumo de electricidad alternativa, definido en el anexo II.
+
+– *AEC<sub>t</sub>* es el consumo real de electricidad en el año t expresado en *MWh.*
+
+2\. El importe final de la ayuda se calculará teniendo en cuenta la producción y consumo eléctrico reales del año para el que se concede la misma, sin que dicho importe final, en ningún caso, supere el importe máximo resultante determinado conforme al apartado primero.
+
+3\. Si una instalación fabrica productos a los que se aplica un valor de referencia de consumo eléctrico eficiente enumerado en el anexo II, así como otros productos a los que se aplica el valor de referencia del consumo de electricidad alternativa, el consumo eléctrico de cada producto debe repartirse en función del tonelaje correspondiente de producción de cada producto.
+
+4\. Si una instalación fabrica productos de los sectores subvencionables enumerados en el anexo I, así como otros productos no subvencionables, el importe máximo de la ayuda que podrá abonarse debe calcularse únicamente sobre la base de los productos subvencionables.
+
+5\. La intensidad de la ayuda se definirá en la orden anual de convocatoria conforme a los siguientes criterios:
+
+a) La intensidad de la ayuda será proporcionada y limitada al porcentaje de los costes de las emisiones indirectas en que haya incurrido el beneficiario establecido en el anexo II.
+
+b) Adicionalmente, las convocatorias anuales podrán prever la ampliación del importe de la subvención de los costes de emisiones indirectas más allá del porcentaje definido en dicho anexo II, de acuerdo al apartado 31 las nuevas Directrices. Por ende, para aquellos beneficiarios que, una vez percibida la ayuda ![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542307_1.png), ésta no sea suficiente para garantizar una protección adecuada contra el riesgo de fuga de carbono, la intensidad de la ayuda podrá incrementarse hasta alcanzar el límite porcentual del valor añadido bruto, conforme al cálculo siguiente:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542308_1.png)
+
+Donde:
+
+– ![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542309_1.png) es la ayuda adicional por riesgo de fuga de carbono.
+
+– ![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542310_1.png) son los costes subvencionables de emisiones indirectas, expresado en euros, que el beneficiario soporta, calculado según el apartado primero.
+
+– ![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542311_1.png) es la intensidad de ayuda máxima, definida en el apartado primero.
+
+– ![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542312_1.png) es el máximo porcentual del valor añadido bruto establecido en el apartado 1.c) del anexo II.
+
+– *VAB<sub>t</sub>* es el valor añadido bruto de la empresa en su instalación a nivel bruto, excluidas las depreciaciones de valor. Se calculará con remisión a los conceptos del Plan General de Contabilidad, aprobado por el Real Decreto 1514/2007, de 16 de noviembre, como el volumen de negocios, más la producción capitalizada, más otros ingresos de explotación, más o menos las variaciones de existencias, menos las compras de bienes y servicios excluyendo los costes de personal, menos otros impuestos sobre productos ligados al volumen de negocios que no sean deducibles y menos los derechos e impuestos vinculados a la producción. Alternativamente, puede calcularse a partir del excedente bruto de explotación mediante la adición de los costes de personal. Se excluyen del valor añadido tanto los ingresos y gastos clasificados como financieros o extraordinarios en la contabilidad empresarial. Si el valor añadido bruto es negativo, se considerará nulo.
+
+c) La aplicación, en su caso, del apartado anterior estará sujeta a los siguientes criterios:
+
+1.º Una dotación presupuestaria suficiente para alcanzar previamente la intensidad de la ayuda definida en el apartado a) para todos los beneficiarios.
+
+2.º La cantidad adicional de ayuda ![imagen](https://www.boe.es/datos/imagenes/disp/2022/106/7190_11542313_1.png) , se prorrateará entre los beneficiarios que tengan derecho a ella, de modo proporcional a su coste subvencionable, con arreglo al apartado 32 de las nuevas Directrices.
+
+## CAPÍTULO II — Procedimiento de Gestión de Ayudas
+
+### Artículo 9. Órganos competentes para convocar, instruir y resolver el procedimiento de concesión y órgano responsable del seguimiento de las ayudas.
+
+1\. La persona titular del Ministerio de Industria, Comercio y Turismo será la competente para convocar y resolver el procedimiento de concesión de las ayudas reguladas en este real decreto, sin perjuicio de la posibilidad de delegación del ejercicio de esta competencia.
+
+2\. El órgano competente para ordenar e instruir el procedimiento de concesión de las ayudas será la Dirección General de Industria y de la Pequeña y Mediana Empresa.
+
+3\. A efectos de lo previsto en el artículo 88.3 del Reglamento de la Ley 38/2003, de 17 de noviembre, aprobado por Real Decreto 887/2006, de 21 de julio, el órgano encargado del seguimiento de las ayudas concedidas será la Dirección General de Industria y de la Pequeña y Mediana Empresa.
+
+### Artículo 10. Convocatorias de ayudas e inicio del procedimiento.
+
+1\. Las ayudas se articularán a través de convocatorias anuales.
+
+2\. El procedimiento para la concesión de dichas ayudas se iniciará de oficio, mediante convocatoria aprobada por el órgano competente, el Ministerio de Industria, Comercio y Turismo.
+
+### Artículo 11. Tramitación electrónica.
+
+1\. De acuerdo con lo establecido en el artículo 14.2.a) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los solicitantes estarán obligados a relacionarse a través de medios electrónicos para la realización de todos los trámites del procedimiento, de forma que las solicitudes, comunicaciones y demás documentación exigible relativa a los proyectos que concurran a estas ayudas, serán presentadas en la sede electrónica asociada al Ministerio de Industria, Comercio y Turismo.
+
+2\. El solicitante podrá acceder, con el certificado utilizado para la presentación de la solicitud, a dicha sede electrónica asociada, donde podrá consultar los documentos presentados.
+
+3\. Los interesados, debidamente identificados, podrán consultar los actos del procedimiento y efectuar la presentación de la documentación adicional que pudiera ser requerida por el órgano actuante.
+
+4\. La publicación de las propuestas de resolución, provisional y definitiva, así como la publicación de las resoluciones de desestimación, de concesión y sus posibles modificaciones y demás actos del procedimiento, tendrá lugar en la sede electrónica asociada del Ministerio de Industria, Comercio y Turismo y surtirá todos los efectos de la notificación practicada según lo dispuesto en el artículo 45.1.b) de la Ley 39/2015, de 1 de octubre.
+
+5\. En aquellos casos en los que tuviera lugar un procedimiento de reintegro, las comunicaciones relacionadas con dicho procedimiento se realizarán bajo la modalidad de notificación por comparecencia electrónica, mediante la puesta a disposición del interesado a través de la Dirección Electrónica Habilitada Única y en la sede electrónica asociada del Ministerio de industria, Comercio y Turismo, en los términos establecidos en el artículo 43 de la Ley 39/2015, de 1 de octubre.
+
+6\. En aquellas fases del procedimiento en las que, en aras de la simplificación administrativa, se permita la presentación de declaraciones responsables en lugar de documentación específica, dichas declaraciones deberán aportarse en formato electrónico firmado electrónicamente por el declarante, en los términos previstos en el artículo 69 de la Ley 39/2015, de 1 de octubre, o como parte de la solicitud firmada electrónicamente.
+
+7\. Los solicitantes no estarán obligados a presentar los documentos que hayan sido aportados anteriormente por el interesado a cualquier Administración, de conformidad con lo previsto por el artículo 28.3 de la Ley 39/2015, de 1 de octubre, siempre y cuando no hayan transcurrido más de cinco años desde la finalización del procedimiento al que correspondan. En los supuestos de imposibilidad material de obtener el documento, el órgano competente requerirá al solicitante su presentación, o, en su defecto, la acreditación por otros medios de los requisitos a que se refiere el documento.
+
+8\. Los interesados, podrán aportar cualquier otro documento que estimen conveniente en cualquier fase del procedimiento anterior al trámite de audiencia, según lo previsto en el artículo 53.1.e) de la Ley 39/2015, de 1 de octubre, a través de la Dirección Electrónica Habilitada Única y en la sede electrónica asociada del Ministerio de Industria, Comercio y Turismo.
+
+9\. Los formularios, los formatos con las declaraciones responsables y los demás documentos electrónicos a cumplimentar en las diferentes fases del procedimiento estarán disponibles en el Portal de Ayudas del Ministerio de Industria, Comercio y Turismo y deberán ser obligatoriamente utilizados cuando proceda.
+
+### Artículo 12. Representación.
+
+1\. Las personas físicas que realicen la firma o la presentación electrónica de documentos en representación de las personas jurídicas solicitantes o beneficiarias de las ayudas deberán cumplir:
+
+a) Acreditar individualmente que ostenta la representación necesaria para el acto, o bien,
+
+b) En el caso de representación mancomunada, aportar una copia digitalizada de la solicitud firmada electrónicamente por todos los representantes mancomunados, o bien,
+
+c) En el supuesto que sea titular del órgano de representación de la entidad conforme a sus estatutos, incorporar tanto una copia digitalizada de los mismos, como una declaración responsable firmada electrónicamente por el secretario de la entidad donde se le identifique como titular del órgano de representación, excepto que el nombramiento se hubiera publicado en el diario oficial, en cuyo caso se aportará copia digitalizada del mismo.
+
+2\. Con objeto de fomentar la simplificación de cargas administrativas, así como la digitalización en el procedimiento, será válido el apoderamiento otorgado para la realización de trámites y actuaciones a través de la sede electrónica de la Agencia Estatal de Administración Tributaria.
+
+3\. El incumplimiento de esta obligación, de no subsanarse en el plazo de 10 días, dará lugar a que el órgano gestor tenga por desistida la solicitud, de acuerdo con lo establecido en el 68.1 de la Ley 39/2015, de 1 de octubre.
+
+### Artículo 13. Plazo de presentación de solicitudes.
+
+1\. El plazo de presentación de solicitudes y de la correspondiente documentación será de veinte días hábiles, contados a partir del día siguiente al de la publicación del extracto de la convocatoria en el «Boletín Oficial del Estado», salvo que ésta determine otra fecha de inicio.
+
+2\. La presentación de las solicitudes fuera del plazo establecido dará lugar a su inadmisión.
+
+### Artículo 14. Formalización y presentación de solicitudes.
+
+1\. Las solicitudes de las ayudas y el resto de documentación a aportar seguirán el modelo establecido y disponible en la sede electrónica asociada al Ministerio de Industria, Comercio y Turismo, donde se dispondrán los medios electrónicos de ayuda necesarios.
+
+2\. La documentación requerida, la cual deberá estar en vigor y acreditada previamente a la finalización del periodo de presentación de solicitudes, constarán de los siguientes elementos:
+
+a) Administrativos:
+
+1.º Cuestionario electrónico de solicitud: fichero generado desde los medios electrónicos especificados en la convocatoria correspondiente, que incluirá el nombre de la persona jurídica solicitante, así como la instalación de su propiedad para la que se solicita la ayuda y el sector o subsector en que opera, los productos fabricados y el código NACE o Prodcom correspondiente.
+
+2.º Acreditación válida del poder del firmante individual o firmantes mancomunados de la solicitud.
+
+b) Técnicos:
+
+1.º Para cada instalación con que cuente la empresa, memoria explicativa de los costes de emisiones indirectas en relación con las actividades o productos incluidos en el ámbito de aplicación del presente real decreto, durante el año anterior para el que se convoca la ayuda.
+
+2.º Justificación verificada por un verificador acreditado por la Entidad Nacional de Acreditación (ENAC) o cualquier otro Organismo Nacional de Acreditación designado de acuerdo a lo establecido en el Reglamento (CE) n.º 765/2008 del Parlamento Europeo y del Consejo, de 9 de julio de 2008, por el que se establecen los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos y por el que se deroga el Reglamento (CEE) n.º 339/93, en el ámbito del sistema de comercio de derechos de emisión, de la producción y el consumo eléctrico reales del año precedente al que se convoca la ayuda, así como, tanto el porcentaje del consumo eléctrico anual a partir de fuentes sin emisiones de carbono, como el instrumento o inversión aplicado para alcanzar el nivel indicado, conforme al artículo 5 del presente real decreto. En la citada justificación deberá desglosarse el volumen de producción real y el método para su cálculo, de tal forma que permita la verificación de la comercialización de la producción a partir de los estados contables de la entidad beneficiaria. Igualmente, en los datos relativos al consumo eléctrico, deberá indicarse la forma en que se ha realizado su cálculo y su imputación a la producción declarada.
+
+3.º Declaración responsable que asegure el compromiso de cumplir con las obligaciones presentes y futuras establecidas en el artículo 5 del presente real decreto, conforme a lo indicado en el artículo 21. Respecto a los obligados por el artículo 5.2, se deberá señalar la opción elegida entre las tres opciones posibles para su cumplimiento, así como el plan de ejecución con el calendario específico de las inversiones para el cumplimiento de las actuaciones en las obligaciones.
+
+4.º Cuando la orden anual de convocatoria prevea la aplicación del artículo 8, apartado 5.b) del presente real decreto, las empresas solicitantes deberán aportar junto al resto de documentación requerida, un informe verificado por un auditor de cuentas inscrito en el Registro Oficial de Auditores de Cuentas (ROAC) que certifique el cálculo correcto del valor añadido bruto.
+
+3\. La documentación a presentar de los elementos técnicos relacionados en el apartado 2.b) de este artículo, tendrá en cuenta exclusivamente las actividades desarrolladas que se consideren beneficiarias del presente mecanismo de compensación de costes indirectos.
+
+4\. Los interesados presentarán la solicitud de ayuda y el resto de la documentación en la sede electrónica asociada al Ministerio de Industria, Comercio y Turismo, con firma electrónica de la persona que tenga poder de representación suficiente.
+
+5\. La solicitud contendrá el consentimiento expreso de los interesados al órgano concedente para recabar los certificados positivos de encontrarse al corriente en el cumplimiento de sus obligaciones tributarias y frente a la Seguridad Social, a emitir por la Agencia Estatal de la Administración Tributaria y por la Tesorería General de la Seguridad Social, según lo dispuesto en el artículo 95.1 k) de la Ley 58/2003, de 17 de diciembre, General Tributaria. No obstante, el solicitante podrá denegar expresamente su consentimiento, debiendo aportar dicha certificación cuando le sea requerida.
+
+### Artículo 15. Comisión de evaluación.
+
+1\. Una comisión de evaluación de las solicitudes admitidas emitirá informe en el que se concrete el resultado de la evaluación efectuada, según lo establecido en el artículo 24.4 de la Ley 38/2003, de 17 de noviembre.
+
+2\. Dicha comisión de evaluación estará presidida por el Director General de Industria y de la Pequeña y Mediana Empresa. Su composición se completará con los siguientes vocales:
+
+a) Pertenecientes a la Dirección General de Industria y de la Pequeña y Mediana Empresa del Ministerio de Industria, Comercio y Turismo, los titulares de la Subdirección General de Políticas Sectoriales Industriales, de la Subdirección General de Áreas y Programas Industriales y de la Subdirección General de Apoyo a la Pequeña y Mediana Empresa, así como un representante con rango al menos de Subdirector General o funcionario que ocupe un nivel 30, por cada uno de los siguientes órganos directivos: Gabinete del Ministro, Gabinete de la Subsecretaría del Departamento, Gabinete de la Secretaría General de Industria y de la Pequeña y Mediana Empresa.
+
+b) Pertenecientes al Ministerio de Asuntos Económicos y Transformación Digital, un representante con rango al menos de Subdirector General o asimilado, del Gabinete de la Secretaria de Estado de Economía y Apoyo a la Empresa o de la Dirección General de Política Económica.
+
+c) Pertenecientes al Ministerio para la Transición Ecológica y el Reto Demográfico, un representante con rango al menos de Subdirector General o asimilado, por cada uno de los siguientes órganos directivos: Gabinete de la Secretaría de Estado de Energía o de la Dirección General de Política Energética y Minas y de la Oficina Española de Cambio Climático.
+
+d) Igualmente, formará parte de la comisión de evaluación como vocal, el representante de la comunidad autónoma a la que, en el momento de la evaluación de las solicitudes le corresponda la representación del resto de las comunidades autónomas conforme a lo establecido en los acuerdos entre la Administración General del Estado y las comunidades autónomas para el seguimiento de los asuntos europeos en el área de medio ambiente.
+
+e) Actuará como Secretario un funcionario que ocupe un puesto de trabajo de, al menos nivel 26, de la Dirección General de Industria y de la Pequeña y Mediana Empresa, con voz, pero sin voto, de acuerdo con lo previsto en los artículos 19.4 y 20.2.c) respectivamente de la Ley 40/2015, de 1 de octubre.
+
+3\. Con objeto de agilizar la gestión de la concesión de las ayudas, la comisión de evaluación designará un comité ejecutivo permanente, encargado de resolver, en nombre de la comisión de evaluación, las alegaciones que puedan producirse como consecuencia de las propuestas de resolución provisional, compuesto por los siguientes miembros de la propia comisión de evaluación: el Presidente, el Secretario, el Subdirector General de Políticas Sectoriales Industriales, el Subdirector General de Áreas y Programas Industriales y el vocal asesor de la Subsecretaría del Ministerio de Industria, Comercio y Turismo.
+
+4\. El nombramiento del Secretario de la comisión de evaluación y, en su caso, del comité ejecutivo, recaerán en el mismo funcionario.
+
+5\. El régimen jurídico de la citada comisión será el establecido en el artículo 15, de la sección 3.ª del Capítulo II de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+6\. La citada comisión contará para su funcionamiento con los medios personales y materiales existentes en la Dirección General de Industria y de la Pequeña y Mediana Empresa, órgano administrativo al que está adscrita.
+
+### Artículo 16. Instrucción del procedimiento.
+
+1\. El órgano instructor realizará, de oficio, cuantas actuaciones estime necesarias para la determinación, conocimiento y comprobación de los datos en virtud de los cuales debe formularse la propuesta de resolución, de acuerdo con lo establecido en el artículo 24 de la Ley 38/2003, de 17 de noviembre.
+
+2\. El órgano instructor del procedimiento procederá a la:
+
+a) Realización de una evaluación previa, con objeto de asegurar el cumplimiento de los requisitos establecidos en la convocatoria de desarrollo del presente real decreto.
+
+b) Admisión de las solicitudes, conforme a los requerimientos del Capítulo I, o requerimiento de subsanación de la solicitud, si la documentación aportada no reuniera los requisitos exigidos, notificando al interesado para que, en el plazo no superior a diez días hábiles no prorrogables, subsane la falta o acompañe los documentos preceptivos, con advertencia de que, si no lo hiciese, se le tendrá por desistido de su solicitud, de acuerdo con lo establecido en el artículo 68.1. de la Ley 39/2015, de 1 de octubre.
+
+c) Comunicación de las solicitudes admitidas a la Comisión de evaluación, a la que se refiere el artículo 15, la cual, procederá a la evaluación y cuantificación de las ayudas a los solicitantes, de acuerdo con lo prevenido en los artículos 6, 7 y 8. Una vez efectuadas la evaluación y la cuantificación de las solicitudes, por la Comisión de evaluación se elaborará el informe correspondiente que enviará al órgano instructor.
+
+d) Formulación de la propuesta de resolución provisional debidamente motivada, basándose en dicho informe, según lo establecido en el artículo 24.4 de la Ley 38/2003, de 17 de noviembre, que constará de relación de solicitudes estimadas y cuantía de las ayudas y relación de solicitudes desestimadas.
+
+3\. Dicha propuesta será publicada en la sede electrónica asociada al Ministerio de Industria, Comercio y Turismo a los efectos de notificación a todos los interesados, y se concederá un plazo de diez días hábiles para presentar alegaciones contados a partir del siguiente a la publicación.
+
+4\. Transcurrido dicho plazo y examinadas las alegaciones aducidas en su caso por los interesados, el órgano instructor realizará la propuesta de resolución definitiva con la relación de solicitudes y la cuantía de las ayudas, cuando ésta proceda.
+
+5\. De acuerdo con el artículo 24.5 de la Ley 38/2003, de 17 de noviembre, la indicada propuesta de resolución definitiva se publicará en la Dirección Electrónica Habilitada Única, y, de forma complementaria, en la sede electrónica asociada del Ministerio de Industria, Comercio y Turismo y surtirá todos los efectos de la notificación practicada a los interesados que hayan sido propuestos como beneficiarios, para que en el plazo de diez días hábiles comuniquen su aceptación o renuncia. En caso de aceptación, deberá acreditar también en dicho plazo el cumplimiento de las condiciones siguientes:
+
+a) Cumplimiento de obligaciones tributarias y frente a la Seguridad Social, mediante certificado aportado por el beneficiario, en caso de denegación del consentimiento expreso de verificación por el órgano instructor, cuando los certificados aportados junto a la solicitud hubieran perdido su vigencia.
+
+b) Aportar por medio de declaración responsable del solicitante en la que manifieste:
+
+1.º No tener deudas por reembolso de ayudas con la Administración.
+
+2.º Estar al corriente de pago de las obligaciones de reembolso de cualesquiera otros préstamos o anticipos concedidos anteriormente con cargo a los Presupuestos Generales del Estado.
+
+3.º No estar incurso en ninguna de las prohibiciones a las que se refiere el artículo 13.2 de la Ley 38/2003, de 17 de noviembre.
+
+c) Declaración responsable de ayudas obtenidas o que se hayan solicitado para los mismos costes elegibles, a instituciones nacionales o comunitarias. Dicha declaración deberá ser actualizada en cualquier momento del procedimiento, comunicando al órgano instructor la obtención de las mismas, a efectos del cumplimiento de lo dispuesto en el artículo 7 del presente real decreto.
+
+6\. Se entiende que renuncian a la ayuda tanto aquellos solicitantes que no hayan comunicado la aceptación expresa, como aquellos que no hayan presentado declaración responsable o no acrediten el cumplimiento de las condiciones exigidas en dicho plazo de diez días hábiles según lo previsto en el anterior apartado 5. Si el cumplimiento de estas condiciones ya le constara al órgano instructor de facto, no habría que acreditarlas de nuevo.
+
+7\. Las propuestas de resolución provisional y definitiva no crean derecho alguno a favor del beneficiario propuesto frente a la Administración, mientras no se haya publicado la resolución de concesión.
+
+### Artículo 17. Resolución.
+
+1\. El órgano competente resolverá el procedimiento mediante la confirmación, en su caso, de la propuesta de resolución definitiva.
+
+2\. De acuerdo con el artículo 26 de la Ley 38/2003, de 17 de noviembre, la resolución dictada en el procedimiento se publicará en la sede electrónica asociada del Ministerio de Industria, Comercio y Turismo y surtirá todos los efectos de la notificación practicada a los interesados.
+
+3\. La resolución contendrá, entre otras, las obligaciones estipuladas en el artículo 5 del presente real decreto que el beneficiario deberá cumplir como consecuencia de la concesión del presente mecanismo de compensación.
+
+4\. La resolución, que será motivada, pone fin a la vía administrativa y será publicada en dicha sede electrónica en el plazo máximo de seis meses contados desde la publicación del extracto de la correspondiente convocatoria, salvo que ésta indique otro plazo.
+
+5\. El vencimiento del mencionado plazo sin que se haya dictado y publicado resolución expresa, legitima a los interesados para entender desestimada la solicitud de ayuda, conforme a lo establecido en el artículo 25.5 de la Ley 38/2003, de 17 de noviembre.
+
+6\. Las ayudas concedidas se publicarán en la Base de Datos Nacional de Subvenciones de acuerdo con lo estipulado en el artículo 30 del Reglamento de la Ley 38/2003, de 17 de noviembre.
+
+### Artículo 18. Recursos.
+
+1\. La resolución del procedimiento pone fin a la vía administrativa y contra la misma cabe interponer recurso contencioso-administrativo ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional en el plazo de dos meses a contar desde el día siguiente a la fecha de su publicación.
+
+2\. Sin perjuicio de lo anterior, podrá ser recurrida potestativamente en reposición en el plazo de un mes contado desde el día siguiente a la fecha de su publicación ante el mismo órgano que la dictó, de acuerdo con lo dispuesto en el artículo 124 de la Ley 39/2015, de 1 de octubre. No se podrá interponer recurso contencioso-administrativo hasta que sea resuelto expresamente o se haya producido la desestimación presunta del recurso de reposición interpuesto.
+
+3\. La interposición de los recursos de reposición podrá realizarse ante el Registro Electrónico del Ministerio de Industria, Comercio y Turismo en los términos expresados en esta norma y de acuerdo con lo dispuesto en la Orden IET/1902/2012, de 6 de septiembre, por la que se crea y regula el Registro Electrónico del Ministerio de Industria, Comercio y Turismo.
+
+### Artículo 19. Garantías y pago.
+
+1\. No se establecerán garantías a los beneficiarios.
+
+2\. Se ordenará el pago de las ayudas, una vez dictada la resolución de concesión y siempre que el régimen de concesión haya sido autorizado por la Comisión Europea.
+
+### Artículo 20. Publicidad.
+
+1\. La publicidad de las ayudas concedidas se llevará a cabo según lo dispuesto en el artículo 18 de la Ley 38/2003, de 17 de noviembre.
+
+2\. Asimismo, de acuerdo con lo establecido en el artículo 10 bis, apartado 6, párrafos primero y segundo, de la Directiva 2003/87/CE, del Parlamento Europeo y del Consejo de 13 de octubre, tras la modificación efectuada en los artículos 19 bis y 19 ter de la Directiva (UE) 2018/410 del Parlamento Europeo y del Consejo, de 14 de marzo de 2018:
+
+a) El Gobierno procurará que el importe de las ayudas concedidas anualmente de conformidad con la disposición adicional sexta de la Ley 1/2005, de 9 de marzo, no supere el 25 por ciento del total de los ingresos anuales obtenidos por España procedentes de la subasta de derechos de emisión.
+
+b) En el primer trimestre de cada año, el Ministerio de Industria, Comercio y Turismo pondrá a disposición del público, en una forma fácilmente accesible, la información referente al importe total de las ayudas concedidas de conformidad con la disposición adicional sexta de la Ley 1/2005, de 9 de marzo, desglosado por sectores y subsectores beneficiarios. Esta información quedará recogida, además, en la Base de Datos Nacional de Subvenciones, de conformidad con los artículos 18 y 20 de la Ley 38/2003, de 17 de noviembre.
+
+c) Anualmente, cuando el importe de las ayudas concedidas supere el 25 por ciento del total de los ingresos anuales obtenidos por España procedentes de la subasta de derechos de emisión, el Ministerio de Industria, Comercio y Turismo y el Ministerio para la Transición Ecológica y el Reto Demográfico elaborarán conjuntamente y publicarán un informe que justifique los motivos por los que se superó dicho importe. El informe incluirá, al menos, la siguiente información:
+
+1.º Información pertinente sobre los precios de la electricidad en el año de referencia para los grandes consumidores industriales que se beneficien de las ayudas, sin perjuicio de las exigencias relativas a la protección de la información confidencial.
+
+2.º Información sobre si se han tenido debidamente en cuenta otras medidas para reducir de manera sostenible los costes indirectos del carbono a medio y largo plazo.
+
+3\. En las publicaciones, actividades de difusión, páginas web y otros medios de la instalación subvencionada, deberá mencionarse al Ministerio de Industria, Comercio y Turismo como entidad financiadora.
+
+### Artículo 21. Comprobación y control.
+
+1\. Los beneficiarios dispondrán, en cada primer semestre de los tres años posteriores y consecutivos a la concesión de la ayuda, de veinte días hábiles para presentar la documentación mediante la aplicación específica habilitada en la sede electrónica asociada al Ministerio de Industria, Comercio y Turismo donde podrá acceder con el certificado con el que presentó la solicitud. El órgano instructor y de seguimiento, para validar el cumplimiento, requerirá:
+
+a) Declaración responsable del cumplimiento de las obligaciones establecidas en el artículo 5 del presente real decreto.
+
+b) Asimismo, aquellos beneficiarios sujetos a las obligaciones del artículo 5.2, deberán presentar, en la aplicación habilitada de la sede electrónica, adicionalmente:
+
+1.º Documentación explicativa de las actuaciones desarrolladas y en su caso, actualización del plan de ejecución del artículo 14.2.b).3.º del presente real decreto con el calendario específico de implementación por parte del beneficiario para cumplir con las obligaciones en función de la opción elegida.
+
+2.º Además, se requerirá, según la opción elegida por el beneficiario de entre las tres posibles, la siguiente documentación:
+
+i. Artículo 5.2.a): última auditoria energética realizada y un informe de auditor de cuentas donde se señalen las inversiones relevantes realizadas por la empresa y contenidas en dicha auditoría energética, consideradas de costes proporcionados.
+
+ii. Artículo 5.2.b): informe de un auditor de cuentas con el porcentaje de inversión realizada en relación a la ayuda otorgada.
+
+iii. Artículo 5.2.c): informe verificado que acredite el porcentaje del consumo anual de electricidad a partir de fuentes sin emisiones de carbono. Asimismo, se desglosará dicho valor entre origen propio y externo de la instalación del beneficiario, de modo que asegure un umbral total superior al indicado en el artículo 5.2.c).
+
+2\. Adicionalmente, el órgano instructor requerirá el último informe en vigor de auditoria energética para verificar que los beneficiarios cumplen con la obligación de realizar una auditoría energética a tenor del artículo 8 de la Directiva 2012/27/UE del Parlamento Europeo y del Consejo, ya sea a través de una auditoría energética específica, como parte de un sistema de gestión de energía o de un sistema de gestión ambiental certificado semejante al Sistema de Gestión y Auditoría Medioambientales de la UE (en adelante, EMAS) o equivalente.
+
+3\. Asimismo, el beneficiario estará sometido a aquellas actuaciones de comprobación que lleve a cabo el órgano gestor como responsable del seguimiento, tanto en términos de las actuaciones subvencionadas como de las obligaciones establecidas en el artículo 5, así como al control financiero de la Intervención General de la Administración Estado y al control fiscalizador del Tribunal de Cuentas.
+
+4\. El órgano instructor y de seguimiento de las ayudas podrá requerir en cualquier momento documentación justificativa adicional que permita acreditar el cumplimiento de las obligaciones descritas en el presente real decreto.
+
+5\. Las obligaciones y compromisos se verán renovados con cada nueva concesión de ayuda, dando lugar al inicio de su correspondiente nuevo periodo de tres años de comprobaciones del cumplimiento de las obligaciones.
+
+### Artículo 22. Reintegros e incumplimientos.
+
+1\. Procederá el reintegro de las cantidades percibidas y la exigencia del interés de demora desde el momento del pago de la subvención, en los casos y en los términos previstos por el artículo 37 de la Ley 38/2003, de 17 de noviembre.
+
+2\. El incumplimiento de los requisitos establecidos en este real decreto y en las demás normas aplicables, así como de las obligaciones y condiciones que, en su caso, se hayan establecido en la correspondiente resolución de concesión, dará lugar, conforme a lo dispuesto en el título II, capítulo I, de la Ley 38/2003, de 17 de noviembre, y en el título III de su Reglamento, a la obligación de reintegrar las ayudas percibidas y los intereses de demora correspondientes.
+
+3\. En todo caso, el reintegro será de la totalidad de la ayuda percibida más los intereses de demora en los siguientes casos:
+
+a) El falseamiento, la inexactitud o la omisión en los datos suministrados por el beneficiario que hayan servido de base para la concesión.
+
+b) La resistencia, excusa, obstrucción o negativa a las actuaciones de comprobación de cualquier extremo contenido en la documentación que aporte el beneficiario.
+
+### Artículo 23. Infracciones y sanciones.
+
+En materia de infracciones administrativas y sanciones serán de aplicación las previsiones recogidas en el título IV de Ley 38/2003, de 17 de septiembre, General de Subvenciones.
+
+### Disposición adicional única. Normativa aplicable.
+
+Las ayudas a que se refiere este real decreto se regirán, además de por lo dispuesto en el mismo, por lo establecido en la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero; la Ley 38/2003, de 17 de noviembre, General de Subvenciones y su Reglamento, aprobado por Real Decreto 887/2006, de 21 de julio; así como en la Ley 47/2003, de 26 de noviembre, General Presupuestaria; Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y las demás disposiciones que resulten de aplicación.
+
+### Disposición final primera. Título competencial.
+
+El real decreto se dicta al amparo del artículo 149.1.13.ª y 23.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica y de legislación básica sobre protección del medio ambiente.
+
+### Disposición final segunda. Incorporación del derecho de la Unión Europea.
+
+El artículo 20 de este real decreto incorpora al ordenamiento jurídico español la Directiva (UE) 2018/410 del Parlamento Europeo y del Consejo, de 14 de marzo de 2018, por la que se modifica la Directiva 2003/87/CE para intensificar las reducciones de emisiones de forma eficaz en relación con los costes y facilitar las inversiones en tecnologías hipocarbónicas, así como la Decisión (UE) 2015/1814.
+
+### Disposición final tercera. Modificación del Real Decreto 1106/2020, de 15 de diciembre, por el que se regula el Estatuto de los consumidores Electrointensivos.
+
+El Real Decreto 1106/2020, de 15 de diciembre, por el que se regula el Estatuto de los consumidores electrointensivos, queda modificado como sigue:
+
+Uno. El apartado 1 del artículo 11 queda redactado del siguiente modo:
+
+> «1. Los consumidores electrointensivos que se acojan a cualquiera de los mecanismos regulados en el presente real decreto deberán disponer, en el plazo máximo de dos años desde la obtención de su certificado de consumidor electrointensivo de un sistema de Gestión de la Energía auditado y certificado según la norma UNE-EN ISO 50001:2018 o aquella que la sustituya en el futuro.»
+
+Dos. El apartado 2 del artículo 12, queda formulado del siguiente modo:
+
+> «2. Esta obligación se deberá acreditar en el plazo de tres años desde la fecha de entrada en vigor del mecanismo de cobertura de riesgos o desde la obtención de la certificación de consumidor electrointensivo, si ésta fuera posterior. Excepcionalmente, se podrá acreditar en un plazo superior cuando así se justifique para el cumplimiento de contratos de suministro existentes antes de la entrada en vigor del presente real decreto.»
+
+### Disposición final cuarta. Desarrollo y aplicación.
+
+Se podrán modificar los anexos de este real decreto, bien por la necesidad de adaptarlos a nuevos requerimientos técnicos o bien como consecuencia de cambios operados en la normativa de la Unión Europea, mediante Orden conjunta de los Ministerios de Industria, Comercio y Turismo; Asuntos Económicos y Transformación Digital; y para la Transición Ecológica y el Reto Demográfico.
+
+### Disposición final quinta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 3 de mayo de 2022.
+
+FELIPE R.
+
+El Ministro de la Presidencia, Relaciones con las Cortes y Memoria Democrática,
+
+FÉLIX BOLAÑOS GARCÍA
+
+## ANEXO I — Sectores que se consideran expuestos a un riesgo real de fuga de carbono debido a los costes de las emisiones indirectas
+
+Acorde al anexo I de la Comunicación de la Comisión Europea sobre las Directrices relativas a determinadas medidas de ayuda estatal en el contexto del régimen de comercio de derechos de emisión de gases de efecto invernadero después de 2021 (2020/C 317/04), así como a la Comunicación de la Comisión que complementa las Directrices relativas a determinadas medidas de ayuda estatal en el contexto del régimen de comercio de derechos de emisión de gases de efecto invernadero después de 2021 (2021/C 528/01) y la Comunicación de la Comisión Europea que modifica las Directrices relativas a determinadas medidas de ayuda estatal en el contexto del régimen de comercio de derechos de emisión de gases de efecto invernadero después de 2021 (C/2026/196), únicamente podrán concederse ayudas por los costes de emisiones indirectas a la instalación de un beneficiario con arreglo al apartado 1 del artículo 4 del presente real decreto, si opera en uno de los siguientes sectores o subsectores:
+
+<table class="tabla">
+<caption>
+<p class="centro_redonda">Cuadro 1. Sectores y subsectores incluidos previamente en el mecanismo de compensación</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla"> </th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Código NACE</p>
+<p class="cabeza_tabla">(rev. 2)</p>
+</th>
+<th class="cabeza_tabla">Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_coma">1</td>
+<td class="cuerpo_tabla_der">14.11</td>
+<td class="cuerpo_tabla_izq">Confección de prendas de vestir de cuero.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma">2</td>
+<td class="cuerpo_tabla_der">24.42</td>
+<td class="cuerpo_tabla_izq">Producción de aluminio.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma">3</td>
+<td class="cuerpo_tabla_der">20.13</td>
+<td class="cuerpo_tabla_izq">Fabricación de otros productos básicos de química inorgánica.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma">4</td>
+<td class="cuerpo_tabla_der">24.43</td>
+<td class="cuerpo_tabla_izq">Producción de plomo, zinc y estaño.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma">5</td>
+<td class="cuerpo_tabla_der">17.11</td>
+<td class="cuerpo_tabla_izq">Fabricación de pasta papelera.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma">6</td>
+<td class="cuerpo_tabla_der">17.12</td>
+<td class="cuerpo_tabla_izq">Fabricación de papel y cartón.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma">7</td>
+<td class="cuerpo_tabla_der">24.10</td>
+<td class="cuerpo_tabla_izq">Fabricación de productos básicos de hierro, acero y ferroaleaciones.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma">8</td>
+<td class="cuerpo_tabla_der">19.20</td>
+<td class="cuerpo_tabla_izq">Refino de petróleo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma">9</td>
+<td class="cuerpo_tabla_der">24.44</td>
+<td class="cuerpo_tabla_izq">Producción de cobre.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma">10</td>
+<td class="cuerpo_tabla_der">24.45</td>
+<td class="cuerpo_tabla_izq">Producción de otros metales no férreos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma">11</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq">Los siguientes subsectores dentro del sector de los plásticos (20.16):</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma"> </td>
+<td class="cuerpo_tabla_der">20.16.40.15</td>
+<td class="cuerpo_tabla_izq">Polietilenglicoles y los demás poliéter-alcoholes, en formas primarias.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma">12</td>
+<td class="cuerpo_tabla_der">24.51</td>
+<td class="cuerpo_tabla_izq">Todas las categorías de productos en el sector de la fundición de hierro.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma">13</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq">Los siguientes subsectores dentro del sector de la fibra de vidrio (23.14):</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma" rowspan="2"> </td>
+<td class="cuerpo_tabla_der">23.14.12.10</td>
+<td class="cuerpo_tabla_izq">Esteras de fibra de vidrio.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der">23.14.12.30</td>
+<td class="cuerpo_tabla_izq">Velos de fibra de vidrio.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma">14</td>
+<td class="cuerpo_tabla_der"> </td>
+<td class="cuerpo_tabla_izq">Los siguientes subsectores dentro del sector de los gases industriales (20.11):</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_coma" rowspan="2"> </td>
+<td class="cuerpo_tabla_der">20.11.11.50</td>
+<td class="cuerpo_tabla_izq">Hidrógeno.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_der">20.11.12.90</td>
+<td class="cuerpo_tabla_izq">Compuestos oxigenados inorgánicos de elementos no metálicos.</td>
+</tr>
+</tbody>
+</table>
+
+|  | Código NACE<br>(rev. 2) | Descripción |
+|---|---|---|
+| 1 | 07.29 | Extracción de otros minerales metálicos no férreos. |
+| 2 | 07.10 | Extracción de minerales de hierro. |
+| 3 | 20.17 | Fabricación de caucho sintético en formas primarias. |
+| 4 | 20.60 | Fabricación de fibras artificiales y sintéticas. |
+| 5 | 20.16 | Fabricación de plásticos en formas primarias. |
+| 6 | 13.10 | Preparación e hilado de fibras textiles. |
+| 7 | 23.31 | Fabricación de azulejos y baldosas de cerámica. |
+| 8 | 20.12 | Fabricación de colorantes y pigmentos. |
+| 9 | 13.95 | Fabricación de telas no tejidas y artículos confeccionados con ellas, excepto prendas de vestir. |
+| 10 | 23.14 | Fabricación de fibra de vidrio. |
+| 11 | 27.20 | Fabricación de pilas y acumuladores eléctricos. |
+| 12 | 20.14 | Fabricación de otros productos básicos de química orgánica. |
+| 13 | 20.15 | Fabricación de fertilizantes y compuestos nitrogenados. |
+| 14 | 10.41 | Fabricación de aceites y grasas. |
+| 15 | 11.06 | Fabricación de malta. |
+| 16 | 16.21 | Fabricación de chapas y tableros de madera. |
+| 17 | 23.11 | Fabricación de vidrio plano. |
+| 18 | 23.13 | Fabricación de vidrio hueco. |
+| 19 | 24.31 | Estirado en frío. |
+| 20 | 24.34 | Trefilado en frío. |
+| 21 |  | El siguiente subsector dentro del sector de la fabricación de otros productos químicos n.c.o.p. (20.59): |
+|  | 20.59.56.70 | Mezclas de alquilbencenos y mezclas de alquilnaftalenos, excepto las de las partidas 2707 o 2902 del SA. |
+| 22 |  | El siguiente subsector dentro del sector de la fabricación de otros productos minerales no metálicos n.c.o.p. (23.99): |
+|  | 23.99.19.10 | Lana de escoria, lana de roca y lanas minerales similares (excepto lana de vidrio), incluso mezcladas entre sí, en masa, hojas o rollos. |
+
+A los efectos de la aplicación de este anexo, se tendrán en cuentas las siguientes reglas:
+
+1\. No se considerará subvencionable ningún otro sector o subsector. No obstante, podrán ser considerados subvencionables aquellos sectores y subsectores cuya admisibilidad haya sido demostrada por un Estado Miembro y aprobada por la Comisión Europea previa notificación a la Comisión de su inclusión como sector o subsector subvencionable.
+
+2\. En las convocatorias anuales de ayudas derivadas de este real decreto se podrán actualizar los códigos CNAE correspondientes a los sectores y subsectores recogidos en los cuadros 1 y 2 de acuerdo con las últimas relaciones de los sectores manufactureros que haya aprobado la Comisión Europea.
+
+Sin perjuicio de la anterior previsión, el cuadro 2 se aplica a todos los subsectores incluidos en el código NACE 20.16 Fabricación de plásticos en formas primarias y 23.14 Fabricación de fibra de vidrio excepto los subsectores 20.16.40.15 Polietilenglicoles y los demás poliéter-alcoholes, en formas primarias, 23.14.12.10 Esteras de fibra de vidrio y 23.14.12.30 Velos de fibra de vidrio, que se encuentran incluidos en el cuadro 1.
+
+3\. No se considerarán subvencionables los costes de emisiones indirectas de CO<sub>2</sub> en que hayan incurrido aquellas instalaciones que adquieran la condición de nuevo entrante en el Régimen de Comercio de Derechos de Emisión para el periodo de asignación 2021-2025, conforme al artículo 3 de la Directiva 2003/87/CE del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, por la que se establece un régimen para el comercio de derechos de emisión de gases de efecto invernadero en la Unión y por la que se modifica la Directiva 96/61/CE del Consejo, que hayan recibido derechos de emisión gratuitos por sus emisiones indirectas.
+
+> Se modifica por el art. único.1 de la Orden PJC/678/2026, de 6 de julio. [Ref. BOE-A-2026-14655](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14655)
+
+## ANEXO II — Valores de referencia
+
+Las variables de los costes subvencionables establecidos en las fórmulas correspondientes al artículo 8 se adecuarán, con base en la Comunicación de la Comisión Europea sobre las Directrices relativas a determinadas medidas de ayuda estatal en el contexto del régimen de comercio de derechos de emisión de gases de efecto invernadero después de 2021 (2020/C 317/04), así como en la Comunicación de la Comisión que complementa las Directrices relativas a determinadas medidas de ayuda estatal en el contexto del régimen de comercio de derechos de emisión de gases de efecto invernadero después de 2021 (2021/C 528/01) y la Comunicación de la Comisión Europea que modifica las Directrices relativas a determinadas medidas de ayuda estatal en el contexto del régimen de comercio de derechos de emisión de gases de efecto invernadero después de 2021 (C/2026/196), con los siguientes criterios y parámetros:
+
+1\. La intensidad de la ayuda será proporcionada y limitada de forma que:
+
+a) Los sectores y subsectores establecidos en el cuadro 1 del anexo I del presente real decreto fijarán una intensidad máxima de la ayuda limitada al 80 % de los costes de las emisiones indirectas en que haya incurrido el beneficiario.
+
+b) Los sectores y subsectores establecidos en el cuadro 2 del anexo I del presente real decreto fijarán una intensidad máxima de la ayuda limitada al 75 % de los costes de las emisiones indirectas en que haya incurrido el beneficiario.
+
+Los sectores y subsectores no incluidos en los cuadros 1 y 2 que sean considerados subvencionables de acuerdo con lo dispuesto en el anexo I, fijarán una intensidad máxima de la ayuda limitada al 75 % de los costes de las emisiones indirectas en que haya incurrido el beneficiario.
+
+c) La intensidad de la ayuda aplicable podrá incrementarse hasta el límite máximo del valor añadido (limVAB), para garantizar una protección adecuada contra el riesgo de fuga de carbono, cuyo valor será del 1,5 % según el apartado 31 de las Directrices (2020/C 317/04).
+
+2\. El factor de emisión de CO<sub>2</sub> aplicable en el año t, descrito como Ct, tendrá el valor de: 0,53 tCO2/MWh en el periodo 2021-2025 y 0,47 tCO2/MWh en el periodo 2026-2030.
+
+De acuerdo al apartado 15.10 del epígrafe 1.3 de las Directrices (2020/C 317/04), el factor de emisión de CO<sub>2</sub> para el periodo 2026-2030 podrá verse modificado a un factor de emisión de CO<sub>2</sub> calculado sobre la base de los datos disponibles en 2026, previa notificación del régimen y autorización de la Comisión Europea.
+
+De acuerdo al apartado 15.11 del epígrafe 1.3 de las Directrices (2020/C 317/04), el factor de emisión de CO<sub>2</sub> podrá verse modificado a un factor de emisión de CO<sub>2</sub> basado en el mercado, previa notificación del régimen y autorización de la Comisión Europea.
+
+3\. El valor de referencia de consumo eléctrico eficiente aplicable, denominado E, se determinará del siguiente modo:
+
+a) Aquellos productos que dispongan de un valor de referencia de consumo eléctrico eficiente, indicado en la tabla 1 del presente anexo, aplicarán la siguiente regla:
+
+*E = Valor de referencia Eficiente*<sub>2021</sub> * (1 – *Indice de reducción anual*)*<sup>i</sup>*
+
+Donde:
+
+– En el año 2021, *i*= 0.
+
+– Desde el año 2022 a 2030, *i* = 1 ... 9, respectivamente.
+
+b) Aquellos productos para los que se estableció la intercambiabilidad de electricidad y combustible, conforme al anexo I, sección 2 del Reglamento Delegado (UE) 2019/331 de la Comisión de 19 de diciembre de 2018, por el que se determinan las normas transitorias de la Unión para la armonización de la asignación gratuita de derechos de emisión con arreglo al artículo 10 bis de la Directiva 2003/87/CE del Parlamento Europeo y del Consejo, aplicarán el siguiente modelo:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/164/14655_17215014_1.png)
+
+Donde:
+
+– *PM:* es el parámetro de referencia de emisión por tonelada fabricada de producto conforme a la sección 2 del anexo del Reglamento Delegado (UE) 2021/447 expresado en ![imagen](https://www.boe.es/datos/imagenes/disp/2026/164/14655_17215092_1.png).
+
+– *FEI:* es la Fracción de Emisiones Indirectas a lo largo del periodo de referencia, expresado en porcentaje, calculadas como el cociente entre las emisiones indirectas y la suma del total de las emisiones directas totales y las emisiones indirectas de acuerdo con el artículo 22 del Reglamento Delegado (UE) 2019/331, del 19 de diciembre de 2018.
+
+– 0,376: es el medio europeo de intensidad de emisiones indicado en el artículo 22 del Reglamento Delegado (UE) 2019/331, 19 de diciembre de 2018 y expresado en ![imagen](https://www.boe.es/datos/imagenes/disp/2026/164/14655_17215091_1.png).
+
+Este apartado aplica a aquellas empresas que hayan recibido asignación gratuita de derechos de emisión por la fabricación de un producto para el que se estableció la intercambiabilidad de electricidad y combustible.
+
+4\. El valor de referencia del consumo de electricidad alternativa, descrito como EF, tomará los siguientes valores:
+
+*EF* = 0,8 * (1 – 0,0109)<sup>(*i*)</sup>
+
+Donde:
+
+– En el año 2021, *i* = 0.
+
+– Desde el año 2022 a 2030, *i* = 1 ... 9, respectivamente.
+
+Con objeto de mantener un ámbito de aplicación actualizado, las convocatorias anuales de ayudas derivadas de este real decreto introducirán siempre las relaciones últimas de los parámetros de este anexo que haya aprobado la Comisión Europea.
+
+<table class="tabla_girada_condensada">
+<caption>
+<p class="centro_cursiva">Tabla 1: Valor de referencia de consumo eléctrico eficiente para determinados productos conforme a la lista ProdCom 2020</p>
+</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Código NACE</p>
+<p class="cabeza_tabla">(rev.2)</p>
+</th>
+<th class="cabeza_tabla">Producto de referencia</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Código PRODCOM</p>
+<p class="cabeza_tabla">2020</p>
+</th>
+<th class="cabeza_tabla">Descripción</th>
+<th class="cabeza_tabla">Definición de producto</th>
+<th class="cabeza_tabla">Unidades de producción</th>
+<th class="cabeza_tabla">Valor de referencia eficiente (2021)</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Unidades de referencia</p>
+</th>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Índice de reducción anual (%)</p>
+</th>
+<th class="cabeza_tabla">Procesos cubiertos por la referencia de producto</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_centro">17.11</td>
+<td class="cuerpo_tabla_izq">Fabricación de pasta papelera.</td>
+<td class="cuerpo_tabla_centro">17.11.11.00</td>
+<td class="cuerpo_tabla_izq">Pasta química de madera para disolver.</td>
+<td class="cuerpo_tabla_izq">Pasta química de madera para disolver.</td>
+<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro">0,904</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></p>
+<p class="cuerpo_tabla_izq">de materia seca al 90%</p>
+</td>
+<td class="cuerpo_tabla_centro">1,09</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Todo proceso relacionado directa o indirectamente con la producción de pulpa química, incluido el secado, lavado y cribado, y blanqueo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.11</td>
+<td class="cuerpo_tabla_izq">Fabricación de pasta papelera.</td>
+<td class="cuerpo_tabla_centro">17.11.12.00</td>
+<td class="cuerpo_tabla_izq">Pasta química de madera a la sosa o al sulfato (excepto la pasta a disolver).</td>
+<td class="cuerpo_tabla_izq">Pasta química de madera a la sosa o al sulfato (excepto la pasta a disolver).</td>
+<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro">0,329</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></p>
+<p class="cuerpo_tabla_izq">de materia seca al 90%</p>
+</td>
+<td class="cuerpo_tabla_centro">1,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.11</td>
+<td class="cuerpo_tabla_izq">Fabricación de pasta papelera.</td>
+<td class="cuerpo_tabla_centro">17.11.13.00</td>
+<td class="cuerpo_tabla_izq">Pasta química de madera al sulfito (excepto la pasta para disolver).</td>
+<td class="cuerpo_tabla_izq">Pasta química de madera al sulfito (excepto la pasta para disolver).</td>
+<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro">0,443</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></p>
+<p class="cuerpo_tabla_izq">de materia seca al 90%</p>
+</td>
+<td class="cuerpo_tabla_centro">1,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.11</td>
+<td class="cuerpo_tabla_izq">Pasta semiquímica de madera.</td>
+<td class="cuerpo_tabla_centro" rowspan="4">17.11.14.00</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Pasta mecánica de madera; pasta semiquímica de madera; pastas de materias celulósicas distintas de la madera.</td>
+<td class="cuerpo_tabla_izq">Pasta semiquímica de madera.</td>
+<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro">0,443</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></p>
+<p class="cuerpo_tabla_izq">de materia seca al 90%</p>
+</td>
+<td class="cuerpo_tabla_centro">1,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.11</td>
+<td class="cuerpo_tabla_izq">Pasta mecánica de madera.</td>
+<td class="cuerpo_tabla_izq">Pasta mecánica de madera.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Enfoque Alternativo.</td>
+<td class="cuerpo_tabla_centro">1,09</td>
+<td class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente vinculados a la producción mecánica de celulosa, incluido el tratamiento de la madera, refinado, lavado, blanqueo, recuperación de calor.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.11</td>
+<td class="cuerpo_tabla_izq">Papel recuperado.</td>
+<td class="cuerpo_tabla_izq">Papel recuperado.</td>
+<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro">0,26</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></p>
+<p class="cuerpo_tabla_izq">de materia seca al 90%</p>
+</td>
+<td class="cuerpo_tabla_centro">1,09</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Todo proceso vinculado directa o indirectamente a la producción de papel recuperado, incluido el espesamiento, la dispersión y el blanqueo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.11</td>
+<td class="cuerpo_tabla_izq">Papel recuperado destintado.</td>
+<td class="cuerpo_tabla_izq">Papel recuperado destintado.</td>
+<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro">0,39</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></p>
+<p class="cuerpo_tabla_izq">de materia seca al 90%</p>
+</td>
+<td class="cuerpo_tabla_centro">1,09</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12</td>
+<td class="cuerpo_tabla_izq">Papel prensa en bobinas o en hojas.</td>
+<td class="cuerpo_tabla_centro">17.12.11.00</td>
+<td class="cuerpo_tabla_izq">Papel prensa en bobinas o en hojas.</td>
+<td class="cuerpo_tabla_izq">Papel prensa en bobinas o en hojas.</td>
+<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro">0,801</td>
+<td class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></td>
+<td class="cuerpo_tabla_centro">1,09</td>
+<td class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="7">17.12</td>
+<td class="cuerpo_tabla_izq" rowspan="7">Papel fino sin estucar.</td>
+<td class="cuerpo_tabla_centro">17.12.12.00</td>
+<td class="cuerpo_tabla_izq" rowspan="7">Papel fino sin estucar ni recubrir.</td>
+<td class="cuerpo_tabla_izq" rowspan="7">Papel fino sin estucar ni recubrir.</td>
+<td class="cuerpo_tabla_izq" rowspan="7">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro" rowspan="7">0,645</td>
+<td class="cuerpo_tabla_izq" rowspan="7">MWh/t<sub>prod</sub></td>
+<td class="cuerpo_tabla_centro" rowspan="7">1,09</td>
+<td class="cuerpo_tabla_izq" rowspan="7">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.13.00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.14.10</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.14.35</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.14.39</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.14.50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.14.70</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="6">17.12</td>
+<td class="cuerpo_tabla_izq" rowspan="6">Papel fino estucado.</td>
+<td class="cuerpo_tabla_centro">17.12.73.35</td>
+<td class="cuerpo_tabla_izq" rowspan="6">Papel fino estucado.</td>
+<td class="cuerpo_tabla_izq" rowspan="6">Papel fino estucado.</td>
+<td class="cuerpo_tabla_izq" rowspan="6">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro" rowspan="6">0,538</td>
+<td class="cuerpo_tabla_izq" rowspan="6">MWh/t<sub>prod</sub></td>
+<td class="cuerpo_tabla_centro" rowspan="6">1,09</td>
+<td class="cuerpo_tabla_izq" rowspan="6">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.73.37</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.73.60</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.73.75</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.73.79</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.76.00</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="4">17.12</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Rollos continuos para la fabricación de papel higiénico o papel facial.</td>
+<td class="cuerpo_tabla_centro">17.12.20.30</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Rollos continuos para la fabricación de papel higiénico o papel facial, guata de celulosa y redes de fibras de celulosa.</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Papel Tisú.</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro" rowspan="4">0,925</td>
+<td class="cuerpo_tabla_izq" rowspan="4">MWh/t<sub>prod</sub></td>
+<td class="cuerpo_tabla_centro" rowspan="4">1,09</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.20.55</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.20.57</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.20.90</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="4">17.12</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Testliner y papel ondulado.</td>
+<td class="cuerpo_tabla_centro">17.12.33.00</td>
+<td class="cuerpo_tabla_izq">Papel semiquímico para acanalar.</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Testliner y papel ondulado.</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro" rowspan="4">0,260</td>
+<td class="cuerpo_tabla_izq" rowspan="4">MWh/t<sub>prod</sub></td>
+<td class="cuerpo_tabla_centro" rowspan="4">1,09</td>
+<td class="cuerpo_tabla_izq" rowspan="4">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.34.00</td>
+<td class="cuerpo_tabla_izq">Papel para acanalar, incluso reciclado.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.35.20</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Testliner.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.35.40</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="6">17.12</td>
+<td class="cuerpo_tabla_izq" rowspan="6">Tablero de cartón sin estucar ni recubrir.</td>
+<td class="cuerpo_tabla_centro">17.12.31.00</td>
+<td class="cuerpo_tabla_izq">Papel y cartón kraft para cubiertas (kraftliner), crudo y sin revestir.</td>
+<td class="cuerpo_tabla_izq" rowspan="6">Cartón sin estucar ni recubrir.</td>
+<td class="cuerpo_tabla_izq" rowspan="6">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro" rowspan="6">0,268</td>
+<td class="cuerpo_tabla_izq" rowspan="6">MWh/t<sub>prod</sub></td>
+<td class="cuerpo_tabla_centro" rowspan="6">1,09</td>
+<td class="cuerpo_tabla_izq" rowspan="6">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.32.00</td>
+<td class="cuerpo_tabla_izq">Papel y cartón kraft blanqueado; revestido.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.42.60</td>
+<td class="cuerpo_tabla_izq">Demás papeles/cartones sin estucar ni recubrir, en bobinas u hojas, de peso superior a 150 g/m2 pero inferior a 225 g/m2.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.42.80</td>
+<td class="cuerpo_tabla_izq">Demás papeles y cartones sin estucar ni recubrir, en bobinas u hojas, peso &gt;= 225 g/m2.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.51.10</td>
+<td class="cuerpo_tabla_izq">Cartón gris sin revestir.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.59.10</td>
+<td class="cuerpo_tabla_izq">Otro tipo de cartón sin revestir.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="7">17.12</td>
+<td class="cuerpo_tabla_izq" rowspan="7">Tablero de cartón estucado.</td>
+<td class="cuerpo_tabla_centro">17.12.75.00</td>
+<td class="cuerpo_tabla_izq">Cartón kraft, excepto el utilizado para escribir, imprimir u otros fines gráficos, revestido con caolín o con otras sustancias inorgánicas.</td>
+<td class="cuerpo_tabla_izq" rowspan="7">Cartón estucado.</td>
+<td class="cuerpo_tabla_izq" rowspan="7">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro" rowspan="7">0,403</td>
+<td class="cuerpo_tabla_izq" rowspan="7">MWh/t<sub>prod</sub></td>
+<td class="cuerpo_tabla_centro" rowspan="7">1,09</td>
+<td class="cuerpo_tabla_izq" rowspan="7">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.77.55</td>
+<td class="cuerpo_tabla_izq">Papel y cartón recubierto impregnado de plástico, blanqueado, de peso &gt; 150 g/m2.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.77.59</td>
+<td class="cuerpo_tabla_izq">Papel y cartón recubierto o impregnado de plástico, n.c.o.p.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.78.20</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Cartón gris, excepto el utilizado para escribir, imprimir u otros fines gráficos, revestido con caolín o con otras sustancias inorgánicas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.78.50</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.79.53</td>
+<td class="cuerpo_tabla_izq">Papel y cartón multicapas, estucados, con todas las capas blanqueadas.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">17.12.79.55</td>
+<td class="cuerpo_tabla_izq">Papel y cartón multicapas, estucados con una capa exterior blanqueada.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">20.13</td>
+<td class="cuerpo_tabla_izq">Ácido Sulfúrico.</td>
+<td class="cuerpo_tabla_centro">20.13.24.34</td>
+<td class="cuerpo_tabla_izq">Ácido sulfúrico; oleum.</td>
+<td class="cuerpo_tabla_izq">Ácido sulfúrico; oleum.</td>
+<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro">0,056</td>
+<td class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></td>
+<td class="cuerpo_tabla_centro">1,09</td>
+<td class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente relacionados con la producción de ácido sulfúrico.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">20.13</td>
+<td class="cuerpo_tabla_izq">Cloro.</td>
+<td class="cuerpo_tabla_centro">20.13.21.11</td>
+<td class="cuerpo_tabla_izq">Cloro.</td>
+<td class="cuerpo_tabla_izq">Cloro.</td>
+<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro">1,846</td>
+<td class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></td>
+<td class="cuerpo_tabla_centro">1,09</td>
+<td class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente vinculados a la unidad de electrólisis, incluidos los auxiliares.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">20.13</td>
+<td class="cuerpo_tabla_izq">Silicio.</td>
+<td class="cuerpo_tabla_centro">20.13.21.70</td>
+<td class="cuerpo_tabla_izq">Silicio. Excepto con un contenido de silicio superior o igual al 99,99% en peso.</td>
+<td class="cuerpo_tabla_izq">Silicio. Excepto con un contenido de silicio superior o igual al 99,99% en peso.</td>
+<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro">11,87</td>
+<td class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></td>
+<td class="cuerpo_tabla_centro">1,09</td>
+<td class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente relacionados con la producción de silicio.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">20.13</td>
+<td class="cuerpo_tabla_izq">Silicio.</td>
+<td class="cuerpo_tabla_centro">20.13.21.60</td>
+<td class="cuerpo_tabla_izq">Silicio. Con contenido de silicio superior o igual al 99,99% en peso.</td>
+<td class="cuerpo_tabla_izq">Silicio. Con contenido de silicio superior o igual al 99,99% en peso.</td>
+<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro">60,00</td>
+<td class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></td>
+<td class="cuerpo_tabla_centro">1,09</td>
+<td class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente vinculados al horno, incluidos los auxiliares.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">20.13</td>
+<td class="cuerpo_tabla_izq">Carburo de Silicio.</td>
+<td class="cuerpo_tabla_centro">20.13.64.10</td>
+<td class="cuerpo_tabla_izq">Silicio. Carburos de silicio, aunque no sean de constitución química definida.</td>
+<td class="cuerpo_tabla_izq">Silicio. Carburos de silicio, aunque no sean de constitución química definida.</td>
+<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro">6,20</td>
+<td class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></td>
+<td class="cuerpo_tabla_centro">1,09</td>
+<td class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente relacionados con la producción de carburo de silicio.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">24.10</td>
+<td class="cuerpo_tabla_izq" rowspan="3">
+<p class="cuerpo_tabla_izq">Acero obtenido por soplado con oxígeno.</p>
+</td>
+<td class="cuerpo_tabla_centro">24.10.T1.22</td>
+<td class="cuerpo_tabla_izq">Acero bruto: acero sin alear fabricado por otros procedimientos distintos de los hornos eléctricos.</td>
+<td class="cuerpo_tabla_izq">Acero bruto: acero sin alear fabricado por otros procedimientos distintos de los hornos eléctricos.</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Tonelada de producto (t<sub>prod</sub>).</td>
+<td class="cuerpo_tabla_centro" rowspan="3">0,03385</td>
+<td class="cuerpo_tabla_izq" rowspan="3">MWh/t<sub>prod</sub></td>
+<td class="cuerpo_tabla_centro" rowspan="3">0,6</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Metalurgia secundaria, precalentamiento de refractarios, instalaciones auxiliares y de colada hasta corte de productos de acero bruto.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24.10.T1.32</td>
+<td class="cuerpo_tabla_izq">Acero bruto: acero aleado, excepto inoxidable, fabricado por otros procedimientos distintos de los hornos eléctricos.</td>
+<td class="cuerpo_tabla_izq">Acero bruto: acero aleado, excepto inoxidable, fabricado por otros procedimientos distintos de los hornos eléctricos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24.10.T1.42</td>
+<td class="cuerpo_tabla_izq">Acero bruto: acero inoxidable y termorresistente fabricado por otros procedimientos distintos de los hornos eléctricos.</td>
+<td class="cuerpo_tabla_izq">Acero bruto: acero inoxidable y termorresistente fabricado por otros procesos distintos de los hornos eléctricos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">24.10</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Ferromanganeso.</td>
+<td class="cuerpo_tabla_centro">24.10.12.10</td>
+<td class="cuerpo_tabla_izq">Ferromanganeso, que contiene en peso &gt; 2% de carbono, con una granulometría &lt;= 5 mm y un contenido de manganeso en peso &gt; 65%.</td>
+<td class="cuerpo_tabla_izq">Ferromanganeso, que contiene en peso&gt; 2% de carbono, con una granulometría &lt;= 5 mm y un contenido de manganeso en peso &gt; 65%.</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Ferromanganeso que contiene en peso &gt; 2% de carbono.</td>
+<td class="cuerpo_tabla_centro" rowspan="2">2,2</td>
+<td class="cuerpo_tabla_izq" rowspan="3">MWh/t<sub>prod</sub></td>
+<td class="cuerpo_tabla_centro" rowspan="2">2,03</td>
+<td class="cuerpo_tabla_izq" rowspan="2"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24.10.12.20</td>
+<td class="cuerpo_tabla_izq">Otros ferromanganesos, conteniendo en peso &gt; 2% de carbono (excluido ferromanganeso con una granulometría de &lt;= 5 mm y conteniendo en peso &gt; 65% de manganeso).</td>
+<td class="cuerpo_tabla_izq">Otros ferromanganesos, conteniendo en peso&gt; 2% de carbono (excluido ferromanganeso con una granulometría de &lt;= 5 mm y conteniendo en peso &gt; 65% de manganeso).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24.10.12.25</td>
+<td class="cuerpo_tabla_izq">Otro ferromanganeso con un contenido de carbono inferior o igual al 2% en peso.</td>
+<td class="cuerpo_tabla_izq">Otro ferromanganeso con un contenido de carbono inferior o igual al 2% en peso.</td>
+<td class="cuerpo_tabla_izq">Ferromanganeso que contiene en peso &lt;= 2% de carbono.</td>
+<td class="cuerpo_tabla_centro">1,4</td>
+<td class="cuerpo_tabla_centro">1,09</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24.10</td>
+<td class="cuerpo_tabla_izq">Ferrosilicio.</td>
+<td class="cuerpo_tabla_centro">24.10.12.35</td>
+<td class="cuerpo_tabla_izq">Ferro-silicio, que contiene en peso &gt; 55% de silicio.</td>
+<td class="cuerpo_tabla_izq">Ferrosilicio, que contiene en peso&gt; 55% de silicio.</td>
+<td class="cuerpo_tabla_izq">Ferrosilicio, que contiene en peso&gt; 55% de silicio.</td>
+<td class="cuerpo_tabla_centro">8,54</td>
+<td class="cuerpo_tabla_izq">MWh/tprod</td>
+<td class="cuerpo_tabla_centro">1,09</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24.10</td>
+<td class="cuerpo_tabla_izq">Ferrosilicio.</td>
+<td class="cuerpo_tabla_centro">24.10.12.36</td>
+<td class="cuerpo_tabla_izq">Ferrosilicio, que contiene en peso &lt;= 55% de silicio y &gt; = 4% pero &lt;= 10% de magnesio.</td>
+<td class="cuerpo_tabla_izq">Ferrosilicio.</td>
+<td class="cuerpo_tabla_izq" colspan="3">Enfoque Alternativo.</td>
+<td class="cuerpo_tabla_centro">1,09</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24.10</td>
+<td class="cuerpo_tabla_izq">Ferroníquel.</td>
+<td class="cuerpo_tabla_centro">24.10.12.40</td>
+<td class="cuerpo_tabla_izq">Ferroníquel.</td>
+<td class="cuerpo_tabla_izq">Ferroníquel.</td>
+<td class="cuerpo_tabla_izq">Ferroníquel.</td>
+<td class="cuerpo_tabla_centro">9,28</td>
+<td class="cuerpo_tabla_izq">MWh/tprod</td>
+<td class="cuerpo_tabla_centro">1,09</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24.10</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Ferrosilico manganeso.</p>
+</td>
+<td class="cuerpo_tabla_centro">24.10.12.45</td>
+<td class="cuerpo_tabla_izq">Ferrosilicomanganeso.</td>
+<td class="cuerpo_tabla_izq">Ferrosilicomanganeso.</td>
+<td class="cuerpo_tabla_izq">Ferrosilicomanganeso.</td>
+<td class="cuerpo_tabla_centro">3,419</td>
+<td class="cuerpo_tabla_izq">MWh/tprod</td>
+<td class="cuerpo_tabla_centro">1,12</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="3">24.42</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Aluminio primario.</td>
+<td class="cuerpo_tabla_centro">24.42.11.30</td>
+<td class="cuerpo_tabla_izq">Aluminio en bruto sin alear (excepto en polvo y escamas).</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Aluminio en bruto sin alear procedente de la electrólisis.</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Aluminio en bruto sin alear.</td>
+<td class="cuerpo_tabla_centro" rowspan="3">13,90</td>
+<td class="cuerpo_tabla_izq" rowspan="3">MWh/tprod</td>
+<td class="cuerpo_tabla_centro" rowspan="3">0,25</td>
+<td class="cuerpo_tabla_izq" rowspan="3">Aluminio en bruto sin alear procedente de la electrólisis, incluidas las unidades de control de producción, los procesos auxiliares y la caseta de fundición. También incluye planta de ánodo (pre-horneado). En caso de que los ánodos se proporcionen desde una planta independiente en la UE, esta planta no debe ser compensada. Para el ánodo producido fuera de la UE, se puede aplicar una corrección.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24.42.11.53</td>
+<td class="cuerpo_tabla_izq">Aleaciones de aluminio en bruto, aleado de primera fundición (excluidos los polvos y escamas de aluminio).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24.42.11.54</td>
+<td class="cuerpo_tabla_izq">Aleaciones de aluminio en bruto, aleado (excepto en polvo y escamas de aluminio).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24.42</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Alúmina (refinamiento).</p>
+</td>
+<td class="cuerpo_tabla_centro">24.42.12.00</td>
+<td class="cuerpo_tabla_izq">Óxido de aluminio, excepto corindón artificial.</td>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_izq">Alúmina.</td>
+<td class="cuerpo_tabla_centro">0,20</td>
+<td class="cuerpo_tabla_izq">MWh/tprod</td>
+<td class="cuerpo_tabla_centro">1,11</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente relacionados con la producción de alúmina.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro" rowspan="2">24.43</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Electrólisis de zinc.</td>
+<td class="cuerpo_tabla_centro">24.43.12.30</td>
+<td class="cuerpo_tabla_izq">Zinc en bruto sin alear (excepto polvo, polvos y escamas de zinc).</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Zinc primario.</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Zinc.</td>
+<td class="cuerpo_tabla_centro" rowspan="2">3,994</td>
+<td class="cuerpo_tabla_izq" rowspan="2">MWh/tprod</td>
+<td class="cuerpo_tabla_centro" rowspan="2">0,01</td>
+<td class="cuerpo_tabla_izq" rowspan="2">Todos los procesos directa o indirectamente vinculados a la unidad de electrólisis de zinc, incluidos los auxiliares.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24.43.12.50</td>
+<td class="cuerpo_tabla_izq">Aleaciones de zinc en bruto (excepto polvo, polvos y escamas de zinc).</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_centro">24.44</td>
+<td class="cuerpo_tabla_izq">Cobre refinado en bruto.</td>
+<td class="cuerpo_tabla_centro">24.44.13.30</td>
+<td class="cuerpo_tabla_izq">Cobre refinado sin alear en bruto (excluidos los productos sinterizados laminados, extruidos o forjados).</td>
+<td class="cuerpo_tabla_izq">Cátodos de cobre.</td>
+<td class="cuerpo_tabla_izq">Cátodos de cobre.</td>
+<td class="cuerpo_tabla_centro">0,31</td>
+<td class="cuerpo_tabla_izq">MWh/tprod</td>
+<td class="cuerpo_tabla_centro">1,09</td>
+<td class="cuerpo_tabla_izq">Todos los procesos relacionados directa o indirectamente con el proceso de refinado electrolítico, incluida la fundición de ánodos in situ cuando proceda.</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica por el art. único.2 de la Orden PJC/678/2026, de 6 de julio. [Ref. BOE-A-2026-14655](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14655)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 190, de 5 de agosto de 2026. [Ref. BOE-A-2026-17003](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17003)
+
+## ANEXO III — Glosario de términos
+
+a) Actuaciones para la mejora del desempeño energético económicamente rentables: aquellas actuaciones cuyo periodo de recuperación simple de la inversión no sea superior a tres años o el plazo al que se refiere el artículo 10 bis, apartado 1, párrafo 3, de la Directiva 2003/87/CE, si este fuera más largo, definiéndose dicho periodo como el cociente entre el importe de la inversión eficiente elegible y el ahorro económico anual derivado de los ahorros energéticos.
+
+b) Costes de inversión proporcionados: son los recursos económicos en los que incurre el beneficiario para la implementación de las actuaciones para la mejora del desempeño energético, cuya cuantía total no debe superar el importe total de las ayudas recibidas por la instalación en el mecanismo regulado en este real decreto durante un periodo de tres años.
+
+c) Precio a plazo de los derechos de emisión de la UE: en euros, la media de los precios a plazo a un año diario de los derechos de emisión de la UE, denominados DEUE (precios de la oferta en el momento del cierre) para entrega en diciembre del año en el que incurren los costes, observada en cualquier bolsa de carbono de la UE entre el 1 de enero y el 31 de diciembre del año anterior (año t-1) a aquel en que se incurren los costes (año t).
+
+d) Factor de emisión de CO<sub>2</sub> (tCO2/MWh): media ponderada de la intensidad de CO<sub>2</sub> de la electricidad producida a partir de combustibles fósiles en diferentes zonas geográficas. La ponderación refleja la mezcla de producción de los combustibles fósiles en la zona geográfica de que se trate, definido en el anexo II.
+
+e) AOt Producción real (toneladas producidas por año): la producción real de la instalación en el año t, determinada ex post el año t+1.
+
+f) AECt Consumo eléctrico real (MWh): consumo de electricidad real de la instalación (incluido el consumo de electricidad necesario para la fabricación de productos externalizados subvencionables) en el año t, determinado ex post en el año t+1. Este consumo incluye tanto la electricidad consumida de la red como la electricidad autoconsumida.
+
+g) E Valor de referencia de consumo eléctrico eficiente (MWh/toneladas de producción) definido a nivel de Prodcom 8: consumo eléctrico, para un producto específico, por tonelada de producción obtenida mediante los métodos más eficientes de producción de electricidad para el producto en cuestión. Este valor de referencia se reducirá, a partir del año 2022, de acuerdo con la fórmula establecida en el anexo II de la Comunicación 2021/C 528/01 y recogido en la tabla 1 del anexo II del presente real decreto.
+
+h) EF Valor de referencia del consumo de electricidad alternativa: porcentaje del consumo eléctrico real, determinado mediante la Comunicación 2021/C 528/01, junto con los valores de referencia de consumo eléctrico eficiente. Se corresponde al esfuerzo de reducción media que exige la aplicación de los valores de referencia de consumo eléctrico eficiente (consumo de referencia de energía eléctrica/consumo eléctrico anterior). Se aplica exclusivamente a aquellos productos de los sectores subvencionables en los que no existe un valor de referencia de consumo eléctrico eficiente. Este valor de referencia de eficiencia de consumo eléctrico alternativo se reducirá, a partir del año 2022, en un 1,09 % anual, de acuerdo con la fórmula establecida en el anexo II de la Comunicación 2021/C 528/01 y recogido en la tabla 1 del anexo II del presente real decreto.
+
+> Se modifica por el art. único.3 de la Orden PJC/678/2026, de 6 de julio. [Ref. BOE-A-2026-14655](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14655)

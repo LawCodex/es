@@ -1,0 +1,889 @@
+---
+title: "Real Decreto 1130/2003, de 5 de septiembre, por el que se regula el régimen retributivo del Cuerpo de Secretarios Judiciales"
+identifier: "BOE-A-2003-17448"
+eli: "https://www.boe.es/eli/es/rd/2003/09/05/1130"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2003-09-05
+published: 2003-09-15
+in_force_from: 2003-09-16
+last_amended: 2023-10-04
+consolidated: 2026-07-08
+gazette: "Boletín Oficial del Estado núm. 221"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-17448"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1130/2003, de 5 de septiembre, por el que se regula el régimen retributivo del Cuerpo de Secretarios Judiciales
+
+Téngase en cuenta que las referencias hechas a los Secretarios Judiciales se entenderán realizadas a los Letrados de la Administración de Justicia, según establece la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167)
+
+Se derogan todas las disposiciones que regulen retribuciones complementarias fijas del régimen retributivo del Cuerpo de Secretarios Judiciales, según establece la disposición derogatoria única del Real Decreto 2033/2009, de 30 de diciembre. [Ref. BOE-A-2010-884](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-884)
+
+El proceso de modernización de la Justicia iniciado con el Pacto de Estado, firmado el 31 de mayo de 2001, tiene como objetivo una justicia más ágil, eficaz y cercana al ciudadano. Para lograrlo se inspira en un nuevo modelo de Justicia que actúe con rapidez, eficacia y calidad y que sea capaz de atender adecuadamente el nivel de litigiosidad real que los ciudadanos demandan.
+
+Este ambicioso proyecto requiere de reformas organizativas que afectan a las relaciones profesionales y estructuras de trabajo, con el diseño de nuevos modelos de carrera que precisan de cambios en un modelo retributivo ya obsoleto y cuya rigidez imposibilita cualquier gestión racional de los recursos humanos e impide el fomento de la cualificación, la especialización, la dedicación y el rendimiento.
+
+Así, la nueva Ley 15/2003, de 26 de mayo, reguladora del régimen retributivo de las carreras judicial y fiscal, supera el antiguo modelo presidido por la Ley 17/80, de 24 de abril, y articula un moderno sistema retributivo que fomenta la formación, el rendimiento y la asunción de responsabilidades.
+
+El desarrollo del Pacto de Estado exige ahora el tratamiento del régimen retributivo de los Secretarios Judiciales, elemento clave del nuevo modelo de oficina judicial y, en este sentido, la disposición final tercera de la mencionada Ley reguladora del régimen retributivo de las carreras judicial y fiscal dispone que el Gobierno regulará el nuevo régimen retributivo del Cuerpo de Secretarios Judiciales adecuado a los principios y conceptos retributivos recogidos en dicha ley y en sus anexos.
+
+En su virtud, a propuesta de los Ministros de Justicia y de Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 5 de septiembre de 2003,
+
+D I S P O N G O :
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+Este real decreto tiene por objeto regular el régimen retributivo del Cuerpo de Secretarios Judiciales, adecuado a los principios y conceptos retributivos recogidos en la Ley 15/2003, de 26 de mayo, reguladora del régimen retributivo de las carreras judicial y fiscal.
+
+## Artículo 2. Conceptos retributivos.
+
+1\. Las retribuciones del Cuerpo de Secretarios Judiciales constarán de un componente fijo y otro variable, determinados ambos con arreglo a este real decreto.
+
+2\. Las retribuciones fijas remuneran la categoría y antigüedad en el cuerpo, así como las características objetivas de las plazas que ocupan.
+
+3\. Las retribuciones variables, que en ningún caso son consolidables, remuneran el rendimiento individual de los Secretarios Judiciales en el desempeño de sus funciones.
+
+4\. Además de las retribuciones a que se refieren los apartados anteriores y compatibles con aquéllas, se remunerará mediante una retribución especial el desempeño o prestación de determinados servicios, de acuerdo con las previsiones contenidas en este real decreto.
+
+## Artículo 3. Contenido de las retribuciones fijas.
+
+1\. Las retribuciones fijas del Cuerpo de Secretarios Judiciales se descomponen en retribuciones básicas y retribuciones complementarias.
+
+2\. Son retribuciones básicas:
+
+a) El sueldo.
+
+b) La antigüedad.
+
+3\. Son retribuciones complementarias:
+
+a) El complemento de destino.
+
+b) El complemento específico.
+
+## Artículo 4. Retribuciones básicas.
+
+1\. Mediante el sueldo se remunera la categoría que se ostenta. La cuantía del sueldo para cada categoría es la establecida en el anexo I.1.
+
+2\. La antigüedad se remunera mediante un incremento sucesivo del cinco por ciento del sueldo inicial correspondiente a la categoría de ingreso por cada tres años en servicio activo o en aquellas otras situaciones administrativas en las que se reconozca el tiempo a estos efectos.
+
+En el caso de que se hubiesen prestado servicios previamente en otras carreras o cuerpos funcionariales, se tendrá derecho a seguir percibiendo, por este concepto retributivo, las cantidades correspondientes a la antigüedad acreditada en aquéllos.
+
+La fracción o tiempo inferior a un trienio se considera a estos efectos como tiempo de servicios prestados en el cuerpo o carrera de última incorporación.
+
+3\. Los Secretarios Judiciales tienen derecho a percibir dos pagas extraordinarias al año, por importe cada una de ellas igual a una mensualidad de sueldo y antigüedad reconocidos, y en su caso una cantidad relacionada con el complemento de destino en los términos que se fijen por ley para este personal, que se harán efectivas los meses de junio y diciembre, siempre que los perceptores estuvieran en servicio activo o con derecho a devengo del sueldo el día primero de los meses indicados.
+
+## Artículo 5. Complemento de destino.
+
+1\. El complemento de destino correspondiente a cada plaza de Secretario Judicial retribuye sus características generales y se cuantifica en atención a los siguientes criterios:
+
+a) El grupo de población en el que se integra, conforme al anexo II.1.
+
+b) Las condiciones objetivas de representación vinculadas al cargo desempeñado.
+
+c) Otras circunstancias especiales asociadas al destino por su especial peligrosidad, insularidad, localización fuera de la Península Ibérica o especial aislamiento.
+
+2\. Las cuantías del complemento de destino para cada plaza de Secretario Judicial se recogen en el anexo II.2 y II.3.
+
+## Artículo 6. Complemento específico.
+
+1\. El complemento específico retribuye las condiciones particulares de determinados puestos como su especial responsabilidad, especial formación, complejidad o penosidad.
+
+2\. Las puestos dotados con complemento específico y su cuantía se enumeran en el anexo III.
+
+## Artículo 7. Contenido de las retribuciones variables.
+
+1\. Las retribuciones variables del Cuerpo de Secretarios Judiciales están integradas por el complemento de productividad que retribuirá el especial rendimiento, la actividad extraordinaria, el interés o la iniciativa con los que el funcionario desempeñe su trabajo, así como su participación en programas de actuación y en la consecución de objetivos que se determinen por el Ministerio de Justicia.
+
+2\. Cuando el complemento de productividad retribuya el especial rendimiento, la actividad extraordinaria y el interés o la iniciativa con los que el funcionario desempeñe su trabajo, aquél solo podrá reconocerse por el Ministerio de Justicia, oído el Consejo del Secretariado y previa negociación con las organizaciones sindicales más representativas, determinándose a través de la Dirección General de Relaciones con la Administración de Justicia, en cada caso, la cuantía y el período de percepción.
+
+3\. **(Derogado)**
+
+> Téngase en cuenta que se declara la nulidad del Real Decreto 101/2019, de 1 de marzo, que derogaba el apartado 3, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Redacción anterior:
+
+> "3. Por el cumplimiento de objetivos establecidos en los programas concretos de actuación que se determinen por la Dirección General de Relaciones con la Administración de Justicia, los funcionarios del Cuerpo de Secretarios Judiciales podrán percibir hasta un máximo de 6.600 euros anuales, sin que pueda retribuirse la participación simultánea en más de un programa.
+
+> Estos programas se determinarán para cada ejercicio presupuestario de forma objetiva, oído el Consejo del Secretariado y previa negociación con las organizaciones sindicales más representativas, oído el Consejo General del Poder Judicial y dentro de las cantidades asignadas presupuestariamente para aquéllos.
+
+> La concreción de las cuantías individuales corresponderá a la Dirección General de Relaciones con la Administración de Justicia y su acreditación en nómina exigirá, una vez finalizado el programa, certificación de la participación del funcionario en la consecución de los objetivos propuestos por el titular del órgano judicial o porautoridad o funcionario que se designe al autorizar el programa."
+
+4\. El crédito total destinado en cada ejercicio presupuestario a las retribuciones variables, a que se refiere el apartado 2, no podrá superar en ningún caso el cinco por ciento de la cuantía global de las retribuciones fijas del cuerpo de Secretarios Judiciales.
+
+5\. Las retribuciones previstas en este artículo no serán fijas en su cuantía ni periódicas en su devengo.
+
+> Se declara la nulidad del Real Decreto 101/2019, que derogaba el apartado 3, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se deroga el apartado 3 por la disposición derogatoria única del Real Decreto 101/2019, de 1 de marzo. [Ref. BOE-A-2019-3485](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3485)
+
+## Artículo 8. Retribuciones especiales.
+
+1\. Tienen la condición de retribuciones especiales:
+
+a) Las correspondientes al desempeño de servicios de guardia.
+
+b) Las gratificaciones por la prestación de servicios extraordinarios.
+
+c) Las correspondientes al ejercicio conjunto de otra función y sustituciones.
+
+2\. Las retribuciones especiales serán compatibles con todos los conceptos retributivos regulados en los artículos anteriores.
+
+## Artículo 9. Gratificaciones.
+
+Las gratificaciones retribuirán los servicios extraordinarios prestados fuera de la jornada laboral de trabajo, y se determinará el derecho a la remuneración y su cuantía en la disposición que encomienda la función o servicio.
+
+Estas remuneraciones sólo podrán reconocerse por el Ministerio de Justicia, a través de la Dirección General de Relaciones con la Administración de Justicia, a propuesta del Tribunal Superior de Justicia, Fiscalía u órgano de gobierno correspondiente, y se determinará en cada caso su cuantía y el período de percepción, en atención a la naturaleza y duración del servicio, dentro de los créditos asignados para estos conceptos.
+
+## Artículo 10. Ejercicio conjunto de otra función y sustitución.
+
+1\. Por el ejercicio conjunto de otra función además de las propias del cargo del que sea titular se devengará 50 euros mensuales a los secretarios de órganos judiciales cuyo titular sea el juez o magistrado que ostenta las funciones de decano, siempre que en la localidad hubiera al menos tres juzgados de la misma clase y siempre que el decano no se encuentre en el supuesto de liberación total o parcial del trabajo, en el orden jurisdiccional respectivo, a que se refiere el artículo 166.3 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, en cuyo caso el Secretario Judicial percibirá el complemento específico previsto en el anexo III.
+
+2\. En aquellas localidades en las que no exista juzgado de vigilancia penitenciaria, se devengará 50 euros mensuales a los Secretarios Judiciales que tengan asignadas dichas funciones.
+
+3 a 5. **(Anulados)**
+
+> Téngase en cuenta que se declara la nulidad del Real Decreto 101/2019, de 1 de marzo, que modificaba los apartados 3 a 5, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Redacción anterior:
+
+> "3. En concepto de sustitución que implique desempeño conjunto de las funciones, además de las que sea titular, se acreditará 250 euros mensuales al Secretario Judicial que la realice.
+
+> 4\. Las sustituciones que no superen 10 días continuados y las motivadas por vacación retribuida, sea o no época de verano, no darán derecho al percibo de retribuciones por el concepto a que se refiere este apartado.
+
+> 5\. Las retribuciones previstas en este artículo se devengarán previa certificación del titular del órgano judicial."
+
+> Se declara la nulidad del Real Decreto 101/2019, que modificaba los apartados 3 a 5, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se modifican los apartados 3 a 5 por el art. 1.1 del Real Decreto 101/2019, de 1 de marzo. [Ref. BOE-A-2019-3485](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3485)
+
+## Disposición adicional primera. Actualización de las retribuciones.
+
+1\. Las cuantías fijadas en los artículos 7 y 10, así como en los anexos, se actualizarán de acuerdo con los incrementos retributivos anuales que proceda aplicar a los Secretarios Judiciales de acuerdo con lo establecido para el conjunto del sector público estatal en las Leyes de Presupuestos Generales del Estado para los ejercicios económicos de 2004 y siguientes.
+
+2\. Los grupos de población previstos en los anexos podrán actualizarse por el Gobierno con las cifras de población resultantes de la revisión del padrón municipal declarados oficiales por el Gobierno.
+
+## Disposición adicional segunda. Indemnizaciones por razón del servicio.
+
+Los Secretarios Judiciales, sin perjuicio de su régimen jurídico singular, tendrán derecho a percibir las indemnizaciones que se establecen para el personal al servicio de la Administración General del Estado cuyo objeto sea resarcirles de los gastos que se ven precisados a realizar en razón al servicio o los traslados de destino.
+
+## Disposición adicional tercera. Complemento familiar.
+
+Los Secretarios Judiciales tendrán derecho a percibir un complemento familiar en las mismas condiciones y cuantía que los establecidos para los funcionarios de la Administración del Estado.
+
+## Disposición adicional cuarta. Indemnizaciones por residencia.
+
+Los Secretarios Judiciales de Ceuta, Melilla e islas del Archipiélago Canario, excepto Tenerife y Gran Canaria, tendrán derecho a percibir los incrementos anuales por trienio reconocido, previstos en concepto de indemnización por residencia, para el sector público estatal. El resto de las cuantías que hasta el momento se venían percibiendo por este concepto quedan integradas en el complemento de destino por circunstancias especiales previsto en el artículo 5.
+
+La revisión de las indemnizaciones por residencia del personal en activo del sector público estatal dará lugar a la correspondiente actualización por el Gobierno de las cuantías que perciban los Secretarios Judiciales por circunstancias especiales asociadas al destino.
+
+## Disposición adicional quinta. Secciones desplazadas de la Audiencia Provincial.
+
+Los Secretarios Judiciales destinados en secciones desplazadas de una Audiencia Provincial percibirán el complemento de destino en concepto de población correspondiente al resto de Secretarios Judiciales destinados en la sede de la Audiencia Provincial.
+
+## Disposición adicional sexta. Retribuciones de los Secretarios Judiciales en régimen de provisión temporal.
+
+Los Secretarios Judiciales sustitutos en régimen de provisión temporal serán retribuidos con las retribuciones básicas, excluidos trienios, complementarias y retribuciones variables y especiales que correspondan al funcionario de carrera que debiera desempeñar el puesto de trabajo.
+
+## Disposición adicional séptima. Secretarios destinados en el Ministerio de Justicia.
+
+Los Secretarios Judiciales destinados en el Ministerio de Justicia de acuerdo con lo previsto en el artículo 25 de la Ley 38/1988, de 28 de diciembre, de demarcación y de planta judicial, percibirán las retribuciones complementarias correspondientes a los Secretarios Judiciales de la Audiencia Provincial del grupo 1 cuando pertenezcan a la primera y segunda categoría, y las retribuciones correspondientes al grupo 5 cuando pertenezcan a la tercera categoría de Secretarios Judiciales. Las retribuciones básicas se fijarán de acuerdo a su categoría y podrán, asimismo, percibir retribuciones variables y gratificaciones en la cuantía y condiciones que establezca el Director General de Relaciones con la Administración de Justicia, con los mismos requisitos y limitaciones que las establecidas en los artículos 7 y 9 de este real decreto.
+
+## Disposición adicional octava. Cláusula de limitación presupuestaria.
+
+**(Anulada)**
+
+> Téngase en cuenta que se declara la nulidad del Real Decreto 101/2019, de 1 de marzo, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se declara la nulidad del Real Decreto 101/2019, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se añade por el art. 1.2 del Real Decreto 101/2019, de 1 de marzo. [Ref. BOE-A-2019-3485](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3485)
+
+## Disposición adicional novena. Habilitación.
+
+**(Anulada)**
+
+> Téngase en cuenta que se declara la nulidad del Real Decreto 101/2019, de 1 de marzo, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se declara la nulidad del Real Decreto 101/2019, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se añade por el art. 1.3 del Real Decreto 101/2019, de 1 de marzo. [Ref. BOE-A-2019-3485](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3485)
+
+## Disposición adicional décima. Duración de las sustituciones.
+
+**(Anulada)**
+
+> Téngase en cuenta que se declara la nulidad del Real Decreto 101/2019, de 1 de marzo, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se declara la nulidad del Real Decreto 101/2019, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se añade por el art. 1.4 del Real Decreto 101/2019, de 1 de marzo. [Ref. BOE-A-2019-3485](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3485)
+
+## Disposición transitoria primera. Servicios de guardia.
+
+Las retribuciones por servicios de guardia en sus distintas modalidades continuará rigiéndose en tanto no se modifique por lo dispuesto en la Orden PRE/1417/2003, de 3 de junio, por la que se regulan las retribuciones complementarias por servicios de guardia del personal al servicio de la Administración de Justicia.
+
+## Disposición transitoria segunda. Efectos económicos.
+
+1\. Con efectos del día 1 de enero de 2003, los Secretarios Judiciales devengarán el 45 por ciento de la diferencia entre las retribuciones que corresponden a su destino, por aplicación del nuevo régimen retributivo, y las que devengaban por aquél, de acuerdo con lo previsto en la Orden de 20 de julio de 1995 y sus modificaciones.
+
+2\. El devengo de la totalidad de las retribuciones previstas en este real decreto se producirá a partir del 1 de enero de 2004.
+
+3\. Sin perjuicio de lo dispuesto en el apartado anterior, el devengo de las retribuciones variables previstas en el artículo 7.2 se producirá a partir del 1 de enero de 2005.
+
+4\. Lo dispuesto en los anteriores apartados se entenderá sin perjuicio de los incrementos retributivos anuales que procede aplicar al Cuerpo de Secretarios Judiciales de acuerdo con lo establecido en los Presupuestos Generales del Estado para el conjunto del sector público estatal.
+
+## Disposición transitoria tercera. Pagas extraordinarias.
+
+En el año 2003 el importe del complemento de destino a incorporar en cada paga extraordinaria de acuerdo con lo previsto en el artículo 4 es el que se fija en el anexo I.2, con los efectos económicos previstos en la disposición transitoria segunda.1.
+
+## Disposición transitoria cuarta. Complemento personal transitorio.
+
+Este real decreto no supondrá en ningún caso merma de las retribuciones actualmente percibidas por los Secretarios Judiciales que mantendrán, en su caso, a título personal y con carácter transitorio las retribuciones fijas a que tuvieran derecho con arreglo a la normativa anterior mientras no obtengan nuevo destino.
+
+## Disposición transitoria quinta. Complemento específico transitorio.
+
+1\. Los Letrados de la Administración de Justicia que perciban sus retribuciones complementarias conforme a este real decreto percibirán además un complemento específico transitorio de 195 euros mensuales, en valores del año 2021.
+
+2\. La cuantía de este complemento se alcanzará, de forma progresiva, en los términos siguientes:
+
+a) Con efectos de 1 de enero de 2021, se devengarán 126,75 euros mensuales.
+
+b) Con efectos de 1 de enero de 2022, la cuantía a devengar se incrementará hasta los 165,75 euros mensuales.
+
+c) A partir del 1 de enero de 2023, se devengará la cuantía íntegra de 195 euros mensuales.
+
+Este incremento tendrá el carácter de no absorbible por ningún otro concepto retributivo actual o que se pueda establecer en el futuro y se establece sin perjuicio de los incrementos retributivos que para cada ejercicio se determine en las correspondientes leyes de presupuestos generales del Estado para los empleados públicos que, en todo caso, le serán de aplicación.
+
+> Se añade por el art. 1 del Real Decreto 285/2022, de 19 de abril. [Ref. BOE-A-2022-6448](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6448)
+
+## Disposición transitoria sexta. Incremento del complemento específico transitorio en 2023 y 2024.
+
+1\. Los Letrados de la Administración de Justicia que perciban sus retribuciones complementarias conforme a este real decreto, verán incrementadas las cuantías del complemento específico transitorio, durante los años 2023 y 2024 en 430 euros mensuales, en valores del año 2023.
+
+2\. El incremento de la cuantía de este complemento se alcanzará, de forma progresiva, en los términos siguientes:
+
+a) A partir del 1 de enero de 2023, el incremento será de 172 euros mensuales.
+
+b) A partir del 1 de enero de 2024, el incremento alcanzará los 344 euros mensuales.
+
+c) A partir del 1 de julio de 2024, el incremento alcanzará los 430 euros mensuales.
+
+Este incremento tendrá carácter consolidable y no absorbible ni compensable por ningún otro concepto retributivo actual o que se pueda establecer en el futuro y se establece sin perjuicio de los incrementos retributivos que para cada ejercicio se determine en las correspondientes leyes de presupuestos generales del Estado para los empleados públicos que, en todo caso, les serán de aplicación.
+
+> Se añade por el art. 1 del Real Decreto 774/2023, de 3 de octubre. [Ref. BOE-A-2023-20564](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-20564)
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden de 20 de julio de 1995, por la que se establece el régimen y cuantía del complemento de destino del Cuerpo de Secretarios Judiciales y sus modificaciones, así como todas aquellas disposiciones de igual o inferior rango que se opongan o contradigan lo previsto en este real decreto.
+
+## Disposición final primera. Desarrolo normativo.
+
+1\. Se faculta a los Ministros de Justicia y de Hacienda para adoptar, en el ámbito de su respectiva competencia, las medidas necesarias para el cumplimiento de lo establecido en este real decreto.
+
+2\. Mediante orden ministerial, a propuesta conjunta de los Ministros de Justicia y de Hacienda, se regulará la documentación justificativa necesaria, en su caso, para la acreditación en nómina de los conceptos retributivos previstos en este real decreto.
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, a 5 de septiembre de 2003.
+
+JUAN CARLOS R.
+
+El Vicepresidente Segundo del Gobierno y Ministro de la Presidencia,
+
+JAVIER ARENAS BOCANEGRA
+
+## ANEXO I.1 — Importe mensual de sueldo del Cuerpo de Secretarios Judiciales
+
+|  | Cuantía mensual <br>en euros |
+|---|---|
+| Secretario de 1.ª | 1.468,92 |
+| Secretario de 2.ª | 1.364,00 |
+| Secretario de 3.ª | 1.259,07 |
+
+## ANEXO I.2 — Importe para el año 2003 del complemento de destino a incluir en cada paga extraordinaria del Cuerpo de Secretarios Judiciales
+
+|  | Cuantía a incluir en cada paga extraordinaria |
+|---|---|
+| Grupo 1: |  |
+| Secretarios del Tribunal Supremo | 192,75 |
+| Secretario de gobierno de la Audiencia Nacional | 192,75 |
+| Secretarios de la Audiencia Nacional | 182,86 |
+| Secretarios del Tribunal Superior de Justicia | 182,86 |
+| Secretario coordinador provincial y Secretario de la Audiencia Provincial <br>Secretario de órgano unipersonal, órganos no jurisdiccionales y registros civiles y de los juzgados centrales | 180,52 <br> <br>161,86 |
+| Grupo 2: |  |
+| Secretarios del Tribunal Superior de Justicia | 164,62 |
+| Secretario coordinador provincial y Secretario de la Audiencia Provincial <br>Secretario de órgano unipersonal, órganos no jurisdiccionales y registros civiles | 162,27 <br> <br>143,61 |
+| Grupo 3: |  |
+| Secretarios del Tribunal Superior de Justicia | 159,79 |
+| Secretario coordinador provincial y Secretario de la Audiencia Provincial | 157,44 |
+| Secretario de órgano unipersonal, órganos no jurisdiccionales y registros civiles | 138,78 |
+| Grupo 4: |  |
+| Secretario coordinador provincial y Secretario de la Audiencia Provincial | 156,67 |
+| Resto de destinos correspondientes a la segunda categoría de secretarios judiciales | 138,01 |
+| Grupo 5: |  |
+| Destinos correspondientes a la tercera categoría de secretarios judiciales | 100,10 |
+
+## ANEXO II.1 — Grupos de población en los que se integra Cuerpo de Secretarios Judiciales
+
+Localidad: Grupo 1:
+
+Madrid.
+
+Barcelona.
+
+Grupo 2:
+
+Valencia.
+
+Sevilla.
+
+Zaragoza.
+
+Málaga.
+
+Murcia.
+
+Palmas de Gran Canaria (Las).
+
+Palma de Mallorca.
+
+Santa Cruz de Tenerife.
+
+Bilbao.
+
+Grupo 3:
+
+Valladolid.
+
+Córdoba.
+
+Vigo.
+
+Alicante/Alacant.
+
+Gijón.
+
+Hospitalet de Llobregat (L’).
+
+Granada.
+
+Coruña (A).
+
+Vitoria-Gasteiz.
+
+Badalona.
+
+Oviedo.
+
+Móstoles.
+
+Elche/Elx.
+
+Sabadell.
+
+Santander.
+
+Jerez de la Frontera.
+
+Pamplona/Iruña.
+
+Donostia-San Sebastián.
+
+Cartagena.
+
+Leganés.
+
+Fuenlabrada.
+
+Almería.
+
+Terrassa.
+
+Alcalá de Henares.
+
+Burgos.
+
+Salamanca.
+
+Albacete.
+
+Getafe.
+
+Cádiz.
+
+Alcorcón.
+
+Huelva.
+
+Logroño.
+
+Cáceres.
+
+Pontevedra.
+
+Santiago de Compostela.
+
+Castellón de la Plana/Castelló de la Plana.
+
+Badajoz.
+
+Grupo 4:
+
+Resto de destinos correspondientes a la segunda categoría de Secretarios.
+
+Grupo 5:
+
+Destinos correspondientes a la tercera categoría de Secretarios.
+
+## ANEXO II.2 — Complemento de destino del Cuerpo de Secretarios Judiciales
+
+<table class="tabla" border="0">
+<tbody>
+<tr>
+<td rowspan="2"></td>
+<td colspan="2">
+<p class="cabeza_tabla">Cuantías mensuales en euros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cabeza_tabla">Por el grupo de población</p>
+</td>
+<td>
+<p class="cabeza_tabla">Por representación</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Grupo 1:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretarios del Tribunal Supremo</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.250,87</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">664,09</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretario de gobierno de la Audiencia Nacional</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.250,87</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">664,09</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretarios de la Audiencia Nacional</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.250,87</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">577,76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretarios del Tribunal Superior de Justicia</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.250,87</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">577,76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretario coordinador provincial y Secretario de la Audiencia Provincial</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.250,87</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">554,31</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretario de órgano unipersonal, órganos no jurisdiccionales y registros civiles y de los juzgados centrales</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.250,87</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">367,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Grupo 2:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretarios del Tribunal Superior de Justicia</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.068,43</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">577,76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretario coordinador provincial y Secretario de la Audiencia Provincial</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.068,43</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">554,31</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretario de órgano unipersonal, órganos no jurisdiccionales y registros civiles</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.068,43</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">367,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Grupo 3:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretarios del Tribunal Superior de Justicia</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.020,10</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">577,76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretario coordinador provincial y Secretario de la Audiencia Provincial</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.020,10</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">554,31</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretario de órgano unipersonal, órganos no jurisdiccionales y registros civiles</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.020,10</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">367,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Grupo 4:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretario coordinador y Secretario de la Audiencia Provincial</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.012,40</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">554,31</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Resto de destinos correspondientes a la segunda categoría de secretarios judiciales</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">1.012,40</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">367,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Grupo 5:</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Resto de destinos correspondientes a la tercera categoría de secretarios judiciales</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">732,07</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">102,13</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Redactado el apartado Grupo 5 conforme a la corrección de error publicada en BOE núm. 246, de 14 de octubre de 2003. [Ref. BOE-A-2003-18926](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-18926)
+
+## Anexo II.3 — Complemento de destino por circunstancias especiales
+
+Cuantías mensuales en 2007 del complemento de destino por circunstancias especiales
+
+| Secretarios judiciales destinados en el País Vasco y Navarra | 397,99 |
+|---|---|
+| Secretarios judiciales destinados en Gran Canaria y Tenerife | 427,58 |
+| Secretarios judiciales destinados en otras islas del archipiélago canario | 534,48 |
+| Secretarios judiciales destinados en Mallorca | 88,08 |
+| Secretarios judiciales destinados en otras islas del archipiélago balear | 97,52 |
+| Secretarios judiciales destinados en el Valle de Arán | 80,23 |
+| Secretarios judiciales destinados en Ceuta y Melilla | 844,70 |
+
+> Se modifica por el art. único del Real Decreto 1171/2007, de 10 de septiembre. [Ref. BOE-A-2007-16538](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16538)
+
+> Esta modificación surte efectos económicos según establece la disposición transitoria única.
+
+## ANEXO III — Complemento específico de los miembros del Cuerpo de Secretarios Judiciales por responsabilidad y penosidad
+
+<table class="tabla">
+<tr>
+<td rowspan="2">
+</td>
+<td colspan="2">
+<p class="cabeza_tabla">Cuantías mensuales en euros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cabeza_tabla">Por responsabilidad</p>
+</td>
+<td>
+<p class="cabeza_tabla">Por penosidad</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretario de Gobierno del Tribunal Supremo</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">245,05</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Vicesecretario de Gobierno del Tribunal Supremo</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">183,79</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretario de Sala del Tribunal Supremo</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">137,84</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretarios de la Sala de lo Penal de la Audiencia Nacional</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">171,57</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretario de gobierno Tribunal Superior de Justicia</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">159,28</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Vicesecretario de gobierno Tribunal Superior de Justicia</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">119,46</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretario de gobierno de la Audiencia Nacional</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">137,84</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">171,57</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretario coordinador provincial</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">118,73</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretarios de juzgados centrales de instrucción, penal, menores</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">117,63</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">171,57</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretarios del resto de juzgados centrales</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">117,63</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretario de Decanato que se encuentre en el supuesto del artículo 166.3 de la Ley Orgánica del Poder Judicial</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">215,55</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretario de servicio común de notificaciones y embargos</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">140,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretarios Primera Instancia</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">130,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretarios Juzgados de Vigilancia Penitenciaria</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">80,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_izq">Secretarios Registro Civil Central.</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">–</p>
+</td>
+<td>
+<p class="cuerpo_tabla_der">130,00</p>
+</td>
+</tr>
+</table>

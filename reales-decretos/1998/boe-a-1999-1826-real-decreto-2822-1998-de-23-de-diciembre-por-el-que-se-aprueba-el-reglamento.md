@@ -1036,12 +1036,6 @@ Catadióptricos en los pedales.
 
 3\. Los ciclos y las bicicletas de pedales con pedaleo asistido quedan exceptuados de obtener la autorización administrativa a la que se hace referencia en el apartado 1 del artículo 1.
 
-> Téngase en cuenta que la última actualización del apartado 3, establecida por el art. 2.2 del Real Decreto 970/2020, de 10 de noviembre, entra en vigor el 2 de enero de 2021, según determina su disposición final única. [Ref. BOE-A-2020-13969](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13969)
-
-> Redacción anterior:
-
-> "3. Los ciclos y ciclos de pedaleo asistido quedan exceptuados de obtener la autorización administrativa a la que se hace referencia en el apartado 1 del artículo 1."
-
 4\. Las bicicletas, para circular de noche, por tramos de vías señalizados con la señal de «túnel» o cuando existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, deberán disponer de los siguientes dispositivos: Luz de posición delantera y trasera, catadióptrico trasero, y podrán disponer de: catadióptricos en los radios de las ruedas y en los pedales.
 
 > Se modifica el apartado 3, con efectos de 2 de enero de 2021, por el art. 2.2 del Real Decreto 970/2020, de 10 de noviembre. [Ref. BOE-A-2020-13969](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13969)
@@ -9657,14 +9651,6 @@ Los originales de los documentos mencionados podrán sustituirse por fotocopias 
 Las solicitudes presentadas por Organismos o Entidades dependientes de las Administraciones Públicas, General del Estado, Autonómica, Provincial o Municipal, serán suscritas por el Jefe del Organismo o Entidad al que pertenezca el vehículo o persona en quien delegue, acompañadas de la preceptiva documentación.
 
 4.º Tarjeta de inspección técnica que podrá emitirse en soporte papel o en soporte electrónico. No obstante lo anterior, las tarjetas de inspección técnica tipo B para vehículos de categoría M o N, y tipo BL, deberán estar emitidas de forma obligatoria en soporte electrónico.
-
-> Téngase en cuenta que esta modificación del apartado A).4º establecida por la disposición final 1 del Real Decreto 667/2015, de 17 de julio. [Ref. BOE-A-2015-8047](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8047). entra en vigor el 1 de octubre de 2015, según se indica en la disposición final 4.
-
-> No obstante, lo dispuesto en la disposición final 1, en concreto en el último inciso del párrafo primero del número 4.º, sobre obligatoriedad de emisión de tarjetas de inspección técnica en soporte electrónico, entrará en vigor en las siguientes fechas:
-
-> a) 11 de noviembre de 2015, para las tarjetas de inspección técnica tipo B de los vehículos de categoría M o N.
-
-> b) 11 de mayo de 2016, para las tarjetas de inspección técnica tipo BL.
 
 Si el vehículo es de importación, se presentará el documento único administrativo (DUA) o documento alternativo, en caso de proceder de un Estado parte del Acuerdo EEE distinto de España, salvo que en la tarjeta de inspección técnica conste la diligencia de importación.
 

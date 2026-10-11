@@ -618,12 +618,6 @@ i) Informar el proyecto de Reglamento de Explotación y Policía de los puertos,
 
 j) Controlar en el ámbito portuario, el cumplimiento de la normativa que afecte a la admisión, manipulación y almacenamiento de mercancías peligrosas, al igual que los sistemas de seguridad y de protección ante acciones terroristas y antisociales, contra incendios y de prevención y control de emergencias en los términos establecidos por la normativa sobre protección civil, y lucha contra la contaminación marina, sin perjuicio de las competencias que correspondan a otros órganos de las Administraciones públicas, así como colaborar con las Administraciones competentes sobre protección civil, prevención y extinción de incendios y salvamento.
 
-> Téngase en cuenta que la redacción de este apartado, establecida por la disposición final 3.1 de la Ley 14/2014, de 24 de julio [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877). entra en vigor el 25 de septiembre de 2014.
-
-> Redacción anterior:
-
-> j) Controlar en el ámbito portuario, el cumplimiento de la normativa que afecte a la admisión, manipulación y almacenamiento de mercancías peligrosas, al igual que los sistemas de seguridad y de protección ante acciones terroristas y antisociales, contra incendios y de prevención y control de emergencias en los términos establecidos por la normativa sobre protección civil, sin perjuicio de las competencias que correspondan a otros órganos de las Administraciones públicas, así como colaborar con las Administraciones competentes sobre protección civil, prevención y extinción de incendios, salvamento y lucha contra la contaminación.
-
 k) Aprobar libremente las tarifas por los servicios comerciales que presten, así como proceder a su aplicación y recaudación.
 
 l) Otorgar las concesiones y autorizaciones y elaborar y mantener actualizados los censos y registros de usos del dominio público portuario. Así como otorgar las licencias de prestación de servicios portuarios en la zona de servicio del puerto.
@@ -1197,12 +1191,6 @@ Dichas instalaciones deberán contar con un plan de contingencias por contaminac
 La disponibilidad de estos medios será exigida por la Autoridad Portuaria para autorizar la prestación de los servicios y el funcionamiento de las instalaciones portuarias incluidas en el párrafo primero de este apartado.
 
 3\. Las Autoridades Portuarias serán los organismos competentes en la prevención y control de las emergencias por contaminación en la zona de servicio de los puertos que gestionen, así como de la limpieza y control de las contaminaciones que se produzcan.
-
-> Téngase en cuenta que la redacción de este apartado, establecida por la disposición final 3.2 de la Ley 14/2014, de 24 de julio [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877). entra en vigor el 25 de septiembre de 2014.
-
-> Redacción anterior:
-
-> 3\. Las Autoridades Portuarias colaborarán con las Administraciones competentes en la prevención y control de las emergencias por contaminación accidental en la zona de servicio de los puertos que gestionen.
 
 4\. Todos los vertidos desde tierra al mar requerirán autorización de la Administración competente, sin perjuicio de la autorización o concesión de ocupación de dominio público que, en su caso, otorgará la Autoridad Portuaria.
 
@@ -2095,12 +2083,6 @@ d) El servicio de policía en las zonas comunes, sin perjuicio de las competenci
 e) El servicio de alumbrado de las zonas comunes.
 
 f) El servicio de limpieza habitual de las zonas comunes de tierra y de agua. No se incluyen en este servicio la limpieza de muelles y explanadas como consecuencia de las operaciones de depósito y manipulación de mercancías.
-
-> Téngase en cuenta que la redacción de la letra f), establecida por la disposición final 3 de la Ley 14/2014, de 24 de julio [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877). entra en vigor el 25 de septiembre de 2014.
-
-> Redacción anterior:
-
-> f) El servicio de limpieza habitual de las zonas comunes de tierra y de agua. No se incluyen en este servicio la limpieza de muelles y explanadas como consecuencia de las operaciones de depósito y manipulación de mercancías, ni la de los derrames y vertidos marinos contaminantes.
 
 g) Los servicios de prevención y control de emergencias, en los términos establecidos por la normativa sobre protección civil, en colaboración con las Administraciones competentes sobre protección civil, prevención y extinción de incendios, salvamento y lucha contra la contaminación.
 
@@ -3262,8 +3244,6 @@ En el caso de que para el ejercicio de aplicación de los coeficientes corrector
 
 No obstante los límites anteriores, las Autoridades Portuarias que hayan suscrito un Convenio de Normalización Financiera, en los términos previstos en el artículo 160.3 de esta Ley, deberán aplicar en todo caso coeficientes correctores superiores a la unidad e inferiores a 1,30. Estos coeficientes correctores serán acordados por la Autoridad Portuaria con Puertos del Estado en el marco del correspondiente Plan de Empresa.
 
-> Téngase en cuenta que la redacción del apartado 1 establecida por la disposición final 2.1 de la Ley Orgánica 9/2013, de 20 de diciembre. [Ref. BOE-A-2013-13425](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13425)., entra en vigor el 1 de enero de 2014. Asímismo véase lo previsto en su disposición transitoria.
-
 2\. El Ministro de Fomento desarrollará, mediante orden, criterios generales que deben regir las propuestas de estos coeficientes correctores, en aplicación de la política económica general que dicte el Gobierno, teniendo en cuenta los siguientes principios:
 
 a) Máxima contribución posible de cada puerto a la competitividad de su área de influencia económica, limitando subidas de cuantías que puedan tener un efecto inflacionario o un perjuicio grave sobre determinados tráficos, particularmente aquellos altamente dependientes del puerto.
@@ -3430,8 +3410,6 @@ La actualización no será aplicable cuando, por causas imputables a la Autorida
 
 La actualización del valor de los terrenos y las aguas del puerto no afectará a las concesiones y autorizaciones otorgadas, sin perjuicio de la actualización de la cuantía de la tasa conforme a lo previsto en el artículo siguiente.
 
-> Téngase en cuenta que la redacción del apartado 2 establecida por la disposición final 2.2 de la Ley Orgánica 9/2013, de 20 de diciembre. [Ref. BOE-A-2013-13425](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13425)., entra en vigor el 1 de enero de 2014. Asímismo véase lo previsto en su disposición transitoria.
-
 3\. Además, las valoraciones podrán revisarse para la totalidad de la zona de servicio y de los terrenos afectados a ayudas a la navegación cada cinco años y, en todo caso, deberán revisarse al menos cada 10 años. Asimismo, deberán revisarse cuando se apruebe o modifique la Delimitación de los Espacios y Usos Portuarios, en la parte de la zona de servicio que se encuentre afectada por dicha modificación o cuando se produzca cualquier circunstancia que pueda afectar a su valor. Cuando se incorpore un nuevo terreno se le asignará el valor correspondiente a los terrenos del área funcional de similares características.
 
 > Se modifica el apartado 2 por la disposición final 2.2 de la Ley Orgánica 9/2013, de 20 de diciembre. [Ref. BOE-A-2013-13425](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13425).
@@ -3443,8 +3421,6 @@ La actualización del valor de los terrenos y las aguas del puerto no afectará 
 1\. La Autoridad Portuaria reflejará en las condiciones de la concesión o autorización la cuota íntegra de la tasa.
 
 A través de la Ley de Presupuestos Generales del Estado u otra que, en su caso, se apruebe a estos efectos, se podrá proceder a la variación de la cuota íntegra de la tasa, en lo que respecta a la ocupación de terrenos y aguas, cuando se justifique por variaciones en los costes o en las condiciones de demanda. Dichos elementos deberán ser evaluados con arreglo a la eficiencia económica y la buena gestión empresarial, no considerándose en ningún caso los costes asociados a la mano de obra, los costes financieros, los gastos generales o de estructura ni el beneficio industrial, cuando sean imputables a decisiones de las propias empresas o agentes económicos. Las variaciones deberán estar adecuadamente justificadas en una memoria económica específica para este fin.
-
-> Téngase en cuenta que la redacción del apartado 1 establecida por la disposición final 2.3 de la Ley Orgánica 9/2013, de 20 de diciembre. [Ref. BOE-A-2013-13425](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13425)., entra en vigor el 1 de enero de 2014. Asímismo véase lo previsto en su disposición transitoria.
 
 2\. La cuota íntegra de la tasa en las concesiones y autorizaciones será, además, revisada de acuerdo con las nuevas valoraciones que sean aprobadas por el Ministro de Fomento de conformidad con lo establecido en el artículo anterior. Si como consecuencia de estas revisiones la cuantía de la cuota íntegra vigente en el momento de la revisión sufriera un incremento superior al 10 por ciento, se aplicará un incremento máximo anual del 10 por ciento hasta alcanzar la cuota resultante de la nueva valoración. Todo ello, sin perjuicio de la actualización prevista en el apartado anterior. El importe de la cuota íntegra de la tasa en ningún caso podrá incrementarse, como consecuencia de las revisiones que se produzcan durante el periodo de vigencia de la concesión, en más de un 20 por ciento, cada 15 años, de la cuantía fijada en el título administrativo o, en su caso, de la establecida en una revisión anterior, debidamente actualizada en ambos casos en función del IPC. La anterior limitación no será de aplicación a las áreas de la zona de servicio destinadas a usos vinculados a la interacción puerto-ciudad.
 
@@ -3730,8 +3706,6 @@ La base imponible y el tipo de gravamen asociado a la misma se fijarán, en el m
 **Artículo 190. Actualización de la base imponible.**
 
 Cuando la base imponible de la tasa no se fije en función de la cifra o del volumen de negocio, a través de la Ley de Presupuestos Generales del Estado u otra que, en su caso, se apruebe a estos efectos, se podrá proceder a la variación del tipo de gravamen cuando se justifique por variaciones en los costes o en las condiciones de demanda. Dichos elementos deberán ser evaluados con arreglo a la eficiencia económica y la buena gestión empresarial, no considerándose en ningún caso los costes asociados a la mano de obra, los costes financieros, los gastos generales o de estructura ni el beneficio industrial, cuando sean imputables a decisiones de las propias empresas o agentes económicos. Las variaciones deberán estar adecuadamente justificadas en una memoria económica específica para este fin.
-
-> Téngase en cuenta que ésta redacción establecida por la disposición final 2.5 de la Ley Orgánica 9/2013, de 20 de diciembre. [Ref. BOE-A-2013-13425](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13425)., entra en vigor el 1 de enero de 2014. Asímismo véase lo previsto en su disposición transitoria.
 
 > Se modifica por la disposición final 2.5 de la Ley Orgánica 9/2013, de 20 de diciembre. [Ref. BOE-A-2013-13425](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13425).
 
@@ -4961,18 +4935,6 @@ En particular, la Administración marítima podrá obligar a las empresas navier
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única.h) de la Ley 14/2014, de 24 de julio, [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877). entra en vigor el 25 de septiembre de 2014.
-
-> Redacción anterior:
-
-> 1\. Se entiende por conferencia marítima un grupo constituido por dos o más empresas navieras que efectúan navegaciones de línea regular de cabotaje, exterior o extranacional en una o varias rutas particulares, dentro de determinados límites geográficos, y que han concertado un acuerdo, cualquiera que sea su naturaleza, dentro de cuyo marco actúan ateniéndose a unos fletes uniformes o comunes o a cualesquiera otras condiciones convenidas en lo que respecta a la navegación.
-
-> 2\. Las conferencias marítimas deberán garantizar una oferta de servicios suficiente y eficaz, teniendo en cuenta los intereses de los usuarios.
-
-> Dichas conferencias estarán sometidas a la competencia de los servicios regulares no integrados en las mismas y, en su caso, de los servicios no regulares que operen en dichas rutas, sin que, en ningún caso, la actuación de las conferencias pueda suponer la eliminación de la competencia sobre partes sustanciales del mercado en el que prestan sus servicios, que pueda crear situaciones dominantes por parte de las empresas integradas en las mismas.
-
-> 3\. Los usuarios de los servicios de las líneas regulares conferenciadas de acuerdo con lo establecido en el apartado anterior podrán constituir organizaciones denominadas consejos de usuarios, con objeto de defender sus intereses, especialmente en lo referente a las condiciones tarifarias y de calidad y regularidad en que se prestan dichos servicios, y ofrecer a sus miembros un servicio de asesoramiento y consulta de fletes y servicios marítimos.
-
 > Se deroga por la disposición derogatoria única.h) de la Ley 14/2014, de 24 de julio. [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
 
 > Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 73, de 26 de marzo de 2012. [Ref. BOE-A-2012-4126](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4126).
@@ -4980,14 +4942,6 @@ En particular, la Administración marítima podrá obligar a las empresas navier
 **Artículo 262. Obligaciones de información y consulta.**
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única.h) de la Ley 14/2014, de 24 de julio, [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877). entra en vigor el 25 de septiembre de 2014.
-
-> Redacción anterior:
-
-> 1\. Las conferencias marítimas cuyos buques hagan escala en puertos españoles para cargar o descargar mercancías, deberán comunicar a la Dirección General de la Marina Mercante, en el caso de serles requerido por ésta, cuantos acuerdos de distribución de cargas, escalas o salidas hayan concluido, los documentos directamente relacionados con dichos acuerdos, las tarifas y demás condiciones de transporte.
-
-> 2\. En el supuesto de que se encuentren constituidas conferencias marítimas y consejos de usuarios, ambas organizaciones deberán efectuar consultas mutuas cada vez que fueran solicitadas por alguna de las partes con vistas a resolver los problemas relativos al funcionamiento de los transportes marítimos.
 
 > Se deroga por la disposición derogatoria única.h) de la Ley 14/2014, de 24 de julio. [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
 
@@ -5003,12 +4957,6 @@ a) Las relativas a la seguridad de la vida humana en la mar y de la navegación 
 
 b) Las relativas al salvamento de la vida humana en la mar, así como la limpieza de las aguas marítimas y la lucha contra la contaminación del medio marino, en zonas en las que España ejerza soberanía, derechos soberanos o jurisdicción, adoptando las medidas que pudieran resultar precisas y en particular las señaladas en la letra d) del artículo 310.2 de la presente ley y en los términos que le atribuyan los planes y programas previstos en el artículo 264, sin perjuicio de las competencias atribuidas a las Comunidades Autónomas en los casos de vertidos procedentes de tierra.
 
-> Téngase en cuenta que la redacción de la letra b), establecida por la disposición final 3.4 de la Ley 14/2014, de 24 de julio, [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877). entra en vigor el 25 de septiembre de 2014.
-
-> Redacción anterior:
-
-> b) Las relativas al salvamento de la vida humana en la mar, así como la limpieza de las aguas marítimas y la lucha contra la contaminación del medio marino, en zonas en las que España ejerza soberanía, derechos soberanos o jurisdicción, incluidas las aguas de las zonas de servicio de los puertos, adoptando las medidas que pudieran resultar precisas y en particular las señaladas en la letra d) del artículo 310.2 de la presente ley y en los términos que le atribuyan los planes y programas previstos en el artículo 264, sin perjuicio de las competencias atribuidas a las Comunidades Autónomas en los casos de vertidos procedentes de tierra.
-
 c) Las referentes al control de la situación, del registro y del abanderamiento de todos los buques civiles españoles, así como la regulación del despacho, sin perjuicio de las autorizaciones previas que correspondan a otras autoridades.
 
 d) El otorgamiento de concesiones o autorizaciones de servicios de navegación marítima, salvo en el supuesto en que una Comunidad Autónoma tenga competencias en materia de transporte marítimo y éste transcurra entre puertos o puntos de la misma, sin conexión con puertos o puntos de otros ámbitos territoriales.
@@ -5018,12 +4966,6 @@ e) La ordenación y ejecución de las inspecciones y los controles técnicos, ra
 La realización efectiva de las inspecciones y los controles antes señalados podrá efectuarse, bien directamente por el Ministerio de Fomento o bien a través de Entidades Colaboradoras, en los términos que reglamentariamente se establezcan, que, en todo caso, actuarán bajo los criterios y directrices emanados de la Administración titular, y pudiendo percibir como contraprestación de sus servicios las compensaciones económicas que se establezcan para cubrir sus costes.
 
 f) **(Derogada)**
-
-> Téngase en cuenta que la derogación de la letra f), establecida por la disposición derogatoria única.h) de la Ley 14/2014, de 24 de julio, [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877). entra en vigor el 25 de septiembre de 2014.
-
-> Redacción anterior:
-
-> f) Las de auxilio, salvamento y remolques, hallazgos y extracciones marítimas, salvo los de material militar o que puedan afectar a la defensa, que seguirán correspondiendo al Ministerio de Defensa, y sin perjuicio de las potestades que puedan corresponder a la Administración competente en materia de hallazgos o extracciones de valor histórico, artístico o arqueológico.
 
 Cuando, como resultado de la actuación directa de la Administración del Estado, se produjesen premios o compensaciones, éstos se ingresarán directamente en el Tesoro, pudiendo generar crédito para el desarrollo de las actividades que hayan producido el citado ingreso.
 
@@ -5112,12 +5054,6 @@ e) La disponibilidad por razones de seguridad marítima de los servicios de prac
 f) La dirección y control organizativos de la función inspectora de los buques civiles españoles, de los que se hallen en construcción en España, de los extranjeros en casos autorizados por los acuerdos internacionales y de las mercancías a bordo de los mismos, especialmente de las clasificadas internacionalmente como peligrosas, así como de los medios de estiba y desestiba en los aspectos relacionados con la seguridad marítima.
 
 g) Y, en general, todas aquellas funciones relativas a la navegación, seguridad marítima, salvamento marítimo y lucha contra la contaminación del medio marino en aguas situadas en zonas en las que España ejerza soberanía, derechos soberanos o jurisdicción, salvo en los casos de contaminación que se produzca en la zona de servicio de los puertos, que corresponde a las Autoridades Portuarias, con las que tendrán un deber de especial colaboración en esos supuestos.
-
-> Téngase en cuenta que la redacción de la letra g), establecida por la disposición final 3 de la Ley 14/2014, de 24 de julio, [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877). entra en vigor el 25 de septiembre de 2014.
-
-> Redacción anterior:
-
-> g) Y, en general, todas aquellas funciones relativas a la navegación, seguridad marítima, salvamento marítimo y lucha contra la contaminación del medio marino en aguas situadas en zonas en las que España ejerza soberanía, derechos soberanos o jurisdicción, en las que quedan incluidas las aguas de las zonas de servicio de los puertos.
 
 > Se modifica la letra g) por la disposición final 3 de la Ley 14/2014, de 24 de julio. [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
 
@@ -6533,15 +6469,11 @@ Lo dispuesto en esta Ley en materia de responsabilidad medioambiental procederá
 
 6\. La gestión de la tasa se llevará a cabo por la Dirección General de la Marina Mercante del Ministerio de Fomento.
 
-> Téngase en cuenta que esta disposición, añadida por la disposición final 3.7 de la Ley 14/2014, de 24 de julio, [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877). entra en vigor del 25 de septiembre de 2014.
-
 > Se añade por la disposición final 3.7 de la Ley 14/2014, de 24 de julio, [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
 
 **Disposición adicional trigésima quinta. Actualización de las cuantías de las tasas.**
 
 Las cuantías de las tasas reguladas en el título IV del Libro Segundo de la presente ley podrán ser modificadas por la Ley de Presupuestos Generales del Estado
-
-> Téngase en cuenta que esta disposición, añadida por la disposición final 3.8 de la Ley 14/2014, de 24 de julio, [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877). entra en vigor del 25 de septiembre de 2014.
 
 > Se añade por la disposición final 3.8 de la Ley 14/2014, de 24 de julio, [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
 

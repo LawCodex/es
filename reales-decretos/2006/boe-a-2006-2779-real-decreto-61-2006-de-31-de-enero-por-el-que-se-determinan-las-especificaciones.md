@@ -214,8 +214,6 @@ El presente apartado se aplicará a cualquier buque de cualquier pabellón, incl
 
 El presente apartado se aplicará a cualquier buque de cualquier pabellón, incluidos aquellos cuya travesía hubiera comenzado fuera de la Unión Europea, sin perjuicio de lo dispuesto en el apartado 1 del presente artículo.
 
-> Téngase en cuenta la disposición transitoria segunda del Real Decreto 290/2015, de 17 de abril, en cuanto a los límites al contenido de azufre a que hace referencia el apartado 2. [Ref. BOE-A-2015-4218](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4218).
-
 3\. La Dirección General de la Marina Mercante definirá y desarrollará los procedimientos necesarios para controlar el cumplimiento de lo previsto en el apartado 1 y 2, a cualquier buque de cualquier pabellón, incluidos aquéllos cuya travesía hubiera comenzado fuera de la Unión Europea.
 
 4\. La Dirección General de la Marina Mercante exigirá que se cumplimenten debidamente los diarios de buques y/o libros registro de hidrocarburos, incluido el registro de las operaciones de cambio de combustible y la hora a la que se efectúe tal operación.

@@ -2312,8 +2312,6 @@ Estos Ayuntamientos, si lo fueran del Municipio de mayor población dentro de un
 
 – Dieciocho, si el Municipio tiene una población de más de 1.500.000 habitantes.
 
-> Téngase en cuenta que el segundo párrafo, añadido por la disposición final 19 de la Ley 48/2015, de 29 de octubre. [Ref. BOE-A-2015-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11644). entra en vigor el 1 de enero de 2016.
-
 2\. El número de puestos de trabajo cuya cobertura corresponda a personal eventual en las Diputaciones provinciales será el mismo que el del tramo correspondiente a la Corporación del Municipio más poblado de su Provincia. En el caso de los Consejos y Cabildos insulares, no podrá exceder de lo que resulte de aplicar el siguiente criterio: en las islas con más de 800.000 habitantes, se reduce en 2 respecto al número actual de miembros de cabildo, y, en las de menos de 800.000 habitantes, el 60% de los cargos electos en cada Cabildo o Consejo Insular.
 
 3\. **(Anulado).**

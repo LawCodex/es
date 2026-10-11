@@ -1,0 +1,155 @@
+---
+title: "Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas"
+identifier: "BOE-A-2007-22450"
+eli: "https://www.boe.es/eli/es/o/2007/12/27/eci3858"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación y Ciencia"
+date: 2007-12-27
+published: 2007-12-29
+in_force_from: 2007-12-30
+last_amended: 2011-12-26
+consolidated: 2026-05-08
+gazette: "Boletín Oficial del Estado núm. 312"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-22450"
+retrieved: 2026-10-11
+---
+
+# Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas
+
+La disposición adicional novena del Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, establece que el Ministerio de Educación y Ciencia precisará los contenidos de su anexo I a los que habrán de ajustarse las solicitudes presentadas por las universidades para la obtención de la verificación de los planes de estudios conducentes a la obtención de títulos oficiales de Grado o de Máster, prevista en su artículo 24, que habiliten para el ejercicio de profesiones reguladas.
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en sus artículos 94, 95 y 97, conforma las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas como profesiones reguladas, cuyo ejercicio requiere estar en posesión del correspondiente título oficial de Máster, obtenido, en este caso, de acuerdo con lo previsto en el artículo 15.4 del referido Real Decreto 1393/2007, conforme a las condiciones establecidas en el Acuerdo de Consejo de Ministros de 14 de diciembre de 2007, publicado en el «Boletín Oficial del Estado» de 21 de diciembre de 2007.
+
+Dicho Acuerdo, en su apartado cuarto, en relación con la disposición adicional novena anteriormente citada, encomienda al Ministro de Educación y Ciencia el establecimiento de los requisitos respecto a objetivos del título y planificación de las enseñanzas.
+
+Por lo tanto, a la vista de las disposiciones citadas, resulta procedente establecer los requisitos a los que deberán adecuarse los planes de estudios conducentes a la obtención de los títulos de Máster que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas, que presenten las universidades para su verificación por el Consejo de Universidades.
+
+En su virtud, previo informe del Consejo de Universidades, dispongo:
+
+## Primero. Requisitos de los planes de estudios conducentes a la obtención de los títulos de Máster que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
+
+Los planes de estudios conducentes a la obtención de los títulos de Máster que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas, deberán cumplir además de lo previsto en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales y en el Real Decreto 861/2010, de 2 de julio, por el que se modifica el Real Decreto 1393/2007, los requisitos respecto a la Memoria para la solicitud de verificación de títulos oficiales, que se señalan en el Anexo a la presente Orden.
+
+> Se modifica por el art. 1 de la Orden EDU/3498/2011, de 16 de diciembre. [Ref. BOE-A-2011-20181](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20181).
+
+## Segundo. Habilitación de aplicación y desarrollo.
+
+Se autoriza a la Dirección General de Universidades para dictar las resoluciones necesarias para el desarrollo y aplicación de la presente Orden.
+
+## Tercero. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+## Disposición transitoria primera. Acreditación del dominio de lengua extranjera.
+
+Con carácter transitorio, para el curso académico 2009-2010, el cumplimiento del requisito de acceso al Máster Universitario que habilite para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y de Bachillerato, de Formación Profesional y de Enseñanzas de Idiomas, expresado en el apartado 4.2 del Anexo de la Orden, relativo a la acreditación del dominio de una lengua extranjera equivalente al nivel B1 del Marco Común Europeo de Referencia para las Lenguas, de acuerdo con la Recomendación N.º R (98)6 del Comité de Ministros de Estados Miembros de 17 de octubre de 2000, podrá ser acreditado por el estudiante a la finalización de los citados estudios oficiales de Máster.
+
+> Se añade por el artículo único.a) de la Orden EDU/3424/2009, de 11 de diciembre. [Ref. BOE-A-2009-20496](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20496).
+
+## Disposición transitoria segunda. Créditos presenciales.
+
+Con carácter transitorio para el curso académico 2009-2010, el porcentaje de créditos presenciales a que se refiere el párrafo 2 del apartado 5 del anexo de la Orden, sobre planificación de las enseñanzas, se fija en un 65%.
+
+> Se añade por el artículo único.b) de la Orden EDU/3424/2009, de 11 de diciembre. [Ref. BOE-A-2009-20496](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20496).
+
+Madrid, 27 de diciembre de 2007.–La Ministra de Educación y Ciencia, Mercedes Cabrera Calvo-Sotelo.
+
+## ANEXO — Desarrollo de determinados apartados del anexo I del Real Decreto 1393/2007, modificado por el artículo veintiuno del Real Decreto 861/2010, de 2 de julio, como requisitos a verificar por los títulos oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de idiomas
+
+Se desarrollan los siguientes apartados del anexo I del Real Decreto 1393/2007, modificado por el artículo veintiuno del Real Decreto 861/2010, de 2 de julio:
+
+Apartado 1.1 Denominación:
+
+La denominación de los títulos deberá ajustarse a lo dispuesto en el apartado segundo del Acuerdo de Consejo de Ministros de 14 de diciembre de 2007 por el que se establecen las condiciones a las que deberán adecuarse los planes de estudios conducentes a la obtención de títulos que habiliten para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas, publicado en el «Boletín Oficial del Estado» de 21 de diciembre de 2007 mediante Resolución del Secretario de Estado de Universidades e Investigación de 17 de diciembre de 2007, y a lo dispuesto en la presente Orden. Así:
+
+1\. La denominación de los títulos universitarios oficiales a los que se refiere el apartado anterior, deberá facilitar la identificación de la profesión para cuyo ejercicio habilita y en ningún caso, podrá conducir a error o confusión sobre sus efectos profesionales.
+
+2\. No podrá ser objeto de verificación por parte del Consejo de Universidades ningún plan de estudios correspondiente a un título universitario oficial cuya denominación incluya la referencia expresa a las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas sin que dicho título cumpla las condiciones establecidas en el referido Acuerdo y en la presente Orden.
+
+Apartado 3. Competencias.
+
+Competencias que los estudiantes deben adquirir:
+
+1\. Conocer los contenidos curriculares de las materias relativas a la especialización docente correspondiente, así como el cuerpo de conocimientos didácticos en torno a los procesos de enseñanza y aprendizaje respectivos. Para la formación profesional se incluirá el conocimiento de las respectivas profesiones.
+
+2\. Planificar, desarrollar y evaluar el proceso de enseñanza y aprendizaje potenciando procesos educativos que faciliten la adquisición de las competencias propias de las respectivas enseñanzas, atendiendo al nivel y formación previa de los estudiantes así como la orientación de los mismos, tanto individualmente como en colaboración con otros docentes y profesionales del centro.
+
+3\. Buscar, obtener, procesar y comunicar información (oral, impresa, audiovisual, digital o multimedia), transformarla en conocimiento y aplicarla en los procesos de enseñanza y aprendizaje en las materias propias de la especialización cursada.
+
+4\. Concretar el currículo que se vaya a implantar en un centro docente participando en la planificación colectiva del mismo; desarrollar y aplicar metodologías didácticas tanto grupales como personalizadas, adaptadas a la diversidad de los estudiantes.
+
+5\. Diseñar y desarrollar espacios de aprendizaje con especial atención a la equidad, la educación emocional y en valores, la igualdad de derechos y oportunidades entre hombres y mujeres, la formación ciudadana y el respeto de los derechos humanos que faciliten la vida en sociedad, la toma de decisiones y la construcción de un futuro sostenible.
+
+6\. Adquirir estrategias para estimular el esfuerzo del estudiante y promover su capacidad para aprender por sí mismo y con otros, y desarrollar habilidades de pensamiento y de decisión que faciliten la autonomía, la confianza e iniciativa personales.
+
+7\. Conocer los procesos de interacción y comunicación en el aula, dominar destrezas y habilidades sociales necesarias para fomentar el aprendizaje y la convivencia en el aula, y abordar problemas de disciplina y resolución de conflictos.
+
+8\. Diseñar y realizar actividades formales y no formales que contribuyan a hacer del centro un lugar de participación y cultura en el entorno donde esté ubicado; desarrollar las funciones de tutoría y de orientación de los estudiantes de manera colaborativa y coordinada; participar en la evaluación, investigación y la innovación de los procesos de enseñanza y aprendizaje.
+
+9\. Conocer la normativa y organización institucional del sistema educativo y modelos de mejora de la calidad con aplicación a los centros de enseñanza.
+
+10\. Conocer y analizar las características históricas de la profesión docente, su situación actual, perspectivas e interrelación con la realidad social de cada época.
+
+11\. Informar y asesorar a las familias acerca del proceso de enseñanza y aprendizaje y sobre la orientación personal, académica y profesional de sus hijos.
+
+En el caso de la especialidad de Orientación Educativa, la formación recibida permitirá además:
+
+12\. Conocer las características psicopedagógicas de los alumnos para poder evaluarlos y emitir los informes que se requieran.
+
+13\. Conocer las medidas de atención a la diversidad que se pueden adoptar para poder realizar el asesoramiento necesario en cada caso.
+
+14\. Analizar la organización y funcionamiento del centro para coordinar la orientación, personal, académica y profesional del alumnado en colaboración con los miembros de la comunidad escolar.
+
+15\. Desarrollar las habilidades y técnicas necesarias para poder asesorar adecuadamente a las familias acerca del proceso de desarrollo y de aprendizaje de sus hijos.
+
+16\. Identificar los servicios públicos y entidades comunitarias con las que pueda colaborar el centro y promover y planificar, en colaboración con el equipo directivo, las acciones necesarias para una mejor atención del alumnado.
+
+Apartado 4.2 Condiciones de acceso al Máster:
+
+Para el ingreso en el Máster se establece como requisito de acceso la acreditación del dominio de las competencias relativas a la especialización que se desee cursar, mediante la realización de una prueba diseñada al efecto por las Universidades, de la que quedarán exentos quienes estén en posesión de alguna de las titulaciones universitarias que se correspondan con la especialización elegida.
+
+Asimismo, habrá de acreditarse el dominio de una lengua extranjera equivalente al nivel B1 del Marco Común Europeo de Referencia para las Lenguas, de acuerdo con la Recomendación N.º R (98)6 del Comité de Ministros de Estados Miembros de 17 de octubre de 2000.
+
+Apartado 5. Planificación de las enseñanzas.
+
+Los títulos a que se refiere el presente acuerdo son enseñanzas universitarias oficiales de Máster, y sus planes de estudios tendrán una duración de 60 créditos europeos a los que se refiere el artículo 5 del mencionado Real Decreto 1393/2007, de 29 de octubre.
+
+Estas enseñanzas se estructurarán teniendo en cuenta las materias y ámbitos docentes en educación secundaria obligatoria y bachillerato, formación profesional, enseñanzas artísticas, enseñanzas de idiomas y enseñanzas deportivas. Con carácter general, han de ser presenciales, al menos, en el 80% de los créditos totales del Máster, incluido necesariamente el Practicum. Las Universidades que por su especificidad diseñan, programan y desarrollan las enseñanzas exclusivamente a distancia, han de garantizar que el Practicum tenga carácter presencial. El Practicum se realizará en colaboración con las instituciones educativas establecidas mediante convenios entre Universidades y Administraciones Educativas. Las instituciones educativas participantes en la realización del Practicum habrán de estar reconocidas como centros de prácticas, así como los tutores encargados de la orientación y tutela de los estudiantes.
+
+El plan de estudios deberá incluir como mínimo, los siguientes módulos:
+
+| Módulo | N.º de créditos europeos | Competencias que deben adquirirse |
+|---|---|---|
+| Genérico. | 12 |  |
+| Aprendizaje y desarrollo de la personalidad. |  | Conocer las características de los estudiantes, sus contextos sociales y motivaciones. Comprender el desarrollo de la personalidad de estos estudiantes y las posibles disfunciones que afectan al aprendizaje. Elaborar propuestas basadas en la adquisición de conocimientos, destrezas y aptitudes intelectuales y emocionales. Identificar y planificar la resolución de situaciones educativas que afectan a estudiantes con diferentes capacidades y diferentes ritmos de aprendizaje. |
+| Procesos y contextos educativos. |  | Conocer los procesos de interacción y comunicación en el aula y en el centro, abordar y resolver posibles problemas. Conocer la evolución histórica del sistema educativo en nuestro país. Conocer y aplicar recursos y estrategias de información, tutoría y orientación académica y profesional. Promover acciones de educación emocional, en valores y formación ciudadana. Participar en la definición del proyecto educativo y en las actividades generales del centro atendiendo a criterios de mejora de la calidad, atención a la diversidad, prevención de problemas de aprendizaje y convivencia. |
+| Sociedad, familia y educación. |  | Relacionar la educación con el medio y comprender la función educadora de la familia y la comunidad, tanto en la adquisición de competencias y aprendizajes como en la educación en el respeto de los derechos y libertades, en la igualdad de derechos y oportunidades entre hombres y mujeres y en la igualdad de trato y no discriminación de las personas con discapacidad. Conocer la evolución histórica de la familia, sus diferentes tipos y la incidencia del contexto familiar en la educación. Adquirir habilidades sociales en la relación y orientación familiar. |
+| Específico. | 24 |  |
+| Complementos para la formación disciplinar. |  | Conocer el valor formativo y cultural de las materias correspondientes a la especialización y los contenidos que se cursan en las respectivas enseñanzas. Conocer la historia y los desarrollos recientes de las materias y sus perspectivas para poder transmitir una visión dinámica de las mismas. Conocer contextos y situaciones en que se usan o aplican los diversos contenidos curriculares. En formación profesional, conocer la evolución del mundo laboral, la interacción entre sociedad, trabajo y calidad de vida, así como la necesidad de adquirir la formación adecuada para la adaptación a los cambios y transformaciones que puedan requerir las profesiones. En el caso de la orientación psicopedagógica y profesional, conocer los procesos y recursos para la prevención de problemas de aprendizaje y convivencia, los procesos de evaluación y de orientación académica y profesional. |
+| Aprendizaje y enseñanza de las materias correspondientes. |  | Conocer los desarrollos teórico-prácticos de la enseñanza y el aprendizaje de las materias correspondientes. Transformar los currículos en programas de actividades y de trabajo. Adquirir criterios de selección y elaboración de materiales educativos. Fomentar un clima que facilite el aprendizaje y ponga en valor las aportaciones de los estudiantes. Integrar la formación en comunicación audiovisual y multimedia en el proceso de enseñanza-aprendizaje. Conocer estrategias y técnicas de evaluación y entender la evaluación como un instrumento de regulación y estímulo al esfuerzo. |
+| Innovación docente e iniciación a la investigación educativa. |  | Conocer y aplicar propuestas docentes innovadoras en el ámbito de la especialización cursada. Analizar críticamente el desempeño de la docencia, de las buenas prácticas y de la orientación utilizando indicadores de calidad. Identificar los problemas relativos a la enseñanza y aprendizaje de las materias de la especialización y plantear alternativas y soluciones. Conocer y aplicar metodologías y técnicas básicas de investigación y evaluación educativas y ser capaz de diseñar y desarrollar proyectos de investigación, innovación y evaluación. |
+| Practicum. | 16 |  |
+| Practicum en la<br>especialización, incluyendo el Trabajo fin de Máster. |  | Adquirir experiencia en la planificación, la docencia y la evaluación de las materias correspondientes a la especialización. Acreditar un buen dominio de la expresión oral y escrita en la práctica docente. Dominar las destrezas y habilidades sociales necesarias para fomentar un clima que facilite el aprendizaje y la convivencia. Participar en las propuestas de mejora en los distintos ámbitos de actuación a partir de la reflexión basada en la práctica. Para la formación profesional, conocer la tipología empresarial correspondiente a los sectores productivos y comprender los sistemas organizativos más comunes en las empresas. Respecto a la orientación, ejercitarse en la evaluación psicopedagógica, el asesoramiento a otros profesionales de la educación, a los estudiantes y a las familias. Estas competencias, junto con las propias del resto de materias, quedarán reflejadas en el Trabajo fin de Máster que compendia la formación adquirida a lo largo de todas las enseñanzas descritas. |
+
+A la especialidad ''*Orientación educativa''* le corresponderá un plan de estudios específico que deberá incluir como mínimo los siguientes módulos:
+
+**CONTENIDOS FORMATIVOS**
+
+| Materias | N.º de ECTS | Competencias que deben adquirirse |
+|---|---|---|
+| GENÉRICO |  |  |
+| Desarrollo, aprendizaje<br>y educación. | 12 | Identificar y valorar los factores y procesos que inciden en la capacidad de aprendizaje del alumnado y en su rendimiento escolar. Analizar, elaborar y revisar propuestas de materiales, situaciones y contextos educativos a partir del conocimiento de estos factores y procesos y de las teorías actuales del aprendizaje y de la instrucción. |
+| Procesos y contextos educativos. |  | Conocer la evolución de los diferentes sistemas de orientación y asesoramiento psicopedagógico. Analizar las relaciones entre los distintos contextos educativos del alumnado y diseñar estrategias de orientación e intervención orientadas a promover su articulación y complementariedad. Analizar las características, organización y funcionamiento de los centros educativos y valorar la funcionalidad de los procesos y órganos de dirección, participación y coordinación pedagógica y didáctica. Conocer los procesos de interacción y comunicación en el aula. Saber diseñar los distintos documentos de planificación del Centro y participar en la definición del proyecto educativo, en los procesos de desarrollo curricular y en las actividades generales del centro, atendiendo a criterios de mejora de la calidad de la educación, atención a la diversidad, prevención de problemas de aprendizaje y convivencia, y promoción del éxito escolar. |
+| Sociedad, familia<br>y educación. |  | Relacionar la educación con el medio y comprender la función educadora de la familia y la comunidad, tanto en la adquisición de competencias y aprendizajes como en la educación, en el respeto de los derechos y libertades, en la igualdad de derechos y oportunidades entre hombres y mujeres y en la igualdad de trato y no discriminación de las personas con discapacidad o en cualquier otra circunstancia personal o social que pueda suponer un riesgo para su inclusión social y escolar. Conocer la evolución histórica de la familia, sus diferentes tipos y la incidencia del contexto familiar en la educación en general, y en el rendimiento escolar en particular. Colaborar con el Equipo Directivo en la adopción de medidas para la coordinación del centro escolar con las familias y diseñar estrategias orientadas a favorecer la efectiva participación y colaboración de éstas en los procesos educativos. |
+| ESPECÍFICO |  |  |
+| Los ámbitos<br>de la orientación educativa y el asesoramiento psicopedagógico. | 24 | Conocer los procesos de desarrollo curricular y la elaboración de planes institucionales para participar con los equipos directivos y los órganos de coordinación en su diseño y aplicación. Coordinar la elaboración el Plan de Acción Tutorial en los diferentes niveles del sistema educativo (Infantil, Primaria, Secundaria, FP y Bachillerato) y, en su caso, el Plan de Orientación Académica y Profesional. Asesorar y colaborar con el profesorado en la revisión y mejora de los procesos de enseñanza y aprendizaje y de evaluación, y ponerlos en práctica en caso de impartir alguna materia del curriculum. Asesorar y colaborar con los docentes y, en especial, con los tutores, en el acompañamiento al alumnado en sus procesos de desarrollo, aprendizaje y toma de decisiones. Orientar al alumnado en su conocimiento personal, en la progresiva definición y ajuste de un proyecto de vida, y en la adopción de decisiones académicas y profesionales, de manera que todo ello facilite su inserción laboral. Conocer, seleccionar, diseñar y aplicar estrategias y planes de información y orientación profesional para la transición al mercado laboral y la empleabilidad. Aplicar técnicas de mediación para la gestión de conflictos con el fin de mejorar el clima de convivencia en los Centros. |
+| Los procesos<br>de la orientación educativa y el asesoramiento psicopedagógico. |  | Conocer y analizar las características, organización y funcionamiento de los servicios de orientación educativa y asesoramiento psicopedagógico que operan en los diferentes niveles del sistema educativo (Infantil, Primaria, ESO, FP y Bachillerato). Identificar demandas, establecer objetivos y participar en el diseño de planes de intervención acordes con los resultados del análisis institucional de los centros educativos y los sistemas relacionados. Colaborar en el establecimiento de estructuras de trabajo colaborativo con los docentes y otros miembros de la comunidad escolar, así como con otros profesionales que intervienen en los centros educativos. Coordinar las actuaciones en la zona o sector con todos los agentes educativos y otros servicios, con especial atención a los servicios sociales, de salud y laborales para una intervención coordinada. Conocer y valorar las técnicas de diagnóstico psicopedagógico. Evaluar las intervenciones realizadas y derivar cambios para mejorarlas. Saber aplicar programas preventivos de alcance sociocomunitario. Conocer y utilizar algunas herramientas digitales básicas por su utilidad en las tareas de orientación y tutoría y en el desarrollo de las funciones del orientador. |
+| Educación inclusiva<br>y atención a la diversidad. |  | Analizar críticamente los planteamientos conceptuales e ideológicos de la inclusión y la exclusión socioeducativa. Identificar las barreras y los facilitadores de una educación inclusiva tanto en el centro escolar como en el resto de los contextos que influyen sobre el desarrollo y la educación del alumnado. Diseñar y poner en marcha, en colaboración con la comunidad escolar, medidas de atención a la diversidad que garanticen la presencia, participación y aprendizaje de todo el alumnado. Realizar evaluaciones psicopedagógicas y, en su caso, elaborar informes diagnósticos y dictámenes de escolarización para el alumnado con necesidades de apoyo específico. Identificar las necesidades específicas de apoyo educativo asociadas a la discapacidad, los trastornos de desarrollo, las dificultades de aprendizaje, la alta capacidad y factores socioculturales. Diseñar y poner en marcha, utilizando los recursos del sistema de orientación, intervenciones de apoyo para todo el alumnado que lo requiera en el marco del Plan de Atención a la Diversidad. Identificar y planificar la resolución de situaciones educativas que afecten a estudiantes con diferentes capacidades y diferentes ritmos de aprendizaje. |
+| La investigación<br>e innovación educativa<br>y la gestión del cambio. |  | Identificar y formular problemas relevantes surgidos en los centros educativos que lleven a emprender actividades de investigación y mejora. Participar y colaborar en proyectos de investigación e innovación orientados al análisis y mejora de las prácticas educativas. Apoyar el trabajo en equipo de los docentes mediante estrategias y técnicas de trabajo colaborativo y de análisis de la práctica docente para potenciar el trabajo en equipo del profesorado, especialmente con base en las TIC. Apoyar la formación continua del profesorado aportando herramientas conceptuales y metodológicas para la reflexión colectiva y crítica sobre la propia práctica. Impulsar y participar en el diseño de los planes de formación del profesorado. Asesorar en los procesos de evaluación de la calidad y la elaboración de los planes de mejora. Conocer investigaciones e innovaciones relevantes y actuales en el ámbito de la orientación e identificar los foros adecuados para difundir los resultados de las mismas. |
+| Practicum y Trabajo<br>**fin de Máster**<br>Prácticas profesionales<br>en equipos de sector<br>o en instancias<br>de orientación educativa<br>y asesoramiento psicopedagógico<br>en centros escolares<br>que impartan cualquiera<br>de las enseñanzas reguladas en la LOE. | 16 | Adquirir experiencia en el ejercicio de la orientación educativa y el asesoramiento psicopedagógico acreditando un buen dominio de la expresión oral y escrita y de las competencias profesionales necesarias para este ejercicio. Analizar la realidad escolar en la que se lleven a cabo las prácticas utilizando los marcos teóricos estudiados en el Máster. Planificar, desarrollar o evaluar un plan de intervención en el ámbito de la orientación educativa y el asesoramiento psicopedagógico. Identificar posibles ámbitos de mejora de la intervención realizada argumentando los fundamentos teóricos de la propuesta y cómo se evaluaría ésta. Revisar la propia experiencia y los conocimientos previos desde el punto de vista de las competencias adquiridas o desarrolladas durante la realización del practicum.<br>Reflejar estas competencias, junto con las adquiridas y desarrolladas en el resto de materias, en el Trabajo fin de Máster que compendie la formación adquirida.» |
+
+> Se modifica por el art. 2 de la Orden EDU/3498/2011, de 16 de diciembre. [Ref. BOE-A-2011-20181](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20181).

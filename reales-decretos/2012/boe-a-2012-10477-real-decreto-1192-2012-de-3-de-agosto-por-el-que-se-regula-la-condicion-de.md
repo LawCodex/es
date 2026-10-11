@@ -1,0 +1,247 @@
+---
+title: "Real Decreto 1192/2012, de 3 de agosto, por el que se regula la condición de asegurado y de beneficiario a efectos de la asistencia sanitaria en España, con cargo a fondos públicos, a través del Sistema Nacional de Salud"
+identifier: "BOE-A-2012-10477"
+eli: "https://www.boe.es/eli/es/rd/2012/08/03/1192"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad, Servicios Sociales e Igualdad"
+date: 2012-08-03
+published: 2012-08-04
+in_force_from: 2012-08-05
+last_amended: 2026-03-12
+consolidated: 2026-03-12
+gazette: "Boletín Oficial del Estado núm. 186"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2012-10477"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1192/2012, de 3 de agosto, por el que se regula la condición de asegurado y de beneficiario a efectos de la asistencia sanitaria en España, con cargo a fondos públicos, a través del Sistema Nacional de Salud
+
+Todos los españoles, así como los ciudadanos extranjeros que tengan establecida su residencia en el territorio nacional, son titulares del derecho a la protección de la salud y a la atención sanitaria de conformidad con lo dispuesto en el artículo 1.2 de la Ley 14/1986, de 25 de abril, General de Sanidad, quedando establecido así el carácter de universalidad del derecho a la atención sanitaria en España.
+
+La Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, así como la Ley 33/2011, de 4 de octubre, General de Salud Pública, a través de su disposición adicional sexta, complementaron la Ley 14/1986, de 25 de abril, contemplando la progresiva extensión del derecho de acceso a la asistencia sanitaria pública a todos los españoles residentes en territorio nacional a los que no pudiera serles reconocido en aplicación de otras normas del ordenamiento jurídico.
+
+La citada Ley 16/2003, de 28 de mayo, estableció entre los principios informadores contenidos en su artículo 2 el de la financiación pública del Sistema Nacional de Salud de acuerdo con el vigente sistema de financiación autonómica plasmado, en sus términos fundamentales, en la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las comunidades autónomas de régimen común y ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
+
+Así pues, ambos principios, el de universalidad y el de financiación pública, configuran nuestro Sistema Nacional de Salud.
+
+La validez de nuestro modelo se traduce en un alto nivel de protección de la salud individual y colectiva, avalado por diferentes indicadores de impacto en la mejora de la salud, en la esperanza de vida y en la satisfacción de la ciudadanía. Por ello, es necesario no sólo mantener el modelo sino también reforzar su sostenibilidad de manera que sea posible salvaguardar dicho nivel de protección frente a las diferentes amenazas que pudieran quebrantarlo.
+
+La regulación establecida por la normativa europea en relación con el sistema de reconocimiento mutuo de los derechos a las prestaciones sanitarias y sociales entre Estados miembros, que utiliza el concepto de aseguramiento como mecanismo de reconocimiento de esos derechos a efectos de garantizar el acceso a las prestaciones en los países de la Unión Europea y la liquidación de costes entre los mismos, ha hecho necesario recordar dicho concepto, ya existente en nuestro Sistema Nacional de Salud, de modo que dicho acceso se garantice dentro de unas normas claras respecto a los derechos que asisten a las personas en las diferentes situaciones en las que pueden encontrarse.
+
+El Real Decreto-ley 16/2012, de 20 de abril, de medidas urgentes para garantizar la sostenibilidad del Sistema Nacional de Salud y mejorar la calidad y seguridad de sus prestaciones ha permitido, mediante la modificación de la Ley 16/2003, de 28 de mayo, superar un vacío normativo que ponía en riesgo la sostenibilidad del Sistema Nacional de Salud, completando el marco normativo vigente y estableciendo un régimen jurídico más adecuado que permite definir los supuestos de acceso al derecho a la asistencia sanitaria pública, a través de las figuras del asegurado y del beneficiario, y regular un mecanismo de reconocimiento de dicha condición que resulte de aplicación tanto a los españoles como a los ciudadanos de otras nacionalidades.
+
+De conformidad con la habilitación para el desarrollo reglamentario contenida en la disposición final segunda del citado real decreto-ley, así como de la previsión contenida en el artículo 3.3 de la Ley 16/2003, de 28 de mayo, resulta preciso proceder al desarrollo reglamentario de dicha norma.
+
+Este real decreto procede, por tanto, a regular la condición de persona asegurada y de beneficiaria de ésta a efectos del derecho a la asistencia sanitaria en España, con cargo a fondos públicos, a través del Sistema Nacional de Salud.
+
+Junto a ello, mediante la presente norma se establece el procedimiento para el reconocimiento de la condición de persona asegurada y beneficiaria por parte del Instituto Nacional de la Seguridad Social o, en su caso, del Instituto Social de la Marina, regulándose igualmente el control y la extinción de dicha condición a efectos del derecho a la asistencia sanitaria pública.
+
+Así, de conformidad con lo establecido en este real decreto y en las normas legales antedichas, todas las personas que ostenten la condición de aseguradas o de beneficiarias tendrán garantizada la asistencia sanitaria en España, con cargo a fondos públicos, a través del Sistema Nacional de Salud, la cual se hará efectiva por las administraciones sanitarias competentes mediante la expedición de la tarjeta sanitaria individual.
+
+Esta regulación se completa con siete disposiciones adicionales que regulan supuestos especiales de prestación de asistencia sanitaria como son los relativos a los españoles de origen retornados y residentes en el exterior desplazados temporalmente a España, a la aplicación de reglamentos comunitarios y convenios internacionales, al convenio especial de prestación de asistencia sanitaria, a los solicitantes de protección internacional, a las víctimas de trata de seres humanos en periodo de restablecimiento y reflexión y a las personas con discapacidad. Por último, la disposición adicional séptima recoge las particularidades de los regímenes especiales de Seguridad Social de funcionarios públicos, civiles y militares, gestionados por las mutualidades administrativas a quienes corresponde el reconocimiento de la condición de mutualista o de beneficiario de su colectivo protegido, conforme a su normativa especial.
+
+Por otro lado, se procede a modificar el Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo, a fin de incluir en el mismo un nuevo artículo 9 bis en aras de regular la comprobación del mantenimiento de las condiciones que permiten gozar a dichos ciudadanos del derecho de residencia, en línea con lo señalado por el artículo 14 de la Directiva 2004/38/CE del Parlamento Europeo y del Consejo, de 29 de abril de 2004.
+
+Finalmente, esta norma procede a derogar expresamente varias disposiciones normativas, entre las que se encuentra el Real Decreto 1088/1989, de 8 de septiembre, por el que se extiende la cobertura de la asistencia sanitaria de la Seguridad Social a las personas sin recursos económicos suficientes, el Decreto 1075/1970, de 9 de abril, sobre asistencia sanitaria a los trabajadores españoles emigrantes y a los familiares de los mismos residentes en territorio nacional y su normativa de desarrollo y el Decreto 2766/1967, de 16 de noviembre, por el que se dictan normas sobre prestaciones de asistencia sanitaria y ordenación de los servicios médicos en el Régimen General de la Seguridad Social, salvo el apartado dos de su artículo sexto, que mantiene su vigencia.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas y las ciudades de Ceuta y Melilla, la Federación Española de Municipios y Provincias, las organizaciones sindicales y empresariales más representativas y el Consejo de Consumidores y Usuarios. Asimismo, ha emitido su informe preceptivo la Agencia Española de Protección de Datos, la Comisión Interministerial de Extranjería y el Foro para la integración social de los inmigrantes, habiendo sido informado por la Comisión interministerial para el estudio de los asuntos con trascendencia presupuestaria para el equilibrio financiero del Sistema Nacional de Salud o implicaciones económicas significativas, por el Comité Consultivo del Consejo Interterritorial del Sistema Nacional de Salud y por el Consejo Interterritorial del Sistema Nacional de Salud.
+
+En su virtud, a propuesta de la Ministra de Sanidad, Servicios Sociales e Igualdad, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 3 de agosto de 2012,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+Este real decreto tiene por objeto la regulación de la condición de asegurado y de beneficiario del mismo a efectos de la asistencia sanitaria en España, con cargo a fondos públicos, a través del Sistema Nacional de Salud, así como la regulación del reconocimiento, control y extinción de dicha condición.
+
+## Artículo 2. De la condición de asegurado.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto-ley 7/2018, de 27 de julio. [Ref. BOE-A-2018-10752](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10752)
+
+## Artículo 3. De la condición de beneficiario de una persona asegurada.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto-ley 7/2018, de 27 de julio. [Ref. BOE-A-2018-10752](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10752)
+
+## Artículo 4. Reconocimiento de la condición de asegurado o de beneficiario.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto-ley 7/2018, de 27 de julio. [Ref. BOE-A-2018-10752](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10752)
+
+## Artículo 5. Reconocimiento de oficio de la condición de asegurado o de beneficiario.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto-ley 7/2018, de 27 de julio. [Ref. BOE-A-2018-10752](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10752)
+
+> Se modifica por la disposición final 9.1 de la Ley 25/2015, de 28 de julio. [Ref. BOE-A-2015-8469](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8469).
+
+## Artículo 6. Reconocimiento de la condición de asegurado o de beneficiario previa solicitud del interesado.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto-ley 7/2018, de 27 de julio. [Ref. BOE-A-2018-10752](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10752)
+
+> Se modifica por la disposición final 9.2 de la Ley 25/2015, de 28 de julio. [Ref. BOE-A-2015-8469](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8469).
+
+## Artículo 7. De la extinción de la condición de asegurado o de beneficiario.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto-ley 7/2018, de 27 de julio. [Ref. BOE-A-2018-10752](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10752)
+
+## Artículo 8. Comunicación y control de las circunstancias modificativas o extintivas de la condición de asegurado o de beneficiario.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto-ley 7/2018, de 27 de julio. [Ref. BOE-A-2018-10752](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10752)
+
+## Artículo 9. Protección de datos de carácter personal y cesión de datos.
+
+De conformidad con lo dispuesto en el artículo 3 bis de la Ley 16/2003, de 28 de mayo, el Instituto Nacional de la Seguridad Social y, en su caso, el Instituto Social de la Marina podrán recabar de los órganos de las administraciones públicas que resulten competentes en cada caso los datos necesarios para poder verificar que concurren los requisitos exigidos para ostentar la condición de persona asegurada o beneficiaria, así como, en los términos previstos por el artículo 94 ter de la Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios, aquellos datos que resulten precisos para determinar el nivel de aportación de cada una de ellas a la prestación farmacéutica. La comunicación de tales datos no requerirá del consentimiento de los interesados.
+
+Del mismo modo, el Instituto Nacional de la Seguridad Social o, en su caso, el Instituto Social de la Marina comunicarán diariamente al Ministerio de Sanidad, Servicios Sociales e Igualdad, sin necesidad de recabar el consentimiento del interesado, los datos relativos al reconocimiento, variación y extinción de la condición de persona asegurada o beneficiaria, así como la participación que corresponda a las mismas en la prestación farmacéutica y su límite de aportación, en su caso. El citado departamento ministerial comunicará, a su vez y con la misma frecuencia, estos datos al Instituto Nacional de Gestión Sanitaria y a los servicios públicos de salud correspondientes al domicilio donde los interesados estén empadronados en orden a hacer efectivo el acceso a las prestaciones de asistencia sanitaria pública mediante la expedición de la tarjeta sanitaria individual.
+
+## Disposición adicional primera. Asistencia sanitaria para españoles de origen retornados y residentes en el exterior desplazados temporalmente a España y para los familiares de los anteriores que se establezcan con ellos o les acompañen.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatora única del Real Decreto 180/2026, de 11 de marzo. [Ref. BOE-A-2026-5714](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5714)
+
+> Se modifica por la disposición final 9.3 de la Ley 25/2015, de 28 de julio. [Ref. BOE-A-2015-8469](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8469).
+
+## Disposición adicional segunda. Asistencia sanitaria en aplicación de reglamentos comunitarios y convenios internacionales.
+
+1\. Las personas con derecho a asistencia sanitaria en aplicación de los reglamentos comunitarios de coordinación de sistemas de Seguridad Social o de los convenios bilaterales que comprendan la prestación de asistencia sanitaria, tendrán acceso a la misma, siempre que residan en territorio español o durante sus desplazamientos temporales a España, en la forma, extensión y condiciones establecidos en las disposiciones comunitarias o bilaterales indicadas.
+
+2\. **(Derogado)**
+
+> Se deroga el apartado 2 por la disposición derogatora única del Real Decreto 180/2026, de 11 de marzo. [Ref. BOE-A-2026-5714](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5714)
+
+## Disposición adicional tercera. Convenio especial de prestación de asistencia sanitaria.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatora única del Real Decreto 180/2026, de 11 de marzo. [Ref. BOE-A-2026-5714](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5714)
+
+> Se suprime el apartado segundo por la disposición final 4.1 del Real Decreto 576/2013, de 26 de julio. [Ref. BOE-A-2013-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8190).
+
+## Disposición adicional cuarta. Prestación de asistencia sanitaria para solicitantes de protección internacional.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatora única del Real Decreto 180/2026, de 11 de marzo. [Ref. BOE-A-2026-5714](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5714)
+
+> Se modifica por la disposición final 4.2 del Real Decreto 576/2013, de 26 de julio. [Ref. BOE-A-2013-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8190).
+
+## Disposición adicional quinta. Prestación de asistencia sanitaria para víctimas de trata de seres humanos en periodo de restablecimiento y reflexión.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatora única del Real Decreto 180/2026, de 11 de marzo. [Ref. BOE-A-2026-5714](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5714)
+
+> Se modifica por la disposición final 4.3 del Real Decreto 576/2013, de 26 de julio. [Ref. BOE-A-2013-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8190).
+
+## Disposición adicional sexta. Asistencia sanitaria a las personas con discapacidad.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatora única del Real Decreto 180/2026, de 11 de marzo. [Ref. BOE-A-2026-5714](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5714)
+
+## Disposición adicional séptima. Regímenes especiales de funcionarios.
+
+1\. Las personas que ostentan la condición de mutualista o beneficiario de los regímenes especiales de la Seguridad Social gestionados por la Mutualidad General de Funcionarios Civiles del Estado, el Instituto Social de las Fuerzas Armadas y la Mutualidad General Judicial, mantienen el régimen de cobertura obligatoria de la prestación sanitaria conforme a la normativa especial reguladora de cada Mutualidad que, asimismo, determina su respectivo colectivo protegido, incluidos los funcionarios que hayan ingresado en cualquier administración pública con posterioridad a 1 de enero de 2011 en cuerpos que formen parte del campo de aplicación del mutualismo. Estos funcionarios mantendrán la condición de mutualistas cuando pasen a la situación de pensionistas.
+
+2\. El reconocimiento y control de la condición de mutualista o beneficiario corresponde a cada mutualidad, conforme a su normativa específica, así como a su respectiva estructura organizativa.
+
+3\. Las mutualidades y el Instituto Nacional de la Seguridad Social o, en su caso, el Instituto Social de la Marina, establecerán los mecanismos de colaboración y coordinación necesarios para evitar la duplicidad de derechos propios o derivados cuando éstos sean incompatibles, así como para asegurar el acceso al sistema sanitario público al colectivo mutualista que haya optado por esa modalidad de asistencia sanitaria.
+
+## Disposición adicional octava. Asistencia sanitaria pública en supuestos especiales.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatora única del Real Decreto 180/2026, de 11 de marzo. [Ref. BOE-A-2026-5714](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5714)
+
+> Se añade por la disposición final 4.4 del Real Decreto 576/2013, de 26 de julio. [Ref. BOE-A-2013-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8190).
+
+## Disposición adicional novena. Identificación personal y gestión de datos clínicos de las personas que no tengan la condición de aseguradas ni de beneficiarias del Sistema Nacional de Salud.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatora única del Real Decreto 180/2026, de 11 de marzo. [Ref. BOE-A-2026-5714](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5714)
+
+> Se añade por la disposición final 4.5 del Real Decreto 576/2013, de 26 de julio. [Ref. BOE-A-2013-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8190).
+
+## Disposición adicional décima. Personal de los Montepíos de las Administraciones Públicas de Navarra.
+
+A efectos de la asistencia sanitaria con cargo al Sistema Nacional de Salud, los funcionarios en activo al servicio de la Diputación Foral, Ayuntamientos, Concejos y Entidades Administrativas de Navarra así como los pensionistas encuadrados en los Montepíos de las Administraciones Públicas de Navarra, se entenderán incluidos respectivamente en los párrafos 1.º y 2.º del artículo 2.1.a) de este real decreto.
+
+Asimismo, los familiares de unos y otros, que se encuentren en alguno de los supuestos y cumplan con los requisitos establecidos en el artículo 3, tendrán la condición de beneficiarios de aquellos a efectos de la asistencia sanitaria con cargo al Sistema Nacional de Salud.
+
+> Se añade por la disposición final 7 de la Ley 30/2015, de 9 de septiembre. [Ref. BOE-A-2015-9734](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9734).
+
+> Téngase en cuenta que esta disposición adicional ya fue añadida por la disposición final 4 del Real Decreto-ley 4/2015, de 22 de marzo.
+
+> Se añade por la disposición final 4 del Real Decreto-ley 4/2015, de 22 de marzo. [Ref. BOE-A-2015-3031](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3031).
+
+## Disposición transitoria única. Régimen transitorio de acceso a la asistencia sanitaria en España.
+
+Las personas que, con anterioridad a la entrada en vigor del Real Decreto-ley 16/2012, de 20 de abril, tuvieran acceso a la asistencia sanitaria en España y no se encuentren comprendidas en alguno de los supuestos del artículo 5.1 de este real decreto, o no sean beneficiarias suyas, o no estén aseguradas en aplicación de reglamentos comunitarios o convenios bilaterales, podrán seguir accediendo a la misma hasta el día 31 de agosto de 2012 sin necesidad de acreditar la condición de aseguradas o de beneficiarias de éstas en los términos previstos en este real decreto.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a este real decreto y, en particular, las siguientes:
+
+a) Decreto 2766/1967, de 16 de noviembre, por el que se dictan normas sobre prestaciones de asistencia sanitaria y ordenación de los servicios médicos en el Régimen General de la Seguridad Social, salvo el apartado dos de su artículo sexto que se mantiene vigente.
+
+b) Decreto 1075/1970, de 9 de abril, sobre asistencia sanitaria a los trabajadores españoles emigrantes y a los familiares de los mismos residentes en territorio nacional, y su normativa de desarrollo.
+
+c) Real Decreto 1088/1989, de 8 de septiembre, por el que se extiende la cobertura de la asistencia sanitaria de la Seguridad Social a las personas sin recursos económicos suficientes.
+
+d) Orden de 13 de noviembre de 1989, de desarrollo del Real Decreto 1088/1989, de 8 de septiembre, de la extensión de la asistencia sanitaria de la Seguridad Social a las personas sin recursos económicos suficientes.
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en las reglas 16.ª y 17.ª del artículo 149.1 de la Constitución Española que atribuyen al Estado la competencia exclusiva en materia de bases y coordinación general de la sanidad y de régimen económico de la Seguridad Social, respectivamente. Se exceptúa de lo anterior la disposición final segunda, por la que se incorpora al derecho español el artículo 14 de la Directiva 2004/38/CE del Parlamento Europeo y del Consejo, de 29 de abril de 2004, relativa al derecho de los ciudadanos de la Unión y de los miembros de sus familias a circular y residir libremente en el territorio de los Estados miembros.
+
+## Disposición final segunda. Modificación del Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.
+
+Se introduce un nuevo artículo 9 bis en el Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo, con la siguiente redacción:
+
+«Artículo 9 bis. Mantenimiento del derecho de residencia.
+
+1\. Los ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo y los miembros de sus familias gozarán del derecho de residencia establecido en los artículos 7, 8 y 9 mientras cumplan las condiciones en ellos previstas.
+
+En casos específicos en los que existan dudas razonables en cuanto al cumplimiento, por parte de un ciudadano de algún Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo o de los miembros de su familia, de las condiciones establecidas en los artículos 7, 8 y 9, los órganos competentes podrán comprobar si se cumplen dichas condiciones. Dicha comprobación no se llevará a cabo sistemáticamente.
+
+2\. El recurso a la asistencia social en España de un ciudadano de algún Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo o de un miembro de su familia no tendrá por consecuencia automática una medida de expulsión.
+
+3\. No obstante lo dispuesto en los apartados anteriores y sin perjuicio de las disposiciones del Capítulo VI de este real decreto, en ningún caso podrá adoptarse una medida de expulsión contra ciudadanos de los Estados miembros de la Unión Europea o de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo o miembros de su familia si:
+
+a) son trabajadores por cuenta ajena o por cuenta propia; o,
+
+b) han entrado en territorio español para buscar trabajo. En este caso, no podrán ser expulsados mientras puedan demostrar que siguen buscando empleo y que tienen posibilidades reales de ser contratados.»
+
+## Disposición final tercera. Facultades de desarrollo y aplicación.
+
+Se faculta a las personas titulares de los Ministerios de Sanidad, Servicios Sociales e Igualdad y de Empleo y Seguridad Social para dictar, en el ámbito de sus respectivas competencias, las disposiciones necesarias para el desarrollo y aplicación de lo previsto en este real decreto, sin perjuicio de lo establecido en la disposición final segunda del Real Decreto 240/2007, de 16 de febrero.
+
+## Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 3 de agosto de 2012.
+
+JUAN CARLOS R.
+
+La Ministra de Sanidad, Servicios Sociales e Igualdad,
+
+ANA MATO ADROVER

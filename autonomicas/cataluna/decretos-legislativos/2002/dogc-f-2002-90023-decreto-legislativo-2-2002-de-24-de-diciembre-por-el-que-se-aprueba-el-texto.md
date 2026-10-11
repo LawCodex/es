@@ -1,0 +1,526 @@
+---
+title: "Decreto Legislativo 2/2002, de 24 de diciembre, por el que se aprueba el Texto refundido de la Ley 4/1985, de 29 marzo, del Estatuto de la Empresa Pública Catalana"
+identifier: "DOGC-f-2002-90023"
+type: legislative_decree
+rank: "Decreto Legislativo"
+jurisdiction: es-cataluna
+language: es
+department: "Comunidad Autónoma de Cataluña"
+date: 2002-12-24
+published: 2002-12-31
+in_force_from: 2003-01-01
+last_amended: 2026-05-06
+consolidated: 2026-07-07
+gazette: "Diari Oficial de la Generalitat de Catalunya núm. 3791"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=DOGC-f-2002-90023"
+retrieved: 2026-10-11
+---
+
+# Decreto Legislativo 2/2002, de 24 de diciembre, por el que se aprueba el Texto refundido de la Ley 4/1985, de 29 marzo, del Estatuto de la Empresa Pública Catalana
+
+La disposición final 2, apartado 2, de la Ley 21/2001, de 28 de diciembre, de medidas fiscales y administrativas, autorizó al Gobierno para que en el plazo máximo de un año desde la entrada en vigor de esta Ley, con el dictamen previo de la Comisión Jurídica Asesora, refundiera en un texto único la Ley 4/1985, de 29 de marzo, del Estatuto de la Empresa Pública Catalana, incorporando las modificaciones que se introducen mediante esta Ley y las introducidas por las leyes de presupuestos posteriores a la entrada en vigor de la mencionada Ley, y por las disposiciones siguientes:
+
+Decreto legislativo 5/1986, de 25 de septiembre, de modificación de la Ley 4/1985, de 29 de marzo.
+
+Decreto legislativo 9/1994, de 13 de julio, de aprobación del Texto refundido de la Ley de finanzas públicas de Cataluña.
+
+Ley 9/1997, de 23 de junio, sobre la participación de la Generalidad de Cataluña en sociedades mercantiles y civiles y de modificación de las leyes 11/1981, 10/1982 y 4/1985.
+
+Ley 17/1997, de 24 de diciembre, de medidas administrativas y de organización.
+
+Ley 25/1998, de 31 de diciembre, de medidas administrativas, fiscales y de adaptación al euro.
+
+Ley 4/2000, de 26 de mayo, de medidas fiscales y administrativas.
+
+Ley 15/2000, de 29 de diciembre, de medidas fiscales y administrativas.
+
+Asimismo, el apartado 2 de la disposición final cuarta, estableció que la autorización para la refundición incluía también la facultad de regularizar, aclarar y armonizar estas disposiciones, así como la obligación de efectuar la conversión a la unidad monetaria euro de todos los importes a que se refieren las disposiciones que han de integrar el Texto refundido.
+
+Por tanto, en ejercicio de la mencionada delegación, de acuerdo con el dictamen emitido por la Comisión Jurídica Asesora, y de acuerdo con el Gobierno,
+
+Decreto:
+
+#### Artículo único.
+
+Se aprueba el Texto refundido de la Ley del Estatuto de la Empresa Pública Catalana, que se publica acto seguido.
+
+#### Disposición final.
+
+Este Decreto legislativo entrará en vigor al día siguiente de su publicación en el Diari Oficial de la Generalitat de Catalunya.
+
+Barcelona, 24 de diciembre de 2002.
+
+| FRANCESC HOMS I FERRET, | JORDI PUJOL, |
+|---|---|
+| Consejero de Economía y Finanzas | Presidente de la Generalidad de Cataluña |
+
+## TEXTO REFUNDIDO DE LA LEY DEL ESTATUTO DE LA EMPRESA PÚBLICA CATALANA
+
+### CAPÍTULO I — Ámbito de aplicación y criterios generales de actuación de la empresa pública catalana
+
+#### Artículo 1
+
+Esta Ley se aplica:
+
+a) A las entidades autónomas de la Generalidad que realizan operaciones o prestan servicios de carácter principalmente comercial, industrial o financiero.
+
+b) A las empresas de la Generalidad:
+
+b.1 Entidades de derecho público con personalidad jurídica propia sometidas a la Generalidad, pero que deban ajustar su actividad al ordenamiento jurídico privado.
+
+b.2 Sociedades civiles o mercantiles con participación mayoritaria de la Generalidad, de sus entidades autónomas o de las sociedades en las que la Generalidad o las mencionadas entidades posean también participación mayoritaria en su capital social.
+
+c) A las sociedades civiles o mercantiles vinculadas a la Generalidad, es decir, las que son gestoras de servicios públicos cuya titularidad ostente la Generalidad o las que han suscrito convenios con la misma, y en las que ésta posea la facultad de designar todos o una parte de los órganos de dirección o participa directa o indirectamente en ellos, como mínimo, en un 5% del capital social.
+
+#### Artículo 2.
+
+1\. La actuación de las entidades y las empresas incluidas en el ámbito de aplicación de esta Ley debe inspirarse en criterios de rentabilidad, economía y productividad, aplicados de acuerdo con los objetivos que les son fijados por los órganos correspondientes y bajo el principio de no discriminación respecto al sector privado. Asimismo procurará contribuir al fomento del empleo y al desarrollo tecnológico.
+
+2\. La imposición de obligaciones de servicio público o de objetivos de interés social que comportan una minoración de los ingresos de explotación o un aumento de los costes de producción serán objeto de evaluación económica en cada ejercicio a fin de consignar en los Presupuestos de la Generalidad las dotaciones compensatorias necesarias.
+
+### CAPÍTULO II — De las entidades autónomas de la Generalidad que realizan operaciones o prestan servicios de carácter principalmente comercial, industrial o financiero
+
+#### Artículo 3.
+
+1\. Mediante ley del Parlamento, podrán constituirse entidades autónomas de la Generalidad que realicen operaciones o presten servicios de carácter principalmente comercial, industrial o financiero. La ley de creación ha de determinar las funciones, los recursos económicos que se le asignan y las bases de su organización y su régimen jurídico.
+
+2\. Corresponde al Gobierno, mediante decreto, desarrollar su organización y el régimen jurídico, y así mismo aprobar los estatutos, determinar el Departamento al que quedarán adscritas y los bienes que se les asignen.
+
+#### Artículo 4.
+
+De acuerdo con lo que dispone la normativa patrimonial de la Generalidad de Cataluña, las entidades a las que hace referencia este capítulo pueden solicitar para el servicio de sus fines de forma directa y permanente al Departamento de Economía y Finanzas, mediante el departamento del cual dependen, la adscripción de bienes patrimoniales de la Generalidad de Cataluña.
+
+#### Artículo 5.
+
+1\. Los bienes adquiridos por estas entidades de forma distinta a la expresada en el artículo 4 deben incorporarse a su patrimonio propio.
+
+2\. Estas entidades no pueden enajenar los bienes afectos de manera permanente y directa al cumplimiento de su finalidad institucional. En caso de disolución, los activos de estas entidades, dada su naturaleza, se incorporarán al dominio público o a los bienes patrimoniales de la Generalidad.
+
+3\. Los bienes o derechos propios no afectados de forma permanente y directa al cumplimiento de la finalidad institucional de estas entidades pueden ser enajenados, previa autorización.
+
+4\. Sin perjuicio de lo dispuesto en el punto 5, la autorización a que se refiere el punto 3 deberá hacerse por el Parlamento cuando el valor de la tasación exceda los 12.020.242,09 euros. Si la tasación es superior a los 6.010.121,04 de euros pero inferior a los 12.020.242,09 euros, la autorización corresponde al Gobierno de la Generalidad de Cataluña, y si la valoración es inferior a los 6.010.121,04 de euros será autorizada por el consejero o consejera de Economía y Finanzas.
+
+5\. No será precisa autorización administrativa en los casos siguientes:
+
+a) Cuando se trata de bienes adquiridos con la finalidad de devolverlos al tráfico jurídico privado, de acuerdo con las funciones atribuidas a las entidades autónomas.
+
+b) Cuando se trata de bienes adquiridos como inversión de las reservas a que legalmente están obligadas.
+
+c) Cuando el valor de los bienes es inferior a 60.101,21 euros.
+
+6\. La transmisión a título gratuito de los bienes pertenecientes a los entes públicos debe ser autorizada por el Gobierno en los términos y con las finalidades que establece la normativa patrimonial.
+
+#### Artículo 6.
+
+Estas entidades ejercerán las potestades concedidas por las leyes para la recuperación posesoria de los bienes que les pertenecen o que les han sido adscritos.
+
+#### Artículo 7.
+
+1\. Las tarifas y precios que dichas entidades apliquen en sus operaciones serán autorizados por el/la titular del departamento al que estén adscritas, salvo que, por su naturaleza, dicha potestad sea atribuida a otro órgano de la Generalidad o a otra Administración pública.
+
+2\. El consejero o consejera del Departamento puede delegar esta facultad en el consejo de administración de la entidad.
+
+3\. No será precisa la autorización para las transmisiones a título oneroso de bienes inmuebles que constituyen el objeto de la actividad de la entidad, salvo que así lo dispongan la ley de creación, el decreto de desarrollo o los estatutos de la misma.
+
+#### Artículo 8.
+
+1\. Estas entidades pueden hacer uso del endeudamiento en cualquiera de sus modalidades, dentro del importe fijado por la Ley de presupuestos de la Generalidad o, si cabe, la ley de suplemento de crédito o la ley de crédito extraordinario correspondiente.
+
+2\. Se delega con carácter permanente en el Gobierno, de acuerdo con la normativa de Finanzas Públicas, la potestad de aprobar las características y el destino de las susodichas operaciones.
+
+3\. No es precisa la autorización para las operaciones de tesorería que no excedan el importe que el Gobierno haya fijado de forma general o para cada entidad.
+
+4\. El aval de la Generalidad para estas operaciones debe ser autorizado por la Ley de presupuestos del ejercicio correspondiente o por una ley específica.
+
+#### Artículo 9.
+
+1\. La prestación de avales efectuada por estas entidades deberá ser regulada por la correspondiente norma de creación y no puede sobrepasar el importe fijado ni puede ser aplicada a otras personas o a otras finalidades que los determinados por la Ley de presupuestos del ejercicio correspondiente o por una ley especial.
+
+2\. Estas entidades deben rendir cuenta al Departamento de Economía y Finanzas de cada uno de los avales que concedan.
+
+3\. No obstante, el Gobierno, por motivos de urgencia, puede autorizar la concesión de avales a favor de empresas en las que la entidad participe mayoritariamente, siempre que el importe de la garantía no sobrepase el cincuenta por ciento del valor nominal de dicha participación. Deberá darse cuenta al Parlamento de las autorizaciones concedidas al amparo de esta norma.
+
+#### Artículo 10.
+
+Las obligaciones contraídas por las entidades señaladas por el artículo 1.a) no pueden ser exigidas por vía de apremio con la excepción de los créditos liquidados a favor de la Hacienda del Estado o de la Generalidad y de los garantizados con fianza o hipoteca. En consecuencia, estas entidades deberán cumplir las sentencias y las demás resoluciones judiciales que hayan ganado firmeza que impongan obligaciones o responsabilidades económicas, mediante la habilitación en su presupuesto del correspondiente crédito.
+
+#### Artículo 11.
+
+1\. La norma fundacional o los estatutos de estas entidades autónomas determinarán las características de su régimen de contratación y, especialmente, los contratos que puedan suscribir, de acuerdo con el derecho civil y mercantil, de manera directa, sin someterse a los procedimientos administrativos de selección de contratistas y, en general, a las normas administrativas sobre contratación.
+
+2\. En cualquier caso, pueden ser contratados directamente los suministros de bienes que constituyan el objeto de su actividad y que hayan sido adquiridos con el fin de devolverlos al tráfico jurídico patrimonial, de acuerdo con la finalidad de la entidad.
+
+#### Artículo 12.
+
+Las entidades autónomas de la Generalidad que realicen operaciones o presten servicios de carácter principalmente comercial, industrial o financiero pueden hacer uso del procedimiento administrativo de apremio en la recaudación de ingresos de derecho público que tienen autorizada, de acuerdo con el Reglamento General de Recaudación.
+
+Por otra parte, las acciones para cobrar sus créditos serán ejercidas ante la jurisdicción ordinaria civil.
+
+#### Artículo 13.
+
+1\. Las entidades a las que se refiere este capítulo deben elaborar anualmente los estados presupuestarios, la información financiera y toda la documentación que establezcan el texto refundido de la Ley de finanzas públicas de Cataluña y la orden anual de elaboración de los presupuestos. En la elaboración deben tomar como referencia el límite de gasto no financiero que haya aprobado el Gobierno y los escenarios presupuestarios plurianuales. Estos estados deben incorporar, como mínimo, la siguiente información en los términos que establezca la citada normativa:
+
+a) Los ingresos que prevean obtener en el ejercicio de referencia, tanto los procedentes de transferencias y aportaciones de la Generalidad y de sus entidades, como de terceros, así como los ingresos propios de su actividad y demás ingresos previstos de acuerdo con sus estatutos y la normativa vigente.
+
+b) La previsión de los gastos de todo tipo del ejercicio, tanto los relativos a la explotación como inversiones, subvenciones y transferencias, así como los gastos financieros de acuerdo con la naturaleza limitativa o estimativa que les otorgue la legislación de finanzas públicas y la Ley de presupuestos.
+
+c) El detalle de los proyectos de las inversiones previstas.
+
+d) La plantilla presupuestaria de personal.
+
+e) Una memoria de los programas presupuestarios en los que interviene la entidad.
+
+2\. El régimen contable aplicable a estas entidades es el que reglamentariamente se establezca.
+
+> Se modifica por el art 67.1 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 14.
+
+El ejercicio presupuestario debe coincidir con el año natural.
+
+> Se modifica por el art 67.2 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 15.
+
+Los presupuestos de las entidades a que hace referencia este capítulo deben ser elevados por su consejo de administración, con el conjunto de la documentación a que se refiere el artículo 13, al departamento de adscripción de acuerdo con el calendario que establezca la orden anual de elaboración de los presupuestos. Una vez validados por el departamento de adscripción, este los traslada al departamento competente en materia de finanzas públicas para la elaboración del anteproyecto de ley de presupuestos que debe ser sometido a la aprobación del Gobierno.
+
+> Se modifica por el art 67.3 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 16.
+
+1\. En estas entidades, se sustituirá la intervención previa por auditorías realizadas bajo la dirección de la Intervención General de la Generalidad, de acuerdo con las siguientes normas:
+
+a) Anualmente, entre el 1 de febrero y el 31 de marzo, con referencia al ejercicio anterior, el informe de auditoría se emitirá antes del 30 de abril siguiente, o el que se determine de acuerdo con el Plan anual de auditoría previsto en la Ley de presupuestos.
+
+b) Asimismo, cuando así lo acuerde el Departamento de Economía y Finanzas, a propuesta de la misma entidad, del Departamento del que depende o de la Intervención General.
+
+2\. Las disposiciones de fondos que emita el/la funcionario/a que en cada entidad posea la facultad de realizarlas serán objeto de intervención formal y material, de acuerdo con las respectivas cuentas justificativas, cuando se efectúa cualquiera de las auditorías establecidas por el punto 1.
+
+#### Artículo 17.
+
+1\. El presidente o presidenta y los vocales del consejo de administración son nombrados libremente por el Gobierno, respetando las normas que para la provisión de estos cargos establecen la norma fundacional o los estatutos. Estos cargos son también separados libremente por el Gobierno.
+
+2\. Los estatutos preverán la presencia de representantes sociales en los consejos de administración si la función ejercida por la entidad o el número de trabajadores lo hacen aconsejable.
+
+> Se modifica el apartado 1 por el art. 105.1 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Artículo 18.
+
+1\. Los miembros del Parlamento de Cataluña no pueden formar parte de los consejos de administración de estas entidades ni ejercer las funciones de director o directora, salvo que una ley lo autorice expresamente. En caso de aceptar alguno de estos cargos deberán presentar la renuncia a su escaño parlamentario.
+
+2\. Los altos cargos y funcionarios/funcionarias de la Generalidad no pueden ser designados para más de dos consejos de administración de las entidades reguladas por esta Ley, salvo acuerdo expreso del Gobierno justificado por conveniencia de una mejor dirección. Es igualmente incompatible el desarrollo de un cargo directivo en sociedades mercantiles privadas suministradoras de aquéllas o destinatarias de su producción o en empresas de servicios dedicadas a actividades auxiliares o complementarias.
+
+#### Artículo 19.
+
+Los altos cargos y funcionarios/funcionarias de la Generalidad que forman parte de los consejos de administración de las empresas reguladas por esta Ley no tienen derecho a retribución alguna, con excepción de las dietas que cada empresa acuerde conceder.
+
+#### Artículo 20
+
+El personal de las entidades previstas por el artículo 1.a) se rige, por regla general, por las normas administrativas, con excepción de aquellas personas que, de acuerdo con las leyes, han sido contratadas con carácter laboral.
+
+### CAPÍTULO III — De las entidades de derecho público que deben ajustar su actividad al derecho privado
+
+#### Artículo 21.
+
+La creación de las entidades de derecho público que deben ajustar su actividad al derecho privado deberá ser autorizado por ley del Parlamento. Se les aplicará lo dispuesto en el artículo 3.
+
+#### Artículo 22.
+
+La actividad de estas entidades debe someterse a las normas de derecho civil, mercantil y laboral, sin perjuicio de las materias a que se aplica esta Ley, de las materias exceptuadas por la ley de creación o por el decreto de desarrollo y, en general, de las materias referentes a sus relaciones de tutela con la Administración pública.
+
+#### Artículo 23.
+
+1\. Sin perjuicio de lo dispuesto en la normativa patrimonial, los bienes adscritos a estas entidades para el servicio de sus fines conservan la calificación jurídica originaria, y la adscripción no implica transmisión del dominio ni su desafectación.
+
+2\. El resto de bienes o derechos adquiridos por dichas entidades, de modo distinto al expresado en el punto 1 se incorporarán a su patrimonio.
+
+3\. En caso de disolución, los activos de dichas entidades, atendiendo a su naturaleza, deberán incorporarse según su naturaleza, bien al dominio público, bien al dominio privado de la Generalidad.
+
+4\. Corresponde a estas entidades el ejercicio de las facultades de recuperación posesoria que las leyes reconocen a la Generalidad.
+
+#### Artículo 24.
+
+1\. El régimen de contratación previsto de las entidades reguladas en este capítulo es el establecido por la ley de creación y por la normativa de desarrollo.
+
+2\. La adquisición de bienes inmuebles se someterán a procedimientos que se adapten a los principios de publicidad y de concurrencia propios de la normativa patrimonial de la Generalidad de Cataluña.
+
+3\. La ejecución de obras se someterá a los mismos principios de publicidad y de concurrencia propios de la contratación administrativa.
+
+4\. En relación con los puntos 2 y 3 anteriores, el decreto de desarrollo de la Ley de creación o los estatutos determinarán la composición de las mesas de contratación y/o concurso y los supuestos en que los representantes de la entidad deberán solicitar autorización previa al Departamento de Economía y Finanzas o al departamento del que dependan.
+
+#### Artículo 25.
+
+1\. La desafectación de bienes de dominio público adscritos a estas entidades, tanto si se trata de bienes transferidos por el Estado como de bienes adquiridos después de las transferencias, corresponde al Departamento de Economía y Finanzas, si su valor según tasación pericial no excede los 6.010.121,04 euros, y al Gobierno de la Generalidad de Cataluña, a propuesta del Departamento de Economía y Finanzas, si sobrepasa esta cantidad. En ambos casos es previa la instrucción del expediente por el Departamento de Economía y Finanzas, donde se debe acreditar que no es necesaria la afectación al uso general o a los servicios públicos y se determinará la incorporación al patrimonio de la Generalidad.
+
+2\. Ello no obstante, el Departamento de Economía y Finanzas, a propuesta del consejo de administración de la entidad, puede acordar la reserva o la retención de estos bienes en previsión de obras futuras, acuerdo que deberá revisar, como mínimo, cada cinco años.
+
+3\. Asimismo, el Departamento de Economía y Finanzas, a propuesta de la Dirección General del Patrimonio, puede delegar en el consejo de administración de la entidad las operaciones de venta de los bienes desafectos, que se someterán al procedimiento de la Ley de patrimonio, si este Departamento, dadas las características de aquéllos, no autoriza su venta directa.
+
+#### Artículo 26.
+
+1\. La transmisión a título oneroso de los bienes propios de estas entidades cuyo valor pericialmente fijado sea superior a 60.101,21 euros deberá ser autorizada previamente por el consejero o consejera de Economía y Finanzas, que la denegará si considera conveniente incorporarlos al Patrimonio de la Generalidad, previo expediente instruido por la Dirección General del Patrimonio. La autorización puede ser global por categorías de bienes.
+
+2\. Si se trata de bienes inmuebles, la transmisión a la que se refiere el apartado 1 debe ser autorizada por el Gobierno, sea cual fuere el valor pericialmente fijado, si la transmisión se realiza a favor de entidades de derecho público o sociedades con participación mayoritaria de la Generalidad que tengan el mismo objeto social. En los demás casos, la competencia para la autorización debe determinarse de acuerdo con lo establecido en el artículo 5.
+
+3\. La transmisión a título gratuito de dichos bienes será autorizada por el Gobierno en los términos y con las finalidades que establece la normativa patrimonial.
+
+> Se modifica el párrafo segundo por el art. 140.1 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2014-2999](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2999).
+
+#### Artículo 27.
+
+Se aplica a estas entidades lo dispuesto en los artículos 7, 8, 9 y 10.
+
+#### Artículo 28.
+
+Se aplican a estas entidades lo dispuesto en los artículos 13, 14 y 15.
+
+> Se modifica por el art 67.4 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 29.
+
+**(Derogado).**
+
+> Se deroga por el art 67.6 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 30.
+
+**(Derogado).**
+
+> Se deroga por el art 67.6 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 31.
+
+**(Derogado).**
+
+> Se deroga por el art 67.6 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 32.
+
+**(Derogado).**
+
+> Se deroga por el art 67.6 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 33.
+
+Se aplican a estas entidades lo dispuesto en los artículos 16, 17, 18 y 19.
+
+#### Artículo 34.
+
+Las relaciones entre estas entidades y su personal se rigen por las normas civiles, mercantiles y laborales que según su función les corresponda. Los sistemas de selección de personal se regularán por reglamento.
+
+### CAPÍTULO IV — De las sociedades con participación mayoritaria y las sociedades vinculadas
+
+#### Artículo 35.
+
+1\. La Administración de la Generalidad puede constituir sociedades civiles y mercantiles, o tener participación en las mismas, para alcanzar sus finalidades. Las entidades del sector público de la Generalidad, si así lo establecen sus estatutos, disponen también de esta facultad, que está sujeta a la autorización del Gobierno.
+
+2\. Corresponde al Gobierno acordar la constitución de sociedades por parte de la Administración de la Generalidad y conceder las autorizaciones para esta finalidad a las entidades de su sector público. El acuerdo del Gobierno debe determinar necesariamente la denominación de la sociedad, la forma jurídica que debe adoptar, el objeto social, el capital fundacional y el porcentaje de participación que debe tener directa o indirectamente la Generalidad y el departamento de adscripción o vinculación, y debe incluir la aprobación de los estatutos.
+
+3\. Corresponde al Gobierno acordar la participación en sociedades ya constituidas mediante la compra o suscripción de títulos representativos de capital por parte de la Administración de la Generalidad y conceder las autorizaciones para esta finalidad a las entidades de su sector público. El acuerdo del Gobierno debe determinar necesariamente el precio de adquisición o el importe de suscripción, incluida la prima de emisión o cualquier otra prestación económica, el porcentaje de participación que debe tener directa o indirectamente la Generalidad y el departamento de adscripción o vinculación. Si la participación de la Generalidad implica la modificación de los estatutos, el acuerdo debe incluir su aprobación.
+
+4\. Corresponde al Gobierno acordar la suscripción de compromisos de adquisición o enajenación futura de títulos representativos de capital, la constitución de gravámenes sobre estos y la suscripción de pactos extraestatutarios que limiten o condicionen los derechos políticos o económicos inherentes a la participación en sociedades por parte de la Administración de la Generalidad y conceder las autorizaciones para esta finalidad a las entidades de su sector público.
+
+5\. Deben ser autorizadas mediante un acuerdo del Gobierno las operaciones en sociedades participadas por la Administración de la Generalidad y por las entidades de su sector público que se relacionan a continuación:
+
+a) La modificación de los estatutos.
+
+b) El aumento y la reducción del capital social.
+
+c) Los negocios sobre las participaciones o acciones propias.
+
+d) La adquisición, la enajenación o la aportación a otra entidad de activos esenciales de acuerdo con la definición de la legislación reguladora de las sociedades de capital.
+
+e) La transformación, la fusión, la escisión o la cesión global de activos y pasivos y su aceptación.
+
+f) La disolución.
+
+6\. Corresponde al Gobierno acordar la enajenación de títulos representativos de capital de sociedades participadas por parte de la Administración de la Generalidad y conceder las autorizaciones para esta finalidad a las entidades de su sector público. El acuerdo del Gobierno tiene que establecer el precio mínimo de enajenación, que debe fijarse de acuerdo con los métodos de valoración comúnmente aceptados, y las características esenciales del procedimiento para su enajenación, que debe adjudicar el órgano administrativo responsable del patrimonio de la Generalidad, en el caso de los títulos propiedad de la Administración de la Generalidad, o el órgano competente de la entidad que corresponda cuando se trate de enajenar títulos de su propiedad. Con carácter general, la enajenación de los títulos debe hacerse mediante subasta o concurso en el marco de un procedimiento sometido a los principios de publicidad y concurrencia. No obstante, el Gobierno puede acordar o autorizar la enajenación directa, de forma motivada, cuando se dé alguno de los siguientes casos:
+
+a) Cuando hayan limitaciones estatutarias o legales a la libre transmisibilidad de las acciones o participaciones o existan derechos de adquisición preferente.
+
+b) Cuando la enajenación se realice en la misma sociedad o a alguno de sus socios.
+
+c) En el caso de participaciones iguales o inferiores al cincuenta por ciento del capital de la sociedad, cuando la enajenación se realice en el marco de una oferta global en firme para el conjunto del capital de la sociedad y exista el compromiso firme acreditado de cada uno del resto de socios por enajenar.
+
+d) Cuando la subasta o el concurso promovido para la enajenación de los títulos se declaren desiertos o resulten fallidos y, siempre y cuando no haya transcurrido más de un año desde la celebración de la subasta o el concurso. En este caso, las condiciones de la enajenación no pueden ser inferiores a las anunciadas previamente o a aquellas en que se habría producido la adjudicación.
+
+e) Cuando el adquiriente sea una administración pública o cualquier persona jurídica de derecho público o privado dependiente o adscrita a la misma.
+
+7\. El Gobierno, en el marco de las políticas de racionalización y simplificación de las entidades del sector público de la Generalidad, puede acordar y autorizar transmisiones de participaciones en sociedades con carácter gratuito entre la Administración de la Generalidad y las entidades de su sector público y de estas entre sí, así como operaciones societarias sin contraprestación, y dictar instrucciones a las entidades en este sentido.
+
+> Se modifica por el art. 158.1 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se modifica por el art. 58 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+> Se derogan los apartados 5 y 6 por la disposición derogatoria única.1.c) de la Ley 21/2005, de 29 de diciembre. [Ref. BOE-A-2006-2013](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2013).
+
+#### Artículo 36.
+
+1\. Los expedientes relativos a las propuestas de acuerdo del Gobierno a que se refiere el artículo 35 deben ser instruidos y tramitados por el departamento o departamentos competentes por razón de la materia o por adscripción o vinculación de la sociedad, que debe elevarlas al Gobierno para que las apruebe, a propuesta conjunta con el departamento competente en materia de patrimonio de la Generalidad. Estos acuerdos del Gobierno deben publicarse en el “Diari Oficial de la Generalitat de Catalunya”.
+
+2\. Las entidades del sector público de la Generalidad deben obtener las autorizaciones a las que se refiere el artículo 35 previamente a la adopción del acuerdo definitivo de su órgano competente.
+
+3\. Los representantes de la Administración de la Generalidad o de entidades de su sector público en los órganos de decisión de sociedades que pretendan aprobar las operaciones a las que se refiere el apartado 5 del artículo 35 deben obtener la autorización del Gobierno previamente al ejercicio de su voto.
+
+4\. Los representantes de la Administración de la Generalidad o de entidades de su sector público en entidades de cualquier forma jurídica admitida en derecho participadas minoritariamente por la Generalidad no requieren la autorización del Gobierno para las operaciones que afecten a sus sociedades civiles y mercantiles participadas, salvo que la entidad participada minoritariamente por la Generalidad haya sido clasificada como sector de Administración pública de la Generalidad de acuerdo con las normas del sistema europeo de cuentas nacionales y regionales.
+
+5\. El régimen de autorizaciones relativo a las sociedades participadas por las entidades del sector público de la Generalitat que tienen la condición de centro CERCA o por la Institución Catalana de Investigación y Estudios Avanzados se rige por su normativa específica.
+
+6\. Las autorizaciones a las que se refiere el artículo 35 también son aplicables a las participaciones en entidades que, a pesar de no tener forma jurídica societaria, se asimilan a esta, tienen personalidad jurídica propia y la obligación de estar inscritas en el Registro Mercantil.
+
+> Se modifica el apartado 5 por la disposición final 1 de la Ley 9/2022, de 21 de diciembre. [Ref. BOE-A-2023-467](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-467)
+
+> Se añade por el art. 158.2 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+> Se deroga por la disposición derogatoria 1.b) de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+> Se modifica por el art. 15 de la Ley 2/2014, de 27 de enero. [Ref. BOE-A-2006-2013](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2013).
+
+#### Artículo 37.
+
+En los consejos de administración de las sociedades con participación mayoritaria, y cuando ello no vulnere las garantías de mantener la mayoría en manos de la representación del capital público, se nombrarán representantes de los órganos sindicales más representativos de la propia empresa.
+
+#### Artículo 38.
+
+1\. El titular del órgano administrativo responsable del patrimonio de la Generalidad ejerce la representación de la Administración de la Generalidad como socio único en las sociedades en cuyo capital social la Generalidad participa directamente y totalmente, y la representación en las juntas generales del resto de sociedades en las cuales la Generalidad participa directamente, y puede delegar el ejercicio de esta representación. La representación como socio único o en las juntas generales de las sociedades participadas por las entidades del sector público de la Generalidad se ejerce de acuerdo con su normativa reguladora.
+
+2\. Los administradores en sociedades participadas por la Administración de la Generalidad y de las entidades de su sector público en su representación son nombradas atendiendo a criterios de competencia empresarial, profesional o técnica y de idoneidad para ejercer el cargo.
+
+3\. Corresponde al Gobierno acordar el nombramiento y el cese de las personas que tienen que ejercer de administradoras de las sociedades mercantiles en cuyo capital social la Administración de la Generalidad participa totalmente, lo cual tiene que ser consignado en el acta de decisiones del socio único y, mediante el representante en las juntas generales, proponer estos mismos acuerdos respecto a las personas que ejercen de administradoras en representación de la Administración de la Generalidad en el resto de sociedades participadas directamente. El nombramiento y cese de las personas que tienen que ejercer de administradoras en las sociedades participadas por las entidades del sector público de la Generalidad se realiza de acuerdo con su normativa reguladora.
+
+4\. A las sociedades con participación mayoritaria y a las sociedades vinculadas se les aplican las limitaciones establecidas por los artículos 18 y 19.
+
+> Se modifica por el art. 158.3 de la Ley 5/2017, de 28 de marzo. [Ref. BOE-A-2017-7353](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7353)
+
+#### Artículo 39.
+
+Los representantes de la Generalidad en los órganos sociales a los que corresponda aprobar las operaciones de endeudamiento o de aval por un importe superior al cincuenta por ciento del capital social o por un importe que sobrepase la participación de la Generalidad solicitarán, a través del consejero o consejera respectivo/a, la correspondiente autorización previa del Gobierno.
+
+> Se derogan los párrafos segundo y tercero por la disposición derogatoria 1.b) de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
+
+#### Artículo 40.
+
+1\. Se aplica a estas entidades lo dispuesto en los artículos 13, 14 y 15.
+
+2\. En el caso de las sociedades vinculadas en los términos del artículo 1.c, deben enviar al departamento competente en materia de finanzas públicas su presupuesto y el programa de inversiones y financiación que aprueben los respectivos consejos de administración en el plazo de quince días a contar desde su aprobación.
+
+> Se modifica por el art 67.5 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+#### Artículo 41.
+
+Estas sociedades se someterán a las auditorías que regula el artículo 16.
+
+#### Artículo 42.
+
+Las personas que prestan servicios en estas sociedades están sometidas, a las normas civiles mercantiles o laborales que, según su función, les correspondan.
+
+### CAPÍTULO V — De los recursos y reclamaciones
+
+#### Artículo 43.
+
+1\. Contra los actos de las entidades reguladas en los capítulos II y III sujetas a derecho administrativo, se puede recurrir por vía administrativa ante el/la titular del departamento al que estén adscritas.
+
+2\. La resolución del/de la titular del departamento es susceptible de recurso contencioso administrativo.
+
+3\. Los plazos y las características de los recursos son los establecidos con carácter general por las leyes de procedimiento.
+
+4\. El recurso extraordinario de revisión, si procede, se interpondrá ante el órgano administrativo que dictó el acto impugnado.
+
+5\. En materia urbanística, se aplica el régimen de recursos regulado por su legislación específica.
+
+#### Artículo 44.
+
+1\. Las reclamaciones, previo recurso de reposición potestativo en su caso, sobre la aplicación y la efectividad de los tributos cuya gestión sea encomendada a las entidades autónomas reguladas en el capítulo II tienen carácter económico administrativo y deberán presentarse ante estos tribunales.
+
+2\. Contra la resolución de estos órganos podrá interponerse recurso contencioso administrativo.
+
+#### Artículo 45.
+
+Antes de ejercer acciones ante los órganos jurisdiccionales civiles y laborales contra las entidades reguladas en el capítulo II, será preciso formular reclamación previa al ejercicio de acciones civiles y laborales, con el carácter y los efectos regulados por las leyes generales sobre procedimiento administrativo. La competencia para decidir sobre dichas reclamaciones corresponde al titular del departamento al que estén adscritas.
+
+#### Disposición adicional primera.
+
+Las relaciones financieras de la Generalidad con las empresas públicas deben ajustarse a las previsiones de la Directiva 80/723/CEE, de 25 de junio de 1980, y de las disposiciones comunitarias que la desarrollan o modifican, en los casos y con las condiciones que les sean de aplicación.
+
+> Se numera por el art. 105.2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Disposición adicional segunda.
+
+1\. La empresa pública Infraestructuras de la Generalitat de Catalunya, SAU, es una sociedad mercantil con participación mayoritaria de la Generalitat, en los términos que define el punto b.2 del artículo 1.
+
+2\. La empresa pública Infraestructures de la Generalitat de Catalunya, SAU tiene el siguiente objeto social:
+
+a) La realización, en nombre propio y por cuenta propia, de las siguientes actividades:
+
+1.º Proyectar, construir, conservar, mantener, modernizar y explotar las acequias y los canales secundarios de distribución del agua procedente del canal principal de Segarra-Garrigues y de otras infraestructuras incluidas en el ámbito del regadío Segarra-Garrigues; adquirir y transmitir suelo susceptible de uso agrario o susceptible de cualquier otro tipo de explotación mediante cualquier modalidad de transacción, arrendamiento u otras fórmulas reguladas en la legislación vigente y la gestión y explotación de este tipo de suelo dentro del mencionado ámbito.
+
+2.º Llevar a cabo actividades de promoción, gestión y explotación de equipamientos relacionados directa o indirectamente con el ámbito de actuación de las administraciones públicas, así como la realización de las actividades de conservación, mantenimiento, modernización y explotación de estos equipamientos.
+
+3.º Elaborar estudios y proyectos y prestar asesoramiento y asistencia en los ámbitos técnicos, financieros y de gestión y llevar a cabo las actuaciones directas que se requieran en relación con dichas actividades en todo tipo de edificaciones e infraestructuras.
+
+4.º Llevar a cabo las actuaciones que le encargue el Gobierno para explotar en condición de titular edificaciones e infraestructuras y, como tal, llevar a cabo las actividades y prestar los servicios que correspondan, actividades que puede llevar a cabo directamente o a través de terceras personas con las que celebre contratos de conformidad con la normativa aplicable a los poderes adjudicadores del sector público.
+
+b) El desempeño, en su condición de medio propio personificado de la Administración de la Generalidad, de las actividades que la Administración de la Generalidad o su sector público le encarguen, entre las que por lo menos las siguientes:
+
+1.º Gestionar procesos de licitación y adjudicar, atendiendo al correspondiente encargo de la Administración de la Generalidad o de su sector público, los contratos para la redacción de proyectos y estudios, ejecución de obras y prestación de todos los servicios y asistencias vinculados a la ejecución de actuaciones de construcción, conservación, mantenimiento y modernización de todo tipo de edificaciones e infraestructuras, así como de cualesquiera otros servicios y actuaciones que puedan encargarle.
+
+2.º Formalizar contratos con los adjudicatarios y gestionar su seguimiento y supervisión integral y ejecución, con la adopción de las decisiones e instrucciones necesarias para asegurar su correcta ejecución.
+
+3.º Elaborar estudios y proyectos, facilitar asistencias técnicas y facultativas y prestar asesoramiento y asistencia en los ámbitos técnicos, financieros y de gestión y realizar las actuaciones directas que se requieran en todo tipo de actuaciones en edificaciones e infraestructuras.
+
+3\. La empresa pública Infraestructures de la Generalitat, SAU tiene, con relación a las actuaciones indicadas en la letra b del apartado 2, la condición de medio propio personificado de la Administración de la Generalidad y de los entes y organismos que están vinculados que tengan la consideración de poderes adjudicadores, a efectos de lo establecido en la normativa de contratos del sector público, con sujeción al régimen que se establezca por el correspondiente convenio marco de regulación de las relaciones derivadas de los encargos, el cual ha de aplicar el régimen de tarifas aplicables a la gestión de los encargos que sea aprobado por acuerdo de gobierno.
+
+4\. La empresa pública Infraestructures de la Generalitat de Catalunya, SAU no puede participar en licitaciones de la Administración de la Generalidad ni de las entidades y organismos de su sector público.
+
+5\. La ejecución de los encargos que Infraestructures de la Generalitat de Catalunya, SAU recibe queda sometida a la normativa de contratación pública como poder adjudicador, atendiendo a su condición de sociedad mercantil de capital íntegramente público.
+
+6\. Los departamentos de la Generalitat y los organismos y entidades de su sector público, deben encargar a Infraestructures de la Generalitat de Catalunya, SAU, la gestión del proceso de licitación y adjudicación, y posterior formalización, de los contratos con los adjudicatarios y gestión de la dirección y el seguimiento integral de la ejecución de las obras que tengan un valor estimado superior a 15.000.0000 de euros, IVA excluido, y la redacción de estudios y proyectos que tengan un valor estimado superior a 2.000.000 de euros, IVA excluido, salvo que se justifique que, por su especialidad técnica o por la complejidad de su ejecución o la urgencia declarada en una disposición normativa o en acuerdo del Gobierno, sea aconsejable o conveniente que los realice el departamento o el organismo o entidad del sector público de la Generalitat actuante, dando por sentado que dichos límites no afectan las actuaciones de mantenimiento, reposición y conservación de las infraestructuras, edificaciones e instalaciones.
+
+En estos casos, a petición del departamento o el organismo o entidad del sector público de la Generalitat actuante, Infraestructures de la Generalitat de Catalunya, SAU, dará apoyo al órgano de contratación en la redacción de los pliegos y también, con la petición previa, puede participar en la valoración de las ofertas y el seguimiento del contrato, siempre de conformidad con lo que establece la normativa de contratos aplicable al sector público.
+
+En el caso de los encargos relativos a la implantación, mantenimiento y operación de infraestructuras e instalaciones de energía renovable promovidas directamente o en colaboración con terceros por parte de la Generalitat y los organismos y entidades de su sector público en sus inmuebles e infraestructuras y para abastecimiento de estos y, en general, a las actuaciones para la mitigación y adaptación al cambio climático vinculadas a los inmuebles e infraestructuras ocupados mediante cualquier título jurídico por la Generalitat y por los entes y organismos de su sector público, deben efectuarse en Infraestructures de la Generalitat de Cataluña, SAU, los que correspondan a obras que tengan un valor estimado superior a 2.000.000 de euros, IVA excluido, y la redacción de los estudios y proyectos que tengan un valor estimado superior a 300.000 euros, IVA excluido, salvo que se justifique que, por la especialidad técnica o la complejidad de la ejecución o la urgencia declarada en una disposición normativa o en un acuerdo del Gobierno, sea aconsejable o conveniente que los lleve a cabo el departamento o el organismo o entidad del sector público de la Generalitat actuante, entendiendo que estos límites no afectan a las actuaciones de mantenimiento, reposición y conservación de estas infraestructuras e instalaciones ni a su operación y explotación.
+
+Se considera que existe una causa de especialidad técnica o de complejidad de ejecución cuando se trata de contratos calificados como servicio de eficiencia energética en la modalidad de contrato de rendimiento energético con ahorros garantizados.
+
+En estos casos, es el departamento, el organismo o la entidad del sector público de la Generalitat que ocupe el inmueble por cualquier título quien debe llevar a cabo la licitación y la adjudicación posterior de aquel servicio. El Instituto Catalán de Energía debe apoyar al órgano de contratación en la redacción de los pliegos, y este debe incorporar en los pliegos las propuestas formuladas por el Instituto Catalán de Energía que afecten a la aplicación de los criterios de política energética. El Instituto Catalán de Energía también debe participar en la valoración de las ofertas y el seguimiento del contrato, siempre de conformidad con lo establecido en la normativa de contratos aplicable al sector público.
+
+Los encargos relativos a la implantación, mantenimiento y operación de infraestructuras e instalaciones de energía renovable deben ser objeto de informe previo del Instituto Catalán de Energía, que puede proponer medidas de mejora o de modificación de algunas actuaciones. Estas medidas son vinculantes en cuanto a los objetivos de ahorro energético e implantación de energías renovables previstos en el Plan de ahorro y eficiencia energéticos en los inmuebles de la Generalitat que aprueba el Gobierno.
+
+A fin de facilitar el seguimiento de los objetivos del Plan de ahorro y eficiencia energéticos en los inmuebles de la Generalitat, Infraestructures de la Generalitat de Cataluña, SAU debe remitir anualmente al organismo responsable del seguimiento de los planes los resultados desglosados por los distintos departamentos en términos de inversión, ahorro económico y energético y autogeneración renovable conseguida.
+
+7\. El Gobierno ha de aprobar la suscripción de un convenio entre la Administración de la Generalidad y su sector público y la empresa pública Infraestructures de la Generalitat de Catalunya, SAU, para regular los encargos a esta empresa pública como medio propio personificado, así como el ejercicio de las atribuciones propias que tiene asignadas para gestionar procesos de licitación y adjudicar y contratar la redacción de proyectos y estudios, la ejecución de obras y la prestación de todos los servicios y las asistencias vinculados a la ejecución de actuaciones de construcción, conservación, mantenimiento y modernización de todo tipo de edificaciones e infraestructuras, así como de cualesquiera otros servicios y actuaciones de la Administración de la Generalidad o de su sector público. El acuerdo de gobierno y el convenio, para su eficacia, deben ser publicados en el ‘‘Diari Oficial de la Generalitat de Catalunya’’.
+
+8\. Los Estatutos de la empresa pública Infraestructuras de la Generalitat de Catalunya, SAU, pueden establecer su condición de medio propio personificado de las entidades locales de Cataluña y de los entes o entidades de su sector público que tengan la consideración de poderes adjudicadores. A este efecto, los Estatutos tienen que regular las condiciones de participación de estas entidades en el capital social y en los órganos de gobierno para garantizar el control análogo conjunto, de acuerdo con la normativa de contratos del sector público. La condición de medio propio personificado respecto de estas entidades habilita a la empresa pública para ejecutar, en el marco de los encargos que estas le efectúen, las actuaciones comprendidas en su objeto social, tanto las previstas en la letra a) como en la letra b) del apartado 2 de esta disposición.
+
+> Se modifica el apartado 1 y se añade el 8 por la disposición final 1 del Decreto-ley 6/2026, de 5 de mayo. [Ref. BOE-A-2026-14658](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14658)
+
+> Se modifica el apartado 6 por el art. 1 del Decreto-ley 3/2025, de 4 de marzo. [Ref. BOE-A-2025-8491](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8491)
+
+> Se añaden cinco párrafos al apartado 6 por el art 67.7 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade por el art. 105.2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
+
+#### Disposición final primera.
+
+Esta Ley se aplica supletoriamente al ente público Corporación Catalana de Radio y Televisión, que continúa rigiéndose por la Ley 10/1983, del 30 de mayo.
+
+#### Disposición final segunda.
+
+Se autoriza al Gobierno para que desarrolle esta Ley y establezca requisitos adicionales por lo que respecta a los controles presupuestarios y financieros a cuyas empresas se aplica.
+
+#### Disposición final tercera.
+
+1\. La letra d) del artículo 5 de la Ley de finanzas públicas de Cataluña queda modificada de acuerdo con lo que establecen las disposiciones de esta Ley.
+
+2\. No serán aplicables a las entidades y empresas a que hace referencia esta Ley las disposiciones de la Ley 10/1982, del 12 de julio, de finanzas públicas de Cataluña, y de la Ley 11/1981, de 7 de diciembre, de patrimonio de la Generalidad, que se opongan a las disposiciones de esta Ley.
+
+3\. Quedan derogadas todas las disposiciones que se opongan a los preceptos de esta Ley.
+
+#### Disposición final cuarta. Habilitación para la elaboración de un nuevo texto refundido.
+
+Se autoriza al Gobierno para que, en el plazo de un año a partir de la entrada en vigor de la presente disposición final, elabore un nuevo texto refundido de la Ley del estatuto de la empresa pública catalana, en sustitución del texto refundido aprobado por el Decreto legislativo 2/2002, de 24 de diciembre. La autorización para la refundición incluye también la facultad de regularizar, aclarar y armonizar su contenido.
+
+> Se modifica por el art 67.8 de la Ley 2/2021, de 29 de diciembre. [Ref. BOE-A-2022-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-953)
+
+> Se añade por el art. 105.3 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)

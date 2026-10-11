@@ -1,0 +1,763 @@
+---
+title: "Real Decreto 2188/1995, de 28 de diciembre, por el que se desarrolla el régimen del control interno ejercido por la Intervención General de la Administración del Estado"
+identifier: "BOE-A-1996-1578"
+eli: "https://www.boe.es/eli/es/rd/1995/12/28/2188"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1995-12-28
+published: 1996-01-25
+in_force_from: 1996-02-14
+last_amended: 2015-02-26
+consolidated: 2026-02-11
+gazette: "Boletín Oficial del Estado núm. 22"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-1578"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2188/1995, de 28 de diciembre, por el que se desarrolla el régimen del control interno ejercido por la Intervención General de la Administración del Estado
+
+En el vigente texto refundido de la Ley General Presupuestaria, aprobado por Real Decreto legislativo 1091/1988, de 23 de septiembre, se regula el ejercicio del control interno del sector público estatal a realizar por la Intervención General de la Administración del Estado.
+
+Este sistema de control interno se caracteriza por las siguientes notas:
+
+a) Ejercerse con plena autonomía respecto de las autoridades y órganos controlados.
+
+b) Realizarse por medio de las modalidades de función interventora y del control financiero.
+
+c) Ejercerse de forma desconcentrada de acuerdo con la competencia del órgano controlado.
+
+d) Tomar en conjunto como marco de referencia tanto el aspecto legal o de cumplimiento normativo como otros principios fundamentales en la actuación del sector público, como son la economía, la eficiencia y la eficacia.
+
+En el ámbito de la función interventora se considera conveniente delimitar con claridad las características básicas del régimen especial de fiscalización limitada previa para diferenciarlo del régimen ordinario, así como regular adecuadamente las medidas a tomar en caso de omisión de la preceptiva fiscalización previa.
+
+En el ámbito del control financiero, se considera necesario tanto el realizar un adecuado desarrollo normativo dada la dispersión existente en esta materia y el carácter de instrucción provisional que tenía el Real Decreto 1124/1978, de 12 de mayo, como conseguir una regulación a nivel reglamentario que delimite con claridad aspectos relevantes tales como el ámbito de aplicación, las formas de ejercicio, etc., y dado que el control no es, ni puede ser, un fin en sí mismo, sino que debe concebirse como un instrumento para el perfeccionamiento de la actividad controlada, regular también el cauce a seguir por los informes que, en el ejercicio de esta modalidad del control, se emiten.
+
+Es interés del Gobierno la continua mejora en los mecanismos de gestión y control interno del sector público estatal, a cuyo efecto se hace necesario dictar normas que desarrollen los preceptos de la Ley General Presupuestaria en materia de función interventora y de control financiero, en aras de su mayor eficacia.
+
+En su virtud, a propuesta del Ministro de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 28 de diciembre de 1995,
+
+D I S P O N G O :
+
+## TITULO I — Disposiciones comunes
+
+##### Artículo 1. Ambito de aplicación.
+
+El control interno de la gestión económico-financiera del sector público estatal se realizará en los términos establecidos en el texto refundido de la Ley General Presupuestaria y en el presente Reglamento, sobre el conjunto de dicha actividad financiera y sobre los actos con contenido económico que la integran.
+
+El control interno a que se refiere el presente Reglamento no será de aplicación a los órganos que no dependan del Gobierno o de la Administración General e Institucional del Estado.
+
+##### Artículo 2. Formas de ejercicio.
+
+1\. El control interno de la gestión económico financiera del sector público estatal se realizará mediante el ejercicio de la función interventora y del control financiero.
+
+2\. La función interventora tiene por objeto controlar todos los actos de la Administración del Estado y de sus Organismos autónomos que den lugar al reconocimiento de derechos y de obligaciones de contenido económico, así como los ingresos y pagos que de ellos se deriven y la recaudación, inversión o aplicación en general de los caudales públicos, con el fin de asegurar que la administración de la Hacienda Pública se ajusta a las disposiciones aplicables en cada caso.
+
+3\. El control financiero tiene por objeto comprobar que la actuación, en el aspecto económico-financiero, de los servicios, Organismos autónomos, sociedades y demás entes públicos estatales, cualquiera que sea su denominación y forma jurídica, se ajusta al ordenamiento jurídico así como a los principios generales de buena gestión financiera.
+
+Este control comprenderá la verificación de la eficacia y eficiencia, así como el adecuado registro y contabilización de la totalidad de las operaciones realizadas por cada órgano o entidad y su fiel reflejo en las cuentas y estados que, conforme a las disposiciones aplicables, deban formar éstos. Dicha función podrá ejercerse con carácter permanente.
+
+El control de eficacia, a ejercer por la Intervención General de la Administración del Estado, comprenderá el análisis del coste de funcionamiento y del rendimiento o utilidad de los respectivos servicios o inversiones, así como del cumplimiento de los objetivos de los correspondientes programas, sin que dicho control pueda emitir juicio sobre las decisiones de carácter político.
+
+El control de eficacia se realizará sin perjuicio del que cada departamento ministerial, en el ámbito de sus competencias, pueda desarrollar en esta materia, por sí mismo o en colaboración con la Intervención General de la Administración del Estado.
+
+Cuando los presupuestos de los servicios o entidades públicas se formulen por programas, objetivos o planes de actuación el control financiero tendrá como objeto, entre otros, el examen, análisis y evaluación de los sistemas y procedimientos de seguimiento de objetivos aplicados por los órganos gestores, así como de cuantos documentos y antecedentes resulten necesarios para determinar el grado de fiabilidad de los datos contenidos en los informes que, con relación a la ejecución de los programas, deban rendir los órganos gestores responsables.
+
+A estos efectos, los órganos gestores habrán de establecer un sistema de seguimiento de objetivos adaptado a las necesidades propias de su gestión con la finalidad de poder evaluar el cumplimiento de los objetivos que han servido de base en la asignación de recursos.
+
+##### Artículo 3. Principios de ejercicio del control interno.
+
+1\. La Intervención General de la Administración del Estado, en el ejercicio de sus funciones de control interno, estará sometida a los principios de autonomía funcional, ejercicio desconcentrado y procedimiento contradictorio.
+
+2\. El control interno de la Intervención General de la Administración del Estado se ejercerá con plena autonomía respecto de las autoridades y demás entidades cuya gestión sea objeto del control. A tales efectos, los funcionarios que realicen el mismo tendrán independencia funcional respecto de los titulares de las entidades cuya gestión controlen y ajustarán sus actuaciones a las instrucciones impartidas al efecto por el citado centro directivo.
+
+3\. La Intervención General de la Administración del Estado dará cuenta a los órganos de gestión controlados de los resultados más relevantes de las comprobaciones efectuadas y recomendará las actuaciones que resulten aconsejables. De igual modo, este centro dará cuenta al Consejo de Ministros, a través del Ministro de Economía y Hacienda, de los resultados que por su especial transcendencia considere adecuado elevar al mismo, o cuando los responsables de la gestión no adopten las medidas correctoras propuestas.
+
+4\. Cuando la naturaleza del acto, documento o expediente lo requiera, la Intervención General de la Administración del Estado o sus Interventores Delegados, en el ejercicio de sus funciones de control interno, podrán recabar directamente de los distintos órganos de la Administración General e Institucional los asesoramientos jurídicos y los informes técnicos que consideren necesarios, así como los antecedentes y documentos precisos para el ejercicio de sus funciones de control interno, con independencia del medio que los soporte. Cuando los asesoramientos e informes hayan de recabarse de órganos cuya competencia se extiende a la totalidad de dicha Administración, se solicitarán, en todo caso, por la Intervención General de la Administración del Estado.
+
+5\. La Intervención General de la Administración del Estado podrá interponer los recursos y reclamaciones que autoricen las disposiciones vigentes. Asimismo, podrá instar la declaración de lesividad y la revisión de oficio de aquellos actos que considere perjudiciales para los intereses económicos de la Hacienda Pública.
+
+> Se modifica el apartado 4 por el art. 1 del Real Decreto 339/1998, de 6 de marzo. [Ref. BOE-A-1998-6181](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-6181)
+
+##### Artículo 4. Deberes del personal controlador.
+
+1\. Los funcionarios que ejerzan la función interventora o realicen el control financiero deberán guardar el debido sigilo con relación a los asuntos que conozcan en el desempeño de sus funciones.
+
+Los datos, informes o antecedentes obtenidos en el ejercicio del control interno sólo podrán utilizarse para los fines asignados al mismo y, en su caso, para formular la correspondiente denuncia de hechos que puedan ser constitutivos de infracción administrativa, responsabilidad contable o penal. Asimismo, las Comisiones Parlamentarias de Investigación podrán tener acceso a dichos datos, informes o antecedentes.
+
+2\. Cuando en la práctica de un control, el interventor actuante aprecie, que los hechos acreditados o comprobados pudieran ser susceptibles de constituir una infracción administrativa, o dar lugar a la exigencia de responsabilidades contables o penales, actuará de acuerdo con las reglas que se establecen a continuación:
+
+a) Cuando los hechos pudieran ser constitutivos de delito, dará traslado de las actuaciones a la Intervención General de la Administración del Estado, la cual remitirá lo actuado al órgano competente.
+
+b) En el caso de posibles infracciones en materia de gestión económico-presupuestaria de las previstas en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, que no siendo constitutivas de delito afecten a presuntos responsables comprendidos en el ámbito de aplicación de la citada ley, dará traslado de las actuaciones a la Oficina de Conflictos de Intereses.
+
+c) En las restantes infracciones en materia de responsabilidad contable no comprendidas en el epígrafe b) anterior, se estará con carácter general a lo dispuesto en el artículo 180, en relación con el 177, de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+d) En el caso de otras posibles infracciones administrativas distintas de las anteriores, se dará traslado de los hechos a la Subsecretaría del Departamento correspondiente y, en su caso, a los órganos competentes de los organismos públicos y de las entidades del sector público estatal objeto de control.
+
+El Interventor dará cuenta a la Intervención General de los informes remitidos al Tribunal de Cuentas y al Ministerio de Hacienda y Administraciones Públicas, en aplicación de lo dispuesto en el epígrafe c).
+
+A efectos de lo dispuesto en los epígrafes a), c) y d) de este apartado 2, el órgano de control actuante ajustará su actuación a la normativa específica y a las circulares e instrucciones aprobadas por la Intervención General de la Administración del Estado.
+
+3\. En los demás casos en que proceda legalmente el acceso a los informes de control, la solicitud de los mismos deberá dirigirse directamente al gestor directo de la actividad controlada.
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 109/2015, de 20 de febrero. [Ref. BOE-A-2015-1949](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1949).
+
+##### Artículo 5. Facultades del personal controlador.
+
+1\. Las autoridades, cualquiera que sea su naturaleza, así como los Jefes o Directores de oficinas públicas, Organismos autónomos y sociedades estatales y quienes en general, ejerzan funciones públicas o desarrollen su trabajo en dichas entidades deberán prestar la debida colaboración y apoyo a los funcionarios encargados de la realización del control.
+
+2\. El Servicio Jurídico del Estado deberá prestar la asistencia jurídica que, en su caso, corresponda a los funcionarios que, como consecuencia de su participación en actuaciones de control interno, sean objeto de citaciones por órgano jurisdiccional.
+
+3\. Los funcionarios actuantes en el control financiero podrán revisar los sistemas informáticos de gestión que sean precisos para llevar a cabo sus funciones de control. Los accesos a las bases de datos y archivos automatizados de la Administración tributaria se realizarán en el marco de las normas básicas de control y seguridad que se dicten en desarrollo de la disposición final segunda de la Ley 66/1997, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
+
+> Se añade el apartado 3 por el art. 1 del Real Decreto 339/1998, de 6 de marzo. [Ref. BOE-A-1998-6181](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-6181)
+
+## TITULO II — De la función interventora
+
+### CAPITULO I — Disposiciones generales
+
+##### Artículo 6. Ambito de aplicación.
+
+1\. La Administración General del Estado y sus organismos autónomos de carácter administrativo están sujetos a la función interventora en los términos establecidos en el capítulo I y en el artículo 99 del Título III del texto refundido de la Ley General Presupuestaria y en el presente Título.
+
+2\. Cuando en los procedimientos de gestión que den lugar a actos, documentos y expedientes de contenido económico objeto de control participen distintas Administraciones públicas, la función interventora se limitará a las actuaciones que se produzcan en el ámbito de la Administración General del Estado y sus Organismos autónomos administrativos.
+
+##### Artículo 7. Principios de ejercicio.
+
+1\. La función interventora tiene carácter interno y preventivo y tiene por objeto garantizar, en todo caso y para cada acto, el cumplimiento de las normas relativas a la disciplina presupuestaria, a los procedimientos de gestión de gastos, ingresos y aplicación de los fondos públicos.
+
+2\. La función interventora se ejercerá con ocasión de la autorización o aprobación de gastos, la comprobación de inversiones, la liquidación de gastos o reconocimiento de obligaciones, la ordenación de pagos y el reconocimiento y liquidación de derechos, así como en la realización de los ingresos y pagos que de ellos se deriven.
+
+3\. La función interventora se ejercerá en sus modalidades de intervención formal y material. La intervención formal consistirá en la verificación del cumplimiento de los requisitos legales necesarios para la adopción del acuerdo, mediante el examen de todos los documentos que preceptivamente deban estar incorporados al expediente. En la intervención material se comprobará la real y efectiva aplicación de los fondos públicos.
+
+4\. Sin perjuicio del carácter suspensivo de los reparos, previsto en el texto refundido de la Ley General Presupuestaria, las opiniones de la Intervención respecto al cumplimiento de las normas no prevalecerán sobre las de los órganos de gestión. Los informes emitidos por ambos se tendrán en cuenta en el conocimiento de las discrepancias que se planteen, las cuales serán resueltas definitivamente por el Consejo de Ministros de acuerdo con lo previsto en el apartado 1 del artículo 98 del texto refundido de la Ley General Presupuestaria y en el artículo 16 del presente Real Decreto.
+
+##### Artículo 8. Competencias.
+
+1\. La distribución de competencias entre el Interventor general de la Administración del Estado y los interventores delegados, a que se refiere el artículo 94 de la Ley General Presupuestaria, se establece del modo siguiente:
+
+a) El Interventor general de la Administración del Estado ejercerá la fiscalización previa en los actos de aprobación de los gastos siguientes:
+
+1.º Los que hayan de ser aprobados por el Consejo de Ministros o por las Comisiones Delegadas del Gobierno.
+
+2.º Los que supongan una modificación de otros que hubiera fiscalizado la Intervención General de la Administración del Estado.
+
+3.º Los que deban ser informados por el Consejo de Estado o la Dirección General del Servicio Jurídico del Estado.
+
+b) Los Interventores delegados, sin otras excepciones que las enumeradas en el apartado anterior, ejercerán en toda su amplitud la fiscalización e intervención de los actos relativos a gastos, derechos, pagos e ingresos que dicten las autoridades de los Ministerios, Centros, Dependencias u Organismos autónomos. La función se ejercerá por el Interventor delegado cuya competencia orgánica o territorial se corresponda con la de la autoridad que acuerde el acto de gestión. En el supuesto de concurrencia a la financiación de contratos de distintos Departamentos ministeriales a que se refiere el artículo 12.5 de la Ley de Contratos de las Administraciones Públicas, la función se ejercerá por el Interventor delegado cuya competencia orgánica o territorial se corresponda con la del órgano de contratación.
+
+2\. Los interventores delegados en la esfera civil serán designados entre funcionarios del Cuerpo Superior de Inspectores de Finanzas del Estado de la correspondiente especialidad y, en la militar, entre los del Cuerpo Militar de Intervención de la Defensa.
+
+3\. Como competencia inherente a la función interventora el Interventor general de la Administración del Estado y los interventores delegados podrán interponer recursos y reclamaciones económico-administrativas en las materias a que se extiende su función fiscalizadora.
+
+> Se modifica la letra b) del apartado 1 por la disposición final 3 del Real Decreto 1098/2001, de 12 de octubre. [Ref. BOE-A-2001-19995](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-19995)
+
+### CAPITULO II — Del ejercicio de la función interventora
+
+##### Artículo 9. De las distintas fases de la intervención.
+
+El ejercicio de la función interventora comprenderá:
+
+a) La fiscalización previa de los actos que reconozcan derechos de contenido económico, aprueben gastos, acuerden movimientos de fondos y valores o aquéllos que sean susceptibles de producirlos.
+
+b) La intervención de la liquidación del gasto y de la inversión.
+
+c) La intervención formal de la ordenación del pago.
+
+d) La intervención material del pago.
+
+##### Artículo 10. Del contenido de la función interventora.
+
+1\. Se entiende por fiscalización previa la facultad que compete a la Intervención de examinar, antes de que se dicte la correspondiente resolución, todo acto, documento o expediente susceptible de producir derechos u obligaciones de contenido económico o movimiento de fondos y valores, con el fin de asegurar, según el procedimiento legalmente establecido, su conformidad con las disposiciones aplicables en cada caso.
+
+2\. La intervención previa de la liquidación del gasto o reconocimiento de obligaciones es la facultad de la Intervención para comprobar, antes de que se dicte la correspondiente resolución, que las obligaciones se ajustan a la ley o a los negocios jurídicos suscritos por las autoridades competentes y que el acreedor ha cumplido o garantizado, en su caso, su correlativa prestación. La intervención de la comprobación material de la inversión se ajustará a lo establecido en el artículo 28 de este Reglamento.
+
+3\. La intervención formal de la ordenación del pago es la facultad atribuida a la Intervención para verificar la correcta expedición de las órdenes de pago contra el Tesoro Público.
+
+4\. La intervención material del pago es la facultad que compete a la Intervención para verificar que dicho pago se ha dispuesto por órgano competente y se realiza en favor del perceptor y por el importe establecidos.
+
+### CAPITULO III — Del procedimiento para el ejercicio de la función interventora sobre los derechos e ingresos
+
+##### Artículo 11. Fiscalización previa de derechos e ingresos.
+
+La fiscalización previa e intervención de los derechos e ingresos del Tesoro Público se sustituyen por el control inherente a la toma de razón en contabilidad y el control posterior a que se refiere el artículo siguiente de este Reglamento.
+
+Sin perjuicio de lo establecido en el párrafo anterior, la citada sustitución no alcanzará a los actos de ordenación y pago material derivados de devoluciones de ingresos indebidos, que se fiscalizarán conforme a lo que se establece en la sección quinta del capítulo siguiente.
+
+##### Artículo 12. Control posterior de derechos e ingresos.
+
+El control posterior de los derechos e ingresos del Tesoro Público se efectuará mediante el ejercicio del control financiero permanente. El Interventor general podrá establecer específicas comprobaciones posteriores sobre determinados tipos de liquidaciones.
+
+### CAPITULO IV — Del procedimiento para el ejercicio de la función interventora sobre gastos y pagos
+
+#### Sección 1.ª Disposiciones comunes
+
+##### Artículo 13. Momento y plazo para el ejercicio de la función interventora.
+
+1\. La Intervención recibirá el expediente original completo una vez reunidos todos los justificantes y emitidos los informes preceptivos y cuando esté en disposición de que se dicte acuerdo por quien corresponda, sin perjuicio de lo previsto en el párrafo tercero del artículo 2.2 de la Ley Orgánica 3/1980, de 22 de abril, del Consejo de Estado. En este caso, la fiscalización, además de comprobar con anterioridad al dictamen del Consejo de Estado los extremos exigidos por la normativa vigente, con posterioridad a dicho dictamen únicamente constatará su existencia material y su carácter favorable.
+
+Los documentos electrónicos que formen parte del expediente original deberán incorporar las firmas electrónicas necesarias, que garanticen la identificación del emisor, su autenticidad y la integridad e inalterabilidad del documento. A tales efectos, la firma electrónica estará basada en certificado electrónico de los previstos en el artículo 13.2.a) y b) de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos, para documentos firmados por el ciudadano, y en el artículo 21.a) y b) del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, para los documentos firmados por las Administraciones públicas, y se ajustará a lo dispuesto en la Política de Firma Electrónica y de Certificados de la Administración General del Estado, publicada mediante Resolución de 29 de noviembre de 2012, de la Secretaría de Estado de Administraciones Públicas. Los documentos administrativos podrán estar firmados mediante certificado de sello electrónico de los previstos en el artículo 18.1.a) de la Ley 11/2007, cuando sea admisible de acuerdo con la normativa vigente. Su remisión a la Intervención se efectuará de acuerdo con lo previsto en los artículos 13 bis y 13 ter siguientes.
+
+2\. La Intervención fiscalizará el expediente en el plazo máximo de 10 días contado desde el siguiente a la fecha de recepción. Este plazo se reducirá a cinco días computados de igual forma cuando se haya declarado urgente la tramitación del expediente o se aplique el régimen especial de fiscalización e intervención previa regulado en los artículos 19 y siguientes de este real decreto.
+
+Cuando el expediente esté integrado por documentos en soporte electrónico y en papel, no se entenderá completo hasta la fecha de recepción del último documento, justificante e informe que forme parte de aquel según la relación de documentos que ha de acompañar tanto a los que se remitan en soporte papel como en soporte electrónico. Dicha relación, que será generada por alguna de las aplicaciones previstas en el artículo 13 bis, incluirá necesariamente una enumeración de los documentos constitutivos del expediente con indicación del soporte, electrónico o papel, en el que se remita cada uno de ellos. La relación que acompañe los documentos electrónicos será devuelta al remitente en el acuse de recibo con la identificación asignada al expediente. Esta relación será, además, archivada en alguna de las aplicaciones previstas en el artículo 13 bis a los efectos del control de su integridad, y la que acompañe los documentos en papel incorporará la firma manuscrita del remitente, así como la identificación del expediente asignada por la aplicación. El momento en que el expediente esté completo determina el inicio del cómputo del plazo para el ejercicio de la función interventora.
+
+Cuando la Intervención haga uso de la facultad a que se refiere el artículo 3.4, se suspenderá el plazo de fiscalización previsto en este artículo, y quedará obligada a dar cuenta de dicha circunstancia al gestor.
+
+> Se modifica el apartado 1 por el art. único.2 del Real Decreto 109/2015, de 20 de febrero. [Ref. BOE-A-2015-1949](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1949).
+
+> Se modifica por el art. único.1 del Real Decreto 686/2005, de 10 de junio. [Ref. BOE-A-2005-10816](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10816)
+
+##### Artículo 13 bis. Remisión del expediente a la Intervención a través de sistemas informáticos.
+
+1\. Cuando la propuesta y el acto o resolución objeto de fiscalización o intervención previa se formalicen en documento electrónico, el resultado de la fiscalización o intervención previa se formalizará igualmente en documento electrónico que incorporará la firma electrónica del Interventor competente.
+
+En este caso, la firma electrónica estará basada en certificado electrónico de los previstos en el artículo 21.a) y b) del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, para los documentos firmados por las Administraciones públicas, y se ajustará igualmente a lo dispuesto en la Política de Firma Electrónica y de Certificados de la Administración General del Estado, publicada mediante Resolución de 29 de noviembre de 2012, de la Secretaría de Estado de Administraciones Públicas.
+
+2\. La puesta del expediente a disposición de la Intervención para su fiscalización o intervención, así como la formalización de su resultado en documento electrónico y la remisión posterior de éste y del expediente, se realizará exclusivamente a través de alguno de los siguientes sistemas de información y comunicación:
+
+a) Mediante la utilización de una aplicación informática desarrollada específicamente por la Intervención General de la Administración del Estado, en la que el órgano gestor genera y tramita el expediente.
+
+Esta aplicación informática deberá ser objeto de aprobación mediante resolución de la Intervención General de la Administración del Estado que definirá los aspectos relativos a:
+
+1\. Legalidad de la aplicación: adecuación del funcionamiento de la aplicación a los requisitos y trámites del procedimiento;
+
+2\. Seguridad de aplicación: preservación de la disponibilidad, confidencialidad e integridad de los datos tratados por la aplicación;
+
+3\. Normalización de los medios de acceso: especificaciones técnicas sobre los medios y formatos de acceso;
+
+4\. Conservación de los soportes utilizados: proporción entre la durabilidad de los soportes y el tiempo en que deben mantenerse los datos en ellos incluidos.
+
+b) Mediante la utilización de una aplicación informática desarrollada específicamente por la Intervención General de la Administración del Estado para la citada finalidad, en los supuestos en que el órgano gestor genere y tramite el expediente mediante sistemas y aplicaciones propias.
+
+Esta aplicación informática deberá ser objeto de aprobación mediante resolución de la Intervención General de la Administración del Estado en los mismos términos establecidos en el segundo párrafo del artículo 13 bis.2.a) anterior.
+
+Para facilitar la interoperabilidad de este sistema con los propios sistemas de gestión de los órganos gestores, la Intervención General de la Administración del Estado pondrá a su disposición un servicio web específico, ajustado a las Normas Técnicas de Interoperabilidad dictadas en desarrollo del Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica, que permita la comunicación, a tal efecto, entre dichos órganos gestores y su correspondiente órgano de control.
+
+3\. El acceso y utilización por los órganos gestores de las aplicaciones desarrolladas por la Intervención General de la Administración del Estado, incluidas en los modelos de funcionamiento del apartado 2.a) y b), deberá ajustarse a lo establecido en las disposiciones sobre política de seguridad de los sistemas de información y procedimientos de control de accesos de la propia Intervención General de la Administración del Estado, basados en el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica, aprobado mediante Real Decreto 3/2010, de 8 de enero, y requerirá un certificado electrónico de los previstos en el artículo 21.a) y b) del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, cuando se trate de acceso personal, o de los previstos en el artículo 19 del mismo real decreto, cuando el acceso se efectúe desde otro sistema.
+
+4\. Los formatos admitidos para los documentos electrónicos incluidos en el expediente, así como los de su encapsulamiento, en los modelos de funcionamiento del apartado 2.a) y b), serán los que se establezcan en las disposiciones que aprueben las respectivas aplicaciones, y estarán dentro de los admitidos en la norma técnica de interoperabilidad del catálogo de estándares.
+
+> Se modifica por el art. único.3 del Real Decreto 109/2015, de 20 de febrero. [Ref. BOE-A-2015-1949](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1949).
+
+> Téngase en cuenta la disposición transitoria única del citado Real Decreto, en cuanto al plazo de adecuación de los sistemas de información a las Normas Técnicas de Interoperabilidad.
+
+> Se añade por el art. único.2 del Real Decreto 686/2005, de 10 de junio. [Ref. BOE-A-2005-10816](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10816)
+
+##### Artículo 13 ter. Formalización del resultado de la función interventora en soporte papel.
+
+Cuando la propuesta y el acto o resolución objeto de fiscalización o intervención previa se formalicen en documento en soporte papel con firma manuscrita, el resultado de la fiscalización o intervención previa se formalizará igualmente en dicho soporte. En estos casos, la puesta a disposición de la Intervención de los documentos electrónicos que formen parte del expediente se realizará exclusivamente a través de la aplicación informática prevista en el apartado 2.b) del artículo anterior.
+
+> Se añade por el art. único.3 del Real Decreto 686/2005, de 10 de junio. [Ref. BOE-A-2005-10816](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10816)
+
+##### Artículo 14. Fiscalización de conformidad.
+
+La Intervención hará constar su conformidad mediante una diligencia firmada sin necesidad de motivarla cuando de la verificación de los extremos a los que se extienda la función interventora y del resultado de las validaciones efectuadas por la aplicación informática, en los términos que se determinen mediante resolución de la Intervención General de la Administración del Estado, el expediente objeto de fiscalización o intervención se ajuste a la legalidad.
+
+> Se modifica por el art. único.4 del Real Decreto 686/2005, de 10 de junio. [Ref. BOE-A-2005-10816](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10816)
+
+##### Artículo 15. Reparos.
+
+1\. Si la Intervención se manifestase en desacuerdo con el fondo o con la forma de los actos, documentos o expedientes examinados, deberá formular sus reparos por escrito.
+
+Dichos reparos deberán ser motivados con razonamientos fundados en las normas en las que se apoye el criterio sustentado y deberán comprender todas las objeciones observadas en el expediente.
+
+2\. El reparo suspenderá la tramitación del expediente, hasta que sea solventado, en los casos siguientes:
+
+a) Cuando se base en la insuficiencia del crédito o el propuesto no se considere adecuado.
+
+b) Cuando se aprecien graves irregularidades en la documentación justificativa de las órdenes de pago o no se acredite suficientemente el derecho de su perceptor.
+
+c) En los casos de omisión en el expediente de requisitos o trámites que, a juicio de la Intervención, sean esenciales, o cuando estime que la continuación de la gestión administrativa pudiera causar quebrantos económicos al Tesoro Público o a un tercero.
+
+d) Cuando el reparo derivare de comprobaciones materiales de obras, suministros, adquisiciones y servicios.
+
+3\. Cuando el órgano al que se dirija el reparo lo acepte, deberá subsanar las deficiencias observadas y remitir de nuevo las actuaciones a la Intervención en el plazo de quince días.
+
+Cuando el órgano al que se dirija el reparo no lo acepte, iniciará el procedimiento descrito en el artículo siguiente.
+
+4\. La Intervención podrá fiscalizar favorablemente, no obstante los defectos que observe en el expediente, siempre que los requisitos o trámites incumplidos no sean esenciales.
+
+En este supuesto la efectividad de la fiscalización favorable quedará condicionada a la subsanación de aquéllos defectos con anterioridad a la aprobación del expediente. El órgano gestor remitirá a la Intervención la documentación justificativa de haberse subsanado dichos defectos.
+
+De no solventarse por el órgano gestor los condicionamientos indicados para la continuidad del expediente se considerará formulado el correspondiente reparo.
+
+##### Artículo 16. Discrepancias.
+
+1\. Cuando el órgano gestor no acepte el reparo formulado, planteará a la Intervención discrepancia, en el plazo de quince días, de conformidad con el procedimiento previsto en este artículo. La discrepancia deberá ser necesariamente motivada con cita de los preceptos legales en los que sustente su criterio.
+
+2\. Cuando el órgano al que se dirija el reparo no lo acepte y dicho reparo haya sido formulado por una Intervención Delegada, corresponderá a la Intervención General de la Administración del Estado resolver la discrepancia en el plazo de quince días, siendo su resolución obligatoria para aquélla.
+
+3\. Cuando el órgano al que se dirige el reparo no lo acepte y dicho reparo haya sido formulado por la Intervención General de la Administración del Estado, o ésta haya confirmado el de una Intervención Delegada subsistiendo la discrepancia, corresponderá al Consejo de Ministros adoptar resolución definitiva.
+
+4\. Si el títular del Departamento acordara someter el expediente a la decisión del Consejo de Ministros, por existir discrepancia con la Intervención General de la Administración del Estado, lo comunicará, con al menos cinco días de antelación, a la reunión del Consejo en que se conozca el asunto, al Ministro de Economía y Hacienda, por conducto de la Intervención General, la cual unirá los informes relacionados con la discrepancia planteada.
+
+5\. La Secretaría del Consejo de Ministros comunicará al Departamento correspondiente y a la Intervención General de la Administración del Estado el acuerdo adoptado sobre la discrepancia.
+
+#### Sección 2.ª De la fiscalización e intervención previa de la autorización de gastos y de obligaciones del Tesoro Público
+
+##### Artículo 17. Régimen ordinario.
+
+1\. Están sometidos a fiscalización previa todos los actos de los órganos del Estado y de sus Organismos autónomos administrativos por los que se apruebe la realización de un gasto.
+
+Entre los actos sometidos a la intervención previa se consideran incluidos:
+
+a) Los actos resolutorios de recursos administrativos que tengan contenido económico.
+
+b) Los convenios que suscriba la Administración y cualesquiera otros actos de naturaleza análoga, siempre que tengan contenido económico.
+
+2\. Se entiende por aprobación de un gasto el acto por el que, de acuerdo con el procedimiento establecido, el órgano competente adopta la decisión de destinar créditos o fondos a la consecución de un fin público. Los gastos que hayan de dar lugar a un solo acto o contrato administrativo se acumularán en la aprobación sin que puedan fraccionarse en distintos expedientes.
+
+3\. En el ejercicio de la fiscalización previa se comprobará el cumplimiento de los trámites y requisitos establecidos por el ordenamiento jurídico mediante el examen de los documentos e informes que integran el expediente. Cuando el Consejo de Ministros así lo acuerde, la fiscalización previa se limitará a comprobar los extremos a que se refiere el artículo 95.3 de la Ley General Presupuestaria.
+
+##### Artículo 18. Exención de fiscalización previa.
+
+No estarán sometidos a fiscalización previa las subvenciones nominativas, los gastos de material no inventariable, suministros menores y los de carácter periódico y demás de tracto sucesivo, una vez intervenido el gasto correspondiente al período inicial del acto o contrato del que deriven o sus modificaciones, así como otros gastos menores de 500.000 pesetas que, de acuerdo con la normativa vigente, se hagan efectivos a través del sistema de anticipos de caja fija.
+
+##### Artículo 19. Régimen especial de fiscalización limitada previa.
+
+1\. Cuando el Consejo de Ministros haya hecho uso de la facultad atribuida por el artículo 95.3 de la Ley General Presupuestaria, la fiscalización e intervención previa se limitará a comprobar los extremos siguientes:
+
+a) La existencia de crédito presupuestario y que el propuesto es el adecuado a la naturaleza del gasto u obligación que se proponga contraer.
+
+En los casos en los que se trate de contraer compromisos de gastos de carácter plurianual se comprobará, además, si se cumple lo preceptuado en el artículo 61 de la Ley General Presupuestaria.
+
+Se entenderá que el crédito es adecuado cuando financie obligaciones a contraer o nacidas y no prescritas a cargo del Tesoro Público cumpliendo los requisitos de los artículos 59 y 63 de la Ley General Presupuestaria.
+
+b) Que las obligaciones o gastos se generan por órgano competente.
+
+La propuesta de aprobación o liquidación del gasto sometida a fiscalización o intervención previa deberá dirigirse al órgano competente para aprobarla, indicando la norma o el acto que atribuya la competencia, en los casos en que ésta no se tenga atribuida como propia.
+
+En todo caso se comprobará la competencia del órgano de contratación o concedente de la subvención, cuando dicho órgano no tenga atribuida la facultad para la aprobación de los gastos de que se trate.
+
+c) Aquellos otros extremos que, por su trascendencia en el proceso de gestión, determine el Consejo de Ministros a propuesta del Ministro de Economía y Hacienda, previo informe de la Intervención General de la Administración del Estado.
+
+2\. No obstante, será aplicable el régimen general de fiscalización e intervención previa respecto de las obligaciones y gastos de cuantía indeterminada y aquellos otros que deban ser aprobados por el Consejo de Ministros.
+
+##### Artículo 20. Reparos y observaciones complementarias en la fiscalización limitada previa.
+
+1\. Si no se cumpliesen los requisitos exigidos en el artículo 19 del presente Real Decreto, la Intervención procederá a formular reparo en la forma y con los efectos previstos en la sección 1.ª del presente capítulo.
+
+2\. La Intervención podrá formular las observaciones complementarias que considere convenientes, sin que las mismas tengan, en ningún caso, efectos suspensivos en la tramitación de los expedientes. Respecto a estas observaciones no procederá el planteamiento de discrepancia.
+
+##### Artículo 21. Control posterior.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.b) de la Ley 47/2003, de 26 de noviembre. [Ref. BOE-A-2003-21614](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-21614)
+
+#### Sección 3.ª De la fiscalización previa de las órdenes de pago a justificar y anticipos de caja fija
+
+##### Artículo 22. Fiscalización previa de las órdenes de pago a justificar.
+
+La fiscalización previa de las órdenes de pago a justificar por las que se ponen fondos a disposición de los órganos pagadores del Estado y sus organismos autónomos se verificará mediante la comprobación de los siguientes requisitos:
+
+a) Que las propuestas de pago a justificar se basan en orden o resolución de autoridad competente para autorizar los gastos a que se refieran.
+
+b) Que existe crédito y el propuesto es el adecuado.
+
+c) Que se adaptan a las normas dictadas por los Ministros y los Presidentes o Directores de los Organismos autónomos regulando la expedición de órdenes de pago a justificar con cargo a sus respectivos presupuestos de gastos.
+
+d) Que el órgano pagador, a cuyo favor se libren las órdenes de pago, ha justificado dentro del plazo correspondiente la inversión de los fondos percibidos con anterioridad.
+
+##### Artículo 23. Fiscalización previa de las órdenes de pago de anticipos de caja fija.
+
+1\. La fiscalización previa de las órdenes de pago para la constitución o modificación de los anticipos de caja fija se verificará mediante la comprobación de los siguientes requisitos:
+
+a) La existencia de acuerdo del Ministro o Presidente o Director del Organismo autónomo sobre la distribución por cajas pagadoras del gasto máximo asignado,
+
+b) Que la propuesta de pago se basa en resolución de autoridad competente.
+
+2\. En la fiscalización previa de las reposiciones de fondos por anticipos de caja fija la Intervención comprobará:
+
+a) Que el importe total de las cuentas justificativas coincide con el de los documentos contables de ejecución del presupuesto de gastos.
+
+b) Que las propuestas de pagos se basan en resolución de autoridad competente.
+
+c) Que existe crédito y el propuesto es adecuado.
+
+##### Artículo 24. Especialidades en cuanto al régimen de los reparos.
+
+El incumplimiento de los requisitos exigidos en los artículos anteriores de la presente sección motivará la formulación de reparo por la Intervención, en las condiciones y con los efectos previstos en la sección 1.ª del presente capítulo.
+
+No procederá el reparo por la falta de justificación de libramientos anteriores cuando, para evitar daños en el funcionamiento de los servicios, el Ministro o Presidente o Director del Organismo autónomo autorice la expedición de una orden de pago específica.
+
+##### Artículo 25. Intervención de las cuentas justificativas de los pagos a justificar y anticipos de caja fija.
+
+En la intervención de las cuentas justificativas de los pagos a justificar y de los anticipos de caja fija, se procederá de la siguiente manera:
+
+a) Se comprobará que corresponden a gastos concretos y determinados en cuya ejecución se haya seguido el procedimiento aplicable en cada caso, que son adecuados al fin para el que se entregaron los fondos, que se acredita la realización efectiva y conforme de los gastos o servicios, y que el pago se ha realizado a acreedor determinado por el importe debido.
+
+b) La verificación de los extremos indicados en el párrafo anterior se realizará examinando las cuentas y los documentos que justifiquen cada partida, pudiendo utilizar procedimientos de muestreo.
+
+c) Los resultados de la verificación se reflejarán en informe en el que el Interventor manifestará su conformidad con la cuenta o los defectos observados en la misma. La opinión favorable o desfavorable contenida en el informe se hará constar en la cuenta examinada, sin que tenga este informe efectos suspensivos respecto de la aprobación de la cuenta.
+
+d) El órgano gestor aprobará, en su caso, las cuentas, remitiéndose posteriormente al Tribunal de Cuentas.
+
+#### Sección 4.ª De la intervención de la liquidación del gasto y de la inversión
+
+##### Artículo 26. Intervención de la liquidación del gasto.
+
+1\. Las liquidaciones de gastos o reconocimiento de obligaciones a cargo del Tesoro Público están sometidos a intervención previa, ya tengan su origen en la Ley o en negocios jurídicos válidamente celebrados.
+
+2\. La Intervención conocerá el expediente con carácter previo al acuerdo de liquidación del gasto o reconocimiento de la obligación.
+
+En este momento deberá quedar documentalmente acreditado que se cumplen todos los requisitos necesarios para el reconocimiento de la obligación a cargo del Tesoro Público, entre los que se encontrará, en su caso, el resultado favorable de la comprobación material de la inversión.
+
+##### Artículo 27. Contenido de las comprobaciones.
+
+Sin perjuicio de lo establecido en el artículo 19 de esta norma, al efectuar la intervención previa de la liquidación del gasto o reconocimiento de obligaciones se deberá comprobar:
+
+a) Que las obligaciones responden a gastos aprobados y, en su caso, fiscalizados favorablemente, salvo que la aprobación del gasto y el reconocimiento de la obligación deban realizarse simultáneamente.
+
+b) Que los documentos justificativos de la obligación se ajustan a las disposiciones legales y reglamentarias que resulten de aplicación. En todo caso, en la documentación deberá constar:
+
+1.º Identificación del acreedor.
+
+2.º Importe exacto de la obligación.
+
+3.º Las prestaciones, servicios u otras causas de las que derive la obligación del pago.
+
+c) Que se ha comprobado materialmente, cuando proceda, la efectiva y conforme realización de la obra, servicio, suministro o gasto, y que ha sido intervenida, en su caso, dicha comprobación.
+
+##### Artículo 28. Comprobación material de la inversión.
+
+1\. La intervención de la comprobación material de la inversión es la facultad de la Intervención de verificar materialmente, antes del reconocimiento de la obligación, la efectiva realización de las obras, servicios y adquisiciones financiadas con fondos públicos y su adecuación al contenido del correspondiente contrato o encargo.
+
+2\. La intervención de la comprobación material se realizará por el representante designado por el Interventor General de la Administración del Estado.
+
+La designación por el Interventor General de los funcionarios encargados de intervenir en la comprobación de las prestaciones o servicios podrá hacerse tanto particularmente para una inversión determinada, como con carácter general y permanente para todas aquellas que afecten a un Ministerio, centro directivo, organismo o provincia en que se realice la función, o para la comprobación de un tipo o clase de inversión.
+
+3\. La designación de representante de la Intervención General de la Administración del Estado se efectuará entre funcionarios de la Intervención, asesorados, cuando sea necesaria la posesión de conocimientos técnicos para realizar la comprobación material, por funcionarios de los cuerpos del Estado de la especialidad a que corresponda la prestación o servicio.
+
+La designación del asesor se efectuará por el Interventor General de la Administración del Estado entre funcionarios que no hayan intervenido en el proyecto, dirección, adjudicación, celebración o ejecución del gasto correspondiente y, siempre que sea posible, dependientes de distinto Ministerio, centro directivo u organismo, de aquél al que la comprobación se refiera o, al menos, de centro directivo u organismos que no haya intervenido en su gestión, realización o dirección.
+
+En este sentido, la Intervención General solicitará de los distintos Ministerios, a través de la correspondiente Subsecretaría, la designación de uno o varios delegados a los que se dirigirán las solicitudes de nombramiento de los funcionarios adscritos a los citados Ministerios, centros u organismos y que pertenezcan a los cuerpos del estado de las especialidades que se consideren necesarias en función del tipo de comprobaciones materiales a realizar y para cada una de las provincias en las que se disponga de personal asesor de las distintas especialidades.
+
+Las solicitudes a los distintos delegados se realizarán teniendo en cuenta la naturaleza de la inversión, el lugar de la comprobación material y la representatividad de los medios de cada Ministerio en la especialidad y provincia requerida respecto del conjunto de la Administración.
+
+La realización de la labor de asesoramiento en la intervención de la comprobación de la inversión por los funcionarios a que se refiere este apartado se considerará parte integrante de las funciones del puesto de trabajo en el que estén destinados, debiendo colaborar los superiores jerárquicos de los mismos en la adecuada prestación de este servicio.
+
+4\. Los órganos gestores deberán solicitar de la Intervención General, la designación de representante, para su asistencia potestativa a la comprobación material de la inversión, cuando el importe de ésta sea igual o superior a 50.000 euros, con exclusión del Impuesto sobre el Valor Añadido o impuesto equivalente, con una antelación de treinta días hábiles a la fecha prevista para la terminación de la prestación objeto del contrato o encargo, entendiéndose por tal la fecha de entrega o realización total de la inversión. Si la solicitud se refiere a recepciones que deban efectuarse fuera de España, el plazo será de cuarenta y cinco días hábiles.
+
+Cuando de conformidad con los documentos que rijan la ejecución de la inversión, se prevea la existencia de entregas parciales, los plazos anteriores se contarán tomando como referencia la fecha de recepción prevista para la primera entrega o prestación a ejecutarse. En este supuesto, se tramitará una única solicitud comprensiva del importe total de inversión, esto es, el que derive de la totalidad de las entregas parciales previstas.
+
+La solicitud de representante deberá ajustarse al procedimiento y modelo normalizado aprobado a tales efectos por Resolución del Interventor General de la Administración del Estado, debiendo ir acompañada de la documentación que se establezca en la misma.
+
+Efectuada en su caso la designación de representante de la Intervención, los órganos gestores deberán remitir al mismo la documentación necesaria para la comprobación material de la inversión con antelación suficiente para su adecuado estudio.
+
+5\. La intervención de la comprobación material de la inversión se realizará, en todo caso, concurriendo el representante de la Intervención General y, en su caso, el asesor designado, al acto de comprobación de la inversión de que se trate.
+
+El asesor designado deberá verificar que los aspectos técnicos de la inversión se ajustan a las prescripciones del contrato o encargo, criterio en el que se basará la opinión del representante de la Intervención sobre dichos aspectos.
+
+6\. Cuando se aprecien circunstancias que lo aconsejen, el Interventor General podrá acordar la realización de comprobaciones materiales de la inversión durante la ejecución de la prestación o servicio a solicitud del Interventor Delegado a quien corresponda su fiscalización o intervención.
+
+7\. El resultado de la comprobación material de la inversión se reflejará en acta que será suscrita por todos los que concurran al acto de comprobación de la inversión, en la que se hará constar, en su caso, las deficiencias apreciadas, las medidas a adoptar para subsanarlas y los hechos y circunstancias relevantes del acto de comprobación. En dicha acta o en informe ampliatorio podrán los concurrentes, de forma individual o colectiva, expresar las opiniones que estimen pertinentes.
+
+El representante de la Intervención remitirá un ejemplar del acta y, en su caso, de los informes ampliatorios a la Intervención General por el procedimiento que ésta determine.
+
+8\. En los casos en que la intervención de la comprobación material de la inversión no sea preceptiva, o no se acuerde por el Interventor General en uso de las facultades que al mismo se le reconocen, la comprobación de la inversión se justificará con el acta de conformidad firmada por quienes participaron en la misma o con una certificación expedida por el Jefe del centro directivo, dependencia u organismo a que corresponda recibir o aceptar la prestación o servicio, en la que se expresará, con el detalle necesario, la circunstancia de haberse ejecutado la prestación o servicio con arreglo a las condiciones generales y particulares que hubieran sido previamente establecidas.
+
+9\. La omisión de la intervención de la comprobación material de la inversión cuando esta intervención hubiera sido acordada por el Interventor General, impedirá que pueda reconocerse la obligación, tramitarse el pago o intervenir favorablemente las actuaciones hasta que se subsane dicha omisión en los términos previstos por el artículo 156 de la Ley General Presupuestaria.
+
+El mismo efecto se producirá en los supuestos en que, resultando preceptivo, el órgano gestor no hubiera realizado la solicitud de designación de representante de la Intervención para su asistencia al acto de comprobación material de la inversión.
+
+10\. En desarrollo de lo dispuesto en este artículo, el Interventor General de la Administración del Estado podrá dictar las resoluciones, circulares e instrucciones que estime oportunas.
+
+> Se modifica por el art. único.4 del Real Decreto 109/2015, de 20 de febrero. [Ref. BOE-A-2015-1949](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1949).
+
+> Se modifica el apartado 4 por la disposición final 6 del Real Decreto 817/2009, de 8 de mayo. [Ref. BOE-A-2009-8053](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8053)
+
+#### Sección 5.ª De la intervención formal y material del pago
+
+##### Artículo 29. De la intervención formal del pago, objeto y contenido.
+
+Están sometidos a intervención formal de la ordenación del pago los actos por los que se ordenan pagos con cargo al Tesoro Público. Dicha intervención tendrá por objeto verificar que las órdenes de pago se dictan por órgano competente, se ajustan al acto de reconocimiento de la obligación y se acomodan al plan de disposición de fondos del Tesoro Público.
+
+El ajuste de la orden de pago al acto de reconocimiento de la obligación se verificará mediante el examen de los documentos originales o de la certificación de dicho acto y de su intervención suscrita por los mismos órganos que realizaron dichas actuaciones.
+
+En el caso de que las órdenes de pago se expidan basándose en las propuestas recibidas por medios informáticos se entenderá que se produce tal ajuste cuando se libren de acuerdo con el procedimiento legalmente establecido en desarrollo del artículo 78.2 del texto refundido de la Ley General Presupuestaria.
+
+En los supuestos de existencia de retenciones judiciales o de compensaciones de deudas del acreedor, las correspondientes minoraciones en el pago se acreditarán mediante los acuerdos que las dispongan. La intervención formal de la ordenación del pago alcanzará a estos acuerdos de minoración.
+
+##### Artículo 30. Conformidad y reparo.
+
+Si la Intervención considerase que las órdenes de pago cumplen los requisitos señalados en el artículo anterior, hará constar su conformidad mediante diligencia firmada en el documento en que la orden se contiene o en documento resumen de cargo a las cajas pagadoras.
+
+Cuando no se cumplan dichos requisitos, la Intervención formulará el correspondiente reparo, motivado y por escrito, el cual suspenderá, hasta que sea solventado, la tramitación de la orden de pago.
+
+##### Artículo 31. De la intervención material del pago, objeto y contenido.
+
+1\. Está sometida a intervención material del pago la ejecución de las órdenes de pago, que tengan por objeto:
+
+a) Cumplir, directamente, las obligaciones del Tesoro Público.
+
+b) Situar fondos a disposición de cajeros y agentes facultados legalmente para realizar pagos a los acreedores.
+
+c) Instrumentar el movimiento de fondos y valores entre las cuentas del Tesoro.
+
+Dicha intervención verificará la identidad del perceptor y la cuantía del pago.
+
+2\. Cuando la Intervención encuentre conforme la actuación firmará los documentos que autoricen la salida de los fondos y valores. Si no la encuentra conforme en cuanto a la identidad del perceptor o la cuantía del pago formulará reparo motivado y por escrito.
+
+3\. Cuando el pago material se instrumente mediante órdenes de transferencia al Banco de España o entidades de crédito, generadas por medios y procedimientos informáticos, el sistema de información a través del que se obtengan las citadas órdenes y los procedimientos de remisión electrónica, deberán garantizar en todo caso el ejercicio de las funciones de intervención previa en los términos previstos en la Ley General Presupuestaria y en su desarrollo reglamentario. Cuando las órdenes de transferencia estén formalizadas en documento electrónico, la intervención previa podrá formalizarse en el mismo documento electrónico que contenga las órdenes de transferencias mediante la correspondiente firma electrónica que se realizará por el Interventor competente a través del portafirmas corporativo de la Intervención General.
+
+No obstante lo dispuesto en el párrafo anterior, cuando el sistema de información a través del que se obtenga esta relación no sea de la propia Intervención General será objeto de auditorías de seguridad a los efectos del ejercicio de la citada función interventora, con carácter previo a su utilización y posteriormente, en los términos y en la forma que establezca la Intervención General. Cuando del resultado de la auditoría de seguridad se deduzcan irregularidades, el Interventor General concederá un plazo para su adaptación que, en el caso de no ser atendido, suspenderá la utilización de la aplicación a los efectos de la generación de las correspondientes órdenes de transferencias sujetas al ejercicio de la función interventora. No obstante, el Interventor General, a la vista de la naturaleza del defecto y de las circunstancias concurrentes, podrá acordar la suspensión inmediata de la utilización de la aplicación a los efectos señalados. Todo ello, sin perjuicio de las actuaciones de revisión de los sistemas informáticos de gestión económico-financiera a desarrollar en el ámbito del control financiero permanente y la auditoría pública.
+
+Lo anterior se entenderá sin perjuicio de los procedimientos de remisión electrónica de las transferencias que puedan establecer el Banco de España o las entidades de crédito.
+
+> Se añade el apartado 3 por el art. único.5 del Real Decreto 109/2015, de 20 de febrero. [Ref. BOE-A-2015-1949](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1949).
+
+#### Sección 6.ª De la omisión de intervención
+
+##### Artículo 32. De la omisión de intervención.
+
+1\. En los supuestos en los que, con arreglo a lo dispuesto en este Reglamento, la función interventora fuera preceptiva y se hubiese omitido, no se podrá reconocer la obligación, ni tramitar el pago, ni intervenir favorablemente estas actuaciones hasta que se conozca y resuelva dicha omisión en los términos previstos en el presente artículo.
+
+2\. Si el Interventor general de la Administración del Estado o los interventores delegados al conocer de un expediente observaran alguna de las omisiones indicadas en el número anterior, lo manifestarán a la autoridad que hubiera iniciado aquél y emitirán al mismo tiempo su opinión respecto de la propuesta, a fin de que, uniendo este informe a las actuaciones, pueda el titular del departamento ministerial de que aquélla proceda someter lo actuado a la decisión del Consejo de Ministros para que adopte la resolución a que hubiere lugar.
+
+Este informe, que no tendrá naturaleza de fiscalización, pondrá de manifiesto, como mínimo, los siguientes extremos:
+
+a) Las infracciones del ordenamiento jurídico que, a juicio del interventor, se hayan producido en el momento en que se adoptó el acto sin fiscalización o intervención previa.
+
+b) Las prestaciones que se hayan realizado como consecuencia de dicho acto.
+
+c) La posibilidad y conveniencia de revisión de los actos dictados con infracción del ordenamiento.
+
+Los interventores delegados darán cuenta de su informe a la Intervención General de la Administración del Estado en el momento de su emisión.
+
+3\. Si el titular del departamento acordara someter el expediente a la decisión del Consejo de Ministros, lo comunicará al Ministro de Economía y Hacienda, por conducto de la Intervención General de la Administración del Estado, con cinco días de antelación a la reunión del Consejo en que se conozca del asunto.
+
+Al expediente se unirá una memoria que incluya una explicación de la omisión de la preceptiva fiscalización o intervención previa y, en su caso, las observaciones que estime convenientes respecto del informe de la Intervención.
+
+## TITULO III — Del control financiero
+
+### CAPITULO I — Disposiciones generales
+
+##### Artículo 33. Ambito de aplicación.
+
+El control financiero se ejercerá respecto de los sujetos siguientes:
+
+a) Los servicios, Organismos autónomos, sociedades y demás entes públicos estatales, cualesquiera que sean su denominación y forma jurídica.
+
+b) Las sociedades mercantiles, empresas, entidades y particulares por razón de las subvenciones, créditos, avales y demás ayudas del Estado o de sus organismos autónomos, o de otro modo concedidas con cargo a los Presupuestos Generales del Estado o a fondos de las Comunidades Europeas, así como las entidades colaboradoras que participen en el procedimiento para su concesión y gestión.
+
+##### Artículo 34. Objetivo y competencias.
+
+1\. El control financiero al que se refieren los artícu los 17 y 18 del texto refundido de la Ley General Presupuestaria, aprobado por Real Decreto legislativo 1091/1988, de 23 de septiembre, tiene por objeto verificar que la gestión económico-financiera del sector público estatal se adecua a los principios de legalidad, economía, eficiencia y eficacia.
+
+2\. El control financiero, que será ejercido con plena autonomía e independencia respecto de las autoridades y entidades cuya gestión se controle, se realizará por la Intervención General de la Administración del Estado a través de sus Subdirecciones Generales, Intervenciones Delegadas y los funcionarios que aquélla designe, de conformidad con lo previsto en el texto refundido de la Ley General Presupuestaria, en el presente Real Decreto y demás disposiciones reglamentarias.
+
+3\. El control financiero tiene como finalidad promover la mejora de las técnicas y procedimientos de gestión económico-financiera, a través de las propuestas que se deduzcan de los resultados del mismo. De los informes de control se podrá extraer información que permita una mejor aplicación de los principios de eficiencia y economía en la programación y ejecución del gasto público.
+
+> Se deroga el párrafo segundo del apartado 1 por la disposición derogatoria única.2.d) de la Ley 38/2003, de 17 de noviembre. [Ref. BOE-A-2003-20977](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20977)
+
+##### Artículo 35. Formas de ejercicio.
+
+1\. El control financiero se ejercerá mediante auditorías u otras técnicas de control, de conformidad con lo establecido en el presente Real Decreto y en las normas de auditoría e Instrucciones que dicte la Intervención General de la Administración del Estado.
+
+2\. Las auditorías consistirán en la comprobación de la actividad económico-financiera de los entes o programas presupuestarios objeto de control, realizada de forma sistemática y mediante la aplicación de procedimientos de análisis de las operaciones o actuaciones singulares seleccionados al efecto.
+
+Dichas comprobaciones, de acuerdo con los objetivos que en cada caso se persigan, podrán utilizar, para el análisis de la actividad económico-financiera, alguno de los siguientes modelos de auditoría: financiera, de cumplimiento, operativa, de programas presupuestarios y planes de actuación y de sistemas y procedimientos de gestión financiera.
+
+3\. Con independencia de lo dispuesto en el número anterior, el control financiero podrá consistir en:
+
+a) El examen de registros contables, cuentas o estados financieros, mediante la aplicación de concretos procedimientos de análisis.
+
+b) El examen de operaciones individualizadas y concretas.
+
+c) La comprobación de aspectos parciales y concretos de una serie de actos efectuados por el ente controlado.
+
+d) La comprobación material de inversiones y otros activos.
+
+e) Las actuaciones concretas de control que deban realizarse conforme con lo que en cada caso establezca la normativa vigente.
+
+f) Otras comprobaciones decididas por la Intervención General de la Administración del Estado en atención a las características especiales de las actividades realizadas por los entes sometidos a control.
+
+g) La revisión de los sistemas informáticos de gestión económico-financiera, que abarcará el examen de las funciones y operaciones efectuadas en éstos, con el objeto de verificar que la información responde a los principios de fiabilidad, integridad, precisión y disponibilidad.
+
+4\. Las normas de auditoría e instrucciones dictadas por la Intervención General de la Administración del Estado serán de aplicación a todas las auditorías que se realicen en el ámbito del sector público estatal por los órganos funcionalmente dependientes de dicho centro directivo y los auditores de cuentas o sociedades de auditoría de cuentas contratados al efecto.
+
+> Se añade la letra g) al apartado 3 y el apartado 4 por el art. 1 y 2 del Real Decreto 339/1998, de 6 de marzo. [Ref. BOE-A-1998-6181](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-6181)
+
+### CAPITULO II — De los informes de control financiero
+
+##### Artículo 36. Informes de control financiero provisionales y definitivos.
+
+1\. El órgano que haya desarrollado el control deberá emitir informe escrito comprensivo de los hechos puestos de manifiesto y de las conclusiones y recomendaciones que se deduzcan del mismo.
+
+2\. Dicho informe tendrá carácter provisional y se remitirá por el órgano que haya efectuado el control al gestor directo de la actividad controlada para que, en el plazo máximo de quince días desde la recepción del informe, formule las alegaciones que estime oportunas. En el caso de existir deficiencias admitidas por el órgano gestor, éste indicará las medidas necesarias y el calendario previsto para solucionarlas.
+
+3\. Se entenderá como gestor directo al titular del servicio, órgano o ente controlado.
+
+4\. Con base en el informe provisional y en las alegaciones recibidas, el órgano de control emitirá el informe definitivo. Si no se hubieran recibido alegaciones en el plazo señalado para ello el informe provisional se elevará a definitivo.
+
+5\. El informe definitivo incluirá las alegaciones del gestor y, en su caso, las observaciones del órgano de control sobre dichas alegaciones.
+
+> Se deroga el apartado 6 por la disposición derogatoria única.2.d) de la Ley 38/2003, de 17 de noviembre. [Ref. BOE-A-2003-20977](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20977)
+
+##### Artículo 37. Destinatarios de los informes definitivos.
+
+1\. Los informes definitivos de control financiero serán remitidos por la Intervención General de la Administración del Estado, por sí o por medio de sus delegados, a los siguientes destinatarios:
+
+a) Al gestor directo de la actividad controlada.
+
+b) **(Derogada)**
+
+c) Cuando el control se haya realizado a solicitud o mandato de otro Estado miembro de la Unión Europea o de la propia Comisión Europea, de acuerdo con la normativa aplicable se remitirán, además, a dicha Institución.
+
+d) Cuando el ente o entes destinatarios de los informes estén incluidos en la órbita de dirección, coordinación o competencias de un determinado Departamento ministerial, servicio, organismo o ente público, los informes definitivos se remitirán, además, al titular de dicho departamento, servicio, organismo o ente, en la forma que para cada caso determine la Intervención General de la Administración del Estado.
+
+e) En todo caso, se remitirán por la Intervención General de la Administración del Estado al Secretario de Estado de Presupuestos y Gastos. El Interventor general de la Administración del Estado remitirá al Ministro de Economía y Hacienda los informes que estime necesarios por la naturaleza del trabajo efectuado o de sus conclusiones.
+
+2\. En el caso de que el control se haya realizado por interventores delegados, la Intervención General de la Administración del Estado determinará los informes que aquellos han de enviarle.
+
+> Se deroga la letra b) del apartado 1 por la disposición derogatoria única.2.d) de la Ley 38/2003, de 17 de noviembre. [Ref. BOE-A-2003-20977](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20977)
+
+> Se modifica la letra e) del apartado 1 por el art. 3 del Real Decreto 339/1998, de 6 de marzo. [Ref. BOE-A-1998-6181](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-6181)
+
+##### Artículo 38. Informes de actuación.
+
+1\. La Intervención General de la Administración del Estado emitirá informe de actuación en relación con los aspectos relevantes deducidos del control dirigida al títular del Departamento del que dependa o esté adscrito el órgano o entidad controlada en los siguientes casos:
+
+a) Cuando se hayan apreciado deficiencias y los titulares de la gestión controlada no hayan realizado alegaciones o, presentadas éstas, no indiquen las medidas necesarias y el calendario previsto para su solución.
+
+b) Cuando manifiesten discrepancias con las conclusiones y recomendaciones y no sean aceptadas por el órgano de control.
+
+c) Cuando habiendo manifestado su conformidad, no adopten las medidas para solucionar las deficiencias puestas de manifiesto.
+
+2\. El titular del Departamento, una vez recibido dicho informe, manifestará al Ministro de Economía y Hacienda su conformidad o disconformidad con el contenido del mismo en el plazo máximo de dos meses.
+
+3\. En caso de disconformidad, el Ministro de Economía y Hacienda, previo informe de la Intervención General de la Administración del Estado, en el plazo máximo de dos meses, someterá las actuaciones, en su caso, a la consideración del Consejo de Ministros.
+
+> Se modifica la letra a) del apartado 1 y se suprime el apartado 4 por el art. 4 del Real Decreto 339/1998, de 6 de marzo. [Ref. BOE-A-1998-6181](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-6181)
+
+##### Artículo 38 bis. Medidas de corrección de anomalías detectadas en el control financiero. Reintegros.
+
+1\. Los órganos gestores deberán comunicar al órgano que haya desarrollado el control a los efectos de lo dispuesto en el apartado 2 del artícu lo 36 las medidas que se vayan adoptando para solucionar las deficiencias puestas de manifiesto y, en su caso, el grado de cumplimiento de los plazos establecidos en sus alegaciones. En el caso de que dichas medidas no sean adoptadas o no se cumplan los plazos establecidos, el órgano de control lo pondrá en conocimiento de la Intervención General de la Administración del Estado a los efectos de la elaboración del informe de actuaciones a que se refiere el artículo 38 de este Real Decreto.
+
+2\. En el caso de que en los informes de control financiero se indiquen actuaciones de los órganos gestores que, de acuerdo con la normativa vigente, deban ser realizadas de forma inexcusable e inmediata, para reparar o evitar perjuicios para la Hacienda pública o de los entes controlados, dichos órganos deberán comunicar en el plazo máximo de un mes al órgano que haya desarrollado el control las medidas que hayan adoptado al respecto, señalando, en su caso, las discrepancias que puedan surgir con relación al contenido del correspondiente informe. Si el órgano que ha practicado el control manifestara su disconformidad con las actuaciones realizadas por el órgano gestor, lo pondrá en conocimiento de la Intervención General de la Administración del Estado a los efectos de la posible elaboración del informe de actuación de acuerdo con lo dispuesto en el artículo 38 de este Real Decreto.
+
+3\. **(Derogado)**
+
+4\. Lo dispuesto en este artículo se aplicará sin perjuicio de las competencias que corresponden a la Subsecretaría de Economía y Hacienda y a la Inspección General del Departamento en materia de expedientes administrativos de responsabilidad contable, de acuerdo con lo dispuesto en el Real Decreto 700/1988, de 1 de julio, sobre expedientes administrativos de responsabilidad contable derivados de las infracciones previstas en el Título VII de la Ley General Presupuestaria.
+
+> Se deroga el apartado 3 por la disposición derogatoria única.2.d) de la Ley 38/2003, de 17 de noviembre. [Ref. BOE-A-2003-20977](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20977)
+
+> Se añade por el art. 5 del Real Decreto 339/1998, de 6 de marzo. [Ref. BOE-A-1998-6181](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-6181)
+
+##### Artículo 39. Informes al Consejo de Ministros.
+
+1\. La Intervención General de la Administración del Estado elevará al Consejo de Ministros, a través del Ministro de Economía y Hacienda, un informe trimestral de los resultados más relevantes que se hayan puesto de manifiesto en las actuaciones de control financiero.
+
+2\. El Ministro de Economía y Hacienda someterá al Consejo de Ministros el informe que anualmente elaborará la Intervención General de la Administración del Estado, comprensivo de los resultados más significativos de las actuaciones de control financiero realizadas durante el ejercicio.
+
+3\. Con independencia de lo dispuesto en el artículo 38 y en los apartados anteriores, cuando por su especial trascendencia la Intervención General de la Administración del Estado lo considere oportuno elevará las actuaciones, a través del Secretario de Estado de Presupuestos y Gastos, al Ministro de Economía y Hacienda, para que, en su caso, las someta a consideración del Consejo de Ministros. Tales actuaciones irán acompañadas de un sucinto informe donde se expongan de forma motivada los aspectos específicos de mayor relevancia que recomienden este procedimiento.
+
+> Se modifica por el art. 6.1 del Real Decreto 339/1998, de 6 de marzo. [Ref. BOE-A-1998-6181](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-6181)
+
+### CAPITULO III — Del control financiero del sector público estatal
+
+##### Artículo 40. Del control financiero de la Administración General del Estado y sus Organismos autónomos administrativos.
+
+1\. El control financiero se ejercerá sobre los órganos de la Administración General del Estado y sus Organismos autónomos administrativos de acuerdo con lo dispuesto en los capítulos I y II de este Título.
+
+2\. El control financiero se podrá ejercer de forma permanente en los términos y con el alcance que determine la Intervención General de la Administración del Estado.
+
+##### Artículo 41. Del control financiero en los Organismos autónomos comerciales, industriales, financieros o análogos.
+
+Los Organismos autónomos del Estado, con actividades industriales, comerciales, financieras o análogas, estarán sometidos a control financiero de carácter permanente, en sustitución de la función interventora. Dicho control se ejercerá respecto de la totalidad de las operaciones realizadas por los citados organismos.
+
+##### Artículo 42. Del control financiero de las sociedades estatales y entes públicos.
+
+1\. El control financiero se ejercera sobre las sociedades estatales de acuerdo con los dispuesto en este Título.
+
+2\. El Consejo de Ministros, a propuesta del Ministro de Economía y Hacienda y a iniciativa de la Intervención General de la Administración del Estado, podrá determinar aquellas entidades y entes a que se refieren los artículos 6.1 b) y 6.5 del texto refundido de la Ley General Presupuestaria en las que el control financiero se ejercerá de forma permanente, sin perjuicio de lo establecido en sus normativas específicas.
+
+### CAPITULO IV — Del control financiero de las subvenciones y ayudas públicas
+
+##### Artículo 43. Delimitación y facultad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2.d) de la Ley 38/2003, de 17 de noviembre. [Ref. BOE-A-2003-20977](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20977)
+
+##### Artículo 44. Cogestión.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2.d) de la Ley 38/2003, de 17 de noviembre. [Ref. BOE-A-2003-20977](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20977)
+
+##### Artículo 45. Cofinanciación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2.d) de la Ley 38/2003, de 17 de noviembre. [Ref. BOE-A-2003-20977](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20977)
+
+##### Artículo 46. Control de subvenciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2.c) del Real Decreto 887/2006, de 21 de julio. [Ref. BOE-A-2006-13371](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-13371)
+
+> Se añade por el art. 7 del Real Decreto 339/1998, de 6 de marzo. [Ref. BOE-A-1998-6181](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-6181)
+
+##### Disposición adicional primera. Potestad de acceso a documentación.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.1.b) de la Ley 47/2003, de 26 de noviembre. [Ref. BOE-A-2003-21614](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-21614)
+
+##### Disposición adicional segunda. Verificación de subvenciones.
+
+La verificación de la aplicación o empleo de las subvenciones, tanto corrientes, como de capital, se ejercerá en el ámbito de competencias de la Intervención General de la Administración del Estado mediante el ejercicio del control financiero.
+
+##### Disposición adicional tercera. Intervención General de la Seguridad Social.
+
+El ejercicio de la función interventora y del control financiero por la Intervención General de la Seguridad Social en las entidades gestoras y servicios comunes y sobre las entidades colaboradoras de la Seguridad Social se regulará por su normativa específica, sin perjuicio de la aplicación con carácter supletorio de este Reglamento.
+
+##### Disposición adicional cuarta. Auditoría de cuentas anuales de los organismos públicos.
+
+La Intervención General de la Administración del Estado realizará anualmente una auditoría financiera de todos los organismos y entes públicos no sometidos a la Ley de Auditoría de Cuentas. Los informes de tales auditorías se deberán acompañar a las cuentas, cuando éstas se rindan al Tribunal de Cuentas.
+
+En el caso de insuficiencia de medios para efectuar las actuaciones previstas en el apartado anterior la Intervención General de la Administración del Estado podrá recurrir para el ejercicio de sus competencias en este campo a la contratación con auditores de cuentas o sociedades de auditoría, de acuerdo con lo previsto en la disposición adicional segunda del texto refundido de la Ley General Presupuestaria.
+
+En los casos de organismos o entidades sometidas a control financiero permanente, de acuerdo con lo dispuesto en los artículos 40, 41 y 42 de este Real Decreto, la auditoría financiera anual será efectuada por la correspondiente Intervención Delegada, salvo que expresamente el Interventor general de la Administración del Estado decida su realización directa por el centro directivo.
+
+> Se añade por el art. 8 del Real Decreto 339/1998, de 6 de marzo. [Ref. BOE-A-1998-6181](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-6181)
+
+##### Disposición derogatoria única. Alcance de la derogación normativa.
+
+Quedan derogadas las disposiciones que a continuación se citan así como todas aquellas normas de igual o inferior rango en la parte en que se opongan a lo dispuesto en este Real Decreto:
+
+a) Real Decreto de 3 de marzo de 1925, por el que se aprueba el Reglamento orgánico del Tribunal Supremo de la Hacienda Pública.
+
+b) Decreto 493/1967, de 3 de marzo, por el que se dictan normas en relación con el artículo 25.4 del Reglamento de 3 de marzo de 1925 y la contratación directa del Estado y sus entidades autónomas.
+
+c) Real Decreto 1124/1978, de 12 de mayo, por el que, con carácter de instrucción provisional, se desarrollan las normas relativas a los servicios de intervención y control contenidas en la Ley General Presupuestaria.
+
+##### Disposición final primera. Posibilidad de modificación de la cuantía para comprobación material de las inversiones.
+
+La cuantía establecida en el apartado 4 del artículo 28 podrá ser modificada por Acuerdo del Consejo de Ministros, a propuesta del Ministro de Economía y Hacienda y a iniciativa de la Intervención General de la Administración del Estado.
+
+##### Disposición final segunda. Habilitación normativa.
+
+Por el Ministro de Economía y Hacienda se dictarán las disposiciones necesarias para el desarrollo y aplicación del presente Real Decreto.
+
+##### Disposición final tercera. Habilitación normativa en materia de formatos de firma electrónica.
+
+Por Resolución del Interventor General de la Administración del Estado podrán ser modificados los formatos de firma electrónica que se derivan de los artículos 13 y 13 bis con el fin de ajustarlos a las disposiciones que en cada momento regulen la Política de Firma Electrónica y de Certificados de la Administración General del Estado, así como a las normas relativas al ejercicio de la función interventora.
+
+> Se añade por el art. único.6 del Real Decreto 109/2015, de 20 de febrero. [Ref. BOE-A-2015-1949](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1949).
+
+Dado en Madrid a 28 de diciembre de 1995.
+
+JUAN CARLOS R.
+
+El Ministro de Economía y Hacienda,
+
+PEDRO SOLBES MIRA

@@ -1,0 +1,5636 @@
+---
+title: "Real Decreto 936/2010, de 23 de julio, por el que se establecen los títulos de Técnico Deportivo Superior en vela con aparejo fijo y Técnico Deportivo Superior en vela con aparejo libre, y se fijan sus enseñanzas mínimas y los requisitos de acceso"
+identifier: "BOE-A-2010-13565"
+eli: "https://www.boe.es/eli/es/rd/2010/07/23/936"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación"
+date: 2010-07-23
+published: 2010-08-31
+in_force_from: 2010-09-01
+last_amended: 2026-07-02
+consolidated: 2026-08-27
+gazette: "Boletín Oficial del Estado núm. 211"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-13565"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 936/2010, de 23 de julio, por el que se establecen los títulos de Técnico Deportivo Superior en vela con aparejo fijo y Técnico Deportivo Superior en vela con aparejo libre, y se fijan sus enseñanzas mínimas y los requisitos de acceso
+
+Incluye la corrección de errores publicada en BOE núm. 245, de 9 de octubre de 2010. [Ref. BOE-A-2010-15436](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15436)
+
+La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos.
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en su artículo 64.6 que el Gobierno, previa consulta a las comunidades autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros.
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada Ley Orgánica 2/2006, de 3 de mayo, de Educación establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
+
+El Real Decreto 1363/2007, de 24 de octubre, ha establecido la ordenación general de las enseñanzas deportivas de régimen especial, y define en el artículo 4 la estructura de las enseñanzas deportivas, y situando las de enseñanzas deportivas de grado superior como parte de la educación superior.
+
+Por otra parte, del mismo modo, concreta en el artículo 6 el perfil profesional de dichos títulos, que incluirá la competencia general, las competencias profesionales, personales y sociales, con el fin de lograr que, en efecto, los títulos de enseñanzas deportivas respondan a las necesidades demandadas por los sistemas deportivo y productivo, y a los valores personales y sociales para ejercer una ciudadanía democrática. A este fin y como reflejo de la madurez alcanzada por la modalidad deportiva, se atribuye al ciclo de grado superior las competencias vinculadas al entrenamiento, dirección de equipos y deportistas de alto nivel o rendimiento, y en determinados casos la conducción con altos niveles de dificultad en la modalidad o especialidad deportiva.
+
+Este marco normativo hace necesario que ahora el Gobierno, previa consulta a las Comunidades Autónomas, establezca cada uno de los títulos que formarán el Catálogo de las enseñanzas deportivas del sistema educativo, sus enseñanzas mínimas y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+El marcado carácter técnico de estas enseñanzas, definidas por la peculiaridad de sus procedimientos, materiales, equipos y prácticas específicas de cada modalidad, hace necesario un desarrollo exhaustivo que garantice un mínimo común denominador, claro y orientador, a través de una norma reglamentaria.
+
+A estos efectos procede determinar para cada título su identificación, su perfil profesional, el entorno profesional, las enseñanzas de los ciclos de enseñanzas deportivas, la acreditación de módulos debida a la experiencia docente, a la experiencia deportiva, y los parámetros básicos de contexto formativo para cada módulo de enseñanza deportiva (espacios, equipamientos necesarios, las titulaciones y especialidades del profesorado). Asimismo, en cada título también se determinarán los requisitos específicos de acceso, siendo propio de estos títulos la identificación de la carga lectiva que se acredita a través de estos requisitos, la vinculación con otros estudios, las convalidaciones, exenciones y equivalencias.
+
+Con el fin de facilitar el reconocimiento de créditos entre los títulos de Técnico Deportivo Superior y las enseñanzas conducentes a títulos universitarios y viceversa, en los ciclos de enseñanzas deportivas de grado superior se establecerá la equivalencia de cada módulo de enseñanza deportiva con créditos europeos, ECTS, tal y como se definen en el Real Decreto 1125/2003, de 5 de septiembre, por el que se establece el sistema europeo de créditos y el sistema de calificaciones en las titulaciones universitarias de carácter oficial y validez en todo el territorio nacional.
+
+Así, el presente real decreto, se dicta en desarrollo del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, establece y regula, en los aspectos y elementos básicos antes indicados, los títulos de enseñanzas deportivas de Técnico Deportivo Superior en Vela con aparejo fijo y Técnico Deportivo Superior en Vela con aparejo libre.
+
+Finalmente, este real decreto adapta, al ámbito de las enseñanzas deportivas de vela con aparejo libre y vela aparejo fijo, las previsiones ya contenidas, al respecto, de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, en el citado Real Decreto 1363/2007, de 24 de octubre, y desarrolla, en este ámbito, las previsiones contenidas en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas y han emitido informe el Consejo Escolar del Estado y el Ministerio de Política Territorial.
+
+En su virtud, a propuesta del Ministro de Educación, con la aprobación previa de la Ministra de la Presidencia, y previa deliberación del Consejo de Ministros en su reunión del día 23 de julio de 2010,
+
+DISPONGO:
+
+## CAPÍTULO I — Objeto
+
+### Artículo 1. Objeto.
+
+1\. El objeto del presente real decreto es el establecimiento de los títulos de Técnico Deportivo Superior en Vela con aparejo fijo y Técnico Deportivo Superior en Vela con aparejo libre, con carácter oficial y validez en todo el territorio nacional, así como de sus correspondientes enseñanzas mínimas.
+
+2\. De conformidad con lo establecido en el Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, los elementos recogidos en el presente real decreto, no constituyen una regulación del ejercicio de profesión titulada alguna.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 245, de 9 de octubre de 2010. [Ref. BOE-A-2010-15436](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15436)
+
+## CAPÍTULO II — Identificación de los títulos y organización de las enseñanzas
+
+### Artículo 2. Identificación de los títulos de Técnico Deportivo Superior en Vela con aparejo fijo y Técnico Deportivo Superior en Vela con aparejo libre.
+
+1\. El título de Técnico Deportivo Superior en Vela con aparejo fijo queda identificado por los siguientes elementos:
+
+a) Denominación: vela con aparejo fijo.
+
+b) Nivel: Enseñanzas Deportivas de Grado Superior.
+
+c) Duración: 750 horas.
+
+d) Referente europeo: CINE-5b (Clasificación Internacional Normalizada de Educación).
+
+2\. El título de Técnico Deportivo Superior en Vela con aparejo libre queda identificado por los siguientes elementos:
+
+a) Denominación: vela con aparejo libre.
+
+b) Nivel: Enseñanzas Deportivas de Grado Superior.
+
+c) Duración: 750 horas.
+
+d) Referente europeo: CINE-5b (Clasificación Internacional Normalizada de Educación).
+
+> Redactado el título conforme a la corrección de errores publicada en BOE núm. 245, de 9 de octubre de 2010. [Ref. BOE-A-2010-15436](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15436)
+
+### Artículo 3. Organización de las enseñanzas conducentes a los títulos de Técnico Deportivo Superior en Vela con aparejo fijo y Técnico Deportivo Superior en Vela con aparejo libre.
+
+1\. Las enseñanzas conducentes al título de Técnico Deportivo Superior Vela con aparejo fijo se organizan en el ciclo de grado superior en vela con aparejo fijo, teniendo una duración de 750 horas.
+
+2\. Las enseñanzas conducentes al título de Técnico Deportivo Superior Vela con aparejo libre se organizan en el ciclo de grado superior en vela con aparejo libre, teniendo una duración de 750 horas.
+
+> Redactado el título conforme a la corrección de errores publicada en BOE núm. 245, de 9 de octubre de 2010. [Ref. BOE-A-2010-15436](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15436)
+
+### Artículo 4. Especializaciones de los títulos Técnico Deportivo Superior en Vela con aparejo fijo y Técnico Deportivo Superior en Vela con aparejo libre.
+
+1\. El título de Técnico Deportivo Superior en Vela con aparejo fijo tendrá como especializaciones:
+
+a) Vela con aparejo fijo de personas con discapacidad.
+
+b) Crucero Oceánico.
+
+2\. El título de Técnico Deportivo Superior en Vela con aparejo libre tendrá como especializaciones:
+
+a) Kiteboarding.
+
+b) Vela con aparejo libre de personas con discapacidad.
+
+c) Vela Fórmula Windsurfing y Funboard.
+
+3\. El Ministerio de Educación, a propuesta del Consejo Superior de Deportes y previa consulta de los órganos competentes en materia de deportes de las Comunidades Autónomas y de la Real Federación Española de Vela (RFEV) establecerá los objetivos, contenidos y criterios de evaluación de estas especializaciones.
+
+> Se modifica la letra a) del apartado 1 y la letra b) del apartado 2 por el art. 2.1 y 2 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+## CAPÍTULO III — Perfil profesional y entorno profesional, personal y laboral deportivo de los ciclos
+
+### Artículo 5. Perfil profesional de los ciclos de grado superior en vela con aparejo fijo y vela con aparejo libre.
+
+El perfil profesional de los ciclos de grado superior en vela con aparejo fijo y vela con aparejo libre queda determinado por su competencia general, sus competencias profesionales, personales y sociales, por la relación de cualificaciones y, en su caso, unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título y el entorno profesional, laboral y deportivo.
+
+### Artículo 6. Competencia general del ciclo de grado superior en vela con aparejo fijo.
+
+La competencia general del ciclo de grado superior vela con aparejo fijo consiste en programar y dirigir el entrenamiento deportivo orientado hacia la obtención y mantenimiento del rendimiento en regatistas en embarcaciones con aparejo fijo; organizar, tutelar y dirigir la participación de estos en competiciones de alto nivel; coordinar la intervención de técnicos especialistas; programar y coordinar las tareas de los técnicos a su cargo; diseñar y establecer las áreas de navegación de embarcaciones con aparejo fijo; colaborar en el diseño y construcción de embarcaciones y material de navegación con aparejo fijo; organizar competiciones y eventos propios de la iniciación y tecnificación deportiva de la navegación a vela con aparejo fijo y todo ello de acuerdo con los objetivos establecidos, el nivel óptimo de calidad, las condiciones de seguridad y el respeto al medio natural.
+
+### Artículo 7. Competencias profesionales, personales y sociales del ciclo de grado superior en vela con aparejo fijo.
+
+Las competencias profesionales, personales y sociales del ciclo de grado superior en vela con aparejo fijo son las que se relacionan a continuación:
+
+a) Analizar las condiciones de entrenamiento disponibles, las características de la competición, del medio y el entorno de los regatistas, las modificaciones reglamentarias, e identificando los futuros talentos deportivos, para la planificación a largo plazo del entrenamiento hacia el alto rendimiento y la organización del entorno del deportista.
+
+b) Analizar y valorar los factores de rendimiento (funcionales, técnicos, tácticos, psicológicos, características de las clases) propios de la navegación deportiva a vela con aparejo fijo, manejando los instrumentos y metodologías específicas, para la planificación a largo y medio plazo del entrenamiento.
+
+c) Programar a medio y largo plazo el entrenamiento específico, los objetivos y medios necesarios para la navegación deportiva en embarcaciones con aparejo fijo, a partir de las valoraciones y análisis realizados de los regatistas y en las condiciones iniciales del entorno deportivo y del medio natural.
+
+d) Programar a corto plazo el entrenamiento, los objetivos y los medios necesarios, y concretar las sesiones para la navegación deportiva de alto nivel con embarcaciones con aparejo fijo, adecuándolas al regatista o regatistas y a las condiciones del área de navegación de acuerdo con la programación general y del medio natural.
+
+e) Dirigir la sesión de entrenamiento en la etapa de alto rendimiento en la navegación con embarcaciones con aparejo fijo, solucionando las contingencias existentes, aportando información relevante sobre el desempeño realizado, y modificando su desarrollo, para conseguir la implicación y el rendimiento conforme a los objetivos propuestos, y dentro de las normas medioambientales y los márgenes de seguridad requeridos, teniendo en cuenta el medio natural.
+
+f) Poner a punto, transportar y reparar los materiales náuticos y embarcaciones necesarios en la práctica de la navegación a vela con aparejo fijo, de acuerdo con las características de la tripulación y de las clases, de las condiciones ambientales y analizando sus posibles evoluciones/modificaciones, garantizando su adecuación a las exigencias del alto rendimiento, su disponibilidad, respetando la normativa medioambiental y los protocolos de seguridad establecidos, y asesorando en el diseño y construcción de los materiales náuticos y embarcaciones.
+
+g) Controlar la seguridad en la práctica de la navegación deportiva a vela, en el nivel de alto rendimiento, supervisando las instalaciones, áreas de navegación, medios y embarcaciones a utilizar e interviniendo, mediante la ayuda o el rescate en las situaciones de riesgo detectadas, y asistiendo como primer interviniente en caso de accidente o situación de emergencia.
+
+h) Seleccionar, acompañar y dirigir a los regatistas en competiciones de alto rendimiento con embarcaciones de aparejo fijo, realizando las orientaciones necesarias, tomando las decisiones más adecuadas para el desarrollo de la competición, conforme a los objetivos previstos y todo ello dentro de los valores éticos vinculados al juego limpio, el respeto a los demás y al propio cuerpo.
+
+i) Gestionar la logística de los equipos durante las competiciones de alto rendimiento en vela con aparejo fijo, realizando la planificación del transporte, del alojamiento y la manutención de los regatistas, y realizando el control de las posibles contingencias, para cumplir los objetivos propuestos dentro de las limitaciones presupuestarias establecidas.
+
+j) Diseñar y establecer las áreas de navegación de alto nivel, teniendo en cuenta las previsiones meteorológicas de la zona y las normas y protocolos de seguridad.
+
+k) Determinar la formación de equipos de trabajo de carácter multidisciplinar de apoyo al Técnico Deportivo Superior en vela con aparejo fijo, y coordinar sus acciones dentro de la programación.
+
+l) Dirigir y coordinar recursos humanos, participar en la formación de los técnicos deportivos y organizar los recursos materiales, en una escuela de vela estableciendo las programaciones de referencia.
+
+m) Organizar y gestionar competiciones y eventos propios de la tecnificación deportiva a vela, y colaborar en la organización de eventos propios de la alta competición.
+
+n) Evaluar el proceso de preparación y los resultados obtenidos en la navegación de alto rendimiento con embarcaciones de aparejo fijo, programando la recogida de la información y realizando su análisis para conseguir el ajuste y mejora permanente del entrenamiento dirigido al alto rendimiento deportivo.
+
+ñ) Transmitir a través del comportamiento ético personal valores vinculados con el juego limpio, el respeto a los demás, el respeto al medio ambiente, y al respeto y cuidado del propio cuerpo.
+
+o) Mantener una identidad profesional y un espíritu de innovación y actualización que facilite la adaptación a los cambios que se produzcan en la navegación deportiva a vela y en su entorno organizativo.
+
+### Artículo 8. Entorno profesional, laboral y deportivo del ciclo de grado superior en vela con aparejo fijo.
+
+1\. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado, las administraciones autonómicas o locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones, centros de tecnificación, centros de alto rendimiento y clubes deportivos y sociales, centros educativos, empresas de servicios, que ofrezcan actividades deportivo-recreativas, alto rendimiento de la vela.
+
+2\. Las ocupaciones y puestos de trabajo más relevantes para estos profesionales son las siguientes: Entrenador de alto nivel de vela, Director Técnico, Director de escuelas de vela y deportivas.
+
+### Artículo 9. Competencia general del ciclo de grado superior en vela con aparejo libre.
+
+La competencia general del ciclo de grado superior vela con aparejo libre consiste en programar y dirigir el entrenamiento deportivo orientado hacia la obtención y mantenimiento del rendimiento en regatistas de embarcaciones con aparejo libre, organizar, tutelar y dirigir la participación de estos en competiciones de alto nivel; coordinar la intervención de técnicos especialistas; programar y coordinar las tareas de los técnicos a su cargo; diseñar y establecer las áreas de navegación de embarcaciones con aparejo libre; colaboración en el diseño y construcción de embarcaciones y materiales de navegación con aparejo libre; organizar competiciones y eventos propios de la iniciación y tecnificación deportiva de la navegación a vela con aparejo libre y todo ello de acuerdo con los objetivos establecidos, el nivel óptimo de calidad, las condiciones de seguridad y el respeto al medio natural.
+
+### Artículo 10. Competencias profesionales, personales y sociales del ciclo de grado superior en vela con aparejo libre.
+
+Las competencias profesionales, personales y sociales del ciclo de grado superior en vela con aparejo libre son las que se relacionan a continuación:
+
+a) Analizar las condiciones de entrenamiento disponibles, las características de la competición, del medio y el entorno de los regatistas, las modificaciones reglamentarias, e identificando los futuros talentos deportivos, para la planificación a largo plazo del entrenamiento hacia el alto rendimiento y la organización del entorno del deportista.
+
+b) Analizar y valorar los factores de rendimiento (funcionales, técnicos, tácticos, psicológicos, características de las clases) propios de la navegación deportiva a vela con aparejo libre, manejando los instrumentos y metodologías específicas, para la planificación a largo y medio plazo del entrenamiento.
+
+c) Programar a medio y largo plazo el entrenamiento específico, los objetivos y medios necesarios para la navegación deportiva con embarcaciones de aparejo libre, a partir de las valoraciones y análisis realizados de los regatistas y en las condiciones iniciales del entorno deportivo y del medio natural.
+
+d) Programar a corto plazo el entrenamiento, los objetivos y los medios necesarios, y concretar las sesiones para la navegación deportiva de alto nivel con embarcaciones de aparejo libre, adecuándolas al regatista o regatistas y a las condiciones del área de navegación de acuerdo con la programación general y del medio natural.
+
+e) Dirigir la sesión de entrenamiento en la etapa de alto rendimiento en la navegación deportiva con embarcaciones con aparejo libre, solucionando las contingencias existentes, aportando información relevante sobre el desempeño realizado, y modificando su desarrollo, para conseguir la implicación y el rendimiento conforme a los objetivos propuestos, y dentro de las normas medioambientales y los márgenes de seguridad requeridos, teniendo en cuenta el medio natural.
+
+f) Poner a punto, transportar y reparar los materiales náuticos y embarcaciones necesarios en la práctica de la navegación a vela con aparejo libre, de acuerdo con las características de la tripulación y de las clases, de las condiciones ambientales y analizando sus posibles evoluciones/modificaciones, garantizando su adecuación a las exigencias del alto rendimiento, su disponibilidad, respetando la normativa medioambiental y los protocolos de seguridad establecidos, y asesorando en el diseño y construcción de los materiales náuticos y embarcaciones.
+
+g) Controlar la seguridad en la práctica de la navegación deportiva a vela, en el nivel de alto rendimiento, supervisando las instalaciones, áreas de navegación, medios y embarcaciones a utilizar e interviniendo, mediante la ayuda o el rescate en las situaciones de riesgo detectadas, y asistiendo como primer interviniente en caso de accidente o situación de emergencia.
+
+h) Seleccionar, acompañar y dirigir a los regatistas en competiciones de alto rendimiento en la navegación con embarcaciones de aparejo libre, realizando las orientaciones necesarias, tomando las decisiones más adecuadas para el desarrollo de la competición, conforme a los objetivos previstos y todo ello dentro de los valores éticos vinculados al juego limpio, el respeto a los demás y al propio cuerpo.
+
+i) Gestionar la logística de los equipos durante las competiciones de alto rendimiento en vela con aparejo libre, realizando la planificación del transporte, del alojamiento y la manutención de los regatistas, y realizando el control de las posibles contingencias, para cumplir los objetivos propuestos dentro de las limitaciones presupuestarias establecidas.
+
+j) Diseñar y establecer las áreas de navegación de alto rendimiento con embarcaciones con aparejo libre, teniendo en cuenta las previsiones meteorológicas de la zona y las normas y protocolos de seguridad.
+
+k) Determinar la formación de equipos de trabajo de carácter multidisciplinar de apoyo al Técnico Deportivo Superior en vela con aparejo libre, y coordinar sus acciones dentro de la programación.
+
+l) Dirigir y coordinar recursos humanos, participar en la formación de los técnicos deportivos y organizar los recursos materiales, en una escuela de vela estableciendo las programaciones de referencia.
+
+m) Organizar y gestionar competiciones y eventos propios de la tecnificación deportiva en vela, y colaborar en la organización de eventos propios de la alta competición.
+
+n) Evaluar el proceso de preparación y los resultados obtenidos en la navegación de alto rendimiento con embarcaciones de aparejo libre, programando la recogida de la información y realizando su análisis para conseguir el ajuste y mejora permanente del entrenamiento dirigido al alto rendimiento deportivo.
+
+ñ) Transmitir a través del comportamiento ético personal valores vinculados con el juego limpio, el respeto a los demás, el respeto al medio ambiente, y al respeto y cuidado del propio cuerpo.
+
+o) Mantener una identidad profesional y un espíritu de innovación y actualización que facilite la adaptación a los cambios que se produzcan en la navegación deportiva a vela y en su entorno organizativo.
+
+### Artículo 11. Entorno profesional, laboral y deportivo del ciclo de grado superior en vela con aparejo libre.
+
+1\. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado, las administraciones autonómicas o locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones, centros de tecnificación, centros de alto rendimiento y clubes deportivos y sociales, centros educativos, empresas de servicios, que ofrezcan actividades deportivo-recreativas, alto rendimiento de la vela.
+
+2\. Las ocupaciones y puestos de trabajo más relevantes para estos profesionales son las siguientes: Entrenador de alto nivel de vela, Director Técnico, Director de escuelas de vela y deportivas.
+
+3\. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo a los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
+
+## CAPÍTULO IV — Estructura de las enseñanzas de los ciclos de grado superior de enseñanza deportiva conducentes a cada uno de los títulos de Técnico Deportivo Superior en Vela con aparejo fijo y Técnico Deportivo Superior en Vela con aparejo libre
+
+### Artículo 12. Estructura de los ciclos de grado superior en vela con aparejo fijo y grado superior en vela con aparejo libre.
+
+1\. Los ciclos de grado superior en vela con aparejo fijo y grado superior en vela con aparejo libre se estructuran en módulos, agrupados en bloque común y bloque específico.
+
+2\. Los módulos comunes de enseñanza deportiva de los ciclos de grado superior en vela con aparejo fijo y grado superior en vela con aparejo libre son los que a continuación se relacionan:
+
+MED-C301: Factores fisiológicos del alto rendimiento.
+
+MED-C302: Factores psicosociales del alto rendimiento.
+
+MED-C303: Formación de formadores deportivos.
+
+MED-C304: Organización y gestión aplicada al alto rendimiento.
+
+3\. Los módulos específicos de enseñanza deportiva del ciclo de grado superior en vela con aparejo fijo son los que a continuación se relacionan:
+
+MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.
+
+MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.
+
+MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.
+
+MED-VEVE304 Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.
+
+MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.
+
+MED-VEVE306: Preparación física del regatista.
+
+MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF.
+
+MED-VEAF308: Planificación y programación del alto rendimiento en vela con AF.
+
+MED-VEAF309: Puesta a punto del material de AF de alto rendimiento.
+
+MED-VEAF310: Formación práctica.
+
+MED-VEAF311: Proyecto final.
+
+4\. Los módulos específicos de enseñanza deportiva del ciclo de grado superior en vela con aparejo libre son los que a continuación se relacionan:
+
+MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.
+
+MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.
+
+MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.
+
+MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.
+
+MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.
+
+MED-VEVE306: Preparación física del regatista.
+
+MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL.
+
+MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL.
+
+MED-VEAL314: Puesta a punto del material de AL de alto rendimiento.
+
+MED-VEAL315: Formación Práctica.
+
+MED-VEAL316: Proyecto final.
+
+5\. La distribución horaria de las enseñanzas mínimas del ciclo de grado superior en vela con aparejo fijo se establece en el anexo I-B, y del ciclo de grado superior en vela con aparejo libre en el anexo I-D.
+
+6\. Los objetivos generales y los módulos enseñanza deportiva de los ciclos de grado superior en vela con aparejo fijo y grado superior en vela con aparejo libre quedan desarrollados en los Anexos II y III del presente real decreto.
+
+> Se modifica el apartado 5 por el art. 2.1 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+### Artículo 13. Ratio profesor/alumno.
+
+1\. Para impartir los módulos del bloque común y los resultados de aprendizaje de carácter conceptual del los módulos del bloque específico, de los ciclos de grado superior en vela con aparejo fijo y grado superior en vela con aparejo libre, la relación profesor/alumno será de 1/30.
+
+2\. Para impartir los resultados de aprendizaje de carácter procedimental de los módulos del bloque específico de los ciclos de grado superior en vela con aparejo fijo y grado superior en vela con aparejo libre, la relación profesor/alumno será la recogida en el Anexo IV.
+
+### Artículo 14. Módulo de formación práctica.
+
+Para iniciar los módulos de formación práctica de los ciclos de grado superior en vela con aparejo fijo y grado superior en vela con aparejo libre, será necesario haber superado con anterioridad los módulos comunes y específicos de enseñanza deportiva que se establecen en el Anexo V de este real decreto.
+
+### Artículo 15. Determinación del currículo.
+
+Las Administraciones educativas establecerán los currículos correspondientes respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+
+### Artículo 16. Espacios y equipamientos deportivos.
+
+Los espacios y equipamientos mínimos necesarios para el desarrollo de las enseñanzas de los ciclos de grado superior en vela con aparejo fijo y grado superior en vela con aparejo libre son los establecidos en el Anexo VI A y VI B de este real decreto.
+
+## CAPÍTULO V — Acceso a cada uno de los ciclos
+
+### Artículo 17. Requisitos generales de acceso a los ciclos de grado superior en vela con aparejo fijo y grado superior en vela con aparejo libre.
+
+1\. Para acceder al ciclo de grado superior en vela con aparejo fijo será necesario tener el título de Bachiller o equivalente a efectos de acceso y el título de Técnico Deportivo en vela con aparejo fijo.
+
+2\. Para acceder al ciclo de grado superior en vela con aparejo libre será necesario tener el título de Bachiller o equivalente a efectos de acceso y el título de Técnico Deportivo en vela con aparejo libre.
+
+### Artículo 18. Requisitos de acceso a los ciclos de grado superior en vela con aparejo fijo y grado superior en vela con aparejo libre para personas sin el título de Bachiller.
+
+Se podrá acceder a las enseñanzas de los ciclos de grado superior en vela con aparejo fijo y grado superior en vela con aparejo libre, sin el título de Bachiller, siempre que el aspirante posea el título de Técnico Deportivo correspondiente, cumpla las condiciones de edad y supere la prueba correspondiente conforme al artículo 31.1.a del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+
+### Artículo 19. Requisitos de acceso de personas que acrediten discapacidades.
+
+Las personas con discapacidad podrán acceder a las enseñanzas de estos ciclos conforme la disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, siendo obligación de las administraciones competentes llevar a cabo los ajustes razonables para que este acceso no comporte restricciones injustificadas contrarias al principio de igualdad de oportunidades.
+
+## CAPÍTULO VI — Profesorado
+
+### Artículo 20. Los requisitos de titulación del profesorado en centros públicos.
+
+Los requisitos de la titulación del profesorado en centros públicos se determinarán en función del bloque de enseñanza deportiva en que hayan de impartir la docencia:
+
+1\. La docencia de los módulos del bloque común que constituyen las enseñanzas deportivas de los ciclos de grado superior en vela con aparejo fijo y grado superior en vela con aparejo libre, corresponde al profesorado del Cuerpo de Profesores de Enseñanza Secundaria y del Cuerpo de Catedráticos de Enseñanza Secundaria, según proceda, de las especialidades establecidas en el Anexo VII de este real decreto.
+
+2\. La docencia de los módulos del bloque específico que constituyen las enseñanzas deportivas de los ciclos de grado superior en vela con aparejo fijo y grado superior en vela con aparejo libre, está especificada en el Anexo VIII A, y corresponde a:
+
+a) Profesores especialistas que posean, según corresponda, el título de Técnico Deportivo Superior en vela con aparejo fijo, Técnico Deportivo Superior en vela con aparejo libre, o aquellos no titulados que acrediten la experiencia en el ámbito laboral y deportivo, o la experiencia docente, detallada en el Anexo VIII B.
+
+b) Profesorado de los cuerpos de profesores de enseñanza secundaria y catedráticos de enseñanza secundaria, con la especialidad en Educación Física, y que posean el título de Técnico Deportivo Superior en vela con aparejo fijo, o de Técnico Deportivo Superior en vela con aparejo libre, según corresponda.
+
+### Artículo 21. Los requisitos de titulación del profesorado en centros privados y públicos no dependientes de la Administración educativa.
+
+Las titulaciones requeridas para la impartición de los módulos tanto del bloque común, como del bloque específico que forman los ciclos de grado superior en vela con aparejo fijo y grado superior en vela con aparejo libre, para el profesorado de los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, se concretan en el Anexo VIII del presente real decreto.
+
+## CAPÍTULO VII — Vinculación a otros estudios
+
+### Artículo 22. Acceso a otros estudios.
+
+1\. Los títulos de Técnico Deportivo Superior en vela con aparejo fijo, o de Técnico Deportivo Superior en vela con aparejo libre permiten el acceso directo para cursar las enseñanzas conducentes a los títulos universitarios de grado en las condiciones de admisión que se establezcan.
+
+2\. El Gobierno, oído el Consejo de Universidades, regulará, en norma específica, el reconocimiento de créditos entre los títulos de técnico deportivo superior y las enseñanzas universitarias de grado. A efectos de facilitar el régimen de convalidaciones, se han asignado 63 créditos ECTS en las enseñanzas mínimas establecidas en este real decreto entre los módulos de enseñanza deportiva de estos ciclos de grado superior.
+
+3\. El número de créditos ECTS atribuido a cada uno de los módulos de enseñanza deportiva de este ciclo se establece en los anexos I-A y I-C.
+
+> Se modifica el apartado 3 por el art. 2.2 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 245, de 9 de octubre de 2010. [Ref. BOE-A-2010-15436](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15436)
+
+### Artículo 23. Convalidación de estas enseñanzas.
+
+1\. El Ministerio de Educación, establecerá las convalidaciones que proceda otorgar del bloque común de las enseñanzas reguladas en el presente real decreto, a aquellos que acrediten estudios o título de Licenciado en Ciencias de la Actividad Física y el Deporte, regulado por el Real Decreto 1670/1993, de 24 de septiembre, de Diplomado en Educación Física y Licenciado en Educación Física, regulado por el Real Decreto 790/1981, de 24 de abril, de Maestro Especialista en Educación Física, regulado por el Real Decreto 1440/1991, de 30 de agosto, de Técnico Superior en Animación de Actividades Físicas y Deportivas, regulado por el Real Decreto 2048/1995, de 22 de diciembre y el de Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural regulado por el Real Decreto 2049/1995, de 22 de diciembre así como con las materias de bachillerato y los títulos establecidos al amparo del Real Decreto 1913/1997, de 19 de diciembre.
+
+2\. Serán objeto de convalidación los módulos comunes y específicos de enseñanza deportiva con la misma denominación y código.
+
+3\. La superación de la totalidad de los módulos del bloque común del tercer nivel, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del correspondiente ciclo superior de enseñanza deportiva en vela con aparejo fijo o vela con aparejo libre. La superación de la totalidad de los módulos del bloque común del ciclo de grado superior de los títulos de Técnico Deportivo Superior en vela con aparejo fijo o Técnico Deportivo Superior en vela con aparejo libre, se convalidará por la totalidad de los módulos del bloque común, del tercer nivel, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre de Ordenación General del Sistema Educativo.
+
+### Artículo 24. Exención del módulo de formación práctica.
+
+Podrán ser objeto de exención total o parcial el módulo de formación práctica de los ciclos de grado superior en vela con aparejo fijo o grado superior en vela con aparejo libre, en función de su correspondencia con la experiencia en el ámbito deportivo o laboral, detallada en el anexo X.
+
+### Artículo 25. Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia docente.
+
+1\. La correspondencia formativa entre los módulos de enseñanza deportiva de los ciclos de grado superior en vela con aparejo fijo o grado superior en vela con aparejo libre y la experiencia docente acreditable de las formaciones anteriores de los entrenadores deportivos a las que se refiere la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, y las formaciones de entrenadores a las que se refiere la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, se establece en el anexo XI.
+
+2\. La correspondencia formativa será aplicada por los centros, siguiendo el procedimiento establecido por la correspondiente Administración educativa.
+
+### Artículo 26. Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia deportiva.
+
+La correspondencia formativa entre los módulos de enseñanza deportiva de los ciclos de grado superior en vela con aparejo fijo o grado superior en vela con aparejo libre, y la experiencia deportiva acreditable en esta modalidad deportiva, se establece en el anexo XII.
+
+La correspondencia formativa será aplicada por los centros, siguiendo el procedimiento establecido por la correspondiente Administración educativa.
+
+### Disposición adicional primera. Referencia del título en el marco europeo.
+
+Una vez establecido el marco nacional de cualificaciones, de acuerdo con las recomendaciones europeas, se determinará el nivel correspondiente de estas titulaciones en el marco nacional y su equivalente europeo.
+
+### Disposición adicional segunda. Oferta a distancia de los módulos de enseñanza deportiva de los presentes títulos.
+
+Los módulos de enseñanza deportiva que se establecen en el anexo XIII, podrán ofertarse a distancia, siempre que se garantice que el alumno puede conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las Administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
+
+### Disposición adicional tercera. Habilitación a las enseñanzas de grado superior en vela con aparejo libre y vela con aparejo fijo para el gobierno de embarcaciones y el ejercicio de su perfil profesional.
+
+1\. La posesión del título de Técnico Deportivo Superior en vela con aparejo libre, habilitará para el gobierno de embarcaciones de recreo de hasta 8 metros de eslora si son a vela y de 7,5 metros de eslora si son de motor, con la potencia de motor adecuada a la misma, siempre que la embarcación no se aleje más de 5 millas, en cualquier dirección, de un abrigo. De la misma manera habilitará para el ejercicio de las competencias recogidas en el perfil profesional del ciclo de grado superior en vela con aparejo libre descritas en los artículos 9, 10 y 11 del presente real decreto.
+
+2\. La posesión del título de Técnico Deportivo Superior en vela con aparejo fijo, habilitará para el gobierno de embarcaciones de recreo a motor o motor y vela de hasta 12 metros de eslora, para la navegación que se efectúe en la zona comprendida entre la costa y la línea paralela a la misma trazada a 12 millas, así como la navegación interinsular en los archipiélagos balear y canario. De la misma manera habilitará para el ejercicio de las competencias recogidas en el perfil profesional del ciclo de grado superior en vela con aparejo fijo descritas en los artículos 6, 7 y 8 del presente real decreto.
+
+### Disposición adicional cuarta. Referencias genéricas.
+
+Todas las referencias al alumnado, profesorado y a titulaciones para las que en este real decreto se utiliza la forma del masculino genérico deben entenderse aplicables indistintamente a mujeres y a hombres.
+
+### Disposición derogatoria única. Derogación de normas.
+
+Quedan derogadas todas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+### Disposición final primera. Título competencial.
+
+El presente real decreto tiene carácter de norma básica y se dicta, al amparo de las competencias que atribuye al Estado el artículo 149.1.30.º de la Constitución que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+
+### Disposición final segunda. Implantación de los títulos.
+
+Las Administraciones educativas podrán implantar, el nuevo currículo de estas enseñanzas durante el curso escolar 2011-2012.
+
+### Disposición final tercera. Autorización para el desarrollo.
+
+Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el Real Decreto 1393/2007, de 29 de septiembre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se autoriza al titular del Ministerio de Educación para la modificación y actualización de los anexos VII, VIIIA y IX de este decreto.
+
+### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 23 de julio de 2010.
+
+JUAN CARLOS R.
+
+El Ministro de Educación,
+
+ÁNGEL GABILONDO PUJOL
+
+## ANEXO I — Distribución horaria de las enseñanzas mínimas y equivalencia en créditos ECTS
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos I-A hasta el I-D por el art. 2.3 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+## ANEXO I-A — Distribución en créditos ECTS de la duración total de las enseñanzas
+
+Ciclo de grado superior en vela con aparejo fijo (AF)
+
+|  | Equivalencia en créditos ECTS |
+|---|---|
+| *Bloque común* |  |
+| MED-C301 Factores fisiológicos del alto rendimiento | 5 |
+| MED-C302 Factores psicosociales del alto rendimiento | 3 |
+| MED-C303 Formación de formadores deportivos | 4 |
+| MED-C304 Organización y gestión aplicada al alto rendimiento | 4 |
+| Total módulos bloque común | 16 |
+| *Bloque específico* |  |
+| MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL | 2 |
+| MED-VEVE302: Seguridad de la instalaciones y las regatas de alto nivel de AF y AL | 2 |
+| MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL | 2 |
+| MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL | 4 |
+| MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL | 2 |
+| MED-VEVE306: Preparación física del regatista | 3 |
+| MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF | 3 |
+| MED-VEAF308: Planificación y programación del alto rendimiento en vela con AF | 3 |
+| MED-VEAF309: Puesta a punto del material de AF de alto rendimiento | 4 |
+| MED-VEAF311: Proyecto final | 6 |
+| MED-VEAF310: Formación práctica | 16 |
+| Total módulos bloque específico | 47 |
+| Total módulos bloques común y específico | 63 |
+
+> Se modifica y se numera como Anexo I-A por el art. 2.3 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+> Anteriormente estaba integrado en el Anexo I.
+
+## ANEXO I-B — Distribución horaria de las enseñanzas mínimas
+
+Ciclo de grado superior en vela con aparejo fijo (AF)
+
+|  | Enseñanzas mínimas |
+|---|---|
+| *Bloque común* |  |
+| MED-C301 Factores fisiológicos del alto rendimiento | 35 h |
+| MED-C302 Factores psicosociales del alto rendimiento | 25 h |
+| MED-C303 Formación de formadores deportivos | 30 h |
+| MED-C304 Organización y gestión aplicada al alto rendimiento | 20 h |
+| Total módulos bloque común | 110 h |
+| *Bloque específico* |  |
+| MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL | 10 h |
+| MED-VEVE302: Seguridad de la instalaciones y las regatas de alto nivel de AF y AL | 10 h |
+| MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL | 10 h |
+| MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL | 25 h |
+| MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL | 10 h |
+| MED-VEVE306: Preparación física del regatista | 15 h |
+| MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF | 20 h |
+| MED-VEAF308: Planificación y programación del alto rendimiento en vela con AF | 20 h |
+| MED-VEAF309: Puesta a punto del material de AF de alto rendimiento | 30 h |
+| MED-VEAF311: Proyecto final | 40 h |
+| MED-VEAF310: Formación práctica | 110 h |
+| Total módulos bloque específico | 300 h |
+| Total módulos bloques común y específico | 410 h |
+
+> Se modifica y se numera como Anexo I-B por el art. 2.3 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+> Anteriormente estaba integrado en el Anexo I.
+
+## ANEXO I-C — Distribución en créditos ECTS de la duración total de las enseñanzas
+
+Ciclo de grado superior en vela con aparejo libre (AL)
+
+|  | Equivalencia en créditos ECTS |
+|---|---|
+| *Bloque común* |  |
+| MED-C301 Factores fisiológicos del alto rendimiento | 5 |
+| MED-C302 Factores psicosociales del alto rendimiento | 3 |
+| MED-C303 Formación de formadores deportivos | 4 |
+| MED-C304 Organización y gestión aplicada al alto rendimiento | 4 |
+| Total módulos bloque común | 16 |
+| *Bloque específico* |  |
+| MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL | 2 |
+| MED-VEVE302: Seguridad de la instalaciones y las regatas de alto nivel de AF y AL | 2 |
+| MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL | 2 |
+| MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL | 4 |
+| MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL | 2 |
+| MED-VEVE306: Preparación física del regatista | 3 |
+| MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL | 3 |
+| MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL | 3 |
+| MED-VEAL314: Puesta a punto del material de AL de alto rendimiento | 4 |
+| MED-VEAL316: Proyecto final | 6 |
+| MED-VEAL315: Formación práctica | 16 |
+| Total módulos bloque específico | 47 |
+| Total módulos bloques común y específico | 63 |
+
+> Se modifica y se numera como Anexo I-C por el art. 2.3 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+> Anteriormente estaba integrado en el Anexo I.
+
+## ANEXO I-D — Distribución horaria de las enseñanzas mínimas
+
+Ciclo de grado superior en vela con aparejo libre (AL)
+
+|  | Enseñanzas mínimas |
+|---|---|
+| *Bloque común* |  |
+| MED-C301 Factores fisiológicos del alto rendimiento | 35 h |
+| MED-C302 Factores psicosociales del alto rendimiento | 25 h |
+| MED-C303 Formación de formadores deportivos | 30 h |
+| MED-C304 Organización y gestión aplicada al alto rendimiento | 20 h |
+| Total módulos bloque común | 110 h |
+| *Bloque específico* |  |
+| MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL | 10 h |
+| MED-VEVE302: Seguridad de la instalaciones y las regatas de alto nivel de AF y AL | 10 h |
+| MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL | 10 h |
+| MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL | 25 h |
+| MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL | 10 h |
+| MED-VEVE306: Preparación física del regatista | 15 h |
+| MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL | 20 h |
+| MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL | 20 h |
+| MED-VEAL314: Puesta a punto del material de AL de alto rendimiento | 30 h |
+| MED-VEAL316: Proyecto final | 40 h |
+| MED-VEAL315: Formación práctica | 110 h |
+| Total módulos bloque específico | 300 h |
+| Total módulos bloques común y específico | 410 h |
+
+> Se modifica y se numera como Anexo I-D por el art. 2.3 del Real Decreto 94/2014, de 14 de febrero. [Ref. BOE-A-2014-2357](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2357)
+
+> Anteriormente estaba integrado en el Anexo I.
+
+## ANEXO II — Objetivos generales y módulos de enseñanza deportiva del ciclo de grado superior en vela con aparejo fijo
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos II.a hasta el II.o por el art. 2.3 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+## ANEXO II.a — Objetivos generales
+
+a. Seleccionar y justificar los procedimientos de la valoración del entorno del regatista, de los medios materiales e instalaciones disponibles, las modificaciones reglamentarias, e identificando a los futuros talentos deportivos, identificando sus características y aplicando los procedimientos, para analizar las condiciones del alto rendimiento.
+
+b. Seleccionar y justificar los procedimientos de análisis de los factores de rendimiento (funcionales, técnicos, tácticos, psicológicos, características de las clase y tripulaciones) y los criterios de selección de los deportistas, identificando sus características y aplicando los procedimientos establecidos, para valorar los factores de rendimiento propios del alto rendimiento en vela con aparejo fijo.
+
+c. Elegir y justificar los procedimientos de determinación de los objetivos, medios y métodos del entrenamiento, y la temporalización de la carga, identificando los principios del entrenamiento y del aprendizaje motor aplicables, para programar a corto, medio y largo plazo el entrenamiento de alto rendimiento en vela con aparejo fijo.
+
+d. Analizar la complejidad de las tareas y los factores relativos a la carga de trabajo, diseñando actividades en supuestos establecidos y aplicando los principios y métodos del entrenamiento de alto nivel en vela con aparejo fijo, para concretar las sesiones de trabajo.
+
+e. Describir, elegir y demostrar las técnicas y estrategias de dirección de sesiones, entrenamientos de regatistas, de control de las contingencias propias del alto rendimiento en la navegación a vela con aparejo fijo, aplicando procedimientos de observación, dinamización y control, resolviendo supuestos y aplicando normas de protección del medioambiente, para dirigir sesiones en condiciones de alta exigencia.
+
+f. Seleccionar, comprobar y poner a punto los medios materiales e instalaciones propias del alto rendimiento en vela con aparejo fijo, aplicando procedimientos establecidos y normativa vigente, operando con los instrumentos de reparación y de mantenimiento, para facilitar la disponibilidad y adecuada utilización de los medios necesarios.
+
+g. Evaluar las condiciones de seguridad de las instalaciones, áreas de navegación, medios y embarcaciones de alto rendimiento en vela con aparejo fijo, aplicando los procedimientos establecidos y la normativa vigente, para controlar la seguridad en la práctica de la vela en el alto rendimiento.
+
+h. Elegir y demostrar las técnicas de ayuda y rescate, en las situaciones de riesgo detectadas propias del alto rendimiento en vela con aparejo fijo, aplicando los procedimientos establecidos en situaciones simuladas, para intervenir y rescatar en situaciones de riesgo.
+
+i. Analizar la regata de alto rendimiento, aplicando procedimientos establecidos y teniendo en cuenta las características de los participantes y el reglamento de regatas a vela, para acompañar y dirigir a deportistas en competiciones de alto nivel en vela con aparejo fijo.
+
+j. Elaborar los planes de preparación y mantenimiento de las embarcaciones propias del alto rendimiento en vela con aparejo fijo, aplicando procedimientos establecidos e identificando las características de los mismos, para preparar y mantenerlos.
+
+k. Analizar y justificar las necesidades de intervención de otros especialistas en la preparación de alto rendimiento en vela con aparejo fijo, describiendo las funciones y objetivos a desarrollar, para determinar la constitución y coordinación de equipos de trabajo multidisciplinares.
+
+l. Identificar y analizar la características organizativas, medios materiales y humanos, aplicando procedimientos establecidos de gestión y comunicación, para coordinar recursos humanos y organizar los recursos materiales de una escuela de vela.
+
+m. Analizar y elaborar la estructura organizativa de las regatas y eventos de alta competición, y analizar las características organizativas de competiciones de alto nivel, enumerando los requisitos administrativos, los medios materiales y humanos necesarios, aplicando el marco legal que las regula, para organizar y colaborar en la gestión de competiciones y eventos a vela con aparejo fijo.
+
+n. Diseñar y justificar los procedimientos de recogida de información y valoración del proceso de alto rendimiento, analizando las variables que intervienen en supuestos, para evaluar el proceso de entrenamiento y los resultados obtenidos en las regatas a vela de alto rendimiento con aparejo fijo.
+
+ñ. Analizar y elaborar áreas de navegación a vela de alto rendimiento con embarcaciones de aparejo fijo, las características de la zona y sus previsiones meteorológicas y las normas y protocolos de seguridad.
+
+o. Describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los regatistas, para transmitir valores propios de la navegación a vela con aparejo fijo a través del comportamiento ético personal.
+
+p. Reconocer, promover y justificar los valores de compromiso, trabajo bien hecho y aprendizaje constante, describiendo los aspectos observables de la conducta, que reflejan estos valores, para mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el desempeño de su labor como técnico.
+
+q. Diseñar programas adaptados de entrenamiento en la navegación a vela con aparejo fijo y valorar el grado de discapacidad, aplicando procedimientos establecidos, para fomentar la igualdad de oportunidades de las personas con discapacidad.
+
+> Se numera como Anexo II.a por el art. 2.3.a) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.b — Módulo común de enseñanza deportiva: Factores fisiológicos del alto rendimiento
+
+Código: MED-C301
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Analiza los principales conceptos del metabolismo energético y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+a) Se han identificado los principales conceptos del metabolismo energético.
+
+b) Se han analizado las diferentes vías metabólicas y las principales fuentes de energía en relación con el ejercicio físico, incidiendo en los aspectos fisiológicos que determinan la resistencia.
+
+c) Se han analizado las principales adaptaciones fisiológicas al entrenamiento de los diferentes sistemas del organismo en relación con el metabolismo energético.
+
+d) Se han valorado las características del metabolismo energético en mujeres deportistas, así como sus adaptaciones fisiológicas al entrenamiento.
+
+RA-2. Analiza los principales componentes del sistema neuromuscular y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+a) Se ha analizado el sistema neuromuscular, incidiendo en los aspectos fisiológicos y mecánicos que determinan la fuerza, la velocidad y la amplitud de movimiento.
+
+b) Se ha descrito el concepto de fuerza y sus diferentes manifestaciones en relación con la actividad físico-deportiva.
+
+c) Se ha descrito el concepto de velocidad y sus diferentes manifestaciones en relación con la actividad físico-deportiva, así como su implicación en las capacidades coordinativas.
+
+d) Se han analizado las principales adaptaciones al entrenamiento en relación con el sistema neuromuscular.
+
+e) Se han valorado las características del sistema neuromuscular en mujeres deportistas, así como sus adaptaciones fisiológicas al entrenamiento.
+
+RA-3. Selecciona a los/las deportistas para la alta competición analizando los factores fisiológicos determinantes que influyen en el alto rendimiento.
+
+a) Se han identificado los principales factores fisiológicos determinantes y limitantes del alto rendimiento deportivo.
+
+b) Se han analizado los fundamentos de la evaluación de la capacidad funcional vinculados al alto rendimiento deportivo.
+
+c) Se han interpretado los resultados y diferencias entre hombres y mujeres en la evaluación de la capacidad funcional.
+
+d) Se ha interpretado la importancia de la valoración anatómica y fisiológica como elemento de selección de los/las deportistas en el alto rendimiento deportivo, empleando diferentes métodos y tecnologías fiables, válidas y sensibles.
+
+e) Se ha descrito la organización de los equipos de trabajo en el alto rendimiento deportivo, identificando las diferentes funciones y roles de los especialistas que los componen.
+
+RA-4. Colabora con la persona especialista en la determinación de la dieta y en la prescripción de ayudas ergogénicas analizando los principales conceptos de nutrición deportiva y los efectos nocivos de las sustancias dopantes para la salud.
+
+a) Se han identificado los principios fundamentales y los conceptos básicos de la nutrición, la suplementación y las ayudas ergogénicas en relación con el ámbito físico-deportivo.
+
+b) Se han interpretado los resultados de la valoración nutricional del deportista a partir de los datos de un supuesto práctico.
+
+c) Se han elaborado de manera justificada las estrategias de reposición de nutrientes, agua y sales minerales durante el entrenamiento y la competición, aplicándolas en supuestos prácticos basados en los conceptos de fisiología y nutrición deportiva estudiados.
+
+d) Se han identificado los principales aspectos en el diseño de la dieta de los y las deportistas, así como en la adecuada prescripción de suplementos y ayudas ergogénicas para la mejora del rendimiento físico-deportivo durante el entrenamiento y la competición, contemplando las necesidades nutricionales particulares de las mujeres y hombres deportistas de alto rendimiento.
+
+e) Se han identificado las principales sustancias dopantes y sus efectos nocivos para la salud.
+
+RA-5. Programa y dirige el entrenamiento del deportista aplicando los conceptos de carga, fatiga y recuperación.
+
+a) Se han clasificado los diferentes tipos de fatiga, central o periférica y aguda o crónica, así como sus mecanismos de producción.
+
+b) Se han analizado los efectos de la fatiga deportiva en el sistema neuromuscular, endocrino e inmunológico.
+
+c) Se han empleado diferentes medios y métodos para cuantificar la fatiga producida por el entrenamiento.
+
+d) Se han diseñado y aplicado diferentes medios y métodos de recuperación según el mecanismo de producción de la fatiga.
+
+e) Se ha valorado la importancia de la monitorización de la carga para una adecuada gestión del entrenamiento, con el propósito de prevenir el síndrome de sobreentrenamiento y reducir el riesgo de lesiones deportivas.
+
+f) Se han empleado diferentes métodos y tecnologías, validas, fiables y sensibles de monitorización de la carga de entrenamiento.
+
+RA-6. Programa y dirige el entrenamiento y/o la competición en condiciones especiales identificando sus bases y características más importantes.
+
+a) Se han analizado las causas y los efectos fisiológicos producidos por el entrenamiento y/o la competición en condiciones extremas de calor, frío y/o humedad.
+
+b) Se han diseñado entrenamientos y estrategias de mejora de la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de temperatura y/o humedad extrema.
+
+c) Se han identificado las bases y protocolos de entrenamiento controlado en calor utilizados como medio de mejora del rendimiento físico-deportivo.
+
+d) Se han analizado las causas y los efectos fisiológicos producidos por los entrenamientos y/o competición en altura, así como sus posibles efectos positivos y negativos sobre el rendimiento físico-deportivo.
+
+e) Se han diseñado entrenamientos en diferentes situaciones de altitud, así como estrategias de adaptación de los/las deportistas a dichas condiciones.
+
+f) Se han analizado los efectos fisiológicos producidos por cambios significativos de huso horario sobre el rendimiento del deportista en el entrenamiento y/o la competición.
+
+g) Se han diseñado entrenamientos en situaciones de cambio horario, así como estrategias de adaptación de los/las deportistas a dichas condiciones.
+
+h) Se ha valorado la colaboración con el grupo de especialistas en la dirección del entrenamiento en condiciones especiales (altitud, cambios horarios, frío, calor, humedad).
+
+Contenidos básicos
+
+RA-1. Analiza los principales conceptos del metabolismo energético y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+1\. Conceptos de metabolismo, catabolismo y anabolismo. Absorción, transporte y almacenamiento de nutrientes.
+
+2\. El ATP. Principales vías metabólicas:
+
+– Vías anaeróbicas: sistema ATP-PC, glucólisis anaeróbica y ciclo de Cori.
+
+– Vías aeróbicas: glucólisis aeróbica y ciclo de Krebs.
+
+3\. Fuentes de energía en relación con las diferentes vías metabólicas: ATP, PC, glucosa, glucógeno, ácidos grasos y proteínas.
+
+4\. Implicación fisiológica de las vías metabólicas en relación con la resistencia durante la actividad físico-deportiva.
+
+5\. El modelo trifásico y los principales hitos fisiológicos: umbrales ventilatorios, VO2max, umbrales lácticos y Máximo Estado Estable del Lactato (MLSS). Métodos directos e indirectos para su valoración y control. Aplicación a los modelos por zonas de intensidad para la planificación y control del entrenamiento.
+
+6\. Conceptos de eficiencia y economía energética. Relevancia en la práctica físico-deportiva.
+
+7\. Principales adaptaciones fisiológicas, agudas y crónicas, al entrenamiento de los diferentes sistemas del organismo en relación con el metabolismo energético.
+
+8\. El metabolismo energético en mujeres deportistas. Principales características de sus adaptaciones fisiológicas al entrenamiento.
+
+RA-2. Analiza los principales componentes del sistema neuromuscular y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+1\. Funciones de los diferentes tipos de músculos: cardiaco, liso y esquelético.
+
+2\. Tipos, componentes y estructura del músculo esquelético. El tendón como transmisor de fuerzas del sistema musculoesquelético y su relación con el ciclo estiramiento-acortamiento (CEA).
+
+3\. La fibra muscular y el sarcómero como unidad funcional básica del músculo. Teoría del filamento deslizante.
+
+4\. Concepto de unidad motora y tipos de fibras musculares. Relación con los principales aspectos fisiológicos y mecánicos que determinan la fuerza, la velocidad y la amplitud de movimiento.
+
+5\. Concepto de fuerza. Principales manifestaciones en relación con la actividad físico-deportiva: fuerza aplicada, fuerza máxima, producción de fuerza por unidad de tiempo (RFD) y fuerza útil. Curvas de fuerza-tiempo y de fuerza-velocidad. Aplicaciones prácticas del entrenamiento de fuerza basadas en la velocidad.
+
+6\. Concepto de velocidad. Principales manifestaciones en relación con la actividad físico-deportiva: velocidad de reacción, gestual y de desplazamiento. Implicaciones sobre las capacidades coordinativas.
+
+7\. Principales adaptaciones, agudas y crónicas al entrenamiento en relación con el sistema neuromuscular: estructurales, nerviosas y hormonales.
+
+8\. Características del sistema neuromuscular y adaptaciones fisiológicas al entrenamiento en mujeres deportistas.
+
+RA-3. Selecciona a los/las deportistas para la alta competición analizando los factores fisiológicos determinantes que influyen en el alto rendimiento.
+
+1\. Aspectos limitantes y factores fisiológicos determinantes del alto rendimiento deportivo.
+
+2\. Fundamentos, medios directos e indirectos y métodos avanzados para la evaluación de la capacidad funcional en el alto rendimiento deportivo. Identificación de la tecnología adecuada y orientaciones para la interpretación de los resultados.
+
+3\. La valoración anatómico-fisiológica como elemento para la selección de los/las deportistas en el alto rendimiento deportivo: medios y métodos. Utilización de tecnología fiable, válida y sensible para una adecuada evaluación.
+
+4\. Análisis e interpretación de los resultados en los estudios antropométricos y de composición corporal utilizados en el alto rendimiento deportivo.
+
+5\. Valoración de las diferencias entre hombres y mujeres.
+
+6\. Organización de los equipos de trabajo en el alto rendimiento deportivo. Diferentes funciones y roles de los especialistas que los componen.
+
+RA-4. Colabora con la persona especialista en la determinación de la dieta y en la prescripción de ayudas ergogénicas analizando los principales conceptos de nutrición deportiva y los efectos nocivos de las sustancias dopantes para la salud.
+
+1\. Principios fundamentales y conceptos básicos de la nutrición, la suplementación y las ayudas ergogénicas en relación con el ámbito físico-deportivo.
+
+2\. Suplementos y ayudas ergogénicas respaldados por la evidencia científica más utilizados en el alto rendimiento deportivo. Criterios para un uso adecuado.
+
+3\. Valoración y control nutricional del deportista de alto rendimiento: medios, métodos e interpretación de los resultados. Identificación de la tecnología adecuada para la evaluación.
+
+4\. La reposición de nutrientes, agua y sales minerales durante el entrenamiento y la competición: bases fisiológicas y estrategias de aplicación individualizadas utilizadas en el alto rendimiento deportivo.
+
+5\. Orientaciones para la colaboración con la persona especialista en el diseño de la dieta, así como en la prescripción de suplementos y ayudas ergogénicas para la mejora del rendimiento físico-deportivo durante el entrenamiento y la competición.
+
+6\. El dopaje en el deporte: concepto, clasificación y ejemplos de sustancias y métodos prohibidos más extendidos en la práctica deportiva.
+
+7\. Toma de conciencia de las repercusiones del dopaje en la salud de los/las deportistas. Consecuencias legales y sanciones deportivas.
+
+8\. El control antidopaje: normativa, organismos y principales métodos para la detección de sustancias prohibidas.
+
+RA-5. Programa y dirige el entrenamiento del deportista aplicando los conceptos de carga, fatiga y recuperación.
+
+1\. Binomio fatiga-recuperación: concepto y relación con el rendimiento deportivo.
+
+2\. Fatiga, sobrecarga y sobreentrenamiento: concepto, tipos, mecanismos de producción, indicadores y formas de prevención.
+
+3\. Efectos de la fatiga en el sistema neuromuscular, endocrino e inmunológico.
+
+4\. La recuperación: concepto, medios y métodos. Relación con los mecanismos de producción.
+
+5\. Principales estrategias de recuperación en alto rendimiento: sueño, nutrición, hidratación, crioterapia, prendas compresivas, masaje, hidroterapia, etc.
+
+6\. Principios de aplicación de las estrategias de recuperación: individualización, alternancia y especificidad.
+
+7\. Pruebas objetivas y subjetivas para cuantificar la fatiga en el alto rendimiento deportivo: marcadores fisiológicos y bioquímicos, test físicos y escalas subjetivas de bienestar.
+
+8\. Relación entre carga de entrenamiento y lesiones por sobreuso.
+
+9\. Nuevas tecnologías para la monitorización de la carga de entrenamiento en el alto rendimiento deportivo.
+
+RA-6. Programa y dirige el entrenamiento y/o la competición en condiciones especiales identificando sus bases y características más importantes.
+
+1\. Causas, efectos y respuestas fisiológicas producidos por el entrenamiento y/o la competición en condiciones extremas de calor, frío y/o humedad.
+
+2\. Diseño y elaboración de entrenamientos en situaciones de temperatura y/o humedad extrema.
+
+3\. Estrategias para facilitar la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de temperaturas y/o humedades extremas.
+
+4\. Diseño y elaboración de protocolos y sesiones de entrenamiento controlado en calor para la mejora del rendimiento físico-deportivo.
+
+5\. Respuesta fisiológica aguda, reposo vs. ejercicio y crónica. Efectos y adaptaciones a la altitud sobre el sistema cardiorrespiratorio, hormonal y neuromuscular.
+
+6\. Diseño y elaboración de programas de entrenamiento en altitud.
+
+7\. Estrategias de entrenamiento en condiciones de hipoxia.
+
+8\. Estrategias para facilitar la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de altitud.
+
+9\. Efectos y respuestas fisiológicas producidos por el cambio horario en los diferentes sistemas del organismo: alteraciones de los ritmos circadianos, frecuencia cardíaca y ventilatoria, función urinaria, gástrica y hormonal. Consecuencias sobre el rendimiento físico-deportivo.
+
+10\. Consideraciones y estrategias en la programación del entrenamiento y la competición para facilitar la adaptación de los/las deportistas en situaciones de cambio horario.
+
+> Se numera como Anexo II.b y se sustituye por el que figura en el Anexo I del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 2.3.b)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.c — Módulo común de enseñanza deportiva: Factores psicosociales del alto rendimiento
+
+Código: MED-C302
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Identifica los factores psicológicos del deportista analizando los principales conceptos de la psicología del deporte, sus efectos en el rendimiento y el bienestar del deportista.
+
+a) Se han identificado los objetivos y funciones de la psicología del deporte.
+
+b) Se han analizado las contribuciones de los factores psicológicos a la progresión y el rendimiento de los/las deportistas de alto nivel.
+
+c) Se han descrito las principales destrezas psicológicas del deportista que influyen en el rendimiento deportivo según la modalidad deportiva.
+
+d) Se ha argumentado la necesidad de integrar las destrezas psicológicas en la evaluación del rendimiento de los/las deportistas de alto nivel.
+
+e) Se han descrito las principales situaciones de riesgo para la salud mental y el bienestar psicológico del deportista.
+
+RA-2. Selecciona al/a la deportista para la alta competición, analizando las características psicológicas de los/las deportistas y equipos de alto nivel y las exigencias psicológicas del alto rendimiento.
+
+a) Se han definido las características psicológicas óptimas, de deportistas y equipos, que demanda el alto rendimiento deportivo en el entrenamiento y en la competición.
+
+b) Se han analizado específicamente peculiaridades psicológicas de las mujeres deportistas en el alto rendimiento.
+
+c) Se han analizado los condicionantes psicológicos y las consideraciones específicas de los/las deportistas con discapacidad en el alto rendimiento.
+
+d) Se han propuesto de forma justificada criterios psicológicos de selección de deportistas de alto nivel en función de las exigencias del entrenamiento y la competición de alto nivel.
+
+e) Se han aplicado procedimientos psicológicos de detección de deportistas de alto nivel, mediante la realización de entrevistas y la observación de deportistas en situaciones simuladas de competición y entrenamiento.
+
+f) Se ha argumentado la importancia de la incorporación de protocolos psicológicos en la detección de deportistas de alto nivel.
+
+RA-3. Valora el entorno del/de la deportista, analizando los aspectos sociales que afectan a su rendimiento deportivo y facilitan su formación académica.
+
+a) Se han reconocido los aspectos sociales del entorno que afectan al rendimiento de los diferentes tipos de deportista de alto nivel.
+
+b) Se han definido los aspectos sociales del entorno del/de la deportista que facilitan su formación académica.
+
+c) Se han aplicado procedimientos de evaluación del entorno del/de la deportista que afectan a su rendimiento, en un supuesto práctico debidamente caracterizado.
+
+d) Se han aplicado de manera justificada medios de gestión del entorno, en situaciones simuladas debidamente caracterizadas, que eviten la interferencia con la formación deportiva y académica del/de la deportista.
+
+e) Se ha argumentado la conveniencia de que el/la entrenador/a facilite al/a la deportista la posibilidad de compaginar la carrera deportiva con la formación académica y la conciliación de la vida familiar y deportiva.
+
+f) Se han localizado, en una situación simulada debidamente caracterizada, las ayudas y fuentes de información de que disponen los/las deportistas de alto nivel al llegar al final de su carrera deportiva, que facilitan su integración en la vida laboral.
+
+g) Se ha reconocido la importancia de incorporar el análisis de los aspectos sociales del entorno del/de la deportista en la evaluación de su rendimiento.
+
+h) Se ha valorado la actitud positiva del/de la entrenador/a hacia el reconocimiento y prevención de los problemas de inserción laboral más frecuentes en los/las deportistas de alto nivel.
+
+RA-4. Participa en la preparación psicológica del deportista de alto rendimiento, analizando y aplicando actividades y técnicas de mejora de las destrezas psicológicas.
+
+a) Se han descrito las características y estructura de las técnicas de preparación psicológica que influyen en la mejora del rendimiento deportivo.
+
+b) Se han puesto en práctica actividades de preparación psicológica que influyen en la mejora del rendimiento deportivo en un supuesto practico debidamente caracterizado.
+
+c) Se han aplicado métodos de preparación psicológica en la mejora del afrontamiento de la competición que los/las deportistas de alto nivel hacen en situaciones simuladas debidamente caracterizadas.
+
+d) Se han realizado sencillas secuencias de actividades que favorezcan la mejora de las destrezas psicológicas en función de las exigencias de la especialidad deportiva y las características del deportista de una situación simulada debidamente caracterizada.
+
+RA-5. Colabora en la planificación de la preparación psicológica del/de la deportista, analizando la estructura de la preparación y aplicando criterios de secuenciación de los procedimientos y métodos para afrontar la alta competición.
+
+a) Se ha reconocido la pertinencia de integrar la preparación psicológica en la programación de la preparación general del/de la deportista.
+
+b) Se han elaborado sesiones de entrenamiento de las diferentes destrezas psicológicas que influyen en el rendimiento del deportista de alta competición.
+
+c) Se ha planificado la preparación psicológica dirigida a mejorar el rendimiento deportivo en la alta competición distribuyendo las cargas de trabajo de las diferentes destrezas psicológicas a lo largo de la temporada.
+
+d) Se han integrado en un supuesto práctico de preparación deportiva los procedimientos psicológicos de mantenimiento de la motivación de los/las deportistas de alto nivel a lo largo de la temporada deportiva.
+
+e) Se han programado los procesos relacionados con la forma en que el/la deportista de alto nivel afronta la competición en un supuesto práctico.
+
+f) Se ha valorado la importancia de la gestión psicológica en el proceso de rehabilitación de lesiones en los/las deportistas de alto rendimiento.
+
+g) Se ha valorado la importancia de la gestión psicológica en el proceso de finalización de la etapa competitiva en la vida del deportista y tránsito a la vida lejos de la competición.
+
+RA-6. Coordina el equipo de personal técnico en ciencias aplicadas al deporte, identificando las funciones del/de la psicólogo/a y aplicando técnicas de liderazgo en la gestión de recursos humanos.
+
+a) Se han definido los roles del/de la profesional de la psicología, diferenciándolos de las funciones del entrenador y de la entrenadora.
+
+b) Se han descrito los diferentes estilos de liderazgo de que dispone el/la entrenador/a en la gestión del equipo del personal técnico especialista.
+
+c) Se han descrito las pautas para desarrollar la cohesión del grupo de los recursos humanos del staff técnico.
+
+d) Se han identificado aquellas pautas de comunicación que puede utilizar el/la entrenador/a que generan credibilidad en su equipo de técnicos/as especialistas.
+
+e) Se han aplicado los estilos de liderazgo, las técnicas de cohesión de grupo y las pautas de comunicación en la gestión de los recursos humanos del staff técnico en situaciones simuladas de trabajo en equipo.
+
+f) Se han descrito las pautas a seguir por parte del técnico en la incorporación de las aportaciones especializadas del/de la profesional de la psicología a la preparación del/de la deportista en función del grado de participación de la persona especialista con el/la deportista.
+
+g) Se ha justificado la conveniencia de disponer de equipos de personal técnico especialista en ciencias del deporte.
+
+h) Se han descrito los aspectos de la preparación deportiva susceptibles de ser derivados al/a la profesional de la psicología.
+
+Contenidos básicos
+
+RA-1. Identifica los factores psicológicos del deportista analizando los principales conceptos de la psicología del deporte, sus efectos en el rendimiento y el bienestar del deportista.
+
+1\. La psicología del deporte y el ejercicio físico: historia y evolución.
+
+2\. Objetivos principales de la psicología del deporte.
+
+3\. Funciones y áreas de estudio de la psicología del deporte.
+
+4\. Factores psicológicos y su contribución a la progresión y el rendimiento:
+
+– La personalidad y su estructura de análisis.
+
+– Motivación y competitividad.
+
+– *Arousal*, estrés y ansiedad.
+
+– Rasgos de la personalidad, estados emocionales y herramientas de medida: tests, inventarios y directrices para su uso.
+
+– Fases de desarrollo de la motivación de logro y la competitividad.
+
+– Teorías e hipótesis sobre el efecto del *arousal*y la ansiedad en la ejecución.
+
+– Destrezas psicológicas que influyen en el rendimiento deportivo como la regulación del *arousal*, visualización, autoconfianza, establecimiento de objetivos y concentración.
+
+– Contribuciones de las destrezas psicológicas del deportista a la progresión y el rendimiento de los/las deportistas de alto nivel según la modalidad deportiva.
+
+– La necesidad de integrar aspectos psicológicos en la evaluación del deportista para la mejora del rendimiento deportivo.
+
+– Influencia en el rendimiento deportivo de la motivación del deportista, los rasgos de personalidad, el nivel de competitividad o la gestión de la ansiedad.
+
+– El autoconcepto, la conducta Tipo A y su relevancia en la salud mental del deportista.
+
+RA-2. Selecciona al/a la deportista para la alta competición, analizando las características psicológicas de los/las deportistas y equipos de alto nivel y las exigencias psicológicas del alto rendimiento.
+
+1\. Características psicológicas óptimas de los/las deportistas y equipos de alto nivel en el entrenamiento y en la competición.
+
+2\. Modelo de salud mental positiva (Morgan 1979) para la predicción del éxito deportivo. El perfil de Iceberg.
+
+3\. Peculiaridades psicológicas y consideraciones específicas de la mujer deportista de alto rendimiento.
+
+4\. Condicionantes psicológicos y consideraciones específicas de los/las deportistas con discapacidad en el alto rendimiento.
+
+5\. Identificación del perfil psicológico de los/las deportistas y equipos de alto nivel.
+
+6\. Importancia de los aspectos psicológicos en los procesos de detección de deportistas de alto nivel.
+
+7\. Criterios psicológicos en la selección de deportistas de alto nivel.
+
+8\. Aplicación de procedimientos de selección psicológica de deportistas de alto nivel.
+
+9\. Métodos de evaluación de las destrezas psicológicas implicados en el entrenamiento y en la competición para su selección.
+
+10\. Registro y análisis de la actuación psicológica de los/las deportistas en entrenamiento y en competición para su selección.
+
+11\. La necesidad de integrar las destrezas psicológicas en la selección del deportista de alto nivel.
+
+RA-3. Valora el entorno del/de la deportista, analizando los aspectos sociales que afectan a su rendimiento deportivo y facilitan su formación académica.
+
+1\. Aspectos sociales del entorno del/de la deportista de alto nivel relacionados con el rendimiento deportivo y académico (familia, relaciones sociales y afectivas, centro educativo y/o laboral, club, federación, patrocinadores, representantes, medios de comunicación y redes sociales).
+
+2\. Características específicas del entorno de la mujer deportista.
+
+3\. Características específicas del entorno del/de la deportista con discapacidad en el alto rendimiento.
+
+4\. Interacciones entre las características psicológicas de los/las deportistas de alto nivel y los aspectos sociales de su entorno.
+
+5\. Aspectos sociales del entorno del/de la deportista relacionados con su formación académica.
+
+6\. Evaluación de los aspectos sociales del entorno del/de la deportista relacionados con su progresión deportiva.
+
+7\. Medios de gestión del entorno por parte del/de la entrenador/a para que no interfiera en la preparación deportiva, académica o en el rendimiento deportivo del/de la deportista (formación de las familias, educación de los medios de comunicación, gestión de las redes sociales).
+
+8\. Desarrollo de una actitud en el/la entrenador/a que facilite al/a la deportista compaginar sus estudios con la práctica deportiva.
+
+9\. Conciliación personal-familiar y deportiva, las expectativas de maternidad de las deportistas durante la vida deportiva.
+
+10\. Problemas de inserción laboral más frecuentes en deportistas de alto nivel. Identificación de las ayudas y fuentes de información que facilitan la integración de los/las deportistas de alto nivel a la vida laboral.
+
+11\. Evaluación de los efectos del entorno del deportista en su rendimiento deportivo.
+
+12\. La actitud positiva del/de la entrenador/a hacia el reconocimiento y la prevención de problemas de inserción laboral en los/las deportistas de alto nivel.
+
+13\. La integración de los aspectos sociales del entorno del/de la deportista en la evaluación de su rendimiento.
+
+RA-4. Participa en la preparación psicológica del deportista de alto rendimiento, analizando y aplicando actividades y técnicas de mejora de las destrezas psicológicas.
+
+1\. Técnicas para desarrollar y perfeccionar las habilidades psicológicas para la mejora del rendimiento.
+
+– Técnicas de reducción de la ansiedad.
+
+– Técnicas inductoras del *arousal*.
+
+– Ejercicios para trabajar los diferentes tipos de visualización.
+
+– Estrategias para trabajar la autoconfianza.
+
+– Principios básicos del establecimiento de objetivos.
+
+– Ejercicios para mejorar la concentración y el foco atencional.
+
+2\. Estrategias para conseguir un determinado estado mental para realizar conductas relevantes para la mejora del rendimiento y/o la salud psicológica.
+
+3\. Aplicación de situaciones de competitividad y cooperación como herramientas para el aumento del rendimiento.
+
+4\. Utilización del*Feedback*y técnicas de reforzamiento de la conducta.
+
+5\. Métodos aplicados para la preparación psicológica del afrontamiento de la competición deportiva de alto nivel.
+
+6\. Secuencias y progresiones de actividades para la mejora de las destrezas psicológicas específicas de la modalidad deportiva en función de las peculiaridades del deportista.
+
+RA-5. Colabora en la planificación de la preparación psicológica del/de la deportista, analizando la estructura de la preparación y aplicando criterios de secuenciación de los procedimientos y métodos para afrontar la alta competición.
+
+1\. Los programas de entrenamiento de las destrezas psicológicas y su integración en la planificación deportiva general.
+
+2\. Estructura y diseño de las sesiones de entrenamiento de las destrezas psicológicas del deportista de alta competición como unidad de programación.
+
+3\. Programas de sesiones para la mejora de las distintas destrezas psicológicas que influyen en el rendimiento deportivo.
+
+4\. Distribución de las cargas de trabajo de las distintas destrezas psicológicas a lo largo de la temporada deportiva.
+
+5\. Diseño y evaluación de programas de mejora de las destrezas psicológicas.
+
+6\. Procedimientos psicológicos para mantener la motivación de deportistas de alto nivel a lo largo de la temporada.
+
+7\. Métodos de preparación psicológica para mejorar el afrontamiento que los/las deportistas de alto nivel hacen de la competición.
+
+8\. Planificación de los procesos de afrontamiento de la competición implicados en el alto rendimiento deportivo.
+
+9\. Elaboración de programaciones deportivas que integren los procesos de motivación y de afrontamiento de la competición.
+
+10\. Relevancia del trabajo psicológico para deportistas de alto nivel en situaciones de riesgo para su salud mental:
+
+– Procesos de rehabilitación de lesiones.
+
+– Finalización de la etapa competitiva en la vida del deportista y tránsito a la vida lejos de la competición.
+
+RA-6. Coordina el equipo de personal técnico en ciencias aplicadas al deporte, identificando las funciones del/de la psicólogo/a y aplicando técnicas de liderazgo en la gestión de recursos humanos.
+
+1\. Funciones del/de la profesional de la psicología aplicada al deporte y del técnico en los programas de entrenamiento de las destrezas psicológicas:
+
+– Detección de necesidades.
+
+– Diseño de la planificación.
+
+– Implementación del programa.
+
+– Supervisión y evaluación del programa.
+
+2\. Estilos de liderazgo aplicados en la conducción de equipos de trabajo.
+
+3\. Pautas para el desarrollo de un buen liderazgo de equipos de trabajo.
+
+4\. Pautas para el desarrollo de la cohesión de grupo y su medición.
+
+5\. Análisis de la comunicación para generar credibilidad en el conjunto de especialistas en ciencias aplicadas al deporte.
+
+6\. Protocolos para integrar la aportación del/de la profesional de la psicología en la preparación de deportistas de alto nivel.
+
+7\. La necesidad de disponer de equipos técnicos multidisciplinares.
+
+8\. La derivación de aspectos de la preparación de deportistas de alto nivel a profesionales de la psicología. Pautas de actuación.
+
+> Se numera como Anexo II.c y se sustituye por el que figura en el Anexo II del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 2.3.c)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.d — Módulo común de enseñanza deportiva: Formación de formadores deportivos
+
+Código: MED-C303
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Elabora la programación didáctica de los módulos de enseñanzas deportivas, analizando la normativa de ordenación de las mismas, de los centros docentes, del profesorado y de la evaluación, aplicando los procesos de programación y secuenciación.
+
+a) Se ha analizado la organización básica de las enseñanzas deportivas en relación con el sistema educativo.
+
+b) Se ha analizado la normativa que rige el funcionamiento y organización de los diferentes tipos de centros docentes en los que se puede impartir las enseñanzas deportivas de régimen especial.
+
+c) Se han analizado las diferentes formas de colaboración entre las administraciones educativas y las federaciones deportivas, para impartir las enseñanzas deportivas.
+
+d) Se han relacionado las competencias del perfil profesional y los objetivos generales de un ciclo de enseñanzas deportivas con los resultados de aprendizaje de uno de los módulos y sus criterios de evaluación, mediante la valoración de sus características.
+
+e) Se han analizado los conceptos, procedimientos y actitudes que soportan los criterios de evaluación de los resultados de aprendizaje de un módulo específico de enseñanza deportiva.
+
+f) Se ha elaborado la programación didáctica de un módulo específico, en situaciones simuladas que concreten, entre otras, el tipo de enseñanza y el entorno docente.
+
+g) Se ha valorado justificadamente la importancia de programar en la formación de técnicos deportivos.
+
+RA-2. Elabora las sesiones de formación de técnicos deportivos de la programación didáctica conforme a sus elementos, valorando las características del alumnado adulto, y analizando, seleccionando y diseñando recursos didácticos propios de las enseñanzas deportivas.
+
+a) Se han valorado las características individuales y psicosociales del alumnado, en una situación simulada de formación de técnicos deportivos con un grupo diverso que incluya elementos de atención a las personas con discapacidad.
+
+b) Se han analizado las características de los recursos didácticos (actividades, tareas, materiales y medios) y las pautas didácticas que facilitan el proceso de enseñanza-aprendizaje presencial y a distancia, en un supuesto práctico de sesión de formación de técnicos deportivos.
+
+c) Se han seleccionado y diseñado actividades, tareas, materiales y medios didácticos (tradicionales, digitales y multimedia), en una sesión de trabajo donde se establezca el tipo de sesión (teórica, práctica, presencial y a distancia), el módulo específico, la concreción curricular y la estructura de sesión.
+
+d) Se han seleccionado y diseñado recursos didácticos alternativos en una situación simulada de una incidencia técnica, debidamente caracterizada de atención a una necesidad educativa especial o aplicación del principio de igualdad de oportunidades entre mujeres y hombres en la formación de técnicos deportivos.
+
+e) Se ha valorado justificadamente la importancia de seleccionar y diseñar recursos didácticos en la programación didáctica previamente a su utilización en la formación de técnicos deportivos, así como recursos didácticos alternativos frente a posibles incidencias y en atención a la diversidad.
+
+RA-3. Imparte formación de técnicos deportivos conforme a la programación didáctica, aplicando la metodología de enseñanza-aprendizaje y analizando la disposición docente que facilita el aprendizaje y la evaluación.
+
+a) Se han demostrado comportamientos y actitudes docentes que potencien y afiancen el rendimiento y la implicación del alumnado adulto en su formación deportiva, en situaciones simuladas de dirección de sesiones donde se establezcan las características del alumnado.
+
+b) Se han aplicado los estilos de enseñanza y las estrategias pedagógicas de fomento de los estilos de aprendizaje adecuados a la adquisición de competencias profesionales, en un supuesto practico debidamente caracterizado en el que se establezca el tipo de práctica, la modalidad de enseñanza, el módulo específico y las características del alumnado.
+
+c) Se ha dirigido una sesión de formación de enseñanzas deportivas, en un supuesto practico debidamente caracterizado en el que se establezca el tipo de sesión (teórica o práctica), la modalidad de enseñanza y la programación de la sesión.
+
+d) Se han aplicado recursos didácticos alternativos, en un supuesto práctico de una incidencia técnica y en otro de atención a la diversidad en la formación de técnicos deportivos, poniendo en práctica los recursos que resulten más adecuados en cada caso.
+
+e) Se han aplicado las estrategias, instrumentos y formas de evaluación de competencias profesionales en las enseñanzas deportivas, en una situación simulada donde se establezcan las características de los alumnos y los criterios de evaluación de los resultados de aprendizaje de un módulo específico.
+
+f) Se ha resuelto de forma argumentada una reclamación de calificación presentada por un/a alumno/a de enseñanzas deportivas, en una situación simulada en la que se concrete la comunidad autónoma y la normativa a utilizar.
+
+RA-4. Tutoriza técnicos deportivos en su proceso de formación específica (módulos específicos, de formación práctica y proyecto final), analizando y aplicando las estrategias y procedimientos específicos de tutorización.
+
+a) Se han comparado las diferentes estrategias y procedimientos que permiten establecer una línea de trabajo continua y coherente entre los módulos del bloque específico y los del bloque común de las enseñanzas deportivas.
+
+b) Se han analizado las estrategias y procedimientos de actuación en la tutorización de técnicos deportivos y en la dirección de su proyecto final, para su seguimiento y orientación.
+
+c) Se han categorizado y aplicado las diferentes formas de contacto y colaboración con los centros de prácticas para la formalización del convenio de colaboración del módulo de formación práctica.
+
+d) Se han concretado los conceptos, procedimientos y actitudes establecidos en los criterios de evaluación del módulo de formación práctica que deben formar parte del guion de la memoria de prácticas.
+
+e) Se ha valorado la importancia de que el alumnado en prácticas recoja en un diario de campo el registro de lo realizado como elemento de aprendizaje reflexivo.
+
+f) Se han elaborado de forma justificada los apartados clave a incluir en el guion de la presentación oral y escrita de un proyecto final de las enseñanzas deportivas, en un supuesto práctico en el que se establezca la temática del proyecto.
+
+g) Se han ejemplificado estrategias de orientación a aplicar a un/a supuesto/a alumno/a en una situación simulada de seguimiento realizado en un ciclo superior de las enseñanzas deportivas, detectando los momentos en los que habrían sido necesarias.
+
+h) Se ha evaluado una memoria de prácticas o un proyecto final, en una situación simulada donde se establezca dicho documento y los criterios de evaluación de los resultados de aprendizaje de un módulo de formación práctica o de proyecto final.
+
+i) Se ha elaborado de forma justificada el modelo de informe de evaluación, en un supuesto práctico en el que se establece el tipo de módulo a informar.
+
+RA-5. Promueve el desarrollo ético y moral de técnicos y deportistas de alto rendimiento, valorando el impacto que sus comportamientos y actitudes tienen a nivel social, especialmente a través de los medios de comunicación.
+
+a) Se han analizado los valores y antivalores más relevantes relacionados con el alto rendimiento deportivo en la prensa y en las redes sociales.
+
+b) Se han analizado las características que ha de tener el tratamiento de la información deportiva en los medios de comunicación para transmitir valores, especialmente haciendo efectiva la no promoción de la violencia y la valoración del éxito deportivo de otros colectivos normalmente menos valorados como mujeres y personas con discapacidad.
+
+c) Se ha valorado el impacto social de actitudes y comportamientos deportivos y antideportivos de miembros del cuerpo técnico y de deportistas de alto rendimiento, en supuestos prácticos de interacción con los medios de comunicación.
+
+d) Se han analizado los estereotipos de género u otro tipo, conductas de violencia, valores y antivalores, en un supuesto práctico de actuación del equipo de alto rendimiento frente a un conflicto, o en uno personal de resolución de una conducta poco ética y moral del equipo.
+
+e) Se han aplicado estrategias de desarrollo ético y moral personal y del equipo a reflejar en los comportamientos y actitudes ante los medios de comunicación, en un supuesto práctico de dirección de un equipo de alto rendimiento.
+
+f) Se han aplicado estrategias de resolución de conductas poco éticas y morales ante los medios de comunicación, en un supuesto práctico personal o de un deportista de alto rendimiento.
+
+Contenidos básicos
+
+RA-1. Elabora la programación didáctica de los módulos de enseñanzas deportivas, analizando la normativa de ordenación de las mismas, de los centros docentes, del profesorado y de la evaluación, aplicando los procesos de programación y secuenciación.
+
+1\. Enumeración de elementos y secuenciación de la programación didáctica.
+
+2\. Programación didáctica en enseñanza presencial y a distancia: características diferenciales.
+
+3\. Ubicación de las enseñanzas deportivas en el sistema educativo.
+
+– Ordenación, estructura y organización básica.
+
+– Sistema Nacional de Cualificaciones y Formación Profesional: oferta formativa en relación con las enseñanzas deportivas.
+
+4\. Normativa específica básica de las enseñanzas deportivas a tener en cuenta en la programación didáctica.
+
+– Centros de enseñanzas deportivas.
+
+– Características del profesorado de enseñanzas deportivas.
+
+– Perfil profesional de los ciclos de enseñanzas deportivas.
+
+– Objetivos generales de los diferentes ciclos de las enseñanzas deportivas.
+
+– Ciclos, bloques y módulos de las enseñanzas deportivas.
+
+– Elementos curriculares de los módulos de las enseñanzas deportivas.
+
+– Normativa de evaluación en las enseñanzas deportivas.
+
+RA-2. Elabora las sesiones de formación de técnicos deportivos de la programación didáctica conforme a sus elementos, valorando las características del alumnado adulto, y analizando, seleccionando y diseñando recursos didácticos propios de las enseñanzas deportivas.
+
+1\. Valoración de las características psicosociales del alumnado adulto propio de las enseñanzas deportivas.
+
+– Aprendizaje de personas adultas. Teorías cognitivas del aprendizaje.
+
+– Métodos de valoración psicosocial.
+
+– Implicaciones de las características psicosociales en el aprendizaje adulto.
+
+2\. Atención a la diversidad en el alumnado de enseñanzas deportivas, Principio de individualización en la enseñanza-aprendizaje y medidas para su fomento en las mismas.
+
+– Atención a las personas con discapacidad. Principio de normalización.
+
+– Principio de igualdad de oportunidades entre mujeres y hombres.
+
+– Adaptación curricular.
+
+– Situaciones de aprendizaje coeducativas, cooperativas e interactivas.
+
+3\. Elementos de la sesión en la planificación de sesiones en la formación de técnicos deportivos.
+
+– Concreción curricular.
+
+– Estructura.
+
+4\. Recursos didácticos a utilizar en las sesiones de formación técnicos deportivos. Características y criterios de selección y elaboración para enseñanza presencial y a distancia.
+
+– Actividades y tareas.
+
+– Medios didácticos: tradicionales, digitales (nuevas tecnologías –las TIC– aplicadas a la educación) y multimedia.
+
+– Materiales específicos de las disciplinas deportivas.
+
+– Pautas didácticas para la adecuación de los recursos didácticos.
+
+– Alternativas en caso de fallo técnico de los recursos didácticos y frente a otras posibles incidencias en las enseñanzas deportivas.
+
+– Diseño de los recursos didácticos para la individualización del proceso de enseñanza-aprendizaje y en atención a la diversidad en las enseñanzas deportivas.
+
+RA-3. Imparte formación de técnicos deportivos conforme a la programación didáctica, aplicando la metodología de enseñanza-aprendizaje y analizando la disposición docente que facilita el aprendizaje y la evaluación.
+
+1\. Desarrollo de la actitud de disposición del profesorado en la intervención docente en la formación de técnicos deportivos, para potenciar y afianzar el rendimiento y la implicación del alumnado adulto en el aprovechamiento de su formación.
+
+– Componentes cognitivos, afectivos y conductuales de la actitud de disposición docente.
+
+2\. Aspectos metodológicos de la enseñanza-aprendizaje en la formación de técnicos deportivos.
+
+– Estilos y estrategias de aprendizaje en personas adultas.
+
+– Modelos de formación del profesorado en las enseñanzas deportivas.
+
+– Estilos de enseñanza en modalidad presencial y a distancia.
+
+– Dirección de sesiones en la formación de técnicos deportivos.
+
+3\. Evaluación de la formación de técnicos deportivos.
+
+– Estrategias de evaluación.
+
+– Instrumentos de evaluación.
+
+– Formas de evaluación.
+
+– Pautas y proceso para la adecuada atención de reclamaciones de calificaciones.
+
+RA-4. Tutoriza técnicos deportivos en su proceso de formación específica (módulos específicos, de formación práctica y proyecto final), analizando y aplicando las estrategias y procedimientos específicos de tutorización.
+
+1\. Análisis de la relación curricular existente entre los distintos módulos de los bloques común y específico de las enseñanzas deportivas a tener en cuenta en la tutorización.
+
+– Implicaciones en el seguimiento y orientación en la tutorización.
+
+2\. Seguimiento educativo en la tutorización grupal, personal, presencial y a distancia de los módulos del bloque específico en la formación de técnicos deportivos.
+
+– Estrategias para la monitorización y control del proceso educativo.
+
+– Aplicaciones informáticas específicas de gestión y seguimiento.
+
+3\. Orientación educativa en la tutorización grupal, personal, presencial y a distancia de los módulos del bloque específico en la formación de técnicos deportivos.
+
+– Potenciación y afianzamiento del rendimiento y la implicación del alumnado adulto en el aprovechamiento de su formación deportiva.
+
+4\. Aspectos específicos a tener en cuenta en la tutorización del módulo de formación práctica de las enseñanzas deportivas.
+
+– Establecimiento de contactos y convenios con entidades colaboradoras.
+
+– Estrategias y procedimientos de actuación específicos en su seguimiento y orientación.
+
+– Memoria de prácticas.
+
+– Diario de campo.
+
+5\. Aspectos específicos a tener en cuenta en la tutorización del módulo de proyecto final de las enseñanzas deportivas.
+
+– Dirección y tutorización de proyectos: estrategias y procedimientos de actuación específicos en su seguimiento y orientación.
+
+– Proyecto.
+
+– Presentación oral.
+
+6\. Funciones y efectos específicos de la tutorización en el proceso de evaluación de los diferentes módulos de las enseñanzas deportivas.
+
+– Análisis de la progresión en la consecución de los criterios de evaluación de los resultados de aprendizaje de los distintos módulos a lo largo del ciclo de la enseñanza deportiva.
+
+– Elaboración de informes de evaluación.
+
+RA-5. Promueve el desarrollo ético y moral de técnicos y deportistas de alto rendimiento, valorando el impacto que sus comportamientos y actitudes tienen a nivel social, especialmente a través de los medios de comunicación.
+
+1\. Ética y moral en el deporte de alto rendimiento. Valores propios.
+
+– Antivalores más relevantes y comunes. Estereotipos y violencia en el deporte de alto rendimiento.
+
+– Valores y rendimiento deportivo.
+
+2\. Deporte de alto rendimiento, su impacto social y su desarrollo ético y moral en relación con los medios de comunicación.
+
+– Interacción de los diferentes agentes del ámbito del alto rendimiento deportivo con los medios de comunicación: deportistas y cuerpo técnico.
+
+– Análisis del contenido de la información deportiva en los medios de comunicación: transmisión de valores y valoración del éxito en mujeres y personas con discapacidad.
+
+– Repercusión mediática de actitudes y comportamientos deportivos y antideportivos de las/os deportistas y del cuerpo técnico ante los medios de comunicación.
+
+– Estrategias para el análisis y la difusión de valores deportivos a través de los medios.
+
+> Se numera como Anexo II.d y se sustituye por el que figura en el Anexo III del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 2.3.d)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.e — Módulo común de enseñanza deportiva: Organización y gestión aplicada al alto rendimiento
+
+Código: MED-C304
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Revisa las condiciones de seguridad de los recursos materiales y equipamientos deportivos en instalaciones de alto rendimiento, utilizando la normativa vigente y aplicando criterios de protección contra riesgos, además de medidas de protección avanzadas.
+
+a) Se ha identificado la normativa básica y complementaria relativa a la seguridad aplicable a un supuesto práctico donde se concretan las características de una instalación deportiva de alto rendimiento.
+
+b) Se han aplicado los principales criterios de seguridad que deben cumplir las instalaciones y equipamientos deportivos de instalaciones de alto rendimiento, en un supuesto práctico donde se establece el marco normativo a utilizar y las características específicas de la instalación.
+
+c) Se han analizado las características de un plan de emergencia y evacuación en una instalación deportiva de alto rendimiento.
+
+d) Se han detallado estrategias y medidas de protección avanzadas contra riesgos antisociales y de violencia en el deporte, aplicables a una situación simulada debidamente caracterizada propia del alto rendimiento.
+
+RA-2. Organiza competiciones y eventos propios del nivel de tecnificación deportiva, analizando los requisitos administrativos, medios materiales y humanos necesarios, en relación con el marco legal que las regula y valorando los criterios de igualdad de género y sostenibilidad.
+
+a) Se ha identificado la estructura organizativa y la persona responsable de la competición de tecnificación deportiva, diferenciando sus funciones esenciales a partir de la normativa vigente.
+
+b) Se han categorizado de manera justificada las estrategias o herramientas utilizables en la búsqueda de financiación o apoyo económico de eventos y competiciones deportivas.
+
+c) Se ha elaborado el procedimiento de comunicación y difusión de los resultados, así como la gestión del protocolo de manera eficiente, aplicables en eventos reales o simulados.
+
+d) Se ha valorado el impacto ambiental y social de la celebración de eventos deportivos acorde a criterios de sostenibilidad, mediante la participación en espacios de discusión y análisis colectivo.
+
+RA-3. Acompaña a deportistas o equipos a competiciones de alto nivel y alto rendimiento, identificando el marco legislativo y organizativo de dichas competiciones y analizando las normativas de aplicación a deportistas profesionales, deportistas de alto nivel y alto rendimiento.
+
+a) Se ha analizado la normativa deportiva de ámbito internacional y su relación con la estructura administrativa del deporte, mediante un escenario de estudio realista.
+
+b) Se ha descrito la organización, estructura y funciones de los organismos deportivos internacionales más importantes, mediante el análisis de casos prácticos.
+
+c) Se ha descrito el régimen disciplinario y antidopaje y su relación con los organismos del deporte.
+
+d) Se ha analizado la normativa que afecta a Deportistas de Alto Nivel y Alto Rendimiento en España, a través de la revisión de casos representativos.
+
+e) Se han analizado las características de los programas de ayuda a la preparación de Deportistas de Alto Nivel y Alto Rendimiento de los deportes olímpicos, a través de la revisión de programas de apoyo reales.
+
+RA-4. Identifica las formas jurídicas y estructuras de las organizaciones deportivas, relacionándolas con la normativa vigente y aplicando procedimientos básicos de gestión económica.
+
+a) Se ha distinguido el grado de responsabilidad de las personas propietarias y gestoras de organizaciones deportivas, en función de su forma jurídica, mediante el análisis comparativo de distintas estructuras organizativas.
+
+b) Se han identificado los procedimientos de creación y puesta en marcha de una organización deportiva, en un supuesto práctico de emprendimiento en el que se establece la forma jurídica y la estructura de la organización deportiva.
+
+c) Se han enumerado los trámites de obtención de apoyo económico exigidos por la normativa vigente en los procesos de creación de organizaciones deportivas, adecuándolos a las características de cada organización.
+
+d) Se han seleccionado los procedimientos de gestión económica esenciales en la organización deportiva, a partir de una organización ficticia.
+
+RA-5. Selecciona las oportunidades de empleo, identificando itinerarios formativos profesionales, realizando una autovaloración de características personales y reconociendo organizaciones útiles para el asesoramiento en la búsqueda.
+
+a) Se ha valorado la importancia de la formación permanente como factor clave en la empleabilidad y la adaptación a las exigencias del mercado laboral y de la modalidad deportiva, mediante la participación en espacios de discusión y análisis colectivo.
+
+b) Se han identificado los itinerarios formativos profesionales que completan su perfil profesional y aumentan su empleabilidad, a partir de la búsqueda en bases de datos educativas y ofertas formativas actualizadas.
+
+c) Se han descrito posibilidades de empleo relacionadas con su perfil profesional, a partir de la búsqueda de oportunidades en el mercado.
+
+d) Se han analizado y aplicado herramientas de autoevaluación de las aspiraciones, actitudes y formación vinculadas con la búsqueda de empleo.
+
+e) Se han seleccionado de manera justificada las organizaciones de asesoramiento en la búsqueda de empleo, a partir de la consulta de portales de empleo y orientación profesional.
+
+Contenidos básicos
+
+RA-1. Revisa las condiciones de seguridad de los recursos materiales y equipamientos deportivos en instalaciones de alto rendimiento, utilizando la normativa vigente y aplicando criterios de protección contra riesgos, además de medidas de protección avanzadas.
+
+1\. Instalaciones deportivas: concepto y características funcionales.
+
+2\. Fundamentos normativos sobre seguridad en las instalaciones deportivas.
+
+3\. La información sobre seguridad en las instalaciones deportivas. Interpretación de la señalización de seguridad. Accesibilidad en instalaciones deportivas.
+
+4\. Procedimientos de revisión de los equipamientos deportivos.
+
+5\. Análisis y aplicación de los planes de emergencia y evacuación.
+
+6\. Medidas básicas de protección para las personas usuarias y las personas trabajadoras.
+
+7\. Protección contra actos antisociales y violencia en el deporte.
+
+RA-2. Organiza competiciones y eventos propios del nivel de tecnificación deportiva, analizando los requisitos administrativos, medios materiales y humanos necesarios, en relación con el marco legal que las regula y valorando los criterios de igualdad de género y sostenibilidad.
+
+1\. Competiciones deportivas. Estructura organizativa básica. Funciones y responsabilidades.
+
+2\. Vías de apoyo económicas y materiales.
+
+3\. Apoyo a la esponsorización del deporte femenino, su importancia en la organización de eventos de esta naturaleza.
+
+4\. Organización de actos de protocolo.
+
+5\. Gestión y difusión de los resultados de las competiciones deportivas.
+
+6\. Sostenibilidad en competiciones y eventos deportivos.
+
+– Medidas para minimizar las afecciones en la Biodiversidad y de restauración de zonas afectadas. Preservación de zonas frágiles, patrimonio arqueológico, histórico y cultural.
+
+– Medidas de ahorro y uso eficiente del agua.
+
+– Gestión de residuos y limpieza.
+
+– Minimizar el uso de energía, fomento de energías renovables.
+
+RA-3. Acompaña a deportistas o equipos a competiciones de alto nivel y alto rendimiento, identificando el marco legislativo y organizativo de dichas competiciones y analizando las normativas de aplicación a deportistas profesionales, deportistas de alto nivel y alto rendimiento.
+
+1\. Deporte internacional. Normativa de referencia:
+
+– Carta Olímpica.
+
+– Carta Europea del Deporte: personas con discapacidad.
+
+– Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+– Convención sobre los derechos de las personas con discapacidad: resolución de la Asamblea General de la ONU del 13 de diciembre de 2006 (artículo 30.5).
+
+2\. Organismos Internacionales.
+
+– Estructura y funciones: Comité Paralímpico Internacional, Comité Olímpico Internacional. Tribunal de Arbitraje del Deporte. Agencia Mundial Antidopaje.
+
+– Régimen Disciplinario.
+
+3\. Deporte Profesional. Concepto.
+
+– Ley del deporte.
+
+– Ligas profesionales españolas. Características.
+
+4\. Deporte de Alto Nivel (DAN) y de Alto Rendimiento (DAR).
+
+– Normativa de aplicación DAN y DAR.
+
+– Plan ADO y «Team España». Características.
+
+– Plan ADOP. Características.
+
+– Programas de apoyo a las deportistas DAN y DAR.
+
+RA-4. Identifica las formas jurídicas y estructuras de las organizaciones deportivas, relacionándolas con la normativa vigente y aplicando procedimientos básicos de gestión económica.
+
+1\. Organizaciones y empresas deportivas. Formas jurídicas. Estructura y funciones.
+
+2\. Elección de la forma jurídica.
+
+3\. Requisitos legales de constitución de organizaciones deportivas y empresas.
+
+4\. Vías de financiación de las organizaciones y empresas deportivas. Ayudas y subvenciones. Tramitación de solicitudes de ayudas y subvenciones.
+
+5\. Nociones básicas de contabilidad.
+
+6\. Análisis de la información contable.
+
+RA-5. Selecciona las oportunidades de empleo, identificando itinerarios formativos profesionales, realizando una autovaloración de características personales y reconociendo organizaciones útiles para el asesoramiento en la búsqueda.
+
+1\. Valoración de la importancia de la formación permanente para la trayectoria laboral y profesional del personal técnico deportivo superior.
+
+2\. Identificación de los itinerarios formativos relacionados con el personal técnico deportivo superior.
+
+3\. El proceso de búsqueda de empleo.
+
+4\. Técnicas e instrumentos de búsqueda de empleo.
+
+5\. El proceso de toma de decisiones.
+
+6\. Análisis de los intereses, aptitudes y motivaciones personales para la carrera profesional.
+
+7\. Análisis del mercado de entidades públicas y privadas orientadas al asesoramiento en la búsqueda de empleo.
+
+> Se numera como Anexo II.e y se sustituye por el que figura en el Anexo IV del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 2.3.e)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.f — Módulo específico de enseñanza deportiva: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL
+
+Código MED-VEVE301
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Gestiona la logística de los desplazamiento, aplicando principios de planificación, identificando las necesidades de transporte, alojamiento y aplicando la normativa existente.
+
+a. Se han aplicado las nociones básicas de la logística y sus principios de planificación en el alto rendimiento.
+
+b. Se han descrito las características de los medios necesarios en el transporte internacional, de embarcaciones y material utilizado en el alto rendimiento a vela con aparejo fijo y libre.
+
+c. Se han descrito y analizado, el contenido de la normativa aplicable al transporte de embarcaciones y material utilizado en el alto rendimiento a vela con aparejo fijo y libre, haciendo especial mención a aquellas que afectan a los remolques.
+
+d. Se han analizado la normativa de aduanas, relacionado con el transporte de embarcaciones.
+
+e. Se ha seleccionado de forma justificada el tipo de transporte en función del tipo de embarcación y de las características y lugar de la competición.
+
+f. Se han descrito las normas y procedimientos de actuación a realizar en caso de contingencias.
+
+g. Se ha valorado la importancia de la seguridad en las operaciones de transporte y almacenaje de las embarcaciones y el material utilizado en el alto rendimiento a vela con aparejo fijo y libre.
+
+h. Se han analizado las necesidades de alojamiento de regatistas antes y durante una competición de alto rendimiento.
+
+i. Se han aplicado los controles del transporte de embarcaciones y equipos.
+
+j. Se han descrito las características de los apoyos materiales (proveedores) necesarios y su aportación a las regatas de alto nivel.
+
+2\. Gestiona y organiza competiciones de vela de promoción, iniciación, tecnificación y colabora en los de alto rendimiento deportivo, de un club náutico analizando las características y requisitos materiales y humanos de los eventos de acuerdo con la clase de embarcación y las características técnicas del formato de competición.
+
+a. Se ha definido la categoría de la competición, teniendo en cuanta la Guía de la RFEV.
+
+b. Se han definido las fechas de la competición teniendo en cuenta la climatología, meteorología y temporada turística.
+
+c. Se ha descrito la estructura organizativa de una competición, analizando los diferentes comités, su composición y funciones.
+
+d. Se ha descrito la composición y funciones del equipo de tierra y su integración dentro de la organización.
+
+e. Se han caracterizado las funciones, los medios y recursos necesarios de la parte administrativa de una competición o gran evento.
+
+f. Se han definido la composición y las funciones del departamento de marketing y comunicación, para una correcta difusión del evento.
+
+g. Se han analizado las características técnicas del formato de competición a utilizar en una regata de alto rendimiento, de acuerdo con las Reglas de clase y la Guía de la RFEV.
+
+h. Se ha seleccionado un recorrido de este nivel, atendiendo a las características de la embarcación de alto rendimiento y del área de navegación.
+
+i. Se han enumerado las características de los diferentes tipos de recorridos en las competiciones de alto rendimiento en vela.
+
+j. Se han explicado los criterios que definen la categoría de una competición o gran evento.
+
+k. Se han descrito los permisos correspondientes a las autoridades competentes para la celebración de la competición o evento deportivo.
+
+l. Se han analizado las funciones de distribución, ubicación y alojamiento de los participantes en un supuesto práctico de organización del evento deportivo de alto rendimiento en vela.
+
+m. Se ha valorado la importancia de preparar con antelación los aspectos organizativos y de presupuesto en un evento de alto rendimiento en vela.
+
+3\. Recoge la información durante y el final del evento deportivo de alto rendimiento en vela, analizando los sistemas de recogida de datos, la documentación utilizable y aplicando técnicas para su procesamiento.
+
+a. Se han descrito las partes de que consta el manual de realización de la memoria de un evento deportivo.
+
+b. Se han analizado las características del balance económico de un evento, y los criterios de comprobación del equilibrio entre ingresos y gastos del balance.
+
+c. Se ha realizado el análisis de los GRPs (Gross Rating Point) de la campaña de difusión y comprobado la diferencia con los objetivos planificados.
+
+d. Se han examinado los informes de regata solicitados por el comité de competiciones de la RFEV sobre el desarrollo técnico y logístico de los eventos de alto rendimiento en vela.
+
+e. Se han analizado las características de los sistemas de recogidas de datos durante y al final de cada evento.
+
+f. Se han descrito los instrumentos de recogida de información en el análisis y control de los aspectos organizativos y logísticos de los eventos y competiciones de alto rendimiento de vela.
+
+g. Se ha analizado la información sobre el desarrollo técnico y logístico de los eventos y competiciones de alto rendimiento de vela.
+
+h. Se han clasificado las posibles incidencias que pueden surgir durante el desarrollo de los eventos de alto rendimiento a vela, relacionándolas con las decisiones a tomar y sus consecuencias.
+
+i. Se ha justificado la recogida y análisis de la información como base de la mejora continua en la organización de eventos y competiciones de alto rendimiento a vela.
+
+Contenidos básicos
+
+1\. Gestiona la logística de los desplazamientos, aplicando principios de planificación, identificando las necesidades de transporte, alojamiento y aplicando la normativa existente.
+
+– Nociones básicas de logística y planificación relacionadas con el transporte.
+
+– Necesidades y requerimientos de los sistemas de transporte, para embarcaciones y materiales.
+
+– Normativa del transporte de embarcaciones.
+
+– Normas sobre aduanas.
+
+– Tipos y programación de los transportes.
+
+– Carretera, ferrocarril, aéreo, marítimo.
+
+– Seguridad en el transporte y almacenaje.
+
+– Normas de actuación en contingencias.
+
+– Gestión administrativa del transporte.
+
+– Alojamiento de los deportistas en competiciones de alto rendimiento. Necesidades y características específicas.
+
+– Seguros necesarios, tanto para el transporte del material como del regatista.
+
+– Características de los proveedores necesarios y su aportación a las regatas de alto nivel.
+
+2\. Gestiona y organiza competiciones de vela de promoción, iniciación, tecnificación y colabora en los de alto rendimiento deportivo, de un club náutico analizando las características y requisitos materiales y humanos de los eventos de acuerdo con la clase de embarcación y las características técnicas del formato de competición.
+
+– Guía de organización de regatas.
+
+– Procedimientos previos:
+
+– Definir categoría de la regata según la Guía de la RFEV.
+
+– Decisión de fechas (climatología, meteorología, temporada turística).
+
+– Formación estructura organizativa:
+
+– Comité de honor. Funciones y Composición.
+
+– Comité organizador y ejecutivo.
+
+– Funciones, composición y responsabilidades.
+
+– Comité de regatas de protestas y de medición.
+
+– Funciones, composición, perfiles, anuncio de regatas e instrucciones de regata, secretaría.
+
+– Equipo de tierra. Funciones y actividades y composición.
+
+– Administración de la regata:
+
+– Confección y administración financiera de la regata.
+
+– Composición y funciones.
+
+– Normas de administración.
+
+– Alojamientos, distribución y ubicación de los regatistas.
+
+– Departamento de marketing y comunicación:
+
+– Composición y funciones.
+
+– Criterios que definen una regata o evento de alto rendimiento.
+
+– Características técnicas de los formatos de competición de alto rendimiento.
+
+– Características de los distintos tipos de recorridos y áreas de navegación según las clases que compiten.
+
+– Real Decreto 62/2008 de 25 de enero: normativa de aplicación y solicitud de permisos.
+
+3\. Recoge la información durante y el final del evento deportivo de alto rendimiento en vela, analizando los sistemas de recogida de datos, la documentación utilizable y aplicando técnicas para su procesamiento.
+
+Manual de realización de la memoria de un evento deportivo de vela de alto rendimiento.
+
+– Balance económico de un evento de vela de alto rendimiento.
+
+– Análisis de difusión GRPs (Gross Rating Point).
+
+– Análisis e interpretación de los informes del comité de regatas.
+
+– Recogida, análisis y clasificación de las incidencias ocurridas durante la celebración del evento o regata de alto rendimiento.
+
+– Cuestionarios de evaluación de incidencias y decisiones tomadas.
+
+– Sistemas de recogida de información en el desarrollo de una competición o evento deportivo de alto rendimiento.
+
+– Instrumentos de recogida de información durante el desarrollo de la competición de alto rendimiento en vela.
+
+– Análisis de la información para la mejora continúa de la organización de eventos y competiciones de alto rendimiento a vela.
+
+– Posibles incidencias que se puedan presentar en un supuesto de realización de un evento o regata de alto nivel y procedimiento de resolución.
+
+> Se numera como Anexo II.f por el art. 2.3.f) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.g — Módulo específico de enseñanza deportiva: Seguridad de las instalaciones y las regatas de alto nivel con AF y AL
+
+Código MED-VEVE302
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Evalúa la legislación vigente sobre auxilios, salvamento y abordajes, zonas de navegación, supervivencia, evacuación de embarcaciones, así como la organización de la administración Marítima y su relación con la seguridad.
+
+a. Se ha explicado la organización de la administración marítima y su aplicación a la seguridad de las actividades de alto rendimiento.
+
+b. Se ha analizado la legislación existente sobre remolques de embarcaciones, auxilios y salvamento y su aplicación a la seguridad de las actividades de alto rendimiento.
+
+c. Se han descrito los seguros de responsabilidad civil obligatorios y los riesgos que cubren.
+
+d. Se han analizado las zonas de navegación según el BOE 1144/2003 y su relación con las áreas de navegación de las actividades de alto rendimiento.
+
+e. Se ha analizado la utilización de las balsas salvavidas en caso de emergencia, así como el abandono del barco.
+
+f. Se han interpretado los protocolos de supervivencia en caso de utilización de una balsa salvavidas.
+
+g. Se han especificado los protocolos de evacuación de tripulantes de una embarcación por medio de helicóptero.
+
+h. Se ha analizado el Real Decreto 62/2008, relacionado con la seguridad marítima en pruebas náuticas-deportivas.
+
+i. Se ha analizado, la aplicación del convenio MARPOL, anexos I, IV y V en la prevención de la contaminación marítima.
+
+j. Se han analizado las condiciones de varada o abordaje en relación con la contaminación marítima.
+
+k. Se han analizado los equipos de seguridad, salvamento, contra incendios y de navegación de las embarcaciones de recreo en relación con la orden FOM/1144/2003 de 28 de abril.
+
+2\. Emplea instrumentos de comunicación, demostrando sus características, aplicando técnicas de preparación y mantenimiento de los aparatos y analizando los sistemas y códigos de comunicación adecuados a la navegación.
+
+a. Se ha demostrado el conocimiento y utilización de las radiobalizas en un caso de emergencia.
+
+b. Se han descrito los protocolos de utilización del Sistema Mundial de Socorro y Seguridad Marítima en las zonas 2, 3, 4 y 5, y su relación con las Zonas Marítimas A1 y A2.
+
+c. Se han demostrado los procedimientos operacionales de comunicación de socorro, urgencia y seguridad, utilizando los aparatos de VHF y MF.
+
+d. Se han analizado los protocolos del sistema internacional de búsqueda y recate, a través de satélites, COSPAS – SARSAT.
+
+e. Se han descrito los centros de comunicaciones radio marítimas y su metodología de comunicación.
+
+f. Se han descrito los protocolos de utilización del Servicio Radio médico.
+
+g. Se han descrito las disposiciones Radioeléctricas para embarcaciones de recreo de la zona de navegación 2, 3, 4 y 5.
+
+3\. Diseña y evalúa la seguridad de la práctica deportiva de la vela y de las instalaciones deportivas utilizadas, teniendo en cuenta la normativa de aplicación y las medidas de protección del medio ambiente.
+
+a. Se ha descrito las características y procedimientos a seguir en el desarrollo del plan de seguridad ante situaciones de emergencia en el transcurso de la celebración de una competición a vela de tecnificación, identificando los medios necesarios.
+
+b. Se han desarrollado los criterios de seguridad que han de cumplir los equipamientos necesarios en la práctica de la vela.
+
+c. Se ha analizado la normativa de aplicación en relación con la seguridad específica en las instalaciones náuticas para su aplicación en el Plan de Seguridad.
+
+d. Se han analizado los distintos tipos de señalización de seguridad específica de una instalación náutica.
+
+e. Se han definido los requisitos específicos de seguridad que han de cumplir las instalaciones y equipamiento náutico para los usuarios y los trabajadores, según la normativa vigente.
+
+f. Se ha valorado la importancia de establecer los planes de emergencia y evacuación en una instalación deportiva de vela.
+
+g. Se ha valorado la importancia de las medidas de protección del medio ambiente en la práctica deportiva.
+
+h. Se han definido las medidas de protección del medio ambiente en las instalaciones deportivas.
+
+i. Se ha definido las características y procedimientos a seguir para el desarrollo del plan de emergencia y evacuación, durante el transcurso de la celebración de una competición a vela, identificando los medios necesarios.
+
+j. Se ha descrito las características y procedimientos a seguir para el desarrollo del plan de actuación de salvamento en el agua en el transcurso de la celebración de una competición a vela, identificando los medios necesarios.
+
+k. Se han justificado y aplicado, en un supuesto práctico, las medidas de seguridad a adoptar en un entrenamiento o regata en la etapa de tecnificación de vela con aparejo fijo y libre.
+
+Contenidos básicos
+
+1\. Evalúa la legislación vigente sobre auxilios, salvamento y abordajes, zonas de navegación, supervivencia, evacuación de embarcaciones, así como la organización de la administración Marítima y su relación con la seguridad.
+
+– Organización de la Administración Marítima. Capitanías Marítimas. Patente de navegación.
+
+– Legislación sobre remolques, auxilios, salvamento y abordajes.
+
+– Seguros de responsabilidad civil obligatoria. Registro de buques.
+
+– Zonas de navegación s/ BOE 1144/2003.
+
+– Balsas salvavidas, abandono del barco, supervivencia, organización de la balsa, evacuación por medio de helicóptero.
+
+– Análisis Real Decreto 62/2008 de 25 de enero, seguridad marítima en pruebas náutico-deportivas.
+
+– Prevención de la contaminación marítima, convenio MARPOL.
+
+– Anexo I: Reglas para prevenir la contaminación por hidrocarburos.
+
+– Anexo IV: Contaminación por aguas sucias.
+
+– Anexo V: Contaminación por basuras.
+
+– Plan de emergencia de contaminación marina por varada o abordaje.
+
+Régimen de equipos de seguridad, salvamento, contra incendios y de navegación de las embarcaciones de recreo según orden FOM/1144/2003 de 28 de abril.
+
+2\. Emplea aparatos de comunicación, demostrando sus características, aplicando técnicas de preparación y mantenimiento de los aparatos y analizando los sistemas y códigos de comunicación adecuados a la navegación.
+
+– Radiobalizas de 406 MHz., características, manejo y utilización.
+
+– Sistema SMSSM (sistema mundial de socorro y seguridad marítima), zona de navegación 2 y su relación con las zonas Marítimas A1 y A2, según RD 1185/2006 de 16 de octubre, por le que se regulan las radiocomunicaciones marítimas.
+
+– Llamada Selectiva Digital (LSD), conceptos básicos.
+
+– Procedimientos operacionales para comunicación de socorro, urgencia y seguridad en VHF y MF.
+
+– Sistema Internacional de Búsqueda y rescate, COSPAS – SARSAT, conceptos básicos del sistema, cobertura.
+
+– Centros de comunicaciones radio marítimas (CCR). Zonas náuticas y metodología de comunicación.
+
+– Disposiciones radioeléctricas para embarcaciones de recreo de zonas de navegación 2, 3, 4 y 5.
+
+3\. Diseña y evalúa la seguridad de la práctica deportiva de la vela y de las instalaciones deportivas utilizadas, teniendo en cuenta la normativa de aplicación y las medidas de protección del medio ambiente.
+
+– Plan de seguridad en una competición o entrenamiento de tecnificación, en tierra y en el agua.
+
+– Criterios de seguridad de los equipamientos para la práctica de la vela.
+
+– Normas de seguridad en las instalaciones náuticas.
+
+– Señalización de las instalaciones náuticas.
+
+– Normativa sobre seguridad. Medidas de protección para usuarios y trabajadores.
+
+– Seguridad preventiva (barcos, material, alumnos, técnicos).
+
+– Plan de emergencia y evacuación de las instalaciones.
+
+– Protocolos de actuación: sucesos y contingencias más frecuentes.
+
+– Organización del personal de seguridad y del material.
+
+– Embarcaciones, tripulaciones.
+
+– Plan de actuación de salvamento en el agua.
+
+> Se numera como Anexo II.g por el art. 2.3.g) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.h — Módulo específico de enseñanza deportiva: Organización y gestión del centro deportivo de vela con AF y AL
+
+Código MED-VEVE303
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Realiza la dirección de los centros deportivos y escuelas de vela, analizando las características de las actividades, los requisitos organizativos y administrativos, y caracterizando los recursos materiales y humanos en función del entorno.
+
+a. Se han seleccionado y justificado los objetivos de un centro deportivo o escuela de vela, en función de las características del entorno en el que se encuentra.
+
+b. Se ha descrito la estructura económica–administrativa de un centro deportivo o escuela de vela.
+
+c. Se han revisado y autorizado los programas de enseñanza de los centros deportivos y escuelas de vela, que sean necesarios.
+
+d. Se han relacionado los medios humanos y materiales con los objetivos de un centro náutico o escuela.
+
+e. Se ha definido la organización y organigrama que tiene que tener los centros o escuelas de vela en función de las instalaciones y recursos necesarios del centro.
+
+f. Se ha descrito la normativa que debe cumplir un centro náutico o escuela de vela en relación con la seguridad de las instalaciones y de las actividades.
+
+g. Se han seleccionado los requisitos de seguridad de un centro de vela, en función de la oferta de actividades y de las características del entorno natural.
+
+h. Se han analizado las características de un centro náutico deportivo, o escuela de vela, y de sus instalaciones en relación con la oferta de actividades y el entorno natural existente.
+
+i. Se han analizado las características que definen el entorno necesario en la construcción de un centro náutico o una escuela de vela.
+
+j. Se ha relacionado el tipo de actividades a desarrollar en un centro náutico o escuela de vela con sus objetivos y las características del entorno disponible.
+
+k. Se ha valorado la importancia de realizar un análisis detallado de las características de las actividades a desarrollar en el centro deportivo o escuela de vela.
+
+2\. Planifica, coordina y dirige la actividad de otros técnicos deportivos y especialistas, analizando las funciones de los mismos en el entrenamiento y la competición de alto rendimiento, y caracterizando la estructura de un centro de alto rendimiento.
+
+a. Se han definido las funciones y tareas del coordinador de la actividad.
+
+b. Se ha analizado la lista de tareas y su distribución entre los diferentes técnicos.
+
+c. Se han definido los distintos perfiles de los especialistas que colaboran, en la preparación de los regatistas de alto rendimiento.
+
+d. Se han analizado las funciones de los técnicos especialistas que colaboran en la preparación de los regatistas.
+
+e. Se ha realizado la planificación de las actividades a desarrollar por los técnicos y su interrelación.
+
+f. Se han detallado los medios materiales, técnicos y pedagógicos necesarios en un centro de alto rendimiento de vela.
+
+g. Se ha detallado la infraestructura en tierra y en el agua, necesarios en un centro de alto rendimiento de vela.
+
+h. Se ha detallado la organización administrativa necesaria en un centro de alto rendimiento de vela.
+
+i. Se ha valorado la necesidad de planificar y coordinar a otros técnicos, como medio eficaz y eficiente en la puesta en práctica de los entrenamientos y regatas de alto rendimiento.
+
+3\. Realiza el diseño de los programas y proyectos deportivos, de un centro deportivo o escuela de vela, justificando las características de un proyecto deportivo, analizando las características de los centros náuticos en Europa y los criterios de homologación de una escuela de vela.
+
+a. Se han justificado las distintas partes de las que consta un proyecto deportivo.
+
+b. Se ha seleccionado el material didáctico de enseñanza utilizado en los centros deportivos y escuelas de vela.
+
+c. Se ha analizado, de acuerdo a la normativa vigente, las características referentes a seguridad y calidad que han de cumplir los proyectos deportivos.
+
+d. Se han analizado los estándares de enseñanza y los distintos niveles y su relación con los proyectos deportivos y las condiciones del entorno.
+
+e. Se han detallado las fases de control de los proyectos deportivos y su relación con la calidad.
+
+f. Se han descrito los requisitos básicos que ha de cumplir una escuela de vela, según la legislación vigente y la norma establecida por los órganos competentes.
+
+g. Se han analizado las condiciones y características necesarias para la homologación de una escuela de vela.
+
+h. Se han analizado, de acuerdo con la normativa vigente, las condiciones que ha de cumplir una escuela de vela, en relación con la seguridad, adaptación y calidad de las actividades a desarrollar.
+
+i. Se han identificado la importancia de cada uno de los factores que intervienen en el programa de homologación de escuelas de vela.
+
+j. Se ha identificado los aspectos a mejorar en una escuela de vela en función de los criterios de homologación vigentes.
+
+k. Se han analizado las características más significativas de los centros náuticos y escuelas de vela europeas.
+
+4\. Orienta al deportista sobre las salidas profesionales de la vela, analizando los perfiles profesionales de los títulos deportivos y profesionales, y los requisitos de los programas de enseñanza de los mismos.
+
+a. Se han definido los distintos niveles de los técnicos deportivos de vela y sus requisitos de acceso, según las leyes vigentes.
+
+b. Se ha analizado el perfil profesional de los títulos de Técnico en vela y sus especializaciones, en relación con las posibles salidas profesionales.
+
+c. Se ha analizado el perfil profesional de los títulos profesionales, y su relación con las posibles salidas profesionales de la vela.
+
+d. Se ha analizado el entorno profesional del técnico deportivo en vela, y su relación con las diferentes titulaciones deportivas y profesionales existentes.
+
+e. Se han analizado las características y motivaciones de los regatistas y sus posibles vinculaciones a los itinerarios profesionales en el ámbito de la vela.
+
+f. Se ha analizado y gestionado la documentación necesaria para el acceso a los cursos de formación de los técnicos deportivos en vela.
+
+g. Se ha valorado la importancia de la formación permanente en los diferentes ámbitos de la vela como medio de adaptación a las demandas sociales.
+
+h. Se ha valorado la importancia de la salud y seguridad de los técnicos deportivos durante el desarrollo de sus funciones.
+
+i. Se han definido las características del mercado laboral del técnico deportivo superior.
+
+j. Se han descrito las funciones y tareas propias del técnico deportivo superior.
+
+k. Se han identificado las características más significativas del desarrollo profesional de los técnicos de vela en los países de la unión europea.
+
+Contenidos básicos
+
+1\. Realiza la dirección de los centros deportivos y escuelas de vela, así como su gestión económica y administrativa y organización de recursos humanos y materiales.
+
+– Estructura económica administrativa de un centro náutico o escuela de vela.
+
+– Administración de las instalaciones.
+
+– Financiación de los centros náuticos y escuelas de vela.
+
+– Presupuestos.
+
+– Ingresos.
+
+– Dirección de un centro náutico o escuela de vela.
+
+– Objetivos.
+
+– Programas.
+
+– Medios humanos y materiales.
+
+– Organización, organigrama.
+
+– Política de dirección.
+
+– Seguridad en un centro náutico deportivo o escuela de vela.
+
+– La seguridad en la enseñanza de la vela.
+
+– La seguridad en la formación de los técnicos deportivos de vela.
+
+– La seguridad en los métodos de enseñanza.
+
+– Mentalización de la seguridad.
+
+– Seguridad operativa.
+
+– Documentación.
+
+– Instalaciones deportivas náuticas.
+
+– Qué es un centro náutico deportivo.
+
+– Dónde se construye.
+
+– Medios con los que debe de contar
+
+2\. Planifica, coordina y dirige la actividad de otros técnicos deportivos y especialistas, analizando las funciones de los mismos en el entrenamiento y la competición de alto rendimiento, y caracterizando la estructura de un centro de alto rendimiento de vela.
+
+– Funciones y tareas del coordinador de la actividad.
+
+– Antes del inicio de la actividad, durante y después de la actividad.
+
+– Lista de tareas y distribución entre los diferentes técnicos deportivos de vela.
+
+– Coordinación de las reuniones.
+
+– Perfil de los especialistas que colaboran:
+
+– Análisis de sus funciones.
+
+– Planificación de sus tareas.
+
+– Estructura de un centro de alto rendimiento de vela.
+
+– Medios materiales, técnicos, pedagógicos y humanos.
+
+– Infraestructura, en tierra y en el agua, servicios de grúa.
+
+– Organización administrativa.
+
+– Servicios multidisciplinares, médico, meteorólogo, fisioterapeuta, etc.
+
+3\. Realiza el diseño de los programas y proyectos deportivos, de un centro deportivo o escuela de vela, justificando las características de un proyecto deportivo, analizando las características de los centros náuticos en Europa y los criterios de homologación de una escuela de vela.
+
+– Proyecto deportivo:
+
+– Justificación y necesidades.
+
+– Análisis de oportunidades, puntos fuertes, puntos débiles, clientes potenciales.
+
+– Estructura organizativa, recursos humanos, organigrama.
+
+– Infraestructura necesaria en tierra y en el agua.
+
+– Material de enseñanza, simuladores.
+
+– Material de seguridad. Normas y leyes vigentes.
+
+– Marketing, cómo dar a conocer el proyecto.
+
+– Ejecución y control de proyectos. Calidad.
+
+– Los estándares de la enseñanza, función, integración en los proyectos.
+
+– Homologación de las escuelas de vela, normas vigentes, proceso de homologación, requisitos a cumplir.
+
+– Los centros náuticos y escuelas de vela en Europa.
+
+4\. Orienta al deportista sobre las salidas profesionales de la vela, analizando los perfiles profesionales de los títulos deportivos y profesionales, y los requisitos de los programas de enseñanza de los mismos.
+
+– Desarrollo de las nuevas titulaciones de técnicos deportivos.
+
+– Niveles, requisitos de acceso.
+
+– Perfiles profesionales de los técnicos deportivos y sus salidas profesionales.
+
+– Perfiles profesionales de los títulos profesionales náuticos y sus salidas laborales.
+
+– Competencias profesionales del técnico deportivo superior.
+
+– Salud y seguridad de los técnicos deportivos.
+
+– Características del desarrollo profesional de los técnicos de vela en los países de la comunidad europea.
+
+> Se numera como Anexo II.h por el art. 2.3.h) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.i — Módulo específico de enseñanza deportiva: Análisis de situaciones tácticas en la competición de alto rendimiento
+
+Código MED-VEVE304
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Resuelve situaciones tácticas de las regatas de alto rendimiento, analizando las Preguntas y Respuestas de las Reglas de regatas de la ISAF.
+
+a. Se ha analizado el manual de preguntas y respuestas de reglas de regata, de la ISAF, relativas a las reglas fundamentales y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+b. Se ha analizado el manual de preguntas y respuestas de las reglas de regata de la ISAF, relativas a Cuando los Barcos se Encuentran y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+c. Se ha analizado el manual de preguntas y respuestas de las reglas de regata de la ISAF, relativas a la conducción de una regata y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+d. Se ha analizado el manual de preguntas y respuestas de las reglas de regata de la ISAF, relativas a Otros requisitos durante la regata y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+e. Se ha analizado el manual de preguntas y respuestas de las reglas de regata de la ISAF, relativas a Protestas, Reparaciones, Audiencias, Mal comportamiento y Apelaciones y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+f. Se ha analizado el manual de preguntas y respuestas de reglas de regata de la ISAF, relativas a inscripción y cualificación y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+g. Se ha analizado el manual de preguntas y respuestas de las reglas de regata de la ISAF, relativas a Organización de regatas y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+h. Se ha valorado la importancia del análisis del manual de la ISAF y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+2\. Resuelve situaciones tácticas de las regatas de alto rendimiento, analizando el call book para Match Race de la ISAF.
+
+a. Se han Analizado las distintas situaciones referentes a las Reglas de regatas de Match Race del apéndice C del reglamento de regatas a vela (RRV) descritas en el call book para Match Race de la ISAF y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+b. Se han desarrollado distintos supuestos de las distintas situaciones referentes a las reglas de regatas de Match Race del apéndice C de RRV descritas en el call book para March Race de la ISAF y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+c. Se han analizado las distintas situaciones referentes a las reglas fundamentales del RRV descritas en el call book para March Race de la ISAF y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+d. Se han analizado las distintas situaciones referentes a los derechos de paso del RRV descritas en el call book para March Race de la ISAF y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+e. Se han analizado las distintas situaciones referentes a las Limitaciones Generales del RRV descritas en el call book para March Race de la ISAF y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+f. Se han analizado las distintas situaciones referentes a las Reglas en Balizas y Obstáculos del RRV descritas en el call book para March Race de la ISAF y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+g. Se han analizado las distintas situaciones referentes a otras reglas del RRV descritas en el call book para March Race de la ISAF y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+h. Se han desarrollado distintas situaciones referentes a las reglas generales del RRV descritas en el call book para March Race y su aplicación a las regatas de alto rendimiento.
+
+i. Se ha valorado la importancia del análisis del manual de la ISAF y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+3\. Resuelve situaciones tácticas de las regatas de alto rendimiento, analizando el call book para regatas por Equipo de la ISAF.
+
+a. Se han Analizado las distintas situaciones referentes a las definiciones descritas en el call book para regatas por equipos y su aplicación a las regatas de alto rendimiento.
+
+b. Se han Analizado las distintas situaciones referentes a las presalidas descritas en el call book para regatas por equipos y su aplicación a las regatas de alto rendimiento.
+
+c. Se han Analizado las distintas situaciones referentes a las Salidas descritas en el call book para regatas por equipos y su aplicación a las regatas de alto rendimiento.
+
+d. Se han Analizado las distintas situaciones referentes al Tramo de Ceñida descritas en el call book para regatas por equipos y su aplicación a las regatas de alto rendimiento.
+
+e. Se han Analizado las distintas situaciones referentes a la toma de la Baliza de Barlovento descritas en el call book para regatas por equipos y su aplicación a las regatas de alto rendimiento.
+
+f. Se han Analizado las distintas situaciones referentes a la navegación en la Misma Bordada descritas en el call book para regatas por equipos y su aplicación a las regatas de alto rendimiento.
+
+g. Se han Analizado las distintas situaciones referentes a la navegación en Popa descritas en el call book para regatas por equipos y su aplicación a las regatas de alto rendimiento.
+
+h. Se han Analizado las distintas situaciones referentes a la Baliza de Trasluchada descritas en el call book para regatas por equipos y su aplicación a las regatas de alto rendimiento.
+
+i. Se han Analizado las distintas situaciones referentes a la toma de la Baliza de Sotavento descritas en el call book para regatas por equipos y su aplicación a las regatas de alto rendimiento.
+
+j. Se han Analizado las distintas situaciones referentes a la línea de llegada descritas en el call book para regatas por equipos y su aplicación a las regatas de alto rendimiento.
+
+k. Se ha valorado la importancia del análisis del manual de la ISAF y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+4\. Resuelve situaciones tácticas de las regatas de alto rendimiento, analizando el Libro de Casos de la ISAF.
+
+a. Se han analizado las Interpretaciones del RRV realizado en el libro de casos de la ISAF relativas a las reglas fundamentales y su aplicación a las regatas de alto rendimiento.
+
+b. Se han analizado las Interpretaciones del RRV realizado en el libro de casos de la ISAF relativas a Cuando los Barcos se Encuentran y su aplicación a las regatas de alto rendimiento.
+
+c. Se han analizado las Interpretaciones del RRV realizado en el libro de casos de la ISAF relativas a la conducción de una regata y su aplicación a las regatas de alto rendimiento.
+
+d. Se han analizado las Interpretaciones del RRV realizado en el libro de casos de la ISAF relativas a Otros Requisitos Durante la Regata y su aplicación a las regatas de alto rendimiento.
+
+e. Se han analizado las Interpretaciones del RRV realizado en el libro de casos de la ISAF relativas a protestas, reparaciones, audiencias, mal comportamiento y apelaciones y su aplicación a las regatas de alto rendimiento.
+
+f. Se han analizado las interpretaciones del RRV realizado en el libro de casos de la ISAF relativas a inscripción y cualificación y su aplicación a las regatas de alto rendimiento.
+
+g. Se han analizado las Interpretaciones del RRV realizado en el libro de casos de la ISAF relativas a organización de regatas y su aplicación a las regatas de alto rendimiento.
+
+h. Se ha valorado la importancia del análisis del manual de la ISAF y su aplicación a las situaciones tácticas de las regatas de alto rendimiento.
+
+Contenidos básicos
+
+1\. Resuelve situaciones tácticas de las regatas de alto rendimiento, analizando las preguntas y respuestas de las reglas de regatas de la ISAF.
+
+– ISAF Racing Rules Questions and Answer.
+
+– Preguntas y respuestas referentes a las reglas fundamentales.
+
+– Preguntas y respuestas referentes a cuando los barcos se encuentran.
+
+– Preguntas y respuestas referentes a la conducción de una regata.
+
+– Analizar las preguntas y respuestas referentes a Otros Requisitos Durante la Regata.
+
+– Preguntas y respuestas referentes a protestas, reparaciones, audiencias, mal comportamiento y apelaciones.
+
+– Preguntas y respuestas referentes a Inscripción y Cualificación.
+
+– Preguntas y respuestas referentes a organización de regatas.
+
+2\. Resuelve situaciones tácticas de las regatas de alto rendimiento, analizando el call book para Match Race de la ISAF.
+
+– ISAF call book Match Race.
+
+– Situaciones referentes a las Reglas de regatas de Match Race del RRV apéndice C.
+
+– Situaciones referentes a Reglas Generales del RRV:
+
+– Reglas fundamentales.
+
+– Derechos de paso.
+
+– Limitaciones generales.
+
+– Balizas y obstáculos.
+
+– Otras reglas.
+
+3\. Resuelve situaciones tácticas de las regatas de alto rendimiento, analizando el call book para regatas por equipo de la ISAF.
+
+– ISAF Racing Rules Questions and Answer.
+
+– Situaciones tácticas referentes a las definiciones.
+
+– Situaciones tácticas referentes a las pre-salidas.
+
+– Situaciones tácticas referentes a las salidas.
+
+– Situaciones tácticas referentes al tramo de ceñida.
+
+– Situaciones tácticas referentes a la toma de la baliza de barlovento.
+
+– Situaciones tácticas referentes a la navegación en la misma bordada.
+
+– Situaciones tácticas referentes a la navegación en popa.
+
+– Situaciones tácticas referentes a la baliza de trasluchada.
+
+– Situaciones tácticas referentes a la toma de la baliza de sotavento.
+
+– Situaciones tácticas referentes a la llegada.
+
+4\. Resuelve situaciones tácticas de las regatas de alto rendimiento, analizando el libro de casos de la ISAF.
+
+– Libro de casos de la ISAF
+
+– Situaciones referentes a las reglas fundamentales.
+
+– Situaciones referentes a cuando los Barcos se encuentran.
+
+– Situaciones referentes a la conducción de una regata.
+
+– Situaciones referentes a otros requisitos durante la regata.
+
+– Situaciones referentes a protestas, reparaciones, audiencias, mal comportamiento y apelaciones.
+
+– Situaciones referentes a inscripción y cualificación.
+
+– Situaciones referentes a organización de regatas.
+
+> Se numera como Anexo II.i por el art. 2.3.i) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.j — Módulo específico de enseñanza deportiva: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento
+
+Código MED-VEVE305
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Utiliza medios audiovisuales en el registro y valoración del entrenamiento y la competición, caracterizando los diferentes medios utilizables, aplicando técnicas y procedimientos específicos de manejo y mantenimiento.
+
+a. Se han identificado los medios audiovisuales adecuados en el análisis y seguimiento del entrenamiento y la competición: caracterización de los medios: video, fotografía, otros.
+
+b. Se han concretado las técnicas de manejo de las cámaras de video y de fotos, utilizados en el apoyo, seguimiento y control del entrenamiento y la competición.
+
+c. Se ha descrito los conceptos básicos de utilización de la cámara de video para la filmación correcta en el agua.
+
+d. Se ha descrito los conceptos básicos de utilización de la cámara de fotos para la filmación correcta en el agua.
+
+e. Se han identificado los recursos necesarios para llevar a cabo la realización de la filmación.
+
+f. Se han analizado las condiciones de navegación en la realización de las filmaciones.
+
+g. Se han descrito los cuidados que se deben de tener en el agua con las cámaras.
+
+h. Se han definido los protocolos de mantenimiento de los equipos de filmación.
+
+2\. Dirige y realiza filmaciones durante los entrenamientos, utilizando el manual de filmaciones para la correcta posición de la cámara y la realización de tomas adecuadas en las distintos rumbos de navegación.
+
+a. Se ha descrito el manual de filmación y su estructura en la realización de las filmaciones en entrenamiento de puesta a punto o realización de maniobras.
+
+b. Se han seleccionado las distintas tomas a realizar para sacar los planos de las velas.
+
+c. Se han seleccionado las distintas tomas a realizar del barco en la línea de salida, desde distintas posiciones.
+
+d. Se han seleccionado las distintas tomas a realizar del barco y de la tripulación en la realización de una virada, por avante.
+
+e. Se han seleccionado las distintas tomas a realizar del barco y de la tripulación en la realización de una trasluchada.
+
+f. Se han seleccionado las distintas tomas a realizar durante el izado y arriado del spinnaker.
+
+g. Se descrito las distintas filmaciones a realizar del barco y de la tripulación en la baliza de barlovento.
+
+h. Se ha descrito cómo debe elaborarse un guión de realización de una filmación, en relación con la técnica a analizar.
+
+i. Se ha descrito el manual de fotografía y su estructura en la realización de la fotografías de las velas en un entrenamiento de puesta a punto.
+
+j. Se ha realizado un ejercicio práctico de utilización de una cámara de video digital para la filmación de un entrenamiento o regata.
+
+k. Se ha realizado un ejercicio práctico de utilización de una cámara de fotos digital para la filmación de un entrenamiento o regata.
+
+l. Se han seleccionado los recursos necesarios para la realización de las filmaciones en el agua.
+
+3\. Edita y analiza el material filmado, aplicando procedimientos en la detección y corrección de errores.
+
+a. Se han descrito los métodos y procedimientos de edición de videos y su preparación.
+
+b. Se han descrito los procedimientos básicos del programa informático de edición de videos.
+
+c. Se ha descrito los procedimientos básicos de utilización del equipo de visualización.
+
+d. Se han descrito los procedimientos básicos de utilización de los programas de diagnóstico visual de velas.
+
+e. Se ha realizado la visualización para analizar las situaciones técnico-tácticas y preparar la visualización con los regatistas.
+
+f. Se han realizado la visualización de las tomas con los regatistas y se han analizado las situaciones técnicas y tácticas.
+
+g. Se han detectado los errores realizados y las acciones a adoptar para corregirlos.
+
+4\. Utiliza medios electrónicos en la adquisición de datos y su utilización en la realización de pruebas de velocidad y ayudas a la navegación.
+
+a. Se han aplicado protocolos de comprobación del funcionamiento y calibrado del equipo de viento.
+
+b. Se han aplicado protocolos de comprobación del funcionamiento y calibrado del compás.
+
+c. Se han aplicado protocolos de comprobación del funcionamiento y calibrado de la corredera, sonda y anemómetro.
+
+d. Se han aplicado protocolos de comprobación del funcionamiento y calibrado del GPS.
+
+e. Se han descrito los sistemas electrónicos de adquisición de datos para la realización de pruebas de velocidad.
+
+f. Se ha identificado la infraestructura necesaria para la adquisición de datos electrónicos.
+
+g. Se han identificado los parámetros necesarios en la realización de pruebas de velocidad.
+
+h. Se han identificado los instrumentos a utilizar en el análisis de los datos recogidos.
+
+i. Se ha valorado la realización de un informe con las conclusiones y recomendaciones obtenidas del análisis de la información.
+
+Contenidos básicos
+
+1\. Utiliza medios audiovisuales en el registro y valoración del entrenamiento y la competición, caracterizando los diferentes medios utilizables, aplicando técnicas y procedimientos específicos de manejo y mantenimiento.
+
+– Introducción a la grabación digital:
+
+– Tipología de las cámaras, fijas, móviles.
+
+– Manejo de las cámaras.
+
+– Tipos de encuadres-planos.
+
+– Ángulos de la cámara.
+
+– Conceptos básicos:
+
+– Control de la duración.
+
+– Sujeción de la cámara, estabilidad.
+
+– Tipos de tomas, zoom.
+
+– Tomas con acción e interés.
+
+– Control de la exposición y de la luz.
+
+– Control del enfoque.
+
+– Audio.
+
+– Cámaras de fotos: reflex o compactas, cuidados.
+
+– Selección de las condiciones de navegación.
+
+– Mantenimiento de las cámaras, objetivos.
+
+2\. Dirige y realiza filmaciones durante los entrenamientos, utilizando el manual de filmaciones para la correcta posición de la cámara y la realización de tomas adecuadas en las distintos rumbos de navegación.
+
+– Manual de filmación de video desde la neumática:
+
+– En entrenamientos de puesta a punto.
+
+– Durante la realización de maniobras.
+
+– Planos de velas:
+
+– Filmación desde popa para ver la baluma.
+
+– Filmación desde proa para ver ataque de foque.
+
+– Filmación al través para ver caída de palo.
+
+– Filmación para ver la posición del tripulante o tripulantes y balanceo del barco.
+
+– Salidas:
+
+– Filmación desde popa de la línea el posicionamiento del barco y arrancada.
+
+– Filmación desde los extremos para ver la distancia a línea, en una salida normal.
+
+– Filmación desde los extremos en una salida con bandera negra.
+
+– Viradas:
+
+– Filmación desde popa para seguir la línea de crujía en la virada por avante.
+
+– Filmación desde popa para ver la trasluchada.
+
+– Izadas del spinnaker:
+
+– Filmación de la baliza de barlovento.
+
+– Arriadas spinnaker:
+
+– Filmación de la baliza de sotavento.
+
+– Elaboración del guión.
+
+– Manual de realización de fotos para la puesta a punto del barco:
+
+– Consejos para fotografiar las velas, posiciones en el barco, condiciones de navegación, ángulos, rumbos, puntos de referencia a tomar, banda de trimado.
+
+– Comunicación entre el fotógrafo y el patrón.
+
+– Anotaciones de las condiciones de navegación, viento, tensiones, etc.
+
+– Gestión de los recursos necesarios para la filmación en el agua.
+
+– Anotación de las condiciones del entorno en los que se ha realizado la filmación.
+
+3\. Edita y analiza el material filmado, aplicando procedimientos en la detección y corrección de errores.
+
+– Métodos y procedimientos para le edición de videos.
+
+– Manejo programa de edición de videos.
+
+– Procedimientos básicos, dividir, unir, eliminar partes, conversión de formatos.
+
+– Equipo de visualización, manejo.
+
+– Programas informáticos de diagnóstico visual de la vela (Sailscan y otros).
+
+– Procedimientos básicos.
+
+– Análisis técnico-táctico de cada una de las filmaciones realizadas y de los datos registrados de viento y trimado de las velas.
+
+– Detección de errores cometidos.
+
+– Visualización de los videos con los regatistas.
+
+– Comentarios y corrección de errores.
+
+4\. Utiliza medios electrónicos en la adquisición de datos y su utilización en la realización de pruebas de velocidad y ayudas a la navegación.
+
+– El funcionamiento de los Instrumentos de navegación. Protocolos de comprobación:
+
+– Equipo de viento. Sistemas de calibrado.
+
+– Compás. Sistemas de calibrado.
+
+– Corredera, sonda, anemómetro. Sistemas de calibrado.
+
+– GPS-plotter.
+
+– Sistemas electrónicos de Adquisición de datos para la realización de pruebas de velocidad.
+
+– Método a emplear.
+
+– Infraestructura necesaria, barcos, GPS, antenas.
+
+– Parámetros: rumbo, velocidad, escora, cabeceo.
+
+– Sistema de recogida de la información.
+
+– Análisis de los datos.
+
+– Conclusiones y recomendaciones.
+
+> Se numera como Anexo II.j por el art. 2.3.j) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.k — Módulo específico de enseñanza deportiva: Preparación física del regatista
+
+Código MED-VEVE306
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Evalúa la condición física del regatista en el entrenamiento y en la competición, en las diferentes modalidades, analizando las demandas del alto rendimiento y aplicando procedimientos específicos de valoración.
+
+a. Se han descrito las características del proceso de evaluación de la condición física del regatista, así como los factores a la hora de administrar un test.
+
+b. Se han seleccionado métodos e instrumentos para la valoración de las capacidades físicas durante el entrenamiento y la competición en la etapa de alto rendimiento.
+
+c. Se han aplicado los procedimientos para la evaluación de las capacidades físicas requeridas durante el entrenamiento y la competición de los regatistas.
+
+d. Se ha justificado el perfil fisiológico del regatista en relación con el rol, tipo de embarcación, entorno y particularidades de la competición.
+
+e. Se han determinado herramientas válidas para el control de variables morfológicas y estructurales del regatista.
+
+f. Se han explicado los criterios para el diseño de tests de campo específicos en el deporte de la vela.
+
+g. Se han establecido modelos para la recogida de información subjetiva por parte de los regatistas, en relación al nivel rendimiento físico y fatiga presentada durante el entrenamiento y la competición, en función de las características de la práctica (condiciones meteorológicas, número de maniobras, etc.).
+
+h. Se han aplicado métodos y técnicas de procesamiento de los registros obtenidos durante la valoración del rendimiento físico del regatista.
+
+i. Se ha justificado la relación entre los factores condicionales del rendimiento y el resultado de la competición.
+
+j. Se ha asimilado la necesidad de compartir la información resultante de las valoraciones con el regatista.
+
+k. Se ha interiorizado la obligación de respetar la dignidad del regatista a la hora de realizar cualquier tipo de evaluación.
+
+2\. Identifica las necesidades ergogénicas y ergonutricionales del deportista, en el entrenamiento y en la competición, analizando las demandas específicas, aplicando procedimientos para la elaboración de dietas y valorando los procedimientos y normas de control antidopaje.
+
+a. Se han identificado las necesidades nutricionales del regatista.
+
+b. Se han justificado diferentes tipos de ayudas ergonutricionales en función de las características de la competición y necesidades del Regatista.
+
+c. Se ha profundizado en los aspectos fisiológicos de la hidratación: antes, durante y después de la actividad física, así como su relación con el rendimiento del regatista.
+
+d. Se han descrito las pautas generales para la elaboración de dietas dirigidas principalmente al control de peso del regatista.
+
+e. Se ha analizado la lista de sustancias prohibidas establecida por la Agencia Mundial Antidopaje (AMA) y la Federación Internacional de vela (ISAF).
+
+f. Se han explicado y analizado los procedimientos establecidos por la AMA en lo que se refiere a los controles antidopaje, la solicitud de exenciones terapéuticas y localización de los deportistas.
+
+g. Se ha realizado una propuesta de aplicación práctica en la utilización de ayudas ergogénicas en la práctica de la vela en alto rendimiento.
+
+3\. Dirige la recuperación y adaptación motriz del regatista lesionado, analizando los tipos de lesión y seleccionando y aplicando programa adaptados.
+
+a. Se han descrito las características y evolución de las patologías mas frecuentes, provocadas por el entrenamiento y la competición de alto rendimiento en vela.
+
+b. Se han clasificado las lesiones del aparato locomotor más comunes y específicas en la práctica de vela en alto rendimiento.
+
+c. Se han identificado las causas de las lesiones más comunes y los métodos y procedimientos de prevención de las mismas.
+
+d. Se ha analizado la disponibilidad y uso de elementos de protección para la prevención de lesiones en la práctica de vela en alto rendimiento.
+
+e. Se han analizado los fundamentos de trabajo de las capacidades físicas para aplicar cargas de entrenamiento en diferentes sujetos, como medio de prevención de lesiones.
+
+f. Se han justificado los protocolos de tratamiento de las lesiones más comunes y las fases estándar en el proceso de recuperación y/o adaptación motriz.
+
+g. Se han relacionado las pautas de actuación en el proceso de recuperación y adaptación motriz del regatista lesionado con las características de la lesión.
+
+h. Se han fundamentado los criterios de elaboración de entrenamiento complementario con regatistas lesionados.
+
+i. Se han analizado los medios y métodos de control y seguimiento del regatista desde la aparición de la lesión hasta su integración al entrenamiento normalizado y la competición.
+
+j. Se ha tomado consciencia de la presencia de variables psicológicas implicadas en los procesos de prevención y readaptación motriz de lesiones.
+
+4\. Concreta y dirige ciclos y sesiones de entrenamiento de la condición física del regatista de alto rendimiento, justificando y aplicando métodos del entrenamiento condicional y analizando los procedimientos de individualización del trabajo.
+
+a. Se han definido las etapas y los objetivos del entrenamiento de la condición física del regatista de alto rendimiento con relación a la planificación y programación de referencia.
+
+b. Se han analizado los objetivos en el desarrollo de la condición física del regatista, teniendo en cuenta el rol, tipo de embarcación, el entorno y las particularidades de la competición.
+
+c. Se han definido las características que debe cumplir un programa de entrenamiento personalizado, acorde a las necesidades de cada regatista.
+
+d. Se han diseñado sesiones de trabajo de la condición física del regatista, atendiendo a las características de la modalidad y del momento concreto de la preparación.
+
+e. Se han analizado los criterios de individualización y personalización del entrenamiento en función de las características físicas, técnicas y psicológicas del regatista.
+
+f. Se han dirigido sesiones de trabajo de la condición física del regatista de alto rendimiento, aplicando métodos y medios específicos.
+
+g. Se han justificado los métodos específicos para cada una de las cualidades físicas de las que depende el rendimiento del regatista en la etapa de alto rendimiento.
+
+h. Se ha elaborado un ciclo de preparación física completa, empleando diferentes tipos de estructuras temporales propias de la planificación deportiva de alto rendimiento, concretando objetivos, medios, métodos, instrumentos de control y dinámica de la carga.
+
+i. Se ha analizado las causas y métodos de recuperación de la fatiga en entrenamientos y competiciones con las características que presenta el deporte de la vela.
+
+j. Se han analizado las características de las sesiones de preparación física estableciendo los mecanismos de recuperación de la fatiga tras el entrenamiento y la competición.
+
+Contenidos básicos
+
+1\. Evalúa la condición física del regatista en el entrenamiento y en la competición, en las diferentes modalidades, analizando las demandas del alto rendimiento y aplicando procedimientos específicos de valoración.
+
+– Características del proceso de evaluación de la condición física del regatista.
+
+– Capacidades físicas de los regatistas según rol y modalidad.
+
+– Métodos e instrumentos de valoración de las capacidades físicas en entrenamiento y competición.
+
+– Procedimientos para la valoración de la condición física del regatista en entrenamiento y en competición.
+
+– Información subjetiva complementaria. Modelos y protocolos.
+
+– Valoración del rendimiento físico:
+
+– Técnicas y procedimientos aplicados.
+
+– Análisis y discusión de los resultados.
+
+2\. Identifica las necesidades ergogénicas y ergonutricionales del deportista, en el entrenamiento y en la competición, analizando las demandas específicas, aplicando procedimientos para la elaboración de dietas y valorando los procedimientos y normas de control antidopaje.
+
+– Necesidades nutricionales del regatista de alto rendimiento.
+
+– Ayudas ergonutricionales: adecuación a las características del regatista y de la competición.
+
+– Elaboración de dietas: pautas y normas. Dietas específicas para el control de peso.
+
+– Hidratación del regatista.
+
+– Lista de sustancias prohibidas de la AMA
+
+– Procedimientos de la AMA: controles antidoping, exenciones terapéuticas y localización de deportistas.
+
+3\. Dirige la recuperación y adaptación motriz del regatista lesionado, analizando los tipos de lesión y seleccionando y aplicando programa adaptados.
+
+– Patologías más frecuentes de los regatistas. Características y evolución.
+
+– Lesiones más comunes del aparato locomotor del regatista de alto rendimiento: causas, prevención y elementos de protección, etc.
+
+– Protocolos de tratamiento de las lesiones más comunes.
+
+– Procesos, pautas y fases de recuperación y/o adaptación motriz.
+
+– Entrenamiento complementario de regatistas lesionados. Criterios de elaboración.
+
+– Medios y métodos de control y seguimiento del regatista lesionado:
+
+– Proceso de integración al entrenamiento normalizado.
+
+– Factores psicológicos en el proceso de recuperación.
+
+4\. Concreta y dirige ciclos y sesiones de entrenamiento de la condición física del regatista de alto rendimiento, justificando y aplicando métodos del entrenamiento condicional y analizando los procedimientos de individualización del trabajo.
+
+– Etapas y objetivos del entrenamiento de la condición física del regatista de alto rendimiento:
+
+– Métodos.
+
+– Medios e instrumentos de control.
+
+– Requerimientos fisiológicos del regatista de alto rendimiento.
+
+– Sesiones específicas de trabajo de la condición física adaptadas a la modalidad y a la temporalización.
+
+– Métodos y procedimientos del entrenamiento condicional.
+
+– Bases del entrenamiento personalizado.
+
+– Fatiga del regatista: causas y métodos de recuperación.
+
+– Sesión de acondicionamiento físico dirigida a la recuperación de la fatiga.
+
+> Se numera como Anexo II.k por el art. 2.3.k) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.l — Módulo específico de enseñanza deportiva: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF
+
+Código MED-VEAF307
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora el rendimiento técnico-táctico del regatista en el entrenamiento y durante la competición en la etapa de alto rendimiento, analizando los estándares técnicos y las situaciones tácticas, en relación con las características de las clases con AF y la función o rol del regatista en la embarcación.
+
+a. Se han descrito los requisitos técnico-tácticos necesarios del deportista de alto nivel en vela, de acuerdo con el rol desempeñado en la embarcación con AF.
+
+b. Se han especificado las técnicas de navegación a utilizar, según las características de la clase de embarcación de alto rendimiento con AF.
+
+c. Se ha explicado la táctica y estrategia en la ceñida en función del viento y las características de la clase con AF.
+
+d. Se han analizado los modelos tácticos y estratégicos a utilizar antes de la salida y en la salida de una regata.
+
+e. Se han analizado los modelos tácticos y estratégicos a utilizar en la ceñida.
+
+f. Se han analizado los modelos tácticos y estratégicos de aproximación y paso de la boya de barlovento.
+
+g. Se ha analizado los modelos estratégicos a utilizar en popa en función del viento y la situación de los demás regatistas.
+
+h. Se han analizado los modelos tácticos y la estrategia de aproximación y paso de la boya de sotavento
+
+i. Se han analizado los modelos estratégicos a seguir en los marcajes y la gestión del riesgo.
+
+j. Se han seleccionado las acciones, materiales y procedimientos que forman parte del manual de seguimiento de un entrenamiento de alto nivel en vela con AF.
+
+k. Se han seleccionado las acciones, materiales y procedimientos que forman parte del manual de seguimiento de una regata de alto nivel en vela con AF.
+
+l. Se ha seleccionado la información que debe tenerse en cuenta en la fichas de preparación y seguimiento de la regata de alto nivel en vela con AF.
+
+m. Se ha valorado la importancia de la implicación del regatista en la mejora del rendimiento, utilizando los modelos tácticos y estratégicos.
+
+2\. Dirige a los regatistas de alto rendimiento en su actuación técnica y táctica, durante las regatas de alto rendimiento, analizando los factores que condicionan el alto rendimiento en la regata con embarcaciones de AF.
+
+a. Se han relacionado los aspectos administrativos, logísticos, normativos y calendarios, a tener en cuenta en la planificación de una regata de alto nivel con embarcaciones de AF.
+
+b. Se ha realizado la evaluación del rendimiento del regatista en cada una de las competiciones en que participa.
+
+c. Se han descrito las funciones del técnico deportivo en las competiciones de alto rendimiento en vela con AF.
+
+d. Se ha descrito la ubicación del técnico superior para facilitar la comunicación de sus instrucciones al regatista de alto rendimiento, teniendo en cuenta la reglamentación.
+
+e. Se ha relacionado las propuestas tácticas y estratégicas de un supuesto de regata de alto nivel, con los contenidos del reglamento de regatas a vela, apartados: regatas de Match Race, regatas por equipos, pesaje de vestimenta y equipo, jurados internacionales.
+
+f. Se han relacionado los modelos tácticos posibles con las características de la competición de alto rendimiento en vela con AF y del área de navegación.
+
+g. Se ha analizado un supuesto de competición con AF, identificando las demandas, técnicas y físicas del regatista.
+
+h. Se han establecido los criterios técnicos de optimización del resultado del regatista, en una competición de alto rendimiento en vela con AF.
+
+i. Se ha valorado la importancia del calentamiento previo del regatista en una prueba de alto rendimiento en vela con AF.
+
+j. Se han relacionado los cuidados del regatista en una competición de alto nivel, con las exigencias de este tipo de competición.
+
+k. Se ha valorado la importancia de la preparación anticipada de la dirección del regatista y su influencia en la mejora del rendimiento.
+
+3\. Interpreta, resuelve y produce protestas de regatas, elaborando soluciones a las protestas, analizando los formatos según el reglamento de regatas a vela, utilizando la comunicación oral en castellano e inglés.
+
+a. Se ha analizado la parte 5 del reglamento de regatas a vela.
+
+b. Se han interpretado las protestas y reparaciones de acuerdo con la parte 5 del RRV.
+
+c. Se ha realizado un supuesto práctico de interpretación de una protesta en inglés, extrayendo las conclusiones y acciones a tomar.
+
+d. Se ha realizado una simulación de producción de una protesta, en inglés realizada contra otro barco, utilizando los términos náuticos adecuados.
+
+e. Se han interpretado las resoluciones de una protesta, de acuerdo con la parte 5 del RRV.
+
+f. Se ha realizado un supuesto práctico de comunicación en inglés, ante un jurado y los regatistas de una audiencia, utilizando los términos náuticos adecuados.
+
+g. Se ha interpretado el informe de grave mal comportamiento de acuerdo con la parte 5 del RRV.
+
+h. Se ha realizado una simulación de apelación en inglés, contra la resolución realizada por el jurado.
+
+i. Se han interpretado las apelaciones de acuerdo con la parte 5 del RRV.
+
+j. Se ha analizado el Manual de jurado internacional de regatas.
+
+4\. Valora el área de navegación de la competición de alto rendimiento en vela con AF analizando el régimen de brisas que actúa en dicha área y las posibles variaciones locales del viento asociadas a las nubes aisladas, relacionando los distintos parámetros analizados.
+
+a. Se han analizado las características de las brisas térmicas y su influencia en el establecimiento y comportamiento del área de navegación.
+
+b. Se han analizado las características de las condiciones de establecimiento e instalación de la brisa marina en el área de navegación.
+
+c. Se han analizado los factores que determina la evolución de la brisa marina y su influencia y comportamiento en el área de navegación.
+
+d. Se han analizado los factores que influyen en la desaparición de la brisa marina y su influencia y comportamiento en el área de navegación.
+
+e. Se han relacionado los criterios de evaluación de la fuerza de la brisa marina y su influencia en el área de navegación.
+
+f. Se han analizado las características de las brisas en un lago o embalse y su comportamiento en el área de navegación.
+
+g. Se han analizado las características de las depresiones térmicas y su influencia en el área de navegación.
+
+h. Se han analizado las características que determinan la formación y evolución de los chubascos y su influencia en el área de navegación.
+
+i. Se han identificado los distintos tipos de chubascos que existen y su influencia en el área de navegación.
+
+j. Se han analizado las modificaciones que en el viento generan los cúmulos sobre el campo de regatas.
+
+k. Se han analizado las variaciones locales del viento asociadas a las nubes aisladas en el área de navegación.
+
+l. Se conoce e identifican las formaciones nubosas aisladas.
+
+m. Se ha valorado la importancia del conocimiento del área de navegación y de todos los parámetros que influyen en ella.
+
+5\. Dirige y realiza sesiones de entrenamiento psicológico en vela, analizando, adecuando y aplicando técnicas que comporten una mejora en el rendimiento del regatista y aplicando técnicas de auto evaluación.
+
+a. Se han descrito los aspectos psicológicos específicos del aprendizaje de la vela para la mejora del rendimiento.
+
+b. Se han descrito las características psicológicas del alto rendimiento y su relación con el modelo causal.
+
+c. Se han definido las herramientas a utilizar en entrenamiento de la preparación psicológica.
+
+d. Se ha analizado el plan para la preparación psicológica y los momentos claves de la regata.
+
+e. Se han definido los métodos para el incremento de la auto confianza durante la temporada de entrenamiento.
+
+f. Se ha realizado el análisis del informe de auto evaluación realizado después de la regata.
+
+g. Se han definido los componentes de la motivación, como influyen y se establecen en los entrenamientos programados.
+
+h. Se ha descrito la relación que existe entre los regatistas y el entrenador en la preparación psicológica.
+
+i. Se han realizado prácticas imaginadas de los movimientos técnicos, maniobras o situaciones dentro de una regata independientemente de su ejecución.
+
+Contenidos básicos
+
+1\. Valora el rendimiento técnico-táctico del regatista en el entrenamiento y durante la competición en la etapa de alto rendimiento, analizando los estándares técnicos y las situaciones tácticas, en relación con las características de las clases con AF y la función o rol del regatista en la embarcación.
+
+– Requisitos básicos necesarios según el rol del deportista para ser deportista de alto nivel en vela con AF
+
+– Técnica según las características de cada clase con AF
+
+– Táctica y estrategia de regatas de alto nivel:
+
+– La estrategia en ceñida en función del tipo de viento, (rola, oscila, presión y corriente).
+
+– Antes de la salida, en tierra y en el agua.
+
+– Tramo de ceñida, situaciones tácticas, instrumentos de ayuda.
+
+– La aproximación y paso de la boya de barlovento.
+
+– La estrategia en popa en función del tipo de viento.
+
+– Tramo de popa, situaciones tácticas, instrumentos de ayuda.
+
+– La aproximación y paso de la boya de sotavento.
+
+– El marcaje y la gestión del riesgo.
+
+– Manual de seguimiento de un entrenamiento de alto nivel:
+
+– Manual de seguimiento durante la regata.
+
+– Instrumentos de observación y recogida de información (fichas, clasificaciones).
+
+2\. Dirige al regatista o equipo de alto rendimiento en su actuación técnica y táctica, durante las regatas de alto rendimiento, analizando los factores que condicionan el alto rendimiento en la regata con embarcaciones de AF.
+
+– Planificación de la participación en una regata de alto rendimiento con embarcaciones de AF:
+
+– Normativa que caracteriza este tipo de regatas y permisos más frecuentes.
+
+– Objetivos temporalizados y objetivo final de una regata de alto rendimiento.
+
+– Medios y recursos humanos y materiales.
+
+– Calendario de participación, cronogramas y número de regatas de alto nivel que se programan.
+
+– Evaluación del rendimiento del tripulante y las competiciones participadas.
+
+– Funciones del técnico superior en la dirección del regatista en competiciones.
+
+– Conocimientos técnicos para ayudar al regatista a mejorar, pedagogía a utilizar al enseñar al regatista, como coordinador del equipo multidisciplinar y como director del equipo de regatas.
+
+– Ubicación del técnico superior para facilitar la comunicación de sus instrucciones con los tripulantes, teniendo en cuenta la reglamentación.
+
+– Estrategia de competición, modelos tácticos y su relación con las características de la competición.
+
+– Criterios para optimizar el resultado de la regata de alto nivel en vela con AF.
+
+– Reglamento de regatas a vela. Apéndices:
+
+– C: Reglas para regatas de Match.
+
+– D: Reglas para regatas por equipos.
+
+– H: Pesaje de Vestimenta y Equipo.
+
+– N: Jurados Internacionales.
+
+– Técnicas de calentamiento previo del regatista de alto rendimiento en vela con AF
+
+– Demandas técnicas y físicas de las competiciones a vela con AF
+
+3\. Interpreta, resuelve, y produce protestas de regatas dando solución a las mismas tanto en castellano como en inglés, utilizando los formatos adecuados según el reglamento de regatas a vela, así como la comunicación oral en castellano e inglés, en una audiencia, tanto con los componentes del jurado como con los regatistas.
+
+– Parte 5 reglamento internacional de regatas.
+
+– Protestas y reparaciones.
+
+– Audiencias y resoluciones.
+
+– Informe grave mal comportamiento.
+
+– Apelaciones.
+
+– El jurado internacional de regatas. Manual.
+
+– Terminología específica de la navegación a vela, en castellano y en inglés.
+
+– Tratamiento de las protestas y reparaciones en una regata.
+
+– La protesta, características, interpretación y defensa ante el jurado.
+
+– La apelación: características y defensa ante el jurado.
+
+– La audiencia con jurado y regatistas. Formas de defensa ante el jurado.
+
+4\. Valora el área de navegación de la competición de alto rendimiento en vela con AF analizando el régimen de brisas que actúa en dicha área y las posibles variaciones locales del viento asociadas a las nubes aisladas, relacionando los distintos parámetros analizados.
+
+– Los efectos térmicos.
+
+– Mecanismo y características de las brisas térmicas.
+
+– Condiciones de establecimiento de la brisa marina.
+
+– Factores que determinan la evolución y desaparición de la brisa marina.
+
+– Influencia de la topografía local sobre las brisas térmicas.
+
+– Evaluación de la fuerza de la brisa marina (criterios).
+
+– Características de las brisas de un lago o embalse.
+
+– Análisis y características de las depresiones térmicas.
+
+– Variaciones locales del viento asociadas a las nubes aisladas.
+
+– Formación, evolución y desplazamiento de los chubascos.
+
+– Formación de los cúmulos y los chubascos.
+
+– Modificaciones que generan en el área de navegación.
+
+– Las formaciones nubosas aisladas.
+
+– Las bandas nubosas de carácter cumuliforme.
+
+– Líneas de convergencia.
+
+– Las bandas nubosas estratiformes.
+
+– Las clases de nubes.
+
+5\. Dirige y realiza sesiones de entrenamiento psicológico en vela, analizando, adecuando y aplicando técnicas que comporten una mejora en el rendimiento del regatista y aplicando técnicas de auto evaluación.
+
+– Aspectos psicológicos del aprendizaje en vela.
+
+– Modelo causal de la navegación, construcción del espacio, viento-orientación. Equilibrio y equilibración.
+
+– Factores psicológicos distintivos en la vela de competición.
+
+– El cambio de clase.
+
+– Rendimiento y entrenamiento psicológico en vela, herramientas de preparación.
+
+– Atención y concentración, Información útil.
+
+– Practica imaginada.
+
+– El plan de regata y la preparación psicológica.
+
+– Momentos críticos de la regata.
+
+– Auto informe después de la regata.
+
+– Autoconfianza.
+
+– Establecimiento de objetivos.
+
+– Informe autocontrol de los regatistas.
+
+– Entrenamiento psicológico de la motivación del regatista de alto rendimiento.
+
+– Relación entre tripulaciones y entrenadores en la preparación psicológica. Plan de comunicación técnica.
+
+> Se numera como Anexo II.l por el art. 2.3.l) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.m — Módulo específico de enseñanza deportiva: Planificación y programación del alto rendimiento en vela con AF
+
+Código MED-VEAF308
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Detecta, identifica y selecciona talentos deportivos en vela con AF, analizando las características de los sistemas y programas de detección y selección de talentos, analizando las características de las etapas de desarrollo de la vida deportiva de los regatistas, y aplicando técnicas específicas.
+
+a. Se han fundamentado las fases del proceso de detección, identificación y selección de talentos en vela con AF
+
+b. Se han analizado los programas de detección, identificación y selección de talentos deportivos en vela con AF, establecidos por las administraciones deportivas de acuerdo a las características específicas de la modalidad.
+
+c. Se han seleccionado los criterios de adaptación de los programas de detección, identificación y selección de talentos adecuados a la navegación a vela con AF
+
+d. Se han analizado las características de las diferentes capacidades y modos de comportamiento que determinan el perfil del regatista de alto rendimiento en vela con AF
+
+e. Se han seleccionado los valores de referencia que determinan la evolución de las capacidades y modos de comportamiento del regatista a lo largo de las diferentes etapas de la vida deportiva de los talentos en vela con AF
+
+f. Se han seleccionado, de forma justificada, los criterios de detección, identificación y selección de talentos en función de la etapa deportiva del regatista.
+
+g. Se han seleccionado las técnicas e instrumentos de valoración de las capacidades y modos de comportamiento propios del alto rendimiento en vela con AF y de la etapa deportiva del regatista.
+
+h. Se han relacionado las técnicas e instrumentos de valoración de las capacidades y modos de comportamiento, con las características de la navegación a vela y de la etapa deportiva del regatista.
+
+i. Se ha elaborado un proyecto de programa de detección, identificación y selección de talentos en vela con AF
+
+j. Se ha analizado la programación del seguimiento realizado para la detección, identificación y selección de talentos deportivos en vela con AF
+
+k. Se ha justificado la necesidad de respetar los intereses y necesidades del individuo en el proceso de desarrollo de los talentos deportivos en vela.
+
+2\. Programa la preparación a largo plazo del regatista en las diferentes clases, analizando los modelos de preparación a largo plazo, seleccionando la información necesaria y aplicando instrumentos y métodos de recogida de la misma.
+
+a. Se han elaborado los objetivos de preparación y rendimiento en una programación anual, en función del modelo de programación y de la etapa en la vida deportiva del regatista y en especial la de alto rendimiento en vela con AF
+
+b. Se han analizado las características de las diferentes etapas en el desarrollo de la vida deportiva de un regatista hasta la consecución del alto rendimiento y el abandono de la vida deportiva.
+
+c. Se han analizado las características de los diferentes modelos de planificación (programación de los ciclos de preparación) supranual (ciclo olímpico) en función de los modelos de rendimiento de la modalidad y de la etapa deportiva del regatista y en especial la de alto rendimiento en vela con AF
+
+d. Se han analizando las características de los diferentes modelos de planificación de los ciclos anuales en vela con AF, en función de los objetivos establecidos, de la dinámica de cargas que conlleva, y de su adecuación a la etapa deportiva del regatista y en especial la de alto rendimiento.
+
+e. Se han analizado las características del calendario de competición anual e internacional en vela con AF relacionándolo con las características del modelo de planificación.
+
+f. Se han caracterizado las diferentes mesociclos y microciclos en lo que se subdivide una programación anual.
+
+g. Se han seleccionado los medios y métodos de control de la preparación y del rendimiento en una programación a largo plazo, en función de los objetivos y la etapa de la vida deportiva del regatista y en especial la de alto rendimiento en vela con AF
+
+h. Se ha identificado el tipo de información que se debe tener en cuenta en la organización de una temporada deportiva de alto rendimiento a vela con AF
+
+i. Se ha seleccionado la información del entorno, personal, social o educativa del regatista a tener en cuenta en la programación del entrenamiento a largo, medio y corto plazo, en función de la etapa deportiva y en especial la de alto rendimiento en vela con AF
+
+j. Se han aplicado métodos de recogida y análisis de la información sobre el regatista y el entorno, a tener en cuenta en la programación a largo plazo.
+
+k. Se han elaborado instrumentos de recogida de la información sobre el entorno: personal, social y educativo del regatista.
+
+l. Se ha valorado la importancia de establecer metas adecuadas a la evolución del regatista y la dinámica de cargas específica de la vela con AF en la programación a largo, medio y corto plazo.
+
+3\. Programa a medio y corto plazo la preparación de los regatistas de alto rendimiento/Adapta y concreta ciclos y sesiones de entrenamiento en vela con AF, analizando las características de los diferentes mesociclos y microciclos de preparación y los criterios de combinación y evolución de los medios y métodos empleados.
+
+a. Se han analizado las características de los diferentes tipos de mesociclos y microciclos de preparación de los regatistas de alto rendimiento en vela con AF y su relación con los objetivos del ciclo anual.
+
+b. Se han seleccionado los medios de control de los factores de rendimiento en vela con AF, en función de la situación dentro de la programación y de los objetivos de la misma.
+
+c. Se han seleccionado los medios y métodos de entrenamiento acordes con el tipo de mesociclo y microciclo de preparación elegido.
+
+d. Se han analizado los objetivos a alcanzar en los factores de rendimiento en vela con AF, en función del tipo de mesociclo y microciclo de preparación utilizado.
+
+e. Se han justificado los criterios de evolución y modificación de los métodos de entrenamiento de los factores de rendimiento en los diferentes tipos de mesociclo y microciclo de preparación a medio y corto plazo del regatista de alto rendimiento.
+
+f. Se ha analizado la organización y estructura de la sesión de entrenamiento en vela con AF en los diferentes tipos de ciclos o periodos de preparación de los regatistas de alto rendimiento, a medio y corto plazo.
+
+g. Se han analizado los criterios de combinación de los medios y métodos de entrenamiento de los factores de rendimiento en la sesión de vela con AF, en función del tipo de mesociclo y microciclo de preparación y del momento de la preparación.
+
+h. Se han diseñado programas de preparación a medio y corto plazo en vela con AF, en función de las directrices de la programación a largo plazo y de las condiciones meteorológicas.
+
+i. Se ha elaborado una lista de actividades alternativas a las sesiones de entrenamiento.
+
+j. Se ha justificado la importancia de adaptar la programación a las modificaciones de la forma deportiva del regatista y al grado de consecución de los objetivos propuestos.
+
+4\. Registra y valora la carga de entrenamiento en la preparación de los regatistas, analizando los factores que determinan la carga de entrenamiento en vela con AF y aplicando instrumentos de cuantificación y procesamiento de la información.
+
+a. Se han caracterizado los indicadores que permiten la cuantificación de la carga de trabajo técnico y táctico, en el entrenamiento en vela con AF.
+
+b. Se han caracterizado los indicadores que permiten la cuantificación de la carga de trabajo condicional en el entrenamiento en vela con AF.
+
+c. Se han caracterizado los indicadores que permiten la cuantificación de la carga psicológica en el entrenamiento y la competición en vela con AF.
+
+d. Se han analizado los métodos de registro de la actividad diaria física del deportista, indicadores de carga y fatiga.
+
+e. Se han analizado los métodos o sistemas de cuantificación de la carga de trabajo condicional del regatista en el entrenamiento en vela con AF.
+
+f. Se han especificado los criterios de modificación de la programación del deportista en función de su carga de entrenamiento y rendimiento.
+
+g. Se han aplicado programas informáticos específicos a la cuantificación de la carga de trabajo del regatista en el entrenamiento en vela con AF.
+
+h. Se han aplicado instrumentos de representación gráfica de la carga de trabajo del regatista en el entrenamiento en vela con AF.
+
+i. Se han seleccionado procedimientos estadísticos para el procesamiento e interpretación de la carga de entrenamiento del regatista en el entrenamiento en vela con AF.
+
+j. Se han analizado las utilidades de la cuantificación y seguimiento de la carga del entrenamiento en el control y ajuste de la preparación en vela con AF.
+
+k. Se ha valorado la importancia de la cuantificación y el seguimiento de la carga de entrenamiento del regatista en la optimización de la preparación en vela con AF.
+
+Contenidos básicos
+
+1\. Detecta, identifica y selecciona talentos deportivos en vela con AF, analizando las características de los sistemas y programas de detección y selección de talentos, analizando las características de las etapas de desarrollo de la vida deportiva de los regatistas, y aplicando técnicas específicas.
+
+– Fases del proceso de detección, identificación y selección de talentos deportivos en vela con AF.
+
+– Programas de las administraciones deportivas de detección, identificación y selección de talentos deportivos en vela.
+
+– Características técnicas, tácticas, físicas y psicológicas que describen el talento deportivo en vela de un deportista de alto nivel: clases olímpicas, copa América, vuelta al mundo.
+
+– Recursos necesarios, embarcaciones, equipamiento, técnicos.
+
+– Valores de referencia de los Sistemas de prueba para detección de talentos en vela con AF.
+
+– Realización de la campaña de detección de talentos:
+
+– Especialidades y clases.
+
+– Objetivos generales y por especialidad.
+
+– Desarrollo del Programa, calendarios, pruebas a realizar.
+
+– Técnicas e instrumentos de evaluación y análisis de los resultados.
+
+– Criterios de selección de los regatistas.
+
+– Medidas correctoras.
+
+– Presupuesto de realización de la campaña.
+
+– Seguimiento de la campaña.
+
+– Proyecto de programa de detección, identificación y selección de talentos deportivos en vela con AF.
+
+2\. Programa la preparación a largo plazo del regatista en las diferentes clases, analizando los modelos de preparación a largo plazo, seleccionando la información necesaria y aplicando instrumentos y métodos de recogida de la misma.
+
+– Objetivos de preparación y rendimiento de un programa anual de alto rendimiento en vela con AF.
+
+– Características de las diferentes etapas del desarrollo de la vida deportiva de un regatista.
+
+– Características de los modelos de planificación a largo plazo de los regatistas de alto rendimiento y clases olímpicas.
+
+– Elaboración de progresiones técnicas en un macrociclo de alto rendimiento en vela con aparejo fijo.
+
+– Modelos de preparación a largo plazo y sus características, en función de los modelos de rendimiento de cada clase.
+
+– Análisis del calendario de competición y clasificación de las regatas de alto rendimiento en el programa de entrenamiento. Criterios de selección de regatas de alto nivel del calendario de competición.
+
+– Evaluación de los programas de alto rendimiento en vela con aparejo fijo.
+
+– Medios y Métodos de preparación del regatista de alto rendimiento a largo plazo. Objetivos (técnico-tácticos), Condicionantes sociales, académicos y profesionales del regatista.
+
+– Planificación completa de un ciclo olímpico (macrociclo, mesociclos y microciclos).
+
+– Diseño de programas de preparación del regatista a largo plazo.
+
+– Normativa de preparación olímpica de la guía de la RFEV.
+
+– Organización de una temporada deportiva de alto rendimiento de vela.
+
+– Programación y organización de los periodos de entrenamiento.
+
+– Programación y organización de los periodos de competición.
+
+– Periodos de descanso.
+
+– Métodos de recogida y análisis de la información sobre el regatista y el entorno, al principio y final del macrociclo.
+
+– Elaboración de cuestionarios de recogida de la información, sobre el entorno personal, social y educativo del regatista.
+
+3\. Programa a medio y corto plazo la preparación de los regatistas de alto rendimiento. Adapta y concreta ciclos y sesiones de entrenamiento en vela con AF, analizando las características de los diferentes mesociclos y microciclos de preparación y los criterios de combinación y evolución de los medios y métodos empleados.
+
+– Tipos de mesociclos y microciclos de preparación del regatista y su relación con los objetivos del ciclo anual.
+
+– Control mensual del entrenamiento. Ficha del entrenamiento en el agua y de la programación mensual.
+
+– Métodos de aprendizaje en la etapa de alto rendimiento en vela con AF:
+
+– Características del aprendizaje de los movimientos óptimos en las maniobras. Paso a paso. Conscientemente, Estudio de distintas alternativas en tierra y en el agua.
+
+– Características de la automatización.
+
+– En condiciones favorables, individualmente, sin fatiga.
+
+– Introducir dificultades (fatiga, competidores, contra reloj).
+
+– Búsqueda del movimiento óptimo de las maniobras y movimientos.
+
+– Recursos didácticos para la tecnificación a la vela con aparejo fijo.
+
+– Objetivos y contenidos de una sesión de alto rendimiento en vela con aparejo fijo según los estándares de la RFEV.
+
+– Objetivos a alcanzar en los factores de rendimiento en vela, en función de los mesociclos y microciclos de preparación.
+
+– Organización y estructura de la sesión de entrenamiento en los diferentes ciclos de preparación.
+
+– Sesiones de entrenamiento de navegación con embarcaciones de AF de alto rendimiento:
+
+– Objetivos de la sesión.
+
+– Fases de una sesión de entrenamiento. (mesociclo y microciclo).
+
+– Métodos de entrenamiento.
+
+– Medios y recursos materiales.
+
+– Secuenciación de las actividades: Elaboración de los Criterios para la secuenciación.
+
+– Modelos de preparación a corto y medio plazo en función de los objetivos.
+
+– Diseño de programas de preparación del regatista a medio y corto plazo.
+
+– Adaptación a las condiciones meteorológicas de la planificación, a largo plazo, a medio plazo, día a día.
+
+– Actividades alternativas a las sesiones de entrenamiento de alto rendimiento.
+
+4\. Registra y valora la carga de entrenamiento en la preparación de los regatistas, analizando los factores que determinan la carga de entrenamiento en vela con AF y aplicando instrumentos de cuantificación y procesamiento de la información.
+
+– Indicadores para cuantificar la carga de trabajo técnico y táctico.
+
+– Indicadores para cuantificar la carga de trabajo condicional y psicológico.
+
+– Métodos de registro de la actividad diaria física del deportista (gasto calórico total a través del pulsómetro, diario de entrenamiento…), indicadores de carga (control del volumen de entrenamiento en función del viento, tipo de entrenamiento: maniobras, velocidad, circuitos…, intensidad, tiempo…) y fatiga (frecuencia cardíaca de reposo al levantarse, escala de cansancio físico, horas y características del sueño, apetito, estado anímico, marcadores biológicos: CPK, Urea, Amonio, parámetros hematológicos…).
+
+– Métodos de registro del trabajo condicional y psicológico del deportista, indicadores de carga y fatiga.
+
+– Criterios de modificación de la programación del deportista en función de su carga de entrenamiento y rendimiento.
+
+– Programa informático para la cuantificación de la carga de trabajo del regatista.
+
+– Procedimientos estadísticos para el procesamiento e interpretación de la carga del regatista en el entrenamiento.
+
+– Procedimiento de toma de muestras para el control de la carga del entrenamiento. Recursos necesarios en el agua y en tierra.
+
+> Se numera como Anexo II.m por el art. 2.3.m) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.n — Módulo específico de enseñanza deportiva: Puesta a punto del material de AF de alto rendimiento
+
+Código MED-VEAF309
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Selecciona las clases de embarcaciones de alto rendimiento, analizando las características técnicas y reglamentarias de las diferentes clases y sus condicionantes técnicas relacionándolas con las características de los navegantes, aplicando reglas de medición y pesaje.
+
+a. Se ha analizado la evolución técnica de las clases de alto rendimiento y sus características.
+
+b. Se han analizado las estadísticas de las características físicas ideales de las tripulaciones según cada clase.
+
+c. Se han caracterizado las distintas clases de embarcaciones de alto rendimiento y las características del barco.
+
+d. Se ha justificado la relación entre las características de cada una de las embarcaciones de alto rendimiento y las características de los tripulantes.
+
+e. Se han analizado las reglas fundamentales de las reglas de clase de las embarcaciones de alto rendimiento para la optimización del rendimiento del barco.
+
+f. Se han analizado las reglas de medición y construcción de las reglas de clase de las embarcaciones de alto rendimiento para la optimización del rendimiento del barco.
+
+g. Se han descrito las herramientas y equipos estándar y especiales de medición de los barcos de alto rendimiento según la ISAF.
+
+h. Se han aplicado las reglas de pesaje de las embarcaciones de alto rendimiento de acuerdo con las reglas de clase.
+
+i. Se han aplicado las reglas de medición de las embarcaciones de alto rendimiento de acuerdo con las reglas de clase.
+
+j. Se han aplicado las reglas de medición de los apéndices de las embarcaciones de alto rendimiento de acuerdo con las reglas de clase.
+
+k. Se han aplicado las reglas de medición del aparejo de las embarcaciones de alto rendimiento de acuerdo con las reglas de clase.
+
+l. Se han aplicado las reglas de medición de las velas de las embarcaciones de alto rendimiento de acuerdo con las reglas de clase.
+
+m. Se han comprobado los procedimientos generales de pesaje y medición de las embarcaciones de alto rendimiento.
+
+n. Se han descrito los distintos formularios que existen relacionados con el pesaje y medición de los barcos de alto rendimiento.
+
+ñ. Se ha valorado el conocimiento de las Reglas de clase como ayuda fundamental a la selección del tipo de embarcación de alto rendimiento.
+
+2\. Realiza el reglaje de las diferentes embarcaciones de alto rendimiento, utilizando técnicas de medición y análisis e identificando las variables que afectan al reglaje y puesta a punto del material.
+
+a. Se han justificado las características de los diferentes elementos de las embarcaciones de alto rendimiento que pueden ser regladas o puestas a punto.
+
+b. Se han analizado y descrito las diferentes acciones de puesta a punto y reglaje de los aparejos de una embarcación de alto rendimiento con aparejo fijo, relacionándolo con las condiciones de navegación: fuerza del viento, oleaje, corrientes.
+
+c. Se han aplicado técnicas de puesta a punto del casco y sus herrajes, así como de la orza y el timón.
+
+d. Se han aplicado técnicas de pulido de las superficies mojadas de las embarcaciones de alto rendimiento a vela con aparejo fijo.
+
+e. Se han aplicado técnicas de preparación y colocación del palo, teniendo en cuenta las características de las embarcaciones de alto rendimiento a vela con aparejo fijo.
+
+f. Se ha realizado (de acuerdo con las tablas) la medida de la caída del palo y su tensión, la apertura de las crucetas y su longitud.
+
+g. Se han aplicado técnicas de reglaje de la mayor (Cunninghan, pujamen, pata de gallo, cuñas, trapa) teniendo en cuenta las condiciones ambientales de un supuesto de navegación a vela con embarcaciones de alto rendimiento de aparejo fijo.
+
+h. Se han aplicado técnicas de reglaje del foque (contra escota, Cunninghan) teniendo en cuenta las condiciones ambientales de un supuesto de navegación a vela con embarcaciones alto rendimiento de aparejo fijo.
+
+i. Se ha analizado y realizado los procedimientos de reglaje de los sables teniendo en cuenta las condiciones de viento y oleaje.
+
+j. Se ha justificado la importancia de la puesta a punto de las embarcaciones de alto rendimiento como factor que mejora el rendimiento deportivo en la navegación con embarcaciones a vela con aparejo fijo.
+
+k. Se han aplicado los procedimientos de medición de la curvatura y deflexión de un mástil de una embarcación de alto rendimiento.
+
+l. Se han aplicado los procedimientos de medición de la curvatura y deflexión de una botavara de una embarcación de alto rendimiento.
+
+m. Se han justificado y aplicado los sistemas y procedimientos de alineación de la quilla y el timón.
+
+n. Se han aplicado los procedimientos necesarios para calcular la flexión de los apéndices de una embarcación de alto rendimiento.
+
+3\. Identifica las características de las embarcaciones, analizando las características del diseño, las características constructivas, las técnicas y materiales de construcción.
+
+a. Se han descrito las nociones básicas del diseño de embarcaciones de alto rendimiento utilizando programas informáticos, en función de las reglas de clase.
+
+b. Se han seleccionado las pruebas y ensayos hidrodinámicos, y los parámetros a medir, en el canal de aguas en función de la clase de embarcación.
+
+c. Se han seleccionado los parámetros a medir en el canal de agua, según las características de la embarcación.
+
+d. Se han seleccionado las pruebas y ensayos a realizar en aguas tranquilas en función de la clase de embarcación.
+
+e. Se han seleccionado las pruebas y ensayos de comportamiento en el mar en función de la clase de embarcación.
+
+f. Se ha valorado el rendimiento de una embarcación, en diferentes situaciones, a través de los parámetros que miden su velocidad.
+
+g. Se han explicado las metodologías de medición del rendimiento de velocidad de una embarcación.
+
+h. Se han caracterizado las prestaciones de los materiales de construcción de embarcaciones de alto rendimiento.
+
+i. Se han descrito las limitaciones de diseño y construcción de embarcaciones de alto rendimiento de acuerdo con las reglas de clase.
+
+j. Se han descrito las diferentes técnicas de construcción de embarcaciones de alto rendimiento, y relacionado con la mejora de las prestaciones de las embarcaciones.
+
+k. Se han valorado la importancia de los conocimientos de diseño de embarcaciones de vela de alto rendimiento.
+
+4\. Identifica las características de las velas y apéndices, y su efecto en la navegación, analizando las formas, las técnicas y materiales de construcción, su comportamiento en la navegación, relacionándolo con las condiciones ambientales, las técnicas de navegación y las limitaciones reglamentarias de cada clase.
+
+a. Se han descrito los parámetros del diseño de velas, así como los programas informáticos de optimización del rendimiento de una vela.
+
+b. Se ha descrito el análisis de comportamiento aerodinámico en el cálculo de la eficiencia de las velas.
+
+c. Se ha descrito el análisis de elementos finitos en el cálculo de las formas de las velas.
+
+d. Se han descrito las características de los tejidos utilizados en la confección de las velas utilizadas en el alto rendimiento.
+
+e. Se han descrito las limitaciones en el diseño y construcción de velas de alto rendimiento, teniendo en cuenta las limitaciones de las reglas de clase.
+
+f. Se han caracterizado las diferentes técnicas de construcción de velas de alto rendimiento, y las ventajas y desventajas que conllevan.
+
+g. Se han descrito los criterios básicos que se utilizan en el diseño de apéndices, teniendo en cuenta las limitaciones de las reglas de clase.
+
+h. Se han analizado las formas de las velas que se utilizan en las embarcaciones de alto rendimiento a vela, en función de las reglas de clase y las características de la tripulación.
+
+i. Se ha valorado la influencia que el conocimiento del diseño de velas tiene en la mejora del rendimiento de las embarcaciones de alto rendimiento.
+
+5\. Valora el rendimiento de las velas, analizando y seleccionando la información necesaria y aplicando las técnicas y metodologías de obtención y procesamiento de la información.
+
+a. Se han descrito las distintas pruebas aerodinámicas a realizar en una vela, en el túnel de viento y los parámetros a verificar, en relación con la máxima velocidad de un barco de alto rendimiento.
+
+b. Se han definido los coeficientes de sustentación y resistencia a obtener en el túnel de viento y su relación con la forma optima de la polar.
+
+c. Se ha definido la relación entre la polar y los parámetros que definen la geometría de la vela.
+
+d. Se ha procesado la información obtenida en las pruebas aerodinámicas, y relacionado con la optimización de la velocidad del barco.
+
+e. Se ha seleccionado la información que utilizan los programas informáticos en la simulación de pruebas en un túnel de viento virtual para la optimización del rendimiento de las velas.
+
+f. Se ha seleccionado la información que utilizan los programas informáticos en el análisis del comportamiento de las velas en tiempo real para la obtención del mejor rendimiento de las mismas.
+
+g. Se han analizado los criterios de observación y valoración del comportamiento de las velas en tiempo real, en función de la información obtenida de los programas informáticos.
+
+h. Se han aplicado programas informáticos de digitalización de fotos realizadas de las velas, obtención de datos y realización del análisis de los mismos.
+
+i. Se han analizado el comportamiento de las velas en el agua, observándolas desde la neumática y desde el barco.
+
+j. Se han analizado el comportamiento del spinnaker en el agua, observándolos desde la neumática y desde el barco.
+
+k. Se ha justificado el análisis de la información como valor esencial para conseguir un rendimiento óptimo de las velas.
+
+6\. Conserva y realiza labores de mantenimiento de los materiales específicos del alto rendimiento, así como la coordinación y gestión de las reparaciones, aplicando las técnicas adecuadas y manejando las herramientas necesarias.
+
+a. Se han descrito las características y compatibilidad de los materiales, utilizados en las embarcaciones y aparejos de las embarcaciones de alto rendimiento a vela con aparejo fijo.
+
+b. Se han descrito y preparado los materiales que se utilizan para la reparación de pequeñas averías que puedan surgir durante la competición de alto rendimiento.
+
+c. Se han descrito las características del mantenimiento, y ejecutado las técnicas de reparación de fibras, resinas y derivados utilizados en las embarcaciones y aparejos de las embarcaciones de alto rendimiento a vela con aparejo fijo.
+
+d. Se han descrito las características del mantenimiento y reparación de las velas utilizadas en las embarcaciones de alto rendimiento a vela con aparejo fijo.
+
+e. Se han analizado las características de los materiales de las velas con relación a los esfuerzos que tiene que realizar.
+
+f. Se han descrito los protocolos de revisión de las embarcaciones, y equipos de navegación de alto rendimiento antes y después de realizar la actividad.
+
+g. Se ha valorado la importancia de la revisión y del mantenimiento de las embarcaciones, aparejos y equipos en el alto rendimiento deportivo.
+
+h. Se ha justificado la previsión como factor de seguridad en las competiciones de alto rendimiento a vela.
+
+Contenidos básicos
+
+1\. Selecciona las clases de embarcaciones de alto rendimiento, analizando las características técnicas y reglamentarias de las diferentes clases y sus condicionantes técnicas relacionándolas con las características de los navegantes.
+
+– Evolución técnica de las embarcaciones de alto rendimiento.
+
+– Estadísticas de las características físicas ideales de las tripulaciones según cada clase.
+
+– Reglas de clase de las clases olímpicas.
+
+– Reglas fundamentales.
+
+– Certificados y documentos.
+
+– Reglas de medición y construcción.
+
+– Casco, apéndices, velas, palo y jarcia.
+
+– Herramientas y equipos estándar de medición.
+
+– Herramientas y equipos especiales de medición.
+
+2\. Realiza el reglaje de las diferentes embarcaciones de alto rendimiento, utilizando técnicas de medición y análisis e identificando las variables que afectan al reglaje y puesta a punto del material.
+
+– Elementos de puesta a punto:
+
+– Pie de mástil (base del palo), situación (distancia). Comprobación de la simetría.
+
+– Regulación orza y timón. Simetrías.
+
+– Pulido de las superficies mojadas.
+
+– Reglaje:
+
+– Caída del palo y tensión. Simetrías. Tension stay y backstay.
+
+– Reglaje de la mayor (driza, escota, carro, Cunnighan, pujamen, pata de gallo, cuñas, trapa).
+
+– Reglaje de foque (contra escota, Cunninghan, carro).
+
+– Reglaje del spinnaker y genaker. Tangón o botalón.
+
+– Formas de las velas y sus reglajes.
+
+– Sistema para sacar la curvatura y deflexión del mástil y de la botavara, longitudinal y trasversal.
+
+– Sistemas de alineado de quilla-timón.
+
+– Sistemas para calcular la flexión de los apéndices.
+
+– Manuales de reglaje de cada clase olímpica.
+
+3\. Identifica las características de las embarcaciones, analizando las características del diseño, las características constructivas, las técnicas y materiales de construcción.
+
+– Programas informáticos de diseño y simulación: nociones básicas.
+
+– Ensayos en canal de agua: realización de pruebas y ensayos hidrodinámicos de tablas de vela y sus apéndices(,) para alta competición.
+
+– Parámetros más importantes: resistencia, fuerza lateral, momento de escora y deriva.
+
+– Ensayos en aguas tranquilas, selección de carena, preparación de modelos, metodología de ensayo.
+
+– Ensayos de comportamiento en el mar, estudio del campo de regatas, preparación de modelos, método de análisis.
+
+– Análisis de los rendimientos de velocidad de una embarcación.
+
+– Polares de velocidad del barco.
+
+– Pruebas de velocidad con ayuda de los programas de VPP (Velocity Prediction Program).
+
+– Metodología de utilización.
+
+– El VMG (Velocity Made Good) y su relación con la polar.
+
+– Velocidad objetivo para una mejor VMG, en ceñida, rumbos portantes, spinnaker clásico y asimétricos.
+
+– Materiales de construcción en embarcaciones de alto rendimiento. Limitaciones de las reglas de cada clase y las de la regla 53 del RRV.
+
+– Técnicas de construcción de embarcaciones. Influencia en el rendimiento de la embarcación:
+
+– Moldes macho-hembra.
+
+– Infusión de resina líquida, preimpregnado, laminado al vacío.
+
+4\. Identifica las características de las velas y apéndices, y su efecto en la navegación, analizando las formas, las técnicas y materiales de construcción, su comportamiento en la navegación, relacionándolo con las condiciones ambientales y las técnicas de navegación.
+
+– Nociones básicas del diseño de velas. Medidas según reglas de clase.
+
+– Programas de diseño por ordenador:
+
+– Análisis de comportamiento aerodinámico (CFD) para calcular la eficiencia de las velas.
+
+– Análisis de elementos finitos para calcular las formas de las velas.
+
+– Materiales de construcción de las velas de alto rendimiento y las limitaciones de las reglas de clase.
+
+– Técnicas de construcción de velas: paños, 3DL, comparación, rendimientos.
+
+– Limitaciones de diseño según las reglas de clase.
+
+– Nociones básicas del diseño de apéndices: programas de diseño.
+
+– Limitaciones de diseño de las velas según las reglas de clase.
+
+5\. Valora el rendimiento de las velas, analizando y seleccionando la información necesaria y aplicando las técnicas y metodologías de obtención y procesamiento de la información.
+
+– Túnel de viento: características y pruebas aerodinámicas a realizar para alcanzar la máxima velocidad.
+
+– Túnel de viento virtual por ordenador: características y pruebas a realizar.
+
+– Programas de análisis de velas en computador en tiempo real:
+
+– Análisis de velas mediante la digitalización de fotos: Programas específicos.
+
+– Métodos de observación de las velas y spinnaker.
+
+– Ciclos de control de las velas.
+
+– Ciclo de control del spinnaker.
+
+– Observación del aparejo.
+
+6\. Conserva y realiza labores de mantenimiento de los materiales específicos del alto rendimiento, así como la Coordinación y Gestión de las reparaciones, aplicando las técnicas adecuadas y manejando las herramientas necesarias.
+
+– Técnicas de check-list de mantenimiento de las embarcaciones y materiales utilizados.
+
+– Sistemas de reparación para alto rendimiento de cabuyería, jarcia, acastillaje, apéndices y casco.
+
+– Características de los materiales utilizados en alto rendimiento.
+
+– Realizar un supuesto práctico de una pequeña reparación de un barco de alto rendimiento, utilizando máquina de vació.
+
+– Características y procedimientos de mantenimiento y reparación de las velas de alto rendimiento.
+
+– Procedimientos de coordinación de las reparaciones a realizar en las embarcaciones y material de alto rendimiento.
+
+– Los materiales de las velas y sus características, solidez, ligereza, firmeza y flexibilidad.
+
+– Las fibras y su relación con el viento.
+
+– Los tejidos, ejes de resistencia, torsión y contracción.
+
+– Los compuestos, resinas, película, napa y pegamento.
+
+– La fabricación.
+
+> Se numera como Anexo II.n por el art. 2.3.n) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.ñ — Módulo de enseñanza deportiva: Formación práctica
+
+Código: MED-VEAF310
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica la estructura organizativa y el funcionamiento del centro deportivo de prácticas (escuela de vela, club, centro alto rendimiento, federación), relacionándola con su oferta de actividades de alto rendimiento deportivo y las actividades de gestión del mismo.
+
+a. Se ha categorizado la estructura organizativa y el funcionamiento de las distintas áreas del centro deportivo de prácticas.
+
+b. Se han clasificado las relaciones jerárquicas dentro del centro deportivo de prácticas.
+
+c. Se ha revisado la oferta de actividades vinculadas al alto rendimiento deportivo.
+
+d. Se han relacionado las características del centro deportivo de prácticas con la normativa de responsabilidad de los técnicos responsables.
+
+e. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+f. Se ha revisado el plan de actuación de emergencias de las instalaciones del centro deportivo de prácticas.
+
+g. Se ha identificado y analizado el plan de prevención de riesgos laborales del centro deportivo de prácticas.
+
+h. Se han revisado las condiciones laborales de los técnicos deportivos del centro deportivo de prácticas, en relación con la normativa sobre salud laboral.
+
+2\. Colabora en la administración del centro deportivo de prácticas (escuela de vela, club, centro alto rendimiento, federación), aplicando procedimientos de gestión económica y contable.
+
+a. Se ha colaborado en la organización de las actividades económicas del centro de trabajo.
+
+b. Se ha identificado la forma jurídica utilizada en la constitución del centro deportivo de prácticas, y el grado de responsabilidad legal de los propietarios y gestores.
+
+c. Se ha colaborado en los procedimientos administrativos básicos de gestión del centro deportivo de prácticas.
+
+d. Se han colaborado en la realización de realizado trámites de petición de ayudas a la gestión del centro deportivo de prácticas.
+
+e. Se ha colaborado en la gestión de ayudas económicas que utiliza o puede utilizar el centro deportivo de prácticas.
+
+f. Se ha colaborado en la confección de documentación administrativa y comercial necesaria en el desarrollo de la actividad deportiva.
+
+g. Se han identificado las obligaciones y exenciones fiscales y tributarias del centro deportivo de prácticas.
+
+h. Se ha realizado la declaración de impuestos del centro deportivo de prácticas.
+
+i. Se ha tenido una actitud de respeto y cumplimiento de la normativa y los procedimientos de gestión económica del centro deportivo de prácticas.
+
+3\. Identifica la estructura organizativa y el funcionamiento del centro de formación de técnicos deportivos superior, relacionándola con su oferta formativa, analizando la normativa de aplicación, aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a. Se han fundamentado las relaciones del centro de formación de técnicos deportivos superior, con la administración educativa correspondiente.
+
+b. Se ha caracterizado la estructura organizativa y el funcionamiento del centro de formación de técnicos deportivos.
+
+c. Se han clasificado las relaciones jerárquicas dentro del centro de formación de técnicos deportivos.
+
+d. Se ha revisado la oferta de actividades vinculadas a la formación de técnicos deportivos en vela con aparejo libre.
+
+e. Se han analizado las características del centro de formación de técnicos deportivos, y la normativa sobre la responsabilidad del profesorado.
+
+f. Se ha esquematizado la normativa educativa y curricular vigente sobre la formación de técnicos deportivos en vela.
+
+g. Se ha revisado la legislación y normas vigentes sobre la seguridad a utilizar en la formación de los técnicos deportivos.
+
+h. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+4\. Actúa con autonomía, iniciativa y responsabilidad en el puesto de trabajo, demostrando comportamiento ético, habilidades personales de comunicación, trabajo en equipo, respeto por el medio ambiente, y aplicando los procedimientos establecidos por la empresa.
+
+a. Se han identificado los requerimientos actitudinales del puesto de trabajo.
+
+b. Se han interpretado y cumplido las instrucciones recibidas y responsabilizado del trabajo asignado.
+
+c. Se ha demostrado compromiso con el trabajo bien hecho y la calidad del servicio, así como respeto a los procedimientos y principios propios del club o entidad deportiva.
+
+d. Se ha demostrado capacidad de trabajo en equipo y respeto a la jerarquía establecida en el club o entidad deportiva.
+
+e. Se han establecido una comunicación y relación eficaz con el técnico responsable de la actividad y los miembros del equipo, manteniendo un trato fluido y correcto.
+
+f. Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante o imprevisto que se presente en la actividad.
+
+g. Se ha demostrado un comportamiento ético con los deportistas y los adversarios, en especial en presencia de los medios de comunicación.
+
+5\. Organiza y gestiona competiciones y eventos propios del nivel de la iniciación y la tecnificación deportiva, y colabora en los de alto rendimiento, participando en la gestión y diseño de la competición, aplicando criterios de sostenibilidad.
+
+a. Se ha propuesto la estructura y las funciones que se deben desempeñar en la organización de una competición o evento deportivo de tecnificación en vela con AF.
+
+b. Se han definido y aplicado los criterios de sostenibilidad en la organización de una competición o evento deportivo de tecnificación en vela con AF.
+
+c. Se ha gestionado la financiación de la organización de una competición o evento deportivo de tecnificación en vela con AF.
+
+d. Se ha realizado la gestión y difusión de los resultados de una competición o evento deportivo de tecnificación o alto rendimiento en vela con AF.
+
+e. Se ha participado en la gestión de personal y medios materiales de las diferentes áreas o comités de la organización de una competición o evento de tecnificación o alto rendimiento en vela con AF.
+
+f. Se ha colaborado en la organización y realización de actos protocolarios de apertura, entrega y clausura de una competición o evento deportivo de tecnificación o alto rendimiento en vela con AF.
+
+g. Se han tomado las medidas de seguridad y de atención a las emergencias en la organización de una competición o evento deportivo de tecnificación en vela con AF.
+
+h. Se ha analizado la estructura organizativa de una competición, y la de los diferentes comités, su composición y funciones.
+
+i. Se han analizado las características técnicas del formato de competición utilizado en una regata de alto rendimiento, de acuerdo con las reglas de clase y la guía de la RFEV.
+
+j. Se ha colaborado en la gestión de los permisos necesarios en la celebración de una competición o evento de tecnificación en vela con AF.
+
+k. Se han utilizado los instrumentos de comunicación para la navegación, utilizados en el centro de formación.
+
+6\. Organiza, acompaña y dirige a los regatistas de alto nivel en vela con AF en su participación en actividades, competiciones y otros eventos internacionales, aplicando la normativa relacionada.
+
+a. Se ha informado a los regatistas de alto nivel de la normativa que les afecta y los programas de ayuda que existen a nivel nacional y autonómico.
+
+b. Se ha orientado a los regatistas de alto nivel sobre las salidas profesionales de su actividad deportiva, y de la importancia de mantener una formación académica o profesional paralelas a la vida deportiva.
+
+c. Se ha revisado e informado a los regatistas de la normativa antidopaje de aplicación en las competiciones internacionales o de alto nivel en las que se participa.
+
+d. Se ha realizado la inscripción del regatista o regatistas en una competición internacional o de alto nivel en vela, de acuerdo con los protocolos y normas establecidos.
+
+e. Se han realizado las operaciones de gestión del seguro de accidente y actividad de un grupo de regatistas que participan en una competición internacional o de alto nivel, de acuerdo con las instrucciones y normas recibidas.
+
+f. Se ha reconocido y justificado la responsabilidad de un técnico en los desplazamientos de los regatistas para asistir a una competición internacional o de alto nivel.
+
+g. Se ha elaborado el plan de viaje de un regatista o grupo de regatistas para su participación en una competición (campeonato) internacional o de alto nivel, aplicando las instrucciones y procedimientos establecidos.
+
+h. Se ha informado al regatista de las características de la competición internacional o de alto nivel, interpretando la documentación sobre la misma.
+
+i. Se han trasladado al regatista las instrucciones técnicas y tácticas para la regata internacional o de alto nivel, teniendo en cuenta las características de la regata y del regatista.
+
+j. Se ha acompañado a los regatistas en las competiciones internacionales o de alto nivel, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
+
+k. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición internacional o de alto nivel en vela, aplicando los procedimientos adecuados y respetando las normas de la misma.
+
+7\. Colabora en las acciones del equipo técnico durante la competición de alto rendimiento con AF, valorando la ejecución técnico-táctica del regatista, las condiciones ambientales y aplicando procedimientos de reclamación o protesta en una regata, y aplicando las normas vigentes.
+
+a. Se ha analizado el régimen de vientos y sus posibles variaciones del área de navegación de la regata de alto nivel.
+
+b. Se han utilizado los programas de análisis y previsión de los vientos, en las áreas de navegación.
+
+c. Se han utilizado los manuales de medición de las embarcaciones de alto nivel, en la verificación de los barcos antes de la competición.
+
+d. Se han aplicado criterios de valoración de la ejecución técnico-táctica del regatista, utilizando técnicas y procedimientos de observación adecuadas al alto nivel.
+
+e. Se han aplicado procedimientos de reclamación (protestas) en una regata internacional o de alto nivel en vela, utilizando el idioma adecuado, aplicando los protocolos y normas establecidos.
+
+f. Se han resuelto situaciones tácticas de las regatas de alto nivel utilizando los manuales de la ISAF.
+
+g. Se ha valorado el conocimiento de los procedimientos y protocolos de reclamación, como valor añadido al rendimiento del regatista.
+
+8\. Planifica el entrenamiento a largo, medio y corto plazo de los regatistas, interpretando la información del deportista y del entorno, coordinando el equipo de especialistas, y aplicando los modelos, procedimientos y técnicas más adecuados.
+
+a. Se ha colaborado en la elaboración del programa de detección, identificación y selección de talentos deportivos en vela del centro deportivo de prácticas.
+
+b. Se han aplicado criterios de detección, identificación y selección de talentos deportivos en vela, en el centro deportivo de prácticas.
+
+c. Se ha seleccionado e interpretado la información del regatista del centro deportivo de prácticas y de su entorno, necesarias en la elaboración de la programación a largo plazo.
+
+d. Se ha elaborado la planificación a largo plazo de la preparación completa del regatista, de acuerdo con los modelos utilizados en el centro deportivo de prácticas e identificando las dinámicas de carga de los diferentes factores de rendimiento deportivo en vela.
+
+e. Se han aplicado instrumentos de valoración de la condición física o condicional del regatista de alto nivel, interpretando y, en su caso, tratando la información resultante.
+
+f. Se han elaborado y aplicado instrumentos de registro del comportamiento técnico-táctico en entrenamiento y competición del regatista de alto nivel, interpretando y, en su caso, tratando la información resultante.
+
+g. Se han aplicado instrumentos de valoración del perfil psicológico del regatista y de su comportamiento durante la regata, interpretando y, en su caso, tratando la información resultante.
+
+h. Se ha elaborado la programación a medio y corto plazo de los diferentes factores de rendimiento (condicionales, técnicos, psicológicos, etc.) del regatista, de acuerdo con la planificación del centro de prácticas y los objetivos y características del regatista.
+
+i. Se ha registrado, cuantificado y procesado la información sobre la carga de entrenamiento de un regatista del centro deportivo de prácticas.
+
+j. Se han asignado objetivos y medios de trabajo al equipo de técnicos especialistas, dentro de la planificación y programación del entrenamiento del regatista.
+
+k. Se han incorporado las aportaciones de los técnicos especialistas en la planificación y programación del entrenamiento del regatista.
+
+l. Se ha mostrado una actitud de rigor y objetividad en la aplicación de los instrumentos de valoración utilizados.
+
+9\. Organiza y dirige el entrenamiento de los regatistas, coordinando equipos de técnicos especialistas, aplicando los medios y métodos específicos de entrenamiento de cada uno de los factores de rendimiento en vela con AF, y aplicando las nuevas tecnologías al registro del entrenamiento y la competición.
+
+a. Se ha generado credibilidad en el equipo de técnicos especialistas que colaboran con el técnico en el centro deportivo de prácticas.
+
+b. Se gestionado el equipo de técnicos especialistas, demostrando liderazgo y potenciando la comunicación entre el equipo del centro deportivo de prácticas y el técnico.
+
+c. Se han aplicado medios y métodos de entrenamiento de los factores de rendimiento, y elegido las tareas de acuerdo con la programación del centro de prácticas.
+
+d. Se ha dirigido la sesión teniendo en cuenta la variedad e integración de los diferentes medios y métodos de entrenamiento, de acuerdo con la programación del centro deportivo de prácticas.
+
+e. Se han identificado y solucionado las contingencias que hayan surgido durante la sesión de entrenamiento del regatista.
+
+f. Se ha adaptado el trabajo de la sesión a las condiciones reales del regatista.
+
+g. Se han tenido en cuenta las lesiones más frecuentes en vela y sus medidas preventivas, en la dirección de la sesión de entrenamiento.
+
+h. Se han aplicado instrumentos de registro audiovisual del comportamiento técnico-táctico: durante el entrenamiento y competición, del regatista de alto nivel, interpretando y, en su caso, editando los registros realizados.
+
+i. Se han utilizado durante la sesión de entrenamiento del regatista los registros audiovisuales del entrenamiento o la regata.
+
+j. Se han utilizado medios electrónicos de control de la velocidad y ayuda a la navegación, durante los entrenamientos y la regata de alto nivel.
+
+k. Se ha mantenido una actitud motivadora y empática con el regatista durante la dirección de la concentración de preparación o la sesión de entrenamiento.
+
+l. Se ha realizado una sesión de entrenamiento psicológico adaptándolo a las condiciones del regatista de alto nivel en vela con AF.
+
+10\. Colabora en el establecimiento de las ayudas ergogénicas y de los planes de trabajo complementario del regatista lesionado, aplicando los medios, métodos y procedimientos establecidos.
+
+a. Se ha programado el trabajo complementario de un regatista lesionado, teniendo en cuenta la programación del centro deportivo de prácticas.
+
+b. Se ha valorado las pautas alimentarias de los regatistas del centro deportivo de prácticas.
+
+c. Se han propuestos medidas de formación sobre alimentación deportiva a los regatistas del centro deportivo de prácticas.
+
+d. Se ha identificado las manifestaciones de fatiga durante el entrenamiento y la competición del regatista del centro deportivo de prácticas.
+
+e. Se han propuesto y aplicado medidas de recuperación de la fatiga de acuerdo con las posibilidades del centro deportivo de prácticas.
+
+f. Se ha colaborado en la prescripción y administración de ayudas ergogénicas en regatistas del centro deportivo de prácticas.
+
+g. Se ha informado al regatista de los riesgos y consecuencias en la salud, del uso de sustancias dopantes.
+
+h. Se ha mostrado una actitud de juego limpio y respeto por la salud del regatista en especial en lo referido al uso de sustancias dopantes.
+
+11\. Participa en la formación de técnicos deportivos, revisando a la organización académica y curricular del centro, impartiendo clases y colaborando en la tutorización de los módulos de formación práctica y proyecto final.
+
+a. Se han identificado el tipo de centro docente de prácticas, el tipo de vinculación con la administración y la normativa que le es de aplicación a efectos de organización y funcionamiento.
+
+b. Se han identificado las responsabilidades del profesor especialista en vela y del técnico deportivo superior en vela con aparejo libre, en la formación de técnicos en la modalidad.
+
+c. Se han concretado los elementos de la programación didáctica de un módulo del bloque específico, atendiendo a su normativa de ordenación, a las características del alumnado, y el contexto del centro docente de prácticas.
+
+d. Se ha colaborado en la realización de una presentación (de tareas y contenidos), atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características de los alumnos del centro docente de prácticas.
+
+e. Se ha colaborado en el diseño y dirección de una sesión de trabajo práctico o procedimental, atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características de los alumnos del centro docente de prácticas.
+
+f. Se ha participado en el proceso de evaluación de los alumnos del centro docente de prácticas.
+
+g. Se han tenido en cuenta la aplicación efectiva del principio de igualdad de oportunidades entre mujeres y hombres a la hora de seleccionar los recursos didácticos en la docencia del módulo específico de enseñanzas deportivas en vela.
+
+h. Se han previsto y preparado de antemano recursos didácticos alternativos frente a posibles incidencias, incluyendo la atención a personas con discapacidad, en la dirección de la sesión del módulo específico de enseñanzas deportivas en vela.
+
+i. Se han identificado las condiciones de seguimiento y tutorización de los distintos módulos del bloque específico de los ciclos inicial y final de grado medio de vela con aparejo libre, presenciales y a distancia, establecidos en el centro docente de prácticas.
+
+j. Se ha participado en el establecimiento de contactos y convenios con las entidades colaboradoras en el módulo de formación práctica en el centro docente de prácticas.
+
+k. Se han utilizado aplicaciones informáticas específicas en supuestos de gestión y seguimiento del módulo de formación práctica en el centro docente de prácticas.
+
+l. Se ha colaborado en la realización de informes de evaluación del módulo de formación práctica.
+
+m. Se ha participado en el asesoramiento y control de entrevistas y tutorías personalizadas en la dirección de proyectos dentro del centro docente de prácticas.
+
+12\. Colabora en la realización del reglaje de las diferentes clases de alto rendimiento de aparejo libre, utilizando técnicas de medición y análisis e identificando las variables que afectan al reglaje y puesta a punto del material.
+
+a. Se ha colaborado en la realización de las diferentes acciones de puesta a punto y reglaje de los aparejos de una embarcación de alto rendimiento con aparejo fijo, relacionándolo con las condiciones de navegación: fuerza del viento, oleaje, corrientes.
+
+b. Se ha participado en la aplicación de técnicas de puesta a punto del casco y sus herrajes, así como de la orza y el timón.
+
+c. Se ha colaborado en la aplicación de técnicas de pulido de las superficies mojadas de la embarcación de alto rendimiento a vela con aparejo fijo.
+
+d. Se ha participado en la aplicación de técnicas de preparación y colocación del palo, teniendo en cuenta las características de la embarcación de alto rendimiento a vela con aparejo fijo.
+
+e. Se ha colaborado en la medida de la caída del palo y su tensión, la apertura de las crucetas y su longitud.
+
+f. Se ha participado en la aplicación de técnicas de reglaje de la vela mayor (Cunningham, pujamen, pata de gallo, cuñas trapa) teniendo en cuenta las condiciones ambientales de un supuesto de navegación a vela con embarcaciones de alto rendimiento de aparejo fijo.
+
+g. Se ha participado en la aplicación de técnicas de reglaje de foque (contra, escota, Cunningham) teniendo en cuenta las condiciones ambientales de un supuesto de navegación a vela con embarcaciones de alto rendimiento de aparejo fijo.
+
+h. Se ha colaborado en la realización de los procedimientos de reglaje de los sables teniendo en cuenta las condiciones de viento y oleaje.
+
+i. Se ha colaborado en la aplicación de los procedimientos necesarios de medición de la curvatura de un mástil de una embarcación de alto rendimiento.
+
+j. Se ha colaborado en la aplicación de los procedimientos necesarios de medición de la curvatura y deflexión de una botavara de una embarcación de alto rendimiento.
+
+k. Se ha colaborado en la aplicación de los sistemas y procedimientos de alineación de la quilla y el timón.
+
+l. Se ha colaborado en el análisis de los rendimientos de velocidad de una embarcación de alto rendimiento con aparejo fijo.
+
+m. Se ha justificado la importancia de la puesta a punto de las embarcaciones de alto rendimiento como factor que mejora el rendimiento deportivo en la navegación con embarcaciones a vela con aparejo fijo.
+
+> Se numera como Anexo II.ñ por el art. 2.3.ñ) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.o — Módulo de enseñanza deportiva: Proyecto final
+
+Código: MED-VEAF311
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Diseña proyectos relacionados con las competencias del técnico deportivo superior en vela con aparejo fijo, fundamentando el proyecto en la información recogida, desarrollando las fases que lo componen y realizando las previsiones de recursos humanos y materiales.
+
+a. Se ha elegido un tema que permite integrar los conocimientos adquiridos en los diferentes bloques y módulos del ciclo superior en vela con aparejo fijo.
+
+b. Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto.
+
+c. Se han identificado las fases o partes que componen el proyecto y sus contenidos.
+
+d. Se han establecido los objetivos que se pretenden conseguir identificando su alcance.
+
+e. Se han valorado los aspectos que pueden facilitar o dificultar el desarrollo del proyecto.
+
+f. Se han previsto y priorizado los recursos materiales y personales necesarios, de acuerdo con los objetivos del proyecto.
+
+g. Se ha realizado el presupuesto económico correspondiente.
+
+h. Se han identificado las posibles fuentes de financiación del proyecto, en base a las necesidades del mismo.
+
+i. Se han identificado los aspectos que se deben controlar y de los que depende la calidad del proyecto.
+
+j. Se ha justificado la pertinencia y viabilidad del proyecto.
+
+k. Se ha valorado el rigor en la recogida de la información utilizada en la elaboración del proyecto.
+
+2\. Planifica y programa la ejecución del proyecto, determinando las fases o ciclos de preparación, la metodología utilizada y los recursos necesarios.
+
+a. Se han secuenciado y temporalizado las actividades ordenándolas en función de las necesidades de implantación del proyecto.
+
+b. Se ha elaborado la planificación del proyecto, periodizando y programando el entrenamiento y los recursos necesario, cuando el proyecto este dirigido al alto rendimiento deportivo en vela con aparejo fijo.
+
+c. Se han determinado los recursos y la logística necesarios en cada actividad.
+
+d. Se han identificado los permisos y autorizaciones necesarios en cada una de las actividades.
+
+e. Se han determinado los procedimientos de actuación o ejecución de las actividades.
+
+f. Se han identificado los riesgos inherentes al desarrollo de las actividades, definiendo el plan de prevención de riesgos y los medios y equipos necesarios.
+
+g. Se han planificado la asignación de recursos materiales y humanos, y los tiempos de ejecución.
+
+h. Se ha hecho la valoración económica necesaria en la ejecución del proyecto.
+
+i. Se ha definido y elaborado la documentación necesaria en las previsiones y ejecución del proyecto.
+
+j. Se han relacionado/utilizado de una manera integradora y sinérgica los conceptos y procedimientos adquiridos en los diferentes módulos del ciclo superior en vela con aparejo fijo.
+
+k. Se han tenido en cuenta criterios de sostenibilidad a la hora de elegir las actividades, la metodología y los recursos utilizados en el proyecto.
+
+3\. Selecciona los procedimientos de seguimiento y control de la elaboración y ejecución del proyecto, justificando las funciones dentro del proyecto, la selección de variables e instrumentos empleados.
+
+a. Se ha definido el procedimiento de evaluación de las actividades.
+
+b. Se han definido los indicadores de calidad utilizados en la evaluación del proyecto.
+
+c. Se han definido los procedimientos de evaluación de las incidencias que puedan presentarse durante la realización del proyecto, su posible solución y registro.
+
+d. Se ha definido el procedimiento de gestión de los posibles cambios en los recursos, en las actividades o en la dinámica de cargas, en el caso del entrenamiento de alto rendimiento, incluyendo el sistema de registro de los mismos.
+
+e. Se ha definido y elaborado la documentación necesaria en la evaluación de las actividades del proyecto.
+
+f. Se ha establecido el procedimiento de participación en la evaluación de los deportistas o usuarios/clientes y se han elaborado los documentos específicos.
+
+g. Se ha establecido un sistema de garantía de cumplimiento del pliego de condiciones del proyecto cuando este exista.
+
+h. Se ha atendido a las consideraciones del tutor/director del proyecto durante la elaboración del mismo.
+
+i. Se ha cumplido con el seguimiento del proyecto según el procedimiento establecido por el tutor/director.
+
+j. Se ha mostrado una actitud de respeto y aceptación de las aportaciones realizadas por el tutor/director, integrando de forma constructiva las valoraciones recibidas en el proyecto.
+
+4\. Presenta el proyecto, seleccionando los aspectos relevantes del mismo, justificando las decisiones tomadas y utilizando los recursos didácticos y técnicos más adecuados en cada caso.
+
+a. Se ha definido y elaborado la documentación necesaria en la presentación y comunicación del proyecto.
+
+b. Se han utilizado los recursos didácticos y técnicos más adecuados para la presentación y comunicación del proyecto, incluyendo las nuevas tecnologías, de forma coherente con los objetivos del proyecto.
+
+c. Se ha presentado el proyecto, de forma clara, sintética, incluyendo los aspectos fundamentales que debía incluir la presentación.
+
+d. Se ha utilizado bibliografía actualizada en la fundamentación del trabajo, referenciándola de forma adecuado.
+
+e. Se ha contestado de forma precisa y justificada a las cuestiones realizadas sobre las características y fundamentación del proyecto.
+
+f. Se ha justificado suficientemente el proyecto y se ha argumentado su implementación.
+
+g. Se ha ajustado en la presentación del proyecto a la estructura definida y establecida en los criterios de evaluación.
+
+h. Se ha presentado el proyecto, ajustándose a las características formales, estructura y apartados establecidos por el tribunal.
+
+i. Se han justificado en la presentación del proyecto, las relaciones existentes entre los diferentes resultados de aprendizaje adquiridos en los diferentes módulos del ciclo superior en vela con aparejo fijo.
+
+j. Se ha demostrado poseer una visión general del proyecto, relacionando la argumentación con la finalidad y las conclusiones del proyecto.
+
+> Se numera como Anexo II.o por el art. 2.3.o) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO III — Objetivos generales y módulos de enseñanza deportiva del ciclo de grado superior en vela con aparejo libre
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos III.a hasta el III.o por el art. 2.4 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+## ANEXO III.a — Objetivos generales
+
+a. Seleccionar y justificar los procedimientos de la valoración del entorno del regatista, de los medios materiales e instalaciones disponibles, las modificaciones reglamentarias, e identificando a los futuros talentos deportivos, identificando sus características y aplicando los procedimientos, para analizar las condiciones del alto rendimiento.
+
+b. Seleccionar y justificar los procedimientos de análisis de los factores de rendimiento (funcionales, técnicos, tácticos, psicológicos, características de las clase y tripulaciones) y los criterios de selección de los deportistas, identificando sus características y aplicando los procedimientos establecidos, para valorar los factores de rendimiento propios del alto rendimiento en vela con aparejo libre.
+
+c. Elegir y justificar los procedimientos de determinación de los objetivos, medios y métodos del entrenamiento, y la temporalización de la carga, identificando los principios del entrenamiento y del aprendizaje motor aplicables, para programar a corto, medio y largo plazo el entrenamiento de alto rendimiento en vela con aparejo libre.
+
+d. Analizar la complejidad de las tareas y los factores relativos a la carga de trabajo, diseñando actividades en supuestos establecidos y aplicando los principios y métodos del entrenamiento de alto nivel en vela con aparejo libre, para concretar las sesiones de trabajo.
+
+e. Describir, elegir y demostrar las técnicas y estrategias de dirección de sesiones, entrenamientos de regatistas, de control de las contingencias propias del alto rendimiento en la navegación a vela con aparejo libre, aplicando procedimientos de observación, dinamización y control, resolviendo supuestos y aplicando normas de protección del medioambiente, para dirigir sesiones en condiciones de alta exigencia.
+
+f. Seleccionar, comprobar y poner a punto los medios materiales e instalaciones propias del alto rendimiento en vela con aparejo libre, aplicando procedimientos establecidos y normativa vigente, operando con los instrumentos de reparación y de mantenimiento, para facilitar la disponibilidad y adecuada utilización de los medios necesarios.
+
+g. Evaluar las condiciones de seguridad de las instalaciones, áreas de navegación, medios y embarcaciones de alto rendimiento en vela con aparejo libre, aplicando los procedimientos establecidos y la normativa vigente, para controlar la seguridad en la práctica de la vela en el alto rendimiento.
+
+h. Elegir y demostrar las técnicas de ayuda y rescate, en las situaciones de riesgo detectadas y propios del alto rendimiento en vela con aparejo libre, aplicando los procedimientos establecidos en situaciones simuladas, para intervenir y rescatar en situaciones de riesgo.
+
+i. Analizar la regata de alto rendimiento, aplicando procedimientos establecidos y teniendo en cuenta las características de los participantes y el reglamento de regatas a vela, para acompañar y dirigir a deportistas en competiciones de alto nivel en vela con aparejo libre.
+
+j. Elaborar los planes de preparación y mantenimiento de las embarcaciones propias del alto rendimiento en vela con aparejo libre, aplicando procedimientos establecidos e identificando las características de los mismos, para preparar y mantenerlos.
+
+k. Analizar y justificar las necesidades de intervención de otros especialistas en la preparación de alto rendimiento en vela con aparejo libre, describiendo las funciones y objetivos a desarrollar, para determinar la constitución y coordinación de equipos de trabajo multidisciplinares.
+
+l. Identificar y analizar la características organizativas, medios materiales y humanos, aplicando procedimientos establecidos de gestión y comunicación, para coordinar recursos humanos y organizar los recursos materiales de una escuela de vela.
+
+m. Analizar y elaborar la estructura organizativa de las regatas y eventos de alta competición, y analizar las características organizativas de competiciones de alto nivel, enumerando los requisitos administrativos, los medios materiales y humanos necesarios, aplicando el marco legal que las regula, para organizar y colaborar en la gestión de competiciones y eventos a vela con aparejo libre.
+
+n. Diseñar y justificar los procedimientos de recogida de información y valoración del proceso de alto rendimiento, analizando las variables que intervienen en supuestos, para evaluar el proceso de entrenamiento y los resultados obtenidos en las regatas a vela de alto rendimiento con aparejo libre.
+
+ñ. Analizar y elaborar áreas de navegación a vela de alto rendimiento con embarcaciones de aparejo libre, las características de la zona y sus previsiones meteorológicas y las normas y protocolos de seguridad.
+
+o. Describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los regatistas, para transmitir valores propios de la navegación a vela con aparejo libre a través del comportamiento ético personal.
+
+p. Reconocer, promover y justificar los valores de compromiso, trabajo bien hecho y aprendizaje constante, describiendo los aspectos observables de la conducta, que reflejan estos valores, para mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el desempeño de su labor como técnico.
+
+q. Diseñar programas adaptados de entrenamiento en la navegación a vela con aparejo libre y valorar el grado de discapacidad, aplicando procedimientos establecidos, para fomentar la igualdad de oportunidades de las personas con discapacidad.
+
+> Se numera como Anexo III.a y se modifica por el art. 2.4.a) a k) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.b — Módulo común de enseñanza deportiva: Factores fisiológicos del alto rendimiento
+
+Código MED-C301
+
+El módulo común de enseñanza deportiva: Factores fisiológicos del alto rendimiento. Código: MED-C301 está desarrollado en el anexo II.b.
+
+> Se numera como Anexo III.b y se modifica por el art. 2.4.c) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.c
+
+Módulo común de enseñanza deportiva: Factores psicosociales del alto rendimiento
+
+Código MED-C302
+
+El módulo común de enseñanza deportiva: Factores psicosociales del alto rendimiento. Código: MED-C302 está desarrollado en el anexo II.c.
+
+> Se numera como Anexo III.c y se modifica por el art. 2.4.d) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.d — Módulo común de enseñanza deportiva: Formación de formadores deportivos
+
+Código MED-C303
+
+El módulo común de enseñanza deportiva: Formación de formadores deportivos. Código: MED-C303 está desarrollado en el anexo II.d.
+
+> Se numera como Anexo III.d y se modifica por el art. 2.4.e) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.e — Módulo común de enseñanza deportiva: Organización y gestión aplicada al alto rendimiento deportivo
+
+Código: MED-C304
+
+El módulo común de enseñanza deportiva: Organización y gestión aplicada al alto rendimiento. Código: MED-C304 está desarrollado en el anexo II.e.
+
+> Se numera como Anexo III.e y se modifica por el art. 2.4.f) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.f — Módulo específico de enseñanza deportiva: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL
+
+Código MED-VEVE301
+
+El módulo específico de enseñanza deportiva: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL. Código: MED-VEVE301, está desarrollado en el anexo II.f.
+
+> Se numera como Anexo III.f y se modifica por el art. 2.4.g) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.g — Módulo específico de enseñanza deportiva: Seguridad de las instalaciones y las regatas de alto nivel con AF y AL
+
+Código MED-VEVE302
+
+El módulo específico de enseñanza deportiva: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL. Código: MED-VEVE302, está desarrollado en el anexo II.g.
+
+> Se numera como Anexo III.g y se modifica por el art. 2.4.h) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.h — Módulo específico de enseñanza deportiva: Organización y gestión del centro deportivo de vela con AF y AL
+
+Código MED-VEVE303
+
+El módulo específico de enseñanza deportiva: Organización y gestión del centro deportivo de vela con AF y AL. Código: MED-VEVE303, está desarrollado en el anexo II.h.
+
+> Se numera como Anexo III.h y se modifica por el art. 2.4.i) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.i — Módulo específico de enseñanza deportiva: Análisis de situaciones tácticas en la competición de alto rendimiento
+
+Código MED-VEVE304
+
+El módulo específico de enseñanza deportiva: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL. Código: MED-VEVE304, está desarrollado en el anexo II.i.
+
+> Se numera como Anexo III.i y se modifica por el art. 2.4.j) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.j — Módulo específico de enseñanza deportiva: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL
+
+Código MED-VEVE305
+
+El módulo específico de enseñanza deportiva: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL. Código: MED-VEVE305, está desarrollado en el anexo II.j.
+
+> Se numera como Anexo III.j y se modifica por el art. 2.4.k) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.k — Módulo específico de enseñanza deportiva: Preparación física del regatista
+
+Código MED-VEVE306
+
+El módulo específico de enseñanza deportiva: Preparación física del regatista. Código: MED-VEVE306, está desarrollado en el anexo II.k.
+
+> Se numera como Anexo III.k y se modifica por el art. 2.4.l) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.l — Módulo específico de enseñanza deportiva: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL
+
+Código MED-VEAL312
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora el rendimiento técnico-táctico del regatista en el entrenamiento y durante la competición en la etapa de alto rendimiento, analizando los estándares técnicos y las situaciones tácticas, en relación con las características de las clases con AL y la función o rol del regatista en la embarcación.
+
+a. Se han descrito los requisitos técnico-tácticos necesarios del deportista de alto nivel en vela, de acuerdo con el rol desempeñado en la embarcación con AL.
+
+b. Se han especificado las técnicas de navegación a utilizar, según las características de la clase de embarcación de alto rendimiento con AL.
+
+c. Se ha explicado la táctica y estrategia en la ceñida en función del viento y las características de la clase con AL.
+
+d. Se han analizado los modelos tácticos y estratégicos a utilizar antes de la salida y en la salida de una regata.
+
+e. Se han analizado los modelos tácticos y estratégicos a utilizar en la ceñida.
+
+f. Se han analizado los modelos tácticos y estratégicos de aproximación y paso de la boya de barlovento.
+
+g. Se ha analizado los modelos estratégicos a utilizar en popa en función del viento y la situación de los demás regatistas.
+
+h. Se han analizado los modelos tácticos y la estrategia de aproximación y paso de la boya de sotavento.
+
+i. Se han analizado los modelos estratégicos a seguir en los marcajes y la gestión del riesgo.
+
+j. Se han seleccionado las acciones, materiales y procedimientos que forman parte del manual de seguimiento de un entrenamiento de alto nivel en vela con AL.
+
+k. Se han seleccionado las acciones, materiales y procedimientos que forman parte del manual de seguimiento de una regata de alto nivel en vela con AL.
+
+l. Se ha seleccionado la información que debe tenerse en cuenta en la fichas de preparación y seguimiento de la regata de alto nivel en vela con AL.
+
+m. Se ha valorado la importancia de la implicación del regatista en la mejora del rendimiento, utilizando los modelos tácticos y estratégicos.
+
+2\. Dirige a los regatistas de alto rendimiento en su actuación técnica y táctica, durante las regatas de alto rendimiento, analizando los factores que condicionan el alto rendimiento en la regata con embarcaciones de AL.
+
+a. Se han relacionado los aspectos administrativos, logísticos, normativos y calendarios a tener en cuenta en la planificación de una regata de alto nivel con embarcaciones de AL.
+
+b. Se ha realizado la evaluación del rendimiento del regatista en cada una de las competiciones en que participa.
+
+c. Se han descrito las funciones del técnico deportivo en las competiciones de alto rendimiento en vela con AL.
+
+d. Se ha descrito la ubicación del técnico superior para facilitar la comunicación de sus instrucciones al regatista de alto rendimiento, teniendo en cuenta la reglamentación.
+
+e. Se ha relacionado las propuestas tácticas y estratégicas de un supuesto de regata de alto nivel, con los contenidos del reglamento de regatas a vela, apartados: regatas de Match Race, regatas por equipos, pesaje de vestimenta y equipo, jurados internacionales.
+
+f. Se han relacionado los modelos tácticos posibles con las características de la competición de alto rendimiento en vela con AL y del área de navegación.
+
+g. Se ha analizado un supuesto de competición con AL, identificando las demandas, técnicas y físicas del regatista.
+
+h. Se han establecido los criterios técnicos de optimización del resultado del regatista, en una competición de alto rendimiento en vela con AL.
+
+i. Se ha valorado la importancia del calentamiento previo del regatista en una prueba de alto rendimiento en vela con AL.
+
+j. Se han relacionado los cuidados del regatista en una competición de alto nivel, con las exigencias de este tipo de competición.
+
+k. Se ha valorado la importancia de la preparación anticipada de la dirección del regatista y su influencia en la mejora del rendimiento.
+
+3\. Interpreta, resuelve y produce protestas de regatas, elaborando soluciones a las protestas, analizando los formatos según el reglamento de regatas a vela, utilizando la comunicación oral en castellano e inglés.
+
+a. Se ha analizado la parte 5 del reglamento de regatas a vela.
+
+b. Se han interpretado las protestas y reparaciones de acuerdo con la parte 5 del RRV.
+
+c. Se ha realizado un supuesto práctico de interpretación de una protesta en inglés, extrayendo las conclusiones y acciones a tomar.
+
+d. Se ha realizado una simulación de producción de una protesta, en inglés realizada contra otro barco, utilizando los términos náuticos adecuados.
+
+e. Se han interpretado las resoluciones de una protesta, de acuerdo con la parte 5 del RRV.
+
+f. Se ha realizado un supuesto práctico de comunicación en inglés, ante un jurado y los regatistas de una audiencia, utilizando los términos náuticos adecuados.
+
+g. Se ha interpretado el informe de grave mal comportamiento de acuerdo con la parte 5 del RRV.
+
+h. Se ha realizado una simulación de apelación en inglés, contra la resolución realizada por el jurado.
+
+i. Se han interpretado las apelaciones de acuerdo con la parte 5 del RRV.
+
+j. Se ha analizado el Manual de Jurado Internacional de regatas.
+
+4\. Valora el área de navegación de la competición de alto rendimiento en vela con AL analizando el régimen de brisas que actúa en dicha área y las posibles variaciones locales del viento asociadas a las nubes aisladas, relacionando los distintos parámetros analizados.
+
+a. Se han analizado las características de las brisas térmicas y su influencia en el establecimiento y comportamiento del área de navegación.
+
+b. Se han analizado las características de las condiciones de establecimiento e instalación de la brisa marina en el área de navegación.
+
+c. Se han analizado los factores que determina la evolución de la brisa marina y su influencia y comportamiento en el área de navegación.
+
+d. Se han analizado los factores que influyen en la desaparición de la brisa marina y su influencia y comportamiento en el área de navegación.
+
+e. Se han relacionado los criterios de evaluación de la fuerza de la brisa marina y su influencia en el área de navegación.
+
+f. Se han analizado las características de las brisas en un lago o embalse y su comportamiento en el área de navegación.
+
+g. Se han analizado las características de las depresiones térmicas y su influencia en el área de navegación.
+
+h. Se han analizado las características que determinan la formación y evolución de los chubascos y su influencia en el área de navegación.
+
+i. Se han identificado los distintos tipos de chubascos que existen y su influencia en el área de navegación.
+
+j. Se han analizado las modificaciones que en el viento generan los cúmulos sobre el campo de regatas.
+
+k. Se han analizado las variaciones locales del viento asociadas a las nubes aisladas en el área de navegación.
+
+l. Se conoce e identifican las formaciones nubosas aisladas.
+
+m. Se ha valorado la importancia del conocimiento del área de navegación y de todos los parámetros que influyen en ella.
+
+5\. Dirige y realiza sesiones de entrenamiento psicológico en vela, analizando, adecuando y aplicando técnicas que comporten una mejora en el rendimiento del regatista y aplicando técnicas de auto evaluación.
+
+a. Se han descrito los aspectos psicológicos específicos del aprendizaje de la vela para la mejora del rendimiento.
+
+b. Se han descrito las características psicológicas del alto rendimiento y su relación con el modelo causal.
+
+c. Se han definido las herramientas a utilizar en entrenamiento de la preparación psicológica.
+
+d. Se ha analizado el plan para la preparación psicológica y los momentos claves de la regata.
+
+e. Se han definido los métodos para el incremento de la auto confianza durante la temporada de entrenamiento.
+
+f. Se ha realizado el análisis del informe de auto evaluación realizado después de la regata.
+
+g. Se han definido los componentes de la motivación, como influyen y se establecen en los entrenamientos programados.
+
+h. Se ha descrito la relación que existe entre los regatistas y el entrenador en la preparación psicológica.
+
+i. Se han realizado prácticas imaginadas de los movimientos técnicos, maniobras o situaciones dentro de una regata independientemente de su ejecución.
+
+Contenidos básicos
+
+1\. Valora el rendimiento técnico-táctico del regatista en el entrenamiento y durante la competición en la etapa de alto rendimiento, analizando los estándares técnicos y las situaciones tácticas, en relación con las características de las clases con AL y la función o rol del regatista en la embarcación.
+
+– Requisitos básicos necesarios según el rol del deportista para ser Deportista de alto nivel en vela con AL.
+
+– Técnica según las características de cada clase con AL.
+
+– Táctica y estrategia de regatas de alto nivel.
+
+– La estrategia en ceñida en función del tipo de viento, (rola, oscila, presión y corriente).
+
+– Antes de la salida, en tierra y en el agua.
+
+– Tramo de ceñida, situaciones tácticas, instrumentos de ayuda.
+
+– La aproximación y paso de la boya de barlovento.
+
+– La estrategia en popa en función del tipo de viento.
+
+– Tramo de popa, situaciones tácticas, instrumentos de ayuda.
+
+– La aproximación y paso de la boya de sotavento.
+
+– El marcaje y la gestión del riesgo.
+
+– Manual de seguimiento de un entrenamiento de alto nivel.
+
+– Manual de seguimiento durante la regata.
+
+– Instrumentos de observación y recogida de información (fichas, clasificaciones).
+
+2\. Dirige al regatista o equipo de alto rendimiento en su actuación técnica y táctica, durante las regatas de alto rendimiento, analizando los factores que condicionan el alto rendimiento en la regata con embarcaciones de AL.
+
+– Planificación de la participación en una regata de alto rendimiento con embarcaciones de AL:
+
+– Normativa que caracteriza este tipo de regatas y permisos más frecuentes.
+
+– Objetivos temporalizados y objetivo final de una regata de alto rendimiento.
+
+– Medios y recursos humanos y materiales.
+
+– Calendario de participación, cronogramas y número de regatas de alto nivel que se programan.
+
+– Evaluación del rendimiento del tripulante y las competiciones participadas.
+
+– Funciones del técnico superior en la dirección del regatista en competiciones.
+
+– Conocimientos técnicos para ayudar al regatista a mejorar, pedagogía a utilizar al enseñar al regatista, como coordinador del equipo multidisciplinar y como director del equipo de regatas.
+
+– Ubicación del técnico superior para facilitar la comunicación de sus instrucciones con los tripulantes, teniendo en cuenta la reglamentación.
+
+– Estrategia de competición, modelos tácticos y su relación con las características de la competición.
+
+– Criterios para optimizar el resultado de la regata de alto nivel en vela con AL.
+
+– Reglamento de regatas a vela. Apéndices:
+
+– C Reglas para regatas de Match.
+
+– D Reglas para regatas por equipos.
+
+– H Pesaje de Vestimenta y Equipo.
+
+– N Jurados Internacionales.
+
+– Técnicas de calentamiento previo del regatista de alto rendimiento en vela con AL.
+
+– Demandas técnicas y físicas de las competiciones a vela con AL.
+
+3\. Interpreta, resuelve, y produce protestas de regatas dando solución a las mismas tanto en castellano como en inglés, utilizando los formatos adecuados según el reglamento de regatas a vela, así como la comunicación oral en castellano e inglés, en una audiencia, tanto con los componentes del jurado como con los regatistas.
+
+– Parte 5 Reglamento Internacional de regatas.
+
+– Protestas y reparaciones.
+
+– Audiencias y resoluciones.
+
+– Informe grave mal comportamiento.
+
+– Apelaciones.
+
+– El jurado internacional de regatas. Manual.
+
+– Terminología específica de la navegación a vela, en castellano y en inglés.
+
+– Tratamiento de las protestas y reparaciones en una regata.
+
+– La protesta, características, interpretación y defensa ante el jurado.
+
+– La apelación: características y defensa ante el jurado.
+
+– La audiencia con jurado y regatistas. Formas de defensa ante el jurado.
+
+4\. Valora el área de navegación de la competición de alto rendimiento en vela con AL analizando el régimen de brisas que actúa en dicha área y las posibles variaciones locales del viento asociadas a las nubes aisladas, relacionando los distintos parámetros analizados.
+
+– Los efectos térmicos.
+
+– Mecanismo y características de las brisas térmicas.
+
+– Condiciones de establecimiento de la brisa marina.
+
+– Factores que determinan la evolución y desaparición de la brisa marina.
+
+– Influencia de la topografía local sobre las brisas térmicas.
+
+– Evaluación de la fuerza de la brisa marina (criterios).
+
+– Características de las brisas de un lago o embalse.
+
+– Análisis y características de las depresiones térmicas.
+
+– Variaciones locales del viento asociadas a las nubes aisladas.
+
+– Formación, evolución y desplazamiento de los chubascos.
+
+– Formación de los cúmulos y los chubascos.
+
+– Modificaciones que generan en el área de navegación.
+
+– Las formaciones nubosas aisladas.
+
+– Las bandas nubosas de carácter cumuliforme.
+
+– Líneas de convergencia.
+
+– Las bandas nubosas estratiformes.
+
+– Las clases de nubes.
+
+5\. Dirige y realiza sesiones de entrenamiento psicológico en vela, analizando, adecuando y aplicando técnicas que comporten una mejora en el rendimiento del regatista y aplicando técnicas de auto evaluación.
+
+– Aspectos psicológicos del aprendizaje en vela. Modelo causal de la navegación, construcción del espacio, viento-orientación. Equilibrio y equilibración.
+
+– Factores psicológicos distintivos en la vela de competición.
+
+– El cambio de clase.
+
+– Rendimiento y entrenamiento psicológico en vela, herramientas de preparación.
+
+– Atención y concentración, Información útil.
+
+– Práctica imaginada.
+
+– El plan de regata y la preparación psicológica.
+
+– Momentos críticos de la regata.
+
+– Auto informe después de la regata.
+
+– Autoconfianza.
+
+– Establecimiento de objetivos.
+
+– Informe autocontrol de los regatistas.
+
+– Entrenamiento psicológico de la motivación del regatista de alto rendimiento.
+
+– Relación entre tripulaciones y entrenadores en la preparación psicológica. Plan de comunicación técnica.
+
+> Se numera como Anexo III.l por el art. 2.4.m) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.m — Módulo específico de enseñanza deportiva: Planificación y programación del alto rendimiento en vela con AL
+
+Código MED-VEAL313
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Detecta, identifica y selecciona talentos deportivos en vela con AL, analizando las características de los sistemas y programas de detección y selección de talentos, analizando las características de las etapas de desarrollo de la vida deportiva de los regatistas, y aplicando técnicas específicas.
+
+a. Se han fundamentado las fases del proceso de detección, identificación y selección de talentos en vela con AL.
+
+b. Se han analizado los programas de detección, identificación y selección de talentos deportivos en vela con AL, establecidos por las administraciones deportivas de acuerdo a las características específicas de la modalidad.
+
+c. Se han seleccionado los criterios de adaptación de los programas de detección, identificación y selección de talentos adecuados a la navegación a vela con AL
+
+d. Se han analizado las características de las diferentes capacidades y modos de comportamiento que determinan el perfil del regatista de alto rendimiento en vela con AL.
+
+e. Se han seleccionado los valores de referencia que determinan la evolución de las capacidades y modos de comportamiento del regatista a lo largo de las diferentes etapas de la vida deportiva de los talentos en vela con AL.
+
+f. Se han seleccionado, de forma justificada, los criterios de detección, identificación y selección de talentos en función de la etapa deportiva del regatista.
+
+g. Se han seleccionado las técnicas e instrumentos de valoración de las capacidades y modos de comportamiento propios del alto rendimiento en vela con AL y de la etapa deportiva del regatista.
+
+h. Se han relacionado las técnicas e instrumentos de valoración de las capacidades y modos de comportamiento, con las características de la navegación a vela y de la etapa deportiva del regatista.
+
+i. Se ha elaborado un proyecto de programa de detección, identificación y selección de talentos en vela con AL.
+
+j. Se ha analizado la programación del seguimiento realizado para la detección, identificación y selección de talentos deportivos en vela con AL.
+
+k. Se ha justificado la necesidad de respetar los intereses y necesidades del individuo en el proceso de desarrollo de los talentos deportivos en vela.
+
+2\. Programa la preparación a largo plazo del regatista en las diferentes clases, analizando los modelos de preparación a largo plazo, seleccionando la información necesaria y aplicando instrumentos y métodos de recogida de la misma.
+
+a. Se han elaborado los objetivos de preparación y rendimiento en una programación anual, en función del modelo de programación y de la etapa en la vida deportiva del regatista y en especial la de alto rendimiento en vela con AL.
+
+b. Se han analizado las características de las diferentes etapas en el desarrollo de la vida deportiva de un regatista hasta la consecución del alto rendimiento y el abandono de la vida deportiva.
+
+c. Se han analizado las características de los diferentes modelos de planificación (programación de los ciclos de preparación) supranual (ciclo olímpico) en función de los modelos de rendimiento de la modalidad y de la etapa deportiva del regatista y en especial la de alto rendimiento en vela con AL.
+
+d. Se han analizando las características de los diferentes modelos de planificación de los ciclos anuales en vela con AL, en función de los objetivos establecidos, de la dinámica de cargas que conlleva, y de su adecuación a la etapa deportiva del regatista y en especial la de alto rendimiento.
+
+e. Se han analizado las características del calendario de competición anual e internacional en vela con AL relacionándolo con las características del modelo de planificación.
+
+f. Se han caracterizado las diferentes mesociclos y microciclos en lo que se subdivide una programación anual.
+
+g. Se han seleccionado los medios y métodos de control de la preparación y del rendimiento en una programación a largo plazo, en función de los objetivos y la etapa de la vida deportiva del regatista y en especial la de alto rendimiento en vela con AL.
+
+h. Se ha identificado el tipo de información que se debe tener en cuenta en la organización de una temporada deportiva de alto rendimiento a vela con AL.
+
+i. Se ha seleccionado la información del entorno, personal, social o educativa del regatista a tener en cuenta en la programación del entrenamiento a largo, medio y corto plazo, en función de la etapa deportiva y en especial la de alto rendimiento en vela con AL.
+
+j. Se han aplicado métodos de recogida y análisis de la información sobre el regatista y el entorno, a tener en cuenta en la programación a largo plazo.
+
+k. Se han elaborado instrumentos de recogida de la información sobre el entorno: personal, social y educativo del regatista.
+
+l. Se ha valorado la importancia de establecer metas adecuadas a la evolución del regatista y la dinámica de cargas específica de la vela con AL en la programación a largo, medio y corto plazo.
+
+3\. Adapta y concreta ciclos y sesiones de entrenamiento en vela con AL, analizando las características de los diferentes mesociclos y microciclos de preparación y los criterios de combinación y evolución de los medios y métodos empleados.
+
+a. Se han analizado las características de los diferentes tipos de mesociclos y microciclos de preparación de los regatistas de alto rendimiento en vela con AL y su relación con los objetivos del ciclo anual.
+
+b. Se han seleccionado los medios de control de los factores de rendimiento en vela con AL, en función de la situación dentro de la programación y de los objetivos de la misma.
+
+c. Se han seleccionado los medios y métodos de entrenamiento acordes con el tipo de mesociclo y microciclo de preparación elegido.
+
+d. Se han analizado los objetivos a alcanzar en los factores de rendimiento en vela con AL, en función del tipo de mesociclo y microciclo de preparación utilizado.
+
+e. Se han justificado los criterios de evolución y modificación de los métodos de entrenamiento de los factores de rendimiento en los diferentes tipos de mesociclo y microciclo de preparación a medio y corto plazo del regatista de alto rendimiento.
+
+f. Se ha analizado la organización y estructura de la sesión de entrenamiento en vela con AL en los diferentes tipos de ciclos o periodos de preparación de los regatistas de alto rendimiento, a medio y corto plazo.
+
+g. Se han analizado los criterios de combinación de los medios y métodos de entrenamiento de los factores de rendimiento en la sesión de vela con AL, en función del tipo de mesociclo y microciclo de preparación y del momento de la preparación.
+
+h. Se han diseñado programas de preparación a medio y corto plazo en vela con AL, en función de las directrices de la programación a largo plazo y de las condiciones meteorológicas.
+
+i. Se ha elaborado una lista de actividades alternativas a las sesiones de entrenamiento.
+
+j. Se ha justificado la importancia de adaptar la programación a las modificaciones de la forma deportiva del regatista y al grado de consecución de los objetivos propuestos.
+
+4\. Registra y valora la carga de entrenamiento en la preparación de los regatistas, analizando los factores que determinan la carga de entrenamiento en vela con AL y aplicando instrumentos de cuantificación y procesamiento de la información.
+
+a. Se han caracterizado los indicadores que permiten la cuantificación de la carga de trabajo técnico y táctico, en el entrenamiento en vela con AL.
+
+b. Se han caracterizado los indicadores que permiten la cuantificación de la carga de trabajo condicional en el entrenamiento en vela con AL.
+
+c. Se han caracterizado los indicadores que permiten la cuantificación de la carga psicológica en el entrenamiento y la competición en vela con AL.
+
+d. Se han analizado los métodos de registro de la actividad diaria física del deportista, indicadores de carga y fatiga.
+
+e. Se han analizado los métodos o sistemas de cuantificación de la carga de trabajo condicional del regatista en el entrenamiento en vela con AL.
+
+f. Se han especificado los criterios de modificación de la programación del deportista en función de su carga de entrenamiento y rendimiento.
+
+g. Se han aplicado programas informáticos específicos a la cuantificación de la carga de trabajo del regatista en el entrenamiento en vela con AL.
+
+h. Se han aplicado instrumentos de representación gráfica de la carga de trabajo del regatista en el entrenamiento en vela con AL.
+
+i. Se han seleccionado procedimientos estadísticos para el procesamiento e interpretación de la carga de entrenamiento del regatista en el entrenamiento en vela con AL.
+
+j. Se han analizado las utilidades de la cuantificación y seguimiento de la carga del entrenamiento en el control y ajuste de la preparación en vela con AL.
+
+k. Se ha valorado la importancia de la cuantificación y el seguimiento de la carga de entrenamiento del regatista en la optimización de la preparación en vela con AL.
+
+Contenidos básicos
+
+1\. Detecta, identifica y selecciona talentos deportivos en vela con AL, analizando las características de los sistemas y programas de detección y selección de talentos, analizando las características de las etapas de desarrollo de la vida deportiva de los regatistas, y aplicando técnicas específicas.
+
+– Fases del proceso de detección, identificación y selección de talentos deportivos en vela con AL.
+
+– Programas de las administraciones deportivas de detección, identificación y selección de talentos deportivos en vela.
+
+– Características técnicas, tácticas, físicas y psicológicas que describen el talento deportivo en vela de un deportista de alto nivel: clases olímpicas.
+
+– Recursos necesarios, embarcaciones, equipamiento, técnicos.
+
+– Valores de referencia de los sistemas de prueba para detección de talentos en vela con AL.
+
+– Realización de la campaña de detección de talentos:
+
+– Especialidades y clases.
+
+– Objetivos generales y por especialidad.
+
+– Desarrollo del programa, calendarios, pruebas a realizar.
+
+– Técnicas e instrumentos de evaluación y análisis de los resultados.
+
+– Criterios de selección de los regatistas.
+
+– Medidas correctoras.
+
+– Presupuesto de realización de la campaña.
+
+– Seguimiento de la campaña.
+
+– Proyecto de programa de detección, identificación y selección de talentos deportivos en vela con AL.
+
+2\. Programa la preparación a largo plazo del regatista en las diferentes clases, analizando los modelos de preparación a largo plazo, seleccionando la información necesaria y aplicando instrumentos y métodos de recogida de la misma.
+
+– Objetivos de preparación y rendimiento de un programa anual de alto rendimiento en vela con AL.
+
+– Características de las diferentes etapas del desarrollo de la vida deportiva de un regatista.
+
+– Características de los modelos de planificación a largo plazo de los regatistas de alto rendimiento y clases olímpicas.
+
+– Elaboración de progresiones técnicas en un macrociclo de alto rendimiento en vela con aparejo libre.
+
+– Modelos de preparación a largo plazo y sus características, en función de los modelos de rendimiento de cada clase.
+
+– Análisis del calendario de competición y clasificación de las regatas de alto rendimiento en el programa de entrenamiento. Criterios de selección de regatas de alto nivel del calendario de competición.
+
+– Evaluación de los programas de alto rendimiento en vela con aparejo libre.
+
+– Medios y Métodos de preparación del regatista de alto rendimiento a largo plazo. Objetivos (técnicos, tácticos), Condicionantes sociales, académicos y profesionales del regatista.
+
+– Planificación completa de un ciclo olímpico (macrociclo, mesociclos y microciclos).
+
+– Diseño de programas de preparación del regatista a largo plazo.
+
+– Normativa de preparación olímpica de la guía de la RFEV.
+
+– Organización de una temporada deportiva de alto rendimiento de vela.
+
+– Programación y organización de los periodos de entrenamiento.
+
+– Programación y organización de los periodos de competición.
+
+– Periodos de descanso.
+
+– Métodos de recogida y análisis de la información sobre el regatista y el entorno, al principio y final del macrociclo.
+
+– Elaboración de cuestionarios de recogida de la información, sobre el entorno personal, social y educativo del regatista.
+
+3\. Adapta y concreta ciclos y sesiones de entrenamiento en vela con AL, analizando las características de los diferentes mesociclos y microciclos de preparación y los criterios de combinación y evolución de los medios y métodos empleados.
+
+– Tipos de mesociclos y microciclos de preparación del regatista y su relación con los objetivos del ciclo anual.
+
+– Control mensual del entrenamiento. Ficha del entrenamiento en el agua y de la programación mensual.
+
+– Métodos de aprendizaje en la etapa de alto rendimiento en vela con AL:
+
+– Características del aprendizaje de los movimientos óptimos en las maniobras. Paso a paso. Conscientemente. Estudio de distintas alternativas en tierra y en el agua.
+
+– Características de la automatización.
+
+– En condiciones favorables, individualmente, sin fatiga.
+
+– Introducir dificultades (fatiga, competidores, contra reloj).
+
+– Búsqueda del movimiento óptimo de las maniobras y movimientos:
+
+– Recursos didácticos para la tecnificación a la vela con aparejo libre.
+
+– Objetivos y contenidos de una sesión de alto rendimiento en vela con aparejo libre según los estándares de la RFEV.
+
+– Objetivos a alcanzar en los factores de rendimiento en vela, en función de los mesociclos y microciclos de preparación.
+
+– Organización y estructura de la sesión de entrenamiento en los diferentes ciclos de preparación.
+
+– Sesiones de entrenamiento de navegación con embarcaciones de AL de alto rendimiento:
+
+– Objetivos de la sesión.
+
+– Fases de una sesión de entrenamiento. (mesociclo y microciclo).
+
+– Métodos de entrenamiento.
+
+– Medios y recursos materiales.
+
+– Secuenciación de las actividades: elaboración de los criterios para la secuenciación.
+
+– Modelos de preparación a corto y medio plazo en función de los objetivos.
+
+– Diseño de programas de preparación del regatista a medio y corto plazo.
+
+– Adaptación a las condiciones meteorológicas de la planificación, a largo plazo, a medio plazo, día a día.
+
+– Actividades alternativas a las sesiones de entrenamiento de alto rendimiento.
+
+4\. Registra y valora la carga de entrenamiento en la preparación de los regatistas, analizando los factores que determinan la carga de entrenamiento en vela con AL y aplicando instrumentos de cuantificación y procesamiento de la información.
+
+– Indicadores para cuantificar la carga de trabajo técnico y táctico.
+
+– Indicadores para cuantificar la carga de trabajo condicional y psicológico.
+
+– Métodos de registro de la actividad diaria física del deportista (gasto calórico total a través del pulsómetro, diario de entrenamiento…), indicadores de carga (control del volumen de entrenamiento en función del viento, tipo de entrenamiento: maniobras, velocidad, circuitos…, intensidad, tiempo…) y fatiga (frecuencia cardíaca de reposo al levantarse, escala de cansancio físico, horas y características del sueño, apetito, estado anímico, marcadores biológicos: CPK, Urea, Amonio, parámetros hematológicos...).
+
+– Métodos de registro del trabajo condicional y psicológico del deportista, indicadores de carga y fatiga.
+
+– Criterios de modificación de la programación del deportista en función de su carga de entrenamiento y rendimiento.
+
+– Programa informático para la cuantificación de la carga de trabajo del regatista.
+
+– Procedimientos estadísticos para el procesamiento e interpretación de la carga del regatista en el entrenamiento.
+
+– Procedimiento de toma de muestras para el control de la carga del entrenamiento. Recursos necesarios en el agua y en tierra.
+
+> Se numera como Anexo III.m por el art. 2.4.n) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.n — Módulo específico de enseñanza deportiva: Puesta a punto del material de AL de alto rendimiento
+
+Código MED-VEAL314
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Selecciona las clases de embarcaciones de alto rendimiento, analizando las características técnicas y reglamentarias de las diferentes clases y sus condicionantes técnicas relacionándolas con las características de los navegantes, aplicando reglas de medición y pesaje.
+
+a. e ha analizado la evolución técnica de las tablas de alto rendimiento con aparejo libre y sus características.
+
+b. Se han analizado las estadísticas de las características físicas ideales de las tripulaciones según cada clase de aparejo libre.
+
+c. Se han caracterizado las distintas clases de aparejo libre de alto rendimiento y su relación con las características de cada tabla.
+
+d. Se ha justificado la relación entre las características de cada una de las tablas de alto rendimiento y las características de los tripulantes.
+
+e. Se han analizado las reglas fundamentales de las reglas de clase de las embarcaciones olímpicas con aparejo libre para la optimización del rendimiento.
+
+f. Se han analizado las reglas de medición y construcción de las reglas de clase de las tablas de alto rendimiento para la optimización del rendimiento de la tabla.
+
+g. Se han descrito las herramientas y equipos estándar y especiales de medición de los barcos de aparejo libre olímpicos según la ISAF.
+
+h. Se han aplicado las reglas de pesaje de las tablas de alto rendimiento de acuerdo con las reglas de clase.
+
+i. Se han aplicado las reglas de medición de las tablas de alto rendimiento de aparejo libre de acuerdo con las reglas de clase.
+
+j. Se han aplicado las reglas de medición de los apéndices de las tablas de alto rendimiento de acuerdo con las reglas de clase.
+
+k. Se han aplicado las reglas de medición del aparejo de las tablas de alto rendimiento de acuerdo con las reglas de clase.
+
+l. Se han aplicado las reglas de medición de las velas de las tablas de alto rendimiento de aparejo libre de acuerdo con las reglas de clase.
+
+m. Se han comprobado los procedimientos generales de pesaje y medición de las tablas de alto rendimiento.
+
+n. Se han descrito los distintos formularios que existen relacionados con el pesaje y medición de las tablas olímpicas.
+
+ñ. Se ha valorado el conocimiento de las reglas de clase de las tablas de aparejo libre de alto rendimiento como ayuda fundamental a la selección del tipo de tabla.
+
+2\. Realiza el reglaje de las diferentes embarcaciones de alto rendimiento, utilizando técnicas de medición y análisis e identificando las variables que afectan al reglaje y puesta a punto del material.
+
+a. Se han justificado las características de los diferentes elementos de las tablas de alto rendimiento que pueden ser regladas o puestas a punto.
+
+b. Se han analizado y descrito las diferentes acciones de puesta a punto y reglaje de los aparejos de una tabla de alto rendimiento con aparejo libre, relacionándolo con las condiciones de navegación: fuerza del viento, oleaje, corrientes.
+
+c. Se han aplicado técnicas de puesta a punto de la tabla y sus herrajes, así como de la orza y alerones.
+
+d. Se han aplicado técnicas de pulido de las superficies mojadas de las tablas de alta rendimiento a vela con aparejo libre.
+
+e. Se han aplicado técnicas de preparación y colocación del palo, teniendo en cuenta las características de las tablas de alto rendimiento a vela con aparejo libre.
+
+f. Se han aplicado técnicas de reglaje de la vela (Cunninghan) teniendo en cuenta las condiciones ambientales de un supuesto de navegación a vela con tablas de alto rendimiento de aparejo libre.
+
+g. Se ha descrito y realizado los procedimientos de reglaje de los sables teniendo en cuenta las condiciones de viento y oleaje.
+
+h. Se ha justificado la importancia de la puesta a punto de las tablas de alto rendimiento como factor que mejora el rendimiento deportivo en la navegación con tablas a vela con aparejo libre.
+
+i. Se han aplicado los procedimientos necesarios de medición de la curvatura de un mástil de una tabla de alto rendimiento.
+
+j. Se conocen y se han aplicado los sistemas y procedimientos de alineación de la orza y la aleta.
+
+3\. Identifica las características de las embarcaciones, analizando las características del diseño, las características constructivas, las técnicas y materiales de construcción.
+
+a. Se han descrito las nociones básicas del diseño de tablas de alto rendimiento en función de las reglas de clase.
+
+b. Se han seleccionado las pruebas y ensayos hidrodinámicos, y los parámetros a medir, en el canal de aguas en función de la clase de tabla.
+
+c. Se han seleccionado los parámetros a medir en el canal de aguas, según las características de la tabla.
+
+d. Se han seleccionado las pruebas y ensayos a realizar en aguas tranquilas en función de la clase de embarcación.
+
+e. Se han seleccionado las pruebas y ensayos de comportamiento en el mar en función de la clase de embarcación.
+
+f. Se ha valorado el rendimiento de una tabla, en diferentes situaciones, a través de los parámetros que miden su velocidad.
+
+g. Se han explicado las metodologías de medición del rendimiento de velocidad de una tabla.
+
+h. Se han caracterizado las prestaciones de los materiales de construcción de tablas de alto rendimiento.
+
+i. Se han descrito las limitaciones de diseño y construcción de tablas de alto rendimiento de acuerdo con las reglas de clase.
+
+j. Se han descrito las diferentes técnicas de construcción de tablas de alto rendimiento, y relacionado con la mejora de las prestaciones de las tablas.
+
+k. Se ha valorado la importancia que tiene el conocimiento de las características de diseño y construcción de las tablas, aparejos y equipos en el desarrollo del alto rendimiento deportivo.
+
+4\. Identifica las características de las velas y apéndices, y su efecto en la navegación, analizando las formas, las técnicas y materiales de construcción, su comportamiento en la navegación, relacionándolo con las condiciones ambientales, las técnicas de navegación y las limitaciones reglamentarias de cada clase.
+
+a. Se han descrito los parámetros del diseño de velas, así como los programas informáticos de optimización del rendimiento de una vela.
+
+b. Se ha descrito el análisis de comportamiento aerodinámico en el cálculo de la eficiencia de las velas.
+
+c. Se ha descrito el análisis de elementos finitos en el cálculo de las formas de las velas.
+
+d. Se han descrito las características de los tejidos utilizados en la confección de las velas utilizadas en el alto rendimiento.
+
+e. Se han descrito las limitaciones en el diseño y construcción de velas de alto rendimiento, teniendo en cuenta las limitaciones de las reglas de clase.
+
+f. Se han caracterizado las diferentes técnicas de construcción de velas de alto rendimiento, y las ventajas y desventajas que conllevan.
+
+g. Se han descrito los criterios básicos que se utilizan en el diseño de apéndices, teniendo en cuenta las limitaciones de las reglas de clase de las tablas de aparejo libre.
+
+h. Se han analizado las formas de las velas que se utilizan en las tablas de alto rendimiento a vela con aparejo libre, en función de las reglas de clase y las características del tripulante.
+
+i. Se ha valorado la influencia que el conocimiento del diseño de velas tiene en la mejora del rendimiento de las tablas de alto rendimiento.
+
+5\. Valora el rendimiento de las velas, analizando y seleccionando la información necesaria y aplicando las técnicas y metodologías de obtención y procesamiento de la información.
+
+a. Se han descrito las distintas pruebas aerodinámicas a realizar en una vela, en el túnel de viento y los parámetros a verificar, en relación con la máxima velocidad de una tabla de aparejo libre de alto rendimiento.
+
+b. Se han definido los coeficientes de sustentación y resistencia a obtener en el túnel de viento y su relación con la forma óptima de la polar.
+
+c. Se ha definido la relación entre la polar y los parámetros que definen la geometría de la vela.
+
+d. Se ha procesado la información obtenida en las pruebas aerodinámicas y su relación con la optimización de la velocidad de la tabla.
+
+e. Se ha seleccionado la información que utilizan los programas de ordenador para la simulación de pruebas en un túnel de viento virtual para la optimización del rendimiento de la vela de una tabla de aparejo libre.
+
+f. Se ha seleccionado la información que utilizan los programas informáticos en el análisis del comportamiento de las velas en tiempo real para la obtención del mejor rendimiento de las mismas.
+
+g. Se han analizado los criterios de observación y valoración del comportamiento de las velas en tiempo real, en función de la información obtenida de los programas informáticos.
+
+h. Se han aplicado programas informáticos de digitalización de fotos realizadas de las velas, obtención de datos y realización del análisis de los mismos.
+
+i. Se ha analizado el comportamiento de las velas en el agua, observándolas desde la neumática y desde la tabla.
+
+j. Se ha valorado la importancia de la valoración del rendimiento de las velas utilizadas en el alto rendimiento deportivo.
+
+6\. Conserva y realiza labores de mantenimiento de los materiales específicos del alto rendimiento, así como la coordinación y gestión de las reparaciones, aplicando las técnicas adecuadas y manejando las herramientas necesarias.
+
+a. Se han descrito las características y compatibilidad de los materiales utilizados en las tablas y aparejos de alto rendimiento a vela con aparejo libre.
+
+b. Se han descrito y preparado los materiales que se utilizan para la reparación de pequeñas averías que puedan surgir durante la competición de alto rendimiento.
+
+c. Se han descrito las características del mantenimiento, y ejecutado las técnicas de reparación de fibras, resinas y derivados utilizados en las tablas y aparejos de las embarcaciones de alto rendimiento a vela con aparejo libre.
+
+d. Se han descrito las características del mantenimiento y reparación de las velas utilizadas en las tablas de alto rendimiento a vela con aparejo libre.
+
+e. Se han analizado las características de los materiales de las velas con relación a los esfuerzos que tiene que realizar.
+
+f. Se han descrito los protocolos de revisión de las tablas, y equipos de navegación de alto rendimiento antes y después de realizar la actividad.
+
+g. Se ha valorado la importancia de la revisión y mantenimiento de las tablas, aparejos y equipos en el alto rendimiento deportivo.
+
+h. Se ha justificado la previsión como factor de seguridad en las competiciones de alto rendimiento a vela.
+
+Contenidos básicos
+
+1\. Selecciona las clases de embarcaciones de alto rendimiento, analizando las características técnicas y reglamentarias de las diferentes clases y sus condicionantes técnicas relacionándolas con las características de los navegantes.
+
+– Evolución técnica de las tablas de alto rendimiento.
+
+– Estadísticas de las características físicas ideales del tripulante según cada clase.
+
+– Reglas de clase de las clases olímpicas.
+
+– Reglas fundamentales.
+
+– Certificados y documentos.
+
+– Reglas de medición y construcción.
+
+– Tablas, apéndices, velas, palo.
+
+– Herramientas y equipos estándar de medición.
+
+– Herramientas y equipos especiales de medición.
+
+2\. Realiza el reglaje de las diferentes embarcaciones de alto rendimiento, utilizando técnicas de medición y análisis e identificando las variables que afectan al reglaje y puesta a punto del material.
+
+– Elementos de puesta a punto:
+
+– Pie de mástil (base del palo), situación (distancia).
+
+– Regulación orza. Simetrías.
+
+– Pulido de las superficies mojadas.
+
+– Reglaje:
+
+– Reglaje de la vela.
+
+– Formas de las velas y sus reglajes:
+
+– Profundidad de las vela.
+
+– Ubicación de la bolsa.
+
+– Forma del gratil.
+
+– Forma de la baluma.
+
+– Tensión de los sables, medidas.
+
+– Sistema para sacar la curvatura y la deflexión del mástil, longitudinal y trasversal.
+
+– Sistemas de alineado de orza-aleta.
+
+– Manuales de reglaje de cada clase olímpica.
+
+3\. Identifica las características de las embarcaciones, analizando las características del diseño, las características constructivas, las técnicas y materiales de construcción.
+
+– Nociones básicas del diseño de tablas de regatas: programas informáticos de diseño y simulación.
+
+– Ensayos en canal de agua: realización de pruebas y ensayos hidrodinámicos de tablas de vela y sus apéndices, para alta competición.
+
+– Parámetros más importantes: resistencia, fuerza lateral, momento de escora y deriva.
+
+– Ensayos en aguas tranquilas, selección de carena, preparación de modelos, metodología de ensayo.
+
+– Ensayos de comportamiento en el mar, estudio del campo de regatas, preparación de modelos, método de análisis.
+
+– Análisis de los rendimientos de velocidad de una tabla.
+
+– Polares de velocidad de la tabla.
+
+– Pruebas de velocidad con ayuda de los programas de VPP (Velocity Prediction Program).
+
+– Metodología de utilización.
+
+– El VMG (Velocity Made Good) y su relación con la polar.
+
+– Velocidad objetivo para una mejor VMG, en ceñida, rumbos portantes.
+
+– Materiales de construcción en embarcaciones de alto rendimiento. Limitaciones de las reglas de cada clase y las de la regla 53 del RRV.
+
+– Técnicas de construcción de embarcaciones. Influencia en el rendimiento de la embarcación:
+
+– Moldes macho-hembra. Preimpregnado. Laminado al vacío.
+
+4\. Identifica las características de las velas y apéndices, y su efecto en la navegación, analizando las formas, las técnicas y materiales de construcción, su comportamiento en la navegación, relacionándolo con las condiciones ambientales y las técnicas de navegación.
+
+– Nociones básicas del diseño de velas. Medidas según reglas de clase.
+
+– Programas de diseño por ordenador:
+
+– Análisis de comportamiento aerodinámico (CFD) para calcular la eficiencia de las velas.
+
+– Análisis de elementos finitos para calcular las formas de las velas.
+
+– Materiales de construcción de las velas de alto rendimiento y las limitaciones de las reglas de clase.
+
+– Técnicas de construcción de velas: paños, 3DL, comparación, rendimientos.
+
+– Limitaciones de diseño según las reglas de clase.
+
+– Nociones básicas del diseño de apéndices: Programas de diseño.
+
+– Limitaciones de diseño de las velas según las reglas de clase.
+
+5\. Valora el rendimiento de las velas, analizando y seleccionando la información necesaria y aplicando las técnicas y metodologías de obtención y procesamiento de la información.
+
+– Túnel de viento: características y pruebas aerodinámicas a realizar para alcanzar la máxima velocidad.
+
+– Túnel de viento virtual por ordenador: características y pruebas a realizar.
+
+– Programas de análisis de velas en computador en tiempo real.
+
+– Análisis de velas mediante la digitalización de fotos: Programas específicos.
+
+– Métodos de observación de las velas y del spinnaker.
+
+– Ciclos de control de las velas.
+
+– Observación del aparejo.
+
+6\. Conserva y realiza labores de mantenimiento de los materiales específicos del alto rendimiento, así como la Coordinación y Gestión de las reparaciones, aplicando las técnicas adecuadas y manejando las herramientas necesarias.
+
+– Técnicas de check-list de mantenimiento de las tablas y materiales utilizados.
+
+– Sistemas de reparación para alto rendimiento de cabuyería, jarcia, acastillaje, apéndices y tabla.
+
+– Características de los materiales utilizados en alto rendimiento.
+
+– Realizar un supuesto práctico de una pequeña reparación de una tabla de alto rendimiento, utilizando máquina de vacío.
+
+– Características y procedimientos de mantenimiento y reparación de las velas de alto rendimiento.
+
+– Procedimientos de coordinación de las reparaciones a realizar en las tablas y material de alto rendimiento.
+
+– Los materiales de las velas y sus características, solidez, ligereza, firmeza y flexibilidad.
+
+– Las fibras y su relación con el viento.
+
+– Los tejidos, ejes de resistencia, torsión y contracción.
+
+– Los compuestos, resinas, película, napa y pegamento.
+
+– La fabricación.
+
+> Se numera como Anexo III.n por el art. 2.4.ñ) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.ñ — Módulo de enseñanza deportiva: Formación práctica
+
+Código MED-VEAL315
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica la estructura organizativa y el funcionamiento del centro deportivo de prácticas (escuela de vela, club, centro alto rendimiento, federación), relacionándola con su oferta de actividades de alto rendimiento deportivo, y las actividades de gestión del mismo.
+
+a. Se ha categorizado la estructura organizativa y el funcionamiento de las distintas áreas del centro deportivo de prácticas.
+
+b. Se han clasificado las relaciones jerárquicas dentro del centro deportivo de prácticas.
+
+c. Se ha revisado la oferta de actividades vinculadas al alto rendimiento deportivo.
+
+d. Se han relacionado las características del centro deportivo de prácticas con la normativa de responsabilidad de los técnicos responsables.
+
+e. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+f. Se ha revisado el plan de actuación de emergencias de las instalaciones del centro deportivo de prácticas.
+
+g. Se ha identificado y analizado el plan de prevención de riesgos laborales del centro deportivo de prácticas.
+
+h. Se han revisado las condiciones laborales de los técnicos deportivos del centro deportivo de prácticas, en relación con la normativa sobre salud laboral.
+
+2\. Colabora en la administración del centro deportivo de prácticas (escuela de vela, club, centro alto rendimiento, federación), aplicando procedimientos de gestión económica y contable.
+
+a. Se ha colaborado en la organización de las actividades económicas del centro de trabajo.
+
+b. Se ha identificado la forma jurídica utilizada en la constitución del centro deportivo de prácticas y el grado de responsabilidad legal de los propietarios y gestores.
+
+c. Se ha colaborado en los procedimientos administrativos básicos de gestión del centro deportivo de prácticas.
+
+d. Se han colaborado en la realización de realizado trámites de petición de ayudas a la gestión del centro deportivo de prácticas.
+
+e. Se ha colaborado en la gestión de ayudas económicas que utiliza o puede utilizar el centro deportivo de prácticas.
+
+f. Se ha colaborado en la confección de documentación administrativa y comercial necesaria en el desarrollo de la actividad deportiva.
+
+g. Se han identificado las obligaciones y exenciones fiscales y tributarias del centro deportivo de prácticas.
+
+h. Se ha realizado la declaración de impuestos del centro deportivo de prácticas.
+
+i. Se ha tenido una actitud de respeto y cumplimiento de la normativa y los procedimientos de gestión económica del centro deportivo de prácticas.
+
+3\. Identifica la estructura organizativa y el funcionamiento del centro de formación de técnicos deportivos superior, relacionándola con su oferta formativa, analizando la normativa de aplicación, aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a. Se han fundamentado las relaciones del centro de formación de técnicos deportivos superior con la administración educativa correspondiente.
+
+b. Se ha categorizado la estructura organizativa y el funcionamiento del centro de formación de técnicos deportivos.
+
+c. Se han clasificado las relaciones jerárquicas dentro del centro de formación de técnicos deportivos.
+
+d. Se ha revisado la oferta de actividades vinculadas a la formación de técnicos deportivos en vela con aparejo libre.
+
+e. Se han analizado las características del centro de formación de técnicos deportivos, y la normativa sobre la responsabilidad del profesorado.
+
+f. Se ha esquematizado la normativa educativa y curricular vigente sobre la formación de técnicos deportivos en vela.
+
+g. Se ha revisado la legislación y normas vigentes sobre la seguridad a utilizar en la formación de los técnicos deportivos.
+
+h. Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+4\. Actúa con autonomía, iniciativa y responsabilidad en el puesto de trabajo, demostrando comportamiento ético, habilidades personales de comunicación, trabajo en equipo, respeto por el medio ambiente, y aplicando los procedimientos establecidos por la empresa.
+
+a. Se han identificado los requerimientos actitudinales del puesto de trabajo.
+
+b. Se han interpretado y cumplido las instrucciones recibidas y responsabilizado del trabajo asignado.
+
+c. Se ha demostrado compromiso con el trabajo bien hecho y la calidad del servicio, así como respeto a los procedimientos y principios propios del club o entidad deportiva.
+
+d. Se ha demostrado capacidad de trabajo en equipo y respeto a la jerarquía establecida en el club o entidad deportiva.
+
+e. Se han establecido una comunicación y relación eficaz con el técnico responsable de la actividad y los miembros del equipo, manteniendo un trato fluido y correcto.
+
+f. Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante o imprevisto que se presente en la actividad.
+
+g. Se ha demostrado un comportamiento ético con los deportistas y los adversarios, en especial en presencia de los medios de comunicación.
+
+5\. Organiza y gestiona competiciones y eventos propios del nivel de la iniciación y la tecnificación deportiva, y colabora en los de alto rendimiento, participando en la gestión y diseño de la competición, aplicando criterios de sostenibilidad.
+
+a. Se ha propuesto la estructura y las funciones que se deben desempeñar en la organización de una competición o evento deportivo de tecnificación en vela con AF.
+
+b. Se han definido y aplicado los criterios de sostenibilidad en la organización de una competición o evento deportivo de tecnificación en vela con AL.
+
+c. Se ha gestionado la financiación de la organización de una competición o evento deportivo de tecnificación en vela con AL.
+
+d. Se ha realizado la gestión y difusión de los resultados de una competición o evento deportivo de tecnificación o alto rendimiento en vela con AL.
+
+e. Se ha participado en la gestión de personal y medios materiales de las diferentes áreas o comités de la organización de una competición o evento de tecnificación o alto rendimiento en vela con AL.
+
+f. Se ha colaborado en la organización y realización de actos protocolarios de apertura, entrega y clausura de una competición o evento deportivo de tecnificación o alto rendimiento en vela con AL.
+
+g. Se han tomado las medidas de seguridad y de atención a las emergencias en la organización de una competición o evento deportivo de tecnificación en vela con AL
+
+h. Se ha analizado la estructura organizativa de una competición, y la de los diferentes comités, su composición y funciones.
+
+i. Se han analizado las características técnicas del formato de competición utilizado en una regata de alto rendimiento, de acuerdo con las reglas de clase y la guía de la RFEV.
+
+j. Se ha colaborado en la gestión de los permisos necesarios en la celebración de una competición o evento de tecnificación en vela con AL.
+
+k. Se han utilizado los instrumentos de comunicación para la navegación, utilizados en el centro de formación.
+
+6\. Organiza, acompaña y dirige a los regatistas de alto nivel en vela con AL en su participación en actividades, competiciones y otros eventos internacionales, aplicando la normativa relacionada.
+
+a. Se ha informado a los regatistas de alto nivel de la normativa que les afecta y los programas de ayuda que existen a nivel nacional y autonómico.
+
+b. Se ha orientado a los regatistas de alto nivel sobre las salidas profesionales de su actividad deportiva y de la importancia de mantener una formación académica o profesional paralelas a la vida deportiva.
+
+c. Se ha revisado e informado a los regatistas de la normativa antidopaje de aplicación en las competiciones internacionales o de alto nivel en las que se participa.
+
+d. Se ha realizado la inscripción del regatista o regatistas en una competición internacional o de alto nivel en vela, de acuerdo con los protocolos y normas establecidos.
+
+e. Se han realizado las operaciones de gestión del seguro de accidente y actividad de un grupo de regatistas que participan en una competición internacional o de alto nivel, de acuerdo con las instrucciones y normas recibidas.
+
+f. Se ha reconocido y justificado la responsabilidad de un técnico en los desplazamientos de los regatistas para asistir a una competición internacional o de alto nivel.
+
+g. Se ha elaborado el plan de viaje de un regatista o grupo de regatistas para su participación en una competición (campeonato) internacional o de alto nivel, aplicando las instrucciones y procedimientos establecidos.
+
+h. Se ha informado al regatista de las características de la competición internacional o de alto nivel, interpretando la documentación sobre la misma.
+
+i. Se han trasladado al regatista las instrucciones técnicas y tácticas para la regata internacional o de alto nivel, teniendo en cuenta las características de la regata y del regatista.
+
+j. Se ha acompañado a los regatistas en las competiciones internacionales o de alto nivel, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
+
+k. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición internacional o de alto nivel en vela, aplicando los procedimientos adecuados y respetando las normas de la misma.
+
+7\. Colabora en las acciones del equipo técnico durante la competición de alto rendimiento con AL, valorando la ejecución técnico-táctica del regatista, las condiciones ambientales y aplicando procedimientos de reclamación o protesta en una regata, y aplicando las normas vigentes.
+
+a. Se ha analizado el régimen de vientos y sus posibles variaciones del área de navegación de la regata de alto nivel.
+
+b. Se han utilizado los programas de análisis y previsión de los vientos, en las áreas de navegación.
+
+c. Se han utilizado los manuales de medición de las embarcaciones de alto nivel, en la verificación de los barcos antes de la competición.
+
+d. Se han aplicado criterios de valoración de la ejecución técnico-táctica del regatista, utilizando técnicas y procedimientos de observación adecuadas al alto nivel.
+
+e. Se han aplicado procedimientos de reclamación (protestas) en una regata internacional o de alto nivel en vela, utilizando el idioma adecuado, aplicando los protocolos y normas establecidos.
+
+f. Se han resuelto situaciones tácticas de las regatas de alto nivel utilizando los manuales de la ISAF.
+
+g. Se ha valorado el conocimiento de los procedimientos y protocolos de reclamación, como valor añadido al rendimiento del regatista.
+
+8\. Planifica el entrenamiento a largo, medio y corto plazo de los regatistas, interpretando la información del deportista y del entorno, coordinando el equipo de especialistas, y aplicando los modelos, procedimientos y técnicas más adecuados.
+
+a. Se ha colaborado en la elaboración del programa de detección, identificación y selección de talentos deportivos en vela del centro deportivo de prácticas.
+
+b. Se han aplicado criterios de detección, identificación y selección de talentos deportivos en vela, en el centro deportivo de prácticas.
+
+c. Se ha seleccionado e interpretado la información del regatista del centro deportivo de prácticas y de su entorno, necesarias en la elaboración de la programación a largo plazo.
+
+d. Se ha elaborado la planificación a largo plazo de la preparación completa del regatista, de acuerdo con los modelos utilizados en el centro deportivo de prácticas e identificando las dinámicas de carga de los diferentes factores de rendimiento deportivo en vela.
+
+e. Se han aplicado instrumentos de valoración de la condición física o condicional del regatista de alto nivel, interpretando y, en su caso, tratando la información resultante.
+
+f. Se han elaborado y aplicado instrumentos de registro del comportamiento técnico-táctico en entrenamiento y competición del regatista de alto nivel, interpretando y, en su caso, tratando la información resultante.
+
+g. Se han aplicado instrumentos de valoración del perfil psicológico del regatista y de su comportamiento durante la regata, interpretando y, en su caso, tratando la información resultante.
+
+h. Se ha elaborado la programación a medio y corto plazo de los diferentes factores de rendimiento (condicionales, técnicos, psicológicos, etc.) del regatista, de acuerdo con la planificación del centro de prácticas y los objetivos y características del regatista.
+
+i. Se ha registrado, cuantificado y procesado la información sobre la carga de entrenamiento de un regatista del centro deportivo de prácticas.
+
+j. Se han asignado objetivos y medios de trabajo al equipo de técnicos especialistas, dentro de la planificación y programación del entrenamiento del regatista.
+
+k. Se han incorporado las aportaciones de los técnicos especialistas en la planificación y programación del entrenamiento del regatista.
+
+l. Se ha mostrado una actitud de rigor y objetividad en la aplicación de los instrumentos de valoración utilizados.
+
+9\. Organiza y dirige el entrenamiento de los regatistas, coordinando equipos de técnicos especialistas, aplicando los medios y métodos específicos de entrenamiento de cada uno de los factores de rendimiento en vela con AL y aplicando las nuevas tecnologías al registro del entrenamiento y la competición.
+
+a. Se ha generado credibilidad en el equipo de técnicos especialistas que colaboran con el técnico en el centro deportivo de prácticas.
+
+b. Se ha gestionado el equipo de técnicos especialistas, demostrando liderazgo y potenciando la comunicación entre el equipo del centro deportivo de prácticas y el técnico.
+
+c. Se han aplicado medios y métodos de entrenamiento de los factores de rendimiento, y elegido las tareas de acuerdo con la programación del centro de prácticas.
+
+d. Se ha dirigido la sesión teniendo en cuenta la variedad e integración de los diferentes medios y métodos de entrenamiento, de acuerdo con la programación del centro deportivo de prácticas.
+
+e. Se han identificado y solucionado las contingencias que hayan surgido durante la sesión de entrenamiento del regatista.
+
+f. Se ha adaptado el trabajo de la sesión a las condiciones reales del regatista.
+
+g. Se han tenido en cuenta las lesiones más frecuentes en vela y sus medidas preventivas en la dirección de la sesión de entrenamiento.
+
+h. Se han aplicado instrumentos de registro audiovisual del comportamiento técnico-táctico: durante el entrenamiento y competición, del regatista de alto nivel, interpretando y, en su caso, editando los registros realizados.
+
+i. Se han utilizado durante la sesión de entrenamiento del regatista los registros audiovisuales del entrenamiento o la regata.
+
+j. Se han utilizado medios electrónicos de control de la velocidad y ayuda a la navegación, durante los entrenamientos y la regata de alto nivel.
+
+k. Se ha mantenido una actitud motivadora y empática con el regatista durante la dirección de la concentración de preparación o la sesión de entrenamiento.
+
+l. Se ha realizado una sesión de entrenamiento psicológico adaptándolo a las condiciones del regatista de alto nivel en vela con AL.
+
+10\. Colabora en el establecimiento de las ayudas ergogénicas y de los planes de trabajo complementario del regatista lesionado, aplicando los medios, métodos y procedimientos establecidos.
+
+a. Se ha programado el trabajo complementario de un regatista lesionado, teniendo en cuenta la programación del centro deportivo de prácticas.
+
+b. Se ha valorado las pautas alimentarias de los regatistas del centro deportivo de prácticas.
+
+c. Se han propuestos medidas de formación sobre alimentación deportiva a los regatistas del centro deportivo de prácticas.
+
+d. Se ha identificado las manifestaciones de fatiga durante el entrenamiento y la competición del regatista del centro deportivo de prácticas.
+
+e. Se han propuesto y aplicado medidas de recuperación de la fatiga de acuerdo con las posibilidades del centro deportivo de prácticas.
+
+f. Se ha colaborado en la prescripción y administración de ayudas ergogénicas en regatistas del centro deportivo de prácticas.
+
+g. Se ha informado al regatista de los riesgos y consecuencias en la salud del uso de sustancias dopantes.
+
+h. Se ha mostrado una actitud de juego limpio y respeto por la salud del regatista en especial en lo referido al uso de sustancias dopantes.
+
+11\. Participa en la formación de técnicos deportivos, revisando a la organización académica y curricular del centro, impartiendo clases y colaborando en la tutorización de los módulos de formación práctica y proyecto final.
+
+a. Se han identificado el tipo de centro docente de prácticas, el tipo de vinculación con la administración y la normativa que le es de aplicación a efectos de organización y funcionamiento.
+
+b. Se han identificado las responsabilidades del profesor especialista en vela y del técnico deportivo superior en vela con aparejo libre, en la formación de técnicos en la modalidad.
+
+c. Se han concretado los elementos de la programación didáctica de un módulo del bloque específico, atendiendo a su normativa de ordenación, a las características del alumnado, y el contexto del centro docente de prácticas.
+
+d. Se ha colaborado en la realización de una presentación (de tareas y contenidos), atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características de los alumnos del centro docente de prácticas.
+
+e. Se ha colaborado en el diseño y dirección de una sesión de trabajo práctico o procedimental, atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características de los alumnos del centro docente de prácticas.
+
+f. Se ha participado en el proceso de evaluación de los alumnos del centro docente de prácticas.
+
+g. Se han tenido en cuenta la aplicación efectiva del principio de igualdad de oportunidades entre mujeres y hombres a la hora de seleccionar los recursos didácticos en la docencia del módulo específico de enseñanzas deportivas en vela.
+
+h. Se han previsto y preparado de antemano recursos didácticos alternativos frente a posibles incidencias, incluyendo la atención a personas con discapacidad, en la dirección de la sesión del módulo específico de enseñanzas deportivas en vela.
+
+i. Se han identificado las condiciones de seguimiento y tutorización de los distintos módulos del bloque específico de los ciclos inicial y final de grado medio de vela con aparejo libre, presenciales y a distancia, establecidos en el centro docente de prácticas.
+
+j. Se ha participado en el establecimiento de contactos y convenios con las entidades colaboradoras en el módulo de formación práctica en el centro docente de prácticas.
+
+k. Se han utilizado aplicaciones informáticas específicas en supuestos de gestión y seguimiento del módulo de formación práctica en el centro docente de prácticas.
+
+l. Se ha colaborado en la realización de informes de evaluación del módulo de formación práctica.
+
+m. Se ha participado en el asesoramiento y control de entrevistas y tutorías personalizadas en la dirección de proyectos dentro del centro docente de prácticas.
+
+12\. Colabora en la realización del reglaje de las diferentes clases de alto rendimiento de aparejo libre, utilizando técnicas de medición y análisis e identificando las variables que afectan al reglaje y puesta a punto del material.
+
+a. Se ha colaborado en la realización de las diferentes acciones de puesta a punto y reglaje de los aparejos de una tabla de alto rendimiento con aparejo libre, relacionándolo con las condiciones de navegación: fuerza del viento, oleaje, corrientes.
+
+b. Se ha participado en la aplicación de técnicas de puesta a punto de la tabla y sus herrajes, así como de la orza y alerones.
+
+c. Se ha colaborado en la aplicación de técnicas de pulido de las superficies mojadas de las tablas de alta rendimiento a vela con aparejo libre.
+
+d. Se ha participado en la aplicación de técnicas de preparación y colocación del palo, teniendo en cuenta las características de las tablas de alto rendimiento a vela con aparejo libre.
+
+e. Se ha participado en la aplicación de técnicas de reglaje de la vela (Cunninghan) teniendo en cuenta las condiciones ambientales de un supuesto de navegación a vela con tablas de alto rendimiento de aparejo libre.
+
+f. Se ha colaborado en la realización de los procedimientos de reglaje de los sables teniendo en cuenta las condiciones de viento y oleaje.
+
+g. Se ha colaborado en la aplicación de los procedimientos necesarios de medición de la curvatura de un mástil de una tabla de alto rendimiento.
+
+h. Se ha colaborado en la aplicación de los sistemas y procedimientos de alineación de la orza y la aleta.
+
+i. Se ha colaborado en el análisis de los rendimientos de velocidad de una tabla de alto rendimiento.
+
+> Se numera como Anexo III.ñ por el art. 2.4.o) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO III.o — ódulo de enseñanza deportiva: Proyecto final
+
+Código MED-VEAL316
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Diseña proyectos relacionados con las competencias del técnico deportivo superior en vela con aparejo fijo, fundamentando el proyecto en la información recogida, desarrollando las fases que lo componen y realizando las previsiones de recursos humanos y materiales.
+
+a. Se ha elegido un tema que permite integrar los conocimientos adquiridos en los diferentes bloques y módulos del ciclo superior en vela con aparejo fijo.
+
+b. Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto.
+
+c. Se han identificado las fases o partes que componen el proyecto y sus contenidos.
+
+d. Se han establecido los objetivos que se pretenden conseguir identificando su alcance.
+
+e. Se han valorado los aspectos que pueden facilitar o dificultar el desarrollo del proyecto.
+
+f. Se han previsto y priorizado los recursos materiales y personales necesarios, de acuerdo con los objetivos del proyecto.
+
+g. Se ha realizado el presupuesto económico correspondiente.
+
+h. Se han identificado las posibles fuentes de financiación del proyecto, en base a las necesidades del mismo.
+
+i. Se han identificado los aspectos que se deben controlar y de los que depende la calidad del proyecto.
+
+j. Se ha justificado la pertinencia y viabilidad del proyecto.
+
+k. Se ha valorado el rigor en la recogida de la información utilizada en la elaboración del proyecto.
+
+2\. Planifica y programa la ejecución del proyecto, determinando las fases o ciclos de preparación, la metodología utilizada y los recursos necesarios.
+
+a. Se han secuenciado y temporalizado las actividades ordenándolas en función de las necesidades de implantación del proyecto.
+
+b. Se ha elaborado la planificación del proyecto, periodizando y programando el entrenamiento y los recursos necesarios, cuando el proyecto este dirigido al alto rendimiento deportivo en vela con aparejo fijo.
+
+c. Se han determinado los recursos y la logística necesarios en cada actividad.
+
+d. Se han identificado los permisos y autorizaciones necesarios en cada una de las actividades.
+
+e. Se han determinado los procedimientos de actuación o ejecución de las actividades.
+
+f. Se han identificado los riesgos inherentes al desarrollo de las actividades, definiendo el plan de prevención de riesgos y los medios y equipos necesarios.
+
+g. Se han planificado la asignación de recursos materiales y humanos, y los tiempos de ejecución.
+
+h. Se ha hecho la valoración económica necesaria en la ejecución del proyecto.
+
+i. Se ha definido y elaborado la documentación necesaria en las previsiones y ejecución del proyecto.
+
+j. Se han relacionado/utilizado de una manera integradora y sinérgica los conceptos y procedimientos adquiridos en los diferentes módulos del ciclo superior en vela con aparejo fijo.
+
+k. Se han tenido en cuenta criterios de sostenibilidad a la hora de elegir las actividades, la metodología y los recursos utilizados en el proyecto.
+
+3\. Selecciona los procedimientos de seguimiento y control de la elaboración y ejecución del proyecto, justificando las funciones dentro del proyecto, la selección de variables e instrumentos empleados.
+
+a. Se ha definido el procedimiento de evaluación de las actividades
+
+b. Se han definido los indicadores de calidad utilizados en la evaluación del proyecto.
+
+c. Se han definido los procedimientos de evaluación de las incidencias que puedan presentarse durante la realización del proyecto, su posible solución y registro.
+
+d. Se ha definido el procedimiento de gestión de los posibles cambios en los recursos, en las actividades o en la dinámica de cargas, en el caso del entrenamiento de alto rendimiento, incluyendo el sistema de registro de los mismos.
+
+e. Se ha definido y elaborado la documentación necesaria en la evaluación de las actividades del proyecto.
+
+f. Se ha establecido el procedimiento de participación en la evaluación de los deportistas o usuarios/clientes y se han elaborado los documentos específicos.
+
+g. Se ha establecido un sistema de garantía de cumplimiento del pliego de condiciones del proyecto cuando este exista.
+
+h. Se ha atendido a las consideraciones del tutor/director del proyecto durante la elaboración del mismo.
+
+i. Se ha cumplido con el seguimiento del proyecto según el procedimiento establecido por el tutor/director
+
+j. Se ha mostrado una actitud de respeto y aceptación de las aportaciones realizadas por el tutor/director, integrando de forma constructiva las valoraciones recibidas en el proyecto.
+
+4\. Presenta el proyecto, seleccionando los aspectos relevantes del mismo, justificando las decisiones tomadas y utilizando los recursos didácticos y técnicos más adecuados en cada caso.
+
+a. Se ha definido y elaborado la documentación necesaria en la presentación y comunicación del proyecto.
+
+b. Se han utilizado los recursos didácticos y técnicos más adecuados para la presentación y comunicación del proyecto, incluyendo las nuevas tecnologías, de forma coherente con los objetivos del proyecto.
+
+c. Se ha presentado el proyecto, de forma clara, sintética, incluyendo los aspectos fundamentales que debía incluir la presentación.
+
+d. Se ha utilizado bibliografía actualizada en la fundamentación del trabajo, referenciándola de forma adecuado.
+
+e. Se ha contestado de forma precisa y justificada a las cuestiones realizadas sobre las características y fundamentación del proyecto.
+
+f. Se ha justificado suficientemente el proyecto y se ha argumentado su implementación.
+
+g. Se ha ajustado en la presentación del proyecto a la estructura definida y establecida en los criterios de evaluación.
+
+h. Se ha presentado el proyecto ajustándose a las características formales, a la estructura y a los apartados establecidos por el tribunal.
+
+i. Se han justificado en la presentación del proyecto, las relaciones existentes entre los diferentes resultados de aprendizaje adquiridos en los diferentes módulos del ciclo superior en vela con aparejo fijo.
+
+j. Se ha demostrado poseer una visión general del proyecto, relacionando la argumentación con la finalidad y las conclusiones del proyecto.
+
+> Se numera como Anexo III.o por el art. 2.4.p) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo III.
+
+## ANEXO IV — Ratio profesor/alumno
+
+|  | Ratio profesor/alumno |
+|---|---|
+| MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL. | 1/30 |
+| MED-VEVE302: Seguridad de la instalaciones y las regatas de alto nivel de AF y AL. | 1/30 |
+| MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL. | 1/30 |
+| MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL. | 1/30 |
+| MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL. | 1/30 |
+| MED-VEVE306: Preparación física del regatista. | 1/30 |
+
+|  | Ratio profesor/alumno |
+|---|---|
+| MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF. | 1/6 |
+| MED-VEAF308: Planificación y programación del alto rendimiento en vela con AF. | 1/30 |
+| MED-VEAF309: Puesta a punto del material de AF de alto rendimiento. | 1/6 |
+| MED-VEAF311: Proyecto final. | 1/6 |
+
+|  | Ratio profesor/alumno |
+|---|---|
+| MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL. | 1/6 |
+| MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL. | 1/30 |
+| MED-VEAL314: Puesta a punto del material de AL de alto rendimiento. | 1/6 |
+| MED-VEAL316: Proyecto final. | 1/6 |
+
+## ANEXO V — Acceso módulo formación práctica
+
+| Acceso módulo formación práctica | Módulos a superar |
+|---|---|
+| MED-VEAF310: Formación práctica. | Del bloque común:<br>• MED-C301: Factores fisiológicos del alto rendimiento.<br>• MED-C303: Formación de formadores deportivos.<br>Del bloque específico:<br>• MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF.<br>• MED-VEAF308: Planificación y programación del alto rendimiento en vela con AF.<br>• MED-VEAF309: Puesta a punto del material de AF de alto rendimiento. |
+| MED-VEAL315: Formación práctica. | Del bloque común:<br>• MED-C301: Factores fisiológicos del alto rendimiento.<br>• MED-C303: Formación de formadores deportivos<br>Del bloque específico:<br>• MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL<br>• MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL<br>• MED-VEAL314: Puesta a punto del material de AL de alto rendimiento. |
+
+## ANEXO VI A — Espacios y equipamientos mínimos del ciclo de grado superior en vela con aparejo fijo
+
+Ciclo de Grado Superior en Vela con Aparejo Fijo
+
+| Espacio formativo | Superficie m<sup>2 </sup><br>30 alumnos | Superficie m<sup>2</sup><br>20 alumnos | Módulo de enseñanza deportiva |
+|---|---|---|---|
+| Aula polivalente. | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
+| Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | Módulos de enseñanza deportiva del bloque común.<br>MED-VEVE306: Preparación física del regatista. |
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">Espacio formativo</th>
+<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="3">Aula taller.</td>
+<td class="cuerpo_tabla_izq" rowspan="3">
+<p class="cuerpo_tabla_izq">MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.</p>
+<p class="cuerpo_tabla_izq">MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.</p>
+<p class="cuerpo_tabla_izq">MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.</p>
+<p class="cuerpo_tabla_izq">MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.</p>
+<p class="cuerpo_tabla_izq">MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.</p>
+<p class="cuerpo_tabla_izq">MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF.</p>
+<p class="cuerpo_tabla_izq">MED-VEAF308: Planificación y programación del alto rendimiento en vela con AF.</p>
+<p class="cuerpo_tabla_izq">MED-VEAF309: Puesta a punto del material de AF de alto rendimiento.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="3">Zona de varada y montaje de embarcaciones al aire libre con acceso al área de navegación.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="3">
+<p class="cuerpo_tabla_izq">Área navegación:</p>
+<p class="cuerpo_tabla_izq">• Zona de aguas de características similares a las utilizadas en regatas de alto rendimiento en vela.</p>
+<p class="cuerpo_tabla_izq">• Debe permitir la comunicación visual y el contacto verbal.</p>
+<p class="cuerpo_tabla_izq">• Debe permitir el montaje de los recorridos adecuados al alto rendimiento en vela.</p>
+<p class="cuerpo_tabla_izq">• En crucero la limitación del área viene delimitada por las atribuciones del título de Patrón de embarcaciones de recreo, así como la eslora del mismo.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Equipamientos: Ciclo de Grado Superior en Vela con Aparejo Fijo
+
+| Equipamiento del aula polivalente | Módulo de enseñanza deportiva |
+|---|---|
+| Equipos audiovisuales. Cañón de proyección.<br>PCs instalados en red con conexión a Internet.<br>Software específico. | Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
+
+| Equipamiento del gimnasio | Módulo de enseñanza deportiva |
+|---|---|
+| 15 balones medicinales (3kg, 4kg, 5kg).<br>15 colchonetas.<br>Mancuernas de diferentes pesos.<br>3 Barras de levantamientos.<br>Discos (diversos pesos).<br>Bancos para ejercicios de musculación: horizontal, inclinado y/o reclinable.<br>Balones inflables 65cm.<br>Gomas elásticas.<br>Espalderas.<br>Bancos suecos. | MED-VEVE306: Preparación física del regatista. |
+
+| Equipamiento Aula Taller | Módulo de enseñanza deportiva |
+|---|---|
+| Aparatos de comunicación, cartas, transportadores, regla, compás, reglamentos.<br>Tejidos de velas. Cabos, agujas.<br>Materiales y herramientas de mantenimiento y reparación.<br>Manuales de mantenimiento y reparación.<br>Aparatos de medición y predicción meteorológica.<br>Sistemas de almacenaje.<br>Material audiovisual.<br>Equipo de viento, compás, GPS, corredera, sonda, anemómetro.<br>Programas de ordenador específicos. | MED-VEVE301 Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.<br>MED-VEVE302 Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.<br>MED-VEVE303 Organización y gestión del centro deportivo de vela con AF y AL.<br>MED-VEVE304 Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.<br>MED-VEVE305 Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.<br>MED-VEAF307 Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF.<br>MED-VEAF308 Planificación y programación del alto rendimiento en vela con AF.<br>MED-VEAF309 Puesta a punto del material de AF de alto rendimiento. |
+
+| Equipamiento de la zona de varada y montaje y del área de navegación | Módulo de enseñanza deportiva |
+|---|---|
+| Embarcación de seguridad, GPS, amarras, boyas, cabos, fondeos, radiobaliza, radio con selección digital.<br>Barcos de alto rendimiento, aparejos, guías y reglamentos.<br>Tablas de alto rendimiento, aparejos y reglamentos.<br>Remolques, bacas, estructuras metálicas. | MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.<br>MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.<br>MED-VEVE303 Organización y gestión del centro deportivo de vela con AF y AL.<br>MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.<br>MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.<br>MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF.<br>MED-VEAF308: Planificación y programación del alto rendimiento en vela con AF.<br>MED-VEAF309: Puesta a punto del material de AF de alto rendimiento. |
+
+## ANEXO VI B — Espacios y equipamientos mínimos del ciclo de grado superior en vela con aparejo libre
+
+Espacios: Ciclo de Grado Superior en Vela con Aparejo Libre
+
+| Espacio formativo | Superf. m<sup>2</sup><br>30 Alum. | Superf. m2<br>30 Alum. | Módulo de enseñanza deportiva |
+|---|---|---|---|
+| Aula polivalente. | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
+| Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | Módulos de enseñanza deportiva del bloque común.<br>MED-VEVE306 Preparación física del regatista. |
+
+<table class="tabla" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla" colspan="3">Espacio formativo</th>
+<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="3">Aula taller.</td>
+<td class="cuerpo_tabla_izq" rowspan="3">
+<p class="cuerpo_tabla_izq">MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.</p>
+<p class="cuerpo_tabla_izq">MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.</p>
+<p class="cuerpo_tabla_izq">MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.</p>
+<p class="cuerpo_tabla_izq">MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.</p>
+<p class="cuerpo_tabla_izq">MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.</p>
+<p class="cuerpo_tabla_izq">MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL.</p>
+<p class="cuerpo_tabla_izq">MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL.</p>
+<p class="cuerpo_tabla_izq">MED-VEAL314: Puesta a punto del material de AL de alto rendimiento.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="3">Zona de varada y montaje de embarcaciones al aire libre con acceso al área de navegación.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" colspan="3">
+<p class="cuerpo_tabla_izq">Área navegación:</p>
+<p class="cuerpo_tabla_izq">• Zona de aguas de características similares a las utilizadas en regatas de alto rendimiento en vela.</p>
+<p class="cuerpo_tabla_izq">• Debe permitir la comunicación visual y el contacto verbal.</p>
+<p class="cuerpo_tabla_izq">• Debe permitir el montaje de los recorridos adecuados al alto rendimiento en vela.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Equipamientos: Ciclo de Grado Superior en Vela con Aparejo Libre
+
+| Equipamiento del aula polivalente | Módulo de enseñanza deportiva |
+|---|---|
+| Equipos audiovisuales. Cañón de proyección.<br>PCs instalados en red con conexión a Internet.<br>Software específico. | Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
+
+| Equipamiento del gimnasio | Módulo de enseñanza deportiva |
+|---|---|
+| 15 balones medicinales (3kg, 4kg, 5kg).<br>15 colchonetas.<br>Mancuernas de diferentes pesos.<br>3 Barras de levantamientos.<br>Discos (diversos pesos).<br>Bancos para ejercicios de musculación: horizontal, inclinado y/o reclinable.<br>Balones inflables 65cm.<br>Gomas elásticas.<br>Espalderas.<br>Bancos suecos. | MED-VEVE306: Preparación física del regatista. |
+
+| Equipamiento Aula Taller | Módulo de enseñanza deportiva |
+|---|---|
+| Aparatos de comunicación, cartas, transportadores, regla, compás, reglamentos.<br>Tejidos de velas. Cabos, agujas.<br>Materiales y herramientas de mantenimiento y reparación.<br>Manuales de mantenimiento y reparación.<br>Aparatos de medición y predicción meteorológica.<br>Sistemas de almacenaje.<br>Material audiovisual.<br>Equipo de viento, compás, GPS, corredera, sonda, anemómetro.<br>Programas de ordenador específicos. | MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.<br>MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.<br>MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.<br>MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.<br>MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.<br>MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL.<br>MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL.<br>MED-VEAL314: Puesta a punto del material de AL de alto rendimiento. |
+
+| Equipamiento de la zona de varada y montaje y del área de navegación | Módulo de enseñanza deportiva |
+|---|---|
+| Embarcación de seguridad, GPS, amarras, boyas, cabos, fondeos.<br>Radiobaliza, Radio con selección digital.<br>Barcos de alto rendimiento, aparejos, guías y reglamentos.<br>Tablas de alto rendimiento, aparejos y reglamentos.<br>Remolques, bacas, estructuras metálicas. | MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.<br>MED-VEVE302 Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.<br>MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.<br>MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.<br>MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.<br>MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL.<br>MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL.<br>MED-VEAL314: Puesta a punto del material de AL de alto rendimiento. |
+
+## ANEXO VII — Requisitos de titulación del profesorado de los módulos del bloque común de ciclo de grado superior, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad que a continuación se detalla:
+
+| Módulo de enseñanza deportiva<br>Ciclo de grado superior | Especialidad | Cuerpo |
+|---|---|---|
+| MED-C301: Factores fisiológicos del alto rendimiento.<br>MED-C302: Factores psicosociales del alto rendimiento.<br>MED-C303: Formación de formadores deportivos. | Educación física. | Catedráticos de Enseñanza Secundaria.<br>Profesores de Enseñanza Secundaria. |
+| MED-C304: Organización y gestión aplicada al alto rendimiento. | Educación física.<br>Formación y organización laboral. | Catedráticos de Enseñanza Secundaria.<br>Profesores de Enseñanza Secundaria. |
+
+## ANEXO VIII A — Requisitos de titulación del profesorado de los módulos del bloque específico de ciclo de grado superior, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
+
+<table class="tabla_ancha" data-vertical-align="top">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">
+<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<p class="cabeza_tabla">Ciclo de grado superior</p>
+</th>
+<th class="cabeza_tabla">Especialidad</th>
+<th class="cabeza_tabla">Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en vela con aparejo fijo.</p>
+<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE306: Preparación física del regatista.</td>
+<td class="cuerpo_tabla_izq">Especialidad de Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF.</td>
+<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAF308: Planificación y programación del alto rendimiento en vela con AF.</td>
+<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAF309: Puesta a punto del material de AF de alto rendimiento.</td>
+<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAF310: Formación Práctica.</td>
+<td class="cuerpo_tabla_izq">Especialidad de Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAF311: Proyecto final.</td>
+<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL.</td>
+<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL.</td>
+<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAL314: Puesta a punto del material de AL de alto rendimiento.</td>
+<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAL315: Formación Práctica.</td>
+<td class="cuerpo_tabla_izq">Especialidad de Educación Física.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAL316: Proyecto final.</td>
+<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
+<td class="cuerpo_tabla_izq">
+<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
+<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO VIII B — Condición de profesor especialista en centros públicos de la Administración educativa: acreditación de experiencia docente, o actividad en el ámbito deportivo y laboral
+
+| Módulos Enseñanza Deportiva | Experiencia docente acreditable | Actividad en el ámbito deportivo y laboral |
+|---|---|---|
+| MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.<br>MED-VEVE30: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.<br>MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.<br>MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.<br>MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.<br>MED-VEVE306: Preparación física del regatista.<br>MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF.<br>MED-VEAF308: Planificación y programación del alto rendimiento en vela con AF.<br>MED-VEAF309: Puesta a punto del material de AF de alto rendimiento.<br>MED-VEAF310: Formación Práctica.<br>MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL.<br>MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL.<br>MED-VEAL314: Puesta a punto del material de AL de alto rendimiento.<br>MED-VEAL315: Formación Práctica. | Al menos 100 horas de docencia acreditada en formación de entrenadores en el nivel 3 de entrenadores de vela con aparejo fijo y aparejo libre en las formaciones a las que se refiere la disposición adicional quinta y la disposición transitoria primera de los R.D.: 1363/2007, de 24 de octubre y la transitoria primera de los RD 1913/1997, de 19 de diciembre, y 1363/2007, de 24 de octubre. | Al menos 2 años de ejercicio deportivo laboral relacionado con las competencias profesionales del ciclo superior, realizado en los 4 años inmediatamente anteriores al nombramiento. |
+
+En el caso de las formaciones a las que se refiere la adicional quinta del Real Decreto 1363/2007, la Real Federación Española de Vela emitirá la correspondiente certificación de la experiencia docente en la que conste: las materias impartidas, el número de horas impartidas, la fecha del curso en el que se impartió la materia o materias y la fecha de la resolución de reconocimiento de la formación por parte del Consejo Superior de Deportes junto con la fecha de publicación en el BOE.
+
+En el caso de las formaciones a las que se refiere la disposición transitoria primera de los RD 1913/1997, y 1363/2007, el órgano competente de la Comunidad Autónoma que autorizó las formaciones emitirá la correspondiente certificación de la experiencia docente en la que consten las materias y el número de horas impartidas.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+La Real Federación Española de Vela, emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+## ANEXO IX — Los requisitos de titulación del profesorado en centros privados y de titularidad pública de Administraciones distintas a la educativa
+
+Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
+
+| Módulos comunes de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED-C301: Factores fisiológicos del alto rendimiento. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>Licenciado o Graduado en Medicina. |
+| MED-C302: Factores Psicosociales del alto rendimiento. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>Licenciado o Graduado en Medicina y cirugía. Especialista en Medicina de la Educación Física y el Deporte. |
+| MED-C303: Formación de formadores deportivos. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
+| MED-C304: Organización y gestión aplicada al alto rendimiento. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>Licenciado o Graduado en Derecho. |
+
+| Módulo específico de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL. | Técnico Deportivo Superior en Vela con aparejo fijo.<br>Técnico Deportivo Superior en Vela con aparejo libre. |
+| MED-VEVE302: Seguridad de la instalaciones y las regatas de alto nivel de AF y AL. | Técnico Deportivo Superior en Vela con aparejo fijo.<br>Técnico Deportivo Superior en Vela con aparejo libre. |
+| MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL. | Técnico Deportivo Superior en Vela con aparejo fijo.<br>Técnico Deportivo Superior en Vela con aparejo libre. |
+| MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL. | Técnico Deportivo Superior en Vela con aparejo fijo.<br>Técnico Deportivo Superior en Vela con aparejo libre. |
+| MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL. | Técnico Deportivo Superior en Vela con aparejo fijo.<br>Técnico Deportivo Superior en Vela con aparejo libre. |
+| MED-VEVE306: Preparación física del regatista. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
+| MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF. | Técnico Deportivo Superior en Vela con aparejo fijo. |
+| MED-VEAF308: Planificación y programación del alto rendimiento en vela con AF. | Técnico Deportivo Superior en Vela con aparejo fijo. |
+| MED-VEAF309: Puesta a punto del material de AF de alto rendimiento. | Técnico Deportivo Superior en Vela con aparejo fijo. |
+| MED-VEAF310: Formación Práctica. | Técnico Deportivo Superior en Vela con aparejo fijo. |
+| MED-VEAF311: Proyecto final. | Técnico Deportivo Superior en Vela con aparejo fijo. |
+| MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL. | Técnico Deportivo Superior en Vela con aparejo libre. |
+| MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL. | Técnico Deportivo Superior en Vela con aparejo libre. |
+| MED-VEAL314: Puesta a punto del material de AL de alto rendimiento. | Técnico Deportivo Superior en Vela con aparejo libre. |
+| MED-VEAL315: Formación Práctica. | Técnico Deportivo Superior en Vela con aparejo libre. |
+| MED-VEAL316: Proyecto final. | Técnico Deportivo Superior en Vela con aparejo libre. |
+
+## ANEXO X — Exención total o parcial del módulo de formación práctica del ciclo de grado superior
+
+| MED-VEAF310: formación práctica | Experiencia ámbito laboral o deportivo |
+|---|---|
+| Exención total.<br>Exención parcial. | Duración: superior a 400 horas.<br>Actividad desarrollada: experiencia relacionada con la competencia general del ciclo final de vela con AF y los resultados de aprendizaje del módulo de formación práctica.<br>Período de tiempo que ha desarrollado la actividad: dos años anteriores a la finalización del curso. |
+
+La exención parcial del módulo de formación práctica, se concederá para aquellos resultados de aprendizaje del módulo, que sean concordantes con la experiencia laboral o deportiva acreditada.
+
+La exención total del módulo de formación práctica, se podrá conceder cuando exista una completa concordancia de la experiencia laboral o deportiva acreditada con la totalidad de los resultados de aprendizaje del correspondiente módulo.
+
+La Federación Española o autonómica de Vela emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+| MED-VEAL315: formación práctica | Experiencia ámbito laboral o deportivo |
+|---|---|
+| Exención total.<br>Exención parcial. | Duración: superior a 400 horas.<br>Actividad desarrollada: experiencia relacionada con la competencia general del ciclo final de vela con AL y los resultados de aprendizaje del módulo de formación práctica.<br>Período de tiempo que ha desarrollado la actividad: dos años anteriores a la finalización del curso. |
+
+La exención parcial del módulo de formación práctica se concederá para aquellos resultados de aprendizaje del módulo que sean concordantes con la experiencia laboral o deportiva acreditada.
+
+La exención total del módulo de formación práctica se podrá conceder cuando exista una completa concordancia de la experiencia laboral o deportiva, acreditada con la totalidad de los resultados de aprendizaje del correspondiente módulo.
+
+La Real Federación Española o autonómica de Vela, emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+## ANEXO XI — Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia docente
+
+| Módulos de Enseñanza Deportiva. Ciclo de Grado Superior Vela AF | Experiencia docente |
+|---|---|
+| MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.<br>MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.<br>MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.<br>MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.<br>MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.<br>MED-VEVE306: Preparación física del regatista.<br>MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF.<br>MED-VEAF308: Planificación y programación del alto rendimiento en vela con AF.<br>MED-VEAL309: Puesta a punto del material de AF de alto rendimiento.<br>MED-VEAF310: Formación Práctica. | Experiencia como Profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del RD 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del RD 1363/2007, de 24 de octubre.<br>La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa. |
+
+| Módulos de Enseñanza Deportiva. Ciclo de Grado Superior Vela AL | Experiencia docente |
+|---|---|
+| MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.<br>MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.<br>MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.<br>MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.<br>MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.<br>MED-VEVE306: Preparación física del regatista.<br>MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL.<br>MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL.<br>MED-VEAL314: Puesta a punto del material de AL de alto rendimiento.<br>MED-VEAL315: Formación práctica. | Experiencia como Profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del RD 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del RD 1363/2007, de 24 de octubre.<br>La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa. |
+
+La experiencia docente se acreditará mediante certificado expedido por la Comunidad Autónoma que autorizó dichas formaciones en el que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la misma.
+
+## ANEXO XII — Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia deportiva
+
+| Módulos de Enseñanza Deportiva. Ciclo de Grado Superior en Vela con Aparejo Fijo | Experiencia Deportiva |
+|---|---|
+| MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.<br>MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF.<br>MED-VEAF309: Puesta a punto del material de AF de alto rendimiento. | Deportista de alto nivel.<br>Clasificado, en categoría absoluta, entre los 5 primeros en alguno de los campeonatos del Mundo, de Europa o de España en la modalidad correspondiente, en los últimos 5 años. |
+
+| Módulos de Enseñanza Deportiva. Ciclo de Grado Superior en Vela con Aparejo Libre | Experiencia Deportiva |
+|---|---|
+| MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.<br>MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL.<br>MED-VEAL314: Puesta a punto del material de AL de alto rendimiento. | Deportista de alto nivel.<br>Clasificado, en categoría absoluta, entre los 5 primeros en alguno de los campeonatos del Mundo, de Europa o de España en la modalidad correspondiente, en los últimos 5 años. |
+
+La condición de deportista de alto nivel se acreditará de acuerdo a lo establecido en el RD 971/2007, de 13 de julio, sobre los deportistas de alto nivel y alto rendimiento.
+
+La experiencia deportiva en vela con aparejo fijo y aparejo libre, se acreditará mediante certificado expedido por la Real Federación Española de Vela, en la que consten los rendimientos obtenidos, la competición o eventos en los que se obtuvieron y el periodo de tiempo durante el que se mantuvieron.
+
+## ANEXO XIII — Formación a distancia
+
+|  | Grado superior |
+|---|---|
+| Módulos bloque común. | MED-C301: Factores fisiológicos del alto rendimiento.<br>MED-C302: Factores psicosociales del alto rendimiento.<br>MED-C303: Formación de formadores deportivos.<br>MED-C304: Organización y gestión aplicada al alto rendimiento. |
+| Módulos bloque específico. | MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.<br>MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.<br>MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.<br>MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.<br>MED-VEVE306: Preparación física del regatista. |

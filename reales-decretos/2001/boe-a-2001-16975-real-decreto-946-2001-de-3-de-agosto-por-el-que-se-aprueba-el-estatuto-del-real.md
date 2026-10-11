@@ -1,0 +1,641 @@
+---
+title: "Real Decreto 946/2001, de 3 de agosto, por el que se aprueba el Estatuto del Real Patronato sobre Discapacidad"
+identifier: "BOE-A-2001-16975"
+eli: "https://www.boe.es/eli/es/rd/2001/08/03/946"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2001-08-03
+published: 2001-09-06
+in_force_from: 2001-09-06
+last_amended: 2026-04-07
+consolidated: 2026-04-07
+gazette: "Boletín Oficial del Estado núm. 214"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-16975"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 946/2001, de 3 de agosto, por el que se aprueba el Estatuto del Real Patronato sobre Discapacidad
+
+Creado por Real Decreto 1023/1976, de 9 de abril, el Real Patronato de Educación Especial, posteriores disposiciones introdujeron modificaciones en su ámbito de actuación y en su estructura orgánica.
+
+Especialmente, la promulgación de la Ley 13/1982, de 7 de abril, de Integración Social de los Minusválidos, incidió sobre las actuaciones del Real Patronato, requiriendo la adaptación de su organización y funciones al objeto de conseguir una mayor adecuación tanto a los objetivos de colaboración, cooperación e intercambio entre los distintos ámbitos, como a las principales áreas de la política de prevención y de atención a las personas con minusvalía que define la ley. A tal efecto, se dictó el Real Decreto 1475/1986, de 11 de julio, por el que se reestructura el Real Patronato, que pasa a denominarse, en su virtud, Real Patronato de Prevención y de Atención a Personas con Minusvalía.
+
+La promulgación de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, aconsejó modificar la regulación del Real Patronato, mediante el Real Decreto 2021/1997, de 26 de diciembre, que lo transformó en órgano colegiado de la Administración General del Estado.
+
+Durante el tiempo transcurrido desde la citada modificación se han producido ciertos cambios que aconsejaban reformar tanto el cuadro de fines como la naturaleza jurídica del Real Patronato de Prevención y de Atención a Personas con Minusvalía ; estos cambios han operado en los ámbitos de cuidados asistenciales, la aspiración al pleno desarrollo de la persona con deficiencias, la colaboración institucionalizada entre el movimiento asociativo de las personas con discapacidad y la Administración General del Estado a través del Consejo Estatal de las Personas con Discapacidad, las transferencias de las políticas sociales a las Comunidades Autónomas, la mayor participación de la Administración Local en el ámbito de la discapacidad, la mejora de la prevención de dificiencias y la atención de las personas con discapacidad.
+
+Dando respuesta a estas nuevas necesidades, la Ley 14/2000, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, en su artículo 57, crea, con la denominación de Real Patronato sobre Discapacidad, un Organismo autónomo de los previstos en los artículos 45 y siguientes de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, con las funciones de: promover la aplicación de los ideales humanísticos, los conocimientos científicos y los desarrollos técnicos al perfeccionamiento de las acciones públicas y privadas sobre discapacidad, facilitar el intercambio y la colaboración entre las distintas Administraciones así como entre éstas y el sector privado, prestar apoyos a organismos y entidades, especialistas y promotores, y emitir dictámenes técnicos y recomendaciones sobre las materias propias de su ámbito de actuación.
+
+Por todo ello, y en cumplimiento de lo preceptuado por el artículo 62 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, se hace necesaria la aprobación del Estatuto de este Organismo autónomo mediante Real Decreto.
+
+Asimismo, el artículo 57.cinco de la Ley 14/2000, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, autoriza al Gobierno a dictar las normas necesarias para desarrollo del mismo.
+
+En su virtud, a iniciativa del Ministro de Trabajo y Asuntos Sociales, a propuesta conjunta de los Ministros de Administraciones Públicas y de Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros del día 3 de agosto de 2001,
+
+## D I S P O N G O :
+
+### Artículo único. Aprobación del Estatuto.
+
+Se aprueba el Estatuto del Real Patronato sobre Discapacidad, cuyo texto se inserta a continuación.
+
+### Disposición adicional primera. Funciones y personal.
+
+1\. El Real Patronato sobre Discapacidad sucederá al Real Patronato de Prevención y de Atención a Personas con Minusvalía en el ejercicio de las funciones que venía desarrollando.
+
+2\. Respecto del personal al servicio del Real Patronato sobre Discapacidad le será de aplicación lo previsto en el artículo 57.cuatro de la Ley 14/2000, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social.
+
+### Disposición adicional segunda. No incremento de gasto público.
+
+La puesta en funcionamiento del Real Patronato sobre Discapacidad se realizará sin incremento de gasto público.
+
+### Disposición adicional tercera. Referencia a determinados órganos administrativos.
+
+Las referencias que en este real decreto se realizan al Ministerio de Trabajo y Asuntos Sociales y al Ministerio de Sanidad y Política Social, se entenderán realizadas al Ministerio de Sanidad, Servicios Sociales e Igualdad.
+
+> Se añade por el art. único.15 del Real Decreto1/2013, de 11 de enero. [Ref. BOE-A-2013-756](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-756).
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto y, en particular:
+
+1\. El Real Decreto 2021/1997, de 26 de diciembre, por el que se establece la organización y funciones del Real Patronato de Prevención y de Atención a Personas con Minusvalía.
+
+2\. El Real Decreto 620/1981, de 5 de febrero, sobre Régimen Unificado de Ayudas Públicas a Disminuidos, y normas posteriores de desarrollo.
+
+### Disposición final primera. Facultades de desarrollo y ejecución.
+
+Se autoriza al Ministro de Trabajo y Asuntos Sociales a adoptar las medidas necesarias para el desarrollo y ejecución del presente Real Decreto.
+
+### Disposición final segunda. Órganos del Real Patronato de Prevención y de Atención a Personas con Minusvalía.
+
+Según lo dispuesto en el artículo 57.cinco de la Ley 14/2000, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, a la entrada en vigor de este Real Decreto quedarán suprimidos los órganos del Real Patronato de Prevención y de Atención a Personas con Minusvalía.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el mismo día de su publicación en el "Boletín Oficial del Estado".
+
+Dado en Palma de Mallorca a 3 de agosto de 2001.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JUAN JOSÉ LUCAS GIMÉNEZ
+
+## ESTATUTO DEL REAL PATRONATO SOBRE DISCAPACIDAD
+
+### Artículo 1. Naturaleza, adscripción y régimen jurídico.
+
+1\. El Real Patronato sobre Discapacidad es un organismo autónomo de los previstos en el artículo 98 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, adscrito al ministerio con competencias en materia de derechos de las personas con discapacidad, a través de su titular. La denominación del organismo es Real Patronato sobre Discapacidad, O.A.
+
+2\. El organismo estará sometido al control de eficacia, que será ejercicio por el ministerio de adscripción, a través de su Inspección de Servicios, de acuerdo con el artículo 85.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. Asimismo, el organismo estará sometido a la supervisión continua del Ministerio de Hacienda, a través de la Intervención General de la Administración del Estado, conforme a lo dispuesto en el artículo 85.3 de la Ley 40/2015, de 1 de octubre.
+
+3\. El Real Patronato sobre Discapacidad tiene personalidad jurídica pública diferenciada, patrimonio y tesorería propios, así como autonomía de gestión y plena capacidad jurídica y de obrar. Dentro de su esfera de competencias, le corresponden las potestades administrativas precisas para el cumplimiento de sus fines, en los términos establecidos en este Estatuto, salvo la potestad expropiatoria.
+
+4\. El Real Patronato sobre Discapacidad se rige conforme a lo previsto en el artículo 57 de la Ley 14/2000, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social; en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público; en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; en la Ley 47/2003, de 26 de noviembre, General Presupuestaria; en la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas; en el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante Real Decreto Legislativo 1/2013, de 29 de noviembre, y en el presente Estatuto, así como en las demás disposiciones aplicables a los organismos autónomos de la Administración General del Estado.
+
+> Se modifica por el art. 3.1 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifican los apartados 1, 2 y 4 por el art. único.1 del Real Decreto 1/2013, de 11 de enero. [Ref. BOE-A-2013-756](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-756).
+
+> Se modifican los apartados 1 y 2 por la disposición final 3.1 del Real Decreto 1258/2010, de 8 de octubre. [Ref. BOE-A-2010-15441](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15441).
+
+### Artículo 2. Fines.
+
+1\. El Real Patronato sobre Discapacidad tiene por fines la promoción de los derechos humanos de las personas con discapacidad, en su más amplia extensión, de conformidad con la Convención Internacional sobre los Derechos de las Personas con Discapacidad, con el artículo 49 de la Constitución Española, con el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante el Real Decreto Legislativo 1/2013, de 29 de noviembre y sus desarrollos reglamentarios y con la Ley 8/2021, de 2 de junio, por la que se reforma la legislación civil y procesal para el apoyo a las personas con discapacidad en el ejercicio de su capacidad jurídica.
+
+2\. El Real Patronato sobre Discapacidad constituye, en el ámbito de la Administración General del Estado y del sector público institucional estatal, la instancia referencial para que las políticas, estrategias, programas, acciones y decisiones públicas se desplieguen conforme a un enfoque exigente de derechos, inclusión en la comunidad y bienestar social para este grupo humano.
+
+3\. En desarrollo y materialización de los citados fines, el Real Patronato sobre Discapacidad favorecerá la generación, transferencia y aplicación de conocimiento humanístico, científico y técnico valioso; impulsará estrategias y acciones de inclusión y de accesibilidad universal; promoverá acciones que contribuyan a la inclusión de las personas con discapacidad en todos los ámbitos; prestará asesoramiento experto y fomentará la toma de conciencia sobre los derechos de las personas con discapacidad, así como una imagen social positiva de ellas.
+
+4\. En virtud del mandato expreso del apartado segundo del artículo 49 de la Constitución Española, el Real Patronato sobre Discapacidad, en el desarrollo de sus fines, atenderá particularmente la realidad de las mujeres y menores con discapacidad.
+
+5\. Para la consecución de estos fines, el Real Patronato sobre Discapacidad establecerá alianzas y acuerdos con los poderes, autoridades y Administraciones públicas; con instituciones académicas, científicas, culturales y deportivas; con los agentes sociales; con las empresas y el tejido productivo; con la sociedad civil y con el tercer sector social de la discapacidad y otras entidades sociales.
+
+> Se modifica por el art. 3.2 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifica por el art. único.2 del Real Decreto 1/2013, de 11 de enero. [Ref. BOE-A-2013-756](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-756).
+
+### Artículo 3. Funciones.
+
+El Real Patronato sobre Discapacidad desarrollará las siguientes funciones:
+
+a) Generar, transferir y aplicar conocimiento valioso y transformador sobre discapacidad desde una perspectiva exigente de derechos humanos; así como impulsar la innovación social tecnológica orientada a la inclusión de las personas con discapacidad.
+
+b) Promover los derechos humanos de las personas con discapacidad, especialmente los de las mujeres, niñas y niños.
+
+c) Asesorar a las administraciones para la inclusión de las personas con discapacidad, con especial atención a los ámbitos educativo, laboral y de acceso a la justicia.
+
+d) Contribuir a promover la accesibilidad universal como derecho humano y como presupuesto irrenunciable para el disfrute de los derechos de las personas con discapacidad.
+
+e) Fomentar la prevención, habilitación y rehabilitación orientadas a la promoción de la salud, la vida independiente y la inclusión en la comunidad y la participación plena en todos los aspectos de la vida de las personas con discapacidad.
+
+f) Fomentar la salud de las personas con discapacidad, en especial, la atención temprana y el desarrollo infantil saludables, contribuyendo al bienestar personal, familiar y social.
+
+g) Promover, dentro de los ámbitos definidos en el apartado anterior, el intercambio y la cooperación entre las distintas Administraciones públicas, así como entre estas, el sector privado y el tercer sector de acción social, tanto en el plano nacional y de la Unión Europea como en el internacional, con especial atención a Iberoamérica.
+
+h) Prestar apoyos y asesoramiento a las administraciones y poderes públicos en materia de discapacidad.
+
+i) Emitir dictámenes técnicos y recomendaciones sobre las materias propias de su ámbito de actuación.
+
+j) Considerar, en todas sus funciones y actuaciones, las perspectivas de género, edad e interseccional.
+
+k) Impulsar la toma de conciencia sobre la discapacidad y fomentar una imagen social positiva y respetuosa de las personas con discapacidad, desde el enfoque de los derechos humanos.
+
+l) Reconocer la excelencia en materia de discapacidad mediante los Premios Nacionales de Discapacidad Reina Letizia.
+
+m) Ejercer la dirección administrativa y económica de los Diplomas de Lengua de Signos Española (DLSE); organizar las pruebas para su obtención; aprobar los precios que se aplicarán por la realización de dichas pruebas y por cuantos gastos se deriven de estas; y expedir los mencionados diplomas, a través de su Dirección, en nombre de la persona titular del Ministerio competente en materia educativa.
+
+> Se añade la letra m) por la disposición final 1.1 del Real Decreto 262/2026, de 1 de abril. [Ref. BOE-A-2026-7824](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7824)
+
+> Se modifica por el art. 3.3 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifica por el art. único.3 del Real Decreto 1/2013, de 11 de enero. [Ref. BOE-A-2013-756](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-756).
+
+### Artículo 4. Estructura organizativa del Real Patronato sobre Discapacidad, O.A.
+
+1\. Los órganos de gobierno del Real Patronato sobre Discapacidad, O.A. son la presidencia, el Consejo Rector y la Secretaría General.
+
+2\. Los órganos ejecutivos del Real Patronato sobre Discapacidad, O.A. son la Dirección, la Gerencia y la Comisión Delegada para la Investigación y la Innovación.
+
+3\. Los órganos técnicos de carácter consultivo o de asesoramiento son los centros asesores y las Comisiones de personas expertas.
+
+> Se modifica por el art. 3.4 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifican los apartados 2 y 3 por el art. único.4 del Real Decreto 1/2013, de 11 de enero. [Ref. BOE-A-2013-756](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-756).
+
+> Se modifica el apartado 3 por la disposición final 3.2 del Real Decreto 1258/2010, de 8 de octubre. [Ref. BOE-A-2010-15441](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15441).
+
+### Artículo 5. El Consejo Rector.
+
+1\. El Consejo Rector, bajo la presidencia de Honor de Su Majestad la Reina, está integrado por la presidencia y las vocalías. La composición de este órgano deberá respetar el principio de presencia equilibrada de mujeres y hombres, conforme a lo establecido en el artículo 84.2 bis de la Ley 40/2015, de 1 de octubre, teniendo en cuenta lo establecido en la disposición adicional primera de la Ley Orgánica 2/2024, de 1 de agosto, de representación paritaria y presencia equilibrada de mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas. Asimismo, deberá garantizar la participación de las personas con discapacidad como integrantes de pleno derecho de este Consejo.
+
+2\. La presidencia del Consejo Rector la ostentará la persona titular de la presidencia del organismo autónomo, esto es, la persona titular del Ministerio de Derechos Sociales, Consumo y Agenda 2030 o aquel otro departamento ministerial que en cada momento ostente la competencia en materia de discapacidad. En casos de vacante, ausencia, enfermedad, u otra causa legal, la persona que ejerce la Presidencia será sustituida por el miembro del órgano colegiado de mayor jerarquía, antigüedad y edad, por este orden.
+
+3\. Las vocalías estarán representadas por las siguientes personas:
+
+1.º Las personas titulares de los Ministerios de Presidencia, Justicia y Relaciones con las Cortes; Hacienda; Vivienda y Agenda Urbana; Sanidad; Educación, Formación Profesional y Deportes; Ciencia, Innovación y Universidades; Trabajo y Economía Social; Cultura; Inclusión, Seguridad Social y Migraciones; e Igualdad.
+
+2.º Las presidencias de los Gobiernos de las Comunidades Autónomas y de las ciudades autónomas de Ceuta y Melilla, que podrán ser representadas por las personas titulares de sus consejerías con competencias en discapacidad.
+
+3.º La persona titular de la Secretaría General del Real Patronato sobre Discapacidad.
+
+4.º Siete personas a propuesta de la asociación de utilidad pública de ámbito estatal que agrupe a las organizaciones más representativas de los distintos tipos de discapacidad, de las cuales, cuatro deberán estar representadas por personas con discapacidad y los tres restantes, por familiares de personas con discapacidad, que formen parte de la junta directiva de las correspondientes organizaciones que representan en este órgano. Todas ellas nombradas por la persona titular de la presidencia del Real Patronato sobre Discapacidad.
+
+5.º Hasta dos personas con discapacidad, representantes del ámbito académico e investigador relacionado con la discapacidad desde un enfoque de derechos humanos, propuestas y nombradas por la persona titular de la presidencia del Real Patronato sobre Discapacidad.
+
+6.º Dos personas con acreditada trayectoria institucional o profesional en materia de discapacidad, propuestas y nombradas por la persona titular de la presidencia del Real Patronato sobre Discapacidad.
+
+7.º Dos personas procedentes de los interlocutores sociales (organizaciones empresariales y sindicatos) más representativos, propuestas y nombradas por la persona titular de la presidencia del Real Patronato sobre Discapacidad.
+
+8.º La persona titular de la presidencia del Foro Justicia y Discapacidad del Consejo General del Poder Judicial, o la persona que le sustituya, nombradas por la persona titular de la presidencia del Real Patronato sobre Discapacidad.
+
+9.º La persona titular de la Fiscalía de Sala Coordinadora de los servicios especializados de atención a personas con discapacidad y mayores, o la persona que le sustituya, nombradas por la persona titular de la presidencia del Real Patronato sobre Discapacidad.
+
+10.º Una persona representante a propuesta de la Federación Española de Municipios y Provincias y nombrada por la persona titular de la presidencia del Real Patronato sobre Discapacidad.
+
+11.º Desempeñará las funciones de secretaría la persona titular de la Dirección del Real Patronato sobre Discapacidad, quien actuará con voz, pero sin voto.
+
+4\. La designación de las vocalías indicadas entre los apartados 4.º y 7.º, incluidos, y en el apartado 10.º, se realizarán por periodos de cuatro años, contados a partir de la primera reunión que se celebre con el consejo renovado.
+
+5\. Podrán asistir a las reuniones del Consejo, cuando sean convocadas por la presidencia, debido a los asuntos a tratar, las personas titulares de los departamentos ministeriales no representados en dicho Consejo, que actuarán con voz, pero sin voto.
+
+6\. Asimismo, la presidencia podrá convocar a las reuniones del Consejo a representantes de instituciones públicas, privadas o cívicas de particular relevancia, cuando los asuntos por tratar hagan conveniente su presencia, que actuarán con voz, pero sin voto.
+
+7\. El Consejo, como órgano colegiado, se regirá por las normas contenidas en la sección 3.ª del Capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica por el art. 3.5 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifica el apartado 1 por el art. único.5 del Real Decreto 1/2013, de 11 de enero. [Ref. BOE-A-2013-756](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-756).
+
+> Se modifican las letras a), b) y c) del apartado 1 por la disposición final 3.1 del Real Decreto 263/2011, de 28 de febrero. [Ref. BOE-A-2011-3893](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3893).
+
+> Se modifican las letras a), b) y c) del apartado 1 por la disposición final 3.3 del Real Decreto 1258/2010, de 8 de octubre. [Ref. BOE-A-2010-15441](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15441).
+
+> Se modifica por el art. único del Real Decreto 338/2004, de 27 de febrero. [Ref. BOE-A-2004-3718](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-3718).
+
+### Artículo 6. Funciones del Consejo Rector.
+
+Son atribuciones del Consejo Rector las siguientes:
+
+a) Realizar el seguimiento, supervisión y control superiores de la actuación del organismo autónomo.
+
+b) Formular líneas directrices y criterios de actuación del Real Patronato.
+
+c) Aprobar la propuesta de planes de actuación previstos en el artículo 85 de la Ley 40/2015, de 1 de octubre, y las memorias anuales de actuaciones.
+
+d) Aprobar la propuesta de objetivos e indicadores para la medición de su cumplimiento.
+
+e) Aprobar los planes generales de actividades y las memorias anuales de actuaciones.
+
+f) Aprobar el anteproyecto de presupuestos y las cuentas anuales del organismo.
+
+g) Aprobar la memoria anual y los informes de actividad.
+
+h) Conocer informes de los representantes institucionales y, en su caso, formular recomendaciones en pro de los fines del Real Patronato.
+
+i) Conocer los trabajos realizados por los órganos técnicos del Real Patronato y, en su caso, formular medidas para su aplicación, extensión o perfeccionamiento.
+
+j) Impulsar la investigación y difusión de publicaciones.
+
+k) Promover la cooperación con otras entidades e instituciones.
+
+l) Emitir, en su caso, a propuesta de la presidencia, dictámenes y recomendaciones técnicas.
+
+m) Ejercer las restantes atribuciones que le confiera el ordenamiento jurídico.
+
+> Se modifica por el art. 3.6 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+### Artículo 7. Funciones de la Presidencia del Consejo Rector.
+
+Son funciones y atribuciones de la presidencia del Consejo Rector del Real Patronato sobre Discapacidad las siguientes:
+
+a) Mantener informada a Su Majestad la Reina de las actividades del Real Patronato.
+
+b) Designar las vocalías de carácter discrecional relacionadas en los párrafos 3.º a 9.º del artículo 5.3.
+
+c) Ostentar la alta dirección y la representación del organismo.
+
+d) Presidir el Consejo Rector, ordenando sus correspondientes convocatorias y fijando sus respectivos órdenes del día teniendo en cuenta las peticiones que formulen sus miembros.
+
+e) Ejercer la máxima dirección del personal y los servicios del organismo.
+
+f) Cualesquiera otras que le correspondan de acuerdo con la normativa vigente.
+
+> Se modifica por el art. 3.7 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifica por el art. único.6 del Real Decreto 1/2013, de 11 de enero. [Ref. BOE-A-2013-756](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-756).
+
+### Artículo 8. La Secretaría General.
+
+1\. La persona titular de la Secretaría de Estado de Derechos Sociales del Ministerio de Derechos Sociales, Consumo y Agenda 2030 ostentará la Secretaría General del Real Patronato. Sus funciones no serán retribuidas, sin perjuicio de las indemnizaciones que correspondan.
+
+2\. Son atribuciones como órgano de gobierno del Organismo:
+
+a) Mantener informada a la presidencia del Consejo de las actividades del Real Patronato sobre Discapacidad, así como prestar al mismo el asesoramiento y asistencia que sean necesarios.
+
+b) Ostentar la representación ordinaria del organismo autónomo.
+
+c) Aprobar las propuestas de anteproyectos de presupuestos anuales de gastos e ingresos, así como rendir las cuentas del organismo autónomo.
+
+d) Desempeñar cuantas otras funciones se le atribuyan por norma legal o reglamentaria.
+
+> Se modifica por el art. 3.8 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifica el apartado 2 por el art. único.7 del Real Decreto 1/2013, de 11 de enero. [Ref. BOE-A-2013-756](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-756).
+
+> Se modifican los apartados 1 y 3 por la disposición final 3.4 del Real Decreto 1258/2010, de 8 de octubre. [Ref. BOE-A-2010-15441](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15441).
+
+### Artículo 9. Los centros asesores.
+
+1\. Son centros asesores del Real Patronato sobre Discapacidad el Centro de Normalización Lingüística de la Lengua de Signos Española (en adelante, CNLSE), el Centro Español del Subtitulado y la Audiodescripción (en adelante, CESyA), el Centro Español de Accesibilidad Cognitiva (en adelante, CEACOG), el Centro Español de Documentación e Investigación sobre Discapacidad (en adelante, CEDID), el Centro Español sobre Trastornos del Espectro del Autismo (en adelante, CETEA) y cualquier otro que se cree con una norma de rango legal.
+
+2\. Los centros asesores integrados en este organismo autónomo desarrollarán, en su respectivo ámbito de actuación, actividades de asesoramiento, apoyo, coordinación y análisis para la consecución de sus fines, siendo, en todo caso, competentes para:
+
+a) Elevar al Consejo Rector del Real Patronato sobre Discapacidad, para su aprobación, la propuesta de sus planes de actuación.
+
+b) Realizar estudios e informes, así como actividades de investigación, transferencia de conocimiento e innovación.
+
+c) Realizar actividades de difusión, formación y divulgación.
+
+d) Desarrollar tareas de auditoría y asesoría técnicas.
+
+e) Colaborar en la planificación y coordinación de estrategias y alianzas con organizaciones públicas y privadas.
+
+f) Colaborar en la planificación y coordinación de formación y docencia.
+
+g) Colaborar en tareas de regularización, normalización y evaluación de la accesibilidad de productos y servicios.
+
+h) Informar al Consejo Rector, para su aprobación, de sus programas anuales y memorias de actividades.
+
+i) Colaborar y promover alianzas con organizaciones públicas y privadas relacionadas con el ámbito de actuación de cada centro asesor.
+
+j) Informar a la Comisión Delegada para la Investigación y la Innovación de su actividad.
+
+k) Cualquier otra actividad de análoga naturaleza que, en el ámbito de su actuación, le pueda ser encomendada.
+
+3\. El Centro de Normalización Lingüística de la Lengua de Signos Española, se constituye en un centro asesor y de referencia en lengua de signos española que se integra en el Real Patronato sobre Discapacidad y que está reconocido como centro estatal técnico de referencia en materia de accesibilidad audiovisual para personas con discapacidad, en lo referente a los servicios de comunicación audiovisual de ámbito estatal, en el marco de la Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual. En este sentido, el CNLSE tiene como fines específicos:
+
+a) Constituirse como observatorio estatal y oficial de la lengua de signos española, para el asesoramiento a entidades públicas o privadas sobre esta lengua.
+
+b) Difundir y promocionar el uso de la lengua de signos española, estableciendo la normalización de su uso.
+
+c) Realizar investigaciones en materias relacionadas con la lengua de signos española.
+
+d) Contribuir a la planificación y coordinación de planes de formación y docencia y de las investigaciones realizadas respecto de la lengua de signos española.
+
+e) Colaborar con las asociaciones y entidades cuya actividad esté relacionada con la interpretación en lengua de signos española.
+
+f) Participar en cuantas actividades se estime necesarias para difundir y dar a conocer el uso de la lengua de signos española.
+
+g) Velar por el buen uso de la lengua de signos española.
+
+h) Elaborar informes relacionados con el uso y utilización de la lengua de signos española.
+
+i) Promover y fomentar iniciativas en materia de interpretación en lengua de signos española.
+
+j) Participar en los foros de consulta vinculados con las lenguas de signos y la discapacidad.
+
+k) Asumir la dirección académica de los Diplomas de Lengua de Signos Española (DLSE) y de las correspondientes pruebas para su obtención.
+
+4\. El Centro Español del Subtitulado y la Audiodescripción se constituye en un centro asesor y de referencia en materia de accesibilidad en lo audiovisual mediante el subtitulado y la audiodescripción que se integra en el Real Patronato sobre Discapacidad y que está reconocido como centro estatal técnico de referencia en materia de accesibilidad audiovisual para personas con discapacidad, en el marco de la Ley 13/2022, de 7 de julio, y en la Ley 55/2007, de 28 de diciembre, del Cine. En este sentido, el CESyA tiene como fines específicos:
+
+a) Coadyuvar a garantizar el acceso a la información a lo audiovisual en igualdad de condiciones para personas con discapacidad auditiva, ciegas y con discapacidad visual y sordociegas.
+
+b) Realizar trabajos de investigación y desarrollo tecnológico en materia de accesibilidad a los medios audiovisuales para personas con discapacidad auditiva, ciegas y con discapacidad visual y sordociegas.
+
+c) Difundir y promocionar los servicios de accesibilidad de audiodescripción y subtitulado estableciendo, en su caso, la normalización de su uso.
+
+d) Efectuar auditorías, diagnósticos y asesoramiento tecnológico para la introducción de mejoras e innovaciones en procesos, productos o servicios de empresas y organizaciones.
+
+e) Contribuir a la planificación y coordinación de estrategias y planes de formación y docencia y de las investigaciones realizadas respecto de los servicios de accesibilidad a los medios audiovisuales, así como realizar actividades formativas concretas en dicho ámbito.
+
+f) Realizar tareas de sensibilización social en el ámbito de la accesibilidad a lo audiovisual para personas con discapacidad auditiva, ciegas y con discapacidad visual y sordociegas para toda la sociedad.
+
+g) Gestionar y desarrollar tecnologías de acceso a las bases documentales que contienen los catálogos de obras audiovisuales subtituladas y/o audiodescritas para facilitar el intercambio de fondos a los actores involucrados en el proceso y el acceso a la información de ocio accesible.
+
+h) Colaborar en tareas de regularización y normalización de la audiodescripción y el subtitulado y evaluar la accesibilidad de productos y servicios en el ámbito de la televisión, el cine, internet, las redes sociales y el teatro y las artes escénicas.
+
+i) Elaborar informes relacionados con el uso y utilización de los servicios de accesibilidad a los medios audiovisuales en la audiodescripción y el subtitulado.
+
+5\. El Centro Español de Accesibilidad Cognitiva se constituye en un centro asesor y de referencia en materia de accesibilidad cognitiva. En este sentido, el CEACOG tiene como fines específicos:
+
+a) Coadyuvar a garantizar el acceso a la información en igualdad de condiciones para personas con discapacidad intelectual, del desarrollo, con problemas de lectoescritura, salud mental, daño cerebral, parálisis cerebral, trastornos del espectro autista, así con las personas mayores, migrantes e infancia.
+
+b) Realizar trabajos de investigación, innovación y desarrollo tecnológico en materia de accesibilidad cognitiva.
+
+c) Difundir y promocionar los servicios y programas de accesibilidad cognitiva estableciendo, en su caso, la normalización de su uso.
+
+d) Efectuar auditorías, diagnósticos y asesoramiento para la introducción de mejoras e innovaciones en espacios, procesos, productos o servicios públicos, así como en entidades privadas y organizaciones sociales.
+
+e) Contribuir a la planificación y coordinación de estrategias y planes de formación y docencia y de las investigaciones realizadas respecto de la accesibilidad cognitiva, así como realizar actividades formativas concretas en dicho ámbito.
+
+f) Realizar tareas de comunicación y de toma de conciencia en el ámbito de la accesibilidad cognitiva.
+
+g) Colaborar en tareas de regularización y normalización de la accesibilidad cognitiva y evaluar la accesibilidad de productos, entornos y servicios a disposición de público.
+
+h) Elaborar informes relacionados con el uso y utilización de los servicios y medios de accesibilidad cognitiva.
+
+i) Apoyar y asesorar a las Administraciones públicas en la garantía de la accesibilidad cognitiva de sus actuaciones.
+
+6\. El Centro Español de Documentación e Investigación sobre Discapacidad es un centro asesor y de referencia en materia de información, toma de conciencia, documentación e investigación sobre discapacidad, que se integra en el Real Patronato sobre Discapacidad. En este sentido, el CEDID tiene como fines específicos:
+
+a) Recopilar, ordenar, sistematizar y difundir documentación e información sobre discapacidad.
+
+b) Impulsar investigaciones y estudios sobre discapacidad.
+
+c) Apoyar y asesorar al Real Patronato sobre Discapacidad en actividades de comunicación y toma de conciencia.
+
+d) Generar redes de investigación y conocimiento sobre discapacidad.
+
+e) Hacer el seguimiento de las estrategias, planes, políticas públicas sobre discapacidad impulsadas desde la Administración General del Estado.
+
+f) Apoyar a las personas investigadoras con discapacidad.
+
+g) Promover la transferencia de conocimiento sobre discapacidad.
+
+h) Asesorar a las Administraciones públicas, sociedad civil, comunidad investigadora y medios de comunicación sobre discapacidad.
+
+i) Impulsar la toma de conciencia sobre los derechos humamos de las personas con discapacidad.
+
+j) Contribuir a la planificación y coordinación de estrategias y planes de formación y docencia y de las investigaciones realizadas respecto de la discapacidad, así como realizar actividades formativas concretas en dicho ámbito.
+
+k) Apoyar y asesorar a las Administraciones públicas en dar soporte documental y asesoramiento sobre investigación sobre discapacidad en sus actuaciones.
+
+7\. El Centro Español sobre Trastornos del Espectro del Autismo se constituye en un centro asesor y de referencia en materia trastorno del espectro del autismo que se integra en el Real Patronato sobre Discapacidad. En este sentido, el CETEA tiene como fines específicos:
+
+a) Coadyuvar a promover la inclusión y ejercicio de derechos de las personas con autismo.
+
+b) Realizar trabajos de investigación, innovación, formación y toma de conciencia sobre la inclusión y derechos de las personas con autismo.
+
+c) Apoyar al ministerio con competencias en materia de discapacidad en la consecución de los objetivos de la Estrategia Española sobre el Trastorno del Espectro del Autismo y sus planes de acción.
+
+d) Realizar tareas de comunicación y de toma de conciencia en el ámbito de la inclusión, el respeto y los derechos de las personas con autismo.
+
+e) Asesorar a las Administraciones públicas en la planificación estratégica, normativa y de política pública sobre autismo.
+
+f) Elaborar informes relacionados sobre los derechos y la atención de las personas con autismo y sus familias.
+
+g) Apoyar y asesorar a las Administraciones públicas sobre autismo en sus actuaciones.
+
+8\. La persona titular de la Dirección del Real Patronato sobre Discapacidad determinará la orientación estratégica de los centros asesores, con el asesoramiento de la Comisión Delegada para la Investigación y la Innovación. Así mismo, velará por la buena consecución del desarrollo de los programas de actividades en coordinación con los centros asesores.
+
+9\. Corresponde al Real Patronato sobre Discapacidad la provisión de los recursos necesarios para el buen funcionamiento de los centros asesores.
+
+10\. Los planes de actividades de los centros asesores se integrarán en los correspondientes planes operativos anuales de actuación del Real Patronato sobre Discapacidad.
+
+> Se modifica la letra k) del apartado 3 por la disposición final 1.2 del Real Decreto 262/2026, de 1 de abril. [Ref. BOE-A-2026-7824](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7824)
+
+> Se modifica por el art. 3.9 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifica por el art. único.8 del Real Decreto 1/2013, de 11 de enero. [Ref. BOE-A-2013-756](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-756).
+
+### Artículo 10. Las comisiones de personas expertas.
+
+El Real Patronato sobre Discapacidad podrá contar asimismo con las comisiones de personas expertas que, en su caso, se estimen necesarias, para articular las aportaciones humanísticas, científicas y técnicas que hagan posible el cumplimiento de los fines del mismo. Las comisiones que se constituyan estarán integradas por profesionales de la ciencia, de la sociedad civil y de aquellos ámbitos de los que verse la comisión que se vaya a constituir. De igual forma, podrán contar con apoyos personales y técnicos y elaborarán informes, dictámenes y recomendaciones, y cualquier otro instrumento de comunicación técnica para coadyuvar a los fines del Real Patronato sobre Discapacidad. Estas comisiones tendrán el carácter de grupos de trabajo, a los efectos previstos en el artículo 22.3 de la Ley 40/2015, de 1 de octubre, y su composición se basará en el principio de presencia equilibrada de mujeres y hombres según lo establecido en el artículo 54 de la Ley Orgánica 3/2007, de 22 de marzo, salvo por razones fundadas y objetivas, debidamente motivadas. Se promoverá la participación de las personas con discapacidad como expertas en estas comisiones.
+
+> Se modifica por el art. 3.10 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifica por el art. único.9 del Real Decreto 1/2013, de 11 de enero. [Ref. BOE-A-2013-756](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-756).
+
+> Se modifica por la disposición final 3.5 del Real Decreto 1258/2010, de 8 de octubre. [Ref. BOE-A-2010-15441](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15441).
+
+### Artículo 11. La Dirección del Real Patronato sobre Discapacidad.
+
+1\. La persona titular de la Dirección del Real Patronato sobre Discapacidad será la persona titular de la Dirección General de Derechos de las Personas con Discapacidad, con rango administrativo de titular de dirección general, en el ministerio con competencias en discapacidad. Este cargo no será retribuido.
+
+2\. Corresponde a la Dirección del Real Patronato realizar, de acuerdo con las directrices superiores, las siguientes funciones:
+
+a) Preparar o informar los asuntos que hayan de someterse al Consejo.
+
+b) Elaboración de la propuesta de anteproyecto de presupuestos anuales de gastos e ingresos del Real Patronato y su gestión económico-financiera.
+
+c) Ejercer la dirección y gestión del personal del Real Patronato, en los términos previstos en las disposiciones legales vigentes y de acuerdo con las directrices de la persona titular de la Secretaría General.
+
+d) Elaborar las memorias anuales de actuaciones.
+
+e) Celebrar los contratos en nombre del organismo.
+
+f) Aprobar los gastos y ordenar los pagos del organismo.
+
+g) La coordinación y gestión de los servicios relacionados con el régimen interior y asuntos generales del Real Patronato.
+
+h) Mantener relaciones de carácter técnico con organismos públicos y privados y con personal científico, experto y promotor, tanto nacional como internacional. Proponer la constitución de comisiones de personas expertas y proveer los medios de apoyo que precisen.
+
+i) Coordinar las actividades de estudios, investigación y desarrollo e información sobre materias relacionadas con las funciones del Real Patronato.
+
+j) Elaborar y ejecutar los planes generales de actividades.
+
+k) Ejercer la dirección del organismo autónomo, en los términos previstos en las disposiciones legales vigentes.
+
+l) Constituir las Comisiones de personas expertas.
+
+m) Determinar la acción estratégica de los centros asesores.
+
+n) Desempeñar cuantas otras funciones se le atribuyan por norma legal o reglamentaria.
+
+o) Determinar las líneas estratégicas y el programa de actividades de los centros asesores del Real Patronato sobre Discapacidad regulados en el artículo 9.
+
+3\. La persona que ocupe la Dirección será suplida, en caso de ausencia, vacante o enfermedad u otra causa legal, por la persona titular de la Gerencia, que tendrá rango administrativo de titular de subdirección general.
+
+> Se modifica por el art. 3.11 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Su anterior numeración era art. 10.
+
+### Artículo 12. La Gerencia.
+
+1\. La Gerencia tendrá nivel orgánico de subdirección general y la persona titular tendrá la consideración de directivo público profesional a los efectos de lo dispuesto en el Real Decreto-ley 6/2023, de 19 de diciembre, y su normativa de desarrollo. Su procedimiento de provisión se ajustará a lo previsto en dicha norma.
+
+2\. Corresponde a la Gerencia:
+
+a) Ejercer la dirección del personal y de los servicios y actividades del mismo, sin perjuicio de las competencias que, en esta materia, correspondan, de acuerdo con la legislación vigente.
+
+b) Desarrollar y ejecutar los planes aprobados por el Consejo Rector y, en su caso, por la Comisión Delegada, y dar cumplimiento a sus acuerdos.
+
+c) Gestionar el régimen interior del organismo autónomo y proponer, en su caso, la modificación de la relación de puestos de trabajo, para su elevación al Consejo Rector.
+
+d) Desarrollar cuantos asuntos le sean encomendados por la dirección general y sustituir a su titular en caso de ausencia, vacante, enfermedad u otra causa legal.
+
+> Se modifica por el art. 3.12 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+### Artículo 13. La Comisión Delegada para la Investigación e Innovación.
+
+1\. Se crea la Comisión Delegada para la Investigación e Innovación, órgano colegiado adscrito al Consejo Rector de este organismo, que se regirá jurídicamente según lo dispuesto en el Capítulo II, sección 3.ª de la Ley 40/2015, de 1 de octubre. Estará orientada a la planificación de la labor de generación y transferencia del conocimiento e innovación en los fines que determina el Estatuto del Real Patronato sobre Discapacidad. Actuará también como órgano de gobernanza de los centros asesores ante el Consejo Rector de este organismo.
+
+2\. La Comisión Delegada está compuesta por:
+
+a) La presidencia: la persona titular de la Dirección del Real Patronato sobre Discapacidad. En casos de vacante, ausencia, enfermedad, u otra causa legal, la persona titular de la presidencia será sustituida por el miembro del órgano colegiado de mayor jerarquía, antigüedad y edad, por este orden.
+
+b) Las vocalías:
+
+1.º En su composición de CNLSE, una persona con discapacidad que ostente labores de dirección o coordinación del CNLSE.
+
+2.º En su composición de CESyA, una persona que ostente labores de dirección o coordinación del CESyA.
+
+3.º En su composición de CEACOG, una persona con discapacidad que ostente labores de dirección o coordinación del CEACOG.
+
+4.º En su composición de CEDID, una persona con discapacidad que ostente labores de dirección o coordinación del CEDID.
+
+5.º En su composición de CETEA, una persona con discapacidad que ostente labores de dirección o coordinación del CETEA.
+
+Asimismo, cada una de estas composiciones incorporarán las siguientes vocalías:
+
+1.º En representación del Real Patronato sobre Discapacidad, tres vocalías nombradas entre su personal funcionario a partir de nivel 24 y designadas por el director del organismo autónomo.
+
+2.º Una persona con discapacidad, en representación del Consejo Superior de Investigaciones Científicas, CSIC.
+
+3.º Una persona con discapacidad en representación de la asociación de utilidad pública más representativa de ámbito estatal que agrupe a las organizaciones más representativas de los diferentes tipos de discapacidad en España.
+
+4.º Una persona con discapacidad en representación del Observatorio Estatal de la Discapacidad.
+
+5.º La Secretaría: que asistirá a las sesiones con voz, pero sin voto y que será ostentada por una persona que designe la persona titular de la Dirección del Real Patronato sobre Discapacidad entre el personal funcionario de este organismo autónomo.
+
+3\. El funcionamiento de la Comisión Delegada se regirá por lo establecido en el artículo 17 de la Ley 40/2015, de 1 de octubre, y tendrá las siguientes funciones:
+
+a) Planificar, organizar, rendir cuentas y efectuar el seguimiento de las actividades de los centros asesores de acuerdo con las directrices del Consejo Rector.
+
+b) Promover la generación, la transferencia del conocimiento y la innovación del organismo autónomo.
+
+c) Contribuir a la elaboración de los planes operativos y las memorias anuales del Real Patronato sobre Discapacidad.
+
+d) Coordinar y optimizar la acción de los centros asesores.
+
+e) Asesorar a la personar titular del Real Patronato sobre Discapacidad en la dirección estratégica y las actividades de los centros asesores.
+
+f) Desarrollar cuantas funciones le delegue el Consejo Rector en relación con los centros asesores.
+
+4\. El quórum para la válida constitución de la Comisión Delegada será el de dos tercios de sus componentes. Si no existiera quórum, la Comisión se constituirá en segunda convocatoria treinta minutos después de la hora señalada para la primera. Para ello será suficiente la asistencia de la mayoría absoluta de sus miembros, entre los que se incluirán necesariamente los titulares de la presidencia y la secretaria, en su caso, quienes les sustituyan.
+
+5\. Los acuerdos serán adoptados por mayoría de votos y dirimirá el empate el voto de la Presidencia. No podrán abstenerse en las votaciones los miembros de la Comisión que ostenten esta condición, en virtud de su cualidad de autoridades o personal al servicio de las Administraciones Públicas.
+
+6\. Esta comisión se reunirá al menos una vez al año, pudiendo reunirse por medios electrónicos, y a las sesiones podrán ser invitadas personas u organizaciones a propuesta de la presidencia de esta Comisión Delegada.
+
+7\. En la designación de vocalías se deberá asegurar la participación de personas con discapacidad en este órgano, así como el principio de presencia equilibrada de mujeres y hombres, según lo establecido en el artículo 54 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas.
+
+8\. La comisión, como órgano colegiado, se regirá, en relación al régimen de sustituciones, por las normas contenidas en la sección 3.ª del Capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica por el art. 3.13 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifica por el art. único.10 del Real Decreto 1/2013, de 11 de enero. [Ref. BOE-A-2013-756](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-756).
+
+### Artículo 14. Régimen de personal.
+
+El personal funcionario y laboral del Real Patronato sobre Discapacidad se regirá por la normativa de función pública y la legislación laboral aplicable a la Administración General del Estado.
+
+> Se modifica por el art. 3.14 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Su anterior numeración era art. 11.
+
+### Artículo 15. Recursos económicos y patrimonio.
+
+1\. Los bienes y medios económicos del Real Patronato son los siguientes:
+
+a) Los bienes y valores que constituyan el patrimonio, así como los productos y rentas del mismo.
+
+b) Las transferencias y subvenciones que anualmente se consignen en los Presupuestos Generales del Estado.
+
+c) Los ingresos de derecho público o privado que le corresponden y, en particular, los que procedan del desarrollo de las actividades relacionadas con los fines del Real Patronato.
+
+d) Las donaciones, legados y otras aportaciones de entidades privadas y de particulares.
+
+e) Cualesquiera otros recursos económicos, ordinarios o extraordinarios que esté legalmente autorizado a percibir.
+
+2\. El régimen patrimonial será el establecido en el artículo 101 de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica por el art. 3.15 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Su anterior numeración era art. 12.
+
+> Se modifica por el art. único.11 del Real Decreto 1/2013, de 11 de enero. [Ref. BOE-A-2013-756](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-756).
+
+### Artículo 16. Régimen de contratación.
+
+El régimen jurídico aplicable para la contratación será el establecido en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014 y demás normativa de desarrollo.
+
+> Se modifica por el art. 3.16 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Su anterior numeración era art. 13.
+
+> Se añade una letra l) al apartado 1 y se modifica el apartado 4 por el art. único.12 y 13 del Real Decreto 1/2013, de 11 de enero. [Ref. BOE-A-2013-756](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-756).
+
+> Se modifica el apartado 2.a) por la disposición final 3.2 del Real Decreto 263/2011, de 28 de febrero. [Ref. BOE-A-2011-3893](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3893).
+
+> Se añade por el art. único del Real Decreto 921/2010, de 16 de julio. [Ref. BOE-A-2010-11428](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11428).
+
+### Artículo 17. Régimen económico-financiero y de control.
+
+1\. El régimen presupuestario, económico-financiero, de intervención, control financiero y contabilidad será el establecido en la Ley General Presupuestaria.
+
+2\. El organismo autónomo estará sometido al control interno de su gestión económico-financiera a realizar por la Intervención Delegada en el Real Patronato, bajo la dependencia orgánica y funcional de la Intervención General de la Administración del Estado.
+
+3\. El Real Patronato sobre Discapacidad estará sometido a la supervisión continua, ejercida por el Ministerio de Hacienda a través la Intervención General de la Administración del Estado, de acuerdo con lo establecido en el artículo 85.3 la Ley 40/2015, de 1 de octubre.
+
+> Se modifica por el art. 3.17 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Su anterior numeración era art. 14.
+
+> Se añade por el art. único.14 del Real Decreto 1/2013, de 11 de enero. [Ref. BOE-A-2013-756](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-756).
+
+### Artículo 18. Actos que agotan la vía administrativa.
+
+Ponen fin a la vía administrativa todos los actos y resoluciones de los órganos de gobierno previstos en el artículo 4, de conformidad con lo establecido en el artículo 114 de la Ley 39/2015, de 1 de octubre.
+
+De la misma forma, también ponen fin a la vía administrativa todos los actos y resoluciones de la Dirección del Real Patronato sobre Discapacidad, en lo relativo a sus funciones como órgano de contratación.
+
+> Se añade por el art. 3.18 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Su anterior numeración era art. 15.
+
+### Disposición transitoria única. Adaptación de los planes generales de actividades.
+
+1\. Con el objeto de adaptar los planes generales de actividades del Real Patronato sobre Discapacidad, O.A. a lo dispuesto en el artículo 92 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en el plazo de seis meses desde la entrada en vigor de esta disposición, presentará el plan general vigente, con las adaptaciones necesarias para constituirse en el plan inicial de actuación, a la aprobación del Ministerio de Derechos Sociales, Consumo y Agenda 2030.
+
+A estos efectos, se considerará que el periodo de vigencia del plan inicial de actuación, aprobado en los términos del epígrafe anterior, es el establecido en el momento de su aprobación por el Consejo del Real Patronato de Discapacidad, transcurrido el cual, deberá procederse a su revisión.
+
+2\. El plan anual de actividades en el que se desarrolla el plan general, deberá ser propuesto a la aprobación como plan anual de actuaciones en los mismos términos y plazo dispuesto en el apartado anterior.
+
+> Se añade por el art. 3.20 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)

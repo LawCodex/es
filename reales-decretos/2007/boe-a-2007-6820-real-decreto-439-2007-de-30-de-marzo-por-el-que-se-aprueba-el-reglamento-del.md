@@ -1050,54 +1050,6 @@ Cuando en el año inmediato anterior se hubiese iniciado una actividad, el volum
 
 c) Que las actividades económicas sean desarrolladas, total o parcialmente, fuera del ámbito de aplicación del Impuesto al que se refiere el artículo 4 de la Ley del Impuesto. A estos efectos, se entenderá que las actividades de transporte urbano colectivo y de viajeros por carretera, de transporte por autotaxis, de transporte de mercancías por carretera y de servicios de mudanzas, se desarrollan, en cualquier caso, dentro del ámbito de aplicación del Impuesto.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 1.11 del Real Decreto 633/2015, de 10 de julio. [Ref. BOE-A-2015-7770](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7770). entra en vigor el 1 de enero de 2016 y resulta aplicable a los periodos impositivos que se inicien a partir de dicha fecha, según indica la disposición final 2 del citado Real Decreto.
-
-> Redacción anterior:
-
-> "1. El método de estimación objetiva se aplicará a cada una de las actividades económicas, aisladamente consideradas, que determine el Ministro de Economía y Hacienda, salvo que los contribuyentes renuncien a él o estén excluidos de su aplicación, en los términos previstos en los artículos 33 y 34 de este Reglamento.
-
-> 2\. Este método no podrá aplicarse por los contribuyentes cuando concurra cualquiera de las siguientes circunstancias:
-
-> a) Que el volumen de rendimientos íntegros en el año inmediato anterior supere cualquiera de los siguientes importes:
-
-> Para el conjunto de sus actividades económicas, 450.000 euros anuales.
-
-> Para el conjunto de sus actividades agrícolas y ganaderas, 300.000 euros anuales.
-
-> Para el conjunto de sus actividades clasificadas en la división 7 de la sección primera de las Tarifas del Impuesto sobre Actividades Económicas a las que sea de aplicación lo dispuesto en el apartado 6 del artículo 95 de este Reglamento, 300.000 euros anuales.
-
-> A los efectos previstos en los casos anteriores, sólo se computarán:
-
-> Las operaciones que deban anotarse en el Libro registro de ventas o ingresos previsto en el artículo 68.7 del Reglamento de este Impuesto, o en el libro registro de ingresos previsto en el artículo 40.1 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
-
-> Las operaciones por las que estén obligados a emitir y conservar facturas, de acuerdo con lo dispuesto en el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.
-
-> No obstante, deberán computarse no solo las operaciones correspondientes a las actividades económicas desarrolladas por el contribuyente, sino también las correspondientes a las desarrolladas por el cónyuge, descendientes y ascendientes, así como por entidades en régimen de atribución de rentas en las que participen cualquiera de los anteriores, en las que concurran las siguientes circunstancias:
-
-> — Que las actividades económicas desarrolladas sean idénticas o similares. A estos efectos, se entenderán que son idénticas o similares las actividades económicas clasificadas en el mismo grupo en el Impuesto sobre Actividades Económicas.
-
-> — Que exista una dirección común de tales actividades, compartiéndose medios personales o materiales.
-
-> Cuando en el año inmediato anterior se hubiese iniciado una actividad, el volumen de ingresos se elevará al año.
-
-> b) Que el volumen de compras en bienes y servicios, excluidas las adquisiciones de inmovilizado, en el ejercicio anterior supere la cantidad de 300.000 euros anuales. En el supuesto de obras o servicios subcontratados, el importe de los mismos se tendrá en cuenta para el cálculo de este límite.
-
-> A estos efectos, deberán computarse no sólo las operaciones correspondientes a las actividades económicas desarrolladas por el contribuyente, sino también las correspondientes a las desarrolladas por el cónyuge, descendientes y ascendientes, así como por las entidades en régimen de atribución de rentas en las que participen cualquiera de los anteriores, en las que concurran las circunstancias señaladas en la letra a) anterior.
-
-> Cuando en el año inmediato anterior se hubiese iniciado una actividad, el volumen de compras se elevará al año.
-
-> c) Que las actividades económicas sean desarrolladas, total o parcialmente, fuera del ámbito de aplicación del Impuesto al que se refiere el artículo 4 de la Ley del Impuesto. A estos efectos, se entenderá que las actividades de transporte urbano colectivo y de viajeros por carretera, de transporte por autotaxis, de transporte de mercancías por carretera y de servicios de mudanzas, se desarrollan, en cualquier caso, dentro del ámbito de aplicación del Impuesto.
-
-> d) Tratándose de contribuyentes que ejerzan las actividades a que se refiere el apartado 6 del artículo 95 de este Reglamento, cuando el volumen de los rendimientos íntegros del año inmediato anterior correspondiente a dichas actividades que proceda de las personas o entidades previstas en el artículo 76 de este Reglamento, supere cualquiera de las siguientes cantidades:
-
-> a´) 50.000 euros anuales, siempre que además represente más del 50 por 100 del volumen total de rendimientos íntegros correspondiente a las citadas actividades.
-
-> b´) 225.000 euros anuales.
-
-> Lo dispuesto anteriormente no será de aplicación respecto de las actividades incluidas en la división 7 de la sección primera de las Tarifas del Impuesto sobre Actividades Económicas.
-
-> Cuando en el año inmediato anterior se hubiese iniciado una actividad, el volumen de rendimientos íntegros se elevará al año."
-
 > Se modifica por el art. 1.11 del Real Decreto 633/2015, de 10 de julio. [Ref. BOE-A-2015-7770](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7770).
 
 > Esta modificación resulta aplicable a los periodos impositivos que se inicien a partir del 1 de enero de 2016, según establece la disposición final 2.2 del citado Real Decreto.
@@ -2788,12 +2740,6 @@ Cuando se produzcan variaciones en las circunstancias personales y familiares qu
 a) La solicitud se realizará por escrito ante los pagadores, quienes vendrán obligados a atender las solicitudes que se les formulen, al menos, con cinco días de antelación a la confección de las correspondientes nóminas.
 
 b) El nuevo tipo de retención solicitado se aplicará, como mínimo hasta el final del año y, en tanto no renuncie por escrito al citado porcentaje o no solicite un tipo de retención superior, durante los ejercicios sucesivos, salvo que se produzca variación de las circunstancias que determine un tipo superior.
-
-> Téngase en cuenta que se suprime el apartado 6, con efectos desde 1 de enero de 2014, por el art. 2.3.6 del Real Decreto 960/2013, de 5 de diciembre. [Ref. BOE-A-2013-12771](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12771).
-
-> Redacción hasta 31 de diciembre de 2013:
-
-> 6\. El pagador deberá conservar, a disposición de la Administración tributaria, los documentos aportados por el contribuyente para justificar la situación personal y familiar.
 
 > Se modifica el apartado 1, con efectos desde 1 de enero de 2013, y se suprime el apartado 6, con efectos desde 1 de enero de 2014, por el art. 2.1.10 y 2.3.6 del Real Decreto 960/2013, de 5 de diciembre. [Ref. BOE-A-2013-12771](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12771).
 

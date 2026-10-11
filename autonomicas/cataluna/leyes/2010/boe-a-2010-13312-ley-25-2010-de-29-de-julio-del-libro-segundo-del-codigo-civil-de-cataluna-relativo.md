@@ -232,12 +232,6 @@ c) Los demás actos que la ley le permita.
 
 2\. La capacidad del menor emancipado se complementa con la asistencia del cónyuge o del conviviente mayor de edad en caso de matrimonio o de convivencia estable en pareja del emancipado, de los progenitores o, en su defecto, del curador.
 
-> Esta última actualización del apartado 2 por la disposición final 2.2 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "2. La capacidad del menor emancipado se complementa con la asistencia del cónyuge mayor de edad en caso de emancipación por matrimonio, de los progenitores o, en su defecto, del curador."
-
 > Se modifica el apartado 2 por la disposición final 2.2 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
 
 **Artículo 211-8. Formas de emancipación.**
@@ -249,18 +243,6 @@ a) Por consentimiento de quienes ejercen la potestad parental o la tutela.
 b) Por resolución judicial.
 
 2\. La emancipación es irrevocable y debe hacerse constar en el Registro Civil. Mientras no se inscriba, no produce efectos contra terceros.
-
-> Esta última actualización del apartado 1 por la disposición final 2.3 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "1. La emancipación puede tener lugar:
-
-> a) Por matrimonio.
-
-> b) Por consentimiento de quienes ejercen la potestad parental o la tutela.
-
-> c) Por resolución judicial"
 
 > Se modifica por la disposición final 2.3 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
 
@@ -612,12 +594,6 @@ Antes de dar posesión de un cargo tutelar, la autoridad judicial puede exigir c
 
 1\. El tutor y, en su defecto, el administrador patrimonial deben hacer inventario del patrimonio del tutelado, en el plazo de dos meses a partir de la toma de posesión del cargo. El letrado de la Administración de justicia puede prorrogar este plazo por justa causa hasta un máximo de dos meses.
 
-> Esta última actualización del apartado 1 por la disposición final 2.4 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "1. El tutor y, en su defecto, el administrador patrimonial deben hacer inventario del patrimonio del tutelado, en el plazo de dos meses a partir de la toma de posesión del cargo. La autoridad judicial puede prorrogar este plazo por justa causa hasta un máximo de dos meses."
-
 2\. El inventario debe formalizarse judicial o notarialmente. En este segundo caso, el tutor y, en su defecto, el administrador patrimonial han de depositar una copia en el juzgado que ha constituido la tutela.
 
 3\. El ministerio fiscal y el tutelado, si tiene suficiente juicio y, en todo caso, si es un menor de más de doce años, deben ser convocados a la formalización del inventario.
@@ -663,12 +639,6 @@ Los desacuerdos entre los tutores o entre los titulares de la tutela y de la adm
 **Artículo 222-29. Conflicto de intereses.**
 
 En el caso de conflicto de intereses con el tutelado, si existen dos tutores o un tutor y un administrador patrimonial, la persona afectada es sustituida por la otra. Si solo existe un tutor o si el conflicto de intereses también existe con relación a la persona que debería sustituirlo, el letrado de la Administración de justicia debe nombrar a un defensor judicial.
-
-> Esta última actualización del art. 222-29 por la disposición final 2.5 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "En el caso de conflicto de intereses con el tutelado, si existen dos tutores o un tutor y un administrador patrimonial, la persona afectada es sustituida por la otra. Si solo existe un tutor o si el conflicto de intereses también existe con relación a la persona que debería sustituirlo, la autoridad judicial debe nombrar a un defensor judicial."
 
 > Se modifica por la disposición final 2.5 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
 
@@ -908,12 +878,6 @@ Deben ponerse en curatela, si procede, las siguientes personas:
 
 a) Los menores de edad emancipados, si los progenitores han muerto o han quedado impedidos para ejercer la asistencia prescrita por la ley, salvo el menor emancipado casado o conviviente en pareja estable con una persona plenamente capaz.
 
-> Esta última actualización de la letra a) por la disposición final 2.6 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "a) Los menores de edad emancipados, si los progenitores han muerto o han quedado impedidos para ejercer la asistencia prescrita por la ley, salvo el menor emancipado por matrimonio con una persona plenamente capaz."
-
 b) Los incapacitados con relación a los que no se haya considerado adecuada la constitución de la tutela.
 
 c) Los pródigos.
@@ -950,12 +914,6 @@ La sentencia de incapacitación puede conferir al curador funciones de administr
 
 Si existe conflicto de intereses entre la persona puesta en curatela y el curador, así como en el caso de imposibilidad, el letrado de la Administración de Justicia debe designar un defensor judicial.
 
-> Esta última actualización del art 223-7 por la disposición final 2.7 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "Si existe conflicto de intereses entre la persona puesta en curatela y el curador, así como en el caso de imposibilidad, la autoridad judicial debe designar un defensor judicial."
-
 > Se modifica por la disposición final 2.7 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
 
 **Artículo 223-8. Falta de complemento de capacidad.**
@@ -969,12 +927,6 @@ La curatela se extingue por las siguientes causas:
 a) La mayoría de edad del menor emancipado.
 
 b) El matrimonio o la convivencia en pareja estable del menor emancipado con una persona plenamente capaz.
-
-> Esta última actualización de la letra b) por la disposición final 2.8 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "b) El matrimonio del menor emancipado con una persona plenamente capaz."
 
 c) La adopción de la persona puesta en curatela.
 
@@ -1006,22 +958,6 @@ d) En los supuestos en que por cualquier causa los tutores o curadores no ejerza
 
 e) En los demás casos determinados por la ley.
 
-> Esta última actualización del art. 224-1 por la disposición final 2.9 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "La autoridad judicial debe nombrar un defensor judicial en los siguientes casos:
-
-> a) Si existe conflicto de intereses entre el tutor y el tutelado, o entre el curador y la persona puesta en curatela.
-
-> b) Si lo exigen las circunstancias de la persona que debe ser tutelada, mientras la tutela no se constituya.
-
-> c) Mientras no se constituya la curatela de pródigos o de personas en situación de incapacidad relativa.
-
-> d) En los supuestos en que por cualquier causa los tutores o curadores no ejerzan sus funciones, mientras no finalice la causa o no se designe otra persona para el ejercicio de los cargos.
-
-> e) En los demás casos determinados por la ley."
-
 > Se modifica por la disposición final 2.9 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
 
 **Artículo 224-2. Nombramiento.**
@@ -1030,25 +966,11 @@ e) En los demás casos determinados por la ley.
 
 2\. El nombramiento debe recaer en la persona que el letrado de la Administración de Justicia crea más idónea, teniendo en cuenta el hecho que determina el nombramiento.
 
-> Esta última actualización del art. 224-2 por la disposición final 2.10 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "1. La autoridad judicial nombra defensor judicial, de oficio o a petición del ministerio fiscal, del tutor, del curador, del propio menor o de cualquier persona con un interés legítimo.
-
-> 2\. El nombramiento debe recaer en la persona que la autoridad judicial crea más idónea, teniendo en cuenta el hecho que determina el nombramiento."
-
 > Se modifica por la disposición final 2.10 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
 
 **Artículo 224-3. Actuación.**
 
 En los casos de conflicto de intereses, la actuación del defensor judicial se limita a los actos que hayan determinado su nombramiento.
-
-> Esta última actualización del art. 224-3 por la disposición final 2.11 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "En los casos de conflicto de intereses, la actuación del defensor judicial se limita a los actos que hayan determinado su nombramiento. Si estos actos requieren autorización judicial, se entiende que esta está implícita en el nombramiento."
 
 > Se modifica por la disposición final 2.11 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
 
@@ -1528,20 +1450,6 @@ c) Los pactos sucesorios en los casos en que lo establece el presente código.
 
 d) Los pactos que tienen los capítulos como instrumento meramente documental.
 
-> Esta última actualización del art. 224-3 por la disposición final 2.12 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "Los capítulos quedan sin efecto si se declara nulo el matrimonio, si existe separación judicial o si el matrimonio se disuelve por divorcio, pero conservan su eficacia:
-
-> a) El reconocimiento de hijos efectuado por cualquiera de los cónyuges.
-
-> b) Los pactos efectuados en previsión de ruptura matrimonial.
-
-> c) Los pactos sucesorios en los casos en que lo establece el presente código.
-
-> d) Los pactos que tienen los capítulos como instrumento meramente documental."
-
 > Se modifica por la disposición final 2.12 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
 
 ##### Sección 4.ª Las donaciones por razón de matrimonio otorgadas fuera de capítulos matrimoniales
@@ -1574,12 +1482,6 @@ d) Ingratitud del donatario.
 
 1\. Corresponde al cónyuge superviviente, no separado legalmente o de hecho, la propiedad de la ropa, del mobiliario y de los utensilios que forman el ajuar de la vivienda conyugal. Dichos bienes no se computan en su haber hereditario.
 
-> Esta última actualización del apartado 1 por la disposición final 2.13 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "1. Corresponde al cónyuge superviviente, no separado judicialmente o de hecho, la propiedad de la ropa, del mobiliario y de los utensilios que forman el ajuar de la vivienda conyugal. Dichos bienes no se computan en su haber hereditario."
-
 2\. No son objeto del derecho de predetracción las joyas, los objetos artísticos o históricos, ni los demás bienes del cónyuge premuerto que tengan un valor extraordinario con relación al nivel de vida del matrimonio y al patrimonio relicto. Tampoco lo son los muebles de procedencia familiar si el cónyuge premuerto ha dispuesto de ellos por actos de última voluntad en favor de otras personas.
 
 > Se modifica el apartado 1 por la disposición final 2.13 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
@@ -1589,14 +1491,6 @@ d) Ingratitud del donatario.
 1\. Durante el año siguiente a la muerte o declaración de fallecimiento de uno de los cónyuges, el superviviente no separado legalmente o de hecho que no sea usufructuario universal del patrimonio del premuerto tiene derecho a continuar usando la vivienda conyugal y a ser alimentado a cargo de este patrimonio, de acuerdo con el nivel de vida que habían mantenido los cónyuges y con la importancia del patrimonio. Este derecho es independiente de los demás que le correspondan en virtud de la defunción del premuerto.
 
 2\. El cónyuge superviviente pierde los derechos a que se refiere el apartado 1 si, durante el año siguiente a la muerte o declaración de fallecimiento de su cónyuge, vuelve a casarse o pasa a vivir maritalmente con otra persona, así como si abandona o descuida gravemente a los hijos comunes en potestad parental. En ningún caso está obligado a devolver el importe de los alimentos percibidos.
-
-> Esta última actualización del art 231-31 por la disposición final 2.14 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "1. Durante el año siguiente al fallecimiento de uno de los cónyuges, el superviviente no separado judicialmente o de hecho que no sea usufructuario universal del patrimonio del premuerto tiene derecho a continuar usando la vivienda conyugal y a ser alimentado a cargo de este patrimonio, de acuerdo con el nivel de vida que habían mantenido los cónyuges y la importancia del patrimonio. Este derecho es independiente de los demás que le correspondan en virtud de la defunción del premuerto.
-
-> 2\. El cónyuge superviviente pierde los derechos a que se refiere el apartado 1 si, durante el año siguiente al fallecimiento de su cónyuge, vuelve a casarse o pasa a vivir maritalmente con otra persona, así como si abandona o descuida gravemente a los hijos comunes en potestad parental. En ningún caso está obligado a devolver el importe de los alimentos percibidos."
 
 > Se modifica por la disposición final 2.14 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
 
@@ -1705,12 +1599,6 @@ La escritura pública de constitución del régimen de participación en las gan
 1\. El régimen de participación en las ganancias se extingue por:
 
 a) La nulidad o disolución del matrimonio o la separación legal.
-
-> Esta última actualización del apartado 1.a) por la disposición final 2.15 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "a) La nulidad o disolución del matrimonio o la separación judicial."
 
 b) El acuerdo de los cónyuges mediante el cual estipulan en capítulos matrimoniales un régimen diferente.
 
@@ -1902,12 +1790,6 @@ De las deudas contraídas para atender a gastos familiares, responden solidariam
 
 a) La nulidad o disolución del matrimonio o la separación legal.
 
-> Esta última actualización del apartado 1.a) por la disposición final 2.16 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "a) La nulidad o disolución del matrimonio o la separación judicial."
-
 b) El acuerdo de los cónyuges mediante el cual estipulan en capítulos matrimoniales un régimen diferente.
 
 2\. El régimen de comunidad de bienes se extingue por resolución judicial, a petición de uno de los cónyuges, si se produce alguna de las siguientes circunstancias:
@@ -1937,12 +1819,6 @@ d) Embargo de bienes comunes en el supuesto del artículo 232-34.2.
 3\. En la división de los bienes comunes, cada cónyuge puede recuperar los bienes que eran de su propiedad antes del inicio del régimen de comunidad y que subsisten en el momento de la extinción, según el estado inicial. Los demás bienes y las mejoras hechas en los bienes aportados deben incluirse en la división de la comunidad y, si el valor de aquellos bienes es superior al valor de la cuota, el adjudicatario debe pagar la diferencia en dinero.
 
 #### CAPÍTULO III — Los efectos de la nulidad del matrimonio, del divorcio y de la separación legal
-
-> Esta última actualización de la rúbrica por la disposición final 2.17 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "**Los efectos de la nulidad del matrimonio, del divorcio y de la separación judicial**"
 
 > Se modifica la rúbrica por la disposición final 2.17 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
 
@@ -2046,12 +1922,6 @@ d) La liquidación del régimen económico matrimonial y la división de los bie
 
 1\. En los supuestos establecidos por el apartado 2 del artículo 233-2, los pactos adoptados en convenio regulador deben ser aprobados por la autoridad judicial, salvo los puntos que no sean conformes con el interés de los hijos menores.
 
-> Esta última actualización del apartado 1 por la disposición final 2.19 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "1. Los pactos adoptados en convenio regulador deben ser aprobados por la autoridad judicial, salvo los puntos que no sean conformes con el interés de los hijos menores."
-
 2\. Si deniega la aprobación de los pactos adoptados en convenio regulador, la autoridad judicial debe indicar los puntos que deben modificarse y debe fijar el plazo para hacerlo. Si los cónyuges no formulan una propuesta de modificación o esta tampoco es aprobada, la autoridad judicial debe adoptar la resolución pertinente.
 
 3\. La sentencia debe incorporar los puntos del convenio que hayan sido aprobados y la decisión que corresponda en cuanto a los puntos no aprobados. También puede contener las medidas necesarias para garantizar su efectivo cumplimiento.
@@ -2114,12 +1984,6 @@ d) La liquidación del régimen económico matrimonial y la división de los bie
 
 1\. Las medidas establecidas por un proceso matrimonial o por un convenio otorgado ante notario o letrado de la Administración de Justicia pueden modificarse, mediante una resolución judicial posterior, si varían sustancialmente las circunstancias concurrentes en el momento de dictarlas. También pueden modificarse, en todo caso, de común acuerdo entre los cónyuges dentro de sus facultades de actuación.
 
-> Esta última actualización del apartado 1 por la disposición final 2.20 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "1. Las medidas ordenadas en un proceso matrimonial pueden modificarse, mediante una resolución judicial posterior, si varían sustancialmente las circunstancias concurrentes en el momento de dictarlas."
-
 2\. El convenio regulador o la sentencia pueden prever anticipadamente las modificaciones pertinentes.
 
 3\. Si la parte que solicita judicialmente la modificación de las medidas establecidas por alteración sustancial de circunstancias ha intentado llegar a un acuerdo extrajudicial iniciando un proceso de mediación, la resolución judicial que modifica las medidas puede retrotraer los efectos a la fecha de inicio del proceso de mediación.
@@ -2131,12 +1995,6 @@ d) La liquidación del régimen económico matrimonial y la división de los bie
 **Artículo 233-8. Responsabilidad parental.**
 
 1\. La nulidad del matrimonio, el divorcio o la separación no alteran las responsabilidades que los progenitores tienen hacia sus hijos de acuerdo con el artículo 236-17.1. En consecuencia, estas responsabilidades mantienen el carácter compartido y, en la medida de lo posible, deben ejercerse conjuntamente.
-
-> Esta última actualización del apartado 1 por la disposición final 2.21 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "1. La nulidad del matrimonio, el divorcio o la separación judicial no alteran las responsabilidades que los progenitores tienen hacia sus hijos de acuerdo con el artículo 236-17.1. En consecuencia, estas responsabilidades mantienen el carácter compartido y, en la medida de lo posible, deben ejercerse conjuntamente."
 
 2\. Los cónyuges, para determinar como deben ejercerse las responsabilidades parentales, deben presentar sus propuestas de plan de parentalidad, con el contenido establecido por el artículo 233-9.
 
@@ -2226,14 +2084,6 @@ g) La situación de los domicilios de los progenitores, y los horarios y las act
 
 3\. Si uno de los cónyuges muere antes de que pase un año desde la separación de hecho, el otro, en los tres meses siguientes al fallecimiento, puede reclamar a los herederos su derecho a la prestación compensatoria. La misma regla debe aplicarse si el procedimiento matrimonial se extingue por el fallecimiento del cónyuge que debería pagarla.
 
-> Esta última actualización del art. 223-14 por la disposición final 2.22 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "1. El cónyuge cuya situación económica, como consecuencia de la ruptura de la convivencia, resulte más perjudicada tiene derecho a solicitar en el primer proceso matrimonial una prestación compensatoria que no exceda del nivel de vida de que gozaba durante el matrimonio ni del que pueda mantener el cónyuge obligado al pago, teniendo en cuenta el derecho de alimentos de los hijos, que es prioritario. En caso de nulidad del matrimonio, tiene derecho a la prestación compensatoria el cónyuge de buena fe, en las mismas circunstancias.
-
-> 2\. Si uno de los cónyuges muere antes de que pase un año desde la separación de hecho, el otro, en los tres meses siguientes al fallecimiento, puede reclamar a los herederos su derecho a la prestación compensatoria. La misma regla debe aplicarse si el procedimiento matrimonial se extingue por el fallecimiento del cónyuge que debería pagarla."
-
 > Se modifica por la disposición final 2.22 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
 
 > Redactado conforme a la corrección de erratas publicada en el DOGC núm. 7329, de 15 de marzo de 2017. [Ref. DOGC-f-2017-90298](https://www.boe.es/buscar/doc.php?id=DOGC-f-2017-90298).
@@ -2252,22 +2102,6 @@ d) La duración de la convivencia.
 
 e) Los nuevos gastos familiares del deudor, si procede.
 
-> Esta última actualización del art. 233-15 por la disposición final 2.23 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "La autoridad judicial, para fijar la cuantía y duración de la prestación compensatoria, debe valorar especialmente:
-
-> a) La posición económica de los cónyuges, teniendo en cuenta, si procede, la compensación económica por razón de trabajo o las previsibles atribuciones derivadas de la liquidación del régimen económico matrimonial.
-
-> b) La realización de tareas familiares u otras decisiones tomadas en interés de la familia durante la convivencia, si eso ha reducido la capacidad de uno de los cónyuges para obtener ingresos.
-
-> c) Las perspectivas económicas previsibles de los cónyuges, teniendo en cuenta su edad y estado de salud y la forma en que se atribuye la guarda de los hijos comunes.
-
-> d) La duración de la convivencia.
-
-> e) Los nuevos gastos familiares del deudor, si procede."
-
 > Se modifica por la disposición final 2.23 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
 
 **Artículo 233-16. Pactos sobre la prestación compensatoria.**
@@ -2275,12 +2109,6 @@ e) Los nuevos gastos familiares del deudor, si procede.
 1\. En previsión de ruptura matrimonial, puede pactarse sobre la modalidad, cuantía, duración y extinción de la prestación compensatoria, de acuerdo con el artículo 231-20
 
 2\. Los pactos de renuncia no incorporados a un convenio regulador no son eficaces en lo que comprometan la posibilidad de atender a las necesidades básicas del cónyuge acreedor.
-
-> Esta última actualización del apartado 2 por la disposición final 2.24 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "2. Los pactos de renuncia no incorporados a una propuesta de convenio regulador no son eficaces en lo que comprometan la posibilidad de atender a las necesidades básicas del cónyuge acreedor."
 
 > Se modifica el apartado 2 por la disposición final 2.24 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
 
@@ -2376,8 +2204,6 @@ d) Por el vencimiento del plazo por el que se estableció o, en su caso, de su p
 
 e) De común acuerdo entre los cónyuges o por renuncia del cónyuge beneficiario.
 
-> Esta última actualización añadiendo la letra e) al apartado 2 por la disposición final 2.25 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
 3\. Una vez extinguido el derecho de uso, el cónyuge que es titular de la vivienda puede recuperar su posesión en ejecución de la sentencia que haya acordado el derecho de uso o de la resolución firme sobre la duración o extinción de este derecho, y puede solicitar, si procede, la cancelación registral del derecho de uso.
 
 > Se añade el apartado 2.e) por la disposición final 2.25 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
@@ -2453,20 +2279,6 @@ En previsión del cese de la convivencia, los convivientes pueden pactar en escr
 4\. Los acuerdos alcanzados fuera de convenio se rigen por el artículo 233-5.
 
 5\. Si no existe acuerdo entre los convivientes, se aplica lo establecido por el artículo 233-4.
-
-> Esta última actualización del art. 234-6 por la disposición final 2.26 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "Artículo 234-6. Acuerdos conseguidos después del cese de la convivencia.
-
-> 1\. Después del cese de la convivencia, los convivientes pueden acordar los efectos de la extinción de la pareja estable.
-
-> 2\. En el caso de acuerdos alcanzados después del cese de la convivencia, los convivientes de común acuerdo o uno de los convivientes con el consentimiento del otro pueden someter a la aprobación de la autoridad judicial una propuesta de convenio que incluya todos los efectos que la extinción deba producir respecto a los hijos comunes y entre los convivientes.
-
-> 3\. Se aplican a los acuerdos incluidos en una propuesta de convenio y a los alcanzados fuera de convenio los artículos 233-3 y 233-5, respectivamente.
-
-> 4\. Si no hay acuerdo entre los convivientes, se aplica lo establecido por el artículo 233-4."
 
 > Se modifica por la disposición final 2.26 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
 
@@ -2567,14 +2379,6 @@ El período legal de concepción comprende los primeros ciento veinte días del 
 1\. Se tienen por hijos del marido los nacidos después de la celebración del matrimonio y dentro de los trescientos días siguientes a la separación, legal o de hecho, de los cónyuges o a la declaración de nulidad o a la disolución del matrimonio.
 
 2\. Los hijos nacidos después de los trescientos días siguientes a la separación legal o de hecho de los cónyuges son matrimoniales si se prueba que han nacido a consecuencia de las relaciones sexuales entre los cónyuges. La misma regla se aplica en el caso de nulidad o de disolución del matrimonio si se prueba que las relaciones han tenido lugar antes de producirse estos efectos.
-
-> Esta última actualización de los apartados 1 y 2 por la disposición final 2.27 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "1. Se tienen por hijos del marido los nacidos después de la celebración del matrimonio y dentro de los trescientos días siguientes a la separación, judicial o de hecho, de los cónyuges o a la declaración de nulidad o a la disolución del matrimonio.
-
-> 2\. Los hijos nacidos después de los trescientos días siguientes a la separación judicial o de hecho de los cónyuges son matrimoniales si se prueba que han nacido a consecuencia de las relaciones sexuales entre los cónyuges. La misma regla se aplica en el caso de nulidad o de disolución del matrimonio si se prueba que las relaciones han tenido lugar antes de producirse estos efectos."
 
 3\. Si dentro de los trescientos días siguientes a la disolución o a la nulidad ha tenido lugar un nuevo matrimonio de la madre, se presume que los nacidos después de la celebración de este matrimonio son hijos del segundo marido.
 
@@ -2687,12 +2491,6 @@ c) Si el reconocimiento se ha hecho con mala fe o con abuso de derecho.
 2\. En el caso de que una persona que debería ser demandada haya muerto, la acción debe dirigirse contra sus herederos.
 
 3\. En las acciones de filiación, el letrado de la Administración de justicia puede nombrar a un defensor judicial si el hijo debe intervenir por medio de un representante legal y lo justifica su interés.
-
-> Esta última actualización del apartado 3 por la disposición final 2.28 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "3. En las acciones de filiación, la autoridad judicial puede nombrar a un defensor judicial si el hijo debe intervenir por medio de un representante legal y lo justifica su interés."
 
 > Se modifica el apartado 3 por la disposición final 2.28 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
 
@@ -2891,12 +2689,6 @@ Los adoptantes y el adoptado, si ha cumplido doce años, deben dar el consentimi
 1\. Deben dar el asentimiento a la adopción, si no están imposibilitadas para hacerlo, las siguientes personas:
 
 a) El cónyuge del adoptante, excepto en el caso de separación legal o de hecho, o la persona con quien el adoptante convive en pareja estable.
-
-> Esta última actualización del apartado 1.a) por la disposición final 2.29 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466)., entrará en vigor el 1 de enero de 2018.
-
-> **Redacción anterior:**
-
-> "a) El cónyuge del adoptante, excepto en el caso de separación judicial o de hecho, o la persona con quien el adoptante convive en pareja estable."
 
 b) Los progenitores del adoptado, salvo que estén privados legalmente de la potestad o incurran en una causa de privación de esta, o, en el caso de acogimiento preadoptivo, que la resolución que lo acordó haya devenido firme.
 

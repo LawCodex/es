@@ -632,14 +632,6 @@ La consulta por terceros de los datos del Inventario General sólo será procede
 
 Las inscripciones practicadas en esta forma estarán afectadas por la limitación de efectos establecida en el artículo 207 de la Ley Hipotecaria.
 
-> Téngase en cuenta que esta última actualización del apartado 3, establecida por la disposición final 1 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046)., entra en vigor el 1 de noviembre de 2015, según establece la disposición final 5 de la citada ley.
-
-> Redacción anterior:
-
-> "3. Además de los medios previstos en el artículo 200 de la Ley Hipotecaria, la certificación a que se refiere el artículo 206 de esta ley será título válido para reanudar el tracto sucesivo interrumpido, siempre que los titulares de las inscripciones contradictorias o sus causahabientes no hayan formulado oposición dentro de los 30 días siguientes a aquel en que la Administración les hubiese dado traslado de la certificación que se propone inscribir, mediante notificación personal o, de no ser ésta posible, mediante publicación de edictos en los términos que se expresan a continuación. Si los interesados no son conocidos, podrá inscribirse la certificación cuando las inscripciones contradictorias tengan más de 30 años de antigüedad, no hayan sufrido alteración durante ese plazo y se hayan publicado edictos por plazo de 30 días comunicando la intención de inscribir la certificación en el tablón del ayuntamiento, y en el "Boletín Oficial del Estado", en el de la comunidad autónoma o en el de la provincia, según cual sea la Administración que la haya expedido, sin que se haya formulado oposición por quien acredite tener derecho sobre los bienes. En la certificación se hará constar el título de adquisición del bien o derecho y el tiempo que lleva la Administración titular en la posesión pacífica del mismo.
-
-> Las inscripciones practicadas en esta forma estarán afectadas por la limitación de efectos establecida en el artículo 207 de la Ley Hipotecaria."
-
 4\. La certificación administrativa expedida por órgano competente de las Administraciones públicas será título suficiente para proceder a la cancelación o rectificación de las inscripciones a favor de la Administración pública en los siguientes supuestos:
 
 a) Cuando, previa la instrucción del correspondiente procedimiento en cuya tramitación será preceptivo un informe técnico, se acredite la inexistencia actual o la imposibilidad de localización física de la finca.
@@ -1954,20 +1946,6 @@ c) Las sociedades mercantiles estatales, entendiendo por tales aquellas sobre la
 
 2.º Bien porque la sociedad mercantil se encuentre en el supuesto previsto en el artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores respecto de la Administración General del Estado o de sus organismos públicos vinculados o dependientes.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por la disposición final 6.1 de la Ley 40/2015, de 1 de octubre [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566). entra en vigor el 2 de octubre de 2016, según determina su disposición final 18.
-
-> Redacción anterior:
-
-> "1. Las disposiciones de este título serán de aplicación a las siguientes entidades:
-
-> a) Las entidades públicas empresariales, a las que se refiere el capítulo III del título III de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
-
-> b) Las entidades de Derecho público vinculadas a la Administración General del Estado o a sus organismos públicos cuyos ingresos provengan, al menos en un 50 por ciento, de operaciones realizadas en el mercado.
-
-> c) Las sociedades mercantiles estatales, entendiendo por tales aquéllas en las que la participación, directa o indirecta, en su capital social de las entidades que, conforme a lo dispuesto en el Real Decreto Legislativo 1091/1988, de 23 de septiembre, por el que se aprueba el texto refundido de la Ley General Presupuestaria, integran el sector público estatal, sea superior al 50 por ciento. Para la determinación de este porcentaje, se sumarán las participaciones correspondientes a las entidades integradas en el sector público estatal, en el caso de que en el capital social participen varias de ellas.
-
-> d) Las sociedades mercantiles que, sin tener la naturaleza de sociedades mercantiles estatales, se encuentren en el supuesto previsto en el artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores respecto de la Administración General del Estado o sus organismos públicos."
-
 2\. Las sociedades mercantiles estatales, con forma de sociedad anónima, cuyo capital sea en su totalidad de titularidad, directa o indirecta, de la Administración General del Estado o de sus organismos públicos, se regirán por el presente título y por el ordenamiento jurídico privado, salvo en las materias en que les sean de aplicación la normativa presupuestaria, contable, de control financiero y de contratación.
 
 3\. A los efectos previstos en el presente título, formarán parte del patrimonio empresarial de la Administración General del Estado o de sus organismos públicos, las acciones, títulos, valores, obligaciones, obligaciones convertibles en acciones, derechos de suscripción preferente, contratos financieros de opción, contratos de permuta financiera, créditos participativos y otros susceptibles de ser negociados en mercados secundarios organizados que sean representativos de derechos para la Administración General del Estado o sus organismos públicos, aunque su emisor no esté incluido entre las personas jurídicas enunciadas en el apartado 1 del presente artículo.
@@ -1981,12 +1959,6 @@ c) Las sociedades mercantiles estatales, entendiendo por tales aquellas sobre la
 1\. Las entidades a que se refieren los párrafos a) y b) del apartado 1 del artículo anterior ajustarán la gestión de su patrimonio a esta ley. En lo no previsto en ella, se ajustarán al Derecho privado, salvo en materia de bienes de dominio público en que les serán de aplicación las disposiciones reguladoras de estos bienes.
 
 2\. Las entidades a que se refiere el párrafo c) del apartado 1 del artículo anterior ajustarán la gestión de su patrimonio al Derecho privado, sin perjuicio de las disposiciones de esta ley que les resulten expresamente de aplicación.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por la disposición final 6.2 de la Ley 40/2015, de 1 de octubre [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566). entra en vigor el 2 de octubre de 2016, según determina su disposición final 18.
-
-> Redacción anterior:
-
-> "2. Las entidades a que se refieren los párrafos c) y d) del apartado 1 del artículo anterior ajustarán la gestión de su patrimonio al Derecho privado sin perjuicio de las disposiciones de esta ley que les resulten expresamente de aplicación."
 
 > Se modifica, con efectos de 2 de octubre de 2016, el apartado 2 por la disposición final 6.2 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 
@@ -2529,8 +2501,6 @@ d) identificación y control a través del inventario y registro correspondiente
 2\. Los restantes bienes y derechos del patrimonio de los Consorcios de las Zonas Francas, tanto propios como adscritos, se regirán por lo dispuesto en la presente Ley.
 
 3\. Corresponderá al Pleno acordar los actos de disposición relativos a los bienes o derechos a que se refiere el apartado 1 y en especial los de adquisición y enajenación, ya sea a título gratuito u oneroso, cesión o permuta y al Comité Ejecutivo acordar los que sean de mera administración.
-
-> Téngase en cuenta que esta disposición entra en vigor el 23 de julio de 2014, según establece la disposición final 1.2 de la Ley 8/2014, de 22 de abril. [Ref. BOE-A-2014-4328](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-4328).
 
 > Se añade por la disposición final 1.2 de la Ley 8/2014, de 22 de abril. [Ref. BOE-A-2014-4328](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-4328).
 

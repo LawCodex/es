@@ -2597,12 +2597,6 @@ c) Los que se relacionan a continuación: Patatas (Código NC 0701), aceitunas (
 
 d) Los bienes que se destinen a tiendas libres de impuestos que, bajo control aduanero, existen en los puertos y aeropuertos.
 
-> Téngase en cuenta que la actualización de este artículo establecida por el art. 1.10 de la Ley 28/2014, de 27 de noviembre. [Ref. BOE-A-2014-12329](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12329). y por el art. 69 de la Ley 48/2015, de 29 de octubre. [Ref. BOE-A-2015-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11644). es aplicable a partir del 1 de enero de 2016.
-
-> Redacción anterior:
-
-> "Estarán exentas del impuesto, en las condiciones y con los requisitos que se determinen reglamentariamente, las importaciones de bienes que se vinculen al régimen de depósito distinto del aduanero, mientras permanezcan en dicha situación, así como las prestaciones de servicios relacionadas directamente con las mencionadas importaciones."
-
 > Se añade la letra d), con efectos de 1 de enero de 2016, por el art. 69 de la Ley 48/2015, de 29 de octubre. [Ref. BOE-A-2015-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11644).
 
 > Se modifica por el art. 1.10 de la Ley 28/2014, de 27 de noviembre. [Ref. BOE-A-2014-12329](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12329).
@@ -3746,8 +3740,6 @@ En los supuestos en que la operación gravada quede sin efecto como consecuencia
 ##### Artículo 90. Tipo impositivo general.
 
 Uno. El Impuesto se exigirá al tipo del 21 por ciento, salvo lo dispuesto en el artículo siguiente.
-
-> **Atención:**esta última actualización del apartado 1 surte efectos desde el 1 de septiembre de 2012.
 
 Dos. El tipo impositivo aplicable a cada operación será el vigente en el momento del devengo.
 
@@ -4945,26 +4937,6 @@ A efectos de lo previsto en este número, el volumen de ingresos incluirá la to
 
 Cuando en el año inmediato anterior se hubiese iniciado una actividad, el importe de las citadas adquisiciones e importaciones se elevará al año.
 
-> Téngase en cuenta que esta modificación de los apartados 2º y 3º establecida por el art. 1.29 de la Ley 28/2014, de 27 de noviembre. [Ref. BOE-A-2014-12329](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12329). es aplicable a partir del 1 de enero de 2016, según se dispone en su disposición final 5.a).
-
-> Redacción anterior:
-
-> 2.º Aquellos empresarios o profesionales en los que concurra cualquiera de las siguientes circunstancias, en los términos que reglamentariamente se establezcan:
-
-> Que el volumen de ingresos en el año inmediato anterior, supere cualquiera de los siguientes importes:
-
-> Para el conjunto de sus actividades empresariales o profesionales, 450.000 euros anuales.
-
-> Para el conjunto de las actividades agrícolas, forestales y ganaderas que se determinen por el Ministro de Hacienda, 300.000 euros anuales.
-
-> Cuando en el año inmediato anterior se hubiese iniciado una actividad, el volumen de ingresos se elevará al año.
-
-> A efectos de lo previsto en este número, el volumen de ingresos incluirá la totalidad de los obtenidos en el conjunto de las actividades mencionadas, no computándose entre ellos las subvenciones corrientes o de capital ni las indemnizaciones, así como tampoco el Impuesto sobre el Valor Añadido que grave la operación.
-
-> 3.º Aquellos empresarios o profesionales cuyas adquisiciones e importaciones de bienes y servicios para el conjunto de sus actividades empresariales o profesionales, excluidas las relativas a elementos del inmovilizado, hayan superado en el año inmediato anterior el importe de 300.000 euros anuales, excluido el Impuesto sobre el Valor Añadido.
-
-> Cuando en el año inmediato anterior se hubiese iniciado una actividad, el importe de las citadas adquisiciones e importaciones se elevará al año.
-
 4.º Los empresarios o profesionales que renuncien o hubiesen quedado excluidos de la aplicación del régimen de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas por cualquiera de sus actividades.
 
 Tres. La renuncia al régimen simplificado tendrá efecto para un período mínimo de tres años, en las condiciones que reglamentariamente se establezcan.
@@ -5052,14 +5024,6 @@ Dos. Quedarán excluidos del régimen especial de la agricultura, ganadería y p
 6.º Aquellos empresarios o profesionales cuyas adquisiciones e importaciones de bienes y servicios para el conjunto de sus actividades empresariales o profesionales, excluidas las relativas a elementos del inmovilizado, hayan superado en el año inmediato anterior el importe de 150.000 euros anuales, excluido el Impuesto sobre el Valor Añadido.
 
 Cuando en el año inmediato anterior se hubiese iniciado una actividad, el importe de las citadas adquisiciones e importaciones se elevará al año.
-
-> Téngase en cuenta que esta actualización del apartado 2.6º establecida por el art. 1.30 de la Ley 28/2014, de 27 de noviembre. [Ref. BOE-A-2014-12329](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12329). es aplicable desde el 1 de enero de 2016.
-
-> Redacción anterior:
-
-> 6.º Aquellos empresarios o profesionales cuyas adquisiciones e importaciones de bienes y servicios para el conjunto de sus actividades empresariales o profesionales, excluidas las relativas a elementos del inmovilizado, hayan superado en el año inmediato anterior el importe de 300.000 euros anuales, excluido el Impuesto sobre el Valor Añadido.
-
-> Cuando en el año inmediato anterior se hubiese iniciado una actividad, el importe de las citadas adquisiciones e importaciones se elevará al año.
 
 Tres. Los empresarios o profesionales que, habiendo quedado excluidos de este régimen especial por haber superado los límites de volumen de operaciones o de adquisiciones o importaciones de bienes o servicios previstos en los números 3.º y 6.º del apartado dos anterior, no superen dichos límites en años sucesivos, quedarán sometidos al régimen especial de la agricultura, ganadería y pesca, salvo que renuncien al mismo.
 
@@ -5172,8 +5136,6 @@ Para la determinación de los referidos precios, no se computarán los tributos 
 En las operaciones realizadas sin contraprestación dineraria, los referidos porcentajes se aplicarán sobre el valor de mercado de los productos entregados o de los servicios prestados.
 
 El porcentaje aplicable en cada operación será el vigente en el momento en que nazca el derecho a percibir la compensación.
-
-> Téngase en cuenta que esta última actualización del apartado 5 surte efectos desde el 1 de septiembre de 2012.
 
 > Se modifica el apartado 5, con efectos desde el 1 de septiembre de 2012, por el art. 23.4 del Real Decreto-ley 20/2012, de 13 de julio. [Ref. BOE-A-2012-9364](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9364).
 
@@ -5681,8 +5643,6 @@ Los tipos del recargo de equivalencia serán los siguientes:
 
 4.º Para las entregas de bienes objeto del Impuesto Especial sobre las Labores del Tabaco, el 1,75 por ciento.
 
-> Téngase en cuenta que esta última actualización del artículo surte efectos desde el 1 de septiembre de 2012.
-
 > Se modifica, con efectos desde el 1 de septiembre de 2012, por el art. 23.5 del Real Decreto-ley 20/2012, de 13 de julio. [Ref. BOE-A-2012-9364](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9364).
 
 > Se modifica por el art. 10.15 de la Ley 13/1996, de 30 de diciembre. [Ref. BOE-A-1996-29117](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-29117)
@@ -5868,8 +5828,6 @@ Se entenderá que concurre la circunstancia de especial complejidad prevista en 
 > Se añade por el art. 3.5 de la Ley 36/2006, de 29 de noviembre. [Ref. BOE-A-2006-20843](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-20843).
 
 ### CAPÍTULO X — Régimen especial del criterio de caja
-
-> Téngase en cuenta que este capítulo se añade con efectos de 1 de enero de 2014.
 
 > Se añade por el art. 23.2 de la Ley 14/2013, de 27 de septiembre. [Ref. BOE-A-2013-10074](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10074).
 
@@ -7178,8 +7136,6 @@ b) Que el impuesto devengado por la importación sea inferior a 25.000 pesetas.
 ##### Disposición transitoria undécima. Régimen especial de los bienes usados, objetos de arte, antigüedades y objetos de colección.
 
 Los sujetos pasivos revendedores de bienes usados o de bienes muebles, a que se refiere el artículo 136.Uno.5.º de esta Ley, podrán aplicar el régimen especial de los bienes usados, objetos de arte, antigüedades y objetos de colección a las entregas de objetos de arte, adquiridos a empresarios o profesionales, distintos de los revendedores a que se refiere el artículo 136 de la Ley, cuando a dicha adquisición hubiera sido de aplicación un tipo reducido del Impuesto.
-
-> **Atención:**esta disposición surte efectos desde el 1 de septiembre de 2012.
 
 > Se añade, con efectos desde el 1 de septiembre de 2012, por el art. 23.7 del Real Decreto-ley 20/2012, de 13 de julio. [Ref. BOE-A-2012-9364](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9364).
 

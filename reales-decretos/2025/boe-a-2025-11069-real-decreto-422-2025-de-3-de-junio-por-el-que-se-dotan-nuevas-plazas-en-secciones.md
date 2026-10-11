@@ -1,0 +1,2259 @@
+---
+title: "Real Decreto 422/2025, de 3 de junio, por el que se dotan nuevas plazas en Secciones de Violencia sobre la Mujer, se crean Secciones de Violencia contra la Infancia y la Adolescencia, y se amplía y modifica la plantilla orgánica del Ministerio Fiscal"
+identifier: "BOE-A-2025-11069"
+eli: "https://www.boe.es/eli/es/rd/2025/06/03/422"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes"
+date: 2025-06-03
+published: 2025-06-04
+in_force_from: 2025-06-05
+last_amended: 2026-07-09
+consolidated: 2026-07-09
+gazette: "Boletín Oficial del Estado núm. 134"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2025-11069"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 422/2025, de 3 de junio, por el que se dotan nuevas plazas en Secciones de Violencia sobre la Mujer, se crean Secciones de Violencia contra la Infancia y la Adolescencia, y se amplía y modifica la plantilla orgánica del Ministerio Fiscal
+
+La Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia del Servicio Público de Justicia, introduce un nuevo modelo organizativo en el sistema judicial mediante la creación de los Tribunales de Instancia, que integran a los juzgados unipersonales en un único órgano por partido judicial. De conformidad con su artículo 1, apartado veintiuno, que modifica el artículo 84 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, cada Tribunal de Instancia estará integrado por una Sección Única, de Civil y de Instrucción. En los supuestos previstos por la Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial, cada Tribunal de Instancia estará integrado por una Sección Civil y otra Sección de Instrucción. Además, los Tribunales de Instancia podrán estar integrados por alguna o varias de las siguientes Secciones: de Familia, Infancia y Capacidad; de lo Mercantil; de Violencia sobre la Mujer; de Violencia contra la Infancia y la Adolescencia; de lo Penal; de Menores; de Vigilancia Penitenciaria; de lo Contencioso-Administrativo; y de lo Social.
+
+En relación con los órganos competentes en materia de violencia sobre la mujer, la disposición transitoria cuarta de la Ley Orgánica 1/2025, de 2 de enero, establece que «a los nueve meses de la entrada en vigor de esta ley, los Juzgados de Violencia sobre la Mujer asumirán las competencias en materia de violencia sexual respecto de los procedimientos incoados a partir de esa fecha. Durante esos nueve meses, el Gobierno, oído el Consejo General del Poder Judicial y, en su caso, la comunidad autónoma afectada, procederá, mediante real decreto, a la transformación que sea necesaria de los juzgados, secciones y tribunales con competencia en materia penal en juzgados, secciones y tribunales con competencia en materia de violencia sobre la mujer, para dar cumplimiento adecuado a la atribución de competencias en materia de violencia sexual a los juzgados de violencia sobre la mujer, prevista en el artículo 89 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, previa detección de las necesidades de personal, materiales y organizativas específicas de esta atribución y previa valoración de su impacto sobre la carga de trabajo de los diferentes órganos, secciones o tribunales con competencia en esta materia».
+
+Esta atribución competencial trae causa de la disposición final vigésima de la Ley Orgánica 10/2022, de 6 de septiembre, de garantía integral de la libertad sexual y se concreta en el artículo 1, apartado veintiocho de la Ley Orgánica 1/2025, de 2 de enero, que modifica el artículo 89 de la Ley Orgánica 6/1985, de 1 de julio, cuyo apartado 5.h) dispone que «las Secciones de Violencia sobre la Mujer conocerán, en el orden penal, de conformidad en todo caso con los procedimientos y recursos previstos en la Ley de Enjuiciamiento Criminal, […] de la instrucción de los procesos para exigir responsabilidad penal por los delitos contra la libertad sexual previstos en el título VIII del libro II del Código Penal, por los delitos de mutilación genital femenina, matrimonio forzado, acoso con connotación sexual y la trata con fines de explotación sexual cuando la persona ofendida por el delito sea mujer».
+
+Con la finalidad de acomodar la planta judicial a esa nueva atribución de competencias y de acuerdo con lo previsto en el artículo 20.1 de la Ley 38/1988, de 28 de diciembre, que faculta al Gobierno para modificar el número y composición de los órganos judiciales establecidos por esa ley, este real decreto dota a la planta judicial española de cincuenta nuevas plazas en Secciones de Violencia sobre la Mujer. En ocho casos, ese aumento de plazas judiciales se lleva a cabo mediante la transformación de plazas de la Sección de Instrucción del partido judicial en plazas de la Sección de Violencia sobre la Mujer; y en cuarenta y dos casos mediante su creación. La determinación de las plazas a transformar y crear se basa en un análisis previo de las cargas de trabajo de todas las Secciones de Violencia sobre la Mujer de España con la atribución de la nueva competencia en materia de violencia sexual. En aquellos partidos judiciales en los que mediante la transformación de una plaza de la Sección de Instrucción resulta una distribución equilibrada de la carga de trabajo entre esta y la Sección de Violencia sobre la Mujer, se ha optado por esta vía. En aquellos casos en que esta alternativa resulta insuficiente, se ha optado por la creación de una nueva plaza.
+
+La entrada en funcionamiento de todas estas nuevas plazas tendrá lugar el 31 de diciembre de 2025, a excepción de las nuevas plazas de las Secciones de Violencia sobre la Mujer de los Tribunales de Instancia de Ayamonte, Llíria, Vila-real, Arganda del Rey, Arona, Marbella, L'Hospitalet de Llobregat y Manacor, que iniciarán su actividad el 3 de octubre de 2025. No obstante, si llegada la fecha prevista para la efectividad de las creaciones y transformaciones de plazas no estuviera constituida la Oficina Judicial en alguno de esos Tribunales de Instancia, la efectividad de la creación o transformación de plazas del Tribunal de Instancia en que concurra esa circunstancia se diferirá hasta la fecha de efectiva constitución de su Oficina Judicial.
+
+Asimismo, el artículo 89.3 de la Ley Orgánica 6/1985, de 1 de julio, contempla la posibilidad de extender la jurisdicción de las Secciones de Violencia sobre la Mujer a dos o más partidos judiciales y faculta al Gobierno a realizarlo mediante real decreto, previa propuesta del Consejo General del Poder Judicial y con informe de las comunidades autónomas con competencias asumidas en materia de justicia.
+
+El objetivo de esta medida es alcanzar el correcto equilibrio entre el mantenimiento de una proximidad razonable del órgano judicial respecto de la víctima y la respuesta especializada que exige el tratamiento de este tipo de procedimiento, así como atender el mandato legal de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+
+Así pues, con la finalidad de mejorar la atención a las víctimas, se extiende la jurisdicción de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Badajoz a los partidos judiciales de Montijo y Olivenza; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Mérida a los partidos judiciales de Don Benito, Villanueva de la Serena, Herrera del Duque, Almendralejo, Villafranca de los Barros, Castuera, Jerez de los Caballeros, Zafra, Fregenal de la Sierra y Llerena; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Valladolid a los partidos judiciales de Medina del Campo y Medina de Rioseco; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Guadalajara a los partidos judiciales de Sigüenza y Molina de Aragón; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Córdoba a los partidos judiciales de Pozoblanco, Lucena y Cabra; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Lleida a los partidos judiciales de Balaguer y Cervera; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Santiago de Compostela a los partidos judiciales de Noia, Arzúa, Ribeira, Negreira, Muros, Padrón y Ordes; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Ourense a los partidos judiciales de Verín, O Carballiño, Xinzo de Limia, Ribadavia, Celanova y Bande; de la Sección de Violencia sobre la Mujer del Tribunal de instancia de Gijón a los partidos judiciales de Siero, Villaviciosa, Cangas de Onís, Llanes y Piloña; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de León a los partidos judiciales de La Bañeza, Astorga, Sahagún y Cistierna; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Ciudad Real a los partidos judiciales de Almagro, Valdepeñas y Puertollano; y de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Vilanova i la Geltrú al partido judicial de Vilafranca del Penedés.
+
+De este modo, se constituyen un total de doce nuevas agrupaciones de partidos judiciales para el conocimiento de los asuntos de violencia sobre la mujer. Todos estos partidos judiciales en los que se constituye una agrupación están comprendidos en la relación de Tribunales de Instancia en los que se crea una nueva plaza en la Sección de Violencia sobre la Mujer, a fin de mejorar la prestación del servicio público de justicia.
+
+La fecha de efectos de la constitución de estas agrupaciones de partidos judiciales es el 31 de diciembre de 2025. No obstante, si llegada esa fecha no estuviera constituida la Oficina Judicial en alguno de esos Tribunales de Instancia, el comienzo del funcionamiento de la agrupación en aquellos partidos judiciales en que concurra esa circunstancia se diferirá hasta la fecha de efectiva constitución de su Oficina Judicial.
+
+Por su parte, la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal, en su artículo dieciocho, apartado cinco, establece que el número de Fiscalías, las Secciones Territoriales, en su caso, y sus respectivas plantillas se fijarán por real decreto, a propuesta del Ministro de Presidencia, Justicia y Relaciones con las Cortes, previo informe del Fiscal General del Estado, oído el Consejo Fiscal.
+
+De conformidad con lo previsto en el Plan Nacional de Sensibilización y Prevención de la Violencia de Género, aprobado por el Consejo de Ministros el 15 de diciembre de 2006, la creación de juzgados exclusivos de violencia sobre la mujer, o plazas en Secciones de Violencia sobre la Mujer de los Tribunales de Instancia de acuerdo con la nueva regulación, precisará la dotación de un o una fiscal especializado en cada uno de ellos. En consecuencia, se incrementa la plantilla orgánica del Ministerio Fiscal mediante la creación de cuarenta y dos nuevas plazas, todas ellas de segunda categoría.
+
+Por otro lado, el artículo 89 bis y las reformas operadas en los artículos 82, 82 bis, 90, 329 y 330, todos ellos de la Ley Orgánica 6/1985, de 1 de julio, y concordantes de la Ley 38/1988, de 28 de diciembre, dan cumplimiento a la disposición final vigésima de la Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia, en relación con la especialización de los órganos judiciales para el conocimiento de los asuntos de violencia de esta clase. El artículo 89 bis regula las competencias atribuidas a estas secciones de los Tribunales de Instancia y de las Audiencias Provinciales.
+
+Con la finalidad de proceder a su desarrollo, este real decreto tiene por objeto la creación de Secciones de Violencia contra la Infancia y la Adolescencia en aquellos Tribunales de Instancia en los que, examinada su carga de trabajo sobre la materia, se considera necesaria para la mejor prestación del servicio público de justicia. Concretamente, se crean tres Secciones de esta clase, que radicarán en Madrid, Barcelona y Málaga.
+
+La fecha de efectos del inicio de actividad de esas nuevas Secciones de Violencia contra la Infancia y la Adolescencia, así como la de los magistrados o magistradas titulares de las plazas que las integran, será el 31 de diciembre de 2025. No obstante, si llegada la fecha prevista para la efectividad de la creación de estas secciones no estuviera constituida la Oficina Judicial en alguno de esos Tribunales de Instancia, la efectividad de la creación de esas secciones con sus correspondientes plazas judiciales se diferirá hasta la fecha de efectiva constitución de la Oficina Judicial en el Tribunal de Instancia de que se trate.
+
+Por medio de Acuerdo del Consejo de Ministros de 21 de enero de 2025, se autorizó, al amparo de lo previsto en el artículo 27.1.b) de la Ley 50/1997, de 27 de noviembre, del Gobierno, la tramitación administrativa urgente del procedimiento de elaboración y aprobación de este real decreto, teniendo en cuenta la necesidad de acomodar la planta judicial a la nueva atribución de competencias en materia de violencia sexual a las Secciones de Violencia sobre la Mujer y la realidad de la violencia contra la infancia y la adolescencia, persiguiendo así que su tramitación pudiera completarse en el tiempo previsto por la Ley Orgánica 1/2025, de 2 de enero, y garantizar así la máxima protección de los derechos de las mujeres y de los niños, niñas y adolescentes.
+
+En cuanto a su contenido y tramitación, este real decreto observa los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia exigidos como principios de buena regulación por el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Así, por lo que se refiere a su necesidad, este real decreto resulta el instrumento más indicado para los intereses que se persiguen, a saber, el cumplimiento de la disposición transitoria cuarta de la Ley Orgánica 1/2025, de 2 de enero, que trae causa de la disposición final vigésima de la Ley Orgánica 10/2022, de 6 de septiembre; la creación de las correspondientes plazas de fiscal especializado de conformidad con el Plan Nacional de Sensibilización y Prevención de la Violencia de Género, aprobado por el Consejo de Ministros el 15 de diciembre de 2006; y la creación de Secciones de Violencia contra la Infancia y la Adolescencia en aquellos Tribunales de Instancia en los que, examinada su carga de trabajo sobre la materia, se considera necesario.
+
+Por lo que respecta al principio de proporcionalidad, contiene la regulación imprescindible para atender las necesidades que se pretenden cubrir, mediante la adecuación de la planta judicial y la plantilla del Ministerio Fiscal.
+
+Por lo demás, la norma es coherente con el principio de eficacia, puesto que logra el objetivo de contribuir al interés general a través de un instrumento jurídico apropiado, conforme a la disposición transitoria cuarta de la Ley Orgánica 1/2025, de 2 de enero, y el artículo 89 bis de la Ley Orgánica 6/1985, de 1 de julio.
+
+En cuanto al principio de seguridad jurídica, este real decreto es coherente con lo establecido en la Ley Orgánica 1/2025, de 2 de enero, en la Ley 38/1988, de 28 de diciembre y en la Ley 50/1981, de 30 de diciembre.
+
+En aplicación del principio de transparencia, la presente norma define claramente sus objetivos y su justificación y se posibilitará el acceso sencillo, universal y actualizado a los documentos propios de su proceso de elaboración.
+
+Finalmente, por lo que se refiere al principio de eficiencia, la iniciativa normativa no impone cargas administrativas y asegura la optimización de los recursos destinados a la adaptación de la planta judicial e incremento de la plantilla del Ministerio Fiscal.
+
+En su tramitación se ha prescindido de los trámites de consulta pública y de audiencia e información pública, por su declaración de tramitación de urgencia y por tratarse de una norma organizativa, que regula aspectos parciales, y que no impone obligaciones relevantes a las personas destinatarias.
+
+Se han recabado los informes preceptivos del Consejo General del Poder Judicial, del Consejo Fiscal y de las comunidades autónomas afectadas, así como el informe del Ministerio de Hacienda.
+
+En su virtud, a propuesta del Ministro de la Presidencia, Justicia y Relaciones con las Cortes, y previa deliberación del Consejo de Ministros en su reunión del día 3 de junio de 2025,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+Este real decreto tiene como objeto:
+
+a) Dar cumplimiento a la disposición transitoria cuarta de la Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia del Servicio Público de Justicia.
+
+b) Crear y constituir un total de trece nuevas Secciones de Violencia sobre la Mujer, con una plaza cada una.
+
+c) Crear y constituir un total de veintinueve nuevas plazas en Secciones de Violencia sobre la Mujer de los Tribunales de Instancia.
+
+d) Transformar un total de ocho plazas de Secciones de Instrucción en funcionamiento en ocho plazas de Secciones de Violencia sobre la Mujer de los Tribunales de Instancia.
+
+e) Crear y constituir tres Secciones de Violencia contra la Infancia y la Adolescencia en los Tribunales de Instancia, con una plaza en cada una de ellas.
+
+f) Determinar la extensión de la jurisdicción de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Badajoz a los partidos judiciales de Montijo y Olivenza; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Mérida a los partidos judiciales de Don Benito, Villanueva de la Serena, Herrera del Duque, Almendralejo, Villafranca de los Barros, Castuera, Jerez de los Caballeros, Zafra, Fregenal de la Sierra y Llerena; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Valladolid a los partidos judiciales de Medina del Campo y Medina de Rioseco; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Guadalajara a los partidos judiciales de Sigüenza y Molina de Aragón; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Córdoba a los partidos judiciales de Pozoblanco, Lucena y Cabra; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Lleida a los partidos judiciales de Balaguer y Cervera; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Santiago de Compostela a los partidos judiciales de Noia, Arzúa, Ribeira, Negreira, Muros, Padrón y Ordes; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Ourense a los partidos judiciales de Verín, O Carballiño, Xinzo de Limia, Ribadavia, Celanova y Bande; de la Sección de Violencia Sobre la Mujer del Tribunal de instancia de Gijón a los partidos judiciales de Siero, Villaviciosa, Cangas de Onís, Llanes y Piloña; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de León a los partidos judiciales de La Bañeza, Astorga, Sahagún y Cistierna; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Ciudad Real a los partidos judiciales de Almagro, Valdepeñas y Puertollano; y de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Vilanova i la Geltrú al partido judicial de Vilafranca del Penedés.
+
+g) Adecuar la planta judicial a las necesidades judiciales existentes.
+
+h) Modificar la planta judicial prevista en el anexo VI, Tribunales de Instancia, de la Ley Orgánica 1/2025, de 2 de enero.
+
+i) Modificar la planta judicial prevista en los anexos VI y XIII de la Ley 38/1988, de 28 de diciembre, de Demarcación y Planta Judicial, en tanto continúen en vigor.
+
+j) Crear cuarenta y dos plazas de fiscales en la plantilla orgánica del Ministerio Fiscal.
+
+## Artículo 2. Modificación de la planta judicial.
+
+Se modifica la planta judicial de conformidad con lo dispuesto en el artículo 20.3 de la Ley 38/1988, de 28 de diciembre, para lo cual el anexo VI, Tribunales de Instancia, de la Ley Orgánica 1/2025, de 2 de enero; y los anexos VI y XIII de la Ley 38/1988, de 28 de diciembre, en tanto continúen en vigor, quedan modificados en los aspectos referidos en el anexo I del presente real decreto, permaneciendo inalterados en los restantes términos.
+
+## Artículo 3. Creación y constitución de Secciones de Violencia sobre la Mujer y de plazas en Secciones de Violencia sobre la Mujer.
+
+1\. Conforme a lo dispuesto en la Ley 38/1988, de 28 de diciembre, se crean y constituyen un total trece Secciones de Violencia sobre la Mujer en los siguientes Tribunales de Instancia, dotadas cada una de ellas con una plaza de magistrado o magistrada:
+
+a) En la Comunidad Autónoma de Andalucía:
+
+Plaza número 1 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Motril.
+
+Plaza número 1 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Ayamonte.
+
+b) En la Comunidad Autónoma de las Illes Balears:
+
+Plaza número 1 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Manacor.
+
+c) En la Comunidad Autónoma de Canarias:
+
+Plaza número 1 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Puerto del Rosario.
+
+Plaza número 1 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Arrecife.
+
+d) En la Comunidad Autónoma de Castilla-La Mancha:
+
+Plaza número 1 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Guadalajara.
+
+Plaza número 1 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Ciudad Real.
+
+e) En la Comunidad de Castilla y León:
+
+Plaza número 1 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de León.
+
+f) En la Comunidad Autónoma de Cataluña:
+
+Plaza número 1 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Vilanova i la Geltrú.
+
+g) En la Comunidad Autónoma de Extremadura:
+
+Plaza número 1 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Mérida.
+
+h) En la Comunidad Autónoma de Galicia:
+
+Plaza número 1 Sección de Violencia sobre la Mujer del Tribunal de Instancia de Santiago de Compostela.
+
+Plaza número 1 de Sección de Violencia sobre la Mujer del Tribunal de Instancia de Ourense.
+
+i) En la Comunidad Valenciana:
+
+Plaza número 1 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Llíria.
+
+2\. Conforme a lo dispuesto en la Ley 38/1988, de 28 de diciembre, se crean un total veintinueve nuevas plazas en las Secciones de Violencia sobre la Mujer de los siguientes Tribunales de Instancia:
+
+a) En la Comunidad Autónoma de Andalucía:
+
+Plaza número 3 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Granada.
+
+Plaza número 3 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Almería.
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Algeciras.
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Córdoba.
+
+Plaza número 5 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Málaga.
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Marbella.
+
+Plaza número 5 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Sevilla.
+
+b) En la Comunidad Autónoma de Aragón:
+
+Plaza número 4 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Zaragoza.
+
+c) En la Comunidad Autónoma del Principado de Asturias:
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Gijón.
+
+d) En la Comunidad Autónoma de las Illes Balears:
+
+Plaza número 4 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Palma.
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Eivissa.
+
+e) En la Comunidad Autónoma de Canarias:
+
+Plaza número 4 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Las Palmas de Gran Canaria.
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Arona.
+
+f) En la Comunidad Autónoma de Castilla-La Mancha:
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Toledo.
+
+g) En la Comunidad de Castilla y León:
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Valladolid.
+
+h) En la Comunidad Autónoma de Cataluña:
+
+Plaza número 6 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Barcelona.
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de L'Hospitalet de Llobregat.
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Lleida.
+
+i) En la Comunidad Autónoma de Extremadura:
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Cáceres.
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Badajoz.
+
+j) En la Comunidad de Madrid:
+
+Plaza número 12 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Madrid.
+
+Plaza número 13 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Madrid.
+
+Plaza número 14 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Madrid.
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Arganda del Rey.
+
+k) En la Comunidad Autónoma de la Región de Murcia:
+
+Plaza número 3 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Murcia.
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Cartagena.
+
+l) En la Comunidad Valenciana:
+
+Plaza número 4 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Alicante.
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Vila-real.
+
+Plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Benidorm.
+
+## Artículo 4. Transformación de plazas de Sección de Instrucción en plazas de Sección de Violencia sobre la Mujer.
+
+Se procede a transformar ocho plazas de Secciones de Instrucción, en funcionamiento, en ocho plazas de Secciones de Violencia sobre la Mujer en los siguientes partidos judiciales:
+
+a) En la Comunidad Autónoma de Andalucía:
+
+La plaza número 5 de la Sección de Instrucción del Tribunal de Instancia de Jerez de la Frontera, en funcionamiento, se transforma en la plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Jerez de la Frontera.
+
+b) En la Comunidad Autónoma de Galicia:
+
+La plaza número 8 de la Sección de Instrucción del Tribunal de Instancia de A Coruña, en funcionamiento, se transforma en la plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de A Coruña.
+
+La plaza número 8 de la Sección de Instrucción del Tribunal de Instancia de Vigo, en funcionamiento, se transforma en la plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Vigo.
+
+c) En la Comunidad de Madrid:
+
+La plaza número 6 de la Sección de Instrucción del Tribunal de Instancia de Móstoles, en funcionamiento, se transforma en la plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Móstoles.
+
+La plaza número 6 de la Sección de Instrucción del Tribunal de Instancia de Alcalá de Henares, en funcionamiento, se transforma en la plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Alcalá de Henares.
+
+d) En la Comunidad Valenciana:
+
+La plaza número 6 de la Sección de Instrucción del Tribunal de Instancia de Castelló de la Plana, en funcionamiento, se transforma en la plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Castelló de la Plana.
+
+e) Comunidad Autónoma de Cantabria:
+
+La plaza número 5 de la Sección de Instrucción del Tribunal de Instancia de Santander, en funcionamiento, se transforma en la plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Santander.
+
+f) En la Comunidad Autónoma del País Vasco:
+
+La plaza número 4 de la Sección de Instrucción del Tribunal de Instancia de Barakaldo, en funcionamiento, se transforma en la plaza número 2 de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Barakaldo.
+
+## Artículo 5. Creación y constitución de Secciones de Violencia contra la Infancia y la Adolescencia.
+
+Conforme a lo dispuesto en la Ley 38/1988, de 28 de diciembre, se crean y constituyen un total de tres Secciones de Violencia contra la Infancia y la Adolescencia, dotadas cada una de ellas con una plaza de magistrado o magistrada:
+
+a) En la Comunidad de Madrid:
+
+Plaza número 1 de la Sección de Violencia contra la Infancia y la Adolescencia del Tribunal de Instancia de Madrid.
+
+b) En la Comunidad Autónoma de Cataluña:
+
+Plaza número 1 de la Sección de Violencia contra la Infancia y la Adolescencia del Tribunal de Instancia de Barcelona.
+
+c) En la Comunidad Autónoma de Andalucía:
+
+Plaza número 1 de la Sección de Violencia contra la Infancia y la Adolescencia del Tribunal de Instancia de Málaga.
+
+## Artículo 6. Determinación de agrupación de partidos judiciales para el conocimiento de los asuntos atribuidos a las Secciones de Violencia sobre la Mujer.
+
+De acuerdo con lo establecido en el artículo 89.3, de la Ley Orgánica 6/1985, de 1 de julio, se determina la extensión de la jurisdicción de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Badajoz a los partidos judiciales de Montijo y Olivenza; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Mérida a los partidos judiciales de Don Benito, Villanueva de la Serena, Herrera del Duque, Almendralejo, Villafranca de los Barros, Castuera, Jerez de los Caballeros, Zafra, Fregenal de la Sierra y Llerena; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Valladolid a los partidos judiciales de Medina del Campo y Medina de Rioseco; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Guadalajara a los partidos judiciales de Sigüenza y Molina de Aragón; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Córdoba a los partidos judiciales de Pozoblanco, Lucena y Cabra; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Lleida a los partidos judiciales de Balaguer y Cervera; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Santiago de Compostela a los partidos judiciales de Noia, Arzúa, Ribeira, Negreira, Muros, Padrón y Ordes; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Ourense a los partidos judiciales de Verín, O Carballiño, Xinzo de Limia, Ribadavia, Celanova y Bande; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Gijón a los partidos judiciales de Siero, Villaviciosa, Cangas de Onís, Llanes y Piloña; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de León a los partidos judiciales de La Bañeza, Astorga, Sahagún y Cistierna; de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Ciudad Real a los partidos judiciales de Almagro, Valdepeñas y Puertollano; y de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Vilanova i la Geltrú al partido judicial de Vilafranca del Penedés.
+
+Como consecuencia de ello, las Secciones de Violencia sobre la Mujer de los Tribunales de Instancia citados en el párrafo primero de este artículo, asumirán la competencia y conocimiento de los asuntos de violencia de género y violencia sexual cuando la víctima sea mujer de los partidos judiciales en él mencionados.
+
+> Véase el art. 12, segundo párrafo, del Real Decreto 559/2026, de 8 de julio, sobre la modificación de la extensión de la jurisdicción de la Sección de Violencia sobre la Mujer del Tribunal de Instancia de Córdoba. [Ref. BOE-A-2026-14878](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14878)
+
+## Artículo 7. Ampliación de la plantilla orgánica del Ministerio Fiscal.
+
+Se crean cuarenta y dos plazas en la plantilla orgánica del Ministerio Fiscal, que se distribuyen de la siguiente forma:
+
+a) En la Comunidad Autónoma de Andalucía:
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Granada.
+
+Una plaza de segunda categoría en la Sección Territorial de Motril.
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Almería.
+
+Una plaza de segunda categoría en la Fiscalía de Área de Algeciras.
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Córdoba.
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Huelva.
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Málaga.
+
+Una plaza de segunda categoría en la Fiscalía de Área de Marbella.
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Sevilla.
+
+b) En la Comunidad Autónoma de Aragón:
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Zaragoza.
+
+c) En la Comunidad Autónoma del Principado de Asturias:
+
+Una plaza de segunda categoría en la Fiscalía de Área de Gijón.
+
+d) En la Comunidad Autónoma de las Illes Balears:
+
+Una plaza de segunda categoría en la Fiscalía de la Comunidad Autónoma de Illes Balears.
+
+Una plaza de segunda categoría en la Sección Territorial de Manacor.
+
+Una plaza de segunda categoría en la Fiscalía de Área de Eivissa.
+
+e) En la Comunidad Autónoma de Canarias:
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Las Palmas.
+
+Dos plazas de segunda categoría en la Fiscalía de Área de Arrecife-Puerto del Rosario.
+
+Una plaza de segunda categoría en la Sección Territorial de Arona.
+
+f) En la Comunidad Autónoma de Castilla-La Mancha:
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Ciudad Real.
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Guadalajara.
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Toledo.
+
+g) En la Comunidad de Castilla y León:
+
+Una plaza de segunda categoría en la Fiscalía Provincial de León.
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Valladolid.
+
+h) En la Comunidad Autónoma de Cataluña:
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Barcelona.
+
+Una plaza de segunda categoría en la Sección Territorial de L’Hospitalet de Llobregat.
+
+Una plaza de segunda categoría en la Fiscalía de Área de Vilanova i la Geltrú-Gavá-Vilafranca del Penedés.
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Lleida.
+
+i) En la Comunidad Autónoma de Extremadura:
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Cáceres.
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Badajoz.
+
+Una plaza de segunda categoría en la Fiscalía de Área de Mérida.
+
+j) En la Comunidad Autónoma de Galicia:
+
+Una plaza de segunda categoría en la Fiscalía de Área de Santiago de Compostela.
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Ourense.
+
+k) En la Comunidad de Madrid:
+
+Tres plazas de segunda categoría en la Fiscalía Provincial de Madrid.
+
+Una plaza de segunda categoría en la Fiscalía de Área de Alcalá de Henares.
+
+l) En la Comunidad Autónoma de la Región de Murcia:
+
+Una plaza de segunda categoría en la Fiscalía de la Comunidad Autónoma de la Región de Murcia.
+
+Una plaza de segunda categoría en la Fiscalía de Área de Cartagena.
+
+m) En la Comunidad Valenciana:
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Valencia.
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Alicante.
+
+Una plaza de segunda categoría en la Fiscalía de Área de Benidorm-Denia.
+
+Una plaza de segunda categoría en la Fiscalía Provincial de Castellón.
+
+## Artículo 8. Plantilla de la Carrera Fiscal.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 560/2026, de 8 de julio. [Ref. BOE-A-2026-14879](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14879)
+
+## Disposición adicional única. Estudio, análisis y evaluación de nuevas cargas.
+
+Transcurrido un año a contar desde el 31 de diciembre de 2025, se analizarán los datos de las cargas de trabajo de las distintas plazas de Secciones de Violencia sobre la Mujer y Secciones de Violencia contra la Infancia y la Adolescencia constituidas y transformadas para valorar la necesidad de realizar nuevas adaptaciones de la planta judicial.
+
+## Disposición transitoria primera. Conocimiento de asuntos asignados en los juzgados transformados.
+
+De conformidad con el párrafo segundo del artículo 20.1 de la Ley 38/1988, de 28 de diciembre, el juez, la jueza, el magistrado o la magistrada que ocupe alguna de las plazas en funcionamiento que han sido objeto de transformación por este real decreto conservarán su competencia para la tramitación de los procedimientos pendientes hasta su conclusión.
+
+## Disposición transitoria segunda. Compatibilidad en materia de violencia de género y violencia sexual cuando la víctima sea mujer.
+
+En tanto no se produzca la efectividad de las agrupaciones de partidos judiciales de Secciones de Violencia sobre la Mujer previstas en el artículo 6 de este real decreto, la plaza número 1 de la Sección Civil y de Instrucción de los Tribunales de Instancia de Almendralejo, Castuera, Don Benito, Fregenal de la Sierra, Herrera del Duque, Jerez de los Caballeros, Llerena, Montijo, Olivenza, Villafranca de los Barros, Villanueva de la Serena, Zafra, Medina del Campo, Medina de Rioseco, Sigüenza, Molina de Aragón, Pozoblanco, Cabra, Balaguer, Cervera, Noia, Arzúa, Negreira, Muros, Padrón, Ordes, Verín, Xinzo de Limia, Ribadavia, Celanova, Bande, Villaviciosa, Cangas de Onís, Llanes, Piloña, La Bañeza, Astorga, Sahagún, Cistierna, Almagro y Valdepeñas; la plaza número 2 de la Sección Civil y de Instrucción de los Tribunales de Instancia de O Carballiño y Puertollano; y la plaza número 3 de la Sección Civil y de Instrucción de los Tribunales de Instancia de Siero, Ribeira, Lucena y Vilafranca del Penedés seguirán conociendo de los asuntos de violencia de género y violencia sexual cuando la víctima sea mujer que correspondan a sus respectivos partidos judiciales.
+
+## Disposición transitoria tercera. Conocimiento de asuntos asignados a los órganos judiciales que son objeto de agrupación.
+
+Las plazas de la Sección Civil y de Instrucción de los Tribunales de Instancia mencionados en la disposición transitoria segunda de este real decreto conservarán su competencia sobre los asuntos de violencia de género y violencia sexual cuando la víctima sea mujer hasta la conclusión de los procedimientos pendientes.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 1100/2024, de 29 de octubre, por el que se amplía y modifica la plantilla orgánica del Ministerio Fiscal para adecuarlas a las necesidades existentes.
+
+## Disposición final primera. Título competencial.
+
+El presente real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.5.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de Administración de Justicia.
+
+## Disposición final segunda. Habilitación para el desarrollo reglamentario.
+
+Se faculta a la persona titular del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes para adoptar en el ámbito de su competencia cuantas disposiciones sean necesarias para el desarrollo y la ejecución de este real decreto.
+
+## Disposición final tercera. Fecha de la efectividad de las creaciones y transformaciones de plazas y de las agrupaciones de partidos judiciales.
+
+1\. La fecha de efectos del inicio de actividad de las nuevas plazas de Secciones de Violencia sobre la Mujer a que se refiere el artículo 3 del presente real decreto será el 31 de diciembre de 2025, a excepción de las nuevas plazas de las Secciones de Violencia sobre la Mujer de los Tribunales de Instancia de Ayamonte, Llíria, Vila-real, Arganda del Rey, Arona, Marbella, L´Hospitalet de Llobregat y Manacor, que iniciarán su actividad el 3 de octubre de 2025.
+
+2\. La fecha de efectos de la transformación de las plazas de Secciones de Instrucción a que se refiere el artículo 4 del presente real decreto será el 31 de diciembre de 2025.
+
+3\. La fecha de efectos del inicio de actividad de las nuevas Secciones de Violencia contra la Infancia y la Adolescencia a que se refiere el artículo 5 del presente real decreto será el 31 de diciembre de 2025.
+
+4\. La fecha de efectos de la constitución de las agrupaciones de partidos judiciales a que se refiere el artículo 6 del presente real decreto será el 31 de diciembre de 2025.
+
+5\. No obstante, si llegadas las fechas indicadas en los apartados anteriores no estuviera constituida la Oficina Judicial en alguno de esos Tribunales de Instancia, la efectividad de la creación o transformación de plazas del Tribunal de Instancia en que concurra esa circunstancia, así como la efectividad de la agrupación de partidos judiciales que le corresponda, se diferirá hasta la fecha de efectiva constitución de la Oficina Judicial.
+
+## Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 3 de junio de 2025.
+
+FELIPE R.
+
+El Ministro de la Presidencia, Justicia y Relaciones con las Cortes,
+
+FÉLIX BOLAÑOS GARCÍA
+
+## ANEXO I
+
+**Modificación de la planta judicial prevista en el anexo VI, Tribunales de Instancia, de la Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia del Servicio Público de Justicia**
+
+## «ANEXO VI — Tribunales de instancia
+
+| Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
+|---|---|---|---|---|---|---|
+| ALMERÍA. |  |  |  |  |  |  |
+|  | 1 | TRIBUNAL DE INSTANCIA DE ALMERÍA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 3 | M |  | Partidos judiciales 1 y 5. |
+|  |  | Total. | 40 |  |  |  |
+|  |  | Total provincial. | 64 |  |  |  |
+| CÁDIZ. |  |  |  |  |  |  |
+|  | 3 | TRIBUNAL DE INSTANCIA DE ALGECIRAS. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partidos judiciales 3, 5 y 8. |
+|  |  | Total. | 23 |  |  |  |
+|  | 7 | TRIBUNAL DE INSTANCIA DE JEREZ DE LA FRONTERA. |  |  |  |  |
+|  |  | Sección de Instrucción. | 4 | M |  | Partido judicial. |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partido judicial. |
+|  |  | Total. | 22 |  |  |  |
+|  |  | Total provincial. | 112 |  |  |  |
+| CÓRDOBA. |  |  |  |  |  |  |
+|  | 8 | TRIBUNAL DE INSTANCIA DE CÓRDOBA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partidos judiciales 8, 3, 7 y 10. |
+|  |  | Total. | 40 |  |  |  |
+|  | 3 | TRIBUNAL DE INSTANCIA DE POZOBLANCO. |  |  |  |  |
+|  |  | Sección Civil y de Instrucción. | 2 | J |  | Partido judicial. |
+|  | 7 | TRIBUNAL DE INSTACIA DE LUCENA. |  |  |  |  |
+|  |  | Sección Civil y de Instrucción. | 3 | J |  | Partido judicial. |
+|  | 10 | TRIBUNAL DE INSTANCA DE CABRA. |  |  |  |  |
+|  |  | Sección Civil y de Instrucción. | 2 | J |  | Partido judicial. |
+|  |  | Total provincial. | 61 |  |  |  |
+| GRANADA. |  |  |  |  |  |  |
+|  | 3 | TRIBUNAL DE INSTANCIA DE GRANADA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 3 | M |  | Partidos judiciales 3 y 7. |
+|  |  | Total. | 56 |  |  |  |
+|  | 4 | TRIBUNAL DE INSTANCIA DE MOTRIL. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 1 | M |  | Partido judicial. |
+|  |  | Total. | 9 |  |  |  |
+|  |  | Total provincial. | 80 |  |  |  |
+| HUELVA. |  |  |  |  |  |  |
+|  | 5 | TRIBUNAL DE INSTANCIA DE AYAMONTE. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 1 | M |  | Partido judicial. |
+|  |  | Total. | 7 |  |  |  |
+|  |  | Total provincial. | 45 |  |  |  |
+| MÁLAGA. |  |  |  |  |  |  |
+|  | 3 | TRIBUNAL DE INSTANCIA DE MÁLAGA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 5 | M |  | Partidos judiciales 3 y 12. |
+|  |  | Sección de Violencia contra la Infancia y la Adolescencia. | 1 | M |  | Partido judicial. |
+|  |  | Total. | 87 |  |  |  |
+|  | 6 | TRIBUNAL DE INSTANCIA DE MARBELLA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partidos judiciales 6 y 7. |
+|  |  | Total. | 15 |  |  |  |
+|  |  | Total provincial. | 145 |  |  |  |
+| SEVILLA. |  |  |  |  |  |  |
+|  | 6 | TRIBUNAL DE INSTANCIA DE SEVILLA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 5 | M |  | Partido judicial. |
+|  |  | Total. | 110 |  |  |  |
+|  |  | Total provincial. | 153 |  |  |  |
+|  |  | Total Comunidad Autónoma. | 708 |  |  |  |
+
+| Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
+|---|---|---|---|---|---|---|
+| ZARAGOZA. |  |  |  |  |  |  |
+|  | 3 | TRIBUNAL DE INSTANCIA DE ZARAGOZA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 4 | M |  | Partido judicial. |
+|  |  | Total. | 68 |  |  |  |
+|  |  | Total provincial. | 77 |  |  |  |
+|  |  | Total Comunidad Autónoma. | 106 |  |  |  |
+
+| Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
+|---|---|---|---|---|---|---|
+| ASTURIAS. |  |  |  |  |  |  |
+|  | 8 | TRIBUNAL DE INSTANCIA DE GIJÓN. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partidos judiciales 8, 6, 17, 3, 11 y 18 |
+|  |  | Total. | 29 |  |  |  |
+|  | 6 | TRIBUNAL DE INSTANCIA DE SIERO |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 4 | J |  | Partido judicial. |
+|  | 17 | TRIBUNAL DE INSTANCIA DE VILLAVICIOSA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  | 3 | TRIBUNAL DE INSTANCIA DE CANGAS DE ONIS |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  | 11 | TRIBUNAL DE INSTANCIA DE LLANES |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  | 18 | TRIBUNAL DE INSTANCIA DE PILOÑA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial |
+|  |  | Total provincial. | 106 |  |  |  |
+|  |  | Total Comunidad Autónoma. | 106 |  |  |  |
+
+| Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
+|---|---|---|---|---|---|---|
+| ILLES BALEARS. |  |  |  |  |  |  |
+|  | 3 | TRIBUNAL DE INSTANCIA DE PALMA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 4 | M |  | Partido judicial. |
+|  |  | Total. | 66 |  |  |  |
+|  | 4 | TRIBUNAL DE INSTANCIA DE MANACOR. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 1 | M |  | Partido judicial |
+|  |  | Total. | 9 |  |  |  |
+|  | 5 | TRIBUNAL DE INSTANCIA DE EIVISSA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partido judicial. |
+|  |  | Total. | 15 |  |  |  |
+|  |  | Total provincial. | 107 |  |  |  |
+|  |  | Total Comunidad Autónoma. | 107 |  |  |  |
+
+| Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
+|---|---|---|---|---|---|---|
+| LAS PALMAS. |  |  |  |  |  |  |
+|  | 1 | TRIBUNAL DE INSTANCIA DE ARRECIFE. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 1 | M |  | Partido judicial |
+|  |  | Total. | 15 |  |  |  |
+|  | 2 | TRIBUNAL DE INSTANCIA DE LAS PALMAS DE GRAN CANARIA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 4 | M |  | Partidos judiciales 2, 4, 5 y 7. |
+|  |  | Total. | 61 |  |  |  |
+|  | 3 | TRIBUNAL DE INSTANCIA DE PUERTO DEL ROSARIO. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 1 | M |  | Partido judicial |
+|  |  | Total. | 12 |  |  |  |
+|  |  | Total provincial. | 119 |  |  |  |
+| SANTA CRUZ DE TENERIFE. |  |  |  |  |  |  |
+|  | 12 | TRIBUNAL DE INSTANCIA DE ARONA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partidos judiciales 1 y 12. |
+|  |  | Total. | 12 |  |  |  |
+|  |  | Total provincial. | 94 |  |  |  |
+|  |  | Total Comunidad Autónoma. | 213 |  |  |  |
+
+| Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
+|---|---|---|---|---|---|---|
+| CANTABRIA. |  |  |  |  |  |  |
+|  | 3 | TRIBUNAL DE INSTANCIA DE SANTANDER. |  |  |  |  |
+|  |  | Sección de Instrucción. | 4 | M |  | Partido judicial. |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partido judicial. |
+|  |  | Total. | 37 |  |  |  |
+|  |  | Total provincial. | 55 |  |  |  |
+|  |  | Total Comunidad Autónoma. | 55 |  |  |  |
+
+| Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
+|---|---|---|---|---|---|---|
+| VALLADOLID. |  |  |  |  |  |  |
+|  | 1 | TRIBUNAL DE INSTANCIA DE VALLADOLID. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partidos judiciales 1, 2 y 3. |
+|  |  | Total. | 40 |  |  |  |
+|  | 2 | TRIBUNAL DE INSTANCIA DE MEDINA DEL CAMPO |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 3 | J |  | Partido judicial. |
+|  | 3 | TRIBUNAL DE INSTANCIA DE MEDINA DE RIOSECO |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  |  | Total provincial. | 44 |  |  |  |
+| LEÓN. |  |  |  |  |  |  |
+|  | 2 | TRIBUNAL DE INSTANCIA DE LEÓN. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer | 1 | M |  | Partidos judiciales 2, 3, 1, 6 y 5 |
+|  |  | Total | 28 |  |  |  |
+|  | 3 | TRIBUNAL DE INSTANCIA DE LA BAÑEZA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 2 | J |  | Partido judicial. |
+|  | 1 | TRIBUNAL DE INSTANCIA DE SAHAGÚN |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  | 5 | TRIBUNAL DE INSTANCIA DE ASTORGA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 2 | J |  | Partido judicial. |
+|  | 6 | TRIBUNAL DE INSTANCIA DE CISTIERNA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  |  | Total provincial | 47 |  |  |  |
+|  |  | Total Comunidad Autónoma | 224 |  |  |  |
+
+| Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
+|---|---|---|---|---|---|---|
+| GUADALAJARA. |  |  |  |  |  |  |
+|  | 1 | TRIBUNAL DE INSTANCIA DE GUADALAJARA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 1 | M |  | Partidos judiciales 1, 2 y 3. |
+|  |  | Total. | 19 |  |  |  |
+|  | 2 | TRIBUNAL DE INSTANCIA DE MOLINA DE ARAGÓN. |  |  |  |  |
+|  |  | Sección Civil y de Instrucción. | 1 | J |  | Partido judicial. |
+|  | 3 | TRIBUNAL DE INSTANCIA DE SIGÜENZA. |  |  |  |  |
+|  |  | Sección Civil y de Instrucción. | 1 | J |  | Partido judicial. |
+|  |  | Total provincial. | 21 |  |  |  |
+| CIUDAD REAL. |  |  |  |  |  |  |
+|  | 2 | TRIBUNAL DE INSTANCIA DE CIUDAD REAL. |  |  |  |  |
+|  |  | Sección de Violencia sobre la mujer. | 1 | M |  | Partidos judiciales 2, 5, 7 y 9. |
+|  |  | Total. | 19 |  |  |  |
+|  | 5 | TRIBUNAL DE INSTANCIA DE VALDEPEÑAS. |  |  |  |  |
+|  |  | Sección Civil y de Instrucción. | 2 | J |  | Partido judicial. |
+|  | 7 | TRIBUNAL DE INSTANCIA DE PUERTOLLANO. |  |  |  |  |
+|  |  | Sección Civil y de Instrucción. | 3 | J |  | Partido judicial. |
+|  | 9 | TRIBUNAL DE INSTANCIA DE ALMAGRO. |  |  |  |  |
+|  |  | Sección Civil y de Instrucción. | 1 | J |  | Partido judicial. |
+|  |  | Total Provincial. | 37 |  |  |  |
+| TOLEDO. |  |  |  |  |  |  |
+|  | 5 | TRIBUNAL DE INSTANCIA DE TOLEDO. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partidos judiciales 2, 3 y 5. |
+|  |  | Total. | 21 |  |  |  |
+|  |  | Total provincial. | 48 |  |  |  |
+|  |  | Total Comunidad Autónoma. | 154 |  |  |  |
+
+| Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
+|---|---|---|---|---|---|---|
+| BARCELONA. |  |  |  |  |  |  |
+|  | 11 | TRIBUNAL DE INSTANCIA DE BARCELONA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 6 | M |  | Partido judicial. |
+|  |  | Sección de Violencia contra la Infancia y la Adolescencia | 1 | M |  | Partido judicial. |
+|  |  | Total. | 207 |  |  |  |
+|  | 17 | TRIBUNAL DE INSTANCIA DE L´HOSPITALET DE LLOBREGAT. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partido judicial. |
+|  |  | Total. | 16 |  |  |  |
+|  | 14 | TRIBUNAL DE INSTANCIA DE VILANOVA I LA GELTRÚ |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 1 | M |  | Partido judicial 14 y 9 |
+|  |  | Total | 15 |  |  |  |
+|  | 9 | TRIBUNAL DE INSTANCIA DE VILAFRANCA DEL PENEDÈS |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 5 | J |  | Partido judicial. |
+|  |  | Total provincial. | 449 |  |  |  |
+| LLEIDA. |  |  |  |  |  |  |
+|  | 4 | TRIBUNAL DE INSTANCIA DE LLEIDA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partidos judiciales 4, 2 y 3 |
+|  |  | Total. | 24 |  |  |  |
+|  | 2 | TRIBUNAL DE INSTANCIA DE BALAGUER |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 3 | J |  | Partido judicial. |
+|  | 3 | TRIBUNAL DE INSTANCIA DE CERVERA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 2 | J |  | Partido judicial. |
+|  |  | Total provincial. | 34 |  |  |  |
+|  |  | Total Comunidad Autónoma. | 617 |  |  |  |
+
+| Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
+|---|---|---|---|---|---|---|
+| ALICANTE/ ALACANT. |  |  |  |  |  |  |
+|  | 3 | TRIBUNAL DE INSTANCIA DE ALICANTE/ ALACANT. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 4 | M |  | Partidos judiciales 3 y 10. |
+|  |  | Total. | 58 |  |  |  |
+|  | 9 | TRIBUNAL DE INSTANCIA DE BENIDORM. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partidos judiciales 5 y 9. |
+|  |  | Total. | 16 |  |  |  |
+|  |  | Total provincial. | 160 |  |  |  |
+| CASTELLÓN/ CASTELLÓ. |  |  |  |  |  |  |
+|  | 1 | TRIBUNAL DE INSTANCIA DE CASTELLÓ DE LA PLANA. |  |  |  |  |
+|  |  | Sección de Instrucción. | 5 | M |  | Partido judicial. |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partido judicial. |
+|  |  | Total. | 32 |  |  |  |
+|  | 5 | TRIBUNAL DE INSTANCIA DE VILA-REAL. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partidos judiciales 2, 4 y 5. |
+|  |  | Total. | 7 |  |  |  |
+|  |  | Total provincial. | 52 |  |  |  |
+| VALENCIA/ VALÈNCIA. |  |  |  |  |  |  |
+|  | 1 | TRIBUNAL DE INSTANCIA LLÍRIA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 1 | M |  | Partido judicial. |
+|  |  | Total. | 9 |  |  |  |
+|  |  | Total provincial. | 218 |  |  |  |
+|  |  | Total Comunidad Autónoma. | 430 |  |  |  |
+
+| Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
+|---|---|---|---|---|---|---|
+| BADAJOZ. |  |  |  |  |  |  |
+|  | 4 | TRIBUNAL DE INSTANCIA DE MÉRIDA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 1 | M |  | Partidos judiciales 4, 11,1,9, 2, 14, 10, 8, 7, 12 y 3 |
+|  |  | Total. | 11 |  |  |  |
+|  | 11 | TRIBUNAL DE INSTANCIA DE DON BENITO. |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 3 | J |  | Partido judicial. |
+|  | 1 | TRIBUNAL DE INSTANCIA DE VILLANUEVA DE LA SERENA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 2 | J |  | Partido judicial. |
+|  | 9 | TRIBUNAL DE INSTANCIA DE HERRERA DEL DUQUE |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  | 2 | TRIBUNAL DE INSTANCIA DE ALMENDRALEJO |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 3 | J |  | Partido judicial. |
+|  | 14 | TRIBUNAL DE INSTANCIA DE VILLAFRANCA DE LOS BARROS |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  | 10 | TRIBUNAL DE INSTANCIA DE CASTUERA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 2 | J |  | Partido judicial. |
+|  | 8 | TRIBUNAL DE INSTANCIA DE JEREZ DE LOS CABALLEROS |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  | 7 | TRIBUNAL DE INSTANCIA DE ZAFRA. |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 2 | J |  | Partido judicial. |
+|  | 12 | TRIBUNAL DE INSTANCIA DE FREGENAL DE LA SIERRA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  | 3 | TRIBUNAL DE INSTANCIA DE LLERENA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  | 5 | TRIBUNAL DE INSTANCIA DE BADAJOZ. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partidos judiciales 5, 13 y 6 |
+|  |  | Total. | 26 |  |  |  |
+|  | 6 | TRIBUNAL DE INSTANCIA DE OLIVENZA. |  |  |  |  |
+|  |  | Sección Civil y de Instrucción. | 1 | J |  | Partido judicial. |
+|  | 13 | TRIBUNAL DE INSTANCIA DE MONTIJO |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 2 | J |  | Partido judicial. |
+|  |  | Total provincial. | 58 |  |  |  |
+| CÁCERES. |  |  |  |  |  |  |
+|  | 1 | TRIBUNAL DE INSTANCIA DE CÁCERES. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partidos judiciales 1, 2, 3, 4, 5, 6 y 7. |
+|  |  | Total. | 17 |  |  |  |
+|  |  | Total provincial. | 34 |  |  |  |
+|  |  | Total Comunidad Autónoma. | 92 |  |  |  |
+
+| Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
+|---|---|---|---|---|---|---|
+| A CORUÑA. |  |  |  |  |  |  |
+|  | 2 | TRIBUNAL DE INSTANCIA DE SANTIAGO DE COMPOSTELA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 1 | M |  | Partidos judiciales 2, 5, 8, 10, 11, 12, 13, y 14 |
+|  |  | Total. | 18 |  |  |  |
+|  | 5 | TRIBUNAL DE INSTACIA DE NOIA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 2 | J |  | Partido judicial. |
+|  | 8 | TRIBUNAL DE INSTANCIA DE ARZÚA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  | 10 | TRIBUNAL DE INSTANCIA DE RIBEIRA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 3 | J |  | Partido judicial. |
+|  | 11 | TRIBUNAL DE INSTANCIA DE NEGREIRA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  | 12 | TRIBUNAL DE INSTANCIA DE MUROS |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  | 13 | TRIBUNAL DE INSTANCIA DE PADRÓN |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 2 | J |  | Partido judicial. |
+|  | 14 | TRIBUNAL DE INSTANCIA DE ORDES |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 2 | J |  | Partido judicial. |
+|  | 4 | TRIBUNAL DE INSTANCIA DE A CORUÑA. |  |  |  |  |
+|  |  | Sección de Instrucción. | 7 | M |  | Partido judicial. |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partido judicial. |
+|  |  | Total. | 47 |  |  |  |
+|  |  | Total provincial. | 101 |  |  |  |
+| OURENSE. |  |  |  |  |  |  |
+|  | 1 | TRIBUNAL DE INSTANCIA DE OURENSE. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 1 | M |  | Partidos judiciales 1, 5, 7, 3, 2, 9 y 8 |
+|  |  | Total. | 20 |  |  |  |
+|  | 5 | TRIBUNAL DE INSTANCIA DE VERÍN |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 2 | J |  | Partido judicial |
+|  | 7 | TRIBUNAL DE INSTANACIA DE O CARBALLIÑO |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 2 | J |  | Partido judicial |
+|  | 3 | TRIBUNAL DE INSTANCIA DE XINZO DE LIMIA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial |
+|  | 2 | TRIBUNAL DE INSTANCIA DE RIBADAVIA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  | 9 | TRIBUNAL DE INSTANCIA DE CELANOVA |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  | 8 | TRIBUNAL DE INSTANCIA DE BANDE |  |  |  |  |
+|  |  | Sección Civil y de Instrucción | 1 | J |  | Partido judicial. |
+|  |  | Total provincial. | 31 |  |  |  |
+| PONTEVEDRA. |  |  |  |  |  |  |
+|  | 3 | TRIBUNAL DE INSTANCIA DE VIGO. |  |  |  |  |
+|  |  | Sección de Instrucción. | 7 | M |  | Partido judicial. |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partido judicial. |
+|  |  | Total. | 38 |  |  |  |
+|  |  | Total provincial. | 90 |  |  |  |
+|  |  | Total Comunidad Autónoma. | 253 |  |  |  |
+
+| Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
+|---|---|---|---|---|---|---|
+| MADRID. |  |  |  |  |  |  |
+|  | 4 | TRIBUNAL DE INSTANCIA DE ALCALÁ DE HENARES. |  |  |  |  |
+|  |  | Sección de Instrucción. | 5 | M |  | Partido judicial. |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partido judicial. |
+|  |  | Total. | 21 |  |  |  |
+|  | 6 | TRIBUNAL DE INSTANCIA DE MÓSTOLES. |  |  |  |  |
+|  |  | Sección de Instrucción. | 5 | M |  | Partido judicial. |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partido judicial. |
+|  |  | Total. | 25 |  |  |  |
+|  | 11 | TRIBUNAL DE INSTANCIA DE MADRID. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 14 | M |  | Partido judicial. |
+|  |  | Sección de Violencia contra la infancia y la Adolescencia | 1 | M |  | Partido judicial. |
+|  |  | Total. | 331 |  |  |  |
+|  | 14 | TRIBUNAL DE INSTANCIA DE ARGANDA DEL REY. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partido judicial. |
+|  |  | Total. | 12 |  |  |  |
+|  |  | Total provincial. | 527 |  |  |  |
+|  |  | Total Comunidad Autónoma. | 527 |  |  |  |
+
+| Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
+|---|---|---|---|---|---|---|
+| MURCIA. |  |  |  |  |  |  |
+|  | 2 | TRIBUNAL DE INSTANCIA DE CARTAGENA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partido judicial. |
+|  |  | Total. | 22 |  |  |  |
+|  | 6 | TRIBUNAL DE INSTANCIA DE MURCIA. |  |  |  |  |
+|  |  | Sección de Violencia sobre la Mujer. | 3 | M |  | Partido judicial. |
+|  |  | Total. | 59 |  |  |  |
+|  |  | Total provincial. | 122 |  |  |  |
+|  |  | Total Comunidad Autónoma. | 122 |  |  |  |
+
+| Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
+|---|---|---|---|---|---|---|
+| BIZKAIA. |  |  |  |  |  |  |
+|  | 2 | TRIBUNAL DE INSTANCIA DE BARAKALDO. |  |  |  |  |
+|  |  | Sección de Instrucción. | 3 | M |  | Partido judicial. |
+|  |  | Sección de Violencia sobre la Mujer. | 2 | M |  | Partido judicial. |
+|  |  | Total. | 13 |  |  |  |
+|  |  | Total provincial. | 90 |  |  |  |
+|  |  | Total Comunidad Autónoma. | 167 |  |  | » |
+
+**Modificación de la planta judicial prevista en los anexos VI y XIII de la Ley 38/1988, de 28 de diciembre, de Demarcación y Planta Judicial, en tanto en cuanto continúen en vigor**
+
+## «ANEXO VI — Juzgados de Primera Instancia e Instrucción
+
+<table class="tabla_ancha">
+<colgroup>
+<col width="30%">
+<col width="18%">
+<col width="17%">
+<col width="10%">
+<col width="6%">
+<col width="19%">
+</colgroup>
+<thead>
+<tr>
+<th class="cabeza_tabla">Provincia</th>
+<th class="cabeza_tabla">Partido Judicial Número</th>
+<th class="cabeza_tabla">Primera Instancia</th>
+<th class="cabeza_tabla">Instrucción</th>
+<th class="cabeza_tabla" colspan="2">Primera Instancia e Instrucción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq">
+<strong>Comunidad Autónoma de Andalucía.</strong>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cádiz.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">13</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">15</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">19</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">13</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">38</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total Provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">70</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total Comunidad Autónoma.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">448</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<strong>Comunidad Autónoma de Cantabria.</strong>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Cantabria.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro">13</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">13</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">4</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">18</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total Provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">35</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total Comunidad Autónoma.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">35</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<strong>Comunitat Valenciana.</strong>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Castellón/Castelló.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">10</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">5</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">17</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total Provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">32</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total Comunidad Autónoma.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">275</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<strong>Comunidad Autónoma de Galicia.</strong>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">A Coruña.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro">16</td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">13</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">28</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">13</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">22</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total Provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">63</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Pontevedra.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro">16</td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">13</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">21</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">10</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">29</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total Provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">60</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total Comunidad Autónoma.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">165</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<strong>Comunidad de Madrid.</strong>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Madrid.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">9</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_centro">105</td>
+<td class="cuerpo_tabla_centro">54</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">12</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">13</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">14</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">10</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">15</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">16</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">17</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">18</td>
+<td class="cuerpo_tabla_centro">7</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">19</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">20</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">8</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">21</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">141</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">78</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">99</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total Provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">318</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total Comunidad Autónoma.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">318</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">
+<em>
+<strong>Comunidad Autónoma del País Vasco.</strong>
+</em>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">Bizkaia.</td>
+<td class="cuerpo_tabla_centro">1</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">3</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">4</td>
+<td class="cuerpo_tabla_centro">17</td>
+<td class="cuerpo_tabla_centro">11</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">5</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">2</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro">6</td>
+<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">23</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">14</p>
+</td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">16</p>
+</td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total Provincial.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">53</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total Comunidad Autónoma.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="sombra">
+<p class="cuerpo_tabla_centro">100</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq"> Total Nacional.</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="fondo_oscuro">
+<p class="cuerpo_tabla_centro">2516</p>
+</td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_centro"> </td>
+<td class="cuerpo_tabla_izq">»</td>
+</tr>
+</tbody>
+</table>
+
+## «ANEXO XIII — Juzgados de Violencia sobre la Mujer
+
+| Sede | Juzgados exclusivos | Juzgados compatibles |  |
+|---|---|---|---|
+| **Comunidad Autónoma de Andalucía.** |  |  |  |
+| Almería. | 3 |  | Ámbito Partido Judicial. |
+| Berja. |  | 1 | Ámbito Partido Judicial. |
+| El Ejido. |  | 1 | Ámbito Partido Judicial. |
+| Huércal-Overa. |  | 1 | Ámbito Partido Judicial. |
+| Purchena. |  | 1 | Ámbito Partido Judicial. |
+| Vélez-Rubio. |  | 1 | Ámbito Partido Judicial. |
+| Vera. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 3 | 6 |  |
+| Cádiz. | 1 |  | Ámbito Partido Judicial. |
+| Algeciras. | 2 |  | Extiende su jurisdicción a los Partidos Judiciales 3, 5 y 8. |
+| Arcos de la Frontera. |  | 1 | Ámbito Partido Judicial. |
+| Barbate. |  | 1 | Ámbito Partido Judicial. |
+| Chiclana de la Frontera. |  | 1 | Ámbito Partido Judicial. |
+| El Puerto de Santa María. |  | 1 | Ámbito Partido Judicial. |
+| Jerez de la Frontera. | 2 |  | Ámbito Partido Judicial. |
+| Rota. |  | 1 | Ámbito Partido Judicial. |
+| Sanlúcar de Barrameda. |  | 1 | Ámbito Partido Judicial. |
+| Ubrique. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 5 | 7 |  |
+| Córdoba. | 2 |  | Extiende su jurisdicción a los Partidos Judiciales 3, 7 y 10. |
+| Aguilar de la Frontera. |  | 1 | Ámbito Partido Judicial. |
+| Baena. |  | 1 | Ámbito Partido Judicial. |
+| Montilla. |  | 1 | Ámbito Partido Judicial. |
+| Montoro. |  | 1 | Ámbito Partido Judicial. |
+| Peñarroya-Pueblonuevo. |  | 1 | Ámbito Partido Judicial. |
+| Posadas. |  | 1 | Ámbito Partido Judicial. |
+| Priego de Córdoba. |  | 1 | Ámbito Partido Judicial. |
+| Puente Genil. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 2 | 8 |  |
+| Granada. | 3 |  | Ámbito Partido Judicial. |
+| Almuñécar. |  | 1 | Ámbito Partido Judicial. |
+| Baza. |  | 1 | Ámbito Partido Judicial. |
+| Guadix. |  | 1 | Ámbito Partido Judicial. |
+| Huéscar. |  | 1 | Ámbito Partido Judicial. |
+| Loja. |  | 1 | Ámbito Partido Judicial. |
+| Motril. | 1 |  | Ámbito Partido Judicial. |
+| Órgiva. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 4 | 6 |  |
+| Huelva. | 1 |  | Ámbito Partido Judicial. |
+| Aracena. |  | 1 | Ámbito Partido Judicial. |
+| Ayamonte. | 1 |  | Ámbito Partido Judicial. |
+| La Palma del Condado. |  | 1 | Ámbito Partido Judicial. |
+| Moguer. |  | 1 | Ámbito Partido Judicial. |
+| Valverde del Camino. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 2 | 4 |  |
+| Jaén. | 1 |  |  |
+| Alcalá la Real. |  | 1 | Ámbito Partido Judicial. |
+| Andújar. |  | 1 | Ámbito Partido Judicial. |
+| Baeza. |  | 1 | Ámbito Partido Judicial. |
+| Cazorla. |  | 1 | Ámbito Partido Judicial. |
+| La Carolina. |  | 1 | Ámbito Partido Judicial. |
+| Linares. |  | 1 | Ámbito Partido Judicial. |
+| Úbeda. |  | 1 | Ámbito Partido Judicial. |
+| Villacarrillo. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 1 | 8 |  |
+| Málaga. | 5 |  | Ámbito Partido Judicial. |
+| Antequera. |  | 1 | Ámbito Partido Judicial. |
+| Archidona. |  | 1 | Ámbito Partido Judicial. |
+| Coín. |  | 1 | Ámbito Partido Judicial. |
+| Fuengirola. | 1 |  | Ámbito Partido Judicial. |
+| Marbella. | 2 |  | Ámbito Partido Judicial. |
+| Ronda. |  | 1 | Ámbito Partido Judicial. |
+| Torrox. |  | 1 | Ámbito Partido Judicial. |
+| Vélez-Málaga. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 8 | 6 |  |
+| Sevilla. | 5 |  | Ámbito Partido Judicial. |
+| Alcalá de Guadaíra. |  | 1 | Ámbito Partido Judicial. |
+| Carmona. |  | 1 | Ámbito Partido Judicial. |
+| Cazalla de la Sierra. |  | 1 | Ámbito Partido Judicial. |
+| Coria del Río. |  | 1 | Ámbito Partido Judicial. |
+| Dos Hermanas. | 1 |  | Ámbito Partido Judicial. |
+| Écija. |  | 1 | Ámbito Partido Judicial. |
+| Estepa. |  | 1 | Ámbito Partido Judicial. |
+| Lebrija. |  | 1 | Ámbito Partido Judicial. |
+| Lora del Río. |  | 1 | Ámbito Partido Judicial. |
+| Marchena. |  | 1 | Ámbito Partido Judicial. |
+| Morón de la Frontera. |  | 1 | Ámbito Partido Judicial. |
+| Osuna. |  | 1 | Ámbito Partido Judicial. |
+| Sanlúcar la Mayor. |  | 1 | Ámbito Partido Judicial. |
+| Utrera. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 6 | 13 |  |
+| Total Comunidad Autónoma. | 31 | 58 |  |
+| **Comunidad Autónoma de Aragón.** |  |  |  |
+| Huesca. |  | 1 | Ámbito Partido Judicial. |
+| Barbastro. |  | 1 | Ámbito Partido Judicial. |
+| Boltaña. |  | 1 | Ámbito Partido Judicial. |
+| Fraga. |  | 1 | Ámbito Partido Judicial. |
+| Jaca. |  | 1 | Ámbito Partido Judicial. |
+| Monzón. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 0 | 6 |  |
+| Teruel. |  | 1 | Ámbito Partido Judicial. |
+| Alcañiz. |  | 1 | Ámbito Partido Judicial. |
+| Calamocha. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 0 | 3 |  |
+| Zaragoza. | 4 |  | Ámbito Partido Judicial. |
+| Calatayud. |  | 1 | Ámbito Partido Judicial. |
+| Caspe. |  | 1 | Ámbito Partido Judicial. |
+| Daroca. |  | 1 | Ámbito Partido Judicial. |
+| Ejea de los Caballeros. |  | 1 | Ámbito Partido Judicial. |
+| La Almunia de Doña Godina. |  | 1 | Ámbito Partido Judicial. |
+| Tarazona. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 4 | 6 |  |
+| Total Comunidad Autónoma. | 4 | 15 |  |
+| **Comunidad Autónoma del Principado de Asturias.** |  |  |  |
+| Oviedo. | 1 |  | Ámbito Partido Judicial. |
+| Avilés. |  | 1 | Ámbito Partido Judicial. |
+| Cangas del Narcea. |  | 1 | Ámbito Partido Judicial. |
+| Castropol. |  | 1 | Ámbito Partido Judicial. |
+| Gijón. | 2 |  | Extiende su Jurisdicción a los Partidos Judiciales 6, 17, 3, 11 y 18. |
+| Grado. |  | 1 | Ámbito Partido Judicial. |
+| Langreo. |  | 1 | Ámbito Partido Judicial. |
+| Laviana. |  | 1 | Ámbito Partido Judicial. |
+| Lena. |  | 1 | Ámbito Partido Judicial. |
+| Valdés. |  | 1 | Ámbito Partido Judicial. |
+| Mieres. |  | 1 | Ámbito Partido Judicial. |
+| Pravia. |  | 1 | Ámbito Partido Judicial. |
+| Tineo. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 3 | 11 |  |
+| Total Comunidad Autónoma. | 3 | 11 |  |
+| **Comunidad Autónoma de las Illes Balears.** |  |  |  |
+| Palma. | 4 |  | Ámbito Partido Judicial. |
+| Calvià. |  | 1 | Ámbito Partido Judicial. |
+| Ciutadella de Menorca. |  | 1 | Ámbito Partido Judicial. |
+| Eivissa. | 2 |  | Ámbito Partido Judicial. |
+| Inca. |  | 1 | Ámbito Partido Judicial. |
+| Maó. |  | 1 | Ámbito Partido Judicial. |
+| Manacor. | 1 |  | Ámbito Partido Judicial. |
+| Total. | 7 | 4 |  |
+| Total Comunidad Autónoma. | 7 | 4 |  |
+| **Comunidad Autónoma de Canarias.** |  |  |  |
+| Las Palmas de Gran Canaria. | 4 |  | Ámbito Partido Judicial. |
+| Arrecife. | 1 |  | Ámbito Partido Judicial. |
+| Puerto del Rosario. | 1 |  | Ámbito Partido Judicial. |
+| San Bartolomé de Tirajana. | 1 |  | Ámbito Partido Judicial. |
+| Santa Lucía de Tirajana. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 7 | 1 |  |
+| Santa Cruz de Tenerife. | 2 |  | Extiende su jurisdicción a los Partidos Judiciales 3, 7 y 11. |
+| Arona. | 2 |  | Extiende su jurisdicción a los Partidos Judiciales 1 y 12. |
+| Icod de los Vinos. |  | 1 | Ámbito Partido Judicial. |
+| La Orotava. |  | 2 | Ámbito Partido Judicial. |
+| Los Llanos de Aridane. |  | 1 | Ámbito Partido Judicial. |
+| San Sebastián de la Gomera. |  | 1 | Ámbito Partido Judicial. |
+| Santa Cruz de la Palma. |  | 1 | Ámbito Partido Judicial. |
+| Valverde. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 4 | 7 |  |
+| Total Comunidad Autónoma. | 11 | 8 |  |
+| **Comunidad Autónoma de Cantabria.** |  |  |  |
+| Santander. | 2 |  | Ámbito Partido Judicial. |
+| Castro-Urdiales. |  | 1 | Ámbito Partido Judicial. |
+| Laredo. |  | 1 | Ámbito Partido Judicial. |
+| Medio Cudeyo. |  | 1 | Ámbito Partido Judicial. |
+| Reinosa. |  | 1 | Ámbito Partido Judicial. |
+| San Vicente de la Barquera. |  | 1 | Ámbito Partido Judicial. |
+| Santoña. |  | 1 | Ámbito Partido Judicial. |
+| Torrelavega. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 2 | 7 |  |
+| Total Comunidad Autónoma. | 2 | 7 |  |
+| **Comunidad de Castilla y León.** |  |  |  |
+| Ávila. |  | 1 | Ámbito Partido Judicial. |
+| Arenas de San Pedro. |  | 1 | Ámbito Partido Judicial. |
+| Arévalo. |  | 1 | Ámbito Partido Judicial. |
+| Piedrahita. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 0 | 4 |  |
+| Burgos. | 1 |  | Ámbito Partido Judicial. |
+| Aranda de Duero. |  | 1 | Ámbito Partido Judicial. |
+| Briviesca. |  | 1 | Ámbito Partido Judicial. |
+| Lerma. |  | 1 | Ámbito Partido Judicial. |
+| Miranda de Ebro. |  | 1 | Ámbito Partido Judicial. |
+| Salas de los Infantes. |  | 1 | Ámbito Partido Judicial. |
+| Villarcayo de Merindad de Castilla la Vieja. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 1 | 6 |  |
+| León. | 1 |  | Extiende su jurisdicción a los Partidos Judiciales 3, 5, 1 y 6. |
+| Ponferrada. |  | 1 | Ámbito Partido Judicial. |
+| Villablino. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 1 | 2 |  |
+| Palencia. |  | 1 | Ámbito Partido Judicial. |
+| Carrión de los Condes. |  | 1 | Ámbito Partido Judicial. |
+| Cervera de Pisuerga. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 0 | 3 |  |
+| Salamanca. |  | 1 | Ámbito Partido Judicial. |
+| Béjar. |  | 1 | Ámbito Partido Judicial. |
+| Ciudad Rodrigo. |  | 1 | Ámbito Partido Judicial. |
+| Peñaranda de Bracamonte. |  | 1 | Ámbito Partido Judicial. |
+| Vitigudino. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 0 | 5 |  |
+| Segovia. |  | 1 | Ámbito Partido Judicial. |
+| Cuellar. |  | 1 | Ámbito Partido Judicial. |
+| Santa María la Real de Nieva. |  | 1 | Ámbito Partido Judicial. |
+| Sepúlveda. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 0 | 4 |  |
+| Soria. |  | 1 | Ámbito Partido Judicial. |
+| Almazán. |  | 1 | Ámbito Partido Judicial. |
+| El Burgo de Osma-Ciudad de Osma. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 0 | 3 |  |
+| Valladolid. | 2 |  | Extiende su jurisdicción a los Partidos Judiciales 2 y 3. |
+| Total. | 2 | 0 |  |
+| Zamora. |  | 1 | Ámbito Partido Judicial. |
+| Benavente. |  | 1 | Ámbito Partido Judicial. |
+| Puebla de Sanabria. |  | 1 | Ámbito Partido Judicial. |
+| Toro. |  | 1 | Ámbito Partido Judicial. |
+| Villalpando. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 0 | 5 |  |
+| Total Comunidad Autónoma. | 4 | 32 |  |
+| **Comunidad Autónoma de Castilla-La Mancha.** |  |  |  |
+| Albacete. | 1 |  | Ámbito Partido Judicial. |
+| Alcaraz. |  | 1 | Ámbito Partido Judicial. |
+| Almansa. |  | 1 | Ámbito Partido Judicial. |
+| Casas-Ibáñez. |  | 1 | Ámbito Partido Judicial. |
+| Hellín. |  | 1 | Ámbito Partido Judicial. |
+| La Roda. |  | 1 | Ámbito Partido Judicial. |
+| Villarrobledo. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 1 | 6 |  |
+| Ciudad Real. | 1 |  | Extiende su jurisdicción a los Partidos Judiciales 9, 5 y 7. |
+| Alcázar de San Juan. |  | 1 | Ámbito Partido Judicial. |
+| Almadén. |  | 1 | Ámbito Partido Judicial. |
+| Daimiel. |  | 1 | Ámbito Partido Judicial. |
+| Manzanares. |  | 1 | Ámbito Partido Judicial. |
+| Tomelloso. |  | 1 | Ámbito Partido Judicial. |
+| Villanueva de los Infantes. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 1 | 6 |  |
+| Cuenca. |  | 1 | Ámbito Partido Judicial. |
+| Motilla del Palancar. |  | 1 | Ámbito Partido Judicial. |
+| San Clemente. |  | 1 | Ámbito Partido Judicial. |
+| Tarancón. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 0 | 4 |  |
+| Guadalajara. | 1 |  | Extiende su jurisdicción a los partidos judiciales 3 y 2. |
+| Total. | 1 | 0 |  |
+| Toledo. | 2 |  | Extiende su jurisdicción a los Partidos Judiciales 2, 3 y 5. |
+| Ocaña. |  | 1 | Ámbito Partido Judicial. |
+| Quintanar de la Orden. |  | 1 | Ámbito Partido Judicial. |
+| Talavera de la Reina. |  | 1 | Ámbito Partido Judicial. |
+| Torrijos. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 2 | 4 |  |
+| Total Comunidad Autónoma. | 5 | 20 |  |
+| **Comunidad Autónoma de Cataluña.** |  |  |  |
+| Barcelona. | 6 |  | Ámbito Partido Judicial. |
+| Arenys de Mar. |  | 1 | Ámbito Partido Judicial. |
+| Badalona. | 1 |  | Ámbito Partido Judicial. |
+| Berga. |  | 1 | Ámbito Partido Judicial. |
+| Cerdanyola del Vallès. |  | 1 | Ámbito Partido Judicial. |
+| Cornellà de Llobregat. |  | 1 | Ámbito Partido Judicial. |
+| El Prat de Llobregat. |  | 1 | Ámbito Partido Judicial. |
+| Esplugues de Llobregat. |  | 1 | Ámbito Partido Judicial. |
+| Gavà. | 1 |  | Ámbito Partido Judicial. |
+| Granollers. | 1 |  | Ámbito Partido Judicial. |
+| Igualada. |  | 1 | Ámbito Partido Judicial. |
+| L'Hospitalet de Llobregat. | 2 |  | Ámbito Partido Judicial. |
+| Manresa. | 1 |  | Ámbito Partido Judicial. |
+| Martorell. |  | 1 | Ámbito Partido Judicial. |
+| Mataró. | 1 |  | Ámbito Partido Judicial. |
+| Mollet del Vallès. |  | 1 | Ámbito Partido Judicial. |
+| Rubí. |  | 1 | Ámbito Partido Judicial. |
+| Sabadell. | 1 |  | Ámbito Partido Judicial. |
+| Sant Boi de Llobregat. |  | 1 | Ámbito Partido Judicial. |
+| Sant Feliu de Llobregat. | 1 |  | Ámbito Partido Judicial. |
+| Santa Coloma de Gramenet. |  | 1 | Ámbito Partido Judicial. |
+| Terrassa. | 1 |  | Ámbito Partido Judicial. |
+| Vic. |  | 1 | Ámbito Partido Judicial. |
+| Vilanova I La Geltrú. | 1 |  | Extiende su jurisdicción al Partido Judicial 9. |
+| Total. | 17 | 13 |  |
+| Girona. | 1 |  | Ámbito Partido Judicial. |
+| Blanes. |  | 1 | Ámbito Partido Judicial. |
+| Figueres. |  | 1 | Ámbito Partido Judicial. |
+| La Bisbal D'Empordà. |  | 1 | Ámbito Partido Judicial. |
+| Olot. |  | 1 | Ámbito Partido Judicial. |
+| Puigcerdà. |  | 1 | Ámbito Partido Judicial. |
+| Ripoll. |  | 1 | Ámbito Partido Judicial. |
+| Sant Feliu de Guíxols. |  | 1 | Ámbito Partido Judicial. |
+| Santa Coloma de Farners. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 1 | 8 |  |
+| Lleida. | 2 |  | Extiende su jurisdicción a los Partidos Judiciales 2 y 3. |
+| La Seu D'Urgell. |  | 1 | Ámbito Partido Judicial. |
+| Solsona. |  | 1 | Ámbito Partido Judicial. |
+| Tremp. |  | 1 | Ámbito Partido Judicial. |
+| Vielha e Mijaran. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 2 | 4 |  |
+| Tarragona. | 1 |  | Ámbito Partido Judicial. |
+| Amposta. |  | 1 | Ámbito Partido Judicial. |
+| El Vendrell. | 1 |  | Ámbito Partido Judicial. |
+| Falset. |  | 1 | Ámbito Partido Judicial. |
+| Gandesa. |  | 1 | Ámbito Partido Judicial. |
+| Reus. | 1 |  | Ámbito Partido Judicial. |
+| Tortosa. |  | 1 | Ámbito Partido Judicial. |
+| Valls. |  | 1 |  |
+| Total. | 3 | 5 |  |
+| Total Comunidad Autónoma. | 23 | 30 |  |
+| **Comunitat Valenciana.** |  |  |  |
+| Alicante/Alacant. | 4 |  | Extiende su jurisdicción a los Partidos Judiciales 3 y 10. |
+| Alcoy/Alcoi. |  | 1 | Ámbito Partido Judicial. |
+| Benidorm. | 2 |  | Extiende su jurisdicción a los Partidos Judiciales 5 y 9. |
+| Dénia. | 1 |  | Ámbito Partido Judicial. |
+| Elche/Elx. | 2 |  | Extiende su jurisdicción a los Partidos Judiciales 8 y 11. |
+| Elda. |  | 1 | Ámbito Partido Judicial. |
+| Ibi. |  | 1 | Ámbito Partido Judicial. |
+| Orihuela. | 1 |  | Ámbito Partido Judicial. |
+| Torrevieja. | 1 |  | Ámbito Partido Judicial. |
+| Villena. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 11 | 4 |  |
+| Castelló de la Plana. | 2 |  | Ámbito Partido Judicial. |
+| Vila-real. | 2 |  | Extiende su jurisdicción a los Partidos 2, 4 y 5. |
+| Vinaròs. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 4 | 1 |  |
+| València. | 6 |  | Extiende su jurisdicción a los Partidos Judiciales 6 y 15. |
+| Alzira. | 1 |  | Extiende su jurisdicción a los Partidos Judiciales 8, 9, y 10. |
+| Gandía. | 1 |  | Ámbito Partido Judicial. |
+| Llíria. | 1 |  | Ámbito Partido Judicial. |
+| Massamagrell. |  | 1 | Ámbito Partido Judicial. |
+| Ontinyent. |  | 1 | Ámbito Partido Judicial. |
+| Paterna. | 1 |  | Extiende su jurisdicción a los Partidos Judiciales 13 y 14. |
+| Requena. |  | 1 | Ámbito Partido Judicial. |
+| Sagunto/Sagunt. |  | 1 | Ámbito Partido Judicial. |
+| Sueca. | 1 |  | Extiende su jurisdicción a los Partidos Judiciales 5 y 12. |
+| Torrent. | 1 |  | Extiende su jurisdicción a los Partidos Judiciales 4 y 18. |
+| Total. | 12 | 4 |  |
+| Total Comunidad Autónoma. | 27 | 9 |  |
+| **Comunidad Autónoma de Extremadura.** |  |  |  |
+| Badajoz. | 2 |  | Extiende su jurisdicción a los Partidos Judiciales 13 y 6. |
+| Mérida. | 1 |  | Extiende su jurisdicción a los Partidos Judiciales 11, 1, 9, 2, 14, 10, 8, 7, 12 y 3. |
+| Total. | 3 | 0 |  |
+| Cáceres. | 2 |  | Extiende su jurisdicción a los Partidos Judiciales 1, 2, 3, 4, 5, 6 y 7. |
+| Total. | 2 | 0 |  |
+| Total Comunidad Autónoma. | 5 | 0 |  |
+| **Comunidad Autónoma de Galicia.** |  |  |  |
+| A Coruña. | 2 |  | Ámbito Partido Judicial. |
+| Betanzos. |  | 1 | Ámbito Partido Judicial. |
+| Carballo. |  | 1 | Ámbito Partido Judicial. |
+| Corcubión. |  | 1 | Ámbito Partido Judicial. |
+| Ferrol. |  | 1 | Ámbito Partido Judicial. |
+| Ortigueira. |  | 1 | Ámbito Partido Judicial. |
+| Santiago de Compostela. | 1 |  | Extiende su jurisdicción a los Partidos Judiciales 5, 8, 10, 11,12, 13 y 14. |
+| Total. | 3 | 5 |  |
+| Lugo. |  | 1 | Ámbito Partido Judicial. |
+| A Fonsagrada. |  | 1 | Ámbito Partido Judicial. |
+| Becerreá. |  | 1 | Ámbito Partido Judicial. |
+| Chantada. |  | 1 | Ámbito Partido Judicial. |
+| Mondoñedo. |  | 1 | Ámbito Partido Judicial. |
+| Monforte de Lemos. |  | 1 | Ámbito Partido Judicial. |
+| Sarria. |  | 1 | Ámbito Partido Judicial. |
+| Vilalba. |  | 1 | Ámbito Partido Judicial. |
+| Viveiro. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 0 | 9 |  |
+| Ourense. | 1 |  | Extiende su jurisdicción a los Partidos Judiciales 5, 7, 3, 2, 9 y 8. |
+| A Pobra de Trives. |  | 1 | Ámbito Partido Judicial. |
+| O Barco de Valdeorras. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 1 | 2 |  |
+| Pontevedra. |  | 1 | Ámbito Partido Judicial. |
+| A Estrada. |  | 1 | Ámbito Partido Judicial. |
+| Caldas de Reis. |  | 1 | Ámbito Partido Judicial. |
+| Cambados. |  | 1 | Ámbito Partido Judicial. |
+| Cangas. |  | 1 | Ámbito Partido Judicial. |
+| Lalín. |  | 1 | Ámbito Partido Judicial. |
+| Marín. |  | 1 | Ámbito Partido Judicial. |
+| O Porriño. |  | 1 | Ámbito Partido Judicial. |
+| Ponteareas. |  | 1 | Ámbito Partido Judicial. |
+| Redondela. |  | 1 | Ámbito Partido Judicial. |
+| Tui. |  | 1 | Ámbito Partido Judicial. |
+| Vigo. | 2 |  | Ámbito Partido Judicial. |
+| Vilagarcía de Arousa. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 2 | 12 |  |
+| Total Comunidad Autónoma. | 6 | 28 |  |
+| **Comunidad de Madrid.** |  |  |  |
+| Madrid. | 14 |  | Ámbito Partido Judicial. |
+| Alcalá de Henares. | 2 |  | Ámbito Partido Judicial. |
+| Alcobendas. | 1 |  | Ámbito Partido Judicial. |
+| Alcorcón. | 1 |  | Ámbito Partido Judicial. |
+| Aranjuez. |  | 1 | Ámbito Partido Judicial. |
+| Arganda del Rey. | 2 |  | Ámbito Partido Judicial. |
+| Collado Villalba. | 1 |  | Ámbito Partido Judicial. |
+| Colmenar Viejo. |  | 1 | Ámbito Partido Judicial. |
+| Coslada. | 1 |  | Ámbito Partido Judicial. |
+| Fuenlabrada. | 1 |  | Ámbito Partido Judicial. |
+| Getafe. | 1 |  | Ámbito Partido Judicial. |
+| Leganés. | 1 |  | Ámbito Partido Judicial. |
+| Majadahonda. |  | 1 | Ámbito Partido Judicial. |
+| Móstoles. | 2 |  | Ámbito Partido Judicial. |
+| Navalcarnero. |  | 1 | Ámbito Partido Judicial. |
+| Parla. | 1 |  | Ámbito Partido Judicial. |
+| Pozuelo de Alarcón. |  | 1 | Ámbito Partido Judicial. |
+| San Lorenzo de El Escorial. |  | 1 | Ámbito Partido Judicial. |
+| Torrejón de Ardoz. | 1 |  | Ámbito Partido Judicial. |
+| Torrelaguna. |  | 1 | Ámbito Partido Judicial. |
+| Valdemoro. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 29 | 8 |  |
+| Total Comunidad Autónoma. | 29 | 8 |  |
+| **Comunidad Autónoma de la Región de Murcia.** |  |  |  |
+| Murcia. | 3 |  | Ámbito Partido Judicial. |
+| Caravaca de la Cruz. |  | 1 | Ámbito Partido Judicial. |
+| Cartagena. | 2 |  | Ámbito Partido Judicial. |
+| Cieza. |  | 1 | Ámbito Partido Judicial. |
+| Jumilla. |  | 1 | Ámbito Partido Judicial. |
+| Lorca. |  | 1 | Ámbito Partido Judicial. |
+| Molina de Segura. |  | 1 | Ámbito Partido Judicial. |
+| Mula. |  | 1 | Ámbito Partido Judicial. |
+| San Javier. |  | 1 | Ámbito Partido Judicial. |
+| Totana. |  | 1 | Ámbito Partido Judicial. |
+| Yecla. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 5 | 9 |  |
+| Total Comunidad Autónoma. | 5 | 9 |  |
+| **Comunidad Foral de Navarra.** |  |  |  |
+| Pamplona/Iruña. | 2 |  | Ámbito Partido Judicial. |
+| Estella/Lizarra. |  | 1 | Ámbito Partido Judicial. |
+| Tafalla. |  | 1 | Ámbito Partido Judicial. |
+| Tudela. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 2 | 3 |  |
+| Total Comunidad Autónoma. | 2 | 3 |  |
+| **Comunidad Autónoma del País Vasco.** |  |  |  |
+| Vitoria-Gasteiz. | 1 |  | Ámbito Partido Judicial. |
+| Amurrio. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 1 | 1 |  |
+| Donostia-San Sebastián. | 1 |  | Ámbito Partido Judicial. |
+| Azpeitia. |  | 1 | Ámbito Partido Judicial. |
+| Bergara. |  | 1 | Ámbito Partido Judicial. |
+| Éibar. |  | 1 | Ámbito Partido Judicial. |
+| Irún. |  | 1 | Ámbito Partido Judicial. |
+| Tolosa. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 1 | 5 |  |
+| Bilbao. | 2 |  | Ámbito Partido Judicial. |
+| Balmaseda. |  | 1 | Ámbito Partido Judicial. |
+| Barakaldo. | 2 |  | Ámbito Partido Judicial. |
+| Durango. |  | 1 | Ámbito Partido Judicial. |
+| Gernika-Lumo. |  | 1 | Ámbito Partido Judicial. |
+| Getxo. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 4 | 4 |  |
+| Total Comunidad Autónoma. | 6 | 10 |  |
+| **Comunidad Autónoma de La Rioja.** |  |  |  |
+| Logroño. | 1 |  | Ámbito Partido Judicial. |
+| Calahorra. |  | 1 | Ámbito Partido Judicial. |
+| Haro. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 1 | 2 |  |
+| Total Comunidad Autónoma. | 1 | 2 |  |
+| **Ciudad de Ceuta.** |  |  |  |
+| Ceuta. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 0 | 1 |  |
+| Total Ciudad Autónoma. | 0 | 1 |  |
+| **Ciudad de Melilla.** |  |  |  |
+| Melilla. |  | 1 | Ámbito Partido Judicial. |
+| Total. | 0 | 1 |  |
+| Total Ciudad Autónoma. | 0 | 1 |  |
+| Total Nacional. | 171 | 256 | » |
+
+## ANEXO II — Plantilla del Ministerio Fiscal
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 560/2026, de 8 de julio. [Ref. BOE-A-2026-14879](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14879)

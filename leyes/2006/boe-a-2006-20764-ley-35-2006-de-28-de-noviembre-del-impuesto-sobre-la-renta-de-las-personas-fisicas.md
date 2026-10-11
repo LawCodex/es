@@ -420,12 +420,6 @@ b) Las personas físicas que tuviesen su residencia habitual en el extranjero po
 
 3\. No tendrán la consideración de contribuyente las sociedades civiles no sujetas al Impuesto sobre Sociedades, herencias yacentes, comunidades de bienes y demás entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria. Las rentas correspondientes a las mismas se atribuirán a los socios, herederos, comuneros o partícipes, respectivamente, de acuerdo con lo establecido en la Sección 2.ª del Título X de esta Ley.
 
-> Téngase en cuenta que esta redacción del apartado 3, establecida por el art. 1.6 de la Ley 26/2014, de 27 de noviembre, [Ref. BOE-A-2014-12327](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12327). entra en vigor el 1 de enero de 2016, según establece la disposición final 6.b) de la citada Ley.
-
-> Redacción anterior:
-
-> "No tendrán la consideración de contribuyente las sociedades civiles, tengan o no personalidad jurídica, herencias yacentes, comunidades de bienes y demás entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria. Las rentas correspondientes a las mismas se atribuirán a los socios, herederos, comuneros o partícipes, respectivamente, de acuerdo con lo establecido en la sección 2.ª del Título X de esta Ley."
-
 > Se modifica el apartado 3 por el art. 1.6 de la Ley 26/2014, de 27 de noviembre. [Ref. BOE-A-2014-12327](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12327).
 
 > Esta modificación entra en vigor el 1 de enero de 2016, según establece la disposición final 6.b).
@@ -1170,12 +1164,6 @@ b) En los casos en que el contribuyente afecte parcialmente su vivienda habitual
 
 c) Los gastos de manutención del propio contribuyente incurridos en el desarrollo de la actividad económica, siempre que se produzcan en establecimientos de restauración y hostelería y se abonen utilizando cualquier medio electrónico de pago, con los límites cuantitativos establecidos reglamentariamente para las dietas y asignaciones para gastos normales de manutención de los trabajadores.
 
-> Téngase en cuenta que esta última actualización de la regla 5ª del apartado 2, establecida por el art. 11 de la Ley 6/2017, de 24 de octubre. [Ref. BOE-A-2017-12207](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207) entra en vigor el 1 de enero de 2018, según determina la disposición final 13 a) de la citada ley.
-
-> Redacción anterior:
-
-> "5.ª Tendrán la consideración de gasto deducible para la determinación del rendimiento neto en estimación directa, las primas de seguro de enfermedad satisfechas por el contribuyente en la parte correspondiente a su propia cobertura y a la de su cónyuge e hijos menores de veinticinco años que convivan con él. El límite máximo de deducción será de 500 euros por cada una de las personas señaladas anteriormente o de 1.500 euros por cada una de ellas con discapacidad."
-
 > Se modifica la regla 5ª del apartado 2, con efectos de 1 de enero de 2018, por el art. 11 de la Ley 6/2017, de 24 de octubre. [Ref. BOE-A-2017-12207](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207)
 
 > Se modifica la regla 5ª del apartado 2, con efectos de 1 de enero de 2016, por el art. 60.1 de la Ley 48/2015, de 29 de octubre. [Ref. BOE-A-2015-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11644).
@@ -1227,60 +1215,6 @@ d) Que las actividades económicas sean desarrolladas, total o parcialmente, fue
 4.ª El ámbito de aplicación del método de estimación objetiva se fijará, entre otros extremos, bien por la naturaleza de las actividades y cultivos, bien por módulos objetivos como el volumen de operaciones, el número de trabajadores, el importe de las compras, la superficie de las explotaciones o los activos fijos utilizados, con los límites que se determinen reglamentariamente para el conjunto de actividades desarrolladas por el contribuyente y, en su caso, por el cónyuge, descendientes y ascendientes, así como por entidades en régimen de atribución de rentas en las que participen cualquiera de los anteriores.
 
 5.ª En los supuestos de renuncia o exclusión de la estimación objetiva, el contribuyente determinará el rendimiento neto de todas sus actividades económicas por el método de estimación directa durante los tres años siguientes, en las condiciones que reglamentariamente se establezcan.
-
-> Téngase en cuenta que esta redacción del apartado 1 establecida por el art. 1.18 de la Ley 26/2014, de 27 de noviembre. [Ref. BOE-A-2014-12327](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12327). entra en vigor el 1 de enero de 2016, según establece la disposición final 6.b) de la citada Ley.
-
-> Redacción anterior:
-
-> "1. El método de estimación objetiva de rendimientos para determinadas actividades económicas se aplicará, en los términos que reglamentariamente se establezcan, con arreglo a las siguientes normas:
-
-> 1.ª Los contribuyentes que reúnan las circunstancias previstas en las normas reguladoras de este método determinarán sus rendimientos conforme al mismo, salvo que renuncien a su aplicación, en los términos que reglamentariamente se establezcan.
-
-> 2.ª El método de estimación objetiva se aplicará conjuntamente con los regímenes especiales establecidos en el Impuesto sobre el Valor Añadido o en el Impuesto General Indirecto Canario, cuando así se determine reglamentariamente.
-
-> 3.ª Este método no podrá aplicarse por los contribuyentes cuando concurra cualquiera de las siguientes circunstancias, en las condiciones que se establezcan reglamentariamente:
-
-> a) Que determinen el rendimiento neto de alguna actividad económica por el método de estimación directa.
-
-> b) Que el volumen de rendimientos íntegros en el año inmediato anterior supere cualquiera de los siguientes importes:
-
-> Para el conjunto de sus actividades económicas, 450.000 euros anuales.
-
-> Para el conjunto de sus actividades agrícolas y ganaderas, 300.000 euros anuales.
-
-> Para el conjunto de sus actividades clasificadas en la división 7 de la sección primera de las Tarifas del Impuesto sobre Actividades Económicas a las que sea de aplicación lo dispuesto en la letra d) del apartado 5 del artículo 101 de esta Ley, 300.000 euros anuales.
-
-> A estos efectos, solo se computarán las operaciones que deban anotarse en el Libro registro de ventas o ingresos previsto en el artículo 68.7 del Reglamento de este Impuesto, o en el libro registro de ingresos previsto en el artículo 40.1 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre, y las operaciones por las que estén obligados a emitir y conservar facturas, de acuerdo con lo dispuesto en el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
-
-> No obstante, deberán computarse no solo las operaciones correspondientes a las actividades económicas desarrolladas por el contribuyente, sino también las correspondientes a las desarrolladas por el cónyuge, descendientes y ascendientes, así como por entidades en régimen de atribución de rentas en las que participen cualquiera de los anteriores, en las que concurran las siguientes circunstancias:
-
-> – Que las actividades económicas desarrolladas sean idénticas o similares. A estos efectos, se entenderán que son idénticas o similares las actividades económicas clasificadas en el mismo grupo en el Impuesto sobre Actividades Económicas.
-
-> – Que exista una dirección común de tales actividades, compartiéndose medios personales o materiales.
-
-> Cuando en el año inmediato anterior se hubiese iniciado una actividad, el volumen de ingresos se elevará al año.
-
-> c) Que el volumen de las compras en bienes y servicios, excluidas las adquisiciones de inmovilizado, en el ejercicio anterior supere la cantidad de 300.000 euros anuales. En el supuesto de obras o servicios subcontratados, el importe de los mismos se tendrá en cuenta para el cálculo de este límite.
-
-> A estos efectos, deberán computarse no solo el volumen de compras correspondientes a las actividades económicas desarrolladas por el contribuyente, sino también las correspondientes a las desarrolladas por el cónyuge, descendientes y ascendientes, así como por entidades en régimen de atribución de rentas en las que participen cualquiera de los anteriores, en las que concurran las circunstancias señaladas en la letra b) anterior.
-
-> Cuando en el año inmediato anterior se hubiese iniciado una actividad, el volumen de compras se elevará al año.
-
-> d) Que las actividades económicas sean desarrolladas, total o parcialmente, fuera del ámbito de aplicación del Impuesto al que se refiere el artículo 4 de esta Ley.
-
-> e) Tratándose de contribuyentes que ejerzan las actividades a que se refiere la letra d) del apartado 5 del artículo 101 de esta Ley, cuando el volumen de los rendimientos íntegros del año inmediato anterior correspondiente a dichas actividades que proceda de las personas o entidades previstas en el artículo 99.2 de esta Ley supere cualquiera de las siguientes cantidades:
-
-> a´) 50.000 euros anuales, siempre que además represente más del 50 por 100 del volumen total de rendimientos íntegros correspondiente a las citadas actividades.
-
-> b´) 225.000 euros anuales.
-
-> Lo dispuesto en esta letra e) no será de aplicación respecto de las actividades incluidas en la división 7 de la sección primera de las Tarifas del Impuesto sobre Actividades Económicas.
-
-> Cuando en el año inmediato anterior se hubiese iniciado una actividad, el volumen de rendimientos íntegros se elevará al año.
-
-> 4.ª El ámbito de aplicación del método de estimación objetiva se fijará, entre otros extremos, bien por la naturaleza de las actividades y cultivos, bien por módulos objetivos como el volumen de operaciones, el número de trabajadores, el importe de las compras, la superficie de las explotaciones o los activos fijos utilizados, con los límites que se determinen reglamentariamente para el conjunto de actividades desarrolladas por el contribuyente y, en su caso, por el cónyuge, descendientes y ascendientes, así como por entidades en régimen de atribución de rentas en las que participen cualquiera de los anteriores.
-
-> 5.ª En los supuestos de renuncia o exclusión de la estimación objetiva, el contribuyente determinará el rendimiento neto de todas sus actividades económicas por el método de estimación directa durante los tres años siguientes, en las condiciones que reglamentariamente se establezcan."
 
 2\. El cálculo del rendimiento neto en la estimación objetiva se regulará por lo establecido en este artículo y las disposiciones que lo desarrollen.
 
@@ -1518,18 +1452,6 @@ El importe obtenido por la transmisión de derechos de suscripción procedentes 
 
 Cuando se trate de acciones parcialmente liberadas, su valor de adquisición será el importe realmente satisfecho por el contribuyente. Cuando se trate de acciones totalmente liberadas, el valor de adquisición tanto de éstas como de las que procedan resultará de repartir el coste total entre el número de títulos, tanto los antiguos como los liberados que correspondan.
 
-> Téngase en cuenta que esta redacción de la letra a) establecida por el art. 1.22 de la Ley 26/2014, de 27 de noviembre. [Ref. BOE-A-2014-12327](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12327). entra en vigor el 1 de enero de 2017, según establece la disposición final 6 de la citada Ley.
-
-> Redacción anterior:
-
-> "a) De la transmisión a título oneroso de valores admitidos a negociación en alguno de los mercados regulados de valores definidos en la Directiva 2004/39/CE del Parlamento Europeo y del Consejo de 21 de abril de 2004 relativa a los mercados de instrumentos financieros, y representativos de la participación en fondos propios de sociedades o entidades, la ganancia o pérdida se computará por la diferencia entre su valor de adquisición y el valor de transmisión, determinado por su cotización en dichos mercados en la fecha en que se produzca aquélla o por el precio pactado cuando sea superior a la cotización.
-
-> Para la determinación del valor de adquisición se deducirá el importe obtenido por la transmisión de los derechos de suscripción.
-
-> No obstante lo dispuesto en el párrafo anterior, si el importe obtenido en la transmisión de los derechos de suscripción llegara a ser superior al valor de adquisición de los valores de los cuales procedan tales derechos, la diferencia tendrá la consideración de ganancia patrimonial para el transmitente, en el período impositivo en que se produzca la transmisión.
-
-> Cuando se trate de acciones parcialmente liberadas, su valor de adquisición será el importe realmente satisfecho por el contribuyente. Cuando se trate de acciones totalmente liberadas, el valor de adquisición tanto de éstas como de las que procedan resultará de repartir el coste total entre el número de títulos, tanto los antiguos como los liberados que correspondan."
-
 b) De la transmisión a título oneroso de valores no admitidos a negociación en alguno de los mercados regulados de valores definidos en la Directiva 2004/39/CE del Parlamento Europeo y del Consejo, de 21 de abril de 2004, relativa a los mercados de instrumentos financieros, y representativos de la participación en fondos propios de sociedades o entidades, la ganancia o pérdida se computará por la diferencia entre su valor de adquisición y el valor de transmisión.
 
 Salvo prueba de que el importe efectivamente satisfecho se corresponde con el que habrían convenido partes independientes en condiciones normales de mercado, el valor de transmisión no podrá ser inferior al mayor de los dos siguientes:
@@ -1598,25 +1520,9 @@ n) En las transmisiones de elementos patrimoniales afectos a actividades económ
 
 Cuando se trate de acciones totalmente liberadas, se considerará como antigüedad de las mismas la que corresponda a las acciones de las cuales procedan.
 
-> Téngase en cuenta que esta redacción del apartado 2 establecida por el art. 1.22 de la Ley 26/2014, de 27 de noviembre. [Ref. BOE-A-2014-12327](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12327). entra en vigor el 1 de enero de 2017, según establece la disposición final 6 de la citada Ley.
-
-> Redacción anterior:
-
-> "2. A efectos de lo dispuesto en los párrafos a), b) y c) del apartado anterior, cuando existan valores homogéneos se considerará que los transmitidos por el contribuyente son aquéllos que adquirió en primer lugar. Asimismo, cuando no se transmita la totalidad de los derechos de suscripción, se entenderá que los transmitidos corresponden a los valores adquiridos en primer lugar.
-
-> Cuando se trate de acciones totalmente liberadas, se considerará como antigüedad de las mismas la que corresponda a las acciones de las cuales procedan."
-
 3\. Lo dispuesto en los párrafos d), e) y h), para el canje de valores, del apartado 1 de este artículo se entenderá sin perjuicio de lo establecido en el capítulo VIII del título VII del texto refundido de la Ley del Impuesto sobre Sociedades.
 
 4\. **(Suprimido)**
-
-> Téngase en cuenta que la supresión del apartado 4 establecida por el art. 1.23 de la Ley 26/2014, de 27 de noviembre. [Ref. BOE-A-2014-12327](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12327). entra en vigor el 1 de enero de 2017, según establece la disposición final 6 de la citada Ley.
-
-> Redacción anterior:
-
-> "4. El importe obtenido por la transmisión de derechos de suscripción preferente resultantes de ampliaciones de capital realizadas con objeto de incrementar el grado de difusión de las acciones de una sociedad con carácter previo a su admisión a negociación en alguno de los mercados secundarios oficiales de valores previstos en la Ley 24/1988, de 28 de julio, del Mercado de Valores, seguirá el régimen previsto en el párrafo a) del apartado 1 de este artículo.
-
-> La no presentación de la solicitud de admisión en el plazo de dos meses, a contar desde que tenga lugar la ampliación de capital, la retirada de la citada solicitud de admisión, la denegación de la admisión o la exclusión de la negociación antes de haber transcurrido dos años del comienzo de la misma, determinarán la tributación del total importe obtenido por la transmisión de los derechos de suscripción, de acuerdo con el régimen previsto en el párrafo b) del apartado 1 de este artículo."
 
 > Se modifican las letras a), b) y c) del apartado 1 y el apartado 2 y se suprime el apartado 4 por el art. 1.22 y 23 de la Ley 26/2014, de 27 de noviembre. [Ref. BOE-A-2014-12327](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12327).
 
@@ -3741,20 +3647,6 @@ Los fondos de pensiones domiciliados en otro Estado miembro de la Unión Europea
 
 En ningún caso estarán obligadas a practicar retención o ingreso a cuenta las misiones diplomáticas u oficinas consulares en España de Estados extranjeros.
 
-> Téngase en cuenta que la modificación del apartado 2 establecida por la disposición adicional 11.1 de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897). entrará en vigor el 1 de enero de 2016, según se establece en su disposición final 21.
-
-> Redacción anterior:
-
-> 2\. Las entidades y las personas jurídicas, incluidas las entidades en atribución de rentas, que satisfagan o abonen rentas sujetas a este impuesto, estarán obligadas a practicar retención e ingreso a cuenta, en concepto de pago a cuenta del Impuesto sobre la Renta de las Personas Físicas correspondiente al perceptor, en la cantidad que se determine reglamentariamente y a ingresar su importe en el Tesoro en los casos y en la forma que se establezcan. Estarán sujetos a las mismas obligaciones los contribuyentes por este impuesto que ejerzan actividades económicas respecto a las rentas que satisfagan o abonen en el ejercicio de dichas actividades, así como las personas físicas, jurídicas y demás entidades no residentes en territorio español, que operen en él mediante establecimiento permanente, o sin establecimiento permanente respecto a los rendimientos del trabajo que satisfagan, así como respecto de otros rendimientos sometidos a retención o ingreso a cuenta que constituyan gasto deducible para la obtención de las rentas a que se refiere el apartado 2 del artículo 24 del texto refundido de la Ley del Impuesto sobre la Renta de no Residentes.
-
-> Cuando una entidad, residente o no residente, satisfaga o abone rendimientos del trabajo a contribuyentes que presten sus servicios a una entidad residente vinculada con aquélla en los términos previstos en el artículo 16 del texto refundido de la Ley del Impuesto sobre Sociedades o a un establecimiento permanente radicado en territorio español, la entidad o el establecimiento permanente en el que preste sus servicios el contribuyente, deberá efectuar la retención o el ingreso a cuenta.
-
-> El representante designado de acuerdo con lo dispuesto en el artículo 86.1 del texto refundido de la Ley de ordenación y supervisión de los seguros privados, que actúe en nombre de la entidad aseguradora que opere en régimen de libre prestación de servicios, deberá practicar retención e ingreso a cuenta en relación con las operaciones que se realicen en España.
-
-> Los fondos de pensiones domiciliados en otro Estado miembro de la Unión Europea que desarrollen en España planes de pensiones de empleo sujetos a la legislación española, conforme a lo previsto en la Directiva 2003/41/CE del Parlamento Europeo y del Consejo, de 3 de junio de 2003, relativa a las actividades y la supervisión de fondos de pensiones de empleo, estarán obligados a designar un representante con residencia fiscal en España para que les representante a efectos de las obligaciones tributarias. Este representante deberá practicar retención e ingreso a cuenta en relación con las operaciones que se realicen en España.
-
-> En ningún caso estarán obligadas a practicar retención o ingreso a cuenta las misiones diplomáticas u oficinas consulares en España de Estados extranjeros.
-
 3\. No se someterán a retención los rendimientos derivados de las letras del Tesoro y de la transmisión, canje o amortización de los valores de deuda pública que con anterioridad al 1 de enero de 1999 no estuvieran sujetas a retención. Reglamentariamente podrán excepcionarse de la retención o del ingreso a cuenta determinadas rentas.
 
 Tampoco estará sujeto a retención o ingreso a cuenta el rendimiento derivado de la distribución de la prima de emisión de acciones o participaciones, o de la reducción de capital. Reglamentariamente podrá establecerse la obligación de practicar retención o ingreso a cuenta en estos supuestos.
@@ -3800,14 +3692,6 @@ De acuerdo con el procedimiento que reglamentariamente se establezca, la Adminis
 Reglamentariamente podrá establecerse la obligación de efectuar pagos a cuenta a cargo del transmitente de acciones y participaciones de instituciones de inversión colectiva, con el límite del 20 por ciento de la renta obtenida en las citadas transmisiones.
 
 En las transmisiones de derechos de suscripción, estarán obligados a retener o ingresar a cuenta por este Impuesto, la entidad depositaria y, en su defecto, el intermediario financiero o el fedatario público que haya intervenido en la transmisión.
-
-> Téngase en cuenta que esta redacción del apartado 1 establecida por el art. 1.64 de la Ley 26/2014, de 27 de noviembre. [Ref. BOE-A-2014-12327](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12327). entra en vigor el 1 de enero de 2017, según establece la disposición final 6.c) de la citada Ley.
-
-> Redacción anterior:
-
-> "1. En las transmisiones o reembolsos de acciones o participaciones representativas del capital o patrimonio de las instituciones de inversión colectiva estarán obligadas a practicar retención o ingreso a cuenta por este Impuesto, en los casos y en la forma que reglamentariamente se establezca, las entidades gestoras, administradoras, depositarias, comercializadoras o cualquier otra encargada de las operaciones mencionadas, así como el representante designado de acuerdo con lo dispuesto en el artículo 55.7 y la disposición adicional segunda de la Ley 35/2003, de 4 de noviembre, de instituciones de inversión colectiva, que actúe en nombre de la gestora que opere en régimen de libre prestación de servicios.
-
-> Reglamentariamente podrá establecerse la obligación de efectuar pagos a cuenta a cargo del transmitente de acciones y participaciones de instituciones de inversión colectiva, con el límite del 20 por ciento de la renta obtenida en las citadas transmisiones."
 
 2\. A los efectos de la obligación de retener sobre los rendimientos implícitos del capital mobiliario, a cuenta de este Impuesto, esta retención se efectuará por las siguientes personas o entidades:
 
@@ -4011,14 +3895,6 @@ f) Para las entidades que distribuyan prima de emisión o reduzcan capital con d
 g) Para las entidades aseguradoras domiciliadas en otro Estado miembro del Espacio Económico Europeo que operen en España en régimen de libre prestación de servicios, en relación con las operaciones que se realicen en España.
 
 h) Para las entidades previstas en el penúltimo párrafo del apartado 2 del artículo 99 de esta Ley, en relación con las operaciones que se realicen en España.
-
-> Téngase en cuenta que la modificación de las letras g) y h) del apartado 2, establecidas por la disposición final 11.2 de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897)., según se establece en su disposición final 21.
-
-> Redacción anterior:
-
-> g) Para el representante designado de acuerdo con lo dispuesto en el artículo 86.1 del texto refundido de la Ley de ordenación y supervisión de los seguros privados, que actúe en nombre de la entidad aseguradora que opere en régimen de libre prestación de servicios, en relación con las operaciones que se realicen en España.
-
-> h) Para el representante previsto en el penúltimo párrafo del apartado 2 del artículo 99 de esta Ley, en relación con las operaciones que se realicen en España. Dicho representante estará sujeto en todo caso a las mismas obligaciones de información tributaria que las que se recogen para las entidades gestoras de los fondos de pensiones en el Reglamento de Planes y Fondos de Pensiones aprobado por Real Decreto 1307/1988, de 30 de septiembre.
 
 > Se modifican los apartados 2.g) y h) por la disposición final 11.2 de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897).
 
@@ -5963,14 +5839,6 @@ Si el resultado fuese positivo, el valor de adquisición de cada uno de los rest
 
 En caso contrario, la sociedad civil tendrá la consideración de contribuyente del Impuesto sobre Sociedades desde 1 de enero de 2016 y no resultará de aplicación el citado régimen de atribución de rentas.
 
-> Téngase en cuenta que esta redacción, establecida por el art. 1.91 de la Ley 26/2014, de 27 de noviembre, [Ref. BOE-A-2014-12327](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12327). entra en vigor el 1 de enero de 2016, según establece la disposición final 6.b) de la citada Ley.
-
-> Redacción anterior:
-
-> Disposición transitoria decimonovena. Reducción por arrendamientos procedentes de contratos anteriores a 1 de enero de 2011.
-
-> A efectos de la aplicación de la reducción del 100 por 100 prevista en el número 2.º del artículo 23.2 de esta Ley, la edad del arrendatario se ampliará hasta la fecha en que cumpla 35 años cuando el contrato de arrendamiento se hubiera celebrado con anterioridad a 1 de enero de 2011 con dicho arrendatario.
-
 > Se modifica por el art. 1.91 de la Ley 26/2014, de 27 de noviembre. [Ref. BOE-A-2014-12327](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12327).
 
 > Esta modificación entra en vigor el 1 de enero de 2016, según establece la disposición final 6.b).
@@ -6014,8 +5882,6 @@ Sin perjuicio de lo establecido en la disposición derogatoria segunda de esta L
 El porcentaje de retención o ingreso a cuenta aplicable a los rendimientos previstos en el apartado 3 y en la letra a) del apartado 5, ambos del artículo 101 de esta Ley, satisfechos o abonados hasta el 31 de agosto de 2012, será el previsto en dicho artículo, en su redacción vigente a 1 de enero de 2012.
 
 El porcentaje de retención o ingreso a cuenta aplicable a dichos rendimientos que se satisfagan a abonen a partir de 1 de septiembre de 2012 será el previsto en el primer párrafo del apartado 4 de la disposición adicional trigésima quinta de esta Ley, salvo en el supuesto en el que resulte de aplicación el porcentaje del 9 por ciento previsto en el segundo párrafo de la letra a) del apartado 5 del artículo 101 de esta Ley.
-
-> **Atención:** esta disposición surte efectos desde el 1-9-2012.
 
 > Se modifica la denominación por el art. 64.2 de la Ley 22/2013, de 23 de diciembre. [Ref. BOE-A-2013-13616](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13616).
 
@@ -6074,8 +5940,6 @@ Para la determinación del valor de adquisición de los valores a que se refiere
 1\. Los contribuyentes de este Impuesto que sean socios de sociedades civiles, a las que hubiese resultado de aplicación el régimen de atribución de rentas previsto en la Sección 2.ª del Título X de la esta Ley y adquieran la condición de contribuyentes del Impuesto sobre Sociedades, podrán seguir aplicando las deducciones en la cuota íntegra previstas en el artículo 68.2 de esta Ley que estuviesen pendientes de aplicación a 1 de enero de 2016 en los términos previstos en el artículo 69 de esta Ley, siempre que se cumplan las condiciones y requisitos establecidos en la Ley del Impuesto sobre Sociedades.
 
 2\. En lo que afecte a los contribuyentes de este Impuesto, será de aplicación lo dispuesto en la disposición transitoria trigésima segunda de la Ley del Impuesto sobre Sociedades.
-
-> Téngase en cuenta que esta disposición, añadida por el art. 1.96 de la Ley 26/2014, de 27 de noviembre, [Ref. BOE-A-2014-12327](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12327). entra en vigor el 1 de enero de 2016, según establece la disposición final 6.b) de la citada Ley.
 
 > Se añade por el art. 1.96 de la Ley 26/2014, de 27 de noviembre. [Ref. BOE-A-2014-12327](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12327).
 

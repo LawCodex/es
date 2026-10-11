@@ -1,0 +1,453 @@
+---
+title: "Real Decreto 623/2014, de 18 de julio, por el que se regula la investigación de los accidentes e incidentes ferroviarios y la Comisión de Investigación de Accidentes Ferroviarios"
+identifier: "BOE-A-2014-7651"
+eli: "https://www.boe.es/eli/es/rd/2014/07/18/623"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2014-07-18
+published: 2014-07-19
+in_force_from: 2014-07-20
+last_amended: 2026-02-27
+consolidated: 2026-02-27
+gazette: "Boletín Oficial del Estado núm. 175"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-7651"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 623/2014, de 18 de julio, por el que se regula la investigación de los accidentes e incidentes ferroviarios y la Comisión de Investigación de Accidentes Ferroviarios
+
+Desde el año 1991, la necesidad de convertir al ferrocarril en un modo de transporte competitivo y de abrir los mercados ferroviarios nacionales al transporte internacional de mercancías realizado por las empresas ferroviarias establecidas en cualquier Estado miembro de la Unión Europea, hizo preciso aprobar un conjunto de Directivas dirigidas a dinamizar el sector ferroviario europeo.
+
+Con objeto de llevar a cabo la transposición de dichas Directivas al ordenamiento español se aprobó la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, que, adicionalmente, buscó reordenar por completo el sector ferroviario estatal y sentar las bases que permitieran la progresiva entrada de nuevos actores en este mercado y, entre otros aspectos, clarificar el régimen jurídico aplicable al transporte ferroviario con el fin de aportar seguridad jurídica a los usuarios. A estos efectos, dicha ley determina el derecho a acceder al servicio de transporte, en las adecuadas condiciones de calidad y de seguridad, sujetando a las empresas ferroviarias a la obtención del correspondiente certificado de seguridad que se otorgará por el Ministerio de Fomento o por el ente que éste determine. Particularmente, la ley aprobada preveía la posibilidad de crear, si así se estableciere en la normativa comunitaria, un órgano administrativo específico que tenga por finalidad el otorgamiento de los referidos certificados y, en su caso, otro que tenga por objeto la investigación de accidentes.
+
+Así, fue la Directiva 2004/49/CE del Parlamento Europeo y del Consejo, de 29 de abril de 2004, sobre la seguridad de los ferrocarriles comunitarios, y por la que se modifican la Directiva 95/18/CE del Consejo, sobre concesión de licencias a las empresas ferroviarias, y la Directiva 2001/14/CE del Parlamento Europeo y del Consejo, de 26 de febrero, relativa a la adjudicación de capacidad de la infraestructura ferroviaria, aplicación de cánones por su utilización y certificación de seguridad, (Directiva de seguridad ferroviaria), la que definió, entre otros aspectos, unos principios comunes de gestión, regulación y supervisión de la seguridad ferroviaria, obligando a cada Estado miembro al establecimiento de una autoridad responsable en materia de seguridad en la circulación ferroviaria y de un organismo de investigación de accidentes e incidentes ferroviarios.
+
+El Reglamento sobre seguridad en la circulación en la Red Ferroviaria de Interés General, aprobado por el Real Decreto 810/2007, de 22 de junio, incorporó la citada Directiva de Seguridad Ferroviaria a nuestro derecho interno estableciendo, entre otros extremos, un órgano específico, denominado Comisión de Investigación de accidentes ferroviarios, encargado de la investigación de los accidentes ferroviarios graves así como de cualesquiera otros accidentes e incidentes que por su especial naturaleza considere conveniente investigar.
+
+Con objeto de completar dicha transposición y los requisitos fijados por la Comisión Europea, recientemente se han aprobado dos modificaciones de la Ley 39/2003, de 17 de noviembre. La primera, llevada a cabo por el Real Decreto-ley 1/2014, de 24 de enero, de reforma en materia de infraestructuras y transporte, y otras medidas económicas, que introduce una nueva disposición transitoria octava estableciendo que, en tanto no se cree la Agencia Estatal de Seguridad Ferroviaria (prevista en la disposición adicional tercera de la Ley 28/2006, de 18 de julio, de Agencias Estatales para la reforma de los servicios públicos), las funciones de autoridad responsable de la seguridad ferroviaria serán realizadas por los órganos directivos competentes del Ministerio de Fomento. La segunda y más relevante a los efectos del presente real decreto, ha sido llevada a cabo por la Ley 1/2014, de 28 de febrero, para la protección de los trabajadores a tiempo parcial y otras medidas urgentes en el orden económico y social, que incorpora una nueva disposición adicional undécima sobre la Comisión de Investigación de Accidentes uroviarios, su composición, funcionamiento y régimen jurídico.
+
+Por otra parte, en el tiempo transcurrido desde la aprobación del citado Reglamento sobre seguridad en la circulación en la Red Ferroviaria de Interés General, se han producido una serie de modificaciones normativas que afectan tanto a la composición como al funcionamiento de los organismos de investigación correspondientes a los modos marítimo y aéreo con el objeto de mejorar su funcionamiento interno y fortalecer la independencia funcional de sus miembros.
+
+Mediante esta norma se pretende hacer extensibles al ámbito ferroviario las mejoras incorporadas en las citadas normas con el fin de actualizar el procedimiento de investigación de los accidentes e incidentes ferroviarios y perfilar, de un modo más explícito, las funciones correspondientes a los distintos componentes del órgano colegiado que han de realizar su labor de investigación técnica sin ningún tipo de traba o injerencia y, en su caso, en total colaboración con la autoridad judicial.
+
+El presente real decreto se estructura en tres capítulos; consta de 15 artículos, un anexo que recoge el contenido esencial del informe de investigación de accidentes e incidentes ferroviarios, cinco disposiciones adicionales en las que se regulan la dotación de medios materiales y humanos de la Comisión, las investigaciones internas sobre los accidentes e incidentes ferroviarios llevadas a cabo por los administradores de la infraestructura y las empresas ferroviarias, la investigación de los accidentes e incidentes ferroviarios en las infraestructuras de los puertos de interés general y la adecuación de procedimientos; dos disposiciones transitorias, relativas a los expedientes en tramitación y a la renovación del mandato del Presidente y de los vocales; una disposición derogatoria y cinco disposiciones finales relativas a modificaciones normativas, al título competencial, la incorporación del derecho de la Unión Europea y la entrada en vigor de la norma.
+
+En el capítulo I se incluyen las disposiciones generales sobre el objeto, ámbito de aplicación, definiciones y obligación de investigar los accidentes e incidentes ferroviarios por parte de la mencionada Comisión de Investigación.
+
+En el capítulo II, por su parte, se define la estructura interna de la Comisión, el sistema de designación de sus miembros así como su composición y funcionamiento. Además, se adecua su adscripción orgánica a la estructura del Ministerio de Fomento establecida en el Real Decreto 452/2012, de 5 de marzo.
+
+Con el ánimo de fortalecer aún más la independencia de la Comisión se vincula su composición al prestigio y competencia profesional de sus miembros en el sector ferroviario y se elimina la obligatoriedad de que el Secretario sea designado entre funcionarios de carrera al servicio del Ministerio de Fomento. Además, entre las principales novedades introducidas por este real decreto cabe mencionar la regulación de la figura del Vicepresidente, la inclusión explícita del equipo de investigación dentro de la estructura orgánica de la Comisión, la participación del Congreso de los Diputados, en los términos establecidos en la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, en la designación del Presidente y los vocales, la eliminación de la referencia a la edad o a la situación laboral de los vocales de la Comisión, la modificación de la duración del mandato de la misma, que pasa de cuatro a seis años con el fin de reforzar aún más su independencia. De igual modo, se recogen de forma expresa los supuestos de cese en el cargo de los miembros de la Comisión, así como las funciones de su Presidente y su Secretario y se especifica más pormenorizadamente lo relativo tanto al funcionamiento como al procedimiento de emisión de informes y recomendaciones de la Comisión.
+
+Finalmente, en el capítulo III se recoge el procedimiento de investigación donde destaca, en aplicación de lo previsto en el artículo 22.3 de la Directiva de Seguridad Ferroviaria, entre otras modificaciones, la concesión de un plazo de quince días para hacer observaciones a la información relativa a los hechos acaecidos y a las investigaciones efectuadas contenida en el proyecto de informe técnico, con las debidas cautelas en lo que respecta a la protección de datos de carácter personal y a la salvaguarda de los objetivos de la investigación de seguridad.
+
+En su virtud, a propuesta de la Ministra de Fomento, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de julio de 2014,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto y finalidad.
+
+El objeto del presente real decreto es regular la investigación de los accidentes e incidentes ferroviarios y mejorar la seguridad en la Red Ferroviaria de Interés General favoreciendo la prevención de futuros accidentes ferroviarios mediante la realización de las investigaciones técnicas y el análisis de los accidentes e incidentes a fin de determinar sus causas y establecer las medidas correctivas que resulten pertinentes.
+
+Asimismo, es objeto de este real decreto establecer la composición y las reglas de funcionamiento de la Comisión de Investigación de Accidentes Ferroviarios.
+
+### Artículo 2. Ámbito de aplicación.
+
+El presente real decreto se aplicará a la investigación técnica de todos los accidentes ferroviarios graves y de aquellos otros accidentes e incidentes de cuya investigación considere la Comisión de Investigación de Accidentes Ferroviarios que pueden obtenerse conclusiones relevantes para la mejora de la seguridad ferroviaria y la prevención de accidentes.
+
+### Artículo 3. Definiciones.
+
+A los efectos del presente real decreto se entenderá por:
+
+a) Accidente: Todo suceso repentino, no deseado ni intencionado, o una cadena de sucesos de ese tipo, de consecuencias perjudiciales. Los accidentes se dividen en las siguientes categorías: colisiones, descarrilamientos, accidentes en pasos a nivel, daños causados a personas por material rodante en movimiento, incendios y otros.
+
+b) Accidente grave: Cualquier colisión o descarrilamiento de trenes con el resultado, de al menos, una víctima mortal o de cinco o más heridos graves o grandes daños al material rodante, a la infraestructura o al medio ambiente, y cualquier otro accidente similar, con un efecto evidente en la normativa de seguridad ferroviaria o en la gestión de seguridad; por grandes daños se entenderán daños cuyo coste pueda evaluar inmediatamente el organismo de investigación en al menos un total de dos millones de euros.
+
+c) Incidente: Cualquier suceso, distinto de un accidente o un accidente grave, que afecte o pueda afectar a la seguridad de las operaciones ferroviarias.
+
+d) Autoridad responsable de la seguridad: El organismo nacional encargado de las funciones relativas a la seguridad en la circulación ferroviaria o cualquier organismo binacional al que los Estados miembros hayan encomendado dichas funciones para garantizar un régimen unificado de seguridad en relación con la infraestructura transfronteriza especializada.
+
+e) Organismos notificados: Los organismos encargados de evaluar la conformidad o la adecuación al uso de los componentes de interoperabilidad o de tramitar el procedimiento de verificación CE de los subsistemas, según se define en la normativa vigente.
+
+f) Causas: Las acciones, omisiones, sucesos, condiciones, o su combinación, que hayan provocado un accidente o incidente.
+
+g) Investigación: Un proceso que incluye la recogida y análisis de información relativa a los accidentes e incidentes ferroviarios, la elaboración de conclusiones, incluida la determinación de las causas de los mismos y, llegado el caso, la elaboración de recomendaciones en materia de seguridad en la circulación ferroviaria, con objeto de prevenirlos en el futuro.
+
+h) Investigador encargado: La persona encargada de la organización, dirección y control de la investigación de un accidente o incidente ferroviario.
+
+> Se modifican las letras c) y h) por la disposición final 2.1 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+### Artículo 4. Obligación de investigar.
+
+1.La Comisión de Investigación de Accidentes Ferroviarios llevará a cabo una investigación técnica siempre que se produzca un accidente ferroviario grave sobre la Red Ferroviaria de Interés General.
+
+2\. La citada Comisión investigará también los demás accidentes y los incidentes ferroviarios cuando estime que de tal investigación podrán obtenerse conclusiones que permitan mejorar la seguridad ferroviaria.
+
+3\. Las investigaciones de los accidentes e incidentes ferroviarios se llevarán a cabo de acuerdo con lo previsto en este real decreto. La Comisión de Investigación de accidentes ferroviarios establecerá, en su normativa interna, el alcance y los procedimientos que habrán de seguirse en el desarrollo de cada investigación.
+
+4\. La investigación tendrá como finalidad la determinación de las causas del accidente o incidente de que se trate y el esclarecimiento de las circunstancias en las que éste se produjo con el fin de incrementar la seguridad en el transporte ferroviario y favorecer la prevención de accidentes.
+
+5\. En ningún caso la investigación tendrá como objetivo la determinación de la culpa o la responsabilidad del accidente o incidente y será independiente de cualquier investigación judicial.
+
+6\. La investigación de accidentes se realizará con la mayor apertura posible, oyendo a todas las partes y compartiendo los resultados.
+
+> Se modifica el apartado 6 por la disposición final 2.2 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+## CAPÍTULO II — La Comisión de Investigación de Accidentes Ferroviarios
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+### Artículo 5. Naturaleza y adscripción.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+### Artículo 6. Independencia funcional y relación con las entidades públicas y privadas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+### Artículo 7. Funciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+> Se modifica la letra b) y se añade una letra c) por la disposición final 2.3 y 4 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+### Artículo 8. Composición.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+### Artículo 9. Funciones del Presidente.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+> Se modifican las letras e), h) e i) y se añade la letra j) por la disposición final 2.5 y 6 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+### Artículo 10. Funciones del Secretario.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+### Artículo 11. Nombramiento y mandato de los miembros de la Comisión.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+### Artículo 12. Funcionamiento de la Comisión.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+### Artículo 13. Cooperación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 141/2026, de 25 de febrero. [Ref. BOE-A-2026-4518](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4518)
+
+> Se modifica el apartado 4 y se añaden los apartados 6 y 7 por la disposición final 2.7 y 8 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+## CAPÍTULO III — Procedimiento
+
+### Artículo 14. Procedimiento de investigación.
+
+1\. Producido un accidente o incidente en la Red Ferroviaria de Interés General, el administrador de la infraestructura, las empresas ferroviarias que se vieren implicadas y, en su caso, la Agencia Estatal de Seguridad ferroviaria, están obligados a notificarlo a la Comisión de Investigación de Accidentes Ferroviarios, inmediatamente, proporcionando toda la información preliminar de que dispongan. Esta notificación será actualizada periódicamente a lo largo de la investigación, conforme al procedimiento aprobado por la Comisión de Investigación de Accidentes Ferroviarios y atendiendo a los requerimientos del investigador encargado.
+
+2\. En el plazo máximo de siete días naturales desde la recepción de dicha información y, a la vista de la calificación inicial del suceso formulada por el Secretario, el Presidente de la Comisión determinará, en todo caso, la apertura del procedimiento de investigación correspondiente si el siniestro es calificado como accidente ferroviario grave. Si, por el contrario, el siniestro es calificado como accidente o incidente ferroviario, podrá decidir iniciar la investigación si estima que de la misma se pueden obtener conclusiones importantes en materia de seguridad ferroviaria.
+
+3\. Abierta la investigación correspondiente, la Comisión constituirá en su seno un equipo de investigación integrado por el investigador encargado y los investigadores que sean asignados a la misma.
+
+El Presidente de la Comisión designará al investigador encargado entre los investigadores de la Comisión y designará, igualmente, al resto de los integrantes del equipo de investigación que llevarán a cabo cuantos actos consideren necesarios para la debida investigación técnica de los hechos ocurridos. El investigador encargado y los investigadores asignados al equipo deberán ser independientes de cualquier parte cuyos intereses pudieran entrar en conflicto con el cometido que les está confiado.
+
+Para el adecuado desarrollo de las investigaciones la Comisión podrá recurrir a peritos internos o externos, dependiendo de la naturaleza del accidente o incidente de que se trate.
+
+Los investigadores observarán el debido respeto y consideración a los interesados y adoptarán las medidas necesarias para la protección de la intimidad de las personas.
+
+4\. Los funcionarios públicos que ostenten la condición de técnicos investigadores de la Comisión, tanto propios como adscritos, tendrán la consideración de agentes de autoridad cuando actúen en ejercicio de su misión investigadora, de acuerdo con lo previsto en la disposición adicional undécima de la Ley 39/2003, de 17 de noviembre.
+
+5\. Durante la investigación de cada accidente ferroviario, el equipo investigador recabará en el lugar del suceso la máxima información y en el plazo más breve posible, para permitir que el administrador de la infraestructura restablezca cuanto antes la circulación ferroviaria sobre la línea ferroviaria o tramo de la misma afectado.
+
+6\. En el plazo máximo de siete días naturales desde la apertura de la investigación, la Comisión de Investigación de accidentes ferroviarios informará a la Agencia Ferroviaria Europea sobre la misma. Esta información indicará la fecha, la hora y el lugar del suceso, así como su tipo y consecuencias en lo relativo, en su caso, a víctimas mortales, lesiones corporales y daños materiales.
+
+7\. La investigación tendrá en cuenta las necesidades razonables de las víctimas y sus familiares y los mantendrá informados, a través del Secretario, de los avances de la investigación, siempre que ello no perjudique los objetivos de la investigación técnica.
+
+8\. En el caso de que se estuvieran llevando a cabo diligencias judiciales en relación con el accidente o incidente, las previsiones del apartado anterior quedarán supeditadas a lo establecido en la legislación procesal que resulte aplicable.
+
+> Se modifican los apartados 1, 3 y 7 por la disposición final 2.9 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+### Artículo 15. Resultado de la investigación.
+
+1\. El investigador encargado elaborará una propuesta de informe técnico de cada accidente o incidente ferroviario que se adecuará a su importancia y gravedad e incluirá, cuando proceda, recomendaciones de seguridad.
+
+El informe técnico, se ajustará lo máximo posible a la estructura de información que determine la Comisión Europea. En todo caso, deberá incluir los siguientes elementos:
+
+a) La descripción de la incidencia y de su contexto.
+
+b) Las investigaciones y las pesquisas, relacionadas con el accidente o incidente, incluyendo lo relativo al sistema de gestión de la seguridad, las normas y reglamentos aplicables, el funcionamiento del material rodante y de las instalaciones técnicas, la organización de la mano de obra, la documentación sobre el sistema operativo y las incidencias anteriores de carácter similar.
+
+c) Los análisis y las conclusiones relacionados con las causas de las incidencias, incluidos los factores contribuyentes en relación con:
+
+– Las acciones de las personas implicadas.
+
+– La condición del material rodante o de las instalaciones técnicas.
+
+– Sus competencias y procedimientos y mantenimiento.
+
+– Las condiciones del marco normativo.
+
+– La aplicación del sistema de gestión de seguridad.
+
+El informe técnico y sus recomendaciones no prejuzgarán en ningún caso la decisión que pueda recaer en vía judicial, y no perseguirán la evaluación de responsabilidades, ni la determinación de culpabilidades.
+
+2\. Siempre que no perjudique los objetivos de la investigación de seguridad, y se respete la normativa aplicable en materia de protección de datos de carácter personal, el Secretario de la Comisión de Investigación de Accidentes Ferroviarios trasladará al administrador de la infraestructura, a las empresas ferroviarias implicadas, a la Agencia Estatal de Seguridad ferroviaria, a la Agencia Ferroviaria de la Unión Europea, a las víctimas y a sus familiares, a los propietarios de bienes dañados, a los fabricantes, a los servicios de socorro implicados, y a los representantes del personal y de los usuarios, la propuesta de informe técnico, para que, en su caso, faciliten información técnica pertinente para mejorar la calidad del informe de investigación, en el plazo de 15 días.
+
+En el caso de que existan diligencias judiciales sobre el accidente o incidente lo dispuesto en el apartado anterior se supeditará a lo dispuesto en la legislación procesal aplicable.
+
+3\. El Secretario elevará al Pleno la propuesta de informe una vez valoradas por el investigador encargado las observaciones que se hubieran podido presentar de acuerdo con lo previsto en el apartado anterior.
+
+4\. El Pleno valorará el proyecto de informe, así como las observaciones presentadas y aprobará el informe final, especificando las recomendaciones de seguridad definitivas.
+
+5\. La Comisión de Investigación de Accidentes Ferroviarios hará público el informe final en el plazo más breve posible y en principio en el plazo máximo de doce meses desde la fecha del siniestro. Si el informe final no pudiera publicarse en esa fecha, se publicará un informe provisional al menos en cada fecha del aniversario del accidente o incidente, detallando los avances de la investigación y las cuestiones de seguridad planteadas.
+
+El informe final, incluidas las recomendaciones de seguridad, se comunicará a todas las personas y entidades mencionadas en el artículo 15.2. Asimismo, la Comisión de Investigación de Accidentes Ferroviarios remitirá un ejemplar del mismo a la Agencia Ferroviaria de la Unión Europea y, en su caso, a los organismos y partes afectados de otros Estados miembros de la Unión Europea.
+
+6\. Las recomendaciones de seguridad que elabore la Comisión de Investigación de Accidentes Ferroviarios tendrán como destinataria a la Agencia Estatal de Seguridad Ferroviaria y, si el carácter de la recomendación así lo hiciera necesario, a la Agencia Ferroviaria de la Unión Europea, y a otros organismos o autoridades afectados, ya sean nacionales o de otros Estados miembros. Asimismo, se remitirán también a los organismos, entidades y empresas responsables, como implementadores, de la adopción de las acciones correctoras recomendadas.
+
+7\. Los destinatarios de las recomendaciones acusarán recibo de la carta de envío e informarán a la citada Comisión, en el plazo de noventa días, de las medidas adoptadas o en estudio y, si procede, del tiempo necesario para su aplicación, así como, en su caso, de los motivos de no haberse tomado medidas. En el caso de aquellas recomendaciones destinadas a la Agencia Estatal de Seguridad Ferroviaria en las que el implementador final sea otra entidad, dicho implementador deberá remitir a la citada Agencia la información sobre las medidas adoptadas o en estudio y sus plazos o, en su caso, los motivos del rechazo a la recomendación, en un plazo de sesenta días, para que esta pueda mantener informada a la Comisión de Investigación de Accidentes Ferroviarios. Asimismo, remitirá información semestral a la Agencia de Seguridad Ferroviaria del estado y evolución de las medidas.
+
+Los implementadores finales de las recomendaciones tendrán la obligación de tener en cuenta y valorar las recomendaciones de la Comisión, dándoles un adecuado tratamiento.
+
+Cuando los destinatarios de las recomendaciones sean autoridades españolas, deberán, además, evaluar las recomendaciones de la Comisión y, en su caso, adoptar las medidas proporcionales y apropiadas para prevenir la posible repetición de accidentes e incidentes.
+
+8\. La Comisión dispondrá de un procedimiento para el registro de las recomendaciones emitidas, de las respuestas de los destinatarios, y del estado de cumplimiento de las mismas.
+
+Los destinatarios y los implementadores finales de las recomendaciones dispondrán de procedimientos internos de seguimiento para controlar los avances de las medidas adoptadas en respuesta a las recomendaciones de seguridad emitidas, que permitan proporcionar información tanto a requerimiento de la Agencia Estatal de Seguridad Ferroviaria o de la propia Comisión, como cuando cambie el estado de cumplimento de la recomendación.
+
+9\. La Comisión publicará antes del 30 de septiembre una memoria en la que dará cuenta de las investigaciones realizadas el año anterior, de las recomendaciones de seguridad publicadas, así como la información recibida en torno al estado de implantación de las medidas adoptadas de acuerdo con las recomendaciones emitidas con anterioridad.
+
+El Presidente de la Comisión elevará anualmente la memoria, aprobada por el Pleno, al Ministro de Fomento, para su traslado a las Comisiones competentes del Congreso de los Diputados y del Senado. Igualmente, se remitirá un ejemplar de la misma a la Agencia Estatal de Seguridad Ferroviaria y a la Agencia Ferroviaria de la Unión Europea.
+
+> Se modifica por la disposición final 2.10 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+### Disposición adicional primera. Medios humanos y materiales de la Comisión de Investigación de Accidentes Ferroviarios.
+
+El Ministerio de Fomento dotará a la Comisión de Investigación de Accidentes Ferroviarios de los medios humanos y materiales necesarios para llevar a cabo su misión y librará los medios necesarios para la remuneración de los asesores técnicos y el pago de los estudios técnicos cuando sea necesario. Las medidas incluidas en esta norma no podrán suponer incremento de gasto público, de dotaciones, de retribuciones ni de otros gastos de personal.
+
+### Disposición adicional segunda. Investigación de accidentes e incidentes ferroviarios por los administradores de la infraestructura.
+
+1.Los administradores de la infraestructura llevarán a cabo, de acuerdo con lo establecido en su sistema de gestión de la seguridad, una investigación interna de los accidentes e incidentes ferroviarios que se produzcan en la Red Ferroviaria de Interés General que ellos administren, sin interferir en la llevada a cabo, en su caso, por la Comisión de Investigación de accidentes ferroviarios, a quien deberán remitir el informe de la investigación interna efectuada.
+
+2\. Los administradores de la infraestructura elaborarán, antes del 31 de marzo de cada año, un informe anual, que remitirán a la Comisión de Investigación de accidentes ferroviarios y a la autoridad responsable de seguridad, sobre todos los accidentes e incidentes ferroviarios acaecidos en el año anterior en la Red Ferroviaria de Interés General que ellos administren.
+
+### Disposición adicional tercera. Investigación de accidentes e incidentes ferroviarios por las empresas ferroviarias.
+
+1\. Las empresas ferroviarias establecerán, dentro de su sistema de gestión de la seguridad, las pautas y los procedimientos a seguir en la investigación de accidentes e incidentes en los que se encuentren implicadas. En todo caso, en el supuesto de verse implicadas en un accidente o incidente ferroviario que se produzcan en la Red Ferroviaria de Interés General, llevarán a cabo una investigación interna del mismo, sin interferir en la llevada a cabo, en su caso, por la Comisión de Investigación de accidentes ferroviarios, a quien deberán remitir el informe de la investigación interna efectuada.
+
+2\. Las empresas ferroviarias elaborarán, antes del 31 de marzo de cada año, un informe anual, que remitirán a la Comisión de Investigación de accidentes ferroviarios y a la autoridad responsable de seguridad, sobre los accidentes e incidentes ferroviarios ocurridos en el año anterior, en los que hubieran estado implicadas.
+
+### Disposición adicional cuarta. Investigación de accidentes e incidentes ferroviarios en las infraestructuras de los puertos de interés general.
+
+1\. El presente real decreto es de aplicación a las infraestructuras ferroviarias existentes en los puertos de interés general y que forman parte de la Red Ferroviaria de Interés General. Para la correcta aplicación a dichas infraestructuras, se entenderá que las referencias al administrador de la infraestructura se hacen a las Autoridades Portuarias correspondientes.
+
+2\. La Autoridad Portuaria llevará a cabo una investigación interna de los accidentes e incidentes ferroviarios que se produzcan en la Red Ferroviaria de Interés General que ellos administren, sin interferir en la llevada a cabo, en su caso, por la Comisión de Investigación de accidentes ferroviarios, a quien deberán remitir el informe de la investigación interna efectuada.
+
+Asimismo las empresas ferroviarias deberán llevar a cabo también una investigación interna de todos los accidentes e incidentes ferroviarios en que se hubiera visto implicado su material rodante o personal dentro de las citadas redes.
+
+### Disposición adicional quinta. Adecuación de procedimientos.
+
+La Comisión de Investigación de accidentes ferroviarios adecuará en un plazo máximo de seis meses desde la entrada en vigor del presente real decreto, el alcance y los procedimientos aprobados para la realización de las investigaciones de accidentes e incidentes ferroviarios a los nuevos requerimientos de este real decreto.
+
+### Disposición transitoria primera. Expedientes en tramitación.
+
+Los expedientes sobre accidentes e incidentes ferroviarios iniciados con anterioridad a la entrada en vigor de este real decreto, continuarán su tramitación hasta su finalización, de acuerdo con lo establecido en el Reglamento sobre seguridad en la circulación en la Red Ferroviaria de Interés General, aprobado por el Real Decreto 810/2007, de 22 de junio.
+
+### Disposición transitoria segunda. Renovación de la Comisión de Investigación de Accidentes Ferroviarios.
+
+El Presidente y los actuales vocales de la Comisión continuarán en su cargo hasta que expire el término de su actual mandato o hasta que se produzca alguna de las circunstancias señaladas en el apartado 6 de la disposición adicional undécima de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados los apartados 6 y 7 de la disposición adicional tercera del Real Decreto 810/2007, de 22 de junio, por el que se aprueba el Reglamento sobre seguridad en la circulación en la Red Ferroviaria de Interés General y el título III y el anexo V de dicho Reglamento.
+
+### Disposición final primera. Modificación del Real Decreto 2387/2004, de 30 de diciembre, por el que se aprueba el Reglamento del Sector Ferroviario.
+
+La disposición adicional undécima del Real Decreto 2387/2004, de 30 de diciembre, por el que se aprueba el Reglamento del Sector Ferroviario, queda redactada como sigue:
+
+«Disposición adicional undécima. Consumo de sustancias que perturben o disminuyan las facultades psicofísicas del personal de conducción o circulación.
+
+1\. A efectos de lo dispuesto en el artículo 92.3 de la Ley 39/2003, de 17 de noviembre, se establecen como tasas de alcoholemia máximas permitidas para la conducción de máquinas de transporte ferroviario las siguientes:
+
+Tasa de alcohol en sangre: 0,10 gramos por litro.
+
+Tasa de alcohol en aire espirado: 0,05 miligramos por litro.
+
+2\. Las tasas referidas en el apartado anterior serán, asimismo, de aplicación al personal de circulación ferroviaria que preste servicios en puestos de mando, control de tráfico centralizado, subestaciones, estaciones, terminales y cualesquiera otras dependencias y locales en los que se desarrollen trabajos relacionados con aquella.
+
+3\. En los programas formativos destinados a la obtención y el mantenimiento de los títulos habilitantes del personal de conducción o circulación, se incluirán contenidos acerca del conocimiento de estos aspectos: alcohol, drogas y sustancias psicoactivas y medicamentos. A su vez, las entidades ferroviarias fomentarán entre el citado personal, el uso responsable de medicamentos que pudieran alterar, perturbar o modificar sus facultades psicofísicas en el desempeño de sus funciones.*»*
+
+### Disposición final segunda. Modificación del Reglamento sobre seguridad en la circulación en la Red Ferroviaria de Interés General, aprobado por el Real Decreto 810/2007, de 22 de junio.
+
+El Reglamento sobre seguridad en la circulación en la Red Ferroviaria de Interés General, aprobado por el Real Decreto 810/2007, de 22 de junio, queda modificado como sigue:
+
+Uno. El artículo 1 queda redactado como sigue:
+
+«Artículo 1. Objeto y ámbito de aplicación.
+
+1\. Este Reglamento tiene por objeto el desarrollo de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, en todo lo referente a la seguridad en la circulación sobre la Red Ferroviaria de Interés General.
+
+2\. A efectos de seguridad ferroviaria, lo dispuesto en este Reglamento será de aplicación a todos los actores del sistema ferroviario, y en particular, a las empresas ferroviarias, tal y como se definen en la Ley 39/2003, de 17 de noviembre, y a cualquier empresa pública o privada cuya actividad consista en prestar servicios de transporte de mercancías o viajeros por ferrocarril, debiendo ser dicha empresa, en todo caso, quien aporte la tracción. Se incluyen también las empresas que aporten únicamente la tracción».»
+
+Dos. El apartado 2 del artículo 4 queda redactado como sigue:
+
+«2. El ejercicio de las competencias relacionadas en este artículo no podrá delegarse ni atribuirse a ningún administrador de la infraestructura, empresa ferroviaria o entidad adjudicadora. No obstante, la autoridad responsable de seguridad, en el ejercicio de sus funciones, podrá solicitar al Administrador de Infraestructuras Ferroviarias, a las empresas ferroviarias o a otras entidades cualificadas, la asistencia técnica y operativa necesaria para la realización de las mismas.»
+
+Tres. Las referencias realizadas a lo largo del Reglamento al Administrador de las Infraestructuras Ferroviarias se entenderán efectuadas en lo sucesivo al administrador de la infraestructura.
+
+### Disposición final tercera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.21.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de ferrocarriles y transportes terrestres que transcurran por más de una Comunidad Autónoma.
+
+### Disposición final cuarta. Incorporación del derecho de la Unión Europea.
+
+Mediante este real decreto se completa la incorporación al derecho español de la Directiva 2004/49/CE del Parlamento Europeo y del Consejo, de 29 de abril de 2004, sobre la seguridad de los ferrocarriles comunitarios y por la que se modifican la Directiva 95/18/CE del Consejo sobre concesión de licencias a las empresas ferroviarias y la Directiva 2001/14/CE del Parlamento Europeo y del Consejo, de 26 de febrero, relativa a la adjudicación de la capacidad de infraestructura ferroviaria, aplicación de cánones por su utilización y certificación de la seguridad.
+
+### Disposición final quinta. Entrada en vigor.
+
+Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 18 de julio de 2014.
+
+FELIPE R.
+
+La Ministra de Fomento,
+
+ANA MARÍA PASTOR JULIÁN
+
+## ANEXO — **Contenido esencial del informe de investigación sobre accidentes e incidentes ferroviarios elaborado por la Comisión de Investigación de Accidentes Ferroviarios**
+
+1\. Resumen
+
+El resumen contendrá una breve descripción del suceso, cuándo y dónde tuvo lugar y sus consecuencias. Indicará las causas directas así como los factores coadyuvantes y las causas subyacentes averiguadas por la investigación. Se citarán las recomendaciones principales y se proporcionará información sobre los destinatarios de dichas recomendaciones.
+
+2\. Hechos inmediatos del suceso
+
+1\. Suceso:
+
+a) Fecha, hora y localización exactas del suceso.
+
+b) Descripción de los hechos y del lugar del accidente, así como los cometidos de los servicios de rescate y de socorro.
+
+c) La decisión de abrir una investigación y la composición del equipo de investigación.
+
+2\. Circunstancias del suceso:
+
+a) Personal ferroviario implicado y, en su caso, terceros y testigos.
+
+b) Los trenes y su composición, incluido el número de matrícula del material rodante implicado.
+
+c) La descripción de la infraestructura y del sistema de señalización (tipos de vía, agujas, enclavamiento, señales y protección del tren).
+
+d) Sistemas de comunicación.
+
+e) Obras en el lugar o sus cercanías.
+
+f) Activación del plan de contingencias y de su cadena de acontecimientos.
+
+g) Activación del plan de emergencia de los servicios públicos de salvamento, la policía y los servicios médicos y su cadena de acontecimientos.
+
+3\. Víctimas mortales, lesiones y daños materiales:
+
+a) Viajeros, personal y terceros.
+
+b) Carga, equipaje y otros bienes.
+
+c) Material rodante, infraestructura y medio ambiente.
+
+4\. Circunstancias externas: Condiciones meteorológicas y referencias geográficas.
+
+3\. Relación de las investigaciones e indagaciones
+
+1\. Resumen de las declaraciones de los testigos (sujeto a la protección de la identidad de las personas):
+
+a) Personal ferroviario y viajeros.
+
+b) Otros testigos.
+
+2\. Sistema de gestión de la seguridad:
+
+a) Organización marco y cómo se dan y ejecutan las órdenes.
+
+b) Requisitos del personal y cómo se cumplen.
+
+c) Rutinas de los controles y auditorías internos y sus resultados.
+
+d) Interfaz entre las diferentes partes en la infraestructura ferroviaria.
+
+3\. Normativa:
+
+a) Legislación y reglamentación nacional y comunitaria pertinente.
+
+b) Otras normas aplicables, tales como normas de explotación, instrucciones locales, requisitos del personal y preceptos de mantenimiento.
+
+4\. Funcionamiento del material rodante ferroviario y de las instalaciones técnicas:
+
+a) Sistema de control de mando y señalización, incluidas las grabaciones de los registradores automáticos de datos.
+
+b) Infraestructura.
+
+c) Equipo de comunicaciones.
+
+d) Material rodante, incluidas las grabaciones de los registradores automáticos de datos.
+
+5\. Documentación del sistema de gestión de la circulación:
+
+a) Medidas tomadas por el personal de circulación.
+
+b) Intercambio de mensajes verbales en relación con el suceso, incluida la documentación procedente de grabaciones.
+
+c) Medidas destinadas a proteger y salvaguardar el lugar del suceso.
+
+6\. Interfaz hombre-máquina-organización:
+
+a) Tiempo de trabajo del personal implicado.
+
+b) Circunstancias médicas y personales con influencia en el suceso, incluida la existencia de tensión física psicológica.
+
+c) Diseño del equipo con efectos en la interfaz antropomecánica.
+
+7\. Otros sucesos anteriores de carácter similar.
+
+4\. Análisis y conclusiones
+
+1\. Descripción definitiva de la cadena de acontecimientos: Establecimiento de las conclusiones sobre el suceso con arreglo a lo dispuesto en el real decreto al que corresponde este anexo.
+
+2\. Deliberación: Análisis de los hechos con objeto de extraer conclusiones sobre las causas del suceso y la eficacia de los servicios de salvamento.
+
+3\. Conclusiones:
+
+a) Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalaciones técnicas.
+
+b) Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el mantenimiento del material rodante o de la infraestructura ferroviaria.
+
+c) Causas relacionadas con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad.
+
+4\. Observaciones adicionales: Deficiencias y defectos establecidos durante la investigación que no guarden relación con las conclusiones sobre las causas.
+
+5\. Medidas adoptadas: Relación de las medidas adoptadas como consecuencia del accidente o incidente ferroviario.
+
+6\. Recomendaciones.

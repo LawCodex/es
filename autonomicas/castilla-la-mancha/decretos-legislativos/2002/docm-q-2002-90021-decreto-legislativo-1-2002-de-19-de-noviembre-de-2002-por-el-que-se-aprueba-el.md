@@ -1,0 +1,1920 @@
+---
+title: "Decreto Legislativo 1/2002, de 19 de noviembre de 2002, por el que se aprueba el Texto Refundido de la Ley de Hacienda de Castilla-La Mancha"
+identifier: "DOCM-q-2002-90021"
+type: legislative_decree
+rank: "Decreto Legislativo"
+jurisdiction: es-castilla-la-mancha
+language: es
+department: "Comunidad Autónoma de Castilla-La Mancha"
+date: 2002-11-19
+published: 2002-11-29
+in_force_from: 2002-11-30
+last_amended: 2025-12-29
+consolidated: 2026-03-26
+gazette: "Diario Oficial de Castilla-La Mancha núm. 149"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=DOCM-q-2002-90021"
+retrieved: 2026-10-11
+---
+
+# Decreto Legislativo 1/2002, de 19 de noviembre de 2002, por el que se aprueba el Texto Refundido de la Ley de Hacienda de Castilla-La Mancha
+
+EXPOSICIÓN DE MOTIVOS
+
+La Ley 14/2001, de 14 de diciembre, por la que se aprueban los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha para 2002, en su disposición final tercera autoriza al Consejo de Gobierno para que en el plazo de un año elabore un texto refundido de la Ley de Hacienda de Castilla-La Mancha, al que se incorporarán las disposiciones legales vigentes en esta materia posteriores a la entrada en vigor de la citada Ley.
+
+Esta autorización tiene amparo legal en la facultad de delegación legislativa que se contempla en el artículo 9.2 a) del Estatuto de Autonomía de Castilla-La Mancha, aprobado por Ley Orgánica 9/1982, de 10 de agosto.
+
+En cumplimiento de esa autorización se redacta el presente texto refundido, adecuando los preceptos de la Ley anterior a las modificaciones operadas por las leyes 2/2000, de 26 de mayo, por la que se modifica la Ley de Hacienda, y por las leyes de presupuestos generales 9/2000, de 21 de diciembre y 14/2001, de 14 de diciembre.
+
+La autorización otorgada al Consejo de Gobierno para la refundición de los textos legales no comprende su armonización, aclaración y regularización. No obstante, la elaboración del texto justifica otras modificaciones, que si bien no inciden sustancialmente en el fondo de la disposición, resultan necesarias para lograr la sistemática y coherencia del mismo, siempre con el máximo respeto a la voluntad del legislador. Por ello, se actualizan las referencias a órganos de la Administración Regional, se ajusta la numeración del articulado y se actualizan las remisiones normativas a otras disposiciones legales, corrigiendo errores de concordancia, todo ello con la única finalidad de conseguir una mayor claridad y seguridad jurídica del texto.
+
+En su virtud, a propuesta de la Consejería de Economía y Hacienda, de acuerdo con el Dictamen del Consejo Consultivo y previa deliberación del Consejo de Gobierno, en su reunión de día 19 de noviembre de 2002,
+
+DISPONGO:
+
+#### Artículo único
+
+Se aprueba el texto refundido de la Ley de Hacienda de Castilla-La Mancha, que se inserta a continuación.
+
+#### Disposición derogatoria.
+
+1\. Quedan derogadas la Ley 6/1997, de 10 de julio, de Hacienda de Castilla-La Mancha, la Ley 2/2000, de 26 de mayo, por la que se modifica la Ley 6/1997, de 10 de julio, de Hacienda de Castilla-La Mancha y todas las disposiciones de igual o inferior rango que se opongan a la presente Ley.
+
+2\. Mantienen su vigencia en cuanto no se opongan a esta Ley o sus normas de desarrollo:
+
+— Decreto 6/1989, de 31 de enero, sobre pagos librados «a justificar» y anticipos de Caja Fija.
+
+— Decreto 2/1991, de 15 de enero, de Régimen General de Concesión de Subvenciones.
+
+— Orden de 2 de febrero de 1988, de la Consejería de Economía y Hacienda, de instrucciones para la ejecución de los presupuestos de 1988.
+
+— Orden de 3 de febrero de 1989, de la Consejería de Economía y Hacienda, por la que se dictan normas para el desarrollo y aplicación del Decreto 6/1989, de 31 de enero, sobre pagos librados «a justificar», y anticipos de Caja Fija.
+
+— Orden de 18 de septiembre de 2001, de la Consejería de Economía y Hacienda sobre tramitación anticipada de expediente de gasto.
+
+— Orden de 13 de junio de 1995, de la Consejería de Economía y Hacienda sobre la acreditación del cumplimiento de las obligaciones tributarias y con la Seguridad Social para los beneficiarios de subvenciones de la Junta de Comunidades de Castilla-La Mancha.
+
+— Orden de 22 de febrero de 1996, de la Consejería de Economía y Hacienda sobre tramitación de modificaciones presupuestarias.
+
+— Instrucción sobre fiscalización limitada previa y control financiero posterior aprobada por el Consejo de gobierno el 10 de julio de 2001 y publicada por Orden de la Consejería de Economía y Hacienda de 13 de julio de 2001.
+
+#### Disposición final.
+
+El presente Decreto Legislativo y el texto refundido que aprueba entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de Castilla-La Mancha.
+
+Dado en Toledo, a 19 de noviembre de 2002.
+
+| El Presidente, | La Consejera de Economía y Hacienda, |
+|---|---|
+| JOSÉ BONO MARTÍNEZ | MARÍA LUISA ARAÚJO CHAMORRO |
+
+## Texto Refundido de la Ley de Hacienda de Castilla-La Mancha
+
+## TÍTULO PRELIMINAR — Principios Generales
+
+### CAPÍTULO I — Disposiciones Generales y Ámbito de Aplicación
+
+#### Artículo 1. Objeto de la Ley.
+
+1\. Constituye el objeto de esta Ley la regulación de la actividad económico-financiera y presupuestaria de la Junta de Comunidades de Castilla-La Mancha.
+
+2\. La aplicación de la presente Ley a las Cortes de Castilla-La Mancha y a los órganos de éstas dependientes se realizará sin perjuicio del régimen establecido en las normas que regulan su funcionamiento y de su autonomía presupuestaria. No obstante, se observará la coordinación necesaria para la elaboración del Proyecto de Ley de Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha.
+
+#### Artículo 2. La Hacienda Pública de Castilla-La Mancha.
+
+1\. Constituye la Hacienda Pública de Castilla-La Mancha el conjunto de derechos y obligaciones de contenido económico cuya titularidad tenga atribuida la Junta de Comunidades de Castilla-La Mancha.
+
+2\. La Junta de Comunidades de Castilla-La Mancha y sus instituciones de autogobierno tienen el mismo tratamiento fiscal que la Ley otorga al Estado. En la gestión de sus derechos económicos y en el cumplimiento de sus obligaciones goza de las mismas prerrogativas reconocidas por las Leyes al Estado.
+
+#### Artículo 3. Normativa reguladora.
+
+La actividad de la Hacienda Pública de Castilla-La Mancha se regula:
+
+a) Por esta Ley y las normas dictadas en su desarrollo.
+
+b) Por las leyes especiales en la materia de la Junta de Comunidades de Castilla-La Mancha.
+
+c) Por las leyes anuales de Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha, para cada ejercicio y durante su vigencia.
+
+d) Por la legislación general del Estado en la materia, que resulte aplicable de acuerdo con la Constitución Española y el Estatuto de Autonomía de Castilla-La Mancha.
+
+e) Supletoriamente por las restantes normas del Derecho público y, en su defecto, por las del Derecho privado.
+
+#### Artículo 4. Sector público regional.
+
+1\. A los efectos de la presente ley, integran el sector público regional:
+
+a) Los órganos de la Junta de Comunidades de Castilla-La Mancha regulados en el Estatuto de Autonomía y los vinculados o dependientes de éstos.
+
+b) La Administración de la Junta de Comunidades de Castilla-La Mancha, sus organismos autónomos y entidades públicas vinculadas o dependientes.
+
+c) Las empresas y fundaciones públicas regionales.
+
+d) Los consorcios participados mayoritariamente por la Junta de Comunidades de Castilla-La Mancha a los que se refiere el artículo 6.
+
+2\. A los efectos previstos en el apartado anterior, se considerarán empresas públicas regionales las sociedades mercantiles en cuyo capital social la Junta de Comunidades de Castilla-La Mancha tenga una participación directa o indirecta superior al cincuenta por ciento. Para la determinación de este porcentaje se tendrán en cuenta las participaciones de todas las entidades integrantes del sector público regional a las que se refiere este artículo.
+
+3\. Son fundaciones del sector público regional las adscritas a la Administración de la Junta de Comunidades de Castilla-La Mancha o a sus organismos públicos, de acuerdo con los criterios establecidos al efecto en la legislación básica en materia de régimen jurídico del sector público, o, en ausencia de estos últimos, aquéllas en las que concurra alguna de las siguientes circunstancias:
+
+a) Que se constituyan de forma inicial, con una aportación mayoritaria, directa o indirecta, de la Administración de la Junta de Comunidades de Castilla-La Mancha o de cualquiera de los sujetos integrantes de su sector público institucional, o bien reciban dicha aportación con posterioridad a su constitución.
+
+b) Que el patrimonio de la fundación esté integrado en más de un cincuenta por ciento por bienes o derechos aportados o cedidos por sujetos integrantes del sector público regional con carácter permanente.
+
+c) Que la mayoría de los derechos de voto en su patronato corresponda a representantes del sector público regional.
+
+Las fundaciones del sector público regional deberán coadyuvar a los fines propios de las entidades u organismos a que estén adscritas.
+
+4\. La presente ley será de aplicación, asimismo, a las Universidades públicas de Castilla-La Mancha y al resto de entes adscritos que, sin formar parte del sector público regional a los efectos de esta ley, estén incluidos en el sector Administraciones públicas, subsector Comunidades Autónomas, o en el subsector sociedades no financieras públicas, de acuerdo con la definición y delimitación del Sistema Europeo de Cuentas Nacionales y Regionales, a los efectos del seguimiento de lo establecido en la normativa vigente en materia de estabilidad presupuestaria y sostenibilidad financiera, y del cumplimiento de los principios y obligaciones contables que se deriven de lo establecido en el título VI.
+
+A tal efecto, se consideran Universidades públicas de Castilla-La Mancha a las financiadas mayoritariamente por esta última.
+
+> Se modifica el apartado 3 por el art. 1.1 de la Ley 2/2025, de 11 de abril. [Ref. BOE-A-2025-11442](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11442)
+
+> Se añade el apartado 4 por la disposición final 1.1 de la Ley 7/2017, de 21 de diciembre. [Ref. BOE-A-2018-989](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-989)
+
+> Se modifica el apartado 1 por la disposición final 1.1 de la Ley 11/2012, de 21 de diciembre. [Ref. BOE-A-2013-2560](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2560).
+
+> Se modifica por la disposición final 1 de la Ley 13/2010, de 9 de diciembre. [Ref. BOE-A-2011-2709](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2709).
+
+#### Artículo 5. Convenios, acuerdos de cooperación y transferencias.
+
+1\. Los convenios y acuerdos de cooperación suscritos con otras Administraciones Públicas en los que se comprometan recursos de la Hacienda Pública de Castilla-La Mancha no podrán oponerse a lo regulado en esta Ley.
+
+2\. Son igualmente de aplicación los preceptos de esta Ley en los casos de delegación o transferencia de competencias estatales que, por su naturaleza, impliquen la gestión de fondos públicos, sin perjuicio de las facultades de control que correspondan al Estado.
+
+#### Artículo 6. Consorcios.
+
+1\. La Junta de Comunidades de Castilla-La Mancha puede participar en consorcios con otras Administraciones Públicas y con entidades privadas para fines de interés público o utilidad social.
+
+La participación a que se refiere el párrafo anterior se autorizará por el Consejo de Gobierno.
+
+2\. La regulación del régimen económico de aplicación a estos consorcios será el previsto en las bases de su constitución. Cuando la participación de la Administración Regional en su financiación sea superior al cincuenta por cien, dichas bases deberán contener las cláusulas que garanticen el cumplimiento de los principios establecidos en esta Ley.
+
+Cuando la participación de la Administración Regional sea inferior al cincuenta por cien, pero sea mayoritaria en el Consorcio en relación a la participación del resto de componentes individualmente, también será de aplicación lo contenido en el párrafo anterior.
+
+### CAPÍTULO II — Competencias
+
+#### Artículo 7. Competencias del Consejo de Gobierno.
+
+En las materias objeto de esta ley, corresponden al Consejo de Gobierno las siguientes funciones:
+
+a) La determinación de las directrices básicas de la política económica y financiera de la Administración Regional, de acuerdo con el Estatuto de Autonomía.
+
+b) El ejercicio de la potestad reglamentaria dentro del marco establecido por la Ley.
+
+c) La aprobación del proyecto de Ley de Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha y su remisión a las Cortes de Castilla-La Mancha.
+
+d) La aprobación de los proyectos de Ley que impliquen aumento del gasto público o disminución de los ingresos correspondientes al mismo ejercicio presupuestario.
+
+e) Las demás funciones y competencias que le atribuyan las leyes.
+
+> Se modifica por el art. 11.1 de la Ley 1/2023, de 27 de enero. [Ref. BOE-A-2023-5959](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5959)
+
+#### Artículo 8. Competencias de la Consejería de Economía y Hacienda.
+
+En las materias objeto de la presente Ley, corresponde a la Consejería de Economía y Hacienda:
+
+a) Proponer al Consejo de Gobierno las disposiciones y acuerdos previstos en el artículo 7 de la presente Ley, excepto los indicados en el apartado e) de dicho artículo que se entenderá referido a aquellos gastos cuya gestión le corresponda.
+
+b) Elaborar y someter a la aprobación del Consejo de Gobierno el anteproyecto de Ley de Presupuestos Generales de Castilla-La Mancha.
+
+c) Administrar, gestionar y recaudar los derechos económicos de la Hacienda Pública de Castilla-La Mancha.
+
+d) Establecer las normas reguladoras de la ejecución del presupuesto de gastos aplicables a los distintos procedimientos de gestión, de acuerdo con lo establecido en esta Ley.
+
+e) Ejercer la superior autoridad sobre la ordenación de pagos y su efectiva realización.
+
+f) Dirigir la ejecución de la política económica y financiera aprobada por el Consejo de Gobierno.
+
+g) Velar por la ejecución de los Presupuestos Generales de Castilla-La Mancha y por el cumplimiento de las disposiciones de carácter financiero.
+
+h) Dictar las normas de desarrollo que específicamente le encomiende la presente Ley.
+
+i) Proponer al Consejo de Gobierno, en el marco de la política económica y presupuestaria, las directrices a que deberán ajustarse los gastos de personal de la Junta de Comunidades de Castilla-La Mancha, sus organismos autónomos, empresas públicas y entidades del sector público regional a que se refiere el artículo 4 de esta Ley, así como autorizar cualquier medida relativa a la organización y al personal que pueda suponer un incremento del gasto
+
+j) Autorizar, en su caso, a propuesta del titular de la Consejería a que están adscritos, las retribuciones de los órganos directivos de los organismos autónomos, empresas públicas y entidades del sector público regional.
+
+k) Autorizar, de conformidad con lo dispuesto en el artículo 7 de la Ley 22/2001, de 27 de diciembre, del Fondo de Compensación Interterritorial, las propuestas de modificación de las dotaciones o sustituciones de los proyectos incluidos en dicho Fondo.
+
+l) Aprobar las modificaciones presupuestarias que, en su caso, conlleven las propuestas a las que se refiere la letra anterior.
+
+m) Las demás funciones y competencias que le atribuyan las leyes, así como cualesquiera otras de naturaleza económica o financiera que no hubieran sido atribuidas a otros órganos de la Comunidad Autónoma.
+
+#### Artículo 9. Competencias de las consejerías y resto de órganos con dotación diferenciada en los presupuestos.
+
+Dentro de su respectivo ámbito competencial y en los términos previstos en la presente ley, corresponde a las personas titulares de las consejerías y del resto de órganos con dotaciones diferenciadas en los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha:
+
+a) Formular sus propuestas de gastos y estimaciones ingresos, en orden a la elaboración del anteproyecto de Ley de Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha.
+
+b) Administrar los créditos para gastos consignados en el Presupuesto en sus distintas fases.
+
+c) Las demás que le sean atribuidas por las leyes.
+
+> Se modifica por el art. 11.2 de la Ley 1/2023, de 27 de enero. [Ref. BOE-A-2023-5959](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5959)
+
+#### Artículo 10. Competencias de los organismos autónomos y entidades de derecho público.
+
+Corresponde a las personas titulares de la dirección de los organismos autónomos y entidades de derecho público, en el ámbito de sus respectivas competencias y conforme a lo dispuesto en esta ley:
+
+a) La administración, gestión y recaudación de los derechos económicos.
+
+b) Administrar los créditos para gastos consignados en el Presupuesto en sus distintas fases.
+
+c) Elaborar el anteproyecto de presupuesto anual del organismo autónomo o entidad de derecho público.
+
+d) Las demás que les sean atribuidas por las leyes.
+
+> Se modifica por el art. 11.3 de la Ley 1/2023, de 27 de enero. [Ref. BOE-A-2023-5959](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5959)
+
+### CAPÍTULO III — Principios Generales
+
+#### Artículo 11. Principios rectores de la actividad económico financiera.
+
+1\. La Junta de Comunidades de Castilla-La Mancha organizará y desarrollará sus sistemas y procedimientos de gestión económico-financiera con sometimiento pleno a la Ley y al derecho y servirá con objetividad a los intereses generales de la región en el marco de su Estatuto de Autonomía.
+
+2\. El gasto público de la Junta de Comunidades de Castilla-La Mancha realizará una asignación equitativa de los recursos públicos. Su programación y ejecución se realizará con objetividad y transparencia y responderá a los principios de eficacia, economía, solidaridad, equilibrio y territorialidad, y a los establecidos en la normativa en materia de estabilidad presupuestaria y sostenibilidad financiera.
+
+> Se modifica el apartado 2 por la disposición final 1.2 de la Ley 11/2012, de 21 de diciembre. [Ref. BOE-A-2013-2560](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2560).
+
+#### Artículo 12. Reserva de Ley.
+
+Se regularán por Ley de las Cortes de Castilla-La Mancha las siguientes materias relativas a la Hacienda Pública:
+
+a) Los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha.
+
+b) La concesión de créditos extraordinarios y suplementos de créditos, en los términos indicados en esta Ley.
+
+c) El establecimiento, la modificación y la supresión de los tributos y de los recargos sobre ellos, en los términos establecidos en las leyes.
+
+d) La emisión de la Deuda Pública y demás operaciones de crédito concertadas por la Junta de Comunidades de Castilla-La Mancha.
+
+e) El régimen del patrimonio de la Comunidad, en el marco de la legislación básica del Estado.
+
+f) El régimen de la contratación, en el marco de la legislación básica del Estado.
+
+g) El régimen y concesión de avales y otras garantías por la Comunidad.
+
+h) El régimen general y especial en materia financiera de las entidades que, de conformidad con el artículo 4 de esta Ley, integran el sector público regional.
+
+i) Aquellas otras cuestiones en materia de la Hacienda Pública de Castilla-La Mancha que, según las leyes, deban ser reguladas por normas de este rango.
+
+#### Artículo 13. Principios presupuestarios.
+
+1\. La Junta de Comunidades de Castilla-La Mancha está sometida al régimen de presupuesto anual aprobado por las Cortes de Castilla-La Mancha.
+
+No obstante lo anterior, los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha se encuadrarán en un marco presupuestario a medio plazo, compatible con el régimen de presupuesto anual, a través del cual se garantizará una programación presupuestaria coherente con los objetivos de estabilidad presupuestaria y de sostenibilidad financiera fijados conforme a la normativa básica estatal.
+
+2\. Los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos por su importe íntegro, sin que puedan atenderse obligaciones mediante minoración de los derechos a liquidar o ya ingresados, salvo los casos previstos en esta Ley o debidamente autorizados en normas de rango legal.
+
+3\. Los recursos de la Hacienda Pública de Castilla-La Mancha se destinarán a satisfacer el conjunto de sus obligaciones, salvo que por Ley se establezca su afectación a fines determinados.
+
+4\. En la Tesorería, que servirá al principio de unidad de caja, se integrarán y custodiarán los fondos y valores de la Hacienda Pública de Castilla-La Mancha.
+
+5\. Los créditos para gastos se destinarán exclusivamente a la finalidad específica para la que hayan sido autorizados por la Ley de Presupuestos o por las modificaciones aprobadas conforme a la Ley.
+
+> Se modifica el apartado 1 por la disposición final 1.3 de la Ley 11/2012, de 21 de diciembre. [Ref. BOE-A-2013-2560](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2560).
+
+#### Artículo 14. Control interno.
+
+1\. La gestión económica y financiera del sector público de la Junta de Comunidades de Castilla-La Mancha queda sometida al control interno, que se realizará por la Intervención General en los términos previstos en esta ley.
+
+2\. La Intervención General ejercerá el control interno con plena autonomía respecto a las autoridades y entidades cuya gestión controle.
+
+> Se modifica el apartado 1 por el art. 2.1 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+#### Artículo 15. Régimen Contable y Rendición de cuentas.
+
+La Junta de Comunidades de Castilla-La Mancha y las demás entidades que, en su caso, integren el sector público regional están sujetas al régimen de contabilidad pública o empresarial que resulte de aplicación, tanto para reflejar toda clase de operaciones y su resultado, como para facilitar información sobre el desarrollo de su actividad, y así mismo quedan sometidas al régimen de rendición de cuentas ante las Cortes de Castilla-La Mancha y la Sindicatura de Cuentas de Castilla-La Mancha.
+
+#### Artículo 16. Principio de responsabilidad.
+
+Las autoridades, funcionarios y demás personal al servicio de la Junta de Comunidades de Castilla-La Mancha que con sus actos u omisiones causen daños y perjuicios a la Hacienda Pública de Castilla-La Mancha mediando dolo, culpa o negligencia grave, incurrirán en las responsabilidades disciplinaria, civil o penal, que en cada caso proceda.
+
+## TÍTULO I — Del Régimen de la Hacienda Pública de Castilla-La Mancha
+
+### CAPÍTULO I — De los Derechos
+
+#### Artículo 17. Derechos de la Hacienda Pública de Castilla-La Mancha.
+
+1\. Constituyen derechos económicos de la Hacienda Pública:
+
+a) Los derivados de sus propios impuestos, tasas y contribuciones especiales.
+
+b) Los derivados de los tributos cedidos total o parcialmente por el Estado.
+
+c) La participación en los ingresos del Estado.
+
+d) Los recargos sobre tributos estatales.
+
+e) Las transferencias procedentes del Fondo de Compensación Interterritorial y de otros fondos para el desarrollo regional.
+
+f) Otras asignaciones con cargo a los Presupuestos Generales del Estado o procedentes de fondos de la Unión Europea.
+
+g) El producto de la emisión de Deuda Pública y de otras operaciones de crédito.
+
+h) El producto de las multas y sanciones impuestas en el ámbito de sus competencias.
+
+i) Los percibidos en concepto de precios públicos.
+
+j) Los rendimientos del patrimonio de la Comunidad Autónoma y los demás de Derecho privado.
+
+k) Cualesquiera otros que le correspondan, de acuerdo con las leyes.
+
+2\. Los derechos económicos de la Hacienda Pública de Castilla-La Mancha se regularán por esta Ley y por las disposiciones especiales de aplicación a cada uno de ellos.
+
+#### Artículo 18. Derechos de naturaleza pública.
+
+Tienen naturaleza pública los derechos de la Hacienda Pública de Castilla-La Mancha que resulten de relaciones y situaciones jurídicas que le correspondan como titular de potestades públicas o cuando así lo dispongan las leyes.
+
+#### Artículo 19. Derechos de naturaleza privada.
+
+1\. Constituyen derechos de naturaleza privada los rendimientos o productos de cualquier naturaleza derivados del patrimonio de la Junta de Comunidades de Castilla-La Mancha, así como las adquisiciones a título de herencia, legado o donación.
+
+2\. A estos efectos constituye el patrimonio de la Junta de Comunidades de Castilla-La Mancha los bienes y derechos de los que sea titular, susceptibles de valoración económica, siempre que unos u otros no se hallen afectos al uso o servicio público.
+
+#### Artículo 20. Competencias y administración.
+
+1\. La administración de los recursos de la Hacienda Pública de Castilla-La Mancha corresponde a la Consejería de Economía y Hacienda, o a los organismos autónomos, en las condiciones que esta Ley establece.
+
+2\. Las personas que tengan a su cargo la administración de derechos económicos de la Hacienda Pública de Castilla-La Mancha dependerán funcionalmente de la Consejería de Economía y Hacienda o del correspondiente organismo autónomo, en todo lo relativo a su gestión, entrega o aplicación, así como a la rendición de las respectivas cuentas.
+
+3\. Podrá exigirse fianza o aval a las personas y entidades que manejen o custodien fondos o valores de naturaleza pública, en la cuantía y en la forma que determinen las disposiciones reglamentarias correspondientes.
+
+4\. Los rendimientos de los recursos de la Hacienda Pública de Castilla-La Mancha, por cualquier concepto, deben reflejarse íntegramente en el presupuesto respectivo. Se prohíbe la adscripción o la distribución de estos saldos, de acuerdo con lo señalado en el artículo 13 anterior.
+
+#### Artículo 21. Gestión y liquidación de tributos.
+
+1\. Corresponde a la Junta de Comunidades de Castilla-La Mancha la gestión, en todas las fases del procedimiento, de sus propios tributos y precios públicos, sin perjuicio de la colaboración que pueda establecerse con otras Administraciones Públicas.
+
+2\. La gestión de los tributos cedidos por el Estado que asuma la Comunidad Autónoma se ajustará a la Ley que regule la cesión.
+
+3\. Corresponde a la Consejería de Economía y Hacienda la dirección y control de las funciones de gestión, liquidación, recaudación, inspección y revisión en materia tributaria, sin perjuicio de las competencias atribuidas a las Consejerías y otros entes por la Ley 3/1990, de 18 de mayo, de Tasas y Precios Públicos de Castilla-La Mancha.
+
+#### Artículo 22. Régimen de los derechos económicos de la Hacienda Pública de Castilla-La Mancha.
+
+1\. No se puede enajenar, gravar ni arrendar los derechos económicos de la Hacienda de la Comunidad Autónoma, salvo en los casos establecidos por las leyes.
+
+2\. Tampoco pueden concederse exenciones, bonificaciones, perdones, rebajas ni moratorias en el pago de los derechos a la Hacienda Pública de Castilla-La Mancha, salvo en los casos y en la forma que determinen las leyes.
+
+3\. No se puede transigir judicial ni extrajudicialmente sobre los derechos de la Hacienda Pública de Castilla-La Mancha, ni someter a arbitraje las contiendas que se susciten de los mismos, sino mediante acuerdo del Consejo de Gobierno, previo Dictamen del Consejo Consultivo.
+
+4\. La suscripción por la Hacienda Pública de Castilla-La Mancha de los acuerdos o convenios en procesos concursales previstos en la normativa legal vigente en materia de quiebras y suspensiones de pagos, requerirá únicamente autorización del órgano que determine la Consejería de Economía y Hacienda.
+
+5\. La extinción, total o parcial, de las deudas que la Administración General del Estado, sus Organismos Autónomos, la Seguridad Social, las Corporaciones Locales y otras entidades de Derecho público tengan con la Comunidad Autónoma, podrá realizarse por vía de compensación, cuando se trate de deudas vencidas, líquidas y exigibles.
+
+#### Artículo 23. Prerrogativas.
+
+1\. La Hacienda Pública de Castilla-La Mancha goza de las prerrogativas establecidas legalmente en favor de la Hacienda del Estado para el cobro de tributos, precios públicos, cantidades que hubieran de percibirse en virtud de un acto o contrato administrativo y de cualesquiera otros recursos de Derecho público y actuará, en su caso, conforme a los procedimientos administrativos correspondientes.
+
+2\. A los fines previstos en el apartado anterior la Hacienda Pública de Castilla-La Mancha gozará de las prerrogativas, garantías y facultades previstas en la Ley General Tributaria.
+
+3\. En caso de concurrencia de derechos, prevalecerán los de la Administración de la Junta de Comunidades de Castilla-La Mancha sobre los de las restantes entidades que, en su caso, formen parte del sector público regional.
+
+4\. Los derechos de naturaleza privada se harán efectivos conforme a las normas y procedimientos del Derecho privado.
+
+#### Artículo 24. Recaudación de las deudas de Derecho público.
+
+1\. El pago de las deudas correspondientes a los derechos a que se refiere el artículo 23.1 de esta Ley se realizará en período voluntario o en período ejecutivo.
+
+2\. El período voluntario será el establecido en las normas aplicables a los diferentes recursos.
+
+3\. El período ejecutivo se iniciará el día siguiente al de conclusión del período voluntario de pago.
+
+4\. El inicio del período ejecutivo determina:
+
+a) el devengo de los recargos e intereses establecidos en las leyes.
+
+b) la ejecución de la deuda por el procedimiento administrativo de apremio sobre el patrimonio del obligado a su pago.
+
+#### Artículo 25. Procedimiento de apremio.
+
+1\. El procedimiento de apremio se iniciará mediante providencia notificada al deudor en la que se identificará la deuda pendiente y se le requerirá para que efectúe su pago con el recargo correspondiente advirtiéndole que, de no hacerlo así en el plazo reglamentariamente establecido, se procederá al embargo de sus bienes y derechos.
+
+La providencia de apremio expedida por el órgano competente es título suficiente que inicia la vía de apremio y tiene la misma fuerza ejecutiva que la sentencia judicial para proceder contra los bienes y derechos de los obligados al pago.
+
+2\. Concluido el período voluntario, para asegurar el cobro de las deudas derivadas de los derechos referidos en el artículo anterior, los órganos competentes podrán adoptar medidas de carácter provisional cuando existan indicios racionales de que, en otro caso, dicho cobro se verá frustrado o gravemente dificultado. Estas medidas habrán de ser proporcionadas al daño que se pretenda evitar. En ningún caso se adoptarán aquellas que puedan producir un perjuicio de difícil o imposible reparación.
+
+3\. El procedimiento de apremio puede suspenderse en la forma y con los requisitos previstos en las disposiciones reguladoras de los recursos y de las reclamaciones económico-administrativas.
+
+4\. Cuando un tercero pretenda el levantamiento del embargo por entender que le pertenece el dominio de los bienes o derechos embargados o cuando un tercero considere que tiene derecho a ser reintegrado de su crédito con preferencia a la Hacienda Pública de Castilla-La Mancha, formulará reclamación de tercería ante el órgano administrativo competente.
+
+Tratándose de una reclamación por tercería de dominio, se suspenderá el procedimiento de apremio en lo que se refiere a los bienes controvertidos, una vez que se hayan tomado las medidas de aseguramiento que procedan, sin perjuicio de que se pueda continuar dicho procedimiento sobre el resto de los bienes o derechos del obligado al pago que sean susceptibles de embargo hasta quedar satisfecha la deuda, en cuyo caso se dejará sin efecto el embargo sobre los bienes objeto de la reclamación sin que ello suponga reconocimiento alguno de la titularidad del reclamante.
+
+Si la tercería fuera de mejor derecho, proseguirá el procedimiento hasta la realización de los bienes y el producto obtenido se consignará en depósito a resultas de la tercería.
+
+5\. Se suspenderá inmediatamente el procedimiento de apremio, sin necesidad de prestar garantía, cuando el interesado demuestre que se ha producido en su perjuicio error material, aritmético o de hecho en la determinación de la deuda, o bien que dicha deuda ha sido ingresada, condonada, compensada, aplazada o suspendida.
+
+#### Artículo 26. Aplazamiento y fraccionamiento.
+
+1\. Puede aplazarse o fraccionarse el pago de las cantidades adeudadas a la Hacienda Pública de Castilla-La Mancha, derivadas de relaciones de derecho público, en los casos y por el procedimiento que reglamentariamente se determine, siempre que la situación económico financiera del deudor le impida transitoriamente hacer frente al pago. Dichas cantidades devengarán interés de demora.
+
+Deberán garantizarse excepto en los siguientes casos:
+
+a) Las de baja cuantía, cuando sean inferiores a la cifra que fije la Consejería de Economía y Hacienda.
+
+b) Cuando el deudor carezca de bienes suficientes para garantizar la deuda y la ejecución de su patrimonio afectara substancialmente al mantenimiento de la capacidad productiva y del nivel de empleo del sector económico en el que desarrolle su actividad, o cuando de dicha ejecución pudiera derivarse un quebranto para los intereses de la Hacienda Pública de Castilla-La Mancha.
+
+2\. Puede acordarse el aplazamiento o fraccionamiento en el pago de las cantidades adeudadas que deriven de relaciones de derecho privado, en los casos y con las condiciones que establezcan conjuntamente la Consejería de Economía y Hacienda y la Consejería competente por razón de la materia.
+
+#### Artículo 27. Interés de demora.
+
+1\. Las cantidades adeudadas a la Hacienda Pública de Castilla-La Mancha por los conceptos contemplados en este capítulo, devengarán interés de demora desde el día siguiente al del vencimiento del plazo establecido para el pago de la deuda. Se incluyen en este apartado las cantidades recaudadas a través de Entidades colaboradoras, cuentas restringidas y demás Entidades recaudadoras por cuenta de la Hacienda Pública de Castilla-La Mancha que no sean ingresadas por dichas Entidades en la Tesorería en los plazos establecidos.
+
+2\. El interés de demora será el que se determine por la legislación estatal sobre la materia.
+
+#### Artículo 28. Actos y contratos realizados en perjuicio de la Hacienda Pública de Castilla-La Mancha.
+
+Los actos y contratos realizados en perjuicio de la Hacienda Pública de Castilla-La Mancha por quienes resulten deudores de ella serán rescindibles con arreglo a las disposiciones legales.
+
+#### Artículo 29. Prescripción de los derechos.
+
+1\. La prescripción de los derechos de contenido económico de la Hacienda Pública de Castilla-La Mancha se regulará por lo dispuesto en las leyes del Estado.
+
+2\. Los derechos de Hacienda Pública de Castilla-La Mancha declarados prescritos serán baja en las respectivas cuentas, previa tramitación del oportuno expediente.
+
+3\. La Consejería de Economía y Hacienda puede disponer la no liquidación o, en su caso, la anulación y baja en contabilidad de todas aquellas liquidaciones de las que resulten deudas inferiores a la cuantía que ésta fije como insuficiente para la cobertura del coste de su exacción y recaudación.
+
+### CAPÍTULO II — De las Obligaciones
+
+#### Artículo 30. Fuentes de las obligaciones.
+
+Las obligaciones económicas de la Hacienda Pública de Castilla-La Mancha nacen de la Ley, de los negocios jurídicos y de los actos o hechos que, según Derecho, las generen.
+
+#### Artículo 31. Exigibilidad de las obligaciones.
+
+1\. Las obligaciones de pago solo son exigibles cuando resulten de la ejecución de los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha de conformidad con lo dispuesto en esta ley, de sentencia judicial firme o de operaciones extrapresupuestarias legalmente autorizadas.
+
+2\. Si dichas obligaciones tienen por causa prestaciones o servicios a la Junta de Comunidades de Castilla-La Mancha, el pago no podrá efectuarse si la persona acreedora no ha cumplido o garantizado su correlativa obligación, con excepción de aquellos casos en que la legislación vigente en materia de contratos del sector público determine lo contrario, así como de lo establecido en materia de pagos a justificar y en relación con la utilización de medios electrónicos de pago en las condiciones previstas en la ley.
+
+Asimismo, los órganos competentes para efectuar encomiendas de gestión o encargos a medios propios podrán exceptuar el principio general establecido en el párrafo anterior, en el supuesto de que la persona acreedora sea una Administración pública o una entidad instrumental, previo informe favorable de la consejería competente en materia de hacienda en el que se establecerá el porcentaje máximo de los pagos que pueden efectuarse en concepto de anticipo y sin que dicho porcentaje pueda superar en ningún caso el setenta por ciento respecto del precio de la prestación o servicio a realizar.
+
+> Se modifica el apartado 2 por el art. 11.4 de la Ley 1/2023, de 27 de enero. [Ref. BOE-A-2023-5959](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5959)
+
+> Se modifica por la disposición final 1 de la Ley 8/2021, de 23 de diciembre. [Ref. BOE-A-2022-2855](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2855)
+
+#### Artículo 32. Prerrogativas de la Hacienda Pública de Castilla-La Mancha.
+
+1\. Ningún tribunal o autoridad administrativa podrá despachar mandamiento de ejecución o dictar providencia de embargo contra los bienes o derechos patrimoniales de la Hacienda regional cuando se encuentren materialmente afectados a un servicio o función pública, cuando sus rendimientos o el producto de su enajenación estén legalmente afectados a fines diversos, o cuando se trate de valores o títulos representativos del capital social de las sociedades mercantiles pertenecientes al sector público regional que ejecuten políticas públicas o presten servicios de interés económico general.
+
+A estos efectos, se considerarán siempre materialmente afectados a un servicio público o a una función pública, el dinero, los valores, los créditos y demás recursos financieros de la Hacienda Pública de Castilla-La Mancha, incluidos todos los saldos existentes en cualquier clase de cuentas abiertas en el Banco de España y en las entidades de crédito.
+
+2\. El cumplimiento de las resoluciones judiciales que determinen obligaciones a cargo de la Hacienda Pública de Castilla-La Macha corresponderá al órgano competente por razón de la materia, que acordará el pago con cargo al crédito correspondiente, en la forma y con los límites del respectivo presupuesto, sin perjuicio de la posibilidad de instar cualquier otra modalidad de ejecución, de acuerdo con la Constitución y las leyes.
+
+Si para el pago fuera necesario realizar una modificación de crédito, deberá concluirse el procedimiento correspondiente dentro de los tres meses siguientes a la notificación de la resolución judicial.
+
+> Se modifica por la disposición final 4.1 de la Ley 10/2019, de 20 de diciembre. [Ref. BOE-A-2020-2113](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2113)
+
+#### Artículo 33. Intereses de demora.
+
+Salvo que otra cosa se establezca en las Leyes, si la Administración no paga al acreedor de la Hacienda Pública de Castilla-La Mancha dentro de los tres meses siguientes al día de notificación de la resolución judicial o del reconocimiento de la obligación, habrá de abonarle el interés señalado en el artículo 27 de esta Ley sobre la cantidad debida, desde que el acreedor, una vez transcurrido dicho plazo, reclame por escrito el cumplimiento de la obligación.
+
+#### Artículo 34. Prescripción de las obligaciones.
+
+1\. La prescripción de las obligaciones de contenido económico de la Hacienda Pública de Castilla-La Mancha se regulará por lo dispuesto en las leyes del Estado.
+
+2\. Las obligaciones a cargo de la Hacienda Pública de Castilla-La Mancha que hayan prescrito serán baja en las respectivas cuentas, previa tramitación del oportuno expediente.
+
+## TÍTULO II — De los Presupuestos Generales
+
+### CAPÍTULO I — Marco presupuestario a medio plazo, contenido y aprobación de los presupuestos
+
+> Se modifica la rúbrica por la disposición final 1.4 de la Ley 11/2012, de 21 de diciembre. [Ref. BOE-A-2013-2560](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2560).
+
+#### Artículo 34 bis. Marco presupuestario a medio plazo.
+
+Los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha se encuadrarán en un marco presupuestario a medio plazo que dará coherencia y continuidad al principio de estabilidad presupuestaria.
+
+El marco presupuestario a medio plazo se elaborará conforme a lo dispuesto en la legislación en materia de estabilidad presupuestaria, así como en su normativa de desarrollo.
+
+> Se añade por la disposición final 1.5 de la Ley 11/2012, de 21 de diciembre. [Ref. BOE-A-2013-2560](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2560).
+
+#### Artículo 35. Contenido.
+
+1\. Los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha constituyen la expresión cifrada, conjunta y sistemática de:
+
+a) Las obligaciones que, como máximo, pueden reconocer la Junta de Comunidades de Castilla-La Mancha y sus organismos autónomos y los derechos que se prevean liquidar durante el correspondiente ejercicio.
+
+b) Las estimaciones de gastos e ingresos a realizar por las empresas públicas que formen parte del sector público regional.
+
+c) La totalidad de los gastos e ingresos del resto de entidades del sector público regional a que se refiere el artículo 4 de la presente Ley.
+
+2\. En los Presupuestos Generales debe consignarse el importe de los beneficios fiscales que afecten a los tributos atribuidos a la Junta de Comunidades de Castilla-La Mancha.
+
+3\. Integran los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha:
+
+a) El presupuesto de la Junta de Comunidades de Castilla-La Mancha y de sus organismos autónomos.
+
+b) Los presupuestos de las empresas públicas que formen parte del sector público regional.
+
+c) Los presupuestos del resto de entidades del sector público regional a que se refiere el artículo 4 de la presente Ley.
+
+#### Artículo 36. Ámbito temporal.
+
+1\. El ejercicio presupuestario coincidirá con el año natural, y a él se imputarán:
+
+a) Los derechos económicos liquidados durante el mismo, cualquiera que sea el período de que deriven, y
+
+b) Las obligaciones reconocidas hasta el fin del mes de diciembre del correspondiente ejercicio, siempre que correspondan a adquisiciones, obras, servicios, prestaciones o gastos en general realizados dentro del ejercicio con cargo a los respectivos créditos.
+
+2\. No obstante lo dispuesto en el número anterior, se aplicarán a los créditos del presupuesto vigente en el año en que se realice la propuesta de pago, las obligaciones siguientes:
+
+a) Las que resulten de la liquidación de atrasos a favor del personal que percibe sus retribuciones con cargo a los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha, así como los que tengan su origen en resoluciones judiciales.
+
+b) Las derivadas de compromisos de gasto debidamente adquiridos en ejercicios anteriores. La Consejería de Economía y Hacienda establecerá los procedimientos para la aplicación de lo dispuesto en este apartado.
+
+En los casos comprendidos en las letras anteriores, en que no exista crédito adecuado en el ejercicio corriente, se procederá a su habilitación mediante la modificación presupuestaria que corresponda.
+
+#### Artículo 37. Estructura básica de los Presupuestos.
+
+1\. Los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha contienen:
+
+a) Los estados de gastos, en los que se incluyen, con la debida especificación, los créditos necesarios para atender al cumplimiento de las obligaciones.
+
+b) Los estados de ingresos, en los que figuran las estimaciones de los distintos derechos económicos a liquidar en el ejercicio.
+
+c) Los estados financieros de las empresas públicas y del resto de entidades del sector público regional.
+
+2\. La estructura de los Presupuestos se determinará por la Consejería de Economía y Hacienda, teniendo en cuenta la organización de la Junta de Comunidades de Castilla-La Mancha, la naturaleza económica de los ingresos y de los gastos y las finalidades u objetivos que con estos últimos se propongan conseguir.
+
+3\. En todo caso, los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha serán elaborados con criterios homogéneos con los de los Presupuestos Generales del Estado, de forma que sea posible su consolidación con los de éste.
+
+#### Artículo 38. Estructura de los estados de gastos de los Presupuestos.
+
+1\. A los créditos contenidos en los estados de gastos de los Presupuestos Generales, se aplicarán las siguientes clasificaciones:
+
+a) La clasificación orgánica, que agrupa los créditos asignados por Secciones presupuestarias, las cuales pueden desagregarse en Órganos gestores.
+
+b) La clasificación funcional, que agrupa los créditos en atención a las finalidades u objetivos que se pretenden conseguir. A estos efectos la Consejería de Economía y Hacienda establecerá un sistema de objetivos que sirvan de marco a su gestión presupuestaria y que haga posible clasificar los créditos por programas.
+
+c) Clasificación económica, que agrupa los créditos separando los gastos corrientes de los gastos de capital y del Fondo de Contingencia y otros imprevistos, se rige por los siguientes criterios:
+
+En los créditos para gastos corrientes se distinguen los siguientes capítulos: 1. Gastos de Personal, 2. Gastos en bienes corrientes y servicios, 3. Gastos financieros y 4. Transferencias corrientes.
+
+Los créditos para el Fondo de Contingencia, así como otros destinados a atender necesidades no previstas, se agrupan en el capítulo 5. Fondo de Contingencia y otros imprevistos.
+
+En los créditos para gastos de capital se distinguen, a su vez, los capítulos: 6. Inversiones Reales, 7. Transferencias de Capital, 8. Activos financieros y 9. Pasivos Financieros.
+
+Los capítulos se subdividen en artículos; estos, a su vez, en conceptos y, en su caso, en subconceptos.
+
+2\. La Consejería de Economía y Hacienda, a estos efectos, establecerá las normas de clasificación que sirvan de marco a la gestión presupuestaria, de acuerdo con lo indicado en el número anterior.
+
+> Se modifica la letra c) del apartado 1 por la disposición final 1 de la Ley 10/2012, de 20 de diciembre. [Ref. BOE-A-2013-2559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2559).
+
+#### Artículo 39. Estructura de los estados de ingresos.
+
+Las previsiones contenidas en los estados de ingresos de los Presupuestos Generales se estructuran siguiendo las clasificaciones orgánica y económica.
+
+a) La clasificación orgánica distingue por secciones los ingresos correspondientes a la Junta de Comunidades de Castilla-La Mancha.
+
+b) La clasificación económica agrupa los ingresos distinguiendo los corrientes de los de capital, según los siguientes criterios:
+
+En los Ingresos corrientes se distinguen los siguientes capítulos: 1.–Impuestos Directos, 2.–Impuestos Indirectos, 3.–Tasas, Precios Públicos y otros ingresos, 4.–Transferencias corrientes, 5.–Ingresos Patrimoniales.
+
+En los ingresos de capital se distinguen los siguientes capítulos: 6.–Enajenación de inversiones reales, 7.–Transferencias de capital, 8.–Activos financieros, 9.–Pasivos Financieros.
+
+c) Los capítulos se subdividen en artículos; éstos, a su vez, en conceptos y, en su caso, en subconceptos.
+
+#### Artículo 40. Procedimiento de elaboración del Anteproyecto de Ley de Presupuestos.
+
+1\. El procedimiento para la elaboración del Anteproyecto de los Presupuestos Generales, la documentación que, para cada supuesto, se considere necesaria y los plazos para su presentación se establecerán por Orden del titular de la Consejería de Economía y Hacienda.
+
+2\. Las Consejerías y los demás órganos con dotaciones diferenciadas en los Presupuestos Generales remitirán a la Consejería de Economía y Hacienda su correspondiente propuesta de gastos ajustada a las normas que los regulen y a las directrices del Consejo de Gobierno.
+
+Las Consejerías remitirán a la de Economía y Hacienda los anteproyectos de presupuestos de los organismos autónomos a ellas adscritos. Asimismo, las empresas públicas y el resto de entidades del sector público regional remitirán su anteproyecto de presupuesto.
+
+3\. El anteproyecto del estado de ingresos será elaborado por la Consejería de Economía y Hacienda, a la vista de las estimaciones realizadas por las Consejerías y demás órganos con dotaciones diferenciadas.
+
+4\. A partir de las propuestas de gastos y de las estimaciones de ingresos, la Consejería de Economía y Hacienda elaborará y someterá al acuerdo del Consejo de Gobierno el Anteproyecto de Ley de Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha.
+
+5\. Las empresas públicas que formen parte del sector público regional elaborarán anualmente y remitirán a la Consejería de Economía y Hacienda un programa de actuación, inversiones y financiación, ajustándose en su contenido y plazo de presentación a lo que se establezca al efecto mediante Orden del Consejero de Economía y Hacienda.
+
+#### Artículo 41. Proyecto de ley de presupuestos.
+
+El proyecto de Ley de Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha incorporará, una vez emitido el preceptivo dictamen del Consejo Consultivo, y a efectos de su aprobación por el Consejo de Gobierno, la siguiente documentación:
+
+a) Los créditos iniciales y la financiación de estos. Para facilitar el estudio por las Cortes del Proyecto de Ley, los créditos podrán ir consignados a nivel de subconcepto.
+
+b) Las memorias explicativas de los contenidos de cada una de las secciones de gasto de los presupuestos, junto con los objetivos, actividades e indicadores de cada uno de los programas de gasto.
+
+c) Un avance del estado de ejecución del presupuesto del ejercicio en curso. Esta obligación se entenderá cumplida con la publicación en el Portal de Transparencia, de acuerdo con lo establecido en la legislación vigente en materia de transparencia y buen gobierno, del estado de ejecución del presupuesto, actualizado al último día del mes anterior al que se eleve el proyecto de ley de Presupuestos Generales a las Cortes de Castilla-La Mancha.
+
+d) Un informe económico y financiero.
+
+e) Un anexo de proyectos de inversión pública. En dicho anexo se identificará el destino de la inversión y, en su caso, se determinará, para cada proyecto, la inversión realizada con cargo a ejercicios presupuestarios anteriores y la inversión pendiente de realizar en ejercicios posteriores.
+
+f) Un anexo con las nuevas contrataciones sujetas a la legislación de contratación del sector público superiores a 60.000,00 euros, previstas para el ejercicio al que se refiera el proyecto de presupuestos.
+
+g) El inventario general de la Comunidad cerrado a 31 de diciembre del ejercicio anterior.
+
+h) La plantilla presupuestaria del personal de la Junta de Comunidades de Castilla-La Mancha.
+
+i) Una memoria de impacto de género.
+
+j) Una memoria sobre alineamiento presupuestario de los objetivos de desarrollo sostenible contemplados en la Agenda 2030.
+
+k) Una memoria de impacto en la infancia y adolescencia.
+
+l) Una memoria de impacto demográfico.
+
+> Se modifica por el art. 1.2 de la Ley 2/2025, de 11 de abril. [Ref. BOE-A-2025-11442](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11442)
+
+> Se añaden las letras j) y k) por la disposición final 1.1 de la Ley 11/2020, de 28 de diciembre. [Ref. BOE-A-2021-3634](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-3634)
+
+> Se modifica por la disposición final 1 de la Ley 2/2017, de 1 de septiembre. [Ref. BOE-A-2017-11783](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-11783)
+
+> Se añade la letra h) por la disposición final 2 de la Ley 1/2016, de 22 de abril. [Ref. BOE-A-2016-6723](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-6723).
+
+#### Artículo 42. Remisión a las Cortes.
+
+El proyecto de Ley de Presupuestos Generales, con la documentación complementaria que detalla el artículo 41 será remitido a las Cortes de Castilla-La Mancha antes del día 1 de octubre del año anterior al que se refiera dicho proyecto.
+
+Al objeto de un mejor estudio por las Cortes del proyecto de Ley de Presupuestos, los créditos consignados en el mismo irán determinados a nivel de subconcepto.
+
+#### Artículo 43. Prórroga de los Presupuestos Generales.
+
+1\. Si la Ley de Presupuestos Generales no se aprobara antes del primer día del ejercicio económico correspondiente, se considerarán automáticamente prorrogados los presupuestos iniciales del ejercicio anterior hasta la aprobación y publicación de los nuevos en el Diario Oficial de Castilla-La Mancha.
+
+2\. La prórroga no afectará a los créditos para gastos correspondientes a actuaciones que deban terminar en el ejercicio cuyos presupuestos se prorrogan o que estén financiados con créditos u otros ingresos específicos o afectados y se adapten a la organización administrativa en vigor para el ejercicio en el que tenga que ejecutarse el presupuesto prorrogado.
+
+3\. El Consejo de Gobierno, a propuesta de la Consejería de Economía y Hacienda, regulará mediante Decreto las condiciones específicas a las que deba ajustarse la prórroga de los presupuestos.
+
+#### Artículo 44. No disponibilidad de créditos.
+
+El Consejo de Gobierno por razones de política presupuestaria, puede acordar la declaración de no disponibilidad de los créditos que figuran en los Presupuestos Generales, con el límite de las obligaciones que tengan su origen en disposiciones con rango de Ley. Solventadas estas causas, podrá, en su caso, autorizar nuevamente su disponibilidad.
+
+#### Artículo 45. Principio de presupuesto bruto.
+
+1\. Los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos por su importe íntegro, quedando prohibido atender obligaciones mediante minoración de los derechos a liquidar o ya ingresados, salvo que la Ley lo autorice de modo expreso.
+
+2\. Se exceptúan de la anterior disposición las devoluciones de ingresos que se declaren indebidos por el Tribunal o autoridad competentes y el reembolso del coste de los avales aportados por los contribuyentes como garantía para obtener la suspensión cautelar del pago de las deudas tributarias impugnadas, en cuanto éstas fueran declaradas improcedentes y dicha declaración adquiera firmeza.
+
+3\. A los efectos del presente artículo se entenderá por importe íntegro el resultante después de aplicar las exenciones y bonificaciones que sean procedentes y que serán objeto de contabilización independiente.
+
+### CAPÍTULO II — De los Créditos y sus Modificaciones
+
+#### Artículo 46. Especialidad cualitativa de los créditos.
+
+1\. Los créditos para gastos se destinarán exclusivamente a la finalidad específica para la que hayan sido autorizados en la Ley de Presupuestos o por las modificaciones aprobadas de conformidad con la Ley.
+
+2\. Por la Consejería de Economía y Hacienda se establecerán las normas generales de tramitación de las modificaciones presupuestarías.
+
+3\. Los créditos autorizados en los programas de gasto tienen el carácter limitativo y vinculante, según su clasificación orgánica, en los términos que establezca anualmente la Ley de Presupuestos. En defecto de mención expresa, la vinculación se establece a nivel de artículo.
+
+4\. En todo caso, tienen carácter vinculante con el nivel de desagregación económica con que aparezcan en los estados de gastos, los créditos destinados a atenciones protocolarias y representativas así como los declarados ampliables en virtud de Ley.
+
+#### Artículo 47. Especialidad cuantitativa de los créditos.
+
+1\. No podrán adquirirse compromisos de gasto por cuantía superior al importe de los créditos autorizados en los estados de gastos. Son nulos de pleno derecho los actos administrativos y las disposiciones generales con rango inferior a la Ley que infrinjan la expresada norma, sin perjuicio de las responsabilidades que pudieran derivarse de la infracción.
+
+2\. No obstante lo previsto en el número anterior, podrán adquirirse bienes inmuebles cuyo importe sea superior a 601.012,10 euros, siempre que exista crédito suficiente en el momento de la firma de la escritura para hacer frente al 25 por ciento del precio. El pago del precio podrá distribuirse hasta en cuatro anualidades sucesivas, respetando las limitaciones a que se refiere el número 3 del artículo 48 de esta Ley.
+
+#### Artículo 48. Compromisos de gastos de carácter plurianual.
+
+1\. La autorización o realización de gastos de carácter plurianual queda subordinada al crédito que para cada ejercicio autorice el presupuesto.
+
+2\. Podrán adquirirse compromisos de gasto que hayan de extenderse a ejercicios posteriores a aquel en que se autoricen, siempre que no superen los límites y anualidades fijados en el apartado siguiente.
+
+3\. El número de ejercicios a los que pueden aplicarse los compromisos de gasto de carácter plurianual, no será superior a cuatro. Asimismo, el gasto que en tales casos se impute a cada uno de los ejercicios posteriores no podrá exceder de la cantidad que resulte de aplicar al crédito inicial a que corresponda la operación, definido a nivel de vinculación, los siguientes porcentajes: en el ejercicio inmediato siguiente, el 70 por ciento, en el segundo ejercicio, el 60 por ciento, y en los ejercicios tercero y cuarto, el 50 por ciento.
+
+En los contratos de obras de carácter plurianual, con excepción de los realizados bajo la modalidad de abono total del precio, se efectuará una retención adicional de crédito del 10 por ciento del importe de adjudicación, en el momento en que esta se realice. Esta retención se aplicará al ejercicio en que finalice el plazo fijado en el contrato para la terminación de la obra o al siguiente, según el momento en que se prevea realizar el pago de la certificación final. Estas retenciones computarán dentro de los porcentajes establecidos en este artículo.
+
+Las limitaciones contenidas en el presente apartado no serán de aplicación:
+
+a) A los conciertos educativos que se formalicen por la Administración de la Junta de Comunidades de Castilla-La Mancha con las personas físicas o jurídicas de carácter privado titulares de centros educativos.
+
+b) A los compromisos derivados de la carga financiera de la deuda.
+
+c) A los compromisos derivados de los arrendamientos de inmuebles, incluidos los contratos mixtos de arrendamiento y adquisición.
+
+d) A las aportaciones económicas que, en cumplimiento de encargos de los previstos en la legislación de contratos del sector público, pudiera realizar la Administración de la Junta de Comunidades a cualquiera de sus medios propios.
+
+Cuando no exista crédito inicial y haya de realizarse algún gasto que no pueda demorarse hasta el ejercicio siguiente y del mismo se deriven compromisos que se extiendan a ejercicios futuros, los porcentajes anteriores se aplicarán sobre el crédito que se dote mediante cualquiera de las modificaciones de crédito previstas en la presente ley.
+
+4\. El titular de la consejería competente en materia de hacienda, a propuesta de las consejerías interesadas, o de aquellas a las que se adscriban los organismos autónomos o entidades públicas promotoras y, previo informe de la dirección general con competencias en materia de presupuestos, podrá acordar la modificación de los porcentajes anteriores, incrementar el número de anualidades o autorizar la adquisición de compromisos de gasto que hayan de atenderse en ejercicios posteriores en el caso de que no exista crédito inicial ni se haya dotado crédito en la forma prevista en el apartado anterior.
+
+5\. Los compromisos de gasto de carácter plurianual deberán ser objeto de adecuada contabilización.
+
+> Se modifica el apartado 3 por el art. 11.5 de la Ley 1/2023, de 27 de enero. [Ref. BOE-A-2023-5959](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5959)
+
+> Se modifica el último párrafo del apartado 3 por la disposición final 1.2 de la Ley 11/2020, de 28 de diciembre. [Ref. BOE-A-2021-3634](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-3634)
+
+> Se añade la letra d) al apartado 3 y se modifica el 4 por la disposición final 4.2 y 3 de la Ley 10/2019, de 20 de diciembre. [Ref. BOE-A-2020-2113](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2113)
+
+> Se suspenden, durante el ejercicio 2013, las limitaciones establecidas a las aportaciones económicas, según establece la disposición adicional 18 de la Ley 10/2012, de 20 de diciembre. [Ref. BOE-A-2013-2559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2559).
+
+> Se modifica el apartado 3 por la disposición final 1.1 de la Ley 5/2012, de 12 de julio. [Ref. BOE-A-2012-13949](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-13949).
+
+> Se modifica por la disposición final 1 de la Ley 16/2010, de 22 de diciembre. [Ref. BOE-A-2011-2754](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2754).
+
+> Téngase en cuenta, para su aplicación, la disposición adicional 5 de la Ley 16/2010, de 22 de diciembre.
+
+> Se modifica por la disposición final 1.1 de la Ley 10/2008, de 19 de diciembre. [Ref. BOE-A-2009-8668](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8668).
+
+#### Artículo 49. Especialidad temporal de los créditos.
+
+1\. Con cargo a los créditos del estado de gastos de cada presupuesto sólo pueden contraerse obligaciones derivadas de adquisiciones, obras, servicios y demás prestaciones o gastos en general que se realicen en el año natural del propio ejercicio presupuestario, sin perjuicio de las salvedades establecidas en el artículo 36 de la presente Ley.
+
+2\. Los créditos para gastos que en el último día del ejercicio presupuestario no estén afectados al cumplimiento de obligaciones ya reconocidas, quedarán anulados de pleno derecho, sin perjuicio de lo establecido en el artículo 56 de esta Ley.
+
+#### Artículo 50. Créditos extraordinarios o suplementos de crédito.
+
+1\. Cuando haya de realizarse, con cargo a los Presupuestos Generales, un gasto específico y determinado que no pueda demorarse hasta el ejercicio siguiente y no exista en ellos crédito o sea insuficiente y no ampliable el consignado, la Consejería de Economía y Hacienda, a iniciativa propia o de la Consejería interesada, previo informe de la Dirección General de Economía y Presupuestos, elevará al acuerdo del Consejo de Gobierno la remisión de un proyecto de Ley para la concesión de un crédito extraordinario, en el primer caso, o de suplemento de crédito, en el segundo, en el que se especificará el recurso que haya de financiar el mayor gasto público.
+
+2\. Si la necesidad de crédito extraordinario o suplemento se produjera en un organismo autónomo y no supusiera aumento en los créditos de los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha ni superara el 5% del presupuesto de gasto del mismo, se observarán las siguientes disposiciones:
+
+a) La concesión de uno u otro corresponderá al Consejero de Economía y Hacienda, si su importe no excede del 2 por 100 del presupuesto de gastos del Organismo autónomo en cuestión, y al Consejo de Gobierno cuando, excediendo de dicho porcentaje, no supere el 5 por 100 del presupuesto de gastos del organismo autónomo. Dichos porcentajes se aplicarán acumulativamente en cada ejercicio presupuestario.
+
+b) En el expediente de modificación presupuestaria, informará la Consejería a cuyo presupuesto afecte o esté adscrito el organismo autónomo que lo promueva, debiendo justificarse la necesidad y urgencia del gasto, sin dejar de especificar el medio o recurso que ha de financiar el aumento que se proponga, ni la concreta partida presupuestaria a incrementar.
+
+c) El Consejo de Gobierno dará trimestralmente cuenta a las Cortes de Castilla-La Mancha de los créditos extraordinarios y suplementos de crédito concedidos al amparo del apartado a) del presente número.
+
+#### Artículo 51. Anticipos de Tesorería.
+
+1\. El Consejo de Gobierno, a propuesta de la Consejería de Economía y Hacienda y dentro de los límites que anualmente establezca la Ley de Presupuestos, puede conceder anticipos de Tesorería para atender pagos por gastos inaplazables, en los siguientes casos:
+
+a) Durante la tramitación de los expedientes de concesión de créditos extraordinarios o suplementos de crédito y siempre que hubiera sido dictaminado favorablemente por el Consejo Consultivo.
+
+b) Cuando se hubiera promulgado una Ley por la que se establezcan las obligaciones cuyo cumplimiento exija la concesión de un crédito extraordinario o suplementos de crédito.
+
+2\. Si las Cortes de Castilla-La Mancha no aprobaran el Proyecto de Ley de concesión de crédito extraordinario o de suplemento de crédito, los anticipos de Tesorería a que se refiere el presente artículo se cancelarán con cargo a los créditos que determine la Consejería de Economía y Hacienda.
+
+#### Artículo 52. Créditos ampliables.
+
+1\. No obstante lo dispuesto en el artículo 47 de esta Ley, tienen el carácter de ampliables, hasta el límite de las obligaciones que se reconozcan, aquellos créditos que de modo taxativo y explicitado se relacionen en la Ley de Presupuestos. Su cuantía podrá ser incrementada en función de las mayores obligaciones reconocidas en el respectivo ejercicio o de las necesidades que, habiendo de atenderse durante el ejercicio, superen la dotación correspondiente, sin que sea preciso instruir expediente de modificación presupuestaria cuando afecten a gastos de personal.
+
+2\. Igualmente podrán declararse ampliables por las respectivas Leyes de Presupuestos aquellos créditos vinculados a la recaudación de derechos afectados. Estos créditos serán ampliables hasta el límite de lo efectivamente recaudado.
+
+3\. El procedimiento para su tramitación y documentación a unir al mismo se determinará por el Consejero de Economía y Hacienda, en el marco del procedimiento general que se determine para las modificaciones presupuestarias.
+
+#### Artículo 53. Transferencias de crédito.
+
+1\. Pueden autorizarse transferencias entre los créditos de los estados de gastos de distinto nivel de vinculación con las siguientes limitaciones:
+
+a) No podrán minorarse los créditos ampliables con arreglo a lo establecido en esta ley.
+
+No obstante, estarán exentas de esta limitación las modificaciones de crédito relativas al pago de la Deuda Pública, siempre que el crédito no haya sido objeto previamente de ampliación y que estas modificaciones no reduzcan la capacidad de financiación de la Comunidad Autónoma en el ejercicio.
+
+b) No podrán minorarse los créditos extraordinarios concedidos en el ejercicio, ni los que hayan sido incrementados con suplementos.
+
+c) No podrán minorarse los créditos que hayan sido incrementados, ni podrán incrementarse créditos que hayan sido minorados mediante otras transferencias, salvo cuando:
+
+1.º Afecten a créditos de personal.
+
+2.º Afecten, dentro de una misma sección presupuestaria: a los créditos afectados financiados con recursos de naturaleza condicionada; a los créditos dotados con fondos propios destinados a la cofinanciación de actuaciones de naturaleza condicionada o finalista; y, a los créditos con financiación específica procedente del Fondo Europeo de Desarrollo Regional, del Fondo Social Europeo Plus y del Fondo de Compensación Interterritorial.
+
+3.º Tengan como origen las dotaciones no utilizadas en los programas de las distintas secciones del presupuesto, incrementadas por medio de otras transferencias y, como destino, el programa de imprevistos y funciones no clasificadas, con la finalidad de ser reasignados posteriormente para cubrir insuficiencias presupuestarias de urgente necesidad.
+
+4.º Tengan como origen el programa de imprevistos y funciones no clasificadas y, como destino, los programas de las distintas secciones del presupuesto, cuando sus dotaciones hayan sido minoradas mediante otras transferencias.
+
+5.º Afecten a créditos contenidos en la sección 61 “Servicio de Salud de Castilla-La Mancha”, en la sección 77 “Agencia de Transformación Digital de Castilla-La Mancha”, en la sección 80 “Entidad Pública Infraestructuras del Agua de Castilla-La Mancha” y en la sección 81 “Ente Público Radio Televisión de Castilla-La Mancha”.
+
+2\. En todo caso, las limitaciones establecidas en el apartado 1 no serán de aplicación cuando se trate de transferencias que afecten a los siguientes créditos:
+
+a) Programa de imprevistos y funciones no clasificadas.
+
+b) Los originados por el reajuste derivado de reorganizaciones competenciales o administrativas, o de la reordenación del sector público regional instrumental.
+
+c) Aquellos que, en su caso, se indiquen en las Leyes de Presupuestos de la Junta de Comunidades de Castilla-La Mancha con carácter temporal o coyuntural.
+
+> Se modifica el párrafo 5º del apartado 1.c) por la disposición final 1 de la Ley 5/2025, de 19 de diciembre. [Ref. BOE-A-2026-6979](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6979)
+
+> Se modifica por la disposición final 1.1 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2025-10208](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10208)
+
+> Se suspenden, durante el ejercicio 2012, las limitaciones establecidas en el apartado 1, letra c), según establece el art. 11 de la Ley 5/2012, de 12 de julio. [Ref. BOE-A-2012-13949](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-13949).
+
+> Se suspenden, hasta el final del ejercicio 2011, las limitaciones establecidas en el apartado 1, según establece la disposición adicional única de la Ley 14/2011, de 1 de diciembre. [Ref. BOE-A-2011-4186](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4186).
+
+#### Artículo 54. Generaciones de crédito.
+
+1\. Podrán generar crédito en los estados de gastos los ingresos del ejercicio por:
+
+a) Aportaciones del Estado, de sus organismos o instituciones, de fondos europeos o de otras personas naturales o jurídicas públicas o privadas que tengan por objeto financiar conjuntamente con la Junta de Comunidades de Castilla-La Mancha los gastos que por su naturaleza estén comprendidos en los fines u objetivos asignados a los mismos. Se incluyen en este caso los ingresos procedentes de subvenciones, convenios, participación en programas de gastos u otros de similar naturaleza.
+
+En estos casos, podrán generar crédito los ingresos realizados durante el ejercicio anterior siempre que por causas justificadas no se hubiera podido llevar a cabo la tramitación de la modificación durante dicho ejercicio.
+
+b) Enajenación de bienes. Cuando la enajenación de bienes se refiera a bienes inmuebles o activos financieros, la generación únicamente podrá realizarse en los créditos correspondientes a operaciones de capital.
+
+Cuando los ingresos provengan de la venta de bienes corrientes o prestaciones de servicios, las generaciones se efectuarán únicamente en aquellos créditos destinados a cubrir gastos de la misma naturaleza que los que se originaron por la adquisición o producción de los bienes enajenados o por la prestación del servicio.
+
+c) Prestación de servicios.
+
+d) Reembolso de préstamos. Los ingresos procedentes del reembolso de préstamos únicamente podrán dar lugar a generaciones en aquellos créditos destinados a la concesión de nuevos préstamos.
+
+e) Créditos del exterior para inversiones públicas que por Ley se haya dispuesto sean así financiadas.
+
+f) Las aportaciones de la Administración de la Junta de Comunidades de Castilla-La Mancha a sus organismos autónomos, así como de los organismos autónomos a la Administración de la Junta de Comunidades de Castilla-La Mancha, para financiar conjuntamente gastos que por su naturaleza estén comprendidos en los fines y objetivos asignados a los mismos.
+
+2\. Las generaciones de crédito derivadas de los supuestos contemplados en el apartado 1, letras a) y f) podrán realizarse cuando exista un compromiso firme de aportación siempre que el ingreso se prevea realizar en el mismo ejercicio presupuestario.
+
+3\. Asimismo, podrán generar crédito en los estados de gastos de las secciones presupuestarias que sean respectivamente competentes los mayores ingresos que, en su caso, se produzcan respecto de las cuantías previstas en el presupuesto inicial, en los siguientes supuestos:
+
+a) Como consecuencia de las sanciones pecuniarias que se impongan por incumplimiento de la normativa vigente.
+
+b) Como consecuencia de la aplicación de lo dispuesto en el artículo 149 de la Ley 3/2019, de 22 de marzo, del Estatuto de las Personas Consumidoras en Castilla-La Mancha, a los efectos del resarcimiento de daños y de la restitución de cantidades indebidamente cobradas a las personas consumidoras reclamantes.
+
+c) En la recaudación de tasas y precios públicos establecidos en Ley 9/2012, de 29 de noviembre, de Tasas y Precios Públicos de Castilla-La Mancha y otras medidas tributarias.
+
+d) Como consecuencia de los procesos de regularización de la facturación dirigida al organismo autónomo Servicio de Salud de Castilla-La Mancha.
+
+e) En la recaudación del canon medioambiental de la Directiva Marco del Agua regulado en el capítulo II, del título V, de la Ley 2/2022, de 18 de febrero, de Aguas de la Comunidad Autónoma de Castilla-La Mancha.
+
+Para generar crédito en los supuestos anteriormente enunciados será requisito indispensable la efectiva recaudación de los derechos reconocidos.
+
+4\. En tanto se produzcan traspasos de servicios del Estado, las transferencias de fondos correspondientes a estos servicios podrán generar créditos presupuestarios desde la entrada en vigor del correspondiente acuerdo de transferencia.
+
+5\. En todo caso, podrán generar crédito en los estados de gastos los ingresos del ejercicio derivados de aquellos otros supuestos, distintos de los indicados en los apartados anteriores que, taxativamente, se contemplen en las sucesivas leyes de presupuestos.
+
+> Se modifica por la disposición final 1.2 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2025-10208](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10208)
+
+> Se añade el apartado 5 por el art. 13 de la Ley 3/2017, de 1 de septiembre. [Ref. BOE-A-2017-11784](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-11784)
+
+#### Artículo 55. Reposiciones de crédito.
+
+Los ingresos obtenidos dentro del ejercicio por el reintegro de pagos realizados con cargo a créditos del presupuesto corriente o del ejercicio anterior, podrán dar lugar a la reposición de los mismos créditos en las condiciones que se determinen por la Consejería de Economía y Hacienda.
+
+#### Artículo 56. Incorporación de crédito.
+
+1\. No obstante lo dispuesto en el artículo 49 de esta Ley, podrán incorporarse a los presupuestos de gastos del ejercicio inmediato siguiente:
+
+a) Los créditos extraordinarios y los suplementos de crédito, así como las transferencias de crédito que hayan sido concedidos o autorizadas, respectivamente, en el último mes del ejercicio presupuestario y que, por causas justificadas, no hayan podido utilizarse durante el mismo.
+
+b) Los créditos para operaciones corrientes que amparen compromisos de gastos contraídos antes del último mes del ejercicio presupuestario y que, por causas justificadas, no hayan podido realizarse durante el mismo.
+
+c) Los créditos para operaciones de capital.
+
+d) Los créditos autorizados en función de la efectiva recaudación de derechos afectados, los generados por las operaciones que señala el artículo 54 de esta Ley y los que tengan naturaleza finalista o condicionada.
+
+e) Los créditos financiados con fondos vinculados a mecanismos extraordinarios de reparación de ámbito nacional, o supranacional, previstos para situaciones de crisis económicas de extraordinaria gravedad.
+
+f) Los créditos que hayan sido objeto de ampliación en los supuestos y con el alcance que dispongan las leyes anuales de presupuestos.
+
+2\. Los créditos que en aplicación de lo dispuesto en el apartado anterior fueran incorporados, no serán susceptibles de nueva incorporación a ejercicios posteriores, salvo que por ley se establezca otra cosa.
+
+No obstante, los remanentes de crédito derivados de recursos afectados o de fondos de naturaleza condicionada o finalista procedentes de otras Administraciones Públicas se podrán incorporar sin limitación del número de ejercicios y seguirán manteniendo el destino específico para el que fueron autorizados.
+
+> Se añaden las letras e) y f) al apartado 1 por la disposición final 1.3 de la Ley 11/2020, de 28 de diciembre. [Ref. BOE-A-2021-3634](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-3634)
+
+> Se modifica por la disposición final 1.2 de la Ley 10/2008, de 19 de diciembre. [Ref. BOE-A-2009-8668](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8668).
+
+#### Artículo 57. Competencias en materia de modificaciones de crédito.
+
+1\. Corresponde al Consejo de Gobierno:
+
+a) Autorizar las transferencias de crédito entre programas correspondientes a distintos grupos de función, a propuesta de la Consejería de Economía y Hacienda y a iniciativa de las Consejerías afectadas.
+
+b) Autorizar transferencias de crédito de las dotaciones no utilizadas en los programas de las distintas secciones del presupuesto, a los distintos conceptos del programa de imprevistos y funciones no clasificadas, habilitando a tal efecto los créditos que sean necesarios, para su ulterior reasignación.
+
+2\. Corresponde a los titulares de las Consejerías y de los órganos con dotaciones presupuestarias diferenciadas autorizar, previo informe de la Intervención delegada, en el ámbito de los programas que se les adscriben, las transferencias entre créditos de un mismo programa y correspondientes a un mismo capítulo, siempre que no supongan desviaciones en la consecución de los objetivos del respectivo programa.
+
+3\. Corresponde al titular de la Consejería de Economía y Hacienda, además de las competencias atribuidas a los titulares de las Consejerías:
+
+a) Las transferencias de crédito no incluidas en las competencias del Consejo de Gobierno y de las Consejerías.
+
+b) Las transferencias de crédito desde el programa de imprevistos y funciones no clasificadas.
+
+c) Las modificaciones de crédito mediante la creación de nuevos conceptos y subconceptos.
+
+d) Autorizar las generaciones, incorporaciones y ampliaciones de créditos de los supuestos enumerados por esta Ley y por las leyes de Presupuestos y, en general, aquellas modificaciones que no estén expresamente atribuidas a otros órganos.
+
+4\. Corresponde a los presidentes o directores de los organismos autónomos autorizar modificaciones presupuestarias en los mismos supuestos en que la competencia se atribuye a los titulares de la Consejerías.
+
+5\. Al inicio de cada trimestre del año se remitirá a las Cortes de Castilla-La Mancha información relativa a la ejecución presupuestaria en la que se incluirán las modificaciones presupuestarias realizadas.
+
+### CAPÍTULO III — Gestión y Liquidación de los Presupuestos
+
+#### Artículo 58. Procedimiento de gestión de los gastos.
+
+1\. La gestión del presupuesto de gastos se realizará a través de las siguientes fases:
+
+a) Aprobación de la realización de gasto. Se corresponde con el acto o negocio jurídico que conlleva la realización de un gasto determinado por una cuantía cierta o aproximada, reservando a tal fin la totalidad o parte de un crédito presupuestario.
+
+b) Disposición del gasto. Se corresponde con el acto o negocio jurídico del que se deriva un compromiso del gasto con relevancia jurídica para con terceros, que vincula a la Hacienda Pública regional a la realización del gasto a que se refiera en la cuantía y condiciones establecidas.
+
+c) Reconocimiento de la obligación. Declara la existencia de un crédito exigible contra la Hacienda Pública regional y comporta la propuesta de pago correspondiente.
+
+El reconocimiento de obligaciones con cargo a la Hacienda Pública regional se producirá previa acreditación documental ante el órgano que haya de reconocerlas de la realización de la prestación o del derecho del acreedor de conformidad con los acuerdos de los que en su día derivó la aprobación y el compromiso del gasto.
+
+d) Ordenación del pago y pago material conforme a lo dispuesto en el artículo 62.
+
+2\. La sucesión de las fases de gestión del presupuesto de gastos requerirá, en todo caso, de la materialización de los actos o negocios jurídicos que las generen de acuerdo con lo dispuesto en la normativa aplicable. Atendiendo a la naturaleza de los gastos y a criterios de economía y agilidad administrativa, podrán acumularse en un solo acto todas o algunas de las fases de ejecución del gasto en los supuestos y con las condiciones que se determinen por la consejería competente en materia de hacienda.
+
+3\. Las obligaciones se extinguirán por el pago, la compensación, la prescripción o por los demás medios admitidos en derecho, en los términos establecidos en esta ley y en las disposiciones especiales que resulten de aplicación.
+
+4\. Los órganos de la Administración regional y de sus organismos autónomos y entidades públicas requerirán autorización del Consejo de Gobierno, previamente a la adopción de actos o negocios jurídicos que conlleven la aprobación del gasto, en los siguientes casos:
+
+a) Convocatorias de subvenciones y otras ayudas económicas cuyo importe global sea superior a 5.000.000,00 euros.
+
+b) La celebración de contratos cuyo valor estimado sea superior a 5.000.000,00 euros.
+
+c) Los convenios, encargos, encomiendas o instrumentos similares a suscribir entre las entidades pertenecientes al sector público cuando el gasto sea superior a 5.000.000,00 euros, así como las modificaciones, liquidaciones y resoluciones de los mismos.
+
+Las leyes de presupuestos podrán modificar estas cuantías o añadir otros supuestos en los que sea necesaria la autorización del Consejo de Gobierno.
+
+5\. No será necesaria la autorización del Consejo de Gobierno en ningún caso, cualquiera que sea su importe, en los siguientes supuestos:
+
+a) Subvenciones y transferencias de financiación nominativas.
+
+b) Subvenciones y ayudas públicas aprobadas por la Administración General del Estado o de la Unión Europea y cuya gestión sea competencia de la Administración regional.
+
+c) La celebración de contratos y acuerdos marco que sean financiables con los Fondos Estructurales y de Inversión Europeos.
+
+> Se modifica por el art. 11.6 de la Ley 1/2023, de 27 de enero. [Ref. BOE-A-2023-5959](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5959)
+
+> Se añade el apartado 5 por la disposición final 3 de la Ley 10/2014, de 18 de diciembre. [Ref. BOE-A-2015-1629](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1629).
+
+#### Artículo 59. Principio de gestión responsable.
+
+1\. El ejercicio de las competencias de gestión financiera comporta la asunción responsable de las decisiones adoptadas, con independencia de los actos de control o de asesoramiento formulados por otros órganos en los correspondientes procedimientos.
+
+2\. A tal efecto, los órganos competentes de la gestión deberán establecer los sistemas de control que estimen adecuados para la supervisión de las diferentes actuaciones financieras que correspondan a sus unidades.
+
+#### Artículo 60. Utilización de tecnologías de la información y las comunicaciones.
+
+1\. En relación con las materias contempladas en esta Ley y en las normas que regulan los procedimientos de ejecución y control de los Presupuestos Generales, la Consejería de Economía y Hacienda podrá establecer los supuestos y los requisitos para la utilización de medios que faciliten el intercambio electrónico, informático o telemático de documentos para agilizar los procedimientos, sustituyendo, en su caso, los soportes documentales en papel por soportes propios de las tecnologías de la información y las comunicaciones, tanto en los trámites internos como en las relaciones con terceros, dentro del marco general establecido en el artículo 45 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+2\. Igualmente podrá disponer que las autorizaciones y controles formalizados mediante diligencias, firmas manuscritas, sellos u otros medios manuales se reemplacen por autorizaciones y controles establecidos en los sistemas de información.
+
+3\. En los términos que se establezca por la Consejería de Economía y Hacienda, la documentación justificativa de los gastos y pagos, con independencia del tipo de soporte en el que originalmente se hubiera plasmado, podrá conservarse en soporte informático. Las copias obtenidas de estos soportes informáticos gozarán de la validez y eficacia del documento original, siempre que quede garantizada su autenticidad, integridad y conservación.
+
+#### Artículo 61. Competencias en la gestión de gastos.
+
+1\. La competencia en materia de gestión de gastos corresponderá a quienes la ostenten para adoptar los actos o negocios jurídicos que los generen y ejecuten, conforme a lo dispuesto en las normas que regulen la estructura y competencias de la Administración regional, sus organismos autónomos y entidades públicas. A estos efectos, la ejecución presupuestaria quedará subsumida en los actos de gestión de los que derive, de tal manera que la adopción del acto o negocio jurídico que conlleve el gasto producirá la fase de gestión presupuestaria que le corresponda.
+
+2\. La desconcentración, la delegación y, en general, los actos por los que se transfieran la titularidad o el ejercicio de las competencias citadas en el apartado 1 se entenderán siempre referidos a ambas competencias.
+
+> Se modifica por el art. 11.7 de la Ley 1/2023, de 27 de enero. [Ref. BOE-A-2023-5959](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5959)
+
+#### Artículo 62. Ordenación de pagos.
+
+1\. Bajo la superior autoridad del titular de la Consejería de Economía y Hacienda compete al titular del órgano directivo competente en materia de tesorería las funciones de ordenador general de pagos.
+
+2\. La ordenación de pagos podrá recibir las propuestas y librar las correspondientes órdenes de pago por medios informáticos. En este supuesto, la documentación justificativa del gasto realizado podrá quedar en aquellos Centros Gestores en los que se reconocieron las correspondientes obligaciones.
+
+3\. La persona titular de la consejería competente en materia de hacienda, a propuesta de la Dirección General competente en materia de Tesorería, aprobará un plan sobre disposición de fondos al que habrá de acomodarse la expedición de las órdenes de pago con cargo a los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha.
+
+Para la elaboración del mismo, la citada Dirección General podrá recabar del sector público regional, definido en el artículo 4 de esta ley, cuantos datos, previsiones y documentación estime oportuna sobre los pagos e ingresos que puedan tener incidencia en el plan de disposición de fondos mencionado.
+
+Excepcionalmente, cuando las necesidades de liquidez así lo requieran y previa autorización de la persona titular de la consejería competente en materia de hacienda, la Dirección General anteriormente citada podrá disponer y aplicar los excedentes de tesorería de los entes del sector público regional a los que se refiere el párrafo anterior.
+
+> Se modifica el apartado 3 por la disposición final 4.4 de la Ley 10/2019, de 20 de diciembre. [Ref. BOE-A-2020-2113](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2113)
+
+> Se modifica el apartado 1 por la disposición adicional 7 de la Ley 12/2004, de 23 de diciembre. [Ref. BOE-A-2005-2648](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-2648).
+
+#### Artículo 63. Expedición de órdenes de pago.
+
+1\. Las órdenes de pago se expedirán a favor del acreedor. No obstante podrán expedirse libramientos a favor de las habilitaciones, cajas pagadoras o tesorerías, que actuarán como intermediarias para su posterior entrega a los acreedores, en los siguientes casos:
+
+a) Cuando se trate de retribuciones del personal al servicio de la Administración Regional.
+
+b) Cuando se trate del pago de haberes pasivos.
+
+c) Los pagos para la constitución o reposición de los anticipos de caja fija a que se refiere el artículo 65 de esta Ley.
+
+d) Los pagos a justificar a que se refiere el artículo 66 de esta Ley, tanto a favor de las Cajas Pagadoras de la Administración Regional como de otras personas o entidades.
+
+e) En los casos que autorice expresamente el ordenador general de pagos.
+
+2\. Los libramientos a las cajas pagadoras, tesorerías o habilitaciones podrán hacerse en metálico o figurar como autorizaciones para la disposición de fondos por los procedimientos que reglamentariamente se establezcan.
+
+#### Artículo 64. Embargo de derechos de cobro.
+
+1\. Las providencias o mandamientos de embargo de derechos de cobro de un particular frente a la Junta de Comunidades de Castilla-La Mancha solicitados por órganos judiciales o administrativos se llevarán a efecto centralizadamente por la Consejería de Economía y Hacienda.
+
+2\. Serán compensables de oficio, una vez transcurrido el plazo de ingreso en período voluntario, o a instancia del obligado al pago, las deudas a favor de la Hacienda de Castilla-La Mancha derivadas de la gestión de sus tributos propios y demás ingresos de derecho público, con los créditos reconocidos a favor de los deudores.
+
+Esta compensación se efectuará mediante la oportuna retención en las órdenes de pago expedidas a favor del deudor, previo acuerdo de compensación notificado al interesado.
+
+#### Artículo 65. Anticipo de caja fija.
+
+1\. Los anticipos de caja fija son provisiones de fondos de carácter permanente que se realizan a Cajas Pagadoras con objeto de atender gastos periódicos o repetitivos.
+
+2\. Estos anticipos de caja fija tendrán la consideración de operaciones extrapresupuestarias y su cuantía se determinará por la consejería competente en materia de hacienda.
+
+3\. Las unidades administrativas responsables de estos fondos justificarán su aplicación y situación conforme se establezca reglamentariamente y tales fondos formarán parte integrante de la Tesorería.
+
+4\. Con cargo al anticipo de Caja fija no podrán realizarse pagos individualizados superiores a 5.000 euros excepto los destinados a gastos de teléfono, energía eléctrica, combustibles o indemnizaciones por razón del servicio.
+
+> Se modifica por el art. 12.1 de la Ley 1/2024, de 15 de marzo. [Ref. BOE-A-2024-10149](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10149)
+
+#### Artículo 66. Pagos a justificar
+
+1\. Cuando excepcionalmente no pueda aportarse la documentación justificativa de las obligaciones a que se refiere la letra c) del apartado 1 del artículo 58 de esta Ley, podrán tramitarse propuestas de pagos presupuestarios y librarse los fondos con el carácter de “a justificar”.
+
+2\. Asimismo, podrán expedirse libramientos “a justificar” cuando los servicios o prestaciones a que se refieran tengan lugar en el extranjero.
+
+3\. Los perceptores de las órdenes de pago “a justificar” quedan obligados a justificar la aplicación de las cantidades recibidas. El plazo de rendición de cuentas será de tres meses, excepto los correspondientes a pagos de expropiaciones y pagos en el extranjero que tendrán que ser rendidas dentro del plazo de seis meses.
+
+Dicho plazo podrá ser ampliado por el Ordenador General de Pagos a seis y doce meses, respectivamente, a propuesta del órgano gestor del crédito, con informe de la Intervención Delegada.
+
+4\. Los perceptores de órdenes de pago “a justificar” son responsables, en los términos previstos en esta Ley, de la custodia y uso de los fondos y de la rendición de la cuenta.
+
+5\. Reglamentariamente se establecerán las normas que regulen la expedición de órdenes de pago a justificar.
+
+> Se modifica el apartado 1 por el art. 11.8 de la Ley 1/2023, de 27 de enero. [Ref. BOE-A-2023-5959](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5959)
+
+#### Artículo 67. Gestión del presupuesto de ingresos.
+
+1\. La gestión del presupuesto de ingresos se realizará a través de las fases de reconocimiento del derecho y extinción del derecho.
+
+2\. La extinción de los derechos se producirá, ordinariamente, por su cobro o por su compensación en los casos previstos en las disposiciones especiales que sean de aplicación. La extinción de derechos por otras causas será objeto de seguimiento diferenciado, distinguiendo entre las producidas por anulación de la liquidación y las producidas en el proceso de recaudación por prescripción, condonación, insolvencia o por otras causas.
+
+3\. En las devoluciones de ingresos se deberá distinguir entre las fases de reconocimiento del derecho a la devolución y de pago de la devolución. Las devoluciones se imputarán al presupuesto de ingresos del ejercicio en que se efectúe el pago.
+
+#### Artículo 68. Cierre y liquidación de los presupuestos.
+
+1\. El último día del ejercicio presupuestario se procederá al cierre y liquidación de los presupuestos.
+
+2\. Todos los derechos pendientes de cobro y las obligaciones pendientes de pago a la liquidación del presupuesto quedarán a cargo de la Tesorería según sus respectivas contracciones.
+
+3\. La Consejería de Economía y Hacienda dictará las normas de cierre del ejercicio presupuestario.
+
+### TÍTULO III — De las Subvenciones Públicas
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+### CAPÍTULO I — Disposiciones Generales
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+#### Artículo 69. Concepto y régimen jurídico.
+
+1\. A los efectos de este título, se entiende por subvención toda disposición dineraria realizada por cualquiera de los sujetos contemplados en el artículo siguiente, a favor de personas públicas o privadas, y que cumpla los requisitos recogidos en la normativa básica estatal.
+
+2\. Las subvenciones se regirán por lo dispuesto en la normativa básica estatal, en este título y en sus disposiciones de desarrollo, las restantes normas de derecho administrativo, y en su defecto, se aplicarán las normas de derecho privado.
+
+3\. No estarán comprendidos en el ámbito de aplicación de este título las aportaciones dinerarias entre diferentes Administraciones Públicas, para financiar globalmente la actividad de la Administración a la que vayan destinadas, y las que se realicen entre los distintos agentes de la Administración regional cuyos presupuestos se integren en los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha, tanto si se destinan a financiar globalmente su actividad como a la realización de actuaciones concretas a desarrollar en el marco de las funciones que tengan atribuidas, siempre que no resulten de una convocatoria pública.
+
+4\. No tienen la consideración de subvenciones las prestaciones establecidas por la Comunidad Autónoma que sean complementarias de las prestaciones excluidas de dicho carácter por la normativa básica estatal.
+
+5\. Lo dispuesto en esta Ley será de aplicación supletoria a los procedimientos de concesión de subvenciones públicas regulados por normas comunitarias o estatales y financiadas con fondos de la Unión Europea o del Estado.
+
+> Se modifica el apartado 3 por la disposición adicional 10 de la Ley 15/2007, de 20 de diciembre. [Ref. BOE-A-2008-6809](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-6809).
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+#### Artículo 70. Ámbito de aplicación subjetivo.
+
+1\. Las normas contenidas en el presente título son de aplicación a las subvenciones otorgadas por la Administración Regional, los organismos autónomos y demás entidades de derecho público con personalidad jurídica propia vinculadas o dependientes de ésta, en la medida que las subvenciones que otorguen sean consecuencia del ejercicio de potestades administrativas.
+
+2\. A las entregas dinerarias sin contraprestación que realicen los organismos y entidades de derecho público con personalidad jurídica propia, vinculadas o dependientes de la Administración Regional que actúen en régimen de derecho privado, así como las fundaciones que tengan la consideración de sector público, les serán de aplicación los principios de gestión y de información contenidos en la normativa básica estatal y en este título. En todo caso, las aportaciones gratuitas habrán de tener relación directa con el objeto de la actividad contenido en la norma de creación o en sus esta­tutos.
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+#### Artículo 71. Principios generales.
+
+1\. Los órganos de la Administración Regional, los organismos autónomos o cualesquiera entidades que propongan el establecimiento de subvenciones, con carácter previo, deberán concretar en un plan estratégico de subvenciones los objetivos y efectos que pretendan con su aplicación, el plazo necesario para su consecución, los costes previsibles y sus fuentes de financiación, supeditándose en todo caso al cumplimiento de los objetivos de estabilidad presupuestaria.
+
+2\. La gestión de las subvenciones a que se refiere este título se realizará de acuerdo con los principios de publicidad, transparencia, concurrencia, objetividad, igualdad, no discriminación, eficacia en el cumplimiento de los objetivos y eficiencia en la asignación y utilización de recursos públicos.
+
+3\. Cuando los objetivos que se pretendan conseguir afecten al mercado, su orientación debe dirigirse a corregir fallos claramente identificados y sus efectos deben ser mínimamente distorsionadores.
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+#### Artículo 72. Órganos competentes para la concesión de subvenciones.
+
+1\. Los titulares de las Consejerías, y los presidentes, directores o equivalentes de los organismos autónomos y demás entidades que tengan que ajustar su actividad al derecho público son los órganos competentes para conceder subvenciones dentro de sus respectivos ámbitos, previa consignación presupuestaria para este fin.
+
+2\. **(Suprimido).**
+
+3\. La competencia para conceder subvenciones podrá ser objeto de desconcentración o delegación, conforme a la normativa que resulte de aplicación.
+
+> Se suprime el apartado 2 por el art. 11.9 de la Ley 1/2023, de 27 de enero. [Ref. BOE-A-2023-5959](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5959)
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+#### Artículo 73. Bases reguladoras de la concesión de subvenciones.
+
+1\. Previamente al otorgamiento de las subvenciones deberán aprobarse las normas que establezcan las bases reguladoras de la concesión.
+
+2\. Las citadas bases se aprobarán por orden del titular de la Consejería competente por razón de la materia o a la que esté adscrita el órgano o entidad concedente, previo informe de los servicios jurídicos y de la Intervención que resulte competente y serán objeto de publicación en el Diario Oficial de Castilla-La Mancha.
+
+No será necesaria la publicación de orden del titular de la Consejería correspondiente cuando las normas sectoriales específicas de cada subvención incluyan las citadas bases reguladoras, con el alcance previsto en el apartado siguiente.
+
+3\. La norma reguladora de las bases de concesión de subvenciones deberá contener, al menos, los siguientes extremos:
+
+a) Definición del objeto de la subvención.
+
+b) Requisitos que habrán de reunir los beneficiarios para la obtención de la subvención y, en su caso, los miembros de las entidades contempladas en el apartado 2 y segundo párrafo del apartado 3 del artículo 11 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y forma y plazo en que deben presentarse las solicitudes.
+
+Deberá establecerse, con carácter general, que los beneficiarios tengan su domicilio fiscal en el territorio de la Comunidad Autónoma de CastillaLa Mancha. Dicho requisito podrá ser excepcionado, de forma motivada, por razón del objeto y finalidad de la subvención o de la actividad subvencionada, por estar cofinanciados con fondos procedentes de la Unión Europea o estatales o por considerarlo conveniente para el desarrollo económico y social de la Comunidad Autónoma.
+
+El Gobierno Regional remitirá trimestralmente a las Cortes de Castilla-La Mancha relación individualizada de los supuestos excepcionados en el párrafo anterior acompañados de su motivación.
+
+c) Condiciones de solvencia y eficacia que hayan de reunir las entidades colaboradoras.
+
+d) Procedimiento de concesión de la subvención.
+
+e) Criterios objetivos de otorgamiento de la subvención y, en su caso, ponderación de los mismos.
+
+f) Cuantía individualizada de la subvención o criterios para su determinación.
+
+g) Órganos competentes para la ordenación, instrucción y resolución del procedimiento de concesión y el plazo en el que será notificada la resolución.
+
+h) En su caso, composición del órgano colegiado que haya de elevar la propuesta de resolución.
+
+i) Plazo y forma de justificación por parte del beneficiario o de la entidad colaboradora, en su caso, del cumplimiento de la finalidad para la que se concedió la subvención y de la aplicación de los fondos percibidos.
+
+j) Forma y requisitos exigidos para el pago de las subvenciones y, en su caso, posibilidad de efectuar pagos anticipados, en los términos previamente determinados por la Consejería competente en materia de hacienda.
+
+k) Compatibilidad o incompatibilidad con otras subvenciones, ayudas, ingresos o recursos para la misma finalidad, procedentes de cualesquiera administraciones o entes públicos o privados, nacionales, de la Unión Europea o de organismos internacionales.
+
+l) Criterios de graduación de los posibles incumplimientos de condiciones impuestas con motivo de la concesión de las subvenciones. Estos criterios resultarán de aplicación para determinar la cantidad que finalmente haya de percibir el beneficiario o, en su caso, el importe a reintegrar, y deberán responder al principio de proporcionalidad.
+
+m) Forma y plazo para la publicación de las subvenciones concedidas y medio en que se realizará.
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+#### Artículo 74. Beneficiarios de subvenciones y entidades colaboradoras.
+
+1\. Podrán obtener la condición de beneficiario de subvenciones, o entidad colaboradora, las personas o entidades que se encuentren en la situación que fundamente la concesión de la subvención o en las que concurran las circunstancias previstas en las bases reguladoras y en la convocatoria, en los términos señalados en la normativa básica estatal.
+
+2\. Los requisitos para obtener la condición de beneficiario de subvenciones o entidades colaboradoras así como las obligaciones de las personas o entidades que las obtengan serán los establecidos en la normativa básica estatal.
+
+Entre las circunstancias que deberán acreditar los beneficiarios de las subvenciones, o entidades colaboradoras, otorgadas por los órganos comprendidos en el ámbito subjetivo de aplicación señalado en el artículo 70 de esta ley estarán las de no estar incursa la persona física, los administradores de las sociedades mercantiles o aquellos que ostenten la representación legal de otras personas jurídicas en los supuestos de incompatibilidad regulados en la Ley 11/2003, de 25 de septiembre, del Gobierno y el Consejo Consultivo de Castilla-La Mancha, la de no ser receptoras, acreditándolo con declaración responsable, de la prestación de servicios o actividades por parte de personas que, habiendo desempeñado cargos públicos o asimilados en la Administración de la Junta de Comunidades de Castilla-La Mancha así como en los organismos y entidades de su sector público, incumplieran lo dispuesto en el artículo 19.5 de la Ley 11/2003, de 25 de septiembre, del Gobierno y el Consejo Consultivo de Castilla-La Mancha, durante el plazo de dos años desde el cese y las de hallarse al corriente en el cumplimiento de las obligaciones tributarias y de pago de obligaciones por reintegro de subvenciones con la Administración regional, en la forma que se determine reglamentariamente.
+
+Cuando las bases reguladoras así lo prevean, la presentación de la solicitud de subvención conllevará la autorización del solicitante para que el órgano concedente obtenga de forma directa la acreditación de las circunstancias de cumplimiento de las obligaciones tributarias y con la Seguridad Social a través de certificados telemáticos, en cuyo caso el solicitante no deberá aportar la correspondiente certificación.
+
+No obstante, el solicitante podrá denegar expresamente el consentimiento, debiendo aportar entonces la certificación correspondiente de la Agencia Estatal de la Administración Tributaria, la Tesorería General de la Seguridad Social y la Administración Regional.
+
+3\. Cuando las bases reguladoras de la subvención establezcan la participación de entidades colaboradoras en la gestión de las subvenciones o en la entrega y distribución de fondos públicos se formalizará un convenio de colaboración en el que se concretarán las condiciones y obligaciones asumidas por éstas.
+
+> Se modifica el segundo párrafo del apartado 2, por la disposición final 2 de la Ley 4/2024, de 19 de julio. [Ref. BOE-A-2025-4169](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4169)
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+### CAPÍTULO II — Procedimientos de concesión y gestión de las subvenciones, y su gestión presupuestaria
+
+> Se modifica por el art. 2.4 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+#### Artículo 75. Procedimientos de concesión.
+
+1\. El procedimiento ordinario de concesión de subvenciones se tramitará en régimen de concurrencia competitiva.
+
+No obstante lo dispuesto en el apartado anterior, las bases reguladoras podrán establecer un procedimiento simplificado de concurrencia cuando la naturaleza o características de la subvenciones no permitan el establecimiento de un plazo cerrado de presentación de solicitudes y el establecimiento de una prelación entre ellas que no sea la temporal, circunstancia que deberá quedar debidamente justificada en el expediente.
+
+En este procedimiento simplificado las bases reguladoras establecerán los criterios para evaluar las solicitudes y asignarles una subvención, siendo tramitadas y resueltas conforme se vayan presentando dentro del plazo previsto en la convocatoria y hasta el límite del crédito consignado en la misma.
+
+2\. Podrán concederse de forma directa las siguientes subvenciones:
+
+a) Las que tengan asignación nominativa en los Presupuestos Generales de Castilla-La Mancha.
+
+Se entiende por subvención con asignación nominativa en los Presupuestos Generales de Castilla-La Mancha aquella en que al menos su dotación presupuestaria y beneficiario aparezcan determinados en los estados de gasto del Presupuesto. El objeto de estas subvenciones deberá quedar determinado expresamente en el correspondiente convenio o resolución de concesión que, en todo caso, deberá ser congruente con la clasificación funcional y económica del correspondiente crédito presupuestario.
+
+b) Aquellas cuyo otorgamiento o cuantía resulten impuestos a la Administración por norma de rango legal, que seguirán el procedimiento de concesión que les resulte de aplicación de acuerdo con su propia normativa.
+
+c) Con carácter excepcional, aquellas otras en que se acrediten razones de interés público, social, económico o humanitario, u otras debidamente justificadas que dificulten su convocatoria pública.
+
+3\. El Consejo de Gobierno aprobará por decreto, a propuesta de la persona titular de la Consejería competente a la que esté adscrita el órgano o entidad concedente, y previo informe de la Consejería competente en materia de hacienda, las normas especiales, con el carácter de bases reguladoras, de las subvenciones previstas en la letra c) del apartado anterior. No obstante, cuando el beneficiario de la subvención sea una entidad pública o privada sin ánimo de lucro y la cuantía de la misma sea inferior a 60.000 euros, la ayuda se podrá instrumentar directamente mediante resolución o convenio.
+
+El decreto, resolución o convenio previstos en el párrafo anterior, deberán ajustarse a las previsiones contenidas en la normativa de subvenciones, salvo en lo que se refiere a los principios de publicidad y concurrencia, y contendrán, como mínimo, los siguientes extremos:
+
+a) Definición del objeto de las subvenciones, con indicación del carácter singular de las mismas y las razones que acreditan el interés público, social, económico o humanitario, y aquellas que justifican la dificultad de convocatoria pública.
+
+b) Régimen jurídico aplicable.
+
+c) Beneficiarios, importe y modalidades de ayuda.
+
+d) Partida presupuestaria a la que se imputarán las subvenciones.
+
+e) Procedimiento de concesión, en su caso, y régimen de justificación de la aplicación dada a las subvenciones por los beneficiarios y, en su caso, entidades colaboradoras.
+
+Cuando medie un decreto del Consejo de Gobierno, si este tuviera vigencia indefinida, el órgano concedente, previa tramitación del expediente de gasto correspondiente, deberá publicar anualmente mediante resolución la declaración de los créditos presupuestarios disponibles para atender las obligaciones de contenido económico que se deriven de la concesión, sin que hasta entonces pueda iniciarse el plazo de presentación de solicitudes de los interesados.
+
+4\. No podrán otorgarse subvenciones por cuantía superior a la que se determine en la convocatoria.
+
+5\. La persona interesada no tendrá la obligación de presentar con la solicitud ningún documento acreditativo de los requisitos o justificativo de los datos presentados, sin perjuicio de lo que establezcan las bases reguladoras. A estos efectos, la persona interesada deberá acompañar junto con la solicitud la correspondiente declaración responsable.
+
+> Se añade el apartado 5 por la disposición final 1 de la Ley 4/2025, de 11 de julio. [Ref. BOE-A-2025-18966](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-18966)
+
+> Se modifican los apartados 2 y 3 por el art. único de la Ley 3/2022, de 18 de marzo. [Ref. BOE-A-2022-12289](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12289)
+
+> Se declara inconstitucional y nulo, con el alcance señalado en el fundamento jurídico 5, la supresión del párrafo segundo del apartado 2.c) en la redacción dada por la disposición final 4.5 de la Ley 10/2019, de 20 de diciembre, por Sentencia del TC 16/2022, de 8 de febrero. [Ref. BOE-A-2022-3803](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3803)
+
+> Se modifican los apartados 2 y 3 por la disposición final 4.5 de la Ley 10/2019, de 20 de diciembre. [Ref. BOE-A-2020-2113](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2113)
+
+> Se modifica por el art. 2.2 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+#### Artículo 76. Procedimiento de concesión.
+
+1\. El procedimiento para la concesión de subvenciones en régimen de concurrencia competitiva se iniciará siempre de oficio, a través de la correspondiente convocatoria. El contenido necesario de las convocatorias se establecerá reglamentariamente.
+
+2\. Las bases reguladoras de la subvención podrán acordar la realización de varios procedimientos de selección sucesivos a lo largo del ejercicio presupuestario.
+
+3\. La ordenación, instrucción y resolución del procedimiento de concesión de subvenciones se realizará, conforme a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y Procedimiento Administrativo Común, sin perjuicio de las especialidades que resulten de la normativa básica estatal en materia de subvenciones, del presente título o, de las normas reglamentarias de desarrollo.
+
+4\. Cuando por la naturaleza de la subvención, el número y las circunstancias de los posibles beneficiarios, las normas reguladoras de la subvención así lo prevean, se podrá finalizar el procedimiento mediante acuerdo entre la Administración y los interesados.
+
+En cualquier caso, la terminación convencional deberá respetar el objeto, condiciones y finalidad de la subvención, así como los criterios de valoración o evaluación establecidos respecto a las solicitudes.
+
+5\. El plazo máximo para resolver y notificar la resolución del procedimiento no podrá exceder de seis meses, salvo que una norma con rango de ley establezca un plazo mayor o así venga previsto en la normativa de la Unión Europea. El plazo se computará a partir de la publicación de la correspondiente convocatoria, salvo que la misma posponga sus efectos a una fecha posterior.
+
+6\. El vencimiento del plazo máximo sin haberse notificado la resolución legitima a los interesados para entender desestimada, por silencio administrativo, la solicitud de concesión de la subvención.
+
+7\. Serán aplicables al procedimiento simplificado de concurrencia las disposiciones reguladoras del procedimiento de concurrencia competitiva, a excepción de aquellos aspectos que tengan relación con el carácter competitivo de la concurrencia.
+
+> Se modifica por el art. 2.3 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+#### Artículo 77. Procedimiento de gestión y justificación de subvenciones.
+
+1\. Será de aplicación la norma estatal reguladora de la subcontratación de las actividades subvencionadas por los beneficiarios, de justificación de las subvenciones públicas, sobre gastos subvencionables, comprobación de subvenciones y comprobación de valores, establecida en los artículos 29 a 33 de la ley 38/2003, de 17 de diciembre, General de Subvenciones.
+
+2\. Reglamentariamente se podrá adaptar dicha normativa a las especialidades organizativas y de gestión, propias de la Administración Regional, sus organismos autónomos y entidades públicas.
+
+3\. No podrá realizarse el pago de la subvención en tanto el beneficiario no se encuentre al corriente en el cumplimiento de sus obligaciones tributarias con la Administración de la Junta de Comunidades de Castilla-La Mancha o sea deudor por resolución de procedencia de reintegro.
+
+> Se modifica por el art. único de la Ley 3/2023, de 24 de febrero. [Ref. BOE-A-2023-7335](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7335)
+
+> Se añaden los apartados 3 y 4 por el art. 2.5 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+### CAPÍTULO III — Reintegro de subvenciones
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+#### Artículo 78. Normas generales sobre reintegro de subvenciones.
+
+1\. Procederá el reintegro de subvenciones y, en su caso, la exigencia del interés de demora correspondiente, en los supuestos previstos en la normativa básica estatal.
+
+2\. Las cantidades a reintegrar tendrán la consideración de ingresos de derecho público y se cobrarán conforme a lo previsto en los artículos 23 y 24 de esta Ley.
+
+3\. El interés de demora será el que se determine por la normativa estatal aplicable al reintegro de subvenciones.
+
+4\. La prescripción del derecho de la administración a reconocer o liquidar el reintegro se producirá conforme a la normativa estatal aplicable al reintegro de subvenciones.
+
+5\. Estarán obligados al reintegro las personas y entidades señaladas y en la forma prevista en la normativa estatal.
+
+6\. Si el reintegro es acordado por los órganos de la Unión Europea, el órgano al que corresponda la gestión del recurso ejecutará dichos acuerdos.
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+#### Artículo 79. Procedimiento de reintegro.
+
+1\. El procedimiento de reintegro de subvenciones se regirá por las disposiciones generales sobre procedimientos administrativos contenidas en el título VI de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, sin perjuicio de las especialidades que se establecen en este título y en sus disposiciones de desarrollo.
+
+2\. El órgano concedente será el competente para exigir el reintegro de las subvenciones.
+
+3\. El procedimiento de reintegro de subvenciones se iniciará de oficio por acuerdo del órgano competente, bien por propia iniciativa, bien como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia. También se iniciará a consecuencia de los informes de control financiero emitidos por la Intervención General de la Junta de Comunidades de Castilla-La Mancha o de los informes de la Sindicatura de Cuentas de Castilla-La Mancha o por solicitud de las Cortes de Cas­tilla-La Mancha.
+
+4\. En la tramitación del procedimiento se garantizará, en todo caso, el derecho del interesado a la audiencia.
+
+5\. El plazo máximo para resolver y notificar la resolución del procedimiento de reintegro será de 12 meses desde la fecha del acuerdo de iniciación. Dicho plazo podrá suspenderse y ampliarse de acuerdo con lo previsto en los apartados 5 y 6 del artículo 42 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Si transcurre el plazo para resolver sin que se haya notificado resolución expresa, se producirá la caducidad del procedimiento, sin perjuicio de continuar las actuaciones hasta su terminación y sin que se considere interrumpida la prescripción por las actuaciones realizadas hasta la finalización del citado plazo.
+
+6\. La resolución del procedimiento de reintegro pondrá fin a la vía administrativa.
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+### CAPÍTULO IV — Infracciones y Sanciones Administrativas
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+#### Artículo 80. Normativa de aplicación.
+
+Se aplicará la normativa estatal sobre infracciones y sanciones administrativas en materia de subvenciones, salvo en lo que resulte afectado por lo dispuesto en el artículo siguiente.
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+#### Artículo 81. Competencia para la imposición de sanciones.
+
+Las sanciones en materia de subvenciones serán acordadas e impuestas por los siguientes órganos:
+
+a) Los órganos concedentes en el supuesto de infracciones calificadas como leves.
+
+b) Los titulares de las Consejerías a las que pertenezcan los órganos o estén adscritos los organismos o entidades concedentes, en las sanciones a imponer por infracciones graves o muy graves, salvo lo establecido en la letra c).
+
+c) Al titular de la Consejería competente en materia de hacienda, cuando la sanción consista en la pérdida de la posibilidad de obtener subvenciones, ayudas públicas y avales de la Junta de Comunidades de Castilla-La Mancha, en la prohibición para celebrar contratos o en la pérdida de la posibilidad de actuar como entidad colaboradora.
+
+> Se modifica por el art. 1.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+## TÍTULO IV — De la Tesorería y de las Operaciones Financieras
+
+> Se renumera como Título IV por el art. 1.2 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+> Su anterior numeración era Título III.
+
+### CAPÍTULO I — De la Tesorería
+
+#### Artículo 82. La Tesorería de la Junta de Comunidades de Castilla-La Mancha.
+
+1\. Constituye la Tesorería de la Junta de Comunidades de Castilla-La Mancha todos los recursos financieros, tanto por operaciones presupuestarias como extrapresupuestarias, ya sean dinero, valores o créditos.
+
+2\. Las disponibilidades de la Tesorería y sus variaciones quedan sujetas a intervención y al régimen de la contabilidad pública.
+
+#### Artículo 83. Funciones de la Tesorería.
+
+1\. La Tesorería depende de la Consejería de Economía y Hacienda y en ella se gestionan y custodian los fondos, valores y créditos de la Comunidad en los términos establecidos en esta Ley.
+
+2\. Son funciones encomendadas a la Tesorería:
+
+a) Recaudar los derechos, recoger los flujos monetarios de toda clase de ingresos y pagar las obligaciones.
+
+b) Servir al principio de unidad de caja, mediante la centralización de los fondos y valores generados por operaciones presupuestarias y extrapresupuestarias.
+
+c) Distribuir en el tiempo y en el territorio las disponibilidades dinerarias para la puntual satisfacción de las obligaciones.
+
+d) Responder de los avales contraídos por la Administración Regional, según las disposiciones de esta Ley.
+
+e) Las demás que se deriven o relacionen con éstas.
+
+#### Artículo 84. Caja General de depósitos y garantías.
+
+1\. La caja general de depósitos y garantías, depende de la consejería competente en materia de hacienda, y en ella se constituirán, a disposición de la autoridad administrativa correspondiente, los depósitos y garantías, en metálico o valores, destinados a asegurar el cumplimiento de las obligaciones de los actos de gestión de la Junta de Comunidades de Castilla-La Mancha.
+
+2\. Las cantidades depositadas se contabilizarán como operaciones extrapresupuestarias, no devengarán interés alguno y prescribirán a favor de la tesorería de la Junta de Comunidades de Castilla-La Mancha cuando durante el plazo de veinte años no se realice gestión alguna por los interesados en orden a su cancelación y reintegro o eventual renovación.
+
+3\. La persona titular de la consejería competente en materia de hacienda podrá autorizar, de forma excepcional y a petición de la persona titular de la consejería de la que dependa el órgano interesado, que determinados depósitos o garantías, dada su peculiaridad, se puedan constituir ante otros órganos de la Administración regional, que no sea la dirección general que tenga atribuida la competencia de la caja general de depósitos y garantías.
+
+4\. El funcionamiento de los depósitos y garantías se regulará por orden de la persona titular de la consejería competente en materia de hacienda, en la que se podrá incluir, la centralización de los depósitos y garantías que se constituyan en favor de sujetos integrantes del sector público regional.
+
+> Se modifica por el art. 11.10 de la Ley 1/2023, de 27 de enero. [Ref. BOE-A-2023-5959](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5959)
+
+#### Artículo 85. Relación con entidades de crédito.
+
+1\. Los recursos de la Tesorería pueden situarse en entidades de crédito, en cuentas de las que, en todo caso, ostentará la titularidad la Junta de Comunidades de Castilla-La Mancha.
+
+2\. El régimen de autorizaciones para la apertura de cuentas en las que se sitúen fondos, la naturaleza de las mismas, y la situación, disposición y control de cualquier tipo de recursos de los que sea titular la Junta de Comunidades de Castilla-La Mancha, se determinará por la Consejería de Economía y Hacienda.
+
+3\. La Consejería de Economía y Hacienda podrá suscribir convenios con las entidades de crédito, tendentes a determinar el régimen de funcionamiento de las cuentas en que se encuentren situados fondos de la Tesorería y, en especial, el tipo de interés al que serán retribuidas, las comisiones a pagar, en su caso, y las demás obligaciones y servicios asumidos por las entidades.
+
+4\. La Consejería de Economía y Hacienda, en relación con las cuentas abiertas en entidades de crédito podrá recabar del órgano administrativo gestor o de la entidad de crédito, cualquier dato relativo a las mismas, a fin de comprobar el cumplimiento de las condiciones de su utilización.
+
+Igualmente, podrá ordenar su cancelación o paralizar su utilización cuando se compruebe que no persisten o se han modificado las razones que determinaron su apertura.
+
+5\. Las entidades de crédito podrán prestar servicios de mediación en los ingresos y pagos de la Tesorería.
+
+#### Artículo 86. Instrumentos de pago e ingreso.
+
+1\. En las condiciones reglamentariamente establecidas, los ingresos y los pagos de la Tesorería podrán realizarse mediante efectivo, cheque, transferencia bancaria, giro postal o cualesquiera otros medios de pago, sean o no bancarios.
+
+No obstante lo anterior, la Consejería de Economía y Hacienda podrá exigir que, en la realización de determinados ingresos o pagos, sólo puedan utilizarse determinados medios de ingreso o pago.
+
+2\. Toda disposición de fondos públicos deberá efectuarse mediante, al menos, dos firmas conjuntas.
+
+### CAPÍTULO II — De las Operaciones Financieras
+
+#### Artículo 87. Operaciones financieras de la Junta de Comunidades de Castilla-La Mancha y de otros Entes del Sector Público Regional.
+
+1\. La Junta de Comunidades de Castilla-La Mancha podrá realizar operaciones de crédito por plazo superior a un año, siempre que se cumplan los siguientes requisitos:
+
+a) Que el importe total del crédito se destine a la realización de gastos de inversión.
+
+b) Que el importe total de las anualidades de amortización, por capital e intereses, no exceda del 25 por ciento de los ingresos corrientes.
+
+La Ley de Presupuestos fijará para cada ejercicio los límites máximos a que ascenderán estas operaciones y determinará los órganos competentes para su emisión y formalización.
+
+2\. La Junta de Comunidades de Castilla-La Mancha podrá realizar operaciones de crédito por plazo igual o inferior un año, con objeto de cubrir necesidades transitorias de tesorería.
+
+3\. Los organismos autónomos y demás entidades pertenecientes al sector público regional podrán realizar operaciones de crédito dentro de los límites y de acuerdo con los requisitos establecidos en sus respectivas leyes de creación y en las leyes anuales de Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha. En todo caso, será requisito imprescindible para su concertación el informe preceptivo y favorable de la Consejería de Economía y Hacienda.
+
+#### Artículo 88. Registro de las operaciones financieras.
+
+1\. El producto, la amortización y los gastos por intereses y por conceptos derivados de las operaciones de endeudamiento se aplicarán al respectivo presupuesto.
+
+2\. El producto de las operaciones de crédito destinadas a financiar necesidades transitorias de tesorería así como su amortización tendrán la consideración de operaciones extrapresupuestarias, imputándose únicamente al presupuesto el importe de la variación neta de dichas operaciones durante el ejercicio.
+
+3\. En las operaciones de permuta financiera, cuando se pacte la liquidación por diferencias del principal o los intereses de los capitales permutados, se imputarán tales diferencias al presupuesto de ingresos o gastos, según corresponda la liquidación.
+
+4\. En cualquier caso, los intereses y los gastos de formalización que se generen se aplicarán al presupuesto.
+
+#### Artículo 89. Otras operaciones financieras.
+
+1\. La Consejería de Economía y Hacienda puede acordar el reembolso anticipado de emisiones de Deuda Pública o de créditos o préstamos recibidos, así como su refinanciación, cuando la situación del mercado u otras circunstancias lo aconsejen.
+
+Asimismo, puede acordar operaciones voluntarias de canje, conversión, prórroga o intercambio financiero relativas al endeudamiento, así como cualesquiera otras operaciones con la finalidad de obtener un menor coste financiero, reducir el riesgo, prevenir los posibles efectos adversos derivados de las fluctuaciones en las condiciones del mercado o mejorar la distribución de la carga financiera. De dichas operaciones se dará cuenta al Consejo de Gobierno.
+
+2\. La Consejería de Economía y Hacienda puede realizar operaciones financieras activas siempre que éstas reúnan las adecuadas condiciones de liquidez, seguridad y rentabilidad económica.
+
+### CAPÍTULO III — De los Avales
+
+#### Artículo 90. Avales.
+
+1\. El otorgamiento de avales por la Junta de Comunidades de Castilla-La Mancha, en todo caso, deberá ser autorizado por Ley.
+
+2\. Los avales otorgados devengarán a favor de la misma las comisiones que, en su caso, se determinen.
+
+3\. La Consejería de Economía y Hacienda podrá inspeccionar las operaciones o inversiones financiadas con créditos avalados por la Junta de Comunidades de Castilla-La Mancha, para comprobar su aplicación y rentabilidad, dando cuenta de los resultados a las Cortes Regionales.
+
+## TÍTULO V — Del Control Interno
+
+> Se renumera como Título V por el art. 1.2 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+> Su anterior numeración era Título IV.
+
+### CAPÍTULO I — Disposiciones Comunes
+
+#### Artículo 91. Funciones de la Intervención General.
+
+La Intervención General con plena autonomía respecto a los órganos y Entidades sujetos a fiscalización, tendrá las siguientes facultades:
+
+a) Centro de control interno.
+
+b) Centro directivo de la Contabilidad del Sector Público Regional.
+
+c) Centro gestor de la Contabilidad Pública.
+
+#### Artículo 92. Definición del control interno.
+
+1\. El control interno de la gestión económica y financiera del sector público de la Junta de Comunidades de Castilla-La Mancha se realizará por la Intervención General sobre el conjunto de la actividad financiera y sobre los actos con contenido económico que lo integran, con la finalidad de procurar el mejor cumplimiento de los principios de legalidad, economía, eficiencia y eficacia.
+
+2\. Este control se ejercerá con arreglo a lo dispuesto en la presente Ley y disposiciones reglamentarias mediante la función interventora y el control financiero.
+
+3\. Además de las funciones de control interno que se regulan en la presente Ley, la Intervención General podrá ejercer el control financiero, en la forma que reglamentariamente se establezca respecto de las subvenciones, créditos, avales y demás ayudas que se concedan con cargo a los Presupuestos Generales de Castilla-La Mancha.
+
+Los funcionarios de la Intervención General, en el ejercicio de las funciones de control financiero de subvenciones tendrán la consideración de agentes de la autoridad, con las facultades y obligaciones contempladas en la normativa estatal sobre subvenciones.
+
+> Se modifica el apartado 1 por el art. 2.6 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+> Se modifica el apartado 3 por el art. 2.1 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+#### Artículo 93. Características del control interno.
+
+1\. La Intervención General ejercerá sus funciones de control conforme a los principios de autonomía funcional, ejercicio desconcentrado, jerarquía interna y procedimiento contradictorio.
+
+2\. El control a que se refiere este título será ejercido por la Intervención General, a través de sus servicios centrales o de sus Intervenciones Delegadas, con plena autonomía respecto del órgano o entidad sometido al mismo. A tales efectos, los funcionarios que lo realicen gozarán de independencia funcional respecto de los titulares de los órganos cuya gestión controlen, y ajustarán su actuación a las instrucciones impartidas por la Intervención General.
+
+3\. La Intervención General y sus Intervenciones Delegadas, en el ejercicio de sus funciones de control interno, podrán recabar directamente de quien corresponda los asesoramientos técnicos y jurídicos que consideren necesarios, así como los antecedentes y documentos precisos. Cuando los asesoramientos que hayan de recabarse procedan de órganos cuya competencia se extienda a la totalidad de la Administración Regional o su sector público, se solicitarán, en todo caso, por la Intervención General.
+
+4\. Los funcionarios que desempeñan las funciones de control deberán guardar la confidencialidad y el secreto respecto de los asuntos que conozcan por razón de su trabajo.
+
+Los datos, informes o antecedentes obtenidos en el desarrollo de sus funciones sólo podrán utilizarse para los fines del control y, en su caso, para la denuncia de hechos que puedan ser constitutivos de infracción administrativa, responsabilidad contable o de delito.
+
+En los demás casos en que proceda legalmente el acceso a los informes de control, la solicitud de los mismos se dirigirá directamente a sus destinatarios.
+
+5\. Las autoridades, cualquiera que sea su naturaleza, los jefes o directores de oficinas públicas, los de las entidades integrantes del sector público regional y quienes en general, ejerzan funciones públicas o desarrollen su trabajo en dichas entidades deberán prestar a los funcionarios encargados del control el apoyo, concurso, auxilio y colaboración que les sean precisos, facilitando la documentación e información necesaria para dicho control.
+
+6\. En el ejercicio de las facultades de control, el órgano competente de la Intervención General, previo requerimiento, podrá recabar de las personas naturales o jurídicas, públicas o privadas, toda clase de datos, informes o antecedentes, con trascendencia para las actuaciones de control que desarrolle.
+
+7\. La Intervención General podrá interponer los recursos y reclamaciones que autoricen las disposiciones vigentes.
+
+> Se modifica por el art. 2.7 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+### CAPÍTULO II — De la Función Interventora
+
+#### Artículo 94. Concepto y ámbito de aplicación.
+
+1\. La función interventora tiene por objeto controlar todos los actos de la Administración de la Junta de Comunidades de Castilla-La Mancha y de sus Organismos Autónomos que den lugar al reconocimiento de derechos y obligaciones de contenido económico, así como los ingresos y pagos que de ellos se deriven y la recaudación, inversión o aplicación de sus recursos, con el fin de asegurar que su gestión se ajuste a las disposiciones aplicables en cada caso.
+
+2\. La función interventora podrá ejercerse aplicando técnicas de muestreo. Para ello, la Intervención General determinará los actos, documentos y expedientes sobre los que la función interventora podrá ejercitarse sobre una muestra, estableciendo los procedimientos de selección, identificación y tratamiento de dicha muestra.
+
+> Se modifica por el art. 2.8 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+#### Artículo 95. Modalidades de ejercicio.
+
+El ejercicio de la función interventora comprenderá:
+
+a) La fiscalización previa de los actos que reconozcan derechos de contenido económico, aprueben gastos, adquieran compromisos de gasto, o acuerden movimientos de fondos y valores.
+
+b) La intervención del reconocimiento de las obligaciones y de la comprobación de la inversión.
+
+c) La intervención formal de la ordenación del pago.
+
+d) La intervención material del pago.
+
+> Se modifica por la disposición final 1.2 de la Ley 5/2012, de 12 de julio. [Ref. BOE-A-2012-13949](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-13949).
+
+#### Artículo 96. Exclusión de fiscalización previa.
+
+1\. No estarán sometidos a fiscalización previa:
+
+a) Los contratos menores.
+
+b) Las subvenciones con asignación nominativa.
+
+c) Los gastos de carácter periódico o de tracto sucesivo, una vez fiscalizado el gasto correspondiente al período inicial del acto o contrato del que deriven o sus modificaciones.
+
+d) Los gastos satisfechos a través del sistema de anticipos de caja fija, regulado en el artículo 65 de esta Ley.
+
+e) Los contratos de acceso a bases de datos y de suscripción a publicaciones que no tengan el carácter de contratos sujetos a regulación armonizada.
+
+2\. La fiscalización previa de derechos se sustituye por el control inherente a la toma de razón en contabilidad y el control financiero en la forma en que determine la Intervención General, salvo en los actos de ordenación del pago y pago material correspondiente a devoluciones de ingresos.
+
+> Se modifica por el art. 2.9 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+#### Artículo 97. Fiscalización previa.
+
+1\. El Consejo de Gobierno podrá acordar, previo informe de la Intervención General, que el ejercicio de la función interventora a que se refiere el artículo 95 se límite a comprobar los siguientes extremos esenciales en la gestión del gasto público:
+
+a) La existencia de crédito presupuestario y que el propuesto es adecuado a la naturaleza del gasto u obligación que se proponga contraer.
+
+En los casos en que se trate de contraer compromisos de gasto de carácter plurianual se comprobará, además, si se cumple al respecto lo preceptuado en el artículo 48 de la presente ley.
+
+b) Que los gastos u obligaciones se proponen al órgano competente.
+
+c) Aquellos otros extremos que, por su transcendencia en el proceso de gestión, determine el Consejo de Gobierno, a propuesta de la consejería competente en materia de hacienda y previo informe de la Intervención General.
+
+2\. Los extremos no verificados en fiscalización limitada previa serán objeto de comprobación en el marco del control financiero conforme a las normas y directrices que resulten de aplicación.
+
+3\. Lo dispuesto en los apartados anteriores no será de aplicación para los gastos de cuantía indeterminada y aquellos otros que deban ser aprobados por el Consejo de Gobierno, en los que la fiscalización previa se extenderá a la totalidad de las actuaciones que forman el correspondiente expediente.
+
+> Se modifica el apartado 2 por el art. 2.10 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+> Se modifica el apartado 1 por la disposición final 1.3 de la Ley 5/2012, de 12 de julio. [Ref. BOE-A-2012-13949](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-13949).
+
+#### Artículo 98. Fiscalización previa de pagos a justificar y anticipos de caja fija.
+
+En la fiscalización previa de las órdenes de pagos “a justificar” y en la constitución o modificación de los anticipos de caja fija y de sus reposiciones de fondos, se verificarán los extremos exigidos por su normativa específica.
+
+#### Artículo 99. Reparos y observaciones complementarias.
+
+1\. Si la Intervención, al realizar la fiscalización o intervención, se manifestase en desacuerdo con el contenido de los actos examinados o con el procedimiento seguido para su adopción, deberá formular sus reparos por escrito, con cita de los preceptos legales en los que sustente su criterio.
+
+No obstante, si los requisitos o trámites incumplidos no son esenciales, se podrá emitir informe de fiscalización favorable condicionándose su eficacia a la subsanación de los defectos observados. Los órganos gestores darán cuenta de dicha subsanación a la respectiva Intervención.
+
+2\. El reparo suspenderá la tramitación del expediente, hasta que sea solventado, en los siguientes casos:
+
+a) Cuando se base en la insuficiencia de crédito o el propuesto no se considere adecuado.
+
+b) Cuando el gasto se genere por un órgano que carezca de competencia para su aprobación.
+
+c) Cuando se aprecien graves irregularidades en la documentación justificativa de las órdenes de pago o no se acredite suficientemente el derecho de su perceptor.
+
+d) Cuando el reparo derive de comprobaciones materiales o documentales de obras, suministros, adquisiciones y servicios.
+
+e) Cuando se hayan omitido requisitos o trámites que, a juicio de la Intervención, sean esenciales o cuando se estime que la continuación de la gestión administrativa pudiera causar quebrantos económicos a la Tesorería o a un tercero.
+
+3\. Cuando el órgano gestor no acepte el reparo formulado, planteará discrepancia motivada por escrito, con cita de los preceptos legales en que sustente su criterio.
+
+4\. En los casos en que el reparo haya sido formulado por una Intervención Delegada, corresponderá a la Intervención General conocer de la discrepancia, siendo su resolución obligatoria para aquella. Si el reparo procediera de la propia Intervención General o este órgano hubiere confirmado el formulado por una Intervención Delegada, corresponderá al Consejo de Gobierno adoptar la resolución definitiva.
+
+5\. En el régimen de fiscalización previa que establece el artículo 97.1, los Interventores podrán formular las observaciones complementarias que consideren oportunas sobre aquellos extremos que no sean de obligatoria comprobación en esta fase de fiscalización previa, sin que las mismas tengan, en ningún caso, efectos suspensivos en la tramitación de los expedientes correspondientes.
+
+> Se modifica el apartado 4 por el art. 2.11 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+#### Artículo 100. Omisión de fiscalización.
+
+1\. Cuando la función interventora fuese preceptiva y se hubiese omitido, no se podrá reconocer la obligación, ni tramitar el pago ni intervenir favorablemente estas actuaciones hasta que el Consejo de Gobierno adopte decisión al respecto.
+
+2\. En dichos supuestos, será preceptiva la emisión de un informe por parte de la Intervención General. Este informe, no tendrá naturaleza de fiscalización y pondrá de manifiesto, como mínimo, las infracciones del ordenamiento jurídico detectadas y la existencia de crédito adecuado y suficiente para hacer frente a las obligaciones pendientes.
+
+> Se modifica por el art. 2.12 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+### CAPÍTULO III — Del Control Financiero
+
+#### Artículo 101. Objeto.
+
+1\. El control financiero tiene por objeto comprobar la situación y el funcionamiento en el aspecto económico-financiero de las entidades que forman parte del sector público de la Junta de Comunidades de Castilla-La Mancha.
+
+2\. El control financiero podrá realizarse en régimen permanente o posterior:
+
+a) El control financiero permanente tendrá por objeto la verificación de una forma continua de la situación y el funcionamiento de las entidades del sector público regional en el aspecto económico-financiero, para comprobar el cumplimiento de la normativa y directrices que les rigen y, en general, que su gestión se ajusta a los principios de eficacia, eficiencia, economía y buena gestión financiera y, en particular, al cumplimiento del objetivo de estabilidad presupuestaria y de equilibrio financiero.
+
+b) El control financiero posterior consistirá en la verificación, realizada con posterioridad y efectuada de forma sistemática, de la actividad económico-financiera del sector público regional, mediante la aplicación de técnicas de auditoría conforme a las normas e instrucciones que dicte la Intervención General.
+
+3\. En los casos a que se refiere el número 3 del artículo 92 de esta ley, el control financiero se realizará sobre los beneficiarios o entidades colaboradoras, y tendrá por objeto comprobar la correcta y adecuada obtención, utilización y disfrute de las subvenciones, créditos, avales y demás ayudas percibidas, así como la realidad y regularidad de las operaciones con ellas financiadas y, en su caso, el cumplimiento de los objetivos previstos.
+
+Los beneficiarios, las entidades colaboradoras y los terceros relacionados con el objeto de la subvención o su justificación estarán obligados a prestar colaboración y facilitar cuanta documentación sea requerida en el ejercicio del control financiero, en los términos previstos en la normativa básica estatal.
+
+> Se modifica por el art. 2.13 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+> Se modifica el apartado 4 por el art. 2.2 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+#### Artículo 102. Ámbito.
+
+1\. La Administración de la Junta de Comunidades de Castilla-La Mancha, sus organismos autónomos y las entidades de derecho público vinculadas o dependientes de la misma están sometidas al control financiero permanente en la forma que se determine por la Intervención General.
+
+2\. Las empresas públicas regionales, así como las fundaciones y consorcios que integran el sector público regional estarán sometidas a control financiero posterior.
+
+3\. Asimismo, las empresas, fundaciones y consorcios que formen parte del sector público regional, deberán someterse a auditoría anual de sus cuentas.
+
+El resto de las entidades integrantes del sector público regional estarán obligadas a someterse a auditoría anual de sus cuentas cuando no se encuentren sujetas al régimen de contabilidad pública, por aplicación de los criterios establecidos al respecto en el artículo 106.4, sin perjuicio de la realización de las auditorías de cuentas que facultativamente se consideren procedentes.
+
+En todo caso, los informes de auditoría deberán ser facilitados a la Intervención General, que estará facultada para acceder a los papeles de trabajo que hayan servido de base a tales informes, en ejercicio de sus funciones de control interno.
+
+4\. El Consejo de Gobierno podrá acordar, a propuesta de la consejería competente en materia de hacienda y a iniciativa de la Intervención General de la Junta de Comunidades de Castilla-La Mancha:
+
+a) La sustitución de la función interventora por el control financiero, permanente o posterior, en relación con determinados órganos o servicios, o respecto a determinadas áreas de actuación o expedientes de gasto.
+
+b) La sustitución del control financiero permanente en determinados organismos autónomos o entidades de derecho público por el control financiero posterior.
+
+c) La habilitación a la Intervención General para la precisión de las áreas de actuación o expedientes de gasto objeto de la sustitución, con la finalidad de garantizar el ejercicio más adecuado de sus competencias en materia de control interno.
+
+> Se modifica el apartado 3 por la disposición final 1.3 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2025-10208](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10208)
+
+> Se modifica el apartado 4 por la disposición final 6 de la Ley 5/2020, de 24 de julio. [Ref. BOE-A-2020-12770](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12770)
+
+> Se modifica por el art. 2.13 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+#### Artículo 102 bis. Control financiero en el ámbito de las Universidades públicas de Castilla-La Mancha.
+
+1\. El control financiero de las Universidades públicas de Castilla-La Mancha se efectuará mediante auditorías anuales, a través de sus medios propios de control interno o de los que, excepcionalmente, se contraten por aquéllas para su ejecución, atendiendo a los criterios y recomendaciones que se formulen al respecto por la Intervención General de la Junta de Comunidades de Castilla-La Mancha, sin perjuicio de las facultades de supervisión de sus Consejos Sociales.
+
+Dicho control tendrá por finalidad evaluar que la actividad y los procedimientos se realizan de conformidad con los principios de legalidad y buena gestión financiera y, en particular, con las previsiones establecidas en la legislación vigente en materia de estabilidad presupuestaria y sostenibilidad financiera.
+
+2\. Con independencia de lo establecido en el apartado anterior, la Intervención General podrá realizar las actuaciones de control financiero que estime necesarias para el seguimiento de la aplicación, por las Universidades, de las aportaciones dinerarias procedentes del presupuesto de la Junta de Comunidades de Castilla-La Mancha destinadas a financiar sus actividades, incluidas sus inversiones.
+
+La planificación de las actuaciones de control, a que se refiere el punto anterior, se someterá a la previa consideración del Consejo Social de la Universidad a propuesta de la consejería competente en materia de Hacienda. Asimismo, la consejería competente en materia de Hacienda dará traslado al citado Consejo del resultado de las actuaciones de control financiero, una vez finalizadas.
+
+> Se añade por la disposición final 1.2 de la Ley 7/2017, de 21 de diciembre. [Ref. BOE-A-2018-989](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-989)
+
+#### Artículo 103. Procedimiento.
+
+1\. El control financiero se realizará por la Intervención General a través de los servicios y funcionarios que designe, de conformidad con lo previsto en esta ley y en sus disposiciones complementarias.
+
+2\. Las actuaciones de control financiero a efectuar en cada ejercicio y el alcance específico fijado para las mismas se determinará en los correspondientes planes anuales de control financiero elaborados por la Intervención General, que podrán ser modificados cuando se produzcan circunstancias que lo justifiquen.
+
+3\. La Intervención General podrá acordar la realización de controles financieros específicos sobre ámbitos materiales determinados, cuando existan circunstancias especiales que lo justifiquen.
+
+4\. Para la ejecución de los programas de control financiero se podrá acudir a la contratación de empresas privadas de auditoría, que deberán ajustarse a las normas e instrucciones que determine la Intervención General.
+
+5\. Reglamentariamente se determinará el contenido y las formas de ejercicio de las distintas modalidades de control financiero.
+
+En todo caso, en las entidades no sometidas a control financiero posterior, habrá de comprobarse que los datos e información con trascendencia económica proporcionados por los órganos gestores como soporte de la información contable, reflejan razonablemente las operaciones derivadas de su actividad, a fin de verificar la inexistencia de obligaciones derivadas de gastos realizados o bienes y servicios recibidos para los que no se ha producido su imputación presupuestaria. La Intervención General establecerá el procedimiento, alcance y periodicidad de las actuaciones a desarrollar.
+
+> Se modifica el art. 2.13 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+#### Artículo 104. Informes de control financiero.
+
+1\. Los resultados de cada actuación de control financiero se documentarán en informes escritos y se desarrollarán de acuerdo con las instrucciones que la Intervención General apruebe, las cuales establecerán su periodicidad, contenido, destinatarios, y el procedimiento para la elaboración y tramitación de los mismos.
+
+2\. Los informes se remitirán a los responsables de los órganos o entidades controlados y al titular de la Consejería del que dependa o al que esté adscrito el órgano o entidad controlada, a fin de que en su caso, adopten las medidas oportunas. La Intervención General realizará un seguimiento continuado sobre las medidas correctoras decididas como consecuencia de las deficiencias detectadas en los informes.
+
+La Intervención General dará cuenta al titular de la Consejería competente en materia de hacienda de los resultados más relevantes de los controles desarrollados.
+
+3\. La Intervención General podrá formular informes de actuación, derivados de las recomendaciones y de las propuestas para los órganos gestores contenidas en los informes de control financiero, cuando se den algunas de las circunstancias siguientes:
+
+a) Cuando se hayan apreciado deficiencias y los titulares de la gestión controlada no indiquen las medidas necesarias y el plazo previsto para su solución.
+
+b) Cuando manifiesten discrepancias con las conclusiones y recomendaciones y no sean aceptadas por el órgano de control.
+
+c) Cuando habiendo manifestado su conformidad, no adopten las medidas para solucionar las deficiencias puestas de manifiesto.
+
+Los informes de actuación se dirigirán al titular de la Consejería de que dependa o al que esté adscrito el órgano o entidad controlada y, en caso de disconformidad, se elevarán al Consejo de Gobierno a través de la Consejería de Hacienda. Las decisiones que en este sentido adopte el Consejo de Gobierno serán vinculantes tanto para los órganos de gestión como de control.
+
+4\. La Intervención General presentará anualmente al Consejo de Gobierno, a través del titular de la Consejería competente en materia de hacienda, un informe-resumen de los resultados más significativos de las actuaciones de control financiero de cada ejercicio.
+
+No obstante, la Intervención General podrá elevar a la consideración del Consejo de Gobierno, a través del titular de la Consejería competente en materia de hacienda, los informes de control financiero que, por razón de sus resultados, estime conveniente anticipar su conocimiento.
+
+> Se modifica por el art. 2.13 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+#### Artículo 105. Medidas cautelares.
+
+Cuando en el ejercicio de las funciones de control se deduzcan indicios de la incorrecta obtención, destino o justificación de subvenciones o fondos públicos, los funcionarios encargados de su realización podrán, previa autorización de la Intervención General, acordar la adopción de las medidas cautelares que se estimen precisas al objeto de impedir la desaparición, destrucción o alteración de las facturas u otros documentos relativos a las operaciones objeto del control.
+
+No obstante, no se adoptarán tales medidas cuando se estime que pueden producir perjuicios de imposible o difícil reparación.
+
+## TÍTULO VI — De la Contabilidad Pública
+
+> Se renumera como Título VI por el art. 1.2 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+> Su anterior numeración era Título V.
+
+### CAPÍTULO I — Disposiciones Generales
+
+#### Artículo 106. Régimen de contabilidad.
+
+1\. La Administración de la Junta de Comunidades de Castilla-La Mancha, sus organismos autónomos, empresas, así como las demás entidades que integren el sector público regional quedan sometidas a la obligación de rendir cuentas de las respectivas operaciones, cualquiera que sea su naturaleza, a la Sindicatura de Cuentas por conducto de la Intervención General.
+
+2\. La Administración de la Junta de Comunidades de Castilla-La Mancha y sus organismos autónomos formarán y rendirán sus cuentas de acuerdo con los principios y normas de contabilidad recogidos en el Plan General de Contabilidad Pública que resulte aplicable de conformidad con lo señalado en el artículo 109 a), así como sus normas de desarrollo.
+
+3\. Las empresas públicas que formen parte del sector público regional formarán y rendirán sus cuentas de acuerdo con los principios y normas de contabilidad recogidos en el Plan General de Contabilidad vigente para la empresa española y disposiciones que lo desarrollen.
+
+4\. Las entidades públicas que, formando parte del sector público regional, no se encuentren incluidas en los apartados anteriores formarán y rendirán sus cuentas de acuerdo con los principios y normas de contabilidad recogidos en el Plan General de Contabilidad Pública aplicable a la Administración de la Junta, salvo que en ellas concurran las siguientes características, en cuyo caso se someterán a los principios y normas del Plan General de Contabilidad de las empresas:
+
+a) que su actividad principal consista en la producción de bienes y servicios destinados a la venta en el mercado.
+
+b) que al menos el 50 por 100 de sus ingresos proceda de la venta en el mercado de su producción.
+
+#### Artículo 107. Rendición de cuentas.
+
+1\. Serán cuentadantes los titulares de las entidades y órganos sujetos a la obligación de rendir cuentas y, en todo caso:
+
+a) Las autoridades y los funcionarios que tengan a su cargo la gestión de los ingresos y la realización de los gastos así como las demás operaciones de gestión que realiza la Administración de la Junta de Comunidades de Castilla-La Mancha.
+
+b) Los presidentes o directores de los organismos autónomos y demás entidades públicas que conforman el sector público regional.
+
+c) Los presidentes del consejo de administración de las empresas públicas.
+
+d) Los liquidadores de las empresas públicas en proceso de liquidación.
+
+2\. Los cuentadantes enunciados en el apartado anterior son responsables de la información contable y les corresponde rendir, en los plazos fijados al efecto y debidamente autorizadas, las cuentas que hayan de enviarse a la Sindicatura de Cuentas por conducto de la Intervención General.
+
+3\. También deberán rendir cuentas, en la forma que reglamentariamente se establezca, los particulares que excepcionalmente administren, recauden o custodien fondos o valores públicos, sin perjuicio de que sean intervenidas las respectivas operaciones.
+
+4\. Igualmente, los perceptores o beneficiarios de ayudas con cargo a los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha, tales como subvenciones, créditos y avales, sean personas físicas o jurídicas, públicas o privadas, estarán obligadas a rendir cuentas de las mismas ante la Sindicatura de Cuentas en los términos establecidos en su Ley y Reglamento.
+
+5\. En cumplimiento de su obligación de rendir cuentas, los cuentadantes enunciados en el apartado 1 anterior cuyas cuentas no formen parte de la Cuenta General, deberán remitir a la Intervención General sus cuentas anuales, elaboradas de conformidad con su legislación especifica, dentro de los siete meses siguientes a la terminación del ejercicio económico. Estas cuentas irán acompañadas del informe de gestión y del informe de auditoría que, en su caso, elabore la Intervención General o el que se elabore como consecuencia de la obligación de auditarse recogida en la Ley 19/1988, de 12 de julio, de auditoría de cuentas.
+
+6\. La Intervención General remitirá a la Sindicatura de Cuentas toda la documentación a que se refiere el punto anterior en el plazo de un mes desde que la hubiere recibido.
+
+#### Artículo 108. Fines de la contabilidad.
+
+Corresponde a la Consejería de Economía y Hacienda la organización de la contabilidad del sector público regional al servicio de los siguientes fines:
+
+a) Registrar la ejecución del presupuesto.
+
+b) Conocer el movimiento y la situación de la Tesorería.
+
+c) Reflejar las variaciones, situación y composición del patrimonio.
+
+d) Proporcionar los datos necesarios para la formación, la rendición de la Cuenta General, así como de las otras cuentas, estados y documentos que deban ser elaborados o enviados a la Sindicatura de Cuentas.
+
+e) Facilitar los datos y demás antecedentes que sean precisos para la confección de las cuentas económicas del sector público.
+
+f) Rendir la información económica y financiera necesaria para la toma de decisiones.
+
+g) Servir de instrumento para el control de la gestión económico-financiera del sector público regional.
+
+#### Artículo 109. Competencias de la Consejería de Economía y Hacienda.
+
+Corresponde a la Consejería de Economía y Hacienda:
+
+a) Aprobar el Plan de Contabilidad Pública de aplicación a la Junta de Comunidades de Castilla-La Mancha, sus normas de desarrollo así como los planes parciales o especiales.
+
+b) Fijar los principios en que se ha de basar el sistema de información contable de la Junta de Comunidades de Castilla-La Mancha y demás entidades sometidas al régimen de contabilidad pública y determinar el modelo contable a implantar y los criterios generales de registro de datos y de información contable.
+
+c) Determinar el contenido, la estructura, las normas de elaboración y los criterios de agregación o consolidación de la Cuenta General.
+
+d) Determinar la estructura de los estados contables a rendir a la Sindicatura de Cuentas por las entidades que, en su caso, integren el Sector público regional.
+
+e) Determinar en su caso, el régimen de contabilidad aplicable a las distintas entidades y organismos del sector público según sus características o peculiaridades.
+
+f) Aprobar las Instrucciones de contabilidad mediante las cuales se establezcan las normas contables a las que habrá de someterse la Junta de Comunidades de Castilla-La Mancha y las entidades que, en su caso, estén sometidas al régimen de contabilidad pública.
+
+#### Artículo 110. Competencias de la Intervención General de la Junta de Comunidades de Castilla-La Mancha.
+
+1\. La Intervención General es el Centro directivo de la contabilidad del sector público regional al que compete:
+
+a) Promover el ejercicio de la potestad reglamentaria en materia contable atribuida a la Consejería de Economía y Hacienda.
+
+b) Inspeccionar la actividad contable de las entidades que, en su caso, integren el sector público regional.
+
+2\. Como Centro gestor de la contabilidad pública corresponde a la Intervención General de la Junta de Comunidades de Castilla-La Mancha:
+
+a) Formar la Cuenta General, de acuerdo con lo dispuesto en esta Ley.
+
+b) Recabar la presentación de las cuentas, estados y demás documentos sujetos a su examen crítico y las que deban rendirse a la Sindicatura de Cuentas.
+
+c) Centralizar la información deducida de la contabilidad de las entidades que, en su caso, integren el sector público regional.
+
+d) Vigilar e impulsar la actividad de las oficinas de contabilidad de la Junta de Comunidades de Castilla-La Mancha.
+
+e) Recabar todos los informes y dictámenes económico-contables que se realicen en aquellas entidades sometidas al régimen de contabilidad pública.
+
+#### Artículo 111. Registros contables.
+
+La contabilidad pública se llevará en libros, registros y cuentas según los procedimientos técnicos que sean más convenientes por la índole de las operaciones y de las situaciones que en ellos deban anotarse, conforme determinen las normas que sean de aplicación.
+
+#### Artículo 112. Verificación de cuentas.
+
+La contabilidad del sector público regional queda sometida a verificación ordinaria o extraordinaria a cargo de funcionarios dependientes de la Intervención General y de los que, en su caso, designe la Sindicatura de Cuentas.
+
+### CAPÍTULO II — De la Cuenta General
+
+#### Artículo 113. Cuenta General de la Junta de Comunidades de Castilla-La Mancha.
+
+1\. La Cuenta General de la Junta de Comunidades de Castilla-La Mancha se formará anualmente con la Cuenta de la Administración de la Junta de Comunidades de Castilla-La Mancha, la Cuenta de sus organismos autónomos y, en su caso, las cuentas de las entidades del artículo 4.º de esta Ley incluidas en el régimen de contabilidad pública.
+
+2\. La cuenta de la Administración Regional comprenderá todas las operaciones presupuestarias, patrimoniales y de Tesorería llevadas a cabo durante el ejercicio por la Administración Regional.
+
+Además de la liquidación de los presupuestos y los resultados del ejercicio, reflejará la situación de la Tesorería y de sus anticipos, del endeudamiento y de las operaciones extrapresupuestarias.
+
+Mediante Orden del titular de la Consejería de Economía y Hacienda se determinará la estructura y desarrollo de cada uno de los contenidos de la Cuenta General señalados en los párrafos anteriores.
+
+3\. La Cuenta General de la Junta de Comunidades de Castilla-La Mancha se formará por la Intervención y se rendirá por el titular de la Consejería de Economía y Hacienda en los plazos establecidos en el artículo 114 de esta Ley.
+
+#### Artículo 114. Plazos de rendición de cuentas.
+
+1\. La Cuenta General de cada año se formará antes del día 31 de octubre del año siguiente al que se refiera y se remitirá dentro de este plazo a las Cortes de Castilla-La Mancha y a la Sindicatura de Cuentas de Castilla-La Mancha.
+
+2\. La falta de rendición de cuentas de alguna de las entidades que integren la Cuenta General de la Junta de Comunidades, de conformidad con lo señalado en el artículo 113 anterior, o su rendición con graves defectos, no constituirá obstáculo para que la Intervención General pueda formar la Cuenta General y para que la Sindicatura de Cuentas pueda rendir la declaración que le merezca, siempre que tales omisiones o defectos no impidan su elaboración, todo ello sin perjuicio de la apertura de los procedimientos que resultasen procedentes.
+
+3\. El resto de entidades que integren el sector público regional y cuyas cuentas no integren la Cuenta General de la Junta de Comunidades de Castilla-La Mancha, de acuerdo con lo dispuesto en el artículo 113 anterior, deberán rendir sus cuentas de conformidad con lo señalado en el artículo 107.
+
+> Se modifica el apartado 1 por el art. 2.14 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+## TÍTULO VII — De las Responsabilidades
+
+> Se renumera como Título VII por el art. 1.2 de la Ley 9/2006, de 21 de diciembre. [Ref. BOE-A-2007-7791](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-7791).
+
+> Su anterior numeración era Título VI.
+
+#### Artículo 115. Principios generales.
+
+1\. Las autoridades, funcionarios y demás personal que se encuentre al servicio de la Junta de Comunidades de Castilla-La Mancha que por dolo o culpa graves adopten resoluciones o realicen actos con infracción de las disposiciones reguladoras del régimen presupuestario y de contabilidad aplicable al Sector Público regional, estarán obligados a indemnizar a la Hacienda Pública de Castilla-La Mancha los daños y perjuicios económicos que sean consecuencia de su acción u omisión, con independencia de la responsabilidad penal o disciplinaria que les pueda corresponder.
+
+2\. Lo dispuesto en este Título será de aplicación a los actos o resoluciones que adopte el personal al servicio de los organismos o entes que, en su caso, formen parte del Sector público regional, con respecto a la Hacienda de estas entidades.
+
+#### Artículo 116. Hechos tipificados.
+
+Constituyen infracciones, según determina el artículo inmediato anterior:
+
+a) Haber incurrido en alcance o malversación en la administración de los fondos públicos.
+
+b) Administrar los recursos y demás derechos de la Hacienda Pública de Castilla-La Mancha sin sujetarse a las disposiciones que regulan su liquidación, recaudación o ingreso en la Tesorería.
+
+c) Comprometer gastos, liquidar obligaciones y ordenar pagos sin crédito suficiente para realizarlos o con infracción de lo dispuesto en la presente Ley o en la de Presupuestos que sea aplicable.
+
+d) Dar lugar a pagos indebidos al liquidar las obligaciones o al expedir documentos en virtud de funciones encomendadas.
+
+e) No justificar la inversión de los fondos a que se refieren los artículos 65 y 66 de esta Ley.
+
+f) Cualquier otro acto o resolución con infracción de la presente Ley.
+
+#### Artículo 117. Tipos de responsabilidad.
+
+1\. Cuando el acto o resolución se dictare mediando dolo, la responsabilidad alcanzará a todos los daños y perjuicios que conocidamente se deriven de la resolución adoptada con infracción de las disposiciones reguladoras del régimen presupuestario y de contabilidad aplicable al Sector Público regional.
+
+2\. En el caso de culpa, las autoridades, funcionarios y demás personal sólo responderán de los daños y perjuicios que sean consecuencia necesaria del acto o resolución ilegal.
+
+A estos efectos, la Administración tendrá que proceder previamente contra los particulares para el reintegro de las cantidades indebidamente percibidas.
+
+3\. En el caso de que se determine la existencia de varios responsables, la responsabilidad será mancomunada, excepto en el caso de dolo, que será solidaria.
+
+#### Artículo 118. Diligencias previas.
+
+Tan pronto como se tenga noticia de un alcance, malversación, daño o perjuicio a la Hacienda Pública o hayan transcurrido los plazos establecidos sin haber sido justificadas las órdenes de pago a justificar o los fondos librados en concepto de anticipo de caja fija, los Jefes de los presuntos responsables y los ordenadores de pagos, respectivamente, instruirán las diligencias previas y adoptarán, con igual carácter, las medidas necesarias, para asegurar los derechos de la Hacienda Pública de Castilla-La Mancha, poniéndolo inmediatamente en conocimiento del titular de la Consejería de Economía y Hacienda para que proceda según sus competencias y conforme a los procedimientos establecidos.
+
+#### Artículo 119. Procedimiento.
+
+1\. Sin perjuicio de dar conocimiento de los hechos al Tribunal de Cuentas a los efectos prevenidos en el artículo 41, número 1, de la Ley Orgánica 2/1982, de 23 de mayo, del Tribunal de Cuentas, la responsabilidad será exigida en expediente administrativo instruido al interesado.
+
+2\. El acuerdo de incoación, el nombramiento de instructor y la resolución del expediente corresponderán al Consejo de Gobierno cuando se trate de personas que, de conformidad con el ordenamiento vigente, tengan la condición de autoridad, y a la Consejería de Economía y Hacienda en los demás casos.
+
+3\. La resolución que, previo informe del Gabinete Jurídico, ponga fin al expediente tramitado con audiencia de los interesados, se pronunciará sobre los daños y perjuicios causados a los bienes y derechos de la Hacienda Pública de Castilla-La Mancha, imponiendo al responsable la obligación de indemnizar en la cuantía y en el plazo que se determine.
+
+#### Artículo 120. Régimen jurídico de los perjuicios irrogados.
+
+1\. Los perjuicios declarados en los expedientes a que se refiere el artículo anterior, tendrán la consideración de ingreso de derecho público, gozarán del régimen a que se refiere el artículo 23 de esta Ley, y se procederá a su cobro, en su caso, por la vía de apremio.
+
+2\. La Hacienda Pública tiene derecho al interés previsto en el artículo 27, de esta Ley, sobre el importe de los alcances, malversaciones, daños y perjuicios a sus bienes y derechos, desde el día que se irroguen los perjuicios. Cuando por insolvencia del deudor directo se derive la acción a los responsables subsidiarios, el interés se calculará a contar desde el día en que se les requiera el pago.
+
+#### Disposición adicional primera. Comisión Superior de Hacienda.
+
+1\. Se crea la Comisión Superior de Hacienda de la Junta de Comunidades de Castilla-La Mancha, que será el órgano colegiado competente de la Administración regional para conocer y resolver sobre los recursos y reclamaciones de naturaleza económico-administrativa, tanto si en ellos se suscitan cuestiones de hecho como de derecho, que se interpongan en relación con las materias siguientes:
+
+a) Los actos de gestión, liquidación, recaudación, inspección e imposición de sanciones tributarias, que dicten los órganos de la Administración de la Junta de Comunidades de Castilla-La Mancha, sus organismos autónomos y las entidades de derecho público vinculadas a aquella o que dependan de ella, relativos a los impuestos propios, tasas, contribuciones especiales, precios públicos y, en general, a la recaudación de todos los ingresos de derecho público que integran, como recursos, la Hacienda Pública de la Comunidad Autónoma de Castilla-La Mancha.
+
+b) El reconocimiento o la liquidación por los órganos competentes de la consejería competente en materia de hacienda de las obligaciones de la Tesorería de Castilla-La Mancha y las cuestiones relacionadas con las operaciones de pago hechas por dichos órganos con cargo a la misma.
+
+c) Cualquier otra respecto a la que por precepto legal expreso así se declare.
+
+2\. Las resoluciones de la Comisión Superior de Hacienda agotan la vía administrativa y son recurribles en vía contencioso-administrativa ante el Tribunal Superior de Justicia de Castilla-La Mancha, sin perjuicio de la interposición de los recursos previstos en la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+La Comisión Superior de Hacienda será el órgano competente para conocer el recurso extraordinario de revisión cuando verse sobre las materias citadas en el apartado 1.
+
+3\. El régimen jurídico, composición, competencias y funcionamiento de la Comisión Superior de Hacienda se establecerá por decreto a propuesta de la persona titular de la consejería competente en materia de tributos.
+
+> Se modifica por el art. 12.2 de la Ley 1/2024, de 15 de marzo. [Ref. BOE-A-2024-10149](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10149)
+
+#### Disposición adicional segunda.
+
+Lo dispuesto en los artículos 15, 107, 112 y 114 de esta Ley se entiende sin perjuicio de las competencias que corresponden al Tribunal de Cuentas.
+
+#### Disposición adicional tercera.
+
+El Gobierno regional, trimestralmente, remitirá a la Comisión de Presupuestos de la Cámara, a través del Presidente de la misma, relación individualizada de los convenios que suscriba el Ejecutivo castellano-manchego con Corporaciones, Entidades, OO.NN.GG., Instituciones particulares, las subvenciones y ayudas, dinerarias o no, que conceda a las mismas con indicación, al menos de:
+
+— Nombre de la Corporación, Institución, Organización o particular.
+
+— Finalidad del convenio suscrito o destino de la subvención o ayuda concedida.
+
+— Cuantía o valoración, en su caso, de los bienes o instalaciones a que se refiera el convenio, subvención o ayuda.
+
+— Duración del convenio.
+
+— Fecha del mismo o de la concesión de la subvención o ayuda.
+
+Solamente quedarán excluidos de figurar en la citada relación trimestral e individualizada aquellos convenios y subvenciones y ayudas, cuya convocatoria y resolución sean publicadas en el Diario Oficial de Castilla-La Mancha con, como mínimo, los datos anteriormente señalados.
+
+#### Disposición adicional cuarta.
+
+Los titulares de las oficinas liquidadoras de distrito hipotecario, en el ejercicio de sus funciones públicas de gestión y liquidación de los impuestos sobre transmisiones patrimoniales y actos jurídicos documentados, y sobre sucesiones y donaciones, en el ámbito territorial de Castilla-La Mancha, mantienen dependencia orgánica y funcional derivada de su relación administrativa con la Junta de Comunidades de Castilla-La Mancha.
+
+El Consejo de Gobierno, a propuesta del titular de la Consejería competente en materia de hacienda, fijará la estructura territorial de las oficinas liquidadoras.
+
+La Consejería competente en materia de hacienda dictará las normas de organización, dirección, funcionamiento, coordinación e inspección de las oficinas liquidadoras. Asimismo, podrá encomendar a las oficinas liquidadoras, previo convenio, funciones en relación con otros tributos que sean competencia de la Junta de Comunidades de Castilla-La Mancha.
+
+> Se modifica por el art. 2.15 de la Ley 9/2013, de 12 de diciembre. [Ref. BOE-A-2014-1369](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-1369).
+
+#### Disposición adicional quinta.
+
+1\. Los centros docentes públicos no universitarios dependientes de la Junta de Comunidades de Castilla-La Mancha, dispondrán de autonomía en la gestión de sus recursos, en los términos establecidos en la Ley Orgánica 9/1995, de 20 de noviembre, de la participación, evaluación y el gobierno de los centros docentes, y en la presente disposición.
+
+2\. Los libramientos de fondos para atención de gastos de funcionamiento de centros docentes públicos no universitarios, que se efectuarán con la periodicidad que reglamentariamente se establezca, tendrán la consideración de pagos en firme con aplicación definitiva a los correspondientes créditos presupuestarios.
+
+3\. Los ingresos que los centros docentes pudieran obtener derivados de la prestación de servicios distintos de los remunerados por los precios públicos de los servicios académicos, así como los producidos por legados, donaciones, renta de bienes muebles, utilización de instalaciones del centro, intereses bancarios, y por los que reglamentariamente se establezcan, podrán ser aplicados a sus gastos de funcionamiento.
+
+4\. Dado el carácter “en firme” de los fondos recibidos, el saldo de tesorería que arrojen las cuentas de gestión de los centros docentes no será objeto de reintegro y quedará en poder de los mismos para su aplicación a gastos de funcionamiento. No obstante, dicho saldo será objeto de compensación en los libramientos a efectuar en el ejercicio siguiente.
+
+5\. Los centros docentes han de rendir, ante la Consejería de Educación, cuenta de su gestión. La Consejería de Economía y Hacienda determinará la estructura y periodicidad de la cuenta de gestión.
+
+La justificación de la cuenta de gestión a que se refiere el párrafo anterior, se realizará por medio de una certificación del Consejo Escolar sobre la aplicación dada a los recursos totales, que sustituirá a los justificantes originarios. Estos quedarán a disposición de la Sindicatura de Cuentas y de la Intervención General para la realización de las comprobaciones oportunas en el ámbito de sus respectivas competencias.
+
+6\. Se autoriza al Consejo de Gobierno para dictar cuantas disposiciones sean necesarias para el desarrollo y aplicación de este precepto.
+
+#### Disposición adicional sexta.
+
+Los conciertos educativos que se formalicen entre la Junta de Comunidades de Castilla-La Mancha y las personas físicas o jurídicas de carácter privado de nacionalidad española o extranjera que sean titulares de centros privados, se regirán por las normas legales y reglamentarias estatales en la materia y, en particular, por la Ley Orgánica 9/1995, de 20 de noviembre, de la participación, la evaluación y el gobierno de los centros docentes y el Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reglamento de normas básicas sobre conciertos educativos.
+
+#### Disposición transitoria.
+
+Lo dispuesto en el artículo 41 e) se empezará a aplicar una vez que se hayan desarrollado las aplicaciones informáticas adecuadas para ello.

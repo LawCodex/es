@@ -1,0 +1,383 @@
+---
+title: "Orden EHA/3786/2008, de 29 de diciembre, por la que se aprueban el modelo 303 Impuesto sobre el Valor Añadido, Autoliquidación, y el modelo 308 Impuesto sobre el Valor Añadido, solicitud de devolución: Recargo de equivalencia, artículo 30 bis del Reglamento del IVA y sujetos pasivos ocasionales y se modifican los Anexos I y II de la Orden EHA/3434/2007, de 23 de noviembre, por la que se aprueban los modelos 322 de autoliquidación mensual, modelo individual, y 353 de autoliquidación mensual, modelo agregado, así como otra normativa tributaria"
+identifier: "BOE-A-2008-20953"
+eli: "https://www.boe.es/eli/es/o/2008/12/29/eha3786"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2008-12-29
+published: 2008-12-30
+in_force_from: 2008-12-31
+last_amended: 2026-01-26
+consolidated: 2026-01-26
+gazette: "Boletín Oficial del Estado núm. 314"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-20953"
+retrieved: 2026-10-11
+---
+
+# Orden EHA/3786/2008, de 29 de diciembre, por la que se aprueban el modelo 303 Impuesto sobre el Valor Añadido, Autoliquidación, y el modelo 308 Impuesto sobre el Valor Añadido, solicitud de devolución: Recargo de equivalencia, artículo 30 bis del Reglamento del IVA y sujetos pasivos ocasionales y se modifican los Anexos I y II de la Orden EHA/3434/2007, de 23 de noviembre, por la que se aprueban los modelos 322 de autoliquidación mensual, modelo individual, y 353 de autoliquidación mensual, modelo agregado, así como otra normativa tributaria
+
+El artículo 167, apartado Uno, de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, establece que, salvo lo dispuesto para las importaciones de bienes en el apartado Dos del mismo artículo, los sujetos pasivos deberán determinar e ingresar la deuda tributaria en el lugar, forma, plazos e impresos que establezca el Ministro de Economía y Hacienda.
+
+Asimismo, el artículo 71 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el artículo 1 del Real Decreto 1624/1992, de 29 de diciembre, establece en sus apartados 1 y 4 que, salvo lo establecido en relación con las importaciones, los sujetos pasivos deberán realizar por sí mismos la determinación de la deuda tributaria mediante autoliquidaciones ajustadas a las normas contenidas en el citado artículo. Las autoliquidaciones deberán cumplimentarse y ajustarse al modelo que, para cada supuesto, determine el Ministro de Hacienda y presentarse durante los veinte primeros días naturales del mes siguiente al correspondiente período de liquidación mensual o trimestral, según proceda.
+
+En desarrollo de lo dispuesto en dichos preceptos se aprobaron, entre otros, el modelo 300 de «Autoliquidación trimestral del Impuesto sobre el Valor Añadido», el modelo 320, «Grandes Empresas. Declaración mensual del Impuesto sobre el Valor Añadido», el modelo 332 «Grandes empresas inscritas en el Registro de exportadores y otros Operadores Económicos. Declaración mensual del Impuesto del Valor Añadido», y el modelo 330, «Exportadores y otros operadores económicos. Declaración mensual del Impuesto sobre el Valor Añadido».
+
+Uno de los objetivos fundamentales de la Administración tributaria es reducir, en la medida de lo posible, las cargas administrativas indirectas que se deriven del cumplimiento de las obligaciones fiscales. En la actualidad coexisten un gran número de modelos de autoliquidación del Impuesto sobre el Valor Añadido, y sin embargo, el esquema de liquidación que figura en muchos de estos modelos es similar, por lo que se considera conveniente aprobar un único modelo de autoliquidación que se pueda utilizar con carácter general por los sujetos pasivos del Impuesto, con las excepciones previstas en el Reglamento del Impuesto sobre el Valor Añadido y en la presente orden.
+
+Por otra parte, la Ley 4/2008, de 23 de diciembre, por la que se suprime el gravamen del Impuesto sobre el Patrimonio, se generaliza el sistema de devolución mensual en el Impuesto sobre el Valor Añadido, y se introducen otras modificaciones en la normativa tributaria, da una nueva redacción al artículo 116 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, estableciendo la posibilidad de que los sujetos pasivos que opten por ello, con independencia de la naturaleza de sus operaciones y del volumen de éstas, y de acuerdo con las condiciones, términos, requisitos y procedimiento establecidos reglamentariamente, puedan solicitar la devolución del saldo a su favor pendiente al final de cada período de liquidación.
+
+Considerando lo expuesto anteriormente, con la finalidad de hacer posible la solicitud de devolución del saldo a favor de los sujetos pasivos pendiente al final de cada periodo de liquidación y de facilitar y simplificar, en lo posible, el cumplimiento de la obligación de determinar la deuda tributaria que incumbe a los sujetos pasivos del Impuesto, la presente orden ministerial aprueba un único modelo 303 de autoliquidación del Impuesto sobre el Valor Añadido que sustituye a los vigentes modelos 300, 330, 332 y 320. El nuevo modelo 303 se deberá utilizar por los sujetos pasivos del Impuesto con obligaciones periódicas de autoliquidación, tanto si su período de liquidación coincide con el trimestre natural como si coincide con el mes natural, excepto en el supuesto de las personas físicas o entidades que apliquen el Régimen especial simplificado regulado en el Capítulo II del Título IX de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, o en el supuesto de entidades que hayan optado por aplicar el Régimen especial del grupo de entidades regulado en el Capítulo IX del Título IX de la Ley del Impuesto, en cuyo caso presentarán los modelos de autoliquidación específicos aprobados al efecto para los citados regímenes especiales.
+
+La presentación del nuevo modelo 303 de autoliquidación será obligatoria por vía telemática a través de Internet para aquellos sujetos pasivos cuyo período de liquidación coincida con el mes natural. En el supuesto de sujetos pasivos cuyo período de liquidación coincida con el trimestre natural, la presentación por vía telemática a través de Internet será potestativa, excepto para las entidades que tengan forma jurídica de sociedad anónima o sociedad de responsabilidad limitada que deberán realizarla de forma obligatoria por vía telemática a través de Internet.
+
+Asimismo, la introducción del artículo 30 bis en el articulado del Reglamento del Impuesto sobre el Valor Añadido, de acuerdo con el cual los sujetos pasivos que ejerzan la actividad de transporte de viajeros o de mercancías por carretera y tributen por el régimen simplificado del Impuesto podrán solicitar la devolución de las cuotas soportadas deducibles en la adquisición de medios de transporte afectos a dicha actividad durante los primeros 20 días naturales del mes siguiente a aquél en el cual hayan realizado la adquisición del medio de transporte y siempre que cumplan determinados requisitos, hace necesario articular un sistema para que los citados sujetos pasivos puedan ejercitar el derecho a la devolución de dichas cuotas. Por este motivo se aprueba un nuevo modelo 308, a través del cual se podrá ejercer este derecho, además de poder solicitar el reintegro de las devoluciones a exportadores en régimen de viajeros realizadas por los sujetos pasivos que tributen en régimen especial del recargo de equivalencia y que aquellos sujetos pasivos ocasionales que realicen entregas exentas de medios de transporte nuevos puedan solicitar la devolución de las cuotas soportadas o satisfechas en la adquisición de estos medios de transporte. La presentación del modelo de autoliquidación 308 con solicitud de devolución, de acuerdo con lo previsto en el artículo 30 bis del Reglamento del Impuesto, se realizará obligatoriamente por vía telemática a través de Internet, mientras que en los otros dos supuestos en que se utiliza este modelo la presentación por vía telemática será potestativa.
+
+El artículo 163 nonies de la Ley del Impuesto sobre el Valor Añadido regula las obligaciones específicas que se deben cumplir en el Régimen especial del grupo de entidades, concretamente, el apartado Cuatro del citado artículo, dispone que la entidad dominante debe presentar las autoliquidaciones periódicas agregadas del grupo de entidades, procediendo, en su caso, al ingreso de la deuda tributaria o a la solicitud de compensación o devolución. Por este motivo, la Orden EHA/3434/2007, de 23 de noviembre, aprobó un nuevo modelo 322 de autoliquidación individual, que deben presentar cada una de la entidades que conforman el grupo, y un nuevo modelo 353 de autoliquidación agregado, que deberá presentar la entidad dominante, a través del cual se realiza el ingreso de la deuda tributaria o la solicitud de compensación o devolución.
+
+Las modificaciones introducidas por la Ley 4/2008, de 23 de diciembre, en el sistema de devoluciones del Impuesto sobre el Valor Añadido, estableciendo la posibilidad, para aquellos contribuyentes que opten por ello, de aplicar un sistema consistente en la solicitud de devolución del saldo a su favor pendiente al final de cada periodo de liquidación, hace necesario aprobar nuevos modelos 322 de autoliquidación individual, y 353 de autoliquidación agregado, a través de los cuales se pueda hacer efectiva la opción por el régimen de devolución mensual por parte de las entidades que hayan optado por aplicar el Régimen especial del grupo de entidades previsto en el Capítulo IX del Título IX de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
+
+Por último, la regulación del nuevo registro de devolución mensual en el Impuesto sobre el Valor Añadido y la desaparición del registro de exportadores y otros operadores económicos, exige sustituir la denominación de éste último por el de registro de devolución mensual en la correspondiente declaración censal modelo 036, a través de la cual se solicitará la inscripción en el nuevo registro.
+
+El artículo 117 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, habilita, en el ámbito del Estado, al Ministro de Economía y Hacienda para aprobar los modelos de declaración, autoliquidación y comunicación de datos, así como establecer la forma, lugar y plazos de su presentación.
+
+Por otra parte, el artículo 61 ter.3 del Reglamento del Impuesto sobre el Valor Añadido, establece que el Ministro de Economía y Hacienda aprobará los modelos de declaración-liquidación individual y agregada que procedan para la aplicación del régimen especial del grupo de entidades. Asimismo, el artículo 30 bis del Reglamento del Impuesto habilita al Ministro de Economía y Hacienda para regular el lugar y la forma de hacer efectiva la devolución de las cuotas soportadas deducibles a los sujetos pasivos que ejerzan la actividad de transporte de viajeros o de mercancías por carretera, tributen por el régimen simplificado del Impuesto y cumplan las condiciones y requisitos exigidos en el citado artículo.
+
+En su virtud dispongo:
+
+## Artículo 1. Aprobación del modelo 303.
+
+1\. Se aprueba el modelo 303 de “Impuesto sobre el Valor Añadido. Autoliquidación. Ingreso del Impuesto sobre el Valor Añadido a la importación liquidado por la Aduana”, que figura como anexo I de la presente orden.
+
+Dicho modelo consta de los dos ejemplares siguientes:
+
+Ejemplar para el sujeto pasivo.
+
+Ejemplar para la Entidad colaboradora-AEAT.
+
+El número de justificante que habrá de figurar en el modelo 303 de autoliquidación será un número secuencial cuyos tres primeros dígitos se corresponderán con el código 303. No obstante, en el supuesto a que se refiere el artículo 4 de la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones, declaraciones informativas, declaraciones censales, comunicaciones y solicitudes de devolución, de naturaleza tributaria, el número de justificante comenzará con el código 302.
+
+2\. Este modelo será presentado por los siguientes sujetos pasivos del Impuesto sobre el Valor Añadido:
+
+a) Aquellos cuyo período de liquidación coincida con el trimestre natural, incluidas las personas o entidades que apliquen el Régimen especial simplificado regulado en el capítulo II del título IX de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, salvo las personas o entidades que tengan la obligación de presentar autoliquidaciones de carácter no periódico, según lo previsto en el artículo 71.8 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
+
+b) Aquellos cuyo período de liquidación coincida con el mes natural, de acuerdo con lo establecido en los apartados 1.º, 2.º y 3.º del artículo 71.3 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
+
+> Se modifica por el art. 3.1 de la Orden HFP/1307/2017, de 29 de diciembre. [Ref. BOE-A-2017-15844](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15844)
+
+> Se modifica el apartado 2, con efectos de 1 de julio de 2017, por la disposición final 3.2 de la Orden HFP/417/2017, de 12 de mayo. [Ref. BOE-A-2017-5312](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5312)
+
+> Se modifica, con efectos para las operaciones realizadas a partir de 1 de enero de 2014, por el art. 1.1 de la Orden HAP/2215/2013, de 26 de noviembre. [Ref. BOE-A-2013-12489](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12489).
+
+## Artículo 2. Aprobación del modelo 308.
+
+1\. Se aprueba el modelo 308 "Impuesto sobre el Valor Añadido, solicitud de devolución: recargo de equivalencia, artículo 30 bis del Reglamento del IVA, artículo 21.4.º de la Ley del IVA y sujetos pasivos ocasionales" que figura como anexo II de la presente Orden.
+
+Dicho modelo consta de los tres ejemplares siguientes:
+
+Ejemplar para el sujeto pasivo.
+
+Ejemplar para la Entidad colaboradora – AEAT.
+
+Ejemplar para la Administración.
+
+El número de justificante que habrá de figurar en el modelo 308 de autoliquidación será un número secuencial cuyos tres primeros dígitos se corresponderán con el código 308.
+
+2\. Este modelo será presentado por los siguientes sujetos pasivos del Impuesto:
+
+a) Aquellos que realicen con carácter ocasional entregas exentas de medios de transporte nuevos y que, conforme con lo dispuesto en los artículos 93, apartado dos, y 94, apartado dos, de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, soliciten la devolución de las cuotas soportadas o satisfechas en la adquisición del medio de transporte.
+
+b) Aquellos que ejerzan la actividad de transporte de viajeros o de mercancías por carretera, tributen por el régimen simplificado del Impuesto y, cumpliendo los requisitos establecidos en el artículo 30.3. b) y c) del Reglamento del Impuesto sobre el Valor Añadido, hayan soportado cuotas deducibles del Impuesto como consecuencia de la adquisición de medios de transporte afectos a dicha actividad, y en el supuesto de que los citados medios de transporte hayan sido adquiridos por sujetos pasivos que ejerzan la actividad de transporte de mercancías por carretera estén comprendidos en la categoría N1, que tengan al menos 2.500 kilos de masa máxima autorizada, o comprendidos en las categorías N2 y N3 del anexo II de la Directiva 70/156/CEE, del Consejo, de 6 de febrero de 1970, y que soliciten la devolución de dichas cuotas, siempre que no hayan consignado, o en su caso, no vayan a consignar, las referidas cuotas deducibles en las autoliquidaciones trimestrales correspondientes al Régimen simplificado de acuerdo con lo dispuesto en el artículo 38.2 del Reglamento del Impuesto.
+
+c) Aquellos que tributen en régimen especial del recargo de equivalencia, que hayan efectuado las devoluciones a exportadores en régimen de viajeros a que se refiere el artículo 117 de la citada Ley 37/1992, y que soliciten el reintegro del importe de las cuotas que hayan sido objeto de devolución.
+
+d) Aquellos que tengan la consideración de Ente público o de establecimiento privado de carácter social, para solicitar la devolución de las cuotas soportadas que no hayan podido deducirse totalmente, en la adquisición de bienes que sean objeto de una entrega posterior a Organismos reconocidos que los exporten fuera del territorio de la Comunidad en el marco de sus actividades humanitarias, caritativas o educativas, previo reconocimiento del derecho a la exención, de acuerdo con lo establecido en el segundo párrafo del número 4.º del artículo 21 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
+
+> Se modifica por el art. único.1 de la Orden EHA/1033/2011, de 18 de abril. [Ref. BOE-A-2011-7479](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-7479).
+
+## Artículo 3. Forma, procedimiento y condiciones generales de presentación del modelo 303.
+
+1\. La presentación de este modelo se efectuará de acuerdo con lo previsto en los artículos 2 y 3, y 6 a 11, de la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones, declaraciones informativas, declaraciones censales, comunicaciones y solicitudes de devolución, de naturaleza tributaria.
+
+2\. No obstante lo dispuesto en el apartado anterior, los sujetos pasivos diferentes a los previstos en el artículo 2.a).1.º de la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones, declaraciones informativas, declaraciones censales, comunicaciones y solicitudes de devolución, de naturaleza tributaria, podrán efectuar el pago en una entidad colaboradora utilizando el documento de ingreso que se facilitará con el justificante de la presentación, que deberán imprimir y proceder a efectuar dicho pago.
+
+> Téngase en cuenta que esta actualización, establecida por el art. 2.1 de la Orden HFP/1124/2022, de 18 de noviembre [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290), entra en vigor el 1 de enero de 2023, según determina su disposición final única.
+
+> Redacciçon anterior:
+
+> "La presentación de este modelo se efectuará de acuerdo con lo previsto en los artículos 2 a 4, 6 a 9 y 11, ambos inclusive, de la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones y declaraciones informativas de naturaleza tributaria."
+
+> Se modifica por el art. 2.1 de la Orden HFP/1124/2022, de 18 de noviembre. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290)
+
+> Esta modificación se aplicará por primera vez a las autoliquidaciones del Impuesto sobre el Valor Añadido correspondientes a los periodos de liquidación que se inicien a partir del 1 de enero de 2023, según establece la disposición final única de la citada Orden.
+
+> Se modifica, con efectos para las operaciones realizadas a partir de 1 de enero de 2014, por el art. 1.3 de la Orden HAP/2215/2013, de 26 de noviembre. [Ref. BOE-A-2013-12489](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12489).
+
+## Artículo 4. Lugar y procedimiento de presentación del modelo 303 en impreso.
+
+**(Derogado)**
+
+> Se deroga, con efectos para las operaciones realizadas a partir de 1 de enero de 2014, por la disposición derogatoria única.6 de la Orden HAP/2215/2013, de 26 de noviembre. [Ref. BOE-A-2013-12489](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12489).
+
+## Artículo 5. Forma y condiciones generales para la presentación telemática por Internet del modelo 303.
+
+**(Derogado)**
+
+> Se deroga, con efectos para las operaciones realizadas a partir de 1 de enero de 2014, por la disposición derogatoria única.6 de la Orden HAP/2215/2013, de 26 de noviembre. [Ref. BOE-A-2013-12489](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12489).
+
+## Artículo 6. Procedimiento para la presentación telemática por Internet de las autoliquidaciones correspondientes al modelo 303.
+
+**(Derogado)**
+
+> Se deroga, con efectos para las operaciones realizadas a partir de 1 de enero de 2014, por la disposición derogatoria única.6 de la Orden HAP/2215/2013, de 26 de noviembre. [Ref. BOE-A-2013-12489](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12489).
+
+## Artículo 7. Plazo de presentación del modelo 303.
+
+1\. En el supuesto de sujetos pasivos cuyo período de liquidación coincida con el mes natural, la presentación de las autoliquidaciones del modelo 303, así como, en su caso, el ingreso o la solicitud de devolución, si corresponde, de la cantidad resultante, se efectuará en los veinte primeros días naturales del mes siguiente a la finalización del correspondiente período de liquidación mensual, excepto la relativa al último período de liquidación del año, que deberá presentarse durante los treinta primeros días naturales del mes de enero siguiente.
+
+Sin perjuicio de lo anterior, las declaraciones-liquidaciones correspondientes a las personas y entidades a que se refiere el artículo 62.6 de este Reglamento, deberán presentarse durante los treinta primeros días naturales del mes siguiente al correspondiente período de liquidación mensual, o hasta el último día del mes de febrero en el caso de la declaración-liquidación correspondiente al mes de enero.
+
+2\. En el supuesto de sujetos pasivos cuyo período de liquidación coincida con el trimestre natural, la presentación de las autoliquidaciones del modelo 303, así como, en su caso, el ingreso o la solicitud de devolución, si corresponde, de la cantidad resultante, se efectuará en los veinte primeros días naturales del mes siguiente a la finalización del correspondiente período de liquidación trimestral, excepto la correspondiente al último período de liquidación del año, que deberá presentarse durante los treinta primeros días naturales del mes de enero siguiente.
+
+> Se modifica, con efectos de 1 de julio de 2017, por la disposición final 3.3 de la Orden HFP/417/2017, de 12 de mayo. [Ref. BOE-A-2017-5312](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5312)
+
+> Se modifica el apartado 1, con efectos para las operaciones realizadas a partir de 1 de enero de 2014, por el art. 1.4 de la Orden HAP/2215/2013, de 26 de noviembre. [Ref. BOE-A-2013-12489](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12489).
+
+## Artículo 8. Forma y lugar de presentación del modelo 308.
+
+1\. En el supuesto de los sujetos pasivos a que se refieren los apartados 2.a) y 2.c) del artículo 2 de esta Orden, la presentación del modelo 308 podrá realizarse en impreso o potestativamente por vía telemática a través de Internet, en las condiciones y de acuerdo con el procedimiento previsto en los artículos 9 y 10 de la presente Orden.
+
+En el supuesto de los sujetos pasivos a que se refieren los apartados 2.b) y 2.d) del artículo 2 de esta Orden, la presentación del modelo 308 deberá realizarse obligatoriamente por vía telemática a través de Internet, en las condiciones y de acuerdo con el procedimiento previsto en los artículos 9 y 10 de la presente Orden.
+
+2\. La autoliquidación ajustada al modelo 308 en impreso deberá presentarse en la entidad de depósito, situada en territorio español, que actúe como colaboradora en la gestión recaudatoria donde el obligado tributario desee recibir el importe de la devolución, siempre que la declaración lleve adheridas las correspondientes etiquetas identificativas suministradas por la Agencia Estatal de Administración Tributaria. Asimismo, podrá presentarse en la Delegación o Administración de la Agencia Estatal de Administración Tributaria correspondiente a su domicilio fiscal, adjuntando a la autoliquidación fotocopia acreditativa del número de identificación fiscal, si no lleva adheridas las etiquetas identificativas suministradas por la Agencia Estatal de Administración Tributaria.
+
+No obstante lo anterior, no será preciso adjuntar fotocopia del documento acreditativo del número de identificación fiscal (NIF) cuando se trate de autoliquidaciones correspondientes a personas físicas que se presenten personalmente en las oficinas de la Agencia Estatal de Administración Tributaria y acrediten su identidad.
+
+> Se modifica el apartado 1 por el art. único.3 de la Orden EHA/1033/2011, de 18 de abril. [Ref. BOE-A-2011-7479](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-7479).
+
+## Artículo 9. Condiciones generales para la presentación telemática por Internet del modelo 308.
+
+1\. La presentación de la declaración por vía telemática a través de Internet podrá ser efectuada bien por el propio declarante o bien por un tercero que actúe en su representación, de acuerdo con lo establecido en los artículos 79 a 81, ambos inclusive, del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, y en la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios.
+
+2\. La presentación telemática estará sujeta a las siguientes condiciones:
+
+a) El declarante deberá disponer de Número de Identificación Fiscal (NIF) y estar identificado en el Censo de empresarios, profesionales y retenedores con carácter previo a la presentación del modelo de autoliquidación.
+
+b) El declarante deberá tener instalado en el navegador un certificado electró-nico X.509.V3 expedido por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda o cualquier otro certificado electrónico admitido por la Agencia Estatal de Administración Tributaria, de acuerdo con lo previsto en la Orden HAC/1181/2003, de 12 de mayo, por la que se establecen normas específicas sobre el uso de la firma electrónica en las relaciones tributarias por medios electrónicos, informáticos y telemáticos con la Agencia Estatal de Administración Tributaria.
+
+Si la presentación telemática va a ser realizada por una persona o entidad autorizada para presentar declaraciones en representación de terceras personas, será esta persona o entidad autorizada quien deberá tener instalado en el navegador su certificado.
+
+c) Para efectuar la presentación telemática el declarante o, en su caso, el presentador deberá cumplimentar y transmitir los datos del formulario, ajustado al modelo 308, que estará disponible en la Sede Electrónica de la Agencia Estatal de Administración Tributaria a la que se puede acceder a través del portal de la Agencia Estatal de Administración Tributaria en Internet (www.agenciatributaria.es) o bien directamente en https://www.agenciatributaria.gob.es.
+
+Asimismo, cuando el declarante sea uno de los sujetos pasivos a que se refiere el apartado 2.d) del artículo 2 de la presente Orden, junto con la declaración deberá presentar, a través del Registro electrónico de la Agencia Tributaria, regulado en el artículo Quinto de la Resolución de 28 de diciembre de 2009 de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se crea la sede electrónica y se regulan los registros electrónicos de la Agencia Estatal de Administración Tributaria, la documentación que justifique el importe de la devolución solicitada.
+
+3\. En aquellos casos en que se detecten anomalías de tipo formal en la transmisión telemática de declaraciones, dicha circunstancia se pondrá en conocimiento del presentador de la declaración por el propio sistema mediante los correspondientes mensajes de error, para que proceda a su subsanación.
+
+> Se modifica el apartado 2.c) por el art. único.4 de la Orden EHA/1033/2011, de 18 de abril. [Ref. BOE-A-2011-7479](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-7479).
+
+## Artículo 10. Procedimiento para la presentación telemática por Internet de las autoliquidaciones correspondientes al modelo 308.
+
+El procedimiento a seguir para la presentación telemática por Internet del modelo 308 será el siguiente:
+
+a) El declarante o, en su caso, el presentador se conectará con la Agencia Estatal de Administración Tributaria a través de Internet, en la dirección electrónica www.agenciatributaria.es, y seleccionará, dentro de la Oficina Virtual, el concepto fiscal (Impuesto sobre el Valor Añadido) y el modelo de declaración a transmitir (modelo 308).
+
+b) A continuación procederá a transmitir la declaración con la firma electrónica, generada al seleccionar el certificado electrónico previamente instalado en el navegador a tal efecto.
+
+Si el presentador es una persona o entidad autorizada a presentar declaraciones en representación de terceras personas, se requerirá una única firma, la correspondiente a su certificado.
+
+c) Si la declaración es aceptada, la Agencia Estatal de Administración Tributaria le devolverá en pantalla los datos del formulario validados con un código electrónico de 16 caracteres, además de la fecha y hora de presentación. En el supuesto de que la presentación fuese rechazada se mostrará en pantalla la descripción de los errores detectados. En este caso, se deberá proceder a subsanar los mismos en el formulario de entrada, o repitiendo la presentación si el error fuese originado por otro motivo.
+
+El presentador deberá conservar la declaración aceptada, debidamente validada con el correspondiente código electrónico.
+
+## Artículo 11. Plazos de presentación del modelo 308.
+
+1\. La presentación de la autoliquidación con solicitud de devolución por sujetos pasivos ocasionales que realicen entregas exentas de medios de transporte nuevos, se efectuará en el plazo de treinta días naturales a contar desde el día en que tenga lugar dicha entrega.
+
+2\. La presentación de la autoliquidación con solicitud de devolución por sujetos pasivos que tributen en el régimen simplificado del Impuesto y ejerzan la actividad de transporte de viajeros o de mercancías por carretera, de acuerdo con lo previsto en el artículo 30 bis del Reglamento del Impuesto sobre el Valor Añadido, se realizará durante los primeros 20 días naturales del mes siguiente a aquél en el cual se haya realizado la adquisición del correspondiente medio de transporte.
+
+3\. La presentación de la autoliquidación con solicitud de devolución por sujetos pasivos en recargo de equivalencia que hayan realizado devoluciones a exportadores en régimen de viajeros, se efectuará en los veinte primeros días naturales del mes siguiente a la finalización de cada trimestre del año, excepto la correspondiente al cuarto trimestre que se presentará durante los treinta primeros días naturales del mes de enero del año siguiente.
+
+En la autoliquidación correspondiente a cada trimestre sólo se computarán las devoluciones efectivamente practicadas durante el mismo por el sujeto pasivo.
+
+4\. La presentación de la autoliquidación con solicitud de devolución por los sujetos pasivos a que se refiere el apartado 2.d) del artículo 2 de la presente Orden se efectuará en el plazo de tres meses desde que se haya realizado la entrega de bienes que origina el derecho a la devolución.
+
+> Se añade el apartado 4 por el art. único.5 de la Orden EHA/1033/2011, de 18 de abril. [Ref. BOE-A-2011-7479](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-7479).
+
+## Disposición transitoria única. Forma de presentación del modelo 308.
+
+En el supuesto de los sujetos pasivos a que se refiere el apartado 2.b) del artículo 2 de la presente orden, la presentación del modelo 308 deberá realizarse obligatoriamente en impreso durante el período comprendido desde el día de entrada en vigor de esta orden hasta el 31 de marzo de 2009.
+
+## Disposición derogatoria única. Derogación de modelos de declaración, y de las normas que regulan el lugar, forma y plazo de su presentación, así como las condiciones y procedimiento para su presentación telemática por Internet.
+
+Quedan derogadas las siguientes disposiciones:
+
+1\. La Orden de 30 de diciembre de 1992, por la que se aprueban los nuevos modelos 300, 310, 320, 330, 370, 308 y 309 de declaración-liquidación del Impuesto sobre el Valor Añadido.
+
+2\. La Orden de 28 de septiembre de 1995 por la que se aprueba el modelo 390 de declaración-resumen anual y el modelo 332 declaración-liquidación del Impuesto sobre el Valor Añadido.
+
+3\. La Orden de 20 de enero de 1999 por la que se aprueban los modelos 300 y 330 de declaración-liquidación del Impuesto sobre el Valor Añadido en euros y se adaptan a la presentación en euros las declaraciones-liquidaciones mensuales de grandes empresas correspondientes a los códigos 320 y 332.
+
+4\. En lo relativo a los modelos 320 y 332, se derogan los artículos Segundo, Tercero y Cuarto de la Orden de 20 de enero de 1999, por la que se establecen las condiciones generales y el procedimiento para la presentación telemática de las declaraciones-liquidaciones mensuales de grandes empresas correspondientes a los códigos 111, 320 y 332, así como el artículo Quinto. Dos de la citada orden ministerial en el que se establece el plazo de presentación de los modelos 320 y 332.
+
+5\. En lo referente a los modelos 300 y 330, se derogan los artículos Segundo y Tercero de la Orden de 30 de septiembre de 1999, sobre presentación telemática de las declaraciones-liquidaciones de los modelos 110, 130, 300 y 330, así como los apartados Tres y Cuatro del artículo Cuarto de la citada orden ministerial en los que se establece el plazo de presentación de los modelos 300 y 330.
+
+6\. El artículo Primero de la Orden de 30 de enero de 2001, por la que se aprueban los modelos 308, 309, 310 y 370 de declaración-liquidación en euros del Impuesto sobre el Valor Añadido, los modelos 130 y 131 de declaración-liquidación de pagos fraccionados en euros del Impuesto sobre la Renta de las Personas Físicas, y los modelos 110 y 111 de declaración-documento de ingreso de retenciones e ingresos a cuenta en euros del Impuesto sobre la Renta de las Personas Físicas sobre rendimientos del trabajo, de determinadas actividades económicas, premios y determinadas imputaciones de renta.
+
+7\. En lo relativo al modelo 308, se derogan los artículos Segundo, Tercero y Quinto. Uno de la Orden EHA/3212/2004, de 30 de septiembre, por la que se establecen las condiciones generales y el procedimiento para la presentación telemática por Internet de las declaraciones correspondientes a los modelos 308, 309, 341, 370, 371, 430 y 480.
+
+8\. El apartado f) del artículo 1 de la Orden EHA/3435/2007, de 23 de noviembre, por el que se aprueban los modelos de autoliquidación 117,123,124,126,128 y 300 y se establecen medidas para la promoción y ampliación de la presentación telemática de determinadas autoliquidaciones, resúmenes anuales y declaraciones informativas de carácter tributario.
+
+## Disposición final primera. Modificación de la Orden EHA/1274/2007, de 26 de abril, por la que se aprueban los modelos 036 de Declaración censal de alta, modificación y baja en el Censo de empresarios, profesionales y retenedores y 037 Declaración censal simplificada de alta, modificación y baja en el Censo de empresarios, profesionales y retenedores.
+
+1\. Se modifica el apartado 1 del artículo 12 de la Orden EHA/1274/2007, de 26 de abril, que quedará redactado como sigue:
+
+«1. El modelo 036 podrá presentarse en impreso o por vía telemática a través de Internet. En el supuesto de que el modelo 036 se utilice para solicitar la inscripción en el registro de devolución mensual, regulado en el artículo 30 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre, su presentación deberá realizarse, en todo caso, por vía telemática a través de Internet».
+
+2\. Se modifica la denominación de la casilla 129 del modelo 036 de declaración censal de alta, modificación y baja en el Censo de empresarios, profesionales y retenedores que figura en el Anexo I de la Orden EHA/1274/2007, de 26 de abril, que pasará a denominarse:
+
+«Solicitud de inscripción/baja en el registro de devolución mensual. (página 5)».
+
+3\. Se modifica la denominación de la primera línea del apartado 6. D) «Registros» que aparece en la página 5 del modelo 036 de declaración censal de alta, modificación y baja en el Censo de empresarios, profesionales y retenedores que figura en el Anexo I de la Orden EHA/1274/2007, de 26 de abril, que pasará a denominarse:
+
+«Solicita inscripción/baja en el registro de devolución mensual».
+
+## Disposición final segunda. Modificación de la Orden EHA/3434/2007, de 23 de noviembre, por la que se aprueban los modelos 322 de autoliquidación mensual, modelo individual, y 353 de autoliquidación mensual, modelo agregado y el modelo 039 de Comunicación de datos, correspondientes al Régimen especial del Grupo de Entidades en el Impuesto sobre el Valor Añadido.
+
+Modificación de los anexos I y II de la Orden EHA/3434/2007, de 23 de noviembre.
+
+Se sustituyen los anexos I y II de la citada Orden EHA/3434/2007, de 23 de noviembre, por los que figuran como anexo III y IV de la presente orden.
+
+## Disposición final tercera. Modificación de la Orden EHA/3398/2006, de 26 de octubre, por la que se dictan medidas para el impulso y homogeneización de determinados aspectos en relación a la presentación de declaraciones tributarias por vía telemática, se modifican determinadas normas de presentación de los modelos de declaración 182, 184, 188 y 296, y se modifica el modelo de declaración 187, Declaración informativa de acciones y participaciones representativas del capital o del patrimonio de las instituciones de inversión colectiva y resumen anual de retenciones e ingresos a cuenta en relación con las rentas o ganancias patrimoniales obtenidas como consecuencia de las transmisiones o reembolsos de esas acciones y participaciones.
+
+Con efectos desde las declaraciones correspondientes al ejercicio 2009, se modifica el artículo 1 de la Orden EHA/3398/2006, de 26 de octubre, en los siguientes términos:
+
+1\. En el artículo 1.1 de la Orden EHA/3398/2006, de 26 de octubre, de los modelos de declaraciones-liquidaciones y autoliquidaciones que pueden ser objeto de domiciliación, se elimina el modelo 300 «Declaración trimestral del Impuesto sobre el Valor Añadido» y se incluye el siguiente:
+
+Modelo 303 «Impuesto sobre el Valor Añadido. Autoliquidación».
+
+2\. En el artículo 1.2 de la Orden EHA/3398/2006, de 26 de octubre, en los plazos para realizar la domiciliación bancaria, se elimina el relativo al modelo 300, y se incluye el correspondiente al modelo 303 con el siguiente texto:
+
+«Modelo 303: Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero».
+
+## Disposición final cuarta. Modificación de la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de junio, por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria.
+
+1\. En el anexo I, Código 021 autoliquidaciones, se incluye el siguiente modelo de declaración:
+
+Código de modelo: 303.
+
+Denominación: «Impuesto sobre el Valor Añadido. Autoliquidación».
+
+Período de ingreso: M-T.
+
+2\. En el anexo I, Código 021 autoliquidaciones, se elimina el siguiente modelo de declaración:
+
+Código de modelo: 300.
+
+Denominación: «IVA DECLARACIÓN TRIMESTRAL».
+
+3\. En el anexo II, Código 022 autoliquidaciones especiales, se eliminan los siguientes modelos de declaración:
+
+a) Código de modelo: 320.
+
+Denominación: «IVA GRANDES EMPRESAS».
+
+b) Código de modelo: 330.
+
+Denominación: «IVA EXPORTADORES».
+
+c) Código de modelo: 332
+
+Denominación: «IVA EXPORTADORES GRANDES EMPRESAS».
+
+4\. En el anexo VI, Modelos de autoliquidación cuyo resultado sea una solicitud de devolución y gestionables a través de entidades colaboradoras, se eliminan los siguientes modelos de declaración:
+
+a) Código de modelo: 320.
+
+Denominación: «IVA GRANDES EMPRESAS».
+
+b) Código de modelo: 330.
+
+Denominación: «IVA EXPORTADORES».
+
+c) Código de modelo: 332.
+
+Denominación: «IVA EXPORTADORES GRANDES EMPRESAS»
+
+## Disposición final quinta. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado, y será aplicable a las operaciones realizadas a partir del 1 de enero de 2009.
+
+Madrid, 29 de diciembre de 2008.–El Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda, Pedro Solbes Mira.
+
+## ANEXO I — Modelo 303 de autoliquidación del Impuesto sobre el Valor Añadido
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_8.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_10.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_11.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_12.png)
+
+> Se sustituye por el que figura como anexo III de la Orden HAC/27/2026, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2026-1761](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-1761)
+
+> Téngase en cuenta que se aplicará por primera vez a las autoliquidaciones correspondientes al segundo trimestre o al mes de febrero de 2026, según establece la disposición final única.1 de la citada Orden.
+
+> Se sustituye por el artículo único en la forma que figura en el anexo de la Orden HAC/819/2024, de 30 de julio. [Ref. BOE-A-2024-16129](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-16129)
+
+> Téngase en cuenta para su aplicación lo dispuesto en la disposición final única de la citada Orden.
+
+> Se sustituye por el que figura como anexo II de la Orden HFP/1124/2022, de 18 de noviembre, según establece su art. 2.2. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290).
+
+> Téngase en cuenta que se aplicará por primera vez a las autoliquidaciones del Impuesto sobre el Valor Añadido correspondientes a los periodos de liquidación que se inicien a partir del 1 de enero de 2023, según establece la disposición final única de la citada Orden.
+
+> Se sustituye por el art. 2 y anexo II de la Orden HAC/646/2021, de 22 de junio. [Ref. BOE-A-2021-10509](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10509)
+
+> Téngase en cuenta que será aplicable por primera vez a las autoliquidaciones correspondientes a los periodos de liquidación que se inicien a partir del 1 de julio de 2021, según establece la disposición final única de la citada Orden.
+
+> Se sustituye por el art. 2 y anexo III de la Orden HAC/1274/2020, de 28 de diciembre. [Ref. BOE-A-2020-17269](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17269)
+
+> Téngase en cuenta que será aplicable por primera vez a las autoliquidaciones correspondientes a los periodos de liquidación que se inicien a partir del 1 de enero de 2021, según establece la disposición final única de la citada Orden.
+
+> Se sustituye por el art. 3 y anexo II de la Orden HAC/1148/2018, de 18 de octubre. [Ref. BOE-A-2018-14901](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14901)
+
+> Téngase en cuenta para su aplicación la disposición final única de la citada Orden.
+
+> Se sustituye por el art. 3.2 de la Orden HFP/1307/2017, de 29 de diciembre. [Ref. BOE-A-2017-15844](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15844)
+
+> Téngase en cuenta que los nuevos modelos de autoliquidación aprobados en esta última actualización se utilizarán a partir del periodo de liquidación correspondiente a febrero de 2018, según se establece en la disposición final única.b) de la citada Orden.
+
+> Se sustituye, con efectos de 1 de julio de 2017, por la disposición final 3.1 y el Anexo V de la Orden HFP/417/2017, de 12 de mayo. [Ref. BOE-A-2017-5312](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5312)
+
+> Se sustituye por el art. 1.1 y el Anexo I de la Orden HAP/2373/2014, de 9 de diciembre. [Ref. BOE-A-2014-13180](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13180).
+
+> Téngase en cuenta que las casillas correspondientes a «las cuotas regularizadas de acuerdo con el artículo 80.Cinco.5.ª de la Ley del Impuesto sobre el Valor Añadido» y al «IVA a la importación liquidado por la Aduana pendiente de ingreso», estarán habilitadas para los períodos de liquidación que se inicien a partir del 1 de enero de 2015, según establece el art. 1.2 de la citada Orden.
+
+> Se sustituye, con efectos para las operaciones realizadas a partir de 1 de enero de 2014, por el art. 1.2 y el anexo I de la Orden HAP/2215/2013, de 26 de noviembre. [Ref. BOE-A-2013-12489](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12489).
+
+> Se sustituye el "Ejemplar para la entidad colaboradora" por la disposición final 2 y el Anexo III de la Orden EHA/769/2010, de 18 de marzo. [Ref. BOE-A-2010-5098](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5098).
+
+## ANEXO II
+
+![Imagen: img/disp/2011/100/07479_001.png](https://www.boe.es/datos/imagenes/disp/2011/100/07479_001.png)
+
+![Imagen: img/disp/2011/100/07479_002.png](https://www.boe.es/datos/imagenes/disp/2011/100/07479_002.png)
+
+![Imagen: img/disp/2011/100/07479_003.png](https://www.boe.es/datos/imagenes/disp/2011/100/07479_003.png)
+
+> Se sustituye por el art. único.2 y el anexo I de la Orden EHA/1033/2011, de 18 de abril. [Ref. BOE-A-2011-7479](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-7479).
+
+## ANEXO III
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20953_007.png)
+
+## ANEXO IV
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20953_008.png)

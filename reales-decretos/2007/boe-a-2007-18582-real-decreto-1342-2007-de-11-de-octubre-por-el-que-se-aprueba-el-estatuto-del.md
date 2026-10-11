@@ -1,0 +1,417 @@
+---
+title: "Real Decreto 1342/2007, de 11 de octubre, por el que se aprueba el Estatuto del Centro Español de Metrología"
+identifier: "BOE-A-2007-18582"
+eli: "https://www.boe.es/eli/es/rd/2007/10/11/1342"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2007-10-11
+published: 2007-10-26
+in_force_from: 2007-10-27
+last_amended: 2026-06-12
+consolidated: 2026-06-15
+gazette: "Boletín Oficial del Estado núm. 257"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-18582"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1342/2007, de 11 de octubre, por el que se aprueba el Estatuto del Centro Español de Metrología
+
+Por Real Decreto 415/1985, de 27 de marzo, se reorganizó el Ministerio de la Presidencia, y se constituyó en la Dirección General del Instituto Geográfico Nacional, dependiente de la Subsecretaría, el Centro Español de Metrología, con nivel orgánico de Subdirección General, con las funciones de obtención, conservación, desarrollo y difusión de las unidades básicas de medida; aprobación de modelos de instrumentos, aparatos, medios y sistemas de medida, así como los correspondientes controles metrológicos; realización de estudios y análisis de carácter metrológico y operaciones de recalibración de equipos técnicos e industriales, así como la ordenación técnica y administrativa de estas actividades; y, en general, desarrollo de las funciones que las disposiciones legales vigentes atribuyen a la Administración General del Estado en el campo de la metrología.
+
+Con posterioridad, el artículo 100 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, creó el Centro Español de Metrología como Organismo Autónomo de carácter comercial e industrial, adscrito al Ministerio de Obras Públicas y Urbanismo, atribuyéndole como funciones la custodia y conservación de los patrones nacionales de medida, el establecimiento y desarrollo de las cadenas oficiales de calibración, el ejercicio de las funciones de la Administración General del Estado en el control metrológico del Estado y en el control metrológico CEE, la habilitación oficial de laboratorios de verificación metrológica, el mantenimiento del Registro de Control Metrológico, la ejecución de proyectos de investigación y desarrollo en materia metrológica y la formación de especialistas en Metrología.
+
+El artículo 60 de la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, adaptó el Centro Español de Metrología a la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, con la condición de Organismo autónomo de los previstos en el artículo 43.1 de la misma.
+
+En la actualidad el Centro Español de Metrología está adscrito, mediante Real Decreto 1554/2004, de 25 de junio, por el que se desarrolla la estructura orgánica básica del Ministerio de Industria, Turismo y Comercio, a dicho Ministerio.
+
+De conformidad con el artículo 62.3 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, los estatutos de los organismos autónomos han de aprobarse por real decreto del Consejo de Ministros a iniciativa del titular del Ministerio de adscripción a propuesta conjunta de los Ministros de Administraciones Públicas y de Economía y Hacienda.
+
+En su virtud, a iniciativa del Ministro de Industria, Turismo y Comercio, a propuesta del Vicepresidente Segundo y Ministro de Economía y Hacienda y de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de octubre de 2007,
+
+DISPONGO:
+
+### Artículo único. Aprobación del Estatuto.
+
+Se aprueba el Estatuto del organismo autónomo Centro Español de Metrología, cuyo texto se inserta a continuación.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto.
+
+### Disposición final primera. Desarrollo y ejecución.
+
+El Ministro de Industria, Turismo y Comercio adoptará las medidas necesarias para el desarrollo y ejecución del este real decreto.
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 11 de octubre de 2007.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
+
+## ESTATUTO DEL CENTRO ESPAÑOL DE METROLOGÍA
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Naturaleza jurídica, adscripción y denominación.
+
+1\. El Centro Español de Metrología, conforme a lo establecido en el artículo 60 de la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, es un organismo autónomo de los previstos en el artículo 98 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, adscrito orgánicamente al Ministerio de Industria, Comercio y Turismo, a través de la Secretaría General de Industria y de la Pequeña y Mediana Empresa, en virtud de lo establecido en el artículo 6.6 del Real Decreto 998/2018, de 3 de agosto, por el que se desarrolla la estructura orgánica básica del Ministerio de Industria, Comercio y Turismo.
+
+2\. Como organismo autónomo, el Centro Español de Metrología tiene personalidad jurídica pública diferenciada, patrimonio y tesorería propios, así como autonomía de gestión y plena capacidad jurídica y de obrar, y, dentro de su ámbito competencial, le corresponden las potestades administrativas precisas para el cumplimiento de sus fines, en los términos establecidos en el presente estatuto, salvo la potestad expropiatoria.
+
+3\. Corresponde al Ministerio de Industria y Turismo, a través de la Secretaría de Estado de Industria, la dirección estratégica, la evaluación y el control de los resultados de su actividad así como también el control de eficacia, que se realizará a través de la Inspección de servicios. La supervisión continua se efectuará a través de la Intervención General de la Administración del Estado, de acuerdo con lo establecido en el artículo 85.3 de la Ley 40/2015, de 1 de octubre.
+
+4\. La denominación del organismo es Centro Español de Metrología, O.A.
+
+> Se modifican los apartados 3 y 4 por el art. 6.1 Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica el título y los apartados 1, 3 y 4 por el art. único.1 del Real Decreto 240/2019, de 5 de abril. [Ref. BOE-A-2019-5817](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5817)
+
+> Se añade el apartado 4 por la disposición final 3 del Real Decreto 998/2018, de 3 de agosto. [Ref. BOE-A-2018-11139](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-11139)
+
+### Artículo 2. Régimen jurídico.
+
+El Centro Español de Metrología se rige por lo previsto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público; la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; en el artículo 100 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, en lo que no se oponga a las citadas leyes; en la Ley 32/2014, de 22 de diciembre, de Metrología, en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público; en la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas; en la Ley 47/2003, de 26 de noviembre, General Presupuestaria; por este estatuto, y por las demás disposiciones aplicables a los organismos autónomos de la Administración General del Estado.
+
+> Se modifica por el art. único.2 del Real Decreto 240/2019, de 5 de abril. [Ref. BOE-A-2019-5817](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5817)
+
+## CAPÍTULO II — Fines y funciones
+
+### Artículo 3. Fines.
+
+De acuerdo con lo dispuesto en el artículo 100.3 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, y el artículo 17 de la Ley 32/2014, de 22 de diciembre, de Metrología, el Centro Español de Metrología tiene como fines:
+
+a) La custodia y conservación de los patrones nacionales de medida.
+
+b) El establecimiento y desarrollo de las cadenas oficiales de calibración.
+
+c) El ejercicio de las funciones de la Administración General del Estado en el control metrológico del Estado.
+
+d) El mantenimiento del Registro de Control Metrológico.
+
+e) La ejecución de proyectos de investigación y desarrollo en materia metrológica.
+
+f) La formación de especialistas en metrología.
+
+g) El impulso del desarrollo del Sistema Metrológico Nacional.
+
+> Se modifica por el art. único.3 del Real Decreto 240/2019, de 5 de abril. [Ref. BOE-A-2019-5817](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5817)
+
+### Artículo 4. Funciones.
+
+1\. Para el cumplimiento de los fines enumerados en el artículo anterior, y en el mismo ámbito que les corresponde, el Centro Español de Metrología ejerce las siguientes funciones:
+
+a) Obtención, realización, definición y conservación de los patrones nacionales de las unidades de medida.
+
+b) Designación de laboratorios asociados al Centro Español de Metrología y depositarios de patrones nacionales.
+
+c) Designación de laboratorios colaboradores que, sin ser depositarios de patrones nacionales, desarrollen actividades metrológicas en magnitudes o rangos de medida determinados que requieren de instalaciones de diseño y especificaciones singulares.
+
+d) Cumplimiento de los requisitos establecidos en el Acuerdo de Reconocimiento Mutuo suscrito por los Institutos Nacionales de Metrología pertenecientes a la Convención del Metro.
+
+e) Celebración de convenios en el ámbito de sus competencias con sujetos de derecho público o privado, sin que ello pueda suponer cesión de la titularidad de la competencia.
+
+f) Establecimiento y coordinación de las cadenas oficiales de calibración.
+
+g) Prestación de servicios de calibración, ensayo y asesoramiento a los usuarios de la metrología.
+
+h) Estudio y preparación de los anteproyectos de disposiciones legales en materia metrológica.
+
+i) Llevanza y mantenimiento del Registro de Control Metrológico.
+
+j) Redacción de las Directrices técnicas y de coordinación en metrología legal.
+
+k) Realización de los ensayos correspondientes a las distintas fases de control metrológico.
+
+l) Actuación como Secretaría Técnica del Consejo Superior de Metrología.
+
+m) Actuación como organismo notificado, de control metrológico y autorizado de verificación metrológica a los que se refiere el artículo 19 de la Ley 32/2014, de Metrología.
+
+n) El ejercicio de las funciones de la Administración General del Estado en el control metrológico del Estado.
+
+o) Realización de proyectos de investigación y desarrollo para la realización de nuevos patrones nacionales y materiales de referencia, y para el desarrollo de las capacidades metrológicas del Estado.
+
+p) Difusión y transferencia de tecnología.
+
+q) Formación en metrología, con especial atención a la formación de especialistas en metrología, impartición de cursos, seminarios y jornadas por el propio CEM o en colaboración con universidades, otras administraciones públicas y otros organismos y empresas, entre otros.
+
+r) Representación de España en las organizaciones internacionales de metrología, sin perjuicio de las competencias que corresponden al Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+
+s) Elaboración y publicación de manuales, procedimientos, guías relativas a instrumentos de medida y otras publicaciones sobre metrología.
+
+t) Promoción de la metrología como herramienta fundamental de la infraestructura de la calidad.
+
+u) Desempeño de las responsabilidades asumidas con los Organismos de Normalización y Certificación y Entidades de Acreditación como agentes de la infraestructura de la calidad industrial.
+
+v) Gestión de la Oficina de Atención al Ciudadano y mantenimiento de la Carta de Servicios del Organismo.
+
+w) Dictar laudos arbitrales en casos litigiosos, cuando oficialmente sea requerido para ello.
+
+x) La realización, a petición de las autoridades en materia de tráfico y seguridad vial, de ensayos voluntarios de equipos que aún fuera del ámbito del control metrológico estén relacionados con equipos, sistemas o partes de los mismos que sí lo estén, tales como los de captación y reproducción de imágenes.
+
+y) La divulgación, desarrollo y fomento de la metrología en general, incluido el mantenimiento, conservación y exhibición de la Colección de Pesas y Medidas.
+
+z) Cualquier otra actividad que redunde en beneficio de sus fines y, en general, en el ámbito de la metrología.
+
+2\. El Centro Español de Metrología, con arreglo a lo dispuesto en el artículo 17.4 de la Ley 32/2014, es el organismo de cooperación administrativa en materia metrológica para el intercambio de información con los organismos homólogos designados a tal efecto por el resto de los Estados miembros de la Unión Europea y con la Comisión Europea, así como con las Administraciones públicas competentes en relación con los procedimientos de evaluación de la conformidad y la vigilancia del mercado de los instrumentos sometidos a control metrológico del Estado.
+
+> Se modifican las letras e), o), q) e y) y se añade la z) en el apartado 1 por el art. 6.2 Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica por el art. único.4 del Real Decreto 240/2019, de 5 de abril. [Ref. BOE-A-2019-5817](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5817)
+
+## CAPÍTULO III — Estructura organizativa del Organismo
+
+### Artículo 5. Órganos de gobierno y ejecutivos.
+
+1\. Los órganos de gobierno del Centro Español de Metrología son, de acuerdo con lo dispuesto en el artículo 90 de la Ley 40/2015, de 1 de octubre, los siguientes:
+
+a) La Presidencia.
+
+b) El Consejo Rector.
+
+2\. El órgano ejecutivo es la Dirección.
+
+> Se modifica por el art. 6.3 Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+### Artículo 6. La Presidencia.
+
+1\. La Presidencia del organismo es ejercida por el titular de la Secretaría General de Industria y de la Pequeña y Mediana Empresa.
+
+2\. Corresponde al Presidente:
+
+a) La representación institucional del Centro Español de Metrología, la dirección estratégica del organismo y la presidencia del Consejo Rector.
+
+b) La aprobación de los gastos y ordenación de los pagos del Organismo; así como la firma de contratos y convenios, sin perjuicio de las delegaciones efectuadas en el Director del Centro.
+
+c) Ejercer las demás competencias que le sean atribuidas conforme al ordenamiento jurídico.
+
+> Se modifica el apartado 1 por el art. único.5 del Real Decreto 240/2019, de 5 de abril. [Ref. BOE-A-2019-5817](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5817)
+
+### Artículo 7. Actos y resoluciones del Presidente.
+
+1\. Los actos y resoluciones del presidente, dictados en el ejercicio de las potestades administrativas que tiene atribuidas, ponen fin a la vía administrativa. Contra tales actos y resoluciones cabrá interponer recurso ante el orden jurisdiccional contencioso-administrativo, sin perjuicio del recurso potestativo de reposición previsto en el artículo 123 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+2\. **(Suprimido)**
+
+3\. Los procedimientos de responsabilidad patrimonial se resolverán de acuerdo con lo establecido en el artículo 67 de la Ley 39/2015, de 1 de octubre.
+
+> Se suprime el apartado 2 por el art. 6.4 Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifican los apartados 1 y 3 por el art. único.6 del Real Decreto 240/2019, de 5 de abril. [Ref. BOE-A-2019-5817](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5817)
+
+### Artículo 8. Régimen jurídico y composición del Consejo Rector.
+
+1\. El Consejo Rector es un órgano colegiado que conoce y orienta las actividades del Organismo, rigiéndose por lo dispuesto en el presente estatuto y por lo establecido en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre.
+
+2\. El Consejo Rector será convocado por su Presidente y se reunirá en sesión ordinaria por lo menos una vez al año y en sesión extraordinaria cuando lo juzgue necesario el Presidente o a petición de la mayoría de sus miembros. Los acuerdos se adoptarán por mayoría de los asistentes y en caso de empate dirimirá el voto del Presidente.
+
+3\. El Presidente podrá convocar a las reuniones del Consejo Rector, cuando lo considere conveniente, atendiendo a los temas que se vayan a tratar, a personas del Centro o ajenas al mismo, en calidad de asesores, con voz pero sin voto.
+
+4\. El Consejo Rector estará integrado por los siguientes miembros:
+
+Presidente: el presidente del CEM.
+
+Vicepresidente: el director del CEM.
+
+Vocales:
+
+a) Un representante, con nivel de subdirector general o asimilado, designado por la Subsecretaría del departamento correspondiente, de cada uno de los ministerios de: Asuntos Exteriores, Unión Europea y Cooperación, Hacienda, Fomento y Política Territorial y Función Pública.
+
+b) El Abogado del Estado jefe de la Asesoría Jurídica del Ministerio de Industria, Comercio y Turismo.
+
+c) Dos personas nombradas por la persona titular de la Secretaría General de Industria y de la Pequeña y Mediana Empresa, una de ellas de reconocido prestigio en el ámbito de la acreditación, normalización y calidad industrial y la otra entre miembros de reconocido prestigio en la comunidad científica metrológica.
+
+5\. Actuará como secretario del Consejo Rector, con voz pero sin voto, el secretario general del CEM, que no tendrá la condición de miembro del Consejo.
+
+> Se modifica el apartado 4 y se añade el apartado 5 por el art. único.7 del Real Decreto 240/2019, de 5 de abril. [Ref. BOE-A-2019-5817](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5817)
+
+### Artículo 9. Funciones del Consejo Rector.
+
+Son funciones del Consejo Rector las siguientes:
+
+a) Definir las líneas generales de actuación del Centro Español de Metrología, de acuerdo con las directrices del Departamento.
+
+b) Determinar la planificación a medio y largo plazo del Organismo y proponer al Presidente las líneas estratégicas de actuación del Centro Español de Metrología.
+
+c) Conocer de los acuerdos y convenios de colaboración concertados por el Centro Español de Metrología en el ámbito nacional.
+
+d) Conocer de los resultados técnicos y económicos alcanzados por el Organismo en el desarrollo de sus actividades.
+
+e) Aprobar el anteproyecto de presupuestos del Organismo e informar anualmente las líneas básicas de su elaboración.
+
+f) Aprobar la memoria anual del Organismo.
+
+g) Deliberar e informar sobre todos aquellos asuntos que afectando a la gestión del Centro Español de Metrología le sean sometidos por su Presidente.
+
+h) La aprobación de la propuesta de planes de actuación previstos en el artículo 85 de la Ley 40/2015, de 1 de octubre.
+
+> Se añade la letra h) por el art. 6.5 Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+### Artículo 10. El Director.
+
+1\. El director del Centro Español de Metrología, que tendrá categoría de Subdirector General, será nombrado y cesado por orden del Ministro de Industria, Comercio y Turismo, a propuesta de la persona titular de la Secretaría General de Industria y de la Pequeña y Mediana Empresa, entre funcionarios de carrera de Cuerpos o Escalas del Subgrupo A1, en los términos previstos en el artículo 67 de la Ley 40/2015, de 1 de octubre.
+
+2\. Corresponde al Director:
+
+a) Proponer al Presidente, para su aprobación, las medidas necesarias para la mejor gestión del Organismo, que sean competencia de aquél.
+
+b) Resolver los procedimientos establecidos en la Ley 3/1985, de 18 de marzo; en el Real Decreto Legislativo 1296/1986, de 28 de junio, así como en sus disposiciones de desarrollo, salvo las resoluciones administrativas sancionadoras por infracciones a la normativa metrológica, sin perjuicio de las funciones que correspondan a las Comunidades Autónomas.
+
+c) Someter al Consejo Rector los temas que sean competencia del mismo.
+
+d) Dirigir y coordinar el desarrollo de la planificación del Centro Español de Metrología.
+
+e) Impulsar y supervisar las actividades que formen parte de la gestión ordinaria del Organismo.
+
+f) Velar por el buen funcionamiento de las distintas unidades del Centro Español de Metrología y del personal integrado en las mismas.
+
+g) Organizar el trabajo, ordenando los medios materiales y de personal precisos para la ejecución de las actividades del Organismo.
+
+h) Elaborar el anteproyecto de presupuesto anual del Centro Español de Metrología y dirigir la ejecución presupuestaria.
+
+i) Autorizar la redacción y realizar la aprobación de los pliegos para la contratación de obras, gestión de servicios, suministros, consultoría y asistencia técnica.
+
+j) La aprobación de los gastos y ordenación de los pagos del organismo; la firma de contratos y convenios, hasta las cuantías que le delegue el Presidente, así como la formulación y la rendición de las cuentas anuales debidamente aprobadas en los términos establecidos en la Ley 47/2003, de 26 de noviembre.
+
+k) Ejercer todas aquellas funciones de dirección, gestión y control no atribuidas a los demás órganos de gobierno del Centro Español de Metrología y las que se les encomienden reglamentariamente o le delegue el Presidente del Organismo.
+
+> Se modifica la letra k) del apartado 2 por el art. 6.6 Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica el apartado 1 por el art. único.8 del Real Decreto 240/2019, de 5 de abril. [Ref. BOE-A-2019-5817](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5817)
+
+### Artículo 11. Actos y resoluciones del Director.
+
+1\. Los actos y resoluciones del Director, dictados en el ejercicio de las potestades administrativas que le atribuye como propias el artículo 10 de este estatuto, no agotan la vía administrativa.
+
+2\. Contra tales actos y resoluciones cabrá interponer recurso de alzada ante la Presidencia del Organismo, conforme a lo previsto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica el apartado 2 por el art. 6.7 Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+### Artículo 12. Otros órganos.
+
+1\. Como órganos responsables dependientes del director, y con las competencias que se les asigna, existirán las siguientes unidades:
+
+a) División de Magnitudes Mecánicas e Ingeniería.
+
+b) División de Magnitudes Energéticas, Medio Ambiente y Salud.
+
+c) Secretaría General.
+
+2\. Corresponde, bajo la supervisión del director, a la División de Magnitudes Mecánicas e Ingeniería el ejercicio de las funciones atribuidas al Centro Español de Metrología en el artículo 4, en las áreas de Longitud e Ingeniería de Precisión, Masa, Magnitudes Mecánicas y Medidas Dinámicas, así como la asistencia al director en las funciones propias del mismo.
+
+3\. Corresponde, bajo la supervisión del director, a la División de Magnitudes Energéticas, Medio Ambiente y Salud el ejercicio de las funciones atribuidas al Centro Español de Metrología en el artículo 4, en las áreas de Termodinámica y Medio Ambiente, Electricidad y Energía, Química y Salud, así como la asistencia al director en las funciones propias del mismo.
+
+4\. Corresponde a la Secretaría General, bajo la supervisión del director, las funciones siguientes:
+
+a) La gestión presupuestaria de los ingresos y gastos, la realización de los cobros y pagos, la gestión de la tesorería, la tramitación de los expedientes de contratación, así como la gestión patrimonial del CEM.
+
+b) La gestión de recursos humanos, el régimen interior, asuntos generales y la planificación y ejecución de la política de prevención de riesgos laborales.
+
+c) La gestión y dotación de medios informáticos, además del análisis, diseño, impulso, mantenimiento y gestión de las herramientas informáticas necesarias para el desarrollo de los procesos necesarios propios de las funciones del Centro Español de Metrología.
+
+d) La gestión de los asuntos horizontales que no se correspondan con competencias específicamente atribuidas a otras unidades del Centro Español de Metrología.
+
+5\. Los titulares de los órganos a los que se refiere este artículo serán nombrados y cesados de su cargo de acuerdo con el nivel del puesto, en la forma establecida para los funcionarios de la Administración General del Estado y de acuerdo con la correspondiente relación de puestos de trabajo.
+
+> Se modifica por el art. único.9 del Real Decreto 240/2019, de 5 de abril. [Ref. BOE-A-2019-5817](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5817)
+
+### Artículo 13. Imagen institucional.
+
+La imagen institucional del Centro Español de Metrología se ajustará a lo establecido en la normativa vigente que regula los criterios de imagen institucional y la producción documental y el material impreso de la Administración General del Estado.
+
+## CAPÍTULO IV — Régimen de personal
+
+### Artículo 14. Clases de personal.
+
+1\. Para el cumplimiento de las funciones que tiene encomendadas, el Centro Español de Metrología cuenta con el siguiente personal, de acuerdo con el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, y demás normativa reguladora de los funcionarios públicos y por la normativa laboral:
+
+a) El personal funcionario de los distintos Cuerpos y Escalas de la Administración General del Estado destinados en el Organismo.
+
+b) El personal laboral fijo y temporal contratado por el Centro Español de Metrología o que preste en él sus servicios.
+
+2\. Los funcionarios destinados en el Centro Español de Metrología se regirán por lo dispuesto en texto refundido de la Ley del Estatuto Básico del Empleado Público y demás normativa reguladora de los funcionarios públicos, así como por la normativa común que resulte de aplicación al ejercicio de la función pública.
+
+3\. El personal laboral se regirá por el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre, por el convenio colectivo que resulte de aplicación, por el resto de la normativa laboral aplicable y por los preceptos del texto refundido de la Ley del Estatuto Básico del Empleado Público que así lo dispongan.
+
+> Se modifica por el art. 6.8 Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+### Artículo 15. Personal investigador.
+
+1\. El Centro Español de Metrología podrá, dentro de las disponibilidades presupuestarias, contratar en régimen laboral personal investigador para la realización de programas de investigación, en los términos previstos en la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación.
+
+2\. El personal investigador del Centro Español de Metrología tendrá derecho a participar en los beneficios que obtengan las entidades para las que presta servicios, como consecuencia de la eventual explotación de los resultados de la actividad de investigación, desarrollo o innovación en que haya participado. Dicha participación no tendrá en ningún caso la consideración de retribución o salario para el personal investigador.
+
+3\. El personal investigador del Centro Español de Metrología estará sujeto a los deberes del personal investigador recogidos en el artículo 15 de la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, sin perjuicio de los deberes establecidos por texto refundido de la Ley del Estatuto Básico del Empleado Público aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, así como de los restantes que resulten de aplicación al personal de las Administraciones Públicas.
+
+> Se modifica por el art. único.10 del Real Decreto 240/2019, de 5 de abril. [Ref. BOE-A-2019-5817](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5817)
+
+## CAPÍTULO V — Régimen patrimonial, económico-financiero y de contratación
+
+### Artículo 16. Recursos económicos.
+
+1\. Los bienes y medios económicos del Centro Español de Metrología serán los siguientes:
+
+a) Los bienes y valores que constituyen su patrimonio.
+
+b) Los productos y rentas de dicho patrimonio.
+
+c) Las consignaciones específicas que tuviera asignadas en los Presupuestos Generales del Estado.
+
+d) Las transferencias corrientes o de capital procedentes de las Administraciones o entidades públicas.
+
+e) Los ingresos propios que perciba como contraprestación por las actividades que pueda realizar, en virtud de contratos, convenios o disposiciones legales, para otras entidades, públicas o privadas o personas físicas.
+
+f) Los ingresos recibidos de personas físicas o jurídicas como consecuencia del patrocinio de actividades e instalaciones.
+
+g) Las tasas que recaude en realización de sus cometidos.
+
+h) Las donaciones, herencias y legados y otras aportaciones de entidades públicas o privadas y de particulares.
+
+i) Los demás ingresos de derecho público o privado que esté autorizada a percibir.
+
+j) Cualesquiera otros recursos que pudieran serle atribuidos.
+
+2\. Son ingresos de derecho privado aquellos que el Centro Español de Metrología perciba por la prestación de servicios o la realización de actividades que le son propias en régimen de derecho privado.
+
+> Se modifica por el art. único.11 del Real Decreto 240/2019, de 5 de abril. [Ref. BOE-A-2019-5817](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5817)
+
+### Artículo 17. Régimen patrimonial.
+
+1\. El régimen patrimonial del Centro Español de Metrología será el establecido en la Ley 33/2003, de 3 de noviembre.
+
+2\. Dicho organismo autónomo contará, para el cumplimiento de sus fines, con los bienes y derechos que integren su patrimonio, con aquellos otros que le sean adscritos por la Administración General del Estado, con los que adquiera en el desarrollo de su gestión y con los que, por cualquier título, le sean incorporados por cualquier persona, pública o privada.
+
+### Artículo 18. Régimen económico, financiero y de control.
+
+1\. El régimen presupuestario, económico-financiero y de contabilidad, de intervención y de control financiero del Centro Español de Metrología será el establecido para los organismos autónomos en la Ley 47/2003, de 26 de noviembre, General Presupuestaria y demás disposiciones vigentes en la materia.
+
+2\. Sin perjuicio de las competencias de fiscalización atribuidas al Tribunal de Cuentas, el control interno de la gestión económico-financiera del Organismo corresponde a la Intervención General de la Administración del Estado, y se realizará en las condiciones y en los términos establecidos en la Ley 47/2003, de 26 de noviembre, por la Intervención Delegada en el Organismo, bajo la dependencia orgánica y funcional de la Intervención General de la Administración del Estado.
+
+> Se modifica por el art. 6.9 Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+### Artículo 19. Régimen de contratación.
+
+De acuerdo con lo previsto en el artículo 99 de la Ley 40/2015, de 1 de octubre, el régimen de contratación del organismo autónomo Centro Español de Metrología será el establecido en la legislación aplicable a los contratos celebrados por el sector público.
+
+> Se modifica por el art. 6.10 Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica por el art. único.12 del Real Decreto 240/2019, de 5 de abril. [Ref. BOE-A-2019-5817](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5817)
+
+## CAPÍTULO VI — Invenciones y patentes
+
+### Artículo 20. Invenciones y patentes.
+
+Corresponde al Centro Español de Metrología la titularidad de las invenciones realizadas por su personal como consecuencia del ejercicio de sus funciones. La explotación y cesión de invenciones realizadas en el organismo se regirá por lo establecido en el artículo 20 de la Ley 11/1986, de 20 de marzo, de Patentes de Invención y Modelos de Utilidad, y en el Real Decreto 55/2002, de 18 de enero, sobre explotación y cesión de invenciones realizadas en los entes públicos de investigación.
+
+### Disposición adicional única. Repercusión presupuestaria.
+
+Lo dispuesto en este estatuto no supondrá incremento del gasto público. El funcionamiento de la Presidencia y del Consejo Rector se atenderá con los medios personales y materiales del Centro Español de Metrología.

@@ -1,0 +1,279 @@
+---
+title: "Ley 60/1962, de 24 de diciembre, por la que se regulan los auxilios, salvamentos, remolques, hallazgos y extracciones marítimos"
+identifier: "BOE-A-1962-24365"
+eli: "https://www.boe.es/eli/es/l/1962/12/24/60"
+type: act
+rank: "Ley"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 1962-12-24
+published: 1962-12-27
+in_force_from: 1963-06-27
+last_amended: 2020-02-28
+consolidated: 2026-04-17
+gazette: "Boletín Oficial del Estado núm. 310"
+status: repealed
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1962-24365"
+retrieved: 2026-10-11
+---
+
+# Ley 60/1962, de 24 de diciembre, por la que se regulan los auxilios, salvamentos, remolques, hallazgos y extracciones marítimos
+
+Norma derogada, excepto las disposiciones del título II, que continuarán en vigor en calidad de normas reglamentarias, por la disposición derogatoria única.f) de la Ley 14/2014, de 24 de julio. [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
+
+La conveniencia de unificar las normas relativas a los auxilios, salvamentos, remolques, hallazgos y extracciones marítimos dispersas en disposiciones de distinto rango legal, que resultan insuficientes para las necesidades actuales, aconseja la promulgación de un texto legal orgánico que las regule y modernice.
+
+Con objeto de unificar ciertas reglas en materia de auxilios y salvamentos marítimos, se ha incorporado a la Ley el texto del Convenio de Bruselas de veintitrés de septiembre de mil novecientos diez al que España se ha adherido, pero ampliándolo para incluir la asistencia marítima a aeronaves y la prestada o recibida por buques de guerra o afectos a un servicio público.
+
+Como consecuencia de la incorporación del Convenio de Bruselas se excluye de los hallazgos marítimos a los buques y aeronaves y sus cargamentos, por ser su recuperación un caso de asistencia marítima.
+
+Al mismo tiempo se den normas sobre los remolques en la mar que no constituyen asistencia marítima, supuesto que carecía en nuestra legislación de una regulación específica.
+
+Se regula sistemáticamente la extracción de buques hundidos y sus restos que sólo estaba reglamentada en disposiciones administrativas inspiradas en las necesidades del momento en que se dictaron, pero que ya no responden a las circunstancias presentes, fijando los plazos de prescripción de las cosas hundidas a favor del Estado cuando no sean extraídas por los propietarios, porque en interés de la economía nacional no debe dejarse indefinidamente al arbitrio de los particulares la facultad de extraerlas.
+
+Se conserva el sistema tradicional, recogiendo las Ordenanzas de la Armada, Instrucción de cuatro de junio de mil ochocientos setenta y tres y titulo adicional de la Ley de Enjuiciamiento Militar de Marina, de diez de julio de mil novecientos veinticinco, de atribuir la competencia en estas materias a la Jurisdicción de Marina, sistema avalado por razones de índole práctica, ya que permite disponer de órganos especializados en la técnica náutica, indispensable para apreciar las circunstancias de hecho que concurren en cada caso y al mismo tiempo de un procedimiento rápido y gratuito que facilite a la modesta gente de mar, que preste la asistencia, el resarcimiento de los gastos realizados y el cobro de los premios, sin necesidad de acudir a litigios largos y costosos para el reconocimiento de sus derechos, estimulándose así los salvamentos en beneficio de la economía nacional.
+
+De acuerdo con este criterio de conseguir la mayor rapidez y eficacia se encomienda la instrucción de los expedientes a Juzgados Marítimos Permanentes y su resolución a un Tribunal Marítimo Central asegurándose así la unidad de criterio dentro del amplío arbitrio legal para la fijación de los premios, y como garantía de las partes, se conserva el recurso de alzada ante el Ministro de Marina y el posterior recurso contencioso-administrativo que existía en la legislación anterior.
+
+En su virtud, y de conformidad con la propuesta elaborada por las Cortes Españolas,
+
+DISPONGO:
+
+## TÍTULO I — Objeto de la Ley
+
+> Se deroga por la disposición derogatoria única.f) de la Ley 14/2014, de 24 de julio. [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
+
+### CAPÍTULO I — De los auxilios y salvamentos
+
+> Se deroga por la disposición derogatoria única.f) de la Ley 14/2014, de 24 de julio. [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
+
+#### Artículos uno a catorce.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.f) de la Ley 14/2014, de 24 de julio. [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
+
+### CAPÍTULO II — Del remolque en la mar
+
+> Se deroga por la disposición derogatoria única.f) de la Ley 14/2014, de 24 de julio. [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
+
+#### Artículos quince a dieciocho
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.f) de la Ley 14/2014, de 24 de julio. [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
+
+### CAPÍTULO III — De los hallazgos
+
+> Se deroga por la disposición derogatoria única.f) de la Ley 14/2014, de 24 de julio. [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
+
+#### Artículos diecinueve a veintidós.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.f) de la Ley 14/2014, de 24 de julio. [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
+
+### CAPÍTULO IV — De las extracciones
+
+> Se deroga por la disposición derogatoria única.f) de la Ley 14/2014, de 24 de julio. [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
+
+#### Artículos veintitrés a veintiocho.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.f) de la Ley 14/2014, de 24 de julio. [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
+
+### CAPÍTULO V — De los derechos de propiedad de los efectos salvados o hallados
+
+> Se deroga por la disposición derogatoria única.f) de la Ley 14/2014, de 24 de julio. [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
+
+#### Artículos veintinueve y treinta.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.f) de la Ley 14/2014, de 24 de julio. [Ref. BOE-A-2014-7877](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877).
+
+## TÍTULO II — De la Jurisdicción y del Procedimiento
+
+### CAPÍTULO I — Del Tribunal Marítimo Central
+
+#### Artículo treinta y uno.
+
+Dependiendo del Ministerio de Marina radicará en Madrid el Tribunal Marítimo Central, al que competerá el conocimiento y resolución de cuantas materias le atribuye la presente Ley.
+
+#### Artículo treinta y dos.
+
+En las capitales de los Departamentos Marítimos, Bases Navales y puertos principales en que se estime necesario, existirá un Juzgado Marítimo Permanente a cargo de un Jefe u Oficial del Cuerpo Jurídico de la Armada, que tramitará los expedientes de auxilio, salvamento y remolque y que a tales efectos dependerá del Tribunal Marítimo Central.
+
+No obstante, el Ministro de Marina podrá nombrar un Juez Marítimo Especial para la instrucción de aquellos expedientes que por sus circunstancias le requieran.
+
+#### Artículo treinta y tres.
+
+El Tribunal Marítimo Central estará constituido por un Presidente, cuatro Vocales y un Secretario.
+
+Será Presidente un Almirante, designado por Decreto, a propuesta del Ministro de Marina.
+
+Los vocales serán: Un Capitán de Navío, dos Coroneles Auditores de la Armada y un funcionario de la Subsecretaría de la Marina Mercante nombrado por el Ministro de Marina; el último, a propuesta de la Subsecretaría de la Marina Mercante; un Coronel del Arma de Aviación y un Coronel Auditor del Aire, designados por el Ministerio de Aire, que actuarán cuando el auxilio o salvamento afecte a aeronaves.
+
+Actuará como Secretario Relator del Tribunal un Teniente Coronel Auditor de la Armada designado por el ministro de Marina.
+
+El Ministro de Marina designará también cuando lo requiera el funcionamiento del Tribunal, los suplentes que sean necesarios entre personas que reúnan iguales condiciones que los titulares.
+
+#### Artículo treinta y cuatro.
+
+La jurisdicción de este Tribunal se extenderá a todo el territorio nacional, y estará capacitado para plantear y sostener las cuestiones de competencia con las Autoridades y Tribunales de otras jurisdicciones.
+
+Sus actuaciones serán gratuitas al igual que las de los Juzgados Marítimos Permanentes.
+
+### CAPÍTULO II — De los expedientes de auxilio, salvamento y remolque
+
+#### Artículo treinta y cinco.
+
+Los Capitanes o Patrones de los buques que hayan intervenido en auxilios, salvamentos o remolques están obligados a dar el oportuno parte a la Autoridad local de Marina en el término de veinticuatro horas de su llegada a puerto.
+
+Cuando la Autoridad local de Marina tenga noticias de la existencia de un auxilio o salvamento, lo pondrá inmediatamente, por el procedimiento más rápido, en conocimiento del Juzgado Marítimo Permanente a través de la Autoridad jurisdiccional.
+
+#### Artículo treinta y seis.
+
+Si se tratase de auxilio o salvamento entre buques españoles, y el puerto de arribada fuere extranjero, el Cónsul de España practicará las diligencias preliminares necesarias para la comprobación de los hechos y las elevará con urgencia al Ministro de Marina, quien las remitirá al Departamento Marítimo o Base Naval donde radique el Juzgado Marítimo Permanente que debe tramitar el expediente, en atención a la mayor facilidad para su instrucción.
+
+#### Artículo treinta y siete.
+
+El Juzgado Marítimo Permanente de Auxilios y Salvamento del Departamento o Base Naval tramitará el expediente dirigiendo las actuaciones a la comprobación de los hechos y circunstancias que puedan contribuir a la fijación de la remuneración, conservación de las cosas y garantía de los derechos de las partes.
+
+#### Artículo treinta y ocho.
+
+El Juez publicará inmediatamente en el «Boletín Oficial del Estado» y, si lo considera oportuno por la importancia del expediente, en un diario de la provincia edictos en los que dará cuenta de la iniciación del procedimiento, citando a los que puedan considerarse interesados en el mismo para que en el plazo de treinta días naturales se personen en el expediente aportando los comprobantes en que fundamenten su derecho.
+
+En el caso de que, a juicio del juez, el valor de lo hallado no exceda de la cantidad de diez mil pesetas, se publicarán únicamente les edictos en el tablón de anuncios del Juzgado y de la Comandancia o Ayudantía de Marina correspondientes.
+
+#### Artículo treinta y nueve.
+
+Lo salvado se valorará de conformidad con las partes, y, de no conseguirse ésta, el juez acordará su tasación mediante peritaje, adoptando sin dilación, cuando lo estime precise, las medidas sobre reconocimiento y garantías que considere oportunas para que aquél pueda realizarse sin retrasar la salida del barco.
+
+#### Artículo cuarenta.
+
+Los propietarios podrán disponer de los efectos salvados antes de la terminación del expediente, constituyendo fianza bastante a criterio del Juez para garantizar el pago de la remuneración debida por el salvamento.
+
+#### Artículo cuarenta y uno.
+
+A la vista de les comprobantes aportados y del valor de lo salvado, formará el Instructor una cuenta general de gastos, con lo que terminará la fase de instrucción del expediente.
+
+#### Artículo cuarenta y dos.
+
+Terminada la instrucción del expediente, el juez dará vista del mismo a los interesados que se hubieran personado, por quince días hábiles, para que puedan formular alegaciones y proponer las pruebas que consideren oportunas, cuya pertinencia será declarada por el Juez.
+
+Si por causa de fuerza mayor el interesado, activa o pasivamente en el acto de auxilio, salvamento e remolque, no hubiera podido personarse en el expediente, se le oirá dentro del plazo de quince días a que este artículo se refiere.
+
+#### Artículo cuarenta y tres.
+
+Terminado el plazo previste en el artículo anterior, el juez convocará una reunión de los interesados en la que, bajo su presidencia, tratará de que lleguen a un acuerdo, levantándose acta de la misma. Si se llegara a un acuerdo entre todos los interesados presentes, el Juez procederá a su ejecución.
+
+En otro caso, el Juez Instructor elevará el expediente con el acta de la reunión y las alegaciones de los interesados al Tribunal Marítimo Central.
+
+#### Artículo cuarenta y cuatro.
+
+Si el Tribunal, estimase que ha habido defectos procesales, o que no se han aportado las prendas necesarias, repondrá el expediente al estado de instrucción para que se subsane o se complete.
+
+En otro caso, dictará la resolución que proceda.
+
+#### Artículo cuarenta y cinco.
+
+Los recursos contra las decisiones del Juez Instructor durante el período de instrucción o ejecución serán elevados al Tribunal Marítimo Central para su resolución dentro de los plazos fijados por la Ley de Procedimiento Administrativo, acompañados del informe del Juez.
+
+#### Artículo cuarenta y seis.
+
+El expediente deberá ser concluido en el plazo señalado en la Ley del Procedimiento Administrativo. La resolución que le ponga fin será notificada a los interesados, advirtiéndoles de su derecho a recurrir de la misma en el plazo de quince días ante el Ministro de Marina. El recurso se interpondrá ante el Juzgado Marítimo Permanente, quien lo unirá al expediente, que elevará al Ministro de Marina para su resolución.
+
+Cuando el expediente afecte o se relacione con aeronaves, sus efectos o restes, será oído el Ministro del Aire y, en caso de discrepancia de criterios, el recurso será resuelto por el Consejo de Ministros.
+
+### CAPÍTULO III — De los expedientes de hallazgo
+
+#### Artículo cuarenta y siete.
+
+La Autoridad local de Marina instruirá para cada caso de hallazgo un expediente que iniciará con el parte dado por el hallador dentro de las veinticuatro horas del hallazgo, y adoptará las medidas oportunas para el depósito de los efectos hallados, dando cuenta inmediata a la Autoridad Jurisdiccional correspondiente.
+
+#### Artículo cuarenta y ocho.
+
+Si el valor de lo hallado, según tasación oficial, es inferior a 150.000 pesetas, se publicará el hallazgo en el tablón de anuncios, y si fuera superior a dicha suma se publicarán edictos en el "Boletín Oficial del Estado", dando cuenta del hallazgo, insertándose en un diario de la provincia, si el Juez lo considera oportuno por la importancia del expediente.
+
+> Se modifica por la disposición adicional 9.1 de la Ley 37/1988, de 28 de diciembre. [Ref. BOE-A-1988-29563](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-29563).
+
+#### Artículo cuarenta y nueve.
+
+En el caso de comparecer el propietario y acreditar su derecho, se le entregarán los efectos hallados, previo abono del tercio del valor de tasación que corresponda al hallador y de los gastos ocasionados.
+
+#### Artículo cincuenta.
+
+Si, transcurrido el plazo de seis meses, no compareciere el propietario y el valor de lo hallado fuera inferior a 150.000 pesetas, se pondrá a disposición del hallador, previo el pago de los gastos ocasionados.
+
+Si el valor excediese de las 150.000 pesetas, el Juez elevará el expediente a la Autoridad jurisdiccional, que decidirá la venta en pública subasta de los efectos hallados.
+
+La Autoridad jurisdiccional aprobará la adjudicación definitiva de la subasta y remitirá el expediente al Instructor para liquidación.
+
+El Juez terminará el expediente con una liquidación en la que se acreditará el abono de los derechos al hallador, conforme a lo dispuesto en el segundo párrafo del artículo 21, el de los gastos ocasionados y el ingreso del resto en el Tesoro.
+
+> Se modifica por la disposición adicional 9.1 de la Ley 37/1988, de 28 de diciembre. [Ref. BOE-A-1988-29563](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-29563).
+
+### CAPÍTULO IV — De los expedientes de extracción
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 371/2020, de 18 de febrero. [Ref. BOE-A-2020-2837](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2837)
+
+#### Artículos cincuenta y uno a sesenta y dos.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a) del Real Decreto 371/2020, de 18 de febrero. [Ref. BOE-A-2020-2837](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2837)
+
+#### Disposición transitoria primera.
+
+En los casos de buques o cosas hundidas con anterioridad a la promulgación de la presente Ley, los plazos de prescripción del derecho de propiedad a que se refiere el Capítulo V, se contarán a partir de dicha promulgación.
+
+#### Disposición transitoria segunda.
+
+Los auxilios, salvamentos, remolques o hallazgos ocurridos con anterioridad a la vigencia de esta Ley seguirán regulándose por las normas hasta entonces en vigor.
+
+#### Disposición transitoria tercera.
+
+Las concesiones para extracción o permisos de extracción no caducados al entrar en vigor la presente Ley, continuarán regulándose por las normas vigentes con anterioridad a la misma hasta finalizar el período de concesión.
+
+#### Disposición final primera.
+
+El derecho de propiedad sobre las cosas objeto de esta Ley será declarado, en los casos de desacuerdo de los interesados, por los tribunales de la jurisdicción ordinaria, que conocerán asimismo de las cuestiones que dé lugar el ejercicio del derecho de repetición a que se refiere el artículo segundo de esta Ley.
+
+#### Disposición final segunda.
+
+Los interesados en los expedientes regulados por esta Ley podrán hacer por sí la defensa de sus derechos, mas siempre que no la realicen personalmente deberán valerse de letrado en ejercicio.
+
+Cuando se trate de personas jurídicas, se entenderá que el interesado se defiende personalmente si lo efectúan por medio de su legal representante.
+
+#### Disposición final tercera.
+
+Las resoluciones firmes que se dicten por el Tribunal Marítimo Central o por el Ministro de Marina se publicarán íntegramente en el «Diario Oficial de la Marina» y las dictadas por el Consejo de Ministros serán publicadas en la misma forma en el «Boletín Oficial del Estado».
+
+Contra las resoluciones dictadas por el Ministro de Marina o, en su caso, por el Consejo de Ministros, que pongan fin a los expedientes a que se refiere esta Ley, podrá recurrirse ante la jurisdicción contencioso-administrativa.
+
+#### Disposición final cuarta.
+
+Ningún precepto de la presente Ley afectará a las atribuciones de las Autoridades aeronáuticas establecidas por la legislación vigente en orden a la investigación de accidentes de aviación.
+
+#### Disposición final quinta.
+
+La presente Ley empezará a regir a los seis meses de su publicación en el «Boletín Oficial del Estado».
+
+#### Disposición adicional.
+
+Queda facultado el Ministro de Marina para dictar las disposiciones necesarias que complementen y desarrollen esta Ley, habilitándose por el Ministerio de Hacienda los créditos necesarios para atender a los gastos que pueda significar la aplicación de la misma.
+
+Se autoriza al Gobierno a la actualización periódica de las cuantías a que se refieren los artículos 21, 48 y 50.
+
+> Se añade un párrafo segundo por la disposición adicional 9.2 de la Ley 37/1988, de 28 de diciembre. [Ref. BOE-A-1988-29563](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-29563).
+
+#### Disposición derogatoria.
+
+Queda derogado el título adicional a la Ley de Enjuiciamiento Militar de Marina, aprobado por Decreto-ley de 10 de julio de 1925.
+
+Dado en el Palacio de El Pardo a veinticuatro de diciembre de mil novecientos sesenta y dos.
+
+FRANCISCO FRANCO

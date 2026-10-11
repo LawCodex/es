@@ -1,0 +1,645 @@
+---
+title: "Orden de 4 de junio de 1998 por la que se regulan determinados aspectos de la gestión recaudatoria de las tasas que constituyen derechos de la Hacienda Pública"
+identifier: "BOE-A-1998-13072"
+eli: "https://www.boe.es/eli/es/o/1998/06/04/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1998-06-04
+published: 1998-06-05
+in_force_from: 1998-07-21
+last_amended: 2025-03-14
+consolidated: 2026-09-07
+gazette: "Boletín Oficial del Estado núm. 134"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-13072"
+retrieved: 2026-10-11
+---
+
+# Orden de 4 de junio de 1998 por la que se regulan determinados aspectos de la gestión recaudatoria de las tasas que constituyen derechos de la Hacienda Pública
+
+Téngase en cuenta que todas las referencias realizadas a las «entidades de crédito» en la presente Orden, deberán considerarse efectuadas a los «proveedores de servicios de pago» contemplados en los puntos a), b) y c) del artículo 5 del Real Decreto-ley 19/2018, de 23 de noviembre, de servicios de pago y otras medidas urgentes en materia financiera, así como al Banco de España, en su condición de entidad colaboradora en la gestión recaudatoria estatal, según establece la disposición adicional única de la Orden HAC/241/2025, de 10 de marzo. [Ref. BOE-A-2025-5048](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5048)
+
+Incluye la corrección de errores publicada en BOE núm. 152, de 26 de junio de 1998. [Ref. BOE-A-1998-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15135).
+
+Las recientes medidas legislativas tendentes a la revisión y potenciación del sistema de tasas, deben ir necesariamente acompañadas de una modernización de los procesos de gestión, sustituyendo la diversidad de circuitos existentes para canalizar los ingresos, por un procedimiento que permita a los centros gestores desarrollar su función con arreglo a criterios de generalidad y eficacia al mismo tiempo que posibilite el puntual seguimiento y control de estos ingresos tributarios.
+
+El propósito de la presente Orden es hacer extensivo a la gestión recaudatoria de las tasas que constituyen recursos de la Hacienda Pública el procedimiento de recaudación a través de las entidades que prestan el servicio de colaboración en la gestión recaudatoria que tiene encomendada la Agencia Estatal de Administración Tributaria, lo que introduce una serie de mejoras, de las que pueden destacarse:
+
+Facilitar a los contribuyentes el cumplimiento de sus obligaciones fiscales.
+
+Normalización de los documentos de ingreso a utilizar para el abono de las tasas.
+
+Unificación y normalización de la diversidad de circuitos existentes hasta la fecha para canalizar los ingresos, lo que supone eliminar demoras en las transferencias de fondos al Banco de España, proporcionando a la vez unos adecuados instrumentos de seguimiento y control de la recaudación.
+
+La presente Orden constituye por tanto una ampliación de la Orden ministerial de 15 de junio de 1995 por la que se desarrolla parcialmente el Reglamento General de Recaudación en la redacción dada al mismo por el Real Decreto 448/1995, de 24 de marzo, en relación con las entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria.
+
+Atendiendo a las peculiaridades de determinadas tasas y a la personalidad jurídica diferenciada de los organismos autónomos que las gestionan, se contempla la posibilidad de recaudar dichas tasas a través de cuentas restringidas de recaudación abiertas en entidades de depósito, arbitrándose no obstante los mecanismos que permitan un adecuado seguimiento de la gestión realizada.
+
+Por último, se establece el cauce para efectuar las devoluciones de ingresos indebidos de tasas que constituyen recursos del presupuesto del Estado, realizando la Agencia Estatal de Administración Tributaria la ejecución material del pago conforme a lo establecido en la Orden del Ministerio de Economía y Hacienda de 27 de diciembre de 1991, modificada por la Orden de 27 de julio de 1994.
+
+En el nuevo procedimiento, la Agencia Estatal de Administración Tributaria asume la dirección de la gestión recaudatoria de las tasas, como ingresos públicos de naturaleza tributaria, de acuerdo con lo previsto en los artículos 4 y 7 del Reglamento General de Recaudación, en la redacción dada al mismo por el Real Decreto 448/1995, actuando como la organización responsable, en nombre y por cuenta del Estado, de la aplicación efectiva del sistema tributario estatal y el aduanero, según la configura el artículo 103.uno.2 de la Ley 31/1990, de 27 de diciembre, en la redacción dada al mismo por la disposición adicional 17 de la Ley 18/1991.
+
+En virtud de lo expuesto, dispongo:
+
+## Disposiciones generales
+
+### 1. Ámbito de aplicación
+
+Lo dispuesto en la presente Orden se aplicará:
+
+a) A las tasas cuya gestión corresponda a órganos de la Administración General del Estado, y en particular a las que se relacionan en el anexo I.A).
+
+b) A las tasas gestionadas por organismos autónomos dependientes de la Administración General del Estado, cuando constituyan recursos del presupuesto del Estado, y en particular a las que se relacionan en el anexo I.B).
+
+c) A las tasas gestionadas por organismos autónomos dependientes de la Administración General del Estado, cuando constituyan recursos de dichos organismos, y en particular a las que se relacionan en el anexo I.C)
+
+### 2. Órganos competentes
+
+1\. Órganos de dirección.
+
+De conformidad con lo establecido en el artículo 7 del Reglamento General de Recaudación, aprobado por Real Decreto 1684/1990, de 20 de diciembre (“Boletín Oficial del Estado” de 3 de enero de 1991, corrección de errores en “Boletín Oficial del Estado” de 1 de febrero), en la redacción dada al mismo por el Real Decreto 448/1995, de 24 de marzo, la gestión recaudatoria de las tasas será dirigida por la Agencia Estatal de Administración Tributaria (en lo sucesivo Agencia Tributaria), bajo la autoridad del Ministro de Hacienda, a través del Departamento de Recaudación.
+
+La dirección de la gestión recaudatoria de las tasas comprende la definición, control y seguimiento del procedimiento recaudatorio, tanto en lo que afecta a los ingresos propiamente dichos como a la ejecución de la devolución en los casos de devolución de ingresos indebidos que de aquéllos puedan derivarse.
+
+2\. Órganos de gestión.
+
+Sin perjuicio de lo dispuesto en el apartado 2.1 anterior, compete a cada uno de los Departamentos ministeriales y organismos autónomos la recaudación en periodo voluntario de aquellas tasas cuya gestión les esté atribuida por las normas específicas reguladoras de las mismas.
+
+La recaudación por el procedimiento administrativo de apremio de las tasas gestionadas en periodo voluntario por los órganos de la Administración General del Estado y sus organismos autónomos, se llevará a cabo por la Agencia Tributaria, de acuerdo con lo previsto en el artículo 4 del Reglamento General de Recaudación.
+
+3\. Órganos de coordinación.
+
+Las comunicaciones que se deriven de los trámites previstos en esta Orden se establecerán entre el órgano que al efecto designe la Subsecretaría de cada Departamento o el titular de cada organismo autónomo, en su caso, y el Departamento de Recaudación de la Agencia Tributaria.
+
+> Se modifica el apartado 1 por el apartado único.I de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+### 3. Medios de pago
+
+1\. El pago de las tasas habrá de realizarse en efectivo o mediante el empleo de efectos timbrados, según dispongan las normas que las regulen.
+
+2\. A falta de disposición, el pago habrá de realizarse en efectivo.
+
+3\. Sólo podrá admitirse el pago en especie cuando así se disponga por Ley.
+
+### 4. Documentos de ingreso
+
+1\. Se aprueban los modelos en euros de los documentos de ingreso que figuran en los anexos II.A) y B) y anexos III.A) y B), a los que deberán ajustarse las tasas liquidadas por la Administración, o autoliquidadas por el sujeto pasivo, a partir del 1 de enero de 2002.
+
+El modelo que figura en el anexo II.A), modelo 990, de la presente Orden se utilizará para las tasas liquidadas por órganos de la Administración General del Estado, organismos autónomos dependientes de la misma y órganos constitucionales cuando constituyan recursos del Presupuesto del Estado.
+
+El modelo que figura en el anexo II.B), modelo 991, de la presente Orden se utilizará para las tasas liquidadas por organismos autónomos dependientes de la Administración General del Estado, cuando constituyan recursos de dichos organismos.
+
+El modelo que figura en el anexo III.A), modelo 790, de la presente Orden se utilizará para las tasas autoliquidadas por el sujeto pasivo, gestionadas por órganos de la Administración General del Estado, organismos autónomos dependientes de la misma u órganos constitucionales cuando constituyan recursos del Presupuesto del Estado.
+
+El modelo que figura en el anexo III.B), modelo 791, de la presente Orden se utilizará para las tasas autoliquidadas por el sujeto pasivo, gestionadas por organismos autónomos dependientes de la Administración General del Estado, cuando constituyan recursos de dichos organismos.
+
+2\. En el anverso de los modelos deberán estar preimpresos los siguientes datos:
+
+Ministerio.
+
+Centro Gestor.
+
+Denominación de la tasa y su código.
+
+En el cuerpo central de los modelos 790 y 791, cada órgano gestor hará figurar cuantos conceptos sean necesarios para que el sujeto pasivo pueda efectuar la autoliquidación de la tasa correspondiente.
+
+En el reverso de todos los modelos se indicarán los requisitos exigidos por las normas que sean de aplicación, con inclusión, en su caso, de los recursos procedentes contra la liquidación de las tasas, así como cualesquiera instrucciones que se estimen precisas para facilitar su utilización.
+
+Los modelos constarán al menos de tres ejemplares: Ejemplar para el interesado, ejemplar para la Administración y ejemplar para la entidad colaboradora. En el caso de autoliquidaciones, el ejemplar “para la Administración”, una vez validado, deberá ser presentado por el sujeto pasivo ante el órgano gestor.
+
+El número de justificante que debe figurar en los documentos de ingreso, modelos 990, 991, 790 y 791, se confeccionará en cada caso de acuerdo con el diseño que se determina en el anexo IV.
+
+Quedan exceptuadas de la obligación de ajustarse a los documentos de ingreso que se regulan en este apartado las tasas que se recauden según lo previsto en el apartado 12 de esta Orden.
+
+> Se modifica por el apartado único.II de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+> Redactado el último párrafo conforme a la corrección de errores publicada en BOE núm. 152, de 26 de junio de 1998. [Ref. BOE-A-1998-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15135).
+
+## Ingreso en período voluntario
+
+### 5. Procedimientos
+
+Los ingresos de tasas en periodo voluntario se realizarán a través de las entidades de depósito que presten el servicio de colaboración (en adelante entidades colaboradoras) en la gestión recaudatoria, salvo lo dispuesto en los casos siguientes:
+
+a) Las tasas que se recauden en el extranjero se ingresarán en cuentas restringidas de recaudación abiertas en entidades de depósito para este fin.
+
+b) Se podrá autorizar la apertura de cuentas restringidas en entidades de depósito para la recaudación de las tasas que constituyan recursos de los organismos autónomos.
+
+c) Las tasas que se recauden mediante el empleo de efectos timbrados cuando así lo dispongan sus normas reguladoras.
+
+### 6. Ingreso a través de entidades colaboradoras en la recaudación
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.d) de la Orden EHA/2027/2007, de 28 de junio. [Ref. BOE-A-2007-13223](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13223).
+
+### 7. Ingreso en el órgano administrativo gestor.
+
+Cuando lo aconsejen razones de economía y eficacia, y previa solicitud del órgano coordinador del Departamento ministerial u organismo autónomo, la Agencia Estatal de Administración Tributaria podrá autorizar que los interesados realicen el pago en cajas situadas en las dependencias del órgano administrativo gestor, incluso en supuestos diferentes de los ya recogidos en el apartado 5 de esta Orden. En todo caso, se entregará al interesado un justificante del pago realizado que contendrá, como mínimo, los datos a que se refiere el artículo 41.3 del Reglamento General de Recaudación.
+
+Esta modalidad será compatible, en todo caso, con la de ingreso por el obligado al pago en la cuenta restringida de las Entidades colaboradoras.
+
+El ingreso en la cuenta restringida de la Entidad colaboradora se realizará diariamente o en el plazo que, siguiendo criterios de buena gestión, establezca la Agencia Estatal de Administración Tributaria. Del importe total recaudado por cada tasa, el órgano administrativo gestor efectuará un único ingreso en la cuenta restringida de recaudación de tasas que corresponda, según lo previsto en el artículo 5.2 de la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de junio, por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria.
+
+A estos efectos, se realizarán tantos ingresos diarios como códigos de tasas, utilizando los ejemplares que sean necesarios de los modelos que figuran como anexo III, A) y B), en los que se deberá hacer constar la denominación del órgano administrativo gestor y su NIF.
+
+En el cuerpo central del modelo se indicará el número de ingresos habidos en el día y su cantidad global, que coincidirá con el importe a ingresar.
+
+Por la Agencia Estatal de Administración Tributaria se fijarán los requisitos mínimos que, respecto a justificantes y resguardos de los mismos, sean exigibles a los órganos administrativos gestores».
+
+> Se modifica por el art. único.1 de la Orden HAP/2046/2015, de 1 de octubre. [Ref. BOE-A-2015-10767](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10767).
+
+### 8. Ingreso de las entidades colaboradoras en el Banco de España
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.d) de la Orden EHA/2027/2007, de 28 de junio. [Ref. BOE-A-2007-13223](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13223).
+
+### 9. Aportación de información relativa a los ingresos por las entidades colaboradoras
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.d) de la Orden EHA/2027/2007, de 28 de junio. [Ref. BOE-A-2007-13223](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13223).
+
+### 10. Transferencias a las cuentas de los organismos autónomos
+
+El primer día hábil siguiente a la finalización del plazo establecido en el artículo 9 de la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de junio, por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria, la Secretaría General del Tesoro y Financiación Internacional, ordenará el pago a la cuenta que al efecto señale la Agencia Tributaria en el Banco de España, por el importe total de las cantidades recaudadas en concepto de tasas que constituyan recursos de los Presupuestos de los organismos autónomos.
+
+Efectuada la transferencia indicada en el párrafo anterior, y en el plazo de los seis días hábiles siguientes, el Servicio de Gestión Económica de la Agencia Estatal de Administración Tributaria, a propuesta del Departamento de Recaudación, ordenará el pago del importe correspondiente a cada organismo autónomo por el total de los ingresos obtenidos en concepto de tasas que constituyen recursos de su presupuesto.
+
+El pago a cada organismo autónomo se efectuará mediante transferencia a su cuenta en el Banco de España.
+
+> Se modifica por la disposición final 2.1 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+### 11. Distribución de la información del detalle de los ingresos a los Departamentos ministeriales y organismos autónomos
+
+Una vez realizada la validación de la información aportada por las entidades colaboradoras al Departamento de Informática Tributaria de la Agencia Tributaria, se procederá por el Departamento de Recaudación a remitir a los Departamentos ministeriales y organismos autónomos el detalle de los ingresos correspondientes a cada quincena.
+
+Hasta tanto puedan establecerse las necesarias conexiones informáticas entre los Departamentos ministeriales y organismos autónomos y la propia Agencia Tributaria, la transmisión de esta información se realizará en soporte informático, cuyo diseño es el que figura en el anexo VIII.
+
+### 12. Ingreso en cuentas restringidas de recaudación abiertas en entidades de depósito
+
+1\. Tasas de organismos autónomos.
+
+El Director del Departamento de Recaudación de la Agencia Tributaria autorizará el ingreso de tasas que constituyan recursos de los organismos autónomos a través de cuentas restringidas abiertas en entidades de depósito, cuya apertura se efectuará conforme a lo previsto en el aparta do 13 de esta Orden. La autorización se otorgará a solicitud, motivada y previa, del organismo interesado en la aplicación de este procedimiento de ingreso. Se entenderá otorgada dicha autorización por silencio positivo transcurridos veinte días desde la presentación de la misma ante el Departamento de Recaudación de la Agencia Tributaria.
+
+En los primeros quince días hábiles de cada mes, los organismos autónomos remitirán al Departamento de Recaudación de la Agencia Tributaria relación comprensiva del importe líquido total recaudado por cada tasa a través de estas cuentas restringidas en el mes inmediato anterior, según el detalle que, en cada caso, determine el citado Departamento.
+
+2\. Tasas recaudadas en el extranjero:
+
+2.1 Cuando se trate de tasas que se recauden en el extranjero, los servicios en el exterior que actúen como órganos de gestión realizarán, en los diez primeros días de cada mes, una transferencia bancaria por el importe total recaudado en el mes inmediato anterior, desde cualquier entidad financiera a la cuenta restringida específica abierta para este fin por cada Ministerio u organismo autónomo.
+
+Si el Departamento ministerial u organismo autónomo careciera de servicios de recaudación de tasas en el exterior, el obligado al pago podrá realizar el ingreso mediante transferencia bancaria directa a la cuenta restringida antes citada.
+
+A los efectos previstos en los dos párrafos anteriores, el Departamento de Recaudación de la Agencia Tributaria autorizará la apertura y cancelación de las cuentas restringidas que propongan los distintos órganos gestores, de acuerdo con lo establecido en el apartado 13 de esta Orden.
+
+Dentro de los primeros quince días hábiles de cada mes, por los órganos de coordinación previstos en el apartado 2.3 de la presente Orden, se remitirá al Departamento de Recaudación de la Agencia Tributaria relación comprensiva del importe total recaudado en el mes inmediato anterior por cada tasa que se ingrese a través de estas cuentas restringidas.
+
+2.2 Lo dispuesto en el apartado anterior no será de aplicación para aquellos servicios en el exterior que se acojan a lo previsto en el artículo 80 del texto refundido de la Ley General Presupuestaria. En estos casos, cada uno de los Departamentos ministeriales de los que dependan los servicios deberán remitir al Departamento de Recaudación de la Agencia Tributaria, dentro de los primeros quince días de los meses de junio, septiembre, diciembre y marzo, resumen estadístico, clasificado por tasas y representaciones diplomáticas, del montante total de ingresos habidos en cada uno de los trimestres naturales del año, y de los ingresos efectivos realizados en el Tesoro Público.
+
+3\. A los efectos de lo dispuesto en este apartado, se entiende por cuenta restringida la cuenta corriente sin retribución y sin devengo de comisión alguna en la que solo se pueden efectuar anotaciones en concepto de abonos y una única anotación por adeudo cada quincena para proceder a ingresar el saldo de la misma en la cuenta del Tesoro Público en el Banco de España.
+
+> Se añade el apartado 3 por la disposición final 2.2 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+### 13. Apertura y cancelación de cuentas restringidas de recaudación en entidades de crédito.
+
+1\. Apertura de cuentas. La propuesta de apertura de cuenta deberá especificar:
+
+a) Código identificativo y denominación de las tasas a ingresar a través de la cuenta solicitada.
+
+b) Denominación del centro o centros que tengan a su cargo la gestión directa de cada tasa.
+
+c) Entidad de crédito en que se propone la apertura de la cuenta.
+
+d) El código IBAN de la cuenta o cuentas que han de ser canceladas como consecuencia de la nueva autorización.
+
+La autorización otorgada por el titular del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria, que fijará las condiciones de utilización de dicha cuenta, será remitida al órgano solicitante, dándose traslado de la misma a la entidad de depósito.
+
+Una vez que sea efectiva tal apertura, el órgano titular de la cuenta comunicará inmediatamente al el titular del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria los datos identificativos siguientes:
+
+a) Código IBAN de la cuenta.
+
+b) NIF del titular (Ministerio u organismo autónomo).
+
+La entidad de crédito, una vez recibida la autorización, procederá a la apertura de la cuenta bajo la rúbrica de "Tesoro Público. Ministerio de ...................../Organismo Autónomo ..................................... Cuenta restringida para la recaudación de tasas".
+
+Estas cuentas serán identificadas, en todo caso, mediante código IBAN:
+
+Asimismo, se asignará a cada cuenta el NIF del Ministerio u organismo autónomo titular.
+
+2\. Cancelación de cuentas. Cuando se compruebe que no se cumplen las condiciones y requisitos previstos en el funcionamiento de las cuentas restringidas autorizadas, o cuando no subsistan las razones que motivaron su apertura, el Departamento de Recaudación de la Agencia Estatal de Administración Tributaria acordará la cancelación de las mismas por propia iniciativa o a propuesta del titular de la cuenta.
+
+En el caso de que la iniciativa parta del órgano titular, éste dirigirá a dicho Departamento una propuesta de cancelación en la que se harán constar los siguientes datos:
+
+a) Código IBAN y denominación de la cuenta restringida a cancelar.
+
+b) Razón social de la entidad de crédito en la que se encuentre abierta la cuenta a cancelar.
+
+c) Código de las tasas recaudadas a través de dicha cuenta.
+
+d) Centros gestores que tengan a su cargo la gestión directa de las tasas anteriormente aludidas.
+
+Acordada la cancelación por el Departamento de Recaudación de la Agencia Estatal de Administración Tributaria, será notificada al órgano titular y a la propia entidad de crédito.
+
+> Se modifica por el art. único.2 de la Orden HAP/2046/2015, de 1 de octubre. [Ref. BOE-A-2015-10767](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10767).
+
+### 14. Ingreso de tasas mediante el empleo de efectos timbrados
+
+Para aquellas tasas que se recauden mediante el empleo de efectos timbrados y a fin de que pueda realizarse el oportuno seguimiento y control estadístico de estos ingresos, los Departamentos ministeriales, a través del órgano de coordinación previsto en el apartado 2.3 de la presente Orden, remitirán al Departamento de Recaudación de la Agencia Tributaria certificación, ajustada al modelo del anexo IX, del importe recaudado en sus distintas dependencias durante el mes inmediato anterior.
+
+Esta información deberá remitirse dentro de la segunda quincena de cada mes natural.
+
+Una vez recibidas estas certificaciones, el Departamento de Recaudación de la Agencia Tributaria comunicará a la Intervención Delegada en la Dirección General del Tesoro y Política Financiera el importe total recaudado por cada tasa y período, a fin de que se efectúen las oportunas operaciones de formalización para su aplicación al correspondiente concepto de Tasas.
+
+Los centros gestores conservarán los justificantes de los ingresos efectuados mediante el empleo de efectos timbrados.
+
+## Devolución de ingresos indebidos de tasas
+
+### 15. Devolución de ingresos de tasas gestionadas por departamentos ministeriales y organismos autónomos contemplados en las letras a) y b) de la disposición general 1 de la presente orden y por órganos constitucionales, cuando su recaudación corresponda en su totalidad a presupuesto del Estado.
+
+15.1 El procedimiento para la realización de devoluciones de ingresos de tasas cuando su recaudación corresponde en su totalidad a presupuesto del Estado, se regirá:
+
+– Por lo establecido en la normativa reguladora del procedimiento para la devolución de ingresos indebidos contenida en la Ley 58/2003, de 17 de diciembre, General Tributaria y en sus reglamentos de desarrollo.
+
+– Por lo dispuesto en cualquier otra normativa tributaria de desarrollo de las anteriores.
+
+– Por aquellas normas que, en relación con las competencias para la ejecución del pago de las devoluciones de tasas aplicadas a presupuesto del Estado, se establezcan por la Dirección General de la Agencia Tributaria o por el titular de su Departamento de Recaudación.
+
+15.2 Cuando la recaudación corresponda en su totalidad al presupuesto del Estado, corresponderá a los órganos gestores de tasas, departamentos ministeriales y organismos autónomos contemplados en las letras a) y b) de la disposición general 1 de la presente orden, así como a los órganos constitucionales:
+
+a) La tramitación de las solicitudes de devolución de ingresos indebidos formuladas por los obligados tributarios o sus representantes, correspondientes a tasas incluidas en el ámbito de aplicación de esta orden.
+
+b) Dictar el acuerdo o resolución en el que se reconozca el derecho a la devolución, o dictar el acuerdo en ejecución del cumplimiento de la resolución de un recurso o reclamación económico-administrativa, de sentencia u otra resolución judicial o de la resolución de los procedimientos especiales de revisión previstos en el título II del Reglamento General de desarrollo de la Ley 58/2003, de 17 de diciembre, General Tributaria, en materia de revisión en vía administrativa, aprobado por Real Decreto 520/2005, de 13 de mayo (en adelante, Reglamento de Revisión).
+
+Las resoluciones o acuerdos no deberán ser dictados:
+
+– Sin que el órgano gestor de la tasa que tramita la solicitud de devolución confirme previamente que el ingreso que dé derecho a la misma, figura en los ficheros de información de los ingresos de tasas efectuados a través de entidades colaboradoras en la gestión recaudatoria estatal (efectuados con los modelos 790 y 990 recogidos en los anexos III. A) y II.A) de esta orden), que se ponen quincenalmente a disposición de los órganos gestores por la Agencia Tributaria.
+
+– Sin que conste la presentación, anterior o al tiempo de formularse la solicitud de devolución por el interesado o su representante, del justificante del ingreso cuya devolución se solicita. Dicho justificante deberá contener como mínimo los datos establecidos en el artículo 3 de la Orden EHA 2027/2007, de 28 de junio. En caso contrario deberá aportarse necesariamente el documento de la autoliquidación (modelo 790) cuya devolución de ingresos indebidos se solicite.
+
+c) Notificar en los términos previstos en el artículo 109 y siguientes de la Ley General Tributaria, los acuerdos y resoluciones señalados en la letra b) anterior. En todo caso, las notificaciones deberán efectuarse con carácter previo al envío del mandamiento de ejecución de la devolución a los órganos de recaudación de la Agencia Tributaria a quienes corresponda dicha ejecución, de acuerdo con lo establecido en las disposiciones generales siguientes.
+
+d) Enviar a los órganos de recaudación de la Agencia Tributaria el mandamiento de ejecución de la devolución por las vías o procedimientos establecidos al efecto en esta disposición y en la disposición general 16 de esta orden.
+
+– Cuando se trate de la devolución de un ingreso efectuado a través de cuenta restringida autorizada para ingresos de tasas desde el extranjero de las reguladas en la disposición general 12 de la presente orden, deberá emitirse y acompañarse al mandamiento de ejecución de la devolución, un certificado que acredite la existencia de dicho ingreso en la cuenta restringida autorizada, y de no haberse dictado acuerdo de reconocimiento a la devolución, ni efectuado anulación o devolución del ingreso de la tasa anteriormente. El certificado deberá emitirse en el modelo normalizado que se establezca por el Departamento de Recaudación, que se publicará en la Sede electrónica de la Agencia Tributaria.
+
+e) Cualesquiera actuaciones de subsanación que deban ser llevadas a cabo frente a los interesados derivadas de lo dispuesto en el punto 3 de esta disposición general y en la disposición general 16.
+
+15.3 Corresponderá a los órganos de la Agencia Tributaria:
+
+La ejecución de los acuerdos en los que se reconozca el derecho a la devolución de los ingresos de tasas gestionadas por los órganos señalados en la presente disposición, previa recepción del mandamiento de dicha ejecución, dictado por dichos órganos gestores.
+
+No obstante, los órganos de recaudación de la Agencia Tributaria no podrán ejecutar el mandamiento en los supuestos siguientes:
+
+– Mandamientos de ejecución en los que no se indique el NIF o NIE del obligado tributario o del titular al que se reconozca el derecho a la devolución por el órgano gestor, en caso de que éste no sea el obligado tributario.
+
+– Cuando, a la vista de la información quincenal de detalle aportada por las entidades colaboradoras en la gestión recaudatoria, el órgano de recaudación de la Agencia Tributaria no tenga constancia de la existencia del ingreso cuya devolución se pretende, y en tanto no se aporte por el órgano que dicta el mandamiento los documentos de ingreso (modelos 790 y 990) debidamente validados por entidad bancaria, que permitan a los órganos de la Agencia Tributaria requerir a las entidades colaboradoras información acerca de la falta del ingreso o, en su caso, el propio ingreso, en los términos establecidos al efecto por la normativa reguladora del servicio de colaboración en la gestión recaudatoria con la Agencia Tributaria.
+
+– Cuando por el órgano de recaudación de la Agencia Tributaria se compruebe que no se ha dictado por el órgano gestor la resolución o acuerdo por el que se reconoce el derecho a la devolución, o no se ha efectuado la notificación de los mismos, o no se ajuste la tramitación y remisión del mandamiento de ejecución del expediente de devolución a lo dispuesto en esta disposición y en la disposición general 16 de esta orden.
+
+> Se modifica por el art. 3.1 de la Orden HAC/241/2025, de 10 de marzo. [Ref. BOE-A-2025-5048](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5048)
+
+> Se modifica por el apartado único. III de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+### 16. Procedimiento de remisión de los mandamientos de ejecución de las devoluciones por los órganos gestores de tasas indicados en la disposición 15 de la presente orden.
+
+La tramitación del procedimiento de ejecución de la devolución de ingresos de tasas vendrá determinada por el documento utilizado para efectuar el pago de la tasa y por el lugar de realización del mismo. Así, pueden distinguirse dos tipos de devoluciones diferentes:
+
+A. Devoluciones de ingresos indebidos de tasas cuyo pago se haya efectuado utilizando los modelos 790 y 990 aprobados en esta orden, o a través de cuentas restringidas autorizadas para el ingreso de tasas desde el extranjero, y siempre que, en ambos supuestos, la recaudación corresponda en su totalidad al presupuesto del Estado:
+
+a) Presentación de la documentación. El departamento ministerial, organismo autónomo o constitucional, gestor de la tasa, deberá remitir el mandamiento de ejecución de la devolución acordada al Departamento de Recaudación de la Agencia Tributaria, de acuerdo con el procedimiento que se establece a continuación:
+
+– El órgano gestor efectuará la presentación del mandamiento de ejecución de la devolución mediante su alta por vía telemática. El alta así efectuada sustituirá a la presentación del modelo de mandamiento de ejecución anexo XA) que figura en la presente orden. Este modelo anexo XA) solo podrá utilizarse en los supuestos previstos en la presente disposición.
+
+– El alta podrá efectuarse mediante la captura directa de los datos del mandamiento en la Sede electrónica de la Agencia Tributaria o mediante Servicio Web. El trámite exigirá la identificación previa del personal que lo realice, en la forma y requisitos que se establezcan por el Departamento de Recaudación, de los que se informará mediante su publicación en la Sede de la Agencia Tributaria.
+
+– Cuando el ingreso cuya devolución se pretenda haya tenido lugar a través de cuenta restringida autorizada para el ingreso de las tasas desde el extranjero, el alta telemática del mandamiento de ejecución deberá incluir, en formato PDF, el certificado del ingreso y no devolución emitido por el órgano gestor competente, ajustado al modelo normalizado establecido en cada momento por el Departamento de Recaudación de la Agencia Tributaria.
+
+– No obstante lo anterior, no podrá ser dado de alta telemáticamente el mandamiento de ejecución de la devolución, debiendo remitirse al Departamento de Recaudación en esos casos el modelo anexo X.A) de la presente orden:
+
+• En todo caso en los supuestos en los que el ingreso objeto de la devolución sea de fecha anterior al mes de mayo del ejercicio 2015.
+
+• Adicionalmente, y en tanto no se efectúen los desarrollos técnicos necesarios, en los supuestos que se relacionan a continuación:
+
+○ Que la cuenta señalada como forma de pago en la solicitud de devolución corresponda a un IBAN no español.
+
+○ Cuando en dos o más ingresos, exista coincidencia en todos los datos siguientes: NIF, fecha de ingreso, importe del ingreso, y número de justificante.
+
+El mandamiento de ejecución de la devolución, y en su caso, el certificado del ingreso de la tasa que debe acompañarle, si el pago se hubiera realizado en una cuenta restringida autorizada para ingresos de tasas desde el extranjero, deberán presentarse al Departamento de Recaudación de la Agencia Tributaria, a través del Sistema Integrado de Registro (en adelante SIR) o a través de la dirección electrónica habilitada única (en adelante DEHU).
+
+Se habilita al titular del Departamento de Recaudación de la Agencia Tributaria para ampliar, actualizar o modificar los supuestos previstos en esta letra a).
+
+b) Responsabilidad. Los órganos gestores de la tasa, departamentos ministeriales y organismos autónomos contemplados en las letras a) y b) de la disposición general 1 de esta orden, así como los órganos constitucionales, serán responsables de:
+
+– Las consecuencias por la emisión del acuerdo o resolución de reconocimiento del derecho a la devolución y del mandamiento de ejecución, sin comprobar previamente que el ingreso a devolver figura en los ficheros de información de detalle de la recaudación de tasas por quincenas a través de las entidades bancarias colaboradoras en la gestión recaudatoria estatal, puestos a disposición del órgano gestor por el Departamento de Recaudación de la Agencia Tributaria y que deben ser objeto de descarga y tratamiento por los órganos gestores de tasas.
+
+– Las consecuencias derivadas de la remisión del mandamiento de ejecución de devolución sin haber dictado y notificado previamente el correspondiente acuerdo o resolución del reconocimiento del derecho a la devolución, o el acto dictado en ejecución del cumplimiento de resoluciones o sentencias judiciales o la resolución de los procedimientos especiales de revisión previstos en el título II del Reglamento de Revisión.
+
+– La veracidad de los datos consignados en los mandamientos de ejecución de devoluciones de ingresos de tasas presentados en su nombre, con independencia de la forma en la que se hubiera realizado el alta y presentación de los mismos.
+
+– La certeza de los datos contenidos en el certificado por el que se confirma la existencia del ingreso y no devolución en la cuenta restringida autorizada para ingresos de tasas desde el extranjero, que se acompañe al mandamiento de ejecución de la devolución.
+
+– Las consecuencias derivadas de la inexactitud y/o discrepancia entre los datos consignados en el mandamiento de ejecución, y los siguientes datos:
+
+• Los que consten en el acuerdo o resolución que reconozca el derecho a la devolución, en el acto dictado en ejecución del cumplimiento de la resolución de un recurso o reclamación económico-administrativa, de sentencias o resoluciones judiciales, así como en las resoluciones de procedimientos especiales de revisión contemplados por el Reglamento de Revisión.
+
+• Los indicados por los obligados o sus representantes en sus solicitudes de devolución.
+
+Corresponderá a los órganos gestores la realización de aquellas actuaciones de subsanación que deban llevarse a cabo derivadas de los supuestos contemplados en el presente apartado b) y, en particular, la tramitación del procedimiento que según normativa tributaria corresponda, en aquellos casos en que, por error del órgano gestor, se haya devuelto una cantidad superior a la debida o se haya producido un error en la persona del perceptor.
+
+c) Información a los órganos gestores sobre la tramitación del mandamiento de ejecución de la devolución.
+
+A través de la Sede electrónica de la Agencia Tributaria, el órgano gestor de la tasa podrá consultar la situación de cada mandamiento de ejecución dado de alta telemáticamente, así como efectuar modificaciones en el mismo.
+
+Las modificaciones a que se refiere el párrafo anterior únicamente podrán ser realizadas cuando el Departamento de Recaudación no hubiera llevado a cabo ningún acto de tramitación.
+
+En ningún caso, podrán efectuarse modificación alguna por el órgano gestor cuando constase ya confirmada la ejecución de la devolución.
+
+d) Comunicación para la subsanación en determinados supuestos en que la ejecución de la devolución no llegue a término.
+
+En aquellos casos en los que la ejecución de la devolución no se hubiera podido efectuar por error en los datos relativos a la cuenta de transferencia comunicada en la solicitud y/o en la indicada en el mandamiento de ejecución, por caducidad en el cheque o por fallecimiento del titular al que se reconoció el derecho a la devolución, que supongan la retrocesión y/o imposibilidad de ejecución, la Agencia Tributaria informará del resultado a los órganos gestores de tasas.
+
+La comunicación se efectuará con periodicidad anual y en la forma que por el Departamento de Recaudación se determine, en tanto se efectúan los desarrollos técnicos necesarios que permitan el suministro por medios electrónicos o telemáticos.
+
+Corresponderá al órgano gestor de las tasas realizar todas aquellas actuaciones que resulten necesarias para subsanar el motivo o los errores o deficiencias que hubieran impedido la ejecución efectiva. Asimismo, deberá remitir, en su caso, a la Agencia Tributaria nuevos mandamientos de ejecución y/o informar de la baja de los anteriores en los casos en que así pueda resultar necesario.
+
+B. Devoluciones de ingresos de tasas cuyo pago se hubiera efectuado con documentos cobratorios expedidos por los órganos de recaudación de la Agencia tributaria, una vez remitida la deuda para su gestión recaudatoria por dichos órganos.
+
+Cuando por los órganos gestores de tasas contemplados en la disposición general 15 de esta orden, se reconozca el derecho a la devolución del ingreso de una tasa que hubiera sido remitida para su cobro a la Agencia Tributaria, se deberá remitir mandamiento de ejecución de la devolución dirigido a las Delegaciones Especiales de la Agencia Tributaria que realicen la gestión recaudatoria del obligado al pago.
+
+El mandamiento de ejecución deberá adjuntarse a la presentación de la oportuna “Actuación Posterior al Cargo” (en adelante APC), que se efectúe ante la Delegación Especial de la Agencia Tributaria correspondiente, a través de los procedimientos establecidos para ello por el Departamento de Recaudación en la Sede electrónica de la Agencia Tributaria, en los siguientes casos:
+
+– Cuando el motivo de la devolución sea la improcedencia total o parcial de la tasa original, el mandamiento deberá remitirse conjuntamente con el certificado de anulación de la deuda.
+
+– Cuando la devolución sea consecuencia del ingreso previo de la tasa en el órgano gestor, éste deberá tramitar la oportuna APC de ingreso en origen, que incluirá una cláusula facultando a la devolución de aquellos importes que, como consecuencia de la APC, supongan un exceso en el importe ingresado para cancelar la deuda en todos sus conceptos. Siempre que tales ingresos sean posteriores en el tiempo al ingreso en origen, el órgano de recaudación de la Agencia Tributaria procederá, a la vista de la APC, a la devolución de los ingresos excesivos al obligado.
+
+El mandamiento de ejecución deberá ajustarse al modelo que figura en el anexo X.B) de esta orden, y en el mismo se deberá especificar en el concepto “importe a devolver”:
+
+– En caso de APC por anulación total de la deuda, la opción 2 que indica: “se procederá a la devolución de todos los ingresos aplicados a la cancelación de la deuda”.
+
+– En el supuesto de APC por anulación parcial de la deuda, si procediera la devolución de algún importe ingresado en la Agencia Tributaria por la deuda remitida, se seleccionará la opción 1. Y se hará constar el importe a devolver, desglosando la parte que corresponde a principal, recargo de apremio y a cualquier otro posible concepto, por los cuales se deba efectuar la ejecución de la devolución.
+
+> Se añade por el art. 3.2 de la Orden HAC/241/2025, de 10 de marzo. [Ref. BOE-A-2025-5048](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5048)
+
+### 17. Disposición de fondos para efectuar las devoluciones de ingresos por tasas de Tesoro Público.
+
+Las devoluciones de ingresos de tasas se pagarán con cargo a los anticipos de tesorería efectuados por la Secretaria General del Tesoro y Política Internacional a favor de la Agencia Tributaria, según lo previsto en la normativa que regula el régimen económico financiero de la Agencia Tributaria.
+
+> Se añade por el art. 3.3 de la Orden HAC/241/2025, de 10 de marzo. [Ref. BOE-A-2025-5048](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5048)
+
+### Disposición adicional primera.
+
+Los organismos autónomos que gestionen tasas que constituyan recursos propios y se recauden a través de entidades colaboradoras, deberán remitir al Departamento de Recaudación de la Agencia Estatal de Administración Tributaria, en los primeros quince días hábiles de cada mes, relación comprensiva de las cantidades satisfechas en el mes inmediato anterior en concepto de devolución de ingresos indebidos por cada tasa.
+
+### Disposición adicional segunda.
+
+Los organismos públicos que no tengan la condición de organismos autónomos y gestionen tasas, deberán remitir al Departamento de Recaudación de la Agencia Estatal de Administración Tributaria, en los primeros quince días hábiles de cada mes, relación comprensiva del importe líquido total recaudado por cada tasa en el mes inmediato anterior.
+
+### Disposición adicional tercera.
+
+Con periodicidad mensual, el Departamento de Recaudación de la Agencia Estatal de Administración Tributaria remitirá a la Dirección General de Tributos, a la Dirección General de Presupuestos y a la Intervención General de la Administración del Estado un resumen estadístico de la recaudación obtenida por las diferentes tasas.
+
+### Disposición adicional cuarta.
+
+Mediante Circular conjunta de la Intervención General de la Administración del Estado y de la Agencia Estatal de Administración Tributaria se determinarán las normas contables necesarias a efectos de integrar en la contabilidad principal de los tributos la recaudación de tasas de la Hacienda Pública.
+
+### Disposición adicional quinta.
+
+Modificación de la Orden de 15 de junio de 1995 por la que se desarrolla parcialmente el Reglamento General de Recaudación en la redacción dada al mismo por el Real Decreto 448/1995, de 24 de marzo, en relación con las entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria.
+
+Uno. Se da nueva redacción al apartado I.3, que queda redactado en los siguientes términos:
+
+«3. Ingreso en cuenta restringida y aportación de extractos por las entidades.
+
+El abono en la cuenta restringida del Tesoro Público deberá realizarse en la misma fecha en que se produzca el ingreso en la entidad.
+
+En todo caso, dicho abono se realizará de forma individualizada, llevándose a cabo una anotación en cuenta por cada documento de ingreso recaudado. Efectuada cada anotación, se actualizará el saldo existente en la cuenta en ese momento.
+
+El Director del Departamento de Recaudación o el Delegado de la Agencia podrán solicitar de las entidades colaboradoras extractos de las cuentas restringidas que, para cada operación de ingreso, deberán contener, como mínimo, los siguientes datos relativos al período para el que se soliciten:
+
+Concepto de la operación, conforme a lo previsto en los párrafos segundo y tercero del apartado I de esta Orden.
+
+Fecha de valoración, que, con carácter general, coincidirá en todo caso con la de validación del documento de ingreso. No obstante, cuando la anotación en cuenta se refiera a la rectificación o anulación de un asiento anterior, la fecha de valoración será aquella que, como fecha de operación, se consignó en la anotación que se anula o rectifica.
+
+Fecha de operación, que será la de anotación efectiva en cuenta restringida.
+
+Importe del ingreso
+
+Código numérico identificativo de la sucursal receptora del ingreso.
+
+Saldo que arroja la cuenta tras cada anotación de ingreso.
+
+El extracto solicitado podrá suministrarse mediante soporte informático, siendo obligatoria la presentación de dicho extracto haciendo uso del citado medio cuando el número de operaciones sea significativo.
+
+No obstante lo anterior, en caso de que tanto el órgano competente de la Agencia Estatal de la Administración Tributaria como la entidad dispongan de los medios necesarios, la aportación y análisis de los movimientos de las cuentas restringidas se llevará a cabo mediante conexión telemática.»
+
+Dos. Se suprime el último párrafo del apartado I.8.
+
+### Disposición adicional sexta.
+
+Los organismos públicos que no tengan la condición de organismos autónomos y gestionen tasas que deban aplicarse al Presupuesto de Ingresos del Estado, continuarán efectuando el ingreso en el Banco de España, en la cuenta “Tesoro Público.-Tasas y Exacciones Parafiscales”, por el importe de la recaudación obtenida por dichas tasas, con la misma periodicidad que lo hubieran venido realizando hasta la fecha de entrada en vigor de la presente Orden, comunicando al Departamento de Recaudación de la Agencia Tributaria la fecha e importe del ingreso efectuado.
+
+Para efectuar el ingreso en el Banco de España y la comunicación al Departamento de Recaudación, se utilizarán los nuevos códigos que figuran en el anexo XI de la presente Orden.
+
+> Se añade por el apartado único.V de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+### Disposición adicional séptima.
+
+Todas las referencias a importes contenidas en los anexos VII y VIII, se entenderán referidas a cantidades expresadas en céntimos de euros.
+
+> Se añade por el apartado único.V de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+### Disposición adicional octava. Pago de tasas en las oficinas de los organismos administrativos gestores con tarjetas de crédito o débito.
+
+Los órganos administrativos gestores podrán permitir que los obligados al pago puedan efectuar el ingreso en sus respectivas oficinas mediante tarjetas de crédito o débito. Para ello, contratarán dicho servicio con cualquier Entidad de crédito que ostente la condición de colaboradora en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria, la cual habrá de tramitar estos ingresos según el procedimiento que se establece en la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación, en relación con las Entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria.
+
+En todo caso, el órgano administrativo gestor estará obligado a proporcionar al obligado tributario documentos de ingreso con los datos que permitan a la Entidad de crédito tramitar el pago de acuerdo con el procedimiento citado en el párrafo anterior.
+
+Respecto de aquellas tasas que disponga expresamente el Ministro de Hacienda y Administraciones Públicas, los órganos administrativos gestores estarán obligados a establecer en sus oficinas el procedimiento de pago a que se refiere el párrafo anterior.
+
+Antes del 1 de marzo de 2016 los órganos administrativos gestores de las tasas que se relacionan a continuación deberán permitir en sus respectivas oficinas que los obligados tributarios puedan efectuar el pago de las mismas mediante tarjetas de crédito y débito:
+
+a) Código 006, expedición de los certificados de antecedentes penales, de actos de última voluntad y de contratos de seguros de cobertura de fallecimiento.
+
+b) Código 052, tramitación de autorizaciones de residencia y otra documentación a ciudadanos extranjeros.
+
+c) Código 058, vacunación de viajeros internacionales.
+
+> Se añade por el art. único.3 de la Orden HAP/2046/2015, de 1 de octubre. [Ref. BOE-A-2015-10767](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10767).
+
+### Disposición transitoria primera.
+
+En el plazo de treinta días a partir de la publicación de esta Orden, las Subsecretarías de los Departamentos ministeriales cuyos servicios periféricos se han integrado en las Delegaciones del Gobierno, conforme a lo dispuesto en el artículo 1 del Real Decreto 1330/1997, de 1 de agosto, comunicarán al Departamento de Recaudación de la Agencia Estatal de Administración Tributaria las tasas que, según establece la disposición transitoria cuarta del mismo Real Decreto, han pasado a ser gestionadas por el Ministerio de Administraciones Públicas, indicando, en su caso, cuáles de ellas seguirán siendo gestionadas además por los servicios centrales del propio Departamento.
+
+### Disposición transitoria segunda.
+
+En el plazo que media desde la publicación de esta Orden hasta su entrada en vigor, los Departamentos ministeriales y organismos autónomos realizarán cuantas actuaciones sean necesarias para la iniciación del procedimiento recaudatorio que en la misma se regula.
+
+En el transcurso del plazo previsto en el párrafo anterior, los Departamentos ministeriales y los organismos autónomos cuyas tasas se recauden a través de entidades colaboradoras, deberán solicitar del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria la cancelación de las cuentas restringidas con las que venían operando con anterioridad a la publicación de la presente Orden.
+
+En el mismo plazo, los organismos autónomos que, de acuerdo con lo dispuesto en el apartado 12.1 de esta Orden, consideren oportuno recaudar sus tasas a través de cuenta restringida abierta en entidad de depósito, formularán la preceptiva solicitud ante el Departamento de Recaudación de la Agencia Estatal de Administración Tributaria, proponiendo la convalidación, en su caso, de las cuentas restringidas de recaudación de tasas con las que se venía operando hasta la fecha de publicación de esta Orden.
+
+### Disposición transitoria tercera.
+
+Los ingresos que eventualmente se produzcan por tasas derogadas, pero cuyo hecho imponible se realizó estando vigentes las mismas, continuarán recaudándose según los trámites y procedimiento establecidos con anterioridad a la entrada en vigor de esta Orden.
+
+### Disposición derogatoria única.
+
+Quedan derogados los capítulos primero, II, III, IV y VI del título primero, así como los títulos II, IV y V de la Orden de 23 de julio de 1960, por la que se dictan normas para la recaudación, inspección y contabilidad de las tasas y exacciones parafiscales.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 152, de 26 de junio de 1998. [Ref. BOE-A-1998-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15135).
+
+### Disposición final primera.
+
+Se autoriza al Director del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria para realizar la actualización del contenido del anexo I, A), B) y C), mediante Resolución publicada en el «Boletín Oficial del Estado».
+
+### Disposición final segunda.
+
+Se autoriza al Director del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria a dictar cuantas Resoluciones sean necesarias para el desarrollo de la presente Orden.
+
+> Redactado el título conforme a la corrección de errores publicada en BOE núm. 152, de 26 de junio de 1998. [Ref. BOE-A-1998-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15135).
+
+### Disposición final tercera.
+
+1\. La presente Orden entrará en vigor el día 21 de julio de 1998.
+
+2\. Lo dispuesto en la disposición adicional quinta de esta Orden entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+> Redactado el título conforme a la corrección de errores publicada en BOE núm. 152, de 26 de junio de 1998. [Ref. BOE-A-1998-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15135).
+
+Madrid, 4 de junio de 1998.
+
+DE RATO Y FIGAREDO
+
+## Anexo I A)
+
+![Imagen: img/disp/2001/305/24270_001.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_001.png)
+
+![Imagen: img/disp/2001/305/24270_002.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_002.png)
+
+![Imagen: img/disp/2001/305/24270_003.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_003.png)
+
+![Imagen: img/disp/2001/305/24270_004.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_004.png)
+
+![Imagen: img/disp/2001/305/24270_005.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_005.png)
+
+> Se modifica por el apartado único.IV y anexo I.A) de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+## Anexo I B)
+
+![Imagen: img/disp/2001/305/24270_006.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_006.png)
+
+> Se modifica por el apartado único.IV y anexo I.B) de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+## Anexo I C)
+
+![Imagen: img/disp/2001/305/24270_007.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_007.png)
+
+![Imagen: img/disp/2001/305/24270_008.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_008.png)
+
+![Imagen: img/disp/2001/305/24270_009.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_009.png)
+
+![Imagen: img/disp/2001/305/24270_010.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_010.png)
+
+![Imagen: img/disp/2001/305/24270_011.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_011.png)
+
+![Imagen: img/disp/2001/305/24270_012.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_012.png)
+
+![Imagen: img/disp/2001/305/24270_013.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_013.png)
+
+> Se modifica por el apartado único.IV y anexo I.C) de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+## ANEXO II A)
+
+![Imagen: img/disp/2001/305/24270_014.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_014.png)
+
+![Imagen: img/disp/2001/305/24270_015.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_015.png)
+
+> Se modifica por el apartado único.IV y anexo II.A) de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 152, de 26 de junio de 1998. [Ref. BOE-A-1998-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15135).
+
+## ANEXO II B)
+
+![Imagen: img/disp/2001/305/24270_016.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_016.png)
+
+![Imagen: img/disp/2001/305/24270_017.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_017.png)
+
+> Se modifica por el apartado único.IV y anexo II.B) de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 152, de 26 de junio de 1998. [Ref. BOE-A-1998-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15135).
+
+## ANEXO III A)
+
+![Imagen: img/disp/2001/305/24270_018.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_018.png)
+
+![Imagen: img/disp/2001/305/24270_019.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_019.png)
+
+> Se modifica por el apartado único.IV y anexo III.A) de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+## ANEXO III B)
+
+![Imagen: img/disp/2001/305/24270_020.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_020.png)
+
+![Imagen: img/disp/2001/305/24270_021.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_021.png)
+
+> Se modifica por el apartado único.IV y anexo III.B) de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+## ANEXO IV
+
+![Imagen: img/disp/2001/305/24270_022.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_022.png)
+
+> Se modifica por el apartado único.IV y anexo IV de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+## ANEXO V
+
+![Imagen: img/disp/2001/305/24270_023.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_023.png)
+
+> Se modifica por el apartado único.IV y anexo V de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+## ANEXO VI
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/134/13072_017a.png)
+
+## ANEXO VII
+
+![Imagen: img/disp/2001/305/24270_024.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_024.png)
+
+![Imagen: img/disp/2001/305/24270_025.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_025.png)
+
+> Se modifica por el apartado único.IV y anexo VII de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+## ANEXO VIII
+
+![Imagen: img/disp/2001/305/24270_026.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_026.png)
+
+![Imagen: img/disp/2001/305/24270_027.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_027.png)
+
+> Se modifica por el apartado único.IV y anexo VIII de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+## ANEXO IX
+
+![Imagen: img/disp/2001/305/24270_028.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_028.png)
+
+> Se modifica por el apartado único.IV y anexo IX de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+## ANEXO X
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/78/5048_15434991_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/78/5048_15434991_2.png)
+
+> Se modifican los anexos X.A) y X.B) por el art. 3.4 y 5 de la Orden HAC/241/2025, de 10 de marzo. [Ref. BOE-A-2025-5048](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5048)
+
+> Redactados conforme a la corrección de errores publicada en BOE núm. 78, de 1 de abril de 2025. [Ref. BOE-A-2025-6490](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6490)
+
+> Se modifica por el apartado único.IV y anexos X.A) y X.B) de la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).
+
+## ANEXO XI
+
+![Imagen: img/disp/2001/305/24270_031.png](https://www.boe.es/datos/imagenes/disp/2001/305/24270_031.png)
+
+> Se añade por la Orden de 11 de diciembre de 2001. [Ref. BOE-A-2001-24270](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24270).

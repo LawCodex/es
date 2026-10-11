@@ -1,0 +1,2183 @@
+---
+title: "Real Decreto 424/2005, de 15 de abril, por el que se aprueba el Reglamento sobre las condiciones para la prestación de servicios de comunicaciones electrónicas, el servicio universal y la protección de los usuarios"
+identifier: "BOE-A-2005-6970"
+eli: "https://www.boe.es/eli/es/rd/2005/04/15/424"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2005-04-15
+published: 2005-04-29
+in_force_from: 2005-04-30
+last_amended: 2018-12-29
+consolidated: 2026-06-05
+gazette: "Boletín Oficial del Estado núm. 102"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2005-6970"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 424/2005, de 15 de abril, por el que se aprueba el Reglamento sobre las condiciones para la prestación de servicios de comunicaciones electrónicas, el servicio universal y la protección de los usuarios
+
+La Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, ha establecido un nuevo marco regulador de las telecomunicaciones en nuestro ordenamiento jurídico. Sus títulos II y III precisan de un desarrollo reglamentario que delimite el alcance de las obligaciones, tanto generales como de servicio público, que se imponen a los operadores. También es necesario concretar mediante norma reglamentaria otros aspectos, como la regulación del Registro de operadores, el procedimiento para la obtención de la condición de operador y los derechos de los usuarios.
+
+En el apartado de la habilitación para la prestación de servicios y el establecimiento de redes de comunicaciones electrónicas, el reglamento recoge el régimen general de prestación de servicios y establecimiento y explotación de redes establecido por la ley. Toda vez que no existen títulos habilitantes individualizados para cada operador y servicio, se establece un repertorio de derechos y obligaciones que son de aplicación directa a los operadores, distinguiendo tanto entre operadores de redes y prestadores de servicios como entre prestadores del servicio telefónico y otros servicios.
+
+En la regulación de las obligaciones de servicio público destaca el servicio universal, como conjunto de prestaciones que deben garantizarse a todos los usuarios finales, a precio asequible y con independencia de su localización en el territorio. Se concreta la determinación y el alcance de las prestaciones que incluye, se delimitan los procedimientos para la designación de los operadores encargados de garantizarlo y, finalmente, se establecen los criterios para la determinación de su coste y la imposición, si resulta preciso, de su mecanismo de financiación.
+
+Se presta especial atención a la protección de los datos personales en la prestación de servicios de comunicaciones electrónicas. A este respecto, conviene señalar que esto se realiza a través de la regulación desde un triple punto de vista: el tratamiento de los datos que obren en poder de los operadores relativos al tráfico, facturación y localización de los abonados y usuarios, la elaboración de las guías telefónicas de números de abonados y la prestación de servicios avanzados de telefonía, como la identificación de la línea de origen, y el desvío automático de llamadas.
+
+Este reglamento, al igual que la ley, garantiza el secreto de las comunicaciones. En él se incorpora el procedimiento para las interceptaciones legales de las comunicaciones que, de acuerdo con lo previsto en el artículo 579 de la Ley de Enjuiciamiento Criminal en la Ley Orgánica 2/2002, de 6 de mayo, reguladora del control judicial previo del Centro Nacional de Inteligencia, y otras normas con rango de ley orgánica, pueda ordenar la autoridad judicial. Se establecen los requisitos técnicos y operacionales para que tales requerimientos judiciales sean convenientemente atendidos por los operadores de comunicaciones electrónicas.
+
+Se regulan, además, los demás derechos de los usuarios de servicios de comunicaciones electrónicas, en aspectos tales como el contenido de los contratos entre los usuarios finales y los operadores, el derecho de desconexión de determinados servicios, el derecho a indemnización por la interrupción del servicio o el procedimiento de suspensión o interrupción de aquél ante situaciones de impago por los abonados.
+
+Si bien el contenido principal del reglamento es, como se indica, el desarrollo del título III y del capítulo I del título II, ha resultado preciso realizar ciertas modificaciones en normas vigentes reguladoras de las comunicaciones electrónicas y las telecomunicaciones. Así, se modifica el Reglamento de desarrollo de la Ley 11/1998, de 24 de abril, relativo al uso del dominio público radioeléctrico, aprobado por la Orden del Ministro de Fomento, de 9 de marzo de 2000, con el objetivo de adecuar su contenido al de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, en especial en aspectos relativos a competencias y procedimientos.
+
+Otra norma en la que se han introducido modificaciones es el Real Decreto 1029/2002, de 4 de octubre, por el que se establecen la composición y el régimen de funcionamiento del Consejo Asesor de las Telecomunicaciones y de la Sociedad de la Información. La desaparición de las autorizaciones generales y licencias individuales como títulos habilitantes individuales hace preciso corregir ciertas referencias en la composición del Consejo. Este motivo impone la necesidad de modificar, asimismo, el Reglamento que establece condiciones de protección del dominio público radioeléctrico, restricciones a las emisiones radioeléctricas y medidas de protección sanitaria frente a emisiones radioeléctricas, aprobado por el Real Decreto 1066/2001, de 28 de septiembre, en cuanto contiene referencias a dichos títulos.
+
+El reglamento también aborda problemas que pueden suscitarse por la entrada en vigor de la regulación que contiene. Cabe citar, entre otros, la transición de los antiguos Registros de titulares de licencias individuales y autorizaciones generales al nuevo Registro de operadores, la designación del operador encargado y las prestaciones del servicio universal y el régimen de derechos de los usuarios.
+
+Esta disposición, además, complementa la transposición de las Directivas comunitarias que conforman el marco regulador de las comunicaciones electrónicas, esto es, la Directiva 2002/21/CE del Parlamento Europeo y del Consejo, de 7 de marzo de 2002, relativa a un marco regulador común de las redes y los servicios de comunicaciones electrónicas; la Directiva 2002/20/CE del Parlamento Europeo y del Consejo, de 7 de marzo de 2002, relativa a la autorización de redes y servicios de comunicaciones electrónicas; la Directiva 2002/22/CE del Parlamento Europeo y del Consejo, de 7 de marzo de 2002, relativa al servicio universal y los derechos de los usuarios en relación con las redes y los servicios de comunicaciones electrónicas; la Directiva 2002/19/CE del Parlamento Europeo y del Consejo, de 7 de marzo de 2002, relativa al acceso a las redes de comunicaciones electrónicas y recursos asociados, y a su interconexión; la Directiva 2002/77/CE de la Comisión, de 16 de septiembre de 2002, relativa a la competencia en los mercados de redes y servicios de comunicaciones electrónicas, y, finalmente, la Directiva 2002/58/CE del Parlamento Europeo y del Consejo, de 12 de julio de 2002, relativa al tratamiento de los datos personales y a la protección de la intimidad en el sector de las comunicaciones electrónicas.
+
+Este reglamento se dicta al amparo de la competencia exclusiva del Estado en materia de telecomunicaciones, reconocida en el artículo 149.1.21.ª de la Constitución.
+
+En su virtud, a propuesta del Ministro de Industria, Turismo y Comercio, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 15 de abril de 2005,
+
+###### D I S P O N G O :
+
+**Artículo único. Aprobación del Reglamento.**
+
+Se aprueba el Reglamento sobre las condiciones para la prestación de servicios de comunicaciones electrónicas, el servicio universal y la protección de los usuarios, que se inserta a continuación.
+
+**Disposición adicional única. Transformación de títulos habilitantes para el uso del dominio público radioeléctrico.**
+
+En aplicación de lo dispuesto en el apartado 2.c) de la disposición transitoria primera de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, quedan transformadas en autorización administrativa para el uso privativo del dominio público radioeléctrico las licencias individuales para autoprestación con concesión demanial aneja de dicho dominio, y se mantiene el plazo de duración para el cual fueron otorgadas. Los órganos competentes en gestión del espectro radioeléctrico procederán de oficio a efectuar las correspondientes anotaciones en los títulos y anularán la licencia en autoprestación.
+
+**Disposición transitoria primera. Títulos habilitantes para el uso del dominio público radioeléctrico.**
+
+1\. Los procedimientos para el otorgamiento de derechos de uso del dominio público radioeléctrico iniciados antes de la entrada en vigor de este real decreto continuarán su tramitación conforme a la normativa anterior, si bien, conforme al apartado 8 de la disposición transitoria primera de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, el título habilitante que, en su caso, se otorgue se corresponderá con los previstos en dicha ley y en el Reglamento aprobado por la Orden de 9 de marzo de 2000, en su redacción dada por la disposición final primera de este real decreto.
+
+2\. Hasta la efectiva constitución de la Agencia Estatal de Radiocomunicaciones, la competencia para la tramitación y resolución de los procedimientos relativos a la gestión del dominio público radioeléctrico continuará correspondiendo a los órganos del Ministerio de Industria, Turismo y Comercio que la tenían atribuida hasta la entrada en vigor de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
+
+3\. Las concesiones para el uso privativo del dominio público radioeléctrico otorgadas antes de la entrada en vigor de este reglamento anejas a una licencia individual para la prestación de servicios a terceros se considerarán independientes de la habilitación de la persona titular de la citada concesión demanial para la prestación del servicio o la explotación de la red de comunicaciones electrónicas, y se mantendrá el plazo de validez para el cual fueron otorgados.
+
+**Disposición transitoria segunda. Modelos de solicitud contenidos en el anexo III de la Orden de 22 de septiembre de 1998, por la que se establecen el régimen aplicable a las licencias individuales para servicios y redes de telecomunicaciones y las condiciones que deben cumplirse por sus titulares.**
+
+Los modelos de solicitud contenidos en el anexo III de la Orden de 22 de septiembre de 1998, por la que se establecen el régimen aplicable a las licencias individuales para servicios y redes de telecomunicaciones y las condiciones que deben cumplirse por sus titulares, continuarán vigentes hasta que sean sustituidos por los que se aprueben mediante orden ministerial. Dichos modelos se entenderán referidos al título habilitante que corresponda para el uso del dominio público radioeléctrico.
+
+**Disposición transitoria tercera. Composición del Consejo Asesor de las Telecomunicaciones y de la Sociedad de la Información.**
+
+Mediante resolución del Presidente del Consejo Asesor de las Telecomunicaciones y de la Sociedad de la Información, se llevarán a cabo los nombramientos y ceses de vocales del Consejo para adaptar su composición a lo dispuesto en la disposición final segunda de este real decreto.
+
+Hasta que se dicte la resolución a que se refiere el párrafo anterior, los vocales cuya representación desaparece conforme a lo establecido en la disposición final segunda continuarán como miembros del Consejo.
+
+**Disposición derogatoria única. Derogación normativa.**
+
+Quedan derogadas las disposiciones de igual o inferior rango que se opongan a lo dispuesto en este real decreto y, en particular, las siguientes:
+
+a) El Real Decreto 1736/1998, de 31 de julio, por el que se aprueba el Reglamento por el que se desarrolla el título III de la Ley General de Telecomunicaciones en lo relativo al servicio universal, a las demás obligaciones de servicio público y a las obligaciones de carácter público en la prestación de los servicios y en la explotación de las redes de telecomunicaciones.
+
+b) El Real Decreto 1652/1998, de 24 de julio, por el que se aprueba el Reglamento de los Registros especiales de titulares de licencias individuales y de titulares de autorizaciones generales para la explotación de servicios y para el establecimiento y explotación de redes de telecomunicaciones, y el Reglamento del procedimiento de ventanilla única para la presentación de solicitudes o notificaciones dirigidas a la obtención de dichos títulos.
+
+c) La Orden de 22 de septiembre de 1998, por la que se establecen el régimen aplicable a las licencias individuales para servicios y redes de telecomunicaciones y las condiciones que deben cumplirse por sus titulares.
+
+d) La Orden de 22 de septiembre de 1998, por la que se establecen el régimen aplicable a las autorizaciones generales para servicios y redes de telecomunicaciones y las condiciones que deben cumplirse por sus titulares.
+
+e) La Orden de 21 de diciembre de 2001, por la que se regulan determinados aspectos del servicio universal de telecomunicaciones.
+
+**Disposición final primera. Modificación del Reglamento de desarrollo de la Ley 11/1998, de 24 de abril, General de Telecomunicaciones, en lo relativo al uso del dominio público radioeléctrico.**
+
+El Reglamento de desarrollo de la Ley 11/1998, de 24 de abril, General de Telecomunicaciones, en lo relativo al uso del dominio público radioeléctrico, aprobado por la Orden del Ministro de Fomento, de 9 de marzo de 2000, se modifica en los siguientes términos:
+
+Uno. Los párrafos primero, cuarto y quinto del artículo 8 quedan redactados del siguiente modo:
+
+«Los interesados en obtener cualquier título habilitante para el uso del dominio público radioeléctrico presentarán sus solicitudes ante la Agencia Estatal de Radiocomunicaciones.»
+
+«La Agencia Estatal de Radiocomunicaciones, antes de dictar la resolución sobre el otorgamiento o denegación del título habilitante necesario para el uso del dominio público radioeléctrico y en el plazo previsto para ello, podrá requerir al solicitante cuanta información o aclaraciones considere convenientes sobre su solicitud o sobre los documentos con ella presentados. Las denegaciones de concesiones fundadas en la falta de acreditación de a condición de operador serán comunicadas a la Comisión del Mercado de las Telecomunicaciones.»
+
+«Cuando sea preciso para garantizar una gestión eficaz del espectro radioeléctrico, la Agencia Estatal de Radiocomunicaciones podrá modificar las características técnicas solicitadas previa audiencia del interesado y sin perjuicio del mantenimiento de los objetivos de servicio propuestos por el solicitante. En este supuesto, la validez del título otorgado estará condicionada a su aceptación por el solicitante.»
+
+Dos. El artículo 9 queda redactado de la siguiente manera:
+
+«Artículo 9. Plazos para resolver y notificar.
+
+1\. El plazo para el otorgamiento y la notificación de las autorizaciones y concesiones de dominio público radioeléctrico será de seis semanas desde la entrada de la solicitud en cualquiera de los registros del órgano competente. Dicho plazo podrá ser ampliado por el tiempo necesario para alcanzar la coordinación internacional de frecuencias o cuando afecte a reservas de posiciones orbitales.
+
+2\. No obstante lo dispuesto en el apartado anterior, cuando el título habilitante para el uso del dominio público radioeléctrico se otorgue mediante un procedimiento de licitación, el plazo máximo para resolver y notificar será de ocho meses desde la convocatoria de ésta.»
+
+Tres. Se añade un inciso inicial al primer párrafo y se incorpora un párrafo quinto al artículo 14, con la siguiente redacción:
+
+«El otorgamiento y duración de las autorizaciones para el uso especial del dominio público radioeléctrico, así como las condiciones exigibles a sus titulares, se establecerán mediante orden ministerial.»
+
+«Las autorizaciones de uso especial tendrán carácter personal y conservarán su vigencia mientras su titular no manifieste su renuncia. No obstante, el titular deberá comunicar fehacientemente a la Administración cada cinco años, contados desde la fecha de otorgamiento de la autorización, su intención de continuar utilizando el dominio público radioeléctrico. El incumplimiento de este deber será causa de extinción de la autorización, previa tramitación del correspondiente expediente, cuyo procedimiento se establecerá mediante orden ministerial.»
+
+Cuatro. El párrafo primero del artículo 17 queda redactado de la siguiente manera:
+
+«Los titulares de las asignaciones de frecuencias deberán cumplir, además de las condiciones que les vengan impuestas en la resolución del título del uso del espectro radioeléctrico, las correspondientes al régimen de autorización general que resulten aplicables en la explotación de la red o la prestación del servicio.»
+
+Cinco. El párrafo primero del artículo 19 queda redactado de la siguiente manera:
+
+«Sin perjuicio de lo dispuesto en el artículo 37, la Agencia Estatal de Radiocomunicaciones resolverá, en los plazos que en cada caso procedan, de acuerdo con el artículo 9, sobre el otorgamiento de los títulos solicitados.»
+
+Seis. El párrafo primero del artículo 20 queda redactado de la siguiente manera:
+
+«La Agencia Estatal de Radiocomunicaciones podrá denegar las solicitudes por alguna de las siguientes causas:»
+
+Siete. Los párrafos primero y segundo del artículo 21 quedan redactados del siguiente modo, y se añade un párrafo cuarto, con la siguiente redacción:
+
+«Los títulos habilitantes que otorguen derechos de uso del dominio público radioeléctrico, citados en el artículo 18, tendrán el período de vigencia inicial que para cada uno de ellos se fija en los artículos siguientes. Dichos títulos habilitantes podrán ser objeto de sucesivas prórrogas.»
+
+«La Agencia Estatal de Radiocomunicaciones podrá modificar, en cualquier momento, durante el período de vigencia de un título habilitante que otorgue derechos de uso privativo sobre el dominio público radioeléctrico, las características técnicas y las bandas de frecuencias asignadas cuando ello sea preciso para su adecuación al Cuadro nacional de atribución de frecuencias, por razones de uso eficiente del espectro radioeléctrico, de acuerdo con lo previsto en el artículo 11, o por obligaciones derivadas del cumplimiento de la normativa internacional o comunitaria.»
+
+«Mediante orden ministerial, previa audiencia de los interesados, de las asociaciones de usuarios e informe de la Comisión del Mercado de las Telecomunicaciones, y con respeto a la legislación sobre patrimonio de las Administraciones públicas, se podrán modificar las condiciones generales a que se sujetan los títulos habilitantes para el uso privativo del dominio público radioeléctrico, con arreglo a los principios de objetividad y proporcionalidad, y atendiendo principalmente a las necesidades de la planificación y del uso eficiente y la disponibilidad del espectro radioeléctrico.»
+
+Ocho. Los párrafos primero y segundo del artículo 23 quedan redactados de la siguiente manera:
+
+«El incumplimiento de las condiciones y requisitos técnicos aplicables al uso del dominio público radioeléctrico podrá dar lugar a la revocación, por la Agencia Estatal de Radiocomunicaciones, del título habilitante que otorga derecho a su uso privativo, previa tramitación del correspondiente expediente, a través del procedimiento general de la Ley 30/1992, de 26 de noviembre.
+
+Asimismo, la pérdida de la condición de operador del titular del derecho de uso del dominio público radioeléctrico, por alguna de las causas previstas en el capítulo I del título II del Reglamento relativo a las condiciones para la prestación de servicios o la explotación de redes de comunicaciones electrónicas, llevará aparejada la de las concesiones de uso privativo de dicho dominio.»
+
+Nueve. El párrafo e) del artículo 24 queda redactado de la siguiente manera:
+
+«e) Por la pérdida de la condición de operador del titular del derecho de uso del dominio público radioeléctrico, en caso de tratarse de concesiones de uso privativo, o cualquier causa que imposibilite la prestación del servicio por su titular.»
+
+Diez. El artículo 25 queda redactado de la siguiente manera:
+
+«Artículo 25. Inspección previa al uso del espectro.
+
+De acuerdo con el artículo 45 de la Ley General de Telecomunicaciones, será requisito previo a la utilización del dominio público radioeléctrico la inspección o reconocimiento satisfactorio de las instalaciones por la Agencia Estatal de Radiocomunicaciones.
+
+En función de la naturaleza del servicio, de la banda de frecuencias empleada, de la importancia técnica de las instalaciones que se utilicen o por razones de eficacia en la gestión del espectro, dicha inspección o reconocimiento previo podrá ser sustituida por una certificación expedida por técnico competente a la que se refiere el artículo 45.4 de la Ley General de Telecomunicaciones.
+
+Mediante resolución del Secretario de Estado de Telecomunicaciones y para la Sociedad de la Información, se podrán establecer bandas de frecuencias o servicios en los que, conforme al párrafo anterior, la inspección podrá ser sustituida por la certificación prevista en él.»
+
+Once. El artículo 27 queda redactado de la siguiente manera:
+
+«Artículo 27. Presentación de solicitudes.
+
+Los interesados en obtener una afectación de dominio público radioeléctrico deberán dirigir una solicitud a la Agencia Estatal de Radiocomunicaciones, acompañada de una propuesta técnica en la que se defina con precisión la estructura y características técnicas de la red de comunicaciones que se pretende instalar y el servicio o servicios a los que se pretende destinar.»
+
+Doce. El artículo 29 queda redactado de la siguiente manera:
+
+«Artículo 29. Plazo de vigencia.
+
+Las afectaciones de dominio público radioeléctrico se otorgarán por un período de tiempo máximo que finalizará el 31 de diciembre del año natural en que cumpla su quinto de vigencia, prorrogable, previa petición de su titular, por períodos de cinco años.»
+
+Trece. El artículo 30 queda redactado de la siguiente manera:
+
+«Artículo 30. Derechos de uso privativo del dominio público radioeléctrico.
+
+El derecho de uso privativo de dominio público radioeléctrico por personas físicas o jurídicas, o por las Administraciones públicas y entes públicos de ellas dependientes, para fines distintos de los expresados en el artículo 26, se otorgará mediante a correspondiente autorización o concesión por la Agencia Estatal de Radiocomunicaciones.
+
+Las concesiones y autorizaciones que otorguen derecho al uso privativo del dominio público radioeléctrico estarán sujetas a lo dispuesto en este reglamento. No obstante, a las concesiones otorgadas mediante un procedimiento de licitación les será de aplicación lo dispuesto en la orden ministerial que apruebe el correspondiente pliego de bases de la adjudicación y en este reglamento en lo que no se oponga a aquélla.»
+
+Catorce. El artículo 31 queda redactado de la siguiente manera:
+
+«Artículo 31. Concesiones y autorizaciones para el uso privativo del dominio público radioeléctrico.
+
+El derecho al uso privativo del dominio público radioeléctrico distinto al regulado en el capítulo II de este título se obtendrá mediante concesión administrativa, en los términos establecidos en este capítulo. Para la obtención de una concesión demanial, el solicitante deberá acreditar su condición de operador.
+
+No obstante lo dispuesto en el párrafo anterior, el derecho al uso del dominio público radioeléctrico se podrá adquirir mediante la obtención de la correspondiente autorización administrativa cuando la utilización de dicho dominio se realice en régimen de autoprestación, salvo en el caso de las Administraciones públicas, que requerirán afectación demanial.
+
+Las concesiones para el uso privativo del dominio público radioeléctrico se otorgarán por un período inicial que finalizará el 31 de diciembre del año natural en que cumpla su quinto de vigencia, prorrogable, a petición del interesado, por períodos sucesivos de cinco años.
+
+Sin perjuicio de lo dispuesto en el artículo 6, las concesiones demaniales serán accesibles al público mediante el acceso, a través de Internet, al Registro público de radiofrecuencias, que llevará la Agencia Estatal de Radiocomunicaciones, conforme al artículo 47 de la Ley General de Telecomunicaciones.
+
+Una vez otorgada la concesión de uso del dominio público radioeléctrico, se notificará al particular, quien estará obligado al pago del Impuesto de Transmisiones Patrimoniales y Actos Jurídicos Documentados, conforme a su normativa reguladora.
+
+El titular de la concesión deberá acreditar, en el plazo de tres meses desde la notificación, el pago del impuesto a que se refiere el párrafo anterior. Una vez se produzca dicha acreditación, la concesión se inscribirá en el Registro público de radiofrecuencias en el plazo de 15 días. Transcurridos los tres meses sin que se haya producido la acreditación, la concesión será revocada mediante resolución del órgano competente para otorgarla conforme a lo establecido en el artículo 23.»
+
+Quince. El primer párrafo del artículo 32 queda redactado de la siguiente manera:
+
+«La transmisión del título habilitante para el uso del espectro requerirá la autorización del órgano administrativo que lo otorgó.»
+
+Dieciséis. El primer párrafo del artículo 33 queda redactado de la siguiente manera, y se añade un párrafo tercero, con la siguiente redacción:
+
+«La solicitud de autorización, junto a la propuesta técnica, se dirigirá a la Agencia Estatal de Radiocomunicaciones, en impreso formulario debidamente cumplimentado. Dicho impreso será aprobado por la Agencia Estatal de Radiocomunicaciones y publicado en el ''Boletín Oficial del Estado''.»
+
+«No se otorgarán derechos de uso privativo del dominio público radioeléctrico para su uso en autoprestación en los supuestos en que la demanda supere a la oferta y se aplique el procedimiento de licitación previsto en el artículo 37.»
+
+Diecisiete. Los dos primeros párrafos del artículo 34 quedan redactados del siguiente modo, y se sustituye en el tercer párrafo la expresión «El Ministerio de Fomento podrá:» por «La Agencia Estatal de Radiocomunicaciones podrá:»
+
+«Toda autorización se otorgará por un período de tiempo inicial que finalizará el 31 de diciembre del año natural en que cumpla su quinto de vigencia, prorrogable por períodos sucesivos de cinco años.
+
+Si el titular deseara prorrogar la autorización, deberá solicitarlo con tres meses de antelación a la finalización de su vigencia. Si al concluir el período de vigencia de la autorización la Administración no se hubiera pronunciado sobre la solicitud de prórroga, ésta se entenderá desestimada.»
+
+Dieciocho. El artículo 35 queda derogado.
+
+Diecinueve. La rúbrica de la sección 3.ª pasa a denominarse «Concesiones de dominio público radioeléctrico otorgadas mediante un procedimiento de licitación».
+
+Veinte. El artículo 37 queda redactado de la siguiente manera:
+
+«Artículo 37. Limitación del número de concesiones por razón del uso eficaz del espectro radioeléctrico.
+
+1\. Cuando sea preciso para garantizar el uso eficaz del espectro radioeléctrico, la Agencia Estatal de Radiocomunicaciones suspenderá el otorgamiento de concesiones y propondrá al Ministerio de Industria, Turismo y Comercio la limitación del número de concesiones demaniales que se otorguen sobre dicho dominio.
+
+2\. En el supuesto previsto en el apartado anterior, será de aplicación lo siguiente:
+
+a) El Ministerio de Industria, Turismo y Comercio llevará a cabo un trámite de audiencia para conocer la posible existencia de interesados en la prestación del servicio o el establecimiento y explotación de la red. En dicho trámite se recabará la opinión, aparte de los interesados, del Consejo de Consumidores y Usuarios.
+
+b) Tras el trámite anterior, el Ministerio de Industria, Turismo y Comercio adoptará, en su caso, la decisión de limitar el número de concesiones que se vayan a otorgar y suspenderá el otorgamiento de títulos habilitantes en el segmento de espectro afectado por dicha decisión.
+
+c) Mediante orden ministerial, previo informe de la Comisión del Mercado de las Telecomunicaciones, se aprobará el pliego de bases y la convocatoria de un procedimiento de licitación para el otorgamiento de las concesiones. En el citado pliego deberá establecerse:
+
+1.º La cantidad de espectro asociada, las características de su utilización, el plazo de vigencia de las concesiones, que no podrá exceder de 20 años prorrogables, o cualquier otra característica o condición para su uso efectivo.
+
+2.º Los requisitos y condiciones que hayan de cumplir los licitadores y los posibles adjudicatarios, que deberán tener la condición de operador en el momento de finalización del plazo de presentación de licitaciones.
+
+3.º El procedimiento de adjudicación, que podrá ser de concurso o subasta, y que respetará en todo caso los principios de publicidad, concurrencia y no discriminación.
+
+4.º Las condiciones en que deba prestarse el servicio o explotarse la red de comunicaciones electrónicas a que esté destinado el dominio público radioeléctrico adjudicado.
+
+d) En todo lo no previsto en el pliego de bases en relación con la convocatoria, adjudicación, modificación, transmisión y extinción de las concesiones otorgadas mediante este procedimiento, será de aplicación la legislación de contratos de las Administraciones públicas
+
+e) El procedimiento de licitación deberá resolverse y notificarse en un plazo máximo de ocho meses desde la publicación de la convocatoria.
+
+f) Las condiciones en que deba prestarse el servicio o explotarse la red mediante el uso del dominio público radioeléctrico adjudicado serán las previstas en la Ley General de Telecomunicaciones y su normativa de desarrollo, las específicas establecidas en el pliego de bases y las que el adjudicatario haya asumido en su propuesta.
+
+3\. La limitación del número de concesiones de dominio público radioeléctrico será revisable por el Ministerio de Industria, Turismo y Comercio, de oficio o a instancia de parte, en la medida en que desaparezcan las causas que la motivaron. En el caso de efectuarse dicha revisión, no habrá derecho a indemnización a favor de los operadores que hubieran obtenido sus concesiones mediante el procedimiento de licitación, sin perjuicio del derecho de dichos operadores a la cancelación de las garantías que, en su caso, hubiesen constituido para responder de compromisos asumidos en el procedimiento.»
+
+Veintiuno. Los artículos 38 y 39 quedan derogados.
+
+Veintidós. El apartado 1 del artículo 40 queda redactado de la siguiente manera y se añade un inciso final al antepenúltimo párrafo, con la siguiente redacción:
+
+«1. Cuando el procedimiento se inicie de oficio por la Administración, los recursos obtenidos podrán ser explotados en régimen de gestión directa o indirecta. En este último caso, la Agencia Estatal de Radiocomunicaciones propondrá al Ministerio de Industria, Turismo y Comercio la convocatoria del correspondiente concurso público. Todos los gastos derivados de este procedimiento se repercutirán al adjudicatario en el momento del otorgamiento del título habilitante.»
+
+«No obstante, la constitución de esta garantía no será exigible si, al otorgarse recursos órbita-espectro adicionales a los ya poseídos por el titular, se encontrara vigente una garantía constituida por él afecta a obligaciones ya cumplidas.»
+
+Veintitrés. El último párrafo del artículo 40 queda redactado de la siguiente manera y se añade un apartado 3, con la siguiente redacción:
+
+«Una vez obtenido el recurso, el Ministerio de Industria, Turismo y Comercio otorgará mediante adjudicación directa al peticionario el correspondiente título habilitante, el cual tendrá vigencia, en caso de lanzamiento de un satélite, durante su vida útil, sin que en ningún caso pueda exceder de 30 años desde la adjudicación.»
+
+«3. El derecho de uso del dominio público radioeléctrico sobre los recursos órbita-espectro en el ámbito de la soberanía española destinados a una misión gubernamental podrá ser cedido por su titular al tercero al que la Administración que tenga encomendada dicha misión designe. La cesión deberá ser aprobada por el Ministerio de Industria, Turismo y Comercio y se llevará a cabo en los términos fijados por éste, previo informe del titular de la misión gubernamental.
+
+La cesión a que se refiere el párrafo anterior será gratuita, y tendrá vigencia por el plazo total del título habilitante de los recursos órbita-espectro o, alternativamente, por la vida útil de la misión gubernamental.»
+
+Veinticuatro. El párrafo primero del artículo 42 queda redactado de la siguiente manera:
+
+«La utilización del dominio público radioeléctrico para la instalación y explotación de redes de transporte de señales de los servicios de radiodifusión sonora y de televisión requerirá la correspondiente concesión otorgada por la Administración del Estado.»
+
+Veinticinco. El artículo 43 queda derogado.
+
+Veintiséis. El artículo 44 queda redactado de la siguiente manera:
+
+«Artículo 44. Concepto, títulos habilitantes y régimen jurídico.
+
+Tendrán la consideración de eventos de corta duración la realización de pruebas técnicas, los de cobertura de acontecimientos deportivos y, en general, cualquier utilización del dominio público radioeléctrico por un período breve de tiempo.
+
+El régimen aplicable a las autorizaciones de dominio público radioeléctrico para eventos de corta duración será el establecido en el capítulo III de este título, con excepción de lo dispuesto en lo relativo a su duración, que será de un período máximo improrrogable de seis meses.»
+
+Veintisiete. Se añade una disposición adicional cuarta, con la siguiente redacción:
+
+«Disposición adicional cuarta. Servicios en los que se limita el número de concesiones demaniales.
+
+De conformidad con lo previsto en el artículo 37, se consideran servicios en los que, por ser precisa la garantía del uso eficiente del dominio público radioeléctrico, se limita el número de concesiones para el uso de dicho dominio:
+
+a) El servicio de telefonía móvil automática en su modalidad GSM.
+
+b) El servicio de comunicaciones móviles personales en su modalidad DCS 1800.
+
+c) El servicio de comunicaciones móviles de tercera generación UMTS.
+
+d) El servicio de distribución de vídeo vía radio mediante el sistema SDVM (sistema de distribución de vídeo multipunto).
+
+e) El servicio de comunicaciones móviles en grupos cerrados de usuarios con tecnología digital de ámbito nacional.»
+
+**Disposición final segunda. Modificación del Real Decreto 1029/2002, de 4 de octubre, por el que se establece la composición y el régimen de funcionamiento del Consejo Asesor de las Telecomunicaciones y de la Sociedad de la Información.**
+
+El Real Decreto 1029/2002, de 4 de octubre, por el que se establece la composición y el régimen de funcionamiento del Consejo Asesor de las Telecomunicaciones y de la Sociedad de la Información, se modifica en los siguientes términos:
+
+Uno. El párrafo primero del artículo 1 queda redactado de la siguiente manera:
+
+«El Consejo Asesor de las Telecomunicaciones y de la Sociedad de la Información, previsto en la disposición adicional quinta de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, es un órgano asesor del Gobierno en materia de telecomunicaciones y Sociedad de la Información.»
+
+Dos. El párrafo b) del artículo 2 queda redactado de la siguiente manera:
+
+«b) Conocer e informar los proyectos legislativos y reglamentarios, en aplicación de la Ley 32/2003,de 3 de noviembre, General de Telecomunicaciones.»
+
+Tres. El artículo 4 queda redactado de la siguiente manera:
+
+«Artículo 4. Vocales.
+
+1\. Serán vocales del Consejo Asesor de las Telecomunicaciones y de la Sociedad de la Información:
+
+A) En representación de la Administración General del Estado:
+
+a) Seis representantes del Ministerio de Industria, Turismo y Comercio, nombrados por el Presidente del Consejo, con categoría, al menos, de subdirector general o asimilado, de los que uno corresponderá necesariamente a la Dirección General de Telecomunicaciones y Tecnologías de la Información, otro a la Dirección General para el Desarrollo de la Sociedad de la Información, y otro será el Secretario del Consejo, que actuará, asimismo, como secretario de la Comisión Permanente.
+
+b) Además, serán vocales del Consejo, nombrados por el Presidente, a propuesta de los titulares de los departamentos respectivos, con categoría, al menos, de subdirector general o asimilado, en su caso:
+
+1.º Un representante de la Presidencia del Gobierno.
+
+2.º Un representante de cada departamento ministerial y de los ministros previstos por el artículo 4.2 de la Ley 50/1997, de 27 de noviembre, del Gobierno, si los hubiera.
+
+3.º Un representante de la Comisión Superior de Informática y para el impulso de la Administración electrónica.
+
+4.º Un representante de la Agencia Española de Protección de Datos.
+
+B) En representación de las Administraciones autonómica y local, serán designados por el Presidente del Consejo:
+
+a) Un representante de cada comunidad autónoma, propuesto por ésta.
+
+b) Dos representantes de la Administración local, propuestos por la asociación de entidades locales de ámbito estatal con mayor implantación.
+
+C) Por los industriales y comercializadores, designados por el Presidente del Consejo, a propuesta de las asociaciones empresariales del sector:
+
+a) Dos representantes de la industria de fabricación de equipos de telecomunicación.
+
+b) Un representante de los comercializadores e importadores de equipos de telecomunicación y de tecnologías de la información.
+
+c) Dos representantes de las asociaciones de los instaladores de telecomunicación.
+
+d) Dos representantes de la industria de fabricación de equipos y desarrollo de aplicaciones relacionados con la sociedad de la información.
+
+D) Por los prestadores de servicios de telecomunicación, de difusión y de la sociedad de la información, designados por el Presidente del Consejo, a propuesta de las entidades, empresas, asociaciones o centros directivos correspondientes:
+
+a) Por los prestadores de servicios de telecomunicaciones:
+
+1.º Dos representantes por los operadores titulares de concesiones de dominio público radioeléctrico con limitación de número, otorgadas mediante un procedimiento de licitación.
+
+2.º Un representante por cada entidad prestadora de las obligaciones de servicio público previstas en los artículos 22, 25.1 y 25.2.d) de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
+
+3.º Un representante de la asociación más representativa de los operadores no incluidos en el párrafo anterior.
+
+4.º Un representante de la entidad prestadora de la obligación de servicio público prevista en el apartado 1 de la disposición transitoria cuarta del Reglamento de desarrollo de la Ley 11/1998, de 24 de abril, General de Telecomunicaciones, en lo relativo al uso del dominio público radioeléctrico, aprobado por la Orden de 9 de marzo de 2000.
+
+b) Por los prestadores de servicios de difusión:
+
+1.º Un representante de la entidad prestadora del servicio público esencial de televisión, regulado por la Ley 4/1980, de 10 de enero, del Estatuto de la Radio y la Televisión.
+
+2.º Dos representantes de las entidades o sociedades prestadoras del servicio público esencial de televisión, regulado por la Ley 46/1983, de 26 de diciembre, reguladora del tercer canal de televisión.
+
+3.º Un representante de cada una de las sociedades concesionarias del servicio de televisión privada analógica de ámbito nacional, regulado por la Ley 10/1988, de 3 de mayo.
+
+4.º Un representante de las sociedades prestadoras del servicio de televisión por satélite.
+
+5.º Dos representantes de las sociedades titulares del servicio de difusión de televisión por cable regulado en la Ley 42/1995, de 22 de diciembre.
+
+6.º Dos representantes de las sociedades prestadoras del servicio de televisión digital por ondas terrestres de ámbito nacional, siempre que no gestionen otra modalidad del servicio de televisión.
+
+7.º Dos representantes de las sociedades prestadores del servicio de televisión privada de ámbito autonómico y local.
+
+8.º Tres representantes por los prestadores de servicios de radiodifusión sonora: uno, por el sector público estatal; otro, por el sector público autonómico, y un tercero, por el sector privado.
+
+c) Por los prestadores de servicio de la sociedad de la información:
+
+1.º Uno por los prestadores de servicios de certificación de firma electrónica de entre los que operan en la Administración.
+
+2.º Uno por el resto de prestadores de servicios de certificación de firma electrónica.
+
+3.º Uno por los prestadores de servicios de intermediación de la sociedad de la información.
+
+4.º Uno por la asociación más representativa de ámbito nacional de las empresas prestadoras de servicios de comercio electrónico.
+
+5.º Uno por la entidad gestora del registro de nombres de dominio de Internet bajo el código de país correspondiente a España (" .es").
+
+E) Por los usuarios:
+
+a) Dos representantes de las asociaciones de consumidores y usuarios, designados por el Presidente del Consejo, a propuesta del Consejo de Consumidores y Usuarios.
+
+b) Un representante de las asociaciones de usuarios de servicios de telecomunicaciones, designado por el Presidente del Consejo, a propuesta de éstas.
+
+c) Dos representantes de asociaciones representativas de usuarios de Internet, designados por el Presidente del Consejo, a propuesta de éstas.
+
+d) Un representante de la asociación más representativa de los usuarios con discapacidad a los que debe ser garantizada la prestación del servicio universal, de conformidad con el artículo 22.1.d) de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
+
+F) Por los sindicatos, cuatro representantes de las organizaciones sindicales, designados por el Presidente del Consejo, a propuesta de éstas. El número de representantes de cada organización sindical será proporcional al de los representantes obtenidos en las elecciones sindicales, en el ámbito estatal, en el sector de las telecomunicaciones y de la sociedad de la información.
+
+G) Por las corporaciones de derecho público en defensa de intereses profesionales o sectoriales, cuatro representantes:
+
+a) Uno por el Colegio Oficial de Ingenieros de Telecomunicación y otro por el Colegio Oficial de Ingenieros Técnicos de Telecomunicación, designados por el Presidente, a propuesta de cada uno de ellos.
+
+b) Uno por los colegios profesionales correspondientes a titulaciones de ingeniería no representados en el párrafo anterior, a propuesta de la Real Academia de Ingeniería.
+
+c) Uno por el Consejo Superior de Cámaras de Comercio, Industria y Navegación de España, a su propuesta.
+
+H) Hasta un máximo de cuatro vocales, designados por el Presidente del Consejo, entre personalidades de reconocido prestigio en el sector de las telecomunicaciones y de la sociedad de la información.
+
+2\. La representación de los vocales del Consejo Asesor en la Comisión Permanente de este órgano se efectuará conforme a lo establecido en el artículo 13.
+
+3\. La designación de los vocales, cuando se realice a propuesta de asociaciones o entidades, deberá ajustarse a la propuesta.»
+
+Cuatro. El apartado 1 del artículo 13 queda redactado de la siguiente manera:
+
+«1. La Comisión Permanente estará compuesta por los Vicepresidentes y los siguientes vocales:
+
+a) Seis del grupo del apartado A) del artículo 4.1, de los que tres corresponderán al Ministerio de Industria, Turismo y Comercio; uno, al Ministerio de Defensa; uno, al Ministerio de Administraciones Públicas, y uno, al Ministerio de Economía y Hacienda. De los tres primeros, uno pertenecerá a la Dirección General de Telecomunicaciones y Tecnologías de la Información; otro, a la Dirección General para el Desarrollo de la Sociedad de la Información, y el tercero será el Secretario del Consejo, que actuará, asimismo, como secretario de la Comisión Permanente.
+
+b) Dos del grupo del apartado B) del artículo 4.1, uno de los cuales corresponderá a las comunidades autónomas, propuesto por ellas, y otro a la Administración local, a su propuesta.
+
+c) Dos del grupo del apartado C) del artículo 4.1, de los cuales uno corresponderá a la industria de fabricación de equipos de telecomunicación, y el otro, a los comercializadores e importadores de equipos de telecomunicación y de tecnologías de la información.
+
+d) Cinco del grupo a) del apartado D) del artículo 4.1, distribuidos de la siguiente manera:
+
+1.º Uno por cada prestador de las obligaciones de servicio público de los artículos 22, 25.1 y 25.2.d) de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
+
+2.º Uno en representación de la asociación más representativa de los operadores no incluidos en el párrafo anterior.
+
+3.º Uno en representación del prestador de la obligación de servicio público prevista en el apartado 1 de la disposición transitoria cuarta del Reglamento relativo al uso del dominio público radioeléctrico.
+
+e) Cinco del grupo b) del apartado D) del artículo 4.1, distribuidos del siguiente modo:
+
+1.º Un representante de los prestadores públicos estatales de los servicios de radiodifusión y televisión.
+
+2.º Un representante de los prestadores públicos autonómicos de los servicios de radiodifusión y televisión.
+
+3.º Dos representantes de los prestadores de servicios de televisión privada incluidos en los apartados 4.º, 5.º, 6.º y 7.º del grupo D.b) del artículo 4.1.
+
+4.º Un representante del sector de la televisión privada analógica de ámbito nacional y del sector de la radiodifusión privada incluidos en los párrafos 3.º y 8.º del artículo 4.1.D).b).
+
+f) Dos por el grupo c) del apartado D) del artículo 4.1, de los cuales uno corresponderá a la entidad gestora del registro de nombres de dominio de Internet bajo el código (" .es"), y otro, al resto de entidades integradas en dicho grupo.
+
+g) Cuatro por el grupo del apartado E) del artículo 4.1, de los cuales corresponderá uno a cada uno de los grupos integrados en dicho apartado.
+
+h) Uno al grupo del apartado F) del artículo 4.1.
+
+i) Uno del grupo a) del apartado G), y otro del apartado H) del artículo 4.1.
+
+Los vocales de cada uno de los grupos y subgrupos de los apartados del artículo 4 elegirán de entre sus miembros al vocal o vocales que deban formar parte de la Comisión Permanente.
+
+El suplente de cada uno de los vocales y del Secretario de la Comisión Permanente será el mismo que tenga dicha condición respecto de los vocales y el Secretario del Pleno del Consejo Asesor, de acuerdo con lo establecido en el artículo 6.»
+
+Cinco. El segundo párrafo del apartado 1 del artículo 14 queda redactado de la siguiente manera:
+
+«Estas ponencias, que tendrán la consideración de grupos de trabajo del Consejo Asesor, estarán presididas por uno de los miembros del Consejo, designado por su Presidente, e integradas por aquellos que decida la Comisión Permanente. Podrán estar asistidas por personas vinculadas al sector de las telecomunicaciones y de la sociedad de la información o expertas en los asuntos que sean objeto de estudio por la ponencia, designadas por el presidente de ésta.»
+
+Seis. Queda derogado el apartado 3 del artículo 14.
+
+**Disposición final tercera. Modificación del Reglamento que establece el procedimiento para la evaluación de la conformidad de los aparatos de telecomunicaciones, aprobado por el Real Decreto 1890/2000, de 20 de noviembre.**
+
+El Reglamento que establece el procedimiento para la evaluación de la conformidad de los aparatos de telecomunicaciones, aprobado por el Real Decreto 1890/2000, de 20 de noviembre, se modifica en los siguientes términos:
+
+Uno. El artículo 10 queda redactado de la siguiente manera:
+
+«Artículo 10. Interfaces reglamentadas.
+
+La Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información publicará como resolución en el ''Boletín Oficial del Estado'' las interfaces reglamentadas en España que hayan sido notificadas a la Comisión Europea.»
+
+Dos. El párrafo cuarto del artículo 21 queda redactado de la siguiente manera:
+
+«Como consecuencia de la notificación recibida, se comunicará al interesado si procede la puesta en el mercado nacional y, en su caso, las restricciones de uso o limitaciones geográficas, para el uso del citado equipo.»
+
+Tres. El apartado 3 del artículo 30 queda redactado de la siguiente manera:
+
+«3. Si el fabricante, o su mandatario establecido en la Unión Europea o la persona responsable de la puesta en el mercado, desea evaluar la conformidad en virtud de lo dispuesto en este capítulo, presentará los documentos anteriormente descritos ante un organismo notificado de la Unión Europea. En el caso de optar por la intervención de la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información como organismo notificado, presentará el expediente técnico de construcción, acompañado de su manual de usuario, ante dicha Secretaría de Estado, y solicitará la emisión del informe técnico tras la revisión del expediente técnico de construcción, para lo que utilizará, de forma voluntaria, el modelo de solicitud establecido en el anexo III.1.»
+
+Cuatro. Los apartados 5, 6 y 7 del artículo 30 quedan redactados de la siguiente manera:
+
+«5. El organismo notificado español elegido revisará el expediente técnico de construcción para verificar si se cumple todo lo establecido en este reglamento y podrá emitir, en el plazo máximo de 28 días naturales a partir de la recepción del expediente, un dictamen que será enviado al fabricante del aparato, a su mandatario establecido en la Unión Europea, o a la persona responsable de la puesta en el mercado, e indicará si se autoriza su puesta en el mercado por cumplimiento de los requisitos esenciales establecidos en el momento de la emisión del dictamen o, por el contrario, si no se autoriza la puesta en el mercado por considerar que con la documentación presentada no se puede deducir que el aparato es conforme con los requisitos esenciales que le son aplicables.
+
+6\. Una vez recibido el dictamen por el solicitante, y en el caso de ser positivo, el aparato podrá ser puesto en el mercado europeo, tras haber cumplimentado lo dispuesto en el artículo 21. En el caso de dirigirse a la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información para la aplicación de este procedimiento, se puede realizar la solicitud indicada en este capítulo y la notificación señalada en el artículo 21, de modo simultáneo.
+
+7\. Si en el plazo de cuatro semanas, contadas a partir de la recepción del expediente por el organismo notificado, no se hubiese obtenido respuesta en ningún sentido, el fabricante o su mandatario establecido en la Unión Europea, o el responsable de la puesta en el mercado, podrán poner en el mercado el aparato, marcado como se ha indicado anteriormente y en las condiciones previstas en este reglamento. En el caso de haber seleccionado la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información como organismo notificado, el plazo de los 28 días naturales quedará interrumpido si la documentación presentada es incompleta, mientras sea subsanada por el solicitante del dictamen técnico, de conformidad con el artículo 42.5.a) de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.»
+
+Cinco. El segundo párrafo del artículo 32 queda redactado de la siguiente manera:
+
+«En el caso de elegir a la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información, presentará la solicitud ante dicha Secretaría de Estado. A tal efecto, podrá utilizarse el modelo que se incluye en el anexo III.2.»
+
+Seis. El primer párrafo del apartado 2 del artículo 33 queda redactado de la siguiente manera:
+
+«2. El organismo notificado hará evaluar, en particular, si el sistema de control de calidad asegura la conformidad de los aparatos con lo dispuesto en este reglamento, teniendo en cuenta la documentación presentada, incluidos, en su caso, los resultados de los ensayos facilitados por el fabricante.»
+
+Siete. Los apartados 3 y 4 del artículo 33 quedan redactados de la siguiente manera:
+
+«3. Cuando el organismo notificado sea la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información, ésta estudiará la documentación indicada en el apartado 1 de este artículo y el resultado de la evaluación realizada según los criterios expuestos en el apartado 2, y emitirá la correspondiente autorización en un plazo no superior a dos meses. En el supuesto de que la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información hubiera establecido requisitos adicionales, la autorización se concederá en función de la evaluación de la entidad acreditada y del cumplimiento de los citados requisitos.
+
+4\. El fabricante se comprometerá a cumplir las obligaciones derivadas del sistema de calidad implementado, tal y como haya sido aprobado, y a mantenerlo de forma que conserve su adecuación y eficacia.
+
+El fabricante o su mandatario informará al organismo notificado y a la entidad acreditada que le haya evaluado de cualquier adecuación que pretenda introducir en el sistema de calidad.
+
+El organismo notificado hará evaluar las modificaciones propuestas y decidirá si el sistema de calidad modificado sigue cumpliendo los requisitos indicados anteriormente o, en caso necesario, efectuar una nueva evaluación, y comunicará su decisión al fabricante. La notificación contendrá las conclusiones del control y la decisión motivada de la evaluación.»
+
+Ocho. La rúbrica y el apartado 1 del artículo 34 quedan redactados de la siguiente manera:
+
+«Artículo 34. Vigilancia CE del sistema de calidad.
+
+1\. La finalidad de la vigilancia es cerciorarse de que el fabricante cumple correctamente con las obligaciones derivadas del sistema de calidad aprobado, que lo mantiene y lo aplica.
+
+Para ello, el organismo notificado efectuará o hará efectuar, en las instalaciones del fabricante, las inspecciones y auditorías oportunas, y entregará al fabricante un informe con los resultados obtenidos.»
+
+Nueve. El apartado 2 del artículo 41 queda redactado de la siguiente manera:
+
+«2. En caso de disconformidad, se propondrá la incoación del correspondiente expediente sancionador, sin perjuicio de la aplicación de la medida cautelar prevista en el artículo 41 bis.»
+
+Diez. Queda suprimido el apartado 5 del artículo 41.
+
+Once. Se añade un artículo 41 bis, con la siguiente redacción:
+
+«Artículo 41 bis. Procedimiento de retirada del mercado de equipos y aparatos.
+
+La puesta en el mercado de equipos y aparatos de telecomunicación que no reúnan los requisitos que les son aplicables para su puesta en el mercado, de conformidad con lo establecido en este reglamento, que supongan un riesgo para la seguridad o salud de las personas o hayan causado o se considere justificadamente que puedan causar interferencias perjudiciales, o daños o perjuicios graves a la red, así como aquellos equipos y aparatos de telecomunicación para los cuales la Comisión Europea haya notificado una cláusula de salvaguardia, de acuerdo con lo establecido en el artículo 42, podrá dar lugar a la adopción por los Servicios de la Inspección de Telecomunicaciones de la medida cautelar consistente en la retirada del mercado de los correspondientes equipos y aparatos.
+
+Dicha medida se mantendrá hasta la incoación del correspondiente expediente sancionador por los Servicios de la Inspección de Telecomunicaciones o hasta tanto se proceda, en su caso, a la verificación de la conformidad con los requisitos establecidos en este real decreto, sin perjuicio del dictamen de la Comisión Europea sobre las medidas de salvaguarda sobre aparatos de telecomunicaciones adoptadas por otros Estados miembros de la Unión Europea.
+
+El procedimiento de retirada del mercado de los equipos y aparatos podrá realizarse por alguna de las siguientes modalidades:
+
+a) Incautación y depósito en instalaciones o dependencias de la Administración competente.
+
+b) Retirada de los equipos y aparatos por cuenta del fabricante o, en su defecto, por el responsable de su comercialización o puesta en el mercado.
+
+El procedimiento de retirada del mercado de equipos y aparatos se sujetará a lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y se podrá acordar por razones de interés público la aplicación del procedimiento de tramitación de urgencia.
+
+De la medida cautelar adoptada se dará conocimiento a la Comisión Europea, a las asociaciones de fabricantes afectados, así como al Instituto Nacional del Consumo y al Consejo de Consumidores y Usuarios.»
+
+Doce. El artículo 46 queda redactado de la siguiente manera:
+
+«Artículo 46. Organismo español notificado.
+
+En España se designa a la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información como organismo notificado para la aplicación de las disposiciones de los capítulos III, IV y V del título III de este reglamento. El procedimiento de designación de otros organismos notificados en España se regulará mediante orden ministerial, en la que se determinará:
+
+a) El alcance de la designación.
+
+b) Los requisitos para obtener la designación.
+
+c) Las causas de extinción de la designación.
+
+d) Los derechos y obligaciones de las entidades designadas.»
+
+Trece. Se añade una nueva disposición adicional al Real Decreto 1890/2000, de 20 de noviembre, por el que se aprueba el Reglamento que establece el procedimiento para la evaluación de la conformidad de los aparatos de telecomunicaciones, con la siguiente redacción:
+
+«Disposición adicional segunda. Notificación al Instituto Nacional del Consumo.
+
+Sin perjuicio del cumplimiento de lo dispuesto en el Reglamento que aprueba este Real Decreto, en aquellos casos en que los equipos y aparatos de telecomunicaciones supongan un riesgo grave para la salud y seguridad de los consumidores, por la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información, se remitirá la notificación correspondiente al Instituto Nacional del Consumo, según establece el Real Decreto 1801/2003, de 26 de diciembre, sobre seguridad general de los productos, salvo que se considere que el riesgo grave tiene efectos limitados al territorio español y no se prevea que pueda ser de interés su conocimiento en el ámbito de la Comunidad Europea.»
+
+**Disposición final cuarta. Modificación del Reglamento que establece condiciones de protección del dominio público radioeléctrico, restricciones a las emisiones radioeléctricas y medidas de protección sanitaria frente a emisiones radioeléctricas, aprobado por el Real Decreto 1066/2001, de 28 de septiembre.**
+
+El Reglamento que establece condiciones de protección del dominio público radioeléctrico, restricciones a las emisiones radioeléctricas y medidas de protección sanitaria frente a emisiones radioeléctricas, aprobado por el Real Decreto 1066/2001, de 28 de septiembre, se modifica en los siguientes términos:
+
+Uno. El párrafo primero del apartado 1 del artículo 8 queda redactado de la siguiente manera:
+
+«1. Los operadores que establezcan las redes o presten los servicios que se relacionan a continuación deberán presentar un estudio detallado, realizado por un técnico competente, que indique los niveles de exposición radioeléctrica en áreas cercanas a sus instalaciones radioeléctricas fijas en las que puedan permanecer habitualmente personas. Dichas redes o servicios son los siguientes:
+
+a) Redes de difusión de los servicios de radiodifusión sonora y televisión.
+
+b) Servicios de telefonía móvil automática analógica.
+
+c) Servicio de telefonía móvil automática GSM.
+
+d) Servicio de comunicaciones móviles personales DCS-1800.
+
+e) Servicio de comunicaciones móviles de tercera generación.
+
+f) Servicio de radiobúsqueda.
+
+g) Servicio de comunicaciones móviles en grupo cerrado de usuarios.
+
+h) Redes del servicio fijo por satélite, del servicio móvil por satélite y del servicio de radiodifusión por satélite.
+
+i) Servicio de acceso vía radio LMDS.»
+
+Dos. El párrafo segundo del apartado 3 del artículo 9 queda redactado de la siguiente manera:
+
+«Asimismo, los operadores a los que se refiere el apartado 1 del artículo 8 deberán remitir al Ministerio de Industria, Turismo y Comercio, en el primer trimestre de cada año natural, una certificación emitida por un técnico competente de que se han respetado los límites de exposición establecidos en el anexo II durante el año anterior. Este ministerio podrá ampliar esta obligación a titulares de otras instalaciones radioeléctricas.»
+
+**Disposición final quinta. Facultades de desarrollo.**
+
+Se autoriza al Ministro de Industria, Turismo y Comercio a dictar las disposiciones necesarias para el desarrollo y aplicación de este real decreto.
+
+**Disposición final sexta. Título competencial.**
+
+Este real decreto se dicta al amparo de la competencia exclusiva sobre telecomunicaciones reconocida en el artículo 149.1.21.ª de la Constitución.
+
+**Disposición final séptima. Entrada en vigor.**
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 15 de abril de 2005.
+
+JUAN CARLOS R.
+
+El Ministro de Industria, Turismo y Comercio,
+
+JOSÉ MONTILLA AGUILERA
+
+## REGLAMENTO SOBRE LAS CONDICIONES PARA LA PRESTACIÓN DE SERVICIOS DE COMUNICACIONES ELECTRÓNICAS, EL SERVICIO UNIVERSAL Y LA PROTECCIÓN DE LOS USUARIOS
+
+### TÍTULO I — Disposiciones generales
+
+**Artículo 1. Objeto del reglamento.**
+
+El objeto de este reglamento es la regulación de las condiciones para la prestación de servicios o la explotación de redes de comunicaciones electrónicas, en desarrollo del capítulo I del título II de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, y de las obligaciones de servicio público y los derechos y obligaciones de carácter público aplicables en desarrollo del título III de dicha ley.
+
+**Artículo 2. Sujetos obligados.**
+
+Los derechos y obligaciones regulados en este reglamento serán aplicables a los operadores y, sin perjuicio de la aplicación del régimen sancionador del título VIII de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, a los que, sin haber efectuado la notificación a que se refiere el artículo 6 de dicha ley, exploten redes públicas de comunicaciones electrónicas o presten servicios de comunicaciones electrónicas disponibles al público.
+
+Lo dispuesto en el capítulo I del título V de este reglamento será también de aplicación a quienes, sin estar comprendidos en el párrafo anterior, realicen actividades reguladas en la normativa sobre telecomunicaciones.
+
+**Artículo 3. Régimen jurídico.**
+
+El régimen jurídico general aplicable en la explotación de las redes y prestación de los servicios de comunicaciones electrónicas será el regulado en la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, en este reglamento y, en los términos previstos en el artículo 20 de la ley anteriormente citada, el régimen establecido para la concesión de servicio público del texto refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto Legislativo 2/2000, de 16 de junio.
+
+### TÍTULO II — Explotación de redes y prestación de servicios de comunicaciones electrónicas en régimen de libre competencia
+
+#### CAPÍTULO I — Régimen general de explotación de redes y de prestación de servicios de comunicaciones electrónicas
+
+**Artículo 4. Requisitos generales.**
+
+1\. La explotación de las redes y la prestación de servicios de comunicaciones electrónicas se realizará en régimen de libre competencia, sin más limitaciones que las establecidas en la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, en este reglamento y en el resto de disposiciones que la desarrollen.
+
+Conforme al artículo 8.4 de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, en la explotación de redes o servicios de comunicaciones electrónicas por las Administraciones públicas con contraprestación económica serán de aplicación las condiciones impuestas, en su caso, por la Comisión del Mercado de las Telecomunicaciones para garantizar la libre competencia.
+
+La prestación transitoria por las entidades locales a sus ciudadanos de servicios de comunicaciones electrónicas de interés general sin contraprestación económica precisará su comunicación previa a la Comisión del Mercado de las Telecomunicaciones. Cuando ésta detecte que dicha prestación afecta al mercado, en función de la importancia de los servicios prestados, de la existencia en ese ámbito territorial de condiciones de mercado que permitan el acceso a dichos servicios o de la distorsión de la libre competencia, podrá imponer condiciones específicas a dichas entidades en la prestación de los servicios conforme al párrafo anterior.
+
+2\. Podrán explotar redes y prestar servicios de comunicaciones electrónicas a terceros las personas físicas o jurídicas nacionales de un Estado miembro de la Unión Europea o con otra nacionalidad cuando, en el segundo caso, así esté previsto en los acuerdos internacionales que vinculen al Reino de España. Para el resto de personas físicas o jurídicas, el Gobierno podrá autorizar excepciones de carácter general o particular a la regla anterior.
+
+3\. En todo caso, las personas físicas o jurídicas que exploten redes o presten servicios de comunicaciones electrónicas a terceros deberán designar una persona responsable domiciliada en España a los efectos de notificaciones, sin perjuicio de lo que puedan prever los acuerdos internacionales. Se entenderá que el domicilio del representante coincide con el domicilio a los efectos de notificaciones de la persona representada.
+
+4\. La adquisición de los derechos de uso del dominio público radioeléctrico, de ocupación del dominio público o de la propiedad privada y de los recursos de numeración, direccionamiento o denominación necesarios para la explotación de redes o para la prestación de servicios de comunicaciones electrónicas deberá realizarse conforme a lo dispuesto en su normativa específica.
+
+**Artículo 5. Notificación a la Comisión del Mercado de las Telecomunicaciones.**
+
+1\. Los interesados en la explotación de una determinada red o en la prestación de un determinado servicio de comunicaciones electrónicas deberán, con anterioridad al inicio de la actividad, notificarlo fehacientemente a la Comisión del Mercado de las Telecomunicaciones, incluyendo la información que se señala en el apartado 5. Una vez realizada la notificación, el interesado adquirirá condición de operador y podrá comenzar la prestación del servicio o la explotación de la red.
+
+2\. Los operadores deberán notificar a la Comisión del Mercado de las Telecomunicaciones cada tres años, contados desde la notificación inicial, su intención de continuar con la prestación o explotación de la red o servicio. La condición de operador se mantendrá en tanto no se extinga conforme a lo establecido en el artículo 6.
+
+3\. Si la notificación no reúne los requisitos que se señalan en este artículo y no hubieran sido oportunamente subsanados en su caso los defectos formales, la Comisión del Mercado de las Telecomunicaciones, en un plazo no superior a 15 días, dictará resolución motivada, y la notificación se tendrá por no realizada. Contra dicha resolución podrá interponerse recurso contencioso-administrativo, de acuerdo con la ley reguladora de dicha jurisdicción.
+
+4\. No estarán sujetos a la obligación de la notificación:
+
+a) La explotación de redes y la prestación de servicios de comunicaciones electrónicas en régimen de autoprestación.
+
+b) Los servicios de comunicaciones electrónicas y las instalaciones de seguridad o intercomunicación que, sin conexión a redes exteriores y sin utilizar el dominio público radioeléctrico, presten servicio a un inmueble, a una comunidad de propietarios o dentro de una misma propiedad privada.
+
+c) Los servicios de comunicaciones electrónicas establecidos entre predios de un mismo titular.
+
+5\. En la notificación prevista en el apartado 1 el interesado deberá incluir la siguiente información, junto con la documentación que acredite su autenticidad:
+
+a) Cuando se trate de persona física:
+
+1.º Nombre y apellidos y, en su caso, los de la persona que lo represente.
+
+2.º Número del documento nacional de identidad o, si fuera extranjera, la nacionalidad y el número de pasaporte.
+
+3.º Domicilio en España a los efectos de notificaciones.
+
+4.º Documentación que acredite la capacidad y representación del representante, en su caso.
+
+b) Cuando se trate de persona jurídica:
+
+1.º Razón social.
+
+2.º Número de identificación fiscal y datos registrales.
+
+3.º Domicilio en España a los efectos de notificaciones.
+
+4.º Nombre y apellidos de la persona responsable a los efectos de notificaciones.
+
+5.º Documentación que acredite la capacidad y representación del representante.
+
+Para personas jurídicas extranjeras nacionales de Estados miembros de la Unión Europea y de Estados signatarios del Acuerdo sobre el Espacio Económico Europeo, la documentación que acredite su capacidad de obrar consistirá en una certificación que acredite la inscripción en los registros que, de acuerdo con la legislación en cada Estado, sea preceptiva. Para el resto de personas jurídicas extranjeras será necesaria la presentación de una certificación expedida por la respectiva representación diplomática española en la que se haga constar que figuran inscritas en el Registro local profesional, comercial o análogo o, en su defecto, que actúan legalmente y con habitualidad en el ámbito de las actividades correspondientes.
+
+c) En caso de ser una persona nacional de un Estado que no sea miembro de la Unión Europea, indicación del convenio internacional que le habilita para explotar redes o prestar servicios de comunicaciones electrónicas en España o, en su defecto, indicación del acuerdo del Consejo de Ministros que le autorice de forma excepcional.
+
+d) Descripción de la red o servicio que el interesado tiene intención de explotar o prestar, que deberá incluir:
+
+1.º Breve descripción de la ingeniería y diseño de red, en su caso.
+
+2.º Tipo de tecnología o tecnologías empleadas.
+
+3.º Descripción de las medidas de seguridad y confidencialidad que se prevén implantar en la red, en su caso.
+
+4.º Descripción funcional de los servicios.
+
+5.º Oferta de servicios y su descripción comercial.
+
+e) La fecha prevista para el inicio de la actividad.
+
+f) Sumisión a tribunales españoles y, si así lo desea el interesado, al arbitraje de la Comisión del Mercado de las Telecomunicaciones, en los términos establecidos en su reglamento y en la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, para resolver las controversias que surjan en el ejercicio de su actividad.
+
+g) Declaración responsable de cumplimiento de los requisitos exigibles.
+
+**Artículo 6. Extinción de la habilitación.**
+
+1\. La habilitación para la explotación de redes o la prestación de servicios de comunicaciones electrónicas se extinguirá por las siguientes causas:
+
+a) El cese en la actividad del operador habilitado, que deberá notificarse a la Comisión del Mercado de las Telecomunicaciones.
+
+b) La extinción de la personalidad del operador.
+
+c) Por sanción administrativa firme, de acuerdo con lo establecido en el título VIII de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
+
+d) Por la falta de notificación a la Comisión del Mercado de las Telecomunicaciones de la intención del operador de continuar con la prestación o explotación de la red o servicio, que, conforme al artículo 5.2, debe efectuarse cada tres años. Para ello, se tramitará previamente un procedimiento contradictorio conforme al apartado siguiente, en el que se aprecie si se ha producido el cese en la actividad del operador.
+
+2\. La extinción de la condición de operador se establecerá por resolución de la Comisión del Mercado de las Telecomunicaciones, tras la tramitación del oportuno procedimiento. Dicho procedimiento será iniciado de oficio, en los siguientes términos:
+
+a) En el supuesto del párrafo a) del apartado 1, tras la recepción de la notificación por el interesado.
+
+b) En el supuesto del párrafo b), tras haber recibido noticia de la extinción de la personalidad.
+
+c) En el supuesto del párrafo c), tras la recepción de la comunicación de la sanción impuesta por el Ministerio de Industria, Turismo y Comercio o, en su caso, tras la imposición de la sanción por la Comisión del Mercado de las Telecomunicaciones o por la Agencia Española de Protección de Datos.
+
+d) En el supuesto del párrafo d), una vez haya transcurrido un mes desde la finalización del correspondiente plazo de tres años.
+
+Las resoluciones por las que se declare la extinción de la condición de operador serán comunicadas al Ministerio de Industria, Turismo y Comercio.
+
+#### CAPÍTULO II — Registro de operadores
+
+**Artículo 7. Objeto del Registro de operadores.**
+
+1\. El Registro de operadores de redes y servicios de comunicaciones electrónicas tiene carácter administrativo, es de ámbito estatal, depende de la Comisión del Mercado de las Telecomunicaciones y su llevanza corresponderá, en los términos establecidos por este reglamento, al órgano que determinen las normas reguladoras de dicha Comisión.
+
+2\. El Registro de operadores (...) tiene por objeto la inscripción de las personas físicas o jurídicas que hayan realizado la notificación prevista en el artículo 5, de la red o servicio de comunicaciones electrónicas que pretenda explotar o prestar, de las condiciones aplicables al ejercicio de su actividad y de sus modificaciones.
+
+3\. La inscripción en el Registro de operadores tendrá carácter declarativo.
+
+**Artículo 8. Acceso al registro y expedición de certificaciones.**
+
+1\. El Registro de operadores será público. Los asientos registrales contenidos en él serán de libre acceso para su consulta por cualquier persona que lo solicite.
+
+Podrá también accederse a la consulta directa de los archivos y libros registrales. A estos efectos, el encargado del registro facilitará a los interesados la consulta de los asientos por medios informáticos instalados en la oficina del registro y, en su caso, a través de la página web de la Comisión del Mercado de las Telecomunicaciones.
+
+2\. Cualquier persona física o jurídica podrá solicitar certificaciones de operadores y demás actos inscritos. Las certificaciones registrales serán el único medio de acreditar fehacientemente el contenido de los asientos registrales. La expedición de certificaciones a instancia de parte dará lugar a la percepción de las tasas correspondiente con arreglo a lo previsto en la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, y en sus normas de desarrollo.
+
+**Artículo 9. Estructura del registro.**
+
+1\. En el registro se llevarán libros de registro con la diligencia de apertura firmada por el Presidente de la Comisión del Mercado de las Telecomunicaciones y con expresión de los folios que contienen, que estarán numerados, sellados y rubricados. Se abrirá, en principio, un folio para cada operador.
+
+2\. A cada operador se le asignará en el libro correspondiente un número de inscripción que será el del folio en el que se inscriba. Dicho folio irá seguido de cuantos otros sean necesarios, ordenados, a su vez, con indicación del número que haya correspondido al folio inicial, seguido de otro que reflejará el número correlativo de folios que se precisen para la inscripción de las modificaciones que procedan.
+
+3\. Se podrán utilizar los libros auxiliares, archivos, cuadernos o legajos que el encargado del registro considere oportunos para su buen funcionamiento.
+
+4\. Todo lo previsto en los apartados anteriores podrá ser realizado por medios informáticos, siempre que éstos cuenten con el correspondiente soporte documental.
+
+**Artículo 10. Inscripción en el registro.**
+
+La primera inscripción será realizada de oficio por la Comisión del Mercado de las Telecomunicaciones en el plazo de 15 días contados desde la recepción de la notificación a que se refiere el artículo 5, siempre que cumpla todos los requisitos establecidos en dicho artículo. En dicha inscripción se consignarán los siguientes datos:
+
+a) Respecto del operador:
+
+1.º Nombre y apellidos o, en su caso, denominación o razón social, su nacionalidad y domicilio.
+
+2.º Los datos relativos a la inscripción en el Registro Mercantil, en su caso.
+
+3.º Su número o código de identificación fiscal, según proceda.
+
+4.º El domicilio de la persona inscrita y el señalado a los efectos de notificaciones conforme a lo previsto en el artículo 4.3.
+
+5.º El nombre y demás datos personales de su representante, en su caso.
+
+6.º Nombre y apellidos de la persona responsable a los efectos de notificaciones.
+
+b) En relación con la red o servicio de comunicaciones electrónicas que se pretenda explotar o prestar, se hará constar la fecha prevista de inicio del servicio y cuanta información haya tenido que ser aportada por el interesado, siempre que no tenga carácter confidencial.
+
+**Artículo 11. Declaración normalizada de haberse producido la notificación e inscripción.**
+
+Sin perjuicio de que las resoluciones de inscripción en el registro surtan los efectos de declaración normalizada de que el operador ha presentado la notificación, el operador podrá, en cualquier momento posterior, solicitar a la Comisión del Mercado de las Telecomunicaciones que emita una declaración normalizada que confirme que este ha presentado la notificación a la que se refiere el artículo 6 de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, y que ha resultado inscrito en el Registro de operadores. La declaración detallará las circunstancias en que el operador tiene derecho a ocupar el dominio público o privado para la instalación de redes de comunicaciones electrónicas, negociar la interconexión y obtener el acceso o la interconexión.
+
+Las declaraciones normalizadas serán emitidas por el Secretario de la Comisión del Mercado de las Telecomunicaciones, de acuerdo con el modelo aprobado por la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información, en el plazo de una semana desde que la solicitud haya tenido entrada en el registro de la Comisión.
+
+**Artículo 12. Modificación de los datos inscritos.**
+
+1\. Una vez practicada la primera inscripción de un operador, se consignarán en el Registro cuantas modificaciones se produzcan respecto de los datos inscritos, tanto en relación con el titular como con la red o servicio de comunicaciones electrónicas que se pretenda explotar o prestar.
+
+2\. A los efectos de lo dispuesto en el apartado anterior, el operador estará obligado a comunicar a la Comisión del Mercado de las Telecomunicaciones las modificaciones que se produzcan respecto de los datos inscritos y a aportar la documentación que lo acredite fehacientemente. La comunicación deberá realizarse en el plazo máximo de un mes desde el día en que se produzca la modificación.
+
+Cuando la modificación tenga su origen en un acto emanado del Ministerio de Industria, Turismo y Comercio o de la Comisión del Mercado de las Telecomunicaciones, la inscripción se realizará de oficio por esta última. A estos efectos, el Ministerio de Industria, Turismo y Comercio remitirá a la Comisión del Mercado de las Telecomunicaciones la correspondiente documentación.
+
+3\. En el caso de que la inscripción o sus modificaciones no pudieran practicarse por insuficiencia de los documentos aportados por el interesado, se le requerirá para que los complete en el plazo de 10 días.
+
+4\. Transcurrido el plazo para comunicar las modificaciones al que se refiere el apartado 2 o el de subsanación establecido en el apartado 3 sin que tal comunicación o subsanación se hayan producido, podrá iniciarse un expediente sancionador conforme a lo dispuesto en el título VIII de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
+
+**Artículo 13. Otros datos incluidos en el registro.**
+
+1\. Se practicará nota de oficio al margen de la inscripción correspondiente a los operadores que recoja la imposición de cualquier sanción firme impuesta de conformidad con el título VIII de la Ley 32/2003, de 3 de noviembre, y, en particular, se hará constar la inhabilitación del operador y la clausura provisional de instalaciones.
+
+A los efectos de lo establecido en este apartado, el Ministerio de Industria, Turismo y Comercio y la Agencia Española de Protección de Datos comunicarán a la Comisión del Mercado de las Telecomunicaciones las resoluciones firmes y actos que, en el marco de sus respectivas competencias, impongan las sanciones y las medidas cautelares a que se refiere el párrafo anterior.
+
+2\. Asimismo, se hará constar, mediante nota practicada de oficio, si el operador se somete al arbitraje de la Comisión del Mercado de las Telecomunicaciones, en los términos establecidos en su reglamento y en la Ley 32/2003, de 3 de noviembre, para resolver las controversias que surjan en el ejercicio de su actividad.
+
+3\. Igualmente, podrán inscribirse como anotaciones preventivas las situaciones extrarregistrales que puedan afectar a los hechos inscritos.
+
+4\. Las notas y las anotaciones preventivas se cancelarán cuando conste que han dejado de concurrir los presupuestos que determinaron su práctica. En particular, las notas relativas a las sanciones se cancelarán una vez transcurridos los plazos establecidos en el artículo 57.2 de la Ley 32/2003, de 3 de noviembre.
+
+**Artículo 14. Cancelación de la inscripción.**
+
+1\. La inscripción registral de un operador se cancelará cuando su habilitación se extinga por cualquiera de las causas establecidas en el artículo 6.2.
+
+2\. La cancelación de la inscripción se practicará de oficio por el encargado del registro al concluir el expediente previsto en el artículo 6.2.
+
+3\. El Ministerio de Industria, Turismo y Comercio y la Agencia Española de Protección de Datos comunicarán a la Comisión del Mercado de las Telecomunicaciones las resoluciones firmes en las que se acuerde la pérdida de la habilitación del operador, para que la citada entidad proceda a la cancelación de la correspondiente inscripción registral.
+
+#### CAPÍTULO III — Condiciones para la explotación de redes y la prestación de servicios de comunicaciones electrónicas
+
+**Artículo 15. Derechos de los operadores.**
+
+Los operadores de redes y servicios de comunicaciones electrónicas tendrán los siguientes derechos:
+
+a) Negociar y, en su caso, obtener la interconexión o el acceso a las redes y a los recursos asociados de otros operadores, conforme a la regulación establecida en la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, y en la normativa sobre interconexión.
+
+b) Obtener derechos de uso de la numeración, direccionamiento y denominación, de acuerdo con la regulación establecida en la Ley 32/2003, de 3 de noviembre, en el resto de normativa sobre numeración y en los planes nacionales de numeración, direccionamiento y denominación.
+
+c) Obtener derechos de uso del dominio público radioeléctrico, conforme a la regulación establecida en la Ley 32/2003, de 3 de noviembre, y en sus disposiciones de desarrollo.
+
+d) Obtener derechos de ocupación del dominio público y de la propiedad privada para la instalación de las redes de comunicaciones electrónicas, conforme a lo establecido en la Ley 32/2003, de 3 de noviembre, en este reglamento y el resto de normativa reguladora de la ocupación del dominio público y la propiedad privada.
+
+e) Aquellos otros derechos reconocidos por la Ley 32/2003, de 3 de noviembre, por este reglamento y por el resto de disposiciones que la desarrollen.
+
+**Artículo 16. Condiciones que deben cumplir los operadores.**
+
+1\. Los operadores estarán obligados al cumplimiento de las condiciones que se imponen en la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, en este reglamento y en el resto de la normativa que la desarrolle.
+
+2\. Las condiciones que se establecen en este capítulo se entienden sin perjuicio de otras condiciones que estén obligados a cumplir los operadores por alguno de los siguientes motivos:
+
+a) Por razón del uso del dominio público radioeléctrico, de la numeración, direccionamiento y denominación o de la ocupación de la propiedad pública o privada para la instalación de redes.
+
+b) Por ser designados para la prestación del servicio universal u otras obligaciones de servicio público.
+
+c) Por la imposición, en su caso, de obligaciones específicas en el marco del análisis de mercado previsto en el artículo 10 de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
+
+d) Por la imposición de obligaciones en materia de interconexión y acceso previstas en el capítulo III del título II y en la disposición adicional séptima de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones
+
+**Artículo 17. Condiciones generales.**
+
+Las condiciones generales que deben cumplir todos los operadores, con independencia de la red o servicio que pretendan explotar o prestar, y sin perjuicio de otras que resulten exigibles conforme a los artículos siguientes de este capítulo, serán las siguientes:
+
+a) Contribuir a la financiación del servicio universal, en los términos previstos en la Ley 32/2003, de 3 de noviembre, y en su normativa de desarrollo.
+
+b) Pagar las tasas previstas en el título VII de la Ley 32/2003, de 3 de noviembre, conforme a lo regulado en ella y en su normativa de desarrollo.
+
+c) Garantizar la interoperabilidad de los servicios.
+
+d) Garantizar a los usuarios finales la accesibilidad de los números, nombres o direcciones, de conformidad con lo recogido en los correspondientes planes nacionales.
+
+e) Garantizar la protección de los datos personales y la intimidad de las personas, conforme a lo establecido en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y en la Ley 32/2003, de 3 de noviembre, y en su normativa de desarrollo.
+
+f) Garantizar a los consumidores y los usuarios finales los derechos que como tales les corresponden, de acuerdo con la Ley 32/2003, de 3 de noviembre, con este reglamento y con el resto de normativa que la desarrolle y con el resto de la normativa que resulte de aplicación.
+
+g) Suministrar a las autoridades nacionales de reglamentación la información y documentación que precisen para el cumplimiento de sus fines, en los términos establecidos en el artículo 9 de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, y en el artículo 21 de este reglamento.
+
+h) Ejecutar las órdenes de interceptación legal que emanen de la autoridad competente, conforme a la Ley de Enjuiciamiento Criminal y a la Ley Orgánica 2/2002, de 6 de mayo, reguladora del control judicial previo del Centro Nacional de Inteligencia, de acuerdo con lo establecido en el artículo 33 de la Ley 32/2003, de 3 de noviembre, y en el título V de este reglamento.
+
+i) Cumplir, cuando así venga establecido en la normativa vigente, las resoluciones de las autoridades adoptadas por razones de interés público, de seguridad pública y de defensa nacional.
+
+j) Asegurar el cumplimiento de las normas y especificaciones técnicas y los requisitos técnicos que, en cada caso, resulten aplicables, incluyendo los correspondientes en materia de equipos y aparatos de telecomunicaciones.
+
+k) Cumplir las restricciones en cuanto a la transmisión de contenidos ilegales establecidas en la Ley 34/2002, de 11 de julio, sobre servicios de la sociedad de la información y comercio electrónico, y en relación con la transmisión de contenidos nocivos establecidas en la Ley 25/1994, de 12 de julio, por la que se incorpora al ordenamiento jurídico español la Directiva 89/552/CEE, sobre la coordinación de disposiciones legales, reglamentarias y administrativas de los Estados miembros relativas al ejercicio de actividades de radiodifusión televisiva.
+
+l) Cumplir el resto de requisitos y condiciones que se establecen en la Ley 32/2003, de 3 de noviembre, y en su normativa de desarrollo.
+
+**Artículo 18. Condiciones exigibles a los operadores que exploten redes públicas de comunicaciones electrónicas.**
+
+Las condiciones que deben cumplir los operadores que exploten redes públicas de comunicaciones electrónicas serán las siguientes:
+
+a) Garantizar la interconexión de las redes y el acceso a estas y a los recursos asociados, de conformidad con lo dispuesto en la Ley 32/2003, de 3 de noviembre, y en su normativa de desarrollo.
+
+b) Respetar las normas y resoluciones aprobadas por las autoridades competentes en materia de urbanismo, de medio ambiente y de ordenación del territorio, salud pública, seguridad pública, defensa nacional y tributación por ocupación del dominio público, conforme al artículo 28 de la Ley 32/2003, de 3 de noviembre, y a su normativa de desarrollo.
+
+c) Respetar las normas y resoluciones aprobadas por las autoridades competentes en materia de acceso al dominio público y a la propiedad privada para la instalación de redes de comunicaciones electrónicas.
+
+d) Cuando así sea preciso conforme a lo dispuesto en la Ley 32/2003, de 3 de noviembre, permitir la coubicación y el uso compartido de las instalaciones.
+
+e) Respetar las limitaciones establecidas en la Ley 32/2003, de 3 de noviembre, y en su normativa de desarrollo en relación con las emisiones radioeléctricas y la exposición del público a campos electromagnéticos.
+
+f) Mantener la integridad de las redes públicas de comunicaciones electrónicas, así como evitar la producción de interferencias perjudiciales.
+
+g) Procurar la seguridad de las redes públicas contra el acceso no autorizado y garantizar la confidencialidad de los mensajes transmitidos y el secreto de las comunicaciones.
+
+h) Cumplir las obligaciones de extensión y cobertura establecidas en la disposición transitoria quinta de este reglamento.
+
+i) Establecer condiciones de uso de sus redes o servicios para situaciones de catástrofes que garanticen las comunicaciones entre los servicios de emergencia y entre las autoridades, y para la difusión de informaciones a la población en general.
+
+**Artículo 19. Condiciones exigibles a los operadores que exploten redes telefónicas públicas.**
+
+Las condiciones que deben cumplir los operadores que exploten redes telefónicas públicas serán las siguientes:
+
+a) Garantizar la integridad de la red desde una ubicación fija y, en caso de avería de la red debido a catástrofes o fuerza mayor, adoptar las medidas que establezca el Gobierno para garantizar la disponibilidad de la red telefónica pública y de los servicios telefónicos disponibles al público desde una ubicación fija.
+
+b) Proporcionar a los usuarios a los que provea la conexión a la red telefónica el acceso a servicios de asistencia mediante operador y a los servicios de información sobre números de abonados previstos en el artículo 27.2.
+
+c) Prestar las facilidades de marcación por tonos e identificación de la línea llamante, cuando sea técnicamente factible y económicamente viable.
+
+d) Garantizar la conservación del número del abonado en los supuestos establecidos en la Ley 32/2003, de 3 de noviembre, y en su normativa de desarrollo.
+
+e) Asegurar el encaminamiento gratuito de llamadas a los servicios de emergencia a través del número telefónico 112 y de otros números telefónicos que se determinen mediante real decreto.
+
+**Artículo 20. Condiciones exigibles a los operadores que presten el servicio telefónico disponible al público.**
+
+Las condiciones que deben cumplir los operadores que presten el servicio telefónico disponible al público serán las siguientes:
+
+a) Cuando se preste el servicio desde una ubicación fija, se adoptarán las medidas necesarias para asegurar el acceso sin interrupciones a los servicios de emergencia.
+
+b) Facilitar a la Comisión del Mercado de las Telecomunicaciones, para las finalidades previstas en el artículo 68, en soporte informático, como mínimo, los datos a los que se refiere el artículo 30.4 correspondientes a los abonados a los que ofrezcan la posibilidad de recibir llamadas a través de un número telefónico de abonado administrado por dichos operadores, incluyendo, de forma separada, los de aquellos que hubieran decidido no figurar en las guías. A estos efectos, estarán obligados a solicitar el consentimiento de los abonados conforme se indica en el artículo 67.
+
+En caso de abonados de prepago, con los que no exista una relación contractual nominal, la aportación de datos se realizará previa solicitud y acreditación fehaciente por el abonado de su titularidad.
+
+c) Asegurar la gratuidad de las llamadas a los servicios de emergencias. Esta obligación se exigirá respecto de las llamadas dirigidas al número telefónico 112 y a otros que se establezcan mediante real decreto, incluidas aquellas que se efectúen desde teléfonos públicos de pago, sin que sea necesario utilizar ninguna forma de pago en estos casos.
+
+d) Poner a disposición de las autoridades receptoras de las llamadas a servicios de emergencias la información relativa a cada llamada sobre la ubicación de su procedencia, en la medida en que sea técnicamente viable, con respeto a la regulación establecida en el título VI y en las condiciones que se establezcan mediante orden ministerial.
+
+e) Garantizar la conservación del número del abonado en los supuestos establecidos en la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, y en su normativa de desarrollo.
+
+f) Establecer condiciones de uso de sus redes o servicios para situaciones de catástrofes que garanticen las comunicaciones entre los servicios de emergencia y entre las autoridades, y para la difusión de informaciones a la población en general.
+
+**Artículo 21. Obligaciones de suministro de información.**
+
+1\. Las autoridades nacionales de reglamentación establecidas en el artículo 46 de la Ley 32/2003, de 3 de noviembre, y los organismos con competencias inspectoras derivadas de dicha ley podrán, en el ámbito de su actuación, requerir a los operadores la información, incluso financiera, necesaria para el cumplimiento de alguna de las siguientes finalidades:
+
+a) Comprobar el cumplimiento de las obligaciones que resulten de este capítulo, de los derechos de uso del dominio público radioeléctrico, de la numeración, direccionamiento y denominación o de la ocupación del dominio público o de la propiedad privada.
+
+b) Satisfacer necesidades estadísticas o de análisis.
+
+c) Evaluar la procedencia de las solicitudes de derechos de uso del dominio público radioeléctrico y de la numeración, direccionamiento y denominación.
+
+d) Publicar síntesis comparativas sobre precios y calidad de servicio, en interés de los usuarios.
+
+e) Elaborar análisis que permitan la definición de los mercados de referencia, la determinación de los operadores encargados de prestar el servicio universal y el establecimiento de condiciones específicas a los operadores con poder significativo de mercado en aquellos.
+
+f) Cumplir los requerimientos que vengan impuestos en el ordenamiento jurídico.
+
+g) Comprobar el cumplimiento del resto de obligaciones derivadas de la Ley 32/2003, de 3 de noviembre, y su normativa de desarrollo, en especial el cumplimiento de las obligaciones de servicio público y de carácter público.
+
+Esta información, excepto aquella a que se refiere el párrafo c), no podrá exigirse antes del inicio de la actividad, y se suministrará en el plazo que se establezca en cada requerimiento, atendidas las circunstancias del caso. Las autoridades nacionales de reglamentación garantizarán la confidencialidad de la información suministrada que pueda afectar al secreto comercial o industrial.
+
+2\. Las solicitudes de información que se realicen de conformidad con el apartado anterior habrán de ser motivadas y proporcionadas al fin perseguido. En dichas solicitudes se indicará el plazo y grado de detalle con que deberá suministrarse la información requerida, así como los fines concretos para los que va a ser utilizada. El incumplimiento de la obligación de información por los titulares de redes o servicios de comunicaciones electrónicas podrá ser sancionado conforme a lo establecido en el título VIII de la Ley 32/2003, de 3 de noviembre.
+
+3\. La Comisión del Mercado de las Telecomunicaciones llevará a cabo la publicación, en la medida en que pueda contribuir al mantenimiento de un mercado abierto y competitivo, de la información que haya obtenido en el ejercicio de sus competencias, y garantizará la confidencialidad de la información y el derecho a la protección de los datos de carácter personal, conforme se indica en el apartado 1.
+
+4\. La información de que dispongan los operadores en relación con los servicios que presten al Ministerio de Defensa o instituciones militares no podrá ser facilitada en virtud de lo dispuesto en este artículo.
+
+No obstante, lo dispuesto en el párrafo anterior, el Ministerio de Defensa aprobará una resolución en la que especificará de forma clara e inequívoca el tipo o categorías de información que puede ser suministrada. Esta resolución será comunicada a la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información y al resto de Autoridades de Reglamentación a que se refiere el artículo 46 de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
+
+**Artículo 22. Modificación de las condiciones exigibles.**
+
+1\. Con arreglo a los principios de objetividad y proporcionalidad, el Gobierno, mediante real decreto, podrá modificar las condiciones impuestas en la prestación de servicios y el establecimiento y explotación de redes de comunicaciones electrónicas, y establecerá un plazo para que los operadores se adapten a dicha modificación.
+
+2\. En la tramitación de las modificaciones a que se refiere el apartado anterior se otorgará un trámite de audiencia, que no será inferior a cuatro semanas, a los interesados, al Consejo de Consumidores y Usuarios y, en su caso, a los sindicatos más representativos y a las asociaciones más representativas de los restantes usuarios. Asimismo, será preceptivo el informe de la Comisión del Mercado de las Telecomunicaciones.
+
+### TÍTULO III — Obligaciones de servicio público y de carácter público
+
+#### CAPÍTULO I — Disposiciones generales
+
+**Artículo 23. Categorías de obligaciones de servicio público o de carácter público.**
+
+Tendrán la consideración de obligaciones de servicio público o de carácter público a los efectos de este reglamento:
+
+a) El servicio universal, establecido en el artículo 22 de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, y regulado en el capítulo siguiente.
+
+b) Las obligaciones de servicio público definidas en los apartados 1 y 2 del artículo 25 de la Ley 32/2003, de 3 de noviembre, que se regulan en el capítulo III de este título.
+
+c) La obligación de encaminamiento y localización de llamadas dirigidas a servicios de emergencia. No obstante, la obligación de encaminamiento de dichas llamadas no dará lugar a contraprestación económica.
+
+d) Las obligaciones de carácter público establecidas en este reglamento en relación con:
+
+1.º El secreto de las comunicaciones y la obligación de interceptación legal, previstas en el capítulo II del título V de este reglamento.
+
+2.º La regulación relativa a la protección de datos de carácter personal, desarrollada en el capítulo I del título V de este reglamento.
+
+3.º Los aspectos específicos de los derechos de los consumidores y usuarios en relación con la prestación de los servicios de comunicaciones electrónicas desarrollados en el título VI de este reglamento.
+
+4.º Las obligaciones de información previstas en el artículo 9 de la Ley 32/2003, de 3 de noviembre, y desarrolladas en el artículo 21 de este reglamento.
+
+5.º Las obligaciones de calidad de servicio exigibles de conformidad con lo dispuesto en este reglamento, excepto las relativas a la prestación del servicio universal.
+
+De conformidad con lo dispuesto en la Ley 32/2003, de 3 de noviembre, estas obligaciones de carácter público no darán derecho a contraprestación ni compensación económica de ningún tipo, sin perjuicio de lo dispuesto en el capítulo II del título V de este reglamento.
+
+**Artículo 24. Sujetos obligados.**
+
+Los operadores a que se refiere el artículo 2 estarán sujetos a las obligaciones de servicio público y a las demás obligaciones de carácter público que les sean de aplicación o, en su caso, impuestas, de conformidad con lo dispuesto en la Ley 32/2003, de 3 de noviembre, y en este reglamento.
+
+En todo caso, el cumplimiento de las obligaciones de servicio público que sean exigibles a los operadores se efectuará con respeto a los principios establecidos en el artículo 20.3 de la Ley 32/2003, de 3 de noviembre.
+
+**Artículo 25. Administración competente.**
+
+Corresponde al Ministerio de Industria, Turismo y Comercio el control y el ejercicio de las facultades de la Administración reguladas en este título, sin perjuicio tanto de las competencias de la Comisión del Mercado de las Telecomunicaciones en relación con el servicio universal, de acuerdo con lo dispuesto en el capítulo II de este título, como de las de la Comisión Delegada del Gobierno para Asuntos Económicos y del Ministerio de Economía y Hacienda en materia de precios. A tales efectos, los operadores estarán obligados a cumplir las resoluciones que, en ejercicio de su función de control, dicten dicho ministerio, la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información y, cuando proceda, la Comisión del Mercado de las Telecomunicaciones. Dichas resoluciones serán motivadas, agotarán la vía administrativa y contra ellas podrá interponerse recurso contencioso-administrativo.
+
+**Artículo 26. Principios aplicables en la imposición de obligaciones de servicio público.**
+
+1\. En la imposición de obligaciones de servicio público a los operadores se tomarán en consideración los objetivos y principios establecidos en el artículo 3 de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
+
+2\. Cuando el Ministerio de Industria, Turismo y Comercio constate que cualquiera de los servicios a que se refiere este artículo se está prestando en competencia, en condiciones de precio, cobertura y calidad de servicio similares a aquellas en que los operadores designados deben prestarlas, podrá, previo informe de la Comisión del Mercado de las Telecomunicaciones y audiencia a los interesados, determinar el cese de su prestación como obligación de servicio público y, en consecuencia, de la financiación prevista para aquellas.
+
+3\. En particular, en la imposición de obligaciones de servicio público a los operadores serán de aplicación los siguientes criterios:
+
+a) No imposición de cargas excesivas a los operadores que puedan afectar sustancialmente la posibilidad de su acceso al mercado.
+
+b) Objetividad y transparencia en los métodos utilizados para determinar el operador obligado, las ayudas y financiación de la que disfrutará, y el momento y condiciones en que debe producirse.
+
+c) No discriminación entre los distintos operadores, procurando mantener el equilibrio en el mercado de forma tal que ningún operador obtenga ventajas o desventajas en su actuación en el mercado, como consecuencia de las obligaciones impuestas.
+
+d) Neutralidad económica y, en la medida de lo posible, tecnológica de las obligaciones impuestas y de las ayudas y financiación otorgadas.
+
+e) Prioridad de las opciones que permitan un menor coste para el conjunto del sector o que supongan una menor necesidad de financiación.
+
+#### CAPÍTULO II — Servicio universal
+
+##### Sección 1.ª Delimitación del servicio universal
+
+**Artículo 27. Concepto y delimitación de los servicios que se incluyen en el ámbito del servicio universal.**
+
+1\. Se entiende por servicio universal el conjunto definido de servicios cuya prestación se garantiza para todos los usuarios finales con independencia de su localización geográfica, con una calidad determinada y a un precio asequible.
+
+2\. Bajo el concepto de servicio universal se deberá garantizar, en los términos y condiciones que se establecen en este capítulo, lo siguiente:
+
+a) Que todos los usuarios finales puedan obtener una conexión a la red pública de comunicaciones electrónicas desde una ubicación fija con las características que se establecen en el artículo 28.1, siempre que sus solicitudes se consideren razonables en los términos establecidos en el artículo 29.
+
+b) Que se satisfagan todas las solicitudes razonables de prestación de un servicio telefónico disponible al público a través de la conexión a que se refiere el párrafo anterior, que permitan efectuar y recibir llamadas nacionales e internacionales, con las características que se establecen en el artículo 28.2.
+
+c) Que se ponga a disposición de los abonados al servicio telefónico disponible al público una guía general de números de abonados, de acuerdo con lo establecido en el artículo 30. Asimismo, que se ponga a disposición de todos los usuarios finales de dicho servicio un servicio de información general o consulta telefónica sobre números de abonados, en las condiciones establecidas en el artículo 31.
+
+d) Que exista una oferta suficiente de teléfonos públicos de pago, u otros puntos de acceso público a la telefonía vocal, en todo el territorio nacional, de acuerdo con los términos que se establecen en el artículo 32.
+
+e) Que los usuarios finales con discapacidad tengan acceso al servicio telefónico disponible al público desde una ubicación fija, a la guía general de números de abonados, al servicio de información general o consulta telefónica sobre números de abonados y al servicio de teléfonos públicos de pago, referidos en los apartados b), c) y d) anteriores, en condiciones equiparables a las que se ofrecen al resto de usuarios finales.
+
+f) Que las personas con necesidades sociales especiales dispongan, de acuerdo con condiciones transparentes, públicas y no discriminatorias, de opciones o paquetes de tarifas que difieran de las aplicadas en condiciones normales de explotación comercial y que les permitan tener acceso al servicio telefónico disponible al público desde una ubicación fija o hacer uso de éste. Con el mismo objeto podrán aplicarse, cuando proceda, limitaciones de precios, tarifas comunes, equiparación geográfica u otros regímenes similares.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+**Artículo 28. Conexión a la red pública y acceso al servicio telefónico disponible al público.**
+
+1\. La conexión a la red pública de comunicaciones electrónicas, desde una ubicación fija, referida en el apartado 2.a) del artículo anterior, provista a través de cualquier tecnología, deberá ofrecer a sus usuarios finales, de acuerdo con lo establecido en el artículo 29.1, la posibilidad de:
+
+a) Conectar y utilizar los equipos terminales que sean conformes con la normativa aplicable y establecer comunicaciones telefónicas, y de fax de conformidad con las recomendaciones pertinentes de la serie T del UIT-T.
+
+Asimismo, deberá disponer de los recursos técnicos adecuados para posibilitar la continuidad del servicio telefónico fijo disponible al público en situaciones de interrupción del suministro eléctrico por un periodo mínimo de cuatro horas. No obstante, en las conexiones a la red pública que se proporcionen a través de tecnologías que no permitan el suministro eléctrico desde las dependencias del operador, los recursos técnicos adecuados para garantizar la alimentación eléctrica de los equipos de terminación de red serán facilitados por el abonado.
+
+b) Establecer comunicaciones de datos a velocidad suficiente para acceder de forma funcional a Internet. A estos efectos y en virtud de lo establecido en el artículo 52 de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, la conexión a la red deberá permitir comunicaciones de datos en banda ancha a una velocidad en sentido descendente de 1Mbit por segundo.
+
+Dicho valor se refiere a la velocidad global de datos del enlace de usuario de acceso a la red, comprendiendo tanto la capacidad de transporte de datos neta que ofrece el enlace a cada usuario, como las taras de sincronización, control, operaciones, corrección de errores u otras funciones específicas del acceso. Para la tecnología ADSL esta velocidad global se corresponde con la de sincronización de los modems.
+
+En relación con cada usuario el operador designado garantizará que la citada velocidad global de datos que debe proporcionar la conexión, promediada a lo largo de cualquier periodo de 24 horas, no sea inferior a un megabit por segundo.
+
+Mediante Orden del Ministro de Industria, Turismo y Comercio se podrán establecer las definiciones y métodos de medida, de este parámetro relativo a la velocidad media ofrecida a cada usuario.
+
+Asimismo, la conexión a la red deberá permitir que se pueda realizar sobre ella una prestación eficiente del servicio telefónico disponible al público, con las características mínimas referidas en el apartado 2 de este artículo, y de los servicios de datos, incluidos los de acceso a Internet, en condiciones equiparables a las ofrecidas, con carácter general, por el mercado. A tal efecto, el operador designado para el suministro de la conexión a la red deberá cumplir con alguno de los requisitos siguientes:
+
+1.º Ofrecer a los prestadores de los citados servicios, existentes en el mercado, un tipo de acceso que permita realizar de forma eficiente su prestación. A tal efecto podrán establecerse requisitos mínimos a la conexión, considerándose en cualquier caso suficiente aquellos requisitos equiparables a los impuestos por la Comisión del Mercado de las Telecomunicaciones a los operadores con poder significativo en los mercados de acceso al servicio telefónico desde una ubicación fija y a servicios de datos.
+
+2.º Asumir su prestación en las mencionadas condiciones, no siendo computable en tal caso el coste neto que ello le pudiera suponer a los efectos de la determinación del coste neto asociado al suministro de la conexión a la red.
+
+2\. El operador designado para la prestación del servicio telefónico disponible al público deberá satisfacer todas las solicitudes de acceso al servicio telefónico disponible al público sobre conexiones que posibiliten dicho acceso, de forma que permita al usuario recibir y efectuar llamadas telefónicas de ámbito nacional e internacional a través de números geográficos o no geográficos, de conformidad con lo establecido en el Plan nacional de numeración telefónica. Adicionalmente, deberá respetar en su prestación las condiciones de calidad y de asequibilidad que se establecen para el servicio telefónico disponible al público, respectivamente, en los artículos 34 y 35 de este reglamento.
+
+Cuando se produzcan interrupciones de dicho servicio, por causas no atribuibles al abonado, el operador designado deberá compensarle de acuerdo con lo establecido en el artículo 15 de la carta de derechos del usuario de los servicios de comunicaciones electrónicas, aprobada por el Real Decreto 899/2009, de 22 de mayo.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+> Se modifica el párrafo d) del apartado 1 y el apartado 2 por el art.1.1 y 2 del Real Decreto 329/2009, de 13 de marzo. [Ref. BOE-A-2009-5707](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5707)
+
+**Artículo 29. Solicitudes de conexión a la red y plazo máximo de suministro.**
+
+1\. El operador designado para la prestación de este elemento de servicio universal deberá satisfacer las solicitudes razonables de conexión a la red pública de comunicaciones electrónicas desde una ubicación fija, con las prestaciones que le solicite el usuario dentro de las especificadas en el apartado 1 del artículo anterior. A estos efectos, el usuario podrá solicitar una conexión con las prestaciones establecidas en el apartado 1.a), en el 1.b), o ambas. Asimismo, el usuario podrá solicitar al operador designado las prestaciones del apartado 1.b) para una conexión existente que disponga de las contempladas en el apartado 1.a).
+
+En cualquier caso, la contratación de la conexión no vinculará al usuario final para contratar otros servicios con el mismo operador. No obstante, la contratación de una conexión con unas determinadas capacidades podrá considerarse no razonable si no va acompañada de la contratación de alguno de los servicios ofertados sobre dichas capacidades por algún operador.
+
+2\. Sin perjuicio de lo establecido en el párrafo anterior, se considerarán en todo caso razonables las peticiones de conexión en las que se den alguna de las siguientes condiciones:
+
+a) Que la conexión se solicite para cualquier inmueble situado en suelo urbano.
+
+b) Que la conexión se solicite para una edificación, que aún no estando en suelo urbano, sea utilizada como vivienda habitual por el solicitante de conformidad con la normativa urbanística aplicable. Para su comprobación el operador designado podrá requerir al solicitante certificación del Ayuntamiento que acredite tales extremos.
+
+3\. Cuando dicho operador designado considere que una solicitud no es razonable y no se da ninguna de las dos condiciones anteriores, deberá someterla al Director General de Telecomunicaciones y Tecnologías de la Información, para la autorización de dicha consideración.
+
+4\. El operador designado deberá satisfacer cada solicitud razonable de conexión a la red pública de comunicaciones electrónicas, referidas en el punto 1 anterior, en un plazo máximo de 60 días naturales, contados a partir de su recepción. Cuando dicha solicitud se realice conjuntamente con la de acceso al servicio telefónico disponible al público, se deberán satisfacer ambas en el mencionado plazo.
+
+En caso de que para la realización del suministro sea necesario obtener permisos, derechos de ocupación o de paso específicos o por cualquier otra causa no imputable al operador, este podrá descontar los retrasos debidos a dichas causas, previa comunicación que contenga la acreditación documental necesaria de los retrasos remitida al solicitante por correo certificado con acuse de recibo en la que se informará al solicitante de la posibilidad de que dispone para presentar las reclamaciones a que se refiere el artículo 27 de la carta de derechos del usuario de los servicios de comunicaciones electrónicas, aprobada por el Real Decreto 899/2009, de 22 de mayo.
+
+En el caso de no poder realizar el mencionado suministro en dicho plazo, una vez descontados los retrasos a que se refiere el párrafo anterior, sin mediar causas de fuerza mayor u otras imputables al solicitante, deberá compensar automáticamente a éste eximiéndole del pago de un número de cuotas mensuales relativas a la conexión equivalentes al número de meses o fracción en los que se haya superado dicho plazo.
+
+5\. La tramitación de las autorizaciones previstas en el apartado 3 se llevará a cabo por el procedimiento establecido en el Reglamento aprobado por el anexo I del Real Decreto 1773/1994, de 5 de agosto.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+> Se modifica el apartado 4 por el art. 1.3 del Real Decreto 329/2009, de 13 de marzo. [Ref. BOE-A-2009-5707](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5707)
+
+**Artículo 30. Guías telefónicas.**
+
+1\. Los abonados al servicio telefónico disponible al público tendrán derecho a disponer de una guía general impresa de números de abonados, que se actualice, como mínimo, una vez al año. Todos los abonados al servicio telefónico disponible al público tendrán derecho a figurar en la mencionada guía general, sin perjuicio, en todo caso, del respeto a las normas que regulen la protección de los datos personales y el derecho a la intimidad.
+
+2\. Cuando la disposición de la guía a la que se refiere este artículo no quede garantizada por el libre mercado, su elaboración, que se realizará teniendo en cuenta los principios de accesibilidad universal y diseño para todos, corresponderá a la empresa designada al efecto quien, además, habrá de entregarla gratuitamente a todos los abonados del servicio telefónico disponible al público. Cuando varios contratos de abono al servicio telefónico disponible al público estén domiciliados en la misma dirección, se entenderá cumplida dicha obligación entregando un ejemplar de la guía. Cuando, de acuerdo con lo especificado en el apartado 6 de este artículo, la guía se haya organizado en varios tomos, la empresa designada podrá limitar la entrega al tomo correspondiente a la demarcación territorial en que se incluya el domicilio del abonado, y pondrá a su disposición, gratuitamente, el resto de los tomos de la provincia.
+
+3\. La empresa designada podrá entregar a un abonado una guía telefónica en formato electrónico en lugar de la edición impresa, en las mismas condiciones que las establecidas para esta última en este artículo, siempre que incluya en dicha entrega formularios e indicaciones claras en forma impresa para la solicitud de la edición impresa. En caso de mediar solicitud por parte del abonado, dentro de los 30 días siguientes a la entrega de la guía electrónica, la empresa designada deberá entregar a dicho abonado la edición impresa en un plazo no superior a los 30 días, contados a partir de la recepción de la solicitud.
+
+La empresa designada deberá ofrecer acceso a las guías telefónicas a través de Internet, en formato accesible para usuarios con discapacidad, en las condiciones y plazos de accesibilidad establecidos para las páginas de Internet de las administraciones públicas, en el reglamento aprobado por el Real Decreto1494/2007, de 12 de noviembre. Asimismo, de acuerdo con lo establecido en el artículo 35, facilitará a los usuarios ciegos o con grave discapacidad visual la franquicia al servicio de consulta telefónica sobre números de abonado que establezca la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+4\. Sin perjuicio de lo dispuesto en el artículo 67, en relación con los datos relativos a cada abonado, deberá figurar, al menos, la siguiente información:
+
+a) Nombre y apellidos, o razón social.
+
+b) Número o números de abonado.
+
+c) Dirección postal del domicilio, excepto piso, letra y escalera.
+
+d) Terminal específico que deseen declarar, en su caso.
+
+Cuando se trate del servicio telefónico fijo y el titular sea una persona física, podrá solicitar, al operador que le proporciona el servicio, que asociado a un mismo número figure el nombre de otra persona mayor de edad con la que conviva. La solicitud de alta de dicha inscripción se realizará de forma conjunta, mientras que para la baja bastará con la solicitud del interesado. Cuando se trate del servicio telefónico fijo y el titular sea una entidad u organización que tenga asignada una pluralidad de números, el operador del cual dependan esos números deberá asegurarse de que figuren, debidamente ordenadas, las inscripciones necesarias, para facilitar la localización de los números de los usuarios externamente más relevantes de dicha entidad u organización.
+
+5\. En las hojas iniciales de cada ejemplar de guía telefónica se facilitará, al menos, la siguiente información:
+
+a) La dirección postal y números telefónicos de atención al usuario de los proveedores del servicio telefónico disponible al público de los que dependa alguno de los números que figuran en ese ejemplar.
+
+b) Información a los abonados sobre su derecho a no figurar en una guía accesible al público o, en su caso, a que se omita parcialmente su dirección o algún otro dato, en los términos que haya estipulado su proveedor, a que sus datos que aparezcan en la guía no sean utilizados con fines de publicidad o prospección comercial y sobre el ejercicio de los derechos de acceso, oposición, rectificación y cancelación de sus datos, en los términos previstos por la legislación vigente en materia de protección de datos de carácter personal.
+
+c) Instrucciones que indiquen cómo acceder y hacer uso de la guía telefónica y del servicio telefónico disponible al público.
+
+d) Las direcciones postales y números telefónicos de los servicios públicos en materia de atención de urgencias sanitarias, de extinción de incendios y salvamento, de seguridad ciudadana y de protección civil.
+
+e) Los números de los servicios de consulta sobre números de abonado.
+
+f) Fecha completa de edición y actualización, así como nombre y dirección del editor.
+
+g) Información relativa al departamento o servicio especializado de atención al cliente, de los prestadores del servicio universal al que se refiere el artículo 26 de la carta de derechos del usuario de los servicios de comunicaciones electrónicas, aprobada por el Real Decreto 899/2009, de 22 de mayo.
+
+6\. Los datos que figuren en las guías telefónicas estarán recogidos en un tipo de letra claro y de fácil lectura. La impresión se realizará preferentemente a dos caras, utilizando un papel con una textura que permita dicha impresión sin dificultar la lectura de la información. La encuadernación deberá soportar sin deterioro un uso normal durante la vigencia de la guía.
+
+Los datos estarán relacionados por orden alfabético del primer apellido o razón social. Después del primer apellido se reflejará completo el segundo, seguido tras una coma, del nombre propio o de sus iniciales. Asociado a cada número figurará, además, la dirección del abonado, sin especificación de piso o letra, y, en su caso, un identificador del tipo de terminal (teléfono normal, fax, RDSI, videoconferencia, telefonía móvil, telefonía de texto para personas sordas, entre otros) que el abonado haya manifestado su deseo de que figure de forma tal que permita tener constancia del contenido de la solicitud y la identidad del solicitante.
+
+Con carácter general y dentro del ámbito provincial de las guías telefónicas, su contenido se organizará por orden alfabético de los términos municipales y, en su caso, de entidades locales menores, salvo la capital de la provincia que aparecerá en primer lugar. Dentro de cada término o entidad local menor se organizará por la letra del primer apellido o razón social.
+
+Cuando el número de abonados de una provincia sea elevado, la guía telefónica se podrá organizar territorialmente en varios tomos para facilitar su manejo. La división de la información provincial para su inclusión en cada tomo se realizará de modo que se facilite su uso, teniendo especialmente en cuenta para ello la demanda y utilización habitual de la información por los usuarios del servicio telefónico disponible al público.
+
+La información relativa a los abonados de distintos servicios telefónicos o de diferentes operadores deberá tener un tratamiento tipográfico equivalente.
+
+Sin perjuicio de lo establecido en el artículo 67, la guía general de números de abonados que se incluye en el ámbito del servicio universal deberá actualizarse, cómo mínimo, cada 12 meses. En cada actualización se incluirán todas las rectificaciones, altas y bajas que hayan sido comunicadas con anterioridad al cierre de la edición. El período comprendido entre la fecha de actualización de los datos y la fecha de edición de las guías telefónicas no podrá superar los tres meses.
+
+7\. En relación con los datos de carácter personal relativos a cada abonado incluidos en las guías, así como a sus derechos, será de aplicación lo establecido en el capítulo I del título V de este reglamento y la legislación vigente en materia de protección de datos de carácter personal.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+> Se añade un segundo párrafo al apartado 2 por la disposición adicional 1.1 del Real Decreto 1494/2007, de 12 de noviembre. [Ref. BOE-A-2007-19968](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-19968)
+
+> Este párrafo entra en vigor según los plazos establecidos en la disposición transitoria única.<br>
+
+**Artículo 31. Servicio de consulta telefónica sobre números de abonado.**
+
+Los usuarios finales del servicio telefónico disponible al público tendrán derecho a disponer de un servicio de consulta telefónica sobre los números de abonado contenidos en las guías telefónicas a las que se refiere el artículo 30, actualizado y de ámbito nacional.
+
+Este servicio se prestará a un precio asequible y con los objetivos de calidad que se fijen de acuerdo con el procedimiento establecido en el artículo 34.
+
+En relación con los datos personales relativos a cada abonado, será de aplicación lo establecido en el capítulo I del título V y en la demás normativa vigente en cada momento sobre protección de los datos personales.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+**Artículo 32. Teléfonos públicos de pago u otros puntos de acceso público a la telefonía vocal.**
+
+1\. En la prestación del servicio universal se deberá garantizar la existencia de una oferta suficiente de teléfonos públicos de pago u otros puntos de acceso público a la telefonía vocal. A estos efectos, se consideran teléfonos públicos de pago los situados en el dominio público de uso común. Mediante Orden del Ministerio de Industria, Turismo y Comercio se podrán especificar otros puntos de acceso público a la telefonía vocal y las condiciones de integración en la oferta suficiente de puntos de acceso público a la telefonía vocal.
+
+El operador designado para la prestación de este elemento deberá garantizar la existencia de una oferta suficiente de teléfonos públicos de pago en la zona correspondiente a la designación, con las condiciones técnicas mínimas que se establecen en el apartado 3.
+
+Se considerará oferta suficiente la existencia, con una distribución geográfica razonable, de, al menos, un teléfono público de pago y uno más por cada 3.000 habitantes en cada municipio de 1.000 o más habitantes y de un teléfono público de pago en cada uno de los municipios de menos de 1.000 habitantes en los que esté justificado sobre la base de la existencia de una distancia elevada a facilidades similares, la baja penetración del servicio telefónico fijo, la falta de accesibilidad del servicio telefónico móvil o la elevada tasa de población flotante.
+
+El operador designado deberá satisfacer, en un plazo razonable, todas las solicitudes de instalación de nuevos teléfonos públicos de pago que le presenten los ayuntamientos hasta cumplir con los criterios de oferta suficiente.
+
+Asimismo, el operador designado deberá mantener la oferta de ubicaciones y terminales de telefonía de pago con equipos de tecnología adecuada. No obstante, podrá realizar las modificaciones de dicha oferta, incluyendo cambios de ubicación y retirada de terminales cuando se sobrepase el criterio de oferta mínima, que sean necesarias para mantener la adecuación de la oferta a las necesidades de los usuarios. Dichas modificaciones se podrán realizar previa comunicación motivada al ayuntamiento correspondiente y siempre que este no haya manifestado su oposición igualmente motivada en el plazo de un mes a partir de dicha comunicación.
+
+Cuando el operador designado considere que una solicitud de instalación de nuevos teléfonos públicos de pago o una oposición a la modificación de la oferta, presentada por algún ayuntamiento, no se corresponde con las obligaciones de servicio universal, podrá dirigirse a la Dirección General de Telecomunicaciones y Tecnologías de la Información, la cual resolverá siguiendo el mismo procedimiento que el indicado en el artículo 29.5.
+
+2\. Para la elección de las nuevas ubicaciones se tendrán en cuenta las zonas o lugares más transitados y de mayor demanda potencial, así como aquellas otras con escasa penetración del servicio telefónico fijo disponible al público.
+
+3\. Los teléfonos públicos de pago a los que se refiere este artículo deberán:
+
+a) Ofrecer a los usuarios la posibilidad de realizar llamadas con destino a cualquier abonado del servicio telefónico disponible al público, respetando su carácter gratuito, en su caso.
+
+b) Permitir efectuar gratuitamente llamadas de emergencia sin tener que utilizar ninguna forma de pago, utilizando el número único de llamadas de emergencia 112 y demás números de emergencia que estén definidos como gratuitos por la normativa vigente en cada momento.
+
+c) Permitir su uso durante las 24 horas del día, contando con iluminación suficiente durante las horas nocturnas.
+
+d) Disponer del aislamiento acústico necesario para proteger al usuario del ruido exterior y asegurar un nivel adecuado de privacidad de las comunicaciones.
+
+e) Incorporar una pantalla electrónica que indique el número marcado, el crédito mínimo exigido y el crédito disponible, y sistemas ópticos y acústicos de aviso de finalización de crédito.
+
+f) Disponer, en lugar visible, de información adecuada y actualizada sobre las condiciones básicas de uso del servicio y sobre sus precios, en la que se incluirá en todo caso indicación sobre el carácter gratuito de las llamadas de emergencias al servicio 112, así como, en su caso, los demás servicios de emergencias que estén definidos como gratuitos por la legislación vigente en cada momento y sobre el servicio de consulta telefónica sobre números de abonado al que se refiere el artículo 31.
+
+g) Disponer de medidas de seguridad adecuadas contra el vandalismo y contra su utilización indebida.
+
+h) Efectuar el cobro de la comunicación al final de esta y devolver el saldo sobrante sobre la base de las monedas previamente depositadas. En el caso de pago con tarjeta, el cobro se efectuará al finalizar la comunicación.
+
+Además, las nuevas instalaciones de teléfonos públicos de pago deberán ofrecer las opciones de pago por monedas y por tarjeta. Cuando se instalen de forma agrupada, dichas opciones deberán ser ofrecidas por el conjunto de los teléfonos públicos de pago de la agrupación.
+
+i) Permitir el acceso gratuito al servicio de consulta telefónica sobre números de abonado referido en el artículo 31.
+
+4\. El operador designado deberá mejorar progresivamente las condiciones de accesibilidad de los teléfonos públicos de pago a los que se refiere este artículo, teniendo en cuenta: la necesaria compatibilidad con el uso por personas con discapacidad, los estándares internacionales sobre accesibilidad aplicados en los países más avanzados, las normas de las distintas Administraciones públicas españolas y los trabajos de las organizaciones más representativas de personas con discapacidad, así como la distribución de la demanda y la climatología de las distintas zonas del territorio.
+
+Para ello, el operador designado presentará, para su aprobación por el Ministerio de Industria, Turismo y Comercio, planes de adaptación de los teléfonos públicos de pago para facilitar su accesibilidad por los usuarios con discapacidad y, en particular, por los usuarios ciegos, sordos, en silla de ruedas o de talla baja. En relación con los usuarios ciegos, los planes deberán contemplar la accesibilidad, tanto de la información dinámica facilitada por el visor de terminal, como de la estática a la que se refiere el apartado 3.f) de este artículo. Dichos planes se deberán presentar con un año de antelación a la finalización del que estuviera vigente o cuando el Ministerio de Industria, Turismo y Comercio lo demande por considerar superado el vigente.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+> Se modifica el párrafo segundo del apartado 4 por la disposición adicional 1.2 del Real Decreto 1494/2007, de 12 de noviembre. [Ref. BOE-A-2007-19968](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-19968)
+
+**Artículo 33. Otras medidas para facilitar la accesibilidad al servicio por las personas con discapacidad.**
+
+1\. De acuerdo con lo dispuesto en el artículo 27.2.e), los operadores designados para la prestación del servicio telefónico disponible al público referido en el artículo 27.2.b), o para la prestación de los servicios de directorio referidos en el artículo 27.2.c), o para la prestación del servicio de teléfonos públicos de pago referido en el artículo 27.2.d) deberán garantizar que los usuarios finales con discapacidad tengan acceso a dichos servicios a un nivel equivalente al que disfrutan el resto de usuarios finales.
+
+Dentro del colectivo de las personas con discapacidad, se considerarán incluidas las personas ciegas o con grave discapacidad visual, las personas sordas o con grave discapacidad auditiva, las personas con graves problemas en el habla y, en general, cualesquiera otras con discapacidades físicas que les impidan manifiestamente el acceso normal al servicio telefónico fijo o le exijan un uso más oneroso de este.
+
+2\. A los efectos de lo dispuesto en el apartado anterior, el operador designado para la prestación del servicio telefónico disponible al público referido en el artículo 27.2.b), garantizará la existencia de una oferta suficiente y tecnológicamente actualizada de terminales especiales, adaptados a los diferentes tipos de discapacidades, tales como teléfonos de texto, videoteléfonos o teléfonos con amplificación para personas sordas o con discapacidad auditiva, o soluciones para que las personas con discapacidad visual puedan acceder a los contenidos de las pantallas de los terminales, y realizará una difusión suficiente de aquélla.
+
+Los abonados ciegos o con discapacidad visual, previa solicitud al operador designado, dispondrán de las facturas y la publicidad e información, suministrada a los demás abonados de telefonía fija sobre las condiciones de prestación de los servicios, en sistema Braille o en letras grandes o bien en un formato electrónico accesible, según sea su necesidad para el acceso apropiado a la información.
+
+El operador designado aplicará a los usuarios con ceguera o con discapacidad visual grave, y a aquellos abonados en cuya unidad familiar exista alguna persona en tales circunstancias, una franquicia de 10 llamadas mensuales gratuitas al servicio de consulta telefónica sobre números de abonado.
+
+> Se añade un párrafo al apartado 2 por el art. único.1 del Real Decreto 1517/2018, de 28 de diciembre. [Ref. BOE-A-2018-18005](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-18005)
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+> Se modifica el párrafo primero del apartado 2 por la disposición adicional 1.3 del Real Decreto 1494/2007, de 12 de noviembre. [Ref. BOE-A-2007-19968](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-19968)
+
+**Artículo 34. Condiciones relativas a la calidad.**
+
+El operador designado deberá cumplir en relación con el conjunto de sus usuarios finales, en todo el territorio y para todos los servicios abarcados por dicha designación, con los niveles mínimos de calidad de servicio que se establezcan por orden ministerial, y mantendrá una razonable uniformidad en las distintas zonas del territorio y en relación con los distintos tipos de usuarios.
+
+Cuando de la aplicación de los niveles de calidad de servicio al conjunto de los usuarios, según lo previsto en el párrafo anterior, se deriven desviaciones significativas para determinadas zonas o tipos de usuarios que supongan para dichos grupos unos niveles peores a los fijados con carácter general, el Ministerio de Industria, Turismo y Comercio podrá establecer ámbitos de análisis más restringidos y fijar para dichos ámbitos niveles mínimos de calidad de servicio que limiten las mencionadas desviaciones con el objetivo de subsanar los efectos prácticos no deseados derivados del establecimiento de dichos niveles con carácter general.
+
+Las definiciones y métodos de medida de los parámetros de calidad de servicio, los requerimientos relativos a la remisión periódica de los datos a la Administración, las condiciones orientadas a garantizar la fiabilidad y la posibilidad de comparación de los datos y las demás condiciones relativas a la medida y seguimiento de los niveles de calidad de servicio serán las establecidas mediante orden ministerial.
+
+Los parámetros que se establezcan en dicha orden incluirán los que figuran en la norma del Instituto Europeo de Normas de Telecomunicación ETSI EG 202 057 y el desglose regional será, como mínimo, por comunidad autónoma.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+##### Sección 2.ª Carácter asequible del precio del servicio universal
+
+**Artículo 35. Concepto y objetivos.**
+
+1\. La Comisión Delegada del Gobierno para Asuntos Económicos, a propuesta de los Ministros de Industria, Turismo y Comercio y de Economía y Hacienda, y previo informe de la Comisión del Mercado de las Telecomunicaciones, garantizará el carácter asequible de los precios de los servicios incluidos dentro del servicio universal.
+
+Serán objeto de especial consideración los colectivos de pensionistas y jubilados de renta familiar baja y el colectivo de las personas con discapacidad a las que se refiere el artículo 33.1.
+
+Se entenderá que los precios de los servicios incluidos en el servicio universal son asequibles para los usuarios cuando se cumplan los siguientes objetivos:
+
+a) Que los precios de los servicios incluidos en el servicio universal en zonas de alto coste, rurales, insulares y distantes sean comparables a los precios de dichos servicios en áreas urbanas, teniendo en cuenta, entre otros factores, sus costes y los colectivos con necesidades sociales especiales conforme a este reglamento.
+
+b) Que se asegure la eliminación de barreras de precios que impidan a las personas con discapacidad el acceso y uso de los servicios incluidos en el servicio universal en condiciones equivalentes al resto de usuarios.
+
+c) Que exista una oferta suficiente, a precio uniforme, de teléfonos de uso público en el dominio público de uso común, en todo el territorio abarcado por cada designación. Los precios de las llamadas realizadas desde estos terminales deberán ser comparables a los de las realizadas por los abonados en aplicación del apartado a) anterior, teniendo en cuenta los costes unitarios de su prestación a través de teléfonos públicos de pago.
+
+d) Que se ofrezcan planes de precios en los que el importe de las cuotas de alta, el de los conceptos asimilados y el de las cuotas periódicas fijas de abono no limiten la posibilidad de ser usuario del servicio.
+
+e) Que el servicio de consulta telefónica sobre números de abonado, referido el artículo 31, esté accesible a todos los usuarios del servicio telefónico disponible al público a precios que no supongan una limitación a las necesidades de utilización del mismo por los usuarios.
+
+2\. Para alcanzar los objetivos citados en el apartado anterior, el operador designado, según proceda, deberá ofrecer a sus abonados:
+
+a) Programas de precios de acceso y uso de los servicios incluidos en el servicio universal que permitan el máximo control del gasto por parte del usuario y, en particular, los siguientes:
+
+1.º Abono social. Este plan de precios estará destinado a jubilados y pensionistas cuya renta familiar no exceda del indicador que se determine, en cada momento, por la Comisión Delegada del Gobierno para Asuntos Económicos, y consistirá en la aplicación de una bonificación en el importe de la cuota de alta y en la cuota fija de carácter periódico de la conexión a la red.
+
+2.º Usuarios ciegos o con grave discapacidad visual. Consistirá en la aplicación de una determinada franquicia en las llamadas al servicio de consulta telefónica sobre números de abonado, y en el establecimiento de las condiciones para la recepción gratuita de las facturas y de la publicidad e información suministrada a los demás abonados de telefonía fija sobre las condiciones de prestación de los servicios, en sistema Braille o en letras grandes o bien en un formato electrónico accesible, según sea su necesidad para el acceso apropiado a la información.
+
+3.º Usuarios sordos o con discapacidad auditiva grave o personas con graves problemas en el habla. Este plan especial de precios se aplicará a las llamadas realizadas desde cualquier punto del territorio nacional que tengan como origen o destino un terminal de telefonía de texto y que se establezcan a través del centro de servicios de intermediación para teléfonos de texto.
+
+b) Posibilidad de que el usuario elija la frecuencia de facturación que mejor se adapte a sus preferencias, dentro de las posibilidades ofertadas por el operador, las cuales incluirán, como mínimo, la frecuencia mensual.
+
+c) Posibilidad de restringir y bloquear por parte de los usuarios, a través de un procedimiento sencillo y sin coste alguno, las llamadas internacionales y las que se hagan a servicios con tarificación adicional. Todo ello sin perjuicio de que se pueda seguir realizando el mismo tipo de llamadas a través de mecanismos de selección de operador cuando tengan contratado el servicio con algún otro proveedor sin la restricción o el bloqueo de los mencionados tipos de llamadas.
+
+d) Publicidad e información sobre las condiciones de prestación de los servicios, especialmente con relación al principio de accesibilidad y de asequibilidad de estos.
+
+e) Un nivel básico y gratuito de detalle en las facturas, para que los consumidores puedan comprobar y controlar los gastos generados por el uso de los servicios, así como efectuar un seguimiento adecuado de sus propios gastos y utilización, ejerciendo con ello un nivel razonable de control sobre sus facturas.
+
+f) Medios para el abono previo, así como la posibilidad de efectuar el pago de la conexión de manera escalonada, cuando así se establezca por resolución del Secretario de Estado de Telecomunicaciones y para la Sociedad de la Información.
+
+3\. La Comisión del Mercado de las Telecomunicaciones elaborará un informe anual sobre la evolución y el nivel de la tarificación al público aplicable a los servicios pertenecientes a las obligaciones de servicio universal y que sean prestados por empresas designadas, en particular en relación con los niveles nacionales de precios al consumo y de rentas.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+> Se modifica el párrafo 2º del apartado 2.a) por la disposición adicional 1.4 del Real Decreto 1494/2007, de 12 de noviembre. [Ref. BOE-A-2007-19968](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-19968)
+
+##### Sección 3.ª Operadores obligados a la prestación. Procedimiento de designación de operadores
+
+**Artículo 36. Designación de operador para la prestación del servicio universal.**
+
+1\. Cuando la prestación de cualquiera de los elementos integrantes del servicio universal no quede garantizada por el libre mercado, el Ministerio de Industria, Turismo y Comercio designará uno o más operadores para que garanticen la prestación eficiente del servicio universal, de manera que quede cubierta la totalidad del territorio nacional. A estos efectos, podrán designarse operadores diferentes para la prestación de los diversos elementos del servicio universal y abarcar distintas zonas del territorio nacional.
+
+La determinación de aquellas zonas geográficas y elementos integrantes del servicio universal en donde no queden garantizadas sus prestaciones por el libre mercado se realizará por el Ministerio de Industria, Turismo y Comercio, previo informe preceptivo de la Comisión del Mercado de las Telecomunicaciones en el que se constate la zona y el elemento cuya prestación no queda garantizada por el libre mercado.
+
+El sistema de designación de operadores encargados de garantizar la prestación de los servicios, elementos y ofertas del servicio universal que se establece en los artículos siguientes de este reglamento se sujeta, en todo caso, a los principios de publicidad, concurrencia, igualdad, eficacia y no discriminación, así como a los restantes establecidos en el capítulo I de este título. Estos procedimientos de designación se podrán utilizar como medio para determinar el coste neto derivado de las obligaciones asignadas, a los efectos de lo dispuesto en las secciones siguientes de este capítulo.
+
+2\. Una vez finalizado el proceso de designación, el Secretario de Estado de Telecomunicaciones y para la Sociedad de la Información, podrá dictar las instrucciones necesarias, en su caso, para proceder de forma ordenada al cese del cumplimiento de las obligaciones de servicio universal y su asunción por el nuevo operador u operadores que como consecuencia de dicho proceso hubiesen resultado designados.
+
+3\. Cuando un operador designado para la prestación del servicio universal se proponga entregar una parte o la totalidad de sus activos de red de acceso local a una persona jurídica independiente informará al Ministerio de Industria, Turismo y Comercio a fin de que éste, previo informe de la Comisión del Mercado de las Telecomunicaciones, pueda evaluar las repercusiones de la operación prevista en el suministro de acceso desde una ubicación fija y la prestación de servicios telefónicos, y en su caso, imponer, modificar o suprimir obligaciones específicas de conformidad con lo establecido en la Ley General de Telecomunicaciones y su normativa de desarrollo.
+
+4\. La designación de un operador para la prestación del servicio universal dará lugar, en el caso de que la prestación para la que ha sido designado implique un coste neto que suponga una carga injustificada, a la calificación de dicho operador como receptor de fondos del Fondo nacional de financiación del servicio universal o, en su defecto, del mecanismo de compensación entre operadores que se establece en este reglamento.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+**Artículo 37. Prestación del servicio universal mediante licitación.**
+
+1\. El procedimiento para designar a un operador encargado de garantizar la prestación de un elemento del servicio universal en una determinada zona se iniciará, con una antelación de al menos seis meses a la finalización del período vigente, por el Ministerio de Industria, Turismo y Comercio con la puesta en marcha del procedimiento de licitación previsto en este artículo.
+
+2\. El titular del Ministerio de Industria, Turismo y Comercio efectuará, mediante orden ministerial, la convocatoria del correspondiente concurso y la publicación de las bases en las que se determinará el servicio o elemento que se debe prestar, el ámbito territorial, el período y las condiciones de prestación y financiación del servicio, de conformidad con lo establecido en este reglamento y en la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, previo informe de la Comisión del Mercado de las Telecomunicaciones y de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+En los criterios de adjudicación que se incluyan en dichas bases al menos se deberán tener en cuenta los relativos a la eficiencia económica mediante el menor coste neto, a las mejores prestaciones para los usuarios y a las garantías de continuidad en la prestación del elemento de servicio universal del que se trate. En la determinación de las zonas de designación predominará el criterio de eficacia.
+
+Asimismo, las bases contemplarán la determinación del coste neto para todo el periodo de la designación, en base a la oferta presentada por el licitante de acuerdo con la metodología para determinar el coste neto establecida previamente por la Comisión del Mercado de las Telecomunicaciones, o la determinación de un límite superior de coste neto libremente ofertado por el licitante, en función de la propuesta presentada que se considere más eficiente desde el punto de vista económico.
+
+Los servicios o elementos integrantes del servicio universal susceptibles de ser objeto de licitación, en determinadas zonas, son:
+
+a) El de conexión a red pública de comunicaciones electrónicas, referido en el artículo 28.1.
+
+b) La prestación del servicio telefónico disponible al público, referido en el artículo 28.2.
+
+c) La prestación de una oferta suficiente de teléfonos públicos de pago, referido en el artículo 32.
+
+d) La elaboración de las guías telefónicas a las que se refiere el artículo 30.
+
+e) La prestación del servicio de consulta telefónica sobre números de abonado al que se refiere el artículo 31.
+
+3\. Podrá presentarse al concurso cualquier persona física o jurídica legalmente establecida.
+
+4\. El Ministerio de Industria, Turismo y Comercio adjudicará el concurso al licitador que ofrezca las condiciones más ventajosas. En consecuencia, la empresa que resulte adjudicataria tendrá la consideración de operador designado para la prestación del servicio universal.
+
+5\. En el supuesto de que el concurso sea declarado desierto, la designación del operador encargado de prestar el servicio universal se realizará conforme al artículo siguiente.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+> Se modifican los apartados 1, 3, 4 y 5 por el art. 1.4 a 7 del Real Decreto 329/2009, de 13 de marzo. [Ref. BOE-A-2009-5707](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5707)
+
+**Artículo 38. Prestación del servicio universal por designación directa.**
+
+Cuando un concurso de designación de operador en relación con un elemento y zona determinadas haya sido declarado desierto, mediante orden del Ministerio de Industria, Turismo y Comercio se podrá designar para dicho elemento y zona a cualquier operador que tenga poder significativo en mercados que incluyan ese elemento y zona, o se encuentre designado en esos momentos para su prestación. Cuando en una zona determinada no existieran operadores con dicho poder significativo de mercado, ni con designación en vigor, se podrá designar, previa consulta a las partes implicadas, a cualquiera de los operadores con mayor cuota de participación en dichos mercados.
+
+En la orden a la que se refiere el párrafo anterior, previo informe de la Comisión del Mercado de las Telecomunicaciones y de la Comisión Delegada del Gobierno para Asuntos Económicos, se establecerá el servicio o elemento que se deba prestar y en qué ámbito territorial, así como el período y las condiciones de prestación del servicio, todo ello de conformidad con lo establecido en este reglamento.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+##### Sección 4.ª Coste neto de la prestación del servicio universal
+
+**Artículo 39. Concepto de coste neto.**
+
+1\. El coste neto de las obligaciones del servicio universal se obtendrá hallando la diferencia entre el coste que para el operador designado tiene el operar con dichas obligaciones y el correspondiente a operar sin las mismas. El cálculo del coste neto tendrá en cuenta los beneficios, incluidos los beneficios no monetarios, que hayan revertido al operador designado.
+
+2\. No se incluirán en el cálculo del coste neto del servicio universal los costes sufridos como consecuencia de la prestación de cualquier servicio que, de acuerdo con lo establecido en este reglamento, quede fuera del ámbito de aplicación de las obligaciones de servicio universal.
+
+3\. Tendrán la consideración de servicios no rentables los solicitados por clientes o grupos de clientes, a los que un operador no se los prestaría a precio asequible, atendiendo a razones exclusivamente comerciales, bien por disfrutar de tarifas especiales, bien por su alto coste, incluido el de su acceso.
+
+Son susceptibles de ser calificados como servicios no rentables los que deban prestarse a los usuarios que tengan discapacidades que impliquen una barrera de acceso al servicio o un uso más oneroso de este que el de un usuario sin discapacidad y a los colectivos de pensionistas y jubilados cuya renta familiar no exceda del indicador que, conforme al artículo 35.2.a).1.º, establezca la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+4\. Al evaluar los costes en que incurre el operador por estar obligado a la prestación del servicio universal, se tendrá en cuenta una tasa razonable de remuneración de los capitales invertidos en su prestación, con referencia al coste del dinero en el mercado de capitales.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+> Se modifica por el art.1.8 del Real Decreto 329/2009, de 13 de marzo. [Ref. BOE-A-2009-5707](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5707)
+
+**Artículo 40. Componentes de coste neto del servicio universal.**
+
+1\. Los costes netos imputables a las obligaciones de servicio universal impuestas a los operadores que son susceptibles de compensación están compuestos por:
+
+a) El coste neto de las obligaciones de suministrar la conexión a la red pública de comunicaciones electrónicas, desde una ubicación fija, a la que se refiere el artículo 28.1, con los plazos y las condiciones de razonabilidad establecidas en el artículo 29.
+
+b) El coste neto de las obligaciones de prestar el servicio telefónico disponible al público, referidas en el artículo 28.2.
+
+c) El coste neto de las obligaciones de prestar el servicio telefónico mediante teléfonos públicos de pago, referidas en el artículo 32.
+
+d) El coste neto de la obligación de elaborar y poner a disposición de los abonados del servicio telefónico las guías telefónicas a las que se refiere el artículo 30.
+
+e) El coste neto de las obligaciones de prestar los servicios de información números de abonados del servicio telefónico disponible al público, referidas en el artículo 31.
+
+En todos los casos, dichas obligaciones se considerarán conjuntamente con las medidas para facilitar la accesibilidad que se establecen en el artículo 33, las condiciones de calidad del artículo 34 y las de asequibilidad del artículo 35, que le sean de aplicación.
+
+2\. La Comisión del Mercado de las Telecomunicaciones será el organismo encargado de definir y revisar la metodología para determinar el coste neto, tanto en lo que respecta a la imputación de costes como a la atribución de ingresos y deberá ser conforme con lo establecido en este reglamento y basarse en procedimientos y criterios objetivos, transparentes, no discriminatorios y proporcionales y tener carácter público.
+
+3\. Asimismo, la Comisión del Mercado de las Telecomunicaciones establecerá el procedimiento para cuantificar los beneficios no monetarios obtenidos por el operador, en su calidad de prestador de un servicio universal. En dicha valoración se tendrán en cuenta, como mínimo, las siguientes categorías de potenciales generadores de beneficios no monetarios:
+
+a) Mayor reconocimiento de la marca del operador, como consecuencia de la prestación del servicio.
+
+b) Ventajas derivadas de la ubicuidad.
+
+c) Valoración de los clientes o grupos de clientes, teniendo en cuenta su ciclo de vida.
+
+d) Ventajas comerciales que implica el tener acceso a todo tipo de datos sobre el servicio telefónico.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+**Artículo 41. Coste neto de las obligaciones de suministrar la conexión a la red pública de comunicaciones electrónicas.**
+
+1\. El coste neto de las obligaciones de suministro de la conexión a la red pública de comunicaciones electrónicas se obtendrá sumando el coste neto asociado al suministro de las conexiones para la prestación eficiente de los servicios no rentables, referidos en el artículo 39,3, con el coste neto de suministrar las conexiones en las zonas no rentables, excluyendo posibles duplicidades, y deduciendo los beneficios, incluidos los beneficios no monetarios, debidos a la prestación de este elemento del servicio universal, obtenidos por su prestador.
+
+2\. El coste neto en las zonas no rentables se obtendrá hallando la diferencia entre los costes imputables debidos a su prestación eficiente y los ingresos atribuibles al suministro de las conexiones en dichas zonas que reviertan al prestador.
+
+3\. A los efectos de lo previsto en este artículo, se considerarán zonas no rentables las demarcaciones territoriales de prestación de conexiones a la red pública de comunicaciones electrónicas que un operador eficiente no cubriría a precio asequible, atendiendo a razones exclusivamente comerciales.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+**Artículo 42. Coste neto de las obligaciones de prestar el servicio telefónico disponible al público.**
+
+1\. El coste neto de la obligación de prestación del servicio telefónico disponible al público se obtendrá sumando el coste neto asociado al servicio telefónico disponible al público para la prestación eficiente de los servicios no rentables, referidos en el artículo 39,3, con el coste neto de suministrar el servicio telefónico disponible al público en las zonas no rentables y deduciendo los beneficios, incluidos los beneficios no monetarios, debidos a la prestación de este elemento del servicio universal, obtenidos por el operador.
+
+2\. El coste neto en las zonas no rentables se obtendrá hallando la diferencia entre los costes imputables debidos a su prestación eficiente y los ingresos atribuibles al suministro del servicio telefónico disponible al público en dichas zonas que reviertan al prestador.
+
+3\. A los efectos de lo previsto en este artículo, se considerarán zonas no rentables las demarcaciones territoriales de prestación del servicio telefónico disponible al público que un operador eficiente no cubriría a precio asequible, atendiendo a razones exclusivamente comerciales.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+**Artículo 43. Coste neto de las obligaciones relativas a las guías telefónicas y al servicio de consulta telefónica sobre números de abonado.**
+
+1\. El coste neto de la componente relativa a las guías telefónicas se obtendrá hallando la diferencia entre los costes imputables de su prestación eficiente y los ingresos atribuibles que reviertan al prestador, incrementando estos últimos con los beneficios, incluidos los beneficios no monetarios obtenidos por la prestación de este elemento del servicio universal.
+
+2\. El coste neto de la componente relativa a la obligación de prestar los servicios de consulta telefónica sobre números de abonados se obtendrá hallando la diferencia entre los costes imputables de su prestación eficiente y los ingresos atribuibles que reviertan al prestador, incrementando estos últimos con los beneficios, incluidos los beneficios no monetarios obtenidos por la prestación de este elemento del servicio universal.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+**Artículo 44. Coste neto de las obligaciones relativas a los teléfonos públicos de pago.**
+
+1\. El coste neto de la obligación de asegurar la prestación del servicio de teléfonos públicos de pago en el dominio público de uso común en un determinado municipio se calculará hallando la diferencia entre los costes imputables soportados por el operador por su instalación, mantenimiento, encaminamiento del tráfico saliente de aquellos y gestión eficiente, y los ingresos atribuibles generados por dichos teléfonos. Cuando el saldo así calculado muestre que en ese municipio los ingresos son superiores a los costes o cuando el número de estos teléfonos sea superior al exigido para cumplir con la oferta mínima referida en el artículo 32, y estos tengan una distribución territorial razonable, se considerará que no existe coste neto de la obligación en ese municipio.
+
+2\. El coste neto soportado por un operador designado para su prestación en una determinada zona geográfica, será el resultado de restar a la suma de los costes netos calculados para los municipios abarcados por dicha designación los beneficios, incluidos los beneficios no monetarios, obtenidos por la prestación de este elemento del servicio universal.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+**Artículo 45. Determinación periódica del coste neto, verificación y aprobación administrativa.**
+
+1\. Los operadores con obligaciones de servicio universal, designados según el procedimiento previsto en el artículo 38, o según el previsto en el artículo 37 siempre que el coste neto efectivo no haya sido determinado en el proceso de designación, formularán anualmente una declaración a la Comisión del Mercado de las Telecomunicaciones de los servicios que ofrecen, cuya prestación sólo pueda hacerse con coste neto para ellos, detallando sus distintos componentes de costes e ingresos, de acuerdo con los principios y las normas de este reglamento y siguiendo las instrucciones que dicte la Comisión del Mercado de las Telecomunicaciones en ejercicio de sus facultades.
+
+Para ello, el operador obligado, además de llevar una contabilidad separada que permita la adecuada asignación de los costes e ingresos, deberá encargar a una entidad cualificada e independiente, con una periodicidad anual, que compruebe dicha declaración de coste, y tendrá la obligación de aportar a la Comisión del Mercado de las Telecomunicaciones antes del 31 de julio del año siguiente el informe correspondiente que contenga una declaración de conformidad.
+
+2\. La cuantificación del coste neto contenida en dicha declaración deberá ser aprobada por la Comisión del Mercado de las Telecomunicaciones, previa verificación realizada por ella misma o por la entidad que, a estos efectos, designe. La Comisión del Mercado de las Telecomunicaciones publicará las conclusiones sobre el cumplimiento de los criterios de costes por parte de cada uno de los operadores obligados y la cuantificación del coste neto debidamente aprobada, con el límite de los aspectos confidenciales que puedan revelar una información contable excesivamente desagregada.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+**Artículo 46. Determinación de la existencia de una carga injustificada.**
+
+Cuando se haya apreciado un coste neto, la Comisión del Mercado de las Telecomunicaciones determinará, mediante resolución motivada, si dicho coste implica una carga injustificada para la empresa prestadora del servicio universal.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+##### Sección 5.ª Financiación del servicio universal
+
+**Artículo 47. Operadores obligados a financiar el servicio universal.**
+
+1\. Cuando, en virtud de lo establecido en el artículo 36.4, un operador designado tenga derecho a la financiación del coste neto que le supone la prestación del servicio universal, podrá instar el inicio del procedimiento para que la Comisión del Mercado de las Telecomunicaciones ponga en marcha el mecanismo de financiación para compartir dicho coste neto.
+
+La Comisión del Mercado de las Telecomunicaciones publicará en el “Boletín Oficial del Estado” la lista de operadores obligados a contribuir, los datos referentes a dicho mecanismo y los principios aplicables al reparto de los costes.
+
+2\. La financiación del coste neto resultante de la obligación de prestación del servicio universal será compartida por todos los operadores de redes y servicios de comunicaciones electrónicas.
+
+3\. La Comisión del Mercado de las Telecomunicaciones podrá exonerar a determinados operadores de la obligación de contribuir a la financiación del servicio universal cuando su volumen de negocios a escala nacional se sitúe por debajo de un umbral preestablecido por ella.
+
+La declaración de exención sólo tendrá efecto para el período que en ella se especifique, y el operador al que afecte deberá asumir la obligación de contribución al Fondo nacional de financiación del servicio universal una vez transcurrido, salvo que la Comisión del Mercado de las Telecomunicaciones expresamente lo prorrogue
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+> Se modifica el apartado 1 por el art. 1.9 del Real Decreto 329/2009, de 13 de marzo. [Ref. BOE-A-2009-5707](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5707)
+
+**Artículo 48. Objetivos y principios de la financiación.**
+
+1\. El mecanismo de financiación garantizará unos incentivos adecuados que fomenten una prestación eficiente del servicio universal, y limitará los posibles efectos negativos sobre el mercado y las inversiones que puedan derivarse de unos costes más elevados de lo necesario.
+
+2\. Los objetivos del mecanismo de financiación del servicio universal son los siguientes:
+
+a) Reducir al mínimo las barreras de acceso al mercado y garantizar al mismo tiempo la financiación del servicio universal.
+
+b) Respetar el requisito de neutralidad entre operadores del mercado, las tecnologías específicas o la prestación de servicios, integrada o separadamente, para evitar una distorsión en las estrategias de acceso al mercado o, posteriormente, en las decisiones sobre inversión o en la actividad en dicho mercado.
+
+c) Mantener al nivel mínimo las cargas administrativas y los costes relacionados con ellas.
+
+d) Crear unas condiciones que propicien una mayor eficacia e innovación, para garantizar la prestación del servicio universal al menor coste posible.
+
+3\. El mecanismo de financiación respetará los principios generales de objetividad, proporcionalidad, no discriminación y transparencia.
+
+4\. En ningún caso, las aportaciones de un operador para la financiación del servicio universal darán lugar, directa o indirectamente, a que se duplique el pago destinado a sufragar el coste neto de una misma obligación de servicio universal específica.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+**Artículo 49. Parámetros de reparto del coste neto entre los operadores obligados.**
+
+1\. Las aportaciones de los operadores de redes y servicios de comunicaciones electrónicas obligados a financiar el servicio universal serán proporcionales a la actividad de cada uno y serán determinadas por la Comisión del Mercado de las Telecomunicaciones.
+
+El criterio de distribución se basará, para cada operador, en la cantidad resultante de detraer de los ingresos brutos de explotación los pagos mayoristas relacionados con la prestación de servicios incluidos en el ámbito del servicio universal y será proporcional al volumen total de negocio en el mercado.
+
+2\. El Ministerio de Industria, Turismo y Comercio, previo informe de la Comisión del Mercado de las Telecomunicaciones y en función de la evolución tecnológica y de las condiciones del mercado, podrá establecer otros parámetros de distribución que representen mejor la actividad de los operadores, a los efectos de un más equitativo reparto de la carga derivada del servicio universal.
+
+3\. Las aportaciones que los operadores designados para la prestación del servicio universal deban realizar al Fondo nacional de financiación del servicio universal, por estar obligados a financiar dicho servicio, serán minoradas en las cuantías que, en su caso, les corresponda percibir por las obligaciones de servicio universal que tengan impuestas.
+
+La resultante podrá dar lugar a una aportación neta del operador al mecanismo de financiación o una recepción neta de subsidio.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+**Artículo 50. Fondo nacional de financiación del servicio universal. Naturaleza y fines. Supresión del fondo.**
+
+1\. El Fondo nacional de financiación del servicio universal garantiza la financiación del servicio universal y recoge las aportaciones de los operadores obligados a contribuir a ella.
+
+El fondo carece de personalidad jurídica propia y su gestión se llevará a cabo por la Comisión del Mercado de las Telecomunicaciones.
+
+2\. A través del fondo se persiguen los siguientes fines:
+
+a) Gestionar el cobro efectivo de las aportaciones de los operadores de comunicaciones electrónicas.
+
+b) Gestionar los pagos a los operadores con derecho a recibirlos por la prestación del servicio universal.
+
+3\. En relación con el fondo, la Comisión del Mercado de las Telecomunicaciones llevará a cabo las siguientes funciones:
+
+a) Conocer su evolución económica y adoptar las medidas necesarias para el cumplimiento de sus fines.
+
+b) Aprobar sus previsiones de ingresos y su liquidación anual.
+
+c) Aprobar la memoria anual de su gestión que se incorporará al informe anual que ha de presentar conforme al procedimiento establecido en el artículo 20 de la Ley 2/2011 de Economía Sostenible.
+
+d) Gestionar su patrimonio, cobro de derechos y atención de sus obligaciones.
+
+e) Determinar las contribuciones de cada operador.
+
+f) Resolver de forma vinculante los conflictos que se susciten entre operadores en materias relacionadas con el fondo.
+
+4\. En el caso de que el coste de la prestación del servicio universal para operadores sujetos a estas obligaciones sea de una magnitud tal que no justifique los costes derivados de la gestión del fondo, la Comisión del Mercado de las Telecomunicaciones podrá proponer al Gobierno su supresión y, en su caso, el establecimiento de mecanismos de compensación directa entre operadores.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+**Artículo 51. Recursos del Fondo nacional de financiación del servicio universal. Aportaciones y gestión.**
+
+1\. Son recursos del Fondo nacional de financiación del servicio universal los siguientes:
+
+a) Las aportaciones que realicen los operadores obligados a financiar el servicio universal.
+
+b) Las aportaciones realizadas por cualquier otra persona física o jurídica que desee contribuir desinteresadamente a la financiación de cualquier actividad propia del servicio universal.
+
+2\. Las aportaciones pecuniarias se depositarán en una cuenta restringida abierta a tal efecto en una entidad de crédito. Al total de los activos se le deducirán los gastos de la gestión del fondo.
+
+3\. Los recursos del fondo sólo se podrán invertir en activos financieros de alta liquidez y rentabilidad asegurada.
+
+4\. El procedimiento para fijar las aportaciones y llevarlas a cabo será el siguiente:
+
+a) En el plazo de dos meses a partir de la publicación de la lista referida en el artículo 47.1, cada operador obligado enviará la información relativa a sus ingresos del último ejercicio que se haya cerrado tres meses antes de la publicación de dicha lista a la Comisión del Mercado de las Telecomunicaciones.
+
+b) La Comisión del Mercado de las Telecomunicaciones calculará las cuotas de mercado de los operadores obligados a contribuir y la aportación que les corresponda realizar a cada uno. En el plazo de dos meses, contados a partir de la finalización del plazo anterior relativo al envío de información sobre los ingresos, publicará en el «Boletín Oficial del Estado» la aportación anual que corresponda ingresar a cada operador obligado por este concepto y les requerirá para que efectúen los ingresos correspondientes, en un único pago en el plazo de un mes a partir de dicha notificación.
+
+c) Los operadores con derecho a compensación la recibirán dentro del mes siguiente a la finalización del período de pago, de acuerdo con las aportaciones habidas.
+
+5\. Si un operador obligado a realizar aportaciones no las lleva a cabo en el plazo establecido, la deuda devengará un interés de demora igual al interés legal más dos puntos desde el día siguiente al de finalización del plazo de pago.
+
+La Comisión del Mercado de las Telecomunicaciones podrá ejercer las acciones legales encaminadas al cobro de las cantidades debidas, y serán de cuenta del deudor los gastos que ello ocasione.
+
+6\. La obligación de prestar el servicio universal no quedará condicionada, en ningún caso, a la recepción de compensaciones que provengan del fondo.
+
+7\. La Comisión del Mercado de las Telecomunicaciones pondrá a disposición de los interesados, a solicitud de estos, la información disponible actualizada relativa a la gestión del Fondo nacional de financiación del servicio universal.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+**Artículo 52. Costes de administración del fondo.**
+
+Los costes de administración del fondo incluyen, al menos, los siguientes:
+
+a) Los que ocasione al gestor la supervisión del coste neto.
+
+b) Los administrativos.
+
+c) Los derivados de la gestión de las contribuciones.
+
+Dichos costes serán objeto de reparto entre los operadores obligados con los mismos criterios que el coste neto del servicio universal, formando parte de sus correspondientes aportaciones al fondo.
+
+> Se modifica por el art. único del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+#### CAPÍTULO III — Otras obligaciones de servicio público
+
+**Artículo 53. Obligaciones de servicio público previstas en el apartado 1 del artículo 25 de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.**
+
+El Gobierno, mediante acuerdo del Consejo de Ministros, podrá imponer obligaciones de servicio público distintas del servicio universal por necesidades de la defensa nacional, de la seguridad pública o de la seguridad de las personas o de protección civil.
+
+El acuerdo del Consejo de Ministros que imponga dichas obligaciones establecerá, asimismo, la forma de gestión, directa o indirecta, del servicio y el sometimiento, en su caso, a los principios generales establecidos en el artículo 26.
+
+**Artículo 54. Obligaciones de servicio público previstas en el apartado 2 del artículo 25 de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.**
+
+La inclusión de nuevos servicios que comporten la acreditación fehaciente del contenido del mensaje o de su remisión o recepción distintos de los encomendados inicialmente a la Sociedad Estatal Correos y Telégrafos, S. A., así como la designación de la entidad encargada de prestarlos, se efectuará por acuerdo del Consejo de Ministros.
+
+El Gobierno, previo informe de la Comisión del Mercado de las Telecomunicaciones, podrá imponer otras obligaciones de servicio público motivadas por las necesidades o razones previstas en dicho apartado, así como establecer su forma de financiación.
+
+La inclusión entre los servicios encomendados a la Sociedad Estatal Correos y Telégrafos, S. A., de otros de contenido similar, que comporten la acreditación fehaciente del contenido del mensaje o de su remisión o recepción, sus características técnicas, las de su prestación y las de financiación, se efectuarán, en su caso por orden del Ministerio de la Presidencia, a propuesta de los Ministerios de Industria, Turismo y Comercio y de Fomento.
+
+Serán de aplicación a los servicios regulados en este artículo los principios generales establecidos en el artículo 26.
+
+**Artículo 55. Principios aplicables para la determinación de los operadores obligados a cumplir las obligaciones de servicio público previstas en este capítulo.**
+
+El real decreto o, en su caso, el acuerdo del Consejo de Ministros que establezca obligaciones de servicio público subsumibles en alguno de los artículos de este capítulo y distintas de las inicialmente fijadas en la disposición transitoria cuarta de este reglamento establecerá lo siguiente:
+
+a) La forma de designación del operador obligado, tomando en consideración los principios aplicables fijados en el artículo 26 y previendo, cuando proceda, un procedimiento de selección competitiva.
+
+b) La definición de los objetivos que se prevén alcanzar.
+
+c) La delimitación de la cobertura y áreas territoriales prioritarias y, en su caso, de las demarcaciones para la prestación de los servicios.
+
+d) La fijación, en su caso, de los parámetros para la determinación del carácter asequible de los precios y de los mecanismos para su medición y control.
+
+e) La forma de financiación de las obligaciones de servicio público y programa de asignación de fondos para alcanzar los objetivos.
+
+f) El calendario de actuaciones o, en su caso, criterios para el establecimiento de prioridades.
+
+**Artículo 56. Obligaciones de servicio público en materia de transmisión de determinados canales y servicios de programas de radiodifusión y televisión.**
+
+1\. Sin perjuicio de las obligaciones que los operadores tengan impuestas en virtud de lo establecido en la normativa de acceso e interconexión, de lo dispuesto en el capítulo III del título II de este reglamento, de las obligaciones impuestas por razón de la interoperabilidad de los servicios o de las impuestas en materia de regulación de los mercados de referencia, tendrán la consideración de obligaciones de servicio público del artículo 25.2.b) de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, las establecidas en el apartado 4 de la disposición adicional séptima de la citada ley y las de cobertura y calidad exigibles a las personas físicas o jurídicas que tengan títulos habilitantes de radiodifusión o televisión que sustituyan las previstas en la disposición transitoria sexta de dicha ley. A estos efectos, los operadores de redes públicas de comunicaciones electrónicas estarán obligados a cumplir las exigencias de transmisión de determinados canales y servicios de programas de radio y televisión o de cobertura y calidad que se establezcan de conformidad con este artículo.
+
+2\. Para la imposición de las obligaciones de servicio público a que se refiere el apartado anterior, deberán cumplirse los siguientes requisitos:
+
+a) Que los operadores a los que se imponga la obligación exploten redes de comunicaciones electrónicas utilizadas para la distribución de programas de radio o televisión al público.
+
+b) Que un número significativo de usuarios finales de dichas redes las utilice como medio principal de recepción de programas de radio y televisión.
+
+c) Que la imposición como obligación de servicio público sea necesaria para alcanzar objetivos de interés general claramente definidos por la legislación básica en materia de medios de comunicación social.
+
+d) Que se cumplan los principios generales aplicables para la imposición de obligaciones de servicio público establecidas en el artículo 26.
+
+3\. Los operadores en los que concurran los requisitos establecidos en los párrafos a) y b) del apartado anterior tendrán la obligación de facilitar sus capacidades de transmisión y de red a las personas físicas o jurídicas que tengan los títulos habilitantes de radiodifusión o televisión a las que, en aplicación de la legislación básica del Estado dictada al amparo de su competencia en materia de medios de comunicación social, prevista en el artículo 149.1.27.ª de la Constitución, se reconozcan derechos de distribución de determinados canales y servicios de programas de radio y televisión, o a las que se impongan obligaciones en materia de cobertura y calidad. Dicha legislación básica deberá determinar claramente el tipo de financiación que, en su caso, se prevea, los sujetos beneficiarios u obligados y justificar debidamente la concurrencia de los requisitos establecidos en los párrafos c) y d) del apartado anterior.
+
+4\. Cuando la legislación básica sobre medios de comunicación social no determine el tipo de financiación, la retribución que, en su caso, proceda a los operadores de comunicaciones electrónicas obligados en virtud de este artículo como compensación por la imposición de las obligaciones de servicio público previstas en él deberá ser acordada libremente entre ellos y las personas físicas o jurídicas que tengan los correspondientes títulos habilitantes de radiodifusión o televisión a los que correspondan, respectivamente, los derechos de distribución de determinados canales y servicios de programas de radio y televisión o las obligaciones en materia de cobertura y calidad. En caso de desacuerdo sobre las condiciones técnicas y económicas aplicables, corresponderá a la Comisión del Mercado de las Telecomunicaciones resolver el conflicto mediante resolución vinculante, previa solicitud de alguna de las partes y previa tramitación de expediente contradictorio.
+
+### TÍTULO IV — Derecho de los operadores a la ocupación del dominio público, a ser beneficiarios en el procedimiento de expropiación forzosa y condiciones de establecimiento de servidumbres y limitaciones
+
+**Artículo 57. Derecho a la ocupación del dominio público y a ser beneficiario en expedientes de expropiación forzosa.**
+
+Los operadores tendrán derecho, en la medida en que sea necesario para el establecimiento de una red pública de comunicaciones electrónicas y en los términos establecidos en el capítulo II del título III de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, a la ocupación del dominio público y de la propiedad privada.
+
+Los operadores, para el ejercicio de dichos derechos, estarán obligados a cumplir las condiciones exigibles que se establecen en este reglamento y, en concreto, las normas que se fijen por las Administraciones públicas competentes de conformidad con lo dispuesto en los artículos 28 y 29 de la Ley 32/2003, de 3 de noviembre, y con sujeción a los límites de emisión que se establezcan en desarrollo de lo previsto en el artículo 44.1.a) de dicha ley.
+
+**Artículo 58. Derecho a ser beneficiarios en el procedimiento de expropiación forzosa.**
+
+1\. Los operadores, cuando resulte estrictamente necesario para la instalación de la red, en la medida prevista en el proyecto técnico presentado y siempre que no existan otras alternativas económicamente viables, tendrán derecho a la ocupación de la propiedad privada, ya sea a través de su expropiación forzosa, ya sea mediante la declaración de servidumbre forzosa de paso para la instalación de infraestructuras de redes públicas de comunicaciones electrónicas. A dichos efectos, podrán solicitar ser beneficiarios en un expediente concreto, siempre que cumplan lo dispuesto en la Ley 32/2003, de 3 de noviembre, y en la normativa vigente en materia de expropiación forzosa.
+
+2\. La aprobación del proyecto técnico por la Secretaria de Estado de Telecomunicaciones y para la Sociedad de la Información llevará implícita, en cada caso concreto, la declaración de utilidad pública y la necesidad de ocupación para la instalación de redes públicas de comunicaciones electrónicas, a los efectos de lo previsto en la legislación de expropiación forzosa.
+
+3\. Con carácter previo a la aprobación del proyecto técnico, se recabará informe de la comunidad autónoma competente, de conformidad con lo dispuesto en el artículo 27 de la Ley 32/2003, de 3 de noviembre.
+
+4\. En las expropiaciones que se lleven a cabo para la instalación de redes públicas de comunicaciones electrónicas cuyos titulares tengan impuestas obligaciones de servicio público indicadas en el artículo 22 o en los apartados 1 y 2 del artículo 25 de la Ley 32/2003, de 3 de noviembre, se seguirá el procedimiento especial de urgencia establecido en la Ley de Expropiación Forzosa, cuando así se haga constar en la resolución de la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información que apruebe el oportuno proyecto técnico.
+
+**Artículo 59. Uso compartido del dominio público y privado para la instalación de infraestructuras.**
+
+1\. Las Administraciones públicas competentes podrán fomentar el uso compartido del dominio público o de la propiedad privada para el establecimiento de redes públicas de comunicaciones electrónicas.
+
+Asimismo, en los términos establecidos en el artículo 30 de la Ley 32/2003, de 3 de noviembre, las Administraciones públicas podrán acordar que, desde la fecha en que se dicte la correspondiente resolución, el dominio público o la propiedad privada estarán sujetos al régimen de uso compartido previsto en dicho artículo.
+
+El uso compartido se articulará mediante acuerdos entre los operadores interesados. En el caso de ocupación del dominio público, a falta de acuerdo en el plazo de un mes, cualquiera de los operadores podrá, previa comunicación al resto de ellos y al titular de dicho dominio, requerir a la Comisión del Mercado de las Telecomunicaciones para que emita el informe previsto en el artículo 30.3 de la Ley 32/2003, de 3 de noviembre.
+
+2\. No obstante lo dispuesto en el apartado anterior, las condiciones para el uso compartido de los locales e infraestructuras de comunicaciones electrónicas para la interconexión de redes publicas de comunicaciones electrónicas se sujetarán a lo dispuesto en el reglamento de desarrollo de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, en materia de interconexión, y quedarán excluidas de la aplicación de lo dispuesto en este artículo.
+
+3\. Cuando en aplicación de los límites de emisión que se fijen de conformidad con lo dispuesto en el artículo 44.1.a) de la Ley 32/2003, de 3 de noviembre, se establezcan límites en los niveles de emisión para el uso compartido de infraestructuras, deberán autorizarse más emplazamientos para asegurar la cobertura en los términos establecidos en el artículo 30.4 de dicha ley.
+
+**Artículo 60. Otras servidumbres y limitaciones.**
+
+1\. Los operadores, en la medida en que sea necesario para la protección de sus redes públicas de comunicaciones electrónicas, podrán obtener la protección del dominio público radioeléctrico que utilicen para dichas redes, para lo que solicitarán la imposición de servidumbres y limitaciones a la propiedad, de conformidad con lo dispuesto en la disposición adicional primera de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
+
+2\. En los términos que se establezcan en la normativa reglamentaria que desarrolle el artículo 44 de la Ley 32/2003, de 3 de noviembre, podrán fijarse, de conformidad con lo previsto en el artículo 32.2 de dicha ley, límites al derecho de uso del dominio público radioeléctrico para la protección de otros bienes jurídicamente protegidos prevalentes.
+
+### TÍTULO V — Obligaciones de carácter público. Secreto de las comunicaciones y protección de los datos personales
+
+#### CAPÍTULO I — Protección de los datos personales en la explotación de redes y en la prestación de los servicios de comunicaciones electrónicas disponibles al público
+
+##### Sección 1.ª Disposiciones generales
+
+**Artículo 61. Ámbito de aplicación.**
+
+1\. Este capítulo tiene por objeto el establecimiento de las normas reglamentarias de carácter técnico de desarrollo de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, en relación con la protección de los datos personales en la explotación de redes y en la prestación de los servicios de comunicaciones electrónicas disponibles al público. Lo regulado en este capítulo es de aplicación al tratamiento de los datos personales en la prestación de servicios de comunicaciones electrónicas disponibles al público y en la explotación de redes públicas de comunicaciones electrónicas, así como en las actividades que realicen los sujetos a los que se refiere el artículo 51.c) de la Ley 32/2003, de 3 de noviembre, en los supuestos en que este resulte de aplicación.
+
+2\. Las disposiciones sobre visualización y limitación de la identificación de la línea de origen y de la línea conectada y sobre el desvío automático de llamadas se aplicarán, en los términos establecidos en la sección 3.ª de este capítulo, a las líneas de abonados conectadas a centrales digitales y, cuando sea técnicamente posible y no exija una inversión desproporcionada por el operador, a las líneas de abonados conectadas a centrales analógicas. Los operadores deberán obtener del Ministerio de Industria, Turismo y Comercio la autorización correspondiente para quedar exentos del cumplimiento de los requisitos sobre visualización y limitación de la identificación de la línea de origen y conectada y sobre desvío automático de llamadas.
+
+3\. No será de aplicación lo establecido en este capítulo cuando, de conformidad con la normativa vigente, sea necesario adoptar medidas para la protección de la seguridad pública, la seguridad del Estado, la aplicación del derecho penal y la interceptación legal de las comunicaciones electrónicas para cualesquiera de estos fines.
+
+**Artículo 62. Protección y seguridad de los datos personales.**
+
+1\. Los sujetos obligados a los que se refiere el artículo 51 de la Ley 32/2003, de 3 de noviembre, deberán garantizar la protección de los datos personales en el ejercicio de su actividad, en los términos establecidos en este reglamento y en la legislación vigente.
+
+2\. Los operadores deberán adoptar las medidas técnicas y de gestión adecuadas para preservar la seguridad en la explotación de su red o en la prestación de sus servicios, para garantizar los niveles de protección de los datos de carácter personal establecidos en este reglamento y demás normativa aplicable.
+
+En caso de que exista un riesgo particular de violación de la seguridad de la red pública de comunicaciones electrónicas, el operador que explote dicha red o preste el servicio de comunicaciones electrónicas informará a los abonados sobre dicho riesgo y, cuando el riesgo quede fuera del ámbito de las medidas que deberá tomar el prestador del servicio, sobre las posibles soluciones, con una indicación de los posibles costes.
+
+**Artículo 63. Régimen jurídico.**
+
+La protección de los datos personales vinculados a las redes y servicios de comunicaciones electrónicas se regirá por lo dispuesto en el artículo 38 de la Ley 32/2003, de 3 de noviembre, por este título V y, en lo no previsto por aquellas normas, por lo dispuesto en legislación vigente sobre protección de los datos de carácter personal.
+
+**Artículo 64. Definiciones.**
+
+A los efectos de este título, se entiende por:
+
+a) Datos de tráfico: cualquier dato tratado a efectos de la conducción de una comunicación a través de una red de comunicaciones electrónicas o a efectos de su facturación.
+
+b) Datos de localización: cualquier dato tratado en una red de comunicaciones electrónicas que indique la posición geográfica del equipo terminal de un usuario de un servicio de comunicaciones electrónicas disponible para el público.
+
+c) Comunicación: cualquier información intercambiada o conducida entre un número finito de interesados por medio de un servicio de comunicaciones electrónicas disponible para el público. No se incluye en la presente definición la información conducida, como parte de un servicio de radiodifusión al público, a través de una red de comunicaciones electrónicas, excepto en la medida en que la información pueda relacionarse con el abonado o usuario identificable que reciba la información.
+
+d) Llamada: una conexión establecida por medio de un servicio telefónico disponible para el público que permita la comunicación bidireccional en tiempo real.
+
+e) Servicio con valor añadido: todo servicio que requiere el tratamiento de datos de tráfico o datos de localización distintos de los de tráfico que vaya más allá de lo necesario para la transmisión de una comunicación o su facturación.
+
+f) Tratamiento de datos: operaciones y procedimientos técnicos de carácter automatizado o no, que permitan la recogida, grabación, conservación, elaboración, modificación, bloqueo y cancelación, así como las cesiones de datos que resulten de comunicaciones, consultas, interconexiones y transferencias.
+
+g) Facilidad de identificación de la línea de origen: la prestación que permite que el usuario que recibe una llamada, obtenga la información del número telefónico de la línea desde donde se origina esa comunicación.
+
+h) Facilidad de identificación de línea conectada: la prestación que permite que el usuario que origina la llamada obtenga información del número telefónico de la línea a la que ha sido conectada su llamada.
+
+##### Sección 2.ª Los datos de carácter personal en relación con determinados aspectos de los servicios de comunicaciones electrónicas
+
+**Artículo 65. Datos personales sobre el tráfico y la facturación.**
+
+1\. Los operadores deberán eliminar o hacer anónimos los datos de carácter personal sobre el tráfico referidos a una comunicación y relacionados con los usuarios y los abonados que hayan sido tratados y almacenados para establecer una comunicación, en cuanto ya no sean necesarios a los efectos de su transmisión, sin perjuicio de lo dispuesto en los apartados siguientes.
+
+2\. Los datos de tráfico que fueran necesarios para realizar la facturación y los pagos de las interconexiones podrán ser tratados únicamente durante el plazo en que pueda impugnarse la factura o exigirse el pago, de conformidad con la legislación aplicable. Transcurrido dicho plazo, los operadores deberán eliminar o hacer anónimos los datos de carácter personal, en los términos del apartado 1.
+
+3\. Asimismo, los operadores podrán tratar los datos de tráfico con fines de promoción comercial de servicios de comunicaciones electrónicas o para la prestación de servicios con valor añadido, en la medida y durante el tiempo necesarios para la prestación de tales servicios o su promoción comercial, siempre y cuando el abonado haya dado su consentimiento informado.
+
+A estos efectos, los sujetos obligados deberán dirigirse a los abonados, al menos, con un mes de antelación al inicio de la promoción o de la prestación del servicio con valor añadido, informarles del tipo de servicios para los que se efectuará el tratamiento, los tipos de datos que serán objeto de tratamiento y la duración que tendrá y solicitarles su consentimiento para el tratamiento de los datos. Esta comunicación, que deberá efectuarse a través de un medio que garantice su recepción por parte del abonado, podrá llevarse a cabo de forma conjunta a la facturación del servicio prestado por los sujetos obligados al abonado.
+
+Deberá facilitarse al interesado un medio sencillo y que no implique ingreso alguno para el sujeto obligado para manifestar su negativa al tratamiento de los datos. En particular, se considerará ajustado a este reglamento el procedimiento en el que tal negativa pueda efectuarse mediante un envío prefranqueado al sujeto obligado o la llamada a un número telefónico gratuito o a los servicios de atención al cliente que aquel hubiera establecido.
+
+Si en el plazo de un mes desde que el abonado reciba la solicitud este no se hubiese pronunciado al respecto, se entenderá que consiente el tratamiento de los datos de tráfico para esta finalidad, siempre que así se hubiera hecho constar en la información dirigida al abonado.
+
+En todo caso, los abonados dispondrán de la posibilidad de retirar en cualquier momento su consentimiento para el tratamiento de sus datos de tráfico al que se refiere este apartado.
+
+4\. El operador deberá informar al abonado o al usuario de los tipos de datos de tráfico que son tratados y de la duración de este tratamiento a los efectos mencionados en el apartado 2 y, antes de obtener el consentimiento, a los efectos previstos en el apartado 3.
+
+5\. El tratamiento de los datos de tráfico, de conformidad con los apartados anteriores, sólo podrá realizarse por las personas que actúen bajo la autoridad del operador prestador del servicio o explotador de la red que se ocupen de la facturación o de la gestión del tráfico, de las solicitudes de información de los clientes, de la detección de fraudes, de la promoción comercial de los servicios de comunicaciones electrónicas, de la prestación de un servicio con valor añadido o de suministrar la información requerida por los jueces y tribunales, por el Ministerio Fiscal o por los órganos o entidades que pudieran reclamarla en virtud de las competencias atribuidas por la Ley 32/2003, de 3 de noviembre.
+
+En todo caso, dicho tratamiento deberá limitarse a lo necesario para realizar tales actividades.
+
+**Artículo 66. Protección de los datos personales en la facturación desglosada.**
+
+Los abonados tendrán derecho a recibir facturas no desglosadas cuando así lo soliciten a los operadores que, de conformidad con lo dispuesto en este reglamento, tengan la obligación de prestar dicho servicio.
+
+Asimismo, por resolución del Secretario de Estado de Telecomunicaciones y para la Sociedad de la Información, se fijarán las distintas modalidades de presentación de la facturación desglosada que los abonados pueden solicitar a los operadores, tales como la supresión de un determinado número de cifras en la factura de los números a los que se ha llamado o la no aparición en la factura de los números a los que se llama cuando el pago se haga con tarjeta de crédito, como mecanismos de garantía de la utilización anónima o estrictamente privada del servicio.
+
+Las llamadas que tengan carácter gratuito para el abonado que efectúa la llamada, incluidas las llamadas a los números de asistencia, no figurarán en las facturas detalladas del abonado que efectúa la llamada.
+
+**Artículo 67. Guías de servicios de comunicaciones electrónicas disponibles al público.**
+
+1\. Los sujetos obligados deberán informar gratuitamente a sus abonados antes de incluir o facilitar sus datos a otra entidad con destino a su inclusión en cualquier tipo de guía de abonados, impresa o electrónica, disponible al público o accesible a través de servicios de información o de consulta sobre ella, de la finalidad de dicha guía, así como de cualquier otra posibilidad de uso basada en funciones de búsqueda incorporadas en sus versiones electrónicas. Dicha información a los abonados deberá producirse al menos con un mes de antelación a que los datos sean incluidos o facilitados a otra entidad para su inclusión, y se les deberá solicitar su consentimiento, en los términos establecidos en los apartados siguientes.
+
+2\. Para que los datos correspondientes a un abonado a los que se refiere el artículo 30.4 sean incluidos por primera vez en algún tipo de guía o facilitados a otra entidad para su inclusión en ella o para la prestación de servicios de información o de consulta sobre ella, será preciso el consentimiento expreso de dicho abonado. A estos efectos, se entenderá que existe consentimiento expreso de un abonado cuando el operador le solicite su consentimiento para la inclusión de tales datos, con indicación expresa de cuáles serán estos, el modo en que serán incluidos en la guía y su finalidad, y este le responda dando su aceptación. También se producirá cuando este se dirija por escrito a su operador solicitándole que sus datos figuren en la guía.
+
+Si el abonado no hubiese dado su consentimiento expreso, se entenderá que no acepta que se publiquen en la guía correspondiente sus datos.
+
+Una vez otorgado el consentimiento conforme al párrafo anterior, para las sucesivas inclusiones de dichos datos en la guía o su entrega a otra entidad para su inclusión en ella o para la prestación de servicios de información o de consulta sobre ella, bastará con que, en el plazo de un mes, en la comunicación en la que se solicita el consentimiento, el abonado no se oponga expresamente a dicha inclusión.
+
+3\. La inclusión en una guía, impresa o electrónica, de cualquier dato distinto de los previstos en el artículo 30.4 exigirá el consentimiento expreso del abonado para ello, tanto la primera vez como las sucesivas inclusiones.
+
+A estos efectos, se entenderá que existe consentimiento expreso de un abonado cuando este se dirija por escrito a quien elabora la guía o a quien facilita sus datos personales a otra entidad con esa finalidad y le solicite que amplíe sus datos personales que figuran en la guía. También se producirá cuando quien elabora la guía o a quien facilita sus datos personales a otra entidad con esa finalidad solicite al abonado su consentimiento para la inclusión de tales datos, indicando expresamente cuáles serán estos, el modo en que serán incluidos en la guía y su finalidad, y este le responda dando su aceptación.
+
+Si el abonado no hubiese dado su consentimiento expreso, se entenderá que no acepta que se publiquen en la guía correspondiente otros datos que no sean los que se establecen en el párrafo primero de este apartado.
+
+4\. Los abonados tendrán derecho a que sus datos que aparezcan en la guía no sean utilizados con fines de publicidad o prospección comercial y a que así conste de forma clara en la guía. Del mismo modo tendrán derecho a que se omita parcialmente su dirección o algún otro dato, en los términos que haya estipulado su proveedor. Asimismo, podrán ejercer los derechos de acceso, rectificación, cancelación y oposición, en los términos previstos en la legislación vigente en materia de protección de datos de carácter personal.
+
+El ejercicio de los derechos a los que se refiere este apartado no deberá implicar ingreso alguno para el sujeto obligado.
+
+Los abonados que hayan ejercido su derecho a no figurar en las guías tendrán derecho a recibir la información adicional a la que se refiere el párrafo primero del apartado 2 del artículo 71.
+
+5\. La guía a la que se refiere el artículo 30 dejará de tener el carácter de fuente accesible al público cuando se publique la siguiente actualización. El resto de guías perderán dicho carácter con la siguiente actualización o, en su defecto, tras el transcurso del plazo de un año desde su última publicación, con independencia del formato en que se hayan elaborado.
+
+6\. Lo dispuesto en los apartados anteriores en relación con las guías de abonados será de aplicación a los datos utilizados para la prestación de servicios de consulta sobre números de abonado.
+
+**Artículo 68. Prestación de los servicios de elaboración de guías de abonados y de consulta telefónica sobre números de abonado.**
+
+1\. La elaboración y comercialización de las guías de abonados a los servicios de comunicaciones electrónicas y la prestación de servicios de consulta telefónica sobre números de abonado se realizará en régimen de libre competencia.
+
+2\. La Comisión del Mercado de las Telecomunicaciones deberá suministrar gratuitamente a las entidades que vayan a elaborar guías telefónicas de abonados, a las que presten el servicio de consulta telefónica sobre números de abonado y a las que presten los servicios de llamadas de emergencia, los datos que le faciliten los operadores, de conformidad con lo establecido en este reglamento, con las instrucciones que, en su caso, dicte la Comisión del Mercado de las Telecomunicaciones y con lo que a tal efecto se establezca por orden ministerial.
+
+Los datos referentes a los abonados que hubieran ejercido su derecho a no figurar en las guías accesibles al público únicamente se proporcionarán a las entidades titulares del servicio de atención de llamadas de emergencia. A estos efectos, se entenderá que los servicios de llamadas de emergencia son los prestados a través del número 112 y aquellos otros que determine la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información.
+
+El suministro se realizará a solicitud expresa de la entidad interesada y previa resolución motivada de la Comisión del Mercado de las Telecomunicaciones, previo informe de la Agencia Española de Protección de Datos, en la que se reconozca que la entidad reúne los requisitos para acceder a los datos y se establezcan las condiciones de suministro y de utilización de los datos suministrados.
+
+3\. Las entidades que reciban los datos de la Comisión del Mercado de las Telecomunicaciones estarán obligadas a la prestación de los servicios que motivan la comunicación de los datos, a la utilización de los datos comunicados única y exclusivamente para dicha prestación y a la utilización para ello de la última versión actualizada de los datos que se encuentre disponible.
+
+En caso de que en el plazo de seis meses desde el reconocimiento del derecho de la entidad solicitante al acceso a los datos del abonado esta no hubiera iniciado la prestación de los servicios en virtud de los cuales se acordó el suministro de la información, o se comprobase que con posterioridad al reconocimiento del derecho los datos se utilizan para otras finalidades distintas o son empleados de forma distinta a la establecida por la Comisión del Mercado de las Telecomunicaciones, esta, previo informe de la Agencia Española de Protección de Datos, dictará una resolución motivada que revoque, en su caso, la resolución por la que se reconoció el derecho de acceso a los datos.
+
+Si se acordase la revocación de la resolución por la que se reconoció el derecho de acceso a los datos, la entidad interesada deberá proceder a la supresión inmediata de los datos que le hubieran sido comunicados, así como cualquier copia de estos.
+
+Lo establecido en este apartado se entiende sin perjuicio de las competencias atribuidas a la Agencia Española de Protección de Datos por la legislación vigente en materia de protección de datos de carácter personal.
+
+**Artículo 69. Llamadas no solicitadas para fines de venta directa.**
+
+1\. Las llamadas no solicitadas por los abonados con fines de venta directa que se efectúen mediante sistemas de llamada automática, a través de servicios de comunicaciones electrónicas, sin intervención humana (aparatos de llamada automática) o facsímil (fax), sólo podrán realizarse a aquellos que hayan dado su consentimiento previo, expreso e informado.
+
+El incumplimiento de lo establecido en el párrafo anterior será sancionado de acuerdo con lo establecido en el artículo 38.3.c), o en el artículo 38.4.d) de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico.
+
+2\. Las llamadas no solicitadas por los abonados con fines de venta directa que se efectúen mediante sistemas distintos de los establecidos en el apartado anterior podrán efectuarse salvo las dirigidas a aquellos que hayan manifestado su deseo de no recibir dichas llamadas.
+
+No obstante lo dispuesto en el párrafo anterior, para realizar las llamadas a las que este se refiere a quienes hubiesen decidido no figurar en las guías de comunicaciones electrónicas disponibles al público o a los que hubiesen ejercido su derecho a que los datos que aparecen en ellas no sean utilizados con fines de publicidad o prospección comercial, será preciso contar con el consentimiento expreso de aquéllos.
+
+**Artículo 70. Datos de localización distintos de los datos de tráfico.**
+
+1\. En el caso de que puedan tratarse datos de localización, distintos de los datos de tráfico, relativos a los usuarios o abonados de redes públicas de comunicaciones o de servicios de comunicaciones electrónicas disponibles al público, sólo podrán tratarse estos datos si se hacen anónimos, o previo consentimiento expreso de los usuarios o abonados, en la medida y por el tiempo necesarios para la prestación de un servicio con valor añadido.
+
+A estos efectos, los sujetos obligados deberán dirigirse a los usuarios o abonados, al menos, con un mes de antelación al inicio de la prestación del servicio con valor añadido, e informarles del tipo de datos de localización distintos de los datos de tráfico que serán tratados, de la finalidad y duración del tratamiento y de si los datos se transmitirán a un tercero a los efectos de la prestación del servicio con valor añadido, y solicitarles su consentimiento para el tratamiento de los datos. Esta comunicación, que deberá efectuarse por un medio que garantice su recepción por el usuario o abonado, podrá llevarse a cabo de forma conjunta a la facturación del servicio prestado por los sujetos obligados al abonado.
+
+Se entenderá que existe consentimiento expreso cuando el usuario o el abonado se dirijan al sujeto obligado y le soliciten la prestación de los servicios con valor añadido que exijan el tratamiento de sus datos de localización.
+
+En todo caso, los usuarios o abonados deberán contar con la posibilidad de retirar en cualquier momento su consentimiento para el tratamiento de sus datos de localización distintos de los de tráfico al que se refiere este apartado, así como de rechazar temporalmente el tratamiento de tales datos, mediante un procedimiento sencillo y gratuito, para cada conexión a la red o para cada transmisión de una comunicación.
+
+2\. Cuando se haya obtenido el consentimiento de un usuario o abonado para el tratamiento de datos de localización distintos de los datos de tráfico, el usuario o abonado deberá seguir contando con la posibilidad, por un procedimiento sencillo y gratuito, de rechazar temporalmente el tratamiento de tales datos para cada conexión a la red o para cada transmisión de una comunicación.
+
+3\. Sólo podrán encargarse del tratamiento de datos de localización distintos de los datos de tráfico de conformidad con los apartados 1 y 2 las personas que actúen bajo la autoridad del operador de las redes públicas de comunicaciones o de servicios de comunicaciones electrónicas disponibles al público o del tercero que preste el servicio con valor añadido, y dicho tratamiento deberá limitarse a lo necesario a efectos de la prestación del servicio con valor añadido.
+
+4\. No obstante lo dispuesto en este artículo, los operadores facilitarán los datos de localización distintos a los datos de tráfico a las entidades autorizadas para la atención de las de urgencia, cuando el destino de las llamadas corresponda a tales entidades.
+
+##### Sección 3.ª Protección de los datos personales en los servicios avanzados de telefonía
+
+**Artículo 71. Visualización y restricción de la línea de origen y conectada.**
+
+1\. Lo establecido en este capítulo será de aplicación a los operadores que presten servicios telefónicos disponibles al público con las facilidades de identificación de la línea de origen e identificación de la línea conectada.
+
+2\. Los operadores citados en el apartado 1 informarán individualmente a cada uno de sus abonados, con 15 días de antelación al inicio de la prestación de las facilidades de identificación de la línea de origen y de la línea conectada, de las características de dichas facilidades. En particular, en la información dirigida a los abonados que hubieran decidido no aparecer en las guías, poniéndose de manifiesto la especial situación del abonado, deberá detallarse el modo en que la utilización de las mencionadas facilidades puede afectar a la protección de su intimidad y a su derecho a la protección de sus datos de carácter personal.
+
+Los operadores deberán someter la comunicación que vayan a utilizar para informar a los abonados a informe de la Agencia Española de Protección de Datos.
+
+Los operadores ofrecerán a los abonados un servicio de atención rápido y gratuito para que puedan realizar consultas sobre el funcionamiento de estas facilidades y para que comuniquen, en su caso, la configuración y opciones elegidas para éstas.
+
+Los operadores que vayan a prestar las facilidades de identificación de la línea de origen o de la línea conectada deberán remitir al Ministerio de Industria, Turismo y Comercio y a la Agencia Española de Protección de Datos, con carácter previo a la prestación de estas facilidades, un documento que recoja las características y los procedimientos empleados para garantizar el cumplimiento de lo establecido en este reglamento sobre dichas facilidades. Asimismo, los operadores tendrán obligación de comunicar, de manera previa a su aplicación, las posteriores variaciones de las características de sus ofertas.
+
+**Artículo 72. Supresión en origen, llamada a llamada, de la identificación de la línea de origen.**
+
+Los operadores citados en el apartado 1 del artículo anterior que intervengan en el establecimiento de comunicaciones con la facilidad de identificación de la línea de origen deberán, necesariamente, ofrecer la posibilidad, en el tramo de red correspondiente, de que el usuario que origine las llamadas pueda suprimir, en cada una de ellas y mediante un procedimiento sencillo y gratuito, la identificación de la línea de origen.
+
+La supresión en origen por el usuario, llamada a llamada, de la identificación de la línea de origen en las redes telefónicas públicas fijas se realizará mediante la marcación de un código en los accesos telefónicos que se realicen a través de estas redes.
+
+A los efectos de lo establecido en el párrafo anterior, la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información atribuirá un número corto como código para la supresión en origen por el usuario, llamada a llamada, de la identificación de la línea de origen.
+
+La supresión en origen por el usuario, llamada a llamada, de la identificación de la línea de origen en las redes de telefonía móvil, en su modalidad GSM y en la red digital de servicios integrados deberá realizarse mediante la marcación de códigos que se ajusten, por orden de preferencia, a la normativa técnica europea, a la normativa internacional, a los acuerdos internacionales de operadores y, en su defecto o de manera complementaria, a las especificaciones técnicas nacionales.
+
+La marcación de los códigos mencionados en los párrafos anteriores deberá realizarse de manera previa al de selección de operador, en su caso, y al número del abonado destinatario de la llamada.
+
+No obstante lo anterior, la prestación de la telefonía rural de acceso celular basada en tecnología analógica no estará sujeta a la obligación establecida en este artículo.
+
+**Artículo 73. Supresión en origen por línea de la identificación de la línea de origen.**
+
+Los operadores citados en el apartado 1 del artículo 71, que intervengan en el establecimiento de comunicaciones con la facilidad de identificación de la línea de origen, deberán necesariamente ofrecer la posibilidad, en la medida en que cooperen en el establecimiento de dichas comunicaciones, de que cualquier abonado pueda suprimir de forma automática en todas sus llamadas la identificación de su línea.
+
+Los abonados podrán, de manera gratuita, activar o desactivar dicha supresión automática dos veces en los seis meses siguientes al inicio del suministro de información referida en el apartado 3 del artículo 71. Posteriormente, el abonado podrá, de manera gratuita, realizar dicha operación una vez por cada período de seis meses. Para las activaciones o desactivaciones más frecuentes, los operadores podrán establecer un precio, orientado a costes. Los operadores no podrán establecer cuotas periódicas o precios por otros conceptos distintos de este último en la prestación de la supresión automática de la identificación de la línea de origen.
+
+**Artículo 74. Código de selección de operador.**
+
+Cuando en el establecimiento de una comunicación se haya realizado una selección de operador mediante la marcación de código, éste no deberá visualizarse en destino.
+
+**Artículo 75. Supresión en destino de la identificación de la línea de origen.**
+
+Cuando los operadores citados en el apartado 1 del artículo 71 ofrezcan en destino la identificación de la línea de origen, deberán ofrecer al abonado que recibe la llamada la posibilidad, mediante un procedimiento sencillo y gratuito, de impedir la visualización de la identificación de la línea de origen en las llamadas recibidas.
+
+Los abonados podrán, de manera gratuita, activar o desactivar la supresión de la visualización en destino de la línea de origen dos veces en los seis meses siguientes al inicio del suministro de información referida en el apartado 3 del artículo 71. Posteriormente, el abonado podrá, de manera gratuita, realizar dicha operación una vez por cada período de seis meses. Para las activaciones o desactivaciones más frecuentes, los operadores podrán establecer un precio, orientado a costes. Los operadores no podrán establecer cuotas periódicas o precios por otros conceptos distintos de este último en la prestación de la supresión automática de la identificación en destino de la línea de origen.
+
+**Artículo 76. Filtrado en destino de llamadas sin identificación.**
+
+Cuando los operadores citados en el apartado 1 del artículo 71 ofrezcan en destino la identificación de la línea de origen y ésta se presente con anterioridad a que se establezca la llamada, deberán ofrecer al abonado que recibe la llamada la posibilidad, mediante un procedimiento sencillo, de rechazar las llamadas procedentes de usuarios o abonados que hayan impedido la visualización de la identificación de la línea de origen.
+
+**Artículo 77. Eliminación de la supresión en origen de la identificación de línea de origen.**
+
+Los operadores citados en el apartado 1 del artículo 71 eliminarán las marcas de supresión en origen de la identificación de la línea de origen, cuando el destino de las llamadas corresponda a entidades que presten servicios de llamadas de urgencias a través del número 112 y otras autorizadas para la atención de las de emergencia o a las relacionadas con la seguridad pública o la defensa nacional. La aplicación del mecanismo de eliminación de marcas de supresión en origen de la identificación de la línea de origen para servicios de emergencias distintos de los atendidos a través del número 112 deberá ser aprobada, a solicitud de las entidades prestadoras de los citados servicios de emergencia o de oficio, de manera previa y para cada caso particular o tipo de servicio de emergencia, mediante resolución de la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información.
+
+La aplicación del mecanismo de eliminación de marcas de supresión en origen de la identificación de la línea de origen por motivos de seguridad pública o defensa nacional se realizará cuando así lo establezca por resolución el Ministerio competente en dichas materias. La resolución se tramitará y aprobará siguiendo los principios de transparencia y proporcionalidad, y será comunicada a la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información y al resto de Autoridades de Reglamentación a que se refiere el artículo 46 de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
+
+Asimismo, se podrán eliminar por un período de tiempo limitado las marcas de supresión en origen de la identificación de la línea de origen cuando el abonado haya solicitado la identificación de las llamadas maliciosas o molestas, de acuerdo con lo establecido en la normativa vigente en cada momento sobre protección y suspensión de las garantías del secreto de las comunicaciones.
+
+**Artículo 78. Supresión permanente en destino de la identidad de la línea de origen.**
+
+El Ministerio de Industria, Turismo y Comercio podrá establecer, para proteger los derechos de los ciudadanos, en especial el derecho a la intimidad, que, de manera gratuita, ciertos destinos de las llamadas asociados a determinados servicios no dispongan de la facilidad de identificación de la línea de origen.
+
+**Artículo 79. Supresión de la identificación de la línea conectada.**
+
+Cuando los operadores citados en el apartado 1 del artículo 71 ofrezcan la facilidad de identificación de la línea conectada, el abonado que recibe la llamada deberá tener la posibilidad, mediante un procedimiento sencillo y gratuito, de suprimir la visualización al usuario que realiza la llamada de la identidad de la línea conectada.
+
+**Artículo 80. Características técnicas.**
+
+Los operadores citados en el apartado 1 del artículo 71 aplicarán, de manera general y siempre que sea factible, para la implantación de las facilidades de identificación de la línea de origen y de la línea conectada, las normas técnicas comunitarias que sean de aplicación. En su defecto, aplicarán las normas, especificaciones o recomendaciones de organismos europeos o, a falta de éstas, las adoptadas por organismos internacionales de normalización. En ausencia de todas las anteriores, se tendrán en cuenta las normas nacionales.
+
+En cualquier caso, dichos operadores pondrán a disposición de los fabricantes de equipos terminales u otras entidades interesadas, de manera neutral, transparente y no discriminatoria, información actualizada sobre las características y normas técnicas aplicadas para la implantación en sus redes de las facilidades de identificación de la línea de origen y de la línea conectada. En lo que se refiere a la información que debe suministrarse a los fabricantes de equipos terminales, ésta deberá contener un nivel de detalle suficiente que permita el diseño de equipos capaces de hacer uso de todas las funcionalidades que forman parte de las facilidades de identificación de la línea de origen y de la línea conectada.
+
+**Artículo 81. Responsabilidad de los operadores que tengan sus redes interconectadas.**
+
+1\. En el caso de que las redes de varios operadores estén interconectadas, será responsabilidad del operador desde cuya red se origine la llamada la generación y entrega en el punto de interconexión de la identidad de la línea de origen y el respeto de la posible marca de supresión que haya sido introducida por el usuario.
+
+El operador cuya red sea el destino final de la llamada y preste la facilidad de identificación de la línea de origen deberá hacerlo atendiendo a la información recibida asociada a la llamada y en el marco de lo que se establece en los artículos anteriores.
+
+2\. Igualmente, en la prestación de la facilidad de identificación de la línea conectada, los operadores de las redes origen o destino de las llamadas serán responsables de la correcta provisión de las funcionalidades específicas que correspondan a su red.
+
+El operador cuya red realice exclusivamente servicios de tránsito de las llamadas deberá transmitir en cada caso y de manera transparente la identidad de la línea de origen o de la línea conectada y sus marcas asociadas.
+
+3\. El envío de la información sobre la identidad de la línea de origen en la interconexión internacional con terceros países sólo se realizará hacia aquellos cuya normativa garantice el adecuado tratamiento de los datos de carácter personal. La relación de países a los que puede ser enviada información sobre la identidad de la línea de origen se establecerá por el Director de la Agencia Española de Protección de Datos, previo informe de la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información.
+
+**Artículo 82. Desvío automático de llamadas.**
+
+Los operadores a los que se refiere el apartado 1 del artículo 71 deberán ofrecer a todos los abonados, por un procedimiento sencillo y gratuito, la posibilidad de evitar el desvío automático de llamadas a su terminal por parte de un tercero.
+
+#### CAPÍTULO II — La interceptación legal de las comunicaciones
+
+##### Sección 1.ª Disposiciones generales
+
+**Artículo 83. Objeto.**
+
+Es objeto de este capítulo el establecimiento del procedimiento que debe seguirse y las medidas que deberán adoptar, de conformidad con el artículo 33 de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, los operadores que presten o estén en condiciones de prestar servicios de comunicaciones electrónicas disponibles al público o de establecer o explotar redes públicas de comunicaciones electrónicas.
+
+Las únicas interceptaciones que estarán obligados a realizar los sujetos a los que se refiere el artículo 85 son las dispuestas en el artículo 579 de la Ley de Enjuiciamiento Criminal, en la Ley Orgánica 2/2002, de 6 de mayo, reguladora del control judicial previo del Centro Nacional de Inteligencia, y en otras normas con rango de ley orgánica.
+
+**Artículo 84. Definiciones.**
+
+A los efectos de lo dispuesto en este capítulo, los términos definidos en este artículo tendrán el significado siguiente:
+
+a) Interceptación legal: medida establecida por ley y adoptada por una autoridad judicial que acuerda o autoriza el acceso o la transmisión de las comunicaciones electrónicas de una persona, y la información relativa a la interceptación, a los agentes facultados, sin perjuicio de lo establecido en el artículo 579.4 de la Ley de Enjuiciamiento Criminal.
+
+b) Interfaz de interceptación: localización física o lógica dentro de las instalaciones de los sujetos obligados en la que se proporcionan las comunicaciones electrónicas interceptadas y la información relativa a la interceptación a los agentes facultados. La interfaz de interceptación no es necesariamente un único punto fijo.
+
+c) Orden de interceptación legal: resolución acordada por una autoridad judicial por la que se acuerda o autoriza la adopción de una medida de interceptación legal o se ordena lo necesario para su ejecución técnica a los sujetos obligados o un agente facultado.
+
+d) Sujeto a la interceptación: la persona o las personas designadas, o bien incluidas de forma individualizadas, en la orden de interceptación legal cuyas comunicaciones electrónicas son objeto de la medida.
+
+e) Agente facultado: policía judicial o personal del Centro Nacional de Inteligencia habilitado por una autoridad judicial para materializar una interceptación legal.
+
+f) Autoridad judicial: autoridad a la que la ley faculta para acordar o autorizar la adopción y ordenar la ejecución técnica de una medida de interceptación legal.
+
+g) Centro de recepción de las interceptaciones: instalación de los agentes facultados que recibe las comunicaciones electrónicas interceptadas y la información relativa a la interceptación de un determinado sujeto sometido a interceptación.
+
+h) Itinerancia: situación en la que se presta un servicio de comunicaciones electrónicas por una red distinta de la local en la que está inscrito el usuario.
+
+i) Identidad: etiqueta técnica que puede representar el origen o el destino de cualquier tráfico de comunicaciones electrónicas, en general identificada mediante un número de identidad de comunicaciones electrónicas físico (tal como un número de teléfono) o un código de identidad de comunicaciones electrónicas lógico o virtual (tal como un número personal) que el abonado puede asignar a un acceso físico caso a caso.
+
+**Artículo 85. Sujetos obligados y obligación de colaborar.**
+
+1\. Estarán obligados a seguir los procedimientos y adoptar las medidas a las que se refiere el artículo 83 los operadores que presten o estén en condiciones de prestar servicios de comunicaciones electrónicas disponibles al público o de establecer o explotar redes públicas de comunicaciones en España, con independencia de la naturaleza, ámbito territorial y momento en que tuvo efecto su habilitación.
+
+Los operadores a los que se refiere el párrafo anterior estarán obligados a cumplir lo establecido en este capítulo, aun en el caso de que sólo presten en España acceso a una red pública de comunicaciones electrónicas, y todo aquel equipamiento susceptible de emplearse para realizar la interceptación se encuentre bajo la jurisdicción de otro Estado.
+
+2\. Cualquier operador de red que ponga ésta a disposición de un proveedor de servicios de comunicaciones electrónicas deberá colaborar con él en el cumplimiento de los requisitos de este capítulo.
+
+Asimismo, cualquier otro proveedor de servicios de comunicaciones electrónicas disponibles al público que acuerde facilitar servicio de itinerancia con un proveedor principal estará obligado a colaborar con éste en el cumplimiento de los requisitos de este capítulo.
+
+**Artículo 86. Requisitos generales.**
+
+1\. Los sujetos obligados deberán tener sus equipos configurados de forma que puedan facilitar el acceso de los agentes facultados a todas las comunicaciones transmitidas, generadas para su transmisión o recibidas por el sujeto de una interceptación legal y los datos de tráfico asociados a dicha comunicación. Junto con las comunicaciones deberán poder facilitar la información relativa a la interceptación que se enumera en el artículo 88, aun cuando la comunicación quede en mero intento por no llegar a establecerse. La correspondencia entre una comunicación y la información relativa a dicha interceptación se hará de tal manera que se pueda establecer entre ambos una correlación inequívoca, siempre que sea técnicamente posible.
+
+2\. La interceptación a que se refiere el apartado anterior deberá facilitarse para cualquier comunicación que tenga como origen o destino el punto de terminación de red o el terminal específico que se determine a partir de la orden de interceptación legal, incluso aunque esté destinada a dispositivo de almacenamiento o procesamiento de la información; asimismo, la interceptación podrá realizarse sobre un terminal conocido y con unos datos de ubicación temporal para comunicaciones desde locales públicos. Cuando no exista una vinculación fija entre el sujeto de la interceptación y el terminal utilizado, este podrá ser determinado dinámicamente cuando el sujeto de la interceptación lo active para la comunicación mediante un código de identificación personal.
+
+3\. Los sujetos obligados a los que hacen referencia los apartados anteriores deberán disponer de los medios técnicos y humanos que permitan el cumplimiento de las obligaciones establecidas en este reglamento.
+
+**Artículo 87. Acceso a las comunicaciones electrónicas.**
+
+1\. El acceso a una comunicación electrónica por el sujeto obligado se hará excluyendo cualquier otra comunicación que no se incluya en el ámbito de aplicación de la orden de interceptación legal.
+
+2\. El acceso se facilitará para todo tipo de comunicaciones electrónicas, en particular, por su penetración y cobertura, para las que se realicen mediante cualquier modalidad de los servicios de telefonía y de transmisión de datos, se trate de comunicaciones de vídeo, audio, intercambio de mensajes, ficheros o de la transmisión de facsímil.
+
+3\. El acceso facilitado servirá tanto para la supervisión como para la transmisión a los centros de recepción de las interceptaciones de la comunicación electrónica interceptada y la información relativa a la interceptación, y permitirá obtener la señal con la que se realiza la comunicación.
+
+4\. El acceso a las comunicaciones se facilitará aun cuando el sujeto de la interceptación utilice procedimientos para desviar las llamadas a otros servicios de comunicaciones electrónicas o a otros puntos de terminación de red, o a otros terminales, y aun cuando las llamadas sean procesadas por proveedores de servicios de comunicaciones electrónicas distintos de aquel al que se dirige la orden de interceptación, siempre que se pueda discernir la comunicación que es objeto de la orden de interceptación.
+
+**Artículo 88. Información relativa a la interceptación.**
+
+1\. Los sujetos obligados deberán facilitar al agente facultado, salvo que por las características del servicio no estén a su disposición y sin perjuicio de otros datos que puedan ser establecidos mediante real decreto, los datos indicados en la orden de interceptación legal, de entre los que se relacionan a continuación:
+
+a) Identidad o identidades -en la acepción definida en el artículo 84.i)- del sujeto objeto de la medida de la interceptación.
+
+b) Identidad o identidades -en la acepción definida en el artículo 84.i)- de las otras partes involucradas en la comunicación electrónica.
+
+c) Servicios básicos utilizados.
+
+d) Servicios suplementarios utilizados.
+
+e) Dirección de la comunicación.
+
+f) Indicación de respuesta.
+
+g) Causa de finalización.
+
+h) Marcas temporales.
+
+i) Información de localización.
+
+j) Información intercambiada a través del canal de control o señalización.
+
+2\. Además de la información relativa a la interceptación prevista en el apartado anterior, los sujetos obligados deberán facilitar al agente facultado, salvo que por las características del servicio no estén a su disposición y sin perjuicio de otros datos que puedan ser establecidos mediante real decreto, de cualquiera de las partes que intervengan en la comunicación que sean clientes del sujeto obligado, los siguientes datos:
+
+a) Identificación de la persona física o jurídica.
+
+b) Domicilio en el que el proveedor realiza las notificaciones.
+
+Y, aunque no sea abonado, si el servicio de que se trata permite disponer de alguno de los siguientes:
+
+c) Número de titular de servicio (tanto el número de directorio como todas las identificaciones de comunicaciones electrónicas del abonado).
+
+d) Número de identificación del terminal.
+
+e) Número de cuenta asignada por el proveedor de servicios Internet.
+
+f) Dirección de correo electrónico.
+
+3\. Junto con los datos previstos en los apartados anteriores, los sujetos obligados deberán facilitar, salvo que por las características del servicio no esté a su disposición, información de la situación geográfica del terminal o punto de terminación de red origen de la llamada, y de la del destino de la llamada. En caso de servicios móviles, se proporcionará una posición lo más exacta posible del punto de comunicación y, en todo caso, la identificación, localización y tipo de la estación base afectada.
+
+##### Sección 2.ª Requisitos operacionales
+
+**Artículo 89. Información previa a la interceptación.**
+
+1\. En el marco de la investigación legal a requerimiento de la autoridad judicial o cuando así lo determine una norma con rango legal, los sujetos obligados conforme al artículo 85 pondrán a disposición de la autoridad que lleve a cabo dicha investigación, con carácter previo a la interceptación legal, información actualizada relativa a los datos a que hace referencia el artículo 90.
+
+2\. Con carácter previo a la ejecución de la orden de interceptación legal, los sujetos obligados deberán facilitar al agente facultado información sobre los servicios y características del sistema de telecomunicación que utilizan los sujetos objeto de la medida de la interceptación y, si obran en su poder, los correspondientes nombres de los abonados con sus números de documento nacional de identidad, tarjeta de residencia o pasaporte, en el caso de personas físicas, o denominación y código de identificación fiscal en el caso de personas jurídicas.
+
+3\. Los sujetos obligados conforme al artículo 85 deben tener dispuesta la organización necesaria que garantice el cumplimiento de la orden de interceptación legal en los términos establecidos en el artículo 99. Para ello, deberán identificar la unidad habilitada para recibir una orden de interceptación que les sea notificada y establecer los procedimientos internos para dar soporte a las actuaciones necesarias.
+
+**Artículo 90. Información para la interceptación.**
+
+La interceptación se llevará a efecto si en la orden de interceptación legal se incluye, al menos, uno de los datos siguientes:
+
+a) La identificación del abonado o usuario sujeto a la interceptación.
+
+b) La ubicación donde se encuentre un punto de terminación de red al que el operador da servicio.
+
+c) Un identificador de punto de terminación de red (dirección), o de terminal, al que el proveedor de servicios de comunicaciones electrónicas da servicio.
+
+d) El código de identificación en caso de que sea el usuario el que active el terminal para la comunicación.
+
+e) Cualquier otra identidad -en la acepción definida en el artículo 84.i)- que corresponda al sujeto especificado en la orden de interceptación legal.
+
+**Artículo 91. Lugares para la interceptación.**
+
+Para delimitar las responsabilidades y asegurar mejor el secreto de las telecomunicaciones frente a terceras partes ajenas, su interceptación se realizará preferentemente en salas con acceso restringido que garantice la confidencialidad en los términos del artículo 92. En cualquier caso, se deberá garantizar el secreto de las comunicaciones, para lo que deberán adoptarse las medidas técnicas necesarias.
+
+**Artículo 92. Personal autorizado.**
+
+Sin perjuicio de lo establecido en la legislación sobre protección de materias clasificadas, el sujeto obligado será responsable de que sólo el personal que haya sido expresamente autorizado pueda acceder a los mecanismos de interceptación.
+
+**Artículo 93. Confidencialidad.**
+
+1\. Todo documento relativo a las operaciones de interceptación, al igual que cualquier información relativa a procedimientos de interceptación, será de circulación restringida a las personas autorizadas de acuerdo con lo establecido en el artículo anterior y sin perjuicio de lo establecido en la legislación sobre materias clasificadas.
+
+2\. La interceptación se efectuará de manera que ni el sujeto a la interceptación, ni ninguna persona no autorizada, pueda tener conocimiento de ella. En particular, las prestaciones del servicio deben ser las mismas que en ausencia de interceptación, y ninguna alteración de éste puede permitir sospechar que se está realizando una interceptación.
+
+**Artículo 94. Acceso en tiempo real.**
+
+La interceptación se realizará en tiempo real, sin más retardo que el mínimo imprescindible para realizar el encaminamiento y transmisión, e ininterrumpidamente durante el plazo establecido en la orden de interceptación legal. Si no se pudiera facilitar la información relativa a la interceptación a la que se refiere el artículo 88 en tiempo real por causa de fuerza mayor, se efectuará al finalizar la conexión y, en todo caso, lo antes posible.
+
+**Artículo 95. Interfaces de interceptación.**
+
+Los sujetos obligados deberán tener en todo momento preparadas una o más interfaces a través de las cuales las comunicaciones electrónicas interceptadas y la información relativa a la interceptación se transmitirán a los centros de recepción de las interceptaciones. Las características de estas interfaces y el formato para la transmisión de las comunicaciones interceptadas a estos centros estarán sujetas a las especificaciones técnicas que reglamentariamente se establezcan por el Ministerio de Industria, Turismo y Comercio.
+
+**Artículo 96. Señal en claro y calidad de la señal entregada.**
+
+En el caso de que los sujetos obligados apliquen a las comunicaciones objeto de interceptación legal algún procedimiento de compresión, cifrado, digitalización o cualquier otro tipo de codificación, deberán entregar aquellas desprovistas de los efectos de tales procedimientos, siempre que sean reversibles.
+
+Las comunicaciones interceptadas deben proveerse al centro de recepción de las interceptaciones con una calidad no inferior a la que obtiene el destinatario de la comunicación.
+
+**Artículo 97. Secreto de las comunicaciones.**
+
+Las comunicaciones y la información relativa a la interceptación sólo se facilitarán al agente facultado. Para ello, los sujetos a los que se refiere el artículo 85 pondrán todos los medios necesarios para impedir la manipulación de los mecanismos de interceptación, y para garantizar la autenticidad, confidencialidad e integridad de la información obtenida con la interceptación.
+
+**Artículo 98. Interceptaciones múltiples y simultáneas.**
+
+1\. Los sujetos obligados garantizarán que pueda llevarse a cabo de forma múltiple más de una interceptación legal en relación con una línea, un usuario o abonado.
+
+2\. El número máximo de interceptaciones simultáneas que ha de ser capaz de proveer un operador de red o proveedor de servicio se establecerá mediante orden ministerial.
+
+**Artículo 99. Plazo de ejecución de la interceptación.**
+
+1\. El plazo de ejecución de una orden de interceptación legal será el fijado en ella. Cuando no se establezca plazo, las órdenes se ejecutarán antes de las 12:00 horas del día laborable siguiente al que el sujeto obligado reciba la orden de interceptación legal.
+
+2\. Cuando la orden de interceptación legal establezca la urgencia de su ejecución, los sujetos obligados deberán ejecutarla con la mayor brevedad posible teniendo en cuenta lo dispuesto en la orden de interceptación.
+
+3\. La activación del mecanismo de interceptación será notificada al agente facultado por el medio que se acuerde entre dicho agente y el sujeto obligado.
+
+**Artículo 100. Abono del coste de la interceptación.**
+
+El operador o proveedor de servicios de comunicaciones electrónicas que haya realizado una interceptación legal tendrá derecho a que se le abonen las cantidades en que haya incurrido por el uso de canales de comunicación, temporales o permanentes, que establezca de modo específico para facilitar la transmisión de las comunicaciones electrónicas interceptadas y la información relativa a la interceptación a los agentes facultados, teniendo en cuenta los precios que se apliquen en cada caso. En ningún caso serán objeto de compensación los gastos relativos a equipamientos específicos para la interceptación de que, en su caso, tuviera que dotarse, toda vez que constituyen una carga accesoria a los deberes de la habilitación correspondiente.
+
+**Artículo 101. Infracciones.**
+
+1\. Sin perjuicio de la responsabilidad penal en que pueda incurrirse en la ejecución de las interceptaciones, el incumplimiento de las órdenes de interceptación legal será constitutivo de una infracción sancionable de acuerdo con las previsiones del título VIII de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
+
+2\. En la imposición de la sanción se valorará el retraso en la ejecución de la interceptación y otros perjuicios causados por el incumplimiento.
+
+### TÍTULO VI — Derechos de los consumidores que sean personas físicas y otros usuarios finales
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 899/2009, de 22 de mayo. [Ref. BOE-A-2009-8961](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8961)
+
+#### CAPÍTULO I — Disposiciones generales
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 899/2009, de 22 de mayo. [Ref. BOE-A-2009-8961](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8961)
+
+**Artículos 102 a 104.**
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 del Real Decreto 899/2009, de 22 de mayo. [Ref. BOE-A-2009-8961](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8961)
+
+#### CAPÍTULO II — Contratos
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 899/2009, de 22 de mayo. [Ref. BOE-A-2009-8961](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8961)
+
+**Artículos 105 a 108.**
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 del Real Decreto 899/2009, de 22 de mayo. [Ref. BOE-A-2009-8961](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8961)
+
+#### CAPÍTULO III — Derechos y obligaciones de transparencia, información y calidad
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 899/2009, de 22 de mayo. [Ref. BOE-A-2009-8961](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8961)
+
+**Artículos 109 a 111.**
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 del Real Decreto 899/2009, de 22 de mayo. [Ref. BOE-A-2009-8961](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8961)
+
+#### CAPÍTULO IV — Derechos en relación con el servicio telefónico disponible al público
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 899/2009, de 22 de mayo. [Ref. BOE-A-2009-8961](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8961)
+
+**Artículos 112 a 119.**
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 del Real Decreto 899/2009, de 22 de mayo. [Ref. BOE-A-2009-8961](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8961)
+
+#### CAPÍTULO V — Derechos en relación con el servicio de acceso a Internet
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 899/2009, de 22 de mayo. [Ref. BOE-A-2009-8961](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8961)
+
+> Se añade el capítulo V por el art. 2 del Real Decreto 776/2006, de 23 de junio. [Ref. BOE-A-2006-11288](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11288)
+
+**Artículo 120. Derecho a compensación por la interrupción temporal del servicio de acceso a Internet.**
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 899/2009, de 22 de mayo. [Ref. BOE-A-2009-8961](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8961)
+
+> Se añade el art. 120 por el art. 2 del Real Decreto 776/2006, de 23 de junio. [Ref. BOE-A-2006-11288](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11288)
+
+**Disposición adicional única. Cálculo del coste neto del servicio universal en caso de recepción de ayudas.**
+
+Los operadores designados para la prestación del servicio universal podrán beneficiarse de ayudas procedentes de los regímenes en vigor en los términos establecidos en su normativa específica y, en particular, de las procedentes de los fondos estructurales de la Unión Europea. En estos supuestos, la Comisión del Mercado de las Telecomunicaciones evaluará el coste neto de prestación del servicio universal a los efectos y con las particularidades que se establezcan en la concesión de dichas ayudas.
+
+**Disposición transitoria primera. Títulos habilitantes para la prestación de servicios y el establecimiento de redes de comunicaciones electrónicas anteriores a este reglamento.**
+
+1\. La Comisión del Mercado de las Telecomunicaciones inscribirá en el Registro de operadores regulado en este reglamento a los que tengan títulos habilitantes anteriores a la entrada en vigor de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones. A estos efectos, en el Registro de operadores se inscribirá a todos los titulares de autorizaciones generales, licencias individuales y autorizaciones provisionales otorgadas o transformadas conforme a la Ley 11/1998, de 24 de abril, General de Telecomunicaciones, e inscritos en los correspondientes registros especiales de titulares de licencias individuales y autorizaciones generales.
+
+2\. La Comisión del Mercado de las Telecomunicaciones inscribirá en el Registro de operadores regulado en este reglamento a los operadores que hayan obtenido su habilitación tras la entrada en vigor de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, y antes de la entrada en vigor de este real decreto, y que, conforme a la disposición transitoria primera de dicha ley, estén inscritos en el Registro especial de titulares de autorizaciones generales.
+
+3\. El plazo de tres años tras el cual los operadores deben comunicar a la Comisión del Mercado de las Telecomunicaciones su intención de continuar prestando el servicio conforme a lo establecido en el artículo 5.2 de este reglamento comenzará a contar, para los operadores que hayan obtenido su habilitación con anterioridad a éste, en el momento de su entrada en vigor.
+
+**Disposición transitoria segunda. Régimen transitorio aplicable al servicio universal.**
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 726/2011, de 20 de mayo. [Ref. BOE-A-2011-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9012).
+
+> Se suprimen los párrafos 2 y 3 del apartado 1 por el art.1.10 del Real Decreto 329/2009, de 13 de marzo. [Ref. BOE-A-2009-5707](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5707)
+
+> Se modifica el párrafo primero del apartado 1 por el art. único del Real Decreto 1768/2007, de 28 de diciembre. [Ref. BOE-A-2007-22457](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22457)
+
+**Disposición transitoria tercera. Vigencia de la Orden CTE/711/2002, de 26 de marzo, del Real Decreto 903/1997, de 16 de junio, y de la Orden de 14 de octubre de 1999.**
+
+Hasta que se apruebe la orden prevista en el artículo 112, continuará siendo de aplicación la Orden CTE/711/2002, de 26 de marzo.
+
+Asimismo, conservan su vigencia, en todo lo que no se oponga a este reglamento, el Real Decreto 903/1997, de 16 de junio, por el que se regula el acceso, mediante redes de telecomunicaciones, al servicio de atención de llamadas de urgencia a través del número telefónico 112, y la Orden de 14 de octubre de 1999, sobre condiciones de suministro de información relevante para la prestación del servicio de llamadas de urgencia a través del número 112.
+
+**Disposición transitoria cuarta. Prestación de los servicios a los que se refiere la disposición transitoria cuarta de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.**
+
+Mientras sea de aplicación lo dispuesto en la disposición transitoria cuarta de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, no obstante lo dispuesto en el artículo 53, las características técnicas de prestación de los servicios a que se refiere dicho artículo, sus condiciones de prestación y de financiación se fijarán por real decreto.
+
+Mientras sea de aplicación lo dispuesto en la disposición transitoria cuarta de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, no obstante lo dispuesto en el artículo 54, las características técnicas de prestación de los servicios a que se refiere dicho artículo, sus condiciones de prestación y de financiación se fijarán por orden del Ministro de la Presidencia, a propuesta de los Ministros de Industria, Turismo y Comercio y de Fomento.
+
+Asimismo, hasta que se aprueben las disposiciones a que se refieren los párrafos anteriores, a dichos servicios les serán de aplicación las condiciones de prestación que actualmente se encuentran establecidas.
+
+**Disposición transitoria quinta. Obligaciones de servicio público del servicio portador de televisión analógica.**
+
+Continuarán en vigor las obligaciones de servicio público y la garantía de continuidad en la prestación de los servicios portadores soporte de los de difusión televisiva establecidos en el Real Decreto Ley 16/1999, de 15 de octubre, en los términos desarrollados en el vigente Reglamento de desarrollo de la Ley 11/1998, de 24 de abril, General de Telecomunicaciones, en lo relativo al uso del dominio público radioeléctrico, para los servicios de televisión analógica, hasta tanto se den los supuestos previsto en el artículo 2 del Plan técnico nacional de televisión digital terrenal, aprobado por el Real Decreto 2169/1998, de 9 de octubre.
+
+**Disposición transitoria sexta. Plazo para el cumplimiento de los requisitos en materia de interceptación legal de las comunicaciones.**
+
+Los operadores habilitados para la prestación de servicios de comunicaciones electrónicas disponibles al público o la explotación de redes públicas de comunicaciones electrónicas y que se encuentren obligados al cumplimiento de lo previsto en el capítulo II del título V de este reglamento, de acuerdo con su artículo 85, deberán cumplir las obligaciones establecidas en él en el plazo de un año desde su entrada en vigor.
+
+No obstante lo dispuesto en el párrafo anterior, las obligaciones específicas derivadas de la aplicación de una concreta tecnología de telecomunicaciones entrarán en vigor en el plazo que en su caso establezca la orden ministerial correspondiente. Dicha orden se aprobará previo informe de una comisión en la que se integrarán representantes de los ministerios afectados y de los operadores. Conforme al principio de proporcionalidad establecido en la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, y la normativa comunitaria, en su aprobación se tomará en consideración la proporción entre los objetivos a conseguir y los costes en que se incurra.
+
+**Disposición transitoria séptima. Guías de servicios de comunicaciones electrónicas.**
+
+Para la inclusión en las guías de los datos de los abonados que, a la entrada en vigor de este reglamento, ya figuren en la guía prevista en el artículo 30, bastará con que, en el plazo de un mes tras la recepción de la comunicación a que se refiere el artículo 67.1, el abonado no se oponga expresamente a dicha inclusión.
+
+**Disposición transitoria octava. Derechos de los consumidores y usuarios.**
+
+Hasta tanto no se desarrolle mediante orden ministerial el título VI de este reglamento en materia de derechos de los consumidores y usuarios y servicios de tarifas superiores, seguirá siendo de aplicación, en cuanto no se oponga a este reglamento, la Orden PRE/361/2002, de 14 de febrero, de desarrollo, en lo relativo a los derechos de los usuarios y a los servicios de tarificación adicional, del título IV del Real Decreto 1736/1998, de 31 de julio, por el que se aprueba el Reglamento por el que se desarrolla el título III de la Ley General de Telecomunicaciones. En aquella orden se establecerá el régimen aplicable a los servicios de mensajería que se prestan a través de números cortos.
+
+**Disposición transitoria novena. Disposiciones relativas a la prestación de las facilidades de identificación de la línea de origen o de la línea conectada.**
+
+1\. Los operadores que, en el momento de entrada en vigor de este reglamento, se encuentren prestando las facilidades de identificación de la línea de origen y de la línea conectada, deberán cumplir lo previsto en el segundo párrafo del apartado 2 del artículo 71 y en el último párrafo de dicho artículo en el plazo de un mes desde dicha entrada en vigor.
+
+2\. Hasta que se apruebe la resolución que atribuya un número corto como código para la supresión en origen por el usuario, llamada a llamada, de la identificación de la línea de origen, continuará vigente el código establecido en la Resolución de la Secretaría General de Comunicaciones, de 2 de diciembre de 1998, por la que se atribuye el código 067 al servicio de supresión en origen llamada a llamada de la identificación de la línea llamante, con las modificaciones que, en su caso, se establezcan por las disposiciones de desarrollo del plan de numeración.
+
+**Disposición final única. Modelo de declaración normalizada.**
+
+En el plazo de un mes desde la entrada en vigor de este reglamento, la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información aprobará, a propuesta del Consejo de la Comisión del Mercado de las Telecomunicaciones, el modelo de declaración normalizada de notificación e inscripción al que se refiere el artículo 11.

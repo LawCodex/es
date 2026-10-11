@@ -1,0 +1,1194 @@
+---
+title: "Decreto Legislativo 1/1997, de 23 de julio, del Gobierno Valenciano, por el que se aprueba el texto refundido de la Ley sobre Cajas de Ahorros"
+identifier: "DOGV-r-1997-90026"
+type: legislative_decree
+rank: "Decreto Legislativo"
+jurisdiction: es-comunitat-valenciana
+language: es
+department: "Comunidad Valenciana"
+date: 1997-07-23
+published: 1997-07-28
+in_force_from: 1997-07-29
+last_amended: 2026-07-02
+consolidated: 2026-07-21
+gazette: "Diari Oficial de la Comunitat Valenciana núm. 3044"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=DOGV-r-1997-90026"
+retrieved: 2026-10-11
+---
+
+# Decreto Legislativo 1/1997, de 23 de julio, del Gobierno Valenciano, por el que se aprueba el texto refundido de la Ley sobre Cajas de Ahorros
+
+La Ley de la Generalitat Valenciana 1/1990, de 22 de febrero, sobre Cajas de Ahorro, acometió el desarrollo legislativo de la competencia exclusiva que el Estatuto de Autonomía de la Comunidad Valenciana, en su artículo 34.1.6, otorga a la Generalitat Valenciana en esta materia, de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado. Dicha Ley fue elaborada partiendo de la normativa básica del Estado, contenida fundamentalmente en la Ley 31/1985, de 2 de agosto, de regulación de las normas básicas sobre órganos rectores de las Cajas de Ahorros (LORCA), así como de diversos pronunciamientos del Tribunal Constitucional sobre la legislación estatal y autonómica existente sobre esta materia.
+
+Por su parte, la Ley 2/1993, de 6 de octubre, de la Generalitat Valenciana, por la que se modifica la Ley de la Generalitat Valenciana 1/1990, de 22 de febrero, de Cajas de Ahorro, tuvo como objeto fundamental la adaptación de esta Ley a posteriores criterios interpretativos del Tribunal Constitucional sobre el carácter básico de determinados preceptos de la Ley estatal 31/1985, de 2 de agosto, de regulación de las normas básicas sobre órganos rectores de las Cajas de Ahorros (LORCA).
+
+Por último, la Ley 4/1997, de 16 de junio, de la Generalitat Valenciana, de modificación de la Ley de la Generalitat Valenciana 1/1990, de 22 de febrero, sobre Cajas de Ahorro, actualiza el marco jurídico aplicable a estas entidades, adaptándolo a la nueva realidad económica, social e institucional de nuestra sociedad e introduciendo al propio tiempo una serie de mejoras técnicas sobre el anterior texto, todo ello con la finalidad de alcanzar, de una forma más eficaz, los objetivos que animan la acción del protectorado de la Generalitat Valenciana sobre las Cajas de Ahorros.
+
+El principio de seguridad jurídica, proclamado por el artículo 9.3 de la Constitución Española, aconseja la promulgación de un texto refundido de todas las normas legales autonómicas citadas anteriormente. Así lo entendieron el Gobierno Valenciano y las Cortes Valencianas al proponer y aprobar, respectivamente, la disposición final primera de la citada Ley 4/1997, de 16 de junio, por la que se autoriza al Gobierno Valenciano para que, en el plazo máximo de tres meses a contar desde su publicación en el «Diari Oficial de la Generalitat Valenciana», elabore y apruebe, mediante Decreto Legislativo, un texto refundido de la Ley sobre Cajas de Ahorros, que integre las normas legales vigentes sobre la materia, facultándole, asimismo, para aclarar, regularizar y armonizar los textos objeto de refundición.
+
+En su virtud, a propuesta del conseller de Economía, Hacienda y Administración Pública, conforme con el Consejo Jurídico Consultivo y previa deliberación del Gobierno Valenciano, en su reunión del día 23 de julio de 1997,
+
+DISPONGO:
+
+##### Artículo único.
+
+Se aprueba el texto refundido de la Ley sobre Cajas de Ahorros, que se inserta como anexo.
+
+##### Disposición derogatoria.
+
+1\. Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en el texto refundido aprobado por el presente Decreto Legislativo. En particular, carecen de eficacia cuantas cláusulas estatutarias o reglamentarias de las Cajas de Ahorros se opongan a los preceptos del citado texto refundido, quedando facultado el Instituto Valenciano de Finanzas para la resolución de los problemas que en este orden se pudieran manifestar.
+
+2\. Asimismo, en virtud de su incorporación al texto refundido aprobado por el presente Decreto Legislativo, quedan derogadas:
+
+– La Ley de la Generalitat Valenciana 1/1990, de 22 de febrero, sobre Cajas de Ahorro.
+
+– La Ley 2/1993, de 6 de octubre, de la Generalitat Valenciana, por la que se modifica la Ley de la Generalitat Valenciana 1/1990, de 22 de febrero, de Cajas de Ahorro.
+
+– La Ley 4/1997, de 16 de junio, de la Generalitat Valenciana, de modificación de la Ley de la Generalitat Valenciana 1/1990, de 22 de febrero, sobre Cajas de Ahorro.
+
+##### Disposición final única. Entrada en vigor.
+
+El presente decreto legislativo entrará en vigor el día siguiente al de su publicación en el «Diari Oficial de la Generalitat Valenciana».
+
+Valencia, 23 de julio de 1997.‒El presidente de la Generalitat Valenciana, Eduardo Zaplana Hernández-Soro.‒El conseller de Economía, Hacienda y Administración Pública, José Luis Olivas Martínez.
+
+## ANEXO — Texto refundido de la Ley sobre Cajas de Ahorros
+
+## TÍTULO I — Disposiciones generales
+
+### CAPÍTULO I — Naturaleza jurídica y funciones
+
+##### Artículo 1. Ámbito de aplicación y definición.
+
+1\. La presente ley será de aplicación a las cajas de ahorros con domicilio social en la Comunitat Valenciana y, en su caso, a las domiciliadas en otras comunidades, exclusivamente en lo relativo a las actividades realizadas en el territorio de la Comunitat Valenciana.
+
+2\. A los efectos de esta ley, se entiende por cajas de ahorros las entidades de crédito de naturaleza fundacional y carácter social, cuya actividad financiera se oriente principalmente a la captación de fondos reembolsables y a la prestación de servicios bancarios y de inversión para clientes minoristas y pequeñas y medianas empresas.
+
+> Se modifica por el art. único y anexo.1 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Artículo 2. Ámbito de actuación territorial.
+
+Las cajas de ahorros con domicilio social en la Comunitat Valenciana limitarán su ámbito de actuación al territorio de dicha comunidad autónoma. No obstante, podrá sobrepasarse este límite siempre que se actúe en las provincias limítrofes con la misma.
+
+> Se modifica por el art. único y anexo.2 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica por el art. único.1 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+##### Artículo 3.
+
+Las Cajas de Ahorros gozarán del protectorado de la Generalitat Valenciana, que se ejercerá en el marco de las bases y la ordenación de la actividad económica general y la política monetaria del Estado, de acuerdo con los principios siguientes:
+
+a) Procurar el desarrollo y buen funcionamiento de las Cajas de Ahorros.
+
+b) Velar para que en cada Caja de Ahorros exista una adecuada organización administrativa y contable y procedimientos de control interno adecuados.
+
+c) Defender y proteger la independencia, prestigio y estabilidad de las Cajas de Ahorros.
+
+d) Vigilar que las Cajas de Ahorros cumplan las normas de ordenación y disciplina.
+
+e) Velar porque los criterios de democratización, eficacia y transparencia estén presentes en la configuración y funcionamiento de los órganos de gobierno de las Cajas de Ahorros.
+
+##### Artículo 4.
+
+Sin perjuicio de la normativa básica del Estado, las Cajas de Ahorros de la Comunidad Valenciana se regirán por las siguientes disposiciones:
+
+1\. La presente Ley.
+
+2\. Las normas reglamentarias dictadas en desarrollo de esta Ley.
+
+3\. Sus propios Estatutos y Reglamentos.
+
+4\. Con carácter de Derecho supletorio, el ordenamiento general del Estado.
+
+### CAPÍTULO II — Creación
+
+##### Artículo 5.
+
+1\. El conseller de Economía, Hacienda y Administración Pública podrá autorizar la creación de nuevas Cajas de Ahorros, atendiendo a lo previsto en la normativa básica del Estado.
+
+2\. Las solicitudes de creación deberán formularse ante el Instituto Valenciano de Finanzas e irán acompañadas de la documentación que reglamentariamente se determine.
+
+##### Artículo 6.
+
+Para la creación de una nueva Caja de Ahorros será necesario tener un fondo de dotación en efectivo de la cuantía que; con carácter general, establezca la legislación del Estado.
+
+##### Artículo 7.
+
+1\. Una vez concedida la autorización y aprobados los Estatutos Sociales, se otorgará la oportuna escritura fundacional de la entidad.
+
+2\. La escritura fundacional contendrá, como mínimo, los siguientes extremos:
+
+a) Identidad de las personas fundadoras y de quien actúe en su representación.
+
+b) Manifestación, expresa de la voluntad de constituir una Caja de Ahorros sometida a las disposiciones vigentes. .
+
+c) La dotación inicial. Si como parte de la dotación inicial existieran aportaciones no dinerarias adicionales a la dotación mínima exigida legalmente, se describirán los bienes y derechos que la integran, su título de propiedad y las cargas, si las hubiera.
+
+d) Estatutos de la entidad.
+
+e) Personas integrantes del patronato inicial de la fundación:
+
+3\. La escritura fundacional deberá ser inscrita en el Registro de Cajas de Ahorros de la Comunidad Valenciana, momento a partir del cual la nueva Caja de Ahorros gozará de personalidad jurídica.
+
+4\. Inscrita en el Registro de Cajas de Ahorros de la Comunidad Valenciana, así como en el Registro Especial de Cajas Generales de Ahorro Popular, la nueva Caja de Ahorros podrá dar comienzo a sus actividades.
+
+5\. Las inscripciones son intransmisibles.
+
+6\. La autorización concedida para la creación de una Caja de Ahorros caducará si no se da comienzo a las actividades específicas de su objeto social dentro de los doce meses siguientes a la fecha de notificación de la autorización, por causa imputable al interesado.
+
+> Se añade el apartado 6 por el art. 2.1 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 8.
+
+1\. Transitoriamente, y hasta que se constituyan los órganos de gobierno que determina el artículo 16 de esta Ley, la administración y gestión de la nueva Caja de Ahorros recaerá en una Comisión Gestora, cuyos miembros, en número mínimo de 10 y máximo de 21, serán nombrados directamente por los fundadores. La Comisión Gestora nombrará un director general.
+
+2\. Las Cajas de Ahorros de nueva creación constituirán sus órganos de gobierno de acuerdo con lo establecido en la presente Ley y normas concordantes, en el plazo de dos años a partir del comienzo de sus operaciones.
+
+3\. El primer Consejo de Administración que se celebre, una vez constituido con arreglo a lo previsto en esta Ley, habrá de ratificar, en su caso, al director general designado por la Comisión Gestora, que será posteriormente confirmado por la Asamblea General convocada al efecto.
+
+##### Artículo 9.
+
+1\. La autorización concedida para la creación de una Caja de Ahorros podrá ser revocada en los siguientes supuestos:
+
+a) Si se renuncia de modo expreso a la autorización.
+
+b) Si interrumpe de hecho las actividades específicas de su objeto social durante un período superior a seis meses.
+
+c) Si resulta que obtuvo la autorización por medio de declaraciones falsas o por otro medio irregular.
+
+d) Si incumple las condiciones que motivaron la autorización, salvo que se disponga otra cosa con relación a alguna de dichas condiciones.
+
+e) Si carece de fondos propios suficientes o no ofrece garantía de poder cumplir sus obligaciones con relación a sus acreedores y, en particular, no garantiza la seguridad de los fondos que le hayan sido confiados.
+
+f) Si la entidad es excluida del Fondo de Garantía de Depósitos.
+
+g) Por sanción, como consecuencia de infracción administrativa muy grave de la legislación en materia de Cajas de Ahorros y de disciplina e intervención de las entidades de crédito.
+
+2\. Corresponde al conseller de Economía, Hacienda y Administración Pública la facultad de revocar la autorización administrativa, excepto en el supuesto contemplado en el párrafo g) del apartado anterior, cuya competencia se reserva al Gobierno Valenciano.
+
+3\. La revocación de la autorización administrativa llevará implícita la disolución de la Caja de Ahorros y la apertura del período de liquidación.
+
+> Se modifica el apartado 1.a) por el art. 2.2 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 10.
+
+El Instituto Valenciano de Finanzas llevará el Registro de Cajas de Ahorros de la Comunidad Valenciana, cuyo contenido, que será público, se determinará reglamentariamente.
+
+##### Artículo 11. Denominación.
+
+Cualquier persona física o jurídica deberá abstenerse de utilizar en la Comunitat Valenciana las denominaciones “caja de ahorrosˮ y “monte de piedadˮ, u otras que puedan inducir a confusión con ellas, sin hallarse inscrita en el Registro que legalmente corresponda a las cajas de ahorros.
+
+No obstante lo anterior, las fundaciones bancarias y ordinarias podrán utilizar en su denominación y en su actividad las denominaciones propias de las cajas de ahorros de las que procedan.
+
+Asimismo, las entidades de crédito que hayan recibido, en todo o en parte, la actividad financiera de una caja de ahorros podrán utilizar en su actividad las marcas o nombres comerciales notorios o renombrados de la misma, siempre que sean titulares o cuenten con el consentimiento previo de la caja titular de dichas marcas o nombres comerciales.
+
+> Se modifica por el art. único y anexo.3 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica por el art. único.2 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+### CAPÍTULO III — Modificación de Estatutos y Reglamentos y modificaciones estructurales
+
+> Se modifica por el art. único.3 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+##### Artículo 12.
+
+Corresponde al Instituto Valenciano de Finanzas la aprobación de modificaciones de los Estatutos y Reglamentos de las Cajas de Ahorros acordadas por la Asamblea General.
+
+##### Artículo 13. Autorización de modificaciones estructurales.
+
+1\. Adoptado el pertinente acuerdo por la asamblea general, corresponde a la persona titular de la conselleria competente en materia de hacienda autorizar cualquier fusión, escisión, transformación o cesión global del activo y del pasivo, en que intervenga alguna caja de ahorros con domicilio social en la Comunitat Valenciana. Asimismo, quedarán sujetos a autorización los acuerdos relativos a la integración en sistemas institucionales de protección. No requerirá de autorización la transformación obligatoria en fundaciones ordinarias o bancarias, en los términos establecidos en la legislación básica del Estado.
+
+2\. En todo caso, para conceder las autorizaciones enunciadas en el apartado anterior, la caja implicada deberá observar las condiciones siguientes:
+
+a) Que queden a salvo los derechos y garantías de los afectados por el cambio.
+
+b) Que se permita la continuidad de la obra social.
+
+c) En los casos de fusión, que las entidades implicadas no estén en proceso de liquidación.
+
+3\. En el caso de fusión de Cajas de Ahorros con creación de nueva entidad y, por tanto, disolución de las entidades fusionadas, se realizará la elección de órganos de gobierno en el plazo de dos años a partir de la aprobación de los Estatutos y Reglamentos. Durante este plazo provisional y transitorio, los órganos de gobierno de la nueva entidad serán los que se fijen en los pactos de fusión, respetando lo establecido en la presente Ley.
+
+4\. En el caso de fusiones por absorción, quedarán disueltos los órganos de gobierno de la Caja de Ahorros absorbida, y la administración, gestión, representación y control de la entidad corresponderá a los de la Caja de Ahorros absorbente. No obstante, reglamentariamente se preverá el procedimiento por el que, de forma transitoria y hasta la siguiente renovación parcial, podrá mantenerse en los órganos de la Caja de Ahorros absorbente una representación de los de la absorbida.
+
+5\. Cuando en las operaciones de fusión, con creación de nueva entidad o por absorción, intervengan una o más Cajas de Ahorros que tengan entidad fundadora reconocida, los Estatutos de la Caja de Ahorros resultante podrán otorgar representación a cada entidad fundadora, dentro del porcentaje máximo establecido en esta Ley para dicho grupo, en función de la dimensión económica de las Cajas de Ahorros, y por el procedimiento que reglamentariamente se determine.
+
+6\. El conseller de Economía, Hacienda y Administración Pública velará por el cumplimiento y eficacia de los pactos de fusión contraídos o suscritos entre las Cajas de Ahorros que hubieran sido objeto de un proceso de fusión.
+
+7\. **(Derogado).**
+
+8\. La denegación de la autorización de fusión sólo podrá producirse mediante resolución motivada cuando la entidad resultante pudiera incumplir cualquiera de los requisitos objetivos previstos en esta Ley y en sus normas de desarrollo.
+
+> Se deroga el apartado 7 y se modifica por el art. único y anexo.4 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifican los apartados 1 y 2 y se añade el 8 por el art. único.4 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+> Se añade el apartado 7 por el art. 2.3 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 14.
+
+1\. Corresponde al conseller de Economía, Hacienda y Administración Pública la autorización de la disolución de una Caja de Ahorros. Aprobada la disolución, excepto en caso de fusión, se entrará en período de liquidación.
+
+2\. Cuando se produzca la liquidación de una Caja de Ahorros, el conseller de Economía, Hacienda y Administración Pública deberá acordar la intervención de las correspondientes operaciones, si por el número de afectados o por la situación patrimonial de la entidad tal medida resulta aconsejable.
+
+3\. La adjudicación de los bienes resultantes de la liquidación se ajustará a lo que se disponga reglamentariamente.
+
+4\. Las presentes disposiciones deben entenderse sin perjuicio de las normas estatales que regulan el Fondo de Garantía de Depósitos, así como las de disciplina e intervención de las entidades de crédito. En cualquier caso, las instituciones u organismos competentes podrán establecer sistemas de colaboración en el ejercicio dé las respectivas competencias.
+
+##### Artículo 15.
+
+Las resoluciones administrativas por las que se autorice la creación de Cajas de Ahorros, así como las referidas a las autorizaciones contempladas en los artículos 13 y 14 de esta Ley, se publicarán en el Diari Oficial de la Comunitat Valenciana y se comunicarán al Registro Especial de Cajas Generales de Ahorro Popular, previa inscripción en el Registro de Cajas de Ahorros de la Comunitat Valenciana.
+
+> Se modifica por el art. único.5 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+##### Artículo 15 bis.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica el apartado 3 y se añaden los apartados 4 y 5 por el art. 54 de la Ley 9/2011, de 26 de diciembre. [Ref. BOE-A-2012-1253](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1253)
+
+> Se añade por el art. único.6 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+## TÍTULO II
+
+## Órganos de gobierno
+
+### CAPÍTULO I — Disposiciones comunes
+
+##### Artículo 16. Órganos de Gobierno.
+
+1\. La administración, gestión, representación y control de las cajas de ahorros corresponde a los siguientes órganos de gobierno:
+
+a) Asamblea general.
+
+b) Consejo de administración.
+
+c) Comisión de control.
+
+2\. Adicionalmente, en el seno del consejo de administración, se constituirá la comisión de inversiones y la comisión de retribuciones y nombramientos. También podrá constituirse la comisión de obra social.
+
+3\. Asimismo, podrán existir comisiones delegadas, cuya composición se determinará en los estatutos.
+
+4\. Los órganos de gobierno actuarán con carácter colegiado y las personas componentes ejercerán sus funciones en beneficio exclusivo de los intereses de la caja de ahorros a la que pertenezcan y del cumplimiento de su función económico-social, con plena independencia de cualesquiera otros intereses que les pudieran afectar.
+
+> Se modifica por el art. único y anexo.5 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se añaden los apartados 3 y 4 por el art. único.7 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+##### Artículo 17. Dietas y retribuciones.
+
+1\. El cargo de miembro de cualquiera de los órganos de gobierno, así como de sus comisiones delegadas, no podrá originar percepciones distintas de las dietas por asistencia a reuniones y desplazamiento. La asamblea general, a propuesta del consejo de administración, determinará el importe de las citadas dietas, que no excederán de los límites máximos autorizados, con carácter general, por la conselleria competente en materia de hacienda. Por otro lado, el importe de las dietas de asistencia a consejos de administración de otras sociedades participadas, directa o indirectamente, por la caja, cuando el cargo se ostente en representación o promovido por ésta, no podrán exceder del importe fijado por la asamblea de la caja para la asistencia a su propio consejo de administración, por lo que tal exceso, en el caso de que lo hubiera, deberá cederse a la caja.
+
+2\. Sin perjuicio de lo dispuesto en el apartado anterior, la asamblea general podrá atribuir funciones ejecutivas a la persona que ostente la presidencia, que deberán detallarse en los estatutos; en tal caso, se le podrá asignar una retribución, debiendo ejercer sus funciones con dedicación exclusiva. El ejercicio de la presidencia ejecutiva será, por tanto, incompatible con cualquier actividad retribuida tanto de carácter público como privado, salvo la administración del propio patrimonio y aquellas actividades que ejerza en representación de la caja. En este último caso, los ingresos que obtenga, distintos a dietas de asistencia a consejos de administración, u otras compensaciones con idéntica finalidad, deberán cederse a la caja por cuya cuenta realiza dicha actividad o representación, o deducirse de la retribución percibida en la misma; no obstante lo anterior, el importe de las citadas dietas de asistencia que excedan del fijado por la asamblea de la caja para la asistencia a su propio consejo de administración, deberá, asimismo, cederse a la caja.
+
+3\. La política general de dietas y retribuciones aplicable, en su caso, a las personas miembros de los órganos de gobierno, a las personas que sean titulares de la dirección general o asimiladas, las que ocupen puestos de responsabilidad en funciones de control interno y quienes desempeñen otros puestos claves para el desarrollo diario de la actividad de la caja de ahorros, considerando entre estas a quienes mantengan con la misma una relación laboral de carácter especial de alta dirección, se regirá por el principio de máxima transparencia sobre los distintos conceptos retributivos.
+
+> Se modifica por el art. único y anexo.6 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica por el art. 55 de la Ley 9/2011, de 26 de diciembre. [Ref. BOE-A-2012-1253](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1253)
+
+##### Artículo 18. Requisitos.
+
+1\. Las personas miembros de los órganos de gobierno deberán reunir los siguientes requisitos:
+
+a) Ser persona física, mayor de edad y no estar incapacitado o incapacitada.
+
+b) Tener la residencia habitual en la región o zona de actividad de la caja de ahorros.
+
+c) No estar incurso en las incompatibilidades reguladas en el artículo siguiente.
+
+2\. Adicionalmente, en el caso de ser elegidas en representación del grupo de impositores e impositoras, las personas miembros de la asamblea general, así como los compromisarios o compromisarias, deberán tener la condición de impositor o impositora de la caja de ahorros con una antigüedad superior a dos años en el momento de la elección. Asimismo, deberán tener un saldo medio en cuentas no inferior a lo que se determine en las normas que desarrollen esta ley.
+
+3\. Por otro lado, las personas miembros del consejo de administración y comisión de control, así como las personas que sean titulares de la dirección general o asimiladas, las que ocupen puestos de responsabilidad en funciones de control interno y quienes desempeñen otros puestos clave para el desarrollo diario de la actividad de la caja, considerando entre estas a quienes mantengan con la misma una relación laboral de carácter especial de alta dirección, deberán reunir los requisitos de honorabilidad comercial y profesional, conocimientos y experiencia adecuados y estar en disposición de ejercer un buen gobierno, exigidos por la legislación aplicable a estos efectos a las personas miembros del órgano de administración y cargos equivalentes de los bancos.
+
+> Se modifica por el art. único y anexo.7 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica el apartado a) por el art. 1.1 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 19. Incompatibilidades.
+
+No podrán ser miembros de los órganos de gobierno de las cajas de ahorros:
+
+a) La personas que tengan antecedentes penales por delitos dolosos; las personas que estén inhabilitadas para ejercer cargos públicos o de administración o dirección en entidades financieras; las que estén inhabilitadas conforme a la Ley 22/2003, de 9 de julio, concursal, mientras no haya concluido el período de inhabilitación fijado en la sentencia de calificación del concurso, y las quebradas y concursadas no rehabilitadas en procedimientos concursales anteriores a la entrada en vigor de la referida ley.
+
+b) Las personas que ocupen los puestos de presidente o presidenta, consejero o consejera, administrador o administradora, director o directora, el o la gerente, asesor o asesora o asimilado de otros intermediarios financieros, o de empresas dependientes de ellos, así como de corporaciones o entidades que propugnen, sostengan o garanticen instituciones o establecimientos de crédito o financieros, salvo quienes ostenten dichos cargos en representación de la caja de ahorros, o promovidos por ella.
+
+c) El personal en activo de otro intermediario financiero.
+
+d) Las personas al servicio de la Administración General del Estado o de las comunidades autónomas que realicen funciones relacionadas directamente con las actividades propias de las cajas de ahorros.
+
+e) Las personas que se encuentren ligadas a la caja de ahorros o a sociedad en cuyo capital participe aquella por contratos de obras, servicios, suministros o cualquier otro trabajo retribuido, con excepción de aquellas que estén vinculadas a la caja por relación laboral, durante el período en que se mantenga vigente la respectiva relación contractual y dos años después, como mínimo, computados a partir de su extinción.
+
+f) Quienes, por sí mismos o en representación de otras personas o entidades, mantuviesen, en el momento de ser elegidos, deudas vencidas y exigibles de cualquier clase frente a la caja de ahorros, o durante el ejercicio de sus funciones hubiesen incurrido en el incumplimiento de las obligaciones contraídas con la caja con motivo de créditos, préstamos o por impago de deudas de cualquier clase frente a la misma.
+
+g) Quienes desempeñen cualquier cargo ejecutivo en partido político, asociación empresarial u organización sindical, y las personas que desempeñen cargos políticos electos o sean altos cargos de la Administración General del Estado, de la Administración de las comunidades autónomas y de la Administración local, así como de las entidades del sector público, de derecho público o privado, vinculadas o dependientes de aquellas. Tal incompatibilidad se extenderá durante los dos años siguientes a la fecha del cese de dichos cargos.
+
+> Se modifica por el art. único y anexo.8 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifican las letras b), c) y f) por el art. 56 de la Ley 9/2011, de 26 de diciembre. [Ref. BOE-A-2012-1253](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1253)
+
+> Se modifica los apartados b) y g) por el art. único.8 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+> Téngase en cuenta el régimen transitorio establecido para los cargos políticos electos establecido en la disposición transitoria tercera.
+
+> Se modifica el apartado b) por el art. 1.2 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 20. Nombramiento, renovación y provisión de vacantes.
+
+1\. Los personas miembros de los órganos de gobierno serán nombradas por un periodo de seis años, pudiendo ser reelegidas siempre que continúen cumpliendo los requisitos establecidos en el artículo 18. No obstante, las personas vocales independientes del consejo de administración y de la comisión de control no podrán ostentar tal condición durante un periodo superior a 12 años.
+
+2\. La renovación de las personas miembros de los órganos de gobierno será acometida por mitades, cada tres años. La renovación de la asamblea general respetará la proporcionalidad de las representaciones que la componen.
+
+3\. El procedimiento y condiciones para el nombramiento, renovación y provisión de vacantes de las personas miembros de los órganos de gobierno se determinarán en las normas que desarrollen la presente ley.
+
+> Se modifica por el art. único y anexo.9 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica el apartado 1 por el art. 57 de la Ley 9/2011, de 26 de diciembre. [Ref. BOE-A-2012-1253](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1253)
+
+> Se modifica el apartado 2 por el art. único.9 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+> Se modifican los apartados 1 y 2 por el art. 1.3 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 21. Causas de cese.
+
+1\. Las personas miembros de los órganos de gobierno cesarán en el ejercicio de sus cargos, única y exclusivamente en alguno de los siguientes supuestos:
+
+a) Por cumplimiento del plazo para el que fueron designadas.
+
+b) Por renuncia.
+
+c) Por defunción o declaración de fallecimiento o ausencia legal.
+
+d) Por la pérdida de cualquiera de los requisitos exigidos para la designación.
+
+e) Por incurrir en incompatibilidad sobrevenida.
+
+2\. Además, las personas miembros de la asamblea general cesarán por acuerdo de separación adoptado por la asamblea general si se apreciara justa causa. Se entenderá que existe justa causa cuando se incumplan los deberes inherentes a su cargo, o perjudiquen con su actuación, pública o privada, el prestigio, buen nombre o actividad de la caja. El acuerdo de separación deberá estar suficientemente motivado y se comunicará al Instituto Valenciano de Finanzas.
+
+> Se modifica por el art. único y anexo.10 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica el apartado a) por el art. 58 de la Ley 9/2011, de 26 de diciembre. [Ref. BOE-A-2012-1253](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1253)
+
+> Se modifica por el art. 1.4 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 22. Limitaciones a la contratación.
+
+Quienes hayan ostentado la condición de miembro de los órganos de gobierno de la caja de ahorros, no podrán celebrar con la misma o con sociedades en cuyo capital participe ésta, en la forma que se determine en las normas de desarrollo de esta ley, contratos de obras, suministros, servicios o trabajos retribuidos durante un período mínimo de dos años, contados a partir del cese en el correspondiente órgano de gobierno, sin perjuicio de la continuidad de la relación laboral en el caso del personal de la caja, designado por su grupo de representación.
+
+> Se modifica por el art. único y anexo.11 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica por el art. 59 de la Ley 9/2011, de 26 de diciembre. [Ref. BOE-A-2012-1253](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1253)
+
+### CAPÍTULO II — Asamblea General
+
+##### Artículo 23. Número de miembros.
+
+1\. La asamblea general es el órgano que asume el supremo gobierno y decisión de la caja de ahorros. En su composición, se deberán reflejar adecuadamente los intereses de las entidades fundadoras, de los impositores e impositoras y de los destinatarios de la obra social. Las personas miembros de la asamblea general se denominarán consejeros o consejeras generales.
+
+2\. Los estatutos de la caja de ahorros fijarán el número de miembros de la asamblea general, de acuerdo con un principio de proporcionalidad en función de su dimensión económica, entre un mínimo de 30 y un máximo de 100.
+
+> Se modifica por el art. único y anexo.12 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica por el art. único.10 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+##### Artículo 24. Composición.
+
+1\. La representación de los intereses sociales y colectivos en la asamblea general se llevará a efecto mediante la participación de los grupos siguientes:
+
+a) Los impositores e impositoras de la caja, con una participación del 50 %.
+
+b) La Generalitat, con una participación del 17 %.
+
+c) Las corporaciones municipales en cuyo término tenga abierta oficina la caja de ahorros, con una participación del 8 %.
+
+d) El personal de la caja de ahorros, con una participación del 15 %.
+
+e) Las personas o entidades fundadoras de la caja de ahorros, con una participación del 5 %, en su caso.
+
+f) Otras entidades representativas de intereses colectivos, con una participación del 5 %.
+
+2\. Cuando la persona o entidad fundadora de la caja de ahorros no estuviera reconocida en sus estatutos, el porcentaje asignado a la misma en el apartado anterior se repartirá proporcionalmente entre los grupos de representación de impositores e impositoras, personal y otras entidades representativas, en relación con los porcentajes establecidos para cada uno de ellos.
+
+> Se modifica por el art. único y anexo.13 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifican los apartados 1 a 3 y se añade el 6 por el art. único.11 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+> Se modifica por el art. 1.5 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 25. Grupos de representación.
+
+1\. Las personas miembros de la asamblea general que sean representantes del grupo de la Generalitat serán nombradas por Les Corts, entre personas de reconocida competencia, prestigio y experiencia en el área de la economía y las finanzas, conforme al principio de proporcionalidad en función de la importancia numérica de los grupos políticos integrantes en Les Corts.
+
+2\. Las personas miembros de la asamblea general que sean representantes del grupo de impositores e impositoras serán elegidas por circunscripciones. La distribución de su número por cada circunscripción se hará en proporción a la cifra de depósitos captados por la caja en cada una de ellas.
+
+Del número de miembros correspondientes a cada circunscripción, la mitad se asignará a sus grandes impositores. El resto de representantes del grupo de impositores o impositoras serán elegidos por compromisarios y compromisorias, de entre quienes ostenten tal condición.
+
+Las personas miembros de la asamblea general que sean representantes de este grupo serán elegidas en procesos electorales con la máxima transparencia, publicidad y garantías de igualdad para los impositores e impositoras que participen en cada fase del proceso, asegurando las mismas posibilidades de acceso a la información del proceso electoral para todos ellos.
+
+3\. Las personas miembros de la asamblea general que sean representantes de corporaciones municipales serán designadas, atendiendo a criterios de territorialidad, directamente por las propias corporaciones, de forma proporcional a la importancia numérica de los grupos municipales integrantes de cada una de ellas.
+
+4\. Las personas miembros de la asamblea general que sean representantes del personal de la caja serán elegidas, mediante sistema proporcional, por las personas que ostenten su representación legal. No obstante, también podrán elegirse, directamente, por la plantilla, si así se determina en sus estatutos. Las personas que formen parte de la candidatura habrán de tener, como mínimo, una antigüedad de dos años en la plantilla.
+
+5\. Las personas miembros de la asamblea general que sean representantes de las personas o entidades fundadoras, tanto instituciones públicas como privadas, serán nombradas directamente por la persona o entidad fundadora.
+
+6\. Las personas miembros de la asamblea general que sean representantes de otras entidades representativas de intereses colectivos serán nombradas, atendiendo a criterios de territorialidad, directamente por éstas de acuerdo con sus normas internas de funcionamiento. Tales entidades, sean fundaciones, asociaciones o corporaciones de carácter cultural, científico, benéfico, cívico, económico o profesional, no podrán ostentar la consideración de Administración Pública ni entidad o corporación de derecho público.
+
+7\. El procedimiento para la elección de las personas que ostenten la representación de cada uno de los grupos será el que se determine reglamentariamente.
+
+> Se modifica por el art. único y anexo.14 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifican los apartados 1, 3 y 7 por el art. 60 y 61 de la Ley 9/2011, de 26 de diciembre. [Ref. BOE-A-2012-1253](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1253)
+
+> Se modifica por el art. único.12 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+> Se suprime el apartado 7 por el art. 1.6 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 26. Representación del personal.
+
+1\. El personal de la caja de ahorros accederá a la asamblea general exclusivamente por este grupo de representación.
+
+2\. Las personas miembros de la asamblea general que sean representantes del personal tendrán las mismas garantías que las establecidas para sus representantes legales en el artículo 68.c del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo.
+
+> Se modifica por el art. único y anexo.15 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica el apartado 1 por el art. 62 de la Ley 9/2011, de 26 de diciembre. [Ref. BOE-A-2012-1253](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1253)
+
+##### Artículo 27.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica por el art. único.13 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+> Se modifica por el art. 1.7 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 28. Funciones.
+
+Sin perjuicio de las facultades generales de gobierno, competen de forma especial a la asamblea general las siguientes funciones:
+
+a) Nombrar a las personas miembros del consejo de administración y de la comisión de control, así como a las de la comisión de inversiones, de la comisión de retribuciones y nombramientos y, en su caso, de la comisión de obra social. Asimismo, será competente para la adopción de los acuerdos de separación del cargo, de conformidad con lo establecido en el artículo 21.2.
+
+b) Aprobar y modificar los estatutos y el reglamento.
+
+c) Aprobar las operaciones contempladas en el artículo 13.1, así como la disolución y liquidación de la caja de ahorros.
+
+d) Definir anualmente las líneas generales del plan de actuación de la caja de ahorros, para que pueda servir de base a la labor del consejo de administración y de la comisión de control.
+
+e) Aprobar la gestión del consejo de administración y las cuentas anuales, así como la aplicación de los excedentes a los fines propios de la caja de ahorros.
+
+f) Crear y disolver obras sociales, así como aprobar sus presupuestos anuales y la gestión y liquidación de los mismos.
+
+g) Entender y pronunciarse acerca de las impugnaciones presentadas contra resoluciones o acuerdos tomados por la Comisión de Control, en ejercicio de la función que le atribuye el artículo 42.1.g de la ley. Esta función podrá ser delegada en una comisión constituida al efecto.
+
+h) Aprobar el informe anual en el que se determinen las medidas adoptadas para garantizar la independencia de las personas miembros de la asamblea general que sean representantes del grupo de impositores e impositoras, respecto a los de otros grupos.
+
+i) Cualesquiera otros asuntos que se sometan a su consideración por los órganos facultados al efecto o sean de su competencia.
+
+> Se modifica por el art. único y anexo.16 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica la letra c) por el art. único.14 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+> Se modifica el apartado a) por el art. 1.8 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 29. Régimen de funcionamiento.
+
+1\. Las asambleas generales podrán ser ordinarias y extraordinarias. Las asambleas ordinarias se celebrarán una vez al año. Las asambleas extraordinarias se celebrarán tantas veces como sean expresamente convocadas.
+
+2\. La asamblea general quedará válidamente constituida en primera convocatoria cuando las personas miembros presentes posean, al menos, el cincuenta por ciento de los derechos de voto. La constitución en segunda convocatoria será válida cualquiera que sea el número de asistentes. Las personas miembros de la asamblea general no podrán estar representadas por otro miembro o por tercera persona, sea física o jurídica.
+
+3\. Los acuerdos de la asamblea general se adoptarán, como regla general, por mayoría simple de votos de las personas miembros concurrentes, excepto en los supuestos que se contemplan en el artículo 21.2 y en los párrafos b y c del artículo anterior, en los que se requerirá, en todo caso, la asistencia de un número de miembros que represente la mayoría de los derechos de voto, siendo necesario, además, como mínimo, el voto favorable de dos tercios de los asistentes.
+
+Cada miembro de la asamblea general tendrá derecho a un voto, otorgándose voto de calidad a quien presida la reunión. Los acuerdos válidamente adoptados obligan a todas sus personas miembros, incluidas las disidentes y ausentes.
+
+4\. Quienes ostenten la presidencia o vicepresidencias del consejo de administración ocuparán tales cargos en la asamblea general. En su ausencia, la asamblea nombrará a uno de sus miembros para que presida y dirija la sesión de que se trate.
+
+Por su parte, la persona que ocupe la secretaría del consejo de administración ejercerá el mismo cargo en la asamblea general.
+
+5\. Asistirán a las asambleas generales, con voz pero sin voto, tanto la persona titular de la dirección general de la caja de ahorros como las personas vocales del consejo de administración y de la comisión de control que no sean miembros de la asamblea general. No obstante lo anterior, en el caso de que quien ostente la presidencia del consejo, o quien lo sustituya, sea consejero o consejera independiente y, por tanto, no sea miembro de la asamblea general, tendrá, exclusivamente, un voto dirimente, en caso de empate, para la adopción de acuerdos de la asamblea general que presida.
+
+6\. Las demás condiciones de convocatoria y funcionamiento de las asambleas generales se determinarán en las normas que desarrollen la presente ley.
+
+> Se modifica por el art. único y anexo.17 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifican los apartados 2 a 4 por el art. único.15 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+> Se modifica el apartado 3 por el art. 1.9 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+### CAPÍTULO III — Consejo de Administración
+
+##### Artículo 30. Funciones.
+
+1\. El consejo de administración es el órgano que tiene encomendado el gobierno, la representación, la administración y la gestión financiera, así como la de la obra social de la caja de ahorros, para el cumplimiento de sus fines, con plenitud de facultades y sin más limitaciones que las reservadas expresamente a los restantes órganos de gobierno en la presente ley o en sus estatutos.
+
+2\. El consejo de administración elaborará anualmente la propuesta de las líneas generales del plan de actuación de la caja de ahorros, para someter su aprobación a la asamblea general.
+
+3\. El consejo de administración asumirá, como objetivos fundamentales, la aprobación de la estrategia de la caja de ahorros y la organización precisa para su puesta en práctica, así como la supervisión y control de que se cumplen los objetivos marcados y se respeta el objeto e interés social de la caja.
+
+4\. El consejo de administración deberá establecer normas de funcionamiento y procedimientos adecuados para facilitar que todas sus personas miembros puedan cumplir en todo momento sus obligaciones y asumir las responsabilidades que les correspondan de acuerdo con las normas de ordenación y disciplina de las entidades de crédito y las restantes disposiciones que sean de aplicación a las cajas de ahorros.
+
+> Se modifica por el art. único y anexo.18 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se añade el apartado 4 por el art. único.16 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+##### Artículo 31. Número de vocales.
+
+El número de vocales del consejo de administración estará comprendido entre un mínimo de 5 y un máximo de 12, en función de la dimensión económica de la caja de ahorros.
+
+> Se modifica por el art. único y anexo.19 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica por el art. único.17 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+> Se modifica por el art. 1.10 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 32. Elección de las personas vocales.
+
+1\. El nombramiento de las personas vocales del consejo de administración se efectuará por la asamblea general en la forma que determinen los estatutos.
+
+2\. La mayoría de las personas vocales del consejo de administración deberán ser independientes, mientras que el resto de vocales serán elegidos de entre las personas miembros de la asamblea general. Su designación requerirá informe favorable de la comisión de retribuciones y nombramientos, que habrá de tener en cuenta, además de la normativa de aplicación, las prácticas y estándares nacionales e internacionales sobre gobierno corporativo de entidades de crédito. Las personas miembros de la asamblea general no podrán ser vocales independientes.
+
+3\. Las personas miembros de la asamblea general podrán agruparse para designar, de entre ellas, a las personas vocales no independientes del consejo de administración en la forma que se establezca reglamentariamente. En caso de que se realice esta representación proporcional, los que se agrupen no podrán participar en la elección del resto de vocales no independientes del consejo.
+
+> Se modifica por el art. único y anexo.20 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica por el art. único.18 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+> Se modifica por el art. 1.11 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 33.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica por el art. único.19 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+> Se modifica por el art. 1.12 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 34. Causas de incompatibilidad.
+
+Constituirán causas de incompatibilidad para el ejercicio del cargo de vocal del consejo de administración de las cajas de ahorros:
+
+a) Las establecidas en el artículo 19 respecto a las personas miembros de los órganos de gobierno.
+
+b) Pertenecer al consejo de administración u órgano equivalente de más de cuatro sociedades mercantiles o entidades cooperativas. A estos efectos, no se computarán los puestos ostentados en un consejo de administración u órgano equivalente de sociedades en las que el cargo, su cónyuge, ascendientes o descendientes, juntos o separadamente, sean propietarios de un número de acciones o participaciones igual o superior al cociente de dividir el total de acciones o participaciones representativas de la cifra capital social, por el número de administradores o administradoras de cada sociedad. La misma norma se aplicará a los casos de representación legal de menores, ausentes o incapacitados. En cualquier caso, el número total de puestos de administrador o administradora no podrá ser superior a ocho, incluido el cargo ostentado en la caja de ahorros.
+
+> Se modifica por el art. único y anexo.21 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se suprime el apartado c) por el art. único.20 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+##### Artículo 35. Autorizaciones administrativas de operaciones de crédito y transmisión de bienes o valores.
+
+1\. Sin perjuicio de las competencias atribuidas al Banco de España en esta materia, las personas vocales de los consejos de administración, así como sus cónyuges, ascendientes o descendientes y las sociedades en que dichas personas participen mayoritariamente en el capital, bien de forma aislada o conjunta, o en las que desempeñen los cargos de presidente o presidenta, consejero o consejera, administrador o administradora, el o la gerente, director o directora general o que tengan funciones similares, no podrán obtener créditos, avales ni garantías de la caja de ahorros respectiva o enajenar a la misma bienes o valores de su propiedad o emitidos por tales sociedades, sin que exista acuerdo del consejo de administración de la caja de ahorros y autorización del Instituto Valenciano de Finanzas. Esta prohibición se extenderá, en todo caso, no sólo a las operaciones realizadas directamente por las personas o entidades referidas, sino a aquellas otras en que pudieran aparecer una o varias personas físicas o jurídicas interpuestas. Sin embargo, no será de aplicación respecto a quienes ostenten la representación del personal, para los cuales la concesión de créditos se regirá por los convenios laborales, previo informe de la comisión de control y del Instituto Valenciano de Finanzas.
+
+2\. La transmisión de cualquier bien o valor, propiedad de una caja de ahorros, a las personas vocales del consejo de administración, así como a las personas vinculadas que se citan en el apartado anterior, deberá contar con la autorización administrativa del Instituto Valenciano de Finanzas.
+
+> Se modifica por el art. único y anexo.22 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Artículo 36. Organización.
+
+1\. El consejo de administración nombrará, de entre sus miembros, a quien ostente su presidencia, que, a su vez, ostentará la de la caja de ahorros y la de la asamblea general. Podrá elegir, asimismo, una o más personas que ocupen las vicepresidencias, así como la persona titular de la secretaría, que podrá o no ser miembro del consejo. Los estatutos de la caja preverán las condiciones en que dichos cargos pueden ser revocados, exigiéndose, en todo caso, el voto favorable de, al menos, la mayoría absoluta de las personas miembros del consejo.
+
+2\. El consejo se reunirá cuantas veces sea necesario para la buena marcha de la caja de ahorros. Podrá actuar en pleno o delegar funciones, en una comisión ejecutiva o en las personas que ocupen la presidencia o la dirección general, con excepción de las relativas a la elevación de propuestas a la asamblea general o cuando se trate de facultades especialmente delegadas en el consejo, salvo que fuese expresamente autorizado para ello.
+
+> Se modifica por el art. único y anexo.23 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica por el art. único.21 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+> Se añade el apartado 4 por el art. 1.13 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 37. Funcionamiento.
+
+1\. Las deliberaciones del consejo de administración, de la comisión de inversiones, de la comisión de retribuciones y nombramientos y, en su caso, de las comisiones delegadas y de la comisión de obra social, tendrán carácter secreto. Asimismo, los acuerdos adoptados por estos órganos, si resulta procedente y lo estiman pertinente, también tendrán carácter secreto. Tendrá la consideración de infracción grave el quebrantamiento del mismo a los efectos de la incompatibilidad prevista en el párrafo a del artículo 19 y sin perjuicio de las responsabilidades de otro orden que pudieran proceder.
+
+2\. Los acuerdos del consejo de administración se adoptarán por mayoría de las personas vocales asistentes, salvo en los supuestos para los que la normativa aplicable o sus estatutos prevean una mayoría cualificada. Quien presida la reunión tendrá voto de calidad.
+
+3\. A las reuniones del consejo de administración, asistirá la persona titular de la dirección general con voz pero sin voto.
+
+> Se modifica por el art. único y anexo.24 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica el apartado 1 por el art. único.22 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+### CAPÍTULO IV — Comisión de Control
+
+##### Artículo 38. Fines.
+
+La comisión de control tiene por objeto cuidar de que la gestión del consejo de administración se realice en el marco de las líneas generales de actuación señaladas por la asamblea general y de las directrices emanadas de la normativa financiera, prestando especial atención a la supervisión del procedimiento electoral y la obra social de la caja de ahorros.
+
+> Se modifica por el art. único y anexo.25 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Artículo 39. Elección de las personas vocales.
+
+1\. El nombramiento de los vocales de la comisión de control se efectuará por la asamblea general, en la forma que determinen los estatutos, de entre personas que no ostenten la condición de vocales del consejo de administración. La mitad de sus miembros, en caso de número par, o la mayoría de ellos, en caso de número impar, serán independientes, mientras que el resto de las personas vocales serán elegidas entre las personas miembros de la asamblea general.
+
+2\. El número de miembros de la comisión de control estará comprendido entre un mínimo de 3 y un máximo de 7, en función de la dimensión económica de la caja de ahorros.
+
+3\. El sistema de representación proporcional, previsto en el artículo 32.2 para las personas vocales del consejo de administración, será asimismo aplicable para la elección de las personas vocales de la comisión de control.
+
+4\. En los procesos electorales podrá, además, formar parte de la comisión de control, constituida al efecto en comisión electoral, una persona designada por el titular de la conselleria competente en materia de hacienda, entre personas con capacidad y preparación técnica adecuadas. En su caso, asistirá a las reuniones, con voz y sin voto, y deberá guardar secreto sobre lo tratado, al igual que cualquier otra persona miembro, excepción hecha de su deber de informar ante el Instituto Valenciano de Finanzas.
+
+> Se modifica por el art. único y anexo.26 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifican los apartados 1 y 2 por el art. único.23 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+> Se modifican los apartados 1 y 2 por el art. 1.14 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 40. Organización y funcionamiento.
+
+1\. La comisión de control nombrará de entre sus miembros a la persona que ocupe la secretaría y, de entre sus vocales independientes, a quien ocupe la presidencia. Los estatutos de la caja de ahorros preverán las condiciones en que dichos cargos pueden ser revocados, exigiéndose, en todo caso, el voto favorable de, al menos, la mayoría absoluta de las personas miembros de la comisión.
+
+2\. Siempre que la comisión de control así lo requiera, la persona que ocupe la presidencia del consejo de administración, así como la dirección general, asistirán a las reuniones con voz y sin voto.
+
+3\. Para el cumplimiento de sus funciones, la comisión de control se reunirá siempre que sea convocada por quien ocupe la presidencia a iniciativa propia o a petición de un tercio de sus miembros y, como mínimo, una vez al trimestre.
+
+4\. Los acuerdos de la comisión de control se adoptarán por mayoría de las personas miembros asistentes, salvo en los supuestos para los que la normativa aplicable prevea una mayoría cualificada.
+
+> Se modifica por el art. único y anexo.27 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Artículo 41. Requisitos, limitaciones e incompatibilidades.
+
+Las personas vocales de la comisión de control deberán reunir los mismos requisitos y tendrán las mismas incompatibilidades y limitaciones que las establecidas para las personas vocales del consejo de administración.
+
+> Se modifica por el art. único y anexo.28 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Artículo 42. Funciones.
+
+1\. Para el cumplimiento de sus fines, la comisión de control tendrá atribuidas las siguientes funciones:
+
+a) Analizar la gestión económica y financiera de la caja de ahorros, elevando a la asamblea general, al Instituto Valenciano de Finanzas y al Banco de España información semestral sobre la misma.
+
+b) Informar a la asamblea general sobre la auditoría de cuentas anuales.
+
+c) Informar a la asamblea general y al Instituto Valenciano de Finanzas sobre la gestión del presupuesto corriente de la obra social, sobre el proyecto de presupuesto aprobado por el consejo de administración y sobre la actuación, en su caso, de la comisión de obra social.
+
+d) Informar al Instituto Valenciano de Finanzas en los casos de nombramiento y cese del titular de la dirección general.
+
+e) Proponer a la asamblea general la suspensión de la eficacia de los acuerdos del consejo de administración de la caja de ahorros cuando entienda que vulneran las disposiciones vigentes o afectan gravemente a la situación patrimonial, a los resultados, o al crédito de la caja de ahorros o de sus impositores e impositoras o clientes. De las citadas propuestas se informará al Instituto Valenciano de Finanzas.
+
+f) Informar sobre cuestiones o situaciones concretas a petición de la asamblea general, del Instituto Valenciano de Finanzas o del Banco de España.
+
+g) Vigilar y comprobar si los nombramientos o ceses de las personas miembros de los órganos de gobierno han sido realizados de acuerdo con la legislación, así como adoptar, en su caso, los acuerdos y resoluciones pertinentes, sin perjuicio de las facultades atribuidas a la comisión de retribuciones y nombramientos. La comisión de control deberá informar al Instituto Valenciano de Finanzas de todos los acuerdos y resoluciones tomados en uso de sus facultades sobre estas materias.
+
+h) Requerir a quien ocupe la presidencia de la caja de ahorros la convocatoria de la asamblea general con carácter extraordinario, en el supuesto previsto en el párrafo e.
+
+i) Elaborar un informe anual en el que se determinen las medidas adoptadas para garantizar la independencia de las personas miembros de la asamblea general representantes del grupo de impositores e impositoras, respecto a los de otros grupos.
+
+j) Ejercer, en su caso, las funciones asignadas a la comisión de auditoría, en el texto refundido de la Ley de Sociedades de Capital, salvo cuando las hubiese asumido una comisión creada al efecto.
+
+2\. Para el cumplimiento de estas funciones, la comisión de control podrá recabar del consejo de administración y de la persona titular de la dirección general cuantos antecedentes e información considere necesarios.
+
+> Se modifica por el art. único y anexo.29 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica el apartado 1.c) y se añade el i) por el art. único.24 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+### CAPÍTULO V — Otras disposiciones
+
+#### Sección 1.ª El director general
+
+##### Artículo 43. Nombramiento y remoción.
+
+1\. La persona titular de la dirección general o asimilada será designada por el consejo de administración entre personas con capacidad, preparación técnica y experiencia suficiente para desarrollar las funciones propias de este cargo, y que reúnan los requisitos previstos en el artículo 18.3. La asamblea general habrá de confirmar el nombramiento.
+
+2\. La persona titular de la dirección general podrá ser removida de su cargo por acuerdo motivado de la mayoría absoluta de las personas miembros del consejo de administración. Este acuerdo deberá ser ratificado por la asamblea general, previo informe no vinculante de la comisión de control.
+
+> Se modifica por el art. único y anexo.30 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifican los apartados 1 y 3 por el art. único.25 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+##### Artículo 44. Retribuciones y limitaciones.
+
+1\. El ejercicio del cargo de titular de la dirección general requiere dedicación exclusiva y será, por tanto, incompatible con cualquier actividad retribuida, tanto de carácter público como privado, salvo la administración del propio patrimonio y aquellas actividades que ejerza en representación de la caja de ahorros. En este último caso, los ingresos que obtenga, distintos a dietas de asistencia a consejos de administración o similares, deberán cederse a la caja de ahorros por cuya cuenta realiza dicha actividad o representación; no obstante lo anterior, el importe de las citadas dietas por asistencia que excedan del fijado por la asamblea de la caja para la asistencia a su propio consejo de administración, deberá, asimismo, cederse a la caja.
+
+2\. La persona titular de la dirección general tendrá las mismas limitaciones que las establecidas para las personas vocales del consejo de administración en el artículo 35.
+
+3\. En el supuesto de que se establezcan contractualmente indemnizaciones por cese de la persona titular de la dirección general, éstas no serán eficaces hasta que sean autorizadas por el Instituto Valenciano de Finanzas. La solicitud de autorización deberá ser resuelta en el plazo de un mes desde su recepción en el Instituto. Cuando en el procedimiento no haya recaído resolución en plazo, se entenderá denegada la autorización.
+
+> Se modifica por el art. único y anexo.31 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica el apartado 1 por el art. 63 de la Ley 9/2011, de 26 de diciembre. [Ref. BOE-A-2012-1253](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1253)
+
+##### Artículo 45. Funciones.
+
+La persona titular de la dirección general ejecutará los acuerdos del consejo de administración y ejercerá las funciones que los estatutos o el reglamento de la caja de ahorros le encomienden.
+
+> Se modifica por el art. único y anexo.32 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+#### Sección 2.ª El Registro de Altos Cargos
+
+##### Artículo 46. Registro de altos cargos.
+
+1\. El Instituto Valenciano de Finanzas llevará el registro de altos cargos de las cajas de ahorros con domicilio social en la Comunitat Valenciana, al que estas entidades vendrán obligadas a comunicar cualquier modificación que afecte a las personas miembros de su consejo de administración y comisión de control, así como a la persona titular de la dirección general y al resto de órganos previstos en el artículo 16.2.
+
+2\. Los nombramientos, ceses y reelecciones de las personas referidas en el apartado anterior se comunicarán al Instituto Valenciano de Finanzas como reglamentariamente se establezca, el cual procederá a su inscripción, tras comprobar su adecuación a las normas vigentes.
+
+3\. La relación de miembros del consejo de administración, de la comisión de control y del resto de órganos previstos en el artículo 16.2, así como la persona titular de la dirección general, tendrá carácter público y será accesible desde el portal de transparencia de la Generalitat.
+
+> Se modifica por el art. único y anexo.33 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+#### Sección 3.ª Comisiones del consejo
+
+> Se añade por el art. único y anexo.34 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Artículo 47. Comisión de inversiones.
+
+1\. El consejo de administración de la caja de ahorros constituirá en su seno una comisión de inversiones que tendrá la función de informar al consejo sobre las inversiones y desinversiones de carácter estratégico y estable que efectúe la caja, ya sea directamente o a través de entidades de su mismo grupo, así como la viabilidad financiera de las citadas inversiones y su adecuación a los presupuestos y planes estratégicos de la misma.
+
+2\. La comisión de inversiones estará formada por tres personas designadas por la asamblea general de entre las personas miembros del consejo de administración, atendiendo a su capacidad técnica y experiencia profesional. La persona que ocupe la presidencia de la comisión será un vocal independiente.
+
+3\. La comisión de inversiones remitirá anualmente al consejo de administración un informe en el que, al menos, deberá incluirse un resumen de las inversiones y desinversiones a las que alude el apartado 1. Igualmente, se incluirá en el informe anual una relación y el sentido de los informes emitidos por la citada comisión. Este informe se incorporará al Informe de gobierno corporativo de la caja de ahorros. Asimismo, los informes emitidos por la citada comisión deberán remitirse al Instituto Valenciano de Finanzas.
+
+4\. El régimen de funcionamiento de la comisión de inversiones será establecido por los estatutos de la caja y su propio reglamento interno.
+
+> Se modifica por el art. único y anexo.35 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Artículo 48. Comisión de retribuciones y nombramientos.
+
+1\. El consejo de administración de la caja de ahorros constituirá en su seno una comisión de retribuciones y nombramientos que tendrá las siguientes funciones:
+
+a) Informar la política general de dietas y retribuciones para las personas miembros del consejo de administración y de la comisión de control, para la persona que ocupe la presidencia ejecutiva, en su caso, y demás personal directivo, así como para el resto de órganos previstos en el artículo 16.2, y velar por la observancia de dicha política.
+
+b) Garantizar el cumplimiento de los requisitos previstos en esta ley para las personas miembros de su consejo de administración y comisión de control, así como para la persona titular de la dirección general o asimilada, y para las personas que asuman funciones de control interno u ocupen puestos claves para el desarrollo diario de la actividad bancaria.
+
+De los acuerdos adoptados en relación con las citadas funciones, la comisión deberá informar al Instituto Valenciano de Finanzas.
+
+2\. La comisión estará formada por tres personas, elegidas por la asamblea general de entre quienes ostenten la condición de vocales del consejo de administración. Al menos la mitad de sus miembros y, en todo caso, la persona que ocupe la presidencia, serán independientes.
+
+3\. Cualquier miembro de los órganos de gobierno habrá de comunicar a esta comisión toda situación de conflicto, directo o indirecto, que pudiera tener con los intereses de la caja y con el cumplimiento de su función económico-social. En caso de conflicto, la persona afectada por el mismo habrá de abstenerse de intervenir en la operación de que se trate.
+
+4\. El régimen de funcionamiento de la comisión será establecido por los estatutos de la caja y su propio reglamento interno.
+
+> Se modifica por el art. único y anexo.36 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+#### Sección 4.ª Gobierno corporativo
+
+> Se añade por el art. único y anexo.37 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Artículo 48 bis. Informe de gobierno corporativo y de remuneraciones.
+
+La caja de ahorros deberá hacer público con carácter anual un informe de gobierno corporativo y un informe sobre remuneraciones, cuyo contenido mínimo será el establecido por la legislación básica del Estado. Ambos informes serán objeto de comunicación al Instituto Valenciano de Finanzas.
+
+> Se modifica por el art. único y anexo.38 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Artículo 48 ter.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se añade por el art. único.28 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+### CAPÍTULO VI — Derechos de representación de los cuotapartícipes
+
+> Se deroga por la disposición derogatoria única de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se añade por el art. único.29 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+##### Artículos 48 quáter a 48 sexies.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+## TÍTULO III — Régimen de actuación y control
+
+### CAPÍTULO I — Control administrativo, régimen económico y obra benéfico-social
+
+> Se modifica la rúbrica por el art. 2.4 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 49.
+
+Las emisiones de valores negociables, tanto de las cajas de ahorros como de las sociedades que conforman su grupo consolidable, que se pretendan computar a efectos del cumplimiento de la normativa estatal sobre recursos propios, serán objeto de comunicación previa a la dirección general competente en materia de control, inspección y disciplina de las entidades financieras cuya supervisión prudencial sea competencia de la Generalitat.
+
+> Se modifica por el art. 81.único de la Ley 3/2026, de 29 de junio. [Ref. BOE-A-2026-15683](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15683)
+
+> Se modifica por el art. 64 del Decreto-ley 14/2025, de 26 de diciembre. [Ref. DOGV-r-2025-90320](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90320)
+
+> Se modifica por el art. 2.5 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 50. Régimen económico.
+
+1\. La política de distribución de excedentes de las cajas de ahorros con domicilio social en la Comunitat Valenciana deberá estar presidida por la defensa y salvaguarda de los fondos recibidos del público y orientada hacia el reforzamiento de sus recursos propios.
+
+2\. Las cajas de ahorros destinarán la totalidad de los excedentes que no se apliquen a reservas, o fondos de previsión no imputables a riesgos específicos, a la dotación de un fondo para la obra social. Dicho fondo podrá tener como destinatarios a los impositores e impositoras, al personal de la propia caja y a colectivos necesitados, así como dedicarse a fines de interés público de su territorio de implantación.
+
+> Se modifica por el art. único y anexo.39 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica por el art. único.33 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+> Se modifica el apartado 2 por el art. 2.6 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 51.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Artículo 52.
+
+Corresponde al Instituto Valenciano de Finanzas la autorización, en su caso, de los acuerdos adoptados por la Asamblea General relativos a la distribución del excedente obtenido y el presupuesto anual para la Obra Benéfico-Social.
+
+##### Artículo 53.
+
+Las cajas de ahorros con domicilio social en la Comunidad Valenciana someterán a auditoría externa sus cuentas anuales, debiendo remitir una copia del informe al Instituto Valenciano de Finanzas, el cual, en uso de sus competencias, podrá recabar de los auditores cuanta información considere necesaria. Asimismo, deberá remitirse una copia del Informe complementario al de auditoría de las cuentas anuales de las entidades de crédito, así como el Informe de debilidades significativas de control interno.
+
+> Se modifica por el art. 2.7 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 54.
+
+Las Cajas de Ahorros con domicilio social en la Comunidad Valenciana comunicarán al Instituto Valenciano de Finanzas las aperturas, traslados, cesiones, traspasos y cierres de oficinas ubicadas dentro y fuera del territorio de la misma.
+
+### CAPÍTULO II — Inspección y régimen sancionador
+
+##### Artículo 55.
+
+1\. Sin perjuicio de las facultades que corresponden al Ministerio de Economía y Hacienda y al Banco de España y en el marco de la legislación básica del Estado, el Instituto Valenciano de Finanzas ejercerá las funciones de disciplina, inspección y sanción respecto a las actividades realizadas en su territorio por las Cajas de Ahorros. En particular, el Instituto Valenciano de Finanzas velará por el cumplimiento de la normativa en materia de transparencia de las operaciones financieras y protección de la clientela de las Cajas de Ahorros.
+
+2\. En materia de disciplina e inspección, el Instituto Valenciano de Finanzas podrá celebrar convenios con el Banco de España.
+
+##### Artículo 56.
+
+1\. Incurrirán en responsabilidad administrativa las Cajas de Ahorros cuando por acción u omisión infrinjan las normas imperativas de ordenación y disciplina emanadas del Estado o de la Generalitat Valenciana. En todo caso, la entidad de crédito en cuestión podrá ejercitar las correspondientes acciones de naturaleza civil o penal contra las personas individuales que realicen funciones de dirección o administración.
+
+2\. Incurrirán, también, en responsabilidad administrativa sancionable quienes ostenten cargos de administración o dirección, cuando en su conducta se aprecie ánimo doloso o negligencia directamente determinante de la infracción grave o muy grave cometida por la entidad.
+
+3\. La responsabilidad administrativa exigible de los miembros de la Comisión de Control será la establecida en el artículo 67 de esta Ley.
+
+##### Artículo 57.
+
+La responsabilidad administrativa a que se refiere el artículo anterior es independiente de la que pudiera corresponder por la concurrencia de delitos o faltas penales.
+
+##### Artículo 58.
+
+En atención a su gravedad las infracciones de las normas de ordenación y disciplina se clasifican en muy graves, graves y leves.
+
+##### Artículo 59.
+
+Constituyen infracciones muy graves:
+
+a) La realización de los actos que a continuación se relacionan, sin autorización cuando esta sea preceptiva, sin observar las condiciones básicas fijadas en la misma, u obtenerla por medio de declaraciones falsas o por otro medio irregular:
+
+Primero. Dar comienzo a sus actividades antes de estar habilitada la caja de ahorros para ello.
+
+Segundo. Las operaciones contempladas en el apartado 1 del artículo 13 de esta Ley.
+
+Tercero. La ejecución de acuerdos de disolución y liquidación.
+
+Cuarto. La distribución de excedentes y presupuesto para la Obra Benéfico-social.
+
+b) El ejercicio de actividades ajenas a su objeto exclusivo legalmente determinado, salvo que tenga un carácter meramente ocasional o aislado.
+
+c) La realización de actos u operaciones prohibidas por normas de ordenación y disciplina con rango de ley o con incumplimiento de los requisitos establecidos en ellas, salvo que tengan carácter excepcional.
+
+d) El incumplimiento de la obligación de someter sus cuentas anuales a auditoría de cuentas conforme a la legislación vigente en la materia.
+
+e) La negativa o resistencia a la actuación inspectora, siempre que medie requerimiento expreso y por escrito al respecto.
+
+f) La falta de remisión al Instituto Valenciano de Finanzas de cuantos datos o documentos deban remitírsele o requiera en el ejercicio de sus funciones, o la falta de veracidad en los mismos, cuando con ello se dificulte la apreciación de la solvencia de la entidad.
+
+g) El incumplimiento del deber de veracidad informativa debida a los clientes y al público en general, siempre que, por el número de afectados o por la importancia de la información, tal incumplimiento pueda estimarse como especialmente relevante.
+
+h) La realización de actos fraudulentos o la utilización de personas físicas o jurídicas interpuestas con la finalidad de conseguir un resultado cuya obtención directa implicaría la comisión de, al menos, una infracción grave.
+
+i) Presentar deficiencias en la organización administrativa y contable, o en los procedimientos de control interno, incluidos los relativos a la gestión de los riesgos, cuando tales deficiencias pongan en peligro la solvencia o la viabilidad de la entidad.
+
+> Se modifica el párrafo a) por el art. único.34 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+> Se modifica la letra a) y se añade la i) por el art. 2.8 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 60.
+
+Constituyen infracciones graves:
+
+a) La realización de actos u operaciones sin autorización cuando ésta sea preceptiva, sin observar las condiciones básicas de la misma, u obtenerla por medio de declaraciones falsas o por otro medio irregular, salvo en los casos en que ello suponga la comisión de una infracción muy grave de acuerdo con el párrafo a) del artículo anterior.
+
+b) El ejercicio meramente ocasional o aislado de actividades ajenas a su objeto exclusivo legalmente determinado.
+
+c) La realización meramente ocasional o aislada de actos u operaciones prohibidas por normas dé ordenación y disciplina con rango de ley, o con incumplimiento de los requisitos establecidos en ellas.
+
+d) La realización de actos u operaciones con incumplimiento de las normas en materia de trasparencia de las operaciones financieras y protección de la clientela.
+
+e) La realización de actos u operaciones prohibidas por normas reglamentarias de ordenación y disciplina o con incumplimiento de los requisitos establecidos en ellas, salvo que tengan un carácter excepcional.
+
+f) El incumplimiento de las condiciones y requisitos exigidos por la normativa correspondiente en las operaciones crediticias que gocen de subvención de intereses u otras ayudas públicas.
+
+g) La falta de remisión al Instituto Valenciano de Finanzas de los datos o documentos que deban remitírsele o que el mismo, requiera en el ejercicio de sus funciones, así como la falta de veracidad en los mismos, salvo que ello suponga la comisión de una infracción muy grave.
+
+h) La falta de comunicación por parte de los administradores a la Asamblea General de aquellos hechos o circunstancias cuya comunicación a la misma haya sido ordenada por el órgano administrativo facultado para ello.
+
+i) El incumplimiento del deber de veracidad informativa debida a los clientes o al público en general, cuando no concurran las circunstancias a que se refiere el párrafo g) del artículo anterior.
+
+j) La realización de actos fraudulentos o la utilización de personas físicas o Jurídicas interpuestas con la finalidad de conseguir un resultado contrario a las normas de ordenación y disciplina, siempre que tal conducta no esté comprendida en el párrafo h) del artículo anterior.
+
+k) El incumplimiento de las obligaciones impuestas por las normas en materia de procesos electorales para la elección y designación de los miembros de los órganos de gobierno de las Cajas de Ahorros.
+
+l) El incumplimiento de la normativa específica sobre la Obra Benéfico-Social, en lo que se refiere al destino de los fondos disponibles.
+
+m) Presentar deficiencias en la organización administrativa y contable, o en los procedimientos de control interno, incluidos los relativos a la gestión de riesgos, una vez haya transcurrido el plazo concedido al efecto para su subsanación por las autoridades competentes, y siempre que ello no constituya infracción muy grave.
+
+n) El incumplimiento de la normativa específica sobre dietas y retribuciones de los miembros de los órganos de gobierno.
+
+> Se modifica por el art. único y anexo.49 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica el párrafo a) y se añade la m) por el art. 2.9 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Artículo 61.
+
+Constituyen infracciones leves las infracciones de preceptos de obligada observancia por las Cajas de Ahorros incluidos en normas de ordenación y disciplina que no estén comprendidas en los dos artículos anteriores.
+
+##### Artículo 62.
+
+Las infracciones administrativas cometidas por las Cajas de Ahorros o por las personas que ostenten cargos de administración o dirección en éstas se sancionarán de acuerdo con lo establecido en la presente Ley y en la legislación estatal en materia de disciplina e intervención de las entidades de crédito.
+
+##### Artículo 63.
+
+1\. Para graduar las sanciones se atenderá a los siguientes criterios:
+
+a) La gravedad de los hechos.
+
+b) La importancia de los perjuicios ocasionados o del peligro provocado.
+
+c) La repercusión en el sistema financiero.
+
+d) La incidencia en la economía de la Comunidad Valenciana.
+
+2\. En caso de reiteración se impondrán las sanciones correspondientes en su grado más alto. Hay reiteración cuando el sujeto infractor hubiese sido sancionado con carácter firme por infracción de la misma clase en los cinco años anteriores, tratándose de infracciones graves o muy graves, o en los dos anteriores cuando se trata de infracciones leves.
+
+##### Artículo 64.
+
+La imposición de cualquiera de las sanciones previstas en este capítulo exigirá la incoación previa de expediente, que se tramitará de acuerdo con la normativa vigente, y en el que se dará audiencia a los interesados. En el caso de infracciones leves, el citado expediente podrá ser sumario, sin que ello suponga, en ningún caso, la inobservancia del trámite de audiencia al interesado.
+
+##### Artículo 65.
+
+La competencia para instruir los expedientes e imponer las sanciones correspondientes se regirá por las siguientes reglas:
+
+a) La instrucción de los expedientes, en cualquier caso, y la imposición de sanciones por infracciones leves corresponderá al Instituto Valenciano de Finanzas.
+
+b) La imposición de sanciones por infracciones graves y muy graves corresponderá al conseller de Economía, Hacienda y Administración Pública, salvo en el caso de revocación de la autorización administrativa, que sólo podrá imponerse por el Gobierno Valenciano.
+
+##### Artículo 66.
+
+Las infracciones muy graves y las graves prescribirán a los cinco años y las leves a los dos años. El plazo de prescripción se contará desde la fecha en que se hubiere cometido la infracción y se interrumpirá desde que el procedimiento se dirija contra el infractor, volviendo a correr de nuevo cuando aquél se paralice o termine sin sanción.
+
+##### Artículo 67. Infracciones
+
+1\. Para la determinación de la responsabilidad administrativa de los miembros de la Comisión de Control de las Cajas de Ahorros, se tendrán en cuenta, en la medida que resulte de aplicación, la legislación estatal en materia de disciplina e intervención de entidades de crédito y, en particular, las disposiciones contenidas en este artículo.
+
+2\. Constituyen infracciones muy graves de las personas miembros de las comisiones de control de las cajas de ahorros:
+
+a) La negligencia grave y persistente en el ejercicio de las funciones que legalmente tienen encomendadas.
+
+b) No proponer a la asamblea general la suspensión de acuerdos adoptados por el consejo de administración cuando éstos infrinjan manifiestamente la ley y afecten injusta y gravemente a la situación patrimonial, a los resultados, al crédito de la caja de ahorros o a sus impositores e impositoras o clientes, o no requerir en tales casos a la persona que ocupe la presidencia de la caja de ahorros para que convoque asamblea general con carácter extraordinario.
+
+3\. Constituyen infracciones graves:
+
+a) La negligencia grave en el ejercicio de las funciones que legalmente tiene encomendadas, cuando no constituya infracción muy grave.
+
+b) La falta de remisión al Instituto Valenciano de Finanzas de los datos o informes que deban hacerle llegar o que el mismo requiera en el ejercicio de sus funciones, o su envío con notorio retraso.
+
+c) La comisión de irregularidades graves en los procesos electorales para la elección y designación de los miembros de los órganos de gobierno.
+
+d) No proponer a la asamblea general la suspensión de acuerdos adoptados por el consejo de administración cuando la comisión entienda que vulneran las disposiciones vigentes o afectan injusta y gravemente a la situación patrimonial, a los resultados, al crédito de la caja de ahorros o a sus impositores e impositoras o clientes, siempre que ello no constituya infracción muy grave, o no requerir, en tales casos, a la persona que ocupe la presidencia de la caja de ahorros para que convoque asamblea general con carácter extraordinario.
+
+e) La percepción de ingresos económicos que vulneren lo previsto en esta ley.
+
+4\. Constituyen infracciones leves imputables a los miembros de las Comisiones de Control el incumplimiento por éstas de cualesquiera obligaciones que no constituyan infracción muy grave o grave, así como la falta reiterada de asistencia de éstos a las reuniones de las citadas Comisiones.
+
+5\. Las infracciones administrativas cometidas por los miembros de la Comisión de Control serán sancionadas de acuerdo con la legislación estatal vigente en el momento de su comisión.
+
+> Se modifica la denominación y los apartados 2 y 3, en la redacción dada por la Ley 4/2015, de 2 de abril, por Ley 13/2016, de 29 de diciembre. [Ref. BOE-A-2017-1291](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1291)
+
+> Se modifican los apartados 2.b) y 3.d) por el art. único y anexo.40 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+### CAPÍTULO III — Medidas cautelares
+
+##### Artículo 68.
+
+Sin perjuicio de las facultades correspondientes al Banco de España, cuando una Caja de Ahorros se encuentre en una situación de excepcional gravedad que ponga en peligro la efectividad de sus recursos propios o su estabilidad, liquidez o solvencia, podrá acordarse de oficio o a petición de la propia entidad, la intervención de la misma o la sustitución provisional de sus órganos de administración o dirección hasta que sea superada tal situación.
+
+##### Artículo 69.
+
+La intervención o sustitución prevista en el artículo anterior será acordada, en su caso, por el conseller de Economía, Hacienda y Administración Pública, previa audiencia de la Caja de Ahorros afectada. Dicha audiencia no será necesaria, sin embargo, cuando haya precedido petición de la entidad o el retraso que tal trámite previsiblemente originaría comprometa gravemente la efectividad de la medida o los intereses económicos afectados.
+
+### CAPÍTULO IV — Información y secreto profesional
+
+##### Artículo 70. Información.
+
+Las cajas de ahorros con domicilio social en la Comunitat Valenciana vendrán obligadas a remitir al Instituto Valenciano de Finanzas, en la forma que éste determine, toda clase de información que se les requiera sobre su actividad y gestión.
+
+> Se modifica por el art. único y anexo.41 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica por el art. único.35 del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+##### Artículo 71.
+
+1\. En el ejercicio de su función de inspección de las Cajas de Ahorros, él Instituto Valenciano de Finanzas colaborará con las autoridades que tengan encomendadas funciones semejantes, pudiendo intercambiar informaciones, lo que en todo caso exigirá que las autoridades de destino estén sometidas al secreto profesional.
+
+2\. Los datos y documentos de las Cajas de Ahorros que obren en poder del Instituto Valenciano de Finanzas tendrán carácter reservado. La reserva se entenderá levantada desde el momento en que los interesados hagan públicos los hechos a que aquélla se refiera.
+
+3\. El Instituto Valenciano de Finanzas no podrá publicar, comunicar, ni exhibir a terceros los datos o documentos reservados, salvo en los siguientes supuestos:
+
+a) Cuando el interesado consienta expresamente la difusión, publicación o comunicación de los datos.
+
+b) La publicación de datos agregados a fines estadísticos, o las comunicaciones en forma sumaria o agregada, de manera que las entidades individuales no puedan ser identificadas ni siquiera indirectamente.
+
+c) Las informaciones solicitadas por cualquier órgano, institución, autoridad o persona, cuando estos requerimientos estén amparados en una norma de rango legal.
+
+4\. Cualquier persona que haya tenido conocimiento, por razón de su cargo o empleo, de datos de carácter reservado acerca de las Cajas de Ahorros, está obligada a guardar secreto. El incumplimiento de esta obligación determinará las responsabilidades penales y las demás previstas por las leyes.
+
+5\. Las personas o entidades que reciban del Instituto Valenciano de Finanzas información de carácter reservado quedarán sujetas al secreto profesional y no podrán utilizarla sino en el marco del cumplimiento de las funciones que tengan legalmente encomendadas.
+
+## TÍTULO IV — Fundaciones surgidas por transformación de cajas de ahorros y Fundaciones obra social
+
+> Se modifica por el art. único y anexo.42 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+### CAPÍTULO I — Naturaleza
+
+##### Artículo 72. Fundaciones surgidas por transformación de cajas de ahorros.
+
+1\. Sin perjuicio de la normativa básica del Estado aplicable a las fundaciones bancarias, tanto a estas como a las fundaciones ordinarias surgidas por transformación de una caja de ahorros con domicilio social en la Comunitat Valenciana, cuyos ámbitos de actuación principal sean los de dicha comunidad autónoma, les será de aplicación la normativa reguladora de las fundaciones de la Comunitat Valenciana, con las especialidades indicadas en los apartados siguientes.
+
+2\. La finalidad de estas fundaciones será la atención y desarrollo de las actividades propias de la obra social de las cajas de ahorros, así como la del monte de piedad, en el caso de que las cajas de las que procedan realizaran esta última actividad.
+
+3\. El patronato, como máximo órgano de gobierno de estas fundaciones, ejercerá sus funciones en beneficio exclusivo de los intereses de la fundación y del cumplimiento de su función social. Su composición y regulación deberá contemplar las siguientes peculiaridades:
+
+a) El patronato estará integrado por personas físicas de reconocido prestigio profesional en las materias relacionadas con el cumplimiento de los fines sociales de la fundación y por personas jurídicas que representen intereses sociales y colectivos relevantes en su ámbito de actuación o aporten, de manera significativa, recursos a la fundación. La persona titular de la conselleria competente en materia de hacienda podrá designar una persona miembro del patronato.
+
+b) Las personas miembros del patronato deberán reunir los requisitos de honorabilidad comercial y profesional, entendiendo que éstos se cumplen si no están incursos en ninguna de las situaciones previstas en el párrafo a del artículo 19.
+
+c) Las personas miembros del patronato serán nombradas por un periodo de seis años, pudiendo ser reelegidas por mandatos de seis años, sin límite máximo. La renovación del patronato será acometida por mitades, cada tres años. En el caso de miembros nombrados por razón de su cargo, la duración de su mandato será indefinida y cesarán cuando dejen de ostentar dicho cargo.
+
+4\. Estas fundaciones deberán nombrar una persona que ocupe la gerencia que posea, a juicio del patronato, los conocimientos y experiencia específicos para el ejercicio de sus funciones y se ocupe, con la debida diligencia, de la gestión ordinaria y administrativa de las actividades de la fundación. En ningún caso, dicha persona podrá ser miembro del patronato.
+
+5\. Las cuentas anuales de estas fundaciones deberán adaptarse al modelo normal y ser sometidas a auditoría externa.
+
+6\. Las autorizaciones, oposiciones o ratificaciones del protectorado y demás actos inscribibles, relativos a su régimen económico, así como los estatutos y sus modificaciones, la fusión, extinción y liquidación de la fundación, requerirán del informe previo del Instituto Valenciano de Finanzas, que será solicitado por el protectorado de fundaciones.
+
+El informe del Instituto deberá ser emitido en el plazo de un mes desde la recepción de la solicitud. De no emitirse en el plazo señalado, el protectorado podrá proseguir las actuaciones y continuar la tramitación del expediente. La solicitud de este informe no suspenderá el transcurso del plazo máximo legal para resolver y notificar, establecido por la normativa sobre fundaciones.
+
+7\. El Instituto Valenciano de Finanzas podrá efectuar las inspecciones que sean necesarias a estas fundaciones respecto de la actividad que realicen, de cuyo resultado deberá informar al protectorado para el mejor cumplimiento de las funciones de éste. Asimismo, podrá requerir la remisión de toda clase de información relativa a su actividad y gestión.
+
+> Se modifica la letra c) del apartado 3 por el art. 154 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
+
+> Se modifica por el art. único y anexo.43 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+### CAPÍTULO II — Finalidades
+
+##### Artículo 73. Fundaciones obra social.
+
+1\. Las fundaciones de la obra social de las cajas de ahorros o fundaciones obra social, que sean creadas por cajas de ahorros para la gestión y administración de la totalidad o parte de la obra social, estarán sujetas a lo dispuesto en los apartados 3 a 7, ambos inclusive, del artículo anterior.
+
+2\. Compete a la asamblea general de las cajas de ahorros la aprobación de la constitución, fusión y extinción de las fundaciones de su obra social, así como de sus estatutos y modificaciones posteriores, sin perjuicio de las funciones inherentes al patronato de estas fundaciones.
+
+3\. El régimen jurídico establecido en el apartado 1 será también aplicable a las fundaciones obra social, creadas por una caja de ahorros, aun cuando ésta se haya disuelto o transformado en fundación ordinaria o bancaria.
+
+> Se modifica por el art. único y anexo.44 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+### CAPÍTULO III — Órganos
+
+##### Artículo 74.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Artículo 75.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+### CAPÍTULO IV — El Defensor del Cliente
+
+> Se deroga por la disposición derogatoria 2 de la Ley 9/2011, de 26 de diciembre. [Ref. BOE-A-2012-1253](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1253)
+
+##### Artículo 76.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria 2 de la Ley 9/2011, de 26 de diciembre. [Ref. BOE-A-2012-1253](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1253)
+
+## TÍTULO V — Cajas de Ahorros foráneas
+
+> Se deroga por la disposición derogatoria única de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Artículo 77.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica la letra b) y se añaden la d) y la e) por el art. 2.10 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Disposición adicional primera. Obligaciones de información.
+
+1\. Además de las cajas de ahorros con domicilio social en la Comunitat Valenciana, las entidades de crédito, en lo relativo a las actividades realizadas en el ámbito territorial de la Comunitat Valenciana, y en los términos que establezca el Instituto Valenciano de Finanzas, estarán obligadas a comunicar e informar al mismo acerca de:
+
+a) Las aperturas, traslados, cesiones, traspasos y cierres de oficinas.
+
+b) El volumen de negocio, por provincias, mantenido en la Comunitat Valenciana, con carácter trimestral.
+
+c) Facilitar la información que, en uso de sus competencias de control e inspección, les solicite, en especial la referida al cumplimiento de la normativa en materia de transparencia de las operaciones financieras y protección de la clientela.
+
+2\. El incumplimiento en la remisión de la información, a que se refiere esta disposición adicional, se asimilará a la infracción tipificada en el artículo 60.g.
+
+> Se modifica por el art. único y anexo.45 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se añade por el art. 65 de la Ley 9/2011, de 26 de diciembre. [Ref. BOE-A-2012-1253](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1253)
+
+> Se deroga por la disposición derogatoria del Decreto-ley 4/2010, de 30 de diciembre. [Ref. DOGV-r-2011-90008](https://www.boe.es/buscar/doc.php?id=DOGV-r-2011-90008)
+
+##### Disposición adicional segunda. Recurso de alzada.
+
+Los actos administrativos que dicte el Instituto Valenciano de Finanzas en el ejercicio de las funciones de control, inspección y disciplina de las entidades de crédito, así como las sanciones que imponga, en su caso, serán susceptibles de recurso de alzada ante la persona titular de la conselleria competente en materia de hacienda.
+
+> Se modifica por el art. único y anexo.46 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Disposición adicional tercera. Prórroga excepcional de mandato.
+
+Sin perjuicio de lo dispuesto en el artículo 20.1, de la presente ley, excepcionalmente y por causas justificadas, el Instituto Valenciano de Finanzas, a petición de la caja de ahorros, podrá autorizar la permanencia transitoria de las personas miembros de los órganos de gobierno de la caja de ahorros que han cumplido el plazo para el que fueron designados, hasta la fecha de la asamblea general en que se incorporen las nuevas personas miembros. No obstante, en ningún caso podrán transcurrir más de tres meses entre la fecha de cumplimiento de mandato y la de la citada asamblea general.
+
+> Se modifica por el art. único y anexo.47 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+> Se modifica por el art. 1.15 de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)
+
+##### Disposición adicional cuarta. Reglamento de las Cajas de Ahorros
+
+Todas las referencias que en la presente Ley se realizan al Reglamento de las Cajas de Ahorros han de entenderse hechas al Reglamento del procedimiento regulador del sistema de designaciones y elecciones de los miembros de los órganos de gobierno.
+
+##### Disposición adicional quinta. Federación Valenciana de Cajas de Ahorros.
+
+1\. Cuando el número de cajas de ahorros, con domicilio social en la Comunitat Valenciana, sea igual o superior a dos podrán integrarse en una federación, cuya representación conjunta ostentará. La citada federación tendrá personalidad jurídica propia y plena capacidad para el desarrollo de las actividades dirigidas al cumplimiento de sus fines.
+
+2\. Su funcionamiento se regirá por lo preceptuado en las normas de desarrollo de esta ley, así como por sus estatutos.
+
+> Se modifica por el art. único y anexo.48 de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Disposición transitoria primera. Ajuste de los porcentajes de participación.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria única de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Disposición transitoria segunda. Aplicación diferida de la Ley.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria única de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Disposición transitoria tercera. Ajuste del intervalo temporal entre procesos.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria única de la Ley 4/2015, de 2 de abril. [Ref. BOE-A-2015-4549](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4549)
+
+##### Disposición final única. Habilitación de desarrollo reglamentario.
+
+Se autoriza al Gobierno Valenciano para dictar las disposiciones reglamentarias necesarias para la aplicación y desarrollo de la presente ley.
+
+Valencia, 23 de julio de 1997.‒El presidente de la Generalitat Valenciana, Eduardo Zaplana Hernández-Soro.‒El conseller de Economía, Hacienda y Administración Pública, José Luis Olivas Martínez.
+
+> Información relacionada
+
+> Todas las referencias que en este Texto Refundido se realizan al conseller de Economía, Hacienda y Administración Pública, o al Conseller de Economía y Hacienda, se entenderán hechas al conseller competente en materia de economía, según se establece en la disposición adicional única de la Ley 10/2003, de 3 de abril. [Ref. BOE-A-2003-9335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9335)

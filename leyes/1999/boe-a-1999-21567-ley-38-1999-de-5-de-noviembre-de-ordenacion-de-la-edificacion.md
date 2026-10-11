@@ -424,18 +424,6 @@ b) Seguro de daños materiales, seguro de caución o garantía financiera, para 
 
 c) Seguro de daños materiales, seguro de caución o garantía financiera, para garantizar, durante diez años, el resarcimiento de los daños materiales causados en el edificio por vicios o defectos que tengan su origen o afecten a la cimentación, los soportes, las vigas, los forjados, los muros de carga u otros elementos estructurales, y que comprometan directamente la resistencia mecánica y estabilidad del edificio.
 
-> Téngase en cuenta que el apartado 1 ha sido modificado por la disposición final 3.1 de la Ley 20/2015, de 14 de julio [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897)., que entra en vigor el 1 de enero de 2016, según establece su disposición final 21.1.
-
-> Redacción anterior:
-
-> 1\. El régimen de garantías exigibles para las obras de edificación comprendidas en el artículo 2 de esta Ley se hará efectivo de acuerdo con la obligatoriedad que se establezca en aplicación de la disposición adicional segunda, teniendo como referente a las siguientes garantías:
-
-> a) Seguro de daños materiales o seguro de caución, para garantizar, durante un año, el resarcimiento de los daños materiales por vicios o defectos de ejecución que afecten a elementos de terminación o acabado de las obras, que podrá ser sustituido por la retención por el promotor de un 5 por 100 del importe de la ejecución material de la obra.
-
-> b) Seguro de daños materiales o seguro de caución, para garantizar, durante tres años, el resarcimiento de los daños causados por vicios o defectos de los elementos constructivos o de las instalaciones que ocasionen el incumplimiento de los requisitos de habitabilidad del apartado 1, letra c), del artículo 3.
-
-> c) Seguro de daños materiales o seguro de caución, para garantizar, durante diez años, el resarcimiento de los daños materiales causados en el edificio por vicios o defectos que tengan su origen o afecten a la cimentación, los soportes, las vigas, los forjados, los muros de carga u otros elementos estructurales, y que comprometan directamente la resistencia mecánica y estabilidad del edificio.
-
 2\. Los seguros de daños materiales reunirán las condiciones siguientes:
 
 a) Tendrá la consideración de tomador del seguro el constructor en el supuesto a) del apartado 1 y el promotor, en los supuestos b) y c) del mismo apartado, y de asegurados el propio promotor y los sucesivos adquirentes del edificio o de parte del mismo. El promotor podrá pactar expresamente con el constructor que éste sea tomador del seguro por cuenta de aquél.
@@ -586,20 +574,6 @@ Reglamentariamente podrán determinarse los organismos públicos de promoción d
 
 El Gobierno podrá dictar las disposiciones complementarias para el desarrollo de lo dispuesto en esta disposición adicional.
 
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 3.2 de la Ley 20/2015, de 14 de julio [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897)., entra en vigor el 1 de enero de 2016, según establece su disposición final 21.1
-
-> Redacción anterior:
-
-> La percepción de cantidades anticipadas en la edificación por los promotores o gestores se cubrirá mediante un seguro que indemnice el incumplimiento del contrato en forma análoga a lo dispuesto en la Ley 57/1968, de 27 de julio, sobre percepción de cantidades anticipadas en la construcción y venta de viviendas. Dicha Ley, y sus disposiciones complementarias, se aplicarán en el caso de viviendas con las siguientes modificaciones:
-
-> a) La expresada normativa será de aplicación a la promoción de toda clase de viviendas, incluso a las que se realicen en régimen de comunidad de propietarios o sociedad cooperativa.
-
-> b) La garantía que se establece en la citada Ley 57/1968 se extenderá a las cantidades entregadas en efectivo o mediante cualquier efecto cambiario, cuyo pago se domiciliará en la cuenta especial prevista en la referida Ley.
-
-> c) La devolución garantizada comprenderá las cantidades entregadas más los intereses legales del dinero vigentes hasta el momento en que se haga efectiva la devolución.
-
-> d) Las multas por incumplimiento a que se refiere el párrafo primero del artículo 6 de la citada Ley, se impondrán por las Comunidades Autónomas, en cuantía, por cada infracción, de hasta el 25 por 100 de las cantidades cuya devolución deba ser asegurada o por lo dispuesto en la normativa propia de las Comunidades Autónomas.
-
 > Se modifica por la disposición final 3.2 de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897).
 
 #### Disposición adicional segunda. Obligatoriedad de las garantías por daños materiales ocasionados por vicios y defectos en la construcción.
@@ -698,8 +672,6 @@ Lo establecido en la disposición adicional quinta no será de aplicación a aqu
 
 Las entidades aseguradoras deberán, antes del 1 de julio de 2016 y para las cantidades que se entreguen a cuenta a partir de esa fecha, adaptar las pólizas vigentes a 1 de enero de 2016 al régimen introducido por la disposición final tercera.dos de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de entidades aseguradoras y reaseguradoras, por la que se modifica la disposición adicional primera «Percepción de cantidades a cuenta del precio durante la construcción» de la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación.
 
-> Téngase en cuenta que esta disposición transitoria ha sido incorporada por la disposición final 3.3 de la Ley 20/2015, de 14 de julio [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897)., que entra en vigor el 1 de enero de 2016, según establece su disposición final 21.1.
-
 > Se añade por la disposición final 3.3 de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897).
 
 #### Disposición derogatoria primera.
@@ -723,8 +695,6 @@ a) La Ley 57/1968, de 27 de julio, sobre percibo de cantidades anticipadas en la
 b) El Decreto 3114/1968, de 12 de diciembre, sobre aplicación de la Ley 57/1968, de 27 de julio, a las Comunidades y Cooperativas de Viviendas.
 
 c) La Orden de 29 de noviembre de 1968 sobre el seguro de afianzamiento de cantidades anticipadas para viviendas, en lo que pudiera estar en vigor.
-
-> Téngase en cuenta que esta disposición derogatoria ha sido incorporada por la disposición final 3.4 de la Ley 20/2015, de 14 de julio [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897)., que entra en vigor el 1 de enero de 2016, según establece su disposición final 21.1.
 
 > Se añade por la disposición final 3.4 de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897).
 

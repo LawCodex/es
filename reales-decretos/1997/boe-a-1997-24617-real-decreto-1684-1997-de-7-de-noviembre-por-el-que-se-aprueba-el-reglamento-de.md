@@ -1,0 +1,407 @@
+---
+title: "Real Decreto 1684/1997, de 7 de noviembre, por el que se aprueba el Reglamento de Funcionamiento del Consejo General de Formación Profesional"
+identifier: "BOE-A-1997-24617"
+eli: "https://www.boe.es/eli/es/rd/1997/11/07/1684"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1997-11-07
+published: 1997-11-18
+in_force_from: 1997-11-19
+last_amended: 2026-09-11
+consolidated: 2026-09-11
+gazette: "Boletín Oficial del Estado núm. 276"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-24617"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1684/1997, de 7 de noviembre, por el que se aprueba el Reglamento de Funcionamiento del Consejo General de Formación Profesional
+
+Desde la creación del Consejo General de Formación Profesional por la Ley 1/1986, de 7 de enero, se han producido una serie de transferencias en la materia a las Comunidades Autónomas que tienen atribuida la correspondiente competencia en virtud de las previsiones constitucionales y estatutarias.
+
+Por ello, procedía modificar la composición del Consejo dando entrada a los representantes de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla, lo que ha sido llevado a cabo por la nueva Ley 19/1997, de 9 de junio.
+
+Así pues, el nuevo Consejo General de la Formación Profesional se configura como un órgano consultivo de carácter tripartito y de participación de las organizaciones empresariales y sindicales y de las Administraciones públicas y, además, como un órgano de asesoramiento del Gobierno en materia de formación profesional.
+
+En función de todo ello es preciso adaptar las normas de funcionamiento del Consejo General a la Ley 19/1997, tal como establece su disposición adicional única, a cuyo efecto el Consejo, con su nueva composición, incorporadas las Comunidades Autónomas, ha procedido a la redacción de su Reglamento, norma que ha de ser aprobada por el Gobierno.
+
+En su virtud, a propuesta de los Ministros de Educación y Cultura y de Trabajo y Asuntos Sociales, con la aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 7 de noviembre de 1997,
+
+DISPONGO:
+
+### Artículo único.
+
+1\. Se aprueba el Reglamento de Funcionamiento del Consejo General de Formación Profesional, cuyo texto se inserta a continuación.
+
+2\. Sin perjuicio de lo dispuesto en el Reglamento que por este real decreto se aprueba será de aplicación, con carácter supletorio, lo previsto para los órganos colegiados en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifica por el art. único.1 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+### Disposición derogatoria única.
+
+Queda derogado el Real Decreto 365/1987, de 27 de febrero, por el que se aprobaba el Reglamento de Funcionamiento del Consejo General de Formación Profesional.
+
+### Disposición final primera.
+
+Se autoriza a la persona titular del departamento competente en materia de formación profesional, previo informe del Consejo General de Formación Profesional, para dictar cuantas disposiciones sean necesarias para el desarrollo del presente real decreto.
+
+> Se modifica por el art. único.2 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+### Disposición final segunda.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 7 de noviembre de 1997.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+## ANEXO — Reglamento de Funcionamiento del Consejo General de Formación Profesional
+
+## Sección 1.ª Naturaleza, funciones y composición del Consejo
+
+### Artículo 1. Naturaleza.
+
+1\. El Consejo General de la Formación Profesional, adscrito al departamento competente en materia de formación profesional, es el órgano de participación, asesoramiento y evaluación del Sistema de Formación Profesional, sin perjuicio de las competencias que tiene atribuidas el Consejo Escolar del Estado, en las enseñanzas de formación profesional que forman parte del sistema educativo no universitario.
+
+Su naturaleza es la de órgano colegiado interministerial de los regulados en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+2\. El Consejo tendrá carácter tripartito y de participación de las organizaciones empresariales, sindicales y de las Administraciones públicas y, funcionará como un órgano de asesoramiento del Gobierno en materia de formación profesional.
+
+> Se modifica el apartado 1 por el art. único.3 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+> Se modifica por la disposición final 1.1 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+### Artículo 2. Funciones.
+
+Corresponde al Consejo General de Formación Profesional:
+
+a) Elaborar y proponer estrategias y líneas prioritarias de actuación en el marco del Sistema de Formación Profesional en el ámbito estatal.
+
+b) Evaluar la ejecución de las líneas prioritarias de actuación, así como el origen y aplicación de los recursos financieros.
+
+c) Informar los proyectos de ofertas formativas correspondientes a los diversos grados de formación profesional, sin perjuicio de las competencias del Consejo Escolar del Estado en esta materia.
+
+d) Proponer acciones para mejorar el servicio de orientación profesional en el marco del Sistema de Formación Profesional.
+
+e) Evaluar el procedimiento y los resultados de la acreditación de competencias adquiridas mediante la experiencia laboral u otras vías y realizar propuestas para implicar a los sectores empresarial y de las personas trabajadoras.
+
+f) Emitir propuestas y recomendaciones al departamento competente en materia de formación profesional.
+
+g) Informar el Informe sobre el estado del sistema y, en su caso, los correspondientes informes parciales.
+
+h) Aprobar los estudios o informes elaborados a solicitud del Gobierno o de sus miembros, así como solicitar estudios e informes por iniciativa propia y aprobarlos en su caso.
+
+i) Informar sobre cualesquiera asuntos que, sobre formación profesional, puedan serle sometidos por las Administraciones públicas.
+
+> Se modifica la letra f) por el art. único.4 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+> Se modifica por la disposición final 1.2 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+### Artículo 3. Composición.
+
+El Consejo General de Formación Profesional estará constituido por:
+
+a) La Presidencia, cargo que ostentará la persona titular del departamento competente en materia de formación profesional.
+
+b) Las vicepresidencias, una por cada uno de los tres grupos que lo integran, en los términos previstos en el artículo 6.
+
+c) El grupo primero, con treinta y ocho vocalías, diecinueve en representación de la Administración General del Estado y diecinueve en representación de la Administración de las comunidades autónomas y de las ciudades de Ceuta y Melilla, cuya distribución y régimen de designación se ajustará a lo dispuesto en el artículo 8.
+
+d) El grupo segundo, con diecinueve vocalías, en representación de las organizaciones sindicales representativas, en proporción a su representatividad, con arreglo a lo dispuesto en los artículos 6.2 y 7.1 de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical.
+
+e) El grupo tercero, con diecinueve Vocalías, en representación de las organizaciones empresariales más representativas del tejido productivo, disposición adicional sexta del Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.
+
+f) La persona titular de la Secretaría del Consejo, designada por la Presidencia, con voz, pero sin voto.
+
+> Se modifican las letras a), b), c) y f) por el art. único.5 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+> Se modifica por la disposición final 1.3 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+## Sección 2.ª Del Presidente del Consejo
+
+### Artículo 4. La Presidencia.
+
+La presidencia corresponderá a la persona titular del departamento competente en materia de formación profesional.
+
+> Se modifica por el art. único.6 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+### Artículo 5. Competencias de la Presidencia.
+
+1\. Corresponde a la persona titular de la Presidencia del Consejo General:
+
+a) La representación formal del Consejo.
+
+b) Acordar la convocatoria de las sesiones ordinarias y extraordinarias, así como la fijación del orden del día, teniendo en cuenta las peticiones de las vocalías formuladas de conformidad con lo previsto en los artículos 9, d) y 15.2 de este Reglamento.
+
+c) Presidir las sesiones y moderar el desarrollo de los debates.
+
+d) Dirimir la votación en caso de empate.
+
+e) Visar las actas y certificaciones de los acuerdos del Consejo.
+
+f) Asegurar el cumplimiento de las disposiciones establecidas en el presente Reglamento.
+
+2\. La persona titular del departamento competente en materia de formación profesional podrá delegar en la persona titular del órgano directivo competente en materia de formación profesional a través del que está adscrito el Consejo, que perderá la vicepresidencia, pasando a ocupar su puesto el correspondiente sustituto.
+
+> Se modifica por el art. único.7 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+## Sección 3.ª De los Vicepresidentes
+
+### Artículo 6. Las Vicepresidencias.
+
+Existirá una vicepresidencia por cada uno de los tres grupos que integran el Consejo. En el grupo primero, la vicepresidencia corresponderá a la persona titular del órgano directivo competente en materia de formación profesional a través del cual se encuentra adscrito el Consejo, en representación de la Administración General del Estado. Esta vicepresidencia es única para el grupo primero. En los grupos segundo y tercero, la vicepresidencia será elegida anualmente por y entre las vocalías del correspondiente grupo.
+
+> Se modifica por el art. único.8 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+### Artículo 7. Competencias de las personas titulares de las vicepresidencias.
+
+Corresponde a las personas titulares de las vicepresidencias:
+
+a) Sustituir a la persona titular de la presidencia en los casos de vacante, enfermedad, ausencia y otras causas de imposibilidad, ejerciendo las funciones que a ésta le están atribuidas.
+
+b) Ejercer las funciones intrínsecas a su condición de personas titulares de las vicepresidencias y de las vocalías, con derecho a voto.
+
+c) Cuantas otras funciones les sean delegadas por la persona titular de la presidencia.
+
+Corresponde a la persona titular de la vicepresidencia del grupo primero acreditar ante la Secretaría del Consejo la cesión de vocalías del departamento competente en materia de formación profesional a otros departamentos, conforme a lo previsto en el artículo 8.1.c).
+
+A los efectos de lo establecido en el párrafo a), la sustitución de la persona titular de la presidencia tendrá carácter rotatorio, anualmente, iniciándose el turno por las personas titulares de la vicepresidencia de mayor edad, y continuando en sentido decreciente de edades.
+
+> Se modifica por el art. único.9 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+## Sección 4.ª De los Vocales
+
+### Artículo 8. Las Vocalías.
+
+El Consejo General de la Formación Profesional contará con las siguientes vocalías:
+
+1\. El grupo primero, con treinta y ocho vocalías, comprende diecinueve en representación de la Administración General del Estado y diecinueve en representación de las comunidades autónomas y ciudades de Ceuta y Melilla.
+
+Las vocalías de la Administración General del Estado se distribuirán de la siguiente forma:
+
+a) Nueve vocalías corresponderán al departamento competente en materia de formación profesional.
+
+b) Una vocalía corresponderá a cada uno de los departamentos con competencias en las siguientes materias: trabajo y empleo; economía; industria; agricultura y sector agroalimentario; sanidad; ciencia e innovación; transición ecológica; igualdad; función pública; y vivienda.
+
+c) La persona titular del departamento competente en materia de formación profesional podrá acordar la cesión, para una sesión concreta o para el conjunto de un mandato, de alguna de sus vocalías a otros departamentos ministeriales cuyas competencias guarden relación directa con los asuntos incluidos en el orden del día o con las funciones atribuidas al Consejo por el artículo 2. La cesión no podrá alterar el número total de vocalías ni la composición global del Consejo. El acuerdo de cesión será comunicado a la Secretaría del Consejo y acreditado ante esta por la persona titular de la vicepresidencia del grupo primero.
+
+Las vocalías de las administraciones autonómicas podrán desdoblarse en titular y suplente para facilitar la presencia de las administraciones con responsabilidades en formación profesional, manteniendo siempre una única voz y voto.
+
+Todas las personas designadas en representación de la Administración General del Estado y de las administraciones autonómicas deberán tener rango de subdirector general o equivalente. En los nombramientos se respetará el principio de presencia equilibrada de mujeres y hombres, de conformidad con lo dispuesto en el artículo 54 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+2\. El grupo segundo, con diecinueve vocalías, representa a las organizaciones sindicales más representativas, en proporción a su representatividad, de acuerdo con lo dispuesto en los artículos 6.2 y 7.1 de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical.
+
+3\. El grupo tercero, con diecinueve vocalías, representa a las organizaciones empresariales más representativas del tejido productivo, de conformidad con lo dispuesto en la disposición adicional sexta del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre.
+
+> Se modifica por el art. único.10 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+### Artículo 9. Competencia de los Vocales.
+
+1\. Corresponde a los Vocales:
+
+a) Recibir, con una antelación mínima de cuarenta y ocho horas, la convocatoria conteniendo el orden del día de las reuniones.
+
+b) Asistir a las reuniones y participar en los debates, exponiendo su opinión y formulando las propuestas que estimen pertinentes.
+
+c) Ejercer su derecho al voto, así como expresar el sentido de su voto y los motivos que lo justifican.
+
+No podrán abstenerse en las votaciones los representantes de las Administraciones públicas.
+
+d) Proponer a la persona titular de la Presidencia, a través de la Secretaría del Consejo, la inclusión de puntos en el orden del día de las sesiones ordinarias y formular ruegos y preguntas. Cuando la propuesta de inclusión en el orden del día sea presentada por la cuarta parte de las vocalías o lo acuerde la Comisión Permanente, el tema se incluirá preceptivamente en el citado orden del día.
+
+e) Solicitar la información necesaria para cumplir debidamente las funciones asignadas al Consejo. A tal efecto, deberán formular por escrito la petición correspondiente dirigida a la Secretaría del Consejo o bien solicitarla oralmente a la persona titular de dicha Secretaría durante el desarrollo de las sesiones del Consejo.
+
+2\. Los Vocales no podrán atribuirse las funciones de representación del Consejo, salvo que expresamente se les haya otorgado por una norma o por un acuerdo válidamente adoptado, para cada caso concreto, por el propio Consejo.
+
+> Se modifican las letras d) y e) del apartado 1 por el art. único.11 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+### Artículo 10. Suplencias.
+
+1\. Los Vocales del Consejo podrán ser sustituidos, en sus reuniones, en caso de ausencia o enfermedad y, en general, cuando concurra alguna causa justificada, que deberá ser comunicada por escrito a la Secretaría General del Consejo.
+
+2\. Los suplentes de los Vocales de las Administraciones públicas deberán tener, al menos, rango de Subdirector general.
+
+### Artículo 11. Compensaciones.
+
+Por el desempeño de las funciones de Vocales, las organizaciones sindicales y empresariales representadas en el Consejo General tendrán derecho a la percepción de las compensaciones que se establezcan por Acuerdo del Consejo de Ministros.
+
+### Artículo 12. Renovación.
+
+1\. Cada cuatro años se producirá la renovación de las vocalías del consejo, teniendo en cuenta para ello las modificaciones que se hubieran producido en cuanto a la representatividad en sus correspondientes ámbitos territoriales de las organizaciones empresariales y sindicales.
+
+2\. Los miembros del Consejo General de Formación Profesional y sus suplentes serán nombrados y cesados, con carácter reglado, por la persona titular de la Presidencia, a propuesta de los departamentos ministeriales competentes, de las administraciones autonómicas y de las ciudades de Ceuta y Melilla, y de las organizaciones sindicales y empresariales correspondientes, en el ámbito de sus respectivas representaciones.
+
+> Se modifica por el art. único.12 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+## Sección 5.ª De la Secretaría del Consejo
+
+> Se modifica la rúbrica por el art. único.13 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+### Artículo 13. La Secretaría del Consejo.
+
+La persona titular de la Secretaría del Consejo será designada por la presidencia entre personal funcionario que ocupe puestos de trabajo que tengan como mínimo un nivel 28 del departamento competente en materia de formación profesional.
+
+> Se modifica por el art. único.13 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+### Artículo 14. Competencias.
+
+1\. Corresponde a la persona titular de la Secretaría del Consejo:
+
+a) La gestión de los asuntos del Consejo General, así como la asistencia al mismo.
+
+b) Efectuar la convocatoria de las sesiones, las oportunas notificaciones y citaciones por orden de la Presidencia.
+
+c) Redactar y firmar, con el visto bueno de la Presidencia, las actas de las reuniones que se celebren.
+
+d) Facilitar a las vocalías la información y asistencia técnica necesarias para el mejor desarrollo de las funciones a ellas asignadas.
+
+e) Expedir certificaciones de las consultas, dictámenes y acuerdos aprobados.
+
+2\. La Secretaría del Consejo es destinataria única de los actos de comunicación de las vocalías con el Consejo y a ella deben dirigirse toda clase de escritos de los que deba tener conocimiento el Consejo General.
+
+3\. La persona titular de la Secretaría del Consejo contará con una persona suplente, funcionaria del departamento competente en materia de formación profesional con el mismo rango mínimo exigido en el artículo 13 para la persona titular, que la sustituirá en las reuniones del Consejo a las que por cualquier motivo justificado no pueda asistir. Dicha persona será designada por la Presidencia del Consejo.
+
+> Se modifica por el art. único.14 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+## Sección 6.ª Funcionamiento del Consejo General
+
+### Artículo 15. Funcionamiento.
+
+1\. El Consejo General funcionará en Pleno, o en Comisión Permanente. También podrá actuar en comisiones de trabajo, cuando así lo decida el pleno de la comisión. Además, existirá una Comisión Estatal Estratégica de la Formación Profesional, de apoyo al departamento competente en materia de formación profesional.
+
+2\. El Consejo General en Pleno se reunirá, al menos, una vez al año o cuando lo convoque la persona titular de su Presidencia a iniciativa propia o a solicitud de la cuarta parte de sus miembros.
+
+3\. La Comisión Permanente se reunirá trimestralmente, así como cuantas veces la convoque la persona titular de su presidencia, a iniciativa propia o a petición de la cuarta parte de sus miembros.
+
+> Se modifica por el art. único.15 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+> Se modifica el apartado 1 por la disposición final 1.4 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+### Artículo 16. El Pleno.
+
+1\. El Consejo en Pleno lo componen la Presidencia, las Vicepresidencias, todas las vocalías y la persona titular de la Secretaría del Consejo.
+
+2\. Corresponderá al Pleno la realización de las funciones atribuidas al Consejo General en el artículo 2 del presente Reglamento.
+
+> Se modifica el apartado 1 por el art. único.16 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+### Artículo 17. La Comisión Permanente.
+
+1\. Componen la Comisión Permanente:
+
+a) Cinco personas representantes de la Administración General del Estado.
+
+b) Cinco personas representantes de las comunidades autónomas y de las Ciudades de Ceuta y Melilla.
+
+c) Cinco personas representantes de las organizaciones sindicales más representativas.
+
+d) Cinco personas representantes de las organizaciones empresariales más representativas.
+
+De las cinco personas representantes a las que se refiere el párrafo a), cuatro serán designadas por la persona titular de la presidencia entre las vocalías del pleno del Consejo en representación de la Administración General del Estado, y una deberá corresponder a una vocalía del departamento competente en materia de trabajo. Las personas representantes a las que se refiere el párrafo b) serán designadas por las comunidades autónomas y las Ciudades de Ceuta y Melilla entre las vocalías representantes de dichas administraciones en el pleno del Consejo. Las personas representantes a las que se refieren los párrafos c) y d) serán designadas por las organizaciones sindicales y empresariales, respectivamente, entre quienes sean vocalías del pleno del Consejo.
+
+2\. La Secretaría General del Consejo comunicará a los miembros del mismo que no lo sean de la Comisión Permanente, la celebración de reuniones de esta última, por si la naturaleza de los temas sometidos a su consideración fueran de su especial interés. La asistencia tendrá el carácter de asesoramiento. Los miembros del Consejo que no sean representantes en la Comisión Permanente, asistirán con voz pero sin voto.
+
+Se comunicará previamente a la Secretaría General la asistencia a las reuniones de la Comisión Permanente.
+
+> Se modifica el apartado 1 por el art. único.17 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+### Artículo 17 bis. Comisión Estatal Estratégica de la Formación Profesional.
+
+1\. Constitución y composición:
+
+a) La Comisión Estatal Estratégica de la Formación Profesional estará constituida, con carácter permanente, en el marco de la estructura del Consejo general de la Formación Profesional.
+
+b) La Comisión estará compuesta por la representación de las organizaciones empresariales y sindicales más representativas en el ámbito estatal y de la Administración competente a nivel estatal, por un mínimo de seis miembros y un máximo de dieciséis.
+
+c) La comisión contará con una presidencia y un número de vocales de acuerdo con el número mínimo y máximo de miembros establecidos en el apartado anterior.
+
+d) Ostentará la presidencia la persona titular del departamento competente en materia de formación profesional o persona en quien delegue.
+
+2\. Funciones:
+
+a) La Comisión Estatal Estratégica de la Formación Profesional será el órgano de participación en la gobernanza ejecutiva y estratégica del Sistema de Formación Profesional en el ámbito estatal.
+
+b) Será responsabilidad de esta comisión:
+
+1.º Aportar una detección y prospección de las necesidades de formación de la población activa en el Sistema de Formación Profesional que oriente los trabajos de planificación para las ofertas de gestión centralizada derivadas de los recursos financieros provenientes de la cuota de formación trasferidos al departamento competente en materia de formación profesional, a partir del conocimiento de las organizaciones empresariales y sindicales más representativas a nivel estatal de la prospección y detección del conjunto del sistema productivo.
+
+2.º Realizar propuestas de actuaciones y estrategias respecto de la oferta formativa, la acreditación de competencias y la orientación profesional del Sistema de Formación Profesional.
+
+3.º Evaluar el diseño de políticas, actuaciones y programas de formación de gestión directa del departamento competente en materia de formación profesional, asociados a la cuota de formación, así como la propuesta de oferta centralizada de formación profesional anual coordinada y ajustada para las necesidades y evolución del tejido productivo.
+
+4.º Elaborar la propuesta sobre la asignación de los recursos presupuestarios, derivados de la cuota de formación trasferidos al departamento competente en materia de formación profesional y sus remanentes, entre los diferentes ámbitos del Sistema de Formación Profesional.
+
+5.º Informar anualmente las políticas y estrategias del sistema financiadas con los recursos financieros provenientes de la cuota de formación trasferidos al departamento competente en materia de formación profesional, así como la gestión y ejecución de fondos derivados de dicha cuota de formación de personas trabajadoras y empresarias gestionada por el Ministerio de Educación y Formación Profesional.
+
+6.º Participar en la elaboración del Informe de estado del Sistema de Formación Profesional.
+
+7.º Trasladar a informe a la Comisión Permanente y al Pleno del Consejo General de la Formación Profesional las propuestas y decisiones adoptadas.
+
+c) A efectos de desarrollar las competencias descritas en el apartado anterior, la Administración podrá determinar recursos de apoyo a esta Comisión, en función de la disponibilidad presupuestaria.
+
+> Se modifican la letra d) del apartado 1 y los números 1.º, 3.º, 4.º y 5.º de la letra b) del apartado 2, por el art. único.18 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+> Se añade por la disposición final 1.5 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+### Artículo 18. Presidencia de la Comisión Permanente.
+
+La Comisión Permanente del Consejo General de Formación Profesional estará presidida por la persona titular del órgano directivo competente en materia de formación profesional a través del que está adscrito el Consejo, en el departamento competente en materia de formación profesional.
+
+Actuará como persona titular de la Secretaría de la comisión permanente, con voz, pero sin voto, la persona titular de la Secretaría del Consejo.
+
+> Se modifica por el art. único.19 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+### Artículo 19. Funciones de la Comisión Permanente.
+
+1\. Corresponde a la Comisión Permanente:
+
+a) Supervisar y controlar la aplicación de los acuerdos del Pleno del Consejo.
+
+b) Proponer cuantas medidas se estimen necesarias para el mejor cumplimiento de los fines del Consejo.
+
+c) Cuantas otras funciones le sean encomendadas por el Pleno del Consejo o le estén atribuidas en este Reglamento.
+
+2\. La Comisión Permanente dará cuenta de sus trabajos al Pleno del Consejo.
+
+### Artículo 20. Comisiones de trabajo.
+
+1\. El Pleno del Consejo General o la Comisión Permanente podrán constituir comisiones de trabajo, con el número de representantes que se considere necesario y con sujeción al mismo criterio de composición representativa y orgánica establecido para la Comisión Permanente, que tendrán como competencia la realización de estudios y propuestas concretas en los términos y plazos que les señale el órgano que las ha constituido.
+
+2\. El Pleno o la Comisión decidirán, al constituir las comisiones de trabajo, el número de expertos, sin derecho a voto, que cada una de las partes podrán designar para asesorarle en los temas a tratar. Se podrá contar, además, con la colaboración de otros Departamentos ministeriales relacionados con las materias de formación profesional.
+
+3\. Las comisiones de trabajo previstas en este artículo darán cuenta de sus trabajos al órgano que decidió su constitución.
+
+## Sección 7.ª De las reuniones del Pleno y de la Comisión Permanente
+
+### Artículo 21. Convocatorias.
+
+1\. Las sesiones ordinarias serán convocadas por la persona titular de la Secretaría del Consejo por orden de la persona titular de la presidencia con ocho días hábiles de antelación, salvo que por razones de urgencia deban ser convocadas con carácter extraordinario, en cuyo caso se podrán convocar con dos días naturales de antelación.
+
+2\. Las convocatorias deberán indicar el día, hora y lugar de la reunión a celebrar, así como el orden del día, e incluir, en su caso, la documentación adecuada para su estudio previo.
+
+> Se modifica por el art. único.20 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)
+
+### Artículo 22. Constitución y régimen de acuerdos.
+
+1\. El Pleno del Consejo General de Formación Profesional y la Comisión Permanente quedarán válidamente constituidos, a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, cuando concurran, presencialmente o a distancia, la persona titular de la Presidencia y la persona titular de la Secretaría del Consejo, o, en su caso, quienes les sustituyan, y al menos la mitad de sus miembros.
+
+2\. Sólo se podrán adoptar acuerdos sobre puntos que figuren incluidos en el orden del día, salvo que, estando representadas todas las partes que componen el Consejo, se acuerde por unanimidad su inclusión en el orden del día. Para la adopción de acuerdos se requerirá la mayoría de los votos de los asistentes y dirimirá los empates el voto de la persona titular de la Presidencia.
+
+3\. El voto será individual y conforme a lo que establezcan las normas de funcionamiento interno del Consejo, de acuerdo con lo establecido en el artículo 19.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. Las personas representantes de las Administraciones públicas tendrán cada una un voto y dos cada una de las personas representantes de las organizaciones empresariales y sindicales.
+
+4\. De cada sesión se levantará un acta que contendrá la indicación de las personas asistentes, las que hayan intervenido, así como las circunstancias de lugar y tiempo en que se ha celebrado, los puntos principales de la deliberación de forma sucinta y sustancial, la forma y resultados de la votación y el contenido de los acuerdos.
+
+Las vocalías podrán hacer constar en acta su voto contrario al acuerdo adoptado o su abstención y los motivos que lo justifiquen.
+
+Las actas serán redactadas y firmadas por la persona titular de la Secretaría del Consejo, con el visto bueno de la persona titular de la Presidencia, y se aprobarán en la siguiente sesión acompañándose el correspondiente texto del acta a la convocatoria.
+
+5\. Cualquier vocalía tiene derecho a solicitar la transcripción íntegra de su intervención en cada sesión, siempre que aporte en el acto el escrito que se corresponda exacta y fielmente con su intervención, haciéndose constar así en el acta y uniéndose copia autenticada del escrito a la misma.
+
+> Se modifica por el art. único.21 del Real Decreto 2026/722, de 9 de septiembre. [Ref. BOE-A-2026-18998](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18998)

@@ -340,32 +340,6 @@ c) Cualesquiera organismos y entidades de derecho público vinculados o dependie
 
 3\. El sector público fundacional, integrado por las fundaciones del sector público estatal.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.2 de la Ley 40/2015, de 1 de octubre [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566). entra en vigor el 2 de octubre de 2016, según determina su disposición final 18.
-
-> Redacción anterior:
-
-> "A los efectos de esta ley, el sector público estatal se divide en los siguientes:
-
-> 1\. El sector público administrativo, integrado por:
-
-> a) Los sujetos mencionados en los párrafos a), b) y d) del apartado 1 y en el apartado 3 del artículo anterior.
-
-> b) Las entidades mencionadas en los párrafos g) y h) del apartado 1 del artículo anterior, que cumplan alguna de las dos características siguientes:
-
-> 1.ª Que su actividad principal no consista en la producción en régimen de mercado de bienes y servicios destinados al consumo individual o colectivo, o que efectúen operaciones de redistribución de la renta y de la riqueza nacional, en todo caso sin ánimo de lucro.
-
-> 2.ª Que no se financien mayoritariamente con ingresos comerciales, entendiéndose como tales a los efectos de esta ley, los ingresos, cualquiera que sea su naturaleza, obtenidos como contrapartida de la entregas de bienes o prestaciones de servicios.
-
-> 2\. El sector público empresarial, integrado por:
-
-> a) Las entidades públicas empresariales.
-
-> b) Las sociedades mercantiles estatales.
-
-> c) Las entidades mencionadas en los párrafos g) y h) del apartado 1 del artículo anterior no incluidas en el sector público administrativo.
-
-> 3\. El sector público fundacional, integrado por las fundaciones del sector público estatal."
-
 > Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 8.2 de la Ley 40/2015, de 1 de octubre [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 
 ###### Artículo 4. Régimen jurídico aplicable.
@@ -633,16 +607,6 @@ Se exceptúan de la anterior disposición las devoluciones de ingresos que se de
 Los importes por impagados, retrocesiones o reintegros de pagos indebidos de prestaciones económicas del Sistema de la Seguridad Social y los correspondientes a los reintegros de transferencias corrientes efectuadas entre entidades del Sistema de la Seguridad Social se imputarán al presupuesto de gastos corrientes en el ejercicio en que se reintegren, como minoración de las obligaciones satisfechas en cualquier caso.
 
 A los efectos de este apartado se entenderá por importe íntegro el resultante después de aplicar las exenciones y bonificaciones que sean procedentes.
-
-> Téngase en cuenta que la modificación de este apartado 4, establecida por la disposición final 6 de la Ley 48/2015, de 29 de octubre. [Ref. BOE-A-2015-11644](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11644). entra en vigor el 1 de enero de 2016.
-
-> Redacción anterior:
-
-> "4. Los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos por su importe íntegro, sin que puedan atenderse obligaciones mediante minoración de los derechos a liquidar o ya ingresados, salvo que la ley lo autorice de modo expreso.
-
-> Se exceptúan de la anterior disposición las devoluciones de ingresos que se declaren indebidos por el tribunal o autoridad competentes y las previstas en la normativa reguladora de dichos ingresos, el reembolso del coste de las garantías aportadas por los administrados para obtener la suspensión cautelar del pago de los ingresos presupuestarios, en cuanto adquiera firmeza la declaración de su improcedencia, y las participaciones en la recaudación de los tributos cuando así esté previsto legalmente.
-
-> A los efectos de este apartado se entenderá por importe íntegro el resultante después de aplicar las exenciones y bonificaciones que sean procedentes."
 
 5\. El presupuesto y sus modificaciones contendrán información suficiente y adecuada para permitir la verificación del cumplimiento de los principios y reglas que los rigen y de los objetivos que se proponga alcanzar.
 

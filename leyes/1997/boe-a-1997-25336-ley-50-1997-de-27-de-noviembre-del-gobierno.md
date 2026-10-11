@@ -136,12 +136,6 @@ d) Refrendar, en su caso, los actos del Rey en materia de su competencia.
 
 2\. Además de los Ministros titulares de un Departamento, podrán existir Ministros sin cartera, a los que se les atribuirá la responsabilidad de determinadas funciones gubernamentales. En caso de que existan Ministros sin cartera, por Real Decreto se determinará el ámbito de sus competencias, la estructura administrativa, así como los medios materiales y personales que queden adscritos al mismo.
 
-> Téngase en cuenta que esta última actualización del apartado 2, establecida por la disposición final 3.1 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
-
-> Redacción anterior:
-
-> "2. Además de los Ministros titulares de un Departamento, podrán existir Ministros sin cartera, a los que se les atribuirá la responsabilidad de determinadas funciones gubernamentales."
-
 > Se modifica el apartado 2, con efectos de 2 de octubre de 2016, por la disposición final 3.1 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 
 ##### Artículo 5. Del Consejo de Ministros.
@@ -200,20 +194,6 @@ d) El miembro de la Comisión al que corresponde la Secretaría de la misma.
 
 e) El régimen interno de funcionamiento y en particular el de convocatorias y suplencias.
 
-> Téngase en cuenta que esta última actualización del apartado 2, establecida por la disposición final 3.3 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
-
-> Redacción anterior:
-
-> "2. El Real Decreto de creación de una Comisión Delegada deberá especificar, en todo caso:
-
-> a) El miembro del Gobierno que asume la presidencia de la Comisión.
-
-> b) Los miembros del Gobierno y, en su caso, Secretarios de Estado que la integran.
-
-> c) Las funciones que se atribuyen a la Comisión.
-
-> d) El miembro de la Comisión al que corresponde la Secretaría de la misma."
-
 3\. No obstante lo dispuesto en el apartado anterior, podrán ser convocados a las reuniones de las Comisiones Delegadas los titulares de aquellos otros órganos superiores y directivos de la Administración General del Estado que se estime conveniente.
 
 4\. Corresponde a las Comisiones Delegadas, como órganos colegiados del Gobierno:
@@ -237,12 +217,6 @@ d) Ejercer cualquier otra atribución que les confiera el ordenamiento jurídico
 1\. Los Secretarios de Estado son órganos superiores de la Administración General del Estado, directamente responsables de la ejecución de la acción del Gobierno en un sector de actividad específica de un Departamento o de la Presidencia del Gobierno.
 
 2\. Actúan bajo la dirección del titular del Departamento al que pertenezcan. Cuando estén adscritos a la Presidencia del Gobierno, actúan bajo la dirección del Presidente.
-
-> Téngase en cuenta que esta última actualización del apartado 2, establecida por la disposición final 3.4 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
-
-> Redacción anterior:
-
-> "2. Actúan bajo la dirección del titular del Departamento al que pertenezcan. Cuando estén adscritos a la Presidencia del Gobierno, actúan bajo la dirección del Presidente. Asimismo, podrán ostentar por delegación expresa de sus respectivos Ministros la representación de éstos en materias propias de su competencia, incluidas aquéllas con proyección internacional, sin perjuicio, en todo caso, de las normas que rigen las relaciones de España con otros Estados y con las Organizaciones internacionales."
 
 3\. Las competencias de los Secretarios de Estado son las que se determinan en la Ley de Organización y Funcionamiento de la Administración General del Estado.
 
@@ -300,24 +274,6 @@ c) La tramitación de los actos y disposiciones que el ordenamiento jurídico at
 
 4\. De conformidad con las funciones que tiene atribuidas y de acuerdo con las normas que rigen la elaboración de las disposiciones de carácter general, el Secretariado del Gobierno propondrá al Ministro de la Presidencia la aprobación de las instrucciones que han de seguirse para la tramitación de asuntos ante los órganos colegiados del Gobierno y los demás previstos en el apartado segundo de este artículo. Las instrucciones preverán expresamente la forma de documentar las propuestas y acuerdos adoptados por medios electrónicos, que deberán asegurar la identidad de los órganos intervinientes y la fehaciencia del contenido.
 
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 3.6 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
-
-> Redacción anterior:
-
-> "1. El Secretariado del Gobierno, como órgano de apoyo del Consejo de Ministros, de las Comisiones Delegadas del Gobierno y de la Comisión General de Secretarios de Estado y Subsecretarios, ejercerá las siguientes funciones:
-
-> a) La asistencia al Ministro-Secretario del Consejo de Ministros.
-
-> b) La remisión de las convocatorias a los diferentes miembros de los órganos colegiados anteriormente enumerados.
-
-> c) La colaboración con las Secretarías Técnicas de las Comisiones Delegadas del Gobierno.
-
-> d) El archivo y custodia de las convocatorias, órdenes del día y actas de las reuniones.
-
-> e) Velar por la correcta y fiel publicación de las disposiciones y normas emanadas del Gobierno que deban insertarse en el «Boletín Oficial del Estado».
-
-> 2\. El Secretariado del Gobierno se integra en la estructura orgánica del Ministerio de la Presidencia."
-
 > Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.6 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 
 ##### Artículo 10. De los Gabinetes.
@@ -332,18 +288,6 @@ El Gabinete de la Presidencia del Gobierno se regulará por Real Decreto del Pre
 
 3\. Las retribuciones de los miembros de los Gabinetes se determinan por el Consejo de Ministros dentro de las consignaciones presupuestarias establecidas al efecto adecuándose, en todo caso, a las retribuciones de la Administración General del Estado.
 
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 3.7 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
-
-> Redacción anterior:
-
-> "1. Los Gabinetes son órganos de apoyo político y técnico del Presidente del Gobierno, de los Vicepresidentes, de los Ministros y de los Secretarios de Estado. Los miembros de los Gabinetes realizan tareas de confianza y asesoramiento especial sin que en ningún caso puedan adoptar actos o resoluciones que correspondan legalmente a los órganos de la Administración General del Estado o de las organizaciones adscritas a ella.
-
-> Particularmente les prestan su apoyo en el desarrollo de su labor política, en el cumplimiento de las tareas de carácter parlamentario y en sus relaciones con las instituciones y la organización administrativa.
-
-> 2\. A los Directores, Subdirectores y demás miembros de estos Gabinetes les corresponde el nivel orgánico que reglamentariamente se determine.
-
-> 3\. El número y las retribuciones de sus miembros se determinan por el Consejo de Ministros dentro de las consignaciones presupuestarias establecidas al efecto adecuándose, en todo caso, a las retribuciones de la Administración General del Estado."
-
 > Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.7 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 
 ## TÍTULO II — Del estatuto de los miembros del Gobierno, de los Secretarios de Estado y de los Directores de los Gabinetes
@@ -353,12 +297,6 @@ El Gabinete de la Presidencia del Gobierno se regulará por Real Decreto del Pre
 ##### Artículo 11. De los requisitos de acceso al cargo.
 
 Para ser miembro del Gobierno se requiere ser español, mayor de edad, disfrutar de los derechos de sufragio activo y pasivo, así como no estar inhabilitado para ejercer empleo o cargo público por sentencia judicial firme y reunir el resto de requisitos de idoneidad previstos en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado.
-
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 3.8 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
-
-> Redacción anterior:
-
-> "Para ser miembro del Gobierno se requiere ser español, mayor de edad, disfrutar de los derechos de sufragio activo y pasivo, así como no estar inhabilitado para ejercer empleo o cargo público por sentencia judicial firme."
 
 > Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.8 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 
@@ -385,14 +323,6 @@ Para ser miembro del Gobierno se requiere ser español, mayor de edad, disfrutar
 2\. La suplencia de los Ministros, para el despacho ordinario de los asuntos de su competencia, será determinada por Real Decreto del Presidente del Gobierno, debiendo recaer, en todo caso, en otro miembro del Gobierno. El Real Decreto expresará entre otras cuestiones la causa y el carácter de la suplencia.
 
 3\. No se entenderá por ausencia la interrupción transitoria de la asistencia a la reunión de un órgano colegiado. En tales casos, las funciones que pudieran corresponder al miembro del gobierno durante esa situación serán ejercidas por la siguiente autoridad en rango presente.
-
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 3.10 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
-
-> Redacción anterior:
-
-> "1. En los casos de vacante, ausencia o enfermedad, las funciones del Presidente del Gobierno serán asumidas por los Vicepresidentes, de acuerdo con el correspondiente orden de prelación, y, en defecto de ellos, por los Ministros, según el orden de precedencia de los Departamentos.
-
-> 2\. La suplencia de los Ministros, para el despacho ordinario de los asuntos de su competencia, será determinada por Real Decreto del Presidente del Gobierno, debiendo recaer, en todo caso, en otro miembro del Gobierno. El Real Decreto expresará la causa y el carácter de la suplencia."
 
 > Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.10 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 
@@ -476,30 +406,6 @@ d) Las atribuidas por una ley que prohíba expresamente la delegación.
 
 La avocación se realizará mediante acuerdo motivado al efecto, del que se hará mención expresa en la decisión que se adopte en el ejercicio de la avocación. Contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la decisión adoptada.
 
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 3.11 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
-
-> Redacción anterior:
-
-> "Artículo 20. De la delegación de competencias.
-
-> 1\. Pueden delegar el ejercicio de competencias propias:
-
-> a) El Presidente del Gobierno en favor del Vicepresidente o Vicepresidentes y de los Ministros.
-
-> b) Los Ministros en favor de los Secretarios de Estado dependientes de ellos, de los Delegados del Gobierno en las Comunidades Autónomas y de los órganos directivos del Ministerio.
-
-> 2\. Asimismo, son delegables las funciones administrativas del Consejo de Ministros en las Comisiones Delegadas del Gobierno.
-
-> 3\. No son en ningún caso delegables las siguientes competencias:
-
-> a) Las atribuidas directamente por la Constitución.
-
-> b) Las relativas al nombramiento y separación de los altos cargos atribuidas al Consejo de Ministros.
-
-> c) Las atribuidas a los órganos colegiados del Gobierno, con la excepción prevista en el apartado 2 de este artículo.
-
-> d) Las atribuidas por una ley que prohíba expresamente la delegación."
-
 > Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.11 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 
 ## TÍTULO IV — Del Gobierno en funciones
@@ -530,35 +436,11 @@ b) Presentar proyectos de ley al Congreso de los Diputados o, en su caso, al Sen
 
 ## TÍTULO V — De la iniciativa legislativa y la potestad reglamentaria del Gobierno
 
-> Téngase en cuenta que esta última actualización de la rúbrica, establecida por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
-
-> Redacción anterior:
-
-> "De la iniciativa legislativa, de la potestad reglamentaria y del control de los actos del Gobierno"
-
 > Se modifica la rúbrica, con efectos de 2 de octubre de 2016, por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 
 ##### Artículo 22. Del ejercicio de la iniciativa legislativa y la potestad reglamentaria del Gobierno.
 
 El Gobierno ejercerá la iniciativa y la potestad reglamentaria de conformidad con los principios y reglas establecidos en el Título VI de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y en el presente Título.
-
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
-
-> Redacción anterior:
-
-> "Artículo 22. De la iniciativa legislativa del Gobierno.
-
-> 1\. El Gobierno ejercerá la iniciativa legislativa prevista en los artículos 87 y 88 de la Constitución mediante la elaboración, aprobación y posterior remisión de los proyectos de ley al Congreso de los Diputados o, en su caso, al Senado.
-
-> 2\. El procedimiento de elaboración de proyectos de ley a que se refiere el apartado anterior, se iniciará en el ministerio o ministerios competentes mediante la elaboración del correspondiente anteproyecto, que irá acompañado por la memoria, los estudios o informes sobre la necesidad y oportunidad del mismo, un informe sobre el impacto por razón de género de las medidas que se establecen en el mismo, así como por una memoria económica que contenga la estimación del coste a que dará lugar.
-
-> En todo caso, los anteproyectos de ley habrán de ser informados por la Secretaría General Técnica.
-
-> 3\. El titular del Departamento proponente elevará el Anteproyecto al Consejo de Ministros a fin de que éste decida sobre los ulteriores trámites y, en particular, sobre las consultas, dictámenes e informes que resulten convenientes, así como sobre los términos de su realización, sin perjuicio de los legalmente preceptivos.
-
-> 4\. Una vez cumplidos los trámites a que se refiere el apartado anterior, el titular del Departamento proponente someterá el Anteproyecto, de nuevo, al Consejo de Ministros para su aprobación como Proyecto de Ley y su remisión al Congreso de los Diputados o, en su caso, al Senado, acompañándolo de una Exposición de Motivos y de la Memoria y demás antecedentes necesarios para pronunciarse sobre él.
-
-> 5\. Cuando razones de urgencia así lo aconsejen, el Consejo de Ministros podrá prescindir de los trámites contemplados en el apartado tercero de este artículo, salvo los que tengan carácter preceptivo, y acordar la aprobación de un Proyecto de Ley y su remisión al Congreso de los Diputados o, en su caso, al Senado."
 
 > Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 
@@ -569,26 +451,6 @@ El Gobierno ejercerá la iniciativa y la potestad reglamentaria de conformidad c
 Sin perjuicio de lo establecido en el artículo 2.1 del Código Civil, las disposiciones de entrada en vigor de las leyes o reglamentos, cuya aprobación o propuesta corresponda al Gobierno o a sus miembros, y que impongan nuevas obligaciones a las personas físicas o jurídicas que desempeñen una actividad económica o profesional como consecuencia del ejercicio de ésta, preverán el comienzo de su vigencia el 2 de enero o el 1 de julio siguientes a su aprobación.
 
 Lo previsto en este artículo no será de aplicación a los reales decretos-leyes, ni cuando el cumplimiento del plazo de transposición de directivas europeas u otras razones justificadas así lo aconsejen, debiendo quedar este hecho debidamente acreditado en la respectiva Memoria.
-
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
-
-> Redacción anterior:
-
-> "Artículo 23. De la potestad reglamentaria.
-
-> 1\. El ejercicio de la potestad reglamentaria corresponde al Gobierno de acuerdo con la Constitución y las leyes.
-
-> 2\. Los reglamentos no podrán regular materias objeto de reserva de ley, ni infringir normas con dicho rango. Además, sin perjuicio de su función de desarrollo o colaboración con respecto a la ley, no podrán tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, así como tributos, cánones u otras cargas o prestaciones personales o patrimoniales de carácter público.
-
-> 3\. Los reglamentos se ajustarán a las siguientes normas de competencia y jerarquía:
-
-> 1º. Disposiciones aprobadas por Real Decreto del Presidente del Gobierno o del Consejo de Ministros.
-
-> 2º. Disposiciones aprobadas por Orden Ministerial.
-
-> Ningún reglamento podrá vulnerar preceptos de otro de jerarquía superior.
-
-> 4\. Son nulas las resoluciones administrativas que vulneren lo establecido en un reglamento, aunque hayan sido dictadas por órganos de igual o superior jerarquía que el que lo haya aprobado."
 
 > Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 
@@ -614,36 +476,6 @@ f) Órdenes Ministeriales, las disposiciones y resoluciones de los Ministros. Cu
 
 2.º Disposiciones aprobadas por Orden Ministerial.
 
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
-
-> Redacción anterior:
-
-> "Artículo 24. Del procedimiento de elaboración de los reglamentos.
-
-> 1\. La elaboración de los reglamentos se ajustará al siguiente procedimiento:
-
-> a) La iniciación del procedimiento de elaboración de un reglamento se llevará a cabo por el centro directivo competente mediante la elaboración del correspondiente proyecto, al que se acompañará un informe sobre la necesidad y oportunidad de aquél, así como una memoria económica que contenga la estimación del coste a que dará lugar.
-
-> b) A lo largo del proceso de elaboración deberán recabarse, además de los informes, dictámenes y aprobaciones previas preceptivos, cuantos estudios y consultas se estimen convenientes para garantizar el acierto y la legalidad del texto.
-
-> En todo caso, los reglamentos deberán ir acompañados de un informe sobre el impacto por razón de género de las medidas que se establecen en el mismo.
-
-> c) Elaborado el texto de una disposición que afecte a los derechos e intereses legítimos de los ciudadanos, se les dará audiencia, durante un plazo razonable y no inferior a quince días hábiles, directamente o a través de las organizaciones y asociaciones reconocidas por la ley que los agrupen o los representen y cuyos fines guarden relación directa con el objeto de la disposición. La decisión sobre el procedimiento escogido para dar audiencia a los ciudadanos afectados será debidamente motivada en el expediente por el órgano que acuerde la apertura del trámite de audiencia. Asimismo, y cuando la naturaleza de la disposición lo aconseje, será sometida a información pública durante el plazo indicado.
-
-> Este trámite podrá ser abreviado hasta el mínimo de siete días hábiles cuando razones debidamente motivadas así lo justifiquen. Sólo podrá omitirse dicho trámite cuando graves razones de interés público, que asimismo deberán explicitarse, lo exijan.
-
-> d) No será necesario el trámite previsto en la letra anterior, si las organizaciones o asociaciones mencionadas hubieran participado por medio de informes o consultas en el proceso de elaboración indicado en el apartado b).
-
-> e) El trámite de audiencia a los ciudadanos, en sus diversas formas, reguladas en la letra c), no se aplicará a las disposiciones que regulan los órganos, cargos y autoridades de la presente Ley, así como a las disposiciones orgánicas de la Administración General del Estado o de las organizaciones dependientes o adscritas a ella.
-
-> f) Junto a la memoria o informe sucintos que inician el procedimiento de elaboración del reglamento se conservarán en el expediente todos los estudios y consultas evacuados y demás actuaciones practicadas.
-
-> 2\. En todo caso, los proyectos de reglamentos habrán de ser informados por la Secretaría General Técnica, sin perjuicio del dictamen del Consejo de Estado en los casos legalmente previstos.
-
-> 3\. Será necesario informe previo del Ministerio de Administraciones Públicas cuando la norma reglamentaria pudiera afectar a la distribución de las competencias entre el Estado y las Comunidades Autónomas.
-
-> 4\. La entrada en vigor de los reglamentos aprobados por el Gobierno requiere su íntegra publicación en el «Boletín Oficial del Estado»."
-
 > Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 
 > Se añade un párrafo al apartado 1 b) por el art. 2 d la Ley 30/2003, de 13 de octubre. [Ref. BOE-A-2003-18920](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-18920)
@@ -659,26 +491,6 @@ f) Órdenes Ministeriales, las disposiciones y resoluciones de los Ministros. Cu
 4\. El Plan Anual Normativo estará coordinado por el Ministerio de la Presidencia, con el objeto de asegurar la congruencia de todas las iniciativas que se tramiten y de evitar sucesivas modificaciones del régimen legal aplicable a un determinado sector o área de actividad en un corto espacio de tiempo. El Ministro de la Presidencia elevará el Plan al Consejo de Ministros para su aprobación antes del 30 de abril.
 
 Por orden del Ministerio de la Presidencia se aprobarán los modelos que contengan la información a remitir sobre cada iniciativa normativa para su inclusión en el Plan.
-
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
-
-> Redacción anterior:
-
-> "Artículo 25. De la forma de las disposiciones y resoluciones del Gobierno, de sus miembros y de las Comisiones Delegadas.
-
-> Las decisiones de los órganos regulados en esta Ley revisten las formas siguientes:
-
-> a) Reales Decretos Legislativos y Reales Decretos Leyes, las decisiones que aprueban, respectivamente, las normas previstas en los artículos 82 y 86 de la Constitución.
-
-> b) Reales Decretos del Presidente del Gobierno, las disposiciones y actos cuya adopción venga atribuida al Presidente.
-
-> c) Reales Decretos acordados en Consejo de Ministros, las decisiones que aprueben normas reglamentarias de la competencia de éste y las resoluciones que deban adoptar dicha forma jurídica.
-
-> d) Acuerdos del Consejo de Ministros, las decisiones de dicho órgano colegiado que no deban adoptar la forma de Real Decreto.
-
-> e) Acuerdos adoptados en Comisiones Delegadas del Gobierno, las disposiciones y resoluciones de tales órganos colegiados. Tales acuerdos revestirán la forma de Orden del Ministro competente o del Ministro de la Presidencia, cuando la competencia corresponda a distintos Ministros.
-
-> f) Órdenes Ministeriales, las disposiciones y resoluciones de los Ministros. Cuando la disposición o resolución afecte a varios Departamentos revestirá la forma de Orden del Ministro de la Presidencia, dictada a propuesta de los Ministros interesados."
 
 > Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 
@@ -828,8 +640,6 @@ b) No será preciso el trámite de consulta pública previsto en el artículo 26
 
 c) La falta de emisión de un dictamen o informe preceptivo en plazo no impedirá la continuación del procedimiento, sin perjuicio de su eventual incorporación y consideración cuando se reciba.
 
-> Téngase en cuenta que este artículo, añadido por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
-
 > Se añade, con efectos de 2 de octubre de 2016, por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 
 ##### Artículo 28. Informe anual de evaluación.
@@ -846,8 +656,6 @@ c) La sostenibilidad de la disposición.
 
 El informe podrá contener recomendaciones específicas de modificación y, en su caso, derogación de las normas evaluadas, cuando así lo aconsejase el resultado del análisis.
 
-> Téngase en cuenta que este artículo, añadido por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
-
 > Se añade, con efectos de 2 de octubre de 2016, por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 
 ## TÍTULO VI — Del control del Gobierno
@@ -863,8 +671,6 @@ El informe podrá contener recomendaciones específicas de modificación y, en s
 3\. Los actos, la inactividad y las actuaciones materiales que constituyan una vía de hecho del Gobierno y de los órganos y autoridades regulados en la presente Ley son impugnables ante la jurisdicción contencioso-administrativa, de conformidad con lo dispuesto en su Ley reguladora.
 
 4\. La actuación del Gobierno es impugnable ante el Tribunal Constitucional en los términos de la Ley Orgánica reguladora del mismo.
-
-> Téngase en cuenta que este artículo, añadido por la disposición final 3.13 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566)., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley. No obstante, su contenido se corresponde con el anterior artículo 26, vigente hasta la citada fecha.
 
 > Se añade, con efectos de 2 de octubre de 2016, por la disposición final 3.13 de la Ley 40/2015, de 1 de octubre. [Ref. BOE-A-2015-10566](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566).
 

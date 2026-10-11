@@ -1,0 +1,265 @@
+---
+title: "Orden EHA/1981/2005, de 21 de junio, por la que se aprueba el modelo 576 de declaración-liquidación del Impuesto Especial sobre Determinados Medios de Transporte, el modelo 06 de declaración del Impuesto Especial sobre Determinados Medios de Transporte, exenciones y no sujeciones sin reconocimiento previo, se establecen las condiciones generales y el procedimiento para la presentación telemática por Internet de las declaraciones correspondientes al modelo 576 y se modifica la Orden de 30 de septiembre de 1999, por la que se establecen las condiciones generales y el procedimiento para la presentación telemática de las declaraciones-liquidaciones correspondientes a los modelos 110, 130, 300 y 330"
+identifier: "BOE-A-2005-10950"
+eli: "https://www.boe.es/eli/es/o/2005/06/21/eha1981"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2005-06-21
+published: 2005-06-28
+in_force_from: 2005-06-29
+last_amended: 2009-12-29
+consolidated: 2026-06-18
+gazette: "Boletín Oficial del Estado núm. 153"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2005-10950"
+retrieved: 2026-10-11
+---
+
+# Orden EHA/1981/2005, de 21 de junio, por la que se aprueba el modelo 576 de declaración-liquidación del Impuesto Especial sobre Determinados Medios de Transporte, el modelo 06 de declaración del Impuesto Especial sobre Determinados Medios de Transporte, exenciones y no sujeciones sin reconocimiento previo, se establecen las condiciones generales y el procedimiento para la presentación telemática por Internet de las declaraciones correspondientes al modelo 576 y se modifica la Orden de 30 de septiembre de 1999, por la que se establecen las condiciones generales y el procedimiento para la presentación telemática de las declaraciones-liquidaciones correspondientes a los modelos 110, 130, 300 y 330
+
+La Ley 58/2003, de 17 de diciembre, General Tributaria («Boletín Oficial del Estado» del 18) en su artículo 96 compromete, con carácter general a la Administración tributaria, para que promueva la utilización de las técnicas y medios electrónicos, informáticos y telemáticos necesarios para el desarrollo de su actividad y el ejercicio de sus competencias, apuntando que cuando sea compatible con los medios técnicos de que disponga, los ciudadanos podrán relacionarse con ella para ejercer sus derechos y cumplir con sus obligaciones a través de dichas técnicas y medios electrónicos, informáticos y telemáticos con las garantías y requisitos previstos en cada procedimiento.
+
+En este sentido, la Agencia Tributaria ha venido prestando en los últimos años una especial atención a las posibilidades que ofrecen las nuevas tecnologías para facilitar a los ciudadanos el cumplimiento voluntario de sus obligaciones tributarias. En este ámbito, los logros que se han alcanzado han sido notables, especialmente desde la promulgación del Real Decreto 263/1996, de 16 de febrero, por el que se regula la utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado («Boletín Oficial del Estado» del 29), dictado en desarrollo de lo dispuesto en el artículo 45 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común («Boletín Oficial del Estado» del 27).
+
+Desde 1999, año en el que comenzó la presentación de declaraciones tributarias a través de la red, se ha ido incrementando paulatinamente el número de declaraciones y declaraciones-liquidaciones susceptibles de presentación por esa vía, en la medida en que lo han permitido los recursos técnicos y humanos de la Agencia Tributaria. Paralelamente, se ha ido desarrollando esta forma de interrelación con los contribuyentes para todo tipo de gestiones, como pueden ser solicitudes de certificados, de información, de aplazamientos, presentación de recursos y otras.
+
+La evolución de la tecnología asociada a Internet viene poniendo de manifiesto la creciente utilización de esta vía en las relaciones entre los obligados tributarios y la Agencia Tributaria frente a la utilización de otros medios como son los modelos de presentación en papel. Además, la experiencia gestora en el tratamiento de los citados modelos, también pone de manifiesto sus desventajas frente a la presentación de declaraciones por Internet. Por ello, se considera que actualmente se dan las condiciones idóneas para potenciar la utilización de Internet como medio de presentación de declaraciones. En este sentido, el artículo 98.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, dispone que en el ámbito de competencias del Estado, el Ministro de Hacienda podrá determinar los supuestos y condiciones en los que los obligados tributarios deberán presentar por medios telemáticos sus declaraciones, autoliquidaciones, comunicaciones, solicitudes y cualquier otro documento con trascendencia tributaria.
+
+Lo anteriormente expuesto, unido a la necesidad de establecer un adecuado control de las declaraciones-liquidaciones del Impuesto Especial sobre Determinados Medios de Transporte, hace que se considere necesario, en la actualidad, establecer de forma obligatoria la presentación telemática de las declaraciones-liquidaciones del impuesto en aquellas operaciones que resultan sujetas y no exentas al mismo.
+
+Por otra parte, con el fin de facilitar la medida anteriormente expuesta, se establece la posibilidad de presentar estas declaraciones-liquidaciones en nombre de terceros. En este sentido, la aprobación del Real Decreto 1377/2002, de 20 de diciembre, por el que se desarrolla la colaboración social en la gestión de los tributos para la presentación telemática de declaraciones, comunicaciones y otros documentos tributarios («Boletín Oficial del Estado» del 21), así como la aprobación de la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios («Boletín Oficial del Estado» del 3 de junio), hace posible la presentación en nombre de terceros de las declaraciones del Impuesto Especial sobre Determinados Medios de Transporte correspondientes al modelo 576.
+
+Teniendo en cuenta que la presentación telemática que se regula en la presente orden sólo alcanza a las declaraciones del impuesto sujetas y no exentas, se ha estimado oportuno reorganizar los modelos de declaración del Impuesto Especial sobre Determinados Medios de Transporte existentes, bajo el siguiente esquema:
+
+Se aprueba un nuevo modelo 576 en el que deberán declararse todas las operaciones sujetas y no exentas. Dichas operaciones, hasta ahora se declaraban, según procedía, en el modelo 565, con carácter general, o en el modelo 567, en el caso de que se quisiera hacer uso de la deducción prevista en el artículo 70 bis de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales («Boletín Oficial del Estado» del 29), relativa al programa PREVER. El nuevo modelo 576, como ya se ha indicado deberá presentarse necesariamente a través de Internet.
+
+Se aprueba un nuevo modelo 06 con el objeto de que en el mismo se efectúe la declaración del Impuesto Especial sobre Determinados Medios de Transporte respecto de las operaciones exentas y no sujetas sin reconocimiento previo. Este modelo, en la medida que debe venir acompañado de determinada documentación justificativa, no podrá ser presentado a través de Internet.
+
+Mantiene plenamente su vigencia el actual modelo 05 para solicitar la aplicación en el Impuesto de los casos de no sujeción, exención y reducción con reconocimiento previo de la Administración tributaria.
+
+Finalmente, respecto de este Impuesto Especial, debe recordarse que es un impuesto cedido a las Comunidades Autónomas, de acuerdo con lo dispuesto en el artículo 11 de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas («Boletín Oficial del Estado» de 1 de octubre), modificada por la Ley Orgánica 7/2001, de 27 de diciembre, («Boletín Oficial del Estado» del 31) y el artículo 17 de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, («Boletín Oficial del Estado» del 31), siendo gestionado en la actualidad por la Agencia Estatal de Administración Tributaria en tanto no se asuma su gestión por las Comunidades Autónomas.
+
+Por otra parte, en la disposición adicional primera se establece la obligatoriedad de la presentación telemática a través de Internet de las declaraciones-liquidaciones correspondientes al modelo 330 «Exportadores y otros Operadores Económicos. Declaración mensual del Impuesto sobre el Valor Añadido».
+
+Dicha medida encuentra su justificación en la necesidad de efectuar un adecuado control, así como una gestión más ágil de dichas declaraciones-liquidaciones.
+
+Por lo que se refiere a las habilitaciones normativas, el artículo 71, apartado 1, de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales autoriza al Ministro de Economía y Hacienda a establecer el lugar, forma, plazos e impresos en que el Impuesto Especial sobre Determinados Medios de Transporte deberá ser objeto de autoliquidación e ingreso por el sujeto pasivo.
+
+Asimismo, el artículo 167.uno de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido («Boletín Oficial del Estado» del 29), establece que los sujetos pasivos deberán determinar e ingresar la deuda tributaria en el lugar, forma, plazos e impresos que establezca el Ministro de Economía y Hacienda.
+
+Las habilitaciones al Ministro de Hacienda deben entenderse conferidas al Ministro de Economía y Hacienda, en virtud de lo dispuesto en el artículo 5 del Real Decreto 553/2004, de 17 de abril, por el que se reestructuran los departamentos ministeriales («Boletín Oficial del Estado» del 18).
+
+En consecuencia, y haciendo uso de las autorizaciones que tengo conferidas, dispongo:
+
+## Primero. Aprobación del modelo 576.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden EHA/3851/2007, de 26 de diciembre. [Ref. BOE-A-2007-22442](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22442)
+
+## Segundo. Aprobación del modelo 06.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden EHA/3851/2007, de 26 de diciembre. [Ref. BOE-A-2007-22442](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22442)
+
+## Tercero. Forma y condiciones generales para la presentación telemática por Internet de las declaraciones correspondientes al modelo 576.
+
+Uno. Carácter de la presentación. Será obligatoria la presentación telemática a través de Internet del modelo 576 «Impuesto Especial sobre Determinados Medios de Transporte. Declaración-liquidación» que consta como anexo I de la presente orden.
+
+Dos. Requisitos para la presentación de las declaraciones. La presentación telemática de las declaraciones estará sujeta a las siguientes condiciones:
+
+1.º) El declarante deberá disponer de Número de Identificación Fiscal (NIF) y estar identificado en el censo de obligados tributarios con carácter previo a la presentación del modelo de declaración.
+
+2.º) El declarante deberá tener instalado en el navegador un certificado de usuario X.509.V3 expedido por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda o cualquier otro certificado electrónico admitido por la Agencia Estatal de Administración Tributaria, de acuerdo con lo previsto en la Orden HAC/1181/2003, de 12 de mayo, por la que se establecen normas específicas sobre el uso de la firma electrónica en las relaciones tributarias por medios electrónicos, informáticos y telemáticos con la Agencia Estatal de Administración Tributaria («Boletín Oficial del Estado» del 15).
+
+Si la presentación telemática va a ser realizada por una persona o entidad autorizada para presentar declaraciones en representación de terceras personas, será esta persona o entidad autorizada quien deberá tener instalado en el navegador su certificado.
+
+3.º) Para efectuar la presentación telemática el declarante deberá cumplimentar y transmitir los datos del formulario, ajustado al modelo 576, que estará disponible en la página web de la Agencia Tributaria.
+
+Tres. Simultaneidad del ingreso y la presentación telemática por Internet de declaraciones. La transmisión telemática de la correspondiente declaración deberá realizarse en la misma fecha en que tenga lugar el ingreso resultante de la misma.
+
+No obstante lo anterior, si existen dificultades técnicas que impidan efectuar la transmisión telemática de la declaración en la misma fecha del ingreso, podrá realizarse hasta el segundo día hábil siguiente al del ingreso.
+
+Cuatro. Las personas o entidades autorizadas a presentar por vía telemática declaraciones en representación de terceras personas, de acuerdo con lo dispuesto en el Real Decreto 1377/2002, de 20 de diciembre, por el que se desarrolla la colaboración social en la gestión de los tributos para la presentación telemática de declaraciones, comunicaciones y otros documentos tributarios y en la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios, podrán hacer uso de dicha facultad respecto de la declaración prevista en el número uno de esta disposición, modelo 576.
+
+## Cuarto. Procedimiento para la presentación telemática por Internet de las declaraciones correspondientes al modelo 576.
+
+Uno. Si se trata de declaraciones a ingresar el procedimiento a seguir para su presentación telemática será el siguiente:
+
+a) El declarante se pondrá en comunicación con la entidad de depósito que actúa como colaboradora en la gestión recaudatoria (Bancos, Cajas de Ahorro o Cooperativas de crédito) por vía telemática o acudiendo a sus oficinas, para efectuar el ingreso correspondiente y facilitar los siguientes datos:
+
+NIF del sujeto pasivo (9 caracteres).
+
+Ejercicio fiscal (2 últimos dígitos).
+
+Período: 2 caracteres. 0A (cero A).
+
+Declaración a presentar: Modelo 576.
+
+Tipo de autoliquidación = I Ingreso.
+
+Importe a ingresar (deberá ser mayor que cero).
+
+La entidad colaboradora, una vez contabilizado el importe, asignará un Número de Referencia Completo (NRC) que generará informáticamente mediante un sistema criptográfico que relacione de forma unívoca el NRC con el importe a ingresar.
+
+Al mismo tiempo, remitirá o entregará, según la forma de transmisión de los datos, un recibo que contendrá, como mínimo, los datos señalados en el anexo III de esta orden.
+
+b) El declarante, una vez realizada la operación anterior, se pondrá en comunicación con la Agencia Estatal de Administración Tributaria a través de Internet o de cualquier otra vía equivalente que permita la conexión, en la dirección: https://aeat.es. Una vez seleccionado el concepto fiscal (Impuesto Especial sobre Determinados Medios de Transporte) y la declaración a transmitir (modelo 576), introducirá el NRC suministrado por la entidad colaboradora.
+
+c) A continuación procederá a transmitir la declaración con la firma electrónica, generada al seleccionar el certificado previamente instalado en el navegador a tal efecto.
+
+Si el presentador es una persona o entidad autorizada a presentar declaraciones en representación de terceras personas, se requerirá una única firma, la correspondiente a su certificado.
+
+d) Si la declaración es aceptada, la Agencia Estatal de Administración Tributaria le devolverá en pantalla la declaración validada con un código electrónico de ocho caracteres, además de la fecha y hora de presentación.
+
+En el supuesto de que la presentación fuese rechazada se mostrará en pantalla la descripción de los errores detectados. En este caso, se deberá proceder a subsanar los mismos en el formulario de entrada, o repitiendo la presentación si el error fuese originado por otro motivo.
+
+El presentador deberá imprimir la declaración aceptada y validada con el correspondiente código electrónico. Esta declaración será entregada por el declarante para efectuar la matriculación del medio de transporte descrito en el apartado «Características del medio de transporte» de la misma en el organismo competente (Jefatura Provincial de Tráfico, Registro de Matrícula de Buques o Registro de Aeronaves).
+
+Dos. Si se trata de declaraciones sin ingreso, de operaciones sujetas y no exentas, se procederá como sigue:
+
+a) El declarante se pondrá en comunicación con la Agencia Estatal de Administración Tributaria a través de Internet o de cualquier otra vía equivalente que permita la conexión, en la dirección: https://aeat.es. Seleccionará el concepto fiscal (Impuesto Especial sobre Determinados Medios de Transporte) y el modelo de declaración a transmitir (modelo 576).
+
+b) A continuación procederá a transmitir la declaración con la firma electrónica, generada al seleccionar el certificado de usuario previamente instalado en el navegador a tal efecto.
+
+Si el presentador es una persona o entidad autorizada a presentar declaraciones en representación de terceras personas, se requerirá una única firma, la correspondiente a su certificado.
+
+c) Si la declaración es aceptada, la Agencia Estatal de Administración Tributaria le devolverá en pantalla la declaración validada con un código electrónico de ocho caracteres, además de la fecha y hora de presentación.
+
+En el supuesto de que la presentación fuese rechazada se mostrará en pantalla la descripción de los errores detectados. En este caso, se deberá proceder a subsanar los mismos en el formulario de entrada, o repitiendo la presentación si el error fuese originado por otro motivo.
+
+El presentador deberá imprimir la declaración aceptada y validada con el correspondiente código electrónico, que será presentada ante el órgano competente para la matriculación (Jefatura Provincial de Tráfico, Registro de Matrícula de Buques o Registro de Aeronaves) como justificante de la presentación de la declaración.
+
+## Quinto. Lugar y forma de presentación del modelo 06.
+
+Uno. La presentación del modelo 06 podrá realizarse en impreso o, potestativamente por vía telemática a través de Internet en los supuestos previstos en el apartado Tres de este artículo.
+
+Dos. La presentación de la declaración en impreso se realizará en la Delegación o Administración de la Agencia Estatal de Administración Tributaria correspondiente al domicilio fiscal del obligado tributario e irá acompañada de fotocopia acreditativa del Número de Identificación Fiscal, si la misma no lleva adheridas las correspondientes etiquetas identificativas, así como de los documentos y justificantes que acrediten la no sujeción o la exención.
+
+No obstante lo anterior, no será preciso adjuntar fotocopia del documento acreditativo del número de identificación fiscal (NIF) cuando se trate de declaraciones correspondientes a personas físicas que se presenten personalmente en las oficinas de la Agencia Estatal de Administración Tributaria y acrediten su identidad.
+
+Una vez presentada la declaración en la Delegación o Administración de la Agencia Estatal de Administración Tributaria y comprobada la procedencia de la exención o no sujeción alegada, se devolverá al declarante el ejemplar para el interesado y el ejemplar para el órgano de matriculación, debidamente sellados por la citada Delegación o Administración. Asimismo, ésta emitirá un documento justificativo para dicho órgano con un código seguro de verificación de validación. Ambos ejemplares serán entregados por el declarante al efectuar la matriculación del medio de transporte en el organismo competente (Jefatura Provincial de Tráfico, Registro de Matrícula de Buques, ordinario o especial o, en su caso, registro de la correspondiente Federación deportiva, o Registro de Aeronaves).
+
+Tres. La presentación de la declaración correspondiente al modelo 06 podrá realizarse por vía telemática a través de Internet en los supuestos siguientes:
+
+a) Los gestores administrativos que estén colegiados en un Colegio Oficial de Gestores Administrativos, que se encuentre adherido al Convenio de 5 de marzo de 2009 entre la Agencia Estatal de Administración Tributaria y el Consejo General de Colegios de Gestores Administrativos de España para la colaboración en la tramitación de la documentación que ha de acompañar a las declaraciones modelo 06 correspondientes al Impuesto Especial sobre Determinados Medios de Transporte para la no sujeción o exención y la solicitud del número de identificación fiscal correspondiente a menores de 14 años que no dispongan de documento nacional de identidad, en determinados supuestos, podrán presentar el modelo 06 por vía telemática a través de Internet en los supuestos previstos en el Apartado 1.A) de la Cláusula Cuarta del citado Convenio, con arreglo a las condiciones y procedimiento establecidos en los artículos Séptimo y Octavo de la presente Orden.
+
+b) En la matriculación de vehículos automóviles respecto de los cuales se haya emitido la tarjeta ITV en formato electrónico, de acuerdo con lo dispuesto en la Orden ITC/2536/2006, de 26 de julio, por la que se regula el soporte electrónico para la tarjeta ITV y se modifican los anexos 10 y 11 del Real Decreto 2140/1985, de 9 de octubre, por el que se dictan normas sobre homologación de tipos de vehículos, remolques, semirremolques, así como de partes y piezas de dichos vehículos, siempre que la tarjeta ITV en formato electrónico haya sido remitida previamente al Organismo Autónomo Jefatura Central de Tráfico de acuerdo con el procedimiento establecido por el citado Organismo Autónomo.
+
+> Se modifica por la disposición final 1.1 de la Orden EHA/3496/2009, de 17 de diciembre. [Ref. BOE-A-2009-21048](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21048)
+
+## Sexto. Plazo de presentación de los modelos 576 y 06.
+
+La presentación de la declaración correspondiente a los modelos 576 y 06, y, en su caso, el ingreso, se efectuará una vez solicitada la matriculación definitiva del medio de transporte y antes de que la misma se haya producido.
+
+En los supuestos en que el hecho imponible no sea la matriculación definitiva, el plazo de declaración será de quince días naturales a contar desde el devengo del Impuesto.
+
+## Séptimo. Condiciones generales para la presentación telemática por Internet de las declaraciones correspondientes al modelo 06.
+
+Uno. La presentación de la declaración por vía telemática a través de Internet podrá ser efectuada bien por el propio declarante o bien por un tercero que actúe en su representación, de acuerdo con lo establecido en los artículos 79 a 81, ambos inclusive, del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, y en la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios.
+
+Dos. La presentación telemática de las declaraciones correspondientes al modelo 06 estará sujeta a las siguientes condiciones:
+
+a) El declarante deberá disponer de Número de Identificación Fiscal (NIF) y debe estar identificado en el Censo de Obligados Tributarios con carácter previo a la presentación de la declaración.
+
+b) El presentador deberá tener instalado en el navegador o programa un certificado electrónico X.509.V3 expedido por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda, o cualquier otro certificado electrónico admitido por la Agencia Estatal de Administración Tributaria, de acuerdo con lo previsto en la Orden HAC/1181/2003, de 12 de mayo, por el que se establecen normas específicas sobre el uso de la firma electrónica en las relaciones tributarias por medios electrónicos, informáticos y telemáticos con la Agencia Estatal de Administración Tributaria.
+
+Tres. Para efectuar la presentación telemática de las declaraciones correspondientes al modelo 06, el presentador autorizado, deberá cumplimentar y transmitir los datos del formulario, ajustado al modelo 06, que estará disponible en la página Web de la Agencia Tributaria.
+
+En el supuesto de declaraciones presentadas por gestores administrativos, de acuerdo con lo dispuesto en el artículo Quinto.Tres de la presente Orden, el modelo 06 deberá incorporar el Número de Referencia de Encomienda electrónico que haya sido comunicado previamente por la Agencia Estatal de Administración Tributaria.
+
+Cuatro. En aquellos casos en que se detecten anomalías de tipo formal en la transmisión telemática de declaraciones, dicha circunstancia se pondrá en conocimiento del presentador de la declaración por el propio sistema mediante los correspondientes mensajes de error, para que proceda a su subsanación.
+
+> Se añade por la disposición final 1.2 de la Orden EHA/3496/2009, de 17 de diciembre. [Ref. BOE-A-2009-21048](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21048)
+
+## Octavo. Procedimiento para la presentación telemática por Internet de las declaraciones correspondientes al modelo 06.
+
+Uno. En las presentaciones realizadas por gestores administrativos en nombre de terceros en el marco del Convenio de 5 de marzo de 2009 entre la Agencia Estatal de Administración Tributaria y el Consejo General de Colegios de Gestores Administrativos de España, los colegiados presentarán la documentación acreditativa de la no sujeción o exención ante su respectivo colegio oficial, quien procederá a su visado, comprobando que es correcta y suficiente para fundamentar la procedencia de la exención o no sujeción alegada, y posteriormente comunicará por vía telemática a la Agencia Estatal de Administración Tributaria los datos de dicho visado.
+
+La Agencia Estatal de Administración Tributaria, una vez recibidos los datos del visado, asignará un Número de Referencia de Encomienda a la presentación y procederá a remitirlo por vía telemática al colegio oficial correspondiente, quien a su vez lo pondrá en conocimiento del gestor administrativo colegiado que vaya a realizar la presentación.
+
+Dos. El presentador se conectará con la Agencia Estatal de Administración Tributaria a través de Internet, en la dirección electrónica www.agenciatributaria.es, y seleccionará, dentro de la Oficina Virtual, el concepto fiscal (Impuesto Especial sobre Determinados Medios de Transporte) y el modelo de declaración a transmitir (modelo 06).
+
+Tres. A continuación procederá a transmitir la declaración con la firma electrónica generada al seleccionar el certificado electrónico previamente instalado en el navegador a tal efecto.
+
+En el supuesto de declaraciones presentadas por gestores administrativos, de acuerdo con lo dispuesto en el artículo Quinto. Tres de la presente Orden, el modelo 06 deberá incorporar el Número de Referencia de Encomienda electrónico.
+
+Cuatro. Si la declaración es aceptada, la Agencia Estatal de Administración Tributaria le devolverá en pantalla los datos del formulario validados con un código seguro de verificación de 16 caracteres, además de la fecha y hora de presentación. En el supuesto de que la presentación fuese rechazada se mostrará en pantalla la descripción de los errores detectados. En este caso, se deberá proceder a subsanar los mismos en el formulario de entrada, o repitiendo la presentación si el error fuese originado por otro motivo.
+
+El presentador deberá imprimir la declaración aceptada y validada con el correspondiente código seguro de verificación, que será presentada ante el órgano competente para la matriculación (Jefatura Provincial de Tráfico, Registro de Matrícula de Buques, ordinario o especial o, en su caso, registro de la correspondiente Federación deportiva, o Registro de Aeronaves) como justificante de la presentación de la declaración, salvo que la matriculación se realice por vía telemática a través de Internet, en cuyo caso la presentación de la declaración quedará acreditada con la incorporación del Código electrónico de matriculación a la documentación en formato electrónico remitida a la Jefatura Provincial de Tráfico correspondiente.
+
+> Se añade por la disposición final 1.3 de la Orden EHA/3496/2009, de 17 de diciembre. [Ref. BOE-A-2009-21048](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21048)
+
+## Disposición adicional primera. Modificación de la Orden de 30 de septiembre de 1999, por la que se establecen las condiciones generales y el procedimiento para la presentación telemática de las declaraciones-liquidaciones correspondientes a los modelos 110, 130, 300 y 330 («Boletín Oficial del Estado» de 1 de octubre).
+
+Uno. Se modifica el párrafo quinto referido al modelo 330 del apartado primero de la Orden de 30 de septiembre de 1999, por la que se establecen las condiciones generales y el procedimiento para la presentación telemática de las declaraciones-liquidaciones correspondientes a los modelos 110, 130, 300 y 330, que quedará redactado del siguiente modo:
+
+Modelo 330. Impuesto sobre el Valor Añadido. Exportadores y otros Operadores Económicos. Periodo de liquidación mensual. La presentación de este modelo sólo podrá efectuarse por vía telemática.
+
+Dos. Se añade un segundo párrafo al número uno del apartado segundo de la citada Orden de 30 de septiembre de 1999 con la siguiente redacción: «No obstante lo anterior, los obligados a presentar el modelo 330 deberán presentar obligatoriamente el citado modelo por vía telemática a través de Internet».
+
+## Disposición adicional segunda. Modificación de la Orden de 15 de junio de 1995 en relación con las entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria de la Hacienda Pública.
+
+En el anexo I, «Código 021. Autoliquidaciones», se incluye el siguiente modelo:
+
+Código de modelo: 576.
+
+Denominación: Impuesto Especial sobre Determinados Medios de Transporte.
+
+Períodos de ingreso: OA.
+
+## Disposición derogatoria única.
+
+Desde la entrada en vigor de la presente orden quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la misma y, en particular, desde el 1 de enero de 2006, la Orden de 26 de marzo de 2001, por la que se aprueban los modelos 565 y 567 en pesetas y en euros, de declaración-liquidación del Impuesto Especial sobre Determinados Medios de Transporte, el modelo 568 en euros de solicitud de devolución por reventa y envío de medios de transporte fuera del territorio y los diseños físicos y lógicos para la presentación de los modelos 568 en pesetas y en euros mediante soporte directamente legible por ordenador. («Boletín oficial del Estado» del 30), en lo que respecta a los modelos 565 y 567.
+
+## Disposición final única.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Los modelos aprobados por la presente orden serán objeto de utilización por los sujetos pasivos de acuerdo con las siguientes reglas:
+
+1.º El modelo 576, que figura en el anexo I de la presente orden, deberá ser utilizado de forma obligatoria para efectuar las declaraciones-liquidaciones del Impuesto Especial sobre Determinados Medios de Transporte de las operaciones cuyo devengo se produzca a partir del 1 de enero de 2006. No obstante, podrá utilizarse con carácter voluntario para las operaciones cuyo devengo se produzca a partir del 1 de octubre de 2005.
+
+2.º El modelo 06, que figura en el anexo II de la presente orden, será utilizado para presentar la declaración de no sujeción o exención de las operaciones cuyo devengo se produzca a partir del 1 de enero de 2006.
+
+3.º La presentación telemática del modelo 330 «Exportadores y otros operadores económicos. Declaración mensual del Impuesto sobre el Valor Añadido» se deberá efectuar de forma obligatoria a partir del 1 de octubre de 2005.
+
+Lo que comunico para su conocimiento y efectos.
+
+Madrid, 21 de junio de 2005.
+
+SOLBES MIRA
+
+Sres. Director General de la Agencia Estatal de Administración Tributaria y Director General de Tributos.
+
+## ANEXO I — Formato electrónico
+
+> Téngase en cuenta que la Orden EHA/3851/2007, de 26 de diciembre, aprueba el modelo 576 «Impuesto Especial sobre Determinados Medios de Transporte. Autoliquidación», que figura como anexo I de la misma. [Ref. BOE-A-2007-22442](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22442)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/153/10950_17129049_image1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/153/10950_17129049_image2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/153/10950_17129049_image3.png)
+
+## ANEXO II
+
+> Téngase en cuenta que la Orden EHA/3851/2007, de 26 de diciembre, aprueba el modelo 06 «Impuesto Especial sobre Determinados Medios de Transporte. Declaración de exenciones y no sujeciones sin reconocimiento previo», que figura como anexo II de la misma. [Ref. BOE-A-2007-22442](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22442)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/153/10950_17129049_image4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/153/10950_17129049_image5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/153/10950_17129049_image6.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/153/10950_17129049_image7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/153/10950_17129049_image8.png)
+
+## ANEXO III
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/153/10950_17129049_image9.png)

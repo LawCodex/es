@@ -1,0 +1,215 @@
+---
+title: "Orden DEF/1846/2015, de 9 de septiembre, por la que se determina la estructura orgánica básica de la Academia Central de la Defensa"
+identifier: "BOE-A-2015-9883"
+eli: "https://www.boe.es/eli/es/o/2015/09/09/def1846"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Defensa"
+date: 2015-09-09
+published: 2015-09-15
+in_force_from: 2015-09-16
+last_amended: 2026-04-17
+consolidated: 2026-04-17
+gazette: "Boletín Oficial del Estado núm. 221"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-9883"
+retrieved: 2026-10-11
+---
+
+# Orden DEF/1846/2015, de 9 de septiembre, por la que se determina la estructura orgánica básica de la Academia Central de la Defensa
+
+El artículo 54.1 de la Ley 39/2007, de 19 de noviembre, de la carrera militar, faculta al Ministro de Defensa para establecer las normas generales que regulen, entre otras materias, la organización y funciones de los centros docentes militares.
+
+El Gobierno de España ha puesto en marcha un importante y ambicioso programa de reformas entre cuyos ejes se sitúan medidas de racionalización administrativa, simplificación y eliminación de duplicidades y trabas burocráticas. Y la Comisión para la Reforma de las Administraciones Públicas (CORA), creada mediante Acuerdo de Consejo de Ministros de 26 de octubre de 2012, ha llevado a cabo una intensa labor de revisión integral de la Administración Pública, dirigida a conseguir una mejora en la eficacia y eficiencia de la actividad pública.
+
+En esta línea, la Directiva de Política de Defensa, de octubre de 2012, establece, entre sus fines, la simplificación de la organización de las Fuerzas Armadas y la racionalización de las estructuras orgánicas existentes en el Ministerio de Defensa.
+
+Así mismo, la disposición adicional tercera del Real Decreto 524/2014, de 20 de junio, que modifica el Real Decreto 454/2012, de 5 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa, en su apartado 1, establece la creación de la Academia Central de la Defensa, como centro docente militar de formación, y en su apartado 3, que «el Ministro de Defensa determinará la estructura interna y funciones de esta academia militar en la que se integrarán la Escuela Militar de Estudios Jurídicos, la Escuela Militar de Intervención, la Escuela Militar de Sanidad, la Escuela de Músicas Militares, la Escuela Militar de Idiomas y la Escuela Militar de Ciencias de la Educación, de forma que se mantengan sus actuales denominaciones y cometidos».
+
+Uno de estos cometidos es el de llevar a cabo la evaluación de la competencia lingüística en los idiomas extranjeros considerados de interés para las Fuerzas Armadas. La importancia creciente que se reconoce a la competencia lingüística en idiomas, exige que el sistema de evaluación de la competencia lingüística mejore y evolucione continuamente. Para el desarrollo de este cometido, se creará un órgano de evaluación de la competencia lingüística.
+
+En su virtud, dispongo:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+El objeto de esta orden ministerial es establecer la estructura orgánica básica de la Academia Central de la Defensa, con arreglo a lo dispuesto en la disposición adicional tercera del Real Decreto 524/2014, de 20 de junio, que modifica el Real Decreto 454/2012, de 5 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa.
+
+## Artículo 2. Dependencia y funciones.
+
+1\. La Academia Central de la Defensa, como establece la disposición adicional tercera del Real Decreto 524/2014, de 20 de junio, es un centro docente militar de formación, que depende de la Subdirección General de Enseñanza Militar.
+
+2\. La Academia Central de la Defensa tiene encomendadas las siguientes funciones:
+
+a) Impartir la enseñanza de formación de los cuerpos comunes de las Fuerzas Armadas que, en lo concerniente a la formación técnica se realizará por las escuelas de los cuerpos comunes que se integran en la Academia Central de la Defensa en los términos previstos en la citada disposición adicional tercera del Real Decreto 524/2014, de 20 de junio.
+
+b) Impartir las enseñanzas de perfeccionamiento de los cuerpos comunes de las Fuerzas Armadas que se determinen, a través de las referidas escuelas de cuerpos comunes, y aquellas otras relacionadas con la cualificación pedagógica, la evaluación del sistema de enseñanza militar, los idiomas y las que determine el Ministro de Defensa.
+
+c) Evaluar la competencia lingüística en los idiomas extranjeros considerados de interés para las Fuerzas Armadas.
+
+> Se modifican las letras a) y b) del apartado 2 por la disposición final 1.1 de la Orden DEF/85/2017, de 1 de febrero. [Ref. BOE-A-2017-1249](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1249).
+
+## Artículo 3. Estructura de la Academia Central de la Defensa.
+
+La Academia Central de la Defensa se estructura de la siguiente forma:
+
+a) Dirección.
+
+b) Subdirección Jefatura de Estudios.
+
+c) Escuela Militar de Estudios Jurídicos.
+
+d) Escuela Militar de Intervención.
+
+e) Escuela Militar de Sanidad.
+
+f) Escuela de Músicas Militares.
+
+g) Escuela Militar de Idiomas.
+
+h) Escuela Militar de Ciencias de la Educación.
+
+i) Departamento de Instrucción y Adiestramiento.
+
+j) Departamento de Enseñanzas Adscritas.
+
+k) Núcleo de Formación Profesional.
+
+l) Jefatura de Apoyo y Servicios.
+
+m) Servicio de Administración Económica.
+
+> Se modifica por el art. único.1 de la Orden DEF/347/2026, de 13 de abril. [Ref. BOE-A-2026-8421](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8421)
+
+> Se deja sin contenido la letra c) por el art. único.1 de la Orden DEF/517/2018, de 22 de mayo. [Ref. BOE-A-2018-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6934)
+
+> Se modifica la letra b) por la disposición final 1.2 de la Orden DEF/85/2017, de 1 de febrero. [Ref. BOE-A-2017-1249](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1249).
+
+## Artículo 4. Dirección.
+
+1\. El director de la Academia Central de la Defensa será un oficial general nombrado por el Subsecretario de Defensa.
+
+2\. Al director de la Academia Central de la Defensa, como máxima autoridad del centro, le corresponden las funciones de ejercer el mando, la dirección y el gobierno del mismo y ostentar su representación. Asimismo, le corresponden las funciones de jefe del establecimiento “Academia Central de la Defensa”.
+
+3\. Para el cumplimiento de sus funciones contará con un órgano auxiliar.
+
+> Se modifica por el art. único.2 de la Orden DEF/347/2026, de 13 de abril. [Ref. BOE-A-2026-8421](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8421)
+
+> Se modifica el apartado 1 por el art. único.2 de la Orden DEF/517/2018, de 22 de mayo. [Ref. BOE-A-2018-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6934)
+
+## Artículo 5. Subdirección Jefatura de Estudios.
+
+1\. Conforme a lo establecido en las normas sobre organización y funciones, régimen interior y programación de los centros docentes militares, promulgadas por la Orden DEF/85/2017, de 1 de febrero, la Academia Central de la Defensa contará con un subdirector Jefe de Estudios, cargo que será ocupado por un coronel o capitán de navío de las Fuerzas Armadas.
+
+2\. Al subdirector Jefe de Estudios le corresponden las funciones asignadas en dichas normas, sin perjuicio de las competencias atribuidas a los directores de las escuelas que integran la Academia Central de la Defensa, según lo establecido en el artículo 7.1.
+
+3\. Para el cumplimiento de las funciones del apartado 2 anterior, contará con un órgano auxiliar de jefatura.
+
+4\. En ausencia del director, ejercerá el mando, la dirección y el gobierno de la Academia Central de la Defensa.
+
+> Se modifica por el art. único.3 de la Orden DEF/347/2026, de 13 de abril. [Ref. BOE-A-2026-8421](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8421)
+
+> Se modifica el apartado 1 por el art. único.3 de la Orden DEF/517/2018, de 22 de mayo. [Ref. BOE-A-2018-6934](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6934)
+
+> Se modifica por la disposición final 1.3 de la Orden DEF/85/2017, de 1 de febrero. [Ref. BOE-A-2017-1249](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1249).
+
+## Artículo 6. Centro Universitario de la Defensa.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. único.4 de la Orden DEF/347/2026, de 13 de abril. [Ref. BOE-A-2026-8421](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8421)
+
+## Artículo 7. Estructura académica.
+
+1\. La Academia Central de la Defensa adopta una organización mixta sobre la base de la Escuela Militar de Estudios Jurídicos, la Escuela Militar de Intervención, la Escuela Militar de Sanidad, la Escuela de Músicas Militares, la Escuela Militar de Idiomas, la Escuela Militar de Ciencias de la Educación, el Departamento de Instrucción y Adiestramiento, el Departamento de Enseñanzas Adscritas y el Núcleo de Formación Profesional. En el caso de las escuelas de cuerpos comunes de las Fuerzas Armadas, éstas tendrán las competencias relativas a la formación técnica correspondiente a sus respectivos cuerpos.
+
+2\. El Departamento de Instrucción y Adiestramiento será la unidad de encuadramiento de los alumnos. El director del Departamento de Instrucción y Adiestramiento dependerá, en el ejercicio de sus funciones, del subdirector Jefe de Estudios.
+
+3\. El Departamento de Enseñanzas Adscritas será la unidad de adscripción del profesorado de aquellos cursos que, aun siendo responsabilidad de la Academia Central de la Defensa, son impartidos por organismos ajenos a la estructura académica de la misma. El director del Departamento de Enseñanzas Adscritas dependerá, en el ejercicio de sus funciones, del Subdirector Jefe de Estudios.
+
+4\. El Núcleo de Formación Profesional será el encargado de la coordinación, desarrollo e impartición de los ciclos formativos de Formación Profesional cuyas enseñanzas hayan sido autorizadas por el Ministerio de Educación, Formación Profesional y Deportes en la Academia Central de la Defensa. Dicho núcleo dependerá del Subdirector Jefe de Estudios.
+
+5\. Para atender a la función de evaluar la competencia lingüística en los idiomas extranjeros considerados de interés para las Fuerzas Armadas, la Academia Central de la Defensa podrá contar con un órgano de evaluación de la competencia lingüística con la competencia de gestionar, coordinar y controlar los equipos de evaluación y comisiones de revisión que pudieran formarse para las distintas pruebas de idiomas.
+
+> Se modifica por el art. único.5 de la Orden DEF/347/2026, de 13 de abril. [Ref. BOE-A-2026-8421](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8421)
+
+> Se modifica por la disposición final 1.4 de la Orden DEF/85/2017, de 1 de febrero. [Ref. BOE-A-2017-1249](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1249).
+
+## Artículo 8. Jefatura de Apoyo y Servicios.
+
+1\. A la Jefatura de Apoyo y Servicios le corresponden las siguientes funciones:
+
+a) Atender las necesidades de asistencia al personal e instalaciones.
+
+b) Proporcionar seguridad a las instalaciones de la Academia Central de la Defensa.
+
+c) Atender a la coordinación y el control de los recursos.
+
+d) Proporcionar el apoyo logístico necesario para el cumplimiento de las funciones encomendadas a la Academia Central de la Defensa.
+
+2\. El jefe de la Jefatura de Apoyo y Servicios dependerá orgánicamente del Director.
+
+> Se modifica por el art. único.6 de la Orden DEF/347/2026, de 13 de abril. [Ref. BOE-A-2026-8421](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8421)
+
+## Artículo 9. Servicio de Administración Económica.
+
+1\. Al Servicio de Administración Económica le corresponden las funciones de administración, coordinación y control de los recursos económicos.
+
+2\. El jefe del Servicio de Administración Económica dependerá orgánicamente del Director.
+
+> Se modifica por el art. único.7 de la Orden DEF/347/2026, de 13 de abril. [Ref. BOE-A-2026-8421](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8421)
+
+## Disposición adicional primera. No incremento del gasto público ni de plantilla.
+
+La aplicación y desarrollo de esta orden ministerial se llevará a cabo sin aumento de coste de funcionamiento y no supondrá incremento del gasto público ni de personal.
+
+## Disposición adicional segunda. Régimen de personal.
+
+1\. El personal de la Relación de Puestos Militares y cuadros numéricos de las escuelas que componían el Grupo de Escuelas de la Defensa y de la Unidad de Servicios de Apoyo, queda adscrito a la Academia Central de la Defensa.
+
+2\. Por el Subsecretario de Defensa se determinarán la Relación de Puestos Militares y cuadros numéricos, y mediante las adaptaciones orgánicas correspondientes se realizarán las adscripciones a los puestos de trabajo.
+
+## Disposición adicional tercera. Departamento de Instrucción y Adiestramiento.
+
+1\. El Departamento Intercentros de Instrucción y Adiestramiento de la Escuela Militar de Sanidad se constituye en Departamento de Instrucción y Adiestramiento de la Academia Central de la Defensa.
+
+2\. Tendrá a su cargo las unidades que se determinen, en las que se encuadrarán los alumnos, sin perjuicio de la dependencia académica de la escuela a la que pertenezcan.
+
+3\. El Director del Departamento de Instrucción y Adiestramiento, como jefe de la unidad de encuadramiento de alumnos, tendrá́ la competencia sancionadora atribuida a los jefes de unidades de encuadramiento de entidad batallón o similar, con arreglo a los artículos 32.5 y 33 de la Ley Orgánica 8/2014, de 4 de diciembre, de Régimen Disciplinario de las Fuerzas Armadas.
+
+> Se modifican los apartados 2 y 3 por la disposición final 1.5 de la Orden DEF/85/2017, de 1 de febrero. [Ref. BOE-A-2017-1249](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1249).
+
+## Disposición transitoria primera. Normas sobre organización y funciones de los Centros docentes de la Enseñanza Militar de Formación.
+
+La Academia Central de la Defensa se ajustará a lo dispuesto en las Normas sobre organización y funciones de los Centros docentes de la Enseñanza Militar de Formación, aprobadas por la Orden 80/1993, de 29 de julio, hasta que no entren en vigor las Normas generales que regulan la organización y funciones, el régimen interior y la programación de los centros docentes militares, a determinar por orden del Ministro de Defensa, establecidas en el artículo 54.1 de la Ley 39/2007, de 19 de noviembre, de la carrera militar.
+
+## Disposición transitoria segunda. Funciones de la Escuela Militar de Ciencias de la Educación.
+
+Las funciones de la Escuela Militar de Ciencias de la Educación establecidas en el apartado segundo de la Orden Ministerial 89/1992, de 24 de noviembre, por la que se regula la denominación, adscripción y funcionamiento de la Escuela Militar de Ciencias de la Educación, seguirán vigentes hasta que entren en vigor las disposiciones que complementen o apliquen esta orden ministerial, se produzcan las adaptaciones orgánicas necesarias y se transfieran dichas funciones a las nuevas unidades y estructuras.
+
+## Disposición transitoria tercera. Funciones de la Escuela Militar de Idiomas.
+
+Las funciones de la Escuela Militar de Idiomas establecidas en el apartado tercero de la Orden DEF/538/2003, de 4 de marzo, por la que se establece la estructura y funciones de la Escuela Militar de Idiomas, seguirán vigentes hasta que entren en vigor las disposiciones que complementen o apliquen esta orden ministerial, se produzcan las adaptaciones orgánicas necesarias y se transfieran dichas funciones a las nuevas unidades y estructuras.
+
+## Disposición derogatoria única. Derogación normativa.
+
+1\. Quedan derogadas las siguientes disposiciones:
+
+a) Orden Ministerial 89/1992, de 24 de noviembre, por la que se regula la denominación, adscripción y funcionamiento de la Escuela Militar de Ciencias de la Educación.
+
+b) Orden Ministerial 193/2000, de 6 de julio, por la que se crea la Unidad de Servicios de Apoyo al Grupo de Escuelas de la Defensa.
+
+c) Orden DEF/538/2003, de 4 de marzo, por la que se establece la estructura y funciones de la Escuela Militar de Idiomas.
+
+2\. Asimismo, queda derogada cualquier otra disposición de igual o inferior rango que se oponga a lo establecido en ésta orden ministerial.
+
+## Disposición final primera. Facultades de aplicación.
+
+Se faculta al Subsecretario de Defensa para dictar cuantas disposiciones resulten necesarias para la aplicación de esta orden ministerial y, en concreto, para la constitución, a propuesta del Director General de Reclutamiento y Enseñanza Militar, de los departamentos o unidades administrativas que se estimen convenientes.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden ministerial entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 9 de septiembre de 2015.–El Ministro de Defensa, Pedro Morenés Eulate.

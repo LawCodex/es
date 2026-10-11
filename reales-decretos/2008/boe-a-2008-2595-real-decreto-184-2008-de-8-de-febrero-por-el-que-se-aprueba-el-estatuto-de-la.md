@@ -1,0 +1,1099 @@
+---
+title: "Real Decreto 184/2008, de 8 de febrero, por el que se aprueba el Estatuto de la Agencia Estatal de Seguridad Aérea"
+identifier: "BOE-A-2008-2595"
+eli: "https://www.boe.es/eli/es/rd/2008/02/08/184"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2008-02-08
+published: 2008-02-14
+in_force_from: 2008-02-15
+last_amended: 2026-06-12
+consolidated: 2026-08-03
+gazette: "Boletín Oficial del Estado núm. 39"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-2595"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 184/2008, de 8 de febrero, por el que se aprueba el Estatuto de la Agencia Estatal de Seguridad Aérea
+
+Incluye la corrección de errores publicada en BOE núm. 63, de 13 de marzo de 2008. [Ref. BOE-A-2008-4790](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-4790)
+
+El transporte aéreo reviste una importancia estratégica para España, tanto desde el punto de vista de las comunicaciones internacionales y la vertebración y cohesión territorial, como por su contribución a la actividad económica, al desarrollo de la industria turística y a la generación de empleo.
+
+Durante los quince últimos años el tráfico aéreo se ha multiplicado por 2,5, y las previsiones apuntan a que se doblará en los próximos años, impulsado por el aumento de la renta disponible en España, por el crecimiento económico en los mercados emisores de tráfico aéreo, así como por la presión creciente de las compañías de bajo coste en el mercado.
+
+Teniendo en cuenta lo anterior, la Administración aeronáutica se viene enfrentando a este crecimiento de la actividad con el reto de aumentar la seguridad del transporte y la calidad de los servicios, crear capacidad adicional para hacer frente al incremento de la demanda, conseguir un desarrollo del transporte medioambientalmente sostenible, fomentar la presencia internacional de España en el sector del transporte aéreo, modernizar la legislación aeronáutica y dotar a la autoridad de los instrumentos jurídicos y organizativos necesarios para asegurar su aplicación.
+
+La Ley 28/2006, de 18 de julio, de Agencias Estatales para la mejora de los servicios públicos, precisamente como un elemento clave para la modernización de la autoridad aeronáutica, ha autorizado la creación de una Agencia Estatal de Seguridad Aérea para la «ejecución de las funciones de ordenación, supervisión e inspección de la seguridad del transporte aéreo y de los sistemas de navegación aérea y de seguridad aeroportuaria, así como para las funciones de detección, análisis y evaluación de los riesgos de seguridad en este modo de transporte», entendiendo con ello que la garantía de competitividad y seguridad necesaria en el sector, exigen una Administración que preste servicios con un alto nivel de calidad, que disponga de autonomía y flexibilidad en su gestión y que, al tiempo, esté sujeta al control de eficacia y a la responsabilidad por el cumplimiento de resultados.
+
+El presente real decreto, en desarrollo de lo previsto en dicha ley, consagra un nuevo modelo de gestión, que se caracteriza por un desdoblamiento de la autoridad aeronáutica. En dicho modelo, la competencia para la formulación de propuestas sectoriales y de la política estratégica en materia de aviación civil, la representación y coordinación con otras administraciones y con la Unión Europea en materia de política de transporte aéreo, y la adopción de circulares aeronáuticas, entre otras, se residencian en la Dirección General de Aviación Civil del Ministerio de Fomento.
+
+De otra parte, la Agencia Estatal de Seguridad Aérea es el organismo al que compete el ejercicio de las potestades inspectoras y sancionadoras en materia de aviación civil, la iniciativa para la aprobación de la normativa reguladora en los ámbitos de la seguridad aérea y la protección del usuario del transporte aéreo para su elevación a los órganos competentes del Ministerio de Fomento, así como la evaluación de riesgos en materia de seguridad de la aviación civil.
+
+El modelo de organización previsto en este real decreto pretende asimismo impulsar la adecuada coordinación civil y militar en el ámbito de la seguridad aérea, de acuerdo con lo previsto en la legislación vigente y los mecanismos actualmente establecidos.
+
+Este real decreto consta de un único artículo, aprobatorio del estatuto y por el que se crea la Agencia Estatal de Seguridad Aérea, cinco disposiciones adicionales, cuatro disposiciones transitorias y cuatro disposiciones finales.
+
+La disposición adicional primera determina que la fecha de constitución efectiva de la Agencia será en todo caso anterior al día 2 de junio de 2008, y que se producirá con la reunión constitutiva de su Consejo Rector.
+
+A continuación, mediante la disposición adicional segunda se lleva a cabo la supresión de órganos de la antigua Dirección General de Aviación Civil. Asimismo, la disposición adicional tercera prevé el cambio de denominación de las Delegaciones de Seguridad en Vuelo.
+
+La disposición adicional cuarta determina el modo de integración del personal de la Dirección General de Aviación Civil en la Agencia Estatal de Seguridad Aérea, previendo que mediante Resolución de la Subsecretaría de Fomento se concrete el personal sujeto a dicha integración.
+
+De acuerdo con lo previsto por la Ley 28/2006, de 18 de julio, de Agencias Estatales para la mejora de los servicios públicos, y para precisar los servicios de la Dirección General de Aviación Civil que se integran en la Agencia, el real decreto prevé la integración del personal de la Dirección General de Aviación Civil en la Agencia, exceptuando de dicha integración al personal que desempeñe de manera sustancial funciones que formen parte de las competencias atribuidas a la Dirección General de Aviación Civil, así como al personal que ocupa puestos de trabajo en servicios de la Dirección General de Aviación Civil que no vayan a ser desarrollados por la Agencia.
+
+En el régimen transitorio, se incluyen en primer lugar, las disposiciones relativas a la prestación de servicios necesarios para garantizar el ejercicio temporal de las funciones de los órganos de la Dirección General de Aviación Civil hasta la fecha de la puesta en funcionamiento de la Agencia. Asimismo, se dispone que la Subsecretaría de Fomento siga prestando a la Agencia los servicios comunes, hasta que ésta disponga de los servicios propios necesarios para alcanzar su autonomía.
+
+Dado el carácter técnico y especializado de las competencias asignadas a la Agencia y la necesidad de dotarse de personal experimentado en el ámbito de sus funciones, la disposición transitoria segunda establece que, con carácter excepcional, durante los dos primeros años desde la fecha de puesta en funcionamiento de la Agencia, ésta empleará de manera preferente como sistema de selección de algunos Cuerpos y Escalas de personal funcionario que vaya a ir destinado a la Agencia el concurso-oposición, en el que se valorará como mérito la experiencia en el ámbito de actividades atribuidas a la Agencia.
+
+El régimen jurídico transitorio en materia de presupuestos, contratación y otros procedimientos administrativos iniciados con anterioridad a la creación de la Agencia se recoge en las disposiciones transitorias tercera y cuarta.
+
+La disposición final primera recoge las modificaciones organizativas que afectarán al Real Decreto 1476/2004, de 18 de junio, por el que se desarrolla la estructura organizativa básica del Ministerio de Fomento.
+
+Por lo que se refiere a la disposición final segunda, se modifica el procedimiento de aprobación de planes directores de los aeropuertos de interés general regulado en el Real Decreto 2591/1998, de 4 de diciembre, sobre ordenación de los aeropuertos de interés general y su zona de servicio, en ejecución de lo dispuesto por el artículo 166 de la Ley 13/1996, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, para adecuarlo a la actual estructura orgánica del Ministerio de Fomento.
+
+El Estatuto se estructura en siete capítulos que recogen de forma ordenada los distintos aspectos que, de acuerdo con la Ley 28/2006, de 18 de julio, debe contener el régimen estatutario de una Agencia Estatal.
+
+El capítulo I, «Disposiciones generales», está dedicado a la naturaleza, régimen jurídico y potestades administrativas de la Agencia.
+
+De acuerdo con la autorización contenida en la disposición adicional tercera de la Ley 28/2006, de 18 de julio, el capítulo II, «Objeto y competencias», determina el objeto de la Agencia Estatal de Seguridad Aérea y establece que, para el cumplimiento de dicho objeto, la actividad de la Agencia se guiará por los siguientes criterios de actuación:
+
+Preservar la seguridad del transporte aéreo de acuerdo con los principios y normas vigentes en materia de aviación civil.
+
+Promover el desarrollo y establecimiento de las normas aeronáuticas nacionales e internacionales en materia de seguridad aérea y protección al usuario del transporte aéreo, así como de los procedimientos para su aplicación.
+
+Promover una cultura de seguridad en todos los ámbitos de la Aviación Civil.
+
+Proteger los intereses de la sociedad, y en particular de los usuarios velando por el desarrollo de un transporte aéreo seguro, eficaz, eficiente, accesible, fluido, de calidad y respetuoso con el medio ambiente.
+
+Desarrollar sus competencias atendiendo a las necesidades de la aviación civil, en términos de calidad, eficacia y eficiencia y competitividad.
+
+Como corolario de lo anterior, el estatuto atribuye a la Agencia las competencias necesarias para alcanzar los objetivos anteriormente citados.
+
+Cabe destacar que, dada la sucesión de órganos que se produce entre el Ministerio de Fomento y la Agencia Estatal de Seguridad Aérea, la competencia para la imposición de sanciones en materia aeronáutica, así como la competencia para la adopción de medidas extraordinarias reguladas por el artículo 30 de la Ley 21/2003, de 7 de julio, de Seguridad aérea, a la luz de la relevancia de las mismas, se residencian en el Director de la Agencia, sin perjuicio de su posible delegación.
+
+El capítulo IV «Organización», determina los órganos de gobierno y el órgano ejecutivo de la Agencia, estableciendo las competencias y funcionamiento de los mismos.
+
+La sección 1.ª regula la figura del Presidente y del Consejo Rector, como órganos de gobierno de la Agencia. El modelo de gobierno de la Agencia Estatal de Seguridad Aérea se caracteriza por un Presidente no ejecutivo, que a su vez es el Director General de Aviación Civil, como elemento esencial de coordinación entre ambos órganos de la Administración.
+
+En cuanto a la composición del Consejo Rector, se ha optado por un Consejo compuesto por el Presidente, once Consejeros y un Secretario con voz pero sin voto. Si bien no se trata de una Agencia con objeto interministerial, la designación de los Consejeros, fuera del Director de la Agencia como miembro nato, se distribuye entre varios Ministerios. Así, el Ministro de Fomento designa a cuatro Consejeros, y los Ministros de Economía y Hacienda, Administraciones Públicas y Medio Ambiente y Defensa, designan a uno cada uno respectivamente. Por último, las organizaciones sindicales más representativas designarán asimismo a dos representantes en el Consejo Rector.
+
+El Director de la Agencia es el órgano ejecutivo de la Agencia, y el responsable de la dirección y gestión ordinaria de la misma. Su nombramiento corresponde al Consejo Rector, a propuesta del Presidente, entre titulados superiores, atendiendo a criterios de competencia profesional y experiencia.
+
+En los capítulos V, VI y VII, «Régimen de personal», «Régimen patrimonial, financiero y contratación», y «Gestión económica y control», se desarrollan las reglas establecidas por la Ley 28/2006, de 18 de julio. Teniendo en cuenta la especial responsabilidad, competencia técnica y relevancia de las tareas asignadas a dichos puestos, se considera personal directivo de la Agencia a los titulares de las direcciones operativas, de la Secretaría General, y de las oficinas de seguridad en vuelo, los titulares de las subdirecciones que se integren en las direcciones, y la División de Control de Seguridad de Operaciones en Vuelo.
+
+El personal directivo deberá ser nombrado atendiendo a criterios de competencia profesional y experiencia, entre titulados superiores que serán funcionarios, y mediante procedimiento que garantice el mérito, la capacidad y la publicidad.
+
+No obstante lo anterior, de acuerdo con lo previsto en el artículo 23.3 de la Ley 28/2006, la División de Control de Seguridad de Operaciones en Vuelo, dependiente de la Dirección de Seguridad de Aeronaves, se cubrirá en régimen laboral mediante contrato de alta dirección.
+
+Dentro del capítulo VI, relativo al «Régimen patrimonial, financiero y contratación», se determina que el Director será el órgano de contratación. Asimismo, a efectos de lo señalado en la normativa de contratos del sector público, se atribuye a la Agencia Estatal de Seguridad Aérea la condición de medio propio y servicio técnico de la Administración General del Estado y de sus organismos y entidades de derecho público, pudiendo serle encomendada la realización de trabajos y tareas incardinadas en el ámbito de sus competencias.
+
+El capítulo VII establece el régimen presupuestario y de control de la Agencia. Destaca la posibilidad de que el Director pueda autorizar las modificaciones presupuestarias que no afecten a gastos de personal ni a la cuantía total del presupuesto, y un régimen de contabilidad de gestión que permitirá efectuar el seguimiento del cumplimiento de los compromisos asumidos en el Contrato de gestión.
+
+En su virtud, a iniciativa de la Ministra de Fomento, a propuesta de la Ministra de Administraciones Públicas y del Ministro de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 8 de febrero de 2008,
+
+#### D I S P O N G O :
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 63, de 13 de marzo de 2008. [Ref. BOE-A-2008-4790](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-4790)
+
+##### Artículo único. Creación de la Agencia Estatal de Seguridad Aérea y aprobación de su estatuto.
+
+1\. En virtud de la autorización prevista en la disposición adicional tercera de la Ley 28/2006, de 18 de julio, de Agencias Estatales para la mejora de los servicios públicos, se crea la Agencia Estatal de Seguridad Aérea, a cuyo fin se aprueba el estatuto de dicha Agencia, cuyo texto se inserta a continuación de este real decreto.
+
+2\. La Agencia Estatal de Seguridad Aérea sucede al Ministerio de Fomento y, en particular, a la Dirección General de Aviación Civil en los fines, competencias y funciones atribuidas a la Agencia en el estatuto que se aprueba por este real decreto.
+
+Todas las menciones que cualquier disposición contenga sobre el Ministerio de Fomento y la Dirección General de Aviación Civil, referidas a las competencias que el Estatuto que se aprueba por este real decreto atribuye a la Agencia, se entenderán realizadas a la misma.
+
+Se exceptúan de lo anterior las competencias atribuidas directamente al Ministro de Fomento.
+
+3\. La distribución de competencias que lleva a cabo este real decreto se realiza sin perjuicio de las competencias actualmente atribuidas al Ministerio de Defensa.
+
+##### Disposición adicional primera. Constitución efectiva.
+
+1\. La efectiva puesta en funcionamiento de la Agencia se producirá en todo caso antes del día 2 de junio de 2008 con la constitución del Consejo Rector, en cuya sesión constitutiva se llevará a cabo asimismo el nombramiento del Director de la Agencia y de sus órganos y personal directivo.
+
+2\. La Agencia se subrogará en todos los derechos y obligaciones derivados de competencias de la Dirección General de Aviación Civil y del Departamento que, en virtud del presente real decreto, se atribuyan a aquélla, y en concreto, en los contratos, convenios, encomiendas y encargos perfeccionados en el ámbito de competencias asignadas a la Agencia.
+
+> Se modifica el apartado 2 por el art. 1.1 del Real Decreto 1615/2008, de 3 de octubre. [Ref. BOE-A-2008-16301](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-16301)
+
+##### Disposición adicional segunda. Supresión de órganos.
+
+Quedan suprimidos los siguientes órganos de la Dirección General de Aviación Civil:
+
+a) La Subdirección General de Explotación del Transporte Aéreo.
+
+b) La Subdirección General de Control del Transporte Aéreo.
+
+c) La Subdirección General de Sistemas de Navegación Aérea y Aeroportuarios.
+
+##### Disposición adicional segunda bis. Supresión de órganos operativos de la Agencia Estatal de Seguridad Aérea.
+
+1\. Queda suprimida la Dirección de Gestión de la Seguridad y Personal de Vuelo.
+
+2\. Las referencias del ordenamiento jurídico a los órganos suprimidos se entenderán realizadas a aquellos que por este real decreto se crean, los sustituyen o asumen sus competencias.
+
+3\. Las unidades y puestos de trabajo con nivel orgánico inferior a subdirección general continuarán subsistentes y serán retribuidos con cargo a los mismos créditos presupuestarios, hasta que se aprueben las correspondientes relaciones de puestos de trabajo adaptadas a la estructura orgánica de la Agencia Estatal de Seguridad Aérea.
+
+4\. Las unidades y puestos de trabajo encuadrados en los órganos suprimidos y de nueva creación se adscribirán provisionalmente, mediante resolución de la persona titular de la secretaría general de la Agencia, hasta tanto se apruebe la nueva relación de puestos de trabajo, a los órganos operativos establecidos en el presente real decreto.
+
+> Se añade por el art. 15.1 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Disposición adicional tercera. Oficinas de seguridad en vuelo.
+
+Las delegaciones de seguridad en vuelo pasarán a denominarse oficinas de seguridad en vuelo.
+
+##### Disposición adicional cuarta. Integración del personal en la Agencia Estatal de Seguridad Aérea.
+
+1\. El personal funcionario que hasta la puesta en funcionamiento de la Agencia ocupaba los puestos comprendidos en la relación de puestos de trabajo de la Dirección General de Aviación Civil, pasará a integrarse en dicho momento en la Agencia Estatal de Seguridad Aérea con la misma situación, antigüedad y grado que tuviera, quedando en la situación de servicio activo en su Cuerpo o Escala de procedencia.
+
+Quedará exceptuado de la integración en la Agencia prevista en el párrafo anterior:
+
+a) El personal que desempeñe de manera sustancial funciones incluidas en las competencias atribuidas a la Dirección General de Aviación Civil en la disposición final primera, apartado Tres de este real decreto.
+
+b) El personal que ocupe puestos de trabajo en servicios que no vayan a ser desarrollados por la Agencia.
+
+2\. El personal laboral se integrará en las mismas condiciones previstas en el apartado anterior, subrogándose la Agencia en los contratos de trabajo concertados con personal sujeto a derecho laboral, en sus propios términos y sin alteración alguna de sus condiciones.
+
+3\. Mediante una resolución de la Subsecretaría de Fomento se determinará el personal que se integra en la Agencia de acuerdo con lo previsto en los apartados 1 y 2 de esta disposición.
+
+4\. Los puestos de trabajo correspondientes a servicios de la Dirección General de Aviación Civil que, de acuerdo con el apartado 1 de esta disposición adicional, no se integran en la Agencia Estatal de Seguridad Aérea, se adscribirán provisionalmente a la Dirección General de Aviación Civil mediante resolución de la Subsecretaría, hasta tanto se apruebe una nueva relación de puestos de trabajo para dicha Dirección General en función de las atribuciones que se le asignan en este real decreto.
+
+##### Disposición adicional quinta. Inventario de bienes.
+
+La Agencia Estatal de Seguridad Aérea realizará el primer inventario de los bienes que se le adscriben y de los que pudiera adquirir para el inicio de su actividad antes que transcurra un año desde su puesta en funcionamiento.
+
+##### Disposición adicional sexta. Procedimiento para el ejercicio de las funciones de órgano sustantivo por la Agencia Estatal de Seguridad Aérea.
+
+1\. En el ejercicio de las funciones de órgano sustantivo previstas en el artículo 9.1, letra m), apartado 1.º, del Estatuto de la Agencia Estatal de Seguridad Aérea, ésta atenderá exclusivamente al cumplimiento de la normativa aeronáutica y medioambiental de aplicación y de las obligaciones que el promotor deba cumplir conforme a lo previsto en dicha normativa.
+
+Además, y sin perjuicio del seguimiento, inspección y sanción de las declaraciones e informes de impacto ambiental, conforme a lo establecido en el Título III de la Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental, el ejercicio por la Agencia de las funciones de órgano sustantivo en la evaluación de impacto ambiental de los proyectos, ordinaria o simplificada, se ajustará a lo previsto en los apartados siguientes.
+
+2\. Las funciones de órgano sustantivo en la evaluación de impacto ambiental de dichos proyectos se realizarán:
+
+a) En el procedimiento de certificación o verificación de la infraestructura o del procedimiento de gestión del cambio, según proceda, en los proyectos de construcción y modificación estructural o funcional de los aeródromos y helipuertos de uso público cuyas características físicas deban adecuarse a la normativa sectorial aeronáutica de aplicación.
+
+b) En el marco del procedimiento de puesta en funcionamiento o del procedimiento de gestión del cambio, según proceda, en aquellos proyectos de construcción y modificación estructural o funcional de los aeródromos y helipuertos de uso restringido cuyas características físicas deban adecuarse a la normativa sectorial aeronáutica de aplicación.
+
+c) En un procedimiento específico sujeto a lo dispuesto en la Ley 21/2013, de 9 de diciembre, y disposiciones de desarrollo y en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en aquellos proyectos de construcción y modificación estructural o funcional de aeródromos, helipuertos y aeropuertos de uso público o restringido, cuyas características físicas no estén sujetas al cumplimiento de normas técnicas aeronáuticas.
+
+3\. Los promotores de los proyectos a que se refieren los apartados anteriores deberán presentarlos a la Agencia Estatal de Seguridad Aérea antes de iniciar su construcción o tramitación, según corresponda.
+
+4\. Concluida la evaluación de impacto ambiental y a los exclusivos efectos del ejercicio de las funciones de órgano sustantivo por la Agencia, la Dirección de seguridad que corresponda, resolverá sobre la adecuación del proyecto a la declaración o informe de impacto ambiental. Esta resolución, con el contenido mínimo previsto en los artículos 42 y 48 de la Ley 21/2013, de 9 de diciembre:
+
+a) En los proyectos de construcción y modificación estructural o funcional de aeródromos, helipuertos y aeropuertos de uso público o restringido, cuyas características físicas no estén sujetas al cumplimiento de normas técnicas aeronáuticas, pone fin al procedimiento ante la Agencia Estatal de Seguridad Aérea y habilita al promotor para proseguir con la tramitación del proyecto en caso de que sea favorable, o se lo impide en caso contrario.
+
+El plazo para dictar y notificar esta resolución será de tres meses desde la declaración o informe de impacto ambiental o, en su caso, desde la presentación por el promotor de las modificaciones del proyecto para adecuarse a ella, según proceda, transcurrido el cual podrá entenderse desestimado el proyecto a los meros efectos de la evaluación ambiental, de conformidad con la excepción prevista en el artículo 24.1 de la Ley 39/2015, de 1 de octubre, en relación con los procedimientos que impliquen el ejercicio de actividades que puedan dañar el medio ambiente.
+
+b) En el resto de los proyectos, se integra en el respectivo procedimiento de certificación, verificación, aprobación, puesta en funcionamiento o gestión del cambio.
+
+5\. Frente a la resolución dictada en los proyectos de construcción y modificación estructural o funcional de aeródromos, helipuertos y aeropuertos de uso público o restringido, cuyas características físicas no estén sujetas al cumplimiento de normas técnicas aeronáuticas, en el plazo de un mes desde su notificación podrá interponerse recurso de alzada ante la dirección de la Agencia Estatal de Seguridad Aérea, de conformidad con lo previsto en los artículos 121 y siguientes de la Ley 39/2015, de 1 de octubre, y en el artículo 4.3 del Estatuto de la Agencia Estatal de Seguridad Aérea.
+
+En el resto de los supuestos, esta resolución tiene la consideración de acto de mero trámite frente al cual sólo cabe el citado recurso de alzada cuando decida directa o indirectamente sobre el fondo del asunto, determine la imposibilidad de continuar el procedimiento o produzca indefensión o perjuicio irreparable a derechos e intereses legítimos, de conformidad con lo previsto en el artículo 112.1 de la Ley 39/2015, de 1 de octubre.
+
+6\. La Agencia Estatal de Seguridad Aérea podrá adoptar los formularios que deberán cumplimentar los usuarios aplicación de lo previsto en esta disposición, así como los medios aceptables de cumplimiento y material guía que facilite el cumplimiento de lo previsto en ella.
+
+> Se añade por la disposición final 1.1 del Real Decreto 160/2023, de 7 de marzo. [Ref. BOE-A-2023-6084](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6084)
+
+##### Disposición adicional séptima. Responsabilidad patrimonial.
+
+Ante la falta de recursos de la Agencia Estatal de Seguridad Aérea para hacer frente a las indemnizaciones reconocidas en los procedimientos de responsabilidad patrimonial o cuando comprometa su normal funcionamiento, se habilitarán los mecanismos previstos legalmente para hacer frente a dichas indemnizaciones sin menoscabo de la actividad esencial de la Agencia.
+
+> Se añade por la disposición final 1.1 del Real Decreto 160/2023, de 7 de marzo. [Ref. BOE-A-2023-6084](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6084)
+
+##### Disposición adicional octava. Delegación de competencias por los distintos órganos operativos de la Agencia Estatal de Seguridad Aérea.
+
+1\. Las delegaciones de competencias otorgadas por los distintos órganos operativos de la Agencia Estatal de Seguridad Aérea y no revocadas hasta la fecha de entrada en vigor de este real decreto, continuarán siendo válidas y podrán hacer uso de ellas los órganos competentes por razón de la materia que vengan a sustituir a los delegados, hasta que sean expresamente revocadas o nuevamente otorgadas a los diferentes órganos resultantes de la aplicación de este real decreto.
+
+2\. Cuando las delegaciones de competencias que mantienen sus efectos en virtud del apartado anterior se hubiesen efectuado en favor de órganos suprimidos, las referidas delegaciones se entenderán vigentes en favor de los órganos en cuyo ámbito de actuación se encuadre la correspondiente competencia.
+
+> Se añade por el art. 15.2 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Disposición transitoria primera. Prestación de servicios.
+
+1\. Los órganos de la Dirección General de Aviación Civil continuarán transitoriamente en el ejercicio de sus funciones hasta la fecha de la puesta en funcionamiento de la Agencia. Igualmente, los órganos de la Agencia ejercerán las funciones atribuidas por el estatuto que se aprueba mediante este real decreto a partir del día de la puesta en funcionamiento de ésta.
+
+2\. Sin perjuicio de la creación y puesta en funcionamiento de la Agencia, el Ministerio de Fomento continuará prestando los servicios comunes necesarios para la Agencia Estatal de Seguridad Aérea hasta que ésta disponga de los servicios propios para alcanzar su autonomía.
+
+##### Disposición transitoria segunda. Selección de personal.
+
+Con carácter excepcional, durante los dos primeros años desde la fecha de entrada en funcionamiento de la Agencia se empleará de manera preferente como sistema de selección del personal funcionario que vaya a incorporarse en la Agencia, bien en los cuerpos de Ingenieros e Ingenieros Técnicos Aeronáuticos del Estado o en las especialidades de las Escalas de Técnicos Facultativos Superiores de Organismos Autónomos y de Titulados de Escalas Técnicas de Organismos Autónomos dependientes del Ministerio de Fomento que sean necesarias en la Agencia, el sistema de concurso-oposición, en el que se valorará como mérito la experiencia en el ámbito de actividades atribuidas a la Agencia.
+
+##### Disposición transitoria tercera. Expedientes, obligaciones, contratos y gastos.
+
+1\. Los expedientes iniciados por la Dirección General de Aviación Civil con anterioridad a la puesta en funcionamiento de la Agencia y no resueltos en dicha fecha, relativos a ámbitos de competencias asignadas a la Agencia por el estatuto que aprueba este real decreto, se resolverán por el órgano competente de la Agencia de acuerdo con la atribución del ejercicio de competencias establecida por el Estatuto.
+
+2\. Los procedimientos de gasto iniciados por la Dirección General de Aviación Civil y no finalizados, en las materias de competencia de la Agencia, adaptarán su tramitación a la normativa reguladora de la Agencia y se finalizarán de acuerdo con el orden de competencias establecido por este Estatuto.
+
+##### Disposición transitoria cuarta. Régimen presupuestario y de rendición de cuentas aplicable durante 2008.
+
+Durante todo el ejercicio 2008 no se alterará la estructura presupuestaria vigente, desarrollando la Agencia Estatal de Seguridad Aérea su actuación de acuerdo con el régimen presupuestario y de rendición de cuentas aplicable a la Dirección General de Aviación Civil, en los términos previstos en la Ley 51/2007, de 26 de diciembre, de Presupuestos Generales del Estado para el año 2008, y la Ley 47/2003, de 26 de noviembre, General Presupuestaria. Todos los gastos necesarios para el funcionamiento de la Agencia Estatal de Seguridad Aérea se imputarán en la forma y con cargo a los créditos previstos para la Dirección General de Aviación Civil.
+
+> Se modifica por el art. 1.2 del Real Decreto 1615/2008, de 3 de octubre. [Ref. BOE-A-2008-16301](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-16301)
+
+##### Disposición transitoria quinta. Nombramiento de las personas titulares de las nuevas Direcciones de seguridad de la Agencia Estatal de Seguridad Aérea.
+
+Hasta que se proceda al nombramiento de las personas titulares de la Dirección de Seguridad de Operaciones Aéreas y de la Dirección de Cooperación Técnica Exterior, contempladas en el apartado diecinueve referido al artículo vigesimoctavo del estatuto, las competencias de dichos órganos serán ejercidas por las personas titulares de la Dirección de Seguridad de Aeronaves y la Dirección de la Agencia Estatal de Seguridad Aérea, respectivamente.
+
+> Se añade por el art. 15.3 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Disposición final primera. Modificación del Real Decreto 1476/2004, de 18 de junio, por el que se desarrolla la estructura orgánica básica del Ministerio de Fomento.
+
+Uno. Las letras e) y g) del apartado 1 del artículo 7 del Real Decreto 1476/2004, de 18 de junio, por el que se desarrolla la estructura organizativa básica del Ministerio de Fomento, queda redactado como sigue:
+
+«1. Corresponde a la Secretaría General de Transportes, con rango de Subsecretaría:
+
+e) La propuesta de los servicios mínimos de carácter obligatorio para asegurar la prestación de los servicios esenciales de transporte por carretera, marítimo, y en el ámbito aeroportuario y del transporte aéreo, en los supuestos de conflicto laboral o de absentismo empresarial.
+
+g) La calificación de aeropuertos civiles.»
+
+Dos. La letra e) del apartado 5 del artículo 7 del Real Decreto 1476/2004, de 18 de junio, por el que se desarrolla la estructura organizativa básica del Ministerio de Fomento, queda redactado como sigue:
+
+«5. Dependen del Ministerio de Fomento, a través de la Secretaría General de Transportes:
+
+e) La Agencia Estatal de Seguridad Aérea (AESA).»
+
+Tres. El artículo 10 del Real Decreto 1476/2004, de 18 de junio, por el que se desarrolla la estructura organizativa básica del Ministerio de Fomento, queda redactado del siguiente modo:
+
+«Artículo 10. Dirección General de Aviación Civil.
+
+1\. La Dirección General de Aviación Civil es el órgano mediante el cual el Ministerio de Fomento define la política aeronáutica en materia de aviación civil, dentro de las competencias de la Administración General del Estado, correspondiendo a dicho órgano directivo las siguientes funciones:
+
+a) La aprobación de circulares aeronáuticas previstas en el artículo 8 de la Ley 21/2003, de 7 de julio, de Seguridad aérea, bien por propia iniciativa o a propuesta de la Agencia Estatal de Seguridad Aérea.
+
+b) La coordinación de las actuaciones que corresponden a los Ministerios de Defensa y Fomento en el ámbito de sus respectivas competencias, asumiendo la Presidencia de la Comisión Interministerial entre Defensa y Fomento, según se establezca en su normativa reguladora.
+
+c) La máxima representación del Departamento ante los organismos nacionales e internacionales relacionados con la aviación civil.
+
+d) Con carácter general:
+
+1.º La elaboración de estudios y formulación de propuestas sobre política estratégica en materia de transporte aéreo y sistemas de navegación aérea y aeroportuarios.
+
+2.º La preparación de la normativa reguladora en el ámbito de la aviación civil para su elevación a los órganos competentes del Ministerio.
+
+3.º La coordinación de los intereses y puntos de vista del sector para la formulación de propuestas sobre política aeronáutica en el ámbito nacional e internacional, en particular en el ámbito de la Unión Europea.
+
+4.º El fomento del desarrollo sostenible del transporte aéreo, y del uso eficaz y seguro del sistema aeroportuario y de navegación aérea.
+
+e) En materia de representación:
+
+La representación del Departamento ante los organismos nacionales e internacionales relacionados con la aviación civil, y la participación internacional en asuntos relacionados con esta materia, sin perjuicio de las competencias de otros órganos superiores o directivos del Ministerio de Fomento y del Ministerio de Asuntos Exteriores y de Cooperación, así como de las competencias atribuidas a la Agencia Estatal de Seguridad Aérea.
+
+f) En materia de política de infraestructuras aeronáuticas:
+
+1.º Informar las propuestas de calificación de los aeropuertos civiles.
+
+2.º Elaboración de las propuestas de autorización para el establecimiento de los aeropuertos que sean competencia de la Administración General del Estado, y de las modificaciones estructurales que alteren dicha autorización, así como de su autorización de puesta en funcionamiento o clausura, sin perjuicio de las competencias de elaboración y aprobación de proyectos de aeropuertos públicos civiles atribuidas a la Entidad Pública Empresarial AENA.
+
+3.º El informe previo sobre el establecimiento, modificación y apertura al tráfico aéreo de los aeródromos y aeropuertos de competencia de las comunidades autónomas, y sobre la aprobación de planes o instrumentos de ordenación y delimitación de su respectiva zona de servicios, así como la certificación de compatibilidad del espacio aéreo en el caso de helipuertos de competencia autonómica, de acuerdo con el artículo 9.2 de la Ley 21/2003, de 7 de julio, de Seguridad aérea.
+
+4.º El informe a los planes directores y planes especiales de aeropuertos de interés general. Este informe será vinculante en el caso de que se afecten competencias de la Administración General del Estado.
+
+5.º El informe de los instrumentos de ordenación territorial y urbanística que afecten a los aeropuertos de interés general y sistemas de navegación, y en particular a su zona de servicio y servidumbres aeronáuticas. Este informe será vinculante en el caso de que se afecten competencias de la Administración General del Estado.
+
+6.º Las actuaciones expropiatorias en materia de infraestructuras aeroportuarias y de navegación aérea cuya gestión esté reservada al Estado.
+
+7.º La Secretaría de la Comisión Interministerial entre Defensa y Fomento, según se establezca en su normativa reguladora, para la coordinación de las actuaciones que corresponden a los Ministerios de Defensa y Fomento en el ámbito de sus respectivas competencias, así como la participación en el Pleno, ponencias y grupos de trabajo que correspondan, sin perjuicio de las competencias atribuidas a la Agencia Estatal de Seguridad Aérea.
+
+g) En materia de promoción del transporte aéreo y continuidad de los servicios:
+
+1.º La negociación de los convenios internacionales de transporte aéreo, bien bilaterales o en negociaciones supranacionales, y la asignación de los derechos de tráfico derivados de los mismos, sin perjuicio de las competencias del Ministerio de Asuntos Exteriores y de Cooperación y del apoyo técnico atribuido a la Agencia Estatal de Seguridad Aérea.
+
+2.º La gestión de los créditos consignados para subvenciones al transporte aéreo.
+
+3.º La propuesta de obligaciones de servicio público en el ámbito de la aviación civil.
+
+h) Cualesquiera otras en el ámbito de la aviación civil que no estén atribuidas a la Agencia Estatal de Seguridad Aérea de acuerdo con su estatuto.
+
+2\. Las competencias recogidas en el apartado 1.a), b) y c) de este artículo corresponden al Director General de Aviación Civil.
+
+3\. La Dirección General de Aviación Civil se estructura en los siguientes órganos con rango de Subdirección General:
+
+a) La Subdirección General de Transporte Aéreo, a la que le corresponde el ejercicio de las funciones descritas en el apartado 1.g) de este artículo, así como aquellas comprendidas en el apartado 1.d) y e) que le correspondan en el ámbito del transporte aéreo en general.
+
+b) La Subdirección General de Aeropuertos y Navegación Aérea, a la que le corresponde el ejercicio de las funciones descritas en el apartado 1.f) de este artículo, así como aquellas comprendidas en el apartado 1. d) y e) que le correspondan en el ámbito de los aeropuertos y la navegación aérea en general.»
+
+##### Disposición final segunda. Modificación del Real Decreto 2591/1998, de 4 de diciembre, sobre la ordenación de los aeropuertos de interés general y su zona de servicio, en ejecución de lo dispuesto por el artículo 166 de la Ley 13/1996, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.
+
+El artículo 5.2 del Real Decreto 2591/1998, de 4 de diciembre, sobre la ordenación de los aeropuertos de interés general y su zona de servicio, tendrá la siguiente redacción:
+
+«2. La aprobación de los planes directores corresponde al Ministro de Fomento, a propuesta del Secretario General de Transportes, previo el preceptivo informe de la Dirección General de Aviación Civil, a cuyo efecto la entidad pública empresarial Aeropuertos Españoles y Navegación Aérea, una vez elaborados y realizados los actos de instrucción a que se refieren los dos apartados siguientes, los elevará a la citada Secretaría General de Transportes.»
+
+##### Disposición final tercera. Desarrollo normativo y aplicación.
+
+Se autoriza al Ministro de Fomento para que dicte cuantas disposiciones sean necesarias para el desarrollo y ejecución de este real decreto.
+
+##### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 8 de febrero de 2008.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
+
+## ESTATUTO DE LA AGENCIA ESTATAL DE SEGURIDAD AÉREA
+
+## CAPÍTULO I — Disposiciones generales
+
+##### Artículo 1. Naturaleza jurídica de la Agencia Estatal de Seguridad Aérea.
+
+1\. La Agencia Estatal de Seguridad Aérea (AESA) es un organismo público de los previstos en el artículo 108 bis de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+2\. La Agencia tiene personalidad jurídica pública, patrimonio y tesorería propios y autonomía funcional y de gestión, dentro de los límites establecidos por la Ley 40/2015, de 1 de octubre.
+
+Dentro de las competencias que este estatuto y, en su caso, demás normas le atribuyan, corresponde a la Agencia el ejercicio de las potestades administrativas precisas para el cumplimiento de sus fines y funciones, de acuerdo con la legislación aplicable, salvo la potestad expropiatoria.
+
+> Se modifica por el art. 15.4 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Artículo 2. Régimen jurídico.
+
+1\. La Agencia se rige por la Ley 40/2015, de 1 de octubre, por el presente Estatuto y por el resto de las normas de derecho administrativo especial y general que le sea de aplicación.
+
+2\. La actuación de la Agencia se produce con arreglo al plan de acción anual, bajo la vigencia y con arreglo al pertinente contrato plurianual de gestión.
+
+3\. La Agencia asume las potestades que la Ley 21/2003, de 7 de julio, de Seguridad Aérea atribuye al Ministerio de Transportes y Movilidad Sostenible en materia sancionadora e inspectora, en los términos establecidos en el presente estatuto.
+
+> Se modifica por el art. 15.5 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Artículo 3. Principios de la actuación de la Agencia.
+
+1\. La Agencia implantará un modelo de gestión que equilibre los principios de autonomía y de control y que responda al principio de responsabilización por resultados apoyándose en el cumplimiento de objetivos claros, medibles y orientados hacia la mejora en la prestación del servicio, de forma que sirva mejor a los usuarios y a la sociedad.
+
+2\. La Agencia orientará la prestación de los servicios de su competencia hacia la mejora de la eficacia, la calidad y la productividad mediante el uso de las tecnologías de la información avanzadas y medios de comunicación interactivos.
+
+3\. La Agencia respetará en su actuación el principio de transparencia, garantizando a los ciudadanos la accesibilidad a los principales documentos de planificación y de evaluación de la gestión de la misma.
+
+##### Artículo 4. Disposiciones y actos administrativos.
+
+1\. La Agencia en el ejercicio de sus competencias podrá dictar:
+
+a) Resoluciones de la persona titular de la presidencia de la Agencia.
+
+b) Resoluciones del Consejo Rector.
+
+c) Resoluciones, instrucciones, y protocolos de actuación de quien ostente la dirección de la Agencia.
+
+2\. Los actos dictados conforme a lo previsto en el apartado anterior en el desarrollo de funciones públicas agotarán la vía administrativa, excepto en materia tributaria donde serán recurribles en vía económico-administrativa, sin perjuicio, en ambos casos, del posterior acceso a la jurisdicción contencioso-administrativa.
+
+3\. Los acuerdos dictados por las personas titulares de las direcciones en el ejercicio de funciones públicas serán susceptibles de recurso de alzada ante el superior jerárquico.
+
+> Se modifica por la disposición final 1.2.1 del Real Decreto 160/2023, de 7 de marzo. [Ref. BOE-A-2023-6084](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6084)
+
+##### Artículo 5. Asistencia jurídica.
+
+La asistencia jurídica de la Agencia, consistente en el asesoramiento jurídico y en la representación y defensa en juicio, corresponde a la Abogacía General del Estado, mediante la formalización del oportuno convenio en los términos previstos en la Ley 52/1997, de 27 de noviembre, de Asistencia Jurídica al Estado e Instituciones Públicas, y su normativa de desarrollo.
+
+> Se modifica por el art. 15.6 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Artículo 6. Adscripción.
+
+La Agencia se adscribe al Ministerio de Transportes, Movilidad y Agenda Urbana.
+
+> Se modifica por la disposición final 1.2.2 del Real Decreto 160/2023, de 7 de marzo. [Ref. BOE-A-2023-6084](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6084)
+
+> Se modifica por la disposición final 1 del Real Decreto 1037/2009, de 29 de junio. [Ref. BOE-A-2009-10757](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-10757).
+
+##### Artículo 7. Sede.
+
+La Agencia tendrá su sede institucional en la ciudad de Madrid.
+
+## CAPÍTULO II — Objeto y competencias
+
+##### Artículo 8. Objeto de la Agencia Estatal de Seguridad Aérea.
+
+1\. La Agencia Estatal de Seguridad Aérea, dentro del ámbito de competencias correspondientes al Estado, y de acuerdo con la autorización llevada a cabo por la disposición adicional tercera de la Ley 28/2006, de 18 de julio, tiene por objeto la ejecución de las funciones de ordenación, supervisión e inspección de la seguridad del transporte aéreo y de los sistemas de navegación aérea y de seguridad aeroportuaria, en sus vertientes de inspección y control de productos aeronáuticos, de actividades aéreas y del personal aeronáutico, así como las funciones de detección, análisis y evaluación de los riesgos de seguridad en este modo de transporte.
+
+2\. Para el cumplimiento de dicho objeto, la Agencia se guiará por los siguientes criterios de actuación:
+
+a) Preservar la seguridad del transporte aéreo de acuerdo con los principios y normas vigentes en materia de aviación civil.
+
+b) Promover el desarrollo y establecimiento de las normas aeronáuticas nacionales e internacionales en materia de seguridad aérea y protección al usuario del transporte aéreo, así como de los procedimientos para su aplicación.
+
+c) Promover una cultura de seguridad en todos los ámbitos de la aviación civil.
+
+d) Proteger y defender los intereses de la sociedad, y en particular de los usuarios, velando por el desarrollo de un transporte aéreo seguro, eficaz, eficiente, accesible, fluido, de calidad y respetuoso con el medio ambiente.
+
+e) Desarrollar sus competencias atendiendo a las necesidades de la aviación civil, en términos de calidad, eficacia y eficiencia y competitividad.
+
+##### Artículo 9. Competencias.
+
+1\. La Agencia Estatal de Seguridad Aérea ejerce las siguientes competencias:
+
+a) La expedición, renovación, suspensión, mantenimiento y revocación de autorizaciones, habilitaciones, licencias, certificaciones y otros títulos habilitantes para la realización de actividades aeronáuticas civiles, tales como la operación de aeronaves, de aeropuertos y de servicios de navegación aérea, así como para el diseño, fabricación, mantenimiento, y uso de las aeronaves, los productos, componentes y equipos aeronáuticos civiles.
+
+Corresponde asimismo a la Agencia el reconocimiento y aceptación de títulos, licencias, autorizaciones o certificados expedidos por otras autoridades y que sean requeridos para el ejercicio de profesiones aeronáuticas.
+
+b) La gestión del Registro de matrícula de aeronaves.
+
+c) La inspección aeronáutica, de acuerdo con lo dispuesto en los títulos III y IV de la Ley 21/2003, de 7 de julio.
+
+d) Las que los reglamentos o directivas comunitarios atribuyen al Estado, y corresponden al Ministerio de Fomento en virtud del ordenamiento jurídico interno, en el ámbito de la seguridad en el transporte aéreo civil y la protección al usuario del transporte aéreo, entre otras, como autoridad nacional de supervisión o como organismo responsable del cumplimiento de los mismos.
+
+e) El ejercicio de la potestad sancionadora en materia de aviación civil regulada en el Título V de la Ley 21/2003, de 7 de julio.
+
+f) La gestión de riesgos en materia de seguridad de la aviación civil.
+
+g) La autorización, acreditación e inspección a personas físicas y jurídicas para su actuación como entidades colaboradoras en materia de inspección aeronáutica.
+
+h) La aprobación previa de procedimientos y programas internos de autoverificación y control desarrollados y aplicados por los explotadores de servicios de transporte aéreo y los titulares o prestadores de servicios aeroportuarios y de navegación aérea en cumplimiento de la normativa técnica y de seguridad aplicable.
+
+i) La verificación del cumplimiento de la normativa sobre facilitación en el transporte aéreo, en el ámbito de competencias del Ministerio de Transportes y Movilidad Sostenible, para garantizar la accesibilidad y el tránsito eficaz, fluido y seguro de personas y bienes a través de las infraestructuras del transporte aéreo, en relación con los operadores aeronáuticos sujetos a la supervisión de la Agencia, y todo aquello que se le solicite desde el Comité Español de Facilitación del Transporte Aéreo y sin perjuicio de las funciones del mismo.»
+
+j) La colaboración técnica y participación en organismos nacionales e internacionales en materia de seguridad aérea y protección al usuario del transporte aéreo, así como la colaboración con la Unión Europea y la Agencia de la Unión Europea para la Seguridad Aérea para realizar todas aquellas actividades de cooperación, coordinación y cualquier otra acción que derive de la aplicación de la normativa de la Unión Europea relacionada con las competencias de la Agencia, sin perjuicio de las competencias de la Dirección General de Aviación Civil y de otros órganos en materia de relaciones internacionales.
+
+k) La iniciativa de la normativa reguladora en los ámbitos de la aviación civil atribuidos a su responsabilidad, para su elevación a los órganos competentes del Ministerio de Fomento.
+
+l) La aprobación de los proyectos de establecimiento o modificación de los procedimientos civiles de vuelo.
+
+m) Las relativas:
+
+1.º Al órgano sustantivo conforme a lo previsto en la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, y normas concordantes, en los proyectos de construcción y modificación estructural o funcional de los aeródromos, helipuertos y aeropuertos civiles de competencia de la Administración General del Estado; así como las funciones inherentes a la condición de órgano sustantivo en los proyectos de clasificación y estructuración del espacio aéreo que requieran evaluación ambiental, sin perjuicio del ejercicio de las funciones que le correspondan como autoridad nacional de supervisión conforme a la normativa de la Unión Europea aplicable en la materia.
+
+2.º A la supervisión, inspección y sanción del cumplimiento de las obligaciones establecidas en la Ley 37/2003, de 17 de noviembre, del Ruido, y en sus disposiciones de aplicación y desarrollo, para aeropuertos e infraestructuras aeroportuarias de competencia de la Administración General del Estado. Funciones que se concretan en la supervisión, inspección y sanción del cumplimiento de los planes de acción asociados a los mapas estratégicos de ruido y a las servidumbres aeronáuticas acústicas, así como de los objetivos de calidad acústica y límites establecidos en la referida normativa, así como cualquier otra función de esta naturaleza que pueda establecer la normativa aplicable.
+
+3.º A la introducción de restricciones operativas relacionadas con el ruido en los aeropuertos de acuerdo con la normativa de la Unión Europea aplicable.
+
+n) Las funciones ejecutivas atribuidas al Ministerio de Transportes, Movilidad y Agenda Urbana, en el ámbito de la aviación civil, por la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero, y normativa concordante, en relación a los informes o resoluciones sobre emisiones, cese de actividad y elaboración de las propuestas de asignación de derechos de emisión y otras equivalentes que pudieran atribuirse a este Departamento, sin perjuicio de las competencias del Ministerio de Transportes, Movilidad y Agenda Urbana en orden a la elevación de las propuestas que correspondan al Consejo de Ministros u otros órganos colegiados del Gobierno.
+
+ñ) El ejercicio de actividades en materia de formación, documentación y comunicación e investigación, desarrollo e innovación en materia de seguridad aérea y protección al usuario del transporte aéreo y cualesquiera otras propias de la Agencia, para satisfacer las necesidades y exigencias nacionales e internacionales en dichas materias.
+
+o) Aquellas otras relacionadas con el objeto y fines de la Agencia que pudieran serle atribuidas.
+
+2\. La Agencia prestará asistencia técnica y colaborará con el Ministerio de Fomento en el ejercicio de las competencias de aquél en materia de aviación civil.
+
+> Se modifican las letras i) y j), se añade una letra ñ), y se reenumera la actual ñ) como o) del apartado 1 por el art. 15.7 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica la letra l) y se añaden las letras m), n) y ñ) en el apartado 1 por la disposición final 1.2.3 del Real Decreto 160/2023, de 7 de marzo. [Ref. BOE-A-2023-6084](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6084)
+
+> Téngase en cuenta que lo previsto en el apartado 1º de la letra m), en relación con los aeropuertos de interés general, y en los apartados 2º y 3º, entra en vigor el 8 de junio de 2023, de acuerdo con lo establecido en la disposición final 3 del citado Real Decreto. Y, en cuanto al régimen transitorio, véase la disposición transitoria única.
+
+##### Artículo 10. Ejercicio de la potestad sancionadora y adopción de medidas extraordinarias.
+
+1\. Los procedimientos sancionadores por las infracciones administrativas tipificadas en la Ley 21/2003, de 7 de julio; en la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, cuando la Agencia sea el órgano sustantivo; así como en la Ley 37/2003, de 17 de noviembre, del Ruido, cuando de acuerdo a lo previsto en el artículo anterior corresponda a la Agencia el ejercicio de la potestad sancionadora, se iniciarán siempre de oficio por acuerdo de la persona que ostente la dirección de la Agencia, bien por propia iniciativa, o como consecuencia de orden superior, petición razonada de otros órganos o denuncia.
+
+Asimismo, corresponde a la persona titular de la dirección de la Agencia la competencia para la imposición de las sanciones previstas en las citadas normas.
+
+2\. La instrucción de los procedimientos sancionadores derivados de las infracciones del apartado 1, corresponderá a las direcciones de la Agencia que tengan atribuida la competencia sustantiva sobre dicha materia.
+
+3\. Corresponde al Director de la Agencia la adopción de las medidas extraordinarias previstas en el artículo 30 de la Ley 21/2003, de 7 de julio, de Seguridad aérea, así como las medidas reguladas en el artículo 63 del mismo texto legal.
+
+> Se modifica el apartado 2 por el art. 15.8 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifican los apartados 1 y 2 por la disposición final 1.2.4 del Real Decreto 160/2023, de 7 de marzo. [Ref. BOE-A-2023-6084](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6084)
+
+## CAPÍTULO III — Gestión transparente por objetivos
+
+##### Artículo 11. El Contrato de gestión.
+
+1\. La Agencia elaborará la propuesta de Contrato de gestión plurianual con el contenido y dentro de los plazos previstos en el artículo 108 ter de la Ley 40/2015, de 1 de octubre.
+
+2\. La actuación de la Agencia se produce con arreglo a un plan de acción anual, bajo la vigencia y con arreglo al pertinente contrato plurianual de gestión.
+
+3\. El Contrato de gestión de la Agencia tendrá una vigencia de cuatro años.
+
+4\. El Contrato de gestión comprenderá, como mínimo y para el período de su vigencia, el siguiente contenido:
+
+a) Los objetivos a perseguir, y los planes necesarios para alcanzar los objetivos, con especificación de los marcos temporales correspondientes y de los proyectos asociados a cada una de las estrategias y sus plazos temporales.
+
+b) Los resultados a obtener, así como los indicadores para evaluar los resultados obtenidos.
+
+c) El marco de actuación en materia de gestión de recursos humanos, comprensivo de la determinación de necesidades de personal a lo largo de la vigencia del contrato y la previsión máxima de personal.
+
+d) Los recursos personales, materiales y presupuestarios a aportar para la consecución de los objetivos, estableciendo su escenario plurianual.
+
+e) Los efectos asociados al grado de cumplimiento de los objetivos establecidos en cuanto a los siguientes aspectos:
+
+Los criterios para la exigencia de responsabilidad por la gestión del personal directivo.
+
+El montante de masa salarial destinada al complemento de productividad o concepto equivalente para el personal laboral.
+
+f) El procedimiento a seguir para la cobertura de los déficit anuales que, en su caso, se pudieran producir por insuficiencia de los ingresos reales respecto a los estimados y las consecuencias de responsabilidad en la gestión que, en su caso, deban seguirse de tales déficit.
+
+g) El procedimiento para la introducción de las modificaciones o adaptaciones anuales que, en su caso, procedan.
+
+5\. La Presidencia de la Agencia, una vez aprobada la propuesta de Contrato de gestión por el Consejo Rector, la remitirá al Ministerio de Transportes y Movilidad Sostenible y a los órganos competentes de los Ministerios para la Transformación Digital y de la Función Pública y de Hacienda antes del 1 de septiembre del último año de vigencia del contrato anterior.
+
+Antes del 30 de mayo del mismo año, el Consejo Rector aprobará la propuesta inicial del nuevo contrato, pudiendo los Presupuestos Generales del Estado prever una dotación condicionada a la efectiva formalización del mismo.
+
+6\. La aprobación del Contrato de gestión tiene lugar por orden conjunta de las personas titulares de los Ministerios de Transportes y Movilidad Sostenible, de Hacienda y para la Transformación Digital y de la Función Pública, en un plazo máximo de tres meses a contar desde su presentación.
+
+7\. En caso de no aprobarse el Contrato de gestión en los plazos previstos en este artículo, mantendrá su vigencia el Contrato de gestión anterior, para lo cual el Ministerio de Hacienda incluirá en los Presupuestos Generales del Estado del ejercicio siguiente una dotación condicionada a la aprobación del contrato sobre la base de la propuesta inicial aprobada por el Consejo Rector de acuerdo con el apartado 5.
+
+8\. La Presidencia informará al Ministerio de Transportes y Movilidad Sostenible y a los órganos competentes de los Ministerios de Hacienda y para la Transformación Digital y de la Función Pública, acerca de la ejecución y cumplimiento de los objetivos de la Agencia fijados en el Contrato de gestión plurianual.
+
+> Se modifican los apartados 1, 5, 6, 7 y 8 por el art. 15.9 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Artículo 12. El plan de acción anual, el informe de actividad y las cuentas anuales.
+
+1\. El Director propondrá al Consejo Rector para su aprobación:
+
+a) Las propuestas del plan de acción anual que contendrá, para el ejercicio correspondiente, las previsiones establecidas en consonancia con el contrato plurianual de gestión vigente.
+
+b) El informe general de actividad correspondiente al año inmediatamente anterior, con anterioridad al 30 de junio del año en curso.
+
+c) Las cuentas anuales acompañadas del informe de auditoria de cuentas, con anterioridad al 30 de junio del año en curso.
+
+2\. Los documentos a que se refiere este artículo son públicos, teniendo los ciudadanos acceso a su contenido desde su aprobación, excepto aquellos aspectos que puedan comprometer la seguridad aérea.
+
+3\. Para garantizar el libre acceso al contenido de estos documentos, serán publicados en la página de Internet de la Agencia y editados en documentos al efecto.
+
+4\. La Agencia, a través del Ministerio de Fomento, remitirá anualmente a las Cortes Generales el informe general de actividad aprobado por el Consejo Rector, relativo a las tareas de la Agencia y al grado de cumplimiento de sus objetivos.
+
+> Se modifica la letra a) del apartado 1 por el art. 15.10 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## CAPÍTULO IV — Organización
+
+### Sección 1.ª Órganos de gobierno
+
+##### Artículo 13. Órganos de gobierno.
+
+1\. Los órganos de gobierno de la Agencia son la Presidencia y el Consejo Rector.
+
+2\. La designación de los miembros del Consejo Rector se ajustará al criterio de paridad entre hombre y mujer.
+
+> Se modifica el apartado 1 por el art. 15.11 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Artículo 14. La Presidencia.
+
+La Presidencia de la Agencia corresponde a la persona titular de la Secretaría General de Transportes Aéreo y Marítimo.
+
+> Se modifica por el art. 15.12 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Artículo 15. Funciones de la Presidencia.
+
+El Presidente ostenta la representación del Consejo Rector, dirige y preside sus reuniones y ejercerá, además, las siguientes funciones:
+
+a) Ostentar la máxima representación de la Agencia tanto a nivel institucional como internacional.
+
+b) Proponer al Consejo Rector el nombramiento o separación del Director de la Agencia y de los miembros de la Comisión de Control.
+
+c) Conferir poderes generales o especiales a persona o personas determinadas.
+
+d) Presentar al Consejo Rector la propuesta de Contrato de gestión plurianual, para su aprobación por éste, y su posterior remisión a los Ministerios de Transportes y Movilidad Sostenible, para la Transformación Digital y de la Función Pública y de Hacienda en los términos del artículo 11. Asimismo presentará la propuesta de plan de acción prevista en el artículo 12.
+
+e) Informar a los Ministerios de Transportes y Movilidad Sostenible, para la Transformación Digital y de la Función Pública y de Hacienda acerca de la ejecución y cumplimiento de los objetivos fijados en el Contrato de gestión.
+
+f) Remitir las cuentas anuales al Tribunal de Cuentas, por conducto de la Intervención General del Estado, de acuerdo con la normativa presupuestaria.
+
+g) Comparecer ante el Congreso de los Diputados y el Senado, a requerimiento de éstos, a fin de informar acerca del desarrollo del Contrato de gestión y demás aspectos de la gestión de la Agencia y remitir a las Cortes Generales o a las Comisiones parlamentarias que correspondan, a través de la persona titular del Ministerio de Transportes y Movilidad Sostenible, el informe general de actividad aprobado por el Consejo Rector, relativo a las tareas de la Agencia y al grado de cumplimiento de sus objetivos.
+
+> Se modifica el título y las letras d), e) y g) por el art. 15.13 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Artículo 16. Composición del Consejo Rector.
+
+1\. El Consejo Rector es el órgano de gobierno colegiado de la Agencia.
+
+2\. El Pleno del Consejo Rector estará integrado por la persona titular de la Presidencia de la Agencia, que lo será también del Consejo, las vocalías y la persona titular de la Secretaría.
+
+3\. Las personas titulares de la Dirección de la Agencia y de la Dirección General de Aviación Civil son miembros natos del Consejo Rector. Las demás personas titulares de vocalías serán nombradas y separadas por la persona titular del Ministerio de Transportes y Movilidad Sostenible, siendo designadas del siguiente modo:
+
+a) Tres serán designadas a propuesta de la persona titular del Ministerio de Transportes y Movilidad Sostenible, entre personal funcionario con rango mínimo de Subdirección General y profesionales independientes con experiencia en el ámbito de la aviación civil o de la gestión pública.
+
+b) Una será designada a propuesta de la persona titular del Ministerio de Hacienda, con rango mínimo de Dirección General.
+
+c) Una será designada a propuesta de la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico, con rango mínimo de Dirección General.
+
+d) Una será designada a propuesta de la persona titular del Ministerio Defensa.
+
+e) Una será designada a propuesta de la persona titular del Ministerio para la Transformación Digital y de la Función Pública con rango mínimo de Dirección General.
+
+4\. Por el conjunto de las organizaciones sindicales más representativas se designarán dos representantes de las personas trabajadoras en el Consejo Rector.
+
+5\. La persona titular de la Secretaría asistirá a sus sesiones con voz, pero sin voto y será designada por el Consejo Rector a propuesta de la persona titular de la Presidencia de la Agencia, de entre el personal funcionario de carrera de la Agencia. La designación de su sustituto seguirá el mismo criterio de designación que la del titular de la Secretaría.
+
+6\. Los miembros del Consejo Rector guardarán el debido sigilo respecto a los asuntos de los que conozcan como miembros de dicho órgano.
+
+7\. En caso de vacante, ausencia, enfermedad u otra causa legal, la persona titular de la Presidencia será sustituida por la persona de mayor jerarquía, antigüedad y edad, por este orden, de las previstas en el apartado 3.
+
+> Se modifica por el art. 15.14 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Artículo 17. Funciones del Consejo Rector.
+
+1\. Al Consejo Rector le corresponden, conforme al presente estatuto y de acuerdo con lo establecido en la legislación vigente, las siguientes funciones:
+
+a) El seguimiento, la supervisión y el control superiores de la actuación de la Agencia.
+
+b) La aprobación de la propuesta del Contrato de gestión plurianual de la Agencia, así como la aprobación de la propuesta de los objetivos y planes de acción anuales, los criterios cuantitativos y cualitativos de medición de cumplimiento de dichos objetivos y del grado de eficiencia en la gestión, en el marco de lo establecido en el Contrato de gestión.
+
+c) La aprobación del anteproyecto de presupuesto de la Agencia.
+
+d) La propuesta a la persona titular del Ministerio de Hacienda, a iniciativa de la persona titular de la Dirección de la Agencia, de las variaciones de la cuantía global del presupuesto y las que afecten a gastos de personal, de acuerdo con el artículo 108 sexies.3 de la Ley 40/2015, de 1 de octubre.
+
+e) La aprobación de cualesquiera obligaciones de carácter plurianual dentro de los límites fijados por el Contrato de gestión.
+
+f) El nombramiento de la persona titular de la Dirección de la Agencia, el control de su gestión y la exigencia de las responsabilidades que procedan.
+
+g) La aprobación del informe general de actividad correspondiente al año anterior, y de cuantos extraordinarios considere necesarios sobre la gestión, valorando los resultados obtenidos y consignando las deficiencias observadas.
+
+h) La aprobación de las cuentas anuales de la Agencia y del informe de gestión y la aplicación de resultados, a propuesta de la persona titular de la Dirección.
+
+i) La determinación de los criterios de selección del personal de la Agencia.
+
+j) La aprobación de la plantilla de personal laboral y de la relación de puestos de trabajo de la Agencia y la elaboración de la oferta anual de empleo de la Agencia para su inclusión en la oferta de empleo público estatal, de acuerdo con lo establecido en el Contrato de gestión.
+
+k) El nombramiento y cese, a propuesta de la persona que ostente la dirección de la Agencia, de las personas titulares de los órganos operativos y de la secretaría general de la Agencia.
+
+l) La determinación, a propuesta de la persona titular de la Dirección, de los criterios y porcentajes aplicables a la retribución como incentivo de rendimiento que percibe el personal directivo de la Agencia, en el marco de lo establecido en el Contrato de gestión.
+
+m) Dictar las normas internas de funcionamiento, desarrollo orgánico y de adopción de acuerdos del propio Consejo Rector y de la Agencia en lo no previsto en este estatuto, de acuerdo con el marco de actuación fijado en el Contrato de gestión.
+
+n) Acordar el ejercicio de las acciones y de los recursos que correspondan a la entidad en defensa de los intereses ante las Administraciones Públicas y los órganos judiciales de cualquier orden o jurisdicción, sin perjuicio de lo dispuesto en el artículo 20 c) de la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa.
+
+ñ) La autorización de las operaciones de crédito y demás operaciones de endeudamiento que pueda convenir la Agencia de acuerdo con el presente estatuto.
+
+o) La aprobación, a propuesta de la persona titular de la Dirección y previa autorización del Ministerio de Transportes y Movilidad Sostenible, de la cuantía de los precios y demás ingresos no tributarios que la Agencia esté autorizada a cobrar.
+
+p) Acordar la propuesta de creación o participación de la Agencia en el capital social de toda clase de sociedades mercantiles o fundaciones que estén relacionadas con sus actividades, con arreglo a lo previsto en el artículo 43.
+
+q) La aprobación de los acuerdos, pactos y convenios que considere convenientes o necesarios para la realización de los fines de la Agencia.
+
+r) Acordar el arrendamiento y adquisición de bienes inmuebles y la constitución de derechos reales, previo informe favorable del Ministerio de Economía y Hacienda.
+
+s) Acordar la creación del registro telemático de la Agencia.
+
+t) La aprobación del inventario de bienes y derechos de conformidad con lo establecido en la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+
+u) La declaración de innecesaridad de los bienes y derechos adscritos a la Agencia que resulten innecesarios para el cumplimiento de sus fines, proponiendo al Ministerio de Hacienda su desafectación y, en caso de ser desafectados, su enajenación conforme a lo prescrito en la Ley 33/2003, de 3 de noviembre. Las enajenaciones de cuantía superior a 20.000.000 euros habrán de ser autorizadas por el Consejo de Ministros, a propuesta del Ministerio de Hacienda.
+
+v) Las demás que se le atribuyan en la Ley 40/2015, de 1 de octubre, en este estatuto o en otras disposiciones.
+
+2\. El funcionamiento del Consejo Rector se ajustará a lo establecido, para los órganos colegiados. en la sección 3.ª capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre.
+
+> Se modifican los apartados 1, letras b), d), f), h), l), o), p), u) y v), y 2 por el art. 15.15 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica la letra k) del apartado 1 por la disposición final 1.2.5 del Real Decreto 160/2023, de 7 de marzo. [Ref. BOE-A-2023-6084](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6084)
+
+##### Artículo 18. Convocatoria y quórum del Consejo Rector.
+
+1\. El Consejo Rector se reunirá, previa convocatoria del Presidente y a iniciativa suya o a petición al menos, de la mitad de los consejeros, tantas veces como sea necesario para el desarrollo de las funciones de la Agencia y, al menos, seis veces al año.
+
+2\. La convocatoria del Consejo Rector se cursará por el Secretario por escrito al menos con cuarenta y ocho horas de antelación, recogiendo el orden del día de los asuntos a tratar.
+
+3\. Para la válida constitución del Consejo Rector, además del Presidente y del Secretario o de quienes los sustituyan, deberán estar presentes o representados, en primera convocatoria, la mitad de los consejeros y, en segunda convocatoria, la tercera parte de los mismos. Entre la primera y segunda convocatoria deberá transcurrir, al menos, el plazo de una hora.
+
+4\. Podrán asistir a las sesiones del Consejo Rector, con voz pero sin voto, todas aquéllas personas que sean convocadas por su Presidente, en calidad de expertos de las materias incluidas en el orden del día.
+
+5\. Asimismo, el Consejo Rector podrá acordar la constitución de grupos de trabajo compuestos por expertos independientes, para el estudio e informe de aquellos asuntos que éste determine. El acuerdo de constitución determinará el alcance, la duración y la composición de dichos grupos.
+
+##### Artículo 19. Adopción de acuerdos.
+
+Los acuerdos del Consejo Rector se tomarán por mayoría de votos de sus miembros, presentes o representados. En caso de empate, el Presidente tendrá voto de calidad.
+
+##### Artículo 20. Dietas por asistencia a las reuniones del Consejo Rector.
+
+Los miembros del Consejo Rector que asistan a sus reuniones percibirán, en su caso, las compensaciones económicas que autorice el Ministerio de Economía y Hacienda, a iniciativa del Ministerio de Fomento, de acuerdo con lo establecido en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio.
+
+##### Artículo 21. El Secretario.
+
+El Consejo Rector designará y separará, a propuesta del Presidente, un Secretario que asistirá a sus reuniones con voz pero sin voto.
+
+> Se modifica por el art. 2.1 del Real Decreto 1615/2008, de 3 de octubre. [Ref. BOE-A-2008-16301](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-16301)
+
+### Sección 2.ª Comisión de Control
+
+##### Artículo 22. Composición de la Comisión de Control.
+
+1\. La Comisión de Control estará compuesta por los siguientes miembros:
+
+a) Tres Vocales, elegidos por el Consejo Rector entre sus miembros.
+
+b) Un Presidente, elegido por los Vocales de la Comisión, y entre sus miembros.
+
+c) Un Secretario elegido por el Consejo Rector.
+
+2\. Los miembros de la Comisión de control no deberán desempeñar responsabilidades de gestión en la Agencia.
+
+3\. El Interventor Delegado en la Agencia podrá asistir a las reuniones de la Comisión de Control, con voz pero sin voto.
+
+> Se modifica el apartado 1.c) por el art. 2.2 del Real Decreto 1615/2008, de 3 de octubre. [Ref. BOE-A-2008-16301](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-16301)
+
+##### Artículo 23. Funciones de la Comisión de Control.
+
+Corresponde a la Comisión de Control informar al Consejo Rector sobre la ejecución del Contrato de gestión y, en general, sobre todos aquellos aspectos relativos a la gestión económico-financiera que deba conocer el propio Consejo, para lo que deberá:
+
+a) Elaborar para el Consejo Rector, con la periodicidad que el mismo decida, y al menos una vez al semestre, informes sobre el desarrollo y ejecución del Contrato de gestión.
+
+b) Supervisar el procedimiento y sistemas de elaboración de la información de gestión y financiera a someter al Consejo Rector.
+
+c) Revisar las cuentas anuales que deben someterse al Consejo Rector para su formulación de acuerdo con la normativa aplicable.
+
+d) Verificar el cumplimiento de las normas y plazos tanto relativas a la rendición de cuentas anuales y demás información que deban rendir por su pertenencia al sector público, como las contempladas en el Contrato de gestión.
+
+e) Vigilar el cumplimiento de las normas presupuestarias en la elaboración del presupuesto, así como en su ejecución a través del control del estado de ejecución presupuestaria mensualmente remitido a la Comisión de Control.
+
+f) Analizar todos los informes de control de la gestión económico financiera emitidos por los órganos a que se refiere el artículo 52 de este estatuto y proponer al Consejo Rector las estrategias encaminadas a corregir las debilidades que se pudieran poner de manifiesto.
+
+g) Colaborar en la formulación de un marco normalizado, sencillo y claro de comunicación de la información financiera y de gestión que periódicamente debe presentar éste al Consejo Rector, para la evaluación periódica del nivel de cumplimiento del Contrato de gestión.
+
+##### Artículo 24. Funcionamiento de la Comisión de Control.
+
+1\. La Comisión de Control se reunirá como mínimo cuatro veces al año y siempre que su Presidencia lo considere conveniente.
+
+2\. El funcionamiento y régimen aplicable a la Comisión de Control se ajustará al régimen previsto para los órganos colegiados en la sección 3.ª del capítulo II del título Preliminar de la Ley 40/2015, de 1 de octubre.
+
+3\. Los miembros de la Comisión de Control que asistan a sus reuniones percibirán, en su caso, las compensaciones económicas que autorice el Ministerio de Hacienda, a iniciativa del Ministerio de Transportes y Movilidad Sostenible, de acuerdo con lo establecido en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio.
+
+> Se modifica por el art. 15.16 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+### Sección 3.ª Estructura administrativa
+
+##### Artículo 25. La Dirección de la Agencia.
+
+1\. La Dirección es el órgano ejecutivo de la Agencia, responsable de la dirección y gestión ordinaria de la misma.
+
+2\. La persona titular de la Dirección de la Agencia será nombrada por el Consejo Rector a propuesta de la Presidencia entre titulados superiores, atendiendo a criterios de competencia profesional y experiencia. Del mismo modo, será separada del cargo por el Consejo Rector a propuesta de la Presidencia.
+
+3\. La persona titular de la Dirección de la Agencia tendrá la consideración de alto cargo a efectos de lo dispuesto en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado.
+
+> Se modifica por el art. 15.17 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Artículo 26. Funciones de la Dirección de la Agencia.
+
+1\. Como órgano ejecutivo de la Agencia, corresponden a la Dirección las siguientes funciones:
+
+a) Llevar a cabo la dirección y gestión ordinaria de la Agencia, velando por la consecución de los objetivos fijados en el Contrato de gestión y conforme a las directrices de actuación que fije el Ministerio de Transportes y Movilidad Sostenible como Ministerio de adscripción.
+
+b) Elaborar el proyecto de Contrato de gestión.
+
+c) Presentar al Consejo Rector, para su aprobación, los planes de acción anuales y plurianuales y el informe general de actividad del año anterior.
+
+d) Formular las cuentas anuales de la Agencia y proponer su aprobación al Consejo Rector.
+
+e) Elaborar el anteproyecto de presupuestos anuales.
+
+f) Ejecutar el presupuesto de la Agencia.
+
+g) Ejercer la iniciativa para la autorización de variaciones presupuestarias por la persona titular del Ministerio de Hacienda, o autorizar las variaciones presupuestarias, según lo dispuesto en el artículo 108 sexies de la Ley 40/2015, de 1 de octubre.
+
+h) Organizar, supervisar y controlar la aplicación de los precios públicos, tasas y tarifas que esté autorizada a cobrar y gestionar la Agencia, en orden a lograr una gestión eficaz y responsable.
+
+i) Ejercer la jefatura superior de todo el personal de la Agencia y la alta inspección de los servicios y la potestad disciplinaria mediante la resolución de los expedientes disciplinarios.
+
+j) Proveer los puestos de trabajo correspondientes al personal funcionario y laboral de la Agencia, resolviendo las convocatorias de puestos de trabajo de personal funcionario y contratando al personal laboral.
+
+k) Elaborar la plantilla de personal y la relación de puestos de trabajo de la Agencia dentro del marco de actuación en materia de recursos humanos que se establezca en el Contrato de gestión, y proponer su aprobación al Consejo Rector.
+
+l) Elaborar la previsión de necesidades de personal a incorporar en la oferta anual de empleo de la Agencia.
+
+m) Proponer al Consejo Rector el nombramiento y cese de los órganos y del resto de personal directivo.
+
+n) Aprobar y comprometer gastos, así como reconocer y pagar obligaciones, dando cuenta al Consejo Rector.
+
+o) Ejercer las competencias en materia patrimonial correspondientes a la Agencia, sin perjuicio de las atribuidas al Consejo Rector.
+
+p) Elaborar el inventario de bienes y derechos de la Agencia para su aprobación anual por el Consejo Rector.
+
+q) Resolver sobre aquellas cuestiones que afecten simultáneamente a varias direcciones operativas y las reclamaciones de responsabilidad patrimonial por la actividad de la Agencia.
+
+r) Impulsar la adecuada coordinación civil y militar dentro del ámbito de sus competencias.
+
+s) Cualesquiera otras funciones en materias de competencia de la Agencia que no hayan sido atribuidas expresamente a otro órgano.
+
+t) Desempeñar las demás facultades y funciones que le atribuya este estatuto y cualesquiera otras normas aplicables, así como las que le deleguen, en su caso, el Presidente o el Consejo Rector.
+
+2\. Podrán ser objeto de delegación en el personal directivo o en los restantes órganos internos de la Agencia, las competencias que correspondan a la Dirección, salvo las previstas en los apartados a), c), d), g), i), k), m), q) y s), y aquellas que por disposición legal o por su propia naturaleza no fueran susceptibles de delegación.
+
+3\. Asimismo la Dirección podrá avocar para sí el conocimiento de aquellos asuntos cuya resolución corresponda, ordinariamente o por delegación, a sus órganos administrativos dependientes, de acuerdo con lo previsto por la Ley 40/2015, de 1 de octubre.
+
+4\. En el ejercicio de sus competencias, la Dirección de la Agencia podrá acordar la constitución de grupos de trabajo para el estudio e informe de aquellos asuntos que determine. El acuerdo de constitución determinará el alcance, la duración y la composición de dichos grupos.
+
+> Se modifica el título y los apartados 1, letras a) y g), 2, 3 y 4 por el art. 15.18 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica la letra q) del apartado 1 por la disposición final 1.2.6 del Real Decreto 160/2023, de 7 de marzo. [Ref. BOE-A-2023-6084](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6084)
+
+##### Artículo 27. Órganos ejecutivos.
+
+Son órganos ejecutivos de la Agencia:
+
+a) La Dirección.
+
+b) La Secretaría General.
+
+c) Los órganos operativos establecidos en el artículo siguiente.
+
+> Se modifica por la disposición final 1.2.7 del Real Decreto 160/2023, de 7 de marzo. [Ref. BOE-A-2023-6084](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6084)
+
+##### Artículo 28. Órganos operativos.
+
+1\. Son órganos operativos las direcciones de seguridad encargadas de ejecutar las competencias sustantivas de la Agencia enumeradas en el artículo 9.
+
+2\. Las Direcciones de Seguridad de la Agencia serán las siguientes:
+
+a) La Dirección de Seguridad de Operaciones Aéreas para ejercer las competencias recogidas en el artículo 9.1, letras a), c), d), e), g), h), j), k) y ñ), en relación con el personal de vuelo y las escuelas de vuelo y, a través de la Subdirección de Operaciones de Transporte Aéreo Comercial, las correspondientes en relación con la seguridad de la operación de aeronaves, la explotación del transporte aéreo y los permisos comerciales.
+
+Asimismo, es competente para el ejercicio de las competencias previstas en el artículo 9.1, letra n), en materia de derechos de emisión de gases de efecto invernadero.
+
+b) La Dirección de Seguridad de Aeronaves, para ejercer las competencias recogidas en el artículo 9.1, letras a), c), d), e), g), h), j), k) y ñ), en los ámbitos del mantenimiento y la certificación de aeronaves.
+
+Asimismo, es competente para la gestión del Registro de matrícula de aeronaves prevista en el artículo 9.1, letra b).
+
+Las oficinas de seguridad en vuelo se integran en la estructura orgánica de la Dirección de Seguridad de Aeronaves.
+
+c) La Dirección de Gestión de la Seguridad y Soporte Operativo, para ejercer la competencia en materia de gestión de riesgos en materia de seguridad de la aviación civil, prevista en el artículo 9.1.f), así como las competencias previstas en el artículo 9.1, letras c), d), e), g), h), j), k) y ñ), en relación con la medicina aeronáutica y con la protección del usuario del transporte aéreo, incluida la resolución alternativa de litigios, la supervisión de los planes de asistencia a las víctimas de accidentes de aviación civil y sus familiares, el asesoramiento jurídico en materia aeronáutica y la formulación de propuestas normativas en el ámbito de la aviación civil para su elevación a los órganos competentes del Ministerio de Transportes y Movilidad Sostenible, así como el informe de los proyectos normativos que afecten al ámbito de competencias de la Agencia Estatal de Seguridad Aérea.
+
+d) La Dirección de Aeropuertos y Seguridad de la Aviación Civil, para ejercer las competencias recogidas en el artículo 9.1, letras a), c), d), e), g), h), j), k), m) y ñ), en el ámbito de los aeropuertos y de la seguridad de la aviación civil frente a los actos de interferencia ilícita. Asimismo, corresponde a esta Dirección el ejercicio de las funciones de facilitación en el transporte aéreo prevista en el artículo 9.1.i) y las que le correspondan como órgano sustantivo en la evaluación ambiental asociadas al artículo 9.1.l).
+
+e) La Dirección de Navegación Aérea, para ejercer las competencias recogidas en el artículo 9.1, letras a), c), d), e), g), h), j), k) l) y ñ), en los ámbitos de la navegación aérea, la supervisión económica de los proveedores de servicios civiles y de los sistemas de rendimiento y de tarificación de navegación aérea.
+
+f) La Dirección de Cooperación Técnica Exterior, para ejercer las competencias recogidas en el artículo 9.1, letras d), j) y ñ), en lo concerniente a la coordinación y gestión y ejecución de las mismas en el ámbito internacional, incluyendo las labores generales de coordinación de iniciativas de la Agencia en su ámbito de responsabilidad frente a organismos, asociaciones y foros internacionales.
+
+> Se modifica el apartado 2 por el art. 15.19 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica por la disposición final 1.2.8 del Real Decreto 160/2023, de 7 de marzo. [Ref. BOE-A-2023-6084](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6084)
+
+##### Artículo 29. Secretaría General.
+
+La Secretaría General es el órgano de la Agencia al que corresponden las funciones siguientes:
+
+a) La selección, gestión y formación de recursos humanos.
+
+b) La inspección general de servicios y la instrucción de expedientes disciplinarios.
+
+c) La planificación y ejecución de la política de prevención de riesgos laborales y las relaciones laborales.
+
+d) La gestión presupuestaria y de tesorería, y la llevanza del registro de la Agencia.
+
+e) La contratación de bienes y servicios necesarios para el desempeño de las competencias de la Agencia.
+
+f) La propuesta de establecimiento y modificación de precios públicos, tasas y tarifas derivadas del ejercicio de las competencias correspondientes a la Agencia.
+
+g) La gestión patrimonial de los bienes de su titularidad, de los que sean adscritos y de aquellos cuya gestión se encomiende.
+
+h) La gestión, liquidación y recaudación de ingresos por sanciones y tasas, de conformidad con lo establecido en la Ley 66/1997, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, respecto a las tasas por prestación de servicios y realización de actividades en materia de navegación aérea y sus posteriores modificaciones. Asimismo, el establecimiento, modificación, gestión, liquidación y cobro de precios públicos, tarifas y honorarios derivados de otros servicios y actividades que pudiesen ser prestados a terceros.
+
+i) A través de la Subdirección de Servicios Jurídicos, la asistencia jurídica, la propuesta de resolución de procedimientos sancionadores, recursos administrativos y de las reclamaciones de responsabilidad patrimonial que se formulen respecto de la actuación de la Agencia, sin perjuicio de lo previsto en el artículo 5. También asumirá el ejercicio de las funciones del Delegado de Protección de Datos y del responsable del Sistema Interno de Información.
+
+j) La planificación, desarrollo y mantenimiento de los sistemas de información, la adquisición e implantación de infraestructuras físicas y lógicas de soporte a dichos sistemas y la protección y seguridad de los mismos.
+
+k) Las competencias recogidas en el artículo 9.1, letra ñ), en el ámbito de sus funciones.
+
+l) El análisis y diseño de los sistemas de información necesarios, la asistencia técnica y el desarrollo informático de los servicios de la Agencia.
+
+> Se modifican las letras i), j) y k) por el art. 15.20 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Artículo 30. Desarrollo de la estructura.
+
+El Consejo Rector podrá desarrollar y delimitar las funciones y competencias de las unidades organizativas con rango inferior a los órganos contenidos en este estatuto, siempre de acuerdo con lo establecido en el mismo y en el Contrato de gestión.
+
+## CAPÍTULO V — Régimen de personal
+
+##### Artículo 31. Principios generales.
+
+1\. El personal de la Agencia estará integrado por personal funcionario y laboral, que se rige respectivamente por la normativa reguladora de los funcionarios públicos de la Administración General del Estado, con las especialidades previstas en la Ley 40/2015, de 1 de octubre, y en este estatuto, así como por el texto refundido de la Ley del Estatuto de los Trabajadores aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, y por el resto de la normativa laboral. Asimismo, al personal de la Agencia le serán de aplicación el Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo.
+
+2\. Los puestos de trabajo podrán ser provistos, de conformidad con el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado mediante Real Decreto Legislativo 5/2015, de 30 de octubre y la Ley 40/2015, de 1 de octubre, por personal de la Administración General del Estado o, en su caso, de otras administraciones públicas. A tal efecto, las relaciones de puestos de trabajo se elaborarán posibilitando esta previsión.
+
+> Se modifica por el art. 15.21 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Artículo 32. Incompatibilidades.
+
+El personal de la Agencia estará sujeto al régimen de incompatibilidades establecido en la Ley 53/1984 de 26 de diciembre, de Incompatibilidades del personal al servicio de las administraciones públicas y sus posteriores modificaciones y adaptaciones.
+
+##### Artículo 33. Procedimiento de selección.
+
+1\. En el período previsto en el Contrato de gestión, la Agencia determinará sus necesidades de personal a cubrir mediante pruebas selectivas. Aprobado el Contrato de gestión, la previsión de necesidades de personal se incorporará a la oferta anual de empleo de la Agencia, que se integrará en la oferta de empleo público estatal, de conformidad con lo que establezca la Ley de Presupuestos Generales del Estado.
+
+2\. El personal laboral al servicio de la Agencia será seleccionado mediante órganos de selección propios, basándose en los principios de igualdad, mérito y capacidad, así como de acceso al empleo público de las personas con discapacidad.
+
+3\. Para la selección del personal funcionario, las convocatorias se efectuarán por el Ministerio al que se encuentren adscritos los Cuerpos o Escalas correspondientes, o por la propia Agencia mediante la suscripción del correspondiente convenio con el Ministerio de Fomento cuando se trate de Cuerpos o Escalas adscritos a dicho Ministerio.
+
+##### Artículo 34. Ordenación de puestos de trabajo.
+
+La Agencia dispondrá de su propia plantilla de personal y relación de puestos de trabajo, aprobada por el Consejo Rector, dentro del marco de actuación que, en materia de recursos humanos, se establezca en el Contrato de gestión.
+
+##### Artículo 35. Provisión de puestos de trabajo.
+
+La Agencia elaborará, convocará y, a propuesta de los órganos especializados de selección de personal, resolverá las correspondientes convocatorias de provisión de puestos de trabajo de personal funcionario en sus diversas modalidades, de conformidad con los principios generales y procedimientos de provisión establecidos en la normativa de función pública.
+
+##### Artículo 36. Régimen retributivo.
+
+1\. Los conceptos retributivos del personal funcionario y de la Agencia son los establecidos en la normativa de función pública de la Administración General del Estado, y sus cuantías se determinarán en el marco correspondiente del Contrato de gestión, de conformidad con lo establecido en dicha normativa y en las leyes de Presupuestos Generales del Estado.
+
+2\. Los titulares de las direcciones y de la Secretaría General percibirán el complemento de destino correspondiente a los puestos de trabajo de nivel 30, los titulares de las subdirecciones percibirán el complemento de destino correspondiente a los puestos de trabajo de nivel 29 y los titulares de las oficinas de seguridad en vuelo percibirán el complemento de destino correspondiente al nivel 28.
+
+3\. Las condiciones retributivas del personal laboral se determinarán en función del convenio colectivo de aplicación y del respectivo contrato de trabajo, y sus cuantías se fijarán de acuerdo con lo contemplado en el Contrato de gestión.
+
+4\. La cuantía de la masa salarial destinada al complemento de productividad, o concepto equivalente del personal laboral, está en todo caso vinculada al grado de cumplimiento de los objetivos fijados en el Contrato de gestión, de acuerdo con el procedimiento que en él se determine.
+
+Mediante el establecimiento y aplicación de un sistema de evaluación del desempeño, el personal de la Agencia percibirá una parte de sus retribuciones como retribución variable, asociada a su contribución a los objetivos a que hace referencia el párrafo anterior, sin que en ningún caso pueda superarse la cuantía de la masa determinada según el procedimiento que disponga el Contrato de gestión.
+
+##### Artículo 37. Personal directivo.
+
+1\. Se considera personal directivo al que desarrolla funciones directivas profesionales mediante la ocupación de puestos de trabajo de especial responsabilidad, competencia técnica y relevancia de las tareas asignadas.
+
+2\. Las personas titulares de las direcciones de seguridad, de la Secretaría General, de las subdirecciones que se integren en las direcciones y en la Secretaría General, y de la División de Control de Seguridad de Operaciones en Vuelo son personal directivo de la Agencia.
+
+3\. El personal directivo de la Agencia es nombrado y cesado por el Consejo Rector, a propuesta de la persona titular de la Dirección, entre titulados superiores, funcionarios, atendiendo a los criterios de competencia profesional y experiencia, así como a lo establecido en el artículo 108.quater de la Ley 40/2015, de 1 de octubre.
+
+Atendiendo a la especial competencia requerida para su desempeño, de acuerdo con lo previsto en el artículo 108.quater de la Ley 40/2015, de 1 de octubre, la División de Control de Seguridad de Operaciones en Vuelo, unidad administrativa dependiente de la Dirección de Operaciones Aéreas, se cubrirá en régimen laboral mediante contrato de alta dirección.
+
+4\. El proceso de selección podrá ser realizado por órganos especializados de selección de personal, que formularán propuesta motivada, incluyendo tres candidatos para cada puesto a cubrir, debiendo respetar en todo el proceso los principios de merito, capacidad y publicidad.
+
+5\. El personal directivo está sujeto, en el desarrollo de sus cometidos, a evaluación con arreglo a los criterios de eficacia, eficiencia y cumplimiento de la legalidad, responsabilidad por su gestión y control de resultados en relación con los objetivos que le hayan sido fijados.
+
+6\. El personal directivo percibirá una parte de su retribución como incentivo de rendimiento, mediante el complemento correspondiente que valore el cumplimiento de los objetivos fijados, de acuerdo con los criterios y porcentajes que se establezcan por el Consejo Rector, a propuesta del Director, en el marco de lo establecido en el Contrato de gestión.
+
+> Se modifican los apartados 2 y 3 por el art. 15.22 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## CAPÍTULO VI — Régimen patrimonial, financiero y contratación
+
+### Sección 1.ª Patrimonio y contratación
+
+##### Artículo 38. Régimen patrimonial.
+
+1\. La Agencia tiene, para el cumplimiento de sus fines, un patrimonio propio, distinto del de la Administración General del Estado, integrado por el conjunto de bienes y derechos de los que es titular. Asimismo quedarán adscritos a la Agencia para el cumplimiento de sus fines los bienes de patrimonio del Estado de cualquier titularidad que así se acuerde.
+
+2\. La gestión y administración de los bienes y derechos propios así como de aquellos del patrimonio del Estado que se les adscriba para el cumplimiento de sus fines, será ejercida de acuerdo con lo señalado en este estatuto, con sujeción en todo caso a lo establecido para los organismos públicos en la Ley 33/2003, de 3 de noviembre.
+
+##### Artículo 39. Régimen jurídico de los bienes propios.
+
+La Agencia puede adquirir toda clase de bienes y derechos por cualquiera de los modos admitidos en el ordenamiento jurídico.
+
+La adquisición de bienes inmuebles o de derechos sobre los mismos requerirá el previo informe favorable del Ministerio de Economía y Hacienda.
+
+##### Artículo 40. Régimen jurídico de los bienes adscritos.
+
+La adscripción y desadscripción de bienes por parte de la Administración General del Estado se regirá por la legislación reguladora del patrimonio de las administraciones públicas, conservando aquéllos su calificación y titularidad jurídica originaria y correspondiendo a la Agencia el ejercicio de las competencias demaniales, así como la vigilancia, protección jurídica, defensa, administración, conservación, mantenimiento y demás actuaciones que requiera el correcto uso y utilización de los mismos y cuantas prerrogativas referentes al dominio público y a los bienes patrimoniales del Estado se encuentren legalmente establecidas.
+
+##### Artículo 41. Bienes de la Agencia.
+
+Pertenecen al patrimonio de la Agencia para el cumplimiento de sus funciones:
+
+a) Los bienes muebles actualmente adscritos a los servicios de la Dirección General de Aviación Civil que se integren en la Agencia.
+
+b) La totalidad de los bienes actualmente adscritos a las oficinas de seguridad en vuelo.
+
+c) Las aeronaves que sean propiedad de la Dirección General de Aviación Civil.
+
+##### Artículo 42. Inventario.
+
+La Agencia formará y mantendrá actualizado el inventario de sus bienes y derechos, así como de los que le hayan sido adscritos para el cumplimiento de sus fines, con excepción de los de carácter fungible. El inventario se actualizará anualmente con referencia al 31 de diciembre y se someterá a la aprobación del Consejo Rector en el primer trimestre del ejercicio siguiente.
+
+##### Artículo 43. Participación o creación de sociedades y fundaciones.
+
+1\. Para el mejor cumplimiento de sus fines, la Agencia podrá proponer la creación o la participación en sociedades mercantiles o fundaciones cuyo objeto sea acorde con los objetivos de la Agencia.
+
+2\. La aprobación de la propuesta de participación deberá ser aprobada por el Consejo Rector, y en su caso, deberá someterse a la autorización prevista en el artículo 169 de la Ley 33/2003, de 3 de noviembre o en el artículo 45 de la Ley 50/2002, de 26 de diciembre, de Fundaciones, según se trate de sociedades mercantiles estatales o de fundaciones del sector público estatal.
+
+> Se modifica el apartado 1 por el art. 15.23 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+##### Artículo 44. Contratación.
+
+1\. La Agencia ajustará su actividad contractual a las normas que rigen la contratación en las administraciones públicas.
+
+2\. El Director será el órgano de contratación de la Agencia, pudiendo delegar la celebración de contratos en el Secretario General.
+
+3\. A efectos de lo señalado en la legislación sobre contratación de los entes del sector público y demás normativa pública de contratación que resulte de aplicación, la Agencia tendrá la consideración de medio propio y servicio técnico de la Administración General del Estado y de sus organismos y entidades de Derecho Público, pudiendo encomendarle la realización de trabajos y tareas incardinadas en el ámbito de sus competencias. Las encomiendas establecerán los términos y condiciones de realización de los citados trabajos o tareas.
+
+Las tarifas de los servicios prestados por la Agencia Estatal de Seguridad Aérea en su condición de medio propio instrumental serán aprobadas por resolución del Secretario General de Transportes que será publicada en el «Boletín Oficial del Estado».
+
+### Sección 2.ª Medios económico-financieros
+
+##### Artículo 45. Financiación.
+
+1\. La Agencia Estatal de Seguridad Aérea se financiará con los siguientes recursos:
+
+a) Las transferencias consignadas en los Presupuestos Generales del Estado.
+
+b) Los ingresos propios que perciba como contraprestación por las actividades que pueda realizar, en virtud de contratos, convenios o disposición legal, para otras entidades públicas, privadas o personas físicas.
+
+c) La enajenación de bienes muebles y valores que constituyen su patrimonio.
+
+d) Los rendimientos de los bienes y valores que constituyan su patrimonio.
+
+e) Los ingresos obtenidos por la liquidación de precios públicos y tarifas derivados de la realización de sus actividades, así como los provenientes de tasas afectadas a la Agencia.
+
+f) El producto de las sanciones que se recauden en aplicación de la Ley 21/2003, de 7 de julio.
+
+g) Las aportaciones voluntarias, donaciones, herencias y legados, subvenciones y otras aportaciones a título gratuito de entidades privadas y de particulares.
+
+h) Las aportaciones que se concedan a su favor procedentes de fondos específicos de la Unión Europea, de otras administraciones públicas y de cualesquiera entes públicos.
+
+i) Los ingresos recibidos de personas físicas o jurídicas como consecuencia del patrocinio de actividades o instalaciones.
+
+j) Los demás ingresos de derecho público o privado que esté autorizada a percibir.
+
+2\. Los recursos que se deriven de los apartados b), g), e i) del apartado anterior y no se contemplen inicialmente en el presupuesto de la Agencia, se podrán destinar, mediante resolución del Director, a financiar mayores gastos, con excepción de lo previsto en el artículo 47.3 respecto de los gastos de personal.
+
+3\. La Agencia podrá utilizar para la efectividad de sus débitos con naturaleza de ingresos de derecho público y a través de sus propios servicios, el procedimiento administrativo de apremio.
+
+Asimismo, podrá convenir con la Agencia Estatal de Administración Tributaria la gestión recaudatoria de dichos ingresos, en la forma prevista en el Reglamento General de Recaudación, aprobado por el Real Decreto 939/2005, de 29 de julio.
+
+4\. La Agencia asume la gestión y la recaudación de los ingresos de derecho público que tenga afectados y, en particular, la gestión y la recaudación en periodo voluntario de la tasa por la prestación de servicios y realización de actividades en materia de navegación aérea, establecida por la Ley 66/1997, de 30 de diciembre, de medidas fiscales, administrativas y de orden social, de conformidad con lo establecido en el marco de la Ley 8/1989, de 13 de abril, de tasas y precios públicos y demás disposiciones aplicables.
+
+Asimismo corresponde a la Agencia la recuperación de los costes de navegación aérea en ruta derivados de actividades realizadas por la Agencia para el sostenimiento de la red de ayudas a la navegación y la gestión y recaudación de los ingresos por sanciones derivados de infracciones a la legislación aeronáutica.
+
+5\. En la medida en que la Agencia tenga capacidad para generar recursos propios suficientes, ésta podrá financiarse mediante la obtención de préstamos concedidos con cargo a los créditos previsto en el Capítulo VIII de los Presupuestos Generales del Estado, adjudicados de acuerdo con procedimientos de pública concurrencia, destinados a financiar proyectos de investigación y desarrollo.
+
+##### Artículo 46. Endeudamiento.
+
+La Agencia no podrá recurrir al endeudamiento salvo en el caso de desfases temporales de tesorería, en que la Agencia podrá recurrir a la contratación de pólizas de crédito o préstamo, siempre que el saldo vivo no supere el cinco por ciento de su presupuesto.
+
+## CAPÍTULO VII — Gestión económica y control
+
+##### Artículo 47. Régimen presupuestario.
+
+1\. El Consejo Rector aprobará anualmente su anteproyecto de presupuesto y lo remitirá, a través del Ministerio de Fomento, al Ministerio de Economía y Hacienda, conforme a lo dispuesto en el Contrato de gestión y a lo previsto en este artículo.
+
+2\. La estructura del presupuesto de la Agencia será establecida por el Ministerio de Economía y Hacienda, así como la documentación que se debe acompañar al mismo.
+
+3\. El presupuesto de gastos de la Agencia tendrá carácter limitativo por su importe global y carácter estimativo para la distribución de los créditos en categorías económicas, con excepción de los correspondientes a gastos de personal que en todo caso tienen carácter limitativo y vinculante por su cuantía total.
+
+4\. Los remanentes de crédito que resulten de la liquidación del ejercicio presupuestario no afectados a la financiación del presupuesto del ejercicio siguiente, podrán aplicarse al presupuesto de ingresos y destinarse a financiar incrementos de gasto, teniendo en cuenta lo previsto en el apartado anterior, por acuerdo del Director del que se dará cuenta a la Comisión de Control. El déficit derivado del incumplimiento de las estimaciones de ingresos anuales se compensan en la forma que se prevea en el Contrato de gestión.
+
+5\. Las modificaciones presupuestarias corresponderán:
+
+a) Al Ministerio de Economía y Hacienda, las variaciones de la cuantía global del presupuesto y las que afecten a gastos de personal, a iniciativa del Director y a propuesta del Consejo Rector, salvo las previstas en el apartado siguiente.
+
+b) Al Director le corresponderán las restantes variaciones incluso en la cuantía global cuando sean financiadas con recursos derivados del artículo 45.2 por encima de los inicialmente presupuestados y existan garantías suficientes de su efectividad, dando cuenta inmediata a la Comisión de Control, así como a la Dirección General de Presupuestos del Ministerio de Economía y Hacienda, para su toma de razón.
+
+##### Artículo 48. Ejecución del presupuesto.
+
+La ejecución del presupuesto de la Agencia corresponde al Director, que remitirá mensualmente a la Comisión de Control un estado de ejecución presupuestaria.
+
+##### Artículo 49. Ejercicio económico.
+
+El ejercicio económico se computará por períodos anuales, comenzando el día 1 de enero de cada año.
+
+##### Artículo 50. Régimen contable y de información económica.
+
+1\. La Agencia aplicará los principios contables que le correspondan de acuerdo con lo establecido en el artículo 121 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, con la finalidad de asegurar el adecuado reflejo de las operaciones, los costes y los resultados de su actividad, así como de facilitar datos e información con trascendencia económica.
+
+2\. Los criterios de aplicación de la normativa contable de la Agencia corresponden a la Intervención General del Estado, en los términos establecidos por la legislación presupuestaria.
+
+3\. La Agencia dispondrá de:
+
+a) Un sistema de información económica que:
+
+(i) Muestre, a través de estados e informes, la imagen fiel del patrimonio, de la situación financiera, de los resultados y de la ejecución del presupuesto.
+
+(ii) Proporcione información de costes sobre su actividad que sea suficiente para una correcta y eficiente adopción de decisiones.
+
+b) Un sistema de contabilidad de gestión que permita efectuar el seguimiento del cumplimiento de los compromisos asumidos en el Contrato de gestión.
+
+4\. La Agencia observará los requerimientos funcionales y, en su caso los procedimientos informáticos, que al efecto establezca la Intervención General del Estado de acuerdo con lo dispuesto en el artículo 125 de la Ley 47/2003, de 26 de noviembre.
+
+##### Artículo 51. Cuentas anuales.
+
+1\. Las cuentas anuales de la Agencia se formularán por el Director en el plazo de tres meses desde el cierre del ejercicio económico. Una vez auditadas las cuentas por la Intervención General de la Administración del Estado, se someterán a la aprobación del Consejo Rector antes del 30 de junio del año siguiente al que se refieran.
+
+2\. Las cuentas aprobadas por el Consejo Rector, se remitirán a través de la Intervención General de la Administración del Estado, al Tribunal de Cuentas para su fiscalización. La remisión a la Intervención General se realizará dentro de los siete meses siguientes a la terminación del ejercicio económico.
+
+##### Artículo 52. Modalidades de control.
+
+1\. El control externo de la gestión económico-financiera de la Agencia corresponde al Tribunal de Cuentas, de acuerdo a su normativa específica.
+
+2\. El control interno de la gestión económico-financiera de la Agencia corresponde a la Intervención General del Estado, y se realizará bajo las modalidades de control financiero permanente y de auditoría pública, en las condiciones y en los términos establecidos en la Ley 47/2003, de 26 de noviembre. El control financiero permanente se realizará por la Intervención Delegada en la Agencia, bajo la dependencia funcional de la Intervención General de la Administración del Estado.
+
+3\. Sin perjuicio del control establecido en el número anterior, la Agencia estará sometida a un control de eficacia que será ejercido, mediante el seguimiento del Contrato de gestión, por el Ministerio de Transportes y Movilidad Sostenible a través de la inspección de servicios. Dicho control tiene por finalidad comprobar el grado de cumplimiento de los objetivos y la adecuada utilización de los recursos asignados.
+
+4\. El organismo estará sometido a la supervisión continua del Ministerio de Hacienda, a través de la Intervención General de la Administración del Estado, conforme a lo dispuesto en el artículo 85.3 de la referida Ley 40/2025, de 1 de octubre.
+
+> Se modifica el apartado 3 y se añade el apartado 4 por el art. 15.24 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)

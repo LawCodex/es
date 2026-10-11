@@ -1,0 +1,1205 @@
+---
+title: "Acuerdo de 5 de julio de 1990, del Pleno del Tribunal Constitucional, por el que se aprueba el Reglamento de Organización y Personal del Tribunal Constitucional"
+identifier: "BOE-A-1990-18696"
+eli: "https://www.boe.es/eli/es/a/1990/07/05/(1)"
+type: agreement
+rank: "Acuerdo"
+jurisdiction: es
+language: es
+department: "Tribunal Constitucional"
+date: 1990-07-05
+published: 1990-08-03
+in_force_from: 1990-08-03
+last_amended: 2026-07-27
+consolidated: 2026-07-27
+gazette: "Boletín Oficial del Estado núm. 185"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-18696"
+retrieved: 2026-10-11
+---
+
+# Acuerdo de 5 de julio de 1990, del Pleno del Tribunal Constitucional, por el que se aprueba el Reglamento de Organización y Personal del Tribunal Constitucional
+
+Incluye la corrección de errores publicada en BOE núm. 260, de 30 de octubre de 1990. [Ref. BOE-A-1990-26298](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-26298).
+
+El Pleno del Tribunal Constitucional, en ejercicio de la competencia definida en el artículo 2.2, en relación con el artículo 10, j), de la Ley Orgánica 2/1979, de 3 de octubre, ha aprobado el siguiente Reglamento
+
+**TRIBUNAL CONSTITUCIONAL**
+
+**REGLAMENTO DE ORGANIZACIÓN Y PERSONAL**
+
+El Tribunal Constitucional, en su reunión plenaria del día 5 de julio de 1990 y en ejercicio de la competencia definida en el artículo 2.º, párrafo segundo, en relación con el apartado j) del articulo 10 de la Ley Orgánica 2/1979, de 3 de octubre, ha aprobado el siguiente Reglamento:
+
+## TÍTULO I — Organización y funcionamiento del Tribunal en materia gubernativa
+
+### CAPÍTULO I — De la organización, competencia y funcionamiento
+
+###### Art. 1.
+
+Las funciones de gobierno y administración del Tribunal Constitucional corresponden, en el ámbito de sus respectivas competencias, al Pleno, al Presidente, a la Junta de Gobierno y al Secretario general.
+
+#### Sección 1.ª Del Pleno Gubernativo
+
+###### Art. 2.
+
+Además de las competencias establecidas en la Ley Orgánica, corresponden al Pleno del Tribunal las siguientes:
+
+> Véase el artículo 10 de la Ley Orgánica del Tribunal Constitucional.
+
+a) Establecer la plantilla del personal y proponer a las Cortes Generales su modificación a través de la Ley de Presupuestos.
+
+b) Aprobar la relación de puestos de trabajo en el Tribunal Constitucional.
+
+> Véase el artículo 2 del Acuerdo del Pleno de 19 de diciembre de 2002 ([Ref. BOE-A-2022-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-25041).) por el que se aprueba una nueva relación de puestos de trabajo del personal a su servicio.
+
+c) Aprobar la jornada y el horario de trabajo del personal.
+
+d) Elegir y remover al Secretario general y, en su caso, al Secretario general adjunto.
+
+e) Aprobar las bases de la convocatoria de los concursos-oposición para el ingreso en el Cuerpo de Letrados.
+
+> Letra redactada conforme al Acuerdo del Pleno de 5 de octubre de 1994 ([Ref. BOE-A-2994-23074](https://www.boe.es/buscar/doc.php?id=BOE-A-2994-23074).).
+
+f) La designación de quienes, en régimen de adscripción temporal, hayan de incorporarse como letrados al Tribunal.
+
+g) Resolver sobre las incompatibilidades a que se refiere el artículo 96.3 de la Ley Orgánica del Tribunal.
+
+h) Acordar la separación o el cese de los letrados en los casos reglamentariamente establecidos.
+
+i) Aprobar el proyecto de presupuesto del Tribunal para su incorporación a los Presupuestos Generales del Estado y proponer o aprobar, según proceda, las modificaciones que resulte oportuno introducir en dicho presupuesto, siempre que las mismas no correspondan, según la legislación aplicable, al Presidente del Tribunal.
+
+j) Establecer las directrices para la ejecución del presupuesto y fijar los límites dentro de los cuales las autorizaciones de gasto deberán ser puestas previamente en conocimiento del Pleno o, en su caso, de la Junta de Gobierno.
+
+k) Fiscalizar el cumplimiento de las directrices para la ejecución del presupuesto y conocer de su liquidación, formulada por el Secretario general.
+
+> Los apartados d), f), h), j) y k) figuran redactados conforme al Acuerdo del Pleno de 1 de abril de 2011 ([Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).).
+
+l) Decidir las cuestiones que afecten a los Magistrados no atribuidas al Presidente.
+
+m) Designar al Interventor al servicio del Tribunal, acordar libremente su cese y resolver, a propuesta del Presidente, las discrepancias que surjan entre el Secretario general y el Interventor.
+
+n) Cuantas otras competencias atribuyan al Pleno este Reglamento y las demás normas reglamentarias que adopte el Tribunal.
+
+> Se modifican los apartados d), f), h), j), y k), por el art. único.1 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Se modifican las letras e) y f) por el art. único.1 y 2 del Acuerdo de 5 de octubre de 1994. [Ref. BOE-A-1994-23074](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-23074).
+
+###### Art. 3.
+
+A propuesta del Presidente, el Pleno del Tribunal podrá deliberar y, en su caso, pronunciarse sobre cualesquiera otros asuntos que afecten a la organización y administración del Tribunal, siempre que los mismos no sean de la competencia de la Junta de Gobierno.
+
+###### Art. 4.
+
+El Presidente convocará el Pleno por propia iniciativa y cuando lo pidan, al menos, tres Magistrados.
+
+###### Art. 5.
+
+La convocatoria del Pleno se hará con tres días de antelación, salvo que, a juicio del Presidente, la urgencia del caso no permita cumplir ese plazo. A la convocatoria se acompañará el orden del día y los antecedentes que fuesen precisos para la deliberación, salvo que por la índole de los asuntos a tratar no resulte ello aconsejable.
+
+###### Art. 6.
+
+El Tribunal en Pleno quedará válidamente constituido, aunque no hubieren precedido los requisitos de la convocatoria, cuando se hallen reunidos todos los Magistrados y así lo acuerden por unanimidad. En los mismos términos se podrá anticipar una reunión del Pleno previamente convocada.
+
+###### Art. 7.
+
+El Tribunal en Pleno puede adoptar acuerdos cuando estén presentes, al menos, dos tercios de los miembros que en cada momento lo compongan.
+
+> Véase el artículo 14 de la Ley Orgánica del Tribunal Constitucional.
+
+###### Art. 8.
+
+El Secretario general, cuando así lo disponga el Presidente, asistirá, con voz y sin voto, a las sesiones del Pleno gubernativo, desempeñando entonces las funciones de Secretario del Pleno. En los demás casos actuará como Secretario el Magistrado que para cada sesión designe el propio Pleno.
+
+###### Art. 9.
+
+Cuando algún Magistrado pida que se suspenda la deliberación para el mejor estudio de la cuestión objeto de debate y el Presidente, o un tercio, al menos, de los presentes consideren justificada la petición, se aplazará la decisión paré otra reunión siempre que la urgencia del asunto lo permitiera. Si se suscitara discrepancia sobre este extremo, resolverá el Presidente.
+
+###### Art. 10.
+
+1\. Concluida la deliberación de cada asunto, el Presidente lo someterá a la decisión del Pleno. Si hubiere lugar a votación individual, la misma comenzará por el Magistrado más moderno y seguirá por orden de menor antigüedad y, en caso de igual antigüedad, por orden inverso de edad.
+
+2\. El Vicepresidente y el Presidente votarán, por este orden, en último lugar.
+
+###### Art. 11.
+
+1\. Salvo en los casos en que la Ley Orgánica del Tribunal o este Reglamento exijan una mayoría cualificada, las decisiones se adoptarán por mayoría de los Magistrados que asistan a la reunión. En caso de empate, decidirá el voto del Presidente.
+
+> Apartado modificado por Acuerdo del Pleno de 1 de abril de 2011 ([Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).). Véase el artículo 90 de la Ley Orgánica del Tribunal Constitucional.
+
+2\. Los acuerdos del Pleno serán inmediatamente ejecutivos, salvo que en la sesión en que se adopten se disponga otra cosa.
+
+> Se modifica el apartado 1 por el art. único.2 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 141, de 14 de junio de 2011. [Ref. BOE-A-2011-10284](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10284).
+
+###### Art. 12.
+
+1\. Cuando el asunto lo requiera, el Pleno podrán encomendar a uno o varios Magistrados la redacción de un proyecto de acuerdo ajustado al sentido de lo resuelto, del que se dará cuenta, para su aprobación definitiva, en otra sesión.
+
+2\. También podrá el Pleno constituir Comisiones o designar Comisionados, con el alcance que en cada caso determine. Periódicamente se informará al Pleno del desarrollo y cumplimiento de las funciones así encomendadas.
+
+###### Art. 13.
+
+1\. El Secretario del Pleno redactará las actas, en las que se hará mención de todos los acuerdos, anotándose al margen los nombres y apellidos de los Magistrados presentes. Las actas serán leídas y sometidas a aprobación al término de cada sesión o en la sesión inmediata, sin perjuicio, en este último caso, de lo dispuesto en el apartado segundo del artículo 11. Se autorizarán con la firma del Secretario del Pleno y el visto bueno del Presidente.
+
+2\. El Secretario general del Tribunal custodiará las actas y extenderá las certificaciones correspondientes.
+
+#### Sección 2.ª De la Presidencia
+
+###### Art. 14.
+
+Además de las competencias establecidas en la Ley Orgánica, corresponden al Presidente del Tribunal Constitucional las siguientes:
+
+> Véase su artículo 15.
+
+a) Convocar y fijar el orden del día de las reuniones del Pleno y de la Junta de Gobierno, dirigir sus deliberaciones y ejecutar los acuerdos que adopten.
+
+b) Convocar concurso-oposición para cubrir Plazas del Cuerpo de Letrados del Tribunal Constitucional.
+
+c) Acordar la convocatoria pública para proveer el puesto de Gerente, proceder al nombramiento del propuesto y disponer, previo acuerdo del Pleno, el cese y reincorporación a su Administración de procedencia de quien hubiese sido designado según lo dispuesto en el artículo 54.
+
+Asimismo le corresponde acordar la convocatoria pública para proveer los restantes puestos que deban ser cubiertos por el procedimiento de libre designación, proceder al nombramiento de los propuestos y disponer, previo acuerdo de la Junta de Gobierno, el cese y reincorporación a su Administración de procedencia de quienes hubiesen sido designados por dicho procedimiento.
+
+> El párrafo primero de este apartado figura redactado conforme al Acuerdo del Pleno de 5 de octubre de 1994. El párrafo segundo fue adicionado por el Acuerdo del pleno de 19 de diciembre de 2002 ([Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).), y figura redactado conforme al mismo.
+
+d) Nombrar a los Letrados que, a propuesta del Tribunal calificador, hayan de integrarse en dicho Cuerpo o, a propuesta del Pleno del Tribunal Constitucional, deban incorporarse al mismo en régimen de adscripción temporal.
+
+e) Nombrar, previa elección por el Pleno, al Secretario general y, en su caso, al Secretario general adjunto.
+
+f) Nombrar al Interventor al servicio del Tribunal y disponer su cese, de conformidad, todo ello, con los acuerdos del Pleno.
+
+g) Convocar los concursos para proveer las plazas de funcionarios y de personal laboral e instar la concesión de comisiones de servicios para cubrir, cuando proceda, plazas de funcionarios de carrera.
+
+h) Nombrar a los funcionarios adscritos y al personal eventual, disponer su cese y autorizar la contratación de personal en régimen laboral.
+
+> Los apartados e), g) y h) figuran redactados conforme al Acuerdo del Pleno de 1 de abril de 2011 ([Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).).
+
+i) Autorizar la compatibilidad en el ejercicio de actividades ajenas al servicio del Tribunal por parte de los miembros del mismo.
+
+> Véase la nota al artículo 96.3 de la Ley Orgánica del Tribunal Constitucional.
+
+j) Promover y, en su caso, ejercer la potestad disciplinaria.
+
+k) Ejercer las funciones de órgano de contratación.
+
+> Véase la Resolución de 26 de julio de 2004 ([Ref. BOE-A-2004-14360](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-14360).), de la Presidencia del Tribunal Constitucional, sobre delegación de competencias en materia de contratación.
+
+> Se modifican las letras e), g) y h) por el art. único.3 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Se modifican las letras c) y h) por el art. 1.1 y 2 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+> Se modifica la letra c) por el art. único.3 del Acuerdo de 5 de octubre de 1994. [Ref. BOE-A-1994-23074](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-23074).
+
+###### Art. 15.
+
+Corresponde también al Presidente del Tribunal:
+
+a) Ejercer la superior autoridad sobre las Fuerzas y Cuerpos de Seguridad del Estado que presten servicio en la sede del Tribunal.
+
+b) Disponer lo procedente sobre el acceso a la sede del Tribunal y permanencia en ella de cualquier persona.
+
+c) Impartir las directrices y órdenes necesarias para el funcionamiento del servicio de seguridad del Tribunal.
+
+d) Impartir las directrices y órdenes pertinentes para el funcionamiento del parque de vehículos del Tribunal, sin perjuicio de la dependencia de los conductores de la autoridad a cuyo servicio se dispone el vehículo y de la que corresponda al Parque Móvil del Estado.
+
+> Los apartados b) y d) están redactados conforme al Acuerdo del Pleno de 1 de abril de 2011 ([Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).). Téngase en cuenta que por Real Decreto 146/1999, de 29 de enero ([Ref. BOE-A-1999-2339](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-2339).), desarrollado por la Orden de 30 de junio de 1999 ([Ref. BOE-A-1999-19126](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-19126).), y modificado por el Real Decreto 776/2011, de 3 de junio ([Ref. BOE-A-2011-9736](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9736).), se modifica la estructura orgánica básica y funciones, y se transforma el organismo autónomo Parque Móvil Ministerial en Parque Móvil del Estado.
+
+> Se modifican las letras b) y d) por el art. único.4 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Redactado el apartado b) conforme a la corrección de errores publicada en BOE núm. 260, de 30 de octubre de 1990. [Ref. BOE-A-1990-26298](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-26298).
+
+###### Art. 16.
+
+1\. El Presidente podrá delegar el ejercicio de las competencias que no impliquen una relación con el Pleno en los siguientes supuestos:
+
+a) En el Vicepresidente, las relativas al personal, salvo la contratación laboral.
+
+b) En el Secretario general, las funciones que le correspondan como órgano de contratación.
+
+> Téngase en cuenta la Resolución de 26 de julio de 2004 ([Ref. BOE-A-2004-14360](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-14360).), de la Presidencia del Tribunal Constitucional, sobre delegación de competencias en materia de contratación.
+
+En ningún caso podrá ser objeto de delegación el ejercicio de competencias que afecten a las relaciones del Tribunal con otros órganos constitucionales del Estado.
+
+2\. En los supuestos establecidos en el número anterior, el Pleno podrá acordar la desconcentración de las competencias del Presidente.
+
+###### Art. 17.
+
+En caso de vacante, ausencia o enfermedad, el Presidente será sustituido por el Vicepresidente y, si se hallare éste impedido por alguna de tales causas, por el Magistrado más antiguo y, en caso de igual antigüedad, por el de mayor edad.
+
+###### Art. 18.
+
+1\. La Presidencia estará asistida por un Gabinete cuyo Jefe será nombrado libremente por el Presidente. El Jefe del Gabinete tendrá el carácter de funcionario eventual.
+
+2\. Corresponden al Jefe del Gabinete de la Presidencia las siguientes funciones:
+
+a) Dirigir la Secretaría particular del Presidente.
+
+b) Organizar y custodiar los archivos de la Presidencia, sin perjuicio de lo dispuesto en este Reglamento sobre el Archivo General.
+
+c) Recopilar y procesar la información de carácter general que se considere de interés para uso de los miembros del Tribunal.
+
+d) Atender las relaciones del Tribunal con los medios de comunicación, disponer lo que corresponda cuando se recabe información sobre las funciones y actos del Tribunal y mantener actualizado, en relación con ello, el portal institucional del Tribunal.
+
+e) Impartir las instrucciones oportunas en orden al protocolo y cuidar de la organización de cuantos actos y visitas de carácter institucional tengan lugar en la sede del Tribunal.
+
+f) Cualesquiera otras tareas específicas que le sean encomendadas por el Presidente.
+
+> Se modifica el apartado 1 por el art. único.1 del Acuerdo de 21 de abril de 2016. [Ref. BOE-A-2016-4039](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4039).
+
+> Se modifica por el art. único.5 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Se modifica el apartado 2.c) por el art. 1.1 del Acuerdo de 8 de septiembre de 1999. [Ref. BOE-A-1999-19076](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-19076).
+
+###### Art. 19.
+
+Los recursos a los que se refiere el artículo 99.3 de la Ley Orgánica 2/1979, del Tribunal Constitucional, serán informados por el letrado que el Presidente designe. La interposición, tramitación y resolución del recurso se ordenará según lo dispuesto para el recurso de alzada en el Capítulo II del Título VII de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Artículo redactado de conformidad con el Acuerdo del Pleno de 1 de abril de 2011 ([Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).).
+
+> Se modifica por el art. único.6 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Se modifica por el art. único.1 del Acuerdo de 27 de febrero de 2001. [Ref. BOE-A-2001-4489](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-4489).
+
+> Se modifica por el art. único.4 del Acuerdo de 5 de octubre de 1994. [Ref. BOE-A-1994-23074](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-23074).
+
+#### Sección 3.ª De la Junta de Gobierno
+
+###### Art. 20.
+
+1\. La Junta de Gobierno estará compuesta por el Presidente, el Vicepresidente, dos Magistrados y el Secretario general, que actuará como Secretario y asistirá a sus reuniones con voz y sin voto.
+
+2\. Los Magistrados serán designados por el Pleno, uno de cada Sala, y se renovarán cada año.
+
+> Apartado redactado conforme al Acuerdo del Pleno de 1 de abril de 2011 ([Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).).
+
+> Se modifica el apartado 2 por el art. único.7 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+###### Art. 21.
+
+La Junta de Gobierno tiene las competencias siguientes:
+
+a) Aprobar las bases de los concursos y de las convocatorias de puestos de libre designación para la incorporación de personal, funcionario o laboral, al servicio del Tribunal sin perjuicio de lo dispuesto en el artículo 2.º, e) de este Reglamento.
+
+b) Determinar la composición de las comisiones de valoración que hayan de proponer la resolución de los concursos a que se refiere el apartado anterior.
+
+c) Ser informada, cuando así lo disponga el Presidente, del estado de la ejecución del presupuesto del Tribunal.
+
+d) Conocer, con carácter previo a su autorización, los expedientes de gasto de importe superior a la cuantía que determine el Pleno, de conformidad con lo previsto en el artículo 2 j) de este Reglamento.
+
+e) Cualesquiera otras funciones que le sean atribuidas por este Reglamento o, a propuesta del Presidente, por el Pleno del Tribunal.
+
+> Artículo redactado conforme al Acuerdo del Pleno de 1 de abril de 2011 ([Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).).
+
+> Se modifica por el art. único.8 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Se modifica la letra e) por el art. 1.3 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+> Se modifican las letras a) y c) por el art. único.5 y 6 del Acuerdo de 5 de octubre de 1994. [Ref. BOE-A-1994-23074](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-23074).
+
+###### Art. 22.
+
+1\. La Junta de Gobierno se reunirá cuando la convoque el Presidente o lo pida alguno de sus miembros, con expresión del tema de deliberación.
+
+2\. Sus reuniones y acuerdos se regirán por lo dispuesto en las normas establecidas para el Tribunal en Pleno, en cuanto sean de aplicación.
+
+###### Art. 23.
+
+Los temas objeto de deliberación y los acuerdos adoptados en Junta de Gobierno se comunicarán a todos los Magistrados.
+
+#### Sección 4.ª De la Secretaría General
+
+###### Art. 24.
+
+El Secretario general será elegido por el Pleno del Tribunal de entre los Letrados a su servicio que cuenten, al menos, con tres años de antigüedad como tales. El nombramiento se hará por tres años, sin perjuicio de lo dispuesto en el artículo 2 d) de este Reglamento.
+
+> Véase el artículo 98 de la Ley Orgánica del Tribunal Constitucional.
+
+> Artículo redactado conforme al Acuerdo del Pleno de 27 de febrero de 2001 ([Ref. BOE-A-2001-4489](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-4489).).
+
+> Se modifica por el art. único.1 del Acuerdo de 11 de julio de 2014. [Ref. BOE-A-2014-7407](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7407).
+
+> Se modifica por el art. único.2 del Acuerdo de 27 de febrero de 2001. [Ref. BOE-A-2001-4489](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-4489).
+
+> Se modifica por el art. único.7 del Acuerdo de 5 de octubre de 1994. [Ref. BOE-A-1994-23074](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-23074).
+
+###### Art. 25.
+
+1\. Bajo la autoridad e instrucciones del Presidente, corresponde al Secretario general:
+
+> Véase el artículo 99 de la Ley Orgánica del Tribunal Constitucional.
+
+a) Ejercer como Letrado mayor la jefatura de los letrados del Tribunal, sin perjuicio de las facultades que corresponden al Presidente, al Vicepresidente, al Pleno y a las Salas.
+
+b) El apoyo al Presidente para la programación jurisdiccional de acuerdo con las directrices que, en su caso, pueda establecer el Pleno, y la distribución, coordinación superior y ordenación general, en el marco de dicha programación, del trabajo de los letrados sobre asuntos jurisdiccionales, o cualesquiera otros de carácter jurídico-constitucional, sin perjuicio de lo que corresponde a los Magistrados ponentes y de lo previsto en el artículo 62.2.a) de este Reglamento.
+
+> Por Acuerdo de la Secretaría General de 13 de abril de 2011 ([Ref. BOE-A-2011-6832](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6832).), se delegó el ejercicio de esta función en el Secretario General Adjunto.
+
+c) La dirección y coordinación de los servicios del Tribunal, sin perjuicio de la responsabilidad directa de quienes ostenten la jefatura de cada servicio y unidad.
+
+d) La jefatura superior y el régimen disciplinario del personal al servicio del Tribunal, ejerciendo las competencias no atribuidas al Pleno o al Presidente.
+
+e) Proponer las bases de los procedimientos de cobertura de plazas a que se refiere el artículo 21.a) de este Reglamento.
+
+> El Acuerdo de la Secretaría General de 13 de abril de 2011 delegó el ejercicio de esta función en el Secretario General Adjunto.
+
+f) Resolver sobre las peticiones de autorización para el ejercicio de funciones docentes o de investigación, cuando las mismas no hubieran de prolongarse durante más de diez días.
+
+g) La administración de los créditos para gastos del Presupuesto del Tribunal.
+
+h) La autorización del gasto.
+
+i) La ordenación de los pagos.
+
+> Por Acuerdo de la Secretaría General de 13 de abril de 2011, se delegaron en el Secretario General Adjunto el ejercicio de las competencias económico-financieras contenidas en las letras g), h) e i).
+
+j) La recopilación, clasificación y publicación de la doctrina constitucional del Tribunal, sin perjuicio de lo dispuesto en el artículo 34.2.a) de este Reglamento.
+
+2\. El Secretario general podrá dictar instrucciones de régimen interior en materia de su competencia.
+
+3\. El Secretario general deberá consultar o comunicar al Presidente los acuerdos relativos a aquellas materias previamente fijadas por el Presidente.
+
+4\. El Presidente, a propuesta del Secretario general, podrá designar, de acuerdo con el Pleno, uno o varios letrados adscritos a la Secretaría general.
+
+> El Acuerdo del Pleno de 1 de abril de 2011 ([Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).), dio nueva redacción al apartado 1, y adicionó el apartado 4.
+
+> Se modifica el apartado 1 y se añade el apartado 4 por el art. único.9 y 10 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Se modifica la letra i) por el art. 1.4 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+> Se modifican los apartados 1.e) y 1.i) por el art. 1.2 y 3 del Acuerdo de 8 de septiembre de 1999. [Ref. BOE-A-1999-19076](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-19076).
+
+###### Art. 26.
+
+1\. El Pleno podrá elegir entre los Letrados del Tribunal un Secretario general adjunto a quien corresponderá:
+
+a) La sustitución del Secretario general en casos de vacante, ausencia o enfermedad. De no ser ello posible, esta sustitución recaerá en el Letrado que designe el Presidente.
+
+b) La distribución, coordinación y ordenación general del trabajo de los letrados en el trámite de admisión de los asuntos de nuevo ingreso, por delegación del Secretario General y de acuerdo con el Presidente y con el Pleno, sin perjuicio de lo que corresponde a los Magistrados ponentes.
+
+c) El ejercicio por delegación de determinadas competencias de la Secretaría General, excluidas las definidas en los apartados a), b), d), en lo relativo al régimen disciplinario, y f) del número 1 del artículo anterior. El acuerdo de delegación del Secretario general requerirá autorización previa del Presidente.
+
+d) Cualesquiera otras funciones de apoyo o informe que se le asignaren por el Presidente, el Secretario General y, en su caso, por decisión del Pleno.
+
+2\. El Secretario general adjunto tendrá las retribuciones del Secretario general y podrá estar asistido, para el desarrollo de las funciones a que se refiere este artículo, por uno o varios letrados coordinadores nombrados por el Presidente de acuerdo con el Pleno.
+
+> rtículo redactado conforme al Acuerdo del Pleno de 1 de abril de 2011 ([Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).). Téngase en cuenta que, de conformidad con el apartado 1, se delegaron competencias en el Secretario General Adjunto por Acuerdo de 13 de abril de 2011.
+
+> Se modifica por el art. único.11 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 82, de 6 de abril de 2011. [Ref. BOE-A-2011-6174](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6174).
+
+> Se modifica por el art. 1.4 del Acuerdo de 8 de septiembre de 1999. [Ref. BOE-A-1999-19076](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-19076).
+
+##### Subsección 1.ª De los servicios y unidades
+
+Servicio de Gerencia
+
+###### Art. 27.
+
+1\. Sin perjuicio de las atribuciones y competencias asignadas a los diversos órganos de gobierno del Tribunal, corresponde a la Gerencia el desarrollo de las funciones relacionadas con la gestión económica y contable, la habilitación de personal y de material, la gestión del personal, la conservación y mantenimiento de las instalaciones y la jefatura inmediata del Archivo General y de aquellos otros servicios de carácter general que no se haya asignado a otras unidades o servicios del Tribunal.
+
+2\. El Gerente auxiliará al Secretario general en el ejercicio de sus competencias de carácter financiero, económico y de personal. Será de su responsabilidad la tramitación y propuesta de resolución de los expedientes, salvo los de carácter disciplinario que afecten al propio Servicio y realizará los actos de gestión o de ejecución que se le encomienden por el Presidente o por el Secretario general.
+
+> Se modifica el apartado 1 por el art. 1.5 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+> Se modifica el apartado 2 por el art. único.8 del Acuerdo de 5 de octubre de 1994. [Ref. BOE-A-1994-23074](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-23074).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 260, de 30 de octubre de 1990. [Ref. BOE-A-1990-26298](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-26298).
+
+###### Art. 28.
+
+**(Derogado)**
+
+> Se deroga por el art. 1.6 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+###### Art. 29.
+
+1\. El Gerente tendrá el rango, las retribuciones y, en lo que le sea aplicable, el régimen jurídico de los Letrados del Tribunal.
+
+2\. En caso de vacante, ausencia o enfermedad, el Pleno del Tribunal designará para la sustitución temporal del Gerente a un Letrado del Tribunal.
+
+> Se modifica el apartado 1 por el art. único.9 del Acuerdo de 5 de octubre de 1994. [Ref. BOE-A-1994-23074](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-23074).
+
+Registro General y Archivo General
+
+> Se modifica por el art. único.12 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+###### Art. 30.
+
+Todos los escritos dirigidos al Tribunal Constitucional o que de él emanen se cursarán a través del Registro General, que dependerá del Secretario de Justicia del Pleno. Su distribución interna se ordenará conforme a las siguientes reglas:
+
+a) Los escritos que se refieran a asuntos jurisdiccionales se remitirán a la Secretaría de Justicia que corresponda.
+
+b) Los demás escritos, cuando no hayan de ser despachados directamente por el propio Registro, se remitirán al servicio o unidad que corresponda.
+
+> Se modifica por el art. único.12 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 82, de 6 de abril de 2011. [Ref. BOE-A-2011-6174](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6174).
+
+> Se modifica por el art. 1.7 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+###### Art. 31.
+
+1\. Toda la documentación reunida, generada o conservada por el Tribunal Constitucional en el ejercicio de sus competencias y actividades forma parte del Archivo del Tribunal Constitucional y constituye su patrimonio documental. La organización y funcionamiento de los archivos del Tribunal Constitucional se rigen por las normas que se establezcan al efecto.
+
+2\. Sin perjuicio de su integración en el Archivo General del Tribunal, el archivo de la documentación relativa a actuaciones jurisdiccionales se realizará con arreglo a las indicaciones que corresponden, en el ejercicio de sus funciones, a los secretarios de justicia.
+
+> Se modifica por el art. único.13 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Se modifica por el art. 1.8 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+Servicio de Estudios
+
+> Se añade por el art. único.2 del Acuerdo de 11 de julio de 2014. [Ref. BOE-A-2014-7407](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7407).
+
+###### Art. 32.
+
+Corresponderá al Servicio de Estudios la programación y elaboración de cuantos trabajos en materia doctrinal, jurisprudencial y legislativa se estimen necesarios en atención a las funciones del Tribunal.
+
+> Se añade por el art. único.2 del Acuerdo de 11 de julio de 2014. [Ref. BOE-A-2014-7407](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7407).
+
+> Se deroga por el art. 1.9 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+Servicio de Biblioteca y Documentación
+
+> Se modifica por el art. único.3 del Acuerdo de 11 de julio de 2014 . [Ref. BOE-A-2014-7407](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7407).
+
+###### Art. 33.
+
+1\. Corresponde al Servicio de Biblioteca y Documentación la gestión de la Biblioteca del Tribunal y de cuanta documentación sea precisa en atención a sus funciones, así como el apoyo doctrinal al Presidente y a los Magistrados en los actos y reuniones institucionales en que participen.
+
+2\. Corresponde también al Servicio elaborar y ejecutar los planes de publicaciones del Tribunal.
+
+> Se modifica por el art. único.3 del Acuerdo de 11 de julio de 2014 . [Ref. BOE-A-2014-7407](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7407).
+
+> Se modifica el apartado 2 por el art. 1.10 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+> Se modifica por el art. 1.6 del Acuerdo de 8 de septiembre de 1999. [Ref. BOE-A-1999-19076](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-19076).
+
+Servicio de Doctrina Constitucional
+
+> Se modifica por el art. único.1 del Acuerdo de 28 de abril de 2010. [Ref. BOE-A-2010-6819](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6819).
+
+###### Art. 34.
+
+Corresponde al Servicio:
+
+a) La planificación y gestión de la publicación y edición, por cualesquiera medios, de las resoluciones jurisdiccionales y de la doctrina constitucional del Tribunal.
+
+b) La estadística jurisdiccional.
+
+> Se modifica por el art. único.4 del Acuerdo de 11 de julio de 2014 . [Ref. BOE-A-2014-7407](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7407).
+
+> Se modifica por el art. único.1 del Acuerdo de 28 de abril de 2010. [Ref. BOE-A-2010-6819](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6819).
+
+> Se modifica el apartado 2 por el art. 1.11 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+> Se modifica por el art. 1.8 del Acuerdo de 8 de septiembre de 1999. [Ref. BOE-A-1999-19076](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-19076).
+
+Servicio de Informática
+
+> Se añade por el art. único.2 del Acuerdo de 28 de abril de 2010. [Ref. BOE-A-2010-6819](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6819).
+
+###### Art. 34 bis
+
+Corresponde al Servicio:
+
+a) La organización y gestión del sistema informático, así como la preservación de la seguridad del mismo y de sus comunicaciones.
+
+b) La prestación de apoyo técnico a los usuarios.
+
+> Se modifica por el art. único.5 del Acuerdo de 11 de julio de 2014 . [Ref. BOE-A-2014-7407](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7407).
+
+> Se deroga el apartado 3 por el art. único.14 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Se añade por el art. único.2 del Acuerdo de 28 de abril de 2010. [Ref. BOE-A-2010-6819](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6819).
+
+##### Subsección 2.ª Estructura interna de los servicios
+
+> Se modifica por el art. 1.12 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+> Se modifica por el art. 1.9 del Acuerdo de 8 de septiembre de 1999. [Ref. BOE-A-1999-19076](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-19076).
+
+###### Art. 35.
+
+La estructura interna de los Servicios del Tribunal y la determinación de los puestos de trabajo asignados a los mismos será la resultante de la relación de puestos de trabajo del Tribunal, correspondiendo a los jefes de los respectivos Servicios la distribución de funciones y cometidos en los mismos, con arreglo a las previsiones de dicha relación.
+
+> Se modifica por el art. 1.14 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+###### Art. 36.
+
+La jefatura de los Servicios del Tribunal corresponderá al letrado o funcionario del subgrupo A1 de las Administraciones Públicas que designe el Presidente, de entre los adscritos al servicio del Tribunal o previa convocatoria para la provisión del puesto de que se trate de conformidad con las previsiones de este Reglamento.
+
+> Se añade por el art. único.6 del Acuerdo de 11 de julio de 2014 . [Ref. BOE-A-2014-7407](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7407).
+
+> Se deroga por el art. 1.15 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+###### Art. 37.
+
+**(Derogado)**
+
+> Se deroga por el art. 1.10 del Acuerdo de 8 de septiembre de 1999. [Ref. BOE-A-1999-19076](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-19076).
+
+###### Art. 38.
+
+**(Derogado)**
+
+> Se deroga por el art. 1.11 del Acuerdo de 8 de septiembre de 1999. [Ref. BOE-A-1999-19076](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-19076).
+
+### CAPÍTULO II — De la Intervención
+
+###### Art. 39.
+
+1\. El Interventor al servicio del Tribunal Constitucional intervendrá las propuestas de contenido económico sobre las que haya de resolver el Secretario general, prestando su conformidad u oponiendo por escrito el reparo que fuese procedente. Sólo podrá plantear discrepancia ante el Secretario general y, cuando disintiere de los actos de otros órganos o autoridades del Tribunal, se limitará a poner de manifiesto sus reparos de legalidad.
+
+2\. Corresponde también al Interventor asesorar en materia presupuestaria al Tribunal Constitucional.
+
+3\. En los casos de vacante, ausencia o enfermedad el Interventor será sustituido por el letrado que el Presidente designe.
+
+> Se añade el apartado 3 por el art. único.15 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+### CAPÍTULO III — De las precedencias y de los Magistrados eméritos
+
+###### Art. 40.
+
+El orden interno de precedencias en el Tribunal Constitucional será el de Presidente, Vicepresidente y Magistrados por orden de antigüedad, y, en caso de igual antigüedad, de mayor edad.
+
+###### Art. 41.
+
+En los actos públicos no jurisdiccionales que se celebren en el Tribunal Constitucional se observará el orden de precedencias establecido con carácter general en el Estado, así como lo prevenido en el artículo 40 de este Reglamento. Los Presidentes eméritos del Tribunal se situarán a continuación del Presidente del Consejo General del Poder Judicial y los Magistrados eméritos a continuación de los Ministros.
+
+###### Art. 42.
+
+Los Presidentes, Vicepresidentes y Magistrados eméritos del Tribunal Constitucional tendrán las prerrogativas que acuerde el Pleno del propio Tribunal y, en todo caso, las siguientes:
+
+a) Ocupar lugar preferente en los actos solemnes y vistas de carácter jurisdiccional que se celebren en el Tribunal Constitucional.
+
+b) Acceder libremente a la sede del Tribunal y utilizar, en modo acorde con su dignidad, sus instalaciones y servicios.
+
+c) Recibir las publicaciones del Tribunal Constitucional.
+
+## TÍTULO II — Disposiciones comunes en materia de personal
+
+### CAPÍTULO I — De los distintas clases de personal
+
+###### Art. 43.
+
+1\. El personal al servicio del Tribunal Constitucional puede serlo con el carácter de funcionario, de eventual o de personal laboral.
+
+2\. A excepción de los Letrados que accedan al Cuerpo creado por el artículo 97.1 de la Ley Orgánica del Tribunal Constitucional, los funcionarios de carrera al servicio del Tribunal Constitucional serán funcionarios de carrera de la Administración de Justicia y de las Administraciones Públicas, adscritos al mismo en la forma establecida por este Reglamento, salvo cuando pasen a depender del Tribunal en comisión de servicios.
+
+> Se modifica el apartado 1 por el art. único.16 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Se modifica el apartado 1 por el art. 1.16 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+> Se suprime un inciso del apartado 2 por el art. único.10 del Acuerdo de 5 de octubre de 1994. [Ref. BOE-A-1994-23074](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-23074).
+
+###### Art. 44.
+
+1\. Los letrados seleccionados mediante concurso-oposición, conforme a lo establecido en este Reglamento, son funcionarios de carrera del Tribunal Constitucional que se integran en un Cuerpo único. El Tribunal, además, designará libremente, de acuerdo a las normas de este Reglamento, letrados de adscripción temporal; los designados habrán de contar con algunas de las siguientes condiciones profesionales:
+
+a) Profesores de universidad de disciplinas jurídicas que hayan desempeñado, durante al menos cinco años, funciones docentes o de investigación. Si no fueran, como tales, funcionarios públicos, habrán de haber obtenido, al menos, la acreditación necesaria del organismo público correspondiente para poder adquirir la condición de profesor contratado doctor o figura equivalente en las universidades públicas o privadas.
+
+b) Miembros de las carreras judicial y fiscal con, al menos, cinco años de ejercicio profesional.
+
+c) Funcionarios públicos que hayan accedido a un cuerpo o escala del grupo A en su condición de Licenciados en Derecho con, al menos, cinco años de ejercicio profesional.
+
+d) Abogados con, al menos, diez años de ejercicio profesional.
+
+2\. Los Letrados del Tribunal Constitucional, tanto de carrera como de adscripción temporal, desempeñarán las funciones de estudio, informe o asesoramiento que se les encomienden en las materias de las que conoce el Tribunal. Realizarán también, en su caso, las funciones administrativas de nivel superior que les puedan ser atribuidas, de no asignarse éstas a otros funcionarios al servicio del Tribunal que reúnan la cualificación necesaria.
+
+3\. Los letrados quedarán en su carrera o cuerpo de origen en situación de servicios especiales por todo el tiempo en que presten sus servicios en el Tribunal Constitucional.
+
+> Se modifica el apartado 3 por el art. único.17 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Se modifica el apartado 1 por el art. único.1 del Acuerdo de 31 de marzo de 2008. [Ref. BOE-A-2008-5934](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-5934).
+
+> Se modifica el apartado 2 por el art. único.11 del Acuerdo de 5 de octubre de 1994. [Ref. BOE-A-1994-23074](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-23074).
+
+###### Art. 45.
+
+1 Los secretarios de justicia, procedentes del Cuerpo de secretarios judiciales, son funcionarios de carrera adscritos al Tribunal Constitucional que ejercen, respecto de las atribuciones jurisdiccionales del mismo, la fe pública judicial y demás funciones que la legislación orgánica y procesal de los Juzgados y Tribunales atribuyen a los Secretarios. Para ser adscritos al Tribunal Constitucional deberán contar con los requisitos exigidos para ocupar plaza en el Tribunal Supremo, de acuerdo con la legislación aplicable.
+
+2\. Los secretarios de justicia adscritos al Tribunal Constitucional quedarán en su Cuerpo de procedencia en la situación administrativa de servicios especiales, conforme a lo dispuesto en la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+
+> Se modifica por el art. único.18 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 82, de 6 de abril de 2011. [Ref. BOE-A-2011-6174](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6174).
+
+###### Art. 46.
+
+1\. Podrán prestar servicio en el Tribunal Constitucional otros funcionarios de carrera adscritos al mismo, en la forma que se determina en este Reglamento, procedentes de los Cuerpos de gestión procesal y administrativa, de tramitación procesal y administrativa y de auxilio judicial o de los Cuerpos o Escalas de las Administraciones Públicas.
+
+2\. Los funcionarios mencionados en este artículo desempeñarán las tareas que se les asignen en el Tribunal Constitucional, de conformidad con su nivel de titulación y en analogía con las que correspondan a los funcionarios de su Cuerpo o Escala de procedencia.
+
+3\. Los funcionarios adscritos que pasen a prestar servicio en el Tribunal quedarán en la situación administrativa que corresponda en sus Cuerpos o Escalas de procedencia.
+
+> Se modifica el apartado 1 por el art. único.19 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Se modifica el apartado 3 por el art. 1.17 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+###### Art. 47.
+
+1\. Podrá nombrarse personal eventual al servicio del Tribunal Constitucional para el ejercicio no permanente de funciones de confianza o asesoramiento especial de acuerdo con la relación de puestos de trabajo del Tribunal Constitucional.
+
+2\. El personal eventual a que se refiere el apartado anterior podrá tener o no la condición de funcionario de carrera de otras Administraciones Públicas.
+
+> Se modifica por el art. único.20 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+###### Art. 48.
+
+**(Derogado)**
+
+> Se deroga por el art. único.21 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+###### Art. 49.
+
+Podrá contratarse personal en régimen laboral para el desempeño de puestos que no impliquen participación directa ni indirecta en el ejercicio de las atribuciones del Tribunal y cuyas funciones sean propias de oficios, auxiliares de carácter instrumental o de apoyo administrativo. Además de por lo dispuesto en la Ley Orgánica del Tribunal Constitucional, en el presente Reglamento y en las demás normas y resoluciones del propio Tribunal, este personal se regirá por la legislación laboral y, en lo que proceda, por lo dispuesto en las normas convencionales aplicables.
+
+> Se modifica por el art. único.22 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+###### Art. 50.
+
+**(Derogado)**
+
+> Se deroga por el art. 1.18 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+###### Art. 51.
+
+El personal al que se refieren los artículos anteriores se regirá por lo dispuesto en la Ley Orgánica del Tribunal Constitucional, en el presente Reglamento y en las demás normas y resoluciones dictadas por los órganos de gobierno del propio Tribunal. Tendrán el carácter de normas supletorias, en lo que sean aplicables, las contenidas en la legislación vigente para el personal al servicio de la Administración de Justicia y, en su caso, en la legislación en materia de función pública.
+
+> Se modifica por el art. único.23 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+### CAPÍTULO II — De los modos de incorporación del personal
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 260, de 30 de octubre de 1990. [Ref. BOE-A-1990-26298](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-26298).
+
+###### Art. 52.
+
+1\. La incorporación al Tribunal Constitucional de funcionarios de carrera y de personal en régimen laboral se realizará mediante convocatoria pública y a través de los sistemas de concurso, concurso-oposición o libre designación, y por nombramiento libre la de los funcionarios eventuales.
+
+2\. En los casos establecidos en este Reglamento podrá también incorporarse personal en régimen de adscripción temporal.
+
+> Se modifica por el art. 1.19 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+> Se modifica el apartado 1 por el art. único.12 del Acuerdo de 5 de octubre de 1994. [Ref. BOE-A-1994-23074](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-23074).
+
+###### Art. 53.
+
+1\. El ingreso en el Cuerpo de Letrados se efectuará por medio de concurso-oposición que se ajustará a las normas establecidas en el presente Reglamento.
+
+2\. Las plazas de letrado se proveerán también en régimen de adscripción temporal, conforme a lo previsto en el artículo 44.1 de este Reglamento y de acuerdo con lo establecido en los siguientes apartados.
+
+3\. La designación de letrados de adscripción temporal se acordará libremente por el Pleno del Tribunal, a propuesta de tres Magistrados, por mayoría absoluta.
+
+La adscripción se hará por tres años y podrá ser renovada antes de su vencimiento hasta por otros dos períodos iguales, mediante la propuesta y por la mayoría requeridas en el párrafo anterior.
+
+4\. La adscripción al Tribunal de los letrados a los que se refiere el artículo 62.2.a) de este Reglamento y la de quienes puedan pasar a desempeñar el cargo de Secretario general o de Secretario general adjunto no quedarán sujetas a las condiciones temporales ni al régimen de renovaciones establecidos en el apartado anterior y se mantendrán, al menos, durante todo el tiempo en que se desempeñe la respectiva función o cargo. Al cesar en cualquiera de estos cometidos, unos u otros letrados podrán ser designados de nuevo como colaboradores de determinado Magistrado o bien mantenerse al servicio general del Tribunal, si hubiere lugar a ello conforme a lo dispuesto en el párrafo segundo del apartado 3 que antecede.
+
+5\. Los letrados adscritos temporalmente, mientras presten sus servicios al Tribunal, tendrán los derechos y deberes propios de los miembros del Cuerpo, en todo aquello que sea compatible con la eventualidad de sus funciones.
+
+6\. El cese de los letrados de adscripción temporal, además de por voluntad propia, se acordará en cualquiera de las circunstancias siguientes:
+
+a) En cualquier momento, por acuerdo del Pleno a propuesta del Presidente.
+
+b) Por vencimiento del periodo trienal de adscripción o por el cese en la función o en el cargo a los que se refiere el apartado 4 de este artículo, cuando no haya lugar a su continuidad al servicio del Tribunal conforme a los términos allí establecidos. En el caso de los letrados de los que se hace mención en el artículo 62.2.a) de este Reglamento, su cese, de resultar procedente en tales términos, se verificará a los dos meses de que haya concluido su colaboración con determinado Magistrado.
+
+c) Por jubilación o pérdida, en su caso, de la condición de funcionario.
+
+> Se modifica el apartado 4 por el art. único.7 del Acuerdo de 11 de julio de 2014 . [Ref. BOE-A-2014-7407](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7407).
+
+> Se modifican los apartados 3 a 6 por el art. único.1 del Acuerdo de 19 de noviembre de 2012. [Ref. BOE-A-2012-14406](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14406).
+
+> Se modifica por el art. único.24 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Téngase en cuenta para su aplicación la disposición transitoria.
+
+> Se modifican los apartados 2, 3 y 5.a) por el art. único.2 a 4 del Acuerdo de 31 de marzo de 2008. [Ref. BOE-A-2008-5934](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-5934).
+
+> Se modifican los apartados 3 y 4, y se añade el 5 por el art. único.3 a 5 del Acuerdo de 27 de febrero de 2001. [Ref. BOE-A-2001-4489](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-4489).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 64, de 15 de marzo de 2001. [Ref. BOE-A-2001-5058](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-5058).
+
+> Se modifica el apartado 4.d) por el art. 1.12 del Acuerdo de 8 de septiembre de 1999. [Ref. BOE-A-1999-19076](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-19076).
+
+> Se modifican los apartados 2 a 4 y se suprime el apartado 5 por el art. único.13 a 16 del Acuerdo de 5 de octubre de 1994. [Ref. BOE-A-1994-23074](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-23074).
+
+> Téngase en cuenta para su aplicación la disposición transitoria 1.
+
+###### Art. 54.
+
+El Gerente del Tribunal será nombrado por el Presidente, a propuesta de la Junta de Gobierno, por el procedimiento de libre designación, entre funcionarios del grupo A de las Administraciones Públicas.
+
+> Se modifica por el art. único.17 del Acuerdo de 5 de octubre de 1994. [Ref. BOE-A-1994-23074](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-23074).
+
+###### Art. 55.
+
+1\. La adscripción al Tribunal de los funcionarios de carrera procedentes de la Administración de Justicia o de la Administración Pública se llevará a cabo mediante concurso convocado por la Presidencia del Tribunal, de conformidad con lo previsto en este Reglamento.
+
+2.**(Derogado)**
+
+3\. La adscripción al Tribunal podrá ser para desempeñar una plaza genérica de la categoría funcionarial de que se trate o para ocupar un puesto de trabajo determinado. En este último caso, y sin perjuicio de lo dispuesto en el artículo 93.3 de este Reglamento, el Secretario general podrá, atendiendo a las necesidades de los servicios, asignar al funcionario adscrito a otro puesto de trabajo, aun cuando tenga señaladas retribuciones complementarias diferentes, de entre los que puedan ser cubiertos por el funcionario en razón a la Carrera, Cuerpo o Escala a la que pertenezca.
+
+> Se modifica el apartado 1 y se deroga el apartado 2 por el art. único.25 y 26 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Se añade el apartado 3 por el art. 1.20 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+###### Art. 56.
+
+El nombramiento de los letrados, del Gerente y de los funcionarios adscritos corresponde al Presidente del Tribunal Constitucional.
+
+> Se modifica por el art. único.27 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+###### Art. 57.
+
+La adscripción al Tribunal de los funcionarios de carrera podrá realizarse por el procedimiento de libre designación, cuando se trate de la cobertura de puestos en que así se prevea expresamente en la relación de puestos de trabajo.
+
+> Se modifica por el art. 1.21 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+###### Art. 58.
+
+1\. El Tribunal Constitucional podrá recabar del Ministerio o Administración competente que se confiera comisión de servicios de carácter temporal para que funcionarios de la Administración de Justicia o de la Administración Pública pasen a desempeñar una plaza de la plantilla del Tribunal.
+
+2\. **(Derogado)**
+
+3\. La comisión de servicios no dará lugar a dietas y cesará por decisión de quien la confiere, adoptada por su propia iniciativa o a petición del Tribunal Constitucional.
+
+> Se deroga el apartado 2 por el art. único.28 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+###### Art. 59.
+
+El Presidente podrá autorizar la contratación de personal en régimen laboral en los casos previstos en este Reglamento.
+
+> Se modifica por el art. único.29 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+### CAPÍTULO III — Plantilla de personal, relación y provisión de puestos de trabajo
+
+###### Art. 60.
+
+De conformidad con la disposición adicional primera, 2, de la Ley Orgánica del Tribunal Constitucional, el Tribunal establece la plantilla de su personal, que sólo podrá ser modificada a través de la Ley de Presupuestos.
+
+###### Art. 61.
+
+1\. La relación de puestos de trabajo del Tribunal comprenderá, conjunta o separadamente, los puestos de trabajo de todo el personal funcionario al servicio del mismo, así como los que también puedan ser desempeñados por personal eventual y laboral.
+
+2\. La relación de puestos de trabajo indicará, en todo caso, la denominación y características esenciales de los mismos, los requisitos exigidos para su desempeño y las retribuciones complementarias correspondientes.
+
+3\. La creación, modificación, refundición y supresión de puestos de trabajo se realizará a través de la relación de puestos de trabajo, que podrá ser modificada en cualquier momento por el Pleno del Tribunal, dentro de las previsiones de la plantilla de personal.
+
+> Se modifica por el art. 1.22 a 25 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+###### Art. 62.
+
+1\. Cuando los puestos de trabajo correspondientes a una determinada categoría de funcionarios o de personal laboral al servicio del Tribunal Constitucional se relacionen conjuntamente, la asignación del funcionario o trabajador a un servicio, unidad o dependencia concreta, dentro del Tribunal Constitucional, se decidirá por el Secretario general, de acuerdo con las necesidades del servicio.
+
+2\. Se exceptúa de lo dispuesto en el número anterior la asignación a los letrados de tareas determinadas, que se decidirá en los términos siguientes:
+
+a) Cada Magistrado podrá proponer al Pleno la designación, como colaboradores propios, de hasta un máximo de dos letrados de entre los que presten servicio al Tribunal Constitucional. Los designados se seguirán rigiendo por la normativa general aplicable a los letrados sin más singularidades que su dependencia funcional del Magistrado respectivo y las previstas en los apartados 4 y 6.b) del artículo 53 de este Reglamento.
+
+b) Corresponderá al Presidente asignar tareas determinadas, cuando así proceda, a cualquier letrado del Tribunal. En los demás casos, la distribución ordinaria de trabajo entre los letrados se llevará a cabo a través de la Secretaría General.
+
+c) La atribución a los letrados de tareas administrativas de nivel superior se llevará a cabo según lo previsto, en cada caso, en las normas de este Reglamento.
+
+> Se modifica el apartado 2.a) por el art. único.2 del Acuerdo de 19 de noviembre de 2012. [Ref. BOE-A-2012-14406](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14406).
+
+> Se modifica el apartado 2 y se deroga el apartado 3 por el art. único.30 y 31 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Se modifica el apartado 2.a) por el art. único.5 del Acuerdo de 31 de marzo de 2008. [Ref. BOE-A-2008-5934](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-5934).
+
+> Se añade el párrafo segundo al apartado 2.a) por Acuerdo de 14 de mayo de 2003. [Ref. BOE-A-2003-10464](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-10464).
+
+> Se modifica el apartado 2 por el art. único.18 del Acuerdo de 5 de octubre de 1994. [Ref. BOE-A-1994-23074](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-23074).
+
+###### Art. 63.
+
+1\. Sin perjuicio de su dependencia funcional del Pleno, de las Salas y de sus Presidentes, los Secretarios de Justicia dependerán directamente, a efectos administrativos, del Secretario general.
+
+2\. El personal que haya de ser adscrito a las Secretarías de Justicia, así como el resto del personal funcionario o laboral al servicio del Tribunal Constitucional, dependerá del Pleno, Sala o Presidente del Tribunal, de los letrados, secretarios de Justicia o Jefes del servicio o unidad a que estén adscritos, sin perjuicio de la jefatura superior del personal, que corresponde al Secretario general.
+
+> Se modifica el apartado 2 por el art. único.32 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+###### Art. 64.
+
+1\. En caso de vacante, licencia, ausencia u otra causa justificada, los funcionarios o contratados al servicio del Tribunal Constitucional serán sustituidos, mediante designación del Secretario general y según el turno que, en su caso, establezca, por funcionarios o contratados de su misma categoría.
+
+2.**(Derogado)**
+
+3\. Los funcionarios eventuales podrán ser sustituidos, en los supuestos previstos en este artículo, por personal funcionario o laboral al servicio del Tribunal Constitucional que realice tareas análogas, mediante designación del Secretario general, aprobada por el Presidente y a propuesta del Magistrado, letrado o Jefe del Servicio correspondiente.
+
+> Se deroga el apartado 2 por el art. único.33 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+## TÍTULO III — De los Letrados
+
+### CAPÍTULO I — De la selección y nombramiento de los Letrados
+
+###### Art. 65.
+
+La selección de los aspirantes a ingreso en el Cuerpo de Letrados del Tribunal Constitucional se realizará mediante concurso-oposición, previa convocatoria que se publicará en el «Boletín Oficial del Estado». En la convocatoria se especificará el número de plazas a proveer, el plazo para la presentación de solicitudes y las normas por las que se regirá el concurso-oposición.
+
+###### Art. 66.
+
+Para ser admitido al concurso-oposición será necesario haber accedido, por la condición de Licenciado en Derecho, a un cuerpo o escala del grupo A o a la carrera judicial o fiscal; no haber sido condenado, procesado o inculpado por delito doloso, a menos que hubiese obtenido la rehabilitación o hubiera recaído en la causa sentencia absolutoria o auto de sobreseimiento; no hallarse inhabilitado o suspendido para el ejercicio de funciones públicas y no estar separado mediante procedimiento judicial o disciplinario del servicio de cualquiera de las Administraciones Públicas o del de los órganos constitucionales del Estado o estatutarios de las Comunidades Autónomas.
+
+> Se modifica por el art. único.34 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+###### Art. 67.
+
+1\. En la fase de concurso se apreciarán los méritos académicos y profesionales de los aspirantes. Se tendrán también en cuenta otros méritos que el Tribunal calificador estime de utilidad para el desempeño de las funciones de letrado. El Tribunal calificador podrá exigir, si lo considera conveniente, la realización de pruebas que acrediten los méritos alegados.
+
+2\. El concurso se valorará en un 70 por 100 de la puntuación máxima total de ambas fases y para pasar a la de oposición será necesario obtener una calificación no inferior al 35 por 100 de la mencionada puntuación total.
+
+> Se modifica por el art. único.35 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+###### Art. 68.
+
+La fase de oposición constará de dos ejercicios:
+
+a) El primero consistirá en la redacción de un tema sacado a la suerte de un programa que comprenderá entre un mínimo de 50 y un máximo de 100 temas, que se publicará al convocarse el concurso-oposición.
+
+b) El segundo ejercicio consistirá en la redacción de un dictamen sobre un supuesto del que pueda conocer el Tribunal Constitucional.
+
+El tiempo máximo de que dispondrán los opositores para la realización de estas pruebas será, respectivamente, de cuatro y seis horas.
+
+> Redactado el apartado b) conforme a la corrección de errores publicada en BOE núm. 260, de 30 de octubre de 1990. [Ref. BOE-A-1990-26298](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-26298).
+
+###### Art. 69.
+
+La redacción por escrito de los dos ejercicios citados en el artículo anterior se realizará a puerta cerrada, siendo leídos posteriormente por los opositores en sesión pública ante el Tribunal calificador, el cual podrá plantear verbalmente a los opositores las preguntas o cuestiones aclaratorias que estime oportunas.
+
+###### Art. 70.
+
+Al concluir cada ejercicio, el Tribunal calificador hará pública la lista de los aspirantes aprobados y la puntuación obtenida por éstos, de acuerdo con las bases establecidas en la convocatoria del concurso-oposición.
+
+###### Art. 71.
+
+El Tribunal calificador estará constituido por el Presidente del Tribunal Constitucional, que podrá delegar en cualquier Magistrado, y por cuatro Vocales, elegidos por el Pleno entre los Magistrados y los Letrados del Tribunal. Para la válida constitución del Tribunal calificador será necesaria la presencia de todos sus miembros. Para su actuación bastará con la presencia de tres de ellos, y en ausencia del Presidente será presidido por el Magistrado más antiguo y, en caso de igual antigüedad, por el de mayor edad.
+
+###### Art. 72.
+
+Concluido el concurso-oposición, el tribunal calificador hará pública la lista de los aprobados por el orden de la puntuación total obtenida y la elevará, en unión de las actas de sus sesiones, al Tribunal Constitucional. En ningún caso dicha lista podrá contener mayor número de aprobados que de plazas.
+
+###### Art. 73.
+
+Quienes superen el concurso-oposición y estén comprendidos en la lista de aprobados, serán nombrados Letrados por el Presidente del Tribunal Constitucional. Con el juramento o promesa y la toma de posesión, que se hará ante el Secretario general, quedarán integrados en el Cuerpo de Letrados del Tribunal Constitucional.
+
+### CAPÍTULO II — De los derechos y deberes de los Letrados
+
+###### Art. 74.
+
+1\. Será aplicable a los Letrados el régimen de incompatibilidades al que remite la Ley Orgánica 1/1985, de 18 de enero.
+
+2\. La colaboración en la docencia universitaria deberá ser autorizada, en su caso, por el Pleno del Tribunal, según lo previsto en el artículo 2, g), de este Reglamento, previo informe del Secretario general, y siempre que el ejercicio de dicha actividad docente no menoscabe el servicio del Tribunal.
+
+###### Art. 75.
+
+Se aplicará a los Letrados lo dispuesto en la legislación reguladora del personal al servicio de la Administración de Justicia en cuanto a pérdida de la cualidad de funcionario y situaciones administrativas, con las particularidades que se establecen en los artículos siguientes.
+
+###### Art. 76.
+
+1\. Los miembros del Cuerpo de Letrados no podrán solicitar el paso a la situación de excedencia voluntaria hasta que transcurran tres años desde la toma de posesión y en ella no podrán permanecer más de diez años continuados, ni menos de dos.
+
+2\. El reingreso de los Letrados que se encuentren en situación de excedencia voluntaria deberá ir precedido de una información que acredite que el solicitante no se encuentra incurso en causa que le impida el ejercicio de la función.
+
+###### Art. 77.
+
+En caso de separación del servicio de los Letrados, la rehabilitación, una vez extinguida la responsabilidad y cancelados, en su caso, los antecedentes penales, es de la competencia del Pleno del Tribunal.
+
+###### Art. 78.
+
+1\. La jubilación forzosa por razón de edad se declarará de oficio al cumplir el Letrado la edad establecida a tal efecto para Jueces y Magistrados.
+
+2\. La jubilación por causa de incapacidad permanente se declarará previa instrucción de expediente, y se resolverá por el Presidente del Tribunal Constitucional, previo informe del Secretario general.
+
+###### Art. 79.
+
+El régimen de vacaciones, licencias y permisos será el que con carácter general se establece para el personal al servicio del Tribunal Constitucional.
+
+###### Art. 80.
+
+1\. Las retribuciones de los Letrados son básicas y complementarias. Las retribuciones básicas son las correspondientes a los miembros de la Carrera Judicial con categoría de Magistrado.
+
+2\. El complemento de destino retribuirá conjuntamente el nivel del puesto de trabajo, su especial dificultad técnica y la dedicación, responsabilidad e incompatibilidad de los Letrados y el Gerente.
+
+3\. Los letrados que desempeñen Jefaturas de Servicio, el Gerente y el Jefe del Gabinete percibirán un complemento específico.
+
+Quienes tras haber desempeñado durante tres o más años el cargo de Secretario general o de Secretario general adjunto, o ambos sucesivamente, se mantuvieran al servicio del Tribunal como letrados percibirán un complemento específico igual al que corresponda a los letrados Jefes de Servicio.
+
+> Se deroga el apartado 4, con efectos de 1 de julio de 2018, por el art. único del Acuerdo de 2 de julio de 2018. [Ref. BOE-A-2018-9543](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9543)
+
+> Se modifica el apartado 3 por el art. único.36 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Se modifica y renumera el apartado 3 como 4 y se añade un nuevo apartado 4 por el art. 1.14 del Acuerdo de 8 de septiembre de 1999. [Ref. BOE-A-1999-19076](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-19076).
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 260, de 30 de octubre de 1990. [Ref. BOE-A-1990-26298](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-26298).
+
+###### Art. 81.
+
+El régimen de Seguridad Social de los Letrados de carrera será el previsto para los miembros de la Carrera Judicial. El de los Letrados adscritos será el que les corresponda por su Cuerpo de origen.
+
+###### Art. 82.
+
+Cuando cesen en el servicio activo, los Letrados causarán para sí o para sus familiares las pensiones que se determinen en la legislación de derechos pasivos y de la Seguridad Social para los miembros de la Carrera Judicial. El haber regulador aplicable a estos efectos será el que se establezca anualmente en la Ley de Presupuestos Generales del Estado.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 260, de 30 de octubre de 1990. [Ref. BOE-A-1990-26298](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-26298).
+
+###### Art. 83.
+
+A los efectos de las indemnizaciones por razón del servicio, el Secretario-general quedará incluido en el régimen aplicable a los Subsecretarios de los distintos Departamentos ministeriales. A los Letrados les será aplicable el régimen establecido para los miembros de la Carrera Judicial.
+
+### CAPÍTULO III — Del régimen disciplinario
+
+###### Art. 84.
+
+1\. Los Letrados están sujetos a responsabilidad disciplinaria en los casos y con las garantías establecidas en este Reglamento.
+
+2\. El procedimiento sancionador se iniciará por acuerdo del Secretario General, por propia iniciativa, o como consecuencia de orden del Tribunal, o de su Presidente o Vicepresidente.
+
+3\. Se aplicarán las normas que respecto a procedimiento disciplinario del personal al servicio de la Administración dé Justicia se establecen en su legislación propia.
+
+###### Art. 85.
+
+1\. Las faltas cometidas por los Letrados se calificarán de muy graves, graves o leves.
+
+2\. Las faltas leves prescribirán a los dos meses, las graves a los seis meses y las muy graves al año, desde la fecha de su comisión.
+
+###### Art. 86.
+
+1\. Se consideran faltas muy graves:
+
+a) La infracción de las incompatibilidades establecidas en la Ley Orgánica del Tribunal.
+
+b) El abandono o el retraso injustificado y reiterado en el desempeño de la función que tenga encomendada.
+
+c) El quebrantamiento del deber de secreto.
+
+d) La ausencia injustificada al Tribunal por más de ocho días.
+
+e) La emisión de informe, o la preparación de estudios manifiestamente ilegales o faltando intencionadamente a la verdad en la constatación de los hechos o en las citas legales, jurisprudenciales o doctrinales.
+
+f) La reiteración o reincidencia en la comisión de faltas graves.
+
+g) Haber sido condenado por delito doloso.
+
+2\. Se consideran faltas graves:
+
+a) La falta de respeto a los Magistrados o al Secretario general.
+
+b) La ausencia injustificada por más de tres días y menos de ocho.
+
+c) Las manifestaciones públicas de crítica o disconformidad respecto a las decisiones del Tribunal, si no se hubieren realizado con finalidad doctrinal o científica.
+
+d) El quebrantamiento del deber de reserva o sigilo, cuando no constituya falta muy grave.
+
+e) La falta de respeto al Ministerio Público, al Defensor del Pueblo o a otras representaciones públicas, o a los Abogados y Procuradores que acudan al Tribunal.
+
+f) El exceso o abuso de autoridad en el ejercicio de sus funciones.
+
+g) El incumplimiento de los deberes y obligaciones inherentes a la condición de Letrado o al cargo de Gerente que, por su intencionalidad, perturbación del servicio o atentado a la dignidad del Tribunal deban calificarse de graves.
+
+h) La reiteración o reincidencia en la comisión de faltas leves.
+
+3\. Se consideran faltas leves:
+
+a) El retraso, negligencia o descuido en el cumplimiento de las funciones.
+
+b) La falta no repetida de asistencia sin causa justificada.
+
+c) La incorrección o desconsideración con los Magistrados o el Secretario general, el Ministerio Fiscal, el Defensor del Pueblo u otras representaciones públicas, o los Abogados o Procuradores o las personas que tengan asuntos ante el Tribunal.
+
+d) La desconsideración con los Secretarios de Justicia u otro personal del Tribunal.
+
+e) Las otras vulneraciones de los deberes u obligaciones de los Letrados que no tengan una calificación más grave.
+
+> Redactado el apartado 2.h) conforme a la corrección de errores publicada en BOE núm. 260, de 30 de octubre de 1990. [Ref. BOE-A-1990-26298](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-26298).
+
+###### Art. 87.
+
+1\. Las sanciones que pueden imponerse por razón de las faltas a las que se refiere el artículo anterior son las de advertencia, reprensión, pérdida de hasta sesenta días de remuneraciones, excepto el 75 por 100 de las retribuciones básicas y la totalidad de la Ayuda Familiar; suspensión de un mes a un año y separación.
+
+2\. Las faltas leves se sancionarán con advertencia o reprensión; las graves con reprensión o pérdida de remuneraciones, y las muy graves con pérdida de remuneraciones por más de treinta días, suspensión e separación.
+
+###### Art. 88.
+
+El Secretario general es el competente para imponer la sanción de advertencia; el Presidente, la de reprensión, pérdida de remuneraciones y suspensión, y el Pleno, la de separación.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 260, de 30 de octubre de 1990. [Ref. BOE-A-1990-26298](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-26298).
+
+###### Art. 89.
+
+El Presidente del Tribunal, a propuesta del Instructor del procedimiento disciplinario, o por sí, podrá acordar preventivamente la suspensión provisional del Letrado indiciariamente incurso en falta muy grave, cuando la continuidad del mismo en el desempeño de sus funciones resulte notoriamente perturbadora para el buen servicio del Tribunal. El suspenso provisional tendrá derecho a percibir en esta situación el 75 por 100 de sus retribuciones básicas y la totalidad de la Ayuda Familiar.
+
+###### Art. 90.
+
+1\. Las sanciones disciplinarias que se impongan a los Letrados o al Gerente se anotarán en su expediente personal, con indicación de las faltas que las motivaron.
+
+2\. La sanción de advertencia quedará cancelada por el transcurso del plazo de seis meses desde que adquirió firmeza. La anotación de la reprensión se cancelará cuando haya transcurrido el plazo de un año desde que se impuso; la de pérdida de retribuciones, por el transcurso de dos años, y la de suspensión, por el de cuatro.
+
+3\. Para la cancelación será preciso que durante el tiempo establecido en el párrafo anterior no hubiere dado lugar el sancionado a otro procedimiento disciplinario que termine con la imposición de sanción. Cuando al tiempo de la cancelación se siguiere procedimiento, se esperará a su terminación.
+
+###### Art. 91.
+
+Se aplica al Secretario general el régimen disciplinario establecido para los Letrados, si bien la competencia para imponer la sanción de advertencia corresponde al Presidente del Tribunal.
+
+## TÍTULO IV — Del personal adscrito
+
+### CAPÍTULO I — De la adscripción
+
+###### Art. 92.
+
+1\. Los concursos de méritos serán resueltos por el Presidente del Tribunal a propuesta de la correspondiente comisión de valoración. En los procedimientos de libre designación, la propuesta de nombramiento corresponderá al Secretario general, previo informe, en su caso, del jefe de la unidad o servicio correspondiente.
+
+2\. La adscripción al Tribunal se formalizará con la toma de posesión del funcionario nombrado ante el Secretario general.
+
+> Se modifica por el art. único.37 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+###### Art. 93.
+
+1\. El cese en la adscripción se verificará por decisión del funcionario adscrito o del Tribunal Constitucional, de conformidad, en uno y otro caso, con lo dispuesto en los apartados siguientes.
+
+2\. Transcurridos dos años desde su toma de posesión, los funcionarios a los que se refiere este título podrán solicitar su reincorporación al servicio activo en la plaza que tuvieran reservada. La solicitud se dirigirá al Secretario general del Tribunal Constitucional, quien la remitirá, con su informe, al Ministerio que haya de resolver.
+
+El transcurso de dos años desde la toma de posesión será también condición necesaria para que los funcionarios adscritos puedan, de conformidad con la normativa que resulte aplicable, concursar a otra plaza de las reservadas a su Cuerpo.
+
+3\. Sin perjuicio de lo dispuesto en el artículo 14 c) de este Reglamento, el Presidente del Tribunal, a propuesta de la Junta de Gobierno, podrá acordar el cese en la adscripción, con reincorporación del funcionario a la Administración de procedencia, en cualquiera de los siguientes supuestos:
+
+a) Cuando el puesto de trabajo específico que ocupare el funcionario desapareciera de la plantilla del Tribunal y no procediera la continuación de la adscripción en puesto de carácter análogo.
+
+b) Cuando el funcionario adscrito hubiere incurrido en responsabilidad disciplinaria, por falta grave o muy grave, de conformidad con lo dispuesto en el artículo 97 de este Reglamento.
+
+> Se modifica el apartado 3 por el art. único.38 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+### CAPÍTULO II — De los derechos y deberes de los funcionarios adscritos
+
+###### Art. 94.
+
+Los funcionarios adscritos al Tribunal Constitucional tendrán, cualquiera que sea su procedencia, los derechos y deberes establecidos en la normativa reguladora del personal al servicio de la Administración de Justicia, sin perjuicio de la aplicación preferente de la legislación referida al propio Tribunal y de lo dispuesto en el presente Reglamento, en las demás normas dictadas por el Tribunal y en los acuerdos, resoluciones e instrucciones de sus órganos de gobierno. Tendrá carácter supletorio la legislación en materia de función pública.
+
+> Se modifica por el art. único.39 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+###### Art. 95.
+
+Las vacaciones, licencias o permisos se regirán por las normas generales a las que remite el artículo anterior, si bien la concesión de licencias y permisos corresponderá al Secretario general, excepto las extraordinarias para realizar estudios, que se concederán, si procediese, por el Presidente del Tribunal, previo informe del Secretario general.
+
+###### Art. 96.
+
+Las retribuciones de los funcionarios a los que se refiere este título se ordenarán por los acuerdos que adopte el Pleno, en el marco de las previsiones de la relación de puestos de trabajo y con arreglo a los siguientes criterios:
+
+1\. Las retribuciones básicas serán las que correspondan a los respectivos Cuerpos o Escalas a que pertenezcan los funcionarios.
+
+2\. El complemento de destino retribuirá conjuntamente, para cada puesto de trabajo, su nivel de responsabilidad, dedicación y, en su caso, su especial dificultad técnica.
+
+3\. El Pleno establecerá los complementos específicos que correspondan a los puestos de trabajo determinados en la relación de puestos de trabajo, en atención a las condiciones particulares concurrentes en los mismos.
+
+4\. El Pleno podrá establecer, atendiendo a la Administración de procedencia de los funcionarios, los pertinentes complementos de adecuación.
+
+5\. Mediante acuerdo del Pleno se regulará el complemento de carrera horizontal.
+
+> Se modifica por el art. 1 del Acuerdo de 8 de julio de 2026. [Ref. BOE-A-2026-16307](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16307)
+
+> Se modifica el apartado 4 por el art. único.40 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+> Se modifica por el art. 1.26 del Acuerdo de 19 de diciembre de 2002. [Ref. BOE-A-2002-25041](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25041).
+
+> Se modifica el apartado 3 por el art. 1.15 del Acuerdo de 8 de septiembre de 1999. [Ref. BOE-A-1999-19076](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-19076).
+
+###### Art. 97.
+
+1\. El régimen disciplinario de los funcionarios adscritos será el correspondiente al personal al servicio de la Administración de Justicia, sin más peculiaridades que las establecidas en los apartados siguientes.
+
+2\. Tendrán, en todo caso, la consideración de faltas muy graves la violación del deber de secreto y la falta de probidad profesional en el desempeño de las funciones que correspondan al funcionario.
+
+3\. El procedimiento disciplinario se iniciará por resolución del Secretario general, por propia iniciativa o como consecuencia de orden superior, o a solicitud del Secretario de Justicia o Jefe del servicio o unidad de quien dependa directamente el funcionario.
+
+4\. El Secretario general es competente para imponer las sanciones de advertencia, apercibimiento, reprensión, pérdida de haberes y suspensión.
+
+5\. Si, a resultas del expediente disciplinario, la sanción aplicable fuera la de separación del servicio, las actuaciones practicadas serán remitidas al Ministerio correspondiente, con el informe del Secretario general, quedando el funcionario, mientras se tramita el expediente disciplinario, en situación de suspensión provisional.
+
+> Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 260, de 30 de octubre de 1990. [Ref. BOE-A-1990-26298](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-26298).
+
+## TÍTULO V — De los funcionarios de empleo
+
+### CAPÍTULO ÚNICO
+
+###### Art. 98.
+
+1\. El personal eventual será nombrado y cesado libremente, de conformidad con lo que disponga la relación de puestos de trabajo del Tribunal. Su cese tendrá lugar, en todo caso, cuando se produzca el de la autoridad a la que presta la función de confianza o asesoramiento especial.
+
+2\. Se asignará al personal eventual una retribución igual a la establecida para aquellos funcionarios de carrera que realicen una función análoga.
+
+3\. El personal eventual se regirá por las normas establecidas para los funcionarios de carrera en lo que les sea aplicable y resulte adecuado a su carácter de eventualidad.
+
+> Se modifica por el art. único.41 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+###### Art. 99.
+
+**(Derogado)**
+
+> Se deroga por el art. único.42 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+###### Art. 100.
+
+**(Derogado)**
+
+> Se deroga por el art. único.43 del Acuerdo de 1 de abril de 2011. [Ref. BOE-A-2011-6009](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6009).
+
+###### Disposición adicional primera.
+
+El personal de otras Administraciones Públicas que, sin estar adscrito al Tribunal, preste su servicio en el mismo se regirá por la normativa que, en cada caso, le sea de aplicación; sin perjuicio de lo prevenido en el artículo 15 de este Reglamento, y de la posibilidad de que el Tribunal, en uso de su autonomía presupuestaria, acuerde conceder a este personal una retribución especifica.
+
+> Se numera como disposición adicional 1 por el art. único.1 del Acuerdo de 23 de julio de 2015. [Ref. BOE-A-2015-8373](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8373).
+
+###### Disposición adicional segunda.
+
+1\. Los Magistrados del Tribunal Constitucional que hubieran desempeñado el cargo durante un mínimo de tres años tendrán derecho a una remuneración de transición por un año, equivalente a la que percibieran en el momento del cese, incluida la correspondiente a los trienios que hayan sido reconocidos durante el ejercicio del cargo.
+
+2\. El Magistrado cesante podrá optar por percibir la remuneración de transición de modo global o fraccionadamente, a petición del interesado.
+
+3\. En caso de fallecimiento, la remuneración de transición se transmite con su misma extensión, alcance y contenido al cónyuge e hijos, por mitad.
+
+4\. A los efectos de la disposición adicional primera de la Ley 3/2015, de 30 de marzo, los miembros del Tribunal Constitucional que, tras su cese, optaran por la percepción de la pensión indemnizatoria o la remuneración de transición sólo podrán ejercer actividades públicas o privadas previa renuncia a percibir cualquier retribución o contraprestación, sin perjuicio de las legalmente compatibles.
+
+> Se añade por el art. único.2 del Acuerdo de 23 de julio de 2015. [Ref. BOE-A-2015-8373](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8373).
+
+###### Disposición adicional tercera.
+
+A los efectos del artículo 87.3 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, y del artículo 33.2 de la Ley 31/1990, de 27 de diciembre, el cargo de Jefe del Gabinete de la Presidencia del Tribunal Constitucional tendrá la consideración de alto cargo.
+
+> Se añade por el art. único.2 del Acuerdo de 21 de abril de 2016. [Ref. BOE-A-2016-4039](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4039).
+
+###### Disposición transitoria primera.
+
+Una comisión integrada por dos Magistrados, designados por el Pleno, el Secretario general, el Gerente y dos Letrados, designados por el Secretario general, preparará y elevará al Pleno del Tribunal, antes de que transcurra un año desde la entrada en vigor de este Reglamento:
+
+a) El proyecto de relación de puestos de trabajo en el Tribunal.
+
+b) Un proyecto de norma reglamentaria que, adecuando la normativa general a las condiciones propias del Tribunal, ordene los órganos de representación del personal al servicio del Tribunal y, en su caso, la Mesa de negociación. En tanto dicha norma reglamentaria no entre en vigor, seguirán siendo de aplicación en el Tribunal los preceptos legales relativos a las Juntas de Personal.
+
+Antes de elevar al Pleno uno y otro proyecto, la Comisión someterá los mismos a la consideración e informe de las representaciones del personal. En todo caso, los Magistrados comisionados y el Secretario General informarán periódicamente al Pleno sobre el estado de los trabajos de la Comisión.
+
+###### Disposición transitoria segunda.
+
+Lo dispuesto en el artículo 49 de este Reglamento no impedirá que continúen prestando servicio al Tribunal quienes, al tiempo de su entrada en vigor, estuvieran contratados en régimen laboral. Los nuevos contratos laborales se acomodarán, en todo caso, a lo prevenido en el citado precepto reglamentario.
+
+###### Disposición transitoria tercera.
+
+En tanto no se apruebe la relación de puestos de trabajo, se cubrirán mediante adscripción temporal las vacantes de Letrados que se produzcan en las plazas que estén así provistas a la entrada en vigor de este Reglamento, sin perjuicio de lo prevenido en su artículo 53.5.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 260, de 30 de octubre de 1990. [Ref. BOE-A-1990-26298](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-26298).
+
+###### Disposición transitoria cuarta.
+
+Lo dispuesto en el artículo 61.5 de este Reglamento no será obstáculo para la convocatoria y provisión, en tanto no se apruebe la relación de puestos de trabajo, de las plazas vacantes que figuren en la plantilla del Tribunal.
+
+###### Disposición final primera.
+
+Queda derogado el Reglamento de Organización y Personal del Tribunal Constitucional de 15 de enero de 1981.
+
+###### Disposición final segunda.
+
+Este Reglamento entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 19 de julio de 1990.–
+
+El Presidente,
+
+TOMÁS Y VALIENTE

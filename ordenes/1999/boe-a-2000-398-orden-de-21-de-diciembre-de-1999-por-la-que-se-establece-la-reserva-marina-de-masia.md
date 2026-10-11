@@ -1,0 +1,264 @@
+---
+title: "Orden de 21 de diciembre de 1999 por la que se establece la reserva marina de Masía Blanca, frente al término municipal de El Vendrell (Tarragona)"
+identifier: "BOE-A-2000-398"
+eli: "https://www.boe.es/eli/es/o/1999/12/21/(7)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1999-12-21
+published: 2000-01-08
+in_force_from: 2000-01-09
+last_amended: 2026-06-15
+consolidated: 2026-07-10
+gazette: "Boletín Oficial del Estado núm. 7"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2000-398"
+retrieved: 2026-10-11
+---
+
+# Orden de 21 de diciembre de 1999 por la que se establece la reserva marina de Masía Blanca, frente al término municipal de El Vendrell (Tarragona)
+
+La zona estudiada como reserva marina está situada en el litoral de Tarragona y ocupa una superficie de 277,9 hectáreas.
+
+Este espacio marítimo se distingue en primer lugar por su singularidad, ya que contiene comunidades de substrato duro poco frecuente, en segundo lugar por su valor ecológico determinado por la diversidad de especies tanto vegetales como animales y finalmente por su fragilidad dado que las praderas de Posidonia muestran cierto grado de deterioro.
+
+En consecuencia, se hace necesario el establecimiento de una figura eficaz de protección pesquera, para favorecer la recuperación de las especies y evitar el deterioro de las mismas en beneficio de los pescadores de la zona.
+
+El establecimiento de la reserva marina ha sido propuesto por la Comunidad Autónoma de Cataluña, el Ayuntamiento de El Vendrell y la Cofradía de Pescadores de Calafell.
+
+Se ha solicitado informe del Instituto Español de Oceanografía, en el que se confirma el interés de declarar la citada zona como reserva marina. Asimismo, ha tenido audiencia el sector pesquero afectado.
+
+Conforme a lo establecido en el artículo 1.3 del Reglamento (CE) 1626/94 del Consejo, de 27 de junio de 1994, por el que se establecen determinadas medidas técnicas de conservación de los recursos pesqueros del Mediterráneo, ha sido informada la Comisión.
+
+La presente Orden se dicta de acuerdo con el artículo 149.1.19 de la Constitución que atribuye al Estado la competencia estatal exclusiva en materia de pesca marítima.
+
+En su virtud dispongo:
+
+## Artículo 1. Delimitación de la reserva marina parcial.
+
+Se establece una zona de reserva marina en el entorno de El Roquissar del Vendrell, constituida por el espacio de aguas exteriores delimitado por una circunferencia de 0,2 millas de radio y cuyo centro es el punto de coordenadas 1.º 30' 40.2'' E y 41.º 10' 27'' N.
+
+## Artículo 2. Definición de la zona de amortiguación.
+
+Por fuera de la citada reserva a que se refiere el artículo anterior, se establece una zona de amortiguación, definida por una corona circular de 0,6 millas de ancho, concéntrico a la circunferencia que delimita la reserva marina.
+
+Queda excluida de la zona de amortiguación el área del puerto deportivo de Comarruga abarcada por la corona circular definida en el párrafo anterior.
+
+> Se añade un párrafo por el art. único.1 de la Orden de 20 de junio de 2001. [Ref. BOE-A-2001-13425](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13425)
+
+## Artículo 3. Limitaciones de uso en la reserva marina.
+
+1\. En la zona de reserva indicada queda prohibido cualquier tipo de pesca marítima y extracción de fauna y flora.
+
+2\. Para fines de carácter científico, previa autorización expresa de la Secretaría General de Pesca Marítima, podrá permitirse el acceso a dicha zona y la toma de muestras de fauna y flora.
+
+## Artículo 4. Pesca profesional en la zona de amortiguación.
+
+1\. Dentro de la zona de amortiguación y fuera de la zona de reserva, queda prohibido cualquier tipo de pesca marítima y extracción de fauna y flora, con la excepción de la pesca marítima profesional efectuada con palangre de fondo y trasmallo, artes menores tradicionales en la zona.
+
+A efectos de lo dispuesto en el párrafo anterior:
+
+a) Se define como palangre de fondo un aparejo de anzuelo, fijo al fondo, que consta de una línea madre horizontal de la que penden brazoladas verticales, a las que se empatan los anzuelos. En los extremos y a lo largo de la línea madre van dispuestos los necesarios elementos de fondeo y flotación que permiten mantener los anzuelos a las profundidades convenientes. Las especies objetivo son las demersales.
+
+Como características técnicas, el palangre de fondo deberá reunir las siguientes:
+
+Longitud máxima de la línea madre: 250 metros.
+
+Número máximo de anzuelos: 50.
+
+Dimensiones mínimas de los anzuelos: Largo: 3,55 +/- 0,35 centímetros; ancho del seno: 1,30 +/- 0,13 centímetros.
+
+b) Se define como trasmallo, el arte de enmalle fijo al fondo, de forma rectangular, constituido por una o varias piezas, cada una de ellas formada por tres paños de red superpuestos. Los dos paños exteriores son de iguales dimensiones y del mismo tamaño de malla y diámetro de hilo. El paño interior, de malla de tamaño inferior, podrá ser de mayor extensión.
+
+Como características técnicas, el trasmallo deberá reunir las siguientes:
+
+Longitud máxima del arte: 500 metros.
+
+Longitud máxima de cada pieza: 50 metros.
+
+Altura máxima del arte: 2 metros.
+
+Dimensiones mínimas de las mallas de los paños exteriores: 200 milímetros.
+
+Dimensiones mínimas de las mallas del paño interior: 50 milímetros.
+
+2\. Para fines de carácter científico y previa autorización expresa de la Secretaría General de Pesca Marítima, podrá permitirse el acceso a dichas zonas y la toma de muestras de fauna y flora.
+
+3\. Las embarcaciones con derecho a faenar en la reserva marina serán aquellas que demuestren su habitualidad en el ejercicio de la actividad pesquera profesional con los artes de palangre de fondo y trasmallo en la citada reserva. Como habitualidad se entenderá el haber faenado en el interior del área de la reserva. Este extremo se acreditará mediante la certificación acreditativa expedida por la Cofradía de Pescadores de Calafell o por la Cofradía de Pescadores de Torredembarra.
+
+4\. Durante la misma jornada de pesca sólo se podrá ejercer la actividad pesquera con un único arte o aparejo, por lo que no se permite simultanear la pesca con trasmallo y palangre de fondo.
+
+> Se modifican los apartados 1, 3 y se añade el apartado 4 por el art. único.2 a 4 de la Orden de 20 de junio de 2001. [Ref. BOE-A-2001-13425](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13425)
+
+## Artículo 5. Ejercicio de las actividades subacuáticas.
+
+1\. Régimen de acceso a la zona de reserva marina para el ejercicio de las actividades subacuáticas:
+
+En la reserva marina y en su zona de amortiguación podrán practicarse actividades subacuáticas, en su modalidad de buceo autónomo, previo permiso de acceso del Jefe de la Dependencia de Agricultura y Pesca de la provincia de Tarragona, que lo concederá por riguroso orden de presentación de solicitudes hasta el máximo previsto en el anexo de la presente Orden. Junto con la solicitud deberá acompañarse acreditación del título que habilite para el ejercicio de esta actividad.
+
+A la vista del estado actual de la reserva, se establece un periodo de tres años en los que no se podrán realizar actividades subacuáticas en la misma, salvo las científicas.
+
+> Téngase en cuenta que queda prorrogada por un periodo de tres años, hasta el 10 de julio de 2029, la veda establecida en el apartado 1 por el art. 1.1 de la Orden APA/600/2026, de 4 de junio. [Ref. BOE-A-2026-13002](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13002)
+
+2\. Obligaciones y prohibiciones.
+
+2.1 En relación a los buceadores:
+
+a) Obligaciones:
+
+Solicitar, cuando proceda, la utilización de linterna o focos que deberá constar expresamente en la autorización de inmersión.
+
+Ejercer la actividad perturbando lo menos posible el estado del medio, así como preservar la integridad de individuos o comunidades dependientes del medio marino.
+
+Identificarse, a petición de los servicios oficiales de la reserva marina, presentando durante, o en su caso después de la inmersión, la documentación relativa al permiso de acceso e identidad.
+
+Respetar la práctica de la pesca profesional, no interfiriendo con las embarcaciones que estén faenando ni con los artes que pudieran estar calados.
+
+b) Prohibiciones:
+
+Las inmersiones nocturnas.
+
+Las inmersiones desde tierra.
+
+La utilización de torpedos.
+
+La tenencia de instrumento alguno que pueda utilizarse para la pesca o extracción de especies marinas, exceptuando un cuchillo por razones de seguridad.
+
+La recolección o extracción de organismos o parte de organismos, vivos o muertos, animales o vegetales.
+
+La extracción de minerales o restos arqueológicos.
+
+Alimentar a los animales durante las inmersiones.
+
+Perturbar a las comunidades de organismos marinos.
+
+Efectuar pruebas de mar o prácticas de escuelas de buceo.
+
+2.2 En relación a los patrones de las embarcaciones:
+
+a) Obligaciones:
+
+Ponerse en contacto, por radio, lo antes posible, el día de la inmersión, preferiblemente de ocho a diez de la mañana con la autoridad responsable de la reserva marina.
+
+Facilitar, durante su estancia en la reserva marina, a la autoridad responsable de la misma, los permisos de acceso e identidades de los practicantes de la actividad.
+
+Cuando se detecte irregularidades en la documentación examinada, podrá ordenarse la suspensión de las inmersiones previstas, levantándose el acta correspondiente en la que se detallarán las causas de incumplimiento de las condiciones de autorización.
+
+Seguir en todo momento las indicaciones de las autoridades responsables de la reserva marina: Zona o zonas de inmersión, condiciones del ejercicio de la actividad y otros aspectos relativos al desarrollo de la misma.
+
+Asegurarse que la embarcación exhiba, mientras dure la inmersión, la preceptiva bandera "A" del código internacional de señales.
+
+b) Prohibiciones:
+
+La tenencia a bordo de cualquier tipo de instrumento, arte o aparejo que pueda utilizarse para la pesca o extracción de especies marinas.
+
+Encontrarse fondeadas simultáneamente dos o más embarcaciones dentro de un radio mínimo de 100 metros.
+
+3\. Cupos de inmersión, número de barcos y seguimiento de la actividad.
+
+3.1 Los cupos de inmersión diarios permitidos, así como el número máximo de embarcaciones destinadas para ello por zonas y temporada, serán los que se establecen en el anexo de la presente Orden.
+
+3.2 Al objeto de proceder al adecuado seguimiento de la actividad, los solicitantes de los permisos informarán al Jefe de la Dependencia de Agricultura y Pesca de aquellos permisos obtenidos que, por cualquier causa, no vayan a ser utilizados, así como los que no se hubiesen utilizado, con especificación de las causas o motivos.
+
+> Se prorroga por un periodo de tres años, hasta el 10 de julio de 2029, la veda establecida en el apartado 1 por el art. 1.1 de la Orden APA/600/2026, de 4 de junio. [Ref. BOE-A-2026-13002](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13002)
+
+> Se prorroga por un periodo de tres años, hasta el 10 de julio de 2026, la veda establecida en el apartado 1 por el art. 1.1 de la Orden APA/592/2023, de 1 de junio. [Ref. BOE-A-2023-13923](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-13923)
+
+> Se prorroga por un periodo de tres años, hasta el 10 de julio de 2023, la veda establecida en el apartado 1 por el art. único de la Orden APA/547/2019, de 26 de abril. [Ref. BOE-A-2019-7329](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-7329)
+
+> El periodo de veda señalado podrá, en su caso, ser prorrogado en función de la eficacia y utilidad de la veda.
+
+> Se prorroga por un periodo de tres años, hasta el 10 de julio de 2019, la veda establecida en el apartado 1 por el art. único de la Orden AAA/487/2016, de 31 de marzo. [Ref. BOE-A-2016-3361](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3361)
+
+> El periodo de veda señalado podrá, en su caso, ser prorrogado en función del seguimiento de la eficacia y utilidad de la veda.
+
+> Se prorroga por un periodo de tres años la veda establecida en el apartado 1 por el art. único de la Orden AAA/513/2013, de 22 de marzo. [Ref. BOE-A-2013-3510](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3510)
+
+> El periodo de veda señalado podrá, en su caso, ser prorrogado en función del seguimiento de la eficacia y utilidad de la veda.
+
+> Se prorroga por un periodo de tres años la veda establecida en el apartado 1 por el art. único de la Orden ARM/1004/2010, de 22 de abril. [Ref. BOE-A-2010-6542](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6542)
+
+> El periodo de veda señalado podrá, en su caso, ser prorrogado en función del seguimiento de la eficacia y utilidad de la veda.
+
+> Se prorroga por un periodo de tres años la veda establecida en el apartado 1 por el art. único de la Orden APA/1993/2007, de 26 de junio. [Ref. BOE-A-2007-13080](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13080)
+
+> El periodo de veda señalado podrá, en su caso, ser prorrogado en función del seguimiento de la eficacia y utilidad de la veda.
+
+> Se prorroga por un periodo de tres años la veda establecida en el apartado 1 por el art. único de la Orden APA/2265/2004, de 30 de junio. [Ref. BOE-A-2004-12814](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-12814)
+
+> Se modifica el apartado 1 por el art. único.5 de la Orden de 20 de junio de 2001. [Ref. BOE-A-2001-13425](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13425)
+
+## Artículo 6. Infracciones.
+
+Las infracciones que se cometan contra lo regulado en la presente norma serán sancionadas de conformidad a lo dispuesto en la Ley 14/1998 de 1 de junio por la que se establece el régimen de control para la protección de los recursos pesqueros.
+
+## Artículo 7. Veda.
+
+Se establece una veda de tres años para el ejercicio de la pesca marítima profesional en la reserva.
+
+> Téngase en cuenta que queda prorrogada por un periodo de tres años, hasta el 10 de julio de 2029, la veda establecida en este artículo por el art. 1.1 de la Orden APA/600/2026, de 4 de junio. [Ref. BOE-A-2026-13002](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13002)
+
+> Se prorroga por un periodo de tres años, hasta el 10 de julio de 2029, la veda establecida en este artículo por el art. 1.1 de la Orden APA/600/2026, de 4 de junio. [Ref. BOE-A-2026-13002](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13002)
+
+> Se prorroga por un periodo de tres años, hasta el 10 de julio de 2026, la veda establecida en este artículo por el art. 1.1 de la Orden APA/592/2023, de 1 de junio. [Ref. BOE-A-2023-13923](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-13923)
+
+> Se prorroga por un periodo de tres años, hasta el 10 de julio de 2023, la veda establecida en este artículo por el art. único de la Orden APA/547/2019, de 26 de abril. [Ref. BOE-A-2019-7329](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-7329).
+
+> El periodo de veda señalado podrá, en su caso, ser prorrogado en función de la eficacia y utilidad de la veda.
+
+> Se prorroga por un periodo de tres años, hasta el 10 de julio de 2019, la veda establecida en este artículo por el art. único de la Orden AAA/487/2016, de 31 de marzo. [Ref. BOE-A-2016-3361](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3361)
+
+> El periodo de veda señalado podrá, en su caso, ser prorrogado en función del seguimiento de la eficacia y utilidad de la veda.
+
+> Se prorroga por un periodo de tres años la veda establecida en este artículo por el art. único de la Orden AAA/513/2013, de 22 de marzo. [Ref. BOE-A-2013-3510](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3510)
+
+> El periodo de veda señalado podrá, en su caso, ser prorrogado en función del seguimiento de la eficacia y utilidad de la veda.
+
+> Se prorroga por un periodo de tres años la veda establecida en este artículo por el art. único de la Orden ARM/1004/2010, de 22 de abril. [Ref. BOE-A-2010-6542](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-6542)
+
+> El periodo de veda señalado podrá, en su caso, ser prorrogado en función del seguimiento de la eficacia y utilidad de la veda.
+
+> Se prorroga por un periodo de tres años la veda establecida en este artículo por el art. único de la Orden APA/1993/2007, de 26 de junio. [Ref. BOE-A-2007-13080](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13080)
+
+> El periodo de veda señalado podrá, en su caso, ser prorrogado en función del seguimiento de la eficacia y utilidad de la veda.
+
+> Se prorroga por un periodo de tres años la veda establecida en este artículo por el art. único de la Orden APA/2265/2004, de 30 de junio. [Ref. BOE-A-2004-12814](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-12814)
+
+> Se añade por el art. único.6 de la Orden de 20 de junio de 2001. [Ref. BOE-A-2001-13425](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13425)
+
+## Disposición adicional única. Elaboración del censo.
+
+La Secretaría General de Pesca Marítima elaborará un censo de las embarcaciones de pesca marítima profesional, con derecho a faenar en el ámbito de la reserva marina que será publicado en el "Boletín Oficial del Estado".
+
+## Disposición final primera. Facultad de aplicación.
+
+Se faculta al Secretario general de Pesca Marítima para dictar las Resoluciones y adoptar las medidas que sean necesarias para el cumplimiento de la presente Orden.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Madrid, a 21 de diciembre de 1999.
+
+POSADA MORENO
+
+Ilmos. Sres. Secretario general de Pesca Marítima, Director general de Recursos Pesqueros y Director general de Estructuras y Mercados Pesqueros.
+
+## ANEXO — Cupos máximos de inmersiones y embarcaciones
+
+| Inmersiones | Lunes a viernes | Sábados, domingos y festivos |
+|---|---|---|
+| Temporada alta. | 24 inmersiones/día. | 36 inmersiones/día. |
+| Temporada baja. | 12 inmersiones/día. | 12 inmersiones/día. |
+
+Embarcaciones: Un máximo de 3 barcos por día.
+
+TEMPORADAS DE ACTIVIDAD
+
+Temporada alta: Del 1 de junio al 30 de septiembre y la semana de Semana Santa, comprendiendo los dos fines de semana, el anterior y el posterior, a los días festivos.
+
+Temporada baja: Los meses de marzo, abril, mayo y octubre, exceptuando Semana Santa.
+
+Temporada sin actividad: Los meses de noviembre a febrero, ambos incluidos.

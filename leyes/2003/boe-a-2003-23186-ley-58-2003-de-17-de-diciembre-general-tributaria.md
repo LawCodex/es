@@ -2166,32 +2166,6 @@ En todo caso, la comparecencia deberá producirse en el plazo de 15 días natura
 
 3\. Cuando el inicio de un procedimiento o cualquiera de sus trámites se entiendan notificados por no haber comparecido el obligado tributario o su representante, se le tendrá por notificado de las sucesivas actuaciones y diligencias de dicho procedimiento, y se mantendrá el derecho que le asiste a comparecer en cualquier momento del mismo. No obstante, las liquidaciones que se dicten en el procedimiento y los acuerdos de enajenación de los bienes embargados deberán ser notificados con arreglo a lo establecido en esta Sección.
 
-> Téngase en cuenta que la redacción de este artículo, establecida por el art. 26 de la Ley 15/2014, de 16 de septiembre. [Ref. BOE-A-2014-9467](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9467). entra en vigor el 1 de junio de 2015.
-
-> Redacción anterior:
-
-> "1. Cuando no sea posible efectuar la notificación al interesado o a su representante por causas no imputables a la Administración tributaria e intentada al menos dos veces en el domicilio fiscal, o en el designado por el interesado si se trata de un procedimiento iniciado a solicitud del mismo, se harán constar en el expediente las circunstancias de los intentos de notificación. Será suficiente un solo intento cuando el destinatario conste como desconocido en dicho domicilio o lugar.
-
-> En este supuesto se citará al interesado o a su representante para ser notificados por comparecencia por medio de anuncios que se publicarán, por una sola vez para cada interesado, por alguno de los siguientes medios:
-
-> a) En la sede electrónica del organismo correspondiente, en las condiciones establecidas en los artículos 10 y 12 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
-
-> La Agencia Estatal de Administración Tributaria publicará por este medio los anuncios correspondientes a las notificaciones que deba practicar, en ejercicio de las competencias que le corresponden en aplicación del sistema tributario estatal y aduanero y en la gestión recaudatoria de los recursos que tiene atribuida o encomendada. Mediante Orden del Ministro de Economía y Hacienda se determinarán las condiciones, fechas de publicación y plazos de permanencia de los anuncios en la sede electrónica de la Agencia Estatal de Administración Tributaria.
-
-> Las demás Administraciones tributarias, cuando opten por este medio de publicación, deberán hacerlo de forma expresa mediante disposición normativa de su órgano de gobierno publicada en el “Boletín Oficial” correspondiente y en la que se haga constar la fecha en la que empieza a surtir efectos.
-
-> b) En el “Boletín Oficial del Estado” o en los boletines de las Comunidades Autónomas o de las provincias, según la Administración de la que proceda el acto que se pretende notificar y el ámbito territorial del órgano que lo dicte. La publicación en el “Boletín Oficial” correspondiente se efectuará los días cinco y veinte de cada mes o, en su caso, el inmediato hábil posterior.
-
-> Cada Administración tributaria podrá convenir con el boletín oficial correspondiente a su ámbito territorial de competencias que todos los anuncios a los que se refiere el párrafo anterior, con independencia de cuál sea el ámbito territorial de los órganos de esa Administración que los dicten, se publiquen exclusivamente en dicho “Boletín Oficial”. El convenio, que será de aplicación a las citaciones que deban anunciarse a partir de su publicación oficial, podrá contener previsiones sobre recursos, medios adecuados para la práctica de los anuncios y fechas de publicación de los mismos.
-
-> Estos anuncios podrán exponerse asimismo en la oficina de la Administración tributaria correspondiente al último domicilio fiscal conocido. En el caso de que el último domicilio conocido radicara en el extranjero, el anuncio se podrá exponer en el consulado o sección consular de la embajada correspondiente.
-
-> 2\. En la publicación en la sede electrónica y en los boletines oficiales constará la relación de notificaciones pendientes con indicación del obligado tributario o su representante, el procedimiento que las motiva, el órgano competente de su tramitación y el lugar y plazo en que el destinatario de las mismas deberá comparecer para ser notificado.
-
-> En todo caso, la comparecencia deberá producirse en el plazo de 15 días naturales, contados desde el siguiente al de la publicación en la sede electrónica o la publicación del anuncio en el correspondiente “Boletín Oficial”. Transcurrido dicho plazo sin comparecer, la notificación se entenderá producida a todos los efectos legales el día siguiente al del vencimiento del plazo señalado.
-
-> 3\. Cuando el inicio de un procedimiento o cualquiera de sus trámites se entiendan notificados por no haber comparecido el obligado tributario o su representante, se le tendrá por notificado de las sucesivas actuaciones y diligencias de dicho procedimiento, y se mantendrá el derecho que le asiste a comparecer en cualquier momento del mismo. No obstante, las liquidaciones que se dicten en el procedimiento y los acuerdos de enajenación de los bienes embargados deberán ser notificados con arreglo a lo establecido en esta Sección."
-
 > Se modifica por el art. 26 de la Ley 15/2014, de 16 de septiembre. [Ref. BOE-A-2014-9467](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9467).
 
 > Téngase en cuenta la disposición transitoria 5 de esta ley para su aplicación.
@@ -4043,38 +4017,6 @@ El retraso en más de cuatro meses en la llevanza de la contabilidad o libros y 
 El retraso en la obligación de llevar los Libros Registro a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria mediante el suministro de los registros de facturación en los términos establecidos reglamentariamente, se sancionará con multa pecuniaria proporcional de un 0,5 por ciento del importe de la factura objeto del registro, con un mínimo trimestral de 300 euros y un máximo de 6.000 euros.
 
 La utilización de libros y registros sin haber sido diligenciados o habilitados por la Administración cuando la normativa tributaria o aduanera lo exija se sancionará con multa pecuniaria fija de 300 euros.
-
-> Téngase en cuenta que esta última actualización establecida por el art. único.34 de la Ley 34/2015, de 21 de septiembre. [Ref. BOE-A-2015-10143](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10143). entra en vigor el 1 de enero de 2017, según determina su disposición final 12.
-
-> Redacción anterior:
-
-> "1. Constituye infracción tributaria el incumplimiento de obligaciones contables y registrales, entre otras:
-
-> a) La inexactitud u omisión de operaciones en la contabilidad o en los libros y registros exigidos por las normas tributarias.
-
-> b) La utilización de cuentas con significado distinto del que les corresponda, según su naturaleza, que dificulte la comprobación de la situación tributaria del obligado.
-
-> c) El incumplimiento de la obligación de llevar o conservar la contabilidad, los libros y registros establecidos por las normas tributarias, los programas y archivos informáticos que les sirvan de soporte y los sistemas de codificación utilizados.
-
-> d) La llevanza de contabilidades distintas referidas a una misma actividad y ejercicio económico que dificulten el conocimiento de la verdadera situación del obligado tributario.
-
-> e) El retraso en más de cuatro meses en la llevanza de la contabilidad o de los libros y registros establecidos por las normas tributarias.
-
-> f) La autorización de libros y registros sin haber sido diligenciados o habilitados por la Administración cuando la normativa tributaria o aduanera exija dicho requisito.
-
-> 2\. La infracción prevista en este artículo será grave.
-
-> 3\. La sanción consistirá en multa pecuniaria fija de 150 euros, salvo que sea de aplicación lo dispuesto en los párrafos siguientes.
-
-> La inexactitud u omisión de operaciones o la utilización de cuentas con significado distinto del que les corresponda se sancionará con multa pecuniaria proporcional del uno por ciento de los cargos, abonos o anotaciones omitidos, inexactos, falseados o recogidos en cuentas con significado distinto del que les corresponda, con un mínimo de 150 y un máximo de 6.000 euros.
-
-> La no llevanza o conservación de la contabilidad, los libros y los registros exigidos por las normas tributarias, los programas y archivos informáticos que les sirvan de soporte y los sistemas de codificación utilizados se sancionará con multa pecuniaria proporcional del uno por ciento de la cifra de negocios del sujeto infractor en el ejercicio al que se refiere la infracción, con un mínimo de 600 euros.
-
-> La llevanza de contabilidades distintas referidas a una misma actividad y ejercicio económico que dificulten el conocimiento de la verdadera situación del obligado tributario se sancionará con multa pecuniaria fija de 600 euros por cada uno de los ejercicios económicos a los que alcance dicha llevanza.
-
-> El retraso en más de cuatro meses en la llevanza de la contabilidad o libros y registros exigidos por las normas tributarias se sancionará con multa pecuniaria fija de 300 euros.
-
-> La utilización de libros y registros sin haber sido diligenciados o habilitados por la Administración cuando la normativa tributaria o aduanera lo exija se sancionará con multa pecuniaria fija de 300 euros."
 
 > Se modifica por el art. único.34 de la Ley 34/2015, de 21 de septiembre. [Ref. BOE-A-2015-10143](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10143).
 

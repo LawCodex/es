@@ -1,0 +1,1077 @@
+---
+title: "Real Decreto 1721/2007, de 21 de diciembre, por el que se establece el régimen de las becas y ayudas al estudio personalizadas"
+identifier: "BOE-A-2008-821"
+eli: "https://www.boe.es/eli/es/rd/2007/12/21/1721"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación y Ciencia"
+date: 2007-12-21
+published: 2008-01-17
+in_force_from: 2008-01-18
+last_amended: 2026-03-12
+consolidated: 2026-03-12
+gazette: "Boletín Oficial del Estado núm. 15"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-821"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1721/2007, de 21 de diciembre, por el que se establece el régimen de las becas y ayudas al estudio personalizadas
+
+El artículo 27 de la Constitución Española establece en sus apartados 1 y 5 que «todos tienen el derecho a la educación» y que «los poderes públicos garantizan el derecho de todos a la educación mediante una programación general de la enseñanza, con participación efectiva de todos los sectores afectados y la creación de centros docentes». Para hacer efectivo este derecho las Leyes Orgánicas dictadas en desarrollo del artículo 27 de la Constitución contienen regulaciones concretas sobre el sistema de becas o ayudas al estudio.
+
+Así, tanto el artículo 83 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación como el artículo 45 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades en la redacción dada por la Ley Orgánica 4/2007, de 12 de abril, encomiendan al Estado el establecimiento, con cargo a sus Presupuestos Generales, de un sistema general de becas y ayudas al estudio, con el fin de que todas las personas, con independencia de su lugar de residencia, disfruten de las mismas condiciones en el ejercicio del derecho a la educación.
+
+Dado el carácter técnico y la naturaleza coyuntural de los aspectos básicos de esta materia, las citadas leyes orgánicas establecen que el Gobierno regulará, con carácter básico, los parámetros precisos para asegurar la igualdad en el acceso a las citadas becas y ayudas, sin detrimento de las competencias normativas y de ejecución de las comunidades autónomas.
+
+En consecuencia, este real decreto viene a dar cumplimiento al mencionado mandato del legislador orgánico, procediendo a modificar el vigente régimen centralizado de gestión de las becas y ayudas al estudio, una vez que todas las comunidades autónomas han asumido competencias en materia de educación y tras la reforma de algunos Estatutos de Autonomía que establecen la competencia compartida entre el Estado y las comunidades autónomas respecto al régimen de fomento del estudio y de las becas y ayudas estatales.
+
+A través de este real decreto se persigue un doble objetivo. Se trata, por una parte, de lograr un sistema de becas y ayudas el estudio que garantice la igualdad en el acceso a las becas en todo el territorio, y, por otro, de dar cumplimiento a la jurisprudencia del Tribunal Constitucional en esta materia y concretamente a la recogida en las Sentencias 188/2001, de 20 de septiembre y Sentencia 212/2005, de 21 de julio, todo ello manteniendo la eficacia y eficiencia del sistema.
+
+Fuera del ámbito puramente educativo, tienen una importante incidencia en esta materia, la Ley 38/2003, de 17 de noviembre General de Subvenciones y la Ley 24/2005, de 18 de noviembre, de reformas para el impulso de la productividad, cuya disposición adicional novena excluye a las becas del régimen de concesión en concurrencia competitiva al establecer que «las becas y ayudas al estudio para seguir estudios reglados y para las que no se fije un número determinado de beneficiarios, se concederán de forma directa». Esta misma disposición prevé que se aprobará anualmente un real decreto que fijará los umbrales económicos y los demás requisitos necesarios para obtener beca o ayuda al estudio.
+
+Este real decreto consta de cinco capítulos, cuatro disposiciones adicionales, una disposición transitoria, una disposición derogatoria y cuatro disposiciones finales. El artículo 1 define los conceptos de beca y de ayuda al estudio, distinguiendo las becas territorializadas, respecto de las cuales el Estado establece la normativa básica y las comunidades autónomas el desarrollo legislativo y la ejecución, de aquellas otras no territorializadas cuya competencia corresponde enteramente al Estado.
+
+Atendiendo a esa distinción el Capítulo I del real decreto establece las normas generales aplicables a ambos tipos de becas. Por su parte, el Capítulo II señala los requisitos económicos para ser beneficiario de beca, a cuyos efectos, regula los miembros computables, la renta familiar, su composición y deducciones así como el patrimonio familiar. El Capítulo III establece los requisitos académicos para obtener beca en las distintas enseñanzas y el Capitulo IV determina los principios, condiciones de revocación y reintegro e incompatibilidad de las becas y ayudas estatales. Finalmente, el Capitulo V aborda el régimen de las becas y ayudas territorializadas distinguiendo las becas convocadas con número predeterminado de beneficiarios de aquéllas que se convocan sin esta predeterminación.
+
+En disposiciones adicionales primera, segunda y tercera se prevé la aprobación de un real decreto que especificará anualmente y de acuerdo con la consignación presupuestaria las cuantías y umbrales aplicables cada curso académico; la suscripción de convenios de colaboración con las comunidades autónomas para la realización de planes y programas conjuntos en materia de becas y ayudas y se establecen las obligaciones de intercambio de información con fines estadísticos y de mantenimiento de bases de datos.
+
+La disposición adicional cuarta prevé los reales decretos de traspasos de los medios y servicios necesarios para el pleno ejercicio de las competencias en esta materia.
+
+Por su parte, la disposición transitoria única establece el régimen aplicable a las titulaciones universitarias anteriores al Real Decreto 55/2005, de 21 de enero.
+
+Mediante disposición derogatoria se derogan el Real Decreto 2298/1983, de 28 de julio, por el que se regula el sistema de becas y otras ayudas al estudio de carácter personalizado y el Real Decreto 1123/1985, de 19 de junio, sobre pago de becas y ayudas al estudio concedidas por el Ministerio de Educación y Ciencia a través de entidades de crédito.
+
+Por último, en las disposiciones finales primera, segunda y tercera se establecen respectivamente, la coordinación de actuaciones, el título competencial que ampara la normativa básica regulada en este real decreto y su entrada en vigor.
+
+Este real decreto cuenta con informe favorable del Ministerio para las Administraciones Públicas. Ha sido, además, objeto de dictamen por el Consejo Escolar del Estado y en su tramitación han sido consultadas las comunidades autónomas, a través de la Comisión General de Educación de la Conferencia Sectorial de Educación y de la Conferencia General de Política Universitaria.
+
+En su virtud, a propuesta de la Ministra de Educación y Ciencia, con la aprobación previa de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 21 de diciembre de 2007,
+
+#### D I S P O N G O :
+
+## CAPÍTULO I — Normas generales
+
+##### Artículo 1. Definiciones.
+
+1\. Becas. A los efectos de este real decreto, se entiende por beca la cantidad o beneficio económico que se conceda para iniciar o proseguir enseñanzas conducentes a la obtención de un título o certificado de carácter oficial con validez en todo el territorio nacional, atendiendo a las circunstancias socioeconómicas y al aprovechamiento académico del solicitante.
+
+2\. Ayudas al estudio. A los efectos de este real decreto tendrá la consideración de ayuda al estudio toda cantidad o beneficio económico que se conceda para iniciar o proseguir enseñanzas con validez en todo el territorio nacional, atendiendo únicamente a las circunstancias socioeconómicas del beneficiario.
+
+3\. Becas y ayudas al estudio territorializadas. A los efectos de este real decreto, son territorializadas las becas y ayudas al estudio definidas en los apartados anteriores que se financian con cargo a créditos del Programa de becas y ayudas a estudiantes de los presupuestos generales del Estado y respecto de las que el Estado establece la regulación básica conforme a lo dispuesto en el artículo 45 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades en la redacción dada por la Ley Orgánica 4/2007, de 12 de abril y en el artículo 83 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+4\. Becas y ayudas al estudio no territorializadas. A los efectos de este real decreto, son no territorializadas las **destinadas a cursar estudios en comunidad autónoma distinta a la del domicilio familiar del estudiante**, las destinadas a los alumnos de la Universidad Nacional de Educación a Distancia, del Centro de Investigación y Desarrollo de la Educación a Distancia, de Ceuta, de Melilla y de los centros españoles en el exterior, que se financian con cargo a créditos del Programa de becas y ayudas a estudiantes de los presupuestos generales del Estado y respecto de las que el Estado también lleva a cabo la gestión y concesión.
+
+> Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado del apartado 4 por Sentencia del TC 25/2015, de 19 de febrero. [Ref. BOE-A-2015-2826](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-2826).
+
+> Se declara inconstitucional y nulo el inciso destacado del apartado 4 por Sentencia del TC 25/2015, de 19 de febrero. [Ref. BOE-A-2015-2826](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-2826).
+
+##### Artículo 2. Ámbito de aplicación.
+
+1\. Este real decreto establece la regulación básica de las becas y ayudas al estudio territorializadas y no territorializadas.
+
+2\. Asimismo establece normas de gestión de las becas y ayudas no territorializadas, que se convocarán por el Ministerio de Educación y Ciencia en el «Boletín Oficial del Estado».
+
+3\. Con independencia de lo que se indica en el artículo anterior, este real decreto establece, asimismo, la normativa básica reguladora de las becas de colaboración de estudiantes en departamentos universitarios para su inicio en tareas de investigación financiadas con cargo a los Presupuestos Generales del Estado.
+
+> Se añade el apartado 3 por la disposición final 1.1 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+##### Artículo 3. Enseñanzas a las que se dirigen las becas y ayudas al estudio.
+
+1\. Podrán concederse becas para cursar alguna de las siguientes enseñanzas:
+
+a) Bachillerato.
+
+b) Formación profesional.
+
+c) Enseñanzas artísticas profesionales.
+
+d) Enseñanzas de idiomas.
+
+e) Enseñanzas deportivas.
+
+f) Enseñanzas conducentes al título universitario oficial de Grado.
+
+g) Enseñanzas conducentes al título oficial de Máster Universitario.
+
+h) Enseñanzas artísticas superiores.
+
+i) Otros estudios superiores
+
+2\. Podrán concederse ayudas al estudio para cursar alguna de las siguientes enseñanzas:
+
+a) Educación infantil.
+
+b) Educación primaria.
+
+c) Educación secundaria obligatoria.
+
+d) Programas de cualificación profesional inicial.
+
+e) Cursos destinados a la preparación de las pruebas de acceso a la formación profesional y a la universidad.
+
+3\. Estas ayudas se adaptarán a las circunstancias y características de los alumnos con necesidad específica de apoyo educativo derivada de discapacidad o de alta capacidad intelectual. Estos alumnos también podrán obtener ayudas para cursar algunas de las enseñanzas enumeradas en el apartado 1 de este artículo.
+
+4\. Podrán obtener las becas y ayudas al estudio reguladas en este real decreto los estudiantes que cursen las enseñanzas tanto presenciales como no presenciales enumeradas en los párrafos anteriores.
+
+##### Artículo 4. Condiciones de los beneficiarios.
+
+1\. Para ser beneficiario de las becas y ayudas al estudio reguladas en este real decreto será preciso:
+
+a) No estar en posesión o no reunir los requisitos legales para la obtención de un título del mismo o superior nivel al correspondiente al de los estudios para los que se solicita la beca o ayuda. Para la aplicación de este requisito se tendrán en cuenta los siguientes criterios:
+
+1\. Quienes estén en posesión de un título oficial de Diplomado, Arquitecto Técnico, Ingeniero Técnico o Maestro que haya obtenido la correspondencia con el nivel 2 (Grado) del Marco Español de Cualificaciones para la Educación Superior (MECES) podrán ser beneficiarios de beca para cursar créditos complementarios o complementos de formación necesarios para la obtención del título oficial de Grado.
+
+2\. Quienes estén en posesión de un título oficial de Grado que haya sido adscrito al nivel 3 (Máster) del Marco Español de Cualificaciones para la Educación Superior (MECES), o en posesión de un título oficial de Arquitecto, Ingeniero, Licenciado, Arquitecto Técnico, Ingeniero Técnico o Diplomado que haya obtenido la correspondencia con el nivel 3 (Máster) del MECES, podrán ser beneficiarios de becas y ayudas al estudio para cursar enseñanzas conducentes a un título oficial de Máster universitario.
+
+3\. En ningún caso podrán obtener beca para cursar estudios no universitarios quienes estén en posesión de un título universitario.
+
+b) Cumplir los requisitos básicos establecidos en este real decreto así como los que fijen las Administraciones educativas en las convocatorias propias de la beca o ayuda de que se trate.
+
+c) Estar matriculado en alguna de las enseñanzas del sistema educativo español que se enumeran en el artículo 3 de la Ley Orgánica 2/2006, de 3 de mayo de Educación.
+
+d) Ser español. En el caso de ciudadanos de la Unión o de sus familiares, beneficiarios de los derechos de libre circulación y residencia, se requerirá que tengan la condición de residentes permanentes o que acrediten ser trabajadores por cuenta propia o ajena. Estos requisitos no serán exigibles para la obtención de la beca de matrícula.
+
+En el supuesto de extranjeros no comunitarios, se aplicará lo dispuesto en la normativa sobre derechos y libertades de los extranjeros en España y su integración social.
+
+2\. Además, para la concesión de las ayudas a los alumnos que presenten necesidades educativas especiales derivadas de discapacidad, se requerirá que el solicitante sea identificado como tal por el personal con la debida cualificación y en los términos que determinen las Administraciones educativas. Deberá además estar escolarizado en un centro específico, en una unidad de educación especial de un centro ordinario o en centro ordinario que haya sido autorizado para escolarizar alumnos que presentan necesidades educativas especiales.
+
+3\. Para la obtención de las becas o ayudas que se convoquen con una limitación del número de beneficiarios será preciso que el solicitante, además de cumplir los requisitos establecidos, alcance un coeficiente de prelación que le sitúe dentro del número de becas o ayudas convocadas o del crédito destinado a esa finalidad.
+
+4\. Tendrán la consideración legal de beneficiarios de las becas y ayudas al estudio a que se refiere este real decreto los estudiantes a quienes se les concedan en cualquiera de los siguientes supuestos:
+
+a) Que perciban directamente su importe.
+
+b) Que perciban el importe a través de un tercero.
+
+c) Que lo obtengan mediante la exención del pago de un determinado precio por un servicio escolar o académico
+
+d) Que se beneficien de una prestación en especie en el marco de una actividad educativa.
+
+5\. Podrá obtenerse la condición de beneficiario de beca y ayuda al estudio aunque no se cumplan los requisitos establecidos en el artículo 13.2 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+> Se modifica el apartado 1.a) por la disposición final 2.1 del Real Decreto 293/2016, de 15 de julio. [Ref. BOE-A-2016-6846](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-6846).
+
+> Se modifica el apartado 1.a) por la disposición final 2.1 del Real Decreto 595/2015, de 3 de julio. [Ref. BOE-A-2015-7455](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7455).
+
+> Se modifica el apartado 1.d) por la disposición final 2.1 del Real Decreto 472/2014, de 13 de junio. [Ref. BOE-A-2014-6275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6275).
+
+> Se modifica el apartado 1.d) por la disposición final 2.1 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+##### Artículo 5. Modalidades de becas y ayudas al estudio.
+
+Las becas y ayudas al estudio reguladas en este real decreto atenderán a los diversos gastos derivados de la educación y tendrán diferentes modalidades en función de los componentes a que se refieren los artículos siguientes.
+
+##### Artículo 6. Cuantías de las becas y ayudas al estudio.
+
+1\. Las cuantías de las becas y ayudas, así como de sus diferentes componentes, se fijarán antes de cada curso académico atendiendo a las disponibilidades presupuestarias.
+
+2\. Conforme al mandato contenido en el artículo 138.1 de la Constitución, los beneficiarios de beca con domicilio personal o familiar en la España insular o en Ceuta o Melilla que se vean en la necesidad de utilizar transporte marítimo o aéreo para acceder al centro docente en el que cursen sus estudios o el lugar en el que realicen las prácticas integrantes del correspondiente ciclo formativo dispondrán de una cantidad adicional que se fijará anualmente sobre la cuantía de la beca que les haya correspondido.
+
+> Se modifica el apartado 1 por la disposición final 2.2 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+##### Artículo 7. Componente de las ayudas en educación infantil.
+
+En el nivel de educación infantil se podrán conceder ayudas para escolarización que se destinarán al pago de los gastos que ocasionen a las familias la inscripción y asistencia del alumnado a un centro no sostenido con fondos públicos. No se concederán ayudas cuando la comunidad autónoma correspondiente tenga establecida la gratuidad en el curso de la educación infantil para el que se solicite ni cuando la unidad en la que se encuentre matriculado el alumno o la alumna esté sostenida con fondos públicos.
+
+A estas convocatorias no les serán de aplicación las normas reguladoras de los requisitos económicos contenidas en este real decreto ni en los reales decretos anuales por los que se establecen los umbrales de renta y patrimonio familiar y las cuantías de las becas y ayudas al estudio personalizadas, salvo que se disponga otra cosa en la correspondiente convocatoria.
+
+> Se modifica por la disposición final 1.2 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+##### Artículo 8. Componente de las ayudas en los niveles de enseñanza gratuita.
+
+En los niveles de enseñanza gratuita se podrán conceder ayudas para transporte, comedor y para la adquisición de libros y del material escolar necesario siempre que estos conceptos no estén suficientemente cubiertos con servicios, fondos o ayudas públicas.
+
+A estas convocatorias no les serán de aplicación las normas reguladoras de los requisitos económicos contenidas en este real decreto ni en los reales decretos anuales por los que se establecen los umbrales de renta y patrimonio familiar y las cuantías de las becas y ayudas al estudio personalizadas, salvo que se disponga otra cosa en la correspondiente convocatoria.
+
+> Se modifica por la disposición final 1.1 del Real Decreto 951/2018, de 27 de julio. [Ref. BOE-A-2018-10941](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10941)
+
+##### Artículo 9. Modalidades de las becas en las enseñanzas postobligatorias.
+
+En las enseñanzas enumeradas en el artículo 3.1 se podrán conceder becas que incluirán alguna o algunas de las siguientes cuantías:
+
+1\. Cuantías fijas:
+
+a) Beca de matrícula. Todos los solicitantes que cursen estudios universitarios o Enseñanzas Artísticas superiores y que cumplan los requisitos establecidos en la correspondiente convocatoria tendrán derecho a percibir la beca de matrícula.
+
+b) Cuantía fija ligada a la renta del solicitante.
+
+c) Cuantía fija ligada a la residencia del estudiante durante el curso escolar, cuya cuantía no será en ningún caso, superior al coste real de la prestación.
+
+d) Cuantía fija ligada a la excelencia en el rendimiento académico del solicitante.
+
+e) Beca básica.
+
+Para cada curso académico se fijarán los importes a que se refieren las letras b), c), d) y e) anteriores.
+
+2\. Cuantía variable: la beca podrá incluir, asimismo, una cuantía variable y distinta para los diferentes solicitantes que resultará de la ponderación de la nota media del expediente del estudiante y de su renta familiar. Para cada curso académico podrán fijarse importes mínimos y/o máximos para la cuantía variable.
+
+Los recursos asignados por el Ministerio de Educación y Formación Profesional para cada convocatoria, a excepción de aquellos que se destinen a compensar las becas de matrícula, se asignarán en primer lugar a la cobertura de las cuantías indicadas en las letras b), c), d) y e) del apartado anterior y a las que indiquen los reales decretos anuales que fijen los umbrales económicos y los demás requisitos necesarios para obtener beca o ayuda al estudio, para todos los estudiantes que resulten beneficiarios de las mismas según establezca la convocatoria. El importe que, en su caso, reste tras realizar las operaciones anteriormente indicadas, dependiendo de las disponibilidades presupuestarias se asignará a la cobertura de la cuantía variable, que se distribuirá entre los solicitantes de cada convocatoria en función de su renta familiar y de su rendimiento académico, mediante la aplicación de la siguiente fórmula:
+
+![Imagen: img/disp/2013/185/08559_001.png](https://www.boe.es/datos/imagenes/disp/2013/185/08559_001.png)
+
+C<sub>j</sub>= Cuantía variable a percibir por el becario.
+
+C<sub>min</sub> = Cuantía variable mínima, que se establecerá en los reales decretos anuales que fijen los umbrales económicos y los demás requisitos necesarios para obtener beca o ayuda al estudio.
+
+C<sub>total</sub> = Importe total a distribuir de forma variable: en cada convocatoria se podrán fijar una o más masas de recursos a distribuir, en función del tipo de enseñanzas.
+
+S= número de perceptores de cuantía variable.
+
+N<sub>j</sub>= Nota media del becario. Para el cálculo de esta nota media se computarán también las calificaciones correspondientes a asignaturas o créditos no superados, si los hubiere.
+
+N<sub>i</sub> = Nota media de cada uno de los becarios a que se refiere S.
+
+N<sub>max</sub>: Nota media obtenida por el mejor decil de becarios en el caso de estudiantes no universitarios, o nota media obtenida por el mejor decil de becarios de la misma área de conocimiento del becario en el caso de estudiantes universitarios. Para el cálculo de Nmax no se computarán las notas de aquellos becarios a los que, de acuerdo con lo dispuesto en este real decreto, les corresponda percibir la cuantía variable mínima.
+
+R<sub>j</sub>= Renta per cápita del becario (igual a cero si R<sub>j</sub> es negativo).
+
+R<sub>i</sub> = Renta per cápita de cada uno de los becarios a que se refiere S.
+
+R<sub>max</sub> = Renta per cápita máxima para ser beneficiario de la cuantía variable.
+
+Para el cálculo de la nota media del estudiante (N) se aplicarán las siguientes reglas:
+
+1.º A las calificaciones de los becarios de primer curso de Grado procedentes de las pruebas de acceso a la Universidad se les aplicará un coeficiente corrector igual al cociente entre la calificación media obtenida en los estudios universitarios por los becarios del área de conocimiento que corresponda y la calificación media de acceso a la Universidad obtenida por todas las personas beneficiarias que van a cursar primer curso en dicha área de conocimiento. A tal efecto, la nota de la Prueba de Acceso a la Universidad (en adelante, PAU) tendrá en cuenta las calificaciones obtenidas en dicha prueba en las materias comunes y específicas obligatorias de modalidad de segundo curso de Bachillerato.
+
+2.º A las calificaciones de los becarios de primer curso de Grado procedentes de Ciclos Formativos de Grado Superior se les aplicará un coeficiente corrector igual al cociente entre la calificación media obtenida en los estudios universitarios por los becarios del área de conocimiento que corresponda y la media de las calificaciones obtenidas por todos los becarios de primer curso procedentes de Ciclos Formativos de Grado Superior.
+
+3.º A las calificaciones de los becarios de primer curso de máster se les aplicará un coeficiente corrector de 1,17 cuando sus calificaciones procedan de titulaciones del área de Arquitectura e Ingeniería.
+
+En todo caso, corresponderá al Ministerio de Educación, Cultura y Deporte el cálculo de los parámetros de la fórmula, que se comunicarán a las comunidades autónomas, a las que corresponderá su aplicación para la asignación de la cuantía variable a los becarios.
+
+> Se modifica el párrafo 1º del apartado 2 por la disposición final 1.3 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+> Se modifica la letra a) del apartado 1 por la disposición final 1.1 del Real Decreto 163/2025, de 4 de marzo. [Ref. BOE-A-2025-4320](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4320)
+
+> Se modifica el apartado 1 y el párrafo segundo del apartado 2 por la disposición final 1.2 y 3 del Real Decreto 951/2018, de 27 de julio. [Ref. BOE-A-2018-10941](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10941)
+
+> Se añade un inciso final al apartado 2 por la disposición final 2.2 del Real Decreto 293/2016, de 15 de julio. [Ref. BOE-A-2016-6846](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-6846).
+
+> Se modifica por la disposición final 2.3 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+> Se añade la letra c) al apartado 1 por la disposición final 2.1 del Real Decreto 1000/2012, de 29 de junio. [Ref. BOE-A-2012-9007](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9007).
+
+> Se añade el apartado 7 por la disposición final 2 del Real Decreto 708/2011, de 20 de mayo. [Ref. BOE-A-2011-8850](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8850).
+
+> Se modifica el apartado 1 por la disposición final 2.1 del Real Decreto 557/2010, de 7 de mayo. [Ref. BOE-A-2010-7329](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7329).
+
+> Se modifica el apartado 1 por la disposición final 2.1 del Real Decreto 922/2009, de 29 de mayo. [Ref. BOE-A-2009-8958](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8958).
+
+##### Artículo 10. Componentes de las ayudas para el alumnado con necesidad específica de apoyo educativo.
+
+El real decreto anual a que se refiere la disposición adicional primera determinará el alumnado con necesidad específica de apoyo educativo y los supuestos en los que podrán concederse las ayudas, que contendrán alguno o algunos de los componentes que se indican en los apartados 1 a 7 siguientes.
+
+Quienes opten a la obtención de estas ayudas deberán estar escolarizados en un centro específico, en una unidad de educación especial de un centro ordinario o en un centro ordinario que haya sido autorizado para escolarizar a alumnas y alumnos con necesidad específica de apoyo educativo.
+
+Las correspondientes convocatorias establecerán el procedimiento, documentación acreditativa e informes que resulten necesarios en cada caso.
+
+1\. Componente para escolarización.
+
+El componente para escolarización tiene por objeto el pago de los gastos que ocasionen la inscripción y asistencia del alumno a un centro escolar y no podrá concederse cuando las unidades o secciones de dicho centro estén sostenidas con fondos públicos.
+
+2\. Componente para gastos de desplazamiento.
+
+Este componente tiene por objeto el pago de los gastos que ocasione el desplazamiento del alumno al centro escolar y no podrá concederse cuando este concepto se halle cubierto por servicio o fondos públicos o por ayudas concedidas al centro para financiar el correspondiente servicio.
+
+Existirán tres modalidades de este componente: para desplazamiento urbano, para desplazamiento interurbano y para desplazamiento de fin de semana.
+
+Se concederán los componentes para desplazamiento urbano y para desplazamiento interurbano cuando así se justifique por el tipo de discapacidad del alumno y la distancia del domicilio familiar al centro educativo.
+
+Se concederá el componente para transporte de fin de semana a los alumnos internos en una residencia escolar.
+
+3\. Componente para comedor escolar.
+
+El componente para comedor escolar tiene por objeto el pago de los gastos que ocasione la utilización por el alumno de los servicios de comedor del centro escolar y no podrá concederse cuando este concepto se halle cubierto por servicio o fondos públicos o por ayudas concedidas al centro para financiar el correspondiente servicio.
+
+4\. Componente para residencia escolar.
+
+El componente para residencia escolar tiene por objeto el pago de los gastos ocasionados por el internamiento del alumno en una residencia y no podrá concederse cuando este concepto se halle cubierto por servicio o fondos públicos o por ayudas concedidas al centro para financiar el correspondiente servicio.
+
+El componente de residencia será incompatible con los componentes de comedor y de desplazamiento, con excepción del componente para el transporte de fin de semana.
+
+5\. Componente para libros y material didáctico.
+
+Este componente tiene por objeto el pago de los gastos derivados de la adquisición de los libros de texto y otro material didáctico necesario. No se concederá este componente cuando este concepto se halle suficientemente cubierto por fondos o ayudas públicas.
+
+6\. Componente para reeducación pedagógica y para reeducación del lenguaje.
+
+Estos componentes tienen por objeto el pago de los gastos derivados de esta asistencia educativa y no podrán concederse cuando dicha asistencia se preste suficientemente de forma gratuita.
+
+7\. Subsidios. Se establecen los siguientes subsidios, cuya concesión no estará sujeta a límites de renta ni de patrimonio familiar:
+
+a) Subsidios de transporte y comedor escolar. Estos subsidios se destinan al pago de los gastos derivados del transporte y el comedor escolar en los términos expresados en los números 2 y 3 anteriores. Únicamente podrán ser beneficiarios de estos subsidios los alumnos y alumnas con necesidades educativas especiales pertenecientes a familias numerosas de cualquier categoría.
+
+Los subsidios de transporte y comedor serán compatibles con los componentes descritos en los apartados anteriores con la excepción de los de transporte, comedor y residencia.
+
+b) Subsidio de cuantía fija para gastos adicionales de carácter general derivados de la escolarización. Este subsidio será compatible con los componentes descritos en los apartados anteriores y con los subsidios de comedor y transporte escolar.
+
+> Se modifica el apartado 7 por la disposición final 1 del Real Decreto 117/2023, de 21 de febrero. [Ref. BOE-A-2023-4652](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4652)
+
+> Se modifica el título y el párrafo primero por la disposición final 1.1 del Real Decreto 471/2021, de 29 de junio. [Ref. BOE-A-2021-10823](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10823)
+
+##### Artículo 11. Componente de las ayudas destinadas a alumnos con altas capacidades intelectuales.
+
+Este componente tiene por objeto el pago de los gastos derivados de la inscripción y asistencia a programas específicos para este colectivo y no podrá concederse cuando dicha asistencia se preste de forma gratuita en la correspondiente comunidad autónoma. Para la concesión de este componente se requerirá ser identificado como tal por el personal con la debida cualificación y en los términos que determinen las Administraciones educativas.
+
+##### Artículo 12. Modalidades de becas para programas de cualificación profesional inicial, Formación Profesional Básica y cursos de preparación para las pruebas de acceso a la Formación Profesional y a la Universidad.
+
+Quienes realicen los cursos de preparación para las pruebas de acceso a la Formación Profesional y a la Universidad impartidos en centros públicos así como Programas de Cualificación Profesional Inicial o Formación Profesional Básica podrán ser beneficiarios de la beca básica y de la cuantía variable mínima.
+
+> Se modifica por la disposición final 2.2 del Real Decreto 472/2014, de 13 de junio. [Ref. BOE-A-2014-6275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6275).
+
+> Se modifica por la disposición final 2.4 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+## CAPÍTULO II — Requisitos económicos
+
+##### Artículo 13. Requisitos de renta y patrimonio.
+
+No podrán concederse las becas y ayudas al estudio a que se refiere este real decreto a los solicitantes cuya renta y, en su caso, patrimonio familiar supere los umbrales que se establezcan anualmente.
+
+##### Artículo 14. Miembros computables.
+
+1\. Para el cálculo de la renta y el patrimonio familiar a efectos de beca o ayuda al estudio, serán miembros computables los padres y, en su caso, el tutor o persona encargada de la guarda y protección del menor, quienes tendrán la consideración de sustentadores principales de la familia. También serán miembros computables el solicitante, los hermanos solteros menores de veinticinco años y que convivan en el domicilio familiar a 31 de diciembre del año inmediato anterior a aquél en el que comienza el curso escolar para el que se solicita, o los de mayor edad, cuando se trate de personas con discapacidad física, psíquica o sensorial, así como los ascendientes de los padres que justifiquen su residencia en el mismo domicilio que los anteriores con el certificado municipal correspondiente.
+
+2\. En el caso de divorcio o separación legal o de hecho de los padres no se considerará miembro computable aquél de ellos que no conviva con el solicitante de la beca.
+
+No obstante, en su caso, tendrá la consideración de miembro computable y sustentador principal, el nuevo cónyuge, pareja, registrada o no, o persona unida por análoga relación cuyas rentas y patrimonio se incluirán dentro del cómputo de la renta y patrimonio familiares. Asimismo tendrá la consideración de miembro computable la persona con ingresos propios que, a la referida fecha, conviva en el domicilio con el solicitante cuando no medie relación de parentesco y no se pueda justificar un alquiler de piso compartido.
+
+3\. En los supuestos en los que el solicitante de la beca o ayuda sea un menor en situación de acogimiento, será de aplicación a la familia de acogida lo dispuesto en los párrafos anteriores. Cuando se trate de un mayor de edad tendrá la consideración de no integrado en la unidad familiar a estos efectos, siempre y cuando de hecho no subsistan las circunstancias de integración con la familia de acogida y así se acredite debidamente.
+
+4\. En el caso de solicitantes que constituyan unidades familiares independientes, se considerarán miembros computables y sustentadores principales el solicitante y su cónyuge, su pareja registrada o no, que se halle unida por análoga relación. También serán miembros computables los hijos, si los hubiere, y que convivan en el mismo domicilio.
+
+5\. En los casos en que el solicitante alegue su independencia familiar y económica, cualquiera que sea su estado civil, deberá acreditar documentalmente esta circunstancia, los medios económicos con que cuenta y la titularidad o el alquiler de su domicilio que, a todos los efectos, será el que el alumno habite durante el curso escolar.
+
+> Se modifican los apartados 2, 3 y 4 por la disposición final 1.4 del Real Decreto 951/2018, de 27 de julio. [Ref. BOE-A-2018-10941](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10941)
+
+##### Artículo 15. Renta familiar.
+
+1\. La renta familiar a efectos de beca o ayuda se obtendrá por agregación de las rentas de cada uno de los miembros computables de la familia que obtengan ingresos de cualquier naturaleza, calculadas según se indica en los párrafos siguientes y de conformidad con la normativa reguladora del Impuesto sobre la Renta de las Personas Físicas. En ningún caso incluirá los saldos negativos de ganancias y pérdidas patrimoniales correspondientes a ejercicios anteriores al que se computa.
+
+2\. Para la determinación de la renta de los miembros computables que hayan presentado declaración o solicitud de devolución por el Impuesto sobre la Renta de las Personas Físicas, se procederá del modo siguiente:
+
+a) Se sumará la renta general y la renta del ahorro del período impositivo.
+
+b) De este resultado se restará la cuota líquida total.
+
+3\. Para la determinación de la renta de los miembros computables que obtengan ingresos propios y no hayan presentado declaración o solicitud de devolución por el Impuesto sobre la Renta de las Personas Físicas, se seguirá el procedimiento descrito en el párrafo a) anterior y del resultado obtenido, se restarán los pagos a cuenta efectuados.
+
+4\. La presentación de la solicitud de beca implicará la autorización a las Administraciones educativas y a las Universidades para obtener los datos necesarios para determinar la renta a efectos de beca a través de las Agencias Tributarias, así como aquellas otras informaciones acreditativas de las situaciones personales alegadas y que estén en poder de alguna Administración Pública.
+
+##### Artículo 16. Deducciones de la renta familiar.
+
+Hallada la renta familiar a efectos de beca o ayuda según lo establecido en los artículos anteriores, se podrán efectuar deducciones por los conceptos siguientes:
+
+a) Aportación de ingresos por miembros computables distintos de los sustentadores principales.
+
+b) Pertenencia del solicitante a familia numerosa de categoría general o de categoría especial.
+
+c) Existencia de algún miembro computable de la familia, incluido el propio solicitante, afectado por una minusvalía, legalmente calificada.
+
+d) Residencia de dos o más hijos fuera del domicilio familiar del solicitante por razón de estudios.
+
+e) Orfandad absoluta del solicitante.
+
+f) Pertenencia a familia monoparental.
+
+> Se añade la letra f) por la disposición final 1.2 del Real Decreto 471/2021, de 29 de junio. [Ref. BOE-A-2021-10823](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10823)
+
+##### Artículo 17. Patrimonio familiar.
+
+1\. Los umbrales indicativos del patrimonio familiar a que se refiere el artículo 13 de este real decreto se referirán a los siguientes parámetros:
+
+a) Valores catastrales de las fincas urbanas y rústicas pertenecientes a los miembros computables de la unidad familiar del solicitante, quedando excluida de este cómputo la vivienda habitual.
+
+b) Suma de los rendimientos netos reducidos del capital mobiliario más el saldo neto positivo de ganancias y pérdidas patrimoniales pertenecientes a los miembros computables de la unidad familiar, con las exclusiones que, en su caso, se determinen en el real decreto anual por el que se establecen los umbrales de renta y patrimonio familiar y las cuantías de las becas y ayudas al estudio.
+
+2\. Estos elementos indicativos del patrimonio se computarán por su valor a 31 de diciembre del año de referencia.
+
+3\. Cuando sean varios los elementos indicativos del patrimonio descritos en los apartados anteriores de que dispongan los miembros computables de la unidad familiar, se calculará el porcentaje de valor de cada uno respecto del umbral correspondiente. Se denegará la beca cuando la suma de los referidos porcentajes supere cien.
+
+4\. También se denegará la beca cuando el volumen de facturación de las actividades económicas de que sean titulares los miembros computables de la unidad familiar del solicitante de la beca o ayuda supere el umbral que se establezca.
+
+5\. De la valoración de los elementos a que se refieren los párrafos anteriores, se deducirá un porcentaje, que se determinará anualmente, de aquellos que pertenezcan a cualquier miembro computable de la unidad familiar distinto de los sustentadores principales.
+
+> Se modifica la letra b) del apartado 1 por la disposición final 1.2 del Real Decreto 163/2025, de 4 de marzo. [Ref. BOE-A-2025-4320](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4320)
+
+## CAPÍTULO III — Requisitos académicos
+
+### Sección 1.ª Requisitos académicos en enseñanzas de: Bachillerato, formación profesional, artísticas profesionales, deportivas y de idiomas
+
+##### Artículo 18. Enseñanzas de bachillerato, enseñanzas profesionales de música y danza y grado medio de formación profesional, de artes plásticas y diseño y de las enseñanzas deportivas.
+
+1\. Matriculación. Para obtener beca los alumnos deberán matricularse por cursos completos o, al menos, de la mitad de los módulos que componen el correspondiente ciclo. Las materias, asignaturas o módulos convalidados no se tendrán en cuenta a efectos del cumplimiento de los requisitos académicos establecidos en este real decreto.
+
+Quienes cursen enseñanzas no presenciales o los estudiantes que utilicen la oferta específica para personas adultas u oferta de matrícula parcial, podrán también obtener la beca matriculándose de al menos cuatro asignaturas o de un número de módulos cuya suma horaria sea igual o superior a quinientas horas, que deberán aprobar en su totalidad para obtenerla en el siguiente curso. Los becarios que cursen enseñanzas no presenciales podrán obtener la cuantía fija ligada a la excelencia académica, la beca básica y la cuantía variable mínima. Los restantes becarios a que se refiere este apartado únicamente podrán ser beneficiarios de la beca básica y de la cuantía variable mínima.
+
+En el caso de estudios que tengan materias cuatrimestrales, éstas tendrán la consideración de media materia a todos los efectos.
+
+2\. Carga lectiva superada. Los estudiantes de primer curso de bachillerato deberán acreditar no estar repitiendo curso y haber obtenido una nota media de 5,00 puntos en el cuarto curso de Educación Secundaria Obligatoria o prueba de acceso, en su caso.
+
+Los estudiantes de primer curso del resto de enseñanzas a que se refiere este artículo deberán acreditar no estar repitiendo curso total ni parcialmente.
+
+Los estudiantes de segundos y posteriores cursos organizados por asignaturas deberán acreditar haber superado todas las asignaturas del curso anterior, con excepción de una.
+
+Los estudiantes de segundos y posteriores cursos organizados por módulos deberán acreditar haber superado en el curso anterior al menos un número de módulos que supongan el 85 por ciento de las horas totales del curso en que hubieran estado matriculados.
+
+No se concederán becas o ayudas a quienes estén repitiendo curso total o parcialmente.
+
+Se entenderá que cumplen el requisito académico para ser becarios quienes hayan repetido curso cuando tengan superadas la totalidad de las asignaturas de los cursos anteriores a aquel para el que solicita la beca o ayuda.
+
+Sólo podrá obtenerse beca o ayuda durante el número de años que dure el plan de estudios. No obstante, quienes cursen enseñanzas no presenciales o utilicen ofertas de matrícula parcial o específica para personas adultas podrán obtener becas y ayudas durante un año más.
+
+> Se modifica el apartado 2 por la disposición final 1.1 del Real Decreto 688/2020, de 21 de julio. [Ref. BOE-A-2020-8297](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8297)
+
+> Se modifica el párrafo segundo del apartado 1 por la disposición final 1.5 del Real Decreto 951/2018, de 27 de julio. [Ref. BOE-A-2018-10941](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10941)
+
+> Se modifica el apartado 1 por la disposición final 2.3 del Real Decreto 472/2014, de 13 de junio. [Ref. BOE-A-2014-6275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6275).
+
+> Se modifica el tercer párrafo del apartado 1 y el apartado 2 por la disposición final 2.5 y 6 por el Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+##### Artículo 19. Enseñanzas de grado superior de formación profesional, de artes plásticas y diseño y de enseñanzas deportivas.
+
+1\. Matriculación. Para obtener beca los alumnos deberán matricularse de curso completo o, al menos, de la mitad de los módulos que componen el correspondiente ciclo. Con las excepciones que, en su caso, puedan establecer las convocatorias anuales, los módulos convalidados no se tendrán en cuenta a efectos del cumplimiento de los requisitos académicos establecidos en este real decreto.
+
+Quienes cursen enseñanzas no presenciales o los estudiantes que utilicen la oferta específica para personas adultas u oferta de matrícula parcial, podrán también obtener la beca matriculándose de, al menos, un número de módulos cuya suma horaria sea igual o superior a 500 horas, que deberán aprobar en su totalidad para obtenerla en el siguiente curso. Los becarios que cursen enseñanzas no presenciales podrán obtener la cuantía fija ligada a la excelencia académica, la beca básica y la cuantía variable mínima. Los restantes becarios a que se refiere este apartado únicamente podrán ser beneficiarios de la beca básica y de la cuantía variable mínima.
+
+2\. Carga lectiva superada. Para obtener becas y ayudas, los solicitantes de primer curso de estas enseñanzas deberán acreditar haber obtenido 5,00 puntos en segundo curso de Bachillerato, prueba o curso de acceso respectivamente.
+
+Los estudiantes de segundos y posteriores cursos organizados por asignaturas deberán acreditar haber superado todas las asignaturas del curso anterior, con excepción de una.
+
+Los estudiantes de segundos y posteriores cursos organizados por módulos deberán acreditar haber superado en el curso anterior al menos un número de módulos que supongan el 85 por ciento de las horas totales del curso en que hubieran estado matriculados.
+
+No se concederán becas o ayudas a quienes estén repitiendo curso.
+
+Se entenderá que cumplen el requisito académico para ser becarios quienes hayan repetido curso cuando tengan superadas la totalidad de las asignaturas de los cursos anteriores a aquel para el que solicita la beca o ayuda.
+
+Sólo podrán obtenerse becas y ayudas durante el número de años que dure el plan de estudios. No obstante, quienes cursen enseñanzas no presenciales o utilicen ofertas de matrícula parcial o específica para personas adultas podrán obtener la beca durante un año más.
+
+> Se modifica el apartado 2 por la disposición final 1.2 del Real Decreto 688/2020, de 21 de julio. [Ref. BOE-A-2020-8297](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8297)
+
+> Se modifica el párrafo segundo del apartado 1 por la disposición final 1.6 del Real Decreto 951/2018, de 27 de julio. [Ref. BOE-A-2018-10941](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10941)
+
+> Se modifica el apartado 1 por la disposición final 2.1 del Real Decreto 726/2017, de 21 de julio. [Ref. BOE-A-2017-8618](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-8618)
+
+> Se modifica el apartado 1 por la disposición final 2.4 del Real Decreto 472/2014, de 13 de junio. [Ref. BOE-A-2014-6275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6275).
+
+> Se modifican el párrafo 3 del apartado 1 y el apartado 2 por la disposición final 2.7 y 8 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+##### Artículo 20. Enseñanzas de idiomas.
+
+1\. Matriculación. Para obtener becas o ayudas en estas enseñanzas los alumnos deberán matricularse de curso completo. Para estos estudios podrá concederse la beca básica y la cuantía variable mínima.
+
+2\. Carga lectiva superada. No se concederá beca a quienes estén repitiendo curso.
+
+Se podrá disfrutar de beca durante el número de años que tenga que seguir el alumno para completar el plan de estudios y para un máximo de dos idiomas.
+
+> Se modifica el apartado 1 por la disposición final 2.9 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+##### Artículo 21. Obtención de la beca en caso de cambio de estudios.
+
+1\. En el caso de cambio de estudios cursados total o parcialmente con condición de becario, no podrá obtenerse ninguna beca mientras dicho cambio entrañe pérdida de uno o más años en el proceso educativo. Se considerará que no concurre tal pérdida únicamente cuando el paso a otro nivel o grado de enseñanza esté previsto en la legislación vigente como una continuación posible de los estudios realizados anteriormente.
+
+2\. En el supuesto de cambio de estudios cursados totalmente sin condición de becario, se considerará a estos efectos como rendimiento académico que debe cumplir el solicitante para obtener beca en los nuevos estudios, el requisito académico que hubiera debido obtener en el último curso de los estudios abandonados.
+
+### Sección 2.ª Requisitos académicos en enseñanzas universitarias conducentes al título de grado
+
+##### Artículo 22. Matriculación.
+
+1\. Para obtener beca los solicitantes deberán matricularse, en el curso para el que solicitan la beca, de un mínimo de 60 créditos. En el supuesto de matricularse de un número superior de créditos, todos ellos serán tenidos en cuenta para la valoración del rendimiento académico del solicitante.
+
+2\. No obstante, podrán obtener también becas y ayudas los alumnos que se matriculen de entre 30 y 59 créditos en un curso académico. En este caso serán de aplicación las siguientes reglas:
+
+a) Quienes opten por la matrícula parcial y no se matriculen de todos aquellos créditos de los que les fuera posible podrán obtener únicamente la cuantía variable mínima y la beca de matrícula. Para obtener la beca o ayuda en el siguiente curso deberán aprobar la totalidad de los créditos en que hubieran estado matriculados.
+
+El real decreto a que se refiere la disposición adicional primera podrá asignar otras ayudas de las previstas en el artículo 9 cuando se alcance un número mínimo de créditos, dentro del intervalo antes indicado para la matrícula parcial.
+
+b) **(Suprimida)**
+
+c) En aquellos casos en los que, en virtud de la normativa propia de la Universidad, resulte limitado el número de créditos en que pueda quedar matriculado el alumno, éste podrá obtener todas las cuantías que le correspondan si se matricula en todos aquellos créditos en los que le sea posible. Si dichos créditos se cursan en un cuatrimestre/semestre, la cuantía de la beca o ayuda que le corresponderá será la beca de matrícula, la cuantía variable mínima y el cincuenta por ciento de las demás cuantías que le hubiesen correspondido. En el supuesto de que el alumno se matricule también en el segundo cuatrimestre/semestre correspondiente al curso académico, se completará la cuantía de la beca hasta el total que le hubiese correspondido.
+
+3\. El número mínimo de créditos fijado en los párrafos anteriores en que el alumno debe quedar matriculado en el curso para el que solicita la beca no será exigible, por una sola vez, en el caso de los alumnos a los que, para finalizar sus estudios, les reste un número de créditos inferior a dicho número mínimo, siempre que no haya disfrutado de la condición de becario durante más años de los previstos en el artículo 24.
+
+4\. **(Sin contenido)**
+
+5\. **(Sin contenido)**
+
+6\. Las asignaturas o créditos convalidados y adaptados no se tendrán en cuenta a efectos del cumplimiento de los requisitos académicos establecidos en este real decreto.
+
+7\. En ningún caso entrarán a formar parte de los mínimos a que se refieren los apartados anteriores, créditos correspondientes a distintas especialidades o que superen los necesarios para la obtención del título correspondiente.
+
+> Se añade un segundo párrafo a la letra a) del apartado 2 por la disposición final 1.4 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+> Se suprime la letra b) del apartado 2 por la disposición final 2.5 del Real Decreto 472/2014, de 13 de junio. [Ref. BOE-A-2014-6275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6275).
+
+> Se modifica el apartado 2 por la disposición final 2.10 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+> Se modifican los apartados 2 y 3 y se interpreta que se dejan sin contenido los apartados 4 y 5 por la disposición final 2.2 del Real Decreto 557/2010, de 7 de mayo. [Ref. BOE-A-2010-7329](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7329).
+
+> Se modifica el apartado 2 por la disposición final 2.2 del Real Decreto 922/2009, de 29 de mayo. [Ref. BOE-A-2009-8958](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8958).
+
+##### Artículo 23. Carga lectiva superada.
+
+1\. Para obtener, en las condiciones previstas en este real decreto, las cuantías a que se refiere el artículo 9.1, párrafos a), b), c) y d) y 9.2, quienes se matriculen por primera vez de estudios oficiales de Grado y, estando en posesión del título de bachiller o equivalente, accedan a la universidad mediante la PAU, se requerirá una nota de 5,00 puntos en la calificación de acceso a la universidad. La nota de la PAU tendrá en cuenta las calificaciones obtenidas en dicha prueba en las materias comunes y específicas obligatorias de modalidad de segundo curso de Bachillerato. En las demás vías de acceso a la universidad, se requerirá haber obtenido 5,00 puntos en la prueba o enseñanza que permita el acceso a la universidad.
+
+2\. Para obtener, en las condiciones previstas en este real decreto, las cuantías a que se refieren los párrafos a), b), c) y d) del apartado 1, y el apartado 2 del artículo 9, los solicitantes de segundos y posteriores cursos de enseñanzas universitarias de Grado deberán haber superado en los últimos estudios cursados los siguientes porcentajes de los créditos matriculados:
+
+| Rama de conocimiento | Porcentaje de créditos a superar |
+|---|---|
+| Artes y Humanidades. | 90 |
+| Ciencias. | 65 |
+| Ciencias Sociales y Jurídicas. | 90 |
+| Ciencias de la Salud. | 80 |
+| Enseñanzas técnicas. | 65 |
+
+3\. En todo caso, el número mínimo de créditos en que debió estar matriculado el solicitante en el curso anterior a aquel para el que solicita la beca, será el que, para cada caso, se indica en el artículo anterior.
+
+4\. En el caso de haberse matriculado en un número de créditos superior al mínimo, todos ellos, incluso los de libre elección, serán tenidos en cuenta para la valoración de los requisitos académicos establecidos en el presente real decreto.
+
+> Se modifica el apartado 1 por la disposición final 1.5 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+> Se modifica por la disposición final 1.3 del Real Decreto 688/2020, de 21 de julio. [Ref. BOE-A-2020-8297](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8297)
+
+> Se modifican los apartados 1 y 2 y el párrafo primero del apartado 3 por la disposición final 1.7 del Real Decreto 951/2018, de 27 de julio. [Ref. BOE-A-2018-10941](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10941)
+
+> Se modifica por la disposición final 2.11 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+> Se modifica el apartado 1 por la disposición final 2.2 del Real Decreto 1000/2012, de 29 de junio. [Ref. BOE-A-2012-9007](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9007).
+
+##### Artículo 24. Número de años con condición de becario.
+
+1\. Se podrá disfrutar de beca durante un año más de los establecidos en el plan de estudios. No obstante este plazo será de dos años para quienes cursen estudios de enseñanzas técnicas.
+
+2\. Quienes opten por la matrícula parcial y quienes cursen la totalidad de sus estudios de grado en universidades no presenciales podrán disfrutar de la condición de becario durante un año más de lo establecido en el párrafo anterior.
+
+3\. En el caso de alumnos que realicen el curso de preparación para el acceso a la universidad de mayores de veinticinco años, en universidades que impartan enseñanzas no presenciales, la ayuda se concederá para un único curso académico.
+
+4\. Cuando se produzca un cambio de estudios universitarios cursados total o parcialmente con condición de becario, no podrá obtenerse ninguna beca en los nuevos estudios hasta que el solicitante haya quedado matriculado de, al menos, treinta créditos más de los que hubiera cursado con beca en los estudios abandonados.
+
+Cuando los referidos créditos adicionales estuvieran comprendidos entre treinta y cincuenta y nueve, se considerará matrícula parcial. Cuando dichos créditos adicionales fueran, al menos, sesenta, se considerará matrícula completa.
+
+A estos exclusivos efectos se tendrán en cuenta los créditos convalidados, reconocidos, adaptados y transferidos.
+
+5\. En el supuesto de cambio de estudios cursados totalmente sin condición de becario, se considerará a estos efectos como rendimiento académico que debe cumplir el solicitante para obtener beca en los nuevos estudios, el requisito académico que hubiera debido obtener en el último curso de los estudios abandonados, con excepción de los alumnos que concurran a mejorar la nota de la prueba de acceso a la universidad que podrán hacer uso de esta última calificación.
+
+6\. No se considerarán cambios de estudios las adaptaciones a nuevos planes de las mismas enseñanzas, debiendo, en todo caso, el alumno cumplir los requisitos académicos establecidos con carácter general.
+
+> Se modifica el apartado 4 por la disposición final 2.3 del Real Decreto 293/2016, de 15 de julio. [Ref. BOE-A-2016-6846](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-6846).
+
+> Se modifica el apartado 4 por la disposición final 2.6 del Real Decreto 472/2014, de 13 de junio. [Ref. BOE-A-2014-6275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6275).
+
+> Se modifica el apartado 2 por la disposición final 2.2 del Real Decreto 922/2009, de 29 de mayo. [Ref. BOE-A-2009-8958](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8958).
+
+##### Artículo 25. Supuestos de aprovechamiento académico excepcional.
+
+Se entenderá que cumplen los requisitos académicos los alumnos que tengan un excepcional aprovechamiento académico.
+
+Para determinar si existe excepcional aprovechamiento del alumno se calculará el incremento porcentual de créditos matriculados sobre el número mínimo de los mismos a cuya matriculación obliga el artículo 22.
+
+El porcentaje de créditos a superar establecido en el artículo 23 para obtener beca o ayuda se determinará en estos casos mediante la siguiente ecuación matemática en la que Y es el incremento porcentual de créditos matriculados sobre el número mínimo de los mismos a cuya matriculación obliga el artículo 22:
+
+Para enseñanzas técnicas y enseñanzas universitarias adscritas a las ramas de conocimiento de Ciencias: 65-(Y/10).
+
+Para enseñanzas universitarias adscritas a las ramas de conocimiento de Ciencias de la Salud: 80-(Y/10).
+
+Para las enseñanzas universitarias adscritas a las ramas de conocimiento de Artes y Humanidades y de Ciencias Sociales y Jurídicas: 90-(Y/10).
+
+> Se modifica por la disposición final 1.4 del Real Decreto 688/2020, de 21 de julio. [Ref. BOE-A-2020-8297](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8297)
+
+> Se modifica por la disposición final 2.12 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+> Se modifica por la disposición final 2.3 del Real Decreto 1000/2012, de 29 de junio. [Ref. BOE-A-2012-9007](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9007).
+
+### Sección 3.ª Requisitos académicos en enseñanzas universitarias conducentes al título oficial de máster universitario
+
+##### Artículo 26. Matriculación.
+
+Para obtener beca en los estudios conducentes a la obtención de un título oficial de Máster universitario será preciso que el solicitante sea admitido y se matricule, en el curso para el que solicita la beca o ayuda, de un mínimo de 60 créditos.
+
+No obstante, podrán obtener también beca o ayuda los alumnos que se matriculen de entre 30 y 59 créditos en el curso académico, que deberán aprobar en su totalidad para obtenerla en el siguiente curso. En este caso serán de aplicación las siguientes reglas:
+
+a) Quienes opten por la matrícula parcial y no se matriculen de todos aquellos créditos de los que les fuera posible podrán obtener únicamente la cuantía variable mínima y la beca de matrícula.
+
+El real decreto a que se refiere la disposición adicional primera podrá asignar otras ayudas de las previstas en el artículo 9 cuando se alcance un número mínimo de créditos, dentro del intervalo antes indicado para la matrícula parcial.
+
+b) **(Suprimida)**
+
+c) En aquellos casos en los que, en virtud de la normativa propia de la Universidad, resulte limitado el número de créditos en que pueda quedar matriculado el alumno, éste podrá obtener todas las cuantías que le correspondan si se matricula en todos aquellos créditos en los que le sea posible. Si dichos créditos se cursan en un cuatrimestre/semestre, la cuantía de la beca que les corresponderá será la beca de matrícula, la cuantía variable mínima y el cincuenta por ciento de las demás cuantías que le hubiesen correspondido. En el supuesto de que el alumno se matricule también en el segundo cuatrimestre/semestre correspondiente al curso académico, se completará la cuantía de la beca hasta el total que le hubiese correspondido.
+
+d) El número mínimo de créditos fijado en los párrafos anteriores en que el alumno debe quedar matriculado en el curso para el que solicita la beca o ayuda no será exigible, por una sola vez, en el caso de los alumnos a los que, para finalizar sus estudios, les reste un número de créditos inferior a dicho número mínimo, siempre que no haya disfrutado de la condición de becario durante más años de los previstos en el artículo 29.
+
+e) Las asignaturas o créditos reconocidos, convalidados, adaptados y transferidos no se tendrán en cuenta a efectos del cumplimiento de los requisitos académicos establecidos en este real decreto.
+
+No obstante lo anterior, las mencionadas asignaturas o créditos computarán, de acuerdo con lo establecido en la convocatoria correspondiente, a los solos efectos del cálculo de la nota media obtenida en la titulación que da acceso al primer curso de Máster.
+
+En el caso de matricularse en un número de créditos superior al mínimo exigido todos ellos serán tenidos en cuenta para la valoración del rendimiento académico del solicitante.
+
+> Se añade un segundo párrafo a la letra a) por la disposición final 1.6 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+> Se modifica la letra e) por la disposición final 2.2 del Real Decreto 595/2015, de 3 de julio. [Ref. BOE-A-2015-7455](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7455).
+
+> Se suprime la letra b) por la disposición final 2.7 del Real Decreto 472/2014, de 13 de junio. [Ref. BOE-A-2014-6275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6275).
+
+> Se modifica por la disposición final 2.13 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+> Se modifica el párrafo segundo por la disposición final 2.3 del Real Decreto 557/2010, de 7 de mayo. [Ref. BOE-A-2010-7329](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7329).
+
+> Se modifica el párrafo segundo por la disposición final 2.3 del Real Decreto 922/2009, de 29 de mayo. [Ref. BOE-A-2009-8958](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8958).
+
+##### Artículo 27. Nota media.
+
+El estudiantado de primer curso de Másteres Universitarios deberá acreditar una nota media de 5,00 puntos en los estudios previos que dan acceso al Máster. Los estudiantes que se matriculen en el primer curso de un Máster Universitario sin haber obtenido la titulación de Grado, según lo establecido en el artículo 18.4 del Real Decreto 822/2021, de 28 de septiembre, por el que se establece la organización de las enseñanzas universitarias y del procedimiento de aseguramiento de su calidad, podrán obtener beca, siempre que acrediten estar en posesión de la referida titulación de Grado antes del 31 de diciembre del año inicial del curso para el que solicitan la beca. A estos efectos, las notas medias procedentes de estudios de enseñanzas técnicas se multiplicarán por el coeficiente 1,17.
+
+El estudiantado de segundo curso de Másteres Universitarios deberá acreditar haber superado la totalidad de los créditos de primer curso y haber obtenido una nota media de 5,00 puntos en dicho curso.
+
+2\. Para el cómputo de la nota media, la puntuación obtenida en cada una de las asignaturas se ponderará en función del número de créditos que la integren, de acuerdo con la siguiente fórmula:
+
+<table border="0" class="tabla">
+<tbody>
+<tr>
+<td rowspan="2">
+<p class="cuerpo_tabla_centro">V =</p>
+</td>
+<td>
+<p class="cuerpo_tabla_centro">P × NCa</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="cuerpo_tabla_centro">NCt</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+V= valor resultante de la ponderación de la nota media obtenida en cada asignatura.
+
+P= puntuación de cada asignatura.
+
+NCa = número de créditos que integran la asignatura.
+
+NCt = número de créditos matriculados y/o cursados en el/los curso/s académico que se barema/n y que tengan la consideración de computables.
+
+En el caso de que no existan calificaciones numéricas, las calificaciones obtenidas en las distintas materias se computarán según el siguiente baremo:
+
+Mención de Matrícula de Honor: 10 puntos.
+
+Sobresaliente: 9 puntos.
+
+Notable: 7,5 puntos.
+
+Aprobado o apto: 5,5 puntos.
+
+> Se modifica el apartado 1 por la disposición final 1 del Real Decreto 154/2022, de 22 de febrero de 2022. [Ref. BOE-A-2022-2852](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2852)
+
+> Se modifica el apartado 1 por la disposición final 1.3 del Real Decreto 471/2021, de 29 de junio. [Ref. BOE-A-2021-10823](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10823)
+
+> Se modifica el apartado 1 por la disposición final 2.14 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+> Se modifica el apartado 1 por la disposición final 2.4 del Real Decreto 1000/2012, de 29 de junio. [Ref. BOE-A-2012-9007](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9007).
+
+##### Artículo 28. Carga lectiva superada.
+
+En los casos en que el número de créditos a superar para la obtención del título oficial de Máster Universitario sea superior a 60, la continuación de la condición de becario en un segundo año exigirá haber superado todos los créditos de que se hubiera matriculado en el primer año y quedar matriculado en todos los créditos que resten para obtener la titulación.
+
+##### Artículo 29. Número de años con condición de becario.
+
+1\. Podrán disfrutarse las becas y ayudas al estudio para los estudios conducentes al título oficial de Máster universitario durante los años de que conste el plan de estudios.
+
+2\. En los supuestos de matrícula parcial, podrán disfrutarse las becas y ayudas al estudio durante un año más de lo indicado en el apartado anterior.
+
+> Se modifica por la disposición final 2.8 del Real Decreto 472/2014, de 13 de junio. [Ref. BOE-A-2014-6275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6275).
+
+> Se modifica por la disposición final 2.4 del Real Decreto 922/2009, de 29 de mayo. [Ref. BOE-A-2009-8958](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8958).
+
+### Sección 4.ª Requisitos académicos para enseñanzas artísticas superiores y otros estudios superiores
+
+##### Artículo 30. Matriculación.
+
+En los estudios superiores no integrados en la universidad organizados por créditos, los requisitos académicos exigibles para la obtención de beca o ayuda serán los establecidos en este real decreto para los estudiantes universitarios del área de Artes y Humanidades.
+
+En los citados estudios superiores no integrados en la universidad y organizados por cursos académicos se requerirá, a efectos de la obtención de beca o ayuda, que el solicitante se matricule por cursos completos. Este requisito no será exigible, por una sola vez, cuando al solicitante le reste un número menor de créditos o asignaturas para finalizar sus estudios, en cuyo caso deberán matricularse de todos ellos.
+
+> Se modifica por la disposición final 2.15 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+##### Artículo 31. Carga lectiva superada.
+
+**(Sin contenido)**.
+
+> Se deja sin contenido por la disposición final 2.16 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+##### Artículo 32. Número de años con condición de becario.
+
+**(Sin contenido)**.
+
+> Se deja sin contenido por la disposición final 2.16 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+## CAPÍTULO IV — Principios, condiciones de revocación y reintegro e incompatibilidades
+
+##### Artículo 33. Principios y criterios de prioridad.
+
+1\. La gestión de las becas y ayudas al estudio se realizará conforme a los principios de publicidad, eficacia y eficiencia.
+
+2\. Para garantizar la eficacia en el cumplimiento de los objetivos a que se dirigen las becas y ayudas al estudio de carácter general, la beca de matrícula, la beca básica, las cuantías ligadas a la residencia y a la renta, la cuantía fija ligada a la excelencia en el rendimiento académico, la cuantía variable mínima y las cuantías adicionales se concederán a medida que se formulen las correspondientes propuestas parciales de concesión. La cuantía variable se concederá como se indica en el artículo 9.2 de este real decreto.
+
+Asimismo, en la convocatoria de ayudas para el alumnado con necesidad específica de apoyo educativo podrán realizarse resoluciones de concesión parciales y sucesivas a medida que los órganos de selección formulen las correspondientes propuestas.
+
+3\. Las becas y ayudas convocadas con un número predeterminado de personas beneficiarias a que se refiere este real decreto se adjudicarán, con carácter general, atendiendo a las circunstancias económicas de los solicitantes y sus familias. No obstante, las correspondientes convocatorias podrán establecer la preferencia para su obtención por la pertenencia a determinados colectivos en situación desfavorecida, o tener en cuenta haber sido becario en cursos anteriores. En enseñanzas postobligatorias podrá valorarse el rendimiento escolar del alumno.
+
+> Se modifica los apartados 2 y 3 por la disposición final 1.3 del Real Decreto 163/2025, de 4 de marzo. [Ref. BOE-A-2025-4320](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4320)
+
+> Se modifica por la disposición final 2.17 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+##### Artículo 34. Pagos anticipados y abonos a cuenta.
+
+Las becas y ayudas al estudio podrán ser objeto de pago anticipado, entregándose los fondos con carácter previo a la realización de la actividad subvencionada.
+
+Asimismo podrán realizarse abonos a cuenta atendiendo al ritmo de ejecución de las actuaciones subvencionadas.
+
+La concesión de becas y ayudas al estudio no requerirá la constitución de medidas de garantía a favor del órgano concedente.
+
+Los pagos de las becas y ayudas al estudio podrán efectuarse directamente al beneficiario o a través de entidades colaboradoras.
+
+##### Artículo 35. Obligaciones de los beneficiarios.
+
+1\. Son obligaciones de los beneficiarios de becas o ayudas al estudio, además de las que establezca la respectiva convocatoria, las siguientes:
+
+a) Destinar la beca o ayuda a la finalidad para la que se concede, entendiéndose por tal la matriculación, asistencia a clase, presentación a exámenes, abono, en su caso, de los gastos para los que se hubiere concedido, así como la prestación o realización de la práctica que haya motivado su concesión. Los beneficiarios de dichas becas deberán, además, superar, como mínimo el 50 por ciento de los créditos o asignaturas en que se hubieran matriculado, con excepción de los becarios de enseñanzas universitarias de las ramas de Ciencias y de Enseñanzas Técnicas que deberán aprobar, como mínimo, el 40 por ciento de los mismos. El incumplimiento de esta última obligación comportará el reintegro de todos los componentes de la beca con excepción de la beca de matrícula.
+
+b) Acreditar ante la entidad concedente el cumplimiento de los requisitos básicos establecidos en este real decreto así como los que fijen las Administraciones educativas en las convocatorias propias de la beca o ayuda de que se trate.
+
+c) Someterse a las actuaciones de comprobación necesarias, aportando cuanta información les sea requerida en el ejercicio de las citadas actuaciones.
+
+d) Declarar, específicamente en los supuestos de cambio de estudios o de centro docente, el hecho de haber sido becario en años anteriores.
+
+e) Poner en conocimiento de la entidad concedente la anulación de la matrícula así como cualquier otra alteración de las condiciones tenidas en cuenta para la concesión.
+
+f) Proceder al reintegro de los fondos en los casos previstos en este real decreto.
+
+2\. El incumplimiento de cualquiera de estas obligaciones será causa de reintegro de la beca o ayuda al estudio.
+
+> Se modifica el apartado 1.a) por la disposición final 2.9 del Real Decreto 472/2014, de 13 de junio. [Ref. BOE-A-2014-6275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6275).
+
+> Se modifica el apartado 1.a) por la disposición final 2.5 del Real Decreto 1000/2012, de 29 de junio. [Ref. BOE-A-2012-9007](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9007).
+
+##### Artículo 36. Reintegro.
+
+1\. Las adjudicaciones de todo tipo de becas y ayudas al estudio podrán ser revisadas administrativamente cuando concurra en su concesión alguna causa de reintegro o se hubiese producido algún error material, aritmético o de hecho.
+
+2\. Cuando el reintegro derive de un incumplimiento de los requisitos exigibles, el interés de demora se devengará desde el momento del pago de la beca o ayuda hasta la fecha en que se acuerde la procedencia del reintegro. Cuando el reintegro derive de algún error material, aritmético o de hecho de la Administración concedente, el interés de demora se devengará desde el momento en que se notifique la procedencia del mismo.
+
+3\. Atendiendo a la naturaleza de la subvención concedida y a la graduación del incumplimiento de las condiciones impuestas con motivo de su concesión, se ponderará tanto el importe como los componentes de la beca o ayuda al estudio a reintegrar.
+
+4\. Las renuncias por parte de los beneficiarios a las becas o ayudas concedidas darán lugar a su reintegro inmediato.
+
+5\. En el caso de que, como consecuencia de actuaciones seguidas conforme a los apartados anteriores, deban reintegrarse becas o ayudas convocadas con un número predeterminado de beneficiarios, el reintegro se efectuará a favor de la Administración educativa que hubiera concedido la beca. En los restantes casos, el reintegro se efectuará a favor del Tesoro Público del Estado.
+
+##### Artículo 37. Verificación.
+
+En cumplimiento de lo dispuesto en el artículo 86.2, Séptima de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, las Administraciones educativas llevarán a cabo las actuaciones que aseguren la correcta inversión de los recursos presupuestarios destinados a becas y ayudas al estudio estableciendo los procedimientos de verificación y comprobación que consideren adecuados.
+
+##### Artículo 38. Incompatibilidades.
+
+Las becas y ayudas al estudio reguladas en este real decreto serán incompatibles con cualesquiera otros beneficios de la misma naturaleza y finalidad, salvo que el Ministerio de Educación, Cultura y Deporte declare la compatibilidad en casos suficientemente motivados.
+
+> Se modifica por la disposición final 2.6 del Real Decreto 1000/2012, de 29 de junio. [Ref. BOE-A-2012-9007](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9007).
+
+## CAPÍTULO V — Régimen de las becas y ayudas territorializadas
+
+##### Artículo 39. Becas convocadas con número predeterminado de beneficiarios.
+
+1\. Las asignaciones de los créditos presupuestarios que se destinen a las becas y ayudas que se convoquen con un número predeterminado de beneficiarios se distribuirán entre las comunidades autónomas, de acuerdo con lo previsto en el artículo 86 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, previo acuerdo de la Conferencia Sectorial de Educación o de la Conferencia General de Política Universitaria. Dicho acuerdo incluirá los criterios objetivos de distribución y, en su caso, su ponderación así como la cantidad final destinada a cada comunidad autónoma y a cada una de estas convocatorias de becas y ayudas. Los compromisos financieros de la Administración General del Estado respecto de dicha distribución se formalizarán mediante acuerdo del Consejo de Ministros que será publicado en el «Boletín Oficial del Estado».
+
+2\. Los libramientos a las comunidades autónomas de los fondos correspondientes a las becas y ayudas que se convoquen con un número predeterminado de beneficiarios se efectuarán conforme a las siguientes reglas:
+
+a) Resueltas las convocatorias del curso anterior, y en todo caso, en el primer mes de cada curso escolar, se librarán a cada comunidad autónoma las cantidades del presupuesto corriente no invertidas en dichas convocatorias de acuerdo con el porcentaje de participación que hayan acordado la Conferencia Sectorial de Educación o la Conferencia General de Política Universitaria.
+
+b) En el segundo trimestre del curso escolar se librará la diferencia hasta completar la cantidad final acordada para cada Comunidad Autónoma.
+
+##### Artículo 40. Becas convocadas sin número predeterminado de beneficiarios.
+
+1\. Con cargo a las partidas presupuestarias que se destinen a las demás becas y ayudas al estudio territorializadas se librará a las comunidades autónomas el cien por cien del coste de las becas y ayudas que se concedan de conformidad con la normativa básica y que no superen el umbral inferior del intervalo a que se refiere la disposición adicional primera. Asimismo se librará a las comunidades autónomas el porcentaje de financiación que corresponda al Estado del coste de las becas y ayudas que se concedan de conformidad con la normativa básica y dentro del intervalo a que se refiere la disposición adicional primera.
+
+2\. Los libramientos a las comunidades autónomas de los fondos correspondientes a estas becas y ayudas al estudio se llevarán a cabo conforme a las siguientes reglas:
+
+a) Resueltas las convocatorias del curso anterior, y en todo caso, en el primer mes de cada curso escolar, se distribuirán entre las comunidades autónomas las cantidades del presupuesto corriente no invertidas en dichas convocatorias, de acuerdo con la media de participación en las respectivas convocatorias que haya correspondido a cada comunidad autónoma en los últimos dos años académicos.
+
+En caso de convocarse nuevas modalidades de becas o ayudas al estudio, la distribución a que se refiere el párrafo anterior se efectuará de acuerdo con la media de participación de cada comunidad autónoma en el conjunto de las becas y ayudas dirigidas a las correspondientes enseñanzas.
+
+b) En el segundo trimestre de cada curso escolar se distribuirá el ochenta por ciento de la cantidad restante para completar el importe calculado conforme al criterio establecido en el apartado a).
+
+c) No más tarde del mes de marzo de cada año, las Comunidades Autónomas remitirán al Ministerio de Educación, Formación Profesional y Deportes el estado comprensivo de las obligaciones reconocidas y de los pagos realizados con cargo a los libramientos que hasta esa fecha haya efectuado el Departamento con cargo a ambos ejercicios, en los términos recogidos en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, diferenciando las becas y ayudas que son objeto de financiación estatal de aquellas otras que se concedan en régimen de cofinanciación. Recibida esta documentación y, en todo caso, antes del mes de junio se liquidará a cada comunidad autónoma el importe hasta completar la financiación que corresponda al Estado de las becas y ayudas concedidas, a excepción del importe reservado para compensar las becas de matrícula, que se abonará una vez se reciba en el Ministerio de Educación, Formación Profesional y Deportes la información de las universidades o centros que impartan las enseñanzas artísticas superiores relativa a los precios públicos devengados por los becarios a los que corresponda la beca de matrícula, sin perjuicio de la posibilidad de realizar pagos a cuenta a esas entidades.
+
+Cuando una vez liquidado el importe a las Comunidades Autónomas indicado en el párrafo anterior sea necesario completar la financiación por motivo de reclamaciones o recursos estimados interpuestos por los solicitantes de becas y ayudas al estudio o por cualquier otro motivo, se completará la financiación con el importe necesario para cubrir la concesión de las becas y ayudas al estudio a los alumnos por el importe que les hubiera correspondido de haberles concedido dichas becas y ayudas en el momento de la concesión inicial, lo que en ningún caso modificará las cuantías de las becas y ayudas ya concedidas al resto de alumnos.
+
+El Ministerio de Educación, Formación Profesional y Deportes podrá anticipar a las Comunidades Autónomas los importes indicados en los párrafos b) y c) anteriores en el primer trimestre del curso escolar.
+
+d) En el caso de que las disponibilidades presupuestarias permitan la concesión de la cuantía variable a que se refiere el artículo 9 el Ministerio de Educación, Formación Profesional y Deportes procederá a la distribución de dicha cuantía variable utilizando la fórmula prevista en el citado artículo, así como al libramiento de las cantidades resultantes a las Comunidades Autónomas para su abono a los beneficiarios.
+
+Con el fin de agilizar la asignación de la cuantía variable, se podrá proceder a una asignación provisional de la misma para todas aquellas solicitudes que hayan sido tramitadas en la convocatoria en curso, aplicando la fórmula con los datos disponibles en ese momento, sin agotar la totalidad del crédito destinado para la financiación de este componente.
+
+Tramitadas la totalidad de las solicitudes, se procederá a la asignación definitiva de la cuantía variable entre todas las solicitudes con derecho a la misma.
+
+> Se modifica las letras c) y d) del apartado 2 por la disposición final 1.4 del Real Decreto 163/2025, de 4 de marzo. [Ref. BOE-A-2025-4320](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4320)
+
+> Se modifica el apartado 2.d) por la disposición final 2 del Real Decreto 726/2017, de 21 de julio. [Ref. BOE-A-2017-8618](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-8618)
+
+> Se declara la inconstitucionalidad y nulidad de la letra d) del apartado 2, en la redacción dada por la disposición final 2.18 del Real Decreto 609/2013, por Sentencia del TC 95/2016, de 12 de mayo. [Ref. BOE-A-2016-5972](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-5972).
+
+> Se modifica la letra c), se añade una letra d) al apartado 2, y se suprime el apartado 3 por la disposición final 2.18 y 19 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+##### Artículo 41. Administración competente y publicidad.
+
+1\. Antes del comienzo de cada curso escolar, las comunidades autónomas harán públicas en el diario oficial correspondiente las convocatorias de las becas y ayudas a que se refiere este capítulo.
+
+2\. Las mencionadas convocatorias de las comunidades autónomas y las notificaciones de concesión a los interesados deberán especificar las becas y ayudas que se convoquen y concedan con cargo al Programa estatal de becas y ayudas a estudiantes del Ministerio de Educación y Ciencia.
+
+3\. Dichas becas y ayudas se solicitarán a la comunidad autónoma en que se encuentre el domicilio familiar del interesado, con la excepción señalada en el artículo 50.
+
+Salvo que se indique otra cosa en los reales decretos de traspaso de competencias en materia de becas y ayudas al estudio vigentes, a estos efectos, se considerará domicilio familiar del interesado aquel en el que residan los sustentadores principales de la unidad familiar a fecha 31 de diciembre del año inmediatamente anterior a aquel en el que comienza el curso correspondiente. En el caso de separación o divorcio con custodia compartida, se considerará domicilio familiar el del sustentador principal indicado en la solicitud de beca.
+
+> Se modifica el apartado 3 y se suprime el 4 por la disposición final 1.7 y 8 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+##### Artículo 42. Adjudicación y pago de las becas y ayudas.
+
+1\. Las comunidades autónomas resolverán y procederán al pago de las becas y ayudas concedidas de conformidad con lo previsto en este real decreto y en sus respectivas convocatorias.
+
+2\. En el caso de convocatorias con un número prefijado de beneficiarios, el coste total de las becas y ayudas concedidas con cargo al Programa de becas y ayudas a estudiantes del Ministerio de Educación y Ciencia no podrá superar el importe de crédito atribuido a cada comunidad autónoma para la convocatoria de que se trate.
+
+3\. Terminado el proceso de adjudicación de las becas y ayudas, las administraciones educativas y las universidades verificarán, al menos, un 3 por ciento de las becas y ayudas concedidas.
+
+## CAPÍTULO VI — Becas de colaboración de estudiantes en departamentos universitarios financiadas con cargo a los Presupuestos Generales del Estado
+
+> Se añade por la disposición final 1.9 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+##### Artículo 43. Objeto.
+
+Las becas de colaboración de estudiantes en departamentos universitarios tienen por objeto promover la iniciación en tareas de investigación del estudiantado universitario que vaya a finalizar los estudios de Grado o que esté cursando primer curso de Másteres universitarios oficiales, mediante la asignación de una beca que le permita iniciarse en tareas de investigación vinculadas con los estudios que esté cursando y facilitar su futura orientación profesional o investigadora.
+
+Las indicadas becas se regirán, entre otras normas de aplicación, por lo dispuesto en este real decreto, las bases reguladoras y las convocatorias respectivas.
+
+> Se añade por la disposición final 1.9 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+##### Artículo 44. Número, distribución territorial y cuantía individual de las becas.
+
+En el real decreto a que se refiere la disposición adicional primera se establecerá para cada curso escolar el número máximo de becas que se financiarán con cargo a los Presupuestos Generales del Estado, así como la cuantía individual de las becas.
+
+La Conferencia General de Política Universitaria determinará, dentro del total establecido, el número de becas a convocar por parte de las comunidades autónomas que hayan asumido plenas competencias en esta materia, siguiéndose las reglas de asignación de créditos y gestión de ayudas previstas en los artículos 39, 41 y 42.
+
+> Se añade por la disposición final 1.9 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+##### Artículo 45. Régimen de concesión.
+
+Las becas de colaboración de estudiantes universitarios se concederán en régimen de concurrencia competitiva, conforme a las reglas que se determinan, entre otras normas de aplicación, en este real decreto, las bases reguladoras y las convocatorias respectivas.
+
+> Se añade por la disposición final 1.9 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+##### Artículo 46. Compatibilidad.
+
+Podrá obtenerse la condición de persona beneficiaria de esta beca en un único curso académico y por una sola vez.
+
+El régimen de incompatibilidades de estas ayudas será el previsto en el artículo 38.
+
+> Se añade por la disposición final 1.9 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+##### Artículo 47. Requisitos para la obtención de la beca y criterios de selección.
+
+1\. Las becas se dirigirán a estudiantes universitarios que vayan a finalizar los estudios de Grado o que estén cursando primer curso de Másteres universitarios oficiales. No podrán obtener las becas quienes estén en posesión de los títulos respectivos.
+
+2\. Las personas solicitantes deberán presentar un proyecto de colaboración a desarrollar dentro de alguna de las líneas de investigación en curso de los departamentos universitarios que versará, en todo caso, sobre alguna de las materias de formación básica u obligatorias para la obtención de la titulación que se esté cursando en el que se describirán detalladamente las funciones que se van a realizar durante la colaboración, así como el régimen de dedicación y tareas que deberá cumplir el becario. El proyecto deberá presentarse debidamente avalado y puntuado por el consejo de departamento, en el que este vaya a desarrollarse.
+
+3\. Estas becas no estarán condicionadas al cumplimiento de requisitos de carácter económico. Las correspondientes convocatorias establecerán los requisitos académicos mínimos necesarios para la obtención de la beca, entre los cuáles estará necesariamente, el haber obtenido una determinada nota media en los estudios previos y, en el caso de los estudios de grado, el haber superado un porcentaje de la carga lectiva del correspondiente título que no podrá ser inferior al 75 %.
+
+4\. Para la obtención de la beca, la comisión de selección tendrá en cuenta la nota media del expediente académico y la puntuación asignada al proyecto de colaboración elaborado por la persona estudiante por el consejo del departamento en el que se vaya a desarrollar dicha colaboración, en los términos que se establezcan en la convocatoria.
+
+> Se añade por la disposición final 1.9 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+##### Artículo 48. Prestación de la colaboración.
+
+La persona beneficiaria deberá prestar su colaboración de forma presencial en el departamento universitario para el que obtenga la beca a razón de al menos tres horas diarias durante siete meses y medio a contar desde la fecha de incorporación al destino correspondiente como becario de colaboración, en los términos recogidos en el proyecto de colaboración, en la universidad en la que está matriculado o en la que esté matriculado en el mayor número de créditos. En el caso de universidades que impartan exclusivamente enseñanzas no presenciales, la colaboración podrá prestarse a distancia.
+
+> Se añade por la disposición final 1.9 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+##### Artículo 49. Reintegro.
+
+El régimen de verificación, revocación y reintegro de estas becas será el previsto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, la Ley Orgánica 2/2006, de 3 de mayo, y este real decreto. En todo caso las concesiones de becas de colaboración serán modificadas con reintegro total de su cuantía en caso de descubrirse que en su concesión concurrió ocultación o falseamiento de datos o que existe incompatibilidad con otros beneficios de esta clase procedentes de otras personas físicas o jurídicas. También serán modificadas y reintegradas las becas en el caso de probarse que su importe no ha sido destinado a la finalidad para la que fueron concedidas, entendiéndose por tal la prestación de la colaboración en los términos recogidos en la convocatoria, o en los casos en que hayan sido concedidas a estudiantes que no reunían alguno o algunos de los requisitos establecidos, o no los acrediten debidamente, o en caso de renuncia voluntaria a la beca.
+
+> Se añade por la disposición final 1.9 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+##### Artículo 50. Competencia para la tramitación y concesión de las becas.
+
+A los efectos de determinar la competencia estatal o de las comunidades autónomas con traspaso de funciones en materia de becas y ayudas al estudio para tramitar y conceder estas becas se estará a la universidad en que se encuentren matriculadas las personas solicitantes, con independencia de su domicilio familiar.
+
+> Se añade por la disposición final 1.9 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+##### Artículo 51. Colaboración de las universidades.
+
+El Ministerio de Educación, Formación Profesional y Deportes, respecto de la convocatoria estatal, y las comunidades autónomas con competencias transferidas, comunicarán a las universidades el número de becas que se les asignen en cada curso, a los efectos de su distribución por departamentos. De dicha distribución se dará publicidad a través de la página web de la universidad, con objeto de que el alumnado matriculado pueda realizar la correspondiente selección en su solicitud de beca.
+
+Las universidades y sus departamentos colaborarán en el proceso de tramitación y selección de las solicitudes en los términos que se determinen en las convocatorias.
+
+> Se añade por la disposición final 1.9 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+##### Disposición adicional primera. Enseñanzas, cuantías y umbrales.
+
+Previa consulta a las comunidades autónomas, el Gobierno aprobará, en el primer trimestre del año, un real decreto en el que se especificarán los siguientes extremos:
+
+a) La asignación de los fondos del Programa de becas y ayudas a estudiantes a cada una de las distintas convocatorias cuando éstas tengan un número predeterminado de beneficiarios y, en su caso, los criterios de prioridad.
+
+b) Las enseñanzas para las que se concederán las becas y ayudas al estudio.
+
+c) Las cuantías de los componentes y modalidades de las becas o ayudas para cada una de las enseñanzas.
+
+d) Los umbrales de renta y de patrimonio familiar para la obtención de cada uno de los componentes de las becas o ayudas al estudio, así como el importe de las deducciones que deban practicarse sobre la renta o el porcentaje de valoración del patrimonio, en su caso.
+
+e) Los requisitos, condiciones socioeconómicas u otros factores precisos para asegurar la igualdad en el acceso a las citadas becas y ayudas al estudio en todo el territorio. A estos efectos, alguno de los umbrales podrá establecerse en forma de intervalo, siendo en ese caso financiadas por el Ministerio de Educación y Ciencia las becas y ayudas sujetas al extremo inferior del mismo y objeto de cofinanciación entre éste y la correspondiente comunidad autónoma las becas y ayudas otorgadas a los interesados que se encuentren dentro del intervalo fijado.
+
+##### Disposición adicional segunda. Convenios.
+
+El Ministerio de Educación y Ciencia y las comunidades autónomas podrán acordar la realización de planes y programas conjuntos para otorgar becas o ayudas. La iniciativa se acordará en el ámbito de la Conferencia Sectorial de Educación o de la Conferencia General de Política Universitaria y para su desarrollo se suscribirán convenios de colaboración con las comunidades autónomas correspondientes.
+
+##### Disposición adicional tercera. Bases de datos.
+
+El Ministerio de Educación y Ciencia mantendrá la base de datos de beneficiarios de becas y ayudas al estudio a que se refiere este real decreto y velará por su conservación actualizada, al objeto del control parlamentario del crédito y para dar cumplimiento a las resoluciones del Tribunal de Cuentas en materia de becas y ayudas al estudio así como para mantener la estadística para fines estatales.
+
+Las Administraciones educativas y las Universidades remitirán al Ministerio de Educación y Ciencia la información necesaria a estos efectos en un plazo máximo de tres meses desde el cierre de cada convocatoria.
+
+Del mismo modo, la Administración del Estado facilitará a las comunidades autónomas cuantos datos sean precisos para los fines que les son propios.
+
+##### Disposición adicional cuarta. Reales decretos de traspasos.
+
+1\. El traspaso del pleno ejercicio de las competencias a cada comunidad autónoma en los términos previstos en este real decreto se producirá a partir de la fecha señalada en el Acuerdo de la Comisión Mixta por el que se apruebe el traspaso de las funciones, medios y servicios necesarios para la asunción de estas competencias.
+
+2\. En tanto no se apruebe dicho traspaso, las referencias efectuadas en los artículos 40, 41 y 42 de este real decreto a la Comunidad o comunidades autónomas deben entenderse realizadas al Ministerio de Educación y Ciencia.
+
+##### Disposición adicional quinta. Competencia en materia de estudios no presenciales cursados por estudiantes catalanes y becas de colaboración de esa comunidad autónoma.
+
+En el caso de la Comunidad Autónoma de Cataluña, el Grupo de Trabajo a que hace referencia el apartado D).2 del anexo del Real Decreto 261/2025, de 1 de abril, de ampliación de funciones y servicios traspasados a la Generalitat de Cataluña por el Real Decreto 2809/1980, de 3 de octubre, en materia de Enseñanza, y por el Real Decreto 305/1985, de 6 de febrero, en materia de Universidades: becas y ayudas al estudio, podrá acordar que las becas para estudios no presenciales se rijan por las mismas reglas competenciales que las presenciales y se soliciten a la administración educativa correspondiente al domicilio familiar de la persona solicitante, y que en las becas de colaboración de estudiantes en departamentos universitarios se utilice para determinar la competencia el criterio unitario de la universidad en que esté matriculada la persona solicitante.
+
+> Se añade por la disposición final 1.10 del Real Decreto 179/2026, de 11 de marzo. [Ref. BOE-A-2026-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5713)
+
+##### Disposición transitoria primera. Enseñanzas universitarias.
+
+En tanto se sigan impartiendo los estudios conducentes al título de Licenciado, Ingeniero, Arquitecto, Diplomado, Maestro, Ingeniero Técnico y Arquitecto Técnico, podrán concederse becas a los estudiantes que estén cursando dichos estudios conforme a lo dispuesto en este real decreto y en los siguientes apartados:
+
+1\. Se requerirá que el solicitante quede matriculado en el curso para el que solicita la beca, como mínimo, del número de créditos que resulte de dividir el total de los que integran el plan de estudios, excepción hecha de los de libre elección, entre el número de años que lo compongan. En todo caso, dicho número de años deberá ajustarse a lo establecido en el Real Decreto 1497/1987 de 27 de noviembre (B.O.E. de 14 de diciembre) y modificaciones posteriores, por el que se establecen directrices generales comunes de los planes de estudio de los títulos universitarios de carácter oficial y validez en todo el territorio nacional.
+
+2\. No obstante, podrán obtener también beca o ayuda los alumnos que se matriculen al menos del cincuenta por ciento de los créditos establecidos en el apartado anterior. En este caso serán de aplicación las siguientes reglas:
+
+a) Quienes opten por la matrícula parcial y no se matriculen de todos aquellos créditos de los que les fuera posible podrán obtener únicamente la cuantía variable mínima y la beca de matrícula. Para obtener la beca o ayuda en el siguiente curso deberán aprobar la totalidad de los créditos en que hubieran estado matriculados.
+
+b) **(Suprimida)**
+
+c) En aquellos casos en los que, en virtud de la normativa propia de la Universidad, resulte limitado el número de créditos en que pueda quedar matriculado el alumno, éste podrá obtener todas las cuantías que le correspondan si se matricula en todos aquellos en los que le sea posible. Si dichos créditos se cursan en un cuatrimestre/semestre, la cuantía de la beca que les corresponderá será la beca de matrícula, la cuantía variable mínima y el cincuenta por ciento de las cantidades que le hubiesen correspondido. En el supuesto de que el alumno se matricule también en el segundo cuatrimestre/semestre correspondiente al curso académico, se completará la cuantía de la beca hasta el total que le hubiese correspondido.
+
+d) El número mínimo de créditos fijado en los párrafos anteriores en que el alumno debe quedar matriculado en el curso para el que solicita la beca o ayuda no será exigible, por una sola vez, en el caso de los alumnos a los que, para finalizar sus estudios, les reste un número de créditos inferior a dicho número mínimo, siempre que no haya disfrutado de la condición de becario durante más años de los previstos en el apartado 13 siguiente.
+
+3\. **(Sin contenido)**
+
+4\. **(Sin contenido)**
+
+5\. **(Sin contenido)**
+
+6\. Los créditos convalidados y adaptados no se tendrán en cuenta a efectos del cumplimiento de los requisitos académicos.
+
+7\. En ningún caso entrarán a formar parte de los mínimos a que se refieren los apartados anteriores, créditos correspondientes a distintas especialidades que superen los necesarios para la obtención del título correspondiente.
+
+8\. Para obtener, en las condiciones previstas en este real decreto, las cuantías a que se refieren los párrafos a), b) y c) del apartado 1, y el apartado 2 del artículo 9, se requerirá que el solicitante haya superado en el curso anterior a aquel para el que solicita la beca o ayuda el 100 % de los créditos matriculados si se trata de estudios de las Áreas de Artes y Humanidades, de Ciencias Sociales y Jurídicas, Ciencias y Ciencias de la Salud, y el 85 % en el caso de enseñanzas de Ingeniería y Arquitectura.
+
+Alternativamente, los solicitantes de segundos y posteriores cursos que no superen el porcentaje de créditos establecido en el párrafo anterior podrán también obtener las cuantías mencionadas en el párrafo anterior si acreditan haber superado en los últimos estudios cursados los siguientes porcentajes de créditos y haber alcanzado las siguientes notas medias de las asignaturas superadas:
+
+| Rama de conocimiento | Porcentaje de créditos a superar | Nota media en las asignaturas superadas |
+|---|---|---|
+| Artes y Humanidades | 90 | 6,50 puntos. |
+| Ciencias | 80 | 6,00 puntos. |
+| Ciencias Sociales y Jurídicas | 90 | 6,50 puntos. |
+| Ciencias de la Salud | 80 | 6,50 puntos. |
+| Ingeniería y Arquitectura | 65 | 6,00 puntos. |
+
+Para obtener, en las condiciones previstas en este real decreto, la beca de matrícula como único componente, los solicitantes de segundos y posteriores cursos deberán acreditar haber superado en los últimos estudios cursados los siguientes porcentajes de los créditos matriculados:
+
+| Rama de conocimiento | Porcentaje de créditos a superar |
+|---|---|
+| Artes y Humanidades | 90 |
+| Ciencias | 65 |
+| Ciencias Sociales y Jurídicas | 90 |
+| Ciencias de la Salud | 80 |
+| Ingeniería y Arquitectura | 65 |
+
+9\. En todo caso, el número mínimo de créditos en que debió estar matriculado el solicitante en el curso anterior a aquel para el que solicita la beca, será el que, para cada caso, se indica en los apartados anteriores.
+
+10\. En todos los casos en que existan cursos con el carácter de selectivos podrá obtenerse beca durante el segundo año que, en su caso, necesite el alumno para superar la totalidad del curso, siempre que se haya superado la carga lectiva establecida en el apartado 8 anterior. Superados en dicho segundo curso, todos los créditos, se entenderá que el alumno cumple el requisito académico necesario para obtener beca en el siguiente curso.
+
+11\. Para obtener beca para la realización del proyecto de fin de carrera será preciso haber superado todos los créditos del plan de estudios, habiendo disfrutado en el curso inmediato anterior de la condición de becario de la convocatoria general o de movilidad del Ministerio de Educación y Ciencia. Además se requerirá que éste no constituya una asignatura ordinaria del plan de estudios o se realice simultáneamente con alguno de los cursos de la carrera.
+
+12\. Se entenderá que cumplen los requisitos académicos los alumnos que obtengan un excepcional aprovechamiento académico. Para determinar si existe excepcional aprovechamiento del alumno se calculará el incremento porcentual de créditos matriculados sobre el número mínimo de los mismos a cuya matriculación obliga el apartado 1 anterior. El porcentaje de créditos a superar en estos casos para obtener beca se determinará mediante las siguientes fórmulas matemáticas:
+
+85 – (Y/10) o bien 65 – (Y/10)
+
+Para enseñanzas técnicas, dependiendo de que el solicitante se acoja a la primera o a la segunda de las opciones señaladas en el apartado 8 anterior.
+
+100 – (Y/10) o bien 80 – (Y/10)
+
+Para las enseñanzas universitarias adscritas a las ramas de conocimiento de Ciencias y de Ciencias de la Salud dependiendo de que el solicitante se acoja a la primera o a la segunda de las opciones señaladas en el apartado 8 anterior.
+
+100 – (Y/10) o bien 90 – (Y/10)
+
+Para las enseñanzas universitarias adscritas a las ramas de conocimiento de Artes y Humanidades y de Ciencias Sociales y Jurídicas, dependiendo de que el solicitante se acoja a la primera o a la segunda de las opciones señaladas en el apartado 8 anterior.
+
+Y es el incremento porcentual de créditos matriculados sobre el número mínimo de los mismos a cuya matriculación obliga el apartado 1 anterior.
+
+13\. a) Sólo se podrá disfrutar de la condición de becario durante los años de que conste el plan de estudios. Como excepción, se podrá disfrutar de la condición de becario durante un mayor número de años a los determinados en el correspondiente plan de estudios en los siguientes supuestos:
+
+Enseñanzas técnicas de primero y segundo ciclo: dos años más de los establecidos en el plan de estudios.
+
+Enseñanzas técnicas de una titulación de sólo primer ciclo o enseñanzas técnicas de sólo segundo ciclo: un año más de los establecidos en el plan de estudios.
+
+Resto de licenciaturas universitarias: un año más de los establecidos en el plan de estudios.
+
+b) Los alumnos que cursen la totalidad de sus estudios universitarios en centros de educación a distancia podrán disfrutar de la condición de becario durante un año más de los previstos en los apartados anteriores.
+
+> Se suprime la letra b) del apartado 2 por la disposición final 2.10 del Real Decreto 472/2014, de 13 de junio. [Ref. BOE-A-2014-6275](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6275).
+
+> Se modifican los apartados 2, 8 y 12 por la disposición final 2.20, 21 y 22 del Real Decreto 609/2013, de 2 de agosto. [Ref. BOE-A-2013-8559](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8559).
+
+> Se renumera como disposición transitoria primera y se modifican los apartados 8 y 12 por la disposición final 2.7 del Real Decreto 1000/2012, de 29 de junio. [Ref. BOE-A-2012-9007](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9007).
+
+> Se modifica el apartado 2 y se interpreta que se dejan sin contenido los apartados 3, 4 y 5 por la disposición final 2.4 del Real Decreto 557/2010, de 7 de mayo. [Ref. BOE-A-2010-7329](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7329).
+
+##### Disposición transitoria segunda. Compensación a las Universidades por la exención de matrícula.
+
+Cuando las Administraciones educativas no proporcionen los datos del coste económico desagregado de cada una de las titulaciones oficiales ofertadas por sus Universidades públicas, basado en la información proporcionada por su contabilidad analítica, la parte del componente de matrícula que se financiará con cargo a los Presupuestos Generales del Estado se determinará de conformidad con lo dispuesto en el apartado 2 del artículo 7 del Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto educativo.
+
+> Se modifica por la disposición final 2.4 del Real Decreto 293/2016, de 15 de julio. [Ref. BOE-A-2016-6846](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-6846).
+
+> Se añade por la disposición final 2.8 del Real Decreto 1000/2012, de 29 de junio. [Ref. BOE-A-2012-9007](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9007).
+
+##### Disposición derogatoria única. Derogación normativa.
+
+1\. Quedan derogados el Real Decreto 2298/1983, de 28 de julio, por el que se regula el sistema de becas y otras ayudas al estudio de carácter personalizado (B.O.E. de 27 de agosto de 1983) y el Real Decreto 1123/1985, de 19 de junio, sobre pago de becas y ayudas al estudio concedidas por el Ministerio de Educación y Ciencia a través de entidades de crédito (B.O.E. de 9 de julio de 1985).
+
+2\. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente real decreto.
+
+##### Disposición final primera. Coordinación de actuaciones.
+
+El Ministerio de Educación y Ciencia y las comunidades autónomas coordinarán sus actuaciones en lo que respecta a las becas y ayudas que se regulan en este real decreto. Asimismo, las Administraciones educativas competentes podrán acordar con el Ministerio de Educación y Ciencia las medidas de apoyo y colaboración que estimen necesarias.
+
+##### Disposición final segunda. Título competencial y carácter de legislación básica.
+
+Este real decreto tiene carácter básico, dictándose al amparo de la competencia exclusiva atribuida al Estado en el artículo 149.1. 30.ª de la Constitución Española y en desarrollo de lo dispuesto en el artículo 45 de la Ley 6/2001 Orgánica de Universidades en la redacción dada por la Ley Orgánica 4/2007, de 12 de abril y el artículo 83 de la Ley Orgánica de Educación. Se exceptúan del referido carácter básico los siguientes preceptos: artículo 12 último párrafo, artículo 33.2, y artículo 34.
+
+##### Disposición final tercera. Desarrollo normativo.
+
+Corresponde al Ministro de Educación y Ciencia dictar las normas que sean precisas para la aplicación y desarrollo de lo establecido en este real decreto en el ámbito de su competencia.
+
+##### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 21 de diciembre de 2007.
+
+JUAN CARLOS R.
+
+La Ministra de Educación y Ciencia,
+
+MERCEDES CABRERA CALVO-SOTELO

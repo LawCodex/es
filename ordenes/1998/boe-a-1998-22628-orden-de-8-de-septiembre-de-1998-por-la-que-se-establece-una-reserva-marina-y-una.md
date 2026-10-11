@@ -1,0 +1,329 @@
+---
+title: "Orden de 8 de septiembre de 1998 por la que se establece una reserva marina y una reserva de pesca en el entorno de la isla de Alborán y se regula el ejercicio de la pesca en los caladeros adyacentes"
+identifier: "BOE-A-1998-22628"
+eli: "https://www.boe.es/eli/es/o/1998/09/08/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1998-09-08
+published: 1998-09-29
+in_force_from: 1998-09-30
+last_amended: 2025-11-08
+consolidated: 2026-03-04
+gazette: "Boletín Oficial del Estado núm. 233"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-22628"
+retrieved: 2026-10-11
+---
+
+# Orden de 8 de septiembre de 1998 por la que se establece una reserva marina y una reserva de pesca en el entorno de la isla de Alborán y se regula el ejercicio de la pesca en los caladeros adyacentes
+
+La Orden del Ministerio de Agricultura, Pesca y Alimentación de 13 de junio de 1997, por la que se regula la pesca de arrastre de fondo en la isla de Alborán, fija los criterios de ejecución de esta modalidad pesquera en los caladeros que circundan la isla.
+
+Por otra parte, la Orden del Ministerio de Agricultura, Pesca y Alimentación de 31 de julio de 1997 establece una reserva marina y una reserva de pesca en el entorno de la isla.
+
+Mediante la presente norma se refunden, por economía administrativa, las dos Órdenes anteriormente citadas, al tiempo que se establecen los criterios para la elaboración de los censos de los buques autorizados a faenar en los caladeros de la isla de Alborán.
+
+Igualmente, se aprovecha la Orden para introducir una serie de modificaciones tendentes a facilitar la gestión de estas zonas reguladas. Así, la reserva de pesca se amplía en extensión y las modalidades de pesca profesional en la reserva marina se complementan con la autorización de la cacea al curricán y caña con cebo vivo.
+
+Se ha solicitado informe del Instituto Español de Oceanografía, y han sido consultadas las Comunidades Autónomas y el sector afectado.
+
+Asimismo, conforme a lo establecido en el artículo 7.3 del Reglamento (CE) n.º 1967/2006 del Consejo, de 21 de diciembre de 2006, relativo a las medidas de gestión para la explotación sostenible de los recursos pesqueros en el mar Mediterráneo y por el que se modifica el Reglamento (CEE) n.º 2847/93 y se deroga el Reglamento (CE) n.º 1626/94 ha sido informada la Comisión.
+
+La presente Orden se dicta en virtud de la competencia exclusiva del Estado en materia de pesca marítima establecida en el artículo 149.1.19. a de la Constitución.
+
+En su virtud, dispongo:
+
+> Se modifica el párrafo sexto por el art. único.1 de la Orden APA/767/2018, de 19 de junio. [Ref. BOE-A-2018-10097](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10097)
+
+## CAPÍTULO I — Objeto y ámbito de aplicación
+
+### Artículo 1. Objeto.
+
+1\. Es objeto de la presente Orden el establecimiento de una reserva marina y de una reserva de pesca (zona de especial interés pesquero para los buques españoles) en el entorno de la isla de Alborán, sometiendo las actividades en dichas zonas a las limitaciones correspondientes.
+
+2\. Las normas que regulan la actividad pesquera en dichas zonas serán de aplicación a los buques españoles.
+
+### Artículo 2. Ámbito de aplicación.
+
+1\. La reserva marina se subdivide en dos zonas situadas en las aguas exteriores y delimitadas del modo siguiente:
+
+a) Zona de reserva marina uno: Se extiende hasta una milla de la isla de Alborán, medida a partir de las líneas de base.
+
+b) Zona de reserva marina dos: Comprende un círculo de media milla alrededor del punto de coordenadas geográficas de latitud 35 o 57' 95.º Norte y longitud 2 o 58' 60.º Oeste, que incluye el bajo conocido con el nombre de «Piedra Escuela».
+
+2\. Dentro de la reserva marina a que se refiere el apartado anterior, se establecen dos zonas de reserva integral:
+
+a) Zona de reserva integral uno: Se extiende hasta media milla de la isla de Alborán, medida a partir de las líneas de base.
+
+b) Zona de reserva integral dos: Se extiende hasta media milla alrededor del punto de coordenadas geográficas de latitud 35 o 57' 95.º Norte y longitud 2 o 58' 60.º Oeste, situado en el entorno del bajo conocido con el nombre de «Piedra Escuela».
+
+3\. La reserva de pesca (zona de especial interés pesquero para los buques españoles) comprende la plataforma marítima que circunda la isla de Alborán, tanto en aguas jurisdiccionales españolas como en alta mar, excluyendo la zona de reserva marina.
+
+## CAPÍTULO II — La reserva marina
+
+### Artículo 3. Limitaciones de uso en las reservas integrales.
+
+Con carácter general, en las zonas de reserva integral indicadas queda prohibido cualquier tipo de pesca marítima, extracción de fauna y flora y las actividades subacuáticas.
+
+Con fines de carácter científico y previa autorización expresa de la Secretaría General de Pesca Marítima, podrá permitirse el acceso a dicha zona y la toma de muestras de flora y fauna.
+
+### Artículo 4. Limitaciones de uso en las reservas marinas.
+
+1\. Dentro de la reserva marina y fuera de las zonas de reserva integral queda prohibida toda clase de pesca marítima y la extracción de flora y fauna marinas, con las excepciones siguientes:
+
+a) La pesca marítima profesional, con los siguientes artes y aparejos tradicionalmente utilizados en la zona: Palangre de fondo, cacea al curricán, cañas con cebo vivo y cerco dirigido a pequeños pelágicos.
+
+b) El muestreo de flora y fauna marinas, con autorización expresa de la Secretaría General de Pesca Marítima para realizar el seguimiento científico de la reserva marina.
+
+c) La pesca marítima de recreo con cacea al curricán. Excepcionalmente, la Secretaría General de Pesca Marítima podrá autorizar, en función del estado de los recursos pesqueros, la pesca con línea de mano o caña.
+
+2\. En la reserva marina, por fuera de la zona de reserva integral, podrá practicarse el buceo.
+
+Para el ejercicio de esta actividad deberá acreditarse estar en posesión de la autorización administrativa que habilita para la práctica del buceo en España.
+
+No obstante, los buceadores no portarán, en ningún caso, ni a mano ni en embarcación, instrumento alguno que pueda utilizarse para el ejercicio de la pesca o la extracción de especies marinas.
+
+> Se modifica la letra c) del apartado 1 por el art. único.1 de la Orden de 6 de junio de 2001. [Ref. BOE-A-2001-11792](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-11792)
+
+## CAPÍTULO III — La reserva de pesca (la zona de especial interés pesquero para los buques españoles)
+
+### Artículo 5. Limitaciones de pesca.
+
+1\. En la reserva de pesca (zona de especial interés para los buques españoles) podrá practicarse:
+
+a) La pesca profesional con artes de arrastre de fondo dirigidos a la captura de gamba roja *(Aristeus antennatus)* y otras especies de fondo, conforme a lo dispuesto en el capítulo II del Real Decreto 502/2022, de 27 de junio, por el que se regula el ejercicio de la pesca en los caladeros nacionales, y a la Orden APA/423/2020, de 18 de mayo, por la que se establece un plan de gestión para la conservación de los recursos pesqueros demersales en el mar Mediterráneo, con malla cuadrada de un mínimo de 50 mm.
+
+b) La pesca profesional con palangre de fondo, palangrillo, trasmallo y nasas de camarón, según las condiciones exigidas en el capítulo IV del Real Decreto 502/2022, de 27 de junio, por el que se regula el ejercicio de la pesca en los caladeros nacionales, para el palangre de fondo, y las condiciones establecidas en su capítulo V para palangrillo, trasmallo y nasas de camarón, con las siguientes especificidades:
+
+1.º Palangre de fondo y palangrillo: un lance por día. Número máximo de anzuelos a calar por lance: 1.500. Número máximo de anzuelos a bordo: 2.000. Medidas del anzuelo: entre 3 y 4 centímetros de largo por 2,5 centímetros de seno (número 4/0).
+
+2.º Trasmallo: un lance por día. La longitud del lance será como máximo de 500 metros por tripulante enrolado y presente a bordo.
+
+3.º Nasas de camarón: un lance por día. Cada buque podrá tener a bordo y calar un número máximo de 200 nasas.
+
+c) La pesca profesional con artes de cerco dirigidos a pequeños pelágicos conforme a las características técnicas tanto para buques como para el arte establecidas en el capítulo III del Real Decreto 502/2022, de 27 de junio.
+
+d) La pesca profesional de palangre de superficie dirigida a pelágicos y migradores conforme a las condiciones establecidas en el artículo 1.3 del Real Decreto 502/2022, de 27 de junio, por el que se regula el ejercicio de la pesca en los caladeros nacionales.
+
+e) La pesca marítima de recreo desde embarcación en la modalidad de cacea al curricán dirigida a grandes pelágicos y migradores.
+
+2\. Excepcionalmente, previo informe del Instituto Español de Oceanografía y teniendo en cuenta el estado de los recursos pesqueros, la Secretaría General de Pesca podrá autorizar la pesca con artes y aparejos distintos a los contemplados en la presente orden en las condiciones que se determinen.
+
+3\. Previo informe del Instituto Español de Oceanografía, podrán autorizarse campañas experimentales dirigidas a la pesca de coral rojo («Corallium rubrum»), cuyo fin sea demostrar la posibilidad de una pesquería que, empleando artes o artefactos que permitan una captura selectiva, sea rentable y segura para los pescadores.
+
+> Se modifican las letras a), b) y d) del apartado 1 por el art. único.1 del Real Decreto 933/2025, de 21 de octubre. [Ref. BOE-A-2025-22606](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22606)
+
+> Se modifican los apartados 1 y 2 por el art. único.1 de la Orden APA/177/2023, de 21 de febrero. [Ref. BOE-A-2023-5058](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5058)
+
+> Se modifica la letra d) del apartado 1 por el art. único.2 de la Orden de 6 de junio de 2001. [Ref. BOE-A-2001-11792](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-11792)
+
+### Artículo 6. Fondos permitidos para el arrastre de fondo.
+
+Queda prohibido el ejercicio de la pesca de arrastre de fondo en profundidades menores de 100 metros y mayores de 1.000 metros. Las zonas delimitadas se recogen en la imagen cartográfica del anexo.
+
+> Se modifica por el art. único.2 de la Orden APA/767/2018, de 19 de junio. [Ref. BOE-A-2018-10097](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10097)
+
+### Artículo 7. Periodos de actividad.
+
+1\. La pesca en las modalidades de palangre de fondo y artes menores (palangrillo, trasmallo y nasas de camarón) solo se podrá realizar durante cinco días a la semana y un máximo de 16 horas por día. En todo caso, el arte deberá ser retirado de su calamento durante 41 horas continuadas por semana y llevado a puerto conforme a lo dispuesto en el artículo 5.5 del Real Decreto 502/2022, de 27 de junio.
+
+2\. La pesca en la modalidad de cerco se limitará a un máximo de cinco días por semana, con 48 horas continuadas de parada en puerto conforme al artículo 5.1 del Real Decreto 502/2022, de 27 de junio.
+
+3\. En virtud de la excepción concedida de conformidad con lo establecido en el artículo 9.4 del Reglamento (UE) 2019/1022 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, por el que se establece un plan plurianual para la pesca demersal en el Mediterráneo occidental y por el que se modifica el Reglamento (UE) n.º 508/2014, y de los conceptos de día de pesca y de actividad pesquera establecidos en el artículo 4 de la Orden APA/423/2020, de 18 de mayo, la pesca de arrastre de fondo se realizará un máximo de 7 días continuados (21 días máximo al mes) con el siguiente esquema:
+
+a) Día 1: Salida de puerto –llegada a caladero– faena: 18 horas.
+
+b) Días 2, 3, 4, 5, y 6: 15 horas de actividad pesquera.
+
+c) Día 7: Faena –desplazamiento– entrada en puerto: 18 horas.
+
+En el caso de que una marea sea inferior a los 7 días, se mantendrá el mismo esquema anterior pero adaptado a su duración.
+
+Para la contabilización del esfuerzo diario del esquema anterior, el puerto de referencia el día de salida a la mar, será el último en que haga escala para dirigirse al caladero.
+
+La Subdirección General de Control e Inspección y Lucha contra la Pesca Ilegal, a través del Centro de Seguimiento Pesquero y del control de las comunicaciones relativas a la actividad pesquera en la reserva de pesca, llevará el control de las horas de actividad.
+
+4\. La pesca en la modalidad de palangre de superficie se realizará de acuerdo con lo dispuesto en el artículo 1.3 del Real Decreto 502/2022, de 27 de junio.
+
+5\. Los buques que faenen en la reserva de pesca de la isla de Alborán no estarán autorizados, ni a la ida ni al regreso, a realizar actividad pesquera alguna.
+
+> Se modifica por el art. único.2 del Real Decreto 933/2025, de 21 de octubre. [Ref. BOE-A-2025-22606](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22606)
+
+> Se modifica por el art. único.2 de la Orden APA/177/2023, de 21 de febrero. [Ref. BOE-A-2023-5058](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5058)
+
+### Artículo 8. Censos por modalidades pesqueras.
+
+1\. La Secretaría General de Pesca elaborará y gestionará los censos para las modalidades de arrastre de fondo, palangre de fondo, y artes menores de los buques que tengan permitido el acceso a la reserva marina y de pesca con el fin de ejercer la pesca profesional. Las actividades de cerco y palangre superficie la podrán realizar todos los incluidos en los censos de estas modalidades en el caladero nacional del Mediterráneo y cuenten con autorización para ello.
+
+2\. Estos censos, que se limitarán a un número máximo de buques, serán revisados y actualizados periódicamente mediante resolución de la Secretaría General de Pesca conforme a lo previsto en el artículo 26 de la Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado. En esa misma resolución se establecerá la limitación en número de buques de cada censo, la cual será válida por un periodo de, al menos, diez años. En ningún caso se superará el número de buques en que sea contingentado un censo.
+
+3\. Para ser incluido en uno de estos censos, los buques deberán:
+
+a) Estar en situación de alta definitiva en el Registro de Flota Pesquera Operativa.
+
+b) Estar incluidos en el censo por modalidad correspondiente del caladero nacional del Mediterráneo.
+
+c) Estar clasificado para pesca litoral y reunir las condiciones técnicas necesarias para navegar hasta esta zona según lo exigido por la normativa aplicable.
+
+d) Llevar instalado y operativo el sistema de seguimiento de buques por satélite (VMS).
+
+4\. La solicitud de inclusión podrá ser presentada por el armador o por el propietario del buque en cualquier momento y se dirigirán por medios electrónicos a la Secretaría General de Pesca.
+
+5\. En tanto el censo sea actualizado, la Secretaría General de Pesca podrá autorizar provisionalmente a un buque la práctica de la actividad. Dicha resolución se dictará y notificará en el plazo máximo de un mes desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración competente para su tramitación, y será notificada por medios electrónicos en los términos previstos en los artículos 40 y 43 de la Ley 39/2015, de 1 de octubre, momento en el que la autorización será efectiva. De conformidad con lo dispuesto en el artículo 42.5 del Reglamento de actuación y funcionamiento del sector público por medios electrónicos, aprobado por el Real Decreto 203/2021, de 30 de marzo, esa notificación se practicará mediante la puesta a disposición del interesado a través de la Dirección Electrónica Habilitada Única (DEHú), pudiendo, de forma complementaria a lo anterior, notificarse en la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación.
+
+6\. Si en el plazo de un mes no se hubiera dictado y notificado la resolución, la solicitud podrá entenderse desestimada con arreglo a lo dispuesto en la disposición adicional sexta de la Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado.
+
+7\. Contra la resolución del procedimiento, que no agota la vía administrativa, podrá interponerse recurso de alzada ante el Ministro de Agricultura, Pesca y Alimentación, en el plazo máximo de un mes, contado a partir del día siguiente al de su notificación, o en cualquier momento a partir del día siguiente a aquel en que transcurriera el plazo para resolver y notificar, de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+8\. Los buques incluidos en un censo podrán ser substituidos por otros siempre que la substitución no suponga un incremento del esfuerzo pesquero, para lo cual los buques que se pretendan incluir deberán tener menor o igual potencia, e igual o menor número de tripulantes para el caso de los barcos de artes menores. Las solicitudes se dirigirán a la Secretaría General de Pesca por medios electrónicos y el procedimiento seguirá las mismas reglas que el dispuesto en los apartados 5, 6 y 7 de este artículo.
+
+9\. Estos censos estarán compuestos por:
+
+a) Censo de arrastre de fondo: Aquellos buques que puedan acreditar habitualidad en el caladero de, al menos, los tres años anteriores a la publicación de la presente orden mediante alguna de las siguientes formas:
+
+1.º Autorizaciones expedidas por la Secretaría General de Pesca para faenar en este caladero en el plazo indicado.
+
+2.º Pertenencia a censos anteriores.
+
+3.º Datos VMS.
+
+b) Censos de palangre de fondo y artes menores: Aquellos buques que demuestren habitualidad en la actividad pesquera en estas modalidades en la zona en los tres años anteriores a la publicación de la presente orden mediante alguna de las siguientes formas:
+
+1.º Autorizaciones expedidas por la Secretaría General de Pesca para faenar en este caladero en el plazo indicado.
+
+2.º Datos VMS.
+
+> Se modifica por el art. único.3 de la Orden APA/177/2023, de 21 de febrero. [Ref. BOE-A-2023-5058](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5058)
+
+### Artículo 8 bis. Baja en el censo.
+
+1\. La falta de actividad de un buque durante un periodo continuado de dos años será considerada como renuncia del titular al acceso del buque a la pesquería y al caladero, procediéndose a su baja definitiva en el censo específico correspondiente por modalidad de la reserva de pesca, conforme a lo dispuesto en el artículo 23.4 de la Ley 3/2001, de 26 de marzo.
+
+2\. Asimismo, aquellos buques que no aporten información de esfuerzo pesquero de la actividad realizada al amparo de estos censos mediante los correspondientes estadillos facilitados por la Secretaría General de Pesca y notas de venta, podrán también ser dados de baja del censo correspondiente.
+
+> Se añade por el art. único.4 de la Orden APA/177/2023, de 21 de febrero. [Ref. BOE-A-2023-5058](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5058)
+
+### Artículo 9. Investigación científica.
+
+1\. Los armadores o Capitanes de los buques autorizados a faenar en el mismo, facilitarán al personal del Instituto Español de Oceanografía el acceso a las operaciones de desembarque y a toda la información necesaria para llevar a cabo su cometido.
+
+2\. En caso de que la Secretaría General de Pesca Marítima lo estime oportuno para el estudio biológico del estado de los recursos, los armadores y Capitanes de los buques facilitarán el embarque de observadores científicos.
+
+### Artículo 10. Autorizaciones para el ejercicio de la pesca.
+
+1\. La Dirección General de recursos Pesqueros concederá las autorizaciones para el ejercicio de la pesca, tanto profesional como de recreo, en las zonas reguladas por la presente Orden.
+
+2\. Las solicitudes de autorización para el ejercicio de la pesca marítima de recreo a que se refieren el apartado c) del artículo 4 y el apartado d) del artículo 5, se dirigirán al Director general de Recursos Pesqueros, y podrán presentarse en la Dependencia del Área de Agricultura y Pesca de la Subdelegación del Gobierno en Almería, así como en cualquiera de los lugares previstos en el artículo 384 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y Procedimiento Administrativo Común.
+
+Se presentará una solicitud por embarcación, con un mínimo de cinco y un máximo de quince días hábiles de antelación a la temporada de pesca para la que se solicite el permiso.
+
+Se establecen dos períodos de pesca, únicos en los que se puede desarrollar la actividad pesquera en la modalidad de pesca recreativa, la temporada alta de 1 de mayo a 31 de octubre y temporada baja de 1 de noviembre a 31 de marzo.
+
+La resolución de las autorizaciones se concederá por riguroso orden de presentación de las solicitudes, hasta el máximo permitido, en función de los recursos.
+
+> Se modifica por el art. único.3 de la Orden de 6 de junio de 2001. [Ref. BOE-A-2001-11792](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-11792)
+
+### Artículo 11. Protección de fondos vulnerables.
+
+Para garantizar la protección de los fondos vulnerables, sin perjuicio de las competencias que le corresponden en la materia a la Administración Marítima y, como medida para preservar los fondos de la reserva marina y de la reserva de pesca, queda prohibido el fondeo en ellas, salvo por motivos de emergencia relacionados con la seguridad de la vida humana en el mar, la seguridad nacional o el orden público.
+
+> Se añade por el art. único.5 de la Orden APA/177/2023, de 21 de febrero. [Ref. BOE-A-2023-5058](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5058)
+
+### Artículo 12. Control del horario de arrastre de fondo.
+
+1\. Para el control de los horarios establecidos en el artículo 7 deberán cumplirse las siguientes condiciones:
+
+a) La flota, durante su permanencia en el caladero, deberá mantenerse a una velocidad no superior a 1,0 nudos cuando realice períodos de descanso.
+
+b) Los descansos deberán realizarse a una distancia no inferior de 1,0 millas a un lado o al otro de las líneas de arrastre de ese día.
+
+c) Los períodos de descanso mínimo serán de al menos dos horas continuadas.
+
+d) Se anotarán en el DEA el inicio y final del período de cada descanso en horas UTC.
+
+e) Se pulsará el botón de POS/CRUCE de la caja azul cada vez que se inicie y se finalice cada período de descanso.
+
+f) Se pulsará el botón POS/CRUCE de la caja azul en el momento en que el barco entre y salga de puerto, cuando la marea se vaya a realizar en el caladero de Alborán.
+
+g) Si el barco, por condiciones climáticas adversas u otra causa de fuerza mayor, no pudiera cumplir las condiciones de descanso en el rango de velocidad y distancia establecidos en este apartado, deberá hacer uso de una de las zonas de descanso y anotar esta circunstancia en el DEA.
+
+2\. La actividad pesquera de 15 horas máximas diarias correspondientes a los días intermedios del artículo 7.3.b) se calculará desde las 00:00 h hasta las 24 horas locales de cada día, descontándose para ello únicamente los períodos de descanso realizados con base en lo establecido en el apartado anterior.
+
+3\. En los días primero y último de la marea en que, conforme al artículo 7.3 a) y c), se produzca la salida o llegada a puerto (18 horas), el cálculo de las horas de esfuerzo será realizado entre las 00:00 horas y las 24:00 horas locales de ese día. Los desplazamientos hacia/desde el puerto se contabilizarán igualmente como esfuerzo ambos días.
+
+> Se modifica por el art. único.3 del Real Decreto 933/2025, de 21 de octubre. [Ref. BOE-A-2025-22606](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22606)
+
+> Se añade por el art. único.6 de la Orden APA/177/2023, de 21 de febrero. [Ref. BOE-A-2023-5058](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5058)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 69, de 22 de marzo de 2023. [Ref. BOE-A-2023-7471](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7471)
+
+### Artículo 13. Régimen sancionador.
+
+El incumplimiento de lo dispuesto en la presente orden será sancionado conforme a lo previsto en el título V sobre régimen de infracciones y sanciones de la Ley 3/2001, de 26 de marzo, sin perjuicio del régimen sancionador previsto en el título IV del libro tercero del texto refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por el Real Decreto Legislativo 2/2011, de 5 de septiembre.
+
+> Se añade por el art. único.7 de la Orden APA/177/2023, de 21 de febrero. [Ref. BOE-A-2023-5058](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5058)
+
+### Disposición adicional única. Normativa de aplicación.
+
+En todo lo no previsto en esta orden, será de aplicación la normativa derivada de la Unión Europea; el Real Decreto 502/2022, de 27 de junio, por el que se regula el ejercicio de la pesca en los Caladeros Nacionales, y la Orden APA/423/2020, de 18 de mayo, por la que se establece un plan de gestión para la conservación de los recursos pesqueros demersales en el Mar Mediterráneo.
+
+> Se añade por el art. único.9 de la Orden APA/177/2023, de 21 de febrero. [Ref. BOE-A-2023-5058](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5058)
+
+### Disposición transitoria primera. Autorizaciones.
+
+1\. Hasta la elaboración de los censos a que hace referencia el artículo 8 de la presente orden, la actividad pesquera profesional en las modalidades de palangre de fondo, artes menores, cerco y palangre de superficie será realizada por los mismos buques que hasta ahora la vienen llevando a cabo, para lo cual deberán obtener la correspondiente autorización de la Secretaría General de Pesca.
+
+2\. Para ello, los interesados dirigirán una solicitud de autorización por medios electrónicos a la Secretaría General de Pesca. Dicha Secretaría General dictará y notificará resolución de autorización, en su caso, en el plazo máximo de un mes desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración competente para su tramitación, y será notificada por medios electrónicos en los términos previstos en los artículos 40 y 43 de la Ley 39/2015, de 1 de octubre, momento en el que la autorización será efectiva. De conformidad con lo dispuesto en el artículo 42.5 del Reglamento de actuación y funcionamiento del sector público por medios electrónicos, aprobado por el Real Decreto 203/2021, de 30 de marzo, esa notificación se practicará mediante la puesta a disposición del interesado a través de la Dirección Electrónica Habilitada Única (DEHú), pudiendo, de forma complementaria a lo anterior, notificarse en la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación.
+
+3\. Si en el plazo de un mes no se hubiera dictado y notificado la resolución, la solicitud podrá entenderse desestimada con arreglo a lo dispuesto en la disposición adicional sexta de la Ley 3/2001, de 26 de marzo.
+
+4\. Contra la resolución del procedimiento, que no agota la vía administrativa, podrá interponerse recurso de alzada ante el Ministro de Agricultura, Pesca y Alimentación, en el plazo máximo de un mes, contado a partir del día siguiente al de su notificación, o en cualquier momento a partir del día siguiente a aquel en que transcurriera el plazo para resolver y notificar, de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica por el art. único.8 de la Orden APA/177/2023, de 21 de febrero. [Ref. BOE-A-2023-5058](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5058)
+
+### Disposición derogatoria única.
+
+Quedan derogadas las Órdenes del Ministerio de Agricultura, Pesca y Alimentación de 13 de junio de 1997 por la que se regula la pesca de arrastre de fondo en la isla de Alborán y de 31 de julio de 1997 por la que se establece una reserva marina y una reserva de pesca en el entorno de la isla de Alborán.
+
+### Disposición final primera. Facultad de aplicación.
+
+Se faculta al Secretario general de Pesca Marítima para dictar las resoluciones y adoptar las medidas que sean necesarias para el cumplimiento de la presente Orden.
+
+### Disposición final segunda. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 8 de septiembre de 1998.
+
+DE PALACIO DEL VALLE-LERSUNDI
+
+Ilmos. Sres. Secretario general de Pesca Marítima, Director general de Recursos Pesqueros y Director general de Estructuras y Mercados Pesqueros.
+
+## ANEXO
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/173/10097_4933.png)
+
+> Se renumera por el art. único.5 del Real Decreto 933/2025, de 21 de octubre. [Ref. BOE-A-2025-22606](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22606)
+
+> Su anterior denominación era anexo I.
+
+> Se numera por el art. único.10 de la Orden APA/177/2023, de 21 de febrero. [Ref. BOE-A-2023-5058](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5058)
+
+> Su anterior denominación era anexo único.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 69, de 22 de marzo de 2023. [Ref. BOE-A-2023-7471](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7471)
+
+> Se añade conforme al art. único.2 y al Anexo de la Orden APA/767/2018, de 19 de junio. [Ref. BOE-A-2018-10097](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10097)
+
+## ANEXO II — Croquis de las zonas de descanso del artículo 12.1
+
+**(Suprimido)**
+
+> Se suprime por el art. único.4 del Real Decreto 933/2025, de 21 de octubre. [Ref. BOE-A-2025-22606](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22606)
+
+> Se añade por el art. único.10 de la Orden APA/177/2023, de 21 de febrero. [Ref. BOE-A-2023-5058](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5058)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 69, de 22 de marzo de 2023. [Ref. BOE-A-2023-7471](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7471)

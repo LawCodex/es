@@ -1,0 +1,3589 @@
+---
+title: "Real Decreto 679/2014, de 1 de agosto, por el que se aprueba el Reglamento de control del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso"
+identifier: "BOE-A-2014-8926"
+eli: "https://www.boe.es/eli/es/rd/2014/08/01/679"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2014-08-01
+published: 2014-08-26
+in_force_from: 2014-08-27
+last_amended: 2026-05-30
+consolidated: 2026-06-23
+gazette: "Boletín Oficial del Estado núm. 207"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-8926"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 679/2014, de 1 de agosto, por el que se aprueba el Reglamento de control del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso
+
+La Ley 53/2007, de 28 de diciembre, sobre el control del comercio exterior de material de defensa y de doble uso, en su disposición final primera establece que el Gobierno, mediante real decreto, dictará las normas reglamentarias que la desarrollen.
+
+El objeto del Reglamento de control del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso es fijar las condiciones, requisitos y procedimientos para ejercitar la función de control del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso, con el fin de dar debido cumplimiento a la normativa de la Unión Europea, los compromisos internacionales adquiridos por España y contribuir al fomento de la paz, la estabilidad y la seguridad en el ámbito mundial o regional y proteger los intereses generales de la defensa nacional y de la política exterior del Estado.
+
+Con la finalidad de facilitar un único texto que recoja la normativa sobre el control del comercio exterior para este tipo de productos, este real decreto refunde las disposiciones adoptadas en el Reglamento de control del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso aprobado por Real Decreto 2061/2008, de 12 de diciembre, con las modificaciones realizadas en el mismo por el Real Decreto 844/2011, de 17 de junio. Además, se actualiza la regulación de las transferencias del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso, para lo cual se ha incorporado y desarrollado lo establecido por la normativa europea y los compromisos asumidos en los foros internacionales en los que España participa, todo ello sin perjuicio de la exigencia de autorización administrativa, derivada de la normativa general sobre las transferencias de armas que no sean objeto de control por este real decreto.
+
+Este reglamento es conforme a la normativa que se menciona a continuación:
+
+Convención de 10 de abril de 1972 sobre la prohibición del desarrollo, producción y almacenamiento de las armas bacteriológicas (biológicas) y toxínicas y sobre su destrucción.
+
+Convención sobre la Protección Física de los Materiales Nucleares de 3 de marzo de 1980.
+
+Convención de 13 de enero de 1993 sobre la prohibición del desarrollo, la producción, el almacenamiento y el empleo de armas químicas y sobre su destrucción.
+
+Convención para la Prohibición de las Minas Antipersonal de 3 de diciembre de 1997 y Convención de Oslo para la Prohibición de las Municiones de Racimo de 3 de diciembre de 2008.
+
+Resolución 55/255 de la Asamblea General de Naciones Unidas, de 8 de junio de 2001, por la que se aprueba el Protocolo contra la fabricación y el tráfico ilícitos de armas de fuego, sus piezas y componentes y municiones, que complementa la Convención de las Naciones Unidas contra la delincuencia organizada transnacional; el Programa de Acción de Naciones Unidas para prevenir, combatir y eliminar el tráfico ilícito de armas pequeñas y ligeras en todos sus aspectos.
+
+Resolución 1540 del Consejo de Seguridad de Naciones Unidas, de 28 de abril de 2004, dirigida a impedir la proliferación de armas de destrucción masiva y, en particular, impedir y contrarrestar la adquisición y el uso por agentes no estatales de estas armas.
+
+Tratado sobre el Comercio de Armas, aprobado el 2 de abril de 2013 por la Asamblea General de la Organización de Naciones Unidas y firmado por España el 3 de junio de 2013, y ratificado el 2 de abril de 2014; del cual España aplica provisionalmente los artículos 6 y 7 del citado tratado referidos a «Prohibiciones» y a «Exportación y Evaluación de las Exportaciones» hasta su entrada en vigor.
+
+Recomendación en materia de exportaciones de defensa de la Organización para la Cooperación y Desarrollo Económicos (OCDE) para aplicar el Convenio de Lucha contra la Corrupción de Agentes Públicos Extranjeros en las Transacciones Comerciales Internacionales.
+
+Acuerdo Marco de 27 de julio de 2000, que desarrolla la Carta de Intenciones para la reestructuración e integración de la industria de defensa europea, de 8 de julio de 1998.
+
+Posición Común 2008/944/PESC del Consejo, de 8 de diciembre de 2008, por la que se definen las normas comunes que rigen el control de las exportaciones de tecnología y equipos militares.
+
+Posición Común 2003/468/PESC del Consejo, de 23 de junio de 2003, sobre el control del corretaje de armas.
+
+Acción Común del Consejo de 22 de junio de 2000, sobre el control de la asistencia técnica en relación con determinados usos finales militares.
+
+Reglamento (CE) n.º 428/2009 del Consejo, de 5 de mayo de 2009, por el que se establece un régimen comunitario de control de las exportaciones, la transferencia, el corretaje y el tránsito de productos de doble uso, modificado por el Reglamento (UE) N.º 1232/2011 del Parlamento Europeo y del Consejo, de 16 de noviembre de 2011, que habilita las nuevas autorizaciones generales de exportación de la Unión Europea, y por el Reglamento (UE) N.º 388/2012 del Parlamento Europeo y del Consejo, de 16 de noviembre de 2012, que actualiza el anexo I del Reglamento (CE) n.º 428/2009 del Consejo, de 5 de mayo de 2009, de acuerdo con los cambios acordados en los regímenes internacionales de control y no proliferación.
+
+Reglamento (UE) N.º 258/2012 del Parlamento Europeo y del Consejo, de 14 de marzo de 2012, por el que se aplica el artículo 10 del Protocolo de las Naciones Unidas contra la fabricación y el tráfico ilícitos de armas de fuego, sus piezas y componentes y municiones, que complementa la Convención de las Naciones Unidas contra la delincuencia transnacional organizada, y por el que se establecen autorizaciones de exportación y medidas de importación y tránsito para las armas de fuego, sus piezas y componentes y municiones.
+
+Directiva 2009/43/CE del Parlamento Europeo y del Consejo, de 6 de mayo de 2009, sobre la simplificación de los términos y las condiciones de las transferencias de productos relacionados con la defensa dentro de la Comunidad, y posteriores actualizaciones de la relación de productos.
+
+Recomendación 2011/24/UE, de la Comisión, de 11 de enero de 2011, relativa a la certificación de las empresas de defensa, de conformidad con el artículo 9 de la Directiva 2009/43/CE del Parlamento Europeo y del Consejo, de 6 de mayo.
+
+El sistema de control del comercio exterior de equipos y tecnologías relacionados con la defensa, ha sufrido diversas modificaciones. Por el Real Decreto 480/1988, de 25 de marzo, por el que se determinan las atribuciones, cometidos y funcionamiento de la Junta Interministerial Reguladora del Comercio Exterior de Material de Defensa y Productos y Tecnologías de Doble Uso, actualmente derogado, se creó por un lado, la Junta Interministerial Reguladora del Comercio Exterior de Material de Defensa y de Productos y Tecnologías de Doble Uso que sustituyó a la antigua Junta Interministerial Reguladora del Comercio Exterior de Armas y Explosivos que había sido creada por el Real Decreto 3150/1978, de 15 de diciembre, y por otro lado, el Registro Especial de Exportadores de Material de Defensa y Productos y Tecnologías de Doble Uso. En este nuevo reglamento se regula, en su capítulo I, secciones 2.ª y 3.ª respectivamente, la composición y procedimientos relativos a la Junta Interministerial Reguladora del Comercio Exterior de Material de Defensa y de Doble Uso (JIMDDU), creada por el Real Decreto 824/1993, de 28 de mayo, por el que se aprueba el Reglamento del comercio exterior de material de defensa y de material de doble uso y el Registro Especial de Operadores de Comercio Exterior de Material de Defensa y de Doble Uso (REOCE), creado por el Real Decreto 1782/2004, de 30 de julio, por el que se aprueba el Reglamento de control del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso.
+
+Con respecto al sistema punitivo y sancionador, resulta de aplicación la Ley Orgánica 12/1995, de 12 de diciembre, de Represión del Contrabando y su modificación por Ley Orgánica 6/2011, de 30 de junio, la cual tipifica como delito, entre otros, la exportación sin autorización, o habiéndola obtenido fraudulentamente, de material de defensa, de otro material o de productos y tecnologías de doble uso. Además es de aplicación lo establecido en la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, que contiene en los artículos 566 y 567 referencias a las armas, municiones de guerra y armas químicas, penando la fabricación, comercialización, tráfico y establecimiento de depósitos no autorizados por las leyes o la autoridad competente. La Ley Orgánica 10/1995, de 23 de noviembre, fue a su vez modificada por la Ley Orgánica 5/2010, de 22 de junio, para incluir las armas biológicas, las minas antipersonal y las municiones en racimo, pasando a darles el mismo tratamiento que a las armas anteriormente citadas. Asimismo, el artículo 345 del Código Penal fue modificado para, entre otras cuestiones, tipificar como delito la apropiación de materiales nucleares o elementos radioactivos peligrosos.
+
+Con este real decreto se actualiza la regulación de las transferencias del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso, en los siguientes aspectos destacables:
+
+Se realiza la adaptación de la legislación española al Reglamento (UE) N.º 258/2012, del Parlamento Europeo y del Consejo, de 14 de marzo de 2012, por el que se establecen autorizaciones de exportación y medidas de importación y tránsito para las armas de fuego, sus piezas y componentes y municiones, procedimientos simplificados para exportaciones temporales de estas armas, exigencia de autorización expresa de las autoridades de los países de tránsito (con excepciones) y la obligación de indicar el marcado de las armas de fuego antes de la exportación.
+
+Se incorpora a la legislación española la utilización de nuevas autorizaciones generales de exportación de la Unión Europea para la exportación de determinados productos y tecnologías de doble uso a países específicos.
+
+En aras a una mayor simplificación en el procedimiento, se unifican todas las competencias para resolver los procedimientos en el titular de la Secretaría de Estado de Comercio del Ministerio de Economía y Competitividad. La Subdirección General de Comercio Internacional de Material de Defensa y Doble Uso tramitará las solicitudes referidas en el reglamento.
+
+Se modifica la composición de la JIMDDU para actualizarla conforme a las disposiciones del Real Decreto 1/2012, de 5 de enero, por el que se modifica el Real Decreto 1823/2011, de 21 de diciembre, por el que se reestructuran los departamentos ministeriales.
+
+Se detalla el régimen de las introducciones de las transferencias intracomunitarias de mercancías procedentes de cualquier Estado miembro de la Unión Europea de material de defensa.
+
+Se introduce una cláusula de salvaguardia en el caso de destinatarios certificados, conforme a los criterios establecidos en el artículo 9 de la Directiva 2009/43/CE, del Parlamento Europeo y del Consejo, de 6 de mayo de 2009, que no respeten las condiciones vinculadas a una licencia general de transferencia, o si se viesen afectados el orden público, la seguridad pública o los intereses esenciales en materia de seguridad.
+
+Se realiza la transposición de la Directiva 2010/80/UE de la Comisión de 22 de noviembre de 2010, de la Directiva 2012/10/UE de la Comisión de 22 de marzo de 2012, y de la Directiva 2012/47/UE de la Comisión de 14 de diciembre de 2012, así como de la Directiva 2014/18/UE de la Comisión, de 29 de enero de 2014, y se incorporan las actualizaciones de la Lista Común Militar de la Unión Europea en lo referente a la actualización de la lista de productos relacionados con la defensa adoptada por el Consejo el 17 de marzo de 2014.
+
+Se amplía de cuatro a diez años el período en el que los titulares de las correspondientes autorizaciones deberán conservar los documentos relacionados con las respectivas operaciones para equipararlo al plazo que establece el Tratado sobre el Comercio de Armas.
+
+Se introduce una mención especial al Tratado sobre el Comercio de Armas, aprobado el 2 de abril de 2013 por la Asamblea General de la Organización de Naciones Unidas y firmado por España el 3 de junio de 2013 y ratificado el 2 de abril de 2014, para aplicar los artículos 6 y 7 del Tratado referidos a «Prohibiciones» y a «Exportación y Evaluación de las Exportaciones». Se incorpora una referencia expresa a «la violación grave del derecho internacional de los derechos humanos o del derecho internacional humanitario».
+
+Se modifica el régimen de las rectificaciones de las autorizaciones. Podrán ser solicitadas únicamente por plazo de validez y valor monetario, no siendo necesarias en el caso de cambio de aduana. Además, se restringe a dos el número de rectificaciones por cada licencia original y se fija que el plazo de validez de la rectificación será el mismo que el de la licencia original contado desde la fecha de autorización de esta última.
+
+Se modifica la exigencia de documentos de control, especialmente para armas de fuego de uso civil.
+
+Se actualizan los anexos correspondientes a los modelos de licencias, la solicitud de inscripción en el REOCE y los documentos de control. El anexo II se divide a su vez en dos apartados, el anexo II.1 dedicado a arma de fuego de uso civil y el anexo II.2 sobre antidisturbios. Se actualizan los anexos de las listas de productos sometidos a control de acuerdo con los cambios habidos en las listas de los foros internacionales de control y no proliferación.
+
+Se amplía el plazo para volver a transferir la mercancía en el caso de transferencias temporales, de acuerdo con el artículo 140 del Reglamento (CEE) N.º 2913/92 del Consejo, de 12 de octubre de 1992, por el que se aprueba el Código aduanero comunitario.
+
+Se simplifican los trámites de los regímenes aduaneros para evitar dobles autorizaciones para un mismo procedimiento.
+
+Se someten a autorización determinadas operaciones de explosivos y equipos relacionados incluidos en las listas de equipos que pueden utilizarse con fines de represión interna, como consecuencia de la imposición por parte de la Unión Europea de medidas restrictivas a determinados destinos. Las autorizaciones se referirán exclusivamente a productos para uso civil en los sectores de la minería e infraestructuras.
+
+Durante su tramitación, el texto reglamentario que ahora se aprueba ha sido informado favorablemente por la JIMDDU en su reunión del 7 de marzo de 2013, por la Agencia Española de Protección de Datos y por la Comisión Interministerial Permanente de Armas y Explosivos (CIPAE). Asimismo, ha sido sometido al preceptivo trámite de audiencia al sector con fecha 8 de marzo de 2013, de acuerdo con lo previsto en el artículo 24.1.c) de la Ley 50/1997, de 27 de noviembre, del Gobierno.
+
+En su virtud, a propuesta de los Ministros de Economía y Competitividad, de Asuntos Exteriores y de Cooperación, de Defensa, de Hacienda y Administraciones Públicas, del Interior, de Industria, Energía y Turismo y de la Presidencia de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 1 de agosto de 2014,
+
+DISPONGO:
+
+#### Artículo único. Aprobación del Reglamento.
+
+Se aprueba el Reglamento de control del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso, cuyo texto se incluye a continuación de este real decreto.
+
+#### Disposición adicional única. Régimen jurídico de las armas, explosivos y municiones de uso civil.
+
+Este reglamento se aplicará sin perjuicio de lo establecido en el Reglamento de Armas, aprobado por el Real Decreto 137/1993, de 29 de enero, el Reglamento de Explosivos, aprobado por el Real Decreto 230/1998, de 16 de febrero, y el Reglamento de artículos pirotécnicos y cartuchería, aprobado por el Real Decreto 563/2010, de 7 de mayo, sus modificaciones y, en su caso, las normas que los sustituyan.
+
+#### Disposición transitoria primera. Autorizaciones vigentes.
+
+Las operaciones amparadas en autorizaciones de transferencia expedidas de conformidad con la normativa vigente con anterioridad a la entrada en vigor de este real decreto podrán realizarse de acuerdo con las normas vigentes en el momento de su autorización dentro del plazo de validez señalado en las respectivas licencias.
+
+#### Disposición transitoria segunda. Solicitudes pendientes.
+
+Las solicitudes de autorización de transferencia que, habiendo sido presentadas con anterioridad, estuvieren pendientes de resolución a la entrada en vigor de este real decreto, se resolverán conforme a lo establecido en el mismo.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+1\. Queda derogado el Real Decreto 2061/2008, de 12 de diciembre, por el que se aprueba el Reglamento de control del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso.
+
+2\. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto.
+
+#### Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.4.ª y 10.ª, de la Constitución Española, que atribuyen al Estado las competencias exclusivas en materia de defensa y comercio exterior, respectivamente.
+
+#### Disposición final segunda. Normativa supletoria.
+
+En lo no previsto en el Reglamento de control del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso, se aplicará supletoriamente la Orden ITC/2880/2005, de 1 de agosto, por la que se regula el procedimiento de tramitación de las autorizaciones administrativas de exportación y de las notificaciones previas de exportación y la Orden del Ministerio de Economía y Hacienda, de 24 de noviembre de 1998, por la que se regula el procedimiento y tramitación de las autorizaciones administrativas de importación y de las notificaciones previas de importación.
+
+#### Disposición final tercera. Desarrollo normativo.
+
+Por los Ministros de Economía y Competitividad, de Asuntos Exteriores y de Cooperación, de Defensa, de Hacienda y Administraciones Públicas, del Interior, de Industria, Energía y Turismo y de la Presidencia en el ámbito de sus respectivas competencias, se dictarán las disposiciones necesarias para la ejecución y desarrollo de lo dispuesto en este real decreto.
+
+#### Disposición final cuarta. Actualización de los anexos y modificación de los formularios.
+
+1\. El contenido de los anexos I, II, III, IV, y V del Reglamento de control del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso, podrá ser actualizado mediante orden del Ministro de Economía y Competitividad, con informe previo de la JIMDDU, de acuerdo con los cambios aprobados en los organismos internacionales, en los tratados internacionales, en los regímenes internacionales de no proliferación y control de las exportaciones y en la normativa de la Unión Europea.
+
+2\. La Secretaría de Estado de Comercio del Ministerio de Economía y Competitividad y la Dirección General de Armamento y Material del Ministerio de Defensa, en el ámbito de sus respectivas competencias, podrán modificar los formularios o impresos del anexo VI. En todo caso, la disposición mediante la que se efectúe dicha modificación deberá ser publicada en el «Boletín Oficial del Estado».
+
+#### Disposición final quinta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 1 de agosto de 2014.
+
+FELIPE R.
+
+La Vicepresidenta del Gobierno y Ministra de la Presidencia,
+
+SORAYA SÁENZ DE SANTAMARÍA ANTÓN
+
+## REGLAMENTO DE CONTROL DEL COMERCIO EXTERIOR DE MATERIAL DE DEFENSA, DE OTRO MATERIAL Y DE PRODUCTOS Y TECNOLOGÍAS DE DOBLE USO
+
+## CAPÍTULO I — Disposiciones generales
+
+### Sección 1.ª Objeto y requisitos de autorización
+
+#### Artículo 1. Objeto.
+
+Constituye el objeto de este reglamento la determinación de las condiciones, requisitos y procedimientos para ejercitar la función de control del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso, las donaciones, las cesiones y el *leasing*, dando debido cumplimiento a la normativa de la Unión Europea, los compromisos internacionales adquiridos por España, el fomento de la paz, la estabilidad o la seguridad en el ámbito mundial o regional y los intereses generales de la defensa nacional o de la política exterior del Estado.
+
+#### Artículo 2. Exigencia de autorización.
+
+1\. Material de defensa.
+
+a) Quedan sujetas a autorización sometida a control específico del reglamento:
+
+1.º Las exportaciones y expediciones definitivas y temporales del material incluido en la Relación de Material de Defensa, que figura en el anexo I.
+
+2.º Las exportaciones y expediciones definitivas y temporales de transferencia de componentes, tecnología y técnicas de producción derivadas de un acuerdo de producción bajo licencia, de acuerdo con la definición incluida en el artículo 3.16 de la Ley 53/2007, de 28 de diciembre, sobre el control del comercio exterior de material de defensa y de doble uso.
+
+3.º Las importaciones definitivas y temporales de los materiales de la Lista de Armas de Guerra, que figura como anexo III.1, en la que se incluyen los de la Lista 1 de la Convención sobre la prohibición del desarrollo, la producción, el almacenamiento y el empleo de armas químicas y sobre su destrucción.
+
+4.º Las exportaciones definitivas y temporales de productos y tecnologías, aunque éstos no figuren expresamente en la Relación de Material de Defensa, estarán sujetas a autorización en los siguientes casos:
+
+i) Cuando el exportador haya sido informado por las autoridades competentes españolas de que se trata de materiales cuyo destino es o puede ser el de contribuir, total o parcialmente, al desarrollo, producción, manejo, funcionamiento, mantenimiento, almacenamiento, detección, identificación o propagación de armas químicas, biológicas o nucleares o de otros dispositivos nucleares explosivos, o al desarrollo, producción, mantenimiento o almacenamiento de misiles capaces de transportar dichas armas.
+
+ii) Cuando el país adquirente o el país de destino esté sometido a un embargo de la Unión Europea, por una decisión de la Organización para la Seguridad y la Cooperación en Europa, OSCE, o por un embargo de armas impuesto por una resolución vinculante del Consejo de Seguridad de las Naciones Unidas, y cuando el exportador haya sido informado por las autoridades competentes españolas que los materiales en cuestión están o pueden estar destinados total o parcialmente a un uso final militar. A efectos de este apartado, se entenderá por «uso final militar»: la incorporación a material militar incluido en la Relación de Material de Defensa; el uso de equipo de producción, pruebas o análisis o de componentes del citado material militar para el desarrollo, producción o mantenimiento de material de defensa enumerado en la citada relación; y el uso en una instalación destinada a la producción de material de defensa, enumerado en la citada Relación de Material de Defensa, de cualquier tipo de productos no acabados.
+
+iii) Cuando el exportador haya sido informado por las autoridades competentes españolas de que los materiales en cuestión están o pueden estar destinados total o parcialmente a su uso como accesorios o componentes del material de defensa enumerado en la Relación de Material de Defensa que se ha exportado desde territorio español sin autorización o en contravención de una autorización preceptiva.
+
+iv) Cuando el exportador tenga conocimiento o tenga motivos para sospechar que estos materiales se destinan o pueden destinarse, total o parcialmente, a cualquiera de los usos a los que hace referencia el artículo 2.1.a) 4.º ii).
+
+v) Cuando se trate de la venta, suministro, transferencia o exportación de explosivos y equipos relacionados incluidos en las listas de equipos que pueden utilizarse con fines de represión interna, como consecuencia de la imposición por parte de la Unión Europea de medidas restrictivas a determinados destinos. Las autorizaciones se referirán exclusivamente a aquellos explosivos y equipos relacionados que sean para uso civil en los sectores de la minería e infraestructuras, así como la prestación de asistencia técnica, servicios de corretaje y otros servicios.
+
+b) No requieren la solicitud de una Licencia Individual de Transferencia las introducciones de transferencias intracomunitarias de mercancías procedentes de cualquier Estado miembro de la Unión Europea del material de defensa, excepto las introducciones de armas de fuego y sus municiones, que figura en el anexo I.1 de la Relación de Material de Defensa. Dicha transferencia estará sujeta a una autorización de expedición previa, emitida por las autoridades competentes del país desde donde se realiza la expedición del citado material de defensa.
+
+c) De acuerdo con la Posición Común 2003/468/PESC del Consejo, de 23 de junio de 2003, sobre el control del corretaje de armas, cualquier actividad de corretaje, esto es, actividades de personas físicas o jurídicas que negocien o concierten transacciones en territorio español que pueden implicar la transferencia de artículos que figuran en el anexo I.1 de la Relación de Material de Defensa Lista Común de Equipos Militares de la Unión Europea, de un tercer país a cualquier otro tercer país, o que compren, vendan o concierten la transferencia de dichos artículos que obren en su propiedad, de un tercer país a cualquier otro tercer país.
+
+d) Lo dispuesto en el artículo 2.1 se entenderá sin perjuicio de lo establecido en los vigentes Real Decreto 137/1993, de 29 de enero, por el que se aprueba el Reglamento de armas y posteriores modificaciones, el Real Decreto 230/1998, de 16 de febrero, por el que se aprueba el Reglamento de explosivos y posteriores modificaciones y el Reglamento de artículos pirotécnicos y cartuchería aprobado por el Real Decreto 563/2010, de 7 de mayo.
+
+e) En aplicación del artículo 1 del Acuerdo entre el Reino de España, la República Federal de Alemania y la República Francesa, relativo a los controles de exportación en el ámbito de la defensa, hecho en París el 17 de septiembre de 2021, se podrá autorizar una expedición o una exportación a terceros países derivadas de programas de cooperación intergubernamentales.
+
+De forma similar, en aplicación del artículo 2 de dicho Acuerdo, se podrá autorizar una expedición o una exportación a terceros países de productos ligados a la defensa procedentes de la cooperación industrial, en el marco del refuerzo de la integración de sus industrias de defensa.
+
+La autorización de expedición o de exportación del material incluido en la Relación de Material de Defensa que figura en el anexo I de este reglamento al margen de programas de cooperación y que vaya a ser integrado en un sistema de armamento se regirá por el "principio *de minimis*" definido en el artículo 3 del Acuerdo, excluyéndose los productos contemplados en su anexo 3.
+
+El otorgamiento de las autorizaciones de exportación o expedición referidas a programas de cooperación intergubernamental y sus subsistemas o relativas a programas de cooperación industrial quedarán suspendidas en el caso de que otro Estado parte formule oposición, en tanto la discrepancia no se resuelva en los términos previstos por el propio Acuerdo. En este caso, la Secretaría de Estado de Comercio informará a las autoridades del país de destino y, en su caso, a las autoridades de los otros Estados partes, en un plazo máximo de dos meses desde el momento de presentación de la solicitud por el operador. Las autoridades nacionales organizarán consultas para desbloquear la operación o proponer soluciones alternativas. Estos procedimientos se aplicarán a los programas recogidos en el anexo 1 del Acuerdo y sus sucesivas actualizaciones.
+
+2\. Otro material.
+
+a) Quedan sujetas a autorización sometida a control específico del reglamento:
+
+1.º Las exportaciones definitivas y temporales del material indicado en el anexo II.
+
+2.º Las expediciones definitivas y temporales del material indicado en el apartado 2 del anexo II.1 y en el anexo II.2.
+
+3.º Las importaciones definitivas y temporales del material indicado en el anexo III.2.
+
+4.º Las introducciones definitivas y temporales del material indicado en los apartados 2 y 3 del anexo III.2.
+
+b) No será necesaria una autorización en el ámbito de este reglamento en lo concerniente a las expediciones e introducciones con países de la Unión Europea de las armas de fuego de uso civil, sus piezas y componentes y municiones descritas en los anexos II.1 y III.2. Dichas transferencias se regularán de acuerdo con lo dispuesto en la sección 6.ª del capítulo II del Reglamento de Armas, aprobado por el Real Decreto 137/1993, de 29 de enero, y posteriores modificaciones, en el capítulo V del título VII del Reglamento de Explosivos, aprobado por el Real Decreto 230/1998, de 16 de febrero y sus posteriores modificaciones, y en el capítulo V del título VIII del Reglamento de artículos pirotécnicos y cartuchería aprobado por el Real Decreto 563/2010, de 7 de mayo.
+
+c) Para las autorizaciones de exportación y las medidas de importación y tránsito para las armas de fuego, sus piezas y componentes esenciales y municiones, serán de aplicación las disposiciones del Reglamento (UE) N.º 258/2012 del Parlamento Europeo y del Consejo de 14 de marzo de 2012, por el que se aplica el artículo 10 del Protocolo de las Naciones Unidas contra la fabricación y el tráfico ilícitos de armas de fuego, sus piezas y componentes y municiones, que complementa la Convención de las Naciones Unidas contra la delincuencia transnacional organizada, y por el que se establecen autorizaciones de exportación y medidas de importación y tránsito para las armas de fuego, sus piezas y componentes y municiones.
+
+d) No será necesaria una autorización en el ámbito de este reglamento en lo concerniente a las exportaciones temporales ni reexportaciones de armas de fuego reglamentadas, sus componentes y municiones, que estén realizadas por personas físicas, que no se deriven de una actividad económica o comercial y estén destinadas a cacerías o prácticas de tiro deportivo.
+
+3\. Productos y tecnologías de doble uso.
+
+a) Quedan sujetas a autorización sometida a control específico del reglamento:
+
+1.º Las exportaciones y expediciones definitivas y temporales de los productos y tecnologías de doble uso de acuerdo con el Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, por el que se establece un régimen de la Unión de control de las exportaciones, el corretaje, la asistencia técnica, el tránsito y la transferencia de productos de doble uso y disposiciones que lo modifiquen o lo sustituyan.
+
+2.º Las exportaciones y expediciones definitivas y temporales de los productos y tecnologías de doble uso no incluidos en la lista del anexo I, en los supuestos contemplados en el artículo 4 del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, y disposiciones que lo modifiquen o lo sustituyan.
+
+3.º La asistencia técnica a que se refiere la Acción Común del Consejo de 22 de junio de 2000, sobre el control de la asistencia técnica en relación con determinados usos finales militares, incluido su artículo 3.
+
+4.º Las importaciones definitivas y temporales de los productos nucleares de doble uso incluidos en el anexo III.3, de conformidad con el artículo 4.2 de la Convención sobre la Protección Física de los Materiales Nucleares de fecha 3 de marzo de 1980.
+
+5.º Las importaciones e introducciones definitivas y temporales de los productos y tecnologías de doble uso incluidos en el anexo III.3, en cumplimiento de lo expuesto en el artículo 2 de la Ley 49/1999, de 20 de diciembre, sobre medidas de control de sustancias químicas susceptibles de desvío para la fabricación de armas químicas, que se incluyen en las Listas 1, 2 y 3 de la Convención sobre la prohibición del desarrollo, la producción, el almacenamiento y el empleo de armas químicas y sobre su destrucción, así como de material de desactivación de explosivos improvisados, y ciertos productos y tecnologías no incluidos en el anexo I del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021.
+
+6.º Las exportaciones y expediciones definitivas y temporales de los productos y tecnologías de doble uso incluidos en el anexo III.4 y las exportaciones definitivas y temporales de los productos y tecnologías de doble uso incluidos en el anexo III.5 de ciertos productos y tecnologías no incluidos en el anexo I del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021.
+
+7.º Estarán sujetas a control las transferencias de productos y tecnologías de doble uso a que se refiere la prohibición contemplada en el artículo III de la Convención de 10 de abril de 1972 sobre la prohibición de desarrollo, producción y almacenamiento de las armas bacteriológicas (biológicas) y toxínicas y sobre su destrucción, relativas a agentes microbianos u otros agentes biológicos, o toxinas, sea cual fuere su origen o modo de producción; de los equipos o vectores destinados a utilizar esos agentes o toxinas con fines hostiles o en conflictos armados.
+
+8.º La prestación de servicios de corretaje según se definen en el artículo 2 del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, y posteriores modificaciones, sobre productos y tecnologías de doble uso enumerados en su anexo I.
+
+b) La prestación de servicios de corretaje en relación con los productos y tecnologías de doble uso no enumerados en el anexo I del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, y posteriores modificaciones o sustituciones, cuando la Secretaría de Estado de Comercio comunique al operador que los productos en cuestión están destinados o pueden estar destinados, total o parcialmente, a cualquiera de los usos a que se refiere el artículo 4, apartados 1, 2 y 3.
+
+c) Si el operador o proveedor de asistencia técnica supiese o tuviese motivos para sospechar que los productos y tecnologías de doble uso no enumerados en el anexo I del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, y posteriores modificaciones o sustituciones, para los que ofrece una exportación, servicios de corretaje, asistencia técnica, tránsito o transferencia están destinados o pueden estar destinados, total o parcialmente, a cualquiera de los usos a que se refiere el artículo 4 apartado 1 de dicho reglamento, deberá comunicarlo a la Secretaría de Estado de Comercio, que decidirá, previo informe de la JIMDDU, si debe someterse a autorización el corretaje de dichos productos y tecnologías.
+
+> Se modifican los apartados 1 y 3 por el art. único.1 y 2 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+#### Artículo 3. Exención de autorización.
+
+De acuerdo con el artículo 5 de la Ley 53/2007, de 28 de diciembre, no precisa autorización administrativa de transferencia el material de defensa, el otro material o los productos y tecnologías de doble uso que acompañen o vayan a utilizar las Fuerzas Armadas o Fuerzas y Cuerpos de Seguridad del Estado español en las maniobras o misiones que realicen en el extranjero con motivo de operaciones humanitarias, de mantenimiento y apoyo de la paz o de otros compromisos internacionales, así como el que acompañe o vayan a utilizar los ejércitos de otros países en maniobras conjuntas con las Fuerzas Armadas Españolas en territorio nacional, incluida la cesión temporal, dentro de las operaciones anteriormente citadas, de los materiales, productos o tecnologías mencionados y la utilización del material fungible.
+
+En estos casos, si se decide efectuar la venta o donación de los referidos materiales productos o tecnologías cuando ya se encuentren fuera del territorio del país exportador o expedidor, se deberá solicitar la correspondiente autorización administrativa de transferencia, pudiéndose realizar la entrega de los materiales desde o en el lugar donde estuviesen situados.
+
+#### Artículo 4. Documentos de control.
+
+1.Las solicitudes de las autorizaciones a que se refieren los artículos anteriores, deberán ir acompañadas de los documentos de control que se determinen en el artículo 30, de forma que quede suficientemente garantizado que el destino y, en su caso, el uso final de los materiales, productos y tecnologías están dentro de los límites de la correspondiente autorización.
+
+2\. Asimismo, las solicitudes de autorización deberán incluir información relativa a los países de tránsito y a los métodos de transporte utilizados en las transferencias. Esta información se ampliará en las operaciones de corretaje a la financiación utilizada.
+
+3\. Para cada autorización, la JIMDDU deberá valorar la conveniencia de establecer mecanismos de verificación, seguimiento y colaboración entre gobiernos.
+
+> Se añade el apartado 3 por el art. único.1 del Real Decreto 494/2020, de 28 de abril. [Ref. BOE-A-2020-4708](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4708)
+
+#### Artículo 5. Competencia sobre las resoluciones.
+
+1\. Corresponderá al titular de la Secretaría de Estado de Comercio del Ministerio de Economía y Competitividad, las resoluciones sobre las solicitudes objeto del reglamento.
+
+2\. La Subdirección General de Comercio Internacional de Material de Defensa y Doble Uso tramitará las solicitudes referidas en este reglamento.
+
+#### Artículo 6. Plazos y efectos por falta de notificación expresa de la resolución.
+
+1\. El plazo máximo en que debe notificarse la resolución expresa para las solicitudes de autorización será de seis meses, salvo que una norma con rango de ley establezca otro mayor.
+
+2\. Transcurrido el plazo anterior sin que se hubiese notificado la resolución expresa, los solicitantes, de conformidad con lo previsto en el apartado 2 de la disposición adicional vigésimo novena de la Ley 14/2000, de 29 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, podrán entender desestimadas las correspondientes solicitudes.
+
+3\. En todo lo no previsto por la Ley 53/2007, de 28 de diciembre y por este reglamento, el procedimiento para la concesión de las autorizaciones se regirá por lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y posteriores modificaciones y en el Real Decreto 1778/1994, de 5 de agosto, por el que se adecúan a dicha Ley las normas reguladoras de los procedimientos de otorgamiento, modificación y extinción de autorizaciones.
+
+#### Artículo 7. Denegación de las solicitudes de autorización y, suspensión y revocación de las autorizaciones.
+
+1.Las autorizaciones a que se refiere el artículo 2 podrán ser suspendidas, denegadas o revocadas, por resolución dictada por el titular de la Secretaría de Estado de Comercio, en los supuestos siguientes:
+
+a) Cuando existan indicios racionales de que el material de defensa, el otro material o los productos y tecnologías de doble uso puedan ser empleados en acciones que perturben la paz, la estabilidad o la seguridad en un ámbito mundial o regional, puedan exacerbar tensiones o conflictos latentes, puedan ser utilizados de manera contraria al respeto debido y la dignidad inherente al ser humano, con fines de represión interna o en situaciones de violación grave del derecho internacional de los derechos humanos o del derecho internacional humanitario, tengan como destino países con evidencia de desvíos de materiales transferidos o puedan vulnerar los compromisos internacionales contraídos por España. Para determinar la existencia de estos indicios racionales se tendrán en cuenta los informes sobre transferencias de material de defensa y destino final de estas operaciones que sean emitidos por organismos internacionales en los que participe España, los informes de los órganos de derechos humanos y otros organismos de Naciones Unidas, la información facilitada por organizaciones y centros de investigación de reconocido prestigio en el ámbito del desarrollo, la paz y la seguridad, el desarme, la desmovilización y los derechos humanos, así como las mejores prácticas más actualizadas descritas en la Guía del Usuario de la Posición Común 2008/944/PESC del Consejo, de 8 de diciembre de 2008, por la que se definen las normas comunes que rigen el control de las exportaciones de tecnología y equipos militares.
+
+b) Cuando se contravengan los intereses generales de seguridad, de la defensa nacional y de la política exterior del Estado.
+
+c) En aquellos casos contemplados en el artículo 6 «Prohibiciones» o en los casos de incumplimiento de los parámetros incluidos en el artículo 7 «Exportación y Evaluación de las Exportaciones» del Tratado sobre el Comercio de Armas, aprobado el 2 de abril de 2013 y firmado por España el 3 de junio de 2013 y ratificado el 2 de abril de 2014.
+
+d) Cuando vulneren las directrices acordadas en el seno de la Unión Europea, en particular los criterios de la Posición Común 2008/944/PESC del Consejo, de 8 de diciembre de 2008, por la que se definen las normas comunes que rigen el control de las exportaciones de tecnología y equipos militares, y los criterios adoptados en el Documento de la Organización para la Seguridad y la Cooperación en Europa (OSCE) sobre Armas Pequeñas y Armas Ligeras de 24 de octubre de 2000, y otras disposiciones internacionales relevantes de las que España sea signataria. Para la aplicación de los criterios de la Posición Común se atenderá a las mejores prácticas más actualizadas descritas en la Guía del Usuario.
+
+e) Cuando se contravengan las limitaciones que se derivan del Derecho Internacional y del Derecho de la Unión Europea, como la necesidad de respetar los embargos decretados por Naciones Unidas y la Unión Europea, entre otras.
+
+f) Cuando existan razones de protección de los intereses esenciales de seguridad nacional o de orden público se podrán revocar las autorizaciones de Licencias Generales de Transferencia de Material de Defensa, a las que hace referencia el artículo 28.
+
+2\. En todo caso, las autorizaciones deberán ser revocadas si se incumplieran las condiciones a las que estuvieran subordinadas y que motivaron su concesión o cuando hubiere existido omisión o falseamiento de datos por parte del solicitante.
+
+3\. Si se considera que existe un grave riesgo de que un destinatario certificado por otro Estado Miembro de conformidad con los criterios establecidos en el artículo 9 de la Directiva 2009/43/CE del Parlamento Europeo y del Consejo de 6 de mayo de 2009, no respeta las condiciones vinculadas a una Licencia General para Transferencias Intracomunitarias de Material de Defensa publicada, o que pudieran verse afectados el orden público, la seguridad pública o los intereses esenciales en materia de seguridad, se informará al Estado miembro que haya certificado a dicha empresa destinataria y se pedirá que se verifique la situación. Si la duda mencionada persiste, se podrá suspender provisionalmente los efectos de la Licencia General para Transferencias Intracomunitarias de Material de Defensa respecto de los destinatarios en cuestión, informando a la Comisión Europea y a los demás Estados miembros de las razones de esa medida de salvaguardia, la cual podrá ser retirada si se considera que ya no está justificada.
+
+4\. La revocación o suspensión de las autorizaciones requerirá la tramitación del oportuno expediente administrativo en el que se dará audiencia al interesado y que se ajustará a lo establecido en la Ley 30/1992, de 26 de noviembre, y posteriores modificaciones y en el Real Decreto 1778/1994, de 5 de agosto.
+
+#### Artículo 8. Recursos administrativos.
+
+Las resoluciones que dicte el titular de la Secretaría de Estado de Comercio del Ministerio de Economía y Competitividad podrán ser objeto de recurso de alzada de acuerdo con el artículo 114 de la Ley 30/1992, de 26 de noviembre.
+
+#### Artículo 9. Medidas de control.
+
+1\. Los titulares de las correspondientes autorizaciones quedarán sujetos a la inspección de la Secretaría de Estado de Comercio del Ministerio de Economía y Competitividad y del Departamento de Aduanas e Impuestos Especiales, del Ministerio de Hacienda y Administraciones Públicas, debiendo conservar a disposición de estos órganos todos los documentos relacionados con las respectivas operaciones que no obren ya en poder de la Administración General del Estado, hasta que transcurra un período de diez años a contar desde la fecha de extinción del plazo de validez de la autorización. Los titulares de las operaciones deberán remitir semestralmente los despachos totales o parciales relativos a cada autorización de transferencia de material de defensa, de otro material y de productos y tecnologías de doble uso correspondiente al semestre inmediatamente anterior, a la Subdirección General de Comercio Internacional de Material de Defensa y Doble Uso, del Ministerio de Economía y Competitividad, o, en su caso, declaración de no haber efectuado operación alguna.
+
+2\. Para operaciones de productos y tecnologías de doble uso, incluyendo la prestación de servicios de corretaje, los operadores o corredores quedarán además sujetos a las medidas de control establecidas en el capítulo VII del Reglamento (CE) n.º 428/2009 del Consejo, de 5 de mayo de 2009, y disposiciones que lo modifiquen o lo sustituyan.
+
+3\. El Departamento de Aduanas e Impuestos Especiales deberá remitir semestralmente a la Secretaría de Estado de Comercio la información estadística de los despachos totales o parciales que se hayan realizado, relativos a las autorizaciones de transferencia de material de defensa, de otro material y de productos y tecnologías de doble uso, emitidas por la Secretaría de Estado de Comercio.
+
+4\. La Secretaría de Estado de Comercio, de acuerdo con el artículo 5 de la Posición Común 2003/468/PESC del Consejo, de 23 de junio de 2003, sobre el control del corretaje de armas, intercambiará la información sobre actividades de corretaje de armas con Estados miembros de la Unión Europea así como con terceros estados, según el caso, y en particular sobre la legislación aplicable, corredores registrados (si procede), fichas de información de los corredores y denegaciones de solicitudes de registro (si procede) y de solicitudes de autorización.
+
+En el caso en que varios Estados miembros participen en el control de la misma transacción de corretaje, se consultará con las autoridades competentes del Estado o Estados miembros en cuestión y se les facilitará toda la información pertinente. Las posibles objeciones del Estado o Estados miembros serán vinculantes para la concesión de una autorización de la actividad de corretaje en cuestión. Si no se han presentado objeciones en el plazo de diez días hábiles, se considerará que el Estado o los Estados miembros consultados no tienen objeción alguna.
+
+#### Artículo 10. Tránsitos.
+
+1\. La autoridad competente para la autorización de los tránsitos de material de defensa es el Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+
+2\. La autoridad competente para la autorización de los tránsitos de productos y tecnologías de doble uso es la Secretaría de Estado de Comercio.
+
+3\. No obstante lo expuesto en los apartados 1 y 2 del presente artículo, cualquier tránsito de material de defensa o de doble uso definido con arreglo a la Ley 53/2007, de 28 de diciembre, sobre el control del comercio exterior de material de defensa y de doble uso, con destino u origen el territorio de Gibraltar, estará sometido al régimen contemplado en el artículo 11 de dicha ley y deberá contar con la oportuna autorización del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación por considerarse que puede afectar a los intereses generales de la política exterior del Estado conforme a lo previsto en el artículo 8, apartado 1.b), de dicha ley.
+
+4\. El Ministerio de Asuntos Exteriores, Unión Europea y Cooperación comunicará periódicamente a la JIMDDU los tránsitos de material de defensa por territorio nacional que haya autorizado.
+
+5\. Los tránsitos de productos y tecnologías de doble uso serán objeto de autorización por la Secretaría de Estado de Comercio, en función de las circunstancias y el riesgo de desvío identificado respecto a la declaración aduanera inicial. Asimismo, los productos y tecnologías de doble uso incluidos en el anexo I del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, requerirán de autorización en los supuestos contemplados en el artículo 7 del mencionado reglamento. Los productos y tecnologías de doble uso en tránsito no incluidos en el anexo I del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, serán igualmente objeto de autorización en los supuestos contemplados en los artículos 4 y 5 de dicho reglamento.
+
+6\. En cualquier caso, la necesidad de autorización se hará extensiva con carácter previo a la realización del tránsito, haya precisado o no una declaración aduanera previa, para aquellos supuestos contemplados en sanciones impuestas por una decisión o una posición común adoptadas por el Consejo Europeo, en los que es necesaria autorización de exportación.
+
+7\. De acuerdo con el artículo 11 de la Ley 53/2007, de 28 de diciembre, la Administración General del Estado podrá proceder a la inmediata retención del material de defensa, del otro material y de los productos y tecnologías de doble uso en tránsito a través del territorio, o del espacio marítimo o aéreo sujetos a la soberanía española, cuando se den los supuestos previstos en el artículo 8 de la misma.
+
+8\. Las autoridades competentes para ordenar la retención prevista en el artículo 11 de la Ley 53/2007, de 28 de diciembre, son las competentes en materia de contrabando de acuerdo con la Ley Orgánica 12/1995, de 12 de diciembre, de Represión del Contrabando.
+
+9\. La documentación relativa a la retención se pondrá a disposición de la autoridad aduanera, quedando los productos bajo vigilancia y control aduanero en el lugar que solicite alguna de las personas previstas en el artículo 7.2 del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, y que sea autorizado por aquella.
+
+10\. La retención de productos y tecnologías de doble uso se pondrá, de forma inmediata, por la autoridad aduanera en conocimiento de la Secretaría de Estado de Comercio para la tramitación de las autorizaciones previstas en el apartado 6, quien resolverá de acuerdo a los artículos 5, 6 y 7. Adicionalmente, para los productos y tecnologías de doble uso será de aplicación lo contemplado en el Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021.
+
+11\. La retención de material de defensa se pondrá, de forma inmediata, por la autoridad aduanera en conocimiento del órgano competente del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+
+12\. En el supuesto de no autorización del tránsito, y salvo que no se esté frente a un supuesto de contrabando, las autoridades aduaneras sólo podrán autorizar el régimen aduanero de despacho a libre práctica o su inclusión en alguno de los regímenes aduaneros especiales de depósito.
+
+> Se modifica por el art. único.3 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+### Sección 2.ª Registro especial de operadores de comercio exterior de material de defensa y de doble uso
+
+#### Artículo 11. Regulación del Registro Especial de Operadores de Comercio Exterior de Material de Defensa y de Doble Uso.
+
+El Registro Especial de Operadores de Comercio Exterior de Material de Defensa y de Doble Uso, en adelante REOCE, tendrá las características y procedimientos de tramitación que se regulan en los artículos 12 a 15.
+
+#### Artículo 12. Características del REOCE.
+
+1\. La finalidad del REOCE es la inscripción de los datos correspondientes a los operadores de comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso que realicen actividades sometidas a control por la Ley 53/2007, de 28 de diciembre y este reglamento.
+
+2\. Resultan obligados a suministrar datos de carácter personal aquellos operadores, personas físicas o jurídicas, que desarrollen las actividades descritas de conformidad con este reglamento.
+
+3\. El procedimiento de recogida de datos de carácter personal se realizará mediante la trascripción de la documentación aportada por los interesados.
+
+4\. La estructura básica del REOCE se establece a partir de la descripción de los diferentes datos de carácter personal incluidos en la solicitud de inscripción cuyo modelo figura en el anexo VI.15.
+
+5\. El órgano de la Administración responsable del REOCE es la Secretaría de Estado de Comercio del Ministerio de Economía y Competitividad, ante el que se pueden ejercitar los derechos de acceso, rectificación, cancelación y oposición.
+
+6\. El REOCE tendrá un nivel de seguridad medio.
+
+7\. Atendiendo al sistema de tratamiento de los datos, la información está parcialmente automatizada.
+
+#### Artículo 13. Exigencia de inscripción y exenciones.
+
+1\. Sólo podrán solicitar autorización para las operaciones de exportación y expedición, de importación e introducción y de corretaje de los materiales, productos y tecnologías a que se refiere este reglamento, los operadores que estén inscritos en el REOCE. Las inscripciones en el antiguo «Registro Especial de Exportadores» seguirán siendo válidas y producirán sus efectos de conformidad con las operaciones que motivaron en su día el acceso de su titular al Registro.
+
+2\. La inscripción en el REOCE sólo podrá realizarse por parte de aquellas personas físicas o jurídicas que sean residentes en España, no admitiéndose, como caso particular, la inscripción de sociedades domiciliadas en paraísos fiscales.
+
+3\. Las empresas españolas con capital extranjero directo o indirecto, relacionadas con la fabricación, comercio o distribución de armas y explosivos de uso civil y con actividades relacionadas con la Defensa Nacional, deberán acreditar que el sujeto inversor extranjero tiene autorización administrativa del Consejo de Ministros. Los trámites de dicha autorización se harán conforme a lo dispuesto en el Real Decreto 664/1999, de 23 de abril, sobre inversiones exteriores.
+
+4\. De acuerdo con el artículo 10 del Reglamento de Armas aprobado por Real Decreto 137/1993, de 29 de enero, toda persona física o jurídica que vaya a realizar transferencias definitivas o temporales de armas de fuego reglamentadas consecuencia de una actividad profesional deberá haber obtenido previamente una autorización de la condición de armero o de corredor por la Dirección General de la Guardia Civil.
+
+5\. Se exceptúan de la exigencia de inscripción, a que se refiere el apartado 1.a):
+
+a) Los órganos administrativos correspondientes de las Fuerzas Armadas, las Fuerzas y Cuerpos de Seguridad del Estado dependientes del Gobierno de la Nación, los Cuerpos de Policía dependientes de las comunidades autónomas y los Cuerpos de Policía dependientes de las corporaciones locales, cuyas operaciones de exportación y expedición e importación e introducción estarán, sin embargo, sujetas a lo dispuesto en este reglamento sobre la exigencia de autorización y el preceptivo informe de la JIMDDU a que se refieren los artículos 2 y 18.
+
+b) Las personas físicas que transporten en su equipaje personal los productos de doble uso que se vayan a exportar y requieran de una licencia de exportación emitida por las autoridades españolas, según establece el Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021.
+
+c) Las personas físicas o jurídicas o las asociaciones, no residentes ni establecidas en España, que requieran de una autorización de tránsito, de corretaje o de asistencia técnica emitida por las autoridades españolas, según establece el Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021.
+
+d) Las personas físicas cuando efectúen una transferencia de armas de fuego no derivada de una actividad económica o comercial.
+
+> Se sustituyen los apartados 5 y 6 por un único apartado 5, por el art. único.4 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+#### Artículo 14. Obligaciones de los inscritos.
+
+1\. Sólo podrán autorizarse las operaciones mencionadas en la solicitud de inscripción del operador correspondiente.
+
+2\. Los titulares llevarán registros o extractos de acuerdo con el artículo 9.1.
+
+3\. Los titulares que tengan la condición de armeros o de corredores deberán llevar un registro de todas las transferencias realizadas de armas de fuego en los que consignarán los datos referidos en el artículo 10.2 del Reglamento de Armas en la redacción dada en el Real Decreto 976/2011, de 8 de julio.
+
+#### Artículo 15. Procedimientos y tramitación.
+
+1\. La solicitud para la inscripción en el REOCE se hará ante la Secretaría de Estado de Comercio de acuerdo con el modelo que se incluye en el anexo VI.15.
+
+El titular deberá remitir las modificaciones de los datos consignados en las solicitudes, mediante el mismo modelo, en el plazo de treinta días hábiles a partir de la fecha en que aquéllas se produzcan.
+
+2\. El impreso de inscripción constará de dos ejemplares, que serán, respectivamente, para la Secretaría de Estado de Comercio y para el solicitante.
+
+3\. La Secretaría de Estado de Comercio podrá requerir del interesado ampliación o información complementaria de los datos consignados en la correspondiente solicitud.
+
+4\. Los datos consignados en la solicitud y cualesquiera otros comunicados a la Subdirección General Comercio Internacional de Material de Defensa y Doble Uso serán de uso reservado para la Administración y no serán comunicados a ningún otro órgano de la Administración Pública salvo en los supuestos en que sean necesarios para el cumplimiento de las funciones previstas en el reglamento, con la finalidad de que todos los miembros de la JIMDDU cuenten con datos objetivos para analizar y emitir los informes preceptivos.
+
+5\. La tramitación se iniciará mediante la presentación del impreso de solicitud debidamente cumplimentado en el Registro General del Ministerio de Economía y Competitividad o en las Direcciones Territoriales y Provinciales de Comercio, pudiendo presentarse, asimismo, en cualquiera de los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre.
+
+6\. Presentada la solicitud en forma, el titular de la Secretaría de Estado de Comercio, previo informe de la JIMDDU, resolverá sobre la inscripción, notificando al interesado su resolución en el plazo de sesenta días hábiles, contados a partir de la presentación de aquélla.
+
+7\. Al emitir su informe, la JIMDDU deberá comprobar si existe cualquier documento que atestigüe la participación en actividades ilícitas del solicitante u operador, haber cometido actos tipificados en la Ley Orgánica 12/1995, de 12 de diciembre, de Represión del Contrabando, o si no está garantizada la capacidad del mismo para un control efectivo de las transferencias de los materiales, productos o tecnologías incluidos en la solicitud de inscripción, en cuyo caso, se procederá a denegar la solicitud de inscripción.
+
+Se analizará especialmente que las empresas no están condenadas por delitos relacionados con la corrupción de agentes públicos extranjeros en las transacciones comerciales internacionales, para lo cual se requerirá una declaración por parte del interesado. Está prevista la suspensión temporal o definitiva de la inscripción en el REOCE por este motivo, que será comunicada a la Subdirección General de Comercio Internacional de Servicios e Inversiones del Ministerio de Economía y Competitividad, de acuerdo con la Recomendación de la OCDE en aplicación del Convenio de Lucha contra la Corrupción de Agentes Públicos Extranjeros en las Transacciones Comerciales Internacionales.
+
+Asimismo, si las condiciones iniciales que aconsejaron una inscripción cambiasen en el sentido expuesto, se podrá proponer la suspensión o revocación de una inscripción aprobada anteriormente.
+
+### Sección 3.ª Junta interministerial reguladora del comercio exterior de material de defensa y de doble uso
+
+#### Artículo 16. Regulación de la Junta Interministerial Reguladora del Comercio Exterior de Material de Defensa y de Doble Uso.
+
+La Junta Interministerial Reguladora del Comercio Exterior de Material de Defensa y de Doble Uso (JIMDDU), tendrá la composición y funciones que se establecen en los artículos 17 y 18.
+
+#### Artículo 17. Composición.
+
+1\. La JIMDDU queda adscrita funcionalmente al Ministerio de Industria, Comercio y Turismo, y estará compuesta por los siguientes miembros:
+
+a) Presidente: La persona titular de la Secretaría de Estado de Comercio, del Ministerio de Industria, Comercio y Turismo.
+
+b) Vicepresidente: La persona titular de la Secretaría de Estado de Asuntos Exteriores y Globales del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+
+c) Vocales: Las personas titulares de los siguientes órganos:
+
+1.º Dirección General de Política Exterior y de Seguridad, del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+
+2.º Dirección General de Armamento y Material, del Ministerio de Defensa.
+
+3.º Dirección de Inteligencia del Centro Nacional de Inteligencia, del Ministerio de Defensa.
+
+4.º Dirección del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, del Ministerio de Hacienda y Función Pública.
+
+5.º Dirección General de la Guardia Civil, del Ministerio del Interior.
+
+6.º Dirección General de la Policía, del Ministerio del Interior.
+
+7.º Dirección General de Política Comercial del Ministerio de Industria, Comercio y Turismo.
+
+8.º Secretaría General Técnica del Ministerio de Industria, Comercio y Turismo.
+
+9.º Dirección del Departamento de Seguridad Nacional de la Presidencia del Gobierno.
+
+2\. Actuará de Secretario la persona titular de la Subdirección General de Comercio Internacional de Material de Defensa y Doble Uso, del Ministerio de Industria, Comercio y Turismo, que actuará con voz pero sin voto.
+
+3\. El Presidente en caso de vacante, ausencia, enfermedad u otra causa legal, será sustituido por el Vicepresidente titular y, en su defecto, por el miembro del órgano colegiado de mayor jerarquía, antigüedad y edad, por este orden, de entre sus componentes.
+
+4\. El Vicepresidente y los Vocales podrán ser sustituidos por los suplentes que éstos designen, con carácter expreso para cada reunión de la JIMDDU. Dichos suplentes deberán ocupar un puesto con rango mínimo de Subdirector General o asimilado.
+
+5\. El Secretario será sustituido en los casos de vacante, ausencia o enfermedad por un funcionario destinado en la Subdirección General de Comercio Internacional de Material de Defensa y Doble Uso.
+
+6\. Los miembros de la JIMDDU podrán convocar a las reuniones de la Junta a otros representantes de la Administración, así como a personas expertas en la materia, que actuarán con voz pero sin voto, cuando los temas a tratar así lo aconsejen.
+
+7\. La JIMDDU podrá recabar de los demás órganos y organismos de la Administración General del Estado, y de otras Administraciones, la información que precise para el ejercicio de las competencias a las que se refieren el artículo 18.1 y el artículo 18.4, en cuanto resulte necesario para la adecuada realización del cometido que le es propio y con tal única y exclusiva finalidad, siempre de conformidad con el ordenamiento jurídico vigente y en particular con lo dispuesto por la legislación especial en materia de protección de datos de carácter personal.
+
+8\. La JIMDDU constituirá un grupo de trabajo formado por representantes de todos los ministerios miembros de dicho órgano colegiado, con rango mínimo de Subdirector General o asimilado, al objeto de discutir y elaborar propuestas que deban someterse a la Junta en los asuntos que así lo requieran. El grupo de trabajo podrá reunirse con participación de todos o algunos de sus miembros titulares o de los expertos que éstos designen.
+
+9\. La JIMDDU ajustará su funcionamiento a lo establecido en el título preliminar, capítulo II, sección 3.ª de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en relación con los órganos colegiados.
+
+10\. El funcionamiento de la Junta Interministerial Reguladora del Comercio Exterior de Material de Defensa y de Doble Uso será atendido con los medios personales, técnicos y presupuestarios asignados al Ministerio de Industria, Comercio y Turismo.
+
+> Se modifican los apartados 1, 2 y 9 y se añade un apartado 10 por el art. único.5 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+#### Artículo 18. Funciones.
+
+1\. Corresponde a la JIMDDU informar, con carácter preceptivo y vinculante, las autorizaciones administrativas a que se refiere el artículo 2 y los acuerdos previos, así como su rectificación, suspensión o revocación, y las solicitudes de inscripción en el REOCE.
+
+2\. También informará preceptivamente sobre las modificaciones que parezca oportuno realizar en la normativa reguladora del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso.
+
+3\. Emitirá los informes a que se refiere el apartado 1, teniendo en cuenta los criterios establecidos en el artículo 7.1.
+
+4\. Evacuará los informes relativos al REOCE, de acuerdo con el artículo 14 de la Ley 53/2007, de 28 de diciembre.
+
+5\. Con carácter previo al otorgamiento de una autorización por parte del titular de la Secretaría de Estado de Comercio, la JIMDDU podrá solicitar información adicional sobre una determinada operación.
+
+6\. La JIMDDU podrá exceptuar de la exigencia de informe previo y de la presentación de documentos de control, las operaciones que se describen a continuación en este apartado. En todo caso, las excepciones no deberán suponer una merma en el control ejercido sobre las operaciones de que se trate ni en la exigencia de las oportunas garantías. El Gobierno dará cuenta en el informe previsto en el artículo 19.2, del tipo de operaciones exceptuadas.
+
+a) Las exportaciones y expediciones y las importaciones derivadas de programas de cooperación en el ámbito de la defensa, estando estos programas clasificados como tales por el Ministerio de Defensa de acuerdo con el artículo 24.2.a).
+
+b) Las exportaciones y expediciones y las importaciones solicitadas por organismos del Ministerio de Defensa y por las empresas del sector en cumplimiento de contratos de mantenimiento o reparación con las Fuerzas Armadas, siempre que tengan informe favorable de la Dirección General de Armamento y Material del Ministerio de Defensa.
+
+c) Las exportaciones y expediciones y las importaciones temporales para reparaciones, revisiones, pruebas, homologaciones, ferias y exhibiciones, así como las exportaciones, expediciones, e importaciones definitivas para la reposición sin cobro de material defectuoso y devoluciones a origen. En las operaciones referidas a armas de fuego, además de las anteriores, aquellas operaciones temporales destinadas a cacerías o prácticas de tiro deportivo.
+
+d) Las exportaciones y expediciones referidas a combustibles con especificaciones militares con destino a países de la Unión Europea y de la Organización del Tratado del Atlántico Norte, en adelante, OTAN.
+
+e) Las exportaciones y expediciones de productos y tecnologías de doble uso con destino a los países miembros de los regímenes internacionales de no proliferación y control de las exportaciones por los que está sometido a control el producto que se desea exportar, excepto los productos incluidos en el anexo II del Reglamento (CE) n.º 428/2009 del Consejo, de 5 de mayo de 2009, y posteriores modificaciones.
+
+f) Las exportaciones y expediciones de aquellos productos, equipos y tecnologías que, estando recogidos en las Relaciones de Material de Defensa y de Otro Material de este reglamento, así como en el anexo I del Reglamento (CE) n.º 428/2009 del Consejo, de 5 de mayo de 2009, hayan sido eliminados o no estén recogidos en las correspondientes listas internacionales.
+
+g) Las introducciones desde otro país de la Unión Europea, y las importaciones procedentes de países miembros del Grupo Australia de las sustancias químicas incluidas en las Listas de la Convención de 13 de enero de 1993 sobre la prohibición del desarrollo, la producción, el almacenamiento y el empleo de armas químicas y sobre su destrucción, excepto las sustancias químicas incluidas en el anexo I.1 de este real decreto y la ricina y la saxitoxina.
+
+h) Las rectificaciones de las autorizaciones referidas al plazo de validez y al valor monetario.
+
+i) Las expediciones de componentes, subsistemas y recambios de material de defensa, y los servicios asociados a ellos, derivadas del uso de una Licencia Global de Transferencia de Componentes de Material de Defensa o de una Licencia General para Transferencias Intracomunitarias de Material de Defensa, siempre que dichos componentes, subsistemas y recambios estén destinados a ser integrados en equipos y sistemas de defensa o para sustituir otros componentes o subsistemas expedidos con anterioridad o sean expediciones temporales.
+
+7\. En aquellos casos en los que el operador solicite de manera razonada la necesidad de llevar a cabo una exportación o expedición, importación e introducción, o la inscripción en el REOCE, antes de la celebración de la reunión de la JIMDDU, se podrá recurrir a un procedimiento de urgencia. La Secretaría de la JIMDDU comunicará a todos los miembros de ésta las operaciones en cuestión, solicitando su conformidad, que se entenderá concedida si no se manifiestan objeciones de forma expresa en el plazo de 48 horas.
+
+8\. Asimismo, la JIMDDU podrá establecer un procedimiento complementario similar al anterior, destinado exclusivamente a agilizar las operaciones de armas de caza y deportivas y sin que ello suponga una merma en el control de estas operaciones.
+
+9\. Cuando se reciba en la Secretaría de la JIMDDU una consulta de otro país miembro según el artículo 11.1 del Reglamento (CE) n.º 428/2009 del Consejo, de 5 de mayo de 2009, en la que la operación estuviese sometida a informe previo de la JIMDDU, se procederá lo antes posible al envío de dicha consulta a todos los miembros de la Junta, estableciéndose un plazo máximo de contestación de cuatro días hábiles desde la fecha de remisión de la misma y, a falta de respuesta, se considerará que no hay objeciones, procediéndose por tanto a la contestación de la correspondiente consulta al país que la solicita.
+
+10\. De acuerdo con el artículo 2.10 del Real Decreto 663/1997, de 12 de mayo, por el que se regula la composición y funciones de la Autoridad Nacional para la Prohibición de las Armas Químicas, la JIMDDU, como órgano competente en materia de comercio exterior, deberá coordinarse con la Autoridad Nacional respecto a la importación e introducción y exportación y expedición de las sustancias químicas previstas en la Convención sobre la prohibición del desarrollo, la producción, el almacenamiento y el empleo de armas químicas y sobre su destrucción.
+
+11\. La JIMDDU podrá establecer, de manera excepcional, mecanismos de verificación, seguimiento y colaboración respecto de la mercancía exportada en determinadas operaciones con la colaboración del gobierno del país importador, para lo cual deberá iniciar un expediente en el que se definirán todos los términos de la verificación.
+
+En estos casos, el documento de control que se requerirá será el certificado de último destino de control ex post que incluye una cláusula de verificación en destino, y que será emitido por la autoridad competente del país destinatario del producto.
+
+Los gastos derivados de la aplicación de este mecanismo serán financiados con cargo a las disponibilidades presupuestarias de cada Departamento interviniente.
+
+> Se añade el apartado 11 por el art. único.2 del Real Decreto 494/2020, de 28 de abril. [Ref. BOE-A-2020-4708](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4708)
+
+### Sección 4.ª Información y control parlamentario
+
+#### Artículo 19. Información y control parlamentario.
+
+1\. El Gobierno enviará semestralmente al Congreso de los Diputados la información pertinente sobre las exportaciones y expediciones de material de defensa, de otro material y de productos y tecnologías de doble uso correspondientes al último período de referencia, con indicación, al menos, del valor de las exportaciones por países de destino y categorías descriptivas de productos, la asistencia técnica, el uso final del producto, la naturaleza pública o privada del usuario final y las denegaciones efectuadas.
+
+2\. El Gobierno solicitará anualmente la comparecencia del titular de la Secretaría de Estado de Comercio ante la Comisión de Defensa del Congreso de los Diputados para informar sobre las estadísticas del último período de referencia.
+
+3\. La Comisión de Defensa emitirá un dictamen sobre la información recibida, con recomendaciones para el año siguiente. El titular de la Secretaría de Estado de Comercio informará en su comparecencia anual de las acciones derivadas de dicho dictamen.
+
+## CAPÍTULO II — Tipología y régimen de las autorizaciones
+
+#### Artículo 20. Operaciones sujetas a autorización.
+
+1\. Requerirán una autorización administrativa otorgada por el titular de la Secretaría de Estado de Comercio las operaciones referidas en el artículo 2 que se mencionan a continuación, salvo las excepciones contempladas en dicho artículo 2:
+
+a) Las definitivas.
+
+b) Las temporales.
+
+c) Las derivadas de una importación o introducción temporal, cuando el país de destino no coincida con el país de procedencia o el material de defensa que se va a exportar o expedir no coincida con el declarado en la importación o introducción.
+
+d) Las derivadas de una exportación o expedición temporal, cuando el país de procedencia no coincida con el país de destino o el material de defensa que se va a importar o introducir no coincida con el declarado en la exportación o expedición.
+
+e) Cualquier actividad de corretaje: actividades de personas físicas o jurídicas que negocien o concierten transacciones en territorio español que puedan implicar la transferencia de artículos que figuran en la Lista Común de Equipos Militares de la Unión Europea, de un tercer país a cualquier otro tercer país, o que compren, vendan o concierten la transferencia de dichos artículos que obren en su propiedad, de un tercer país a cualquier otro tercer país.
+
+f) La prestación de servicios de corretaje en relación con los productos y tecnologías de doble uso.
+
+g) Las derivadas de productos y tecnologías no sometidas a control en la importación, pero si en la exportación de acuerdo con el anexo I del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, por el que se establece un régimen de la Unión de control de las exportaciones, el corretaje, la asistencia técnica, el tránsito y la transferencia de productos de doble uso (versión refundida). Se incluyen el régimen especial de importación temporal y el régimen de perfeccionamiento activo, de acuerdo con el artículo 210 del Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013, por el que se establece el código aduanero de la Unión. Será condición necesaria la correspondiente autorización de exportación para poder ser incluidas en ambos regímenes especiales.
+
+2\. Esta autorización podrá revestir, según los casos, las siguientes modalidades:
+
+a) Licencia Individual de Transferencia de Material de Defensa, de Otro Material y de Productos y Tecnologías de Doble Uso.
+
+b) Licencia Global de Transferencia de Material de Defensa, de Otro Material y de Productos y Tecnologías de Doble Uso.
+
+c) Licencia Global de Proyecto de Transferencia de Material de Defensa.
+
+d) Autorizaciones Generales de Exportación de la Unión Europea de Productos y Tecnologías de Doble Uso.
+
+e) Autorización de corretaje.
+
+f) Acuerdo Previo de Transferencia de Material de Defensa, de Otro Material y de Productos y Tecnologías de Doble Uso.
+
+g) Licencia General para Transferencias Intracomunitarias de Material de Defensa.
+
+h) Licencia Global de Transferencia de Componentes de Material de Defensa.
+
+> Se modifica el apartado 1 por el art. único.6 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+#### Artículo 21. Normativa de referencia.
+
+Las operaciones de exportación, expedición, tránsito y corretaje de productos y tecnologías de doble uso se entenderán de acuerdo con lo dispuesto en el Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021.
+
+Las transferencias a países terceros de armas de fuego de uso civil incluidas en el anexo II.1 de este reglamento se entenderán de acuerdo con lo dispuesto en el Reglamento (UE) N.º 258/2012 del Parlamento Europeo y del Consejo, de 14 de marzo de 2012.
+
+> Se modifica el primer párrafo por el art. único.7 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+#### Artículo 22. Licencia Individual de Transferencia de Material de Defensa, de Otro Material y de Productos y Tecnologías de Doble Uso.
+
+1\. La Licencia Individual de Transferencia de Material de Defensa, de Otro Material y de Productos y Tecnologías de Doble Uso permite al titular la realización de uno o varios envíos de los materiales, productos y tecnologías comprendidos en ella, hasta la cantidad máxima fijada en la autorización, a un destinatario determinado, a o desde un país especificado y dentro de un plazo de validez de doce meses. Previa solicitud razonada del exportador, se podrán autorizar dos prórrogas como máximo con el mismo plazo de validez que la licencia original contado desde la fecha de caducidad de la anterior, para lo cual se deberá tramitar una solicitud de rectificación.
+
+2\. Se empleará también este tipo de licencia para autorizar exportaciones y expediciones definitivas y temporales del material de defensa a que se refiere el artículo 24.2.a), y que sea originario de otros Estados Partes del Acuerdo Marco de 27 de julio de 2000, que desarrolla la Carta de Intenciones para la reestructuración e integración de la industria de defensa europea, de 8 de julio de 1998, a países que no participen en dicho Acuerdo Marco. Los países destino de estas operaciones serán los comprendidos en las Listas de Destinos Permitidos de acuerdo con lo contemplado en el Convenio de Aplicación de los Procedimientos de Exportación y Transferencia de la Licencia Global de Proyecto.
+
+3\. La solicitud se cursará mediante el impreso denominado «Licencia de Transferencia de Material de Defensa y de Doble Uso» que se incluye en el anexo VI.1. En la solicitud se hará constar, en su caso, su vinculación a un acuerdo previo o a una operación de perfeccionamiento.
+
+4\. Asimismo, se podrá emplear una licencia individual en las exportaciones e importaciones definitivas de armas de fuego de uso civil, sus piezas y componentes esenciales y municiones incluidas en los anexos II.1 y III.2 siempre que no estén contempladas en los casos descritos en el artículo 23. La información correspondiente al marcado aplicado a las armas de fuego deberá notificarse en la propia licencia siempre que sea posible, y como muy tarde se notificará a la Intervención Central de Armas y Explosivos (ICAE) antes de la transferencia de las mismas. El marcado distintivo debe ajustarse a lo dispuesto en el artículo 28 del Reglamento de Armas aprobado por Real Decreto 137/1993, de 29 de enero.
+
+La Secretaría de Estado de Comercio exigirá en las operaciones de exportación y expedición de armas de fuego, sus piezas y componentes esenciales y municiones de uso civil (anexo II.1) que las licencias estén acompañadas de un documento acreditativo de que los países importadores han emitido las correspondientes licencias o autorizaciones de importación.
+
+Antes de la emisión de una autorización referida a los productos de uso civil incluidos en el anexo II.1, los terceros países de tránsito, en su caso, comunicarán por escrito a la Subdirección General de Comercio Internacional de Material de Defensa y Doble Uso, con anterioridad a la expedición, que no se oponen al tránsito. Esta disposición no se aplicará:
+
+a) A las expediciones por vía marítima o aérea y a través de puertos o aeropuertos de terceros países, siempre que no se haga transbordo ni se cambie de medio de transporte.
+
+b) En el caso de exportaciones temporales para fines lícitos verificables, tales como cacerías, prácticas de tiro deportivo, evaluación, exposiciones sin ventas y reparaciones.
+
+La Secretaría de Estado de Comercio podrá decidir que, si no se recibe ninguna comunicación formal en el plazo de veinte días hábiles desde la fecha de la solicitud escrita presentada por el exportador, se considera que el tercer país de tránsito consultado no tiene ninguna objeción al tránsito.
+
+5\. En el caso de que la transferencia tenga carácter temporal, el operador deberá volver a transferir la mercancía dentro de un plazo máximo de doce meses. Este envío vendrá autorizado por la propia licencia de transferencia dentro de su plazo de validez. No obstante, el operador podrá solicitar la transferencia definitiva de todos o parte de los productos o tecnologías incluidos en la licencia, de acuerdo con los procedimientos de transferencia definitiva, aunque el país de destino y el destinatario no coincidan con los de la licencia temporal.
+
+6\. En el caso de que los productos o las tecnologías que se desean exportar incorporen productos o tecnologías incluidos en el anexo I o II de este reglamento, o en el anexo I del Reglamento (CE) n.º 428/2009 del Consejo, de 5 de mayo de 2009, y que sean originarios de países no pertenecientes a la Unión Europea, o en el anexo IV del citado reglamento para expediciones a Estados miembros de la Unión Europea, el solicitante deberá detallarlos en la «Hoja Complementaria» que se incluye en el anexo VI.2, especificando su porcentaje de participación en la mercancía que se va a exportar o expedir.
+
+7\. Se empleará la Licencia Individual de Transferencia de Material de Defensa, de Otro Material y de Productos y Tecnologías de Doble Uso en los siguientes casos:
+
+a) Cuando sea necesaria la protección de los intereses esenciales de seguridad nacionales o por razones de política interior.
+
+b) Cuando sea preciso atender a las obligaciones y compromisos internacionales asumidos por España.
+
+c) Cuando no se den las condiciones establecidas en el artículo 23.2, para el uso de Licencias Globales de Transferencia de Material de Defensa, de Otro Material y de Productos y Tecnologías de Doble Uso, ni para el uso de Licencias Generales de Transferencia de Material de Defensa.
+
+#### Artículo 23. Licencia Global de Transferencia de Material de Defensa, de Otro Material y de Productos y Tecnologías de Doble Uso.
+
+1\. La Licencia Global de Transferencia de Material de Defensa, de Otro Material y de Productos y Tecnologías de Doble Uso autoriza al titular la realización de un número ilimitado de envíos de los materiales objeto de la autorización, a uno o varios destinatarios y a o desde uno o varios países de destino especificados, en su caso, hasta el valor máximo autorizado y dentro de un plazo de validez de tres años. Previa solicitud razonada del exportador, se podrán autorizar dos prórrogas como máximo con el mismo plazo de validez que la licencia original contado desde la fecha de caducidad de la anterior, para lo cual se deberá tramitar una solicitud de rectificación.
+
+2\. Podrán ser amparadas en este tipo de licencia las operaciones a que se refiere el artículo 2, siempre que las relaciones entre el exportador y el destinatario se desarrollen dentro de alguno de los siguientes supuestos:
+
+a) Entre la empresa matriz y una de sus filiales o entre filiales de una misma empresa.
+
+b) Entre fabricante y distribuidor exclusivo.
+
+c) Dentro de un marco contractual que suponga una corriente comercial regular entre el exportador y el usuario final del material que se desea exportar o expedir.
+
+3\. La solicitud se cursará mediante el impreso denominado «Licencia de Transferencia de Material de Defensa y de Doble Uso», que se incluye en el anexo VI.1.
+
+4\. Asimismo, se podrá emplear una Licencia Global en las exportaciones e importaciones definitivas de armas de fuego, sus piezas y componentes esenciales y municiones incluidas en los anexos II.1 y III.2 para los casos descritos en el apartado 2. La información correspondiente al marcado aplicado a las armas de fuego deberá notificarse en la propia licencia siempre que sea posible, y como muy tarde se notificará a la ICAE antes de la transferencia de las mismas. El marcado distintivo debe ajustarse a lo dispuesto en el artículo 28 del Reglamento de Armas aprobado por Real Decreto 137/1993, de 29 de enero.
+
+La Secretaría de Estado de Comercio exigirá en las operaciones de exportación y expedición de armas de fuego, sus piezas y componentes esenciales y municiones de uso civil (anexo II.1) que las licencias estén acompañadas de un documento acreditativo de que los países importadores han emitido las correspondientes licencias o autorizaciones de importación.
+
+Antes de la emisión de una autorización referida a los productos de uso civil incluidos en el anexo II.1, los terceros países de tránsito, en su caso, comunicarán por escrito a la Subdirección General de Comercio Internacional de Material de Defensa y Doble Uso, con anterioridad a la expedición, que no se oponen al tránsito de acuerdo con el impreso que se incluye como anexo VI.4. Esta disposición no se aplicará:
+
+a) A las expediciones por vía marítima o aérea y a través de puertos o aeropuertos de terceros países, siempre que no se haga transbordo ni se cambie de medio de transporte.
+
+b) En el caso de exportaciones temporales para fines lícitos verificables, tales como cacerías, prácticas de tiro deportivo, evaluación, exposiciones sin ventas y reparaciones.
+
+La Secretaría de Estado de Comercio podrá decidir que, si no se recibe ninguna comunicación formal en el plazo de veinte días hábiles desde la fecha de la solicitud escrita presentada por el exportador, se considera que el tercer país de tránsito consultado no tiene ninguna objeción al tránsito.
+
+5\. En el caso de la exportación o expedición, el solicitante deberá desglosar las partes del valor máximo total que correspondan a cada país de destino. Además, dentro de cada país, deberá definir los materiales que se van a transferir mediante el artículo o subartículo, en su caso, correspondiente de los anexos I o II de este reglamento o en el anexo I del Reglamento (CE) n.º 428/2009 del Consejo, de 5 de mayo de 2009, y sus posteriores modificaciones, indicando a su vez la cantidad y el valor monetario de cada uno de ellos.
+
+6\. En el caso de que los materiales, productos o tecnologías que se van a exportar o expedir incorporen alguno de los incluidos en los anexos I o II de este reglamento o en el anexo I del Reglamento (CE) n.º 428/2009 del Consejo, de 5 de mayo de 2009, y sus posteriores modificaciones, y que sean originarios de otros países, el solicitante deberá detallarlos en la «Hoja Complementaria» que se incluye en el anexo VI.2, especificando su procedencia y porcentaje de participación en la mercancía que se va a exportar o expedir.
+
+#### Artículo 24. Licencia Global de Proyecto de Transferencia de Material de Defensa.
+
+1\. La Licencia Global de Proyecto de Transferencia de Material de Defensa autoriza al titular la realización de un número ilimitado de envíos de los materiales objeto de la autorización, a uno o varios destinatarios y a uno o varios países de destino, especificados, hasta el valor máximo autorizado y dentro de un plazo de validez de tres años. Previa solicitud razonada del exportador, se podrán autorizar dos prórrogas como máximo con el mismo plazo de validez que la licencia original contado desde la fecha de caducidad de la anterior, para lo cual se deberá tramitar una solicitud de rectificación.
+
+2\. Podrán ser amparadas en este tipo de licencia las operaciones de exportación y expedición y de importación, definitivas y temporales, del material de defensa que cumplan alguna de las siguientes condiciones:
+
+a) Las derivadas de un programa cooperativo de armamento en el marco del Acuerdo Marco de 27 de julio de 2000, que desarrolla la Carta de Intenciones para la reestructuración e integración de la industria de defensa europea, de 8 de julio de 1998, o de cualquier otro programa cooperativo de armamento de ámbito internacional, avalado por el Gobierno español, en el que participe una o varias empresas establecidas en España. Por «programa cooperativo de armamento» se entenderá cualesquiera actividades conjuntas, entre ellas, el estudio, evaluación, valoración, investigación, diseño, desarrollo, elaboración de prototipos, producción, mejora, modificación, mantenimiento, reparación y otros servicios posteriores al diseño realizados en virtud de un acuerdo o convenio internacional entre dos o más Estados con el fin de adquirir material de defensa o servicios de defensa conexos.
+
+b) Las derivadas de un programa no gubernamental de desarrollo o de producción de material de defensa en el que participe una o varias «empresas transnacionales de defensa (ETD)», según la definición del artículo 2.o), del citado Acuerdo Marco, establecidas en España, siempre que ésta o éstas tengan una autorización acreditativa del Ministerio de Defensa que manifieste que tal programa cumple los requisitos establecidos en el Acuerdo Marco.
+
+c) En una primera fase del desarrollo de una cooperación industrial, las exportaciones y expediciones y las importaciones de equipos y componentes a otras empresas participantes en dicha fase.
+
+d) Las devoluciones a origen, las exportaciones y expediciones y las importaciones temporales para reparaciones, pruebas y homologaciones de los materiales descritos inicialmente en la Licencia Global de Proyecto de Transferencia de Material de Defensa.
+
+3\. La solicitud se cursará mediante el impreso denominado «Licencia Global de Proyecto de Transferencia de Material de Defensa», que se incluye en el anexo VI.6.
+
+4\. El solicitante deberá desglosar las partes del valor máximo total que correspondan a cada empresa y país. Además, deberá definir los materiales que desea exportar o importar mediante el artículo o subartículo, en su caso, correspondientes de la Relación de Material de Defensa, indicando a su vez el valor monetario de cada uno de ellos.
+
+5\. Antes de proceder a autorizar la reexportación o reexpedición de un material localizado en territorio aduanero español y derivado de un programa como el descrito en el apartado 2, las autoridades españolas deberán obtener la aprobación de los Estados que intervienen en dicho programa.
+
+6\. La Licencia Global de Proyecto de Transferencia de Material de Defensa podrá ser aplicable a aquellos programas existentes en la fecha de la entrada en vigor de este reglamento.
+
+7\. En el caso de que el producto que se vaya a exportar o expedir incorpore materiales incluidos en la Relación de Material de Defensa, y que sean originarios de otros países, el solicitante deberá detallarlos en la «Hoja Complementaria» que se incluye en el anexo VI.7, especificando su procedencia y porcentaje de participación en la mercancía que se va a exportar o expedir.
+
+8\. Se empleará una Licencia Individual de Transferencia de Material de Defensa para autorizar envíos de materiales derivados de un programa como el descrito en el apartado 2.a), a países que figuren en la Lista de Destinos Permitidos de acuerdo con lo contemplado en el Convenio de Aplicación de los Procedimientos de Exportación y Transferencia de la Licencia Global de Proyecto.
+
+#### Artículo 25. Autorizaciones Generales de Exportación de la Unión Europea de Productos y Tecnologías de Doble Uso.
+
+1.Las autorizaciones generales de exportación de la Unión Europea se regularán por lo previsto en el Reglamento (CE) n.º 428/2009 del Consejo, de 5 de mayo de 2009, modificado por el Reglamento (UE) N.º 1232/2011 del Parlamento Europeo y del Consejo, de 16 de noviembre de 2011, y sus posteriores modificaciones, que dispone en el artículo 9.1 las autorizaciones generales de exportación de la Unión Europea para determinadas exportaciones que figuran en los anexos II.a al II.f de dicho reglamento.
+
+2\. Asimismo, según los requisitos de uso que establece el reglamento anteriormente citado, el operador notificará, mediante escrito remitido a la Secretaría de Estado de Comercio y al menos diez días antes de la primera transferencia, que se acoge a este procedimiento de autorizaciones generales y que, al amparo de dichas autorizaciones, se compromete de forma explícita a:
+
+a) Realizar, bajo estas autorizaciones generales, exportaciones que tengan como objeto exclusivamente los productos y los destinos autorizados y que cumplan todas las condiciones y requisitos que en ellas se especifican.
+
+b) Llevar una gestión individualizada de la documentación requerida para las exportaciones efectuadas con dicho procedimiento. Ésta contendrá, al menos, la descripción de las mercancías, incluyendo el subartículo o subartículos correspondiente del anexo I del Reglamento (CE) n.º 428/2009 del Consejo, de 5 de mayo de 2009, las cantidades transferidas individualmente y su fecha, el nombre y el domicilio del exportador, el nombre y el domicilio del destinatario y el usuario, la naturaleza pública o privada del usuario final y el uso final cuando sea aplicable. En el caso de que los productos o tecnologías exportados incorporen productos o tecnologías incluidos en el anexo I del Reglamento (CE) n.º 428/2009 del Consejo, de 5 de mayo de 2009, y que sean originarios de otros países fuera de la Unión Europea, se deberá especificar el porcentaje de participación en la mercancía exportada.
+
+c) Poner a disposición de la Secretaría de Estado de Comercio y del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria la documentación indicada en la letra anterior así como cualquier otra información relevante relativa a las exportaciones efectuadas al amparo de autorizaciones generales, a efectos de las comprobaciones necesarias. Enviar semestralmente a la Subdirección General de Comercio Internacional de Material de Defensa y Doble Uso la documentación indicada en la letra b) correspondiente al semestre inmediatamente anterior a efectos de la elaboración de las estadísticas a las que se refiere el artículo 19 de este real decreto.
+
+d) Hacer figurar, tanto en las facturas como en los documentos de transporte que acompañen a las mercancías, la leyenda que se incluye a continuación y obtener del destinatario el compromiso de su cumplimiento: «La exportación de estas mercancías se realiza mediante autorización general y únicamente podrá ir a los destinos autorizados. La mercancía no podrá ser reexportada sin la autorización del país correspondiente».
+
+e) Informar a las autoridades y suspender dicha transferencia hasta obtener una autorización expresa, si se tiene conocimiento de que los productos o tecnologías son destinados (o puedan serlo) en su totalidad o en parte al desarrollo, producción, manejo y funcionamiento, mantenimiento, almacenamiento, detección, identificación o diseminación de armas químicas, biológicas o nucleares o de otros dispositivos nucleares explosivos, o al desarrollo, producción, mantenimiento o almacenamiento de misiles capaces de transportar dichas armas.
+
+#### Artículo 26. Autorización de corretaje.
+
+1.Las actividades de corretaje contempladas en el artículo 2.1.c), requerirán una autorización escrita de la Secretaría de Estado de Comercio, previo informe de la JIMDDU.
+
+2\. El operador proporcionará información relativa a los materiales, productos o tecnologías objeto de la transacción, las personas físicas o jurídicas involucradas, los países de origen y destino, los países de tránsito, los métodos de transporte y la financiación utilizada.
+
+3\. Antes de proceder a autorizar una operación de corretaje, la Secretaría de Estado de Comercio intercambiará la información que resulte precisa con los Estados miembros de la Unión Europea, en aplicación del artículo 5 de la Posición Común 2003/468/PESC del Consejo, de 23 de junio de 2003, sobre el control del corretaje de armas.
+
+4\. Cuando sea necesaria una autorización para la prestación de servicios de corretaje de productos y tecnologías de doble uso, en aplicación del artículo 20.1.f), ésta será expedida por la Secretaría de Estado de Comercio, previo informe de la JIMDDU.
+
+#### Artículo 27. Acuerdo Previo de Transferencia de Material de Defensa, de Otro Material y de Productos y Tecnologías de Doble Uso.
+
+1.El Acuerdo Previo de Transferencia implica la conformidad inicial de la Administración con las operaciones derivadas del acuerdo. Se podrá solicitar cuando exista un proyecto de/a un país determinado en el marco de un contrato, suscrito o en negociación, que requiera un largo período de ejecución.
+
+2\. El Acuerdo Previo tendrá un plazo de validez no superior a tres años. Si el contrato en negociación o firmado aconseja ampliar el plazo de suministro, podrá autorizarse excepcionalmente un plazo de validez mayor.
+
+3\. Las operaciones derivadas de un Acuerdo Previo requerirán la obtención de una Licencia de Transferencia, que deberá ajustarse a las condiciones declaradas y aprobadas en el mismo. El Acuerdo Previo no podrá utilizarse para el despacho en la aduana.
+
+4\. La solicitud del Acuerdo Previo se cursará utilizando el impreso denominado «Acuerdo Previo de Transferencia de Material de Defensa, de Otro Material y de Doble Uso» o «Acuerdo Previo de Licencia Global de Proyecto de Transferencia de Material de Defensa», que se incluyen en los anexos VI.5 y VI.8 respectivamente.
+
+#### Artículo 28. Licencia General para Transferencias Intracomunitarias de Material de Defensa.
+
+1.En aplicación de la Directiva 2009/43/CE del Parlamento Europeo y del Consejo, de 6 de mayo de 2009, sobre la simplificación de los términos y las condiciones de las transferencias de productos relacionados con la defensa dentro de la Comunidad, la Secretaría de Estado de Comercio publica Licencias Generales de Transferencia de Material de Defensa que autorizan a los proveedores inscritos en el REOCE que cumplan los términos y las condiciones vinculadas al uso de dichas licencias a efectuar transferencias intracomunitarias de productos relacionados con la defensa. La utilización de la Licencia General para Transferencias Intracomunitarias de Material de Defensa se podrá aplicar dentro del Espacio Económico Europeo (EEE).
+
+2\. La Licencia General para Transferencias Intracomunitarias de Material de Defensa autoriza al proveedor la realización de un número ilimitado de envíos de productos relacionados con la defensa a uno o varios destinatarios y a uno o varios países de la Unión Europea, Islandia, Liechtenstein, o Noruega, sin límite de plazo temporal.
+
+3\. Los materiales objeto de las transferencias serán los incluidos en la lista de artículos que figura en el anexo IV.
+
+4\. Las modalidades de Licencia General para Transferencias Intracomunitarias de Material de Defensa serán las siguientes:
+
+LG1 para Fuerzas Armadas: Cuando el destinatario forme parte de las Fuerzas Armadas de alguno de los países de la Unión Europea o del Espacio Económico Europeo (en adelante, EEE), sea una autoridad contratante en el ámbito de la defensa, que realice adquisiciones para uso exclusivo de las Fuerzas Armadas de un país del EEE.
+
+LG2 para empresa certificada: Cuando el destinatario sea una empresa certificada por las autoridades de alguno de los países de la Unión Europea o del EEE, de acuerdo con el procedimiento regulado en el artículo 9 de la Directiva 2009/43/CE del Parlamento Europeo y del Consejo, de 6 de mayo de 2009, y el artículo 28.7 de este Reglamento.
+
+LG3 para demostración, evaluación y exhibición: Cuando la transferencia sea temporal y se realice para fines de demostración, evaluación y exhibición.
+
+LG4 para mantenimiento y reparación: Cuando la transferencia se realice para fines de mantenimiento y reparación.
+
+LG5 para la OTAN: cuando la transferencia sea el resultado de la participación del Ministerio de Defensa español y de empresas españolas en actividades y operaciones de la OTAN y de la Agencia de Apoyo de la OTAN (NSPA).
+
+LG6 para programas financiados por el Fondo Europeo de la Defensa: Cuando las transferencias estén derivadas de este tipo de programas.
+
+5\. Quedan excluidas del empleo de la Licencia General para Transferencias Intracomunitarias de Material de Defensa, como caso particular, las operaciones relativas a la prestación de servicios de corretaje en el ámbito de la defensa.
+
+6\. El proveedor notificará, mediante el impreso denominado «Licencia General para Transferencias Intracomunitarias de Material de Defensa» que se incluye en el anexo VI.9, con las hojas complementarias del anexo VI.10 por si fueran necesarias, a la Secretaría de Estado de Comercio al menos treinta días antes de la primera transferencia, que se acoge a una de las modalidades de Licencia General y que, cuando reciba dicha autorización, se compromete de forma explícita a:
+
+a) Realizar transferencias que tengan como objeto exclusivamente los materiales, los destinos y los destinatarios indicados.
+
+b) Respetar los términos y las condiciones de las Licencias Generales de Transferencia de Material de Defensa, incluidas las limitaciones de la exportación de productos relacionados con la defensa a personas físicas o jurídicas en terceros países. Los proveedores informarán a los destinatarios acerca de los términos, condiciones y limitaciones relacionados con el uso final o la exportación de dichos productos.
+
+c) Llevar una gestión individualizada de la documentación requerida para las transferencias efectuadas con dicho procedimiento. Ésta deberá contener, al menos, la descripción de los materiales, incluyendo el subartículo correspondiente de la Relación de Material de Defensa, las cantidades y valores de los materiales transferidos, las fechas de los envíos, el nombre y el domicilio del expedidor, el nombre y el domicilio del destinatario y el usuario y uso finales. Asimismo, se acreditará que el destinatario de dichos productos relacionados con la defensa ha sido informado de las posibles limitaciones de exportación vinculadas a la Licencia General para Transferencias Intracomunitarias de Material de Defensa.
+
+d) Enviar a la Subdirección General de Comercio Internacional de Material de Defensa y Doble Uso la documentación indicada en el párrafo anterior correspondiente al semestre inmediatamente anterior y cualquier otra información relevante relativa a las transferencias efectuadas, a efectos de las comprobaciones necesarias y elaboración de las estadísticas a que se refiere el artículo 19.
+
+e) Hacer figurar tanto en las facturas como en los documentos de transporte que acompañen a las mercancías la leyenda siguiente y obtener del destinatario el compromiso de su cumplimiento:
+
+"La expedición de estos materiales se realiza mediante la Licencia General para Transferencias Intracomunitarias de Material de Defensa y únicamente podrá ir destinada a Estados miembros de la Unión Europea. Los materiales no podrán ser exportados sin la autorización de las autoridades competentes, salvo que el país de destino pertenezca a la OTAN o sea miembro de los principales foros internacionales de no proliferación y control de las exportaciones (Arreglo de Wassenaar, Grupo Australia, Grupo de Suministradores Nucleares, Régimen de Control de la Tecnología de Misiles y Comité Zangger), con la excepción de aquellos países de destino sometidos a sanciones internacionales o medidas restrictivas."
+
+7\. El titular de la Secretaría de Estado de Comercio del Ministerio de Economía y Competitividad, previa comprobación de los criterios que se señalan a continuación y el informe previo de la JIMDDU, podrá expedir certificados a aquellas empresas inscritas en el REOCE que lo soliciten capacitándolas para poder recibir determinado material de defensa procedente de países del EEE, de acuerdo con las Licencias Generales de Transferencia publicadas por otros Estados miembros. Los criterios que se tendrán en cuenta son:
+
+a) Acreditar una experiencia probada en actividades de defensa, teniendo en cuenta en particular el cumplimiento por parte del operador de las restricciones a la exportación, cualquier resolución judicial en esta materia, la autorización de producción o comercialización de material de defensa y la contratación de personal directivo experimentado.
+
+b) Demostrar una actividad industrial en lo relativo a material de defensa dentro de la Unión Europea, especialmente la capacidad de integración de sistemas y subsistemas.
+
+c) Nombrar a un ejecutivo dentro de la empresa que debe ser personalmente responsable del programa interno de cumplimiento o sistema de gestión de las transferencias y exportaciones aplicado en la empresa y del personal encargado del control de las transferencias y exportaciones. Dicho ejecutivo deberá ser miembro del órgano de dirección de la empresa. Su posición no debe presentar un conflicto de intereses.
+
+d) Presentar un compromiso escrito, firmado por la persona física responsable citada en el párrafo anterior, según el cual el operador tomará todas las medidas necesarias para cumplir y hacer cumplir todas las condiciones relacionadas con el uso final y la exportación de los productos o componentes recibidos. Además, la empresa informará de manera detallada a la Secretaría de Estado de Comercio en lo concerniente a los usuarios o el uso final de todos los productos exportados, transferidos o recibidos por la empresa conforme a una licencia general de transferencia de otro Estado miembro, y proporcionará con la debida diligencia a los órganos competentes de la Agencia Estatal de Administración Tributaria información detallada en respuesta a requerimientos o investigaciones concernientes a las mismas materias.
+
+e) Acompañar a la solicitud de certificación una descripción, refrendada por la persona responsable citada en la letra c), del programa interno de cumplimiento o del sistema de gestión de las transferencias y exportaciones aplicado por el operador. Esta descripción deberá detallar los recursos organizativos, humanos y técnicos asignados a la gestión de las transferencias y exportaciones, la cadena de responsabilidades en la estructura del operador, los procedimientos internos de auditoría, la formación del personal, las disposiciones de seguridad física y técnica, la administración de registros y el seguimiento de las transferencias y exportaciones.
+
+8\. Las certificaciones mencionadas en el apartado 7 contendrán la siguiente información:
+
+a) La autoridad competente que emite la autorización, que es el titular de la Secretaría de Estado de Comercio del Ministerio de Economía y Competitividad.
+
+b) El nombre y la dirección del destinatario.
+
+c) Una declaración de conformidad del destinatario con los criterios mencionados en el apartado 7.
+
+d) La fecha de expedición de la certificación y su período de validez.
+
+9\. La solicitud de certificación se realizará mediante el impreso denominado «Modelo de solicitud de certificación para el uso de Licencias Generales» que se incluye en el anexo VI.11.
+
+10\. El modelo de certificado se incluye en el anexo VI.12.
+
+11\. La certificación tendrá un plazo de validez de cinco años. La Secretaría de Estado de Comercio llevará a cabo la comprobación, al menos una vez cada tres años, del cumplimiento por parte del destinatario de los criterios mencionados en el apartado 7. En dicha comprobación se tendrá en cuenta la Recomendación 2011/24/UE de la Comisión, de 11 de enero de 2011, relativa a la certificación de las empresas de defensa, de conformidad con el artículo 9 de la Directiva 2009/43/CE del Parlamento Europeo y del Consejo, sobre la simplificación de los términos y las condiciones de las transferencias de productos relacionados con la defensa dentro de la Comunidad. Si el destinatario dejase de cumplir dichos criterios, se podrá suspender temporalmente, hasta el total cumplimiento de los mismos, o revocar el certificado, comunicándose al destinatario, a la Comisión Europea y a los restantes Estados miembros.
+
+12\. La Secretaría de Estado de Comercio publicará y actualizará una lista de destinatarios certificados a los que se ha autorizado el uso de las Licencias Generales de Transferencia de Material de Defensa, informando al respecto a la Comisión Europea, al Parlamento Europeo y a los restantes Estados miembros.
+
+13\. La Secretaría de Estado de Comercio procederá al reconocimiento de las empresas certificadas o autorizaciones que otros Estados miembros o países del EEE expidan en aplicación del artículo 9 de la Directiva 2009/43/CE del Parlamento Europeo y del Consejo, de 6 de mayo de 2009.
+
+> Se modifican los apartados 4 y 6.e) por el art. único.8 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+#### Artículo 29. Licencia Global de Transferencia de Componentes de Material de Defensa.
+
+1\. La Licencia Global de Transferencia de Componentes de Material de Defensa autoriza al titular para la realización de un número ilimitado de envíos de componentes, subsistemas y recambios de material de defensa, y los servicios asociados a ellos, a uno o varios destinatarios y a uno o varios países de destino, especificados, hasta el valor máximo autorizado y dentro de un plazo de validez de tres años. Previa solicitud razonada del exportador, se podrán autorizar dos prórrogas como máximo con el mismo plazo de validez que la licencia original contado desde la fecha de caducidad de la anterior, para lo cual se deberá tramitar mediante una solicitud de rectificación.
+
+2\. Por «servicios» se entenderán la prueba, inspección, mantenimiento, reparación, entrenamiento, asistencia técnica y suministro de información técnica asociados a la transferencia de los componentes, subsistemas y recambios.
+
+3\. Podrán ser amparadas en este tipo de licencia las operaciones de expedición, definitivas y temporales, de componentes, subsistemas y recambios de material de defensa, y los servicios asociados a ellos, que cumplan las siguientes condiciones:
+
+a) Los componentes, subsistemas y recambios serán los relacionados en la Lista de Componentes que se incluye en el anexo V.1.
+
+b) Los titulares de estas autorizaciones serán personas jurídicas residentes en territorio español.
+
+c) Los usuarios finales de estos envíos serán las Fuerzas Armadas de los Estados que han firmado el Acuerdo Marco de 27 de julio de 2000, que desarrolla la Carta de Intenciones para la reestructuración e integración de la industria de defensa europea, de 8 de julio de 1998, así como aquellas personas jurídicas establecidas en el territorio de cualquiera de los Estados firmantes, siempre que hayan sido reconocidas como beneficiarias en el uso de la citada licencia por el Estado correspondiente y los componentes, subsistemas y recambios de material de defensa, y los servicios asociados a ellos, sean destinados al uso por sus Fuerzas Armadas. Cada Estado comunicará a los restantes Estados firmantes del Acuerdo Marco la relación de personas jurídicas autorizadas en el uso de la Licencia Global de Transferencia de Componentes de Material de Defensa.
+
+4\. La solicitud se cursará mediante el impreso denominado «Licencia Global de Transferencia de Componentes de Material de Defensa», que se incluye en el anexo VI.13.
+
+5\. El solicitante deberá desglosar las partes del valor máximo total que correspondan a cada empresa y país. Además, deberá definir los componentes, subsistemas y recambios de material de defensa, y los servicios asociados a ellos, que desea expedir o introducir mediante el artículo o subartículo, en su caso, correspondientes de la Lista de Componentes, indicando a su vez el valor monetario de cada uno de ellos.
+
+6\. Se empleará una Licencia Individual de Transferencia de Material de Defensa para autorizar las operaciones de expedición y de exportación de equipos o sistemas de defensa que integren componentes, subsistemas y recambios a países que figuren en la Lista de Destinos Permitidos que se incluye en el anexo V.2.
+
+7\. Antes de proceder a la autorización de operaciones de exportación de equipos o sistemas de defensa que integren componentes, subsistemas y recambios introducidos en el territorio aduanero español mediante el uso de una Licencia Global de Transferencia de Componentes de Material de Defensa a países que no figuren en la Lista de Destinos Permitidos, las autoridades españolas deberán consultar al Estado o Estados de origen de dichos componentes, subsistemas y recambios.
+
+#### Artículo 30. Acuerdo entre el Reino de España, la República Federal de Alemania y la República Francesa, relativo a los controles de exportación en el ámbito de la defensa.
+
+En cumplimiento de los compromisos internacionales adquiridos por España, en particular, en relación con la aplicación del Acuerdo entre el Reino de España, la República Federal de Alemania y la República Francesa, relativo a los controles de exportación en el ámbito de la defensa, hecho en París el 17 de septiembre de 2021, se estipula:
+
+a) Programas intergubernamentales y sus subsistemas: Se podrá autorizar la expedición o la exportación a terceros países en relación con programas de cooperación intergubernamentales y sus subsistemas. Cuando se trate de una iniciativa de un operador español, se informará a las demás autoridades nacionales involucradas en el programa, mucho antes del comienzo de las negociaciones oficiales, de la posibilidad de exportaciones a terceros y se les remitirá la información necesaria para su análisis.
+
+El otorgamiento de las autorizaciones de exportaciones o expediciones referidas a programas de cooperación intergubernamental y sus subsistemas quedarán suspendidas en el caso de que otro Estado parte formule oposición, en tanto la discrepancia no se resuelva en los términos previstos por el propio Acuerdo mediante consultas entre las autoridades nacionales. En este caso, las autoridades españolas informarán a las autoridades del país de destino y, en su caso, a las de las otras partes contratantes, en un plazo máximo de dos meses desde el momento de presentación de la solicitud por el operador. Las autoridades nacionales de los Estados parte afectados organizarán consultas para desbloquear la operación o proponer soluciones alternativas.
+
+b) Productos ligados a la defensa procedentes de la cooperación industrial: Se podrá autorizar una expedición o una exportación a terceros países de los productos vinculados a la defensa procedentes de proyectos de cooperación industrial, en el marco del refuerzo de la integración de sus industrias de defensa.
+
+Cuando se trate de una iniciativa de un operador español, se informará a las demás autoridades nacionales involucradas en el programa, mucho antes del comienzo de las negociaciones oficiales, de la posibilidad de exportaciones a terceros, y se les transferirá la información necesaria para su análisis.
+
+Las autoridades de las diferentes naciones involucradas han de llegar a un acuerdo común, a través de un proceso de reconocimiento gubernamental conjunto, que determine si un proyecto puede considerarse un proyecto de cooperación industrial. Cada proyecto será evaluado de forma individual y debe ser de interés de todas las naciones involucradas, así como contribuir a la integración de sus respectivas industrias de defensa. El proceso de reconocimiento de proyectos no sustituirá al posterior procedimiento de autorización de operaciones de exportación. Este reconocimiento se inicia con la solicitud coordinada, por parte de los socios industriales, a sus respectivas autoridades de control. Dicha solicitud ha de incluir toda la información necesaria. La información enviada por las diferentes empresas a sus respectivas autoridades nacionales ha de ser idéntica. La Secretaría de Estado de Comercio comunicará a la empresa solicitante la resolución tomada entre las diferentes autoridades nacionales. La empresa solicitante ha de notificar a la Secretaría de Estado de Comercio de cualquier cambio en la naturaleza del proyecto.
+
+Una vez aceptado como proyecto admisible, los socios industriales presentarán sus respectivas solicitudes de autorización, haciendo referencia explícita al artículo 30 de este real decreto y a su proyecto. La operación solicitada ha de ajustarse a la descripción del Proyecto.
+
+La decisión de conceder o denegar una autorización para la exportación del artículo final corresponderá al país desde cuyo territorio vaya a realizarse la exportación. Las autorizaciones se otorgarán con arreglo a las respectivas normativas y prácticas nacionales. Ello incluye los requisitos nacionales relativos a la presentación de certificados de último destino, incluidas las disposiciones nacionales sobre requisitos de autorización de reexportación. Las autoridades de los países implicados podrán intercambiar información sobre las solicitudes de autorización en el marco de proyectos de cooperación, de conformidad con su normativa nacional sobre protección de datos.
+
+El otorgamiento de las autorizaciones de exportaciones o expediciones referidas a programas de cooperación industrial quedarán suspendidas, en el caso de que otro Estado parte formule oposición, en tanto la discrepancia no se resuelva en los términos previstos por el propio Acuerdo mediante consultas entre las autoridades nacionales. En este caso, las autoridades españolas informarán a las autoridades del país de destino en un plazo máximo de dos meses desde el momento de presentación de la solicitud por el operador. Las autoridades nacionales de los Estados parte afectados organizarán consultas para desbloquear la operación o proponer soluciones apropiadas. Estos procedimientos se aplicarán a los programas recogidos en el anexo 1 del Acuerdo y sus sucesivas actualizaciones.
+
+c) Principio “de *minimis*”: El material incluido en la Relación de Material de Defensa que figura en el anexo I de este reglamento al margen de programas de cooperación y que vaya a ser integrado en un sistema de armamento se regirá por el “principio de *minimis*”, con la excepción de los productos especificados en el anexo 3 del Acuerdo. Conforme a este principio, cuando la parte de los productos destinados a la integración en un producto de defensa fabricado por la industria de otra de las naciones acogidas al Acuerdo sea inferior al 20 por ciento, se expedirán sin demora las autorizaciones de exportación, transferencia o reexportación correspondientes.
+
+El país desde cuyo territorio se transfiere o exporta el sistema final fuera del territorio de países involucrados en aplicación de este principio, será el encargado de evaluar el cumplimiento de los compromisos comunes asumidos a escala internacional y en el marco de la Unión Europea.
+
+Si la empresa proveedora desea beneficiarse del “principio de *minimis*”, ha de indicarlo en su solicitud de licencia, e indicará la parte pertinente de productos destinados a la integración que habrán de incorporarse al sistema final destinado a ser transferido o exportado. Este porcentaje ha de ser determinado por la empresa integradora final, teniendo en cuenta que el valor total del producto final no incluye ni las actividades de mantenimiento, ni los repuestos, ni la formación, ni las reparaciones.
+
+Las actividades de mantenimiento, las piezas de repuesto, la formación y la reparación de los productos destinados a la integración exportados o transferidos de acuerdo con el “principio de *minimis”* se tratarán como las solicitudes de autorización de exportación o transferencia en el marco del “principio de *minimis*”.
+
+No se requerirá ningún certificado de usuario final o certificado de no reexportación en apoyo de la licencia de transferencia entre las naciones interesadas, pudiéndose solicitar un certificado de integración del producto en el sistema final.
+
+Esta actuación quedará suspendida en el caso de que otro Estado parte formule oposición, en tanto la discrepancia no se resuelva en los términos previstos por el Acuerdo entre el Reino de España, la República Federal de Alemania y la República Francesa, relativo a los controles de exportación en el ámbito de la defensa, hecho en París el 17 de septiembre de 2021.
+
+> Se modifica por el art. único.10 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+> Se añade el apartado 1.e) y se modifica el 2.c) por el art. único.3 y 4 del Real Decreto 494/2020, de 28 de abril. [Ref. BOE-A-2020-4708](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4708)
+
+#### Artículo 31. Modelos de documentos de control aplicables.
+
+1\. De acuerdo con el artículo 4, las solicitudes de las licencias o autorizaciones previstas en los artículos anteriores, para la realización de transferencias de material de defensa, de otro material y de productos y tecnologías de doble uso, deberán ir acompañadas, en cada caso, de alguno de los originales de los siguientes documentos de control:
+
+a) “Certificado Internacional de Importación” o documento equivalente: Emitido por las autoridades competentes del país importador o introductor para exportaciones y expediciones de material de defensa de uso militar incluido en la Lista de Armas de Guerra que figura en el anexo III.1 y de otro material incluido en el anexo II.2, con destino a cualquiera de los países que aparecen en el anexo V.2.
+
+b) “Certificado de Último Destino”: Emitido por las autoridades competentes del país importador o introductor para exportaciones y expediciones del material de defensa de uso militar incluido en la Lista de Armas de Guerra que figura en el anexo III.1 y de otro material (anexo II.2) con destino a países que no figuran en el anexo V.2. El Certificado de Último Destino lo emite la autoridad competente del país donde va destinada la mercancía y puede ser legalizado de acuerdo con la normativa vigente en la materia, bien por vía diplomática o bien mediante legalización con la Apostilla de la Haya si el país está adherido a la misma. En el caso de ser legalizado por vía diplomática, se podrá legalizar por la representación de España en el país emisor o por la representación del estado emisor en España. En ambos casos, el trámite deberá realizarlo un diplomático con firma registrada en la sección de Legalizaciones del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación. Los documentos de esta naturaleza requieren además una legalización ulterior por parte del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+
+c) “Declaración de Último Destino” para productos y tecnologías de doble uso: Emitida por el destinatario final para exportaciones o expediciones y, para importaciones o introducciones en su caso, de productos y tecnologías de doble uso, según el modelo del anexo VI.20 o documento equivalente. En el caso de transferencias de productos químicos incluidas en la Lista 3 a Estados no parte de la Convención para la Prohibición de las Armas Químicas y en los casos que la JIMDDU así lo considere, esta “Declaración de Último Destino” deberá ir visada por las autoridades del Estado destinatario de los productos.
+
+d) “Declaración de Último Destino” para productos incluidos en el anexo II.1 y material de defensa: Se emitirá por el destinatario final para las exportaciones de armas de fuego de uso civil, sus piezas y componentes esenciales y municiones incluidas en el anexo II.1 y para exportaciones y expediciones de material de defensa no incluido en la Lista de Armas de Guerra del anexo III.1, según el modelo del anexo VI.21 o documento equivalente. En los casos que la JIMDDU así lo considere, esta “Declaración de Último Destino” deberá ir visada por las autoridades competentes del Estado destinatario de los productos.
+
+En los certificados y declaraciones de último destino se hará constar, como mínimo, el compromiso de importar o introducir el producto o la tecnología en el país de destino y de no reexportarlo o reexpedirlo sin la autorización previa, por escrito, de las autoridades competentes y de aplicarlo al uso final declarado.
+
+Cuando el producto que se desea exportar o expedir incorpore materiales previamente importados o introducidos que incluyan condiciones de uso o destino finales especificados en un Certificado de Último Destino, el operador deberá acreditar previamente ante la Dirección General de Armamento y Material del Ministerio de Defensa el levantamiento de tales condiciones por parte de las autoridades del país de origen de los materiales.
+
+No obstante lo establecido en el apartado 1, se podrá eximir al exportador de la presentación de los documentos mencionados, o exigir otros documentos.
+
+Las solicitudes de las operaciones de expedición de componentes, subsistemas y recambios de material de defensa, y los servicios asociados a ellos, derivadas del uso de una Licencia Global de Transferencia de Componentes de Material de Defensa o de una Licencia General para Transferencias Intracomunitarias de Material de Defensa no irán acompañadas de documento de control del uso final, siempre que dichos componentes, subsistemas y recambios estén destinados a ser integrados en equipos y sistemas de defensa o para sustituir otros componentes o subsistemas expedidos con anterioridad.
+
+2\. En lo referente a las operaciones de importación e introducción de material de defensa y de productos y tecnologías de doble uso, cuando las autoridades de algún país lo requieran para el control de sus exportaciones y expediciones, se podrán emitir los siguientes documentos:
+
+a) «Certificado Internacional de Importación»: emitido por la Dirección General de Armamento y Material del Ministerio de Defensa para las importaciones e introducciones de material de defensa, según el modelo del anexo VI.16.
+
+b) «Certificado Internacional de Importación»: emitido por la Secretaría de Estado de Comercio del Ministerio de Economía y Competitividad para importaciones e introducciones de productos y tecnologías de doble uso, según el modelo del anexo VI.17.
+
+c)“Certificado de último destino”: emitido por la Dirección General de Armamento y Material del Ministerio de Defensa para las importaciones e introducciones de material de defensa, según el modelo del anexo VI.18, o certificado de usuario final emitido por el país exportador, previa solicitud según el modelo del anexo VI.19.
+
+3\. En los casos en que así lo requiera la JIMDDU, se podrá exigir la documentación acreditativa de que el material de defensa, el otro material o los productos y tecnologías de doble uso objeto de la operación ha sido importado o introducido en el territorio del país de destino. Esta documentación consistirá en un certificado de entrada o en un documento aduanero equivalente de despacho a consumo. Asimismo, el Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria podrá emitir, si así se requiere por parte de una autoridad de un país exportador, un Certificado de Verificación de Entrada según el modelo del anexo VI.22.
+
+4\. Estos documentos no podrán ser cedidos a terceros y tendrán, a los efectos de su presentación a las autoridades del país de origen, un plazo de validez de seis meses.
+
+> Se modifica y se renumera por el art. único.9 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+> Su anterior numeración era art. 30.
+
+#### Artículo 32. Tramitación.
+
+1\. La tramitación de las autorizaciones administrativas y los acuerdos previos referidos en este reglamento se iniciará mediante la presentación del impreso de solicitud correspondiente debidamente cumplimentado, o carta en el caso de la Autorización General, en el Registro General del Ministerio de Economía y Competitividad o en las Direcciones Territoriales y Provinciales de Comercio, pudiendo presentarse, asimismo, en cualquiera de los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, modificada por la Ley 4/1999, de 13 de enero. Dichas solicitudes y su tramitación podrá ser realizada por medios telemáticos a través de las sedes y registros electrónicos habilitados para tal fin por Orden ECC/523/2013, de 26 de marzo, por la que se crea y regula el Registro electrónico del Ministerio de Economía y Competitividad.
+
+2\. Las Autorizaciones Administrativas y los Acuerdos Previos se deberán acompañar de la documentación técnica necesaria en los casos en que la Secretaría de Estado de Comercio lo considere oportuno.
+
+3\. El otorgamiento o denegación de las autorizaciones administrativas y de los acuerdos previos a que se refiere el apartado anterior será competencia del titular de la Secretaría de Estado de Comercio, previo informe de la JIMDDU en virtud de los artículos 5 y 18. La facultad de resolución y firma de los documentos correspondientes podrá ser delegada de acuerdo con los términos de la Ley 30/1992, de 26 de noviembre.
+
+4\. Cuando, una vez otorgada la licencia, se produzcan modificaciones en las circunstancias de la operación dentro de su plazo de validez, el titular de la Secretaría de Estado de Comercio, previo informe de la JIMDDU, podrá autorizar la rectificación de los requisitos o condiciones particulares de la licencia, que afecten únicamente al valor, la aduana y al plazo de validez de la licencia. El plazo de validez de la rectificación será el mismo que el de la licencia original contado desde que se produzca la caducidad de la licencia en vigor. Se podrán solicitar como máximo dos rectificaciones sobre la licencia original.
+
+5\. Las solicitudes de rectificación se cumplimentarán mediante el impreso denominado «Licencia de Transferencia de Material de Defensa y de Doble Uso» o «Licencia Global de Proyecto de Transferencia de Material de Defensa», incluidas en los anexos VI.1, VI.6 respectivamente.
+
+6\. La autorización del régimen aduanero solicitada estará condicionada a la presentación de las autorizaciones administrativas preceptivas que deberán estar a disposición de la Aduana. No obstante, las solicitudes a las que se refiere este reglamento y su tramitación podrán ser realizadas por medios telemáticos a través de las sedes y registros electrónicos habilitados para tal fin.
+
+7\. La Secretaría de Estado de Comercio comunicará por vía electrónica a la Agencia Estatal de Administración Tributaria los datos relativos a las autorizaciones administrativas emitidas que deban ser presentadas ante la Aduana. Tal comunicación eximirá de su presentación por el solicitante, salvo que el despacho aduanero sea con análisis documental o físico.
+
+8\. Las comunicaciones de información que deba realizar la Agencia Estatal de Administración Tributaria a la Secretaría de Estado de Comercio en aplicación de este reglamento se realizarán por medios electrónicos.
+
+9\. La Secretaría de Estado de Comercio y la Agencia Estatal de Administración Tributaria acordarán los procedimientos informáticos oportunos para la aplicación de este reglamento.
+
+> Se añade y se renumera por el art. único.11 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+> Su anterior numeración era art. 31.
+
+## ANEXO I — RELACIÓN DE MATERIAL DE DEFENSA
+
+Criterios para la interpretación y aplicación del anexo:
+
+*1. La descripción de un artículo de las listas se refiere tanto al nuevo como al usado.*
+
+*2. Cuando la descripción de un material de las listas no contiene calificaciones ni especificaciones, se considera que incluye todas las variedades de ese artículo. Los títulos de las categorías y subcategorías sólo tienen por objeto facilitar la consulta y no afectan a la interpretación de las definiciones de los artículos.*
+
+*3. El objeto de los controles de exportación no deberá invalidarse por la exportación de un material no sometido a control (incluidas las instalaciones) que contenga uno o varios componentes sometidos a control cuando el componente o componentes constituyan un elemento principal del artículo y sea factible su remoción o su utilización con otros fines.*
+
+*NOTA: Al juzgar si el componente o componentes sometidos a control ha de considerarse un elemento principal, deberán ponderarse los factores de cantidad, valor y conocimientos tecnológicos implicados, así como otras circunstancias especiales de las que pudiera derivarse que el componente o componentes sometidos a control son un elemento principal del material adquirido.*
+
+*4. El objeto del control no deberá invalidarse por la exportación de componentes.*
+
+*5. Las definiciones y terminología incluidas en los anexos I, II, III, IV y V.1 se entenderán únicamente a efectos de dichos anexos del presente Real Decreto.*
+
+> Se modifica por el art. único y Anexo I de la Orden ECC/1493/2016, de 19 de septiembre. [Ref. BOE-A-2016-8633](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8633).
+
+## ANEXO I.1 — MATERIAL DE DEFENSA EN GENERAL
+
+*Nota 1: Los términos que aparecen entre comillas dobles (“ ”) en el presente anexo se encuentran definidos en el Apéndice de Definiciones. Los términos que aparecen entre comillas simples (‘ ’) se encuentran definidos en el correspondiente artículo.*
+
+*Nota 2: En algunos casos, los productos químicos se listan por nombre y número de registro del Chemical Abstracts Service (CAS). La lista se aplica a los productos químicos con la misma fórmula estructural (incluidos los hidratos), independientemente del nombre o del número CAS. Los números CAS se muestran para ayudar a identificar un producto químico o una mezcla particular, independientemente de su nomenclatura. Los números CAS no pueden utilizarse como identificadores únicos porque algunas formas de los productos químicos listados tienen números CAS diferentes y las mezclas que contienen un producto químico listado también pueden tener números CAS diferentes.*
+
+*Nota 3: La «Lista de productos de doble uso de la UE» hace referencia al anexo I del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, por el que se establece un régimen de la Unión para el control de las exportaciones, el corretaje, la asistencia técnica, el tránsito y la transferencia de productos de doble uso.*
+
+*Nota 4: Todas las referencias a otros artículos o subartículos que aparecen en este anexo I.1 se entenderán de este anexo I.1 salvo referencia expresa a otro anexo o lista de productos.*
+
+**ML1 Armas con cañón de ánima lisa con un calibre inferior a 20 mm, otras armas de fuego y armas automáticas con un calibre de 12,7 mm (calibre de 0,50 pulgadas) o inferior y accesorios, según se indica, y componentes diseñados especialmente para ellas:**
+
+*Nota: El artículo ML1 no se aplica a lo siguiente:*
+
+*a. Las armas de fuego diseñadas especialmente para municiones inertes de instrucción y que sean incapaces de disparar proyectiles;*
+
+*b. Las armas de fuego diseñadas especialmente para el lanzamiento de proyectiles retenidos por cables sin carga explosiva elevada ni enlace de comunicaciones, en un alcance inferior o igual a 500 m;*
+
+*c. Las armas que utilicen municiones con casquillo de percusión no central y que no sean totalmente automáticas.*
+
+*d. ‘Armas inutilizadas’.*
+
+*Nota técnica:*
+
+*A efectos del artículo ML1, nota d., un ‘arma inutilizada’ es un arma que ha sido privada de la capacidad de disparar proyectil alguno mediante los procesos definidos por la autoridad nacional del Estado miembro de la UE o del Estado participante en el Arreglo de Wassenaar. Estos procesos modifican de manera irreversible las piezas esenciales del arma de fuego. De conformidad con las disposiciones legales y reglamentarias nacionales, la desactivación del arma de fuego puede acreditarse mediante certificado expedido por una autoridad nacional y puede indicarse en el arma mediante marcado en una de las piezas esenciales.*
+
+a) Fusiles y armas combinadas, armas cortas, ametralladoras, fusiles ametralladoras y armas multitubo;
+
+*Nota: El subartículo ML1.a no se aplica a lo siguiente:*
+
+*a. Fusiles y armas combinadas, manufacturados con anterioridad a 1938;*
+
+*b. Reproducciones de fusiles y armas combinadas, cuyos originales hayan sido manufacturados con anterioridad a 1890;*
+
+*c. Escopetas, armas multitubo y ametralladoras manufacturadas con anterioridad a 1890 y sus reproducciones;*
+
+*d. Fusiles o armas cortas, diseñados especialmente para disparar proyectiles inertes con aire comprimido o CO<sub>2</sub>.*
+
+*e. Armas cortas diseñadas especialmente para cualquiera de los siguientes usos:*
+
+*1. Sacrificio de animales domésticos, o*
+
+*2. Sedación de animales;*
+
+b) Armas con cañón de ánima lisa, según se indica:
+
+1\. Armas con cañón de ánima lisa diseñadas especialmente para uso militar;
+
+2\. Otras armas con cañón de ánima lisa, según se indica:
+
+a. Armas de tipo totalmente automático;
+
+b. Armas de tipo semiautomático o de bombeo/corredera;
+
+*Nota: El subartículo ML1.b.2 no se aplica a las armas diseñadas especialmente para disparar proyectiles inertes con aire comprimido o CO<sub>2</sub>.*
+
+*Nota: El subartículo ML1.b no se aplica a lo siguiente:*
+
+*a. Armas con cañón de ánima lisa manufacturadas con anterioridad a 1938;*
+
+*b. Reproducciones de armas con cañón de ánima lisa cuyos originales fueron manufacturados con anterioridad a 1890;*
+
+*c. Armas con cañón de ánima lisa usadas en el tiro deportivo o en la caza. Estas armas no deben estar diseñadas especialmente para el uso militar ni ser de tipo totalmente automático;*
+
+*d. Armas con cañón de ánima lisa diseñadas especialmente para cualquiera de los usos siguientes:*
+
+*1. Sacrificio de animales domésticos;*
+
+*2. Sedación de animales;*
+
+*3. Ensayos sísmicos;*
+
+*4. Disparo de proyectiles industriales; o*
+
+*5. Desactivación de dispositivos explosivos improvisados.*
+
+*N.B.: Para los desactivadores, véanse el artículo ML4 y el artículo 1A006 en la Lista de Productos de Doble Uso de la UE.*
+
+c) Armas que utilizan municiones sin vaina;
+
+d) Accesorios diseñados para las armas contempladas en los subartículos ML1.a, ML1.b o ML1.c, según se indica:
+
+1\. Cargadores extraíbles de cartuchos;
+
+2\. Supresores o moderadores del ruido;
+
+3\. ‘Afustes de armas’;
+
+*Nota técnica:*
+
+*A efectos del subartículo Ml1.d.3, los 'afustes de armas' son dispositivos diseñados para fijar, sujetar o montar armas en un vehículo de terrestre, “aeronave”, buque o estructura.*
+
+4\. Bocacha apagallamas;
+
+5\. Visores ópticos con procesado electrónico de imagen;
+
+6\. Visores ópticos diseñados especialmente para uso militar.
+
+**ML2 Armas con cañón de ánima lisa con un calibre igual o superior a 20 mm, otras armas o armamento con un calibre superior a 12,7 mm (calibre de 0,50 pulgadas), lanzadores diseñados especialmente o modificados para uso militar y accesorios, según se indica, y componentes diseñados especialmente para ellos:**
+
+a) Armas de fuego (incluidas las piezas de artillería), obuses, cañones, morteros, armas contracarro, lanzaproyectiles, lanzallamas, fusiles, fusiles sin retroceso y armas de ánima lisa;
+
+*Nota 1: El subartículo ML2.a incluye inyectores, aparatos de medida, tanques de almacenamiento y otros componentes diseñados especialmente para ser usados con cargas propulsoras líquidas para cualquiera de los equipos especificados en el subartículo ML2.a.*
+
+*Nota 2: El subartículo ML2.a no se aplica a las armas siguientes:*
+
+*a. Fusiles, armas con cañón de ánima lisa y armas combinadas, manufacturados con anterioridad a 1938.*
+
+*b. Reproducciones de fusiles, armas con cañón de ánima lisa y armas combinadas, cuyos originales hayan sido manufacturados con anterioridad a 1890.*
+
+*c. Armas de fuego (incluidas las piezas de artillería), obuses, cañones y morteros, manufacturados con anterioridad a 1890.*
+
+*d. Armas con cañón de ánima lisa usadas en el tiro deportivo o en la caza. Estas armas no deben estar diseñadas especialmente para el uso militar ni ser de tipo totalmente automático.*
+
+*e. Armas con cañón de ánima lisa diseñadas especialmente para cualquiera de los usos siguientes:*
+
+*1. Sacrificio de animales domésticos;*
+
+*2. Sedación de animales;*
+
+*3. Ensayos sísmicos;*
+
+*4. Disparo de proyectiles industriales, o*
+
+*5. Desactivación de dispositivos explosivos improvisados.*
+
+*N.B.: Para los desactivadores, véanse el artículo ML4 y el artículo 1A006 en la Lista de Productos de Doble Uso de la UE.*
+
+*6. Lanzadores portátiles de proyectiles diseñados especialmente para el lanzamiento de proyectiles retenidos por cables sin carga explosiva elevada ni enlace de comunicaciones, en un radio inferior o igual a 500 m.*
+
+b) Lanzadores, diseñados especialmente o modificados para uso militar, según se indica:
+
+1\. Lanzadores para botes de humo;
+
+2\. Lanzadores para cartuchos de gas;
+
+3\. Lanzadores de pirotécnicos.
+
+*Nota: El subartículo ML2.b no se aplica a las pistolas de señalización.*
+
+c) Accesorios diseñados especialmente para las armas especificadas en el subartículo ML2.a, según se indica:
+
+1\. Visores y monturas para visores, diseñados especialmente para uso militar;
+
+2\. Dispositivos para la reducción de firma;
+
+3\. Soportes o monturas;
+
+4\. Cargadores de cartuchos extraíbles.
+
+d) Sin uso desde 2019.
+
+**ML3 Municiones y dispositivos para el armado de espoletas, según se indica, y componentes diseñados especialmente para ellos:**
+
+a) Munición para las armas especificadas por los artículos ML1, ML2 o ML12;
+
+b) Dispositivos para el armado de espoletas diseñadas especialmente para la munición especificada por el subartículo ML3.a.
+
+*Nota 1: Los componentes especialmente diseñados especificados en el artículo ML3 incluyen:*
+
+*a. Las piezas de metal o plástico, como los yunques de cebo, las vainas para balas, los eslabones de cartucho, las cintas y las piezas metálicas para municiones;*
+
+*b. Los dispositivos de seguridad y de armado, las espoletas, los sensores y los dispositivos de iniciación;*
+
+*c. Las fuentes de alimentación de elevada potencia de salida de un solo uso operativo;*
+
+*d. Las vainas combustibles para cargas;*
+
+*e. Las submuniciones, incluidas pequeñas bombas, pequeñas minas y proyectiles con guiado final.*
+
+*Nota 2: El subartículo ML3.a no se aplica a lo siguiente:*
+
+*a. Municiones engarzadas sin proyectil (cartuchos de fogueo);*
+
+*b. Municiones para instrucción inertes con vaina perforada;*
+
+*c. Otras municiones inertes o de fogueo, que no incorporen componentes diseñados para munición real; o*
+
+*d. Componentes diseñados especialmente para munición inerte o de fogueo, especificados en la presente Nota 2, letras a, b o c.*
+
+*Nota 3: El subartículo ML3.a no se aplica a los cartuchos diseñados especialmente para cualquiera de los siguientes propósitos:*
+
+*a. Señalización;*
+
+*b. Para espantar pájaros; o*
+
+*c. Encendido de antorchas de gas en pozos de petróleo.*
+
+**ML4 Bombas, torpedos, cohetes, misiles, otros dispositivos y cargas explosivas, y equipos y accesorios relacionados, según se indica, y los componentes diseñados especialmente para ellos:**
+
+*N.B.1: Para equipos de guiado y navegación, véase el artículo ML11.*
+
+*N.B.2: Para los Sistemas de Protección de Misiles para Aeronaves (AMPS), véase el subartículo ML4.c.*
+
+a) Bombas, torpedos, granadas, botes de humo, cohetes, minas, misiles, cargas de profundidad, cargas de demolición, dispositivos de demolición, equipos de demolición, “productos pirotécnicos”, cartuchos, submuniciones para los mismos y simuladores (es decir, equipo que simule las características de cualquiera de estos materiales), diseñados especialmente para uso militar;
+
+*Nota: El subartículo ML4.a incluye:*
+
+*a. Granadas fumígenas, bombas de fuego, bombas incendiarias y dispositivos explosivos;*
+
+*b. Toberas de cohetes o misiles y puntas de ojiva de vehículos de reentrada.*
+
+*N.B.: Para munición con granada o de metralla para armas o lanzadores especificados en ML1 o ML2 y submuniciones diseñadas especialmente para municiones, véase el artículo ML3.*
+
+b) Equipos con todas las características siguientes:
+
+1\. Diseñados especialmente para uso militar; y
+
+2\. Diseñados especialmente para 'actividades' relacionadas con cualquiera de los siguientes elementos:
+
+a. Artículos especificados en el subartículo ML4.a; o
+
+b. Dispositivos Explosivos Improvisados (IEDs, por sus siglas en inglés).
+
+*Nota técnica:*
+
+*A efectos del subartículo ML4.b.2, se entiende por 'actividades' la manipulación, lanzamiento, tendido, colocación, control, descarga, detonación, activación, cebado, alimentación de potencia de salida de un solo uso operativo, señuelo, perturbación, dragado, detección, desactivación o eliminación.*
+
+*Nota 1: El subartículo ML4.b incluye:*
+
+*a. Equipos móviles para licuar gas;*
+
+*b. Los cables eléctricos conductores flotantes que puedan servir para barrer minas magnéticas.*
+
+*Nota 2: El subartículo ML4.b no se aplica a los dispositivos portátiles limitados por diseño exclusivamente para la detección de objetos metálicos e incapaces de distinguir entre minas y otros objetos metálicos.*
+
+c) Sistemas de Protección Antimisiles para Aeronaves (AMPS).
+
+*Nota: El subartículo ML4.c no se aplica a los que tengan todas las características siguientes:*
+
+*a. Cualquiera de los siguientes sensores de alerta de misil:*
+
+*1. Sensores pasivos con un nivel máximo de respuesta situado entre 100 y 400 nm; o*
+
+*2. Sensores activos de alerta de misil de efecto Doppler pulsado;*
+
+*b. Sistemas de dispensador de contramedidas;*
+
+*c. Bengalas, que tengan a la vez una firma visible y una firma infrarroja, para el señuelo de misiles tierra-aire; y,*
+
+*d. Los instalados en una “aeronave civil” y que tengan todas las características siguientes:*
+
+*1. El AMPS solo es operativo en una “aeronave civil” específica en la que esté instalado el AMPS específico y para el cual se haya expedido alguno de los siguientes documentos:*
+
+*a. Un certificado de tipo civil expedido por las autoridades de aviación civil de uno o más Estados miembros de la UE o Estados participantes en el Arreglo de Wassenaar; o*
+
+*b. Un documento equivalente reconocido por la Organización de Aviación Civil Internacional (OACI);*
+
+*2. El AMPS dispone de una protección para impedir el acceso no autorizado al “software”; y*
+
+*3. El AMPS incorpora un mecanismo activo que impide el funcionamiento del sistema cuando este se retira de la “aeronave civil” en la que esté instalado.*
+
+*Nota aclaratoria: Los materiales no incluidos en el presente artículo pueden, sin embargo, estar sometidos a control en el anexo II del presente Reglamento.*
+
+**ML5 Sistemas de dirección de tiro, vigilancia y alerta, y sistemas relacionados, equipo de ensayo, de alineación y de contramedidas, según se indica, diseñados especialmente para uso militar, así como los componentes y accesorios diseñados especialmente para ellos:**
+
+a) Visores de armas, ordenadores de bombardeo, equipo de puntería para cañones y sistemas de control para armas;
+
+b) Otros sistemas de dirección de tiro, vigilancia y alerta, y sistemas relacionados, según se indica:
+
+1\. Sistemas de adquisición, de designación, de indicación de alcance, de vigilancia o de seguimiento de blanco;
+
+2\. Equipo de detección, reconocimiento o identificación;
+
+3\. Equipo de fusión de datos o de integración de sensores;
+
+c) Equipos de contramedidas para el material especificado en los subartículos ML5.a o ML5.b
+
+*Nota: A efectos del subartículo ML5.c, los equipos de contramedidas incluyen los equipos de detección.*
+
+d) Equipo de prueba o alineación sobre el terreno, diseñado especialmente para el material especificado en los subartículos ML5.a, ML5.b o ML5.c.
+
+*Nota aclaratoria: Los materiales no incluidos en el presente artículo pueden, sin embargo, estar sometidos a control en el anexo II de este Reglamento.*
+
+**ML6 Vehículos terrestres y componentes, según se indica:**
+
+*N.B.: Para equipos de guiado y navegación, véase el artículo ML11.*
+
+a) Vehículos terrestres y componentes para ellos, diseñados especialmente o modificados para uso militar;
+
+*Nota 1: El subartículo ML6.a incluye:*
+
+*a. Carros y otros vehículos militares armados y vehículos militares equipados con soportes para armas o equipos para el sembrado de minas o el lanzamiento de municiones especificadas en el artículo ML4;*
+
+*b. Vehículos blindados;*
+
+*c. Vehículos anfibios y vehículos que puedan vadear aguas profundas;*
+
+*d. Vehículos de recuperación y vehículos para remolcar o transportar municiones o sistemas de armas y equipo de manipulación de carga relacionado;*
+
+*e. Remolques.*
+
+*Nota 2: La modificación de un vehículo terrestre para uso militar especificado en el subartículo ML6.a conlleva un cambio estructural, eléctrico o mecánico que afecte a uno, o más, componentes diseñados especialmente para uso militar. Tales componentes incluyen:*
+
+*a. Cubiertas neumáticas diseñadas especialmente para ser a prueba de bala;*
+
+*b. Protección blindada de partes vitales (por ejemplo, tanques de combustible o cabinas de vehículos);*
+
+*c. Refuerzos o monturas especiales para armas;*
+
+*d. Iluminación velada.*
+
+b) Otros vehículos terrestres y componentes, según se indica:
+
+1\. Vehículos que cumplan con todas las características siguientes:
+
+a. Manufacturados o acondicionados con materiales o componentes para proporcionarles protección balística a nivel III (NIJ 0108.01, septiembre de 1985, o “normas equivalentes”);
+
+b. Con tracción simultánea en las ruedas delanteras y traseras, incluidos los vehículos que tengan ruedas adicionales para soportar la carga, con independencia de que estas últimas tengan o no tracción;
+
+c. Vehículos de masa máxima técnicamente admisible (GVWR, por sus siglas en inglés) superior a 4.500 kg; y
+
+d. Vehículos diseñados o modificados para uso todo terreno;
+
+2\. Componentes que cumplan con todas las características siguientes:
+
+a. Diseñados especialmente para los vehículos especificados en el subartículo ML6.b.1.; y
+
+b. Con una protección balística de nivel III (NIJ 0108.01, septiembre de 1985), o “normas equivalentes”.
+
+*N.B.: Véase también el subartículo ML13.a.*
+
+*Nota 1: El artículo ML6 no se aplica a vehículos civiles diseñados o modificados para el transporte de dinero o valores.*
+
+*Nota 2: El artículo ML6 no se aplica a los vehículos que tengan todas las características siguientes:*
+
+*a. Que hayan sido manufacturados con anterioridad a 1946;*
+
+*b. Que no incluyan artículos especificados en la Lista Común Militar de la UE y manufacturados con posterioridad a 1945, salvo que se trate de reproducciones de componentes y accesorios para el vehículo; y*
+
+*c. Que no incorporen armas especificadas en los artículos ML1, ML2 o ML4, a menos que no funcionen ni puedan disparar proyectiles.*
+
+**ML7 Agentes químicos, “agentes biológicos”, “agentes de control antidisturbios” (RCA, por sus siglas en inglés), materiales radiactivos, equipos, componentes y materiales relacionados, según se indica:**
+
+a) “Agentes biológicos” o materiales radiactivos seleccionados o modificados a fin de aumentar su eficacia para producir bajas en la población o en los animales, degradar equipos o dañar las cosechas o el medio ambiente.
+
+b) Agentes para la guerra química (CW, por sus siglas en inglés), incluyendo:
+
+1\. Agentes nerviosos para la guerra química:
+
+a. Alquil (metil, etil, n-propil o isopropil) –fosfonofluoridatos de O-alquilo (≤ C<sub>10</sub>, incluidos los cicloalquilos), tales como:
+
+Sarín (GB): metilfosfonofluoridato de O-isopropilo (CAS 107-44-8); y
+
+Somán (GD): metilfosfonofluoridato de O-pinacolilo (CAS 96-64-0);
+
+b. N, N-dialquil (metil, etil, n-propil o isopropil) fosforamidocianidatos de O-alquilo (≤ C<sub>10</sub>, incluidos los cicloalquilos), tales como:
+
+Tabún (GA): N, N-dimetilfosforamidocianidato de O-etilo (CAS 77-81-6);
+
+c. Alquil (metil, etil, n-propil o isopropil) fosfonotiolatos de O-alquilo (H o ≤ C<sub>10</sub>, incluyendo los cicloalquilos) y de S-2-dialquil (metil, etil, n-propil o isopropil) aminoetilalquilo (metilo, etilo, npropiol o isopropilo) y sales alquiladas y protonadas correspondientes, tales como:
+
+VX: Metilfosfonotiolato de O-etilo y de S-2-diisopropilaminoetilo (CAS 50782-69-9);
+
+2\. Agentes vesicantes para guerra química:
+
+a. Mostazas de azufre, tales como:
+
+1\. Clorometilsulfuro de 2-cloroetilo (CAS 2625-76-5);
+
+2\. Sulfuro de bis (2-cloroetilo) (CAS 505-60-2);
+
+3\. Bis (2-cloroetiltio) metano (CAS 63869-13-6);
+
+4\. 1,2-bis (2-cloroetiltio) etano (CAS 3563-36-8);
+
+5\. 1,3-bis (2-cloroetiltio)-n-propano (CAS 63905-10-2);
+
+6\. 1,4-bis (2-cloroetiltio)-n-butano (CAS 142868-93-7);
+
+7\. 1,5-bis (2-cloroetiltio)-n-pentano (CAS 142868-94-8);
+
+8\. Bis (2-cloroetiltiometil) éter (CAS 63918-90-1);
+
+9\. Bis (2-cloroetiltioetil) éter (CAS 63918-89-8);
+
+b. Levisitas, tales como:
+
+1\. 2-clorovinildicloroarsina (CAS 541-25-3);
+
+2\. Tris (2-clorovinil) arsina (CAS 40334-70-1);
+
+3\. Bis (2-clorovinil) cloroarsina (CAS 40334-69-8);
+
+c. Mostazas nitrogenadas, tales como:
+
+1\. HN1: bis (2-cloroetil) etilamina (CAS 538-07-8);
+
+2\. HN2: bis (2-cloroetil) metilamina (CAS 51-75-2);
+
+3\. HN3: tris (2-cloroetil) amina (CAS 555-77-1);
+
+3\. Agentes incapacitantes para la guerra química, tales como:
+
+a. Bencilato de 3-quinuclidinilo (BZ) (CAS 6581-06-2);
+
+4\. Agentes defoliantes para la guerra química, tales como:
+
+a. Butil 2-cloro-4-fluorofenoxiacetato (LNF);
+
+b. Ácido 2, 4, 5-triclorofenoxiacético (CAS 93-76-5) mezclado con ácido 2, 4- diclorofenooxiacético (CAS 94-75-7) [Agente naranja (CAS 39277-47-9)];
+
+c) Precursores binarios y precursores claves de agentes para la guerra química, según se indica:
+
+1\. Difluoruros de alquil (metil, etil, n-propil o isopropil) fosfonilo, tales como:
+
+DF: Difluoruro de metilfosfonilo (CAS 676-99-3);
+
+2\. Alquil(metil, etil, n-propil o isopropil) fosfonotiolatos de O-alquilo (H o ≤ C<sub>10</sub>, incluidos los cicloalquilos) y de S-2-dialquilo (metil, etil, n-propil o isopropil) aminoetilalquilo (metilo, etilo, npropilo o isopropilo) y sales alquiladas y protonadas correspondientes, tales como:
+
+QL: Metilfosfonito de O-etil-2-di-isopropilaminoetilo de O-etilo (CAS 57856-11-8);
+
+3\. Clorosarín: Metilfosfonocloridato de O-isopropilo (CAS 1445-76-7);
+
+4\. Clorosomán: Metilfosfonocloridato de O-pinacolilo (CAS 7040-57-5);
+
+d) “Agentes de control antidisturbios” (RCAs), componentes químicos activos y combinaciones de ellos, incluidos
+
+1\. α-bromobencenoacetonitrilo (Cianuro de bromobencilo), (CA) (CAS 5798-79-8);
+
+2\. [(2-clorofenil)metileno] propanodinitrilo, (o-clorobencilidenemalononitrilo) (CS) (CAS 2698-41-1);
+
+3\. 2-cloro-1-feniletanona, cloruro de fenilacilo (ω-cloroacetofenona) (CN) (CAS 532-27-4);
+
+4\. Dibenzo-(b, f)-1, 4-oxazepina (CR) (CAS 257-07-8);
+
+5\. 10-cloro-5,10-dihidrofenarsacina, (Cloruro de fenarsacina), (Adamsita), (DM) (CAS 578-94-9);
+
+6\. N-nonanoilmorfolina, (MPA) (CAS 5299-64-9);
+
+*Nota 1. El subartículo ML7.d, no se aplica a los “agentes antidisturbios” empaquetados individualmente para fines de defensa personal.*
+
+*Nota 2. El subartículo ML7.d, no se aplica a los constituyentes activos químicos, ni a las combinaciones de ellos, identificados y empaquetados para producción de alimentos o fines médicos.*
+
+e) Equipos diseñados especialmente o modificados para uso militar, diseñados o modificados para la diseminación de cualquiera de los siguientes, y componentes diseñados especialmente para ellos:
+
+1\. Materiales o agentes especificados en los subartículos ML7.a, ML7.b o ML7.d.; o
+
+2\. Agentes para la guerra química constituidos de precursores especificados en el subartículo ML7.c;
+
+f) Equipos de protección y descontaminación, diseñados especialmente o modificados para uso militar, componentes y mezclas químicas, según se indica:
+
+1\. Equipos, diseñados o modificados para la protección contra los materiales especificados en los subartículos ML7.a, ML7.b o ML7.d, y componentes diseñados especialmente para ellos;
+
+2\. Equipos, diseñados o modificados para la descontaminación de objetos contaminados con los materiales especificados en los subartículos ML7.a o ML7.b, y componentes diseñados especialmente para ellos;
+
+3\. Mezclas químicas desarrolladas o formuladas especialmente para la descontaminación de objetos contaminados con los materiales especificados en los subartículos ML7.a o ML7.b;
+
+*Nota: El subartículo ML7.f.1 incluye:*
+
+*a. Unidades de aire acondicionado diseñadas especialmente o modificadas para filtrado nuclear, biológico o químico;*
+
+*b. Ropas de protección.*
+
+*N.B.: Para máscaras antigás civiles, equipos de protección y descontaminación, véase también el artículo 1A004 de la Lista de Productos de Doble Uso de la UE.*
+
+g) Equipos diseñados especialmente o modificados para uso militar, diseñados o modificados para la detección o identificación de los materiales especificados en los subartículos ML7.a, ML7.b o ML7.d, y componentes diseñados especialmente para ellos;
+
+*Nota: El subartículo ML7.g no se aplica a los dosímetros de uso personal para el control de las radiaciones.*
+
+*N.B.: Véase también el artículo 1A004 de la Lista de Productos de Doble Uso de la UE.*
+
+h) 'Biopolímeros' diseñados especialmente o tratados para la detección o identificación de agentes para la guerra química especificados en el subartículo ML7.b, y los cultivos de células específicas utilizadas para su producción;
+
+*Notas técnicas:*
+
+*A efectos del artículo ML7.h.:*
+
+*1. 'Biopolímeros' son las siguientes macromoléculas biológicas:*
+
+*a. Enzimas para reacciones químicas o bioquímicas específicas;*
+
+*b. 'Anticuerpos' antiidiotípicos', 'monoclonales' o 'policlonales';*
+
+*c. 'Receptores' especialmente diseñados o procesados;*
+
+*2. 'Anticuerpos antiidiotípicos' son anticuerpos que se unen a los sitios de unión específicos de otros anticuerpos contra antígenos;*
+
+*3. 'Anticuerpos monoclonales' son proteínas que se unen a un sitio antigénico y son producidas por un solo clon de células;*
+
+*4. 'Anticuerpos policlonales' son una mezcla de proteínas que se unen al antígeno específico y son producidas por más de un clon de células;*
+
+*5. 'Receptores' son estructuras macromoleculares biológicas capaces de unirse a ligandos, cuya unión afecta a las funciones fisiológicas.*
+
+i) “Biocatalizadores” para la descontaminación o la degradación de agentes para la guerra química, y sistemas biológicos para ellos, según se indica:
+
+1\. “Biocatalizadores”, diseñados especialmente para la descontaminación o la degradación de los agentes para la guerra química especificados en el subartículo ML7.b, y producidos por selección dirigida en laboratorio o manipulación genética de sistemas biológicos;
+
+2\. Sistemas biológicos que contengan la información genética específica para la producción de los “biocatalizadores” especificados en el subartículo ML7.i.1., según se indica:
+
+a. ‘Vectores de expresión’;
+
+*Nota técnica:*
+
+*A efectos del apartado ML7.i.2.a., los 'vectores de expresión' son portadores (p, ej., plásmidos o virus) utilizados para introducir material genético en las células huésped (receptoras).*
+
+b. Virus;
+
+c. Cultivos de células.
+
+*Nota 1: Los subartículos ML7.b y ML7.d no se aplican a lo siguiente:*
+
+*a. Cloruro de cianógeno (CAS 506-77-4).*
+
+*b. Ácido cianhídrico (CAS 74-90-8);*
+
+*c. Cloro (CAS 7782-50-5);*
+
+*d. Cloruro de carbonilo (fosgeno) (CAS 75-44-5).*
+
+*e. Difosgeno (triclorometil cloroformato) (CAS 503-38-8);*
+
+*f. Sin uso desde 2004;*
+
+*g. Bromuro de xililo, orto: (CAS 89-92-9), meta: (CAS 620-13-3), para: (CAS 104-81-4);*
+
+*h. Bromuro de bencilo (CAS 100-39-0);*
+
+*i. Yoduro de bencilo (CAS 620-05-3);*
+
+*j. Bromoacetona (CAS 598-31-2);*
+
+*k. Bromuro de cianógeno (CAS 506-68-3);*
+
+*l. Bromometiletilcetona (CAS 816-40-0);*
+
+*m. Cloroacetona (CAS 78-95-5);*
+
+*n. Yodoacetato de etilo (CAS 623-48-3);*
+
+*o. Yodoacetona (CAS 3019-04-3);*
+
+*p. Cloropicrina (CAS 76-06-2).*
+
+*Nota 2: Los cultivos aislados de células y los sistemas biológicos especificados en los subartículos ML7.h y ML7.i.2 son exclusivos y dichos subartículos no se aplican a las células o sistemas biológicos destinados a usos civiles, tales como los agrícolas, farmacéuticos, médicos, veterinarios, relacionados con el medio ambiente, el tratamiento de residuos o la industria alimentaria.*
+
+*Nota aclaratoria: Los materiales no incluidos en el presente artículo pueden, sin embargo, estar sometidos a control en el anexo II del presente Reglamento.*
+
+**ML8 “Materiales energéticos”, y sustancias relacionadas, según se indica:**
+
+*N.B.1: Véase también el artículo 1.C.11 de la Lista de Productos de Doble Uso de la UE.*
+
+*N.B.2: Para las cargas y los dispositivos, véanse el artículo ML4 y el artículo 1.A.8 de la Lista de Productos de Doble Uso de la UE.*
+
+*Nota: Cualquier sustancia incluida en el artículo ML8 está sujeta a la presente lista, incluso si es utilizada en una aplicación distinta de la indicada (por ejemplo, TAGN se emplea predominantemente como explosivo, pero puede ser utilizado también como combustible u oxidante).*
+
+*Notas técnicas:*
+
+*1. A efectos del artículo ML8, excepto los subartículos ML8.c.11 o ML8.c.12, 'mezcla' se refiere a una composición de dos o más sustancias con al menos una sustancia incluida en los subartículos del artículo ML8.*
+
+*2. A efectos del artículo ML8, por tamaño de partícula se entiende el diámetro medio de las partículas ponderado en función del volumen o del peso. Para el muestreo y la determinación del tamaño de las partículas, se emplearán las normas internacionales o sus equivalentes nacionales.*
+
+a) “Explosivos”, según se indica, y las 'mezclas' de ellos:
+
+1\. ADN.B.:F (aminodinitrobenzofurazano o 7-amino-4,6-dinitrobenzofurazano-1-óxido) (CAS 97096-78-1);
+
+2\. BCPN (Perclorato de cis-bis (5-nitrotetrazolato) tetra amina-cobalto (III)) (CAS 117412-28-9);
+
+3\. CL-14 (diaminodinitrobenzofuroxan o 5,7-diamino-4,6-dinitrobenzofurazano-1-óxido) (CAS 117907-74-1);
+
+4\. CL-20 (HNIW o Hexanitrohexaazaisowurtzitano) (CAS 135285-90-4); clatratos de CL-20 (véanse también los subartículos ML8.g.3 y ML8.g.4 para sus “precursores”);
+
+5\. PC (Perclorato de 2-(5-cianotetrazolato) penta aminacobalto (III)) (CAS 70247-32-4);
+
+6\. DADE (1,1-diamino-2,2-dinitroetileno, FOX-7) (CAS 145250-81-3);
+
+7\. DATB (diaminotrinitrobenceno) (CAS 1630-08-6);
+
+8\. DDFP (1,4-dinitrodifurazanopiperacina);
+
+9\. DDPO (2,6-diamino-3,5-dinitropiracina-1-oxido, PZO) (CAS 194486-77-6);
+
+10\. DIPAM (3,3’-diamino-2,2’,4,4’,6,6’-hexanitrobifenil o dipicramida) (CAS 17215-44-0);
+
+11\. DNGU (DINGU o dinitroglicoluril) (CAS 55510-04-8);
+
+12\. Furazanos, según se indica:
+
+a. DAAOF (DAAF, DAAFox, o diaminoazoxifurazano);
+
+b. DAAzF (diaminoazofurazano) (CAS 78644-90-3);
+
+13\. HMX y sus derivados (véase el subartículo ML8.g.5 para sus “precursores”), según se indica:
+
+a. HMX (Ciclotetrametilenotetranitramina, octahidro-1,3,5,7-tetranitro-1,3,5,7-tetracina, 1,3,5,7tetranitro-1,3,5,7-tetraza-ciclooctano, octogen u octogeno) (CAS 2691-41-0);
+
+b. Difluoroaminados análogos al HMX;
+
+c. K-55 (2,4,6,8-tetranitro-2,4,6,8-tetraazabiciclo [3,3,0]-octanona-3, tetranitrosemiglicouril o keto-biciclico HXM) (CAS 130256-72-3);
+
+14\. HNAD (hexanitroadamantano) (CAS 143850-71-9);
+
+15\. HNS (hexanitroestilbeno) (CAS 20062-22-0);
+
+16\. Imidazoles, según se indica:
+
+a. BNNII (Octahidro-2,5-bis(nitroimino)imidazo [4,5-d]imidazole);
+
+b. DNI (2,4-dinitroimidazole) (CAS 5213-49-0);
+
+c. FDIA (1-fluoro-2,4-dinitroimidazole);
+
+d. NTDNIA (N-(2-nitrotriazolo)-2,4-dinitroimidazole);
+
+e. PTIA (1-picril-2,4,5-trinitroimidazole);
+
+17\. NTNMH (1-(2-nitrotriazolo)-2-dinitrometileno-hidrazina);
+
+18\. NTO (ONTA o 3-nitro-1,2,4-triazol-5-ona) (CAS 932-64-9);
+
+19\. Polinitrocubanos con más de cuatro grupos nitro;
+
+20\. PYX (2,6-Bis(picrilamino)-3,5-dinitropiridina) (CAS 38082-89-2);
+
+21\. RDX y sus derivados, según se indica:
+
+a. RDX (ciclotrimetilenotrinitramina, ciclonita, T4, hexahidro-1,3,5-trinitro-1,3,5-triacina, 1,3,5trinitro- 1,3,5,-triaza-ciclohexano, exogen o exógeno) (CAS 121-82-4);
+
+b. Keto-RDX (K-6 o 2,4,6-trinitro-2,4,6-triazaciclohexanona) (CAS 115029-35-1);
+
+22\. TAGN (triaminoguanidinanitrato) (CAS 4000-16-2);
+
+23\. TATB (triaminotrinitrobenceno) (CAS 3058-38-6) (véase también el subartículo 8.g.7 para sus “precursores”);
+
+24\. TEDDZ (3,3,7,7-tetrabis (difluoroamina) octahidro-1,5-dinitro-1,5-diazocina);
+
+25\. Tetrazoles, según se indica:
+
+a. NTAT (nitrotriazol aminotetrazol);
+
+b. NTNT (1-N-(2-nitrotriazol)-4-nitrotetrazol);
+
+26\. Tetril (trinitrofenilmetilnitramina) (CAS 479-45-8);
+
+27\. TNAD (1,4,5,8-tetranitro- 1,4,5,8-tetraazadecalin) (CAS 135877-16-6) (véase también el subartículo ML8.g.6 para sus “precursores”);
+
+28\. TNAZ (1,3,3-trinitroazetidina) (CAS 97645-24-4) (véase también el subartículo ML8.g.2 para sus “precursores”);
+
+29\. TNGU (SORGUYL o tetranitroglicoluril) (CAS 55510-03-7);
+
+30\. TNP (1,4,5,8-tetranitro-piridacino[4,5-d]piridacina) (CAS 229176-04-9);
+
+31\. Triacinas, según se indica:
+
+a. DNAM (2-oxi-4,6-dinitroamino-s-triacina) (CAS 19899-80-0);
+
+b. NNHT (2-nitroimino-5-nitro-hexahidro-1,3,5-triacina) (CAS 130400-13-4);
+
+32\. Triazoles, según se indica:
+
+a. 5-acido-2-nitrotriazol;
+
+b. ADHTDN (4-amino-3,5-dihidrazino-1,2,4-triazol dinitramida) (CAS 1614-08-0);
+
+c. ADNT (1-amino-3,5-dinitro-1,2,4-triazol);
+
+d. BDNTA ([bis-dinitrotriazol]amina);
+
+e. DBT (3,3´-dinitro-5,5-bi-1,2,4-triazol) (CAS 30003-46-4);
+
+f. DN.B.:T (dinitrobistriazol) (CAS 70890-46-9);
+
+g. Sin uso desde 2010;
+
+h. NTDNT (1-N-(2-nitrotriazolo) 3,5-dinitrotriazol);
+
+i. PDNT (1-picril-3,5-dinitrotriazol);
+
+j. TACOT (tetranitrobenzotriazolobenzotriazol) (CAS 25243-36-1);
+
+33\. “Explosivos” no incluidos en el subartículo ML8.a, y con alguna de las características siguientes:
+
+a. Una velocidad de detonación superior a 8 700 m/s, a máxima densidad, o
+
+b. Una presión de detonación superior a 34 GPa (340 kbar);
+
+34\. No se usa desde 2013;
+
+35\. DNAN (2,4-dinitroanisol) (CAS 119-27-7);
+
+36\. TEX (4,10-dinitro-2,6,8,12-tetraoxa-4,10-diazaisowurtzitano);
+
+37\. GUDN (guanilurea dinitramida) FOX-12 (CAS 217464-38-5);
+
+38\. Tetrazinas, según se indica:
+
+a. BTAT (Bis(2,2,2-trinitroetil)-3,6-diaminotetrazina)
+
+b. LAX-112 (3,6-diamino-1,2,4,5-tetrazina-1,4-dióxido);
+
+39\. Materiales iónicos energéticos con punto de fusión entre 343 K (70 °C) y 373 K (100 °C) y velocidad de detonación superior a 6.800 m/s o presión de detonación superior a 18 GPa (180 kbar);
+
+40\. BTNEN (Bis(2,2,2-trinitroetil)-nitramina) (CAS 19836-28-3);
+
+41\. FTDO (5,6-(3’,4’-furazano)- 1,2,3,4-tetrazina-1,3-dióxido).
+
+42\. EDNA (etilenodinitramina) (CAS 505-71-5);
+
+43\. TKX-50 (Dihidroxilamonio 5,5'-bistetrazol-1,1'-diolato);
+
+*Nota: ML8.a, incluye los ‘cocristales explosivos’.*
+
+*Nota técnica: Un ‘cocristal explosivo’ es un material sólido que consta de una disposición tridimensional ordenada de dos o más moléculas explosivas de las que al menos una se especifica en el subartículo ML8.a.*
+
+b) “Propulsantes”, según se indica:
+
+1\. Cualquier “propulsante” sólido con un impulso específico teórico (en condiciones estándar) de más de:
+
+a. 240 segundos para los “propulsantes” no metalizados, no halogenados;
+
+b. 250 segundos para los “propulsantes” no metalizados, halogenados; o
+
+c. 260 segundos para los “propulsantes” metalizados;
+
+2\. No se usa desde 2013;
+
+3\. “Propulsante” que tenga una constante de fuerza superior a 1.200 kJ/kg;
+
+4\. “Propulsante” que pueda mantener un índice de combustión lineal en régimen continuo de más de 38 mm/s en condiciones estándar de presión (realizándose las mediciones en una sola cadena inhibida) de 6,89 MPa (68,9 bar) y de temperatura 294 K (21 °C);
+
+5\. “Propulsantes” de doble base fundida de elastómeros modificados (EMCDB) con un alargamiento a tensión máxima superior al 5% a 233 K (-40 °C);
+
+6\. Cualquier “propulsante” que contenga sustancias incluidas en el subartículo ML8.a;
+
+7\. “Propulsantes” no especificados en ninguna otra parte de este anexo I.1, diseñados especialmente para uso militar;
+
+c) “Productos pirotécnicos”, combustibles y sustancias relacionadas, según se indica, y las mezclas de ellos:
+
+1\. Combustibles para “aeronaves” formulados especialmente con fines militares;
+
+*Nota 1: El subartículo ML8.c.1 no se aplica a los combustibles de “aeronaves” siguientes: JP-4, JP5, y JP-8.*
+
+*Nota 2: Los combustibles de “aeronaves” especificados en el subartículo ML8.c.1 son los productos terminados, y no sus constituyentes.*
+
+2\. Alano (hidruro de aluminio) (CAS 7784-21-6);
+
+3\. Boranos, según se indica, y sus derivados:
+
+a. Carboranos;
+
+b. Homólogos del borano, según se indica:
+
+1\. Decaborano (14) (CAS 17702-41-9);
+
+2\. Pentaborano (9) (CAS 19624-22-7);
+
+3\. Pentaborano (11) (CAS 18433-84-6);
+
+4\. Hidracina y sus derivados, según se indica (véase también los subartículos ML8.d.8 y ML8.d.9 para derivados oxidantes de la hidracina):
+
+a. Hidracina (CAS 302-01-2) en concentraciones del 70% o más;
+
+b. Monometilhidracina (CAS 60-34-4);
+
+c. Dimetilhidracina simétrica (CAS 540-73-8);
+
+d. Dimetilhidracina asimétrica (CAS 57-14-7);
+
+*Nota: El subartículo ML8.c.4.a, no se aplica a las 'mezclas' de hidracina formuladas especialmente para el control de la corrosión.*
+
+5\. Combustibles metálicos, ‘mezclas’ de combustibles o ‘mezclas’ de “productos pirotécnicos”, en forma de partículas ya sean en granos esféricos, atomizados, esferoidales, en copos o pulverizados, elaborados a partir de materiales con un contenido del 99 % o más de cualquiera de lo siguiente:
+
+a. Los siguientes metales y ‘mezclas’ de ellos:
+
+1\. Berilio (CAS 7440-41-7) con un tamaño de partículas menor que 60 micrómetro;
+
+2\. Polvo de hierro (CAS 7439-89-6), con un tamaño de partículas de 3 micrómetros o menor, producido por reducción de óxido de hierro por hidrógeno;
+
+b. ‘Mezclas’ que contengan cualquiera de lo siguiente:
+
+1\. Circonio (CAS 7440-67-7), magnesio (CAS 7439-95-4) o aleaciones de ellos con un tamaño de partícula inferior a 60 micrómetros; o
+
+2\. Combustibles de boro (CAS 7440-42-8) o carburo de boro (CAS 12069-32-8) con pureza de 85% o superior y con un tamaño de partícula inferior a 60 micrómetros;
+
+*Nota 1: El subartículo ML8.c.5 se aplica a los “explosivos” y combustibles, tanto si los metales o las aleaciones están encapsulados o no en aluminio, magnesio, circonio o berilio.*
+
+*Nota 2: El subartículo ML8.c.5.b se aplica únicamente a los combustibles metálicos en forma de partículas cuando se mezclan con otras sustancias para constituir una ‘mezcla’ formulada para fines militares, como lechada de “propulsantes” líquidos, “propulsantes” sólidos o ‘mezclas’ “pirotécnicas”.*
+
+*Nota 3: El subartículo ML8.c.5.b.2 no se aplica al boro ni al carburo de boro enriquecido con boro10 (20 % o más del contenido total de boro-10).*
+
+6\. Materiales militares, que contengan espesadores para combustibles de hidrocarburo, formulados especialmente para uso en lanzallamas o munición incendiaria, tales como estearatos metálicos (por ejemplo, octal (CAS 637-12-7)) o palmitatos;
+
+7\. Percloratos, cloratos y cromatos, mezclados con polvo metálico o con otros componentes de combustibles de alta energía;
+
+8\. Polvo de aluminio de grano esférico o esferoidal (CAS 7429-90-5) con un tamaño de partículas de 60 micrómetros o menos y elaborado a partir de materiales con un contenido en aluminio del 99% o más;
+
+9\. Subhidruro de titanio (TiHn) de estequiometría equivalente a n=0,65-1,68;
+
+10\. Combustibles líquidos de alta densidad de energía no especificados en el subartículo ML8.c.1, según se indica:
+
+a. Combustibles mezclados, que contengan combustibles tanto sólidos como líquidos (por ejemplo, la lechada de boro), con una densidad de energía por masa igual o superior a 40 MJ/kg;
+
+b. Otros combustibles y aditivos para combustibles de alta densidad de energía (por ejemplo, cubano, soluciones iónicas, JP-7, JP-10), con una densidad de energía por volumen igual o superior a 37,5 GJ/m<sup>3</sup>, medida a 293 K (20 °C) y a una presión de una atmósfera (101,325 kPa);
+
+*Nota: El subartículo ML8.c.10.b no se aplica a los combustibles fósiles refinados, a los biocombustibles ni a los combustibles de motores certificados para uso en aviación civil.*
+
+11\. “Productos pirotécnicos” y pirofóricos, según se indica:
+
+a. “Productos pirotécnicos” o pirofóricos formulados específicamente para aumentar o controlar la producción de energía radiada en cualquier parte del espectro infrarrojo;
+
+b. Mezclas de magnesio, politetrafluoretileno (PTFE) y copolímero de difluoruro de vinilideno y hexafluoropropileno (por ejemplo, MTV);
+
+12\. Mezclas de combustibles, mezclas de “productos pirotécnicos” o “materiales energéticos”, no especificados en ninguna otra parte del artículo ML8, con todas las características siguientes:
+
+a. Que contengan más del 0,5 % de partículas de cualquiera de lo siguiente:
+
+1\. Aluminio;
+
+2\. Berilio;
+
+3\. Boro;
+
+4\. Circonio;
+
+5\. Magnesio; o
+
+6\. Titanio
+
+b. Partículas especificadas en el subartículo ML8.c.12.a de tamaño inferior a 200 nm en cualquier dirección, y
+
+c. Partículas especificadas en el subartículo ML8.c.12.a con un contenido de metal igual o superior a 60 %;
+
+*Nota: El subartículo ML8.c.12 incluye termitas.*
+
+d) Oxidantes, según se indica, y las ‘mezclas’ de ellos:
+
+1\. ADN (dinitroamida de amonio o SR 12) (CAS 140456-78-6);
+
+2\. AP (perclorato de amonio) (CAS 7790-98-9);
+
+3\. Compuestos con contenido de flúor y cualquiera de lo siguiente:
+
+a. Otros halógenos;
+
+b. Oxigeno; o
+
+c. Nitrógeno;
+
+*Nota 1: El subartículo ML8.d.3 no se aplica al trifluoruro de cloro (CAS 7790-91-2).*
+
+*Nota 2: El subartículo ML8.d.3 no se aplica al trifluoruro de nitrógeno (CAS 7783-54-2) en estado gaseoso.*
+
+*Nota 3. El subartículo ML8.d.3, no se aplica al pentafluoruro de iodo (CAS 7783-66-6).*
+
+4\. DNAD (1,3-dinitro-1,3-diazetidina) (CAS 78246-06-7);
+
+5\. HAN (nitrato de hidroxilamonio) (CAS 13465-08-2);
+
+6\. HAP (perclorato de hidroxilamonio) (CAS 15588-62-2);
+
+7\. HNF (nitroformato de hidrazinio) (CAS 20773-28-8);
+
+8\. Nitrato de hidrazina (CAS 37836-27-4);
+
+9\. Perclorato de hidrazina (CAS 27978-54-7);
+
+10\. Oxidantes líquidos constituidos por, o que contengan, ácido nítrico fumante rojo inhibido (IRFNA) (CAS 8007-58-7);
+
+*Nota: El subartículo ML8.d.10 no se aplica al ácido nítrico fumante no inhibido.*
+
+e) Aglomerantes, plastificantes, monómeros y polímeros, según se indica:
+
+1\. AMMO (Azidometilmetiloxetano y sus polímeros) (CAS 90683-29-7); (Véase también el subartículo ML8.g.1 para sus “precursores”);
+
+2\. BAMO (3,3-bis(azidometil)oxetano y sus polímeros) (CAS 17607-20-4) (véase también el subartículo 8.g.1 para sus “precursores”);
+
+3\. BDNPA (bis (2,2-dinitropropil)acetal) (CAS 5108-69-0);
+
+4\. BDNPF (bis(2,2-dinitropropil)formal) (CAS 5917-61-3);
+
+5\. BTTN (butanotrioltrinitrato) (CAS 6659-60-5) (Véase también el subartículo ML8.g.8 para sus “precursores”);
+
+6\. Monómeros, plastificantes o polímeros energéticos, formulados especialmente para uso militar y que contengan cualquiera de los elementos siguientes:
+
+a. Grupos nitro;
+
+b. Grupos azido;
+
+c. Grupos nitrato;
+
+d. Grupos nitraza; o
+
+e. Grupos difluoroamino;
+
+7\. FAMAO (3-difluoroaminometil-3-azidometil oxetano) y sus polímeros;
+
+8\. FEFO (bis-(2-fluoro-2,2-dinitroetilformal) (CAS 17003-79-1);
+
+9\. FPF-1 (poli-2,2,3,3,4,4-hexafluoropentano-1,5-diol formal) (CAS 376-90-9);
+
+10\. FPF-3 (poli-2,4,4,5,5,6,6-heptafluoro-2-tri-fluorometil-3-oxaheptano-1,7-diol formal);
+
+11\. GAP (polímero de glicidilacida) (CAS 143178-24-9) y sus derivados;
+
+12\. HTPB (Polibutadieno con terminal hidroxilo) con una funcionalidad hidroxilo igual o superior a 2,2 e igual o inferior a 2,4, un valor hidroxilo inferior a 0,77 meq/g, y una viscosidad a 30 °C inferior a 47 poise (CAS 69102-90-5);
+
+13\. Poliepiclorhidrina con función alcohol con un peso molecular inferior a 10.000, según se indica:
+
+a. Poli(epiclorohidrindiol);
+
+b. Poli(epiclorohidrintriol);
+
+14\. NENAs (compuestos de nitratoetilnitramina) (CAS 17096-47-8, 85068-73-1, 82486-83-7, 8248682-6 y 85954-06-9);
+
+15\. PGN (poli-GLYN, poligricidilnitrato o poli(nitratometil oxirano) (CAS 27814-48-8);
+
+16\. Poli-NIMMO (poli(nitratometilmetiloxetano), poli-NMMO o poli(3-nitratometil-3- metiloxetano)) (CAS 84051-81-0);
+
+17\. Polinitroortocarbonatos;
+
+18\. TVOPA (1,2,3-tris[1,2-bis(difluoroamino)etoxi] propano o tri vinoxi propano aducido) (CAS 53159-39-0);
+
+19\. 4,5 diazidometil-2-metil-1,2,3-triazol (iso- DAMTR);
+
+20\. PNO (poli(3-nitrato oxetano));
+
+21\. TMETN (trinitrato de trimetiloletano) (CAS 3032-55-1);
+
+f) 'Aditivos', según se indica:
+
+*Nota técnica:*
+
+*A los efectos del artículo ML8.f., los 'aditivos' son sustancias utilizadas en formulaciones explosivas para mejorar sus propiedades.*
+
+1\. Salicilato básico de cobre (CAS 62320-94-9);
+
+2\. BHEGA (bis-(2-hidroxietil) glicolamida) (CAS 17409-41-5);
+
+3\. BNO (Nitrilóxido de butadieno);
+
+4\. Derivados del ferroceno, según se indica:
+
+a. Butaceno (CAS 125856-62-4);
+
+b. Catoceno (2, 2 bis-etilferrocenil propano) (CAS 37206-42-1);
+
+c. Ácidos carboxílicos ferroceno y ésteres de ácido carboxílico ferroceno;
+
+d. n-butil-ferroceno (CAS 31904-29-7);
+
+e. Otros polímeros aducidos derivados del ferroceno no especificados en ninguna otra parte del subartículo ML8.f.4;
+
+f. Etil-ferroceno (CAS 1273-89-8);
+
+g. Propil-ferroceno;
+
+h. Pentil-ferroceno (CAS 1274-00-6);
+
+i. Diciclopentil-ferroceno;
+
+j. Diciclohexil-ferroceno;
+
+k. Dietil-ferroceno (CAS 1273-97-8);
+
+l. Dipropil-ferroceno;
+
+m. Dibutil-ferroceno (CAS 1274-08-4);
+
+n. Dihexil-ferroceno (CAS 93894-59-8);
+
+o. Acetil-ferroceno (CAS 1271-55-2)/1,1′-diacetil-ferroceno (CAS 1273-94-5);
+
+5\. Resorcilato beta de plomo (CAS 20936-32-7) o resorcilato beta de cobre (CAS 70983-44-7);
+
+6\. Citrato de plomo (CAS 14450-60-3);
+
+7\. Quelatos de plomo-cobre de beta-resorcilato o salicilatos (CAS 68411-07-4);
+
+8\. Maleato de plomo (CAS 19136-34-6);
+
+9\. Salicilato de plomo (CAS 15748-73-9);
+
+10\. Estannato de plomo (CAS 12036-31-6);
+
+11\. MAPO (Óxido de fosfina tris-1-(2-metil)aziridinilo) (CAS 57-39-6); BOBBA 8 (óxido de fosfina bis(2-metil aziridinilo) 2-(2-hidroxipropanoxi) propilamino); y otros derivados de MAPO;
+
+12\. Metil BAPO (Óxido de fosfina bis (2-metil aziridinilo) metilamino) (CAS 85068-72-0);
+
+13\. N-metil-p-nitroanilina (CAS 100-15-2);
+
+14\. Diisocianato de 3-nitraza-1,5-pentano (CAS 7046-61-9);
+
+15\. Agentes de acoplamiento órgano-metálicos, según se indica:
+
+a. Neopentilo[dialilo]oxi, tri[dioctilo]fosfato-titanato (CAS 103850-22-2), igualmente llamado titanio IV, 2, 2 [bis 2-propenolato-metil, butanolato, tris(dioctilo) fosfato] (CAS 110438-25-0), o LICA 12 (CAS 103850-22-2);
+
+b. Titanio IV, [(2-propenolato-1) metil, n-propanolatometil] butanolato-1, tris [dioctilo] pirofosfato o KR3538;
+
+c. Titanio IV, [(2-propenolato-1) metil, n-propanolatometil] butanolato-1, tris-(dioctil) fosfato;
+
+16\. Policianodifluoroaminoetilenoóxido;
+
+17\. Agentes de enlace, según se indica:
+
+a. 1, 1R, 1S-Trimesoil-tris (2-etilaziridina) (HX-868, BITA) (CAS 7722-73-8);
+
+b. Amidas de aziridina polifuncionales con estructuras de refuerzo isoftálicas, trimésicas, isocianúricas o trimetilapídicas que tengan también un grupo 2-metil o 2-etil en el anillo aziridínico;
+
+*Nota: El subartículo ML8.f.17.b incluye:*
+
+*a. 1,1H-Isoftaloilo-bis (2-metilaziridina) (HX-752) (CAS 7652-64-4);*
+
+*b. 2,4,6-tris(2-etil-1-aziridina)-1,3,5-triazina (HX-874) (CAS 18924-91-9);*
+
+*c. 1,1′-trimetiladipoil-bis (2-etilaziridina) (HX-877) (CAS 71463-62-2);*
+
+18\. Propilenimina (2-metilaziridina) (CAS 75-55-8);
+
+19\. Óxido férrico superfino (Fe2O3) (CAS 1317-60-8) con una superficie específica superior a 250 m<sup>2</sup>/g y un tamaño medio de partículas de 3,0 nm o inferior;
+
+20\. TEPAN (Tetraetilenopentaaminaacrilonitrilo) (CAS 68412-45-3); poliaminas cianoetiladas y sus sales;
+
+21\. TEPANOL (Tetraetilenopentaaminaacrilonitriloglicidol) (CAS 68412-46-4); poliaminas cianoetiladas aducidas con glicidol y sus sales;
+
+22\. TPB (Trifenil bismuto) (CAS 603-33-8);
+
+23\. TEPB (Tris (etoxifenil) bismuto) (CAS 90591-48-3);
+
+g) “Precursores”, según se indica:
+
+*N.B: En el subartículo ML8.g las referencias son a “materiales energéticos” especificados manufacturados con estas substancias.as substancias.*
+
+1\. BCMO (3,3-bis(clorometil)oxetano) (CAS 78-71-7) (éase también el subartículo ML8.e.1, y ML8.e.2)
+
+2\. Sal dinitroazetidina-t-butilo (CAS 125735-38-8) (véase también el subartículo ML8.a.28);
+
+3\. Derivados del hexaazaisowurtzitano, incluidos el HBIW (Hexabencilhexaazaisowurtzitano) (CAS 124782-15-6) (véase también el subartículo ML8.a.4) y el TAIW (Tetraacetildibenzilhexaazaisowurtzitano) (CAS 182763-60-6) (véase también el subartículo ML8.a.4);
+
+4\. No se usa desde 2013;
+
+5\. TAT (1,3,5,7 tetraacetil-1,3,5,7,-tetraaza ciclo-octano) (CAS 41378-98-7) (véase también el subartículo ML8.a.13);
+
+6\. 1,4,5,8 tetraazadecalino (CAS 5409-42-7) (véase también el subartículo ML8.a.27);
+
+7\. 1,3,5-triclorobenceno (CAS 108-70-3) (véase también el subartículo ML8.a.23);
+
+8\. 1,2,4-trihidroxibutano (1, 2, 4-butanotriol) (CAS 3068-00-6) (véase también el subartículo ML8.e.5);
+
+9\. DADN (1,5-diacetil-3,7-dinitro-1,3,5,7-tetraza-ciclooctano) (véase también el subartículo ML8.a.13).
+
+h) Polvos y piezas de “materiales reactivos”, según se indica:
+
+1\. Polvos de cualquiera de los siguientes materiales, con un tamaño de partículas inferior a 250 micrómetros en cualquier dirección, no especificados en ninguna otra parte del artículo ML8:
+
+a. Aluminio;
+
+b. Niobio;
+
+c. Boro;
+
+d. Zirconio;
+
+e. Magnesio;
+
+f. Titanio;
+
+g. Tántalo;
+
+h. Wolframio;
+
+i. Molibdeno; o
+
+j. Hafnio;
+
+2\. Piezas, no especificadas en los artículos ML3, ML4, ML12 o ML16, fabricadas a partir de polvos especificados en el artículo ML8.h.1.
+
+*Notas técnicas:*
+
+*A efectos del subartículo ML8.h:*
+
+*1. Los “materiales reactivos” están concebidos para producir una reacción exotérmica únicamente a altas velocidades de cizallamiento y para ser utilizados como conos o carcasas para ojivas.*
+
+*2. Se producen polvos de “materiales reactivos”, por ejemplo, mediante procesos de molienda en molinos de bolas de alta energía.*
+
+*3. Se producen piezas de “materiales reactivos”, por ejemplo, mediante el sinterizado selectivo por láser.*
+
+*Nota 1: El artículo ML8 no se aplica a las sustancias siguientes, salvo que estén compuestas o mezcladas con los “materiales energéticos” especificados en el subartículo ML8.a o los polvos de metal especificados en el subartículo ML8.c:*
+
+*a. Picrato de amonio (CAS 131-74-8);*
+
+*b. Pólvora negra;*
+
+*c. Hexanitrodifenilamina (CAS 131-73-7);*
+
+*d. Difluoroamina (CAS 10405-27-3);*
+
+*e. Nitroalmidón (CAS 9056-38-6);*
+
+*f. Nitrato potásico (CAS 7757-79-1);*
+
+*g. Tetranitronaftaleno;*
+
+*h. Trinitroanisol;*
+
+*i. Trinitronaftaleno;*
+
+*j. Trinitroxileno;*
+
+*k. 1-Metil-2-pirrolidinona (N-metil-2-pirrolidinona) (CAS 872-50-4);*
+
+*l. Maleato de dioctilo (CAS 142-16-5);*
+
+*m. Acrilato de etilhexilo (CAS 103-11-7);*
+
+*n. Trietil-aluminio (TEA) (CAS 97-93-8), trimetil-aluminio (TMA)(CAS 75-24-1) y otros alquilos y arilos metálicos pirofóricos de litio, de sodio, de magnesio, de zinc y de boro;*
+
+*o. Nitrocelulosa (CAS 9004-70-0);*
+
+*p. Nitroglicerina (o gliceroltrinitrato, trinitroglicerina) (NG) (CAS 55-63-0);*
+
+*q. 2, 4, 6-trinitrotolueno (TNT) (CAS 118-96-7);*
+
+*r. Dinitrato de etilenodiamina (EDDN) (CAS 20829-66-7);*
+
+*s. Tetranitrato de pentaeritritol (PETN) (CAS 78-11-5);*
+
+*t. Azida de plomo (CAS 13424-46-9), estifnato de plomo normal (CAS 15245-44-0) y estifnato de plomo básico (CAS 12403-82-6), y explosivos primarios o compuestos de cebado que contengan azidas o complejos de azidas;*
+
+*u. Dinitrato de trietilenoglicol (TEGDN) (CAS 111-22-8);*
+
+*v. 2, 4, 6-trinitrorresorcinol (ácido estífnico) (CAS 82-71-3);*
+
+*w. Dietildifenilurea (CAS 85-98-3); dimetildifenilurea (CAS 611-92-7); metiletildifenilurea [Centralitas];*
+
+*x. N, N-difenilurea (difenilurea asimétrica) (CAS 603-54-3);*
+
+*y. Metil-N, N-difenilurea (metildifenilurea asimétrica) (CAS 13114-72-2);*
+
+*z. Etil-N, N-difenilurea (etildifenilurea asimétrica) (CAS 64544-71-4);*
+
+*aa. 2-nitrodifenilamina (2-NDPA) (CAS 119-75-5);*
+
+*bb. 4-nitrodifenilamina (4-NDPA) (CAS 836-30-6);*
+
+*cc. 2, 2-dinitropropanol (CAS 918-52-5);*
+
+*dd. Nitroguanidina (CAS 556-88-7) (véase también el subartículo 1C011.d de la Lista de Productos de Doble Uso de la UE).*
+
+*Nota 2: El artículo ML8 no se aplica al perclorato de amonio (subartículo ML8.d.2.), al NTO (subartículo ML8.a.18.) ni al catoceno (subartículo ML8.f.4.b), que tengan todas las características siguientes:*
+
+*a. Conformados y formulados especialmente para dispositivos de generación de gases de uso civil;*
+
+*b. Compuestos o mezclados con aglutinantes o plastificantes termoendurecibles no activos, y que tengan una masa inferior a 250 g;*
+
+*c. Con un máximo de 80% de perclorato de amonio (ML8.d.2) en masa de material activo;*
+
+*d. Con una cantidad igual o inferior a 4 g de NTO (ML8.a.18); y*
+
+*e. Con una cantidad igual o inferior a 1 g de catoceno (ML8.f.4.b).*
+
+**ML9 Buques de guerra (de superficie o subacuáticos), equipos navales especiales, accesorios, componentes y otros buques de superficie, según se indica:**
+
+*N.B.: Para equipos de guiado y navegación, véase el artículo ML11.*
+
+a) Los buques y componentes, según se indica:
+
+1\. Buques (de superficie o subacuáticos) diseñados especialmente o modificados para uso militar, cualquiera que sea su estado actual de conservación o de funcionamiento, y que tengan o no sistemas de bombardeo o blindaje, y cascos o partes del casco para dichos buques, y componentes para ellos diseñados especialmente para uso militar;
+
+*Nota: El subartículo ML9.a.1 incluye los vehículos diseñados especialmente o modificados para el transporte de buceadores.*
+
+2\. Buques de superficie, no especificados en ML9.a.1, con uno o varios de los siguientes elementos fijados o integrados en el buque:
+
+a. Armas automáticas, especificadas en el artículo ML1, o armas especificadas en los artículos ML2, ML4, ML12 o ML19, o 'puntos de montaje' o puntos duros para armas de calibre 12.7 mm o mayor;
+
+*Nota técnica: A efectos del subartículo ML9.a.2.a, por 'puntos de montaje' se entiende los puntos de montaje de armas o los refuerzos estructurales destinados a la instalación de armas.*
+
+b. Sistemas de dirección de tiro especificados en el artículo ML5;
+
+c. Que posean todas las características siguientes:
+
+1\. 'Protección Química, Biológica, Radiológica y Nuclear (QBRN)'; y
+
+2\. 'Sistemas de prehumedecido o de lavado' diseñados a efectos de descontaminación; o
+
+*Notas técnicas: A los efectos del subartículo ML9.a.2.c.2, por 'sistemas de prehumedecido y de lavado' se entiende los sistemas de pulverización de agua marina capaces simultáneamente de humedecer la superestructura exterior y la cubierta de un buque.*
+
+d. Sistemas activos de contramedidas frente a armamentos especificados en los subartículos ML4.b., ML5.c, o ML11.a, y que tengan alguna de las características siguientes:
+
+1\. 'Protección QBRN';
+
+2\. Casco y superestructura especialmente diseñados para reducir el perfil transversal de radar;
+
+3\. Dispositivos de reducción de la firma térmica (por ejemplo, sistema de enfriamiento de los gases de escape), excepto los diseñados especialmente para aumentar la eficiencia global del generador de energía o para reducir el impacto medioambiental; o
+
+4\. Un sistema de desmagnetización diseñado para reducir la firma magnética del conjunto del buque.
+
+*Notas técnicas: A efectos del subartículo ML9.a.2, por 'protección QBRN' se entiende un espacio interior estanco con características tales como sobrepresurización, sistemas de aislamiento de la ventilación, aperturas de ventilación limitadas con filtros QBRN y puntos de acceso limitado del personal dotados de esclusas de ventilación.*
+
+b) Motores y sistemas de propulsión, según se indica, diseñados especialmente para uso militar y componentes para ellos diseñados especialmente para uso militar:
+
+1\. Motores diésel diseñados especialmente para submarinos;
+
+2\. Motores eléctricos diseñados especialmente para submarinos, que tengan todas las características siguientes:
+
+a. Potencia superior a 0,75 MW (1.000 CV);
+
+b. De inversión rápida;
+
+c. Refrigerados por líquido; y
+
+d. Herméticos;
+
+3\. Motores diésel que tengan todas las características siguientes:
+
+a. Potencia de 37,3 kW (50 CV) o más; y
+
+b. Cuyo contenido 'amagnético' exceda del 75 % de su masa total;
+
+*Nota técnica: A efectos del subartículo ML9.b.3, 'amagnético' significa que la permeabilidad relativa es inferior a 2.*
+
+4\. Sistemas de ‘propulsión independiente del aire’ (AIP, por sus siglas en inglés) diseñados especialmente para submarinos;
+
+*Nota: El subartículo ML9.b.4 no se aplica a las pistolas de señalización.*
+
+*Nota técnica:*
+
+*A efectos del subartículo ML9.b.4, la 'propulsión independiente del aire' permite que un submarino sumergido opere su sistema de propulsión, sin acceso al oxígeno atmosférico, durante más tiempo del que hubieran permitido las baterías.*
+
+*N.B.: Para el equipo nuclear de propulsión, véase el subartículo ML9.h.*
+
+c) Aparatos de detección subacuática, diseñados especialmente para uso militar, controles para ellos y componentes para ellos diseñados especialmente para un uso militar;
+
+d) Redes antisubmarinos y antitorpedos, diseñadas especialmente para un uso militar; e) Sin uso desde 2003.
+
+f) Obturadores de casco y conectores, diseñados especialmente para uso militar, que permitan una interacción con los equipos exteriores del buque, y componentes para ellos diseñados especialmente para uso militar;
+
+*Nota 1: El subartículo ML9.f incluye los conectores navales de tipo conductor simple o multiconductor, coaxiales o guías de ondas, y los obturadores de casco para buques, ambos capaces de estanqueidad y de conservar las características necesarias a profundidades submarinas de más de 100 m; así como los conectores de fibra óptica y los obturadores de casco ópticos diseñados especialmente para transmisión por haz “láser”, cualquiera que sea la profundidad.*
+
+*Nota 2: El subartículo ML9.f no se aplica a los obturadores de casco ordinarios para el árbol de propulsión y el vástago del mando hidrodinámico.*
+
+g) Rodamientos silenciosos que tengan cualquiera de las características siguientes, componentes para ellos y equipos que contengan tales rodamientos, diseñados especialmente para uso militar:
+
+1\. Suspensión magnética o de gas;
+
+2\. Controles activos para la supresión de la firma; o
+
+3\. Controles para la supresión de la vibración.
+
+h) Equipo nuclear generador de potencia o propulsión, diseñado especialmente para buques especificados en el subartículo ML9.a, y componentes para ellos diseñados especialmente o 'modificados' para uso militar;
+
+*Nota técnica: A efectos del subartículo ML9.h., 'modificación' significa un cambio estructural, eléctrico, mecánico u otro que confiera a un material no militar capacidades militares equivalentes a las de un material diseñado especialmente para uso militar.*
+
+*Nota: El subartículo ML9.h, incluye los “reactores nucleares”.*
+
+**ML10 “Aeronaves”, “vehículos más ligeros que el aire”, “vehículos aéreos no tripulados” (“UAVs”, por sus siglas en inglés), motores de aviación, “naves suborbitales” y equipos para “aeronaves”, equipos asociados, y componentes, según se indica, diseñados especialmente o modificados para uso militar:**
+
+*N.B.: Para equipos de guiado y navegación, véase el artículo ML11.*
+
+a) “Aeronaves” y “vehículos más ligeros que el aire” tripulados, y componentes diseñados especialmente para ellos;
+
+b) Sin uso desde 2011;
+
+c) “Aeronaves” y “vehículos más ligeros que el aire” no tripulados, y equipo relacionado, según se indica, y componentes diseñados especialmente para ellos:
+
+1\. “Vehículos aéreos no tripulados”, vehículos aéreos teledirigidos, vehículos autónomos programables y “vehículos más ligeros que el aire” no tripulados;
+
+2\. Lanzadores, equipo de recuperación y equipo de apoyo en tierra;
+
+3\. Equipo diseñado para mando o control;
+
+d) Motores aeronáuticos de propulsión y componentes diseñados especialmente para ellos;
+
+e) Equipos de reabastecimiento en vuelo diseñados especialmente o modificados para cualquiera de las siguientes aeronaves, y componentes diseñados especialmente para ellos:
+
+1\. “Aeronaves” especificadas en el subartículo ML10.a; o
+
+2\. “Aeronaves” no tripuladas especificadas en el subartículo ML10.c;
+
+f) Equipo de tierra diseñado especialmente para las “aeronaves” especificadas en el subartículo ML10.a o los motores aeronáuticos especificados en el subartículo ML10.d;
+
+*Nota 1: El subartículo ML10.f incluye el equipo para el abastecimiento de carburante a presión y el equipo diseñado para facilitar operaciones en áreas restringidas, incluido el equipo situado a bordo de una nave.*
+
+*Nota 2: El subartículo ML10.f no se aplica a:*
+
+*1. Barras de remolque;*
+
+*2. Esteras y cubiertas de protección; 3. Escaleras de mano, escalones y andenes;*
+
+*4. Calzos, amarres y equipos de sujeción.*
+
+g) Equipo de supervivencia para tripulaciones aéreas, equipo de seguridad para tripulaciones aéreas y otros dispositivos de salida de emergencia, no especificados en el subartículo ML10.a, diseñados para “aeronaves” especificadas en el subartículo ML10.a o “naves suborbitales” especificadas en el subartículo ML10.j;
+
+*Nota: El subartículo ML10.g, no somete a control los cascos para tripulaciones aéreas que no llevan incorporados equipos especificados en este anexo I.1, ni llevan acoplamientos o accesorios para tales equipos.*
+
+*N.B.: Para los cascos, véase también el subartículo ML13.c.*
+
+h) Paracaídas, parapentes y equipo relacionado, según se indica, y componentes diseñados especialmente para ellos:
+
+1\. Paracaídas no especificados en otro lugar de este anexo I.1;
+
+2\. Parapentes;
+
+3\. Equipos diseñados especialmente para paracaidismo de gran altura;
+
+i) Equipo con apertura controlada o sistemas de pilotaje automático, diseñados para cargas lanzadas en paracaídas.
+
+j) “Naves suborbitales” y equipo relacionado, según se indica, y componentes diseñados especialmente para ellos:
+
+1\. “Naves suborbitales”;
+
+2\. Equipo de lanzamiento, equipo de recuperación y equipo de apoyo en tierra;
+
+3\. Equipo diseñado para mando o control;
+
+*Nota 1: El subartículo ML10.a, no se aplica a las “aeronaves”, los “vehículos más ligeros que el aire”, ni las variantes de esas “aeronaves”, diseñados especialmente para uso militar y que tengan todas las características siguientes:*
+
+*a. No ser “aeronaves” de combate;*
+
+*b. No estar configurados para uso militar y no incorporar equipos o aditamentos diseñados especialmente o modificados para uso militar; y*
+
+*c. Estar certificados para uso civil por las autoridades de aviación civil de uno o más Estados miembros de la UE o Estados participantes en el Arreglo de Wassenaar.*
+
+*Nota 2: El subartículo ML10.d, no se aplica a:*
+
+*a. Motores aeronáuticos diseñados o modificados para uso militar que hayan sido certificados por las autoridades de aviación civil de uno o más Estados miembros de la UE o Estados participantes en el Arreglo de Wassenaar para su uso en “aeronaves civiles”, o los componentes diseñados especialmente para ellos;*
+
+*b. Motores alternativos o los componentes diseñados especialmente para ellos, salvo los diseñados especialmente para “vehículos aéreos no tripulados”.*
+
+*Nota 3: A los efectos de los subartículos Ml10.a., Ml10.d., y ML10.j., los componentes diseñados especialmente y el equipo relacionado para “aeronaves”, motores aeronáuticos o “naves suborbitales” no militares modificados para uso militar se aplican solo a aquellos componentes y equipo militar relacionado requerido para la modificación para uso militar.*
+
+*Nota 4: A los efectos de los subartículos Ml10.a, y ML10.j., el uso militar incluye: combate, reconocimiento militar, ataque, entrenamiento militar, apoyo logístico y transporte y paracaidismo de tropas o equipo militar.*
+
+*Nota 5: El subartículo ML10.a, no se aplica a las “aeronaves” ni a los “vehículos más ligeros que el aire” que tengan todas las características siguientes:*
+
+*a. Haber sido manufacturados por primera vez con anterioridad a 1946;*
+
+*b. No incorporar artículos especificados en el presente anexo, salvo que dichos artículos sean necesarios para cumplir las normas de seguridad o de navegabilidad de las autoridades de aviación civil de uno o más Estados miembros de la UE o Estados participantes en el Arreglo de Wassenaar; y*
+
+*c. No incorporar armas especificadas en la Lista Común Militar de la UE, a menos que sean inservibles y no puedan volver a hacerse funcionar.*
+
+*Nota 6: El subartículo ML10.d, no se aplica a los motores aeronáuticos de propulsión manufacturados por primera vez con anterioridad a 1946.*
+
+**ML11 Equipos electrónicos, “vehículos espaciales” y componentes no especificados en ninguna otra parte de este anexo, según se indica:**
+
+a) Equipo electrónico diseñado especialmente para uso militar y componentes diseñados especialmente para él;
+
+*Nota: El subartículo ML11.a incluye:*
+
+*a. Los equipos de contramedidas y contracontramedidas electrónicas (es decir, equipos diseñados para introducir señales extrañas o erróneas en un radar o en receptores de radiocomunicaciones, o para perturbar de otro modo la recepción, el funcionamiento o la eficacia de los receptores electrónicos del adversario, incluidos sus equipos de contramedidas), incluyendo los equipos de interferencia intencionada y antiinterferencia;*
+
+*b. Los tubos con agilidad de frecuencia;*
+
+*c. Los sistemas o equipos electrónicos diseñados bien para la vigilancia y la supervisión del espectro electromagnético para la inteligencia militar o la seguridad, o bien para oponerse a tales controles y vigilancias;*
+
+*d. Los equipos subacuáticos de contramedidas, incluyendo el material acústico y magnético de perturbación y señuelo, diseñados para introducir señales extrañas o erróneas en los receptores sonar;*
+
+*e. Los equipos de seguridad en proceso de datos, de seguridad de los datos y de seguridad de los canales de transmisión y de señalización, que utilicen procedimientos de cifrado;*
+
+*f. Los equipos de identificación, autenticación y cargadores de clave, y los equipos de gestión, fabricación y distribución de clave;*
+
+*g. Los equipos de guiado y navegación;*
+
+*h. Los equipos de transmisión de radiocomunicaciones digitales por dispersión troposférica;*
+
+*i. Los desmoduladores digitales diseñados especialmente para la inteligencia de señales;*
+
+*j. 'Sistemas automatizados de mando y control'.*
+
+*Nota técnica:*
+
+*A efectos de la Nota j, del artículo ML11.a., los 'Sistemas Automatizados de Mando y Control' son sistemas electrónicos mediante los cuales se introduce, procesa y transmite información esencial para el funcionamiento eficaz de la agrupación, formación mayor, formación táctica, unidad, buque, subunidad o armamento bajo mando. Esto se logra mediante el uso de equipos informáticos y otros equipos especializados diseñados para apoyar las funciones de una organización militar de mando y control. Las principales funciones de un sistema automatizado de mando y control son: la recopilación, acumulación, almacenamiento y procesamiento eficientes y automatizados de información; la visualización de la situación y las circunstancias que afectan a la preparación y conducción de las operaciones de combate; los cálculos operativos y tácticos para la asignación de recursos entre las agrupaciones de fuerzas o elementos del orden operativo de batalla o del despliegue de batalla, según la misión o la fase de la operación; la preparación de datos para la evaluación de la situación y la toma de decisiones en cualquier momento durante la operación o el combate; y la simulación informática de operaciones.*
+
+*N.B.: Para el “software” asociado con la Radio Definida por “Software” (SDR) para uso militar, véase el artículo ML21.*
+
+b) Equipos de interferencia intencionada diseñados o modificados para impedir la recepción, el funcionamiento o la eficacia de los servicios de posicionamiento, navegación o temporización proporcionados por los “sistemas de radionavegación por satélite”, y componentes diseñados especialmente para ellos;
+
+c) “Vehículos espaciales” diseñados especialmente o modificados para uso militar, y componentes de “vehículos espaciales” diseñados especialmente para uso militar.
+
+**ML12 Sistemas de armas de energía cinética de alta velocidad y equipo relacionado, según se indica, y componentes diseñados especialmente para ellos:**
+
+a) Sistemas de armas de energía cinética diseñados especialmente para destruir un objetivo o hacer abortar la misión del objetivo;
+
+b) Instalaciones de ensayo y de evaluación y modelos de prueba diseñadas especialmente, incluidos los instrumentos de diagnóstico y los blancos, para la prueba dinámica de proyectiles y sistemas de energía cinética.
+
+*N.B.: Para los sistemas de armas que utilicen municiones subcalibradas o únicamente se sirvan de la propulsión química, y las municiones para ellos, véanse los artículos ML1, ML2, ML3 y ML4.*
+
+*Nota 1: El artículo ML12 incluye los equipos siguientes, cuando estén diseñados especialmente para sistemas de armas de energía cinética:*
+
+*a. Los sistemas de propulsión para lanzamiento capaces de acelerar masas superiores a 0,1 g a velocidades superiores a 1,6 km/s, en modo de disparo simple o rápido;*
+
+*b. Los equipos de producción de potencia principal, de blindaje eléctrico, de almacenamiento de energía (por ejemplo, condensadores de alta capacidad de almacenamiento de energía), de control térmico, de acondicionamiento, de conmutación o de manipulación de combustible; e interfaces eléctricas entre la fuente de alimentación, el cañón y las demás funciones de excitación eléctrica de la torreta;*
+
+*N.B.: Véase también el subartículo 3A001.e.2 en la Lista de Productos de Doble Uso de la UE para condensadores de alta capacidad de almacenamiento de energía.*
+
+*c. Los sistemas de captación o seguimiento de objetivos, de dirección de tiro o de evaluación de daños;*
+
+*d. Los sistemas de búsqueda de objetivos, de guiado o de propulsión derivada (aceleración lateral), para proyectiles.*
+
+*Nota 2: El artículo ML12 se aplica a los sistemas de armas que utilicen cualquiera de los métodos de propulsión siguientes:*
+
+*a. Electromagnética;*
+
+*b. Electrotérmica;*
+
+*c. Por plasma;*
+
+*d. De gas ligero; o*
+
+*e. Química (cuando se utilice en combinación con otro cualquiera de los demás métodos indicados).*
+
+**ML13 Equipos blindados o de protección, construcciones, componentes y accesorios, según se indica:**
+
+a) Planchas de blindaje metálicas o no que tengan cualquiera de las características siguientes:
+
+1\. Manufacturadas para cumplir estándares o especificaciones militares; o
+
+2\. Apropiadas para uso militar;
+
+*N.B: Para las placas de trajes blindados, véase ML13.d.2.*
+
+b) Construcciones de materiales metálicos o no y combinaciones de ellas diseñadas especialmente para ofrecer una protección balística a los sistemas militares, y los componentes diseñados especialmente para ellas.
+
+c) Cascos y componentes y accesorios diseñados especialmente para ellos, según se indica:
+
+1\. Cascos manufacturados de acuerdo con estándares o especificaciones militares, o con normas nacionales comparables;
+
+2\. Armazones, revestimientos y acolchados diseñados especialmente para los cascos que se especifican en el subartículo ML13.c.1;
+
+3\. Complementos de protección balística diseñados especialmente para los cascos que se especifican en el subartículo ML13.c.1;
+
+*N.B.: Véase la entrada correspondiente de este anexo para otros componentes o accesorios del casco para militares.*
+
+d) Trajes blindados o prendas de protección, y componentes para ellos, según se indica:
+
+1\. Trajes blindados blandos, prendas de protección manufacturadas para cumplir estándares o especificaciones militares, o sus equivalentes, y componentes diseñados especialmente para ellas;
+
+*Nota: A los efectos del subartículo ML13.d.1, los estándares o especificaciones militares incluyen, como mínimo, especificaciones de protección contra la fragmentación.*
+
+2\. Placas rígidas para trajes blindados que proporcionen protección antibalas de nivel igual o superior al nivel III (NIJ 0101.06, julio de 2008) o “normas equivalentes”.
+
+*Nota 1: El subartículo ML13.b incluye los materiales diseñados especialmente para constituir blindajes explosivos reactivos o para construir refugios militares.*
+
+*Nota 2: El subartículo ML13.c no se aplica a los cascos que tengan todas las características siguientes:*
+
+*a. Haber sido manufacturados por primera vez con anterioridad a 1970; y*
+
+*b. No estar diseñados ni modificados para aceptar material especificado en la Lista Común Militar de la UE ni estar equipados con dicho material.*
+
+*Nota 3: Los subartículos ML13.c y ML13.d no se aplican a los cascos, trajes blindados ni prendas de protección, cuando acompañen a su usuario para su protección personal.*
+
+*Nota 4: Los únicos cascos diseñados especialmente para el personal de desactivación de explosivos que están especificados en el artículo ML13.c son los cascos diseñados especialmente para uso militar.*
+
+*Nota 5: El subartículo ML13.d.1 no se aplica a las gafas protectoras.*
+
+*N.B.: Para las gafas protectoras, véase ML17.o.*
+
+*N.B.1.: Véase también el artículo 1A005 de la Lista de Productos de Doble Uso de la UE.*
+
+*N.B.2: Para los “materiales fibrosos o filamentosos” utilizados en la manufactura de los trajes blindados y de los cascos, véase el artículo 1C010 de la Lista de Productos de Doble Uso de la UE.*
+
+**ML14 “Equipos especializados para el entrenamiento militar” o la simulación de escenarios militares, simuladores diseñados especialmente para el aprendizaje del manejo de armas de fuego u otras armas especificadas en los artículos ML1 o ML2, y componentes y accesorios diseñados especialmente para ellos.**
+
+*Nota 1: El artículo ML14 incluye los sistemas de generación de imágenes y los sistemas de entorno interactivo para simuladores cuando estén diseñados especialmente o modificados para uso militar.*
+
+*Nota 2: El artículo ML14 no se aplica al equipo diseñado especialmente para el entrenamiento en el uso de armas de caza o tiro deportivo.*
+
+*Nota 3: 'Equipo especializado para el entrenamiento militar' incluye los tipos militares de entrenadores de ataque, entrenadores de vuelo operativo, entrenadores de blancos radar, generadores de blancos radar, dispositivos de entrenamiento para el tiro, de entrenamiento de guerra antisubmarina, simuladores de vuelo (incluidas las centrifugadoras para personas, destinadas a la formación de pilotos y astronautas), entrenadores para la utilización de radares, entrenadores para instrumentos de vuelo, entrenadores para la navegación, entrenadores para el lanzamiento de misiles, equipos para blancos, “aeronaves” no tripuladas, entrenadores de armamento, “aeronaves” no tripuladas, unidades móviles de entrenamiento y equipos de entrenamiento para operaciones militares en tierra.*
+
+**ML15 Equipos de formación de imagen o de contramedida, según se indica, diseñados especialmente para uso militar y componentes y accesorios diseñados especialmente para ellos:**
+
+a) Grabadoras y equipos de proceso de imagen;
+
+b) Cámaras, equipo fotográfico y equipo para el revelado de películas;
+
+c) Equipo para la intensificación de imágenes;
+
+d) Equipo de formación de imagen de infrarrojos o térmica;
+
+e) Equipo sensor de imagen por radar;
+
+f) Equipos de contramedida y contracontramedida para los equipos especificados en los subartículos ML15.a a ML15.e.
+
+*Nota: El subartículo ML15.f incluye equipo diseñado para degradar el funcionamiento o la efectividad de los sistemas militares de imagen o para minimizar tales efectos degradantes.*
+
+*Nota: El artículo ML15 no se aplica a los “tubos intensificadores de imagen de la primera generación” ni a los equipos diseñados especialmente para incorporar “tubos intensificadores de imagen de la primera generación”.*
+
+*N.B.: Para la clasificación de los visores que incorporen “tubos intensificadores de imagen de la primera generación” véanse los artículos ML1, ML2 y ML5.a.*
+
+*N.B.: Véanse también los subartículos 6A002.a.2 y 6A002.b de la Lista de Productos de Doble Uso de la UE.*
+
+**ML16 Piezas de forja, piezas de fundición y productos semielaborados, diseñados especialmente para los productos especificados en los artículos ML1, ML2, ML3, ML4, ML6, ML9, ML10, ML12 o ML19.**
+
+*Nota: El artículo ML16 se aplica a los productos semielaborados que sean identificables por la composición del material, geometría o función.*
+
+**ML17 Equipos misceláneos, materiales y “bibliotecas”, según se indica, y componentes diseñados especialmente para ellos:**
+
+a) Equipos de buceo y natación subacuática, diseñados especialmente o modificados para uso militar, según se indica:
+
+1\. Recirculadores para buceo autónomos, de circuito cerrado y semicerrado;
+
+2\. Equipos de natación subacuática diseñados especialmente para ser utilizados con los equipos de buceo especificados en subartículo ML17.a.1;
+
+*N.B.: Véase también el subartículo 8A002.q en la Lista de Productos de Doble Uso de la UE.*
+
+b) Equipos de construcción diseñados especialmente para uso militar;
+
+c) Accesorios, revestimientos y tratamientos, para la supresión de firmas, diseñados especialmente para uso militar;
+
+d) Equipos de ingeniería diseñados especialmente para uso en zona de combate;
+
+e) “Robots”, unidades de control de “robots” y “efectores terminales” de “robots”, que tengan cualquiera de las siguientes características:
+
+1\. Diseñados especialmente para uso militar;
+
+2\. Que incorporen medios de protección de conductos hidráulicos contra las perforaciones de origen exterior causadas por fragmentos de proyectiles (por ejemplo, utilización de conductos autosellables) y diseñados para utilizar fluidos hidráulicos con temperatura de inflamación superior a 839 K (566 °C); o
+
+3\. Diseñados especialmente o preparados para funcionar en ambientes sometidos a “impulsos electromagnéticos”;
+
+*Nota técnica: A efectos del subartículo ML17.e.3, por 'impulsos electromagnéticos' no se entiende la interferencia no intencional causada por la radiación electromagnética de equipos cercanos (p.ej. maquinaria, dispositivos o equipos electrónicos) o el rayo.*
+
+f) “Bibliotecas” diseñadas especialmente o modificadas para uso militar con sistemas, equipos o componentes especificados en la Lista Común Militar de la UE y en este anexo I.1;
+
+g) Equipo nuclear generador de potencia o propulsión, no especificado en ninguna otra parte, diseñado especialmente para uso militar, y componentes para él diseñados especialmente o 'modificados' para uso militar;
+
+*Nota: El subartículo ML17.g incluye los “reactores nucleares”.*
+
+h) Equipo y material, revestido o tratado para la supresión de la firma, diseñado especialmente para uso militar, no especificado en ninguna otra parte de la Lista Común Militar de la UE;
+
+i) Simuladores diseñados especialmente para “reactores nucleares” militares;
+
+j) Talleres de reparación móviles diseñados especialmente o ‘modificados’ para dar servicio a equipo militar;
+
+k) Generadores de campaña diseñados especialmente o ‘modificados’ para uso militar;
+
+l) Contenedores intermodales ISO o carrocerías desmontables (es decir, cajas móviles), diseñados especialmente o 'modificados' para uso militar;
+
+m) Transbordadores, no especificados en ninguna otra parte de este anexo, puentes y pontones diseñados especialmente para uso militar;
+
+n) Modelos para ensayo diseñados especialmente para el “desarrollo” de los materiales especificados en los artículos ML4, ML6, ML9 o ML10;
+
+o) Equipos para protección de “láser” (por ejemplo, protectores de ojos o sensores) diseñados especialmente para uso militar;
+
+p) “Pilas de combustible” no especificadas en ninguna otra parte de en este anexo I.1, diseñadas especialmente o “modificadas” para uso militar.
+
+*Notas técnicas:*
+
+*1. No se usa desde 2014.*
+
+*2. A efectos del artículo ML17, 'modificación' significa un cambio estructural, eléctrico, mecánico u otro que confiera a un material no militar capacidades militares equivalentes a las de un material diseñado especialmente para uso militar.*
+
+**ML18 Equipo de ‘producción’, instalaciones de ensayo ambiental y componentes, según se indica:**
+
+a) Equipos de ‘producción’ diseñados especialmente o modificados para la 'producción' de los artículos especificados en este anexo I.1, y componentes diseñados especialmente para ellos;
+
+b) Instalaciones de ensayo ambiental diseñadas especialmente y equipos diseñados especialmente para ellas, que no se especifiquen en otro sitio, para la certificación, calificación o ensayo de productos especificados en este anexo.
+
+*Nota técnica:*
+
+*A efectos del artículo ML18, el término 'producción' incluye el diseño, la inspección, la fabricación, el ensayo y la verificación.*
+
+**ML19 Sistemas de Armas de Energía Dirigida (DEW, por sus siglas en inglés), equipos relacionados o de contramedida y modelos de ensayo, según se indica, y componentes diseñados especialmente para ellos:**
+
+a) Sistemas de armas “láser” no especificados ML19.f;
+
+b) Sistemas de haces de partículas;
+
+c) Sistemas de radiofrecuencia (RF) de gran potencia;
+
+d) Equipos diseñados especialmente para la detección o la identificación de los sistemas especificados por los subartículos ML19.a, ML19.b o ML19.c o para la defensa contra esos sistemas;
+
+e) Modelos físicos para ensayo para los sistemas, equipos y componentes, especificados en el artículo ML19;
+
+f) Sistemas “láser” diseñados especialmente para causar ceguera permanente a un observador sin visión aumentada, es decir, al ojo desnudo o al ojo con dispositivos correctores de la visión.
+
+*Nota 1: Los sistemas de armas de energía dirigida especificados en el artículo ML19 incluyen los sistemas cuyas posibilidades se deriven de la aplicación controlada de:*
+
+*a. “Láseres” con suficiente potencia para efectuar una destrucción semejante a la obtenida por municiones convencionales;*
+
+*b. Aceleradores de partículas que proyecten un haz de partículas cargadas o neutras con potencia destructora;*
+
+*c. Transmisores de radiofrecuencia de alta potencia emitida en impulsos o de alta potencia media, que produzcan campos suficientemente intensos para inutilizar los circuitos electrónicos de un objetivo distante.*
+
+*Nota 2: El artículo ML19 incluye lo siguiente cuando esté diseñado especialmente para los sistemas de armas de energía dirigida:*
+
+*a. Equipos de producción de potencia principal, de almacenamiento de energía, de conmutación, de acondicionamiento de potencia o de manipulación de combustible;*
+
+*b. Sistemas de captación o seguimiento de objetivos;*
+
+*c. Sistemas capaces de evaluar los daños causados a un objetivo, su destrucción o el aborto de su misión;*
+
+*d. Equipos de manipulación, propagación y puntería, de haz;*
+
+*e. Equipos con exploración rápida por haces para operaciones rápidas contra objetivos múltiples;*
+
+*f. Ópticas adaptativas y dispositivos de conjugación de fase;*
+
+*g. Inyectores de corriente por haces de iones de hidrógeno negativos;*
+
+*h. Componentes de acelerador “calificados para uso espacial”;*
+
+*i. Equipos de canalización de haces de iones negativos;*
+
+*j. Equipos para el control y la orientación de un haz de iones de alta energía*
+
+*k. Láminas “calificadas para uso espacial” para la neutralización de haces de isótopos de hidrógeno negativos.*
+
+*Nota técnica:*
+
+*A efectos del artículo ML19, los “sistemas de armas” están diseñados para dañar, destruir o hacer abortar la misión del objetivo.*
+
+**ML20 Equipos criogénicos y “superconductores”, según se indica, componentes y accesorios diseñados especialmente para ellos:**
+
+a) Equipos diseñados especialmente o configurados para ser instalados en vehículos para aplicaciones militares terrestres, marítimas, aeronáuticas o espaciales, capaces de funcionar en movimiento y de producir o mantener temperaturas inferiores a 103 K (-170 °C);
+
+*Nota: El subartículo ML20.a incluye los sistemas móviles que contengan o utilicen accesorios o componentes fabricados a partir de materiales no metálicos o no conductores de electricidad, tales como los materiales plásticos o los materiales impregnados de resinas epoxi.*
+
+b) Equipos eléctricos “superconductores” (máquinas rotativas y transformadores) diseñados especialmente o configurados para ser instalados en vehículos para aplicaciones militares terrestres, marítimas, aeronáuticas o espaciales, y capaces de funcionar en movimiento.
+
+*Nota: El subartículo ML20.b no se aplica a los generadores homopolares híbridos de corriente continua que tengan armaduras metálicas normales de un solo polo girando en un campo magnético producido por bobinados superconductores, a condición de que estos bobinados sean el único elemento superconductor en el generador.*
+
+**ML21 “Software”, según se indica:**
+
+a) “Software” diseñado especialmente o modificado para cualquiera de lo siguiente:
+
+1\. El “desarrollo”, la “producción”, el funcionamiento o el mantenimiento de equipos especificados en este anexo I.1;
+
+2\. El “desarrollo” o la “producción” de materiales especificados en este anexo I.1; o
+
+3\. El “desarrollo”, la “producción”, el funcionamiento o el mantenimiento de “equipo lógico” especificado en este anexo I.1;
+
+b) “Software” específico, distinto del especificado en el subartículo ML21.a, según se indica:
+
+1\. “Software” diseñado especialmente para uso militar y diseñado especialmente para la modelización, la simulación o la evaluación de sistemas de armas militares;
+
+2\. “Software” diseñado especialmente para uso militar y diseñado especialmente para la modelización, la simulación o la evaluación de escenarios de operaciones militares;
+
+3\. “Software” destinado a determinar los efectos de las armas de guerra convencionales, nucleares, químicas o biológicas;
+
+4\. “Software” diseñado especialmente para uso militar y diseñado especialmente para aplicaciones de Mando, Comunicaciones, Control e Inteligencia (C3I) o de Mando, Comunicaciones, Control, Informática e Inteligencia (C4I);
+
+5\. “Software” diseñado especialmente o modificado para la realización de ciberoperaciones ofensivas militares;
+
+*Nota 1: El subartículo ML21.b.5 incluye el “software” diseñado para destruir, dañar, degradar o desactivar sistemas, equipo o “software” especificados en el presente anexo, y el “software” para el reconocimiento cibernético y el mando y control cibernéticos de estos.*
+
+*Nota 2: El subartículo ML21.b.5 no se aplica a la “divulgación de la vulnerabilidad” ni a la “respuesta en caso de incidente cibernético”, con limitación a la preparación o respuesta no militares en materia de ciberseguridad defensiva.*
+
+c) “Software”, no especificado en los subartículos ML21.a o ML21.b., diseñado especialmente o modificado para capacitar a equipos, no especificados en el presente anexo, para desarrollar las funciones militares de los equipos especificados en el presente anexo.
+
+*N.B.: Véanse los sistemas, equipos o componentes especificados en el presente anexo como “ordenadores digitales” de uso general que lleven instalado un “software” especificado en el subartículo ML21.c.*
+
+**ML22 “Tecnología”, según se indica:**
+
+a) “Tecnología”, distinta de la especificada en el subartículo ML22.b, “necesaria” para el “desarrollo”, la “producción”, el funcionamiento, la instalación, el mantenimiento, la reparación, la revisión o la restauración de los materiales especificados en este anexo I.1.
+
+b) “Tecnología” según se indica:
+
+1\. “Tecnología” “necesaria” para el diseño de las instalaciones completas de producción, el montaje de los componentes en ellas, y el funcionamiento, mantenimiento y reparación de dichas instalaciones para los materiales especificados en este anexo I.1, aunque los componentes de tales instalaciones de producción no estén especificados;
+
+2\. “Tecnología” “necesaria” para el “desarrollo” y la “producción” de armas pequeñas, aunque se use para la fabricación de reproducciones de armas pequeñas antiguas;
+
+3\. No se usa desde 2013;
+
+*N.B.: Véase el subartículo ML22.a para “tecnología”, anteriormente especificada en el subartículo ML22.b.3.*
+
+4\. No se usa desde 2013;
+
+*N.B.: Véase el subartículo ML22.a para “tecnología”, anteriormente especificada en el subartículo ML22.b.4.*
+
+5\. “Tecnología” “necesaria” exclusivamente para la incorporación de los “biocatalizadores” especificados en el subartículo ML7.i.1, en las sustancias portadoras militares o materiales militares.
+
+*Nota 1: La “tecnología” “necesaria” para el “desarrollo”, la “producción”, el funcionamiento, la instalación, el mantenimiento, la reparación, la revisión o la restauración de los materiales especificados e en este anexo I.1 permanece bajo control, aunque se aplique a cualquier material no especificado en la Lista Común Militar de la UE y en este anexo I.1.*
+
+*Nota 2: El artículo ML22 no se aplica a:*
+
+*a. La “tecnología” mínima necesaria para la instalación, el funcionamiento, mantenimiento o reparación, de los materiales no especificados o cuya exportación haya sido autorizada.*
+
+*b. La “tecnología” que sea “de conocimiento público”, de “investigación científica básica” o la información mínima necesaria para solicitudes de patentes.*
+
+*c. La “tecnología” para la inducción magnética para la propulsión continua de dispositivos de transporte civil.*
+
+> Se modifica por el art. único.1 de la Orden ECM/536/2026, de 29 de mayo. [Ref. BOE-A-2026-11628](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11628)
+
+> Se modifica por el art. único.1 de la Orden ECM/551/2025, de 30 de mayo. [Ref. BOE-A-2025-10778](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10778)
+
+> Se modifica por el art. único.1 a 8 de la Orden ECM/541/2024, de 6 de junio. [Ref. BOE-A-2024-11618](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-11618)
+
+> Se modifica por el art. único.1 a 22 de la Orden ICT/534/2023, de 26 de mayo. [Ref. BOE-A-2023-12785](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-12785)
+
+> Se modifica la categoría 2 por el art. único.12 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+> Se modifica por el art. único de la Orden ICT/1020/2021, de 24 de septiembre. [Ref. BOE-A-2021-15772](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-15772)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 240, de 7 de octubre de 2021. [Ref. BOE-A-2021-16292](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16292)
+
+> Se modifica por el art. único de la Orden ICT/697/2019, de 25 de junio. [Ref. BOE-A-2019-9596](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-9596)
+
+> Se modifica por el art. único.1 a 6 de la Orden ICT/657/2018, de 13 de junio. [Ref. BOE-A-2018-8383](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8383)
+
+> Se modifica por el art. único y Anexo I.1 de la Orden ECC/1493/2016, de 19 de septiembre. [Ref. BOE-A-2016-8633](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8633).
+
+## ANEXO I.2 — PRODUCTOS Y TECNOLOGÍAS ESPECÍFICOS DEL RÉGIMEN DE CONTROL DE TECNOLOGÍA DE MISILES (RCTM)
+
+Los productos sometidos al régimen de control de este anexo están integrados en el Reglamento (UE) 2021/821 del Parlamento y del Consejo, de 20 de mayo, por el que se establece el régimen de la Unión de control de las exportaciones, el corretaje, la asistencia técnica, el tránsito y la transferencia de productos de doble uso.
+
+> Se modifica por el art. único.2 de la Orden ECM/536/2026, de 29 de mayo. [Ref. BOE-A-2026-11628](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11628)
+
+> Se modifica por el art. único y Anexo I.2 de la Orden ECC/1493/2016, de 19 de septiembre. [Ref. BOE-A-2016-8633](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8633).
+
+## ANEXO II — RELACIÓN DE OTRO MATERIAL
+
+## ANEXO II.1 — ARMAS DE FUEGO, SUS PIEZAS Y COMPONENTES ESENCIALES Y MUNICIONES PARA USO CIVIL. VISORES Y MIRAS
+
+1\. Aquellas armas de fuego, así como sus partes y componentes esenciales y municiones, definidas en el anexo I del Reglamento (UE) N.º 41/2025 del Parlamento Europeo y del Consejo, de 19 de diciembre de 2024, relativo a las medidas de importación, exportación y tránsito de armas de fuego, componentes esenciales y municiones, y por el que se aplica el artículo 10 del Protocolo de las Naciones Unidas contra la fabricación y el tráfico ilícitos de armas de fuego, sus piezas y componentes y municiones, que complementa la Convención de las Naciones Unidas contra la delincuencia organizada transnacional(Protocolo de las Naciones Unidas sobre armas de fuego).
+
+*Nota:*
+
+*• El anexo II.1 se aplica a aquellas armas de fuego, sus partes y componentes esenciales y municiones, para uso civil.*
+
+*• Este anexo II.2, no incluye los materiales incluidos en el anexo I.1 y en el anexo III.1.*
+
+*• No están sometidas a control las partes y componentes no esenciales de armas de fuego, ni las armas de avancarga que sean réplicas de armas antiguas de acuerdo con su definición; ni las armas de aire comprimido.*
+
+*• Los componentes de municiones sometidos a control están definidos en el Reglamento de artículos pirotécnicos y cartuchería aprobado por Real Decreto 989/2015, de 30 de octubre.*
+
+2\. Tubos intensificadores de imagen y sensores de absorción de radiación infrarroja y sus componentes especialmente diseñados para armas de fuego de uso civil, distintas de las incluidas en el anexo I.1 de este Real Decreto y no incluidos en el anexo I del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo en lo que concierne a la lista de productos de doble uso.
+
+*Nota 1: Este artículo no somete a control los tubos intensificadores de primera generación.*
+
+*Nota 2: Este artículo somete a control aquellos sistemas de visión nocturna o térmica adaptables a armas de fuego de uso civil o a sus miras.*
+
+*Nota 3: Este artículo no somete a control los visores ópticos telescópicos.*
+
+*Nota 4: Este artículo no somete a control los visores con procesamiento de imagen electrónico especialmente diseñado para uso militar, por encontrase sometidos a control bajo el anexo I.1 de este Real Decreto.*
+
+> Se modifica por el art. único.3 de la Orden ECM/536/2026, de 29 de mayo. [Ref. BOE-A-2026-11628](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11628)
+
+> Se modifica el apartado 2 por el art. único.13 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+> Se modifica por el art. único y Anexo II.1 de la Orden ECC/1493/2016, de 19 de septiembre. [Ref. BOE-A-2016-8633](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8633).
+
+## ANEXO II.2 — RELACIÓN DE OTRO MATERIAL REFERIDO A MATERIAL POLICIAL Y ANTIDISTURBIOS
+
+1\. Artificios generadores, proyectores, emisores o dispensadores de humos, gases, “agentes antidisturbios” o sustancias incapacitantes.
+
+*Nota: Este subartículo no somete a control los cartuchos para pistolas de señalización.*
+
+2\. Lanzadores de los elementos descritos en el apartado anterior.
+
+*Nota 1: Este subartículo incluye los dispositivos para el lanzamiento de proyectiles antidisturbios y de artificios fumígenos y lacrimógenos (bocachas) que, para su funcionamiento, necesitan ser acoplados a un arma de fuego o de proyección por gas, aunque ésta no esté sometida a control.*
+
+*Nota 2: Este subartículo no somete a control las pistolas de señalización.*
+
+3\. Equipos de luz y sonido provocadores de aturdimiento, para el control de disturbios.
+
+4\. Vehículos para el control de disturbios con alguna de las siguientes características:
+
+1\. Sistemas para producir descargas eléctricas.
+
+2\. Sistemas para dispensar sustancias incapacitantes.
+
+3\. Sistemas para dispensar agentes antidisturbios.
+
+4\. Cañones de agua.
+
+5\. Esposas normales.
+
+*Nota: Esposas normales son aquellas que tienen una dimensión total incluida la cadena, medida desde el borde externo de un puño al borde externo del otro puño, comprendida entre 150 y 280 mm en posición cerrada y que no han sido modificadas para causar dolor o sufrimiento.*
+
+Los materiales incluidos en esta relación no abarcan los sometidos a control en el Reglamento Delegado (UE) 2025/928 de la Comisión, de 21 de mayo de 2025, por el que se modifica el Reglamento (UE) 2019/125 del Parlamento Europeo y del Consejo sobre el comercio de determinados productos que pueden utilizarse para aplicar la pena de muerte o infligir tortura u otros tratos o penas crueles, inhumanos o degradantes.
+
+> Se modifica por el art. único.4 de la Orden ECM/536/2026, de 29 de mayo. [Ref. BOE-A-2026-11628](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11628)
+
+> Se modifica por el art. único y Anexo II.2 de la Orden ECC/1493/2016, de 19 de septiembre. [Ref. BOE-A-2016-8633](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8633).
+
+## ANEXO III — LISTAS DE ARMAS DE GUERRA, OTRO MATERIAL Y PRODUCTOS Y TECNOLOGÍAS DE DOBLE USO SOMETIDOS A CONTROL
+
+*Nota: En algunos casos, los productos químicos se listan por nombre y número de registro del Chemical Abstracts Service (CAS). La lista se aplica a los productos químicos con la misma fórmula estructural (incluidos los hidratos) que están sometidos a control independientemente del nombre o del número CAS. Los números CAS se muestran para ayudar a identificar un producto químico o una mezcla particular, independientemente de su nomenclatura. Los números CAS no pueden utilizarse como identificadores únicos porque algunas formas de los productos químicos listados tienen números CAS diferentes y las mezclas que contienen un producto químico listado también pueden tener números CAS diferentes.*
+
+> Se modifica por el art. único.5 de la Orden ECM/536/2026, de 29 de mayo. [Ref. BOE-A-2026-11628](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11628)
+
+> Se modifica por el art. único y Anexo III de la Orden ECC/1493/2016, de 19 de septiembre. [Ref. BOE-A-2016-8633](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8633).
+
+## ANEXO III.1 — LISTA DE ARMAS DE GUERRA
+
+*Nota 1: Los términos que aparecen entre comillas dobles (“ ”) en el presente anexo se encuentran definidos en el Apéndice de Definiciones. Los términos que aparecen entre comillas simples (‘ ’) se encuentran definidos en el correspondiente artículo.*
+
+**1. Armas de fuego con un calibre de 12,7 mm (0,50 pulgadas) o inferior, según se indica:**
+
+a) Ametralladoras, fusiles, subfusiles y carabinas.
+
+1\. De calibre 12,7 mm que utilicen munición con vaina de ranura en el culote y no de pestaña o de reborde en el mismo lugar.
+
+2\. Que utilicen los siguientes calibres: (5,45x39,5), (5,56x45 o su equivalente 0,223), (7,62x39) y (7,62x51 OTAN).
+
+*N.B.: No se consideran armas de guerra las armas de repetición que utilicen munición de tipo 0,308 Winchester de bala expansiva o munición de tipo 7,62x39 de bala expansiva, para caza mayor.*
+
+b) Las armas de fuego automáticas no comprendidas en el apartado a) anterior.
+
+c) Armas de cañón de ánima lisa diseñadas especialmente para uso militar.
+
+**2. Armas o armamento de calibre superior a 12,7 mm (0,50 pulgadas), lanzadores y sus sistemas entrenadores, según se indica:**
+
+Piezas de artillería, cañones, obuses, morteros, armas contracarro, cañones sin retroceso, lanzaproyectiles, lanzagranadas, lanzacohetes, lanzamisiles, lanzallamas y material militar para lanzamiento de humos y gases.
+
+*N.B.: No se consideran armas de guerra las armas de calibre superior a 12,7 mm y menor de 20 mm que no utilicen munición con vaina de ranura en el culote.*
+
+**3. Municiones y cargas para las armas indicadas en los artículos 1 y 2 de la presente lista y los componentes diseñados especialmente para ellas.**
+
+**4. Bombas, torpedos, granadas, cohetes, minas, misiles, cargas de profundidad, cargas de demolición, diseñados o modificados para uso militar, y los componentes diseñados especialmente para ellos.**
+
+**5. Sistemas de vigilancia y observación y de puntería, guiado y de dirección de tiro diseñados o modificados para uso militar, según se indica, y los componentes diseñados especialmente para ellos:**
+
+a) Visores y miras de armas.
+
+b) Ordenadores de bombardeo.
+
+c) Equipos de radar.
+
+d) Equipos de telemando.
+
+e) Anteojos (incluidos los de visión nocturna).
+
+f) Cámaras de formación de imagen de infrarrojos o térmica.
+
+g) Telémetros.
+
+h) Equipo de puntería para cañones.
+
+i) Sistemas de control para armas.
+
+*Nota 1: Los equipos de la relación anterior, en particular los correspondientes a los apartados a, e, f, g y h, estarán sujetos a control siempre y cuando estén diseñados especialmente para uso militar, pudiendo ser asociados mediante acoplamiento mecánico o funcionalmente al armamento descrito en los artículos 1 y 2, y a las diversas plataformas y sistemas contemplados en este anexo III.1.*
+
+*No obstante, los equipos de visión nocturna que incorporen tubos intensificadores de imagen de primera generación y vayan asociados al armamento descrito en el artículo 2, y a las diversas plataformas y sistemas contemplados en este anexo III.1, no estarán sujetos a control*
+
+*Nota 2:*
+
+*La expresión componentes diseñados especialmente incluye lo siguiente, cuando estén diseñados especialmente para uso militar:*
+
+*a. Los tubos convertidores de imágenes infrarrojas;*
+
+*b. Los tubos intensificadores de imagen (distintos de los de la primera generación);*
+
+*c. Las placas de microcanales;*
+
+*d. Los sistemas de refrigeración para sistemas de formación de imágenes;*
+
+*e. Los inversores de imagen de fibra óptica;*
+
+*f. Los fotocátodos con semiconductores compuestos.*
+
+*N.B.: Véanse también los subartículos 6A002.a.2 y 6A002.b de la Lista de Productos de Doble Uso de la UE.*
+
+**6. Carros de combate y otros vehículos terrenos diseñados o modificados para uso militar y los componentes diseñados especialmente para ellos.**
+
+**7. Agentes toxicológicos y precursores químicos según se indican:**
+
+a) Agentes biológicos, químicos y radiactivos “adaptados para utilización en guerra”. Incluye los siguientes:
+
+1\. Agentes nerviosos para la guerra química:
+
+a. Alquil (metil, etil, n-propil o isopropil) –fosfonofluoridatos de O-alquilo (≤ C<sub>10</sub>, incluidos los cicloalquilos), tales como:
+
+Sarín (GB): metilfosfonofluoridato de O-isopropilo (CAS 107-44-8); y
+
+Somán (GD): metilfosfonofluoridato de O-pinacolilo (CAS 96-64-0);
+
+b. N, N-dialquil (metil, etil, n-propil o isopropil) fosforamidocianidatos de O-alquilo (≤ C<sub>10</sub>, incluidos los cicloalquilos), tales como:
+
+Tabún (GA): N, N-dimetilfosforamidocianidato de O-etilo (CAS 77-81-6);
+
+c. Alquil (metil, etil, n-propil o isopropil) fosfonotiolatos de O-alquilo (H o ≤ C<sub>10</sub>, incluyendo los cicloalquilos) y de S-2-dialquil (metil, etil, n-propil o isopropil)-aminoetil y sus sales alquiladas y protonadas, tales como:
+
+VX: Metilfosfonotiolato de O-etilo y de S-2-diisopropilaminoetilo (CAS 50782-69-9);
+
+d. Fluoruros de P-alquil (H o ≤ C<sub>10</sub>, incluido el cicloalquilo) N-(1-(dialquil(≤ C<sub>10</sub>, incluido el cicloalquilo)amino))alquiliden(H o ≤ C<sub>10</sub>, incluido el cicloalquilo) fosfonamídicos y sales alquilatadas o protonadas correspondientes.
+
+*Nota:*
+
+*A los efectos de este apartado se incluyen las siguientes sustancias, tales como:*
+
+*Fluoruro de N-(1-(di-n-decilamino)-n-deciliden)-P-decilfosfonamidico (CAS 2387495-99-8);*
+
+*Metil-(1-(dietilamino) etiliden) fosfonamidofluoridato (CAS 2387496-12-8);*
+
+e. O-alquil (H o ≤ C<sub>10</sub>, incluido el cicloalquilo) N-(1-(dialquil(≤ C<sub>10</sub>, incluido el cicloalquilo)amino))alquiliden(H o ≤ C<sub>10</sub>, incluido el cicloalquilo) fosforamidofluoridatos y sales alquilatadas o protonadas correspondientes:
+
+*Nota:*
+
+*A los efectos de este apartado, se incluyen las siguientes sustancias, tales como:*
+
+*O-n-decil N-(1-(di-n-decilamino)-n-deciliden)fosforamidofluoridato (CAS 2387496-00-4).*
+
+*Metil-(1-(dietilamino)etiliden)fosforamidofluoridato (CAS 2387496-04-8).*
+
+*Etil-(1-(dietilamino)etiliden)fosforamidofluoridato (CAS 2387496-06-0).*
+
+f. Metil-(bis(dietilamino)metilen)fosfonamidofluoridato (CAS 2387496-14-0).
+
+g. Carbamatos. (cuaternarios y bicuaternarios de dimetilcarbamoiloxipiridinas).
+
+1\. Cuaternarios de dimetilcarbamoiloxipiridinas:
+
+Dibromuro de 1-[N,N-dialquil(С≤10)-N-(n-(hidroxil, ciano, acetoxi)alquil(С≤10)) amonio]-n [N-(3-dimetil-carbamoxi-α-picolinil)-N,N-dialquil(С≤10) amonio]decano (n=1-8).
+
+*Nota:*
+
+*A los efectos de este apartado, se incluyen las siguientes sustancias, tales como:*
+
+*Dibromuro de 1-[N,N-dimetil-N-(2-hidroxi)etilamonio]-10-[N-(3-dimetil carbamoxi-α picolinil)-N,N-dimetilamonio]decano. (CAS (77104-62-2)).*
+
+2\. Bicuaternarios de dimetilcarbamoiloxipiridinas:
+
+Dibromuro de 1, n-bis[N-(3-dimetilcarbamoxi-α-picolil)-N,N-dialquil((С≤10) amonio]- alcano (2,(n-1)-diona) (n=2-12).
+
+*Nota:*
+
+*A los efectos de este apartado, se incluyen las siguientes sustancias, tales como:*
+
+*Dibromuro de 1,10-bis[N-(3-dimetilcarbamoxi-α-picolil)-N-etil-N-metilamonio]decano-2,9 diona). (CAS (77104-00-8))*
+
+2\. Agentes vesicantes para guerra química:
+
+a. Mostazas de azufre, tales como:
+
+1\. Clorometilsulfuro de 2-cloroetilo (CAS 2625-76-5);
+
+2\. Sulfuro de bis (2-cloroetilo) (CAS 505-60-2);
+
+3\. Bis (2-cloroetiltio) metano (CAS 63869-13-6);
+
+4\. 1,2-bis (2-cloroetiltio) etano (CAS 3563-36-8);
+
+5\. 1,3-bis (2-cloroetiltio)-n-propano (CAS 63905-10-2);
+
+6\. 1,4-bis (2-cloroetiltio)-n-butano (CAS 142868-93-7);
+
+7\. 1,5-bis (2-cloroetiltio)-n-pentano (CAS 142868-94-8);
+
+8\. Bis (2-cloroetiltiometil) éter (CAS 63918-90-1);
+
+9\. Bis (2-cloroetiltioetil) éter (CAS 63918-89-8);
+
+b. Levisitas, tales como:
+
+1\. 2-clorovinildicloroarsina (CAS 541-25-3);
+
+2\. Tris (2-clorovinil) arsina (CAS 40334-70-1);
+
+3\. Bis (2-clorovinil) cloroarsina (CAS 40334-69-8);
+
+c. Mostazas nitrogenadas, tales como:
+
+1\. HN1: bis (2-cloroetil) etilamina (CAS 538-07-8);
+
+2\. HN2: bis (2-cloroetil) metilamina (CAS 51-75-2);
+
+3\. HN3: tris (2-cloroetil) amina (CAS 555-77-1);
+
+3\. Agentes incapacitantes para la guerra química, tales como:
+
+a. Bencilato de 3-quinuclidinilo (BZ) (CAS 6581-06-2);
+
+4\. Agentes defoliantes para la guerra química, tales como:
+
+a. Butil 2-cloro-4-fluorofenoxiacetato (LNF);
+
+b. Ácido 2, 4, 5-triclorofenoxiacético (CAS 93-76-5) mezclado con ácido 2, 4- diclorofenoxiacético (CAS 94-75-7) [Agente naranja (CAS 39277-47-9)];
+
+b) Precursores binarios de agentes para la guerra química y precursores claves, según se indican:
+
+1\. Difluoruros de alquil (metil, etil, n-propil o isopropil) fosfonilo, tales como:
+
+*Nota:*
+
+*A los efectos de este apartado, se incluyen las siguientes sustancias, tales como:*
+
+*DF: Difluoruro de metilfosfonilo (CAS 676-99-3)*
+
+2\. Fosfonitos de O-alquilo (H iguales o inferiores a C<sub>10</sub>, incluido el cicloalquilo) O-2-dialquil (metil, etil, n-propil ó isopropil) aminoetilalquilo (metilo, etilo, n-propilo o isopropilo) y sales alquiladas y protonadas correspondientes.
+
+*Nota:*
+
+*A los efectos de este apartado, se incluyen las siguientes sustancias, tales como:*
+
+*QL: Metilfosfonito de O-etil-2-di-isopropilaminoetilo (CAS 57856-11-8).*
+
+3\. Clorosarín: Metilfosfonocloridato de O-isopropilo (CAS 1445-76-7);
+
+4\. Clorosomán: Metilfosfonocloridato de O-pinacolilo (CAS 7040-57-5).
+
+**8. Buques de guerra, equipos navales especializados y los componentes modificados o diseñados especialmente para ellos.**
+
+**9. “Aeronaves” de guerra (incluidos los vehículos aéreos no tripulados uav), Equipo relacionado y los componentes modificados o diseñados especialmente para ellos.**
+
+**10. Sistemas de armas de energía dirigida, según se indica, y los componentes diseñados especialmente para ellos:**
+
+a) Sistemas “láser” diseñados especialmente para destruir un objetivo o hacer abortar la misión de un objetivo.
+
+b) Sistemas de haces de partículas capaces de destruir un objetivo o hacer abortar la misión de un objetivo.
+
+c) Sistemas de radiofrecuencia (RF) de gran potencia capaces de destruir un objetivo o de hacer abortar la misión de un objetivo.
+
+**11. Satélites militares y los componentes diseñados especialmente para ellos.**
+
+**12. Equipos y sistemas de guerra electrónica, incluyendo cifrado, y bengalas, y los componentes diseñados especialmente para ellos.**
+
+*Nota: Los términos utilizados en la presente Lista se entenderán de acuerdo con la definición dada en la Relación de Material de Defensa (RMD) y en el Reglamento de Armas.*
+
+> Se modifica por el art. único.5 de la Orden ECM/536/2026, de 29 de mayo. [Ref. BOE-A-2026-11628](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11628)
+
+> Se modifica por el art. único.2 de la Orden ECM/551/2025, de 30 de mayo. [Ref. BOE-A-2025-10778](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10778)
+
+> Se modifica por el art. único y Anexo III.1 de la Orden ECC/1493/2016, de 19 de septiembre. [Ref. BOE-A-2016-8633](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8633).
+
+## ANEXO III.2 — OTRO MATERIAL REFERIDO A ARMAS DE FUEGO, SUS PIEZAS Y COMPONENTES ESENCIALES Y MUNICIONES PARA USO CIVIL Y VISORES, MIRAS Y EQUIPOS DE VISIÓN NOCTURNA SOMETIDOS A CONTROL EN LA IMPORTACIÓN Y/O INTRODUCCIÓN
+
+1\. Aquellas armas de fuego, así como sus partes y componentes esenciales y municiones, definidas en el anexo I del Reglamento (UE) N.º 41/2025 del Parlamento Europeo y del Consejo, de 19 de diciembre de 2024, relativo a las medidas de importación, exportación y tránsito de armas de fuego, componentes esenciales y municiones, y por el que se aplica el artículo 10 del Protocolo de las Naciones Unidas contra la fabricación y el tráfico ilícitos de armas de fuego, sus piezas y componentes y municiones, que complementa la Convención de las Naciones Unidas contra la delincuencia organizada transnacional (Protocolo de las Naciones Unidas sobre armas de fuego).
+
+*Nota:*
+
+*• El anexo III.2 se aplica a aquellas armas de fuego, sus partes y componentes esenciales y municiones, para uso civil.*
+
+*• Este anexo III.2, no incluye los materiales incluidos en el anexo I.1 y en el anexo III.1.*
+
+*• No están sometidas a control las partes y componentes no esenciales de armas de fuego, ni las armas de avancarga que sean réplicas de armas antiguas de acuerdo con su definición; ni las armas de aire comprimido.*
+
+*• Los componentes de municiones sometidos a control están definidos en el Reglamento de artículos pirotécnicos y cartuchería aprobado por Real Decreto 989/2015, de 30 de octubre.*
+
+2\. Tubos intensificadores de imagen y sensores de absorción de radiación infrarroja y sus componentes especialmente diseñados para armas de fuego de uso civil, distintas de las incluidas en el anexo I.1 de este Reglamento y no incluidos en el anexo I del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo en lo que concierne a la lista de productos de doble uso.
+
+*Nota 1: Este artículo no somete a control los tubos intensificadores de primera generación.*
+
+*Nota 2: Este artículo somete a control aquellos sistemas de visión nocturna o térmica adaptables a armas de fuego de uso civil o a sus miras.*
+
+*Nota 3: Este artículo no somete a control los visores ópticos telescópicos.*
+
+*Nota 4: Este artículo no somete a control los visores con procesamiento de imagen electrónico especialmente diseñado para uso militar, por encontrase sometidos a control bajo el anexo I.1 de este Reglamento.*
+
+> Se modifica por el art. único.6 de la Orden ECM/536/2026, de 29 de mayo. [Ref. BOE-A-2026-11628](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11628)
+
+> Se modifica el título por el art. único.23 de la Orden ICT/534/2023, de 26 de mayo. [Ref. BOE-A-2023-12785](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-12785)
+
+> Se sustituyen los apartados 2 y 3 por un único apartado 2, por el art. único.14 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+> Se modifica por el art. único y Anexo III.2 de la Orden ECC/1493/2016, de 19 de septiembre. [Ref. BOE-A-2016-8633](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8633).
+
+## ANEXO III.3 — LISTAS DE PRODUCTOS Y TECNOLOGÍAS DE DOBLE USO SOMETIDOS A CONTROL EN LA IMPORTACIÓN Y/O INTRODUCCIÓN
+
+**LISTA DE PRODUCTOS NUCLEARES DE DOBLE USO INCLUIDOS EN LA CONVENCIÓN SOBRE LA PROTECCIÓN FÍSICA DE LOS MATERIALES NUCLEARES**
+
+a. “Uranio natural” en forma de metal, aleación, compuesto químico o concentrado, así como cualquier otro material que lo contenga.
+
+Nota: no se someten a control cuatro gramos o menos de uranio natural cuando estén contenidos en un elemento sensor de un instrumento.
+
+b. “Materiales fisionables especiales”
+
+Nota: no se someten a control cuatro gramos efectivos o menos de materiales fisionables especiales cuando estén contenidos en un elemento sensor de un instrumento.
+
+**SUSTANCIAS QUÍMICAS QUE ESTÁN INCLUIDAS EN LAS LISTAS 1, 2 Y 3 DE LA CONVENCIÓN DE 13 DE ENERO DE 1993 SOBRE LA PROHIBICIÓN DEL DESARROLLO, LA PRODUCCIÓN, EL ALMACENAMIENTO Y EL EMPLEO DE ARMAS QUÍMICAS Y SOBRE SU DESTRUCCIÓN**
+
+**LISTA 1.**
+
+a. Ricina (CAS 9009-86-3)
+
+b. Saxitoxina (CAS 35523-89-8)
+
+**LISTA 2.**
+
+a. Sustancias químicas tóxicas:
+
+1\. Amitón: fosforotiolato de O,O-dietil S-[2-(dietilamino) etilo] (CAS 78-53-5) y sales alquiladas o protonadas correspondientes;
+
+2\. PFIB: 1,1,3,3,3-pentafluor-2-(trifluorometil)-1-propeno (CAS 382-21-8);
+
+3\. VÉASE LA LISTA DE ARMAS DE GUERRA EN LO QUE RESPECTA A
+
+BZ: Benzilato de 3-quinuclidinilo (CAS 6581-06-2);
+
+b. Precursores:
+
+4\. Sustancias químicas distintas de las incluidas en la Lista de Armas de Guerra, que contengan un átomo de fósforo en enlace con un grupo metilo, etilo, n-propilo o isopropilo, pero no en otros átomos de carbono.
+
+Ej.: Dicloruro de metilfosfonilo (CAS 676-97-1) Metilfosfonato de dimetilo (CAS 756-79-6)
+
+Excepción: Fonofos: Etilfosfonotiolotionato de O-etilo S-fenilo (CAS 944-22-9);
+
+5\. N,N-dialquil (metil, etil, n-propil o isopropil) dihaluros fosforamídicos;
+
+6\. Dialquil (metil, etil, n-propil o isopropil)-N,N- dialquílicos [metil, etil, n-propil o isopropilo] fosforamidatos;
+
+7\. Tricloruro de arsénico (CAS 7784-34-1);
+
+8\. Ácido 2,2-difenil-2-hidroxiacético (ácido bencílico) (CAS 76-93-7);
+
+9\. Quinuclidinol-3 (CAS 1619-34-7);
+
+10\. Cloruros de N,N-dialquil (metil, etil, n-propil o isopropil) aminoetil-2 y sales protonadas correspondientes;
+
+11\. N,N-dialquil (metil, etil, n-propil o isopropil) aminoetanoles-2 y sales protonadas correspondientes;
+
+Excepciones: N,N-dimetilaminoetanol (CAS 108-01-0) y sales protonadas correspondientes;
+
+N,N-dietilaminoetanol (CAS 100-37-8) y sales protonadas correspondientes
+
+12\. N,N-dialquil (metil, etil, n-propil o isopropil) aminoetanol-2 tioles y sales protonadas correspondientes;
+
+13\. Tiodiglicol: sulfuro de bis (2-hidroxietilo) (CAS 111-48-8);
+
+14\. Alcohol pinacólico: 3,3-dimetilbutanol-2 (CAS 464-07-3).
+
+**LISTA 3.**
+
+a. Sustancias químicas tóxicas:
+
+1\. Fosgeno: dicloruro de carbonilo (CAS 75-44-5);
+
+2\. Cloruro de cianógeno (CAS 506-77-4);
+
+3\. Cianuro de hidrógeno (CAS 74-90-8);
+
+4\. Cloropicrina: tricloronitrometano (CAS 76-06-2).
+
+b. Precursores:
+
+5\. Oxicloruro de fósforo (CAS 10025-87-3);
+
+6\. Tricloruro de fósforo (CAS 7719-12-2);
+
+7\. Pentacloruro de fósforo (CAS 10026-13-8);
+
+8\. Fosfito trimetílico (CAS 121-45-9);
+
+9\. Fosfito trietílico (CAS 122-52-1);
+
+10\. Fosfito dimetílico (CAS 868-85-9);
+
+11\. Fosfito dietílico (CAS 762-04-9);
+
+12\. Monocloruro de azufre (CAS 10025-67-9)
+
+13\. Dicloruro de azufre (CAS 10545-99-0);
+
+14\. Cloruro de tionilo (CAS 7719-09-7);
+
+15\. Etildietanolamina (CAS 137-87-7);
+
+16\. Metidietanolamina (CAS 105-59-9);
+
+17\. Trietanolamina (CAS 102-71-6).
+
+**LISTA DE PRODUCTOS DE DOBLE USO INCLUIDOS EN LA CONVENCIÓN SOBRE LA PROHIBICIÓN DEL DESARROLLO, PRODUCCIÓN Y EL ALMACENAMIENTO DE ARMAS BACTERIOLÓGICAS (BIOLÓGICAS) Y SOBRE SU DESTRUCCIÓN**
+
+a. Bacterias:
+
+Bacillus anthracis, brucella abortus, brucella melitensis, brucella suis, burkholderia (pseudomonas) mallei, burkholderia (pseudomonas) pseudomallei, coxiella burnetti*,*francisella tularensis, vibrio cholerae y yersinia pestis.
+
+b. Virus:
+
+ébola, encefalitis equina de Venezuela, encefalitis vector/garrapata, fiebres hemorrágicas y fiebre amarilla, guanarito, hantaan, junín, lassa, maburg, machupo, mycobacterium tuberculosis, nipah, sabia, viruela,.
+
+c. Toxinas:
+
+Botulínica, del clostridium perfringens, enterotoxina B de staphilococcus, ricina, saxitoxina, y T-2 micotoxinas.
+
+N. B.: Véanse los subartículos 7.a del anexo I.1 y del anexo III.1
+
+**MATERIAL DE DESACTIVACIÓN DE EXPLOSIVOS IMPROVISADOS**
+
+1A006 Equipos especialmente diseñados o modificados para la eliminación de artefactos explosivos improvisados (IED), según se indica, y componentes y accesorios diseñados expresamente para ellos:
+
+N.B. Véase asimismo la Relación de Material de Defensa.
+
+a. Vehículos de control remoto
+
+b. “Disruptores”.
+
+Nota técnica: A los efectos del subartículo 1A006.b los “disruptores” son dispositivos diseñados especialmente para impedir el funcionamiento de un dispositivo explosivo mediante el lanzamiento de un líquido, un sólido o un proyectil frangible.
+
+Nota: El artículo 1A006 no somete a control el equipo que va acompañado de su operador.
+
+5A001.h Material contra artefactos explosivos improvisados (IED) y equipo conexo, según se indica:
+
+1\. Equipos de transmisión por radiofrecuencia (RF), no especificados en el subartículo 5A001.f, diseñados o modificados para activar prematuramente o impedir la puesta en marcha de dispositivos explosivos improvisados (IED).
+
+2\. Equipos que utilicen técnicas destinadas a permitir las radiocomunicaciones en los mismos canales de frecuencia en los que transmite el equipo coubicado que se especifica en el subartículo 5A001.h.1.
+
+N.B. Véase asimismo la Relación de Material de Defensa.
+
+Lista de productos de doble uso no incluidos en el anexo I del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, por el que se establece un régimen de la Unión de control de las exportaciones, el corretaje, la asistencia técnica, el tránsito y la transferencia de productos de doble uso (versión refundida).
+
+1C901 Nitrato amónico (CAS 6484-52-2) en grado explosivo con una concentración mayor o igual de nitrógeno del 31,5 %.
+
+Nota 1: El artículo 1C901 somete a control nitrato amónico, nitrato amónico técnico, nitrato amónico granulado, nitrato amónico poroso y cualquier otra presentación en la que pueda ser utilizado como oxidante sólido.
+
+Nota 2: El artículo 1C901 incluye las mezclas explosivas de nitrato amónico con fuel, emulsiones, hidrogeles y explosivos resistentes al agua.
+
+Nota 3: El artículo 1C900 no somete a control el nitrato amónico en grado fertilizante de alta densidad y baja porosidad.
+
+Nota 4: el artículo 1C901 no somete a control el nitrato amónico (números ONU 1942 y 2426) para la fabricación de explosivos, así como de las matrices de emulsiones, suspensiones y geles a base de nitrato amónico (número ONU 3375) que se usen para la fabricación de explosivos, que se regirá por la Instrucción técnica complementaria número 30 del Reglamento de Explosivos, aprobado por el Real Decreto 130/2017, de 24 de febrero.
+
+5A901 Sistemas y equipos de radiofrecuencia no incluidos en las categorías 5.A.1.f y 5.A.1.h del anexo I del Reglamento (UE) 2021/821821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, componentes y accesorios, especialmente diseñados o modificados para desarrollar cualquiera de las siguientes funciones:
+
+1\. Tomar el control y comando de aviones no tripulados.
+
+2\. Interferir de forma deliberada y selectiva, denegar, inhibir, degradar o engañar, las señales de radiofrecuencia para el control y comando de aviones no tripulados.
+
+3\. Utilizar las características específicas del protocolo de radiofrecuencia empleado por los aviones no tripulados para interferir en su funcionamiento.
+
+N.B. Para los sistemas de perturbación GNSS, véase asimismo la Relación de Material de Defensa, categoría 11.b.
+
+1C903 “Materiales energéticos”, y sustancias relacionadas, según se indica:
+
+a. Nitrocelulosa (CAS 9004-70-0).
+
+b. 2,4,6-Trinitrotolueno (TNT) (CAS 118-96-7).
+
+Nota técnica:
+
+A los efectos de 1C903, los materiales energéticos y sustancias relacionadas, incluyen los productos descritos, así como aquellos derivados de estos para la fabricación final de explosivos.
+
+> Se modifica por el art. único.3 de la Orden ECM/551/2025, de 30 de mayo. [Ref. BOE-A-2025-10778](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10778)
+
+> Se modifica por el art. único.15 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+> Se modifica por el art. único y Anexo III.3 de la Orden ECC/1493/2016, de 19 de septiembre. [Ref. BOE-A-2016-8633](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8633).
+
+## ANEXO III.4 — LISTA DE PRODUCTOS SOMETIDOS A CONTROL EN LA EXPORTACIÓN Y/O EXPEDICIÓN NO INCLUIDOS EN EL ANEXO I DEL REGLAMENTO (UE) 2021/821 DEL PARLAMENTO EUROPEO Y DEL CONSEJO, DE 20 DE MAYO DE 2021, POR EL QUE SE ESTABLECE UN RÉGIMEN DE LA UNIÓN DE CONTROL DE LAS EXPORTACIONES, EL CORRETAJE, LA ASISTENCIA TÉCNICA, EL TRÁNSITO Y LA TRANSFERENCIA DE PRODUCTOS DE DOBLE USO (VERSIÓN REFUNDIDA)
+
+1C901 Nitrato amónico (CAS 6484-52-2) en grado explosivo con una concentración mayor o igual de nitrógeno del 31,5 %.
+
+Nota 1: El artículo 1C901 somete a control nitrato amónico, nitrato amónico técnico, nitrato amónico granulado, nitrato amónico poroso y cualquier otra presentación en la que pueda ser utilizado como oxidante sólido.
+
+Nota 2: El artículo 1C901 incluye las mezclas explosivas de nitrato amónico con fuel, emulsiones, hidrogeles y explosivos resistentes al agua.
+
+Nota 3: El artículo 1C901 no somete a control el nitrato amónico en grado fertilizante de alta densidad y baja porosidad.
+
+Nota 4: El artículo 1C901 no somete a control en la expedición el nitrato amónico (números ONU 1942 y 2426) para la fabricación de explosivos, así como de las matrices de emulsiones, suspensiones y geles a base de nitrato amónico (número ONU 3375) que se usen para la fabricación de explosivos, que se regirá por la Instrucción técnica complementaria número 30 del Reglamento de Explosivos, aprobado por el Real Decreto 130/2017, de 24 de febrero.
+
+5A901 Sistemas y equipos de radiofrecuencia no incluidos en las categorías 5.A.1.f y 5.A.1.h, componentes y accesorios, especialmente diseñados o modificados para desarrollar cualquiera de las siguientes funciones:
+
+1\. Tomar el control y comando de aviones no tripulados.
+
+2\. Interferir de forma deliberada y selectiva, denegar, inhibir, degradar o engañar, las señales de radiofrecuencia para el control y comando de aviones no tripulados.
+
+3\. Utilizar las características específicas del protocolo de radiofrecuencia empleado por los aviones no tripulados para interferir en su funcionamiento.
+
+N.B. Para los sistemas de perturbación GNSS, véase asimismo la Relación de Material de Defensa, categoría 11.b.
+
+1C903 “Materiales energéticos”, y sustancias relacionadas, según se indica:
+
+c. Nitrocelulosa (CAS 9004-70-0).
+
+d. 2,4,6-Trinitrotolueno (TNT) (CAS 118-96-7).
+
+Nota técnica:
+
+A los efectos de 1C903, los materiales energéticos y sustancias relacionadas, incluyen los productos descritos, así como aquellos derivados de éstos para la fabricación final de explosivos.
+
+> Se modifica por el art. único.4 de la Orden ECM/551/2025, de 30 de mayo. [Ref. BOE-A-2025-10778](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10778)
+
+> Se añade por el art. único.15 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+## ANEXO III.5 — LISTA DE PRODUCTOS SOMETIDOS A CONTROL EN LA EXPORTACIÓN NO INCLUIDOS EN EL ANEXO I DEL REGLAMENTO (UE) 2021/821
+
+*Nota: Los términos entre “comillas dobles” en el presente anexo se encuentran definidos en el Apéndice de Definiciones. Los términos que aparecen entre 'comillas simples' se encuentran definidos, generalmente, en el correspondiente artículo.*
+
+Nota general sobre tecnología
+
+La exportación de “software” y “tecnología” “necesaria” para el “desarrollo”, la “producción” o la “utilización” de productos sometidos a control incluidos en las categorías 0 a 9 se someterá a control de conformidad con lo dispuesto en las categorías 1 a 9. Asimismo, se controlará el “software” y la “tecnología” “necesaria” para el “desarrollo”, la “producción” o la “utilización” de los productos sometidos a control, aunque también sea aplicable a productos no sometidos a ningún control. No se aplicarán controles a aquel “software” y “tecnología” que sea la mínima necesaria para la instalación, el funcionamiento, el mantenimiento (revisión) o las reparaciones de aquellos productos no sometidos a control o cuya exportación se haya autorizado.
+
+Acrónimos y abreviaturas
+
+Para la aplicación e interpretación de este anexo resulta de aplicación la lista de acrónimos y abreviaturas contemplados en el anexo I del Reglamento (UE) 2021/821, así como los siguientes:
+
+|  | Acrónimos y abreviaturas |
+|---|---|
+| FPLD | Field Programmable Logic Device. |
+| LUT | Lookup table. |
+
+Definiciones
+
+Resulta de aplicación a este anexo la lista de definiciones contempladas en el anexo I del Reglamento (UE) 2021/821, así como las siguientes:
+
+“Metales y aleaciones refractarias”: Metales y aleaciones de niobio, molibdeno, tungsteno y tantalio.
+
+“GDSII” (“Graphic Design System II”) es un formato de archivo de base de datos para el intercambio de datos de diseños de circuitos integrados o de diseños de circuitos integrados.
+
+Lista de productos
+
+Quedan sometidos a las medidas de control previstas en el presente Reglamento los productos enumerados en la lista del anexo I del Reglamento (UE) 2021/821, de 20 de mayo de 2021. Asimismo, se incorporan al citado régimen de control los siguientes productos adicionales:
+
+| 1E902 | Tecnología asociada para la fabricación, desarrollo, utilización de armamento convencional fabricado a través de fabricación aditiva.<br>*Nota técnica:*<br>*A los efectos de 1E902, el armamento convencional incluye aquellas armas según se indica:*<br>*a. Clasificadas bajo las categorías ML1 y ML2 de la Lista Común Militar Europea.*<br>*b. Armas de fuego, sus piezas y componentes y municiones según lo contemplado en el Reglamento (UE) 2025/41 del Parlamento y del Consejo de 19 de diciembre de 2024.*<br>*c. ‘Armas de fuego improvisadas’*<br>*Nota: ‘Armas de fuego improvisadas’, incluye cualquier producto, terminado o no terminado, no contemplado bajo los artículos 1E902.a y 1E902.b, pero que puede llevar a cabo las mismas funciones independientemente de su precisión, resistencia, fiabilidad y durabilidad.* |
+|---|---|
+| 1C902 | Productos derivados del potasio, según se indica:<br>a. Cloruro de potasio (CAS 7447-40-7).<br>b. Abonos de cloruro potasio.<br>c. Abonos minerales o químicos cuya base sea fósforo y potasio.<br>Abonos minerales o químicos cuya base sea nitrógeno, fósforo y potasio. |
+
+| 3A901 | Circuitos electroópticos y circuitos integrados ópticos con 70 o más canales ópticos direccionables, que tengan todas las siguientes características:<br>a. Una o más guías de ondas ópticas;<br>b. Uno o más dispositivos de interferencia óptica interna, líneas de retardo, divisores de haz, desfasadores o resonadores de anillo; y<br>c. Cualquiera de los siguientes:<br>1. Una o más fuentes integradas en guías de ondas de fotones simples o entrelazados; o<br>2. Uno o más fotodetectores acoplados a guías de ondas que tengan resolución de fotón cero, fotón único y multifotón.<br>*Nota técnica:*<br>*A los efectos de 3A901, la cantidad de canales ópticos direccionables en un circuito integrado óptico se calcula de la siguiente manera:*<br>*canales ópticos direccionables = la cantidad de guías de ondas que terminan en un acoplador de salida + la cantidad de guías de ondas que están acopladas a un fotodetector especificado en 3A901.* |
+|---|---|
+| 3E901 | Tecnología para la fabricación de circuitos electroópticos y circuitos integrados ópticos, especificados en 3A901. |
+| 3A902 | Memoria de gran ancho de banda con una ‘densidad de ancho de banda de memoria’ superior a 6 gigabytes por segundo por milímetro cuadrado.<br>*Nota técnica:*<br>*A efectos del apartado 3A902, la ‘densidad de ancho de banda de memoria’ es el ancho de banda de memoria dividido por el área de una sola capa de la pila (longitud del chip multiplicada por su ancho). Por ejemplo, una memoria de alto ancho de banda con una longitud y un ancho de chip de 10 mm y un ancho de 800 gigabytes por segundo tendría una ‘densidad de ancho de banda de memoria’ de 8 gigabytes por segundo por milímetro cuadrado.* |
+| 3E925 | Tecnología para el desarrollo o la producción de *software* especificado en 3A902. |
+| 3A903 | Sistemas de refrigeración de helio de circuito cerrado diseñados para proporcionar una potencia de enfriamiento mayor o igual a 300 W a una temperatura de 4,5 K (-268,65 °C), y componentes especialmente diseñados para ellos. |
+| 3E926 | Tecnología para el desarrollo o la producción de software especificado en 3A903. |
+| 3B916 | Equipo diseñado para ‘unión híbrida’ y que tenga todas las características siguientes:<br>1. Precisión de alineación mejor (menor) que 1 µm; y<br>2. ‘Minientorno’ clasificado para ISO 3 o mejor.<br>*Nota: 3B901 incluye equipos diseñados para unión de matriz a matriz (D2D), matriz a oblea con colocación directa (DP-D2W), D2W colectiva (Co-D2W) y oblea a oblea (W2W).*<br>*Notas técnicas:*<br>*A los efectos de 3B901:*<br>*1. La ‘unión híbrida’ se define como la unión de metal con metal y de dieléctrico con capas dieléctricas en la misma secuencia de proceso.*<br>*2. El ‘minientorno’ es el entorno dentro de la herramienta.* |
+| 3E927 | Tecnología para la fabricación de equipos diseñados para “unión híbrida”, especificados en 3B901. |
+| 3D901 | *Software* diseñado para extraer GDSII o datos de diseño estándar equivalentes y realizar una alineación de capa a capa a partir de imágenes de microscopios electrónicos de barrido, y generar una lista de conexión de circuito o datos GDSII de varias capas.<br>*Nota técnica:*<br>*Por GDSII (Graphic Design System II) se entiende un formato de archivo de base de datos para el intercambio de datos de ilustraciones de circuitos integrados o ilustraciones de diseños de circuitos integrados.* |
+| 3E902 | Tecnología para el desarrollo o la producción de *software* especificado en 3D901. |
+| 3E928 | Tecnología para el desarrollo o la producción de productos electrónicos de acuerdo con la categoría 3A501 del Reglamento (UE) 2021/821. |
+| 3E929 | Tecnología para el desarrollo o la producción de conjuntos electrónicos de acuerdo con la categoría 3A502 del Reglamento (UE) 2021/821. |
+| 3E930 | Tecnología para el desarrollo o la producción de sistemas y componentes de refrigeración criogénica de acuerdo con la categoría 3A504 del Reglamento (UE) 2021/821. |
+| 3E931 | Tecnología para el desarrollo o la producción de equipos para la fabricación de dispositivos o de materiales semiconductores de acuerdo con la categoría 3B501 del Reglamento (UE) 2021/821. |
+
+| 4A901 | Computadoras cuánticas y ensamblajes electrónicos relacionados y sus componentes, como sigue:<br>a. Computadoras cuánticas, de acuerdo con los siguientes requisitos;<br>1. Computadoras cuánticas que admiten 34 o más ‘cúbits físicos’, pero menos de 100, ‘totalmente controlados’, ‘conectados’ y ‘funcionando’, y tener un error C-NOT menor o igual a 10-4;<br>2. Computadoras cuánticas que admiten 100 o más ‘cúbits físicos’, pero menos de 200, totalmente controlados, conectados y funcionando, y tener un error C-NOT menor o igual a 10-3;<br>3. Computadoras cuánticas que admiten 200 o más ‘cúbits físicos’, pero menos de 350, totalmente controlados, conectados y funcionando, y tener un error C-NOT menor o igual a 2x10-3;<br>4. Computadoras cuánticas que admiten 350 o más ‘cúbits físicos’, pero menos de 500, totalmente controlados, conectados y funcionando, y tener un error C-NOT menor o igual a 3x10-3;<br>5. Computadoras cuánticas que admiten 500 o más ‘cúbits físicos’, pero menos de 700, totalmente controlados, conectados y funcionando, y tener un error C-NOT menor o igual a 4 x 10-3;<br>6. Computadoras cuánticas que admiten 700 o más ‘cúbits físicos’, pero menos de 1100, totalmente controlados, conectados y funcionando, y tener un error C-NOT menor o igual a 5 x 10-3;<br>7. Computadoras cuánticas que admiten 1100 o más ‘cúbits físicos’, pero menos de 2000, totalmente controlados, conectados y funcionando, y tener un error C-NOT menor o igual a 6 x 10-3;<br>8. Computadoras cuánticas que admiten 2000 ‘cúbits físicos’ o más totalmente controlados, conectados y en funcionamiento;<br>b. Dispositivos cúbits y circuitos cúbits, que contengan o admitan grupos de cúbits físicos, y especialmente diseñados para elementos especificado en 4A901;<br>c. Componentes de control cuántico y dispositivos de medición cuántica, diseñados especialmente para los elementos especificados en 4A901;<br>*Notas:*<br>*1. 4A901 se aplica al modelo de circuito (o gate-based) y computadores cuánticos unidireccionales (o measurement-based, MBQC).*<br>*2. Los artículos especificados por 4A901 no necesariamente deben de contener físicamente cualquier cúbit. Por ejemplo, las computadoras cuánticas basadas en esquemas de fotónica no contienen permanentemente un elemento físico que puede ser identificado como un cúbit. Los cúbits fotónicos se generan mientras la computadora está funcionando y luego se descartan.*<br>*3. Los artículos especificados por 4A901 incluyen semiconductores, superconductores, y chips de cúbits fotónicos y conjuntos de chips; conjuntos de dispositivos para capturar iones; otras tecnologías de confinamiento de cúbits; e interconexiones coherentes entre dichos elementos.*<br>*4. 4A901 se aplica a elementos diseñados para calibrar, inicializar, manipular o medir los cúbits residentes de una computadora cuántica.*<br>*Notas técnicas:*<br>*A los efectos de 4A901:*<br>*1. Un ‘cúbit físico’ es un sistema cuántico de dos niveles que se utiliza para representar la unidad elemental de la lógica cuántica por medio de manipulaciones y mediciones que no tienen errores corregidos. Los ‘cúbits físicos’ se distinguen de los cúbits lógicos, en que los cúbits lógicos son cúbits con errores corregidos compuestos por muchos ‘cúbits físicos’.*<br>*2. ‘Totalmente controlado’ significa que el ‘cúbit físico’ se puede calibrar, inicializar, activar y leer, según sea necesario.*<br>*3. ‘Conectado’ significa que las operaciones de puerta de dos cúbits pueden ser realizadas entre cualquier par arbitrario de los ‘cúbits físicos’ de trabajo disponibles. Esto no implica necesariamente que se tenga que producir conectividad todos a todos.*<br>*4. ‘Funcionamiento’ significa que el ‘cúbit físico’ realiza funciones universales de trabajo computacional cuántico de acuerdo con las especificaciones del sistema para las medidas del volumen y la capacidad, de acuerdo con la fidelidad operativa de cúbit.*<br>*5. Que admiten 34 ‘cúbits físicos’ o más ‘totalmente controlados’, ‘conectados’, y en ‘funcionamiento’ se refiere a la capacidad de una computadora cuántica para confinar, controlar, medir y procesar la información cuántica incorporada en 34 o más ‘cúbits físicos’.*<br>*6. Error C-NOT es el error de puerta física promedio para las Controlled-NOT (CNOT) puertas vecinas más cercanas de dos ‘cúbits físicos’.* |
+|---|---|
+| 4D901 | *Software*, tal y como se describe a continuación:<br>a. “Programas informáticos” especialmente diseñados o modificados para el “desarrollo” o la “producción” de equipos o “programas informáticos” especificados en 4A901.<br>b. “Programas informáticos”, distintos de los especificados en 4D901.a., especialmente diseñados o modificados para el “desarrollo” o la “producción” de equipos para elementos especificados en 4A901.b, o 4A901c. |
+| 4E901 | Tecnología para el desarrollo o la producción de computadoras cuánticas, dispositivos y circuitos cúbits, así como componentes de control y medición cuántica especificados en 4A901. |
+| 4E902 | Tecnología para el desarrollo o la producción de conjuntos electrónicos y componentes de acuerdo con la categoría 3A501.a.16 del Reglamento (UE) 2021/821. |
+
+| 5A902 | Sistemas, equipos y componentes de vigilancia para redes públicas de información y comunicación, no especificados en el artículo 5A001 del Reglamento (UE) 2021/821, diseñados para cualquiera de las siguientes funciones:<br>1. Monitorización para aplicaciones de interceptación legal (de acuerdo con los requisitos de interceptación legal y de seguridad de las telecomunicaciones para funciones de red ETSI ES 201 158, interfaz de traspaso para interceptación legal del tráfico de telecomunicaciones ETSI ES 201 671 o estándares y especificaciones equivalentes) y componentes especialmente diseñados para ellos.<br>2. Retención de datos de llamadas (de acuerdo con los requisitos para la interceptación legal de datos por los organismos encargados de hacer cumplir la ley para el manejo de datos ETSI TS 102 656 o estándares y especificaciones equivalentes) y componentes especialmente diseñados para los mismos.<br>*Nota técnica: Los datos de llamadas incluyen información de señalización, origen y destino (por ejemplo, números de teléfono, direcciones IP o MAC, etc.), fecha y hora y origen geográfico de la comunicación.*<br>*Nota:*<br>*El subartículo 5A902 no somete a control los sistemas, equipos o componentes diseñados especialmente para cualquiera de los siguientes propósitos:*<br>*a. Facturación,*<br>*b. Funciones de recopilación de datos dentro de los elementos de la red,*<br>*c. Calidad de servicio de la red, o*<br>*d. Satisfacción del usuario.* |
+|---|---|
+| 5D901 | Programas informáticos no especificados en el artículo 5D001 del Reglamento (UE) 2021/821, especialmente diseñados o modificados para el desarrollo, producción, uso, configuración funcional y control de rendimiento de los sistemas, equipos y componentes de vigilancia especificados en los artículos 5A902. |
+
+> Se modifica por el art. único.7 de la Orden ECM/536/2026, de 29 de mayo. [Ref. BOE-A-2026-11628](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11628)
+
+> Se modifica por el art. único.5 de la Orden ECM/551/2025, de 30 de mayo. [Ref. BOE-A-2025-10778](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10778)
+
+> Se modifica por el art. único.24 de la Orden ICT/534/2023, de 26 de mayo. [Ref. BOE-A-2023-12785](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-12785)
+
+> Se añade por el art. único.15 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+## ANEXO IV — LICENCIA GENERAL DE TRANSFERENCIA INTRACOMUNITARIA DE MATERIAL DE DEFENSA
+
+Los productos sometidos al régimen de control de las Licencias generales de transferencia intracomunitaria de material de defensa serán, en lo sucesivo, los definidos en el anexo I.1.
+
+> Se modifica por el art. único.8 de la Orden ECM/536/2026, de 29 de mayo. [Ref. BOE-A-2026-11628](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11628)
+
+> Se modifica por el art. único y Anexo IV de la Orden ECC/1493/2016, de 19 de septiembre. [Ref. BOE-A-2016-8633](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8633).
+
+## ANEXO V — LICENCIA GLOBAL DE TRANSFERENCIA DE COMPONENTES DE MATERIAL DE DEFENSA
+
+## ANEXO V.1 — LICENCIA GLOBAL DE TRANSFERENCIA DE COMPONENTES DE MATERIAL DE DEFENSA
+
+Los productos sometidos al régimen de control de las Licencias globales de transferencia de componentes de material de defensa serán, en lo sucesivo, los definidos en el anexo I.1.
+
+> Se modifica por el art. único.9 de la Orden ECM/536/2026, de 29 de mayo. [Ref. BOE-A-2026-11628](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11628)
+
+> Se modifica por el art. único y Anexo V.1 de la Orden ECC/1493/2016, de 19 de septiembre. [Ref. BOE-A-2016-8633](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8633).
+
+## ANEXO V.2 — LICENCIA GLOBAL DE TRANSFERENCIA DE COMPONENTES DE MATERIAL DE DEFENSA
+
+LISTA DE DESTINOS PERMITIDOS
+
+**Unión Europea**
+
+Alemania
+
+Austria
+
+Bélgica
+
+Bulgaria
+
+Chipre
+
+Croacia
+
+Dinamarca
+
+Eslovaquia
+
+Eslovenia
+
+Estonia
+
+Finlandia
+
+Francia
+
+Grecia
+
+Holanda
+
+Hungría
+
+Irlanda
+
+Italia
+
+Lituania
+
+Letonia
+
+Luxemburgo
+
+Malta
+
+Polonia
+
+Portugal
+
+República Checa
+
+Rumania
+
+Suecia
+
+**Otros países**
+
+Australia
+
+Canadá
+
+Estados Unidos
+
+Japón
+
+Nueva Zelanda
+
+Noruega
+
+Reino Unido
+
+Suiza
+
+> Se modifica la inclusión del Reino Unido por el art. único.16 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+> Téngase en cuenta la disposición transitoria única del citado Real Decreto, en cuanto a las autorizaciones de exportación e importación con el Reino Unido.
+
+> Se modifica por el art. único y Anexo V.2 de la Orden ECC/1493/2016, de 19 de septiembre. [Ref. BOE-A-2016-8633](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8633).
+
+## APÉNDICE DE DEFINICIONES
+
+Las siguientes definiciones se refieren a los términos empleados en los anexos I, II, III, IV y V.1 por orden alfabético.
+
+*Nota 1:*
+
+*Las definiciones se aplican al conjunto de la Lista. Las referencias tienen un carácter puramente indicativo y carecen de efecto en la aplicación universal de los términos definidos en la Lista.*
+
+*Nota 2:*
+
+*Las palabras y los términos contenidos en la Lista de Definiciones solo adoptan el significado definido cuando figuran indicados entre “comillas dobles”. En los demás casos, las palabras y los términos se ajustan a los significados comúnmente aceptados en el diccionario, a menos que exista una definición local para un control específico.*
+
+| ML1, ML8, ML10, ML14 | Aeronave. | Es un vehículo aéreo de superficies de sustentación fijas, pivotantes, rotativas (helicóptero), de rotor basculante o de superficies de sustentación basculantes. |
+|---|---|---|
+| ML4, ML10 | Aeronave Civil. | Aquellas “aeronaves” enumeradas por designación en listas de certificación de aeronavegabilidad publicadas por las autoridades de aviación civil de uno o más Estados miembros de la UE o Estados participantes en el Arreglo de Wassenaar para volar en rutas civiles comerciales internas y externas o para uso civil, privado o comercial legítimo. |
+| ML7 | Agentes biológicos. | Patógenos o toxinas, seleccionados o modificados (por ejemplo, alterando la pureza, la caducidad, la virulencia, las características de diseminación o la resistencia a la radiación UV) para producir bajas en humanos o animales, degradar equipos o dañar cultivos o el medio ambiente. |
+| ML7, IIc | Agentes de control antidisturbios (RCAs). | Sustancias que, utilizadas en las condiciones esperadas de uso de control antidisturbios, producen rápidamente en los seres humanos irritación sensorial o incapacidad física temporal que desaparecen al poco tiempo de cesar la exposición. (Los gases lacrimógenos son una clase de “agentes antidisturbios”). |
+| ML17 | Bibliotecas (Bases de datos paramétricos técnico). | Un conjunto de informaciones técnicas, cuya consulta permite aumentar el rendimiento de los sistemas, equipos o componentes pertinentes. |
+| ML7 | Biocatalizadores. | “Enzimas” que catalizan reacciones bioquímicas o químicas específicas u otros compuestos biológicos que se unen a los agentes para la guerra química y aceleran su degradación.<br>*Nota técnica:*<br>*Las “enzimas” son “biocatalizadores” para reacciones bioquímicas o químicas específicas.* |
+| ML19 | Calificados para uso espacial. | Diseñados, fabricados, o calificados tras haber superado los ensayos correspondientes, para operar a altitudes superiores a los 100 km por encima de la superficie terrestre.<br>*Nota:*<br>*El hecho de que se determine mediante ensayos que un producto concreto está “calificado para uso espacial” no significa que otros productos del mismo lote de producción o de la misma serie estén “calificados para uso espacial” si no ha n sido sometidos a ensayos de forma individual.* |
+| ML22 | De conocimiento público. | La “tecnología” o el “software” divulgados sin ningún tipo de restricción para su difusión posterior.<br>*Nota:*<br>*Las restricciones derivadas del derecho de propiedad intelectual no impiden que la “tecnología” o el “software” se consideren “de conocimiento público”.* |
+| ML17, ML21, ML22 | Desarrollo. | Conjunto de las etapas previas a la producción en serie, tales como: diseño, investigación de diseño, análisis de diseño, conceptos de diseño, montaje y ensayo de prototipos, esquemas de producción piloto, datos de diseño, proceso de transformación de los datos de diseño en un producto, diseño de configuración, diseño de integración, planos. |
+| ML21 | Divulgación de la vulnerabilidad. | Proceso de identificación, notificación o comunicación de una vulnerabilidad a las personas u organismos encargados de efectuar o coordinar las medidas de corrección para resolver la vulnerabilidad, o de análisis de una vulnerabilidad con dichas personas u organismos. |
+| ML17 | Efectores terminales. | Los “efectores terminales” comprenden las garras, las “herramientas activas” y cualquier otra herramienta que se fije en la placa base del extremo del brazo manipulador de un “robot”.<br>*Nota técnica:*<br>*Una “herramienta activa” es un dispositivo destinado a aplicar a la pieza de trabajo la fuerza motriz, la energía necesaria para el proceso o los sensores.* |
+| ML8, ML18 | Explosivos. | Sustancias o mezclas de sustancias sólidas, líquidas o gaseosas que, utilizadas como cargas de cebo, de sobrepresión o como cargas principales en cabezas explosivas, dispositivos de demolición y otras aplicaciones militares, son necesarias para la detonación. |
+| ML22 | Investigación científica básica. | Labor experimental o teórica emprendida principalmente para adquirir nuevos conocimientos sobre los principios fundamentales de fenómenos o hechos observables y que no se oriente primordialmente hacia un fin u objetivo práctico específico. |
+| ML9, ML13, ML17, ML19 | Láser. | Es un material que produce luz coherente en el espacio y en el tiempo mediante la amplificación por emisión estimulada de radiación. |
+| ML8 | Materiales energéticos. | Sustancias o mezclas que reaccionan químicamente para liberar la energía necesaria para una aplicación determinada. Los “explosivos”, “productos pirotécnicos” y “propulsantes” son subclases de materiales energéticos. |
+| ML13 | Materiales fibrosos o filamentosos. | Incluyen:<br>a. Monofilamentos continuos;<br>b. Hilos y cables continuos;<br>c. Cintas, tejidos, esterillas irregulares y trenzados;<br>d. Mantas de fibras picadas, fibrana y fibras aglomeradas;<br>e. Triquitos monocristalinos o policristalinos de cualquier longitud;<br>f. Pulpa de poliamida aromática. |
+| ML10 | Naves suborbitales. | Nave con una cabina o bodega, diseñada para el transporte de personas o de mercancías, y para:<br>a. Operar por encima de la estratosfera;<br>b. Únicamente seguir trayectorias no orbitales; y.<br>c. Aterrizar en la Tierra con las personas o mercancías intactas. |
+| ML22 | Necesaria. | Aplicado a la “tecnología”, se refiere únicamente a la parte específica de la “tecnología” por medio de la que se alcanzan o sobrepasan los niveles de prestaciones, características o funciones sometidos a control. Esta “tecnología” “necesaria” puede ser común a diferentes productos. |
+| ML6, ML13 | Normas equivalentes. | Normas nacionales o internacionales comparables reconocidas por uno o más Estados miembros de la UE o Estados participantes en el Arreglo de Wassenaar y aplicables a la entrada correspondiente. |
+| ML21 | Ordenadores digitales. | Equipo que puede realizar, en forma de una o varias variables discretas, todas las operaciones siguientes:<br>a. Aceptar datos;<br>b. Almacenar datos o instrucciones en dispositivos de almacenamiento fijos o alterables (por escritura);<br>c. Procesar datos con ayuda de una secuencia almacenada y modificable de instrucciones; y.<br>d. Proporcionar datos de salida.<br>*Nota técnica:*<br>*Las modificaciones de una secuencia almacenada de instrucciones incluyen la sustitución de dispositivos fijos de memoria, pero no el cambio físico del cableado o las interconexiones.* |
+| ML17 | Pila(s) de combustible. | Dispositivo electroquímico que permite transformar directamente energía química en electricidad de corriente continua mediante el consumo de combustible de una fuente externa. |
+| ML8 | Precursores. | Especialidades químicas empleadas en la fabricación de explosivos. |
+| ML21, ML22 | Producción. | Término que abarca todas las fases de la producción, tales como: la ingeniería de producción, la fabricación, la integración, el ensamblado (montaje), la inspección, los ensayos, la garantía de calidad. |
+| ML4, ML8 | Producto(s) pirotécnico(s). | Mezclas de combustibles sólidos o líquidos y oxidantes que, al entrar en ignición, experimentan una reacción química energética a una velocidad controlada destinada a producir retardos de tiempo específicos, o cantidades de calor, ruido, humo, luz visible o radiación infrarroja. Los pirofóricos son una subclase de la pirotecnia, que no contienen oxidantes pero se inflaman espontáneamente al contacto con el aire. |
+| ML8 | Propulsantes. | Sustancias o mezclas que reaccionan químicamente para producir grandes cantidades de gases calientes a tasas controladas para efectuar un trabajo mecánico. |
+| ML9, ML17 | Reactores nucleares. | Incluye los dispositivos que se encuentran en el interior de la vasija del reactor o que están conectados directamente con ella, el equipo que controla el nivel de potencia en el núcleo y los componentes que normalmente contienen el refrigerante primario del núcleo del reactor o que están directamente en contacto con dicho refrigerante o lo regulan. |
+| ML21 | Respuesta en caso de incidente cibernético. | Proceso de intercambio de la información necesaria sobre un incidente de ciberseguridad con las personas u organizaciones encargadas de efectuar o coordinar las medidas de corrección para hacer frente al incidente de ciberseguridad. |
+| ML17 | Robots. | Mecanismo de manipulación que puede ser del tipo de trayectoria continua o de la variedad punto a punto, puede utilizar sensores, y reúne todas las características siguientes:<br>a. Es multifuncional;<br>b. Es capaz de posicionar u orientar materiales, piezas, herramientas o dispositivos especiales mediante movimientos variables en un espacio tridimensional;<br>c. Cuenta con tres o más servomecanismos de bucle abierto o cerrado, con la posible inclusión de motores paso a paso; y.<br>d. Está dotado de “programabilidad accesible al usuario” por el método de aprendizaje/reproducción o mediante un ordenador electrónico que puede ser un controlador lógico programable, es decir, sin intervención mecánica.<br>Por “programabilidad accesible al usuario” se entiende la posibilidad de que el usuario inserte, modifique o sustituya “programas” por medios distintos de:<br>a. un cambio físico en el cableado o en las interconexiones; o.<br>b. el establecimiento de controles de función, incluida la introducción de parámetros.<br>*Nota:*<br>*1. La definición anterior no incluye los dispositivos siguientes: Mecanismos de manipulación que solo se controlen de forma manual o por teleoperador;*<br>*2. Mecanismos de manipulación de secuencia fija que constituyan dispositivos móviles automatizados que funcionen de acuerdo con movimientos programados definidos mecánicamente. El programa estará limitado mecánicamente por medio de topes fijos del tipo de vástagos o levas. La secuencia de los movimientos y la selección de las trayectorias o los ángulos no serán variables ni modificables por medios mecánicos, electrónicos o eléctricos;*<br>*3. Mecanismos de manipulación de secuencia variable controlados mecánicamente que constituyan dispositivos móviles automatizados, que funcionen de acuerdo con movimientos fijos programados mecánicamente. El programa estará limitado mecánicamente por medio de topes fijos, pero regulables, del tipo de vástagos o levas. La secuencia de movimientos y la selección de las trayectorias o los ángulos son variables en el marco de la configuración fija programada. Las variaciones o modificaciones de la configuración programada (por ejemplo, el cambio de vástagos o de levas) en uno o varios ejes de movimiento, se efectúan exclusivamente mediante operaciones mecánicas;*<br>*4. Mecanismos de manipulación de secuencia variable sin servocontrol que constituyan dispositivos móviles automatizados, que funcionen de acuerdo con movimientos fijos programados mecánicamente. El programa será variable, pero la secuencia solo avanzará en función de una señal binaria procedente de dispositivos binarios eléctricos fijados mecánicamente o topes regulables;*<br>*5. Grúas apiladoras definidas como sistemas manipuladores por coordenadas cartesianas, construidos como partes integrantes de un conjunto vertical de estanterías de almacenamiento y diseñados para acceder al contenido de dichas estanterías para depositar o retirar.* |
+| ML11 | Sistemas de radionavegación por satélite. | Sistema, formado por estaciones en tierra, una constelación de “satélites” y receptores, que permite determinar los lugares de recepción en función de las señales recibidas de los “satélites”. Incluye los sistemas mundiales de navegación por “satélite” y los sistemas regionales de navegación por “satélite”.<br>*Nota técnica 1:*<br>*“Satélite”.*<br>*“Nave espacial”, distinta de un “vehículo espacial”, diseñada para funcionar en órbita alrededor de la Tierra u otro cuerpo celeste. Los “satélites” incluyen las estaciones espaciales orbitales.*<br>*Nota técnica 2:*<br>*“Nave espacial”.*<br>*Nave diseñada para operar en el espacio, permanecer en él o transitar por él en forma de “satélite”, “sonda espacial” o “vehículo espacial”.*<br>*Nota técnica 3:*<br>*“Vehículo espacial”.*<br>*“Nave espacial” diseñada para transportar mercancías o pasajeros.*<br>*Nota: Los “vehículos espaciales” incluyen las naves diseñadas para regresar a la Tierra de forma segura.*<br>*Nota técnica 4:*<br>*“Sonda espacial”.*<br>*“Nave espacial”, distinta de un “satélite” o de un “vehículo espacial”, diseñada para no volver a la Tierra.* |
+| ML4, ML11, ML21 | *Software.* | Una colección de uno o más “programas” o “microprogramas” fijados en cualquier medio tangible de expresión.<br>*Nota Técnica 1.*<br>*“Programa”.*<br>*Una secuencia de instrucciones para ejecutar un proceso en, o convertible a, un formato ejecutable por una computadora electrónica.*<br>*Nota Técnica 2.*<br>*“Microprograma”.*<br>*Una secuencia de instrucciones elementales guardadas en un almacenamiento especial, cuya ejecución se inicia mediante la introducción de su instrucción de referencia en un registro de instrucciones.* |
+| ML20 | Superconductores. | Materiales (es decir, metales, aleaciones o compuestos) que pueden perder totalmente la resistencia eléctrica (es decir, que pueden alcanzar una conductividad eléctrica infinita y transportar corrientes eléctricas muy grandes sin calentamiento Joule).<br>*Nota técnica:*<br>*El estado “superconductor” de un material se caracteriza individualmente por una “temperatura crítica”, un campo magnético crítico que es función de la temperatura, y una densidad de corriente crítica que es función del campo magnético y de la temperatura.*<br>*Nota:*<br>*“Temperatura crítica” (denominada en ocasiones temperatura de transición) de un material “superconductor” específico es aquella temperatura a la que el material pierde completamente la resistencia a la circulación de corriente continua.* |
+| ML22 | Tecnología. | Información específica necesaria para el “desarrollo”, la “producción” o la “utilización” de un producto. Puede adoptar la forma de “datos técnicos” o de “asistencia técnica”. La “tecnología” especificada a efectos del anexo I.1 se define en ML22.<br>*Notas técnicas.*<br>*1. Los “datos técnicos” pueden adoptar la forma de copias heliográficas, planos, diagramas, modelos, fórmulas, algoritmos, tablas, diseño y especificaciones de ingeniería, manuales e instrucciones escritas o grabadas en otros medios o soportes tales como discos, cintas o memorias ROM.*<br>*2. La “asistencia técnica” puede adoptar la forma de instrucción, adiestramiento especializado, formación, conocimientos prácticos, servicios consultivos y podrá entrañar la transferencia de “datos técnicos”.*<br>*3. La “utilización” comprende el funcionamiento, instalación (incluida la instalación in situ), mantenimiento (verificación), reparación, revisión y renovación.* |
+| ML15 | Tubos intensificadores de imagen de la primera generación. | Tubos enfocados electrostáticamente, que empleen como entrada y salida una fibra óptica o placa frontal de vidrio, fotocátodos multialcalinos (S-20 o S-25) pero no amplificadores de placa microcanal. |
+| ML10 | Vehículos aéreos no tripulados (UAV). | Aquella “aeronave” que puede despegar, mantenerse en vuelo y navegar de forma controlada, sin una presencia humana a bordo. |
+| ML10 | Vehículos más ligeros que el aire. | Globos y “dirigibles” que se elevan mediante aire caliente u otros gases más ligeros que el aire, tales como el hidrógeno o el helio.<br>*Nota técnica:*<br>*“Dirigible”.*<br>*Vehículo aéreo de motor que se mantiene en suspensión gracias a un cuerpo gaseoso (por lo general helio, anteriormente hidrógeno) que es más ligero que el aire.* |
+
+> Se modifica por el art. único.10 de la Orden ECM/536/2026, de 29 de mayo. [Ref. BOE-A-2026-11628](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11628)
+
+> Se modifica por el art. único.7 a 9 de la Orden ICT/657/2018, de 13 de junio. [Ref. BOE-A-2018-8383](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8383)
+
+> Se modifica por el art. único de la Orden ECC/1493/2016, de 19 de septiembre. [Ref. BOE-A-2016-8633](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8633).
+
+## ANEXO VI — MODELOS
+
+## ANEXO VI.1
+
+## LICENCIA DE TRANSFERENCIA DE MATERIAL DE DEFENSA Y DE DOBLE USO
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/151/10514_11681698_1.png)
+
+> Se sustituye por el art. único.17 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+## ANEXO VI.2
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_002.png)
+
+## ANEXO VI.3
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_003.png)
+
+## ANEXO VI.4
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_004.png)
+
+## ANEXO VI.5
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_005.png)
+
+## ANEXO VI.6
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_006.png)
+
+## ANEXO VI.7
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_007.png)
+
+## ANEXO VI.8
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_008.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_009.png)
+
+## ANEXO VI.9
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_010.png)
+
+## ANEXO VI.10
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_011.png)
+
+## ANEXO VI.11
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_012.png)
+
+## ANEXO VI.12
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_013.png)
+
+## ANEXO VI.13
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_014.png)
+
+## ANEXO VI.14
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_015.png)
+
+## ANEXO VI.15
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_016.png)
+
+## ANEXO VI.16
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_017.png)
+
+## ANEXO VI.17
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_018.png)
+
+## ANEXO VI.18
+
+## CERTIFICADO DE ÚLTIMO DESTINO
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/151/10514_11681698_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/151/10514_11681698_3.png)
+
+> Se sustituye por el art. único.18 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+## ANEXO VI.19
+
+## CERTIFICADO DE ÚLTIMO DESTINO
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/151/10514_11681698_4.png)
+
+> Se sustituye por el art. único.19 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+## ANEXO VI.20
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_021.png)
+
+## ANEXO VI.21
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_022.png)
+
+## ANEXO VI.22
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/207/08926_023.png)
+
+## ANEXO VI.23
+
+![1](https://www.boe.es/datos/imagenes/disp/2020/119/04708_4861.png)
+
+![2](https://www.boe.es/datos/imagenes/disp/2020/119/04708_4936.png)
+
+![3](https://www.boe.es/datos/imagenes/disp/2020/119/04708_5007.png)
+
+> Se añade por el art. único.5 del Real Decreto 494/2020, de 28 de abril. [Ref. BOE-A-2020-4708](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4708)
+
+## ANEXO VI.24
+
+## Certificado de Integración
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/151/10514_11681698_5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/151/10514_11681698_6.png)
+
+> Se añade por el art. único.20 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)
+
+## ANEXO VI.25
+
+## Bienes a los que no se aplicará el «principio de *minimis*»
+
+CL1 Armas con cañón de ánima lisa con un calibre inferior a 20 mm, otras armas de fuego y armas automáticas con un calibre inferior o igual a 12,7 mm (calibre 0,50 pulgadas):
+
+1\. Ametralladoras.
+
+2\. Subfusiles.
+
+3\. Fusiles totalmente automáticos especialmente concebidos para uso militar.
+
+CL2 Armas con cañón de ánima lisa con un calibre igual o superior a 20 mm, otras armas o armamento con un calibre superior a 12,7 mm (calibre 0,50 pulgadas):
+
+4\. Cañones.
+
+5\. Obuses.
+
+6\. Piezas de artillería.
+
+7\. Morteros.
+
+8\. Armas contracarro.
+
+9\. Lanzadores de proyectiles letales.
+
+10\. Fusiles.
+
+11\. Cañones sin retroceso.
+
+12\. Armas de ánima lisa.
+
+CL3 Municiones y productos enumerados a continuación:
+
+13\. Municiones destinadas a las armas que figuran en CL1 y CL2.
+
+14\. Cargas de proyección independientes y proyectiles destinados a las armas que figuran en los apartados 5, 6 o 7.
+
+15\. Espoletas independientes destinadas a las armas que figuran en los apartados 5, 6, 7 u 11.
+
+CL4 Bombas, torpedos, cohetes, misiles, otros dispositivos y cargas explosivos y productos citados a continuación:
+
+16\. Bombas.
+
+17\. Torpedos.
+
+18\. Granadas.
+
+19\. Cohetes.
+
+20\. Minas.
+
+21\. Misiles.
+
+22\. Cargas submarinas.
+
+23\. Cargas, dispositivos y kits de demolición especialmente concebidos para uso militar.
+
+24\. Espoletas destinadas a las armas que figuran en los apartados 16 a 20, 22, 23.
+
+25\. Cabezas de guerra y sistemas de guiado destinados a las armas que figuran en los apartados 17 o 19.
+
+26\. Sistemas de propulsión destinados a las armas que figuran en los apartados 16 o 19.
+
+27\. Espoletas, sistemas de guiado, cabezas de guerra y sistemas de propulsión destinados a los misiles de ataque a tierra.
+
+CL5 Productos enumerados a continuación para integración en carros de combate:
+
+28\. Chasis especialmente concebidos para carro de combate.
+
+29\. Torres especialmente concebidas para carro de combate.
+
+CL6 Productos enumerados a continuación para integración en aeronaves militares tripuladas:
+
+30\. Motores de propulsión para aeronaves.
+
+31\. Estructuras primarias para aeronaves de combate.
+
+> Se añade por el art. único.21 del Real Decreto 414/2022, de 31 de mayo. [Ref. BOE-A-2022-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10514)

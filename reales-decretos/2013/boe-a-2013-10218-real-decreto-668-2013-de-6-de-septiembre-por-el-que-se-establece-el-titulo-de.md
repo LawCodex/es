@@ -1,0 +1,3661 @@
+---
+title: "Real Decreto 668/2013, de 6 de septiembre, por el que se establece el título de Técnico Deportivo Superior en Atletismo y se fijan sus enseñanzas mínimas y los requisitos de acceso"
+identifier: "BOE-A-2013-10218"
+eli: "https://www.boe.es/eli/es/rd/2013/09/06/668"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación, Cultura y Deporte"
+date: 2013-09-06
+published: 2013-10-02
+in_force_from: 2013-10-03
+last_amended: 2026-07-02
+consolidated: 2026-08-25
+gazette: "Boletín Oficial del Estado núm. 236"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-10218"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 668/2013, de 6 de septiembre, por el que se establece el título de Técnico Deportivo Superior en Atletismo y se fijan sus enseñanzas mínimas y los requisitos de acceso
+
+La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos.
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en su artículo 64.6 que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros.
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
+
+Este marco normativo hace necesario que ahora el Gobierno, previa consulta a las Comunidades Autónomas, actualice el título de Técnico Deportivo Superior en Atletismo establecido al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, y que formará parte del Catálogo de las enseñanzas deportivas del sistema educativo, y estableciendo sus enseñanzas mínimas y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+El Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, define en el artículo 4 la estructura de estas enseñanzas, situando las de enseñanzas deportivas de grado superior como parte de la educación superior.
+
+Por otra parte, en su artículo 6 concreta el perfil profesional de dichos títulos, que incluirá la competencia general, las competencias profesionales, personales y sociales, con el fin de lograr que, en efecto, los títulos de enseñanzas deportivas respondan a las necesidades demandadas por los sistemas deportivo y productivo, y a los valores personales y sociales para ejercer una ciudadanía democrática. A este fin y como reflejo de la madurez alcanzada por la modalidad deportiva, se atribuye al ciclo de grado superior las competencias vinculadas al entrenamiento, dirección de equipos y deportistas de alto nivel o rendimiento y en determinados casos la conducción con altos niveles de dificultad en la modalidad o especialidad deportiva.
+
+A estos efectos procede determinar para cada título su identificación, su perfil profesional, el entorno profesional, las enseñanzas de los ciclos de enseñanzas deportivas y la acreditación de módulos debida a la experiencia docente, a la experiencia deportiva, así como los parámetros básicos de contexto formativo para cada módulo de enseñanza deportiva (espacios, equipamientos necesarios, titulaciones y especialidades del profesorado). Asimismo, en cada título también se determinarán los requisitos específicos de acceso, siendo propio de estos títulos la identificación de la carga lectiva que se acredita a través de estos requisitos, la vinculación con otros estudios, las convalidaciones, exenciones y equivalencias.
+
+El marcado carácter técnico de estas enseñanzas, definidas por la peculiaridad de sus procedimientos, materiales, equipos y prácticas específicas de cada modalidad, hace necesario un desarrollo que garantice un mínimo común denominador, claro y orientador, a través de una norma reglamentaria.
+
+Con el fin de facilitar el reconocimiento de créditos entre los títulos de Técnico Deportivo Superior y las enseñanzas conducentes a títulos universitarios y viceversa, en los ciclos de enseñanzas deportivas de grado superior se establecerá la equivalencia de cada módulo de enseñanza deportiva con créditos europeos, ECTS, tal y como se definen en el Real Decreto 1125/2003, de 5 de septiembre, por el que se establece el sistema europeo de créditos y el sistema de calificaciones en las titulaciones universitarias de carácter oficial y validez en todo el territorio nacional.
+
+El presente real decreto, que se dicta en desarrollo del Real Decreto 1363/2007, de 24 de octubre, establece y regula, en los aspectos y elementos básicos antes indicados, el título de Técnico Deportivo Superior en Atletismo.
+
+Finalmente, este real decreto adapta al ámbito de las enseñanzas deportivas en atletismo las previsiones de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, ya contenidas en el citado Real Decreto 1363/2007, de 24 de octubre, y desarrolla en este ámbito las previsiones de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+En el proceso de elaboración de este real decreto han sido consultadas las Comunidades Autónomas, en el seno de las Conferencia Sectorial de Educación, y han emitido informe el Consejo Escolar del Estado y el Ministerio de Hacienda y Administraciones Públicas.
+
+En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte y previa deliberación del Consejo de Ministros en su reunión del día 6 de septiembre de 2013,
+
+DISPONGO:
+
+## CAPÍTULO I — Objeto
+
+### Artículo 1. Objeto.
+
+El objeto del presente real decreto es el establecimiento del título de Técnico Deportivo Superior en Atletismo, con carácter oficial y validez en todo el territorio nacional, así como de sus correspondientes enseñanzas mínimas.
+
+Lo dispuesto en este real decreto sustituye a la regulación del título de Técnico Deportivo Superior en Atletismo contenido en el Real Decreto 254/2004, de 13 de febrero, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Atletismo, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas.
+
+De conformidad con lo establecido en el Real Decreto 1363/2007, de 24 de octubre, los elementos recogidos en el presente real decreto no constituyen una regulación del ejercicio de profesión titulada alguna.
+
+## CAPÍTULO II — Identificación del título y organización de las enseñanzas
+
+### Artículo 2. Identificación del título de Técnico Deportivo Superior en Atletismo.
+
+El título de Técnico Deportivo Superior en Atletismo queda identificado por los siguientes elementos:
+
+a) Denominación: Atletismo.
+
+b) Nivel: Nivel 1: Técnico Superior del Marco Español de Cualificaciones para la Educación Superior, Enseñanzas Deportivas de Grado superior.
+
+c) Duración: 795 horas.
+
+d) Referente internacional: CINE-5b (Clasificación Internacional Normalizada de Educación).
+
+### Artículo 3. Organización de las enseñanzas conducentes al título de Técnico Deportivo Superior en Atletismo.
+
+Las enseñanzas conducentes al Título de Técnico Deportivo Superior en Atletismo se organizan en el ciclo de grado superior en atletismo y tienen una duración de 795 horas.
+
+### Artículo 4. Especializaciones del título de Técnico Deportivo Superior en Atletismo.
+
+El título de Técnico Deportivo Superior en Atletismo tendrá como especializaciones:
+
+a) Atletismo de personas con discapacidad.
+
+b) Carreras de velocidad, vallas y relevos.
+
+c) Carreras de medio fondo, fondo y obstáculos.
+
+d) Saltos.
+
+e) Lanzamientos.
+
+f) Marcha.
+
+g) Pruebas combinadas.
+
+El Ministerio de Educación, Cultura y Deporte, a propuesta del Consejo Superior de Deportes y previa consulta a los órganos competentes en materia de deportes de las Comunidades Autónomas y de la Real Federación Española de Atletismo establecerá los objetivos, contenidos y criterios de evaluación de estas especializaciones.
+
+> Se modifica la letra a) por el art. 6.1 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+## CAPÍTULO III — Perfil profesional y entorno profesional, personal y laboral deportivo del ciclo
+
+### Artículo 5. Perfil profesional del ciclo de grado superior en atletismo.
+
+El perfil profesional del ciclo de grado superior en atletismo queda determinado por su competencia general, sus competencias profesionales, personales y sociales, por la relación de cualificaciones y, en su caso, unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título y el entorno profesional, laboral y deportivo.
+
+### Artículo 6. Competencia general del ciclo de grado superior en atletismo.
+
+La competencia general del ciclo de grado superior en atletismo consiste en programar y dirigir el entrenamiento deportivo orientado hacia la obtención y mantenimiento del rendimiento en atletas y equipos; organizar, tutelar y dirigir la participación de estos en competiciones de alto nivel; coordinar la intervención de técnicos especialistas; programar las tareas y coordinar los técnicos a su cargo; organizar competiciones y eventos propios de la iniciación y tecnificación deportiva; y todo ello de acuerdo con los objetivos establecidos, el nivel óptimo de calidad, y en las condiciones de seguridad.
+
+### Artículo 7. Competencias profesionales, personales y sociales del ciclo de grado superior en atletismo.
+
+Las competencias profesionales, personales y sociales del ciclo de grado superior en atletismo son las que se relacionan a continuación:
+
+a) Analizar las condiciones de entrenamiento disponibles, las características de la competición, y del entorno del atleta, para la planificación del entrenamiento hacia el alto rendimiento.
+
+b) Analizar y valorar los factores de rendimiento (funcionales, técnicos, tácticos, psicológicos) propios del atletismo, para la planificación del entrenamiento.
+
+c) Programar a medio y largo plazo el entrenamiento, objetivos y medios necesarios, a partir de las valoraciones y el análisis realizado en el atleta y en las condiciones iniciales de su entorno.
+
+d) Programar a corto plazo el entrenamiento, los objetivos y los medios necesarios, y concretar las sesiones, adecuándolas al atleta, al grupo y a las condiciones existentes de acuerdo con la programación general.
+
+e) Dirigir la sesión de entrenamiento en la etapa de alto rendimiento, solucionando las contingencias existentes, para conseguir la implicación y el rendimiento conforme a los objetivos propuestos, y dentro de los márgenes de seguridad requeridos.
+
+f) Gestionar las instalaciones necesarias para la práctica del atletismo, garantizando su adecuación a las exigencias del alto rendimiento, su disponibilidad, y respetando los protocolos de seguridad establecidos.
+
+g) Controlar la seguridad en la práctica del atletismo, supervisando las instalaciones y medios a utilizar, y asistiendo como primer interviniente en caso de accidente o situación de emergencia.
+
+h) Seleccionar, acompañar y dirigir a los atletas o equipos en competiciones de alto rendimiento, realizando las orientaciones, tomando las decisiones más adecuadas para el desarrollo de la competición y conforme a los objetivos previstos, todo ello dentro de los valores éticos vinculados al juego limpio, el respeto a los demás y al propio cuerpo.
+
+i) Organizar el desplazamiento, y gestionar la participación de un equipo en una competición internacional, conforme a la planificación deportiva y económica.
+
+j) Determinar la formación de equipos de trabajo de carácter multidisciplinar y coordinar sus acciones dentro de la programación.
+
+k. Dirigir y coordinar recursos humanos, participar en la formación de los técnicos deportivos y organizar los recursos materiales, en una escuela de atletismo estableciendo las programaciones de referencia.
+
+l) Organizar y gestionar competiciones y eventos propios de la tecnificación deportiva en atletismo, y realizar la dirección técnica en eventos propios de la alta competición.
+
+m) Evaluar el proceso de preparación y los resultados obtenidos, programando la recogida de la información y realizando su análisis para conseguir el ajuste y mejora permanente del entrenamiento dirigido al alto rendimiento deportivo.
+
+n) Transmitir a través del comportamiento ético personal valores vinculados con el juego limpio, el respeto a los demás, y el respeto y cuidado del propio cuerpo.
+
+ñ) Mantener una identidad profesional y un espíritu de innovación y actualización que facilite la adaptación a los cambios que se produzcan en la modalidad deportiva y en su entorno organizativo.
+
+### Artículo 8. Entorno profesional, laboral y deportivo del ciclo de grado superior en atletismo.
+
+Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado, las Administraciones Autonómicas o Locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones, centros de tecnificación, centros de alto rendimiento y clubes deportivos y sociales, centros educativos, empresas de servicios deportivos, que ofrezcan actividades deportivo-recreativas, alto rendimiento en atletismo.
+
+Las ocupaciones y puestos de trabajo más relevantes para estos profesionales son las siguientes:
+
+a) Entrenador de atletismo de alto nivel.
+
+b) Director técnico.
+
+c) Director de escuelas deportivas.
+
+d) Director de instalaciones de atletismo.
+
+El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo con los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
+
+## CAPÍTULO IV — Estructura de las enseñanzas del ciclo de grado superior de enseñanza deportiva conducentes al título de Técnico Deportivo Superior en Atletismo
+
+### Artículo 9. Estructura del ciclo de grado superior de atletismo.
+
+El ciclo de grado superior de atletismo se estructura en módulos, agrupados en un bloque común y un bloque específico.
+
+Los módulos de enseñanza deportiva del ciclo de grado superior de atletismo son los que a continuación se relacionan:
+
+a) Módulos del bloque común:
+
+MED-C301 Factores fisiológicos del alto rendimiento.
+
+MED-C302 Factores psicosociales del alto rendimiento.
+
+MED-C303 Formación de formadores deportivos.
+
+MED-C304 Organización y gestión aplicada al alto rendimiento.
+
+b) Módulos del bloque específico:
+
+MED-ATAT301 Técnica y entrenamiento en velocidad, relevos y vallas.
+
+MED-ATAT302 Técnica y entrenamiento en medio fondo, fondo y obstáculos.
+
+MED-ATAT303 Técnica y entrenamiento en lanzamientos y pruebas combinadas.
+
+MED-ATAT304 Técnica y entrenamiento en saltos.
+
+MED-ATAT305 Planificación técnica y condicional en atletismo.
+
+MED-ATAT306 Organización y gestión en atletismo.
+
+MED-ATAT307 Proyecto.
+
+MED-ATAT308 Formación práctica.
+
+La distribución horaria de las enseñanzas mínimas del ciclo de grado superior en atletismo se establece en el anexo I-B.
+
+Los objetivos generales y los módulos de enseñanza deportiva del ciclo de grado superior en atletismo quedan desarrollados en el anexo II.
+
+### Artículo 10. Ratio profesor/alumno.
+
+Para impartir los módulos del bloque común y los contenidos relacionados con los resultados de aprendizaje de carácter conceptual de los módulos del bloque específico del ciclo de grado superior en atletismo, la relación profesor/alumno será de 1/30.
+
+Para impartir los contenidos relacionados con los resultados de aprendizaje de carácter procedimental de los módulos del bloque específico del ciclo de grado superior en atletismo la relación profesor/alumno será la recogida en el anexo III.
+
+### Artículo 11. Módulo de formación práctica.
+
+Para iniciar los módulos de formación práctica del ciclo de grado superior en atletismo, será necesario haber superado con anterioridad los módulos comunes y específicos de enseñanza deportiva que se establecen en el anexo IV.
+
+### Artículo 12. Determinación del currículo.
+
+Las Administraciones educativas establecerán los currículos correspondientes respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del Real Decreto 1363/2007, de 24 de octubre.
+
+### Artículo 13. Espacios y equipamientos deportivos.
+
+Los espacios y equipamientos mínimos necesarios para el desarrollo de las enseñanzas del ciclo de grado superior en atletismo son los establecidos en el anexo V.
+
+## CAPÍTULO V — Acceso al ciclo de grado superior
+
+### Artículo 14. Requisitos generales de acceso al ciclo de grado superior en atletismo.
+
+Para acceder al ciclo de grado superior en atletismo será necesario tener el título de Bachiller o equivalente a efectos de acceso, así como el título de Técnico Deportivo en Atletismo.
+
+### Artículo 15. Requisitos de acceso al ciclo de grado superior en atletismo para personas sin el título de Bachiller.
+
+Se podrá acceder a las enseñanzas del ciclo de grado superior en atletismo, sin el título de Bachiller, siempre que el aspirante posea el título de técnico deportivo correspondiente, y además cumpla las condiciones de edad y supere la prueba correspondiente conforme al artículo 31.1.b) del Real Decreto 1363/2007, de 24 de octubre.
+
+## CAPÍTULO VI — Profesorado
+
+### Artículo 16. Requisitos de titulación del profesorado en centros públicos de la Administración educativa.
+
+Los requisitos de la titulación del profesorado en centros públicos se determinarán en función del bloque de enseñanza deportiva en que hayan de impartir la docencia:
+
+La docencia en centros públicos de los módulos del bloque común que constituyen las enseñanzas deportivas del ciclo de grado superior en atletismo, corresponde al profesorado de los cuerpos de catedráticos y profesores de enseñanza secundaria, según lo establecido en el anexo VI.
+
+La docencia en centros públicos de los módulos del bloque específico que constituyen las enseñanzas deportivas del ciclo de grado superior en atletismo, está especificada en el anexo VII-A y corresponde a:
+
+a) Profesores especialistas que posean el título de Técnico Deportivo Superior en Atletismo, o aquellos no titulados que acrediten la experiencia en el ámbito laboral y deportivo, o la experiencia docente, detallada en el anexo VII-B.
+
+b) Profesores de la especialidad de Educación Física de los Cuerpos de Catedráticos y de Profesores de Enseñanza Secundaria que posean el título de Técnico Deportivo Superior en Atletismo.
+
+Las Administraciones educativas podrán autorizar la docencia de los módulos del bloque específico atribuidos al profesor especialista a los miembros de los Cuerpos de Catedráticos y Profesores de Enseñanza Secundaria con la especialidad de Educación Física cuando carezcan del título de Técnico Deportivo Superior en Atletismo, siempre que posean la formación diseñada al efecto o reconocida por dichas Administraciones educativas, o la experiencia laboral o deportiva o la experiencia docente, detallada en el anexo VII-B.
+
+### Artículo 17. Requisitos de titulación del profesorado en centros privados y de titularidad pública de Administraciones distintas a la educativa.
+
+Las titulaciones requeridas para la impartición de los módulos, tanto del bloque común, como del bloque específico, que forman el ciclo de enseñanza deportiva de grado superior en atletismo, para el profesorado de los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, se concretan en el anexo VIII.
+
+## CAPÍTULO VII — Vinculación a otros estudios
+
+### Artículo 18. Acceso a otros estudios.
+
+El título de Técnico Deportivo Superior en Atletismo permite el acceso directo a las enseñanzas universitarias oficiales de grado en las condiciones de admisión que se establezcan.
+
+A los efectos de facilitar el régimen de convalidaciones, se han asignado 65 créditos ECTS a la duración total de las enseñanzas del ciclo de grado superior establecidas en el artículo 3.
+
+El número de créditos ECTS atribuido a cada uno de los módulos de enseñanza deportiva de este ciclo se establecen en el anexo I-A.
+
+### Artículo 19. Convalidación de estas enseñanzas.
+
+El Ministerio de Educación, Cultura y Deporte establecerá las convalidaciones que proceda otorgar del bloque común de las enseñanzas reguladas en el presente real decreto, a aquellos que acrediten estudios o el título de Licenciado en Ciencias de la Actividad Física y el Deporte regulado por el Real Decreto 1670/1993, de 24 de septiembre, por el que se establece el título universitario oficial de Licenciado en Ciencias de la Actividad Física y del Deporte y las directrices generales propias de los planes de estudios conducente a la obtención del mismo, de Diplomado en Educación Física y Licenciado en Educación Física regulado por el Real Decreto 790/1981, de 24 de abril, sobre Institutos Nacionales de Educación Física y las enseñanzas que imparten, de Maestro Especialista en Educación Física regulado por el Real Decreto 1440/1991, de 30 de agosto, por el que se establece el título universitario, oficial de Maestro, en sus diversas especialidades y las directrices generales propias de los planes de estudios conducentes a su obtención, de Técnico Superior en Animación de Actividades Físicas y Deportivas regulado por el Real Decreto 2048/1995, de 22 de diciembre, por el que se establece el título de Formación Profesional de Técnico superior en Animación de Actividades Físicas y Deportivas y las correspondientes enseñanzas mínimas y el de Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural regulado por el Real Decreto 2049/1995, de 22 de diciembre, por el que se establece el título de Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural y las correspondientes enseñanzas mínimas, así como con las materias de bachillerato y los títulos establecidos al amparo del Real Decreto 1913/1997, de 19 de diciembre, por el que se configuran como enseñanzas de régimen especial las conducentes a la obtención de titulaciones de técnicos deportivos, se aprueban las directrices generales de los títulos y de las correspondientes enseñanzas mínimas.
+
+Las convalidaciones de módulos de enseñanza deportiva de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, con los módulos de enseñanza deportiva del bloque específico del título de Técnico Deportivo Superior en Atletismo se establecen en el anexo IX.
+
+Serán objeto de convalidación los módulos comunes y específicos de enseñanza deportiva con la misma denominación y código.
+
+La superación de la totalidad de los módulos del bloque común del grado superior, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del ciclo de enseñanza deportiva de grado superior en atletismo. La superación de la totalidad de los módulos del bloque común del ciclo de enseñanza deportiva de grado superior atletismo, se convalidará por la totalidad de los módulos del bloque común, del grado superior, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+
+### Artículo 20. Exención del módulo de formación práctica.
+
+Podrá ser objeto de exención total o parcial el módulo de formación práctica del ciclo de grado superior en atletismo, en función de su correspondencia con la experiencia en el ámbito deportivo o laboral, detallada en el anexo X.
+
+### Disposición adicional primera. Referencia del título en el marco europeo.
+
+Una vez establecido el marco nacional de cualificaciones, de acuerdo con las Recomendaciones europeas, se determinará el nivel correspondiente de estas titulaciones en el marco nacional y su equivalente europeo.
+
+### Disposición adicional segunda. Oferta a distancia de los módulos de enseñanza deportiva del presente título.
+
+Los módulos de enseñanza deportiva que se establecen en el anexo XI, podrán ofertarse a distancia siempre que se garantice que el alumno puede conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las Administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
+
+### Disposición adicional tercera. Referencias genéricas.
+
+Todas las referencias al alumnado, profesorado y titulaciones para las que en este real decreto se utiliza la forma del masculino genérico deben entenderse aplicables indistintamente a mujeres y a hombres.
+
+### Disposición adicional cuarta. Titulaciones equivalentes.
+
+El título de Técnico Deportivo Superior en Atletismo, establecido en el Real Decreto 254/2004, de 13 de febrero, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Atletismo, se aprueban las correspondiente enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas, tendrá los mismos efectos profesionales y académicos que el título de Técnico Deportivo Superior en Atletismo establecido en el presente real decreto.
+
+### Disposición transitoria única. Aplicabilidad de otras normas.
+
+1\. Hasta que sea de aplicación lo dispuesto en este real decreto, en virtud de lo establecido en sus disposiciones finales segunda y cuarta, será de aplicación lo dispuesto en el Real Decreto 254/2004, de 13 de febrero.
+
+2\. Así mismo, hasta que sea de aplicación la norma que regule, para el ámbito de gestión del Ministerio de Educación, Cultura y Deporte el currículo correspondiente al título de Técnico Deportivo Superior en Atletismo, aquí regulado, será de aplicación lo establecido en la Orden ECI/430/2005, de 17 de febrero, por la que se establecen para el ámbito territorial de gestión directa del Ministerio de Educación y Ciencia, los currículos y las pruebas y requisitos de acceso, correspondientes a los títulos de Técnico Deportivo y de Técnico Deportivo Superior de Atletismo.
+
+### Disposición derogatoria única. Derogación de normas.
+
+Quedan derogadas todas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+### Disposición final primera. Título competencial.
+
+El presente real decreto tiene carácter de norma básica y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1. 30.ª de la Constitución, que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+
+### Disposición final segunda. Implantación del título.
+
+Las administraciones educativas podrán implantar, el nuevo currículo de estas enseñanzas desde el curso escolar 2013-2014.
+
+### Disposición final tercera. Autorización para el desarrollo.
+
+Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se autoriza al titular del Ministerio de Educación, Cultura y Deporte para la modificación y actualización de los anexos VI, VII-A, y VIII de este decreto.
+
+### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 6 de septiembre de 2013.
+
+JUAN CARLOS R.
+
+El Ministro de Educación, Cultura y Deporte,
+
+JOSÉ IGNACIO WERT ORTEGA
+
+## ANEXO I-A — Distribución en créditos ECTS de la duración total de las enseñanzas
+
+|  | Equivalencia en créditos ECTS |
+|---|---|
+| *Bloque común* |  |
+| MED-C301 Factores fisiológicos del alto rendimiento. | 5 |
+| MED-C302 Factores psicosociales del alto rendimiento. | 3 |
+| MED-C303 Formación de formadores deportivos. | 4 |
+| MED-C304 Organización y gestión aplicada al alto rendimiento. | 4 |
+| Total. | 16 créditos ECTS |
+| *Bloque específico* |  |
+| MED-ATAT301 Técnica y entrenamiento en velocidad, relevos y vallas. | 4 |
+| MED-ATAT302 Técnica y entrenamiento en medio fondo, fondo y obstáculos. | 4 |
+| MED-ATAT303 Técnica y entrenamiento en lanzamientos y pruebas combinadas. | 8 |
+| MED-ATAT304 Técnica y entrenamiento en saltos. | 5 |
+| MED-ATAT305 Planificación técnica y condicional en atletismo. | 4 |
+| MED-ATAT306 Organización y gestión en atletismo. | 2 |
+| MED-ATAT307 Proyecto. | 6 |
+| MED-ATAT308 Formación práctica. | 16 |
+| Total. | 49 créditos ECTS |
+| Total. | 65 créditos ECTS |
+
+## ANEXO I-B — Distribución horaria de las enseñanzas mínimas
+
+|  | Enseñanzas mínimas<br>–<br>Horas |
+|---|---|
+| *Bloque común* |  |
+| MED-C301 Factores fisiológicos del alto rendimiento. | 35 |
+| MED-C302 Factores psicosociales del alto rendimiento. | 25 |
+| MED-C303 Formación de formadores deportivos. | 30 |
+| MED-C304 Organización y gestión aplicada al alto rendimiento. | 20 |
+| Total. | 110 |
+| *Bloque específico* |  |
+| MED-ATAT301 Técnica y entrenamiento en velocidad, relevos y vallas. | 25 |
+| MED-ATAT302 Técnica y entrenamiento en medio fondo, fondo y obstáculos. | 25 |
+| MED-ATAT303 Técnica y entrenamiento en lanzamientos y pruebas combinadas. | 50 |
+| MED-ATAT304 Técnica y entrenamiento en saltos. | 35 |
+| MED-ATAT305 Planificación técnica y condicional en atletismo. | 25 |
+| MED-ATAT306 Organización y gestión en atletismo. | 15 |
+| MED-ATAT307 Proyecto. | 40 |
+| MED-ATAT308 Formación práctica. | 110 |
+| Total. | 325 |
+| Total. | 435 |
+
+## ANEXO II — Objetivos generales y módulos de enseñanza deportiva del ciclo de grado superior en atletismo
+
+> Se reordena el contenido de este Anexo, que pasa a integrar los Anexos II.a hasta el II.m por el art. 6.2 del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.a — Objetivos generales
+
+a) Seleccionar y justificar los procedimientos de la valoración del entorno del atleta, de los medios materiales e instalaciones disponibles, identificando sus características y aplicando los procedimientos, para analizar las condiciones del alto rendimiento.
+
+b) Seleccionar y justificar los procedimientos de análisis de los factores de rendimiento, y los criterios de selección de los atletas, identificando sus características y aplicando los procedimientos establecidos, para valorar los factores de rendimiento propios del atletismo.
+
+c) Describir, seleccionar y demostrar las técnicas de filmación, edición y gestión de medios técnicos y material audiovisual, identificando sus necesidades y limitaciones y aplicando procedimientos para valorar el rendimiento en el alto nivel.
+
+d) Elegir y justificar los procedimientos de determinación de los objetivos, medios y métodos del entrenamiento, y la temporalización de la carga, aplicando los principios del entrenamiento y del aprendizaje motor aplicables, para programar a corto, medio y largo plazo el entrenamiento.
+
+e) Analizar los factores relativos a la carga de trabajo, diseñando actividades en supuestos establecidos y aplicando los principios y métodos del entrenamiento, para concretar las sesiones de trabajo.
+
+f) Describir, elegir y demostrar las técnicas y estrategias de dirección de sesiones, de control de las contingencias propias del alto rendimiento en atletismo, aplicando procedimientos de observación, dinamización y control, resolviendo supuestos, para dirigir sesiones.
+
+g) Seleccionar las instalaciones propias del alto rendimiento deportivo, en atletismo, aplicando procedimientos establecidos y normativa vigente, para facilitar la disponibilidad y adecuada utilización de las instalaciones.
+
+h) Evaluar las condiciones de seguridad de las instalaciones propias del alto rendimiento deportivo en atletismo, aplicando los procedimientos establecidos y la normativa vigente, para controlar la seguridad en la práctica de este nivel.
+
+i) Analizar la competición de alto rendimiento, aplicando procedimientos establecidos y teniendo en cuenta las características de los participantes y el reglamento, para dirigir a deportistas en competiciones de este nivel en atletismo.
+
+j) Identificar las necesidades vinculadas a la participación en competiciones internacionales, identificando las posibles actuaciones y describiendo los factores a gestionar.
+
+k) Analizar y justificar las necesidades de intervención de otros especialistas en la preparación de alto rendimiento, describiendo las funciones y objetivos a desarrollar, para determinar la constitución y coordinación de equipos de trabajo multidisciplinares.
+
+l) Identificar y analizar la características organizativas, medios materiales y humanos, aplicando procedimientos establecidos de gestión y comunicación, para coordinar recursos humanos y organizar los recursos materiales de una escuela de atletismo.
+
+m) Analizar y elaborar la estructura organizativa de las competiciones y eventos propios del nivel de tecnificación deportiva, y analizar las características técnicas de competiciones de alto nivel, enumerando los requisitos administrativos, los medios materiales y humanos necesarios, aplicando el marco legal que las regula, para organizar y colaborar en la gestión de competiciones y eventos.
+
+n) Diseñar y justificar los procedimientos de recogida de información y valoración del proceso de alto rendimiento, analizando las variables que intervienen en supuestos, para evaluar el proceso de entrenamiento y los resultados obtenidos en la competición.
+
+ñ) Describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los deportistas, para transmitir valores propios de la actividad deportiva a través del comportamiento ético personal.
+
+o) Reconocer, promover y justificar los valores de compromiso, trabajo bien hecho y aprendizaje constante, describiendo los aspectos observables de la conducta, que reflejan estos valores, para mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el desempeño de su labor como técnico.
+
+> Se numera como Anexo II.a por el art. 6.2.a) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.b — Módulo común de enseñanza deportiva: Factores fisiológicos del alto rendimiento
+
+Código: MED-C301
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Analiza los principales conceptos del metabolismo energético y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+a) Se han identificado los principales conceptos del metabolismo energético.
+
+b) Se han analizado las diferentes vías metabólicas y las principales fuentes de energía en relación con el ejercicio físico, incidiendo en los aspectos fisiológicos que determinan la resistencia.
+
+c) Se han analizado las principales adaptaciones fisiológicas al entrenamiento de los diferentes sistemas del organismo en relación con el metabolismo energético.
+
+d) Se han valorado las características del metabolismo energético en mujeres deportistas, así como sus adaptaciones fisiológicas al entrenamiento.
+
+RA-2. Analiza los principales componentes del sistema neuromuscular y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+a) Se ha analizado el sistema neuromuscular, incidiendo en los aspectos fisiológicos y mecánicos que determinan la fuerza, la velocidad y la amplitud de movimiento.
+
+b) Se ha descrito el concepto de fuerza y sus diferentes manifestaciones en relación con la actividad físico-deportiva.
+
+c) Se ha descrito el concepto de velocidad y sus diferentes manifestaciones en relación con la actividad físico-deportiva, así como su implicación en las capacidades coordinativas.
+
+d) Se han analizado las principales adaptaciones al entrenamiento en relación con el sistema neuromuscular.
+
+e) Se han valorado las características del sistema neuromuscular en mujeres deportistas, así como sus adaptaciones fisiológicas al entrenamiento.
+
+RA-3. Selecciona a los/las deportistas para la alta competición analizando los factores fisiológicos determinantes que influyen en el alto rendimiento.
+
+a) Se han identificado los principales factores fisiológicos determinantes y limitantes del alto rendimiento deportivo.
+
+b) Se han analizado los fundamentos de la evaluación de la capacidad funcional vinculados al alto rendimiento deportivo.
+
+c) Se han interpretado los resultados y diferencias entre hombres y mujeres en la evaluación de la capacidad funcional.
+
+d) Se ha interpretado la importancia de la valoración anatómica y fisiológica como elemento de selección de los/las deportistas en el alto rendimiento deportivo, empleando diferentes métodos y tecnologías fiables, válidas y sensibles.
+
+e) Se ha descrito la organización de los equipos de trabajo en el alto rendimiento deportivo, identificando las diferentes funciones y roles de los especialistas que los componen.
+
+RA-4. Colabora con la persona especialista en la determinación de la dieta y en la prescripción de ayudas ergogénicas analizando los principales conceptos de nutrición deportiva y los efectos nocivos de las sustancias dopantes para la salud.
+
+a) Se han identificado los principios fundamentales y los conceptos básicos de la nutrición, la suplementación y las ayudas ergogénicas en relación con el ámbito físico-deportivo.
+
+b) Se han interpretado los resultados de la valoración nutricional del deportista a partir de los datos de un supuesto práctico.
+
+c) Se han elaborado de manera justificada las estrategias de reposición de nutrientes, agua y sales minerales durante el entrenamiento y la competición, aplicándolas en supuestos prácticos basados en los conceptos de fisiología y nutrición deportiva estudiados.
+
+d) Se han identificado los principales aspectos en el diseño de la dieta de los y las deportistas, así como en la adecuada prescripción de suplementos y ayudas ergogénicas para la mejora del rendimiento físico-deportivo durante el entrenamiento y la competición, contemplando las necesidades nutricionales particulares de las mujeres y hombres deportistas de alto rendimiento.
+
+e) Se han identificado las principales sustancias dopantes y sus efectos nocivos para la salud.
+
+RA-5. Programa y dirige el entrenamiento del deportista aplicando los conceptos de carga, fatiga y recuperación.
+
+a) Se han clasificado los diferentes tipos de fatiga, central o periférica y aguda o crónica, así como sus mecanismos de producción.
+
+b) Se han analizado los efectos de la fatiga deportiva en el sistema neuromuscular, endocrino e inmunológico.
+
+c) Se han empleado diferentes medios y métodos para cuantificar la fatiga producida por el entrenamiento.
+
+d) Se han diseñado y aplicado diferentes medios y métodos de recuperación según el mecanismo de producción de la fatiga.
+
+e) Se ha valorado la importancia de la monitorización de la carga para una adecuada gestión del entrenamiento, con el propósito de prevenir el síndrome de sobreentrenamiento y reducir el riesgo de lesiones deportivas.
+
+f) Se han empleado diferentes métodos y tecnologías, validas, fiables y sensibles de monitorización de la carga de entrenamiento.
+
+RA-6. Programa y dirige el entrenamiento y/o la competición en condiciones especiales identificando sus bases y características más importantes.
+
+a) Se han analizado las causas y los efectos fisiológicos producidos por el entrenamiento y/o la competición en condiciones extremas de calor, frío y/o humedad.
+
+b) Se han diseñado entrenamientos y estrategias de mejora de la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de temperatura y/o humedad extrema.
+
+c) Se han identificado las bases y protocolos de entrenamiento controlado en calor utilizados como medio de mejora del rendimiento físico-deportivo.
+
+d) Se han analizado las causas y los efectos fisiológicos producidos por los entrenamientos y/o competición en altura, así como sus posibles efectos positivos y negativos sobre el rendimiento físico-deportivo.
+
+e) Se han diseñado entrenamientos en diferentes situaciones de altitud, así como estrategias de adaptación de los/las deportistas a dichas condiciones.
+
+f) Se han analizado los efectos fisiológicos producidos por cambios significativos de huso horario sobre el rendimiento del deportista en el entrenamiento y/o la competición.
+
+g) Se han diseñado entrenamientos en situaciones de cambio horario, así como estrategias de adaptación de los/las deportistas a dichas condiciones.
+
+h) Se ha valorado la colaboración con el grupo de especialistas en la dirección del entrenamiento en condiciones especiales (altitud, cambios horarios, frío, calor, humedad).
+
+Contenidos básicos
+
+RA-1. Analiza los principales conceptos del metabolismo energético y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+1\. Conceptos de metabolismo, catabolismo y anabolismo. Absorción, transporte y almacenamiento de nutrientes.
+
+2\. El ATP. Principales vías metabólicas:
+
+– Vías anaeróbicas: sistema ATP-PC, glucólisis anaeróbica y ciclo de Cori.
+
+– Vías aeróbicas: glucólisis aeróbica y ciclo de Krebs.
+
+3\. Fuentes de energía en relación con las diferentes vías metabólicas: ATP, PC, glucosa, glucógeno, ácidos grasos y proteínas.
+
+4\. Implicación fisiológica de las vías metabólicas en relación con la resistencia durante la actividad físico-deportiva.
+
+5\. El modelo trifásico y los principales hitos fisiológicos: umbrales ventilatorios, VO2max, umbrales lácticos y Máximo Estado Estable del Lactato (MLSS). Métodos directos e indirectos para su valoración y control. Aplicación a los modelos por zonas de intensidad para la planificación y control del entrenamiento.
+
+6\. Conceptos de eficiencia y economía energética. Relevancia en la práctica físico-deportiva.
+
+7\. Principales adaptaciones fisiológicas, agudas y crónicas, al entrenamiento de los diferentes sistemas del organismo en relación con el metabolismo energético.
+
+8\. El metabolismo energético en mujeres deportistas. Principales características de sus adaptaciones fisiológicas al entrenamiento.
+
+RA-2. Analiza los principales componentes del sistema neuromuscular y su relación con las capacidades condicionales reconociendo las adaptaciones fisiológicas al entrenamiento más importantes.
+
+1\. Funciones de los diferentes tipos de músculos: cardiaco, liso y esquelético.
+
+2\. Tipos, componentes y estructura del músculo esquelético. El tendón como transmisor de fuerzas del sistema musculoesquelético y su relación con el ciclo estiramiento-acortamiento (CEA).
+
+3\. La fibra muscular y el sarcómero como unidad funcional básica del músculo. Teoría del filamento deslizante.
+
+4\. Concepto de unidad motora y tipos de fibras musculares. Relación con los principales aspectos fisiológicos y mecánicos que determinan la fuerza, la velocidad y la amplitud de movimiento.
+
+5\. Concepto de fuerza. Principales manifestaciones en relación con la actividad físico-deportiva: fuerza aplicada, fuerza máxima, producción de fuerza por unidad de tiempo (RFD) y fuerza útil. Curvas de fuerza-tiempo y de fuerza-velocidad. Aplicaciones prácticas del entrenamiento de fuerza basadas en la velocidad.
+
+6\. Concepto de velocidad. Principales manifestaciones en relación con la actividad físico-deportiva: velocidad de reacción, gestual y de desplazamiento. Implicaciones sobre las capacidades coordinativas.
+
+7\. Principales adaptaciones, agudas y crónicas al entrenamiento en relación con el sistema neuromuscular: estructurales, nerviosas y hormonales.
+
+8\. Características del sistema neuromuscular y adaptaciones fisiológicas al entrenamiento en mujeres deportistas.
+
+RA-3. Selecciona a los/las deportistas para la alta competición analizando los factores fisiológicos determinantes que influyen en el alto rendimiento.
+
+1\. Aspectos limitantes y factores fisiológicos determinantes del alto rendimiento deportivo.
+
+2\. Fundamentos, medios directos e indirectos y métodos avanzados para la evaluación de la capacidad funcional en el alto rendimiento deportivo. Identificación de la tecnología adecuada y orientaciones para la interpretación de los resultados.
+
+3\. La valoración anatómico-fisiológica como elemento para la selección de los/las deportistas en el alto rendimiento deportivo: medios y métodos. Utilización de tecnología fiable, válida y sensible para una adecuada evaluación.
+
+4\. Análisis e interpretación de los resultados en los estudios antropométricos y de composición corporal utilizados en el alto rendimiento deportivo.
+
+5\. Valoración de las diferencias entre hombres y mujeres.
+
+6\. Organización de los equipos de trabajo en el alto rendimiento deportivo. Diferentes funciones y roles de los especialistas que los componen.
+
+RA-4. Colabora con la persona especialista en la determinación de la dieta y en la prescripción de ayudas ergogénicas analizando los principales conceptos de nutrición deportiva y los efectos nocivos de las sustancias dopantes para la salud.
+
+1\. Principios fundamentales y conceptos básicos de la nutrición, la suplementación y las ayudas ergogénicas en relación con el ámbito físico-deportivo.
+
+2\. Suplementos y ayudas ergogénicas respaldados por la evidencia científica más utilizados en el alto rendimiento deportivo. Criterios para un uso adecuado.
+
+3\. Valoración y control nutricional del deportista de alto rendimiento: medios, métodos e interpretación de los resultados. Identificación de la tecnología adecuada para la evaluación.
+
+4\. La reposición de nutrientes, agua y sales minerales durante el entrenamiento y la competición: bases fisiológicas y estrategias de aplicación individualizadas utilizadas en el alto rendimiento deportivo.
+
+5\. Orientaciones para la colaboración con la persona especialista en el diseño de la dieta, así como en la prescripción de suplementos y ayudas ergogénicas para la mejora del rendimiento físico-deportivo durante el entrenamiento y la competición.
+
+6\. El dopaje en el deporte: concepto, clasificación y ejemplos de sustancias y métodos prohibidos más extendidos en la práctica deportiva.
+
+7\. Toma de conciencia de las repercusiones del dopaje en la salud de los/las deportistas. Consecuencias legales y sanciones deportivas.
+
+8\. El control antidopaje: normativa, organismos y principales métodos para la detección de sustancias prohibidas.
+
+RA-5. Programa y dirige el entrenamiento del deportista aplicando los conceptos de carga, fatiga y recuperación.
+
+1\. Binomio fatiga-recuperación: concepto y relación con el rendimiento deportivo.
+
+2\. Fatiga, sobrecarga y sobreentrenamiento: concepto, tipos, mecanismos de producción, indicadores y formas de prevención.
+
+3\. Efectos de la fatiga en el sistema neuromuscular, endocrino e inmunológico.
+
+4\. La recuperación: concepto, medios y métodos. Relación con los mecanismos de producción.
+
+5\. Principales estrategias de recuperación en alto rendimiento: sueño, nutrición, hidratación, crioterapia, prendas compresivas, masaje, hidroterapia, etc.
+
+6\. Principios de aplicación de las estrategias de recuperación: individualización, alternancia y especificidad.
+
+7\. Pruebas objetivas y subjetivas para cuantificar la fatiga en el alto rendimiento deportivo: marcadores fisiológicos y bioquímicos, test físicos y escalas subjetivas de bienestar.
+
+8\. Relación entre carga de entrenamiento y lesiones por sobreuso.
+
+9\. Nuevas tecnologías para la monitorización de la carga de entrenamiento en el alto rendimiento deportivo.
+
+RA-6. Programa y dirige el entrenamiento y/o la competición en condiciones especiales identificando sus bases y características más importantes.
+
+1\. Causas, efectos y respuestas fisiológicas producidos por el entrenamiento y/o la competición en condiciones extremas de calor, frío y/o humedad.
+
+2\. Diseño y elaboración de entrenamientos en situaciones de temperatura y/o humedad extrema.
+
+3\. Estrategias para facilitar la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de temperaturas y/o humedades extremas.
+
+4\. Diseño y elaboración de protocolos y sesiones de entrenamiento controlado en calor para la mejora del rendimiento físico-deportivo.
+
+5\. Respuesta fisiológica aguda, reposo vs. ejercicio y crónica. Efectos y adaptaciones a la altitud sobre el sistema cardiorrespiratorio, hormonal y neuromuscular.
+
+6\. Diseño y elaboración de programas de entrenamiento en altitud.
+
+7\. Estrategias de entrenamiento en condiciones de hipoxia.
+
+8\. Estrategias para facilitar la adaptación de los/las deportistas al entrenamiento y la competición en situaciones de altitud.
+
+9\. Efectos y respuestas fisiológicas producidos por el cambio horario en los diferentes sistemas del organismo: alteraciones de los ritmos circadianos, frecuencia cardíaca y ventilatoria, función urinaria, gástrica y hormonal. Consecuencias sobre el rendimiento físico-deportivo.
+
+10\. Consideraciones y estrategias en la programación del entrenamiento y la competición para facilitar la adaptación de los/las deportistas en situaciones de cambio horario.
+
+> Se numera como Anexo II.b y se sustituye por el que figura en el Anexo I del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 6.2.b)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.c — Módulo común de enseñanza deportiva: Factores psicosociales del alto rendimiento
+
+Código: MED-C302
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Identifica los factores psicológicos del deportista analizando los principales conceptos de la psicología del deporte, sus efectos en el rendimiento y el bienestar del deportista.
+
+a) Se han identificado los objetivos y funciones de la psicología del deporte.
+
+b) Se han analizado las contribuciones de los factores psicológicos a la progresión y el rendimiento de los/las deportistas de alto nivel.
+
+c) Se han descrito las principales destrezas psicológicas del deportista que influyen en el rendimiento deportivo según la modalidad deportiva.
+
+d) Se ha argumentado la necesidad de integrar las destrezas psicológicas en la evaluación del rendimiento de los/las deportistas de alto nivel.
+
+e) Se han descrito las principales situaciones de riesgo para la salud mental y el bienestar psicológico del deportista.
+
+RA-2. Selecciona al/a la deportista para la alta competición, analizando las características psicológicas de los/las deportistas y equipos de alto nivel y las exigencias psicológicas del alto rendimiento.
+
+a) Se han definido las características psicológicas óptimas, de deportistas y equipos, que demanda el alto rendimiento deportivo en el entrenamiento y en la competición.
+
+b) Se han analizado específicamente peculiaridades psicológicas de las mujeres deportistas en el alto rendimiento.
+
+c) Se han analizado los condicionantes psicológicos y las consideraciones específicas de los/las deportistas con discapacidad en el alto rendimiento.
+
+d) Se han propuesto de forma justificada criterios psicológicos de selección de deportistas de alto nivel en función de las exigencias del entrenamiento y la competición de alto nivel.
+
+e) Se han aplicado procedimientos psicológicos de detección de deportistas de alto nivel, mediante la realización de entrevistas y la observación de deportistas en situaciones simuladas de competición y entrenamiento.
+
+f) Se ha argumentado la importancia de la incorporación de protocolos psicológicos en la detección de deportistas de alto nivel.
+
+RA-3. Valora el entorno del/de la deportista, analizando los aspectos sociales que afectan a su rendimiento deportivo y facilitan su formación académica.
+
+a) Se han reconocido los aspectos sociales del entorno que afectan al rendimiento de los diferentes tipos de deportista de alto nivel.
+
+b) Se han definido los aspectos sociales del entorno del/de la deportista que facilitan su formación académica.
+
+c) Se han aplicado procedimientos de evaluación del entorno del/de la deportista que afectan a su rendimiento, en un supuesto práctico debidamente caracterizado.
+
+d) Se han aplicado de manera justificada medios de gestión del entorno, en situaciones simuladas debidamente caracterizadas, que eviten la interferencia con la formación deportiva y académica del/de la deportista.
+
+e) Se ha argumentado la conveniencia de que el/la entrenador/a facilite al/a la deportista la posibilidad de compaginar la carrera deportiva con la formación académica y la conciliación de la vida familiar y deportiva.
+
+f) Se han localizado, en una situación simulada debidamente caracterizada, las ayudas y fuentes de información de que disponen los/las deportistas de alto nivel al llegar al final de su carrera deportiva, que facilitan su integración en la vida laboral.
+
+g) Se ha reconocido la importancia de incorporar el análisis de los aspectos sociales del entorno del/de la deportista en la evaluación de su rendimiento.
+
+h) Se ha valorado la actitud positiva del/de la entrenador/a hacia el reconocimiento y prevención de los problemas de inserción laboral más frecuentes en los/las deportistas de alto nivel.
+
+RA-4. Participa en la preparación psicológica del deportista de alto rendimiento, analizando y aplicando actividades y técnicas de mejora de las destrezas psicológicas.
+
+a) Se han descrito las características y estructura de las técnicas de preparación psicológica que influyen en la mejora del rendimiento deportivo.
+
+b) Se han puesto en práctica actividades de preparación psicológica que influyen en la mejora del rendimiento deportivo en un supuesto practico debidamente caracterizado.
+
+c) Se han aplicado métodos de preparación psicológica en la mejora del afrontamiento de la competición que los/las deportistas de alto nivel hacen en situaciones simuladas debidamente caracterizadas.
+
+d) Se han realizado sencillas secuencias de actividades que favorezcan la mejora de las destrezas psicológicas en función de las exigencias de la especialidad deportiva y las características del deportista de una situación simulada debidamente caracterizada.
+
+RA-5. Colabora en la planificación de la preparación psicológica del/de la deportista, analizando la estructura de la preparación y aplicando criterios de secuenciación de los procedimientos y métodos para afrontar la alta competición.
+
+a) Se ha reconocido la pertinencia de integrar la preparación psicológica en la programación de la preparación general del/de la deportista.
+
+b) Se han elaborado sesiones de entrenamiento de las diferentes destrezas psicológicas que influyen en el rendimiento del deportista de alta competición.
+
+c) Se ha planificado la preparación psicológica dirigida a mejorar el rendimiento deportivo en la alta competición distribuyendo las cargas de trabajo de las diferentes destrezas psicológicas a lo largo de la temporada.
+
+d) Se han integrado en un supuesto práctico de preparación deportiva los procedimientos psicológicos de mantenimiento de la motivación de los/las deportistas de alto nivel a lo largo de la temporada deportiva.
+
+e) Se han programado los procesos relacionados con la forma en que el/la deportista de alto nivel afronta la competición en un supuesto práctico.
+
+f) Se ha valorado la importancia de la gestión psicológica en el proceso de rehabilitación de lesiones en los/las deportistas de alto rendimiento.
+
+g) Se ha valorado la importancia de la gestión psicológica en el proceso de finalización de la etapa competitiva en la vida del deportista y tránsito a la vida lejos de la competición.
+
+RA-6. Coordina el equipo de personal técnico en ciencias aplicadas al deporte, identificando las funciones del/de la psicólogo/a y aplicando técnicas de liderazgo en la gestión de recursos humanos.
+
+a) Se han definido los roles del/de la profesional de la psicología, diferenciándolos de las funciones del entrenador y de la entrenadora.
+
+b) Se han descrito los diferentes estilos de liderazgo de que dispone el/la entrenador/a en la gestión del equipo del personal técnico especialista.
+
+c) Se han descrito las pautas para desarrollar la cohesión del grupo de los recursos humanos del staff técnico.
+
+d) Se han identificado aquellas pautas de comunicación que puede utilizar el/la entrenador/a que generan credibilidad en su equipo de técnicos/as especialistas.
+
+e) Se han aplicado los estilos de liderazgo, las técnicas de cohesión de grupo y las pautas de comunicación en la gestión de los recursos humanos del staff técnico en situaciones simuladas de trabajo en equipo.
+
+f) Se han descrito las pautas a seguir por parte del técnico en la incorporación de las aportaciones especializadas del/de la profesional de la psicología a la preparación del/de la deportista en función del grado de participación de la persona especialista con el/la deportista.
+
+g) Se ha justificado la conveniencia de disponer de equipos de personal técnico especialista en ciencias del deporte.
+
+h) Se han descrito los aspectos de la preparación deportiva susceptibles de ser derivados al/a la profesional de la psicología.
+
+Contenidos básicos
+
+RA-1. Identifica los factores psicológicos del deportista analizando los principales conceptos de la psicología del deporte, sus efectos en el rendimiento y el bienestar del deportista.
+
+1\. La psicología del deporte y el ejercicio físico: historia y evolución.
+
+2\. Objetivos principales de la psicología del deporte.
+
+3\. Funciones y áreas de estudio de la psicología del deporte.
+
+4\. Factores psicológicos y su contribución a la progresión y el rendimiento:
+
+– La personalidad y su estructura de análisis.
+
+– Motivación y competitividad.
+
+– *Arousal*, estrés y ansiedad.
+
+– Rasgos de la personalidad, estados emocionales y herramientas de medida: tests, inventarios y directrices para su uso.
+
+– Fases de desarrollo de la motivación de logro y la competitividad.
+
+– Teorías e hipótesis sobre el efecto del *arousal*y la ansiedad en la ejecución.
+
+– Destrezas psicológicas que influyen en el rendimiento deportivo como la regulación del *arousal*, visualización, autoconfianza, establecimiento de objetivos y concentración.
+
+– Contribuciones de las destrezas psicológicas del deportista a la progresión y el rendimiento de los/las deportistas de alto nivel según la modalidad deportiva.
+
+– La necesidad de integrar aspectos psicológicos en la evaluación del deportista para la mejora del rendimiento deportivo.
+
+– Influencia en el rendimiento deportivo de la motivación del deportista, los rasgos de personalidad, el nivel de competitividad o la gestión de la ansiedad.
+
+– El autoconcepto, la conducta Tipo A y su relevancia en la salud mental del deportista.
+
+RA-2. Selecciona al/a la deportista para la alta competición, analizando las características psicológicas de los/las deportistas y equipos de alto nivel y las exigencias psicológicas del alto rendimiento.
+
+1\. Características psicológicas óptimas de los/las deportistas y equipos de alto nivel en el entrenamiento y en la competición.
+
+2\. Modelo de salud mental positiva (Morgan 1979) para la predicción del éxito deportivo. El perfil de Iceberg.
+
+3\. Peculiaridades psicológicas y consideraciones específicas de la mujer deportista de alto rendimiento.
+
+4\. Condicionantes psicológicos y consideraciones específicas de los/las deportistas con discapacidad en el alto rendimiento.
+
+5\. Identificación del perfil psicológico de los/las deportistas y equipos de alto nivel.
+
+6\. Importancia de los aspectos psicológicos en los procesos de detección de deportistas de alto nivel.
+
+7\. Criterios psicológicos en la selección de deportistas de alto nivel.
+
+8\. Aplicación de procedimientos de selección psicológica de deportistas de alto nivel.
+
+9\. Métodos de evaluación de las destrezas psicológicas implicados en el entrenamiento y en la competición para su selección.
+
+10\. Registro y análisis de la actuación psicológica de los/las deportistas en entrenamiento y en competición para su selección.
+
+11\. La necesidad de integrar las destrezas psicológicas en la selección del deportista de alto nivel.
+
+RA-3. Valora el entorno del/de la deportista, analizando los aspectos sociales que afectan a su rendimiento deportivo y facilitan su formación académica.
+
+1\. Aspectos sociales del entorno del/de la deportista de alto nivel relacionados con el rendimiento deportivo y académico (familia, relaciones sociales y afectivas, centro educativo y/o laboral, club, federación, patrocinadores, representantes, medios de comunicación y redes sociales).
+
+2\. Características específicas del entorno de la mujer deportista.
+
+3\. Características específicas del entorno del/de la deportista con discapacidad en el alto rendimiento.
+
+4\. Interacciones entre las características psicológicas de los/las deportistas de alto nivel y los aspectos sociales de su entorno.
+
+5\. Aspectos sociales del entorno del/de la deportista relacionados con su formación académica.
+
+6\. Evaluación de los aspectos sociales del entorno del/de la deportista relacionados con su progresión deportiva.
+
+7\. Medios de gestión del entorno por parte del/de la entrenador/a para que no interfiera en la preparación deportiva, académica o en el rendimiento deportivo del/de la deportista (formación de las familias, educación de los medios de comunicación, gestión de las redes sociales).
+
+8\. Desarrollo de una actitud en el/la entrenador/a que facilite al/a la deportista compaginar sus estudios con la práctica deportiva.
+
+9\. Conciliación personal-familiar y deportiva, las expectativas de maternidad de las deportistas durante la vida deportiva.
+
+10\. Problemas de inserción laboral más frecuentes en deportistas de alto nivel. Identificación de las ayudas y fuentes de información que facilitan la integración de los/las deportistas de alto nivel a la vida laboral.
+
+11\. Evaluación de los efectos del entorno del deportista en su rendimiento deportivo.
+
+12\. La actitud positiva del/de la entrenador/a hacia el reconocimiento y la prevención de problemas de inserción laboral en los/las deportistas de alto nivel.
+
+13\. La integración de los aspectos sociales del entorno del/de la deportista en la evaluación de su rendimiento.
+
+RA-4. Participa en la preparación psicológica del deportista de alto rendimiento, analizando y aplicando actividades y técnicas de mejora de las destrezas psicológicas.
+
+1\. Técnicas para desarrollar y perfeccionar las habilidades psicológicas para la mejora del rendimiento.
+
+– Técnicas de reducción de la ansiedad.
+
+– Técnicas inductoras del *arousal*.
+
+– Ejercicios para trabajar los diferentes tipos de visualización.
+
+– Estrategias para trabajar la autoconfianza.
+
+– Principios básicos del establecimiento de objetivos.
+
+– Ejercicios para mejorar la concentración y el foco atencional.
+
+2\. Estrategias para conseguir un determinado estado mental para realizar conductas relevantes para la mejora del rendimiento y/o la salud psicológica.
+
+3\. Aplicación de situaciones de competitividad y cooperación como herramientas para el aumento del rendimiento.
+
+4\. Utilización del*Feedback*y técnicas de reforzamiento de la conducta.
+
+5\. Métodos aplicados para la preparación psicológica del afrontamiento de la competición deportiva de alto nivel.
+
+6\. Secuencias y progresiones de actividades para la mejora de las destrezas psicológicas específicas de la modalidad deportiva en función de las peculiaridades del deportista.
+
+RA-5. Colabora en la planificación de la preparación psicológica del/de la deportista, analizando la estructura de la preparación y aplicando criterios de secuenciación de los procedimientos y métodos para afrontar la alta competición.
+
+1\. Los programas de entrenamiento de las destrezas psicológicas y su integración en la planificación deportiva general.
+
+2\. Estructura y diseño de las sesiones de entrenamiento de las destrezas psicológicas del deportista de alta competición como unidad de programación.
+
+3\. Programas de sesiones para la mejora de las distintas destrezas psicológicas que influyen en el rendimiento deportivo.
+
+4\. Distribución de las cargas de trabajo de las distintas destrezas psicológicas a lo largo de la temporada deportiva.
+
+5\. Diseño y evaluación de programas de mejora de las destrezas psicológicas.
+
+6\. Procedimientos psicológicos para mantener la motivación de deportistas de alto nivel a lo largo de la temporada.
+
+7\. Métodos de preparación psicológica para mejorar el afrontamiento que los/las deportistas de alto nivel hacen de la competición.
+
+8\. Planificación de los procesos de afrontamiento de la competición implicados en el alto rendimiento deportivo.
+
+9\. Elaboración de programaciones deportivas que integren los procesos de motivación y de afrontamiento de la competición.
+
+10\. Relevancia del trabajo psicológico para deportistas de alto nivel en situaciones de riesgo para su salud mental:
+
+– Procesos de rehabilitación de lesiones.
+
+– Finalización de la etapa competitiva en la vida del deportista y tránsito a la vida lejos de la competición.
+
+RA-6. Coordina el equipo de personal técnico en ciencias aplicadas al deporte, identificando las funciones del/de la psicólogo/a y aplicando técnicas de liderazgo en la gestión de recursos humanos.
+
+1\. Funciones del/de la profesional de la psicología aplicada al deporte y del técnico en los programas de entrenamiento de las destrezas psicológicas:
+
+– Detección de necesidades.
+
+– Diseño de la planificación.
+
+– Implementación del programa.
+
+– Supervisión y evaluación del programa.
+
+2\. Estilos de liderazgo aplicados en la conducción de equipos de trabajo.
+
+3\. Pautas para el desarrollo de un buen liderazgo de equipos de trabajo.
+
+4\. Pautas para el desarrollo de la cohesión de grupo y su medición.
+
+5\. Análisis de la comunicación para generar credibilidad en el conjunto de especialistas en ciencias aplicadas al deporte.
+
+6\. Protocolos para integrar la aportación del/de la profesional de la psicología en la preparación de deportistas de alto nivel.
+
+7\. La necesidad de disponer de equipos técnicos multidisciplinares.
+
+8\. La derivación de aspectos de la preparación de deportistas de alto nivel a profesionales de la psicología. Pautas de actuación.
+
+> Se numera como Anexo II.c y se sustituye por el que figura en el Anexo II del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 6.2.c)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.d — Módulo común de enseñanza deportiva: Formación de formadores deportivos
+
+Código: MED-C303
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Elabora la programación didáctica de los módulos de enseñanzas deportivas, analizando la normativa de ordenación de las mismas, de los centros docentes, del profesorado y de la evaluación, aplicando los procesos de programación y secuenciación.
+
+a) Se ha analizado la organización básica de las enseñanzas deportivas en relación con el sistema educativo.
+
+b) Se ha analizado la normativa que rige el funcionamiento y organización de los diferentes tipos de centros docentes en los que se puede impartir las enseñanzas deportivas de régimen especial.
+
+c) Se han analizado las diferentes formas de colaboración entre las administraciones educativas y las federaciones deportivas, para impartir las enseñanzas deportivas.
+
+d) Se han relacionado las competencias del perfil profesional y los objetivos generales de un ciclo de enseñanzas deportivas con los resultados de aprendizaje de uno de los módulos y sus criterios de evaluación, mediante la valoración de sus características.
+
+e) Se han analizado los conceptos, procedimientos y actitudes que soportan los criterios de evaluación de los resultados de aprendizaje de un módulo específico de enseñanza deportiva.
+
+f) Se ha elaborado la programación didáctica de un módulo específico, en situaciones simuladas que concreten, entre otras, el tipo de enseñanza y el entorno docente.
+
+g) Se ha valorado justificadamente la importancia de programar en la formación de técnicos deportivos.
+
+RA-2. Elabora las sesiones de formación de técnicos deportivos de la programación didáctica conforme a sus elementos, valorando las características del alumnado adulto, y analizando, seleccionando y diseñando recursos didácticos propios de las enseñanzas deportivas.
+
+a) Se han valorado las características individuales y psicosociales del alumnado, en una situación simulada de formación de técnicos deportivos con un grupo diverso que incluya elementos de atención a las personas con discapacidad.
+
+b) Se han analizado las características de los recursos didácticos (actividades, tareas, materiales y medios) y las pautas didácticas que facilitan el proceso de enseñanza-aprendizaje presencial y a distancia, en un supuesto práctico de sesión de formación de técnicos deportivos.
+
+c) Se han seleccionado y diseñado actividades, tareas, materiales y medios didácticos (tradicionales, digitales y multimedia), en una sesión de trabajo donde se establezca el tipo de sesión (teórica, práctica, presencial y a distancia), el módulo específico, la concreción curricular y la estructura de sesión.
+
+d) Se han seleccionado y diseñado recursos didácticos alternativos en una situación simulada de una incidencia técnica, debidamente caracterizada de atención a una necesidad educativa especial o aplicación del principio de igualdad de oportunidades entre mujeres y hombres en la formación de técnicos deportivos.
+
+e) Se ha valorado justificadamente la importancia de seleccionar y diseñar recursos didácticos en la programación didáctica previamente a su utilización en la formación de técnicos deportivos, así como recursos didácticos alternativos frente a posibles incidencias y en atención a la diversidad.
+
+RA-3. Imparte formación de técnicos deportivos conforme a la programación didáctica, aplicando la metodología de enseñanza-aprendizaje y analizando la disposición docente que facilita el aprendizaje y la evaluación.
+
+a) Se han demostrado comportamientos y actitudes docentes que potencien y afiancen el rendimiento y la implicación del alumnado adulto en su formación deportiva, en situaciones simuladas de dirección de sesiones donde se establezcan las características del alumnado.
+
+b) Se han aplicado los estilos de enseñanza y las estrategias pedagógicas de fomento de los estilos de aprendizaje adecuados a la adquisición de competencias profesionales, en un supuesto practico debidamente caracterizado en el que se establezca el tipo de práctica, la modalidad de enseñanza, el módulo específico y las características del alumnado.
+
+c) Se ha dirigido una sesión de formación de enseñanzas deportivas, en un supuesto practico debidamente caracterizado en el que se establezca el tipo de sesión (teórica o práctica), la modalidad de enseñanza y la programación de la sesión.
+
+d) Se han aplicado recursos didácticos alternativos, en un supuesto práctico de una incidencia técnica y en otro de atención a la diversidad en la formación de técnicos deportivos, poniendo en práctica los recursos que resulten más adecuados en cada caso.
+
+e) Se han aplicado las estrategias, instrumentos y formas de evaluación de competencias profesionales en las enseñanzas deportivas, en una situación simulada donde se establezcan las características de los alumnos y los criterios de evaluación de los resultados de aprendizaje de un módulo específico.
+
+f) Se ha resuelto de forma argumentada una reclamación de calificación presentada por un/a alumno/a de enseñanzas deportivas, en una situación simulada en la que se concrete la comunidad autónoma y la normativa a utilizar.
+
+RA-4. Tutoriza técnicos deportivos en su proceso de formación específica (módulos específicos, de formación práctica y proyecto final), analizando y aplicando las estrategias y procedimientos específicos de tutorización.
+
+a) Se han comparado las diferentes estrategias y procedimientos que permiten establecer una línea de trabajo continua y coherente entre los módulos del bloque específico y los del bloque común de las enseñanzas deportivas.
+
+b) Se han analizado las estrategias y procedimientos de actuación en la tutorización de técnicos deportivos y en la dirección de su proyecto final, para su seguimiento y orientación.
+
+c) Se han categorizado y aplicado las diferentes formas de contacto y colaboración con los centros de prácticas para la formalización del convenio de colaboración del módulo de formación práctica.
+
+d) Se han concretado los conceptos, procedimientos y actitudes establecidos en los criterios de evaluación del módulo de formación práctica que deben formar parte del guion de la memoria de prácticas.
+
+e) Se ha valorado la importancia de que el alumnado en prácticas recoja en un diario de campo el registro de lo realizado como elemento de aprendizaje reflexivo.
+
+f) Se han elaborado de forma justificada los apartados clave a incluir en el guion de la presentación oral y escrita de un proyecto final de las enseñanzas deportivas, en un supuesto práctico en el que se establezca la temática del proyecto.
+
+g) Se han ejemplificado estrategias de orientación a aplicar a un/a supuesto/a alumno/a en una situación simulada de seguimiento realizado en un ciclo superior de las enseñanzas deportivas, detectando los momentos en los que habrían sido necesarias.
+
+h) Se ha evaluado una memoria de prácticas o un proyecto final, en una situación simulada donde se establezca dicho documento y los criterios de evaluación de los resultados de aprendizaje de un módulo de formación práctica o de proyecto final.
+
+i) Se ha elaborado de forma justificada el modelo de informe de evaluación, en un supuesto práctico en el que se establece el tipo de módulo a informar.
+
+RA-5. Promueve el desarrollo ético y moral de técnicos y deportistas de alto rendimiento, valorando el impacto que sus comportamientos y actitudes tienen a nivel social, especialmente a través de los medios de comunicación.
+
+a) Se han analizado los valores y antivalores más relevantes relacionados con el alto rendimiento deportivo en la prensa y en las redes sociales.
+
+b) Se han analizado las características que ha de tener el tratamiento de la información deportiva en los medios de comunicación para transmitir valores, especialmente haciendo efectiva la no promoción de la violencia y la valoración del éxito deportivo de otros colectivos normalmente menos valorados como mujeres y personas con discapacidad.
+
+c) Se ha valorado el impacto social de actitudes y comportamientos deportivos y antideportivos de miembros del cuerpo técnico y de deportistas de alto rendimiento, en supuestos prácticos de interacción con los medios de comunicación.
+
+d) Se han analizado los estereotipos de género u otro tipo, conductas de violencia, valores y antivalores, en un supuesto práctico de actuación del equipo de alto rendimiento frente a un conflicto, o en uno personal de resolución de una conducta poco ética y moral del equipo.
+
+e) Se han aplicado estrategias de desarrollo ético y moral personal y del equipo a reflejar en los comportamientos y actitudes ante los medios de comunicación, en un supuesto práctico de dirección de un equipo de alto rendimiento.
+
+f) Se han aplicado estrategias de resolución de conductas poco éticas y morales ante los medios de comunicación, en un supuesto práctico personal o de un deportista de alto rendimiento.
+
+Contenidos básicos
+
+RA-1. Elabora la programación didáctica de los módulos de enseñanzas deportivas, analizando la normativa de ordenación de las mismas, de los centros docentes, del profesorado y de la evaluación, aplicando los procesos de programación y secuenciación.
+
+1\. Enumeración de elementos y secuenciación de la programación didáctica.
+
+2\. Programación didáctica en enseñanza presencial y a distancia: características diferenciales.
+
+3\. Ubicación de las enseñanzas deportivas en el sistema educativo.
+
+– Ordenación, estructura y organización básica.
+
+– Sistema Nacional de Cualificaciones y Formación Profesional: oferta formativa en relación con las enseñanzas deportivas.
+
+4\. Normativa específica básica de las enseñanzas deportivas a tener en cuenta en la programación didáctica.
+
+– Centros de enseñanzas deportivas.
+
+– Características del profesorado de enseñanzas deportivas.
+
+– Perfil profesional de los ciclos de enseñanzas deportivas.
+
+– Objetivos generales de los diferentes ciclos de las enseñanzas deportivas.
+
+– Ciclos, bloques y módulos de las enseñanzas deportivas.
+
+– Elementos curriculares de los módulos de las enseñanzas deportivas.
+
+– Normativa de evaluación en las enseñanzas deportivas.
+
+RA-2. Elabora las sesiones de formación de técnicos deportivos de la programación didáctica conforme a sus elementos, valorando las características del alumnado adulto, y analizando, seleccionando y diseñando recursos didácticos propios de las enseñanzas deportivas.
+
+1\. Valoración de las características psicosociales del alumnado adulto propio de las enseñanzas deportivas.
+
+– Aprendizaje de personas adultas. Teorías cognitivas del aprendizaje.
+
+– Métodos de valoración psicosocial.
+
+– Implicaciones de las características psicosociales en el aprendizaje adulto.
+
+2\. Atención a la diversidad en el alumnado de enseñanzas deportivas, Principio de individualización en la enseñanza-aprendizaje y medidas para su fomento en las mismas.
+
+– Atención a las personas con discapacidad. Principio de normalización.
+
+– Principio de igualdad de oportunidades entre mujeres y hombres.
+
+– Adaptación curricular.
+
+– Situaciones de aprendizaje coeducativas, cooperativas e interactivas.
+
+3\. Elementos de la sesión en la planificación de sesiones en la formación de técnicos deportivos.
+
+– Concreción curricular.
+
+– Estructura.
+
+4\. Recursos didácticos a utilizar en las sesiones de formación técnicos deportivos. Características y criterios de selección y elaboración para enseñanza presencial y a distancia.
+
+– Actividades y tareas.
+
+– Medios didácticos: tradicionales, digitales (nuevas tecnologías –las TIC– aplicadas a la educación) y multimedia.
+
+– Materiales específicos de las disciplinas deportivas.
+
+– Pautas didácticas para la adecuación de los recursos didácticos.
+
+– Alternativas en caso de fallo técnico de los recursos didácticos y frente a otras posibles incidencias en las enseñanzas deportivas.
+
+– Diseño de los recursos didácticos para la individualización del proceso de enseñanza-aprendizaje y en atención a la diversidad en las enseñanzas deportivas.
+
+RA-3. Imparte formación de técnicos deportivos conforme a la programación didáctica, aplicando la metodología de enseñanza-aprendizaje y analizando la disposición docente que facilita el aprendizaje y la evaluación.
+
+1\. Desarrollo de la actitud de disposición del profesorado en la intervención docente en la formación de técnicos deportivos, para potenciar y afianzar el rendimiento y la implicación del alumnado adulto en el aprovechamiento de su formación.
+
+– Componentes cognitivos, afectivos y conductuales de la actitud de disposición docente.
+
+2\. Aspectos metodológicos de la enseñanza-aprendizaje en la formación de técnicos deportivos.
+
+– Estilos y estrategias de aprendizaje en personas adultas.
+
+– Modelos de formación del profesorado en las enseñanzas deportivas.
+
+– Estilos de enseñanza en modalidad presencial y a distancia.
+
+– Dirección de sesiones en la formación de técnicos deportivos.
+
+3\. Evaluación de la formación de técnicos deportivos.
+
+– Estrategias de evaluación.
+
+– Instrumentos de evaluación.
+
+– Formas de evaluación.
+
+– Pautas y proceso para la adecuada atención de reclamaciones de calificaciones.
+
+RA-4. Tutoriza técnicos deportivos en su proceso de formación específica (módulos específicos, de formación práctica y proyecto final), analizando y aplicando las estrategias y procedimientos específicos de tutorización.
+
+1\. Análisis de la relación curricular existente entre los distintos módulos de los bloques común y específico de las enseñanzas deportivas a tener en cuenta en la tutorización.
+
+– Implicaciones en el seguimiento y orientación en la tutorización.
+
+2\. Seguimiento educativo en la tutorización grupal, personal, presencial y a distancia de los módulos del bloque específico en la formación de técnicos deportivos.
+
+– Estrategias para la monitorización y control del proceso educativo.
+
+– Aplicaciones informáticas específicas de gestión y seguimiento.
+
+3\. Orientación educativa en la tutorización grupal, personal, presencial y a distancia de los módulos del bloque específico en la formación de técnicos deportivos.
+
+– Potenciación y afianzamiento del rendimiento y la implicación del alumnado adulto en el aprovechamiento de su formación deportiva.
+
+4\. Aspectos específicos a tener en cuenta en la tutorización del módulo de formación práctica de las enseñanzas deportivas.
+
+– Establecimiento de contactos y convenios con entidades colaboradoras.
+
+– Estrategias y procedimientos de actuación específicos en su seguimiento y orientación.
+
+– Memoria de prácticas.
+
+– Diario de campo.
+
+5\. Aspectos específicos a tener en cuenta en la tutorización del módulo de proyecto final de las enseñanzas deportivas.
+
+– Dirección y tutorización de proyectos: estrategias y procedimientos de actuación específicos en su seguimiento y orientación.
+
+– Proyecto.
+
+– Presentación oral.
+
+6\. Funciones y efectos específicos de la tutorización en el proceso de evaluación de los diferentes módulos de las enseñanzas deportivas.
+
+– Análisis de la progresión en la consecución de los criterios de evaluación de los resultados de aprendizaje de los distintos módulos a lo largo del ciclo de la enseñanza deportiva.
+
+– Elaboración de informes de evaluación.
+
+RA-5. Promueve el desarrollo ético y moral de técnicos y deportistas de alto rendimiento, valorando el impacto que sus comportamientos y actitudes tienen a nivel social, especialmente a través de los medios de comunicación.
+
+1\. Ética y moral en el deporte de alto rendimiento. Valores propios.
+
+– Antivalores más relevantes y comunes. Estereotipos y violencia en el deporte de alto rendimiento.
+
+– Valores y rendimiento deportivo.
+
+2\. Deporte de alto rendimiento, su impacto social y su desarrollo ético y moral en relación con los medios de comunicación.
+
+– Interacción de los diferentes agentes del ámbito del alto rendimiento deportivo con los medios de comunicación: deportistas y cuerpo técnico.
+
+– Análisis del contenido de la información deportiva en los medios de comunicación: transmisión de valores y valoración del éxito en mujeres y personas con discapacidad.
+
+– Repercusión mediática de actitudes y comportamientos deportivos y antideportivos de las/os deportistas y del cuerpo técnico ante los medios de comunicación.
+
+– Estrategias para el análisis y la difusión de valores deportivos a través de los medios.
+
+> Se numera como Anexo II.d y se sustituye por el que figura en el Anexo III del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 6.2.d)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.e — Módulo común de enseñanza deportiva: Organización y gestión aplicada al alto rendimiento
+
+Código: MED-C304
+
+Resultados de aprendizaje y criterios de evaluación
+
+RA-1. Revisa las condiciones de seguridad de los recursos materiales y equipamientos deportivos en instalaciones de alto rendimiento, utilizando la normativa vigente y aplicando criterios de protección contra riesgos, además de medidas de protección avanzadas.
+
+a) Se ha identificado la normativa básica y complementaria relativa a la seguridad aplicable a un supuesto práctico donde se concretan las características de una instalación deportiva de alto rendimiento.
+
+b) Se han aplicado los principales criterios de seguridad que deben cumplir las instalaciones y equipamientos deportivos de instalaciones de alto rendimiento, en un supuesto práctico donde se establece el marco normativo a utilizar y las características específicas de la instalación.
+
+c) Se han analizado las características de un plan de emergencia y evacuación en una instalación deportiva de alto rendimiento.
+
+d) Se han detallado estrategias y medidas de protección avanzadas contra riesgos antisociales y de violencia en el deporte, aplicables a una situación simulada debidamente caracterizada propia del alto rendimiento.
+
+RA-2. Organiza competiciones y eventos propios del nivel de tecnificación deportiva, analizando los requisitos administrativos, medios materiales y humanos necesarios, en relación con el marco legal que las regula y valorando los criterios de igualdad de género y sostenibilidad.
+
+a) Se ha identificado la estructura organizativa y la persona responsable de la competición de tecnificación deportiva, diferenciando sus funciones esenciales a partir de la normativa vigente.
+
+b) Se han categorizado de manera justificada las estrategias o herramientas utilizables en la búsqueda de financiación o apoyo económico de eventos y competiciones deportivas.
+
+c) Se ha elaborado el procedimiento de comunicación y difusión de los resultados, así como la gestión del protocolo de manera eficiente, aplicables en eventos reales o simulados.
+
+d) Se ha valorado el impacto ambiental y social de la celebración de eventos deportivos acorde a criterios de sostenibilidad, mediante la participación en espacios de discusión y análisis colectivo.
+
+RA-3. Acompaña a deportistas o equipos a competiciones de alto nivel y alto rendimiento, identificando el marco legislativo y organizativo de dichas competiciones y analizando las normativas de aplicación a deportistas profesionales, deportistas de alto nivel y alto rendimiento.
+
+a) Se ha analizado la normativa deportiva de ámbito internacional y su relación con la estructura administrativa del deporte, mediante un escenario de estudio realista.
+
+b) Se ha descrito la organización, estructura y funciones de los organismos deportivos internacionales más importantes, mediante el análisis de casos prácticos.
+
+c) Se ha descrito el régimen disciplinario y antidopaje y su relación con los organismos del deporte.
+
+d) Se ha analizado la normativa que afecta a Deportistas de Alto Nivel y Alto Rendimiento en España, a través de la revisión de casos representativos.
+
+e) Se han analizado las características de los programas de ayuda a la preparación de Deportistas de Alto Nivel y Alto Rendimiento de los deportes olímpicos, a través de la revisión de programas de apoyo reales.
+
+RA-4. Identifica las formas jurídicas y estructuras de las organizaciones deportivas, relacionándolas con la normativa vigente y aplicando procedimientos básicos de gestión económica.
+
+a) Se ha distinguido el grado de responsabilidad de las personas propietarias y gestoras de organizaciones deportivas, en función de su forma jurídica, mediante el análisis comparativo de distintas estructuras organizativas.
+
+b) Se han identificado los procedimientos de creación y puesta en marcha de una organización deportiva, en un supuesto práctico de emprendimiento en el que se establece la forma jurídica y la estructura de la organización deportiva.
+
+c) Se han enumerado los trámites de obtención de apoyo económico exigidos por la normativa vigente en los procesos de creación de organizaciones deportivas, adecuándolos a las características de cada organización.
+
+d) Se han seleccionado los procedimientos de gestión económica esenciales en la organización deportiva, a partir de una organización ficticia.
+
+RA-5. Selecciona las oportunidades de empleo, identificando itinerarios formativos profesionales, realizando una autovaloración de características personales y reconociendo organizaciones útiles para el asesoramiento en la búsqueda.
+
+a) Se ha valorado la importancia de la formación permanente como factor clave en la empleabilidad y la adaptación a las exigencias del mercado laboral y de la modalidad deportiva, mediante la participación en espacios de discusión y análisis colectivo.
+
+b) Se han identificado los itinerarios formativos profesionales que completan su perfil profesional y aumentan su empleabilidad, a partir de la búsqueda en bases de datos educativas y ofertas formativas actualizadas.
+
+c) Se han descrito posibilidades de empleo relacionadas con su perfil profesional, a partir de la búsqueda de oportunidades en el mercado.
+
+d) Se han analizado y aplicado herramientas de autoevaluación de las aspiraciones, actitudes y formación vinculadas con la búsqueda de empleo.
+
+e) Se han seleccionado de manera justificada las organizaciones de asesoramiento en la búsqueda de empleo, a partir de la consulta de portales de empleo y orientación profesional.
+
+Contenidos básicos
+
+RA-1. Revisa las condiciones de seguridad de los recursos materiales y equipamientos deportivos en instalaciones de alto rendimiento, utilizando la normativa vigente y aplicando criterios de protección contra riesgos, además de medidas de protección avanzadas.
+
+1\. Instalaciones deportivas: concepto y características funcionales.
+
+2\. Fundamentos normativos sobre seguridad en las instalaciones deportivas.
+
+3\. La información sobre seguridad en las instalaciones deportivas. Interpretación de la señalización de seguridad. Accesibilidad en instalaciones deportivas.
+
+4\. Procedimientos de revisión de los equipamientos deportivos.
+
+5\. Análisis y aplicación de los planes de emergencia y evacuación.
+
+6\. Medidas básicas de protección para las personas usuarias y las personas trabajadoras.
+
+7\. Protección contra actos antisociales y violencia en el deporte.
+
+RA-2. Organiza competiciones y eventos propios del nivel de tecnificación deportiva, analizando los requisitos administrativos, medios materiales y humanos necesarios, en relación con el marco legal que las regula y valorando los criterios de igualdad de género y sostenibilidad.
+
+1\. Competiciones deportivas. Estructura organizativa básica. Funciones y responsabilidades.
+
+2\. Vías de apoyo económicas y materiales.
+
+3\. Apoyo a la esponsorización del deporte femenino, su importancia en la organización de eventos de esta naturaleza.
+
+4\. Organización de actos de protocolo.
+
+5\. Gestión y difusión de los resultados de las competiciones deportivas.
+
+6\. Sostenibilidad en competiciones y eventos deportivos.
+
+– Medidas para minimizar las afecciones en la Biodiversidad y de restauración de zonas afectadas. Preservación de zonas frágiles, patrimonio arqueológico, histórico y cultural.
+
+– Medidas de ahorro y uso eficiente del agua.
+
+– Gestión de residuos y limpieza.
+
+– Minimizar el uso de energía, fomento de energías renovables.
+
+RA-3. Acompaña a deportistas o equipos a competiciones de alto nivel y alto rendimiento, identificando el marco legislativo y organizativo de dichas competiciones y analizando las normativas de aplicación a deportistas profesionales, deportistas de alto nivel y alto rendimiento.
+
+1\. Deporte internacional. Normativa de referencia:
+
+– Carta Olímpica.
+
+– Carta Europea del Deporte: personas con discapacidad.
+
+– Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+– Convención sobre los derechos de las personas con discapacidad: resolución de la Asamblea General de la ONU del 13 de diciembre de 2006 (artículo 30.5).
+
+2\. Organismos Internacionales.
+
+– Estructura y funciones: Comité Paralímpico Internacional, Comité Olímpico Internacional. Tribunal de Arbitraje del Deporte. Agencia Mundial Antidopaje.
+
+– Régimen Disciplinario.
+
+3\. Deporte Profesional. Concepto.
+
+– Ley del deporte.
+
+– Ligas profesionales españolas. Características.
+
+4\. Deporte de Alto Nivel (DAN) y de Alto Rendimiento (DAR).
+
+– Normativa de aplicación DAN y DAR.
+
+– Plan ADO y «Team España». Características.
+
+– Plan ADOP. Características.
+
+– Programas de apoyo a las deportistas DAN y DAR.
+
+RA-4. Identifica las formas jurídicas y estructuras de las organizaciones deportivas, relacionándolas con la normativa vigente y aplicando procedimientos básicos de gestión económica.
+
+1\. Organizaciones y empresas deportivas. Formas jurídicas. Estructura y funciones.
+
+2\. Elección de la forma jurídica.
+
+3\. Requisitos legales de constitución de organizaciones deportivas y empresas.
+
+4\. Vías de financiación de las organizaciones y empresas deportivas. Ayudas y subvenciones. Tramitación de solicitudes de ayudas y subvenciones.
+
+5\. Nociones básicas de contabilidad.
+
+6\. Análisis de la información contable.
+
+RA-5. Selecciona las oportunidades de empleo, identificando itinerarios formativos profesionales, realizando una autovaloración de características personales y reconociendo organizaciones útiles para el asesoramiento en la búsqueda.
+
+1\. Valoración de la importancia de la formación permanente para la trayectoria laboral y profesional del personal técnico deportivo superior.
+
+2\. Identificación de los itinerarios formativos relacionados con el personal técnico deportivo superior.
+
+3\. El proceso de búsqueda de empleo.
+
+4\. Técnicas e instrumentos de búsqueda de empleo.
+
+5\. El proceso de toma de decisiones.
+
+6\. Análisis de los intereses, aptitudes y motivaciones personales para la carrera profesional.
+
+7\. Análisis del mercado de entidades públicas y privadas orientadas al asesoramiento en la búsqueda de empleo.
+
+> Se numera como Anexo II.e y se sustituye por el que figura en el Anexo IV del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333), según establece su art. 6.2.e)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.f — Módulo específico de enseñanza deportiva: Técnica y entrenamiento en velocidad, relevos y vallas
+
+Código: MED-ATAT301
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora la técnica y la táctica de los velocistas, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus posibles causas en las distintas fases de la carrera, y justificando las estrategias y las tareas de corrección.
+
+a) Se ha analizado la evolución histórica de las carreras de velocidad y relevos.
+
+b) Se ha justificado la técnica de salida y las diferencias en las especialidades de velocidad y relevos.
+
+c) Se han analizado las características fisiológicas y antropométricas de los corredores de velocidad.
+
+d) Se han analizado los objetivos y las características de las fases de la técnica de carrera, a través de modelos teóricos y sus fundamentos biomecánicos.
+
+e) Se han analizado las características de la técnica de carrera durante la fase de aceleración en las distintas carreras de velocidad.
+
+f) Se han analizado las características de la técnica de carrera durante las fases «lanzada» y «de mantenimiento» de las distintas carreras de velocidad.
+
+g) Se han analizado la relación entre las distancias y los distintos metabolismos energéticos, y su influencia en la táctica de las pruebas de velocidad de 100 m, 200 m y 400 m.
+
+h) Se han identificado las causas de los errores técnicos más frecuentes, justificando las estrategias y tareas de corrección en las fases de las carreras de velocidad.
+
+i) Se han analizado los criterios de valoración de la técnica y la táctica de las carreras de relevos de 4 × 100 m y 4 × 400 m.
+
+j) Se han identificado los errores en la transmisión del testigo en las carreras de relevos de 4 x 100 m y 4 x 400 m, relacionándolos con sus posibles causas, y las estrategias y tareas de corrección.
+
+k) Se ha valorado la importancia de los factores técnicos en el análisis de las carreras de velocidad.
+
+2\. Valora la técnica y la táctica de los vallistas, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases de la carrera y el franqueo de las vallas, y justificando las estrategias y las tareas de corrección.
+
+a) Se ha analizado la evolución histórica de las carreras de vallas.
+
+b) Se ha analizado la técnica global de las carreras de vallas, con arreglo a los modelos teóricos y sus fundamentos biomecánicos.
+
+c) Se han analizado las características fisiológicas y antropométricas de los vallistas.
+
+d) Se han analizado las distintas fases y sus objetivos de las carreras de vallas.
+
+e) Se han justificado la técnica de salida y aproximación a la primera valla en las diferentes pruebas de las carreras con vallas.
+
+f) Se han analizado las distintas fases del paso de la valla, identificando las causas de los errores técnicos más frecuentes, justificando las estrategias y tareas para su posible corrección.
+
+g) Se ha analizado la técnica de carrera en las fases entre vallas y de la última valla a la meta, de las especialidades con vallas.
+
+h) Se ha analizado la función del ritmo en las distintas especialidades de las carreras de vallas.
+
+i) Se ha analizado la distribución del esfuerzo en el 400 mv.
+
+j) Se ha analizado la relación entre las distancias, y los distintos metabolismos energéticos, y su influencia en la táctica de las pruebas de vallas de 110 mv/100 mv y 400 mv.
+
+k. Se ha valorado la importancia del análisis de los factores técnicos de las distintas pruebas de vallas.
+
+3\. Elige los medios y métodos de entrenamiento específicos del corredor de velocidad y vallas, así como la combinación del trabajo técnico, táctico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+a) Se han analizado los medios y métodos de entrenamiento de la salida y la fase de aceleración de las carreras de velocidad.
+
+b) Se han analizado los medios y métodos de entrenamiento de las fases de velocidad lanzada y mantenimiento de la velocidad.
+
+c) Se ha analizado y desarrollado el entrenamiento técnico y táctico para los cambios del testigo en las distintas postas de las carreras de los relevos de 4 × 100 m y 4 × 400 m.
+
+d) Se han analizado los medios y métodos de entrenamiento de la aproximación a la primera valla y el franqueo de las vallas en las distintas especialidades.
+
+e) Se han analizado los medios y métodos del entrenamiento rítmico en las distintas especialidades de vallas.
+
+f) Se han analizado los medios y métodos de entrenamiento de la capacidad/potencia, aeróbica y anaeróbica aláctica/láctica en el entrenamiento de la resistencia en las carreras de velocidad y vallas.
+
+g) Se han analizado los medios y métodos de entrenamiento de la fuerza especial que interviene en las carreras de velocidad y vallas.
+
+h) Se han analizado los medios y métodos de entrenamiento de la capacidad de salto en las carreras de velocidad y vallas.
+
+i) Se han justificado los medios de desarrollo de la movilidad especial utilizados en el entrenamiento de las carreras de velocidad y vallas.
+
+j) Se han justificado los criterios de combinación del trabajo técnico, táctico y condicional mediante ejercicios especiales en las distintas etapas.
+
+k) Se ha valorado la importancia de la combinación del trabajo técnico, táctico y condicional en las distintas etapas.
+
+4\. Programa a medio y largo plazo el entrenamiento y la competición del corredor de velocidad y vallas de alto nivel, justificando la adaptación de los modelos generales de programación y aplicando medios y métodos específicos de control.
+
+a) Se ha justificado la adaptación de los modelos generales de programación a las distintas especialidades de la velocidad y las vallas.
+
+b) Se ha analizado la dinámica de la carga en la estructura del microciclo semanal en las diferentes etapas.
+
+c) Se ha analizado la organización de las estructuras de los ciclos de entrenamiento y su variación en el corredor de velocidad y vallas, en función del calendario de competiciones.
+
+d) Se han justificado los criterios de evolución y modificación de los medios y métodos de entrenamiento de los factores de rendimiento, en los diferentes tipos de ciclos o periodos de preparación a medio y largo plazo.
+
+e) Se han relacionado la evolución de las capacidades condicionales con la evolución de la organización del proceso de entrenamiento.
+
+f) Se han categorizado los factores que influyen en la fatiga física del atleta de velocidad y vallas.
+
+g) Se han analizado los criterios de combinación de los medios y métodos de entrenamiento de los factores de rendimiento en velocidad, relevos y vallas en función del tipo de ciclo o periodo de preparación a medio y largo plazo.
+
+h) Se ha justificado la situación de los controles de las capacidades condicionales, en la programación del entrenamiento del velocista y el vallista.
+
+i) Se ha programado un ciclo de entrenamiento de un corredor de velocidad y vallas, a partir de un modelo general de programación, en el que se concretan:
+
+– La estructura, duración y objetivos de los diferente ciclos.
+
+– La evolución de los medios y métodos de entrenamiento de la condición física, técnica y táctica.
+
+– La situación de los controles de la forma y las capacidades condiciónales.
+
+– Los medios y métodos de control utilizados.
+
+j) Se ha valorado la importancia del control y seguimiento en la programación del entrenamiento del velocista y el vallista.
+
+Contenidos básicos
+
+1\. Valora la técnica y la táctica de los velocistas, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus posibles causas en las distintas fases de la carrera, y justificando las estrategias y las tareas de corrección.
+
+– Evolución histórica de las carreras de velocidad y relevos.
+
+– La técnica de la salida con arreglo al modelo teórico y sus fundamentos biomecánicos. Particularidades en 100 m, 200 m y 400 m.
+
+– Características fisiológicas y antropométricas de los corredores de velocidad.
+
+– Relación entre las distancias y los distintos metabolismos energéticos. Capacidad/potencia anaeróbica láctica/aláctica, y su relación con de la táctica en las pruebas de 100 m, 200 m, y 400 m.
+
+– Las fases de la técnica de carrera y sus objetivos en las carreras de velocidad y relevos a través de modelos teóricos y sus fundamentos biomecánicos.
+
+– Las características y la técnica en cada una de las fases de carrera:
+
+– La fase de aceleración.
+
+– La fase de velocidad lanzada.
+
+– La fase de mantenimiento de la velocidad.
+
+– Características de los apoyos en las distintas fases en las pruebas de la velocidad:
+
+– Particularidades en 100 m, 200 m y 400 m.
+
+– Errores, causas, estrategias y tareas de corrección.
+
+– Relevos:
+
+– La técnica y las características de cada posta de la carrera de relevos de 4 × 100 m. Características específicas del 1.<sup>er</sup> cambio, del 2.º cambio, del 3.<sup>er</sup> cambio.
+
+– Principales errores en la transmisión, causas, estrategias y tareas de corrección:
+
+– La técnica y las características de la carrera de relevos de 4 × 400 m:
+
+– Principales errores en la transmisión, causas, estrategias y tareas de corrección.
+
+– La táctica en las carreras de relevos de 4 × 100 m y 4 × 400 m.
+
+2\. Valora la técnica y la táctica de los vallistas, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases de la carrera y el franqueo de las vallas, y justificando las estrategias y las tareas de corrección.
+
+– Evolución histórica de las carreras de vallas.
+
+– La técnica global de las carreras de vallas, con arreglo a los modelos teóricos y sus fundamentos biomecánicos.
+
+– Características fisiológicas y antropométricas de los vallistas en las distintas especialidades de vallas.
+
+– Definición y estudio de las distintas fases en las pruebas de vallas, así como de los objetivos en 110 mv/100 mv y 400 mv, a través de los modelos teóricos y sus fundamentos biomecánicos:
+
+– La técnica de salida y aproximación a la primera valla.
+
+– La técnica del franqueo de la valla:
+
+– Batida.
+
+– Franqueo de la valla.
+
+– Apoyo de continuación.
+
+– Estudio de la carrera entre vallas.
+
+– De la última valla a la meta.
+
+– Particularidades del 110 mv, el 100 mv y el 400 mv:
+
+– El ritmo en las pruebas de 110 mv/100 mv.
+
+– El ritmo en las pruebas de 400 mv.
+
+– La distribución del esfuerzo en el 400 mv.
+
+– Errores, causas, estrategias y tareas de corrección.
+
+– Relación entre las distancias y los distintos metabolismos energéticos:
+
+– Capacidad/ potencia anaeróbica láctica/aláctica, así como de la táctica en las pruebas de 110/100 mv y 400 mv.
+
+3\. Elige los medios y métodos de entrenamiento específicos del corredor de velocidad y vallas, así como la combinación del trabajo técnico, táctico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+– El entrenamiento de las carreras de velocidad y vallas.
+
+– El entrenamiento técnico de la salida de velocidad y la fase de aceleración.
+
+– El entrenamiento técnico de la fase de velocidad lanzada.
+
+– El entrenamiento técnico de la fase de mantenimiento de la velocidad.
+
+– El entrenamiento técnico y táctico de las carreras de relevos 4 × 100 m y 4 × 400 m.
+
+– El entrenamiento técnico de la aproximación a la primera valla y el franqueo de la valla en 110 mv/100 mv y 400 mv.
+
+– El entrenamiento rítmico de las carreras de 110 mv/100 mv y 400 mv.
+
+– Los factores condicionales de la velocidad y las vallas:
+
+– Dentro de la resistencia, conceptos de capacidad/ potencia, aeróbica, y anaeróbica láctica/aláctica. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la fuerza especial que interviene en las carreras de velocidad y vallas. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la capacidad de salto. Medios y Métodos. Multisaltos horizontales. Multisaltos verticales.
+
+– El entrenamiento de la movilidad especial en las carreras de velocidad y vallas. Medios para su desarrollo.
+
+– Combinación del trabajo técnico y condicional con ejercicios especiales en las distintas etapas.
+
+4\. Programa a medio y largo plazo el entrenamiento y la competición del corredor de velocidad y vallas de alto nivel, justificando la adaptación de los modelos generales de programación y aplicando medios y métodos específicos de control.
+
+– Modelos generales de entrenamiento de las distintas especialidades de la velocidad y las vallas. Utilización y adaptación de los modelos.
+
+– La organización de la programación del entrenamiento y la participación en competición del corredor de velocidad y de vallas:
+
+– Estructura del microciclo semanal.
+
+– Estructura, duración y objetivos de los ciclos a medio y largo plazo.
+
+– Criterios para la organización y control de los ciclos del entrenamiento.
+
+– Medidas a tomar en la planificación según los resultados.
+
+– Los controles de las capacidades condicionales del atleta en relación con los ciclos de entrenamiento:
+
+– Factores que influyen en la fatiga y la recuperación física del velocista y del vallista.
+
+– Medios y métodos de control utilizados.
+
+– El análisis de la planificación de los medios y métodos de entrenamiento de los factores de rendimiento a desarrollar en velocidad y vallas:
+
+– Factores técnicos de la velocidad y las vallas
+
+– Capacidad/ potencia anaeróbica aláctica/láctica.
+
+– Capacidad/ potencia aeróbica.
+
+– Fuerza y especial
+
+– Capacidad general y especial de salto.
+
+– Movilidad especial.
+
+– Criterios de combinación de los medios y métodos de entrenamiento en los distintos ciclos de preparación a medio y largo plazo.
+
+> Se numera como Anexo II.f por el art. 6.2.f) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.g — Módulo específico de enseñanza deportiva: Técnica y entrenamiento en medio fondo, fondo y obstáculos
+
+Código: MED-ATAT302
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora la técnica y la táctica de los corredores de medio fondo, fondo y obstáculos, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases de la carrera y los obstáculos, justificando las estrategias y las tareas de corrección.
+
+a) Se ha analizado la evolución histórica de las carreras de medio fondo, fondo y obstáculos.
+
+b) Se han analizado los objetivos y las características de las fases de la técnica de la zancada, a través de modelos teóricos y sus fundamentos biomecánicos.
+
+c) Se han analizado los objetivos y las características de la técnica de paso de los obstáculos y la ría, a través de modelos teóricos y sus fundamentos biomecánicos.
+
+d) Se han analizado las características fisiológicas y antropométricas de los corredores de medio fondo, fondo y obstáculos.
+
+e) Se han identificado las causas de los errores técnicos más frecuentes, justificando las estrategias y las tareas de corrección en las fases de la zancada, el paso de los obstáculos y la ría en las carreras de medio fondo, fondo y obstáculos.
+
+f) Se ha analizado la relación entre las distancias y los distintos metabolismos energéticos, y su influencia en la táctica de las pruebas de medio fondo, fondo y obstáculos.
+
+g) Se ha analizado la relación entre las distancias y los distintos metabolismos energéticos, y su influencia en la táctica de las pruebas de 100 kilómetros, ultra fondo y carreras de montaña.
+
+h) Se ha valorado la importancia de las particularidades técnicas y tácticas en el análisis de las pruebas de medio fondo, fondo, obstáculos, 100 km, ultra fondo y carreras de montaña.
+
+2\. Valora la técnica y la táctica de los marchadores, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases de la marcha, y justificando las estrategias y las tareas de corrección.
+
+a) Se ha analizado la evolución histórica de las carreras de marcha atlética.
+
+b) Se ha analizado la técnica global de las carreras de marcha con arreglo a los modelos teóricos y sus fundamentos biomecánicos.
+
+c) Se han analizado los objetivos y las características de las fases del paso en la técnica de la marcha.
+
+d) Se han analizado las características fisiológicas y antropométricas de los marchadores.
+
+e) Se ha analizado la relación entre las distancias y los distintos metabolismos energéticos, y su influencia en la táctica de las carreras de marcha.
+
+f) Se han identificado las causas de los errores técnicos más frecuentes, justificando las estrategias y tareas de corrección en las fases del paso de las carreras de marcha.
+
+g) Se ha valorado la importancia de las particularidades técnicas y tácticas en el análisis de las carreras de marcha.
+
+3\. Elige los medios y métodos de entrenamiento específicos del corredor de medio fondo, fondo y obstáculos y del marchador, así como la combinación del trabajo técnico, táctico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+a) Se han analizado los medios y métodos de entrenamiento de las distintas fases de la técnica de la zancada en el medio fondo, fondo y obstáculos.
+
+b) Se han analizado los medios y métodos de entrenamiento de la técnica del paso de los obstáculos y la ría en los 3.000 m obstáculos.
+
+c) Se han analizado los medios y métodos del entrenamiento de las distintas fases de la técnica del paso en la marcha.
+
+d) Se ha analizado la aplicación de los conceptos teóricos de capacidad/ potencia aeróbica y anaeróbica láctica en el entrenamiento de la resistencia en las carreras de medio fondo, fondo, obstáculos y marcha.
+
+e) Se han analizado los medios y métodos de entrenamiento de la fuerza especial que interviene en las carreras de medio fondo, fondo, obstáculos y marcha.
+
+f) Se ha analizado los medios de entrenamiento de la movilidad especial, utilizados en las carreras de medio fondo, fondo, obstáculos y marcha.
+
+g) Se han analizado los medios y métodos de entrenamiento de la frecuencia (rapidez) en la marcha.
+
+h) Se han objetivado y justificado los criterios para la combinación del trabajo técnico, táctico y condicional en las distintas etapas.
+
+i) Se ha valorada la importancia de la combinación del trabajo técnico, táctico y condicional en las distintas etapas.
+
+j) Se han analizado los factores que influyen en el entrenamiento en condiciones especiales de cambios de altitud, temperatura y humedad y las recomendaciones a aplicar.
+
+k) Se han analizado los medios y métodos de entrenamiento de las especialidades de 100 km, ultra fondo y carreras de montaña.
+
+4\. Programa a medio y largo plazo el entrenamiento en función del calendario de las competiciones del corredor de medio fondo, fondo y obstáculos, del marchador, 100 km, ultra fondo y de montaña, justificando la adaptación de modelos de programación por objetivos operativos, aplicando medios y métodos específicos de control.
+
+a) Se ha justificado la adaptación de los modelos generales de programación a las distintas especialidades del medio fondo, fondo, obstáculos, 100 km, ultra fondo y carreras de montaña.
+
+b) Se ha analizado la organización de las estructuras de los ciclos de entrenamiento y su variación en los corredores de medio fondo, fondo, obstáculos, marcha, 100 km, ultra fondo y de montaña en función del calendario de competiciones.
+
+c) Se han justificado los criterios de evolución y modificación de los medios y métodos de entrenamiento de los factores de rendimiento en los diferentes tipos de ciclos o periodos de preparación a medio y largo plazo.
+
+d) Se han relacionado la evolución de las capacidades condicionales con la evolución de la organización del proceso de entrenamiento.
+
+e) Se han categorizado los factores que influyen en la fatiga física del atleta de medio fondo, fondo, obstáculos, marcha, 100 km, ultra fondo y de montaña.
+
+f) Se ha analizado la dinámica de la carga en la estructura del microciclo semanal en las diferentes etapas.
+
+g) Se han analizado los criterios de combinación de los medios y métodos de entrenamiento de los factores de rendimiento en medio fondo, fondo, obstáculos, marcha, 100 km, ultra fondo y carreras de montaña en función del tipo de ciclo o periodo de preparación a medio y largo plazo.
+
+h) Se ha justificado la situación de los controles de las capacidades condicionales en la programación del entrenamiento del medio fondista, fondista, corredor de obstáculos, marchador y corredor de largas distancias.
+
+i) Se ha programado un ciclo de entrenamiento de un medio fondista, fondista, corredor de obstáculos, marcha y corredor de largas distancias, a partir de un modelo general de programación, en el que se concretan:
+
+– La estructura, duración y objetivos de los diferente ciclos.
+
+– La evolución de los medios y métodos de entrenamiento de la condición física, técnica y táctica.
+
+– La situación de los controles de la forma y las capacidades condiciónales.
+
+– Los medios y métodos de control utilizados.
+
+j) Se ha valorado la importancia del control y seguimiento en la programación del entrenamiento del medio fondista, fondista, corredor de obstáculos, marchador y corredor de largas distancias.
+
+Contenidos básicos
+
+1\. Valora la técnica y la táctica de los corredores de medio fondo, fondo y obstáculos, justificando sus de modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases de la carrera y los obstáculos, justificando las estrategias y las tareas de corrección.
+
+– Evolución histórica de las carreras de medio fondo, fondo y obstáculos.
+
+– Particularidades de las carreras de 800 m y 1.500 m.
+
+– Particularidades de las carreras de 5.000 m, 10.000 m, maratón y 3.000 m obstáculos.
+
+– La técnica de carrera en medio fondo, fondo y obstáculos con arreglo a los modelos teóricos y sus fundamentos biomecánicos:
+
+– Las fases y sus objetivos de la técnica de la zancada en las carreras de medio fondo, fondo y obstáculos. Estudio de las características.
+
+– Errores, causas y estrategias y tareas de corrección.
+
+– La técnica global de paso de los obstáculos y de la ría en la carrera de 3.000 m obstáculos, con arreglo a modelos teóricos y sus fundamentos biomecánicos.
+
+– Definición de las fases y sus objetivos de la técnica del paso de los obstáculos y la ría. Estudio de las características. Errores, causas y estrategias y tareas de corrección.
+
+– Características fisiológicas y antropométricas de los corredores de medio fondo, fondo y obstáculos.
+
+– Relación entre las distancias, la capacidad/ potencia aeróbica, anaeróbica láctica y la táctica en las pruebas de medio fondo, fondo y obstáculos.
+
+– Particularidades de las pruebas de 100 km, ultra fondo y carreras de montaña.
+
+2\. Valora la técnica y la táctica de los marchadores, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases de la marcha, y justificando las estrategias y las tareas de corrección.
+
+– Evolución histórica de las carreras de marcha.
+
+– Particularidades de las carreras de 20 y 50 km marcha.
+
+– Estudio global de la técnica de la marcha atlética con arreglo a los modelos teóricos y sus fundamentos biomecánicos.
+
+– Definición de las fases, los objetivos y las características de la técnica del paso en las carreras de marcha:
+
+– Apoyo simple.
+
+– Ataque y pierna oscilante.
+
+– Doble apoyo.
+
+– Tracción.
+
+– Impulsión.
+
+– Principales errores, causas y estrategias y tareas de corrección.
+
+– Características fisiológicas y antropométricas de los marchadores.
+
+– Relación entre metabolismo energético, la distancia y la táctica empleada.
+
+3\. Elige los medios y métodos de entrenamiento específicos del corredor de medio fondo, fondo y obstáculos y del marchador, así como la combinación del trabajo técnico, táctico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+– El entrenamiento de las carreras de medio fondo, fondo, obstáculos y de la marcha.
+
+– El entrenamiento de la técnica de la zancada en el medio fondo, fondo y obstáculos.
+
+– El entrenamiento del paso de los obstáculos y la ría en la carrera de 3.000 metros obstáculos.
+
+– El entrenamiento de la técnica del paso en la marcha.
+
+– Resistencia: conceptos teóricos de capacidad/ potencia aeróbica y anaeróbica láctica. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la fuerza especial que interviene en las carreras de medio fondo, fondo, obstáculos y marcha. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la movilidad especial en las carreras de medio fondo, fondo, obstáculos y marcha. Medios para su desarrollo.
+
+– El entrenamiento de la frecuencia (rapidez) en las carreras de marcha. Medios y métodos para su desarrollo.
+
+– Los factores que influyen en la resistencia de los corredores de medio fondo, fondo, obstáculos y marcha que entrenan en condiciones especiales de cambios de altitud, temperatura y humedad.
+
+– Criterios para la combinación del trabajo técnico, táctico y condicional dentro del entrenamiento del medio fondo, fondo, obstáculos y marcha en las distintas etapas.
+
+– Particularidades del entrenamiento de las carreras de 100 km, ultra fondo y de montaña.
+
+4\. Programa a medio y largo plazo el entrenamiento en función del calendario de las competiciones del corredor de medio fondo, fondo y obstáculos, del marchador, 100 km, ultra fondo y de montaña, justificando la adaptación de modelos de programación por objetivos operativos, aplicando medios y métodos específicos de control.
+
+– Modelos generales de entrenamiento de las distintas especialidades del medio fondo, fondo, obstáculos, marcha, 100 km, ultra fondo y carreras de montaña.
+
+– Utilización y adaptación de los modelos.
+
+– La organización de la programación del entrenamiento y la participación en competición del corredor de medio fondo, fondo, obstáculos, marcha, 100 km, ultra fondo y de montaña:
+
+– Estructura del microciclo semanal
+
+– Estructura, duración y objetivos de los ciclos a medio y largo plazo.
+
+– Criterios para la organización y control de los ciclos del entrenamiento.
+
+– Medidas a tomar en la planificación según los resultados.
+
+– Los controles de las capacidades condicionales del atleta en relación con los ciclos de entrenamiento:
+
+– Factores que influyen en la fatiga y la recuperación física del medio fondista, fondista, corredor de obstáculos, marchador y corredor de larga distancia.
+
+– Medios y métodos de control utilizados.
+
+– El análisis de la evolución de los medios y métodos de entrenamiento de los factores de rendimiento a desarrollar:
+
+– Factores técnicos del medio fondo, fondo, obstáculos, la marcha, el 100 km, el ultra fondo y las carreras de montaña.
+
+– Capacidad y potencia aeróbica.
+
+– Capacidad y potencia anaeróbica.
+
+– Fuerza especial.
+
+– Frecuencia (Rapidez).
+
+– Movilidad especial.
+
+– Criterios de combinación de los medios y métodos de entrenamiento en los distintos ciclos de preparación a medio y largo plazo en las distintas especialidades.
+
+> Se numera como Anexo II.g por el art. 6.2.g) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.h — Módulo específico de enseñanza deportiva: Técnica y entrenamiento en lanzamientos y pruebas combinadas
+
+Código: MED-ATAT303
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora la técnica de los lanzadores de peso, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases del lanzamiento, justificando las estrategias y las tareas de corrección.
+
+a) Se ha analizado la evolución histórica del concurso del lanzamiento de peso.
+
+b) Se han justificado los principales conceptos técnicos del lanzamiento de peso, con arreglo al modelo teórico y sus fundamentos biomecánicos.
+
+c) Se ha analizado las técnicas de lanzamiento de peso en desplazamiento, en giro y otras técnicas empleadas actualmente.
+
+d) Se han relacionado las características fisiológicas y antropométricas de los lanzadores de peso y los resultados obtenidos.
+
+e) Se han definido las fases de la técnica y sus objetivos, en el lanzamiento de peso con técnicas en desplazamiento y giratoria.
+
+f) Se han analizado las características y la técnica del agarre y la colocación inicial en el lanzamiento de peso con técnica lineal.
+
+g) Se han analizado las características y la técnica del desplazamiento en el lanzamiento de peso con técnica lineal.
+
+h) Se han analizado las características y la técnica de la llegada a la posición de fuerza, el gesto final y la recuperación en el lanzamiento de peso con técnica lineal.
+
+i) Se han analizado las características y la técnica del agarre y la colocación inicial en el lanzamiento de peso con técnica giratoria.
+
+j) Se han analizado las características y la técnica de la salida y el desplazamiento en el lanzamiento de peso con técnica giratoria.
+
+k) Se han analizado las características y la técnica de la llegada a la posición de fuerza, el gesto final y la recuperación en el lanzamiento de peso con técnica giratoria
+
+l) Se han identificado las causas de los errores técnicos más frecuentes, justificando las estrategias y tareas de corrección en las diferentes fases del lanzamiento de peso.
+
+m) Se ha valorado la importancia de los factores antropométricos y técnicos en el análisis del lanzamiento de peso.
+
+2\. Valora la técnica del lanzador de disco, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases del lanzamiento, justificando las estrategias y las tareas de corrección.
+
+a) Se ha analizado la evolución histórica del concurso del lanzamiento de disco.
+
+b) Se han analizado los principales conceptos técnicos del lanzamiento de disco, con arreglo al modelo teórico y sus fundamentos biomecánicos.
+
+c) Se han relacionado las características fisiológicas y antropométricas de los lanzadores de disco con los resultados obtenidos.
+
+d) Se han definido las fases de la técnica del lanzamiento de disco y sus objetivos.
+
+e) Se han analizado las características de la técnica del agarre, de la colocación inicial y de los balanceos previos en el lanzamiento de disco.
+
+f) Se han analizado las características de la técnica de la salida y del desplazamiento en el lanzamiento de disco.
+
+g) Se han analizado las características de la técnica de la llegada a la posición de fuerza, el gesto final y la recuperación en el lanzamiento de disco.
+
+h) Se han identificado las causas de los errores técnicos más frecuentes, justificando las estrategias y tareas de corrección en las diferentes fases del lanzamiento de disco.
+
+i) Se ha valorado la importancia de los factores antropométricos y técnicos en el análisis del lanzamiento de disco.
+
+3\. Valora la técnica de los lanzadores de jabalina, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando la aparición de errores y sus causas en las distintas fases del lanzamiento, justificando las estrategias y las tareas de corrección.
+
+a) Se ha analizado la evolución histórica del concurso del lanzamiento de jabalina.
+
+b) Se han analizado los principales conceptos técnicos del lanzamiento de jabalina, con arreglo al modelo teórico y sus fundamentos biomecánicos.
+
+c) Se han relacionado las características fisiológicas y antropométricas de los lanzadores de jabalina con los resultados obtenidos.
+
+d) Se han definido las fases de la técnica del lanzamiento de jabalina y sus objetivos.
+
+e) Se han analizado las características de la técnica del agarre, de la carrera y de la colocación del brazo en el lanzamiento de la jabalina.
+
+f) Se ha analizado las características de la técnica del paso cruzado.
+
+g) Se ha analizado las características de la técnica del gesto final y la recuperación en el lanzamiento de jabalina.
+
+h) Se han identificado las causas de los errores técnicos más frecuentes, justificando las estrategias y tareas de corrección en las diferentes fases del lanzamiento de jabalina.
+
+i) Se ha valorado la importancia de los factores antropométricos y técnicos en el análisis del lanzamiento de disco.
+
+4\. Valora la técnica de los lanzadores de martillo, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases del lanzamiento, justificando las estrategias y las tareas de corrección.
+
+a) Se ha analizado la evolución histórica del concurso del lanzamiento de jabalina.
+
+b) Se han analizado los principales conceptos técnicos del lanzamiento de martillo, con arreglo al modelo teórico y sus fundamentos biomecánicos.
+
+c) Se han relacionado las características fisiológicas y antropométricas de los lanzadores de martillo con los resultados obtenidos.
+
+d) Se han definido las fases de la técnica del lanzamiento de martillo y sus objetivos.
+
+e) Se han analizado las características de la técnica del agarre, de la colocación inicial y de la puesta en movimiento en el lanzamiento de martillo.
+
+f) Se han analizado las características de la técnica de los volteos y de la unión volteo-giro en el lanzamiento de martillo.
+
+g) Se han analizado las características de la técnica de los giros y de la unión giro-gesto final en el lanzamiento de martillo.
+
+h) Se han analizado las características de la técnica del gesto final y de la recuperación en el lanzamiento de martillo.
+
+i) Se han identificado las causas de los errores técnicos más frecuentes, justificando las estrategias y tareas de corrección en las diferentes fases del lanzamiento de martillo.
+
+j) Se ha valorado la importancia de los factores antropométricos y técnicos en el análisis del lanzamiento de martillo.
+
+5\. Elige los medios y métodos de entrenamiento específicos en el lanzamiento de peso, así como la combinación del trabajo técnico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+a) Se han analizado los medios y los métodos de desarrollo específico de la técnica en el lanzamiento de peso con la técnica lineal.
+
+b) Se han analizado los medios y los métodos de desarrollo específico de la técnica en el lanzamiento de peso con la técnica giratoria.
+
+c) Se han analizado los medios y métodos de entrenamiento de la fuerza especial en el lanzamiento de peso.
+
+d) Se han analizado los medios y métodos de entrenamiento de la capacidad de lanzamiento general y especial en el lanzamiento de peso. Multilanzamientos.
+
+e) Se han analizado los medios y métodos de entrenamiento de la capacidad general y especial de salto en el lanzamiento de peso. Multisaltos.
+
+f) Se ha analizado y desarrollado el entrenamiento de la movilidad especial en el lanzamiento de peso.
+
+g) Se han objetivado y justificado los criterios de combinación del trabajo técnico y condicional mediante ejercicios especiales en las distintas etapas.
+
+h) Se ha valorada la importancia de la combinación del trabajo técnico y condicional en las distintas etapas.
+
+6\. Elige los medios y métodos de entrenamiento específicos en el lanzamiento de disco, así como la combinación del trabajo técnico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+a) Se han analizado los medios y los métodos de desarrollo específico de la técnica en el lanzamiento de disco.
+
+b) Se han analizado los medios y métodos de entrenamiento de la fuerza especial que interviene en el lanzamiento de disco.
+
+c) Se han analizado los medios y métodos de entrenamiento de la capacidad de lanzamiento general y especial en el lanzamiento de disco.
+
+d) Se han analizado los medios y métodos de entrenamiento de la capacidad de salto general y especial en el lanzamiento de disco.
+
+e) Se han analizado y desarrollado los medios y métodos de entrenamiento de la movilidad especial en el lanzamiento de disco.
+
+f) Se han objetivado y justificado los criterios de combinación del trabajo técnico y condicional mediante ejercicios especiales en las distintas etapas.
+
+g) Se ha valorado la importancia de la combinación del trabajo técnico y condicional en las distintas etapas.
+
+7\. Elige los medios y métodos de entrenamiento específicos en el lanzamiento de jabalina, así como la combinación del trabajo técnico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+a) Se han analizado los medios y los métodos de desarrollo específico de la técnica en el lanzamiento de jabalina.
+
+b) Se han analizado los medios y métodos de entrenamiento de la fuerza especial que interviene en el lanzamiento de jabalina.
+
+c) Se han analizado los medios y métodos de entrenamiento de la capacidad de lanzamiento general y especial en el lanzamiento de jabalina.
+
+d) Se han analizado los medios y métodos de entrenamiento de la capacidad de salto general y especial en el lanzamiento de jabalina.
+
+e) Se ha analizado y desarrollado el entrenamiento de la movilidad especial en el lanzamiento de jabalina.
+
+f) Se han objetivado y justificado los criterios de combinación del trabajo técnico y condicional mediante ejercicios especiales en las distintas etapas.
+
+g) Se ha valorada la importancia de la combinación del trabajo técnico y condicional en las distintas etapas.
+
+8\. Elige los medios y métodos de entrenamiento específicos en el lanzamiento de martillo, así como la combinación del trabajo técnico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+a) Se han analizado los medios y los métodos de desarrollo específico de la técnica en el lanzamiento de martillo.
+
+b) Se han analizado los medios y métodos de entrenamiento de la fuerza especial que interviene en el lanzamiento de martillo.
+
+c) Se han analizado los medios y métodos de entrenamiento de la capacidad general y especial de lanzamiento en el lanzamiento de martillo.
+
+d) Se han analizado los medios y métodos de entrenamiento de la capacidad de salto general y especial en el lanzamiento de martillo.
+
+e) Se ha analizado y desarrollado el entrenamiento de la movilidad especial en el lanzamiento de martillo.
+
+f) Se han objetivado y justificado los criterios de combinación del trabajo técnico y condicional mediante ejercicios especiales en las distintas etapas.
+
+g) Se ha valorada la importancia de la combinación del trabajo técnico, táctico y condicional en las distintas etapas.
+
+9\. Elige los medios y métodos de entrenamiento específicos en las pruebas combinadas, así como la combinación del trabajo técnico, táctico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+a) Se han analizado los medios y los métodos de desarrollo específico de las particularidades técnicas que intervienen en el decatlón.
+
+b) Se han elegido los medios y métodos de desarrollo específico de las particularidades técnicas que intervienen en el heptatlón.
+
+c) Se han analizado los medios y métodos de entrenamiento de la fuerza especial que interviene en las pruebas combinadas.
+
+d) Se han analizado los medios y métodos de entrenamiento de la capacidad de lanzamiento general y especial en las pruebas combinadas.
+
+e) Se han analizado los medios y métodos de entrenamiento de la capacidad de salto general y especial en las pruebas combinadas.
+
+f) Se han analizado los medios y métodos de entrenamiento para desarrollar la capacidad /potencia aeróbica, anaeróbica aláctica y láctica.
+
+g) Se ha analizado los medios de entrenamiento de la movilidad especial de las pruebas combinadas.
+
+h) Se han objetivado y justificado los criterios para la combinación del trabajo técnico y condicional mediante ejercicios especiales en las distintas etapas.
+
+i) Se ha valorada la importancia de la combinación del trabajo técnico y condicional en las distintas etapas.
+
+10\. Programa a medio y largo plazo el entrenamiento, analizando el calendario de competiciones de los lanzadores, justificando la adaptación de modelos de programación por objetivos operativos, aplicando medios y métodos específicos de control.
+
+a) Se ha analizado la adaptación de los modelos generales de programación a los lanzadores.
+
+b) Se ha analizado la dinámica de la carga en la estructura del microciclo semanal en las diferentes etapas.
+
+c) Se ha analizado la organización de las estructuras de los ciclos de entrenamiento y su variación en los lanzadores en función del calendario de competiciones.
+
+d) Se han justificado los criterios de evolución y modificación de los medios y métodos de entrenamiento de los factores de rendimiento en los diferentes tipos de ciclos o periodos de preparación a medio y largo plazo.
+
+e) Se han relacionado la evolución de las capacidades condicionales con la evolución de la organización del proceso de entrenamiento.
+
+f) Se han categorizado los factores que influyen en la fatiga física de los lanzadores.
+
+g) Se han analizado los criterios de combinación de los medios y métodos de entrenamiento de los factores de rendimiento en los lanzamientos en función del tipo de ciclo o periodo de preparación a medio y largo plazo.
+
+h) Se ha justificado la situación de los controles de las capacidades condicionales en la programación del entrenamiento de los lanzadores.
+
+i) Se ha programado un ciclo de entrenamiento de un lanzador, a partir de un modelo general de programación, en el que se concretan:
+
+– La estructura, duración y objetivos de los diferente ciclos.
+
+– La evolución de los medios y métodos de entrenamiento de la condición física y técnica.
+
+– La situación de los controles de la forma y las capacidades condiciónales.
+
+– Los medios y métodos de control utilizados.
+
+j) Se ha valorado la importancia del control y seguimiento en la programación del entrenamiento de los lanzadores.
+
+11\. Programa a medio y largo plazo el entrenamiento, analizando el calendario de competiciones de los atletas de pruebas combinadas, justificando la adaptación de modelos de programación por objetivos operativos, aplicando medios y métodos específicos de control.
+
+a) Se ha analizado la adaptación de los modelos generales de programación a las especialidades de las pruebas combinadas.
+
+b) Se ha analizado la dinámica de la carga en la estructura del microciclo semanal en las diferentes etapas.
+
+c) Se ha analizado la organización de las estructuras de los ciclos de entrenamiento y su variación en las pruebas combinadas en función de la situación del calendario de competiciones.
+
+d) Se han justificado los criterios de evolución y modificación de los medios y métodos de entrenamiento de los factores de rendimiento en los diferentes tipos de ciclos o periodos de preparación a medio y largo plazo.
+
+e) Se han relacionado la evolución de las capacidades condicionales con la evolución de la organización del proceso de entrenamiento.
+
+f) Se han categorizado los factores que influyen en la fatiga física del atleta de pruebas combinadas.
+
+g) Se han analizado los criterios de combinación de los medios y métodos de entrenamiento de los factores de rendimiento de las pruebas combinadas en función del tipo de ciclo o periodo de preparación a medio y largo plazo.
+
+h) Se ha justificado la situación de los controles de las capacidades condicionales en la programación del entrenamiento de las pruebas combinadas.
+
+i) Se ha programado un ciclo de entrenamiento de un atleta de pruebas combinadas, a partir de un modelo general de programación, en el que se concretan:
+
+– La estructura, duración y objetivos de los diferente ciclos.
+
+– La evolución de los medios y métodos de entrenamiento de la condición física, técnica y táctica.
+
+– La situación de los controles de la forma y las capacidades condiciónales.
+
+– Los medios y métodos de control utilizados
+
+j) Se ha valorado la importancia del control y seguimiento en la programación del entrenamiento del atleta de pruebas combinadas.
+
+Contenidos básicos
+
+1\. Valora la técnica de los lanzadores de peso, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases del lanzamiento, justificando las estrategias y las tareas de corrección.
+
+– Evolución histórica del concurso del lanzamiento de peso.
+
+– Las técnicas del lanzamiento de peso con arreglo a modelos teóricos y sus fundamentos biomecánicos:
+
+– La técnica del lanzamiento de peso en desplazamiento y en giro.
+
+– Otras técnicas.
+
+– Características fisiológicas y antropométricas de los lanzadores de peso.
+
+– Las fases y sus objetivos en el lanzamiento de peso:
+
+– Las características y la técnica del agarre del peso y la colocación inicial en la técnica lineal.
+
+– Las características y la técnica del desplazamiento en el lanzamiento de peso con técnica lineal. Errores, causas y estrategias y tareas de corrección.
+
+– Las características y la técnica de la llegada a la posición de fuerza, el gesto final y la recuperación en el lanzamiento de peso con técnica lineal. Errores, causas y estrategias y tareas de corrección.
+
+– Las características y la técnica del agarre y la colocación inicial en la técnica giratoria.
+
+– La salida y el desplazamiento en el lanzamiento de peso con técnica giratoria. Errores, causas y estrategias y tareas de corrección.
+
+– La técnica de la llegada a la posición de fuerza, el gesto final y la recuperación en el lanzamiento de peso con técnica giratoria. Errores, causas y estrategias y tareas de corrección.
+
+2\. Valora la técnica del lanzador de disco, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases del lanzamiento, justificando las estrategias y las tareas de corrección.
+
+– Evolución histórica del concurso del lanzamiento de disco.
+
+– La técnica del lanzamiento de disco con arreglo al modelo técnico y sus fundamentos biomecánicos:
+
+– La técnica del lanzamiento de disco.
+
+– Características fisiológicas y antropométricas del lanzador del disco.
+
+– Las fases y sus objetivos en el lanzamiento de disco:
+
+– Las características y de la técnica del agarre, la colocación inicial y los balanceos previos.
+
+– La salida y desplazamiento en el lanzamiento de disco. Errores, causas y estrategias y tareas de corrección.
+
+– La técnica de la llegada a la posición de fuerza, el gesto final (en suspensión o en doble apoyo) y la recuperación en el lanzamiento del disco. Errores causas y estrategias y tareas de corrección.
+
+3\. Valora la técnica de los lanzadores de jabalina, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando la aparición de errores y sus causas en las distintas fases del lanzamiento, justificando las estrategias y las tareas de corrección.
+
+– Evolución histórica del concurso del lanzamiento de jabalina.
+
+– La técnica del lanzamiento de jabalina con arreglo al modelo teórico y sus fundamentos biomecánicos.
+
+– Características fisiológicas y antropométricas del lanzador de jabalina.
+
+– Las fases y sus objetivos en el lanzamiento de jabalina:
+
+– Las características y de la técnica del agarre, la carrera y la colocación del brazo en el lanzamiento de jabalina. Errores causas y estrategias y tareas de corrección.
+
+– La técnica del paso cruzado en el lanzamiento de jabalina. Errores, causas y estrategias y tareas de corrección.
+
+– El gesto final y la recuperación en el lanzamiento de jabalina. Errores causas y estrategias y tareas de corrección.
+
+4\. Valora la técnica de los lanzadores de martillo, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases del lanzamiento, justificando las estrategias y las tareas de corrección.
+
+– Evolución histórica del concurso del lanzamiento de martillo.
+
+– La técnica del lanzamiento de martillo con arreglo a los modelos teóricos y sus fundamentos biomecánicos.
+
+– Características fisiológicas y antropométricas de los lanzadores de martillo.
+
+– Las fases y sus objetivos en el lanzamiento de martillo:
+
+– Las características y la técnica del agarre, la colocación inicial y la puesta en movimiento en el lanzamiento de martillo.
+
+– La técnica de los volteos y de la unión volteo-giro. Errores causas y estrategias y tareas de corrección.
+
+– La técnica de los giros y de la unión giro y gesto final. Errores causas y estrategias y tareas de corrección.
+
+– La técnica del gesto final y la recuperación en el lanzamiento de martillo. Errores causas y estrategias y tareas de corrección.
+
+5\. Elige los medios y métodos de entrenamiento específicos en el lanzamiento de peso, así como la combinación del trabajo técnico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+– El entrenamiento del lanzamiento de peso.
+
+– El entrenamiento de la técnica del lanzamiento de peso, técnica lineal.
+
+– El entrenamiento de la técnica del lanzamiento de peso, técnica giratoria.
+
+– El entrenamiento de la fuerza especial en el lanzamiento de peso. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la capacidad de lanzamiento general y especial en el lanzamiento de peso. Multilanzamientos. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la capacidad de salto general y especial en el lanzamiento de peso. Multisaltos. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la movilidad especial en el lanzamiento de peso. Medios para su desarrollo.
+
+– Criterios para la combinación del trabajo técnico y condicional dentro del entrenamiento del lanzamiento de peso mediante ejercicios especiales en las distintas etapas.
+
+6\. Elige los medios y métodos de entrenamiento específicos en el lanzamiento de disco, así como la combinación del trabajo técnico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+– El entrenamiento del lanzamiento de disco.
+
+– El entrenamiento de la técnica del lanzamiento de disco.
+
+– El entrenamiento de la fuerza especial que interviene en el lanzamiento de disco. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la capacidad de lanzamiento general y especial en el lanzamiento de disco. Multilanzamientos. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la capacidad de salto general y especial en el lanzamiento de disco. Multisaltos. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la movilidad especial en el lanzamiento de disco. Medios para su desarrollo.
+
+– Criterios para la combinación del trabajo técnico y condicional dentro del entrenamiento del lanzamiento de disco mediante ejercicios especiales en las distintas etapas.
+
+7\. Elige los medios y métodos de entrenamiento específicos en el lanzamiento de jabalina, así como la combinación del trabajo técnico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+– El entrenamiento del lanzamiento de jabalina.
+
+– El entrenamiento de la técnica del lanzamiento de jabalina.
+
+– El entrenamiento de los distintos tipos de fuerza que intervienen en el lanzamiento de peso. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la capacidad de lanzamiento general y especial en el lanzamiento de jabalina. Multilanzamientos. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la capacidad de salto general y especial en el lanzamiento de jabalina. Multisaltos. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la movilidad especial en el lanzamiento de jabalina. Medios para su desarrollo.
+
+– Criterios para la combinación del trabajo técnico, y condicional dentro del entrenamiento del lanzamiento de jabalina mediante ejercicios especiales en las distintas etapas.
+
+8\. Elige los medios y métodos de entrenamiento específicos en el lanzamiento de martillo, así como la combinación del trabajo técnico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+– El entrenamiento del lanzamiento del martillo.
+
+– El entrenamiento de la técnica del lanzamiento del martillo.
+
+– El entrenamiento de la fuerza especial que intervienen en el lanzamiento de martillo. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la capacidad de lanzamiento general y especial en el lanzamiento de martillo. Multilanzamientos. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la capacidad de salto general y especial en el lanzamiento de martillo. Multisaltos. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la movilidad especial en el lanzamiento de martillo. Medios para su desarrollo.
+
+– Criterios para la combinación del trabajo técnico y condicional dentro del entrenamiento del lanzamiento de martillo mediante ejercicios especiales en las distintas etapas.
+
+9\. Elige los medios y métodos de entrenamiento específicos en las pruebas combinadas, así como la combinación del trabajo técnico, táctico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+– El entrenamiento de las pruebas combinadas. El decatlón y el heptatlón.
+
+– Particularidades del entrenamiento técnico de las distintas especialidades de las pruebas combinadas.
+
+– El entrenamiento de la fuerza especial en las pruebas combinadas. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la capacidad de salto general y especial en las pruebas combinadas. Multisaltos. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la capacidad de lanzamiento general y especial en las pruebas combinadas. Multilanzamientos. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la capacidad / potencia aeróbica, anaeróbica aláctica/láctica en las pruebas combinadas. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la movilidad especial en las pruebas combinadas. Medios para su desarrollo.
+
+– Criterios para la combinación del trabajo técnico, táctico y condicional mediante ejercicios especiales dentro del entrenamiento de las pruebas combinadas en las distintas etapas.
+
+10\. Programa a medio y largo plazo el entrenamiento, analizando el calendario de competiciones de los lanzadores, justificando la adaptación de modelos de programación por objetivos operativos, aplicando medios y métodos específicos de control.
+
+– Modelos generales de entrenamiento de los lanzadores.
+
+– Utilización y adaptación de los modelos:
+
+– La organización de la programación del entrenamiento y la participación en competición de los lanzadores.
+
+– Estructura del microciclo semanal.
+
+– Estructura, duración y objetivos de los ciclos a medio y largo plazo.
+
+– Criterios para la organización y control de los ciclos del entrenamiento.
+
+– Medidas a tomar en la planificación según los resultados.
+
+– Los controles de las capacidades condicionales del atleta en relación con los ciclos de entrenamiento:
+
+– Factores que influyen en la fatiga y la recuperación física de los lanzadores.
+
+– Medios y métodos de control utilizados.
+
+– El análisis de la planificación de los medios y métodos de entrenamiento de los factores de rendimiento a desarrollar:
+
+– Factores técnicos de los lanzamientos.
+
+– Fuerza máxima y especial.
+
+– Capacidad de lanzamiento general y especial.
+
+– Capacidad de Salto general y especial.
+
+– Movilidad especial.
+
+– Criterios de combinación de los medios y métodos de entrenamiento en los distintos ciclos de preparación a medio y largo plazo.
+
+11\. Programa a medio y largo plazo el entrenamiento, analizando el calendario de competiciones de los atletas de pruebas combinadas, justificando la adaptación de modelos de programación por objetivos operativos, aplicando medios y métodos específicos de control.
+
+– Modelos generales de entrenamiento de las pruebas combinadas:
+
+– Utilización y adaptación de los modelos.
+
+– La organización de la programación del entrenamiento y la participación en competición del atleta de pruebas combinadas:
+
+– Estructura del microciclo semanal.
+
+– Estructura, duración y objetivos de los ciclos a medio y largo plazo.
+
+– Criterios para la organización y control de los ciclos del entrenamiento.
+
+– La competición y su estrategia.
+
+– Medidas a tomar en la planificación según los resultados.
+
+– Los controles de las capacidades condicionales del atleta en relación con los ciclos de entrenamiento:
+
+– Factores que influyen en la fatiga y la recuperación física del atleta de pruebas combinadas.
+
+– Medios y métodos de control utilizados.
+
+– El análisis de la planificación de los medios y métodos de entrenamiento de los factores de rendimiento a desarrollar:
+
+– Factores técnicos de las pruebas combinadas.
+
+– Capacidad / potencia aeróbica y anaeróbica aláctica/láctica
+
+– Fuerza especial en las pruebas combinadas.
+
+– Capacidad general y especial de lanzamiento.
+
+– Capacidad general y especial de salto.
+
+– Movilidad especial.
+
+– Criterios de combinación de los medios y métodos de entrenamiento en los distintos ciclos de preparación a medio y largo plazo.
+
+> Se numera como Anexo II.h por el art. 6.2.h) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.i — Módulo específico de enseñanza deportiva: Técnica y entrenamiento en saltos
+
+Código: MED- ATAT304
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Valora la técnica del saltador de altura, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases del salto, justificando las estrategias y las tareas de corrección.
+
+a) Se ha analizado la evolución histórica del concurso de salto de altura.
+
+b) Se han analizado los principales conceptos técnicos del salto de altura, con arreglo al modelo teórico y sus fundamentos biomecánicos.
+
+c) Se han analizado las características fisiológicas y antropométricas de los saltadores de altura y su relación con los resultados obtenidos.
+
+d) Se han definido las fases del salto de altura y sus objetivos.
+
+e) Se han analizado las características de la técnica de la carrera de impulso en el salto de altura y del comportamiento de la velocidad en los tramos en recta y en curva.
+
+f) Se ha analizado la técnica de los pasos finales y la batida en el salto de altura.
+
+g) Se han analizado los biomecanismos de la batida, el mecanismo de pivote, el trabajo muscular y el uso de los segmentos libres.
+
+h) Se han analizado las acciones durante el vuelo y el franqueo del listón en el salto de altura.
+
+i) Se han identificado las causas de los errores técnicos más frecuentes, justificando las estrategias y tareas de corrección en las diferentes fases del salto de altura.
+
+j) Se ha valorado la importancia de los factores antropométricos y técnicos en el análisis del salto de altura.
+
+2\. Valora la técnica de los saltadores de longitud y triple salto, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando, los errores y sus causas en las distintas fases del salto, justificando las estrategias y las tareas de corrección.
+
+a) Se ha identificado la evolución histórica de los concursos de salto de longitud y triple salto.
+
+b) Se han analizado los principales conceptos técnicos que intervienen en el salto de longitud y triple salto, con arreglo a los modelos teóricos y sus fundamentos biomecánicos.
+
+c) Se han analizado las características fisiológicas y antropométricas de los saltadores de longitud y triple salto y su relación con los resultados obtenidos.
+
+d) Se han definido las fases de los saltos de longitud y triple salto y sus objetivos.
+
+e) Se han analizado las características de la técnica de la carrera de impulso en el salto de longitud y triple salto, y del comportamiento de los objetivos, la velocidad, la precisión y la búsqueda de la posición para saltar.
+
+f) Se ha analizado las fases de la carrera de impulso y la técnica de los pasos finales y la batida, en el salto de longitud.
+
+g) Se han analizado los biomecanismos de la batida, el mecanismo de pivote, el trabajo muscular y el uso de los segmentos libres.
+
+h) Se ha analizado las acciones durante el vuelo y la caída en el salto de longitud, en relación al momento angular creado.
+
+i) Se ha analizado los conceptos fundamentales del triple salto, la relación entre la altura de los saltos y la pérdida de velocidad horizontal, el alineamiento corporal, el equilibrio dinámico y el apoyo activo para evitar la pérdida de velocidad.
+
+j) Se han analizado los criterios de clasificación de las técnicas del triple salto.
+
+k) Se han identificado las causas de los errores técnicos más frecuentes, justificando las estrategias y tareas de corrección en las diferentes fases del salto de longitud.
+
+l) Se ha valorado la importancia de los factores antropométricos y técnicos en el análisis del salto de longitud y el triple salto.
+
+3\. Valora la técnica del saltador de pértiga, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases del salto, justificando las estrategias y las tareas de corrección.
+
+a) Se ha identificado la evolución histórica del concurso de salto de pértiga.
+
+b) Se han analizado los principales conceptos técnicos que intervienen en el salto de pértiga, con arreglo al modelo teórico, y sus fundamentos biomecánicos, la pértiga como palanca flexible.
+
+c) Se han analizado las características fisiológicas y antropométricas de los saltadores de pértiga y su relación con los resultados obtenidos.
+
+d) Se han analizado las fases del salto de pértiga y sus objetivos.
+
+e) Se ha analizado el agarre y transporte de la pértiga, las características de la técnica de la carrera de impulso, el comportamiento de la velocidad de carrera, la precisión y la búsqueda de la posición para saltar.
+
+f) Se ha analizado la técnica de presentación-clavada-batida de la pértiga y el lugar de batida.
+
+g) Se ha analizado la penetración del saltador en el salto de pértiga.
+
+h) Se ha analizado la técnica de la recogida y extensión del cuerpo en el salto de pértiga.
+
+i) Se han analizado la técnica del giro, y del franqueo del listón en el salto de pértiga.
+
+j) Se han analizado las características de los tipos de pértigas empleadas en el aprendizaje y la competición.
+
+k) Se han identificado las causas de los errores técnicos más frecuentes, justificando las estrategias y tareas de corrección en las diferentes fases del salto de pértiga.
+
+l) Se ha valorado la importancia de los factores antropométricos y técnicos en el análisis del salto de pértiga.
+
+4\. Elige los medios y métodos de entrenamiento específicos en el salto de altura, así como la combinación del trabajo técnico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+a) Se han analizado los medios y los métodos de desarrollo específico de la carrera en el salto de altura.
+
+b) Se han analizado los medios y métodos de desarrollo específico de la batida en el salto de altura.
+
+c) Se han analizado los medios y métodos de desarrollo específico del vuelo y la caída en el salto de altura.
+
+d) Se han analizado los medios y métodos de entrenamiento de la fuerza especial que interviene en el salto de altura.
+
+e) Se han analizado los medios y métodos de entrenamiento de la velocidad especial que interviene en el salto de altura.
+
+f) Se han analizado los medios y métodos de entrenamiento de la capacidad de salto general y especifica en el salto de altura.
+
+g) Se ha analizado y desarrollado el entrenamiento de la movilidad especial en el salto de altura.
+
+h) Se han objetivado y justificado los criterios para la combinación del trabajo técnico y condicional con ejercicios especiales en las distintas etapas.
+
+i) Se ha valorado la importancia de la combinación del trabajo técnico, táctico y condicional en las distintas etapas.
+
+5\. Elige los medios y métodos de entrenamiento específicos en el salto de longitud y el triple salto, así como la combinación del trabajo técnico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+a) Se han analizado los medios y los métodos de desarrollo específico de la carrera en el salto de longitud y triple.
+
+b) Se han analizado los medios y métodos de desarrollo específico de los últimos pasos y la batida en el salto de longitud.
+
+c) Se han analizado los medios y métodos de desarrollo específico del vuelo y la caída en el salto de longitud.
+
+d) Se han analizado los medios y métodos de desarrollo específico de los últimos pasos, las batidas y las recepciones en el triple salto.
+
+e) Se han analizado los medios y métodos de entrenamiento de la fuerza especial que interviene en el salto de longitud y triple salto.
+
+f) Se han analizado los medios y métodos de entrenamiento de la velocidad especial que interviene en el salto de longitud y el triple salto.
+
+g) Se han analizado los medios y métodos de entrenamiento de la capacidad de salto general y específico en el salto de longitud y el triple salto.
+
+h) Se ha analizado y desarrollado el entrenamiento de la movilidad especial en el salto de longitud y el triple salto.
+
+i) Se han objetivado y justificado los criterios para la combinación del trabajo técnico y condicional con ejercicios especiales en las distintas etapas.
+
+j) Se ha valorado la importancia de la combinación del trabajo técnico y condicional en las distintas etapas.
+
+6\. Elige los medios y métodos de entrenamiento específicos en el salto de pértiga, así como la combinación del trabajo técnico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+a) Se han analizado los medios y los métodos de desarrollo específico del agarre y el transporte de la pértiga en la carrera.
+
+b) Se han analizado los medios y métodos de desarrollo específico de la colocación la pértiga y la batida.
+
+c) Se han analizado los medios y métodos de desarrollo específico de la colocación y el reenvío del cuerpo en el salto de pértiga.
+
+d) Se han analizado los medios y métodos de desarrollo específico del giro, el paso del listón y la caída en el salto de pértiga.
+
+e) Se han analizado los medios y métodos de entrenamiento de la fuerza especial que interviene en el salto de pértiga.
+
+f) Se han analizado los medios y métodos de entrenamiento de la velocidad especifica de la carrera en el salto de pértiga.
+
+g) Se han analizado los medios y métodos de entrenamiento de la capacidad de salto especifica en el salto de pértiga.
+
+h) Se ha analizado y desarrollado el entrenamiento de la movilidad especial en el salto de pértiga.
+
+i) Se han objetivado y justificado los criterios para la combinación del trabajo técnico y condicional con ejercicios especiales en las distintas etapas.
+
+j) Se ha valorado la importancia de la combinación del trabajo técnico, táctico y condicional en las distintas etapas.
+
+7\. Programa a medio y largo plazo el entrenamiento analizando el calendario de las competiciones de los saltadores, justificando la adaptación de modelos de programación por objetivos operativos, aplicando medios y métodos específicos de control.
+
+a) Se ha justificado la adaptación de los modelos generales de programación a los saltos.
+
+b) Se ha analizado la dinámica de la carga en la estructura del microciclo semanal en las diferentes etapas.
+
+c) Se ha analizado la organización de las estructuras de los ciclos de entrenamiento y su variación en los saltadores en función de calendario de competiciones.
+
+d) Se han justificado los criterios de evolución y modificación de los medios y métodos de entrenamiento de los factores de rendimiento, en los diferentes tipos de ciclos o periodos de preparación a medio y largo plazo.
+
+e) Se han relacionado la evolución de las capacidades condicionales con la evolución de la organización del proceso de entrenamiento.
+
+f) Se han categorizado los factores que influyen en la fatiga física de los saltadores.
+
+g) Se han analizado los criterios de combinación de los medios y métodos de entrenamiento de los factores de rendimiento en los saltos, en función del tipo de ciclo o periodo de preparación a medio y largo plazo.
+
+h) Se ha justificado la situación de los controles de las capacidades condicionales en la programación del entrenamiento de los saltadores.
+
+i) Se ha programado un ciclo de entrenamiento de un saltador a partir de un modelo general de programación, en el que se concretan:
+
+– La estructura, duración y objetivos de los diferente ciclos.
+
+– La evolución de los medios y métodos de entrenamiento de la condición física y técnica.
+
+– La situación de los controles de la forma y las capacidades condiciónales.
+
+– Los medios y métodos de control utilizados.
+
+j) Se ha valorado la importancia del control y seguimiento en la programación de los saltadores.
+
+Contenidos básicos
+
+1\. Valora la técnica del saltador de altura, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases del salto, justificando las estrategias y las tareas de corrección.
+
+– Evolución histórica del concurso de salto de altura.
+
+– Estudio global de la técnica del salto de altura con arreglo al modelo teórico y sus fundamentos biomecánicos.
+
+– Características fisiológicas y antropométricas de los saltadores de altura.
+
+– Las fases y sus objetivos en el salto de altura.
+
+– Las características y la técnica de la carrera de impulso en el salto de altura:
+
+– Estudio del comportamiento de la velocidad de carrera, lugar de batida y búsqueda de la posición para saltar.
+
+– Determinación de las dos subfases de la carrera de impulso.
+
+– Tramo en recta y tramo en curva.
+
+– Las acciones de los dos pasos finales y la batida en el salto de altura.
+
+– Los biomecanismos de la batida. Mecanismo de pivote o péndulo invertido, el trabajo muscular y el uso de los segmentos libres, creación del momento angular necesario para el salto. Errores causas y estrategias y tareas de corrección.
+
+– Las acciones durante el vuelo y el paso del listón en el salto de altura. Errores, causas y estrategias y tareas de corrección.
+
+2\. Valora la técnica de los saltadores de longitud y triple salto, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando, los errores y sus causas en las distintas fases del salto, justificando las estrategias y las tareas de corrección.
+
+– Evolución histórica de los concursos del salto de longitud y triple salto.
+
+– Características fisiológicas y antropométricas de los saltadores de longitud y del triple salto.
+
+– Estudio global de la técnica del salto de longitud y del triple salto con arreglo a los modelos teóricos y sus fundamentos biomecánicos.
+
+– Las fases y sus objetivos en los saltos de longitud y triple salto.
+
+– Las características y la técnica de las carreras de impulso en los saltos de longitud y triple salto. Estudio del comportamiento de los objetivos de la carrera de impulso:
+
+– La velocidad de carrera, la precisión y la búsqueda de la posición para saltar.
+
+– Determinación de las tres sub-fases de la carrera de impulso.
+
+– Errores, causas y estrategias y tareas de corrección.
+
+– Las acciones de los dos pasos finales y la batida en el salto de longitud. Errores, sus causas, estrategias y tareas de corrección.
+
+– Los biomecanismos de la batida. Mecanismo de pivote o péndulo invertido, el trabajo muscular y el uso de los segmentos libres.
+
+– Las acciones durante el vuelo y la caída en el salto de longitud:
+
+– El momento angular durante el vuelo y las acciones corporales que permiten una buena caída. Separación de los segmentos, movimientos de acción reacción y carrera en el aire. (Natural, extensión, y carrera en el aire).
+
+– Posición de caída correcta.
+
+– Errores causas y estrategias y tareas de corrección.
+
+– Conceptos fundamentales del triple salto:
+
+– Relación entre la altura de los saltos y la pérdida de velocidad horizontal. Alineamiento corporal y equilibrio dinámico.
+
+– Apoyo activo para evitar la pérdida de velocidad horizontal.
+
+– Criterios de clasificación de las técnicas en el triple salto:
+
+– Por las proporciones de los saltos. Tipos de clasificaciones.
+
+– Por la velocidad media del salto.
+
+– Por las variantes en los movimientos de los brazos.
+
+– Errores, causas y estrategias y tareas de corrección.
+
+3\. Valora la técnica del saltador de pértiga, justificando sus modelos teóricos y sus fundamentos biomecánicos, clasificando los errores y sus causas en las distintas fases del salto, justificando las estrategias y las tareas de corrección.
+
+– Evolución histórica del concurso de salto de pértiga.
+
+– Características fisiológicas y antropométricas de los saltadores de pértiga y su relación con los resultados obtenidos.
+
+– Estudio global de la técnica del salto de pértiga con arreglo al modelo teórico con fundamento biomecánico. La pértiga como palanca flexible que transforma la velocidad horizontal en altura del salto.
+
+– Las fases y sus objetivos en el salto de pértiga.
+
+– El agarre y transporte de la pértiga y de las características y la técnica de la carrera de impulso en el salto de pértiga.
+
+– El comportamiento de la velocidad de carrera, precisión y búsqueda de la posición para saltar:
+
+– La técnica de la presentación-clavada-batida de la pértiga y el lugar de batida en el salto de pértiga.
+
+– Errores, causas y estrategias y tareas de corrección.
+
+– La penetración del saltador en el salto de pértiga. Errores, causas y estrategias y tareas de corrección.
+
+– La técnica de la recogida y extensión del cuerpo en el salto de pértiga. Errores, causas y estrategias y tareas de corrección.
+
+– La técnica del giro y del franqueo del listón en el salto de pértiga. Errores, causas y estrategias y tareas de corrección.
+
+– Tipos de pértigas empleadas actualmente. Características.
+
+4\. Elige los medios y métodos de entrenamiento específicos en el salto de altura, así como la combinación del trabajo técnico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+– El entrenamiento del salto de altura.
+
+– El entrenamiento de las distintas fases técnicas del salto de altura:
+
+– La carrera, tramo en recta y tramo en curva.
+
+– Los dos últimos pasos y la batida.
+
+– El vuelo y la caída.
+
+– El entrenamiento de la fuerza especial que intervienen en el salto de altura. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la velocidad especial que interviene en el salto de altura. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la capacidad de salto general y especial en el salto de altura. Multisaltos. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la movilidad especial en el salto de altura. Medios de desarrollo.
+
+– Criterios para la combinación del trabajo técnico, y condicional con ejercicios especiales en el salto de altura en las distintas etapas.
+
+5\. Elige los medios y métodos de entrenamiento específicos en el salto de longitud y el triple salto, así como la combinación del trabajo técnico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+– El entrenamiento del salto de longitud y el triple salto.
+
+– El entrenamiento de las distintas fases técnicas del salto de longitud:
+
+– La carrera y sus subfases.
+
+– Los dos últimos pasos y la batida.
+
+– El vuelo y la caída.
+
+– El entrenamiento de las distintas fases del salto triple:
+
+– La carrera.
+
+– El primer salto.
+
+– El segundo salto.
+
+– El tercer salto y la caída.
+
+– El entrenamiento de la fuerza especial que interviene en el salto de longitud y el triple salto. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la capacidad de salto general y especial en el salto de longitud y triple salto. Multisaltos. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la velocidad especial en el salto de longitud y el triple salto. Medios para su desarrollo.
+
+– El entrenamiento de la movilidad especial en el salto de longitud y el triple salto. Medios de desarrollo.
+
+– Criterios para la combinación del trabajo técnico y condicional con ejercicios especiales dentro del entrenamiento del salto de longitud y el triple salto en las distintas etapas.
+
+6\. Elige los medios y métodos de entrenamiento específicos en el salto de pértiga, así como la combinación del trabajo técnico y condicional con ejercicios especiales, justificando su elección y la organización de los mismos en el proceso de entrenamiento.
+
+– El entrenamiento del salto de pértiga.
+
+– El entrenamiento técnico de las distintas fases del salto de pértiga:
+
+– El agarre y transporte de la pértiga y la carrera de aproximación.
+
+– La presentación, la clavada y la batida.
+
+– La penetración.
+
+– La recogida y extensión del cuerpo.
+
+– El giro y el franqueo del listón.
+
+– El entrenamiento de la fuerza especial en el salto de pértiga. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la velocidad especifica de la carrera de impulso en el salto de pértiga. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la capacidad de salto general y especial en el salto de pértiga. Medios y métodos para su desarrollo.
+
+– El entrenamiento de la movilidad especial en el salto de pértiga. Medios para su desarrollo.
+
+– Criterios para la combinación del trabajo técnico y condicional con ejercicios especiales dentro del entrenamiento del salto de pértiga en las distintas etapas.
+
+7\. Programa a medio y largo plazo el entrenamiento analizando el calendario de las competiciones de los saltadores, justificando la adaptación de modelos de programación por objetivos operativos, aplicando medios y métodos específicos de control.
+
+– Modelos generales de entrenamiento de los saltadores.
+
+– Utilización y adaptación de los modelos.
+
+– La organización de la programación del entrenamiento y la participación en competición de los saltadores:
+
+– Estructura del microciclo semanal.
+
+– Estructura, duración y objetivos de los ciclos a medio y largo plazo.
+
+– Criterios para la organización y control de los ciclos del entrenamiento.
+
+– Medidas a tomar en la planificación según los resultados.
+
+– Los controles de las capacidades condicionales del atleta en relación con los ciclos de entrenamiento:
+
+– Factores que influyen en la fatiga y la recuperación física de los saltadores.
+
+– Medios y métodos de control utilizados.
+
+– El análisis de la evolución de los medios y métodos de entrenamiento de los factores de rendimiento a desarrollar:
+
+– Factores técnicos de los saltos.
+
+– Fuerza especial.
+
+– Velocidad especial.
+
+– Capacidad de salto especial.
+
+– Movilidad especial.
+
+– Criterios de combinación de los medios y métodos de entrenamiento en los distintos ciclos de preparación a medio y largo plazo.
+
+> Se numera como Anexo II.i por el art. 6.2.i) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.j — Módulo específico de enseñanza deportiva: Planificación técnica y condicional en atletismo
+
+Código: MED-ATAT305
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica, selecciona y entrena talentos deportivos en atletismo, analizando las características de los sistemas de selección de talentos y las características de las etapas de desarrollo de la vida deportiva de los atletas, aplicando técnicas específicas.
+
+a) Se han fundamentado los conceptos y las fases del proceso de identificación y selección de talentos en atletismo.
+
+b) Se han fundamentado los conceptos y las fases del entrenamiento de los talentos en atletismo.
+
+c) Se han analizado las características de las diferentes capacidades y modos de comportamiento que determinan el perfil del atleta de alto rendimiento.
+
+d) Se han seleccionado los valores de referencia que determinan la evolución de las capacidades y modos de comportamiento del atleta a lo largo de las diferentes etapas de la vida deportiva de los talentos en atletismo.
+
+e) Se han seleccionado, de forma justificada, los criterios de identificación, selección y entrenamiento de los talentos en función de la etapa deportiva del atleta.
+
+f) Se han relacionado y seleccionado las técnicas e instrumentos de valoración de las capacidades y modos de comportamiento, con las características del atletismo y de la etapa deportiva del atleta.
+
+g) Se ha elaborado un proyecto de programa de identificación y selección de talentos en atletismo.
+
+h) Se ha identificado la información del entorno, personal, social y educativo del atleta a tener en cuenta en la programación del entrenamiento a largo, medio y corto plazo, en función de la etapa deportiva y en especial la de alto rendimiento.
+
+i) Se ha justificado la necesidad de respetar los intereses y necesidades del individuo en el proceso de desarrollo de los talentos deportivos en atletismo.
+
+2\. Planifica, organiza y controla la preparación del atleta en los diferentes grupos de especialidades, analizando los modelos de preparación a medio y largo plazo, seleccionando y aplicando los instrumentos y métodos de control necesarios.
+
+a) Se ha analizado la evolución histórica de la planificación y organización del entrenamiento deportivo.
+
+b) Se han analizado las características de las diferentes etapas en el desarrollo de la vida deportiva de un atleta hasta la consecución del alto rendimiento y el abandono de la vida deportiva.
+
+c) Se han analizado las características de los diferentes modelos de planificación (programación de los ciclos de preparación) supraanual (ciclo olímpico) en función de los modelos de rendimiento de la modalidad y de la etapa deportiva del atleta y en especial la de alto rendimiento.
+
+d) Se han analizando las características de los diferentes periodos (preparación, competición y transitorio), de los ciclos semestrales y anuales en los diferentes grupos de especialidades en función de los objetivos establecidos, atendiendo a la dinámica de cargas que conllevan, y su adecuación a la etapa deportiva del atleta y en especial la de alto rendimiento.
+
+e) Se han analizado las características del calendario de competición nacional e internacional en atletismo relacionándolo con las características del modelo de planificación semestral o anual.
+
+f) Se han analizado la estructura y las características de los diferentes subperiodos y mesociclos de un periodo preparatorio, en una programación semestral o anual.
+
+g) Se han analizado la estructura y las características de los diferentes subperiodos y mesociclos de un periodo de competiciones, en una programación semestral o anual.
+
+h) Se han analizado la estructura y las características de los diferentes subperiodos de un periodo transitorio en una programación semestral o anual.
+
+i) Se ha analizado la estructura y características de los microciclos tipo.
+
+j) Se han seleccionado los medios y métodos de control de la readaptación motriz en caso de lesión, de la preparación y del rendimiento en una programación a largo plazo, en función de los objetivos y la etapa de la vida deportiva del atleta y en especial la de alto rendimiento.
+
+k) Se ha valorado la importancia de establecer metas en la programación a largo, y medio, adecuadas a la evolución del atleta y a la dinámica de cargas específica.
+
+3\. Programa y dirige la condición física y la readaptación del atleta de alto rendimiento, justificando las características de los medios y métodos generales de entrenamiento de las distintas cualidades físicas condicionales.
+
+a) Se ha analizado la evolución histórica del concepto de condición física.
+
+b) Se han definido las etapas y los objetivos del entrenamiento de la condición física del atleta de alto rendimiento con relación a la planificación y programación de referencia.
+
+c) Se han analizado los objetivos en el desarrollo de la condición física del atleta, teniendo en cuenta las características de la especialidad, el entorno y las particularidades de la competición.
+
+d) Se han definido las características que debe cumplir un programa de entrenamiento personalizado y de readaptación motriz acorde con las necesidades de cada atleta en un proceso de integración al entrenamiento.
+
+e) Se han justificado las características de los medios y métodos generales de entrenamiento de la resistencia en el alto rendimiento, sus sistemas de valoración y su temporalización en las especialidades olímpicas en atletismo.
+
+f) Se han justificado las características de los medios y métodos generales de entrenamiento de la fuerza en el alto rendimiento, sus sistemas de valoración y su temporalización en las especialidades olímpicas en atletismo.
+
+g. Se han justificado las características de los medios y métodos generales de entrenamiento de la velocidad en el alto rendimiento, sus sistemas de valoración y su temporalización en las especialidades olímpicas en atletismo.
+
+h) Se ha elaborado un ciclo de preparación física completa, empleando diferentes tipos de estructuras temporales propias de la planificación deportiva de alto rendimiento, concretando objetivos, medios, métodos, instrumentos de control y dinámica de la carga.
+
+i) Se han analizado las características de las sesiones de preparación física estableciendo los mecanismos de recuperación de la fatiga tras el entrenamiento y la competición.
+
+j) Se han analizado las incidencias más habituales en las sesiones de desarrollo de la condición física en atletismo de alto nivel, relacionándolas con las causas y posibles medidas para su solución.
+
+4\. Evalúa la condición física y la carga de trabajo del atleta en el entrenamiento y en la competición, en las diferentes especialidades, analizando las demandas del alto rendimiento y aplicando procedimientos específicos de valoración.
+
+a) Se han seleccionado y aplicado métodos e instrumentos para la valoración de las distintas capacidades físicas durante el entrenamiento y la competición en la etapa de alto rendimiento.
+
+b) Se ha adaptado la evaluación de las características de la resistencia a la utilización de métodos e instrumentos tradicionales y nuevas tecnologías.
+
+c) Se ha adaptado la evaluación de las características de la fuerza a la utilización de métodos e instrumentos tradicionales y nuevas tecnologías
+
+d) Se ha adaptado la evaluación de las características de la velocidad a la utilización de métodos e instrumentos tradicionales y nuevas tecnologías
+
+e) Se han establecido modelos de recogida de información subjetiva por parte de los entrenadores, en relación al nivel de rendimiento físico y de fatiga presentado durante el entrenamiento y la competición, en función de las características de la práctica.
+
+f) Se han aplicado métodos y técnicas de procesamiento de los registros obtenidos durante la valoración del rendimiento físico del atleta.
+
+g) Se han caracterizado y analizado los indicadores que permiten la cuantificación de la carga de trabajo técnico y condicional en el entrenamiento de atletismo.
+
+h) Se ha valorado la utilidad de la cuantificación y seguimiento de la carga del entrenamiento en el control y ajuste de la preparación en atletismo.
+
+5\. Utiliza las herramientas de edición y procesado de video en la observación y análisis técnico táctico, justificando el uso de las mismas y aplicando procedimientos específicos de elaboración de bases de datos de imágenes.
+
+a) Se ha justificado la selección de las herramientas audiovisuales para la grabación utilizadas en el análisis de la técnica y la táctica.
+
+b) Se han seleccionado y utilizado herramientas de edición y procesado de video en el análisis de los parámetros observables y cuantificables de la ejecución técnica del atleta de alto rendimiento.
+
+c) Se han seleccionado y utilizado herramientas de edición y procesado de edición en la comparación de la ejecución de las técnicas atléticas, con patrones de referencia.
+
+d) Se han seleccionado y utilizado herramientas de edición y procesado de video en el análisis del comportamiento táctico de los atletas.
+
+e) Se han seleccionado para su uso y empleo programas informáticos para análisis y cuantificación de la técnica en atletismo.
+
+f) Se han elegido y aplicado los procedimientos de elaboración de bases de datos de imágenes de atletas.
+
+g) Se ha demostrado un uso correcto de las herramientas audiovisuales en la observación, y análisis de la técnica y de la táctica en los atletas.
+
+h) Se ha tomado conciencia de la importancia del uso de nuevas tecnologías como herramienta de observación y análisis de la técnica y de la táctica.
+
+Contenidos básicos
+
+1\. Identifica, selecciona y entrena talentos deportivos en atletismo, analizando las características de los sistemas de selección de talentos y las características de las etapas de desarrollo de la vida deportiva de los atletas, aplicando técnicas específicas.
+
+– Identificación y selección de talentos deportivos en atletismo.
+
+– Concepto y fases del proceso.
+
+– El entrenamiento de los talentos deportivos. Concepto y fases. Modelos de J. Coté y de Ericsson. Relación entre resultado y carga de entrenamiento.
+
+– Características de las diferentes capacidades técnicas y condicionales. Modos de comportamiento. Especialización precoz y especialización tardía.
+
+– Evolución de las capacidades del atleta a lo largo de las etapas de la vida deportiva. Valores de referencia.
+
+– Criterios de identificación y selección de talentos en función de la etapa de la vida deportiva.
+
+– Técnicas e instrumentos de valoración de las capacidades y modos de comportamiento. Su relación con las características del atletismo y de la etapa deportiva.
+
+– Elaboración de un proyecto de programa de identificación y selección de talentos.
+
+– La información del entorno, personal, social y educativo del atleta y su relación con las etapas deportivas.
+
+– El respeto a los intereses y necesidades del individuo en el proceso de desarrollo de los talentos deportivos en atletismo.
+
+2\. Planifica, organiza y controla la preparación del atleta en los diferentes grupos de especialidades, analizando los modelos de preparación a medio y largo plazo, seleccionando y aplicando los instrumentos y métodos de control necesarios.
+
+– Concepto y evolución histórica de la planificación, organización y control del entrenamiento deportivo.
+
+– Etapas en el desarrollo de la vida deportiva de un atleta. Características.
+
+– Características de los diferentes modelos de planificación de los ciclos supraanuales en los diferentes grupos de especialidades en el alto rendimiento. Velocidad y vallas, medio fondo, fondo y marcha, saltos y lanzamientos y pruebas combinadas.
+
+– Características de los diferentes periodos (preparatorio, competición y transición) de una planificación anual y semestral en los diferentes grupos de especialidades.
+
+– Características del calendario de competiciones nacional e internacional y su relación con el modelo de planificación semestral o anual escogido.
+
+– Estructura y características de los subperiodos y mesociclos de un periodo preparatorio de una programación anual y semestral con dos o un macrociclo según algunos autores.
+
+– Estructura y características de los subperiodos y mesociclos de un periodo de competición con una o dos puestas en forma.
+
+– Estructura y características de los subperiodos de un periodo transitorio.
+
+– Estructura y características de los microciclos semanales.
+
+– Medios y métodos de control de la preparación y del rendimiento, y del atleta lesionado en una programación a medio y largo plazo.
+
+3\. Programa y dirige la condición física y la readaptación del atleta de alto rendimiento, justificando las características de los medios y métodos generales de entrenamiento de las distintas cualidades físicas condicionales.
+
+– Evolución histórica del concepto de condición física.
+
+– Concepto, etapas y objetivos del desarrollo del entrenamiento de la condición física del atleta de alto rendimiento:
+
+– Métodos.
+
+– Medios e instrumentos de control.
+
+– Bases y características del programa de entrenamiento personalizado.
+
+– Pautas de actuación en el proceso de recuperación y readaptación motriz del atleta lesionado con arreglo a las características de la lesión.
+
+– Proceso de integración al entrenamiento normalizado y la competición.
+
+– Las cualidades condicionales en el atletismo. Medios y métodos generales de entrenamiento de las cualidades condicionales.
+
+– La cualidad condicional de la resistencia. Modalidades. Medios y métodos del entrenamiento de la resistencia. La dinámica del lactato como sistema de control del entrenamiento. Concepto de barrera de velocidad. Temporalización del desarrollo de las sesiones específicas de trabajo.
+
+– Formas especiales del entrenamiento de la resistencia:
+
+– El entrenamiento en circuito.
+
+– La variación de la altitud en la vida y el entrenamiento.
+
+– La cualidad condicional de la fuerza. Modalidades. Medios y métodos del entrenamiento de la fuerza.
+
+– Temporalización del desarrollo de las sesiones específicas de trabajo.
+
+– La cualidad condicional de la velocidad. Modalidades. Medios y métodos del entrenamiento de la velocidad. Temporalización del desarrollo de las sesiones específicas de trabajo.
+
+– Elaboración de un ciclo de preparación física, objetivos, estructuras, medios y métodos, instrumentos de control y dinámica de la carga.
+
+– La fatiga del atleta: causas y métodos de recuperación.
+
+– Características de las sesiones de acondicionamiento físico dirigidas a la recuperación de la fatiga.
+
+– Incidencias más habituales en las sesiones de desarrollo de la condición física. Causas y medidas de corrección.
+
+4\. Evalúa la condición física y la carga de trabajo del atleta en el entrenamiento y en la competición, en las diferentes especialidades, analizando las demandas del alto rendimiento y aplicando procedimientos específicos de valoración.
+
+– Características del proceso de evaluación de la condición física del atleta.
+
+– Instrumentos para la valoración de las capacidades físicas.
+
+– Métodos e instrumentos de valoración tradicionales de la resistencia en el entrenamiento y la competición:
+
+– Tests de campo para determinar el V0<sub>2</sub>max o la VAM (Cooper, Test de Coe, Test de Bru).
+
+– Test de Conconi (umbral anaeróbico).
+
+– Test de Mader.
+
+– Toma de pulso manual.
+
+– Implementación tecnológica en la evaluación de la resistencia:
+
+– Protocolos de laboratorio en «treadmil» para determinar el V0<sub>2</sub>max y el umbral respiratorio.
+
+– Pulsímetros y analizadores de lactato:
+
+– Protocolos de incremental y máximo estado estable en pista.
+
+– Definición de zonas de entrenamiento mediante pulsímetro y lactato en sangre.
+
+– Métodos e instrumentos de valoración de los tipos de fuerza en el entrenamiento y la competición:
+
+– Tests de campo: El test de 1 o 3 repeticiones, el test de 5 o 6 repeticiones, medición de la velocidad de ejecución con cronometro.
+
+– Tests de cargada o arrancada.
+
+– Tests de salto.
+
+– Implementación tecnológica en la evaluación de la fuerza:
+
+– Isométrico: Células de carga, dinamómetros.
+
+– Isocinético: Concéntrico/ excéntrico.
+
+– Plataformas de fuerza.
+
+– Acelerómetros.
+
+– Encoders.
+
+– Métodos e instrumentos de valoración de la velocidad (traslación y ejecución) en el entrenamiento y la competición:
+
+– Cronometro.
+
+– Implementación tecnológica en la evaluación de la velocidad:
+
+– Células fotoeléctricas.
+
+– Barreras en el suelo.
+
+– Medición mediante radar. Acelerómetros y GPS.
+
+– Tacógrafos para movimientos cortos. Encoders.
+
+– Información subjetiva complementaria. Modelos y protocolos.
+
+– Valoración del rendimiento físico:
+
+– Técnicas y procedimientos aplicados.
+
+– Análisis y discusión de los resultados.
+
+– Indicadores de la carga de trabajo técnico y condicional.
+
+5\. Utiliza las herramientas de edición y procesado de video en la observación y análisis técnico táctico, justificando el uso de las mismas y aplicando procedimientos específicos de elaboración de bases de datos de imágenes.
+
+– Herramientas audiovisuales disponibles en el mercado, útiles para la grabación y el análisis técnico y táctico.
+
+– Parámetros cuantificables con las herramientas de edición y procesado de vídeo. Métodos de medida. Influencia en el rendimiento deportivo.
+
+– Métodos de comparación de imágenes utilizando herramientas de edición y procesado de video.
+
+– Observación de los parámetros para el análisis de la táctica.
+
+– Conocimiento, uso y empleo de programas informáticos para análisis y cuantificación de la técnica en atletismo (programa kinovea o similar).
+
+– Diseño y Generación de bases de datos de imágenes.
+
+> Se numera como Anexo II.j por el art. 6.2.j) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.k — Módulo específico de enseñanza deportiva: Organización y gestión en atletismo
+
+Código: MED- ATAT306
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Dirige y gestiona los medios y equipos de una instalación de atletismo, analizando las características técnicas y las condiciones de uso y de seguridad, aplicando los procedimientos establecidos.
+
+a) Se han identificado los equipos, instalaciones y materiales utilizados en el desarrollo de competiciones y entrenamientos de alto nivel, en una instalación de atletismo.
+
+b) Se han establecido las diferencias existentes entre las normas NIDE y las de la IAAF, respecto de las condiciones de las instalaciones y materiales necesarios en una competición de atletismo de alto nivel.
+
+c) Se han justificado los criterios de selección de los recursos materiales en relación con la calidad de los mismos y el cumplimiento del reglamento.
+
+d) Se han clasificado los tipos de estructura organizativa y modelos de gestión de una instalación de atletismo de alto nivel.
+
+e) Se han analizado las características de los planes de utilización y de mantenimiento en una instalación de atletismo de alto rendimiento.
+
+f) Se han justificado las normas de uso del material e instalaciones en la competición y en el entrenamiento.
+
+g) Se ha justificado la información que debe darse al usuario de una instalación de atletismo de alto nivel, respecto del uso de las pistas, fosos y círculos de lanzamientos y de la petición y uso del material.
+
+h) Se han evaluado las condiciones de seguridad conforme a la normativa vigente.
+
+i) Se han justificado los procedimientos de acotación de zonas específicas de uso de lanzadores y la correcta gestión del espacio evitando interferencias entre los participantes.
+
+j) Se ha valorado la importancia de disponer de un plan de utilización de una instalación de atletismo de alto rendimiento.
+
+2\. Diseña y gestiona la estructura organizativa de las competiciones, y concentraciones propias del nivel de tecnificación deportiva, y la dirección técnica de una competición de alto nivel, analizando las características técnicas, enumerando los requisitos administrativos, los medios materiales y humanos necesarios, y aplicando los procedimientos establecidos.
+
+a) Se ha elaborado la estructura organizativa de una competición, identificando las funciones de las distintas áreas.
+
+b) Se han identificado las diferencias entre las categorías y tipos de competiciones en atletismo.
+
+c) Se han valorado las ventajas del trabajo en equipo, haciendo hincapié en el espíritu de colaboración y en el respeto a los demás.
+
+d) Se han analizado las características técnicas de las competiciones de alto nivel, estableciendo los procedimientos previos y elaborando los informes necesarios para el manual de equipo.
+
+e) Se ha elaborado el proyecto de la organización técnica en un supuesto práctico de competición de atletismo de alto rendimiento.
+
+f) Se han analizado las características de la reunión técnica de una competición de atletismo de alto nivel.
+
+g) Se han justificado los criterios de selección de los recursos humanos y materiales en función del evento o competición y del área organizativa en la que se sitúa.
+
+h) Se han seleccionado y justificado los medios y la logística, necesarios en la organización de un evento, en función de los objetivos, de los participantes y de las condiciones existentes.
+
+i) Se han analizado los procedimientos administrativos relativos a la gestión del evento tales como permisos, documentación previa y procedimientos de inscripción.
+
+j) Se han analizado las funciones a desarrollar por la organización y los recursos necesarios en las concentraciones de preparación en atletismo.
+
+k) Se han caracterizado los diferentes tipos de concentraciones de preparación en función del objetivo y del momento de la preparación.
+
+l) Se ha concretado el programa de una concentración de preparación en un supuesto práctico.
+
+3\. Acompaña a deportistas y equipos de atletismo en competiciones, analizando las funciones del jefe de equipo o responsable de área y conoce las normas y procedimientos españoles e internacionales de prevención del dopaje en atletismo.
+
+a) Se han analizado las funciones logísticas y económicas que desempeña un jefe de equipo en una competición de atletismo de alto nivel.
+
+b) Se ha gestionado, en un supuesto práctico de competición de alto nivel, los movimientos espacio-temporales de los atletas y de los entrenadores a su cargo durante su estancia en la competición.
+
+c) Se ha elaborado un plan de distribución de tareas de los entrenadores en un supuesto de competición de atletismo.
+
+d) Se han justificado los criterios de valoración de la viabilidad de una reclamación de carácter técnico.
+
+e) Se han aplicado los procedimientos de reclamación, en un supuesto práctico de sanción a un atleta o equipo en una competición de alto nivel.
+
+f) Se han analizado las diferencias entre las funciones de un jefe de equipo, un delegado técnico y un entrenador, en una competición de alto nivel de atletismo.
+
+g) Se han analizado los procedimientos de control del dopaje específico en atletismo, dentro y fuera del estadio.
+
+h) Se han analizado las diferencias entre la lista de sustancias dopantes y los procedimientos de control del dopaje entre la AMA y la IAAF.
+
+i) Se ha valorado la importancia de que el jefe de equipo adopte una actitud integradora y de comunicación con el grupo.
+
+Contenidos básicos
+
+1\. Dirige y gestiona los medios y equipos de una instalación de atletismo, analizando las características técnicas y las condiciones de uso y de seguridad, aplicando los procedimientos establecidos.
+
+– Normativa sobre instalaciones deportivas y el material fijo y móvil de la instalación:
+
+– Normas NIDE sobre las condiciones reglamentarias y de diseño.
+
+– Normas específicas de la IAAF (Federación Atlética Internacional).
+
+– Medios materiales necesarios para la competición.
+
+– Características reglamentarias: Formas, medidas y peso:
+
+– Superficies y dimensiones.
+
+– Zonas específicas para cada prueba: Círculos, fosos y jaulas.
+
+– Material movible: Vallas, obstáculos, tacos de salida y testigos.
+
+– Medios materiales necesarios para la enseñanza y el entrenamiento.
+
+– Condiciones de uso exclusivo y de seguridad específicas para el atletismo:
+
+– Acotación de zonas de uso exclusivo de los lanzadores.
+
+– Fosos y zonas destinadas para los concursos.
+
+– Pistas para carreras.
+
+– Zonas externas de calentamiento.
+
+– Elementos Organizativos:
+
+– Tipos de estructuras organizativas: Centralizada, descentralizada y funcional.
+
+– Modelo de gestión a aplicar: Personal, organigrama, funciones y presupuesto.
+
+– Plan de utilización: Servicios, usuarios, actividades.
+
+– Plan de mantenimiento: Tareas y periodizaciones.
+
+2\. Diseña y gestiona la estructura organizativa de las competiciones, y concentraciones propios del nivel de tecnificación deportiva, y la dirección técnica de una competición de alto nivel, analizando las características técnicas, enumerando los requisitos administrativos, los medios materiales y humanos necesarios, y aplicando los procedimientos establecidos.
+
+– Las competiciones atléticas:
+
+– Clasificación y tipos de competiciones, y características de las mismas.
+
+– Las instalaciones para la práctica del atletismo.
+
+– El material necesario y su distribución y recogida.
+
+– El programa en función de los objetivos y de los medios.
+
+– Estructura organizativa de una competición:
+
+– Organización previa/proyecto.
+
+– División en áreas, unidades y tareas: (modelo tipo).
+
+– Lista de tareas, temporalización de las mismas y asignación a un área y a una unidad.
+
+– La distribución optima de los recursos humanos, tanto profesionales como voluntarios, en función del área organizativa.
+
+– Permisos y documentación previa.
+
+– Procedimientos de inscripción.
+
+– Presupuesto de ingresos y gastos: (modelo tipo).
+
+– Los Manuales de equipo en campeonatos y competiciones de alto nivel:
+
+– Información general global.
+
+– Información general logística: Visados, viajes, transportes, alojamientos, comidas.
+
+– Información técnica y procedimientos de la competición.
+
+– Protocolo y ceremonias.
+
+– Servicios médicos y seguros.
+
+– Instalaciones y planos.
+
+– La dirección técnica de una competición de alto nivel:
+
+– Diseño de la actividad: Programa-Horario, selección de pruebas, previsión de participantes.
+
+– Reunión técnica:
+
+– Reunión técnica:
+
+– Participantes y acreditaciones.
+
+– Plan de la reunión técnica: Procedimientos, intervenciones, calificaciones y alturas de listones, reclamaciones.
+
+– Secretaría técnica.
+
+– Jurado técnico-Jueces.
+
+– Material necesario y su temporalización.
+
+– Las concentraciones de atletismo:
+
+– Criterios de selección.
+
+– Beneficios y funciones de las concentraciones de atletismo.
+
+– Los tipos de concentración en función de los objetivos y momentos de la preparación.
+
+– La concentración como medio de preparación.
+
+– Estrategias de intervención y apoyo a los deportistas.
+
+– Objetivos, contenidos, medios y métodos a utilizar.
+
+– El programa general.
+
+– Recursos humanos necesarios para la organización y desarrollo de la concentración: Entrenadores y auxiliares.
+
+– Recursos materiales necesarios: Alojamientos y transportes, material de entrenamiento, sala de reuniones.
+
+3\. Acompaña a deportistas y equipos de atletismo en competiciones, analizando las funciones del jefe de equipo o responsable de área y conoce las normas y procedimientos españoles e internacionales de prevención del dopaje en atletismo.
+
+– Funciones como jefe de equipo:
+
+– Documentación especifica/contrato con especificaciones.
+
+– Previsiones de gastos e imprevistos.
+
+– Control de pasaportes, visados, permisos de menores, billetes, etc.
+
+– Viajes y transportes: Facturaciones, equipajes especiales.
+
+– Alojamientos: Horarios y menús.
+
+– Protocolo: Banderines y otros detalles.
+
+– Reclamaciones: Viabilidad, tiempos y procedimientos.
+
+– Funciones como delegado técnico:
+
+– Reuniones técnicas.
+
+– Control de los horarios individualizados: Hotel, transportes, cámara de llamadas, competiciones.
+
+– Reuniones de equipo y con los entrenadores de áreas.
+
+– Funciones como entrenador: Responsable de área y Entrenador personal.
+
+– Normativa específica antidopaje en el atletismo:
+
+– Definición y efectos del dopaje en atletismo.
+
+– Sustancias y métodos prohibidos en atletismo.
+
+– Procedimientos de control: dentro y fuera de la competición, y formularios específicos.
+
+> Se numera como Anexo II.k por el art. 6.2.k) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.l — Módulo de enseñanza deportiva: Proyecto
+
+Código: MED-ATAT307
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Diseña proyectos relacionados con las competencias del técnico deportivo superior en atletismo, fundamentando el proyecto en la información recogida, desarrollando las fases que lo componen y realizando las previsiones de recursos humanos y materiales.
+
+a) Se ha elegido un tema que permite integrar los conocimientos adquiridos en los diferentes bloques y módulos del ciclo superior en atletismo.
+
+b) Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto.
+
+c) Se han identificado las fases o partes que componen el proyecto y sus contenidos.
+
+d) Se han establecido los objetivos que se pretenden conseguir identificando su alcance.
+
+e) Se han valorado los aspectos que pueden facilitar o dificultar el desarrollo del proyecto.
+
+f) Se han previsto y priorizado los recursos materiales y personales necesarios, de acuerdo con los objetivos del proyecto.
+
+g) Se ha realizado el presupuesto económico correspondiente.
+
+h) Se han identificado las posibles fuentes de financiación del proyecto, en base a las necesidades del mismo.
+
+i) Se han identificado los aspectos que se deben controlar y de los que depende la calidad del proyecto.
+
+j) Se ha justificado la pertinencia y viabilidad del proyecto.
+
+k) Se ha valorado el rigor en la recogida de la información utilizada en la elaboración del proyecto.
+
+2\. Planifica y programa la ejecución del proyecto, determinando las fases o ciclos de preparación, la metodología utilizada y los recursos necesarios.
+
+a) Se han secuenciado y temporalizado las actividades ordenándolas en función de las necesidades de implantación del proyecto.
+
+b) Se ha elaborado la planificación del proyecto, periodizando y programando el entrenamiento y los recursos necesarios, cuando el proyecto este dirigido al alto rendimiento deportivo en atletismo.
+
+c) Se han determinado los recursos y la logística necesarios en cada actividad.
+
+d) Se han identificado los permisos y autorizaciones necesarios en cada una de las actividades.
+
+e) Se han determinado los procedimientos de actuación o ejecución de las actividades.
+
+f) Se han identificado los riesgos inherentes al desarrollo de las actividades, definiendo el plan de prevención de riesgos y los medios y equipos necesarios.
+
+g) Se han planificado la asignación de recursos materiales y humanos, y los tiempos de ejecución.
+
+h) Se ha hecho la valoración económica necesaria en la ejecución del proyecto.
+
+i) Se ha definido y elaborado la documentación necesaria en las previsiones y ejecución del proyecto.
+
+j) Se han utilizado de una manera integradora y sinérgica los conceptos y procedimientos adquiridos en los diferentes módulos del ciclo superior en atletismo.
+
+k) Se han tenido en cuenta criterios de sostenibilidad a la hora de elegir las actividades, la metodología y los recursos utilizados en el proyecto.
+
+3\. Selecciona los procedimientos de seguimiento y control de la elaboración y ejecución del proyecto, justificando las funciones dentro del proyecto, la selección de variables e instrumentos empleados.
+
+a) Se ha definido el procedimiento de evaluación de las actividades, utilizando y combinando diferentes instrumentos de evaluación.
+
+b) Se han definido los indicadores de calidad utilizados en la evaluación del proyecto.
+
+c) Se han definido los procedimientos de evaluación de las incidencias que puedan presentarse durante la realización del proyecto, su posible solución y registro.
+
+d) Se ha definido el procedimiento de gestión de los posibles cambios en los recursos, en las actividades o en la dinámica de cargas, en el caso del entrenamiento de alto rendimiento, incluyendo el sistema de registro de los mismos.
+
+e) Se ha definido y elaborado la documentación necesaria en la evaluación de las actividades del proyecto.
+
+f) Se ha establecido el procedimiento de participación en la evaluación de los atletas y se han elaborado los documentos específicos.
+
+g) Se ha establecido un sistema de garantía de cumplimiento del pliego de condiciones del proyecto cuando este exista.
+
+h) Se ha atendido a las consideraciones del tutor/director del proyecto durante la elaboración del mismo.
+
+i) Se ha cumplido con el seguimiento del proyecto según el procedimiento establecido por el tutor/director.
+
+j) Se ha mostrado una actitud de respeto y aceptación de las aportaciones realizadas por el tutor/director, integrando de forma constructiva las valoraciones recibidas en el proyecto.
+
+4\. Presenta el proyecto, seleccionando los aspectos relevantes del mismo, justificando las decisiones tomadas y utilizando los recursos didácticos y técnicos más adecuados en cada caso.
+
+a) Se ha definido y elaborado la documentación necesaria en la presentación y comunicación del proyecto.
+
+b) Se han utilizado los recursos didácticos y técnicos más adecuados para la presentación y comunicación del proyecto, incluyendo las nuevas tecnologías, de forma coherente con los objetivos del proyecto.
+
+c) Se ha presentado el proyecto, de forma clara, sintética, incluyendo los aspectos fundamentales que debía incluir la presentación.
+
+d) Se ha utilizado bibliografía actualizada en la fundamentación del trabajo, referenciándola de forma adecuada.
+
+e) Se ha contestado de forma precisa y justificada a las cuestiones realizadas sobre las características y fundamentación del proyecto.
+
+f) Se ha justificado suficientemente el proyecto y se ha argumentado su implementación.
+
+g) Se ha ajustado en la presentación del proyecto a la estructura definida y establecida en los criterios de evaluación.
+
+h) Se ha presentado el proyecto, ajustándose a las características formales, estructura y apartados establecidos por el tribunal.
+
+i) Se han justificado en la presentación del proyecto, las relaciones existentes entre los diferentes resultados de aprendizaje adquiridos en los diferentes módulos del ciclo superior en atletismo.
+
+j) Se ha demostrado poseer una visión general del proyecto, relacionando la argumentación con la finalidad y las conclusiones del mismo.
+
+> Se numera como Anexo II.l por el art. 6.2.l) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO II.m — Módulo de enseñanza deportiva: Formación práctica
+
+Código: MED-ATAT308
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica la estructura organizativa y el funcionamiento del centro deportivo de prácticas, escuela deportiva, club, federación, empresa…, relacionándola con su oferta de actividades de alto rendimiento deportivo, y las actividades de gestión del mismo.
+
+a) Se han fundamentado las relaciones del centro deportivo de prácticas de la federación deportiva española con la federación internacional de atletismo.
+
+b) Se ha categorizado la estructura organizativa y el funcionamiento de las distintas áreas del centro deportivo de prácticas.
+
+c) Se han clasificado las relaciones jerárquicas dentro del centro deportivo de prácticas.
+
+d) Se ha revisado la oferta de actividades vinculadas al alto rendimiento deportivo.
+
+e) Se han relacionado las características del centro deportivo de prácticas con la normativa de responsabilidad de los técnicos que trabajan en el mismo.
+
+f) Se ha fundamentado la oferta de actividades orientada al alto rendimiento de atletismo en las mujeres.
+
+g) Se han reconocido los valores presentes en las actividades de atletismo del club o entidad deportiva.
+
+h) Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+i) Se ha revisado el plan de actuación de emergencias de las instalaciones del centro deportivo de prácticas.
+
+j) Se ha identificado y analizado el Plan de Prevención de Riesgos Laborales del centro deportivo de prácticas.
+
+k) Se han revisado las condiciones laborales de los técnicos deportivos del centro deportivo de prácticas, en relación con la normativa sobre salud laboral.
+
+2\. Identifica la estructura organizativa y el funcionamiento del centro de formación de técnicos deportivos, relacionándola con su oferta formativa, analizando la normativa de aplicación, aplicando los procedimientos y protocolos de seguridad en la práctica.
+
+a) Se han fundamentado las relaciones del centro de formación de Técnicos de atletismo con la administración educativa correspondiente.
+
+b) Se ha categorizado la estructura organizativa y el funcionamiento del centro de formación de técnicos deportivos.
+
+c) Se han clasificado las relaciones jerárquicas dentro del centro de formación de técnicos deportivos.
+
+d) Se ha revisado la oferta de actividades vinculadas a la formación de Técnicos Deportivos en atletismo.
+
+e) Se han analizado las características del centro de formación de técnicos deportivos, y la normativa sobre la responsabilidad del profesorado.
+
+f) Se ha esquematizado la normativa educativa y curricular vigente sobre formación de técnicos deportivos de atletismo.
+
+g) Se ha colaborado en la organización de las actividades económicas del centro de trabajo.
+
+h) Se han reconocido los valores presentes en las actividades de atletismo del club o entidad deportiva.
+
+i) Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
+
+3\. Colabora en la administración del centro deportivo de prácticas, escuela deportiva, club, federación, empresa, aplicando procedimientos de gestión económica y contable.
+
+a) Se ha colaborado en la organización de las actividades económicas del centro de trabajo.
+
+b) Se ha identificado la forma jurídica utilizada en la constitución del centro deportivo de prácticas, y el grado de responsabilidad legal de los propietarios y gestores.
+
+c) Se ha colaborado en los procedimientos administrativos básicos de gestión del centro deportivo de prácticas.
+
+d) Se han realizado trámites de petición de ayudas a la gestión del centro deportivo de prácticas.
+
+e) Se ha colaborado en la gestión de ayudas económicas que utiliza o puede utilizar el centro deportivo de prácticas.
+
+f) Se ha confeccionado documentación administrativa y comercial necesaria en el desarrollo de la actividad deportiva.
+
+g) Se han identificado las obligaciones y exenciones fiscales y tributarias del centro deportivo de prácticas.
+
+h) Se ha realizado la declaración de impuestos del centro deportivo de prácticas.
+
+i) Se ha tenido una actitud de respeto y cumplimiento de la normativa y los procedimientos de gestión económica del centro deportivo de prácticas.
+
+4\. Actúa con autonomía, iniciativa y responsabilidad en el puesto de trabajo, demostrando comportamiento ético, habilidades personales de comunicación, trabajo en equipo, respeto por el medio ambiente, y aplicando los procedimientos establecidos por la empresa, entidad deportiva, club.
+
+a) Se han identificado los requerimientos actitudinales del puesto de trabajo.
+
+b) Se han interpretado y cumplido las instrucciones recibidas y responsabilizado del trabajo asignado.
+
+c) Se ha demostrado compromiso con el trabajo bien hecho y la calidad del servicio, así como respeto a los procedimientos y principios propios del club o entidad deportiva.
+
+d) Se ha demostrado capacidad de trabajo en equipo y respeto a la jerarquía establecida en el club o entidad deportiva.
+
+e) Se han establecido una comunicación y relación eficaz con el técnico responsable de la actividad y los miembros del equipo, manteniendo un trato fluido y correcto.
+
+g) Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante o imprevista que se presente en la actividad.
+
+g) Se ha demostrado un comportamiento ético con los atletas y los adversarios, en especial en presencia de los medios de comunicación.
+
+5\. Organiza y gestiona competiciones y eventos propios del nivel de la iniciación y la tecnificación deportiva, y colabora en los de alto rendimiento, participando en la gestión y diseño de la competición, aplicando criterios de sostenibilidad.
+
+a) Se ha propuesto la estructura y las funciones que se deben desempeñar en la organización de una competición o evento deportivo de tecnificación en atletismo.
+
+b) Se han definido y aplicado los criterios de sostenibilidad en la organización de una competición o evento deportivo de tecnificación en atletismo.
+
+c) Se han localizado y gestionado las posibles ayudas a la esponsorización del deporte femenino en la modalidad de atletismo.
+
+d) Se ha gestionado la financiación de la organización de una competición o evento deportivo de tecnificación en atletismo.
+
+e) Se ha realizado la gestión y difusión de los resultados de una competición o evento deportivo de tecnificación o alto rendimiento en atletismo.
+
+f) Se ha participado en la gestión de personal y medios materiales de las diferentes áreas o comités de la organización de una competición o evento de tecnificación o alto rendimiento en atletismo.
+
+g) Se ha colaborado en la organización y realización de actos protocolarios de apertura, entrega y clausura de una competición o evento deportivo de tecnificación o alto rendimiento en atletismo.
+
+h) Se han tomado las medidas de seguridad y de atención a las emergencias en la organización de una competición o evento deportivo de tecnificación en atletismo.
+
+i) Se ha actuado de manera flexible y adaptable a las circunstancias en la organización de la competición, respetando los protocolos y directrices establecidas.
+
+j) Se han definido los equipos, instalaciones y materiales utilizados en el desarrollo de competiciones y entrenamientos de alto nivel en una instalación de atletismo.
+
+k) Se ha elaborado la información que debe darse al usuario de una instalación de atletismo de alto nivel, respecto del uso de las pistas, fosos y círculos de lanzamientos y de la petición y uso del material.
+
+6\. Orienta, organiza, acompaña y dirige a los atletas y otros entrenadores de alto nivel en su participación en actividades, competiciones y otros eventos internacionales en atletismo, y aplicando la normativa relacionada.
+
+a) Se ha informado a los atletas de alto nivel de la normativa que les afecta y los programas de ayuda que existen a nivel nacional y autonómico.
+
+b) Se ha orientado a los atletas de alto nivel sobre las salidas profesionales de su actividad deportiva, y de la importancia de mantener una formación académica o profesional paralelas a la vida deportiva.
+
+c) Se ha revisado e informado a los atletas de la normativa antidopaje de aplicación en las competiciones internacionales o de alto nivel en las que se participa.
+
+d) Se ha realizado la inscripción del atleta o grupo de atletas en una competición internacional o de alto nivel en atletismo, de acuerdo con los protocolos y normas establecidos.
+
+e) Se han realizado las operaciones de gestión del seguro de accidente y actividad de un grupo de atletismo que participan en una competición internacional o de alto nivel, de acuerdo con las instrucciones y normas recibidas.
+
+f) Se ha justificado la responsabilidad de un técnico en los desplazamientos de los atletas para asistir a una competición internacional o de alto nivel.
+
+g) Se ha elaborado el plan de viaje de un atleta o grupo de atletas para su participación en una competición internacional o de alto nivel, aplicando las instrucciones y procedimientos establecidos.
+
+h) Se ha informado de las características de la competición internacional o de alto nivel y acompañado al atleta interpretando la documentación sobre la misma.
+
+i) Se han trasladado al atleta las instrucciones técnicas y tácticas para la competición internacional o de alto nivel, teniendo en cuenta las características de la competición y del atleta.
+
+j) Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición internacional o de alto nivel en atletismo, aplicando los procedimientos adecuados y respetando las normas de la misma.
+
+k) Se han aplicado criterios de valoración de la ejecución técnico-táctica del atleta, utilizando técnicas y procedimientos de observación adecuadas al alto nivel.
+
+l) Se han aplicado procedimientos de reclamación en una competición nacional, internacional, o de alto nivel en atletismo, utilizando el idioma adecuado, aplicando los protocolos y normas establecidas.
+
+m) Se ha elaborado un plan de distribución de tareas de los entrenadores en una competición de atletismo de alto nivel.
+
+n) Se ha elaborado el cuadro de desplazamientos y funciones de los atletas y entrenadores durante la participación en una actividad de alto nivel.
+
+7\. Colabora en la dirección de atletas y equipos durante la participación en competiciones internacionales o de alto nivel de atletismo, valorando las posibles situaciones tácticas de atletas o equipos y de sus contrincantes, las decisiones arbitrales, las características del entorno, y aplicando procedimientos establecidos.
+
+a) Se ha evaluado la influencia de las condiciones ambientales y del entorno de la competición de alto nivel en atletismo.
+
+b) Se ha colaborado en la dirección del atleta o el equipo en competiciones de alto rendimiento, utilizando diferentes estrategias de manera eficaz y teniendo en cuenta las características del contrincante y del entorno.
+
+c) Se ha utilizado el reglamento en la elección y aplicación de estrategias de dirección del atleta o el equipo en la competición de alto nivel.
+
+d) Se ha colaborado en la evaluación de la ejecución técnico-táctica del atleta y de sus contrincantes en la competición de alto nivel, utilizando técnicas y procedimientos de observación adecuados.
+
+e) Se ha colaborado en la realización de reclamaciones en una competición internacional o de alto nivel de atletismo, aplicando los protocolos y normas establecidos.
+
+f) Se ha valorado la importancia de la utilización de una estrategia de dirección de deportistas o equipos acorde con la normativa, las características del entorno de competición y las tendencias arbitrales en la alta competición.
+
+g) Se han colaborado en la coordinación de las actividades de los diferentes miembros del equipo técnico antes, durante y después de las competiciones de alto nivel en atletismo.
+
+h) Se ha demostrado empatía y generado credibilidad en el equipo durante la dirección en competiciones de alto nivel de atletismo.
+
+8\. Planifica el entrenamiento a largo, medio y corto plazo de los atletas, interpretando la información del deportista y del entorno, coordinando el equipo de especialistas, y aplicando los modelos, procedimientos y técnicas más adecuados en cada uno de los tres grupos de especialidades.
+
+a) Se ha colaborado en la elaboración del programa de identificación y selección de talentos deportivos en atletismo del centro deportivo de prácticas.
+
+b) Se han aplicado criterios de identificación y selección de talentos deportivos en atletismo, en el centro deportivo de prácticas.
+
+c) Se ha seleccionado e interpretado la información del atleta del centro deportivo de prácticas y de su entorno, necesaria en la elaboración de la programación a largo plazo.
+
+d) Se ha elaborado la planificación de un ciclo de preparación completa del atleta, de acuerdo con los modelos utilizados en el centro deportivo de prácticas e identificando las dinámicas de carga de los diferentes factores de rendimiento deportivo en atletismo.
+
+e) Se han aplicado instrumentos de valoración de la condición física o condicional del atleta de alto nivel, interpretando y, en su caso, tratando la información resultante.
+
+f) Se han elaborado y aplicado instrumentos de registro del comportamiento técnico-táctico en entrenamiento y competición del atleta de alto nivel, interpretando y, en su caso, tratando la información resultante.
+
+g) Se han aplicado instrumentos de valoración del perfil psicológico del atleta y de su comportamiento durante la competición, interpretando y, en su caso, tratando la información resultante.
+
+h) Se ha elaborado la programación de un periodo de preparación completa de los diferentes factores de rendimiento (condicionales, técnicos, psicológicos, etc.) de atletismo, de acuerdo con la planificación del centro de prácticas y los objetivos y características del atleta.
+
+i) Se ha elaborado el programa de una concentración de preparación, adaptándola a las necesidades específicas de los atletas y del centro de formación práctica.
+
+j) Se ha registrado, cuantificado y procesado la información sobre la carga de entrenamiento de un atleta del centro deportivo de prácticas.
+
+k) Se han asignado objetivos y medios de trabajo al equipo de técnicos especialistas en ciencias aplicadas al deporte, dentro de la planificación y programación del entrenamiento del atleta.
+
+l) Se han incorporado las aportaciones de los técnicos especialistas en ciencias aplicadas al deporte en la planificación y programación del entrenamiento del atleta.
+
+m) Se ha mostrado una actitud de rigor y objetividad en la aplicación de los instrumentos de valoración utilizados.
+
+9\. Organiza y dirige el entrenamiento y las concentraciones de preparación de los atletas en cada uno de los tres grupos de especialidades, coordinando equipos de técnicos especialistas, aplicando los medios y métodos específicos de entrenamiento de cada uno de los factores de rendimiento en atletismo, y aplicando implementación tecnológica al registro del entrenamiento y la competición.
+
+a) Se ha generado credibilidad en el equipo de técnicos especialistas que colaboran con el técnico en el centro deportivo de prácticas.
+
+b) Se gestionado el equipo de técnicos especialistas, demostrando liderazgo y potenciando la comunicación entre el equipo del centro deportivo de prácticas y el técnico.
+
+c) Se han aplicado medios y métodos de entrenamiento de los factores de rendimiento, y elegido las tareas de acuerdo con la programación del centro deportivo de prácticas.
+
+d) Se ha dirigido la sesión teniendo en cuenta la variedad e integración de los diferentes medios y métodos de entrenamiento, de acuerdo con la programación del centro deportivo de prácticas.
+
+e) Se han identificado y solucionado las contingencias que hayan surgido durante la sesión de entrenamiento del atleta.
+
+f) Se ha adaptado el trabajo de la sesión a las condiciones reales del atleta.
+
+g) Se han tenido en cuenta las lesiones más frecuentes en atletismo y sus medidas preventivas, en la dirección de la sesión de entrenamiento.
+
+h) Se han elaborado y aplicado instrumentos de registro audiovisual del comportamiento técnico-táctico: en entrenamiento y competición, del atleta de alto nivel, interpretando y, en su caso, editando los registros realizados.
+
+i) Se han utilizado durante la sesión de entrenamiento del atleta los registros audiovisuales del entrenamiento o la competición.
+
+j) Se ha colaborado en la organización y dirección de una concentración de preparación, seleccionando los medios y la logística adecuados a la situación del centro deportivo de prácticas.
+
+k) Se ha mantenido una actitud motivadora y empática con el atleta durante la dirección de la concentración de preparación o la sesión de entrenamiento.
+
+10\. Colabora en el establecimiento de las ayudas ergogénicas y de los planes de trabajo complementario del atleta lesionado, aplicando los medios, métodos y procedimientos establecidos.
+
+a) Se ha programado el trabajo complementario de un atleta lesionado, teniendo en cuenta la programación del centro deportivo de prácticas.
+
+b) Se ha valorado las pautas alimentarias de los atletas del centro deportivo de prácticas.
+
+c) Se han propuestos medidas de formación sobre alimentación deportiva a los atletas del centro deportivo de prácticas.
+
+d) Se ha identificado las manifestaciones de fatiga durante el entrenamiento y la competición del atleta del centro deportivo de prácticas.
+
+e) Se han propuesto y aplicado medidas de recuperación de la fatiga de acuerdo con las posibilidades del centro deportivo de prácticas.
+
+f) Se ha colaborado en la prescripción y administración de ayudas ergogénicas en atletas del centro deportivo de prácticas.
+
+g) Se ha informado al atleta de los riesgos y consecuencias en la salud, del uso de sustancias dopantes.
+
+h) Se ha mostrado una actitud de juego limpio y respeto por la salud del atleta en especial en lo referido al uso de sustancias dopantes.
+
+11\. Participa en la formación de técnicos deportivos, revisando la organización académica y curricular del centro, impartiendo clases y colaborando en la tutorización de los módulos de formación práctica y proyecto final.
+
+a) Se han identificado el tipo de centro docente de prácticas, el tipo de vinculación con la administración y la normativa que le es de aplicación a efectos de organización y funcionamiento.
+
+b) Se han identificado las responsabilidades del profesor especialista en atletismo y del técnico deportivo superior en atletismo en la formación de los técnicos en la modalidad.
+
+c) Se han concretado los elementos de la programación didáctica de un módulo del Bloque Específico, atendiendo a su normativa de ordenación, a las características del alumnado, y el contexto del centro docente de prácticas.
+
+d) Se ha diseñado y colaborado en la realización de una presentación de tareas y contenidos, atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características de los alumnos del centro docente de prácticas.
+
+e) Se ha colaborado en el diseño y dirección de una sesión de trabajo práctico o procedimental, atendiendo a las características del módulo específico y del resultado de aprendizaje a desarrollar, teniendo en cuenta las características de los alumnos del centro docente de prácticas.
+
+f) Se ha participado en el proceso de evaluación de los alumnos del centro docente de prácticas.
+
+g) Se han tenido en cuenta la aplicación efectiva del principio de Igualdad de Oportunidades entre mujeres y hombres a la hora de seleccionar los recursos didácticos en la docencia del módulo específico de enseñanzas deportivas en atletismo.
+
+h) Se han previsto y preparado de antemano recursos didácticos alternativos frente a posibles incidencias, incluyendo la atención a personas con discapacidad, en la dirección de la sesión del módulo específico de enseñanzas deportivas en atletismo.
+
+i) Se han identificado las condiciones de seguimiento y tutorización de los distintos módulos del bloque específico de los ciclos inicial y final de grado medio en atletismo, presenciales y a distancia, establecidos en el centro docente de prácticas.
+
+j) Se ha participado en el establecimiento de contactos y convenios con las entidades colaboradoras en el módulo de formación práctica en el centro docente de prácticas.
+
+k) Se han utilizado aplicaciones informáticas específicas en supuestos de gestión y seguimiento del módulo de formación práctica en el centro docente de prácticas.
+
+l) Se ha colaborado en la elaboración de informes de evaluación del módulo de formación práctica
+
+m) Se participado en el asesoramiento y control de entrevistas y tutorías personalizadas en la dirección de Proyectos dentro del centro docente de prácticas.
+
+> Se numera como Anexo II.m por el art. 6.2.m) del Real Decreto 535/2026, de 30 de junio. [Ref. BOE-A-2026-14333](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14333)
+
+> Anteriormente estaba integrado en el Anexo II.
+
+## ANEXO III — Ratio profesor/alumno
+
+| Bloque específico ciclo de grado superior | Ratio profesor/alumno |
+|---|---|
+| MED-ATAT301 Técnica y entrenamiento en velocidad, relevos y vallas. | 1/30 |
+| MED-ATAT302 Técnica y entrenamiento en medio fondo, fondo y obstáculos. | 1/30 |
+| MED-ATAT303 Técnica y entrenamiento en lanzamientos y pruebas combinadas. | 1/30 |
+| MED-ATAT304 Técnica y entrenamiento en saltos. | 1/30 |
+| MED-ATAT305 Planificación técnica y condicional en atletismo. | 1/30 |
+| MED-ATAT306 Organización y gestión en atletismo. | 1/30 |
+| MED-ATAT307 Proyecto. | 1/10 |
+
+## ANEXO IV — Acceso módulo formación práctica
+
+| Acceso módulo formación práctica | Módulos a superar |
+|---|---|
+| MED-ATAT308 Formación práctica. | Del bloque común.<br>• MED-C301. Factores fisiológicos del alto rendimiento.<br>• MED-C303. Formación de formadores deportivos.<br>Del bloque específico.<br>• MED-ATAT301 Técnica y entrenamiento en velocidad, relevos y vallas.<br>• MED-ATAT302 Técnica y entrenamiento en medio fondo, fondo y obstáculos.<br>• MED-ATAT303 Técnica y entrenamiento en lanzamientos y pruebas combinadas.<br>• MED-ATAT304 Técnica y entrenamiento en saltos.<br>• MED-ATAT305 Planificación técnica y condicional en atletismo. |
+
+## ANEXO V — Espacios y equipamientos mínimos del ciclo de grado superior
+
+Espacios: Ciclo de grado superior
+
+| Espacio formativo | Superficie m<sup>2</sup><br>30 alumnos | Superficie m<sup>2</sup><br>20 alumnos | Módulo de enseñanza deportiva |
+|---|---|---|---|
+| Aula polivalente. | 60 | 40 | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
+| Gimnasio. | 120 | 90 | Módulos de enseñanza deportiva del bloque común.<br>MED-ATAT305 Planificación técnica y condicional en atletismo. |
+
+| Espacio formativo | Módulo de enseñanza deportiva |
+|---|---|
+| Pista de atletismo de al menos 300 metros de cuerda. | MED-ATAT301 Técnica y entrenamiento en velocidad, relevos y vallas.<br>MED-ATAT302 Técnica y entrenamiento en medio fondo, fondo y obstáculos.<br>MED-ATAT303 Técnica y entrenamiento en lanzamientos y pruebas combinadas.<br>MED-ATAT304 Técnica y entrenamiento en saltos. |
+
+Equipamientos: Ciclo de grado superior
+
+| Equipamiento del aula polivalente | Módulo de enseñanza deportiva |
+|---|---|
+| • Equipos audiovisuales. Cañón de proyección.<br>• PCs instalados en red con conexión a Internet.<br>• Software específico. | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
+
+| Equipamiento del gimnasio | Módulo de enseñanza deportiva |
+|---|---|
+| • Balones medicinales (3 kg, 4 kg, 5 kg).<br>• Colchonetas.<br>• Mancuernas de diferentes pesos.<br>• Barras de levantamientos.<br>• Discos (diversos pesos).<br>• Bancos para ejercicios de musculación: horizontal, inclinado y/o reclinable.<br>• Balones inflables 65 cm.<br>• Gomas elásticas.<br>• Espalderas.<br>• Bancos suecos. | Módulos de enseñanza deportiva del bloque común.<br>MED-ATAT305 Planificación técnica y condicional en atletismo. |
+
+| Equipamiento pista de atletismo | Módulo de enseñanza deportiva |
+|---|---|
+| • Foso y equipamiento reglamentarios de salto de altura.<br>• Foso y equipamiento reglamentarios de salto de longitud y triple salto.<br>• Foso y equipamiento reglamentarios de salto con pértiga.<br>• Círculo, zona y equipamiento reglamentarios de lanzamiento de peso.<br>• Círculo, zona y equipamiento reglamentarios de lanzamiento de disco.<br>• Círculo, zona y equipamiento reglamentarios de lanzamiento de martillo.<br>• Zona y equipamiento reglamentarios de lanzamiento de jabalina.<br>• Jaulas protectoras reglamentarias para los círculos de lanzamiento.<br>• Material reglamentario de cada especialidad. | MED-ATAT301 Técnica y entrenamiento en velocidad, relevos y vallas.<br>MED-ATAT302 Técnica y entrenamiento en medio fondo, fondo y obstáculos.<br>MED-ATAT303 Técnica y entrenamiento en lanzamientos y pruebas combinadas.<br>MED-ATAT304 Técnica y entrenamiento en saltos. |
+
+## ANEXO VI — Requisitos de titulación del profesorado de los módulos del bloque común del ciclo de grado superior, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad que a continuación se detalla:
+
+| Módulo de enseñanza deportiva<br>Ciclo de grado superior | Especialidad | Cuerpo |
+|---|---|---|
+| MED-C301 Factores fisiológicos del alto rendimiento.<br>MED-C302 Factores psicosociales del alto rendimiento.<br>MED-C303 Formación de formadores deportivos. | • Educación física. | • Catedráticos de Enseñanza Secundaria.<br>• Profesores de Enseñanza Secundaria. |
+| MED-C304 Organización y gestión aplicada al alto rendimiento. | • Educación física.<br>• Formación y organización laboral. | • Catedráticos de Enseñanza Secundaria.<br>• Profesores de Enseñanza Secundaria. |
+
+## ANEXO VII-A — Requisitos de titulación del profesorado de los módulos del bloque específico de ciclo de grado superior, en centros públicos de la Administración educativa
+
+Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
+
+| Módulo de enseñanza deportiva<br>Ciclo de grado superior | Especialidad | Cuerpo |
+|---|---|---|
+| MED-ATAT301 Técnica y entrenamiento en velocidad, relevos y vallas.<br>MED-ATAT302 Técnica y entrenamiento en medio fondo, fondo y obstáculos. | • Educación Física con el título de Técnico Deportivo Superior en Atletismo. | • Catedráticos de Enseñanza Secundaria<br>• Profesores de Enseñanza Secundaria |
+| MED-ATAT303 Técnica y entrenamiento en lanzamientos y pruebas combinadas.<br>MED-ATAT304 Técnica y entrenamiento en saltos.<br>MED-ATAT305 Planificación técnica y condicional en atletismo.<br>MED-ATAT306 Organización y gestión en atletismo.<br>MED-ATAT307 Proyecto.<br>MED-ATAT308 Formación práctica. | • Profesor especialista |  |
+
+## ANEXO VII-B — Condición de Profesor especialista en centros públicos de la Administración educativa: Acreditación de experiencia docente, o actividad en el ámbito deportivo y laboral
+
+Ciclo de grado superior
+
+| Módulos de enseñanza deportiva | Experiencia docente acreditable | Actividad en el ámbito deportivo y laboral |
+|---|---|---|
+| MED-ATAT301 Técnica y entrenamiento en velocidad, relevos y vallas.<br>MED-ATAT302 Técnica y entrenamiento en medio fondo, fondo y obstáculos.<br>MED-ATAT303 Técnica y entrenamiento en lanzamientos y pruebas combinadas.<br>MED-ATAT304 Técnica y entrenamiento en saltos.<br>MED-ATAT305 Planificación técnica y condicional en atletismo.<br>MED-ATAT306 Organización y gestión en atletismo.<br>MED-ATAT307 Proyecto. | Al menos 100 horas de docencia acreditada en formación de entrenadores en el nivel 3 de atletismo en las formaciones a las que se refiere la disposición adicional quinta y la disposición transitoria primera y del Real Decreto 1363/2007, de 24 de octubre, así como de la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre. | Al menos 2 años de ejercicio deportivo laboral relacionado con las competencias profesionales del ciclo superior, realizado en los 4 años inmediatamente anteriores al nombramiento. |
+
+En el caso de las formación a las que se refiere la adicional quinta del Real Decreto 1363/2007, de 24 de octubre, la Real Federación Española de Atletismo, emitirá la correspondiente certificación de la experiencia docente en la que conste: las materias impartidas, el número de horas impartidas, la fecha del curso en el que se impartió la materia o materias, y la fecha de la resolución de reconocimiento de la formación por parte del Consejo Superior de Deportes junto con la fecha de publicación en el «Boletín Oficial del Estado».
+
+En el caso de las formaciones a las que se refiere la disposición transitoria primera de los Reales Decretos 1913/1997, de 19 de diciembre, y 1363/2007, de 24 de octubre, el órgano competente de la comunidad autónoma que autorizó las formaciones emitirá la correspondiente certificación de la experiencia docente en la que consten las materias y el número de horas impartidas.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+La Real Federación Española de Atletismo emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+## ANEXO VIII — Requisitos de titulación del profesorado en centros privados y de titularidad pública de administraciones distintas a la educativa
+
+Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
+
+| Módulo comunes de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED-C301 Factores fisiológicos del alto rendimiento. | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>• Licenciado o Graduado en Medicina. |
+| MED-C302 Factores psicosociales del alto rendimiento. | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>• Licenciado o Graduado en Psicología. |
+| MED-C303 Formación de formadores deportivos. | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
+| MED-C304 Organización y gestión aplicada al alto rendimiento. | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.<br>• Licenciado o Graduado en Derecho. |
+
+| Módulo específico de enseñanza deportiva | Titulaciones |
+|---|---|
+| MED-ATAT301 Técnica y entrenamiento en velocidad, relevos y vallas.<br>MED-ATAT302 Técnica y entrenamiento en medio fondo, fondo y obstáculos.<br>MED-ATAT303 Técnica y entrenamiento en lanzamientos y pruebas combinadas.<br>MED-ATAT304 Técnica y entrenamiento en saltos.<br>MED-ATAT305 Planificación técnica y condicional en atletismo.<br>MED-ATAT306 Organización y gestión en atletismo.<br>MED-ATAT307 Proyecto.<br>MED-ATAT308 Formación práctica. | Técnico Deportivo Superior en Atletismo. |
+
+## ANEXO IX — Convalidaciones entre módulos de enseñanza deportiva establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, y los módulos de enseñanza deportiva del bloque específico del Técnico Deportivo Superior en Atletismo
+
+| Módulos superados del título de Técnico Deportivo Superior en Atletismo LOGSE (Real Decreto 254/2004, de 13 de febrero). | Módulos convalidados del ciclo de grado superior en atletismo |
+|---|---|
+| Optimación de la técnica y del entrenamiento de las carreras de velocidad y de relevos.<br>Optimación de la técnica y del entrenamiento de las carreras de vallas. | MED-ATAT301 Técnica y entrenamiento en velocidad, relevos y vallas. |
+| Optimación de la técnica y del entrenamiento de las carreras de medio fondo, fondo y obstáculos.<br>Optimación de la técnica y del entrenamiento de la marcha. | MED-ATAT302 Técnica y entrenamiento en medio fondo, fondo y obstáculos. |
+| Metodología de las técnicas y optimación del entrenamiento de las pruebas combinadas.<br>Optimación de la técnica y del entrenamiento del lanzamiento del disco.<br>Optimación de la técnica y del entrenamiento del lanzamiento de jabalina.<br>Optimación de la técnica y del entrenamiento del lanzamiento del martillo.<br>Optimación de la técnica y del entrenamiento del lanzamiento de peso. | MED-ATAT303 Técnica y entrenamiento en lanzamientos y pruebas combinadas. |
+| Optimación de la técnica y del entrenamiento del salto de altura.<br>Optimación de la técnica y del entrenamiento del salto de longitud y triple salto.<br>Optimación de la técnica y el entrenamiento del salto de pértiga. | MED-ATAT304 Técnica y entrenamiento en saltos. |
+
+## ANEXO X — Exención total o parcial del módulo de formación práctica del ciclo de grado superior
+
+| MED-ATAT308 Formación práctica | Experiencia en el ámbito laboral o deportivo |
+|---|---|
+| Exención total.<br>Exención parcial. | Duración: Superior a 400 horas.<br>Actividad desarrollada: Experiencia relacionada con la competencia general del ciclo de grado superior en Atletismo, y los resultados de aprendizaje del módulo de formación práctica.<br>Periodo de tiempo que ha desarrollado la actividad: Dos años anteriores a la finalización del curso. |
+
+La exención parcial del módulo de formación práctica, se concederá para aquellos resultados de aprendizaje del módulo, que sean concordantes con la experiencia laboral o deportiva acreditada.
+
+La exención total del módulo de formación práctica, se podrá conceder cuando exista una completa concordancia de la experiencia laboral o deportiva acreditada con la totalidad de los resultados de aprendizaje del correspondiente módulo.
+
+La Real Federación Española de Atletismo emitirá la correspondiente certificación de la experiencia deportiva en la que conste la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad.
+
+La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
+
+## ANEXO XI — Formación a distancia
+
+<table class="tabla" data-vertical-align="top">
+<caption>
+<p class="centro_cursiva">Grado superior</p>
+</caption>
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="4">Módulos bloque común.</td>
+<td class="cuerpo_tabla_izq">MED-C301 Factores fisiológicos del alto rendimiento</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C302 Factores psicosociales del alto rendimiento.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C303 Formación de formadores deportivos.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-C304 Organización y gestión aplicada al alto rendimiento.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq" rowspan="3">Módulos bloque específico.</td>
+<td class="cuerpo_tabla_izq">MED-ATAT305 Planificación técnica y condicional en atletismo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-ATAT306 Organización y gestión en atletismo.</td>
+</tr>
+<tr>
+<td class="cuerpo_tabla_izq">MED-ATAT307 Proyecto.</td>
+</tr>
+</tbody>
+</table>

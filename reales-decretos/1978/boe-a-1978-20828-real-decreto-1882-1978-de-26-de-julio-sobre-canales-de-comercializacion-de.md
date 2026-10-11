@@ -1,0 +1,189 @@
+---
+title: "Real Decreto 1882/1978, de 26 de julio, sobre canales de comercialización de productos agropecuarios y pesqueros para la alimentación"
+identifier: "BOE-A-1978-20828"
+eli: "https://www.boe.es/eli/es/rd/1978/07/26/1882"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 1978-07-26
+published: 1978-08-11
+in_force_from: 1978-09-01
+last_amended: 2010-03-13
+consolidated: 2026-06-26
+gazette: "Boletín Oficial del Estado núm. 191"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-20828"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1882/1978, de 26 de julio, sobre canales de comercialización de productos agropecuarios y pesqueros para la alimentación
+
+Incluye la corrección de errores publicada en BOE núm. 247 de 16 de octubre de 1978. [Ref. BOE-A-1978-25737](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-25737)
+
+La adecuada modernización de las estructuras comerciales exige mejorar la comercialización de productos agrarios y pesqueros en origen, facilitar la presencia de los productores en los mercados centrales, así como el establecer canales directos con el escalón detallista y las cooperativas de consumo. Asimismo se plantea la conveniencia de mejorar la infraestructura física y de actualizar las normas a que está sometido el funcionamiento de los mercados centrales, con objeto de elevar el nivel de competencia en la comercialización de los productos perecederos.
+
+Para ello es preciso favorecer la relación comercial directa entre los productores y sus asociaciones con los detallistas y los consumidores y sus asociaciones respectivas. Igualmente es preciso eliminar los obstáculos legales a la comercialización directa, relacionados con la normativa en materia de inspección y vigilancia, dentro de las necesarias garantías sanitarias y de salubridad.
+
+Los aspectos ya regulados por las disposiciones precedentes sobre los llamados canales alternativos y sobre mercados centrales requieren ser complementados y actualizada su normativa, a la vez que se hace necesaria una mayor coordinación entre definiciones por las que se rige uno y otro tipo de circuitos comerciales.
+
+En su virtud, a propuesta de los Ministros de Interior, de Agricultura y de Comercio y Turismo, y previa deliberación del Consejo de Ministros en su reunión del día veintiséis de julio de mil novecientos setenta y ocho,
+
+DISPONGO:
+
+## CAPÍTULO I — De los canales alternativos
+
+### Artículo primero.
+
+Las operaciones de comercio al por mayor de productos alimenticios perecederos para el abastecimiento de las poblaciones, se realizará a través de los mercados mayoristas y de los canales alternativos de comercialización en las condiciones establecidas en el presente Real Decreto.
+
+### Artículo segundo.
+
+a) Los productos alimenticios perecederos que cumplan alguna de las condiciones que a continuación se detallan quedan exceptuados de la obligación del paso por los mercados centrales:
+
+Uno. Que procediendo de la zona productora estén tipificados en origen o vayan a serlo en destino.
+
+Dos. Cuando sean adquiridos por centrales de distribución, que cumplan lo establecido en este Real Decreto, para su posterior tipificación y comercialización.
+
+Tres. Que sean vendidos directamente por los productores o sus asociaciones a los detallistas y a los consumidores o sus asociaciones respectivas, de acuerdo con lo dispuesto en el artículo tercero.
+
+Cuatro. Que sean adquiridos directamente a productores, Entidades asociativas agrarias o pesqueras o mercados en origen, en las zonas de producción, por los consumidores, detallistas o sus asociaciones.
+
+b) Los artículos alimenticios que circulan por cualquiera de los canales previstos en el apartado anterior deberán acompañarse de una declaración efectuada por el remitente o, en su caso, por el transportista para su entrega al destinatario, que deberá exhibirse cuando sea requerido para ello.
+
+### Artículo tercero.
+
+La tipificación y envasado de los productos comercializados deberán someterse a las normas establecidas y, en caso de no existir éstas, a las usuales en el comercio.
+
+### Artículo cuarto.
+
+A los efectos de facilitar lo establecido en el número tres del artículo segundo, los Ayuntamientos señalarán en los mercados de barrio los espacios destinados a los productores o sus agrupaciones. En el caso de que ello no fuera posible, los Ayuntamientos señalarán, al mismo efecto, locales cercanos o espacios libres delimitados en su proximidad.
+
+En el supuesto de que no existan mercados, los Ayuntamientos y con la misma finalidad, señalarán asimismo locales o espacios para la venta directa del productor al consumidor.
+
+### Artículo quinto.
+
+Las inspecciones sanitarias, el reconocimiento de mercancías, así como el control de pesos y medidas, serán realizados por los servicios competentes en cada caso, en los lugares de venta correspondientes a cada circuito o forma de comercio.
+
+### Artículo sexto.
+
+Uno. Las centrales de distribución, a que se refiere el artículo primero del Decreto 3624/1974, de 20 de diciembre, por el que se establecen canales de comercialización complementarios y directos para los productos alimenticios en desarrollo del Decreto-ley 6/1974, podrán comercializar toda clase de artículos o productos y podrán simultanear la comercialización de más de un grupo de productos sean o no perecederos.
+
+Dos. Dichas Centrales, cuando comercialicen productos alimenticios perecederos en fresco, refrigerados o congelados, deberán como mínimo alcanzar anualmente las siguientes cantidades:
+
+a) De frutas, hortalizas y patatas: cuatro mil toneladas anuales.
+
+b) De carnes en las variedades de vacuno, porcino, ovino y aves: mil toneladas anuales.
+
+c) Pescados: Seiscientas toneladas anuales.
+
+En las Centrales que simultaneen la comercialización de más de un grupo de productos perecederos, el mínimo que deberá cumplir se entenderá reducido a las dos terceras partes de cada una de las cantidades citadas anteriormente. Excepcionalmente y en poblaciones menores de cincuental mil habitantes, se podrán considerar Centrales con menor tonelaje.
+
+> Se modifica el apartado 1 por el art. 1.1 del Real Decreto 200/2010, de 26 de febrero. [Ref. BOE-A-2010-4174](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4174)
+
+### Artículo séptimo.
+
+Los beneficios establecidos por el Real Decreto 2321/1976, de 30 de julio, sobre ayudas para la implantación o mejoras de redes integradas de comercialización de origen a destino de productos alimenticios, se extenderán a toda clase de centrales de distribución, además de a las promovidas por entidades asociativas agrarias, industriales agrarios, asociaciones o agrupaciones de comerciantes o consumidores.
+
+> Se modifica por el art. 1.2 del Real Decreto 200/2010, de 26 de febrero. [Ref. BOE-A-2010-4174](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4174)
+
+### Artículo octavo.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 1.3 del Real Decreto 200/2010, de 26 de febrero. [Ref. BOE-A-2010-4174](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4174)
+
+> Redactado conforme a la la corrección de errores publicada en BOE núm. 247 de 16 de octubre de 1978. [Ref. BOE-A-1978-25737](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-25737)
+
+### Artículo noveno.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 1.4 del Real Decreto 200/2010, de 26 de febrero. [Ref. BOE-A-2010-4174](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4174)
+
+## CAPÍTULO II — De los mercados mayoristas
+
+### Artículo décimo.
+
+Las normas establecidas en el presente Capítulo serán de aplicación a los mercados mayoristas en centros de consumo para el abastecimiento de productos alimenticios a las poblaciones construidas con posterioridad a la entrada en vigor del Decreto mil quinientos sesenta/mil novecientos setenta, de cuatro de junio, así como a los que desde dicha fecha hayan sido ampliados, traslados o modificados sustancialmente.
+
+> Redactado conforme a la la corrección de errores publicada en BOE núm. 247 de 16 de octubre de 1978. [Ref. BOE-A-1978-25737](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-25737)
+
+### Artículo once.
+
+Uno. Los mercados mayoristas deberán contar con los servicios y las instalaciones comerciales precisas para el desenvolvimiento de su actividad en régimen de libre competencia.
+
+Dos. Dispondrán también de las instalaciones necesarias para el intercambio de información comercial.
+
+### Artículo doce.
+
+Uno. En cada mercado mayorista existirán espacios libres a disposición de la Administración y Empresas Públicas, los cuales también podrán ser utilizados como puestos reguladores, en caso de necesidad.
+
+Dos. En las Unidades Alimentarias o en los mercados mayoristas se asegurará a los productores de los sectores agrario y pesquero y a sus organizaciones, espacio suficiente para la venta de sus productos.
+
+### Artículo trece.
+
+Los mercados mayoristas a los que se aplican las normas establecidas en el presente real decreto de acuerdo con el artículo décimo se regirán, cualquiera que sea su modo de gestión, teniendo en cuenta el respeto a la protección de los consumidores y a la salud pública.
+
+En los mercados gestionados mediante empresa mixta municipal, las tarifas deberán cubrir el costo del servicio asegurando su total financiación.
+
+Los recursos que se obtengan en la explotación de los mercados se aplicarán a su sostenimiento y a mejorar sus condiciones de comercialización.
+
+> Se modifica por el art. 1.5 del Real Decreto 200/2010, de 26 de febrero. [Ref. BOE-A-2010-4174](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4174)
+
+### Artículo catorce.
+
+Uno. En el reglamento de cada mercado mayorista se determinarán los artículos cuya comercialización pueda realizarse en el mismo, los usuarios que puedan operar en aquél y la clase de operaciones permitidas.
+
+Dos. Todas y cada una de las partidas de artículos alimenticios destinadas a los mercados mayoristas deberán acompañarse de una declaración efectuada por el remitente o, en su defecto, por el transportista de la mercancía para su entrega al mayorista, el cual vendrá obligado a exhibirla cuando sea requerido para ello. En la mencionada declaración figurará indicación acerca de si dichos artículos están destinados a ser comercializados por cuenta propia o comisión.
+
+Tres. En la tramitación de los reglamentos citados en el apartado uno de este artículo, será preceptivo el informe de la Dirección General Política Comercial del Ministerio de Industria, Turismo y Comercio. Este informe se entenderá favorable, transcurridos 30 días desde la remisión del reglamento sin que aquél hubiera sido evacuado.
+
+> Se modifica por el art. 1.6 del Real Decreto 200/2010, de 26 de febrero. [Ref. BOE-A-2010-4174](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4174)
+
+> Redactado conforme a la la corrección de errores publicada en BOE núm. 247 de 16 de octubre de 1978. [Ref. BOE-A-1978-25737](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-25737)
+
+### Artículo quince.
+
+Uno. Para la adjudicación de puestos en los mercados mayoristas se utilizará, sin perjuicio de lo previsto en el artículo doce, de entre los sistemas autorizados por las disposiciones vigentes, aquel que mejor garantice el equilibrio en el abastecimiento, la protección del consumidor y la protección de la salud pública. El procedimiento de adjudicación deberá tener en cuenta los principios de publicidad, objetividad, imparcialidad, transparencia y concurrencia competitiva.
+
+Dos. La adjudicación autorizará únicamente a su titular, y precisamente para el ejercicio de la actividad para la que fue concedida. La transmisión del derecho a la utilización de los puestos, se regirá por lo dispuesto en los reglamentos de cada mercado, sin perjuicio de la aplicabilidad de las normas del ordenamiento jurídico general, entre otras, las de protección del consumidor y salud pública.
+
+Tres. Las solicitudes de licencia de apertura de puestos se tramitarán por el órgano gestor del mercado para su concesión por el Ayuntamiento.
+
+> Se modifica por el art. 1.7 del Real Decreto 200/2010, de 26 de febrero. [Ref. BOE-A-2010-4174](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4174)
+
+> Redactado conforme a la la corrección de errores publicada en BOE núm. 247 de 16 de octubre de 1978. [Ref. BOE-A-1978-25737](https://www.boe.es/buscar/doc.php?id=BOE-A-1978-25737)
+
+### Artículo dieciséis.
+
+Tanto el órgano gestor de cada mercado mayorista como los usuarios de los mismos, estarán obligados a facilitar al órgano competente en la materia y a los Ayuntamientos respectivos la información relativa a las mercancías entradas y salidas en los mercados mayoristas, las condiciones de las transacciones realizadas en los mismos, tanto de las mercancías adquiridas y vendidas por cuenta propia como en comisión, así como en general, sobre todos los aspectos relativos al abastecimiento que les sean solicitados.
+
+> Se modifica por el art. 1.8 del Real Decreto 200/2010, de 26 de febrero. [Ref. BOE-A-2010-4174](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4174)
+
+### Artículo diecisiete.
+
+El incumplimiento por los usuarios de los mercados mayoristas de las normas contenidas en el presente Real Decreto o de las que del mismo se deriven, se considerará infracción administrativa en materia de disciplina de mercado, por lo que será de aplicación lo dispuesto en el Decreto tres mil seiscientos treinta y dos/mil novecientos setenta y cuatro, de veinte de diciembre.
+
+### Disposición final primera.
+
+Por los Ministerios del Interior, de Medio Ambiente, y Medio Rural y Marino y de Industria, Turismo y Comercio, en el ámbito de sus respectivas competencias, se dictarán las disposiciones necesarias para la aplicación y desarrollo de lo establecido en el presente real decreto.
+
+> Se modifica por el art. 1.9 del Real Decreto 200/2010, de 26 de febrero. [Ref. BOE-A-2010-4174](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4174)
+
+### Disposición final segunda.
+
+A partir de la fecha de vigencia del presente Real Decreto, la instalación para el intercambio de información comercial, las normas para la adjudicación de los puestos con la consiguiente obligación del ejercicio directo de la actividad por parte de los titulares de los mismos y el señalamiento de un tonelaje mínimo a comercializar a que se hace referencia en los artículos once, catorce y quince de este Real Decreto, podrán declararse por el Gobierno como de obligado cumplimiento para los mercados mayoristas ya existentes con anterioridad al uno de junio de mil novecientos setenta.
+
+### Disposición final tercera.
+
+Queda derogado el Decreto mil quinientos sesenta/mil novecientos setenta, de cuatro de junio, sobre ordenación de mercados mayoristas, y el artículo sexto del Decreto tres mil seiscientos veinticuatro/mil novecientos setenta y cuatro, de veinte de diciembre por el que se establecen canales de comercialización complementarios y directos para los productos alimenticios.
+
+Dado en Palma de Mallorca a veintiséis de julio de mil novecientos setenta y ocho.
+
+JUAN CARLOS
+
+El Ministro de la Presidencia,
+
+JOSÉ MANUEL OTERO NOVAS

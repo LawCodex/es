@@ -1,0 +1,1075 @@
+---
+title: "Real Decreto 496/1987, de 18 de marzo, por el que se aprueba el Reglamento de la Ley 23/1982, de 16 de junio, reguladora del Patrimonio Nacional"
+identifier: "BOE-A-1987-9161"
+eli: "https://www.boe.es/eli/es/rd/1987/03/18/496"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1987-03-18
+published: 1987-04-13
+in_force_from: 1987-05-03
+last_amended: 2026-04-07
+consolidated: 2026-09-09
+gazette: "Boletín Oficial del Estado núm. 88"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1987-9161"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 496/1987, de 18 de marzo, por el que se aprueba el Reglamento de la Ley 23/1982, de 16 de junio, reguladora del Patrimonio Nacional
+
+Incluye las correcciones de erratas publicadas en BOE núm. 91, de 16 de abril de 1987 [Ref. BOE-A-1987-9352](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9352) y núm. 102, de 29 de abril de 1987. [Ref. BOE-A-1987-10243](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10243)
+
+Por el presente Real Decreto se aprueba el Reglamento que desarrolla y ejecuta la Ley 23/1982, de 16 de junio, reguladora del Patrimonio Nacional, de acuerdo con lo previsto en su disposición final primera.
+
+El Reglamento, al objeto de regular la naturaleza jurídica, así como los elementos objetivo, subjetivo y de funcionamiento del Patrimonio Nacional, se estructura en los siguientes títulos: Disposiciones generales (título I); del régimen jurídico de los bienes y derechos del Patrimonio Nacional (título II); del régimen de visitas de los bienes del Patrimonio Nacional (título III); del régimen jurídico de los derechos de Patronato o de Gobierno y administración de los Reales Patronatos (título IV); del régimen de contratación (título V), y de la organización del Patrimonio Nacional (título VI).
+
+Asimismo, y en cumplimiento del mandato legislativo, el Reglamento desarrolla los principios contenidos en la Ley, especialmente aquellos aspectos relativos a la proyección de los bienes y derechos integrantes del Patrimonio Nacional en el mundo de la cultura, de la ciencia, del arte y de la docencia, en cuanto sean compatibles con la afectación de éstos al uso y servicio del Rey y de la Real Familia, para el ejercicio de la alta representación que la Constitución y las Leyes les atribuyen.
+
+En su virtud, previo informe favorable del Consejo de Administración del Patrimonio Nacional, a propuesta del Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de marzo de 1987,
+
+DISPONGO:
+
+##### Artículo único.
+
+Se aprueba el Reglamento de la Ley 23/1982, de 16 de junio, reguladora del Patrimonio Nacional, cuyo texto se inserta a continuación.
+
+Dado en Madrid a 18 de marzo de 1987.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GOMEZ
+
+## REGLAMENTO DE LA LEY 23/1982, DE 16 DE JUNIO, REGULADORA DEL PATRIMONIO NACIONAL
+
+### TÍTULO I — Disposiciones generales
+
+##### Artículo 1.º
+
+1\. El Consejo de Administración del Patrimonio Nacional es una entidad de derecho público con personalidad jurídica diferenciada, patrimonio y tesorería propios, así como autonomía en su gestión, orgánicamente dependiente de la Presidencia del Gobierno, cuyos fines son la gestión y administración de los bienes y derechos del Patrimonio Nacional.
+
+2\. Su actuación se rige por lo dispuesto en la Ley 23/1982, de 16 de junio, reguladora del Patrimonio Nacional y en el presente Reglamento, y únicamente de forma supletoria, y en tanto resulte compatible con su régimen específico, por lo previsto en las normas de derecho administrativo que le sean de aplicación.
+
+3\. En los documentos oficiales y en las relaciones institucionales se podrá utilizar indistintamente la denominación “Consejo de Administración del Patrimonio Nacional” o “Patrimonio Nacional”.
+
+> Se modifica por el art. único.1 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 2.º
+
+La sede del Consejo de Administración del Patrimonio Nacional es el Palacio Real de Madrid.
+
+> Se modifica por el art. único.2 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 3.º
+
+Tienen la calificación jurídica de bienes del Patrimonio Nacional aquellos muebles o inmuebles de titularidad del Estado afectados al uso y servicio del Rey y de los miembros de la Real Familia para el ejercicio de la alta representación que la Constitución y las Leyes les atribuyen.
+
+Además se integran en el citado Patrimonio los derechos y cargas de patronato sobre las Fundaciones y Reales Patronatos a que se refiere su Ley reguladora.
+
+##### Artículo 4.º
+
+1\. Integran el Patrimonio Nacional los siguientes bienes y derechos:
+
+a) El Palacio Real de Oriente y el Parque de Campo del Moro.
+
+b) El Palacio Real de Aranjuez y la Casita del Labrador, con sus jardines y edificios anexos.
+
+c) El Palacio Real de San Lorenzo de El Escorial, el Palacete denominado La Casita del Príncipe, con su huerta y terrenos de labor, y la llamada «Casita de Araba», con las Casas de Oficios de la Reina y de los Infantes.
+
+d) Los Palacios Reales de la Granja y de Riofrío y sus terrenos anexos.
+
+e) El Monte de El Pardo y el Palacio de El Pardo, con la Casita del Príncipe. El Palacio Real de la Zarzuela y el predio denominado «La Quinta», con su palacio y edificaciones anexas; la iglesia de Nuestra Señora del Carmen, el Convento de Cristo y edificios contiguos.
+
+f) El Palacio de la Almudaina con sus jardines, sito en Palma de Mallorca.
+
+g) Los bienes muebles de titularidad estatal, contenidos en los reales palacios o depositados en otros inmuebles de propiedad pública, enunciados en el inventario que se custodia por el Consejo de Administración del Patrimonio Nacional.
+
+h) Las donaciones hechas al Estado a través del Rey y los demás bienes y derechos que se afecten al uso y servicio de la Corona.
+
+2\. Para la exacta delimitación de los bienes enumerados en las seis primeras letras del apartado anterior, se atenderá al perímetro fijado por los correspondientes Decretos de declaración de conjunto histórico-artístico. En su defecto, se seguirá el criterio de preservar la unidad del conjunto monumental.
+
+Se entiende por «Monte de El Pardo» la superficie de terreno que, bajo este nombre, aparece descrita en los planos del Instituto Geográfico Nacional.
+
+> Redactado el apartado 1.h) conforme a la corrección de erratas publicada en BOE núm. 102, de 29 de abril de 1987. [Ref. BOE-A-1987-10243](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10243)
+
+##### Artículo 5.º
+
+Forman parte del Patrimonio Nacional los derechos de patronato o de gobierno y administración sobre las siguientes Fundaciones, denominadas Reales Patronatos:
+
+a) La Iglesia y Convento de la Encarnación.
+
+b) La Iglesia y Hospital del Buen Suceso.
+
+c) El Convento de las Descalzas Reales.
+
+d) La Real Basílica de Atocha.
+
+e) La Iglesia y Colegio de Santa Isabel.
+
+f) La Iglesia y Colegio de Loreto, en Madrid, donde también radican los citados en los apartados precedentes.
+
+g) El Monasterio de San Lorenzo de El Escorial, sito en dicha localidad.
+
+h) El Monasterio de Las Huelgas, en Burgos.
+
+i) El Hospital del Rey, sito en dicha capital.
+
+j) El Convento de Santa Clara, en Tordesillas.
+
+k) El Convento de San Pascual, en Aranjuez.
+
+l) El Copatronato del Colegio de Doncellas Nobles, en Toledo. (Artículo 5, Ley del Patrimonio Nacional.)
+
+### TÍTULO II — Del régimen jurídico de los bienes y derechos del Patrimonio Nacional
+
+#### CAPÍTULO I — Disposiciones generales
+
+##### Artículo 6.º
+
+Los bienes y derechos integrados en el Patrimonio Nacional serán inalienables, imprescriptibles e inembargables, y, en general, gozarán de las prerrogativas de los bienes de dominio público estatal.
+
+##### Artículo 7.º
+
+Los bienes y derechos del Patrimonio Nacional gozarán del mismo régimen de exenciones tributarias que los bienes de dominio público estatal.
+
+##### Artículo 8.º
+
+En relación con los bienes y derechos del Patrimonio Nacional, el Consejo de Administración podrá interesar del Ministerio de Economía y Hacienda el ejercicio de las siguientes prerrogativas:
+
+a) La prerrogativa de recuperación de la posesión indebidamente perdida.
+
+b) La prerrogativa de investigación de la situación de los bienes y derechos que se presuman integrantes del Patrimonio Nacional, a fin de determinar, cuando no conste, la titularidad del Estado.
+
+c) La prerrogativa de deslinde administrativo respecto de los bienes inmuebles, sin perjuicio de lo dispuesto en el artículo 4.2 del presente Reglamento.
+
+##### Artículo 9.º
+
+1\. Los bienes y derechos integrados en el Patrimonio Nacional deberán ser inscritos en el Registro de la Propiedad como de titularidad estatal.
+
+2\. Antes de la presentación en el Registro de la Propiedad de los títulos para la inscripción de los bienes y derechos del Patrimonio Nacional, se oirá al Servido Jurídico del Ente público.
+
+3\. Cuando el Patrimonio Nacional carezca de títulos de dominio, podrá inmatricularse el bien o bienes de que se trate al amparo de lo previsto en los artículos 206 de la Ley Hipotecaria y 303 a 307 de su Reglamento, sirviendo a tales efectos la certificación expedida por el Gerente del Patrimonio Nacional.
+
+##### Artículo 10.
+
+El Consejo de Administración del Patrimonio Nacional podrá recabar de las autoridades públicas la información precisa para conocer la situación en que se encuentran determinados bienes, en orden a promover su incorporación al Patrimonio Nacional cuando pudieran afectarse al uso o servicio del Rey y de la Real Familia para el ejercido de la alta representación que la Constitución y las Leyes les atribuyen.
+
+##### Artículo 11.
+
+1\. En todas las cuestiones relativas al régimen jurídico de los bienes y derechos no reguladas en el presente Reglamento, se aplicará supletoriamente la legislación del Patrimonio del Estado.
+
+2\. A los bienes que tengan valor o carácter histórico-artístico les será también de aplicación la legislación sobre Patrimonio Histórico.
+
+#### CAPÍTULO II — Del inventario general de los bienes y derechos del Patrimonio Nacional
+
+##### Artículo 12.
+
+Se formará el inventario general de los bienes y derechos que integran el Patrimonio Nacional, manteniendo la debida coordinación con la Dirección General del Patrimonio del Estado, agrupándolos en los siguientes epígrafes:
+
+a) Bienes inmuebles y derechos reales sobre bienes inmuebles.
+
+b) Bienes muebles de carácter histórico o valor artístico.
+
+c) Bienes semovientes.
+
+d) Bienes procedentes de obsequios de carácter institucional entregados al Rey o a otros miembros de la Real Familia que por su valor o características deban formar parte del Patrimonio Nacional.
+
+e) Bienes y derechos no comprendidos en los apartados anteriores.
+
+> Se modifica por el art. único.3 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 13.
+
+1\. Se constituirá una Comisión de Inventario del Patrimonio Nacional de la que formarán parte los representantes del Patrimonio Nacional que sean designados por el Consejo de Administración, así como aquellos otros de la Administración del Estado que mediante Orden del Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno se determinen.
+
+2\. El inventario elaborado por la Comisión, una vez sometido al Consejo de Administración, será elevado al Gobierno para su aprobación a través del Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno.
+
+3\. Las modificaciones que hubieran de introducirse en el inventario se tramitarán por los servicios del Patrimonio Nacional y anualmente, previa aprobación por el Consejo, se elevará al Gobierno la propuesta de rectificación que en su caso proceda.
+
+4\. El Consejo pondrá a disposición de la Casa Real el inventario y sus modificaciones.
+
+##### Artículo 14.
+
+1\. El inventario de los bienes inmuebles expresará, al menos para cada bien, los siguientes datos:
+
+a) Nombre con que se conoce.
+
+b) Naturaleza.
+
+c) Situación, linderos y superficie.
+
+d) En los edificios: Sus características, el estado de conservación y de aprovechamiento y las rentas que producen.
+
+e) En las fincas rústicas, su aprovechamiento y los frutos y rentas que producen.
+
+f) Derechos reales, cargas o arrendamientos que los gravasen.
+
+g) Título de adquisición, y
+
+h) Datos de inscripción en el Registro de la Propiedad.
+
+Asimismo, en el expediente correspondiente deberá obrar un plano del inmueble.
+
+2\. El Consejo de Administración del Patrimonio Nacional efectuará la delimitación de los bienes inmuebles, de acuerdo con lo previsto en el artículo 4.2 del presente Reglamento y, en caso necesario, podrá interesar del Ministerio de Economía y Hacienda el ejercido de la facultad de deslinde.
+
+##### Artículo 15.
+
+1\. El inventario de los bienes muebles del Patrimonio Nacional comprenderá todos aquellos que la Ley señala como integrantes o formando parte de dicho Patrimonio, distinguiendo con precisión los que se encuentren en los reales palacios de los que se encuentren depositados en otros inmuebles.
+
+2\. El inventario de los bienes muebles de carácter histórico o de valor artístico expresará, al menos para cada bien, los siguientes datos:
+
+a) Titulo, si existiese.
+
+b) Descripción en forma que facilite su identificación.
+
+c) Datos histórico-artísticos.
+
+d) Estado de conservación, y
+
+e) Lugar en que se encontrase situado.
+
+Asimismo en el expediente correspondiente deberá obrar una reproducción fotográfica del bien de que se trate.
+
+##### Artículo 16.
+
+El Consejo de Administración del Patrimonio Nacional fijará los datos que deberá incluir el inventario general con respecto a los bienes y derechos a que se refieren los epígrafes c), d) y e), del artículo 12 de este Reglamento.
+
+> Se modifica por el art. único.4 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+#### CAPÍTULO III — De la afectación y desafectación de los bienes y derechos del Patrimonio Nacional
+
+##### Artículo 17.
+
+Compete al Gobierno, a propuesta del Consejo de Administración del Patrimonio Nacional, la afectación y desafectación al uso y servicio de la Corona de bienes muebles e inmuebles y de derechos. En ningún caso podrán desafectarse los bienes muebles o inmuebles de valor histórico-artístico.
+
+##### Artículo 18.
+
+1\. El Consejo de Administración, cuando considere preciso afectar determinados bienes muebles o inmuebles distintos de los integrados en el Patrimonio Nacional, se dirigirá al Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno expresando cuáles sean dichos bienes y las razones que aconsejan la afectación.
+
+2\. El Consejo de Administración procederá del mismo modo cuando se trate de la desafectación de bienes integrantes del Patrimonio Nacional, expresando las razones que aconsejan la desafectación.
+
+##### Artículo 19.
+
+El Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno trasladará, en su caso, la solicitud motivada de afectación o desafectación a la Dirección General del Patrimonio del Estado, que, a la vista de la misma y de la situación de los bienes, emitirá el oportuno informe.
+
+##### Artículo 20.
+
+1\. La afectación o desafectación de bienes y derechos al Patrimonio Nacional se acordará por el Consejo de Ministros mediante Real Decreto.
+
+2\. El representante que designe al efecto el Consejo de Administración del Patrimonio Nacional y el Delegado de Hacienda de la provincia donde radiquen los bienes suscribirán un acta de afectación o desafectación en la que constarán los extremos contenidos en el correspondiente Real Decreto. El acta será remitida a los Ministerios de Relaciones con las Cortes y de la Secretaría del Gobierno, y de Economía y Hacienda, así como al Consejo de Administración del Patrimonio Nacional.
+
+##### Artículo 21.
+
+La afectación y desafectación de bienes y derechos al Patrimonio Nacional se harán constar en su inventario y se inscribirán, cuando proceda, en el Registro de la Propiedad.
+
+#### CAPÍTULO IV — Del uso y exploración de los bienes y derechos del Patrimonio Nacional
+
+##### Artículo 22.
+
+Los bienes y derechos del Patrimonio Nacional están afectados primordialmente al uso y servido del Rey y de los miembros de la Real Familia para el ejercicio de la alta representación que la Constitución y las Leyes les atribuyen.
+
+##### Artículo 23.
+
+En cuanto sea compatible con la afectación de los bienes del Patrimonio Nacional a la que se refiere el artículo anterior, el Consejo de Administración adoptará las medidas conducentes al uso de los mismos con fines culturales, científicos y docentes.
+
+##### Artículo 24.
+
+1\. Las Entidades culturales, científicas y docentes podrán dirigirse al Consejo de Administración del Patrimonio Nacional solicitando el uso temporal de los bienes del Patrimonio Nacional para el cumplimiento de los fines de las mismas.
+
+2\. El Consejo de Administración, a la vista de las solicitudes recibidas y teniendo en cuenta la incidencia del uso pretendido sobre los fines del Patrimonio Nacional, decidirá sobre aquéllas. En todo caso, la decisión motivada del Consejo de Administración se notificará al solicitante.
+
+##### Artículo 25.
+
+1\. El Consejo de Administración del Patrimonio Nacional podrá aprobar programas de difusión de los valores históricos y artísticos de los bienes del Patrimonio Nacional, dirigidos a promocionar el acceso de todos los ciudadanos al conocimiento de los mismos.
+
+2\. El Consejo de Administración podrá proponer a Entidades culturales, científicas y docentes el uso de los bienes integrados en el Patrimonio Nacional, siempre que sea compatible con el fin de la afectación.
+
+##### Artículo 26.
+
+1\. En el uso de los bienes del Patrimonio Nacional se velará especialmente por la protección del ambiente y por el cumplimiento de las exigencias ecológicas en los terrenos que gestione y, especialmente, en el Monte de El Pardo.
+
+2\. El Consejo de Administración del Patrimonio Nacional adoptará las medidas necesarias para la adecuada utilización de los bienes a tales fines y podrá suspender en cualquier momento su uso por Entidades o particulares cuando advirtiere que el mismo pueda suponer un deterioro o agresión al medio ambiente o a las exigencias ecológicas.
+
+##### Artículo 27.
+
+Corresponde al Consejo de Administración disponer la explotación de los bienes integrantes del Patrimonio Nacional que sean susceptibles de aprovechamiento rentable, sin perjuicio de los fines a que están afectados.
+
+##### Artículo 28.
+
+La explotación de los bienes del Patrimonio Nacional susceptibles de vedamiento rentable exigirá la previa incoación de un expediente, en el que coste la descripción del bien o bienes de cuya explotación se trate, con expresión de sus características económicas; las diversas posibilidades de explotación; una Memoria económica de rentabilidad, y la forma de explotación que se considere más conveniente de entre las previstas en el artículo siguiente.
+
+##### Artículo 29.
+
+1\. La explotación de los bienes del Patrimonio Nacional susceptibles de aprovechamiento rentable revestirá alguna de las formas siguientes:
+
+a) Explotación por el propio Consejo de Administración.
+
+b) Explotación por cualquier otra Entidad de derecho público, mediante convenio.
+
+c) Explotación por particulares, mediante contrato.
+
+2\. El Consejo de Administración, a la vista de las circunstancias contenidas en el expediente, decidirá la forma de explotación.
+
+##### Artículo 30.
+
+Si el Consejo de Administración decidiera que la explotación se lleve a cabo por otra Entidad de derecho público, el convenio correspondiente determinará las condiciones de la misma, entre las que se incluirán necesariamente: Objeto, plazo y régimen económico-financiero de la explotación, sistema de garantías, medidas de control y derechos y obligaciones específicos de las partes.
+
+##### Artículo 31.
+
+Si el Consejo de Administración decidiera que la explotación se lleve a cabo por particulares, ya sean personas naturales o jurídicas, establecerá previamente las bases del contrato determinando las condiciones de la misma, con el contenido necesario señalado para los convenios en el artículo anterior, y se aplicarán las normas de contratación previstas en el presente Reglamento.
+
+#### CAPÍTULO V — De la conservación y depósito de los bienes del Patrimonio Nacional
+
+##### Artículo 32.
+
+Corresponde al Consejo de Administración la conservación, defensa y mejora de los bienes y derechos del Patrimonio Nacional [artículo 8.2, a), Ley del Patrimonio Nacional].
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 102, de 29 de abril de 1987. [Ref. BOE-A-1987-10243](https://www.boe.es/buscar/doc.php?id=BOE-A-1987-10243)
+
+##### Artículo 33.
+
+1\. El Consejo de Administración adoptará las medidas necesarias encaminadas a la conservación de los bienes del Patrimonio Nacional según su naturaleza y características.
+
+2\. Los servicios del Patrimonio Nacional podrán recabar el auxilio de los agentes de la autoridad para el cumplimiento de los fines de conservación.
+
+##### Artículo 34.
+
+1\. Las autoridades públicas están obligadas a coadyuvar en la defensa, conservación y protección de los bienes del Patrimonio Nacional.
+
+2\. Las Entidades públicas o privadas y, en su caso, los particulares que tuvieran a su cargo el depósito, la explotación, la conservación o la restauración de bienes del Patrimonio Nacional están obligados a velar por su integridad y por su adecuado uso.
+
+##### Artículo 35.
+
+Las personas que presenciasen actos atentatorios contra los bienes y derechos del Patrimonio Nacional podrán, o deberán si se trata de bienes de valor histórico-artístico, efectuar la oportuna denuncia ante el Consejo de Administración del Patrimonio Nacional o ante cualquier autoridad pública, que lo pondrá inmediatamente en conocimiento de dicho Consejo. Ello no supondrá la obligación de probar los hechos denunciados, ni de la denuncia se derivará contra el denunciante otra responsabilidad que la que corresponda a los delitos o faltas que éste hubiese cometido por medio de la misma o con su ocasión.
+
+##### Artículo 36.
+
+El incumplimiento de lo dispuesto en los dos artículos anteriores será sancionable en vía penal, de acuerdo con lo que establece el Código Penal, o en vía administrativa, de acuerdo, según su caso, con lo que disponen la Ley del Patrimonio del Estado o la Ley del Patrimonio Histórico Español.
+
+##### Artículo 37.
+
+La restauración o reparación de los bienes del Patrimonio Nacional constituirá tarea preferente del Consejo de Administración, que podrá realizar directamente por medio de sus servicios, o mediante contrato con Entidades o particulares, aplicándose en este caso las normas de contratación previstas en el presente Reglamento.
+
+##### Artículo 38.
+
+1\. El Consejo de Administración velará en todo caso porque los bienes integrantes del Patrimonio Nacional se encuentren permanentemente en estado de servir a los fines a que están afectados.
+
+2\. El Consejo de Administración del Patrimonio Nacional velará también por el íntegro mantenimiento de las colecciones.
+
+##### Artículo 39.
+
+1\. Corresponde al Consejo de Administración del Patrimonio Nacional autorizar la celebración de contratos de depósito de bienes muebles de valor o carácter histórico, con fines exclusivamente culturales o para el decoro de edificios públicos.
+
+2\. Los contratos a que se refiere el apartado anterior serán de naturaleza administrativa especial y se regirán por lo dispuesto en este Reglamento, por sus normas administrativas específicas y, en su defecto, por las normas de Derecho privado.
+
+##### Artículo 40.
+
+1\. Las solicitudes para la constitución de depósitos deberán dirigirse al Consejo de Administración del Patrimonio Nacional, indicando las circunstancias del interesado, la finalidad cultural o de decoro que se pretenda, las medidas de seguridad y conservación proyectadas y el plazo de duración previsto.
+
+2\. A la vista de las solicitudes presentadas, el Consejo de Administración decidirá sobre la adjudicación del contrato, previa la incoación del correspondiente expediente, en el que se valorarán todas las circunstancias alegadas así como la incidencia del depósito sobre los fines a que están afectados los bienes objeto del mismo.
+
+##### Artículo 41.
+
+1\. El Consejo de Administración del Patrimonio Nacional aprobará las bases a que habrán de ajustarse los contratos de depósito a que se refieren los artículos anteriores.
+
+2\. Tales bases regularán, entre otros, los siguientes extremos:
+
+a) Duración del contrato, que en todo caso no podrá exceder de dos años.
+
+b) Requisitos que debe reunir el acta de recepción del bien mueble objeto de depósito.
+
+c) Régimen de garantías.
+
+d) Medidas de conservación y de seguridad a adoptar por el depositario.
+
+e) Supuestos en que el depositario deberá formalizar una póliza.
+
+f) Facultades de inspección del Consejo de Administración sobre los bienes objeto de depósito.
+
+g) Régimen de gastos derivados de la conservación y exhibición del bien.
+
+h) Causas de resolución del contrato de depósito.
+
+##### Artículo 42.
+
+Una vez celebrado y formalizado el contrato de depósito el Consejo de Administración del Patrimonio Nacional solicitará del depositario el nombramiento de un representante para que, con el nombrado por el propio Consejo, suscriban la correspondiente acta de recepción del bien de que se trate. Desde este momento comenzará a contar el plazo de duración previsto en el contrato así como la asunción por parte del depositario de sus obligaciones contractuales.
+
+### TÍTULO III — Del régimen de visitas de los bienes del Patrimonio Nacional
+
+##### Artículo 43.
+
+Los bienes inmuebles del Patrimonio Nacional y de los Reales Patronatos estarán sujetos a un régimen de visitas análogo al de la legislación sobre monumentos histórico-artísticos (disposición final primera, Ley del Patrimonio Nacional).
+
+##### Artículo 44.
+
+Los bienes inmuebles del Patrimonio Nacional y de los Reales Patronatos que tengan la condición de monumento, jardines, conjuntos y sitios históricos, declarados bienes de interés cultural, podrán ser visitados públicamente con arreglo al principio de libre acceso, sin más limitaciones que aquellas tendentes a garantizar su indemnidad y conservación así como el cumplimiento de los fines a que están afectados.
+
+##### Artículo 45.
+
+1\. La persona titular de la Presidencia del Consejo de Administración de Patrimonio Nacional regulará el régimen de visitas y exhibición al público de los bienes que integran el Patrimonio Nacional. Los ingresos procedentes de estas actividades tienen naturaleza de precios públicos, que se establecerán por el Consejo de Administración de Patrimonio Nacional, previa autorización del Ministerio de Hacienda.
+
+2\. El régimen de visitas podrá suspenderse temporalmente cuando lo exija el uso o servicio a que están afectados los bienes.
+
+> Se modifica por el art. único.5 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 46.
+
+El Consejo de Administración aplicará el principio de gratuidad a las visitas, en términos de días y horas análogos a los previstos en la legislación del Patrimonio Histórico y adecuados a las peculiaridades de los bienes del Patrimonio Nacional.
+
+##### Artículo 47.
+
+En las campañas dirigidas a promover el conocimiento por los ciudadanos de los bienes del Patrimonio Nacional, se contendrá información del régimen de visitas que apruebe el Consejo de Administración.
+
+### TÍTULO IV — Del régimen jurídico de los derechos de patronato o de gobierno y administración de los Reales Patronatos
+
+##### Artículo 48.
+
+Corresponde al Consejo de Administración del Patrimonio Nacional ejercer la administración de los Reales Patronatos a que se refiere el artículo 5.º del presente Reglamento.
+
+##### Artículo 49.
+
+El contenido de los derechos de patronato será el determinado en sus cláusulas fundacionales y, en caso de insuficiencia de las mismas, comprenderá con toda amplitud las facultades de administración de las Fundaciones respectivas (artículo 7.1, Ley de Patrimonio Nacional).
+
+##### Artículo 50.
+
+Los bienes de las Fundaciones a que se refiere el artículo 5.º del presente Reglamento, destinados al cumplimiento directo de sus respectivos fines, gozarán de las mismas exenciones fiscales que los del dominio público del Estado (artículo 7.2, Ley de Patrimonio Nacional).
+
+##### Artículo 51.
+
+En todo lo no previsto en este Reglamento en cuanto a la administración, gobierno y ejercicio del Protectorado sobre los Reales Patronatos, será de aplicación la normativa sobre Fundaciones Culturales Privadas.
+
+##### Artículo 52.
+
+Cuando el Consejo de Administración del Patrimonio Nacional forme parte con otros miembros del órgano de dirección o administración de un Real Patronato, en virtud de lo dispuesto en sus Estatutos, deberá designar la persona que le represente.
+
+##### Artículo 53.
+
+1\. El Consejo de Administración del Patrimonio Nacional podrá designar uno o varios Delegados en los Reales Patronatos, salvo que los Estatutos dispongan otra cosa.
+
+2\. Los Delegados en los Reales Patronatos ejercerán las funciones que expresamente les delegue el Consejo de Administración, que se inscribirán en el registro administrativo correspondiente.
+
+No serán delegables la aprobación de las cuentas ni los actos que excedan de la gestión ordinaria de la Fundación.
+
+##### Artículo 54.
+
+En el ejercicio de los derechos de administración de los Reales Patronatos, el Consejo de Administración del Patrimonio Nacional deberá cumplir la voluntad del fundador, mantener en buen estado de conservación y producción los bienes y valores de la Fundación, y procurar la suficiencia de medios económicos derivados de las rentas de sus bienes para atender a los fines fundacionales.
+
+##### Artículo 55.
+
+Cada uno de los Reales Patronatos elaborará anualmente una memoria de las actividades desarrolladas, que deberá contener la información suficiente sobre el grado de cumplimiento del objeto fundacional y que será elevada al Consejo de Administración del Patrimonio Nacional.
+
+A su vez, el Consejo de Administración elaborará anualmente una memoria conjunta sobre la situación de los Reales Patronatos, que será elevada al Protectorado de los mismos.
+
+##### Artículo 56.
+
+En el ejercicio de las facultades del Protectorado se velará especialmente por el cumplimiento de la voluntad de los fundadores y de los causantes de legados o donaciones hechas al Estado, a través del Rey, con destino a cualquiera de los Reales Patronatos.
+
+##### Artículo 57.
+
+El Protectorado, a propuesta del Consejo de Administración del Patrimonio Nacional y previo dictamen del Consejo de Estado, podrá acordar la modificación, fusión o extinción de los Reales Patronatos cuando así lo exija el mejor cumplimiento de los fines fundacionales, o cuando concurran los supuestos contemplados en el artículo 39 del Código Civil.
+
+##### Artículo 58.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2.c) de la Ley 20/2022, de 19 de octubre. [Ref. BOE-A-2022-17099](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17099)
+
+> Téngase en cuenta lo dispuesto en la disposición transitoria 1 de la citada Ley.
+
+### TÍTULO V — Del régimen de contratación
+
+##### Artículo 59.
+
+Compete al Consejo de Administración del Patrimonio Nacional celebrar contratos administrativos, previas las formalidades que se determinen en la normativa sobre contratación del sector público, así como celebrar, en régimen de derecho privado, cuantos contratos se refieran al aprovechamiento de los bienes del Patrimonio Nacional.
+
+> Se modifica por el art. único.6 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 60.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.7 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 61.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.7 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 62.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.7 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 63.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.7 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 64.
+
+1\. La fiscalización del gasto originado por la contratación que celebre el Consejo de Administración del Patrimonio Nacional será ejercida por la Intervención Delegada de la Intervención General en el Patrimonio Nacional.
+
+2\. El Consejo de Administración remitirá al Tribunal de Cuentas, en los supuestos legalmente previstos, los contratos que celebre.
+
+### TÍTULO VI — De la organización del Patrimonio Nacional
+
+#### CAPÍTULO I — De la estructura orgánica del Consejo de Administración del Patrimonio Nacional
+
+> Se modifica la rúbrica por el art. único.8 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 65.
+
+1\. El Consejo de Administración del Patrimonio Nacional se estructura en órganos de gobierno y ejecutivos.
+
+2\. Los órganos de gobierno del Consejo de Administración del Patrimonio Nacional son los siguientes:
+
+a) El Consejo de Administración, que actuará como órgano colegiado de gobierno.
+
+b) La Presidencia, con rango de Subsecretaría.
+
+3\. La Gerencia es el máximo órgano ejecutivo del Consejo de Administración del Patrimonio Nacional, con rango de Dirección General.
+
+> Se modifica por el art. único.9 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 66.
+
+1\. El Consejo de Administración estará constituido por la persona titular de la Presidencia, la persona titular de la Gerencia y por un número de Vocalías no superior a trece, todas ellas ocupadas por profesionales de reconocido prestigio. A las personas titulares de la Presidencia y de la Gerencia les será de aplicación lo establecido en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del Alto Cargo de la Administración General del Estado, debiendo realizarse su nombramiento entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades Locales, pertenecientes a cuerpos clasificados en el Subgrupo A1.
+
+Dos de las Vocalías, al menos, deberán ser ocupadas por representantes de instituciones museísticas y culturales de reconocido prestigio y proyección internacional.
+
+Igualmente, en dos de las Vocalías, al menos, habrá de concurrir la condición de titulares de la alcaldía de Ayuntamientos en cuyo término municipal radiquen bienes inmuebles históricos del Patrimonio Nacional.
+
+2\. La persona titular de la Presidencia, la de la Gerencia y las de las Vocalías serán nombrados mediante Real Decreto, previa deliberación del Consejo de Ministros, a propuesta de la persona titular de la Presidencia del Gobierno.
+
+La propuesta de las personas que ocupen las vocalías del Consejo de Administración se ajustará al principio de presencia equilibrada de mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas.
+
+> Se modifica por el art. único.10 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 67.
+
+Sin perjuicio de las competencias que, de acuerdo con lo previsto en el artículo octavo, apartado dos, de la Ley 23/1982, de 16 de junio, tiene atribuidas la entidad, corresponde al Consejo de Administración, como órgano colegiado de gobierno, el ejercicio de las siguientes funciones:
+
+a) El seguimiento, la supervisión y el control interno de la actuación de la entidad.
+
+b) Aprobar la planificación estratégica de la entidad.
+
+c) Aprobar, a iniciativa de la persona titular de la Presidencia, la propuesta de planes de actuación a los que se refiere el artículo 85 de la Ley 40/2015 de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+d) Aprobar las memorias de actividad anuales.
+
+e) Establecer e impulsar medidas de colaboración con otras Administraciones y entidades, para el mejor ejercicio de las funciones que tiene encomendadas.
+
+f) Aprobar y remitir al Ministerio de Hacienda, a través del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, el anteproyecto de presupuesto de ingresos y gastos de la entidad y ser informado de su ejecución.
+
+g) Aprobar las cuentas anuales de la entidad.
+
+h) Conocer e informar las propuestas normativas relativas al Patrimonio Nacional y a los Reales Patronatos.
+
+i) Aprobar y elevar al Gobierno la propuesta de Planes de protección medioambientales referidos en el artículo tercero de la Ley 23/1982, de 16 de junio.
+
+j) Interesar del Ministerio de Hacienda, en relación con los bienes y derechos que integran el Patrimonio Nacional y los Reales Patronatos, el ejercicio de las prerrogativas de recuperación, investigación y deslinde que corresponden al Estado respecto de los bienes de dominio público.
+
+k) Aprobar y elevar al Gobierno la propuesta de rectificación anual del inventario de bienes y derechos del Patrimonio Nacional, y poner a disposición de la Casa de Su Majestad el Rey aquel y sus modificaciones.
+
+l) Proponer al Gobierno la afectación y desafectación de bienes muebles e inmuebles al uso y servicio del Rey y de los miembros de la Real Familia para el ejercicio de la alta representación que la Constitución y las leyes les atribuyen.
+
+m) Aceptar las donaciones, herencias o legados, y, en general, acordar las adquisiciones a título lucrativo de cualquier clase de bienes. La aceptación de herencias se entenderá hecha a beneficio de inventario.
+
+n) Aprobar el listado de bienes susceptibles de aprovechamiento rentable y decidir sobre la forma de explotación de aquellos, así como disponer la misma.
+
+ñ) Acordar los precios públicos correspondientes a las actividades que realiza Patrimonio Nacional.
+
+o) Ejercer la jefatura superior del personal de la entidad, inclusive el ejercicio de la potestad disciplinaria por faltas graves o muy graves, salvo la separación de servicio.
+
+p) Celebrar, en el ámbito de su competencia, contratos y convenios, sin perjuicio de la autorización del Consejo de Ministros cuando sea preceptiva.
+
+q) Acordar la interposición de recursos administrativos y jurisdiccionales y la personación en procesos judiciales.
+
+> Se modifica por el art. único.11 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 68.
+
+1\. Las atribuciones determinadas en las letras a), e), n), ñ), o), p) y q) del artículo anterior podrán ser objeto de delegación en las personas titulares de la Presidencia o de la Gerencia, en los términos que en cada caso se establezca. La delegación podrá ser en cualquier momento objeto de avocación.
+
+2\. Se exceptúan de la posibilidad de delegación el resto de atribuciones del Consejo de Administración.
+
+> Se modifica por el art. único.12 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 69.
+
+1\. Corresponde a la Presidencia el ejercicio de las siguientes funciones:
+
+a) Ostentar la máxima representación de la entidad en las relaciones institucionales y con particulares, a nivel nacional e internacional, y en los documentos públicos y privados que otorgue.
+
+b) Convocar, fijar el orden del día y presidir las reuniones del Consejo de Administración, teniendo en cuenta las peticiones de los demás miembros, formuladas con la suficiente antelación.
+
+c) Dar el visto bueno a las actas y certificaciones del Consejo de Administración.
+
+d) Acordar las variaciones o modificaciones presupuestarias que se estimen necesarias cuya autorización no corresponda a la persona titular del Ministerio de Hacienda o por el Consejo de Ministros.
+
+e) Autorizar y disponer los gastos, reconocer las obligaciones y ordenar los pagos correspondientes.
+
+f) Autorizar, cuando los informes técnicos sean favorables, las solicitudes de cesión temporal de uso de bienes muebles.
+
+g) Fijar las directrices a que se deben ajustar los actos de administración y gestión ordinarios de los órganos de la entidad.
+
+h) Otorgar poderes para la actuación en el tráfico civil y mercantil, previo acuerdo en este sentido del Consejo de Administración.
+
+i) Dar respuesta a las solicitudes de acceso a la información y transparencia, a las preguntas parlamentarias y a las peticiones recibidas en la entidad en ejercicio del derecho de petición previsto en el artículo 29 de la Constitución Española.
+
+j) Regular el régimen de visitas y exhibición al público de los bienes que integran el Patrimonio Nacional.
+
+k) Otorgar subvenciones de acuerdo con lo previsto en el artículo 10 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+l) Otorgar premios y recompensas en el ámbito de competencias de la entidad.
+
+m) Formular y rendir las cuentas anuales de la entidad, de conformidad con lo dispuesto en la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+n) Desempeñar cualesquiera otras funciones que le sean delegadas por el Consejo de Administración, así como aquellas otras que sean intrínsecas a la Presidencia.
+
+2\. En caso de vacancia, ausencia, enfermedad u otra causa legal, la suplencia de la persona titular de la Presidencia corresponderá al miembro del Consejo de Administración, excluida la persona que desempeñe las funciones de Secretaría, que designe el propio Consejo de Administración por mayoría de sus miembros.
+
+> Se modifica por el art. único.13 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 70.
+
+Corresponderán a la Gerencia, sin perjuicio de las que tenga atribuidas su titular como miembro del Consejo de Administración, las siguientes funciones:
+
+a) Proponer a la Presidencia y al Consejo de Administración las actuaciones de toda índole que sean necesarias para el cumplimiento de los fines de la entidad.
+
+b) Ejercer la jefatura de los servicios administrativos, así como supervisar, dirigir y coordinar la actuación y el funcionamiento de las unidades y órganos jerárquicamente dependientes de la Gerencia.
+
+c) La ejecución de los actos de administración y gestión ordinarios y la adopción de las instrucciones y órdenes de servicio necesarias para la organización y funcionamiento de la entidad, en línea con las directrices establecidas por la Presidencia y dando cuenta al Consejo de Administración de las variaciones sustanciales que sea preciso introducir para la mejora de su funcionamiento.
+
+d) Impulsar el despacho de los expedientes.
+
+e) Preparar la relación de asuntos que habrá de servir a la Presidencia para fijar el orden del día de cada convocatoria del Consejo de Administración.
+
+f) Actuar como ponente en los asuntos comprendidos en el orden del día del Consejo de Administración, cuando no hayan sido nombradas comisiones o ponencias especiales.
+
+g) Ejecutar los acuerdos del Consejo de Administración, adoptando al efecto las medidas pertinentes.
+
+h) Aprobar los programas de difusión de los valores históricos y artísticos de los bienes del Patrimonio Nacional.
+
+i) Elevar al Consejo de Administración la propuesta de inventario general de los bienes y derechos que integran en el Patrimonio Nacional y expedir las oportunas certificaciones con respecto a los mismos, a los efectos, en su caso, de la inmatriculación registral prevista en el artículo 9.3 del presente Reglamento.
+
+j) Velar por el adecuado depósito y almacenaje de todos los bienes muebles que integran el Patrimonio Nacional, cuidando de su conservación, reparación y restauración de acuerdo con lo dispuesto en el presente Reglamento.
+
+k) Fijar las directrices que deben orientar la gestión del personal y de la negociación colectiva en la entidad.
+
+l) La gestión derivada de la aplicación de los criterios de evaluación del desempeño del personal, previamente establecidos, y el consecuente reparto del complemento de productividad y otros incentivos al rendimiento.
+
+m) Ejercer la potestad disciplinaria del personal de la entidad por faltas leves.
+
+n) La planificación, organización operativa y desarrollo de los actos institucionales de Patrimonio Nacional, así como la coordinación de los distintos órganos y unidades de la entidad y otras instituciones intervinientes para la celebración de actos de ese carácter en el ámbito de las competencias del Patrimonio Nacional.
+
+ñ) La planificación, dirección y ejecución de actuaciones en materia de seguridad.
+
+o) Cualquier otra función no atribuida expresamente a otros órganos del Consejo de Administración del Patrimonio Nacional o que le sea delegada por la Presidencia o el Consejo de Administración, a propuesta de la Presidencia.
+
+> Se modifica por el art. único.14 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 71.
+
+En el cumplimiento de sus funciones, los Vocales del Consejo de Administración:
+
+a) Asistirán con voz y voto a las reuniones del Consejo.
+
+b) Podrán examinar los expedientes y cuantos antecedentes se relacionen con los asuntos comprendidos en el orden del día, con el fin de conocerlos antes de la deliberación.
+
+c) Podrán solicitar del Presidente o, en su caso, del Gerente cualquier información o documento.
+
+d) Podrán formular con la suficiente antelación peticiones de inclusión de asuntos en el orden del día.
+
+e) Podrán elevar al Consejo de Administración las mociones y propuestas que estimen pertinentes en orden al cumplimiento de sus fines.
+
+f) Desempeñarán las Ponencias que se les encomienden y formarán parte de las Comisiones que se constituyan para el estudio y la preparación de determinados asuntos.
+
+##### Artículo 72.
+
+1\. El Consejo de Administración nombrará, a propuesta del Presidente, un Secretario.
+
+2\. Serán funciones del Secretario del Consejo:
+
+a) Redactar, de acuerdo con las instrucciones del Presidente, el orden del día de las reuniones del Consejo de Administración.
+
+b) Convocar a los Vocales para las reuniones del Consejo de Administración.
+
+c) Levantar acta de cada sesión del Consejo de Administración, y firmarla con el visto bueno del Presidente.
+
+d) Certificar, con el visto bueno del Presidente, los acuerdos del Consejo de Administración y los actos y documentos correspondientes.
+
+3\. En caso de vacante, ausencia o enfermedad del Secretario, el Consejo de Administración decidirá sobre la suplencia del mismo.
+
+##### Artículo 73.
+
+1\. El Consejo de Administración podrá crear, para el ejercicio de determinadas competencias, Comisiones delegadas, cuya composición y funciones serán determinadas en el acuerdo de creación de las mismas.
+
+2\. El Consejo podrá nombrar Comisiones y Ponencias para el estudio y la preparación de determinados asuntos.
+
+3\. Asimismo, podrá convocar a personas cualificadas, ajenas al propio Consejo, para que asistan a sus reuniones con el fin de prestar su asesoramiento sobre puntos o materias de su especialidad.
+
+#### CAPÍTULO II — Del funcionamiento del Consejo de Administración
+
+##### Artículo 74.
+
+1\. El Consejo de Administración del Patrimonio Nacional se reunirá previa convocatoria de su Presidente, efectuada a iniciativa de éste o a petición de, al menos, tres Consejeros, tantas veces como sea necesario para el buen funcionamiento del Patrimonio Nacional y ordinariamente una vez al mes.
+
+2\. No será necesaria la previa convocatoria del Consejo para que éste se reúna si, hallándose presentes todos los Consejeros, decidiesen por unanimidad celebrar sesión.
+
+3\. La convocatoria del Consejo, salvo en casos de urgencia apreciada por su Presidente, será cursada por escrito, directa y personalmente, con, al menos, cuarenta y ocho horas de antelación, e irá acompañada del orden del día de la reunión y, cuando fuera preciso, de la documentación necesaria para el conocimiento previo de los asuntos.
+
+##### Artículo 75.
+
+1\. El Consejo de Administración quedará válidamente constituido cuando concurran a la reunión, presentes o representados, la mitad más uno de sus componentes.
+
+2\. Si no existiera quórum de asistencia, el Consejo de Administración se reunirá en segunda convocatoria veinticuatro horas después de la señalada para la primera, siendo entonces válida la celebración con cinco de sus miembros, siempre que estén presentes el Presidente y el Gerente.
+
+3\. Los Consejeros podrá otorgar por escrito su representación, asistir a las reuniones del Consejo, al Presidente o a otro Vocal.
+
+4\. Podrá asistir a las reuniones del Consejo cualquier persona que fuese convocada expresamente para ello, limitándose su comparecencia al tiempo de tratarse el asunto para el que fue convocado.
+
+##### Artículo 76.
+
+1\. Los acuerdos se adoptarán por mayoría de votos de los miembros asistentes. En caso de empate, el Presidente tendrá voto de calidad.
+
+2\. Las delegaciones de atribuciones del Consejo de Administración requerirán el voto favorable de las dos terceras partes de los miembros del Consejo.
+
+3\. No podrá recaer acuerdo sobre cualquier asunto que no figure incluido en el orden del día, salvo que estén presentes dos tercios de los miembros del Consejo y sea declarada la urgencia del mismo por el voto favorable de la mayoría absoluta de los componentes del Consejo.
+
+##### Artículo 77.
+
+1\. De cada sesión que celebre el Consejo de Administración se levantará un acta que contendrá la indicación de las de las circunstancias de tiempo y lugar en que se celebra, de los asuntos sometidos a la decisión del Consejo, del resultado de las votaciones y del contenido de los acuerdos.
+
+2\. Las actas serán redactadas y firmadas por el Secretario del Consejo, con el visto bueno del Presidente, y se aprobarán en la misma o en la siguiente sesión, en cuyo caso se acompañarán en el orden del día de esta última.
+
+3\. Los Consejeros podrán hacer constar en acta su voto contrario al acuerdo adoptado o su abstención y los motivos que los fundamenten.
+
+##### Artículo 78.
+
+En lo no previsto en Ios dos primeros capítulos de este título se aplicarán, con carácter supletorio, las normas contenidas en el capítulo II del título primero de la Ley de Procedimiento Administrativo.
+
+##### Artículo 79.
+
+Los actos administrativos del Consejo de Administración, de su Presidente y del Gerente, en el ámbito de sus respectivas competencias, que no agoten la vía administrativa, serán recurribles ante el Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno, conforme a lo establecido en la Ley de Procedimiento Administrativo.
+
+#### CAPÍTULO III — De las Direcciones y las Delegaciones
+
+> Se modifica la rúbrica por el art. único.15 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 80.
+
+1\. Dependiendo de la Presidencia existirá una Dirección de Comunicación, con nivel orgánico de Subdirección General.
+
+2\. Dependen de la Gerencia, con nivel orgánico de Subdirección General, las siguientes Direcciones:
+
+a) La Dirección de Administración y Medios.
+
+b) La Dirección de las Colecciones Reales.
+
+c) La Dirección de Inmuebles y Medio Natural.
+
+d) La Dirección de Actividades Culturales, Marketing y Calidad de la Visita.
+
+3\. Para la gestión ordinaria de los bienes y derechos del Patrimonio Nacional, existirán, dependiendo jerárquicamente de la Gerencia, Delegaciones en los Reales Sitios de La Almudaina, de Aranjuez, de El Pardo, de San Ildefonso, y de San Lorenzo de El Escorial, así como una Delegación para los Reales Patronatos, a la que también corresponderá la gestión ordinaria del Monasterio de San Jerónimo de Yuste.
+
+4\. Están adscritos a la Gerencia, con las funciones que les atribuyen las disposiciones vigentes y sin perjuicio de su dependencia de los Ministerios de Presidencia, Justicia y Relaciones con las Cortes y de Hacienda, respectivamente, los siguientes órganos:
+
+a) La Abogacía del Estado en el Consejo de Administración del Patrimonio Nacional.
+
+b) La Intervención Delegada de la Intervención General de la Administración del Estado.
+
+> Se modifica por el art. único.16 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+> Se modifica por el art. único.1 del Real Decreto 214/2014, de 28 de marzo. [Ref. BOE-A-2014-3371](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3371).
+
+> Se modifica por el art. único.1 del Real Decreto 600/2011, de 29 de abril. [Ref. BOE-A-2011-7704](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-7704).
+
+##### Artículo 81.
+
+1\. Corresponde a la Dirección de Administración y Medios el ejercicio de las siguientes funciones:
+
+a) La planificación, desarrollo y gestión de los recursos humanos, la formación y la acción social, los programas de activación para el empleo gestionados por la entidad, el seguimiento de la negociación colectiva y el servicio de prevención de riesgos laborales.
+
+b) La preparación del anteproyecto de presupuesto de la entidad, la tramitación de sus modificaciones y el seguimiento de su ejecución.
+
+c) La gestión económica, presupuestaria y financiera de ingresos y gastos de la entidad, el control de tesorería y la tramitación de los expedientes de contratación, de acuerdo con la normativa sobre contratación del sector público.
+
+d) El desarrollo de los sistemas de información necesarios para el funcionamiento de los servicios, la coordinación de la política informática de la entidad en materia de adquisición de equipos informáticos, diseño, desarrollo e implantación de sistemas de información y la elaboración y actualización del registro de bienes y recursos informáticos.
+
+e) La actualización permanente del inventario de bienes y derechos del Patrimonio Nacional que no correspondan a otras Direcciones, así como del inventario de bienes y derechos de la entidad.
+
+f) La tramitación de los expedientes de afectación y desafectación de los bienes y derechos que forman parte del Patrimonio Nacional y la preparación de las correspondientes propuestas.
+
+g) El régimen interior de los servicios generales, la gestión de los suministros, y la dirección y coordinación de los servicios de información, registro y documentación.
+
+h) La gestión y la actualización de la señalética en los espacios del Patrimonio Nacional, en coordinación con las demás Direcciones y sin perjuicio de lo señalado en la letra d) del artículo 83 de este real decreto.
+
+i) La elaboración y tramitación de los proyectos de disposiciones de carácter general relacionados con la entidad, en coordinación con el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.
+
+j) La tramitación de recursos y reclamaciones de competencia de la entidad, y la coordinación de las relaciones con los órganos jurisdiccionales y con la Abogacía del Estado en relación con las cuestiones propias del ámbito de la entidad.
+
+k) La coordinación y la supervisión de la política de protección de datos de carácter personal.
+
+l) El impulso y la coordinación de las actuaciones en materia de igualdad efectiva de trato y oportunidades entre mujeres y hombres que afecten al personal de la entidad.
+
+m) La realización de cualquier otra actuación que le encomiende la Gerencia y que no esté atribuida a otras Direcciones, dentro del ámbito del presente Reglamento y de acuerdo con la normativa aplicable.
+
+2\. Corresponde a la persona titular de la Dirección de Administración y Medios la suplencia de la persona titular de la Gerencia en los casos de vacancia, ausencia, enfermedad u otra causa legal.
+
+> Se modifica por el art. único.17 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+> Se modifica por el art. único.2 del Real Decreto 214/2014, de 28 de marzo. [Ref. BOE-A-2014-3371](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3371).
+
+> Se modifica por el art. único.2 del Real Decreto 600/2011, de 29 de abril. [Ref. BOE-A-2011-7704](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-7704).
+
+> Se modifica por el art. único del Real Decreto 2208/1995, de 28 de diciembre. [Ref. BOE-A-1996-907](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-907)
+
+> Se modifica por el art. único del Real Decreto 694/1989, de 16 de junio. [Ref. BOE-A-1989-14135](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-14135)
+
+##### Artículo 82.
+
+Corresponde a la Dirección de las Colecciones Reales el ejercicio de las siguientes funciones:
+
+a) La gestión integral de los bienes muebles de carácter histórico-artístico que integran el Patrimonio Nacional, así como las bibliotecas reales, la red de archivos del Patrimonio Nacional y la actualización permanente del inventario de dichos bienes.
+
+b) La elaboración y ejecución de la estrategia científica y artística de la Galería de las Colecciones Reales.
+
+c) La conservación y restauración de los bienes contenidos en el apartado a).
+
+d) La investigación histórica, artística y cultural de todos los bienes integrantes del Patrimonio Nacional y la catalogación y documentación de los bienes contenidos en el apartado a).
+
+e) La propuesta de presentación y exposición pública de los bienes contenidos en el apartado a).
+
+f) La coordinación y programación de las exposiciones temporales.
+
+g) La gestión de los préstamos para exposiciones y los depósitos de obras solicitados por otras instituciones.
+
+h) La dirección científica y coordinación de los proyectos de investigación y las publicaciones de contenido histórico y artístico sobre las Colecciones Reales y los Reales Sitios, en el ámbito de sus competencias.
+
+i) La elaboración de los contenidos científicos y de difusión de carácter histórico y artístico relacionados con las Colecciones Reales y los Reales Sitios, sin perjuicio de lo señalado en el artículo 83.d) de este real decreto.
+
+j) La propuesta de adquisición y aceptación de donaciones de bienes muebles, fondos documentales y fondos bibliográficos de interés histórico o artístico.
+
+> Se modifica por el art. único.18 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+> Se modifican los apartados 1.b) y 2 por la disposición final 1 del Real Decreto 697/2023, de 25 de julio. [Ref. BOE-A-2023-17169](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-17169)
+
+> Se modifica por el art. único.3 del Real Decreto 214/2014, de 28 de marzo. [Ref. BOE-A-2014-3371](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3371).
+
+> Se modifica por el art. único.3 del Real Decreto 600/2011, de 29 de abril. [Ref. BOE-A-2011-7704](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-7704).
+
+> Se modifica por el art. único del Real Decreto 2208/1995, de 28 de diciembre. [Ref. BOE-A-1996-907](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-907)
+
+##### Artículo 83.
+
+Corresponde a la Dirección de Inmuebles y Medio Natural el ejercicio de las siguientes funciones:
+
+a) La rehabilitación, restauración y mejora, así como actuaciones de conservación y mantenimiento de bienes inmuebles.
+
+b) La conservación, restauración y exposición al público de elementos pictóricos o escultóricos incorporados a edificios o situados en parques y jardines, en coordinación con la Dirección de las Colecciones Reales.
+
+c) La conservación, la ejecución de proyectos científicos y la mejora de los jardines, parques, montes y fauna, así como la gestión de los espacios naturales, de conformidad con los planes de protección medioambiental aprobados por el Gobierno, a propuesta del Consejo de Administración del Patrimonio Nacional.
+
+d) La elaboración de los contenidos científicos y de difusión de los espacios naturales que integran el Patrimonio Nacional, así como la gestión y actualización permanente de la señalética correspondiente.
+
+e) La explotación de los bienes inmuebles susceptibles de aprovechamiento rentable.
+
+f) La administración y gestión de los bienes inmuebles y semovientes integrados en el Patrimonio Nacional, así como la actualización permanente del inventario de dichos bienes.
+
+> Se modifica por el art. único.19 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+> Se modifica por el art. único.4 del Real Decreto 214/2014, de 28 de marzo. [Ref. BOE-A-2014-3371](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3371).
+
+> Se modifica por el art. único.4 del Real Decreto 600/2011, de 29 de abril. [Ref. BOE-A-2011-7704](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-7704).
+
+> Se modifica por el art. único del Real Decreto 2208/1995, de 28 de diciembre. [Ref. BOE-A-1996-907](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-907)
+
+> Se modifica por el art. único del Real Decreto 694/1989, de 16 de junio. [Ref. BOE-A-1989-14135](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-14135)
+
+##### Artículo 84.
+
+Corresponde a la Dirección de Actividades Culturales, Marketing y Calidad de la Visita el ejercicio de las siguientes funciones:
+
+a) La planificación, organización operativa y desarrollo de los actos y actividades culturales de Patrimonio Nacional.
+
+b) La gestión de la cesión temporal de espacios para eventos públicos y privados.
+
+c) El diseño, la propuesta y la coordinación de la ejecución de las actividades educativas de la entidad.
+
+d) La coordinación de la gestión de todos los espacios abiertos a la visita del Patrimonio Nacional, incluida la atención al visitante, la gestión de la calidad de la visita, la estadística relacionada con la visita y la implantación de nuevas tecnologías y mejora de la experiencia de los visitantes del Patrimonio Nacional.
+
+e) La elaboración, ejecución y seguimiento de la estrategia comercial y de marketing, así como el impulso y ejecución de las campañas de marketing digital relativas a los programas e iniciativas de la entidad.
+
+f) La elaboración, ejecución y seguimiento de la estrategia de patrocinio y mecenazgo de la entidad, así como el fomento y la determinación del marco global de colaboración con otras entidades públicas o privadas orientado a potenciar la actividad del Consejo de Administración del Patrimonio Nacional.
+
+> Se modifica por el art. único.20 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+> Se modifica por el art. único.5 del Real Decreto 214/2014, de 28 de marzo. [Ref. BOE-A-2014-3371](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3371).
+
+> Se modifica por el art. único.5 del Real Decreto 600/2011, de 29 de abril. [Ref. BOE-A-2011-7704](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-7704).
+
+> Se modifica por art. único del Real Decreto 2208/1995, de 28 de diciembre. [Ref. BOE-A-1996-907](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-907)
+
+##### Artículo 85.
+
+Corresponde a la Dirección de Comunicación el ejercicio de las siguientes funciones:
+
+a) La elaboración y ejecución de la estrategia de comunicación y difusión del Patrimonio Nacional para el cumplimiento de los fines y objetivos que contempla su ley reguladora y el reforzamiento de la imagen de marca de la entidad.
+
+b) La elaboración, ejecución y seguimiento de las actuaciones de la entidad en materia de publicidad institucional, así como la supervisión de las actuaciones en este mismo ámbito de las entidades que colaboren con el Patrimonio Nacional.
+
+c) La dirección y coordinación de la comunicación interna de la entidad.
+
+> Se añade por el art. único.21 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+> Se suprime por el art. único.6 del Real Decreto 214/2014, de 28 de marzo. [Ref. BOE-A-2014-3371](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3371).
+
+> Se modifica por el art. único.6 del Real Decreto 600/2011, de 29 de abril. [Ref. BOE-A-2011-7704](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-7704).
+
+> Se modifica por el art. único del Real Decreto 2208/1995, de 28 de diciembre. [Ref. BOE-A-1996-907](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-907)
+
+> Se modifica por el art. único del Real Decreto 694/1989, de 16 de junio. [Ref. BOE-A-1989-14135](https://www.boe.es/buscar/doc.php?id=BOE-A-1989-14135)
+
+##### Artículo 85 bis.
+
+Corresponde a las personas titulares de las Delegaciones en los Reales Sitios y Reales Patronatos el ejercicio de las siguientes funciones:
+
+a) La gestión y coordinación ordinarias de los medios de la Delegación.
+
+b) La ejecución de las instrucciones y las resoluciones de las Gerencia que sean de aplicación en cada Delegación.
+
+c) Velar por el adecuado funcionamiento de los servicios de la Delegación.
+
+d) Proponer a la Gerencia las medidas, planes y protocolos que resulten necesarias para la mejora de los servicios, actividades y de la conservación de los bienes integrantes del Patrimonio Nacional en cada Delegación.
+
+e) La representación de la entidad y la interlocución ordinaria con las personas físicas y jurídicas de su respectivo ámbito, sin perjuicio de las funciones que en este ámbito tienen encomendadas la Presidencia y la Gerencia.
+
+> Se añade por el art. único.22 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 86.
+
+Las funciones del Consejo de Administración del Patrimonio Nacional se entienden sin perjuicio de las competencias que al Ministerio de Cultura atribuye la Ley 16/1985, de 25 de junio, y disposiciones dictadas en su desarrollo.
+
+#### CAPÍTULO IV — Del régimen económico-financiero
+
+##### Artículo 87.
+
+Con objeto de ordenar la gestión económica del Patrimonio Nacional, se formará para cada ejercicio un presupuesto conforme a lo previsto en la Ley General Presupuestaria (artículo 9.4, Ley del Patrimonio Nacional).
+
+##### Artículo 88.
+
+1\. El Consejo de Administración elaborará y aprobará anualmente, por mayoría de los dos tercios de sus miembros, un anteproyecto de presupuesto y lo remitirá al Ministerio de Economía y Hacienda, a través del Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno, a los efectos de su inclusión en los Presupuestos Generales del Estado.
+
+La estructura y el contenido del referido anteproyecto se ajustarán a lo dispuesto en la normativa presupuestaria vigente.
+
+2\. En el estado letra A) de los Presupuestos Generales del Estado se incluirá en la sección correspondiente la dotación en la que figurarán los créditos necesarios para atender al cumplimiento de las obligaciones del Patrimonio Nacional (artículo 9.1, Ley del Patrimonio Nacional).
+
+3\. Asimismo, excepcionalmente, se aplicarán al Patrimonio Nacional los créditos presupuestarios que figuran en las secciones correspondientes de los distintos Ministerios, cuando éstos los destinen a la realización de actividades propias de su competencia que guarden relación con los bienes del Patrimonio Nacional (artículo 9.2, Ley del Patrimonio Nacional).
+
+##### Artículo 89.
+
+Los frutos, rentas, percepciones o rendimientos de cualquier naturaleza, producidos por los bienes que integran el Patrimonio Nacional, se ingresarán en el Tesoro Público, sin perjuicio de la posibilidad de generación de créditos que legalmente proceda.
+
+##### Artículo 90.
+
+1\. El régimen presupuestario, económico-financiero, de intervención, control financiero y contabilidad del Consejo de Administración del Patrimonio Nacional se ajustará a las normas aplicables a los organismos autónomos del sector público administrativo estatal.
+
+2\. Sin perjuicio de las competencias de fiscalización atribuidas al Tribunal de Cuentas, el control interno de la gestión económico-financiera de la entidad corresponde a la Intervención General de la Administración del Estado, y se realizará en las condiciones y en los términos establecidos en la Ley 47/2003, de 26 de noviembre, por la Intervención Delegada en el Consejo de Administración del Patrimonio Nacional, bajo la dependencia orgánica y funcional de la Intervención General de la Administración del Estado.
+
+3\. La entidad estará sometida a la supervisión continua del Ministerio de Hacienda, a través de la Intervención General de la Administración del Estado, conforme a lo dispuesto en el artículo 85.3 de la referida Ley 40/2015, de 1 de octubre.
+
+> Se modifica por el art. único.23 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 91.
+
+El Consejo de Administración del Patrimonio Nacional determinará los documentos contables que deben formalizar los Servicios Centrales y las Delegaciones en los Reales Sitios, su periodicidad y procedimiento, así como los oportunos mecanismos de control.
+
+##### Artículo 92.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.24 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+##### Artículo 93.
+
+Las cuentas del Consejo de Administración del Patrimonio Nacional, una vez formadas, serán remitidas al Tribunal de Cuentas para su examen y censura.
+
+#### CAPÍTULO V — Del personal al servicio del Consejo de Administración del Patrimonio Nacional
+
+##### Artículo 94.
+
+El personal del Consejo de Administración del Patrimonio Nacional estará integrado por funcionarios públicos, que se regirán por la normativa aplicable con carácter general a los funcionarios de la Administración del Estado y por personal contratado con arreglo a la legislación laboral.
+
+##### Artículo 95.
+
+Todos los puestos de trabajo del Consejo de Administración del Patrimonio Nacional, tanto los reservados a personal funcionario como a personal laboral, se incluirán en las correspondientes relaciones, que se ajustarán a la normativa sobre relaciones de puestos de trabajo y cuya tramitación se realizará a través del Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno.
+
+##### Artículo 96.
+
+De acuerdo con lo que prevea la relación de puestos de trabajo, el personal funcionario accederá a los puestos de trabajo del Consejo de Administración del Patrimonio Nacional reservados al mismo mediante los procedimientos generales de provisión, concurso o libre designación, cuya convocatoria pública se realizará a través del Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno.
+
+##### Artículo 97.
+
+De acuerdo con la correspondiente oferta de empleo público de la Administración del Estado, la selección del personal laboral del Consejo de Administración del Patrimonio Nacional se llevará a cabo garantizando los principios de igualdad, mérito y capacidad, mediante convocatoria pública realizada a través del Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno.
+
+##### Artículo 98.
+
+El personal del Consejo de Administración del Patrimonio Nacional deberá inscribirse en el Registro Central de Personal a que se refiere el artículo 13 de la Ley 30/1984, de 2 de agosto.
+
+##### Disposición adicional única.
+
+Los titulares de los puestos recogidos en los apartados 1 y 2 del artículo 80 tendrán la consideración de personal directivo, de acuerdo con lo dispuesto en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, de 12 de abril, del Estatuto Básico del Empleado Público, y conforme a lo previsto en el título IV del libro segundo del Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo.
+
+Dichos puestos de trabajo serán desempeñados por personal funcionario de carrera pertenecientes a los Cuerpos o Escalas del subgrupo A1.
+
+No obstante, excepcionalmente los puestos de trabajo de los titulares de las Direcciones de Comunicación, de las Colecciones Reales, de Inmuebles y Medio Natural y de Actividades Culturales, Marketing y Calidad de la Visita podrán ser ocupados mediante contrato laboral especial de alta dirección.
+
+El personal funcionario que pase a prestar sus servicios en el Consejo de Administración del Patrimonio Nacional mediante contrato laboral especial de alta dirección se le reconocerá la situación administrativa de servicios especiales, en los supuestos del artículo 87 de del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.
+
+> Se modifica por el art. único.25 del Real Decreto 261/2026, de 1 de abril. [Ref. BOE-A-2026-7823](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7823)
+
+> Se añade por el art. único.7 del Real Decreto 214/2014, de 28 de marzo. [Ref. BOE-A-2014-3371](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3371).
+
+##### Disposición transitoria primera.
+
+En tanto no ha sido creado el Servicio Jurídico del Consejo de Administración del Patrimonio Nacional, corresponderá al Servicio Jurídico del Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno emitir el informe previsto en el artículo 9.º, 2 de este Reglamento.
+
+##### Disposición transitoria segunda.
+
+Lo dispuesto en los artículos 39 a 42 del presente Reglamento, relativos a la constitución de depósitos de bienes muebles del Patrimonio Nacional, será aplicable a los bienes actualmente objeto de depósito, debiendo, en consecuencia, procederse, en el plazo de dos años desde la entrada en vigor del presente Reglamento, a la regularización de los respectivos depósitos.
+
+##### Disposición transitoria tercera.
+
+En tanto se aprueban las disposiciones previstas en la disposición final tercera de la Ley reguladora del Patrimonio Nacional, el Consejo de Administración del Patrimonio Nacional, en el ejercicio de las funciones de patronato y representación a que se refiere el artículo 58 del presente Reglamento, se ajustará a lo establecido en la legislación vigente sobre Fundaciones Culturales Privadas, sin perjuicio de lo dispuesto en dicha Ley y en este Reglamento.
+
+##### Disposición transitoria cuarta.
+
+El inventario de las donaciones hechas el Estado a través del Rey, a las que se refiere el artículo 4.º, 8, de la Ley reguladora del Patrimonio Nacional, será formado por los servicios del Consejo de Administración y sometido a dictamen de la Comisión creada por el Real Decreto 662/1984, de 25 de enero, en cumplimiento de la disposición adicional única de dicha Ley.
+
+Dictaminado el inventario, el Consejo de Administración lo elevará al Gobierno, para su aprobación, a través del Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno. Una vez aprobado será remitido a las Cortes Generales.
+
+El referido inventario formará parte del Inventario General regulado en el presente Reglamento.
+
+##### Disposición final primera.
+
+Se autoriza al Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno para dictar las disposiciones precisas para el cumplimiento de lo previsto en la disposición final segunda de la Ley reguladora del Patrimonio Nacional.
+
+##### Disposición final segunda.
+
+El Consejo de Administración será oído en el expediente de elaboración del Real Decreto que regule las materias objeto del Decreto-ley de 23 de agosto de 1957, que prevé la disposición final tercera, tres, de la Ley reguladora del Patrimonio Nacional.
+
+##### Disposición final tercera.
+
+Por el Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno, previo informe del Consejo de Administración del Patrimonio Nacional, se dictarán cuantas disposiciones sean necesarias para el desarrollo de lo establecido en el presente Reglamento.
+
+##### Disposición derogatoria.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Reglamento y, en particular, la Orden de 4 de abril de 1942, por la que se aprueba el Reglamento del Consejo de Administración del Patrimonio Nacional, y el Real Decreto 1412/1986, de 28 de junio, por el que se determina la estructura orgánica de la Gerencia del Patrimonio Nacional.

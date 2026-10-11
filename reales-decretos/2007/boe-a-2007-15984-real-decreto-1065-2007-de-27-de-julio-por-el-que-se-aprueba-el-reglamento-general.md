@@ -1330,14 +1330,6 @@ A estos efectos, se considerarán actividades empresariales o profesionales toda
 
 Las entidades a las que sea de aplicación la Ley 49/1960, de 21 de junio sobre la propiedad horizontal, así como, las entidades o establecimientos privados de carácter social a que se refiere el artículo 20.Tres de la Ley 37/1992 de 28 de diciembre, del Impuesto sobre el Valor Añadido, incluirán también en la declaración anual de operaciones con terceras personas las adquisiciones en general de bienes o servicios que efectúen al margen de las actividades empresariales o profesionales, incluso aunque no realicen actividades de esta naturaleza.
 
-> Téngase en cuenta que esta redacción del apartado 1 establecida por el art. 3.6 del Real Decreto 828/2013, de 25 de octubre. [Ref. BOE-A-2013-11216](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11216). entra en vigor el 1-1-2014.
-
-> Redacción vigente hasta 31-12-2013:
-
-> 1\. De acuerdo con lo dispuesto en el artículo 93 de la Ley 58/2003, de 17 de diciembre, General Tributaria, las personas físicas o jurídicas, públicas o privadas, así como las entidades a que se refiere el artículo 35.4 de dicha ley, que desarrollen actividades empresariales o profesionales, deberán presentar una declaración anual relativa a sus operaciones con terceras personas.
-
-> A estos efectos, se considerarán actividades empresariales o profesionales todas las definidas como tales en el artículo 5.dos de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido. Asimismo, tendrán esta consideración las actividades realizadas por quienes sean calificados de empresarios o profesionales en el artículo 5.uno de dicha ley, con excepción de lo dispuesto en su párrafo e).
-
 2\. Las personas y entidades a que se refiere el artículo 94.1 y 2 de la Ley 58/2003, de 17 de diciembre, General Tributaria, incluirán también en la declaración anual de operaciones con terceras personas las adquisiciones en general de bienes o servicios que efectúen al margen de las actividades empresariales o profesionales, incluso aunque no realicen actividades de esta naturaleza.
 
 Las entidades integradas en las distintas Administraciones públicas deberán incluir, además, en la declaración anual de operaciones con terceras personas las subvenciones, auxilios o ayudas que concedan con cargo a sus presupuestos generales o que gestionen por cuenta de entidades u organismos no integrados en dichas Administraciones públicas.
@@ -1442,50 +1434,6 @@ Las de suministro de agua, energía eléctrica y combustibles.
 
 Las derivadas de seguros.
 
-> Téngase en cuenta que esta redacción establecida por el art. 3.8 del Real Decreto 828/2013, de 25 de octubre. [Ref. BOE-A-2013-11216](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11216). entra en vigor el 1-1-2014.
-
-> Redacción vigente hasta 31-12-2013:
-
-> 1\. Los obligados tributarios a que se refiere el artículo 31.1 de este reglamento deberán relacionar en la declaración anual todas aquellas personas o entidades, cualquiera que sea su naturaleza o carácter, con quienes hayan efectuado operaciones que en su conjunto para cada una de dichas personas o entidades hayan superado la cifra de 3.005,06 euros durante el año natural correspondiente. La información sobre dichas operaciones se suministrará desglosada trimestralmente. A tales efectos, se computarán de forma separada las entregas y las adquisiciones de bienes y servicios.
-
-> A efectos de lo dispuesto en el párrafo anterior, tendrán la consideración de operaciones tanto las entregas de bienes y prestaciones de servicios como las adquisiciones de los mismos. En ambos casos, se incluirán las operaciones típicas y habituales, las ocasionales, las operaciones inmobiliarias y las subvenciones, auxilios o ayudas no reintegrables que puedan otorgar.
-
-> Con las excepciones que se señalan en el apartado siguiente, en la declaración anual se incluirán las entregas, prestaciones o adquisiciones de bienes y servicios sujetas y no exentas en el Impuesto sobre el Valor Añadido, así como las no sujetas o exentas de dicho impuesto.
-
-> Las entidades aseguradoras incluirán en su declaración anual las operaciones de seguro. A estos efectos, se atenderá al importe de las primas o contraprestaciones percibidas y a las indemnizaciones o prestaciones satisfechas y no será de aplicación a estas operaciones, en ningún caso, lo dispuesto en el párrafo a) del apartado siguiente.
-
-> 2\. No obstante lo dispuesto en el apartado anterior, quedan excluidas del deber de declaración las siguientes operaciones:
-
-> a) Aquellas que hayan supuesto entregas de bienes o prestaciones de servicios por las que los obligados tributarios no debieron expedir y entregar factura o documento sustitutivo, así como aquellas en las que no debieron consignar los datos de identificación del destinatario o no debieron firmar el recibo emitido por el adquirente en el régimen especial de la agricultura, ganadería y pesca del Impuesto sobre el Valor Añadido.
-
-> b) Aquellas operaciones realizadas al margen de la actividad empresarial o profesional del obligado tributario.
-
-> c) Las entregas, prestaciones o adquisiciones de bienes o servicios efectuadas a título gratuito no sujetas o exentas del Impuesto sobre el Valor Añadido.
-
-> d) Los arrendamientos de bienes exentos del Impuesto sobre el Valor Añadido realizados por personas físicas o entidades sin personalidad jurídica al margen de cualquier otra actividad empresarial o profesional.
-
-> e) Las adquisiciones de efectos timbrados o estancados y signos de franqueo postal, excepto los que tengan la consideración de objetos de colección, según la definición que se contiene en el artículo 136.uno.3.ºa) de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
-
-> f) Las operaciones realizadas por las entidades o establecimientos de carácter social a que se refiere el artículo 20.tres de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, y que correspondan al sector de su actividad, cuyas entregas de bienes y prestaciones de servicios estén exentos de dicho impuesto.
-
-> g) Las importaciones y exportaciones de mercancías, así como las operaciones realizadas directamente desde o para un establecimiento permanente del obligado tributario situado fuera del territorio español, salvo que aquel tenga su sede en España y la persona o entidad con quien se realice la operación actúe desde un establecimiento situado en territorio español.
-
-> h) Las entregas y adquisiciones de bienes que supongan envíos entre el territorio peninsular español o las islas Baleares y las islas Canarias, Ceuta y Melilla.
-
-> i) En general, todas aquellas operaciones respecto de las que exista una obligación periódica de suministro de información a la Administración tributaria estatal mediante declaraciones específicas diferentes a la regulada en esta subsección y cuyo contenido sea coincidente.
-
-> 3\. Los obligados tributarios a que se refiere del 31.2 de este reglamento deberán incluir, además, en la declaración anual de operaciones, a todas aquellas personas o entidades, cualquiera que sea su naturaleza o carácter, a quienes hayan efectuado adquisiciones de bienes o servicios al margen de cualquier actividad empresarial o profesional, que en su conjunto, para cada una de aquellas, hayan superado la cifra de 3.005,06 euros durante el año natural correspondiente, con las siguientes excepciones:
-
-> a) Las importaciones de mercancías.
-
-> b) Las adquisiciones de bienes que supongan envíos entre el territorio peninsular español o las islas Baleares y las islas Canarias, Ceuta y Melilla.
-
-> c) Las establecidas en el párrafo e) y en el párrafo i) del apartado 2 de este artículo.
-
-> Asimismo, las entidades integradas en las distintas Administraciones públicas deberán relacionar en dicha declaración a todas aquellas personas o entidades a quienes hayan satisfecho subvenciones, auxilios o ayudas que, en su conjunto, para cada una de aquellas, hayan superado por su parte la cifra de 3.005,06 euros, sin perjuicio de la aplicación en este supuesto de la excepción prevista en el párrafo i) del apartado anterior.
-
-> 4\. Los obligados tributarios a que se refiere el artículo 31.3 de este reglamento deberán incluir en la declaración anual de operaciones con terceras personas, los pagos a que se refiere dicho precepto, siempre y cuando el total de la cantidad satisfecha a cada persona imputada haya superado la cifra de 300,51 euros.
-
 > Se modifica por el art. 3.8 del Real Decreto 828/2013, de 25 de octubre. [Ref. BOE-A-2013-11216](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11216).
 
 > Se modifican los apartados 1 y 2 por el art. 1.3 del Real Decreto 1615/2011, de 14 de noviembre. [Ref. BOE-A-2011-18596](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18596).
@@ -1524,32 +1472,6 @@ k) Se harán constar separadamente de otras operaciones que, en su caso, se real
 
 l) Se harán constar separadamente de otras operaciones que, en su caso, se realicen entre las mismas partes, las operaciones que hayan resultado exentas del Impuesto sobre el Valor Añadido por referirse a bienes vinculados o destinados a vincularse al régimen de depósito distinto de los aduaneros definido en el apartado quinto del Anexo de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
 
-> Téngase en cuenta que esta redacción del apartado 1 establecida por el art. 3.9 del Real Decreto 828/2013, de 25 de octubre. [Ref. BOE-A-2013-11216](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11216). entra en vigor el 1-1-2014.
-
-> Redacción vigente hasta 31-12-2013:
-
-> 1\. En la declaración anual de operaciones con terceras personas se consignarán los siguientes datos:
-
-> a) Nombre y apellidos o razón social o denominación completa, así como el número de identificación fiscal y el domicilio fiscal del declarante.
-
-> b) Nombre y apellidos o razón social o denominación completa, así como el número de identificación fiscal de cada una de las personas o entidades incluidas en la declaración.
-
-> c) El importe total, expresado en euros, de las operaciones realizadas con cada persona o entidad durante el año natural al que la declaración se refiera.
-
-> d) En particular, se harán constar separadamente de otras operaciones que, en su caso, se realicen entre las mismas partes, los arrendamientos de locales de negocios, sin perjuicio de su consideración unitaria a efectos de lo dispuesto en el artículo 33.1 de este reglamento. En estos casos, el arrendador consignará el nombre y apellidos o razón social o denominación completa y el número de identificación fiscal de los arrendatarios, así como las referencias catastrales y los datos necesarios para la localización de los inmuebles arrendados.
-
-> e) Las entidades aseguradoras deberán consignar, separadamente de otras operaciones, las de seguros. A estos efectos, consignarán el importe de las primas o contraprestaciones percibidas y las indemnizaciones o prestaciones satisfechas en el ejercicio de su actividad aseguradora. Dicha identificación separada se entiende sin perjuicio de su inclusión en el importe total de las operaciones realizadas con cada persona o entidad, a efectos de lo dispuesto en el artículo 33.1 de este reglamento.
-
-> f) Las agencias de viajes consignarán separadamente aquellas prestaciones de servicios en cuya contratación intervengan como mediadoras en nombre y por cuenta ajena que cumplan con los requisitos a que se refiere la disposición adicional cuarta del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
-
-> Asimismo, harán constar separadamente los servicios de mediación en nombre y por cuenta ajena relativos a los servicios de transporte de viajeros y de sus equipajes que la agencia de viajes preste al destinatario de dichos servicios de transporte, de conformidad con lo dispuesto en el apartado 3 de la citada disposición adicional cuarta.
-
-> g) Deberán declararse separadamente los cobros por cuenta de terceros de honorarios profesionales o de derechos derivados de la propiedad intelectual, industrial, de autor u otros por cuenta de sus socios, asociados o colegiados efectuados por sociedades, asociaciones, colegios profesionales u otras entidades que, entre sus funciones, realicen las de cobro según lo dispuesto en el artículo 31.3 de este reglamento.
-
-> h) Se harán constar los importes superiores a 6.000 euros que se hubieran percibido en metálico de cada una de las personas o entidades relacionadas en la declaración.
-
-> i) Se harán constar separadamente de otras operaciones que, en su caso, se realicen entre las mismas partes, las cantidades que se perciban en contraprestación por transmisiones de inmuebles, efectuadas o que se deban efectuar, que constituyan entregas sujetas en el Impuesto sobre el Valor Añadido.
-
 2\. En la determinación del importe total de las operaciones realizadas con cada persona o entidad, se observarán los siguientes criterios:
 
 a) Tratándose de operaciones sujetas y no exentas del Impuesto sobre el Valor Añadido, se declarará el importe total de las contraprestaciones, incluidas las cuotas y recargos repercutidos o soportados por dicho impuesto.
@@ -1577,14 +1499,6 @@ En el supuesto de insolvencias que, según lo dispuesto en el artículo 80.tres 
 A estos efectos, las operaciones se entenderán producidas en el período en el que, de acuerdo con lo previsto en el artículo 69 del Reglamento del Impuesto sobre el Valor Añadido, se debe realizar la anotación registral de la factura o documento contable que sirva de justificante de las mismas.
 
 No obstante, las operaciones a las que sea de aplicación el régimen especial del criterio de caja del Impuesto sobre el Valor Añadido a que se refiere el párrafo tercero de la letra j) del apartado 1 del artículo anterior, se consignarán en el año natural correspondiente al momento del devengo total o parcial de las mismas, de conformidad con los criterios contenidos en el artículo 163 terdecies de la Ley 37/1992 del Impuesto sobre el Valor Añadido por los importes correspondientes.
-
-> Téngase en cuenta que esta redacción del apartado 1 establecida por el art. 3.10 del Real Decreto 828/2013, de 25 de octubre. [Ref. BOE-A-2013-11216](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11216). entra en vigor el 1-1-2014.
-
-> Redacción vigente hasta 31-12-2013:
-
-> 1\. Las operaciones que deben incluirse en la declaración anual son las realizadas por el obligado tributario en el año natural al que se refiere la declaración.
-
-> A estos efectos, las operaciones se entenderán producidas en el período en el que, de acuerdo con lo previsto en el artículo 69 del Reglamento del Impuesto sobre el Valor Añadido, se debe realizar la anotación registral de la factura o documento sustitutivo que sirva de justificante de las mismas.
 
 2\. En todos los casos previstos en el artículo 34.4, cuando estos tengan lugar en un año natural diferente a aquel al que corresponda la declaración anual de operaciones con terceras personas en la que debió incluirse la operación, deberán ser consignados en la declaración del año natural en que se hayan producido dichas circunstancias modificativas. A estos efectos, el importe total de las operaciones realizadas con la misma persona o entidad se declarará teniendo en cuenta dichas modificaciones.
 
@@ -3200,22 +3114,6 @@ Los certificados tributarios producirán los efectos que en ellos se hagan const
 
 **(Suprimido)**.
 
-> Téngase en cuenta que este artículo se suprime por la disposición final 1.2 del Real Decreto 1021/2015, de 13 de noviembre. Ref. BOE-A-2015-12399., con efectos de 1 de enero de 2017.
-
-> Redacción anterior:
-
-> "1. A efectos de la aplicación de la exoneración de la retención prevista en el artículo 13.1.b) de la Directiva 2003/48/CE, del Consejo, de 3 de junio de 2003, en materia de fiscalidad de los rendimientos del ahorro en forma de pago de intereses, la Administración tributaria, previa solicitud del interesado, expedirá un certificado a los contribuyentes por el Impuesto sobre la Renta de las Personas Físicas que perciban rentas procedentes de algún Estado miembro que aplique la retención a cuenta establecida en el artículo 11 de la citada directiva.
-
-> 2\. En el certificado constarán los siguientes datos:
-
-> a) Nombre, dirección y número de identificación fiscal del perceptor.
-
-> b) Nombre y dirección de la persona o entidad que abone las rentas.
-
-> c) Número de cuenta del perceptor de las rentas o, en su defecto, la identificación del crédito.
-
-> 3\. El certificado, que será válido por un período de tres años, se expedirá en el plazo máximo de 10 días hábiles a contar desde su solicitud."
-
 > Se suprime, con efectos de 1 de enero de 2017, por la disposición final 1.2 del Real Decreto 1021/2015, de 13 de noviembre. Ref. BOE-A-2015-12399.
 
 ###### Subsección 5.ª Actuaciones de asistencia tributaria
@@ -3735,12 +3633,6 @@ El examen del adecuado cumplimiento de las obligaciones relativas al tributo que
 2\. En los supuestos de concurso, las actuaciones administrativas se entenderán con el concursado o su representante cuando el juez no hubiere acordado la suspensión de las facultades de administración y disposición.
 
 Si se hubiere acordado la suspensión de facultades, las actuaciones se entenderán con el concursado por medio de la administración concursal.
-
-> Téngase en cuenta que esta redacción del apartado 2 establecida por el art. 3.12 del Real Decreto 828/2013, de 25 de octubre. [Ref. BOE-A-2013-11216](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11216). entra en vigor el 1-1-2014.
-
-> Redacción vigente hasta 31-12-2013:
-
-> 2\. En los supuestos de concurso, las actuaciones administrativas se entenderán con el propio concursado cuando el juez no hubiera acordado la suspensión de sus facultades de administración y disposición y, en cualquier caso, con los administradores concursales como representantes del concursado o en su función de intervención, de acuerdo con lo establecido en la Ley 22/2003, de 9 de julio, Concursal.
 
 > Se modifica el apartado 2 por el art. 3.12 del Real Decreto 828/2013, de 25 de octubre. [Ref. BOE-A-2013-11216](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11216).
 
@@ -5818,28 +5710,6 @@ Con el alcance previsto en el artículo 33 de este reglamento, la información r
 
 3\. La Intervención General de la Administración del Estado se responsabilizará de la remisión de los datos que se deduzcan del sistema de información contable de la Administración General del Estado.
 
-> Téngase en cuenta que esta redacción establecida por el art. 3.13 del Real Decreto 828/2013, de 25 de octubre. [Ref. BOE-A-2013-11216](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11216). entra en vigor el 1-1-2014.
-
-> Redacción vigente hasta 31-12-2013:
-
-> 1\. La remisión a la Administración tributaria de la información de operaciones con terceras personas a que se refiere este reglamento será canalizada, en el ámbito de la Administración General del Estado, por la Intervención General de la Administración del Estado, que centralizará y agrupará en un soporte único los datos sobre las operaciones realizadas con cargo al Presupuesto de gastos del Estado por los siguientes procedimientos:
-
-> a) Pago directo.
-
-> b) Pago a justificar.
-
-> c) Anticipos de caja fija.
-
-> Con el alcance previsto en el artículo 33 de este reglamento, la información relativa a pagos directos comprenderá todas las obligaciones reconocidas en el ejercicio a que se refiere dicha información y la información referida a pagos a justificar y anticipos de caja fija comprenderá todas las operaciones incluidas en las cuentas rendidas por los habilitados y cajeros pagadores a lo largo del ejercicio.
-
-> 2\. La Intervención General de la Administración del Estado remitirá al Departamento de Informática de la Agencia Estatal de Administración Tributaria un único soporte directamente legible por ordenador comprensivo de todas las personas o entidades con quienes se hayan efectuado operaciones por cualquiera de los tres procedimientos relacionados en el apartado anterior que, en su conjunto, para cada una de dichas personas o entidades, hayan superado la cifra de 3.005,06 euros durante el año natural correspondiente.
-
-> 3\. A efectos de centralizar la información de las operaciones realizadas mediante los sistemas de pagos a justificar y anticipos de caja fija, el Ministro de Economía y Hacienda determinará, a propuesta de la Intervención General de la Administración del Estado, la información que deberán suministrar los habilitados y cajeros pagadores y los procedimientos y plazos de remisión.
-
-> 4\. La falta de remisión de información o su remisión defectuosa por parte de alguno de los habilitados y cajeros pagadores no será obstáculo para que la Intervención General de la Administración del Estado remita a la Administración tributaria un soporte con los datos efectivamente disponibles, sin perjuicio de que se complete la información, una vez subsanados los defectos de que adolezca.
-
-> 5\. La Intervención General de la Administración del Estado se responsabilizará de la remisión de los datos que se deduzcan del sistema de información contable de la Administración General del Estado.
-
 > Se modifica por el art. 3.13 del Real Decreto 828/2013, de 25 de octubre. [Ref. BOE-A-2013-11216](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11216).
 
 **Disposición adicional octava. Devolución de ingresos indebidos de derecho público.**
@@ -5873,12 +5743,6 @@ En el ámbito del Impuesto General Indirecto Canario y del Arbitrio sobre Import
 **Disposición adicional decimotercera. Composición del activo en determinadas instituciones.**
 
 **(Suprimida)**.
-
-> Téngase en cuenta que esta disposición se suprime por la disposición final 1.1 del Real Decreto 1021/2015, de 13 de noviembre. Ref. BOE-A-2015-12399., con efectos de 1 de enero de 2016.
-
-> Redacción anterior:
-
-> "El porcentaje a que se refiere el artículo 46.1.c) de este reglamento será del 25 por ciento partir del 1 de enero de 2011."
 
 > Se suprime, con efectos de 1 de enero de 2016, por la disposición final 1.1 del Real Decreto 1021/2015, de 13 de noviembre. Ref. BOE-A-2015-12399.
 
@@ -5915,18 +5779,6 @@ Tratándose de participaciones preferentes y de deuda comprendidas en el ámbito
 **Disposición transitoria segunda. Tratamiento de determinados instrumentos de renta fija a los efectos de las obligaciones de información respecto de personas físicas residentes en otros Estados miembros de la Unión Europea.**
 
 **(Suprimida)**
-
-> Téngase en cuenta que esta disposición se suprime por la disposición final 1.1 del Real Decreto 1021/2015, de 13 de noviembre. Ref. BOE-A-2015-12399., con efectos de 1 de enero de 2016.
-
-> Redacción anterior:
-
-> "1. Las rentas derivadas de las obligaciones nacionales e internacionales y demás instrumentos de deuda negociables que hayan sido emitidos originariamente antes del 1 de marzo de 2001, o cuyos folletos de emisión de origen hayan sido aprobados antes de esa fecha por las autoridades competentes conforme a la Directiva 80/390/CEE del Consejo, de 27 de marzo de 1980, sobre la coordinación de las condiciones de elaboración, control y difusión, del prospecto que se publicará para la admisión de valores mobiliarios a la cotización oficial en una bolsa de valores, o por las autoridades responsables de terceros países, no se considerarán sujetas al suministro de información previsto en los artículos 45 a 49, ambos inclusive, de este reglamento, siempre y cuando no se hayan vuelto a producir emisiones de dichos instrumentos de deuda negociables desde el 1 de marzo de 2002.
-
-> Si un Gobierno o entidad asimilada, actuando en calidad de organismo público o cuya función esté reconocida en un tratado internacional, de acuerdo con lo dispuesto en el anexo de la Directiva 2003/48/CE del Consejo, de 3 de junio de 2003, en materia de fiscalidad de los rendimientos del ahorro en forma de pago de intereses, efectuase otra emisión de los instrumentos de deuda negociable antes mencionados a partir del 1 de marzo de 2002, las rentas derivadas del conjunto de la emisión, ya sea la emisión originaria o las sucesivas, se considerarán sujetas al suministro de información previsto en los artículos 45 a 49, ambos inclusive, de este reglamento.
-
-> Si un emisor no previsto en el párrafo anterior efectuara otra emisión de dichos instrumentos a partir de 1 de marzo de 2002, sólo respecto de esa emisión posterior se considerarán las rentas derivadas de esos valores sujetas al suministro de información previsto en los artículos 45
-
-> 2\. Lo establecido en el apartado anterior cesará en su vigencia el 31 de diciembre de 2010."
 
 > Se suprime, con efectos de 1 de enero de 2016, por la disposición final 1.1 del Real Decreto 1021/2015, de 13 de noviembre. Ref. BOE-A-2015-12399.
 

@@ -1,0 +1,427 @@
+---
+title: "Orden de 2 de junio de 1994 por la que se desarrolla la estructura de la Agencia Estatal de Administración Tributaria"
+identifier: "BOE-A-1994-12973"
+eli: "https://www.boe.es/eli/es/o/1994/06/02/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1994-06-02
+published: 1994-06-09
+in_force_from: 1994-07-01
+last_amended: 2024-02-07
+consolidated: 2026-07-27
+gazette: "Boletín Oficial del Estado núm. 137"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-12973"
+retrieved: 2026-10-11
+---
+
+# Orden de 2 de junio de 1994 por la que se desarrolla la estructura de la Agencia Estatal de Administración Tributaria
+
+El artículo 103 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, modificado por la disposición adicional 17.ª de la Ley 18/1991, de 6 de junio, del Impuesto sobre la Renta de las Personas Físicas, creó la Agencia Estatal de Administración Tributaria, que, de acuerdo con la Orden del Ministro de Economía y Hacienda de 25 de septiembre de 1991, quedó efectivamente constituida el día 1 de enero de 1992, una vez realizadas las correspondientes adaptaciones organizativas y presupuestarias.
+
+De conformidad con las Leyes mencionadas, se dictó la Orden conjunta de 26 de diciembre de 1991 del Ministro de Economía y Hacienda y del Ministro para las Administraciones Públicas por la que se crearon los Departamentos de Recursos Humanos y Económico-Financiero y se recogieron los Departamentos que se incorporaban, por mandato legal, a la Agencia en sustitución de las Direcciones Generales que dependían de la Secretaría General de Hacienda.
+
+Asimismo, por Orden de 27 de diciembre de 1991, del Ministerio de Economía y Hacienda, se desarrollaron las unidades inferiores a Departamento que permiten el adecuado funcionamiento del ente público.
+
+La creación del Mercado Único y la desaparición de las aduanas intracomunitarias hacen preciso abordar una nueva estructura de las unidades con rango de Subdirección General que conforman el Departamento de Aduanas e Impuestos Especiales de la Agencia para adecuarlo a la realidad surgida de la Comunidad Europea.
+
+Por otra parte, el tiempo transcurrido desde la efectiva constitución de la Agencia y la experiencia adquirida en estos dos años aconsejan llevar a cabo modificaciones en la estructura interna de las unidades inferiores a Departamento creadas por la citada Orden de 27 de diciembre de 1991.
+
+Por último, la consecución de una eficaz lucha contra el fraude fiscal hace preciso habilitar al Servicio de Vigilancia Aduanera para llevar a cabo labores de investigación de los tributos cuya gestión tiene encomendada la AEAT.
+
+En su virtud, y de conformidad con lo dispuesto en el apartado 11.5 de la Ley 31/1990, de 27 de diciembre, dispongo:
+
+## Primero.
+
+1\. Se integran en la organización central de la Agencia Estatal de Administración Tributaria los Departamentos a los que se refiere la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias.
+
+2\. Existirán igualmente, con el rango de dirección adjunta, los siguientes órganos centrales:
+
+a) Servicio Jurídico.
+
+b) Servicio de Auditoría Interna.
+
+c) Servicio de Gestión Económica.
+
+d) Servicio de Estudios Tributarios y Estadísticas.
+
+e) Servicio de Planificación y Relaciones Institucionales.
+
+3\. Asimismo existirá, con el rango de Dirección Adjunta, dependiendo directamente del Director general de la Agencia, como órgano central de la misma y competencias en todo el territorio nacional, la Delegación Central de Grandes Contribuyentes.
+
+4\. Sin perjuicio de las competencias que la Ley determina para el Consejo Superior de Dirección de la Agencia, el Comité Permanente de Dirección de la misma, presidido por el Presidente de la Agencia, del que será Vicepresidente su Director general y del que formarán parte con carácter permanente los Directores de los Departamentos y Servicios Centrales a que se refieren los números 1 y 2 anteriores, será el cauce habitual para el análisis y coordinación de sus decisiones directivas. Asistirán asimismo a las reuniones del Comité aquellas otras personas que en cada caso se considere pertinente.
+
+5\. El Comité de Coordinación de la Dirección Territorial, integrado por los miembros del Comité de Dirección, por el Delegado Central de Grandes Contribuyentes y por los Delegados especiales de la Agencia, será el cauce institucional de coordinación e información entre la Dirección de la Agencia y su organización territorial.
+
+6\. La Comisión de Seguridad y Control, presidida por el Presidente de la Agencia Estatal de Administración Tributaria e integrada, por su Director general, el Interventor general de la Administración del Estado, el Inspector general de Economía y Hacienda y los miembros del Comité Permanente de Dirección de la Agencia, tendrá como cometido básico la elaboración de criterios y la propuesta de normas que aseguren el ajuste estricto de las actividades de la Agencia a las disposiciones que las regulan, el mantenimiento de la seguridad interna del Ente y la defensa de la integridad de los intereses económicos de la Hacienda. La Comisión de Seguridad y Control supervisará los trabajos de las Comisiones Sectoriales de Seguridad y Control que se establezcan en el seno de la Agencia y tendrá acceso a los informes de control financiero o de auditoría relativos a las anteriores cuestiones.
+
+> Se modifica el apartado 2 por el art. único.1 de la Orden EHA/1813/2010, de 23 de junio. [Ref. BOE-A-2010-10790](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10790).
+
+> Se modifican los apartados 1 y 2 por el art. único.1 de la Orden EHA/2150/2008, de 15 de julio. [Ref. BOE-A-2008-12524](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-12524).
+
+> Se modifican los apartados 1 y 2 por el art. único.1 de la Orden EHA/3650/2007, de 11 de diciembre. [Ref. BOE-A-2007-21594](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21594).
+
+> Se modifica por la disposición final 1.1 de la Orden EHA/3230/2005, de 13 de octubre. [Ref. BOE-A-2005-17211](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-17211).
+
+> Téngase en cuenta que el funcionamiento efectivo de la Delegación Central de Grandes Contribuyentes se producirá el 1 de enero de 2006, según establece la disposición final 2.2.
+
+> Se deroga por la disposición derogatoria de la Orden de 11 de julio de 1997 [Ref. BOE-A-1997-15583](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-15583). y se modifica por la disposición única.1 de la Orden de 11 de julio de 1997. [Ref. BOE-A-1997-15579](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-15579).
+
+## Segundo.
+
+El Departamento de Gestión Tributaria estará integrado por las siguientes Subdirecciones Generales:
+
+a) Subdirección General de Planificación y Coordinación.
+
+b) Subdirección General de Técnica Tributaria.
+
+c) Subdirección General de Información y Asistencia Tributaria.
+
+d) Subdirección General de Verificación y Control Tributario.
+
+e) Subdirección General de Asistencia Jurídica y Coordinación Normativa.
+
+## Tercero.
+
+El Departamento de Inspección Financiera y Tributaria estará integrado por las siguientes Subdirecciones Generales:
+
+a) Subdirección General de Ordenación Legal y Asistencia Jurídica.
+
+b) Subdirección General de Estudios, Métodos y Procedimientos.
+
+c) Subdirección General de Planificación y Control.
+
+d) Subdirección General de Inspección Territorial.
+
+> Se modifica por la disposición final 1.2 de la Orden EHA/3230/2005, de 13 de octubre. [Ref. BOE-A-2005-17211](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-17211).
+
+> Se modifica por la disposición única de la Orden de 30 de junio de 2001. [Ref. BOE-A-2001-12766](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-12766).
+
+## Cuarto.
+
+El Departamento de Recaudación estará integrado por las siguientes Subdirecciones Generales:
+
+a) Subdirección General de Coordinación y Gestión.
+
+b) Subdirección General de Organización y Planificación.
+
+c) Subdirección General de Recaudación Ejecutiva.
+
+d) Subdirección General de Procedimientos Especiales.
+
+> Se modifica por la disposición final 1.3 de la Orden EHA/3230/2005, de 13 de octubre. [Ref. BOE-A-2005-17211](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-17211).
+
+> Se modifica por el apartado 3 de la Orden de 10 de diciembre de 1998. [Ref. BOE-A-1998-29497](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-29497).
+
+## Quinto.
+
+1\. El Departamento de Aduanas e Impuestos Especiales estará integrado por la Dirección Adjunta de Vigilancia Aduanera y por las siguientes Subdirecciones Generales:
+
+a) Subdirección General de Planificación, Estadística y Coordinación.
+
+b) Subdirección General de Gestión Aduanera.
+
+c) Subdirección General de Gestión e Intervención de Impuestos Especiales.
+
+d) Subdirección General de Inspección e Investigación.
+
+e) Subdirección General Químico-Tecnológica.
+
+f) Subdirección General de Relaciones Internacionales.
+
+g) Subdirección General de Operaciones.
+
+h) Subdirección General de Logística.
+
+2\. Dependerán directamente de la Dirección Adjunta de Vigilancia Aduanera las Subdirecciones Generales contempladas en las letras g) y h).
+
+> Se modifica por el apartado único de la Orden de 27 de julio de 1998. [Ref. BOE-A-1998-18271](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-18271).
+
+> Se modifica por el apartado 2.1 de la Orden de 4 de abril de 1997. [Ref. BOE-A-1997-7437](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-7437).
+
+## Sexto.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. único.2 de la Orden EHA/1813/2010, de 23 de junio. [Ref. BOE-A-2010-10790](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10790).
+
+> Se modifica por la disposición única.2 de la Orden de 11 de julio de 1997. [Ref. BOE-A-1997-15579](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-15579).
+
+> Se modifica por el apartado 2.2 de la Orden de 4 de abril de 1997. [Ref. BOE-A-1997-7437](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-7437).
+
+## Séptimo.
+
+El Departamento de Informática Tributaria estará integrado por las siguientes Subdirecciones Generales:
+
+Subdirección General de Planificación y Coordinación Informática.
+
+Subdirección General de Explotación.
+
+Subdirección General de Aplicaciones.
+
+Subdirección General de Aplicaciones de Aduanas e Impuestos Especiales.
+
+Subdirección General de Tecnologías de Análisis de la Información e Investigación del Fraude.
+
+> Se modifica por el art. único.2 de la Orden EHA/2150/2008, de 15 de julio. [Ref. BOE-A-2008-12524](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-12524).
+
+> Se modifica por la disposición final 1.4 de la Orden EHA/3230/2005, de 13 de octubre. [Ref. BOE-A-2005-17211](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-17211).
+
+> Se modifica por la disposición única.3 de la Orden de 11 de julio de 1997. [Ref. BOE-A-1997-15579](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-15579).
+
+> Se modifica por el apartado 2.3 de la Orden de 4 de abril de 1997. [Ref. BOE-A-1997-7437](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-7437).
+
+## Octavo.
+
+El Departamento de Recursos Humanos estará integrado por los siguientes órganos:
+
+a) Dirección Adjunta de Recursos Humanos.
+
+b) Subdirección General de Gestión Administrativa de Personal.
+
+c) Subdirección General de Programación e Incentivación.
+
+d) Subdirección General de Relaciones Laborales.
+
+> Se modifica por el art. único. 2 de la Orden EHA/3650/2007, de 11 de diciembre. [Ref. BOE-A-2007-21594](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21594).
+
+> Se modifica por la disposición única de la Orden de 17 de junio de 1998. [Ref. BOE-A-1998-15059](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15059).
+
+> Se modifica por la disposición única.4 de la Orden de 11 de julio de 1997. [Ref. BOE-A-1997-15579](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-15579).
+
+> Se modifica por el apartado 2.4 de la Orden de 4 de abril de 1997. [Ref. BOE-A-1997-7437](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-7437).
+
+## Noveno.
+
+En los supuestos de vacante, ausencia o enfermedad de los Directores de los Departamentos sus funciones serán desempeñadas por los Directores Adjuntos, donde existan, y, en su defecto, por los Subdirectores Generales por el orden en el que se mencionan para cada Departamento en los apartados anteriores.
+
+> Se modifica por el art. único.3 de la Orden EHA/3650/2007, de 11 de julio. [Ref. BOE-A-2007-21594](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21594).
+
+> Se modifica por la disposición única.5 de la Orden de 11 de julio de 1997. [Ref. BOE-A-1997-15579](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-15579).
+
+## Décimo.
+
+1\. Dependiendo directamente del Director general de la Agencia, y con el rango de Dirección Adjunta, corresponderán al Servicio Jurídico de la Agencia las siguientes competencias:
+
+a) El asesoramiento en Derecho a los demás órganos de la Agencia, tanto en forma verbal como escrita.
+
+b) La representación y defensa en juicio de la Agencia, en los términos establecidos en la Orden de 29 de julio de 1994, sobre asistencia jurídica a la Agencia Estatal de Administración Tributaria.
+
+c) El bastanteo a petición del interesado y con carácter de acto administrativo, de los documentos presentados por aquéllos para acreditar la representación que invoquen.
+
+2\. El Servicio Jurídico de la Agencia se estructurará en los órganos siguientes:
+
+La Subdirección General de Organización y Asistencia Jurídica.
+
+La Subdirección General de Asuntos Consultivos y Contenciosos.
+
+3\. También se integrarán en el Servicio Jurídico de la Agencia, dependiendo directamente del Director del mismo y con el rango orgánico que determine la relación de puestos de trabajo, los Servicios Jurídicos Regionales de la Agencia.
+
+4\. Corresponderá a la Subdirección General de Asuntos Consultivos y Contenciosos el bastanteo de los documentos presentados por los interesados para acreditar la representación que invoquen, cuando dichos documentos pretendiesen ser utilizados ante los órganos centrales de la Agencia.
+
+5\. El Servicio Jurídico de la Agencia Tributaria, a través de una unidad desconcentrada dependiente de su Dirección y denominada Servicio Jurídico de la Delegación Central de Grandes Contribuyentes, prestará asistencia jurídica a dicha Delegación Central.
+
+> Se añade el apartado 5 por la disposición final 1.5 de la Orden EHA/3230/2005, de 13 de octubre. [Ref. BOE-A-2005-17211](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-17211).
+
+> Se modifica por el apartado 2.5 de la Orden de 4 de abril de 1997. [Ref. BOE-A-1997-7437](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-7437).
+
+## Undécimo.
+
+1\. Corresponderá al Servicio de Auditoría Interna, sin perjuicio de las competencias atribuidas a la Intervención General de la Administración del Estado, con el rango de Dirección Adjunta, el ejercicio de las funciones indicadas en el apartado 10 del artículo 103 de la Ley 31/1990, de 27 de diciembre, según la redacción dada al mismo por la disposición adicional decimoséptima de la Ley 18/1991, de 6 de junio.
+
+El Servicio de Auditoría Interna dependerá del Presidente de la Agencia, quien ejercerá su jefatura, bien directamente, bien a través del Director general de la Agencia.
+
+2\. En particular, el Servicio de Auditoría Interna desarrollará las siguientes funciones:
+
+a) El control interno de todos los servicios de la Agencia, mediante la realización de auditorías de cualquier clase y naturaleza y el desarrollo de instrumentos de control permanente que permitan evaluar su eficacia y eficiencia y el cumplimiento de las normas e instrucciones, formulando las propuestas o recomendaciones que deriven de dicha función en la forma en que establezcan las disposiciones reguladoras de su actuación.
+
+b) El control del cumplimiento del plan de objetivos de la Agencia y la formulación de propuestas para su adaptación y cumplimiento.
+
+c) La prevención y detección de las conductas irregulares, la coordinación, en la forma que se determine por la Dirección General de la Agencia, de las acciones relativas a las mismas y, en su caso, su investigación, así como el análisis y evaluación de los sistemas de seguridad y control interno de la Agencia.
+
+d) La coordinación y desarrollo de las funciones que le están atribuidas por el Real Decreto 2458/1996, de 2 de diciembre, por el que se crea el Consejo para la Defensa del Contribuyente en la Secretaría de Estado de Hacienda y, en particular, los encomendados a la Unidad Operativa del mencionado Consejo.
+
+e) El informe y elaboración de las propuestas que el titular de la Dirección General formula en los expedientes de compatibilidad.
+
+3\. El Servicio de Auditoría Interna estará integrado por los siguientes órganos con rango de Subdirección General:
+
+a) Las Inspecciones de Servicios, a cargo de Inspectores de los Servicios de Economía y Hacienda, en el número que establezca la relación de puestos de trabajo.
+
+b) La Unidad Operativa del Consejo para la Defensa del Contribuyente, cuya jefatura, en cumplimiento de lo previsto en la disposición adicional única del Real Decreto 2458/1996, de 2 de diciembre, podrá ser encomendada al titular de una de las Inspecciones de Servicios del Servicio de Auditoría Interna.
+
+> Se modifican los apartados 2 y 3 por el art. único.3 de la Orden EHA/2150/2008, de 15 de julio. [Ref. BOE-A-2008-12524](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-12524).
+
+> Se modifica por el apartado 2.6 de la Orden de 4 de abril de 1997. [Ref. BOE-A-1997-7437](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-7437).
+
+## Undécimo bis.
+
+1\. Con dependencia directa de la Dirección General de la Agencia y rango de dirección adjunta, el Servicio de Gestión Económica tendrá a su cargo la administración de los recursos financieros y materiales y de los servicios auxiliares necesarios para el cumplimiento de sus fines por la Agencia Estatal de Administración Tributaria.
+
+2\. El Servicio de Gestión Económica estará integrado por las siguientes Subdirecciones Generales:
+
+Subdirección General de Presupuestos y Gestión Financiera.
+
+Subdirección General de Contabilidad.
+
+Subdirección General de Adquisiciones y Contratación.
+
+Subdirección General de Bienes Inmuebles e Instalaciones.
+
+3\. El Servicio de Gestión Económica, a través de la Subdirección General de Contabilidad, actuará como servicio de contabilidad de la Agencia en los términos establecidos por el artículo 103.siete de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1990.
+
+> Se añade por el art. único.4 de la Orden EHA/3635/2007, de 11 de diciembre. [Ref. BOE-A-2007-21594](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21594).
+
+## Undécimo ter.
+
+1\. El Servicio de Estudios Tributarios y Estadísticas, de acuerdo con lo que le sea encomendado por la Presidencia o por la Dirección General de la Agencia, tendrá a su cargo la presupuestación y la previsión a medio plazo de los ingresos tributarios, no tributarios y otros ingresos públicos, así como la realización de estudios de carácter tributario y la elaboración de estadísticas en el ámbito de las funciones y competencias atribuidas a la Agencia Estatal de Administración Tributaria. Le corresponderá asimismo la adaptación de las bases de datos tributarias para el tratamiento y explotación estadística de la información; la elaboración de estadísticas de fuente fiscal de los principales impuestos y el desarrollo de sus herramientas de difusión; la realización de estudios estadísticos que requieran tratamiento masivo de datos; y el desarrollo e implementación de los modelos estadísticos de microsimulación para la evaluación del coste recaudatorio de las modificaciones normativas.
+
+2\. El Servicio de Estudios Tributarios y Estadísticas, con rango de dirección adjunta, estará integrado por las siguientes Subdirecciones Generales:
+
+Subdirección General de Estadísticas.
+
+Subdirección General de Presupuestación y Seguimiento de los Ingresos Tributarios.
+
+> Se modifica el apartado 1 por el art. único.1 de la Orden HAC/1324/2020, de 30 de octubre. [Ref. BOE-A-2021-459](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-459)
+
+> Se modifica el apartado 1 por el art. 2.1 de la Orden HAP/393/2013, de 11 de marzo. [Ref. BOE-A-2013-2727](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2727).
+
+> Se añade por el art. único.4 de la Orden EHA/2150/2008, de 15 de julio. [Ref. BOE-A-2008-12524](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-12524).
+
+## Undécimo quater.
+
+1\. El titular del Servicio de Planificación y Relaciones Institucionales desempeñará la Secretaría Técnica Permanente del Consejo Superior para la Dirección y Coordinación de la Gestión Tributaria, con las funciones que le atribuye el artículo 65.5 de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
+
+2\. El Servicio de Planificación y Relaciones Institucionales tendrá a su cargo las siguientes funciones:
+
+a) La coordinación y desarrollo de la planificación de la Agencia Tributaria y de la estrategia de comunicación de la misma.
+
+b) La coordinación de los elementos comunes de las funciones de información y asistencia prestadas por todas las áreas, así como de las tareas consistentes en la facilitación del acceso a los ciudadanos a los servicios electrónicos, telefónicos o presenciales que realice la Agencia Tributaria.
+
+En relación a estas funciones de información y asistencia, le corresponderán, entre otras las siguientes:
+
+1\. La propuesta de la carta de servicios, la integración de la planificación y el establecimiento y seguimiento de los indicadores correspondientes a los servicios de información y asistencia de todas las áreas, prestados a los ciudadanos a través de cualquier canal.
+
+2\. La aprobación de nuevas tecnologías o canales de atención al contribuyente, de los medios de identificación a utilizar y de todos aquellos otros elementos comunes que resulten aplicables a los servicios de información y asistencia de todas las áreas.
+
+3\. Garantizar la homogeneidad de las herramientas tecnológicas a utilizar en las funciones de información y asistencia, en colaboración con el Departamento de Informática Tributaria y con los Departamentos funcionales.
+
+4\. Analizar la implantación progresiva de los servicios de asistencia no presencial y su integración con la asistencia presencial en todas las oficinas.
+
+c) La coordinación de los órganos centrales y territoriales de la Agencia en proyectos que afecten a distintas áreas.
+
+d) La coordinación y desarrollo de las relaciones con las administraciones tributarias autonómicas y locales.
+
+e) Las relaciones institucionales.
+
+f) Aquellas otras funciones que le encomiende la Dirección General.
+
+3\. Corresponden al titular del Servicio de Planificación y Relaciones Institucionales las siguientes competencias:
+
+a) Acordar, a propuesta de la Delegación Central de Grandes Contribuyentes, cuando conforme a la normativa aplicable así se requiera, la adscripción de obligados tributarios a dicha Delegación Central y el cese de la misma.
+
+b) En materia de sede electrónica y registros electrónicos, la aprobación y modificación de la relación de documentos electrónicos normalizados y, a propuesta de los Departamentos o Servicios, la aprobación y modificación de los formularios correspondientes.
+
+4\. Dependerán del Servicio de Planificación y Relaciones Institucionales las siguientes Subdirecciones Generales:
+
+a) Subdirección General de Relación con las Haciendas territoriales.
+
+b) Subdirección General de Planificación y de Coordinación de la Información y Asistencia.
+
+c) Subdirección General de Comunicación Externa.
+
+> Se modifica por el art. 2 de la Orden HAC/89/2024, de 1 de febrero. [Ref. BOE-A-2024-2250](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2250)
+
+> Se modifica por el art. único de la Orden HFP/114/2022, de 22 de febrero. [Ref. BOE-A-2022-2979](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2979)
+
+> Se modifica por el art. único.2 de la Orden HAC/1324/2020, de 30 de octubre. [Ref. BOE-A-2021-459](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-459)
+
+> Se modifica el apartado 3 por el art. 2.2 de la Orden HAP/393/2013, de 11 de marzo. [Ref. BOE-A-2013-2727](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2727).
+
+> Se añade por el art. único.3 de la Orden EHA/1813/2010, de 23 junio. [Ref. BOE-A-2010-10790](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10790).
+
+## Duodécimo.
+
+1\. La Intervención Delegada de la Agencia, con nivel de Subdirección General, está adscrita al Director General de la misma y depende, funcionalmente, de la Intervención General de la Administración del Estado.
+
+2\. La Intervención Delegada en la Agencia desarrollará las actuaciones de control financiero permanente sobre la Agencia, de acuerdo con las disposiciones vigentes y con las instrucciones que, al efecto, dicte la Intervención General de la Administración del Estado.
+
+El control financiero permanente sobre la Agencia tiene por objeto comprobar su funcionamiento en el aspecto económico-financiero, conforme a las disposiciones y directrices que la rijan y de los principios de buena fe en la gestión generalmente admitidos.
+
+Asimismo, ejercerá la coordinación de las actuaciones de las Intervenciones Regionales y Territoriales en dicha materia.
+
+## Decimotercero.
+
+1\. La Administración Periférica de la Agencia Tributaria estará constituida por las Delegaciones Especiales y las Delegaciones de la Agencia Tributaria, integradas en aquéllas.
+
+2\. Las Delegaciones Especiales de la Agencia Tributaria dependerán directamente del Director general de la misma. Los distintos Directores de Departamento, en el ejercicio de sus funciones, dirigirán a los Delegados Especiales de la Agencia Tributaria mediante las instrucciones y órdenes de servicio necesarias.
+
+3\. Las Administraciones de la Agencia Tributaria y las Administraciones de Aduanas e Impuestos Especiales se integran en las correspondientes Delegaciones Especiales de la Agencia Tributaria siendo su ámbito territorial de competencia el correspondiente a la Delegación Especial en que se integran.
+
+4\. Las Administraciones de asistencia Digital Integral se integran en las correspondientes Delegaciones Especiales sin perjuicio de poder desarrollar sus funciones en todo el ámbito nacional.
+
+> Se modifica por el art. único.3 de la Orden HAC/1324/2020, de 30 de octubre. [Ref. BOE-A-2021-459](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-459)
+
+## Decimocuarto.
+
+El Director general de la Agencia dispondrá de un Gabinete con la composición y estructura que se determine por resolución del Presidente de la Agencia.
+
+> Se modifica por el apartado 2.7 de la Orden de 4 de abril de 1997. [Ref. BOE-A-1997-7437](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-7437).
+
+## Decimoquinto.
+
+De acuerdo con lo establecido en el número 5 del apartado once del artículo 103 del la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, se habilita al Presidente de la Agencia Estatal de Administración Tributaria para dictar resoluciones normativas por las que se estructuren y atribuyan competencias a la Delegación Central de Grandes Contribuyentes, a las Delegaciones Especiales y Delegaciones de la Agencia y a los órganos que las integran, así como para crear, refundir o suprimir las Delegaciones Especiales y Delegaciones de la Agencia. Asimismo, se habilita al Presidente de la Agencia para que dicte resoluciones normativas por las que se estructuren las unidades inferiores a Subdirección General, así como para que realice la concreta atribución de competencias a dichas unidades y a las propias Subdirecciones Generales de la Agencia.
+
+Las correspondientes resoluciones deberán publicarse en el "Boletín Oficial del Estado" como requisito previo a su eficacia.
+
+> Se modifica por la disposición final 1.6 de la Orden EHA/3230/2005, de 13 de octubre. [Ref. BOE-A-2005-17211](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-17211).
+
+## Disposición adicional primera
+
+De acuerdo con lo establecido en el número 5 del artículo 2 del Real Decreto 319/1982, de 12 de febrero, el Servicio de Vigilancia Aduanera podrá colaborar en misiones de investigación con los órganos de la Inspección de los Tributos y de Recaudación a petición de los mismos, de acuerdo con sus instrucciones, y cuando así lo determine el Director general de la Agencia Estatal de Administración Tributaria.
+
+> Se renumera por el art. único.5 de la Orden EHA/3650/2007, de 11 de diciembre. [Ref. BOE-A-2007-21594](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21594).
+
+> Su anterior numeración era disposición adicional.
+
+## Disposición adicional segunda
+
+Cuando se estime conveniente por razones de economía y eficacia, la Presidencia de la Agencia, a propuesta de la Dirección General, podrá habilitar al titular de una Administración de la Agencia o de Aduanas para que desempeñe además las funciones de titular de una Administración de Aduanas o de la Agencia, respectivamente, siempre que en ambos casos la persona así habilitada reúna las condiciones establecidas en la normativa de aplicación para el desempeño de las funciones de las dos Administraciones.
+
+> Se añade por el art. único.5 de la Orden EHA/3650/2007, de 11 de diciembre. [Ref. BOE-A-2007-21594](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21594).
+
+## Disposición adicional tercera. Actos de disposición de la acción procesal.
+
+La competencia para la emisión del informe sobre los actos de disposición de la acción procesal, tales como allanarse a las pretensiones de la parte contraria, desistir de acciones o recursos o apartarse de querellas, corresponderá a los órganos de la Agencia Estatal de Administración Tributaria que tenga atribuida la competencia material sobre las funciones objeto de la acción, salvo normas especiales o de rango superior que dispongan lo contrario. Estos informes serán comunicados a través del Director del Servicio Jurídico de la Agencia Estatal de Administración Tributaria.
+
+En el orden contencioso-administrativo, y previo informe del órgano autor del acto originario, el Departamento o Servicio competente por razón de la materia de la Agencia Estatal de Administración Tributaria de conformidad con lo establecido en esta Orden y en la Orden PRE/3581/2007, de 10 de diciembre, podrá manifestar su parecer sobre los actos de disposición de la acción procesal que se sometan a informe de los Tribunales económico-administrativos que hayan dictado el acto objeto de recurso.
+
+El informe al que se refieren los dos apartados anteriores deberá hacer referencia a los motivos jurídico-materiales que fundamentan la disposición de la acción procesal, así como, cuando ello sea posible, una estimación de sus consecuencias económicas para la Hacienda Pública.
+
+> Se modifica por el art. único.4 de la Orden HAC/1324/2020, de 30 de octubre. [Ref. BOE-A-2021-459](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-459)
+
+> Se añade por el art. único de la Orden HAP/1429/2016, de 1 de septiembre. [Ref. BOE-A-2016-8232](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8232).
+
+## Disposición transitoria
+
+Los funcionarios y demás personas que resulten afectados por las modificaciones orgánicas establecidas en la presente Orden percibirán la totalidad de sus retribuciones con cargo a los créditos del presupuesto de la Agencia manteniendo, en tanto no se proceda a su modificación o readscripción de los puestos, las relaciones de puestos de trabajo que tuviesen aprobadas a la fecha de entrada en vigor de la presente Orden.
+
+## Disposición derogatoria
+
+Queda derogada la Orden de 27 de diciembre de 1991, que desarrolla nuevas unidades de la Agencia Estatal de Administración Tributaria; la Orden de 24 de abril de 1992, por la que se atribuyen nuevas competencias y se estructura la Subdirección General de Recaudación Ejecutiva del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria y el apartado segundo de la Orden de 31 de julio de 1992, por la que se modifica parcialmente la de 17 de abril de 1991, por la que se desarrollan determinados artículos del Reglamento General de Recaudación, sobre competencias de los órganos de recaudación de la Hacienda Pública y fijación de determinadas cuantías y se habilita al Presidente de la Agencia Estatal de Administración Tributaria en materia de organización.
+
+## Disposición final
+
+La presente Orden entrará en vigor el día 1 de julio de 1994.
+
+Madrid, 2 de junio de 1994.
+
+SOLBES MIRA
+
+Excmo. Sr. Presidente de la AEAT e Ilmo. Sr. Director general de la AEAT.
+
+> Información relacionada
+
+> Véase la Resolución de 26 de enero de 1998, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se regula la organización y funcionamiento de la Comisión de Seguridad y Control y se crean comisiones sectoriales de seguridad y control en la Agencia Estatal de Administración Tributaria. [Ref. BOE-A-1998-2494](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-2494)

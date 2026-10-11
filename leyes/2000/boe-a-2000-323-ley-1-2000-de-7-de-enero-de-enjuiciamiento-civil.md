@@ -2418,25 +2418,11 @@ Presentado el escrito de recusación, el Letrado de la Administración de Justic
 
 2\. Si estima que la causa no es de las tipificadas en la Ley, declarará no haber lugar a la recusación. Contra este decreto no se dará recurso alguno.
 
-> Téngase en cuenta que esta última actualización establecida por la disposición final 4.4 de la Ley Orgánica 7/2015, de 21 de julio [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167). entra en vigor el 1 de octubre de 2015, según determina su disposición final 10.
-
-> Redacción anterior:
-
-> "1. Cuando el recusado reconozca como cierta la causa de la recusación, el tribunal dictará auto, sin más trámites y sin ulterior recurso, teniéndolo por recusado, si estima que la causa es legal.
-
-> 2\. Si estima que la causa no es de las tipificadas en la Ley, declarará no haber lugar a la recusación. Contra este auto no se dará recurso alguno."
-
 > Se modifica por la disposición final 4.4 por Ley Orgánica 7/2015, de 21 de julio. [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167).
 
 **Artículo 118. Oposición del recusado y sustanciación de la recusación.**
 
 Cuando el recusado niegue la certeza de la causa alegada como fundamento de la recusación, si el instructor admitiere a trámite la recusación propuesta, el Secretario Coordinador ordenará la práctica, en el plazo de diez días, de la prueba solicitada que estime pertinente y útil, dándose traslado al Ministerio Fiscal por plazo de tres días. Transcurrido este plazo, con o sin informe del Ministerio Fiscal, lo remitirá al Secretario de Gobierno quien decidirá el incidente dentro de los cinco días siguientes. Contra dicha resolución no cabrá recurso alguno.
-
-> Téngase en cuenta que esta última actualización establecida por la disposición final 4.5 de la Ley Orgánica 7/2015, de 21 de julio [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167). entra en vigor el 1 de octubre de 2015, según determina su disposición final 10.
-
-> Redacción anterior:
-
-> "Cuando el recusado niegue la certeza de la causa alegada como fundamento de la recusación, si el instructor admitiere a trámite la recusación propuesta, ordenará la práctica, en el plazo de diez días, de la prueba solicitada que estime pertinente y útil, dándose traslado al Ministerio Fiscal por plazo de tres días. Transcurrido este plazo, con o sin informe del Ministerio Fiscal, decidirá el incidente dentro de los cinco días siguientes. Contra dicha resolución no cabrá recurso alguno."
 
 > Se modifica por la disposición final 4.5 por Ley Orgánica 7/2015, de 21 de julio. [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167).
 
@@ -2805,14 +2791,6 @@ Las deliberaciones de los tribunales colegiados son secretas. También lo será 
 3\. No obstante lo dispuesto en los apartados anteriores, los tribunales por medio de auto podrán atribuir carácter reservado a la totalidad o a parte de los autos cuando tal medida resulte justificada en atención a las circunstancias expresadas por el apartado 2 del artículo 138.
 
 Las actuaciones de carácter reservado sólo podrán ser conocidas por las partes y por sus representantes y defensores, sin perjuicio de lo previsto respecto de hechos y datos con relevancia penal, tributaria o de otra índole.
-
-> Téngase en cuenta que esta actualización de los apartados 1 y 2 establecida por la disposición final 4.7 de la Ley Orgánica 7/2015, de 21 de julio [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167). entra en vigor el 1 de octubre de 2015, según determina su disposición final 10.
-
-> Redacción anterior:
-
-> "1. Los Secretarios Judiciales y personal competente al servicio de los tribunales facilitarán a cualesquiera personas que acrediten un interés legítimo cuanta información soliciten sobre el estado de las actuaciones judiciales, que podrán examinar y conocer. También podrán pedir aquéllas, a su costa, la obtención de copias simples de escritos y documentos que consten en los autos.
-
-> 2\. A petición de las personas a que se refiere el apartado anterior, y a su costa, se expedirán por el Secretario Judicial los testimonios que soliciten, con expresión de su destinatario."
 
 > Se modifican los apartados 1 y 2 por la disposición final 4.7 por Ley Orgánica 7/2015, de 21 de julio. [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167).
 
@@ -5313,22 +5291,6 @@ Se habrán de acompañar a la demanda:
 3.º El documento en que conste fehacientemente la sucesión mortis causa en favor del demandante, así como la relación de los testigos que puedan declarar sobre la ausencia de poseedor a título de dueño o usufructuario, cuando se pretenda que el Tribunal ponga al demandante en posesión de unos bienes que se afirme haber adquirido en virtud de aquella sucesión.
 
 4.º Aquellos otros documentos que esta u otra ley exija expresamente para la admisión de la demanda.
-
-> Téngase en cuenta que esta última actualización establecida por la disposición final 4.10 de la Ley Orgánica 7/2015, de 21 de julio [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167). entra en vigor el 1 de octubre de 2015, según determina su disposición final 10.
-
-> Redacción anterior:
-
-> "Se habrán de acompañar a la demanda:
-
-> 1.º Las certificaciones y testimonios que acrediten haber terminado el proceso y haberse en él reclamado o recurrido cuando se interponga demanda de responsabilidad civil contra Jueces y Magistrados por daños y perjuicios causados en el ejercicio de sus funciones, con dolo, culpa o ignorancia inexcusable.
-
-> 2.º Los documentos que justifiquen cumplidamente el título en cuya virtud se piden alimentos, cuando éste sea el objeto de la demanda.
-
-> 3.º Los documentos que constituyan un principio de prueba del título en que se funden las demandas de retracto y, cuando la consignación del precio se exija por ley o por contrato, el documento que acredite haber consignado, si fuere conocido, el precio de la cosa objeto de retracto o haberse constituido caución que garantice la consignación en cuanto el precio se conociere.
-
-> 4.º El documento en que conste fehacientemente la sucesión "mortis causa" en favor del demandante, así como la relación de los testigos que puedan declarar sobre la ausencia de poseedor a título de dueño o usufructuario, cuando se pretenda que el tribunal ponga al demandante en posesión de unos bienes que se afirme haber adquirido en virtud de aquella sucesión.
-
-> 5.º Aquellos otros documentos que esta u otra Ley exija expresamente para la admisión de la demanda."
 
 > Se modifica por la disposición final 4.10 por Ley Orgánica 7/2015, de 21 de julio. [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167).
 
@@ -9298,20 +9260,6 @@ La revisión de sentencias firmes se solicitará a la Sala de lo Civil del Tribu
 
 2\. Asimismo se podrá interponer recurso de revisión contra una resolución judicial firme cuando el Tribunal Europeo de Derechos Humanos haya declarado que dicha resolución ha sido dictada en violación de alguno de los derechos reconocidos en el Convenio Europeo para la Protección de los Derechos Humanos y Libertades Fundamentales y sus Protocolos, siempre que la violación, por su naturaleza y gravedad, entrañe efectos que persistan y no puedan cesar de ningún otro modo que no sea mediante esta revisión, sin que la misma pueda perjudicar los derechos adquiridos de buena fe por terceras personas.
 
-> Téngase en cuenta que esta última actualización establecida por la disposición final 4.13 de la Ley Orgánica 7/2015, de 21 de julio [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167). entra en vigor el 1 de octubre de 2015, según determina su disposición final 10.
-
-> Redacción anterior:
-
-> "Habrá lugar a la revisión de una sentencia firme:
-
-> 1.º Si después de pronunciada, se recobraren u obtuvieren documentos decisivos, de los que no se hubiere podido disponer por fuerza mayor o por obra de la parte en cuyo favor se hubiere dictado.
-
-> 2.º Si hubiere recaído en virtud de documentos que al tiempo de dictarse ignoraba una de las partes haber sido declarados falsos en un proceso penal, o cuya falsedad declarare después penalmente.
-
-> 3.º Si hubiere recaído en virtud de prueba testifical o pericial, y los testigos o los peritos hubieren sido condenados por falso testimonio dado en las declaraciones que sirvieron de fundamento a la sentencia.
-
-> 4.º Si se hubiere ganado injustamente en virtud de cohecho, violencia o maquinación fraudulenta."
-
 > Se modifica por la disposición final 4.13 por Ley Orgánica 7/2015, de 21 de julio. [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167).
 
 **Artículo 511. Legitimación activa.**
@@ -9320,12 +9268,6 @@ Podrá solicitar la revisión quien hubiere sido parte perjudicada por la senten
 
 En el supuesto del apartado 2 del artículo anterior, la revisión sólo podrá ser solicitada por quien hubiera sido demandante ante el Tribunal Europeo de Derechos Humanos.
 
-> Téngase en cuenta que esta última actualización establecida por la disposición final 4.14 de la Ley Orgánica 7/2015, de 21 de julio [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167). entra en vigor el 1 de octubre de 2015, según determina su disposición final 10.
-
-> Redacción anterior:
-
-> "Podrá solicitar la revisión quien hubiere sido parte perjudicada por la sentencia firme impugnada."
-
 > Se modifica por la disposición final 4.14 por Ley Orgánica 7/2015, de 21 de julio. [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167).
 
 **Artículo 512. Plazo de interposición.**
@@ -9333,12 +9275,6 @@ En el supuesto del apartado 2 del artículo anterior, la revisión sólo podrá 
 1\. En ningún caso podrá solicitarse la revisión después de transcurridos cinco años desde la fecha de la publicación de la sentencia que se pretende impugnar. Se rechazará toda solicitud de revisión que se presente pasado este plazo.
 
 Lo dispuesto en el párrafo anterior no será aplicable cuando la revisión esté motivada en una Sentencia del Tribunal Europeo de Derechos Humanos. En este caso la solicitud deberá formularse en el plazo de un año desde que adquiera firmeza la sentencia del referido Tribunal.
-
-> Téngase en cuenta que esta última actualización del apartado 1 establecida por la disposición final 4.15 de la Ley Orgánica 7/2015, de 21 de julio [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167). entra en vigor el 1 de octubre de 2015, según determina su disposición final 10.
-
-> Redacción anterior:
-
-> "1. En ningún caso podrá solicitarse la revisión después de transcurridos cinco años desde la fecha de la publicación de la sentencia que se pretende impugnar. Se rechazará toda solicitud de revisión que se presente pasado este plazo."
 
 2\. Dentro del plazo señalado en el apartado anterior, se podrá solicitar la revisión siempre que no hayan transcurrido tres meses desde el día en que se descubrieren los documentos decisivos, el cohecho, la violencia o el fraude, o en que se hubiere reconocido o declarado la falsedad.
 

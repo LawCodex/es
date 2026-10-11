@@ -1,0 +1,1113 @@
+---
+title: "Real Decreto 1067/2015, de 27 de noviembre, por el que se crea la Agencia Estatal de Investigación y se aprueba su Estatuto"
+identifier: "BOE-A-2015-12889"
+eli: "https://www.boe.es/eli/es/rd/2015/11/27/1067"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda y Administraciones Públicas"
+date: 2015-11-27
+published: 2015-11-28
+in_force_from: 2015-11-29
+last_amended: 2025-12-11
+consolidated: 2026-04-20
+gazette: "Boletín Oficial del Estado núm. 285"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-12889"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1067/2015, de 27 de noviembre, por el que se crea la Agencia Estatal de Investigación y se aprueba su Estatuto
+
+Incluye la corrección de errores publicada en BOE núm. 26, de 30 de enero de 2016. [Ref. BOE-A-2016-883](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-883).
+
+El conocimiento científico, el desarrollo tecnológico y la innovación representan actividades esenciales en el progreso económico y social de nuestro país. El tamaño y complejidad del Sistema Español de Ciencia, Tecnología e Innovación quedan reflejados en la cuantía de los recursos invertidos en actividades de I+D+i, los resultados e impacto de las actividades financiadas y la diversidad de actuaciones públicas dedicadas a la promoción y fomento de la I+D+i. El incremento sostenido de los recursos públicos destinados al fomento de la I+D+i ha permitido crear nuevos centros de investigación, poner en marcha nuevas instalaciones e infraestructuras científico-técnicas y desarrollar proyectos de gran envergadura científica y tecnológica e impacto socio-económico. En la actualidad, a pesar de los ajustes presupuestarios que han tenido lugar desde el inicio de la crisis en 2009, el Sistema Español de Ciencia, Tecnología e Innovación es un sistema consolidado que requiere, con objeto de mejorar los niveles de eficiencia, de un nuevo modelo de financiación y gestión de los fondos públicos destinados a la financiación de las actividades de I+D+i. Así queda reflejado en las recomendaciones realizadas por un panel de expertos internacionales, en el informe denominado «European Research Area Committee (ERAC) Peer Review», durante el proceso de evaluación de las políticas de I+D+i en España llevado a cabo durante el primer semestre de 2014 a iniciativa del Ministerio de Economía y Competitividad.
+
+La financiación pública de la investigación científica y técnica a través de convocatorias competitivas ha estado vinculada a las actuaciones contenidas en los sucesivos planes nacionales de I+D+i, que han tratado de dar respuesta, no sin dificultades, a la realidad de un sistema de mayor tamaño y crecientemente heterogéneo y complejo desde el punto de vista de los agentes de ejecución y de los objetivos perseguidos. A esta complejidad, derivada de la madurez del Sistema Español de Ciencia, Tecnología e Innovación, hay que sumar los retos asociados a la internacionalización de la investigación científica y la innovación y la creciente competencia a nivel global que caracteriza a la generación de conocimientos, sus posteriores aplicaciones y la puesta en valor de los resultados obtenidos.
+
+Desde la aprobación del I Plan Nacional de I+D (1988-1991) y hasta la del vigente Plan Estatal de Investigación Científica y Técnica y de Innovación 2013-2016 por el Consejo de Ministros en su reunión del 1 de febrero de 2013, los sucesivos planes nacionales han sido una herramienta fundamental de fomento, planificación y coordinación de la política científica y tecnológica de la Administración General del Estado. En la actualidad, el Plan Estatal de Investigación Científica y Técnica y de Innovación 2013-2016 constituye una herramienta al servicio de las políticas de investigación e innovación de la Administración General del Estado para la consecución de los objetivos establecidos en la Estrategia Española de Ciencia y Tecnología y de Innovación 2013-2020.
+
+Tanto en la Estrategia Española de Ciencia y Tecnología y de Innovación 2013-2020 como en las propias recomendaciones realizadas por el comité de expertos al que se ha hecho referencia se ha puesto de relieve la necesidad de introducir las reformas necesarias que aseguren la adopción de principios de organización y gestión de las políticas de investigación e innovación eficientes y adaptados a las necesidades presentes y futuras del Sistema Español de Ciencia, Tecnología e Innovación y sus agentes. Mejorar la eficacia de los servicios prestados por la Administración General del Estado en este ámbito, incorporando además las mejores prácticas internacionales constituye uno de los objetivos asociados a la creación de la Agencia Estatal de Investigación, en adelante, la Agencia, tal y como además recoge la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación. Así, cabe señalar la existencia, desde hace décadas, en todos los países líderes en investigación e innovación, de agencias destinadas a la gestión de la financiación pública competitiva que comparten los principios fundacionales de autonomía y rendición de cuentas, mientras que el sistema de fomento de la investigación en España, aunque próximo en procedimientos al de otros países, carece hasta la fecha de un ente jurídicamente diferenciado donde dichos principios sean intrínsecos.
+
+Para dotar a las políticas públicas de I+D y al conjunto del Sistema Español de Ciencia, Tecnología e Innovación de mayor eficiencia y eficacia es imprescindible definir un modelo de gestión y financiación que: garantice la rendición de cuentas de las subvenciones otorgadas; mejore y extienda el seguimiento ex post de las actuaciones subvencionadas con objeto de incrementar el impacto de los resultados ligados a la inversión de la Administración General del Estado en materia de fomento de la I+D; racionalice la gestión de los fondos disponibles incluyendo los Fondos Estructurales dedicados a la promoción de la I+D+i y reduzca las cargas administrativas soportadas por los ciudadanos y al mismo tiempo simplifique y estandarice los procedimientos utilizados dentro de la propia Administración General del Estado. Además, el nuevo modelo de gestión de los recursos públicos destinados al fomento de la I+D ha de permitir una mejora sustantiva en la planificación de las actuaciones, reduciendo la incertidumbre y dotando a las mismas de la estabilidad que las actividades de investigación requieren.
+
+En un momento en el que el Sistema Español de Ciencia, Tecnología e Innovación representa un elemento central en la transformación y modernización de la economía española, es necesario proceder a la racionalización de las estructuras de gestión de las ayudas destinadas al fomento y financiación de la I+D dentro de la Administración General del Estado, contemplado la simplificación de los procedimientos administrativos, la transparencia y la rendición de cuentas como pilares de una Administración Pública más eficiente y eficaz.
+
+Por último, con la creación de la Agencia se da respuesta al marco establecido en la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, al mismo tiempo que la reforma de la gestión y financiación de la I+D forma parte de un proceso más amplio de modernización y simplificación de las administraciones públicas iniciado por el Gobierno en el año 2012. Por todo ello, la creación y puesta en marcha de la Agencia, dedicada a gestionar y financiar las actuaciones que derivan de la implementación de las políticas de I+D de la Administración General del Estado, representa un avance imprescindible.
+
+La Ley 14/2011, de 1 de junio, separa las tres funciones básicas que corresponden a los agentes del Sistema Español de Ciencia, Tecnología e Innovación: la definición y coordinación de las políticas de I+D; el fomento o financiación de las actividades de I+D y la ejecución de las mismas.
+
+La responsabilidad en el diseño y coordinación de las políticas de I+D+i de la Administración General del Estado corresponde a la Secretaría de Estado de Investigación, Desarrollo e Innovación del Ministerio de Economía y Competitividad que seguirá ejerciendo dichas competencias incluyendo la dirección de las relaciones internacionales en esta materia y la representación española en programas, foros y organizaciones internacionales y de la Unión Europea de su competencia, así como las que le corresponden de acuerdo a lo establecido en la Ley 14/2011, de 1 de junio, referidas a la elaboración y coordinación de la Estrategia Española de Ciencia y Tecnología y de Innovación y a la elaboración del Plan Estatal de Investigación Científica y Tecnológica y de Innovación, y sus mecanismos de seguimiento. Igualmente, corresponde a la Secretaría de Estado de Investigación, Desarrollo e Innovación promover el diseño del Sistema de Información sobre Ciencia, Tecnología e Innovación establecido en el artículo 11 de la Ley 14/2011, de 1 de junio.
+
+Por su parte, los agentes de financiación de la Administración General del Estado son la Agencia y el Centro para el Desarrollo Tecnológico Industrial, ambos adscritos al Ministerio de Economía y Competitividad a través de la Secretaría de Estado de Investigación, Desarrollo e Innovación, cada organismo con las funciones y en el ámbito que el legislador les ha encomendado.
+
+La Agencia es el instrumento para la modernización de la gestión pública de las políticas estatales de I+D en España, encargándose de la financiación, evaluación, concesión y seguimiento de las actuaciones de investigación científica y técnica. La Agencia responderá a los principios de transparencia y eficiencia garantizando al mismo tiempo la adopción de un modelo de gestión eficaz que simplifique los procedimientos y disminuya las cargas administrativas para los ciudadanos.
+
+De acuerdo con las conclusiones del informe de expertos «European Research Area Committee (ERAC) Peer Review», la eficiencia en la gestión de la financiación pública de la I+D que se asigna a la Agencia depende de las funciones y competencias de la misma y de su diseño y principios de funcionamiento, y que han de permitir solucionar las muchas deficiencias detectadas, entre las que destacan la falta de estabilidad en términos de financiación y procedimientos y la existencia de una plétora de instrumentos muchos de los cuales se mantienen con niveles de financiación sub-óptimos. Además, la Agencia ha de promover el intercambio de conocimiento y asegurar el impacto y contribuciones de la investigación en la economía y en la búsqueda de soluciones a los retos sociales, y fortaleciendo la coordinación entre el Centro para el Desarrollo Tecnológico Industrial y la Agencia.
+
+Con este fin, este real decreto, que consta de un único artículo, aprueba el Estatuto de la Agencia Estatal de Investigación, incluyendo cuatro disposiciones adicionales, cinco disposiciones transitorias, una disposición derogatoria y cuatro disposiciones finales.
+
+Por su parte, el Estatuto que se aprueba se estructura en nueve capítulos que recogen de forma ordenada todos los aspectos que conforme a la Ley 28/2006, de 18 de julio, debe contener el estatuto de una agencia estatal.
+
+En línea con la voluntad política de fomentar la generación y aplicación del conocimiento científico y técnico en todos los ámbitos del saber como pilar fundamental del bienestar social y el desarrollo económico de nuestro país, el Estatuto contempla en su capítulo I la naturaleza, objeto, régimen jurídico y potestades administrativas de la Agencia, estableciendo a su vez el marco general de participación y colaboración de la misma con otras instituciones y órganos de la Administración General del Estado y con otras Administraciones, así como la adscripción y sede de la Agencia.
+
+Los capítulos II y III establecen, respectivamente, las funciones de la Agencia acordes con su naturaleza y misión y los principios básicos de actuación de la Agencia en el ejercicio y consecución de aquella.
+
+En el capítulo IV, dedicado a la estructura orgánica de la Agencia se regulan los órganos de gobierno, los órganos de asesoramiento científico-técnicos y los ejecutivos, mientras que es el siguiente capítulo el que desarrolla la estructura básica para que la Agencia cuente con la capacidad de gestión y flexibilidad necesarias para la consecución de sus objetivos. La estructura básica de la Agencia incluye, dependiendo del director de la Agencia, la Secretaría General, la División de Programación y Gestión Económica y Administrativa y la División de Coordinación, Evaluación y Seguimiento Científico y Técnico.
+
+El capítulo V se refiere a dos de los aspectos más relevantes de la Agencia: el Contrato de gestión y el plan de acción anual. Y ya los capítulos VI al IX regulan los aspectos relativos a la contratación y el régimen patrimonial, el régimen de personal, el régimen presupuestario, económico-financiero, contable y de control y el marco jurídico-administrativo de las normas que dicte la Agencia; todo ello conforme a lo previsto en la Ley 28/2006, de 18 de julio.
+
+Por otro lado, dado que la Agencia nace de la absorción de órganos actualmente existentes en la estructura de la Secretaría de Estado de Investigación, Desarrollo e Innovación, y dado el mandato de que su creación se realice sin incremento neto de estructura o de personal, dotándose, exclusivamente, mediante la correspondiente redistribución de efectivos, se hace necesario proceder a modificar la estructura de aquel órgano superior, por lo que es preciso modificar el Real Decreto 345/2012, de 10 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Economía y Competitividad y se modifica el Real Decreto 1887/2011, de 30 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales. Del mismo modo, se modifica el Real Decreto 1951/2000, de 1 de diciembre, por el que se aprueba el Estatuto del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA), como consecuencia de la integración en la Agencia de las actividades de gestión y financiación de la investigación que actualmente se desarrollan en el Instituto.
+
+En su virtud, a iniciativa del Ministro de Economía y Competitividad, a propuesta del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 27 de noviembre de 2015,
+
+DISPONGO:
+
+#### Artículo único. Creación de la Agencia Estatal de Investigación y aprobación de su Estatuto.
+
+1\. En virtud de la autorización dada al Gobierno en la disposición adicional duodécima de la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, y de la disposición adicional nonagésima tercera de la Ley 36/2014, de 26 de diciembre, de Presupuestos Generales del Estado para el año 2015, este real decreto tiene por objeto la creación de la Agencia Estatal de Investigación, en adelante la Agencia. A tal fin, se aprueba el Estatuto de dicha Agencia, cuyo texto se inserta a continuación de este real decreto.
+
+2\. La Agencia tiene como misión el fomento de la investigación científica y técnica en todas las áreas del saber mediante la asignación competitiva y eficiente de los recursos públicos, el seguimiento de las actuaciones financiadas y de su impacto, y el asesoramiento en la planificación de las acciones o iniciativas a través de las que se instrumentan las políticas de I+D de la Administración General del Estado.
+
+3\. Todas las menciones que cualquier disposición contenga sobre el Ministerio de Economía y Competitividad, la Secretaría de Estado de Investigación, Desarrollo e Innovación, la Dirección General de Investigación Científica y Técnica y la Dirección General de Innovación y Competitividad referidas a las competencias que el Estatuto que se aprueba por este real decreto atribuye a la Agencia, se entenderán realizadas a la misma. Se exceptúan de lo anterior las competencias atribuidas directamente al Ministro de Economía y Competitividad.
+
+4\. La distribución de competencias que lleva a cabo este real decreto se realiza sin perjuicio de las competencias actualmente atribuidas a otros departamentos.
+
+#### Disposición adicional primera. Constitución efectiva de la Agencia Estatal de Investigación.
+
+1\. La efectiva puesta en funcionamiento de la Agencia se producirá con la celebración de la sesión constitutiva de su Consejo Rector, que tendrá lugar en el plazo máximo de sesenta días desde la entrada en vigor de este real decreto.
+
+2\. Desde su puesta en funcionamiento la Agencia se subrogará en todos los derechos y obligaciones derivados de competencias de los órganos dependientes de la Secretaría de Estado de Investigación, Desarrollo e Innovación que, en virtud de este real decreto, se atribuyan a aquélla, y en concreto, en los contratos, convenios y encomiendas suscritos en el ejercicio de lascompetencias asignadas a la Agencia.
+
+3\. La Agencia realizará el primer inventario de los bienes que se le adscriban y de los que, en su caso, haya adquiridopara el inicio de su actividad en el plazo máximo de seis meses desde su constitución.
+
+#### Disposición adicional segunda. Supresión de órganos.
+
+1\. A la fecha de constitución efectiva de la Agencia, quedan suprimidos los siguientes órganos de la Secretaría de Estado de Investigación, Desarrollo e Innovación:
+
+a) La Secretaría General de Ciencia, Tecnología e Innovación.
+
+b) La Dirección General de Investigación Científica y Técnica.
+
+c) La Dirección General de Innovación y Competitividad.
+
+d) La Subdirección General de Proyectos de Investigación.
+
+d) La Subdirección General de Recursos Humanos para la Investigación.
+
+e) La Subdirección General de Fondos Europeos para la Investigación.
+
+f) La Subdirección General de Proyectos Internacionales.
+
+g) La Subdirección General de la Agencia Nacional de Evaluación y Prospectiva.
+
+h) La Subdirección General de Gestión Económica y Ayudas a la Investigación.
+
+i) La Subdirección General de Transferencia de Tecnología.
+
+j) La Subdirección General de Planificación de Infraestructuras Científicas y Tecnológicas.
+
+k) La Subdirección General de Colaboración Público-Privada.
+
+l) La Subdirección General de Competitividad y Desarrollo Empresarial.
+
+m) La Subdirección General de Gestión Económica y Ayudas de Innovación.
+
+n) La Subdirección General de Fomento de la Innovación Empresarial.
+
+ñ) La Subdirección General de Relaciones Institucionales.
+
+o) La Subdirección General de Relaciones Internacionales y con Europa.
+
+p) La Subdirección General de Planificación y Seguimiento.
+
+q) El Gabinete Técnico de la Secretaría General de Ciencia, Tecnología e Innovación.
+
+2\. La Agencia quedará subrogada en la totalidad de los derechos y obligaciones de los órganos suprimidos cuyas competencias asume y de los que fuese titular el Ministerio de Economía y Competitividad, y le sucederá a éste en todas aquellas competencias y funciones, de acuerdo con lo establecido en el artículo único de este real decreto, con el fin de garantizar el mantenimiento y la conclusión de los contratos y relaciones jurídicas de toda índole.
+
+3\. Las menciones que la normativa vigente haga a la Secretaría General de Ciencia, Tecnología e Innovación, a la Dirección General de Innovación y Competitividad y a las Subdirecciones Generales dependientes que quedan suprimidas se entenderán realizadas a la Secretaría General de Ciencia e Innovación, a la Dirección General de Política de Investigación, Desarrollo e Innovación y a las subdirecciones generales que, en virtud de la disposición final primera, se crean, salvo para aquellas funciones que se atribuyan a la Agencia.
+
+#### Disposición adicional tercera. Incorporación de personal.
+
+1\. Los funcionarios que pasen a prestar servicio en la Agencia permanecerán en la situación de servicio activo en su Cuerpo o Escala, y conservarán antigüedad, grado y retribuciones que tuviera consolidados y con los mismos derechos y obligaciones que tuvieran en el momento de la incorporación. Asimismo queda incorporado a la Agencia el personal funcionario interino que viniese prestando servicios en los órganos suprimidos, en tanto se mantenga la causa que dio origen a su nombramiento.
+
+2\. El personal estatutario que pase a prestar servicio en la Agencia conservará antigüedad, grado y retribuciones que tuviera consolidados y con los mismos derechos y obligaciones que tuviera en el momento de la incorporación.
+
+3\. La Agencia se subrogará en los contratos de trabajo concertados con el personal sujeto a derecho laboral, que pasará a integrarse en la plantilla de aquella en los mismos grupos, categorías y áreas de trabajo a que estuvieran adscritos, con los mismos derechos y obligaciones que tuvieran en el momento de la incorporación.
+
+4\. Mediante una resolución de la Subsecretaría de Economía y Competitividad se determinará el personal que se incorpora en la Agencia en el momento de su constitución, de acuerdo con lo previsto en los apartados anteriores. La resolución se dictará a propuesta de la Secretaria de Estado de Investigación, Desarrollo e Innovación, previo estudio de las funciones y competencias que tuviera atribuido el personal a su servicio, y las que, con posterioridad a su constitución, asuman la Agencia y la Secretaría de Estado de Investigación, Desarrollo e Innovación.
+
+#### Disposición adicional cuarta. Articulación de las funciones del Instituto de Salud Carlos III relativas al fomento, evaluación y coordinación de la investigación biomédica y sanitaria con la Agencia Estatal de Investigación.
+
+Por parte de la Comisión Mixta de coordinación entre el Ministerio de Economía y Competitividad y el Ministerio de Sanidad, Servicios Sociales e Igualdad regulada en el Real Decreto 1589/2012, de 23 de noviembre, se promoverá la firma, en el plazo máximo de un año, de un convenio entre la Agencia Estatal de Investigación y el Instituto de Salud Carlos III para la articulación y coordinación de las actividades de financiación de la investigación científica y técnica a las que se refiere el apartado 1 del artículo 47 de la Ley 14/2011, de 1 de junio, y en general, de las relativas al fomento, evaluación y coordinación de la investigación biomédica y sanitaria.
+
+#### Disposición transitoria primera. Régimen transitorio de la Dirección de la Agencia y de los órganos y unidades suprimidos.
+
+1\. Hasta tanto se proceda al nombramiento del titular de la Dirección de la Agencia conforme a las previsiones del artículo 12 del Estatuto, el titular de la Dirección General de Investigación Científica y Técnica que se suprime con este real decreto asumirá transitoriamente las funciones que la Ley 28/2006, de 18 de julio, y el propio Estatuto encomiendan al órgano ejecutivo de la Agencia Estatal que se crea.
+
+2\. Hasta la aprobación de la relación de puestos de trabajo de la Agencia, las unidades y puestos de trabajo con nivel orgánico inferior al de subdirección general encuadrados en los órganos suprimidos por este real decreto y que se incorporen a la Agencia subsistirán transitoriamente y serán retribuidos con cargo a los mismos créditos presupuestarios.
+
+#### Disposición transitoria segunda. Garantía de continuidad en la ejecución de la política de financiación, evaluación y seguimiento.
+
+1\. Los procedimientos correspondientes a actividades de carácter plurianual desarrolladas en el marco del VI Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica 2008-2011, prorrogado para el año 2012, y del Plan Estatal de Investigación Científica y Técnica y de Innovación para el período 2013-2016, continuarán tramitándose conforme a su propia normativa y por las unidades y autoridades que correspondan, de acuerdo con el régimen transitorio establecido en este real decreto.
+
+2\. El seguimiento científico-técnico y económico-financiero de todas las actuaciones derivadas del VI Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica 2008-2011 y del Plan Estatal de Investigación Científica y Técnica y de Innovación para el período 2013-2016, aún vigentes a la fecha de constitución de la Agencia continuará tramitándose por las unidades y autoridades que correspondan, de acuerdo con el régimen transitorio establecido en este real decreto.
+
+#### Disposición transitoria tercera. Servicios comunes.
+
+Los servicios generales y comunes del Ministerio de Economía, Industria y Competitividad continuarán ejerciendo, en relación con la Agencia Estatal de Investigación, las competencias que tenían atribuidas respecto a los órganos y unidades que se suprimen hasta que la Agencia cuente con presupuesto propio aprobado mediante norma con rango de ley, sin perjuicio de lo dispuesto en la disposición adicional quinta de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifica por el art. único.1 del Real Decreto 1/2017, de 13 de enero. [Ref. BOE-A-2017-404](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-404).
+
+#### Disposición transitoria cuarta. Régimen presupuestario y de rendición de cuentas transitorio.
+
+En tanto en cuanto la Agencia Estatal de Investigación no disponga de presupuesto propio aprobado mediante norma con rango de ley, sus gastos se imputarán en la forma y con cargo a los créditos previstos en los servicios correspondientes a la Secretaría de Estado de Investigación, Desarrollo e Innovación y a las suprimidas Secretaría General de Ciencia, Tecnología e Innovación, Dirección General de Investigación Científica y Técnica y Dirección General de Innovación y Competitividad, así como con cargo a los créditos previstos para el Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria.
+
+Mientras la Agencia Estatal de Investigación no disponga de presupuesto propio, no se alterará la estructura presupuestaria vigente, desarrollando la Agencia su actuación de acuerdo con el régimen presupuestario, de contabilidad y control y de rendición de cuentas aplicable a los servicios correspondientes del Ministerio de Economía, Industria y Competitividad y al Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, en los términos previstos en las leyes de presupuestos generales del Estado anuales y en la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+> Se modifica por el art. único.2 del Real Decreto 1/2017, de 13 de enero. [Ref. BOE-A-2017-404](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-404).
+
+#### Disposición transitoria quinta. Contrato de gestión.
+
+1\. Hasta tanto se apruebe el Contrato de gestión mediante orden ministerial conjunta del Ministerio de Economía y Competitividad y de Hacienda y Administraciones Públicas, la actuación de la Agencia se desarrollará conforme a los criterios y directrices establecidos en el Plan Inicial de Actuación que se incorpora a la Memoria a la que se refiere el artículo 3 de la Ley 28/2006, de 18 de Julio, así como a las actuaciones a ejecutar derivadas de la aprobación de los planes de investigación científica y técnica y de innovación según lo establecido por la Ley 14/2011, de 1 de junio reflejadas en y sus correspondientes programas anuales de actuación.
+
+2\. El Consejo Rector aprobará la propuesta de Contrato de gestión en un plazo no superior a tres meses desde su constitución.
+
+3\. En tanto no se apruebe el Contrato de gestión, será de aplicación el régimen vigente del Ministerio de Economía y Competitividad para la asignación de los importes de productividad del personal funcionario. En todo caso, la percepción de los importes correspondientes deberá ser previamente autorizada por el Ministerio de Hacienda y Administraciones Públicas.
+
+4\. La orden ministerial a la que se refiere el artículo 14 de la Ley 28/2006, de 18 de julio, y por la que se apruebe el Contrato de gestión, determinará los créditos presupuestarios que financien los recursos personales y materiales que pasen a formar parte de la Agencia, sin perjuicio de lo establecido en la disposición adicional tercera y en las disposiciones transitorias tercera y cuarta.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden CIN/1507/2010, de 27 de mayo, por la que se regula la Comisión Asesora de Política Científica.
+
+#### Disposición final primera. Modificación del Real Decreto 345/2012 de 10 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Economía y Competitividad y se modifica el Real Decreto 1887/2011, de 30 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales.
+
+El Real Decreto 345/2012 de 10 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Economía y Competitividad y se modifica el Real Decreto 1887/2011, de 30 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales, queda modificado como sigue:
+
+Uno. El artículo 10 queda redactado de la siguiente manera:
+
+«Artículo 10. Secretaría de Estado de Investigación, Desarrollo e Innovación.
+
+1\. La Secretaría de Estado de Investigación, Desarrollo e Innovación ejercerá las funciones previstas en el artículo 14 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, en el ámbito de sus competencias en materia de investigación científica y técnica, desarrollo e innovación, incluyendo la dirección de las relaciones internacionales en esta materia y la representación española en programas, foros y organizaciones internacionales y de la Unión Europea de su competencia.
+
+2\. De la Secretaría de Estado de Investigación, Desarrollo e Innovación dependerán los siguientes órganos directivos:
+
+a) La Secretaría General de Ciencia e Innovación, con rango de subsecretaría.
+
+b) La Dirección General de Política de Investigación, Desarrollo e Innovación.
+
+3\. Asimismo, depende directamente de la Secretaría de Estado la Subdirección General de Coordinación de Organismos Públicos de Investigación, que realizará funciones de apoyo a la Secretaría de Estado de Investigación, Desarrollo e Innovación en materia de impulso, desarrollo y coordinación de las actividades de los organismos públicos de investigación adscritos a la Secretaría de Estado.
+
+4\. Como órgano de asistencia inmediata al titular de la Secretaría de Estado existe un Gabinete, con nivel orgánico de subdirección general, con la estructura que se establece en el artículo 14.3 del Real Decreto 1887/2011, de 30 de diciembre.
+
+5\. Para el asesoramiento jurídico de la Secretaría de Estado de Investigación, Desarrollo e Innovación existirá una Abogacía del Estado, integrada orgánicamente en la del departamento.
+
+6\. Se adscribe al Ministerio de Economía y Competitividad, a través de la Secretaría de Estado de Investigación, Desarrollo e Innovación, la Agencia Estatal de Investigación (AEI), cuya presidencia ostentará el titular de dicha Secretaría de Estado.
+
+7\. Se adscribe al Ministerio de Economía y Competitividad, a través de la Secretaría de Estado de Investigación, Desarrollo e Innovación, el Museo Nacional de Ciencia y Tecnología.
+
+8\. Se adscriben al Ministerio de Economía y Competitividad, a través de la Secretaría de Estado de Investigación, Desarrollo e Innovación, los siguientes organismos públicos de investigación:
+
+a) La Agencia Estatal Consejo Superior de Investigaciones Científicas (CSIC).
+
+b) El Instituto de Salud Carlos III (ISCIII).
+
+c) El Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA).
+
+d) El Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT).
+
+e) El Instituto Español de Oceanografía (IEO).
+
+f) El Instituto Geológico y Minero de España (IGME).
+
+9\. El Instituto de Astrofísica de Canarias se relacionará con la Administración General del Estado a través de la Secretaría de Estado de Investigación, Desarrollo e Innovación, cuyo titular presidirá el Consejo Rector del Instituto de Astrofísica de Canarias.
+
+10\. La Inspección General del Ministerio de Hacienda y Administraciones Públicas dependerá funcionalmente del titular de la Secretaría de Estado de Investigación, Desarrollo e Innovación para el ejercicio de sus competencias respecto de órganos y materias del ámbito de atribuciones de dicha Secretaría de Estado.»
+
+Dos. El artículo 11 queda redactado de la siguiente manera:
+
+«Artículo 11. Secretaría General de Ciencia e Innovación.
+
+1\. La Secretaría General de Ciencia e Innovación ejercerá, respecto de las unidades dependientes de ella, las atribuciones previstas en el artículo 16 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, en materia de innovación.
+
+2\. Dependen de la Secretaría General de Ciencia e Innovación las siguientes Subdirecciones Generales:
+
+a) La Subdirección General de Promoción de la Competitividad, que ejercerá las siguientes funciones:
+
+1.ª La emisión de los informes motivados previstos en el Real Decreto 1432/2003, de 21 de noviembre, por el que se regula la emisión por el Ministerio de Ciencia y Tecnología de informes motivados relativos al cumplimiento de requisitos científicos y tecnológicos, a efectos de la aplicación e interpretación de deducciones fiscales por actividades de investigación y desarrollo e innovación tecnológica, sin perjuicio de las competencias atribuidas a otros organismos.
+
+2.ª La elaboración de los informes relativos a que el empleador reúne las características adecuadas para realizar actividades de I+D+i, al objeto de autorizar la residencia y trabajo en España de extranjeros a que se refiere el Reglamento de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social, aprobado por el Real Decreto 557/2011, de 20 de abril.
+
+3.ª La coordinación de las ayudas de Estado con la Agencia Estatal de Investigación y el Centro para el Desarrollo Tecnológico Industrial, así como la coordinación interministerial y con Europa para garantizar la correcta aplicación de las referidas ayudas de Estado en el marco de la normativa vigente.
+
+4.ª La gestión de los premios nacionales en materia de investigación y de innovación y diseño.
+
+5.ª La gestión del Registro de Centros Tecnológicos y Centros de Apoyo a la Innovación Tecnológica de ámbito estatal.
+
+6.ª La acreditación y gestión del registro de PYMES Innovadoras previsto en el Real Decreto 475/2014, de 13 de junio, sobre bonificaciones en la cotización a la Seguridad Social del personal investigador.
+
+7.ª La promoción y colaboración con las plataformas tecnológicas en áreas estratégicas.
+
+8.ª La promoción de ámbitos estratégicos en materia de innovación.
+
+b) La Subdirección General de Fomento de la Innovación, que ejercerá las siguientes funciones:
+
+1.ª La promoción e impulso de actividades destinadas al fomento de la transferencia y circulación de conocimientos entre los agentes del Sistema Español de Ciencia, Tecnología e Innovación.
+
+2.ª El diseño y coordinación de las iniciativas en materia de creación de empresas de base tecnológica y fomento de la innovación.
+
+3.ª El impulso a la compra pública innovadora.
+
+4.ª Impulso programas conjuntos con Comunidades Autónomas y Corporaciones Locales en materia de innovación.
+
+5.ª La gestión económica y presupuestaria y el control económico-financiero de las actuaciones de los servicios presupuestarios correspondientes a la Secretaría de Estado de Investigación, Desarrollo e Innovación, Secretaría General de Ciencia e Innovación y la Dirección General de Política de Investigación, Desarrollo e Innovación.
+
+c) La Subdirección General de Grandes Instalaciones Científico-Técnicas, que ejercerá las siguientes funciones:
+
+1.ª La planificación estratégica, coordinación, seguimiento y representación de grandes instalaciones científico-técnicas nacionales con Comunidades Autónomas, y la planificación estratégica, coordinación, seguimiento y representación de las actuaciones relativas a las grandes instalaciones científicas de carácter estatal.
+
+2.ª La planificación estratégica, coordinación, desarrollo, seguimiento y representación de la participación española en grandes instalaciones y organismos científico-tecnológicos de carácter internacional.
+
+3\. Depende de la Secretaría General de Ciencia e Innovación un Gabinete Técnico, con nivel orgánico de subdirección general, como órgano de apoyo y asistencia inmediata al Secretario General.
+
+4\. Se adscribe al Ministerio de Economía y Competitividad, a través de la Secretaría General de Ciencia e Innovación, la Entidad Pública Empresarial Centro para el Desarrollo Tecnológico Industrial (CDTI), cuya presidencia ostentará el titular de dicha Secretaría General.»
+
+Tres. El artículo 12 queda suprimido.
+
+Cuatro. El artículo 13 queda redactado de la siguiente manera:
+
+«Artículo 13. Dirección General de Política de Investigación, Desarrollo e Innovación.
+
+1.Corresponde a la Dirección General de Política de Investigación, Desarrollo e Innovación ejercer las siguientes funciones:
+
+a) La elaboración, planificación, coordinación y seguimiento de las Estrategias Españolas de Ciencia y Tecnología y de Innovación y de las actuaciones de la Administración General del Estado en materia de fomento y coordinación de la I+D+i incluidos los Planes Estatales de Investigación Científica y Técnica y de Innovación y sus correspondientes Programas Anuales de Actuación.
+
+b) La coordinación y elaboración de informes, indicadores y estadísticas de I+D+i así como el fomento, análisis y evaluación de las políticas públicas de I+D+i y sus principales instrumentos.
+
+c) La coordinación y desarrollo del Sistema de Información sobre Ciencia, Tecnología e Innovación y el impulso de las actividades en este ámbito.
+
+d) Impulso y coordinación a las actividades de promoción de la investigación y la innovación y de la cultura científica, tecnológica e innovadora.
+
+e) Fomento y promoción nuevos modelos de difusión de los resultados de la investigación en abierto.
+
+f) Las relaciones y coordinación con la Agencia Estatal de Investigación, el Centro para el Desarrollo Tecnológico Industrial, la Fundación Española para la Ciencia y la Tecnología y el resto de las unidades de la Administración General del Estado responsables de políticas de I+D+i y políticas sectoriales estrechamente relacionadas las políticas de I+D+i.
+
+g) La coordinación general, diseño y desarrollo de la cooperación con las Comunidades Autónomas y Corporaciones Locales en I+D+i.
+
+h) El apoyo administrativo al Consejo de Política Científica, Tecnológica y de Innovación, al Consejo Asesor de Ciencia, Tecnología e Innovación y al Comité Español de Ética de la Investigación.
+
+i) La coordinación de las políticas estatales y europeas en materia de I+D+i así como la coordinación de las estrategias y actividades ligadas a la internacionalización y promoción internacional en el ámbito de la I+D+i.
+
+j) La planificación, negociación y representación del Programa Marco de investigación e innovación de la Unión Europea y de otros programas de I+D+i de carácter europeo.
+
+k) La coordinación de las actividades de promoción de la participación española en los programas de fomento de la I+D+i promovidos por la Unión Europea y el seguimiento de dicha participación.
+
+l) El impulso, coordinación y representación española en programas, foros y organizaciones de la Unión Europea en materia de I+D+i.
+
+m) La planificación y coordinación de programas y acuerdos internacionales estratégicos de investigación científica y técnica, de carácter bilateral y multilateral, orientados a fortalecer el liderazgo y la internacionalización de la I+D+i.
+
+n) La cooperación internacional en materia de I+D+i, la formulación y la coordinación de la posición española en foros internacionales, y la propuesta o designación, en su caso, de quienes hayan de representar a España en los organismos internacionales responsables de los correspondientes programas, todo ello sin perjuicio de las competencias de otros órganos.
+
+2\. Dependen de la Dirección General de Política de Investigación, Desarrollo e Innovación las siguientes subdirecciones generales:
+
+a) La Subdirección General de Coordinación, Planificación y Seguimiento, que ejercerá las funciones descritas en los párrafos a), b), c), d), e), f), g) y h) del apartado 1.
+
+b) La Subdirección General de Relaciones Internacionales, que ejercerá las funciones descritas en los párrafos i), j), k), l), m) y n) del apartado 1.»
+
+#### Disposición final segunda. Modificación del Estatuto del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA), aprobado por Real Decreto 1951/2000, de 1 de diciembre.
+
+El Estatuto del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA), aprobado por Real Decreto 1951/2000, de 1 de diciembre, queda modificado como sigue:
+
+Uno. Se modifica la letra d) del artículo 3.1 y la letra c) del artículo 3.2, que quedan redactadas como sigue:
+
+«d) Promover, elaborar y coordinar acciones estratégicas de investigación científica y tecnológica en materia agraria y alimentaria, de acuerdo con las directrices de los Planes Estatales de Investigación Científica y Técnica y de Innovación.»
+
+«c) Promover y coordinar proyectos de investigación y desarrollo de carácter agrario y alimentario, y de actividades de conservación y utilización sostenible de los recursos genéticos para la agricultura y alimentación.»
+
+Dos. Se modifica la letra b) del artículo 6, que queda redactada como sigue:
+
+«b) Informar las acciones estratégicas de investigación científica y tecnológica en materia agraria y alimentaria que se propongan, elaboren y coordinen desde el organismo.»
+
+#### Disposición final tercera. Habilitación normativa.
+
+Se autoriza al Ministro de Economía y Competitividad para que dicte cuantas disposiciones sean necesarias para el desarrollo y ejecución de lo previsto en este real decreto.
+
+#### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 27 de noviembre de 2015.
+
+FELIPE R.
+
+El Ministro de Hacienda y Administraciones Públicas,
+
+CRISTÓBAL MONTORO ROMERO
+
+## ESTATUTO DE LA AGENCIA ESTATAL DE INVESTIGACIÓN
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Naturaleza, régimen jurídico, adscripción y sede.
+
+1\. La Agencia Estatal de Investigación, en adelante la Agencia, es una entidad de derecho público de las reguladas en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, dotada de personalidad jurídica pública, patrimonio propio y con autonomía funcional y de gestión.
+
+2\. La Agencia ajustará su actuación a lo dispuesto en la Ley 40/2015, de 1 de octubre, en la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, en este estatuto y sus normas de desarrollo, y por el resto de normas de derecho administrativo general y especial que le sea de aplicación.
+
+3\. La Agencia tendrá el régimen fiscal de los organismos autónomos según lo establecido en la disposición adicional duodécima de la Ley 14/2011, de 1 de junio, por lo que estará exenta del Impuesto sobre Sociedades, de acuerdo con el artículo 9.1 de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades.
+
+4\. La Agencia se adscribe al Ministerio de Ciencia, Innovación y Universidades a través de la Secretaría de Estado de Ciencia, Innovación y Universidades.
+
+5\. La Agencia tiene su sede en Madrid.
+
+6\. La denominación de la entidad es Agencia Estatal de Investigación.
+
+> Se modifica por el art. único.1 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+> Se modifica la rúbrica y se añade el apartado 6 por la disposición final 2.2 del Real Decreto 531/2017, de 26 de mayo. [Ref. BOE-A-2017-5859](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5859)
+
+#### Artículo 2. Objeto y fines.
+
+1\. Constituye el objeto propio de la Agencia la financiación, evaluación, gestión y seguimiento de la actividad de investigación científica y técnica destinada a la generación, intercambio y explotación del conocimiento que fomente la Administración General del Estado por su sola iniciativa o en concurrencia con otras Administraciones o entidades españolas o de otros países u organismos internacionales.
+
+2\. Son fines de la Agencia la promoción de la investigación científica y técnica en todas las áreas del saber mediante la asignación eficiente de los recursos públicos, la promoción de la excelencia, el fomento de la colaboración entre los agentes del Sistema y el apoyo a la generación de conocimientos de alto impacto científico y técnico, económico y social, incluidos los orientados a la resolución de los grandes retos de la sociedad, y el seguimiento de las actividades financiadas así como el asesoramiento necesario para mejorar el diseño y planificación de las acciones o iniciativas a través de las que se instrumentan las políticas de I+D de la Administración General del Estado.
+
+#### Artículo 3. Potestades administrativas.
+
+1\. De acuerdo con la legislación aplicable y este Estatuto, corresponde a la Agencia el ejercicio de las potestades administrativas necesarias para la realización de su objeto y fines, salvo la potestad expropiatoria y la reglamentaria.
+
+2\. En el ejercicio de su potestad de auto organización la Agencia podrá dictar normas de funcionamiento interno.
+
+#### Artículo 4. Colaboración administrativa.
+
+1\. En el ejercicio de las funciones que tenga atribuidas para el cumplimiento de su objeto y fines, la Agencia colaborará con otros órganos de la Administración General del Estado y de las demás Administraciones Públicas, así como con las entidades vinculadas o dependientes de las mismas, y establecerá con ellos las relaciones necesarias al efecto de actuar coordinadamente, y especialmente con el Centro para el Desarrollo Tecnológico y la Innovación E.P.E. (CDTI) en tanto que, de acuerdo con el artículo 45 de la Ley 14/2011, de 1 de junio, constituye el agente responsable del fomento de la innovación.
+
+2\. La Agencia puede celebrar convenios de colaboración con otras entidades públicas o privadas, nacionales o extranjeras, así como con organismos internacionales, en el ámbito propio de su objeto y fines.
+
+> Se modifica el apartado 1 por el art. único.2 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+## CAPÍTULO II — Funciones y actuación
+
+#### Artículo 5. Funciones.
+
+Para el cumplimiento de su objeto y fines, la Agencia realizará las siguientes funciones:
+
+a) La gestión de los programas, instrumentos y actuaciones que se le adjudique en el marco de los Planes Estatales de Investigación Científica y Técnica y de Innovación, cualquier otro que le sea expresamente asignado por la Administración General del Estado o los que deriven de los convenios de colaboración celebrados con otras entidades o de otras actuaciones, mediante la asignación objetiva e imparcial de los recursos disponibles.
+
+b) La organización y gestión de la evaluación científico-técnica ex ante y ex post de las propuestas, actuaciones o iniciativas cuando proceda utilizar criterios de evaluación basados en méritos científicos y técnicos internacionalmente reconocidos así como aquellos criterios que establezcan las correspondientes convocatorias.
+
+c) La verificación, seguimiento y evaluación posterior de las actividades financiadas por la Agencia y su impacto científico, técnico y socio-económico, así como el control de la justificación del cumplimiento de las condiciones y objetivos de las ayudas recibidas.
+
+d) La comunicación y difusión de los resultados de las evaluaciones realizadas, teniendo en cuenta lo establecido en Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
+
+e) El seguimientode la gestión, financiación, justificación y resultados de cuantas actuaciones sean directamente ejecutadas por la Agencia así como el asesoramiento sobre las mismas.
+
+f) La participación en reuniones de organismos y foros nacionales e internacionales relacionados con las materias propias de su objeto y fines, y la representación en organismos y foros de políticas de I+D+I cuando así lo determine el Ministerio de adscripción La actuación de la Agencia en foros internacionales tendrá lugar en coordinación con el Ministerio de Asuntos Exteriores, Unión Europea y Cooperación, cuando así se determine necesario.
+
+g) La difusión y comunicación de los resultados de sus actividades y de los resultados de la investigación financiada por la Agencia.
+
+h) La gestión de las actuaciones destinadas a fomentar la colaboración, intercambio, circulación, difusión y explotación del conocimiento científico y técnico entre los agentes del Sistema.
+
+i) La realización de las actividades o la prestación de los servicios que le sean encomendados por la Administración General del Estado o, en virtud de contratos, convenios y en general negocios jurídicos, por otras entidades.
+
+j) La gestión de las actuaciones de I+D financiadas con fondos europeos y de las resultantes de la participación española en programas internacionales.
+
+k) La gestión económica y presupuestaria y el control económico-financiero de los instrumentos y actuaciones que le correspondan.
+
+l) Cualquier otra función que le sea encomendada.
+
+m) Para el cumplimiento de las funciones establecidas en este artículo, previo acuerdo del Consejo Rector, la Agencia podrá participar en entidades de derecho público, incluyendo aquellas contempladas en el derecho europeo, o privadas en los términos legalmente establecidos.
+
+> Se modifican las letras d), f) y se añade la m) por el art. único.3 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+## CAPÍTULO III — Principios de actuación
+
+#### Artículo 6. Principios básicos de actuación.
+
+La Agencia observará los principios de interés general por los que debe regirse la actuación de las Administraciones públicas. En el ejercicio de sus funciones específicas se regirá, además, por los siguientes principios básicos:
+
+a) Autonomía, entendida como la capacidad de la Agencia de gestionar, en los términos previstos en el presente Estatuto, los medios puestos a su disposición para alcanzar los objetivos comprometidos.
+
+b) Independencia técnica, basada en la capacitación, especialización, profesionalidad y responsabilidad individual del personal al servicio de la Agencia que deberá observar los valores de competencia, ética profesional y responsabilidad pública que son de aplicación.
+
+c) Objetividad en la evaluación del mérito científico, técnico e innovador en todas sus actuaciones, que se efectuará utilizando criterios previamente establecidos, conocidos por todos y basados en estándares, internacionales y comúnmente aceptados, como la evaluación por pares nacionales e internacionales o por paneles de científicos y tecnólogos de reconocido prestigio.
+
+d) Transparencia en todas las actividades administrativas y cumplimiento de las obligaciones de buen gobierno por parte de los responsables públicos de la Agencia, así como la rendición de cuentas y compromisos para presentar la información precisa y completa sobre todos los resultados y procedimientos utilizados en la gestión.
+
+e) Eficacia en su actuación, poniendo todos los medios para llevar a cabo el objeto y fin definidos en este Estatuto.
+
+f) Eficiencia en la asignación y utilización de recursos públicos y evaluación continuada de la calidad de los procesos de gestión y de los procedimientos de actuación, que se efectuará atendiendo a los criterios de legalidad, celeridad, simplificación y accesibilidad electrónica y sin perjuicio del rigor necesario.
+
+g) Cooperación interinstitucional, entendido como el principio que busque las sinergias en la colaboración con otras Administraciones, agentes e instituciones, públicas o privadas, nacionales e internacionales para el fomento del conocimiento en todos sus ámbitos.
+
+h) Igualdad de género, promoviendo la perspectiva de género y una composición equilibrada de mujeres y hombres en sus órganos, consejos y comités y actividades de acuerdo con lo dispuesto en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, y la disposición adicional decimotercera de la Ley 14/2011, de 1 de junio.
+
+i) Exigencia en el ámbito de sus actuaciones y programas de los principios de igualdad de género, de no discriminación, y de investigación e innovación responsables, así como la promoción de las buenas prácticas, y del estricto cumplimiento de los principios éticos en la investigación e innovación.
+
+j) Fomento de las estrategias conducentes a la valorización y mejora de la carrera científica en el ámbito de las actuaciones en recursos humanos, de acuerdo con la normativa que resulte de aplicación.
+
+k) Fomento de los principios sobre Ciencia Abierta previstos en la normativa vigente.
+
+> se añaden las letras i), j) y k) por el art. único.4 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+## CAPÍTULO IV — Estructura orgánica
+
+### Sección 1.ª Órganos de gobierno
+
+#### Artículo 7. Órganos de gobierno.
+
+Los órganos de gobierno de la Agencia son el Presidente y el Consejo Rector.
+
+#### Artículo 8. La Presidencia.
+
+1\. La Presidencia de la Agencia corresponde a la persona titular de la Secretaría de Estado de Ciencia, Innovación y Universidades del Ministerio de Ciencia, Innovación y Universidades.
+
+2\. Corresponden a la persona titular de la Presidencia de la Agencia las siguientes funciones:
+
+a) Ostentar la máxima representación institucional y legal de la Agencia, presidir su Consejo Rector y velar por el cumplimiento de su objeto, fines y funciones.
+
+b) Convocar las sesiones del Consejo Rector.
+
+c) Dirimir con su voto los empates, a efectos de adoptar acuerdos, en el seno del Consejo Rector.
+
+d) Presentar al Consejo Rector la memoria anual de actividades de la Agencia.
+
+e) Informar a los departamentos ministeriales competentes y a otras instituciones del Estado sobre la ejecución y cumplimiento de los objetivos fijados en el contrato de gestión de la Agencia.
+
+f) Celebrar convenios, memorandos de entendimiento, acuerdos de ejecución o instrumentos jurídicos de cualquier otra naturaleza que puedan generar compromisos y obligaciones para la Agencia, sin perjuicio de las delegaciones que, en su caso, se establezcan.
+
+g) Proponer al Consejo Rector el nombramiento y cese de la persona titular de la Dirección de la Agencia.
+
+h) Proponer al Consejo Rector la designación de los miembros de la Comisión de Control.
+
+i) Ejercer las demás facultades y funciones que le atribuyan este estatuto, el Consejo Rector y las disposiciones vigentes.
+
+3\. La Presidencia podrá delegar aquellas funciones propias que estime oportunas y sean susceptibles de delegación en las personas titulares de la Dirección, la Secretaría General, las Direcciones y demás órganos dependientes.
+
+4\. De acuerdo con lo establecido en el artículo 39.3 del presente estatuto y el 114.2.d) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las resoluciones de la Presidencia de la Agencia ponen fin a la vía administrativa.
+
+> Se modifica por el art. único.5 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 9. El Consejo Rector.
+
+1\. El Consejo Rector es el órgano de gobierno colegiado de la Agencia.
+
+2\. Son miembros del Consejo Rector:
+
+La persona titular de la Presidencia de la Agencia, que ostentará la presidencia del Consejo Rector, y los siguientes vocales:
+
+a) La persona titular de la Dirección de la Agencia.
+
+b) La persona titular de la Secretaría General de Innovación.
+
+c) La persona titular de la Secretaría General de Investigación.
+
+d) Una persona representante del Ministerio de Hacienda, al menos con rango de Director General, designada a propuesta de su titular.
+
+e) Una persona representante del Ministerio para la Transformación Digital y de la Función Pública, al menos con rango de Director General, designada a propuesta de su titular.
+
+f) La persona que ostente la presidencia del Consejo Científico Técnico.
+
+g) Una persona experta en I+D+I designada a propuesta del Consejo Asesor de Ciencia, Tecnología e Innovación. La duración de su mandato será de tres años, renovables por una vez.
+
+h) Una persona representante de los trabajadores designada a propuesta de las organizaciones sindicales más representativas en la Administración General del Estado. La duración de su mandato será de tres años, renovable por una vez.
+
+3\. Los miembros del Consejo Rector serán nombrados por la persona titular del Ministerio de adscripción de la Agencia Estatal de Investigación.
+
+4\. El Secretario asistirá a las sesiones con voz pero sin voto.
+
+5\. El Consejo Rector celebrará sesiones al menos cada tres meses, pudiendo celebrar sesiones extraordinarias por decisión de su presidente o cuando así lo solicite al menos la mitad de sus miembros.
+
+6\. De acuerdo con lo establecido en el artículo 39.3 del presente estatuto y el 114.2.d) de la Ley 39/2015, de 1 de octubre, las resoluciones del Consejo Rector de la Agencia ponen fin a la vía administrativa.
+
+7\. En lo no dispuesto el presente estatuto, el Consejo Rector ajustará su actuación, en lo que le sea de aplicación, a las disposiciones de la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifica por el art. único.6 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 10. Funciones del Consejo Rector.
+
+Corresponden al Consejo Rector las siguientes funciones:
+
+a) El seguimiento, la supervisión y el control superiores de la actuación de la Agencia Estatal
+
+b) Aprobar la propuesta del Contrato de gestión.
+
+c) Elevar al Ministerio de adscripción para su aprobación, los planes de acción anuales y plurianuales, así como los objetivos estratégicos y operativos de la Agencia y los procedimientos, criterios e indicadores para la medición de su cumplimiento y del grado de eficiencia en la gestión propuestos por la persona titular de la Dirección de la Agencia.
+
+d) Nombrar y cesar a la persona titular de la Dirección de la Agencia a propuesta de la Presidencia.
+
+e) El control de la gestión de la persona titular de la Dirección y la exigencia a ésta de las responsabilidades que procedan, incluida la separación del cargo en el supuesto de incumplimiento grave de sus funciones.
+
+f) Aprobar el anteproyecto de presupuestos anuales, la contracción de cualesquiera obligaciones de carácter plurianual dentro de los límites fijados en el Contrato de gestión así como las cuentas anuales auditadas y, en su caso, la distribución del resultado del ejercicio de acuerdo con la legislación presupuestaria.
+
+g) Aprobar los informes anuales y plurianuales de actividad así como aquellos extraordinarios que se consideren necesarios valorando los resultados obtenidos y consignando las deficiencias observadas.
+
+h) Designar a los miembros de la Comisión de Control.
+
+i) Nombrar y cesar a los miembros del Comité Científico y Técnico e impulsar la renovación en los términos previstos en el artículo 14.2.
+
+j) Aprobar la previsión de necesidades de personal, los criterios y los procedimientos de selección del mismo, teniendo en cuenta lo establecido en el Contrato de gestión.
+
+k) Aprobar la relación de puestos de trabajo de la Agencia, dentro del marco de actuación que en materia de recursos humanos se establezca en el Contrato de gestión, así como elevar la propuesta de oferta anual de empleo de la Agencia para su integración en la oferta de empleo público.
+
+l) Aprobar el nombramiento y cese, a propuesta de la persona titular de la Dirección, del personal directivo de la Agencia, así como los criterios para la determinación de los incentivos retributivos por rendimiento que le correspondan, teniendo en cuenta lo establecido en el contrato de gestión.
+
+m) Elevar la propuesta de modificación de la estructura organizativa de la Agencia.
+
+n) Aprobar el marco general de delegación de competencias de la Agencia para la celebración de convenios de colaboración con otras entidades públicas o privadas, nacionales o extranjeras, así como con organismos internacionales.
+
+o) Cualesquiera otras que le correspondan en función de la legislación vigente.
+
+> Se modifican las letras c), d), e) y l) por el art. único.7 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 11. La Secretaría del Consejo Rector.
+
+La Secretaría del Consejo Rector corresponderá a la persona titular de la Secretaría General de la Agencia. A la Secretaría le corresponderán las funciones a que hacen referencia los artículos 16, 18 y 19.4 de la Ley 40/2015, de 1 de octubre. En caso de ausencia, vacante o enfermedad, la persona titular de la Secretaría será sustituida por una persona designada por el Consejo Rector entre el personal funcionario de carrera perteneciente a cuerpos o escalas incluidos en el subgrupo A1.
+
+> Se modifica por el art. único.8 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+### Sección 2.ª Órgano ejecutivo
+
+#### Artículo 12. La Dirección.
+
+1\. El máximo órgano ejecutivo de la Agencia es la persona titular de la Dirección.
+
+La persona titular de la Dirección de la Agencia será nombrada y separada por el Consejo Rector a propuesta de la Presidencia, oído el Consejo Científico Técnico. Para su selección se tendrán en cuenta especialmente los siguientes criterios: reconocido prestigio y experiencia en materia de investigación científica y técnica tanto a nivel nacional como internacional; experiencia en puestos directivos y conocimientos y experiencia en la gestión de políticas de I+D.
+
+La persona titular de la Dirección de la Agencia tendrá la consideración de alto cargo, con rango equiparable al de Director General en la Administración General del Estado, a efectos de lo dispuesto en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado y sus disposiciones de desarrollo, así como a efectos retributivos, de acuerdo con lo dispuesto en la materia en las leyes de Presupuestos Generales del Estado. La duración del mandato del director será de tres años, renovable por una vez, y sin perjuicio de lo previsto en la letra d) del artículo 10.
+
+2\. Corresponden a la persona titular de la Dirección de las siguientes funciones:
+
+a) Llevar a cabo la Dirección y gestión ordinaria de la Agencia, en el marco de las funciones atribuidas en este apartado o de las que le sean expresamente delegadas.
+
+b) Elaborar y elevar al Consejo Rector la propuesta del contrato de gestión de la Agencia.
+
+c) Elaborar y elevar al Consejo Rector los objetivos estratégicos y operativos de la Agencia, y los procedimientos, criterios e indicadores para la medición de su cumplimiento y del grado de eficiencia en la gestión.
+
+d) Elaborar y elevar al Consejo Rector el plan de acción anual y dirigir y coordinar las actividades que sean necesarias para el desarrollo de las funciones de la Agencia.
+
+e) Elaborar y elevar al Consejo Rector el anteproyecto de presupuesto de la Agencia.
+
+f) Formular las cuentas anuales y elevarlas al Consejo Rector junto con el informe de auditoría de cuentas.
+
+g) Autorizar las variaciones presupuestarias que se estimen necesarias y que no deban ser por el Ministerio de Hacienda y proponer aquellas que precisan autorización.
+
+h) Autorizar, por causa justificada, la disposición de gastos, el reconocimiento de obligaciones y la ordenación de los pagos correspondientes de los que dará cuenta al Consejo Rector.
+
+i) Proponer la modificación de los límites generales de compromiso de gasto con cargo a ejercicios futuros por causa justificada de los que dará cuenta al Consejo Rector, en los términos establecidos en el artículo 108.sexies.5 de la Ley 40/2015, de 1 de octubre.
+
+j) Elevar al Consejo Rector el informe anual de actividades, ordinarias y extraordinarias, de la Agencia.
+
+k) Elaborar y elevar a la Comisión de Control un informe mensual sobre el estado de ejecución presupuestaria.
+
+l) Celebrar contratos con las condiciones y límites que en su caso puedan establecerse, dando cuenta de ello al Consejo Rector.
+
+m) Proponer al Consejo Rector el nombramiento y cese del personal directivo de la Agencia.
+
+n) Prever las necesidades de personal de la Agencia; proponer al Consejo Rector la relación de puestos de trabajo y los criterios para la selección de personal laboral; resolver las convocatorias de provisión de puestos de trabajo de personal funcionario y contratar al personal laboral, dentro de los términos establecidos en el contrato de gestión.
+
+ñ) Proponer al Consejo Rector los criterios para la determinación de los incentivos al rendimiento del personal de la Agencia, dentro de los términos establecidos en el contrato de gestión.
+
+o) Nombrar o cesar a colaboradores y expertos a los que se refiere el artículo 28.6 de este estatuto.
+
+p) Ejercer la representación institucional y legal de la Agencia cuando no corresponda a la Presidencia o dichas funciones hayan sido delegadas de forma expresa.
+
+q) Recabar del Consejo Científico Técnico los informes y asesoramiento que considere necesarios para el adecuado funcionamiento de la Agencia.
+
+r) Resolver los procedimientos de responsabilidad patrimonial.
+
+s) Cualquier otra que le sea atribuida por el Consejo Rector.
+
+3\. Podrán ser objeto de delegación en el personal directivo o en los restantes órganos internos de la Agencia, las competencias que correspondan a la persona titular de la Dirección, salvo las previstas en los apartados a), b), c), e), f), g), l), m) y p) y aquellas que por disposición legal o por su propia naturaleza no fueran susceptibles de delegación.
+
+4\. En caso de vacante, ausencia o enfermedad, la persona titular de la Dirección de la Agencia será sustituida por la persona titular de la Dirección de Programación y Seguimiento Económico y, en su defecto y por este orden, por la persona titular de la Dirección de Gestión Científica y Tecnológica o por la persona titular de la Secretaría General.
+
+5\. De acuerdo con el artículo 39.3 de este estatuto y el 114.2.d) de la Ley 39/2015, de 1 de octubre, las resoluciones de la Dirección de la Agencia ponen fin a la vía administrativa.
+
+6\. De la persona titular de la Dirección de la Agencia dependerá la Unidad de Apoyo a la Dirección, a la que corresponderán las siguientes funciones:
+
+a) Asesorar a la persona titular de la Dirección de la Agencia.
+
+b) Apoyar a la persona titular de la Dirección de la Agencia en la preparación de actos y reuniones internas y en el ámbito del ministerio de adscripción.
+
+c) Coordinar las relaciones institucionales de la Agencia.
+
+d) La difusión de los resultados y actividades de la Agencia a la sociedad.
+
+e) Velar por el cumplimiento de la normativa de protección de datos de carácter personal, para lo cual recabará la información que se precise de las distintas unidades.
+
+f) Coordinar la respuesta a preguntas parlamentarias y otros requerimientos de informes y datos estadísticos provenientes de las Cortes Generales, el Gobierno, las comunidades autónomas, el Portal de la Transparencia o el Defensor del Pueblo, entre otros, para lo cual recabará la información que precise de las distintas unidades de la Agencia.
+
+g) Atender a quejas, reclamaciones y requerimientos de información de carácter general que los ciudadanos y usuarios dirijan a la Agencia a través de las distintas vías de comunicación existentes.
+
+h) Coordinar, elaborar y hacer el seguimiento de las actuaciones y planes de igualdad de género de la Agencia.
+
+7\. De conformidad con el artículo 2.3 del Real Decreto 259/2019, de 12 de abril, por el que se regulan las Unidades de Igualdad de la Administración General del Estado, se crea la Unidad de Igualdad que se adscribe a la Dirección.
+
+> Se modifica por el art. único.9 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+### Sección 3.ª Comisión de Control
+
+#### Artículo 13. La Comisión de Control.
+
+1\. La Comisión de Control de la Agencia estará constituida por cuatro miembros del Consejo Rector designados por éste entre quienes no tengan responsabilidades directas en la gestión de la Agencia y posean conocimientos o experiencia en gestión presupuestaria y control de la actividad económico-financiera del sector público estatal.
+
+2\. El presidente de la Comisión de Control será designado por el Consejo Rector y actuará como secretario de la Comisión de Control el secretario del Consejo Rector quien asistirá a las reuniones con voz pero sin voto.
+
+3\. Asistirán a las reuniones de la Comisión de Control, con voz pero sin voto, el Interventor Delegado en la Agencia, un representante de la correspondiente Inspección de los Servicios y el titular de la Secretaría General de la Agencia.
+
+4\. La Comisión de Control se reunirá al menos una vez cada dos meses y, con carácter extraordinario, siempre que lo estime oportuno su presidente o a solicitud del Consejo Rector.
+
+5\. Corresponden a la Comisión de Control las siguientes funciones:
+
+a) Informar al Consejo Rector sobre la ejecución del Contrato de gestión y la ejecución presupuestaria.
+
+b) Elevar al Consejo Rector los informes de índole económico-financiera, presupuestaria o contable que deban ser sometidos a su consideración o aprobación.
+
+c) Tomar conocimiento de la información que la Agencia deba elaborar y remitir a los órganos competentes en cumplimiento de la legislación económico-financiera, presupuestaria y contable y controlar su observancia.
+
+d) Analizar el resultado de las actuaciones de evaluación y control realizadas por cualquiera de los órganos de control de la Agencia a los que se refiere el artículo 37 y analizar y proponer las correcciones que considere necesarias.
+
+### Sección 4.ª Órgano consultivo
+
+#### Artículo 14. El Consejo Científico Técnico.
+
+1\. El Consejo Científico Técnico es el órgano colegiado consultivo y de asesoramiento con carácter permanente de la Agencia.
+
+Estará compuesto por doce miembros, nombrados y cesados por el Consejo Rector, a propuesta de la Presidencia, entre personas expertas de reconocido prestigio internacional, preseleccionadas mediante la apertura de un procedimiento para la nominación de candidatos por parte de las instituciones que conforman el Sistema de Ciencia y Tecnología, en cuya selección habrá de tenerse en cuenta la distribución equilibrada de todas las grandes áreas de conocimiento. La designación se realizará de acuerdo con el principio de presencia equilibrada de mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas. El Consejo Científico Técnico elegirá a su presidente mediante el procedimiento que establezca su propio reglamento interno.
+
+2\. El mandato de los miembros del Consejo Científico Técnico tendrá una duración de seis años, renovándose por tercios cada dos años, determinando por sorteo el tercio que deba ser renovado por primera vez.
+
+3\. El Consejo Científico Técnico se reunirá ordinariamente cada cuatro meses y con carácter extraordinario cuando su presidente lo estime necesario o a petición del presidente del Consejo Rector. Actuará como secretario del Consejo Científico Técnico un funcionario de la Agencia nombrado por el director de esta, que asistirá a las reuniones con voz pero sin voto.
+
+4\. El Consejo Científico Técnico no conlleva incremento en el gasto público. Su funcionamiento será atendido con los medios personales, técnicos y presupuestarios ordinarios asignados a la Agencia.
+
+> Se modifica por el art. único.10 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 15. Funciones del Consejo Científico Técnico.
+
+El Consejo Científico Técnico tendrá encomendadas, además de la establecida en el artículo 12.1, las siguientes funciones:
+
+a) Asesorar sobre el contrato de gestión y el plan de acción anual de actividades así como sobre las actividades de fomento y promoción de la Agencia.
+
+b) Realizar recomendaciones sobre los principios, metodologías y prácticas de evaluación científica y técnica por los que se regirá la Agencia incorporando estándares internacionales.
+
+c) Asesorar a la Presidencia de la Agencia, al Consejo Rector y a la persona titular de la Dirección sobre el seguimiento, resultados e impacto de las actuaciones de la Agencia.
+
+d) Asesorar a la Dirección de la Agencia en la definición de los criterios de selección de los colaboradores y expertos a los que se refiere el artículo 28.6 de este estatuto.
+
+e) Asesorar y prestar apoyo sobre los asuntos que la Presidencia, la Dirección o el Consejo Rector sometan a su consideración o realizar informes a instancia de dichos órganos.
+
+f) Conocer y valorar el informe anual de actividades, ordinarias y extraordinarias, de la Agencia.
+
+g) Cualquier otra que le sea atribuida por el Consejo Rector.
+
+> Se modifica por el art. único.11 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+### Sección 5.ª Estructura organizativa
+
+#### Artículo 16. Estructura básica.
+
+1\. La Agencia contará, bajo la dependencia jerárquica de la persona titular de su Dirección, con una Dirección de Gestión Científica y Tecnológica, una Dirección de Programación y Seguimiento Económico, una Secretaría General y una Unidad de Apoyo.
+
+2\. La Dirección de Gestión Científica y Tecnológica contará con las siguientes subdirecciones: la Subdirección de Evaluación, la Subdirección de Programas Temáticos y la Subdirección de Programas Horizontales e Internacionalización.
+
+3\. La Dirección de Programación y Seguimiento Económico contará con las siguientes subdirecciones: la Subdirección de Procedimientos de Concesión, la Subdirección de Seguimiento Económico y la Subdirección de Fondos Europeos.
+
+4\. La Secretaría General contará con la Subdirección de Gestión Económica de Ayudas.
+
+5\. Los titulares de la Secretaría General, direcciones y subdirecciones indicadas en este artículo tendrán la consideración de personal directivo a los efectos del artículo 30.
+
+> Se modifica por el art. único.12 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 17. Dirección de Gestión Científica y Tecnológica.
+
+1\. Las funciones de la Dirección de Gestión Científica y Tecnológica son:
+
+a) El establecimiento de los criterios, principios, metodologías y procedimientos de evaluación científico-técnica que se aplican en los distintos ámbitos de actuación de la Agencia, contando, en su caso, con el asesoramiento del Consejo Científico Técnico de la Agencia.
+
+b) La organización y gestión de la evaluación científico-técnica, ex ante, de las propuestas utilizando procedimientos internacionalmente reconocidos, así como aquellos criterios que establezcan las correspondientes convocatorias.
+
+c) Definición del contenido, modalidades y requisitos de las convocatorias de ayudas correspondientes a los programas de los planes estatales que se atribuyan a la Agencia mediante los instrumentos jurídicos establecidos como sistema para la asignación de los recursos.
+
+d) Mantenimiento de bases de datos estadísticos y apoyo en la contestación de consultas externas sobre ayudas concedidas.
+
+e) La organización, gestión y ejecución del seguimiento científico-técnico y evaluación ex post de las actuaciones financiadas por la Agencia.
+
+f) Coordinar y proporcionar datos estadísticos de las actuaciones gestionadas por la Agencia, así como la información que sea requerida por los órganos de control de las distintas administraciones.
+
+g) La elaboración de informes y estudios sobre el impacto científico-técnico, social y económico de las actuaciones de la Agencia.
+
+h) La preparación de la información a proporcionar a los ciudadanos y usuarios de las actuaciones gestionadas, conforme a los procedimientos generales establecidos por la Agencia.
+
+i) La gestión de las actuaciones destinadas a fomentar el intercambio de conocimientos entre los agentes del Sistema Español de Ciencia, Tecnología e Innovación.
+
+j) La planificación y seguimiento científico y técnico de las actuaciones derivadas de convenios de colaboración, actividades de programación conjunta, y otros acuerdos de la Agencia tanto nacionales como internacionales.
+
+k) La coordinación de las actuaciones de la Agencia Estatal de Investigación con el CDTI y con el resto de los agentes de financiación existentes en España y a nivel internacional, en el ámbito de las funciones atribuidas en este artículo.
+
+l) La coordinación y seguimiento de las actividades de los colaboradores a los que se refiere el artículo 28.6 de este estatuto.
+
+m) Participación en comités y grupos de trabajo nacionales e internacionales.
+
+n) La elaboración de informes sobre recursos administrativos y la recopilación de la documentación necesaria para la formación de los expedientes administrativos que sean requeridos por los órganos jurisdiccionales con motivo de la interposición de recursos contencioso-administrativos relacionados con su ámbito de actuación.
+
+2\. La Dirección de Gestión Científica y Tecnológica contará con las siguientes subdirecciones:
+
+a) La Subdirección de Evaluación será la responsable de organizar los procedimientos de evaluación *ex ante,* y de la aplicación de las normas, principios y criterios contenidos en las convocatorias y actuaciones gestionadas por la Agencia, garantizando la transparencia, objetividad e imparcialidad del proceso de selección de las solicitudes, mediante procesos de revisión por pares y/o de panel. En concreto, realizará las funciones relativas a los párrafos a), b), d), e),y m) y n) del apartado anterior.
+
+b) La Subdirección de Programas Temáticos será la responsable de gestionar las ayudas concedidas por la Agencia y ejecutar el seguimiento científico-técnico de las mismas y cuantas actuaciones encomendadas lo requieran en los ámbitos científico-técnicos definidos en los correspondientes planes estatales, respondiendo a las necesidades de la comunidad científica y a los principales retos sociales y económicos del país. En concreto realizará las funciones relativas a los párrafos c), e), f), g), h), i), m) y n) del apartado anterior, en sus correspondientes ámbitos científico-técnicos.
+
+c) La Subdirección de Programas Horizontales e Internacionalización será la responsable de gestionar y ejecutar el seguimiento científico-técnico de las ayudas concedidas y cuantas actuaciones encomendadas a la Agencia en los ámbitos científico-técnicos que, por sus características, no tienen una orientación temática definida y están orientados a fortalecer y transformar el Sistema Español de Ciencia, Tecnología e Innovación, promoviendo la excelencia y la generación de capacidades científico-técnicas. En concreto realizará las funciones relativas a los párrafos c), e), f), g), h), i), j), m) y n) del apartado anterior, en sus correspondientes ámbitos de actuación.
+
+d) La persona titular de la Dirección de Gestión Científica y Tecnológica asumirá la coordinación de las citadas subdirecciones, así como las funciones del apartado anterior no expresamente atribuidas a las mismas.
+
+> Se modifica por el art. único.13 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 18. Dirección de Programación y Seguimiento Económico.
+
+1\. Las funciones de la Dirección de Programación y Seguimiento Económico son:
+
+a) La preparación y elaboración de las convocatorias de ayudas correspondientes a los programas de los planes estatales atribuidos a la Agencia mediante los instrumentos jurídicos establecidos como sistema para la asignación de los recursos, en coordinación con el resto de las unidades de la Agencia.
+
+b) La gestión operativa de los procedimientos de concesión de ayudas y la preparación y petición de cuantos informes considere necesarios para su resolución, así como cualquier actuación que se estime necesaria.
+
+c) La gestión y el control de la aplicación del régimen de ayudas de Estado.
+
+d) La planificación y control económico de las actuaciones financiadas y de las ayudas otorgadas por la Agencia y de las que le sean encomendadas.
+
+e) La planificación, coordinación, gestión y control económico de las actuaciones de la Agencia cofinanciadas con fondos europeos.
+
+f) La certificación a las respectivas autoridades de gestión de ayudas al Fondo Europeo de Desarrollo Regional (FEDER) y al Fondo Social Europeo (FSE).
+
+g) El asesoramiento técnico para la ejecución y justificación económica de las ayudas.
+
+h) La coordinación continua con la Intervención General de la Administración del Estado en sus competencias relativas al control financiero, así como la instrucción de los procedimientos sancionadores derivados de la propuesta realizada por el citado órgano de control, de acuerdo con lo establecido en el artículo 103 del Real Decreto 887/2006, de 21 de julio, por el que se aprueba el Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+i) La atención a los requerimientos de información de la Agencia Estatal de Administración Tributaria y de las Delegaciones de Economía y Hacienda relacionadas con los efectos económicos derivados del procedimiento de reintegro.
+
+j) La información a los ciudadanos y relaciones con los usuarios de las propuestas gestionadas conforme a los procedimientos generales establecidos por la Agencia.
+
+k) La elaboración de informes sobre recursos de reposición y recopilación de documentación necesaria para la formación de los expedientes administrativos que sean requeridos por los órganos jurisdiccionales con motivo de la interposición de recursos contencioso-administrativos relacionados en su ámbito de actuación.
+
+2\. La Dirección de Programación y Seguimiento Económico contará con las siguientes subdirecciones:
+
+a) La Subdirección de Seguimiento Económico, que realizará las funciones relativas al párrafo d) del apartado anterior, así como las de los párrafos e), h), i), j) y k) en su ámbito de actuación.
+
+b) La Subdirección de Fondos Europeos, que realizará las funciones relativas al párrafo f) del apartado anterior, así como las de los párrafos e), h), i), j) y k) en su ámbito de actuación.
+
+c) La Subdirección de Procedimientos de Concesión, que realizará las funciones relativas a los párrafos a) y b) del apartado anterior, así como las de los párrafos j) y k) en su ámbito de actuación.
+
+d) La persona titular de la Dirección de Programación y Seguimiento Económico asumirá la coordinación de las citadas subdirecciones, así como aquellas funciones del apartado anterior no expresamente atribuidas.
+
+> Se modifica por el art. único.14 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 26, de 30 de enero de 2016. [Ref. BOE-A-2016-883](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-883).
+
+#### Artículo 19. Secretaría General.
+
+1\. De la persona titular de la Dirección de la Agencia dependerá directamente la Secretaría General.
+
+2\. Las funciones de la Secretaría General son:
+
+a) La gestión y administración de recursos humanos incluida la selección del personal laboral, la gestión de la acción social y la formación de los recursos humanos, bajo la supervisión de la persona titular de la Dirección y siguiendo los criterios y directrices del Consejo Rector.
+
+b) La tramitación de los expedientes de contratación para adquisición de bienes y servicios, así como la habilitación del material, y de manera especial, la gestión y dotación de medios informáticos, además del análisis, diseño, impulso, mantenimiento y gestión de las herramientas informáticas necesarias para el desarrollo de los procesos necesarios propios de las funciones de la Agencia.
+
+c) La gestión presupuestaria, de los ingresos y gastos, la realización de los cobros y pagos y la gestión de la tesorería de la Agencia.
+
+d) La formación y mantenimiento actualizado de los inventarios de los bienes muebles e inmuebles, tanto propios como adscritos, así como la custodia de estos últimos y la tramitación de los expedientes de adquisición, arrendamiento, adscripción y/o descripción.
+
+e) La seguridad, régimen interior, asuntos generales y la coordinación e inspección de las unidades, instalaciones y servicios de la Agencia.
+
+f) La instrucción de los procedimientos sancionadores en el ámbito de las competencias de la Agencia distintos a los recogidos en artículo 18.1.h) de este estatuto y las relaciones con los Tribunales de Justicia.
+
+g) La planificación y ejecución de la política de prevención de riesgos laborales, incluida la organización y supervisión del servicio de prevención.
+
+h) Ejercer las potestades administrativas derivadas de las funciones de la Agencia, de la gestión de los recursos y del personal de la Agencia, así como la gestión de los asuntos horizontales que no se correspondan con competencias específicamente atribuidas a otras unidades de la Agencia y las que le sean atribuidas por normas legales o reglamentarias.
+
+i) Ejercer cuantas funciones le sean delegadas por la persona titular de la Dirección, con el límite establecido en el artículo 12.4.
+
+j) La planificación y gestión económica y la gestión y realización de los pagos derivados de las actuaciones propias de la Agencia relativas a subvenciones y ayudas.
+
+k) La gestión de las actuaciones de la Agencia derivadas de convenios y acuerdos suscritos con otras entidades nacionales e internacionales.
+
+l) La planificación de las actividades de la Agencia a través de la elaboración del plan de acción anual y su seguimiento.
+
+m) La elaboración del informe anual de actividad de la agencia.
+
+n) El seguimiento y control de los préstamos y avales relativos a las ayudas concedidas.
+
+3\. La Secretaría General contará con la Subdirección de Gestión Económica de Ayudas, que realizará las funciones relativas al párrafo j), k) y n).
+
+4\. La Secretaría General, sin perjuicio de las atribuciones asignadas en este estatuto a otros órganos de la Agencia, es responsable de coordinar las actividades para la elaboración del contrato de gestión.
+
+> Se modifica por el art. único.15 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+## CAPÍTULO V — Contrato de gestión y el plan de acción anual
+
+### Sección 1.ª El contrato de gestión
+
+#### Artículo 20. Naturaleza y finalidad.
+
+1\. El Contrato de gestión tendrá por objeto regular la actividad de la Agencia y las relaciones recíprocas entre ésta y la Administración General del Estado para la financiación de dicha actividad, todo ello en el marco de la legislación general y específica vigente durante su período de aplicación.
+
+2\. El Contrato de gestión tendrá una vigencia de cuatro años.
+
+3\. La Dirección de la Agencia elaborará la propuesta de contrato de gestión y lo someterá al Consejo Rector al que, tras su debate y posible modificación, corresponde su propuesta definitiva. Dicha propuesta será presentada al titular del Ministerio de adscripción, al del Ministerio de Hacienda y al del Ministerio para la Transformación Digital y de la Función Pública.
+
+4\. La aprobación del Contrato de gestión tiene lugar por orden conjunta de los titulares del Ministerio al que se adscribe la Agencia y del Ministerio de Hacienda y Administraciones Públicas, dictada en un plazo máximo de tres meses a contar desde su presentación. En el caso de no ser aprobado en este plazo mantendrá su vigencia el Contrato de gestión anterior.
+
+> Se modifica el apartado 3 por el art. único.16 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 21. Contenido del Contrato de gestión.
+
+El Contrato de gestión contendrá, al menos, los siguientes aspectos:
+
+a) Los objetivos a perseguir y los planes necesarios para alcanzar los mismos con especificación de los marcos temporales correspondientes.
+
+b) Los resultados a obtener, y los procedimientos, criterios e indicadores para la medición de su cumplimiento.
+
+c) El marco de actuación en materia de gestión de recursos humanos, que comprenderá: la determinación de las necesidades de personal a lo largo de la vigencia del contrato, incluyendo la previsión máxima de plantilla de personal; la naturaleza y las características de los puestos de trabajo de la Agencia y el régimen retributivo del personal.
+
+d) La determinación de los recursos personales, materiales y presupuestarios que la Administración General del Estado debe aportar para la consecución de los objetivos, estableciendo su escenario plurianual.
+
+e) La definición de los criterios para la exigencia de responsabilidad por la gestión a la persona titular de la Dirección y al personal directivo y los mecanismos a través de los cuales se exigirá.
+
+f) Los efectos asociados al grado de cumplimiento de los objetivos establecidos en cuanto a los siguientes aspectos: montante de masa salarial destinada al complemento de productividad o concepto equivalente del personal laboral y responsabilidad por la gestión de la persona titular de la Dirección y del personal directivo.
+
+No obstante lo anterior, corresponde al Ministerio de Hacienda la autorización anual de los importes de productividad o concepto equivalente del personal laboral, calculados sobre la base del procedimiento que se determine y apruebe en el contrato de gestión.
+
+Corresponde al Ministerio de Hacienda y Administraciones Públicas, no obstante lo anterior, la autorización anual de los importes de productividad o concepto equivalente del personal laboral, calculados sobre la base del procedimiento que se determine y apruebe en el Contrato de gestión.
+
+g) El procedimiento a seguir para la cobertura de los déficit anuales que, en su caso, se pudieran producir por insuficiencia de los ingresos reales respecto de los estimados y las consecuencias de responsabilidad en la gestión que, en su caso, deban seguirse de tales déficit.
+
+h) El procedimiento para la introducción de las modificaciones o adaptaciones anuales que, en su caso, procedan.
+
+> Se modifican las letras e) y f) por el art. único.17 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 22. Modificaciones y adaptaciones anuales.
+
+Si las modificaciones o adaptaciones anuales afectan a los resultados a obtener, o son consecuencia de planes generales de acción adicionales al Contrato de gestión vigente, se acordará su modificación de acuerdo con lo previsto en el artículo 20.4.
+
+### Sección 2.ª El plan de acción anual, el informe de actividad y las cuentas anuales
+
+#### Artículo 23. El plan de acción anual, el informe de actividad y las cuentas anuales.
+
+1\. La persona titular de la Dirección de la Agencia elevará al Consejo Rector el plan anual de acción, que tomará razón y propondrá su aprobación al Ministerio de adscripción. Asimismo elaborará y elevará para su aprobación al Consejo Rector el informe general de actividad y las cuentas anuales.
+
+2\. En el plan de acción anual, que deberá ser aprobado en el último trimestre del año natural, se recogerán, entre otras, las siguientes actividades:
+
+a) Las de carácter formativo, metodológico y de determinación de indicadores de gestión de las actividades que corresponden a la Agencia.
+
+b) Las de gestión, seguimiento y control de las actuaciones que, en materia de investigación científica, técnica y de innovación, corresponden a la Agencia conforme a su objeto y funciones.
+
+c) Las de organización y gestión de la evaluación científico-técnica de las propuestas que requieran financiación con cargo a los programas e instrumentos asignados a la Agencia o resultantes de convenios y acuerdos de colaboración.
+
+3\. La información referida al plan anual de acción, al informe general de actividad y a las cuentas anuales estará disponible en la página web de la Agencia.
+
+> Se modifican los apartados 1 y 2 por el art. único.18 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+## CAPÍTULO VI — Contratación y régimen patrimonial
+
+#### Artículo 24. Contratación.
+
+El régimen de contratación de la Agencia será el establecido en la legislación aplicable a los contratos celebrados por el sector público.
+
+> Se modifica por el art. único.19 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 25. Régimen patrimonial.
+
+1\. La Agencia contará, para el cumplimiento de sus fines, con un patrimonio propio, distinto del de la Administración General del Estado, integrado por el conjunto de bienes y derechos de los que sea titular.
+
+2\. La gestión y administración de sus bienes y derechos propios, así como los de aquellos del Patrimonio del Estado que se le adscriban para el cumplimiento de sus fines, se ajustarán a lo establecido para los organismos públicos en la Ley 33/2003, de 3 de noviembre, de Patrimonio de las Administraciones Públicas, y su normativa de desarrollo.
+
+#### Artículo 26. Bienes propios y adscritos.
+
+1\. La Agencia podrá adquirir toda clase de bienes y derechos por cualquiera de los modos admitidos en el ordenamiento jurídico.
+
+2\. La adquisición de bienes inmuebles o de derechos sobre los mismos requerirá el previo informe favorable del Ministerio de Hacienda y Administraciones Públicas.
+
+3\. La gestión y administración de sus bienes y derechos propios, así como los de aquellos del Patrimonio del Estado que se le adscriban para el cumplimiento de sus fines, se ajustarán a lo establecido para los organismos públicos en la Ley 33/2003, de 3 de noviembre.
+
+#### Artículo 27. Inventario.
+
+La Agencia formará y mantendrá actualizado su inventario de bienes y derechos, tanto propios como adscritos, con excepción de los de carácter fungible, en la forma establecida en la Ley 33/2003, de 3 de noviembre. El inventario se revisará anualmente con referencia a 31 de diciembre y se someterá a la aprobación del Consejo Rector.
+
+## CAPÍTULO VII — Régimen de personal
+
+#### Artículo 28. Régimen de personal.
+
+1\. El personal de la Agencia quedará vinculado a esta por una relación sujeta a las normas de derecho administrativo o laboral que le sean de aplicación, y, en todo caso, a las previsiones del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.
+
+2\. El personal funcionario se regirá por las normas reguladoras del régimen jurídico de los funcionarios públicos de la Administración General del Estado, con las especialidades previstas en la Ley 40/2015, de 1 de octubre y en este estatuto.
+
+3\. El personal laboral se regirá por el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre, y demás legislación laboral, por la norma convencional que le sea de aplicación, y también por los preceptos que así lo dispongan tanto de la Ley 40/2015, de 1 de octubre, como del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre.
+
+4\. El personal estatutario se regirá por el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre y demás normas generales reguladoras del régimen jurídico de los empleados públicos de la Administración General del Estado, con las especialidades previstas en la Ley 40/2015, de 1 de octubre, y en este estatuto.
+
+5\. Los puestos de trabajo de la Agencia serán provistos, con carácter general, por personal funcionario de la Administración General del Estado, y sólo podrán ser desempeñados por personal laboral aquellos puestos que expresamente así se establezcan en la relación de puestos de trabajo, sin perjuicio de lo establecido en este Estatuto para el personal directivo. En todo caso, la relación de puestos de trabajo tendrá en cuenta lo establecido en el artículo 9.2 del texto refundido de la Ley del Estatuto Básico del Empleado Público
+
+6\. La Agencia podrá también adscribir temporalmente, a tiempo completo o parcial, personalcolaborador científico técnico según lo previsto en el artículo 19 de la Ley 14/2011, de 1 de junio.
+
+7\. La movilidad de los funcionarios que desempeñen puestos de trabajo de la Agencia para la cobertura de puestos de trabajo en la Administración General del Estado o en otras administraciones y organismos públicos estará sometida únicamente a las restricciones y condiciones que se establecen con carácter general en la normativa reguladora de los procedimientos de provisión de puestos de trabajo en la Administración General del Estado, así como a los requisitos exigidos para el desempeño de cada puesto.
+
+8\. El personal de la Agencia desempeñará su cargo con dedicación absoluta, plena independencia y total objetividad, sometiéndose, en el desarrollo de sus cometidos, a evaluación con arreglo a los criterios de eficacia, eficiencia, cumplimiento de la legalidad, responsabilidad por su gestión y control de resultados en relación con los objetivos que se fijen en el Contrato de gestión.
+
+> Se modifican los apartados 2 a 4 por el art. único.20 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 29. Ordenación de los puestos de trabajo.
+
+1\. La relación de puestos de trabajo de la Agencia determinará los elementos básicos de los mismos en el ámbito de lo dispuesto en el texto refundido de la Ley del Estatuto Básico del Empleado Público.
+
+2\. Dicha relación de puestos de trabajo será elaborada por la persona titular de la Dirección de la Agencia y aprobada por el Consejo Rector, dentro del marco de actuación que, en materia de recursos humanos, se establezca en el contrato de gestión, y su contenido se ajustará a los principios establecidos por el texto refundido de la Ley del Estatuto Básico del Empleado Público, con determinación de la forma de provisión de los puestos de trabajo.
+
+> Se modifica el apartado 2 por el art. único.21 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 30. Personal directivo profesional.
+
+1\. En atención a la especial responsabilidad, competencia técnica y relevancia de las tareas asignadas, los puestos directivos de la Agencia son: los responsables de las direcciones, la Secretaría General y las subdirecciones.
+
+2\. El nombramiento y cese del personal directivo, que tendrá la condición de funcionario de carrera, se efectuará conforme a los requisitos y al procedimiento regulados en el título IV del libro segundo del Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo.
+
+El nombramiento y cese se efectuará, tramitado el correspondiente procedimiento, por el Consejo Rector a propuesta del de la persona titular de la Dirección de la Agencia.
+
+3\. La evaluación del personal directivo se realizará con arreglo a criterios de eficacia, responsabilidad por su gestión y control de resultados en relación con los objetivos que se fijen en el Contrato de gestión, quedando vinculadas a dicha evaluación las retribuciones por productividad de dicho personal. Corresponde al Consejo Rector fijar los criterios de reparto de estas retribuciones.
+
+4\. De acuerdo con el artículo 13.4 del texto refundido de la Ley del Estatuto Básico del Empleado Público, la determinación de las condiciones de empleo del personal directivo no tendrá la consideración de materia objeto de negociación colectiva.
+
+> Se modifican los apartados 1 y 2 por el art. único.22 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 31. Régimen retributivo.
+
+1\. Los conceptos retributivos del personal funcionario son los establecidos en la normativa de la función pública de la Administración General del Estado y sus cuantías se determinarán en el marco del correspondiente Contrato de gestión, de conformidad con lo establecido en dicha normativa y en las leyes anuales de Presupuestos Generales del Estado.
+
+2\. Las condiciones retributivas del personal laboral serán las determinadas en el convenio colectivo de aplicación y en el respectivo contrato de trabajo y sus cuantías se determinarán en el marco del Contrato de gestión, de conformidad con lo establecido en la normativa aplicable al personal laboral de la Administración General del Estado y en las leyes anuales de Presupuestos Generales del Estado.
+
+3\. La cuantía de la masa salarial destinada al complemento de productividad, o concepto equivalente de personal laboral, estará en todo caso vinculada al grado de cumplimiento de los objetivos fijados en el Contrato de gestión. En todo caso, la percepción de los importes correspondientes deberá ser previamente autorizada por el Ministerio de Hacienda y Administraciones Públicas.
+
+4\. En el marco de la gestión de recursos humanos, se establecerá un sistema de evaluación del desempeño que sirva de instrumento objetivo para la asignación del complemento de productividad a que se refiere el punto anterior.
+
+El sistema de evaluación deberá permitir valorar los rendimientos colectivos de las unidades, así como una valoración individual de cada trabajador.
+
+## CAPÍTULO VIII — Régimen presupuestario, económico-financiero, contable y de control
+
+#### Artículo 32. Financiación.
+
+1\. La Agencia se financiará con los siguientes recursos:
+
+a) las transferencias consignadas en los Presupuestos Generales del Estado;
+
+b) los ingresos propios que perciba como contraprestación por las actividades que pueda realizar, en virtud de contratos, convenios o disposiciones legales, para otras entidades, públicas o privadas o personas físicas;
+
+c) la enajenación de los bienes y valores que constituyan su patrimonio.
+
+d) el rendimiento procedente de sus bienes y valores;
+
+e) las aportaciones voluntarias, donaciones, herencias, legados y otras aportaciones a título gratuito de entidades privadas y de particulares;
+
+f) los ingresos recibidos de personas físicas o jurídicas como consecuencia del patrocinio de actividades e instalaciones;
+
+g) los demás ingresos de derecho público o privado que esté autorizada a percibir;
+
+h) cualquier otro recurso que pudiera serle atribuido.
+
+2\. Los recursos que se deriven de los subapartados b), e), f) y g) del apartado anterior y que no se contemplen inicialmente en el presupuesto de la Agencia se podrán destinar a financiar incrementos de gasto por acuerdo del de la persona titular de la Dirección.
+
+3\. Son ingresos de derecho privado los demás que perciba la Agencia por la prestación de servicios o la realización de actividades que le son propias siempre que no tengan la naturaleza de tasas o precios públicos con arreglo a la legislación general.
+
+> Se modifica el apartado 2 por el art. único.23 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 33. Endeudamiento.
+
+La Agencia podrá contratar pólizas de crédito o préstamo, siempre que el saldo vivo no supere el cinco por ciento de su presupuesto, cuando sea necesario para atender desfases temporales de tesorería, entendiendo como tales las situaciones de falta de liquidez que se puedan producir ocasionalmente y de forma excepcional.
+
+#### Artículo 34. Régimen presupuestario.
+
+1\. En el marco fijado por el artículo 36 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, a propuesta de la persona titular de la Dirección de la Agencia, el Consejo Rector aprobará el anteproyecto de presupuesto, conforme a lo dispuesto en el contrato de gestión o conforme a la propuesta inicial del mismo y con la estructura que establezca el Ministerio de Hacienda. La propuesta será remitida al Ministerio de adscripción para su examen, que dará posterior traslado de este al Ministerio de Hacienda. Una vez analizado por este último departamento ministerial, el anteproyecto se incorpora al de Presupuestos Generales del Estado para su aprobación por el Consejo de Ministros y remisión a las Cortes Generales, consolidándose con el de las restantes entidades que integran el sector público estatal.
+
+El presupuesto de gastos de la Agencia tiene carácter limitativo por su importe global, carácter estimativo para la distribución de los créditos en categorías económicas, dentro de cada programa, con excepción de:
+
+a) Los créditos correspondientes a gastos de personal y a gastos para operaciones financieras, que en todo caso tienen carácter limitativo y vinculante por su cuantía total.
+
+b) Los créditos que establezcan asignaciones identificando perceptor o beneficiario, salvo las destinadas a atender transferencias corrientes o de capital al exterior, y las atenciones protocolarias y representativas; que tendrán carácter limitativo y vinculante, cualquiera que sea el nivel de la clasificación económica al que se establezcan.
+
+c) Cualquier otro crédito vinculante que se establezca en las Leyes de Presupuestos Generales del Estado.
+
+El presupuesto de la Agencia deberá ser equilibrado.
+
+2\. La autorización de las variaciones presupuestarias corresponde:
+
+a) Al titular del Ministerio de Hacienda, las variaciones de la cuantía global del presupuesto y las que afecten a gastos de personal, a iniciativa de la persona titular de la Dirección y a propuesta del Consejo Rector, salvo las previstas en la letra siguiente.
+
+Asimismo, corresponde al titular del Ministerio de Hacienda acordar o denegar las modificaciones presupuestarias, en los supuestos de competencia de la persona titular de la Dirección de la Agencia, cuando exista informe negativo de la Intervención Delegada y se remita en discrepancia al Ministerio de Hacienda.
+
+b) A la persona titular de la Dirección de la Agencia, todas las restantes variaciones, incluso en la cuantía global cuando sean financiadas con recursos derivados de los apartados b), e), f), y g) del artículo 32.1, por encima de los inicialmente presupuestados, no afecten a gastos de personal y existan garantías suficientes de su efectividad, dando cuenta inmediata a la Comisión de Control.
+
+3\. Dentro de los límites fijados en la normativa presupuestaria, los remanentes de tesorería que resulten de la liquidación del ejercicio presupuestario no afectados a la financiación del presupuesto del ejercicio siguiente, podrán aplicarse al presupuesto de ingresos y destinarse a financiar incremento de gastos por acuerdo del director, dando cuenta a la Comisión de Control. Los déficits derivados del incumplimiento de la estimación de ingresos anuales se compensarán en la forma que se prevea en el contrato de gestión.
+
+4\. La ejecución y variación del presupuesto de la Agencia se regirán por las disposiciones de la Ley 47/2003, de 26 de noviembre, que le sean de aplicación y lo previsto en la Ley 40/2015, de 1 de octubre. La ejecución del presupuesto de la Agencia corresponde a la persona titular de la Dirección, que remitirá a la Comisión de Control, mensualmente, un estado de ejecución presupuestaria.
+
+5\. La Agencia podrá adquirir compromisos de gasto que hayan de extenderse a ejercicios posteriores a aquel en que se autoricen, con los límites y previsiones establecidos en el artículo 108 sexies.5 de la Ley 40/2015, de 1 de octubre.
+
+6\. Se dará cuenta de las variaciones presupuestarias adoptadas por la persona titular de la Dirección, en función de las competencias atribuidas en el apartado 2, a la Dirección General de Presupuestos, del Ministerio de Hacienda, para su toma de razón.
+
+> Se modifica por el art. único.24 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 35. Contabilidad.
+
+1\. La Agencia deberá aplicar los principios contables públicos previstos en el artículo 122 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, así como el desarrollo de los principios y las normas establecidos en el Plan General de Contabilidad Pública, para lo cual contará con un sistema de información económico-financiero y presupuestario que tenga por objeto mostrar, a través de estados e informes, la imagen fiel del patrimonio, de la situación financiera, de los resultados y de la ejecución del presupuesto, que proporcione información de los costes sobre su actividad que sea suficiente para una correcta y eficiente adopción de decisiones.
+
+2\. La Agencia contará con un sistema de contabilidad de gestión que permita efectuar el seguimiento del cumplimiento de los compromisos asumidos en el Contrato de gestión.
+
+3\. La Intervención General de la Administración del Estado establecerá los requerimientos funcionales y, en su caso, los procedimientos informáticos que deberán observarse para cumplir lo dispuesto en los dos apartados anteriores. En concreto, la Agencia aplicará, para la gestión contable, el sistema de información contable (SIC’3) de la Administración General del Estado y sus organismos públicos, y suscribirá el correspondiente convenio la Intervención General de la Administración del Estado para la utilización del sistema de apoyo a la gestión de las entidades públicas administrativas (SOROLLA2) y del sistema de contabilidad analítica normalizada para organizaciones administrativas (CANOA). Asimismo se analizará conjuntamente la utilización por la Agencia, para el control de los préstamos y ayudas, del sistema de control de préstamos y avales (PRESYA2) de la Intervención General, con la adecuación que sea preciso realizar a tal efecto, mediante la suscripción del correspondiente convenio.
+
+#### Artículo 36. Cuentas anuales.
+
+1\. El director formulará las cuentas anuales en un plazo de tres meses desde el cierre del ejercicio económico. Una vez auditadas por la Intervención General de la Administración del Estado, serán sometidas al Consejo Rector para su aprobación dentro del primer semestre del año siguiente al que se refieran.
+
+2\. El presidente rendirá las cuentas anuales al Tribunal de Cuentas, por conducto de la Intervención General de la Administración del Estado, en el plazo de siete meses siguientes a la terminación del ejercicio económico y una vez aprobadas aquéllas por el Consejo Rector.
+
+#### Artículo 37. Control de la gestión económico-financiera.
+
+1\. El control externo de la gestión económico-financiera de la Agencia corresponderá al Tribunal de Cuentas, de acuerdo con su normativa específica.
+
+2\. El control interno de la gestión económico-financiera corresponderá a la Intervención General de la Administración del Estado, realizándose bajo las modalidades de control financiero permanente y de auditoría pública, en las condiciones y en los términos establecidos en la Ley 47/2003, de 26 de noviembre. El control financiero permanente lo realizará la Intervención Delegada en la Agencia, que tendrá rango de Subdirección General, y que queda adscrita a la persona titular de la Dirección, sin perjuicio de su dependencia funcional y orgánica de la Intervención General de la Administración del Estado, en cuya relación de puestos de trabajo se crearán los correspondientes puestos.
+
+3\. Anualmente, la Intervención General de la Administración del Estado, a través de la Oficina Nacional de Auditoría, realizará una auditoria pública operativa y de cumplimiento sobre las ayudas y préstamos concedidos por la Agencia.»
+
+> Se modifica el apartado 2 por el art. único.25 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 38. Control de eficacia y supervisión continua.
+
+1\. La Agencia estará sometida al control de eficacia y supervisión continua, que tiene por finalidad comprobar el grado de cumplimiento de los objetivos encomendados, el seguimiento del contrato de gestión, del plan anual de actuación y la adecuada gestión de los recursos públicos asignados.
+
+2\. El control de eficacia será ejercido por el Ministerio de adscripción, a través de la inspección de los servicios ministeriales, y tendrá por objeto evaluar el cumplimiento de los objetivos propios de la actividad específica de la Agencia y la adecuada utilización de los recursos, de acuerdo con lo establecido en el contrato de gestión y en el plan anual de actuación, sin perjuicio del control al que se refiere el artículo 37.
+
+3\. La Agencia estará sometida, igualmente, a la supervisión del Ministerio de Hacienda, a través de la Intervención General de la Administración del Estado, que verificará la subsistencia de las circunstancias que justificaron su creación, la concurrencia de la causa de disolución por incumplimiento de los fines que justificaron su creación o que su subsistencia no resulte el medio más idóneo para lograrlos o su sostenibilidad financiera.
+
+> Se modifica por el art. único.26 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+## CAPÍTULO IX — Disposiciones y actos administrativos y asistencia jurídica
+
+#### Artículo 39. Actuación administrativa.
+
+1\. La Agencia dictará las normas internas necesarias para el cumplimiento de su objeto y para su funcionamiento, que podrán adoptar la forma de:
+
+a) Resoluciones del Consejo Rector, que deberán ser suscritas por la Presidencia.
+
+b) Resoluciones, Instrucciones y Circulares de la persona titular de la Dirección.
+
+2\. Para el ejercicio de las potestades administrativas de la Agencia sus órganos podrán dictar actos y resoluciones administrativos.
+
+3\. Los actos y resoluciones dictados por la Presidencia, el Consejo Rector y la Dirección de la Agencia ponen fin a la vía administrativa, siendo susceptibles de impugnación en vía contencioso-administrativa, sin perjuicio del recurso potestativo de reposición.
+
+> Se modifican los apartados 1 y 3 por el art. único.27 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)
+
+#### Artículo 40. Asistencia jurídica, representación y defensa en juicio.
+
+La asistencia jurídica de la Agencia, consistente en el asesoramiento jurídico y en la representación y defensa en juicio, corresponde a la Abogacía General del Estado, mediante la formalización del oportuno convenio en los términos previstos en la Ley 52/1997, de 27 de noviembre, de Asistencia Jurídica al Estado e Instituciones Públicas, y su normativa de desarrollo.
+
+> Se modifica por el art. único.28 del Real Decreto 1122/2025, de 10 de diciembre. [Ref. BOE-A-2025-25269](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25269)

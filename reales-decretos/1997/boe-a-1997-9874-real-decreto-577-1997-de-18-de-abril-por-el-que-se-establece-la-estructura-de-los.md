@@ -1,0 +1,463 @@
+---
+title: "Real Decreto 577/1997, de 18 de abril, por el que se establece la estructura de los órganos de gobierno, administración y representación de la Mutualidad General de Funcionarios Civiles del Estado (MUFACE)"
+identifier: "BOE-A-1997-9874"
+eli: "https://www.boe.es/eli/es/rd/1997/04/18/577"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Administraciones Públicas"
+date: 1997-04-18
+published: 1997-05-07
+in_force_from: 1997-05-08
+last_amended: 2026-06-12
+consolidated: 2026-06-17
+gazette: "Boletín Oficial del Estado núm. 109"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-9874"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 577/1997, de 18 de abril, por el que se establece la estructura de los órganos de gobierno, administración y representación de la Mutualidad General de Funcionarios Civiles del Estado (MUFACE)
+
+Esta norma pasa a denominarse **«Real Decreto 577/1997, de 18 de abril, por el que se aprueba el Estatuto de la Mutualidad General de Funcionarias y Funcionarios Civiles del Estado, O.A.»**, según establece el art. 3.1 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+El Real Decreto 758/1996, de 5 de mayo, de reestructuración de Departamentos ministeriales, en su disposición final segunda establece que los Organismos autónomos y demás entes públicos quedarán adscritos de acuerdo con la distribución de competencias establecidas en dicho Real Decreto y en los términos que se determinen en los Reales Decretos por los que se apruebe la estructura orgánica de cada uno de los Departamentos ministeriales.
+
+En cumplimiento de tal previsión el Real Decreto 1892/1996, de 2 de agosto, de estructura orgánica básica del Ministerio de Administraciones Públicas, determinó en su artículo 2.5 que: «está adscrita al Ministerio de Administraciones Públicas, a través de la Secretaría de Estado para la Administración Pública, la Mutualidad General de Funcionarios Civiles del Estado, con la naturaleza jurídica, estructura y funciones establecidas en su normativa específica.»
+
+Para acomodar la normativa a la situación actual, resulta conveniente redefinir, mediante el presente Real Decreto, el marco jurídico de organización y funcionamiento de la Mutualidad de acuerdo con los criterios de eficacia, racionalización de estructuras y reducción del déficit público presentes en los Reales Decretos citados, pero también con el propósito de mejorar la eficiencia y calidad de la prestación del sistema del Mutualismo administrativo cuya gestión le está encomendada.
+
+Asimismo, se recoge lo establecido en la sentencia de la Sala de lo Contencioso-Administrativo de la Audiencia Nacional de 18 de mayo de 1991, y confirmado por sentencia de la Sala Tercera del Tribunal Supremo de 23 de enero de 1995 sobre la participación de las organizaciones sindicales en el Consejo General de MUFACE.
+
+En su virtud, a propuesta del Ministro de Administraciones Públicas, previo informe favorable de la Comisión Superior de Personal, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de abril de 1997,
+
+DISPONGO:
+
+## Artículo único. Aprobación del Estatuto.
+
+Se aprueba el Estatuto del organismo autónomo Mutualidad General de Funcionarias y Funcionarios Civiles del Estado.
+
+> Se añade por el art. 3.2 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 1. Naturaleza jurídica, adscripción orgánica y régimen jurídico.
+
+1\. La Mutualidad General de Funcionarias y Funcionarios Civiles del Estado es un organismo autónomo de los previstos en el artículo 98.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, adscrito a través de la Secretaría de Estado de Función Pública al Ministerio del que ésta dependa, con personalidad jurídica diferenciada y plena capacidad de obrar, tesorería y patrimonio propios y autonomía en su gestión.
+
+2\. Su denominación es Mutualidad General de Funcionarias y Funcionarios Civiles del Estado, O.A. (MUFACE).
+
+3\. Corresponde a la persona titular de la Secretaría de Estado de Función Pública la dirección estratégica y la evaluación de los resultados de su actividad. El organismo estará sometido a la supervisión continua del Ministerio de Hacienda, a través de la Intervención General de la Administración del Estado, y al control de eficacia de su actividad, a través de la Inspección de servicios del Departamento de adscripción, en los términos previstos en los artículos 85 y 98.2 de la Ley 40/2015, de 1 de octubre.
+
+4\. El organismo autónomo MUFACE se regirá por el texto refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado, aprobado por el Real Decreto Legislativo 4/2000, de 23 de junio, por el que se aprueba; la Ley 40/2015, de 1 de octubre; la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas; la Ley 47/2003, de 26 de noviembre, General Presupuestaria; la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014; por lo dispuesto en este real decreto y restante normativa de aplicación.
+
+> Se modifica por el art. 3.3 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 2. Potestades administrativas.
+
+Al organismo autónomo MUFACE, dentro de la esfera de sus competencias, le corresponde el ejercicio de las potestades administrativas precisas para el cumplimiento de sus fines, de acuerdo con la legislación aplicable, salvo la expropiatoria.
+
+> Se modifica por el art. 3.3 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+> Se modifica el apartado 1.a) por la disposición final 3 del Real Decreto 769/2017, de 28 de julio. [Ref. BOE-A-2017-9012](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9012)
+
+## Artículo 3. Fines y funciones.
+
+1\. El organismo autónomo MUFACE tiene como fines generales asegurar al colectivo de mutualistas el acceso a las prestaciones sanitarias y farmacéuticas en las mismas condiciones que el resto del Sistema Nacional de Salud, así como facilitarles un amplio abanico de prestaciones sociales y económicas, con la finalidad de satisfacer sus necesidades.
+
+2\. Corresponden al organismo autónomo MUFACE con carácter general, las siguientes funciones:
+
+a) La asistencia sanitaria y farmacéutica de los mutualistas.
+
+b) Las prestaciones sanitarias y sociales a los mutualistas.
+
+> Se modifica por el art. 3.3 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 4. Órganos de MUFACE.
+
+1\. Los órganos de gobierno del organismo autónomo MUFACE son, de acuerdo con lo dispuesto en el artículo 90 de la Ley 40/2015, de 1 de octubre, los siguientes:
+
+a) La Presidencia.
+
+b) El Consejo Rector, que recibe la denominación de Consejo General.
+
+2\. El órgano ejecutivo del organismo autónomo es la Dirección.
+
+3\. Corresponde a la Presidencia del Consejo General representar a éste y ejercer las funciones que la Ley 40/2015, de 1 de octubre, atribuye a los Presidentes de los órganos colegiados.
+
+4\. Corresponde a las Vicepresidencias ejercer cuantas funciones les encomiende el Consejo General o les delegue la Presidencia, así como sustituir a ésta, por su orden, en caso de ausencia enfermedad o vacante.
+
+5\. Corresponde a las Consejeras y Consejeros ejercer las facultades y funciones que la Ley 40/2015, de 1 de octubre, atribuye a los miembros de los órganos colegiados.
+
+Las Consejeras y Consejeros perderán su condición por acuerdo de la persona titular del Ministerio al que se adscribe MUFACE, conforme al origen de su designación.
+
+> Se modifica por el art. 3.4 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 5. Composición y régimen del Consejo General.
+
+1\. El Consejo General está integrado por los siguientes miembros:
+
+a) Por parte de la Administración del Estado:
+
+1.º El titular de la Secretaría de Estado de Función Pública, que será el Presidente del Consejo.
+
+2.º El Director General de la Mutualidad General de Funcionarios Civiles del Estado, que será el Vicepresidente primero.
+
+3.º Siete representantes de la Administración Civil del Estado designados por el Ministro de Hacienda y Función Pública.
+
+b) Por parte de los funcionarios, nueve representantes designados por los sindicatos presentes en la Mesa General de Negociación de la Administración General del Estado en proporción a los resultados obtenidos entre funcionarios al servicio de la Administración del Estado en las últimas elecciones convocadas al amparo de lo dispuesto en la Ley 9/1987, de 12 de junio, de Órganos de Representación, Determinación de las Condiciones de Trabajo y Participación del Personal al servicio de las Administraciones Públicas. Los nueve representantes de los funcionarios elegirán, de entre ellos, al Vicepresidente segundo del Consejo General.
+
+Actuará como Secretario, con voz pero sin voto, el Secretario general de MUFACE.
+
+2\. La Administración pública y los sindicatos designarán un suplente por cada uno de los Consejeros.
+
+3\. El Consejo General podrá constituir en su seno Comisiones para el estudio de temas específicos y monográficos, así como Ponencias colegiadas o unipersonales sobre cuestiones concretas. De dichos trabajos se dará cuenta al Consejo General en la primera sesión que celebre.
+
+> Se numera como art. 5 el contenido del art. 2 y se modifica su apartado 1.b) por el art. 3.5 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 6. Competencias del Consejo General.
+
+1\. Corresponde al Consejo General:
+
+a) Aprobar la propuesta del Plan de actuación de la Mutualidad General de Funcionarias y Funcionarios Civiles del Estado.
+
+b) Informar el anteproyecto de presupuesto, así como el balance y las cuentas anuales.
+
+c) Establecer los criterios para la prestación de la asistencia sanitaria.
+
+d) Aprobar la memoria anual del organismo.
+
+e) Informar los proyectos de disposiciones de carácter general que establezcan o modifiquen prestaciones.
+
+f) Proponer, en su caso, cuantas medidas, planes y programas sean convenientes para el desarrollo de los mecanismos de protección del régimen especial de la Seguridad Social de los funcionarios de la Administración Civil del Estado.
+
+g) Las demás funciones que en el presente Real Decreto se le encomiendan.
+
+2\. El Plan de actuación tendrá, con carácter general, una vigencia anual, y se ajustará a la legislación vigente, a las competencias de MUFACE y al presupuesto aprobado para el ejercicio.
+
+Cuando circunstancias especiales o de necesidad lo exijan, podrán modificarse en el transcurso del año, o bien adoptarse otros nuevos. La ejecución corresponderá a la Dirección General de la Mutualidad que instrumentará las alternativas y determinará los medios y procedimientos oportunos en orden a su cumplimiento.
+
+La elaboración del anteproyecto de Presupuesto se hará dentro del marco de la Ley General Presupuestaria y de conformidad con el procedimiento que se establezca por el Ministerio de Economía y Hacienda.
+
+La memoria anual será redactada por la Dirección General y, una vez examinada por la Comisión Permanente, se presentará al Consejo General dentro del primer semestre de cada año. Éste se pronunciará sobre la totalidad de la memoria, sin perjuicio de emitir las mociones o calificaciones sobre aspectos parciales que estime convenientes. La memoria anual aprobada y, en su caso, las mociones, se elevarán al Ministro de Administraciones Públicas.
+
+> Se numera como art. 6 el contenido del art. 3 y se modifica la letra a) de su apartado 1 por el art. 3.6 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 6 [sic]. Presidencia.
+
+1\. La Presidencia del organismo autónomo MUFACE corresponde a la persona titular de la Secretaría de Estado de Función Pública.
+
+2\. Corresponde a la Presidencia:
+
+a) La alta dirección y la representación del organismo.
+
+b) Presidir el Consejo Rector, ordenando sus correspondientes convocatorias y fijando sus respectivos órdenes del día teniendo en cuenta las peticiones que formulen los miembros.
+
+c) Cualesquiera otras que le correspondan de acuerdo con la normativa vigente.
+
+3\. Los actos y resoluciones de la Presidencia agotan la vía administrativa en el ámbito de sus competencias. Contra tales actos y resoluciones cabrá interponer recurso ante el orden jurisdiccional contencioso-administrativo, sin perjuicio del recurso potestativo de reposición previsto en el artículo 123 de la ley 39/2015, de 1 de octubre.
+
+> Se añade por el art. 3.8 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 7. Régimen de sesiones del Consejo.
+
+1\. El Consejo General se reunirá una vez al trimestre, así como cuando lo convoque su Presidente, a iniciativa propia o a petición del 20 por 100 de sus miembros. En este último caso, los solicitantes propondrán las cuestiones a incluir en el orden del día.
+
+2\. El quórum para la constitución válida del Consejo General en primera convocatoria será el establecido en el artículo 26.1 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+3\. El orden del día de las sesiones ordinarias del Consejo General contendrá la propuesta de aprobación del acta de la sesión anterior y la exposición de las actuaciones y trabajos de la Comisión Permanente y de las Comisiones especiales y Ponencias, así como los temas que el Presidente incluya en el mismo.
+
+4\. Las sesiones extraordinarias del Consejo se limitarán al examen de la cuestión que haya originado su convocatoria.
+
+5\. De cada sesión se levantará acta por el Secretario y se someterá a aprobación en la siguiente sesión ordinaria, previo reparto del texto a los miembros.
+
+## Artículo 8. Comisión Permanente del Consejo General.
+
+**(Suprimido)**
+
+> Se suprime por el art. 3.9 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 9. Asesores y expertos.
+
+A las sesiones del Consejo General y de la Comisión Permanente podrán asistir en calidad de asesores los Directores de Departamento de MUFACE, así como los funcionarios y expertos que estime conveniente el Presidente.
+
+## Artículo 10. Comisiones Provinciales y de Ceuta y Melilla.
+
+1\. Las Comisiones Provinciales y de Ceuta y Melilla estarán integradas por los siguientes miembros:
+
+a) Por parte de la Administración Civil del Estado:
+
+1.º El Director del Servicio de MUFACE, que será el Presidente de la Comisión.
+
+2.º Los representantes de la Administración que designe el Director general de MUFACE en número inferior en uno al de los representantes de los funcionarios.
+
+b) Por parte de los funcionarios: un Vocal por cada una de las centrales sindicales de ámbito nacional representadas en el Consejo General y un Vocal por cada una de las centrales sindicales de ámbito autonómico representadas en el Consejo General en aquellas Comisiones provinciales y de Ceuta y Melilla que se constituyan en el respectivo territorio autonómico.
+
+Actuará como Secretario, con voz pero sin voto, el del Servicio Provincial, y en Ceuta y Melilla el Jefe de sección correspondiente.
+
+2\. Corresponde a las Comisiones Provinciales y de Ceuta y Melilla:
+
+a) Velar por la aplicación de los acuerdos del Consejo General y de la Comisión Permanente, así como proponer, en su caso, cuantas medidas, planes y programas sean necesarios para el perfeccionamiento de los mismos en su ámbito territorial.
+
+b) Definir los criterios para la concesión de ayudas por asistencia social, con sujeción a las normas reguladoras y a los créditos asignados.
+
+c) Informar los asuntos que le someta su Presidente.
+
+3\. Las Comisiones de este artículo se reunirán al menos bimestralmente.
+
+## Artículo 11. Dirección General de MUFACE.
+
+1\. La Dirección General de MUFACE se estructura en los siguientes órganos con rango de Subdirección General:
+
+a) Secretaría General.
+
+b) Departamento de Gestión Económica y Financiera.
+
+c) Departamento de Prestaciones Sanitarias.
+
+d) Departamento de Prestaciones Sociales.
+
+De la Dirección General dependerá también la División de Tecnología de la Información y Comunicaciones, a la que corresponde la planificación, dirección y coordinación de los sistemas de información; la elaboración, preparación y propuesta de necesidades de los recursos tecnológicos, así como la prestación de servicios en materia de tecnologías de la información y la dirección y coordinación del portal web, sede electrónica e intranet.
+
+En cada una de las provincias existirá un Servicio Provincial e igualmente existirán Servicios en las Ciudades de Ceuta y Melilla.
+
+Asimismo, por la Dirección General se podrán establecer Oficinas Delegadas de los Servicios Provinciales cuando existan circunstancias que lo hagan aconsejable.
+
+De la Dirección General dependerá igualmente la División de Coordinación Territorial, Atención a Mutualistas, Calidad y Explotación del Dato a la que corresponde las siguientes funciones:
+
+1.º La planificación, dirección y coordinación de las diversas direcciones provinciales de MUFACE en el territorio.
+
+2.º La gestión del colectivo de la Mutualidad, así como garantizar la correcta comunicación a mutualistas a través de la Oficina de Información a Mutualistas.
+
+3.º El desarrollo y la implantación de modelos de gestión de calidad en el ámbito de competencias de la Mutualidad.
+
+4.º El desarrollo de las funciones estadísticas derivadas de las competencias de la Dirección General, siguiendo las directrices, planes y programas aprobados en el marco normativo vigente.
+
+2\. El Director general de MUFACE, que será nombrado y separado libremente de su cargo por Real Decreto, a propuesta del Ministro de Administraciones Públicas, asume la representación legal del organismo, así como las competencias de dirección, gestión e inspección de las actividades del mismo para el cumplimiento de sus fines y, en concreto, las siguientes:
+
+a) Dirigir los servicios administrativos y técnicos de la Mutualidad General.
+
+b) Promover las normas que en el ámbito del Mutualismo administrativo correspondan a la Mutualidad, así como aprobar las instrucciones necesarias para su desarrollo y ejecución.
+
+c) Disponer los gastos y ordenar los pagos de la Mutualidad sobre prestaciones y funcionamiento, así como gestionar sus recursos financieros.
+
+d) Elaborar la memoria anual de actividades y el balance de cuentas y resultados.
+
+e) Elaborar el anteproyecto anual de los presupuestos de la Mutualidad, ejercer las competencias del organismo en cuanto entidad contable y dirigir la gestión económico-financiera de la Mutualidad.
+
+f) Resolver en materias de afiliación, altas y bajas de mutualistas y beneficiarios de MUFACE.
+
+g) Determinar la forma en que se dispensará la asistencia sanitaria conforme a lo dispuesto en el artículo 75, apartado 3, del Reglamento General del Mutualismo Administrativo, aprobado por Decreto 843/1976, de 18 de marzo.
+
+h) Planificar, regular y evaluar las prestaciones a mutualistas y beneficiarios.
+
+i) Reconocer las prestaciones a mutualistas y beneficiarios.
+
+j) Representar a la Mutualidad en todos los actos y contratos que se celebren, así como ante las autoridades, Juzgados, Tribunales, organismos y entidades y personas naturales y jurídicas.
+
+k) Celebrar contratos, así como convenios de colaboración, incluidos los conciertos para la prestación de la asistencia sanitaria, con entidades públicas y privadas cuya actividad sea precisa para el mejor cumplimiento de sus fines, de acuerdo con la legislación aplicable.
+
+l) Gestionar y administrar los bienes y derechos patrimoniales de la Mutualidad.
+
+m) Enajenar, previo informe del Consejo General y con la autorización del Consejo de Ministros, aquellos elementos del patrimonio de la Mutualidad que dejen de ser útiles para el cumplimiento de sus fines.
+
+n) Llevar las relaciones con otros organismos.
+
+ñ) Ejercer aquellas competencias de dirección o gestión que le atribuyan las normas vigentes.
+
+> Se modifica el apartado 1 por el art. 3.10 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 12. Secretaría General de MUFACE.
+
+A la Secretaría General de MUFACE le corresponden las siguientes funciones:
+
+a) La asistencia técnica de los órganos colegiados de la Mutualidad.
+
+b) La conservación, intendencia y funcionamiento de los edificios administrativos, los servicios técnicos y de mantenimiento, los suministros y adquisiciones, el régimen interior y los asuntos generales, así como el inventario de los bienes.
+
+c) La gestión de los recursos humanos, la ejecución de los planes de mejora del rendimiento, la acción social y la formación del personal de la Mutualidad.
+
+d) La realización de estudios, informes y documentación técnica necesarios para la gestión atribuida a la Mutualidad, así como la preparación y tramitación de normas, instrucciones y órdenes de servicio, el régimen del colectivo y la información administrativa en relación con el campo de aplicación del Mutualismo administrativo.
+
+e) La elaboración y tramitación de informes sobre los recursos y reclamaciones sobre régimen de MUFACE, así como del personal adscrito a la Mutualidad.
+
+f) La gestión de los bienes inmuebles de las antiguas Mutualidades integradas en MUFACE.
+
+g) **(Suprimida)**
+
+h) Las relaciones con otros organismos y cuantas otras no estén específicamente atribuidas a otros Departamentos.
+
+> Se suprime la letra g) por el art. 3.11 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 13. Departamento de Gestión Económica y Financiera.
+
+Al Departamento de Gestión Económica y Financiera le corresponden las siguientes funciones:
+
+a) La elaboración del presupuesto del organismo, el seguimiento y análisis de la evolución de sus estados de ingresos y gastos y la tramitación de las modificaciones presupuestarias.
+
+b) La gestión y control de los diferentes recursos económicos y de los gastos y pagos, tanto los de acción social como de funcionamiento interno, así como el ejercicio de la actividad contractual administrativa.
+
+c) El desarrollo de la organización de la contabilidad de conformidad con las normas contables, mediante el establecimiento de los adecuados métodos y procedimientos.
+
+## Artículo 14. Departamento de Prestaciones Sanitarias.
+
+Al Departamento de Prestaciones Sanitarias le corresponden las siguientes funciones:
+
+a) La planificación, evaluación, regulación, seguimiento y control de la prestación de asistencia sanitaria recogida en el artículo 14.1.1.º) de la Ley 29/1975, de 27 de junio.
+
+b) La gestión, administración y propuesta de resolución de la prestación de asistencia sanitaria, en los casos en los que estas competencias no hayan sido delegadas por la Dirección General en los servicios periféricos.
+
+c) La presidencia de las Comisiones Mixtas Nacionales previstas en los conciertos suscritos por MUFACE para la prestación de la asistencia sanitaria.
+
+## Artículo 15. Departamento de Prestaciones Sociales.
+
+Al Departamento de Prestaciones Sociales le corresponden la siguientes funciones:
+
+a) La planificación, evaluación y regulación, seguimiento y control de las prestaciones sociales recogidas en el artículo 14.1 de la Ley 29/1975, de 27 de junio, y demás normativa de aplicación, con exclusión de las atribuidas al Departamento de Prestaciones Sanitarias, así como de las prestaciones correspondientes a las Mutualidades integradas en el Fondo Especial.
+
+b) La gestión, administración y propuesta de resolución de las prestaciones indicadas en el párrafo a) de este artículo, en los casos en los que estas competencias no hayan sido delegadas por la Dirección General en los servicios periféricos.
+
+## Artículo 16. Suplencias.
+
+La suplencia del Director general de MUFACE en los casos de vacante, ausencia y enfermedad, corresponde al Secretario general y a los titulares de los Departamentos de MUFACE por el mismo orden en que aparecen en la estructura del presente Real Decreto.
+
+## Artículo 17. Servicios Provinciales y Servicios de Ceuta y Melilla.
+
+Al frente de cada Servicio Provincial y en los Servicios de Ceuta y Melilla existirá un Director nombrado por el Ministro de Administraciones Públicas a propuesta del Director general de MUFACE, de conformidad con las previsiones que establezcan las correspondientes relaciones de puestos de trabajo.
+
+El Director del Servicio asume la dirección, coordinación, programación, ejecución y control de la actividad administrativa y técnica de la Mutualidad, y en concreto tiene las siguientes competencias y atribuciones, en su ámbito territorial:
+
+a) Representa a la Mutualidad General de Funcionarios Civiles del Estado.
+
+b) Ejerce la jefatura de los servicios administrativos de la Mutualidad y responde de su eficacia.
+
+c) Cumple y hace cumplir los acuerdos y resoluciones de la Dirección General de MUFACE.
+
+d) Dicta resoluciones en las materias que le sean atribuidas expresamente o por delegación.
+
+e) Preside las Comisiones Mixtas Provinciales previstas en los conciertos suscritos por MUFACE para la prestación de la asistencia sanitaria.
+
+f) Desempeña la jefatura superior del personal del Servicio.
+
+g) Eleva a la Dirección General de MUFACE cuantos informes, estudios, propuestas y programas de actuación sirven para el mejor cumplimiento de los fines que a MUFACE le están encomendados.
+
+h) Elabora anualmente la memoria y rinde cuenta de los fondos asignados a su Servicio.
+
+i) Ejerce cualquier otra competencia o atribución que le venga asignada por disposición legal, reglamentaria o por resolución de la Dirección General de MUFACE.
+
+## Artículo 18. Secretarios de los Servicios Provinciales.
+
+En todos los Servicios Provinciales existirá un Secretario, nombrado entre funcionarios de carrera de las Administraciones públicas de conformidad con las previsiones que a estos efectos establezcan las correspondientes relaciones de puestos de trabajo, al que le corresponde, como segundo jefe del Servicio Provincial y bajo la dirección del Director provincial, asegurar el funcionamiento y coordinación de los servicios internos del mismo, así como cuanto le encomiende el Director provincial en materia de su competencia, y asimismo ejercerá las siguientes funciones:
+
+a) La administración y régimen interior del Servicio Provincial.
+
+b) La jefatura inmediata del personal del Servicio Provincial.
+
+c) La información administrativa y sobre las disposiciones relativas a la Seguridad Social de los Funcionarios Civiles del Estado.
+
+d) Da fe de cuantos documentos se tramiten u obren en el Servicio Provincial, en los casos en que proceda.
+
+e) Custodia de los libros, documentos y archivos del Servicio Provincial.
+
+f) Ejerce la Secretaría de la Comisión Provincial respectiva.
+
+## Artículo 19. Los Jefes de Oficinas Delegadas.
+
+Los Jefes de Oficinas Delegadas ejercen las competencias que les atribuya la Dirección General de MUFACE.
+
+## Artículo 20. Suplencias en Servicios Provinciales, Servicios y Oficinas Delegadas.
+
+1\. Los Directores de los Servicios Provinciales serán suplidos en caso de ausencia, vacante o enfermedad por el Secretario de los respectivos Servicios. En Ceuta y Melilla, la suplencia corresponderá al respectivo Jefe de sección.
+
+2\. Los Jefes de las Oficinas Delegadas serán suplidos, en caso de ausencia, vacante o enfermedad y para el ejercicio de competencias, por el Jefe de unidad de gestión o titular del puesto de trabajo que en cada supuesto designe el Director general de MUFACE.
+
+## Artículo 21. Régimen de contratación.
+
+El régimen de contratación de MUFACE será el establecido en la Ley 9/2017, de 8 de noviembre.
+
+> Se añade por el art. 3.12 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 22. Régimen económico-financiero.
+
+El régimen presupuestario, económico-financiero, de intervención, control financiero y contabilidad será el establecido en la Ley 47/2003, de 26 de noviembre.
+
+El control interno de la gestión económico-financiera del Organismo corresponde a la Intervención General de la Administración del Estado, y se realizará en las condiciones y en los términos establecidos en la Ley 47/2003, de 26 de noviembre, por la Intervención Delegada en el Organismo, bajo la dependencia orgánica y funcional de la Intervención General de la Administración del Estado.
+
+> Se añade por el art. 3.13 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Artículo 23. Régimen de Personal.
+
+El personal funcionario o laboral de la Mutualidad se regirá por lo previsto en el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre y demás normativa sobre función pública y legislación laboral aplicables al resto del personal de la Administración General del Estado.
+
+> Se añade por el art. 3.14 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Disposición adicional primera. Régimen de recursos.
+
+Las resoluciones dictadas en materia de Mutualismo administrativo por el órgano competente de MUFACE no pondrán fin a la vía administrativa, siendo susceptibles de recurso ordinario ante el Ministro de Administraciones Públicas.
+
+## Disposición adicional segunda. Régimen general de los órganos colegiados.
+
+1\. La actuación y funcionamiento de los órganos colegiados regulados en este Real Decreto se sujetarán en cuanto a su constitución y convocatoria a lo expuesto en el mismo. En lo no previsto se aplicarán las normas contenidas en el capítulo II del Título II de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+2\. Los miembros representantes de los funcionarios en los órganos colegiados de MUFACE habrán de tener la condición de mutualistas.
+
+## Disposición adicional tercera. Dietas.
+
+Los miembros de los órganos colegiados de MUFACE podrán percibir las dietas de alojamiento y manutención, así como los gastos de viaje, de conformidad con lo establecido en la normativa vigente sobre indemnizaciones por razón del servicio.
+
+## Disposición adicional cuarta. Supresión de órganos.
+
+Quedan suprimidos los siguientes órganos:
+
+a) Departamento Financiero.
+
+b) Departamento de Prestaciones Básicas.
+
+c) Departamento Económico Actuarial.
+
+## Disposición adicional quinta. Delegación de competencias.
+
+Por el Director general de MUFACE se realizarán las delegaciones de competencias dentro del marco establecido en el presente Real Decreto, y teniendo en cuenta lo previsto en el artículo 13 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## Disposición adicional sexta. Referencias a la denominación.
+
+Todas las referencias a la Mutualidad General de Funcionarios Civiles del Estado se entenderán hechas a la Mutualidad General de Funcionarias y Funcionarios Civiles del Estado.
+
+> Se añade por el art. 3.15 del Real Decreto 466/2026, de 10 de junio. [Ref. BOE-A-2026-12711](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12711)
+
+## Disposición transitoria única. Unidades y puestos de trabajo con rango inferior a Subdirección General.
+
+Las unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General continuarán subsistentes y serán retribuidas con cargo a los mismos presupuestos hasta que se aprueben las correspondientes relaciones de puestos de trabajo de la Mutualidad adaptadas a la estructura orgánica que se aprueba por este Real Decreto. Dicha adaptación en ningún caso podrá generar un incremento de gasto público e, incluso, la posible disminución de coste que pueda suponer la aplicación del presente Real Decreto no podrá ser compensada en reestructuraciones futuras o para financiar modificaciones de relaciones de puestos de trabajo.
+
+Las unidades y puestos de trabajo encuadrados en los órganos suprimidos por este Real Decreto se adscribirán provisionalmente mediante Resolución del Director general de MUFACE, hasta tanto entre en vigor la nueva relación de puestos de trabajo, a los nuevos órganos regulados en este Real Decreto en función de las atribuciones que éstos tienen asignados.
+
+## Disposición derogatoria única. Derogación normativa.
+
+1\. Se derogan las siguientes disposiciones:
+
+El Real Decreto 143/1977, de 21 de enero, por el que se reestructura orgánicamente con carácter definitivo la Mutualidad General de Funcionarios Civiles del Estado.
+
+El Real Decreto 1200/1978, de 12 de mayo, sobre competencias y atribuciones de sus Delegaciones y creación de las Juntas Provinciales y Ministeriales de MUFACE.
+
+El Real Decreto 344/1985, de 6 de marzo, que reestructura los órganos de gobierno, administración y representación de MUFACE.
+
+2\. Asimismo, quedan derogadas las disposiciones de igual o inferior rango en lo que se opongan a este Real Decreto.
+
+## Disposición final primera. Facultades de desarrollo.
+
+Se autoriza al Ministro de Administraciones Públicas para que, previo cumplimiento de los trámites legales oportunos, adopte las medidas que sean necesarias para el desarrollo y ejecución del presente Real Decreto.
+
+## Disposición final segunda. Modificaciones presupuestarias.
+
+Por el Ministerio de Economía y Hacienda se llevarán a cabo las modificaciones presupuestarias precisas para el cumplimiento de lo previsto en este Real Decreto.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 18 de abril de 1997.
+
+JUAN CARLOS R.
+
+El Ministro de Administraciones Públicas,
+
+MARIANO RAJOY BREY

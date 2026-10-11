@@ -1,0 +1,305 @@
+---
+title: "Real Decreto 822/1990, de 22 de junio, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, circulación y comercio del cacao y chocolate"
+identifier: "BOE-A-1990-15103"
+eli: "https://www.boe.es/eli/es/rd/1990/06/22/822"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno"
+date: 1990-06-22
+published: 1990-06-28
+in_force_from: 1990-06-29
+last_amended: 2003-08-05
+consolidated: 2026-04-14
+gazette: "Boletín Oficial del Estado núm. 154"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-15103"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 822/1990, de 22 de junio, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, circulación y comercio del cacao y chocolate
+
+Téngase en cuenta que, a partir del 6 de agosto de 2003, queda derogado el presente Real Decreto, a excepción del título VI, relativo a métodos de análisis, de la Reglamentación técnico-sanitaria, los cuales podrán ser complementados con los métodos de análisis validados internacionalmente o aprobados por el Codex, para verificar el cumplimiento de lo establecido en esta disposición, según determina la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+Para cumplir el mandado de desarrollo del Código Alimentario Español, previsto en el Decreto de Presidencia del Gobierno 2519/1974, de 9 de agosto («Boletín Oficial del Estado» de 13 de septiembre), se dictó el Decreto 3610/1975, de 5 de diciembre («Boletín Oficial del Estado» de 20 de enero de 1976), por el que se aprobaba la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio del cacao, chocolate, productos derivados y sucedáneos del chocolate; dicho Decreto fue modificado por el Real Decreto 2687/1976, de 16 de octubre («Boletín Oficial del Estado» de 26 de noviembre) y, posteriormente, por el Real Decreto 2354/1986, de 10 de octubre («Boletín Oficial del Estado» de 8 de noviembre).
+
+Producido el ingreso del Reino de España en el seno de las Comunidades Europeas, se ha hecho preciso proceder a la armonización de nuestro derecho interno con la normativa comunitaria y, más en concreto, con la Directiva del Consejo 73/241/CEE, de 24 de julio de 1973 («Diario Oficial» núm. L 228/23, de 16 de agosto), modificada, entre otras, por las Directivas 75/155/CEE, de 4 de marzo de 1975 («Diario Oficial» núm. L 64/21, de 11 de marzo; 76/628/CEE, de 20 de julio de 1976 («Diario Oficial» núm. L 223/1, de 16 de agosto); 78/609/CEE, de 29 de junio de 1978 («Diario Oficial» núm. L 197/10, de 22 de julio); 78/842/CEE, de 10 de octubre de 1978 («Diario Oficial» núm. L 291/15, de 17 de octubre); 80/608/CEE, de 30 de junio de 1980 («Diario Oficial» núm. L 170/33, de 3 de julio), y 89/344/CEE, de 3 de mayo de 1989 («Diario Oficial» núm. L 142/19, de 25 de mayo).
+
+Por otra parte, otras Directivas comunitarias han llevado a armonizar también normas técnico-sanitarias españolas, como la del etiquetado y publicidad de los productos envasados y la referente al contenido efectivo.
+
+Al no entrar en el ámbito de aplicación de la Directiva 73/241/CEE todos los productos a los que se aplicaba el Decreto 3610/1975, ha parecido más conveniente recoger en esta Reglamentación técnico-sanitaria lo referente a la elaboración, circulación y comercio del cacao y chocolate, dejando para otra norma distinta todo lo referente a los productos derivados de cacao, de chocolate y sucedáneos de chocolate.
+
+De esta forma, y como tal Reglamentación técnico-sanitaria, esta norma se configura con la estructura habitual de este tipo de disposiciones horizontales de carácter sanitario. Es decir, se recogen no sólo los aspectos previstos en las Directivas citadas, sino que además se recogen otras prescripciones sobre diversos aspectos que afectan a la salud y seguridad de las personas.
+
+Todo ello se realiza sin que lo dispuesto en esta disposición sea obstáculo al principio de la libre circulación de mercancías establecido en los artículos 30 y 36 del Tratado Constitutivo de la Comunidad Económica Europea, así como de las obligaciones derivadas de otros Tratados o Convenios Internacionales.
+
+El presente Real Decreto y la Reglamentación técnico-sanitaria que se adjunta al mismo se aprueba al amparo de lo establecido en el artículo 40.2 de la Ley 14/1986, de 25 de abril, General de Sanidad, en relación con el artículo 2.º del mismo cuerpo legal, y de acuerdo con lo establecido en el artículo 149.1.10.ª y 16.ª de la Constitución Española.
+
+En su virtud, a propuesta de los Ministros de Economía y Hacienda, de Industria y Energía, de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, oídos los sectores afectados, previo informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 22 de junio de 1990,
+
+DISPONGO:
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23083](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23083)
+
+### Artículo único.
+
+Se aprueba la adjunta Reglamentación técnico-sanitaria para la elaboración, circulación y comercio del cacao y chocolate.
+
+### Disposición transitoria primera.
+
+Las prescripciones a que se refieren los epígrafes 2.2, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9. 2.10, 2.11, 2.12, 2.13, 2.14, 2.15, 2.16, 2.17, 2.18, 2.19, 2.20 2.21, 2.22, 2.23, 2.24, 2.25.2, 2.25.3, 2.26, 2.27, todos del artículo 2.º; los párrafos segundo y tercero del epígrafe 3.5, los epígrafes 3.6, 3.8, 3.9, 3.10 y 3.11 del artículo 3.º; el epígrafe 6.10 del artículo 6.º; los epígrafes 9.7, 9.8, 9.9 del artículo 9.º, y el epígrafe 10.1 en su integridad, a excepción de 10.1.4 y 10.2 del artículo 10, no serán exigibles hasta pasados veinticuatro meses, a contar desde la fecha de publicación en el «Boletín Oficial del Estado» del presente Real Decreto y de la Reglamentación técnico-sanitaria aprobada por el mismo.
+
+### Disposición transitoria segunda.
+
+Exclusivamente durante el período al que se refiere la disposición transitoria primera, permanecerán vigentes aquellos preceptos de las disposiciones que se derogan por el presente Real Decreto que hagan referencia a las materias y aspectos concretos afectados por lo dispuesto en la disposición transitoria primera.
+
+### Disposición derogatoria.
+
+Quedan derogados el Decreto 3610/1975, de 5 de diciembre («Boletín Oficial del Estado», de 20 de enero de 1976); el Real Decreto 2687/1976, de 16 de octubre («Boletín Oficial del Estado», de 26 de noviembre); el Real Decreto 2354/1986, de 10 de octubre («Boletín Oficial del Estado», de 8 de noviembre), y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.
+
+### Disposición adicional.
+
+Lo dispuesto en el presente Real Decreto y en la adjunta Reglamentación técnico-sanitaria se dicta al amparo y de conformidad con lo establecido en el artículo 149.1,10.ª y 16.ª de la Constitución.
+
+### Disposición final.
+
+El presente Real Decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 22 de junio de 1990.
+
+JUAN CARLOS R.
+
+El Ministro de Relaciones con las Cortes
+
+y de la Secretaría del Gobierno,
+
+VIRGILIO ZAPATERO GÓMEZ
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA PARA LA ELABORACIÓN, CIRCULACIÓN Y COMERCIO DEL CACAO Y CHOCOLATE
+
+## TÍTULO PRELIMINAR — Ámbito de aplicación
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+### Artículo 1.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+## TÍTULO PRIMERO — Definiciones y denominaciones
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+### Artículo 2.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23083](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23083)
+
+## TÍTULO II — Manipulaciones permitidas y prohibidas
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+### Artículo 3. Manipulaciones permitidas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+> Se derogan los apartados 3.2 y 3.5 por la disposición derogatoria única.5 del Real Decreto 145/1997, de 31 de enero. [Ref. BOE-A-1997-6156](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-6156)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23083](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23083)
+
+### Artículo 4. Manipulaciones prohibidas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23083](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23083)
+
+## TÍTULO III — Condiciones de las industrias, de los materiales y del personal
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+### Artículo 5. Requisitos industriales.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+### Artículo 6. Requisitos higiénicos-sanitarios.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+### Artículo 7. Condiciones del personal.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+### Artículo 8. Condiciones generales de los materiales.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+## TÍTULO IV — Envasado, etiquetado y rotulación
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+### Artículo 9. Envasado.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23083](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23083)
+
+### Artículo 10. Etiquetado y rotulación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23083](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23083)
+
+## TÍTULO V — Exportación e importación
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+### Artículo 11. Exportación e importación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1055/2003, de 1 de agosto. [Ref. BOE-A-2003-15599](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15599)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23083](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23083)
+
+## TÍTULO VI — Métodos de análisis
+
+### Artículo 12.
+
+12.1 A los productos contemplados en la presente Reglamentación les serán aplicables como Métodos Oficiales de Análisis los recogidos en el anexo de la presente Reglamentación.
+
+12.2 A la manteca de cacao le serán aplicables los índices analíticos que figuran en el anexo de la presente Reglamentación.
+
+12.3 Los Ministros proponentes quedan autorizados para que, mediante Orden ministerial y previo informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria, puedan modificar estos Métodos Oficiales de Análisis.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23083](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23083)
+
+## ANEXO
+
+1\. Métodos de análisis:
+
+a) Examen organoléptico, según Norma OICC 2/1963.
+
+b) Humedad, según Norma OICC 3/1952.
+
+c) Cenizas, según Norma OICC 4 a/1973.
+
+d) Nitrógeno total (proteínas), según Norma OICC 6 a/1972.
+
+e) Proteínas de leche, según Norma OICC 6 b/1963.
+
+f) Grasa total, según Norma OICC 8 a/1972.
+
+g) Lecitina, según Norma AOAC 13049/1975.
+
+h) Lactosa, según Norma OICC c/1960.
+
+i) Sacarosa, según Norma OICC 7 b/1960.
+
+j) Extracción de la grasa, según Norma AOAC 13037/1975.
+
+k) Índice de yodo, según Norma UNE 55.013.
+
+l) Índice de refracción, según Norma UNE 55.015.
+
+m) Residuo insaponificable al éter de petróleo, según Norma UNE 55.004.
+
+n) Composición de ácidos grasos por cromatografia gaseosa, según Norma UNE 55.037.
+
+ñ) Análisis de esteroles por cromatografia gaseosa, según Norma UNE 55.019.
+
+o) Presencia de isómeros trans por espectroscopia infrarroja, según Norma UNE 55.112.
+
+2\. Se consideran análisis normales de mantecas de cacao, y por tanto mantecas de cacao no adulteradas, en relación con los contenidos grasos aquellas que respondan a los siguientes valores:
+
+Análisis normales de manteca de cacao en relación con los contenidos y tipos de grasas.
+
+Índice de yodo: 32-41.
+
+Índice de refracción: 1,456-1,458.
+
+Residuo insaponificable: 1.
+
+Composición de ácidos grasos:
+
+\* (porcentaje en masa de ésteres metilicos):
+
+Butírico (C<sub>4</sub>): –.
+
+Caproico (C<sub>6</sub>): –.
+
+Caprilico (C<sub>8</sub>): –.
+
+Cáprico (C<sub>10</sub>) **: –.
+
+Láurico (C<sub>12</sub>) ** 0,0-0,1.
+
+Mirístico (C<sub>14</sub>) **: 0,0-0,3.
+
+Palmítico (C<sub>16</sub>): 23,0-30,0.
+
+Palmitoleico (C<sub>16</sub> =): 0,0-1,0.
+
+Heptadecanoico (C<sub>17</sub>): 0,0-0,5.
+
+Esteárico (C<sub>18</sub>): 30,0-37,0.
+
+Oleico (C<sub>18</sub> =): 31,0-39,0.
+
+Linoleico (C<sub>18</sub>2 =): 1,5-4,5.
+
+Linolénico (C<sub>18</sub>3 =): 0,0-0,3
+
+Aráquico (C<sub>20</sub>): 0,0-1,5.
+
+Relaciones de ácidos grasos:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pPk08L21pPgogICAgICAgICAgICA8bWk+aTwvbWk+CiAgICAgICAgICAgIDxtaT5yPC9taT4KICAgICAgICAgICAgPG1pPiYjeEVEOzwvbWk+CiAgICAgICAgICAgIDxtaT5zPC9taT4KICAgICAgICAgICAgPG1pPnQ8L21pPgogICAgICAgICAgICA8bWk+aTwvbWk+CiAgICAgICAgICAgIDxtaT5jPC9taT4KICAgICAgICAgICAgPG1pIHN0eWxlPSJtYXJnaW4tcmlnaHQ6M3B4OyI+bzwvbWk+CiAgICAgICAgICAgIDxtaT48L21pPgogICAgICAgICAgICA8bWZlbmNlZCBzZXBhcmF0b3JzPSJ8Ij4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5DPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtbj4xNDwvbW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbWZlbmNlZD4KICAgICAgICAgICAgPG1pPio8L21pPgogICAgICAgICAgICA8bWk+KjwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+TDwvbWk+CiAgICAgICAgICAgIDxtaT4mI3hFMTs8L21pPgogICAgICAgICAgICA8bWk+dTwvbWk+CiAgICAgICAgICAgIDxtaT5yPC9taT4KICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICA8bWk+YzwvbWk+CiAgICAgICAgICAgIDxtaSBzdHlsZT0ibWFyZ2luLXJpZ2h0OjRweDsiPm88L21pPgogICAgICAgICAgICA8bWk+PC9taT4KICAgICAgICAgICAgPG1mZW5jZWQgc2VwYXJhdG9ycz0ifCI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWk+QzwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bW4+MTI8L21uPgogICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgPC9tc3ViPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21mZW5jZWQ+CiAgICAgICAgICAgIDxtaT4qPC9taT4KICAgICAgICAgICAgPG1pPio8L21pPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CiAgICA8bW8+LTwvbW8+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAAAuCAYAAABJXNnBAAAFK0lEQVR4nO2c0ZGzOgyFTy3UQSFUQim83jZSDL3kPiSaKIqO7IAxbH59M8xswNhGlizZoAWSJEkMw4+314wJwF0dU1B2NGVnc315nt8rjLmiL1to1b8tTABWPGTIsPLVx21Dm7fK++Zn3/aWaQ5TNK8M65woUyT4Ei3qOKPuUrtLcH3AS7a2b9LnaFwiRviKOag+6TKTOl9T5jBGPBTtHjS2PDsVldlLafBqGXCCVRNEttH1yNCBh9z3eA1PrqLsi/pt+1JT5jBm1QHPqsZnx8T9tXarwEORts4GGhFai7pasILLS8+QERP2hxwsbJHwbQV39TVlmiMNMQsQoa3wBajjUm+mG/FpcbaeUh3A+yAu6j79HDoOW1WZUt32/kj4C97bYeGAtMsUSto7wsi9trxnX57te2PyTZmmDHgNwIpPpZQOiWJ5g6U7bAdAAmQZPD2gY2Udgg7cvQGX2dZT+KhuazSAryxiFFoG0eJpAXdzelHTA+mnIPKTWVg8i2fMUZlDkAEDXparr9nZjbnFG8oDMCGeFaI6gE/34fWFrThZ3aJoWiG9EMBTSOB94Lz+lhaFvdyhNUptRBPpR02ZQ1jwmrGs1WsFFYVlrqpmkVRaxJTcqyhLtHpmhsPqtobIkHJ2RtyqlCLrLQs7Fn9P5DwQ7zzUuOVurht4F5ru+A3vDxC5Gj0TsjZKD1Sqw/YxcsNW8Kxub5b0iMpF7jtyc1t3MqKtu8iTHbX32xyJ8QTtUjx3xgQYKUrtwEeWOJq6mSu2cVOpf9EsV1suerYa971lplzwqXw3ct6213uP9mtmvAtar1I1pa2g6M2B1FkSRqkO3TZTshXcRbMFGptBNWxAmRHUXK/ZDhrIdat8sn9Yo5SXx772Yu5P3C9bFYvb8N4eRCtQrw4voLavuLyZUgZQ4io9OKx/3uJFNt61onoLn8ht2/tYGb3/Z7HPrNHKp+PLSClrXzmehn3f7b1WAj73/dhqcSXXvo3ZWNnZlPEsXm+x2IFh/bP3RTEgk1mJ1emPxco4ig2Bd+Wz21Psvj/hupM+lF4zbkGUj33A4W1bbYldkx/GhhN7YTOid/5K3wEkF8MuKrcioYg3I3pKmQqZhOgXFT1IhUySJPkZ/ssjj8bHbs5+gDx+77DY703vyD3SJEmS5PJkfveB2Pe9cnwrhJ7f8tV8KHEkmd/didJXQhG9v+M787vBGZnf3QWWm1JDaZB+iczv7shWC26Vx/1XyPzujpQSxkr3iQV6MaXnalk+TSl3/Kzcbt125nd3osbCNZ67974U18qh8VIIJPgW5dAKI8pyVm63XM/87k6UEsY8vBloIXV4q0Y2g9Xkjp+R2w1kfndXvt3KYbnRLN6ySjE554QF5dxxZkBH5nYDffK7bToIm7Wj3Ycat3x51/3NVhDLx5Hztg4vSW11ztlrjLNyu4HYzbXK79azV7SX2HNPuDsySFFMMeGlQFEaKsvWu5vfbEarUSwWTx6d2w0cn9894PN/JjEDPXOf9nBkkEorWcGbTWT28mIUHU+OeFm/Pmf7Egn6rNzuUpmW+d0C2ygH/oD73YMI2hPK4FyzM5UITsrZ5Ck5L//1Tddp0wai1a2tr3dut773yPxuew8z0Mvnd2/BBtTRYQdBX7uZurxVrh4ovXUyOWVL7u/M3G5pv/SywJNhdA/LTozu+VnXnXzPkfndmlKM/6+81k0qsSHKXqxSWoW0HuVyG93JNZjRPr9b/60Pu52WJBS7UDuaVMgkSZIkSXrxP7KY02ITIkppAAAAAElFTkSuQmCC)
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pPkw8L21pPgogICAgICAgICAgICA8bWk+JiN4RTE7PC9taT4KICAgICAgICAgICAgPG1pPnU8L21pPgogICAgICAgICAgICA8bWk+cjwvbWk+CiAgICAgICAgICAgIDxtaT5pPC9taT4KICAgICAgICAgICAgPG1pPmM8L21pPgogICAgICAgICAgICA8bWkgc3R5bGU9Im1hcmdpbi1yaWdodDo0cHg7Ij5vPC9taT4KICAgICAgICAgICAgPG1pPjwvbWk+CiAgICAgICAgICAgIDxtZmVuY2VkIHNlcGFyYXRvcnM9InwiPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pPkM8L21pPgogICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1uPjEyPC9tbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tZmVuY2VkPgogICAgICAgICAgICA8bWk+KjwvbWk+CiAgICAgICAgICAgIDxtaT4qPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaT5DPC9taT4KICAgICAgICAgICAgPG1pPiYjeEUxOzwvbWk+CiAgICAgICAgICAgIDxtaT5wPC9taT4KICAgICAgICAgICAgPG1pPnI8L21pPgogICAgICAgICAgICA8bWk+aTwvbWk+CiAgICAgICAgICAgIDxtaT5jPC9taT4KICAgICAgICAgICAgPG1pIHN0eWxlPSJtYXJnaW4tcmlnaHQ6NHB4OyI+bzwvbWk+CiAgICAgICAgICAgIDxtaT48L21pPgogICAgICAgICAgICA8bWZlbmNlZCBzZXBhcmF0b3JzPSJ8Ij4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5DPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtbj4xMDwvbW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbWZlbmNlZD4KICAgICAgICAgICAgPG1pPio8L21pPgogICAgICAgICAgICA8bWk+KjwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KICAgIDxtbz4tPC9tbz4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJoAAAAuCAYAAADQpAB0AAAEdUlEQVR4nO2b0bGsMAiG/1qsw0KsxFLyetuwGHvZ+7KMLAcIibquu3wzzpzjoomEAIkCJElyS4Yvb+9wJgAP5Wh9sPl53XRo73QK+vp4FBOAFcDoyIzQ9foAsHS0uQSvm5992ytzGiv6B4+MzFP8kby7Pdl2cX4fsBmU7B/1e+5se4RubAPrE5eZ2PmIzOmQcnpmWk3x38QI3xOQF/NkFuzz+pq+yYAL+1/2JSJzOr0zbei45s6ssI2EezKPCftDvhV5KA1aYTuNiMxpLOgLRXQdzRQtR9PC3GjI0nk+6/jA8XzS86K8X54yC5OrPT+1bRkJtfmOHHWB/vzl2b7UW6vMaURmIkcLtQv+umA+4JyinKMElQacGwEZAFeQNuDSUAF98LX+1xYYBXaI4Yn/O5D6o0lA3pKiDA+LEZlT0QanhuYpinEPbbVkeRru6SzPoBk0sBkP7wPdb1bkZPt8IDRWo11gM/53hSI52fjkmIx+RGROpXVbgryUnPlW/iIHelLOEQV2WOD3sww64lGs/u8xNPIwPYsi7l14nud5V2/VHQmJl4TNlm0NzWvw8/Ie5FG4QlblnPzNwsrtrH5JPLla6PRCDBlvq6GRQZGhcS/j7XW9c8/yEEjxXoyesBmFNZOs/EXOnBm254kYi5Wf1bxRRK7WdiR09ni08rx+wOtzkT689q7YR+yCFF9bwRHarCcvo8V8np+N2GYpPyf74inP2h23DEgapDdRaqHEk4lsbViGQ4YmsTZngYtC3x5IedqDDspv0qOQMkhuFvJ0fnjK8XsWvA64t6qT95ODoCX4A/7mjdriIPo6a6zI8f0piRcGLUOj59SIvo66HJl0eodULP9tEffSVndc+XwbYFJka6GHcjhvxSrblMh3uy3hbkV9g1rToXeNZmi1jfBbhc2kndorqB40Q6vlzL/yyu+nkenBXqShSSOTnv+yry6S9zPjmK0FSgUe4m9+yK2h5MeQi5mzSSNLkiS5hH955BE4dnP1A+Rxj0Miv9t7IPfxkiRJki6ytrORvTWIV3wfFX0ZfhZZ29nAETWIV30bdeU3WbUSw6ztZBxRg1hT+DeStZ0NHFGD+Gs1nUTWdjZwRA1ipKYTeP3+i5fLWXlK1nbG+Pjazr01iNGaToI+qyHDIC9IAzwK2aztjCE/Lf+42k4apF6XqV1bEPMufLCtsrus7YwhJ9vH1XbSTOhJ4ltrOgnNoKwtkYLfru3k9/JCubfqjoTE0wtcemsQW2s6CSuv8YzWU8C313bO2DyNp9sr9i6bkEvc1uuiNZ3e7zWj9fpm5WffUNtJbUzGb1p7H/tyu7cGUZvtXk0noVUOWV4razv1BZL2vKeHviPoqUGUnqRW0wlsiuWD74XGmncEa+8bazu1UGkZ2m1qO4HX/SOZK9TkvZpOgoeT2v2ztnO7NuLRPjpsvptbzbogZ9d2RnK0rO0U1GbyXdHShD1wY6qtOrO2k8FfM/WuxD6dGcfXdpKB8VRDtpFG9oMUZG1nkiRJkiT9/AdyYaSBqKYRcwAAAABJRU5ErkJggg==)
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pPk88L21pPgogICAgICAgICAgICA8bWk+bDwvbWk+CiAgICAgICAgICAgIDxtaT5lPC9taT4KICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICA8bWk+YzwvbWk+CiAgICAgICAgICAgIDxtaSBzdHlsZT0ibWFyZ2luLXJpZ2h0OjRweDsiPm88L21pPgogICAgICAgICAgICA8bWk+PC9taT4KICAgICAgICAgICAgPG1mZW5jZWQgc2VwYXJhdG9ycz0ifCI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWk+QzwvbWk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bW4+MTg8L21uPgogICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgPC9tc3ViPgogICAgICAgICAgICAgICAgICAgIDxtbz49PC9tbz4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tZmVuY2VkPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pPkU8L21pPgogICAgICAgICAgICA8bWk+czwvbWk+CiAgICAgICAgICAgIDxtaT50PC9taT4KICAgICAgICAgICAgPG1pPmU8L21pPgogICAgICAgICAgICA8bWk+JiN4RTE7PC9taT4KICAgICAgICAgICAgPG1pPnI8L21pPgogICAgICAgICAgICA8bWk+aTwvbWk+CiAgICAgICAgICAgIDxtaT5jPC9taT4KICAgICAgICAgICAgPG1pIHN0eWxlPSJib3JkZXItcmlnaHQ6MHB4O21hcmdpbi1yaWdodDo0cHg7Ij5vPC9taT4KICAgICAgICAgICAgPG1pPjwvbWk+CiAgICAgICAgICAgIDxtZmVuY2VkIHNlcGFyYXRvcnM9InwiPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pPkM8L21pPgogICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1uPjE4PC9tbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tZmVuY2VkPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CiAgICA8bW4gc3R5bGU9Im1hcmdpbi1sZWZ0OjRweDsiPjAsODwvbW4+CiAgICA8bW8+LTwvbW8+CiAgICA8bW4+MSwzPC9tbj4KPC9tYXRoPg==](https://www.boe.es/data:image/png;base64,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)
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pPlA8L21pPgogICAgICAgICAgICA8bWk+YTwvbWk+CiAgICAgICAgICAgIDxtaT5sPC9taT4KICAgICAgICAgICAgPG1pPm08L21pPgogICAgICAgICAgICA8bWk+JiN4RUQ7PC9taT4KICAgICAgICAgICAgPG1pPnQ8L21pPgogICAgICAgICAgICA8bWk+aTwvbWk+CiAgICAgICAgICAgIDxtaT5jPC9taT4KICAgICAgICAgICAgPG1pPm88L21pPgogICAgICAgICAgICA8bWk+PC9taT4KICAgICAgICAgICAgPG1mZW5jZWQgc3R5bGU9Im1hcmdpbi1sZWZ0OjRweDsiIHNlcGFyYXRvcnM9InwiPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pPkM8L21pPgogICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1uPjE2PC9tbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgIDwvbXN1Yj4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tZmVuY2VkPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pPk88L21pPgogICAgICAgICAgICA8bWk+bDwvbWk+CiAgICAgICAgICAgIDxtaT5lPC9taT4KICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICA8bWk+YzwvbWk+CiAgICAgICAgICAgIDxtaT5vPC9taT4KICAgICAgICAgICAgPG1pPjwvbWk+CiAgICAgICAgICAgIDxtZmVuY2VkIHN0eWxlPSJtYXJnaW4tbGVmdDo3cHg7IiBzZXBhcmF0b3JzPSJ8Ij4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5DPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtbj4xODwvbW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgICAgICAgICAgPG1vPj08L21vPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21mZW5jZWQ+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KICAgIDxtbiBzdHlsZT0ibWFyZ2luLWxlZnQ6NHB4OyI+MCw1PC9tbj4KICAgIDxtbz4tPC9tbz4KICAgIDxtbj4wLDk8L21uPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,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)
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pPk88L21pPgogICAgICAgICAgICA8bWk+bDwvbWk+CiAgICAgICAgICAgIDxtaT5lPC9taT4KICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICA8bWk+YzwvbWk+CiAgICAgICAgICAgIDxtaT5vPC9taT4KICAgICAgICAgICAgPG1pPjwvbWk+CiAgICAgICAgICAgIDxtZmVuY2VkIHN0eWxlPSJtYXJnaW4tbGVmdDo0cHg7IiBzZXBhcmF0b3JzPSJ8Ij4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5DPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtbj4xODwvbW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbWZlbmNlZD4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaT5MPC9taT4KICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICA8bWk+bjwvbWk+CiAgICAgICAgICAgIDxtaT5vPC9taT4KICAgICAgICAgICAgPG1pPmw8L21pPgogICAgICAgICAgICA8bWk+JiN4RTk7PC9taT4KICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICA8bWk+YzwvbWk+CiAgICAgICAgICAgIDxtaT5vPC9taT4KICAgICAgICAgICAgPG1pPjwvbWk+CiAgICAgICAgICAgIDxtZmVuY2VkIHN0eWxlPSJtYXJnaW4tbGVmdDo0cHg7IiBzZXBhcmF0b3JzPSJ8Ij4KICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5DPC9taT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtbj4xODwvbW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgICAgICAgICAgPG1pPjwvbWk+CiAgICAgICAgICAgICAgICAgICAgPG1uPjI8L21uPgogICAgICAgICAgICAgICAgICAgIDxtbz49PC9tbz4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tZmVuY2VkPgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CiAgICA8bW8+LTwvbW8+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALMAAAAuCAYAAABj7ChuAAAEfklEQVR4nO2c25GrMBBEOxbicCBEQij83jQIhlx8P3anmJVn9EJI2O5TRdUuFghDazSScAOEkFuxAHgCWEdfyAmmD62L4EecetuccuvvZ08Aj8q61t/jRz3kGcCO+PU/8HpPUvfGY6s4hlSwwxam7LdYIp/lIMfXNoYzLIj3KBMO0YbXJ9e9VNT7AAV9KfLQLCQyWQ/+XSPNAz+NNPb5M1Fmw09kryHVkEglXkQWJEJZD7Y2Oo1mhy9EHZFjzDiXHo1Mrz6SnAGc93BnpFMEOX94/Kz2xerekJefrvhbT+yapG5PSFJnbdTNZQOjczO0SGMRQgtPsxr7NPoYqUtENuMQulW3ldpYApPzaqGnBpUr/PRBD/auJnX/SAEiplTOuzrldviRJRSElaNuxj7gEKg+t4hsMcqF1yWNz4usu1MvkH9PWhBrzKQQ6U5TOa8IU4tjMvYJq/GZl297g8qciCXlQjGcEbNce033P+G4l+F0nsXImZyPIyc3FGGED9/LO8P8enLKycP20oaUmGLlUmlGbJZC7kmpmOU7i5h3Vf/snE/EfHVu/hXkiNkbUHl5p46KMdF4XWwqquaUS4kxJ82oicwrDjGHKZaVtjAyNyQ18R9b3dP5sj4+V4ze/LR3fCh6Twg5g6pYmZxpucn5XItZR2NPrGcXnEiAzDGHYonNcuh8Wbbws1CooUClEYVRyzp+wuu8sDUgzF0afyTKxXqVxdkv9VsN2xtMvuuC060J52hTgtCDG6s71lN5XpSTRmQ9zHDw5IknrKckNdiRP/DVW+wYLeZVXY+XMzPFIE1ILWfX4OXM1v+ewAmpYkHbpXgRc7hAFDacCe0bEiFY0GZqTNImSZ3CVOkRlCXkElb0y10pZEIIIR35x43bTbbTjP4C3LjJFmKtP3BenBBCSAfol/F+dP++1nsNz8SF9PaeKPHL8N47/ja/DODvG3my9XyXediLTd7bbBYj3ovNeX1RHp61ZPxtfhnWEvYZ741aunt2eK9R3olUK7/iRZ4WjPLLkHc2rHOlgkJrunp2jGixpaSu76659Ci/DK8HGpVudaszNx+NeU/ofE/OsztlNTn+E/TLaMcou4Funh050QGIe09IGiDdpZRJ/bw/x3+Cfhnt2JFv9ZC75UTcLo0o5utm4YkTOFIBfbMsr4tS/wn6ZbQh1VNcSRfPjtKfn3vCFxHIu7WA73VR4j9Bv4xXSv0yhN4pjabLbFLJlJznPQHYg0grEpT6T9Av4/Wc+j7n+GVIfSMH+Jd7dsTcNoUZR2uKdRVWV27ljKX+E/TLeKXUL6N08HVFznx5ZJYHlRrl67+9HC+Myt6+Uv8J+mXY5831y9C/2h7J5Z4dcrOt7sdaTZP/wwhgTZ091D79Q84S/wn6ZdhoMevzhPdiNfYJW+S6ruCypW1rzT6nC/G8J6yBlK4jbCy5/hP0y7DRYtaRV0dpPW9ubb2X9UfUSRoz2i/jDtCz44PQaVYLRMwpv4w7QM+OD2RBf7+MO0Ahfygr7ie2K6GQCSGEEPJu/AfI3LeGGiK7sgAAAABJRU5ErkJggg==)
+
+Notas al cuadro de valores:
+
+\* Con respecto a la composición en ácidos grasos, sólo se señalan los ácidos de interés en este caso, con fines de control (pueden existir trazas de C<sub>13</sub>, C<sub>15</sub>, C<sub>20</sub> y C<sub>22</sub>).
+
+** Para cuantificar los ácidos C<sub>10</sub>, C<sub>12</sub> y C<sub>14</sub> se puede utilizar alternativamente integrador electrónico o efectuar la medida con el método de altura por tiempo de retención.
+
+Determinación de isómeros trans: Ausencia.
+
+Intervalos para la composición de esteroles:
+
+Colesterol: 0,0-2,5.
+
+Campesterol: 7-11.
+
+Stigmasterol: 22-32.
+
+Beta-Sitosterol: 55-70.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. [Ref. BOE-A-1990-23083](https://www.boe.es/buscar/doc.php?id=BOE-A-1990-23083)
